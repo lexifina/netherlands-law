@@ -8,4 +8,4 @@
 7. Indien een instellingsbestuur binnen de termijn, bedoeld in het tweede lid, een aanvraag om accreditatie heeft ingediend, is, in afwijking van het zesde lid, de vervaldatum van de accreditatie verlengd tot het moment dat onherroepelijk op de aanvraag om accreditatie is beslist indien:
 a. het accreditatieorgaan de termijn, bedoeld in het vierde lid, heeft overschreden, of
 b. op de vervaldatum nog niet onherroepelijk op de aanvraag om accreditatie is beslist.
-8. De instelling is het accreditatieorgaan een vergoeding verschuldigd van de kosten van de aanvraag om accreditatie overeenkomstig een door hem vast te stellen tarief.
+8. De instelling is het accreditatieorgaan een vergoeding verschuldigd van de kosten van de aanvraag om accreditatie overeenkomstig een door Onze minister, na overleg met het accreditatieorgaan, vast te stellen tarief.

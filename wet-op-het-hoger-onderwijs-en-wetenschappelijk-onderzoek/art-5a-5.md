@@ -1,2 +1,2 @@
-# Artikel 5a.5. Bestuursreglement
-Het accreditatieorgaan stelt een bestuursreglement vast. Het bestuursreglement en elke wijziging daarvan behoeven de goedkeuring van Onze minister. De goedkeuring kan worden onthouden wegens strijd met het recht of het algemeen belang.
+# Artikel 5a.5. Personeel
+Op het personeel in dienst van het accreditatieorgaan, zijn de rechtspositieregels die gelden voor de ambtenaren die zijn aangesteld bij ministeries, van overeenkomstige toepassing. De in die regels neergelegde bevoegdheden, met uitzondering van de aan Ons dan wel de aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties toegekende bevoegdheden tot het stellen van regels, worden uitgeoefend door het accreditatieorgaan. Voorzover in die regels is bepaald dat bevoegdheden worden uitgeoefend met medebetrokkenheid van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, worden deze bevoegdheden uitgeoefend met medebetrokkenheid van Onze minister.
