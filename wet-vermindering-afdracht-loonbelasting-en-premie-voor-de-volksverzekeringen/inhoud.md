@@ -2,7 +2,6 @@
 ## Hoofdstuk I. Algemeen
 ## Hoofdstuk II. Verminderingen af te dragen loonbelasting en premie voor de volksverzekeringen
 ## Hoofdstuk III. Afdrachtvermindering lage lonen
-## Hoofdstuk IV. Afdrachtvermindering langdurig werklozen
 ## Hoofdstuk V. Afdrachtvermindering onderwijs
 ## Hoofdstuk VA. Afdrachtvermindering scholing
 ## Hoofdstuk VI. Afdrachtvermindering kinderopvang
