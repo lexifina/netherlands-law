@@ -1,0 +1,2 @@
+# Artikel I
+De Overeenkomstsluitende Partijen verbinden zich tot het organiseren van culturele uitwisselingen tussen Venezuela en de Nederlandse Antillen op het gebied van onderwijs, letteren, wetenschappen, kunst en sport, en verbinden zich in het bijzonder tot het bevorderen van alle initiatieven en activiteiten, die beogen een beter inzicht in de taal, de geschiedenis, de geografie en de cultuur van het andere land te verschaffen.
