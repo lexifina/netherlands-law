@@ -1,0 +1,2 @@
+# Artikel II
+Op de buitenlandse leraar in dienst van een openbare of uit openbare kas bekostigde bijzondere basisschool of speciale school voor basisonderwijs, van wie de bezoldiging door Onze Minister van Onderwijs en Wetenschappen wordt vergoed, zijn de bepalingen van hoofdstuk I-H ten aanzien van de belanghebbenden werkzaam bij het basisonderwijs, van het Rechtspositiebesluit onderwijspersoneel van overeenkomstige toepassing.
