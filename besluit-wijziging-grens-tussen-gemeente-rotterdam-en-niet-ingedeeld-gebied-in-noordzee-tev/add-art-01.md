@@ -1,0 +1,2 @@
+# Artikel I
+Met ingang van 1 januari volgend op de datum van inwerkingtreding van dit besluit wordt het niet provinciaal ingedeelde gebied in de Noordzee, aangegeven op de bij dit besluit behorende kaart, toegevoegd aan de gemeente Rotterdam en ingedeeld bij de provincie Zuid-Holland, waarbij de grens van de gemeente Rotterdam, tevens grens van de provincie Zuid-Holland, wordt gewijzigd zoals aangegeven op de bij dit besluit behorende kaart.
