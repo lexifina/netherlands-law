@@ -1,0 +1,5 @@
+# Artikel 162a. Voortijdige schoolverlater
+1. Onder een voortijdige schoolverlater in de zin van deze afdeling wordt verstaan degene op wie artikel 47a, eerste lid onder a en b, van toepassing is en
+a. die het onderwijs aan de school waaraan hij is ingeschreven gedurende een aaneengesloten periode van ten minste een maand of een door het bevoegd gezag te bepalen kortere periode zonder geldige reden niet meer volgt, of
+b. die niet meer aan een school is ingeschreven en evenmin is ingeschreven aan een school als bedoeld in de Wet op het voortgezet onderwijs dan wel aan een instelling als bedoeld in de Wet educatie en beroepsonderwijs.
+2. Voor zover nodig in afwijking van het eerste lid wordt onder een voortijdig schoolverlater niet verstaan degene die in het bezit is van een getuigschrift van het praktijkonderwijs als bedoeld in artikel 10f van de Wet op het voortgezet onderwijs dan wel een diploma van een opleiding als bedoeld in artikel 7.2.2, eerste lid onderdeel a, van de Wet educatie en beroepsonderwijs en werkzaam is op grond van een aanstelling of arbeidsovereenkomst.
