@@ -1,3 +1,0 @@
-# Artikel II
-1. Tot twee dagen na inwerkingtreding van deze regeling wordt het vervoer van varkens, bedoeld in artikel 1.2a, eerste en tweede lid, van de Regeling compartimentering Nederland mond- en klauwzeer 2001 door de exploitant van het A-bedrijf of het B-bedrijf voorafgaand schriftelijk gemeld door middel van een formulier als bedoeld in bijlage II van de Regeling compartimentering Nederland mond- en klauwzeer 2001 aan de directeur van de Rijksdienst voor de keuring van Vee en Vlees.
-2. Tot twee dagen na inwerkingtreding van deze regeling zijn de artikelen 16 en 17 van de Regeling varkensleveringen niet van toepassing op het vervoer van varkens, bedoeld in artikel 1.2a, eerste en tweede lid, van de Regeling compartimentering Nederland mond- en klauwzeer 2001.
