@@ -1,0 +1,3 @@
+# ARTIKEL VIII
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van ARTIKEL I, onderdelen P en AE, die in werking treden met ingang van 1 januari 1998 en van ARTIKEL VII, dat in werking treedt met ingang van 1 juli 1997. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 1 juli 1997, treedt ARTIKEL VI in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wordt geplaatst, en werkt terug tot 1 juli 1997.
+2. Artikel VI vervalt anderhalf jaar na het tijdstip waarop deze wet in werking treedt.
