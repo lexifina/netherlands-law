@@ -1,0 +1,11 @@
+# Artikel II
+In verband met een project verbindt de Regering van de Volksrepubliek Bangladesh zich ertoe:
+a de leden van het Nederlandse personeel vrij te stellen van betaling van inkomstenbelasting met betrekking tot alle hun door de Nederlandse Regering betaalde vergoedingen;
+b. de leden van het Nederlandse personeel de voorrechten te verlenen van belastingvrije invoer van huishoudelijke artikelen en persoonlijke bezittingen, zoals bepaald in de desbetreffende wetten, regelingen en voorschriften van de Volksrepubliek Bangladesh, als van tijd tot tijd gewijzigd, met inbegrip van de. invoer van beroepsuitrusting, binnen zes maanden na hun aankomst, mits deze goederen weer uit Bangladesh worden uitgevoerd na afloop van hun tewerkstelling, evenwel met dien verstande, dat nadien in de desbetreffende Bengaalse regelingen aangebrachte wijzigingen slechts van toepassing zijn op die projecten waarmede daarna wordt begonnen;
+c. de invoer te regelen, vrij van rechten, of de aankoop uit entrepot van één motorvoertuig door het Nederlandse personeel binnen zes maanden na eerste aankomst in Bangladesh, mits over dit motorvoertuig, indien het wordt verkocht aan iemand die niet dezelfde voorrechten geniet, passende invoerrechten worden betaald, op basis van de geschatte waarde van het voertuig op het tijdstip van de verkoop;
+d. de kosteloze verschaffing van inreisvisa en werkvergunningen te regelen aan het door de Nederlandse Regering bij het project te werk gestelde of te werk te stellen Nederlandse personeel;
+e. het Nederlandse personeel of de gezinsleden daarvan vrij te stellen van nationale dienstplicht;
+f. de leden van het Nederlandse personeel, voor zover het al hun Nederlandse vergoedingen betreft, de gunstigste wisselfaciliteiten te verlenen, te weten rekeningen voor niet-ingezetenen;
+g. de leden van het Nederlandse personeel en hun gezinnen in Bangladesh repatriëringsfaciliteiten te bieden in tijden van nationale of internationale crises;
+h. de leden van het Nederlandse personeel te vrijwaren tegen rechtsvervolging op grond van enig gesproken of geschreven woord of van enig handelen in hun officiële hoedanigheid;
+i. de leden van het Nederlandse personeel identiteitspapieren te verschaffen ten einde hen te verzekeren van de volledige bijstand van de desbetreffende Bengaalse autoriteiten bij de uitvoering van hun taken.
