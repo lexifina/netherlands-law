@@ -1,0 +1,2 @@
+# Article IX. Patents
+The recipient Party shall use the classified information communicated, or revealed by equipment transferred hereunder, for the purposes specified herein only. Any inventions or discoveries resulting from possession of such information on the part of the recipient Party or persons under its jurisdiction shall be made available to the other Party for all purposes without charge in accordance with such arrangements as may be agreed and shall be safeguarded in accordance with the provisions of Article V of this Agreement.

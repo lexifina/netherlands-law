@@ -1,0 +1,8 @@
+# Article X. Definitions
+For the purposes of this Agreement:
+A. „Atomic weapon" means any device utilizing atomic energy, exclusive of the means for transporting or propelling the device (where such means is a separable and divisible part of the device), the principal purpose of which is for use as, or for development of, a weapon, a weapon prototype, or a weapon test device.
+B. „Classified information" means information, data, materials, services, or any other matter with the security designation of „Confidential" or higher applied under the legislation or regulations of either the United States or the Netherlands, including that designated by the Government of the United States as „Restricted Data" or „Formerly Restricted Data" and that designated by the Government of the Netherlands as „Atomic".
+C. „Non-nuclear parts of atomic weapons" means parts of atomic weapons which are specially designed for them and are not in general use in other end products and which are not made of, in whole or in part, special nuclear material; and „non-nuclear parts of atomic weapons systems involving Restricted Data" means parts of atomic weapons systems, other than non-nuclear parts of atomic weapons, which contain or reveal atomic information and which are not made of, in whole or in part, special nuclear material.
+D. As used in this Agreement, the term „atomic information" means:
+1. So far as concerns information provided by the Government of the United States, information which is designated „Restricted Data" arid „Formerly Restricted Data".
+2. So far as concerns information provided by the Government of the Netherlands, information which is designated „Atomic".

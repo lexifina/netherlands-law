@@ -1,0 +1,2 @@
+# Article VIII. Responsibility for use of information and non-nuclear parts of atomic weapons systems
+The application or use of any information (including design drawings and specifications) or non-nuclear parts of atomic weapons systems communicated, exchanged or transferred under this Agreement shall be the responsibility of the Party receiving it, and the other Party does not provide any indemnity or warranty with respect to such application or use.

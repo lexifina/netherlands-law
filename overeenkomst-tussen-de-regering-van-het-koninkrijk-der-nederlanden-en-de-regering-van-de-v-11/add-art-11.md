@@ -1,0 +1,2 @@
+# Article XI. Duration
+This Agreement shall enter into force on the date on which each Government shall have received from the other Government written notification that it has complied with all legal requirements for the entry into force of this Agreement, and shall remain in force until terminated by agreement of both Parties except that either Party may terminate its cooperation under Articles II of III upon the expiration of the North Atlantic Treaty.

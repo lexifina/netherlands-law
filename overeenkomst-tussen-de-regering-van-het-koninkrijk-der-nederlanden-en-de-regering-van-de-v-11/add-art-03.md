@@ -1,0 +1,2 @@
+# Article III. Transfer of non-nuclear parts of atomic weapons systems
+The Government of the United States will transfer to the Government of the Netherlands, subject to terms and conditions to be agreed, non-nuclear parts of atomic weapons systems involving Restricted Data as such parts are jointly determined to be necessary for the purpose of improving the Netherlands' state of training and operational readiness.
