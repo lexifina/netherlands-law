@@ -7,8 +7,6 @@ de Flora- en faunawet, artikel 13, eerste lid;
 de Grondwaterwet, artikel 14, eerste en tweede lid;
 de Kernenergiewet, de artikelen 15, 21, 21a, 21e, eerste lid, 29, eerste lid, 31, 32, eerste lid, 34, eerste, vijfde en zesde lid, 35, tweede lid, voorzover betrekking hebbend op een onderwerp, geregeld bij een krachtens de artikelen 29, 32 of 34 vastgestelde algemene maatregel van bestuur, 37b, 38a, 46, eerste lid, 47, eerste lid, 49b, eerste lid, 49d, 75, tweede lid, en 76a;
 de Meststoffenwet, de artikelen 55, 57, tweede lid, 58, 58c, 58d, tweede lid, 58e, derde lid, 58f, eerste lid, 58aa, 58af, eerste lid, 58aj, eerste lid, 58ak, eerste lid, 58 aka, eerste lid, en 58al;
-de Mijnwet 1903, artikel 9, eerste lid, onder c;
-de Mijnwet continentaal plat, artikel 26, eerste lid, aanhef en onder e;
 de Wet bestrijding ongevallen Noordzee, de artikelen 4, eerste, tweede, derde en vierde lid, en 15;
 de Wet bodembescherming, de artikelen 6 tot en met 13, 38 en 94;
 de Wet inzake de luchtverontreiniging, de artikelen 91, 92, onder a, in verband met artikel 48, en 92, onder b;
