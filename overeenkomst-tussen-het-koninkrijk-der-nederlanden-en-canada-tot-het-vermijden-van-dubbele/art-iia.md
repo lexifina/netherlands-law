@@ -1,0 +1,5 @@
+# IIA. ad Artikel 4
+Het is wel te verstaan dat de uitdrukking „inwoner van een van de Staten" ook omvat:
+a. de Regering van die Staat of een staatkundig onderdeel of plaatselijk publiekrechtelijk lichaam daarvan, of een instelling of instantie van die Regering, dat onderdeel of dat lichaam;
+b. een trust, een lichaam of een andere organisatie, die of dat in het algemeen is vrijgesteld van belasting in een van de Staten en inwoner is van die Staat overeenkomstig de wetgeving van die Staat, en die of dat opgericht en uitsluitend werkzaam is voor het beheer of het verstrekken van voordelen uit een of meer fondsen of krachtens een of meer regelingen, ingesteld voor het verstrekken van pensioen- of uittredingsuitkeringen of andere werknemersvoordelen;
+c. een trust, een lichaam of een andere organisatie, die of dat uitsluitend werkzaam is voor godsdienstige, liefdadige, wetenschappelijke, opvoedkundige of openbare doeleinden, en die of dat in het algemeen is vrijgesteld van belasting in een van de Staten en inwoner is van die Staat overeenkomstig de wetgeving van die Staat.

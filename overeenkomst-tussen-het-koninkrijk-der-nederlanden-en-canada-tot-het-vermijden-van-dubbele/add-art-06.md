@@ -1,0 +1,2 @@
+# VI. Ad Artikel 7
+Het is wel te verstaan dat in het geval van voordelen uit toezicht, levering, installatie-, of constructiewerkzaamheden, alleen dat deel daarvan aan een vaste inrichting wordt toegerekend, dat voortvloeit uit het werkelijk verrichten van die werkzaamheden door die vaste inrichting. Dienovereenkomstig worden voordelen behaald met de levering van goederen, al dan niet in verband met deze werkzaamheden, aan die vaste inrichting, door het hoofdkantoor, door een andere vaste inrichting of door een derde persoon, niet aan die vaste inrichting toegerekend.

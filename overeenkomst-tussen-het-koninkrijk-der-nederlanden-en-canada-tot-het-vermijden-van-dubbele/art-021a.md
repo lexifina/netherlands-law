@@ -1,0 +1,3 @@
+# Artikel 21a. Overige inkomsten
+1. Onder voorbehoud van de bepalingen van het tweede lid zijn bestanddelen van het inkomen van een inwoner van een van de Staten, van waaruit ook afkomstig, die niet in de voorgaande artikelen van deze Overeenkomst zijn behandeld, slechts in die Staat belastbaar.
+2. Indien die inkomsten echter zijn verkregen door een inwoner van een van de Staten uit bronnen in de andere Staat, mogen die inkomsten ook in de Staat waaruit zij afkomstig zijn, overeenkomstig de wetgeving van die Staat worden belast, maar de aldus geheven belasting mag 25 percent van het brutobedrag van die inkomsten niet overschrijden.
