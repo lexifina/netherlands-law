@@ -1,0 +1,4 @@
+# Artikel XII
+1. De verplichting van de Secretaris-Generaal, ingevolge deze Overeenkomst aan de Regering van IJsland betalingen te doen, zal beperkt zijn tot de bedragen die werkelijk door de Organisatie zijn ontvangen en volgens de bepalingen van deze Overeenkomst beschikbaar zijn.
+2. De Secretaris-Generaal kan niettemin, in afwachting van de ontvangst van betalingen van de Overeenkomstsluitende Regeringen en in overeenstemming met de financiële bepalingen van de Organisatie, voorschotten verstrekken voor aan de Regering van IJsland verschuldigde betalingen, in gevallen waarin hij zulke voorschotten onontbeerlijk acht voor de instelling en ononderbroken voortzetting van de Diensten.
+3. Geen Overeenkomstsluitende Regering zal de Organisatie aansprakelijk kunnen stellen wegens het feit dat enige andere Overeenkomstsluitende Regering haar betalingen met betrekking tot deze Overeenkomst niet verricht.

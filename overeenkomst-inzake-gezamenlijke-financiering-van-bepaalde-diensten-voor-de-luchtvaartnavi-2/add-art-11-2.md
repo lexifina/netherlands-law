@@ -1,0 +1,4 @@
+# Artikel XI
+1. De jaarlijkse aanslagen van de Overeenkomstsluitende Regeringen worden uitgedrukt in Amerikaanse dollars.
+2. Elk der Overeenkomstsluitende Regeringen doet betalingen aan de Organisatie overeenkomstig de bepalingen van artikel VII in Amerikaanse dollars of in ponden sterling of, mits de Regering van IJsland daarmede instemt, in IJslandse kronen. De procedure voor de bepaling van de op een in ponden sterling of IJslandse kronen verrichte betaling toepasselijke wisselkoers wordt vastgesteld door de Raad in overleg met de betrokken Regeringen.
+3. De Secretaris-Generaal zal, behoudens dat de buitengewone uitgaven van de Organisatie in Amerikaanse dollars aan deze worden terugbetaald, aan de Regering van IJsland, overeenkomstig de bepalingen, vervat in de artikelen IX en XII, betalingen doen in de valuta waarin de Overeenkomstsluitende Regeringen hun betalingen hebben gedaan aan de Organisatie, voor zover beschikbaar.

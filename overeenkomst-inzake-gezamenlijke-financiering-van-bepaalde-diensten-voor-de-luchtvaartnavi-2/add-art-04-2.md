@@ -1,0 +1,5 @@
+# Artikel IV
+1. De Secretaris-Generaal heeft het algemeen toezicht op de exploitatie van de Diensten en kan te allen tijde maatregelen treffen voor de inspectie van de Diensten, met inbegrip van alle apparatuur of uitrusting die in verband hiermede wordt gebruikt.
+2. De Regering van IJsland zal op verzoek van de Secretaris-Generaal en voor zover uitvoerbaar die rapporten betreffende de exploitatie van de Diensten overleggen, die de Secretaris-Generaal wenselijk acht.
+3. De Secretaris-Generaal zal op verzoek van de Regering van IJsland voor zover uitvoerbaar zulke inlichtingen verschaffen als die Regering redelijkerwijs kan verlangen met betrekking tot de nakoming van haar verplichtingen ingevolge deze Overeenkomst.
+4. Ingeval de Regering van IJsland op enigerlei wijze in gebreke blijft enige van de Diensten op doelmatige wijze te exploiteren of te onderhouden, zal er overleg plaats hebben tussen die Regering en de Secretaris-Generaal teneinde tot overeenstemming te komen met betrekking tot de daartegen te nemen maatregelen.

@@ -1,0 +1,4 @@
+# Article III
+1. The Government of Iceland shall operate and maintain the Services without interruption, in an efficient manner and with the greatest degree of economy consistent therewith and, so far as practicable, in accordance with the applicable Standards, Recommended Practices, Procedures and Specifications of the Organization.
+2. Subject to the provisions of Annex I to this Agreement, the manner of taking meteorological observations and of making and disseminating meteorological reports shall be in accordance with the appropriate procedures and specifications promulgated by the World Meteorological Organization.
+3. The Government of Iceland shall notify the Secretary General immediately of any emergency necessitating any temporary change or curtailment of the Services and that Government and the Secretary General shall thereupon consult on the measures to be taken to minimize any adverse effect of such change or curtailment.

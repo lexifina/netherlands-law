@@ -1,0 +1,6 @@
+# Article VIII
+1. The Government of Iceland shall furnish to the Secretary General, on or before 15 September of each year, estimates, expressed in United States dollars, of the costs of the Services for the following calendar year. The estimates shall be drawn up in accordance with Article III and with Annexes II and III to this Agreement.
+2. The Government of Iceland shall furnish to the Secretary General, not later than six months after the end of each calendar year, a statement of the actual costs of the Services during that year. The Secretary General shall subject the statement to such audit and other examination as he deems appropriate and shall furnish to the Government of Iceland a report of the audit.
+3. The Government of Iceland shall furnish to the Secretary General such additional information relating to any estimates of costs or statement of actual costs as the Secretary General may require, as well as any available information as to the extent to which the Services are being used by aircraft of any nationality.
+4. The statements of actual costs for each year shall be subject to approval by the Council.
+5. The statement of actual costs approved by the Council pursuant to the provisions of paragraph 4 of this Article shall be circulated to the Contracting Governments.

@@ -1,0 +1,4 @@
+# Article XI
+1. The annual assessments of Contracting Governments shall be expressed in United States dollars.
+2. Each of the Contracting Governments shall make payments to the Organization pursuant to the provisions of Article VII in United States dollars or in sterling or, provided that the Government of Iceland consents thereto, in Icelandic kronur. The procedure for determining the rate of exchange applicable to a payment made in sterling or Icelandic kronur shall be determined by the Council in consultation with the Governments concerned.
+3. The Secretary General shall, subject to the Organization being reimbursed in United States dollars for its extraordinary expenses, make payments to the Government of Iceland pursuant to the provisions of Articles IX and XII in the currencies in which Contracting Governments have made their payments to the Organization and which remain available.

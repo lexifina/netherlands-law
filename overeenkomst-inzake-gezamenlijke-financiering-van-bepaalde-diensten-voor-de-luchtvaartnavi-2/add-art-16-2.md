@@ -1,0 +1,2 @@
+# Artikel XVI
+De Regering van IJsland zal zoveel mogelijk samenwerken met de vertegenwoordigers van de Organisatie tot verwezenlijking van de doelstellingen van deze Overeenkomst en zal aan die vertegenwoordigers de voorrechten en immuniteiten toekennen waar zij recht op hebben volgens het Algemeen Verdrag nopens de Voorrechten en Immuniteiten van de Gespecialiseerde Organisaties van de Verenigde Naties, met inbegrip van Aanhangsel III (2) daarvan.

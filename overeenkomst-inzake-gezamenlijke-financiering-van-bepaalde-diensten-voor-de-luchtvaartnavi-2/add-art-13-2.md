@@ -1,0 +1,10 @@
+# Artikel XIII
+1. De Raad kan, met inachtneming van de bepalingen van artikel V en lid 2 van artikel VI en in overeenstemming met de Regering van IJsland, in deze Overeenkomst nieuwe kapitaalsuitgaven opnemen, die noodzakelijk zijn voor de goede exploitatie van de Diensten.
+2. De Raad kan, met inachtneming van de bepalingen van de artikelen V en VI en in overeenstemming met de Regering van IJsland, in deze Overeenkomst, naast de in Bijlage I genoemde Diensten, diensten en nieuwe kapitaalsuitgaven met betrekking tot deze diensten opnemen, mits aan één van de volgende voorwaarden wordt voldaan:
+a) het totale bedrag van dergelijke uitgaven in enig jaar gaat 3,5 procent van de ingevolge artikel V goedgekeurde kostenlimiet niet te boven; of
+b) alle Overeenkomstsluitende Regeringen hebben tot dergelijke diensten hun toestemming gegeven; of
+c) de Overeenkomstsluitende Regeringen die gezamenlijk verantwoordelijk zijn voor niet minder dan negentig procent van de totale aanslagen, vastgesteld ingevolge de bepalingen van het derde, vierde, vijfde en zesde lid, van artikel VII hebben toegestemd tot dergelijke diensten en de bepalingen van artikel VI zijn erop toegepast.
+3. Voor de toepassing van de leden 1 en 2 van dit artikel zal vernieuwing van gebouwen en uitrusting uit betalingen, ontvangen op grond van depreciatie, niet als nieuwe kapitaalsuitgave worden beschouwd.
+4. Indien nieuwe kapitaalsuitgaven of additionele diensten worden voorgesteld door de Regering van IJsland of door de Raad, zal die Regering aan de Secretaris-Generaal een kostenraming daarvan verstrekken, alsmede die specificaties, plannen en andere inlichtingen welke met betrekking daartoe vereist kunnen zijn, en zal zij met de Secretaris-Generaal overleg plegen betreffende de wijze waarop hierin zal worden voorzien of het ontwerp of de constructie welke dient te worden toegepast.
+5. De Raad kan in overeenstemming met de Regering van IJsland ieder gedeelte van de Diensten van de Overeenkomst uitsluiten.
+6. Wanneer lid 1, 2 of 5 van dit artikel is toegepast, zal de Raad de Bijlagen van deze Overeenkomst dienovereenkomstig wijzigen.

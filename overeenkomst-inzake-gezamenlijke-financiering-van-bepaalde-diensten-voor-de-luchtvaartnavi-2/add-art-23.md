@@ -1,0 +1,3 @@
+# Article XXIII
+1. Notwithstanding the provisions of Article XXII, any Contracting Government other than the Government of Iceland, whose current assessment is less than ten per cent of the limit determined pursuant to the provisions of. Article V, may withdraw from participation in this Agreement on 31 December in any year by notice in writing given to the Secretary General not later than 1 January of that year of its intention to terminate its participation. Any such notice shall, for the purpose of paragraph 1 (c) of Article XXII, be deemed also to constitute a notice of desire to terminate this Agreement.
+2. Following receipt of notice of withdrawal from any Contracting Government, the Secretary General shall notify the other Contracting Governments.

@@ -1,0 +1,2 @@
+# Article XIV
+The Government of Iceland shall operate a system of user charges for the Services provided for all civil aircraft making crossings as defined in Article VII. These charges shall be calculated in accordance with Annex III to this Agreement. The net revenues from these charges shall be offset against payments due to the Government of Iceland pursuant to the provisions of this Agreement. Except with the consent of the Council, the Government of Iceland shall not impose any additional charges for the Services on other than its own nationals.
