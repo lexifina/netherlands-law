@@ -1,0 +1,3 @@
+# Article premier
+Paragraphe 1er. Les travailleurs italiens ou néerlandais, salariés ou assimilés aux salariés par les législations d'assurance sociale énumérées à l'article 2 de la présente Convention (à dénommer ci-après „travailleurs"), sont soumis respectivement auxdites législations applicables aux Pays-Bas et en Italie et en bénéficient, ainsi que leurs ayants droit, dans les mêmes conditions que les ressortissants de chacun de ces pays.
+Paragraphe 2. Les ressortissants néerlandais ou italiens résidant en Italie ou aux Pays-Bas peuvent bénéficier dés dispositions concernant l'assurance volontaire ou facultative des législations énumérées à l'article 2 dans les mêmes conditions que les ressortissants du pays où ils résident.
