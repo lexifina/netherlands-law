@@ -1,0 +1,3 @@
+# Article XIV. Depositary
+The original of the Agreement, in English, French and German, each version being equally authentic, shall be deposited with the Government of the United Kingdom, which shall be the Depositary and shall transmit certified copies thereof to all States and any Regional Economic Integration Organisations that have signed the Agreement or deposited instruments of ratification, acceptance, approval or accession.
+The Depositary shall inform all Range States and Regional Economic Integration Organisations of signatures, deposit of instruments of ratification, acceptance, approval or accession, entry into force of this Agreement, amendments thereto, reservations and notifications of denunciation.

@@ -1,0 +1,9 @@
+# Article III. Fundamental Obligations
+1. Each Party shall prohibit the deliberate capture, keeping or killing of bats except under permit from its competent authority.
+2. Each Party shall identify those sites within its own area of jurisdiction which are important for the conservation status, including for the shelter and protection, of bats. It shall, taking into account as necessary economic and social considerations, protect such sites from damage or disturbance. In addition, each Party shall endeavour to identify and protect important feeding areas for bats from damage or disturbance.
+3. When deciding which habitats to protect for general conservation purposes each Party shall give due weight to habitats that are important for bats.
+4. Each Party shall take appropriate measures to promote the conservation of bats and shall promote public awareness of the importance of bat conservation.
+5. Each Party shall assign to an appropriate body responsibilities for the provision of advice on bat conservation and management within its territory particularly with regard to bats in buildings. Parties shall exchange information on their experiences in this matter.
+6. Each Party shall take such additional action as it considers necessary to safeguard populations of bats which it identifies as being subject to threat and shall report under Article VI on the action taken.
+7. Each Party shall, as appropriate, promote research programmes relating to the conservation and management of bats. Parties shall consult each other on such research programmes, and shall endeavour to co-ordinate such research and conservation programmes.
+8. Each Party shall, wherever appropriate, consider the potential effects of pesticides on bats, when assessing pesticides for use, and shall endeavour to replace timber treatment chemicals which are highly toxic to bats with safer alternatives.

@@ -1,0 +1,2 @@
+# Article XIII. Denunciation and Termination
+Any Party may denounce this Agreement by written notification to the Depositary at any time. The denunciation shall take effect twelve months after the date on which the Depositary has received the notification. The Agreement shall remain in force for at least ten years, and thereafter shall terminate on the date on which there cease to be at least five Parties thereto.
