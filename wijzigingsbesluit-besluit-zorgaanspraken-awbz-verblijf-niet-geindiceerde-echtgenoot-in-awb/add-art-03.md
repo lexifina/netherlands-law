@@ -1,0 +1,2 @@
+# Artikel III
+Artikel 9, tweede lid, tweede volzin, van het Besluit zorgaanspraken AWBZ is van overeenkomstige toepassing op personen die op het tijdstip van inwerkingtreding van dit besluit reeds in een instelling verbleven en bij het begin van dat verblijf echtgenoot waren van een persoon met een somatische of psychogeriatrische aandoening of beperking die op grond van een indicatiebesluit als bedoeld in het Zorgindicatiebesluit in die instelling verbleef.
