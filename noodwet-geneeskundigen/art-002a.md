@@ -1,0 +1,2 @@
+# Artikel 2a
+De geneeskundigen die niet ingeschreven staan in het desbetreffende overeenkomstig artikel 3, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg ingestelde register, worden voor de toepassing van in andere wetten opgenomen bepalingen, betrekking hebbende op degenen die in dat register ingeschreven staan, gelijkgesteld met degenen die in dat register ingeschreven staan voor zover zulks noodzakelijk is ter nakoming van de hun krachtens deze wet opgelegde verplichtingen.
