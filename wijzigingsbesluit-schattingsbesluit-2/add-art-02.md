@@ -1,0 +1,12 @@
+# ARTIKEL II
+1. Indien ten aanzien van een persoon de mate van arbeidsongeschiktheid is vastgesteld
+a. in de periode vanaf 2 april 1997, maar voorafgaand aan de inwerkingtreding van dit besluit, en
+b. met toepassing van de artikelen 5 van de Algemene Arbeidsongeschiktheidswet en 18 van de Wet op de arbeidsongeschiktheidsverzekering, zoals die artikelen luiden met ingang van 1 augustus 1993, worden de artikelen 1 en 2 van het Schattingsbesluit, zoals deze luiden na de inwerkingtreding van dit besluit, ten aanzien van die persoon eerst van toepassing:
+1°. binnen de periode van een jaar, bedoeld in artikel 26, tweede lid, van de Algemene Arbeidsongeschiktheidswet en artikel 36, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering; of
+2°. na het verstrijken van de periode, bedoeld in artikel 24, eerste lid, van de Algemene Arbeidsongeschiktheidswet en artikel 34, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering; of
+3°. indien voordat de onder 1° en 2° bedoelde perioden zijn verstreken een beoordeling van de mate van arbeidsongeschiktheid plaatsvindt ter zake waarvan een beslissing wordt afgegeven, bij gelegenheid van die beoordeling.
+2. Indien ten aanzien van een persoon de mate van arbeidsongeschiktheid is vastgesteld vóór 2 april 1997, blijven de artikelen 1 en 2 van het Schattingsbesluit, zoals deze luidden vóór de inwerkingtreding van dit besluit, ten aanzien van die persoon van toepassing, tenzij de mate van arbeidsongeschiktheid is vastgesteld met overeenkomstige toepassing van de artikelen 1 en 2 van het Schattingsbesluit, zoals deze luiden met ingang van de datum van inwerkingtreding van dit besluit.
+3. Indien ten aanzien van een persoon de mate van arbeidsongeschiktheid is vastgesteld vóór 2 april 1997 en
+a. met toepassing van de artikelen 5 van de Algemene Arbeidsongeschiktheidswet en 18 van de Wet op de arbeidsongeschiktheidsverzekering, zoals deze artikelen luiden sinds 1 augustus 1993, en
+b. niet met overeenkomstige toepassing van de artikelen 1 en 2 van het Schattingsbesluit, zoals deze luiden met ingang van de datum van inwerkingtreding van dit besluit,
+worden, in afwijking van het tweede lid, de artikelen 1 en 2 van het Schattingsbesluit, zoals deze luiden met ingang van de datum van inwerkingtreding van dit besluit, ten aanzien van die persoon van toepassing op het tijdstip, bedoeld in het eerste lid, onder 1°, 2°, of 3°.
