@@ -1,0 +1,2 @@
+# Article XI
+The Contracting Party in the territory of which nationals of the other Contracting Party make or intend to make investments, shall after the exhaustion of all local administrative and judicial remedies, agree to any demand on the part of such nationals to submit, for arbitration or conciliation, to the Centre established by the Convention of Washington of 18 March 1965 on the settlement of investment disputes between States and nationals of other States, any disputes that may arise in connection with the investments.

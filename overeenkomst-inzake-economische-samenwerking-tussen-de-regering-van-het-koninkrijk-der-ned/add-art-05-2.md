@@ -1,0 +1,2 @@
+# Artikel V
+Onverminderd de bepalingen van internationale verdragen, die ter zake de Overeenkomstsluitende Partijen verbinden, genieten onderdanen van elk der Overeenkomstsluitende Partijen, wat de bescherming van de intellectuele eigendom betreft, op het grondgebied van de andere Overeenkomstsluitende Partij een bescherming die niet minder gunstig is dan die welke onderdanen van laatstgenoemde Overeenkomstsluitende Partij genieten.

@@ -1,0 +1,3 @@
+# Artikel III
+(1) Ten einde te bevorderen dat de doeleinden van deze Overeenkomst worden bereikt is elke Overeenkomstsluitende Partij bereid, binnen de grenzen van haar wetgeving, haar onderdanen vergunning te verlenen tot het leveren van kapitaalgoederen aan en het uitvoeren van openbare werken ten behoeve van de Overheids- en particuliere ondernemingen op het grondgebied van de andere Overeenkomstsluitende Partij, een en ander tegen betalingen in termijnen.
+(2) Elke Overeenkomstsluitende Partij verleent overeenkomstig haar wetgeving vergunning tot de overmaking van opeisbare bedragen die verschuldigd zijn aan de crediteuren die onderdaan van de andere Overeenkomstsluitende Partij zijn.
