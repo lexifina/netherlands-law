@@ -1,0 +1,8 @@
+# Artikel III
+1. Op de dag voor die waarop artikel I, onderdelen E tot en met J, van deze wet in werking treedt, doet Onze Minister van Welzijn, Volksgezondheid en Cultuur een notariële akte verlijden, waarbij met ingang van de daarop volgende dag:
+a. een duidelijk omschreven deel van het vermogen van de Nederlandse Omroepprogramma Stichting wordt afgescheiden, dat samenhangt met de taak die ingevolge de krachtens deze wet gewijzigde Mediawet is opgedragen aan de Nederlandse Programma Stichting;
+b. door Onze Minister van Welzijn, Volksgezondheid en Cultuur de Nederlandse Programma Stichting wordt opgericht met als vermogen het vermogensdeel, bedoeld in onderdeel a;
+c. door Onze Minister van Welzijn, Volksgezondheid en Cultuur de statuten van de Nederlandse Omroepprogramma Stichting worden gewijzigd met het oog op de krachtens deze wet gewijzigde Mediawet, waarbij in ieder geval de statutaire naam van de Nederlandse Omroepprogramma Stichting wordt gewijzigd in: Nederlandse Omroep Stichting.
+2. Bij de notariële akte wordt een lijst gevoegd van die werknemers in dienst van de Nederlandse Omroepprogramma Stichting, die vanaf het tijdstip van oprichting van de Nederlandse Programma Stichting in dienst zullen zijn van de Nederlandse Programma Stichting. De artikelen 1639aa tot en met 1639dd van Boek 7A van het Burgerlijk Wetboek zijn van toepassing.
+3. Op het tijdstip van oprichting van de Nederlandse Programma Stichting gaat het vermogensdeel van de Nederlandse Omroepprogramma Stichting, bedoeld in het eerste lid, onderdeel a, overeenkomstig de notariële akte onder algemene titel over op de Nederlandse Programma Stichting.
+4. Ter zake van de overgang, bedoeld in het derde lid, is geen overdrachtsbelasting of omzetbelasting verschuldigd.

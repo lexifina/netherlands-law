@@ -1,0 +1,2 @@
+# Artikel V
+Een instelling die op het tijdstip van inwerkingtreding van artikel I, onderdeel KK, van deze wet een vergoeding voor kosten van investeringen voor nieuwbouw ontvangt van het Commissariaat voor de Media ingevolge artikel 103 van de Mediawet, zoals dat artikel luidde voor de inwerkingtreding van artikel I, onderdeel KK, van deze wet, behoudt tot uiterlijk drie jaren na de inwerkingtreding van artikel I, onderdeel KK, van deze wet recht op die vergoeding.
