@@ -27,12 +27,11 @@
 ### Afdeling 2. Grondslag en belastingplicht
 ### Afdeling 3. Maatstaf van heffing en verschuldigdheid
 ### Afdeling 4. Tarief
-### Afdeling 4a. Vrijstellingen
-### Afdeling 5. Teruggaaf
-### Afdeling 6. Verplichtingen ten dienste van de belastingheffing
-### Afdeling 7. Bijzondere bepalingen
+### Afdeling 5. Vrijstellingen
+### Afdeling 6. Teruggaaf
+### Afdeling 7. Verplichtingen ten dienste van de belastingheffing
 ## Hoofdstuk V
-## Hoofdstuk VA. Regulerende energiebelasting
+## Hoofdstuk VA. Energiebelasting
 ### Afdeling 1. Begripsbepalingen
 ### Afdeling 2. Grondslag en belastingplicht
 ### Afdeling 3. Maatstaf van heffing en verschuldigdheid
@@ -40,8 +39,7 @@
 ### Afdeling 5. Belastingvermindering en vrijstellingen
 ### Afdeling 6. Teruggaven
 ### Afdeling 7. Verplichtingen ten dienste van de belastingheffing
-### Afdeling 10. Bijzondere teruggaafregeling
-### Afdeling 12
+### Afdeling 10. Bijzondere vrijstelling
 ## Hoofdstuk VI. Algemene bepalingen
 ### Afdeling 1. Wijze van heffing
 ### Afdeling 2. Aanvullende regelingen
