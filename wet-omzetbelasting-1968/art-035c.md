@@ -1,0 +1,5 @@
+# Artikel 35c
+1. De ondernemer bewaart kopieën van de door hemzelf dan wel, in zijn naam en voor zijn rekening, door zijn afnemer of een derde uitgereikte facturen, en alle door hemzelf ontvangen facturen in zijn administratie.
+2. Wanneer een ondernemer de facturen die hij langs elektronische weg verzendt of ontvangt, opslaat, waarbij een on line toegang tot de gegevens wordt gewaarborgd, en wanneer de plaats van opslag is gesitueerd in een andere lid-staat, heeft de inspecteur met het oog op de toepassing van deze wet een recht van toegang tot en van downloading en gebruikmaking langs elektronische weg van deze facturen, voorzover hij deze nodig heeft voor controledoeleinden.
+3. De authenticiteit van de herkomst en de integriteit van de inhoud van de facturen, alsmede de leesbaarheid ervan, moeten gedurende de gehele opslagperiode worden gewaarborgd.
+4. Ingeval facturen elektronisch worden opgeslagen, worden de gegevens die de authenticiteit van de herkomst en de integriteit van de inhoud waarborgen, eveneens opgeslagen.

@@ -1,0 +1,8 @@
+# Artikel 35b
+1. Facturen mogen zowel op papier worden uitgereikt als, onder voorbehoud van aanvaarding door de afnemer, elektronisch worden verzonden.
+2. Elektronisch verzonden facturen worden door de inspecteur aanvaard, mits de authenticiteit van de herkomst en de integriteit van de inhoud ervan worden gewaarborgd door middel van:
+a. een geavanceerde elektronische handtekening in de zin van artikel 2, lid 2, van richtlijn nr. 1999/93/EG van het Europees Parlement en de Raad van de Europese Unie van 13 december 1999 betreffende een gemeenschappelijk kader voor elektronische handtekeningen (PbEG 2000, L 13);
+b. een elektronische uitwisseling van gegevens (EDI), zoals gedefinieerd in artikel 2 van aanbeveling nr. 1994/820/EG van de Europese Commissie van 19 oktober 1994 betreffende de juridische aspecten van de elektronische uitwisseling van gegevens (PbEG L 338), wanneer het akkoord betreffende deze uitwisseling voorziet in het gebruik van procedures die de authenticiteit van de herkomst en de integriteit van de gegevens waarborgen, aangevuld met een papieren afstemmingoverzicht; of
+c. een andere methode, mits deze methode aan de inspecteur is gemeld.
+De ondernemer die zekerheid wenst omtrent de vraag of met betrekking tot een in onderdeel c bedoelde andere methode de authenticiteit van de herkomst en de integriteit van de inhoud van de factuur zijn gewaarborgd, kan daartoe tegelijk met de melding een verzoek indienen bij de inspecteur, die daarop bij voor bezwaar vatbare beschikking beslist.
+3. Bij een reeks facturen die langs elektronische weg naar dezelfde afnemer worden verzonden, hoeven de voor de verschillende facturen gelijke vermeldingen slechts één keer te worden opgenomen, voorzover voor elke factuur alle informatie toegankelijk is.

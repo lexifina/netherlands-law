@@ -1,0 +1,2 @@
+# Artikel 35d
+Voor de toepassing van de artikelen 35b en 35c wordt verstaan onder het elektronisch verzenden en opslaan van een factuur de verzending of terbeschikkingstelling aan de ontvanger en de opslag via elektronische apparatuur voor de verwerking, met inbegrip van digitale compressie, en de opslag van gegevens, waarbij gebruik wordt gemaakt van draden, radio, optische middelen of andere elektromagnetische middelen.
