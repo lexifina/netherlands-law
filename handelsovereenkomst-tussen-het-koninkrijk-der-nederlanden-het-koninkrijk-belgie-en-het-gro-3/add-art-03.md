@@ -1,0 +1,3 @@
+# Article III
+Les Autorités néerlandaises, belges et luxembourgeoises autoriseront l'importation dans le Royaume des Pays-Bas et dans l'Union Economique belgo-luxembourgeoise des produits suédois figurant dans la liste „A" annexée au présent Accord, au moins à concurrence des quantités ou des valeurs indiquées pour chacun d'eux.
+De leur côté, les Autorités suédoises compétentes s'engagent à délivrer les licences d'exportation ou toutes autres autorisations nécessaires pour l'exportation vers le Royaume des Pays-Bas et vers l'Union Economique belgo-luxembourgeoise, le Congo belge et le Ruanda-Urundi des dits produits, au moins à concurrence des quantités ou des valeurs indiquées pour chacun d'eux, dans la liste „A" annexée au présent Accord.

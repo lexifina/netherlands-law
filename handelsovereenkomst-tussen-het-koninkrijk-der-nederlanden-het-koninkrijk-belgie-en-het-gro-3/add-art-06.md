@@ -1,0 +1,2 @@
+# Article VI
+Il est constitué une Commission mixte composée des représentants des Gouvernements intéressés. Elle a pour tâche de surveiller l'application du présent Accord et de procéder, si nécessaire, à l'aménagement des listes y annexées. Elle est habilitée, en outre, à présenter aux Gouvernements des Parties Contractantes toutes propositions susceptibles de favoriser entre elles le développement des échanges commerciaux. Elle se réunit à la demande d'une des Parties Contractantes.
