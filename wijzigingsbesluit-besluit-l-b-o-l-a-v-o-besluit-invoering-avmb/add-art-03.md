@@ -1,0 +1,2 @@
+# Artikel III
+In afwijking van het bepaalde in artikel 25, eerste lid, van het Besluit l.b.o./l.a.v.o. (Stb. 1973, 167) kan een school voor lager beroepsonderwijs die krachtens een voor 1 augustus 1990 gegeven beschikking ingevolge artikel 25 en 29, zevende lid, van de Wet op het voortgezet onderwijs een project algemene voorbereiding op maatschappij en beroep uitvoert, onderwijs verzorgen en examens afnemen ten behoeve van algemene voorbereiding op maatschappij en beroep op de wijze als aangegeven in dit besluit.
