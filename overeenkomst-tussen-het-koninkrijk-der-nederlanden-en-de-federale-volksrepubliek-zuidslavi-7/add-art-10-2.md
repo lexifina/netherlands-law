@@ -1,0 +1,2 @@
+# Artikel X
+De bewijzen van luchtwaardigheid en de bewijzen van bevoegdheid, uitgereikt of geldig verklaard door een Overeenkomstsluitende Partij, zullen voor de exploitatie van de overeengekomen diensten door de andere Overeenkomstsluitende Partij worden erkend. Elke Overeenkomstsluitende Partij behoudt zich evenwel het recht voor, voor de luchtvaart boven haar grondgebied de erkenning van bewijzen van bevoegdheid, welke aan haar onderdanen zijn toegekend door een andere Staat, te weigeren.
