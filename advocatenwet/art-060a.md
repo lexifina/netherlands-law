@@ -1,5 +1,5 @@
 # Artikel 60a
-De voorgaande bepalingen van deze paragraaf zijn eveneens van toepassing op bezoekende advocaten als bedoeld in artikel 16b, met dien verstande dat:
+De voorgaande bepalingen van deze paragraaf, met uitzondering van artikel 46fa, zijn eveneens van toepassing op bezoekende advocaten als bedoeld in artikel 16b, met dien verstande dat:
 1. in afwijking van artikel 46 de tuchtrechtspraak in eerste aanleg wordt uitgeoefend door de raad van discipline die bevoegd is ten aanzien van de samenwerkende advocaat en bij gebreke van dien door de raad van discipline te 's-Gravenhage;
 2. in afwijking van artikel 48, tweede lid, als maatregelen kunnen worden opgelegd:
 a. enkele waarschuwing;

@@ -29,7 +29,7 @@
 ##### § 3. Inbeslagneming door den rechter-commissaris tijdens het gerechtelijk vooronderzoek
 ##### § 4. Teruggave en bewaring van inbeslaggenomen voorwerpen
 #### afdeeling Vierde. Handhaving der orde ter gelegenheid van ambtsverrichtingen
-#### afdeeling Vijfde. Maatregelen ter gelegenheid van eene schouw of eene huiszoeking
+#### afdeling Vijfde. Maatregelen ter gelegenheid van een schouw of een doorzoeking
 #### afdeling Zesde
 #### afdeling Zevende. Onderzoek van gegevens in geautomatiseerde werken
 #### afdeling Negende. strafrechtelijk financieel onderzoek

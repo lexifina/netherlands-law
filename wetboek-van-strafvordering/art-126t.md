@@ -1,5 +1,5 @@
 # Artikel 126t
-1. In een geval als bedoeld in artikel 126o, eerste lid, kan de officier van justitie, indien het onderzoek dit dringend vordert, bevelen dat een opsporingsambtenaar met een technisch hulpmiddel telecommunicatie opneemt waaraan een persoon deelneemt ten aanzien van wie uit feiten of omstandigheden een redelijk vermoeden voortvloeit dat deze betrokken is bij het in het georganiseerd verband beramen of plegen van misdrijven.
+1. In een geval als bedoeld in artikel 126o, eerste lid, kan de officier van justitie, indien het onderzoek dit dringend vordert, bevelen dat een opsporingsambtenaar met een technisch hulpmiddel telecommunicatie opneemt ten aanzien waarvan het vermoeden bestaat dat daaraan een persoon deelneemt ten aanzien van wie uit feiten of omstandigheden een redelijk vermoeden voortvloeit dat deze betrokken is bij het in het georganiseerd verband beramen of plegen van misdrijven.
 2. Onder telecommunicatie wordt in dit artikel verstaan niet voor het publiek bestemde communicatie via een openbaar telecommunicatienetwerk, dan wel met gebruikmaking van openbare telecommunicatiediensten.
 3. Het bevel tot het opnemen van telecommunicatie is schriftelijk en vermeldt:
 a. een omschrijving van het georganiseerd verband;

@@ -36,7 +36,7 @@
 #### Afdeling 4. Opheffing van de gemeenschap bij beschikking
 ### Titel 8. Huwelijkse voorwaarden
 #### Afdeling 1. Huwelijkse voorwaarden in het algemeen
-#### Afdeling 2
+#### Afdeling 2. Verrekenbedingen
 ##### Paragraaf 1. Algemene regels voor verrekenbedingen
 ##### Paragraaf 2. Periodieke verrekenbedingen
 ##### Paragraaf 3. Finale verrekenbedingen

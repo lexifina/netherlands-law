@@ -9,6 +9,7 @@ de Kernenergiewet, de artikelen 15, 21, 21a, 21e, eerste lid, 29, eerste lid, 31
 de Meststoffenwet, de artikelen 55, 57, tweede lid, 58, 58c, 58d, tweede lid, 58e, derde lid, 58f, eerste lid, 58aa, 58af, eerste lid, 58aj, eerste lid, 58ak, eerste lid, 58 aka, eerste lid, en 58al;
 de Wet bestrijding ongevallen Noordzee, de artikelen 4, eerste, tweede, derde en vierde lid, en 15;
 de Wet bodembescherming, de artikelen 6 tot en met 13, 38 en 94;
+de Wet houdende wijziging van de Bestrijdingsmiddelenwet 1962 (landbouwkundig onmisbare gewasbeschermingsmiddelen): artikel II, derde en zesde lid, en bijlage.
 de Wet inzake de luchtverontreiniging, de artikelen 91, 92, onder a, in verband met artikel 48, en 92, onder b;
 de Wet luchtvaart, de artikelen 6.51, eerste lid, 6.54, vierde lid, 6.55, eerste lid en 6.58, tweede lid, alsmede - voorzover aangeduid als strafbare feiten - overtredingen van voorschriften krachtens titel 6.5 van die wet gegeven;
 de Wet milieubeheer, artikel 1.2, eerste lid, - voor zover aangeduid als strafbare feiten - en de artikelen 8.1, eerste lid, 8.40, eerste lid, 8.42, tweede lid, 8.43, 8.44, eerste en zesde lid, 10.1, 10.2, eerste lid, 10.37, eerste lid, 10.39, eerste lid, 10.45, eerste lid, onderdeel b, 10.47, eerste lid, 10.54, eerste lid, 10.56, eerste en tweede lid, 10.57, 10.58, eerste en tweede lid, 10.60, eerste en tweede lid, onder a en b, 17.4 eerste lid, en 18.18;
@@ -20,11 +21,10 @@ de Wet verontreiniging zeewater, de artikelen 3, eerste lid, 4, en 11;
 de Wet verplaatsing mestproductie, de artikelen 2, 3, 4, en 9, vijfde lid;
 de Wet vervoer gevaarlijke stoffen, de artikelen 4, 5, 10, 11, 21, 24, 27, 29, 31 en 33;
 de Wet voorkoming verontreiniging door schepen, de artikelen 5, 12, 13, 13a, 23, tweede, vierde en vijfde lid, en 35, derde lid;
-de Wet houdende wijziging van de Bestrijdingsmiddelenwet 1962 (landbouwkundig onmisbare gewasbeschermingsmiddelen): artikel II, derde en zesde lid, en bijlage;
 2°. overtredingen van voorschriften, gesteld bij of krachtens:
 de Bestrijdingsmiddelenwet 1962: artikel 16g, zesde lid;
 de Boswet, de artikelen 2, derde lid, 3, eerste en tweede lid, en 13, eerste lid;
-de Flora- en faunawet, de artikelen 8, 9, 11, 12, 14, eerste, tweede en derde lid, 15, eerste en tweede lid, 17, 18, eerste lid, 26, derde en vijfde lid, 47 en 73
+de Flora- en faunawet, de artikelen 8, 9, 11, 12, 14, eerste, tweede en derde lid, 15, eerste en tweede lid, 17, 18, eerste lid, 26, derde en vijfde lid, 47 en 73;
 de Kernenergiewet, de artikelen 14, 22, eerste lid, 26, tweede lid, 28, 33, eerste lid, 35, tweede lid, voor zover betrekking hebbend op een onderwerp, geregeld bij een krachtens artikel 28 vastgestelde algemene maatregel van bestuur, 37, eerste lid, 39, 67, eerste en vierde lid, 68 en 76, derde lid;
 de Natuurbeschermingswet, de artikelen 12, eerste lid, 14, derde lid, 16, eerste lid, 31, eerste lid, en 33a, eerste lid;
 de Ontgrondingenwet, de artikelen 3, eerste en tweede lid, 7, derde lid, 12, eerste en tweede lid, en 16, tweede lid;
