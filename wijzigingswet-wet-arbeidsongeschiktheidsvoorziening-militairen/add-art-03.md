@@ -1,0 +1,2 @@
+# Artikel III
+Deze wet treedt in werking met ingang van de tweede dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. Zij werkt wat betreft artikel I, onderdeel E, voorzover dit betrekking heeft op uitkeringen ingevolge hoofdstuk II van de Wet arbeidsongeschiktheidsvoorziening militairen, terug tot en met 1 mei 1985. Zij werkt wat betreft artikel I, de onderdelen C en E, voorzover deze betrekking hebben op uitkeringen ingevolge hoofdstuk III van de Wet arbeidsongeschiktheidsvoorziening militairen terug tot en met 1 januari 1987.
