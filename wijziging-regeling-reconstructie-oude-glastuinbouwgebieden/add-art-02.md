@@ -1,0 +1,2 @@
+# Artikel II
+Ten aanzien van de kavelverbeteringswerken 'De Broekpolders' 'Pijnacker-Delfgauw', 'De Gaag' en 'Albert van 't Hartweg' waarvoor reeds het reconstructieplan als bedoeld in artikel 17 van de Regeling Reconstructie oude glastuinbouwgebieden is vastgesteld, blijft het vóór dat tijdstip geldende recht terzake het verlenen van een bijdrage van toepassing totdat op aanvragen daartoe is beslist.
