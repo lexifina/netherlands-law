@@ -1,0 +1,2 @@
+# Artikel V
+De gehele uitrusting en alle voorraden die door de Nederlandse Regering worden verschaft in verband met een project, blijven voor de duur van een project het eigendom van de Nederlandse Regering en worden overgedragen aan de Regering van de Democratische Republiek Soedan wanneer de samenwerking tussen de beide Regeringen bij dat project ten einde is, tenzij deze nodig zijn voor een ander technisch samenwerkingsproject, waarbij beide Regeringen betrokken zijn.

@@ -1,0 +1,2 @@
+# Article V
+All equipment and materials supplied by the Netherlands Government in connection with a project shall remain the property of the Netherlands Government for the duration of a project and shall be transferred to the Government of the Democratic Republic of the Sudan when the cooperation between the two Governments on that project has terminated, unless they are required for some other technical cooperation project involving the two Governments.

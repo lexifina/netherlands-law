@@ -1,0 +1,2 @@
+# Article I
+In case both Governments have decided to collaborate in a particular project of technical cooperation (hereinafter referred to as "Project") the mutual contributions to that project as well as the implementation thereof shall in each individual case be established in an administrative arrangement to be agreed upon by the respective competent administrative authorities, in accordance with the principles embodied in this Agreement.
