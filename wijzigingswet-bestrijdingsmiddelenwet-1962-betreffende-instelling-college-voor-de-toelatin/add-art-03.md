@@ -1,0 +1,3 @@
+# ARTIKEL III
+1. Bezittingen, rechten en verplichtingen van de Staat der Nederlanden, die kennelijk zijn verworven, onderscheidenlijk aangegaan in verband met hetgeen het college tot taak verkrijgt, gaan voor zover zij zijn opgenomen in een door Onze Minister in overeenstemming met het college op te stellen lijst en voor zover nodig voorzien van in die lijst op te nemen garanties, vanaf de datum van inwerkingtreding van deze wet over op het college zonder dat daarvoor een nadere akte of betekening wordt gevorderd.
+2. Het college verkrijgt de door de Staat der Nederlanden aan haar toegescheiden bezittingen om niet.
