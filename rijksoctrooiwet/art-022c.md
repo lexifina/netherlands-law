@@ -1,0 +1,5 @@
+# Artikel 22C
+1. Zo spoedig mogelijk na verloop van achttien maanden na de indiening of, indien het een aanvrage betreft waarvoor een beroep is gedaan op een of meer rechten van voorrang, na de eerste datum van voorrang geeft de Octrooiraad van de aanvrage kennis in het in artikel 25 bedoelde blad en legt hij de aanvrage met de beschrijving, tekeningen en het uittreksel ter inzage bij het Bureau voor de industriële eigendom.
+2. Indien de aanvrager schriftelijk daarom verzoekt, geschieden de in het eerste lid bedoelde handelingen zo spoedig mogelijk na dat verzoek.
+3. Ten aanzien van een nieuwe aanvrage als bedoeld in artikel 8A geschieden de in het eerste lid bedoelde handelingen zo spoedig mogelijk na de indiening dier aanvrage, doch niet eerder dan ten aanzien van de oorspronkelijke aanvrage.
+4. Dit artikel vindt geen toepassing, indien de Octrooiraad van oordeel is, dat het openbaar worden van het voortbrengsel of de werkwijze, waarvoor octrooi is gevraagd, strijdig zou zijn met de openbare orde of de goede zeden.

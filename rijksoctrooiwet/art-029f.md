@@ -1,0 +1,2 @@
+# Artikel 29F
+Indien de Staat zelf houder van een octrooiaanvrage is en Onze Minister van Defensie aan de Octrooiraad mededeelt, dat de inhoud daarvan in het belang van de verdediging van het Koninkrijk of zijn bondgenoten geheim moet blijven, worden de terinzagelegging en openbaarmaking der aanvrage opgeschort, totdat Onze genoemde Minister aan de Octrooiraad mededeelt, dat de inhoud der aanvrage niet langer geheim behoeft te blijven.

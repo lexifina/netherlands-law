@@ -1,0 +1,3 @@
+# Artikel 19B
+1. De Octrooiraad treedt op als ontvangend bureau in de zin van artikel 2, onder (xv), van het Samenwerkingsverdrag en verricht zijn werkzaamheden uit dien hoofde met inachtneming van de bepalingen van dat Verdrag.
+2. Bij algemene maatregel van Rijksbestuur worden het bedrag en de vervaldatum vastgesteld van de toezendingstaks, bedoeld in Regel 14.1 van het bij het Samenwerkingsverdrag behorende Reglement, en het bedrag van de taks bedoeld in Regel 20.9 van dat Reglement. Bij algemene maatregel van bestuur kunnen voorts verdere regelen worden gesteld ten aanzien van onderwerpen waarover het ontvangend bureau ingevolge genoemd Reglement bevoegd is voorschriften te geven.

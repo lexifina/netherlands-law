@@ -1,0 +1,3 @@
+# Artikel 29N
+1. De Octrooiraad doet van de overeenkomstig artikel 97, vierde lid, van het Europees Octrooiverdrag bedoelde publikatie van de vermelding dat een Europees octrooi is verleend onverwijld aantekening in het in artikel 25, eerste lid, bedoelde register en maakt daarvan melding in het in die bepaling bedoelde blad.
+2. De Octrooiraad doet in het in het vorige lid bedoelde register onverwijld aantekening van het instellen van oppositie tegen een Europees octrooi, met vermelding van de datum waarop dit geschiedde, en van beslissingen van het Europees Octrooibureau ter zake van een oppositie. Hij maakt daarvan melding in het in het vorige lid bedoelde blad.
