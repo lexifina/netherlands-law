@@ -1,0 +1,2 @@
+# Artikel III
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met dien verstande dat het Besluit subsidies bedrijfsgerichte technologische samenwerkingsprojecten, zoals dat luidde voor de inwerkingtreding van dit besluit, van toepassing blijft op aanvragen om subsidie die voor de inwerkingtreding van dit besluit zijn ingediend en op subsidies die voor de inwerkingtreding van dit besluit zijn verstrekt.

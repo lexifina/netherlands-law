@@ -1,0 +1,2 @@
+# Artikel II
+Het Besluit subsidies bedrijfsgerichte internationale technologieprogramma's en het Besluit subsidies maritiem onderzoek worden ingetrokken, met dien verstande dat deze en de daarop gebaseerde regelgeving van toepassing blijven op aanvragen om subsidie die voor de inwerkingtreding van dit besluit zijn ingediend en op subsidies die voor de inwerkingtreding van dit besluit zijn verstrekt.
