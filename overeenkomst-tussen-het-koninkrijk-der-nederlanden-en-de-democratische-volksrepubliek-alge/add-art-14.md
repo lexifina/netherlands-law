@@ -1,0 +1,5 @@
+# Artikel XIV
+1. Indien een van de Overeenkomstsluitende Partijen het wenselijk acht een van de bepalingen van deze Overeenkomst of van de daarbij behorende Bijlage te wijzigen, kan zij verzoeken om overleg met de andere Overeenkomstsluitende Partij. Dit overleg, dat tussen de bevoegde luchtvaartautoriteiten zowel mondeling als schriftelijk kan plaatsvinden, vangt aan binnen een termijn van uiterlijk zestig (60) dagen te rekenen van de datum van het verzoek.
+2. De Overeenkomstsluitende Partijen komen door middel van diplomatieke notawisseling tot overeenstemming over iedere wijziging van deze Overeenkomst of van de daarbij behorende Bijlage, waartoe is besloten tijdens het overleg bedoeld in het eerste lid hierboven.
+3. Iedere wijziging van de Overeenkomst treedt in werking op het tijdstip waarop de Overeenkomstsluitende Partijen elkaar schriftelijk ervan in kennis hebben gesteld dat aan de daartoe constitutioneel vereiste procedures is voldaan.
+4. Iedere wijziging van de Bijlage bij deze Overeenkomst treedt in werking op de datum van de diplomatieke notawisseling bedoeld in het tweede lid.

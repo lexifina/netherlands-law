@@ -1,0 +1,6 @@
+# Artikel IV
+1. Elke Overeenkomstsluitende Partij heeft het recht de exploitatievergunning, bedoeld in artikel III van deze Overeenkomst, in te trekken of de uitoefening door de door de andere Overeenkomstsluitende Partij aangewezen maatschappij van de rechten, omschreven in artikel II van deze Overeenkomst, te schorsen, dan wel de uitoefening van deze rechten te onderwerpen aan de voorwaarden die zij noodzakelijk acht, indien:
+a) zij er niet van overtuigd is dat een aanzienlijk deel van de eigendom van en het daadwerkelijk toezicht op die maatschappij berusten bij de Overeenkomstsluitende Partij die de maatschappij heeft aangewezen of bij onderdanen van deze Overeenkomstsluitende Partij, dan wel bij beide; of indien
+b) deze maatschappij zich niet heeft gehouden aan de wetten en voorschriften van de Overeenkomstsluitende Partij die deze rechten heeft verleend; of indien
+c) deze maatschappij de overeengekomen diensten niet exploiteert overeenkomstig de voorwaarden gesteld in deze Overeenkomst en de daarbij behorende Bijlage.
+2. Tenzij het intrekken, het schorsen of het stellen van de voorwaarden bedoeld in het eerste lid van dit artikel onmiddellijk noodzakelijk is om nieuwe inbreuken op de wetten en voorschriften te voorkomen, kan een zodanig recht niet worden uitgeoefend dan na overleg met de andere Overeenkomstsluitende Partij.
