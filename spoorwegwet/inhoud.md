@@ -34,7 +34,6 @@
 ### § 8. Aanwijzing van keuringsinstanties
 ### § 10. Informatieplicht van spoorwegondernemingen en de beheerder
 ### § 11. De verwerking van persoonsgegevens
-## Hoofdstuk 7. Buitengewone omstandigheden
 ## Hoofdstuk 8. Aanpassing en intrekking van andere wetten
 ## Hoofdstuk 9. Overgangs- en slotbepalingen
 ### § 1. Overgangsbepalingen gedelegeerde regelgeving
