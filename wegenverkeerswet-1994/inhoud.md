@@ -16,7 +16,7 @@
 ### § 1. Algemene bepalingen
 ### § 2. Typegoedkeuring
 ### § 3. Individuele goedkeuring
-### § 4. Mededienstbaarheid toelatingskeuring aan andere wetten
+### § 4. Keuringen ter uitvoering van andere wetten
 ### § 5. Verbodsbepalingen
 ## Hoofdstuk IV. Kentekens en kentekenbewijzen
 ### § 1. Kentekenplicht

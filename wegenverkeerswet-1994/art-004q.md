@@ -3,7 +3,7 @@
 2. Het tarief, bedoeld in artikel 48, eerste lid, voor de aanvraag van een bij algemene maatregel van bestuur aan te wijzen deel van een kentekenbewijs omvat mede een bij ministeriële regeling vastgesteld bedrag dat strekt ter dekking van de kosten van:
 a. het registreren van keuringsrapporten,
 b. het ongeldig verklaren van kentekenbewijzen,
-c. het verstrekken van gegevens uit het kentekenregister aan de in artikel 43, eerste en tweede lid, bedoelde autoriteiten,
+c. het verstrekken van gegevens uit het kentekenregister aan de in artikel 43, eerste en tweede lid, bedoelde autoriteiten en instellingen van volkenrechtelijke organisaties,
 d. het behandelen van klachten en ingevolge de Algemene wet bestuursrecht ingediende bezwaarschriften en beroepschriften, gericht op het handelen van de Dienst Wegverkeer,
 e. het opsporen van bij of krachtens deze wet strafbaar gestelde feiten voor zover de ambtenaren van de Dienst Wegverkeer daarmee ingevolge artikel 159 zijn belast,
 f. het beheer en de instandhouding van het in artikel 13, tweede lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen bedoelde register, en

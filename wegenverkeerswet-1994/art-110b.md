@@ -3,4 +3,5 @@
 a. het motorrijtuig waarmee rijonderricht wordt gegeven, niet voldoet aan de daaraan ingevolge artikel 110a gestelde eisen;
 b. degene aan wie rijonderricht wordt gegeven, de leeftijd van achttien jaren nog niet heeft bereikt;
 c. niet wordt voldaan aan de overigens bij algemene maatregel van bestuur ten aanzien van het geven van rijonderricht gestelde eisen.
-2. Het eerste lid, aanhef en onderdeel b, geldt niet voor zover het rijonderricht betreft dat plaatsvindt in het kader van een opleiding voor beroepschauffeur, mits is voldaan aan de bij algemene maatregel van bestuur gestelde voorwaarden.
+2. Het eerste lid geldt niet voor zover het rijonderricht aan bestuurders van bromfietsen betreft.
+3. Het eerste lid, aanhef en onderdeel b, geldt niet voor zover het rijonderricht betreft dat plaatsvindt in het kader van een opleiding voor beroepschauffeur, mits is voldaan aan de bij algemene maatregel van bestuur gestelde voorwaarden.
