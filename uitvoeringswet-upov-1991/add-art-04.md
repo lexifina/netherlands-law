@@ -1,0 +1,3 @@
+# ARTIKEL IV
+1. Deze wet is van toepassing met betrekking tot rassen, waarvoor reeds voor de datum van inwerkingtreding van deze wet kwekersrecht is verleend, met dien verstande dat op handelingen, als bedoeld in artikel 40, eerste lid, met betrekking tot materiaal van dergelijke rassen, welke plaatsvinden voor de datum van inwerkingtreding van deze wet, de bepalingen van de Zaaizaad- en Plantgoedwet, zoals zij tot die datum luidden, van toepassing zijn.
+2. Artikel 40, vierde en vijfde lid, zijn niet van toepassing op geoogst materiaal of direct daaruit verkregen produkten, welke voor de datum van inwerkingtreding van deze wet verkregen zijn door vermeerdering van teeltmateriaal, waarvoor geen toestemming was verleend.
