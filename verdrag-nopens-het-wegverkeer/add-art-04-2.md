@@ -1,0 +1,3 @@
+# IV. Samenstellen van voertuigen
+a. Een „samenstel van voertuigen" mag zijn samengesteld uit een trekkend motorrijtuig en een of meer aanhangwagens. Een geleed motorrijtuig mag een aanhangwagen voortbewegen, doch indien zulk een geleed motorrijtuig wordt gebruikt voor het vervoer van personen, mag die aanhangwagen slechts één as hebben en geen personen vervoeren.
+b. Elke Verdragsluitende Staat mag evenwel bepalen, dat een motorrijtuig slechts een aanhangwagen mag voortbewegen en dat het een geleed motorrijtuig is verboden een aanhangwagen voort te bewegen. Hij mag eveneens bepalen, dat het een geleed motorrijtuig is verboden personen te vervoeren.

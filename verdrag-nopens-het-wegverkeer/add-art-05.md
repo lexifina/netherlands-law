@@ -1,0 +1,10 @@
+# V. Transitional provisions
+The provisions of Parts I, II and paragraph (e) of Part III of this Annex shall apply to any motor vehicle first registered at any time subsequent to a date two years after the entry into force of this Convention, and to any trailer drawn thereby. The said provisions shall apply five years after the entry into force of this Convention to any motor vehicle first registered at any time previous to a date two years after the entry into force of this Convention, and to any trailer.
+In the meantime the following provisions shall apply:
+(a) Every motor vehicle shall be equipped with either two systems of brakes, independent of each other, or one system of brakes with two independent means of operation, of which one means of operation will function, even if the other fails to function, provided that in all cases the system used is really effective and rapid in action.
+(b) Every motor vehicle travelling alone shall, during the night and from sunset, be fitted in front with at least two white lights placed one on the right and the other on the left, and, at the back, with a red light.
+For motor cycles unaccompanied by a side-car, the number of lights in front may be reduced to one.
+(c) Every motor vehicle shall also be equipped with one or more devices capable of effectively illuminating the road for a sufficient distance ahead unless the two white lights prescribed above already fulfil this condition.
+If the vehicle is capable of proceeding at a speed greater than 30 km (19 miles) an hour this distance shall not be less than 100 m (325 feet).
+(d) Lamps which may produce a dazzling effect shall be provided with means for eliminating the dazzling effect when other users of the road are met, or on any occasion when such elimination would be useful. The elimination of the dazzling effect shall, however, leave sufficient light to illuminate the road clearly for at least 25 m (80 feet).
+(e) Motor vehicles drawing trailers shall be subject to the same regulations as separate motor vehicles in so far as forward lighting is concerned; the rear red light shall be carried on the back of the trailer.
