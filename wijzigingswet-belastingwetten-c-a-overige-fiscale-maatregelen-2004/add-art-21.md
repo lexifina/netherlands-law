@@ -1,0 +1,2 @@
+# Artikel XXI
+Indien het bij koninklijke boodschap van 23 mei 2003 ingediende voorstel van wet tot wijziging van de Kostenwet invordering rijksbelastingen (28 917) tot wet wordt verheven, en in werking treedt, wordt bij de toepassing van artikel 8, eerste lid, van de Kostenwet invordering rijksbelastingen de correctiefactor bij het begin van het jaar 2005 verlaagd met 0,023 en bij het begin van de jaren 2006, 2007 en 2008 met 0,014.
