@@ -1,0 +1,3 @@
+# Article VIII. Equal Treatment
+1. The charges imposed in the territory of either Contracting Party for the use of airports and other aviation facilities on the aircraft of a designated airline of the other Contracting Party shall not be higher than those imposed on aircraft of a national airline engaged in similar international air services.
+2. Neither of the Contracting Parties shall give a preference to its own or any other airline over the designated airlines of the other Contracting Party in the application of its customs, immigration, quarantine and similar regulations or in the use of airports, airways and air traffic services and associated facilities under its control.

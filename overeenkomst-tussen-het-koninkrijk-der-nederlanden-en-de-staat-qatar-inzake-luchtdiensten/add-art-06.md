@@ -1,0 +1,4 @@
+# Article VI. Applicability of Laws and Regulations
+1. The laws, regulations and procedures of one Contracting Party relating to the admission to or departure from its territory of aircraft engaged in international air navigation or to the operation and navigation of such aircraft shall be complied with by the designated airlines of the other Contracting Party upon entrance into, departure from and while within the said territory.
+2. The laws and regulations of each Contracting Party relating to the arrival in, or departure from its territory of passengers, crews, and cargo and in particular regulations regarding passports, customs, medical and quarantine formalities shall be applicable to passengers, crews, and cargo arriving in, or departing from the territory of one Contracting Party in aircraft of the airlines designated by the other Contracting Party.
+3. Baggage and cargo in direct transit shall be exempt from customs duties and other similar taxes.

@@ -1,0 +1,3 @@
+# Article XII. Exemption from Taxation
+1. Income or profits derived from the operation of an aircraft in international traffic by either designated airline, which is resident for purposes of income taxation in the territory of one Contracting Party, shall be exempt from any income tax and all other taxes on profits imposed by the Government of the other Contracting Party.
+2. Aircraft operated on international air services by the designated airlines of either Contracting Party, as well as property pertaining to the operation of such aircraft shall not be taxable in the territory of the other Contracting Party.

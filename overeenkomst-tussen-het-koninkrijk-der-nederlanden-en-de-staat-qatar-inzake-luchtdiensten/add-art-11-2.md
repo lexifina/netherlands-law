@@ -1,0 +1,3 @@
+# Artikel XI. Overmaking van inkomsten
+Elke Overeenkomstsluitende Partij verleent aan de luchtvaartmaatschappijen van de andere Overeenkomstsluitende Partij het recht van vrije overmaking, in convertibele valuta, van het batig saldo van de ontvangsten en uitgaven, door elke luchtvaartmaatschappij verkregen tijdens het normale verloop van haar exploitatie.
+Deze overmakingen worden regelmatig en zonder verwijl toegestaan en zijn gebaseerd op de gangbare koersen op de markt voor buitenlandse valuta voor lopende betalingen. Op deze overmakingen zijn geen andere kosten van toepassing dan de normale bankkosten.

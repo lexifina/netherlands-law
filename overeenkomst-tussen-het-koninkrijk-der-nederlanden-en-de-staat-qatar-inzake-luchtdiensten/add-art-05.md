@@ -1,0 +1,8 @@
+# Article V. Principles governing operation of Agreed Services
+1. There shall be fair and equal opportunity for the designated airlines of each Contracting Party to operate the agreed services on the specified routes between their respective territories.
+2. In operating the agreed services, the designated airlines of each Contracting Party shall take into account the interests of the designated airlines of the other Contracting Party so as not to affect unduly the services which the latter provides on the whole or part of the same routes.
+3. The air services provided by the designated airlines of the Contracting Parties shall bear a close relationship to the requirement of the public for transportation on the specified routes and shall have as their primary objective the provision, at a reasonable load factor, of capacity adequate to the current and reasonably anticipated requirements for the carriage of passengers, cargo and mail between the territories of the Contracting Parties.
+4. Provision for the carriage of passengers, cargo and mail both taken up and discharged at points on the specified routes in the territories of States other than that designating the airlines shall be made in accordance with the general principles that capacity shall be related to:
+a. traffic requirements to and from the territory of the Contracting Party which has designated the airlines;
+b. traffic requirements of the area through which the airlines passes after taking account of other transport services established by airlines of the States comprising the area; and
+c. the requirements of through airlines operation.

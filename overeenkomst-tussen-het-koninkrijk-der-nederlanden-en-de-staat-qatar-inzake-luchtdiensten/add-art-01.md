@@ -1,0 +1,8 @@
+# Article I. Definitions
+For the purpose of this Agreement, unless the context otherwise requires:
+a. the term "Aeronautical Authorities" means, in the case of the Kingdom of the Netherlands the Minister of Transport and Public Works or any person or body authorised to perform any functions at present exercised by the said Minister; and in the case of the State of Qatar the Minister of Communications and Transport or any person or body authorised to perform any functions at present exercised by the said Minister;
+b. the term "the Convention" means the Convention on International Civil Aviation opened for signature at Chicago on the seventh day of December 1944 and includes any Annex adopted under Article 90 of that Convention and any amendment of the Annexes of the Convention under Articles 90 and 94 thereof so far as those Annexes and amendments have been adopted by both Contracting Parties;
+c. the term "designated airline" means an airline which has been designated and authorized in accordance with Article III of the present Agreement;
+d. the term "tariff" means the prices to be paid for carriage of passengers and cargo and the conditions under which those prices apply, including prices and conditions for agency and other auxiliary services, but excluding remuneration and conditions for the carriage of mail;
+e. the terms "territory", "airline", "airservice", "international air service" and "stop for non-traffic purposes" have the meanings respectively assigned to them in Article 2, and 96 of the Convention.
+As regards the Kingdom of the Netherlands, the Agreement shall be applicable to the Kingdom in Europe only.
