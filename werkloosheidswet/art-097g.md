@@ -1,0 +1,4 @@
+# Artikel 97g
+1. De vergoedingen aan de gemeenten voor de voorzieningen op grond van de Wet inschakeling werkzoekenden, waarvoor personen als bedoeld in artikel 78a, woonachtig in die gemeenten, die recht op uitkering hebben op grond van hoofdstuk IIa en IIb als bedoeld in artikel 73, eerste lid, in aanmerking worden gebracht komen ten laste van het Uitvoeringsfonds voor de overheid.
+2. De subsidies, bedoeld in artikel 73a en de kosten in verband met de uitvoering van dat artikel komen, voor zover dat artikel wordt toegepast ten aanzien van personen als bedoeld in artikel 78a, ten laste van het Uitvoeringsfonds voor de overheid.
+3. Bij ministeriële regeling wordt het budget bepaald, ten laste van het Uitvoeringsfonds voor de overheid, voor de uitvoering van het eerste lid, en kunnen nadere regels worden gesteld in verband met de besteding.

@@ -1,0 +1,2 @@
+# Artikel 35a
+Indien de werknemer deelneemt aan een voor hem naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen noodzakelijke opleiding of scholing en het recht op uitkering op grond van artikel 76 blijft bestaan, worden op de uitkering geheel in mindering gebracht de inkomsten uit of in verband met de opleiding of scholing voor zover zij meer bedragen dan een nader door Onze Minister vast te stellen bedrag.
