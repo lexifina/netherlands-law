@@ -1,0 +1,2 @@
+# Artikel 37a
+Indien een rechtspersoon een gehele of gedeeltelijke geldelijke bijdrage ontvangt voor de verlening van rechtskundige diensten, worden aan een advocaat die een privaatrechtelijke of publiekrechtelijke dienstbetrekking heeft bij deze rechtspersoon geen vergoeding verstrekt voorzover de door hem op basis van een toevoeging verleende rechtsbijstand redelijkerwijs kan worden aangemerkt als een rechtskundige dienst waarvoor een geldelijke bijdrage is ontvangen.
