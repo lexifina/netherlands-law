@@ -1,0 +1,2 @@
+# Artikel II
+In afwijking in zoverre van artikel 16 van de Uitvoeringsregeling Invorderingswet 1990 wordt ten aanzien van de belastingschuldige die, anders dan op commerciële basis, samen met een of meer anderen een woning bewoont terwijl geen sprake is van een duurzaam gezamenlijke huishouding, als kosten van bestaan als bedoeld in artikel 13 van de Uitvoeringsregeling Invorderingswet 1990 in aanmerking genomen een bedrag van f 1067 zolang dit bedrag uitgaat boven 90% van de normuitkering voor een alleenstaande woningdeler van 23 jaar of ouder.
