@@ -1,0 +1,2 @@
+# Artikel II
+Degene aan wie op grond van artikel 15, eerste lid, onderdelen b en d, van de Wet gewetensbezwaren militaire dienst zoals luidend voor inwerkingtreding van deze wet een voorgoed verleende vrijstelling is verleend, wordt overeenkomstig de Wet gewetensbezwaren militaire dienst zoals deze ingevolge deze wet komt te luiden, aangemerkt als erkend gewetensbezwaarde in het genot van een voorgoed verleende ontheffing.
