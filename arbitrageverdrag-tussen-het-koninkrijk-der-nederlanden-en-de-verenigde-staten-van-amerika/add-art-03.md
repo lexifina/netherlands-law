@@ -1,0 +1,4 @@
+# Artikel III
+Dit verdrag zal worden bekrachtigd door Hare Majesteit de Koningin der Nederlanden en door den President der Vereenigde Staten van Amerika op advies en met goedkeuring van den Senaat der Vereenigde Staten.
+De akten van bekrachtiging zullen zoo spoedig mogelijk te Washington worden uitgewisseld en het verdrag zal in werking treden op den dag van de uitwisseling der akten van bekrachtiging, van welken datum af het op 2 Mei 1908 geteekende arbitrageverdrag zal ophouden kracht en uitwerking te hebben. Dit verdrag zal daarna voortdurend in werking blijven, tenzij en totdat het wordt beëindigd door schriftelijke opzegging door een der partijen aan de andere met een opzeggingstermijn van een jaar.
+Ter oorkonde daarvan hebben de wederzijdsche gevolmachtigden dit verdrag in dubbel in de Nederlandsche en Engelsche talen, welke beide teksten gelijke kracht zullen hebben, geteekend en van hunne zegels voorzien.
