@@ -1,4 +1,0 @@
-# Artikel I
-Het bepaalde in Hoofdstuk II, de artikelen 11, 12 en 12a en de Hoofdstukken IV-VI, met uitzondering van de artikelen 26a, 27, eerste en tweede lid, en 28 van de Huurwet is niet van toepassing in de volgende gemeenten:
-I. Asten, Bergen op Zoom, Boxmeer, Boxtel, Cuyk en St. Agatha, Deurne, Dongen, Drunen, Etten-Leur, Gemert, Gilze en Rijen, Goirle, Loon op Zand, Mierlo, Oisterwijk, Oosterhout, Oss, Roosendaal en Nispen, Rosmalen, Rucphen, Schijndel, Sint-Oedenrode, Someren, Steenbergen, Uden, Veghel, Vlijmen, Waalwijk, Werkendam, Zevenbergen en Zundert, alle gelegen in de provincie Noord-Brabant;
-II. de in de provincie Limburg ten zuiden van de gemeenten Echt en Ohé en Laak gelegen gemeenten, met uitzondering van Maastricht, Brunssum, Eygelshoven, Heerlen, Hoensbroek, Kerkrade, Nieuwenhagen, Schaesberg en Ubach over Worms.
