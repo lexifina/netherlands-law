@@ -1,0 +1,4 @@
+# Artikel IIIa
+1. Ontheffingen van het verbod van artikel 6, eerste lid, van de Mededingingswet die zijn verleend op grond van artikel 17 van de Mededingingswet, zoals dat luidde voorafgaand aan het tijdstip van inwerkingtreding van artikel I, onderdeel dA, van deze wet, blijven van kracht voor de tijd waarvoor zij zijn verleend met een maximum resterende tijd van 5 jaar.
+2. Op de in het vorige lid bedoelde ontheffingen is artikel 23 van de Mededingingswet van toepassing, zoals dat luidde voorafgaand aan het tijdstip van inwerkingtreding van artikel I, onderdeel dA, van deze wet.
+3. Bezwaarprocedures met betrekking tot beschikkingen op grond van de artikelen 17 en 22 van de Mededingingswet, waarin op het moment van de inwerkingtreding van dit artikel nog niet is beslist, worden buiten verdere behandeling gelaten.
