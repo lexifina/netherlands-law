@@ -1,0 +1,19 @@
+# Artikel 1a
+In deze wet en in de daarop gebaseerde regelingen wordt verstaan onder:
+a. accijnsgoed: een goed als bedoeld in artikel 1;
+b. vervaardigen van een accijnsgoed: elk handelen waarbij of waardoor een accijnsgoed ontstaat of de samenstelling van een accijnsgoed wordt gewijzigd;
+c. belastingentrepot: iedere plaats op het grondgebied van de Gemeenschap buiten Nederland waar op grond van de wettelijke bepalingen van de lid-staat waar de plaats zich bevindt, accijnsgoederen onder schorsing van accijns mogen worden vervaardigd, mogen worden verwerkt, voorhanden mogen zijn, mogen worden ontvangen en mogen worden verzonden;
+d. accijnsgoederenplaats: iedere plaats in Nederland waar op grond van de bepalingen van deze wet accijnsgoederen onder schorsing van accijns mogen worden vervaardigd, mogen worden verwerkt, voorhanden mogen zijn, mogen worden ontvangen en mogen worden verzonden;
+e. entrepot: zowel de douanebestemming vrij entrepot als de douaneregeling douane-entrepot, bedoeld in artikel 4, onderdelen 15 en 16, van het Communautair douanewetboek;
+f. plaats voor tijdelijke opslag: een plaats die als zodanig is goedgekeurd krachtens artikel 51, eerste lid, van het Communautair douanewetboek;
+g. lid-staat: een lid-staat van de Europese Gemeenschappen;
+h. grondgebied van de Gemeenschap: het grondgebied van de lid-staten van de Europese Gemeenschappen zoals dat is omschreven in artikel 2 van de Richtlijn betreffende de algemene regeling voor accijnsprodukten, het voorhanden hebben en het verkeer daarvan en de controles daarop (92/12/EEG van 25 februari 1992; PbEG L 76);
+i. derde land: elk ander grondgebied dan het grondgebied van de Gemeenschap;
+j. vergunninghouder van een geregistreerd bedrijf: de natuurlijke persoon of rechtspersoon die niet de hoedanigheid van vergunninghouder van een accijnsgoederenplaats of van een belastingentrepot bezit en die op grond van een ingevolge deze wet dan wel een ingevolge de wettelijke bepalingen van een andere lid-staat afgegeven vergunning gemachtigd is om bij de bedrijfsuitoefening accijnsgoederen onder schorsing van accijns uit een andere lid-staat te ontvangen;
+k. vergunninghouder van een niet-geregistreerd bedrijf: de natuurlijke persoon of rechtspersoon die niet de hoedanigheid van vergunninghouder van een accijnsgoederenplaats of van een belastingentrepot bezit en die op grond van een ingevolge deze wet dan wel een ingevolge de wettelijke bepalingen van een andere lid-staat afgegeven vergunning gemachtigd is om bij de bedrijfsuitoefening incidenteel accijnsgoederen onder schorsing van accijns uit een andere lid-staat te ontvangen;
+l. communautaire douaneregeling: de communautaire regelingen met betrekking tot douanevervoer, entrepots, actieve veredeling, behandeling onder douanetoezicht, tijdelijke invoer, passieve veredeling en uitvoer naar een derde land (wederuitvoer daaronder begrepen);
+m. intracommunautair vervoer: het vervoer van accijnsgoederen vanuit het grondgebied van een lid-staat naar het grondgebied van een andere lid-staat;
+n. schorsing van accijns: een stelsel waarin van accijnsgoederen die worden vervaardigd, worden verwerkt, voorhanden zijn of worden vervoerd, op grond van de bepalingen van deze wet dan wel op grond van de wettelijke bepalingen van een andere lid-staat de accijns nog niet is geheven;
+o. ondernemer: een ondernemer in de zin van de Wet op de omzetbelasting 1968;
+p. geleidedocument: een document dat op grond van de bepalingen van deze wet dan wel op grond van de wettelijke bepalingen van een andere lid-staat bij het vervoer van de accijnsgoederen aanwezig dient te zijn;
+q. GN-code: de code als bedoeld in verordening (EEG) nr. 2658/87 van de Raad van de Europese Gemeenschappen van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG L 256), zoals deze luidt op 19 oktober 1992 onderscheidenlijk, indien het minerale oliën betreft, op 1 oktober 1994.

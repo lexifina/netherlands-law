@@ -1,0 +1,2 @@
+# Artikel 53a
+Bij toepassing van artikel 52a dient in afwijking van artikel 53, eerste lid, en van artikel 10, tweede lid, en artikel 19, derde lid, van de Algemene wet inzake rijksbelastingen uiterlijk op de dag na het in artikel 52a bedoelde tijdstip aangifte te worden gedaan en de accijns op aangifte te worden voldaan.

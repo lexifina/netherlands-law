@@ -1,0 +1,2 @@
+# Artikel 11c
+Onder mousserende tussenprodukten worden verstaan alle niet als bier of wijn aan te merken produkten van GN-codes 2204, 2205 en 2206 met een alcoholgehalte van meer dan 1,2%vol maar niet meer dan 22%vol, die zijn verpakt in flessen met een champignonvormige stop die door draden of banden of anderszins is geborgd, ofwel een overdruk van 3 bar of meer hebben die is teweeggebracht door koolzuurgas in oplossing.

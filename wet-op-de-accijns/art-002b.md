@@ -1,0 +1,9 @@
+# Artikel 2b
+1. Als uitslag wordt mede aangemerkt het door een ondernemer of een publiekrechtelijk lichaam voor commerciële doeleinden voorhanden hebben van een accijnsgoed dat in een andere lid-staat is uitgeslagen dan wel ingevoerd en waarvan in Nederland de accijns niet is geheven.
+2. Voor de toepassing van het eerste lid worden onder het voor commerciële doeleinden voorhanden hebben van een accijnsgoed mede verstaan de levering van een accijnsgoed en het aanwenden van een accijnsgoed voor eigen verbruik in het kader van de onderneming of het publiekrechtelijke lichaam.
+3. Bij algemene maatregel van bestuur kan, onder daarbij te stellen voorwaarden en beperkingen, worden bepaald dat het eerste lid geen toepassing vindt indien sprake is van het op incidentele basis aanwenden van beperkte hoeveelheden accijnsgoederen voor eigen verbruik als bedoeld in het tweede lid.
+4. Bij algemene maatregel van bestuur worden, ter verzekering van de heffing, regels gesteld met betrekking tot:
+a. het vervoer van de in het eerste lid bedoelde accijnsgoederen vanuit een andere lid-staat naar Nederland;
+b. de verplichtingen waaraan de ondernemer of het lichaam als bedoeld in het eerste lid moet voldoen.
+5. In afwijking van het eerste en tweede lid wordt niet als uitslag aangemerkt het voorhanden hebben van minerale oliën die in een andere lid-staat zijn uitgeslagen dan wel ingevoerd, in de normale reservoirs van bedrijfsmotorrijtuigen en die bestemd zijn als brandstof voor deze motorrijtuigen of in de normale reservoirs van containers voor speciale doeleinden en die bestemd zijn voor de werking tijdens het vervoer van specifieke systemen die tot de uitrusting van deze containers behoren.
+6. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.

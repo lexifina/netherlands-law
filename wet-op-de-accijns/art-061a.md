@@ -1,0 +1,3 @@
+# Artikel 61a
+1. De vervoerder van accijnsgoederen is hoofdelijk aansprakelijk voor het bedrag aan accijns dat wordt vertegenwoordigd door de hoeveelheid accijnsgoederen die door hem wordt vervoerd vanuit een accijnsgoederenplaats naar een andere accijnsgoederenplaats, naar een belastingentrepot, naar een geregistreerd bedrijf of naar een niet-geregistreerd bedrijf in een andere lid-staat indien tijdens dat vervoer door hem of door zijn toedoen een onregelmatigheid of een overtreding is begaan.
+2. De vervoerder of eigenaar van accijnsgoederen die op grond van artikel 56, derde lid, zekerheid heeft gesteld in plaats van de vergunninghouder van een accijnsgoederenplaats is hoofdelijk aansprakelijk voor het in artikel 56, derde lid, bedoelde bedrag aan accijns.
