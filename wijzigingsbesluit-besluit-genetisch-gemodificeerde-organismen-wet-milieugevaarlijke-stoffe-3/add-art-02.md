@@ -1,0 +1,2 @@
+# Artikel II
+Op de aanvraag om een vergunning als bedoeld in artikel 23 van het Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen die is ingediend voor de datum van inwerkingtreding van dit besluit, wordt beslist overeenkomstig het Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen, zoals dat luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit.
