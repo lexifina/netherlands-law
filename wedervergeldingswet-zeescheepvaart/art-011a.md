@@ -1,0 +1,3 @@
+# Artikel 11a
+1. Onze Minister kan van een ieder die bij het vervoer op een door hem te omschrijven zeevervoermarkt is betrokken de inlichtingen verlangen, die hij nodig acht om te kunnen beoordelen, of aanleiding bestaat tot toepassing van artikel 2 of artikel 10.
+2. Onze Minister kan, indien een internationale afspraak of een besluit van een volkenrechtelijke organisatie betrekking hebbende op het vervoer ter zee dit vereist, van een ieder, die bij het vervoer op een door hem te omschrijven zeevervoermarkt is betrokken, inlichtingen verlangen die hij nodig acht om te kunnen voldoen aan de in die afspraak of dat besluit neergelegde verplichtingen.

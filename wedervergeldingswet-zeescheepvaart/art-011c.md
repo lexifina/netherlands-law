@@ -1,0 +1,4 @@
+# Artikel 11c
+1. Een ieder van wie op grond van artikel 11a inlichtingen zijn verlangd, is verplicht de verlangde inlichtingen volledig en naar waarheid te verstrekken op de wijze en binnen de termijn, door Onze Minister te bepalen.
+2. Een ieder van wie op grond van artikel 11b, eerste en tweede lid, inzage in boeken en bescheiden is verlangd, is verplicht deze te verlenen met inachtneming van de door Onze Minister te geven aanwijzingen.
+3. Zij, die uit hoofde van hun stand, beroep of ambt tot geheimhouding verplicht zijn, kunnen zich verschonen van het geven van inlichtingen, doch uitsluitend voor zover betreft hetgeen hun in hun hoedanigheid is toevertrouwd. Zij kunnen voorts inzage van de in artikel 11b, eerste lid, bedoelde boeken en bescheiden weigeren, voor zover hun plicht tot geheimhouding hen daartoe noopt.
