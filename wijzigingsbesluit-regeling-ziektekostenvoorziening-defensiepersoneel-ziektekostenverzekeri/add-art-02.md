@@ -1,0 +1,2 @@
+# Artikel II
+Betrokkenen die zich vrijwillig hebben ingeschreven voor een verzekering ingevolge artikel 90a van het Algemeen militair ambtenarenreglement kunnen tot 1 januari 2001 de te hunnen laste blijvende ziektekosten met betrekking tot een aaneengesloten tijdvak dat korter is dan twaalf maanden en eindigt op de dag vóór de datum van inschrijving, binnen een periode van zes maanden, voor het verlenen van een tegemoetkoming in aanmerking brengen.
