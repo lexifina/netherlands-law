@@ -1,0 +1,2 @@
+# Artikel VIII
+De bepalingen van de Wet op de accijns blijven van toepassing met betrekking tot feiten die leiden tot de verschuldigdheid van accijns of de verplichting tot voldoening van accijns alsmede tot het verlenen van teruggaaf van accijns van alcoholvrije dranken, van suiker en suikerhoudende produkten of van pruimtabak en snuiftabak die hebben plaatsgevonden vóór 1 januari 1993 en met betrekking tot strafbare feiten die hebben plaatsgevonden vóór die datum.

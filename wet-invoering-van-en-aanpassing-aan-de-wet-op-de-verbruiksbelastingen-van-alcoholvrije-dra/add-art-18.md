@@ -1,0 +1,2 @@
+# Artikel XVIII
+Waar in deze wet de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten is aangehaald met vermelding van het Staatsblad waarin die wet is geplaatst, wordt bij plaatsing van deze wet in het Staatsblad na "Stb. 1992," ingevoegd het nummer van het Staatsblad waarin de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten is geplaatst.
