@@ -1,0 +1,2 @@
+# Artikel VII. Vervangende verwijzing artikelen programma's van eisen
+Waar in de artikelen van de Wet op het voortgezet onderwijs zoals luidend met ingang van 1 augustus 1996 wordt verwezen naar de artikelen 86, 87 en 88 van die wet, wordt deze verwijzing tot het tijdstip, bedoeld in artikel XV, eerste lid, van de Wet van 27 februari 1992 (Stb. 112) aangemerkt als een verwijzing naar dat artikel XV.

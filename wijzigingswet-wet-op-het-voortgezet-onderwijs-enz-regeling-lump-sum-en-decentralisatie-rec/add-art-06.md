@@ -1,0 +1,2 @@
+# Artikel VI. Vervangende verwijzing gemiddelde personeelslast in artikel 84b wet op het voortgezet onderwijs
+In afwijking van artikel 84b van de Wet op het voortgezet onderwijs zoals gewijzigd door deze wet, heeft het in dat artikel bedoelde percentage tot 1 augustus 1998 betrekking op de salarissen die onderdeel zijn van de met inachtneming van artikel X berekende gemiddelde personeelslast van de afzonderlijke scholen.
