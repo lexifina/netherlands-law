@@ -1,0 +1,4 @@
+# ARTIKEL XXXIV
+A. Aan de betrokkene, bedoeld in artikel XXXIII, onder b, onderdelen 1 tot en met 3, wordt in de maand december 1998 een eenmalige uitkering verstrekt ter grootte van 6,48% van de voor hem geldende berekeningsbasis.
+B. Aan de betrokkene, bedoeld in artikel XXXIII, onder b, onderdelen 4 en 5, wordt in de maand december 1998 een eenmalige uitkering verstrekt ter grootte van 6% van de voor hem geldende berekeningsbasis.
+C. De eenmalige uitkering, als bedoeld onder A en B, heeft geen algemeen karakter en wordt niet gerekend tot de bezoldiging of het salaris in de zin van de bezoldigingsvoorschriften. De eenmalige uitkering maakt evenmin deel uit van de bij het vaststellen van de pensioengrondslag, bedoeld in artikel C1 van de Algemeen militaire pensioenwet, in beschouwing te nemen inkomsten en emolumenten, waarop de gewezen militair aanspraak had of zou hebben gehad.
