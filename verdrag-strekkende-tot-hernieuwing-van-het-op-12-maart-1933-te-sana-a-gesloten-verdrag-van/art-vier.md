@@ -1,0 +1,3 @@
+# Artikel Vier
+De voortbrengselen van den bodem en de nijverheidsproducten van de Eene Verdragsluitende Partij zullen bij hun invoer in het gebied van de Andere Partij, voor wat betreft de invoerrechten en alle bijkomstige rechten en de wijze van heffing, behandeld worden als die der meestbegunstigde natie.
+Desgelijks zullen, bij uitvoer van voortbrengselen van den bodem en van nijverheidsproducten uit het gebied van de Eene Verdragsluitende Partij met bestemming naar het gebied, van de Andere Partij, voor wat betreft de uitvoerrechten en alle bijkomstige rechten en de wijze van heffing, deze goederen behandeld worden als voortbrengselen van den bodem en nijverheidsproducten, bestemd voor het meestbegunstigde derde land.
