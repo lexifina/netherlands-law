@@ -1,0 +1,5 @@
+# Artikel 3a
+1. Tenzij de doodsoorzaak of de reden van het doden een zodanige is dat het hoofd of de bestuurder van een inrichting, als bedoeld in artikel 1, zonder nader onderzoek van oordeel is dat er geen sprake is van een besmettelijke veeziekte, waarop enig wettelijk voorschrift van toepassing is, dient het hoofd of de bestuurder met betrekking tot voor onderzoek aangeboden slachtdieren zich ervan te overtuigen dat een besmettelijke veeziekte, als eerderbedoeld, zich niet heeft voorgedaan.
+2
+Het hoofd of de bestuurder, als in het eerste lid bedoeld, kan deze overtuiging bij gestorven of in nood gedode slachtdieren ten aanzien van miltvuur slechts krijgen nadat microscopisch bloedonderzoek, da in twijfelachtige gevallen langs bacteriologische of serologische weg moet worden aangevuld, heeft plaatsgevonden.
+Alvorens verdere handelingen worden verricht aan de aangeboden gestorven of in nood gedode slachtdieren dient het in dit lid bedoelde onderzoek bij daarvoor in aanmerking komende slachtdieren te geschieden.
