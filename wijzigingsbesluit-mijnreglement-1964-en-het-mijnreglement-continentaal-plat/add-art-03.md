@@ -1,0 +1,2 @@
+# ARTIKEL III
+Het verbod, bedoeld in artikel 49a, eerste lid, van het Mijnreglement continentaal plat, geldt met betrekking tot sanitair afval niet voor de in artikel 49a, tweede lid, onderdeel b, onder 3°, van het Mijnreglement continentaal plat bedoelde mijnbouwinstallaties tot de eerste dag van de twaalfde kalendermaand na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
