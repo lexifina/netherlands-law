@@ -1,0 +1,6 @@
+# Artikel 28a
+1. Bij het verzoek moeten worden overgelegd een afschrift van de akte van geboorte alsmede een gezamenlijk ondertekende verklaring van bij algemene maatregel van bestuur aangewezen deskundigen, afgegeven ten hoogste zes maanden voor de datum van indiening van het verzoek, waaruit blijkt:
+a. de overtuiging van de verzoeker dat hij tot het andere geslacht behoort dan in de akte van geboorte is vermeld en waarin is vervat het oordeel van de daartoe bevoegde deskundige dat die overtuiging, gelet op de periode waarin de verzoeker als zodanig heeft geleefd en zo mogelijk op andere daarbij te vermelden feiten of omstandigheden, als van blijvende aard kan worden beschouwd;
+b. of en zo ja, in hoeverre de verzoeker lichamelijk aan het verlangde geslacht zodanig is aangepast als uit medisch of psychologisch oogpunt mogelijk en verantwoord is;
+c. dat de verzoeker als mannelijk in de akte van geboorte vermeld staande, nimmer meer in staat zal zijn kinderen te verwekken, dan wel als vrouwelijk in de akte van geboorte vermeld staande, nimmer meer in staat zal zijn kinderen te baren.
+2. In de verklaring behoeft het in het eerste lid onder a bedoelde onderdeel niet te worden opgenomen indien de verzoeker lichamelijk reeds aan het verlangde geslacht is aangepast.

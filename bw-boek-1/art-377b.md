@@ -1,0 +1,4 @@
+# Artikel 377b
+1. De ouder die met het gezag is belast, is gehouden de niet met het gezag belaste ouder op de hoogte te stellen omtrent gewichtige aangelegenheden met betrekking tot de persoon en het vermogen van het kind en deze te raadplegen - zo nodig door tussenkomst van derden - over daaromtrent te nemen beslissingen. Op verzoek van een ouder kan de rechter ter zake een regeling vaststellen.
+2. Indien het belang van het kind zulks vereist kan de rechter zowel op verzoek van de met het gezag belaste ouder als ambtshalve bepalen dat het eerste lid van dit artikel buiten toepassing blijft.
+3. De artikelen 377a, vierde lid, en 377e van dit boek zijn van overeenkomstige toepassing.

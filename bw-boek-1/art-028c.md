@@ -1,0 +1,3 @@
+# Artikel 28c
+1. De wijziging van de vermelding van het geslacht heeft haar gevolgen, die uit dit boek voortvloeien, vanaf de dag waarop de ambtenaar van de burgerlijke stand aan de akte van geboorte een latere vermelding toevoegt van de last tot wijziging.
+2. De wijziging van de vermelding van het geslacht laat de op het in het eerste lid genoemde tijdstip bestaande familierechtelijke betrekkingen en de daaruit voortvloeiende op dit boek gegronde rechten, bevoegdheden en verplichtingen onverlet. De verzoeken in verband met artikel 157 en in verband met artikel 394 van dit boek kunnen ook worden gedaan na het in het eerste lid genoemde tijdstip.
