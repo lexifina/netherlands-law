@@ -1,0 +1,5 @@
+# Artikel IV
+1. De Costaricaanse Regering heeft, na overleg met de Nederlandse Regering, het recht te verzoeken om terugtrekking van een Nederlandse deskundige wiens werk of gedrag onbevredigend is;
+De Nederlandse Regering heeft, eveneens na overleg met de Costaricaanse Regering, op ieder moment het recht een Nederlands personeelslid terug te trekken;
+In geval van een dergelijke terugtrekking zal de Nederlandse Regering, indien de Costaricaanse Regering zulks verzoekt, alles doen wat in haar macht ligt om te zorgen voor passende vervanging voor het teruggetrokken Nederlandse personeelslid.
+2. Het Nederlandse personeel zal zich bij de uitoefening van zijn taken houden aan de bepalingen die door de desbetreffende bevoegde autoriteiten van ieder land zijn vastgelegd. Zij zullen wat betreft de dagelijkse werkzaamheden van een project regelmatig overleg plegen met de Costaricaanse autoriteiten die verantwoordelijk zijn voor de uitvoering van dat project en de werkinstructies van die autoriteiten opvolgen.

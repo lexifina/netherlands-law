@@ -1,0 +1,5 @@
+# Artikel VIII
+1. Deze Overeenkomst treedt in werking op de datum dat beide Regeringen elkaar schriftelijk op de hoogte hebben gesteld van het feit dat aan de onderscheiden constitutionele vereisten van elk land is voldaan en vervangt de op 13 februari 1986 tot stand gekomen Overeenkomst inzake voorrechten en immuniteiten van de naar Costa Rica door de Nederlandse Regering in het kader van technische samenwerking uitgezonden deskundigen.
+2. Deze Overeenkomst kent een looptijd van twee jaar. Indien geen der Partijen drie maanden voor afloop van deze termijn schriftelijk verklaart deze Overeenkomst te willen beëindigen, zal de overeenkomst telkens stilzwijgend met een periode van één jaar worden verlengd, waarbij opzegging onder genoemde voorwaarden steeds mogelijk is.
+3. Wat betreft projecten die zijn begonnen vóór de opzeggingstermijn van deze Overeenkomst, zullen de voorgaande bepalingen van kracht blijven tot het betreffende project is afgesloten.
+4. Deze Overeenkomst geldt alleen voor het Europese deel van het Koninkrijk der Nederlanden.
