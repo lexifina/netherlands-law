@@ -1,0 +1,3 @@
+# Artikel I
+1. Deze Overeenkomst heeft ten doel de verwezenlijking van werkgelegenheidsprojecten, hierna te noemen „Projecten", die geheel of gedeeltelijk worden gefinancierd door middel van investering van de spaargelden van Turkse werknemers in het buitenland.
+2. De hierboven genoemde Projecten betreffen arbeidersondernemingen, plattelandscoöperaties voor ontwikkeling, alsmede coöperaties van handwerkslieden en moeten in overeenstemming zijn met de doeleinden en beginselen van de planning van de Turkse Regering alsmede met de beginselen van het Nederlandse beleid inzake ontwikkelingssamenwerking, terwijl er met name rekening dient te worden gehouden met de sociale aspecten.

@@ -1,0 +1,3 @@
+# Article I
+1. Le présent accord vise la réalisation de projets générateurs d'emplois, ci-après à désigner sous le vocable de „Projets", à financer en partie ou en totalité au moyen d'investissements des épargnes des travailleurs turcs à l'étranger.
+2. Les Projets visés ci-dessus concernent les sociétés ouvrières, les coopératives de développement rurales ainsi que les coopératives artisanales, et devront être en conformité avec les buts et principes de la Planification du Gouvernement turc ainsi qu'avec les principes de la Politique néerlandaise de Coopération au Développement, en tenant notamment compte des aspects sociaux.
