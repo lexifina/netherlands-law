@@ -1,0 +1,2 @@
+# Artikel II
+Dit Protocol treedt in werking wanneer elk der Partijen bij het Noord-Atlantisch Verdrag aan de Regering van de Verenigde Staten van Amerika mededeling heeft gedaan dat zij het aanvaardt. De Regering van de Verenigde Staten van Amerika stelt alle Partijen bij het Noord-Atlantisch Verdrag in kennis van de datum van ontvangst van iedere mededeling van aanvaarding en van de datum van inwerkingtreding van dit Protocol.
