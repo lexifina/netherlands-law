@@ -1,0 +1,3 @@
+# Artikel VII
+1. In wettelijke procedures en rechtsgedingen waarbij de Topografische Dienst is betrokken, treedt met ingang van de datum van inwerkingtreding van deze wet het Kadaster in de plaats van de Staat of Onze Minister.
+2. In zaken waarin voor de datum van inwerkingtreding van deze wet aan de Nationale ombudsman is verzocht een onderzoek te doen of de Nationale ombudsman een onderzoek heeft ingesteld naar een gedraging die kan worden toegerekend aan de Topografische Dienst, treedt het bestuur op die datum als bestuursorgaan in de zin van de Wet Nationale ombudsman in de plaats van Onze Minister.
