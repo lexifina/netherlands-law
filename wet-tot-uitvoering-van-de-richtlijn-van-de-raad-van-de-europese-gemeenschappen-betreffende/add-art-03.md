@@ -1,0 +1,2 @@
+# Artikel III
+Indien de arbeidsovereenkomst, bedoeld in artikel I voor het in werking treden van deze wet is aangegaan, verstrekt de werkgever aan de arbeider op diens verlangen schriftelijk de gegevens, bedoeld in artikel 655, eerste lid, van Boek 7 van het Burgerlijk Wetboek. De opgave wordt verstrekt binnen twee maanden na het tijdstip waarop de werkgever kennis heeft genomen van het verzoek van de arbeider. Het tweede tot en met het achtste lid van artikel 655 zijn van overeenkomstige toepassing.
