@@ -3,7 +3,7 @@
 ### § 1.1. Algemeen
 ### § 1.2. De provinciale milieuverordening
 ## Hoofdstuk 2. Adviesorganen
-### § 2.1. De Raad voor het milieubeheer
+### § 2.1. De Nederlandse emissieautoriteit
 ### § 2.2. De Commissie voor de milieu-effectrapportage
 ### § 2.3. De Commissie genetische modificatie
 ### § 2.4. De provinciale milieucommissie
@@ -90,7 +90,13 @@
 ### Titel 15.9A. Rechten
 ### Titel 15.10. Afvalbeheersbijdragen
 ### Titel 15.11. Financiering van de zorg voor gesloten stortplaatsen
-## Hoofdstuk 16. Financiële zekerheid
+## Hoofdstuk 16. Handel in emissierechten
+### Titel 16.1. Algemeen
+### Titel 16.2. Broeikasgassen en broeikasgasemissierechten
+#### Afdeling 16.2.1. Algemeen
+#### Afdeling 16.2.3. Het toewijzen en verlenen van broeikasgasemissierechten
+##### § 16.2.3.1. Het nationale toewijzingsplan
+##### § 16.2.3.2. Het nationale toewijzingsbesluit, overige toewijzingsbesluiten en de verlening van broeikasgasemissierechten
 ## Hoofdstuk 17. Maatregelen in bijzondere omstandigheden
 ## Hoofdstuk 18. Handhaving
 ## Hoofdstuk 19. Bepalingen in verband met de openbaarheid
