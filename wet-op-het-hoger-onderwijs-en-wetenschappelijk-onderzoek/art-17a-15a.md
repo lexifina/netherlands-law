@@ -1,0 +1,2 @@
+# Artikel 17a.15a. Overgangsrecht bevoegdheden minister voor opleidingen waaraan accreditatie ingevolge de wet is verbonden
+Op opleidingen waaraan op grond van de artikelen 17a.12, 17a.13, 17a.14 of 17a.15, accreditatie is verbonden, zijn van overeenkomstige toepassing de artikelen 6.5, met uitzondering van het eerste lid, onderdelen b en c, 6.6, eerste lid, en 6.10, met uitzondering van het eerste lid, onderdeel b, zoals die artikelen van toepassing waren op 25 september 2003.

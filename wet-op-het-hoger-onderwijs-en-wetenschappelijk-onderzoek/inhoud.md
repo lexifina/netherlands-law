@@ -28,7 +28,7 @@
 ## Hoofdstuk 7. Onderwijs
 ### Titel 1. Het onderwijs, de examens en de promoties
 #### Paragraaf 1. Het onderwijs en de examens
-#### Paragraaf 2. Gemeente van vestiging
+#### Paragraaf 2. Vestigingsplaats opleiding
 #### Paragraaf 3. De promoties
 #### Paragraaf 4. Graden en titulatuur
 ### Titel 2. Vooropleidingseisen en toelatingseisen
@@ -118,3 +118,4 @@
 ## Hoofdstuk 17c. Overgangs- en invoeringsbepaling van de wet betreffende versnelde invoering toets nieuwe opleiding
 ## Hoofdstuk 17d. Overgangsbepalingen van de wet ter uitvoering van de in het wetenschapsbudget 2000 opgenomen voornemens en tot het aanbrengen van een aantal technische wijzigingen
 ## Hoofdstuk 17e. Overgangsrecht Wet van 2 juli 2003 (Stb. 287)
+## Hoofdstuk 17f. Overgangsrecht wet van 24 juni 2004 (stb. 321)
