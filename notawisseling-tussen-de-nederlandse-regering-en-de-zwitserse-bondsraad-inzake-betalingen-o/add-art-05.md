@@ -1,0 +1,5 @@
+# V
+Les paiements découlant d'un contrat d'assurance de la branche „vie" sont considérés comme paiements de nature non commerciale au sens du protocole y relatif du 6 mai 1946, ceci avec les précisions suivantes:
+Le transfert des primes d'assurances de capital en cas de décès ou de vie ou d'assurances de rente est autorisé pour autant que les polices aient été conclues par des ressortissants suisses avant le 6 mai 1946. Le transfert des primes afférentes à des polices conclues ultérieurement par quiconque est autorisé lorsque la demande est économiquement justifiée.
+Le transfert des prestations résultant d'un contrat d'assurance de capital en cas de décès ou de vie est régi par les dispositions de l'art. 6 lit. b et c, dudit protocole. Les autorités néerlandaises s'engagent à traiter dans l'esprit le plus libéral les demandes de transfert en faveur de ressortissants suisses rentrés des Pays-Bas en Suisse.
+Les rentes sont assimilées aux revenus dans le sens de l'article 6, lit. a, dudit protocole.

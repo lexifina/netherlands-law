@@ -1,0 +1,6 @@
+# III
+Les excédents qui existaient au 31 décembre 1952 au-delà de la quote-part du contingent de transfert pour le 4e trimestre 1952 et des intérêts transférables dans le secteur financier, ne peuvent être transférés que dans la mesure suivante:
+a. une part de 10 % pour chaque année civile, la part restante - 90 % en 1953, 80 % en 1954, etc. - et non absorbée par des transferts supplémentaires ou cessions prévus ci-après étant donc à déduire des excédents déterminés trimestriellement selon les dispositions du chapitre II;
+b. toute somme supplémentaire admise au transfert par les autorités compétentes des deux pays.
+Seront examinés avec bienveillance notamment les cas où la réserve pour sinistres en suspens au 31 décembre 1952, ayant servi de base à la détermination des excédents arriérés, se serait révélée insuffisante. En principe, les demandes y relatives doivent être présentées aux autorités des deux pays jusqu'au 1er mai 1956.
+Les excédents arriérés peuvent être cédés à d'autres sociétés d'assurances suisses dans la mesure où les actifs de la société cessionnaire, admis pour la détermination des excédents, étaient au 31 décembre 1952 inférieurs aux réserves définies aux alinéas b. et c. du chapitre II.
