@@ -1,0 +1,3 @@
+# B
+1. De commissie hoort de ambtenaar, wiens ontslag of disciplinaire bestraffing wordt overwogen, tenzij deze heeft verklaard er geen prijs op te stellen door de commissie te worden gehoord of zonder gegronde reden aan een daartoe gedane oproeping geen gevolg heeft gegeven.
+2. De commissie is bevoegd alle inlichtingen in te winnen welke zij voor een goed inzicht in de aan haar voorgelegde zaken nodig acht. Daartoe is zij onder meer bevoegd ambtenaren te horen en kennis te nemen van alle op de zaak betrekking hebbende stukken en bescheiden voor zover het openbaar belang zich daartegen niet verzet.
