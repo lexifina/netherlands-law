@@ -1,0 +1,3 @@
+# Artikel 5a
+1. Het bedrag van de boete, bedoeld in artikel 93d, vijfde lid, eerste volzin, van de Wet toezicht natura-uitvaartverzekeringsbedrijf wordt bepaald op de wijze, voorzien in bijlage B bij dit besluit.
+2. De Pensioen- & Verzekeringskamer kan het bedrag van de boete lager stellen dan in bijlage B is bepaald, indien het bedrag van de boete in een bepaald geval op grond van bijzondere omstandigheden onevenredig hoog is.
