@@ -1,0 +1,2 @@
+# Artikel 5B
+Indien hetzij donsuitslagen, hetzij meconiumuitslagen hetzij uitslagen van onderzoek op liggenblijvers S.e. en/of S.t. positief zijn dienen bij de volgende uitkomst (na bekend worden van de positieve uitslag) van dit betreffende vermeerderingskoppel naast het reguliere onderzoek, 60 liggenblijvers te worden bemonsterd. Deze monsters worden genomen onder verantwoordelijkheid van de ondernemer die de broederij uitoefent, volgens het protocol in Bijlage III. De monsters worden geanalyseerd door een door de Voorzitter van het Productschap erkend laboratorium.
