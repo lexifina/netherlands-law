@@ -1,0 +1,2 @@
+# ARTIKEL XXIV
+Ingeval de samenloop van voorstellen van wet die in het vierde kwartaal van 1997 door de Tweede Kamer der Staten-Generaal zijn aangenomen en wijzigingen aanbrengen in belastingwetten of daarmee verband houdende wetten niet of niet juist is geregeld of als gevolg van die samenloop of die wijzigingen onjuistheden in de aanduiding van artikelonderdelen, verwijzingen en dergelijke ontstaan in bedoelde wetten, herstelt Onze Minister van Financiën zulks bij ministeriële regeling.
