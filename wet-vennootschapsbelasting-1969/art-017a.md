@@ -2,7 +2,7 @@
 1. Tot een Nederlandse onderneming worden gerekend:
 a. in Nederland gelegen onroerende zaken, daaronder begrepen:
 1°. rechten die direct of indirect betrekking hebben op in Nederland gelegen onroerende zaken en
-2°. rechten die samenhangen met de exploratie en de exploitatie van in Nederland aanwezige natuurlijke rijkdommen, of rechten waaraan deze zijn onderworpen;
+2°. rechten die samenhangen met de exploratie en de exploitatie van in Nederland aanwezige natuurlijke rijkdommen waaronder ook wordt gerekend de opwekking van energie uit het water, de stromen en de winden, of rechten waaraan deze zijn onderworpen;
 b. rechten op aandelen in de winst of de medegerechtigdheid tot het vermogen van een onderneming waarvan de leiding in Nederland is gevestigd voorzover zij niet opkomen uit effectenbezit;
 c. schuldvorderingen op een in Nederland gevestigde vennootschap indien de gerechtigde tot de schuldvordering een aanmerkelijk belang als bedoeld in artikel 17, derde lid, onderdeel b, in de vennootschap heeft;
 d. werkzaamheden die worden verricht als bestuurder of commissaris van een in Nederland gevestigd lichaam in de zin van de Algemene wet inzake rijksbelastingen, ook indien de bevoegdheid is beperkt tot buiten Nederland gelegen gedeelten van de onderneming van dat lichaam;

@@ -21,10 +21,10 @@
 #### Paragraaf 3.4.2. Resultaat uit een werkzaamheid
 ### Afdeling 3.5. Belastbare periodieke uitkeringen en verstrekkingen
 ### Afdeling 3.6. Belastbare inkomsten uit eigen woning
+### Afdeling 3.6a. Aftrek wegens geen of geringe eigenwoningschuld
 ### Afdeling 3.7. Uitgaven voor inkomensvoorzieningen
 ### Afdeling 3.8. Negatieve uitgaven voor inkomensvoorzieningen
 ### Afdeling 3.9. Negatieve persoonsgebonden aftrek
-### Afdeling 3.10. Uitgaven voor kinderopvang
 ### Afdeling 3.11. Waardering niet in geld genoten inkomen
 ### Afdeling 3.12. Tijdstip genieten en aftrek
 ### Afdeling 3.13. Verliesverrekening
@@ -61,7 +61,7 @@
 ### Afdeling 6.3. Verliezen op beleggingen in durfkapitaal
 ### Afdeling 6.4. Uitgaven voor levensonderhoud van kinderen
 ### Afdeling 6.5. Buitengewone uitgaven
-### Afdeling 6.6. Weekenduitgaven voor gehandicapte kinderen
+### Afdeling 6.6. Weekenduitgaven voor gehandicapten
 ### Afdeling 6.7. Scholingsuitgaven
 ### Afdeling 6.8. Uitgaven voor monumentenpanden
 ### Afdeling 6.9. Aftrekbare giften
