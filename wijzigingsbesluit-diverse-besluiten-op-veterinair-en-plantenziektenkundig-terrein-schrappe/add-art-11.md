@@ -1,4 +1,0 @@
-# Artikel XI
-1. Dit besluit treedt in werking met ingang van 1 januari 2003.
-2. De besluiten op grond van artikel 8 van het Besluit bestrijding bacterievuur 1983, artikel 4 van het Besluit bestrijding wratziekte 1973 en de artikelen 2, eerste lid, 3, eerste lid, en 5 van het San José-schildluisbesluit 1977, genomen voor de inwerkingtreding van dit besluit, gelden als een besluit van de Minister van Landbouw, Natuurbeheer en Visserij.
-3. In procedures en rechtsgedingen als bedoeld in de hoofdstukken 6, 7 en 8 van de Algemene wet bestuursrecht, betreffende besluiten op grond van de Besluit bestrijding bacterievuur 1983, het Besluit bestrijding wratziekte 1973 en het San José-schildluisbesluit 1977, treedt de Minister van Landbouw, Natuurbeheer en Visserij als bevoegd bestuursorgaan of procespartij in de plaats van de directeur van de Plantenziektenkundige Dienst.
