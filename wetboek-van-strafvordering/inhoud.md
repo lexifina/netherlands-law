@@ -122,10 +122,13 @@
 ### Titel IX. Beklag
 ### Titel X. Internationale rechtshulp
 #### afdeling Eerste. Algemene bepalingen
+#### Eerste afdeling A. Internationale gemeenschappelijke onderzoeksteams
 #### afdeling Tweede. Feiten begaan aan boord van luchtvaartuigen
 #### afdeling Derde. Overdracht en overname van strafvervolging
-##### § 1. Overdracht van strafvervolging
-##### § 2. Overname van strafvervolging
+##### § 1. Overdracht van strafvervolging door Onze Minister van Justitie
+##### § 1a. Overdracht van strafvervolging door de officier van justitie
+##### § 2. Overname van strafvervolging door Onze Minister van Justitie
+##### § 2a. Overname van strafvervolging door de officier van justitie
 ## Boek Vijfde. Tenuitvoerlegging en kosten
 ### Titel I. Tenuitvoerlegging
 #### afdeeling Eerste. Algemeene bepalingen
