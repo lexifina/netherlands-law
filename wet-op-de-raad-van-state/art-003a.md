@@ -9,3 +9,4 @@ De Raad doet de mededeling van beslissingen, bedoeld in artikel 46p, vijfde en z
 – in plaats van «de rechterlijke ambtenaar»: de vice-president of de staatsraad;
 – in plaats van «op voordracht van Onze Minister»: op voordracht van de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 – in plaats van «de Hoge Raad»: de Raad
+3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot wachtgeld en voorzieningen in verband met ziekte en arbeidsongeschiktheid.
