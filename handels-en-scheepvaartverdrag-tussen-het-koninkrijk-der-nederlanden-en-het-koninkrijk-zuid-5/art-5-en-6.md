@@ -1,0 +1,3 @@
+# Ad artikel 5 en 6
+1. Het is wel verstaan, dat de uitzonderingen op den regel van artikel 5, alinea 2, niet op zoodanige wijze mogen worden toegepast, dat zij eene verkapte beperking van het internationale ruilverkeer zouden opleveren.
+2. Zoolang als het internationaal verdrag betreffende de afschaffing van de in- en uitvoerverboden en beperkingen, gesloten te Genève den 8sten November 1927, niet is aanvaard voor Nederlandsch-Indië, Suriname en Curaçao, zullen de bepalingen van artikel 5 en van artikel 6, voorzoover die betrekking hebben op deze materie, niet van toepassing zijn op Nederlandsch-Indië, Suriname en Curaçao.
