@@ -1,0 +1,3 @@
+# Artikel 77c
+1. Indien bij het in of op het continentaal plat ten behoeve van een opsporingsonderzoek of het winnen van delfstoffen leggen van een pijpleiding of bij het verrichten van onderhouds- of herstelwerkzaamheden aan zodanige leiding schroot of ander materiaal op de zeebodem is terechtgekomen moet dit, voor zover de aanwezigheid hiervan gevaar voor de veiligheid van de scheepvaart of van de visserij kan opleveren, onverwijld worden verwijderd.
+2. Ten aanzien van onderhouds- en herstelwerkzaamheden aan een pijpleiding als in het eerste lid bedoeld is artikel 73, eerste lid, van overeenkomstige toepassing.

@@ -1,0 +1,4 @@
+# Artikel 34a
+1. Indien een mijnbouwinstallatie tengevolge van een kracht als in artikel 34, eerste lid, bedoeld, dan wel door aanvaring of anderszins beschadigd is of naar redelijk vermoeden beschadigd kan zijn moet zo spoedig mogelijk een doelmatig onderzoek worden ingesteld ter vaststelling van de beschadiging of vermoedelijke beschadiging; Onze Minister kan bepalen, dat het onderzoek moet worden verricht door een ter zake deskundige instelling of onderneming.
+2. Van het instellen van een onderzoek als in het eerste lid bedoeld dient onverwijld schriftelijk mededeling te worden gedaan aan de Inspecteur-Generaal der Mijnen.
+3. Van het resultaat van een onderzoek als in het eerste lid bedoeld moet zo spoedig mogelijk schriftelijk mededeling worden gedaan aan de Inspecteur-Generaal der Mijnen.

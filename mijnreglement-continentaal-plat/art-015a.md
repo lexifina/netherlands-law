@@ -1,0 +1,2 @@
+# Artikel 15a
+Bij een mijnonderneming dienen ten aanzien van elk der mijnbouwinstallaties, in gebruik voor het in die onderneming - of voor die onderneming door anderen - instellen van een opsporingsonderzoek, dan wel het winnen van delfstoffen, voldoende maatregelen te worden getroffen om op elk gewenst moment onmiddellijk te kunnen vaststellen welke personen op de betrokken mijnbouwinstallatie aanwezig zijn.

@@ -1,0 +1,3 @@
+# Artikel 104a
+1. Wanneer de veiligheid en de gezondheid van de arbeiders dat vereisen, moet er een afstandsbedieningsysteem voor noodgevallen worden geïnstalleerd. Dit systeem moet beschikken over controleposten op geschikte locaties die in geval van nood kunnen worden gebruikt, indien nodig met inbegrip van controleposten op veilige verzamelpunten en in evacuatiestations.
+2. De in het eerste lid bedoelde apparatuur moet ten minste systemen omvatten voor ventilatie, het in noodgevallen afsluiten van apparatuur die een ontbranding zou kunnen veroorzaken, het voorkomen van het ontsnappen van ontvlambare vloeistoffen en gassen, brandbeveiliging en putbewaking.

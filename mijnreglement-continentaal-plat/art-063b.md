@@ -1,0 +1,5 @@
+# Artikel 63b
+1. Werkzaamheden in een bestaand boorgat, dan wel aan de inrichting, afwerking of beveiligingen als in artikel 63a, eerste lid, bedoeld, zoals nodig in verband met reparatie of onderhoud, moeten op doeltreffende wijze geschieden.
+2. Tenzij de onmiddellijke uitvoering in het belang van de veiligheid van de op de betrokken mijnbouwinstallatie werkzame personen noodzakelijk is, mogen bepaalde door Onze Minister aan te wijzen werkzaamheden als in het eerste lid bedoeld, ten aanzien van door hem daarbij aangegeven boorgaten, niet anders geschieden dan overeenkomstig een aan de Inspecteur-Generaal der Mijnen toegezonden doelmatig schriftelijk werkprogramma.
+3. Het werkprogramma moet zo tijdig mogelijk, doch in ieder geval niet later dan vier weken vóór de aanvang van de betrokken werkzaamheden in het bezit zijn van de Inspecteur-Generaal der Mijnen.
+4. De artikelen 28, derde lid, 29, 30 en 59, eerste lid, tweede en derde volzin, zijn van overeenkomstige toepassing.

@@ -1,0 +1,4 @@
+# Artikel 77b
+1. Herstelwerkzaamheden aan een in of op het continentaal plat ten behoeve van een opsporingsonderzoek of het winnen van delfstoffen gelegde pijpleiding mogen niet anders geschieden dan overeenkomstig een aan de Hoofdingenieur-Directeur van de Dienst voor het Stoomwezen en de Inspecteur-Generaal der Mijnen toegezonden doelmatig schriftelijk herstelprogramma.
+2. Het herstelprogramma moet tijdig, als regel ten minste 14 dagen, vóór de aanvang der betrokken werkzaamheden in het bezit zijn van de in het eerste lid bedoelde ambtenaren, dan wel, in geval de beschadiging of de lekkage van de pijpleiding onmiddellijk herstel vereist, bij het begin van de herstelwerkzaamheden onverwijld aan hen worden toegezonden.
+3. De artikelen 28, derde lid, 29, 30 en 59, eerste lid, tweede en derde volzin, zijn van overeenkomstige toepassing.

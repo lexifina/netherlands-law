@@ -1,0 +1,4 @@
+# Artikel 149b
+1. Een persoon, belast met het verrichten van werkzaamheden als in artikel 149, eerste lid, bedoeld, mag zodanige werkzaamheden niet verrichten, indien uit de uitslag van een geneeskundig onderzoek blijkt, dat zijn geestelijke of lichamelijke gesteldheid gevaar voor de gezondheid of de veiligheid van anderen kan opleveren.
+2. Indien uit de uitslag van een geneeskundig onderzoek blijkt, dat de geestelijke of lichamelijke gesteldheid van de onderzochte persoon gevaar voor de gezondheid of de veiligheid van anderen kan opleveren, wordt deze uitslag aan die persoon en aan de Inspecteur-Generaal der Mijnen medegedeeld.
+3. De onderzochte persoon kan binnen 14 dagen, nadat hij van de hem gedane mededeling kennis heeft kunnen nemen, schriftelijk aan Onze Minister om een nader geneeskundig onderzoek verzoeken. Met dit onderzoek worden belast een of meer door Onze Minister aan te wijzen andere artsen.
