@@ -32,7 +32,7 @@
 ## Artikel B1
 ## Artikel B2
 ## Enig artikel
-## Tabel. behorende bij bijlage C bij de Meststoffenwet
+## Tabel. , behorende bij bijlage C bij de Meststoffenwet
 ## Artikel D1
 ## Artikel D2
 ## Artikel D3
@@ -41,9 +41,9 @@
 ## Artikel D6
 ## Artikel D7
 ## Artikel D8
-## Tabel I van bijlage D. : de afvoerpost «ruwvoer» en de voor de onderscheiden soorten ruwvoer geldende forfaitaire fosfaat- en stikstofgehaltes
-## Tabel II van bijlage D. : de voor de onderscheiden soorten ruwvoer en enkelvoudig krachtvoer die op het bedrijf worden aangevoerd geldende forfaitaire fosfaat- en stikstofgehaltes
-## Tabel III van bijlage D. : de forfaitair vastgestelde hoeveelheden fosfaat en stikstof vastgelegd in uitgeschaarde, ingeschaarde, elders tijdelijk ter weiding ondergebrachte of tijdelijk ter weiding aangenomen dieren
-## Tabel IV van bijlage D. : de aanvoer- en afvoerpost «dieren» en de voor de dieren van de onderscheiden diercategorieën geldende forfaitaire fosfaat- en stikstofgehaltes
-## Tabel IVa van bijlage D. : de aanvoer- en afvoerpost «dieren» en de voor de dieren van de onderscheiden diercategorieën geldende forfaitaire fosfaat- en stikstofgehaltes per kilogram levend gewicht
-## Tabel V van bijlage D. : de afvoerpost «dierlijke producten» en de voor de onderscheiden producten geldende forfaitaire fosfaat- en stikstofgehaltes
+## Tabel I. van bijlage D: de afvoerpost «ruwvoer» en de voor de onderscheiden soorten ruwvoer geldende forfaitaire fosfaat- en stikstofgehaltes
+## Tabel II. van bijlage D: de voor de onderscheiden soorten ruwvoer en enkelvoudig krachtvoer die op het bedrijf worden aangevoerd geldende forfaitaire fosfaat- en stikstofgehaltes
+## Tabel III. van bijlage D: de forfaitair vastgestelde hoeveelheden fosfaat en stikstof vastgelegd in uitgeschaarde, ingeschaarde, elders tijdelijk ter weiding ondergebrachte of tijdelijk ter weiding aangenomen dieren
+## Tabel IV. van bijlage D: de aanvoer- en afvoerpost «dieren» en de voor de dieren van de onderscheiden diercategorieën geldende forfaitaire fosfaat- en stikstofgehaltes
+## Tabel IVa. van bijlage D: de aanvoer- en afvoerpost «dieren» en de voor de dieren van de onderscheiden diercategorieën geldende forfaitaire fosfaat- en stikstofgehaltes per kilogram levend gewicht
+## Tabel V. van bijlage D: de afvoerpost «dierlijke producten» en de voor de onderscheiden producten geldende forfaitaire fosfaat- en stikstofgehaltes
