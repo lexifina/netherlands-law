@@ -1,0 +1,2 @@
+# Artikel 15d
+Indien hij daartoe de wens te kennen geeft, is tot de eerste dag van de maand waarin de betrokkene de leeftijd van 65 jaar bereikt, degene die hier te lande woonachtig is en die op 30 september 1990 jonger was dan 65 jaar en die op die datum verzekerd was ingevolge artikel 15, eerste lid, aanhef en onder a of b, in verbinding met het tweede en derde lid, van dit besluit zoals dit op genoemd tijdstip luidde, verzekerd overeenkomstig de bepalingen van de Ziekenfondswet.

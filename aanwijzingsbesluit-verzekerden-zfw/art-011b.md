@@ -1,0 +1,8 @@
+# Artikel 11b
+1. Voor de verzekering van verzekerden als bedoeld in artikel 1, onder r, wordt van het uit te betalen pensioen een premie geheven tot het krachtens artikel 15, eerste lid, van de Ziekenfondswet vastgestelde percentage.
+2. Voor de toepassing van het eerste lid wordt mede als uit te betalen pensioen aangemerkt:
+a. de bestanddelen van het pensioen ingevolge de bij of krachtens de Kaderwet militaire pensioenen vastgestelde bepalingen ter zake van ziekten of gebreken, de invaliditeitsverhoging, de bijzondere invaliditeitsverhoging, de tropenverhoging, de overlijdensuitkering, de aanpassing aan algemene bezoldigingswijzigingen en de toeslag op het pensioen ter zake van ziekten of gebreken beneden de leeftijd van 65 jaar;
+b. de toeslag, bedoeld in artikel 10 van de Wet van 20 december 1984, houdende aanpassing van uitkeringspercentages van ontslaguitkerings- en arbeidsongeschiktheidsregelingen voor overheidspersoneel, onderwijspersoneel en daarmee gelijk te stellen personeel.
+3. Het bepaalde krachtens artikel 15, tweede lid, van de Ziekenfondswet en artikel 9, tweede lid, van de Coördinatiewet Sociale Verzekering is van overeenkomstige toepassing. Onze Minister van Defensie wordt als werkgever beschouwd en het pensioen wordt als loon aangemerkt.
+4. Onze Minister van Defensie houdt de door de verzekerde ingevolge dit artikel verschuldigde premie in op het pensioen.
+5. De in het vierde lid bedoelde minister stort de in het eerste lid bedoelde premie in de Algemene Kas, bedoeld in artikel 1q van de Ziekenfondswet. Onze Minister en Onze Minister van Defensie tezamen kunnen voorschriften geven met betrekking tot de vaststelling, de invordering, de afdracht en de verantwoording van de premie.

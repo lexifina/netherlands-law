@@ -1,0 +1,4 @@
+# Artikel 14e
+1. Indien blijkt dat voor de verzekering van de persoon, bedoeld in artikel 3, eerste lid, onder b of d, van de Ziekenfondswet, die gelijktijdig verzekerd is ingevolge artikel 3, eerste lid, onder a of b, van de Ziekenfondswet of een of meer onderdelen van artikel 1 van dit besluit over in totaal een hoger bedrag premie is betaald dan het bedrag, bedoeld in artikel 9, tweede lid, van de Coördinatiewet Sociale Verzekering wordt de premie betaald over het bedrag dat hoger is dan het hiervoor bedoelde bedrag, terugbetaald volgens nader te stellen regelen.
+2. De in het eerste lid bedoelde regelen worden vastgesteld door het College zorgverzekeringen. Het College zorgverzekeringen kan daarbij bepalen door en aan wie die premie wordt terugbetaald en zonodig aan die regelen terugwerkende kracht verlenen.
+3. Artikel 13, derde lid, van de Coördinatiewet Sociale Verzekering is van overeenkomstige toepassing.
