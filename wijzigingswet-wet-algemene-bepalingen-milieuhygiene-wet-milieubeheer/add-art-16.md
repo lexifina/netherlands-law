@@ -1,0 +1,6 @@
+# Artikel XVI
+1. Het nationale milieubeleidsplan, bedoeld in artikel 4.3 van de Wet milieubeheer, wordt uiterlijk in 1994 voor het eerst vastgesteld.
+2. Het nationale milieuprogramma, bedoeld in artikel 4.7 van die wet, wordt uiterlijk gelijktijdig met de begroting voor het jaar 1995 aan de Staten-Generaal overgelegd.
+3. Provinciale staten stellen de provinciale milieuverordening, bedoeld in artikel 1.2 van die wet, en het provinciale milieubeleidsplan en het provinciale milieuprogramma, bedoeld in artikel 4.9, onderscheidenlijk 4.14 van die wet, uiterlijk twee jaar na het tijdstip van inwerkingtreding van artikel I, onderdeel B, onderscheidenlijk artikel I, onderdeel A, hoofdstuk 4, van deze wet voor het eerst vast. Bij de eerste vaststelling van de verordening, bedoeld in artikel 1.2 van die wet, is artikel 1.3, tweede lid, van die wet niet van toepassing.
+4. De gemeenteraad stelt het gemeentelijke milieuprogramma, bedoeld in artikel 4.20 van de Wet milieubeheer, uiterlijk twee jaar na het tijdstip van inwerkingtreding van artikel I, onderdeel A, hoofdstuk 4, van deze wet voor het eerst vast.
+5. Het gemeentelijke rioleringsplan, bedoeld in artikel 4.22 van die wet, wordt uiterlijk in 1993 voor het eerst vastgesteld.
