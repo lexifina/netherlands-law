@@ -1,0 +1,2 @@
+# I
+ter gelegenheid van de herdenking van de geboorte vóór driehonderd jaren van Michiel Adriaanszoon de Ruyter, luitentant-admiraal-generaal van Holland en West-Friesland, geboren te Vlissingen den 24sten Maart 1607, een eereteeken in te stellen voor schippers, stuurlieden en verdere leden der bemanning van koopvaardij- en visschersschepen en andere personen, die zich door verdienstelijke daden voor de Nederlandsche scheepvaart hebben onderscheiden;
