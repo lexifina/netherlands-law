@@ -1,0 +1,2 @@
+# Artikel IX
+Ieder geschil tussen de Regering van de Republiek der Philippijnen en enige Regering van de Beneluxlanden met betrekking tot de uitlegging of de toepassing van deze Overeenkomst, waarvoor langs diplomatieke weg geen bevredigende oplossing kan worden gevonden, zal, op verzoek van een der partijen bij het geschil, ter beoordeling worden voorgelegd aan het Internationaal Gerechtshof, tenzij de betrokken Regeringen overeenkomen het geschil op een andere vreedzame wijze op te lossen.

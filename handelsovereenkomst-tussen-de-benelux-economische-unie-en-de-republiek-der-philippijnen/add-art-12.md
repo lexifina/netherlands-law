@@ -1,0 +1,5 @@
+# Artikel XII
+(a) De onderhavige Overeenkomst treedt in werking op de dag waarop de Overeenkomstsluitende Partijen hun onderscheiden akten van bekrachtiging hebben nedergelegd.
+(b) Deze Overeenkomst is geldig voor de duur van een jaar, te rekenen van de datum waarop zij in werking is getreden, en zal worden beschouwd als stilzwijgend van jaar tot jaar te zijn verlengd, tenzij een der Overeenkomstsluitende Partijen haar uiterlijk drie maanden voor het verstrijken van de geldigheidsperiode schriftelijk opzegt.
+(c) De opzegging van de onderhavige Overeenkomst door de Benelux Economische Unie dient gelijktijdig door de Belgische en de Nederlandse Regering aan de Regering van de Republiek der Philippijnen te worden medegedeeld. De opzegging van de onderhavige Overeenkomst door de Regering van de Republiek der Philippijnen dient gelijktijdig aan de Belgische en de Nederlandse Regering te worden medegedeeld.
+(d) Met inachtneming van de termijnen genoemd in lid (b) van dit artikel zal de Regering van het Koninkrijk der Nederlanden de toepassing van de onderhavige Overeenkomst afzonderlijk kunnen beëindigen voor Suriname of de Nederlandse Antillen.

@@ -1,0 +1,2 @@
+# Artikel V
+Geen enkele bepaling van deze Overeenkomst zal zo worden uitgelegd, dat zij tekort doet aan de maatregelen die enige Regering der Overeenkomstsluitende Partijen kan nemen uit hoofde van overwegingen van morele of humanitaire aard of om redenen van volksgezondheid en openbare veiligheid, op het gebied van handel in wapens, munitie en oorlogsmateriaal, de bescherming van dieren en planten tegen ziekten en epidemieën, het behoud van het nationale erfdeel op kunst-, historisch of archeologisch gebied en inzake de in- en uitvoer van goud en zilver.
