@@ -1,0 +1,3 @@
+# Artikel XXVIII
+1. De wet van 6 juni 1991, houdende regels betreffende de aanspraak op zwangerschaps- en bevallingsverlof van overheidspersoneel (Stb. 347) wordt ingetrokken.
+2. In afwijking van hoofdstuk 3, afdeling 1 en afdeling 2, paragraaf 1, van de Wet arbeid en zorg, blijft op de vrouw, die op de dag voor de datum van inwerkingtreding van die wet zwangerschaps- of bevallingsverlof geniet op grond van de wet van 6 juni 1991, houdende regels betreffende de aanspraak op zwangerschaps- en bevallingsverlof van overheidspersoneel (Stb. 347), laatstbedoelde wet, zoals deze luidde op die dag, van toepassing tot het bevallingsverlof op grond van die wet is geëindigd.
