@@ -1,0 +1,6 @@
+# Artikel III
+1. Tot 1 juli 1999 wordt, onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen vrijstelling van accijns verleend ter zake van de uitslag van accijnsgoederen uit een accijnsgoederenplaats, gelegen op een luchthaven of op een haventerrein, die worden meegevoerd in de persoonlijke bagage van een reiziger die zich door de lucht of over zee naar een andere Lid-Staat of naar een derde land begeeft.
+2. De vrijstelling als bedoeld in het eerste lid is mede van toepassing met betrekking tot de accijnsgoederen die bestemd zijn om aan boord van een vliegtuig of een schip aan de reizigers te worden geleverd tijdens het vervoer als bedoeld in het eerste lid.
+3. In afwijking van artikel 40, tweede lid, van de Wet op de accijns kunnen plaatsen, gelegen op een luchthaven of op een haventerrein, van waaruit leveringen van accijnsgoederen als bedoeld in het eerste lid plaatsvinden in aanmerking komen als accijnsgoederenplaats.
+4. In afwijking van artikel 74 van de Wet op de accijns kunnen tabaksprodukten worden opgeslagen in een accijnsgoederenplaats waar vanuit de in het eerste en tweede lid bedoelde uitslag plaatsvindt.
+5. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.

@@ -1,0 +1,7 @@
+# Artikel II
+1. Tot 1 januari 1994 kunnen bij algemene maatregel van bestuur nadere, zonodig van de wet afwijkende regels worden gesteld.
+2. Het eerste lid is slechts van toepassing voor zover de in die bepaling bedoelde regels:
+a. noodzakelijk zijn ter uitvoering van de door de Raad van de Europese Gemeenschappen vastgestelde richtlijnen of verordeningen die strekken tot aanvulling of vereenvoudiging van de Richtlijn van de Raad van de Europese Gemeenschappen betreffende de algemene regeling voor accijnsprodukten, het voorhanden hebben en het verkeer daarvan en de controles daarop (92/12/EEG van 25 februari 1992; PbEG L 76) dan wel van de richtlijnen betreffende de tarieven en de strukturen van de accijnzen;
+b. strekken tot wijziging of aanvulling van bepalingen die zijn gebaseerd op communautaire regelgeving in verband met de afschaffing van de fiscale grenzen.
+3. Na het tot stand komen van een algemene maatregel van bestuur als bedoeld in het eerste lid, wordt onverwijld een voorstel van wet aan de Tweede Kamer der Staten-Generaal gezonden, waarbij de in het eerste lid bedoelde regels worden opgenomen in de wet.
+4. Indien naar het oordeel van Onze Minister het spoedeisende karakter van de in het eerste lid bedoelde regels zulks rechtvaardigt kunnen deze regels, in afwijking van het eerste lid, worden gesteld bij ministeriële regeling. Alsdan is het derde lid van overeenkomstige toepassing.
