@@ -1,0 +1,3 @@
+# Artikel 35a
+1. Met betrekking tot de bedragen vermeld in de artikelen 24, 32, eerste lid, 3°, 4°, 6° en 7°, tweede lid en derde lid, en 33, eerste lid, 4°, 5° en 7°, zijn de artikelen 10.1 en 10.2 van de Wet inkomstenbelasting 2001 van overeenkomstige toepassing.
+2. De vervangende bedragen zijn van toepassing, indien het overlijden, de schenking of de in artikel 45, derde lid, tweede zin, of in artikel 53, eerste lid, bedoelde gebeurtenis plaatsvindt op of na 1 januari van het jaar waarvoor de vervanging geldt, zo mede indien op of na 1 januari van dat jaar krachtens schenking wordt verkregen ten gevolge van de vervulling van een voorwaarde.
