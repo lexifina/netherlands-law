@@ -1,0 +1,2 @@
+# Article II
+It is the duty of a force and its civilian component and the members thereof as well as their dependents to respect the law of the receiving State, and to abstain from any activity inconsistent with the spirit of the present Agreement, and, in particular, from any political activity in the receiving State. It is also the duty of the sending State to take necessary measures to that end.

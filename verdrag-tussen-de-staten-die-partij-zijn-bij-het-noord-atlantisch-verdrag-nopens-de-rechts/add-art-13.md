@@ -1,0 +1,5 @@
+# Article XIII
+1. In order to prevent offences against customs and fiscal laws and regulations, the authorities of the receiving and of the sending States shall assist each other in the conduct of enquiries and the collection of evidence.
+2. The authorities of a force shall render all assistance within their power to ensure that articles liable to seizure by, or on behalf of, the customs or fiscal authorities of the receiving State are handed to those authorities.
+3. The authorities of a force shall render all assistance within their power to ensure the payment of duties, taxes and penalties payable by members of the force or civilian component or their dependents.
+4. Service vehicles and articles belonging to a force or to its civilian component, and not to a member of such force or civilian component, seized by the authorities of the receiving State in connexion with an offence against its customs or fiscal laws or regulations shall be handed over to the appropriate authorities of the force concerned.

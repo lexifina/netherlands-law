@@ -1,0 +1,3 @@
+# Article XII
+1. The customs or fiscal authorities of the receiving State may, as a condition of the grant of any customs or fiscal exemption or concession provided for in this Agreement, require such conditions to be observed as they may deem necessary to prevent abuse.
+2. These authorities may refuse any exemption provided for by this Agreement in respect of the importation into the receiving State of articles grown, produced or manufactured in that State which have been exported therefrom without payment of, or upon repayment of, taxes or duties which would have been chargeable but for such exportation. Goods removed from a customs warehouse shall be deemed to be imported if they were regarded as having been exported by reason of being deposited in the warehouse.

@@ -1,0 +1,4 @@
+# Article XIX
+1. The present Agreement may be denounced by any Contracting Party after the expiration of a period of four years from the date on which the Agreement comes into force.
+2. The denunciation of the Agreement by any Contracting Party shall be effected by a written notification addressed by that Contracting Party to the Government of the United States of America which shall notify all the other Contracting Parties of each such notification and the date of receipt thereof.
+3. The denunciation shall take effect one year after the receipt of the notification by the Government of the United States of America. After the expiration of this period of one year, the Agreement shall cease to be in force as regards the Contracting Party which denounces it, but shall continue in force for the remaining Contracting Parties.

@@ -1,0 +1,4 @@
+# Artikel XIX
+1. Dit Verdrag kan door iedere Verdragsluitende Partij worden opgezegd na verloop van een periode van vier jaren na de datum, waarop het Verdrag in werking treedt.
+2. De opzegging van het Verdrag door een Verdragsluitende Partij vindt plaats door een schriftelijke mededeling van die Verdragsluitende Partij gericht aan de Regering van de Verenigde Staten van Amerika, welke alle andere Verdragsluitende Partijen in kennis zal stellen van deze mededeling en van de datum van ontvangst daarvan.
+3. De opzegging wordt van kracht één jaar na ontvangst van de mededeling door de Regering van de Verenigde Staten van Amerika. Na verloop van deze periode van een jaar houdt het Verdrag op van kracht te zijn met betrekking tot de Verdragsluitende Partij, die het opzegt, maar het blijft van kracht voor de overige Verdragsluitende Partijen.

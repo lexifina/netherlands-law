@@ -1,0 +1,2 @@
+# Artikel XVI
+Alle geschillen tussen de Verdragsluitende Partijen met betrekking tot de uitlegging of toepassing van dit Verdrag worden door onderhandelingen tussen hen geregeld zonder beroep op enig rechterlijk orgaan buiten de organisatie van het Noord-Atlantisch Verdrag. Behoudens voor zover in dit Verdrag uitdrukkelijk het tegendeel wordt bepaald, worden geschillen, die niet door rechtstreekse onderhandelingen kunnen worden opgelost, verwezen naar de Noord-Atlantische Raad.
