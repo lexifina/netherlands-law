@@ -1,0 +1,2 @@
+# Article I
+Iran and the United States will promote the settlement of the claims described in Article II by the parties directly concerned. Any such claims not settled within six months from the date of entry into force of this agreement shall be submitted to binding third-party arbitration in accordance with the terms of this agreement. The aforementioned six months' period may be extended once by three months at the request of either party.
