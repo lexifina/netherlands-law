@@ -1,0 +1,3 @@
+# Artikel II
+Op de internationale douanekantoren en de internationale douanewegen zijn met betrekking tot de in artikel I bedoelde douanebehandeling vanwege elk van beide landen van kracht de wettelijke bepalingen en voorschriften van het desbetreffende land, zulks zowel wat de verplichtingen van de aan die behandeling onderworpen personen als wat de bevoegdheden en rechten van de ambtenaren en beambten betreft.
+Voor de toepassing van de in het voorgaande lid bedoelde wettelijke bepalingen en voorschriften van het ene land op het grondgebied van het andere land worden de internationale douanekantoren en de internationale douanewegen geacht te zijn gelegen op het grondgebied van het eerstbedoelde land.

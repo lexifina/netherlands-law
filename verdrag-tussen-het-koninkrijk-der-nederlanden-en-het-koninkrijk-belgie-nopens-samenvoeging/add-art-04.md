@@ -1,0 +1,2 @@
+# Artikel IV
+Voor de bevoegheid tot vervolging en berechting worden overtredingen van de in artikel II bedoelde wettelijke bepalingen en voorschriften van het ene land, welke in het andere land op een internationaal douanekantoor of op een internationale douaneweg zijn begaan, geacht te zijn begaan in het rechtsgebied, binnen hetwelk het aan de internationale douaneweg liggende grenskantoor van het eerstbedoelde land is gelegen.

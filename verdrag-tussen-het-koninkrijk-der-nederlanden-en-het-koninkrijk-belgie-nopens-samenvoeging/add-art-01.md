@@ -1,0 +1,3 @@
+# Artikel I
+Ter bespoediging van het internationaal personen- en goederenverkeer tussen Nederland en België kunnen de bevoegde Ministers van elk van beide landen in onderling overleg op Nederlands of op Belgisch grondgebied gelegen spoorwegstations en posten aan water- of landwegen, hierna genoemd „internationale douanekantoren", alsmede naar deze kantoren leidende gedeelten van spoor-, water-, of landwegen, hierna genoemd „internationale douanewegen", aanwijzen, alwaar vanwege het land van uitgang en vanwege het land van binnenkomst met betrekking tot het overschrijden van de grens door personen of goederen, daaronder begrepen deviezen en andere waarden, douanebehandeling kan geschieden.
+Onder douanebehandeling is passencontrôle begrepen.

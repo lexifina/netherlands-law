@@ -1,0 +1,2 @@
+# Artikel XI
+De ambtenaren en beambten van beide landen, die op de internationale douanekantoren en op de internationale douanewegen dienst doen, zullen zowel ter voorkoming als ter opsporing van overtredingen van de in artikel II bedoelde wettelijke bepalingen en voorschriften zoveel mogelijk samenwerken en elkander bijstaan. Zij mogen elkander de inlichtingen verstrekken, welke voor de uitoefening van de dienst van belang kunnen zijn.
