@@ -1,0 +1,2 @@
+# Artikel IX
+De kosten voortvloeiende uit de aanhouding, de gevangenhouding, het gerechtelijk onderzoek en het vervoer der beklaagden, komen ten laste der Regeering, die de aanvrage om uitlevering gedaan heeft. De uitlevering geschiedt aan boord van het vaartuig dat door den diplomatieken of consulairen ambtenaar der aanvragende Regeering is aangewezen en alleen in een der havens, welke voor het internationaal verkeer zijn opengesteld.

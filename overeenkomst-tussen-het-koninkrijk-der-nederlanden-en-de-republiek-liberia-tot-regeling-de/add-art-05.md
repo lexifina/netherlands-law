@@ -1,0 +1,2 @@
+# Artikel V
+De uitlevering zal geen plaats hebben, indien de vervolging of de straf, ter zake van het strafbare feit, waarvoor de uitlevering wordt aangevraagd, verjaard is naar de wetgeving van het Land, waaraan de uitlevering wordt aangevraagd, of wanneer de aanvraag geschiedt op grond van hetzelfde feit, waarvoor de opgeëischte persoon in het Land, waaraan de uitlevering wordt aangevraagd, heeft terecht gestaan, en ter zake waarvan hij aldaar veroordeeld, van rechtsvervolging ontslagen of vrijgesproken is, of zoolang hij ter zake van hetzelfde feit aldaar wordt vervolgd.

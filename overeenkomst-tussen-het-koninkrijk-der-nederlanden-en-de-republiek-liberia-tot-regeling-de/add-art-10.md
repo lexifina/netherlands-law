@@ -1,0 +1,2 @@
+# Artikel X
+Al de goederen, op het oogenblik zijner aanhouding in het bezit van den voortvluchtige gevonden, welke verkregen zijn door middel van het plegen van het feit, waarvoor hij veroordeeld of waarvan hij beklaagd is, of die als bewijs of overtuigingsstukken kunnen dienen, zullen, voor zoover de wetten of het gebruik in de wederzijdsche landen zulks toelaten, te gelijk met den opgeëischte aan den opeischenden Staat worden overgegeven, met eerbiediging nochtans van rechten van derden op zoodanige goederen.

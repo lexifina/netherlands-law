@@ -1,0 +1,2 @@
+# Artikel III
+De bepalingen der tegenwoordige overeenkomst zijn niet toepasselijk op staatkundige misdrijven, noch op strafbare feiten, met staatkundige misdrijven samenhangende, en hij, die ter zake van een der in artikel II genoemde strafbare feiten is uitgeleverd, kan in geen geval worden vervolgd of gestraft ter zake van een staatkundig misdrijf of van enig strafbaar feit, met een staatkundig misdrijf samenhangende, vóór zijne uitlevering gepleegd.
