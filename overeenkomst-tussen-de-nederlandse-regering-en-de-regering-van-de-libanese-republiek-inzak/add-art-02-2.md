@@ -1,0 +1,6 @@
+# Artikel II
+(1) De overeengekomen diensten kunnen onmiddellijk dan wel op een later tijdstip, naar verkiezing van de Overeenkomstsluitende Partij, waaraan de rechten zijn verleend, worden ingesteld, maar niet voordat
+a) de Overeenkomstsluitende Partij waaraan de rechten zijn verleend een of meer luchtvaartondernemingen voor de opgesomde route(s) heeft aangewezen en
+b) de Overeenkomstsluitende Partij, welke de rechten verleent, de passende exploitatie-vergunning aan de betrokken luchtvaartonderneming(en) heeft veleend (hetgeen zij, behoudens de bepalingen van paragraaf (2) van dit Artikel en van Artikel VI zonder onredelijke vertraging zal doen.).
+(2) Van de aangewezen luchtvaartonderneming(en) kan door de luchtvaartautoriteiten van de Overeenkomstsluitende Partij, welke de rechten verleent, worden geëist, dat zij de voorwaarden, welke zijn voorgeschreven bij de wetten en voorschriften, die gewoonlijk inzake de exploitatie van commerciële luchtdiensten door diezelfde autoriteiten worden toegepast, nakomen.
+(3) In de door militairen bezette zônes, of in de zônes, die hierbij zijn betrokken, zal, waar zulks noodzakelijk is, de instelling onderworpen zijn aan de goedkeuring van de bevoegde militaire autoriteiten.

@@ -1,0 +1,4 @@
+# Artikel X
+Elke Overeenkomstsluitende Partij kan te allen tijde aan de andere Overeenkomstsluitende Partij haar wens te kennen geven deze Overeenkomst op te zeggen. Van een zodanige opzegging moet tegelijkertijd aan de Internationale Burgerlijke Luchtvaart Organisatie worden kennis gegeven.
+Deze Overeenkomst zal ophouden van kracht te zijn van de datum af, die in genoemde kennisgeving is vermeld, maar in ieder geval minstens 12 maanden na de dag, waarop de tweede Overeenkomstsluitende Partij daarvan mededeling zal hebben ontvangen. Deze kennisgeving van opzegging zal vervangen kunnen worden door een latere Overeenkomst, gesloten voor het verstrijken van bovengenoemde termijn.
+In geval de andere Overeenkomstsluitende Partij zou nalaten de ontvangst daarvan te bevestigen, zal de kennisgeving geacht worden haar te hebben bereikt 14 dagen na ontvangst van genoemde kennisgeving door de Internationale Burgerlijke Luchtvaart Organisatie.

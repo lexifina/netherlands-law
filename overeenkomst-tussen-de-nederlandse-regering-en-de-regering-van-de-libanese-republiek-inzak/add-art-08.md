@@ -1,0 +1,2 @@
+# Article VIII
+Si l'une ou l'autre des Parties Contractantes estime désirable de modifier une clause quelconque de l'Accord ou de son Annexe, les autorités aéronautiques compétentes des Parties Contractantes se consulteront en vue de procéder à une telle modification. Les consultations devront avoir lieu dans les 60 jours à partir de la date de la demande. Au cas où lesdites autorités arrivent à un accord sur les modifications à apporter, ces modifications entreront en vigueur seulement après avoir été confirmées par un échange de notes diplomatiques.

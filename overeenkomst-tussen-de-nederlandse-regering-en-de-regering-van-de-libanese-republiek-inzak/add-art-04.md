@@ -1,0 +1,2 @@
+# Article IV
+Les certificats de navigabilité, les brevets d'aptitude et les licenses délivrés ou validés par l'une des Parties Contractantes seront reconnus valables par l'autre Partie Contractante aux fins d'exploitation des routes et des services spécifiés à l'Annexe. Cependant chaque Partie Contractante se réserve le droit de ne pas reconnaître valables pour la circulation au-dessus de son propre territoire les brevets d'aptitude et licenses conférés à ses propres ressortissants par un autre État.

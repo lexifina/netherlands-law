@@ -1,0 +1,2 @@
+# Article IX
+Tout différend entre les Parties Contractantes relatif à l'interprétation ou à l'application du présent Accord ou de son Annexe, qui ne pourrait être réglé par voie de négociations directes, sera soumis à un jugement d'arbitrage au choix des Parties Contractantes ou à la Cour Internationale de Justice. Les Parties Contractantes s'engagent à se conformer aux décisions du jugement d'arbitrage ou à celles prononcées par la Cour Internationale de Justice, lesquelles en tout cas seront considérées comme définitives.

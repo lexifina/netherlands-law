@@ -1,0 +1,2 @@
+# Artikel IV
+De bewijzen van luchtwaardigheid, de bewijzen van bevoegdheid en de vergunningen, uitgereikt of geldig verklaard door een van de Overeenkomstsluitende Partijen, zullen door de andere Overeenkomstsluitende Partij als geldig worden erkend voor de exploitatie van de in de Bijlage opgesomde luchtlijnen en -diensten. Elke Overeenkomstsluitende Partij behoudt zich evenwel het recht voor, voor vluchten boven haar eigen grondgebied, de erkenning van de bewijzen van bevoegdheid en vergunningen, door een andere Staat aan haar eigen onderdanen uitgereikt, te weigeren.
