@@ -1,0 +1,2 @@
+# Artikel 10a
+Indien Onze Minister heeft vastgesteld dat de Stichting van de Arbeid heeft opgehouden te bestaan of de haar krachtens deze wet toekomende taak te vervullen, treden voor de toepassing van de artikelen 4, vierde lid, en 6, tweede lid, tweede volzin, in haar plaats de krachtens artikel 17, eerste lid, van de Wet op de loonvorming door Ons aangewezen centrale organisaties van werkgevers en van werknemers.
