@@ -16,7 +16,7 @@
 ## Hoofdstuk 4. Beroepsonderwijs
 ## Hoofdstuk 5. Hoger onderwijs; prestatiebeurs
 ### Paragraaf 5.1. Algemeen
-### Paragraaf 5.2. Omzetting bij afsluitend examen of kandidaatsexamen
+### Paragraaf 5.2. Omzetting bij afsluitend examen
 ### Paragraaf 5.3. Omzettingsprocedure
 ### Paragraaf 5.4. Omzettingsprocedure bij stoppen of overstappen voor 1 februari in eerste studiejaar
 ### Paragraaf 5.5. Omzettingsprocedure eerste 12 maanden
