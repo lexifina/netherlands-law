@@ -1,0 +1,3 @@
+# Artikel 35c
+1. Indien de verwonding, verminking, ziekten of gebreken, als bedoeld in artikel 3, de zeeman in een toestand brengen, die had deze op het tijdstip van de toekenning van het buitengewoon pensioen bestaan, hem recht zou hebben gegeven op een hoger buitengewoon pensioen dan verleend werd, wordt hij op een door of namens hem ingediende aanvrage alsnog in het genot gesteld van dat hogere buitengewoon pensioen.
+2. Wanneer de aanvrage tot het verkrijgen van een hoger buitengewoon pensioen als bedoeld in het eerste lid niet binnen twee jaren ná de dag, waarop het ingevolge het bepaalde in het eerste lid zou kunnen ingaan, is ontvangen, gaat het hoger buitengewoon pensioen in op de eerste dag der maand, volgende op die, waarin de aanvrage is binnengekomen.

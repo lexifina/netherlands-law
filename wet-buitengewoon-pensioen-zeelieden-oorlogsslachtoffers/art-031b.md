@@ -1,0 +1,2 @@
+# Artikel 31b
+De Raad is bevoegd geheel of gedeeltelijk van invordering af te zien van uit de toepassing van deze wet voortvloeiende aan het Rijk toekomende vorderingen, dan wel deze vorderingen geheel of gedeeltelijk kwijt te schelden. Een dergelijk besluit wordt niet genomen dan nadat Onze Minister daarin heeft toegestemd. Toestemming kan worden onthouden wegens strijd met het recht of het algemeen belang.
