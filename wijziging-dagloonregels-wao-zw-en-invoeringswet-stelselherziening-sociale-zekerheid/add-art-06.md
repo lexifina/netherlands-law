@@ -1,0 +1,2 @@
+# Artikel VI. Overgangsbepaling Dagloonregels Invoeringswet stelselherziening sociale zekerheid
+De Dagloonregels Invoeringswet stelselherziening sociale zekerheid, zoals die regeling luidde op de dag voorafgaand aan de inwerkingtreding van artikel III van deze regeling, blijven van toepassing op de persoon wiens recht op uitkering op grond van de Werkloosheidswet is ontstaan voor de datum van inwerkingtreding van dat artikel, met betrekking tot dat recht.
