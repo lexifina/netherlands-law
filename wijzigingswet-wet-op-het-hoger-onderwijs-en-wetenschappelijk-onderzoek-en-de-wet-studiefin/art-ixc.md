@@ -1,0 +1,3 @@
+# Artikel IXc
+1. Indien de samenloop van wetten op het terrein van het hoger onderwijs en wetenschappelijk onderzoek die in mei, juni, juli of augustus 2002 in het Staatsblad zijn of worden gepubliceerd en wijziging aanbrengen in een van die wetten of in de Wet op het hoger onderwijs en wetenschappelijk onderzoek, niet of niet juist is geregeld of als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelen, artikelonderdelen of verwijzingen in die wetten, kunnen bedoelde wetten met het oog op het herstel daarvan bij ministeriële regeling worden gewijzigd.
+2. De in het eerste lid bedoelde bevoegdheid vervalt met ingang van 1 januari 2003.
