@@ -1,0 +1,2 @@
+# Artikel 74a
+Is op het strafbare feit naar de wettelijke omschrijving geen andere hoofdstraf gesteld dan geldboete en biedt de verdachte aan, binnen een door de officier van justitie te bepalen termijn, het maximum van de geldboete te betalen en aan alle overige, overeenkomstig artikel 74, tweede lid, te stellen voorwaarden te voldoen, dan mag de officier van justitie het stellen van voorwaarden, als bedoeld in artikel 74, niet weigeren.

@@ -1,0 +1,2 @@
+# Artikel 441a
+Hij die openlijk of door verspreiding van enig geschrift ongevraagd een voorwerp als verkrijgbaar dan wel als bij hem voorhanden aanwijst en daarbij de aandacht vestigt op de geschiktheid daarvan als technisch hulpmiddel voor het heimelijk afluisteren, aftappen of opnemen van gesprekken, telecommunicatie of andere gegevensoverdracht door een geautomatiseerd werk of als onderdeel van zulk een hulpmiddel, wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de derde categorie.

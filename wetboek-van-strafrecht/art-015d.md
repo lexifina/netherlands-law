@@ -1,0 +1,2 @@
+# Artikel 15d
+In gevallen waarin het gerechtshof een vordering geheel of gedeeltelijk afwijst kan het op verzoek van de veroordeelde hem een vergoeding ten laste van de Staat toekennen voor de schade die hij heeft geleden ten gevolge van vrijheidsbeneming, ondergaan uit hoofde van het tweede lid van artikel 15b. De artikelen 89, eerste lid, tweede volzin, derde, vierde en vijfde lid, 90 en 93 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.

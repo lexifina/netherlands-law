@@ -1,0 +1,2 @@
+# Artikel 328bis
+Hij die, om het handels- of bedrijfsdebiet van zichzelf of van een ander te vestigen, te behouden of uit te breiden, enige bedrieglijke handeling pleegt tot misleiding van het publiek of van een bepaald persoon, wordt, indien daaruit enig nadeel voor concurrenten van hem of van die ander kan ontstaan, als schuldig aan oneerlijke mededinging, gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vijfde categorie.

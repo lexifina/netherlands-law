@@ -1,0 +1,2 @@
+# Artikel 389ter
+Hij die ter voldoening aan het voorschrift van het vierde lid van artikel 194, van het vijfde lid van artikel 784, van het eerste lid onder a ten derde van artikel 786 of van het vierde lid van artikel 1303 van Boek 8 van het Burgerlijk Wetboek een schriftelijke verklaring overlegt van welke hij weet dat de inhoud in strijd is met de waarheid, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.

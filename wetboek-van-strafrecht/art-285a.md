@@ -1,0 +1,2 @@
+# Artikel 285a
+Hij die opzettelijk mondeling, door gebaren, bij geschrift of afbeelding zich jegens een persoon uit, kennelijk om diens vrijheid om naar waarheid of geweten ten overstaan van een rechter of ambtenaar een verklaring af te leggen te beïnvloeden, terwijl hij weet of ernstige reden heeft te vermoeden dat die verklaring zal worden afgelegd, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.

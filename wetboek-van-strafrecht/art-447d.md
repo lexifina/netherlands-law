@@ -1,0 +1,2 @@
+# Artikel 447d
+Hij die, in strijd met een hem bij of krachtens wettelijk voorschrift opgelegde verplichting, nalaat tijdig de benodigde gegevens te verstrekken, wordt, indien deze gegevens van belang zijn voor de vaststelling van zijn of eens anders recht op een verstrekking of tegemoetkoming dan wel voor de hoogte of de duur van een dergelijke verstrekking of tegemoetkoming, gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.

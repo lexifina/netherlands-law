@@ -1,0 +1,13 @@
+# Artikel 250a
+1. Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie wordt gestraft:
+1°. degene die een ander door geweld of een andere feitelijkheid of door bedreiging met geweld of een andere feitelijkheid dwingt dan wel door misbruik van uit feitelijke verhoudingen voortvloeiend overwicht of door misleiding beweegt zich beschikbaar te stellen tot het verrichten van seksuele handelingen met een derde tegen betaling, dan wel onder voornoemde omstandigheden enige handeling onderneemt waarvan hij of zij weet of redelijkerwijs moet vermoeden dat die ander zich daardoor tot het verrichten van die handelingen beschikbaar stelt;
+2°. degene die een persoon aanwerft, medeneemt of ontvoert met het oogmerk die persoon in een ander land ertoe te brengen zich beschikbaar te stellen tot het verrichten van seksuele handelingen met een derde tegen betaling;
+3°. degene die een ander ertoe brengt zich beschikbaar te stellen tot het verrichten van seksuele handelingen met een derde tegen betaling, dan wel ten aanzien van een ander enige handeling onderneemt waarvan hij of zij weet of redelijkerwijs moet vermoeden dat die ander zich daardoor tot het verrichten van die handelingen beschikbaar stelt, terwijl die ander minderjarig is;
+4°. degene die opzettelijk voordeel trekt uit seksuele handelingen van een ander met een derde tegen betaling, terwijl hij weet of redelijkerwijs moet vermoeden dat die ander zich onder de onder 1° genoemde omstandigheden beschikbaar stelt tot het plegen van die handelingen;
+5°. degene die opzettelijk voordeel trekt uit seksuele handelingen van een ander met een derde tegen betaling, indien die ander minderjarig is;
+6°. degene die een ander door geweld of een andere feitelijkheid of door bedreiging met geweld of een andere feitelijkheid dwingt dan wel door misbruik van uit feitelijke verhoudingen voortvloeiend overwicht of door misleiding beweegt hem of haar uit de opbrengst van zijn of haar seksuele handelingen met een derde te bevoordelen.
+2. De schuldige wordt gestraft met een gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie, indien:
+1°. de feiten, omschreven in het eerste lid, worden gepleegd door twee of meer verenigde personen;
+2°. de minderjarige de leeftijd van zestien jaren nog niet heeft bereikt;
+3°. geweld of een andere feitelijkheid als bedoeld in het eerste lid zwaar lichamelijk letsel ten gevolge heeft.
+3. De feiten, omschreven in het eerste lid, gepleegd door twee of meer verenigde personen onder de omstandigheden, bedoeld in het tweede lid, onder 2° en 3°, worden gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.

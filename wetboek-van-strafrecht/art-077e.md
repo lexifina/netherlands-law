@@ -1,0 +1,9 @@
+# Artikel 77e
+1. De opsporingsambtenaar die daartoe door de officier van justitie is aangewezen, kan na verkregen toestemming door de officier van justitie aan de verdachte voorstellen dat deze deelneemt aan een project. De deelneming strekt tot voorkoming van toezending van het opgemaakte proces-verbaal aan de officier van justitie. Bij algemene maatregel van bestuur worden de strafbare feiten aangewezen die op deze wijze kunnen worden afgedaan.
+2. Bij een voorstel als bedoeld in het eerste lid, deelt de opsporingsambtenaar de verdachte mede dat hij niet verplicht is aan het project deel te nemen en licht hem in over de mogelijke gevolgen van niet-deelneming. Het voorstel, de mededeling en de inlichtingen over de mogelijke gevolgen worden daarbij de verdachte tevens schriftelijk ter hand gesteld.
+3. De officier van justitie geeft algemene aanwijzingen omtrent de wijze van afdoening ingevolge het eerste lid. Deze aanwijzingen betreffen in ieder geval:
+a. de projecten en de categorieën van strafbare feiten die, gelet op de aard van deze projecten, in aanmerking komen voor deze wijze van afdoening;
+b. de duur van de deelneming, afhankelijk van de aard van het strafbare feit en het project en
+c. de wijze waarop de toestemming van de officier van justitie kan worden verkregen.
+4. De duur van de deelneming is ten hoogste twintig uren.
+5. Indien de opsporingsambtenaar, bedoeld in het eerste lid, van oordeel is dat de verdachte naar behoren aan een project heeft deelgenomen, stelt hij de officier van justitie en de verdachte hiervan schriftelijk in kennis. Daarmee vervalt het recht tot strafvordering, behalve indien een bevel wordt gegeven als bedoeld in artikel 12i van het Wetboek van Strafvordering. In dat geval houdt de rechter, indien hij een straf oplegt, rekening met de voltooide deelneming.

@@ -1,0 +1,3 @@
+# Artikel 24d
+1. Bij de uitspraak waarbij een natuurlijk persoon de verplichting is opgelegd tot betaling van een geldbedrag aan de staat ter ontneming van wederrechtelijk verkregen voordeel, beveelt de rechter voor het geval dat noch volledige betaling noch volledig verhaal van het verschuldigde bedrag volgt, dat vervangende hechtenis zal worden toegepast, met dien verstande dat vervangende hechtenis op grond van dit artikel op te leggen op ten hoogste zes jaren kan worden bepaald.
+2. De duur van deze vervangende hechtenis wordt niet verminderd door het voldoen van slechts een gedeelte van het verschuldigde bedrag.

@@ -1,0 +1,6 @@
+# Artikel 139c
+1. Hij die door middel van een openbaar telecommunicatienetwerk, of door middel van daarop aangesloten randapparatuur overgedragen gegevens die niet voor hem, mede voor hem of voor degeen in wiens opdracht hij handelt, zijn bestemd, opzettelijk met een technisch hulpmiddel aftapt of opneemt, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie.
+2. Het eerste lid is niet van toepassing op het aftappen of opnemen:
+1°. van door middel van een radio-ontvangapparaat ontvangen gegevens, tenzij om de ontvangst mogelijk te maken een bijzondere inspanning is geleverd of een niet toegestane ontvanginrichting is gebruikt.
+2°. door of in opdracht van de gerechtigde tot een voor de telecommunicatie gebezigde aansluiting, behoudens in geval van kennelijk misbruik;
+3°. ten behoeve van de strafvordering, dan wel, op bijzondere last van Onze Minister-President en Onze Ministers van Justitie, van Binnenlandse Zaken en Koninkrijksrelaties en van Verkeer en Waterstaat gezamenlijk, telkens voor de duur van ten hoogste drie maanden aan het Hoofd van de Binnenlandse Veiligheidsdienst te geven, in gevallen waarin zulks nodig is in het belang van de veiligheid van de staat.

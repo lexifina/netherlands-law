@@ -1,0 +1,2 @@
+# Artikel 441b
+Met hechtenis van ten hoogste twee maanden of geldboete van de derde categorie wordt gestraft hij die, gebruik makende van een daartoe aangebracht technisch hulpmiddel waarvan de aanwezigheid niet op duidelijke wijze kenbaar is gemaakt, in een voor het publiek toegankelijke besloten ruimte, waarin spijzen, dranken of andere waren aan particulieren worden geleverd, van een daarin aanwezige persoon een afbeelding vervaardigt.

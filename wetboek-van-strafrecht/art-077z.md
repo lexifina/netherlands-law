@@ -1,0 +1,3 @@
+# Artikel 77z
+1. Toepassing van artikel 77x geschiedt onder de algemene voorwaarde dat de veroordeelde zich voor het einde van de proeftijd niet schuldig maakt aan een strafbaar feit. Bovendien kunnen bijzondere voorwaarden, het gedrag van de veroordeelde betreffende, worden gesteld. Deze mogen de vrijheid van de veroordeelde zijn godsdienst of levensovertuiging te belijden en de staatkundige vrijheid niet beperken. De rechter kan de werking van de bijzondere voorwaarden beperken tot een bij de uitspraak te bepalen tijdsduur binnen de proeftijd.
+2. Als bijzondere voorwaarde kan worden gesteld dat de veroordeelde zich zal laten opnemen in een inrichting gedurende een door de rechter te bepalen termijn, korter dan de proeftijd.

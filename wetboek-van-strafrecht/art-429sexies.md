@@ -1,0 +1,3 @@
+# Artikel 429sexies
+1. Hij die een door hem wederrechtelijk in gebruik genomen woning of gebouw, waarvan het gebruik door de rechthebbende niet meer dan twaalf maanden voorafgaande aan die wederrechtelijke ingebruikname is beëindigd, op vordering van of vanwege de rechthebbende niet aanstonds ontruimt, wordt gestraft met hechtenis van ten hoogste vier maanden of geldboete van de derde categorie.
+2. Met dezelfde straf wordt gestraft hij die, vertoevende in een wederrechtelijk in gebruik genomen woning of gebouw, waarvan het gebruik door de rechthebbende niet meer dan twaalf maanden voorafgaande aan die wederrechtelijke ingebruikname is beëindigd, zich op de vordering van of vanwege de rechthebbende niet aanstonds verwijdert.

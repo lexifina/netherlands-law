@@ -1,0 +1,3 @@
+# Artikel 14f
+1. De rechter die de voorwaarde heeft gesteld kan hetzij na de ontvangst van een vordering van het openbaar ministerie, hetzij op verzoek van de veroordeelde de proeftijd verkorten of deze éénmaal verlengen. De verlenging geschiedt met ten hoogste één jaar.
+2. Evenzo kan de in het eerste lid bedoelde rechter gedurende de proeftijd of gedurende de tijd dat deze is geschorst in de gestelde bijzondere voorwaarden of in de termijn waartoe deze voorwaarden in haar werking binnen de proeftijd zijn beperkt wijziging brengen, deze voorwaarden opheffen, alsnog bijzondere voorwaarden stellen en een opdracht als bedoeld in artikel 14d geven, wijzigen of opheffen.

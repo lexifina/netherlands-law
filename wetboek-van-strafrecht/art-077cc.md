@@ -1,0 +1,3 @@
+# Artikel 77cc
+1. De rechter die de voorwaarde heeft gesteld, kan na ontvangst van een vordering van het openbaar ministerie of op verzoek van veroordeelde, de proeftijd verkorten of deze eenmaal verlengen. De verlenging geschiedt met ten hoogste één jaar.
+2. Evenzo kan de in het eerste lid bedoelde rechter gedurende de proeftijd of gedurende de tijd dat deze is geschorst, in de gestelde bijzondere voorwaarden of in de termijn waartoe deze voorwaarden in haar werking binnen de proeftijd zijn beperkt, wijziging brengen, deze voorwaarden opheffen, alsnog bijzondere voorwaarden stellen en een opdracht als bedoeld in artikel 77aa, tweede lid, geven, wijzigen of opheffen.

@@ -1,0 +1,4 @@
+# Artikel 326b
+Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde categorie wordt gestraft:
+1°. hij die op of in een werk van letterkunde, wetenschap, kunst of nijverheid valselijk enige naam of enig teken plaatst, of de echte naam of het echte teken vervalst, met het oogmerk om daardoor aannemelijk te maken, dat dat werk zou zijn van de hand van degene wiens naam of teken hij daarop of daarin aanbracht;
+2°. hij die opzettelijk een werk van letterkunde, wetenschap, kunst of nijverheid, waarop of waarin valselijk enige naam of enig teken is geplaatst, of de echte naam of het echte teken is vervalst, verkoopt, te koop aanbiedt, aflevert, ten verkoop in voorraad heeft of binnen het Rijk in Europa invoert, als ware dat werk van de hand van degene wiens naam of teken daarop of daarin valselijk is aangebracht.
