@@ -1,0 +1,3 @@
+# Artikel II
+1. De in artikel 36c, tweede en derde lid, alsmede de in artikel 36j, eerste lid, van de Wet belastingen op milieugrondslag genoemde hoeveelheidsgrenzen worden naar evenredigheid verlaagd indien de periode gelegen tussen het tijdstip van inwerkingtreding van deze wet en het einde van de voor een verbruiker geldende verbruiksperiode korter is dan 12 maanden.
+2. De in artikel 36l, eerste lid, van de Wet belastingen op milieugrondslag genoemde hoeveelheidsgrenzen worden naar evenredigheid verlaagd indien de periode gelegen tussen het tijdstip van inwerkingtreding van deze wet en het einde van het jaar waarin deze wet in werking is getreden korter is dan 12 maanden.
