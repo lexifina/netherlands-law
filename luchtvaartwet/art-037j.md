@@ -1,7 +1,9 @@
 # Artikel 37j
-1. Ter bestrijding van de kosten die het Rijk maakt met het oog op de uitoefening van de controle overeenkomstig paragraaf 3, wordt onder de naam "beveiligingsheffing" een heffing geheven.
-2. De heffing wordt geheven van de natuurlijke persoon of rechtspersoon die als eigenaar of houder van een burgerluchtvaartuig dit te zijner beschikking heeft en dit onder zijn verantwoordelijkheid laat deelnemen aan het luchtverkeer.
-3. De heffing wordt geheven naar het aantal passagiers dat, na te zijn onderworpen aan een controle als bedoeld in paragraaf 3, op een luchtvaartterrein aan boord gaat van een burgerluchtvaartuig met een bestemming buiten het grondgebied van Nederland. Daarbij worden niet meegerekend passagiers
-a. die overstappen en de luchthaven daarbij niet meer dan vierentwintig uren verlaten, of
-b. met een leeftijd jonger dan twee jaren.
-4. Het tarief van de heffing wordt bij ministeriële regeling door Onze Minister van Justitie bij het begin van een kalenderjaar vastgesteld. Het tarief wordt berekend door de geraamde kosten als bedoeld in het eerste lid, voor dat jaar te delen door het dat jaar te verwachten aantal passagiers dat aan boord zal gaan en daarop de nodige afronding aan te brengen. Indien in de loop van een kalenderjaar de geraamde kosten per passagier een aanzienlijke wijziging ondergaan, wordt het tarief tussentijds gewijzigd. Het tarief wordt alsdan berekend door de voor het resterende deel van het kalenderjaar geraamde kosten te delen door het voor dat deel verwachte aantal passagiers.
+1. De luchtvaartmaatschappij draagt zorg voor de controle van vracht op de aanwezigheid van gevaarlijke goederen.
+2. Het gestelde in het eerste lid kan, onverminderd het bepaalde bij of krachtens deze of andere wetten, achterwege blijven indien er sprake is van:
+a. vracht bestemd om te worden overgeladen van het ene vliegtuig op het andere, voor zover deze is voorzien van bescherming tegen bemoeienis door ongeautoriseerde personen;
+b. vervoer van stoffelijke overschotten;
+c. levende dieren;
+d. levensreddende materialen, voor zover de controle afbreuk kan doen aan de levensreddende kwaliteit van het materiaal;
+e. nucleair materiaal of
+f. andere bij ministeriële regeling van Onze Minister van Justitie aangewezen vracht, voor zover de controle afbreuk kan doen aan de kwaliteit van de vracht.

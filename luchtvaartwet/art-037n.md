@@ -1,2 +1,4 @@
 # Artikel 37n
-Bij ministeriële regeling van Onze Minister van Justitie kunnen inzake de heffing en de invordering van de beveiligingsheffing nadere in het kader van deze paragraaf passende regels worden gesteld ter aanvulling van de daarin geregelde onderwerpen. Bij ministeriële regeling van Onze Minister van Justitie worden regels gesteld inzake de afdracht van de door de functionaris als bedoeld in artikel 37l, eerste lid, ingevorderde heffing aan Onze Minister van Justitie.
+1. De luchtvaartmaatschappij beschikt over een afsluitbare en beveiligde ruimte bestemd voor de ontvangst en bewaring van vracht.
+2. Zij stelt de identiteit van de aanbieders van vracht vast, indien deze personen niet zijn geregistreerd overeenkomstig artikel 37p, en registreert of doet registreren de naam en het adres van die personen en van de afzender.
+3. Onze Minister van Justitie kan, in overeenstemming met Onze Minister, bij ministeriële regeling nadere voorschriften geven aan de luchtvaartmaatschappij ter beveiliging van de burgerluchtvaart.

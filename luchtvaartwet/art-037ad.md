@@ -1,0 +1,4 @@
+# Artikel 37ad
+1. Onze Minister van Justitie kan op grond van omstandigheden of inlichtingen vaststellen, dat er voor een luchtvaartterrein dan wel bepaalde daar aanwezige luchtvaartuigen, een bijzonder gevaar bestaat dat zij het object van geweldpleging, aanslagen of bedreiging zullen vormen. Hij geeft hiervan onverwijld kennis aan de exploitant van dat luchtvaartterrein en, in voorkomend geval, aan de luchtvaartmaatschappij van die luchtvaartuigen.
+2. Na toepassing van het eerste lid worden geen goederen aan boord van de betrokken luchtvaartuigen gebracht dan na, zonodig stuksgewijs, onderzoek op de aanwezigheid van voor bedreiging geschikte voorwerpen.
+3. Onze Minister van Justitie kan in andere dan de in het eerste lid bedoelde gevallen, luchtvaartuigen aanwijzen waarop het tweede lid van toepassing is.

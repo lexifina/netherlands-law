@@ -1,0 +1,4 @@
+# Artikel 37ae
+1. Indien de naleving van de bij of krachtens dit hoofdstuk gestelde voorschriften gevaar dreigt te lopen, doet de exploitant van een luchtvaartterrein, de betrokken luchtvaartmaatschappij of een persoon als bedoeld in artikel 37p, eerste lid, daarvan onverwijld mededeling aan de Commandant van de Koninklijke marechaussee.
+2. Onze Minister van Justitie of de Commandant van de Koninklijke marechaussee kan het opstijgen van een luchtvaartuig verbieden en beletten indien er een redelijk vermoeden bestaat dat wegens het niet naleven van de bij of krachtens dit hoofdstuk gestelde voorschriften de beveiliging van de burgerluchtvaart in gevaar kan komen.
+3. Onze Minister van Justitie kan de Commandant van de Koninklijke marechaussee een aanwijzing geven omtrent de uitoefening van de bevoegdheid, bedoeld in het tweede lid.

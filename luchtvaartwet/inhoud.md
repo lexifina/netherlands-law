@@ -9,11 +9,12 @@
 ### Afdeling 1. Aanwijzing van luchtvaartterreinen
 ### Afdeling 2. Voorschriften omtrent handhaving van geluidszones
 ### Afdeling 3. Gebruik van luchtvaartterreinen
-### Afdeling 3A. Beveiliging luchtvaartterreinen
+### Afdeling 3A. Beveiliging op luchtvaartterreinen
 #### § 1. Algemeen
 #### § 2. De verplichtingen van een exploitant van een luchtvaartterrein
 #### § 3. De uitoefening van controle door bewakingspersoneel
-#### § 4. De beveiligingsheffing
+#### § 4. Controle van vracht
+#### § 5. Handhaving
 ### Afdeling 4. Verbod van belemmeringen op terreinen rondom luchtvaartterreinen
 #### § 1. Oplegging van het verbod
 #### § 2. Schadeloosstelling
