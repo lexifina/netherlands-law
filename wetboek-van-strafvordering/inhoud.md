@@ -26,7 +26,7 @@
 ##### § 1. Algemene bepalingen
 ##### § 2. Inbeslagneming door opsporingsambtenaren of bijzondere personen
 ##### § 2a. Inbeslagneming op grond van artikel 94a
-##### § 3. Inbeslagneming door den rechter-commissaris tijdens het gerechtelijk vooronderzoek
+##### § 3. Inbeslagneming door den rechter-commissaris
 ##### § 4. Teruggave en bewaring van inbeslaggenomen voorwerpen
 #### afdeeling Vierde. Handhaving der orde ter gelegenheid van ambtsverrichtingen
 #### afdeling Vijfde. Maatregelen ter gelegenheid van een schouw of een doorzoeking
@@ -80,6 +80,7 @@
 ### Titel VI. Behandeling van de zaak door de rechtbank
 #### afdeling Eerste. Onderzoek op de terechtzitting
 #### afdeeling Tweede. Onderzoek van de vordering van de benadeelde partij op de terechtzitting
+#### Tweede Afdeling A. Verklaring van het slachtoffer of diens nabestaande op de terechtzitting
 #### afdeeling Derde. Bewijs
 #### afdeeling Vierde. Beraadslaging en uitspraak
 ### Titel VII. Bijzondere bepalingen voor het rechtsgeding voor de politierechter
