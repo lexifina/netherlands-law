@@ -1,0 +1,2 @@
+# Artikel 56b
+In afwijking van artikel 13, eerste lid, onderdeel a, aanhef, onderscheidenlijk onderdeel b, van de Huursubsidiewet, zoals die luidden na het tijdstip van inwerkingtreding van artikel I, onderdeel EA, van de wet van 26 januari 2004 tot wijziging van de Huursubsidiewet en enkele andere wetten (introductie van een nieuwe procedure voor huurders die een aanvraag om toekenning van huursubsidie indienen) (Stb. 61), luiden de daarin genoemde bedragen voor het tijdvak dat loopt van 1 juli 2003 tot en met 30 juni 2004: € 585,24 onderscheidenlijk € 317,03.
