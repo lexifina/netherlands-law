@@ -2,7 +2,7 @@
 ## Hoofdstuk I. Belastingplicht
 ## Hoofdstuk II. Voorwerp van de belasting
 ## Hoofdstuk IIA. Vrije vergoedingen en verstrekkingen
-## Hoofdstuk IIB. Pensioenregelingen en regelingen voor vervroegde uittreding
+## Hoofdstuk IIB. Pensioenregelingen
 ## Hoofdstuk III. Tarief
 ## Hoofdstuk IV. Wijze van heffing
 ## Hoofdstuk V. Eindheffing
