@@ -1,0 +1,2 @@
+# Article IV
+Si les autorités soit de la Confédération suisse soit des autres Parties Contractantes décidaient de retirer certains articles des listes de libération actuellement en vigueur, les autorités des Parties Contractantes se consulteront immédiatement en vue de prendre des mesures propres à assurer, compte tenu des courants traditionnels, une part équitable aux importations de la ou des Parties Contractantes ayant pris cette décision.

@@ -1,0 +1,2 @@
+# Article V
+Le règlement des paiements afférents aux échanges commerciaux entre les territoires des Parties Contractantes s'effectue conformément aux dispositions de l'Accord sur l'Etablissement d'une Union Européenne des Paiements, signé à Paris le 19 septembre 1950, ainsi que des accords de paiement en vigueur entre le Royaume des Pays-Bas et la Suisse et entre l'Union Economique Belgo-Luxembourgeoise et la Suisse.
