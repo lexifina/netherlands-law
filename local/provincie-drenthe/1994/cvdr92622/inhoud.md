@@ -1,2 +1,2 @@
 # Inhoud
-## Tekst
+## Inhoud
