@@ -1,0 +1,2 @@
+# ARTIKEL CVI
+[Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940–1945.]
