@@ -1,5 +1,5 @@
 # Artikel 196b
-1. Indien een certificatiedienstverlener een certificaat aan het publiek afgeeft als een gekwalificeerd certificaat als bedoeld in artikel 1.1, onderdeel dd Telecommunicatiewet, of indien hij voor een zodanig certificaat publiekelijk instaat, en een persoon op grond daarvan handelt in redelijk vertrouwen op:
+1. Indien een certificatiedienstverlener een certificaat aan het publiek afgeeft als een gekwalificeerd certificaat als bedoeld in artikel 1.1, onderdeel ss, van de Telecommunicatiewet, of indien hij voor een zodanig certificaat publiekelijk instaat, en een persoon op grond daarvan handelt in redelijk vertrouwen op:
 a. de juistheid, op het tijdstip van afgifte, van alle in het certificaat opgenomen gegevens en de opneming van alle voor dit certificaat voorgeschreven gegevens;
 b. het feit dat, op het tijdstip van uitgifte, degene die in het certificaat is aangeduid als ondertekenaar de houder was van de gegevens voor het aanmaken van elektronische handtekeningen die behoren bij de in het certificaat vermelde gegevens voor het verifiëren van elektronische handtekeningen;
 c. het feit dat de gegevens voor het aanmaken van elektronische handtekeningen en de gegevens voor het verifiëren van elektronische handtekeningen, indien zij beide door de certificatiedienstverlener zijn gegenereerd, complementair kunnen worden gebruikt;
