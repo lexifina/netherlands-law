@@ -1,0 +1,2 @@
+# Artikel III
+De op 1 april 1991 lopende militaire wachtgelden worden te rekenen van die datum voor de resterende duur beheerst door de bepalingen van de Militaire wachtgeldregeling 1961 (Stb. 1986, 494) zoals die ingevolge dit besluit zijn komen te luiden. De resterende duur wordt daarbij zo nodig verlengd met het verschil tussen de oorspronkelijk vastgestelde duur en de duur die een toets aan de met dit besluit geïntroduceerde nieuwe regels terzake oplevert.
