@@ -1,0 +1,2 @@
+# Artikel II
+Artikel 1, onderdeel d, van het Besluit centrale beoordeling medisch-wetenschappelijk onderzoek met mensen zoals dat door dit Besluit komt te luiden, is niet van toepassing op wetenschappelijk onderzoek met geslachtscellen waarvan het onderzoeksprotocol vóór de datum van inwerkingtreding van dit besluit bij de ingevolge de Wet medisch-wetenschappelijk onderzoek met mensen bevoegde commissie ter beoordeling is ingediend.
