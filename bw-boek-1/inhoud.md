@@ -40,7 +40,6 @@
 ##### Paragraaf 1. Algemene regels voor verrekenbedingen
 ##### Paragraaf 2. Periodieke verrekenbedingen
 ##### Paragraaf 3. Finale verrekenbedingen
-#### Afdeling 3. Giften bij huwelijkse voorwaarden
 ### Titel 9. Ontbinding van het huwelijk
 #### Afdeling 1. Ontbinding van het huwelijk in het algemeen
 #### Afdeling 2. Echtscheiding
