@@ -1,0 +1,2 @@
+# Artikel 10e
+Deze regeling berust mede op verordening (EG) nr. 999/2001 van het Europees Parlement en de Raad van de Europese Unie van 22 mei 2001 (PbEG L147) houdende vaststelling van voorschriften inzake preventie, bestrijding en uitroeiing van bepaalde overdraagbare spongiforme encefalopatieën, richtlijn nr. 95/70/EG van de Raad van de Europese Unie van 22 december 1995 tot vaststelling van minimale communautaire maatregelen ter bestrijding van bepaalde ziekten van tweekleppige weekdieren (PbEG L 332) en de artikelen 3 en 5 van het Besluit verdachte dieren.
