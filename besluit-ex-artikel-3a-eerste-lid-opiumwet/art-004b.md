@@ -1,0 +1,2 @@
+# Artikel 4b
+Het verbod, gesteld in de artikelen 2, eerste lid, onder A, en 3, eerste lid, onder A, van de wet, alsmede het verbod op het aanwezig hebben, verwerken of vervoeren, gesteld in de artikelen 2, eerste lid, onder B en C, en 3, eerste lid, onder B en C, van de wet, gelden niet voor diagnostisch materiaal ter opsporing en identificatie van middelen waarop de wet betrekking heeft, indien de concentratie van elk van de daarin aanwezige middelen niet hoger is dan 0,01%.
