@@ -1,0 +1,2 @@
+# (8)
+In Supplementary Agreements concluded in accordance with article 21 of the Convention on the Recognition and Enforcement of Foreign Judgments in Civil and Commercial Matters, States parties to those Agreements will not regard a court as possessing jurisdiction when it has proceeded on one or more of the grounds of jurisdiction specified in article 4, unless it is necessary to do so to prevent a denial of justice to a litigant.
