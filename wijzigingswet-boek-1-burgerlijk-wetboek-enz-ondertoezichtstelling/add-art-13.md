@@ -1,0 +1,3 @@
+# Artikel XIII
+1. Een voor de inwerkingtreding van de wet door de gezinsvoogd gegeven aanwijzing geldt met ingang van dat tijdstip als een aanwijzing als bedoeld in artikel 258 van Boek 1 van het Burgerlijk Wetboek.
+2. Een beslissing van de rechter over een geschil als bedoeld in het tweede lid van artikel 260 van het tevoren geldende recht in eerste aanleg of in beroep, met inachtneming van het tevoren geldende recht gegeven, geldt als een aanwijzing als bedoeld in artikel 258 dan wel als een vervallenverklaring van een aanwijzing als bedoeld in artikel 259 van Boek 1 van het Burgerlijk Wetboek.

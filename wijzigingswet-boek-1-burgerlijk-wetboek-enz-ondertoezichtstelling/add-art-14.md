@@ -1,0 +1,2 @@
+# Artikel XIV
+Een voor de inwerkingtreding van de wet door de kinderrechter bevolen opneming in een op grond van de Wet op de jeugdhulpverlening voor bekostiging in aanmerking gebrachte voorziening of elders geldt met ingang van dat tijdstip als een machtiging tot uithuisplaatsing als bedoeld in artikel 261 van Boek 1 van het Burgerlijk Wetboek, behoudens de opneming in een semi-residentiële voorziening, welke wordt aangemerkt als een aanwijzing als bedoeld in artikel 258 van Boek 1 van het Burgerlijk Wetboek.
