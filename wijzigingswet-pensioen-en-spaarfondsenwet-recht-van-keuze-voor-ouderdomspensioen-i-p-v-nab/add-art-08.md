@@ -1,0 +1,4 @@
+# Artikel VIII
+1. Onze Minister zendt binnen zes jaar na inwerkingtreding van artikel I, onderdeel B, van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+2. In afwijking van het eerste lid vindt de evaluatie van de uitzonderingen, genoemd in artikel X, eerste lid, plaats zes jaar na de in artikel X, tweede lid, genoemde datum.
+3. Een ieder verstrekt aan Onze Minister of aan een bij ministeriële regeling aangewezen instelling desgevraagd alle inlichtingen die nodig zijn in verband met het onderzoek naar de doeltreffendheid en de effecten van deze wet en de op de artikelen 2b, vijfde lid, 2c, tweede lid, en 32, negende lid, van de Pensioen- en spaarfondsenwet en artikel 12c, vijfde lid, van de Wet gelijke behandeling van mannen en vrouwen berustende bepalingen.
