@@ -1,0 +1,3 @@
+# Artikel II
+1. Behoudens het bepaalde in het tweede lid, is op een vergunning als bedoeld in de artikelen 3, 4 en 28 van de Wet op de kansspelen, die is verleend voor de inwerkingtreding van dit besluit, het recht van toepassing zoals dat gold voor de inwerkingtreding van dit besluit.
+2. Ten aanzien van een vergunning als bedoeld in de artikelen 3, 4 en 28 van de Wet op de kansspelen, die is verleend voor de inwerkingtreding van dit besluit met een geldigheidsduur van meer dan een jaar, is de jaarlijkse vergoeding bedoeld in artikel 3a van het Kansspelenbesluit verschuldigd met ingang van de dag waarop dit besluit in werking treedt.
