@@ -35,6 +35,9 @@
 #### Afdeling 9. Einde van de arbeidsovereenkomst
 #### Afdeling 10. Bijzondere bepalingen voor handelsvertegenwoordigers
 #### Afdeling 11. Bijzondere bepalingen ter zake van de uitzendovereenkomst
+### Titel 12. Aanneming van werk
+#### Afdeling 1. Aanneming van werk in het algemeen
+#### Afdeling 2. Bijzondere bepalingen voor de bouw van een woning in opdracht van een natuurlijk persoon die niet handelt in de uitoefening van een beroep of bedrijf
 ### Titel 14. Borgtocht
 #### Afdeling 1. Algemene bepalingen
 #### Afdeling 2. Borgtocht, aangegaan buiten beroep of bedrijf
