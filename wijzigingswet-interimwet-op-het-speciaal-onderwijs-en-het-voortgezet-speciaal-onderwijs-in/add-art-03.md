@@ -1,0 +1,7 @@
+# Artikel III
+1. In afwijking van artikel 102h, eerste lid, van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs zoals gewijzigd door deze wet, is in het vijfjarig tijdvak, bedoeld in artikel 102d, zesde lid, van genoemde wet, de grondslag voor de berekening van het aantal leerlingen
+a. voor de kalenderjaren tot en met 1991: het aantal leerlingen op 16 januari van het desbetreffende kalenderjaar, en
+b. voor de kalenderjaren 1992 en 1993: het aantal leerlingen op 1 oktober voorafgaande aan het desbetreffende kalenderjaar, verhoogd met het krachtens artikel 93b, eerste lid, van genoemde wet zoals luidend op de dag voorafgaande aan de datum van inwerkingtreding van deze wet, bepaalde percentage van dat aantal leerlingen.
+2. Voor het kalenderjaar waarin een nieuw opgerichte school wordt geopend, geldt in afwijking van het eerste lid, als grondslag voor de berekening van het aantal leerlingen
+a. voor de kalenderjaren tot en met 1991: het aantal leerlingen op de laatste dag van de tweede maand volgende op die der opening, en
+b. voor de kalenderjaren 1992 en 1993: het aantal leerlingen op de laatste dag van de tweede maand volgende op die der opening, verhoogd met het krachtens artikel 93b, eerste lid, van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs zoals luidend op de dag voorafgaande aan de datum van inwerkingtreding van deze wet, bepaalde percentage van dat aantal leerlingen.

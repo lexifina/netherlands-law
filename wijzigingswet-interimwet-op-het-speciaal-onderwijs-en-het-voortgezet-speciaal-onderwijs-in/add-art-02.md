@@ -1,0 +1,4 @@
+# Artikel II
+Indien een nieuwe school voor speciaal onderwijs, voor voortgezet speciaal onderwijs of voor speciaal en voortgezet speciaal onderwijs in het schooljaar 1993-1994 wordt geopend, geldt in afwijking van artikel 93b, tweede lid, van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs zoals gewijzig door deze wet,
+a. voor het schooljaar 1993-1994 als grondslag het aantal leerlingen op de laatste dag van de tweede maand volgende op die der opening, verhoogd met het krachtens artikel 93b, eerste lid, van genoemde wet zoals luidend op de dag voorafgaande aan de inwerkingtreding van deze wet, bepaalde percentage van dat aantal leerlingen, en
+b. voor het schooljaar 1994-1995 als grondslag het aantal leerlingen op de laatste dag van de tweede maand volgende op die der opening.
