@@ -1,0 +1,2 @@
+# Artikel 19a
+Bij of krachtens algemene maatregel van bestuur kan ter wering van voor de volksgezondheid schadelijke produkten worden bepaald, dat de oprichting, het hebben of het gebruiken van bepaalde soorten van inrichtingen, als in artikel 19 bedoeld, slechts mag plaatsvinden met tot wederopzegging te verlenen vergunning van Onze Minister van Volksgezondheid, Welzijn en Sport en onder inachtneming van door deze tot hetzelfde doel aan de vergunning zo nodig te verbinden voorwaarden.
