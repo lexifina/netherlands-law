@@ -1,0 +1,2 @@
+# ARTIKEL LXIII
+Bij de toepassing van artikel 55 van de Wet privatisering ABP wordt ten aanzien van de militaire nabestaandenpensioenen uitvoering gegeven aan de Algemene militaire pensioenwet, zoals die luidde op 31 december 1995, met dien verstande dat ten aanzien van de artikelen J 2 en L 1 van de laatstgenoemde wet wordt uitgegaan van die wet zoals deze luidt na de inwerkingtreding van deze wet.

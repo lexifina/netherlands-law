@@ -1,0 +1,2 @@
+# ARTIKEL LVIII
+Artikel 12, tweede lid, van de Wet op de rechterlijke organisatie, zoals luidende voor de inwerkingtreding van de onderhavige wet, blijft van toepassing onderscheidenlijk is van overeenkomstige toepassing op de voor het leven benoemde rechterlijk ambtenaar aan wie op grond van arbeidsongeschiktheid wegens ziekte of gebreken voor die inwerkingtreding ontslag is verleend of te wiens aanzien voor die inwerkingtreding de aan zodanig ontslag voorafgaande procedure in gang is gezet.

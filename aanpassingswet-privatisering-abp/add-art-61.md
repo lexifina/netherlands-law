@@ -1,0 +1,3 @@
+# ARTIKEL LXI
+1. In afwijking van artikel XV, onderdeel E, blijft artikel 12 van de Wet aanpassing pensioenvoorzieningen Bijstandkorps, zoals die luidde op 31 december 1995, gelden ten aanzien van uitbetaling betreffende een periode voor 1 januari 1996 van pensioenen als bedoeld in artikel 1, onderdeel a, van die wet.
+2. In afwijking van artikel XV, onderdeel F, blijft artikel 30, tweede tot en met vierde lid, van de Wet aanpassing pensioenvoorzieningen Bijstandkorps, zoals die luidde op 31 december 1994, gelden ten aanzien van uitbetaling betreffende een periode voor 1 januari 1995 van pensioenen als bedoeld in artikel 1, onderdeel a, van die wet.
