@@ -1,0 +1,2 @@
+# Artikel 30x
+Speelautomaten of onderdelen daarvan, welke bij het onderzoek, bedoeld in artikel 5:18 van de Algemene wet bestuursrecht, niet aan de bij of krachtens deze Titel gegeven voorschriften blijken te voldoen, kunnen van een door Onze Minister van Economische Zaken vast te stellen afkeuringsmerk worden voorzien en mogen niet eerder opnieuw in gebruik worden genomen dan nadat zij zijn goedgekeurd.

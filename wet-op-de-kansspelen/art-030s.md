@@ -1,0 +1,9 @@
+# Artikel 30s
+1. De toelating van een model wordt ingetrokken:
+a. indien de gegevens, die met het oog op de verkrijging der toelating zijn verstrekt, zodanig onjuist of onvolledig blijken, dat op de aanvraag een andere beslissing zou zijn genomen als bij de beoordeling daarvan de juiste omstandigheden volledig bekend waren geweest;
+b. indien de krachtens artikel 30n gegeven voorschriften zodanig zijn gewijzigd, dat het model onder de werking van de gewijzigde voorschriften niet zou zijn toegelaten.
+2. De toelating van een model kan worden ingetrokken, indien de bij of krachtens deze Titel vastgestelde bepalingen of de voorschriften, opgenomen in de verklaring houdende de toelating, zijn overtreden door de houder of diens gemachtigde, bedoeld in artikel 30m en artikel 30r, tweede lid.
+3. In de gevallen bedoeld in het eerste lid, onder a, en het tweede lid kan Onze Minister van Economische Zaken alvorens de toelating in te trekken de houder daarvan in de gelegenheid stellen binnen een daartoe te bepalen termijn tot naleving van de bij of krachtens deze Titel vastgestelde bepalingen of de voorschriften, opgenomen in de verklaring houdende de toelating, over te gaan.
+4. De toelating van een model kan worden ingetrokken, indien noch de houder noch een gemachtigde gedurende een aaneengesloten periode van drie jaren gebruik heeft gemaakt van het in artikel 30r, tweede lid, bedoelde recht op speelautomaten een merkteken aan te brengen, tenzij de houder te kennen geeft binnen een termijn van twee jaren daar weer gebruik van te zullen gaan maken.
+5. In gevallen waarin de toelating kan worden ingetrokken, kan, in plaats daarvan, een beperking aan de toelating worden toegevoegd.
+6. Van de intrekking en van de aan de toelating toegevoegde beperking wordt in de Staatscourant mededeling gedaan.

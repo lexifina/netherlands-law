@@ -1,0 +1,3 @@
+# Artikel 30a
+1. Deze Titel is niet van toepassing op behendigheidsautomaten die zonder middellijke of onmiddellijke betaling of inworp door de speler of een derde in werking kunnen worden gesteld en waarvan het spelresultaat niet kan leiden tot de onmiddellijke uitkering van prijzen of premies.
+2. Deze Titel is niet van toepassing op bij regeling van Onze Minister van Economische Zaken aangewezen typen van speelautomaten die worden gebruikt of bestemd zijn om te worden gebruikt ter gelegenheid van kermissen, en die zodanig zijn ingericht, dat het bespelen ervan niet kan leiden tot de uitkering van geldprijzen, of tot de onmiddellijke uitkering van premies, waardebonnen of penningen, die een waarde vertegenwoordigen van meer dan het veertigvoud van de inzet per spel.
