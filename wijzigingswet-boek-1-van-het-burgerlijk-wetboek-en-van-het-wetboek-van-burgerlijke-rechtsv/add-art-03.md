@@ -1,0 +1,2 @@
+# Artikel III
+Indien het bij koninklijke boodschap van 8 januari 1992 ingediende voorstel van wet tot herziening van het procesrecht in zaken van personen- en familierecht tot wet is verheven en in werking is getreden, vervalt onderdeel B van artikel II, zodra het tot wet is verheven; In het eerste lid van artikel 810 van de Zesde Titel van het Derde Boek van het Wetboek van Burgerlijke Rechtsvordering wordt alsdan na "minderjarigen" ingevoegd:, uitgezonderd die welke zijn levensonderhoud betreffen.
