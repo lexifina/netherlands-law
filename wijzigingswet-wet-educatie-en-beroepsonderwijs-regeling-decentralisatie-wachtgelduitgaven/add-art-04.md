@@ -1,0 +1,3 @@
+# ARTIKEL IV. OVERGANGSBEPALING VERSLAG PARTICIPATIEFONDS WACHTGELDEN
+1. De rechtspersoon, bedoeld in artikel 4.4.3, tweede lid, van de Wet educatie en beroepsonderwijs, zoals luidend op 31 juli 1998, dient voor 1 juli 1999 een verslag in als bedoeld in dat artikellid, met dien verstande dat de periode waarover verslag wordt uitgebracht, aanvangt op 1 januari 1998 en eindigt op 1 augustus 1998.
+2. Artikel 4.4.3, derde lid, van de Wet educatie en beroepsonderwijs, zoals luidend op 31 juli 1998, is van overeenkomstige toepassing op het in het eerste lid bedoelde verslag, met dien verstande dat verzending geschiedt voor 1 september 1999.
