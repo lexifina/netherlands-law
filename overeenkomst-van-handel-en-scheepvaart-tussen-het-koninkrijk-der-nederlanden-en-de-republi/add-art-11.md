@@ -1,0 +1,2 @@
+# Artikel XI
+Enig verschil van opvatting tussen de beide Overeenkomstsluitende Partijen met betrekking tot de uitleg of toepassing van deze Overeenkomst, waarvoor langs diplomatieke weg geen bevredigende regeling kan worden getroffen, zal ter beoordeling worden voorgelegd aan het Internationale Gerechtshof, tenzij de beide Overeenkomstsluitende Partijen overeenkomen, op enige andere vriendschappelijke wijze tot een oplossing te geraken.

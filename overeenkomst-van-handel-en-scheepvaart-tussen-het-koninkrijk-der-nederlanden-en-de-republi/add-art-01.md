@@ -1,0 +1,2 @@
+# Artikel I
+De Overeenkomstsluitende Partijen komen overeen ter zake van de invoer, de uitvoer, de doorvoer en de opslag van goederen onder douaneverband elkander wederkerig de onvoorwaardelijke en onbeperkte behandeling van de meestbegunstigde natie te verlenen voor alles wat betreft de douanerechten en alle bijkomende rechten, heffingen en belastingen, zowel als betreffende de regels, formaliteiten en verplichtingen waaraan de douanehandelingen kunnen zijn onderworpen.

@@ -1,0 +1,3 @@
+# Artikel XIV
+Deze Overeenkomst zal voorlopig worden toegepast met ingang van de dag van ondertekening en zal in werking treden op de datum welke bepaald zal worden in een notawisseling, waarin te kennen wordt gegeven, dat de formaliteiten, welke door de nationale wetgeving van elk der beide Overeenkomstsluitende Partijen worden vereist, zijn vervuld.
+Deze Overeenkomst zal een looptijd hebben van een jaar vanaf de datum harer inwerkingtreding, welke periode stilzwijgend, steeds van jaar tot jaar zal worden verlengd, tenzij één der beide Partijen aan de andere Partij tenminste drie maanden vóór het verstrijken van de lopende termijn kennisgeving van opzegging heeft gezonden.

@@ -1,0 +1,2 @@
+# Artikel II
+De produkten van bodem en nijverheid, voortgebracht op het grondgebied van één van de beide Overeenkomstsluitende Partijen, welke worden ingevoerd in het grondgebied van de andere Partij, zullen ter zake van genoemd douaneregiem in geen geval zijn onderworpen aan andere of hogere belastingen, rechten, heffingen en verplichtingen, noch aan bezwarender regels en formaliteiten, dan die waaraan zijn onderworpen of in de toekomst zullen worden onderworpen produkten van dezelfde aard van welk derde land ook.

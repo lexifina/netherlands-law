@@ -1,0 +1,2 @@
+# Artikel XII
+Het Koninkrijk der Nederlanden omvat Nederland, Suriname (Nederlands Guyana), de Nederlandse Antillen en Nederlands Nieuw-Guinea. De toepassing van deze Overeenkomst op Suriname en de Nederlandse Antillen is afhankelijk van de goedkeuring van de betrokken Landsregeringen, welke goedkeuring geacht wordt stilzwijgend te zijn verkregen, indien de Nederlandse Regering niet binnen drie maanden na datum van ondertekening aan de Regering van Costa Rica te kennen heeft gegeven, dat Suriname en-of de Nederlandse Antillen niet met deze toepassing instemmen.

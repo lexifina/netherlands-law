@@ -1,0 +1,2 @@
+# Artikel IV
+Alle gunsten, voorrechten, tegemoetkomingen of vrijstellingen, welke ten aanzien van genoemd douaneregiem op het ogenblik worden verleend of in de toekomst zullen worden verleend door één van de beide Overeenkomstsluitende Partijen aan produkten van bodem en nijverheid afkomstig uit een derde land, zullen automatisch, onmiddellijk en zonder tegenprestatie worden toegepast op produkten van dezelfde aard, afkomstig van de andere Overeenkomstsluitende Partij of bestemd voor het grondgebied van die Partij.

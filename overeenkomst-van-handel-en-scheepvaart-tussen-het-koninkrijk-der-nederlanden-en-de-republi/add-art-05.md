@@ -1,0 +1,4 @@
+# Artikel V
+De Regering van de Republiek Costa Rica stemt ermede in, dat van de verplichtingen, waarop betrekking hebben de artikelen 1, 2, 3 en 4 worden uitgezonderd:
+a) De gunsten, voorrechten, tegemoetkomingen of vrijstellingen, verleend of in de toekomst te verlenen aan landen waarmede Nederland een Staatkundige Unie vormt of heeft gevormd dan wel uit hoofde van deelneming aan een Douane Unie, een Economische Unie of krachtens een samenwerking, overeengekomen tussen Nederland en verscheidene landen ter gemeenschappelijke organisatie van een of meer sectoren der produktie, handel of diensten.
+b) De gunsten, voorrechten, tegemoetkomingen of vrijstellingen, door Nederland verleend of in de toekomst te verlenen aan aangrenzende landen, met betrekking tot het grensverkeer, zij het over land of over de binnenwateren.
