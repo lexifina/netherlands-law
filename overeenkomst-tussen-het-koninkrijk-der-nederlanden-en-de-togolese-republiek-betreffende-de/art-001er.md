@@ -1,0 +1,9 @@
+# Article 1er
+Pour l'application du présent Accord et de ses Annexes, sauf dispositions contraires:
+a) Le terme «La Convention» signifie la Convention relative à l'Aviation Civile Internationale ouverte à la signature à Chicago le 7 décembre 1944 et embrasse toute annexe adoptée suivant l'article 90 de cette Convention et toute modification des annexes ou de la Convention conformément aux articles 90 et 94, et approuvée par les Parties Contractantes.
+b) L'expression «Autorités Aéronautiques» signifie en ce qui concerne le Royaume des Pays-Bas, le Ministre chargé de l'Aviation Civile et toute personne ou tout organisme autorisé à remplir les fonctions présentement exercées par ledit Ministre ou des fonctions analogues, et en ce qui concerne la République Togolaise, le Ministre chargé de l'Aviation Civile et toute personne ou tout organisme autorisé à remplir toutes fonctions présentement exercées par ledit Ministre ou des fonctions analogues.
+c) L'expression «Entreprise désignée» signifie une entreprise de transports aériens qui aura été désignée et agréée conformément à l'article 9 du présent Accord.
+d) Le mot «Territoire» s'entend tel qu'il est défini à l'article 2 de la Convention.
+e) Les expressions «Services Aériens», «Service Aérien International», «Service de Transports Aériens, «Escale pour raisons non commerciales» ont les significations qui leur sont respectivement attribuées à l'article 96 de la Convention.
+f) Les expressions «Equipement de Bord», «Provisions de Bord» et «Les Rechanges» s'entendront au sens de l'annexe 9 de la Convention; et
+g) L'expression «tarif» signifie les prix qui doivent être payés pour le transport des passagers, des bagages et des marchandises, et les conditions dans lesquelles ils s'appliquent, y compris les commissions et autres rémunérations supplémentaires pour l'émission ou la vente de titres de transports, excepté les rémunérations et conditions relatives au transport des envois postaux.
