@@ -1,0 +1,7 @@
+# Artikel II
+1. Binnen twee jaar na de inwerkingtreding van deze wet stelt Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer met betrekking tot luchtvaartterreinen ten aanzien waarvan ingevolge artikel VII van de Wet van 7 juni 1978, houdende wijziging van de Luchtvaartwet met betrekking tot de aanwijzing van luchtvaartterreinen (Stb. 1978, 354) de vaststelling van geluidszones voor 1 oktober 1979 moest zijn aangevangen, doch dit tot het tijdstip van inwerkingtreding van deze wet achterwege is gebleven, per luchtvaartterrein of groep van luchtvaartterreinen een regeling vast, waarin wordt bepaald:
+a. welke geluidszones op grond van de Luchtvaartwet worden vastgesteld;
+b. het tijdstip waarop een ontwerp-aanwijzing als bedoeld in artikel 20 overeenkomstig dat artikel ter inzage wordt gelegd.
+2. Onze Minister zendt een afschrift van de in het eerste lid bedoelde regeling aan de Tweede Kamer der Staten-Generaal.
+3. Indien de terinzagelegging van de ontwerp-aanwijzing niet op het in het eerste lid, onder b, bedoelde tijdstip kan plaatsvinden, doen Onze Minister en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer daarvan onder opgave van redenen mededeling aan de Tweede Kamer der Staten-Generaal.
+4. Ten aanzien van de in het eerste lid bedoelde luchtvaartterreinen kan de in artikel 24a, tweede lid, van de Luchtvaartwet bedoelde duur van de verdagingstermijn op ten hoogste twee jaar worden gesteld.
