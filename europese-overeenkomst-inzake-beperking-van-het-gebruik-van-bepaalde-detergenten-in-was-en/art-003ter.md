@@ -1,0 +1,2 @@
+# Article 3 ter
+The Contracting Parties shall, every five years, or more frequently if one of the Parties should so request, hold multilateral consultations within the Council of Europe to examine the application of this Agreement, and the advisability of revising it or extending any of its provisions. These consultations shall take place at meetings convened by the Secretary General of the Council of Europe. The Contracting Parties shall communicate the name of their representative to the Secretary General of the Council of Europe at least two months before the meetings.
