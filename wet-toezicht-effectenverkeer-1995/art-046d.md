@@ -1,0 +1,2 @@
+# Artikel 46d
+Een instelling die effecten als bedoeld in artikel 46, eerste lid, onder a, heeft uitgegeven of zal uitgeven, stelt een reglement vast waarin regels worden gesteld ten aanzien van het bezit van en transacties in op haar betrekking hebbende effecten als bedoeld in artikel 46, eerste lid, door haar werknemers en de personen, bedoeld in artikel 46b, derde lid onder a en b. Het reglement voldoet aan bij ministeriële regeling te stellen regels.

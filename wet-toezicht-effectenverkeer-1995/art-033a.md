@@ -1,0 +1,6 @@
+# Artikel 33a
+1. Onze Minister kan, in afwijking van artikel 31, eerste en tweede lid, gegevens of inlichtingen verkregen bij de vervulling van de hem ingevolge deze wet opgedragen taak, verstrekken aan een rechter-commissaris voor zover die belast is met het toezicht uit hoofde van artikel 64 van de Faillissementswet op de curator die betrokken is bij het beheer en de vereffening van de failliete boedel van een effecteninstelling.
+2. Onze Minister verstrekt geen gegevens of inlichtingen als bedoeld in het eerste lid:
+a. indien de verstrekking van de gegevens of inlichtingen redelijkerwijs in strijd is of zou kunnen komen met de belangen die deze wet beoogt te beschermen;
+b. indien de gegevens of inlichtingen zijn verkregen van Nederlandse of buitenlandse overheidsinstanties dan wel van Nederlandse of buitenlandse van overheidswege aangewezen instanties die belast zijn met het toezicht op financiële markten of op natuurlijke personen en rechtspersonen die op die markten werkzaam zijn, en deze instanties niet instemmen met het verstrekken van de gegevens of inlichtingen.
+3. Artikel 31, eerste tot en met vierde lid, is van overeenkomstige toepassing met betrekking tot de op grond van het eerste lid verstrekte gegevens.

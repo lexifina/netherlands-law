@@ -1,0 +1,2 @@
+# Artikel 2a
+De omstandigheid dat de koper van effecten zich bij de koop heeft verbonden tot een latere overdracht van een gelijke hoeveelheid effecten van dezelfde soort aan de verkoper, brengt niet met zich dat die koop, in strijd met artikel 84, derde lid, van Boek 3 van het Burgerlijk Wetboek, ten doel heeft de effecten over te dragen tot zekerheid of de strekking mist de effecten na de overdracht in het vermogen van de koper te doen vallen, tenzij de effecten na de levering in handen van de verkoper blijven.
