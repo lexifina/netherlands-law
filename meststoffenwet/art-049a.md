@@ -1,0 +1,3 @@
+# Artikel 49a
+1. De hoeveelheid fosfaat, onderscheidenlijk stikstof waarover op grond van titel 2 van dit hoofdstuk heffing is verschuldigd, kan worden verminderd met de hoeveelheid fosfaat, onderscheidenlijk stikstof in gras dat in het desbetreffende kalenderjaar verloren is gegaan als gevolg van schade veroorzaakt door ganzen, eenden en zwanen, voorzover dit ten genoegen van Bureau Heffingen aannemelijk kan worden gemaakt en aan het bedrijf een tegemoetkoming in de schade is toegekend door of vanwege het Faunafonds te 's-Gravenhage.
+2. De hoeveelheid fosfaat, onderscheidenlijk stikstof, wordt berekend door het aantal kilogrammen gras dat verloren is gegaan te vermenigvuldigen met 0,3 gram fosfaat, onderscheidenlijk 3,0 gram stikstof.
