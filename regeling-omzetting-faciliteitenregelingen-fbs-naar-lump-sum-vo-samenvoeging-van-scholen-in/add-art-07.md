@@ -1,0 +1,2 @@
+# Artikel VII. Bekendmaking
+Deze regeling zal met de toelichting in Uitleg OCenW-Regelingen worden geplaatst. Van deze plaatsing zal mededeling worden gedaan in de Staatscourant.
