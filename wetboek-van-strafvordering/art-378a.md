@@ -5,5 +5,5 @@
 2°. indien een veroordeling is uitgesproken, het strafbare feit dat het bewezenverklaarde oplevert;
 3°. de opgelegde straf of maatregel, alsmede de wettelijke voorschriften waarop deze is gegrond.
 3. Indien de aanduiding van het feit in de dagvaarding bij de nadere opgave van het feit op grond van artikel 376, eerste lid, is verbeterd of aangevuld, geschiedt de aantekening nadat de verbetering of aanvulling in het dubbel is verwerkt en door de politierechter is gewaarmerkt.
-4. Zodra de aantekening is gewaarmerkt, kunnen de verdachte en zijn raadsman daarvan kennis nemen.
+4. Zodra de aantekening is gewaarmerkt, kunnen de verdachte en zijn raadsman daarvan kennis nemen. De politierechter verstrekt desgevraagd een afschrift van de aantekening aan de verdachte en zijn raadsman.
 5. Wordt alsnog aan artikel 378, tweede lid, onder b of c, toepassing gegeven, dan komt de in de vorige leden van dit artikel bedoelde aantekening te vervallen. De griffier haalt alsdan de aantekening door.

@@ -4,5 +4,5 @@
 1°. de naam van de kantonrechter, de dag van de uitspraak en de omstandigheid of de uitspraak bij verstek of op tegenspraak is gedaan;
 2°. indien een veroordeling is uitgesproken, het strafbare feit dat het bewezenverklaarde oplevert;
 3°. de opgelegde straf of maatregel.
-3. Zodra de aantekening is gewaarmerkt, kunnen de verdachte en zijn raadsman daarvan kennis nemen.
+3. Zodra de aantekening is gewaarmerkt, kunnen de verdachte en zijn raadsman daarvan kennis nemen. De kantonrechter verstrekt desgevraagd een afschrift van de aantekening aan de verdachte en zijn raadsman.
 4. Wordt alsnog aan artikel 395, tweede lid, onder b of c, toepassing gegeven, dan komt de in de vorige leden van dit artikel bedoelde aantekening te vervallen. De griffier haalt alsdan de aantekening door.
