@@ -5,6 +5,6 @@
 ## § 4. Vergunningen
 ## § 5. Ontheffing
 ## § 6. Overige bepalingen
-## § 7. Toezicht en opsporing
+## § 7. Toezicht
 ## § 8. Bepaling van strafrechtelijke aard
 ## § 9. Overgangs- en slotbepalingen
