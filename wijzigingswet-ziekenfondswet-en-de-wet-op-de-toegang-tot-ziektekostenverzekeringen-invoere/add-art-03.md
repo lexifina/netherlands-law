@@ -1,0 +1,3 @@
+# Artikel III
+1. Onverminderd de verantwoordelijkheid van het bestuur van een ziekenhuis berust de verantwoordelijkheid voor de geneeskundige behandeling en verzorging van patiënten in het ziekenhuis bij de behandelend medisch-specialist. Deze neemt daarbij het organisatorische en financiële kader, aangegeven door het bestuur, in acht. Het bestuur van het ziekenhuis neemt het zorginhoudelijke kader, aangegeven door de medisch-specialisten, in acht. Het bestuur van het ziekenhuis voert overleg met de medisch-specialisten alvorens onderhandelingen met verzekeraars aan te gaan.
+2. Voor de toepassing van dit artikel wordt onder ziekenhuis verstaan een ingevolge de Ziekenfondswet als zodanig toegelaten instelling.
