@@ -1,3 +1,0 @@
-# Artikel I
-Als dienst in de zin van artikel 1, eerste lid, onderdeel a, onder 10°, van de Wet melding ongebruikelijke transacties wordt aangewezen:
-het aangaan van een verplichting tot het uitgeven van elektronisch geld, bedoeld in artikel 1, eerste lid, onderdeel p, van de Wet toezicht kredietwezen 1992, waarmee betalingen kunnen worden verricht ook aan anderen dan de onderneming of instelling die het elektronisch geld uitgeeft, alsmede het omwisselen, op verzoek van een houder van elektronisch geld, van elektronisch geld door middel van uitbetaling van het elektronische geld in munten of bankbiljetten of door storting op een rekening.
