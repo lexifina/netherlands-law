@@ -1,0 +1,2 @@
+# Artikel 16c
+Burgemeester en wethouders bepalen de uren, waarop elk bureau van de burgerlijke stand dagelijks voor het publiek geopend zal zijn. Daarbij wordt, ten einde de werkzaamheden van de ambtenaren van de burgerlijke stand op die dagen zoveel mogelijk te beperken, een afzonderlijke regeling getroffen voor de zaterdag, de zondag, de algemeen erkende feestdagen en de overige daarvoor door burgemeester en wethouders aan te wijzen dagen, waarop gemeentelijke diensten niet of slechts gedeeltelijk zijn geopend.

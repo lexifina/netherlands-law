@@ -1,0 +1,3 @@
+# Artikel 25g
+1. Op akten en uitspraken die buiten Nederland overeenkomstig de plaatselijke voorschriften door een bevoegde instantie zijn opgemaakt of gedaan en een overeenkomstige uitwerking hebben als de in artikel 25c van dit boek bedoelde beschikkingen, zijn de artikelen 25 tot en met 25b van overeenkomstige toepassing. De inschrijving als bedoeld in artikel 25 vindt niet plaats indien de Nederlandse openbare orde zich hiertegen verzet.
+2. In geval van adoptie van een buiten Nederland geboren kind ten aanzien waarvan een akte of uitspraak als bedoeld in het vorige lid is opgemaakt of gedaan, geeft de rechtbank die de adoptie uitspreekt, ambtshalve afzonderlijk last tot inschrijving van die akte of uitspraak.
