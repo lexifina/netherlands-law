@@ -1,0 +1,3 @@
+# Article II
+1. Any Party may propose amendments to this Treaty. The text of any proposed amendment shall be submitted to the Depositary Governments which shall circulate it to all Parties to this Treaty. Thereafter, if requested to do so by one-third or more of the Parties, the Depositary Governments shall convene a conference, to which they shall invite all the Parties, to consider such amendment.
+2. Any amendment to this Treaty must be approved by a majority of the votes of all the Parties to this Treaty, including the votes of all of the Original Parties. The amendment shall enter into force for all Parties upon the deposit of instruments of ratification by a majority of all the Parties, including the instruments of ratification of all of the Original Parties.

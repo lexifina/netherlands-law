@@ -1,0 +1,7 @@
+# Artikel III
+1. Dit Verdrag staat voor alle staten voor ondertekening open. ledere staat die het Verdrag niet voor de datum van inwerkingtreding overeenkomstig lid 3 van dit artikel ondertekent, kan te allen tijde tot dit Verdrag toetreden.
+2. Dit Verdrag dient te worden bekrachtigd door de ondertekenende staten. De akten van bekrachtiging en de akten van toetreding worden nedergelegd bij de regeringen van de Oorspronkelijke Partijen - het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, de Unie van Socialistische Sowjet-Republieken en de Verenigde Staten van Amerika - die hierbij worden aangewezen als depotregeringen.
+3. Dit Verdrag treedt in werking na bekrachtiging door alle Oorspronkelijke Partijen en de nederlegging van hun akten van bekrachtiging.
+4. Ten aanzien van staten wier akten van bekrachtiging of toetreding na de inwerkingtreding van dit Verdrag worden nedergelegd, treedt het Verdrag in werking op de datum van de nederlegging van hun akten van bekrachtiging of toetreding.
+5. De depotregeringen doen alle ondertekenende en toetredende staten onverwijld mededeling van de datum van iedere ondertekening, de datum van nederlegging van iedere akte van bekrachtiging van, en van iedere akte van toetreding tot, dit Verdrag, de datum van zijn inwerkingtreding, alsmede van de datum van ontvangst van elk verzoek een conferentie te beleggen, of van elke andere kennisgeving.
+6. Dit Verdrag wordt door de depotregeringen geregistreerd ingevolge artikel 102 van het Handvest der Verenigde Naties.
