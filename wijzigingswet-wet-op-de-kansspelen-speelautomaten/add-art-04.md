@@ -1,0 +1,3 @@
+# Artikel IV
+1. Een vergunning tot het aanwezig hebben van speelautomaten, verleend voor de inwerkingtreding van deze wet op grond van artikel 30c van de Wet op de kansspelen en van kracht op de dag onmiddellijk voorafgaande aan de dag waarop deze wet in werking treedt, blijft geldig tot een jaar na de inwerkingtreding van deze wet, behoudens eerder verstrijken van de geldigheidsduur of eerdere intrekking van de vergunning.
+2. Een vergunning tot het exploiteren van speelautomaten, verleend voor de inwerkingtreding van deze wet op grond van artikel 30h van de Wet op de kansspelen, blijft geldig tot een jaar na de inwerkingtreding van deze wet, behoudens eerder verstrijken van de geldigheidsduur of eerdere intrekking van de vergunning.
