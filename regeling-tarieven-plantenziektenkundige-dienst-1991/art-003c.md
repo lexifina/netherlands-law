@@ -1,0 +1,2 @@
+# Artikel 3c
+Als vergoeding van de kosten voor de behandeling van een aanvraag tot het verlenen van een vergunning op grond van de artikelen 6, 7 of 8 van het Besluit vakkennis- en vakbekwaamheidseisen bestrijdingsmiddelen en van een aanvraag tot verlenging van een vergunning bedoeld in de artikelen 6 en 7 van het Besluit vakkennis- en vakbekwaamheidseisen bestrijdingsmiddelen wordt per aanvraag een bedrag van € 23,43 in rekening gebracht.
