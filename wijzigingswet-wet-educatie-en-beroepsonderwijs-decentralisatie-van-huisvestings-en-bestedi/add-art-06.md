@@ -1,0 +1,2 @@
+# ARTIKEL VI
+Deze wet treedt in werking met ingang van 1 juli 1997, met uitzondering van artikel I, onderdeel J, voor zover het betreft artikel 2.8.1, en artikel V, laatste volzin, die gelijktijdig in werking treden op 31 december 1997 met dien verstande dat bij koninklijk besluit een inwerkingtreding op een ander tijdstip, gelegen in 1997, kan worden vastgesteld, en met uitzondering van artikel II dat in werking treedt op 31 december 1998 met dien verstande dat bij koninklijk besluit een inwerkingtreding op een eerder tijdstip kan worden vastgesteld.
