@@ -38,7 +38,6 @@
 ### Titel 2. Benoembaarheidvereisten voor docenten van instellingen
 ### Titel 2a. Benoembaarheidsvereiste voor overig personeel van instellingen
 ### Titel 3. Personeel van landelijke organen
-## Hoofdstuk 5. Toezicht
 ## Hoofdstuk 6. Het onderwijsaanbod beroepsopleidingen
 ### Titel 1. Het beroepsonderwijs, verzorgd door uit 's Rijks kas bekostigde instellingen
 ### Titel 2. Het beroepsonderwijs, verzorgd door niet uit 's Rijks kas bekostigde instellingen
