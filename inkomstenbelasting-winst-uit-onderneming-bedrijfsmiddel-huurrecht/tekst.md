@@ -1,0 +1,13 @@
+# Tekst
+De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
+Aan de Belastingdienst is de vraag voorgelegd of een vergoeding die wordt ontvangen ter zake van de beëindiging van een huurrecht in aanmerking komt voor het vormen van een herinvesteringsreserve.
+De vraag en het antwoord zijn hieronder opgenomen.
+## Vraag
+Is een door investeringen of anderszins waardevol huurrecht een bedrijfsmiddel, zodat voor een huurbeëindigingsvergoeding een herinvesteringsreserve als bedoeld in artikel 3.54 van de Wet op de inkomstenbelasting 2001 kan worden gevormd?
+## Antwoord
+Ja. Indien dit huurrecht voor het drijven van een onderneming wordt gebruikt, is sprake van een bedrijfsmiddel. Daaraan doet niet af dat op de balans met betrekking tot het huurrecht geen actiefpost is opgevoerd.
+Wanneer een in de uitoefening van het bedrijf gebruikt huurrecht een bijzondere waarde heeft, hetgeen bijvoorbeeld kan blijken uit de vergoeding die ter zake van dat recht wordt betaald bij beëindiging daarvan, stempelt die waarde het tot een economisch goed dat behoort tot het vaste kapitaal ('duurzame kapitaalgoederen') van het bedrijf.
+Zoals de Hoge Raad reeds in zijn arrest van 11 maart 1953, BNB 1953/119, overwoog, zijn bedrijfsmiddelen in het algemeen die tot het bedrijfsvermogen behorende zaken (thans 'goederen'; artikel 1 Boek 3 BW), 'die behoren tot het vaste kapitaal en bestemd zijn om in de uitoefening van het bedrijf te worden gebruikt.'
+Zie in dit verband ook het arrest van 21 mei 1958, BNB 1958/213, waarin de Hoge Raad als zijn oordeel gaf dat 'bij een veehouderijbedrijf het gebruiksrecht op de grond, waarop het bedrijf wordt uitgeoefend, het bedrijfsmiddel bij uitnemendheid is en dat mitsdien het verkregen pachtrecht, hetwelk hier het recht van gebruik van de grond waarborgt, eveneens als bedrijfsmiddel moet worden beschouwd.' Niet valt in te zien waarom dit bij een huurrecht met betrekking tot een pand waarin het bedrijf wordt uitgeoefend, anders zou zijn.
+De beëindigingsvergoeding ter zake van een als bedrijfsmiddel aan te merken huurrecht kan op de voet van voormeld artikel 3.54 worden gereserveerd voor zover deze niet is aan te merken als een vergoeding wegens inkomensschade (bijvoorbeeld wegens hogere lasten van het vervangende bedrijfsmiddel).
+Wellicht ten overvloede merk ik op dat het feit dat een waardevol huurrecht een bedrijfsmiddel is, niet betekent dat een voor de verkrijging van een huurrecht betaald bedrag is aan te merken als aanschaffings- of voortbrengingskosten van dat bedrijfsmiddel (zie het arrest van de Hoge Raad van 9 mei 1990, BNB 1990/316).
