@@ -25,7 +25,6 @@
 #### § 6. Bestedingsmogelijkheden
 ### Afdeling 8. Beëindiging van de bekostiging
 ### Afdeling 9. Gemeentelijk onderwijsachterstandenbeleid
-### Afdeling 10. Onderwijs in allochtone levende talen
 ### Afdeling 10A. Bestrijding voortijdig schoolverlaten niet-leerplichtigen
 ### Afdeling 11. Overige bepalingen
 ## Titel V. Bewijzen van bekwaamheid
