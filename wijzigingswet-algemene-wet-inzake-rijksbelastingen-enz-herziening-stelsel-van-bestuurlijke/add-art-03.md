@@ -1,0 +1,2 @@
+# ARTIKEL III
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip en vindt voor het eerst toepassing met betrekking tot aangiften en betalingen die betrekking hebben op tijdvakken of tijdstippen die aanvangen onderscheidenlijk liggen op of na de datum van inwerkingtreding. Voor aangiften vermogensbelasting vindt deze wet voor het eerst toepassing met betrekking tot aangiften die betrekking hebben op het tijdvak dat volgt op het in de vorige volzin bedoelde tijdvak.
