@@ -1,0 +1,2 @@
+# VI
+Wanneer de vraag van het leveren van bewijs of het overleggen van documenten zich voordoet, zal, wanneer naar het oordeel van de betrokken Regeering zulk bewijs niet kan worden geleverd of zulke bewijsstukken niet kunnen worden overgelegd zonder dat daaruit schade voor de nationale belangen voortspruit, deze Regeering zich daarvan kunnen onthouden met een beroep op deze te beveiligen belangen.
