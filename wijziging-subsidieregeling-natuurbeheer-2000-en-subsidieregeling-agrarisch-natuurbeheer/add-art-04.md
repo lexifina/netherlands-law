@@ -1,3 +1,0 @@
-# Artikel IV
-1. Voorzover in beheersgebiedsplannen als bedoeld in artikel 10 van de Subsidieregeling agrarisch natuurbeheer, plannen voor Rbon-gebieden als bedoeld in artikel 95 van de Subsidieregeling agrarisch natuurbeheer en natuurgebiedsplannen als bedoeld in artikel 13 van de Subsidieregeling natuurbeheer 2000 quota zijn vastgesteld, blijven de betrokken plannen van kracht met dien verstande dat voor de beoordeling van subsidieaanvragen geen rekening met deze quota wordt gehouden.
-2. Voorzover in landschapsgebiedsplannen als bedoeld in artikel 12 van de Subsidieregeling agrarisch natuurbeheer quota zijn vastgesteld, blijven de betrokken plannen van kracht met dien verstande dat voor de beoordeling van subsidieaanvragen geen rekening met deze quota wordt gehouden.
