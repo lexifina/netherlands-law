@@ -1,0 +1,3 @@
+# Article XVII
+1. This Convention shall not in any way affect the provisions of the Berne Convention for the Protection of Literary and Artistic Works or membership in the Union created by that Convention.
+2. In application of the foregoing paragraph, a Declaration has been annexed to the present article. This Declaration is an integral part of this Convention for the States bound by the Berne Convention on January 1, 1951, or which have or may become bound to it at a later date. The signature of this Convention by such States shall also constitute signature of the said Declaration, and ratification, acceptance or accession by such States shall include the Declaration as well as the Convention.

@@ -1,0 +1,3 @@
+# Artikel XXI
+De Directeur-Generaal van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur zal behoorlijk gewaarmerkte afschriften van deze Conventie zenden aan de betrokken Staten en aan de Zwitserse Bondsraad, alsmede aan de Secretaris-Generaal van de Verenigde Naties ter registratie door laatstgenoemde.
+Voorts zal hij alle betrokken Staten verwittigen van de nederlegging van akten van bekrachtiging, aanvaarding of toetreding, van de datum der inwerkingtreding van deze Conventie, van de kennisgevingen bedoeld in artikel XIII van deze Conventie, en van de opzeggingen bedoeld in artikel XIV.
