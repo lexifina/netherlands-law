@@ -1,0 +1,2 @@
+# Artikel I
+Artikel IV van de wet van 16 december 1993 tot wijziging van de Wet op de belasting van personenauto's en motorrijwielen 1992 in verband met verruiming van het begrip personenauto ( Stb. 1993, 673) is niet van toepassing met betrekking tot motorrijtuigen die als gevolg van die wet personenauto zijn geworden in de zin van de Wet op de belasting van personenauto's en motorrijwielen 1992 en waarvan de dagtekening van deel II van het ingevolge de Wegenverkeerswet afgegeven kentekenbewijs een vroegere datum is dan 1 januari 1988.
