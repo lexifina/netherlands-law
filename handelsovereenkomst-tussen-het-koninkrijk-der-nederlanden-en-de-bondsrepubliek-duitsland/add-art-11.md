@@ -1,0 +1,2 @@
+# Artikel XI. Kündigung
+Dieses Abkommen ersetzt alle bisher bestehenden Protokolle und Abmachungen über den Wirtschaftsverkehr zwischen dem Gebiet der Bundesrepublik Deutschland und dem Königreich der Niederlande mit Ausnahme des Zahlungsabkommens vom 7. September 1949 und seinen Ergänzungs- und Durchführungsbestimmungen. Es tritt am Tage seiner Unterzeichnung rückwirkend für den 1. November 1950 in Kraft und ist jeweils am Ende eines Halbjahres mit einer Frist von einem Monat, jedoch nicht vor dem 31. Oktober 1951 kündbar.

@@ -1,0 +1,3 @@
+# Artikel VI. O.E.E.C.-Regeln
+Soweit die Verpflichtungen der vertragschliessenden Teile aus ihrer Mitgliedschaft bei der O.E.E.C. und bei der E.Z.U. mit den Bestimmungen dieses Abkommens jeweils in Widerspruch stehen sollten, gehen die multilateralen Verpflichtungen den bilateralen Vereinbarungen vor. Die vertragschliessenden Teile werden eine entsprechende Anpassung ihrer bilateralen Vereinbarungen vornehmen, soweit ihnen dies erforderlich erscheint.
+Sollten multilaterale Bestimmungen der O.E.E.C. für einen Teil zu handelspolitischen Schwierigkeiten führen, so wird auch aus diesem Grunde alsbald eine entsprechende Anpassung der Bestimmungen dieses Abkommens, einschliesslich der vereinbarten Kontingente, durch den Regierungsausschuss vorgenommen werden.

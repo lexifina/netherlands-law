@@ -1,0 +1,2 @@
+# Artikel VIII. Gefahren-Klausel
+Falls die Einfuhr einer Ware oder Warengruppe eine Höhe erreicht, die den im Einfuhrlande ansässigen Erzeugern gleichartiger oder konkurrierender Erzeugnisse einen den Bestand dieses Wirtschaftzweiges gefährenden Schaden zufügen würde, tritt der in Artikel V vorgesehene Gemischte Regierungsausschuss unverzüglich zur Prüfung der Massnahmen zusammen, die Abhilfe zu schaffen geeignet sind.
