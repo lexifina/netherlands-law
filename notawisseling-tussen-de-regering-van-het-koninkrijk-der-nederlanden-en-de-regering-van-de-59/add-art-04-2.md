@@ -1,0 +1,6 @@
+# IV
+Deze regeling kan te allen tijde langs diplomatieke weg worden opgezegd. Zij treedt 6 maanden na opzegging buiten werking.
+De Regering van de Bondsrepubliek Duitsland gaat ervan uit dat de bovenstaande regeling overeenkomstig artikel 1, vijfde lid, van de Overeenkomst van 30 mei 1958 wordt bevestigd door deze Note Verbale en de antwoordnota van de Ambassade van het Koninkrijk der Nederlanden en dat de regeling op 10 juni 1985 in werking treedt.
+Het Ministerie van Buitenlandse Zaken maakt tevens van deze gelegenheid gebruik, de Ambassade van het Koninkrijk der Nederlanden opnieuw te verzekeren van zijn bijzondere hoogachting."
+De Ambassade heeft de eer het Ministerie van Buitenlandse Zaken mede te delen dat de Nederlandse Regering ermede instemt dat de Note Verbale van het Ministerie van Buitenlandse Zaken en deze antwoordnota de ingevolge artikel 1, vijfde lid, van genoemde Overeenkomst voorziene bevestiging van de hierboven weergegeven briefwisseling tussen de Bondsminister van Financiën en de Nederlandse Minister van Financiën vormen en dat deze regeling op 10 juni 1985 in werking treedt.
+De Ambassade van het Koninkrijk der Nederlanden maakt van deze gelegenheid gebruik, het Ministerie van buitenlandse Zaken opnieuw te verzekeren van haar bijzondere hoogachting.
