@@ -1,0 +1,2 @@
+# Artikel 383e
+De vennootschap doet opgave van het bedrag van de leningen, voorschotten en garanties, ten behoeve van iedere bestuurder en iedere commissaris van de vennootschap verstrekt door de vennootschap, haar dochtermaatschappijen en de maatschappijen waarvan zij de gegevens consolideert. Opgegeven worden de nog openstaande bedragen, de rentevoet, de belangrijkste overige bepalingen, en de aflossingen gedurende het boekjaar.
