@@ -1,0 +1,4 @@
+# Artikel 7bis
+1. De landen der Unie verbinden zich tot het depôt toe te laten en te beschermen de collectieve merken, die aan gemeenschappen toebehoren, welker bestaan niet strijdig is met de wet van het land van oorsprong, zelfs al bezitten die gemeenschappen niet een inrichting van nijverheid of handel.
+2. Elk land zal vrij zijn in het stellen van bijzondere voorwaarden, waaronder een collectief merk zal worden beschermd, en het zal de bescherming kunnen weigeren, indien dit merk strijdig is met het algemeen belang.
+3. Intussen zal de bescherming van deze merken niet kunnen worden geweigerd aan een gemeenschap, welker bestaan niet strijdig is met de wet van het land van oorsprong, op grond van het feit, dat zij niet gevestigd is in het land, waar de bescherming wordt gevraagd, of dat zij niet is opgericht overeenkomstig de wetgeving van dit land.

@@ -1,0 +1,3 @@
+# Artikel 5bis
+1. Een termijn van uitstel, die ten minste drie maanden zal moeten zijn, zal worden toegestaan voor de voldoening van de taxen, bepaald voor het behoud van de rechten van industriële eigendom, met betaling van een verhoogde taxe, indien de nationale wetgeving deze oplegt.
+2. Wat de octrooien van uitvinding betreft verbinden de landen der Unie zich bovendien om, hetzij de termijn van uitstel op ten minste zes maanden te stellen, hetzij in het herstel van het octrooi, vervallen wegens niet-betaling van taxen, te voorzien, welke maatregelen echter onderworpen blijven aan de voorwaarden, in de binnenlandse wetgeving gesteld.
