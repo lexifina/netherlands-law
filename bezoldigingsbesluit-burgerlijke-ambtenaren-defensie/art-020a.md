@@ -1,0 +1,2 @@
+# Artikel 20a. Samenloop functioneringstoelage, bindingspremie en beloningen
+Bij toekenning van een aanspraak op een beloning, als bedoeld in artikel 11, een functioneringstoelage, als bedoeld in artikel 12a, een wervings- en behoudtoelage, als bedoeld in artikel 19, of een wervings- en behoudpremie, als bedoeld in artikel 24, bedraagt de totale waarde van die aanspraken, gerekend over de voorafgaande 12 maanden, maximaal 30% van het tot een jaarbedrag herleide salaris in de maand van de toekenning.
