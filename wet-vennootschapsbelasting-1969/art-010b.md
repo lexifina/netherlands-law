@@ -1,0 +1,6 @@
+# Artikel 10b
+1. Indien een belastingplichtige (schuldenaar) een geldlening is aangegaan waarvan de vergoeding geheel of gedeeltelijk bestaat uit aandelen in of rechten om aandelen te verwerven in het kapitaal van de belastingplichtige of van een met de belastingplichtige verbonden lichaam, komen bij het bepalen van de winst slechts die bedragen in aftrek die als periodieke rente – anders dan in de vorm van de hiervoor bedoelde aandelen of rechten – zijn overeengekomen.
+2. Voor de toepassing van dit artikel wordt onder aandelen mede begrepen:
+a. winstbewijzen, lidmaatschapsrechten en bewijzen van deelgerechtigdheid;
+b. rechten waarvan de waarde geheel of gedeeltelijk afhankelijk is van het resultaat van de door de belastingplichtige of een met de belastingplichtige verbonden lichaam gedreven onderneming dan wel van de waarde van de aandelen in de belastingplichtige of een met de belastingplichtige verbonden lichaam.
+3. Indien de rechten om aandelen te verwerven in samenhang met de lening zijn overeengekomen, maar geen deel uitmaken van de vergoeding of afzonderlijk verhandelbaar zijn, komt – naast de periodieke rente – slechts in aftrek de waarde van die rechten in het economische verkeer op het tijdstip waarop de lening wordt aangegaan.
