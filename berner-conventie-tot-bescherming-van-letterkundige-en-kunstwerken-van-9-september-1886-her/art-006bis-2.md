@@ -1,0 +1,3 @@
+# Artikel 6bis
+(1) Onafhankelijk van de vermogensrechtelijke auteursrechten en zelfs na afstand van die rechten, behoudt de auteur het recht om het vaderschap van een werk op te eischen, evenals het recht om zich te verzetten tegen elke misvorming, verminking of andere wijziging van dat werk, die nadeel zou kunnen brengen aan zijn eer of goeden naam.
+(2) Het vaststellen van de voorwaarden waaronder die rechten kunnen worden uitgeoefend, wordt overgelaten aan den binnenlandsche wetgeving der landen van het Verbond. De rechtsmiddelen die men tot handhaving er van zal moeten aanwenden worden geregeld door de wetgeving van het land, waar de bescherming wordt gevraagd.

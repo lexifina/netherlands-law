@@ -1,0 +1,3 @@
+# Artikel 11bis
+(1) De auteurs van letterkundige en kunst-werken genieten het uitsluitend recht om machtiging te verleenen tot mededeeling aan het publiek van hun werken door middel van radio-uitzending.
+(2) Het staat aan de binnenlandsche wetgeving der landen van het Verbond de voorwaarden vast te stellen tot uitoefening van het recht bedoeld in het vorig lid, maar die voorwaarden hebben slechts een werking die uitsluitend beperkt blijft tot het land, dat ze heeft vastgesteld. Zij kunnen in geen geval afbreuk doen noch aan het zedelijk recht van den auteur, noch aan het den auteur toekomend recht op een billijke vergoeding, bij gebrek aan een minnelijke schikking, door de bevoegde overheid vast te stellen.

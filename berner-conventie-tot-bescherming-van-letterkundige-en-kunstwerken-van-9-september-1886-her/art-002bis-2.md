@@ -1,0 +1,3 @@
+# Artikel 2bis
+(1) Aan de binnenlandsche wetgeving van elk land van het Verbond blijft de bevoegdheid voorbehouden om van de bescherming bedoeld in het vorig artikel geheel of gedeeltelijk uit te sluiten politieke redevoeringen en redevoeringen die bij een debat voor den rechter zijn uitgesproken.
+(2) Eveneens blijft aan de binnenlandsche wetgeving van elk land van het Verbond de bevoegdheid voorbehouden om te beslissen over de voorwaarden, waaronder voorlezingen, toespraken, preeken en andere werken van dien aard door de Pers zullen kunnen worden weergegeven. Echter zal alleen de auteur het recht hebben om die werken in een verzamelwerk bijeen te brengen.

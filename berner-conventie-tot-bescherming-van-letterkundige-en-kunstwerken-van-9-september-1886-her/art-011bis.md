@@ -1,0 +1,3 @@
+# Article 11bis
+(1) Les auteurs d'œuvres littéraires et artistiques jouissent du droit exclusif d'autoriser la communication de leurs œuvres au public par la radiodiffusion.
+(2) Il appartient aux législations nationales des Pays de l'Union de régler les conditions d'exercice du droit visé à l'alinéa précédent, mais ces conditions n'auront qu'un effet strictement limité au pays qui les aurait établies. Elles ne pourront en aucun cas porter atteinte ni au droit moral de l'auteur, ni au droit qui appartient à l'auteur d'obtenir une rémunération équitable fixée, à défaut d'accord amiable, par l'autorité compétente.
