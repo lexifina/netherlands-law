@@ -1,0 +1,3 @@
+# Article I
+The territories of the High Contracting Parties to which the present Treaty applies are, on the part of the Republic of China, all the territories of the Republic of China; and on the part of the Kingdom of the Netherlands, all the territories of the Kingdom of the Netherlands.
+In the present Treaty, the term „nationals of the one (or of the other) High Contracting Party" shall, in relation to the Republic of China, mean all persons who are Chinese citizens by virtue of the Chinese nationality laws; and in relation to the Kingdom of the Netherlands, mean all persons being Netherlands subjects by virtue of the Netherlands nationality laws.

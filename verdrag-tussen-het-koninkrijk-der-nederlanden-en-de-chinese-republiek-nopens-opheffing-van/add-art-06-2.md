@@ -1,0 +1,3 @@
+# Artikel VI
+Ieder der Hooge Verdragsluitende Partijen zal aan de onderdanen van de andere het recht verleenen om haar grondgebied te betreden of te verlaten, alsmede het recht om binnen de geheele uitgestrektheid van haar grondgebied te reizen, te verblijven en handel te drijven.
+Elk der beide Regeeringen zal trachten om ten aanzien van alle rechtsgedingen en alle zaken betreffende de rechtspleging en belastingheffing onverschillig van welken aard, aan de onderdanen en ondernemingen van de andere een niet minder gunstige behandeling toe te kennen dan die, welke genoten wordt door haar eigen onderdanen binnen haar eigen grondgebied.

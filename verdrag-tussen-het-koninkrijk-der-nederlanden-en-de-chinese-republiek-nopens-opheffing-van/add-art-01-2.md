@@ -1,0 +1,3 @@
+# Artikel I
+Het grondgebied van de Hooge Verdragsluitende Partijen, waarop dit Verdrag van toepassing is, omvat voor wat betreft de Chineesche Republiek alle gebiedsdeelen van de Chineesche Republiek; en voor wat betreft het Koninkrijk der Nederlanden alle gebiedsdeelen van het Koninkrijk der Nederlanden.
+In dit Verdrag zal de uitdrukking „onderdanen van de eene (of van de andere) Hooge Verdragsluitende Partij", ten aanzien van de Chineesche Republiek beteekenen alle personen, die Chineesche staatsburgers zijn krachtens de Chineesche nationaliteitswetten; en ten aanzien van het Koninkrijk der Nederlanden, beteekenen alle personen, die Nederlandsche onderdanen zijn op grond van de Nederlandsche nationaliteitswetten.

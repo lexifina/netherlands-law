@@ -1,0 +1,2 @@
+# Article II
+All those provisions of treaties or agreements in force between the Kingdom of the Netherlands and the Republic of China which authorise the Netherlands Government or its representatives to exercise jurisdiction over Netherlands nationals or companies in the territory of the Republic of China are hereby abrogated. Netherlands nationals and companies in the territory of the Republic of China shall be subject to the jurisdiction of the Government of the Republic of China in accordance with the principles of international law and practice.
