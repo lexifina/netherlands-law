@@ -1,7 +1,0 @@
-# Inhoud
-## Categorie 1
-## Categorie 2
-## Categorie 3
-## Categorie 4
-## Categorie 5
-## Categorie 6
