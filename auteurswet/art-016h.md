@@ -1,0 +1,3 @@
+# Artikel 16h
+1. Een reprografische verveelvoudiging van een artikel in een dag-, nieuws- of weekblad of een tijdschrift of van een klein gedeelte van een boek en van de in zo'n werk opgenomen andere werken wordt niet beschouwd als inbreuk op het auteursrecht, mits voor deze verveelvoudiging een vergoeding wordt betaald.
+2. Een reprografische verveelvoudiging van het gehele werk wordt niet beschouwd als inbreuk op het auteursrecht, indien van een boek naar redelijkerwijs mag worden aangenomen geen nieuwe exemplaren tegen betaling, in welke vorm dan ook, aan derden ter beschikking worden gesteld, mits voor deze verveelvoudiging een vergoeding wordt betaald.

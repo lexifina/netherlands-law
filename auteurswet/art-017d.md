@@ -1,2 +1,2 @@
 # Artikel 17d
-Een algemene maatregel van bestuur als bedoeld in de artikelen 16, tweede lid, 16b, zesde lid, 17, derde lid, en 17a, eerste en tweede lid, of een wijziging daarvan, zomede alle daaruit voortvloeiende besluiten, treden niet eerder in werking dan twee maanden na datum van uitgifte van het Staatsblad, waarin deze worden geplaatst.
+Een krachtens artikel 16b, zevende lid, artikel 16i, tweede lid, artikel 16l, derde lid, artikel 16m, tweede lid, of artikel 17a, eerste en tweede lid, vastgestelde algemene maatregel van bestuur of een wijziging daarvan treedt niet eerder in werking dan acht weken na de datum van uitgifte van het Staatsblad waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide Kamers der Staten-Generaal.

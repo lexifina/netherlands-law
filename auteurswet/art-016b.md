@@ -1,6 +1,6 @@
 # Artikel 16b
 1. Als inbreuk op het auteursrecht op een werk van letterkunde, wetenschap of kunst wordt niet beschouwd, tenzij het een met elektronische middelen toegankelijke verzameling als bedoeld in artikel 10, derde lid, betreft, de verveelvoudiging, welke beperkt blijft tot enkele exemplaren en uitsluitend dient tot eigen oefening, studie of gebruik van degene die de verveelvoudiging vervaardigt of tot het verveelvoudigen uitsluitend ten behoeve van zichzelf opdracht geeft.
-2. Waar het geldt een werk als bedoeld bij artikel 10, eerste lid, onder 1°, de partituur of de partijen van een muziekwerk daaronder begrepen, moet de verveelvoudiging bovendien beperkt blijven tot een klein gedeelte van het werk, behalve indien het betreft:
+2. Waar het geldt een dag-, nieuws- of weekblad of een tijdschrift of een boek of de partituur of de partijen van een muziekwerk en de in die werken opgenomen andere werken, blijft die verveelvoudiging bovendien beperkt tot een klein gedeelte van het werk, behalve indien het betreft:
 a. werken, waarvan naar redelijkerwijs mag worden aangenomen geen nieuwe exemplaren tegen betaling, in welke vorm ook, aan derden ter beschikking zullen worden gesteld;
 b. in een dag-, nieuws- of weekblad of tijdschrift verschenen korte artikelen, berichten of andere stukken.
 3. Waar het geldt een werk, als bedoeld bij artikel 10, eerste lid, onder 6°, moet de verveelvoudiging door haar grootte of door de werkwijze, volgens welke zij vervaardigd is, een duidelijk verschil vertonen met het oorspronkelijke werk.
