@@ -1,0 +1,2 @@
+# XVIII. Materieel voor aansluitingslijnen
+De invoer en de uitvoer door een buitenlandse resp. binnenlandse spoorwegmaatschappij van spoorwegmaterieel, bestemd voor de aanleg, de bouw of het onderhoud van aansluitingslijnen en daartoe behorende gebouwen, zomede de wederuitvoer resp. de wederinvoer van zodanig overtollig geworden materieel, een en ander voor zover dit materieel bij de invoer met vrijstelling van rechten bij invoer als bedoeld in artikel 1, tweede lid, van de Douanewet wordt toegelaten.

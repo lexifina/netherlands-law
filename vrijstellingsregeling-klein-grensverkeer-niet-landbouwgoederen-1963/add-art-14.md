@@ -1,0 +1,3 @@
+# XIV. Goederen, medegevoerd door artsen, veeartsen, vroedvrouwen of verpleegsters dan wel door personen, die een vrij beroep uitoefenen
+a. De invoer door artsen, veeartsen, vroedvrouwen en verpleegsters van geneesmiddelen, genees- en heelkundige instrumenten en dergelijke benodigdheden, voor zover medegevoerd met het oog op de uitoefening van hun beroep, en naar het oordeel van de Minister van Financiën, wat aard en hoeveelheid betreft, als normaal aan te merken.
+b. De tijdelijke invoer door andere dan onder a genoemde personen die een vrij beroep uitoefenen, van goederen, voor zover medegevoerd met het oog op de uitoefening van hun beroep en naar het oordeel van de Minister van Financiën, wat aard en hoeveelheid betreft, als normaal aan te merken.

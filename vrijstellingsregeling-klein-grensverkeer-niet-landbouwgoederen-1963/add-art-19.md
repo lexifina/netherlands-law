@@ -1,0 +1,5 @@
+# XIX. Goederen, welke in verband met hun bijzondere aard of bestemming geacht kunnen worden voor het handelsverkeer van geen betekenis te zijn
+a. De invoer van:
+1. propagandamateriaal op toeristisch of cultureel gebied, afkomstig van en bestemd voor op dit gebied werkzaam zijnde instellingen,
+2. door regeringen verleende onderscheidingstekenen, bij wedstrijden verworven bekers, medailles en dergelijke prijzen of onderscheidingen, reclamevoorwerpen en andere goederen, welke in verband met hun bijzondere aard of bestemming geacht kunnen worden voor het handelsverkeer van geen betekenis te zijn, een en ander voor zover deze goederen met vrijstelling van rechten bij invoer als bedoeld in artikel 1, tweede lid, van de Douanewet worden toegelaten.
+b. De tijdelijke invoer dan wel de wederinvoer van goederen, welke naar hun aard uitsluitend kunnen dienen tot het maken van reclame of propaganda en voor dat doel tijdelijk worden ingevoerd resp. uitgevoerd, voor zover zij met vrijstelling van rechten bij invoer als bedoeld in artikel 1, tweede lid, van de Douanewet worden toegelaten.

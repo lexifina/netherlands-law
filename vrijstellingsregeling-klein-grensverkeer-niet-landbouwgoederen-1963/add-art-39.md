@@ -1,0 +1,2 @@
+# XXXIX. Dieren en goederen van binnenlandse herkomst
+De wederinvoer van dieren en goederen, die herkend worden als tevoren tijdelijk te zijn uitgevoerd en bij hun wederinvoer met gehele vrijstelling van rechten bij invoer als bedoeld in artikel 1, tweede lid, van de Douanewet worden toegelaten, ingeval het voornemen tot wederinvoer bij de uitvoer op het douanedocument tot uitdrukking is gebracht.

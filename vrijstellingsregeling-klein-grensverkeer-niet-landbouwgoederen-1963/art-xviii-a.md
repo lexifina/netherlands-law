@@ -1,0 +1,2 @@
+# XVIII A. Gronduitrusting voor internationale luchtverkeersdiensten
+De tijdelijke invoer door een buitenlandse luchtvaartonderneming van gronduitrusting, welke door haar wordt aangewend voor de inrichting of exploitatie van een internationale luchtvaartdienst, voor zover deze uitrusting met vrijstelling van rechten bij invoer als bedoeld in artikel 1, tweede lid, van de Douanewet wordt toegelaten.
