@@ -1,7 +1,7 @@
 # Artikel 1a
 Economische delicten zijn eveneens:
 1°. overtredingen van voorschriften, gesteld bij of krachtens:
-de Bestrijdingsmiddelenwet 1962, de artikelen 2, eerste lid, ,10, eerste lid, en 25c, vijfde lid;
+de Bestrijdingsmiddelenwet 1962, de artikelen 2, eerste lid, ,10, eerste lid, 25c, vijfde lid, en 25d, vierde en achtste lid;
 de Destructiewet, de artikelen 4 en 5, eerste en tweede lid;
 de Flora- en faunawet, artikel 13, eerste lid;
 de Grondwaterwet, artikel 14, eerste en tweede lid;
