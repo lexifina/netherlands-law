@@ -1,0 +1,3 @@
+# Artikel acht. Toepasselijk recht
+1. Een krachtens deze Bijlage ingesteld scheidsgerecht dient overeenkomstig dit Verdrag en de toepasselijke rechtsregels over de voorgelegde geschillen te beslissen.
+2. Een interpretatie van een bepaling in dit Verdrag die gezamenlijk door de Verdragsluitende Partijen is geformuleerd en overeengekomen, is bindend voor elk scheidsgerecht dat krachtens deze Bijlage wordt ingesteld. Indien de Verdragsluitende Partijen nalaten om binnen zestig dagen na de datum van het verzoek van een van de Verdragsluitende Partijen een interpretatie voor te leggen, beslist het scheidsgerecht over de zaak.
