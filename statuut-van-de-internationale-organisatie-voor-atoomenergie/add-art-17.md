@@ -1,0 +1,3 @@
+# Article XVII. Settlement of disputes
+A. Any question or dispute concerning the interpretation or application of this Statute which is not settled by negotiation shall be referred to the International Court of Justice in conformity with the Statute of the Court, unless the parties concerned agree on another mode of settlement.
+B. The General Conference and the Board of Governors are separately empowered, subject to authorization from the General Assembly of the United Nations, to request the International Court of Justice to give an advisory opinion on any legal question arising within the scope of the Agency's activities.

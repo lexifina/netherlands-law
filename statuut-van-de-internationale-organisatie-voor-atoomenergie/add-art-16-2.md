@@ -1,0 +1,5 @@
+# Artikel XVI. De betrekkingen met andere organisaties
+A. De Raad van Beheer is, met goedkeuring van de Algemene Conferentie, bevoegd een overeenkomst of overeenkomsten aan te gaan tot regeling van de betrekkingen tussen de Organisatie en de Verenigde Naties en alle andere organisaties waarvan de werkzaamheden verband houden met die van de Organisatie.
+B. De overeenkomst of overeenkomsten tot regeling van de betrekkingen tussen de Organisatie en de Verenigde Naties zullen voorzien in:
+1. Indiening door de Organisatie van de in lid B van artikel III sub 4 en 5 voorziene rapporten;
+2. Overweging door de Organisatie van op haar betrekking hebbende resoluties welke door de Algemene Vergadering of door een of meer der Raden van de Verenigde Naties zijn aanvaard en de indiening, wanneer daartoe het verzoek wordt gedaan, van rapporten aan het daarvoor aangewezen orgaan van de Verenigde Naties inzake de stappen door de Organisatie of haar leden genomen overeenkomstig dit Statuut als gevolg van bovenbedoelde overweging.

@@ -1,0 +1,4 @@
+# Article XV. Privileges and immunities
+A. The Agency shall enjoy in the territory of each member such legal capacity and such privileges and immunities as are necessary for the exercise of its functions.
+B. Delegates of members together with their alternates and advisers, Governors appointed to the Board together with their alternates and advisers, and the Director General and the staff of the Agency, shall enjoy such privileges and immunities as are necessary in the independent exercise of their functions in connexion with the Agency.
+C. The legal capacity, privileges, and immunities referred to in this article shall be defined in a separate agreement or agreements between the Agency, represented for this purpose by the Director General acting under instructions of the Board of Governors, and the members.

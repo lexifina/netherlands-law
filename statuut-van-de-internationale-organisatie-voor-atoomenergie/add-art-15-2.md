@@ -1,0 +1,4 @@
+# Artikel XV. Voorrechten en immuniteiten
+A. De Organisatie bezit op het grondgebied van elk lid die rechtsbevoegdheid en geniet die voorrechten en immuniteiten welke voor de uitoefening van haar functies nodig zijn.
+B. De afgevaardigden der leden, alsmede hun plaatsvervangers en adviseurs, leden van de Raad van Beheer, alsmede hun plaatsvervangers en adviseurs, de Directeur-Generaal en het personeel van de Organisatie genieten die voorrechten en immuniteiten welke nodig zijn voor de zelfstandige uitoefening van hun functies in verband met de Organisatie.
+C. De in dit artikel bedoelde rechtsbevoegdheid, voorrechten en immuniteiten zullen in een afzonderlijke overeenkomst of overeenkomsten tussen de Organisatie, in deze vertegenwoordigd door de Directeur-Generaal optredend op last van de Raad van Beheer, en de leden, worden omschreven.

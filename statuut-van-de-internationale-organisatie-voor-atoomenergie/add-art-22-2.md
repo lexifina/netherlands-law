@@ -1,0 +1,3 @@
+# Artikel XXII. Registratie bij de Verenigde Naties
+A. Dit Statuut wordt door de depot-Regering geregistreerd krachtens artikel 102 van het Handvest der Verenigde Naties.
+B. Overeenkomsten tussen de Organisatie en een of meer der leden, overeenkomsten tussen de Organisatie en een andere organisatie of andere organisaties, alsmede overeenkomsten tussen leden welke onderworpen zijn aan de goedkeuring van de Organisatie, worden bij de Organisatie geregistreerd. Zulke overeenkomsten worden bij de Verenigde Naties geregistreerd indien registratie krachtens artikel 102 van het Handvest der Verenigde Naties verplicht is.

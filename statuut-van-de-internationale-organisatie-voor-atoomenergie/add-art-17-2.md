@@ -1,0 +1,3 @@
+# Artikel XVII. Regeling van geschillen
+A. Elk vraagpunt of geschil betreffende de interpretatie of toepassing van dit Statuut dat niet door onderhandeling wordt geregeld, wordt verwezen naar het Internationale Gerechtshof overeenkomstig het Statuut van dit Hof, tenzij de betrokken partijen overeenstemming bereiken over een andere wijze van regeling.
+B. De Algemene Conferentie en de Raad van Beheer hebben beiden afzonderlijk de bevoegdheid, behoudens machtiging van de Algemene Vergadering der Verenigde Naties, het Internationale Gerechtshof te verzoeken advies te geven over alle juridische vraagstukken welke zich binnen het kader van de werkzaamheden van de Organisatie kunnen voordoen.

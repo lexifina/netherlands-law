@@ -1,0 +1,2 @@
+# Artikel XXIII. Authentieke teksten en gewaarmerkte afschriften
+Dit Statuut, gedaan in de Chinese, Engelse, Franse, Russische en Spaanse taal, zijnde al deze teksten gelijkelijk authentiek, wordt in het archief van de depot-Regering nedergelegd. Behoorlijk gewaarmerkte afschriften van dit Statuut worden door de depot-Regering aan de Regeringen van de andere ondertekenende Staten, alsmede aan de Regeringen der krachtens lid B van artikel IV tot het lidmaatschap toegelaten Staten, toegezonden.

@@ -1,0 +1,2 @@
+# Article XXIII. Authentic texts and certified copies
+This Statute, done in the Chinese, English, French, Russian and Spanish languages, each being equally authentic, shall be deposited in the archives of the depositary Government. Duly certified copies of this Statute shall be transmitted by the depositary Government to the Governments of the other signatory States and to the Governments of States admitted to membership under paragraph B of article IV.
