@@ -1,0 +1,3 @@
+# Artikel VI
+1. Een Gemengde Commissie, bestaande uit vertegenwoordigers benoemd door de regeringen van enerzijds Aruba en anderzijds de Dominicaanse Republiek, zal zorg dragen voor de naleving van deze Overeenkomst tussen Aruba en de Dominicaanse Republiek, en zal optreden als adviesorgaan voor genoemde regeringen inzake de uitvoering ervan. Deze Commissie kan advies inwinnen bij deskundigen of technici uit het particuliere bedrijfsleven.
+2. Ook kunnen groepen worden gevormd om in specifieke economische sectoren de samenwerking die in het kader van deze Overeenkomst tot stand komt, aan onderzoek te onderwerpen en te bespreken. De bevindingen en aanbevelingen van deze specifieke groepen zullen worden voorgelegd aan de Gemengde Commissie.

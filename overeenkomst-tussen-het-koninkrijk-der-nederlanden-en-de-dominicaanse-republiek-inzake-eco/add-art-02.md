@@ -1,0 +1,2 @@
+# Artikel II
+De onderlinge economische en technologische samenwerking zal zich kunnen afspelen op het gebied van handel en industrie, energie, toerisme, transport en communicatie, landbouw, de dienstensector en elk ander gebied waarover de Overeenkomstsluitende Partijen overeenstemming bereiken, uitgaande van de voordelen voor, en de capaciteiten van enerzijds de Nederlandse Antillen en/of Aruba en anderzijds de Dominicaanse Republiek.

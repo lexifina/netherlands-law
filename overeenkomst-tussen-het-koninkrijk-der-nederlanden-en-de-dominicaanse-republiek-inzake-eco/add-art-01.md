@@ -1,0 +1,3 @@
+# Artikel I
+1. De Overeenkomstsluitende Partijen zullen, met inachtneming van de binnenlandse wetten en voorschriften en onverminderd hun internationale verplichtingen, een op wederzijds voordeel gebaseerde onderlinge economische en technologische samenwerking bevorderen en inhoud geven.
+2. Teneinde de in het vorige lid vermelde doeleinden te bereiken, zullen de Overeenkomstsluitende Partijen, uitgaande van de behoeften en mogelijkheden, met name de totstandkoming van banden tussen bedrijven en organisaties in enerzijds de Nederlandse Antillen en/of Aruba en anderzijds de Domincaanse Republiek, stimuleren.
