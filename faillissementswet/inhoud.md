@@ -21,7 +21,7 @@
 ### afdeeling Eerste. Van de verleening van surséance van betaling en hare gevolgen
 ### afdeeling Tweede. Van het akkoord
 ### Tweede afdeling A. Bijzondere bepalingen
-### Tweede afdeling B. Van de verlening van surséance van betaling aan een kredietinstelling, die niet wordt beschouwd als een kredietinstelling op grond van de Wet toezicht kredietwezen 1992, een financiële instelling, een effecteninstelling of een andere instelling, genoemd in artikel 281g
+### Tweede afdeling B. Van de verlening van surséance van betaling aan een kredietinstelling, die ingevolge artikel 6, tweede of derde lid, is vrijgesteld onderscheidenlijk ontheven van artikel 6, eerste lid, van de Wet toezicht kredietwezen 1992, een kredietinstelling, die ingevolge artikel 31, vierde of vijfde lid, is vrijgesteld onderscheidenlijk ontheven van artikel 31, eerste lid, van de Wet toezicht kredietwezen 1992, een kredietinstelling, die ingevolge artikel 38, derde of vierde lid, is vrijgesteld onderscheidenlijk ontheven van artikel 38, eerste lid, van de Wet toezicht kredietwezen 1992, een financiële instelling, een effecteninstelling of een andere instelling, genoemd in artikel 281g
 ### afdeeling Derde. Slotbepalingen
 ## Titel III. Schuldsaneringsregeling natuurlijke personen
 ### afdeling Eerste. Het uitspreken van de toepassing van de schuldsaneringsregeling

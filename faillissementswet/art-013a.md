@@ -1,0 +1,2 @@
+# Artikel 13a
+Indien de faillietverklaring wordt vernietigd wordt de opzegging van een arbeidsovereenkomst door een curator, in afwijking van artikel 13, eerste lid, met terugwerkende kracht beheerst door de wettelijke of overeengekomen regels die van toepassing zijn buiten faillissement, met dien verstande dat de termijnen, bedoeld in artikel 683 leden 1 en 2 van Boek 7 van het Burgerlijk Wetboek en in artikel 9, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945, aanvangen op het tijdstip waarop het faillissement wordt vernietigd.
