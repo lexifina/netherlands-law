@@ -10,6 +10,8 @@
 #### § 5. Van de rechterlijke beschikkingen
 ### afdeeling Vierde. Van de voorzieningen na de faillietverklaring en van het beheer des curators
 ### afdeeling Vijfde. Van de verificatie der schuldvorderingen
+### Vijfde afdeling A
+#### Vereenvoudigde afwikkeling van faillissement
 ### afdeeling Zesde. Van het akkoord
 ### afdeeling Zevende. Van de vereffening des boedels
 ### afdeeling Achtste. Van den rechtstoestand des schuldenaars na afloop van de vereffening

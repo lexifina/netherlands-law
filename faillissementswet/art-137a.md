@@ -1,0 +1,4 @@
+# Artikel 137a
+1. Indien aannemelijk is dat de beschikbare baten niet voldoende zijn om daaruit de concurrente vorderingen geheel of gedeeltelijk te voldoen, kan de rechter-commissaris op verzoek van de curator dan wel ambtshalve bepalen dat afhandeling van concurrente vorderingen achterwege blijft en dat geen verificatievergadering wordt gehouden.
+2. De curator geeft van de in het eerste lid bedoelde beschikking onmiddellijk aan alle bekende schuldeisers bij brieven kennis en doet daarvan aankondiging in het nieuwsblad of de nieuwsbladen, bedoeld in artikel 14.
+3. Ingeval de in het eerste lid bedoelde beschikking is gegeven, is deze afdeling van toepassing. De vijfde afdeling vindt geen toepassing op concurrente vorderingen. Op niet-concurrente vorderingen zijn de artikelen 128 tot en met 136 van de vijfde afdeling van overeenkomstige toepassing. De zesde en de zevende afdeling vinden geen toepassing, tenzij hierna anders is bepaald.
