@@ -1,0 +1,3 @@
+# Artikel 4a. Zelfstandigheidsverklaring
+1. De beschikking, bedoeld in artikel 3.156 van de Wet inkomstenbelasting 2001, waarin de voordelen, die de belastingplichtige geniet of zal gaan genieten uit een arbeidsrelatie of uit arbeidsrelaties waarin sprake is van hetzelfde soort van werkzaamheden die onder overeenkomstige condities worden verricht, worden aangemerkt als winst uit een onderneming, heeft voor de termijn waarvoor deze beschikking geldt als gevolg dat de belastingplichtige, met betrekking tot die arbeidsrelaties, wordt aangemerkt als zelfstandige als bedoeld in artikel 4.
+2. Indien de beschikking, bedoeld in het eerste lid, wordt herzien, laat dat het in het eerste lid bedoelde gevolg onverlet, voor de termijn waarvoor die beschikking gold.
