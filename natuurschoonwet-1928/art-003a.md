@@ -1,0 +1,4 @@
+# Artikel 3a
+1. Indien de onroerende zaak, bedoeld in artikel 1, vierde lid, na verloop van drie jaren nadat zij als een landgoed is aangemerkt, niet voldoet aan de in artikel 1, derde lid, onderdeel b, bedoelde voorwaarden, dan wel indien zij naar het oordeel van Onze Minister na die termijn niet aan die voorwaarden zal voldoen, beslissen Onze Ministers bij gezamenlijke beschikking dat de onroerende zaak niet langer als een landgoed wordt aangemerkt met ingang van de datum van die beschikking. Onze Minister kan de termijn van drie jaren op grond van bijzondere omstandigheden met maximaal twee jaren verlengen.
+2. Een eigenaar van een onroerende zaak die op de voet van artikel 1, vierde lid, als een landgoed is aangemerkt, kan aan Onze Ministers een verklaring vragen dat aan de in artikel 1, derde lid, onderdeel b, bedoelde voorwaarden is voldaan.
+3. Het eerste en tweede lid vinden overeenkomstige toepassing met betrekking tot een gedeelte van de onroerende zaak.
