@@ -1,2 +1,4 @@
 # Artikel 28b
-De griffier van het gerechtshof zendt het ingekomen beroepschrift, een afschrift van de uitspraak en de op de uitspraak betrekking hebbende gedingstukken die onder hem berusten, onverwijld aan de griffier van de Hoge Raad.
+1. Indien beroep in cassatie is ingesteld tegen een mondelinge uitspraak, wordt de mondelinge uitspraak vervangen door een schriftelijke uitspraak, tenzij het beroep in cassatie kennelijk niet-ontvankelijk is of de Hoge Raad anders bepaalt. De vervanging geschiedt binnen zes weken na de dag waarop de mededeling, bedoeld in artikel 28a, eerste lid, is gedaan. Het beroep in cassatie wordt geacht gericht te zijn tegen de schriftelijke uitspraak.
+2. Het gerecht dat de mondelinge uitspraak heeft gedaan, verzendt de vervangende schriftelijke uitspraak gelijktijdig aan partijen en aan de griffier van de Hoge Raad.
+3. In afwijking van artikel 6:5, eerste lid, onderdeel b, van de Algemene wet bestuursrecht kan de indiener van het beroepschrift de gronden van het beroep verstrekken of aanvullen tot zes weken na de dag waarop de schriftelijke uitspraak aan hem is verzonden.

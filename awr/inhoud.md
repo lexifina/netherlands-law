@@ -5,10 +5,11 @@
 ## Hoofdstuk IV. Heffing van belasting bij wege van voldoening of afdracht op aangifte
 ## Hoofdstuk IVA. Heffing van belasting bij wege van uitnodiging tot betaling
 ## Hoofdstuk V. Bezwaar en beroep
-### Afdeling 1. Algemene bepalingen inzake bezwaar
-### Afdeling 2. Algemene bepalingen inzake beroep
-### Afdeling 3. Beroep in cassatie bij de Hoge Raad
-### Afdeling 4. Bijzondere bepalingen inzake bezwaar en beroep (douane)
+### Afdeling 1. Bezwaar
+### Afdeling 2. Beroep bij de rechtbank
+### Afdeling 3. Hoger beroep bij het gerechtshof
+### Afdeling 4. Beroep in cassatie bij de Hoge Raad
+### Afdeling 5. Bijzondere bepalingen inzake bezwaar en beroep (douane)
 ## Hoofdstuk VA. Heffingsrente en revisierente
 ## Hoofdstuk VI. Bevordering van de richtige heffing
 ## Hoofdstuk VII. Bepalingen van interregionaal en van internationaal recht
