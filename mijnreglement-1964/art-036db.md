@@ -1,0 +1,6 @@
+# Artikel 36db
+1. Indien een mijnbouwinstallatie of een daartoe behorende inrichting als bedoeld in artikel 1, onder b, ten gevolge van beschadiging of anderszins niet meer voldoet aan het bij of krachtens artikel 36d, eerste lid, bepaalde moet zij, tenzij de installatie of inrichting in haar geheel wordt verwijderd, na het zo nodig treffen van voorlopige voorzieningen, zo spoedig mogelijk op doelmatige wijze worden hersteld onderscheidenlijk moeten ten aanzien daarvan doelmatige voorzieningen worden getroffen, een en ander zodanig dat zij weder aan het bij en krachtens genoemd lid bepaalde voldoet.
+2. Werkzaamheden krachtens het eerste lid mogen niet anders geschieden dan overeenkomstig een aan de Inspecteur-Generaal der Mijnen toegezonden doelmatig schriftelijk werkprogramma.
+3. Zodanig programma moet vergezeld gaan van een opgave van naam, voornamen, beroep en woon- of verblijfplaats van de leider der werkzaamheden.
+4. Het werkprogramma moet zo tijdig mogelijk, doch als regel niet later dan 24 uur vóór de aanvang der betrokken werkzaamheden, in het bezit zijn van de Inspecteur-Generaal der Mijnen.
+5. De artikelen 20, derde lid, 21 en 22 zijn van overeenkomstige toepassing.

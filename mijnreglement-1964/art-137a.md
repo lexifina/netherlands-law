@@ -1,0 +1,9 @@
+# Artikel 137a
+1. Van het voornemen om een mijnbouwinstallatie te verwijderen moet tenminste 24 uur voordat met de desbetreffende werkzaamheden wordt aangevangen mededeling worden gedaan:
+a. aan de Inspecteur-Generaal der Mijnen;
+b. indien de mijnbouwinstallatie is geplaatst op of boven de bodem van een oppervlaktewater als in artikel 36a, tweede lid, onder a, bedoeld, aan het Hoofd van de Afdeling Hydrografie van het Ministerie van Defensie.
+2. Van het voornemen om een door Onze Minister aangewezen, niet als een geheel verplaatsbare mijnbouwinstallatie te verwijderen moet bovendien tenminste een bij de aanwijzing te bepalen aantal dagen voordat met de desbetreffende werkzaamheden wordt aangevangen mededeling worden gedaan:
+a. indien de mijnbouwinstallatie is geplaatst op of boven de bodem van een oppervlaktewater als in artikel 36a, tweede lid, onder a, bedoeld, aan de Directeur-Generaal van Loodswezen, Betonning, Bebakening en Verlichting;
+b. indien de mijnbouwinstallatie is geplaatst op of boven de bodem van een oppervlaktewater als in artikel 36a, tweede lid, onder b, bedoeld, aan de Directeur-Generaal van de Rijkswaterstaat.
+3. Bij een mededeling als in het eerste of tweede lid bedoeld moeten worden opgegeven de ligging van de plaats, waar de mijnbouwinstallatie is geplaatst, uitgedrukt in coördinaten volgens het stelsel van de Rijksdriehoeksmeting, en het tijdstip, waarop met de desbetreffende werkzaamheden zal worden aangevangen.
+4. Zodra een mijnbouwinstallatie is verwijderd, moet daarvan onverwijld schriftelijk mededeling worden gedaan aan degene, aan wie ingevolge het eerste en tweede lid mededeling is gedaan. Bij deze mededeling moet worden opgegeven de ligging van de plaats, waar de mijnbouwinstallatie was geplaatst, uitgedrukt in coördinaten volgens het stelsel van de Rijksdriehoeksmeting.

@@ -1,0 +1,6 @@
+# Artikel 36i
+1. Op een mijnbouwinstallatie moeten verblijven en vrije dekruimten, waar personen, al dan niet in verband met hun arbeid, plegen aanwezig te zijn, zomede de doorgangen en andere verbindingen tot het bereiken en verlaten van die plaatsen, te allen tijde, met vermijding van doorgangen door ruimten, waarin machines, ketels, tanks, drukvaten en dergelijke zijn opgesteld, behoorlijk bereikbaar zijn.
+2. Verblijven op een mijnbouwinstallatie, waar personen buiten hun arbeidstijden plegen aanwezig te zijn, mogen niet in rechtstreekse verbinding staan met besloten ruimten, waarin machines, ketels, tanks, drukvaten en dergelijke zijn opgesteld.
+3. Tussen de in het tweede lid bedoelde verblijven en de inschepingsplaats, waar reddingsmiddelen en ander materieel voor het uitvoeren van reddingswerk worden gereed gehouden, moeten voldoende doelmatige verbindingen aanwezig zijn, door middel waarvan de betrokken personen onverwijld op veilige wijze die plaats kunnen bereiken.
+4. Een machinekamer op een mijnbouwinstallatie moet tenminste twee tegenover elkaar gelegen uitgangen met voldoende trap- of ladderverbindingen vanaf de vloer van die machinekamer hebben.
+5. Onze Minister kan van het in het eerste en vierde lid bepaalde ontheffing verlenen.

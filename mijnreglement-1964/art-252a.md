@@ -1,0 +1,3 @@
+# Artikel 252a
+1. Een persoon beneden 21 jaar mag slechts zijn of worden belast met werkzaamheden in de ondergrondse werken, indien de bestuurders van de betrokken mijnonderneming in het bezit zijn van een geneeskundige verklaring, afgegeven bij het laatstgehouden geneeskundige onderzoek, bedoeld in artikel 229, of bij de laatstgehouden geneeskundige controle krachtens een andere regeling als in artikel 229, zesde lid, bedoeld, waaruit blijkt, dat hij geschikt is voor het verrichten van zodanige werkzaamheden.
+2. In geval een geneeskundige verklaring als in het eerste lid bedoeld niet wordt afgegeven, wordt de onderzochte persoon en de Inspecteur-Generaal der Mijnen daarvan mededeling gedaan. In zodanig geval is artikel 248a, derde lid, van overeenkomstige toepassing.
