@@ -1,0 +1,2 @@
+# Artikel 114a
+Indien een misdrijf, strafbaar gesteld in artikel 108, eerste lid, 109 of 110, is begaan met een terroristisch oogmerk, wordt de in dat artikel bepaalde tijdelijke gevangenisstraf met de helft verhoogd en wordt, indien op het misdrijf een tijdelijke gevangenisstraf van ten hoogste vijftien jaren is gesteld, levenslange gevangenisstraf of tijdelijke van ten hoogste twintig jaren opgelegd.
