@@ -1,0 +1,2 @@
+# Artikel XIII
+Elke Overeenkomstsluitende Staat kan, ten tijde van de ondertekening, of van de nederlegging van zijn akte van bekrachtiging of aanvaarding, of te eniger tijd nadien, door een kennisgeving aan de Secretaris-Generaal der Verenigde Naties verklaren, dat deze Overeenkoms mede van toepassing zal zijn op alle of enige van de gebieden voor welker buitenlandse betrekkingen bij verantwoordelijk is.

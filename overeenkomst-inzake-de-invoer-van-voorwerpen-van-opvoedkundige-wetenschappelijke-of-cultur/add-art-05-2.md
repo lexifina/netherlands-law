@@ -1,0 +1,2 @@
+# Artikel V
+Geen bepaling der onderhavige Overeenkomst maakt inbreuk op het recht der Overeenkomstsluitende Staten om in overeenstemming met hun nationale wetgeving maatregelen te treffen met het doel de invoer, of het verkeer na invoer, te verbieden of te beperken van bepaalde voorwerpen, wanneer deze maatregelen hun grond vinden in beweegredenen welke onmiddellijk verband houden met de nationale veiligheid, de openbare orde of goede zeden van de Overeenkomstsluitende Staat.

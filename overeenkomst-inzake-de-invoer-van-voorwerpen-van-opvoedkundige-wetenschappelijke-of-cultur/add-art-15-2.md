@@ -1,0 +1,2 @@
+# Artikel XV
+De Secretaris-Generaal der Verenigde Naties zal de Staten, bedoeld in het eerste lid van artikel IX alsmede de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur en de Internationale Handelsorganisatie (voorlopig haar Interim-Commissie) verwittigen van de nederlegging van alle akten van bekrachtiging en aanvaarding vermeld in de artikelen IX en X, alsmede van de kennisgevingen en opzeggingen, vermeld in de artikelen XIII en XIV.

@@ -1,0 +1,2 @@
+# Article XV
+The Secretary-General of the United Nations shall inform the States referred to in paragraph 1 of article IX, as well as the United Nations Educational, Scientific and Cultural Organisation, and the International Trade Organisation (provisionally, its Interim Commission), of the deposit of all the instruments of ratification and acceptance provided for in articles IX and X, as well as of the notifications and denunciations provided for respectively in articles XIII and XIV.

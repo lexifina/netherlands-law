@@ -1,0 +1,4 @@
+# Artikel IX
+1. Deze Overeenkomst, waarvan de Engelse en de Franse tekst gelijkelijk authentiek zijn, zal de dagtekening van heden dragen en zal openstaan ter ondertekening door alle Staten, welke Lid zijn van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur, alle Staten welke Lid zijn van de Verenigde Naties en alle Staten, welke geen Lid zijn en tot welke een daartoe strekkende uitnodiging is gericht door de Uitvoerende Raad van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur.
+2. Deze Overeenkomst zal worden bekrachtigd door de Staten, welke de Overeenkomst ondertekenen, in overeenstemming met hun onderscheidene grondwettelijke voorschriften.
+3. De akten van bekrachtiging zullen worden nedergelegd bij de Secretaris-Generaal der Verenigde Naties.
