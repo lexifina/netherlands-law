@@ -1,0 +1,3 @@
+# Artikel XVIII
+1. Bevoegd inzake verzoeken om ontheffing op grond van artikel 29 van de Pensioen- en spaarfondsenwet, die vòòr de datum van inwerkingtreding van deze wet zijn ingediend, is de Verzekeringskamer indien die beslissing niet vòòr die datum is genomen.
+2. Bij administratiefrechtelijke procedures op of na de datum van inwerkingtreding van deze wet dienen besluiten inzake verzoeken om ontheffing op grond van artikel 29 van de Pensioen- en spaarfondsenwet, die Onze Minister vòòr die datum heeft getroffen, als besluiten te worden aangemerkt die zijn getroffen door de Verzekeringskamer.
