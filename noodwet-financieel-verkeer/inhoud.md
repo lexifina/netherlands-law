@@ -8,6 +8,7 @@
 ## Hoofdstuk VII. Giraal betalingsverkeer
 ## Hoofdstuk VIII. Bepalingen inzake de bank
 ## Hoofdstuk IX. Moratorium levensverzekeringsondernemingen, pensioen- en spaarfondsen en beleggingsinstellingen
+## Hoofdstuk IXA. Korting op dekking terrorismerisico door verzekeringsondernemingen
 ## Hoofdstuk X. Dekking oorlogsrisico door levensverzekeringsondernemingen, pensioen- en spaarfondsen
 ## Hoofdstuk Xa. Bepalingen inzake de effectenbeurzen
 ## Hoofdstuk XI. Betaling schadeloosstellingen

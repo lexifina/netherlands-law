@@ -1,0 +1,5 @@
+# Artikel 18b
+[Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.]
+1. Onze Minister is bevoegd te bepalen dat verzekeringsondernemingen die ingevolge door hen gesloten overeenkomsten van levensverzekering, overeenkomsten van schadeverzekering of overeenkomsten van natura-uitvaartverzekering uitkeringen zullen verrichten naar aanleiding van een of meer terroristische handelingen, door hem vast te stellen kortingen toepassen, dan wel niet gehouden zijn tot uitkeringen die een door hem te bepalen bedrag voor alle verzekeringsondernemingen gezamenlijk overschrijden.
+2. Onder de in het eerste lid bedoelde uitkeringen krachtens overeenkomsten van levensverzekering, overeenkomsten van schadeverzekering of overeenkomsten van natura-uitvaartverzekering zijn niet begrepen uitkeringen krachtens overeenkomsten van herverzekering.
+3. Onze Minister is bevoegd de in het eerste lid bedoelde kortingen en beperkingen van uitkeringen te herzien.
