@@ -1,0 +1,2 @@
+# Article 1er
+Les travailleurs salariés ou assimilés occupés dans les postes diplomatiques ou consulaires néerlandais sur le territoire de la République Française, qui possèdent la nationalité néerlandaise et qui ne sont pas fixés définitivement en France, demeurent soumis à la législation néerlandaise de sécurité sociale, même si leur occupation sur le territoire de ce pays est susceptible de se prolonger au-delà de six mois.
