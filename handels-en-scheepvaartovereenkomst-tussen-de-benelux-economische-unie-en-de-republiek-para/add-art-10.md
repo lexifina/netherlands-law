@@ -1,0 +1,2 @@
+# Artikel X
+Met betrekking tot de inschrijving, verlenging, duur of geldigheid, vernieuwing, overdracht en wettelijke bescherming van patenten, fabrieks- en handelsmerken en handelsnamen zal elke Regering der Overeenkomstsluitende Partijen aan de onderdanen van de andere Partij en aan de op haar grondgebied gevestigde ondernemingen, een behandeling verlenen gelijk aan die welke haar eigen onderdanen genieten.

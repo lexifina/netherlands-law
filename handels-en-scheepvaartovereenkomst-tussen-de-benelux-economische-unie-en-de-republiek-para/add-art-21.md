@@ -1,0 +1,6 @@
+# Artikel XXI
+Deze Overeenkomst treedt in werking op de dag van nederlegging van de laatste akte van bekrachtiging.
+Zij is geldig voor de duur van een jaar te rekenen van de datum af, dat zij in werking is getreden en zal worden beschouwd als stilzwijgend van jaar tot jaar te zijn verlengd, tenzij een der Overeenkomstsluitende Partijen haar uiterlijk drie maanden vóór de afloop van de geldigheidsperiode schriftelijk opzegt.
+De opzegging van de Overeenkomst door de Regering van de Republiek Paraguay dient gelijktijdig aan de Nederlandse en Belgische Regeringen te worden medegedeeld. De opzegging van de Overeenkomst zijdens de Benelux Economische Unie dient gelijktijdig door de Nederlandse en Belgische Regeringen aan de Regering van de Republiek Paraguay te worden medegedeeld.
+Met inachtneming van de termijnen genoemd in lid twee van dit artikel zal de Regering van het Koninkrijk der Nederlanden de toepassing van deze Overeenkomst op Suriname of de Nederlandse Antillen afzonderlijk kunnen beëindigen.
+De opzegging en het buiten werking treden van deze Overeenkomst beïnvloeden niet de geldigheid van verstrekte in- en uitvoervergunningen, noch de normale afwikkeling van kapitaalgoederenleveranties gedurende de voor vervaardiging, levering en betaling benodigde termijnen.

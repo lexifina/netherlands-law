@@ -1,0 +1,2 @@
+# Artikel XVI
+Elk geschil tussen de Regering van de Republiek Paraguay en een der Regeringen van de Beneluxlanden met betrekking tot de uitlegging of de toepassing van deze Overeenkomst, waarvoor langs diplomatieke weg geen bevredigende oplossing zou worden gevonden, zal, op verzoek van een der Partijen bij het geschil, ter beoordeling worden voorgelegd aan het Internationale Gerechtshof, tenzij de betrokken Regeringen overeenkomen het geschil op enige andere vreedzame wijze op te lossen.
