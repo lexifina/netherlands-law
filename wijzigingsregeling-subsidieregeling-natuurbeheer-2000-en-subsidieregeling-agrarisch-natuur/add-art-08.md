@@ -1,0 +1,2 @@
+# Artikel VIII
+De begrenzing van een landschapsgebiedsplan als bedoeld in artikel 12 van de Subsidieregeling agrarisch natuurbeheer zoals dat op 1 oktober 2004 luidt, blijft van kracht zolang en voorzover dit plan niet is vervangen door een beheersgebiedsplan als bedoeld in artikel 10 van de Subsidieregeling agrarisch natuurbeheer of een natuurgebiedsplan als bedoeld in artikel 13 van de Subsidieregeling natuurbeheer 2000.

@@ -1,0 +1,3 @@
+# Artikel IX
+1. In afwijking van artikel 20a van de Subsidieregeling agrarisch natuurbeheer kunnen beheerders, die bij inwerkingtreding van deze regeling een subsidie ontvangen op grond van een van de regelingen genoemd in artikel 29, onderdeel d, subonderdeel 1 tot en met 4, van de Subsidieregeling agrarisch natuurbeheer tot 1 januari 2007 voor een terrein gelegen in een natuurgebied subsidie aanvragen voor de beheerspakketten opgenomen in de bijlagen 6 tot en met 28a.
+2. In afwijking van het eerste lid kunnen voor het begrotingsjaar 2004 ook andere dan in het eerste lid bedoelde beheerders voor een tijdvak een aanvraag indienen voor een terrein gelegen in een natuurgebied voor beheerspakketten opgenomen in de bijlagen 6 tot en met 28a.

@@ -1,0 +1,3 @@
+# Artikel IV
+1. Beheerders, die voor de inwerkingtreding van deze regeling een beschikking tot subsidieverlening hebben ontvangen met betrekking tot een bedrag als bedoeld in artikel 30 van de Subsidieregeling natuurbeheer 2000, zoals dat luidde voor inwerkingtreding van deze regeling, behouden het recht op dit bedrag.
+2. In afwijking van het eerste lid ontvangen beheerders geen bedrag als bedoeld in het eerste lid indien zij met betrekking tot hetzelfde terrein tevens een bijdrage ontvangen voor een recreatiepakket als bedoeld in bijlage 58 of 59, zoals die bijlage luidde voor inwerkingtreding van deze regeling.

@@ -1,0 +1,2 @@
+# Artikel V
+Beheerders, die voor de inwerkingtreding van deze regeling een beschikking tot subsidieverlening hebben ontvangen met betrekking tot de bijdrage voor begrensde waardevolle bosgemeenschappen als bedoeld in bijlage 38, laatste alinea, van de Subsidieregeling natuurbeheer 2000, zoals deze alinea luidde voor inwerkingtreding van deze regeling, behouden het recht op deze bijdrage tot het eind van het tijdvak.
