@@ -1,0 +1,2 @@
+# Enig artikel
+De vergoeding van de representatiekosten, verbonden aan de vervulling van het ambt van Gouverneur, waarop de Gouverneur van de Nederlandse Antillen, onderscheidenlijk de Gouverneur van Aruba, gedurende de uitoefening van zijn ambt ten hoogste aanspraak heeft, wordt ingaande het jaar 1995 verhoogd tot f 85.000 Nederlands-Antilliaans courant, respectievelijk f 75.000 Arubaans courant, per jaar.
