@@ -1,0 +1,2 @@
+# I. Reikwijdte
+Dit besluit is van toepassing op de invordering van bestuurlijke boeten die zijn opgelegd op grond van artikel 66 Wet bescherming persoonsgegevens en op de invordering van verbeurde dwangsommen die zijn opgelegd op grond van artikel 61 lid 4 en 65 Wet bescherming persoonsgegevens jo. artikel 5:32 Algemene wet bestuursrecht, artikel 27 Wet politieregisters, artikel 120 Wet gemeentelijke basisadministratie en artikel 27 Wet justitiële en strafvorderlijke gegevens, zoals deze wet komt te luiden.
