@@ -1,0 +1,2 @@
+# Article VIII
+This Agreement is drawn up in English, French, Russian and Spanish, all four texts being equally authentic.
