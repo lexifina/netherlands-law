@@ -1,0 +1,3 @@
+# Artikel VII
+1. Hetgeen is voldaan ter verkrijging van een stamrecht en heeft geleid tot een afneming als bedoeld in artikel 44f, eerste lid, onderdeel c, van de Wet op de inkomstenbelasting 1964, zoals dat artikel luidde op 31 december 1991, komt voor de toepassing van die wet niet in aanmerking als persoonlijke verplichtingen.
+2. Verzekeringen welke zijn gesloten na 31 december 1991 doch voor 1 juli 1992 en die niet aanstonds voldoen aan de voorwaarden welke zijn gesteld in de Wet op de inkomstenbelasting 1964, worden geacht vanaf de aanvang van de verzekering aan die voorwaarden te voldoen indien de verzekeringsovereenkomst voor 1 juli 1992, voor zover nodig met terugwerkende kracht tot het aangaan van de overeenkomst, alsnog aan die voorwaarden voldoet.
