@@ -1,0 +1,3 @@
+# Artikel 73a
+1. In afwijking van de artikelen 72 en 73 kan een bevoegdheid die de wet toekent, niet meer worden uitgeoefend, indien de daarvoor bij de wet gestelde termijn reeds op het tijdstip van haar in werking treden is verstreken en een bevoegdheid van gelijke aard onder het tevoren geldende recht niet bestond.
+2. Was de termijn waarbinnen volgens het tevoren geldende recht een recht of bevoegdheid moest zijn uitgeoefend, reeds verstreken op het in lid 1 bedoelde tijdstip, dan brengt de wet die een recht of bevoegdheid van gelijke aard toekent, in het rechtsgevolg van de verjaring of het verval geen verandering.
