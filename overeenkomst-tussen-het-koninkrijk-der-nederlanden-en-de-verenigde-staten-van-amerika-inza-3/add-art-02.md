@@ -1,0 +1,3 @@
+# Article II. Applicability
+1. This agreement applies to provision of logistic support, supplies, and services to the military forces of one Party by the military forces of the other Party.
+2. The parties understand that this Agreement will not be employed in a manner to serve as a routine and normal source for logistic support, supplies and services: (a) reasonably available from United States or Netherlands commercial sources unless permitted by the country whose commercial services are involved; or (b) acquirable from the United States through Foreign Military Sales procedures under the current Arms Export Control Act.

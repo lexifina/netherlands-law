@@ -1,0 +1,3 @@
+# Article V. Interpretation and revision
+1. The parties agree to make a good faith effort to resolve disagreements between them with respect to the interpretation or application of this Agreement. In the case of an implementing arrangement or transaction, the parties to the arrangement(s) or transaction(s) will make a good faith effort to resolve any disagreements with respect to interpretation or application of the arrangement or transaction. Resolution will be by negotiation, and will not be referred to an international tribunal or third party for settlement.
+2. Either party may, at any time, request revision of this Agreement. In the event such a request is made, the two parties shall promptly enter into negotiations.
