@@ -1,0 +1,2 @@
+# Artikel V
+Dit besluit treedt in werking op het tijdstip waarop de wet van 28 oktober 1999, houdende wijziging van de Postwet en enige andere wetten in verband met richtlijn nr. 97.67/EG van het Europees Parlement en de Raad van de Europese Unie van 15 december 1997 betreffende gemeenschappelijke regels voor de ontwikkeling van de interne markt voor postdiensten in de gemeenschap en de verbetering van de kwaliteit van de dienst (PbEG 1998, L 15), en een aantal wetstechnische wijzigingen, alsmede het Postbesluit in werking treden.
