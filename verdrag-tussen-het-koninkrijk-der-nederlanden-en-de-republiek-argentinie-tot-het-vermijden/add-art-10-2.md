@@ -1,0 +1,2 @@
+# Article X. ad Articles 14 and 24
+It is understood that, for purposes of Articles 14 and 24, the term "shares" includes "jouissance" shares or "jouissance" rights, mining shares, founders' shares or other rights not being debt-claims, participating in profits, as well as other corporate rights the income of which is subjected to the same taxation treatment as income from shares by the laws of the Contracting State of which the company making the distribution is a resident.

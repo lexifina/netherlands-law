@@ -1,0 +1,3 @@
+# V. Ad artikelen 7, 10, 11, 12, 13, 14 en 15
+a. Indien aan de bron belasting is geheven die het belastingbedrag dat ingevolge de bepalingen van artikel 7, 10, 11, 12, 13, 14 en 15 mag worden geheven te boven gaat, moeten verzoeken om teruggaaf van het daarboven uitgaande belastingbedrag worden ingediend bij de bevoegde autoriteit van de Staat die de belasting heeft geheven, binnen een tijdvak van drie jaar na afloop van het kalenderjaar waarin de belasting is geheven;
+b. De bevoegde autoriteiten van de Verdragsluitende Staten kunnen in onderlinge overeenstemming de wijze van toepassing regelen van artikel 7, 11, 14 en 15.

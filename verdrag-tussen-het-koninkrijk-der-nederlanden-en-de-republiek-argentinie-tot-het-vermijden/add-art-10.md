@@ -1,0 +1,2 @@
+# X. Ad artikelen 14 en 24
+Het is wel te verstaan dat het begrip „aandelen" voor de toepassing van de artikelen 14 en 24 omvat winstaandelen of winstbewijzen, mijnaandelen, oprichtersaandelen of andere rechten, met uitzondering van schuldvorderingen, die aanspraak geven op een aandeel in de winst, alsmede andere vennootschappelijke rechten waarvan de inkomsten door de wetgeving van de Staat waarvan het lichaam dat de uitdeling doet inwoner is, op dezelfde wijze aan de belastingheffing worden onderworpen als inkomsten uit aandelen.
