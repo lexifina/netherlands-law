@@ -1,0 +1,2 @@
+# Artikel XII. Beslechting van geschillen
+Alle geschillen tussen de Partijen met betrekking tot de uitlegging of toepassing van deze Overeenkomst worden door onderhandelingen tussen hen geregeld zonder beroep op enig rechterlijk orgaan buiten de NAVO. Geschillen, die niet door rechtstreekse onderhandelingen kunnen worden opgelost, worden, behoudens voor zover in het Verdrag of in het Protocol het tegendeel wordt bepaald, verwezen naar de Noordatlantische Raad.

@@ -1,0 +1,2 @@
+# Artikel IV. Bevoegdheid tot het verrichten van rechtshandelingen
+De in artikel 10 van het Protocol aan SHAPE toegekende bevoegdheid tot het verrichten van rechtshandelingen wordt, wat betreft hetzij SHAPE zelf, hetzij elk Geallieerd Hoofdkwartier binnen het Europese grondgebied van het Koninkrijk der Nederlanden, uitgeoefend door SACEUR of door een ondergeschikte gezagsdrager, die door hem is aangewezen om in zijn naam en namens hem te handelen.
