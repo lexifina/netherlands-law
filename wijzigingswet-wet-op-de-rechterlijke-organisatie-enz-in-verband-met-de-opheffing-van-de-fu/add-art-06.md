@@ -1,0 +1,4 @@
+# Artikel VI
+1. De verkeersschouten worden van rechtswege benoemd tot substituut-officier van justitie met een beperkte bevoegdheid als bedoeld in het tweede lid. Zij worden als zodanig niet beëdigd en geïnstalleerd. Artikel 59b van de Wet op de rechterlijke organisatie is niet van toepassing.
+2. In afwijking van artikel 4 in samenhang met de artikelen 3, eerste lid, en 59c, van de Wet op de rechterlijke organisatie, kunnen de in het eerste lid bedoelde substituut-officieren van justitie de bevoegdheden die de wet aan de officier van justitie toekent uitsluitend uitoefenen in bij algemene maatregel van bestuur aan te wijzen zaken.
+3. De inpassing in salariscategorie 10 van de Wet rechtspositie rechterlijke ambtenaren geschiedt op het salarisbedrag dat de verkeersschout onmiddellijk voorafgaand aan de inwerkingtreding van deze wet genoot.
