@@ -1,0 +1,2 @@
+# Artikel II
+In afwijking van artikel 25, aanhef en onder c, van de Wet individuele huursubsidie vervangt Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer het eerste bedrag, genoemd in artikel 7, derde lid, van deze wet met ingang van 1 juli 1991 voor de periode van 1 juli 1991 tot 1 juli 1992 door een bedrag, gelijk aan het te vervangen bedrag, eerst verminderd met f 780,-, vervolgens verhoogd met 4½ procent, daarna verhoogd met f 780,- en tenslotte afgerond op het naast hogere veelvoud van f 5,-.
