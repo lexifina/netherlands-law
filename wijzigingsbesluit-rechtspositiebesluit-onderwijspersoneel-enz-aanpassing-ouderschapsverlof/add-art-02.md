@@ -1,0 +1,2 @@
+# Artikel II
+Artikel I-C39 van het Rechtspositiebesluit onderwijspersoneel zoals dat door dit besluit komt te luiden, is van toepassing op een betrokkene aan wie ouderschapsverlof werd toegekend op grond van Artikel I-C39 van het Rechtspositiebesluit onderwijspersoneel zoals dat voor de inwerkingtreding van dit besluit luidde, voor het meerdere van de aanspraken die door eerstbedoeld artikel I-C39 ontstaan, mits wordt voldaan aan alle voorwaarden die ter zake van het recht op verlof in eerstbedoeld artikel I-C39 worden gesteld.
