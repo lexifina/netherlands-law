@@ -1,0 +1,2 @@
+# ARTIKEL II
+Ten aanzien van degene die op het tijdstip van inwerkingtreding van deze wet reeds zijn telecommunicatie-infrastructuur heeft gekoppeld met of bijzondere toegang heeft verkregen tot het vaste spraaktelefoonnet van de houder van de concessie blijft artikel 4ab buiten toepassing gedurende 4 weken na het tijdstip van inwerkingtreding van deze wet, en indien binnen die termijn een aanvraag tot registratie is ingediend, ook nadien, tot zes weken na de datum van de beschikking waarbij op de aanvraag is beslist.
