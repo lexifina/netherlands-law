@@ -1,0 +1,15 @@
+# Artikel 126s
+1. In een geval als bedoeld in artikel 126o, eerste lid, kan de officier van justitie, indien het onderzoek dit dringend vordert, bevelen dat een opsporingsambtenaar als bedoeld in artikel 141, onderdeel b, met een technisch hulpmiddel vertrouwelijke communicatie opneemt waaraan een persoon deelneemt ten aanzien van wie uit feiten of omstandigheden een redelijk vermoeden voortvloeit dat deze betrokken is bij het in het georganiseerd verband beramen of plegen van misdrijven.
+2. De officier van justitie kan in het belang van het onderzoek bepalen dat ter uitvoering van het bevel een besloten plaats, niet zijnde een woning, wordt betreden zonder toestemming van de rechthebbende. Hij kan bepalen dat ter uitvoering van het bevel een woning zonder toestemming van de rechthebbende wordt betreden, indien het onderzoek dit dringend vordert en in het georganiseerd verband misdrijven worden beraamd of gepleegd waarop naar de wettelijke omschrijving een gevangenisstraf van zes jaren of meer is gesteld. Artikel 2, eerste lid, laatste volzin van de Algemene wet op het binnentreden is niet van toepassing.
+3. Het bevel tot het opnemen van vertrouwelijke communicatie is schriftelijk en vermeldt:
+a. een omschrijving van het georganiseerd verband;
+b. de feiten of omstandigheden waaruit blijkt dat de voorwaarden, bedoeld in het eerste lid en, in geval van toepassing van de tweede volzin van het tweede lid, de voorwaarden bedoeld in het tweede lid, zijn vervuld;
+c. de persoon, bedoeld in het eerste lid en, indien bekend, andere deelnemers aan de communicatie;
+d. bij toepassing van het tweede lid, de plaats die zal worden betreden;
+e. de wijze waarop aan het bevel uitvoering zal worden gegeven, en
+f. de geldigheidsduur van het bevel.
+4. Het bevel kan slechts worden gegeven na schriftelijke machtiging, op vordering van de officier van justitie te verlenen door de rechter-commissaris. De machtiging betreft alle onderdelen van het bevel. Indien ter uitvoering van het bevel een woning mag worden betreden, wordt dat uitdrukkelijk in de machtiging vermeld.
+5. Het bevel wordt gegeven voor een periode van ten hoogste vier weken. De geldigheidsduur kan telkens voor een termijn van ten hoogste vier weken worden verlengd.
+6. Artikel 126g, zesde tot en met achtste lid, is van overeenkomstige toepassing, met dien verstande dat de officier van justitie voor wijziging, aanvulling of verlenging een machtiging van de rechter-commissaris behoeft. Indien de officier van justitie bepaalt dat ter uitvoering van het bevel een woning wordt betreden, kan het bevel niet mondeling worden gegeven. Zodra niet meer wordt voldaan aan de voorwaarden, bedoeld in de tweede volzin van het tweede lid, bepaalt de officier van justitie dat de uitvoering van het bevel wordt beëindigd.
+7. Bij dringende noodzaak kan de machtiging van de rechter-commissaris, bedoeld in het vierde en zesde lid, mondeling worden gegeven, tenzij toepassing wordt gegeven aan de tweede volzin van het tweede lid. De rechter-commissaris stelt in dat geval de machtiging binnen drie dagen op schrift.
+8. Van het opnemen wordt binnen drie dagen proces-verbaal opgemaakt.

@@ -1,0 +1,7 @@
+# Artikel 226a
+1. De rechter-commissaris beveelt hetzij ambtshalve, hetzij op de vordering van de officier van justitie of op het verzoek van de verdachte of van de getuige, dat ter gelegenheid van het verhoor van die getuige diens identiteit verborgen wordt gehouden, indien:
+a. de getuige of een andere persoon, met het oog op de door de getuige af te leggen verklaring, zich zodanig bedreigd kan achten dat, naar redelijkerwijze moet worden aangenomen, voor het leven, de gezondheid of de veiligheid dan wel de ontwrichting van het gezinsleven of het sociaal-economisch bestaan van die getuige of die andere persoon moet worden gevreesd, en
+b. de getuige te kennen heeft gegeven wegens deze bedreiging geen verklaring te willen afleggen.
+In het andere geval wijst hij de vordering of het verzoek af.
+2. De officier van justitie, de verdachte, en de getuige worden in de gelegenheid gesteld daaromtrent te worden gehoord.
+3. De rechter-commissaris gaat niet over tot het verhoor van de getuige, zolang tegen zijn beschikking nog hoger beroep openstaat en, zo dit is ingesteld, totdat het is ingetrokken of daarop is beslist, tenzij het belang van het onderzoek geen uitstel van het verhoor gedoogt. In dat geval houdt de rechter-commissaris het proces-verbaal van verhoor van de getuige onder zich totdat op het hoger beroep is beslist.

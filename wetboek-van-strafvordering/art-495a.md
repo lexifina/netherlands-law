@@ -1,0 +1,4 @@
+# Artikel 495a
+1. De verdachte is verplicht in persoon te verschijnen. Bij de dagvaarding wordt hem kennis gegeven dat, indien hij niet aan deze verplichting voldoet, het gerecht zijn medebrenging kan gelasten.
+2. Indien de van misdrijf verdachte in gebreke blijft op de terechtzitting te verschijnen, stelt het gerecht, tenzij aanstonds van nietigheid van de dagvaarding, niet-ontvankelijkheid van het openbaar ministerie of onbevoegdheid van het gerecht blijkt, het onderzoek tot een bepaalde dag uit en beveelt het tevens de medebrenging van de verdachte. Het gerecht kan echter indien van de verdachte geen woon- of verblijfplaats bekend is of op grond van bijzondere omstandigheden het geven van een bevel tot medebrenging achterwege laten.
+3. Tegen de verdachte die in gebreke blijft op de terechtzitting te verschijnen, wordt tenzij het gerecht de medebrenging tegen een nader tijdstip gelast, verstek verleend. Het onderzoek wordt daarna voortgezet.

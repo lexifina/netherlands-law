@@ -1,0 +1,4 @@
+# Artikel 36a
+1. De verdachte, jegens wie door of vanwege de Staat een handeling is verricht waaraan hij in redelijkheid de verwachting kan ontlenen dat tegen hem ter zake van een bepaald feit in Nederland een vervolging zal worden ingesteld, kan de rechter-commissaris binnen wiens rechtsgebied de handeling is verricht, verzoeken dienaangaande enig onderzoek in te stellen.
+2. Indien ter zake van een bepaald feit de vervolging is aangevangen doch geen gerechtelijk vooronderzoek is ingesteld, kan de verdachte, zolang het onderzoek op de terechtzitting nog niet is aangevangen, een verzoek bedoeld in het eerste lid indienen bij de rechter-commissaris binnen wiens rechtsgebied het feit wordt vervolgd.
+3. Het verzoek wordt schriftelijk gedaan. Het behelst een opgave van het feit en van de handelingen van onderzoek die door de rechter-commissaris dienen te worden verricht, en is met redenen omkleed.

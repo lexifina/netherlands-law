@@ -1,0 +1,2 @@
+# Artikel 219a
+De getuige die uit hoofde van zijn ambt of beroep betrokken is bij het verhoor van een bedreigde getuige of een verhoor waarbij artikel 187d is toegepast, dan wel een daaraan voorafgaand verhoor, kan zich verschonen van het beantwoorden van een hem gestelde vraag, voor zover zulks ter bescherming van de in artikel 187d, eerste lid, of artikel 226a, eerste lid, genoemde belangen noodzakelijk is.

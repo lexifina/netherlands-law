@@ -1,0 +1,3 @@
+# Artikel 559a
+1. De opschorting gaat in, zodra het openbaar ministerie dat met de tenuitvoerlegging van de rechterlijke beslissing is belast, kennis heeft gekregen van de indiening van het verzoekschrift om gratie. De opschorting duurt totdat op het verzoekschrift is beschikt.
+2. Wanneer een verzoekschrift om gratie van een vrijheidsstraf, van de maatregel van terbeschikkingstelling met verpleging van overheidswege of van de maatregel van plaatsing in een inrichting voor de opvang van verslaafden is ingediend, zonder dat de wet daaraan de opschorting van de tenuitvoerlegging verbindt, kan Onze Minister van Justitie niettemin bepalen dat de tenuitvoerlegging wordt of blijft opgeschort of wel dat zij wordt of blijft geschorst, zolang op het verzoek niet is beschikt.

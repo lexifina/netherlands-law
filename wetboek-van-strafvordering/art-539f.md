@@ -1,0 +1,6 @@
+# Artikel 539f
+1. De commandant, de schipper of de gezagvoerder van een luchtvaartuig maakt, indien hij een van de bevoegdheden, in de artikelen 539a of 539c of in de tweede afdeling van deze Titel toegekend, uitoefent, persoonlijk ten spoedigste proces-verbaal op van zijn verrichtingen en bevindingen.
+2. De officier, de scheepsofficier of het lid van de bemanning van een luchtvaartuig handelt ingeval van toepassing van artikel 539e overeenkomstig het eerste lid.
+3. Wanneer de schipper of een scheepsofficier dan wel de gezagvoerder van een luchtvaartuig of een lid van de bemanning de verdachte of getuigen verhoort, zijn daarbij zo mogelijk twee opvarenden of inzittenden aanwezig, die het proces-verbaal van verhoor mede ondertekenen.
+4. Het proces-verbaal wordt gedagtekend en ondertekend door de verbalisant. Hij vermeldt zoveel mogelijk uitdrukkelijk zijn redenen van wetenschap. Het proces-verbaal van de officier, de scheepsofficier of het lid van de bemanning van een luchtvaartuig wordt mede ondertekend door de commandant, onderscheidenlijk de schipper en de gezagvoerder van het luchtvaartuig.
+5. Het proces-verbaal wordt door de commandant, de schipper of de gezagvoerder van het luchtvaartuig ten spoedigste toegezonden aan de officier van justitie, tenzij deze anders beslist.

@@ -1,0 +1,4 @@
+# Artikel 451b
+1. De getuige stelt het hoger beroep als bedoeld in artikel 226b, tweede lid, in door middel van een schriftelijke verklaring die hij doet toekomen aan de officier van justitie. De officier van justitie tekent dag en uur van ontvangst onverwijld op de ingekomen verklaring aan.
+2. De officier van justitie doet onverwijld schriftelijk mededeling van het hoger beroep aan de griffie van het gerecht, bij hetwelk de beschikking is gegeven. De mededeling wordt na ontvangst op de griffie bij de processtukken gevoegd. Van de instelling van het hoger beroep wordt dadelijk aantekening gedaan in het op de griffie berustend register, bedoeld in artikel 451, vijfde lid.
+3. Als dag van het hoger beroep geldt de dag van ontvangst van de schriftelijke verklaring door de officier van justitie.

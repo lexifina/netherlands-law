@@ -1,0 +1,4 @@
+# Artikel 539a
+1. De bevoegdheden, bij enige wetsbepaling toegekend in verband met de opsporing van strafbare feiten of in verband met het onderzoek daarnaar, anders dan ter terechtzitting, kunnen, voorzover in deze Titel niet anders is bepaald, buiten het rechtsgebied van een rechtbank worden uitgeoefend.
+2. De bepalingen van de eerste en tweede afdeling van deze Titel zijn slechts van toepassing ten aanzien van de opsporing en het onderzoek buiten het rechtsgebied van een rechtbank. Voorzover zij betrekking hebben op een aangehouden persoon of een inbeslaggenomen voorwerp blijven zij, ook binnen het rechtsgebied van een rechtbank, van toepassing, totdat de aangehoudene of het voorwerp is overgeleverd aan de officier van justitie of een zijner hulpofficieren.
+3. De bevoegdheden, in de bepalingen van deze Titel toegekend, kunnen slechts worden uitgeoefend, voorzover het volkenrecht en het interregionale recht dit toelaten.

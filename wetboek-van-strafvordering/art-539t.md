@@ -1,0 +1,2 @@
+# Artikel 539t
+De gezagvoerder van een luchtvaartuig kan op de voet van artikel 9, eerste lid, van het Verdrag inzake strafbare feiten en bepaalde andere handelingen begaan aan boord van luchtvaartuigen (Trb. 1964, 115) aan de bevoegde autoriteiten van een vreemde staat overdragen iedere inzittende van het luchtvaartuig, van wie hij redelijkerwijs mag aannemen, dat deze aan boord een misdrijf heeft begaan, waarop naar de wettelijke omschrijving een gevangenisstraf van vier jaren of meer is gesteld.

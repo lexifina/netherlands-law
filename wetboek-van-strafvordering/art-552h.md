@@ -1,0 +1,3 @@
+# Artikel 552h
+1. De navolgende artikelen van deze titel zijn van toepassing op verzoeken om rechtshulp door autoriteiten van een vreemde staat in verband met een strafzaak gedaan, en gericht tot een al dan niet met name aangeduid orgaan van de justitie of de politie in Nederland, voor zover in de afdoening niet is voorzien in het bepaalde bij of krachtens andere wetten.
+2. Als verzoeken om rechtshulp worden aangemerkt verzoeken tot het verrichten van handelingen van onderzoek of het verlenen van medewerking daaraan, het toezenden van documenten, dossiers of stukken van overtuiging of het geven van inlichtingen, dan wel het betekenen of uitreiken van stukken of het doen van aanzeggingen of mededelingen aan derden.

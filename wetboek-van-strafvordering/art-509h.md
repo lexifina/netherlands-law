@@ -1,0 +1,3 @@
+# Artikel 509h
+1. Een ter beschikking gestelde kan, indien te zijnen aanzien een bevel als bedoeld in artikel 509g is gegeven dan wel, indien zijn proefverlof is beëindigd, hervatting van zijn verpleging van overheidswege is bevolen, of met toepassing van artikel 38c van het Wetboek van Strafrecht alsnog verpleging van overheidswege is bevolen, op bevel van de officier van justitie of een hulpofficier in het arrondissement waarin hij feitelijk verblijft, worden aangehouden.
+2. Na de aanhouding wordt de ter beschikking gestelde onverwijld overgebracht naar een door de Minister van Justitie aangewezen inrichting.

@@ -1,0 +1,7 @@
+# Artikel 59a
+1. Uiterlijk binnen drie dagen en vijftien uur, te rekenen vanaf het tijdstip van de aanhouding, wordt de verdachte ten einde te worden gehoord voor de rechter-commissaris geleid.
+2. De rechter-commissaris bepaalt, na daartoe van de officier van justitie een verzoek te hebben ontvangen, onverwijld tijd en plaats van het verhoor en geeft hiervan kennis aan de officier van justitie, de verdachte en de raadsman.
+3. De verdachte is bevoegd zich bij het verhoor door een raadsman te doen bijstaan. De raadsman wordt bij het verhoor in de gelegenheid gesteld de nodige opmerkingen te maken. De officier van justitie is bevoegd het verhoor bij te wonen en daarbij de nodige opmerkingen te maken.
+4. De verdachte kan bij zijn verhoor de rechter-commissaris zijn invrijheidstelling verzoeken.
+5. Indien de rechter-commissaris de inverzekeringstelling onrechtmatig oordeelt, beveelt hij de onmiddellijke invrijheidstelling van de verdachte. In het andere geval tekent de rechter-commissaris zijn beslissing in het proces-verbaal van het verhoor aan of, ingeval de verdachte een verzoek tot invrijheidstelling heeft gedaan, wijst de rechter-commissaris het verzoek af. De aantekening wordt door de rechter-commissaris gewaarmerkt.
+6. De beschikking is gedagtekend, ondertekend en met redenen omkleed. De rechter-commissaris doet deze onverwijld toekomen aan de officier van justitie en de verdachte.

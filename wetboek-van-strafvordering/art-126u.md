@@ -1,0 +1,4 @@
+# Artikel 126u
+1. In een geval als bedoeld in artikel 126o, eerste lid, kan de officier van justitie in het belang van het onderzoek een vordering doen inlichtingen te verstrekken terzake van alle verkeer dat over een openbaar telecommunicatienetwerk, dan wel met gebruikmaking van openbare telecommunicatiediensten heeft plaatsgevonden en ten aanzien waarvan het vermoeden bestaat, dat daaraan een persoon heeft deelgenomen ten aanzien van wie uit feiten of omstandigheden een redelijk vermoeden voortvloeit dat deze betrokken is bij het in het georganiseerd verband beramen of plegen van misdrijven.
+2. De vordering, bedoeld in het eerste lid, kan worden gericht tot ieder die werkzaam is bij een aanbieder van een openbaar telecommunicatienetwerk, onderscheidenlijk een aanbieder van openbare telecommunicatiediensten.
+3. De artikelen 217, 218 en 219 zijn van overeenkomstige toepassing.

@@ -1,0 +1,3 @@
+# Artikel 552q
+1. Het betekenen en uitreiken van stukken aan derden, ter voldoening aan een verzoek om rechtshulp, geschiedt met overeenkomstige toepassing van de wettelijke voorschriften betreffende het betekenen en uitreiken van Nederlandse stukken van vergelijkbare strekking.
+2. Is bij een voor inwilliging vatbaar verzoek uitdrukkelijk de voorkeur gegeven aan betekening of uitreiking aan de geadresseerde in persoon, dan wordt zoveel mogelijk dienovereenkomstig gehandeld.

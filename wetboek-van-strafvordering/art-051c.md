@@ -1,0 +1,2 @@
+# Artikel 51c
+Zij die om in een burgerlijk geding in rechte te verschijnen, bijstand behoeven of vertegenwoordigd moeten worden, hebben om zich overeenkomstig artikel 51b te voegen, in het strafproces de bijstand of vertegenwoordiging eveneens nodig. Een machtiging van de kantonrechter, als bedoeld in artikel 349, lid 1, Boek 1, van het Burgerlijk Wetboek, is voor die vertegenwoordiger niet vereist. Ten aanzien van de verdachte zijn de bepalingen betreffende bijstand of vertegenwoordiging, nodig in burgerlijke zaken, niet van toepassing.

@@ -1,0 +1,5 @@
+# Artikel 126cc
+1. Zolang de zaak niet is geëindigd, bewaart de officier van justitie de processen-verbaal en andere voorwerpen, waaraan gegevens kunnen worden ontleend die zijn verkregen door observatie met behulp van een technisch hulpmiddel dat signalen registreert, het opnemen van vertrouwelijke communicatie, of het onderzoek van telecommunicatie, voor zover die niet bij de processtukken zijn gevoegd, en houdt deze ter beschikking van het onderzoek.
+2. Zodra twee maanden verstreken zijn nadat de zaak geëindigd is en de laatste mededeling, bedoeld in artikel 126bb, is gedaan, doet de officier van justitie de processen-verbaal en andere voorwerpen, bedoeld in het eerste lid, vernietigen. Van de vernietiging wordt proces-verbaal opgemaakt.
+3. Met een zaak die geëindigd is, wordt bij de toepassing van het vorige lid gelijkgesteld een voorbereidend onderzoek dat naar redelijke verwachting niet tot een zaak zal leiden.
+4. Bij algemene maatregel van bestuur worden voorschriften gegeven omtrent de wijze waarop de processen-verbaal en andere voorwerpen, bedoeld in het eerste lid, worden bewaard en vernietigd.

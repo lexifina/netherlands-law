@@ -1,0 +1,2 @@
+# Artikel 509i bis
+Indien de rechter last geeft tot toepassing van de maatregel van terbeschikkingstelling zonder daaraan een bevel tot verpleging van overheidswege te verbinden, doet het openbaar ministerie de uitspraak, zodra deze onherroepelijk is geworden, met alle op dat bevel betrekking hebbende beslissingen aan de ter beschikking gestelde betekenen. De betekening geschiedt aan hem in persoon.

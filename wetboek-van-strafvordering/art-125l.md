@@ -1,0 +1,2 @@
+# Artikel 125l
+Naar gegevens die zijn ingevoerd door of vanwege personen met bevoegdheid tot verschoning als bedoeld in artikel 218, vindt, tenzij met hun toestemming, geen onderzoek plaats voor zover daartoe hun plicht tot geheimhouding zich uitstrekt. Een onderzoek in een geautomatiseerd werk waarin zodanige gegevens zijn opgeslagen, vindt, tenzij met hun toestemming, slechts plaats, voor zover dit zonder schending van het stands-, beroeps- of ambtsgeheim kan geschieden.

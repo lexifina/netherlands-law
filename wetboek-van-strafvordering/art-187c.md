@@ -1,0 +1,2 @@
+# Artikel 187c
+Tot bijwoning van het verhoor van een getuige of deskundige kan de rechter-commissaris bijzondere toegang verlenen.

@@ -1,0 +1,3 @@
+# Artikel 560b
+Indien gunstig wordt beschikt op een verzoekschrift om gratie terzake van een straf of maatregel, waarvan de tenuitvoerlegging reeds is aangevangen of voltooid, wordt het bedrag van de betaalde geldboete of van het reeds betaalde gedeelte van het door de rechter vastgestelde bedrag van het wederrechtelijk verkregen voordeel teruggegeven.
+Voorwerpen die verbeurd zijn verklaard of aan het verkeer zijn onttrokken, worden na een gunstige beslissing op een verzoekschrift om gratie van die straf of maatregel door de bewaarder teruggegeven. Artikel 119, tweede lid, is van overeenkomstige toepassing.

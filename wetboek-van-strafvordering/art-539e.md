@@ -1,0 +1,3 @@
+# Artikel 539e
+1. De commandant kan een verrichting, waartoe hij op grond van een der bepalingen van deze Titel als zodanig dan wel na aanwijzing op grond van artikel 539d als opsporingsambtenaar bevoegd is, opdragen aan een onder zijn bevelen staande officier.
+2. De schipper kan een verrichting, waartoe hij op grond van een der bepalingen van deze Titel bevoegd is, opdragen aan een onder zijn bevelen staande scheepsofficier. De gezagvoerder van een luchtvaartuig kan een verrichting, waartoe hij op grond van een der bepalingen van deze Titel bevoegd is, opdragen aan een onder zijn bevelen staand lid van de bemanning.

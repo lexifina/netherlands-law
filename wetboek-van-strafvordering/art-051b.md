@@ -1,0 +1,3 @@
+# Artikel 51b
+1. Voor de aanvang van de terechtzitting geschiedt de voeging door een opgave van de inhoud van de vordering en van de gronden waarop deze berust, bij de officier van justitie die met de vervolging van het strafbare feit is belast. Deze opgave vindt plaats door middel van een door Onze Minister van Justitie vastgesteld formulier en bevat de naam, voornamen, geboortedatum en woon- en verblijfplaats van de benadeelde partij.
+2. Ter terechtzitting geschiedt de voeging door de opgave, bedoeld in het eerste lid, eerste volzin, bij de rechter uiterlijk voordat de officier van justitie in de gelegenheid is gesteld overeenkomstig artikel 311 het woord te voeren. Deze opgave kan ook mondeling worden gedaan.

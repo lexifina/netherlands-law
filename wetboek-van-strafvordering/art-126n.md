@@ -1,0 +1,4 @@
+# Artikel 126n
+1. In geval van ontdekking op heterdaad, verdenking van een misdrijf als omschreven in artikel 67, eerste lid, of het misdrijf, bedoeld in artikel 138a van het Wetboek van Strafrecht kan de officier van justitie in het belang van het onderzoek een vordering doen inlichtingen te verstrekken terzake van alle verkeer dat over een openbaar telecommunicatienetwerk, dan wel met gebruikmaking van openbare telecommunicatiediensten, heeft plaatsgevonden en ten aanzien waarvan het vermoeden bestaat, dat de verdachte eraan heeft deelgenomen.
+2. De vordering, bedoeld in het eerste lid, kan worden gericht tot ieder die werkzaam is bij een aanbieder van een openbaar telecommunicatienetwerk, onderscheidenlijk een aanbieder van openbare telecommunicatiediensten.
+3. De artikelen 217, 218 en 219 zijn van overeenkomstige toepassing.

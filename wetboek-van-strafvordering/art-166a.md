@@ -1,0 +1,5 @@
+# Artikel 166a
+1. Is de tot de klachte gerechtigde het hoofd of een lid van de regering van een bevriende staat in de zin van artikel 87a van het Wetboek van Strafrecht, of iemand die krachtens artikel 65 van dat wetboek in zijn plaats treedt, dan kan de klachte geschieden in de vorm van een door die staat langs de diplomatieke weg gedaan verzoek om strafvervolging.
+2. Wanneer de diplomatieke weg overeenkomstig het voorgaande lid is gevolgd, kan de klachte langs dezelfde weg worden ingetrokken, zulks - in afwijking van artikel 67 van het Wetboek van Strafrecht - binnen dertig dagen na de indiening.
+3. Voor de geldigheid van de indiening en van de intrekking, overeenkomstig de voorgaande leden van dit artikel, is niet vereist dat de tot de klachte gerechtigde daarmede persoonlijk instemt.
+4. De dag waarop het verzoek om strafvervolging, dan wel de intrekking van dat verzoek, ter kennis van de Nederlandse regering is gebracht, geldt als datum van ontvangst van de klachte, onderscheidenlijk van de intrekking daarvan.
