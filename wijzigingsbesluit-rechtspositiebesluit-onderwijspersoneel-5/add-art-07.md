@@ -1,0 +1,8 @@
+# Artikel VII
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte waarin het wordt geplaatst.
+2. In afwijking van het bepaalde in het eerste lid, werkt het bepaalde in artikel I, onderdeel A, onder 1, sub c, onderdeel B, onder 5, onderdeel N, onderdeel P, onder 2 en onder 3, onderdeel S, onderdeel V, onder 3, 4 en 5, onderdeel X, onder 3, 4 en 5, onderdeel AA en onderdeel BB, alsmede artikel IV, terug tot en met 1 januari 1992.
+3. In afwijking van het bepaalde in het eerste lid, werkt het bepaalde in artikel I, onderdeel C, onder 19, sub c, onderdeel E, onder 3, sub b, onderdeel H, onder 1, 2, 3, 4 en 5, onderdeel O, onderdeel P, onder 1, 4, 5 en 6 en artikel III, terug tot en met 1 juni 1992.
+4. In afwijking van het bepaalde in het eerste lid, werkt het bepaalde in artikel I, onderdeel B, onder 1, onderdeel E, onder 1, 2, 3, sub c, 4, 5, 6, 7, 8, sub a, 10, sub b, 11, 12, 13, sub a en c, 15 en 20, artikel V en artikel VI, teruig tot en met 1 augustus 1992.
+5. In afwijking van het bepaalde in het eerste lid, werkt het bepaalde in artikel I, onderdeel C, onder 26, en onderdeel T, terug tot en met 1 maart 1993.
+6. In afwijking van het bepaalde in het eerste lid, werkt het bepaalde in artikel I, onderdeel A, onder 2, terug tot en met 1 april 1993.
+7. In afwijking van het bepaalde in het eerste lid, treedt het bepaalde in artikel I, onderdeel D, onder 1, 2 en 3, onderdeel F, onder 1, onderdeel G, onderdeel H, onder 7, 8 en 9, onderdeel I, onderdeel J, onderdeel K, onderdeel M, onder 1, 2 en 5, onderdeel Q, onderdeel U, onderdeel V, onder 1 en 2, onderdeel W, onderdeel X, onder 1 en 2, onderdeel Y en artikel II, in werking met ingang van 1 januari 1994.
