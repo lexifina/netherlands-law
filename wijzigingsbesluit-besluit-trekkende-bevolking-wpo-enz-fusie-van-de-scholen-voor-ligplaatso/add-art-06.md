@@ -1,0 +1,2 @@
+# Artikel VI. Overgangsbepaling beëindiging van de bekostiging
+In afwijking van de artikelen C 19, eerste lid, en C 20, eerste lid, van het Besluit trekkende bevolking WPO wordt de bekostiging van een bijzondere school beëindigd dan wel wordt door de gemeenteraad besloten tot opheffing van een openbare school indien gedurende twee achtereenvolgende schooljaren, dan wel in het eerste en het derde schooljaar van een periode van drie schooljaren op de teldatum 1 oktober het aantal leerlingen minder heeft bedragen dan 10.
