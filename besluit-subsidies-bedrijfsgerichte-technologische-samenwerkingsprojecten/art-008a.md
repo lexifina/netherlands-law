@@ -1,3 +1,0 @@
-# Artikel 8a
-1. Indien de aanvraag een project betreft dat wordt uitgevoerd door een samenwerkingsverband, waarop niet met toepassing van de artikelen 9 of 11 afwijzend wordt beslist, vermeldt de beschikking tot subsidieverlening een raming van de projectkosten per deelnemer in het samenwerkingsverband.
-2. Elke deelnemer in het samenwerkingsverband is tot ten hoogste het naar rato van de voor hem geraamde projectkosten berekende bedrag aansprakelijk voor terugbetaling van de subsidie, voor zover de subsidie-ontvangers daartoe verplicht zijn.
