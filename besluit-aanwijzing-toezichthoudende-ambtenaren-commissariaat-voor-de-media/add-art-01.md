@@ -1,0 +1,2 @@
+# Artikel I
+Met het toezicht bedoeld in artikel 134, derde lid, van de Mediawet en artikel 15.1, tweede lid, van de Telecommunicatiewet zijn belast, naast de leden van het Commissariaat voor de Media, de medewerkers van het Commissariaat voor de Media, met uitzondering van de volgende medewerkers: de personeelsfunctionaris, de voorlichter, de medewerker voorlichting, de medewerkers van de afdeling Bedrijfsbureau en alle administratieve en secretariële medewerkers.
