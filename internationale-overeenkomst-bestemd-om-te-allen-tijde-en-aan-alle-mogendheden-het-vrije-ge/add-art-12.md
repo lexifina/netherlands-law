@@ -1,0 +1,2 @@
+# Article XII
+Les Hautes Parties contractantes conviennent par application du principe d'égalité en ce qui concerne le libre usage du Canal, principe qui forme l'une des bases du présent traité, qu'aucune d'elles ne recherchera d'avantages territoriaux ou commerciaux, ni de priviléges dans les arrangements internationaux, qui pourront intervenir par rapport au Canal. Sont d'ailleurs réservés les droits de la Turquie comme Puissance territoriale.

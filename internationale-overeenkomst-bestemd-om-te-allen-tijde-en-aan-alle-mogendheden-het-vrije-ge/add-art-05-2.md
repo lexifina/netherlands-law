@@ -1,0 +1,2 @@
+# Artikel V
+In tijd van oorlog zullen de oorlogvoerende Mogendheden in het kanaal en in de havens die toegang daartoe verleenen, noch troepen, noch oorlogsbehoeften, noch oorlogsmaterieel mogen lossen of opnemen. Maar in geval van eene toevallige verhindering in het kanaal, zal men in de havens, die toegang tot het kanaal verleenen, troepen kunnen inschepen of ontschepen, gesplitst in groepen van niet meer dan 1000 man, met het daarbij behorend krijgsmaterieel.

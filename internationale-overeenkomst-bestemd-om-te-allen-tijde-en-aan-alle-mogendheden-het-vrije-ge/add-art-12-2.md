@@ -1,0 +1,2 @@
+# Artikel XII
+Het beginsel toepassend van gelijkheid, voor zoover het vrije gebruik van het kanaal betreft, welk beginsel een der grondslagen van het tegenwoordig verdrag uitmaakt, komen de Hooge contracteerende Partijen overeen, dat geene van haar voordeelen in zake grondgebied of koophandel, noch voorrechten zal beoogen in de internationale schikkingen, welke, ten opzichte van het kanaal, zouden kunnen getroffen worden. Overigens zijn de rechten van Turkije, als territoriale Mogendheid, voorbehouden.

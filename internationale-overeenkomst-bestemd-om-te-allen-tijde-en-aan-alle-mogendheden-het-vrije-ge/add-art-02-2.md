@@ -1,0 +1,3 @@
+# Artikel II
+De Hooge contracteerende Partijen, erkennende dat het zoetwaterkanaal onmisbaar is voor het zeekanaal, nemen akte van de verplichtingen welke Zijne Hoogheid de Khedive tegenover de Algemeene Maatschappij van het Kanaal van Suez voor zooveel betreft het zoetwaterkanaal heeft aangegaan, welke verplichtingen bedongen zijn bij eene overeenkomst, gedagteekend van 18 Maart 1863, bevattende een overzicht en vier artikelen.
+Zij verbinden zich geen stoornis te brengen in de veiligheid van het kanaal en van zijne zijtakken, waarvan het gebruik aan geene poging tot belemmering zal kunnen blootgesteld zijn.

@@ -1,0 +1,4 @@
+# Article X
+De même, les prescriptions des articles IV, V, VII et VIII ne feront pas obstacle aux mesures que Sa Majesté le Sultan et son Altesse le Khédive, au nom de Sa Majesté Impériale et dans les limites des Firmans concédés, seraient dans la nécessité de prendre pour assurer, par leurs propres forces, la défense de l'Egypte et le maintien de l'ordre public.
+Dans le cas où Sa Majesté Impériale le Sultan ou Son Altesse le Khédive se trouveraient dans la nécessité de se prévaloir des exceptions prévues par le présent article, les Puissances signataires de la déclaration de Londres en seraient avisées par le Gouvernement Impérial Ottoman.
+Il est également entendu que les prescriptions des quatre articles dont il s'agit ne porteront, en aucun cas, obstacle aux mesures que le Gouvernement Impérial Ottoman croira nécessaire de prendre pour assurer par ses propres forces la défense de ses autres possessions situées sur la côte orientale de la Mer Rouge.

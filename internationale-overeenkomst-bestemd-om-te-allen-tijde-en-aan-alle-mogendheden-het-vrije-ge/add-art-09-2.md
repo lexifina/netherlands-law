@@ -1,0 +1,4 @@
+# Artikel IX
+De Egyptische Regeering zal binnen de grenzen harer bevoegdheid, zooals die bij de Firmans is vastgesteld en op de voorwaarden, bij het tegenwoordig verdrag voorzien, de noodige maatregelen nemen om de uitvoering van dat verdrag te doen eerbiedigen.
+Ingeval de Egyptische Regeering niet over voldoende middelen mocht beschikken, zal zij een aanzoek moeten richten tot de Keizerlijke Ottomanische Regeering, welke de noodige maatregelen zal nemen om aan dat aanzoek gehoor te geven, daarvan mededeeling zal doen aan de overige Mogendheden, die de verklaring van Londen van 17 Maart 1885 hebben onderteekend en des vereischt zich met deze te dier zake zal verstaan.
+Hetgeen bij de artikelen IV, V, VII en VIII bepaald is, zal geen beletsel opleveren voor de maatregelen, die krachtens het tegenwoordig artikel zullen genomen worden.
