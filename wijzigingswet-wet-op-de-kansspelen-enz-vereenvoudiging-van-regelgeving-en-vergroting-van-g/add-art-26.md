@@ -1,0 +1,2 @@
+# Artikel XXVI
+In gevallen waarin voor de datum van inwerkingtreding van deze wet een beschikking tot weigering of intrekking van een vergunning als bedoeld in artikel 14 van de Woonwagenwet is uitgereikt, blijven ten aanzien van de termijn gedurende welke beroep tegen deze beschikkingen kan worden ingesteld en het inwerkingtreden van de intrekkingsbeschikking de artikelen 20, eerste lid, 27, eerste lid en 29 van die wet zoals die voor die datum luidden van toepassing.

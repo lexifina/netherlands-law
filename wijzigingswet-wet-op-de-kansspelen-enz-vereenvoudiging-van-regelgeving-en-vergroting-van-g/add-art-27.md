@@ -1,0 +1,3 @@
+# Artikel XXVII
+A. Artikel XVI, is niet van toepassing op verordeningen die zijn vastgesteld vóór de dag waarop deze wet in werking treedt. Ten aanzien van die verordeningen blijven de artikelen 5, eerste en derde lid, en 22, tweede, vierde en vijfde lid, van de Wet verontreiniging oppervlaktewateren, zoals die luidden op de dag voor die van de inwerkingtreding van deze wet van kracht.
+B. Artikel XVI, onderdeel B, onder 2, vervalt op het tijdstip waarop artikel 4.14 van het bij koninklijke boodschap van 11 juni 1987 ingediende voostel voor een Waterschapswet (Kamerstukken II, 1986/87, 19 995) in werking treedt.
