@@ -1,0 +1,2 @@
+# Artikel XI
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van artikel I, onderdeel F, punt 2, met betrekking tot artikel 66, derde lid (nieuw) en onderdeel K, punt 2, met betrekking tot artikel 94, derde lid (nieuw) van de Wet toezicht verzekeringsbedrijf 1993, dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip dat voor onderscheiden branches verschillend kan worden vastgesteld.

@@ -1,0 +1,2 @@
+# Artikel X
+Gedurende drie jaar na inwerkingtreding van artikel I, onderdelen G en L, en artikel II, onderdeel D, dient een verzekeraar, in afwijking van de termijn genoemd in de artikelen 72, eerste lid, en 100, eerste lid, van de Wet toezicht verzekeringsbedrijf 1993, onderscheidenlijk in artikel 33, eerste lid, van de Wet toezicht natura-uitvaartverzekeringsbedrijf, de in die artikelleden bedoelde staten uiterlijk zes maanden na afloop van elk boekjaar bij de Verzekeringskamer in.
