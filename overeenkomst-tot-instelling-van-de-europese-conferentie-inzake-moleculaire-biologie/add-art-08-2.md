@@ -1,0 +1,2 @@
+# Artikel VIII. Regeling van geschillen
+Elk geschil tussen twee of meer Leden met betrekking tot de uitlegging of de toepassing van deze Overeenkomst dat niet kan worden geregeld door tussenkomst van de Conferentie wordt, op verzoek van een der partijen bij het geschil, voorgelegd aan het Internationaal Gerechtshof, tenzij de betrokken Leden binnen een redelijke termijn overeenstemming bereiken over een andere wijze van regeling van het geschil.

@@ -1,0 +1,2 @@
+# Article VIII. Settlement of disputes
+Any dispute between two or more Members concerning the interpretation or application of this Agreement which is not settled through the good offices of the Conference shall be submitted, at the request of any party to the dispute, to the International Court of Justice, unless the Members concerned agree within a reasonable lapse of time on another mode of settlement.

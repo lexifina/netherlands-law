@@ -1,0 +1,4 @@
+# Artikel III. De Conferentie
+1. De Leden van de Conferentie zijn de Staten die partij zijn bij deze Overeenkomst.
+2. De Conferentie kan, bij een met eenparigheid van stemmen door de aanwezige Leden die hun stem uitbrengen genomen besluit, andere Europese Staten, zomede Staten die sedert de oprichting van de EMBO een belangrijke bijdrage hebben geleverd aan het werk van deze Organisatie, toestaan Lid te worden, door toetreding tot deze Overeenkomst, nadat zij in werking is getreden.
+3. De Conferentie kan, met eenparigheid van stemmen der aanwezige Leden die hun stem uitbrengen, samenwerking tot stand brengen met Staten die geen Lid zijn, met nationale instellingen of internationale gouvernementele of non-gouvernementele organisaties. De aan een zodanige samenwerking verbonden voorwaarden worden door de Conferentie met eenparigheid van stemmen der aanwezige Leden die hun stem uitbrengen vastgesteld, telkens naar gelang van de omstandigheden.
