@@ -95,7 +95,7 @@
 ## Hoofdstuk 15. Inhouding bekostiging, schadevergoeding en strafbepalingen
 ## Hoofdstuk 16. Overgangs-, invoerings- en slotbepalingen
 ### Titel 1. Intrekking wetten en besluiten
-### Titel 2. Voorzieningen voor onbepaalde tijd
+### Titel 2. Voorzieningen voor bepaalde en onbepaalde tijd
 ### Titel 3. Tijdelijke handhaving voorschriften oude stijl
 ### Titel 4. Voorschriften i.v.m. invoering wet
 #### Paragraaf 1. Voorschriften betreffende de instellingen voor hoger onderwijs
@@ -114,3 +114,4 @@
 #### Paragraaf 6. Overgangsrecht accreditatieplicht
 #### Paragraaf 7. Overig invoerings- en overgangsrecht
 #### Paragraaf 8. Overige bepalingen
+## Hoofdstuk 17b. Overgangsbepaling van de Wet betreffende onder meer de uitvoering van de in de nota «Zicht op kwaliteit» aangekondigde maatregelen
