@@ -30,7 +30,6 @@
 #### Afdeling 4. Metingen
 #### Afdeling 5. Overige bepalingen
 ### Titel 2. Bijhouding van het net van coördinaatpunten
-### Titel 3. Overige bepaling
 ## Hoofdstuk 5. Registratie voor schepen
 ### Titel 1. Inhoud van de registratie voor schepen
 ### Titel 2. Bijwerking van de registratie voor schepen
@@ -43,6 +42,7 @@
 #### Afdeling 1. Algemene bepalingen
 #### Afdeling 2. Bijhouding op grond van stukken ingeschreven in de openbare registers, bedoeld in artikel 8, eerste lid, onder c
 #### Afdeling 3. Overige bepalingen
+## Hoofdstuk 6a. Geografische gegevens
 ## Hoofdstuk 7. Verstrekking van inlichtingen; kadastraal recht
 ### Titel 1. Verstrekking van inlichtingen
 #### Afdeling 1. Verstrekking van inlichtingen uit de openbare registers
