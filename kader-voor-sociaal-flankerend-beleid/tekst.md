@@ -1,0 +1,129 @@
+# Tekst
+## 1 Achtergrond en aanleiding
+De komende periode zet het kabinet in op kwaliteitsverhoging van de overheid: prestatieverhoging, kritische doorlichting van de taken, vermindering van de bureaucratie en regelgeving. Deze inzet zal gepaard gaan met het vervallen van arbeidsplaatsen bij de sector Rijk. Gelet op de verwachte personele gevolgen hiervan heb ik de bonden een voorstel gedaan voor een sociaal flankerend beleid bestaande uit een pakket nieuwe instrumenten en voorzieningen ten behoeve van het personeel dat betrokken is bij reorganisaties. De voorstellen richtten zich op het maximaal voorkomen van gedwongen ontslag.
+Onder meer bevatte dit pakket een vertrekregeling voor oudere werknemers, die er op was gericht het ontslag van jongere werknemers te voorkomen. Dit zogenoemde FPU-arrangement kende de volgende elementen: een ophoging bovenop de reguliere FPU uitkering tot 73% en een voortzetting van de pensioenopbouw voor 50% gedurende vier jaar, waarvan de premie voor driekwart door de werkgever wordt vergoed.
+Het overleg met de bonden hierover heeft niet geleid tot een centraal akkoord. Het gevolg zal zijn dat de bonden met de afzonderlijke ministeries onderhandelen over een sociaal plan voor het betreffende ministerie. Ook in deze situatie acht ik het noodzakelijk dat de werkgevers in de sector Rijk op het punt van het sociaal flankerend beleid, en met name de inhoud van het FPU-arrangement, één lijn kiezen. Het risico is anders groot dat de verschillende ministeries tegen elkaar worden uitgespeeld. Ook wil ik voorkomen dat in de departementale onderhandelingen mijn eindbod inzake het sociaal flankerend beleid door de bonden wordt beschouwd als de bodem.
+In dit verband is in de ministerraad voor het komende overleg op departementaal niveau over sociaal flankerend beleid op onderstaande punten het volgende dwingende mandaat afgesproken.
+## 2 Fpu-arrangement
+In de ministerraad op 12 december 2003 is besloten tot een nadere invulling van het eerder afgesproken kader voor FPU-arrangementen. Met deze nadere invulling door het kabinet van het eerder afgesproken kader voor FPU-arrangementen vervalt de circulaire PMR/AV 03/78802 van 17 september 2003.
+De ministerraad heeft besloten dat ten aanzien van FPU-arrangementen voor één vormgeving dient te worden gekozen. Besloten is dat in de onderhandelingen op departementaal niveau alleen het volgende FPU-arrangement kan worden afgesproken:
+'In de periode tot 1 januari 2005 kan de secretaris-generaal op individueel niveau een zogeheten FPU-arrangement aanbieden aan een FPU-gerechtigde ambtenaar, mits daardoor het gedwongen reorganisatie-ontslag van een niet FPU-gerechtigde ambtenaar wordt voorkomen.
+Het FPU-arrangement bestaat uit de volgende onderdelen:
+a. een aanvulling op de reguliere FPU-uitkering tot 70% van de FPU-berekeningsgrondslag (genoemd in artikel 1, onderdeel o, van het FPU-reglement basisuitkering en aanvullende uitkering);
+b. een volledige vergoeding door de werkgever van de kosten van een 50% voortzetting van de pensioenopbouw tot 62 jaar. Als de ambtenaar aan de voorwaarden voldoet zal voor de pensioenopbouw gebruik worden gemaakt van artikel 16.5 van het Pensioenreglement van de Stichting Pensioenfonds ABP.
+De looptijd van het FPU-arrangement bedraagt maximaal 8 jaar.
+Bij een ontslag onder toekenning van een FPU-arrangement kan tevens een proportionele (naar rato van de diensttijd) ambtsjubileumgratificatie worden toegekend conform artikel 79 ARAR. Dit geldt ook voor de (gedeeltelijk) arbeidsongeschikten.' Deze gratificatie dient te worden toegekend op basis van artikel 69 van het ARAR.
+Tevens dient een anti-cumulatiebepaling te worden afgesproken. In het geval de FPU-uitkering + de uitkering ingevolge het FPU-arrangement + de eventuele neveninkomsten tezamen meer dan 100% van het pensioengevend inkomen bedragen, ligt het in de rede dat het meerdere in de eerste plaats in mindering wordt gebracht op de aanvullende uitkering ingevolge het FPU-arrangement en vervolgens op het basisdeel van de FPU-uitkering. Ik zal hierover met het ABP overleg voeren gelet op het feit dat het ABP al een anticumulatietoets doet waarbij korting plaatsvindt op het basisdeel van de FPU-uitkering. Over de uitkomst van dit overleg zal ik u zo spoedig mogelijk berichten.
+Overschrijdingen en afwijkingen van het bovenomschreven FPU-arrangement zijn niet mogelijk. Voorzover de bonden daar toch op aandringen dienen zij te worden verwezen naar het overleg met mij aan de sectortafel.
+## 3 Overige voorzieningen
+In departementale sociale plannen wordt niet afgeweken van dwingendrechtelijke bepalingen in het ARAR. Concreet gaat het om:
+• het eenmalige bedrag waarop een ambtenaar recht heeft bij tijdig voldoen aan de verhuisplicht;
+• de afbouw van de toelage onregelmatige dienst
+• de afkoopsom bij vertrek op eigen verzoek naar werk buiten de sector;
+• de stimuleringspremie bij ontslag op eigen verzoek.
+## 4 Richtlijn bij departementale onderhandelingen
+Het eindvoorstel dat ik aan de bonden heb gedaan treft u hierbij aan als bijlage 1. De inhoud hiervan kan gebruikt worden in de onderhandelingen met hen bij uw departement. Hierbij geldt, zoals eerder aangegeven, dat de voorstellen die zouden hebben moeten leiden tot een wijziging van het ARAR uiteraard niet op departementaal niveau kunnen worden afgesproken. In bijlage 2 is aangegeven om welke punten het daarbij gaat.
+## 5 Overgangsmaatregel voor lopende afspraken
+Daar waar reeds afspraken zijn gemaakt over een FPU-arrangement en afwijkingen van het ARAR, blijven deze afspraken van kracht voor de overeengekomen duur. Voor een eventuele verlenging geldt hetgeen in deze brief is gesteld inzake de goedkeuring door de minister van BZK.
+## 6 Procedure
+Elk onderhandelaarsakkoord over een departementaal sociaal plan wordt aan mij schriftelijk ter goedkeuring voorgelegd alvorens tot formele ondertekening wordt overgegaan. Dit betekent dat aan een onderhandelaarsakkoord de voorwaarde 'behoudens goedkeuring door de minister van BZK' moet worden verbonden.
+Hieraan voorafgaande is het mogelijk aan het begin van de onderhandelingen alsook tussentijds concept-vooorstellen voor een voorlopige toetsing gelijktijdig per e-mail te zenden aan:
+a. A.J.M. Warnier (toon.warnier@minbzk.nl)
+b. C. Terbrack (coen.terbrack@minbzk.nl
+c. A.W. Spieseke (albert.spieseke@minbzk.nl)
+d. J.W. van Baarle (john.baarle@minbzk.nl)
+De circulaire van 17 september 2003, nr. PMR/AV 03/78802 is ingetrokken.
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,
+voor deze,
+de wnd. directeur-generaal Management Openbare Dienst,A.F.Gaastra
+## Bijlage 1 Eindbod kader voor sociaal flankerend beleid in de sector Rijk
+## Preambule
+De sociale partners in de sector Rijk hebben zich beraden op de consequenties van het Hoofdlijnenakkoord voor deze sector. Met het Hoofdlijnenakkoord zet het kabinet in op kwaliteitsverhoging van de overheid: prestatieverhoging, kritische doorlichting van de taken, vermindering van de bureaucratie en regelgeving. Deze inzet zal gepaard gaan met het vervallen van arbeidsplaatsen bij de sector Rijk.
+Sociale partners in de sector Rijk zien het als een gezamenlijk doel om de in het Hoofdlijnenakkoord afgesproken capaciteitsreductie op zodanige wijze te laten plaatsvinden dat geen gedwongen uitstroom zal plaatsvinden.
+Dit betekent dat bij de werving en selectie van nieuwe medewerkers eerst gebruik zal worden gemaakt van de beschikbare capaciteit en de aanwezige competenties onder het eigen personeel. De herplaatsingskandidaten worden geleid van werk naar werk. Hiervoor zijn instrumenten aanwezig om de doorstroom te faciliteren. Zo geeft de Mobiliteitsbank Rijk informatie over vacatures en kunnen medewerkers hun CV daar achterlaten. De mobiliteitscentra bij de ministeries begeleiden herplaatsingskandidaten actief bij het zoeken naar nieuw werk. Ook competentiemanagement, opleidingen en loopbaanbeleid zullen de komende jaren moeten bijdragen aan een flexibele inzet en een goede doorstroom van het personeel bij het Rijk. Medewerkers kunnen zo de loopbaan volgen die het beste past bij hun ontwikkeling en bij hun individuele competenties en vaardigheden. Van het personeel in dienst bij het Rijk wordt in redelijkheid een flexibele inzet gevraagd, zodat het management kan beschikken over personeel met die competenties die voor het werk nodig zijn.
+Ten einde te bevorderen dat bij reorganisaties betrokken medewerkers en herplaatsingskandidaten van werk naar werk worden geleid, zijn partners het voorliggende kader voor sociaal flankerend beleid overeengekomen met daarin een aantal voorzieningen die kunnen worden toegepast om hun mobiliteit naar ander werk te bevorderen. Hiermee kan gedwongen ontslag zoveel mogelijk worden voorkomen. Partners zullen gezamenlijk nagaan of de doelstelling 'van werk naar werk' wordt gerealiseerd. Hiertoe zullen zij evaluatiecriteria vaststellen.
+Door vergrijzing en ontgroening zal het personeelsbestand van het Rijk nog verder wijzigen. Oudere ambtenaren zullen vanaf 2010 massaal gaan uitstromen. Aandacht voor jonge instroom blijft daarom steeds van belang. In aanvulling op de voorliggende afspraken inzake sociaal flankerend beleid zullen partners een arbeidsmarktconvenant sluiten met daarin afspraken ter bevordering van de arbeidsmarktpositie van het Rijk op langere termijn.
+In het kader van het uitvoeren van het arbeidsmarktconvenant zal nadrukkelijk in beschouwing worden genomen dat er op termijn sprake is van een evenwichtige personeelsopbouw. Dit principe zal een nadrukkelijke rol gaan spreken bij het ontwikkelen van het HRM beleid. Dit zal over 5 jaar worden geëvalueerd.
+Het kabinet is bereid tot het beschikbaar stellen van een eenmalig budget van 10 miljoen euro ten behoeve van de uitvoering en facilitering van het Sociaal Flankerend Beleid binnen de sector Rijk.
+(Om het committent van het management in de rijksdienst aan de uitvoering van het sociaal flankerend beleid tot uitdrukking te brengen, tekenen naast de partijen in het SOR alle SG's deze overeenkomst).
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,
+...
+Namens de Algemene Centrale van Overheidspersoneel,
+...
+Namens de Christelijke Centrale van Overheids- en Onderwijs personeel,
+...
+Namens het Ambtenarencentrum,
+...
+Namens de Centrale van Middelbare en Hogere Functionarissen bij Overheid en Onderwijs, bedrijven en Instellingen,
+...
+De secretaris-generaal van ...
+...
+## I Algemene bepalingen
+## Toepassingsbereik, looptijd en werking
+Dit rijksbrede kader voor sociaal flankerend beleid is van toepassing op al het personeel van de sector Rijk (inclusief CBS) dat betrokken is bij een reorganisatie. Dit betekent dat vanaf het moment dat een organisatie in reorganisatie is, elke bij deze organisatie werkzame ambtenaar aanspraak kan maken op de voorzieningen van het sociaal flankerend beleid.
+## Te volgen procedure
+Het sociaal beleidskader is van toepassing op (potentiële) herplaatsingskandidaten. In het kader van de herplaatsing van de medewerker worden de verantwoordelijke manager en de medewerker ondersteund met de in dit kader voor het sociaal flankerend beleid opgenomen voorzieningen. Tenzij nadrukkelijk anders geregeld kunnen de voorzieningen ook worden toegepast op medewerkers die geen (potentiële) herplaatsingskandidaat zijn, indien en voor zover daarmee daadwerkelijke aanwijzing tot (potentieel) herplaatsingskandidaat wordt voorkomen of een feitelijke herplaatsing van een (potentieel) herplaatsingskandidaat wordt gerealiseerd (remplacant).
+## Herplaatsingsbeleid
+Om te garanderen dat het departementaal mobiliteitscentrum een volledig inzicht heeft in (potentieel) openstaande functies worden deze bij het Mobiliteitscentrum gemeld, inclusief taakomschrijving en competentieprofiel.
+Externe werving, dat wil zeggen werving buiten de sector Rijk, mag pas geschieden nadat uitdrukkelijk door de (P)SG is vastgesteld dat er binnen de sector Rijk geen geschikte herplaatsingskandidaten zijn voor de vacante functie.
+In overleg tussen de verantwoordelijke manager en de herplaatsingskandidaat wordt een personeelsbegeleidingsplan opgesteld. Onderdeel daarvan is in ieder geval een belangstellingsregistratie en een competentieprofiel. Het departementaal mobiliteitscentrum kan daarbij desgevraagd van advies dienen. De herplaatsingskandidaat wordt bij het departementaal mobiliteitscentrum aangemeld.
+De (P)SG toetst de uitvoering van herplaatsingsinspanningen via de jaarplancyclus. Daarin rapporteren de verantwoordelijke leidinggevenden tenminste over het aantal aangewezen herplaatsingskandidaten, de stand van zaken m.b.t. herplaatsing en de daarbij toegepaste flankerende middelen.
+Op alle door of namens het bevoegd gezag genomen besluiten op grond van dit beleidskader is de AWB van toepassing.
+Afwijking of aanvulling van de rijksbrede voorzieningen van sociaal flankerend beleid is niet toegestaan. Indien op departementaal niveau toch sprake is van zodanige bijzondere omstandigheden bij een reorganisatie die afwijking noodzakelijk maken, dan kan het DGO van het ministerie een voorstel doen aan het SOR waarover dan in het SOR overeenstemming moet worden bereikt.
+Het sociaal flankerend beleid heeft een looptijd tot 1 januari 2008 met uitzondering van die bepalingen in deze tekst die een kortere werking hebben. In 2007 zal een evaluatie plaatsvinden.
+Op departementale afspraken die zijn overeengekomen op een tijdstip voor de vaststelling van dit rijksbrede kader, is het volgende overgangsrecht van toepassing. Departementale afspraken die uitgaan boven het rijksbrede kader, blijven tot 1 januari 2008 van toepassing. Indien dergelijke afspraken al voor deze datum aflopen dan mag geen verlenging daarvan worden afgesproken.
+## Procedure toekenning voorzieningen
+1. Voorafgaande aan het opstellen van het personeelsbegeleidingsplan wordt de herplaatsingskandidaat door het mobiliteitscentrum geïnformeerd over alle voorzieningen zoals deze in deze paragraaf zijn opgenomen;
+2. De herplaatsingskandidaat maakt zijn wensen en verwachtingen m.b.t. het gebruik van de voorzieningen kenbaar in het personeelsbegeleidingsplan.
+3. De verantwoordelijk manager onderzoekt of de gewenste voorzieningen passen in de activiteiten van het personeelsbegeleidingsplan en bespreekt de uitkomsten daarvan met de herplaatsingskandidaat. De verantwoordelijk manager neemt in dezen nog geen besluit.
+4. Wanneer de herplaatsingskandidaat daadwerkelijk gebruik wil maken van een voorziening dient hij een verzoek in bij de verantwoordelijk manager.
+5. De verantwoordelijk manager beoordeelt het verzoek. Het betreft hier uitdrukkelijk een discretionaire bevoegdheid van de verantwoordelijk manager. Voor de toekenning van de voorziening is een positief advies van de manager HRM Nodig. Bij de beoordeling van het verzoek dient de manager HRM uitdrukkelijk rekening te houden met de inhoud van het personeelsbegeleidingsplan.
+6. Bij de beoordeling van het verzoek hoort de verantwoordelijk manager de herplaatsingskandidaat en het mobiliteitscentrum.
+7. Het gemotiveerde besluit van de verantwoordelijk manager op het verzoek is een voor bezwaar en beroep vatbaar besluit
+## II Dwingendrechtelijke voorzieningen
+1) Het bevoegd gezag is verplicht om de ambtenaar binnen een periode van 18 maanden, te rekenen vanaf het moment dat de ambtenaar is aangewezen als herplaatsingskandidaat, ten minste één passende functie aan te bieden (artikel 49g ARAR).
+2) De herplaatsingskandidaat heeft een voorrangspositie op andere kandidaten bij de vervulling van vacatures binnen de sector Rijk (circulaire PMR/AV 02/100674 van 6 februari 2003).
+3) Bij herplaatsing in een lager gewaardeerde functie heeft de ambtenaar aanspraak op behoud van de eigen salarisschaal (artikel 5 BBRA).
+4) Bij herplaatsing in een lager gewaardeerde functie dient het bevoegd gezag zich in te spannen om, zodra een vacature beschikbaar is op het oorspronkelijke schaalniveau, betrokkene in aanmerking te laten komen voor deze vacature.
+5) De ambtenaar heeft aanspraak op volledige vergoeding van opleidingskosten en (een deel van) studietijd, indien de inspanningen aantoonbaar bijdragen aan (her)plaatsingsmogelijkheden, zowel binnen de sector Rijk als daarbuiten (art. 49h en 49 k ARAR).
+6) De ambtenaar heeft aanspraak op een afbouwende toelage bij het beëindigen of verminderen van toelagen, mits deze tenminste twee voorafgaande jaren onafgebroken werd genoten en de bezoldiging door wegvallen of verminderen van de toelage blijvend tenminste 3% verlaagd wordt. Afbouw in 3 jaar: één jaar 75% van de verlaging van bezoldiging, één jaar 50% en één jaar 25%) (art. 18 BBRA), waarbij een referteperiode geldt van 3 jaar.
+7) De ambtenaar heeft aanspraak op een verhuiskostenvergoeding (vergoeding van werkelijke transportkosten en van herinrichtingskosten) tot een maximum van € 5.445 indien binnen twee jaar na verplaatsing aan een verhuisplicht wordt voldaan, dan wel zonder verhuisplicht wordt verhuisd van buiten 50 km naar binnen 25 km van de plaats van tewerkstelling (Verplaatsingskostenbesluit 1989).
+8) Bij tijdig voldoen aan de verhuisplicht heeft de ambtenaar aanspraak op een eenmalig bedrag van € 10.890,73 bruto. Dit bedrag zal met terugwerkende kracht vanaf 1-1-1998 worden geïndexeerd. Dat wil zeggen dat een nieuw bedrag per 1-1-2004 zal worden vastgesteld, rekening houdend met de contractloonstijging vanaf 1-1-1998. Dit bedrag zal nadien worden aangepast overeenkomstig de algemene salarisverhoging (art. 49n ARAR).
+9) De ambtenaar heeft aanspraak op maximaal twee jaar vergoeding van in redelijkheid te maken pensionkosten als niet dagelijks heen en weer kan worden gereisd tussen woonadres en plaats van tewerkstelling (Verplaatsingskostenbesluit 1989).
+## III Facultatieve voorzieningen
+1) Indien de reistijd woon-werkverkeer na (her)plaatsing in totaliteit met meer dan een half uur per enkele reis wordt verlengd, kan die extra reistijd gedurende een periode van 3 jaar door het bevoegd gezag als diensttijd worden aangemerkt.
+2) In overleg tussen het bevoegd gezag en de ambtenaar kan een passende werktijdregeling worden overeengekomen (inclusief de mogelijkheid om in deeltijd te werken).
+3) Indien de reistijd woon-werkverkeer door herplaatsing zodanig lang wordt dat daardoor een normale uitoefening van de functie wordt belemmerd, kan het bevoegd gezag in overleg met de betrokken ambtenaar telewerken toestaan. Daarbij is de Raamregeling telewerken van toepassing.
+4). Het bevoegd gezag kan een af te bouwen tegemoetkoming in de ORT toekennen, die uitgaat boven artikel 18 BBRA.
+5) Het bevoegd gezag kan een af te bouwen tegemoetkoming in de verhoogde kosten woon-werkverkeer toekennen, die uitgaat boven het verplaatsingskostenbesluit.
+6) Indien de ambtenaar als gevolg van zijn/haar (her)plaatsing moet verhuizen en de meeverhuizende partner om die reden de eigen baan moet opzeggen, kan het bevoegd gezag toestaan dat die partner gebruik maakt van de ondersteuningsfaciliteiten van het mobiliteitscentrum (of een soortgelijke voorziening) bij het zoeken naar een nieuwe baan.
+7) Het bevoegd gezag kan besluiten tot het aanbieden van interim-functievervulling, detachering en stages. Deze moeten wel bijdragen aan een vergroting van de (her)plaatsingsmogelijkheden.
+8) De ambtenaar kan op diens verzoek aanvullende kortdurende begeleiding door een onafhankelijk psycholoog of arbeidsdeskundige t.b.v. de emotionele verwerking van de reorganisatie worden aangeboden. Dit met een maximum van € 3.000,- (incl. BTW). Het advies van de bedrijfsarts of de bedrijfsmaatschappelijk werker kan daarbij behulpzaam zijn.
+9) Aan de ambtenaar kunnen de kosten van outplacement, met inbegrip van de noodzakelijke opleidingskosten, worden vergoed.
+10) Het bevoegd gezag kan de ambtenaar andere werkzaamheden, bijvoorbeeld als coach of mentor, laten verrichten. Dit kan in de vorm van een tijdelijke plaatsing, al dan niet bovenformatief.
+11) Bij ontslag van een herplaatsingkandidaat of remplaçant op eigen verzoek wegens het aanvaarden van een baan buiten de sector Rijk op een lager salarisniveau, kan het bevoegd gezag besluiten om gedurende maximaal 5 jaar een aanvulling op het salaris te verlenen tot maximaal 100% van het oude salarisniveau. Deze aanvulling kan op verzoek van de betrokkene worden afgekocht; de hoogte van de afkoopsom stelt het bevoegd gezag in overleg met de betrokkene vast.
+12) Door het bevoegd gezag kan bij ontslag op eigen verzoek binnen de herplaatsingstermijn van 18 maanden een stimuleringspremie worden toegekend van maximaal 9 maandsalarissen.
+13) Het bevoegd gezag kan de ambtenaar die op eigen verzoek ontslag neemt om een baan buiten de sector Rijk te gaan vervullen gedurende maximaal 3 jaar gehele of gedeeltelijke voortzetting van vergoeding van de kosten van kinderopvang en buitenschoolse opvang toekennen, indien de nieuwe werkgever of de werkgever van de partner daartoe geen regeling kent.
+14) Bij ontslag op eigen verzoek voor het aanvangen van eigen bedrijfsactiviteiten, kan het bevoegd gezag, op verzoek van de ambtenaar, besluiten het dienstverband maximaal 3 maanden langer in stand te laten, gedurende welke periode betrokkene de werktijd geheel of gedeeltelijk aan de feitelijke start van bedrijfsactiviteiten mag besteden. Deze periode van drie maanden kan op verzoek van de ambtenaar worden gekapitaliseerd. Voorwaarde is indiening van een degelijk uitgewerkt businessplan en een bewijs van inschrijving bij de Kamer van Koophandel. In plaats van deze voorziening kan het bevoegd gezag, op verzoek van de ambtenaar, toestaan dat deze voor een periode van maximaal 6 maanden gebruik mag maken van een speciaal daartoe bestemde werkruimte, inclusief nader te bepalen faciliteiten.
+15) Het bevoegd gezag kan de ambtenaar ontheffing verlenen van de terugbetalingsverplichting m.b.t. ouderschapsverlof en verhuis- en studiekostenvergoeding.
+16) Indien binnen een jaar na herplaatsing blijkt dat de nieuwe functie toch niet passend is, kan de ambtenaar één keer opnieuw door het bevoegd gezag worden aangewezen als herplaatsingskandidaat. De periode die de ambtenaar vóór herplaatsing al herplaatsingskandidaat is geweest, wordt dan in mindering gebracht op de nieuwe 18-maanden herplaatsingstermijn.
+17) Het bevoegd gezag kan ambtenaren met een aanstelling voor bepaalde tijd anders dan voor een proeftijd, gebruik laten maken van de ondersteuningsfaciliteiten van het mobiliteitscentrum bij het zoeken naar een nieuwe baan onder de voorwaarde dat dit niet leidt tot verdringing van herplaatsingskandidaten
+18) Indien een medewerker buiten zijn schuld tijdens de proeftijd van 2 maanden (conform het BW) wordt ontslagen, dan kan deze medewerker terugkeren naar het departement waaruit hij is vertrokken en verkrijgt hij opnieuw de status van herplaatsingskandidaat. De periode die de betrokkene vóór herplaatsing al herplaatsingskandidaat is geweest, wordt dan in mindering gebracht op de nieuwe 18-maanden herplaatsingstermijn.
+19) Het bevoegd gezag kan in individuele gevallen de herplaatsingstermijn verlengen tot maximaal 21 maanden.
+20) In de periode tot 1 januari 2005 kan de secretaris-generaal op individueel niveau een zogeheten FPU-arrangement aanbieden aan een FPU-gerechtigde ambtenaar, mits daardoor het gedwongen reorganisatie-ontslag van een niet FPU-gerechtigde ambtenaar wordt voorkomen.
+Een eventuele verlenging van de periode waarin een FPU-arrangement kan worden aangeboden is afhankelijk van de uitkomsten van het overleg in het voorjaar van 2004 tussen de sociale partners en het Kabinet over de uitwerking van de afspraken uit het Najaarsakkoord 2003. Uitgangspunt daarbij is dat voor de sector Rijk zal worden aangesloten bij de algemene afspraken.
+Het FPU-arrangement bestaat uit de volgende onderdelen:
+a. een aanvulling op de reguliere FPU-uitkering tot 73% van de FPU-berekeningsgrondslag (genoemd in artikel 1, onderdeel o, van het FPU-reglement basisuitkering en aanvullende uitkering);
+b. een bijdrage van de werkgever in de kosten van een voorziening ten behoeve van een voortzetting van de pensioenopbouw van ten hoogste 50% en voor maximaal vier jaar. Deze bijdrage bedraagt maximaal 75% van de premie, berekend volgens artikel 4.4 van het Pensioenreglement van de Stichting Pensioenfonds ABP.
+De looptijd van het FPU-arrangement bedraagt maximaal 8 jaar.
+Bij een ontslag onder toekenning van een FPU-arrangement kan tevens een proportionele (naar rato van de diensttijd) ambtsjubileumgratificatie worden toegekend conform artikel 79 ARAR. Dit geldt ook voor (gedeeltelijk) arbeidsongeschikten.
+## IV Hardheidsclausule
+In individuele gevallen waarin het hierboven onder II en III omschreven sociaal beleid tot onbillijke uitkomsten leidt, beslist de secretaris-generaal over andere of aanvullende voorzieningen.
+## Bijlage 2
+De volgende in het voorstel sociaal flankerend beleid opgenomen maatregelen kennen de daarbij aangegeven restricties/aantekeningen ten aanzien van de toepassing.
+## II Dwingendrechtelijk
+8) De indexering van het eenmalig bedrag van € 10.890,73 is niet mogelijk.
+## III Facultatieve voorzieningen
+4). Omdat ten aanzien van de afbouw van de toelage onregelmatige dienst reeds een regeling bestaat kan een hogere afbouwtoelage dan in die regeling neergelegd niet worden toegekend. Nu reeds een voorziening in de sfeer van afbouw voor de toelage onregelmatige dienst is getroffen kan niet via een 'achterdeur' (bijv. artikel 69 ARAR) meer worden toegekend.
+11) Volgens artikel 49p, tweede lid, van het ARAR stelt de vakminister de regels vast volgens welke tot afkoop kan worden overgegaan. Overleg met de betrokkene kan dus niet aan de orde zijn.
+12) Volgens artikel 49o van het ARAR kan de stimuleringspremie niet meer bedragen dan maximaal 3 maandsalarissen. Ook hier geldt dat gebruik van bijvoorbeeld artikel 69 ARAR niet mogelijk is, er is immers een specifieke voorziening.
