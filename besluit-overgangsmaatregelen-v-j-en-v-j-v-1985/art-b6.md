@@ -1,0 +1,2 @@
+# Artikel B6. Inpassing boven het maximumsalaris
+Indien het salaris van de belanghebbende bij een normbetrekking op 31 maart 1985, berekend volgens het bepaalde in artikel B3 of B4 hoger is dan het maximum van de bij zijn functie behorende maximumschaal, geschiedt de inpassing op een schaalsalaris dat zo dicht mogelijk ligt bij en tenminste gelijk is aan zijn salaris bij een normbetrekking op 31 maart 1985 en wel in de laagste schaal waarvan het maximum gelijk is aan of hoger is dan dat salaris bij een normbetrekking.

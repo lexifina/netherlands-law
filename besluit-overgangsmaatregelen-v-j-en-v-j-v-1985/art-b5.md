@@ -1,0 +1,2 @@
+# Artikel B5. Inpassing bij waarneming
+Voor de belanghebbende, bedoeld in artikel B1, die op 31 maart 1985 en op 1 april 1985 belast is met de waarmening van een wegens ziekte of anderszins afwezige belanghebbende en wiens ambtelijk inkomen op 31 maart 1985 anders dan uitsluitend door wijziging van zijn taakomvang hoger was dan het ambtelijk inkomen zonder de waarneming, wordt tevens een inpassing toegepast als bedoeld in artikel B3 dan wel B4 met inbegrip van de hem op 31 maart 1985 toekomende beloning voor de waarneming.

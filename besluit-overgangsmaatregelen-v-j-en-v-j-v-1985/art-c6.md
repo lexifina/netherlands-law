@@ -1,0 +1,2 @@
+# Artikel C6. Afgifte verklaring
+De belanghebbende ontvangt binnen twee jaar na 1 april 1985, doch uiterlijk op de datum waarop hij wordt ontslagen, een door het bevoegd gezag bij de inpassing opgestelde en door of namens Onze minister gewaarmerkte verklaring waarin het volgens dit hoofdstuk vastgestelde uitzicht gedetailleerd is aangegeven. De hier bedoelde verklaring wordt slechts eenmaal verstrekt.
