@@ -1,0 +1,3 @@
+# ARTIKEL III
+1. Deze wet treedt in werking met ingang van de eerste dag van de tweede maand na de datum van uitgifte van het Staatsblad, waarin zij wordt geplaatst met uitzondering van artikel II, onderdelen C, D, F en H, die inwerking treden op een bij koninklijk besluit te bepalen tijdstip. Op eerstbedoeld tijdstip treden tevens de artikelen 429a tot en met 429r van het Wetboek van Burgerlijke Rechtsvordering in werking voor zaken op grond van artikel 52 van de Wet op de jeugdhulpverlening. Voor die zaken geldt artikel 345 van dat Wetboek niet.
+2. De uitvoerders en voogdij- en gezinsvoogdij-instellingen treffen de in artikel 48 bedoelde regeling binnen drie maanden na de inwerkingtreding van deze wet.
