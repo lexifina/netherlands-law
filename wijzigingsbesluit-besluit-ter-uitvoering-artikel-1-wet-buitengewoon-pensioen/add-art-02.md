@@ -1,0 +1,2 @@
+# Artikel II
+Een besluit van de Pensioen- en Uitkeringsraad tot gelijkstelling als bedoeld in artikel 3 van het koninklijk besluit van 8 juli 1978, dat is genomen voor de datum van inwerkingtreding van dit besluit doch waarop op die datum door Onze Minister van Welzijn, Volksgezondheid en Cultuur een beslissing inzake zijn instemming nog niet is genomen, kan door de Pensioen- en Uitkeringsraad worden afgehandeld als ware die instemming verleend.
