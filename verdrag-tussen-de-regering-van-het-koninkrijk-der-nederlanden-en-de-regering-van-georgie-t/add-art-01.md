@@ -1,0 +1,3 @@
+# I. Ad Article 3, paragraph 1, subparagraph e
+1. It is understood that in the case of Georgia the term "company" includes an enterprise which is treated as a body corporate for tax purposes.
+2. In case an entity that is treated as a body corporate for tax purposes is liable as such to tax in a Contracting State, but the income of that entity is taxed in the other Contracting State as income of the participants in that entity, the competent authorities shall take such measures that on the one hand no double taxation remains, but on the other hand it is prevented that merely as a result of application of the Agreement income is (partly) not subject to tax.
