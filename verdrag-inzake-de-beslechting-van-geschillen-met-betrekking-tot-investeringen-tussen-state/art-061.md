@@ -1,0 +1,3 @@
+# Article 61
+(1) In the case of conciliation proceedings the fees and expenses of members of the Commission as well as the charges for the use of the facilities of the Centre, shall be borne equally by the parties. Each party shall bear any other expenses it incurs in connection with the proceedings.
+(2) In the case of arbitration proceedings the Tribunal shall, except as the parties otherwise agree, assess the expenses incurred by the parties in connection with the proceedings, and shall decide how and by whom those expenses, the fees and expenses of the members of the Tribunal and the charges for the use of the facilities of the Centre shall be paid. Such decision shall form part of the award.
