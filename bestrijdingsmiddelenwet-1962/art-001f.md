@@ -1,0 +1,4 @@
+# Artikel 1f
+1. De directeur en het personeel van het secretariaat zijn ambtenaar in de zin van de Ambtenarenwet 1929, behoudens degene met wie een arbeidsovereenkomst naar burgerlijk recht is gesloten.
+2. Onverminderd artikel 1d, tweede lid, is de rechtspositie van de directeur en het personeel van het secretariaat in overeenstemming met de regels die gelden voor ambtenaren die zijn aangesteld bij de ministeries en die behoren tot de sector Rijk, met dien verstande dat waar in deze regels een bevoegdheid is toegekend aan een andere minister dan Onze Minister van Binnenlandse Zaken, deze bevoegdheid ten aanzien van het personeel van het secretariaat wordt uitgeoefend door de directeur.
+3. Bij algemene maatregel van bestuur kan zo nodig worden afgeweken van de in het tweede lid bedoelde regels.
