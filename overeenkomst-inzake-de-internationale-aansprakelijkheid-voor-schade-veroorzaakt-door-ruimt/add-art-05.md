@@ -1,0 +1,4 @@
+# Article V
+1. Whenever two or more States jointly launch a space object, they shall be jointly and severally liable for any damage caused.
+2. A launching State which has paid compensation for damage shall have the right to present a claim for indemnification to other participants in the joint launching. The participants in a joint launching may conclude agreements regarding the apportioning among themselves of the financial obligation in respect of which they are jointly and severally liable. Such agreements shall be without prejudice to the right of a State sustaining damage to seek the entire compensation due under this Convention from any or all of the launching States which are jointly and severally liable.
+3. A State from whose territory or facility a space object is launched shall be regarded as a participant in a joint launching.

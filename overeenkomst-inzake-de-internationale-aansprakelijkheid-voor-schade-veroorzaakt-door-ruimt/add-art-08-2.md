@@ -1,0 +1,4 @@
+# Artikel VIII
+1. Een Staat die schade lijdt, of welks natuurlijke personen of rechtspersonen schade lijden, kan bij de lancerende Staat een eis tot schadevergoeding indienen.
+2. Indien de Staat waarvan de natuurlijke personen of rechtspersonen de nationaliteit bezitten, geen eis tot schadevergoeding heeft ingediend, kan een andere Staat ter zake van op zijn grondgebied door een natuurlijke persoon of rechtspersoon geleden schade bij een lancerende Staat een eis tot schadevergoeding indienen.
+3. Indien noch de Staat waarvan de natuurlijke personen of rechtspersonen de nationaliteit bezitten, noch de Staat op welks grondgebied de schade werd geleden, een eis tot schadevergoeding heeft ingediend of heeft kennis gegeven van zijn voornemen zulks te doen, kan een andere Staat ter zake van door zijn ingezetenen geleden schade bij de lancerende Staat een eis tot schadevergoeding indienen.

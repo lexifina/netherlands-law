@@ -1,0 +1,2 @@
+# Artikel III
+In geval van schade elders dan op het aardoppervlak aan een ruimtevoorwerp van een lancerende Staat of aan personen of zaken aan boord van een zodanig ruimtevoorwerp toegebracht door een ruimtevoorwerp van een andere lancerende Staat, is laatstgenoemde Staat slechts aansprakelijk indien de schade te wijten is aan zijn schuld of aan de schuld van personen waarvoor hij aansprakelijk is.

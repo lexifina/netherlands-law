@@ -1,0 +1,2 @@
+# Article XXI
+If the damage caused by a space object presents a large-scale danger to human life or seriously interferes with the living conditions of the population or the functioning of vital centres, the States Parties, and in particular the launching State, shall examine the possibility of rendering appropriate and rapid assistance to the State which has suffered the damage, when it so requests. However, nothing in this Article shall affect the rights or obligations of the States Parties under this Convention.

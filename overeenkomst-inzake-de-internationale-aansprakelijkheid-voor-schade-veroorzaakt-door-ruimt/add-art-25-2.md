@@ -1,0 +1,2 @@
+# Artikel XXV
+Iedere Staat die Partij is bij deze Overeenkomst kan voorstellen doen tot wijziging van de Overeenkomst. Wijzigingen treden voor iedere Staat die Partij is bij deze Overeenkomst en die deze aanvaardt in werking na hun aanvaarding door een meerderheid van de Staten die Partij zijn bij deze Overeenkomst, en vervolgens voor iedere overige Staat die Partij is bij deze Overeenkomst, op de datum waarop hij deze aanvaardt.

@@ -1,0 +1,2 @@
+# Artikel XII
+Het bedrag van de schadevergoeding die de lancerende Staat op grond van deze Overeenkomst dient te betalen, wordt bepaald overeenkomstig het volkenrecht en de beginselen van recht en billijkheid, en wel zodanig dat de eisende persoon - hetzij natuurlijke persoon of rechtspersoon -, de eisende Staat of de eisende internationale organisatie door de schadevergoeding wordt hersteld in de toestand die zou hebben bestaan indien de schade zich niet had voorgedaan.

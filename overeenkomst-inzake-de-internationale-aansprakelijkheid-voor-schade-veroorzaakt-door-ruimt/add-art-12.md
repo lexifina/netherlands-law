@@ -1,0 +1,2 @@
+# Article XII
+The compensation which the launching State shall be liable to pay for damage under this Convention shall be determined in accordance with the international law and the principles of justice and equity, in order to provide such reparation in respect of the damage as will restore the person, natural or juridical, State or international organisation on whose behalf the claim is presented to the condition which would have existed if the damage had not occurred.

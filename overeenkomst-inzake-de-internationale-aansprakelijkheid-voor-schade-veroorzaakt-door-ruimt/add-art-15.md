@@ -1,0 +1,3 @@
+# Article XV
+1. The Claims Commission shall be composed of three members: one appointed by the claimant State, one appointed by the launching State and the third member, the Chairman, to be chosen by both parties jointly. Each party shall make its appointment within two months of the request for the establishment of the Claims Commission.
+2. If no agreement is reached on the choice of the Chairman within four months of the request for the establishment of the Commission, either party may request the Secretary-General of the United Nations to appoint the Chairman within a further period of two months.

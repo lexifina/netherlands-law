@@ -1,0 +1,4 @@
+# Artikel V
+1. Indien twee of meer Staten gezamenlijk een ruimtevoorwerp lanceren, zijn zij hoofdelijk aansprakelijk voor veroorzaakte schade.
+2. Een lancerende Staat die schadevergoeding heeft betaald, heeft een recht van verhaal op de andere deelnemers aan de gezamenlijke lancering. De deelnemers aan een gezamenlijke lancering kunnen overeenkomsten sluiten betreffende de onderlinge verdeling van de financiële verplichtingen waarvoor zij hoofdelijk aansprakelijk zijn. Zodanige overeenkomsten laten onverlet het recht van een Staat die schade heeft geleden om de krachtens deze Overeenkomst verschuldigde vergoeding in haar geheel te vorderen van een van de lancerende Staten of van alle lancerende Staten die hoofdelijk aansprakelijk zijn.
+3. Een Staat vanaf welks grondgebied of installatie een ruimtevoorwerp wordt gelanceerd, wordt beschouwd als deelnemer aan een gezamenlijke lancering.

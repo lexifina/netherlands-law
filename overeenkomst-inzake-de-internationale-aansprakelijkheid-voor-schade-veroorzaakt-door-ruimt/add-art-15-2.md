@@ -1,0 +1,3 @@
+# Artikel XV
+1. De Schaderegelingscommissie is samengesteld uit drie leden: een lid benoemd door de eisende Staat, een lid benoemd door de lancerende Staat en het derde lid, de Voorzitter, te benoemen door beide partijen gezamenlijk. Elke partij doet zijn benoeming binnen twee maanden na het verzoek tot instelling van de Schaderegelingscommissie.
+2. Indien niet binnen vier maanden na ontvangst van het verzoek tot instelling van de Commissie overeenstemming is bereikt over de keuze van de Voorzitter, kan elk der partijen de Secretaris-Generaal van de Verenigde Naties verzoeken binnen een volgende termijn van twee maanden de Voorzitter te benoemen.

@@ -1,0 +1,7 @@
+# Artikel XXIV
+1. Deze Overeenkomst staat open voor ondertekening door alle Staten. Iedere Staat die deze Overeenkomst niet heeft ondertekend voor haar inwerkingtreding overeenkomstig het bepaalde in het derde lid van dit artikel, kan te allen tijde tot deze Overeenkomst toetreden.
+2. Deze Overeenkomst dient door de ondertekenende Staten te worden bekrachtigd. De akten van bekrachtiging en de akten van toetreding worden nedergelegd bij de Regering van de Unie van Socialistische Sowjet-Republieken, de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Regering van de Verenigde Staten van Amerika, die hierbij worden aangewezen als depotregeringen.
+3. Deze Overeenkomst treedt in werking na de nederlegging van de vijfde akte van bekrachtiging.
+4. Voor Staten welker akte van bekrachtiging of toetreding wordt nedergelegd na de inwerkingtreding van deze Overeenkomst treedt zij in werking op de datum van nederlegging van hun akte van bekrachtiging of toetreding.
+5. De depotregeringen doen terstond alle ondertekenende en toetredende Staten mededeling van de datum van iedere ondertekening, de datum van nederlegging van iedere akte van bekrachtiging van of toetreding tot deze Overeenkomst, de datum van de inwerkingtreding ervan, alsmede van andere kennisgevingen.
+6. Deze Overeenkomst wordt door de depotregeringen geregistreerd ingevolge het bepaalde in artikel 102 van het Handvest van de Verenigde Naties.

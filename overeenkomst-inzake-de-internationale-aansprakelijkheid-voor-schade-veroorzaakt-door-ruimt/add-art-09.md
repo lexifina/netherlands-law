@@ -1,0 +1,2 @@
+# Article IX
+A claim for compensation for damage shall be presented to a launching State through diplomatic channels. If a State does not maintain diplomatic relations with the launching State concerned, it may request another State to present its claim to that launching State or otherwise represent its interests under this Convention. It may also present its claim through the Secretary-General of the United Nations, provided the claimant State and the launching State are both Members of the United Nations.
