@@ -1,0 +1,3 @@
+# Article III
+1. In applying Article 16 of the Agreement, the second sentence of paragraph 4 shall not apply to self-employed persons who become disabled after December 31, 1997. Instead, persons who were self-employed at the time when incapacity followed by invalidity occurred shall have their benefits determined in accordance with the Self-employed Persons Disablement Act of April 24, 1997 (WAZ).
+2. The periods of coverage to be taken into account by the Netherlands in accordance with Article 16, paragraph 5 of the Agreement shall include periods of coverage completed under the WAZ, to the extent that these periods do not coincide with periods of coverage completed under the Disablement Insurance Act of February 18, 1966 (WAO).
