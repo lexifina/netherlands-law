@@ -1,0 +1,2 @@
+# Artikel IV
+Onverminderd het overigens in artikel 3, eerste lid, onderdeel c, van het Besluit verklaringhouders Scheepvaartverkeerswet bepaalde, zoals dat artikel komt te luiden op het tijdstip van inwerkingtreding van dit besluit, blijven getuigschriften, bedoeld in dat artikel, behaald op grond van een examen dat is afgenomen op grond van het Besluit verklaringhouders Scheepvaartverkeerswet, zoals dit luidde voor de inwerkingtreding van dit besluit, hun geldigheid behouden.
