@@ -1,0 +1,4 @@
+# Artikel 5a
+1. Het voor ro-ro-veerboten benodigde veiligheidscertificaat gaat indien die veerboten internationale reizen ondernemen vanuit of naar een haven in een lidstaat van de Europese Unie vergezeld van een aanhangsel waaruit met inachtneming van artikel 8 van richtlijn nr. 2003/25/EG van het Europees Parlement en de Raad van de Europese Unie van 14 april 2003 betreffende specifieke stabiliteitsvereisten voor ro-ro-passagiersschpen (PbEU L 123) blijkt dat wordt voldaan aan de op die veerboten toepasselijke specifieke stabiliteitscriteria van artikel 6 van die richtlijn.
+2. Artikel 9 van richtlijn nr. 2003/25/EG is van toepassing indien een rederij ro-ro-veerboten wil inzetten voor een beperkte periode.
+3. Het eerste lid is van toepassing op bestaande ro-ro-veerboten op uiterlijk het ingevolge artikel 7, tweede lid, van richtlijn nr. 2003/25/EG op die veerboten toepasselijke tijdstip.
