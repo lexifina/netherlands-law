@@ -1,0 +1,10 @@
+# ARTIKEL IV
+1. Dit besluit treedt, met uitzondering van artikel I, de onderdelen D, wat betreft artikel 2.10a, eerste lid, F en G, wat betreft artikel 4.2, tweede en derde lid, en artikel II in werking met ingang van 1 januari 1998.
+2. Artikel I, onderdeel F, treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst, en werkt terug tot en met 1 januari 1997.
+3. Artikel I, onderdeel G, wat betreft artikel 4.2, tweede lid, treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst en werkt terug tot en met 1 november 1997.
+4. Artikel I, onderdeel G, wat betreft artikel 4.2, derde lid, treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst en werkt terug tot en met 1 juli 1997.
+5. Artikel I, onderdeel D, wat betreft artikel 2.10a, eerste lid, treedt in werking met ingang van 1 januari 1998 en is voor het eerst van toepassing op de bedragen die worden vastgesteld voor het begrotingsjaar 1999.
+6. Artikel II, onderdelen B, E en H, treedt in werking met ingang van 1 januari 1999.
+7. Artikel II, onderdelen A, D en G, treedt in werking met ingang van 1 januari 1999. Artikel II, onderdelen C en F, treedt niet in werking.
+8. In afwijking van het zevende lid kan bij koninklijk besluit worden bepaald dat artikel II, onderdelen A, D en G in werking treedt met ingang van 1 januari 2000. Alvorens een voordracht te doen tot dit koninklijk besluit, legt Onze Minister van Onderwijs, Cultuur en Wetenschappen, mede namens Onze Minister van Landbouw, Natuurbeheer en Visserij het ontwerp van dit koninklijk besluit voor aan de Tweede Kamer der Staten-Generaal. De voordracht voor dit koninklijk besluit wordt niet gedaan dan nadat dertig dagen na die voorlegging zijn verstreken.
+9. Indien gebruik wordt gemaakt van de mogelijkheid, genoemd in het achtste lid, treedt artikel II, onderdelen C en F, in afwijking van het zevende lid in werking met ingang van 1 januari 1999.
