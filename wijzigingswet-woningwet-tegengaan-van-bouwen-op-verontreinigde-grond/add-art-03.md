@@ -1,0 +1,4 @@
+# ARTIKEL III
+1. Deze wet treedt in werking met ingang van de tweede dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
+2. Aanvragen om bouwvergunning, die zijn ingediend vóór de inwerkingtreding van deze wet, waarop de voorschriften omtrent het tegengaan van bouwen op verontreinigde grond ingevolge de Woningwet, zoals gewijzigd bij artikel I, onderdeel B, van deze wet, niet van toepassing zijn, worden afgedaan overeenkomstig de Woningwet, zoals gewijzigd bij artikel I, onderdeel B, van deze wet.
+3. De in de bouwverordening gegeven voorschriften omtrent het tegengaan van bouwen op verontreinigde grond, alsmede het voorschrift een onderzoeksrapportage naar de gesteldheid van de grond over te leggen, blijven buiten toepassing op aanvragen om bouwvergunning, waarop ingevolge de Woningwet, zoals gewijzigd bij artikel I, onderdeel B, van deze wet, die voorschriften niet van toepassing zijn.
