@@ -1,0 +1,2 @@
+# Artikel X
+Degene die tot lid van de commissie voor de module-examens, bedoeld in de artikelen 16, 17, 19 en 20 van de Regeling benoemingseisen examencommissieleden wordt benoemd, wordt tevens benoemd tot lid van de commissie voor de overeenkomstige module-examens die afgelegd kunnen worden op grond van artikel 14 van het Examenreglement adjunct-hoofdbrandmeester 1993 of artikel 11 van het Examenreglement hoofdbrandmeester 1993.
