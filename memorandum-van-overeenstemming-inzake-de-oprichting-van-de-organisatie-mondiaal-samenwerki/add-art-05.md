@@ -1,0 +1,4 @@
+# Article V. Entry into force
+1. This Agreement shall be open for signature by the States and Intergovernmental Organisation listed in Annex 2, having been invited by the Swedish Government, in consultation with the presiding Chair of the Global Water Partnership Network, to sign this Agreement, until 31 March 2002.
+2. This Agreement shall enter into force on the day upon which at least three signatories as referred to in paragraph 1 of this Article, including two States, have provided the Depositary with notification that the formalities required by their national legislation or their governing statutes have been completed.
+3. After the entry into force of this Agreement, any State and Intergovernmental Organisation, referred to in paragraph 1, shall become a Party to it immediately after receipt by the Depositary of notification that the formalities required by their national legislation or their governing statutes have been completed.

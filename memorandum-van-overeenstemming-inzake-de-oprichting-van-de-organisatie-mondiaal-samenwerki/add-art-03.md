@@ -1,0 +1,2 @@
+# Article III. Accession
+A State or an Intergovernmental Organisation may at any time notify the Depositary of its request to accede to this Agreement. If the request is approved by a Meeting of the Sponsoring Partners held in accordance with the Statutes, the Agreement will enter into force for that State or Intergovernmental Organisation thirty days after the date of the deposit of its instrument of accession.

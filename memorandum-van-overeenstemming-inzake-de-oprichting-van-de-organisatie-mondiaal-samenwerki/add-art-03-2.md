@@ -1,0 +1,2 @@
+# Artikel III. Toetreding
+Een Staat of een intergouvernementele organisatie kan te allen tijde de Depositaris in kennis stellen van zijn verzoek tot toetreding tot dit Memorandum. Indien het verzoek wordt ingewilligd door een overeenkomstig de Statuten gehouden Vergadering van Bijdragende Partners, treedt het Memorandum voor die Staat of intergouvernementele organisatie dertig dagen na de datum van nederlegging van haar akte van toetreding in werking.
