@@ -1,0 +1,3 @@
+# Artikel VI
+1. De Regering van de Verenigde Staten van Amerika kan een of rneer instanties aanwijzen die de bepalingen van deze Overeenkomst zullen uitvoeren en zal de Regering van het Koninkrijk der Nederlanden in kennis stellen van de aldus aangewezen instantie of instanties.
+2. Elke instantie aangewezen overeenkomstig het eerste lid wordt in Nederland gevrijwaard tegen burgerlijke rechtsvorderingen met betrekking tot handelingen verricht bij de uitvoering van deze Overeenkomst, behalve ten aanzien van een burgerlijke rechtsvordering van een derde wegens schade voortvloeiend uit een ongeval veroorzaakt door een motorrijtuig toebehorend aan, of gebruikt ten behoeve van deze instantie.

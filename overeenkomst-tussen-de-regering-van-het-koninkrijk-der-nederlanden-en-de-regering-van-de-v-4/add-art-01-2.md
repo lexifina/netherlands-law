@@ -1,0 +1,3 @@
+# Artikel I
+1. Deze Overeenkomst is van toepassing op de Amerikaanse Militaire Begraafplaats te Margraten en op de monumenten en gedenktekenen die kunnen worden geplaatst in het Europese deel van het Koninkrijk der Nederlanden, die zijn gesticht en opgericht door de Regering van de Verenigde Staten van Amerika ter ere van personeel van de Verenigde Staten van Amerika dat in de Tweede Wereldoorlog is omgekomen.
+2. De uitdrukking „personeel van de Verenigde Staten van Amerika" omvat de leden van de strijdkrachten van de Verenigde Staten, of Amerikaanse staatsburgers die omgekomen zijn terwijl zij bijdroegen tot de voortzetting van de Tweede Wereldoorlog.
