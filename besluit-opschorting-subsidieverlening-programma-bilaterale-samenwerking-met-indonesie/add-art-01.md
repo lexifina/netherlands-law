@@ -1,0 +1,2 @@
+# Artikel I
+Tot een nader door de Minister voor Ontwikkelingssamenwerking te bepalen datum zal geen subsidieverlening plaatsvinden op grond van artikel 1.1.5 van de Subsidieregeling Ministerie van Buitenlandse Zaken in het kader van het Programma Bilaterale Samenwerking met Indonesië, zoals omschreven in het besluit van de Minister voor Ontwikkelingssamenwerking van 29 april 2003, nr. DAO-0236-03, tot vaststelling van beleidsvoornemens en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken.
