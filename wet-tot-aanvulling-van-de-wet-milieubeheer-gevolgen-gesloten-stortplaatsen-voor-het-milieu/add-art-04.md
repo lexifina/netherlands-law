@@ -1,0 +1,4 @@
+# ARTIKEL IV
+1. Indien door of namens degene die een stortplaats drijft waarop titel 15.11 van de Wet milieubeheer van toepassing is, vóór de inwerkingtreding van deze wet een overeenkomst is gesloten, strekkende tot het door een derde tegen betaling doen treffen van maatregelen overeenkomstig artikel 8.49, vervalt deze overeenkomst van rechtswege, voor zover de overeenkomst op die maatregelen betrekking heeft.
+2. Deze derde is verplicht de reeds ontvangen betalingen alsmede de daarover verkregen rentebaten en beleggingsopbrengsten onder aftrek van de door hem gemaakte kosten af te dragen aan het in artikel 15.47 van de Wet milieubeheer bedoelde fonds.
+3. Op het bedrag van de met betrekking tot de desbetreffende stortplaats op te leggen heffing, bedoeld in artikel 15.44, eerste lid, van de Wet milieubeheer, wordt het in het tweede lid bedoelde eindbedrag in mindering gebracht.
