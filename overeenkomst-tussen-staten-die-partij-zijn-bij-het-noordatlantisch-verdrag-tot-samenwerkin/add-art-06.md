@@ -1,0 +1,2 @@
+# Article VI
+Other provisions of this Agreement notwithstanding, the Government of the United States of America may stipulate the degree to which any of the atomic information made available by it to the North Atlantic Treaty Organization or member states may be disseminated, may specify the categories of persons who may have access to such information, and may impose such other restrictions on the dissemination of information as it deems necessary.

@@ -1,0 +1,2 @@
+# Artikel VI
+Onverminderd de overige bepalingen van deze Overeenkomst, kan de Regering van de Verenigde Staten van Amerika bepalen in hoeverre de door genoemde Regering aan de Noordatlantische Verdragsorganisatie of aan de Lid-Staten verstrekte atoomgegevens mogen worden verspreid; zij kan voorts de categorieën personen die toegang hebben tot deze gegevens nader omschrijven en alle door haar nodig geoordeelde verdere beperkingen inzake de verspreiding van deze gegevens opleggen.

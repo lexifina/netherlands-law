@@ -1,0 +1,2 @@
+# Artikel XI
+Onverminderd de bepalingen van artikel VI (4) van de Overeenkomst tussen de Partijen bij het Noordatlantisch Verdrag, tot samenwerking inzake atoomgegevens, ondertekend te Parijs op 22 juni 1955, vervangt deze Overeenkomst bij haar inwerkingtreding de bovengenoemde Overeenkomst, met dien verstande echter dat de krachtens bovengenoemde Overeenkomst verstrekte gegevens in alle opzichten dienen te worden beschouwd als waren zij verstrekt krachtens de bepalingen van deze Overeenkomst.

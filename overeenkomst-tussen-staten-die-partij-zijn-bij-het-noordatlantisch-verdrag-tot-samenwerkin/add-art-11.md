@@ -1,0 +1,2 @@
+# Article XI
+Notwithstanding the provisions of Article VI (4) of the Agreement between the Parties to the North Atlantic Treaty for Co-operation regarding Atomic Information, signed in Paris on 22nd June, 1955, the present Agreement shall upon its entry into force supersede the above-mentioned Agreement, it being understood, however, that information communicated under that Agreement shall be considered for all purposes to have been communicated under the provisions of this Agreement.

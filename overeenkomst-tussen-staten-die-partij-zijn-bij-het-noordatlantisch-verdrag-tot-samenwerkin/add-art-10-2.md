@@ -1,0 +1,4 @@
+# Artikel X
+1. Deze Overeenkomst treedt in werking wanneer de Regering van de Verenigde Staten van Amerika van alle Partijen bij het Noordatlantisch Verdrag de kennisgeving heeft ontvangen dat zij bereid zijn zich aan de bepalingen van deze Overeenkomst te onderwerpen.
+2. De Regering van de Verenigde Staten van Amerika zal alle Partijen bij het Noordatlantisch Verdrag, evenals de Noordatlantische Verdragsorganisatie zelve, op de hoogte stellen van elke ingekomen kennisgeving, alsmede van de inwerkingtreding van deze Overeenkomst.
+3. Deze Overeenkomst blijft van kracht zolang zij niet met goedvinden van alle Partijen is beëindigd, of is vervangen door een andere overeenkomst, met dien verstande echter dat beëindiging van deze Overeenkomst als geheel geen der Partijen ontslaat van de geheimhoudingsplicht die uit deze Overeenkomst voortvloeit ten aanzien van de gegevens die krachtens deze Overeenkomst zijn verstrekt.
