@@ -1,0 +1,4 @@
+# Artikel 58af
+1. Het is verboden op een bedrijf op enig moment dierlijke meststoffen te produceren in een omvang die op jaarbasis groter is dan de mestplaatsingsruimte van dat bedrijf op het desbetreffende moment, vermeerderd met 15%.
+2. Indien ten minste 50% van de op enig moment op een bedrijf geproduceerde dierlijke meststoffen afkomstig is van dieren van een diercategorie die in bijlage E bij deze wet wordt aangeduid met nummer 200, 201, 202, 210, 300, 301, 310, 311, 312, 800, 801, of 951 geldt in afwijking van het in het eerste lid genoemde percentage een percentage van 30.
+3. Voor de toepassing van het eerste lid worden niet in aanmerking genomen de op het desbetreffende moment op het bedrijf geproduceerde dierlijke meststoffen afkomstig van dieren van een diercategorie die in bijlage E bij deze wet wordt aangeduid met nummer 600, 601, 700, 701, 702, 750, 751, 752, 900, 901, 902 of 903.

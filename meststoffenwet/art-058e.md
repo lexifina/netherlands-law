@@ -1,0 +1,5 @@
+# Artikel 58e
+1. Onze Minister kan ten aanzien van een bedrijf waarvan het pluimveerecht is overschreden bepalen dat het op enig moment op het bedrijf gehouden aantal kippen en kalkoenen het door hem vastgestelde aantal niet mag overschrijden.
+2. Het in het eerste lid bedoelde aantal komt overeen met het aantal kippen en kalkoenen dat overeenkomstig het pluimveerecht gemiddeld gedurende het jaar mag worden gehouden, vermeerderd met 15%.
+3. Onverminderd artikel 58c is het verboden op enig moment op een bedrijf een groter aantal kippen en kalkoenen te houden dan het overeenkomstig het eerste en tweede lid door Onze Minister bepaalde aantal.
+4. De in het eerste lid bedoelde bevoegdheid kan met betrekking tot een bedrijf voor een aaneengesloten periode van ten hoogste drie jaar worden uitgeoefend. Deze periode kan telkens worden verlengd met eenzelfde periode te rekenen vanaf het tijdstip waarop wordt geconstateerd dat op het bedrijf een groter aantal kippen en kalkoenen wordt gehouden dan het door Onze Minister bepaalde aantal.

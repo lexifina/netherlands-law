@@ -1,0 +1,3 @@
+# Artikel 58t
+1. Bij algemene maatregel van bestuur kunnen in afwijking van de in de artikelen 58q, derde lid, en 58s, vierde lid, genoemde percentages andere percentages worden vastgesteld. De bij de maatregel vastgestelde percentages zijn van toepassing op kennisgevingen van verplaatsing die zijn gedaan na het tijdstip van inwerkingtreding van de maatregel.
+2. Bij een algemene maatregel van bestuur als bedoeld in het eerste lid kunnen voor verschillende groepen van gevallen de percentages verschillend worden vastgesteld. Bij de maatregel kunnen omtrent de groepen van gevallen nadere regels worden gesteld.

@@ -1,0 +1,2 @@
+# Artikel 58ab
+De hoeveelheid geproduceerde dierlijke meststoffen, bedoeld in artikel 58aa, wordt vastgesteld op basis van het gemiddelde aantal in het desbetreffende kalenderjaar gehouden, uitgeschaarde of tijdelijk elders ter weiding ondergebrachte dieren van de onderscheiden diercategorieën en op basis van de forfaitaire productienormen voor de onderscheiden diercategorieën, uitgedrukt in kilogrammen stikstof per dier per jaar, die voor het desbetreffende jaar zijn opgenomen in bijlage E bij deze wet.

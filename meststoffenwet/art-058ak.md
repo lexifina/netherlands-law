@@ -1,0 +1,4 @@
+# Artikel 58ak
+1. Het is verboden in een kalenderjaar, na het tijdstip met ingang waarvan op grond van een mestafzetovereenkomst een verplichting tot het aanvoeren van dierlijke meststoffen op een bedrijf geldt, de tot het bedrijf behorende oppervlakte landbouwgrond of natuurterrein te verkleinen, of de teelt van de landbouwgrond te wijzigen.
+2. Het in het eerste lid gestelde verbod geldt niet indien na de verkleining van de oppervlakte of wijziging van de teelt, een mestaanvoerruimte resteert die ten minste zo groot is als de hoeveelheid dierlijke meststoffen waarvoor op grond van de mestafzetovereenkomst een verplichting tot aanvoer op het bedrijf geldt.
+3. De mestaanvoerruimte, bedoeld in het tweede lid, wordt berekend overeenkomstig artikel 58aj, derde lid, op basis van de na de verkleining van de oppervlakte of wijziging van de teelt aanwezige oppervlakte en teelt.

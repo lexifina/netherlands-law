@@ -1,0 +1,2 @@
+# Artikel 58ag
+De omvang van de productie van dierlijke meststoffen op jaarbasis, bedoeld in artikel 58af, wordt vastgesteld op basis van het aantal op het desbetreffende moment gehouden, uitgeschaarde of tijdelijk elders ter weiding ondergebrachte dieren van de onderscheiden diercategorieën en op basis van de forfaitaire productienormen voor de onderscheiden diercategorieën, uitgedrukt in kilogrammen stikstof per dier per jaar, die voor het desbetreffende jaar zijn opgenomen in bijlage E bij deze wet.
