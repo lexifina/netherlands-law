@@ -1,2 +1,0 @@
-# Artikel 4a. Bestemming van het budget
-Bij ministeriële regeling waarbij het budget, bedoeld in artikel 130, tweede lid, van de Werkloosheidswet, wordt bepaald, wordt tevens het deel van dat budget bepaald dat bestemd is voor het vaststellen van trajecten voor uitkeringsgerechtigden van 23 jaar of ouder binnen 12 maanden na het intreden van de werkloosheid en de daarmee verband houdende kosten van beheer en administratie door het UWV.
