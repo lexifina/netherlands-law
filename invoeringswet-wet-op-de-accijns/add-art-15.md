@@ -1,0 +1,3 @@
+# Artikel XV
+1. Op grond van de in artikel XII bedoelde wetten verleende vergunningen voor het betrekken of afleveren van goederen met vrijstelling van accijns, worden tot wederopzegging aangemerkt als bij of krachtens hoofdstuk V van de Wet op de accijns verleende vergunningen.
+2. De inspecteur onderzoekt vóór 1 januari 1993 of degenen van wie de in het eerste lid bedoelde vergunning ingevolge dat lid wordt aangemerkt als een bij of krachtens hoofdstuk V van de Wet op de accijns verleende vergunning, voldoen aan de bij of krachtens de Wet op de accijns gestelde voorwaarden voor de afgifte van de laatstbedoelde vergunning.

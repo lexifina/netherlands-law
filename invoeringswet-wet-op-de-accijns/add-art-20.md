@@ -1,0 +1,6 @@
+# Artikel XX
+1. De accijns van bier dat hier te lande wordt vervaardigd, wordt verschuldigd op het tijdstip gelegen direct na het koken van het wort.
+2. De vergunninghouder van de accijnsgoederenplaats voor bier doet, in afwijking van artikel 19 van de Algemene wet inzake rijksbelastingen, voor het einde van de maand aangifte van het in de voorafgaande maand vervaardigde aantal hectolitergraden wort en van het aantal hectolitergraden wort dat is gebezigd voor de bereiding van het bier dat in die maand is afgeleverd met vrijstelling van accijns, is uitgevoerd en is teloorgegaan.
+3. Op de over een maand verschuldigde accijns wordt in mindering gebracht de accijns over het bier dat in dezelfde maand met vrijstelling van accijns is afgeleverd, is uitgevoerd en is teloorgegaan.
+4. Het op grond van het derde lid verkregen bedrag wordt, in afwijking van artikel 19 van de Algemene wet inzake rijksbelastingen, voldaan uiterlijk de twintigste dag van de derde maand volgende op de maand waarop de aangifte betrekking heeft.
+5. Bij ministeriële regeling worden regels gesteld voor de berekening van het aantal hectolitergraden wort dat is gebezigd voor de bereiding van het bier dat is afgeleverd met vrijstelling van accijns, is uitgevoerd en is teloorgegaan.

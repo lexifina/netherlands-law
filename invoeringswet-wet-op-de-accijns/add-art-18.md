@@ -1,0 +1,10 @@
+# Artikel XVIII
+1. De accijns waaraan het hier te lande vervaardigde bier is onderworpen, wordt berekend naar het aantal hectolitergraden wort van het brouwsel en bedraagt per hectolitergraad wort:
+a. voor de eerste 800 000 hectolitergraden f 9,19;
+b. voor de hectolitergraden boven 800 000 f 10,28.
+2. Indien aan het eind van het kalenderjaar blijkt dat het aantal hectolitergraden wort in dat jaar een hoeveelheid van 90 000 niet heeft overschreden, bedraagt de accijns in afwijking van het eerste lid, per hectolitergraad wort f 8,69 en vindt herrekening plaats. De inspecteur stelt het aan de brouwer terug te geven bedrag bij beschikking vast.
+3. Bij ministeriële regeling kan, onder daarbij te stellen voorwaarden en beperkingen, worden bepaald dat het in het tweede lid vermelde tarief reeds bij de aanvang van het kalenderjaar toepassing vindt.
+4. Het aantal hectolitergraden wort is het produkt van de hoeveelheid wort bij een temperatuur van 17,5 °C en het verschil tussen de dichtheid van het wort en de dichtheid van zuiver water, beide bij die temperatuur. De hoeveelheid wordt uitgedrukt in hectoliters, met verwaarlozing van gedeelten van een hectoliter. Het verschil in dichtheid wordt uitgedrukt in graden in tienden nauwkeurig, met verwaarlozing van gedeelten van een tiende graad. Iedere graad vertegenwoordigt een honderdste gedeelte van de dichtheid van zuiver water bij een temperatuur van 17,5 °C.
+5. Het aantal hectolitergraden wort wordt uitgedrukt in een geheel getal, met verwaarlozing van gedeelten van een hectolitergraad.
+6. Voor de toepassing van het eerste en tweede lid wordt in aanmerking genomen het aantal hectolitergraden wort van de brouwsels die in dezelfde brouwerij in een kalenderjaar zijn vervaardigd.
+7. Indien de vergunninghouder van een accijnsgoederenplaats voor bier de brouwerij slechts gedurende een gedeelte van een kalenderjaar in werking heeft gehad, wordt het in het eerste en tweede lid vermelde aantal hectolitergraden wort voor dat jaar naar evenredigheid verminderd.

@@ -1,0 +1,3 @@
+# Artikel XXXI
+1. Op grond van artikel 32 van de Wet op de accijns van tabaksfabrikaten verleende vergunningen aan handelaren in ruwe tabak worden tot wederopzegging aangemerkt als op grond van artikel 82 van de Wet op de accijns verleende vergunningen.
+2. De inspecteur onderzoekt vóór 1 januari 1993 of degenen van wie de in het eerste lid bedoelde vergunning ingevolge dat lid wordt aangemerkt als een op grond van artikel 82 van de Wet op de accijns verleende vergunning, voldoen aan de krachtens artikel 82 van de Wet op de accijns voor de afgifte van de laatstbedoelde vergunning gestelde voorwaarden.
