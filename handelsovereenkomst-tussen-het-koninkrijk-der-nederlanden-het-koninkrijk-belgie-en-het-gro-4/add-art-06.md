@@ -1,0 +1,2 @@
+# Article VI
+Une Commission Mixte, composée de représentants des Gouvernements intéressés, se réunit à la demande de l'une des Parties Contractantes pour examiner les difficultés que pourrait soulever l'application du présent Accord. Elle est habilitée à présenter aux Parties Contractantes toutes propositions susceptibles de favoriser le développement des échanges commerciaux entre leurs territoires.

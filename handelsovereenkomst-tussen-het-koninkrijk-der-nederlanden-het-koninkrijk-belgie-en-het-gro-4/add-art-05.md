@@ -1,0 +1,2 @@
+# Article V
+Le règlement des paiements afférents aux échanges commerciaux entre les territoires des Parties Contractantes s'effectue conformément aux dispositions de l'Accord Monétaire Européen signé à Paris le 5 août 1955.

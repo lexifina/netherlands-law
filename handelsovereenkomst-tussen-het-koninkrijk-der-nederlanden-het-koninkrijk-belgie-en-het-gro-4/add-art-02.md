@@ -1,0 +1,2 @@
+# Article II
+Aux fins du présent Accord, sont considérés comme produits belges, produits luxembourgeois et produits néerlandais, les produits qui sont originaires de l'Union Economique Belgo-Luxembourgeoise, du Ruanda Urundi et du Royaume des Pays-Bas. Sont considérés comme produits espagnols les produits qui sont originaires du territoire espagnol de la Péninsule, Iles Baléares et Iles Canaries, Provinces espagnoles de l'Afrique et ports espagnols de l'Afrique du Nord.
