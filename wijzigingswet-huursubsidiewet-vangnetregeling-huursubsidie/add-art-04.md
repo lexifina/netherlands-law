@@ -1,0 +1,5 @@
+# ARTIKEL IV
+1. Deze wet is niet van toepassing op het subsidiejaar, bedoeld in artikel 1 onder l, van de Huursubsidiewet, dat is aangevangen op 1 juli 1997.
+2. Voor de toepassing van artikel 26c, tweede lid, van de Huursubsidiewet, geldt een inkomensdaling die heeft plaatsgevonden voor 1 juli 1998, als een inkomensdaling die per die datum heeft plaatsgevonden.
+3. In afwijking van het eerste lid, verstrekken burgemeester en wethouders over het subsidiejaar dat is genoemd in het eerste lid, ten behoeve van de toepassing van het bepaalde bij en krachtens artikel 25 van de Huursubsidiewet, zoals dat luidde voor de inwerkingtreding van artikel I, onderdeel B, van deze wet, desgevraagd aan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer de gegevens over de uitvoering van andere wetten dan de Huursubsidiewet, alsmede inzage in de stukken daarover, op de wijze als door Onze genoemde Minister bepaald.
+4. Voor het subsidiejaar dat aanvangt op 1 juli 1998, worden geen categorieën van gevallen aangewezen als bedoeld in artikel 25, eerste lid, van de Huursubsidiewet.
