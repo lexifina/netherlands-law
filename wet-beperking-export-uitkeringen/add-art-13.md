@@ -1,0 +1,4 @@
+# Artikel XIII. Overgangsbepaling Algemene Kinderbijslagwet en het recht op kinderbijslag bij wonen niet in Nederland
+Artikel 7b van de Algemene Kinderbijslagwet is gedurende drie jaren na inwerkingtreding van deze wet niet van toepassing op:
+a. de verzekerde, die over het kwartaal voorafgaand aan de dag van inwerkingtreding van deze wet, op grond van artikel 7 van de Algemene Kinderbijslagwet recht heeft op kinderbijslag en op de laatste dag van dat kwartaal niet in Nederland woont, en
+b. de verzekerde, voorzover die over het kwartaal voorafgaand aan de dag van inwerkingtreding van deze wet, op grond van artikel 7 van de Algemene Kinderbijslagwet recht heeft op kinderbijslag ten behoeve van het eigen kind, het aangehuwde kind of het pleegkind, dat op de laatste dag van dat kwartaal niet in Nederland woont.

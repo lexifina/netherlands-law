@@ -1,0 +1,2 @@
+# Artikel IX. Overgangsbepaling Wet op de arbeidsongeschiktheidsverzekering en het recht op arbeidsongeschiktheidsuitkering bij wonen niet in Nederland
+De artikelen 20, 43b, en 47a, van de Wet op de arbeidsongeschiktheidsverzekering zijn gedurende drie jaren na de dag van inwerkingtreding van deze wet niet van toepassing op de persoon, die op de dag voorafgaand aan de inwerkingtreding van deze wet, op grond van artikel 18 van de Wet op de arbeidsongeschiktheidsverzekering recht heeft op arbeidsongeschiktheidsuitkering en op die dag niet woont in Nederland.
