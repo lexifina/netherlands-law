@@ -1,0 +1,2 @@
+# Artikel 6a.8
+Het college kan op grond van artikel 6a.2, eerste lid, voor door het college te bepalen vormen van toegang de verplichting opleggen om deze toegang onder gelijke omstandigheden onder gelijke voorwaarden te verlenen. Deze verplichting houdt tevens in dat de onderneming gelijke voorwaarden toepast als die welke onder gelijke omstandigheden gelden voor haarzelf, haar dochterondernemingen of haar partnerondernemingen.

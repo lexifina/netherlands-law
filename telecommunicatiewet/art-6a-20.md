@@ -1,0 +1,7 @@
+# Artikel 6a.20
+1. In dit artikel wordt verstaan onder openbare onderneming: onderneming waarop een krachtens het publiekrecht ingestelde rechtspersoon rechtstreeks of middellijk een dominerende invloed kan uitoefenen.
+2. Indien een onderneming de rechtsvorm van een privaatrechtelijke rechtspersoon heeft, wordt dominerende invloed als bedoeld in het eerste lid vermoed te kunnen worden uitgeoefend, wanneer een krachtens het publiekrecht ingestelde rechtspersoon rechtstreeks of middellijk:
+a. over de meerderheid van de stemrechten, verbonden aan de door de rechtspersoon uitgegeven aandelen beschikt, of
+b. meer dan de helft van de leden van het bestuur of het toezichthoudend orgaan benoemt.
+3. Een verticaal geïntegreerde openbare onderneming die elektronische communicatienetwerken aanbiedt en daarbij beschikt over een economische machtspositie op de gemeenschappelijke markt of op een wezenlijk onderdeel daarvan als bedoeld in artikel 82 van het EG-verdrag, verleent aan andere ondernemingen op hun verzoek onder gelijke voorwaarden toegang als die welke onder gelijke omstandigheden gelden voor haarzelf of haar dochterondernemingen.
+4. De verplichting, bedoeld in het derde lid, blijft voor een verticaal geïntegreerde openbare onderneming buiten toepassing voor zover deze verplichting reeds voortvloeit uit een krachtens artikel 6a.2, eerste lid, jo. artikel 6a.8 door het college opgelegde of instandgehouden verplichting.

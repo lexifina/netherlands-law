@@ -1,0 +1,2 @@
+# Artikel 6a.15
+Ter uitvoering van artikel 17 van richtlijn nr. 2002/22/EG kunnen bij algemene maatregel van bestuur andere verplichtingen dan de verplichtingen, bedoeld in de artikelen 6a.12 tot en met 6a.14 worden aangewezen die het college op grond van artikel 6a.2, eerste lid, kan opleggen aan ondernemingen die een aanmerkelijke marktmacht hebben op een relevante eindgebruikersmarkt onderscheidenlijk een transnationale eindgebruikersmarkt.

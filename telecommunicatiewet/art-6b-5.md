@@ -1,0 +1,4 @@
+# Artikel 6b.5
+1. Op de voorbereiding van een besluit van het college tot het opleggen, instandhouden of intrekken van een verplichting als bedoeld in een op basis van artikel 6a.11 tot stand gekomen ministeriële regeling is de procedure, bedoeld in artikel 6b.1 van toepassing.
+2. Het college legt een ontwerp van een besluit als bedoeld in het eerste lid voor aan de Commissie van de Europese Gemeenschappen en de nationale regelgevende instanties die overeenkomstig artikel 3, zesde lid, van richtlijn nr. 2002/21/EG zijn aangemeld.
+3. Het college gaat niet over tot het nemen van een besluit als bedoeld in het eerste lid dan nadat de Commissie van de Europese Gemeenschappen daartoe overeenkomstig artikel 14, tweede lid, van richtlijn nr. 2002/19/EG toestemming heeft gegeven. Het college houdt daarbij rekening met de door de nationale regelgevende instanties gemaakte opmerkingen.

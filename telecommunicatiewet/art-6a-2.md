@@ -1,0 +1,10 @@
+# Artikel 6a.2
+1. Indien uit een onderzoek als bedoeld in artikel 6a.1, derde of vierde lid, blijkt dat een relevante markt onderscheidenlijk een transnationale markt niet daadwerkelijk concurrerend is, stelt het college vast welke ondernemingen die openbare elektronische communicatienetwerken, bijbehorende faciliteiten of openbare elektronische communicatiediensten aanbieden, beschikken over een aanmerkelijke marktmacht, en:
+a. legt hij ieder van hen, voor zover passend, verplichtingen als bedoeld in de artikelen 6a.6 tot en met 6a.10 of 6a.12 tot en met 6a.15 op;
+b. houdt hij eerder opgelegde of in stand gehouden verplichtingen, voor zover zij betrekking hebben op deze markt, in stand indien zij nog steeds passend zijn, of
+c. trekt hij eerder opgelegde of in stand gehouden verplichtingen, voor zover zij betrekking hebben op deze markt, in indien zij niet langer passend zijn.
+2. Het college legt op grond van het eerste lid, onderdeel a:
+a. verplichtingen als bedoeld in de artikelen 6a.6 tot en met 6a.10 alleen op aan ondernemingen die openbare elektronische communicatienetwerken of bijbehorende faciliteiten aanbieden;
+b. verplichtingen als bedoeld in artikel 6a.12 tot en met 6a.15 alleen op, indien de relevante markt onderscheidenlijk transnationale markt een eindgebruikersmarkt is en de verplichtingen, bedoeld in de artikelen 6a.6 tot en met 6a.11 en 6a.17 ontoereikend zijn om daadwerkelijke concurrentie te verwezenlijken of de belangen van eindgebruikers te beschermen.
+3. Een verplichting als bedoeld in het eerste lid, is passend indien deze gebaseerd is op de aard van het op de desbetreffende markt geconstateerde probleem en in het licht van de doelstellingen van artikel 1.3 proportioneel en gerechtvaardigd is.
+4. Bij de beoordeling of het opleggen van een verplichting om te voldoen aan redelijke verzoeken tot toegang als bedoeld in artikel 6a.6 passend is, houdt het college met name rekening met de factoren, bedoeld in artikel 12, tweede lid, van richtlijn nr. 2002/19/EG.

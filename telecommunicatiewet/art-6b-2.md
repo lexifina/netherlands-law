@@ -1,0 +1,9 @@
+# Artikel 6b.2
+1. Indien een besluit als bedoeld in artikel 6b.1, eerste lid, van invloed is op de handel tussen de lidstaten, legt het college het ontwerp van het desbetreffende besluit en de gronden die aan het ontwerpbesluit ten grondslag liggen, voor aan de Commissie van de Europese Gemeenschappen en aan de nationale regelgevende instanties, bedoeld in artikel 7 van richtlijn nr. 2002/21/EG en stelt het college hen gedurende een maand in de gelegenheid daarover opmerkingen te maken.
+2. Het college neemt het besluit niet dan nadat de in het eerste lid bedoelde termijn van een maand is verstreken.
+3. Het college houdt bij het nemen van het besluit zoveel mogelijk rekening met de opmerkingen die de Commissie van de Europese Gemeenschappen en de nationale regelgevende instanties met betrekking tot het ontwerp aan het college hebben medegedeeld.
+4. Indien de Commissie van de Europese Gemeenschappen binnen de termijn, bedoeld in het tweede lid, heeft medegedeeld dat zij van mening is dat het voorgelegde ontwerpbesluit een belemmering vormt voor de interne Europese markt of dat zij ernstige twijfels heeft omtrent de verenigbaarheid van het ontwerpbesluit met het Gemeenschapsrecht, wacht het college tenminste twee maanden vanaf de datum van die mededeling met het vaststellen van zijn besluit.
+5. Indien de Commissie van de Europese Gemeenschappen overeenkomstig artikel 7, vierde lid, van richtlijn nr. 2002/21/EG een beschikking heeft gegeven:
+a. brengt het college het ontwerp met betrekking tot de door de Commissie in de beschikking aangegeven voorstellen in overeenstemming met het Gemeenschapsrecht, of
+b. besluit het college het desbetreffende ontwerpbesluit niet vast te stellen. Van dit besluit wordt mededeling gedaan in de Staatscourant.
+6. Het college stuurt een overeenkomstig dit artikel voorbereid besluit in afschrift aan de Commissie van de Europese Gemeenschappen.
