@@ -1,0 +1,2 @@
+# Artikel XIX
+Het onderhavige Verdrag zal gedurende een tijdvak van tenminste vijf jaren van kracht blijven. Daarna zal het, indien het niet door één der Verdragsluitende Regeringen tenminste zes maanden vóór de afloop van dat tijdvak is opgezegd, van kracht blijven totdat zes maanden zullen zijn verlopen na de datum, waarop één der Verdragsluitende Regeringen van de opzegging heeft kennis gegeven.

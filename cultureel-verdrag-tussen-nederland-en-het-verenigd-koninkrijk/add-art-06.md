@@ -1,0 +1,2 @@
+# Artikel VI
+De Verdragsluitende Regeringen zullen onderzoeken onder welke voorwaarden zowel examens, die toegang geven tot voortgezette studie als die ter verkrijging van een graad, op het grondgebied van een harer afgelegd, op het grondgebied van de ene kunnen worden erkend voor wat betreft academische, en, in gevallen die zich daartoe lenen, beroepsdoeleinden, gelijkwaardig te zijn aan de overeenkomstige op het andere grondgebied geldende examens.

@@ -1,0 +1,2 @@
+# Artikel I
+Ieder der Verdragsluitende Regeringen zal haar beste krachten inspannen om aan universiteiten of andere instellingen van hoger onderwijs op haar grondgebied de oprichting te verwezenlijken van leerstoelen of lectoraten voor de taal, letterkunde en geschiedenis van het grondgebied van de andere Verdragsluitende Regering, alsmede voor andere leervakken, op dat gebied betrekking hebbende.

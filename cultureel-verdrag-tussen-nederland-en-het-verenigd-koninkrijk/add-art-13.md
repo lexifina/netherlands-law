@@ -1,0 +1,5 @@
+# Artikel XIII
+(1) Eén van de eerste werkzaamheden van de Gemengde Commissie zal zijn, in een voltallige vergadering voorstellen te ontwerpen en uit te werken voor de uitvoering van het onderhavige Verdrag. Deze voorstellen zullen, na goedkeuring door de Verdragsluitende Regeringen, geacht worden een Bijlage te zijn van het onderhavige Verdrag. De goedkeuring van de Verdragsluitende Regeringen zal worden kenbaar gemaakt door uitwisseling van nota's.
+(2) Daarna zal de Gemengde Commissie de wijze waarop het Verdrag functionneert onder het oog zien en aan de Verdragsluitende Regeringen die wijzigingen in de Bijlage voorstellen, die nodig mochten worden geacht.
+(3) Wijzigingen in de Bijlage kunnen ook door elk der afdelingen, mits met toestemming van de andere, in de tijd tussen de vergaderingen van de permanente Gemengde Commissie worden voorgesteld.
+(4) Wijzigingen in de Bijlage zullen van kracht worden na goedkeuring door de Verdragsluitende Regeringen. Een zodanige goedkeuring zal worden kenbaar gemaakt door uitwisseling van nota's.

@@ -1,0 +1,2 @@
+# Artikel VII
+Ieder der Verdragsluitende Regeringen zal de instelling bevorderen van vacantiecursussen, bestemd voor docenten en ander personeel van instellingen van hoger onderwijs, leraren en onderwijzers, studenten en scholieren (a) van het grondgebied van de andere Verdragsluitende Regering op het grondgebied van de ene, en (b) van haar eigen grondgebied op dat van de andere Verdragsluitende Regering.

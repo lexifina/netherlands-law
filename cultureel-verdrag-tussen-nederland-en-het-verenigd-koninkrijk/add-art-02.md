@@ -1,0 +1,2 @@
+# Artikel II
+Aan ieder der Verdragsluitende Regeringen zal worden toegestaan, op het grondgebied van de andere culturele instellingen te vestigen, mits met inachtneming der algemene door de ter plaatse geldende wetten gestelde voorschriften inzake de vestiging van dergelijke instellingen. Onder de benaming „instelling" zijn begrepen scholen, bibliotheken en filmcollecties, die zich bewegen op de gebieden waarmede het onderhavige Verdrag bemoeienis heeft.

@@ -1,0 +1,4 @@
+# Artikel XV
+(1) Zolang het onderhavige Verdrag van kracht is kan ieder der Verdragsluitende Regeringen de bepalingen daarvan op ieder tijdstip door middel van een kennisgeving langs de diplomatieke weg gericht tot de andere Verdragsluitende Regering, tevens doen gelden voor elk overzees gebiedsdeel, elke kolonie, elk protectoraat, of elk gebied onder mandaat of beheer, door haar bestuurd.
+(2) De toepassing van het Verdrag op elk grondgebied, waarvoor het door een kennisgeving overeenkomstig het vorige lid is geldig verklaard, kan worden beëindigd door een kennisgeving langs de diplomatieke weg.
+(3) De toepassing van de bepalingen van het Verdrag, op elk grondgebied, waarvoor het Verdrag krachtens lid 1 is geldig verklaard, zal in ieder geval ophouden bij het beëindigen van het Verdrag krachtens het bepaalde bij artikel XIX.
