@@ -1,2 +1,0 @@
-# Artikel 10a
-In geval van tenuitvoerlegging in Nederland van een veroordeling door een andere dan de Nederlandse rechter gewezen vangt de in artikel 7 bedoelde termijn aan op de dag na die, waarop die veroordeling onherroepelijk is geworden. De duur van de termijn wordt bepaald aan de hand van de bij de uitspraak of beslissing, krachtens welke de bovenbedoelde veroordeling in Nederland kan worden ten uitvoer gelegd, opgelegde of uitvoerbaar geworden straf of maatregel.
