@@ -1,0 +1,2 @@
+# Article II. Membership
+Members of the Commission shall be such Member Nations and Associate Members of the Organization, as may accept this Constitution in accordance with the provisions of Article VIII hereof. As regards Associate Members, the Constitution of the Commission shall in accordance with the provision of Article XIV-5 of the Constitution of the Organization and Rule XXI-3 of the General Rules of the Organization be submitted by the Organization to the authority having responsibility for the international relations of such Associate Members.

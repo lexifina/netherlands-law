@@ -1,0 +1,2 @@
+# Article IX. Territorial Application
+The Members of the Commission shall, when accepting this Constitution, state explicitly to which territories their participation shall extend. In the absence of such a declaration, participation shall be deemed to apply to all the territories for the international relations of which the Member is responsible. Subject to the provisions of Article XII-2 below, the scope of the territorial application may be modified by a subsequent declaration.
