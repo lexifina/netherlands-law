@@ -1,0 +1,4 @@
+# Artikel 14d. [Vervallen.]
+1. De Hoge Raad stelt de verzoeker en de ambtenaar op wiens gedraging het verzoekschrift betrekking heeft in de gelegenheid naar aanleiding van de vordering van de procureur-generaal, al dan niet in elkaars tegenwoordigheid, te worden gehoord.
+2. Het onderzoek geschiedt in raadkamer. Het college kan, hetzij op verzoek van de procureur-generaal, hetzij op verzoek van een der in het eerste lid bedoelde personen, hetzij ambtshalve getuigen horen.
+3. De Hoge Raad stelt het bestuur van het gerechtshof onderscheidenlijk de rechtbank in de gelegenheid omtrent een aanhangige klacht schriftelijk of mondeling inlichtingen te verstrekken en van zijn gevoelen daaromtrent te doen blijk geven, indien de klacht is gericht tegen een rechterlijk ambtenaar met rechtspraak belast, werkzaam bij dat gerechtshof onderscheidenlijk die rechtbank.
