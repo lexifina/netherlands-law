@@ -1,0 +1,2 @@
+# Art. I
+De Nederlandsche schepen, welke, van waar ook komende, in ballast of geladen in de havens van een der Vereenigde Koningrijken in Europa kinnen komen, zullen zoowel bij het in- als bij het uitgaan, behandeld worden op denzelfden voet als de nationale schepen, wat betreft de haven-, tonne- baken- en loodsgelden, alsmede alle andere regten of lasten, van welken aard of benaming ook, welke ten voordeele der kroon, van steden of van eenige bijzondere instellingen worden geheven.

@@ -1,0 +1,3 @@
+# Art. VI
+Les navires des hautes parties contractantes, qui s'arrêteraient dans un des ports des Etats respectifs, soit en cas de relâche forcée, ou pour y passer l'hiver, soit pour y prendre des ordres et qui en sortiront sans s'être livrés à aucune opération de commerce, seront exempts des droits de tonnage. Quant aux autres droits auxquels les navires sont assujettis, ils seront traités sur le pied des nationaux.
+Ni le débarquement temporaire de marchandises, soit pour la réparation du navire, soit pour lui procurer un emplacement plus sûr, ni l'achat de provisions pour le ravitaillement des équipages ou du navire ne seront considérés comme opération de commerce.

@@ -1,0 +1,2 @@
+# Art. VIII
+Le présent traité restera en vigueur pendant cinq années, à dater du jour de l'échange des ratifications, et si, douze mois, avant l'expiration de ce terme, ni l'une ni l'autre des hautes parties contractantes n'annonce par une déclaration officielle son intention d'en faire cesser l'effet, le traité continuera d'être obligatoire pendant un an au-delà de ce terme, et ainsi de suite d'année en année.

@@ -1,0 +1,2 @@
+# Art. I
+Les bâtiments Néerlandais qui arrivent sur leur lest ou chargés, de quel pays que ce soit, dans les ports des Royaumes Unis, en Europe, seront traités, tant à leur entrée qu' à leur sortie, sur le même pied que les bâtiments nationaux, par rapport aux droits de port, de tonnage, de fanaux et de pilotage, ainsi qu' à tout autre droit ou charge, de quelle espèce ou dénomination que ce soit, revenant à la couronne, aux villes ou à des établissements particuliers quelconques.

@@ -1,0 +1,2 @@
+# Art. VII
+De hooge contracterende partijen zijn overeengekomen, om als Nederlandsche, Zweedsche en Noorweegsche schepen te erkennen en te behandelen, alle dezulken, die voorzien zullen zijn van een der door de bevoegde magten afgegeven paspoort, zeebrief of zoodanige andere documenten, als ter voldoening aan de wetten en reglementen der respective landen vereischt worden, om van de nationaliteit en scheepsruimte der vaartuigen te doen blijken.

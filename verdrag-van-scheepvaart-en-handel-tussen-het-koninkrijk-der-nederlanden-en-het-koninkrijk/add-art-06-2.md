@@ -1,0 +1,3 @@
+# Art. VI
+De schepen der hooge contracterende partijen, zich in eene der havens van de respective Staten ophoudende, hetzij in geval van binnenvallen uit nood, of om er den winter door te brengen, of wel om orders te halen, en dezelve weder verlatende, zonder eenige daad van koophandel verrigt te hebben, zullen van tonnengelden vrijgesteld worden. Zij zullen ten opzigte der andere regten, aan welke schepen onderworpen zijn, behandeld worden op den voet der nationalen.
+Noch het tijdelijk lossen van koopwaren, hetzij ter herstelling van het schip, hetzij om aan hetzelve eene veiliger ligplaats te bezorgen, noch de aankoopen, ter weder aanvulling der leeftogt voor de bemanning, of van andere scheepsbehoeften, zullen als daden van koophandel beschouwd worden.

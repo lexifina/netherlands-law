@@ -1,0 +1,2 @@
+# Art. VIII
+Het tegenwoordige verdrag zal van kracht blijven gedurende vijf jaren, gerekend van den dag van de uitwisseling der ratificatien, en wanneer twaalf maanden vóór het verschijnen van dezen tijd, noch de eene noch de andere der hooge contracterende partijen, bij eene officiele verklaring haar voornemen bekend maakt, om de werking er van te doen ophouden, zal het verdrag weder voor één jaar langer van kracht blijven, en zoo vervolgens van jaar tot jaar.

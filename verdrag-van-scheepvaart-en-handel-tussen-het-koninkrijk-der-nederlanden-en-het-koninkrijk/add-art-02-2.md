@@ -1,0 +1,2 @@
+# Art. II
+Wederkeerig zullen de Zweedsche of Noorweegsche schepen, welke, van waar ook komende, in ballast of geladen in de havens van het Koningrijk der Nederlanden in Europa, binnen komen, zoo wel bij het in- als bij het uitgaan, op denzelfden voet behandeld worden als de Nederlandsche schepen, wat betreft de haven- tonne- baken- en loodsgelden, alsmede alle andere regten of lasten, van welken aard of benaming ook, welke ten voordeele der kroon, van steden, of van eenige bijzondere instellingen geheven worden.

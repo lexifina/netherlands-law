@@ -1,0 +1,2 @@
+# Art. II
+Réciproquement les bâtiments Suédois ou Norvégiens qui arrivent sur leur lest ou chargés, de quel pays que ce soit, dans les ports des Pays-Bas en Europe, seront traités tant à leur entrée qu'à leur sortie sur le même pied que les bâtiments Néerlandais, par rapport aux droits de port, de tonnage, de fanaux ou de pilotage, ainsi qu'à tout autre droit ou charge de quelle espèce ou dénomination que ce soit, revenant à la couronne, aux villes ou à des établissements particuliers quelconques.

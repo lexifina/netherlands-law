@@ -1,0 +1,2 @@
+# Art. V
+Alle premien, vrijstellingen of teruggave van regten, hoe ook genaamd, toegestaan aan de nationale schepen, of aan koopwaren onder nationale vlag, in de staten van eene der hooge partijen in- of uitgevoerd wordende, zullen insgelijks toegekend worden aan de schepen van de andere partij, en aan de koopwaren door hen in- of uitgevoerd wordende, in al de gevallen bedoeld bij de artikelen I-IV.
