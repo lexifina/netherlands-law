@@ -1,0 +1,2 @@
+# Artikel XVIII
+In afwijking van het bepaalde in de besluiten die zijn genoemd in de artikelen XI tot en met XV geldt een in een zodanig besluit opgenomen verbod tot verhandelen van een produkt waarop dat besluit betrekking heeft tot en met 31 december 1996 niet voor een zodanig produkt dat in overeenstemming is met de bij of krachtens dat besluit, zoals het luidde onmiddellijk voorafgaand aan de wijziging ingevolge dit besluit, gestelde voorschriften.
