@@ -1,3 +1,0 @@
-# Artikel 31A
-1. De Octrooiraad kan met betrekking tot hem aan te bieden stukken betreffende een aanvrage om octrooi of een octrooi, niet zijnde stukken als bedoeld in paragraaf 6A, alsmede met betrekking tot hem aan te bieden modellen en monsters nadere voorschriften vaststellen. Deze voorschriften kunnen standaardformulieren voor vorenbedoelde stukken inhouden.
-2. De in het eerste lid bedoelde voorschriften worden bekendgemaakt in het in artikel 38 bedoelde blad, behoudens voor wat standaardformulieren betreft. Exemplaren daarvan zijn bij het Bureau voor de industriële eigendom verkrijgbaar en worden door dit bureau toegezonden aan de in artikel 59 van de Rijksoctrooiwet bedoelde bureaus.

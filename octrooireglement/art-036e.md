@@ -1,2 +1,0 @@
-# Artikel 36E
-Op verzoek worden aan daarop rechthebbenden bewijzen van het recht van voorrang, berustend op een in Nederland ingediende aanvrage, verstrekt tegen betaling van een bedrag van € 5 per bewijs, vermeerderd met een met inachtneming van het in artikel 36D, eerste lid, bepaalde vastgesteld bedrag, indien een afschrift van de bij een aanvrage om octrooi behorende beschrijving en tekeningen deel uitmaakt van het bewijs.

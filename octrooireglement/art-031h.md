@@ -1,4 +1,0 @@
-# Artikel 31H
-1. De bij artikel 17A, onder a, vastgestelde toezendingstaks moet binnen een maand na de datum van ontvangst van de aanvrage bij de Octrooiraad zijn gestort bij het Bureau voor de industriële eigendom.
-2. De internationale taks en de taks voor het nieuwheidsonderzoek, bedoeld in Regel 15 onderscheidenlijk Regel 16 van het bij het Samenwerkingsverdrag behorende Reglement, moeten aan het Bureau voor de industriële eigendom worden betaald in euro.
-3. Indien op de datum van ontvangst van de aanvrage geen basistaks of taks voor het nieuwheidsonderzoek is ontvangen of het ontvangen bedrag niet toereikend is, stelt de Octrooiraad de aanvrager daarvan in kennis en deelt hem mede, dat de betrokken taks alsnog binnen een maand na de datum van ontvangst kan worden betaald zonder tenietgaan van de dagtekening van het internationale depot.

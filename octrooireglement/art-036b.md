@@ -1,3 +1,0 @@
-# Artikel 36B
-1. De uitgifte van de bij een openbaargemaakte aanvrage om octrooi behorende beschrijving en tekeningen krachtens artikel 25, tweede lid, van de Rijksoctrooiwet geschiedt met vermelding van het tijdstip en het volgnummer van de openbaarmaking, van het tijdstip van de terinzagelegging krachtens artikel 22C van die rijkswet en van de in artikel 16 van dit reglement bedoelde gegevens.
-2. De uitgifte van het octrooischrift krachtens artikel 28, tweede lid, van de Rijksoctrooiwet geschiedt met vermelding van de dagtekening van het octrooi en het nummer, waaronder van de verlening daarvan aantekening in het octrooiregister is gedaan, alsmede van de in het eerste lid bedoelde gegevens.
