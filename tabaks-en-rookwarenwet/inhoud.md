@@ -1,7 +1,11 @@
 # Inhoud
 ## § 1. Begripsbepalingen
-## § 2. Aanduiding, samenstelling en verbod tabaksprodukten
-## § 3. Reclame
-## § 4. Verstrekking aan particulieren
-## § 5. Bepalingen ten aanzien van het gebruik van tabaksprodukten
-## § 6. Verdere bepalingen
+## § 2. Aanduiding, samenstelling en verbod tabaksproducten
+## § 3. Reclame- en sponsoringbeperkingen
+## § 4. Verkoopbeperkingen
+## § 5. Rookverboden
+## § 6. Bestuurlijke boeten
+## § 7. Verdere bepalingen
+## Categorie A
+## Categorie B
+## Categorie C
