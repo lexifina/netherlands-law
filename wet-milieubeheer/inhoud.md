@@ -38,7 +38,7 @@
 #### Afdeling 8.1.3. Bijzondere gevallen
 ##### § 8.1.3.1. Algemeen
 ##### § 8.1.3.2. Gevallen waarin mede een vergunning krachtens de Wet verontreiniging oppervlaktewateren vereist is
-##### § 8.1.3.3. Gevallen waarin bepaalde afvalstoffen worden verwijderd
+##### § 8.1.3.3. Gevallen waarin afvalstoffen op een bepaalde wijze nuttig worden toegepast of worden verwijderd
 ### Titel 8.2. Algemene regels
 #### § 8.2.1. Regels voor niet-vergunningplichtige inrichtingen
 #### § 8.2.2. Regels voor vergunningplichtige inrichtingen
@@ -46,25 +46,17 @@
 ## Hoofdstuk 9. Stoffen en produkten
 ## Hoofdstuk 10. Afvalstoffen
 ### Titel 10.1. Algemeen
-### Titel 10.2. Preventieve maatregelen
-### Titel 10.3. Het verwijderen van afvalstoffen direct na het ontstaan ervan
-### Titel 10.4. De verwijdering van huishoudelijke afvalstoffen, afvalwater, autowrakken en bedrijfsafvalstoffen
-#### § 10.4.1. Het zich ontdoen door afgifte en de inzameling van huishoudelijke afvalstoffen
-#### § 10.4.2. Het zich ontdoen, de inzameling en het transport van afvalwater
-#### § 10.4.3. Het aanwezig hebben en de afgifte van autowrakken
-#### § 10.4.4. Het zich ontdoen door afgifte van bedrijfsafvalstoffen en van ingezamelde of afgegeven huishoudelijke afvalstoffen
-#### § 10.4.5. De melding inzake de afgifte en ontvangst van bedrijfsafvalstoffen en van ingezamelde of afgegeven huishoudelijke afvalstoffen
-#### § 10.4.6. Het inzamelen van bedrijfsafvalstoffen en van ingezamelde of afgegeven huishoudelijke afvalstoffen
-#### § 10.4.7. Het in-, uit- en doorvoeren van huishoudelijke afvalstoffen, autowrakken en bedrijfsafvalstoffen
-#### § 10.4.8. De verdere verwijdering van autowrakken, van bedrijfsafvalstoffen en van ingezamelde of afgegeven huishoudelijke afvalstoffen
-### Titel 10.5. De verwijdering van gevaarlijke afvalstoffen
-#### § 10.5.1. Het zich ontdoen door afgifte van gevaarlijke afvalstoffen
-#### § 10.5.2. De melding inzake de afgifte en ontvangst van gevaarlijke afvalstoffen
-#### § 10.5.3. Het inzamelen van gevaarlijke afvalstoffen
-#### § 10.5.4. Het in-, uit- en doorvoeren van gevaarlijke afvalstoffen
-#### § 10.5.5. De verdere verwijdering van gevaarlijke afvalstoffen
-### Titel 10.5a. Het overbrengen van afvalstoffen binnen, naar en uit de Europese Gemeenschap
-### Titel 10.6. Verdere bepalingen
+### Titel 10.2. Het afvalbeheersplan
+### Titel 10.3. Preventie en nuttige toepassing
+### Titel 10.4. Het beheer van huishoudelijke en andere afvalstoffen
+### Titel 10.5. Het zich ontdoen, de inzameling en het transport van afvalwater
+### Titel 10.6. Het beheer van bedrijfsafvalstoffen en gevaarlijke afvalstoffen
+#### § 10.6.1. De afgifte en ontvangst van bedrijfsafvalstoffen en gevaarlijke afvalstoffen
+#### § 10.6.2. Het vervoer van bedrijfsafvalstoffen en gevaarlijke afvalstoffen
+#### § 10.6.3. De inzameling van bedrijfsafvalstoffen en gevaarlijke afvalstoffen
+#### § 10.6.4. Verdere bepalingen omtrent het beheer van bedrijfsafvalstoffen en gevaarlijke afvalstoffen
+### Titel 10.7. Het overbrengen van afvalstoffen binnen, naar en uit de Europese Gemeenschap
+### Titel 10.8. Verdere bepalingen
 ## Hoofdstuk 11. Andere handelingen
 ## Hoofdstuk 12. Verslag-, registratie- en meetverplichtingen
 ### Titel 12.1. Milieuverslaglegging
@@ -96,7 +88,7 @@
 ### Titel 15.8. Statiegeld, retourpremies
 ### Titel 15.9. Heffingen op gemeentelijk en provinciaal niveau
 ### Titel 15.9A. Rechten
-### Titel 15.10. Verwijderingsbijdragen
+### Titel 15.10. Afvalbeheersbijdragen
 ### Titel 15.11. Financiering van de zorg voor gesloten stortplaatsen
 ## Hoofdstuk 16. Financiële zekerheid
 ## Hoofdstuk 17. Maatregelen in bijzondere omstandigheden
