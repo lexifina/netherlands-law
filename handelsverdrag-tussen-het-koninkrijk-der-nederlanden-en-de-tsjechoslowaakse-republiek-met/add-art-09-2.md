@@ -1,0 +1,2 @@
+# IX
+Dit verdrag zal bekrachtigd worden en de akten van bekrachtiging zullen zoodra mogelijk te Praag worden uitgewisseld. Het zal in werking treden vijftien dagen na de uitwisseling der akten van bekrachtiging en zal van kracht blijven gedurende een jaar te rekenen van den dag zijner inwerkingtreding, met stilzwijgende verlenging telkenmale voor eenzelfde periode, tenzij het door een der Hooge Verdragsluitende Partijen ten minste zes maanden vóór den afloop mocht zijn opgezegd.

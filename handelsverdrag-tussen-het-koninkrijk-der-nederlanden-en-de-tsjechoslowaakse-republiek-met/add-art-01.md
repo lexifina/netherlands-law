@@ -1,0 +1,4 @@
+# I
+1. Les ressortissants de chacune des Hautes Parties Contractantes seront traités sur le territoire de l'autre Partie sous tous les rapports et notamment en ce qui concerne l'établissement et l'exercise du commerce, de l'industrie et de la navigation, leur situation juridique, leurs biens mobiliers et immobiliers, leurs droits et intérêts, aussi avantageusement que les ressortissants de la nation la plus favorisée.
+2. Ils seront libres de régler leurs affaires sur le territoire de l'autre Partie, soit personellement, soit par un intermédiaire de leur propre choix, sans être soumis à cet égard à d'autres restrictions que celles prévues par les lois et règlements en vigueur dans le territoire respectif.
+3. Ils n'auront à payer pour l'exercice de leur commerce, de leur industrie et de leur navigation sur le territoire de l'autre Partie aucun impôt, taxe ou droit autres ou plus élevés que ceux qui sont perçus des nationaux.
