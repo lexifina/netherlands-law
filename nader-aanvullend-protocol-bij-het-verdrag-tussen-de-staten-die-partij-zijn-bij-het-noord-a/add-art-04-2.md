@@ -1,0 +1,2 @@
+# Artikel IV
+Voor de uitvoering van dit Protocol ten aanzien van aangelegenheden waarbij Partnerschapsstaten zijn betrokken, worden de bepalingen van het Protocol van Parijs waarin wordt bepaald dat geschillen moeten worden voorgelegd aan de Noordatlantische Raad, zodanig uitgelegd dat van de betrokken Partijen wordt verlangd dat zij onderling of met elkaar onderhandelingen voeren zonder zich tot een externe rechterlijke instantie te wenden.

@@ -1,0 +1,3 @@
+# Artikel VI
+Dit Protocol kan door elke Partij daarbij worden opgezegd door een schriftelijke kennisgeving van opzegging aan de Regering van de Verenigde Staten van Amerika, die alle ondertekenende Staten van elke opzegging mededeling zal doen.
+De opzegging wordt van kracht één jaar na ontvangst van de kennisgeving van opzegging door de Regering van de Verenigde Staten van Amerika. Behoudens de regeling van uitstaande vorderingen ontstaan vóór de dag waarop de opzegging van kracht wordt, is dit Protocol na afloop van de termijn van één jaar niet meer van kracht voor de opzeggende Partij, maar blijft het van kracht voor de overige Partijen.

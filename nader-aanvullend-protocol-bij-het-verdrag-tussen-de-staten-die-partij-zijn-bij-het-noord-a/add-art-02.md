@@ -1,0 +1,2 @@
+# Article II
+Without prejudice to the rights of States which are Members of NATO or participants in the Partnership for Peace but which are not Parties to the present Protocol, the Parties hereto shall apply provisions identical to those set forth in the Paris Protocol, except as modified in the present Protocol, with respect to the activities of NATO military headquarters and their military and civilian personnel carried out in the territory of a Party hereto.
