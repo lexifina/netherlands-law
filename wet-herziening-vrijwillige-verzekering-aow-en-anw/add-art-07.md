@@ -1,0 +1,2 @@
+# ARTIKEL VII. Overgangsbepaling
+De perioden van maximaal tien jaar, bedoeld in de artikelen 35, eerste lid, van de Algemene Ouderdomswet en 63a, eerste lid, van de Algemene nabestaandenwet, zijn niet van toepassing op degene die voor de datum van inwerkingtreding van deze wet reeds vrijwillig verzekerd was voor de Algemene Ouderdomswet of de Algemene nabestaandenwet ten aanzien van de op die datum bestaande vrijwillige verzekering.
