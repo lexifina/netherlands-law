@@ -1,0 +1,2 @@
+# Artikel I
+Voor materialen van dierlijke herkomst als bedoeld in artikel 21a van het Keuringsregulatief (Stcrt. 1978, 201) wordt ontheffing verleend van de in artikel 12 van de destructiewet (Stb. 1957, 84) bedoelde verplichting, onder voorwaarde dat vernietiging van dit materiaal plaats vindt door middel van verbranding in een draaitrommeloven met rookgasreiniging of in een gelijkwaardige verbrandingsinstallatie.
