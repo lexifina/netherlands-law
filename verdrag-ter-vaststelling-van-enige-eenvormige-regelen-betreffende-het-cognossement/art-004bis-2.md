@@ -1,0 +1,5 @@
+# Artikel 4bis
+1. De ontheffingen en beperkingen van aansprakelijkheid als voorzien in dit Verdrag zijn van toepassing op iedere vordering tegen de vervoerder strekkende tot vergoeding van verlies van of schade aan goederen waarop een vervoerovereenkomst betrekking heeft, ongeacht of de vordering wordt gegrond op de aansprakelijkheid uit overeenkomst dan wel op aansprakelijkheid buiten overeenkomst.
+2. Wordt een zodanige vordering ingesteld tegen een ondergeschikte van de vervoerder, dan kan deze ondergeschikte zich beroepen op de ontheffingen en beperkingen van aansprakelijkheid waarop de vervoerder zich op grond van het Verdrag kan beroepen.
+3. Het totaal van de bedragen, verhaalbaar op de vervoerder en zijn ondergeschikten, overtreft in dit geval niet de in dit Verdrag bepaalde grens.
+4. De ondergeschikte kan zich evenwel niet beroepen op de bepalingen van dit artikel, wanneer bewezen is dat de schade is ontstaan uit een handeling of nalaten van deze ondergeschikte, geschied hetzij met het opzet schade te veroorzaken, hetzij roekeloos en met het bewustzijn dat schade er waarschijnlijk uit zou voortvloeien.

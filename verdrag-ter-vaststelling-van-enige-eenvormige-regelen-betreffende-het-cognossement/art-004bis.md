@@ -1,0 +1,5 @@
+# Article 4bis
+1. Les exonérations et limitations prévues par la présente Convention sont applicables à toute action contre le transporteur en réparation de pertes ou dommages à des marchandises faisant l'objet d'un contrat de transport, que l'action soit fondée sur la responsabilité contractuelle ou sur une responsabilité extra-contractuelle.
+2. Si une telle action est intentée contre un préposé du transporteur, ce préposé pourra se prévaloir des exonérations et des limitations de responsabilité que le transporteur peut invoquer en vertu de la Convention.
+3. L'ensemble des montants mis à charge du transporteur et de ses préposés ne dépassera pas dans ce cas la limite prévue par la présente Convention.
+4. Toutefois le préposé ne pourra se prévaloir des dispositions du présent article, s'il est prouvé que le dommage résulte d'un acte ou d'une omission de ce préposé qui a eu lieu soit avec l'intention de provoquer un dommage, soit témérairement et avec conscience qu'un dommage en résulterait probablement.
