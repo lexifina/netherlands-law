@@ -16,7 +16,6 @@
 ## Hoofdstuk 5. Het verstrekken van inlichtingen
 ## Hoofdstuk 6. Financiering
 ## Hoofdstuk 7. Uitvoering
-## Hoofdstuk 8. Gemoedsbezwaren
 ## HOOFDSTUK 9. BEPALINGEN IN VERBAND MET DE ALGEMENE WET BESTUURSRECHT EN HET BEROEP IN CASSATIE
 ## Hoofdstuk 10. Strafbepalingen
 ## Hoofdstuk 11. Slotbepalingen
