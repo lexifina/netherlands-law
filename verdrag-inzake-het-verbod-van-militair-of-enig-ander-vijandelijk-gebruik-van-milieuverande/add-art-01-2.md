@@ -1,0 +1,3 @@
+# Artikel I
+1. Elke Staat die partij is bij dit Verdrag verbindt zich ertoe zich te onthouden van militair of enig ander vijandelijk gebruik van milieuveranderingstechnieken die wijdverspreide, langdurige of ernstige gevolgen hebben als middelen tot vernietiging, het berokkenen van schade of nadeel aan enige andere Staat die partij is.
+2. Elke Staat die partij is bij dit Verdrag verbindt zich ertoe geen enkele Staat, groep van Staten of internationale organisatie te steunen, aan te moedigen of ertoe te bewegen, activiteiten te ontplooien die in strijd zijn met het bepaalde in het eerste lid van dit artikel.
