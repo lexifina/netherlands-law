@@ -1,0 +1,4 @@
+# Article XXXI. Amendments to the Agreement
+1. Amendments to the present Agreement which do not affect the fundamental aims of the Institute and which do not increase the obligations of Member Countries become effective upon the approval by the General Conference.
+2. Other amendments shall, when they have been approved by the General Conference, be submitted to Member Countries for ratification. They shall become effective upon ratification by two-thirds of the Member Countries (other than those excluded by the provisions of Article XXVII above) for Member Countries which have then ratified, and for a Member Country which ratifies subsequently upon the date of its ratification.
+3. In all cases proposed amendments must be submitted to the Governments of Member Countries by the Director at least six months before they are examined by the General Conference.

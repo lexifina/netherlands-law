@@ -1,0 +1,4 @@
+# Artikel XXXI. Wijzigingen in het Verdrag
+1. Wijzigingen in dit Verdrag, welke geen inbreuk maken op de fundamentele doelstellingen van het Instituut en de verplichtingen van de landen-leden niet verzwaren, treden terstond na goedkeuring door de Algemene Conferentie in werking.
+2. De overige wijzigingen moeten, wanneer zij door de Algemene Conferentie zijn goedgekeurd, aan de landen-leden ter bekrachtiging worden voorgelegd. Zij treden in werking na bekrachtiging door 2/3 van de landen-leden (met uitzondering echter van die welke worden bedoeld in artikel 27 hierboven) voor de landen-leden die de wijzigingen dan hebben bekrachtigd, en van de datum van bekrachtiging af voor de landen-leden die de wijzigingen later bekrachtigen.
+3. In alle gevallen moeten de ontwerpen van wijziging door de directeur aan de regeringen van de landen-leden worden toegezonden ten minste zes maanden voordat de betreffende wijzigingen bij de Algemene Conferentie in behandeling komen.
