@@ -1,0 +1,2 @@
+# II. Ad article 7
+Les intérêts, les redevances et autres dépenses dus par une entreprise de l'un des Etats à une entreprise de l'autre Etat sont admis en déduction dans le calcul des bénéfices de la première entreprise. Toutefois, si par suite de relations spéciales existant entre les deux entreprises ou entre les deux entreprises et une tierce personne, le montant des intérêts, redevances et autres dépenses dus excède le montant dont elles seraient convenues en l'absence de pareilles relations, la phrase précédente ne s'applique pas au montant excédentaire.
