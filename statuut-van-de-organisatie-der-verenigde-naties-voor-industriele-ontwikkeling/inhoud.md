@@ -1,0 +1,21 @@
+# Inhoud
+## CHAPTER I. OBJECTIVES AND FUNCTIONS
+## CHAPTER II. PARTICIPATION
+## CHAPTER III. ORGANS
+## CHAPTER IV. PROGRAMME OF WORK AND FINANCIAL MATTERS
+## CHAPTER V. CO-OPERATION AND CO-ORDINATION
+## CHAPTER VI. LEGAL MATTERS
+## 1. Initiation
+## 2. Establishment
+## 3. Procedures and Operation
+## 4. Awards and Reports
+## HOOFDSTUK I. DOELSTELLINGEN EN FUNCTIES
+## HOOFDSTUK II. DEELNEMING
+## HOOFDSTUK III. ORGANEN
+## HOOFDSTUK IV. WERKPROGRAMMA EN FINANCIËLE AANGELEGENHEDEN
+## HOOFDSTUK V. SAMENWERKING EN COÖRDINATIE
+## HOOFDSTUK VI. JURIDISCHE AANGELEGENHEDEN
+## 1. Opening van de procedure
+## 2. Instelling van het scheidsgerecht of van de bemiddelingscommissie
+## 3. Procedure en functioneren
+## 4. Uitspraken en verslagen
