@@ -1,0 +1,2 @@
+# Artikel II
+De in de bijlage bij dit besluit opgenomen forfaitaire norm voor parelhoenders is van toepassing met ingang van het tijdstip waarop het bij koninklijke boodschap van 6 oktober 1999 ingediende voorstel van wet houdende wijziging van de Meststoffenwet in verband met een aanscherping van de normen van het stelsel van regulerende mineralenheffingen (kamerstukken II 1999/2000, 26 840, nrs. 1–3) tot wet is verheven en in werking is getreden.
