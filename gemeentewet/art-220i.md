@@ -1,5 +1,5 @@
 # Artikel 220i
-1. In de belastingverordening kan worden bepaald dat gedurende maximaal drie jaren na het begin van een tijdvak als bedoeld in artikel 22, tweede lid, van de Wet waardering onroerende zaken een vermindering wordt verleend op de belastingaanslagen terzake van een onroerende zaak. Het bedrag van de vermindering wordt afzonderlijk vermeld op het aanslagbiljet.
+1. In de belastingverordening kan worden bepaald dat een vermindering wordt verleend op de belastingaanslagen terzake van een onroerende zaak. Het bedrag van de vermindering wordt afzonderlijk vermeld op het aanslagbiljet.
 2. De vermindering kan voor onroerende zaken die in hoofdzaak tot woning dienen anders worden vastgesteld dan voor onroerende zaken die niet in hoofdzaak tot woning dienen.
 3. De vermindering wordt zodanig berekend dat het na vermindering te betalen belastingbedrag telkenjare niet meer bedraagt dan een in de belastingverordening te bepalen percentage van het belastingbedrag dat terzake van die onroerende zaak met betrekking tot het daaraan voorafgaande kalenderjaar na vermindering is verschuldigd, doch met een minimumpercentage van 115 percent.
 4. In de belastingverordening kan worden bepaald dat de vermindering niet wordt toegepast indien het bedrag van de vermindering lager is dan een in de belastingverordening vermeld drempelbedrag.
