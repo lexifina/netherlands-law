@@ -1,0 +1,2 @@
+# Artikel 8a
+Degenen, die reeds gerechtigd zijn tot het dragen van het in artikel 3 bedoelde Kruis met de daarbij behorende gesp en na een herhaalde uitzending opnieuw aan de in artikel 8 genoemde krijgsbedrijven hebben deelgenomen, wordt, ter vervanging van de reeds ontvangen gesp, een gesp toegekend met een daarop aangebracht cijfer, vermeldende het aantal malen dat aan bedoelde krijgsbedrijven is deelgenomen. De op het lint te dragen ster zal eveneens dit cijfer bevatten.
