@@ -1,0 +1,5 @@
+# Artikel 3a
+1. Bij of krachtens algemene maatregel van bestuur kunnen ter uitvoering van op grond van internationale overeenkomsten of van besluiten van volkenrechtelijke organisaties opgelegde verplichtingen of verleende bevoegdheden regelen worden gesteld in het belang van de visserij.
+2. Bij of krachtens een algemene maatregel van bestuur, als bedoeld in het eerste lid, kunnen mede voorschriften worden gegeven in het belang van de naleving van de aldaar bedoelde regelen.
+3. De in het tweede lid bedoelde voorschriften kunnen mede inhouden het opleggen van een verplichting aan hen die vis van een aanvoerder betrekken en hen, die hun bemiddeling verlenen bij het veilen van vis tot het voeren van een administratie en tot het doen van opgave aan een bij die voorschriften aangewezen autoriteit van de hoeveelheden vis door hen van een aanvoerder betrokken onderscheidenlijk aan hen ter veiling aangeboden.
+4. De voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur, als bedoeld in het eerste lid, wordt Ons niet gedaan, dan nadat Onze Minister met de daarbij in belangrijke mate betrokken bedrijfslichamen overleg heeft gepleegd.
