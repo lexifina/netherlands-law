@@ -1,0 +1,2 @@
+# Artikel II
+Voor een belanghebbende, wiens bezoldiging minder bedraagt dan het bedrag per maand, vastgesteld volgens onderstaande tabel naar zijn leeftijd op 30 juni 1983, wordt die bezoldiging verhoogd met een bedrag, gelijk aan het verschil tussen die bezoldiging en het bedrag volgens die tabel. Leeftijd Bedrag per maand 22 jaar f 1843,90 21 jaar f 1639,- 20 jaar f 1434,20 19 jaar f 1229,30 18 jaar f 1075,60 17 jaar f 922,- 16 jaar f 819,50 15 jaar f 717,10
