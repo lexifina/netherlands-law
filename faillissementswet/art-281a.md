@@ -1,0 +1,3 @@
+# Artikel 281a
+1. Indien er meer dan 10 000 schuldeisers zijn, behoeven op de staat, welke de schuldenaar krachtens artikel 214 bij zijn verzoek moet overleggen, de namen en woonplaatsen der schuldeisers, alsmede het bedrag der vorderingen van ieder hunner, niet te worden vermeld, doch kan worden volstaan met vermelding van de verschillende groepen van crediteuren, al naar gelang van de aard hunner vorderingen, en van het globale aantal en het globale bedrag van de gezamenlijke vorderingen van iedere groep.
+2. Indien het aantal schuldeisers niet meer dan 10 000, doch wel meer dan 5000 bedraagt, kan de rechtbank toestaan dat de schuldenaar een staat overeenkomstig het vorige lid overlegt.

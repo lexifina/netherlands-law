@@ -1,0 +1,6 @@
+# Artikel 358a
+1. Indien na de beëindiging van de toepassing van de schuldsaneringsregeling waardoor het rechtsgevolg bedoeld in artikel 358, eerste lid, is ingetreden, blijkt dat zich voordien feiten of omstandigheden hebben voorgedaan die grond zouden hebben opgeleverd voor de beëindiging van de toepassing van de schuldsaneringsregeling op de voet van artikel 350, derde lid, onder e, kan de rechter op verzoek van iedere belanghebbende bepalen dat artikel 358, eerste lid, verder geen toepassing vindt.
+2. Alvorens te beslissen roept de rechtbank de schuldenaar op ten einde door haar te worden gehoord.
+3. Van het vonnis kan gedurende acht dagen na de uitspraak in hoger beroep worden gekomen. Het hoger beroep wordt ingesteld bij een verzoekschrift, in te dienen ter griffie van het gerechtshof, dat van de zaak kennis moet nemen.
+4. Gedurende acht dagen na het arrest van het gerechtshof kan beroep in cassatie worden ingesteld. Het beroep in cassatie wordt ingesteld bij een verzoekschrift, in te dienen ter griffie van de Hoge Raad.
+5. Zodra de uitspraak bedoeld in het eerste lid in kracht van gewijsde is gegaan, doet de griffier van het gerecht dat deze uitspraak heeft gedaan daarvan onverwijld aankondiging in de Staatscourant.

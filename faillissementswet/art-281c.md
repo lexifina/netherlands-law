@@ -1,0 +1,2 @@
+# Artikel 281c
+De rechtbank kan bepalen dat de oproepingen van de schuldeisers, bedoeld in de artikelen 215, tweede lid, 256, tweede lid, en 264, tweede lid, niet bij brieven, doch door aankondigingen in de door de rechtbank aan te wijzen nieuwsbladen zullen plaatsvinden. In dat geval bepaalt de rechtbank tevens op welke datum uiterlijk deze aankondigingen moeten geschieden en welke punten in de aankondigingen moeten worden opgenomen.

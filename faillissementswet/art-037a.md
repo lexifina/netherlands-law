@@ -1,0 +1,2 @@
+# Artikel 37a
+Voor vorderingen die de wederpartij uit hoofde van ontbinding of vernietiging van een vóór de faillietverklaring met de schuldenaar gesloten overeenkomst op deze heeft verkregen, of die strekken tot schadevergoeding ter zake van tekortschieten in de nakoming van een vóór de faillietverklaring op deze verkregen vordering, kan zij als concurrent schuldeiser in het faillissement opkomen.

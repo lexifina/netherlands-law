@@ -1,0 +1,4 @@
+# Artikel 173c
+1. Indien binnen acht dagen, nadat de homologatie van een akkoord definitief is geweigerd, de curator of een schuldeischer bij den rechter-commissaris een voorstel indient tot voortzetting van het bedrijf van den gefailleerde, zal de rechter-commissaris op door hem terstond te bepalen dag, uur en plaats eene vergadering van schuldeischers beleggen ten einde over het voorstel te doen beraadslagen en beslissen.
+2. De curator roept de schuldeischers, ten minste tien dagen vóór de vergadering, op bij brieven, waarin het ingediend voorstel wordt vermeld en hun tevens de bepaling van artikel 114 wordt herinnerd. Bovendien plaatst hij gelijke oproeping in het nieuwsblad of de nieuwsbladen, bedoeld in artikel 14.
+3. Artikel 173a, lid 2 en 5, alsmede artikel 173b zijn van toepassing.

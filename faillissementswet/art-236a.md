@@ -1,0 +1,2 @@
+# Artikel 236a
+Voor vorderingen die de wederpartij uit hoofde van ontbinding of vernietiging van een vóór de aanvang van de surséance met de schuldenaar gesloten overeenkomst op deze heeft verkregen, of die strekken tot schadevergoeding ter zake van tekortschieten in de nakoming van een vóór de aanvang van de surséance op deze verkregen vordering, kan zij opkomen op de voet, in artikel 233 bepaald.
