@@ -1,0 +1,2 @@
+# Artikel IV
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Laatstbedoeld besluit wordt niet genomen voordat dertig dagen zijn verstreken nadat het onderhavige besluit is overgelegd aan de beide kamers der Staten-Generaal, en evenmin indien binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat het in dit besluit geregelde onderwerp van dit besluit bij wet wordt geregeld.
