@@ -1,0 +1,2 @@
+# Article III
+Dans le cas où le personnel néerlandais acquiert des véhicules, des matériels techniques, des équipements, nécessaires à l'accomplissement du Projet, ces véhicules, matériels et équipements seront soumis au régime de l'admission en franchise temporaire des droits et taxes d'entrée avec paiement des seules taxes pour services rendus (taxes de statistique, de péages et de timbre douanier).

@@ -1,0 +1,2 @@
+# Artikel IV
+Alle uitrustingsstukken en materialen geleverd door de Nederlandse regering in het kader van een project blijven het eigendom van de Nederlandse regering voor de gehele duur van het project en worden aan het einde van de samenwerking tussen beide regeringen bij dat project overgedragen aan de regering van de Republiek Boven-Volta, tenzij deze uitrustingsstukken of materialen nodig zijn voor een ander project voor technische samenwerking tussen beide regeringen.

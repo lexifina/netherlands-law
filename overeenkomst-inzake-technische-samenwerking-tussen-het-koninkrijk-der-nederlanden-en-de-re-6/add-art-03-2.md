@@ -1,0 +1,2 @@
+# Artikel III
+Indien het Nederlandse personeel voertuigen, technische materialen en uitrustingsstukken aanschaft, die nodig zijn voor de uitvoering van het project, zijn deze voertuigen, materialen en uitrustingsstukken onderworpen aan het stelsel voor toelating met tijdelijke vrijdom van rechten en heffingen bij invoer en worden alleen heffingen betaald voor verleende diensten (heffingen betreffende statistiek, tolgelden en douanezegels).

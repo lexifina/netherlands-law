@@ -1,0 +1,2 @@
+# Article IV
+Tous les équipements et matériels fournis par le Gouvernement néerlandais dans le cadre d'un projet demeureront la propriété du Gouvernement néerlandais pendant la durée d'un projet et seront transférés au Gouvernement de la République de Haute-Volta à la fin de la coopération entre les deux Gouvernements pour ce projet, à moins que ces équipements et matériels ne soient nécessaires à quelque autre projet de coopération technique entre les deux Gouvernements.
