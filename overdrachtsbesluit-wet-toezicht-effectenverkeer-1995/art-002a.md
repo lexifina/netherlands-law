@@ -1,0 +1,3 @@
+# Artikel 2a
+De Autoriteit Financiële Markten raadpleegt de Bank in het kader van de aanvraag van een vergunning als bedoeld in artikel 7 van de wet over de vraag of de aanvrager voldoet aan de bij en krachtens de wet gestelde regels ten aanzien van de financiële waarborgen, alsmede de bedrijfsvoering en informatieverstrekking, voor zover noodzakelijk voor het toezicht op financiële waarborgen.
+Tot de bedrijfsvoering behoren de maatregelen gericht op het bevorderen en handhaven van een integere bedrijfsvoering met uitzondering van de maatregelen ter naleving van de effectentypische gedragsregels, bedoeld in artikel 18a van de wet.
