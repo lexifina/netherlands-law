@@ -1,2 +1,0 @@
-# Artikel II
-Artikel 2, tweede tot en met achtste lid, van de Regeling vaccinatie Newcastle disease zijn gedurende 6 weken na inwerkingtreding van deze regeling niet van toepassing op een ondernemer die in de periode voorafgaand aan de inwerkingtreding van deze regeling ingevolge artikel 1 van de Tijdelijke vrijstellingsregeling vaccinatie Newcastle disease de op zijn pluimveebedrijf aanwezige kippen en kalkoenen niet tegen Newcastle disease heeft gevaccineerd.
