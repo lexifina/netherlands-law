@@ -5,6 +5,6 @@
 4. Bij gebreke van betaling binnen de in het derde lid genoemde termijn, kan Onze Minister de verschuldigde boete, verhoogd met de op de aanmaning en invordering betrekking hebbende kosten, bij dwangbevel invorderen.
 5. Het dwangbevel wordt op kosten van degene die de boete verschuldigd is, bij deurwaardersexploot betekend en levert een executoriale titel op in de zin van het Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering.
 6. Gedurende zes weken na de dag van betekening staat verzet tegen het dwangbevel open door dagvaarding van de Staat.
-7. Het verzet schorst de tenuitvoerlegging niet, tenzij de president van de rechtbank in kort geding desgevraagd anders beslist.
+7. Het verzet schorst de tenuitvoerlegging niet, tenzij de voorzieningenrechter van de rechtbank in kort geding desgevraagd anders beslist.
 8. Het verzet kan niet worden gegrond op de stelling dat de boete ten onrechte of voor een te hoog bedrag is vastgesteld.
 9. De bevoegdheid tot invordering vervalt twee jaar nadat de beschikking inzake oplegging van de boete onherroepelijk is geworden.
