@@ -1,4 +1,0 @@
-# Artikel 3a
-1. In de gevallen waarin werkzaamheden door militairen worden verricht, wordt, waar in het Besluit stralenbescherming Kernenergiewet wordt gesproken van het districtshoofd of de (regionale) inspecteur van de Volksgezondheid, met uitzondering van artikel 74, eerste lid, daarvoor in de plaats gelezen de door Onze Minister aangewezen autoriteit.
-2. In de gevallen waarin werkzaamheden door militairen worden verricht, wordt, waar in de artikelen 34, eerste lid, en 37, tweede lid, van het Besluit stralenbescherming Kernenergiewet wordt gesproken van Onze Minister van Sociale Zaken en Werkgelegenheid, daarvoor in de plaats gelezen Onze Minister.
-3. In de gevallen waarin werkzaamheden door militairen worden verricht, wordt het in artikel 34, tweede lid, van het Besluit stralenbescherming Kernenergiewet bedoelde medisch toezicht uitgevoerd door een door Onze Minister aangewezen autoriteit.
