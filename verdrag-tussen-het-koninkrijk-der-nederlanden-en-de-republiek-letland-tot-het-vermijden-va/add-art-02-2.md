@@ -1,0 +1,2 @@
+# II. Ad Artikel 3
+Het is wel te verstaan dat de uitdrukkingen „Nederland" of „Letland" de exclusieve economische zone omvat waarbinnen Nederland of Letland, naar gelang van het geval, soevereine rechten mogen uitoefenen in overeenstemming met hun nationale recht en het internationale recht, indien Nederland of Letland in hun wetgeving zulk een zone hebben aangemerkt of zullen aanmerken en daarbinnen heffingsrechten uitoefenen of zullen uitoefenen.

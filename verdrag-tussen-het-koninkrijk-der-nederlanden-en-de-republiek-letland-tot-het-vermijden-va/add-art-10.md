@@ -1,0 +1,2 @@
+# X. Ad Articles 11 and 12
+In case a Contracting State should introduce under its national law a withholding tax on interest or royalties, then, notwithstanding the provisions of paragraph 2 of Article 11 and of paragraph 2 of Article 12, during a period of five years after such introduction, no withholding tax shall be levied from interest or royalties, as the case may be, paid with respect to contracts concluded before the date of signature of this Convention.

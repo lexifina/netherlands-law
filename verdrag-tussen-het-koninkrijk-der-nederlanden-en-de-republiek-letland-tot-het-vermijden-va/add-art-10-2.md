@@ -1,0 +1,2 @@
+# X. Ad Artikelen 11 eπ 12
+Ingeval een Verdragsluitende Staat in zijn nationale wetgeving een bronbelasting op interest of royalty's invoert, dan zal, niettegenstaande de bepalingen van artikel 11, tweede lid en artikel 12, tweede lid, gedurende een tijdvak van vijf jaren na zodanige invoering geen bronbelasting worden geheven over interest of royalty's, al naar gelang het geval, betaald ter zake van overeenkomsten gesloten voor de datum van ondertekening van dit Verdrag.

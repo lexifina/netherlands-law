@@ -1,0 +1,2 @@
+# XIV. Ad Article 27, paragraph 5, and Articles 28 and 29
+With respect to the provisions of arbitration, exchange of information and assistance in recovery, the competent authorities of the Contracting States may, by common agreement, prescribe rules concerning matters of procedure, forms of application and replies thereto, disposition of amounts collected, minimum amounts to collection and related matters.

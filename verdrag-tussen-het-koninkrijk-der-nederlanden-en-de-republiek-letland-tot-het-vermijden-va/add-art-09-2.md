@@ -1,0 +1,2 @@
+# IX. Ad Artikel 11
+De bepalingen van onderdeel d. (ii) van het derde lid zijn slechts van toepassing gedurende de eerste vijf jaren nadat dit Verdrag voor het eerst toepassing vindt. Deze periode kan in onderlinge overeenstemming tussen de bevoegde autoriteiten worden verlengd. De Verdragsluitende Staten zullen elkaar schriftelijk via diplomatieke kanalen van een zodanige overeenstemming op de hoogte stellen.
