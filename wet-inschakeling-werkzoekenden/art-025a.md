@@ -1,2 +1,0 @@
-# Artikel 25a. Overgang eenmalige subsidie werkaanvaarding
-Artikel 3, tweede en derde lid, en de daarop berustende bepalingen, zoals deze luidden op 31 december 2001, blijven van toepassing op een persoon, die vóór de inwerkingtreding van de Wet van .. houdende wijziging van belastingwetten c.a. (Belastingplan 2002 I–Arbeidsmarkt en inkomensbeleid) overeenkomstig die bepalingen een overeenkomst tot het verrichten van arbeid heeft gesloten of werkzaamheden als zelfstandige is gaan verrichten.
