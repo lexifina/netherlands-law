@@ -1,0 +1,3 @@
+# Article III
+Les Autorités belges, luxembourgeoises et néerlandaises autoriseront l'importation dans l'Union Economique Benelux des produits portugais repris à la liste „A" annexée au présent Accord, au moins à concurrence des quantités ou des valeurs indiquées pour chacun d'entre eux.
+De leur côté, les Autorités portugaises s'engagent à délivrer les licences d'exportation ou toutes autres autorisations nécessaires pour l'exportation vers l'Union Economique Benelux desdits produits, au moins à concurrence des quantités ou des valeurs indiquées pour chacun d'entre eux, dans la liste „A" annexée au présent Accord.

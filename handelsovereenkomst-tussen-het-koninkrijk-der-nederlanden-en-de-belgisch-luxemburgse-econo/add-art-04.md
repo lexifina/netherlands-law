@@ -1,0 +1,3 @@
+# Article IV
+Les Autorités portugaises autoriseront l'importation au Portugal des produits belges, luxembourgeois ou néerlandais repris aux listes „B" et „C" annexées au présent Accord, au moins à concurrence des quantités ou des valeurs indiquées pour chacun d'entre eux.
+De leur côté, les Autorités belges, luxembourgeoises et néerlandaises s'engagent à délivrer des licences d'exportation ou toutes autres autorisations nécessaires pour l'exportation vers le Portugal desdits produits, au moins à concurrence des quantités ou des valeurs indiquées pour chacun d'entre eux, dans les listes „B" et „C" annexées au présent Accord.

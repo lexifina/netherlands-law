@@ -1,0 +1,3 @@
+# Article VII
+Les listes „A", „B", „C", „D", „E", ci-annexées, et les contingents qui y sont repris, sont valables pour la période d'un an à partir de la date de l'entrée en vigueur du présent Accord. Ils pourront être soit modifiés de commun accord à l'expiration de ladite période soit reconduits dans les conditions prévues à l'article XIII.
+Les Autorités compétentes des Parties Contractantes adopteront toutes mesures propres à faciliter l'utilisation effective des contingents repris aux listes „A", „B", „C", „D", „E". Elles se communiqueront périodiquement les états d'épuisement de ces contingents.

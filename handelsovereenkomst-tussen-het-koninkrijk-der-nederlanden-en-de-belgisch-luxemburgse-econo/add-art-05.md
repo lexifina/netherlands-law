@@ -1,0 +1,3 @@
+# Article V
+Les Autorités portugaises délivreront les licences d'exportation ou toutes autres autorisations nécessaires pour les produits portugais repris à la liste „D" annexée au présent Accord au moins à concurrence des quantités ou des valeurs indiquées pour chacun d'entre eux.
+De leur côté, les Autorités belges, luxembourgeoises et néerlandaises délivreront les licences d'exportation ou toutes autres autorisations nécessaires pour les produits belges, luxembourgeois et néerlandais repris à la liste „E" annexée au présent Accord au moins à concurrence des quantités ou des valeurs indiquées pour chacun d'entre eux.
