@@ -1,0 +1,4 @@
+# Artikel VI
+i. Deze Overeenkomst treedt in werking vanaf de datum van uitwisseling van de akten van bekrachtiging. Zij blijft gedurende een tijdvak van vijf jaar van kracht en wordt automatisch met een zelfde tijdvak verlengd, tenzij een van de Partijen de wens te kennen geeft haar te beëindigen, met dien verstande dat zulk een wens schriftelijk dient te worden geuit en ten minste zes maanden vóór de beëindiging van de Overeenkomst langs diplomatieke weg dient te worden verzonden.
+ii. Beëindiging van deze Overeenkomst heeft in geen geval invloed op contracten die reeds krachtens de bepalingen van deze Overeenkomst zijn gesloten en die ten uitvoer worden gelegd.
+iii. De Regering van het Koninkrijk der Nederlanden heeft het recht de toepassing van de Overeenkomst op de Nederlandse Antillen eenzijdig te beëindigen, met dien verstande dat dit geschiedt met inachtneming van het in (i) en (ii) van dit artikel bepaalde.
