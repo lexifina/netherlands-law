@@ -1,0 +1,5 @@
+# Artikel 4a
+1. De inverzekeringgestelde wordt direct voorafgaand aan de insluiting onderzocht op aanwezigheid van voorwerpen die een gevaar voor de veiligheid van betrokkene of voor anderen kunnen vormen. Het onderzoek vindt plaats door het aftasten en doorzoeken van de kleding en wordt zoveel mogelijk uitgevoerd door een ambtenaar van hetzelfde geslacht als de inverzekeringgestelde. Voorwerpen die een gevaar voor de inverzekeringgestelde of voor anderen kunnen vormen worden in bewaring genomen.
+2. Van de inverzekeringgestelde kan worden verlangd dat hij zich ontkleedt, indien:
+a. de kleding tijdens de insluiting een gevaar voor de veiligheid van de inverzekeringgestelde of voor anderen kan vormen en de hulpofficier van justitie daarvoor toestemming heeft gegeven;
+b. de kleding naar het oordeel van een arts tijdens de insluiting een gevaar voor de gezondheid van de inverzekeringgestelde of anderen kan vormen. De kleding wordt in bewaring genomen en de inverzekeringgestelde wordt voorzien van vervangende kleding.
