@@ -1,0 +1,4 @@
+# Artikel V
+1. De door Onze Minister van Verkeer en Waterstaat krachtens de Luchtvaartwet aan leden van het boordpersoneel afgegeven bewijzen van bevoegdheid, de daarop aangetekende bevoegdverklaringen alsmede de door hem aan leden van het boordpersoneel afgegeven bewijzen van gelijkstelling, welke op het tijdstip van inwerkingtreding van deze wet geldig zijn, worden aangemerkt als bewijzen van bevoegdheid, bevoegdverklaringen respectievelijk bewijzen van gelijkstelling op grond van de Wet Luchtverkeer.
+2. Krachtens de Luchtvaartwet aan leden van het boordpersoneel afgegeven medische verklaringen, die op het tijdstip van inwerkingtreding van deze wet geldig zijn, worden aangemerkt als medische verklaringen op grond van de Wet luchtvaart.
+3. Opleidingen, welke krachtens de Luchtvaartwet zijn erkend, worden aangemerkt als opleidingen, erkend op grond van de Wet luchtvaart.
