@@ -1,0 +1,3 @@
+# Artikel 3bis
+(1) Elk Overeenkomstsluitend land kan te allen tijde aan de Regering van de Zwitserse Bondsstaat schriftelijk er van kennis geven, dat de uit de internationale inschrijving voortvloeiende bescherming zich slechts dan tot dat land zal uitstrekken, indien de houder van het merk zulks uitdrukkelijk verzoekt.
+(2) Deze kennisgeving zal eerst gevolg hebben zes maanden na dagtekening van de mededeling, die de Regering van de Zwitserse Bondsstaat daarvan aan de andere Overeenkomstsluitende landen doet. Deze termijn geldt evenwel niet voor de landen, die bij de bekrachtiging of de toetreding gebruik maken van het in het eerste lid toegekende recht.

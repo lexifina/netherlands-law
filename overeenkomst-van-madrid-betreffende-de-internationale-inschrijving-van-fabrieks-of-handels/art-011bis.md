@@ -1,0 +1,2 @@
+# Article 11bis
+En cas de dénonciation du présent Arrangement, l'article 17bis de la Convention de Paris pour la Protection de la propriété industrielle fait règle. Les marques internationales enregistrées jusqu'à la date à laquelle la dénonciation devient effective, et non refusées dans l'année prévue à l'article 5, continueront, pendant la durée de la protection internationale, à bénéficier de la même protection que si elles avaient été directement déposées dans ce pays.
