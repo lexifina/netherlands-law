@@ -1,0 +1,2 @@
+# Artikel III
+Ingeval het Commissariaat voor de Media vóór de datum van inwerkingtreding van deze wet aan kerkgenootschappen en genootschappen op geestelijke grondslag zendtijd voor landelijke omroep als bedoeld in artikel 39f, eerste lid, van de Mediawet heeft toegewezen voor een periode van tien jaren, wordt deze zendtijd met ingang van de datum van inwerkingtreding van deze wet van rechtswege omgezet in zendtijd voor een periode van vijf jaren.

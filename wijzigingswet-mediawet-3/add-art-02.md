@@ -1,0 +1,2 @@
+# Artikel II
+Ingeval Onze Minister van Onderwijs, Cultuur en Wetenschappen vóór de datum van inwerkingtreding van deze wet aan omroepverenigingen concessies voor landelijke omroep als bedoeld in artikel 31, eerste lid, van de Mediawet heeft verleend voor een periode van tien jaren, worden deze concessies met ingang van de datum van inwerkingtreding van deze wet van rechtswege omgezet in concessies voor een periode van vijf jaren.
