@@ -1,0 +1,2 @@
+# Artikel I-J16. Aanspraak op vergoeding van de reis- en verblijfkosten bij geneeskundig onderzoek
+Degene die een geneeskundig onderzoek ondergaat in verband met benoeming of wijziging van het dienstverband, ontvangt van het bevoegd gezag een vergoeding van reis- en verblijfkosten volgens daartoe door het bevoegd gezag vastgestelde regels. De kosten van een geneeskundig onderzoek komen voor rekening van het bevoegd gezag.

@@ -1,0 +1,4 @@
+# Artikel V-Q601. Behoud van vastgesteld uitzicht directeur
+1. De directeur voor wie met toepassing van hoofdstuk C van het Besluit overgangsmaatregelen lw. 1985 een uitzicht is vastgesteld, behoudt aanspraak op vaststelling van zijn salaris overeenkomstig dat uitzicht, zolang hij in de desbetreffende directeursfunctie benoemd blijft dan wel zonder wezenlijke onderbreking in het leerlingwezen werkzaam blijft in een functie als directeur met een maximumschaal die ten minste gelijk is aan die welke voor hem geldt in de functie waarin hij op 1 april 1985 is benoemd.
+2. Met een wezenlijke onderbreking als aangegeven in het eerste lid wordt een periode langer dan twee maanden bedoeld.
+De tijd gedurende welke een ontslaguitkering als bedoeld in hoofdstuk I-H dan wel een uitkering als bedoeld in het Besluit Werkloosheid onderwijs- en onderzoekpersoneel wordt genoten, wordt niet als onderbreking aangemerkt.

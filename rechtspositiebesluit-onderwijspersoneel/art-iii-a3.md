@@ -1,0 +1,7 @@
+# Artikel III-A3. Regeling verkiezing commissie
+1. Met inachtneming van de in het tweede tot en met het zesde lid van dit artikel neergelegde voorschriften geschiedt de verkiezing van de commissie aan de hand van een door de besturen van de instellingen dan wel, indien het betreft een commissie v.j., het bestuur van een landelijke organisatie op te stellen verkiezingsregeling.
+2. De commissie bestaat uit 5 leden en 5 plaatsvervangende leden, waarvan 2 leden en 2 plaatsvervangende leden, en ingeval het betreft een commissie v.j. op voordracht van een landelijke organisatie, worden gekozen door de instellingsbesturen, en 2 leden en 2 plaatsvervangende leden door het personeel van de bij de commissie aangesloten instellingen. De 2 leden gekozen door de instellingsbesturen en de 2 leden gekozen door het personeel van de instelling kiezen gezamenlijk het vijfde lid, tevens voorzitter, en zijn plaatsvervanger. Bij staking van stemmen beslist het lot, desgewenst na herstemming, tenzij partijen een arbitraire oplossing aanvaarden.
+3. Om de 3 jaar treedt één van de door de instellingsbesturen en één van de door het personeel gekozen leden en plaatsvervangende leden af volgens een door de commissie op te stellen rooster.
+4. De voorzitter en de plaatsvervangend voorzitter worden gekozen voor de tijd van 3 jaar.
+5. De voorzitter en de plaatsvervangend voorzitter en de overige leden en plaatsvervangende leden zijn bij aftreden onmiddellijk herkiesbaar.
+6. In een opengevallen plaats wordt binnen 6 weken voorzien.

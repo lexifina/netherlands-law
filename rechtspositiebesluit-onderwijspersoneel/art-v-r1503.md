@@ -1,0 +1,2 @@
+# Artikel V-R1503. Behoud HOS-uitzicht
+Op de betrokkene bedoeld in artikel I-A1, onder d18, voor wie tot en met 31 juli 1993 op grond van artikel IV, onderdeel 3, onder a, sub 1, van het besluit van 3 juli 1992 (Stb 1992, 389) (Formatiebudgetsysteem) een of meer van de artikelen V-Q402, V-Q403, V-Q405, V-Q406, V-R402, eerste en tweede lid, V-R403, V-R404, V-R404a, V-R407 en V-R408, van toepassing zijn gebleven, zijn de artikelen V-P6, V-Q401, V-Q402, V-Q405, V-Q406, V-R401, V-R402, V-R403, V-R405 en V-R406 van overeenkomstige toepassing.

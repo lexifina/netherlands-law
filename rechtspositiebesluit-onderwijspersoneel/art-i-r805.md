@@ -1,0 +1,4 @@
+# Artikel I-R805. Bijzonderheden functievervulling
+1. De betrokkene vervult zijn functie binnen de gebouwen of ruimten waarin de instelling is gehuisvest en op de daarbij behorende terreinen. Het bevoegd gezag dient een voorstel in bij het overlegorgaan op instellingsniveau als bedoeld in hoofdstuk IV-E waarin nadere regels zijn getroffen met betrekking tot de mate waarin de weektaak plaatsgebonden is, met dien verstande dat de plaatsgebondenheid ten minste 65% van de betrekkingsomvang bedraagt.
+2. Het bevoegd gezag stelt voor de betrokkene werktijdregelingen vast. Onder werktijdregeling wordt verstaan een voor een periode van langer dan een week opgesteld en van te voren bekendgemaakt schema van aanvang en einde van de dagelijkse werkzaamheden.
+3. Het bevoegd gezag stelt een regeling op met betrekking tot de werktijd alsmede met betrekking tot de autorisatie en registratie van afwezigheid.

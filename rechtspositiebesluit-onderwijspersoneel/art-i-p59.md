@@ -1,0 +1,3 @@
+# Artikel I-P59. Verplichtingen
+1. Indien het niet mogelijk is de betrokkene in relatie tot zijn betrekkingsomvang voldoende bij zijn functie behorende werkzaamheden op te dragen, kunnen hem andere werkzaamheden worden opgedragen, mits deze in verband met zijn persoonlijkheid en omstandigheden en gelet op zijn functieniveau passend zijn. De betrokkene is verplicht deze werkzaamheden te aanvaarden.
+2. Indien het na een zorgvuldig onderzoek in redelijkheid niet mogelijk is gebleken de betrokkene een mede in verband met zijn persoonlijkheid en omstandigheden voor hem passende functie bij het bevoegd gezag aan te bieden dan wel indien deze een passende functie weigert te aanvaarden, kan ontslag wegens opheffing van de betrekking plaatsvinden.

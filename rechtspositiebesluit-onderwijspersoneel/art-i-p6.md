@@ -1,0 +1,4 @@
+# Artikel I-P6. Maximumschaal, aanloopschalen, begintraject en aanlooptraject
+1. Bij elke functie behoren één of meer schalen, een aantal schalen en een begintraject, of één schaal en een aanlooptraject. Het salaris van de in die functie benoemde betrokkene wordt vastgesteld aan de hand van één van de salarisbedragen die in het begintraject, het aanlooptraject of die schaal dan wel schalen voorkomen.
+2. Indien het bepaalde in hoofdstuk I-Q, I-R of I-S dit voorschrijft, wordt het salaris van de betrokkene eerst vastgesteld op een der salarisbedragen in het begintraject, aanlooptraject, de aanloopschaal of -schalen en, nadat hij die volgens het bepaalde in het desbetreffende hoofdstuk heeft doorlopen, op een salarisbedrag in de maximumschaal.
+3. De bij elke functie behorende maximumschaal, aanloopschaal of -schalen, begintraject en aanlooptraject zijn aangegeven in hoofdstuk I-Q, I-R of I-S.

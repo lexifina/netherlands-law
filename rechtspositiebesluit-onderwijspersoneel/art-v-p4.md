@@ -1,0 +1,5 @@
+# Artikel V-P4. Overgangsbepalingen garantietoelage minimumloon per 1 juni 1985
+1. Voor de vaststelling van de toelage minimumloon als bedoeld in artikel I-P16, ten aanzien van de betrokkene die op 31 mei 1985 reeds een dergelijke toelage genoot, wordt het in dat artikel bedoelde bedrag van het minimumloon fictief verhoogd met 10%.
+2. Bij de toepassing van het bepaalde in het eerste lid wordt voor de betrokkene het voor hem geldende salaris fictief verhoogd met 7,1%.
+3. Het bepaalde in het tweede lid is niet van toepassing voor de betrokkene, bedoeld in artikel I-A1, onder e4 tot en met e9, die op 31 augustus 1985, ambtenaar in de zin van de pensioenwet zijnde, reeds in het genot was van de toelage overeenkomstig het bepaalde in artikel I-P16, zoals dat artikel op die datum luidde.
+4. Het bepaalde in het tweede lid is niet van toepassing ten aanzien van de betrokkene, bedoeld in artikel I-A1, onder e1 en e2, die op 15 februari 1985, ambtenaar in de zin van de pensioenwet zijnde, reeds in het genot was van de toelage overeenkomstig het bepaalde in artikel I-P16, zoals dat artikel op die datum luidde.

@@ -1,0 +1,4 @@
+# Artikel I-Q102. Samenstelling directie, centrale directie en college van bestuur
+1. Aan het hoofd van een instelling staat een directeur of directeuren, een directeur/coördinator, een centrale directie of een college van bestuur.
+2. De directie als bedoeld in de paragrafen 2 en 3 en 6 tot en met 15 wordt gevormd door de directeur of directeuren of de centrale directie of het college van bestuur en voor zover de door het bevoegd gezag vastgestelde formatie dit mogelijk maakt een of meer adjunct-directeuren en een of meer andere betrokkenen die zijn benoemd in een functie die door het bevoegd gezag is aangemerkt als een functie in hoofdstuk I-Q.
+3. Aan het hoofd van een instelling als bedoeld in artikel I-A1, onder d14 en d15, staat, indien deze instellingen een onderwijsgemeenschap vormen met een een instelling als bedoeld in artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, een college van bestuur.

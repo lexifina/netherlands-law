@@ -1,0 +1,3 @@
+# Artikel I-J10. Evenredige vermindering tegemoetkoming in de reiskosten
+1. Indien door een betrokkene over een aaneengesloten tijdvak van meer dan één week anders dan in verband met vakantieverlof niet is gereisd tussen de woning en het gebouw of de gebouwen, wordt de aan de betrokkene toe te kennen tegemoetkoming in de reiskosten vanaf de tweede week naar evenredigheid verlaagd.
+2. Indien door een belanghebbende in verband met de datum van indiensttreding of ontslag slechts een deel van een maand tenminste één keer per week wordt gereisd tussen de woning en hetzelfde gebouw, dient de tegemoetkoming in de reiskosten naar evenredigheid te worden vastgesteld.

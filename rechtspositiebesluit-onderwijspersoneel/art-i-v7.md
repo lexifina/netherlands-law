@@ -1,0 +1,2 @@
+# Artikel I-V7. Inkomsten uit arbeid of bedrijf
+Over de verrekening van extra inkomsten uit arbeid of bedrijf met de bezoldiging van de betrokkene zijn de artikelen 7 en 8 van de Wet uitkering wegens vrijwillig vervroegd uittreden van overeenkomstige toepassing, met dien verstande dat de verrekening van de extra inkomsten niet kan leiden tot een lager bedrag dan de bezoldiging van de betrokkene met een gelijke onvolledige werktijd.

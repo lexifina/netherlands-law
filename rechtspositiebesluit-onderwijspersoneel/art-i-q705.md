@@ -1,0 +1,4 @@
+# Artikel I-Q705. Functies en maximumschalen centrale directie horizontale scholengemeenschap
+1. Indien de horizontale scholengemeenschap bestaat uit 5 componenten als aangegeven in artikel I-Q702, eerste lid, worden de maximumschalen genoemd in artikel I-Q704, eerste lid, met één verhoogd.
+2. Indien de vaststelling van de maximumschalen op basis van het bepaalde in de artikelen I-Q1205 en I-Q1206a dan wel de artikelen I-Q1405 en I-Q1406 dan wel de artikelen I-Q1505 en I-Q1506, hoger is dan de uitkomst van de vaststelling van de maximumschalen overeenkomstig het eerste lid, worden de maximumschalen overeenkomstig de artikelen I-Q1205 en I-Q1206a dan wel de artikelen I-Q1405 en I-Q1406, dan wel de artikelen I-Q1505 en I-Q1506 vastgesteld, met dien verstande dat de maximumschaal niet hoger dan schaal 18 kan zijn.
+3. Artikel I-Q704, tweede lid, is van overeenkomstige toepassing.

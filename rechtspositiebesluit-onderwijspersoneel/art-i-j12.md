@@ -1,0 +1,3 @@
+# Artikel I-J12. Maximering reiskostenvergoeding
+1. De aan belanghebbende toe te kennen tegemoetkoming in reiskosten bedraagt per schooljaar per betrekking of combinatie van betrekkingen niet meer dan het bedrag als aangegeven in bijlage J1 onder 3, van dit besluit.
+2. De tegemoetkoming in de reiskosten bedraagt per betrekking vanaf het tweede jaar na indiensttreding voor het totaal van het gebouw of de gebouwen binnen deze betrekking niet meer dan het volgens de tabel in de bijlage J2 vanaf het tweede jaar na indiensttreding geldende bedrag bij vier of meer reisdagen per week over een reisafstand van vijf zones.

@@ -1,0 +1,2 @@
+# Artikel V-L1. Overgangsrecht minimum vakantie-uitkering (1-1-1986)
+Voor de op 31 december 1985 in dienst zijnde betrokkene die op deze datum aanspraak had op een bedrag aan vakantie-uitkering dat hoger was dan voor hem met toepassing van het bepaalde in artikel I-L2 vanaf 1 januari 1986 wordt vastgesteld, blijft de aanspraak op vakantie-uitkering gehandhaafd op tenminste het bedrag waarop hij op 31 december 1985 aanspraak had.

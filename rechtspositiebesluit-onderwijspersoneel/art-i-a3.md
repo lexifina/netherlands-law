@@ -1,0 +1,2 @@
+# Artikel I-A3. Aanvang termijnen
+Indien de betrokkene ten genoege van de bevoegde instantie aannemelijk maakt dat de aanvang van een in dit besluit gestelde termijn gedurende welke een aanspraak kan worden geldend gemaakt, hem niet tijdig bekend kon zijn en hij hierdoor in zijn belangen is geschaad, wordt de termijn geacht te zijn aangevangen op het tijdstip waarop de betrokkene naar het oordeel van de bevoegde instantie redelijkerwijs heeft kunnen kennisdragen van het ontstaan van zijn aanspraken.

@@ -1,0 +1,2 @@
+# Artikel I-B3. Verklaring omtrent het gedrag
+De verklaring omtrent het gedrag, welke vereist is voor benoeming bij een bevoegd gezag van aan een instelling als bedoeld in artikel I-A1, onder d1, d2, en d4 tot en met d6, d10, d12 tot en met d15 alsmede d17 en d18, afgegeven volgens de Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag (Stb. 1955, 395), is bij overlegging aan het bevoegd gezag niet ouder dan zes maanden, te rekenen vanaf de dag van afgifte.

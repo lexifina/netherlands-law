@@ -1,0 +1,2 @@
+# Artikel V-P16
+Het bestuur van een school die wordt omgezet in een speciale school voor basisonderwijs met één of meer afdelingen, stelt vóór 1 mei 1998 doch uiterlijk 1 augustus 1998 een plan vast op basis waarvan het dienstverband van het personeel van de school per 1 augustus 1998 wordt voortgezet ten behoeve van werkzaamheden aan de speciale school voor basisonderwijs of een afdeling van die school.

@@ -1,0 +1,2 @@
+# Artikel V-S1202. Vergrote v.b. vóór 1 april 1985
+Voor de betrokkene bedoeld in artikel I-A1, onder e14, voor wie op 31 juli 1990 artikel V-Q404 dan wel V-R406, zoals die artikelen op die datum luidden, van toepassing was en die op 1 augustus 1990 in dienst is bij een instelling, bedoeld in artikel I-A1, onder d14, en voor wie een betrekkingsomvang van meer dan 38 uur is berekend, komt niet voor bezoldiging in aanmerking het verschil tussen 38 uur en de voor hem op 1 augustus 1990 geldende betrekkingsomvang.

@@ -1,0 +1,4 @@
+# Artikel IV-F6. Hernieuwd overleg
+1. Indien één of meer personeelsvertegenwoordigers over een zaak, die behoort tot de competentie van het overlegorgaan, tot het oordeel komen dat het overleg daarover niet tot een uitkomst zal leiden die de instemming van alle deelnemers aan dat overleg zal hebben, kunnen zij dat oordeel binnen drie dagen nadat zij daarvan in het overleg blijk hebben gegeven schriftelijk ter kennis brengen van de overige deelnemers aan het overleg.
+2. Binnen vijf dagen na de kennisgeving, bedoeld in het eerste lid, schrijft de voorzitter van het orgaan een overlegvergadering uit. De vergadering wordt gehouden binnen zeven dagen nadat deze is uitgeschreven.
+3. In het overlegorgaan wordt dan alsnog bezien of een uitkomst van het overleg mogelijk is, die de instemming van alle deelnemers aan het overleg heeft.

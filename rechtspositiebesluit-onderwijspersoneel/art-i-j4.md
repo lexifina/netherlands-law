@@ -1,0 +1,3 @@
+# Artikel I-J4. Aanspraak op een tegemoetkoming in verhuiskosten ter zake van het betrekken of verlaten van een dienstwoning
+1. De belanghebbende, die in opdracht van het bevoegd gezag, een dienstwoning betrekt of verlaat, wordt een tegemoetkoming in verhuiskosten verleend, tenzij het verlaten van de dienstwoning het gevolg is van een ontslag, dat op zijn verzoek anders dan wegens het bereiken of bereikt hebben van de pensioengerechtigde leeftijd, of anders dan met recht op uitkering voor vervroegd uittreden is verleend, of aan schuld of toedoen van de belanghebbende is te wijten.
+2. Indien het verlaten van een dienstwoning verband houdt met het overlijden van de belanghebbende, wordt een tegemoetkoming in de verhuiskosten verleend aan de nagelaten gezinsleden.

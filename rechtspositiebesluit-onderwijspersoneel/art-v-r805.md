@@ -1,0 +1,2 @@
+# Artikel V-R805. Overgangsrecht arbeidsduurverkorting betrokkene jonger dan 28 jaar
+De betrokkene die op 28 februari 1987 jonger is dan 28 jaar en op deze datum aan een landbouwpraktijkschool was verbonden en sindsdien als betrokkene aan deze instelling verbonden is gebleven, behoudt, zolang hij de 28-jarige leeftijd nog niet heeft bereikt, aanspraak op arbeidsduurverkorting op de voet van de voor het onderwijsondersteunend personeel van landbouwpraktijkscholen geldende regeling zoals die luidde op 28 februari 1987.

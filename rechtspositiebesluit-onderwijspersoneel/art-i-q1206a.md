@@ -1,0 +1,4 @@
+# Artikel I-Q1206a. Normfuncties en maximumschalen centrale directie horizontale scholengemeenschap
+1. Indien de horizontale scholengemeenschap bestaat uit 5 componenten als aangegeven in artikel I-Q1202, tweede lid, worden de maximumschalen genoemd in artikel I-Q1205, eerste lid, met een verhoogd.
+2. Indien de vaststelling van de maximumschalen op basis van het bepaalde in de artikelen I-Q1405 en I-Q1406 dan wel de artikelen I-Q1505 en I-Q1506, hoger is dan de uitkomst van de vaststelling van de maximumschalen overeenkomstig het eerste lid, worden de maximumschalen overeenkomstig de artikelen I-Q1405 en I-Q1406 dan wel de artikelen I-Q1505 en I-Q1506 vastgesteld, met dien verstande dat de maximumschaal niet hoger dan schaal 18 kan zijn.
+3. Artikel I-Q1205, tweede lid, is van overeenkomstige toepassing.

@@ -1,0 +1,4 @@
+# Artikel II-C4. Formaliteiten
+1. Betrokkene brengt, indien gewenst, binnen drie weken, nadat hij door het bevoegd gezag schriftelijk van het voornemen tot het opleggen van een disciplinaire straf of maatregel in kennis is gesteld, zijn zienswijze schriftelijk of mondeling naar voren.
+2. Indien betrokkene mondeling zijn zienswijze kenbaar maakt wordt hiervan door het bevoegd gezag een verslag gemaakt. Dit verslag wordt getekend door het bevoegd gezag en door betrokkene. Weigert de betrokkene de ondertekening, dan wordt daarvan, zo mogelijk met vermelding van de redenen, melding gemaakt. Een afschrift van het verslag wordt aan betrokkene uitgereikt.
+3. Het besluit tot het opleggen van een disciplinaire straf of maatregel wordt uiterlijk een week, nadat betrokkene zijn zienswijze kenbaar heeft gemaakt, genomen.

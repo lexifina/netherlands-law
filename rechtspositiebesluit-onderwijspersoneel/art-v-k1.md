@@ -1,0 +1,2 @@
+# Artikel V-K1. Overgangsrecht jubileumgratificatie
+De diensttijd doorgebracht in een burgerlijke dienstbetrekking bij de N.V. Nederlandse Spoorwegen en de voormalige N.V. Artillerie-Inrichtingen telt in afwijking van artikel I-K1, eerste lid, onder a, mee voor de bepaling van de jubileumgratificatie, indien de betrokkene op het moment van inwerkingtreding van dit besluit in dienst is van een instelling als bedoeld in artikel I-K1, onderdeel a, onder 1, 3 en 4, en binnen drie jaar na invoering van dit besluit zijn 25-jarige dan wel 40-jarige jubileum bereikt.

@@ -1,0 +1,2 @@
+# Artikel V-S904. Salarisuitzicht in verband met gewijzigde ondersteuningsstructuur
+Ten aanzien van de betrokkene voor wie de Overgangsregeling gewijzigde ondersteuningsstructuur VE van toepassing is, is het bepaalde in artikel V-Q1104 van overeenkomstige toepassing, zolang hij zonder onderbreking van meer dan twee maanden verbonden blijft aan een instelling als bedoeld in artikel A1, tweede lid, onder b, van de Overgangsregeling gewijzigde ondersteuningsstructuur VE, voor zover het betreft een instelling, bedoeld in artikel I-A1, onder d6.

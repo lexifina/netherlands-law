@@ -1,0 +1,2 @@
+# Artikel V-Q1502. Vergrote v.b. vóór 1 april 1985
+De betrokkene bedoeld in artikel I-A1, onder e18, voor wie op 31 juli 1993 artikel V-Q404, zoals dat artikel op die datum luidde, van toepassing was en die op 1 augustus 1993 in dienst is bij een instelling, bedoeld in artikel I-A1, onder d18, en voor wie een betrekkingsomvang van meer dan 38 uur is berekend, komt niet voor bezoldiging in aanmerking het verschil tussen 38 uur en de voor hem op 1 augustus 1993 geldende betrekkingsomvang.

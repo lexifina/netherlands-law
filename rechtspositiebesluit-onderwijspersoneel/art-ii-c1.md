@@ -1,0 +1,2 @@
+# Artikel II-C1. Gronden voor disciplinaire straffen of maatregelen
+De betrokkene die de hem opgelegde verplichtingen niet nakomt of enig voorschrift overtreedt, dan wel datgene doet of nalaat dat hij bij een goede uitoefening van zijn functie in gelijke omstandigheden behoort na te laten of te doen, maakt zich schuldig aan plichtsverzuim en kan om die reden door het bevoegd gezag met inachtneming van de artikelen II-C2 tot en met II-C6 disciplinair worden gestraft.

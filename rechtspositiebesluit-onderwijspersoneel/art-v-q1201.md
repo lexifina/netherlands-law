@@ -1,0 +1,2 @@
+# Artikel V-Q1201. Behoud van vastgesteld salarisuitzicht
+De betrokkene, bedoeld in artikel I-A1, onder e14, die is benoemd als lid van de centrale directie, bij wiens functie op 1 augustus 1990 een lagere maximumschaal behoort dan bij de functie die hij op 31 juli 1990 vervulde, behoudt aanspraak op bezoldiging volgens het carrièrepatroon dat behoorde bij de functie die hij op 31 juli 1990 bekleedde, zolang hij als zodanig aan de instelling verbonden blijft, onverminderd het bepaalde in artikel V-Q1203.

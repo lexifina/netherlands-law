@@ -1,0 +1,6 @@
+# Artikel I-P86. Voorwaarden scholingsplicht
+Indien het bevoegd gezag van een instelling als bedoeld in artikel I-A1, onder d1, d2, en d16, met toepassing van het bepaalde in artikel I-P84, tweede lid, aan de betrokkene een scholingsplicht oplegt, gelden hierbij de volgende voorwaarden.
+a. Het bevoegd gezag stelt de betrokkene vrij van het verrichten van passende werkzaamheden bedoeld in artikel I-P84, eerste lid, voor zover dit noodzakelijk is voor het volgen van de scholing.
+b. Het bevoegd gezag belast de betrokkene niet met het geven van onderwijs bedoeld in de taakkarakteristiek, voor zover deze lesgebonden taken zouden samenvallen met het volgen van de scholing.
+c. Tussen het bevoegd gezag en de betrokkene wordt een redelijke termijn afgesproken waarbinnen de betrokkene de scholing met succes kan afronden.
+d. Het bevoegd gezag is verplicht de betrokkene te benoemen in een, gelet op de scholing die is of wordt gevolgd, passende vacante functie bij het bevoegd gezag. Indien voor de in de eerste volzin bedoelde benoeming ontheffing van de bevoegdheidseisen noodzakelijk is omdat de betrokkene de scholing nog niet heeft afgerond, is het bevoegd gezag verplicht die ontheffing aan te vragen. Indien de ontheffing wordt verleend, geldt de in de eerste volzin bedoelde verplichting.

@@ -1,0 +1,5 @@
+# Artikel V-H8. Overgangsuitkering
+1. De betrokkene die vóór 1 januari 1987 in het genot was van wachtgeld als bedoeld in artikel I-H2, zoals dit luidde op 28 februari 1994, waarvan de duur, nadat toepassing is gegeven aan artikel V-H7, tweede lid, verstrijkt in de periode van 1 april 1991 tot en met 31 december 1997, heeft recht op een overgangsuitkering.
+2. De duur van de overgangsuitkering is een jaar, met dien verstande dat de uitkering uiterlijk 1 januari 1998 eindigt. De overgangsuitkering gaat in direct na het verstrijken van het wachtgeld als bedoeld in het eerste lid en wordt in maandelijkse termijnen betaald.
+3. Het bedrag van de overgangsuitkering is gelijk aan het maandbedrag van het minimumloon als vermeld in bijlage 2, onder 1, bij de leeftijd die de betrokkene heeft, vermeerderd met de daarvoor berekende vakantiebijslag bedoeld in artikel 15 van de Wet minimumloon en minimumvakantiebijslag, met dien verstande dat dit bedrag nooit meer kan bedragen dan 70% van de laatstelijk genoten bezoldiging.
+4. Hoofdstuk I-H, zoals dat luidde op 28 februari 1994 is voor zoveel mogelijk van overeenkomstige toepassing.

@@ -1,0 +1,2 @@
+# Artikel I-S104. Salarisvaststelling bij overgang van aanloopschaal naar maximumschaal
+Zodra aan de betrokkene, wiens salaris wordt vastgesteld volgens de aanloopschaal, op grond van artikel I-P13 een periodieke verhoging wordt toegekend en deze daarmee een salaris krijgt dat gelijk is aan of hoger is dan het laagste bedrag in de maximumschaal, wordt zijn salaris bepaald op het naasthogere bedrag in de bij zijn functie behorende maximumschaal.

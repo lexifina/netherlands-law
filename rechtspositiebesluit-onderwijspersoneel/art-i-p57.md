@@ -1,0 +1,5 @@
+# Artikel I-P57. Uitkering om redenen van werving of behoud
+1. Het bevoegd gezag kan aan de betrokkene die een functie vervult als bedoeld in hoofdstuk I-R of hoofdstuk I-S om redenen van werving of behoud een uitkering toekennen. De uitkering maakt geen deel uit van het ambtelijk inkomen bedoeld in de pensioenwet.
+2. De in het eerste lid bedoelde uitkering wordt toegekend aan het einde van het tijdvak dat tevoren door het bevoegd gezag is vastgesteld. Het bevoegd gezag kan aan de toekenning nadere voorwaarden verbinden.
+3. Aan de betrokkene die niet heeft kunnen voldoen aan de in het tweede lid bedoelde voorwaarden door een naar het oordeel van het bevoegd gezag niet aan hem zelf te wijten oorzaak, kan de uitkering niettemin geheel of gedeeltelijk worden toegekend.
+4. Aan de betrokkene worden de nadere voorwaarden als bedoeld in het tweede lid, evenals de grootte van de uitkering en de maand en het jaar van toekenning, voor zover deze niet reeds in de akte van benoeming zijn vermeld, zo spoedig mogelijk schriftelijk medegedeeld.

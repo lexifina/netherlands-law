@@ -1,0 +1,4 @@
+# Artikel V-H7. Overgangsrecht WW-bodem per 1 april 1991
+1. Op de ontslaguitkeringen toegekend krachtens de bepalingen van hoofdstuk I-H, zoals deze luidden op 31 maart 1991, worden voor de resterende duur na 30 maart 1991 de bepalingen van hoofdstuk I-H van toepassing, zoals deze luiden met ingang van 1 april 1991.
+2. Ten aanzien van de ontslaguitkeringen als bedoeld in het eerste lid, die voortduren na 30 maart 1991, wordt op basis van de desbetreffende bepalingen in hoofdstuk I-H, zoals deze luiden met ingang van 1 april 1991, de duur opnieuw berekend. Indien de aldus berekende duur langer is dan de oorspronkelijk vastgestelde duur, wordt deze laatstgenoemde duur verlengd met het verschil tussen beide.
+3. Voor de toepassing van artikel I-H3, derde lid, wordt onder eerder toegekende ontslaguitkering tevens begrepen de ontslaguitkering, waarvan de duur is vastgesteld krachtens de artikelen I-H3 en I-H6, zoals die luidden op 31 maart 1991.

@@ -1,0 +1,4 @@
+# Artikel I-P84. Verplichtingen
+1. De betrokkene niet zijnde de betrokkene bedoeld in artikel I-A1, onder e12, voor wie de functie is opgenomen in de formatie bedoeld in artikel I-P76, tweede lid, onder b, is verplicht andere hem door het bevoegd gezag opgedragen werkzaamheden die in het kader van de door hem vervulde functie passend zijn te achten, te verrichten, dan wel bij een ander bevoegd gezag dan wel buiten het onderwijs een passende betrekking te aanvaarden.
+2. Onverminderd het bepaalde in het eerste lid, kan het bevoegd gezag een betrokkene bedoeld in het eerste lid, een sollicitatieplicht of, met inachtneming van artikel I-P86, een scholingsplicht opleggen.
+3. De betrokkene voor wie op grond van het tweede lid een sollicitatieverplichting geldt, is verplicht zich als werkzoekende te laten registreren bij de Centrale organisatie werk en inkomen en een andere passende betrekking binnen dan wel buiten het onderwijs te aanvaarden.
