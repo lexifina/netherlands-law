@@ -1,0 +1,4 @@
+# Artikel 21c
+1. De ijkinstelling kan op een daartoe strekkende aanvraag ontheffing verlenen van het bepaalde in artikel 11, tweede lid, in gevallen waarin van een maat, een gewicht, een meet- of weegwerktuig of een meetinstrument slechts één of enkele exemplaren in Nederland worden vervaardigd of, indien elders vervaardigd, in Nederland in het verkeer worden gebracht en, voor zover het betreft meer dan één exemplaar van het betrokken voorwerp, de desbetreffende exemplaren aan elkaar gelijk zijn.
+2. De aanvraag van een ontheffing als in het eerste lid bedoeld moet een opgave bevatten van het aantal exemplaren dat ten hoogste in Nederland wordt vervaardigd, of indien elders vervaardigd, in Nederland in het verkeer wordt gebracht, en moet vergezeld gaan van tekeningen en beschrijvingen, die het betrokken voorwerp zo volledig mogelijk weergeven.
+3. Een ontheffing als in het eerste lid bedoeld kan onder beperkingen worden verleend.
