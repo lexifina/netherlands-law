@@ -1,0 +1,3 @@
+# Article IV. Outstanding Amount of Debt
+1. The outstanding amount of any debt is the unpaid principal and all unpaid interest due up to 1st January, 1953, such interest to be computed as simple interest at the rate established in the existing contract, regardless of whether the debt has matured before that date and regardless of the effect of any default under the existing contract prior to that date.
+2. An amount is unpaid within the meaning of paragraph 1 of this Article if it has not been received and accepted expressly or implicitly by the creditor. Acceptance by the creditor of funding bonds, scrip or cash from the Konversionskasse constitutes payment of any debt, or of any part of a debt, in respect of which they were accepted.

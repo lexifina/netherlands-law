@@ -1,0 +1,5 @@
+# Article X. Expenses of Creditors, Creditor Representatives and Others
+1. The debtors affected by this Agreement shall pay all expenses incurred in connection with the Debt Conference or in the general execution of this Agreement by any Creditor Committee.
+2. Expenses incurred by the creditors in connection with negotiations between a debtor and his creditors pursuant to Article VII of this Agreement shall be borne by the debtor involved. Such expenses and compensation shall be paid, in the case of non-bonded debt, to the creditors and, in the case of bonded debt, to the creditors' representatives appointed pursuant to Article VIII of this Agreement.
+3. The term expenses, as used in paragraphs 1 and 2 of this Article, includes reasonable compensation for services. Any dispute as to the reasonableness of expenses payable under this Article may be referred to the Arbitration and Mediation Committee.
+4. Payments provided for in this Article shall not stand in the way of or bar any creditors' representative from making and collecting additional charges from the bondholders or creditors.

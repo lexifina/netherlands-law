@@ -1,0 +1,2 @@
+# Article XI. Entry into Force
+No payments may be made, under the terms of any settlement offer made pursuant to this Agreement, prior to the date of entry into force pf the contemplated Intergovernmental Agreement on German External Debts. Nevertheless, the debtors shall proceed expeditiously to prepare and present offers of settlement to their creditors in accordance with the provisions of Article VII of this Agreement, to conduct such negotiations as may be necessary, and otherwise to take all steps to forward the preparation of the new offers contemplated hereunder.

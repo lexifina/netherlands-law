@@ -1,0 +1,2 @@
+# Article I. Introductory
+This Agreement establishes terms and procedures which are to govern the settlement of the debts described in Article III below. The Agreement does not in itself modify the terms of the debts to which it applies. Rather, it is contemplated that new contracts will be entered into between each debtor and his creditors pursuant to the provisions of this Agreement. The new contracts shall retain the terms of the existing contracts unless modified by arrangements between creditor and debtor within the framework of this Agreement.
