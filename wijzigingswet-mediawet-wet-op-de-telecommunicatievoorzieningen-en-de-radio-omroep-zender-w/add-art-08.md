@@ -1,0 +1,2 @@
+# ARTIKEL VIII
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop artikel II, onderdelen A, E, F, G en I, in werking treedt.

@@ -1,0 +1,3 @@
+# ARTIKEL VI
+1. De toestemmingen die zijn verleend krachtens artikel 167, eerste lid, van de Mediawet, zoals deze bepaling luidde voor de inwerkingtreding van deze wet, worden met ingang van de datum van inwerkingtreding van deze wet geacht te zijn verleend krachtens artikel 72, eerste lid, van de Mediawet.
+2. De toestemmingen die zijn verleend krachtens artikel 167, tweede lid, van de Mediawet, zoals deze bepaling luidde voor de inwerkingtreding van deze wet, worden met ingang van de datum van inwerkingtreding van deze wet geacht te zijn verleend krachtens artikel 71a, eerste lid, van de Mediawet.
