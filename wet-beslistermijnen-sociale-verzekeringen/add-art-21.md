@@ -1,0 +1,2 @@
+# Artikel XXI. Overgangsbepaling per 2004
+Op aanvragen ontvangen met ingang van 1 januari 2001 doch voor 1 januari 2004 blijven de artikelen 35, vijfde lid, en 95a van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, 28, vijfde lid, 69 en 69a van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, 34, vierde lid, en 87 van de Wet op de arbeidsongeschiktheidsverzekering, zoals deze komen te luiden met ingang van 1 januari 2001, van toepassing.
