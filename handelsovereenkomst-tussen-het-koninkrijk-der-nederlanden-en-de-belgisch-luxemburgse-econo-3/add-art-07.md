@@ -1,0 +1,3 @@
+# Article VII
+1. The present Agreement shall be ratified and the instruments of ratification shall be deposited with the Government of Japan. The Agreement shall come into force on the date when the third instrument of ratification has been deposited.
+2. The present Agreement shall remain in force for a period of three years from its entry into force and shall continue in force thereafter provided that it shall be terminated on the date of expiry of the above-mentioned three year period or thereafter if the Government of either Contracting Party have previously given to the Government of the other Contracting Party at least three months written notice of their intention to terminate the present Agreement.

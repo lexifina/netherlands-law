@@ -1,0 +1,3 @@
+# Artikel VII
+1. Deze Overeenkomst zal worden bekrachtigd en de akten van bekrachtiging zullen worden nedergelegd bij de Regering van Japan. De Overeenkomst treedt in werking op de datum waarop de derde akte van bekrachtiging is nedergelegd.
+2. Deze Overeenkomst blijft van kracht gedurende een periode van drie jaar na de datum waarop zij in werking is getreden en blijft daarna van kracht, met dien verstande dat zij eindigt op de dag waarop de vorenvermelde periode van drie jaar verstreken is, of na deze datum, indien de Regering van één der Overeenkomstsluitende Partijen de Regering van de andere Partij ten minste drie maanden van tevoren schriftelijk mededeling heeft gedaan van haar voornemen deze Overeenkomst te beëindigen.
