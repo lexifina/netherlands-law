@@ -12,4 +12,5 @@
 ### § 4. Registratie van explosieven
 ## Hoofdstuk IV. Bestuursrechtelijke handhaving
 ## Hoofdstuk V. Overige bepalingen
+## Hoofdstuk Va. Terroristisch misdrijf
 ## Hoofdstuk VI. Overgangs- en slotbepalingen
