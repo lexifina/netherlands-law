@@ -1,0 +1,3 @@
+# Artikel IV
+1. [Wijzigt de Wet installaties Noordzee.]
+2. Indien ten aanzien van het oprichten van een installatie bijzondere schriftelijke aanwijzingen aan de gebruiker zijn vastgesteld op grond van artikel 2 van het besluit van 19 juli 1974, houdende vaststelling van een regeling als bedoeld in artikel 7 van de Wet installaties Noordzee, worden de bij of krachtens dat besluit jegens de gebruiker van een installatie vastgestelde voorschriften met ingang van het tijdstip van inwerkingtreding van deze wet gelijkgesteld met voorschriften van een krachtens artikel 2 van de Wet beheer rijkswaterstaatswerken verleende vergunning.

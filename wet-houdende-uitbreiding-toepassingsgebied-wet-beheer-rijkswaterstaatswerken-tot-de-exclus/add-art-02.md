@@ -1,0 +1,3 @@
+# Artikel II
+1. Artikel 2 van de Wet beheer rijkswaterstaatswerken is niet van toepassing met betrekking tot werken die voor het tijdstip van inwerkingtreding van deze wet zijn gemaakt in of op het aan Nederland toekomende gedeelte van het continentale plat, tot het tijdstip waarop de ingevolge het tweede lid voor het desbetreffende werk verleende vergunning van kracht wordt.
+2. Onze Minister van Verkeer en Waterstaat verleent ambtshalve binnen twee jaar na het tijdstip van inwerkingtreding van deze wet een vergunning als bedoeld in artikel 2 van de Wet beheer rijkswaterstaatswerken voor het houden van een werk als bedoeld in het eerste lid.
