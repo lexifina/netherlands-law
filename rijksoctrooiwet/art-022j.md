@@ -1,3 +1,0 @@
-# Artikel 22J
-1. Na de mededeling betreffende het onderzoek, bedoeld in artikel 22I, negende lid, kan de aanvrager of een ander schriftelijk aan de Octrooiraad verzoeken een beslissing te nemen omtrent de verlening van octrooi op de aanvrage. Bij het indienen van een daartoe strekkend verzoekschrift moet een bij algemene maatregel van Rijksbestuur te bepalen bedrag worden betaald.
-2. Artikel 22I, vijfde en zesde lid, is van overeenkomstige toepassing. Indien het verzoek door een ander dan de aanvrager is gedaan en de aanvrage na indiening van dat verzoek en vóór het besluit van de aanvraagafdeling, bedoeld in artikel 24, wordt ingetrokken, geeft de raad de verzoeker hiervan schriftelijk kennis.

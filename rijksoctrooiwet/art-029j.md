@@ -1,3 +1,0 @@
-# Artikel 29J
-1. Een internationale aanvrage, die een dagtekening van internationaal depot als bedoeld in artikel 11 van het Samenwerkingsverdrag heeft verkregen en de Octrooiraad heeft bereikt op de wijze en binnen de termijn als is aangegeven in artikel 22 of, in voorkomend geval, artikel 39 van het Samenwerkingsverdrag, geldt als een tot die raad gerichte en bij die raad ingediende aanvrage om octrooi als bedoeld in artikel 1A.
-2. Een aanvrage als in het eerste lid bedoeld wordt geacht bij de Octrooiraad te zijn ingediend op de dag, aangewezen door de dagtekening van het internationale depot als bedoeld in artikel 11 van het Samenwerkingsverdrag.

@@ -1,3 +1,0 @@
-# Artikel 29M
-1. Met inachtneming van het in deze Rijkswet bepaalde hebben Europese octrooien vanaf de dag, dat overeenkomstig artikel 97, vierde lid, van het Europees Octrooiverdrag de vermelding van de verlening is gepubliceerd, in Nederland dezelfde rechtsgevolgen en zijn zij aan hetzelfde recht onderworpen als de overeenkomstig deze Rijkswet verleende octrooien.
-2. Voor de toepassing van de artikelen 32, eerste lid, 34, vierde lid, 47 en 52 op Europese octrooien wordt als dag van indiening aangemerkt de datum van indiening, die de Europese octrooiaanvrage, die tot het betrokken Europees octrooi heeft geleid, ingevolge artikel 80 van het Europees Octrooiverdrag met inachtneming van de artikelen 61 of 76 van dat Verdrag bezit.

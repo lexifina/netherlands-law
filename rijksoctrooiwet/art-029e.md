@@ -1,4 +1,0 @@
-# Artikel 29E
-1. Ingeval Onze Minister van Defensie van oordeel is, dat het belang van de verdediging van het Koninkrijk vordert, dat de Staat datgene, waarvoor octrooi wordt aangevraagd in een aanvrage, waarop artikel 29A, 29B of 29D is toegepast, gebruikt, toepast dan wel doet gebruiken of toepassen, kan hij daartoe overgaan na een desbetreffende mededeling aan de aanvrager. In deze mededeling worden de handelingen, die de Staat moet kunnen verrichten of doen verrichten, nauwkeurig omschreven.
-2. De Staat betaalt de aanvrager een vergoeding voor het gebruik of de toepassing krachtens het eerste lid.
-3. Het bedrag van deze vergoeding wordt zo mogelijk door Onze genoemde Minister en de aanvrager in onderling overleg vastgesteld. Indien binnen zes maanden na de in het eerste lid bedoelde mededeling geen overeenstemming is bereikt, is artikel 34, negende lid, met uitzondering van het omtrent het stellen van zekerheid bepaalde, van overeenkomstige toepassing.

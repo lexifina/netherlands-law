@@ -1,2 +1,0 @@
-# Artikel 18A
-Voor de Octrooiraad kunnen als gemachtigde slechts optreden personen die op grond van artikel 23b van de Rijksoctrooiwet 1995 gerechtigd zijn als gemachtigde voor het Bureau voor de industriële eigendom op te treden. Het bij of krachtens hoofdstuk 2, paragraaf 1a, van de Rijksoctrooiwet 1995 bepaalde is van overeenkomstige toepassing ten aanzien van het uitoefenen van het beroep van gemachtigde voor de Octrooiraad.
