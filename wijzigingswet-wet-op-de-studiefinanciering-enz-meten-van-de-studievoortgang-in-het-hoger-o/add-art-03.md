@@ -1,0 +1,2 @@
+# Artikel III
+In afwijking van het bepaalde in artikel 17b, eerste lid, van de Wet op de studiefinanciering kan Onze Minister van Onderwijs en Wetenschappen tot uiterlijk 1 september 1996 aan een onderwijsinstelling naar aanleiding van een jaarlijks door het bestuur van die instelling schriftelijk in te dienen verzoek, toestaan dat uitsluitend ten behoeve van de beoordeling van de studievoortgang in dat studiejaar, in plaats van studiepunten een andere norm wordt gehanteerd. Deze norm dient gelijkwaardig te zijn aan de norm uitgedrukt in studiepunten.
