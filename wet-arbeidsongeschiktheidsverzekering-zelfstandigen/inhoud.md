@@ -18,4 +18,5 @@
 ## Hoofdstuk 7. Uitvoering
 ## HOOFDSTUK 9. BEPALINGEN IN VERBAND MET DE ALGEMENE WET BESTUURSRECHT EN HET BEROEP IN CASSATIE
 ## Hoofdstuk 10. Strafbepalingen
+## Hoofdstuk 10A. Overgangsbepalingen
 ## Hoofdstuk 11. Slotbepalingen
