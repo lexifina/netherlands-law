@@ -1,0 +1,5 @@
+# ARTIKEL X
+1. Wanneer de officier van justitie voor de inwerkingtreding van deze wet een kind ingevolge artikel 272, eerste lid, of artikel 332 van Boek 1 van het Burgerlijk Wetboek, aan de raad voor de kinderbescherming heeft toevertrouwd en na het tijdstip van inwerkingtreding van deze wet overeenkomstig artikel 272, tweede lid, van de rechtbank haar bekrachtiging vordert, bepaalt de rechtbank, indien zij het kind overeenkomstig artikel 271, vierde lid, aan de raad voor de kinderbescherming toevertrouwt, de duur van de voorlopige toevertrouwing.
+2. De maatregel, bedoeld in het eerste lid, vervalt na verloop van zes weken, tenzij voor het einde van de termijn een verzoek of vordering tot ontzetting of ontheffing aanhangig is gemaakt. In dat laatste geval blijft de maatregel van kracht totdat bij gewijsde over de ontzetting of de ontheffing is beslist, tenzij de rechter een kortere termijn heeft vastgesteld.
+3. De in het eerste lid bedoelde voorlopige toevertrouwing kan worden ingetrokken.
+4. De termijn, bedoeld in het tweede lid, eerste volzin, vangt aan met ingang van de dag na die waarop deze wet in werking treedt.
