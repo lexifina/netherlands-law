@@ -1,0 +1,3 @@
+# Artikel XI
+1. De omzetbelasting die op of na 1 januari 1993 wordt verschuldigd ter zake van vóór die datum verrichte prestaties waarvoor het omzetbelastingtarief verandert op grond van artikel IV, onderdelen B.1, B.2, B.3 en B.4, wordt berekend naar het tarief dat geldt op het tijdstip waarop de prestatie wordt verricht.
+2. Ingeval omzetbelasting vóór 1 januari 1993 wordt verschuldigd ter zake van op of na deze datum te verrichten prestaties als bedoeld in het eerste lid, wordt hetgeen meer verschuldigd zou zijn geweest indien de belasting zou zijn berekend naar het tarief dat geldt op het tijdstip waarop de prestatie wordt verricht, alsnog verschuldigd op 1 januari 1993.
