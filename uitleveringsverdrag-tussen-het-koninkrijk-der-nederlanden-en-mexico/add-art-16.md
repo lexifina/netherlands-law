@@ -1,0 +1,3 @@
+# Art. XVI
+Het vervoer over het grondgebied van een der contracteerende Staten, van een persoon, door eene derde mogendheid uitgeleverd en geen onderdaan zijnde van het land, door hetwelk het vervoer plaats heeft, zal worden toegestaan op enkel vertoon hetzij van het oorspronkelijke, hetzij van een gewaarmerkt afschrift van een der processtukken in art. IX vermeld, onder voorwaarde dat het feit, dat aan de uitlevering ten grondslag heeft gelegen, in de tegenwoordige overeenkomst is opgenomen en niet valt onder de gevallen in artikelen IV en VIII voorbehouden en dat het medegeleide geschiede door beambten van het land, dat het vervoer over zijn grondgebied heeft toegestaan.
+De kosten van het vervoer worden gedragen door den Staat, die de uitlevering heeft aangevraagd.

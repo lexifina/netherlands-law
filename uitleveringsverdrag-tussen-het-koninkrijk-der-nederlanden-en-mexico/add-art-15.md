@@ -1,0 +1,2 @@
+# Art. XV
+Indien in een niet politiek strafgeding, hetzij confrontatie van misdadigers, die in den anderen Staat gevangen gehouden zijn, hetzij mededeeling van stukken van overtuiging of andere documenten, die in de handen van de autoriteiten van het andere land berusten, nuttig of noodzakelijk wordt geoordeeld, geschiedt het verzoek daartoe langs diplomatieken weg en zal daaraan worden gevolg gegeven, tenzij overwegingen van bijzonderen aard zich daartegen verzetten en onder verbintenis van misdadigers en stukken terug te zenden.

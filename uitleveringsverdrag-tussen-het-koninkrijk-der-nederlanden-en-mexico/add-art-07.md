@@ -1,0 +1,3 @@
+# Art. VII
+De uitgeleverde zal niet worden vervolgd of veroordeeld voor een feit, gepleegd vóór zijne uitlevering en verschillend van dat waarvoor die uitlevering is aangevraagd, noch aan een derden Staat worden uitgeleverd, dan met bizondere toestemming van de uitleverende Regeering.
+Deze toestemming is echter niet vereischt, wanneer de beklaagde uit eigen beweging gevraagd heeft, te worden terechtgesteld, of zijn straf te ondergaan, of, wanneer hij gedurende één maand, na zijne definitieve invrijheidstelling, de vrijheid heeft gehad het land, dat de uitlevering aanvraagt, opnieuw te verlaten.

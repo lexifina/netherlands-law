@@ -1,0 +1,3 @@
+# Art. IX
+De uitlevering wordt aangevraagd langs diplomatieken weg (behalve in de gevallen in art. XVIII voorzien) en wordt niet toegestaan dan na overlegging van het oorspronkelijke of van het gewaarmerkt afschrift, hetzij van het vonnis van veroordeeling, hetzij van het bevel tot inhechtenisneming of van eenige andere akte van minstens gelijke rechtskracht, nauwkeurig aanwijzende het feit, wegens hetwelk zij is uitgevaardigd.
+Die stukken zullen vergezeld zijn van een gelegaliseerd afschrift van de strafbepaling op het ten laste gelegde feit toepasselijk en zooveel mogelijk van het signalement van den opgeeischten persoon.
