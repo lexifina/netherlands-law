@@ -1,0 +1,2 @@
+# IV. Ad Article 11
+With reference to paragraph 2 of Article 11 of the Convention, the two Governments, having in mind that the difference between the provisions of sub-paragraph a) and those of sub-paragraph b) of the said paragraph is based on the fact that in Israel the tax burden in the hands of Israeli companies for distributed profits is substantially lower than that for undistributed profits, agree to undertake the review of the said provisions in order to adapt sub-paragraph b) to sub-paragraph a) when the basis of such difference no longer exists.
