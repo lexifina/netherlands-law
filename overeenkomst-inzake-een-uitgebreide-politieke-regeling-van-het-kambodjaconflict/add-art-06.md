@@ -1,0 +1,8 @@
+# Artikel VI. Verificatie van de terugtrekking uit Kambodja en het niet terugkeren van alle categorieën buitenlandse strijdkrachten
+1. Aan de UNTAC wordt, uiterlijk twee weken voor de aanvang van de tweede fase van het staakt-het-vuren, uitvoerige schriftelijke informatie verschaft omtrent de terugtrekking van buitenlandse strijdkrachten. Deze informatie omvat de volgende gegevens:
+a. De totale sterkte van deze strijdkrachten en de organisatie en inzet daarvan;
+b. Uitgebreide lijsten van de in het bezit van deze strijdkrachten zijnde wapens, munitie en uitrusting en de precieze plaats daarvan;
+c. Het terugtrekkingsplan (reeds uitgevoerd of nog uit te voeren), met inbegrip van terugtrekkingsroutes, grensovergangen en tijdstip van vertrek uit Kambodja.
+2. Op grond van de overeenkomstig het eerste lid hierboven verstrekte informatie gaat de UNTAC op een door haar passend geachte wijze over tot onderzoek. De Partij die de informatie verstrekt, dient personeel ter beschikking te stellen om de onderzoekers van de UNTAC te vergezellen.
+3. Bij bevestiging van de aanwezigheid van buitenlandse strijdkrachten voegt de UNTAC onmiddellijk militair personeel toe aan de buitenlandse strijdkrachten en begeleidt zij deze totdat de strijdkrachten zich uit Kambodjaans grondgebied hebben teruggetrokken. De UNTAC stelt ook controleposten in op terugtrekkingsroutes, bij grensovergangen en op vliegvelden om de terugtrekking te verifiëren en het niet terugkeren van alle categorieën buitenlandse strijdkrachten te verzekeren.
+4. De Gemengde Militaire Werkgroep (GMW) bedoeld in artikel II van deze Bijlage staat de UNTAC bij in het vervullen van de bovengenoemde taken.

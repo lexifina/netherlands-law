@@ -1,0 +1,2 @@
+# Artikel XII. Repatriëring en hervestiging van ontheemde Kambodjanen
+De militaire afdeling van de UNTAC verleent waar nodig bijstand bij de repatriëring van Kambodjaanse vluchtelingen en ontheemden overeenkomstig de artikelen 19 en 20 van deze Overeenkomst, met name door het opruimen van mijnen op repatriëringsroutes en in opvangcentra en hervestigingsgebieden, alsmede door het beschermen van de opvangcentra.

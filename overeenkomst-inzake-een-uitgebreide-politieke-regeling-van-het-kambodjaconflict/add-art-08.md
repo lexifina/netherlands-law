@@ -1,0 +1,3 @@
+# Artikel VIII. Geheime opslagplaatsen van wapens en militaire voorraden
+1. Ten einde de veiligheidssituatie te stabiliseren, vertrouwen te wekken en de wapens en militaire voorraden in geheel Kambodja te verminderen, stemt elke Partij ermee in de Bevelhebber van de militaire afdeling van de UNTAC, vóór een door deze te bepalen datum, alle haar ter beschikking staande informatie, met inbegrip van kaarten met aanduidingen, te verstrekken over bekende of vermoede geheime opslagplaatsen van wapens en militaire voorraden in geheel Cambodja.
+2. Op grond van de ontvangen informatie zendt de militaire afdeling van de UNTAC na de in het eerste lid bedoelde datum verificatieteams uit om elk rapport te onderzoeken en elke gevonden geheime opslagplaats te vernietigen.
