@@ -1,0 +1,4 @@
+# Article II. Purpose
+a. The primary purpose of the Bank is to help in solving the social problems with which European countries are or may be faced as a result of the presence of refugees, displaced persons or migrants consequent upon movements of refugees or other forced movements of populations and as a result of the presence of victims of natural or ecological disasters.
+The investment projects to which the Bank contributes may be intended either to help such people in the country in which they find themselves or to enable them to return to their countries of origin when the conditions for return are met or, where applicable, to settle in another host country. These projects must be approved by a Member of the Bank.
+b. The Bank may also contribute to the realisation of investment projects approved by a Member of the Bank which enable jobs to be created in disadvantaged regions, people in low income groups to be housed or social infrastructure to be created.

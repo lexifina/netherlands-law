@@ -1,0 +1,6 @@
+# Article XIII. Council of Europe
+a. With a view to ensuring relations with the Council of Europe, the Committee of Ministers and Parliamentary Assembly of the Council of Europe shall be regularly informed of the Bank's activities. The Governing Board shall state a position on the recommendations and opinions of the Committee of Ministers and Parliamentary Assembly transmitted to it.
+b. The Secretary General of the Council of Europe shall participate in, or may be represented at, meetings of the Governing Board and Administrative Council, without the right to vote.
+He shall carry out any duty entrusted to him in pursuance of the present Articles of Agreement or of the Third Protocol to the General Agreement on Privileges and Immunities of the Council of Europe. In this connection he shall place the requisite staff at the disposal of the Bank.
+He may perform any other duty entrusted to him by the Organs of the Bank in accordance with the provisions of the Partial Agreement on the Council of Europe Development Bank.
+c. Applications for loans or guarantees shall be submitted to the Administrative Council after receipt of the Secretary General's opinion as to admissibility based on the project's conformity with the political and social aims of the Council of Europe.

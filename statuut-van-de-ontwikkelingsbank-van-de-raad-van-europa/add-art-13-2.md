@@ -1,0 +1,6 @@
+# Artikel XIII. Raad van Europa
+a. Ter wille van de betrekkingen met de Raad van Europa worden het Comité van Ministers en de Parlementaire Vergadering van de Raad van Europa regelmatig op de hoogte gebracht van de activiteiten van de Bank. De Raad van Bestuur spreekt zich uit over aanbevelingen en adviezen van het Comité van Ministers en de Parlementaire Vergadering die hem worden toegezonden.
+b. De Secretaris-Generaal van de Raad van Europa neemt, zonder stemrecht, deel aan de vergaderingen van de Raad van Bestuur en de Administratieve Raad, of kan zich daar doen vertegenwoordigen.
+Hij verricht alle taken die hem worden opgedragen ingevolge dit Statuut of het Derde Aanvullend Protocol bij het Algemeen Verdrag nopens de voorrechten en immuniteiten van de Raad van Europa. In dit verband stelt hij de Bank het benodigde personeel ter beschikking.
+Hij kan alle andere taken verrichten die hem door de organen van de Bank worden opgedragen in overeenstemming met de bepalingen van het Partieel Akkoord inzake de Ontwikkelingsbank van de Raad van Europa.
+c. Verzoeken om leningen en waarborgen worden ingediend bij de Administratieve Raad na ontvangst van het advies van de Secretaris-Generaal inzake de ontvankelijkheid op grond van de vraag of het project strookt met de politieke en sociale doelstellingen van de Raad van Europa.

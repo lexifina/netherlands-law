@@ -1,0 +1,2 @@
+# Article XVI. Interpretation of the present Articles of Agreement
+Any decision of the Administrative Council involving the interpretation of the present Articles of Agreement may be referred to the Governing Board at the request of any Member. Until such time as the Governing Board has made a ruling, the Bank may, to the extent it deems it necessary, act on the basis of the decision of the Administrative Council.
