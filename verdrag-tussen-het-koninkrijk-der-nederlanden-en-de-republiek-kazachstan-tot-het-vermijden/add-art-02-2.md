@@ -1,0 +1,2 @@
+# II. Ad artikel 5
+Het is wel te verstaan dat voor de toepassing van het vierde lid, onderdeel f en g, het slechts vergemakkelijken van het afsluiten (met inbegrip van slechts de ondertekening) van overeenkomsten betreffende leningen, de levering van goederen of koopwaar of de verlening van technische diensten wordt beschouwd als een werkzaamheid die van voorbereidende aard is of het karakter van hulpwerkzaamheid heeft.

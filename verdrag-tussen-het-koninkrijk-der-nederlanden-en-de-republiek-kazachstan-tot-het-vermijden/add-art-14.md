@@ -1,0 +1,2 @@
+# XIV. Ad Article 19
+It is understood that in the case of the Netherlands the term "any pension and other payment paid out under the provisions of a social security system of a Contracting State" includes all payments and other benefits derived under the Netherlands laws on social insurance and social provisions, e.g. in respect of old age, death, illness, disablement, unemployment, child support or widow and orphan support.

@@ -1,0 +1,2 @@
+# XVI. Ad artikel 24
+Het is wel te verstaan dat voor de berekening van de aftrek die is vermeld in artikel 24, derde lid, de waarde van de in artikel 23, eerste lid, genoemde vermogensbestanddelen wordt verminderd met de waarde van de schulden verzekerd door hypotheek op dat vermogen en de waarde van de in artikel 23, tweede lid, bedoelde vermogensbestanddelen wordt verminderd met de waarde van de tot de vaste inrichting of het vaste middelpunt behorende schulden.

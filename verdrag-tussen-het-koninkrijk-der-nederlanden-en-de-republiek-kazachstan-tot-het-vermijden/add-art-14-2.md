@@ -1,0 +1,2 @@
+# XIV. Ad artikel 19
+Het is wel te verstaan dat in het geval van Nederland de uitdrukking „pensioenen en andere uitkeringen betaald krachtens de bepalingen van een sociale-zekerheidsstelsel van een Verdragsluitende Staat" alle betalingen en andere voordelen omvat die ontleend worden aan de Nederlandse wetgeving inzake sociale zekerheid en sociale voorzieningen, bijvoorbeeld met betrekking tot ouderdom, overlijden, ziekte, invaliditeit, werkloosheid, kinderbijslag of weduwen- en wezenpensioen.
