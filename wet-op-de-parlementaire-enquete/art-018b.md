@@ -1,0 +1,4 @@
+# Artikel 18b
+1. De commissie kan om gewichtige redenen in verband met de bescherming van de in artikel 3, eerste lid, genoemde personen of van een belang, bedoeld in artikel 18, besluiten aan haar overgelegde bescheiden of gedeelten daarvan niet openbaar te maken.
+2. De leden en plaatsvervangende leden van de commissie bewaren geheimhouding omtrent de inhoud van de bescheiden of gedeelten daarvan, die ingevolge een besluit, bedoeld in het eerste lid, niet openbaar worden gemaakt.
+3. Voor zover de in het tweede lid bedoelde bescheiden deel uitmaken van het onderzoeksverslag van de commissie, worden deze ter inzage of anderszins ter kennisneming gelegd van de leden van de Kamer of verenigde vergadering door welke de commissie is ingesteld. De leden bewaren omtrent de inhoud van de zodanige bescheiden geheimhouding.
