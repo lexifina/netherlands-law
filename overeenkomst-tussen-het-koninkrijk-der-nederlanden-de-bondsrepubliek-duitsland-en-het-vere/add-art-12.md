@@ -1,0 +1,2 @@
+# Artikel XII
+Deze Overeenkomst dient te worden bekrachtigd. De akten van bekrachtiging worden nedergelegd bij de Regering van het Koninkrijk der Nederlanden. Deze Overeenkomst treedt in werking na de nederlegging bij de Regering van het Koninkrijk der Nederlanden van de derde akte van bekrachtiging. De Regering van het Koninkrijk der Nederlanden stelt de andere ondertekenende Staten in kennis van de nederlegging van elke akte van bekrachtiging en van de datum van inwerkingtreding van deze Overeenkomst.

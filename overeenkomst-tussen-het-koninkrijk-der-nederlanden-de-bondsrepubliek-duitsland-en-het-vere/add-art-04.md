@@ -1,0 +1,3 @@
+# Artikel IV
+(1) Ten aanzien van de in Artikel I van de Overeenkomst omschreven samenwerking, passen de Overeenkomstsluitende Partijen de bepalingen toe van Bijlage I bij deze Overeenkomst betreffende octrooien en andere industriële rechten, welke Bijlage een integrerend deel van deze Overeenkomst uitmaakt.
+(2) Met inachtneming van de bepalingen van dit Artikel en van Artikel III van deze Overeenkomst maken de Overeenkomstsluitende Partijen, tenzij anders is overeengekomen, geen gebruik van gegevens die hun ingevolge deze Overeenkomst zijn overgedragen noch delen zij deze aan iemand mede, behalve ten behoeve van de in Artikel I van de Overeenkomst omschreven samenwerking.

@@ -1,0 +1,3 @@
+# Artikel V
+(1) Ten aanzien van de in Artikel I van de Overeenkomst omschreven samenwerking, passen de Overeenkomstsluitende Partijen de bepalingen toe van Bijlage II bij deze Overeenkomst betreffende beveiligingsmaatregelen en rubricering, welke Bijlage een integrerend deel van deze Overeenkomst uitmaakt.
+(2) Op de datum van de inwerkingtreding van deze Overeenkomst treedt de op 4 maart 1970 te Almelo ondertekende Interim-Overeenkomst inzake beveiligingsmaatregelen en rubricering buiten werking en worden alle gegevens en documenten, overgedragen met inachtneming van de bepalingen daarvan, beschermd alsof zij krachtens deze Overeenkomst waren overgedragen.

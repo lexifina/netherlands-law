@@ -1,0 +1,2 @@
+# Artikel XVI
+Deze Overeenkomst kan te allen tijde met eenstemmige goedkeuring van de Overeenkomstsluitende Partijen worden beëindigd. In dit geval wordt tussen hen een Protocol gesloten voor een dienovereenkomstige regeling van de rechten en verplichtingen, waaronder begrepen bepalingen aangaande de te volgen handelwijze met betrekking tot activa en passiva verband houdend met de samenwerking krachtens deze Overeenkomst.
