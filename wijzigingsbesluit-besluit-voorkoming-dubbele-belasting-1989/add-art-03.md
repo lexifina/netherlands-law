@@ -1,0 +1,2 @@
+# Artikel III
+Indien in de kalenderjaren 1990 en 1991 danwel in de boekjaren 1989/1990, 1990/1991 en 1991/1992 voorzover deze zijn aangevangen voor de inwerkingtreding van dit besluit, toepassing van artikel 3, tweede lid, van het Besluit voorkoming dubbele belasting 1989 zoals deze bepaling luidde op 1 januari 1990 zou leiden tot een grotere vermindering ter voorkoming van dubbele belasting dan zou voortvloeien uit de toepassing van dat artikel zoals dat luidt na de wijziging door artikel I, onderdeel A, onder 3, van dit besluit, vindt de eerstgenoemde bepaling toepassing.
