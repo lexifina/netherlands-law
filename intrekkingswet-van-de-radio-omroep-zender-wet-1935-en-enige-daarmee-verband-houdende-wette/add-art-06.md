@@ -1,0 +1,4 @@
+# Artikel VI
+Onze Minister van Verkeer en Waterstaat, handelende in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschappen, is, nadat door Onze Minister van Justitie is verklaard dat hem van bezwaren niet is gebleken, op de dag dat deze wet in werking treedt, bevoegd om voor een notaris een akte te doen verlijden waarbij met ingang van de volgende dag de statuten van de naamloze vennootschap Nederlandsche Omroep-Zender-Maatschappij, «NOZEMA» worden gewijzigd en in overeenstemming worden gebracht met de bepalingen van boek 2 van het Burgerlijk Wetboek, waarbij in de statuten in ieder geval wordt geregeld dat:
+a. de Raad van Beheer wordt vervangen door een directie die door de algemene vergadering van aandeelhouders wordt benoemd en ontslagen zonder voordrachtsrecht van een ander vennootschappelijk orgaan of van enige derde; en
+b. een raad van commissarissen bestaande uit ten minste zes leden wordt benoemd.
