@@ -1,0 +1,2 @@
+# Artikel VI
+Indien de toepassing van een krachtens artikel IV, onderdeel a, vervangen huursubsidietabel ertoe heeft geleid dat de bijdrage lager is vastgesteld dan in de situatie dat de krachtens artikel IV vastgestelde huursubsidietabellen en factor vóór de aanvang van het lopende tijdvak waren vastgesteld, wordt de bijdrage voor dat tijdvak zodanig hoger vastgesteld, dat de voor de betrokken huurder opgetreden nadelige financiële gevolgen van die toepassing vóór de aanvang van het op dat tijdvak volgende tijdvak zijn opgeheven.
