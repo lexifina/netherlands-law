@@ -1,0 +1,3 @@
+# Article III
+1. The Government of the Democratic Socialist Republic of Sri Lanka shall indemnify the Netherlands personnel against all civil liability directly arising out of the execution of their duties under this Agreement, other than such acts as are criminal or fraudulent;
+2. If the Government of the Democratic Socialist Republic of Sri Lanka so request, the Government of the Netherlands shall provide the competent authorities of Sri Lanka with the administrative or legal assistance required to achieve the satisfactory solution of any problems that may arise in connection with the application of paragraph 1 of this Article.

@@ -1,0 +1,9 @@
+# Article II
+In connection with the projects, the Government of the Democratic Socialist Republic of Sri Lanka shall:
+a. exempt the Netherlands advisers, experts, technicians, agents or employees supplied by the Government of the Netherlands (hereinafter referred to as "The Netherlands personnel") under the terms of this Agreement from all taxes and other fiscal charges in respect of all remunerations paid to them by the Netherlands Government;
+b. facilitate the prompt clearance, free of customs duty, of professional equipment imported into Sri Lanka by the Netherlands personnel. This provision will also cover bonafide personal and household effects and one motor vehicle for each member of the Netherlands personnel brought into Sri Lanka within 6 months of arrival. The household effects and motor vehicles so imported under this clause shall be reexported from Sri Lanka at the time of departure or disposed of as directed by the Government of Sri Lanka;
+c. make provisions for the issue of entry-visas and work-permits, free of charge, to the Netherlands personnel employed or to be employed on a project by the Netherlands Government;
+d. grant the Netherlands personnel the most favourable exchange facilities, i.e. external accounts, for all their Netherlands remunerations;
+e. offer the Netherlands personnel and their families in Sri Lanka repatriation facilities in time of national or international crises;
+f. issue to the Netherlands personnel an identification document in which is stated the name of the holder, the post he holds and the name of the sending agency or organization;
+g. ensure that the Netherlands personnel and their families are accorded treatment of a manner no less favourable than that accorded to technical assistance personnel assigned to Sri Lanka by any other country or international organization.

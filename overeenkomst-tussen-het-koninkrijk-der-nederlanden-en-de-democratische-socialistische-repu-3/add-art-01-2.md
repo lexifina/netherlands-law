@@ -1,0 +1,3 @@
+# Artikel I
+1. Het doel van deze Overeenkomst is de technische samenwerking te bevorderen en te dien einde het juridische en administratieve kader te scheppen voor projecten van technische samenwerking waartoe de bevoegde administratieve autoriteiten van beide Partijen besluiten ten einde uitvoering te geven aan deze Overeenkomst.
+2. Een besluit samen te werken als bedoeld in het eerste lid, de bijdragen aan zulke projecten en de wijze waarop de projecten worden uitgevoerd, worden in elk afzonderlijk geval vastgelegd in een tussen de onderscheiden bevoegde administratieve autoriteiten tot stand te brengen akkoord, overeenkomstig de beginselen vervat in deze Overeenkomst.

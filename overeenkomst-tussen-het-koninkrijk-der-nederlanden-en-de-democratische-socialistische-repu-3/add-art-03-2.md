@@ -1,0 +1,3 @@
+# Artikel III
+1. De Regering van de Democratische Socialistische Republiek Sri Lanka stelt het Nederlandse personeel schadeloos ter zake van elke civiele aansprakelijkheid die rechtstreeks voortvloeit uit de uitoefening van hun werkzaamheden ingevolge deze Overeenkomst, met uitzondering van die handelingen die een misdrijf of bedrog inhouden.
+2. Indien de Regering van de Democratische Socialistische Republiek Sri Lanka zulks verzoekt, verschaft de Nederlandse Regering de bevoegde autoriteiten van Sri Lanka de noodzakelijke administratieve bijstand of rechtshulp voor een bevredigende regeling van de problemen die zouden kunnen ontstaan in verband met de toepassing van het eerste lid van dit artikel.
