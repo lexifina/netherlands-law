@@ -3,4 +3,4 @@
 2. Indien de in de vreemde Staat opgelegde sanctie strekt tot de ontneming van wederrechtelijk verkregen voordeel, spreekt de rechtbank, indien de vreemde Staat uitdrukkelijk heeft verzocht die sanctie slechts ten uitvoer te leggen op voorwerpen die dat voordeel vertegenwoordigen, de verbeurdverklaring daarvan uit. In dat geval is de rechtbank niet gebonden aan beperkingen ingevolge artikel 33a, eerste lid, onder a., van het Wetboek van Strafrecht.
 3. Op uitspraken, houdende een verbeurdverklaring, is het bepaalde in de artikelen 552b, 552d, 552e en 552g van het Wetboek van Strafvordering van overeenkomstige toepassing.
 4. Op uitspraken, houdende de oplegging van een verplichting tot betaling van een geldbedrag aan de staat ter ontneming van wederrechtelijk verkregen voordeel, is het bepaalde in artikel 577b van het Wetboek van Strafvordering van overeenkomstige toepassing.
-5. Artikel 13d is van overeenkomstige toepassing.
+5. Artikel 13e is van overeenkomstige toepassing.
