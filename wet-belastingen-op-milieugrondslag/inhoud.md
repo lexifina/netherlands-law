@@ -41,9 +41,7 @@
 ### Afdeling 6. Teruggaven
 ### Afdeling 7. Verplichtingen ten dienste van de belastingheffing
 ### Afdeling 8. Bijzondere regeling voor op duurzame wijze geproduceerde energie
-### Afdeling 9. Bijzondere regeling voor energiezuinige apparaten, energiebesparende voorzieningen en voorzieningen voor het opwekken van duurzame energie (energiepremies)
 ### Afdeling 10. Bijzondere teruggaafregeling
-### Afdeling 11. Bijzondere regeling voor afvalverbrandingsinstallaties
 ### Afdeling 12
 ### Afdeling 13. Bijzondere regeling stimulering installaties voor warmtekrachtkoppeling
 ## Hoofdstuk VI. Algemene bepalingen
