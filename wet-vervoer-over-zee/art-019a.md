@@ -1,0 +1,2 @@
+# Artikel 19a
+Indien ter zake van het vervoer van goederen bij een verordening van de Raad van de Europese Gemeenschappen op grond van de Verordening (EEG) nr. 4057/86 van de Raad van de Europese Gemeenschappen van 22 december 1986, betreffende oneerlijke tariefpraktijken in het vervoer over zee (PbEG L 378) een compenserend recht is ingesteld, wordt dit recht namens Onze Minister opgelegd door de belastingdienst.
