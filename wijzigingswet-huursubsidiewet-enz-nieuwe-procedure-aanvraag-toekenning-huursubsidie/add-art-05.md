@@ -1,0 +1,3 @@
+# Artikel V
+Voor de periode van 1 juli 2002 tot het tijdstip van inwerkingtreding van de Uitvoeringswet huurprijzen woonruimte geldt in plaats van artikel 17, eerste lid, tweede volzin, van de Huurprijzenwet woonruimte het volgende:
+Als een dergelijk verzoek wordt mede aangemerkt een verzoek ingevolge artikel 3a van de Wet op de huurcommissies, indien een aanvraag om huursubsidie voor de betreffende woonruimte is ingediend binnen de in de eerste volzin bedoelde termijn en indien en zodra de voorzitter van de huurcommissie op dat verzoek een verklaring heeft afgegeven waaruit blijkt dat de overeengekomen huurprijs hoger is dan de bij de desbetreffende woonruimte behorende maximale huurprijsgrens.

@@ -1,0 +1,4 @@
+# Artikel VI
+Voor de periode van 1 juli 2002 tot het tijdstip van inwerkingtreding van de Uitvoeringswet huurprijzen woonruimte geldt in plaats van artikel 3a van de Wet op de huurcommissies het volgende:
+1. De voorzitter van de huurcommissie verstrekt op verzoek van Onze Minister ten behoeve van een aanvraag om huursubsidie krachtens de Huursubsidiewet binnen vier weken een verklaring omtrent de redelijkheid van de huurprijs en de juistheid van andere gegevens betreffende de woonruimte, een en ander voorzover van belang voor de toepassing van die wet, in de gevallen die bij algemene maatregel van bestuur krachtens artikel 5, tweede lid, van genoemde wet zijn aangewezen.
+2. Indien de voorzitter de verklaring niet binnen vier weken verstrekt, stelt hij Onze Minister en de huurder hier onmiddellijk van in kennis onder vermelding van de redenen daarvoor, en geeft daarbij aan binnen welke termijn de verklaring zal worden verstrekt.

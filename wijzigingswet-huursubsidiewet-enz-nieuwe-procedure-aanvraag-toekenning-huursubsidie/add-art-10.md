@@ -1,0 +1,2 @@
+# Artikel X
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. In het besluit kan worden bepaald dat de verschillende artikelen of onderdelen daarvan terugwerken tot en met een in dat besluit te bepalen tijdstip, dat voor die artikelen of onderdelen verschillend kan worden vastgesteld. In dat besluit wordt zonodig toepassing gegeven aan artikel 16 van de Tijdelijke referendumwet.
