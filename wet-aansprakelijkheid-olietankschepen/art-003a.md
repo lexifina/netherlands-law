@@ -1,0 +1,2 @@
+# Artikel 3a
+Wanneer zich een voorval voordoet waarbij twee of meer schepen zijn betrokken en er ten gevolge daarvan schade door verontreiniging is ontstaan, zijn de eigenaren van alle daarbij betrokken schepen, tenzij zij ingevolge artikel 3 van aansprakelijkheid zijn ontheven, hoofdelijk aansprakelijk voor alle schade die redelijkerwijs niet te scheiden is. Op de onderlinge verhouding van de eigenaren van de betrokken schepen is artikel 545, derde lid, laatste volzin, van Boek 8 van het Burgerlijk Wetboek van overeenkomstige toepassing.
