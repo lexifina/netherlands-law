@@ -7,3 +7,4 @@
 6. De raad van toezicht stelt de bevoegde autoriteit van de lidstaat van ontvangst in kennis van de schrapping.
 7. De advocaat draagt op verzoek van de raad van toezicht zorg voor de beëdigde vertaling van de gegevens en bescheiden die voor zijn beslissing nodig zijn. Indien de advocaat weigert aan dit verzoek te voldoen, draagt de raad van toezicht zorg voor de beëdigde vertaling en verhaalt hij de kosten daarvan op de betrokken advocaat.
 8. Het hof van discipline kan eisen dat de door haar aangewezen stukken worden vertaald door een in Nederland toegelaten beëdigd vertaler. De advocaat draagt zorg voor de kosten van de vertaling.
+9. Indien de advocaat zich in Zwitserland heeft laten inschrijven met inachtneming van de op 21 juni 1999 tot stand gekomen Overeenkomst tussen de Europese Gemeenschap en haar lidstaten enerzijds en de Zwitserse Bondsstaat anderzijds, over het vrije verkeer van personen, zijn de voorgaande leden van overeenkomstige toepassing.
