@@ -1,2 +1,0 @@
-# Artikel 17e.3. Beperking eerste inschrijving studiejaar 2003–2004 voor de bacheloropleiding klinische technologie o.g.v. de beschikbare onderwijscapaciteit
-Indien het instellingsbestuur, bedoeld in artikel 17e.1, met toepassing van artikel 7.53 besluit tot beperking van de eerste inschrijving voor het studiejaar 2003–2004 voor de propedeutische fase van de bacheloropleiding klinische technologie aan die universiteit, bedraagt het aantal personen dat ten hoogste kan worden ingeschreven 50.

@@ -1,2 +1,0 @@
-# Artikel 17c.1. Overgangsrecht aanvragen adviescommissie onderwijsaanbod
-Aanvragen om een oordeel als bedoeld in artikel 6.3, zoals dat artikel luidde voor inwerkingtreding van de wet van 30 januari 2003 (Stb. 70), die voor 12 september 2002 zijn ingediend bij de adviescommissie onderwijsaanbod en die nog niet voor 12 september 2002 zijn afgehandeld, worden geacht te zijn ingediend bij het accreditatieorgaan.

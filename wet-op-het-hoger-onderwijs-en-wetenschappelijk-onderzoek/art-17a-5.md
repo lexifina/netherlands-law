@@ -1,4 +1,0 @@
-# Artikel 17a.5. Registratieprocedure voor het studiejaar 2004–2005 en latere studiejaren
-1. Het instellingsbestuur, bedoeld in artikel 17a.2, artikel 17a.2a of artikel 17a.2b dat een bacheloropleiding in het wetenschappelijk onderwijs dan wel een of meer daarop aansluitende masteropleidingen met het oog op de verzorging van dat onderwijs met ingang van het studiejaar 2004–2005 of een later studiejaar heeft ingesteld, meldt die opleiding of die opleidingen aan bij de Informatie Beheer Groep voor registratie in het Centraal register opleidingen hoger onderwijs. Bij de aanmelding verstrekt het instellingsbestuur de gegevens, bedoeld in artikel 6.13, vierde lid.
-2. Artikel 17a.3, tweede lid, is van toepassing met dien verstande dat de registratie betrekking heeft op het studiejaar 2004–2005 of op het desbetreffende latere studiejaar.
-3. Artikel 6.14, vierde lid, eerste en tweede volzin, en vijfde lid, eerste volzin, is van overeenkomstige toepassing.

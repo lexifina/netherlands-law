@@ -1,2 +1,0 @@
-# Artikel 17a.1. Beëindiging mogelijkheid tot instelling van nieuwe ongedeelde opleidingen in het wetenschappelijk onderwijs
-Onverminderd artikel 17a.7, tweede lid, kunnen met ingang van 1 september 2002 aan een bekostigde of aangewezen universiteit of aan de Open Universiteit geen nieuwe opleidingen in het wetenschappelijk onderwijs als bedoeld in artikel 7.3, zoals dat artikel op 31 augustus 2002 luidde, meer worden ingesteld.

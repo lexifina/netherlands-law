@@ -1,2 +1,0 @@
-# Artikel 17b.1. Overgangsbepaling bezwaar en beroep
-Op bezwaar en beroep tegen een besluit als bedoeld in artikel 6.16, zoals dat artikel luidde voor het tijdstip van inwerkingtreding van deze wet, voorzover ingesteld voor dat tijdstip, blijven de op de dag voor het tijdstip van inwerkingtreding van de wet van 12 september 2002 (Stb. 493) geldende voorschriften van de Wet op het hoger onderwijs en wetenschappelijk onderzoek van toepassing.

@@ -93,7 +93,7 @@
 ### Titel 3. Overige bepalingen
 ## Hoofdstuk 14. Beroep op de administratieve rechter
 ## Hoofdstuk 15. Inhouding bekostiging, schadevergoeding en strafbepalingen
-## Hoofdstuk 16. Overgangs-, invoerings- en slotbepalingen
+## Hoofdstuk 16. Overgangs- en invoeringsbepalingen
 ### Titel 1. Intrekking wetten en besluiten
 ### Titel 2. Voorzieningen voor bepaalde en onbepaalde tijd
 ### Titel 3. Tijdelijke handhaving voorschriften oude stijl
@@ -101,11 +101,9 @@
 #### Paragraaf 1. Voorschriften betreffende de instellingen voor hoger onderwijs
 #### Paragraaf 2. Voorschriften betreffende de onderzoekinstellingen
 #### Paragraaf 3. Aanhangige beroepen
-### Titel 6. Evaluatie, inwerkingtreding, citeertitel
-## Hoofdstuk 17. Overgangs- en invoeringsbepalingen wijzigingswetten
-### Titel 1. Overgangsrecht wet van 6 juni 2002 houdende wijziging van onder meer de wet op het hoger onderwijs en wetenschappelijk onderzoek in verband met de invoering van accreditatie in het hoger onderwijs
-## Hoofdstuk 17a. Overgangs- en invoeringsbepalingen van de wet betreffende de invoering van de bachelor-masterstructuur in het hoger onderwijs
-### Titel 1. Wet van 6 juni 2002 (Stb. 303)
+## Hoofdstuk 18. Overgangs- en invoeringsbepalingen wijzigingswetten vanaf 2002
+### Titel 1. Wet van 6 juni 2002 (Stb. 302)
+### Titel 2. Wet van 6 juni 2002 (Stb. 303)
 #### Paragraaf 1. Algemeen
 #### Paragraaf 2. Instelling en registratie van bachelor- en masteropleidingen in het wetenschappelijk onderwijs; tijdelijke handhaving van opleidingen in afbouw
 #### Paragraaf 3. Ongedeelde opleidingen in het wetenschappelijk onderwijs
@@ -114,8 +112,9 @@
 #### Paragraaf 6. Overgangsrecht accreditatieplicht
 #### Paragraaf 7. Overig invoerings- en overgangsrecht
 #### Paragraaf 8. Overige bepalingen
-## Hoofdstuk 17b. Overgangsbepaling van de Wet betreffende onder meer de uitvoering van de in de nota «Zicht op kwaliteit» aangekondigde maatregelen
-## Hoofdstuk 17c. Overgangs- en invoeringsbepaling van de wet betreffende versnelde invoering toets nieuwe opleiding
-## Hoofdstuk 17d. Overgangsbepalingen van de wet ter uitvoering van de in het wetenschapsbudget 2000 opgenomen voornemens en tot het aanbrengen van een aantal technische wijzigingen
-## Hoofdstuk 17e. Overgangsrecht Wet van 2 juli 2003 (Stb. 287)
-## Hoofdstuk 17f. Overgangsrecht wet van 24 juni 2004 (stb. 321)
+### Titel 3. Wet van 12 september 2002 (Stb. 493)
+### Titel 4. Wet van 30 januari 2003 (Stb. 70)
+### Titel 5. Wet van 3 april 2003 (Stb. 188)
+### Titel 6. Wet van 2 juli 2003 (Stb. 287)
+### Titel 7. Wet van 24 juni 2004 (Stb. 321)
+## Hoofdstuk 19. Slotbepalingen
