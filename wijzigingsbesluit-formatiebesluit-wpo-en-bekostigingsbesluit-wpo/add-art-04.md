@@ -1,0 +1,3 @@
+# Artikel IV
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van de wijzigingen in artikel II.
+2. Artikel II van dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Het laatstbedoelde besluit wordt niet genomen dan nadat vier weken zijn verstreken nadat het onderhavige besluit is overgelegd aan de Tweede Kamer der Staten-Generaal en binnen die termijn niet door of namens de Kamer de wens wordt te kennen gegeven dat het in artikel II van dit besluit geregelde onderwerp bij de wet wordt geregeld.
