@@ -1,0 +1,2 @@
+# Artikel I
+Indien ten aanzien van een in Nederland opgemaakt stuk, waarop van toepassing is het op 5 oktober 1961 te 's-Gravenhage tot stand gekomen Verdrag tot afschaffing van het vereiste van legalisatie van buitenlandse openbare akten, een apostille wordt verlangd, als bedoeld in artikel 3, eerste lid, van dat Verdrag zijn tot afgifte van die apostille bevoegd de griffiers van de arrondissementsrechtbanken.
