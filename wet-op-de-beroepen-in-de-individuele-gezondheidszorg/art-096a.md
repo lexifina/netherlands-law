@@ -1,0 +1,4 @@
+# Artikel 96a
+1. Indien tegen de verdachte van overtreding van artikel 96 ernstige bezwaren zijn gerezen en de bescherming van de volksgezondheid dat dringend vordert, is de officier van justitie, zolang de behandeling ter terechtzitting nog niet is aangevangen, bevoegd, gehoord de Inspectie voor de Gezondheidszorg, de verdachte bij aan deze te betekenen kennisgeving als voorlopige maatregel te bevelen zich van bepaalde handelingen te onthouden.
+2. De verdachte kan tegen het bevel binnen veertien dagen na de betekening in beroep komen bij het gerecht waar de zaak wordt vervolgd of vervolgd zal worden. Het gerecht beslist zo spoedig mogelijk. De verdachte wordt gehoord, althans behoorlijk opgeroepen.
+3. Artikel 28, tweede en derde lid, en de artikelen 30 tot en met 32 van de Wet op de economische delicten zijn van overeenkomstige toepassing.
