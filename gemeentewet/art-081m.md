@@ -1,0 +1,3 @@
+# Artikel 81m
+1. De artikelen 81b tot en met 81f, 81h, 81i en 81j, eerste, derde en vierde lid, zijn van overeenkomstige toepassing op de gemeenschappelijke rekenkamer, met dien verstande dat in de artikelen 81b tot en met 81d, 81i, tweede lid, en 81j, eerste lid, voor «de raad» telkens wordt gelezen: de raden van de deelnemende gemeenten gezamenlijk.
+2. Artikel 81g is op de gemeenschappelijke rekenkamer van toepassing, met dien verstande dat voor «de raad» wordt gelezen: de raad van de gemeente die daartoe in de regeling waarbij de gemeenschappelijke rekenkamer is ingesteld, is aangewezen.

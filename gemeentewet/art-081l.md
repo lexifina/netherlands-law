@@ -1,0 +1,3 @@
+# Artikel 81l
+1. In afwijking van artikel 81a kan de raad met de raad of de raden van een of meer andere gemeenten met toepassing van de artikelen 1 en 8, tweede lid, van de Wet gemeenschappelijke regelingen een gemeenschappelijke rekenkamer instellen. De artikelen 10, tweede en derde lid, 10a, 11, 15, 16, 17, 20, derde lid, 21, 22, 23, 30 en 33 van die wet zijn niet van toepassing.
+2. Ten aanzien van het vaststellen van de begroting en de rekening zijn van overeenkomstige toepassing de regels welke bij of krachtens de wet zijn gesteld voor het toezicht daarop, zoals die gelden voor de deelnemende gemeenten afzonderlijk.

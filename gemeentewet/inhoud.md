@@ -5,11 +5,18 @@
 ### Hoofdstuk II. De raad
 ### Hoofdstuk III. Het college van burgemeester en wethouders
 ### Hoofdstuk IV. De burgemeester
+### Hoofdstuk IVa. De rekenkamer
+#### Paragraaf 1. De gemeentelijke rekenkamer
+#### Paragraaf 2. De gemeenschappelijke rekenkamer
+### Hoofdstuk IVb. De rekenkamerfunctie
 ### Hoofdstuk V. De commissies
 #### Paragraaf 1. Commissies
 #### Paragraaf 2. Deelgemeenten
 ### Hoofdstuk VI. Geldelijke voorzieningen ten behoeve van de leden van de raad en de commissies
-### Hoofdstuk VII. De secretaris
+### Hoofdstuk VII. De secretaris en de griffier
+#### Paragraaf 1. Algemene bepalingen
+#### Paragraaf 2. De secretaris
+#### Paragraaf 3. De griffier
 ## Titel III. De bevoegdheid van het gemeentebestuur
 ### Hoofdstuk VIII. Algemene bepalingen
 #### § 1. Inleidende bepalingen
@@ -21,6 +28,7 @@
 ### Hoofdstuk IX. De bevoegdheid van de raad
 ### Hoofdstuk X. De bevoegdheid van het college van burgemeester en wethouders
 ### Hoofdstuk XI. De bevoegdheid van de burgemeester
+### Hoofdstuk XIa. De bevoegdheid van de rekenkamer
 ## Titel IV. De financiën van de gemeente
 ### Hoofdstuk XII. Algemene bepalingen
 ### Hoofdstuk XIII. De begroting en de jaarrekening
