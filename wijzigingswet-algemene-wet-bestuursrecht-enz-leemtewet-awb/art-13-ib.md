@@ -1,0 +1,2 @@
+# Artikel 13.Ib
+Voor de studerenden voor wie de omzetting met betrekking tot het studiejaar 1993/94 van beurs in rentedragende lening als bedoeld in artikel 31a, tweede lid, van de Wet op de studiefinanciering, zoals dit luidde voor inwerkingtreding van deze wet, niet op 31 december 1994 heeft plaatsgevonden, vindt van rechtswege omzetting plaats op de laatste dag van de maand waarin deze wet in werking treedt. In dat geval gaat de renteberekening in op de eerste dag na de omzetting.

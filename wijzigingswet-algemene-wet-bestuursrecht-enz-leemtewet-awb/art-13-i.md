@@ -1,0 +1,2 @@
+# Artikel 13.I
+Afdeling 7.1 van de Algemene wet bestuursrecht vindt geen toepassing ten aanzien van geschillen die betrekking hebben op besluiten die zijn voorbereid met toepassing van een van de procedures, geregeld in de hoofdstukken 3 en 4 van de Wet algemene bepalingen milieuhygiëne onderscheidenlijk hoofdstuk 13 van de Wet milieubeheer, zoals deze golden voor 1 maart 1993 onderscheidenlijk voor 1 januari 1994.
