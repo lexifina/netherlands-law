@@ -1,0 +1,3 @@
+# [10.]
+10.1. Door een Fachhochschule en een hogeschool in het kader van een samenwerkingovereenkomst gemeenschappelijk in het leven geroepen studierichtingen als bedoeld in het eerste lid van artikel 2 zijn uitsluitend studierichtingen met een uniforme studiestructuur en voor alle studenten verbindende, uniforme examenregelingen en een uniforme studieduur, die in een uniform studie- en examenreglement voor de gemeenschappelijke studierichting worden vastgelegd.
+10.2. In het examenreglement wordt vastgelegd welke studieresultaten (aantal en aard) overeenstemmen met het Nederlandse propedeutisch examen respectievelijk met de „Diplomvorprüfung" in Noordrijn-Westfalen, zodat aan de in beide landen bestaande wettelijke bepalingen wordt voldaan.
