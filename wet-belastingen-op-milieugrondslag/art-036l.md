@@ -15,4 +15,5 @@ b. de feitelijke werkzaamheden van de instelling overeenkomen met de doelstellin
 c. de instelling niet of slechts in beperkte mate werkzaam is op het gebied van sport, gezondheidszorg of onderwijs;
 d. de instelling niet aan vennootschapsbelasting is onderworpen dan wel daarvan is vrijgesteld;
 e. de instelling beschikt over een eigen aansluiting.
+Bij ministeriële regeling kan Onze Minister niet gesubsidieerd vrijwilligerswerk dat ter behartiging van een sociaal belang om niet wordt verricht door natuurlijke personen onder voorwaarden en beperkingen aanwijzen als een instelling in de zin van de vorige volzin.
 12. Op verzoek wordt teruggaaf van de belasting verleend met betrekking tot aardgas dat wordt gebruikt op een in artikel 36k, eerste lid, bedoelde wijze.

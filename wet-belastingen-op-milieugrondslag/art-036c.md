@@ -5,9 +5,9 @@
 4. Bij een verbruiksperiode korter dan wel langer dan 12 maanden worden de in het tweede en derde lid genoemde hoeveelheidsgrenzen naar evenredigheid verlaagd, onderscheidenlijk verhoogd.
 5. Als een levering als bedoeld in het tweede en derde lid wordt mede aangemerkt het verbruik van aardgas en elektriciteit, indien het aardgas en de elektriciteit op andere wijze zijn verkregen dan door een levering als bedoeld in het tweede en derde lid. Als een levering als bedoeld in het derde lid wordt mede aangemerkt het verbruik van elektriciteit, indien de elektriciteit is verkregen door tussenkomst van de Amsterdam Power Exchange.
 6. Het vijfde lid is niet van toepassing met betrekking tot de verbruiker die:
-a. elektriciteit heeft opgewekt door middel van windenergie, zonne-energie of installaties waarin biomassa zonder enige bijstook of bijmenging van kunststoffen thermisch wordt verwerkt onder omzetting in elektriciteit;
+a. elektriciteit heeft opgewekt door middel van hernieuwbare energiebronnen, met uitzondering van elektriciteit uit biomassa die niet als zuivere biomassa wordt aangemerkt;
 b. elektriciteit heeft opgewekt door middel van een noodinstallatie in geval van storingen bij de levering via het net;
-c. biomassa heeft omgezet en opgewerkt tot aardgas;
+c. stortgas, rioolwaterzuiveringsgas of biogas heeft gewonnen;
 d. elektriciteit heeft opgewekt door middel van een installatie voor warmtekrachtkoppeling.
 7. Bij de levering van aardgas aan een verbruiker die dat gebruikt voor een installatie voor blokverwarming, wordt in afwijking in zoverre van het tweede lid de belasting geheven over de totale hoeveelheid geleverd aardgas.
 8. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.

@@ -6,6 +6,7 @@
 ## Hoofdstuk III
 ### Afdeling 1. Wijze van heffing
 ### Afdeling 2. Tarief
+### Afdeling 3. Naheffing
 ## Hoofdstuk IV. Bijzondere regelingen
 ### Afdeling 1. Vrijstellingen
 ### Afdeling 2. Teruggaaf
@@ -16,5 +17,4 @@
 ### Afdeling 2. Controle
 ### Aanvullende maatregelen
 ## Hoofdstuk Va. Overgangsbepalingen
-## Hoofdstuk Vb. Bijzondere regeling voor energiezuinige personenauto's
 ## Hoofdstuk VI. Slotbepalingen
