@@ -1,0 +1,2 @@
+# Artikel IX
+Behoudens in het geval van executoriale verkoop overeenkomstig de bepalingen van artikel VII, kan geen overdracht van inschrijving van een luchtvaartuig in het openbaar register of het nationaliteitsregister plaats vinden van het register van een Verdragsluitende Staat naar dat van een andere Verdragsluitende Staat, zonder dat ingeschreven rechten van te voren zijn doorgehaald, of de rechthebbenden in de overdracht hebben toegestemd.

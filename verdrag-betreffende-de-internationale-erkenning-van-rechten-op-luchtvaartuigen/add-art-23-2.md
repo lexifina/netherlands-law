@@ -1,0 +1,6 @@
+# Artikel XXIII
+(1) Iedere Staat kan ten tijde van de nederlegging van zijn akte van bekrachtiging of van toetreding verklaren, dat zijn aanvaarding van dit Verdrag niet van toepassing is op een of meer gebieden, voor welker buitenlandse betrekkingen hij verantwoordelijk is.
+(2) De Internationale Burgerluchtvaartorganisatie zal van een dergelijke verklaring mededeling doen aan elke Staat, die heeft ondertekend of is toegetreden.
+(3) Met uitzondering van de gebieden, met betrekking tot welke een verklaring is afgelegd overeenkomstig lid 1 van dit artikel, is dit Verdrag van toepassing op alle gebieden, voor welker buitenlandse betrekkingen een Verdragsluitende Staat verantwoordelijk is.
+(4) Iedere Staat kan afzonderlijk tot dit Verdrag toetreden namens alle of namens een der gebieden, met betrekking tot welke hij een verklaring heeft afgelegd overeenkomstig lid 1 van dit artikel; in dat geval zijn de bepalingen van de leden 2 en 3 van artikel XXI van toepassing op deze toetreding.
+(5) Iedere Verdragsluitende Staat kan dit Verdrag, overeenkomstig de bepalingen van artikel XXII, afzonderlijk opzeggen voor alle of voor een der gebieden, voor welker buitenlandse betrekkingen hij verantwoordelijk is.

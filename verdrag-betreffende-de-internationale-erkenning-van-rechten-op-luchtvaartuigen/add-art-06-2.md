@@ -1,0 +1,2 @@
+# Artikel VI
+In geval van beslag op of executoriale verkoop van een luchtvaartuig of van een recht op een luchtvaartuig zijn de Verdragsluitende Staten niet verplicht ten nadele van hetzij de beslagleggende of executerende schuldeiser, hetzij van de verkrijger, de vestiging of overdracht van een der in artikel I, lid 1, vermelde rechten te erkennen, indien deze vestiging of overdracht tot stand is gebracht door degene, tegen wie de verkoop- of executiemaatregelen zijn gericht en deze hiervan kennis droeg.
