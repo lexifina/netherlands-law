@@ -40,6 +40,7 @@
 #### § 8.5.1. Algemeen
 #### § 8.5.2. Het registreren van het veiligheidsrisico en de milieubelasting
 #### § 8.5.3. Gegevensverstrekking, verslaglegging en openbaarmaking
+#### § 8.5.4. Gegevensverstrekking, geluidbelastingkaart en actieplan in verband met de richtlijn inzake de evaluatie en de beheersing van omgevingslawaai
 ### Titel 8.6. Financiële aspecten
 ### Titel 8.7. De commissie regionaal overleg luchthaven schiphol
 ## Hoofdstuk 9. Bijzondere of buitengewone omstandigheden
