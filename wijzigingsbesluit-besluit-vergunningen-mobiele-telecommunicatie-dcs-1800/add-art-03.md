@@ -1,0 +1,5 @@
+# ARTIKEL III
+1. Onze Minister maakt in de Staatscourant bekend wanneer de procedure voor het aanvragen van een vergunning zal beginnen.
+2. Onze Minister stelt een aanvraagdocument op, waarin een overzicht wordt gegeven van de gestelde regels omtrent de indiening en behandeling van de aanvragen om een vergunning en van de gestelde regels omtrent de inhoud van de aanvragen en de daarbij over te leggen gegevens. In het aanvraagdocument wordt voorts informatie gegeven over de aanvraagprocedure.
+3. Vanaf de inwerkingtreding van dit besluit tot aan een door Onze Minister te bepalen moment waarop de aanvragen moeten zijn ontvangen, kan een ieder aan Onze Minister een verzoek doen om toezending van het aanvraagdocument. Het aanvraagdocument wordt uitsluitend verzonden aan degene die daarvoor een bedrag van f 500,- heeft betaald als tegemoetkoming in de kosten van de vervaardiging.
+4. Onze Minister beslist op een aanvraag om een vergunning binnen zesentwintig weken na aanvang van de procedure voor het aanvragen van een vergunning.
