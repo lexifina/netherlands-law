@@ -1,0 +1,3 @@
+# Artikel XVII
+1. Een richtlijn, door het Centraal orgaan tarieven gezondheidszorg goedgekeurd of vastgesteld voor het tijdstip van inwerkingtreding van deze wet, wordt gelijkgesteld met een beleidsregel als bedoeld in artikel 11 van de Wet tarieven gezondheidszorg, zoals deze door de inwerkingtreding van deze wet is komen te luiden.
+2. Een aanwijzing, door Onze Minister gegeven voor het tijdstip van inwerkingtreding van deze wet, wordt gelijkgesteld met een beleidsregel als bedoeld in artikel 13 van de Wet tarieven gezondheidszorg, zoals deze door de inwerkingtreding van deze wet is komen te luiden.

@@ -1,0 +1,3 @@
+# Artikel XIX
+1. Rechtsgedingen die zijn ingesteld door of tegen Onze Minister worden voor zover het betreft bevoegdheden van Onze Minister die samenhangen met de vervulling van de taken die door deze wet zijn overgegaan naar het College voor zorgverzekeringen, bedoeld in de Ziekenfondswet, met ingang van de inwerkingtreding van deze wet voortgezet door of tegen dat College.
+2. Rechtsgedingen die zijn ingesteld door of tegen Onze Minister worden voor zover het betreft bevoegdheden van Onze Minister die samenhangen met de vervulling van de taken die door deze wet zijn overgegaan naar het College bouw ziekenhuisvoorzieningen, bedoeld in de Wet ziekenhuisvoorzieningen, met ingang van de inwerkingtreding van deze wet voortgezet door of tegen dat College.
