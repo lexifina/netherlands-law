@@ -1,0 +1,2 @@
+# ARTIKEL IX
+Ondernemingsraden die op grond van artikel 2 van de Wet op de ondernemingsraden, zoals dat luidde voor de inwerkingtreding van deze wet, zijn ingesteld in ondernemingen waar in de regel minder dan 50 personen werkzaam zijn, blijven bestaan tot het tijdstip waarop de lopende zittingsperiode van die raad afloopt, tenzij de ondernemer toepassing geeft aan artikel 5a, tweede lid, van die wet.

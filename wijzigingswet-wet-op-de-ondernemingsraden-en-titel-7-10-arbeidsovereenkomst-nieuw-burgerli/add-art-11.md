@@ -1,0 +1,3 @@
+# ARTIKEL XI
+1. Voor de plaatsing in het Staatsblad kan Onze Minister van Justitie de nummering van de artikelen in titel 7.10 (arbeidsovereenkomst) van het Burgerlijk Wetboek in dit voorstel van wet opnieuw vaststellen en in overeenstemming brengen met de nummering van de overige artikelen van titel 7.10 (arbeidsovereenkomst) van het Burgerlijk Wetboek, zoals die titel zal luiden op het moment dat het bij koninklijke boodschap van 7 oktober 1993 ingediend voorstel van wet, Kamerstukken II 1993/94, 23 438, tot vaststelling van titel 7.10 (arbeidsovereenkomst) van het nieuw Burgerlijk Wetboek in werking is getreden.
+2. De overeenkomstig het vorige lid bijgewerkte tekst van de artikelen van dit voorstel van wet wordt in het Staatsblad geplaatst.
