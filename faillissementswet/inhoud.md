@@ -15,7 +15,6 @@
 ### afdeeling Zesde. Van het akkoord
 ### afdeeling Zevende. Van de vereffening des boedels
 ### afdeeling Achtste. Van den rechtstoestand des schuldenaars na afloop van de vereffening
-### afdeeling Negende. Van het faillissement eener nalatenschap
 ### afdeeling Tiende. Bepalingen van internationaal recht
 ### afdeeling Elfde. Van rehabilitatie
 ### Afdeling 11A. Van het faillissement van een kredietinstelling, een financiële instelling, een effecteninstelling of een andere instelling, genoemd in artikel 212a, onder a
