@@ -1,0 +1,2 @@
+# Artikel VI
+De wijzigingen, opgenomen in de artikelen I, II en III, zijn voor de eerste maal van toepassing op het schooljaar 2001/2002, met uitzondering van de wijzigingen, bedoeld in de artikelen I, onderdeel B, en II, onderdeel B, en met uitzondering van de wijzigingen, bedoeld in artikel I, onderdelen I voor zover betrekking hebbend op artikel 148, eerste lid, Ia en J, zesde lid, en de wijzigingen, bedoeld in artikel II, onderdelen I voor zover betrekking hebbend op artikel 143, eerste lid, Ia en J, zesde lid.
