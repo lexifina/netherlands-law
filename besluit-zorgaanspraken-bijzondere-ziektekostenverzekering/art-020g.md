@@ -1,0 +1,3 @@
+# Artikel 20g
+1. Indien de zorg, bedoeld in artikel 20d onderscheidenlijk artikel 20e, psychotherapeutische behandeling betreft, bestaat aanspraak op ten hoogste negentig zittingen van ten hoogste vijfenveertig minuten per zitting bij individuele psychotherapie, van ten hoogste negentig minuten per zitting bij partner-relatie psychotherapie en van ten hoogste honderdtwintig minuten per zitting bij gezins- en groepspsychotherapie.
+2. Op de zorg, bedoeld in het eerste lid, bestaat geen aanspraak, indien na beëindiging van een voorafgaande psychotherapeutische behandeling in verband met het bereiken van het aantal zittingen, bedoeld in het eerste lid, nog geen tweeënvijftig weken zijn verstreken.
