@@ -1,0 +1,2 @@
+# Artikel II
+Ten aanzien van beleggingsinstellingen waarvan het boekjaar niet gelijk is aan het kalenderjaar, blijven de bepalingen van dit besluit buiten toepassing tot aan het tijdstip waarop in 1995 de nieuwe verslagperiode begint, dan wel, indien dat tijdstip ligt na 30 juni 1995, tot aan het tijdstip waarop in 1995 de eerste periode begint waarover halfjaarcijfers moeten worden bekend gemaakt.
