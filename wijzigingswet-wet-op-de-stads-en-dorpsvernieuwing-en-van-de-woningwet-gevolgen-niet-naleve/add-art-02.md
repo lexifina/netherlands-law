@@ -1,0 +1,2 @@
+# ARTIKEL II
+Indien het in artikel IV bedoelde koninklijk besluit inhoudt dat artikel I van deze wet niet meer dan zes maanden na het verstrijken van een kalenderjaar in werking treedt, zijn de artikelen 42a en 42b van de Wet op de stads- en dorpsvernieuwing, zoals zij door deze wet zijn komen te luiden, vanaf die inwerkingtreding van toepassing op de besteding van en de verantwoording over verleende geldelijke steun als bedoeld in artikel 39, eerste lid, van genoemde wet voor dat kalenderjaar.
