@@ -5,7 +5,7 @@
 a. vergoedingen en verstrekkingen ter zake van consumpties en maaltijden die ingevolge artikel 11, eerste lid, onderdeel a of onderdeel b, niet tot het loon zouden hebben behoord;
 b. vergoedingen die strekken tot bestrijding van reis- en verblijfkosten – andere dan kosten van eigen vervoer – ter behoorlijke vervulling van het optreden of de sportbeoefening, mits het gezelschap de bewijsstukken aan de inhoudingsplichtige doet toekomen en deze de bewijsstukken administreert en voor controle beschikbaar houdt;
 c. verstrekkingen die strekken tot voorkoming van reis- en verblijfkosten ter behoorlijke vervulling van het optreden dan wel de sportbeoefening;
-d. aanspraken ingevolge de Ziektewet, de Wet op de arbeidsongeschiktheidsverzekering en de Werkloosheidswet;
+d. aanspraken ingevolge de Ziektewet, de Wet arbeid en zorg, de Wet op de arbeidsongeschiktheidsverzekering en de Werkloosheidswet;
 e. aanspraken, die naar aard en strekking overeenkomen met aanspraken als bedoeld in onderdeel d;
 f. aanspraken op uitkeringen wegens overlijden of invaliditeit ten gevolge van een ongeval en
 g. bedragen die worden ingehouden als premie ingevolge de Werkloosheidswet en als bijdrage voor aanspraken die naar aard en strekking overeenkomen met aanspraken bedoeld in onderdeel e, alsmede bijdrage voor aanspraken, bedoeld in onderdeel f.
