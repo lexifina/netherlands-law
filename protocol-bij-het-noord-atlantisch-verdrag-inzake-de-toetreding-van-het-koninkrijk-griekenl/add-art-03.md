@@ -1,0 +1,2 @@
+# Article III
+The present Protocol shall enter into force when each of the Parties to the North Atlantic Treaty has notified the Government of the United States of America of its acceptance thereof. The Government of the United States of America shall inform all the Parties to the North Atlantic Treaty of the date of the receipt of each such notification and of the date of the entry into force of the present Protocol.

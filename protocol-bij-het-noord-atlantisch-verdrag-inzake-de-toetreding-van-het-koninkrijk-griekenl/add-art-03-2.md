@@ -1,0 +1,2 @@
+# Artikel III
+Dit Protocol zal in werking treden wanneer elk van de Partijen bij het Noord-Atlantisch Verdrag de Regering van de Verenigde Staten van Amerika mededeling heeft gedaan van haar aanvaarding van dit Protocol. De Regering van de Verenigde Staten van Amerika zal aan alle Partijen bij het Noord-Atlantisch Verdrag mededeling doen van de datum van ontvangst van elke zodanige mededeling en van de datum van inwerkingtreding van dit Protocol.

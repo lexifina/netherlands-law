@@ -1,0 +1,2 @@
+# Artikel IV
+Dit Protocol, waarvan de Engelse en de Franse tekst gelijkelijk authentiek zijn, zal worden nedergelegd in het archief van de Regering van de Verenigde Staten van Amerika. Gewaarmerkte afschriften daarvan zullen door deze Regering worden overgelegd aan de Regeringen van alle Partijen bij het Noord-Atlantisch Verdrag.
