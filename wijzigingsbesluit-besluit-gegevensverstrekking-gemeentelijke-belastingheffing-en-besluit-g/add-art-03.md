@@ -1,0 +1,5 @@
+# ARTIKEL III
+1. Met ingang van het tijdstip van inwerkingtreding van dit besluit wordt de uitoefening door of namens het college van burgemeester en wethouders van de in het Besluit gegevensverstrekking gemeentelijke belastingen opgenomen bevoegdheden, die voor dat tijdstip heeft plaatsgevonden:
+a. in het kader van de heffing van gemeentelijke belastingen, geacht te zijn verricht door de in artikel 231, tweede lid, onderdeel b, bedoelde gemeenteambtenaar;
+b. in het kader van de invordering van gemeentelijke belastingen, geacht te zijn verricht door de in artikel 231, tweede lid, onderdeel c, van de Gemeentewet bedoelde gemeenteambtenaar.
+2. Met ingang van het tijdstip van inwerkingtreding van dit besluit wordt de uitoefening door of namens het college van burgemeester en wethouders van de in de artikelen 1, onderdeel d, 5, 12, 14 en 17, van het Besluit gemeentelijke parkeerbelastingen opgenomen bevoegdheden, die voor dat tijdstip heeft plaatsgevonden geacht te zijn verricht door de in artikel 231, tweede lid, onderdeel b, bedoelde gemeenteambtenaar.
