@@ -1,0 +1,3 @@
+# Artikel II
+1. Met betrekking tot subsidies die vóór 1 januari 1994 zijn toegezegd, is het Besluit subsidies energiebesparingstechnieken van toepassing zoals het luidde vóór de inwerkingtreding van dit besluit.
+2. De in artikel 7, eerste lid, bedoelde rangschikking wordt in het jaar 1994, voor zover het gaat om aanvragen met betrekking tot voorzieningen, aangewezen in categorie 1.1, toegepast op aanvragen die worden ontvangen in de maanden januari tot en met april, en, voor zover het gaat om aanvragen met betrekking tot voorzieningen, aangwezen in categorie 1.2, toegepast op aanvragen die worden ontvangen in de maanden januari tot en met juni.
