@@ -1,3 +1,0 @@
-# Artikel 4a
-1. Aan boord van passagiersschepen en hogesnelheidspassagiersvaartuigen, gebouwd op of na 1 oktober 2004, die worden gebruikt voor openbaar vervoer, worden met inachtneming van de in bijlage III van de richtlijn opgenomen richtsnoeren passende maatregelen getroffen voor de veiligheid van en de toegankelijkheid voor personen met verminderde mobiliteit.
-2. Het eerste lid is, voor zover dat in economisch opzicht redelijk en uitvoerbaar is, van overeenkomstige toepassing op passagiersschepen en hogesnelheidspassagiersvaartuigen, gebouwd voor 1 oktober 2004 en gebruikt voor openbaar vervoer, die na die datum een verbouwing ondergaan.
