@@ -1,0 +1,2 @@
+# Artikel III
+Onze Minister kan bepalen, dat het Centraal Fonds voor de Volkshuisvesting vóór 1 oktober 1994 de in artikel 10, eerste lid, van het Besluit Centraal Fonds voor de Volkshuisvesting bedoelde bijdrage, verschuldigd over 1993, geheel of gedeeltelijk aan de betrokken toegelaten instellingen restitueert, voor zover dit geen afbreuk doet aan een verantwoorde uitvoering van artikel 3 van genoemd besluit.
