@@ -2,4 +2,5 @@
 ## § I. Begripsbepalingen
 ## § II. Tewerkstelling van vreemdelingen
 ## § III. Toezicht
-## § IV. Overgangs- en slotbepalingen
+## § IV. Bestuursrechtelijke handhaving
+## § V. Overgangs- en slotbepalingen
