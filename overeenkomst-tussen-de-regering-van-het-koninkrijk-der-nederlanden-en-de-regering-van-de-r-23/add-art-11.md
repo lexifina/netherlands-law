@@ -1,0 +1,2 @@
+# Article XI
+Chaque Partie Contractante veillera à ce que sa ou ses entreprises de transports aériens désignées présentent aussi longtemps par avance que possible à l'autorité aéronautique de l'autre Partie Contractante les horaires, les tarifs et les prix de transport, et tout autre renseignement de ce genre ayant trait à l'exploitation des services aériens convenus qui pourrait être requis, ainsi que toutes les modifications apportées a ces horaires, tarifs, prix de transport et renseignements.

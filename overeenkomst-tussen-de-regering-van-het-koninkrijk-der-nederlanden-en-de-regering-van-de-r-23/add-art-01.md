@@ -1,0 +1,3 @@
+# Article I
+1. Les deux Parties Contractantes s'accordent réciproquement le droit d'exploiter les services aériens spécifiés dans l'Annexe au présent Accord (dénommés ci-après „services aériens convenus"), sur les routes spécifiées dans ladite Annexe (dénommées ci-après „routes aériennes convenues").
+2. Sous réserve des dispositions de l'Article II du présent Accord, chacun des services aériens convenus pourra être pris en exploitation immédiatement ou à une date ultérieure. Avant l'ouverture d'un service, les autorités aéronautiques des deux Parties Contractantes prendront contact entre elles.

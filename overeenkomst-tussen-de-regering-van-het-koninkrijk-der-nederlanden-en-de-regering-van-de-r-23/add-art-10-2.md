@@ -1,0 +1,3 @@
+# Artikel X
+1. De aangewezen luchtvervoersondernemingen zullen onderling de kwesties regelen, welke verband houden met de commerciële exploitatie en met de wederzijds bewezen diensten met betrekking tot de exploitatie van de geregelde diensten en van bijzondere vluchten, zoals dienstregelingen, tarieven, vrachtprijzen, verrekeningsmethodes en de hulpdiensten op de grond op de luchthavens.
+2. Voor wat de tarieven en de vrachtprijzen betreft, zullen de aangewezen luchtvervoersondernemingen zoveel mogelijk rekening houden met de door de Internationale Luchtvervoers Vereniging (I.A.T.A.) vastgestelde procedures voor de vaststelling van de tarieven en vrachtprijzen.

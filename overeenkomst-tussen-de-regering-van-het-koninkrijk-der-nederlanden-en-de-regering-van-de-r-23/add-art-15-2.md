@@ -1,0 +1,4 @@
+# Artikel XV
+1. Elke Overeenkomstsluitende Partij kan te allen tijde aan de andere Overeenkomstsluitende Partij voorstellen doen omtrent wijzigingen, die zij in deze Overeenkomst wenst te zien gebracht. De beraadslaging tussen de Overeenkomstsluitende Partijen met betrekking tot de voorgestelde wijziging moet plaats hebben binnen een termijn van 60 dagen, te rekenen vanaf de datum van het verzoek door een der Partijen.
+2. Indien een van de Overeenkomstsluitende Partijen het wenselijk acht de Bijlage bij deze Overeenkomst te wijzigen, kunnen de luchtvaartautoriteiten van de twee Overeenkomstsluitende Partijen overleg plegen teneinde tot een zodanige wijziging te komen.
+3. Elke wijziging van deze Overeenkomst of van haar Bijlage, ingevolge de leden 1 en 2 van dit artikel, zal in werking treden nadat zij door een notawisseling tussen de Overeenkomstsluitende Partijen zal zijn bevestigd.

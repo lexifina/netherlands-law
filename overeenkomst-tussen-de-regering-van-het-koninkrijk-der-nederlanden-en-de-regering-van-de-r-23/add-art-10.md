@@ -1,0 +1,3 @@
+# Article X
+1. Les entreprises de transports aériens désignées régleront entre elles les questions ayant trait à l'exploitation commerciale et aux services rendus mutuellement en rapport avec l'exploitation des services réguliers et de vols spéciaux, tels que horaires, tarifs, prix de transport, méthodes de règlement de compte ainsi que les services d'assistance au sol aux aéroports.
+2. En ce qui concerne les tarifs et les prix de transport, les entreprises de transports aériens désignées tiendront compte, autant que possible, des procédures de fixation des tarifs et prix de transport établies par l'Association du Transport Aérien International (I.A.T.A.).

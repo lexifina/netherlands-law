@@ -1,0 +1,2 @@
+# Artikel XII
+De aangewezen luchtvervoersondernemingen zullen het recht hebben op het grondgebied van de andere Overeenkomstsluitende Partij het technische en commerciële personeel te hebben, dat noodzakelijk is voor de exploitatie van de in artikel I van deze Overeenkomst voorziene luchtdiensten. Zij zullen onderling overleg plegen omtrent het aantal personen, dat tot dat doel te werk gesteld zal worden.

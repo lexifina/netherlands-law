@@ -1,0 +1,3 @@
+# Artikel I
+1. De beide Overeenkomstsluitende Partijen verlenen elkaar wederkerig het recht de in de Bijlage bij deze Overeenkomst omschreven luchtdiensten (hierna genoemd „overeengekomen luchtdiensten") te exploiteren, op de in de genoemde Bijlage omschreven routes (hierna genoemd „overeengekomen luchtroutes").
+2. Behoudens de bepalingen van artikel II van deze Overeenkomst mag elk van de overeengekomen luchtdiensten onmiddellijk of op een latere datum in exploitatie worden genomen. Vóór de opening van een dienst zullen de luchtvaartautoriteiten van de beide Overeenkomstsluitende Partijen zich met elkaar in verbinding stellen.

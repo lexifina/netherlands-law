@@ -1,0 +1,4 @@
+# Artikel XIII
+1. De luchtvaartuigen van de aangewezen luchtvervoersondernemingen, welke gebezigd worden voor de exploitatie van overeengekomen luchtdiensten of voor de exploitatie van de bijzondere vluchten, kunnen op het grondgebied van de andere Overeenkomstsluitende Partij noch in beslag worden genomen of vastgehouden, noch het voorwerp worden van een gerechtelijke burgerlijke procedure.
+2. De luchtvaartuigen van de luchtvervoersondernemingen kunnen niet in beslag worden genomen of vastgehouden op grond dat hun bouw, hun onderdelen of hun uitrusting de nabootsing zouden vormen van een patent, ontwerp en model, behoorlijk verleend of geregistreerd op het grondgebied van die Overeenkomstsluitende Partij.
+3. De vrijstelling van het leggen van beslag en van het vasthouden, bedoeld in de leden 1 en 2 van dit artikel, kan niet afhankelijk worden gemaakt van het verschaffen van een zekerheidstelling.
