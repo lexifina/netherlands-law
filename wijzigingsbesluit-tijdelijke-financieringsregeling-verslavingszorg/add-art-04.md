@@ -1,0 +1,2 @@
+# Artikel IV
+Dit besluit treedt in werking met ingang van 31 december 1993.
