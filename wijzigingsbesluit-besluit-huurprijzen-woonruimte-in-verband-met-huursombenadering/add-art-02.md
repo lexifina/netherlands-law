@@ -1,0 +1,2 @@
+# ARTIKEL II
+Artikel 3 van het Besluit huurprijzen woonruimte, zoals dat luidde onmiddellijk vóór het tijdstip van inwerkingtreding van dit besluit, blijft van toepassing op woonruimte waarop de in artikel IV, eerste en tweede lid, van het bij koninklijke boodschap van 21 november 1995 ingediende voorstel van wet tot wijziging van de Huurprijzenwet woonruimte, de Wet op de huurcommissies en de Wet individuele huursubsidie in verband met de zogenaamde huursombenadering (kamerstukken II 1995/96, 24 507, nrs. 1–2) opgenomen regeling van toepassing is.
