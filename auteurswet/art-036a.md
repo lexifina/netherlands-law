@@ -1,0 +1,2 @@
+# Artikel 36a
+De opsporingsambtenaren kunnen te allen tijde tot het opsporen van bij deze wet strafbaar gestelde feiten inzage vorderen van alle bescheiden of andere gegevensdragers waarvan inzage voor de vervulling van hun taak redelijkerwijze nodig is, bij hen die in de uitoefening van hun beroep of bedrijf werken van letterkunde, wetenschap of kunst invoeren, doorvoeren, uitvoeren, openbaar maken of verveelvoudigen.

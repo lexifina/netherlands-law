@@ -1,0 +1,2 @@
+# Artikel 35c
+Degene die een schriftelijke opgave aan de in artikel 16d, eerste lid, bedoelde rechtspersoon, dienende voor de vaststelling van het op grond van artikel 16c verschuldigde, opzettelijk nalaat dan wel in een dergelijke opgave opzettelijk een onjuiste of onvolledige mededeling doet, wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie. Het feit wordt beschouwd als een overtreding.

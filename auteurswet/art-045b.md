@@ -1,0 +1,2 @@
+# Artikel 45b
+Indien een van de makers zijn bijdrage tot het filmwerk niet geheel tot stand wil of kan brengen, kan hij zich, tenzij schriftelijk anders overeengekomen is, niet verzetten tegen het gebruik door de producent van die bijdrage, voor zover deze reeds tot stand is gebracht, ten behoeve van de voltooiing van het filmwerk. Voor de door hem tot stand gebrachte bijdrage geldt hij als maker in de zin van artikel 45a.

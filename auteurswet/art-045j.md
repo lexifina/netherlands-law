@@ -1,0 +1,2 @@
+# Artikel 45j
+Tenzij anders is overeengekomen, wordt niet als inbreuk op het auteursrecht op een werk als bedoeld in artikel 10, eerste lid, onder 12°, beschouwd de verveelvoudiging, vervaardigd door de rechtmatige verkrijger van een exemplaar van eerder genoemd werk, die noodzakelijk is voor het met dat werk beoogde gebruik. De verveelvoudiging, als bedoeld in de eerste zin, die geschiedt in het kader van het laden, het in beeld brengen of het verbeteren van fouten, kan niet bij overeenkomst worden verboden.

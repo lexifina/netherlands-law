@@ -1,0 +1,4 @@
+# Artikel 16d
+1. De betaling van de in artikel 16c bedoelde vergoeding dient te geschieden aan een door Onze Minister van Justitie aan te wijzen, naar zijn oordeel representatieve rechtspersoon, die belast is met de inning en de verdeling van deze vergoeding overeenkomstig een een door deze rechtspersoon vastgesteld reglement. In aangelegenheden betreffende de inning van de vergoeding vertegenwoordigt deze rechtspersoon de makers of hun rechtverkrijgenden in en buiten rechte. Deze rechtspersoon staat onder toezicht van Onze Minister van Justitie.
+2. Het reglement als bedoeld in het eerste lid behoeft de instemming van Onze Minister van Justitie.
+3. Bij algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven betreffende de uitoefening van het toezicht op de in het eerste lid bedoelde rechtspersoon.

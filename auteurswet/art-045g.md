@@ -1,0 +1,2 @@
+# Artikel 45g
+Iedere maker behoudt, tenzij schriftelijk anders overeengekomen is, het auteursrecht op zijn bijdrage, indien deze een van het filmwerk scheidbaar werk vormt. Na het in artikel 45c bedoelde tijdstip mag iedere maker, tenzij schriftelijk anders overeengekomen is, zijn bijdrage afzonderlijk openbaar maken en verveelvoudigen, mits hij daardoor geen schade toebrengt aan de exploitatie van het filmwerk.
