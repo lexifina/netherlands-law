@@ -13,6 +13,6 @@
 ### § 1. Bezwaar
 ### § 2. Onderzoek van voorvallen
 ### § 3. Medewerking
-### § 4. Ontheffing
+### § 4. Ontheffing en vrijstelling
 ## Hoofdstuk VI. Strafbepalingen en borgsom
 ## Hoofdstuk VII. Slotbepalingen
