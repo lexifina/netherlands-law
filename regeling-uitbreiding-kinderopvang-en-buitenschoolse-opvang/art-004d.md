@@ -1,0 +1,5 @@
+# Artikel 4d
+1. Het maximaal aantal opvangplaatsen, bedoeld in artikel 2, tweede lid, onder c, waarvoor aan gemeenten een uitkering kan worden verleend, bedraagt 10.000.
+2. Verlening van een uitkering, als bedoeld in het eerste lid, vindt plaats op grond van aanvraag, met dien verstande dat, indien het totaal der aanvragen meer dan 10.000 opvangplaatsen betreft, toekenning zal plaatsvinden evenredig aan de behoefte aan kinderopvang per gemeente, zoals die is vastgesteld in het Gemeentelijk Ramingsmodel Kinderopvang, SCP, 2002.
+3. Voor de aanvraag van een uitkering, als bedoeld in het eerste lid, wordt gebruik gemaakt van een door de Minister daartoe vastgesteld aanvraagformulier. De aanvraag wordt voor 15 november 2002 ingediend bij de Minister.
+4. Voor de aanvraag van verlenging van de uitkering, bedoeld in het eerste lid, wordt gebruik gemaakt van het mede hiertoe door de minister vastgesteld verantwoordingsformulier, bedoeld in artikel 6. Dit formulier wordt uiterlijk 31 januari 2004 aan alle gemeenten verstrekt en dient uiterlijk 31 oktober 2004 door de minister te zijn ontvangen.
