@@ -1,0 +1,3 @@
+# Artikel III
+1. De Regering van Honduras vrijwaart de Nederlandse Regering van elke claim voortkomend uit schade veroorzaakt door een Nederlands personeelslid tijdens de officiële uitvoering van de werkzaamheden die aan hem/haar zijn toevertrouwd op basis van deze overeenkomst en is aansprakelijk met uitzondering van fraude, grove nalatigheid of opzettelijk onjuist handelen.
+2. Indien de Hondurese Regering zulks wenst zal de Nederlandse Regering juridische of administratieve assistentie verlenen aan de bevoegde autoriteiten van de Republiek Honduras om tot een bevredigende oplossing te komen in geval van problemen in verband met het gestelde in het voorgaande lid van dit artikel.

@@ -1,0 +1,3 @@
+# Artikel VI
+1. De bepalingen van artikel II, III en IV, lid 1, van deze Overeenkomst zijn eveneens van toepassing op suppletie-deskundigen die op verzoek van de Hondurese Regering worden ingezet. Deze deskundigen zijn echter wel gehouden lokale belastingen te betalen over de aan hen door de Regering van Honduras betaalde vergoedingen.
+2. De deskundigen genoemd in het voorgaande lid van dit artikel staan onder exclusieve leiding van de terzake bevoegde Hondurese autoriteit. De deskundigen zullen de in Honduras geldende regels en voorschriften in acht nemen, mits dergelijke regels en voorschriften niet in strijd zijn met een bepaling van deze Overeenkomst of enig andere regeling die door beide Partijen worden toegepast op de desbetreffende deskundigen.
