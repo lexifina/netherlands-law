@@ -1,0 +1,4 @@
+# Artikel I. Doelstelling
+1. De Partijen bij dit Verdrag beogen, met inachtneming van de daarin opgenomen bepalingen, voorzieningen te treffen voor:
+a. de inning of het verhaal van levensonderhoud dat een onderhoudsgerechtigde dan wel een openbaar lichaam dat uitkeringen heeft gedaan aan een onderhoudsgerechtigde die onderwerpen is aan de rechtsmacht van de ene Partij (hierna te noemen de schuldeiser) gerechtigd is te ontvangen van een onderhoudsplichtige die onderworpen is aan de rechtsmacht van de andere Partij (hierna te noemen de schuldenaar), en
+b. de erkenning en de tenuitvoerlegging van beslissingen houdende oplegging of verhaal van levensonderhoud alsmede schikkingen inzake levensonderhoud (hierna te noemen onderhoudsbeslissingen) welke tot stand zijn gebracht op het grondgebied van een Partij of aldaar zijn erkend.

@@ -1,0 +1,7 @@
+# Article III. Central Authorities
+1. The Parties shall each designate a body as Central Authority which shall facilitate compliance with the provisions of this Agreement.
+2. The Central Authority for the Kingdom of the Netherlands shall be the Transmitting and Receiving Agency under the Convention on the Recovery Abroad of Maintenance concluded at New York on 20 June, 1956, as designated in the Netherlands legislation implementing that Convention. Powers and duties of the Netherlands Central Authority under this Agreement shall also include the powers and duties set out in that legislation.
+3. The Central Authority for the United States of America shall be the Office of Child Support Enforcement in the Department of Health and Human Services, as authorized by Title IV-D of the Social Security Act. Powers and duties of the United States Central Authority under this Agreement shall also include the powers and duties set out in that legislation.
+4. The Parties may designate additional public bodies to carry out any of the provisions of this Agreement in co-ordination with the Central Authority.
+5. Any changes in the designation of the Central Authority or other public bodies by one Party shall be communicated promptly to the Central Authority of the other Party.
+6. Communications shall be addressed by the Central Authority or other public body of one Party directly to the Central Authority or other responsible public body of the other Party as designated by that Party.

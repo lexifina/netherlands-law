@@ -1,0 +1,2 @@
+# Article V. Functions of the Central Authority of the Requested Party
+The Central Authority or other designated public body of the Requested Party shall take on behalf of the claimant all appropriate steps for the recovery or reimbursement of maintenance, including the institution and prosecution of proceedings for maintenance, the determination of paternity where necessary, the execution of any judicial or administrative decision and the collection and distribution of payments collected.

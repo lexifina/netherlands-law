@@ -1,0 +1,4 @@
+# Article IX. Territorial Application
+1. For the Kingdom of the Netherlands, this Agreement shall apply to its territory in Europe. Its applicability may be extended by written agreement of the Parties either in its entirety or with any necessary modifications to the Netherlands Antilles and/or Aruba.
+2. In the case of an extension of the applicability of this Agreement to the Netherlands Antilles and/or Aruba, either Party shall be entitled to terminate the application of this Agreement in respect of any of the separate parts of the Kingdom in accordance with the termination procedures of Article 11.
+3. For the United States of America, this Agreement shall apply to the fifty states, American Samoa, the District of Columbia, Guam, Puerto Rico, the United States Virgin Islands, and any other jurisdiction of the United States participating in Title IV-D of the Social Security Act.

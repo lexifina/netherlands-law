@@ -1,0 +1,2 @@
+# Artikel V. Taken van de centrale autoriteit van de Aangezochte Partij
+De centrale autoriteit of het andere daartoe aangewezen openbare lichaam van de Aangezochte Partij neemt namens de schuldeiser alle passende maatregelen met het oog op de inning of het verhaal van levensonderhoud, met inbegrip van het instellen en het voeren van procedures inzake levensonderhoud, waar nodig de vaststelling van het vaderschap, de erkenning en de tenuitvoerlegging van beslissingen inzake levensonderhoud alsmede de incasso en de overdracht van ontvangen bedragen.
