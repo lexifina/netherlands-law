@@ -1,0 +1,3 @@
+# Artikel X
+1. Met ingang van de datum van inwerkingtreding van dit artikel zijn de personeelsleden van het College voor zorgverzekeringen, van wie naam en functie zijn vermeld op een door het College voor zorgverzekeringen in overeenstemming met de Commissie toezicht uitvoeringsorganisatie vastgestelde lijst, van rechtswege ontslagen en in dienst van het College van toezicht op de zorgverzekeringen.
+2. De overgang van de in het eerste lid bedoelde personeelsleden vindt plaats met een rechtspositie die als geheel ten minste gelijkwaardig is aan die welke voorheen gold bij het College voor zorgverzekeringen.
