@@ -1,0 +1,3 @@
+# Artikel IV
+Dit verdrag zal worden bekrachtigd door Hare Majesteit de Koningin der Nederlanden en door den President der Vereenigde Staten van Amerika, wat dezen laatste betreft op advies en met goedkeuren van den Senaat, en de akten van bekrachtiging zullen zoo spoedig mogelijk worden uitgewisseld.
+Het zal in werking treden onmiddellijk na de uitwisseling der akten van bekrachtiging en zal van kracht blijven voor een tijdperk van vijf jaren; hierna zal het van kracht blijven tot twaalf maanden nadat een der Hooge Verdragsluitende Partijen aan de andere zal hebben kennis gegeven van haar voornemen het te doen eindigen.
