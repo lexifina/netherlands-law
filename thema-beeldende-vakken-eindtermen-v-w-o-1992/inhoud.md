@@ -1,4 +1,0 @@
-# Inhoud
-## Stofbespreking
-## Probleemstellingen
-## Exameneisen
