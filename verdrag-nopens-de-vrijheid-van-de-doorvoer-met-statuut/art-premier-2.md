@@ -1,0 +1,3 @@
+# Article premier
+Seront considérés comme en transit à travers les territoires placés sous la souveraineté ou l'autorité de l'un quelconque des Etats contractants, les personnes, bagages, marchandises ainsi que les navires, bateaux, voitures, wagons ou autres instruments de transport, dont le trajet par lesdits territoires, accompli avec ou sans transbordement, avec ou sans mise en entrepôt, avec ou sans rupture de charge, avec ou sans changement de mode de transport, n'est que la fraction d'un trajet total, commencé et devant être terminé en dehors des frontières de l'Etat à travers le territoire duquel le transit s'effectue.
+Les transports de cette nature seront désignés dans le présent Statut sous le nom de „transports en transit".
