@@ -1,0 +1,2 @@
+# Artikel V
+De bepalingen van dit Verdrag betreffende Nederlands personeel zijn eveneens van toepassing op personen (die geen Ethiopische onderdanen zijn) in dienst van de Nederlandse Regering en van andere organisaties waarmee de Nederlandse Regering een overeenkomst heeft gesloten inzake de uitvoering van een project waaraan de bevoegde autoriteiten van beide Partijen bij dit Verdrag krachtens dit Verdrag hun goedkeuring hebben gehecht.
