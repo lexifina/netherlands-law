@@ -1,0 +1,8 @@
+# Artikel XIII. INTERPRETATIE EN ARBITRAGE
+Sectie 1. Interpretatie
+(a) Meningsverschillen omtrent de interpretatie van de bepalingen van deze Overeenkomst die rijzen tussen een lid en de Bank of tussen leden van de Bank worden ter beslissing voorgelegd aan de Raad van Bewindvoerders.
+Leden die in bijzondere mate bij het desbetreffende meningsverschil zijn betrokken, zijn gerechtigd zich gedurende de behandeling in de Raad van Bewindvoerders te doen vertegenwoordigen zoals bepaald in artikel VIII, sectie 3 (g).
+(b) In elk geval waarin de Raad van Bewindvoerders volgens het bepaalde onder letter (a) van dit artikel een beslissing heeft genomen, kan een lid verzoeken de zaak naar de Raad van Bestuur te verwijzen, wiens oordeel bindend is. Hangende de beslissing van de Raad van Bestuur, kan de Bank, voor zover zij dit nodig acht, op grond van de beslissing van de Raad van Bewindvoerders handelen.
+Sectie 2. Arbitrage
+Wanneer er onenigheid ontstaat tussen de Bank en een land dat heeft opgehouden lid te zijn, of tussen de Bank en een lid, nadat is beslist dat de werkzaamheden van de Bank zullen worden beëindigd, wordt zulk een onenigheid onderworpen aan arbitrage door een tribunaal van drie scheidsmannen. Een der scheidsmannen wordt door de Bank benoemd, een andere door het betrokken land en de derde, tenzij de partijen anders beslissen, door de Secretaris-Generaal van de Organisatie van Amerikaanse Staten. Indien alle pogingen om een unanieme overeenstemming te bereiken, falen, worden beslissingen genomen met een meerderheid van de drie scheidsmannen.
+De derde scheidsman is gemachtigd alle vragen betreffende de procedure te beslissen indien daaromtrent verschil van mening bij partijen bestaat.

@@ -1,0 +1,8 @@
+# Article XIII. INTERPRETATION AND ARBITRATION
+Section 1. Interpretation
+(a) Any question of interpretation of the provisions of this Agreement arising between any member and the Bank or between any members of the Bank shall be submitted to the Board of Executive Directors for decision.
+Members especially affected by the question under consideration shall be entitled to direct representation before the Board of Executive Directors as provided in Article VIII, Section 3 (g).
+(b) In any case where the Board of Executive Directors has given a decision under (a) above, any member may require that the question be submitted to the Board of Governors, whose decision shall be final. Pending the decision of the Board of Governors, the Bank may, so far as it deems it necessary, act on the basis of the decision of the Board of Executive Directors.
+Section 2. Arbitration
+If a disagreement should arise between the Bank and a country which has ceased to be a member, or between the Bank and any member after adoption of a decision to terminate the operation of the Bank, such disagreement shall be submitted to arbitration by a tribunal of three arbitrators. One of the arbitrators shall be appointed by the Bank, another by the country concerned, and the third, unless the parties otherwise agree, by the Secretary General of the Organization of American States. If all efforts to reach a unanimous agreement fail, decisions shall be made by a majority vote of the three arbitrators.
+The third arbitrator shall be empowered to settle all questions of procedure in any case where the parties are in disagreement with respect thereto.
