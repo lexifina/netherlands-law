@@ -1,0 +1,5 @@
+# Artikel 36b. Overgangsregeling producten uit eigen bedrijf
+1. Naar keuze van de werkgever blijft artikel 23 zoals dat artikel luidde op 31 december 2002 in het kalenderjaar 2003 van toepassing in plaats van artikel 23 zoals dat luidde op 1 januari 2003.
+2. Voor de toepassing van artikel 23, derde lid, eerste volzin, wordt aangenomen dat voor de jaren 2001 en 2002 een bedrag van € 450 heeft gegolden.
+3. Voor de toepassing van artikel 23, derde lid, eerste volzin, wordt aangenomen dat voor de jaren 2002 en 2003 een bedrag van € 450 heeft gegolden, indien de werkgever met toepassing van het eerste lid heeft gekozen voor de toepassing in het kalenderjaar 2003 van artikel 23 zoals dat artikel luidde op 31 december 2002.
+4. De toepassing van artikel 23 zoals dat luidt op grond van de Regeling herziening waardering producten uit eigen bedrijf, leidt niet tot een wijziging van op de datum van inwerkingtreding van die regeling reeds vastgestelde daglonen op grond van de Ziektewet, de Wet op de arbeidsongeschiktheidsverzekering of de Invoeringswet stelselherziening sociale zekerheid.
