@@ -7,5 +7,6 @@
 ### Afdeling 1. Van de samenstelling en de bevoegdheid
 ### Afdeling 2. Van de vergaderingen
 ## § 4. Van de tuchtrechtspraak
+## § 4a. De procedure inzake de onbehoorlijke praktijkuitoefening
 ## § 5. Van de procureurs
 ## § 6. Slotbepalingen
