@@ -1,0 +1,4 @@
+# Artikel 7i
+1. Bij de in- of doorvoer van een zending die door een derde land is geweigerd en vanuit het grondgebied van de Europese Gemeenschap naar het betrokken derde land is verzonden, wordt voldaan aan: artikel 7f, eerste, tweede en vierde lid; artikel 15, eerste lid, onderdeel a, van richtlijn 97/78/EG.
+2. Op de in het eerste lid bedoelde zending zijn de artikelen 2.17, achtste en twaalfde lid, 2.18a, 2.19, eerste lid, en 2.22, eerste, tweede, vijfde en zesde lid, van de Regeling keuring en handel dierlijke producten van overeenkomstige toepassing.
+3. Indien de in het eerste lid bedoeld zending naar het derde land is verzonden vanuit een lid-staat, heeft de Minister vooraf toestemming verleend voor het binnenbrengen van de producten en heeft de bevoegde autoriteit van de lidstaat die het in artikel 15, eerste lid, onderdeel a, van richtlijn 97/78/EG bedoelde certificaat heeft afgegeven met de terugname van de partij ingestemd.
