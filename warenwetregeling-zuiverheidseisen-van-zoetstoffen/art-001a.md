@@ -1,0 +1,3 @@
+# Artikel 1a
+1. Een wijziging van richtlijn nr. 95/31/EG van de Commissie van de Europese Gemeenschappen van 5 juli 1995 tot vaststelling van specifieke zuiverheidseisen voor zoetstoffen die in levensmiddelen mogen worden gebruikt (PbEG L 178), gaat voor de toepassing van artikel 1 gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+2. In afwijking van het eerste lid mogen zoetstoffen die vóór de in het eerste lid bedoelde dag in de handel zijn gebracht of zijn geëtiketteerd, nog vanaf die dag worden verhandeld voor zover de betrokken wijzigingsrichtlijn daarin voorziet, mits zij voldoen aan de wettelijke voorschriften inzake de zuiverheidseisen van zoetstoffen zoals die luidden tot dat tijdstip.
