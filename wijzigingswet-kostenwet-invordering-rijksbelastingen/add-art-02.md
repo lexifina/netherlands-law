@@ -1,0 +1,3 @@
+# Artikel II
+1. De eerste keer dat artikel 8, eerste lid, van de Kostenwet invordering rijksbelastingen toepassing vindt, wordt voor de vervanging van de bedragen van € 3, € 4, € 6, € 13, € 23, € 34, € 47, € 60 en € 9938 uitgegaan van de niet-afgeronde bedragen van respectievelijk € 2,92, € 4,38, € 5,84, € 13,14, € 23,36, € 33,58, € 46,72, € 59,86 en € 9938,22.
+2. Indien het moment van inwerkingtreding van deze wet niet samenvalt met het begin van een kalenderjaar, vindt direct na de inwerkingtreding artikel 8 van de Kostenwet invordering rijksbelastingen overeenkomstige toepassing alsof de inwerkingtreding zou zijn samengevallen met het begin van het kalenderjaar waarin de inwerkingtreding valt.
