@@ -1,0 +1,2 @@
+# Artikel 5a
+De uitspraken, door de centrale commissie voor de Rijnvaart ingevolge artikel 37 der herziene Rijnvaartakte in burgerlijke zaken gewezen, kunnen worden ten uitvoer gelegd nadat daartoe rechterlijk verlof is verkregen. Ten aanzien van dit verlof zijn de bepalingen van de eerste afdeling van de negende titel van het derde boek van het Wetboek van Burgerlijke Rechtsvordering van toepassing.
