@@ -1,0 +1,2 @@
+# Article III
+The designated airlines of each Contracting Party operating the specified air services may, subject to the provisions of Article IV, set down or pick up in the territory of the other Contracting Party, at the points specified in the Annex, international traffic originating in or destined for the territory of the former Contracting Party or of a third country on the specified air route concerned.

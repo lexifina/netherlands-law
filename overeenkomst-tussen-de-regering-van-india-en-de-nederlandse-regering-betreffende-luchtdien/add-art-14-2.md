@@ -1,0 +1,3 @@
+# Artikel XIV
+A) Met betrekking tot deze Overeenkomst zullen de uitdrukkingen „grondgebied", „luchtdienst", „internationale luchtdienst" en „luchtvaartmaatschappij" de betekenis hebben, omschreven in het Verdrag inzake de Internationale Burgerlijke Luchtvaart, ondertekend te Chicago op 7 December 1944.
+B) De uitdrukking „luchtvaartautoriteiten" zal betekenen in het geval van India, de Directeur-Generaal van de Burgerlijke Luchtvaart, India, en in het geval van Nederland de Directeur-Generaal van de Rijksluchtvaartdienst in Nederland, en in beide gevallen enig persoon of lichaam gemachtigd de functies te vervullen, welke thans door bovengenoemde autoriteiten worden uitgeoefend.

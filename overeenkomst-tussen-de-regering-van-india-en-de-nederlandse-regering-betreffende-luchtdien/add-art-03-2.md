@@ -1,0 +1,2 @@
+# Artikel III
+De aangewezen luchtvaartmaatschappijen van elke Overeenkomstsluitende Partij, die de omschreven luchtdiensten exploiteren, mogen, behoudens het bepaalde in Artikel IV, op het grondgebied van de andere Overeenkomstsluitende Partij, op de punten, omschreven in de Bijlage, internationaal verkeer afzetten of opnemen, afkomstig uit of bestemd voor het grondgebied van de eerste Overeenkomstsluitende Partij of van een derde land op de betreffende omschreven luchtroute.

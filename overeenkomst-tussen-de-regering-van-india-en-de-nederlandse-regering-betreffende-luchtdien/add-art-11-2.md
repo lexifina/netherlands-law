@@ -1,0 +1,7 @@
+# Artikel XI
+A) Indien tussen de Overeenkomstsluitende Partijen enig geschil rijst met betrekking tot de uitlegging of toepassing van deze Overeenkomst, zullen de Overeenkomstsluitende Partijen in de eerste plaats trachten dit geschil door onderling overleg op te lossen.
+B) Indien de Overeenkomstsluitende Partijen er niet in slagen door overleg tot oplossing te geraken,
+i) kunnen zij overeenkomen het geschil ter beslissing voor te leggen aan een scheidsgerecht of een ander in onderling overleg door hen aangewezen persoon of lichaam; of
+ii) indien zij zo niet tot overeenstemming komen of indien zij, na overeengekomen te zijn het geschil aan een scheidsgerecht voor te leggen, niet tot overeenstemming kunnen komen omtrent de samenstelling daarvan, kan elk der Overeenkomstsluitende Partijen het geschil ter beslissing voorleggen aan een tot beslissing bevoegde rechtbank, welke binnen de Internationale Burgerlijke Luchtvaart Organisatie is opgericht of, indien zulk een rechtbank niet bestaat, aan het Internationale Gerechtshof.
+C) De Overeenkomstsluitende Partijen nemen op zich, zich te houden aan enige ingevolge lid B) van dit Artikel gegeven beslissing, voorlopig gegeven adviezen daaronder begrepen.
+D) Indien en zolang een Overeenkomstsluitende Partij of een aangewezen luchtvaartmaatschappij van een Overeenkomstsluitende Partij in gebreke blijft, zich te houden aan het gestelde in lid C) van dit Artikel, kan de andere Overeenkomstsluitende Partij alle rechten, die zij op grond van deze Overeenkomst heeft verleend, beperken, onthouden of intrekken.
