@@ -1,0 +1,6 @@
+# Article 7bis
+Le Tribunal administratif est compétent pour statuer sur les différends entre l'Institut et ses fonctionnaires ou employés, ou leurs ayants droit, portant notamment sur l'interprétation ou l'application du Règlement du personnel. Les différends naissant de rapports contractuels entre l'Institut et les tiers, seront soumis à ce Tribunal à la condition que cette compétence soit expressément reconnue par les parties dans le contrat donnant lieu au litige.
+Le Tribunal est composé de trois membres titulaires et d'un membre suppléant, choisis en dehors de l'Institut, et appartenant, de préférence, à des nationalités différentes. Ils sont élus par l'Assemblée générale pour la durée de cinq ans. En cas de vacance le Tribunal se complète par cooptation.
+Le Tribunal jugera, en premier et dernier ressort, en appliquant les dispositions du Statut et du Règlement, ainsi que les principes généraux du droit. Il pourra également statuer ex aequo et bono lorsque cette faculté lui aura été attribuée par un accord entre les parties.
+Si le Président du Tribunal considère qu'un différend entre l'Institut et un de ses fonctionnaires ou employés est d'une importance très limitée, il peut statuer lui-même ou bien confier la décision à un seul des juges du Tribunal.
+Le Tribunal établira lui-même son règlement de procédure.
