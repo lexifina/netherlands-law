@@ -1,2 +1,2 @@
 # Artikel 12a
-De artikelen 512 tot en met 519 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.
+Titel IV van het Vierde Boek van het Wetboek van Strafvordering is van overeenkomstige toepassing.
