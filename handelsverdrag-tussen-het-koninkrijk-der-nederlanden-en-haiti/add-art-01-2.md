@@ -1,0 +1,2 @@
+# Artikel I
+De Hooge Verdragsluitende Partijen komen overeen, dat, voor al wat betreft den handel, de scheepvaart en de nijverheid en alle rechten of heffingen of belastingen, van welken aard zij ook mogen zijn, ieder voorrecht, iedere gunst of vrijstelling, welke ook, die een van haar reeds heeft toegestaan of in de toekomst mocht toestaan aan de personen, maatschappijen, goederen of schepen van eenigen anderen Staat, onmiddellijk en onvoorwaardelijk zullen worden toegestaan aan de personen, maatschappijen, goederen of schepen van de andere Partij.

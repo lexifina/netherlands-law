@@ -1,0 +1,2 @@
+# Article I
+Les Hautes Parties Contractantes conviennent que, pour tout ce qui concerne le commerce, la navigation et l'industrie et tous les droits ou taxes ou impôts de quelque nature qu'ils soient, tout privilège, faveur ou immunité quelconque que l'une d'elles a déjà accordé ou accorderait à l'avenir aux personnes, sociétés, marchandises ou navires de tout autre Etat, seront étendus immédiatement et sans condition, aux personnes, sociétés, marchandises ou navires de l'autre Partie.
