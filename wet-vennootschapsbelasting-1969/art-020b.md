@@ -2,3 +2,4 @@
 1. De inspecteur stelt het bedrag van een verlies van een jaar vast bij voor bezwaar vatbare beschikking, gelijktijdig met het vaststellen van de aanslag over dat jaar.
 2. Het bedrag van het verlies wordt op het aanslagbiljet afzonderlijk vermeld.
 3. Indien enig feit grond oplevert voor het vermoeden dat het verlies te hoog is vastgesteld, kan de inspecteur de in het eerste lid bedoelde beschikking herzien bij voor bezwaar vatbare beschikking. Een feit dat de inspecteur bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond voor herziening opleveren, behoudens in de gevallen waarin de belastingplichtige ter zake van dit feit te kwader trouw is. Artikel 16, derde en vierde lid, van de Algemene wet inzake rijksbelastingen is van overeenkomstige toepassing.
+4. De in het eerste lid bedoelde beschikking wordt herzien voorzover de verrekening van het verlies ingevolge artikel 15af toekomt aan een andere belastingplichtige.

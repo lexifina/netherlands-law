@@ -1,0 +1,3 @@
+# Artikel 15ag
+1. Vanaf het ontvoegingstijdstip van een moedermaatschappij worden voor de toepassing van artikel 20, tweede lid, voorvoegingsverliezen van die moedermaatschappij niet verrekend met de door haar na dat tijdstip genoten belastbare winst voorzover die winst betrekking heeft op vermogensbestanddelen die door haar tijdens het bestaan van de fiscale eenheid zijn verkregen van een dochtermaatschappij en die winst op de voet van artikel 15ah, tweede lid, niet aan de moedermaatschappij zou zijn toegerekend indien de fiscale eenheid met die dochtermaatschappij niet zou zijn beëindigd.
+2. Het eerste lid vindt geen toepassing indien met betrekking tot de vermogensbestanddelen artikel 15ai, eerste of tweede lid, toepassing heeft gevonden.

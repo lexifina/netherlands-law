@@ -8,4 +8,4 @@ a. 1% van het bedrag van de uitstaande geldleningen, of
 b. € 2 000 000.
 De belastingplichtige dient aannemelijk te maken dat dit bedrag aan eigen vermogen aanwezig is ter dekking van de desbetreffende risico's en dat dit wordt aangetast als deze risico's zich manifesteren.
 3. Onverminderd het bepaalde in het eerste lid, wordt tot de winst van de belastingplichtige gerekend een met inachtneming van artikel 8b te bepalen vergoeding voor de door de belastingplichtige uitgeoefende functies die betrekking hebben op de samenhangende geldleningen of rechtsverhoudingen.
-4. Onder een concern wordt verstaan: de belastingplichtige tezamen met de met hem verbonden lichamen en verbonden natuurlijke personen, bedoeld in artikel 10a, vierde onderscheidenlijk vijfde lid.
+4. Onder een concern wordt verstaan: de belastingplichtige tezamen met de met hem verbonden lichamen en verbonden natuurlijke personen, bedoeld in artikel 10a, vierde lid in verbinding met het zesde lid, onderscheidenlijk vijfde lid.
