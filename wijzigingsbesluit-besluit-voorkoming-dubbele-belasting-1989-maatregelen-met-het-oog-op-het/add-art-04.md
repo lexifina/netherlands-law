@@ -1,0 +1,2 @@
+# Artikel IV
+Artikel 3, tweede en derde lid, en de artikelen 3a en 3b van het Besluit voorkoming dubbele belasting zoals dat luidde tot en met 31 december 1989, alsmede artikel 3, derde en vierde lid, en de artikelen 4 en 5 van het Besluit voorkoming dubbele belasting 1989 zoals dat luidde tot en met 31 december 1994, blijven van toepassing ten aanzien van een belastingplichtige die na 1 januari 1987 doch voor 1 januari 1995 anders dan door overlijden ophoudt binnenlands belastingplichtig te zijn en na 1 januari 1995 wederom binnenlands belastingplichtig wordt.
