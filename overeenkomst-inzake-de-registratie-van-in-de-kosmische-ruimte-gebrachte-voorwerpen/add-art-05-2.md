@@ -1,0 +1,2 @@
+# Artikel V
+Wanneer een ruimtevoorwerp dat in een baan om de aarde of daarbuiten is gebracht, is voorzien van de aanduiding of het registratienummer bedoeld onder letter b) van het eerste lid van artikel IV, of van beide, doet de Staat van registratie hiervan mededeling aan de Secretaris-Generaal van de Verenigde Naties wanneer hij laatstgenoemde de inlichtingen betreffende het ruimtevoorwerp overeenkomstig artikel IV verstrekt. In dat geval maakt de Secretaris-Generaal van de Verenigde Naties aantekening van deze mededeling in het register.

@@ -1,0 +1,2 @@
+# Article V
+Whenever a space object launched into earth orbit or beyond is marked with the designator or registration number referred to in article IV, paragraph 1 (b), or both, the State of registry shall notify the Secretary-General of this fact when submitting the information regarding the space object in accordance with article IV. In such case, the Secretary-General of the United Nations shall record this notification in the Register.

@@ -1,0 +1,6 @@
+# Artikel VIII
+1. Deze Overeenkomst staat open voor ondertekening door alle Staten in de zetel van de Verenigde Naties te New York. Iedere Staat die deze Overeenkomst niet heeft ondertekend vóór haar inwerkingtreding overeenkomstig het bepaalde in het derde lid van dit artikel, kan te allen tijde tot deze Overeenkomst toetreden.
+2. Deze Overeenkomst dient door de ondertekenende Staten te worden bekrachtigd. De akten van bekrachtiging en de akten van toetreding worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
+3. Deze Overeenkomst treedt tussen de Staten die hun akten van bekrachtiging hebben nedergelegd, in werking op de datum van nederlegging van de vijfde akte van bekrachtiging bij de Secretaris-Generaal van de Verenigde Naties.
+4. Voor Staten waarvan de akte van bekrachtiging of toetreding wordt nedergelegd na de inwerkingtreding van deze Overeenkomst, treedt zij in werking op de datum van nederlegging van hun akte van bekrachtiging of toetreding.
+5. De Secretaris-Generaal van de Verenigde Naties doet terstond alle ondertekenende en toetredende Staten mededeling van de datum van iedere ondertekening, de datum van nederlegging van iedere akte van bekrachtiging van of toetreding tot deze Overeenkomst, de datum van de inwerkingtreding ervan alsmede van andere gegevens.

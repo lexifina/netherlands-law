@@ -1,0 +1,2 @@
+# Artikel IX
+Iedere Staat die Partij is bij deze Overeenkomst kan voorstellen doen tot wijziging ervan. Wijzigingen treden voor iedere Staat die Partij is bij deze Overeenkomst en die deze aanvaardt, in werking na hun aanvaarding door een meerderheid van de Staten die Partij zijn bij deze Overeenkomst, en vervolgens voor iedere andere Staat die Partij is bij deze Overeenkomst, op de datum waarop hij deze aanvaardt.
