@@ -1,0 +1,3 @@
+# Artikel XII. Ad artikel 38 van de Overeenkomst
+Dit Verdrag is voor wat het Verenigd Koninkrijk betreft van toepassing op Engeland en Wales, Schotland en Noord-Ierland en op elk gebied voor de internationale betrekkingen waarvan het Verenigd Koninkrijk verantwoordelijk is en waartoe dit Verdrag is uitgebreid, door middel van een akkoord bij notawisseling tussen Partijen, met inachtneming van daarbij overeengekomen wijzigingen.
+Dit Verdrag is voor wat het Koninkrijk der Nederlanden betreft van toepassing op het deel van het Rijk in Europa. Het kan worden uitgebreid tot de Nederlandse Antillen en Aruba, door middel van een akkoord bij notawisseling tussen Partijen, met inachtneming van daarbij overeengekomen wijzigingen.

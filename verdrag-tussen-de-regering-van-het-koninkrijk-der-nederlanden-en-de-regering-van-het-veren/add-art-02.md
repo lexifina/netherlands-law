@@ -1,0 +1,2 @@
+# Artikel II. Ad artikel 1 van de Overeenkomst
+Onder „confiscatie" wordt mede verstaan een rechterlijke beslissing waarbij de delinkwent wordt verplicht een geldbedrag te betalen dat de geschatte waarde van het geheel of een gedeelte van zijn opbrengsten van strafbare feiten vertegenwoordigt, met inbegrip van feiten die hem niet formeel ten laste zijn gelegd, maar die door de rechter van een Partij wel in aanmerking zijn genomen bij het geven van de beslissing tot confiscatie overeenkomstig haar nationale wetgeving.

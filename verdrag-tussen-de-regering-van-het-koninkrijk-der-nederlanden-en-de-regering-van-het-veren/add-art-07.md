@@ -1,0 +1,2 @@
+# Artikel VII. Ad artikel 24 van de Overeenkomst
+In spoedeisende gevallen en onverminderd artikel 18, derde lid, van de Overeenkomst kunnen verzoeken om rechtshulp ten behoeve van onderzoeken en eventuele onmiddellijke reacties daarop, alsook uit eigen beweging verstrekte informatie overeenkomstig afdeling 2 van hoofdstuk III van de Overeenkomst, rechtstreeks worden uitgewisseld tussen de bevoegde politie-autoriteiten van de Partijen of via verbindingsofficieren van de politie die elke Partij eventueel heeft gedetacheerd op het grondgebied van de andere Partij.
