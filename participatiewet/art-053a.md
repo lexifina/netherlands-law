@@ -1,0 +1,3 @@
+# Artikel 53a. Verstrekking en onderzoek gegevens
+1. Onverminderd artikel 28, tweede en derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen, bepaalt het college welke gegevens ten behoeve van de verlening van bijstand dan wel de voortzetting daarvan door de belanghebbende in ieder geval worden verstrekt en welke bewijsstukken worden overgelegd, alsmede de wijze en het tijdstip waarop de verstrekking van gegevens plaatsvindt.
+2. Het college is bevoegd onderzoek in te stellen naar de juistheid en volledigheid van de verstrekte gegevens en zonodig naar andere gegevens die noodzakelijk zijn voor de verlening dan wel de voortzetting van bijstand. Indien het onderzoek daartoe aanleiding geeft kan het college besluiten tot herziening van de bijstand.
