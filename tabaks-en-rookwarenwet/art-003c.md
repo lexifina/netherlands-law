@@ -1,0 +1,5 @@
+# Artikel 3c
+1. Tabaksproducenten en -importeurs zijn verplicht medewerking te verlenen aan door Onze Minister ingestelde, aangewezen of goedgekeurde metingen en onderzoekingen, die tot doel hebben na te gaan wat het gehalte is aan teer, nicotine, koolmonoxide en andere stoffen die tabaksproducten, opgesplitst naar merk en type per eenheid product, voortbrengen, alsook om de gevolgen van deze andere stoffen voor de gezondheid na te gaan, daarbij onder meer rekening houdend met het inherente gevaar van afhankelijkheid.
+2. De metingen en onderzoekingen voor gehaltes aan teer, nicotine en koolmonoxide worden uitgevoerd of geverifieerd door laboratoria die zijn erkend door en onder toezicht staan van Onze Minister.
+3. De resultaten van de metingen en onderzoekingen worden jaarlijks aan Onze Minister overgelegd of zo veel minder frequent als bij regeling van Onze Minister is bepaald.
+4. Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de wijze waarop toepassing wordt gegeven aan het eerste, tweede en derde lid.
