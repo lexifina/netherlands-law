@@ -1,0 +1,3 @@
+# Artikel 15c
+1. De Raad heeft tot taak het opstellen van een ontwerp van een koninklijk besluit als bedoeld in artikel 136 van de Grondwet.
+2. Binnen zes maanden nadat het ontwerp is opgesteld kan Onze Minister wie het aangaat, de Raad gemotiveerd verzoeken zijn ontwerp in nadere overweging te nemen. Indien het koninklijk besluit afwijkt van het ontwerp of het nader ontwerp wordt het in het Staatsblad geplaatst met het ontwerp, bedoeld in het eerste lid en indien daarvan sprake is, het nader ontwerp. Indien niet binnen zes maanden een verzoek als bedoeld in de eerste volzin is gedaan luidt het koninklijk besluit overeenkomstig het ontwerp.
