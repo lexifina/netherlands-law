@@ -1,0 +1,2 @@
+# II
+De ouderdomsuitkeringen, zoals deze bij de Nederlandse wet van 24 Mei 1947 zijn geregeld of zoals deze eventueel alsnog zullen worden geregeld, zullen onder de voorwaarden, welke ingevolge de Nederlandse wetgeving voor de Nederlandse onderdanen gelden, en onder voorbehoud van bij nadere overeenkomst te stellen voorwaarden, worden verleend aan alle Luxemburgse onderdanen zowel wanneer deze in Nederland als wanneer zij in het Groothertogdom Luxemburg hun woonplaats hebben.

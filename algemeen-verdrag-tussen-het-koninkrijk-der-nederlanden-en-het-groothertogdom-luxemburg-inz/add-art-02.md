@@ -1,0 +1,2 @@
+# II
+Les allocations aux vieillards qui sont prévues par la loi néerlandaise du 24 mai 1947 ou telles qu'elles pourront être prévues dans la suite, seront accordées dans les conditions fixées par la législation néerlandaise pour les ressortissants néerlandais et sous réserve d'un arrangement ultérieur à tous les ressortissants luxembourgeois soit qu'ils résident aux Pays-Bas ou au Grand-Duché de Luxembourg.
