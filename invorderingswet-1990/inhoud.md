@@ -10,7 +10,7 @@
 ## Hoofdstuk VI. Aansprakelijkheid
 ### Afdeling 1. Aansprakelijkheid
 ### Afdeling 2. Formele bepalingen
-### Afdeling 3. Bijzondere verhaalsregelingen voor de aansprakelijk gestelde
+### Afdeling 3. Bijzondere verhaalsregelingen voor aansprakelijken
 ## Hoofdstuk VII. Verplichtingen ten behoeve van de invordering
 ## Hoofdstuk VIII. Strafrechtelijke bepalingen
 ## Hoofdstuk IX. Aanvullende regelingen

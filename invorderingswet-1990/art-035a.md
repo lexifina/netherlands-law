@@ -1,0 +1,12 @@
+# Artikel 35a
+1. De opdrachtgever is hoofdelijk aansprakelijk voor de loonbelasting ter zake van een werk, inhoudende de vervaardiging en elke daarop gerichte handeling van kleding, andere dan schoeisel:
+a. die de aannemer en, indien een werk geheel of gedeeltelijk door een of meer volgende onderaannemers wordt uitgevoerd, iedere volgende onderaannemer verschuldigd is in verband met het verrichten van werkzaamheden door zijn werknemers ter zake van dat werk;
+b. voor de betaling waarvan de aannemer en, indien een werk geheel of gedeeltelijk door een of meer volgende onderaannemers wordt uitgevoerd, iedere volgende onderaannemer ingevolge artikel 35 hoofdelijk aansprakelijk is ter zake van dat werk.
+In afwijking in zoverre van artikel 32, tweede lid, is de opdrachtgever niet aansprakelijk voor de in verband met de heffing van loonbelasting opgelegde bestuurlijke boete.
+2. In dit artikel wordt onder opdrachtgever verstaan degene die buiten dienstbetrekking in de normale uitoefening van zijn bedrijf met een ander, de aannemer, een overeenkomst heeft gesloten om voor hem een werk als bedoeld in het eerste lid uit te voeren tegen een te betalen prijs.
+3. Voor de toepassing van dit artikel wordt met een opdrachtgever gelijkgesteld degene die buiten dienstbetrekking in de normale uitoefening van zijn bedrijf kleding, andere dan schoeisel, koopt die nog geheel of gedeeltelijk vervaardigd moet worden en met een aannemer de verkoper daarvan.
+4. Artikel 35, tweede lid, derde lid, onderdelen a en c, en vijfde lid, is van overeenkomstige toepassing, met dien verstande dat:
+a. in het tweede lid, onderdeel a, van dat artikel voor een werk van stoffelijke aard moet worden gelezen: een werk, inhoudende de vervaardiging en elke daarop gerichte handeling van kleding, andere dan schoeisel;
+b. de toepassing van het derde lid, onderdeel a, van dat artikel er niet toe kan leiden dat de wederpartij van de aannemer als opdrachtgever als bedoeld in het tweede lid wordt beschouwd;
+c. in het vijfde lid van dat artikel voor «aannemer» moet worden gelezen: opdrachtgever, voor «onderaannemer»: aannemer en voor «het eerste lid en artikel 16b»: het eerste lid van artikel 35a en artikel 16ba.
+5. De aansprakelijkheid op grond van het eerste lid geldt niet met betrekking tot de loonbelasting verschuldigd door de aannemer of een onderaannemer, indien aannemelijk is dat het niet betalen door de aannemer of een onderaannemer noch aan de opdrachtgever, noch aan de aannemer of een onderaannemer is te wijten.
