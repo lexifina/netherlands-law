@@ -1,0 +1,3 @@
+# Artikel VIIIB
+1. Teruggaaf van accijns voor bier, wijn en tussenproducten op de voet van de artikelen 70 en 71 van de Wet op de accijns wordt tot en met 31 mei 2002 verleend naar het tot en met 31 maart 2002 geldende tarief, tenzij belanghebbende aantoont dat de accijns naar het vanaf 1 april 2002 geldende tarief is voldaan.
+2. Teruggaaf van de verbruiksbelasting van alcoholvrije dranken op de voet van de artikelen 32 en 33 van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten wordt tot en met 31 mei 2002 slechts verleend naar het tot en met 31 maart 2002 geldende tarief, indien belanghebbende aantoont dat de verbruiksbelasting naar dat tarief is voldaan.
