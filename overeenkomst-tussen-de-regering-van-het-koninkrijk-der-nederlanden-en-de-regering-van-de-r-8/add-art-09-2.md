@@ -1,0 +1,2 @@
+# Artikel IX. Kosten voor luchtvaartvoorzieningen en luchthavens
+De heffingen die op het grondgebied van een der Overeenkomstsluitende Partijen aan de luchtvaartuigen van een aangewezen luchtvaartmaatschappij van de andere Overeenkomstsluitende Partij worden berekend voor het gebruik van luchthavens en andere luchtvaartvoorzieningen, mogen niet hoger zijn dan die welke in rekening worden gebracht aan luchtvaartuigen van andere luchtvaartmaatschappijen, die soortgelijke internationale luchtdiensten uitvoeren.

@@ -1,0 +1,2 @@
+# Artikel XIII. Overmaking van inkomsten
+Elke Overeenkomstsluitende Partij verleent aan de aangewezen luchtvaartmaatschappij(en) van de andere Overeenkomstsluitende Partij het recht tot het op verzoek inwisselen en overmaken naar haar land van de lokale inkomsten na aftrek van de lokaal uitgegeven bedragen, in vrij inwisselbare valuta. De inwisseling en overmaking zijn toegestaan zonder beperking, tegen de wisselkoers geldend voor lopende transacties.

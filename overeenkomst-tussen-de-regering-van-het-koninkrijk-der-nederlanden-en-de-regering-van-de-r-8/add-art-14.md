@@ -1,0 +1,2 @@
+# Article XIV. Airline representation
+The designated airline(s) of one Contracting Party shall be entitled, on the basis of reciprocity and in accordance with the laws and regulations relating to entry, residence and employment of the other Contracting Party, to bring in and maintain in the territory of the other Contracting Party those of its own managerial, technical, operational and other specialist staff who are required for the provision of its air services.
