@@ -1,0 +1,2 @@
+# ARTIKEL III
+Een persoon die, op de datum van inwerkingtreding van dit besluit op grond van artikel 14a, tweede lid, van het Bestrijdingsmiddelenbesluit, aangemerkt wordt als deskundige, wordt gedurende de periode dat zijn bewijs van deskundigheid geldig is, aangemerkt als houder van een vergunning als bedoeld in artikel 6, vierde lid, van het Besluit vakkennis- en vakbekwaamheidseisen bestrijdingsmiddelen.
