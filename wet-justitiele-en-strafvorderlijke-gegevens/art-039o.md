@@ -1,0 +1,3 @@
+# Artikel 39o
+1. Indien het College van procureurs-generaal strafvorderlijke gegevens heeft verbeterd, aangevuld, verwijderd of afgeschermd, doet het aan de personen of instanties, bedoeld in de artikelen 39e, eerste lid, en 39f, eerste lid, aan wie in het jaar voorafgaand aan het verzoek en in de sinds dat verzoek verstreken periode de betrokken gegevens zijn verstrekt, zo spoedig mogelijk mededeling van deze verbetering, aanvulling, verwijdering of afscherming, tenzij dit onmogelijk blijkt of een onevenredige inspanning kost.
+2. Artikel 24, tweede lid, is van overeenkomstige toepassing, met dien verstande dat daar waar in dit artikel wordt gesproken over «Onze Minister» «het College van procureurs-generaal» wordt gelezen.

@@ -1,0 +1,3 @@
+# Artikel 39m
+1. Degene aan wie overeenkomstig artikel 39i kennis is gegeven van hem betreffende strafvorderlijke gegevens, kan het College van procureurs-generaal schriftelijk verzoeken deze te verbeteren, aan te vullen, te verwijderen of af te schermen, indien deze feitelijk onjuist zijn, voor het doel van de verwerking onvolledig of niet ter zake dienend zijn dan wel in strijd met een wettelijk voorschrift worden verwerkt. Het verzoek bevat de aan te brengen wijzigingen.
+2. Artikel 22, tweede en derde lid, is van overeenkomstige toepassing, met dien verstande dat daar waar in dit artikel wordt gesproken over «Onze Minister» «het College van procureurs-generaal» wordt gelezen.
