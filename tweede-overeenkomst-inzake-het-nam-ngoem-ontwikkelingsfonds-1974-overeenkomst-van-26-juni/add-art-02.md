@@ -1,0 +1,4 @@
+# Article II. Establishment of Second Nam Ngum Development Fund
+Section 2.01. There is hereby established the Second Nam Ngum Development Fund, constituted by the contributions which shall from time to time be made to the Fund, whether as grant or loan, in accordance with the provisions of this Agreement, together with any additions thereto and any other assets and receipts of the Fund, to be held in trust and administered by the Bank and used only for the purposes, and in accordance with the provisions, of this Agreement and the Project Agreement.
+Section 2.02. The Bank is hereby designated as Administrator of the Fund. The Bank agrees to act in that capacity in accordance with the provisions of this Agreement and the Project Agreement.
+Section 2.03. The Fund and its assets and accounts shall be kept separate and apart from all assets and accounts of the Bank and shall be separately designated in such appropriate manner as the Bank shall determine.
