@@ -1,0 +1,2 @@
+# Artikel 6 bis
+Wanneer een gerecht van een verdragsluitende Staat uit hoofde van dit Verdrag bevoegd is kennis te nemen van vorderingen ter zake van aansprakelijkheid voortvloeiend uit het gebruik of de exploitatie van een schip, neemt dit gerecht, of elk ander gerecht dat volgens het nationale recht van deze Staat in zijn plaats treedt, tevens kennis van de vorderingen tot beperking van deze aansprakelijkheid.

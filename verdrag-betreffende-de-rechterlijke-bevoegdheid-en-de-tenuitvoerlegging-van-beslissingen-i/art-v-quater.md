@@ -1,0 +1,2 @@
+# Artikel V quater
+Wanneer, op grond van artikel 69, lid 5, van het Verdrag betreffende het Europees octrooi voor de gemeenschappelijke markt, ondertekend te Luxemburg op 15 december 1975, de artikelen 52 en 53 van dit Verdrag worden toegepast op de bepalingen inzake de „residence" volgens de Engelse tekst van eerstgenoemd Verdrag, wordt de uitdrukking „residence" die in die tekst wordt gebruikt, geacht dezelfde betekenis te hebben als de uitdrukking „domicile" in de voornoemde artikelen 52 en 53.

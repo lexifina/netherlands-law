@@ -1,0 +1,5 @@
+# Artikel V
+De rechterlijke bevoegdheid, bepaald in de artikelen 6, punt 2, en 10 ten aanzien van de vordering tot vrijwaring of de vordering tot voeging of tussenkomst kan in de Bondsrepubliek Duitsland en in de Republiek Oostenrijk niet worden ingeroepen. Ieder die woonplaats heeft in een andere Verdragsluitende Staat, kan worden opgeroepen voor de gerechten van:
+– de Bondsrepubliek Duitsland met toepassing van de artikelen 68, 72, 73 en 74 van het Wetboek van Burgerlijke Rechtsvordering betreffende de litis denuntiatio,
+– de Republiek Oostenrijk overeenkomstig artikel 21 van het Wetboek van Burgerlijke Rechtsvordering (Zivilprozessordnung) betreffende de litis denuntiatio.
+De in de overige Verdragsluitende Staten krachtens de artikelen 6, punt 2, en 10, gegeven beslissingen worden in de Bondsrepubliek Duitsland en in de Republiek Oostenrijk overeenkomstig titel III erkend en ten uitvoer gelegd. De gevolgen voor derden van de beslissingen welke in deze Staten met toepassing van het bepaalde in de voorgaande alinea zijn gegeven, worden eveneens in de overige Verdragsluitende Staten erkend.

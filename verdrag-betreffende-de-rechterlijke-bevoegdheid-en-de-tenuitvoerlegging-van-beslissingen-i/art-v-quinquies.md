@@ -1,0 +1,2 @@
+# Artikel V quinquies
+Onverminderd de bevoegdheid van het Europees Octrooibureau volgens het op 5 oktober 1973 te München ondertekende Europees Octrooiverdrag, zijn de gerechten van elke verdragsluitende Staat, zonder acht te slaan op de woonplaats, bij uitsluiting bevoegd ter zake van inschrijving of geldigheid van een Europees octrooi dat voor die Staat is verleend en dat geen Gemeenschapsoctrooi is krachtens artikel 86 van het op 15 december 1975 te Luxemburg ondertekende Verdrag betreffende het Europees octrooi voor de gemeenschappelijke markt.
