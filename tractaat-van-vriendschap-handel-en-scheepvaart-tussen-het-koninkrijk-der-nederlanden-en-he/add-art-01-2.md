@@ -1,0 +1,3 @@
+# Artikel I
+De wederzijdsche onderdanen der beide Hooge contracterende Partijen zullen volkomen met de nationalen worden gelijkgesteld voor al wat aangaat de uitoefening van den handel, der nijverheid en der beroepen, de betaling der belastingen, de uitoefening der godsdiensten, het regt om allerlei roerende en onroerende eigendommen te verkrijgen of daarover te beschikken bij koop, verkoop, schenking, ruil, laatste wilsbeschikking en erfopvolging ab intestato.
+Zij zullen volkomen gelijkgesteld worden met de onderdanen der meest bevoorregte vreemde natie, voor zoo veel aangaat hunnen persoonlijken staat onder alle andere opzigten.

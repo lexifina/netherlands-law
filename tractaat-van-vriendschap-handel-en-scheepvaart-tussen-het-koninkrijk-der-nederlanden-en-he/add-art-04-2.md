@@ -1,0 +1,2 @@
+# Artikel IV
+Er is overeengekomen, dat ten gevolge der bijzondere wetgeving, welke de Nederlandsche kolonien beheerscht, de voordeelen in art. I, in de twee laatste alinea's van art. II en in art. III bedongen, in die kolonien slechts zullen worden toegepast op de onderdanen, op de voortbrengselen, op de koopwaren of op de vlag van het Koningrijk Italie, voor zoover die voordeelen in de Nederlandsche kolonien aan eenige andere vreemde natie, dan eene Aziatische van den Oosterschen Archipel, worden of zullen worden toegekend.

@@ -1,0 +1,2 @@
+# Article IV
+Il est entendu, que par suite de la législation exceptionnelle, qui régit les colonies Neerlandaises, les avantages stipulés dans l'article I, dans les deux derniers alinéas de l'article II et dans l'article III, ne sont applicables dans ces colonies aux sujets, aux produits, aux marchandises ou au pavillon du Royaume d'Italie, que pour autant que ces avantages sont ou seront accordés par la suite dans les colonies Neerlandaises à quelque nation étrangère autre qu'Asiatique de l'Archipel Oriental.
