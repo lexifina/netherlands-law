@@ -1,0 +1,3 @@
+# Artikel IV
+1. Aan de Nederlandse Omroep Stichting, genoemd in artikel 16 van de Mediawet, wordt de concessie, bedoeld in artikel 30a, van de Mediawet, voor de eerste keer verleend met ingang van 1 september 2000, tenzij in het koninklijk besluit waarbij de concessie wordt verleend een ander tijdstip wordt vastgesteld.
+2. Ten behoeve van de in het eerste lid bedoelde concessieverlening doet de Nederlandse Omroep Stichting een concessiebeleidsplan als bedoeld in artikel 30b van de Mediawet, voor een door Onze Minister te bepalen datum toekomen aan het Commissariaat voor de Media. Het Commissariaat zendt het concessiebeleidsplan met zijn opmerkingen binnen vier weken aan Onze Minister.
