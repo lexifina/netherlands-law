@@ -1,0 +1,18 @@
+# Article X. Annexes and application to individual specialized agencies
+Section 33
+In their application to each specialized agency, the standard clauses shall operate subject to any modifications set forth in the final (or revised) text of the annex relating to that agency, as provided in sections 36 and 38.
+Section 34
+The provisions of the Convention in relation to any specialized agency must be interpreted in the light of the functions with which that agency is entrusted by its constitutional instrument.
+Section 35
+Draft annexes 1 to 9 are recommended to the specialized agencies named therein. In the case of any specialized agency not mentioned by name in section 1, the Secretary-General of the United Nations shall transmit to the agency a draft annex recommended by the Economic and Social Council.
+Section 36
+The final text of each annex shall be that approved by the specialized agency in question in accordance with its constitutional procedure. A copy of the annex as approved by each specialized agency shall be transmitted by the agency in question to the Secretary-General of the United Nations and shall thereupon replace the draft referred to in section 35.
+Section 37
+The present Convention becomes applicable to each specialized agency when it has transmitted to the Secretary-General of te United Nations the final text of the relevant annex and has informed him that it accepts the standard clauses, as modified by this annex, and undertakes to give effect to sections 8, 18, 22, 23, 24, 31, 32, 42 and 45 (subjetc to any modification of section 32 which may be found necessary in order to make the final text of the annex consonant with the constitutional instrument of the agency) and any provisions of the annex placing obligations on the agency. The Secretary-General shall communicate to all Members of the United Nations and to other States members of the specialized agencies certified copies of all annexes transmitted to him under this section and of revised annexes transmitted under section 38.
+Section 38
+If, after the transmission of a final annex under section 36, any specialized agency approves any amendments thereto in accordance with its constitutional procedure, a revised annex shall be transmitted by it to the Secretary-General of the United Nations.
+Section 39
+The provisions of this Convention shall in no way limit or prejudice the privileges and immunities which have been, or may hereafter be, accorded by any State to any specialized agency by reason of the location in the territory of that State of its headquarters or regional offices. This convention shall not be deemed to prevent the conclusion between any State party thereto and any specialized agency of supplemental agreements adjusting the provisions of this Convention or extending or curtailing the privileges and immunities thereby granted.
+Section 40
+It is understood that the standard clauses, as modified by the final text of an annex sent by a specialized agency to the Secretary-General of the United Nations under section 36 (or any revised annex sent under section 38), will be consistent with the provisions of the constitutional instrument then in force of the agency in question, and that if any amendment to that instrument is necessary for the purpose of making the constitutional instrument so consistent, such amendment will have been brought into force in accordance with the constitutional procedure of that agency before the final (or revised) annex is transmitted.
+The Convention shall not itself operate so as to abrogate, or derogate from, any provisions of the constitutional instrument of any specialized agency or any rights or obligations which the agency may otherwise have, acquire, or assume.
