@@ -1,0 +1,10 @@
+# Artikel XXVIII
+1. Deze wet treedt in werking met ingang van 1 januari 2000.
+2. Artikel V, onderdeel A, vindt voor het eerst toepassing met betrekking tot de heffing over het jaar dat aanvangt op of na 1 januari 2000.
+3. In afwijking van het eerste lid treden artikel VII, onderdelen B, D, onder 3, N, O, onder 2, P, R, S, onder 1, en X, onder 2, in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende onderdelen verschillend kan worden vastgesteld, met dien verstande dat indien het Staatsblad waarin dat besluit wordt geplaatst na 1 januari 2000 wordt uitgegeven, in dat besluit bepaald wordt dat artikel VII, onderdelen B, D, onder 3, N, O, onder 2, P, R, S, onder 1, en X, onder 2, terugwerken tot en met 1 januari 2000.
+4. Artikel I, onderdelen D, F, H, I en J, artikel II, onderdelen A, B, C en D, artikel III, onderdeel B, en artikel IV vinden toepassing nadat artikel 66b van de Wet op de inkomstenbelasting 1964 bij het begin van het kalenderjaar 2000 is toegepast.
+5. Artikel VII, onderdelen D, onder 1 en 3, E, F, K, onder 1 en 2, U, X en Y vindt toepassing nadat artikel 37a van de Wet belastingen op milieugrondslag bij het begin van het kalenderjaar 2000 is toegepast, met dien verstande dat per 1 januari 2000 de aanpassing op grond van artikel 37a van de Wet belastingen op milieugrondslag van de in de artikelen 9, onderdeel b, 10, onderdeel b, 18, eerste lid, onderdeel a en tweede lid, 36i, eerste lid, onderdelen a tot en met e, en zevende lid, 36o, tweede lid, en 36r, tweede lid, van die wet vermelde bedragen, geen toepassing vindt.
+6. In afwijking van het eerste lid treden de artikelen IX en X in werking met ingang van 1 mei 2000.
+7. In afwijking van het eerste lid werkt artikel XI, onderdeel A, terug tot en met 12 november 1999, 18.00 uur.
+8. In afwijking van het eerste lid werkt artikel XVIII terug tot en met 1 januari 1999.
+9. In afwijking van het eerste lid treden artikel I, onderdeel B en onderdeel L, artikel V, onderdeel C, en artikel XXIV in werking op een bij koninklijk besluit te bepalen tijdstip.

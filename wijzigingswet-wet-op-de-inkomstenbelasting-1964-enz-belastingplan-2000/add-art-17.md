@@ -1,0 +1,2 @@
+# Artikel XVII
+In geval van een boekjaar dat is aangevangen voor 1 januari 2000 en op of na die datum eindigt, wordt de in artikel 13, tweede lid, aanhef en onderdeel a en b, van de Wet op de inkomstenbelasting 1964, zoals dat luidde op 31 december 1999, bedoelde omzet gesteld op de omzet die is toe te rekenen aan het aantal voor 1 januari 2000 vallende dagen van het boekjaar, en worden de in die onderdelen vermelde grensbedragen gesteld op het product van die bedragen en de verhouding waarin dat aantal dagen staat tot het totale aantal dagen van dat boekjaar.
