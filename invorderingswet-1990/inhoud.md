@@ -1,0 +1,17 @@
+# Inhoud
+## Hoofdstuk I. Algemene bepalingen
+## Hoofdstuk II. Invordering in eerste aanleg
+## Hoofdstuk III. Dwanginvordering
+## Hoofdstuk IV. Bijzondere bepalingen
+### Afdeling 1. Verhaalsrechten
+### Afdeling 2. Verrekening
+### Afdeling 3. Uitstel van betaling, kwijtschelding en verjaring
+## Hoofdstuk V. Betalingskorting en rente
+## Hoofdstuk VI. Aansprakelijkheid
+### Afdeling 1. Aansprakelijkheid
+### Afdeling 2. Formele bepalingen
+### Afdeling 3. Bijzondere verhaalsregelingen voor de aansprakelijk gestelde
+## Hoofdstuk VII. Verplichtingen ten behoeve van de invordering
+## Hoofdstuk VIII. Strafrechtelijke bepalingen
+## Hoofdstuk IX. Aanvullende regelingen
+## Hoofdstuk X. Slotbepalingen

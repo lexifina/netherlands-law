@@ -1,0 +1,2 @@
+# Artikel 42b
+Indien krachtens artikel 12a van de Wet op de omzetbelasting 1968 de omzetbelasting wordt geheven van degene aan wie de levering is verricht, is de ondernemer die de levering heeft verricht hoofdelijk aansprakelijk voor die belasting, tenzij hij aannemelijk maakt dat hij met betrekking tot het verzoek, bedoeld in artikel 11, eerste lid, onderdeel a, onder 2°, van de Wet op de omzetbelasting 1968 niet wist of behoorde te weten dat niet werd voldaan aan de voorwaarden bedoeld in genoemd artikellid.
