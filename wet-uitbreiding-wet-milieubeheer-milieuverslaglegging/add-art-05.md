@@ -1,0 +1,2 @@
+# ARTIKEL V
+Een milieuverslag als bedoeld in artikel 12.2, eerste lid, van de Wet milieubeheer ten behoeve van het publiek en een milieuverslag als bedoeld in artikel 12.4, eerste lid, van die wet ten behoeve van een bestuursorgaan worden voor de eerste maal opgesteld over het verslagjaar 1998. Indien een bepaling, genoemd in de eerste volzin, later in werking treedt dan 1 juli 1997, wordt het betrokken milieuverslag voor de eerste maal opgesteld over het verslagjaar 1999.
