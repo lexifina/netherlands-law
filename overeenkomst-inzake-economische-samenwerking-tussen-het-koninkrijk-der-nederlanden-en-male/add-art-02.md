@@ -1,0 +1,3 @@
+# Artikel II
+(1) De Overeenkomstsluitende Partijen komen overeen de economische samenwerking tussen hun onderscheiden landen zoveel mogelijk te bevorderen en te ontwikkelen.
+(2) De Overeenkomstsluitende Partijen komen voorts overeen de samenwerking tussen hun onderdanen en vennootschappen te bevorderen en, in het kader van hun onderscheiden wetten en regelingen, mede te bevorderen de deelneming van hun onderdanen en vennootschappen in de ontplooiing van produktieve en commerciële activiteiten en de verlening van diensten binnen hun onderscheiden grondgebieden welke zouden bijdragen tot de verbetering van de levensstandaard binnen hun grondgebieden en tot de voorspoed van hun landen.

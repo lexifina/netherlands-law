@@ -1,0 +1,5 @@
+# Artikel XVII
+(1) De onderhavige Overeenkomst treedt in werking op de 30e dag na de datum van de uitwisseling der akten van bekrachtiging.
+(2) Deze Overeenkomst blijft van kracht voor een tijdvak van tien jaren en zal nadien verder van kracht blijven tenzij een der Overeenkomstsluitende Partijen, na het verstrijken van het aanvangstijdvak van tien jaren, de andere Overeenkomstsluitende Partij schriftelijk haar voornemen mededeelt deze Overeenkomst te beëindigen. De mededeling van beëindiging heeft rechtsgevolg een jaar nadat zij door de andere Overeenkomstsluitende Partij is ontvangen.
+(3) Ter zake van investeringen welke zijn gedaan vóór de datum waarop de mededeling van beëindiging van deze Overeenkomst rechtsgevolg heeft, blijven de bepalingen van de artikelen I tot XVI van kracht gedurende een verder tijdvak van tien jaren te rekenen van die datum.
+(4) Met inachtneming van de in het tweede lid van dit artikel genoemde tijdvakken is de Regering van het Koninkrijk der Nederlanden gerechtigd de toepassing van de onderhavige Overeenkomst voor Suriname of de Nederlandse Antillen afzonderlijk te beëindigen.

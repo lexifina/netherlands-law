@@ -1,0 +1,3 @@
+# Artikel V
+(1) Wat betreft de betaling van belastingen, rechten of heffingen, alsmede de toekenning van fiscale aftrekposten en vrijstellingen, kent elke Overeenkomstsluitende Partij aan onderdanen en vennootschappen van de andere Overeenkomstsluitende Partij, die op haar grondgebied economische activiteiten verrichten, een behandeling toe welke niet minder gunstig is dan die welke aan onderdanen en vennootschappen van enig derde land wordt toegekend.
+(2) Niettegenstaande het hierboven bepaalde, behoudt elke Overeenkomstsluitende Partij zich het recht voor bijzondere belastingvoordelen op basis van wederkerigheid of uit krachte ener overeenkomst ter voorkoming van dubbele belasting of tot wederzijdse bescherming van belastingontvangsten te verlenen.
