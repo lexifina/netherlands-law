@@ -1,0 +1,3 @@
+# Artikel III
+1. De rechterlijke ambtenaren in opleiding die hun opleiding vóór 1 april 1991 zijn aangevangen, volgen deze overeenkomstig de toepasselijke bepalingen van het Besluit opleiding rechterlijke ambtenaren zoals het luidde voor de inwerkingtreding van dit besluit.
+2. De rechterlijke ambtenaren in opleiding die hun opleiding op of na 1 april 1991 zijn aangevangen, worden geacht deze tot de inwerkingtreding van dit besluit te hebben gevolgd overeenkomstig de toepasselijke bepalingen van het Besluit opleiding rechterlijke ambtenaren zoals het vanaf de inwerkingtreding van dit besluit luidt.
