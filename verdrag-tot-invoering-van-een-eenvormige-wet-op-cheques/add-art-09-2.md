@@ -1,0 +1,3 @@
+# Artikel IX
+Ieder Lid van den Volkenbond en iedere Staat niet-Lid, voor wien dit Verdrag van kracht is, zal na het einde van het vierde jaar, volgende op de inwerkingtreding van dit Verdrag, een verzoek kunnen richten tot den Secretaris-Generaal van den Volkenbond, strekkende tot herziening van enkele of van alle bepalingen van dit Verdrag.
+Indien een zoodanig verzoek na mededeeling aan de andere Leden van den Volkenbond of Staten niet-Leden, voor wie het Verdrag alsdan van kracht zal zijn, binnen den termijn van een jaar wordt gesteund door tenminste zes van hen, zal de Raad van den Volkenbond beslissen of er reden is te dien einde een Conferentie samen te roepen.

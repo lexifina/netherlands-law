@@ -1,0 +1,2 @@
+# Artikel XI
+Dit Verdrag zal door den Secretaris-Generaal van den Volkenbond onmiddellijk bij zijn inwerkingtreding worden geregistreerd.

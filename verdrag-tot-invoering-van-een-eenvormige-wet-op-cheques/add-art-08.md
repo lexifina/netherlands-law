@@ -1,0 +1,5 @@
+# Article VIII
+Except in urgent cases the present Convention may not be denounced before the expiry of two years from the date on which it has entered into force in respect of the Member of the League or non-member State denouncing it; such denunciation shall take effect as from the ninetieth day following the receipt by the Secretary-General of the notification addressed to him.
+Every denunciation shall be immediately communicated by the Secretary-General of the League of Nations to all other High Contracting Parties.
+In urgent cases a High Contracting Party which denounces the Convention shall immediately notify direct all other High Contracting Parties, and the denunciation shall take effect two days after the receipt of such notification by the said High Contracting Parties. A High Contracting Party denouncing the Convention in these circumstances shall also inform the Secretary-General of the League of Nations of its decision.
+Each denunciation shall take effect only as regards the High Contracting Party on whose behalf it has been made.

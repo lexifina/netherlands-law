@@ -1,0 +1,3 @@
+# Artikel V
+Van 15 Juli 1931 af zal ieder Lid van den Volkenbond en iedere Staat niet-Lid tot dit Verdrag kunnen toetreden. Deze toetreding zal geschieden door een kennisgeving aan den Secretaris-Generaal van den Volkenbond, die haar zal nederleggen in de archieven van het Secretariaat.
+De Secretaris-Generaal zal van de nederlegging onmiddellijk kennis geven aan alle Leden van den Volkenbond en aan Staten niet-Leden, die dit Verdrag hebben onderteekend, of die daartoe zijn toegetreden.

@@ -1,0 +1,3 @@
+# Article IX
+Every Member of the League of Nations and every non-member State in respect of which the present Convention is in force may forward to the Secretary-General of the League of Nations, after the expiry of the fourth year following the entry into force of the Convention, a request for the revision of some or alle of the provisions of this Convention.
+If such request, after bein communicated to the other Members or non-member States between which the Convention is at that time in force, is supported within one year by at least six of them, the Council of the League of Nations shall decide whether a Conference shall be convened for the purpose.
