@@ -1,0 +1,2 @@
+# Artikel V
+Een algemene maatregel van bestuur tot wijziging van de algemene maatregel van bestuur, bedoeld in artikel 15 van de Huurprijzenwet woonruimte, waarbij het maximale huurverhogingspercentage voor het tijdvak dat loopt van 1 juli 2000 tot en met 30 juni 2001 anders wordt vastgesteld dan het op 30 juni 2000 in die maatregel genoemde percentage, treedt in afwijking van artikel 15, vierde lid, van die wet niet eerder in werking dan een maand na de dagtekening van het Staatsblad waarin de eerstgenoemde maatregel is geplaatst.

@@ -1,0 +1,2 @@
+# Artikel IV
+De bedragen die zijn genoemd in de artikelen 13, eerste lid, onderdelen a en b (maximale huurgrenzen), en 20, eerste en tweede lid (kwaliteitskortingsgrens en aftoppingsgrenzen), van de Huursubsidiewet worden voor het tijdvak dat loopt van 1 juli 2000 tot en met 30 juni 2001, in afwijking van artikel 27, eerste en derde lid, van die wet, met ingang van 1 juli 2000 aangepast met het in de algemene maatregel van bestuur, bedoeld in artikel 15 van de Huurprijzenwet woonruimte, genoemde maximaal huurverhogingspercentage.
