@@ -1,2 +1,2 @@
 # Artikel 11g
-Het tarief bedraagt € 0,136 per kubieke meter.
+Het tarief bedraagt € 0,141 per kubieke meter.
