@@ -1,0 +1,2 @@
+# Artikel V
+Zodra aan de verplichtingen van deze Overeenkomst is voldaan, zullen de beide Overeenkomstsluitende Partijen alle financiële geschillen tussen de beide Staten die al of niet zijn begrepen in deze Overeenkomst en voortgekomen zijn uit de oorlog of de Duitse bezetting, als beëindigd beschouwen, met uitzondering van de intercustodiale geschillen, die afzonderlijk zullen worden geregeld op basis van de op 5 december 1947 te Brussel ondertekende Overeenkomst betreffende strijdige aanspraken op buiten Duitsland gelegen Duitse bezittingen.
