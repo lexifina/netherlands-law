@@ -8,9 +8,9 @@ b. indien op een eerder tijdstip op die aanvraag is beslist: nadat die beslissin
 5. Indien de bouwvergunning in twee fasen wordt verleend, wordt in:
 a. artikel 41 in plaats van «aanvraag om bouwvergunning» gelezen: aanvraag om bouwvergunning eerste, dan wel tweede fase;
 b. artikel 48, eerste lid, in plaats van «aanvraag voor een reguliere bouwvergunning» gelezen: aanvraag om bouwvergunning eerste fase;
-c. de artikelen 49, eerste lid, 50, eerste lid, en 51, eerste lid, in plaats van «aanvraag om bouwvergunning» gelezen: aanvraag om bouwvergunning eerste fase;
+c. de artikelen 49, eerste lid, 50, eerste lid, 51, eerste lid, en 54, eerste lid, in plaats van «aanvraag om bouwvergunning» gelezen: aanvraag om bouwvergunning eerste fase;
 d. artikel 49, tweede lid, onderdeel a, onder 2°, en onderdeel b, onder 2°, in plaats van «binnen twaalf weken» telkens gelezen «binnen zes weken», en in plaats van «reguliere bouwvergunning» telkens: aanvraag om bouwvergunning eerste fase;
-e. de artikelen 52, eerste lid, 52a, eerste lid, 53, eerste lid, 54, eerste lid, en 55, eerste lid, in plaats van «aanvraag om bouwvergunning» telkens gelezen: aanvraag om bouwvergunning tweede fase.
+e. de artikelen 52, eerste lid, 52a, eerste lid, 53, eerste lid, en 55, eerste lid, in plaats van «aanvraag om bouwvergunning» telkens gelezen: aanvraag om bouwvergunning tweede fase.
 6. Burgemeester en wethouders kunnen het besluit waarbij de bouwvergunning eerste fase is verleend, intrekken indien:
 a. blijkt, dat zij dit besluit ten gevolge van een onjuiste of onvolledige opgave hebben genomen, of dat gegevens of bescheiden als bedoeld in artikel 40a, tweede lid, niet tijdig zijn overgelegd, of
 b. niet binnen 12 maanden na het onherroepelijk worden van het besluit een aanvraag om bouwvergunning tweede fase is ingediend.
