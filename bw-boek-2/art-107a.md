@@ -1,0 +1,6 @@
+# Artikel 107a
+1. Aan de goedkeuring van de algemene vergadering zijn onderworpen de besluiten van het bestuur omtrent een belangrijke verandering van de identiteit of het karakter van de vennootschap of de onderneming, waaronder in ieder geval:
+a. overdracht van de onderneming of vrijwel de gehele onderneming aan een derde;
+b. het aangaan of verbreken van duurzame samenwerking van de vennootschap of een dochtermaatschappij met een andere rechtspersoon of vennootschap dan wel als volledig aansprakelijke vennote in een commanditaire vennootschap of vennootschap onder firma, indien deze samenwerking of verbreking van ingrijpende betekenis is voor de vennootschap;
+c. het nemen of afstoten van een deelneming in het kapitaal van een vennootschap ter waarde van ten minste een derde van het bedrag van de activa volgens de balans met toelichting of, indien de vennootschap een geconsolideerde balans opstelt, volgens de geconsolideerde balans met toelichting volgens de laatst vastgestelde jaarrekening van de vennootschap, door haar of een dochtermaatschappij.
+2. Het ontbreken van de goedkeuring van de algemene vergadering op een besluit als bedoeld in lid 1 tast de vertegenwoordigingsbevoegdheid van bestuur of bestuurders niet aan.
