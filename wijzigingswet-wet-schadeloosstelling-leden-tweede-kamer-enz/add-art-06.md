@@ -1,0 +1,3 @@
+# Artikel VI
+1. Aan de leden van het Europees Parlement wordt een eenmalige uitkering toegekend van 6% van de feitelijk genoten schadeloosstelling, bedoeld in artikel 2 van de Wet schadeloosstelling, uitkering en pensioen leden Europees Parlement, over de maand september 1992, verminderd met een percentage van dat bedrag, overeenkomend met het in artikel 21, eerste lid, Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 genoemde percentage.
+2. Aan degenen die op 30 september 1992 lid van het Europees Parlement waren, wordt naast de eenmalige uitkering, bedoeld in het eerste lid, een eenmalige uitkering toegekend van f 431.

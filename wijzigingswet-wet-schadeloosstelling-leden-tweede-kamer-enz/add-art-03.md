@@ -1,0 +1,3 @@
+# Artikel III
+1. Aan de leden van de Tweede Kamer der Staten-Generaal wordt een eenmalige uitkering toegekend van 6% van de feitelijk genoten schadeloosstelling, bedoeld in artikel 2 van de Wet schadeloosstelling leden Tweede Kamer, over de maand september 1992, verminderd met het in het laatstgenoemde artikel bedoelde percentage.
+2. Aan de voorzitter, ondervoorzitters en fractievoorzitters van de Tweede Kamer der Staten-Generaal wordt naast de eenmalige uitkering, bedoeld in het eerste lid, een eenmalige uitkering toegekend van 6% van de feitelijk genoten toelagen, bedoeld in de artikelen 11 en 12 van de Wet schadeloosstelling leden Tweede Kamer, over de maand september 1992.
