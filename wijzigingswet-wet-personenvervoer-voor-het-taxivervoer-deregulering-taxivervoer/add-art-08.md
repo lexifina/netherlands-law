@@ -1,0 +1,2 @@
+# Artikel VIII
+Een aanvraag voor een vergunning voor het verrichten van taxivervoer, die voor de datum van inwerkingtreding van deze wet is ingediend op grond van de artikelen 57, respectievelijk 63 of 63a van de Wet personenvervoer, zoals deze luidden voor die datum, bij gedeputeerde staten, respectievelijk een openbaar lichaam of een dagelijks bestuur van een regionaal openbaar lichaam als bedoeld in de Kaderwet bestuur in verandering, en waarop nog geen beslissing is genomen, geldt met ingang van die datum als een aanvraag ingediend bij Onze Minister.

@@ -1,0 +1,3 @@
+# Artikel XIII
+1. Indien naar het oordeel van Onze Minister zwaarwegende redenen aanwezig zijn om, mede gelet op de naar zijn oordeel gebleken doeltreffendheid en de effecten van deze wet in de praktijk en het met een of beide kamers der Staten-Generaal ter zake gevoerde overleg, de in de artikelen III, eerste lid, IV, eerste lid, V en X vermelde termijn van twee jaar te verlengen, kan voor het einde van die termijn bij koninklijk besluit worden bepaald dat die termijn met ten hoogste twee jaar wordt verlengd.
+2. In het in het eerste lid bedoelde geval wordt een ontwerp van een koninklijk besluit op grond van het eerste lid uiterlijk tweeëntwintig maanden na de inwerkingtreding van deze wet aan de beide kamers der Staten-Generaal overgelegd.

@@ -1,0 +1,3 @@
+# Artikel III
+1. Tot twee jaar na de datum van inwerkingtreding van deze wet, behoudens verlenging bij koninklijk besluit op grond van artikel XIII, worden vergunningen krachtens de Wet personenvervoer 2000 slechts verleend voor het verrichten van taxivervoer binnen en vanuit een van de gebieden, zoals die op de datum voor inwerkingtreding van deze wet golden op grond van artikel 57, tweede lid, van de Wet personenvervoer, zoals dat op deze datum luidde.
+2. In afwijking van het eerste lid kan een vergunning worden verleend voor een gebied bestaande uit twee of meer van de gebieden bedoeld in het eerste lid.
