@@ -9,5 +9,5 @@ b. elektriciteit heeft opgewekt door middel van een noodinstallatie in geval van
 c. stortgas, rioolwaterzuiveringsgas of biogas heeft gewonnen;
 d. elektriciteit heeft opgewekt door middel van een installatie voor warmtekrachtkoppeling.
 6. Als levering wordt niet aangemerkt het verbruik van een van de producten genoemd in artikel 36b, eerste lid, onderdelen d en e, indien die producten worden verbruikt voor de vervaardiging van producten als bedoeld in artikel 36b, eerste lid, onderdelen a tot en met e, alsmede lichte olie als bedoeld in artikel 26, tweede lid, van de Wet op de accijns en zware stookolie als bedoeld in artikel 26, vijfde lid, van de Wet op de accijns, in dezelfde inrichting waarin zij zijn ontstaan.
-7. Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur worden voorwaarden en beperkingen gesteld waaronder het zesde lid toepassing vindt.
+7. Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur worden voorwaarden en beperkingen gesteld waaronder het vijfde en zesde lid toepassing vinden.
 8. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
