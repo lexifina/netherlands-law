@@ -39,6 +39,7 @@
 ## Hoofdstuk 7. Sancties
 ### Strafbepaling
 ### Beboetbare feiten
+### Aanduiding pleger beboetbaar feit
 ### Hoogte boete en recidive
 ### Informatie, zwijgrecht en cautie
 ### Boeterapport
@@ -46,7 +47,7 @@
 ### Betaling
 ### Aanmaning
 ### Invordering
-### Verjaring
+### Vervaltermijn
 ### Wijziging boetebedrag
 ### Terugbetaling
 ## Hoofdstuk 8. Overgangs- en slotbepalingen
