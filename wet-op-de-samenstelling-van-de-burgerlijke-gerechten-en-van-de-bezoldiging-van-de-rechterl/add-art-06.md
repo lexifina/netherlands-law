@@ -1,0 +1,3 @@
+# Artikel VI
+1. Het salaris van de substituut-officier van justitie, die vóór 1 januari 1957 was aangewezen als hoofd van het kantongerechtsparket, wordt over het tijdvak van 1 januari 1957 tot de datum van indiensttreding als substituut-officier van justitie vermeerderd met een bedrag van f 122,96 per maand.
+2. Voor de substituut-officier van justitie, die gedurende een onafgebroken periode van twee jaar als hoofd van het kantongerechtsparket te 's-Gravenhage, Rotterdam of Amsterdam was aangewezen, wordt het salaris over het tijdvak van 1 januari 1957 tot de datum van indiensttreding als substituut-officier van justitie vermeerderd met een bedrag van f 199,81 per maand.
