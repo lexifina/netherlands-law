@@ -1,0 +1,2 @@
+# Artikel X
+De Overeenkomstsluitende Partij op wier grondgebied een door haar goedgekeurde investering is gedaan ten aanzien van welke investering de andere Overeenkomsluitende Partij of een onderdaan daarvan enige financiële zekerheid tegen niet-commerciële risico's heeft gesteld, erkent de subrogatie van degene die deze zekerheid heeft gesteld in de rechten van de investeerder met betrekking tot schadevergoeding indien op grond van deze zekerheid betalingen zijn gedaan en wel ten belope van deze betaling.

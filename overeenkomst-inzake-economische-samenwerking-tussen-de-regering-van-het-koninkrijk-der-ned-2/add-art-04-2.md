@@ -1,0 +1,3 @@
+# Artikel IV
+(1) Elke Overeenkomstsluitende Partij is bereid binnen de grenzen van haar wetgeving de levering van kapitaalgoederen aan, of de uitvoering van openbare werken ten behoeve van overheidsinstellingen en particuliere ondernemingen door haar onderdanen op het grondgebied van de andere Overeenkomstsluitende Partij, een en ander tegen betaling in termijnen, te vergemakkelijken.
+(2) Naar aanleiding van krachtens het eerste lid hierboven aangegane transacties verleent elke Overeenkomstsluitende Partij binnen de grenzen van haar wetgeving vergunning tot de overmaking van opeisbare bedragen die verschuldigd zijn aan de onderdanen van de andere Overeenkomstsluitende Partij.

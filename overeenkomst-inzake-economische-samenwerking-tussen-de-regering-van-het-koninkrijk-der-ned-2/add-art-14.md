@@ -1,0 +1,4 @@
+# Article XIV
+(1) The present Agreement shall be ratified and the instruments of ratification shall be exchanged as soon as possible at The Hague.
+(2) The present Agreement shall enter into force on the 30th day after the date of the exchange of the instruments of ratification. It shall remain in force for a period of ten years and shall, unless notice of termination is given in writing by either Contracting Party one year before its expiry, continue in force thereafter for an unlimited period. After the expiry of the period of ten years the present Agreement may be terminated at any time by either Contracting Party giving one year's notice.
+(3) In respect of investments made prior to the date of termination of the present Agreement, the provisions of Article I to XIII shall continue to be effective for a further period of ten years from the date of termination of the present Agreement.

@@ -1,0 +1,4 @@
+# Artikel XI
+(1) De Overeenkomstsluitende Partijen stellen hierbij een Gemeenschappelijke Commissie in, bestaande uit door hen benoemde vertegenwoordigers.
+(2) De Gemeenschappelijke Commissie komt op verzoek van een der Overeenkomstsluitende Partijen bijeen ter bespreking van aangelegenheden betreffende de tenuitvoerlegging van deze Overeenkomst en ter bestudering van middelen ter bevordering van de economische samenwerking tussen de twee landen.
+(3) De Gemeenschappelijke Commissie volgt derhalve de ontwikkeling van de economische betrekkingen tussen de beide landen, zowel in bilateraal als in multilateraal verband. Bovendien doet zij de onderscheiden Regeringen aanbevelingen wanneer de doeleinden van deze Overeenkomst zouden kunnen worden bevorderd en een grotere mate van economische samenwerking zou kunnen worden bereikt.

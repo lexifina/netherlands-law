@@ -1,0 +1,3 @@
+# Artikel VII
+(1) Elke Overeenkomstsluitende Partij waarborgt de eerlijke en billijke behandeling van de investeringen, goederen, rechten en belangen van onderdanen van de andere Overeenkomstsluitende Partij en belemmert niet, door ongerechtvaardigde of discriminatoire maatregelen, het beheer, de instandhouding, het gebruik en het genot daarvan of de beschikking daarover door deze onderdanen.
+(2) Met name kent elke Overeenkomstsluitende Partij aan zodanige investeringen, goederen, rechten en belangen dezelfde zekerheid en bescherming toe als zij toekent aan die van onderdanen van derde Staten.

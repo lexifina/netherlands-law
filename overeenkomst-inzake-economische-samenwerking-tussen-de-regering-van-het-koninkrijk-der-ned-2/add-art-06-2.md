@@ -1,0 +1,2 @@
+# Artikel VI
+Onderdanen van een der Overeenkomstsluitende Partijen genieten, wat de bescherming van de industriële eigendom betreft, op het grondgebied van de andere Overeenkomstsluitende Partij een bescherming die niet minder gunstig is dan die welke haar eigen onderdanen genieten, zulks onverminderd de rechten waarin de desbetreffende internationale verdragen die beide Overeenkomstsluitende Partijen binden voorzien.
