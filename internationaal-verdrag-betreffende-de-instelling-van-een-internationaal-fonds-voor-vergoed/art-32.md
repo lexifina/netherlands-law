@@ -1,0 +1,3 @@
+# Article 32*. Revision and amendment
+1. A conference for the purpose of revising or amending the 1992 Fund Convention may by convened by the Organization.
+2. The Organization shall convene a Conference of Contracting States for the purpose of revising or amending the 1992 Fund Convention at the request of not less than one third of all Contracting States.
