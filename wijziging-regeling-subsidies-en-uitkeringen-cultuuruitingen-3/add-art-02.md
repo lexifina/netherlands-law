@@ -1,0 +1,2 @@
+# Artikel II
+Ten aanzien van activiteiten, waarvoor instellingssubsidies zijn verleend voor de jaren 1997 tot en met 2000, worden de jaarrekening, bedoeld in artikel 33, eerste lid, onderdeel c, van het Bekostigingsbesluit cultuuruitingen, en de rapportage, bedoeld in artikel 36, tweede lid, van dat besluit, ingediend met inachtneming van de regels die direct voorafgaand aan de inwerkingtreding van deze regeling golden.
