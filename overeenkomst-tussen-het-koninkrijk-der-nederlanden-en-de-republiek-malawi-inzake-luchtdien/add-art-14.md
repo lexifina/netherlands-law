@@ -1,0 +1,3 @@
+# Article XIV. Recognition of Certificates and Licences
+Certificates of airworthiness, certificates of competency and licences issued, or validated, by one Contracting Party and unexpired shall be recognised as valid by the other Contracting Party for the purpose of operating the agreed services on the specified routes, provided always that such certificates or licences were issued, or validated, in conformity with the standards established under the Convention.
+Each Contracting Party, however, reserves the right to refuse to recognise, for flights above its own territory, certificates of competency and licences granted to its own nationals by the other Contracting Party.

@@ -1,0 +1,2 @@
+# Article X. Unloading of Equipment
+The regular airborne equipment, spare parts, aircraft stores and supplies of fuel and lubricants normally retained on board the aircraft of either Contracting Party may be unloaded in the territory of the other Contracting Party only with the approval of the customs authorities of that Party, who may require that those materials be placed under their surveillance up to such time as they are re-exported or otherwise disposed of in accordance with customs regulations.

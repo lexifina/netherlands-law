@@ -1,0 +1,2 @@
+# Article XX. Applicability
+As regards the Kingdom of the Netherlands, this Agreement shall apply to the Kingdom in Europe only.

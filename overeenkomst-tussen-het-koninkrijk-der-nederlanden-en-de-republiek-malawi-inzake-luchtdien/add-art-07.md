@@ -1,0 +1,3 @@
+# Article VII. Filing of Timetables
+1. The designated airline of either Contracting Party shall, not later than 30 days prior to the date of the operation of any agreed service, submit its proposed timetables to the aeronautical authorities of the other Contracting Party. Such timetables shall include the type of service, aircraft to be used, the flight schedules, and as appropriate, tariffs.
+2. If either designated airline wishes to operate supplementary or additional flights besides those covered in the approved timetables, it shall first obtain the permission of the aeronautical authorities of the Contracting Party concerned.

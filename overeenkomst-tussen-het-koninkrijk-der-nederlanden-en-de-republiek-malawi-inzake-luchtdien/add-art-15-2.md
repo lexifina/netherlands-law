@@ -1,0 +1,4 @@
+# Artikel XV. Overmaking van ontvangsten
+1. De aangewezen luchtvaartmaatschappijen van de Overeenkomstsluitende Partijen zijn vrij uit het grondgebied van verkoop naar het grondgebied waar hun zetel is gevestigd, het batig saldo over te maken van de ontvangsten en uitgaven in het grondgebied van verkoop. In deze netto-overmaking zijn begrepen inkomsten uit verkopen, rechtstreeks of via een agent, van luchtvervoersdiensten en van bijkomende of aanvullende diensten, en de gebruikelijke commerciële rente op deze inkomsten verkregen, terwijl zij op een depositorekening stonden in afwachting van de overmaking.
+2. Een zodanige overmaking wordt goedgekeurd en geschiedt, op basis van de officiële wisselkoersen voor lopende betalingen, binnen de kortst mogelijke termijn, te rekenen van de datum van indiening van de aanvrage.
+3. Aan bovengenoemde overmakingen wordt hoge prioriteit toegekend ten opzichte van vergelijkbare transacties.

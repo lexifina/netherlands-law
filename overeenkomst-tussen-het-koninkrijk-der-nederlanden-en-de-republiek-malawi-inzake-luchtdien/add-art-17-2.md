@@ -1,0 +1,5 @@
+# Artikel XVII. Overleg en wijziging
+1. In een geest van nauwe samenwerking plegen de luchtvaartautoriteiten van de Overeenkomstsluitende Partijen van tijd tot tijd met elkaar overleg ten einde de uitvoering en bevredigende naleving van de bepalingen van deze Overeenkomst te verzekeren; zij plegen eveneens, indien noodzakelijk, overleg omtrent wijziging daarvan.
+2. Elk der Overeenkomstsluitende Partijen kan om overleg vragen, dat een aanvang moet nemen binnen zestig (60) dagen, te rekenen van de datum van ontvangst van het verzoek, tenzij beide Overeenkomstsluitende Partijen instemmen met verlenging van dit tijdvak. Het overleg kan zowel mondeling als schriftelijk plaats hebben.
+3. Wijzigingen of veranderingen van deze Overeenkomst, overeengekomen door de Overeenkomstsluitende Partijen, treden in werking op een in een diplomatieke notawisseling te bepalen datum.
+4. Wijzigingen of veranderingen van de Bijlage bij deze Overeenkomst worden schriftelijk overeengekomen tussen de luchtvaartautoriteiten en treden onmiddellijk in werking.
