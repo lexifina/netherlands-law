@@ -1,0 +1,2 @@
+# Artikel II
+Deze regeling is niet van toepassing op een aanbod tot het aanbrengen van geluidwerende voorzieningen als bedoeld in artikel 12, tweede lid, dat is aanvaard of afgewezen vóór de datum van inwerkingtreding van deze regeling of dat betrekking heeft op een woning opgenomen in een isolatieprogramma als bedoeld in artikel 10, eerste lid, dat is vastgesteld vóór de datum van inwerkingtreding van deze regeling.
