@@ -1,0 +1,2 @@
+# Artikel II
+In afwijking van artikel 8, derde lid, moet bij een aanvraag om subsidie, die betrekking heeft op de subsidieperiode die begint op 1 april 1991 en die eindigt op 30 september 1991, gebruik worden gemaakt van een aanvraagformulier waarvan het model is opgenomen in de bij deze regeling behorende bijlage 1 en van een verklaring, waarvan het model is opgenomen in de bij deze regeling behorende bijlage 2.
