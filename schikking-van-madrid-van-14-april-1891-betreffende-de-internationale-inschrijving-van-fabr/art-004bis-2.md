@@ -1,0 +1,2 @@
+# Artikel 4bis
+Wanneer een merk, reeds gedeponeerd in een of meer der contracteerende landen, daarna is ingeschreven door het Internationaal Bureau ten name van denzelfden persoon of van diens rechtverkrijgende, zal de internationale inschrijving beschouwd worden als in de plaats te zijn getreden van de vroegere nationale inschrijvingen, zonder afbreuk te doen aan de rechten, door laatstvermelde inschrijvingen verkregen.
