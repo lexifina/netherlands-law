@@ -1,0 +1,2 @@
+# Artikel 17f
+In afwijking van artikel 8:69 van de Algemene wet bestuursrecht kan de rechter in beroep of hoger beroep het bedrag waarop de boete is vastgesteld ook ten nadele van de verzekerde, dan wel de persoon aan wie op grond van artikel 21 kinderbijslag wordt betaald, wijzigen.
