@@ -1,0 +1,2 @@
+# Artikel IVB
+In afwijking van artikel 83 van de Wet op de motorrijtuigenbelasting 1994 wordt teruggaaf van motorrijtuigenbelasting verleend over tijdvakken die nog niet zijn aangevangen op 1 januari 2001 met betrekking tot motorrijtuigen, niet zijnde vrachtauto's. De teruggaaf bedraagt het verschil tussen de betaalde belasting en de belasting die is verschuldigd op grond van onderscheidenlijk de artikelen 23, 24, 25, 25b en 47, eerste lid, van die wet.
