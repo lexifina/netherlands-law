@@ -1,0 +1,2 @@
+# Artikel IV
+De Overeenkomstsluitende Partijen zullen binnen de grenzen van hun constitutionele systemen administratieve maatregelen nemen, die zij nodig achten, teneinde de verspreiding, publicatie, publiciteit, propaganda, welke onderbewuste aansporingen of boodschappen bevatten, drukwerken en audiovisuele voorlichting die de handel in en het gebruik van de in Artikel I, eerste lid, genoemde middelen en stoffen stimuleren, onder controle te houden.

@@ -1,0 +1,2 @@
+# Artikel V
+De Overeenkomstsluitende Partijen verplichten zich tot het treffen van maatregelen die een snelle afwikkeling mogelijk maken door hun respectievelijke rechterlijke autoriteiten van rogatoire commissies, verband houdend met strafprocessen ten aanzien van zaken waarop deze Overeenkomst betrekking heeft, alsmede tot het treffen van alle overige maatregelen die nodig zijn voor de naleving van deze Overeenkomst.
