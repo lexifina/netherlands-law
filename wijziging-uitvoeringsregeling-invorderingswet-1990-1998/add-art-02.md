@@ -1,0 +1,4 @@
+# Artikel II
+De kosten van bestaan, bedoeld in de artikelen 12, tweede lid, onderdeel d, van de Uitvoeringsregeling Invorde-ringswet 1990 en 13, eerste lid, van die regeling bedragen, in afwijking van artikel 16 van die regeling, voor het tijdvak dat aanvangt op 1 januari 1998 en eindigt op de dag voorafgaand aan de dag van inwerkingtreding van artikel I van deze regeling, voor belastingschuldigen die worden aangemerkt als:
+a. echtgenoten als bedoeld in artikel 3 van de Algemene bijstandswet die 65 jaar of ouder zijn, onderscheidenlijk waarvan een echtgenoot 65 jaar of ouder is: 90 percent van f 2106,42, onderscheidenlijk van f 2061,42;
+b. een alleenstaande en een alleenstaande ouder als bedoeld in artikel 4, onderdeel a, onderscheidenlijk onderdeel b, van de Algemene bijstandswet die 65 jaar of ouder zijn: 90 percent van f 1495,76, onderscheidenlijk van f 1902,43.
