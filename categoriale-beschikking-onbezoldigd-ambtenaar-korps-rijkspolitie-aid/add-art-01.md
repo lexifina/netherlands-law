@@ -1,0 +1,2 @@
+# Artikel I
+De opsporingsbevoegdheid verkregen door de categoriale beschikking van 27 juni 1988 (Stcrt. 126 dd. 4 juli 1988) houdende benoeming tot onbezoldigd ambtenaar van het Korps Rijkspolitie van de ambtenaren van de Algemene Inspectie Dienst van het ministerie van Landbouw, Natuurbeheer en Visserij geldt tevens voor de opsporing van delicten in het kader van besluiten terzake organische meststoffen voorzover (mede) gebaseerd op de Wet inzake luchtverontreiniging.
