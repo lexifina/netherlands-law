@@ -1,0 +1,2 @@
+# ARTIKEL II
+Dit besluit treedt in werking met ingang van 1 januari 1999, met dien verstande dat de aanhef en nummers 11 en 21 van onderdeel b van de bij het Uitvoeringsbesluit omzetbelasting 1968 behorende bijlage B zoals deze bepalingen luidden op 31 december 1998, van toepassing blijven met betrekking tot die bad- en zweminrichtingen die deze bepalingen reeds toepasten op die datum, en wel uiterlijk tot het tijdstip waarop die bad- en zweminrichtingen ervoor kiezen die bepalingen niet langer op hen van toepassing te doen zijn.
