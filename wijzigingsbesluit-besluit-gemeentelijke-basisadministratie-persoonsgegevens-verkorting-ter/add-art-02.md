@@ -1,0 +1,2 @@
+# Artikel II
+Een vreemdeling die geen toelating heeft tot Nederland en verblijft in een opvangcentrum en die op grond van het gewijzigde artikel 55 van het Besluit gemeentelijke basisadministratie persoonsgegevens voor inschrijving in aanmerking komt en overigens voldoet aan de vereisten voor inschrijving in een basisadministratie, wordt op zijn aangifte van verblijf en adres binnen drie maanden na inwerkingtreding van dit besluit ingeschreven in de gemeentelijke basisadministratie persoonsgegevens.
