@@ -1,0 +1,3 @@
+# Article premier
+1. Le trafic des animaux, des produits bruts d'origine animale et en général de tous les produits qui peuvent être porteurs d'un agent de maladie épizootique, des viandes et de tous les produits carnés destinés à l'alimentation ainsi que du poisson, entre les territoires des deux Parties Contractantes, peut être limité à des postes-frontière, des ports et des aéroports nommément désignés pour être soumis au contrôle vétérinaire par l'Etat dans le territoire duquel l'importation doit avoir lieu.
+2. Les postes-frontière, les ports et les aéroports ouverts à la visite sanitaire vétérinaire ainsi que les jours et heures de visite sont fixés par l'autorité compétente de chacune des deux Parties et notifiés à l'autre Partie Contractante.
