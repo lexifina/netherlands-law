@@ -14,5 +14,5 @@
 ### § 2. Onderzoek van voorvallen
 ### § 3. Medewerking
 ### § 4. Ontheffing en vrijstelling
-## Hoofdstuk VI. Strafbepalingen en borgsom
+## Hoofdstuk VI. Straf- en verbodsbepalingen en borgsom
 ## Hoofdstuk VII. Slotbepalingen
