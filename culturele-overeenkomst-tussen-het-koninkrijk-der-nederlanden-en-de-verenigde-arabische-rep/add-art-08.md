@@ -1,0 +1,2 @@
+# Artikel VIII
+Wat het Koninkrijk der Nederlanden betreft, zal de onderhavige Overeenkomst van toepassing zijn op het in Europa gelegen gebied.
