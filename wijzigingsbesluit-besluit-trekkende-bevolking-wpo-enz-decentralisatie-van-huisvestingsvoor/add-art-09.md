@@ -1,0 +1,2 @@
+# Artikel IX. Overgangsbepaling huisvestingskosten en uitgaven materiële instandhouding scholen gehuisvest op een vaartuig
+In afwijking van artikel C 16a van het Besluit trekkende bevolking WPO zoals gewijzigd bij dit besluit, dient het bevoegd gezag van een school gehuisvest op een vaartuig voor 1 juli 2001 een verklaring van een accountant omtrent de rechtmatigheid van de uitgaven over de jaren 1999 en 2000 in bij de Minister van Onderwijs, Cultuur en Wetenschappen.
