@@ -1,0 +1,2 @@
+# Artikel 23h
+Indien in Nederland om erkenning, niet-erkenning of tenuitvoerlegging van een uitspraak van de rechter uit een andere lidstaat, wordt verzocht door een rechtzoekende die in een andere lidstaat dan Nederland zijn rechtmatige woonplaats of gewone verblijfplaats als bedoeld in artikel 23b, derde lid, heeft en van wie de hoofdzaak in een andere lidstaat dan Nederland is behandeld waarbij hij op grond van de richtlijn, genoemd in artikel 23i, eerste lid, rechtsbijstand heeft ontvangen zijn de artikelen 23c tot en met 23g van overeenkomstige toepassing.

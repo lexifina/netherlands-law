@@ -8,6 +8,10 @@
 ### Afdeling 1. Algemeen
 ### Afdeling 2. De inschrijving van advocaten door de raad
 ### Afdeling 3. De stichting rechtsbijstand
+## Hoofdstuk IIIa. De verlening van rechtsbijstand in grensoverschrijdende geschillen binnen de Europese Unie
+### Afdeling 1. Rechtzoekenden die wonen in een andere lidstaat dan Nederland
+### Afdeling 2. Rechtzoekenden die wonen in Nederland
+### Afdeling 3. Afstemming andere regelgeving
 ## Hoofdstuk IV. De toevoeging
 ## Hoofdstuk V. Financiële bepalingen
 ### Afdeling 1. De normen voor de financiële draagkracht van de rechtzoekende
