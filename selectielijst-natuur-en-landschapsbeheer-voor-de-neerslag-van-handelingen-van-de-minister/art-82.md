@@ -1,0 +1,6 @@
+# (82)
+Handeling: Het beslissen over de aankoop, verkoop of ruil van gronden in het belang van het natuur- en landschapsbeheer
+Periode: 1945-
+Bron: Stichting beheer landbouwgronden 1946 t/m 1982. Overzicht van 37 jaar activiteiten op het landelijk gebied
+Dienstonderdeel: DN
+Waardering: B, 5
