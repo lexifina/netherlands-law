@@ -1,0 +1,3 @@
+# Artikel VIII. Definitie van bepaalde periodes van wonen met betrekking tot de Nederlandse wetgeving
+1. Voor de toepassing van de Nederlandse wetgeving wordt degene, op wie overeenkomstig de bepalingen van deze Titel de Nederlandse wetgeving van toepassing is, geacht in Nederland te wonen.
+2. Het bepaalde in het eerste lid is van overeenkomstige toepassing op de echtgeno(o)t(e) en kinderen die de in het tweede of vierde lid, sub b, van artikel VI bedoelde persoon vergezellen van het grondgebied van de ene Partij naar het grondgebied van de andere Partij, tenzij zij zelf betaalde arbeid gaan verrichten of een pensioen of uitkering ontvangen krachtens de wetgeving van laatstbedoelde Partij.

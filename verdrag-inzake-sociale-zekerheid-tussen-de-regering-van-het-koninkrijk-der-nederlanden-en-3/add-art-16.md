@@ -1,0 +1,2 @@
+# Artikel XVI. Hoogte van de uitkeringen
+Indien het recht op uitkering is vastgesteld met toepassing van artikel XV wordt het bedrag van de uitkering berekend naar verhouding van de totale duur van de door de overledene voor zijn 65-jarige leeftijd krachtens de Nederlandse wetgeving vervulde verzekeringstijdvakken tot het tijdvak liggende tussen de datum waarop de overledene de 15-jarige leeftijd heeft bereikt en de datum van overlijden, maar uiterlijk de datum waarop hij de 65-jarige leeftijd heeft bereikt.

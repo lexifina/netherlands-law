@@ -1,0 +1,3 @@
+# Artikel XXV. Oplossing van geschillen
+1. De bevoegde autoriteiten van de Partijen lossen geschillen die ontstaan met betrekking tot de interpretatie of de toepassing van dit Verdrag, zo veel mogelijk op overeenkomstig de geest en de grondbeginselen van dit Verdrag.
+2. Indien het geschil niet binnen zes maanden is beslecht, wordt het voorgelegd aan een scheidsrechterlijke commissie waarvan de samenstelling en de procedure door de Partijen wordt vastgesteld. De scheidsrechterlijke commissie beslecht het geschil volgens de geest en de grondbeginselen van dit Verdrag. De beslissing van de scheidsrechterlijke commissie is niet vatbaar voor beroep en is bindend voor de Partijen.

@@ -1,0 +1,7 @@
+# Artikel XIX. Uitwisseling van informatie en wederzijdse bijstand
+1. De bevoegde autoriteiten en organen die verantwoordelijk zijn voor de toepassing van dit Verdrag:
+a. verstrekken elkaar alle inlichtingen die noodzakelijk zijn voor de toepassing van dit verdrag, voor zover zulks is toegestaan door de wetgeving die zij uitvoeren;
+b. zijn elkaar behulpzaam en verlenen elkaar bijstand met betrekking tot de vaststelling van het recht op en de betaling van uitkeringen krachtens dit Verdrag of de wetgevingen waarop dit Verdrag van toepassing is, als betrof het de toepassing van hun eigen wetgeving;
+c. stellen elkaar zo spoedig mogelijk in kennis van de maatregelen die door hen getroffen zijn voor de toepassing van dit Verdrag of van wijzigingen in hun wetgeving voor zover deze wijzigingen van invloed zijn op de toepassing van dit Verdrag.
+2. De in het eerste lid, onder b, bedoelde hulp is kosteloos, onder voorbehoud van eventuele tussen de bevoegde autoriteiten van de Partijen bereikte overeenstemming inzake de vergoeding van bepaalde kosten.
+3. Tenzij op grond van de wetten van een Partij anders is bepaald, zijn alle inlichtingen welke over een persoon die overeenkomstig dit Verdrag door een autoriteit of orgaan van die Partij aan de autoriteit of het orgaan van de andere Partij zijn doorgegeven vertrouwelijk; zij mogen alleen gebruikt worden voor de uitvoering van dit Verdrag en de wetgeving waarop dit Verdrag van toepassing is.

@@ -1,0 +1,3 @@
+# Artikel XXI. Vrijstelling of vermindering van belastingen, leges en kosten
+1. De vrijstelling of verlaging van belastingen, leges, consulaire of administratieve kosten waarin de wetgeving van een Partij voorziet voor bescheiden of documenten die ter uitvoering van de wetgeving van deze Partij dienen te worden overgelegd, geldt eveneens voor bescheiden en documenten die ter uitvoering van de wetgeving van de andere Partij dienen te worden overgelegd.
+2. Alle akten of documenten van officiële aard die voor de toepassing van dit Verdrag dienen te worden overgelegd, zijn vrijgesteld van legalisatie door diplomatieke of consulaire autoriteiten en van gelijksoortige formaliteiten.
