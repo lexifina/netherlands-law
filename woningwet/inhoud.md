@@ -12,6 +12,7 @@
 ### Afdeling 1. Bouwvergunning
 ### Afdeling 2. Woonvergunning
 ### Afdeling 3. Vergunning tot hergebruik van een ontruimde onbewoonbaarverklaarde woning of woonwagen
+### Afdeling 4. Vergunning voor toegelaten instellingen tot vervreemden van onroerende zaken en daarop vestigen van zakelijke rechten
 ## Hoofdstuk V. Voorziening in de woningbehoefte
 ### Afdeling 1. Onderzoek naar de volkshuisvesting
 ### Afdeling 2. Planning, programmering en verdeling
