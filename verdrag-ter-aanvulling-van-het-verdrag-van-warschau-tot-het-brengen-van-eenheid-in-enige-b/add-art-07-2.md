@@ -1,0 +1,2 @@
+# Artikel VII
+Iedere rechtsvordering terzake van de aansprakelijkheid die betrekking heeft op het vervoer, bewerkstelligd door de feitelijke vervoerder, moet ter keuze van de eiser worden ingesteld tegen die vervoerder of de contractuele vervoerder of tegen beiden gezamenlijk of afzonderlijk. Indien de rechtsvordering wordt ingesteld tegen slechts één van deze vervoerders, zal deze vervoerder het recht hebben de andere vervoerder mede in rechte te doen verschijnen, waarbij de rechtspleging wordt beheerst door de wet van de rechter voor wie de vordering is aanhangig gemaakt.

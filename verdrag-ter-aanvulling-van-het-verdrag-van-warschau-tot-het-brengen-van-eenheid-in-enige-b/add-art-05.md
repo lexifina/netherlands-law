@@ -1,0 +1,2 @@
+# Article V
+In relation to the carriage performed by the actual carrier, any servant or agent of that carrier or of the contracting carrier shall, if he proves that he acted within the scope of his employment, be entitled to avail himself of the limits of liability which are applicable under this Convention to the carrier whose servant or agent he is unless it is proved that he acted in a manner which, under the Warsaw Convention, prevents the limits of liability from being invoked.

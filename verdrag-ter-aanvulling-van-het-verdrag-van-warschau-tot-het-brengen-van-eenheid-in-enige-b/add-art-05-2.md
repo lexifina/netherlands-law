@@ -1,0 +1,2 @@
+# Artikel V
+Wat het door de feitelijke vervoerder bewerkstelligde vervoer betreft kan iedere ondergeschikte van die vervoerder of van de contractuele vervoerder, indien hij bewijst dat hij gehandeld heeft in de uitoefening van zijn dienstbetrekking, zich beroepen op de aansprakelijkheidsgrenzen die krachtens dit Verdrag van toepassing zijn op de vervoerder waarvan hij de ondergeschikte is, tenzij wordt bewezen, dat hij op zodanige wijze heeft gehandeld dat geen beroep kan worden gedaan op de aansprakelijkheidsgrenzen van het Verdrag van Warschau.

@@ -1,0 +1,4 @@
+# Artikel XVI
+1. Elke Verdragsluitende Staat kan ten tijde van de nederlegging van zijn akte van bekrachtiging van of toetreding tot dit Verdrag, of op enig tijdstip daarna, door een mededeling aan de Regering van de Verenigde Staten van Mexico verklaren dat het Verdrag mede van toepassing is op een of meer van de grondgebieden voor welker buitenlandse betrekkingen deze staat verantwoordelijk is.
+2. Negentig dagen na ontvangst van deze mededeling door de Regering van de Verenigde Staten van Mexico, is dit Verdrag van toepassing op de in de mededeling genoemde grondgebieden.
+3. Elke Verdragsluitende Staat kan dit Verdrag overeenkomstig de bepalingen van artikel XV afzonderlijk opzeggen voor een of meer van de grondgebieden voor welker buitenlandse betrekkingen deze staat verantwoordelijk is.

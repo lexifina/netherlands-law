@@ -1,0 +1,2 @@
+# Artikel II
+Indien een feitelijke vervoerder het geheel of een gedeelte bewerkstelligt van een vervoer dat overeenkomstig de in artikel I, onder b) genoemde overeenkomst onder het Verdrag van Warschau valt, zijn zowel de contractuele als de feitelijke vervoerder, behalve indien in dit Verdrag anders is bepaald, onderworpen aan de bepalingen van het Verdrag van Warschau, de eerste voor het gehele in de overeenkomst voorziene vervoer, de tweede alleen voor het vervoer dat hij bewerkstelligt.

@@ -1,0 +1,2 @@
+# Artikel VIII
+Iedere rechtsvordering terzake van aansprakelijkheid, bedoeld in artikel VII van dit Verdrag, moet ter keuze van de eiser worden ingesteld hetzij voor de rechter waar een rechtsvordering kan worden ingesteld tegen de contractuele vervoerder, op grond van artikel 28 van het Verdrag van Warschau, hetzij voor de rechter van de woonplaats van de feitelijke vervoerder of van de plaats waar de hoofdzetel van diens onderneming is gevestigd.

@@ -1,0 +1,2 @@
+# Article VIII
+Any action for damages contemplated in Article VII of this Convention must be brought, at the option of the plaintiff, either before a court in which an action may be brought against the contracting carrier, as provided in Article 28 of the Warsaw Convention, or before the court having jurisdiction at the place where the actual carrier is ordinarily resident or has his principal place of business.

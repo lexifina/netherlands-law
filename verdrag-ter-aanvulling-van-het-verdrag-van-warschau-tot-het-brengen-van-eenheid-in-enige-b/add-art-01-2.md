@@ -1,0 +1,5 @@
+# Artikel I
+In dit Verdrag wordt verstaan onder:
+a) „Verdrag van Warschau": hetzij het Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer, ondertekend te Warschau op 12 oktober 1929, hetzij het Verdrag van Warschau als gewijzigd te 's-Gravenhage in 1955, al naar gelang het vervoer krachtens de voorwaarden van de onder b) genoemde overeenkomst onder het ene of het andere verdrag valt;
+b) „contractuele vervoerder": een persoon die partij is bij een vervoersovereenkomst die onder het Verdrag van Warschau valt en gesloten is met een passagier of een bevrachter of met een persoon die optreedt namens de passagier of de bevrachter;
+c) „feitelijke vervoerder": een persoon, niet zijnde de contractuele vervoerder, die op grond van een machtiging van de contractuele vervoerder het geheel of een gedeelte van het onder b) genoemde vervoer bewerkstelligt, doch niet een opvolgende vervoerder is in de zin van het Verdrag van Warschau. Zonder bewijs van het tegendeel wordt het bestaan van een dergelijke machtiging aangenomen.
