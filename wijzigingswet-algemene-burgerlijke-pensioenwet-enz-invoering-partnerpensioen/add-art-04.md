@@ -1,0 +1,3 @@
+# Artikel IV
+1. De artikelen H 3b van de Algemene burgerlijke pensioenwet en H 1, twaalfde lid, van de Algemene militaire pensioenwet, zoals deze artikelen luidden op de dag voorafgaande aan de inwerkingtreding van deze wet, blijven van toepassing ten aanzien van nabestaandenpensioenen waarop het recht is ontstaan vóór dat tijdstip.
+2. De artikelen G 5, G 6, G 7 en Q 5 van de Algemene burgerlijke pensioenwet en G 4, G 6 en U 6 van de Algemene militaire pensioenwet, zoals deze artikelen luidden op de dag voorafgaande aan de inwerkingtreding van deze wet, blijven van toepassing ten aanzien van wezenpensioenen waarop het recht is ontstaan vóór dat tijdstip.
