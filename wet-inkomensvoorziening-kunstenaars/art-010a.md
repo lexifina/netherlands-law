@@ -1,0 +1,3 @@
+# Artikel 10a
+1. Bij de toepassing van de artikelen 9 en 10 wordt het inkomen, bedoeld in die artikelen, verminderd met de overeenkomstig het tweede lid in aanmerking te nemen beroepskosten, met dien verstande dat het inkomen niet op minder dan nihil wordt gesteld.
+2. Bij of krachtens algemene maatregel van bestuur worden voor de in aanmerking te nemen beroepskosten normbedragen vastgesteld, die voor de verschillende kunstrichtingen verschillend kunnen zijn. Indien de kunstenaar aantoont dat zijn werkelijke beroepskosten hoger zijn dan het voor hem geldende normbedrag, worden deze werkelijke kosten in aanmerking genomen, voorzover zij niet uit anderen hoofde worden vergoed.

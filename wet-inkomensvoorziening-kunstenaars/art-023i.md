@@ -1,0 +1,2 @@
+# Artikel 23i
+Onder kosten van een uitkering in de zin van dit hoofdstuk wordt verstaan de door de gemeente betaalde uitkering verhoogd met de loonbelasting en de premies volksverzekeringen waarvoor de gemeente die de uitkering verstrekt krachtens de Wet op de loonbelasting 1964 inhoudingsplichtige is, alsmede met de ziekenfondspremie, voor zover deze belasting en premies niet verrekend kunnen worden met de belastingdienst en het Uitvoeringsinstituut werknemersverzekeringen.
