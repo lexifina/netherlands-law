@@ -1,0 +1,3 @@
+# Artikel VI
+1. Deze Overeenkomst heeft een geldigheidsduur van vijf (5) jaren en wordt stilzwijgend verlengd voor tijdvakken van een (1) jaar, tenzij een der Partijen door middel van een Diplomatieke Nota, gericht aan de andere Partij met een opzegtermijn van zes (6) maanden kennis geeft van haar voornemen de Overeenkomst te beëindigen.
+2. Deze Overeenkomst is te harer goedkeuring onderworpen aan de door elk land vastgestelde grondwettelijke procedures en treedt in werking dertig (30) dagen na de datum van de notawisseling waarbij de Partijen elkander in kennis stellen dat zij hebben voldaan aan hun binnenlandse grondwettelijke vereisten.

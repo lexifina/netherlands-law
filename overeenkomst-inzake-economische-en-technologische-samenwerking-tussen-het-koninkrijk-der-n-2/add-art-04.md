@@ -1,0 +1,4 @@
+# Artikel IV
+Een Gemengde Commissie, bestaande uit door de beide Regeringen aangewezen vertegenwoordigers, houdt toezicht op de toepassing van deze Overeenkomst en dient als adviesorgaan van de Regeringen in alle aangelegenheden met betrekking tot de uitvoering van de Overeenkomst. De Commissie kan zich doen adviseren door experts of technici van particuliere ondernemingen.
+De Regering van de Nederlandse Antillen kan aparte voorstellen doen aan de Colombiaanse autoriteiten omtrent aangelegenheden die betrekking hebben op de economische en technologische samenwerking tussen de Nederlandse Antillen en de Republiek Colombia. Hiertoe wordt een bijzondere Gemengde Commissie gevormd.
+Tevens kunnen in bepaalde sectoren van de economie groepen worden gevormd voor onderzoek en overleg inzake de samenwerking waarop deze Overeenkomst betrekking heeft. De conclusies en aanbevelingen van deze bijzondere groepen worden ter beoordeling aan de Gemengde Commissies voorgelegd.
