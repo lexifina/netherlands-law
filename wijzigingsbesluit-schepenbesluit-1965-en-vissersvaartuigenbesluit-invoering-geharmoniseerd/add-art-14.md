@@ -1,0 +1,2 @@
+# ARTIKEL XIV
+Certificaten die zijn verleend krachtens het Schepenbesluit 1965 zoals dat luidde vóór de inwerkingtreding van dit besluit worden, zolang zij hun geldigheid niet hebben verloren, aangemerkt als geldige besluiten in de zin van het Schepenbesluit 1965. Op die certificaten blijven de bepalingen van dat besluit, zoals die luidden voordat het door dit besluit werd gewijzigd, van toepassing.
