@@ -1,0 +1,3 @@
+# Artikel III
+1. Artikel I, onderdeel A, onderdeel B voor zover het artikel 2.1 betreft, en onderdeel D alsmede artikel II van dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
+2. Artikel I, onderdeel B voor zover het artikel 2.2 betreft, en artikel I, onderdeel C van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip. Laatstbedoeld besluit wordt niet genomen voordat vier weken zijn verstreken nadat het onderhavige besluit is voorgelegd aan de Tweede Kamer der Staten-Generaal, en evenmin indien binnen die termijn door of namens die Kamer de wens te kennen wordt gegeven dat het in het onderhavige besluit geregelde onderwerp bij de wet wordt geregeld.
