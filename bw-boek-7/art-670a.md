@@ -1,0 +1,7 @@
+# Artikel 670a
+1. De werkgever kan zonder voorafgaande toestemming van de kantonrechter de arbeidsovereenkomst niet opzeggen met een werknemer die:
+a. geplaatst is op een kandidatenlijst voor een ondernemingsraad dan wel een personeelsvertegenwoordiging of korter dan twee jaar geleden lid is geweest van een ondernemingsraad, van een centrale ondernemingsraad, van een groepsondernemingsraad of van een commissie van die raden, van een personeelsvertegenwoordiging of van een bijzondere onderhandelingsgroep of een Europese ondernemingsraad als bedoeld in de Wet op de Europese ondernemingsradendan wel die korter dan twee jaar geleden krachtens die wet is opgetreden als vertegenwoordiger bij een andere wijze van informatieverstrekking en raadpleging van werknemers;
+b. lid is van een voorbereidingscommissie van een ondernemingsraad, van een centrale ondernemingsraad of van een groepsondernemingsraad;
+c. als deskundige werknemer als bedoeld in artikel 14, eerste lid, van de Arbeidsomstandighedenwet 1998 werkzaam is;
+d. een functionaris voor de gegevensbescherming als bedoeld in artikel 62 van de Wet bescherming persoonsgegevens werkzaam is.
+2. De toestemming van de kantonrechter wordt gevraagd bij verzoekschrift. De kantonrechter verleent de toestemming slechts indien de werkgever aannemelijk heeft gemaakt dat opzegging geen verband houdt met een omstandigheid als bedoeld in lid 1. Van de uitspraak staat geen hoger beroep of beroep in cassatie open.
