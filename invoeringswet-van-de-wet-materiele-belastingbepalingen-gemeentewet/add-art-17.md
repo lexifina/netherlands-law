@@ -1,0 +1,3 @@
+# Artikel XVII
+1. Als besluit inzake de baatbelasting als bedoeld in artikel 222, tweede lid, kan worden aangemerkt een besluit dat in verband met het treffen van dezelfde voorziening is genomen op grond van artikel 273a, vierde lid, en artikel 274, vierde lid, van de gemeentewet, dan wel artikel 221, vierde lid, en artikel 222, vierde lid, van de Gemeentewet.
+2. Besluiten die zijn genomen op grond van artikel 221, vierde lid, en artikel 222, vierde lid, van de Gemeentewet, zoals deze luidden voor inwerkingtreding van deze wet, en die niet overeenkomstig artikel 139 van de Gemeentewet zijn bekendgemaakt, dienen na inwerkingtreding van de onderdelen C en D van artikel III van deze wet alsnog te worden bekendgemaakt overeenkomstig artikel 139 van de Gemeentewet.

@@ -1,0 +1,2 @@
+# Artikel XXI
+Voorafgaand aan de inwerkingtreding van deze wet wordt de tekst van de Gemeentewet in het Staatsblad geplaatst. Voor die plaatsing in het Staatsblad stelt Onze Minister van Binnenlandse Zaken de nummering van de artikelen van de paragrafen 1 tot en met 3 van hoofdstuk XV van de Gemeentewet opnieuw vast en brengt hij de in die wet voorkomende aanhalingen van die artikelen met de nieuwe nummering in overeenstemming.

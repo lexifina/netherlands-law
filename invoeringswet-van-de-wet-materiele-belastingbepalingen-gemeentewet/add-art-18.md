@@ -1,0 +1,3 @@
+# Artikel XVIII
+1. Met betrekking tot de besluiten, bedoeld in artikel XV, eerste, tweede en derde lid, blijft Hoofdstuk XV van de Gemeentewet, zoals dit luidde voor de inwerkingtreding van deze wet, alsmede de op dat hoofdstuk berustende uitvoeringsvoorschriften van kracht gedurende de in die artikelleden bedoelde termijnen.
+2. Met betrekking tot de besluiten, bedoeld in artikel XV, vierde lid, blijven titel VI van de tweede afdeling, eerste en tweede hoofdstuk, van de gemeentewet, alsmede de op die hoofdstukken berustende uitvoeringsvoorschriften van kracht gedurende de in dat artikellid bedoelde termijn.
