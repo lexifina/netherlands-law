@@ -1,0 +1,2 @@
+# Artikel III
+De Overeenkomstsluitende Partijen stellen een gemengde commissie in, die tot taak heeft ter uitvoering van de artikelen I en II aan de beide Regeringen een programma van activiteiten, telkens voor een periode van twee jaar, aan te bevelen, vergezeld van suggesties betreffende de financiering van de verschillende onderdelen daarvan. Elke Overeenkomstsluitende Partij maakt via de normale diplomatieke kanalen haar beslissing ten aanzien van de aanbevelingen en suggesties van de gemengde commissie aan de andere Partij kenbaar.
