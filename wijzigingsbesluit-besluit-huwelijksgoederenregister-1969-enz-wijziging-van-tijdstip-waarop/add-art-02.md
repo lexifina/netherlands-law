@@ -1,0 +1,2 @@
+# Artikel II
+Van een verklaring van de echtgenoten dat de scheiding van tafel en bed door verzoening heeft opgehouden te bestaan, als bedoeld in artikel 177 van Boek 1 van het Burgerlijk Wetboek, zoals dit tot de inwerkingtreding van dit besluit gold, die tot dat tijdstip in het huwelijksgoederenregister kon worden ingeschreven, maar daarin niet ingeschreven is, maakt de griffier een akte op, die de echtgenoten in persoon of bij gevolmachtigde ondertekenen.
