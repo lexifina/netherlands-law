@@ -1,5 +1,16 @@
 # Artikel 37h
-1. Passagiers die weigeren zichzelf of hun bagage aan controle te onderwerpen, wordt verhinderd enig luchtvaartuig te betreden, hun wordt de verdere toegang tot de in artikel 37b, eerste lid, bedoelde delen van het luchtvaartterrein ontzegd en zij worden daaruit zo nodig verwijderd.
-2. Bagage waarvan de herkomst of de eigendom van een van de inzittenden in het betrokken luchtvaartuig niet is vastgesteld, wordt niet aan boord van het luchtvaartuig gebracht dan na onderzoek op de aanwezigheid van wapens, explosieven of andere voorwerpen en stoffen, die de veiligheid en gezondheid van personen kunnen bedreigen, voor de bedreiging van personen geschikt zijn dan wel de veiligheid van het luchtvaartuig in gevaar kunnen brengen.
-3. Bij de controle aangetroffen wapens, explosieven of andere voorwerpen en stoffen, die de veiligheid en gezondheid van personen kunnen bedreigen, voor de bedreiging van personen geschikt zijn dan wel de veiligheid van het luchtvaartuig in gevaar kunnen brengen, worden niet dan in overeenstemming met door Onze Minister van Justitie te stellen regels en door of vanwege hem te geven aanwijzingen aan boord van een luchtvaartuig gebracht.
-4. Het eerste lid is van overeenkomstige toepassing op de persoon bij wie of in wiens bagage voorwerpen als bedoeld in het derde lid, worden aangetroffen en die deze niet op een overeenkomstig de ingevolge het derde lid gestelde regels of gegeven aanwijzingen, gedaan verzoek van het bewakingspersoneel afgeeft.
+1. De controle, bedoeld in artikel 37f, eerste lid, omvat:
+a. een onderzoek met behulp van daartoe bestemde detectieapparatuur van passagiers en handbagage;
+b. steekproefsgewijs, of indien de detectieapparatuur daartoe aanleiding geeft, een onderzoek van passagiers aan hun kleding en een nader onderzoek van hun handbagage;
+c. de stelselmatige uitvoering van het onderzoek aan kleding van passagiers en van handbagage in door Onze Minister van Justitie bij ministeriële regeling te bepalen gevallen;
+d. een bevraging van de passagiers met het oog op hun betrouwbaarheid in door Onze Minister van Justitie bij ministeriële regeling te bepalen gevallen.
+2. De controle, bedoeld in artikel 37f, tweede lid, onderdeel a, omvat in ieder geval:
+a. een onderzoek met behulp van daartoe bestemde detectieapparatuur of andere technische hulpmiddelen;
+b. een nader onderzoek naar de inhoud van de bagage wanneer daartoe aanleiding is.
+3. De controle, bedoeld in artikel 37f, tweede lid, onderdeel b, kan omvatten:
+a. een nader onderzoek van het toegangsbewijs waarover de betrokkene beschikt;
+b. een onderzoek met behulp van daartoe bestemde detectieapparatuur;
+c. een onderzoek, indien daartoe aanleiding is, van meegevoerde goederen en aan de kleding.
+4. De controle, bedoeld in artikel 37g, tweede lid, omvat in ieder geval een visuele uitwendige controle van de goederen of hun verpakking.
+5. Onze Minister van Justitie kan, in overeenstemming met Onze Minister, bij of krachtens ministeriële regeling ten aanzien van bepaalde soorten vluchten of luchtvaartuigen vrijstelling verlenen van een controle als bedoeld in het eerste en tweede lid, wanneer de dreiging voor deze soorten als gevolg van voor bedreiging geschikte voorwerpen verwaarloosbaar is. Daarbij kunnen nadere voorschriften worden gegeven.
+6. Onze Minister van Justitie kan in bijzondere gevallen op de grond als bedoeld in het vijfde lid, ontheffing verlenen van de controle.

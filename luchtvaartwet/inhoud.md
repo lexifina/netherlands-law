@@ -12,7 +12,7 @@
 ### Afdeling 3A. Beveiliging op luchtvaartterreinen
 #### § 1. Algemeen
 #### § 2. De verplichtingen van een exploitant van een luchtvaartterrein
-#### § 3. De uitoefening van controle door bewakingspersoneel
+#### § 3. Controle van personen en bagage
 #### § 4. Controle van vracht
 #### § 5. Handhaving
 ### Afdeling 4. Verbod van belemmeringen op terreinen rondom luchtvaartterreinen
