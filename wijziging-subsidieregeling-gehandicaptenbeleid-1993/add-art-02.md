@@ -1,0 +1,4 @@
+# Artikel II
+1. Voor de verantwoording, bedoeld in artikel 19 van de Subsidieregeling gehandicaptenbeleid 1993, voor op grond van de artikelen 6 en 7 van die regeling voor het jaar 1993 verstrekte subsidies, zijn de artikelen 1, eerste lid, onder k, 6, 7, 21, achtste lid, en 26, zevende lid, zoals deze luidden voor de inwerkingtreding van deze regeling, van toepassing en is artikel 8 van die regeling niet van toepassing.
+2. In afwijking van artikel 8 van de Subsidieregeling gehandicaptenbeleid 1993 bestaat voor het jaar 1994 het subsidie aan een landelijke oudervereniging die op grond van die regeling in 1993 subsidie ontving, uit een bedrag dat gelijk is aan het subsidie, dat op grond van die regeling aan die landelijke oudervereniging is vastgesteld voor het jaar 1993.
+3. Artikel 26, eerste tot en met zesde lid, van de Subsidieregeling gehandicaptenbeleid 1993 is niet van toepassing op subsidies als bedoeld in het tweede lid.
