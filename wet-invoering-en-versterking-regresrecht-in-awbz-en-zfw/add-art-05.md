@@ -1,0 +1,2 @@
+# ARTIKEL V
+Degenen die naar de omstandigheden beoordeeld hier te lande woonachtig zijn en die bij de inwerkingtreding van de Wet van 24 december 1997, houdende wijziging van de Ziekenfondswet in verband met aanpassing van de gronden voor de ziekenfondsverzekering (herstructurering Ziekenfondswet), de leeftijd van 65 jaar hadden bereikt en medeverzekerd waren ingevolge de Ziekenfondswet, worden geacht te hebben voldaan aan de in artikel 3, eerste lid, onder c, en zevende lid, van de Ziekenfondswet genoemde voorwaarden.
