@@ -1,0 +1,4 @@
+# Tekst
+De Staatssecretaris van Financiën heeft het volgende besloten
+Erflater had als zijn wil aan de notaris te kennen gegeven dat in zijn testament opgenomen zouden worden legaten aan zijn kinderen onder de voorwaarde dat hij zou komen te overlijden na zijn echtgenote of gelijktijdig met haar. In het testament zijn de legaten echter zonder voornoemde voorwaarde opgenomen.
+De Staatssecretaris achtte aannemelijk gemaakt dat de wil van erflater door een fout van de notaris c.q. een misverstand tussen erflater en notaris onjuist was weergegeven in het testament. Hij verleende met toepassing van art. 63 A.W.R. een tegemoetkoming in het i.z. erflaters nalatenschap verschuldigde successierecht, v.z.v. dit meer bedroeg dan het successierecht dat verschuldigd was geweest indien bovenbedoelde legaten overeenkomstig de bedoeling van de erflater in diens testament waren opgenomen, mits de erfgenamen ook voor hun onderlinge verhouding dienovereenkomstig zouden handelen.
