@@ -1,0 +1,2 @@
+# Article VII
+Le présent accord restera en vigueur pour une période de cinq ans. S'il n'a pas été dénoncé six mois avant la date de son expiration, il sera prorogé par voie de tacite reconduction, chacune des Parties contractantes se réservant, en ce cas, le droit de le dénoncer à tout moment moyennant un préavis de six mois.

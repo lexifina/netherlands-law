@@ -1,0 +1,3 @@
+# Artikel IV
+De bevoegde Autoriteiten van de Overeenkomstsluitende Partijen treffen in onderling overleg de nadere maatregelen die nodig zijn ter uitvoering van het bepaalde in de bovenstaande artikelen. Te dien einde wordt in elk van beide landen een commissie ingesteld die tot taak heeft aan de Regering voorstellen te doen ter uitvoering van de onderhavige Overeenkomst.
+In elk van beide landen worden de leden van deze commissie benoemd door de Minister die voor de uitvoering van de onderhavige Overeenkomst verantwoordelijk is. De diplomatieke vertegenwoordiger van de andere Overeenkomstsluitende Partij kan worden uitgenodigd aan de beraadslagingen van die commissie deel te nemen.

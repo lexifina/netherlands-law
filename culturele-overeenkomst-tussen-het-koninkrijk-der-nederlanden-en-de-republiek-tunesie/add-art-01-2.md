@@ -1,0 +1,8 @@
+# Artikel I
+De Overeenkomstsluitende Partijen verbinden zich de samenwerking tussen de beide landen op het gebied van cultuur, kunst en wetenschappen aan te moedigen en wel door het nemen van alle daartoe noodzakelijke maatregelen. Zij verbinden zich met name ertoe:
+a) de uitwisseling te bevorderen van leden van de wetenschappelijke staf van instellingen van hoger onderwijs, van hoogleraren, geleerden, wetenschappelijke onderzoekers en studenten tussen de wetenschappelijke instellingen en de universiteiten van beide landen, en hun alle faciliteiten te verlenen met betrekking tot de binnenkomst en het verblijf, zulks overeenkomstig de in elk der beide landen van kracht zijnde wetten;
+b) elk in haar eigen land studiebeurzen in te stellen teneinde studenten en jonge afgestudeerden van het andere land de gelegenheid te bieden hun studie voort te zetten aan wetenschappelijke instellingen en universiteiten, dan wel hun wetenschappelijke opleiding te voltooien;
+c) aan bursalen, studenten, stagiaires en wetenschappelijke onderzoekers de toegang tot monumenten, bibliotheken, archiefcollecties, musea en andere culturele en wetenschappelijke instellingen te vergemakkelijken;
+d) de organisatie van tentoonstellingen, concerten en lezingen aan te moedigen die tot een betere kennis van de cultuur van het andere land bijdragen;
+e) de samenwerking op het gebied van cultuur, wetenschap, sport en maatschappelijk leven te bevorderen tussen de in beide landen erkende onderwijsinstellingen;
+f) elk op haar eigen grondgebied, en overeenkomstig de in elk der beide landen van kracht zijnde wetten, werkzaamheden op het gebied der oudheidkunde door het andere land ondernomen te vergemakkelijken.

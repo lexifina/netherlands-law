@@ -1,0 +1,3 @@
+# Article IV
+Les Autorités compétentes des Parties contractantes établiront de commun accord les mesures de détail nécessaires à l'exécution des dispositions des articles ci-dessus. A cet effet, il sera constitué dans chacun des deux Pays une commission appelée à soumettre au Gouvernement des suggestions quant à l'exécution du présent accord.
+Dans chacun des deux Pays, les membres de cette commission seront désignés par le Ministre responsable de l'exécution du présent accord. Le représentant diplomatique de l'autre Pays contractant pourra être invité à prendre part aux délibérations de cette commission.
