@@ -1,0 +1,3 @@
+# Artikel 11a. Culturele en kunstzinnige vorming 1
+1. Zonder daardoor afbreuk te doen aan het bepaalde onder nummer 16.16 in bijlage I van deze regeling is bovendien bevoegd voor het vak culturele en kunstzinnige vorming 1 hij die bevoegd is voor één van de vakken tekenen, handvaardigheid (handenarbeid) of handvaardigheid (textiele werkvormen), muziek, dans, drama, Nederlands, kunstgeschiedenis, Latijn en Grieks, moderne vreemde talen en Fries, voor de soorten van onderwijs vallend onder de codering 1.
+2. De in het eerste lid bedoelde bevoegdheid is beperkt tot onderdelen van het vak culturele en kunstzinnige vorming 1 die aansluiten bij het desbetreffende bewijs van bekwaamheid.
