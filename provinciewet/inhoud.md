@@ -1,10 +1,11 @@
 # Inhoud
 ## Titel I. Begripsbepalingen
-## Titel II. De inrichting en samenstelling van het provinciaal bestuur
+## Titel II. De inrichting en samenstelling van het provinciebestuur
 ### Hoofdstuk I. Algemene bepaling
 ### Hoofdstuk II. Provinciale staten
 ### Hoofdstuk III. Gedeputeerde staten
 ### Hoofdstuk IV. De commissaris van de Koning
+### Hoofdstuk IVA. De rekenkamer
 ### Hoofdstuk V. De commissies
 ### Hoofdstuk VI. Geldelijke voorzieningen ten behoeve van de leden van provinciale staten en de commissies
 ### Hoofdstuk VII. De griffier
