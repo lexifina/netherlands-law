@@ -1,0 +1,5 @@
+# Article II
+Section 1.
+The contracting States accept this Agreement as abrogating all obligations and understandings between them which are inconsistent with its terms, and undertake not to enter into any such obligations and understandings. A contracting State which has undertaken any other obligations inconsistent with this Agreement shall take immediate steps to procure its release from the obligations. If an airline of any contracting State has entered into any such inconsistent obligations, the State of which it is a national shall use its best efforts to secure their termination forthwith and shall in any event cause them to be terminated as soon as such action can lawfully be taken after the coming into force of this Agreement.
+Section 2.
+Subject to the provisions of the preceding section, any contracting State may make arrangements concerning international air services not inconsistent with this Agreement. Any such arrangement shall be forthwith registered with the Council, which shall make it public as soon as possible.
