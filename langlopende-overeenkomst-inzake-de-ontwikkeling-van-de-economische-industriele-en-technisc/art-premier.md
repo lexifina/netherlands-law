@@ -1,0 +1,2 @@
+# Article premier
+Les Parties Contractantes poursuivront leurs efforts visant à créer des conditions favorables pour le développement dynamique et harmonieux de la coopération économique, industrielle et technique et prendront à cet égard toutes dispositions utiles dans l'esprit le plus libéral conformément à leurs engagements internationaux et notamment ceux mentionnés dans le preambule du présent Accord,
