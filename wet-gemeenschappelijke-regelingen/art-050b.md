@@ -1,0 +1,6 @@
+# Artikel 50b
+1. Aan het bestuur van het openbaar lichaam of aan het gemeenschappelijk orgaan kunnen bij de regeling ten aanzien van de belangen ter behartiging waarvan zij wordt getroffen en voor het gebied waarvoor zij geldt, zodanige bevoegdheden van regeling en bestuur worden overgedragen als aan de besturen van de deelnemende waterschappen toekomen, met dien verstande dat:
+a. aan het bestuur van een openbaar lichaam niet de bevoegdheid kan worden overgedragen andere belastingen te heffen dan de rechten bedoeld in artikel 115 van de Waterschapswet (Stb. 1991, 444) alsmede de bijdragen bedoeld in artikel 113, tweede lid, van de Waterschapswet,
+b. aan het gemeenschappelijk orgaan niet de bevoegdheid kan worden overgedragen belastingen te heffen of anderszins algemeen verbindende voorschriften te geven.
+2. Indien toepassing wordt gegeven aan het eerste lid, wordt daarbij tevens de verhouding van de overgedragen bevoegdheden tot die van de besturen van de deelnemende waterschappen geregeld.
+3. Voor zover een verordening van het openbaar lichaam voorziet in hetzelfde onderwerp als een verordening van een deelnemend waterschap, regelt eerstbedoelde verordening de onderlinge verhouding. Zij kan bepalen, dat de verordening van het waterschap voor het gehele gebied, dan wel een gedeelte daarvan geheel of gedeeltelijk ophoudt te gelden.

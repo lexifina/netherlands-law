@@ -1,0 +1,4 @@
+# Artikel 73a
+1. Ten aanzien van een regeling waarbij gebruik is gemaakt van een bevoegdheid als bedoeld in de artikelen 74 juncto 8, wordt gemotiveerd waarom de behartiging van het desbetreffende belang of de desbetreffende belangen in het kader van een afzonderlijke regeling de voorkeur verdient boven behartiging daarvan in het kader van een regeling die zou ontstaan door integratie met een reeds bestaande regeling.
+2. Een regeling die wat het gebied waarvoor de regeling geldt betreft niet in overeenstemming is met een indeling als bedoeld in artikel 2, kan slechts worden getroffen, indien in verband met de aard van het te behartigen belang of de te behartigen belangen of in verband met de schaal waarop deze belangen behartigd moeten worden afwijking van de indeling bijzonder aangewezen is.
+3. Het eerste en het tweede lid zijn mede van toepassing op wijziging, alsmede op toetreding en uittreding.
