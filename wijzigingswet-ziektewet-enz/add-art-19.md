@@ -1,0 +1,2 @@
+# Artikel XIX
+De werkgever van de in artikel 8, eerste lid, van de Algemene Arbeidsongeschiktheidswet bedoelde verzekerde is verplicht gevallen, waarin de arbeidsongeschiktheid op de dag, waarop het ingevolge artikel III, onderdeel C, van deze wet aan artikel 8 van de Algemene Arbeidsongeschiktheidswet toegevoegde vijfde lid in werking treedt, reeds langer dan zes maanden voortduurt, binnen twee maanden na die dag te melden bij de op grond van het derde lid van laatstgenoemd artikel aangewezen lichamen.
