@@ -1,0 +1,3 @@
+# Artikel VI
+De vraag in welke van de beide verdragsluitende Staten de belastingplichtige zijn woonplaats heeft in de zin van dit Verdrag zal worden beantwoord volgens de wetgeving betreffende de buitengewone belastingen op het vermogen of op de vermogensaanwas in ieder van de beide Staten.
+De bepalingen van artikel 3, alinea's c, d en e, van de Nederlandse wet van 19 September 1946 (Staatsblad No. G 264) en van artikel 4, alinea's b en c, van de Nederlandse wet van 11 Juli 1947 (Staatsblad No. H 238), vinden geen toepassing ten aanzien van personen, die ingevolge de Franse wet geacht worden op de 4de Juni 1945 in Frankrijk woonachtig te zijn.

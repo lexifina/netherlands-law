@@ -1,0 +1,3 @@
+# Article VI
+La question de savoir dans lequel des deux Etats contractants le contribuable a son domicile au sens de la présente convention sera résolue d'après la législation concernant, dans chacun des deux Etats, les impôts extraordinaires sur le patrimoine ou l'accroissement de fortune.
+Les dispositions de l'article 3, alinéas c, d et e de la loi néerlandaise du 19 septembre 1946 (Bulletin des lois no. G 264) et de l'article 4, alinéas b et c de la loi néerlandaise du 11 juillet 1947 (Bulletin des lois no. H 238), ne trouvent pas à s'appliquer en ce qui concerne les personnes réputées domiciliées en France, au 4 juin 1945, au regard de la loi française.
