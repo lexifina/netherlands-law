@@ -1,0 +1,2 @@
+# Artikel II
+Indien in de periode gelegen tussen 1 januari 1999 en de datum van inwerkingtreding van dit besluit, aan de persoon die op grond van artikel 21, tweede, derde en vierde lid, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999 niet verzekerd is op grond van de Algemene Wet Bijzondere Ziektekosten, verstrekkingen zijn verleend die ten laste zijn gebracht van het Algemeen Fonds Bijzondere Ziektekosten, worden de kosten daarvan niet teruggevorderd.
