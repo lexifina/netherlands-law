@@ -1,0 +1,2 @@
+# Artikel 71a
+Het persoonsregister en het archiefregister, waarvoor het bestuur van een gemeente die wordt opgeheven zorg draagt ter uitvoering van de Wet gemeentelijke basisadministratie persoonsgegevens, worden door het bestuur van deze gemeente overgedragen aan de gemeente waaraan het gebied van de op te heffen gemeente wordt toegevoegd, dan wel, indien dat gebied aan meer dan één gemeente wordt toegevoegd, naar de op grond van artikel 71, derde lid, aan te wijzen gemeente.
