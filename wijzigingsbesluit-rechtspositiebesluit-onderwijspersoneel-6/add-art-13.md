@@ -1,0 +1,2 @@
+# Artikel XIII
+Voor de gewezen betrokkene, bedoeld in artikel I-E19 van het Rechtspositiebesluit onderwijspersoneelen artikel 39 van het Besluit Werkloosheid onderwijs- en onderzoekpersoneel van wie het invaliditeitspensioen wordt berekend met inachtneming van een middelsom van berekeningsgrondslagen die geldt voor een diensttijd die eindigt voor 1 januari 1986, wordt de middelsom vermeld in genoemde artikelen, verhoogd met 10%.
