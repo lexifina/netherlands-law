@@ -1,0 +1,2 @@
+# Artikel 12f
+Een gewezen militair ambtenaar, die op het tijdstip van ingang van zijn eervol ontslag tenminste vijftien jaar tot het beroeps- of reserve-personeel heeft behoord, behoudt de status van militair ten aanzien van door Onze Minister te bepalen voorrechten, zulks tenzij hij van rechtswege is ontslagen of zich uit Nederlands nationaal oogpunt beschouwd onwaardig heeft gedragen. Bij de bepaling van de termijn van vijftien jaar telt mee de tijd, die betrokkene als dienstplichtige in werkelijke dienst heeft doorgebracht.

@@ -1,0 +1,3 @@
+# Artikel 12d
+1. De militaire ambtenaar is verplicht zich tijdens het verblijf in een gebouw, luchtvaartuig of voertuig alsmede op een vaartuig of een terrein, dat in gebruik is bij of ten behoeve van de krijgsmacht of dat de militaire ambtenaar tot verblijf of gebruik dient bij de vervulling van zijn taak in internationaal verband, te onderwerpen aan een in het belang van de dienst door het bevoegd gezag gelast onderzoek aan zijn lichaam of zijn kleding of van zijn daar aanwezige goederen.
+2. Het bevoegd gezag, op wiens last het in het vorige lid bedoelde onderzoek plaats heeft, neemt de nodige maatregelen ten einde daarbij een onredelijke of onbehoorlijke bejegening te voorkomen.
