@@ -43,7 +43,6 @@
 ### Titel 2. Het beroepsonderwijs, verzorgd door niet uit 's Rijks kas bekostigde instellingen
 ### Titel 3. De exameninstellingen
 ### Titel 4. Het Centraal register beroepsopleidingen
-### Titel 5. De registratie van externe legitimering
 ## Hoofdstuk 6a. Het onderwijsaanbod educatie
 ### Titel 1. De educatie, verzorgd door instellingen als bedoeld in artikel 1.4a.1
 ## Hoofdstuk 7. Het onderwijs
@@ -54,10 +53,11 @@
 ### Titel 3. De educatie
 ### Titel 4. EXAMENS EN TOETSEN.
 #### § 1. Examens beroepsopleidingen en opleidingen educatie, met uitzondering van opleidingen voortgezet algemeen volwassenenonderwijs en opleidingen Nederlands als tweede taal
+#### Paragraaf 1a. Kwaliteitscentrum examinering beroepsopleidingen
+#### Paragraaf 1b. De uitvoering van de externe kwaliteitsbewaking
 #### § 2. Examens opleidingen voortgezet algemeen volwassenenonderwijs en Nederlands als tweede taal I en II
 #### Paragraaf 3. Toetsen educatieve programma's
 ### Titel 5. Commissie van beroep voor de examens
-### Titel 6. Commissie van beroep voor de extern gelegitimeerde examens
 ### Titel 7. Practicumplaatsen voor studenten in opleiding
 ## Hoofdstuk 8. Inschrijving, vooropleidingseisen, voortijdig schoolverlaten
 ### Titel 1. Inschrijving
