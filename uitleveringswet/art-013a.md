@@ -1,0 +1,2 @@
+# Artikel 13a
+Een vreemdeling die op grond van het vierde lid van artikel 54 van het Wetboek van Strafvordering is aangehouden, kan op bevel van een officier of hulpofficier van justitie worden opgehouden, indien gegronde redenen bestaan voor de verwachting dat te zijnen aanzien onverwijld een verzoek om voorlopige aanhouding als bedoeld in artikel 13 zal worden gedaan. Artikel 61, tweede lid, van het Wetboek is van overeenkomstige toepassing.
