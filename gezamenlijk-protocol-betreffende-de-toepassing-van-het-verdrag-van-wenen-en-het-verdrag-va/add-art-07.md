@@ -1,0 +1,3 @@
+# Article VII
+1. This Protocol shall come into force three months after the date of deposit of instruments of ratification, acceptance, approval or accession by at least five States Party to the Vienna Convention and five States Party to the Paris Convention. For each State ratifying, accepting, approving or acceding to this Protocol after the deposit of the above-mentioned instruments this Protocol shall enter into force three months after the date of deposit of the instrument of ratification, acceptance, approval or accession.
+2. This Protocol shall remain in force as long as both the Vienna Convention and the Paris Convention are in force.

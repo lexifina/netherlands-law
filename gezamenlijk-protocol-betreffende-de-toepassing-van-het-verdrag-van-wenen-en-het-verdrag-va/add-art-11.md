@@ -1,0 +1,2 @@
+# Article XI
+The original of this Protocol, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the depositary, who shall send certified copies to Contracting Parties and States invited to the Conference on the relationship between the Paris Convention and the Vienna Convention as well as the Secretary General of the Organisation for Economic Co-operation and Development.
