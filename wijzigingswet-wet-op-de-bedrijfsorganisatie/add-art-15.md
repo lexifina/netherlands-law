@@ -1,0 +1,3 @@
+# Artikel XV
+1. Alle ten tijde van de inwerkingtreding van deze wet bestaande wetten en algemene maatregelen van bestuur, waarbij een hoofdproduktschap, een produktschap, een hoofdbedrijfschap of een bedrijfschap is ingesteld, alsmede alle koninklijke besluiten, houdende een voorziening met betrekking tot de bestuurssamenstelling van deze lichamen, blijven van kracht tot het tijdstip waarop in hetgeen waarin zij voorzien, wordt voorzien door een verordening als bedoeld in artikel 67, eerste lid, respectievelijk een besluit als bedoeld in artikel 74, eerste lid, van de Sociaal-Economische Raad.
+2. Zij worden geacht te zijn ingetrokken met ingang van de dag, waarop een verordening respectievelijk een besluit als bedoeld in het eerste lid, in werking treedt.
