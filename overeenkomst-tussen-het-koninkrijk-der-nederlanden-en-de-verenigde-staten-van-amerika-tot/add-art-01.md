@@ -1,0 +1,3 @@
+# I. Met betrekking tot het eerste lid van artikel 4 (Inwoner)
+a. Het is wel te verstaan dat voor de toepassing van de Overeenkomst de Regering van een van de Staten, de staatkundige onderdelen of de plaatselijke publiekrechtelijke lichamen daarvan, dienen te worden beschouwd als inwoners van die Staat.
+b. Het is wel te verstaan dat een lichaam dat ingevolge het nationale recht van een Staat inwoner is of zou zijn van die Staat voor de uitvoering van de Overeenkomst niet wordt behandeld als inwoner van die Staat indien het ingevolge een verdrag inzake belastingen naar het inkomen tussen die Staat en een derde staat wordt behandeld als inwoner van de derde staat.

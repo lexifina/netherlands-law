@@ -1,0 +1,2 @@
+# XXI. Met betrekking tot het achtste lid van artikel 12 (Interest) en het vierde lid, onderdeel a, van artikel 26 (Beperkingen van voordelen)
+Het is voor de toepassing van het vierde lid, onderdeel a, van artikel 26 (Beperkingen van voordelen) en het achtste lid van artikel 12 (Interest) wel te verstaan dat interest afkomstig uit concernfinancieringen of portfolio-beleggingen wordt aangemerkt als onderdeel van het beleggen of beheer van beleggingen.

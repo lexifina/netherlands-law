@@ -1,0 +1,2 @@
+# XXVII. Met betrekking tot het achtste lid, onderdeel h, van artikel 26 (Beperkingen van voordelen)
+Het is wel te verstaan dat indien een soort aandelen tijdens de twaalf maanden bedoeld in onderdeel h, niet genoteerd was aan een erkende effectenbeurs, deze soort aandelen uitsluitend zal worden behandeld als zijnde regelmatig verhandeld indien in het belastingjaar waarin het inkomen ontstaat die soort voldoet aan het vereiste van dat onderdeel inzake het totale aantal aandelen van die soort dat verhandeld wordt.

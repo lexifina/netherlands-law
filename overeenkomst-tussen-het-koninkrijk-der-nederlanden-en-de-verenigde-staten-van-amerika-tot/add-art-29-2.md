@@ -1,0 +1,2 @@
+# XXIX. In reference to paragraph 8 h) of Article 26 (Limitation on Benefits)
+In order to meet the "regularly traded" test under subparagraph 8 h) of Article 26 (Limitation on Benefits), a person claiming benefits under the Convention need not prove that it has not engaged in, but may need to rebut evidence that it has engaged in, a pattern of trades on a recognized stock exchange in order to meet these tests.

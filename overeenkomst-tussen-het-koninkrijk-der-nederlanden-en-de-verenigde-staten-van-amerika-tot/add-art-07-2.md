@@ -1,0 +1,2 @@
+# VII. In reference to Article 10 (Dividends) and subparagraph 8 b) ii) of Article 26 (Limitation on Benefits)
+For the purpose of Article 10 and subparagraph 8 b) ii) of Article 26 (Limitation on Benefits), it is understood that depository receipts or trust certificates of shares will be considered to possess the rights attached to the shares which they replace, including the voting rights thereof.

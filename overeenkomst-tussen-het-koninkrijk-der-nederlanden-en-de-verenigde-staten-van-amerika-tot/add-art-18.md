@@ -1,0 +1,10 @@
+# XVIII. Met betrekking tot het derde lid van artikel 26 (Beperkingen van voordelen)
+Het volgende voorbeeld illustreert de toepassing van het derde lid van artikel 26. Een in Nederland gevestigd lichaam Y bezit alle aandelen van Z, een in de Verenigde Staten gevestigd lichaam.
+Y is 100% eigendom van X, een lichaam gevestigd in het Verenigd Koninkrijk, dat niet in aanmerking komt voor alle voordelen van het Brits-Amerikaanse verdrag inzake inkomstenbelasting, maar mogelijk wel voor de voordelen met betrekking tot bepaalde inkomensbestanddelen op grond van het „active trade or business"-criterium uit het Brits-Amerikaanse belastingverdrag.
+X op zijn beurt behoort volledig toe aan W, in een Frankrijk gevestigd lichaam, waarvan de aandelen in wezenlijke mate en regelmatig worden verhandeld op de Parijse effectenbeurs.
+Z keert een dividend uit aan Y.
+Ten behoeve van dit voorbeeld wordt aangenomen dat Y niet in aanmerking komt voor de voordelen van het tweede lid van artikel 26 (Beperkingen van voordelen).
+Aangenomen dat voldaan wordt aan de vereisten van het derde lid, onderdeel b, van artikel 26, komt Y echter wel in aanmerking voor de voordelen uit het derde lid van artikel 26.
+Y behoort rechtstreeks toe aan X, die geen gelijkwaardig gerechtigde is in de zin van het achtste lid, onderdeel f, van artikel 26 (X komt niet in aanmerking voor alle voordelen uit het Brits-Amerikaanse belastingverdrag).
+Y behoort echter ook indirect toe aan W, die een gelijkwaardig gerechtigde is wat betreft de voordelen uit het tweede lid, onderdeel a, van artikel 10, in de zin van het achtste lid, onderdeel f, van artikel 26 (omdat W een in Frankrijk gevestigd lichaam is waarvan de aandelen in wezenlijke mate en regelmatig verhandeld worden op een erkende effectenbeurs in de zin van het artikel inzake de beperking van voordelen uit het Frans-Amerikaanse verdrag inzake inkomstenbelasting).
+Dienovereenkomstig wordt in overeenstemming met het tweede lid, onderdeel a, van artikel 10 op het dividend van Z aan Y bronbelasting ingehouden tegen een percentage van 5 percent.

@@ -1,0 +1,2 @@
+# II. In reference to paragraph 4 of Article 4 (Resident)
+It is understood that, if a company is a resident of the Netherlands under paragraph 1 of Article 4 (Resident) and, because of the application of Section 269B of the Internal Revenue Code, such company is also a resident of the United States under paragraph 1 of Article 4, the question of its residency for the purposes of the application of this Convention shall be subject to a mutual agreement procedure as laid down in paragraph 4 of Article 4.
