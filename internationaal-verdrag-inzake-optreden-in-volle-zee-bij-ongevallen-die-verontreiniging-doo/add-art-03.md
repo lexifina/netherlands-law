@@ -1,0 +1,8 @@
+# Article III
+When a coastal State is exercising the right to take measures in accordance with Article I, the following provisions shall apply:
+(a) before taking any measures, a coastal State shall proceed to consultations with other States affected by the maritime casualty, particularly with the flag State or States;
+(b) the coastal State shall notify without delay the proposed measures to any persons physical or corporate known to the coastal State, or made known to it during the consultations, to have interests which can reasonably be expected to be affected by those measures. The coastal State shall take into account any views they may submit;
+(c) before any measure is taken, the coastal State may proceed to a consultation with independent experts, whose names shall be chosen from a list maintained by the Organization;
+(d) in cases of extreme urgency requiring measures to be taken immediately, the coastal State may take measures rendered necessary by the urgency of the situation, without prior notification or consultation or without continuing consultations already begun;
+(e) a coastal State shall, before taking such measures and during their course, use its best endeavours to avoid any risk to human life, and to afford persons in distress any assistance of which they may stand in need, and in appropriate cases to facilitate the repatriation of ships' crews, and to raise no obstacle thereto;
+(f) measures which have been taken in application of Article I shall be notified without delay to the States and to the known physical or corporate persons concerned, as well as to the Secretary-General of the Organization.

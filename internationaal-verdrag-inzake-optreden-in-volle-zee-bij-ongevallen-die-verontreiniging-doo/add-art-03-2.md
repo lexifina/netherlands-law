@@ -1,0 +1,8 @@
+# Artikel III
+Wanneer een kuststaat het recht tot het nemen van maatregelen overeenkomstig artikel I uitoefent, zijn de volgende bepalingen van toepassing:
+(a) alvorens maatregelen te nemen pleegt de kuststaat overleg met de andere door het ongeval op zee getroffen Staten, in het bijzonder met de vlaggestaat of -staten;
+(b) geeft de kuststaat onverwijld kennis van de maatregelen die hij zich voorstelt te nemen aan alle natuurlijke personen of rechtspersonen waarvan het de kuststaat bekend is, of met betrekking waartoe de kuststaat tijdens het overleg is medegedeeld dat zij belangen hebben waarvan redelijkerwijs kan worden verwacht dat zij door deze maatregelen worden getroffen. De kuststaat houdt rekening met de door hen naar voren gebrachte zienswijze;
+(c) alvorens maatregelen te nemen kan de kuststaat overleg plegen met onafhankelijke deskundigen die worden gekozen uit een door de Organisatie bijgehouden lijst;
+(d) in uiterst dringende gevallen die onmiddellijk ingrijpen noodzakelijk maken kan de kuststaat de maatregelen nemen die door de urgentie van de situatie zijn geboden, zonder voorafgaande kennisgeving of overleg of zonder een reeds aangevangen overleg voort te zetten;
+(e) alvorens zodanige maatregelen te nemen en bij hun uitvoering zal een kuststaat naar beste vermogen alle gevaar voor mensenlevens vermijden en personen in nood alle hulp bieden die zij mochten behoeven en in daarvoor in aanmerking komende gevallen de repatriëring van de bemanning van schepen vergemakkelijken en deze niet belemmeren;
+(f) maatregelen, genomen ingevolge artikel I, worden onverwijld ter kennis gebracht van de Staten en van de betrokken natuurlijke personen of rechtspersonen welke bekend zijn, alsmede van de Secretaris-Generaal van de Organisatie.

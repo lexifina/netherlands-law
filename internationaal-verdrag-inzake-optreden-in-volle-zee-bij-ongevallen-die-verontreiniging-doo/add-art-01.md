@@ -1,0 +1,3 @@
+# Article I
+1. Parties to the present Convention may take such measures on the high seas as may be necessary to prevent, mitigate or eliminate grave and imminent danger to their coastline or related interests from pollution or threat of pollution of the sea by oil, following upon a maritime casualty or acts related to such a casualty, which may reasonably be expected to result in major harmful consequences.
+2. However, no measures shall be taken under the present Convention against any warship or other ship owned or operated by a State and used, for the time being, only on government non-commercial service.

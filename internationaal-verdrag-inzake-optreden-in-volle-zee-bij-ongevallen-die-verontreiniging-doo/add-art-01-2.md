@@ -1,0 +1,3 @@
+# Artikel I
+1. De Partijen bij dit Verdrag kunnen in volle zee de maatregelen nemen die noodzakelijk zijn ter voorkoming, vermindering of opheffing van ernstig en dreigend gevaar voor hun kust of daarmede samenhangende belangen door verontreiniging of dreigende verontreiniging van de zee door olie, na een ongeval op zee of na met zulk een ongeval verband houdende handelingen waarvan redelijkerwijs kan worden aangenomen dat zij zeer ernstige schade tot gevolg zullen hebben.
+2. Er worden evenwel ingevolge dit Verdrag geen maatregelen genomen tegen oorlogsschepen of andere schepen die eigendom zijn van of geëxploiteerd worden door een Staat en die te dien tijde slechts worden gebruikt in dienst van de overheid voor andere dan handelsdoeleinden.

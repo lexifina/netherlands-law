@@ -1,0 +1,3 @@
+# Artikel XI
+1. Dit Verdrag treedt in werking op de negentigste dag na de datum waarop de Regeringen van vijftien Staten het hebben ondertekend zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring dan wel akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd bij de Secretaris-Generaal van de Organisatie.
+2. Ten aanzien van elke Staat die dit Verdrag daarna bekrachtigt, aanvaardt, goedkeurt, of ertoe toetreedt, treedt het in werking op de negentigste dag na nederlegging door die Staat van de daartoe strekkende akte.
