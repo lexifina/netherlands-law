@@ -1,0 +1,3 @@
+# Artikel 23a
+1. De rechter zal zich, tenzij een verklaring als bedoeld in artikel 12, tweede lid, is overgelegd, alvorens de vordering tot ontruiming op grond van artikel 18, lid 2, onder c, toe te wijzen, omtrent de redelijkheid van de in het aanbod genoemde prijs - indien daaromtrent verschil van mening bestaat - doen voorlichten door de huurcommissie, bedoeld in artikel 2 van de Wet op de huurcommissies, in zijn rechtsgebied.
+2. De rechter kan, alvorens de vordering tot ontruiming op grond van artikel 18, lid 2 onder c, toe te wijzen, de huurder of gewezen huurder, naar gelang der omstandigheden, een termijn van ten hoogste één maand gunnen om alsnog het aanbod te aanvaarden.

@@ -1,0 +1,3 @@
+# Artikel 28h
+1. Zolang de termijnen, bedoeld in de artikelen 28c, 28d en 28e, niet zijn verstreken, hebben de gewezen huurder en de verhuurder - behoudens het bepaalde in het tweede lid van artikel 28e - dezelfde rechten en verplichtingen, als indien de huur en verhuur, dan wel de bevoegdheid om krachtens huurbescherming in het genot van de onroerende zaak of het gedeelte daarvan te blijven, niet zou zijn geëindigd.
+2. In afwijking van het voorgaande lid kan de kantonrechter, hangende zijn beslissing omtrent een verzoek, als bedoeld in artikel 28d, op verzoek van de verhuurder de som bepalen, die de gewezen huurder verplicht is te betalen als voorlopige vergoeding voor het genot van de zaak of het gedeelte daarvan gedurende de procedure.
