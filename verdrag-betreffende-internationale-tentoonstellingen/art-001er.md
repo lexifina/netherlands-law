@@ -1,0 +1,4 @@
+# Article 1er
+1) Une exposition est une manifestation qui, quelle que soit sa dénomination, a un but principal d'enseignement pour le public, faisant l'inventaire des moyens dont dispose l'homme pour satisfaire les besoins d'une civilisation et faisant ressortir dans une ou plusieurs branches de l'activité humaine les progrès réalisés ou les perspectives d'avenir.
+2) L'exposition est internationale lorsque plus d'un Etat y participe.
+3) Les participants à une exposition internationale sont, d'une part, les exposants des Etats officiellement représentés groupés en sections nationales, d'autre part, les organisations internationales ou les exposants ressortissants d'Etats non officiellement représentés et enfin ceux qui sont autorisés, selon les règlements de l'exposition, à poursuivre une autre activité, en particulier les concessionnaires.
