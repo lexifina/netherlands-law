@@ -1,0 +1,2 @@
+# ARTIKEL VI. OVERGANGSBEPALINGEN IN VERBAND MET ARTIKEL 67, ACHTSTE LID, VAN DE ALGEMENE NABESTAANDENWET
+Beschikkingen voor de inwerkingtreding van deze wet gegeven door de Bank, bedoeld in artikel 1, eerste lid, onderdeel c, van de Algemene nabestaandenwet, op grond van artikel 67, achtste lid, van die wet en de daarop berustende bepalingen, worden in overeenstemming gebracht met de bepalingen van deze wet en aangemerkt als beschikkingen op grond van artikel 67 van de Algemene nabestaandenwet zoals dat artikel luidt na inwerkingtreding van deze wet.
