@@ -1,0 +1,5 @@
+# Artikel V. Toelating van reclamefilms met tijdelijke vrijstelling van invoerrechten
+Onder de in artikel III van deze Overeenkomst vastgestelde voorwaarden verleent elke Overeenkomstsluitende Partij de bij dat artikel voorziene faciliteiten voor diapositieve cinematografische reclamefilms, welke niet breder zijn dan 16 mm, wanneer ten genoege van de douane-autoriteiten is aangetoond, dat het films betreft welke hoofdzakelijk fotografische beelden (met of zonder geluidsband) weergeven, welke de aard of de werking tonen van voortbrengselen of materieel, waarvan de hoedanigheden niet op geschikte wijze kunnen worden gedemonstreerd door monsters, stalen of catalogi, mits deze films:
+(a) betrekking hebben op voortbrengselen of materieel welke door een in het gebied van een andere Overeenkomstsluitende Partij gevestigde persoon ten verkoop of tot verhuur worden aangeboden;
+(b) uit hun aard bestemd zijn aan eventuele gegadigden, doch niet in openbare gelegenheden, te worden vertoond;
+(c) ingevoerd worden in een collo, dat niet meer dan één copie van elke film bevat en dat geen deel uitmaakt van een grotere zending films.

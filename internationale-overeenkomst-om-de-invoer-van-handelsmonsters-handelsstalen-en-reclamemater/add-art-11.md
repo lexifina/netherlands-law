@@ -1,0 +1,2 @@
+# Article XI. Entry into force
+When fifteen of the Governments referred to in article IX have deposited their instruments of ratification, acceptance or accession, the present Convention shall come into force between them on the thirtieth day after the date of the deposit of the fifteenth instrument of ratification, acceptance or accession. It shall come into force for each other government on the thirtieth day after the deposit of its instrument of ratification, acceptance or accession.

@@ -1,0 +1,4 @@
+# Artikel VIII. Regeling van geschillen
+1. Elk geschil dat mocht rijzen tussen twee of meer Overeenkomstsluitende Partijen naar aanleiding van de interpretatie of de toepassing van deze Overeenkomst wordt zoveel mogelijk geregeld door middel van rechtstreekse onderhandelingen tussen hen.
+2. Elk geschil dat niet door onderhandelingen wordt bijgelegd wordt voorgelegd aan een persoon of lichaam in onderlinge overeenstemming aanvaard door de Overeenkomstsluitende Partijen tussen welke het geschil is gerezen; indien deze Partijen het echter niet eens kunnen worden omtrent de keuze van deze persoon of van dit lichaam, kan één van hen aan de President van het Internationale Gerechtshof verzoeken een scheidsrechter aan te wijzen.
+3. De beslissing van de persoon of van het lichaam, aangewezen krachtens het tweede lid van dit artikel, is bindend voor de betrokken Overeenkomstsluitende Partijen.

@@ -1,0 +1,2 @@
+# Article XV. Notification of signatures, ratifications, acceptance and accessions
+The Secretary-General of the United Nations shall notify all signatory and acceding States, and all other States which so request, of all signatures, ratifications, acceptances and accessions of the present Convention and of the date on which the Convention comes into force and of every notification received by him under article XII or XIII.

@@ -1,0 +1,2 @@
+# Artikel XI. Inwerkingtreding
+Wanneer vijftien der in artikel IX bedoelde Regeringen hun akten van bekrachtiging, aanvaarding of toetreding hebben nedergelegd zal deze Overeenkomst tussen hen in werking treden op de dertigste dag volgende op de datum van nederlegging van de vijftiende akte van bekrachtiging, aanvaarding of toetreding. Ten aanzien van elke andere Regering zal zij in werking treden op de dertigste dag volgende op die waarop deze Regering haar akte van bekrachtiging, aanvaarding of toetreding heeft nedergelegd.

@@ -1,0 +1,3 @@
+# Article IX. Signature and ratification
+1. The present Convention shall be open for signature until 30 June 1953 by the Governments contracting parties to the General Agreement on Tariffs and Trade, by the Governments of all States Members of the United Nations and by the Government of any other State to which the Secretary-General of the United Nations shall have communicated a copy of the Convention for this purpose.
+2. This Convention shall be subject to ratification or acceptance by the signatory Governments in accordance with their constitutional procedures, and the instruments of ratification or acceptance shall be deposited with the Secretary-General of the United Nations.
