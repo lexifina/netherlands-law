@@ -1,0 +1,2 @@
+# Artikel III
+Indien met betrekking tot bouw waarvoor ingevolge artikel 2, eerste lid, van het Besluit uitzondering toestemmingsprocedures Wet ziekenhuisvoorzieningen kan worden volstaan met een kennisgeving, vóór het inwerkingtreden van deze regeling een verklaring als bedoeld in artikel 7, eerste lid, onder a, van de Wet ziekenhuisvoorzieningen is aangevraagd, geldt die aanvraag als de bovenbedoelde kennisgeving.
