@@ -1,0 +1,2 @@
+# Artikel VI
+Op degenen die vóór de inwerkingtreding van deze wet in één van de rangen, bedoeld in artikel 14, eerste lid, onderdeel b, van de Brandweerwet 1985 aangesteld waren bij de inspectie voor het brandweerwezen, blijven de regels, bedoeld in artikel 14, eerste lid, onderdelen a tot en met c, van die wet van toepassing, voor zover zij na de inwerkingtreding van dit besluit zonder onderbreking aangesteld zijn bij het Rijk en werkzaam zijn bij de directie Brandweer en Rampenbestrijding van het Ministerie van Binnenlandse Zaken.
