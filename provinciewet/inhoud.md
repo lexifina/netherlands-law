@@ -47,5 +47,5 @@
 ## Ministerie van Landbouw, Natuurbeheer en Visserij
 ## Ministerie van Volksgezondheid, Welzijn en Sport
 ## Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
-## Ministerie van Onderwijs en Wetenschappen
-## Ministerie van Binnenlandse Zaken
+## Ministerie van Onderwijs, Cultuur en Wetenschappen
+## Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
