@@ -1,0 +1,3 @@
+# Artikel III
+Dit verdrag zal van kracht blijven gedurende vijf jaren, welke zullen beginnen te loopen één maand na den dag, waarop zijn bekrachtiging door de Regeering van Hare Majesteit de Koningin der Nederlanden aan de Keizerlijke Ethiopische Regeering zal zijn medegedeeld.
+Indien geen van beide Hooge Partijen aan de andere twaalf maanden vóór het verstrijken van die vijf jaren formeel haar voornemen te kennen geeft de werking van dit verdrag te doen ophouden of het te wijzigen, zal het nog één jaar van kracht blijven en zoo vervolgens totdat één jaar zal zijn verstreken na zijne opzegging in den boven aangegeven vorm.
