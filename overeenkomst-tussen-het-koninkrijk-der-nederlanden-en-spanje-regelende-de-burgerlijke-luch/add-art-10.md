@@ -1,0 +1,3 @@
+# Artikel X
+Teneinde de luchtvaart te bevorderen zullen de Luchtvaartautoriteiten van de twee Overeenkomstsluitende Partijen gezamenlijk bepalen, welke minimaal noodzakelijke faciliteiten zij elkaar wederzijds zullen bieden, wat betreft de installaties en diensten op de vliegvelden en op de routes, waaronder in het bijzonder vallen de luchtverkeersbeveiligingssystemen, de uitwisseling van inlichtingen, de te bezigen talen en maateenheden en de cijfercodes.
+De faciliteiten en diensten zullen binnen het raam van ieders mogelijkheden en van de werkelijke uitvoerbaarheid door iedere Overeenkomstsluitende Partij worden verleend, waarbij zo nauw mogelijke aansluiting zal worden gezocht aan de geldende normen.

@@ -1,0 +1,2 @@
+# Artikel II
+Elk van de luchtdiensten, genoemd in de Bijlage, heeft het recht in werking te treden, zodra de Overeenkomstsluitende Partij, welke krachtens Artikel I het recht heeft gekregen een of meer ondernemingen aan te wijzen om de betreffende lijn te exploiteren, die aanwijzing zal hebben gedaan. De Overeenkomstsluitende Partij, die dat recht zal hebben toegekend, zal, behoudens het bepaalde in het hiernavolgende Artikel VI, aan de belanghebbende onderneming of ondernemingen de benodigde exploitatievergunning moeten verlenen, hetgeen zij zonder dralen zal doen.

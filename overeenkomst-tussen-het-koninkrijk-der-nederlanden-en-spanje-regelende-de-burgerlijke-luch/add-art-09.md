@@ -1,0 +1,2 @@
+# Artikel IX
+[Wordt vervangen door de Internationale Overeenkomst inzake de procedure voor de vaststelling van tarieven voor geregelde luchtdiensten; Parijs, 10 juli 1967.]

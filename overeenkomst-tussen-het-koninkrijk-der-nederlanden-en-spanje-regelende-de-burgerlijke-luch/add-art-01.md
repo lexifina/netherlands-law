@@ -1,0 +1,2 @@
+# Artikel I
+De Overeenkomstsluitende Partijen verlenen elkaar wederkerig de rechten, opgesomd in de hieraan gehechte Bijlage, welke vereist zijn om de, in de Bijlage vervatte, internationale burgerlijke luchtlijnen en diensten in te stellen, onverschillig of deze diensten onmiddellijk dan wel op een later tijdstip, naar verkiezing van de Overeenkomstsluitende Partij, aan welke de rechten worden verleend, zullen worden geopend.

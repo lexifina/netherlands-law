@@ -1,0 +1,3 @@
+# Artikel XV
+Alle geschillen tussen de Overeenkomstsluitende Partijen betreffende de uitlegging of de toepassing van deze Overeenkomst en haar Bijlage, die niet rechtstreeks geregeld kunnen worden door middel van overleg, hetzij tussen de betrokken ondernemingen, hetzij tussen de luchtvaartautoriteiten, hetzij tenslotte tussen de onderscheiden Regeringen, zullen aan een scheidsrechterlijke beslissing worden onderworpen, hetzij van een Tribunaal, hetzij van ieder ander overeengekomen persoon of lichaam.
+De Overeenkomstsluitende Partijen verbinden zich, zich te houden aan de voorlopige maatregelen, die tijdens het onderzoek uitgevaardigd kunnen worden, evenals aan de scheidsrechterlijke beslissing, welke laatste in ieder geval als definitief wordt beschouwd.

@@ -1,0 +1,2 @@
+# Artikel VII
+De Overeenkomstsluitende Partijen zullen vrijelijk haar onderscheiden ondernemingen, waaraan een vergunning voor het uitoefenen van luchtverkeer is verleend, kunnen vervangen na voorafgaande mededeling aan de andere Overeenkomstsluitende Partij. De nieuw aangewezen onderneming zal alle rechten en verplichtingen van de vorige onderneming hebben. Deze vervanging zal onder geen enkel voorwendsel enige aansprakelijkheid voor de staat, die de vergunning verleent, met zich medebrengen.
