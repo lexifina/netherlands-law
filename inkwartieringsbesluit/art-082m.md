@@ -1,0 +1,4 @@
+# Artikel 82m
+1. Degene, die van de vorderingscommissaris een lastgeving als bedoeld in artikel 82l heeft ontvangen, kan binnen een maand na dagtekening van deze lastgeving, indien hij van oordeel is dat de in de lastgeving vermelde zaken in geval van buitengewone omstandigheden, welke gevaar opleveren voor de uit- of inwendige veiligheid van de Staat, voor de uitoefening van zijn bedrijf of beroep onmisbaar zijn, een met redenen omkleed verzoekschrift tot vrijstelling door tussenkomst van de burgemeester van de gemeente, waar de zaken zich als regel bevinden, bij de vorderingscommissaris indienen.
+2. De burgemeester voorziet het verzoekschrift, alvorens het door te zenden, van zijn advies.
+3. De vorderingscommissaris stelt het model van het verzoekschrift vast en verstrekt het aan de burgemeester ter inzage voor de inwoners.

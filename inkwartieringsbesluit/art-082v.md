@@ -1,0 +1,4 @@
+# Artikel 82v
+1. Indien uit de in het voorgaande artikel bedoelde controle blijkt dat de hoedanigheid van de ter aflevering aangeboden zaken of van een gedeelte daarvan niet overeenstemt met de daaromtrent aan de commandant verstrekte gegevens of indien daaraan twijfel bestaat, deelt hij zulks mede aan degene die de zaken ter aflevering aanbiedt.
+2. Indien de commandant de ter aflevering aangeboden zaken niet aanvaardt, kan hij - zo het militair belang zich daartegen niet verzet - degene van wie gevorderd is, alsnog in de gelegenheid stellen tot aflevering van zaken van de in de lastgeving omschreven hoedanigheid binnen een door hem te bepalen tijd.
+3. In het geval bedoeld in het tweede lid is de commandant gerechtigd de ter aflevering aangeboden zaken onder zijn berusting te houden totdat de aflevering van zaken van de in de lastgeving omschreven hoedanigheid heeft plaats gehad.

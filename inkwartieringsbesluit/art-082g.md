@@ -1,0 +1,4 @@
+# Artikel 82g
+1. Indien de gegevens, welke Onze Minister nodig heeft voor de registratie van de zaken waaromtrent hij een algemene vordering wenst voor te bereiden of te doen voorbereiden, niet verschaft kunnen worden door Onze Minister van Economische Zaken of een van Onze overige Ministers, aan wie met betrekking tot de zaken een bijzondere bevoegdheid is gegeven, brengt Onze eerstgenoemde Minister ter algemene kennis, dat de inwoners de nodige gegevens moeten verschaffen.
+Indien de verplichting tot het verschaffen van gegevens beperkt kan blijven tot een gering aantal inwoners, kan de algemene kennisgeving vervangen worden door een persoonlijke kennisgeving aan de betrokkenen.
+2. De algemene kennisgeving, bedoeld in het eerste lid, geschiedt door publikatie in de Staatscourant en indien Onze Minister zulks wenselijk oordeelt ook in de vakbladen.

@@ -1,0 +1,5 @@
+# Artikel 82a
+1. Wanneer Onze Minister bepaalt, dat een algemene vordering, als bedoeld in artikel 37, tweede lid, zal plaatsvinden, wordt dit besluit op door Onze Minister te bepalen wijze ter algemene kennis gebracht. Onze Minister kan daarbij bepalen, dat, in het gebied waarop dit besluit betrekking heeft, de burgemeesters zorg dragen, dat het ter algemene kennis wordt gebracht. In het besluit wordt het gebied aangegeven, waarop het besluit betrekking heeft.
+2. De burgemeester wijst voor de gevorderde motorrijtuigen een of meer verzamelplaatsen in de gemeente aan.
+3. De artikelen 63, 64 en 70 tot en met 75, 76, vierde, zesde en laatste lid en 77 tot en met 81 zijn van overeenkomstige toepassing.
+4. De waarde van de gevorderde motorrijtuigen wordt na aankomst op de plaats van bestemming en na aanbieding aan het onderdeel waarvoor zij zijn bestemd, vastgesteld door de taxateur op de wijze als in artikel 97 is bepaald en met inachtneming van de hem verstrekte instructie, bedoeld in artikel 42, tweede lid. De taxateur maakt terzake rapport op.
