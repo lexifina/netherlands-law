@@ -1,0 +1,2 @@
+# Artikel 10e
+Onze Minister kan aan inrichtingen, waaraan tot en met 31 december 1995 een afwijking is toegestaan als bedoeld in artikel 22, tweede lid, en die ten genoegen van onze Minister kunnen aantonen dat ze begonnen zijn te voldoen aan de voorschriften van dit besluit, maar de aanvankelijk bepaalde termijn, om redenen die hun niet zijn aan te rekenen, niet zullen kunnen eerbiedigen, een aanvullende termijn toekennen die uiterlijk op 31 december 1998 eindigt, om de aangegane verbintenissen na te kunnen komen.

@@ -1,0 +1,3 @@
+# Artikel 10b
+1. In afwijking van artikel 9 kan Onze Minister uitsnijderijen, die niet in een erkende inrichting zijn gelegen en niet meer dan 5 ton uitgebeend vlees of het equivalent daarvan in vlees met been per week produceren en die niet voldoen aan hoofdstukken I en III van bijlage I van dit besluit, erkennen en afwijkingen toestaan overeenkomstig bijlage II van dit besluit.
+2. Op de opslag en het uitsnijden in inrichtingen, die op grond van het eerste lid zijn erkend, zijn van toepassing de bepalingen van bijlage I, hoofdstuk V, hoofdstuk VII, punt 38, hoofdstuk IX, met uitzondering van het in punt 46, onder c, bepaalde voorschrift, inzake temperatuur in het lokaal en hoofdstuk X, punt 48.
