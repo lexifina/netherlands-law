@@ -1,0 +1,5 @@
+# Artikel II
+(bij artikel 2 van het Verdrag)
+1. Uitlevering wordt ook toegestaan indien de duur van verscheidene straffen en maatregelen gezamenlijk minstens vier maanden bedraagt.
+2. Onverminderd de artikelen 3 tot en met 5 en 7 tot en met 10 van het Verdrag wordt uitlevering krachtens artikel 2, tweede lid, van het Verdrag ook toegestaan voor feiten die slechts met een boete zijn bedreigd of die in een van beide Staten strafbaar zijn en in de andere Staat als vergrijpen tegen voorschriften betreffende de orde („Ordnungswidrigkeiten") door de bestuurlijke autoriteiten worden bestraft, mits van hun beslissingen beroep openstaat op een ook in strafzaken bevoegde rechter. De Uitlevering in de zin van dit lid is slechts toelaatbaar in aanvulling op een uitlevering krachtens artikel 2, eerste lid, van het Verdrag en kan tegelijk daarmede of naderhand worden toegestaan.
+3. Een rechtsgeldige beslissing van een rechterlijke of bestuurlijke autoriteit waarbij een persoon, buiten behandeling ter terechtzitting, tot een straf of boete is veroordeeld staat gelijk met een strafvonnis mits die persoon in de gelegenheid is geweest zijn verdediging te voeren.
