@@ -1,0 +1,4 @@
+# Article premier
+1) Chacune des Parties contractantes accorde à l'autre Partie contractante, au profit de l'entreprise ou des entreprise(s) de transport aérien à désigner par celles-ci (appelée(s) ci-après entreprise(s) désignée(s)) les droits spécifiés au paragraphe 2 du présent article.
+2) La ou les entreprise(s) désignée(s) par chacune des Parties contractantes jouiront sur le territoire de l'autre Partie contractante du droit de survol, du droit de transit et du droit d'escale pour des fins non commerciales.
+Elles jouiront en outre, pour l'exploitation de services aériens (appelés ci-après services convenus) sur les routes spécifiées à l'annexe (appelées ci-après routes spécifiées) du droit d'embarquer et du droit de débarquer en trafic international des passagers, des envois postaux et des marchandises.
