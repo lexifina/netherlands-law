@@ -1,0 +1,2 @@
+# Article 1er
+Les travailleurs salariés ou assimilés aux salariés de nationalité belge, britannique, italienne, polonaise, sarroise, tchécoslovaque et luxembourgeoise, qui sont ou ont été occupés alternativement ou successivement aux Pays-Bas et en France, bénéficient, sous les réserves prévues au présent Accord, des dispositions de la Convention Générale franco-néerlandaise sur la Sécurité Sociale du 7 janvier 1950.
