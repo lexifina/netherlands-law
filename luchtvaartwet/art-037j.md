@@ -1,0 +1,7 @@
+# Artikel 37j
+1. Ter bestrijding van de kosten die het Rijk maakt met het oog op de uitoefening van de controle overeenkomstig paragraaf 3, wordt onder de naam "beveiligingsheffing" een heffing geheven.
+2. De heffing wordt geheven van de natuurlijke persoon of rechtspersoon die als eigenaar of houder van een burgerluchtvaartuig dit te zijner beschikking heeft en dit onder zijn verantwoordelijkheid laat deelnemen aan het luchtverkeer.
+3. De heffing wordt geheven naar het aantal passagiers dat, na te zijn onderworpen aan een controle als bedoeld in paragraaf 3, op een luchtvaartterrein aan boord gaat van een burgerluchtvaartuig met een bestemming buiten het grondgebied van Nederland. Daarbij worden niet meegerekend passagiers
+a. die overstappen en de luchthaven daarbij niet meer dan vierentwintig uren verlaten, of
+b. met een leeftijd jonger dan twee jaren.
+4. Het tarief van de heffing wordt bij ministeriële regeling door Onze Minister van Justitie bij het begin van een kalenderjaar vastgesteld. Het tarief wordt berekend door de geraamde kosten als bedoeld in het eerste lid, voor dat jaar te delen door het dat jaar te verwachten aantal passagiers dat aan boord zal gaan en daarop de nodige afronding aan te brengen. Indien in de loop van een kalenderjaar de geraamde kosten per passagier een aanzienlijke wijziging ondergaan, wordt het tarief tussentijds gewijzigd. Het tarief wordt alsdan berekend door de voor het resterende deel van het kalenderjaar geraamde kosten te delen door het voor dat deel verwachte aantal passagiers.

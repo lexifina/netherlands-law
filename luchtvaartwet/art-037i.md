@@ -1,0 +1,5 @@
+# Artikel 37i
+1. Onze Minister van Justitie kan op grond van omstandigheden en inlichtingen vaststellen, dat er ten aanzien van een luchtvaartterrein, dan wel bepaalde daar aanwezige luchtvaartuigen, het vermoeden gerechtvaardigd is, dat een bijzonder gevaar bestaat dat zij het object van geweldpleging, aanslagen of bedreiging zullen vormen. Hij geeft hiervan onverwijld kennis aan de exploitant.
+2. Na toepassing van het eerste lid worden geen goederen of dieren aan boord van de betrokken luchtvaartuigen gebracht dan na, zonodig stuksgewijs, onderzoek op de aanwezigheid van wapens, explosieven of andere voorwerpen en stoffen, die de veiligheid en gezondheid van personen kunnen bedreigen, voor de bedreiging van personen geschikt zijn dan wel de veiligheid van het luchtvaartuig in gevaar kunnen brengen.
+3. Onze Minister van Justitie kan in andere dan de in het eerste lid bedoelde gevallen, luchtvaartuigen aanwijzen met betrekking tot welke het tweede lid van toepassing is.
+4. De artikelen 37c, derde lid, en 37h, tweede lid, zijn van overeenkomstige toepassing met betrekking tot het onderzoek bedoeld in het tweede lid.

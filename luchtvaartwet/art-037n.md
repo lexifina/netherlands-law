@@ -1,0 +1,2 @@
+# Artikel 37n
+Bij ministeriële regeling van Onze Minister van Justitie kunnen inzake de heffing en de invordering van de beveiligingsheffing nadere in het kader van deze paragraaf passende regels worden gesteld ter aanvulling van de daarin geregelde onderwerpen. Bij ministeriële regeling van Onze Minister van Justitie worden regels gesteld inzake de afdracht van de door de functionaris als bedoeld in artikel 37l, eerste lid, ingevorderde heffing aan Onze Minister van Justitie.
