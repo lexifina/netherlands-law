@@ -1,0 +1,17 @@
+# Artikel I
+A. Voor de toepassing van dit artikel wordt verstaan onder:
+a. militair: de militaire ambtenaar in de zin van artikel 1 van de Militaire Ambtenarenwet 1931 die is aangesteld bij het beroepspersoneel, alsmede de geestelijk verzorger die in burgerlijke openbare dienst is aangesteld om bij de krijgsmacht doorlopend werkzaam te zijn;
+b. de peildatum: 1 december 2001 onderscheidenlijk 1 december 2002 onderscheidenlijk 1 december 2003;
+c. betrokkene:
+1°. de militair met een lagere rang dan vice-admiraal of luitenant-generaal die op de peildatum in werkelijke dienst was;
+2°. de burgerlijke ambtenaar defensie die aanspraak heeft op een salaris volgens bijlage B van het Bezoldigingsbesluit burgerlijke ambtenaren defensie en die op de peildatum in dienst van het Ministerie van Defensie was;
+3°. de burgerlijke ambtenaar defensie, bedoeld in artikel 1, derde lid, van het Bezoldigingsbesluit burgerlijke ambtenaren defensie die op de peildatum in dienst van het Ministerie van Defensie was;
+4°. de gewezen militair met een lagere rang dan vice-admiraal of luitenant-generaal, die ingevolge artikel 18, zesde lid, van het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie op de peildatum in het genot is van wachtgeld of een uitkering, dan wel van een uitkering op grond van de Uitkeringswet gewezen militairen geniet;
+5°. de gewezen burgerlijke ambtenaar defensie die aanspraak had op salaris volgens bijlage B van het Bezoldigingsbesluit burgerlijke ambtenaren defensie en die ingevolge artikel 18, zesde lid, van het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie op de peildatum in het genot is van wachtgeld of een uitkering, dan wel van een uitkering op grond van het Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie;
+d. berekeningsbasis:
+1°. de over de bij de peildatum bedoelde maand december van het toepasselijke jaar genoten bezoldiging volgens hetgeen daaronder wordt verstaan in het Inkomstenbesluit militairen;
+2°. het over de bij de peildatum bedoelde maand december van het toepasselijke jaar genoten salaris volgens hetgeen daaronder wordt verstaan in het Bezoldigingsbesluit burgerlijke ambtenaren defensie;
+3°. het wachtgeld of de uitkering die over de bij de peildatum bedoelde maand december van het toepasselijke jaar op grond van één van de onder c, 4 en 5 genoemde besluiten is genoten na toepassing van de bij of krachtens die besluiten geldende vermindering wegens inkomsten uit of in verband met arbeid of bedrijf.
+B. De betrokkene, bedoeld in onderdeel A, onder c, 1 tot en met 3, heeft op de peildata aanspraak op een eenmalige uitkering ter grootte van 10,4% in 2001, van 9,1% in 2002 en van 10,4% in 2003 van de voor hem geldende berekeningsbasis.
+C. De betrokkene, bedoeld in onderdeel A, onder c, 4 en 5, heeft op de peildata aanspraak op een eenmalige uitkering ter grootte van 9,6% in 2001, van 8,4% in 2002 en van 9,6% in 2003 van de voor hem geldende berekeningsbasis.
+D. De eenmalige uitkering als bedoeld onder A en B heeft geen algemeen karakter en wordt niet gerekend tot de bezoldiging of het salaris in de zin van de bezoldigingsvoorschriften en maakt evenmin deel uit van de pensioengrondslag of het inkomen in de zin van de Uitkeringswet gewezen militairen, de Kaderwet militaire pensioenen dan wel het Pensioenreglement van de Stichting Pensioenfonds ABP.
