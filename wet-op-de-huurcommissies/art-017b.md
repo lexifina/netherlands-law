@@ -1,0 +1,2 @@
+# Artikel 17b
+Indien omtrent dezelfde woonruimte een verzoekschrift ingevolge artikel 18, eerste lid, van de Huurprijzenwet woonruimte en een verzoekschrift ingevolge artikel 20, eerste of tweede lid, van die wet bij de huurcommissie zijn ingediend, beslist de huurcommissie op het eerstgenoemde verzoek alvorens op het andere verzoek te beslissen, tenzij de indiening van het eerstgenoemde verzoekschrift heeft plaatsgevonden na het tijdstip waarop volgens het andere verzoekschrift de wijziging van de huurprijs dient in te gaan.
