@@ -1,0 +1,9 @@
+# III. Verklaringen.
+Zwitserland
+Op het oogenblik van onderteekening van het Verdrag heeft de vertegenwoordiger van Zwitserland de volgende verklaring afgelegd:
+„De Zwitsersche Bondsraad, die eenige verbintenis betreffende de strafbepalingen van het Verdrag niet op zich kan nemen, voordat de vraag van de invoering in Zwitserland van een eenvormig wetboek van strafrecht in bevestigenden zin opgelost is, doet opmerken, dat de bekrachtiging van het Verdrag niet binnen bepaalden tijd zal kunnen worden tot stand gebracht.
+„Evenwel is de Zwitsersche Bondsraad bereid binnen de mate van zijn bevoegdheid uitvoering te geven aan de administratieve bepalingen van het Verdrag, zoodra dit in werking zal zijn getreden overeenkomstig art. 25."
+Unie van Socialistische Sowjet Republieken.
+Op het oogenblik van onderteekening van het Verdrag heeft de vertegenwoordiger van de Unie van Socialistische Sowjet Republieken de volgende verklaring afgelegd:
+„De afvaardiging van de Unie van Socialistische Sowjet Republieken, hoewel de bepalingen van art. 19 aanvaardende, verklaart, dat de Regeering der Unie niet voornemens is, voor zoover het haar betreft, de rechtspraak van het Permanente Hof van Internationale Justitie in te roepen."
+„Met betrekking tot de bepaling van hetzelfde artikel, volgens welke de geschillen, die niet door rechtstreeksche onderhandelingen geregeld kunnen worden, onderworpen zouden zijn aan eenige andere scheidsrechterlijke procedure dan die van het Permanente Hof van Internationale Justitie, verklaart de afvaardiging van de Unie van Socialistische Sowjet Republieken nadrukkelijk, dat de aanvaarding van deze bepaling niet moet worden uitgelegd als wijziging te brengen in het standpunt van de Regeering der Unie omtrent de algemeene kwestie van arbitrage als middel tot beslechting van geschillen tusschen Staten."
