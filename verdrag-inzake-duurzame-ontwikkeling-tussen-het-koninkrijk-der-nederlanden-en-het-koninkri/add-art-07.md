@@ -1,0 +1,8 @@
+# Article VII
+1. This Agreement shall enter into force on the date on which the two Governments have given each other written notification that the procedures legally required therefor in their respective countries have been complied with.
+2. This Agreement shall remain in force for an indefinite period of time. Either Government may at any time denounce this Agreement or suspend its operation by means of a notification addressed to the other Government.
+A suspension shall become effective on the date of the receipt of the notification of suspension by the other Government. It shall be terminated on the date on which the notification of the termination of the suspension is received.
+A denunciation shall become effective on the first day of the month following the expiry of a period of three months after the date on which the notification of denunciation by the other Government is received.
+3. The two Governments shall decide in respect of programmes or projects started before the date of denunciation of this Agreement or suspension of its operation, whether, and, if so, to what extent the provisions of this Agreement shall continue to apply until such programmes or projects have been completed.
+4. If this Agreement is denounced for whatever reason by either of the two Governments, or suspended for more than a year, the destiny of goods and equipment made available as part of the co-operation will be decided upon in mutual consultation.
+5. This Agreement may be amended by an exchange of diplomatic notes between the two Governments. Amendments shall take effect on the date on which the two Governments have given each other written notification that the legally required procedures have been fulfilled. IN

@@ -1,0 +1,3 @@
+# Article IV
+1. The co-operation and, in particular, the policies, arrangements, programmes and projects referred to in Article I shall be brought about on the basis of existing international agreements, policies, arrangements, programmes and projects between the two countries and shall in no way affect the obligations of either country under any international agreement.
+2. The two Governments shall decide in respect of any programme or project for sustainable development agreed to between the two Governments before the date of entry into force of this Agreement and not yet completed at that date whether, and, if so, to what extent such programme or project shall thereafter be governed by this Agreement.
