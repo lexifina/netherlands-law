@@ -1,0 +1,5 @@
+# Article VII
+(1) The present Agreement shall enter into force on the first day of the second month following the date on which the Contracting Parties have informed each other in writing that the procedures constitutionally required therefore in their respective countries have been complied with, and shall remain in force for a period of 10 years.
+(2) Unless notice of termination has been given by either Contracting Party at least six months before the date of the expiry of its validity, the present Agreement shall be extended for an indefinite period, each Contracting Party reserving the right to terminate the Agreement upon notice of at least six months.
+(3) Any such termination shall have no effect on the fulfilment of contracts made under the provisions of the present Agreement.
+(4) Subject to the period mentioned in paragraph (2) of this Article, the Government of the Kingdom of the Netherlands shall be entitled to terminate the application of the present Agreement seperately in respect of one or more of the constituent parts of the Kingdom.
