@@ -1,0 +1,3 @@
+# Article IV
+Les Autorités compétentes de chacune des Parties Contractantes prendront les mesures nécessaires afin de permettre l'utilisation complète, harmonieuse et sans aucune discrimination des contingents prévus aux listes „A" et „B". Elles veilleront également à ce que les licenses afférentes à l'importation soient délivrées en temps utile, surtout en ce qui concerne les produits saisonniers.
+Les Parties Contractantes confirment leur bonne volonté de procéder d'une façon libérale à l'exécution du présent Accord et s'accordent réciproquement un traitement aussi favorable que possible dans l'octroi des autorisations d'importation au delà des contingents des listes en vigueur, dans le cadre de leur politique d'importation et dans la mesure où la situation le permet.

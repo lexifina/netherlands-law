@@ -1,0 +1,3 @@
+# Artikel IV
+De bevoegde autoriteiten van elk der Overeenkomstsluitende Partijen nemen de nodige maatregelen om een volledig harmonieus en non-discriminatoir gebruik van de in de lijsten „A" en „B" voorkomende contingenten mogelijk te maken. Zij zien er eveneens op toe dat de voor de invoer noodzakelijke vergunningen tijdig worden verstrekt, met name voor seizoenprodukten.
+De Overeenkomstsluitende Partijen bevestigen hun goede wil om deze Overeenkomst op liberale wijze uit te voeren en verlenen, in het kader van hun invoerbeleid en voorzover de omstandigheden het mogelijk maken, elkaar wederzijds een zo gunstig mogelijke behandeling bij het afgeven van vergunningen voor invoer boven de contingenten van de geldende lijsten.

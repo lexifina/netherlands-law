@@ -1,0 +1,2 @@
+# Artikel VI
+Een Gemengde Commissie bestaande uit vertegenwoordigers der betrokken Regeringen kan te allen tijde op verzoek van een der Overeenkomstsluitende Partijen worden bijeengeroepen ten einde de vraagstukken te onderzoeken, die eventueel uit de toepassing van deze Overeenkomst voortvloeien. Deze Commissie is bevoegd aan de Overeenkomstsluitende Partijen alle voorstellen te doen ter bevordering van de harmonieuze ontwikkeling van het handelsverkeer tussen hun grondgebieden.

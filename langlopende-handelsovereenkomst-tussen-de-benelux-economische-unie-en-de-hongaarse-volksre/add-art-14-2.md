@@ -1,0 +1,2 @@
+# Artikel XIV
+Elk der Overeenkomstsluitende Partijen kan voorstellen onderhandelingen te beginnen ter herziening van de Overeenkomst, ten einde er wenselijk geachte wijzigingen in aan te brengen. Indien zodanige onderhandelingen, die dienen te worden gevoerd in een geest die de Overeenkomstsluitende Partijen gelijke voordelen waarborgt, binnen twaalf maanden na kennisgeving van herziening geen positief resultaat zouden hebben, wordt de Overeenkomst als vervallen beschouwd.

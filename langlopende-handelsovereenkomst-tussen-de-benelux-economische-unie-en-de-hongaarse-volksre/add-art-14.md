@@ -1,0 +1,2 @@
+# Article XIV
+Chacune des Parties Contractantes peut proposer des négociations pour la révision de l'Accord aux fins d'y apporter toutes modifications utiles. Au cas où de telles négociations, qui devront être menées, dans l'esprit d'assurer aux deux Parties Contractantes des bénéfices égaux, n'auraient pas d'issue positive dans les douze mois à compter de la notification de révision, l'Accord sera considéré comme abrogé.

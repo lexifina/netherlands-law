@@ -1,0 +1,2 @@
+# Artikel IX
+Ten aanzien van het handelsverkeer tussen de grondgebieden der Overeenkomstsluitende Partijen binnen het kader van contracten de veredelingsindustrie betreffende, waarvoor toestemming wordt verleend door de bevoegde autoriteiten der Overeenkomstsluitende Partijen, passen deze bij het verlenen van vergunningen en ten aanzien van het vervullen der douaneformaliteiten geen ongunstiger behandeling toe dan die welke zij toepassen op een soortgelijk handelsverkeer met andere landen.

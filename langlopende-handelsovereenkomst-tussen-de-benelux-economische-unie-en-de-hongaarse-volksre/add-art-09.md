@@ -1,0 +1,2 @@
+# Article IX
+En ce qui concerne les échanges entre les territoires des Parties Contractantes dans le cadre de contrats concernant le travail à façon, qui seront autorisés par les Autorités compétentes des Parties Contractantes. Elles n'appliqueront pas des procédés d'octroi de licences et des formalités de dédouanement moins avantageux que ceux appliqués par Elles à de tels échanges réalisés avec d'autres pays.

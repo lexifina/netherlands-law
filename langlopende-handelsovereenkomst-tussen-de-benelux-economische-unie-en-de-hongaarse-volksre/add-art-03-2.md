@@ -1,0 +1,3 @@
+# Artikel III
+De bevoegde autoriteiten van de Hongaarse Volksrepubliek staan, in het kader van de van kracht zijnde regelingen, de invoer in Hongarije toe van de Nederlandse, Belgische, of Luxemburgse produkten die op de aan deze Overeenkomst gehechte lijst „B" voorkomen, ten minste ten belope van de hoeveelheden of waarden als voor elk dezer produkten aangegeven.
+De bevoegde autoriteiten van de Benelux Economische Unie staan, hunnerzijds, de uitvoer naar de Hongaarse Volksrepubliek toe van genoemde produkten, ten minste ten belope van de hoeveelheden of waarden als voor elk dezer produkten aangegeven.
