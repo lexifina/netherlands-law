@@ -1,0 +1,2 @@
+# Artikel VIII
+De Overeenkomstsluitende Partijen zullen bijzondere aandacht schenken aan de presentatie van hun land in de geschiedenis- en aardrijkskundeboeken alsmede literaire handboeken van het andere land. Daartoe zullen zij alle faciliteiten verlenen aan instellingen en personen die op dit gebied werkzaam zijn, en zullen zij alle gegevens die van nut kunnen zijn, te hunner beschikking stellen.
