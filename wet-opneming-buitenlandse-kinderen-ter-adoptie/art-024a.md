@@ -1,0 +1,3 @@
+# Artikel 24a
+1. Er is een klachtencommissie voor klachten over gedragingen van vergunninghouders. Bij algemene maatregel van bestuur worden nadere regels gegeven over benoeming, samenstelling en bevoegdheden alsmede over de klachtenprocedure.
+2. Het ontwerp van de in het eerste lid genoemde maatregel wordt aan de beide kamers der Staten-Generaal overgelegd. Binnen een termijn van vier weken na de overlegging kan door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen worden gegeven dat het onderwerp van de algemene maatregel van bestuur bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend.

@@ -1,0 +1,4 @@
+# Artikel 17b
+1. De vergunninghouder vergaart zoveel mogelijk gegevens met betrekking tot de afkomst en de achtergrond van het buitenlandse kind in de staat van herkomst.
+2. De vergunninghouder houdt een dossier bij van elke door hem verleende bemiddeling. Het dossier bevat afschriften van alle correspondentie die met betrekking tot de opneming van het buitenlandse kind is gevoerd alsmede kopieën van de bescheiden die bij de binnenkomst van het kind in Nederland zijn getoond. Voorts bevat het alle in het eerste lid bedoelde gegevens. Het dossier wordt gedurende ten minste dertig jaren na de binnenkomst van het buitenlandse kind in Nederland bewaard.
+3. Indien de adoptieprocedure geen voortgang vindt, zendt de vergunninghouder de originelen van de door hem ontvangen bescheiden betreffende het buitenlandse kind terug aan de autoriteiten die deze hebben verzonden.

@@ -1,0 +1,2 @@
+# Artikel 16a
+Een vergunning wordt verleend voor een geldigheidsduur van drie jaren. Op verzoek van de vergunninghouder kan Onze Minister de geldigheidsduur van de vergunning verlengen voor een periode van telkens vijf jaren. Een aanvraag tot verlenging van de geldigheidsduur van de vergunning wordt uiterlijk twaalf weken voor het verstrijken van de geldigheidsduur van de bestaande vergunning ingediend.
