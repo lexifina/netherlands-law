@@ -1,0 +1,4 @@
+# Artikel III. Overgangsbepalingen vakinstellingen, richtingsunieke instellingen en instellingen met een breedtegebrek
+1. Instellingen die op grond van artikel 12.3.5 van de Wet educatie en beroepsonderwijs zoals luidend op de dag voor de inwerkingtreding van deze wet voor bekostiging in aanmerking zijn gebracht, zijn met ingang van de dag van inwerkingtreding van deze wet vakinstellingen als bedoeld in
+artikel 1.3.2a van die wet die voor bekostiging in aanmerking zijn gebracht.
+2. Instellingen die op grond van artikel 12.3.6 of artikel 12.3.7 van de Wet educatie en beroepsonderwijs zoals luidend op de dag voor de inwerkingtreding van deze wet voor bekostiging in aanmerking zijn gebracht, zijn met ingang van de dag van inwerkingtreding van deze wet regionale opleidingencentra als bedoeld in artikel 1.3.1 van de Wet educatie en beroepsonderwijs die voor bekostiging in aanmerking zijn gebracht.
