@@ -116,4 +116,5 @@
 #### Paragraaf 8. Overige bepalingen
 ## Hoofdstuk 17b. Overgangsbepaling van de Wet betreffende onder meer de uitvoering van de in de nota «Zicht op kwaliteit» aangekondigde maatregelen
 ## Hoofdstuk 17c. Overgangs- en invoeringsbepaling van de wet betreffende versnelde invoering toets nieuwe opleiding
+## Hoofdstuk 17d. Overgangsbepalingen van de wet ter uitvoering van de in het wetenschapsbudget 2000 opgenomen voornemens en tot het aanbrengen van een aantal technische wijzigingen
 ## Hoofdstuk 17e. Overgangsrecht Wet van 2 juli 2003 (Stb. 287)
