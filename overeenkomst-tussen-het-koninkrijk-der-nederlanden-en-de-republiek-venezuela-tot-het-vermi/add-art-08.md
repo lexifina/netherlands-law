@@ -1,0 +1,2 @@
+# VIII. Ad Articles 10, 11 and 12
+When tax has been levied at source in excess of the amount of tax chargeable under the provisions of Articles 10, 11 or 12, applications for the refund of the excess amount of tax have to be lodged with the competent authority of the Contracting State having levied the tax, within a period of two years after the expiration of the calendar year in which the tax has been levied.
