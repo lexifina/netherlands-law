@@ -1,0 +1,4 @@
+# Tekst
+De Staatssecretaris van Financiën heeft het volgende besloten:
+De aanwezigheid van gordelbevestigingspunten in de laadvloer van de laadruimte van een bestelauto betekent niet dat er niet langer sprake is van een vlakke laadvloer in de zin van artikel 3 van de Wet op de belasting van personenauto's en motorrijwielen 1992 en de Wet op de motorrijtuigenbelasting 1994. Ook het feit dat de gordels door de vaste wand worden geleid, mits de opening waar de gordels doorheen worden geleid niet groter is dan voor dit doel noodzakelijk, betekent niet dat de vaste wand niet langer voldoet aan de eisen die aan deze wand worden gesteld in artikel 2, lid 9, van de Uitvoeringsregeling BPM en artikel 3, lid 9, van de Uitvoeringsregeling MB'94.
+De Staatssecretaris van Financiën, namens deze:de plv. Directeur-Generaal der Belastingen, J.Thunnissen
