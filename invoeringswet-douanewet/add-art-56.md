@@ -1,0 +1,3 @@
+# Artikel LVI
+1. Vergunningen die zijn afgegeven krachtens de Wet inzake de douane of krachtens de bij artikel XXXVII van deze wet vervallen bepalingen van de In- en uitvoerwet worden tot wederopzegging, doch uiterlijk tot en met de laatste dag van het tijdvak van twaalf maanden dat ingaat op de dag van de inwerkingtreding van deze wet, aangemerkt als te zijn verleend op grond van wettelijke bepalingen in de zin van artikel 2, tweede lid, onderdeel a, van de Douanewet.
+2. Bij ministeriële regeling kunnen nadere overgangsbepalingen worden vastgesteld in verband met de inwerkingtreding van de Douanewet.
