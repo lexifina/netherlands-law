@@ -1,0 +1,6 @@
+# Article V. Facilities, Privileges and Immunities
+1. The Government of the Kingdom, and the Government of Surinam or the Netherlands Antilles, insofar as it is not already bound to do so, shall apply to the Organizations, their property, funds and assets, and to their officials, including technical assistance experts,
+(a) in respect of the United Nations, the Convention on the Privileges and Immunities of the United Nations;
+(b) in respect of the Specialized Agencies, the Convention on the Privileges and Immunities of the Specialized Agencies; and
+(c) in respect of the International Atomic Energy Agency, the Agreement on the Privileges and Immunities of the International Atomic Energy Agency.
+2. The Government of the Kingdom, and the Government of Surinam or the Netherlands Antilles shall take all practical measures to facilitate the activities of the Organizations under this Agreement and to assist experts and other officials of the Organizations in obtaining such services and facilities as may be required to carry on these activities. When carrying out their responsibilities under this Agreement, the Organizations, their experts and other officials shall have the benefit of the most favourable legal rate of conversion of currency.
