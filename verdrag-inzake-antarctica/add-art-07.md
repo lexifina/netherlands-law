@@ -1,0 +1,9 @@
+# Article VII
+1. In order to promote the objectives and ensure the observance of the provisions of the present Treaty, each Contracting Party whose representatives are entitled to participate in the meetings referred to in Article IX of the Treaty shall have the right to designate observers to carry out any inspection provided for by the present Article. Observers shall be nationals of the Contracting Parties which designate them. The names of observers shall be communicated to every other Contracting Party having the right to designate observers, and like notice shall be given of the termination of their appointment.
+2. Each observer designated in accordance with the provisions of paragraph 1 of this Article shall have complete freedom of access at any time to any or all areas of Antarctica.
+3. All areas of Antarctica, including all stations, installations and equipment within those areas, and all ships and aircraft at points of discharging or embarking cargoes or personnel in Antarctica, shall be open at all times to inspection by any observers designated in accordance with paragraph 1 of this Article.
+4. Aerial observation may be carried out at any time over any or all areas of Antarctica by any of the Contracting Parties having the right to designate observers.
+5. Each Contracting Party shall, at the time when the present Treaty enters into force for it, inform the other Contracting Parties, and thereafter shall give them notice in advance, of
+(a) all expeditions to and within Antarctica, on the part of its ships or nationals, and all expeditions to Antarctica organized in or proceeding from its territory;
+(b) all stations in Antarctica occupied by its nationals; and
+(c) any military personnel or equipment intended to be introduced by it into Antarctica subject to the conditions prescribed in paragraph 2 of Article I of the present Treaty.

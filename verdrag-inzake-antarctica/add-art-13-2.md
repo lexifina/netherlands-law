@@ -1,0 +1,7 @@
+# Artikel XIII
+1. Dit Verdrag dient door de ondertekenende staten te worden bekrachtigd. Het staat open voor toetreding door iedere staat die lid is van de Verenigde Naties of door iedere andere staat die met instemming van alle Verdragsluitende Partijen welker vertegenwoordigers het recht hebben deel te nemen aan de in artikel IX van het Verdrag bedoelde vergaderingen wordt uitgenodigd tot het Verdrag toe te treden.
+2. De bekrachtiging van of de toetreding tot dit Verdrag geschiedt door iedere staat overeenkomstig zijn grondwettelijke procedure.
+3. De akten van bekrachtiging en de akten van toetreding worden nedergelegd bij de regering van de Verenigde Staten van Amerika, die hierbij als depot-regering wordt aangewezen.
+4. De depot-regering stelt alle ondertekenende en toetredende staten in kennis van het tijdstip van nederlegging van iedere akte van bekrachtiging of van toetreding, alsmede van het tijdstip waarop het Verdrag in werking treedt en iedere aangebrachte wijziging of ieder aangebracht amendement van dit Verdrag van kracht wordt.
+5. Zodra alle ondertekenende staten hun akten van bekrachtiging hebben nedergelegd treedt dit Verdrag voor die staten en voor de staten die hun akten van toetreding hebben nedergelegd, in werking. Daarna treedt het Verdrag voor iedere toetredende staat in werking op het tijdstip van nederlegging van zijn akte van toetreding.
+6. Dit Verdrag wordt door de depot-regering geregistreerd overeenkomstig artikel 102 van het Handvest der Verenigde Naties.

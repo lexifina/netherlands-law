@@ -1,0 +1,3 @@
+# Artikel V
+1. In Antarctica zijn kernontploffingen van welke aard ook, zomede het lozen of deponeren en vervolgens onbeheerd achterlaten van radioactieve afvalstoffen, verboden.
+2. Indien inzake het gebruik van kernenergie, met inbegrip van kernontploffingen, en het lozen of deponeren en vervolgens onbeheerd achterlaten van radioactieve afvalstoffen internationale overeenkomsten worden gesloten waarbij alle Verdragsluitende Partijen welker vertegenwoordigers zijn gerechtigd deel te nemen aan de in artikel IX bedoelde vergaderingen, partij zijn, worden in Antarctica de bij die overeenkomsten vastgestelde voorschriften toegepast.

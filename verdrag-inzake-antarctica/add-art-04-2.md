@@ -1,0 +1,6 @@
+# Artikel IV
+1. Geen bepaling van dit Verdrag mag worden uitgelegd als:
+(a) zou een der Verdragsluitende Partijen afstand doen van haar reeds eerder geldend gemaakte rechten of aanspraken op soevereiniteit in Antarctica;
+(b) zou een der Verdragsluitende Partijen geheel of gedeeltelijk afstand doen van de gronden waarop haar aanspraak op soevereiniteit in Antarctica berust, hetzij voortvloeiende uit haar eigen activiteiten of uit die van haar onderdanen in Antarctica, of anderszins;
+(c) een aantasting van het standpunt van enige Verdragsluitende Partij wat betreft de erkenning of de niet-erkenning door die Partij van het recht of de aanspraak, of de gronden waarop aanspraken zijn gebaseerd, van enige andere staat op territoriale soevereiniteit in Antarctica.
+2. Zolang dit Verdrag van kracht is levert geen enkele handeling of activiteit gronden op voor het doen gelden, ondersteunen of betwisten van aanspraken op territoriale soevereiniteit in Antarctica; evenmin worden hierdoor in Antarctica soevereiniteitsrechten geschapen. Zolang dit Verdrag van kracht is kunnen geen nieuwe aanspraken of uitbreidingen van reeds bestaande aanspraken op territoriale soevereiniteit in Antarctica geldend worden gemaakt.
