@@ -5,6 +5,7 @@
 ## Hoofdstuk 2. Verkeer tussen burgers en bestuursorganen
 ### Afdeling 2.1. Algemene bepalingen
 ### Afdeling 2.2. Gebruik van de taal in het bestuurlijk verkeer
+### Afdeling 2.3. Verkeer langs elektronische weg
 ## Hoofdstuk 3. Algemene bepalingen over besluiten
 ### Afdeling 3.1. Inleidende bepalingen
 ### Afdeling 3.2. Zorgvuldigheid en belangenafweging
