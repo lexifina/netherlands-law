@@ -1,0 +1,3 @@
+# Artikel II
+1. Ten aanzien van activiteiten, waarvoor instellingssubsidies zijn verleend voor de jaren 1997 tot en met 2000, worden de jaarrekening, bedoeld in artikel 33, eerste lid, onderdeel c, van het Bekostigingsbesluit cultuuruitingen, en het protocol, bedoeld in artikel 36, tweede lid, van dat besluit, ingediend met inachtneming van de regels die direct voorafgaand aan de inwerkingtreding van deze regeling golden.
+2. Voor projecten op het terrein van de leesbevordering, ten aanzien waarvan voor 1 januari 2001 projectsubsidie is verleend, wordt de aanvraag voor subsidievaststelling alsmede het verslag, bedoeld in artikel 15 van de Regeling subsidies en uitkeringen cultuuruitingen, ingediend bij de Stichting Lezen.
