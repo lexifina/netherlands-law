@@ -1,0 +1,2 @@
+# Artikel V
+Het bestuur der goederen, bosschen en renten, in de voorgaande artikelen vermeld en in het algemeen, van alle, welke uit stichtingen van Beurzen voortvloeijen, en, in het vervolg, mogten ontdekt worden, zal zoodra mogelijk, terug gegeven worden, aan degenen die bij de akten der stichting benoemd zijn. De beschikkingen dezer akten zullen in alle opzigten, zoo naauwkeurig doenlijk is, in acht genomen worden.
