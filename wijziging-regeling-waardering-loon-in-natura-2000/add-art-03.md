@@ -1,2 +1,0 @@
-# Artikel III
-De Regeling waardering loon in natura 2000, zoals die regeling luidde op de dag voorafgaand aan de inwerkingtreding van artikel I van deze regeling, blijft van toepassing op de persoon wiens recht op ziekengeld op grond van de Ziektewet, op uitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering respectievelijk op uitkering op grond van de Werkloosheidswet, is ontstaan voor de datum van inwerkingtreding van dat artikel, met betrekking tot dat recht.
