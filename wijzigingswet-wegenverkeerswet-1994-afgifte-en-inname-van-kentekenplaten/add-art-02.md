@@ -1,0 +1,3 @@
+# Artikel II
+1. Een op de dag vóór die van de inwerkingtreding van artikel 70a geldende goedkeuring of machtiging tot het aanbrengen van een keur- of waarmerk op kentekenplaten en de daarop op die dag van toepassing zijnde voorschriften, blijven tot een bij ministeriële regeling te bepalen tijdstip van kracht ten aanzien van bij die regeling aangewezen keur- of waarmerken.
+2. Ten aanzien van de productie en afgifte van kentekenplaten, geproduceerd met toepassing van het eerste lid, blijven de artikelen 70a tot en met 70h tot het in eerste lid bedoelde, bij ministeriële regeling te bepalen tijdstip buiten toepassing.
