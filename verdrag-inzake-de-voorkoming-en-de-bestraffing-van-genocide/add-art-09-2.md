@@ -1,0 +1,2 @@
+# Artikel IX
+Geschillen tussen de Verdragsluitende Partijen, de interpretatie, toepassing of tenuitvoerlegging van dit Verdrag betreffende, met inbegrip van de geschillen, welke betrekking hebben op de verantwoordelijkheid van een Staat voor genocide of enig ander in artikel III genoemd feit, worden, op verzoek van een der bij het geschil betrokken partijen, voorgelegd aan het Internationale Gerechtshof.
