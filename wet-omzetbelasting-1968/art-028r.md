@@ -5,3 +5,4 @@
 a. naam, postadres en elektronische adressen, met inbegrip van websites, van de ondernemer;
 b. het eventuele belastingnummer dat aan de ondernemer is verstrekt door zijn nationale belastingautoriteit;
 c. een verklaring dat de ondernemer niet reeds in de Gemeenschap is geïdentificeerd voor belastingheffing op grond van de Zesde Richtlijn.
+4. Indien degene die heeft gekozen voor Nederland als lid-staat van identificatie niet of niet langer voldoet aan de voorwaarden voor identificatie, wordt de identificatie door de inspecteur geweigerd respectievelijk beëindigd. De weigering of beëindiging geschiedt bij voor bezwaar vatbare beschikking.
