@@ -1,0 +1,5 @@
+# Article III
+1. Les avoirs au crédit des comptes francs belges, francs luxembourgeois et florins néerlandais prévus à l'article II, seront librement convertibles en l'une de ces monnaies.
+2. Les avoirs au crédit de ces comptes francs belges et francs luxembourgeois seront convertibles sur le marché des changes en Union Economique Belgo-Luxembourgeoise et librement transférables entre résidents de pays compris dans la Zone convertible du franc belge, en conformité avec la réglementation des changes en vigueur dans la Zone monétaire belge.
+3. Les avoirs au crédit de ces comptes florins néerlandais seront convertibles sur le marché des changes aux Pays-Bas et librement transférables entre résidents de pays compris dans la Zone convertible du florin néerlandais, en conformité avec la réglementation des changes en vigueur dans la Zone monétaire néerlandaise.
+4. Les dispositions de la réglementation des changes en vigueur dans la Zone monétaire belge et dans la Zone monétaire néerlandaise, relatives aux comptes convertibles, seront régulièrement communiquées à la Banque Roumaine pour le Commerce Extérieur.
