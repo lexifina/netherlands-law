@@ -1,0 +1,2 @@
+# II. Ad artikel 3
+Het is wel verstaan dat de uitdrukkingen „Nederland" of „Litouwen" de exclusieve economische zone omvatten waarbinnen Nederland of Litouwen, naar gelang van het geval, soevereine rechten mogen uitoefenen in overeenstemming met hun nationale recht en het internationale recht, indien Nederland of Litouwen in hun wetgeving zulk een zone hebben aangemerkt of zullen aanmerken en daarbinnen heffingsrechten uitoefenen of zullen uitoefenen.

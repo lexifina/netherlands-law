@@ -1,0 +1,2 @@
+# II. Ad Article 3
+lt is understood that the term "the Netherlands" or "Lithuania", as the case may be, shall include the exclusive economic zone within which the Netherlands or Lithuania may exercise sovereign rights in accordance with their domestic law and international law, if the Netherlands or Lithuania under their law have designated or will designate such a zone and exercise or will exercise taxation rights therein.
