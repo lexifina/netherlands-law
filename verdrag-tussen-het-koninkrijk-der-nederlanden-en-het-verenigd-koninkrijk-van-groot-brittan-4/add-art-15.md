@@ -1,0 +1,2 @@
+# ARTIKEL XV
+Al de in beslag genomen goederen, welke zich op het oogenblik zijner aanhouding in het bezit van den uit te leveren persoon bevonden, zullen, indien de bevoegde overheid van den Staat, aan welken de uitlevering wordt aangevraagd, de overgave daarvan bevolen heeft, worden overgegeven op het oogenblik, waarop de uitlevering plaats heeft, en die overgave zal zich uitstrekken niet alleen tot de door misdrijf verkregen voorwerpen, maar tot alles wat tot bewijs van het misdrijf kan dienen.

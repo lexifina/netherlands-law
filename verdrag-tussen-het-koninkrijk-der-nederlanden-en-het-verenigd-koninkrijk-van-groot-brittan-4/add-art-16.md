@@ -1,0 +1,4 @@
+# ARTIKEL XVI
+De beide Regeeringen doen over en weer afstand van alle terugvordering van kosten, door haar gemaakt voor de aanhouding, gevangenhouding en het transport van den uit te leveren persoon, en van alle andere kosten, welke mochten worden gemaakt binnen de grenzen van haar respectievelijk grondgebied, totdat de uit te leveren persoon aan boord is gebracht, benevens van de kosten, veroorzaakt door het over en weer zenden van al de in beslag genomen voorwerpen en van papieren, inhoudende het bewijs van het misdrijf, of van andere bescheiden. Zij stemmen er wederkeerig in toe al die kosten zelve te dragen.
+De bovenbedoelde bepalingen zijn echter niet van toepassing bij de uitlevering naar en uit Canada. Met betrekking tot deze kolonie zullen alle kosten worden gedragen door den Staat, welke de uitlevering aanvraagt.
+De uit te leveren persoon zal worden gezonden naar de haven, welke de diplomatieke of consulaire agent van den aanvragenden Staat aanwijst.

@@ -1,0 +1,7 @@
+# ARTIKEL XVIII
+De bepalingen van het tegenwoordige verdrag zullen van toepassing zijn op de koloniën en overzeesche bezittingen der beide Hooge Contracteerende Partijen, doch, daar zij gegrond zijn op de wetgeving van het moederland, zullen zij van weerszijden slechts worden nagekomen voor zoover zij vereenigbaar zijn met de wetten in die koloniën of bezittingen van kracht.
+De aanvrage tot uitlevering van een misdadiger die de wijk heeft genomen naar eene kolonie of overzeesche bezitting van een der Contracteerende Partijen, kan ook rechtstreeks worden gedaan aan den gouverneur of ander hoofd van die kolonie of bezitting door den gouverneur of ander hoofd van eene kolonie of bezitting van de andere Contracteerende Partij, wanneer de twee koloniën of overzeesche bezittingen zijn gelegen in Azië, Australië, (daaronder begrepen Nieuw-Zeeland en Tasmania) den Stillen en den Indischen Oceaan, of Zuid- of Oost-Afrika.
+Dezelfde regel zal worden toegepast wanneer de beide koloniën of overzeesche bezittingen zijn gelegen in Amerika (daaronder begrepen de West-Indische eilanden).
+De bedoelde Gouverneurs of andere hoofden zullen de bevoegdheid hebben hetzij de uitlevering toe te staan, hetzij de zaak ter beslissing over te brengen aan hunne Regeering.
+In alle andere gevallen zal de aanvrage tot uitlevering langs diplomatieken weg geschieden.
+De termijn voor voorloopige aanhouding, vastgesteld in artikel X, zal, voor de toepassing van dit artikel, worden gesteld op zestig dagen.

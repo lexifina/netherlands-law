@@ -1,0 +1,2 @@
+# ARTIKEL XVII
+Wanneer het in een bij eenig hof of rechtbank van een der beide landen aanhangige strafzaak wenschelijk geoordeeld wordt een getuige in het andere land te hooren, zal zoodanig verhoor plaats hebben voor de rechterlijke overheid, overeenkomstig de wet, ten deze van kracht in het land, waar de getuige zich bevindt; en de kosten ten gevolge van zoodanig verhoor gemaakt, zullen worden gedragen door het land waar dit heeft plaats gehad.
