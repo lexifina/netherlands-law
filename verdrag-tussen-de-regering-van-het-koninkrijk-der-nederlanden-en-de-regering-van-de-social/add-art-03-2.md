@@ -1,0 +1,2 @@
+# III. Ad artikel 3, eerste lid, onderdeel c
+Het is wel te verstaan dat de uitdrukking „Nederland" de exclusieve economische zone omvat waarbinnen Nederland soevereine rechten mag uitoefenen in overeenstemming met zijn nationale recht en het internationale recht, indien Nederland in zijn wetgeving zulk een zone heeft aangemerkt of zal aanmerken en daarbinnen heffingsrechten uitoefent of zal uitoefenen.

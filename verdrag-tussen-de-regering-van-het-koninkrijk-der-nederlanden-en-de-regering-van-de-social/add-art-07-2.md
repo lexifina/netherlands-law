@@ -1,0 +1,2 @@
+# VII. Ad artikel 10, tweede lid
+Niettegenstaande de bepalingen van artikel 10, tweede lid, onderdeel b, zal, zolang een lichaam dat inwoner is van Nederland, op grond van de Wet op de vennootschapsbelasting en toekomstige wijzigingen daarvan, niet aan de Nederlandse vennootschapsbelasting wordt onderworpen ter zake van dividenden ontvangen van een lichaam dat inwoner is van Vietnam, het percentage dat genoemd is in dat onderdeel worden verlaagd tot 7 percent van het bruto-bedrag van de dividenden.

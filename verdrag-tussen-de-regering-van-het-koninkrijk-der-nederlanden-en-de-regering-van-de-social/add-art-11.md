@@ -1,0 +1,2 @@
+# XI. Ad Article 16
+It is understood that in the case of the Netherlands the term "member of the board of directors" of a Netherlands company includes in any case a "bestuurder" or "commissaris". These persons are nominated as such by the general meeting of shareholders or by any other competent body of such company and are charged with the general management of the company and the supervision thereof, respectively.

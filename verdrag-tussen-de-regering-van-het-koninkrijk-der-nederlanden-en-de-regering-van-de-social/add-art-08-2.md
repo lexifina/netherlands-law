@@ -1,0 +1,3 @@
+# VIII. Ad artikel 11, tweede lid
+1. Niettegenstaande de bepalingen van artikel 11, tweede lid, wordt, zolang Nederland, op grond van de bepalingen van de Nederlandse belastingwetten en toekomstige wijzigingen daarvan, geen bronbelasting heft op interest betaald aan een inwoner van Vietnam, het percentage als bedoeld in dit lid worden verlaagd tot 7 percent van het bruto-bedrag van de interest.
+2. Indien Vietnam na 1 juli 1993 een Verdrag ter voorkoming van dubbele belasting ondertekent met een Lid-Staat van de Organisatie voor Economische Samenwerking en Ontwikkeling, dat voorziet in een lager tarief (daaronder begrepen een nultarief) voor interest, dan geldt dit lagere tarief voor inwoners van Nederland.

@@ -1,0 +1,2 @@
+# XI. Ad Artikel 16
+Het is wel te verstaan dat, in geval van Nederland, de uitdrukking „lid van de raad van beheer" in elk geval een bestuurder of commissaris omvat. Deze personen zijn als zodanig benoemd door de algemene vergadering van aandeelhouders of door enig ander bevoegd orgaan van het lichaam en zijn belast met de algemene leiding van het lichaam, onderscheidenlijk met het toezicht daarop.

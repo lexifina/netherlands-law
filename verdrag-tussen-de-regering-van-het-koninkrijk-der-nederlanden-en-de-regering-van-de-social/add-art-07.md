@@ -1,0 +1,2 @@
+# VII. Ad Article 10, paragraph 2
+Notwithstanding the provisions of subparagraph (b) of paragraph 2 of Article 10, as long as, under the provisions of the Netherlands Company Tax Act and to the future amendments thereto, a company which is a resident of the Netherlands is not charged to Netherlands company tax with respect to dividends the company receives from a company which is a resident of Vietnam the percentage provided for in this subparagraph shall be reduced to 7 per cent of the gross amount of the dividends.

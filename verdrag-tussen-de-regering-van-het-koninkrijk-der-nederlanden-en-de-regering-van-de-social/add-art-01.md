@@ -1,0 +1,2 @@
+# I. Ad Article 1
+It is understood that for the purposes of this Agreement a pension fund recognized as such in one of the Contracting States and of which the income is generally exempt from tax in that State, shall be regarded as resident of that State. As such pension fund shall be regarded, in the case of Vietnam, any pension fund recognized and controlled according to statutory provisions and in the case of the Netherlands, any pension fund recognized and controlled according to statutory provisions.
