@@ -1,0 +1,5 @@
+# Artikel I
+Beide Regeringen zullen, steeds als dit zonder al te grote beperking of belemmering van de defensieproductie uitvoerbaar is, het gebruik van octrooirechten bevorderen en het doorgeven en het gebruik van technische inlichtingen in particulier bezit, als omschreven in Artikel VIII, voor defensiedoeleinden aanmoedigen:
+a) door middel van bestaande handelsrelaties tussen de eigenaar van die octrooirechten en van die technische inlichtingen en diegenen in het andere land, die het recht hebben die octrooirechten en technische inlichtingen te gebruiken, en
+b) bij ontbreken van bestaande relaties, door middel van het tot stand brengen van dergelijke relaties door de eigenaar en de toekomstige gebruiker in het andere land,
+mits, in het geval van gerubriceerde inlichtingen, dergelijke regelingen door de wetten en veiligheidseisen van beide landen zijn toegelaten en mits de bepalingen van alle zodanige regelingen onderworpen zullen blijven aan de toepasselijke wetten van beide landen.
