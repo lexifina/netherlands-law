@@ -1,0 +1,2 @@
+# Artikel VI
+Onze Minister van Justitie stelt de nummering en plaats van invoeging van de artikelen, afdelingen en titels, die bij deze wet in de Boeken 3, 6 en 8 van het nieuw Burgerlijk Wetboek worden ingevoegd, opnieuw vast en brengt de in deze wet voorkomende aanhalingen van artikelen, afdelingen en titels in overeenstemming met die nummering en met de nummering die op het tijdstip van het in werking treden van deze wet voor de Boeken 3, 6 en 8 van dat wetboek is vastgesteld.
