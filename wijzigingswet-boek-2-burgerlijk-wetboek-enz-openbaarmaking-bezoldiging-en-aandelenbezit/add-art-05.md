@@ -1,0 +1,2 @@
+# ARTIKEL V
+Iedere bestuurder en commissaris van een vennootschap die op het tijdstip van inwerkingtreding van deze wet beschikt over aandelen in het kapitaal van de vennootschap of in het kapitaal van met de vennootschap gelieerde vennootschappen, dan wel over stemmen die op het geplaatste kapitaal van de vennootschap en op het geplaatste kapitaal van met de vennootschap gelieerde vennootschappen kunnen worden uitgebracht, doet hiervan binnen vier weken na het tijdstip van inwerkingtreding van deze wet melding aan de vennootschap en aan Onze Minister.
