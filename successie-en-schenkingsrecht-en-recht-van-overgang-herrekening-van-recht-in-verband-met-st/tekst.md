@@ -1,0 +1,13 @@
+# Tekst
+De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
+## 1 Inleiding
+Indien een onder de Natuurschoonwet 1928 (NSW) gerangschikt landgoed krachtens erfrecht of schenking wordt verkregen blijft invordering van successie- of schenkingsrecht of recht van overgang op grond van artikel 7 van de NSW geheel of gedeeltelijk achterwege.
+Binnen een tijdvak van 25 jaren na het overlijden of de schenking kan alsnog de op grond van voormeld artikel 7 buiten invordering gebleven belasting, geheel of gedeeltelijk worden ingevorderd. Dit doet zich voor na statusverlies van (een gedeelte van) het landgoed. Het alsnog invorderen is geregeld in artikel 8 van de NSW.
+Indien het gehele landgoed zijn status als landgoed heeft verloren is de herrekening van het successie- of schenkingsrecht eenvoudig. Het gehele buiten invordering gebleven bedrag wordt dan alsnog ingevorderd.
+Bij een gedeeltelijk statusverlies dient volgens artikel 8, tweede lid, van de NSW het recht als volgt te worden herrekend. Het gedeelte van het landgoed dat zijn NSW-status heeft behouden wordt herrekend naar de bestemmingswaarde op het tijdstip waarop het statusverlies plaatsvond. Het gedeelte van het landgoed dat zijn NSW-status heeft verloren wordt herrekend naar de waarde in het economische verkeer eveneens op het tijdstip waarop het statusverlies plaatsvond. De som van beide waarden wordt begrensd door de waarde in het economische verkeer van het gehele landgoed ten tijde van het overlijden of de schenking. De herrekening leidt niet tot teruggaaf.
+Door de waardestijging van het landgoed kan toepassing van artikel 8 van de NSW bij statusverlies van een relatief klein gedeelte van het landgoed ertoe leiden dat het gehele buiten invordering gebleven bedrag alsnog wordt ingevorderd.
+## 2 Goedkeuring
+Het zevende lid van artikel 8 geeft mij de bevoegdheid om in bijzondere gevallen te beslissen dat de bepalingen van artikel 8 buiten toepassing blijven.
+In het hiervoor bedoelde geval van gedeeltelijk statusverlies kan op verzoek worden goedgekeurd dat de invordering wordt beperkt tot het verschil tussen het recht verschuldigd over de waarde in het economische verkeer en het recht verschuldigd over de bestemmingswaarde, beide waarden per datum overlijden of datum schenking, van het gedeelte waarop het statusverlies betrekking heeft.
+## 3 Mandatering
+De hiervoor bedoelde goedkeuring mandateer ik aan de Belastingdienst Oost-Brabant/kantoor 's-Hertogenbosch. Dit ligt in de rede omdat dit kantoor ook al is gemandateerd om de gemeenschappelijke beschikkingen waarbij landgoederen onder de NSW worden gerangschikt – samen met het ministerie van Landbouw, Natuur en Voedselkwaliteit – af te geven.
