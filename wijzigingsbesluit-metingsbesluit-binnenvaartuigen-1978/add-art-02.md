@@ -1,0 +1,2 @@
+# Artikel II
+Ten aanzien van een binnenvaartuig waarvan het vlak van de grootste toegelaten diepgang bij de laatste meting is vastgesteld volgens artikel 5 van het Metingsbesluit Binnenvaartuigen 1978 zoals dit luidde voor de inwerkingtreding van dit besluit, kan bij hermeting het vlak van de grootste toegelaten diepgang op verzoek van de belanghebbende worden vastgesteld met toepassing van dat vervallen artikel 5, mits het vaartuig sinds de laatste meting geen verbouwing heeft ondergaan die van invloed kan zijn op de vaststelling van dat vlak.
