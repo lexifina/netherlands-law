@@ -1,0 +1,2 @@
+# Article IX
+Any Party may cease to be a party to this Agreement one year after its notice of denunciation has been given to the Government of the United States of America, which will inform the other signatory Governments and the Secretary General of the North Atlantic Treaty Organization of the deposit of each notice of denunciation. Denunciation shall not, however, effect obligations already contracted and the rights or prerogatives previously acquired by Parties under the provisions of this Agreement.

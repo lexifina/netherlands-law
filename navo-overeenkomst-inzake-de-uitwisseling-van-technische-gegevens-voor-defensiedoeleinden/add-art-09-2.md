@@ -1,0 +1,2 @@
+# Artikel IX
+Elke Partij kan ophouden partij bij deze Overeenkomst te zijn een jaar nadat zij kennisgeving van opzegging heeft gedaan aan de Regering van de Verenigde Staten van Amerika, die de andere ondertekenende Regeringen en de Secretaris-Generaal van de Noord-Atlantische Verdragsorganisatie de nederlegging van elke kennisgeving van opzegging mededeelt. De opzegging tast echter de door Partijen uit hoofde van de bepalingen van deze Overeenkomst reeds aangegane verplichtingen en verkregen rechten of voorrechten niet aan.
