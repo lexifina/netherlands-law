@@ -1,0 +1,2 @@
+# Artikel VII. Heffingen voor het gebruik van luchthavens en voorzieningen
+Elk der Verdragsluitende Partijen kan voor het gebruik van luchthavens en andere voorzieningen billijke en redelijke heffingen opleggen of toestaan dat deze worden opgelegd. Elk der Verdragsluitende Partijen stemt er evenwel mee in dat bedoelde heffingen niet hoger mogen zijn dan die welke hun eigen luchtvaartuigen, in gebruik op soortgelijke internationale luchtdiensten, betalen voor het gebruik van dergelijke luchthavens en voorzieningen.

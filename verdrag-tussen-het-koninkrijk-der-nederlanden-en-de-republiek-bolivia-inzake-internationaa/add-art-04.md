@@ -1,0 +1,6 @@
+# Artikel IV. Intrekking, opschorting of beperking van exploitatievergunningen
+1. Elke Verdragsluitende Partij behoudt zich het recht voor de aan een door de andere Verdragsluitende Partij aangewezen luchtvaartmaatschappij verleende exploitatievergunning in te trekken, of om de uitoefening door bedoelde maatschappij van de in artikel II van dit Verdrag omschreven rechten op te schorten of voorwaarden te stellen die zij noodzakelijk acht voor het uitoefenen van bedoelde rechten:
+a. wanneer zij er niet van overtuigd is dat een substantieel deel van de eigendom van en het daadwerkelijk toezicht op die maatschappij in handen is van de Verdragsluitende Partij die de maatschappij aanwijst of in handen van haar onderdanen;
+b. wanneer een maatschappij de wetten of voorschriften van de Verdragsluitende Partij die deze exclusieve rechten verleent niet nakomt; of,
+c. wanneer de luchtvaartmaatschappij in gebreke blijft de overeengekomen luchtdiensten te exploiteren in overeenstemming met de in dit Verdrag en de Bijlage daarbij vastgelegde voorwaarden.
+2. Tenzij de in het eerste lid van dit artikel voorziene intrekking, opschorting of het met onmiddellijke ingang opleggen van voorwaarden van wezenlijk belang is ter voorkoming van verdere inbreuken op de wetten en voorschriften, wordt dit recht slechts na overleg met de andere Verdragsluitende Partij uitgeoefend.
