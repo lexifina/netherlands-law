@@ -1,0 +1,6 @@
+# Artikel I
+De bijlage, bedoeld in artikel 32, eerste lid, artikel 33, en artikel 40, eerste lid, van de Beschikking beheersovereenkomsten 1983, wordt voor het begrotingsjaar 2002 als volgt vastgesteld:
+Bijlage behorende bij de Beschikking beheersovereenkomsten 1983, als bedoeld in de artikelen 32, eerste lid, 33, en 40, eerste lid, van die beschikking.
+A. Het bedrag, bedoeld in artikel 32, eerste lid, van de Beschikking beheersovereenkomsten 1983, dat met betrekking tot het verschil van de productieniveaus van 1 hectare grasland, uitgedrukt in kilo voedereenheden melk, bij de bepaling van de beheersvergoeding in aanmerking wordt genomen, bedraagt voor het jaar 2002: € 18,63 per honderd kilo voedereenheid melk.
+B. Het bedrag, bedoeld in artikel 33 van de Beschikking beheersovereenkomsten 1983, dat met betrekking tot de toename van de arbeidsaanspraken per hectare bij de bepaling van de beheersvergoeding in aanmerking wordt genomen, bedraagt voor het jaar 2002: € 18,39 per arbeidsuur.
+C. Het bedrag, bedoeld in artikel 40, eerste lid, van de Beschikking beheersovereenkomsten 1983, dat voor de op termijn aanpasbare genormeerde vaste kosten per honderd kilo voedereenheid melk bij de bepaling van de aanpassingsvergoeding in aanmerking wordt genomen, bedraagt voor het jaar 2002: € 22,97.
