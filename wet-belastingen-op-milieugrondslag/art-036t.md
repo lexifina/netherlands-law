@@ -1,0 +1,7 @@
+# Artikel 36t
+1. Op de belasting die is verschuldigd ter zake van de levering van elektriciteit wordt een vermindering toegepast voor zover in die levering elektriciteit is begrepen die is opgewekt door middel van een installatie voor warmtekrachtkoppeling.
+2. De vermindering bedraagt de ter zake van de levering van de elektriciteit, bedoeld in het eerste lid, verschuldigde belasting en is slechts van toepassing voor zover wordt aangetoond dat het bedrag van de vermindering wordt doorgegeven aan degene die de elektriciteit op de in het eerste lid bedoelde wijze heeft opgewekt. Voor de berekening van de verschuldigde belasting, bedoeld in de eerste volzin, wordt een tarief in aanmerking genomen van € 0,0057 per kWh.
+3. De in het eerste lid bedoelde vermindering is van toepassing indien de warmte, die afkomstig is uit de installatie voor warmtekrachtkoppeling, in Nederland is geleverd.
+4. Voor de berekening van de vermindering wordt de netto aan het elektriciteitsnet geleverde elektriciteit in aanmerking genomen met een maximum van 1000 GWh per installatie voor warmtekrachtkoppeling per jaar.
+5. Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur kunnen nadere regels worden gesteld voor de toepassing van de in het eerste lid bedoelde regeling, indien voor een installatie voor warmtekrachtkoppeling een andere brandstof wordt gebruikt dan aardgas.
+6. Artikel 36o, derde, vijfde en zesde lid, is van overeenkomstige toepassing.

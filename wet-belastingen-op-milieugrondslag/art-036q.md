@@ -1,0 +1,2 @@
+# Artikel 36q
+Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur kan worden voorzien in een regeling op grond waarvan, onder daarbij te stellen voorwaarden en beperkingen, op verzoek geheel of gedeeltelijke teruggaaf van de belasting wordt verleend aan verbruikers, die in het kader van met Onze Ministers gemaakte afspraken verplichtingen op zich hebben genomen ter verbetering van de energie-efficiency.

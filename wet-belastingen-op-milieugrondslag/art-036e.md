@@ -1,0 +1,6 @@
+# Artikel 36e
+1. Met betrekking tot halfzware olie, gasolie en vloeibaar gemaakt petroleumgas, wordt de belasting geheven van degene die ter zake accijns verschuldigd is of zou zijn, indien van die brandstoffen accijns zou worden geheven.
+2. Met betrekking tot aardgas en elektriciteit wordt de belasting geheven van degene die de levering verricht.
+3. In afwijking van het tweede lid wordt bij toepassing van artikel 36c, vijfde lid, de belasting geheven van de verbruiker.
+4. In afwijking van het tweede lid wordt de belasting geheven van de verbruiker indien degene die de levering aan de verbruiker verricht, niet in Nederland is gevestigd en aldaar geen vaste inrichting heeft van waaruit de levering wordt verricht.
+5. Indien in een verbruiksperiode van 12 maanden ten aanzien van de verbruiker, bedoeld in het derde en vierde lid, zowel sprake is van door hem op grond van het derde onderscheidenlijk vierde lid verschuldigde belasting als van aan hem in rekening gebrachte belasting ter zake van aan hem geleverde hoeveelheden aardgas of elektriciteit, wordt in totaal niet meer belasting geheven dan de belasting die zou zijn verschuldigd indien de totale hoeveelheid aardgas of elektriciteit was betrokken van één leverancier, met dien verstande dat de belasting primair is verschuldigd op grond van het tweede lid.
