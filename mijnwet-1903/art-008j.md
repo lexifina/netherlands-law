@@ -1,0 +1,2 @@
+# Artikel 8j
+Een beschikking tot verlening van een concessie treedt eerst in werking nadat de houder aan Onze Minister schriftelijk heeft doen blijken dat hij de concessie met de beperkingen en voorschriften zonder voorbehoud aanvaardt en de daarin voorgeschreven zekerheid heeft gesteld. Dit kan slechts tot uiterlijk vier weken nadat de beschikking onherroepelijk is geworden. Is dit niet geschied vóór dat tijdstip, dan vervalt de beschikking.
