@@ -1,0 +1,3 @@
+# Article VII
+Lorsque les obligations découlant du Traité instituant la Communauté Economique Européenne et relatives à l'instauration progressive d'une politique commerciale commune le rendront nécessaire, des négociations seront ouvertes dans le plus bref délai possible afin d'apporter au présent Accord toutes modifications utiles.
+De même au cas où les obligations découlant des engagements qui auraient été contractés par le Maroc dans le cadre d'une union économique ou d'une zone de libre échange le rendraient nécessaire, des négociations seraient entamées dans le plus court délai afin d'insérer dans le présent Accord les modifications qui pourraient s'avérer nécessaires.
