@@ -1,0 +1,4 @@
+# Artikel 6septies
+1) Indien de agent of de vertegenwoordiger van de houder van een merk in een der landen van de Unie, zonder de toestemming van deze houder de inschrijving van dat merk op eigen naam in één of meer van die landen vraagt, zal de houder het recht hebben om zich te verzetten tegen de gevraagde inschrijving, of om de doorhaling te vorderen, ofwel, indien de wet van het land dit toestaat, om de overdracht van de inschrijving te zijnen behoeve te vorderen, tenzij de agent of vertegenwoordiger zijn handelingen rechtvaardigt.
+2) De merkhouder heeft, onder voorbehoud van het bepaalde in het eerste lid, het recht zich te verzetten tegen het gebruik van zijn merk door zijn agent of vertegenwoordiger, indien hij met dit gebruik niet heeft ingestemd.
+3) De nationale wetgevingen hebben de bevoegdheid te voorzien in een redelijke termijn, waarbinnen de merkhouder zijn in dit artikel voorziene rechten zal moeten uitoefenen.
