@@ -1,4 +1,4 @@
 # Artikel 240b
-1. Met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie wordt gestraft degene die een afbeelding - of een gegevensdrager, bevattende een afbeelding - van een seksuele gedraging, waarbij iemand die kennelijk de leeftijd van zestien jaar nog niet heeft bereikt, is betrokken, verspreidt, openlijk tentoonstelt, vervaardigt, invoert, doorvoert, uitvoert of in voorraad heeft.
-2. Niet strafbaar is degene, die een dergelijke afbeelding in voorraad heeft waarvan vaststaat dat hij deze voor een wetenschappelijk, educatief of therapeutisch doel gebruikt.
+1. Met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie wordt gestraft degene die een afbeelding - of een gegevensdrager, bevattende een afbeelding - van een seksuele gedraging, waarbij iemand die kennelijk de leeftijd van achttien jaar nog niet heeft bereikt, is betrokken of schijnbaar is betrokken, verspreidt, openlijk tentoonstelt, vervaardigt, invoert, doorvoert, uitvoert of in bezit heeft.
+2. [Vervallen.]
 3. Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie wordt gestraft degene die van het plegen van een van de misdrijven, omschreven in het eerste lid, een beroep of een gewoonte maakt.
