@@ -1,0 +1,3 @@
+# Artikel III
+1. Onze Minister kan verenigingen aanwijzen op wie artikel 6a, eerste lid, vierde zin, en vierde lid, van de Pensioen- en spaarfondsenwet, zoals dat artikel luidt na inwerkingtreding van deze wet, tot 1 januari 2001 niet van toepassing zijn.
+2. Met betrekking tot op het tijdstip van inwerkingtreding van deze wet bestaande deelnemersraden als bedoeld in artikel 6a, eerste en tweede lid, van de Pensioen- en spaarfondsenwet, zoals dat luidde op de dag voor de inwerkingtreding van deze wet, moeten de statuten en reglementen van een fonds binnen vijf jaren na dat tijdstip voldoen aan dat artikel.
