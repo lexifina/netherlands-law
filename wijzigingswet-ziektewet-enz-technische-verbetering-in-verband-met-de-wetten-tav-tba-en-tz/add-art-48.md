@@ -1,0 +1,2 @@
+# Artikel XLVIII
+Indien het bij koninklijke boodschap van 6 juni 1995 ingediende voorstel van Wet houdende privatisering van het Algemeen burgerlijk pensioenfonds (Wet privatisering ABP; 24 205) tot wet wordt verheven en eerder of gelijktijdig met artikel XXII of XXIII van deze wet in werking treedt, wordt dat artikel of worden die artikelen voor de toepassing van eerstbedoelde wet beschouwd in werking te zijn getreden voor die wet.
