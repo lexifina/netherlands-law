@@ -1,4 +1,0 @@
-# Inhoud
-## Stofbeperking
-## Probleemstellingen
-## Exameneisen
