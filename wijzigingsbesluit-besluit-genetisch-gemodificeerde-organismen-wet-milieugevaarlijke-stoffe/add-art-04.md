@@ -1,0 +1,2 @@
+# Artikel IV
+Een vergunning voor handelingen met genetisch gemodificeerde organismen buiten een afgesloten ruimte, installatie of apparatuur als bedoeld in artikel 2, tweede lid, onderdeel a, van het Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen, die voor 1 augustus 1992 is verleend overeenkomstig de procedure geregeld in hoofdstuk 3 van de Wet algemene bepalingen milieuhygiëne (Stb. 1988, 133), wordt gelijkgesteld met een vergunning krachtens artikel 2, eerste lid, van dat besluit.
