@@ -1,0 +1,2 @@
+# Artikel II
+Gemeenten die zich overeenkomstig artikel 5a van de Regeling extra werkgelegenheid langdurig werklozen 1996 en 1997, zoals die regeling luidde tot inwerkingtreding van deze regeling, bereid hebben verklaard de bij die regeling in bijlage V aangegeven aantallen arbeidsplaatsen te realiseren, ontvangen vóór 1 februari 1998 een voorschot van ten minste 75% op de te verstrekken bijdragen.
