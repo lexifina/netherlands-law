@@ -1,0 +1,3 @@
+# Artikel IV
+1. Gedurende een jaar na inwerkingtreding van artikel I, onderdeel G, blijft KIWA Inspecties BV, gevestigd te Rijswijk, gerechtigd de in het Besluit tankstations milieubeheer onderscheidenlijk het Besluit opslaan in ondergrondse tanks 1998 voorgeschreven inspecties uit te voeren met toepassing van het bepaalde bij en krachtens dit besluit, zoals dit luidde voor bedoeld tijdstip.
+2. Een met toepassing van het eerste lid uitgevoerde inspectie wordt voor de toepassing van het Besluit tankstations milieubeheer gelijkgesteld met een inspectie, uitgevoerd volgens het bepaalde bij en krachtens dat besluit.
