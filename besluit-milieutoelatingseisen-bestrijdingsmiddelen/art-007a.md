@@ -1,0 +1,2 @@
+# Artikel 7a
+Het gewasbeschermingsmiddel en elk van zijn omzettingsproducten voldoen aan de criteria genoemd in deel C, punt 2.5.1.3 en, onverminderd artikel 4, aan punt 2.5.2 van richtlijn nr. 97/57/EG van de Raad van de Europese Unie van 22 september 1997 tot vaststelling van bijlage VI bij richtlijn 91/414/EEG betreffende het op de markt brengen van gewasbeschermingsmiddelen (PbEG L 227), zoals verwerkt in het Besluit uniforme beginselen gewasbeschermingsmiddelen.
