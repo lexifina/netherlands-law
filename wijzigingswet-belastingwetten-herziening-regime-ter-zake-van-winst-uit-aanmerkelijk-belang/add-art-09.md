@@ -1,0 +1,2 @@
+# ARTIKEL IX
+[Wijzigt de Wijzigingswet van 24 december 1993 van belastingwetten (verhoging van de ondernemingsvrijstelling, wijziging teruggaafregeling inzake beperking van de gezamenlijke druk van inkomstenbelasting en vermogensbelasting, verhoging van de belastingvrije sommen en vrijstelling van natuurschoonwetlandgoederen in de vermogensbelasting, wijziging loon- en inkomstenbelasting ivm uitstel van loon, alsmede wijziging van de fictief-rendementsregeling in de inkomstenbelasting (Stb. 733).]

@@ -1,0 +1,2 @@
+# ARTIKEL XIV
+Onze Minister van Financiën zal de Staten-Generaal zo spoedig mogelijk, doch in ieder geval vóór 1 juli 1997 en vervolgens vóór 1 juli 1998, alsmede vóór 1 juli 1999, op de hoogte brengen van meeropbrengsten van structurele aard indien deze zich bij de dividendbelasting of de inkomstenbelasting voordoen als gevolg van de invoering van het gewijzigde regime voor winst uit aanmerkelijk belang.
