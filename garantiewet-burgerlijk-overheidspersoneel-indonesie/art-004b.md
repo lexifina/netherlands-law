@@ -1,0 +1,2 @@
+# Artikel 4b
+In de gevallen, waarin in de op 5 Augustus 1949 van kracht zijnde regelingen aan de Kroon of aan de Gouverneur-Generaal de bevoegdheid was voorbehouden om ter aanvulling of in afwijking van die regelingen beslissingen te nemen of bijzondere voorzieningen te treffen, worden deze bevoegdheden, behoudens het bepaalde in artikel 4a, lid 5, voor de toepassing van deze wet uitgeoefend door Onze Minister in overeenstemming met Onze Minister van Financiën.
