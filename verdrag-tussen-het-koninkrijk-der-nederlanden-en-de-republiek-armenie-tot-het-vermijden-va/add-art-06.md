@@ -1,0 +1,2 @@
+# VI. Ad Article 5
+For the purposes of subparagraphs a and b of paragraph 4, it is understood that the term "delivery" means the mere transfer of goods, and for the purposes of subparagraphs e and f of paragraph 4, it is understood that the mere facilitation of the conclusion (including the mere signing) of contracts concerning loans, concerning the delivery of goods or merchandise or concerning technical services shall be considered as an activity of a preparatory or auxiliary character.

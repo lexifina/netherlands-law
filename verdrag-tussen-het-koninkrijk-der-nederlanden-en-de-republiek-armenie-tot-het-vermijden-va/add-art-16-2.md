@@ -1,0 +1,2 @@
+# XVI. Ad artikel 24
+Het is wel verstaan dat voor de berekening van de vermindering vermeld in artikel 24 (Vermijding van dubbele belasting), derde lid, de waarde van de in artikel 23 (Vermogen), eerste lid, bedoelde vermogensbestanddelen wordt verminderd met de waarde van de schulden verzekerd door hypotheek op dat vermogen en de waarde van de in artikel 23 (Vermogen), tweede lid, bedoelde vermogensbestanddelen wordt verminderd met de waarde van de tot de vaste inrichting of het vaste middelpunt behorende schulden.

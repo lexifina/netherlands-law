@@ -1,0 +1,2 @@
+# IV. Ad Articles 1 and 4
+It is understood that for the purposes of this Convention a Contracting State, its political subdivisions or local authorities thereof, an instrumentality of that State, political subdivision or authority as well as a pension fund recognized as such in a Contracting State and of which the income is generally exempt from tax in that State, shall be regarded as resident of that State. As recognized pension fund shall be regarded any pension fund recognized and controlled according to statutory provisions.
