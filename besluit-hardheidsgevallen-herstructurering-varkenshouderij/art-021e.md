@@ -1,0 +1,2 @@
+# Artikel 21e
+Het varkensrecht en het fokzeugenrecht van een daartoe aangemeld bedrijf worden bepaald overeenkomstig deze paragraaf, indien ten aanzien van het bedrijf de mestproductie afkomstig van varkens in 1994, 1995 en 1996 gemiddeld ten minste 25% en in 1996 ten minste 5% was van de som van het niet-gebonden mestproductierecht voor varkens en kippen geldend met betrekking tot het desbetreffende jaar en het met betrekking tot dat jaar geldende grondgebonden mestproductierecht.
