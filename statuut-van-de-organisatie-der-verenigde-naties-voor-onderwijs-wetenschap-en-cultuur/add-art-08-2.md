@@ -1,0 +1,2 @@
+# Artikel VIII. Rapporten van Lidstaten
+Iedere Lidstaat dient, op de door de Algemene Conferentie vast te stellen tijdstippen en wijze, verslagen in bij de Organisatie over de wetten, voorschriften en statistieken die betrekking hebben op zijn instellingen en werkzaamheden op het gebied van onderwijs, wetenschap en cultuur, alsmede omtrent de maatregelen die zij hebben genomen naar aanleiding van de aanbevelingen en overeenkomsten, bedoeld in artikel IV, lid 4.

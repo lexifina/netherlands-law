@@ -1,0 +1,5 @@
+# Article XV. Entry into force
+1. This Constitution shall be subject to acceptance. The instrument of acceptance shall be deposited with the Government of the United Kingdom.
+2. This Constitution shall remain open for signature in the archives of the Government of the United Kingdom. Signature may take place either before or after the deposit of the instrument of acceptance. No acceptance shall be valid unless preceded or followed by signature. However, a state that has withdrawn from the Organization shall simply deposit a new instrument of acceptance in order to resume membership.
+3. This Constitution shall come into force when it has been accepted by twenty of its signatories. Subsequent acceptances shall take effect immediately.
+4. The Government of the United Kingdom will inform all Members of the United Nations and the Director-General of the receipt of all instruments of acceptance and of the date on which the Constitution comes into force in accordance with the preceding paragraph.

@@ -1,0 +1,3 @@
+# Article XIII. Amendments
+1. Proposals for amendments to this Constitution shall become effective upon receiving the approval of the General Conference by a two-thirds majority; provided, however, that those amendments which involve fundamental alterations in the aims of the Organization or new obligations for the Member States shall require subsequent acceptance on the part of two thirds of the Member States before they come into force. The draft texts of proposed amendments shall be communicated by the Director-General to the Member States at least six months in advance of their consideration by the General Conference.
+2. The General Conference shall have power to adopt by a two-thirds majority rules of procedure for carrying out the provisions of this Article.

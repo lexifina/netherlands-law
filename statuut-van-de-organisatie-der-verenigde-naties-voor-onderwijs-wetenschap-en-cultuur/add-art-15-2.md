@@ -1,0 +1,5 @@
+# Artikel XV. Inwerkingtreding
+1. Dit Statuut behoeft aanvaarding. De akten van aanvaarding worden nedergelegd bij de Regering van het Verenigd Koninkrijk.
+2. Dit Statuut blijft open voor ondertekening in het archief van de Regering van het Verenigd Koninkrijk. Ondertekening kan geschieden voor of na nederlegging van de akte van aanvaarding. Een aanvaarding is slechts geldig indien deze wordt voorafgegaan of wordt gevolgd door een ondertekening. Echter, wanneer een Staat uit de Organisatie is getreden, volstaat de nederlegging van een nieuwe akte van aanvaarding om het lidmaatschap te hervatten.
+3. Dit Statuut treedt in werking zodra het is aanvaard door twintig Staten die het hebben ondertekend. Latere aanvaardingen worden onmiddellijk van kracht.
+4. De Regering van het Verenigd Koninkrijk doet alle leden van de Verenigde Naties en de Directeur-Generaal mededeling van de ontvangst van alle akten van aanvaarding, alsmede van de datum waarop ingevolge het voorgaande lid het Statuut in werking treedt.
