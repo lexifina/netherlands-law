@@ -1,0 +1,8 @@
+# Tekst
+De Directeur-Generaal van de Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
+## 1 Intrekking bestaande regeling
+In de paragrafen 9.2, 9.3 en 9.4 van hoofdstuk 7 van het Voorschrift margeregeling (besluit van 20 december 2001, nr. CPP2001/2177M) is beoogd een vereenvoudigde regeling te treffen voor de heffing van omzetbelasting op telefoonkaarten bij grensoverschrijdende transacties. Mij is echter gebleken dat die regelingen tot misverstanden en daardoor tot een onjuiste heffing kunnen leiden.
+In verband daarmee heb ik besloten de genoemde paragrafen met ingang van heden in te trekken. Die intrekking geldt niet alleen voor nog uit te geven telefoonkaarten maar ook voor kaarten die hiervoor zijn uitgegeven en door handelaren/bemiddelaars nog worden 'doorverkocht'.
+## 2 Besluit van 19 juli 1995
+In het besluit van 19 juli 1995, nr. VB94/2220 (Infobulletin 95/647) zijn aanwijzingen gegeven over de uitgifte van en de handel in telefoonkaarten, waaronder voor de toepassing van dat besluit intussen ook dienen te worden begrepen vergelijkbare betaalsystemen waarbij een fysieke kaart ontbreekt. Zo kan de consument bijvoorbeeld ook een 'kaart' kopen via internet om zijn beltegoed op te waarderen.
+Ik wijs er in dit verband op dat uit het besluit blijkt dat ondernemers die kaarten verhandelen, als bemiddelaar zijn aan te merken en dat hun provisie is vrijgesteld. Het feit dat zij bij hun activiteiten mogelijk enig risico lopen, heeft niet tot gevolg dat zij zijn te beschouwen als degene die de via de kaart af te nemen diensten verricht. Dat geldt zowel voor de in het besluit bedoelde multifunctionele kaarten als de echte telefoonkaarten.
