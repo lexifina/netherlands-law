@@ -1,0 +1,2 @@
+# Artikel VII
+De accijnzen, de voor rekening van den Staat, de provinciën en de gemeenten of andere openbare instellingen geheven binnenlandsche rechten en belastingen, waarmede worden belast of zullen worden belast de voortbrenging, de bereiding of het verbruik van goederen op het gebied van één der Hooge Verdragsluitende Partijen, zullen de voortbrengselen van de andere Partij niet op een zwaardere of lastiger wijze mogen treffen dan de gelijksoortige producten, die hun oorsprong vinden in het meestbegunstigde land.

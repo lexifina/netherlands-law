@@ -1,0 +1,2 @@
+# Article III
+Les terrains et habitations, entrepôts, fabriques, magasins et autres bâtiments des ressortissants de chacune des Hautes Parties Contractantes sur le territoire de l'autre Partie, utilisés aux fins de résidence ou de commerce, ne pourront être soumis à des visites ou à des perquisitions, et les livres, papiers et comptes qui s'y trouveront ne pourront être soumis à des examens ou à des inspections, sauf dans les conditions et suivant les modalités prévues par les lois et règlements applicables aux nationaux ou aux ressortissants de la nation la plus favorisée.

@@ -1,0 +1,2 @@
+# Article VI
+Si les circonstances le rendent inévitable, les Hautes Parties Contractantes pourront exiger que les produits et marchandises, importés sur leurs territoires, soient accompagnés d'un certificat d'origine délivré par l'Autorité compétente. La légalisation des certificats en question par un fonctionnaire diplomatique ou consulaire, se fera moyennant payement des timbres ou des droits légaux en vigueur.

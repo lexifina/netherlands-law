@@ -1,0 +1,2 @@
+# Article VII
+Les droits d'accises, les droits et les taxes intérieurs perçus pour le compte de l'Etat, des provinces et des communes ou autres institutions publiques qui grèvent ou grèveront la production, la préparation ou la consommation des marchandises dans le territoire de l'une des Hautes Parties Contractantes, ne pourront pas frapper les produits de l'autre Partie d'une manière plus forte ou plus gênante que les produits similaires originaires du pays le plus favorisé.

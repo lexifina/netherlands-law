@@ -1,0 +1,2 @@
+# Article XIV
+Le présent Traité sera ratifié et les ratifications en seront échangées à la Haye aussitôt que faire se pourra. Il entrera en vigueur trois mois après l'échange des ratifications et demeurera en vigueur pendant cinq années, à partir du jour de son entrée en vigueur avec tacite reconduction pour une même période, chaque fois où il ne sera pas dénoncé par une des Hautes Parties Contractantes au moins six mois avant l'échéance.

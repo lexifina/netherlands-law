@@ -1,0 +1,2 @@
+# Artikel VI
+Indien de omstandigheden het onvermijdelijk maken, zullen de Hooge Verdragsluitende Partijen kunnen verlangen, dat de voortbrengselen en koopwaren, ingevoerd binnen haar gebied, van een door de bevoegde autoriteit afgegeven certificaat van oorsprong, worden vergezeld. De legalisatie van de desbetreffende certificaten door een diplomatiek of consulair ambtenaar, zal geschieden tegen betaling van de zegels of van de wettige rechten, die van kracht zijn.
