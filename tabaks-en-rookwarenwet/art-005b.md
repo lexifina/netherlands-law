@@ -1,0 +1,5 @@
+# Artikel 5b
+1. Op vordering van een rechtspersoon als bedoeld in het derde lid kan reclame of sponsoring, die in strijd is met het bepaalde in de artikelen 5 of 5a, onrechtmatig worden verklaard.
+2. De vordering kan worden ingesteld tegen degene die verantwoordelijk is voor de reclame of sponsoring.
+3. De vordering komt toe aan rechtspersonen met volledige rechtsbevoegdheid, die tot doel hebben de preventie van roken, het stoppen met roken of de behartiging van de belangen van jongeren, consumenten of niet-rokers.
+4. De eiser is niet ontvankelijk, indien niet blijkt dat hij, alvorens de vordering in te stellen, de verantwoordelijke de gelegenheid heeft geboden om de reclame of de sponsoring te verwijderen, dan wel, als artikel 5, derde lid, van toepassing is, de reclame of sponsoring zodanig te wijzigen dat de bezwaren die grond voor de vordering zouden opleveren, zijn weggenomen. Een termijn van twee weken na schriftelijke kennisgeving van de bezwaren is daartoe in elk geval voldoende.
