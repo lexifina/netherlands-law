@@ -1,0 +1,3 @@
+# Artikel II
+1. De ingevolge deze regeling aangepaste bedragen, gelden en vergoedingen zijn van toepassing met ingang van 1 januari 2000.
+2. Voor de behandeling van aanvragen als bedoeld in artikel 37, die zijn ingediend vóór de in het eerste lid genoemde datum, gelden de bedragen zoals die van toepassing waren op grond van artikel 38, zoals dat artikel laatstelijk luidde vóór het tijdstip van inwerkingtreding van deze regeling, mits het College ten aanzien van de betrokken aanvraag constateert dat zich op de in het eerste lid genoemde datum geen omstandigheden hebben voorgedaan op grond waarvan de aanvraag ingevolge artikel 8, eerste of tweede lid, van de Regeling toelating bestrijdingsmiddelen 1995 niet in behandeling wordt genomen.

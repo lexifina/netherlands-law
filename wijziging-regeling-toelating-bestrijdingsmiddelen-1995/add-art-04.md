@@ -1,0 +1,2 @@
+# Artikel IV
+Deze regeling treedt in werking met ingang van 31 december 1999.
