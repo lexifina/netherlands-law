@@ -1,0 +1,42 @@
+# Tekst
+## 1 Inleiding
+Sinds oktober 1990 is de Internationale Nikkel Studie Groep, hierna genoemd de Organisatie, gevestigd te 's-Gravenhage. De voorrechten en immuniteiten van de Organisatie en haar personeel zijn geregeld bij overeenkomsten van 28 mei 1991 tussen de Nederlandse regering en de Organisatie (Tractatenblad 1991, nr. 96). Deze overeenkomst wordt opgenomen in het boekwerk Internationale Fiscale Zaken onder nr. 329.08.00.
+## 2 Belastingvrijstellingen van de organisatie
+## 2.1 Directe belastingen en belastingen van rechtsverkeer
+De Organisatie geniet vrijstelling van alle directe belastingen. Daarnaast geniet de Organisatie vrijstelling van assurantiebelasting en kapitaalsbelasting. De Organisatie geniet tevens vrijstelling van overdrachtsbelasting ter zake van de verkrijging van haar hoofdkwartier, mits dit hoofdkwartier slechts wordt gebruikt voor het verrichten van de officiële werkzaamheden van de Organisatie.
+Vrijstelling van belastingen bij invoer
+De Organisatie geniet vrijstelling van belastingen bij invoer van goederen (inclusief mottorrijtuigen, alcoholische dranken e.d.), bestemd voor de uitoefening van haar officiële werkzaamheden. Artikel 63a van de Regeling vrijstellingen belastingen bij invoer (RVBI) is op de organisatie van toepassing. De organisatie zal daartoe zo spoedig mogelijk worden opgenomen in bijlage XIIIA van de RVBI. Het verzoek om afgifte van de voor de vrijstelling benodigde vergunning dient te worden gericht aan het Hoofd van het Douanedistrict Hoofddorp.
+Vrijstelling van omzetbelasting
+De Organisatie geniet vrijstelling van omzetbelasting begrepen in de prijs van hier te lande door haar betrokken goederen (exclusief motorrijtuigen) en diensten, bestemd voor het verrichten van haar officiële werkzaamheden. De vrijstelling wordt verleend in de vorm van teruggaaf. Verzoeken voor een zodanige teruggaaf moeten worden ingediend bij het Hoofd van de Belastingdienst/Ondernemingen/'s-Gravenhage, binnen drie maanden na afloop van elke kwartaal, met gebruikmaking van een formulier OB nr. 95. Het Hoofd van de Belastingdienst kan voorwaarden stellen inzake het overleggen van facturen en andere bescheiden ter staving van het verzoek.
+Als minimumbedrag waarover belasting wordt terugbetaald, geldt een bedrag van f 500 (exclusief omzetbelasting). Met betrekking tot facturen en dergelijke waarop een vergoeding van minder dan f 500 in rekening wordt gebracht, wordt daarom in beginsel geen teruggaaf verleend. Toegestaan is evenwel dat de Organisatie facturen met een vergoeding van minder dan f 500 afkomstig van eenzelfde ondernemer, in een verzamelstaat samenvat indien:
+a. zij doorlopend prestaties betreffen, zoals leveringen van gas, water en elektriciteit, waarvan de factuurdata binnen het desbetreffende kwartaal zijn gelegen;
+b. facturen anderszins voortvloeien uit één enkele opdracht of overeenkomst, mits de factuurdata eveneens binnen het desbetreffende kwartaal zijn gelegen.
+Vrijstelling van accijns van minerale oliën
+Vrijstelling van accijns wordt verleend voor hier te lande betrokken minerale oliën, bestemd voor de uitoefening van de officiële werkzaamheden van de Organisatie. Daartoe behoren gebruik voor haar motorrijtuigen en verwarming van haar officiële gebouwen. De vrijstelling wordt verleend in de vorm van teruggaaf.
+Verzoeken voor een zodanige teruggaaf moeten worden ingediend bij het Hoofd van het Douanedistrict Hoofddorp, binnen drie maanden na afloop van elk kwartaal. Het verzoek moet zijn vergezeld van de originele facturen. Voorzover het betreft minerale oliën die bestemd zijn voor gebruik in motorrijtuigen van de Organisatie kan worden volstaan met de overlegging van de afleveringsbonnen, onder voorwaarde dat deze de volgende gegevens bevatten;
+– naam van de leverancier;
+– naam van de bestuurder van het motorrijtuig;
+– soort, hoeveelheid en prijs van de minerale oliën;
+– kenteken van het motorrijtuig waaraan de olie is afgeleverd.
+De afleveringsbon moet voor akkoord getekend zijn door de leverancier en de bestuurde. Tevens moet een recapitulatie van de hoeveelheden bij het verzoek om teruggaaf worden gevoegd. De inspecteur plaatst op de overgelegde bescheiden, voorzover deze aan de Organisatie worden teruggegeven, een aantekening dat de vrijstelling is verleend.
+Vrijstelling van motorrijtuigenbelasting
+De Organisatie geniet vrijstelling van motorrijtuigenbelasting voor motorrijtuigen die op naam van de Organisatie in het kentekenregister zijn gesteld en die bestemd zijn voor de uitoefening van haar officiële werkzaamheden. Verzoeken voor de vrijstelling van motorrijtuigenbelasting moeten worden ingediend bij het Hoofd van het Centraal bureau motorrijtuigenbelasting (CBM) te Apeldoorn. De vrijstelling is eerst van toepassing nadat daartoe door het Hoofd van het CBM een beschikking is afgegeven.
+Lijst met namen van gemachtigden
+Verzoeken om toepassing van de in deze paragraaf vermelde vrijstellingen moeten zijn ondertekend door een daartoe door de Organisatie gemachtigde functionaris. Een lijst met de handtekening van deze functionarissen wordt door het Ministerie van Financiën verstrekt aan de relevante eenheden van de Belastingdienst.
+Afzien van de vrijstelling
+Goederen die zijn gekocht of ingevoerd onder de bepalingen van deze paragraaf mogen slechts worden verkocht, verhuurd, weggeschonken of anderszins afgestoten met toestemming van de desbetreffende inspecteur. De inspecteur kan aan zijn toestemming voorwaarden verbinden.
+## 3 Vrijstellingen voor het personeel
+## 3.1 Secretaris-Generaal
+De Secretaris-Generaal van de Organisatie geniet, te zamen met zijn inwonende gezinsleden, uitgezonderd persoonlijke bedienden, de belastingvrijstellingen die verleend worden aan het hoofd van een diplomatieke missie, mits zij niet de Nederlandse nationaliteit bezitten of duurzaam verblijf houden in Nederland. De algemene bepaling en voorwaarden, neergelegd in artikel 25 van de Uitvoeringsbeschikking Algemene wet inzake rijksbelastingen 1964 en in artikel 61 van de Regeling vrijstellingen belastingen bij invoer zijn van toepassing. Aan de voorwaarde van wederkerigheid wordt steeds geacht te zijn voldaan.
+Het is de Secretaris-Generaal niet toegestaan in Nederland winst uit onderneming of inkomsten uit arbeid te genieten afgezien van zijn functie bij de Organisatie. Indien zij inwonende gezinsleden inkomsten genieten is terzake geen enkel fiscaal voorrecht van toepassing, noch enige vrijstelling op het gebied van de sociale zekerheid.
+## 3.2 Overige personeelsleden
+Definitie personeelsleden
+Onderstaande voorrechten worden toegekend aan personeelsleden van de Organisatie. Het begrip personeelsleden is gedefinieerd in artikel 1 van de zetelovereenkomst. Huishoudelijk personeel van de Organisatie en degenen die in Nederland worden geworven en per uur betaald, genieten derhalve geen voorrechten.
+Inkomstenbelasting
+De personeelsleden van de Organisatie genieten op de voet van artikel 12 van de zetelovereenkomst vrijstelling van inkomstenbelasting zonder progressievoorbehoud op de door de Organisatie uitbetaalde salarissen en emolumenten. De door de organisatie uitbetaalde pensioenen en soortgelijke uitkeringen zijn wel belastbaar voor de inkomstenbelasting.
+Sociale zekerheid
+De personeelsleden van de Organisatie op wie het stelsel van sociale zekerheid van de Organisatie van toepassing is, zijn niet verzekerd voor de volksverzekeringen, behalve indien zijn naast hun dienstbetrekking bij de Organisatie tegen betaling andere werkzaamheden verrichten.
+Verhuisgoedvrijstelling
+Indien verhuisgoed en persoonlijke bezittingen door personeelsleden van de Organisatie worden binnen gevoerd, zijn daarop de normale procedures van toepassing, dat wil zeggen de regeling van de verhuisgoedvrijstelling.
+Deze vrijstelling wordt verleend met toepassing van de artikelen 2 tot en met 10 van de Verordening (EEG) nr. 918/83 van 28 maart 1983 van de Raad van de Europese Gemeenschappen betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (Pb. EG L 105) en de artikelen 24 en 91 van de Regeling vrijstellingen belastingen bij invoer (Stcrt. 1985, nr. 134).
+Met toepassing van artikel 63b RVBI kunnen de personeelsleden van de Organisatie één personenvoertuig invoeren. De Organisatie zal daartoe zo spoedig mogelijk worden opgenomen in bijlage XIIIB van de RVBI. Het verzoek om afgifte van de benodigde vergunning dient te worden gericht aan het Hoofd van het Douanedistrict Hoofddorp.
