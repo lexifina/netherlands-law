@@ -24,6 +24,9 @@
 #### § 5.3.6. Personeel van de organisatie
 #### § 5.3.7. Geldmiddelen en financieel beheer
 #### § 5.3.8. Inlichtingen, verslaglegging en controle
+## Hoofdstuk 6. Luchtvervoer
+### Titel 6.5. Vervoer van gevaarlijke stoffen
+### Titel 6.6. Vervoer van dieren
 ## Hoofdstuk 8. De luchthaven Schiphol
 ### Titel 8.1. Algemeen
 ### Titel 8.2. De ruimtelijke indeling van en rond de luchthaven
@@ -40,7 +43,7 @@
 ### Titel 8.6. Financiële aspecten
 ### Titel 8.7. De commissie regionaal overleg luchthaven schiphol
 ## Hoofdstuk 9. Bijzondere of buitengewone omstandigheden
-## HOOFDSTUK 10. MILITAIRE LUCHTVAART
+## Hoofdstuk 10. Militaire luchtvaart
 ## Hoofdstuk 11. Toezicht en handhaving
 ### Titel 11.1. Toezicht en strafrechtelijke handhaving
 ### Titel 11.2. Bestuursrechtelijke handhaving
