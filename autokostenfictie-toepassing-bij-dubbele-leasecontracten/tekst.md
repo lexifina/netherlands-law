@@ -1,0 +1,24 @@
+# Tekst
+De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
+Dit besluit is opnieuw uitgebracht voor de toepassing van de Wet IB 2001. Hiermee is geen inhoudelijke wijziging beoogd ten opzichte van de regeling die gold voor de toepassing van de Wet IB 1964, mededeling van 3 april 1990, DB90/980 (Infobulletin 1990/320).
+Mij bereiken regelmatig verzoeken om te beoordelen of voor een bepaald leasecontract de autokostenfictie van toepassing is.
+Hierover merk ik het volgende op.
+Veelal gaat het om dubbele leasecontracten waarbij in het ene contract een auto wordt verhuurd aan de werkgever voor zakelijke doeleinden en in het andere contract dezelfde auto wordt verhuurd aan de werknemer voor privédoeleinden. Zowel de werkgever als de werknemer betalen ieder afzonderlijk aan de leasemaatschappij een huurprijs. Bovendien houden zij een afzonderlijke kilometeradministratie bij.
+In de voorgelegde gevallen wordt steeds, al dan niet door de werkgever, 'aan de belastingplichtige ook voor privé-doeleinden een auto ter beschikking gesteld'. De belastingplichtige kan hierdoor naar eigen goedvinden over deze auto beschikken. Hiermee is naar mijn opvatting voldaan aan de voorwaarden van artikel 3.145 Wet IB 2001, zodat de autokostenfictie toepassing vindt. Het doet hierbij niet terzake of de ter beschikking gestelde auto (juridisch of economisch) eigendom is van de werkgever, noch of het de werkgever is die de auto ter beschikking heeft gesteld van de werknemer.
+Het tussenschuiven van een Verhuur-BV brengt hierin naar mijn oordeel geen wijziging.
+Overigens heb ik het standpunt ingenomen dat in de gevallen waarin sprake is van dubbele contracten, deze contracten in onderlinge samenhang dienen te worden bezien; zie Infobulletin 1989/502.
+Zoals ik daarbij ook heb medegedeeld, kunnen de bedragen die door de werknemer ten titel van huur aan de leasemaatschappij worden betaald als een vergoeding ter zake van het gebruik voor privé-doeleinden worden aangemerkt. Deze betalingen komen derhalve in mindering op het bij te tellen bedrag van de autokostenfictie.
+Met betrekking tot een aantal overige aspecten uit voorgelegde leasecontracten merk ik het volgende op.
+De werknemer heeft in bepaalde vormen van leasing het recht (en al dan niet de plicht) de auto tegen de voorgecalculeerde restwaarde te kopen. Bij doorverkoop verzilvert hij het verschil tussen de waarde in het economische verkeer en de voorgecalculeerde restwaarde.
+Ik ben van mening dat in deze gevallen het recht tot koop voor de werknemer loon in natura vormt.
+Indien het gaat om een recht onder opschortende voorwaarde zal op het moment van uitoefening van het recht heffing moeten plaatsvinden over het zo-even bedoelde verschil.
+In andere leasecontracten wordt aan de werkgever voorts restitutie van onderhoudskosten verleend. Gebruikelijk is dat het verschil tussen de voorgecalculeerde kosten en de werkelijke kosten aan de werkgever wordt teruggegeven. Nu de werkgever dit voordeel aan de werknemer doet toekomen vormt dit voordeel naar mijn oordeel op het moment van realisatie een te belasten looncomponent.
+Ook doet zich de situatie voor dat de werknemer zijn privé-auto verkoopt aan de leasemaatschappij. De werkgever op zijn beurt huurt de auto weer van de leasemaatschappij en stelt de auto ter beschikking aan de werknemer.
+Bij verkoop ontvangt de werknemer van de leasemaatschappij een hogere prijs dan de waarde van de auto in het economische verkeer. Dit is mogelijk omdat de werkgever speciaal met dat doel maandelijks een hogere leaseprijs gaat betalen.
+Het voordeel dat op deze wijze toevalt aan de werknemer is op het moment van verkoop van de auto aan de leasemaatschappij aan te merken als een te belasten looncomponent.
+Voorts zijn er nog gevallen waarin de werkgever aan de werknemer een auto ter beschikking stelt en de werknemer aan zijn werkgever de volledige leaseprijs vergoedt. Daarnaast ontvangt de werknemer van zijn werkgever een vaste en een variabele reiskostenvergoeding.
+Ook hier is de autokostenfictie van toepassing omdat de werknemer een auto ter beschikking is gesteld.
+De door de werknemer aan de werkgever betaalde huurprijs kan slechts als vergoeding voor privegebruik worden aangemerkt voorzover zij de ontvangen vergoeding van de werkgever overtreft.
+Tenslotte wordt nog opgemerkt dat de autokostenfictie niet van toepassing is voor de eigen auto van de werknemer. Indien de werkgever zich echter jegens zijn werknemer heeft verbonden alle kosten van de privé-auto, al dan niet onder aftrek van een bedrag voor privégebruik, voor zijn rekening te nemen, is de autokostenfictie wel van toepassing.
+Daarvan is geen sprake indien de werkgever uitsluitend de zakelijke kilometers vergoedt, zij het mogelijk tegen een te ruime vergoeding.
+Dit besluit treedt in werking met ingang van het belastingjaar 2001.
