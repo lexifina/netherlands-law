@@ -1,0 +1,2 @@
+# Artikel III
+Een recht op premievrijstelling van een banenpool als bedoeld in de Rijksbijdrageregeling banenpools (Stcrt. 1990, 169), ontstaan in de periode van 1 september 1990 tot en met 31 december 1991 op grond van artikel 2 van de Wet ter bevordering van de werkgelegenheid voor werkzoekenden die zeer langdurig werkloos zijn, vervalt op het tijdstip dat de arbeidsovereenkomst eindigt doch uiterlijk op 1 januari 1996.
