@@ -1,4 +1,4 @@
-# Artikel 5.12. Omzetting eerste 12 maanden prestatiebeurs
+# Artikel 10a.3. Omzetting eerste 12 maanden prestatiebeurs (voorheen artikel 5.12)
 1. Indien een student voor een opleiding als bedoeld in de artikelen 2.8, 2.9 of 2.10, ten minste 30 studiepunten heeft behaald in een studiejaar waarin hij op enig moment voor het eerst studiefinanciering heeft genoten, worden de eerste 12 maanden van de aan hem toegekende prestatiebeurs omgezet in een gift. Voor een student die zich heeft ingeschreven na 31 januari van een studiejaar, geldt, in afwijking van de eerste volzin, een norm van 20 studiepunten.
 2. Bij de beoordeling van de in het eerste lid bedoelde prestatie tellen studiepunten mee die zijn behaald voor al dan niet voltijdse opleidingen aan een instelling als bedoeld in de artikelen 2.8, 2.9 of 2.10. Bij de beoordeling van de in het eerste lid bedoelde prestatie tellen niet mee de studiepunten die zijn behaald als gevolg van een vrijstelling als bedoeld in de artikelen 7.13, tweede lid, onderdeel r, en 7.31a, van de WHW.
 3. Indien de student reeds in het studiejaar, bedoeld in het eerste lid, voldoet aan artikel 5.7, voldoet hij tevens aan het eerste lid.

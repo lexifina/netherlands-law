@@ -18,9 +18,7 @@
 ### Paragraaf 5.1. Algemeen
 ### Paragraaf 5.2. Omzetting bij afsluitend examen
 ### Paragraaf 5.3. Omzettingsprocedure
-### Paragraaf 5.4. Omzettingsprocedure bij stoppen of overstappen voor 1 februari in eerste studiejaar
-### Paragraaf 5.5. Omzettingsprocedure eerste 12 maanden
-### Paragraaf 5.6. Herkansing voor omzetting eerste 12 maanden
+### Paragraaf 5.4. Omzettingsprocedure bij stoppen voor 1 februari in eerste studiejaar
 ### Paragraaf 5.7. Omzetting bij bijzondere omstandigheden
 ### Paragraaf 5.8. Tenietgaan rente
 ## Hoofdstuk 6. Opbouw en terugbetaling studieschuld
@@ -32,6 +30,11 @@
 ### Paragraaf 9.3. Administratieve sanctie
 ### Paragraaf 9.4. Strafbepalingen
 ## Hoofdstuk 10. Hoger onderwijs; tempobeurs
+## Hoofdstuk 10A. Hoger onderwijs; omzetting eerste 12 maanden
+### Paragraaf 10a.1. Algemeen
+### Paragraaf 10a.2. Omzettingsprocedure bij overstappen voor 1 februari in eerste studiejaar (voorheen paragraaf 5.4)
+### Paragraaf 10a.3. Omzettingsprocedure eerste 12 maanden (voorheen paragraaf 5.5)
+### Paragraaf 10a.4. Herkansing voor omzetting eerste 12 maanden (voorheen paragraaf 5.6)
 ## Hoofdstuk 11. Overige bepalingen
 ## Hoofdstuk 12. Overgangsbepalingen
 ## Hoofdstuk 13. Wijzigingen in andere wetten
