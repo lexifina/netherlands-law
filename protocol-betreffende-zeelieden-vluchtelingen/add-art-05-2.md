@@ -1,0 +1,4 @@
+# Artikel V
+1. Elke Regering kan op het tijdstip van nederlegging van haar akte van aanvaarding of goedkeuring, of op elk later tijdstip, verklaren dat dit Protocol van toepassing is op elk gebied of alle gebieden voor de internationale betrekkingen waarvan zij verantwoordelijk is, mits zij ten aanzien daarvan de verplichtingen op zich heeft genomen die zijn vermeld in het eerste lid van artikel III.
+2. Een zodanige uitbreiding van de toepassing geschiedt door middel van een aan de Regering van het Koninkrijk der Nederlanden gerichte kennisgeving.
+3. De uitbreiding van de toepassing wordt van kracht op de negentigste dag na de datum waarop de kennisgeving is ontvangen door de Regering van het Koninkrijk der Nederlanden, doch niet voor de datum van inwerkingtreding van dit Protocol voor de Regering die de kennisgeving doet, zoals aangegeven in artikel IV.

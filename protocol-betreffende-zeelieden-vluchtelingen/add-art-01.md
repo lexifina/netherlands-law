@@ -1,0 +1,4 @@
+# Article I
+1. The Contracting Parties to the present Protocol undertake to apply Articles 2 and 4 to 13 inclusive of the Agreement to refugee seamen as hereinafter defined.
+2. For the purpose of the present Protocol, the term "refugee seaman" shall apply to any person who, being a refugee according to the definition in paragraph 2 of Article I of the Protocol relating to the Status of Refugees of 31 January 1967, is serving as a seafarer in any capacity on a mercantile ship, or habitually earns his living as a seafarer on such a ship.
+3. The present Protocol shall be applied without any geographic limitation, save that existing declarations made by the States already Parties to the Convention in accordance with Article 1 B (1) (a) of the Convention, shall, unless extended under Article 1 B (2) thereof, apply also under the present Protocol.

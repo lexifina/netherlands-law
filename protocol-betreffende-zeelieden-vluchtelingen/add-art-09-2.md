@@ -1,0 +1,2 @@
+# Artikel IX
+Een exemplaar van dit Protocol, waarvan de Engelse en de Franse tekst gelijkelijk authentiek zijn, ondertekend door de Minister van Buitenlandse Zaken van het Koninkrijk der Nederlanden, zal worden nedergelegd in het archief van de Regering van het Koninkrijk der Nederlanden, die voor eensluidend gewaarmerkte afschriften daarvan zal doen toekomen aan de in artikel VIII bedoelde Regeringen.
