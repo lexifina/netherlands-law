@@ -1,5 +1,8 @@
 # Artikel 15e
-1. Indien de belastingplichtige op de voet van artikel 8, eerste lid, in verbinding met artikel 3.54 van de Wet inkomstenbelasting 2001, een herinvesteringsreserve heeft gevormd en aannemelijk is dat het uiteindelijke belang in de belastingplichtige nadien in belangrijke mate is gewijzigd, wordt deze reserve in afwijking in zoverre van het laatstgenoemde artikel direct voorafgaande aan die wijziging aan de winst toegevoegd, tenzij de bezittingen van de belastingplichtige de laatste drie maanden voor de wijziging niet grotendeels bestaan uit beleggingen.
+1. Indien aannemelijk is dat op enig tijdstip het uiteindelijke belang in de belastingplichtige in belangrijke mate is gewijzigd, gelden in afwijking in zoverre van artikel 3.54 van de Wet inkomstenbelasting 2001 de volgende regels:
+a. een ten tijde van die wijziging reeds gevormde herinvesteringsreserve wordt direct voorafgaande aan die wijziging aan de winst toegevoegd;
+b. na die wijziging kan een herinvesteringsreserve slechts worden gevormd ter zake van vervreemde bedrijfsmiddelen waarvan het besluit tot vervreemding is genomen na die wijziging.
+De eerste volzin is niet van toepassing indien de belastingplichtige aannemelijk maakt dat gedurende de laatste drie maanden voorafgaande aan de wijziging zijn bezittingen voor minder dan de helft hebben bestaan uit beleggingen.
 2. Voor de toepassing van het eerste lid blijft een wijziging van het uiteindelijke belang in de belastingplichtige buiten aanmerking voorzover:
 a. de wijziging voortvloeit uit een overgang krachtens erfrecht of huwelijksvermogensrecht, of
 b. de wijziging betrekking heeft op een uitbreiding van het uiteindelijke belang van een natuurlijke persoon of rechtspersoon die bij het begin van het jaar waarin de herinvesteringsreserve is gevormd, reeds ten minste een derde deel van het uiteindelijke belang in de belastingplichtige had.

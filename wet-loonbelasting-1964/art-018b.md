@@ -1,6 +1,6 @@
 # Artikel 18b
 1. Een op een eindloonstelsel gebaseerd nabestaandenpensioen bedraagt per dienstjaar of ontbrekend dienstjaar niet meer dan 1,4 percent van het pensioengevend loon of bereikbare pensioengevend loon.
-2. Een op een middelloonstelsel gebaseerd nabestaandenpensioen bedraagt per dienstjaar niet meer dan 1,58 percent van het pensioengevend loon of bereikbaar pensioengevend loon.
+2. Een op een middelloonstelsel gebaseerd nabestaandenpensioen bedraagt per dienstjaar of ontbrekend dienstjaar niet meer dan 1,58 percent van het pensioengevend loon of bereikbaar pensioengevend loon.
 3. Voor een op een beschikbare-premiestelsel gebaseerd nabestaandenpensioen is artikel 18a, derde lid, van overeenkomstige toepassing.
 4. Ingeval in de pensioenregeling is rekening gehouden met:
 1°. een bepaalde nabestaande, wordt gerekend met de feitelijke gegevens van die nabestaande;

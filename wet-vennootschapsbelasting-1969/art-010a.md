@@ -11,7 +11,7 @@ b. over de rente bij degene aan wie de rente rechtens dan wel in feite direct of
 a. een lichaam waarin de belastingplichtige voor ten minste een derde gedeelte belang heeft;
 b. een lichaam dat voor ten minste een derde gedeelte belang heeft in de belastingplichtige;
 c. een lichaam waarin een derde voor ten minste een derde gedeelte belang heeft, terwijl deze derde tevens voor ten minste een derde gedeelte belang heeft in de belastingplichtige;
-d. een lichaam dat met de belastingplichtige deel uitmaakt van een fiscale eenheid als bedoeld in de artikelen 15 en 15a, tenzij het de toepassing betreft van de artikelen 10d, 15ad en 15b.
+d. een lichaam dat met de belastingplichtige deel uitmaakt van een fiscale eenheid als bedoeld in de artikelen 15 en 15a, tenzij het de toepassing betreft van de artikelen 10d, 13f, 15ad en 15b.
 Onze Minister kan op verzoek van een samenwerkende groep van niet-verbonden lichamen de inspecteur machtigen, onder door Onze Minister te stellen voorwaarden, deze groep aan te merken als verbonden lichamen. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
 5. Als een met de belastingplichtige verbonden natuurlijk persoon wordt aangemerkt:
 a. voor de toepassing van dit artikel en artikel 15ad: een natuurlijk persoon die voor tenminste een derde gedeelte een belang heeft in de belastingplichtige of in een met hem verbonden lichaam;
