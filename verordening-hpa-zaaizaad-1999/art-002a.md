@@ -1,3 +1,0 @@
-# Artikel 2a
-1. Op basis van artikel 3, zevende lid, van de commissieverordening is voor Nederland een productieprofiel opgesteld, waarbij de gegarandeerde nationale hoeveelheid van 35.856 ton als volgt is verdeeld: oliehoudende zaden 3.129 ton en overige zaaizaden 32.727 ton.
-2. Indien voor Nederland op basis van artikel 3, vijfde lid, van de commissieverordening een steunverlagingscoëfficiënt is vastgesteld, zal voor elk van de in het eerste lid genoemde groepen van zaden door het hoofdproductschap worden bepaald of, en zo ja, met welke coëfficiënt de steunbedragen voor de betreffende groep moeten worden verlaagd.
