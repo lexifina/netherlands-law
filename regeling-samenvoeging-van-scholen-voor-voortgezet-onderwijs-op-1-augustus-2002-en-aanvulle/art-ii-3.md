@@ -1,4 +1,0 @@
-# II.3. Overgangsbudget bij samenvoeging van scholen met lumpsum bekostiging
-De bekostiging die voor de na samenvoeging ontstane school beschikbaar is (onderdeel II.1=A) en, voor zover van toepassing, verhoogd met de bekostiging in onderdeel II.2 (=B), zal in veel gevallen niet gelijk zijn aan de bekostiging die voor de bij de samenvoeging betrokken scholen gezamenlijk beschikbaar zou zijn geweest volgens de per school geldende vaste aantal formatieplaatsen en ratio's en lgpl-en indien de samenvoeging niet zou hebben plaats gevonden (=C).
-In het geval ook voor de samenvoeging op of na 1-8-2002 reeds sprake was van een nevenvestiging met spreidingsnoodzaak dan dient C per bestaande nevenvestiging met spreidingsnoodzaak te worden verhoogd met de toegekende bekostiging.
-Indien voor de na samenvoeging ontstane school de bekostiging A+B kleiner is dan de bekostiging C wordt het verschil gedurende twee schooljaren beschikbaar gesteld.

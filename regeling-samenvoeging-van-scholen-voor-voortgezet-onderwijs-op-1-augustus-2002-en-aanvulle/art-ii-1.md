@@ -1,2 +1,0 @@
-# II.1. Bekostigingsbasis
-De vaststelling van het personele deel van het lumpsum-budget van een op 1 augustus 2002 door samenvoeging ontstane school of scholengemeenschap geschiedt op basis van het gestelde in de artikelen 84 en 85 van de Wet op het voortgezet onderwijs. De normatieve omvang van het aantal formatieplaatsen wordt verkregen op basis van het Formatiebesluit WVO. Hierbij worden alle geldende opslagen zoals bijvoorbeeld voor fric-tie, seniorenbeleid, schoolprofielbudget en adv-herbezetting en dergelijke meegeteld.
