@@ -1,0 +1,4 @@
+# Artikel VII
+Deze Overeenkomst zal ingaan op de datum dat beide Regeringen elkaar schriftelijk te kennen hebben gegeven dat aan de constitutionele vereisten van de respectieve landen is voldaan. Deze Overeenkomst zal geldig blijven gedurende een periode van drie jaar. Indien geen van beide Regeringen drie maanden voor de beëindiging ervan te kennen heeft gegeven de Overeenkomst te willen opzeggen, zal deze stilzwijgend telkens met één jaar worden verlengd.
+Opzegging van deze Overeenkomst zal het verloop van de in uitvoering zijnde programma's en projecten, die in het kader van deze Overeenkomst tot stand zijn gekomen, niet nadelig beïnvloeden. De bepalingen daarvan zullen geldig blijven totdat een specifiek project is beëindigd, tenzij de Partijen anders besluiten.
+Deze Overeenkomst heeft uitsluitend betrekking op het Europese deel van het Koninkrijk der Nederlanden.

@@ -1,0 +1,2 @@
+# Artikel IV
+De Regering van de Republiek Ecuador zal de bepalingen van deze Overeenkomst gelijkelijk toepassen op personen en hun gezinsleden, die voor de Regering van het Koninkrijk der Nederlanden werken, evenals op personen en hun gezinsleden, die in dienst zijn bij bedrijven waarmee de Nederlandse uitvoerende autoriteit een contract heeft gesloten in verband met de uitvoering van een project, waarin beide Partijen hebben besloten samen te werken.
