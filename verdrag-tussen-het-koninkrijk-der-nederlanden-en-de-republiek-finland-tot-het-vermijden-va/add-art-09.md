@@ -1,0 +1,2 @@
+# IX. Ad Article 18
+Where a person, who is a resident of a Contracting State on the date on which the Agreement comes into effect, continues after that date to derive a pension or other similar remuneration in consideration of past employment, or an annuity, referred to in paragraph 1 of Article 18, or a pension paid under the social insurance legislation of the other Contracting State, referred to in paragraph 3 of that Article, the right to which existed before that date, such income shall be taxable only in the first-mentioned State.

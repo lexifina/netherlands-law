@@ -1,0 +1,2 @@
+# IX. Ad artikel 18
+Indien een persoon, die op de datum vanaf welke het Verdrag toepassing vindt inwoner is van een Verdragsluitende Staat, na die datum een pensioen of andere gelijksoortige beloning ter zake van een vroegere dienstbetrekking, of een lijfrente zoals bedoeld in het eerste lid van artikel 18, of een pensioen betaald krachtens de sociale-verzekeringswetgeving van de andere Verdragsluitende Staat, zoals bedoeld in het derde lid van dat artikel, waarop voor die datum recht bestond, blijft ontvangen, is dat inkomen slechts in die Staat belastbaar.

@@ -1,0 +1,2 @@
+# IV. Ad Articles 6, 13 and 22
+Income from shares or other corporate rights in, other than dividends paid by, a residential-housing company referred to in the Residential-Housing Companies Act of 17 May 1991 (No. 809 of 1991), or any other Finnish company similar in character, or gains derived from the alienation of, or capital represented by, such shares or rights may be taxed in the Contracting State in which the immovable property held by the company is situated.

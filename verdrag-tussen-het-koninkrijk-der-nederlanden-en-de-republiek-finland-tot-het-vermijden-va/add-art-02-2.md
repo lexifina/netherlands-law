@@ -1,0 +1,3 @@
+# II. Ad artikelen 4 en 23
+1. Indien ingevolge de bepalingen van het Verdrag een inwoner van Nederland is vrijgesteld van, of recht heeft op vermindering van, Finse belasting, is een soortgelijke vrijstelling of vermindering van toepassing op de onverdeelde nalatenschappen van overledenen, voor zover een of meer van de begunstigden inwoner van Nederland is.
+2. Voor zover de inkomsten of het vermogen van een onverdeelde nalatenschap van een overledene ingevolge de bepalingen van het Verdrag onderworpen zijn aan Finse belasting en toekomen aan een begunstigde die inwoner van Nederland is, verleent Nederland een vermindering in overeenstemming met letter b dan wel letter c van het tweede lid van artikel 23 van het Verdrag.

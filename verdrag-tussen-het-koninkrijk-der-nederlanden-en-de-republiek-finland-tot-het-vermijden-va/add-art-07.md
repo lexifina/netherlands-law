@@ -1,0 +1,2 @@
+# VII. Ad Articles 10, 11 and 12
+Where tax has been withheld at source in excess of the maximum amount of tax referred to in Articles 10, 11 or 12, applications for the refund of the excess amount of tax have to be lodged with the competent authority of the Contracting State in which the tax has been withheld, within a period of five years after the expiration of the calendar year in which the tax has been withheld.

@@ -1,0 +1,3 @@
+# II. Ad Articles 4 and 23
+1. Where under the provisions of the Agreement a resident of the Netherlands is exempt or entitled to relief from Finnish tax, similar exemption or relief shall be applied to the undistributed estates of deceased persons insofar as one or more of the beneficiaries is a resident of the Netherlands.
+2. Insofar as the income or the property of an undistributed estate of a deceased person under the provisions of the Agreement is subject to Finnish tax and accrues to a beneficiary who is a resident of the Netherlands, the Netherlands shall allow a deduction in conformity with sub-paragraph b) or c) of paragraph 2 of Article 23 of the Agreement.

@@ -1,0 +1,2 @@
+# VII. Ad artikelen 10, 11 en 12
+Indien aan de bron belasting is ingehouden die het maximale belastingbedrag als bedoeld in de artikelen 10, 11 of 12 te boven gaat, moeten verzoeken om teruggaaf van het daarboven uitgaande belastingbedrag worden ingediend bij de bevoegde autoriteit van de Verdragsluitende Staat waarin de belasting is ingehouden, binnen een tijdvak van vijf jaar na afloop van het kalenderjaar waarin de belasting is ingehouden.
