@@ -1,0 +1,4 @@
+# Artikel V. Inwerkingtreding
+1. De artikelen I, III en IV treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen en onderdelen daarvan verschillend kan worden vastgesteld. Laatstbedoeld besluit wordt niet genomen voordat vier weken zijn verstreken nadat het onderhavige besluit is overgelegd aan de beide kamers der Staten-Generaal en gedurende die termijn niet door of namens een van beide kamers de wens wordt te kennen gegeven dat het in het onderhavige besluit geregelde onderwerp bij de wet wordt geregeld. Artikel III werkt terug tot en met 1 1 augustus 1998.
+2. Artikel II treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst en werkt terug tot en met 1 augustus 1998.
+3. Artikel 25 van het Inrichtingsbesluit W.V.O. zoals luidend ingevolge artikel I, vervalt met ingang van 1 augustus 2003.
