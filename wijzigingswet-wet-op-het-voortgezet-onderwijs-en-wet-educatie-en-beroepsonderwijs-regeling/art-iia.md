@@ -1,0 +1,2 @@
+# Artikel IIa. Tijdelijke bekostigingsregels landelijke organen
+De bekostiging van de landelijke organen voor het beroepsonderwijs ten behoeve van hun taken, geregeld in artikel 10b4 van de Wet op het voortgezet onderwijs zoals luidend ingevolge artikel I, onderdeel A, van deze wet, geschiedt tot een bij koninklijk besluit te bepalen tijdstip volgens bij ministeriële regeling vast te stellen voorschriften.
