@@ -1,0 +1,4 @@
+# Artikel XXXIII
+Voor de toepassing van artikel 5 van de Remigratieregeling 1985 wordt met de periode bedoeld in het eerste lid, onderdeel d, van dat artikel gelijkgesteld een periode van tenminste 6 maanden, onmiddellijk voorafgaande aan de datum van aanvraag, waarover de remigrant een uitkering heeft ontvangen op grond van:
+a. de Algemene Arbeidsongeschiktheidswet, zoals die wet luidde op de dag voorafgaand aan de inwerkingtreding van de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen, danwel;
+b. achtereenvolgens een uitkering op grond van de Algemene Arbeidsongeschiktheidswet zoals die wet luidde op de dag voorafgaand aan de inwerkingtreding van de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen en een uitkering op grond van de Wet arbeidsongeschiktheidsverzekering zelfstandigen of een uitkering op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
