@@ -1,0 +1,2 @@
+# Artikel III
+Deze wet treedt op hetzelfde tijdstip in werking als de in artikel I, onder A, bedoelde verordening. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na het in de eerste volzin bedoelde tijdstip, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werkt zij terug tot en met het in de eerste volzin bedoelde tijdstip.
