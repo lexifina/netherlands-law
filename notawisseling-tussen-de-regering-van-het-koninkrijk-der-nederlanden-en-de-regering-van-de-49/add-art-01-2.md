@@ -1,0 +1,2 @@
+# I
+Op het station Bentheim wordt de grenscontrole voor wat het goederenverkeer per spoor betreft samengevoegd. De samenvoeging beperkt zich tot het spoorverkeer met goederentreinen in de verkeersrichting Nederland-Duitsland en met andere door de Oberfinanzdirektion Hannover en de Directeur van 's Rijks belastingen in Zwolle met instemming van de administraties der beide spoorwegen aan te wijzen goederentreinen.
