@@ -1,0 +1,3 @@
+# Artikel XVI. Opzegging
+1. Nadat deze Overeenkomst zes jaar van kracht is geweest, kan een Staat die Partij is bij de Overeenkomst, onder voorbehoud van het bepaalde in het derde lid, letter b, van artikel VI van deze Overeenkomst, haar opzeggen door van zijn voornemen daartoe kennis te geven aan de Zwitserse Bondsraad. Een zodanige opzegging wordt van kracht aan het eind van het daaropvolgende boekjaar.
+2. Indien een Lid-Staat zijn verplichtingen ingevolge deze Overeenkomst niet nakomt, kan hem, bij besluit van de Raad genomen met een twee-derde meerderheid van stemmen van alle Lid-Staten, zijn lidmaatschap worden ontnomen. De Directeur-Generaal stelt de ondertekenende en toetredende Staten van een zodanig besluit in kennis.

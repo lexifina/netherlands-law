@@ -1,0 +1,3 @@
+# Article XVI. Denunciation
+1. After this Agreement has been in force for six years, a State Party to the Agreement may, subject to the provisions of paragraph 3, b of Article VI of this Agreement denounce it by giving notification to that effect to the Government of Switzerland. Such denunciation shall take effect at the end of the following financial year.
+2. If a Member State fails to fulfil its obligations under this Agreement, it may be deprived of its membership by decision of the Council taken by a majority of two-thirds of all the Member States. Such decision shall be notified to signatory and acceding States by the Director-General.

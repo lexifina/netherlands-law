@@ -1,0 +1,11 @@
+# Article XV. Signature, Ratification, Accession, Entry into force
+1. This Agreement shall be open for signature by the State Members of EMBC until the date of its entry into force in accordance with paragraph 4, a of this Article.
+2. This Agreement shall be subject to ratification, acceptance or approval. The appropriate instruments shall be deposited with the Government of Switzerland.
+3. a. Any State Member of EMBC not a signatory to this Agreement may accede at any later time.
+b. If the Agreement establishing EMBC terminates this shall not preclude a State, formerly party to it or in respect of which a decision has been taken under paragraph 2 of Article III of that Agreement to permit that State to accede to it, from acceding to the present Agreement.
+c. The instruments of accession shall be deposited with the Government of Switzerland.
+4. a. This Agreement shall enter into force when ratified, accepted or approved by the majority of States mentioned in the Preamble to this Agreement, including the State in which the Laboratory's Headquarters are located, and on condition that the total contributions of these States represent at least seventy per cent of the total of contributions shown in the scale annexed to this Agreement.
+b. After this Agreement enters into force as provided in paragraph 4, a of this Article, it shall, as regards any signatory State subsequently ratifying, accepting or approving the Agreement, come into force on the date on which such signatory State's instrument of ratification, acceptance or approval is deposited.
+c. For any acceding State this Agreement shall come into force on the date of deposit of its instrument of accession.
+d. i. This Agreement shall initially remain in force for a period of seven years. Thereafter it shall remain in force for an indefinite period unless the Council, not later than one year before the expiry of the seven year period, by a two-thirds majority of all the Member States provided the contributions of such Member States constitute not less than two-thirds of the total contributions to the Laboratory budget, decides to prolong this Agreement for a specific period or to terminate it.
+ii. Termination of the Agreement establishing EMBC shall not affect the validity of this Agreement.

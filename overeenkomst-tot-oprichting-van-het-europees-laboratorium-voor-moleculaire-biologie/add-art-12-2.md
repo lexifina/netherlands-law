@@ -1,0 +1,2 @@
+# Artikel XII. Regeling van geschillen
+Elk geschil tussen twee of meer Lid-Staten met betrekking tot de uitlegging of de toepassing van deze Overeenkomst dat niet kan worden geregeld door tussenkomst van de Raad wordt, op verzoek van een der partijen bij het geschil, voorgelegd aan het Internationale Gerechtshof, tenzij de betrokken Lid-Staten binnen drie maanden na de datum waarop de Voorzitter van de Raad verklaart dat het geschil niet door tussenkomst van de Raad kan worden geregeld, overeenstemming bereiken over een andere wijze van regeling van het geschil.

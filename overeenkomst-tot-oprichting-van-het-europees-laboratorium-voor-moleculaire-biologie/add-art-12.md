@@ -1,0 +1,2 @@
+# Article XII. Settlement of disputes
+Any dispute between two or more Member States concerning the interpretation or application of this Agreement which is not settled through the good offices of the Council shall be submitted, at the request of any party to the dispute, to the International Court of Justice, unless the Member States concerned agree on another mode of settlement within three months from the date on which the President of the Council states that the dispute cannot be settled through the good offices of the Council.
