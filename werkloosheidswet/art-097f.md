@@ -1,5 +1,5 @@
 # Artikel 97f
-Ten laste van het Uitvoeringsfonds voor de overheid komen:
+1. Ten laste van het Uitvoeringsfonds voor de overheid komen:
 a. de op grond van deze wet te betalen uitkeringen aan de personen, bedoeld in artikel 78a;
 b. de op grond van artikel 29, tweede lid, onderdeel a tot en met f, van de Ziektewet te betalen uitkeringen aan de personen, bedoeld in artikel 78a;
 c. de uitvoeringskosten, voorzover deze betrekking hebben op de in de onderdelen a en b bedoelde uitkeringen;
@@ -11,7 +11,8 @@ h. het op grond van artikel 42 van de Wet op de (re)integratie arbeidsgehandicap
 i. de financiële tegemoetkomingen op grond van artikel 7:6 van de Wet arbeid en zorg en de daaraan verbonden uitvoeringskosten;
 j. de op diens aanvraag aan de werkgever door het Uitvoeringsinstituut werknemersverzekeringen te verlenen vergoeding van de schade, die de werkgever lijdt door toepassing van artikel 22b, eerste lid, en de daaraan verbonden uitvoeringskosten;
 k. de uitvoeringskosten verbonden aan werkzaamheden gericht op het ontvangen van bedragen, premies en bijdragen als bedoeld in artikel 97e;
-l. [vervallen;]
+l. de kosten van de werkzaamheden, bedoeld in artikel 63a, vierde en vijfde lid, van de Ziektewet alsmede de schade, bedoeld het zesde lid van dat artikel, die wordt vergoed aan een eigenrisicodrager als bedoeld in artikel 63 van die wet en de daaraan verbonden uitvoeringskosten;
 m. de vergoedingen op grond van artikel 72a, vierde lid, en de daaraan verbonden uitvoeringskosten;
 n. de financiering van, en de tegemoetkoming in de kosten van, kinderopvang, bedoeld in artikel 74;
 o. de op grond van hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg te betalen uitkeringen en de daaraan verbonden uitvoeringskosten.
+2. In afwijking van het eerste lid, onderdelen b, c en d, komen de uitkeringen, die worden betaald door een eigenrisicodrager als bedoeld in artikel 63 van de Ziektewet of een werkgever die een onderneming verkrijgt als bedoeld in artikel 63b, derde lid, van die wet, en de door hem gemaakte kosten ter zake van de betaling van die uitkeringen en van de werkzaamheden, bedoeld in artikel 63a, eerste lid, van die wet, alsmede de op grond van enige wet over die uitkeringen verschuldigde premies die niet op die uitkeringen in mindering kunnen worden gebracht, niet ten laste van het Uitvoeringsfonds voor de overheid.
