@@ -1,0 +1,2 @@
+# Artikel V
+In de gevallen waarin overeenkomstig het bepaalde in de onderhavige Overeenkomst of in de ter uitvoering daarvan te sluiten overeenkomsten, de Nederlandse Regering machines, instrumenten of uitrusting ter beschikking stelt, staat de Columbiaanse Regering de invoer van deze goederen toe vrij van douane- en bijkomende rechten, van invoerverboden en van invoerbeperkingen alsmede van alle fiscale lasten.

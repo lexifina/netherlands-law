@@ -1,0 +1,2 @@
+# Artikel III
+Wanneer tot technische samenwerking als bedoeld in het eerste lid van Artikel II wordt besloten en dientengevolge deskundigen, leerkrachten en specialisten worden beschikbaar gesteld, fellowships verleend of tot meer uitgebreide vormen van technische samenwerking wordt overgegaan, zullen, in overeenstemming met de beginselen, neergelegd in deze Overeenkomst, de wijze waarop en de voorwaarden waaronder zulks zal geschieden van geval tot geval in gemeenschappelijk overleg nader worden geregeld in administratieve overeenkomsten.

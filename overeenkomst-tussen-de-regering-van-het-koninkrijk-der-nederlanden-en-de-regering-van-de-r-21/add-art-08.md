@@ -1,0 +1,2 @@
+# Artikel VIII
+Voor de gevallen waarin deze Overeenkomst niet voorziet, zullen de beide Regeringen van geval tot geval bij administratieve overeenkomst vaststellen welke faciliteiten, vervat in de „Model Text of Agreement concerning assistance under the United Nations Development Programme", geldend op het tijdstip van het sluiten van de administratieve overeenkomst, met betrekking tot het beschikbaar stellen van deskundigen, leerkrachten en specialisten en het uitvoeren van projecten van toepassing worden verklaard.

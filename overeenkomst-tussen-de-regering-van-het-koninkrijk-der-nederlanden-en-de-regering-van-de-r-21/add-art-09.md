@@ -1,0 +1,2 @@
+# Artikel IX
+Zonder inbreuk te maken op hetgeen in de op 6 juli 1964 te Bogotá ondertekende Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Columbia is bepaald met betrekking tot Nederlandse Vrijwilligers, zijn de bepalingen van deze Overeenkomst ook van toepassing op de Nederlandse deskundigen, leerkrachten en specialisten die bij de inwerkingtreding dezer Overeenkomst in Columbia in opdracht van de Nederlandse Regering in het kader van de technische samenwerking werkzaam zijn.
