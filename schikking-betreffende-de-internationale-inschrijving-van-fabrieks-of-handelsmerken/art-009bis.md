@@ -1,0 +1,4 @@
+# Article 9bis
+Lorsqu'une marque inscrite dans le Registre international sera transmise à une personne établie dans un Etat contractant autre que le pays d'origine de la marque, la transmission sera notifiée au Bureau international par l'Administration de ce même pays d'origine. Le Bureau international enregistrera la transmission et, après avoir reçu l'assentiment de l'Administration à laquelle ressortit le nouveau titulaire, il la notifiera aux autres Administrations et la publiera dans sons journal.
+La présente disposition n'a point pour effet de modifier les législations des Etats contractants qui prohibent la transmission de la marque sans la cession simultanée de l'établissement industriel ou commercial dont elle distingue les produits.
+Nulle transmission de marque inscrite dans le Registre international, faite au profit d'une personne non établie dans l'un des pays signataires, ne sera enregistrée.
