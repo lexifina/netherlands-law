@@ -1,0 +1,2 @@
+# Article XVII
+This Agreement shall come into force on the first day of the second month following the date on which the Contracting Parties have informed each other in writing that the formalities constitutionally required in their respective countries have been complied with. If either Contracting Party wishes to denounce the present Agreement, it shall notify the other Contracting Party in writing and the denunciation of the Agreement shall take effect six months after the date of receipt of such notification by the other Contracting Party.

@@ -1,0 +1,3 @@
+# Artikel VIII
+1. De Verdragsluitende Partijen erkennen wederzijds de nationaliteit van schepen op basis van het registratiecertificaat afgegeven door de bevoegde autoriteiten van een der Partijen overeenkomstig de desbetreffende wetten en voorschriften.
+2. De Verdragsluitende Partijen erkennen wederzijds, in overeenstemming met de desbetreffende internationale verdragen, de meetbrief en andere scheepsdocumenten die zijn afgegeven door de bevoegde autoriteiten van een der Partijen of die welke door de ene Verdragsluitende Partij worden erkend en waartegen de andere Partij geen bezwaar heeft, zonder de betrokken schepen te meten. Alle havengelden en kosten worden geïnd op basis van deze documenten.

@@ -1,0 +1,3 @@
+# Article VIII
+1. The Contracting Parties shall mutually recognize the nationalities of vessels on the basis of the certificate of registry duly issued by the competent authorities of either Party in compliance with the relevant laws and regulations.
+2. The Contracting Parties shall, in accordance with the relevant international Conventions, mutually recognize the tonnage certificate and other documents of ships duly issued by the competent authorities of either Party or those recognized by one Contracting Party and met with no objection from the other Party without remeasuring the vessels concerned. All port charges and expenses shall be collected on the basis of these documents.

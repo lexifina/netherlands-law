@@ -1,0 +1,2 @@
+# Article VI
+Profits from the operation of ships in international traffic carried on by an enterprise of one of the Contracting Parties shall be taxable only in the territory of that Contracting Party, in accordance with the Convention between the Kingdom of the Netherlands and the Republic of Korea for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income of 1978.

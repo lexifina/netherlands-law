@@ -1,0 +1,3 @@
+# Artikel X
+1. Elk bemanningslid van een schip van een Verdragsluitende Partij dat in het bezit is van het in artikel IX van dit Verdrag bedoelde identiteitsbewijs, kan tijdens het verblijf van zijn schip in een haven van de andere Verdragsluitende Partij zonder visum aan wal gaan en daar voor tijdelijk walverlof verblijven, mits de kapitein van het schip overeenkomstig de in die haven geldende voorschriften de bemanningslijst heeft voorgelegd aan de bevoegde autoriteiten.
+2. Bij het aan wal gaan en bij de terugkeer naar het schip is de betrokkene onderworpen aan de in die haven geldende grenscontrole- en douaneformaliteiten.

@@ -1,0 +1,2 @@
+# Artikel VI
+Winst uit de exploitatie van schepen in internationaal verkeer door een onderneming van een van de Verdragsluitende Partijen is slechts belastbaar op het grondgebied van die Verdragsluitende Partij in overeenstemming met de Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Korea tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen van 1978.
