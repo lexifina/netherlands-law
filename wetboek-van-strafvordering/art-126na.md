@@ -1,7 +1,5 @@
 # Artikel 126na
-1. Teneinde toepassing te kunnen geven aan artikel 126m of artikel 126n kan de officier van justitie met inachtneming van artikel 3.10, vierde lid, van de Telecommunicatiewet bevelen dat met behulp van in dat artikel bedoelde apparatuur het nummer waarmee de gebruiker van telecommunicatie kan worden geïdentificeerd, wordt verkregen.
-2. Het bevel wordt gegeven aan een ambtenaar als bedoeld in artikel 3.10, vierde lid, onder a, van de Telecommunicatiewet en is schriftelijk. Bij dringende noodzaak kan het bevel mondeling worden gegeven. In dat geval stelt de officier van justitie het bevel binnen drie dagen op schrift.
-3. Het bevel wordt gegeven voor een periode van ten hoogste een week en vermeldt:
-a. de feiten of omstandigheden waaruit blijkt dat voldaan is aan de voorwaarden voor toepassing van artikel 126m of artikel 126n en
-b. de naam of een zo nauwkeurig mogelijke aanduiding van de gebruiker van telecommunicatie van wie het nummer moet worden verkregen.
-4. De officier van justitie doet te zijnen overstaan de processen-verbaal of andere voorwerpen, waaraan een gegeven kan worden ontleend dat is verkregen door toepassing van het eerste lid vernietigen indien dat gegeven niet gebruikt wordt voor de toepassing van artikel 126m of artikel 126n.
+1. In geval van verdenking van een misdrijf kan de opsporingsambtenaar in het belang van het onderzoek een vordering doen gegevens te verstrekken terzake van naam, adres, postcode, woonplaats, nummer en soort dienst van een gebruiker van telecommunicatie. Artikel 126n, tweede en derde lid, is van toepassing.
+2. Indien de gegevens, bedoeld in het eerste lid, bij de aanbieder niet bekend zijn en zij nodig zijn voor de toepassing van artikel 126m of artikel 126n kan de officier van justitie in het belang van het onderzoek vorderen dat de aanbieder de gevorderde gegevens op bij algemene maatregel van bestuur te bepalen wijze achterhaalt en verstrekt.
+3. In geval van een vordering als bedoeld in het eerste of tweede lid is artikel 126n, vijfde lid, onder a, b, c en d, van overeenkomstige toepassing en blijft artikel 126bb buiten toepassing.
+4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de wijze waarop de gegevens door de opsporingsambtenaar of de officier van justitie worden gevorderd.
