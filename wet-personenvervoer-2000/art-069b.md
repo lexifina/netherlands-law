@@ -1,0 +1,4 @@
+# Artikel 69b
+1. In deze paragraaf wordt verstaan onder het hoofdrailnet: de spoorvervoerdiensten die als zodanig bij koninklijk besluit zijn aangewezen.
+2. Onze Minister kan bepalen dat een door hem verleende concessie voor het hoofdrailnet geheel of voor een door Onze Minister daarbij te bepalen aanmerkelijk gedeelte door de concessiehouder zal worden uitgevoerd met gebruikmaking van een of meer door Onze Minister aan te wijzen rechtspersonen.
+3. Een in het eerste lid bedoeld koninklijk besluit wordt niet eerder vastgesteld dan vier weken nadat het ontwerp aan de Tweede Kamer der Staten-Generaal is overlegd.

@@ -1,0 +1,11 @@
+# Artikel 69c
+1. Dit artikel is van toepassing, indien Onze Minister voornemens is een concessie te verlenen voor het hoofdrailnet.
+2. Onze Minister stelt een beleidsvoornemen tot concessieverlening vast, waarin is opgenomen of vermeld:
+a. een beschrijving van de betrokken markt;
+b. een beschrijving van de maatregelen die ertoe strekken dat de continuïteit van het betrokken personenvervoer wordt gewaarborgd;
+c. een schatting van de kosten die met de concessieverlening zijn gemoeid en van de waarde van de concessie;
+d. een beschrijving van de te volgen procedure van concessieverlening; en
+e. of Onze Minister voornemens is artikel 69b, tweede lid, toe te passen.
+3. Voordat Onze Minister het beleidsvoornemen vaststelt, legt hij dit voornemen ter advisering voor aan de in artikel 27 bedoelde consumentenorganisaties. Artikel 27 is van overeenkomstige toepassing.
+4. Onze Minister legt het vastgestelde beleidsvoornemen voor aan de Tweede Kamer der Staten-Generaal. Indien binnen 30 dagen na deze voorlegging ten minste 30 leden te kennen geven nadere inlichtingen te willen ontvangen over de voorgenomen concessieverlening, zal de aanvang van procedure tot concessieverlening niet eerder plaatsvinden dan dat veertien dagen zijn verstreken na het verstrekken van die inlichtingen.
+5. Indien binnen 30 dagen na de voorlegging of binnen 14 dagen na de verstrekking van de inlichtingen, bedoeld in het vierde lid, de Kamer als haar oordeel uitspreekt dat de concessieverlening machtiging bij wet behoeft, wordt de concessie eerst verleend nadat die machtiging is verleend.

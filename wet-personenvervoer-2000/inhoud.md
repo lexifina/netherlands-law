@@ -10,12 +10,14 @@
 ### § 2. Concessieverlening
 ### § 3. Uitvoering van een concessie
 ### § 4. Overgang, beëindiging en overdracht van een concessie
-## Hoofdstuk III. Bepalingen inzake de aanbesteding van concessies
+## Hoofdstuk III. Bepalingen inzake de aanbesteding en verlening van concessies
 ### § 1. Algemene bepalingen inzake aanbesteding van concessies
 ### § 2. De verklaring van geen bezwaar
 ### § 3. De procedure tot afgifte van de verklaring van geen bezwaar
 ### § 4. De aanbestedingsplicht
 ### § 5. De gemeentelijke vervoerbedrijven
+### § 6. Bepalingen inzake marktactiviteiten van gemeentelijke vervoerbedrijven en houders van langdurige concessies
+### § 7. Bijzondere bepalingen inzake door Onze Minister te verlenen concessies
 ## Hoofdstuk IV. Bepalingen voor de reiziger
 ## Hoofdstuk V. De rijksbijdrage voor exploitatie van openbaar vervoer
 ## Hoofdstuk VI. Internationaal vervoer en taxivervoer
