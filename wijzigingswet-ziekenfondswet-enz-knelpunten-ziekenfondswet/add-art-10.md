@@ -1,0 +1,4 @@
+# Artikel X
+1. Artikel I, onderdelen A, B, subonderdeel 1, C, D, F, I tot en met L, en de artikelen II tot en met VIII treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, waarbij artikel I, onderdeel D, subonderdeel 1, terugwerkt tot en met 1 januari 2001.
+2. Artikel I, onderdeel H, treedt in werking met ingang van 1 juli 2001. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 30 juni 2001, treedt artikel I, onderdeel H, in werking met ingang van de dag na uitgifte van het Staatsblad waarin deze wet wordt geplaatst, en werkt dit onderdeel terug tot en met 1 juli 2001.
+3. De overige artikelen, onderdelen en subonderdelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen, onderdelen of subonderdelen verschillend kan worden vastgesteld.
