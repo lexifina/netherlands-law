@@ -1,0 +1,3 @@
+# Artikel V
+1. De periode van toekenning van een wegens algemene invaliditeit voortgezette uitkering, bedoeld in de artikelen 8c, 53c en 133c wordt in afwijking van die artikelen, tot een nader bij algemene maatregel van bestuur te bepalen tijdstip, gesteld op vijf jaar. Bij algemene maatregel van bestuur kan voorts worden bepaald dat na het in de eerste volzin bedoelde tijdstip, tot nog een later tijdstip, een termijn van vier jaar in aanmerking wordt genomen.
+2. De wijziging van de termijn, bedoeld in het eerste lid, brengt geen wijziging in de termijnen, zoals die gelden ter zake van wegens algemene invaliditeit voortgezette uitkeringen die zijn toegekend voor het tijdstip van wijziging van de termijn.

@@ -1,0 +1,5 @@
+# Artikel IV
+1. De bij deze wet vervallen artikelen 7a, 52a en 132a, telkens eerste en derde lid, van de Algemene pensioenwet politieke ambtsdragers blijven van toepassing op degene die:
+a. op de dag, voorafgaande aan die waarop deze wet in werking treedt recht had op wegens algemene invaliditeit voortgezette uitkering, of
+b. op 25 januari 1993 ziekten of gebreken had en wiens uitkering uiterlijk een jaar na die datum in verband met die ziekten of gebreken wegens algemene invaliditeit wordt voortgezet, dan wel wiens uitkering ingevolge een der artikelen 14, vierde lid, 59, zesde lid, of 139, vierde lid, van die wet binnen een jaar na de genoemde datum in verband met die ziekten of gebreken wordt aangemerkt als een wegens algemene invaliditeit voortgezette uitkering.
+2. Van de bij deze wet in de Algemene pensioenwet politieke ambtsdragers ingevoegde artikelen zijn telkens het eerste lid van de artikelen 8a, 53a en 133a, en de artikelen 8b, 53b en 133b niet van toepassing op degene, bedoeld in het eerste lid.
