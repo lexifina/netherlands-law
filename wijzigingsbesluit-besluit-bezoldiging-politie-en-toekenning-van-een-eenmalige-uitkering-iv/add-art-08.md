@@ -1,0 +1,2 @@
+# ARTIKEL VIII
+Voor de berekening van het aantal jaren, bedoeld in artikel 15, eerste tot en met derde lid, van het Besluit bezoldiging politie wordt mede in aanmerking genomen het aantal jaren, gedurende welke de ambtenaar een toelage genoot op grond van artikel 13, dan wel artikel 14 van het Besluit bezoldiging politie, zoals deze artikelen luidden op de datum voorafgaand aan de inwerkingtreding van dit besluit.
