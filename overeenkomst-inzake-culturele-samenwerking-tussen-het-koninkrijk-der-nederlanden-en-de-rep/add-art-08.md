@@ -1,0 +1,3 @@
+# Article VIII
+The present agreement shall be ratified, and the instruments of ratification shall be exchanged at the Hague at the earliest convenience.
+The present agreement shall come into force on the date of the exchange of the instruments of ratification and shall remain in force for five years. If neither of the contracting parties has notified the other contracting party six months before the expiry of the aforementioned period of its desire to terminate the agreement, it shall remain in force indefinitely. However, either contracting party shall then have the right to terminate the agreement at any time by giving the other contracting: party six months notice.

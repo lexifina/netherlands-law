@@ -1,0 +1,2 @@
+# Artikel III
+Met inachtneming van de terzake geldende wettelijke bepalingen en het regeringsbeleid, zal elk der Overeenkomstsluitende Partijen mogelijkheden scheppen tot samenwerking tussen haar eigen wetenschappelijke, artistieke en andere culturele instellingen en die van de andere Overeenkomstsluitende Partij, en de oprichting en instandhouding bevorderen van zodanige instellingen op het grondgebied van de andere Overeenkomstsluitende Partij.

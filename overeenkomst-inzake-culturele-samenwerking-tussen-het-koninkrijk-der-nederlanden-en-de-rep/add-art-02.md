@@ -1,0 +1,2 @@
+# Article II
+With due regard for the relevant statutory regulations and government policies, each contracting party shall in its own country offer the other contracting party the opportunity to make its cultural values known. In particular, it shall give to the agencies, institutions and persons that undertake to disseminate the knowledge of these cultural values, all the facilities, exemptions and information within its power, that may be of use to them in the discharge of their functions.

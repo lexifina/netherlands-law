@@ -1,0 +1,3 @@
+# Artikel VIII
+Deze Overeenkomst dient te worden bekrachtigd, en de akten van bekrachtiging zullen zo spoedig mogelijk te 's-Gravenhage worden uitgewisseld.
+Deze Overeenkomst treedt in werking op de datum van de uitwisseling van de akten van bekrachtiging en zal gelden voor vijf jaar. Indien geen der Overeenkomstsluitende Partijen zes maanden voor het verstrijken van genoemde termijn aan de andere het voornemen te kennen heeft gegeven, de Overeenkomst te beëindigen, zal de Overeenkomst voor onbepaalde tijd van kracht blijven. Doch elk der Overeenkomstsluitende Partijen heeft dan het recht de Overeenkomst te allen tijde te beëindigen door de andere Overeenkomstsluitende Partij hiervan in kennis te stellen met een opzeggingstermijn van zes maanden.

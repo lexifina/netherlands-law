@@ -1,0 +1,2 @@
+# Artikel II
+Met inachtneming van de ter zake geldende wettelijke bepalingen en het regeringsbeleid, zal elk van de Overeenkomstsluitende Partijen in haar land de andere Overeenkomstsluitende Partij de gelegenheid geven haar cultuurwaarden bekendheid te geven. Met name zal zij aan de diensten, instellingen en personen die zich tot taak stellen, de kennis van deze cultuurwaarden uit te dragen, alle binnen haar vermogen liggende faciliteiten, vrijdommen en gegevens ter beschikking stellen, die hun bij de vervulling van hun taak van nut kunnen zijn.
