@@ -1,0 +1,3 @@
+# ARTIKEL X
+1. Deze wet treedt in werking met ingang van 1 augustus volgend op de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, met uitzondering van de artikelen III, onderdeel J, en IVa, die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, waarbij artikel III, onderdeel J, terugwerkt tot en met 1 januari 1997.
+2. Indien het Staatsblad waarin deze wet wordt geplaatst wordt uitgegeven na 31 juli 1998, treedt, in afwijking van het eerste lid, artikel IXd in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.

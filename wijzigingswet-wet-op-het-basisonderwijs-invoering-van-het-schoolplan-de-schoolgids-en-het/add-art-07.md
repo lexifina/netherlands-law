@@ -1,0 +1,3 @@
+# ARTIKEL VII
+1. Het eerste schoolplan dat op grond van deze wet wordt opgesteld, heeft betrekking op de 4 schooljaren die volgen op het schooljaar waarin deze wet in werking treedt en wordt door het bevoegd gezag voor 1 augustus volgend op de datum van inwerkingtreding van deze wet aan de inspecteur gezonden.
+2. De eerste schoolgids die op grond van deze wet wordt opgesteld, heeft betrekking op het schooljaar dat volgt op het schooljaar waarin deze wet in werking treedt en wordt door het bevoegd gezag voor 1 januari volgend op de datum van inwerkingtreding van deze wet aan de inspecteur gezonden.
