@@ -1,0 +1,2 @@
+# Article XIII
+La Partie Contractante sur le territoire de laquelle un ressortissant de l'autre Partie Contractante réalise ou compte réaliser un investissèment devra consentir à toute proposition de la part de ce ressortissant en vue de soumettre, pour conciliation ou arbitrage, tout différend pouvant surgir au sujet de cet investissement au Centre International pour le Règlement des Différends relatifs aux Investissements, institué en vertu de la Convention de Washington du 18 mars 1965.

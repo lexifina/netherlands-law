@@ -1,0 +1,2 @@
+# Artikel XIII
+De Overeenkomstsluitende Partij binnen wier grondgebied een onderdaan van de andere Overeenkomstsluitende Partij een investering doet of voornemens is te doen, zal instemmen met elk voorstel van de zijde van die onderdaan om enig geschil dat zich terzake van die investering kan voordoen, ter bemiddeling of arbitrage voor te leggen aan het ingevolge het Verdrag van Washington van 18 maart 1965 opgerichte Internationaal Centrum voor Beslechting van Investeringsgeschillen.

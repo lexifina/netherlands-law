@@ -1,0 +1,6 @@
+# Article X
+En ce qui concerne les investissements réalisés sur le territoire d'une des Parties Contractantes dans les conditions de la législation de celleci par un ressortissant de l'autre Partie Contractante, cette première Partie Contractante s'engage, conformément aux conditions particulières de la législation en vigueur sur son territoire au moment de l'agrément de l'investissement en question, ou conformément à une législation plus favorable ultérieure, à autoriser - dans les délais normalement requis pour l'accomplissement des formalités nécessaires le transfert vers le pays de l'autre Partie Contractante et dans la monnaie ayant servi à l'investissement initial, notamment:
+du bénéfice net, des intérêts, des dividendes, des redevances et d'autres revenus courants provenant de toute activité économique et revenant à des ressortissants de l'autre Partie Contractante;
+du produit de la liquidation totale ou partielle de tout investissement réalisé par des ressortissants de l'autre Partie Contractante;
+d'une partie adéquate des revenus du travail de ressortissants de l'autre Partie Contractante autorisés à travailler sur son territoire;
+de fonds servant à rembourser des emprunts que les Parties Contractantes ont reconnus comme étant des investissements.

@@ -1,0 +1,2 @@
+# Artikel XII
+De Overeenkomstsluitende Partij binnen wier grondgebied een investering is gedaan ten aanzien waarvan de andere Overeenkomstsluitende Partij of één harer onderdanen enige financiële zekerheid tegen niet-commerciële risico's heeft gesteld, erkent de subrogatie van degene die deze zekerheid heeft gesteld in de rechten van de investeerder met betrekking tot schadevergoeding indien op grond van deze zekerheidstelling een betaling is gedaan, en ten belope van de som dier betaling.

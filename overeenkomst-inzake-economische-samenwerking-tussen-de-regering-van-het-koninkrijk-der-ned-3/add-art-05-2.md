@@ -1,0 +1,10 @@
+# Artikel V
+(1) De Overeenkomstsluitende Partijen bevestigen opnieuw de waarde welke zij toekennen aan het beginsel van de vrijheid der koopvaardij en komen overeen zich van alle discriminatoire handelingen op dit gebied te onthouden.
+(2) a) Onverminderd de formaliteiten met betrekking tot de binnenkomst, het verblijf en het vertrek van vreemdelingen, verzekert elk der Overeenkomstsluitende Partijen in haar havens aan schepen van de andere Overeenkomstsluitende Partij dezelfde behandeling als die welke zij aan haar eigen schepen toekent wat betreft:
+i) de heffing van havenrechten en -gelden;
+ii) de vrijheid van toegang tot de havens, het gebruik daarvan en alle faciliteiten met betrekking tot de scheepvaart en handelstransacties voor de schepen en hun bemanningen, de passagiers en de lading, met name voor zoveel het betreft de toewijzing van ligplaatsen aan de kade en de ladings- en lossingsfaciliteiten.
+b) Letter a) is met name niet van toepassing op havendiensten, de sleepdienst, de loodsdienst, de kustvaart en de visserij.
+(3) Met eerbiediging van haar formele internationale verbintenissen, met inbegrip van de in het kader van de Verenigde Naties aangenomen aanbevelingen, neemt elke Overeenkomstsluitende Partij, in het kader van haar wetgeving en haar havenregelingen, de noodzakelijke maatregelen teneinde in haar havens, binnen het mogelijke, de ligtijd van schepen van de andere Overeenkomstsluitende Partij te bekorten en de vervulling van de in genoemde havens van kracht zijnde administratieve, douane- en gezondheidsformaliteiten te vereenvoudigen.
+(4) Voor de toepassing van het onderhavige artikel:
+a) wordt onder de term „schip van een Overeenkomstsluitende Partij" verstaan elk schip, met uitzondering van een oorlogs- of vissersschip, dat overeenkomstig de wetgeving van die Partij haar vlag voert;
+b) wordt onder de term „bemanning" verstaan de kapitein van het schip en elke persoon die gedurende de reis aan boord van het schip belast is met de uitoefening van een functie welke verband houdt met het in de vaart zijn van het schip of met deszelfs onderhoud en die vermeld is op de monsterrol.

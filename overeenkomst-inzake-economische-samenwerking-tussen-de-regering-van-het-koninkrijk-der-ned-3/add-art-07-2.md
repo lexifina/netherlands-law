@@ -1,0 +1,2 @@
+# Artikel VII
+Onderdanen van elke Overeenkomstsluitende Partij genieten, wat betreft de bescherming van de industriële eigendom, binnen het grondgebied van de andere Overeenkomstsluitende Partij een bescherming welke niet minder gunstig is dan die welke onderdanen van die andere Overeenkomstsluitende Partij genieten, zonder dat hierdoor inbreuk wordt gemaakt op de rechten welke voortvloeien uit internationale overeenkomsten welke op het gebied van de industriële eigendom zijn gesloten en voor de Overeenkomstsluitende Partijen verbindend zijn.

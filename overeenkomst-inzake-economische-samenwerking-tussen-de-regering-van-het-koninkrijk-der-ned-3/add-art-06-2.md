@@ -1,0 +1,3 @@
+# Artikel VI
+(1) Wat betreft de invordering van belastingen, rechten of heffingen, alsmede de toekenning van fiscale aftrekposten en vrijstellingen, kent elke Overeenkomstsluitende Partij binnen haar grondgebied aan onderdanen van de andere Overeenkomstsluitende Partij die economische werkzaamheden verrichten de behandeling toe, welke zij toekent hetzij aan haar eigen onderdanen, hetzij aan onderdanen van derde Staten, indien deze laatste behandeling voor de betrokkene gunstiger is.
+(2) Elke Overeenkomstsluitende Partij is vrij uit hoofde van internationale overeenkomsten ter voorkoming van dubbele belastingheffing bijzondere fiscale voordelen toe te kennen.

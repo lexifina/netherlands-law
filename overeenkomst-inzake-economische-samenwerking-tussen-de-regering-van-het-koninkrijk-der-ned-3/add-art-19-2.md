@@ -1,0 +1,6 @@
+# Artikel XIX
+(1) De onderhavige Overeenkomst wordt bekrachtigd en de akten van bekrachtiging worden zo spoedig mogelijk te 's-Gravenhage uitgewisseld.
+(2) De onderhavige Overeenkomst treedt in werking op de 30ste dag na de datum van de uitwisseling van de akten van bekrachtiging en is geldig voor een tijdvak van 10 jaren.
+Tenzij de opzegging door één der Overeenkomstsluitende Partijen ten minste zes maanden vóór de datum van beëindiging van het tijdvak van geldigheid wordt medegedeeld, wordt de onderhavige Overeenkomst stilzwijgend voor een nieuw tijdvak van 10 jaren verlengd, en vervolgens voor gelijke tijdvakken, met dien verstande dat elke Overeenkomstsluitende Partij zich het recht voorbehoudt de Overeenkomst, met inachtneming van een termijn van ten minste zes maanden vóór de datum van beëindiging van het lopende tijdvak van geldigheid op te zeggen.
+(3) Met inachtneming van de in het tweede lid van het onderhavige artikel genoemde termijnen, kan de Regering van het Koninkrijk der Nederlanden de toepassing van de onderhavige Overeenkomst afzonderlijk beëindigen wat betreft Suriname of de Nederlandse Antillen.
+(4) Ten aanzien van vóór de datum van beëindiging van de onderhavige Overeenkomst gedane investeringen blijven de voorgaande artikelen gedurende een tijdvak van 10 jaren te rekenen van die datum van kracht.

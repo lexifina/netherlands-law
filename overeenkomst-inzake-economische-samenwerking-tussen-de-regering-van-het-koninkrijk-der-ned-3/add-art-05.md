@@ -1,0 +1,10 @@
+# Article V
+(1) Les Parties Contractantes réaffirment leur attachement au principe de la liberté de la navigation commerciale et conviennent de s'abstenir de toutes actions à caractère discriminatoire dans ce domaine.
+(2) a) Nonobstant les formalités relatives à l'entrée, au séjour et à la sortie des étrangers, chacune des Parties Contractantes assurera dans ses ports aux navires de l'autre Partie Contractante le même traitement que celui qu'elle accorde à ses propres navires en ce qui concerne:
+i) La perception des droits et taxes portuaires;
+ii) la liberté d'accès aux ports, leur utilisation et toutes les facilités se rapportant à la navigation et aux opérations commerciales pour les navires et leurs équipages, les passagers et les marchandises, notamment pour autant qu'il concerne l'attribution des places à quai et les facilités de chargement et de déchargement,
+b) Le sous-paragraphe (a) ne s'applique pas notamment aux services de port, au remorquage, au pilotage, au cabotage et à la pêche.
+(3) En respectant ses engagements formels internationaux y compris les recommandations adoptées au sein de l'Organisation des Nations-Unies, chaque Partie Contractante prendra, dans le cadre de sa législation et de ses règlements portuaires, les mesures nécessaires en vue de réduire dans ses ports, dans la mesure du possible, le temps de séjour des navires de l'autre Partie Contractante et de simplifier l'accomplissement des formalités administratives, douanières et sanitaires en vigueur dans lesdits ports.
+(4) Pour l'application du présent article:
+a) Le terme „navire d'une Partie Contractante" désigne, tout navire, à l'exception d'un navire de guerre ou de pêche, battant pavillon de cette Partie Contractante conformément à la législation de celle-ci;
+b) le terme „équipage" désigne le capitaine du navire et toute personne occupée pendant le voyage à bord du navire à l'exercice de fonctions liées à l'exploitation du navire ou à son entretien et figurant sur le rôle de l'équipage.

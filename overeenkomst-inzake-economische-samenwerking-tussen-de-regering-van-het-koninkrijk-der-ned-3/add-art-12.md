@@ -1,0 +1,2 @@
+# Article XII
+La Partie Contractante sur le territoire de laquelle un investissement a été réalisé, investissement pour lequel une garantie financière contre des risques non commerciaux a été accordée par l'autre Partie Contractante ou par un de ses ressortissants, reconnaît la subrogation du garant dans les droits de l'investisseur quant aux dommages-intérêts, si un paiement a été fait sous ladite garantie, et à concurrence du montant de ce paiement.

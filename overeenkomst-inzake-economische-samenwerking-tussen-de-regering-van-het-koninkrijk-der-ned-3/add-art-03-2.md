@@ -1,0 +1,3 @@
+# Artikel III
+(1) Teneinde de verwezenlijking van de in de onderhavige Overeenkomst voorziene doeleinden te bevorderen, geven de Overeenkomstsluitende Partijen, binnen de grenzen hunner wetgeving, hun onderdanen vergunning tot de aanvaarding van betalingen in termijnen wegens de levering van kapitaalgoederen aan Overheids- en particuliere ondernemingen van het andere land, alsook wegens de uitvoering van openbare werken voor die ondernemingen.
+(2) Elke Overeenkomstsluitende Partij waarborgt overeenkomstig haar wetgeving de overmaking van opeisbare bedragen welke verschuldigd zijn aan de crediteuren die onderdanen van de andere Overeenkomstsluitende Partij zijn.

@@ -1,0 +1,2 @@
+# Article VII
+En ce qui concerne la protection de la propriété industrielle, les ressortissants de chaque Partie Contractante jouiront sur le territoire de l'autre Partie Contractante d'une protection qui ne sera pas moins favorable que celle dont jouissent les ressortissants de cette autre Partie Contractante, sans préjudice des droits découlant des conventions internationales conclues en matière de propriété industrielle et liant les Parties Contractantes.

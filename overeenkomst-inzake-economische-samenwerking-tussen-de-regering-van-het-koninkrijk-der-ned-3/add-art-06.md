@@ -1,0 +1,3 @@
+# Article VI
+(1) En ce qui concerne le prélèvement d'impôts, de droits et de taxes ainsi que l'octroi de déductions et d'exemptions fiscales, chaque Partie Contractante accordera sur son territoire aux ressortissants de l'autre Partie Contractante engagés dans des activités économiques le traitement qu'elle accorde soit à ses propres ressortissants, soit aux ressortissants d'Etats tiers, si ce dernier traitement est plus favorable pour l'imposé.
+(2) Chaque Partie Contractante est libre d'accorder des avantages fiscaux spéciaux en vertu d'accords internationaux tendant à éviter la double imposition.
