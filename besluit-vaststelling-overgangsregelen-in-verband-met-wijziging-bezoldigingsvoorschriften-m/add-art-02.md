@@ -1,0 +1,3 @@
+# Artikel II
+1. In afwijking van artikel 3, vijfde lid, van het Beluit herziening bezoldiging militairen zeemacht 1954 (Stb. 50), wordt de bezoldiging van een militair, wiens bezoldiging op 30 september 1984 werd verhoogd op grond van genoemd artikellid, zoals dat op die datum luidde, niet vermeerderd met 7,1%.
+2. In afwijking van artikel 37, tweede lid, van de Regeling inkomsten militairen land- en luchtmacht 1969 (Stb. 1968, 523), wordt de wedde van een militair, die op 30 september 1984 aanspraak had op een garantietoelage op grond van genoemd artikel, zoals dat op die datum luidde, niet vermeerderd met 7,1%.
