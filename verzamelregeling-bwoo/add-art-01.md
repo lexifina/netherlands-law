@@ -1,0 +1,3 @@
+# Artikel I
+1. Voor de toepassing van artikel 4, onderdeel a, wordt het aantal weken waarin arbeid dient te worden verricht gesteld op 20, voor de betrokkene die in de periode van 39 weken onmiddellijk voorafgaande aan het intreden van zijn werkloosheid uitsluitend kort tijdelijke betrekkingen vervult. Onder kort tijdelijke arbeid wordt verstaan arbeid in tijdelijke dienst waarvan de duur minder bedraagt dan een aaneengesloten periode van 26 weken.
+2. Het eerste lid is niet van toepassing op de leraar in opleiding die voor de termijn van 5 maanden in tijdelijke dienst is benoemd op grond van artikel I-T4, eerste lid, van het Rechtspositiebesluit onderwijspersoneel.
