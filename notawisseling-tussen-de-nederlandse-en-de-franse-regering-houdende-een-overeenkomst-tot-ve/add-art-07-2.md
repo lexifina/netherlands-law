@@ -1,0 +1,2 @@
+# Artikel VII
+Elk der beide Regeringen behoudt zich het recht voor, de toepassing van deze overeenkomst tijdelijk op te schorten om redenen van openbare orde of veiligheid of openbare gezondheid. Van deze maatregel zal onmiddellijk langs diplomatieke weg worden kennis gegeven, zo mogelijk na voorafgaande overeenstemming. Op dezelfde wijze zal worden gehandeld, zodra de bedoelde maatregel wordt opgeheven.
