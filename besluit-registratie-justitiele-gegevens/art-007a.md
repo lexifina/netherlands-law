@@ -1,0 +1,2 @@
+# Artikel 7a
+De gegevens als bedoeld in artikel 2 onder 1b, onder 4, onder 6c, onder 8 en onder 11, alsmede de gegevens omtrent rechtspersonen of vennootschappen worden uit de justitiële documentatie verwijderd na verloop van 5 jaren. Evenwel worden de gegevens welke langer beschikbaar moeten blijven opdat kan worden voldaan aan artikel 7 van het Besluit inlichtingen justitiële documentatie na tien jaren verwijderd.
