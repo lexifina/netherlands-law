@@ -20,7 +20,7 @@ de Wet verontreiniging oppervlaktewateren, de artikelen 1, eerste, derde en vier
 de Wet verontreiniging zeewater, de artikelen 3, eerste lid, 4, en 11;
 de Wet verplaatsing mestproductie, de artikelen 2, 3, 4, en 9, vijfde lid;
 de Wet vervoer gevaarlijke stoffen, de artikelen 4, 5, 10, 11, 21, 24, 27, 29, 31 en 33;
-de Wet voorkoming verontreiniging door schepen, de artikelen 5, eerste lid, 12, eerste en tweede lid, 12b, eerste lid, 12c, eerste lid, 13, 13a, eerste, tweede, derde en vierde lid, 23, tweede en vierde lid, 35, derde lid35a, derde lid, en 36a, eerste lid;
+de Wet voorkoming verontreiniging door schepen, de artikelen 5, eerste lid, 12, eerste lid, tweede lid, onderdelen a en b, vierde, zesde en zevende lid, 12b, eerste lid, 12c, eerste lid, 13, 13a, eerste, tweede, derde en vierde lid, 23, tweede en vierde lid, 35, derde lid35a, derde lid, en 36a, eerste lid;
 2°. overtredingen van voorschriften, gesteld bij of krachtens:
 de Bestrijdingsmiddelenwet 1962: artikel 16g, zesde lid;
 de Boswet, de artikelen 2, derde lid, 3, eerste en tweede lid, en 13, eerste lid;
@@ -53,4 +53,5 @@ de Wet luchtvaart, de artikelen 6.60, eerste lid, 6.61, tweede lid, 6.61a, en 6.
 de Wet milieubeheer, de artikelen 10.23 – voor zover aangeduid als strafbare feiten – en artikel 10.60, tweede lid, onder d en e;
 de Wet van 13 mei 1993, Stb. 283, tot uitbreiding en wijziging van de Wet milieubeheer (afvalstoffen), artikel VII, voor zover het betreft gemeentelijke verordeningen, vastgesteld krachtens artikel 2 van de Afvalstoffenwet;
 de Wet verplaatsing mestproductie, de artikelen 9, tweede lid, 10, 13, 14, en 17;
-de Wet vervoer gevaarlijke stoffen: de artikelen 47 en 48, tweede lid.
+de Wet vervoer gevaarlijke stoffen: de artikelen 47 en 48, tweede lid;
+de Wet voorkoming verontreiniging door schepen, artikel 12, tweede lid, onderdeel c.
