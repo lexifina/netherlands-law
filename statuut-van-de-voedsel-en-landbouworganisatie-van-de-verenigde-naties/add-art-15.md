@@ -1,0 +1,4 @@
+# Article XV. Agreements between the Organization and Member Nations
+1. The Conference may authorize the Director-General to enter into agreements with Member Nations for the establishment of international institutions dealing with questions relating to food and agriculture.
+2. In pursuance of a policy decision taken by the Conference by a two-thirds majority of the votes cast, the Director-General may negotiate and enter into such agreements with Member Nations subject to the provisions of paragraph 3 below.
+3. The signature of such agreements by the Director-General shall be subject to the prior approval of the Conference by a two-thirds majority of the votes cast. The Conference may, in a particular case or cases, delegate the authority of approval to the Council, requiring a vote concurred in by at least two thirds of the membership of the Council.

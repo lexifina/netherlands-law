@@ -1,0 +1,7 @@
+# Artikel XVIII. Begroting en bijdragen
+1. De Directeur-Generaal dient tijdens elke gewone zitting van de Vergadering de begroting van de Organisatie ter goedkeuring in.
+2. Elk Lid en elk Geassocieerd Lid verplicht zich jaarlijks zijn deel van de begroting van de Organisatie bij te dragen zoals dat door de Vergadering is vastgesteld. Bij het vaststellen van de door de Leden en Geassocieerde Leden te betalen bijdragen, houdt de Vergadering rekening met het verschil in status tussen Leden en Geassocieerde Leden.
+3. Elk Lid en elk Geassocieerd Lid betaalt na goedkeuring van zijn verzoek als eerste bijdrage een door de Vergadering vast te stellen deel van de begroting van het lopende financiële tijdvak.
+4. Het financiële tijdvak van de Organisatie staat gelijk aan de twee kalenderjaren die volgen na de reguliere datum voor een gewone zitting van de Vergadering, tenzij de Vergadering anders besluit.
+5. Beslissingen over de hoogte van de begroting worden genomen bij een tweederdemeerderheid van de uitgebrachte stemmen.
+6. Een organisatie die Lid is, is niet verplicht aan de begroting bij te dragen zoals omschreven in het tweede lid van dit artikel, maar betaalt aan de Organisatie een door de Vergadering te bepalen bedrag ter dekking van de administratieve en overige kosten die voortvloeien uit haar lidmaatschap van de Organisatie. Een organisatie die Lid is, stemt niet over de begroting.

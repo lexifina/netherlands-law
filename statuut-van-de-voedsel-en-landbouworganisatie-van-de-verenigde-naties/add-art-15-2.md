@@ -1,0 +1,4 @@
+# Artikel XV. Overeenkomsten tussen de Organisatie en Leden
+1. De Vergadering kan de Directeur-Generaal machtigen overeenkomsten aan te gaan met Leden tot oprichting van internationale instellingen die zich bezighouden met kwesties op het gebied van voedsel en landbouw.
+2. Ten behoeve van een door de Vergadering bij een tweederdemeerderheid van de uitgebrachte stemmen genomen beleidsbeslissing, kan de Directeur-Generaal onderhandelen en overeenkomsten aangaan met Leden, met inachtneming van het derde lid van dit artikel.
+3. Alvorens de Directeur-Generaal dergelijke overeenkomsten ondertekent, dienen zij door de Vergadering te worden goedgekeurd met een tweederdemeerderheid van de uitgebrachte stemmen. In bepaalde gevallen kan de Vergadering de bevoegdheid tot goedkeuring delegeren aan de Raad, in welk geval de instemming vereist is van ten minste twee derde van de leden van de Raad.
