@@ -1,0 +1,2 @@
+# ARTIKEL II
+Ten behoeve van de eerste verkiezingen van de leden van de Tweede Kamer en het Europees Parlement na de inwerkingtreding van deze wet zenden burgemeester en wethouders van 's-Gravenhage aan de personen die opgenomen zijn in de kiezersregisters welke ter uitvoering van artikel D 3, eerste lid, van de Kieswet voor deze verkiezingen in 1994 gevormd zijn, een formulier tot registratie van de kiesgerechtigdheid toe.
