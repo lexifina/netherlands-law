@@ -1,0 +1,3 @@
+# Article IV
+1) This Protocol shall come into force on the thirtieth day after twelve States shall, in accordance with the provisions of Article III, have signed it without reservation as to acceptance or accepted it and after entry into force of the amendment to the final clause of the Convention, which provides that the text of the Convention in the Russian language is of equal authenticity.
+2) As regards any State which shall subsequently become a party to this Protocol in accordance with Article III, the Protocol shall come into force on the date of its signature without reservation as to acceptance or of its acceptance.
