@@ -26,7 +26,7 @@ g. elektriciteit voor dat gedeelte van de geleverde hoeveelheid per verbruiksper
 – hoger is dan 10 000 000 m3, per m3 € 0,0075.
 5. Bij aardgas met een bovenste verbrandingswaarde lager of hoger dan 35,17 megajoule per m3 worden de in het eerste lid, onderdeel d, vierde en zevende lid genoemde tarieven naar evenredigheid verlaagd, onderscheidenlijk verhoogd.
 6. Voorzover de belastingplichtige met betrekking tot de levering van elektriciteit een specifiek contract heeft gesloten met de verbruiker en beschikt over een met die levering overeenkomende hoeveelheid garanties van oorsprong als bedoeld in artikel 1, eerste lid, onderdeel x, van de Elektriciteitswet 1998, bedraagt het tarief, in afwijking van het eerste lid, onderdeel e, voor dat gedeelte van de geleverde hoeveelheid per verbruiksperiode van 12 maanden per aansluiting dat:
-– niet hoger is dan 10 000 kWh, per kWh € 0,0357;
+– niet hoger is dan 10 000 kWh, per kWh € 0,0504;
 – hoger is dan 10 000 kWh nihil.
 De eerste volzin is niet van toepassing met betrekking tot garanties van oorsprong die zijn geboekt ter zake van elektriciteit die is opgewekt door middel van waterkracht dan wel van elektriciteit uit biomassa die niet als zuivere biomassa kan worden aangemerkt.
 7. Voorzover de belastingplichtige met betrekking tot de levering van stortgas, rioolwaterzuiveringsgas of biogas een specifiek contract heeft gesloten met de verbruiker, bedraagt het tarief, in afwijking van het eerste lid, onderdeel d, voor dat gedeelte van de geleverde hoeveelheid per verbruiksperiode van 12 maanden per aansluiting dat:
