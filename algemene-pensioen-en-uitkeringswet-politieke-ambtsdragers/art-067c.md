@@ -1,0 +1,9 @@
+# Artikel 67c
+1. De nabestaande die recht heeft op nabestaandenuitkering ingevolge de Algemene nabestaandenwet en op 1 januari 1998 55 jaar of ouder is, heeft recht op een toeslag op zijn volgens artikel 67 berekende pensioen, indien dat is berekend of mede berekend over diensttijd na 31 december 1985, indien en voor zo lang hij recht heeft op een nabestaandenuitkering ingevolge de Algemene nabestaandenwet, die krachtens artikel 67, derde of negende lid van die wet vanaf 1 januari 1998 wordt verminderd wegens de omstandigheid dat de nabestaande vanaf een tijdstip voor 1 juli 1996 met dezelfde persoon onafgebroken ongehuwd samenwoont.
+2. De toeslag bedraagt jaarlijks voor elk voor de berekening van het nabestaandenpensioen tellend jaar na 31 december 1985 2,5 procent van het verschil tussen 75 procent van het tot een jaarbedrag herleide bedrag van de nabestaandenuitkering en de vakantie-uitkering ingevolge de Algemene nabestaandenwet zonder vermindering en het verminderde bedrag. De toeslag bedraagt niet meer dan 75 procent van het in de eerste volzin eerstbedoelde bedrag.
+De toeslag wordt vanaf 1 januari 1998 vastgesteld met inachtneming van de vanaf die datum geldende bedragen krachtens de Algemene nabestaandenwet en wordt vervolgens nader vastgesteld met ingang van 1 januari en 1 juli aan de hand van de ontwikkeling van die bedragen.
+3. Het recht op de toeslag vervalt:
+a. met ingang van de eerste dag van de maand waarin de nabestaande de 65-jarige leeftijd bereikt;
+b. met ingang van de maand volgend op die waarin de nabestaande trouwt of partij is bij een aanmelding;
+c. met ingang van de eerste dag van de maand waarin de vermindering van de nabestaandenuitkering, bedoeld in het eerste lid, ongedaan wordt gemaakt.
+4. Artikel 67a, vierde lid, is van overeenkomstige toepassing. Artikel 67b is niet van toepassing.

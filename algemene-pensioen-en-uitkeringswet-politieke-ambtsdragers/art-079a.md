@@ -1,0 +1,3 @@
+# Artikel 79a. Samenloop van wezenpensioenen
+1. Indien een wees die reeds recht op een wezenpensioen heeft, hetzij krachtens deze wet, hetzij krachtens een andere regeling, daarna eveneens recht op enig ander wezenpensioen verkrijgt, hetzij krachtens deze wet, hetzij krachtens een andere regeling, wordt voor de berekening van de eigen pensioenen waarvan die wezenpensioenen zijn of geacht moeten worden te zijn afgeleid, samenlopende tijd slechts medegeteld bij de berekening van het pensioen, waarbij die tijd het hoogste bedrag oplevert.
+2. Artikel 79, tweede lid, is van overeenkomstige toepassing.

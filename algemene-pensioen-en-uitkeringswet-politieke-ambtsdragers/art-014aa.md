@@ -1,0 +1,2 @@
+# Artikel 14aa. Pensioengrondslag tijd na 31 december 1994
+Artikel 14a, eerste lid, is van toepassing op tijd na 31 december 1994, met dien verstande dat de franchise het bedrag is dat op grond van een reglement als bedoeld in artikel 4, vijfde lid, van de Wet privatisering ABP als zodanig geldt voor de berekening van een ouderdomspensioen van een gepensioneerd overheidswerknemer in de zin van die wet. Artikel 14a, vijfde lid, is van overeenkomstige toepassing.
