@@ -1,0 +1,9 @@
+# Artikel IV. (bij artikel 3 van het Verdrag)
+1) De in artikel 3, eerste lid, van het Verdrag vermelde voorwerpen worden overgedragen na overlegging van een bevel tot inbeslagneming of van een andere akte van gelijke kracht afkomstig van de bevoegde autoriteit van de verzoekende Staat, tenzij het betreft voorwerpen die naar het recht van een van de Partijen bij deze Overeenkomst niet vatbaar zijn voor inbeslagneming. Voorwerpen worden ook zonder overlegging van een bevel tot inbeslagneming overgedragen indien uit een verzoek van een naar het recht van de verzoekende Staat bevoegde rechterlijke autoriteit blijkt, dat aan de voor de inbeslagneming vereiste voorwaarden is voldaan.
+2) Rechten van derden en - onverminderd het bepaalde in het vierde lid - van de aangezochte Staat op de ingevolge artikel 3 van het Verdrag of ingevolge deze Overeenkomst over te dragen voorwerpen blijven onverlet.
+3) Met het oog op de teruggave aan de rechthebbende worden, behalve de in artikel 3, eerste lid, van het Verdrag vermelde voorwerpen, ook voorwerpen overgedragen, die door een strafbaar feit zijn verkregen alsmede de uit hun vervreemding verkregen vergoeding voorzover:
+a. het belang van de strafvordering in de aangezochte Staat zich daartegen niet verzet,
+b. derden op de voorwerpen geen rechten doen gelden, en
+c. de overdracht niet indruist tegen een rechterlijke beslissing.
+Een bevel tot inbeslagneming of een akte van gelijke kracht behoeft niet te worden overgelegd.
+4) De aangezochte Staat zal geen zekerheidsrecht of enig ander verhaalsrecht met zakelijke werking krachtens de wettelijke bepalingen inzake belastingen of de douane doen gelden op voorwerpen, die op last van een rechterlijke autoriteit, zonder voorwaarde van teruggave, worden overgedragen, tenzij de door het strafbare feit benadeelde eigenaar van de voorwerpen zelf terzake belastingplichtig is.
