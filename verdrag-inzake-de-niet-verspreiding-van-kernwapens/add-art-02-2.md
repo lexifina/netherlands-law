@@ -1,0 +1,2 @@
+# Artikel II
+Iedere niet-kernwapenstaat, die partij is bij dit Verdrag, verbindt zich, de overdracht door welke overdrager dan ook van kernwapens of andere nucleaire explosiemiddelen of van de beschikkingsmacht over zodanige wapens of explosiemiddelen noch direct noch indirect te aanvaarden, noch kernwapens of andere nucleaire explosiemiddelen te vervaardigen of anderszins te verwerven en evenmin te trachten hulp te verkrijgen bij de vervaardiging van kernwapens of andere nucleaire explosiemiddelen of zodanige hulp te aanvaarden.

@@ -1,0 +1,2 @@
+# Artikel I
+Iedere kernwapenstaat die partij is bij dit Verdrag verbindt zich, kernwapens of andere nucleaire explosiemiddelen, dan wel de beschikkingsmacht over zodanige wapens of explosiemiddelen noch direct noch indirect aan welke ontvanger dan ook over te dragen, noch een niet-kernwapenstaat op enigerlei wijze te helpen, aan te moedigen of te bewegen kernwapens of andere nucleaire explosiemiddelen te vervaardigen of anderszins te verwerven of de beschikkingsmacht over zodanige wapens of explosiemiddelen te verwerven.
