@@ -1,0 +1,5 @@
+# Artikel 3a
+1. Een certificaat wordt alleen afgegeven indien het schip en de bedrijfsvoering over het schip, zowel aan boord als aan de wal, voldoen aan de eisen, daartoe bij of krachtens algemene maatregel van rijksbestuur vastgesteld.
+2. De vaststelling van de eisen, bedoeld in het eerste lid, kan voor bepaalde bij of krachtens de maatregel aangewezen onderwerpen geschieden door het van toepassing verklaren van de regels, ter zake gegeven door bij of krachtens de maatregel aangewezen natuurlijke personen of rechtspersonen. Indien een aanwijzing plaatsvindt krachtens de maatregel wordt het besluit tot aanwijzing bekendgemaakt in de Staatscourant, in de Curaçaosche Courant en in de Landscourant van Aruba.
+3. Bij of krachtens algemene maatregel van rijksbestuur wordt vastgesteld aan welke onderzoeken schepen, ter verkrijging van een certificaat of tijdens de geldigheidsduur daarvan, zijn onderworpen om vast te stellen of zij voldoen aan de eisen, bedoeld in het eerste lid.
+4. Bij of krachtens algemene maatregel van rijksbestuur worden regels gegeven met betrekking tot de aanvraag voor het verkrijgen van een certificaat en de daarbij over te leggen bescheiden.
