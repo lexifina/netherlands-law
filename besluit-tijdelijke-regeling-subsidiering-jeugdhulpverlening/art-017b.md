@@ -1,0 +1,3 @@
+# Artikel 17b
+1. Onze Minister verdeelt het beschikbare bedrag in volgorde van ontvangst van de aanvragen, met dien verstande dat wanneer de aanvrager krachtens artikel 4:5 van de Algemene wet bestuursrecht de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld, met betrekking tot de verdeling als datum van de ontvangst geldt.
+2. Indien met het oog op de onderlinge afweging van aanvragen is bepaald dat aanvragen op een of meer bepaalde data in een kalenderjaar worden ingediend, voorziet Onze Minister in een gelijktijdige beslissing met betrekking tot soortgelijke experimenten op basis van vergelijking van hun geschiktheid om bij te dragen aan de doelstellingen van de subsidie.
