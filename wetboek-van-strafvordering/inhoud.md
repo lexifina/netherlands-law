@@ -106,7 +106,7 @@
 #### afdeling Tweede. Toepassing van de artikelen 38b, 38c, 38i of 38k van het Wetboek van Strafrecht
 #### afdeling Derde. Verlenging van de terbeschikkingstelling
 #### afdeling Vierde. Beroep
-### TITEL IIC. Rechtsplegingen in verband met de maatregel van plaatsing in een inrichting voor de opvang van verslaafden
+### TITEL IIC. Rechtsplegingen in verband met de plaatsing in een inrichting voor stelselmatige daders
 ### Titel III. Vervolging en berechting van rechterlijke ambtenaren
 ### Titel IIIA. Strafvordering ter zake van strafbare feiten waarvan de burgerlijke rechter kennis neemt
 ### Titel IIIb. Strafvordering ter zake van ontneming van wederrechtelijk verkregen voordeel

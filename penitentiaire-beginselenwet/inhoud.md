@@ -5,7 +5,7 @@
 ## Hoofdstuk IV. Selectie en selectieprocedure
 ### Paragraaf 1. Plaatsing en overplaatsing
 ### Paragraaf 2. Bezwaar- en verzoekschriftprocedure
-## Hoofdstuk IVA. Opvang van verslaafden
+## Hoofdstuk IVA. Inrichtingen voor stelselmatige daders
 ## Hoofdstuk V. Bewegingsvrijheid
 ### Paragraaf 1. Mate van gemeenschap
 ### Paragraaf 2. Ordemaatregelen

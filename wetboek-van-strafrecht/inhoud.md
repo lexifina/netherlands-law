@@ -5,7 +5,7 @@
 ### Titel IIA. Maatregelen
 #### afdeling Eerste. Onttrekking aan het verkeer, ontneming van het wederrechtelijk verkregen voordeel en schadevergoeding
 #### afdeling Tweede. Plaatsing in een psychiatrisch ziekenhuis en terbeschikkingstelling
-#### afdeling Derde. Plaatsing in een inrichting voor de opvang van verslaafden
+#### afdeling Derde. Plaatsing in een inrichting voor stelselmatige daders
 ### Titel III. Uitsluiting en verhoging van strafbaarheid
 ### Titel IV. Poging en voorbereiding
 ### Titel V. Deelneming aan strafbare feiten
