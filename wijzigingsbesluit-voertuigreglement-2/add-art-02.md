@@ -1,0 +1,2 @@
+# ARTIKEL II
+Het bepaalde in het vijfde lid van artikel 3.2.35 is tot 1 oktober 2003 niet van toepassing op typen van de aldaar bedoelde personenauto's indien deze typen voor 1 oktober 1998 zijn goedgekeurd voor toelating tot het verkeer op de weg met toepassing van ten minste twee van de richtlijnen 70/387/EEG (PbEG 10 augustus 1970, L 176), 74/483/EEG (PbEG 2 oktober 1974, L 266) en 76/115/EEG (PbEG 30 januari 1976, L 24).
