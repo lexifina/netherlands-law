@@ -1,0 +1,3 @@
+# Artikel V
+1. Bevelen en overeenkomsten, uitgevaardigd of gesloten voorafgaand aan het tijdstip van inwerkingtreding van deze wet, gelden als bevelen en overeenkomsten in de zin van de artikelen 126g tot en met 126z alsmede de artikelen 126ff en 126gg, indien zij aan de in het toepasselijke artikel gestelde eisen voldoen.
+2. In zaken waarin voor het tijdstip van inwerkingtreding van deze wet is bepaald dat gegevensverkeer wordt afgetapt en opgenomen of gevorderd dat inlichtingen terzake van gegevensverkeer worden verstrekt, blijven de artikelen 125f, 125g en 125h van het Wetboek van Strafvordering, zoals zij luidden voor het tijdstip van inwerkingtreding van deze wet, van kracht.
