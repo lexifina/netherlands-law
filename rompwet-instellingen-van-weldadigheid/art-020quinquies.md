@@ -1,0 +1,2 @@
+# Artikel 20quinquies
+De in het eerste lid van artikel 20bis bedoelde functionarissen geven aan hen, die krachtens de artikelen 20bis en 20ter tot het uitoefenen van contrôle of het instellen van een onderzoek bevoegd zijn, zo dikwijls dezen het vorderen, inzage van de kas, de boekhouding en de bescheiden en verstrekken, desgewenst ook schriftelijk, de inlichtingen, die door hen voor de uitoefening van hun taak nodig worden geacht.
