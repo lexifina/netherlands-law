@@ -1,0 +1,5 @@
+# Ad Artikel 2 en 3
+1) Dit Verdrag beperkt niet het recht van Zwitserland om de successiebelasting, betrekking hebbende op de tot een nalatenschap behorende zaken, welke aan deze Staat uitsluitend ter belasting zijn voorbehouden, te berekenen naar het tarief dat toepasselijk zou zijn, indien de gehele nalatenschap of het gehele erfdeel in deze Staat belastbaar zou zijn.
+2) Indien de overledene zijn laatste woonplaats in Nederland had, zal deze Staat het recht behouden de belasting te berekenen over de gehele nalatenschap, onverschillig of de bestanddelen gelegen zijn op zijn grondgebied of op het grondgebied van Zwitserland, maar zal op de aldus berekende belasting het laagste van de beide volgende bedragen in mindering brengen:
+a. het bedrag van de rechten en belastingen, door Zwitserland geheven over de zaken die volgens dit Verdrag op zijn grondgebied belastbaar zijn; of
+b. het deel van de door Nederland berekende rechten en belastingen, dat in overeenstemming is met de verhouding tussen het zuivere bedrag van de in Zwitserland belastbare zaken en het gehele zuivere bedrag van de belastbare zaken van de overledene.
