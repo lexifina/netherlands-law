@@ -1,0 +1,5 @@
+# Artikel XVI
+1. Indien een van beide Overeenkomstsluitende Partijen het wenselijk acht enige bepaling van deze Overeenkomst of de Bijlage te wijzigen, kan zij de andere Overeenkomstsluitende Partij om overleg verzoeken. Dit overleg, dat zowel mondeling als schriftelijk kan worden gepleegd, kan plaatsvinden tussen de luchtvaartautoriteiten, en vangt aan binnen een termijn van zestig (60) dagen te rekenen van de datum van het verzoek.
+2. Wijzigingen in deze Overeenkomst of de Bijlage waartoe gedurende het in het eerste lid van dit artikel bedoelde overleg is besloten, worden overeengekomen in een diplomatieke notawisseling tussen de Overeenkomstsluitende Partijen.
+3. Wijzigingen in de Overeenkomst treden in werking op de datum waarop de Overeenkomstsluitende Partijen elkaar schriftelijk hebben medegedeeld dat aan de in hun onderscheiden landen hiervoor constitutioneel vereiste formaliteiten is voldaan.
+4. Wijzigingen in de Bijlage treden in werking op de in het tweede lid bedoelde datum van de diplomatieke notawisseling.

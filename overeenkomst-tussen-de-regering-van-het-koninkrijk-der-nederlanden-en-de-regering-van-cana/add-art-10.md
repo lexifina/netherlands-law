@@ -1,0 +1,2 @@
+# Artikel X
+De luchtvaartautoriteiten van beide Overeenkomstsluitende Partijen wisselen regelmatig en in een vorm als overeengekomen tussen deze autoriteiten gegevens uit, die alle inlichtingen bevatten die vereist zijn voor het bepalen van de hoeveelheid passagiers, post en vracht vervoerd op de in de Routetabel omschreven routes alsmede van de punten van vertrek en bestemming van zodanig vervoer.

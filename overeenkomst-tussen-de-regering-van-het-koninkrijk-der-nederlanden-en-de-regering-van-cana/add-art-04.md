@@ -1,0 +1,3 @@
+# Artikel IV
+1. Na ontvangst van een kennisgeving van aanwijzing of van vervanging ingevolge artikel III, verlenen de luchtvaartautoriteiten van de andere Overeenkomstsluitende Partij, met inachtneming van het bepaalde in artikel V, zo snel mogelijk aan een aldus aangewezen of in de plaats gestelde luchtvaartmaatschappij de vereiste vergunning voor het exploiteren van de luchtdiensten waarvoor de luchtvaartmaatschappij is aangewezen.
+2. Na ontvangst van een dergelijke vergunning kan de luchtvaartmaatschappij op ieder tijdstip een aanvang maken met de gehele of gedeeltelijke exploitatie van de luchtdiensten, mits de tarieven, welke overeenkomstig het bepaalde in artikel XII van deze Overeenkomst zijn vastgesteld, ten aanzien van dergelijke diensten van kracht zijn.
