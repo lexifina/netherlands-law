@@ -1,2 +1,0 @@
-# Artikel 143b
-Wanneer het leggen van een pijpleiding als in artikel 143a bedoeld gevaar kan opleveren, kan Onze Minister bij een ten hoogste acht weken na de ontvangst door hem van de in artikel 143a, eerste lid, bedoelde mededeling aan de bestuurders van de betrokken mijnonderneming of in artikel 12, eerste lid, bedoelde andere onderneming toe te zenden beschikking bepalen, dat het leggen van die pijpleiding niet mag plaatsvinden dan langs een traject en op een minimale diepte in de bodem, zomede op een wijze, welke bij die beschikking zijn aangegeven.

@@ -1,2 +1,0 @@
-# Artikel III
-Werkplekken waarop ingevolge dit besluit het Besluit beeldschermwerk van overeenkomstige toepassing wordt en die op het tijdstip van inwerkingtreding van dit besluit reeds in gebruik zijn moeten uiterlijk op 1 januari 1995 voldoen aan de voorschriften, neergelegd in de bijlage bij de richtlijn nr. 90/270/EEG van de Raad van de Europese Gemeenschappen van 29 mei 1990 betreffende minimumvoorschriften inzake veiligheid en gezondheid met betrekking tot het werken met beeldschermapparatuur (PbEG L 156).

@@ -1,5 +1,0 @@
-# Artikel 9a
-1. Arbeidsplaatsen moeten zodanig worden ontworpen, gebouwd, ingericht, bediend, gecontroleerd en onderhouden, dat zij aan de te verwachten omgevingskrachten weerstand kunnen bieden. Zij dienen een constructie en een stevigheid te hebben die zijn afgestemd op het gebruik dat ervan wordt gemaakt.
-2. Arbeidsplaatsen moeten volgens ergonomische beginselen worden ontworpen en gebouwd, waarbij ermee rekening wordt gehouden dat de arbeiders de werkzaamheden op hun werkplek kunnen volgen.
-3. Arbeidsplaatsen moeten zodanig zijn ingericht, dat zij een afdoende bescherming tegen risico's bieden. Zij moeten schoon worden gehouden en alle gevaarlijke stoffen moeten op zodanige wijze worden verwijderd of beveiligd dat zij de veiligheid en de gezondheid van de arbeiders niet in gevaar kunnen brengen.
-4. Bij de inrichting van de arbeidsplaatsen moet in voorkomend geval met gehandicapte arbeiders rekening worden gehouden. Dit geldt met name voor deuren, verbindingswegen, trappen, doucheruimten, wasruimten, toiletten en werkplekken die rechtstreeks door gehandicapte arbeiders worden gebruikt.

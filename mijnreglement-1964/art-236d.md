@@ -1,4 +1,0 @@
-# Artikel 236d
-In gevallen waarin personen die bijzondere taken uitvoeren in verband met het uitvoeren van deze taken moeten verblijven op plaatsen waar het niveau van het geluid van dag tot dag sterk varieert en het redelijkerwijze niet kan worden gevergd dat de in artikel 236b, derde en vierde lid, bedoelde voorzieningen en maatregelen aangebracht, onderscheidenlijk genomen worden, gelden de volgende voorschriften:
-a. het gemiddelde niveau van het geluid, berekend of gemeten over een periode van een week, mag de voor artikel 236b, vijfde lid, vastgestelde niveau van schadelijk geluid niet overschrijden, tenzij zulks redelijkerwijze niet kan worden gevergd.
-b. met regelmatige tussenpozen, doch in elk geval indien er voor het geluid op de arbeidsplaats relevante veranderingen plaatsvinden in de arbeid of de omstandigheden waaronder deze arbeid wordt verricht, moet worden gecontroleerd of nog wordt voldaan aan het in onderdeel a genoemde voorschrift.

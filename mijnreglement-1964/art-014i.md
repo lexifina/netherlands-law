@@ -1,3 +1,0 @@
-# Artikel 14i
-1. Wanneer er arbeiders van verschillende ondernemingen op een zelfde arbeidsplaats aanwezig zijn, moeten de bestuurders van die ondernemingen, onverminderd de andere bepalingen van dit reglement, samenwerken bij de uitvoering van de maatregelen inzake veiligheid, hygiëne en gezondheid en elkaar wederzijds alsmede hun arbeiders of hun vertegenwoordigers van de beroepsrisico's op de hoogte stellen.
-2. De bestuurders van de betrokken mijnonderneming moeten de uitvoering van alle maatregelen inzake veiligheid en gezondheid van de arbeiders coördineren. Zij preciseren in het in artikel 14f bedoelde veiligheids- en gezondheidsdocument het doel, de maatregelen en de wijze van uitvoering van deze coördinatie.

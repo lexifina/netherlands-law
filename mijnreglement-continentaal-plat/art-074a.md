@@ -1,2 +1,0 @@
-# Artikel 74a
-Met het ten behoeve van een opsporingsonderzoek of het winnen van delfstoffen in of op het continentaal plat leggen van een pijpleiding mag niet worden aangevangen dan nadat de aan de Hoofdingenieur-Directeur van de Dienst voor het Stoomwezen verstrekte gegevens door die dienst zijn beoordeeld en de leiding blijkens een door die Hoofdingenieur-Directeur aan de bestuurders van de betrokken mijnonderneming afgegeven schriftelijke verklaring, met name wat betreft materiaalkeuze en wijze van vervaardigen, aan artikel 74, eerste, tweede en derde lid, voldoet.

@@ -1,7 +1,0 @@
-# Artikel 154e
-1. Personen die worden blootgesteld aan een door Onze Minister voor de toepassing van dit artikel vastgesteld niveau van schadelijk geluid moeten in de gelegenheid worden gesteld een audiometrisch onderzoek te ondergaan dat erop gericht is de gehoorfunctie van de betrokken persoon zoveel mogelijk in stand te houden.
-2. Het audiometrisch onderzoek, bedoeld in het eerste lid, moet worden uitgevoerd door de bedrijfsgeneeskundige dienst, bedoeld in artikel 143, dan wel, indien artikel 143, derde lid, toepassing heeft gevonden, door een arts die terzake deskundig is.
-3. Zolang de blootstelling aan het in het eerste lid bedoelde niveau van schadelijk geluid duurt, moeten de betrokken personen met tussenpozen van vier jaren opnieuw in de gelegenheid worden gesteld om een audiometrisch onderzoek als bedoeld in het eerste en tweede lid te ondergaan, dan wel met kortere tussenpozen indien dit naar het oordeel van de dienst of de arts, bedoeld in het tweede lid, noodzakelijk is.
-4. Aan de dienst of de arts, bedoeld in het tweede lid, moet inzage gegeven worden in het in artikel 154a, vijfde lid, bedoelde register en moet de gelegenheid worden geboden om te adviseren over de te nemen persoonlijke beschermende dan wel preventieve maatregelen.
-5. De resultaten van het audiometrisch onderzoek moeten gedurende ten minste tien jaar worden bewaard.
-6. De betrokken personen moeten in kennis worden gesteld van de resultaten van elk audiometrisch onderzoek dat zij overeenkomstig dit artikel hebben ondergaan.

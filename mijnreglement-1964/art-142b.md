@@ -1,4 +1,0 @@
-# Artikel 142b
-Indien de ondergrondse werken voorgoed worden verlaten en die werken grenzen aan de ondergrondse werken van een ander mijnwerk, moeten:
-a. de bestuurders van de betrokken mijnonderneming aan de bestuurders van de mijnonderneming, waartoe het aangrenzende mijnwerk behoort, doelmatige hoogtelijn-plannen verstrekken, waaruit kan worden afgeleid het gevaar voor water- of drijfzanddoorbraken, dat door het verlaten van de desbetreffende ondergrondse werken voor de ondergrondse werken van het aangrenzende mijnwerk kan ontstaan;
-b. de in het in artikel 142a, eerste lid, bedoelde sluitingsplan aan te geven maatregelen, voor zover betrekking hebbend op het voorkomen van gevaar als onder a bedoeld, zijn vastgesteld na onderling overleg tussen de bestuurders van de betrokken mijnondernemingen.

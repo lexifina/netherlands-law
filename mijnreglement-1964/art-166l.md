@@ -1,2 +1,0 @@
-# Artikel 166l
-Een ieder, die met het verrichten van werkzaamheden onder water of onder druk is belast, dan wel direct bij het verrichten van die werkzaamheden is betrokken, moet in het bezit zijn van een door Onze Minister goedgekeurde schriftelijke instructie, vermeldende hetgeen bij die werkzaamheden behoort te worden nagekomen of nagelaten in het belang van de veiligheid en ter voorkoming van lichamelijke schade.

@@ -1,2 +1,0 @@
-# Artikel 24a
-Ramen, bovenlichtvoorzieningen en voorzieningen voor luchtverversing die geopend, geregeld of beveiligd kunnen worden, moeten op zodanige wijze geconstrueerd zijn dat deze handelingen op veilige wijze kunnen worden uitgevoerd. In geopende stand mogen zij geen gevaar opleveren voor de arbeiders. Ramen, bovenlichtvoorzieningen en voorzieningen voor luchtverversing moeten zonder gevaar kunnen worden schoongemaakt.

@@ -1,6 +1,0 @@
-# Artikel 77a
-1. Zodra lekkage van een in of op het continentaal plat ten behoeve van een opsporingsonderzoek of het winnen van delfstoffen gelegde pijpleiding wordt geconstateerd:
-a. moet de pijpleiding of het betrokken deel daarvan, indien de lekkage gevaar voor de veiligheid van de bij mijnbouwkundig werk werkzame personen, van de scheepvaart of van de visserij dan wel voor verontreiniging van de zee oplevert, onverwijld buiten gebruik worden gesteld;
-b. moeten, tenzij de pijpleiding of het betrokken deel daarvan buiten gebruik is gesteld, onverwijld de nodige herstelwerkzaamheden worden uitgevoerd;
-c. mag, indien de uitvoering van de herstelwerkzaamheden gevaar voor de veiligheid van de daarbij werkzame personen, van de scheepvaart of van de visserij, dan wel voor verontreiniging van de zee kan opleveren, daarmede niet worden aangevangen of voortgegaan dan nadat de pijpleiding of het betrokken deel daarvan buiten gebruik is gesteld.
-2. Ten aanzien van het opnieuw in gebruik nemen van een in verband met herstelwerkzaamheden buiten gebruik zijnde pijpleiding of buiten gebruik zijnd deel van zodanige leiding zijn de artikelen 76, eerste, vierde en vijfde lid, en 76a, eerste en tweede lid, van overeenkomstige toepassing.

@@ -1,9 +1,0 @@
-# Artikel 229a
-1. Een geneeskundig onderzoek als in artikel 229 bedoeld of een geneeskundige controle krachtens een andere regeling als in artikel 229, zesde lid, bedoeld wordt verricht door de aan de betrokken mijnonderneming verbonden bedrijfsgeneeskundige dienst, dan wel, indien artikel 223, vierde lid, toepassing heeft gevonden, door een of meer artsen, die terzake deskundig zijn. Indien aan een mijnonderneming een bedrijfsgeneeskundige dienst is verbonden, kan een geneeskundig onderzoek als in artikel 229 bedoeld in door Onze Minister aangewezen gevallen tevens worden verricht door een of meer niet aan die dienst verbonden artsen, die terzake deskundig zijn.
-2. Onze Minister kan, met afwijking van het in het eerste lid bepaalde, artsen aanwijzen voor het verrichten van het geneeskundige onderzoek of de geneeskundige controle als in dat lid bedoeld.
-3. Het in artikel 229, eerste lid, bedoelde geneeskundige onderzoek en, indien medisch noodzakelijk, het in artikel 229, vierde of vijfde lid, bedoelde geneeskundige onderzoek van personen, die zijn belast met het verrichten van werkzaamheden als in het eerste lid van dat artikel bedoeld, moeten onder meer een radiografisch onderzoek van de longen omvatten.
-4. Met betrekking tot het geneeskundige onderzoek van personen, die worden of zijn belast met het verrichten van werkzaamheden als in artikel 229, tweede lid, onder a, bedoeld, stelt Onze Minister eisen betreffende:
-a. de gegevens, welke bij het onderzoek moeten worden overgelegd;
-b. de wijze, waarop het onderzoek moet worden uitgevoerd;
-c. de wijze van beoordeling van de geschiktheid of ongeschiktheid van personen voor het verrichten van werkzaamheden onder water of onder druk;
-d. de wijze van registratie, verwerking en bewaring, alsmede de tijdsduur van bewaring van de uit het onderzoek verkregen gegevens.

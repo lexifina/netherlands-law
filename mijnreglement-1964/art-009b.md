@@ -1,3 +1,0 @@
-# Artikel 9b
-1. De arbeiders of hun vertegenwoordigers worden ingelicht over de aard van de arbeid en de daaraan verbonden mogelijke risico's en over de maatregelen die met betrekking tot de veiligheid en de gezondheid op de arbeidsplaatsen worden getroffen ter voorkoming of beperking van deze risico's. De informatie moet voor de betrokken arbeiders begrijpelijk zijn.
-2. De in het eerste lid bedoelde voorlichting richt zich onder meer op de beschermings- en preventiemaatregelen en -activiteiten, zowel voor de mijnonderneming in het algemeen als voor elk type werkplek en elke soort functie afzonderlijk, en op de maatregelen die krachtens de artikelen 176, 279 en 281, derde lid, zijn genomen.

@@ -1,2 +1,0 @@
-# Artikel 17f
-De in artikel 17b bedoelde bestuurders dienen de arbeidersvertegenwoordigers met een specifieke taak op het gebied van de bescherming van de veiligheid en de gezondheid van de arbeiders gedurende voldoende tijd met behoud van loon vrij te stellen van werk en de nodige middelen ter beschikking te stellen om het deze vertegenwoordigers mogelijk te maken de uit dit reglement voortvloeiende rechten en taken uit te oefenen respectievelijk te vervullen.

@@ -1,3 +1,0 @@
-# Artikel 323b
-1. Bij mijnbouwkundige onderzoekingen in een oppervlaktewater, anders dan door middel van een boorwerk, gebruikte vaartuigen en luchtvaartuigen moeten zijn voorzien van doelmatige communicatiemiddelen, waarmede onder alle omstandigheden verbinding tussen die vaartuigen en luchtvaartuigen onderling mogelijk is.
-2. Aan boord van elk der bij de onderzoekingen betrokken vaartuigen of luchtvaartuigen dienen de in het eerste lid bedoelde communicatiemiddelen zodanig te zijn ingericht of zodanig te worden gebruikt, dat de andere bij de onderzoekingen betrokken vaartuigen of luchtvaartuigen tijdens de duur van de werkzaamheden onverwijld een verbinding met dat vaartuig of luchtvaartuig tot stand kunnen brengen.

@@ -1,5 +1,0 @@
-# Artikel 31a
-1. De voorbereiding van de plaatsing van mijnbouwinstallaties moet zodanig worden uitgevoerd dat de veiligheid en de stabiliteit ervan gewaarborgd zijn.
-2. Bij het plaatsen van een als een geheel verplaatsbare mijnbouwinstallatie moet op doelmatige wijze de bodempenetratie als gevolg van dat plaatsen worden bepaald; hiervan dient een doelmatig rapport te worden opgesteld, dat onverwijld in afschrift moet worden overgelegd aan de Inspecteur-Generaal der Mijnen en de Directeur van de Rijks Geologische Dienst.
-3. Een niet als een geheel verplaatsbare mijnbouwinstallatie mag niet op het continentaal plat worden geplaatst dan nadat door het instellen van een doelmatig onderzoek voldoende gegevens zijn verkregen met betrekking tot de bodemgesteldheid ter plaatse van oprichting der installatie; deze gegevens dienen tijdig vóór de plaatsing van de mijnbouwinstallatie te worden overgelegd aan de Inspecteur-Generaal der Mijnen, de Directeur-Generaal van de Rijkswaterstaat en de Directeur van de Rijks Geologische Dienst.
-4. Het tweede lid geldt niet ten aanzien van door Onze Minister aangewezen, niet als een geheel verplaatsbare, mijnbouwinstallaties.

@@ -1,9 +1,0 @@
-# Artikel 96d
-1. In dit artikel wordt onder 'veiligheids- of gezondheidssignalering' verstaan hetgeen daaronder wordt verstaan in het Arbeidsomstandighedenbesluit.
-2. Bij werkzaamheden bij mijnbouwkundig werk is hoofdstuk 8, afdeling 2 van het Arbeidsomstandighedenbesluit van overeenkomstige toepassing, met dien verstande dat:
-a. de bestuurders van de betrokken mijnonderneming of in artikel 11, eerste lid, bedoelde andere onderneming in de plaats treden van de werkgever;
-b. de personen die werkzaam zijn bij mijnbouwkundig werk in de plaats treden van de werknemers.
-3. Personen die werkzaam zijn bij mijnbouwkundig werk of hun vertegenwoordigers dienen te worden geïnformeerd over alle ten aanzien van de veiligheids- of gezondheidssignalering op het werk te nemen maatregelen. Personen die werkzaam zijn bij mijnbouwkundig werk dienen voorts ten aanzien van de veiligheids- of gezondheidssignalering op het werk een passende opleiding te krijgen, met name in de vorm van nauwkeurige instructies. Deze opleiding dient in het bijzonder betrekking te hebben op de betekenis van de signalering, met name wanneer daarbij woorden worden gebruikt, en op de te volgen algemene en specifieke handelwijzen.
-4. De ondernemingsraad of, bij het ontbreken daarvan, de betrokken personen worden geraadpleegd omtrent en nemen deel aan de behandeling van de onderwerpen betreffende veiligheids- of gezondheidssignalering.
-5. Bij de uitvoering van de bij het tweede lid van overeenkomstige toepassing verklaarde afdeling 2 van hoofdstuk 8 van het Arbeidsomstandighedenbesluit gaan de bestuurders van de betrokken mijnonderneming of in artikel 11, eerste lid, bedoelde andere onderneming uit van elke krachtens het Mijnreglement continentaal plat verrichte risico-evaluatie.
-6. Onze Minister kan ter bevordering van een goede uitvoering van het tweede tot en met vijfde lid nadere regels stellen.

@@ -1,9 +1,0 @@
-# Artikel 14h
-1. Onverminderd het bepaalde in artikel 14f dient uit een veiligheids- en gezondheidsdocument te blijken dat alle nodige maatregelen zijn genomen om de veiligheid en gezondheid van de arbeiders zowel in normale situaties als in noodsituaties te beschermen.
-2. Hiertoe moet het document het volgende bevatten:
-a. een opgave van de aan de arbeidsplaats verbonden specifieke risicobronnen, met inbegrip van elke activiteit op die plaats, die ongevallen kunnen teweegbrengen met ernstige gevolgen voor de veiligheid en de gezondheid van de betrokken arbeiders;
-b. een evaluatie van de risico's van de onder a bedoelde specifieke bronnen;
-c. het bewijs dat afdoende voorzorgsmaatregelen zijn genomen om onder a bedoelde ongevallen te vermijden, de uitbreiding van ongevallen te beperken en de arbeidsplaats in noodsituaties op een doelmatige en beheerste wijze te kunnen evacueren;
-d. het bewijs dat er een veiligheids- en gezondheidszorgsysteem als bedoeld in artikel 14g gehanteerd wordt dat adequaat is om de voorschriften die betrekking hebben op de veiligheid en de bescherming van de gezondheid van de arbeiders, bij of krachtens dit reglement bepaald, zowel in gewone situaties als in noodsituaties na te leven.
-3. Bij de planning en de tenuitvoerlegging van alle in artikel 14d, onder a, bedoelde fasen dienen de in het desbetreffende veiligheids- en gezondheidsdocument vermelde procedures en uitvoeringsbepalingen in acht te worden genomen.
-4. De verschillende ondernemingen die verantwoordelijk zijn voor de verschillende arbeidsplaatsen werken in voorkomend geval samen bij het opstellen van de veiligheids- en gezondheidsdocumenten als bedoeld in artikel 14f en het voorbereiden van de maatregelen die nodig zijn om de veiligheid en de gezondheid van de arbeiders te garanderen.

@@ -1,2 +1,0 @@
-# Artikel 87b
-Bij de installatie van een lift op een mijnbouwinstallatie stellen de bestuurders van de betrokken mijnbouwonderneming of de in artikel 11, eerste lid, bedoelde andere onderneming en degene die de lift installeert elkaar in kennis van de nodige gegevens en nemen zij passende maatregelen om de goede werking en het veilige gebruik van de lift te waarborgen. Dit voorschrift geldt niet voor gevaarlijke werktuigen als bedoeld in artikel 4 van het Besluit liften.

@@ -1,2 +1,0 @@
-# Artikel 49d
-In geval olie dan wel een oliehoudend mengsel, sanitair afval, vuilnis of een stof als in artikel 49b, eerste lid, of artikel 49ba, eerste lid, bedoeld in strijd met het bepaalde bij of krachtens artikel 49a, 49b of 49ba in zee is terechtgekomen, moet van het voorval onverwijld op doelmatige wijze en met vermelding van voldoende gegevens mededeling worden gedaan aan Onze Minister, de Directeur-Generaal van de Rijkswaterstaat, de Directeur-Generaal voor de Milieuhygiëne en de Inspecteur-Generaal der Mijnen.

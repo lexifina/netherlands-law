@@ -1,4 +1,0 @@
-# Artikel 166i
-1. Alvorens met het verrichten van werkzaamheden onder water of onder druk wordt aangevangen moeten voldoende voorzorgsmaatregelen zijn genomen voor het zo nodig verlenen van hulp aan en het zo nodig redden van de bij die werkzaamheden betrokken personen.
-2. Tijdens het verrichten van werkzaamheden onder water of onder druk moet ter plaatse van die werkzaamheden een voldoende aantal voldoend deskundige en ervaren personen aanwezig zijn ter beveiliging van de personen, die de werkzaamheden verrichten, zomede voldoende geneeskundig personeel of geneeskundig hulppersoneel, indien dat personeel niet voldoende snel bereikbaar is of voldoende snel ter plaatse aanwezig kan zijn.
-3. Voorts moeten tijdens het verrichten van werkzaamheden onder water of onder druk ter plaatse van die werkzaamheden voldoende en doelmatig reddingsmateriaal, zomede voldoende en doelmatige middelen voor het verlenen van eerste hulp voorradig zijn.
