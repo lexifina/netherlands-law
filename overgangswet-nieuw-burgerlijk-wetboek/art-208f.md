@@ -1,0 +1,2 @@
+# Artikel 208f
+De artikelen 250 tot en met 254 van Boek 7 zijn niet van toepassing op voor het tijdstip van inwerkingtreding gedane voorstellen tot huurprijswijziging, indien de voorgestelde datum van ingang voor dat tijdstip ligt, noch op de daarop betrekking hebbende verzoeken aan de huurcommissie als bedoeld in de artikelen 253 en 254 van Boek 7, indien deze zijn ingediend op of na het hiervoor bedoelde tijdstip.

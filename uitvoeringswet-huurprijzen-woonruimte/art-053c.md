@@ -1,0 +1,2 @@
+# Artikel 53c
+Het in artikel 43 bedoelde verslag wordt voor de eerste maal opgesteld nadat sedert het tijdstip van in werking treden van deze wet een geheel kalenderjaar is verstreken. Over het daaraan voorafgaande kalenderjaar wordt door de huurcommissie verslag uitgebracht op de wijze als is aangegeven in artikel 24 van de Wet op de huurcommissies, zoals dat artikel voor de inwerkingtreding van deze wet luidde.

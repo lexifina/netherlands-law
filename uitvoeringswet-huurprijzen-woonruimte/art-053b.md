@@ -1,0 +1,2 @@
+# Artikel 53b
+De in artikel 42, eerste lid, bedoelde opgave wordt voor de eerste maal verstrekt per de eerste datum van 1 januari, 1 mei of 1 september nadat sedert het in werking treden van deze wet ten minste vier maanden zijn verstreken. De in de eerste zin bedoelde opgave betreft de eerste maal het aantal van de sedert de vier daaraan voorafgaande maanden binnengekomen door de huurcommissie te behandelen onderscheidenlijk afgedane zaken.

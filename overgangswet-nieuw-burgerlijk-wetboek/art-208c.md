@@ -1,0 +1,2 @@
+# Artikel 208c
+Indien de huurder voor het in werking treden van titel 4 van Boek 7 is overleden, maar op het tijdstip van die inwerkingtreding nog geen zes maanden na dit overlijden waren verstreken en de termijn van zes maanden, bedoeld in artikel 229 lid 2 van Boek 7, binnen drie maanden na het tijdstip van die inwerkingtreding zou aflopen, wordt die termijn verlengd tot drie maanden na dit tijdstip.
