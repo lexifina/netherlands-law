@@ -1,5 +1,0 @@
-# II. Met betrekking tot het toezicht op de samenwerkingsprojecten, zijnde onderwijskundige vernieuwingsactiviteiten, bekostigd krachtens de geldende voorschriften
-1. Het toezicht op de samenwerkingsprojecten berust bij de inspecteurs, die bij die projecten betrokken zijn op grond van de op die projecten van toepassing blijvende wettelijke voorschriften en voor zover die projecten in hun ambtsgebieden vallen.
-2. a. De inspecteurs onderhouden, voor zover zij werkzaam zijn in hetzelfde rayon, met het oog op een efficiënte uitoefening van het toezicht en ter bevordering van een goede coördinatie met betrekking tot de door hen uit te brengen adviezen, nauw onderling contact.
-b. Zij doen aan de inspecteurs aan wie de opdracht als bedoeld onder I-1 is verstrekt alle afschriften van stukken en alle informaties met betrekking tot de onder hun competentie vallende samenwerkingsprojecten toekomen.
-3. De coördinerende inspecteurs geven leiding aan het overleg tussen de bij de samenwerkingsprojecten betrokken rayoninspecteurs, overleggroepen, instituten, e.d. in samenwerking met de onder I-1 bedoelde inspecteurs.
