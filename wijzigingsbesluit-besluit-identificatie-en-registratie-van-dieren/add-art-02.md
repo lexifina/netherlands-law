@@ -1,2 +1,0 @@
-# Artikel II
-De krachtens artikel 2, tweede lid, van het Besluit identificatie en registratie van dieren, zoals dit luidde voor het tijdstip van inwerkingtreding van dit besluit, vastgestelde voorschriften blijven van kracht totdat overeenkomstig artikel 2, eerste lid, van het Besluit identificatie en registratie van dieren, zoals dit luidt na het tijdstip van inwerkingtreding van dit besluit, in deze voorschriften is voorzien.
