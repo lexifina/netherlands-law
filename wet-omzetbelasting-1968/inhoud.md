@@ -23,6 +23,7 @@
 ### Afdeling 4. Tabaksprodukten en accijnsgoederen, andere dan tabaksprodukten
 ### Afdeling 5. Regeling voor gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten
 ### Afdeling 6. Regeling voor beleggingsgoud
+### Afdeling 7. Regeling voor niet in de Gemeenschap gevestigde ondernemers die elektronische diensten verrichten aan anderen dan ondernemers die in de Gemeenschap wonen of zijn gevestigd
 ## Hoofdstuk VI. Bijzondere bepalingen
 ## Hoofdstuk VII. Bestuurlijke boete
 ## Hoofdstuk VIII. Strafbepaling

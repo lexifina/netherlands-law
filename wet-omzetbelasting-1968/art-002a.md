@@ -19,5 +19,6 @@ l. gebruikte goederen: alle roerende lichamelijke zaken die, in de staat waarin 
 m. kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten: de bij ministeriële regeling aan te wijzen goederen;
 n. gedeelte van een binnen de Gemeenschap verricht passagiersvervoer: het gedeelte van een vervoer dat, zonder tussenstop buiten de Gemeenschap, plaatsvindt tussen de plaats van vertrek en de plaats van aankomst van het vervoer van passagiers; in geval het een heen- en terugreis betreft, wordt de terugreis als een afzonderlijk vervoer beschouwd;
 o. plaats van vertrek van een vervoer van passagiers: het eerste punt in de Gemeenschap waar passagiers aan boord kunnen komen, eventueel na een tussenstop buiten de Gemeenschap;
-p. plaats van aankomst van een vervoer van passagiers: het laatste punt in de Gemeenschap waar passagiers die binnen de Gemeenschap aan boord zijn gekomen van boord kunnen gaan, eventueel vóór een tussenstop buiten de gemeenschap.
+p. plaats van aankomst van een vervoer van passagiers: het laatste punt in de Gemeenschap waar passagiers die binnen de Gemeenschap aan boord zijn gekomen van boord kunnen gaan, eventueel vóór een tussenstop buiten de gemeenschap;
+q. elektronische diensten: langs elektronische weg verrichte diensten, onder andere de in bijlage L van de Zesde Richtlijn beschreven diensten.
 2. Bij ministeriële regeling worden regels gesteld omtrent de wijze waarop moet worden aangetoond of een vervoermiddel als nieuw aangemerkt dient te worden.
