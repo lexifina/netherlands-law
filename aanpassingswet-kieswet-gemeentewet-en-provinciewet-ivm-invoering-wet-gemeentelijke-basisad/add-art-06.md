@@ -1,0 +1,2 @@
+# ARTIKEL VI
+Ten aanzien van hen die op de dag waarop deze wet in werking treedt, reeds zijn toegelaten als lid van de gemeenteraad dan wel op de geldige kandidatenlijsten voor de laatst gehouden gemeenteraadsverkiezingen voorkwamen, geldt artikel 10, tweede lid, van de Gemeentewet zoals het luidde voorafgaand aan de inwerkingtreding van deze wet, tot de dag waarop de zittingsduur van de gemeenteraad die bij eerderbedoelde gemeenteraadsverkiezingen is gekozen, eindigt.
