@@ -1,0 +1,3 @@
+# Artikel XXIII
+1. De gewezen voorzitters en ondervoorzitters van de raden van beroep hebben gedurende vijf jaren na de inwerkingtreding van deze wet geen zitting in een kamer voor burgerlijke zaken of een kamer voor strafzaken, indien zij aan de president van de arrondissementsbank hebben meegedeeld daartegen bezwaar te hebben.
+2. De vice-presidenten van en de rechters in de arrondissementsrechtbanken hebben gedurende vijf jaren na de inwerkingtreding van deze wet geen zitting in een kamer voor bestuursrechtelijke zaken, indien zij aan de president van de arrondissementsrechtbank hebben meegedeeld daartegen bezwaar te hebben.
