@@ -1,0 +1,2 @@
+# Article II
+Les produits du sol ou de l'industrie de l'une des Hautes Parties Contractantes et qui sont importés sur le territoire de l'autre Partie, ne seront pas soumis, dans le territoire de cette seconde Partie au paiement de droits à l'importation ou à d'autres perceptions plus élevés, ni à des obligations et formalités douanières plus strictes que ceux auxquels sont soumis les produits similaires originaires ou en provenance de tout pays tiers.

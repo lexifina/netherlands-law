@@ -1,0 +1,4 @@
+# Article XI
+Le paiement des marchandises des Hautes Parties Contractantes échangées entre elles, interviendra en dollars U.S.A. ou en autre devise convertible libre à déterminer entre les parties.
+Les importations par l'une des Parties de produits en provenance du territoire de l'autre Partie et payables en dollars U.S.A. ou en autre devise convertible libre seront, en ce qui concerne les allocations de devise et l'octroi de licences, soumises à un traitement au moins aussi favorable que celui accordé aux importations en provenance de n'importe quel autre pays tiers de produits payables en dollars U.S.A. ou en autre devise convertible libre.
+Dans le cas où l'une des Hautes Parties Contractantes décréterait ultérieurement des mesures limitant le transfert international des devises, des arrangements spéciaux devront être conclus afin d'assurer la plus grande liberté possible du commerce entre les Parties.

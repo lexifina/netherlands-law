@@ -1,0 +1,4 @@
+# Article XIII
+Le Royaume des Pays-Bas comprend en ce qui concerne l'application du présent Accord le territoire des Pays-Bas en Europe, le Surinam, les Antilles Néerlandaises et la Nouvelle-Guinée Néerlandaise.
+L'application du présent Accord à Surinam et aux Antilles Néerlandaises dépend de l'approbation par les Gouvernements respectifs de ces pays, approbation qui sera tacitement acquise si le Gouvernement du Royaume des Pays-Bas n'en avise autrement le Gouvernement de la République du Honduras par note écrite et dans les 90 jours qui suivront la signature du présent Accord.
+L'Union Economique Belgo-Luxembourgeoise comprend en ce qui concerne l'application du présent Accord les territoires métropolitains du Royaume de Belgique et du Grand-Duché de Luxembourg, à l'exclusion du Congo Belge et du Ruanda-Urundi.

@@ -1,0 +1,2 @@
+# Article VII
+Aucune disposition du présent Accord ne sera interprétée comme portant atteinte aux mesures que chaque Partie peut adopter pour des considérations d'ordre moral ou humanitaire ou pour des motifs de sécurité publique, de commerce des armes, munitions et matériel de guerre, de protection des animaux et des plantes contre les maladies et les épidémies, de défense du patrimoine national en matière d'art, d'histoire ou d'archéologie, et pour des raisons relatives à l'exportation de l'or et de l'argent en monnaies ou en lingots.
