@@ -1,0 +1,2 @@
+# Artikel 6a
+Artikel 3, vierde lid, van de wet is tot 1 januari 2002 niet van toepassing op homeopathische farmaceutische producten als bedoeld in artikel 4, eerste lid, en op homeopathische farmaceutische producten als bedoeld in artikel 6, eerste lid, die zijn geplaatst op de lijst van aangemelde producten, bedoeld in artikel III, tweede lid, tweede volzin, van het Besluit van 12 december 1995, houdende wijziging van het Besluit homeopathische farmaceutische produkten (Stb. 1995, 654).
