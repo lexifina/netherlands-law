@@ -1,0 +1,2 @@
+# Artikel XII
+Deze Overeenkomst treedt in werking een maand nadat de Regeringen van de Overeenkomstsluitende Partijen elkaar hebben medegedeeld, dat in hun onderscheiden landen de grondwettelijke procedures voor de inwerkingtreding der Overeenkomst hebben plaatsgevonden.

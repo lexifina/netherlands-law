@@ -1,0 +1,3 @@
+# Artikel V
+§ 1. De voorraden, vallende onder Artikel III, sub b) van deze Overenkomst kunnen door Nederlandse voorraadplichtigen niet worden meegerekend om te voldoen aan de op hen rustende voorraadplicht. Deze voorraden mogen ook niet worden opgenomen in de Nederlandse voorraadplicht. Deze voorraden mogen ook niet worden opgenomen in de Nederlandse voorraadopgaven, bestemd voor de Organisatie voor Economische Samenwerking en Ontwikkeling, het Internationaal Energie Agentschap en voor de Europese Gemeenschappen.
+§ 2. Deze Overeenkomst laat de bepalingen, voortvloeiend uit de Overeenkomst inzake een Internationaal Energie-programma, opgesteld en ondertekend te Parijs op 18 november 1974, onverlet.
