@@ -1,0 +1,2 @@
+# Artikel II
+Op vergunningen die, op grond van artikel 3 van de Wet op de kansspelen, zijn verleend voor de datum van inwerkingtreding van dit besluit blijft het recht zoals dat gold voor de inwerkingtreding van dit besluit van toepassing, met dien verstande dat op vergunningen, verleend aan Nationale Postcode Loterij N.V., de Stichting Algemene Loterij Nederland, BankGiro Loterij N.V. en Sponsor Loterij N.V., het recht zoals dat geldt vanaf de inwerkingtreding van dit besluit van toepassing is.
