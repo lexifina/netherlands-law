@@ -1,0 +1,3 @@
+# Artikel VII
+1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Laatstbedoeld besluit wordt niet genomen voordat vier weken zijn verstreken nadat het onderhavige besluit is overgelegd aan beide kamers der Staten-Generaal en gedurende die termijn niet door of namens een van beide kamers de wens wordt te kennen gegeven dat het in het onderhavige besluit geregelde onderwerp bij de wet wordt geregeld.
+2. In afwijking van het eerste lid, treedt artikel IV in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
