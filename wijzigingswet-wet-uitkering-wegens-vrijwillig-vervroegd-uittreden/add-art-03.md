@@ -1,0 +1,8 @@
+# Artikel III
+De uitkering bedraagt 80% van de bezoldiging indien:
+a. het recht op uitkering, op grond van artikel 3, eerste lid, van de Wet uitkering wegens vrijwillig vervroegd uittreden (Stb. 1984, 273) is ontstaan voor 1 januari 1993 dan wel voor het tijdstip van inwerkingtreding van deze wet of hetzij op grond van artikel 3, eerste lid, van de Wet uitkering wegens vrijwillig vervroegd uittreden (Stb. 1984, 273) hetzij op grond van de Wet bevordering doorstroming onderwijspersoneel II (Stb. 1989, 253) weliswaar ontstaan is op of na 1 januari 1993, maar de betreffende uitkering wordt toegekend in verband met vrijwillig vervroegd uittreden uit een betrekking, waaruit de belanghebbende eerder in deeltijd is uitgetreden;
+b. het recht op een uitkering is ontstaan voor 2 juni 1992 op grond van een algemene maatregel van bestuur als bedoeld in artikel 3, negende lid, van de Wet uitkering wegens vrijwillig vervroegd uittreden (Stb. 1984, 273) of de belanghebbende vanaf een tijdstip dat gelegen is voor 2 juni 1992, een uitkering geniet op grond van de Wet bevordering doorstroming onderwijspersoneel (Stb. 1988, 253) of de Wet bevordering doorstroming onderwijspersoneel II (Stb. 1989, 283);
+c. het recht op uitkering is ontstaan voor 1 januari 1993 op grond van een algemene maatregel van bestuur als bedoeld in artikel 3, negende lid, van de Wet uitkering wegens vrijwillig vervroegd uittreden (Stb. 1984, 273) voor de duur van deze uitkering; of
+d. de belanghebbende voldoet aan de volgende voorwaarden:
+1. de belanghebbende is tevens belanghebbende in de zin van de Wet van 28 september 1989 (Stb. 478).
+2. het ontslag in de zin van de onder 1 genoemde wet is verleend voor 1 januari 1993 dan wel voor het tijdstip van inwerkingtreding van deze wet.

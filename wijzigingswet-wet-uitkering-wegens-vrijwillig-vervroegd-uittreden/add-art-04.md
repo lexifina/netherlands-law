@@ -1,0 +1,2 @@
+# Artikel IV
+Indien het bij koninklijke boodschap van 6 november 1990 ingediende voorstel van wet houdende wijziging van de Wet vrijwillig vervroegd uittreden (invoering deeltijd-vut en andere wijzigingen) tot wet wordt verheven en in werking treedt, treedt deze wet in werking met ingang van 1 januari 1993. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 1 januari 1993, treedt zij in werking met ingang van de eerste kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
