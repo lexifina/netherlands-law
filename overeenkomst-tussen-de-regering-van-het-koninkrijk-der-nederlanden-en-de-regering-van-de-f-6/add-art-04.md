@@ -1,0 +1,2 @@
+# Artikel IV
+Gedurende hun verblijf in Frankrijk wordt in de behoeften van de Nederlandse Strijdkrachten voorzien door de Franse diensten. De op die wijze verrichte diensten zullen in geen geval rechtstreeks door de Nederlandse Strijdkrachten worden betaald. De hieruit voortvloeiende kosten zullen worden voldaan door de Centrale Verbindingsmissie voor Bijstand aan de Geallieerde Legers, die zich op haar beurt terugstorting door de Nederlandse Regering laat verzekeren.

@@ -1,0 +1,3 @@
+# Artikel X
+Deze overeenkomst, die in werking zal treden op een tijdstip vast te stellen bij overeenkomst tussen de beide Regeringen met inachtneming van de grondwettelijke bepalingen van elke Overeenkomstsluitende Partij, zal voorlopig en voor een duur van ten hoogste een jaar, te rekenen van de dag van de ondertekening af, worden toegepast.
+Deze overeenkomst is geldig voor een duur van vijf jaar, te rekenen van het tijdstip van haar ondertekening af. Tenzij zij twee jaar voor het tijdstip van haar beëindiging is opgezegd, wordt zij beschouwd als stilzwijgend te zijn verlengd, met dien verstande dat elk der Overeenkomstsluitende Partijen haar kan opzeggen met een termijn van twee jaar.
