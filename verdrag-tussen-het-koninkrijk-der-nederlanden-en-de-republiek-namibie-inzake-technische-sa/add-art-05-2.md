@@ -1,0 +1,3 @@
+# Artikel V
+1. De bepalingen van dit Verdrag betreffende Nederlands personeel zijn eveneens van toepassing op personen in dienst van de Nederlandse Regering en op personen in dienst van ondernemingen waarmee de Nederlandse Regering een overeenkomst heeft gesloten inzake de uitvoering van een project waaraan beide bevoegde autoriteiten hebben besloten samen te werken, en slechts voor zover dit personeel of die ondernemingen handelen binnen het kader van dit Verdrag of van een tussen de beide bevoegde autoriteiten overeengekomen project.
+2. Het beschikbaar gestelde Nederlandse personeel kan zowel uitvoerende als adviserende taken verrichten.

@@ -1,0 +1,3 @@
+# Article VI
+1. The provisions of Article II, III and IV, paragraph 1, of this Agreement are also applicable to the topping-up experts made available by the Netherlands. However, those experts would be required to pay local income tax on emoluments paid to them by the Government of the Republic of Namibia.
+2. The experts, mentioned under paragraph 1 of this Article, shall be under the exclusive direction of the relevant Namibian authorities. The experts will have to comply with such orders and regulations as are in force in Namibia from time to time, provided such orders and regulations do not conflict with any provision of this Agreement or any other arrangement between the two Contracting Parties applicable to the experts concerned.
