@@ -1,0 +1,2 @@
+# Artikel IV
+De bewijzen van luchtwaardigheid, de bewijzen van bevoegdheid van het vliegend personeel, uitgereikt of geldig verklaard door een van de Overeenkomstsluitende Partijen, zullen wanneer ze nog geldig zijn, door de andere Overeenkomstsluitende Partij voor de exploitatie van de „overeengekomen diensten" als geldig worden erkend. Elke Overeenkomstsluitende Partij behoudt zich evenwel het recht voor voor vluchten boven haar eigen grondgebied de erkenning van bewijzen van bevoegdheid, door een andere Staat aan haar eigen onderdanen uitgereikt, te weigeren.

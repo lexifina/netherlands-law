@@ -1,0 +1,2 @@
+# III
+De luchtvaartmaatschappijen aangewezen door een Overeenkomstsluitende Partij, overeenkomstig de bepalingen vervat in de Overeenkomst, zullen op het grondgebied van de andere Overeenkomstsluitende Partij het recht genieten om over te vliegen, om technische landingen te verrichten en om passagiers, post en vracht in internationaal verkeer op te nemen en af te zetten op ieder van de routes vermeld in de aangehechte Aanhangsels.

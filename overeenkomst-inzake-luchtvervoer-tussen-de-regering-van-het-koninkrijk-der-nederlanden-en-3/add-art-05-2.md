@@ -1,0 +1,2 @@
+# V
+Elke wijziging van luchtroutes vermeld in aangehechte Aanhangsels, met uitzondering van wijzigingen van landingsplaatsen in het grondgebied van de andere Overeenkomstsluitende Partij, zal niet als een wijziging van de Bijlage worden beschouwd. De luchtvaartautoriteiten van iedere Overeenkomstsluitende Partij zullen derhalve eenzijdig kunnen overgaan tot elke wijziging, mits hiervan onverwijld mededeling wordt gedaan aan de luchtvaartautoriteiten van de andere Overeenkomstsluitende Partij.

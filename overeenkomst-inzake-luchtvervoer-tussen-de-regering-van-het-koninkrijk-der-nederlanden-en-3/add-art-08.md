@@ -1,0 +1,2 @@
+# Artikel VIII
+Elk geschil tussen de Overeenkomstsluitende Partijen betreffende de uitlegging of de toepassing van deze Overeenkomst en haar Bijlage, welke niet door onderling overleg kan worden opgelost, zal worden onderworpen aan de scheidsrechterlijke uitspraak van enig persoon, lichaam of tribunaal, bij accoord tussen beide Partijen aangewezen, of aan de uitspraak van het Internationale Gerechtshof. De Overeenkomstsluitende Partijen verbinden zich de uitspraak, welke overeenkomstig dit artikel gegeven wordt, na te komen.

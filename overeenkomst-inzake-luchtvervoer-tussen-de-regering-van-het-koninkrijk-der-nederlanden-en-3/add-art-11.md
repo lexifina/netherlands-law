@@ -1,0 +1,6 @@
+# Artikel XI
+Met betrekking tot de toepassing van deze Overeenkomst en haar Bijlage zal (zullen):
+1) de uitdrukking „luchtvaartautoriteiten" in het geval van de Republiek Ecuador betekenen: De Directeur Generaal van de Burgerluchtvaart en in het geval van het Koninkrijk der Nederlanden de Directeur Generaal van de Rijksluchtvaartdienst, of in beide gevallen de behoorlijk gemachtigde personen en organen;
+2) de uitdrukking „aangewezen luchtvaartmaatschappij" betekenen iedere luchtvaartmaatschappij, waarvan de luchtvaartautoriteiten van een der Overeenkomstsluitende Partijen schriftelijk aan de luchtvaartautoriteiten van de andere Overeenkomstsluitende Partij hebben medegedeeld, dat zij aangewezen is, overeenkomstig Artikel II van deze Overeenkomst, om de „overeengekomen diensten" te exploiteren;
+3) de uitdrukking „grondgebied" de betekenis hebben, welke daaraan gegeven wordt in Artikel 2 van het Verdrag inzake de Internationale Burgerlijke Luchtvaart, getekend te Chicago op 7 December 1944;
+4) de definities vervat in de leden (a), (b) en (d) van Artikel 96 van het Verdrag inzake de Internationale Burgerlijke Luchtvaart, op 7 December 1944 te Chicago gesloten, op deze Overeenkomst van toepassing zijn.

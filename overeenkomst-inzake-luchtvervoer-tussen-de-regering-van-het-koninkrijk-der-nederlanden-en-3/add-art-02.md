@@ -1,0 +1,5 @@
+# Artikel II
+1. Ieder van de „overeengekomen diensten" mag onmiddellijk worden ingesteld of op een latere datum, naar keuze van de Overeenkomstsluitende Partij, aan welke de rechten worden verleend, maar niet voordat:
+a) de Overeenkomstsluitende Partij, aan welke de rechten worden verleend, een luchtvaartmaatschappij of -maatschappijen heeft aangewezen voor de exploitatie van de vastgestelde luchtlijn(en);
+b) de Overeenkomstsluitende Partij, welke de rechten verleent, de overeenkomstige exploitatie-vergunning heeft uitgereikt aan de luchtvaartmaatschappij(en), welke door de andere Overeenkomstsluitende Partij is (zijn) aangewezen, hetgeen zonder uitstel zal geschieden, nadat aan de bepalingen van lid 2 van dit Artikel en aan die van Artikel VI is voldaan.
+2. Van de aangewezen luchtvaartmaatschappijen kan worden verlangd, dat zij tegenover de luchtvaartautoriteiten van de Overeenkomstsluitende Partij, welke de rechten verleent, bewijzen, dat zij in staat zijn te voldoen aan de eisen voorgeschreven door de wetten en maatregelen, welke normaal door deze autoriteiten ten aanzien van de werkwijze van de commerciële luchtvaartmaatschappijen worden toegepast.
