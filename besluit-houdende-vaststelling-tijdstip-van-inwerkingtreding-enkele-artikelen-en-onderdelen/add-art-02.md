@@ -1,0 +1,2 @@
+# Artikel II
+Artikel III, onderdelen I, Na en QQa, van de wet van 6 juni 2002 tot wijziging van onder meer de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet studiefinanciering 2000 in verband met de invoering van de bachelor-masterstructuur in het hoger onderwijs (Stb. 303) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
