@@ -6,4 +6,4 @@
 3. Het eerste en tweede lid zijn niet van toepassing op het aftappen of opnemen:
 1°. van telecommunicatie via een openbaar telecommunicatienetwerk,
 2°. behoudens in geval van kennelijk misbruik, met een technisch hulpmiddel dat op gezag van degene bij wie de woning, het lokaal of het erf in gebruik is, niet heimelijk aanwezig is;
-3°. op bijzondere last van de Minister-President, de Minister van Justitie en de Minister van Binnenlandse Zaken gezamenlijk, telkens voor de duur van ten hoogste drie maanden aan het Hoofd van de Binnenlandse Veiligheidsdienst te geven, in gevallen waarin zulks nodig is in het belang van de veiligheid van de staat.
+3°. ter uitvoering van de Wet op de inlichtingen- en veiligheidsdiensten 2002.
