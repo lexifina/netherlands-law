@@ -1,0 +1,8 @@
+# Artikel C5. Uitkeringsgenietenden
+1. Voor degene die op 31 juli 1985 in het genot was van een ontslaguitkering als bedoeld in hoofdstuk I-H van het Rechtspositiebesluit KO/LO, wordt een uitzicht vastgesteld indien hij voldoet aan de volgende voorwaarden:
+a. het ontslag terzake waarvan hij een ontslaguitkering geniet is hem verleend op of na 1 augustus 1983;
+b. het ontslag is verleend uit een betrekking als hoofd, onderwijzer of vakonderwijzer bij een b.u.o.-school;
+c. de desbetreffende aanspraak op een ontslaguitkering is na de dag waarop het recht daarop is ingegaan zonder wezenlijke onderbreking blijven bestaan, waarbij een onderbreking van twee maanden of minder niet als een wezenlijke onderbreking wordt aangemerkt.
+Het uitzicht wordt vastgesteld op de wijze als in artikel C1 is aangegeven waarbij een uitzicht op salarisvaststelling na 31 juli 1985 wordt vastgesteld volgens het schaalsalaris dat voor hem zou hebben gegolden volgens de bepalingen van het Rechtspositiebesluit KO/LO over 15 jaar na de datum waarop het desbetreffende ontslag is verleend.
+2. Ten aanzien van degene die op 31 juli 1985 als hoofd, onderwijzer of vakonderwijzer in dienst was bij een b.u.o.-school en aan wie met ingang van 1 augustus 1985 terzake van ontslag uit die betrekking een uitkering als bedoeld in hoofdstuk I-H van het Rechtspositiebesluit onderwijspersoneel is toegekend, is het bepaalde in het eerste lid van overeenkomstige toepassing.
+3. In afwijking van het bepaalde in artikel C4 wordt de verklaring, bedoeld in dit artikel afgegeven door Onze minister. Het bepaalde in artikel C4 is overigens van overeenkomstige toepassing.
