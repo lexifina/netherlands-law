@@ -1,0 +1,42 @@
+# Artikel VIII. Cultuur
+De volgende regelingen en besluiten worden ingetrokken:
+a. Algemeen reglement rijksmusea;
+b. Beschikking opsporingsambtenaren Monumentenwet;
+c. Besluit van de Minister van Cultuur, Recreatie en Maatschappelijk Werk van 14 september 1973, nr. K/Film/U/130323/1 tot instelling commissie van advies inzake de verlening van persoonlijke toelagen aan bejaarde filmkunstenaars (Stcrt. 185);
+d. Besluit van de Minister van Cultuur, Recreatie en Maatschappelijk Werk van 25 maart 1975, nr. 146476 tot instelling Adviescommissie Beeldende Kunsten Buitenland (Stcrt. 63);
+e. Besluit van de Minister van Cultuur, Recreatie en Maatschappelijk Werk van 21 juli 1972, nr. U 122605 tot instelling Adviescommissie voor de beeldende vormgeving in relatie tot architectuur en ruimtelijke ordening (Stcrt. 147);
+f. Besluit van de Minister van Cultuur, Recreatie en Maatschappelijk Werk van 25 mei 1972, nr. KUNSTEN/BKU-122.078 tot toekenning stipendia en reisbeurzen aan beeldende kunstenaars en architecten (Stcrt. 104);
+g. Besluit van de Minister van Cultuur, Recreatie en Maatschappelijk werk van 21 september 1970, nr. 157.541 II tot overbrenging gezinskaartensysteem (Stcrt. 188);
+h. Besluit van de Minister van Cultuur, Recreatie en Maatschappelijk Werk van 27 juli 1971, nr. U 52330, houdende commissie nader onderzoek taak en rechtspositie museum- en archiefrestauratoren ingesteld (Stcrt. 167);
+i. Besluit van de Minister van Onderwijs, Cultuur en Wetenschappen en de Minister van Justitie van 3 augustus 1999, nr. R&B/OSTA/99/575 tot wijziging lijst vernietigbare archiefbescheiden OM, gerechtshoven, rechtbanken en kantongerechten (Stcrt. 26);
+j. Besluit van de Minister van Welzijn, Volksgezondheid en Cultuur van 26 maart 1990, nr. 90295I tot instelling Commissie Meer-doen-met-cultuur (Stcrt. 64);
+k. Besluit van de Minister van Welzijn, Volksgezondheid en Cultuur van 17 juli 1990, nr. 1CSCB-U, houdende instellingsbesluit Commissie Sociaal en Cultureel Beleid (Stcrt. 141);
+l. Besluit van de Minister van Welzijn, Volksgezondheid en Cultuur van 19 juli 1993, nr. K/BK-U-934420 tot wijziging Toelatingsregeling Galeries (Stcrt. 139);
+m. Besluit van de Minister van Welzijn, Volksgezondheid en Cultuur van 12 januari 1987, nr. AR-U-1748 tot machtiging opschorting overbrenging archiefbescheiden rijksmusea tot 1997 (Stcrt. 32);
+n. Besluit van de Minister van Welzijn, Volksgezondheid en Cultuur van 15 maart 1983, nr. 6258 tot overbrenging 'burgemeesterscorrespondentie' naar algemene rijksarchiefbewaarplaats (Stcrt. 121);
+o. Besluit van de Minister van Welzijn, Volksgezondheid en Cultuur van 19 november 1989, nr. DBC-U-6804, houdende compensatie bestuurskosten uitvoering Rijkssubsidieregeling Restauratie Monumenten (Stcrt. 232);
+p. Besluit van de Minister van Welzijn, Volksgezondheid en Cultuur van 26 november 1990, nr. U-187772 RDMZ/FEA, houdende compensatie bestuurskosten uitvoering Rijkssubsidieregeling Restauratie Monumenten (Stcrt. 231);
+q. Besluit van de Minister van Welzijn, Volksgezondheid en Cultuur van 24 december 1987, nr. 912391, houdende beschikbare gelden 1987 Bedrijfsfonds voor de Pers (Stcrt. 8);
+r. Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen van 5 juli 1995, nr. WJZ 95018288 tot instelling benoemingenadviescommissie leden Raad voor cultuur (Stcrt. 142);
+s. Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen van 23 juli 1999, nr. DCE/99/29227 tot vaststelling van subsidieplafonds voor 1999 t.b.v. het onderhoud van monumenten en historische buitenplaatsen (Stcrt. 141);
+t. Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen van 27 november 1997, nr. DCE/97/32760 tot vaststelling van subsidieplafonds voor 1998 t.b.v. het onderhoud van monumenten en historische buitenplaatsen (Stcrt. 241);
+u. Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen van 10 februari 1997, nr. DGCA/DCE-U-97134 tot aanwijzing van het Hoofd van de Inspectie Cultuurbezit als inspecteur van die inspectie (Stcrt. 34);
+v. Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen van 17 juni 1996, nr. 96.374.RWS/CB tot selectie archiefbescheiden Raad van State (Stcrt. 153);
+w. Regeling bezwarencommissie verzelfstandiging rijksmuseale diensten;
+x. Regeling gebruik frequentieruimte commerciële radio-omroep;
+y. Regeling specifieke uitkeringen stedelijke en provinciale programma's cultuurbereik;
+z. Regeling van de Minister van Welzijn, Volksgezondheid en Cultuur van 18 maart 1993, nr. DGCZ/SCB931410, houdende subsidies en specifieke uitkeringen t.b.v. cultuuruitingen voor 1993 (Stcrt. 69);
+aa. Regeling van de Minister van Welzijn, Volksgezondheid en Cultuur van 18 maart 1993, nr. DGCZ/SCB931410, houdende subsidies en specifieke uitkeringen ten behoeve van cultuuruitingen (Stcrt. 60);
+bb. Regeling van de Minister van Welzijn, Volksgezondheid en Cultuur van 9 juli 1992, nr. MLB/J OP-922129 tot uitkering inkomsten uit reclame aan Bedrijfsfonds voor de pers (Stcrt. 131);
+cc. Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen van 11 december 1997, nr. WJZ/1997/34164(8064), houdende wijziging van de Regeling subsidies en uitkeringen cultuuruitingen in verband met de verstrekking van subsidies voor experimenten en projecten op het terrein van de zorg voor het behoud van monumenten van bouwkunst alsmede vaststelling van de subsidieplafonds voor die subsidieverstrekking in 1998 (Stcrt. 243);
+dd. Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen van 22 november 1999, nr. WJZ/1999/46903 (8088), houdende wijziging Regeling subsidies en uitkeringen cultuuruitingen en intrekking Regeling subsidiëring museale instellingen (Stcrt. 228);
+ee. Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen van 30 januari 2001, nr. WJZ/2001/3203(8113), houdende wijziging Regeling subsidies en uitkeringen cultuuruitingen (Stcrt. 26);
+ff. Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen van 9 juli 2001, nr. WJZ/2001/27618(8114), houdende wijziging van de Regeling subsidies en uitkeringen cultuuruitingen in verband met de vaststelling van een nieuw deel Fondsen van het Handboek verantwoording cultuursubsidies (Stcrt. 143);
+gg. Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen van 17 september 1997, nr. J 979683, houdende peildatum aantal leden omroepverenigingen (Stcrt. 182);
+hh. Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen van 25 januari 2000, nr. MLB/JZ/2000/1810 tot vaststelling peildatum ledental omroep i.v.m. nieuw concessiestelsel landelijke publieke omroep (Stcrt. 22);
+ii. Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen van 8 mei 2003, nr. MLB/JZ/2003/19.904, houdende peildatum vaststelling ledental omroepvereniging (Stcrt. 97);
+jj. Subsidieregeling filmfestivals, filmmanifestaties en filmtheaters;
+kk. Subsidieregeling indemniteit bruiklenen;
+ll. Tijdelijke subsidieregeling Belvedere;
+mm. Toelatingsregeling galeries 1995;
+nn. Toelatingsregeling galeries 1996.
