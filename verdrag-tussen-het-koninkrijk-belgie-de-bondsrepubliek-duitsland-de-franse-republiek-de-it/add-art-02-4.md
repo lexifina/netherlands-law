@@ -1,0 +1,6 @@
+# II. Verklaring van de heer M. Schumann, Minister van Buitenlandse Zaken van de Franse Republiek, namens de delegatie van de Gemeenschap
+De delegatie van de Gemeenschap heeft met aandacht kennis genomen van de verklaring van de delegatie van het Verenigd Koninkrijk betreffende de landbouw in bergachtige gebieden in het Verenigd Koninkrijk en de maatregelen die ten gunste van de betrokken gebieden werden genomen.
+In antwoord op deze verklaring kan de delegatie van de Gemeenschap de volgende mededeling doen:
+De Gemeenschap is zich bewust van de bijzondere omstandigheden van de landbouw in bergachtige gebieden ten opzichte van de andere gebieden van het Verenigd Koninkrijk, evenals trouwens van de soms zeer aanmerkelijke verschillen tussen gebieden in de Lid-Staten van de huidige Gemeenschap.
+De bijzondere omstandigheden in bepaalde streken van de uitgebreide Gemeenschap kunnen inderdaad acties vereisen met het oog op het zoeken van een oplossing voor de vraagstukken in verband met deze bijzondere omstandigheden, met name ten einde te bewerkstelligen dat het inkomen van de landbouwers in deze gebieden redelijk blijft.
+Vanzelfsprekend dienen dergelijke acties, zoals U zoëven hebt gezegd, te stroken met de bepalingen van het Verdrag en van het gemeenschappelijk landbouwbeleid.
