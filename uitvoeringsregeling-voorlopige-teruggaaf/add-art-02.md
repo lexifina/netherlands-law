@@ -1,0 +1,2 @@
+# Artikel II
+In afwijking van artikel 24, tweede lid, Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994 wordt geen voorlopige aanslag inkomstenbelasting tot een negatief bedrag met betrekking tot het belastingjaar 1998 vastgesteld indien ten aanzien van de belastingplichtige een beschikking op grond van de artikelen 23 of 30 van de Wet op de loonbelasting 1964 is vastgesteld met betrekking tot hetzelfde belastingjaar.
