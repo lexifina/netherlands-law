@@ -1,0 +1,2 @@
+# XI. Ad Artikel 26
+De verplichting tot het uitwisselen van inlichtingen strekt zich niet uit tot inlichtingen die verkregen zijn van banken of van daarmede gelijkgestelde instellingen. De uitdrukking „daarmede gelijkgestelde instellingen" omvat mede verzekeringsmaatschappijen.

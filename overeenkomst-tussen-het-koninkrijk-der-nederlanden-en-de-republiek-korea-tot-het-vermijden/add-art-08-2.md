@@ -1,0 +1,2 @@
+# VIII. Ad Artikel 20
+De bepalingen van artikel 20, eerste lid, zijn eveneens van toepassing met betrekking tot beloningen of pensioenen betaald door de Bank of Korea, de Korea Exchange Bank, de Export-Import Bank of Korea, de Korea Trade Promotion Corporation en enige andere instantie die in handen is van de overheid en overheidsfuncties uitoefent, mits die beloningen of pensioenen niet worden betaald ter zake van diensten bewezen in Nederland in het kader van een in Nederland uitgeoefend bedrijf.

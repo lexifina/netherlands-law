@@ -1,0 +1,2 @@
+# VIII. Ad Article 20
+The provisions of paragraph 1 of Article 20 shall likewise apply in respect of remuneration or pensions paid by the Bank of Korea, the Korea Exchange Bank, the Export-Import Bank of Korea, the Korea Trade Promotion Corporation and any other government owned instrumentality performing functions of a governmental nature, provided that such remuneration or pensions are not paid in respect of services rendered in the Netherlands in connection with any business carried on therein.
