@@ -1,0 +1,5 @@
+# Artikel 47b
+1. De persoon, wiens arbeidsongeschiktheidsuitkering op grond van artikel 43, vijfde lid, is ingetrokken, heeft vanaf de dag dat hij in vrijheid wordt gesteld met inachtneming van de bepalingen van deze wet aanspraak op heropening van de arbeidsongeschiktheidsuitkering, indien hij op die dag arbeidsongeschikt is.
+2. Aanspraak op heropening van de arbeidsongeschiktheidsuitkering heeft eveneens de persoon, bedoeld in het eerste lid, die op de in dat lid bedoelde dag niet arbeidsongeschikt is, doch ten aanzien van wie dit wel het geval is binnen vier weken na afloop van dat tijdvak.
+3. De artikelen 19, vierde lid, 35, en 47, zevende lid, zijn van overeenkomstige toepassing met betrekking tot de aanspraak op heropening van de arbeidsongeschiktheidsuitkering, bedoeld in dit artikel.
+4. Het eerste en tweede lid zijn van overeenkomstige toepassing op bij algemene maatregel van bestuur aan te wijzen categorieën personen waarbij tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel buiten een justitiële inrichting plaatsvindt.

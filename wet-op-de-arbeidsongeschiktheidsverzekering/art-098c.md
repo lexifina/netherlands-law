@@ -1,0 +1,2 @@
+# Artikel 98c
+Onze Minister kan ter bevordering van de veiligheid van de arbeid van verzekerden alsmede van de gezondheid van verzekerden bij de arbeid, regelen stellen inzake het door de werkgever vastleggen van gegevens en het verstrekken van inlichtingen door de werkgever aan het Uitvoeringsinstituut werknemersverzekeringen en een bij die regelen aan te wijzen instelling omtrent bedrijfsongevallen en beroepsziekten.

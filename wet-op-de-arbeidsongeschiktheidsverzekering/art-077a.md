@@ -1,0 +1,3 @@
+# Artikel 77a
+1. Indien een herziening van het in artikel 77 bedoelde percentage ingaat op een ander tijdstip dan met ingang van 1 januari, gaat het Uitvoeringsinstituut werknemersverzekeringen bij de berekening en de inning van de premie uit van een door Onze Minister voor alle takken van bedrijf en beroep vast te stellen gemiddeld percentage dat zal gelden voor het gehele kalenderjaar.
+2. Het Uitvoeringsinstituut werknemersverzekeringen kan, in afwijking van het eerste lid, in bijzondere gevallen, onder goedkeuring van Onze Minister, voor een of meer sectoren uitgaan van de percentages, bedoeld in artikel 77.

@@ -1,0 +1,2 @@
+# Artikel 87d
+Indien bezwaar wordt gemaakt tegen een besluit waaraan een medische of arbeidskundige beoordeling ten grondslag ligt, beslist het Uitvoeringsinstituut werknemersverzekeringen, in afwijking van artikel 7:10, eerste lid, van de Algemene wet bestuursrecht, binnen zeventien weken of, indien het advies vraagt aan een deskundige die niet onder zijn verantwoordelijkheid werkzaam is binnen eenentwintig weken, na ontvangst van het bezwaarschrift.

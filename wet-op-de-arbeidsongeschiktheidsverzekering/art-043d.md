@@ -1,0 +1,2 @@
+# Artikel 43d
+De arbeidsongeschiktheidsuitkering, onderscheidenlijk de verhoging van de arbeidsongeschiktheidsuitkering in geval van herziening van die uitkering op grond van de artikelen 37, 38, 39 en 39a, wordt niet uitbetaald gedurende het verlengde tijdvak waarin recht bestaat op loon op grond van artikel 629, elfde lid, onderdelen a en c, van Boek 7 van het Burgerlijk Wetboek, dan wel op bezoldiging op grond van artikel XV, veertiende lid, van de Wet terugdringing ziekteverzuim.

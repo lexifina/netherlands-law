@@ -1,0 +1,4 @@
+# Artikel 71b
+1. In afwijking van artikel 71a, is op het Uitvoeringsinstituut werknemersverzekeringen ten aanzien van de werknemer die op grond van artikel 29, tweede lid, onderdeel a, b, c of d, van de Ziektewet recht heeft op ziekengeld, artikel 71a, tweede tot en met het tiende lid niet van toepassing en is artikel 71a, eerste lid, van overeenkomstige toepassing. Het Uitvoeringsinstituut werknemersverzekeringen stelt, binnen een door Onze Minister nader te bepalen termijn, in overleg met die werknemer, een plan van aanpak op.
+2. In afwijking van artikel 71a, is artikel 71a, vierde, achtste, negende en tiende lid, niet van toepassing op de werkgever, wiens werknemer op grond van artikel 29, tweede lid, onderdeel e, f of g, van de Ziektewet dan wel op grond van artikel 29a, derde of zevende lid, van die wet recht heeft op ziekengeld.
+3. Bij ministeriële regeling kunnen nadere regels worden gesteld voor de uitvoering van dit artikel.

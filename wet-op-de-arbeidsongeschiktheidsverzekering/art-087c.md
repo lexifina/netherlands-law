@@ -1,0 +1,2 @@
+# Artikel 87c
+In afwijking van artikel 7:10, eerste lid, van de Algemene wet bestuursrecht beslist het Uitvoeringsinstituut werknemersverzekeringen binnen dertien weken na ontvangst van het bezwaarschrift.
