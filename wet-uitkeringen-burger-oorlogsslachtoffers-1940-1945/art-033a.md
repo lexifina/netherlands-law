@@ -1,0 +1,3 @@
+# Artikel 33a
+1. In afwijking van het eerste lid van de artikelen 32 en 33 kan aan categorieën burger-oorlogsslachtoffers in de kosten van bepaalde voorzieningen een vergoeding of tegemoetkoming worden verleend zonder dat het in die artikelleden bedoelde verband is vereist. Bij algemene maatregel van bestuur worden ter zake regels gesteld.
+2. Bij algemene maatregel van bestuur worden regels gesteld betreffende de mogelijkheid om een vergoeding of tegemoetkoming in de kosten van bepaalde voorzieningen als bedoeld in de artikelen 32 en 33 na het overlijden van het burger-oorlogsslachtoffer gedurende een bepaalde tijd ten gunste van de weduwe of weduwnaar voort te zetten.
