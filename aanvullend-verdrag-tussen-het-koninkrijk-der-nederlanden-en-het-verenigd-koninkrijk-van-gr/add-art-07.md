@@ -1,0 +1,6 @@
+# Artikel VII. Territoriale uitbreiding
+1. a) Hare Britse Majesteit kan op elk tijdstip waarop dit Verdrag van kracht is, de werking daarvan door middel van een langs de diplomatieke weg te zenden kennisgeving uitbreiden tot elk gebied voor welks internationale betrekkingen de Regering van Hare Britse Majesteit in het Verenigd Koninkrijk verantwoordelijk is.
+b) Hare Majesteit de Koningin der Nederlanden kan op elk tijdstip waarop dit Verdrag van kracht is, de werking daarvan door middel van een langs de diplomatieke weg te zenden kennisgeving uitbreiden tot elk deel van het Koninkrijk der Nederlanden buiten Europa.
+2. Een uitbreiding zal van kracht worden één maand na de datum van kennisgeving.
+3. Ieder der Hoge Verdragsluitende Partijen is bevoegd om na het verstrijken van een termijn van drie jaar na de datum, waarop een uitbreiding van dit Verdrag tot een van de in het eerste lid van dit artikel bedoelde gebieden van kracht is geworden, deze uitbreiding te beëindigen met inachtneming van een opzegtermijn van zes maanden, door kennisgeving langs de diplomatieke weg.
+4. De opzegging van dit Verdrag ingevolge artikel VIII heeft ook gevolg voor een gebied, waartoe de werking van het Verdrag is uitgebreid ingevolge het eerste lid van dit artikel, tenzij door de Hoge Verdragsluitende Partijen uitdrukkelijk anders is overeengekomen.
