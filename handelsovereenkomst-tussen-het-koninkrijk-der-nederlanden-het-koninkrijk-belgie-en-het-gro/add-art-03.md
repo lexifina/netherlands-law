@@ -1,0 +1,3 @@
+# Article III
+Les autorités compétentes autoriseront l'importation au Royaume des Pays-Bas et dans l'Union Economique belgo-luxembourgeoise des produits danois, conformément aux indications reprises à la liste ,,A" annexée au présent Accord, au moins à concurrence des quantités ou des valeurs indiquées pour chacun d'eux.
+De leur côté, les autorités danoises compétentes s'engagent à délivrer les licences d'exportation ou toutes) autres autorisations nécessaires pour l'exportation vers le Royaume des Pays-Bas, l'Union Economique belgo-luxembourgeoise, le Congo belge et le Ruanda-Urundi desdits produits, au moins à concurrencé des quantités ou des valeurs indiquées pour chacun d'eux, dans la liste ,,A" annexée au présent Accord.

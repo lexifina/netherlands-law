@@ -1,0 +1,3 @@
+# Article IV
+Les autorités danoises autoriseront l'importation au Danemark des produits néerlandais ou belgo-luxembourgeois, conformément aux indications reprises à la liste ,,B" annexée au présent Accord, au moins à concurrence des quantités ou des valeurs indiquées pour chacun d'eux.
+De leur côté, les autorités néerlandaises et belgo-luxembourgeoises compétentes s'engagent à délivrer des licences d'exportation ou toutes autres autorisations nécessaires pour l'exportation vers le Danemark desdits produits, au moins à concurrence des quantités ou des valeurs indiquées pour chacun d'eux, dans la liste ,,B" annexée au présent Accord.

@@ -1,0 +1,5 @@
+# Article VIII
+Le présent Accord entrera en vigueur le 1er décembre 1956.
+Il est valable pour une durée d'un an à partir de la date de son entrée en vigueur, et il sera considéré comme renouvelé, d'année en année, par tacite reconduction, pourvu qu'aucune des Parties Contractantes ne le dénonce en donnant une notification aux autres Parties Contractantes trois mois avant l'expiration de la période d'une année.
+A l'égard du Surinam et des Antilles néerlandaises ce renouvellement est soumis aux stipulations de l'article VII.
+Le présent Accord prendra fin de plein droit immédiatement dans le cas où l'Accord sur l'Etablissement d'une Union Européenne de Paiements, signé à Paris le 19 septembre 1950, prendrait fin ou l'application de cet Accord serait suspendue ou prendrait fin en ce qui concerne les Pays-Bas, l'Union Economique belgo-luxembourgeoise ou le Danemark et pour autant qu'un régime de paiement offrant aux Parties Contractantes des possibilités satisfaisantes de règlement ne soit pas instauré.
