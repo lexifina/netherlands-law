@@ -1,0 +1,9 @@
+# ARTIKEL IV
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met dien verstande dat:
+a. artikel I, de onderdelen B, D 1, E 1a, K, M, P 3, Q 5 en AA 1, terug werkt tot en met 1 januari 1993, wat betreft de onderdelen D 1, P 3 en Q 5 voor zover daarbij artikelen van de Algemene pensioenwet politieke ambtsdragers worden gewijzigd ter zake van de eindejaarsuitkering;
+b. artikel I, de onderdelen E 1b en 5, G 2, H, Q 1, 3a, 4a, 6 en 7, S 2, T, W 1, BB, FF 1, 4a, 5a en 6, II 2 en JJ, terugwerkt tot en met 1 januari 1995;
+c. artikel I, de onderdelen D 1 en 2, E 3 en 4, F, I, J, O, P 1, 2 en 3, Q 3b, 4b en 5, R, U, V, W 2 en 3, Z, DD, EE 1 en 2, FF 4b en 5b, GG, KK, LL, MM en NN, terugwerkt tot en met 1 januari 1996, wat betreft de onderdelen D 1, P 3 en Q 5 voor zover daarbij artikelen van de Algemene pensioenwet politieke ambtsdragers worden gewijzigd in verband met de wijziging van artikel 105 van die wet, bij deze wet;
+d. artikel I, de onderdelen AA 2, FF 2 en HH, werking heeft ten aanzien van voor een pensioenberekening in aanmerking te nemen tijd vanaf 1 januari 1994 en wat betreft onderdeel AA 3 terugwerkt tot en met die datum;
+e. artikel I, de onderdelen A, L en CC, werking heeft ten aanzien van een recht op uitkering ter zake van een ontslag of aftreden ingaande 1 januari 1995 of later;
+f. artikel I, de onderdelen D 3, P 4 en EE 3, werking heeft ten aanzien van voor een pensioenberekening in aanmerking te nemen uitkeringstijd waarin de belanghebbende inkomsten heeft uit een betrekking waaraan aanspraak op overheidspensioen wordt ontleend vanaf 1 januari 1995, en overigens eerst werking heeft ten aanzien van voor een pensioenberekening in aanmerking te nemen tijd waarin recht op uitkering bestaat uit hoofde van een ontslag of aftreden op of na de dag van inwerkingtreding van deze wet;
+g. de artikelen II en III terugwerken tot en met 1 juli 1996.
