@@ -1,0 +1,6 @@
+# Artikel XVI
+De Overeenkomstsluitende Partijen zullen pogen elk geschil dat zou kunnen rijzen met betrekking tot de uitlegging of de toepassing van deze Overeenkomst en haar Bijlage door rechtstreekse onderhandelingen op te lossen.
+In geval die onderhandelingen niet zullen slagen binnen een termijn van 90 dagen, zullen de Overeenkomstsluitende Partijen het geschil voorleggen aan een scheidsgerecht. Elke Overeenkomstsluitende Partij zal tot dat doel een scheidsgerecht aanwijzen. De aldus aangewezen scheidsrechters zullen een hoofdscheidsrechter kiezen, die onderdaan zal moeten zijn van een derde Staat.
+Indien de scheidsrechters niet zijn aangewezen binnen 60 dagen na de mededeling door een Overeenkomstsluitende Partij betreffende haar voornemen zich te wenden tot een scheidsgerecht, of indien de scheidsrechters binnen een termijn van 30 dagen niet tot overeenstemming kunnen komen betreffende de keuze van de hoofdscheidsrechter, zal aan de voorzitter van het Internationale Gerechtshof te 's-Gravenhage worden verzocht de noodzakelijke benoemingen te verrichten.
+Elke Overeenkomstsluitende Partij zal de helft van de kosten dragen, welke aan de scheidsrechterlijke procedure zijn verbonden.
+De beslissingen van het scheidsgerecht zijn bindend voor de beide Overeenkomstsluitende Partijen.

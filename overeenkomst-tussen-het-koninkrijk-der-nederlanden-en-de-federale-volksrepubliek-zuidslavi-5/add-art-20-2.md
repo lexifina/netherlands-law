@@ -1,0 +1,2 @@
+# Artikel XX
+Elke Overeenkomstsluitende Partij zal te allen tijde aan de andere Overeenkomstsluitende Partij mededeling kunnen doen van haar wens deze Overeenkomst op te zeggen. De geldigheid van de Overeenkomst zal een einde nemen twaalf maanden na de datum van ontvangst van de mededeling door een van de Overeenkomstsluitende Partijen, tenzij die mededeling vóór het einde van die periode in onderlinge overeenstemming wordt ingetrokken.

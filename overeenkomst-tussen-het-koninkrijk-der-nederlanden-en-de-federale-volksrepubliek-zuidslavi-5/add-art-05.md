@@ -1,0 +1,4 @@
+# Article V
+1. Un traitement juste et équitable sera assuré à l'entreprise ou aux entreprises désignées des Parties Contractantes pour l'exploitation des services indiqués à l'Annexe.
+2. Les services susmentionnés de chaque Partie Contractante auront pour objectif primordial d'offrir une capacité de transport adaptée aux besoins normaux et raisonnablement prévisibles du trafic aérien entre le territoire de la Partie Contractante qui a désigné les entreprises exploitantes et les pays de destination ultime du trafic.
+3. Pendant l'exploitation des services en question, le total de capacité, mis en oeuvre par les entreprises désignées par les deux Parties Contractantes, sur les mêmes étapes aboutissants sur leurs territoires respectifs, devra être raisonnablement adapté à la demande du transport aérien.

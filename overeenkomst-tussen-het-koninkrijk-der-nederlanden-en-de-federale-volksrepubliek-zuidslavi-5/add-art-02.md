@@ -1,0 +1,4 @@
+# Article II
+1. Chacune des Parties Contractantes désignera à l'autre Partie Contractante une ou plusieurs entreprises de transports aériens qui, en vertu du présent Accord, auront pour tâche d'exploiter les services aériens réguliers.
+2. Dès que cette notification aura été reçue, l'autre Partie Contractante, sous réserve des dispositions du paragraphe 3 ci-après et de l'article III du présent Accord, accordera sans retard injustifié, à l'entreprise ou aux entreprises désignées l'autorisation d'exploitation requise.
+3. Les Autorités aéronautiques respectives, avant d'accorder la susdite autorisation à une entreprise désignée par l'autre Partie Contractante, pourront s'assurer que cette entreprise satisfait aux exigences prescrites par les lois et règlements normalement appliqués aux services aériens réguliers, et pourvu que ceux-ci ne soient pas en contradiction avec les dispositions du présent Accord.

@@ -1,0 +1,2 @@
+# Article X
+Les certificats de navigabilité et les licences délivrés ou rendus exécutoires par une Partie Contractante seront reconnus par l'autre Partie Contractante pour l'exploitation des services convenus. Chaque Partie Contractante se réserve, cependant, le droit de ne pas reconnaître, pour la navigation au-dessus de son territoire, les licences délivrées à ses ressortissants par un autre Etat.
