@@ -1,7 +1,7 @@
 # Artikel 1a
 Economische delicten zijn eveneens:
 1°. overtredingen van voorschriften, gesteld bij of krachtens:
-de Bestrijdingsmiddelenwet 1962, de artikelen 2, eerste lid, ,10, eerste lid, 25c, vijfde lid, en 25d, vierde en achtste lid;
+de Bestrijdingsmiddelenwet 1962, de artikelen 2, eerste lid, 2a, 2b, eerste lid, 10, eerste lid, 13, 16a en 16aa en 25d, vierde en achtste lid;
 de Destructiewet, de artikelen 4 en 5, eerste en tweede lid;
 de Flora- en faunawet, artikel 13, eerste lid;
 de Grondwaterwet, artikel 14, eerste en tweede lid;
@@ -21,6 +21,7 @@ de Wet vervoer gevaarlijke stoffen, de artikelen 4, 5, 10, 11, 21, 24, 27, 29, 3
 de Wet voorkoming verontreiniging door schepen, de artikelen 5, 12, 13, 13a, 23, tweede, vierde en vijfde lid, en 35, derde lid;
 de Wet houdende wijziging van de Bestrijdingsmiddelenwet 1962 (landbouwkundig onmisbare gewasbeschermingsmiddelen): artikel II, derde en zesde lid, en bijlage;
 2°. overtredingen van voorschriften, gesteld bij of krachtens:
+de Bestrijdingsmiddelenwet 1962: artikel 16g, zesde lid;
 de Boswet, de artikelen 2, derde lid, 3, eerste en tweede lid, en 13, eerste lid;
 de Flora- en faunawet, de artikelen 8, 9, 11, 12, 14, eerste, tweede en derde lid, 15, eerste en tweede lid, 17, 18, eerste lid, 26, derde en vijfde lid, 47 en 73
 de Kernenergiewet, de artikelen 14, 22, eerste lid, 26, tweede lid, 28, 33, eerste lid, 35, tweede lid, voor zover betrekking hebbend op een onderwerp, geregeld bij een krachtens artikel 28 vastgestelde algemene maatregel van bestuur, 37, eerste lid, 39, 67, eerste en vierde lid, 68 en 76, derde lid;
@@ -34,7 +35,7 @@ de Wet verontreiniging oppervlaktewateren, de artikelen 2b, eerste, tweede en de
 de Wet verontreiniging zeewater, de artikelen 6 en 6a;
 de Wet voorkoming verontreiniging door schepen, de artikelen 6, tweede lid, 10, eerste lid, onder b en d, 11, eerste, derde en vijfde lid, 16, 17, en 31;
 3°. overtredingen van voorschriften, gesteld bij of krachtens:
-de Bestrijdingsmiddelenwet 1962, de artikelen 2, vijfde, zesde en zevende lid, 5a, derde lid, 9, vijfde lid, 10, tweede lid, 11 tot en met 15 en 16a;
+de Bestrijdingsmiddelenwet 1962, de artikelen 2, vijfde, zesde en zevende lid, 5a, derde lid,, 10, tweede lid, 11, 12 en 13a tot en met 15;
 de Destructiewet, de artikelen 3, eerste, tweede en derde lid, 4a, 6, 9, 10, eerste en vijfde lid, 11, 12, 13, eerste, tweede, derde, vierde en vijfde lid, 15, 17, eerste lid, en 25, vierde lid;
 de Flora- en faunawet, de artikelen 10, 16, 37, eerste en tweede lid, 38, eerste lid, 50, eerste, tweede en derde lid, 51, 52, 53, 54, eerste lid, 58, 59, tweede lid, 60, vijfde lid, 62, eerste lid, 63, eerste lid, 64, tweede lid, 67, zesde lid, 72, vijfde lid, 74, eerste lid, 74a, eerste lid, 79, tweede lid, 81, eerste lid, en 111, eerste lid.
 de Grondwaterwet, artikel 11;
