@@ -1,2 +1,0 @@
-# Artikel I
-De opsporingsbevoegdheid verkregen door de categoriale beschikking van 27 juni 1988 (Stcrt. 126, dd. 4 juli 1988) houdende benoeming tot onbezoldigd ambtenaar van het Korps Rijkspolitie van de ambtenaren van Algemene Inspectie Dienst van het Ministerie van Landbouw, Natuurbeheer en Visserij geldt tevens voor de opsporing van delicten in het kader van de Gezondheids- en welzijnswet voor dieren (Stb. 1992, 585).
