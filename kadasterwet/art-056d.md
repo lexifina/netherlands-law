@@ -1,0 +1,6 @@
+# Artikel 56d
+1. De rechtbank beschikt omtrent de wijze waarop de bijwerking zal plaatsvinden na oproeping van de verzoeker, de ambtenaar en de belanghebbenden bij de bijwerking onder wie in elk geval zij die door de ambtenaar op de in artikel 56c, vierde lid, onder a, bedoelde lijst zijn geplaatst. De ambtenaar kan in persoon of ook bij een vertegenwoordiger verschijnen. Zo voor andere belanghebbenden nog beroep openstaat, wordt daarmee rekening gehouden bij de vaststelling van de dag waartegen wordt opgeroepen.
+2. Verschillende beroepen tegen één beslissing van de ambtenaar worden zoveel mogelijk gevoegd behandeld. Elke belanghebbende kan verschijnen bij of zich doen bijstaan door een notaris.
+3. De rechtbank kan bij haar onderzoek een meting gelasten.
+4. Tegen een beschikking van de rechtbank is geen hoger beroep toegelaten. Voor belanghebbenden die voor de rechtbank zijn verschenen en voor de ambtenaar staat beroep in cassatie open overeenkomstig de artikelen 426 tot en met 429 van het Wetboek van Burgerlijke Rechtsvordering.
+5. De griffier van de rechtbank, of in geval van beroep in cassatie de griffier van de Hoge Raad, zendt bij aangetekende brief een afschrift van de beschikking aan de hem bekende belanghebbenden bij de bijwerking, alsmede aan de ambtenaar.
