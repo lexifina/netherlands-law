@@ -1,0 +1,4 @@
+# Artikel VII
+1. Deze wet treedt in werking met ingang van de dag na de datum van het Staatsblad waarin zij wordt geplaatst.
+2. De in deze wet vervatte voorschriften zijn voor het eerst van toepassing met betrekking tot boekjaren die aanvangen op of na 1 januari 1993. Het tweede zinsdeel van artikel 363 lid 5 van boek 2 van het Burgerlijk Wetboek behoeft evenwel niet te worden toegepast in het eerste boekjaar, waarop de in deze wet vervatte voorschriften worden aangewend.
+3. Gedurende twee boekjaren vanaf het eerste boekjaar waarop de voorschriften van deze wet worden toegepast, mag het bepaalde in artikel 11, tweede lid, tweede tot en met vijfde volzin, van de Wet toezicht kredietwezen, zoals deze volzinnen luiden, voordat deze wet in werking treedt, worden toegepast naast en tegelijk met artikel VI van deze wet.
