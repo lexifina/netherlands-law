@@ -1,0 +1,2 @@
+# Artikel XIII
+De inwerkingtreding van artikel 624, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering, zoals dat is vastgesteld bij deze wet, heeft geen gevolg voor de bevoegdheid van de rechter aan wie voordien de in artikel 3, vierde lid, van de Wet teboekgestelde Luchtvaartuigen bedoelde goedkeuring is gevraagd, dan wel aan wie voordien de in artikel 4, tweede lid, van de Wet teboekgestelde Luchtvaartuigen bedoelde machtiging is verzocht.
