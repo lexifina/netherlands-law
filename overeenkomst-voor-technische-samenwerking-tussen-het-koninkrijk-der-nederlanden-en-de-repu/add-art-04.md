@@ -1,0 +1,2 @@
+# Artikel IV
+De bepalingen van de artikelen II en III van deze Overeenkomst zijn eveneens van toepassing op suppletie-deskundigen die door de Regering van het Koninkrijk der Nederlanden ter beschikking worden gesteld, voorzover zij niet de Guatemalteekse nationaliteit bezitten en ook niet in Guatemala wonen. Deze deskundigen moeten echter wel lokale inkomstenbelasting betalen over de van de Guatemalteekse Regering ontvangen emolumenten en inkomen.
