@@ -1,0 +1,5 @@
+# Article VII. Committees
+1. The Commission may establish temporary, special or standing committees to study and report on matters pertaining to the purpose of the Commission, subject to the availability of the necessary funds in the approved budget of the Commission.
+2. These committees shall be convened by the Director-General of the Organization in consultation with the Chairman of the Commission and with the Chairman of the special or standing committee concerned, at such times and places as are in accordance with the objectives for which they were established.
+3. Membership in such committees may be open to all Members of the Commission or consist of selected Members of the Commission or of individuals appointed in their personal capacity because of their competence in technical matters, as determined by the Commission. On proposal of the Chairman, observers may be invited to participate in the meetings of the special and standing committees.
+4. Members of the committees shall be appointed at the regular session of the Commission and each committee shall elect its own Chairman.

@@ -1,0 +1,2 @@
+# Article VIII. Rules and Regulations
+Subject to the provisions of this Constitution, the Commission may, by a majority of two-thirds of its membership, adopt and amend its own Rules of Procedure and Financial Regulations, which shall be in conformity with the General Rules and Financial Regulations of the Organization. The Rules of the Commission and any amendments thereto shall come into force upon approval by the Director-General of the Organization, the Financial Regulations and amendments thereto being subject to confirmation by the Council of the Organization.

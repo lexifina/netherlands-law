@@ -1,0 +1,2 @@
+# Artikel VIII. Reglement
+Met inachtneming van de bepalingen van dit Statuut kan de Commissie, met een meerderheid van twee derde van haar leden, haar eigen Huishoudelijk en Financieel Reglement aannemen en wijzigen, in overeenstemming met de Algemene Regels en het Financieel Reglement van de Organisatie. De Regels van de Commissie en eventuele wijzigingen daarvan treden in werking na goedkeuring door de Directeur-Generaal van de Organisatie; het Financieel Reglement en wijzigingen daarvan dienen door de Raad van de Organisatie te worden bevestigd.

@@ -1,0 +1,5 @@
+# Article XVII. Settlement of disputes
+1. If there is any dispute regarding the interpretation or application of this Constitution, the Member or Members concerned may request the Director-General of the Organization to appoint a committee to consider the question in dispute.
+2. The Director-General shall thereupon, after consultation with the Members concerned, appoint a committee of experts which shall include representatives of those Members. This committee shall consider the question in dispute, taking into account all documents and other forms of evidence submitted by the Members concerned. This committee shall submit a report to the Director-General of the Organization who shall transmit it to the Members concerned, and to the other Members of the Commission.
+3. The Members of the Commission agree that the recommendations of such a committee, while not binding in character, will become the basis for renewed consideration by the Members concerned of the matter out of which the disagreement arose.
+4. The Members concerned shall share equally the expenses of the experts.

@@ -1,0 +1,3 @@
+# Article XVIII. Termination
+1. This Constitution shall be terminated by a decision of the Commission taken by a three-fourths majority of the membership of the Commission. It shall automatically be terminated should membership, as a result of withdrawals, comprise fewer than six Nations.
+2. On termination of the Constitution all assets of the Commission shall be liquidated by the Director-General of the Organization and after settlement of all liabilities the balance shall be distributed proportionally amongst Members on the basis of the scale of contributions in force at the time. Nations whose contributions are in arrears for two consecutive years and hence deemed to have withdrawn in conformity with Article XVI (2) shall not be entitled to a share of the assets.

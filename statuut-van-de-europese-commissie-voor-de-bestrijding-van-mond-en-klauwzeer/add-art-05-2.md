@@ -1,0 +1,8 @@
+# Artikel V. Speciale Functies
+Tot de speciale functies van de Commissie behoren:
+1. Het verlenen van hulp bij de preventie en bestrijding van de ziekte in spoedgevallen, op elke wijze welke de Commissie en het betreffende Lid, of de betreffende Leden daartoe geschikt achten. Voor dit doel kan de Commissie, of haar Uitvoerend Comité overeenkomstig het bepaalde in Artikel XI (5), alle vrije saldi op de administratieve begroting, bedoeld in Artikel VIII (7), gebruiken, evenals alle eventuele supplementaire bijdragen waarover krachtens Artikel XIII (4) in noodgevallen kan worden beschikt.
+2. Het nemen van de daartoe geschikt geoordeelde maatregelen betreffende:
+2.1. Het opslaan van antigenen en/of vaccins door of ten behoeve van de Commissie om deze, in geval van nood, aan een Lid te kunnen uitreiken.
+2.2. Het bevorderen, indien nodig, van de instelling door een Lid of Leden van „cordons sanitaires" ter voorkoming van de verbreiding van de ziekte.
+3. Het uitvoeren van die verdere speciale projecten, welke kunnen worden voorgesteld door Leden, of door het Uitvoerend Comité en welke zijn goedgekeurd door de Commissie, voor het bereiken van de doeleinden van de Commissie, zoals deze zijn neergelegd in dit Statuut.
+4. Fondsen uit het overschot van de administratieve begroting kunnen worden aangewend voor de doeleinden omschreven in het tweede en derde lid van dit Artikel, wanneer hieraan de goedkeuring wordt gehecht door de Commissie met een meerderheid van twee derde van het aantal uitgebrachte stemmen, mits deze meerderheid groter is dan de helft van het aantal Leden van de Commissie.

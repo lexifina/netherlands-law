@@ -1,0 +1,4 @@
+# Article XVI. Withdrawal
+1. Any Member may withdraw from the Commission at any time after the expiration of one year from the date on which its acceptance took effect or from the date on which the Constitution entered into force, whichever is the later, by giving written notice of withdrawal to the Director-General of the Organization who shall forthwith inform all Members of the Commission. The withdrawal shall become effective one year from the date of receipt of the notification of withdrawal.
+2. Non-payment of two consecutive annual contributions shall be regarded as implying withdrawal of the defaulting Member from the Commission.
+3. Any Member of the Commission withdrawing from the Organization or the Office, when such withdrawal results in this Nation no longer being a Member of either of these two Agencies, shall be deemed to have withdrawn simultaneously from the Commission.

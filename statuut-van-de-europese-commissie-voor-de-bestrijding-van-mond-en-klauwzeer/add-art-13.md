@@ -1,0 +1,8 @@
+# Article XIII. Finance
+1. Each Member of the Commission undertakes to contribute annually its share of the administrative budget in accordance with a scale of contributions. This scale of contributions shall be adopted by the Commission with a two-thirds majority of its Members in accordance with the Financial Regulations of the Commission.
+2. Contributions of States which acquire membership between two regular sessions of the Commission shall be determined by the Executive Committee in accordance with the Financial Regulations of the Commission; for this purpose such criteria as may be specified in the Financial Regulations shall apply. The determination made by the Executive Committee shall be subject to confirmation by the Commission at its next regular session.
+3. Annual contributions provided for under paragraphs 1 and 2 above shall be payable before the end of the first month of the year to which they apply.
+4. Supplementary contributions may be accepted from a Member or Members or from organizations or individuals for emergency action or for the purpose of implementing special schemes or campaigns of control which under Article V the Commission or Executive Committee may adopt or recommend.
+5. All contributions from Members shall be payable in currencies to be determined by the Commission in agreement with each contributing Member.
+6. All contributions received shall be placed in a Trust Fund administered by the Director-General of the Organization in conformity with the Financial Regulations of the Organization.
+7. At the end of each financial period, any uncommitted balance of the Administrative Budget shall be retained in the Trust Fund and made available for the following year's budget.

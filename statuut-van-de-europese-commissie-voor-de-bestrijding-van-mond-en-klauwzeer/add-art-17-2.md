@@ -1,0 +1,5 @@
+# Artikel XVII. Regeling van geschillen
+1. Mocht er enig geschil rijzen aangaande de uitlegging of toepassing van dit Statuut, dan kan het betreffende Lid of kunnen de betreffende Leden de Directeur-Generaal van de Organisatie verzoeken een commissie in te stellen ter beoordeling van het geschil.
+2. Daarop stelt de Directeur-Generaal, in overleg met de betreffende Leden, een commissie van deskundigen in, waarin vertegenwoordigers van die Leden mede zitting hebben. Deze commissie beoordeelt het geschil, in welke beoordeling zij alle documenten en andere bewijsstukken, welke door de Leden zijn overgelegd, betrekt. Deze Commissie legt een rapport voor aan de Directeur-Generaal van de Organisatie, die dit doorzendt aan de betreffende Leden en aan de andere Leden van de Commissie.
+3. De Leden van de Commissie gaan ermee akkoord dat de aanbevelingen van deze commissie van onderzoek, hoewel niet bindend, als basis worden aanvaard voor een nieuwe beoordeling door de betreffende Leden van de aangelegenheid waaruit het geschil is ontstaan.
+4. De betreffende Leden dragen ieder voor een gelijk deel de kosten van de deskundigen.
