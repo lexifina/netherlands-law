@@ -1,0 +1,2 @@
+# Artikel V. Toetreding
+Dit Protocol staat open voor toetreding door alle Staten welke partij zijn bij het Verdrag, alsmede door elke Staat die lid is van de Verenigde Naties of van een van de gespecialiseerde organisaties dan wel door elke Staat aan wie de Algemene Vergadering van de Verenigde Naties een uitnodiging tot toetreding tot het Protocol heeft gericht. De toetreding zal plaatsvinden door de nederlegging van een akte van toetreding bij de Secretaris-Generaal van de Verenigde Naties.

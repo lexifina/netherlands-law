@@ -1,0 +1,2 @@
+# Article XI. Deposit in the archives of the Secretariat of the United Nations
+A copy of the present Protocol, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, signed by the President of the General Assembly and by the Secretary-General of the United Nations, shall be deposited in the archives of the Secretariat of the United Nations. The Secretary-General will transmit certified copies thereof to all States Members of the United Nations and to the other States referred to in article V above.

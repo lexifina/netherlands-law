@@ -1,0 +1,2 @@
+# Article V. Accession
+The present Protocol shall be open for accession on behalf of all States Parties to the Convention and of any other State Member of the United Nations or member of any of the specialized agencies or to which an invitation to accede may have been addressed by the General Assembly of the United Nations. Accession shall be effected by the deposit of an instrument of accession with the Secretary-General of the United Nations.
