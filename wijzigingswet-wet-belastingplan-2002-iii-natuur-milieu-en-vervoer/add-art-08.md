@@ -1,0 +1,2 @@
+# Artikel VIII. Overgangsrecht Wet op de motorrijtuigenbelasting
+In afwijking van artikel 83 van de Wet op de motorrijtuigenbelasting 1994 wordt teruggaaf van motorrijtuigenbelasting verleend over tijdvakken die nog niet zijn aangevangen op 1 januari 2002 met betrekking tot personenauto's als bedoeld in artikel 23 van deze wet. De teruggaaf bedraagt het verschil tussen de betaalde belasting en de belasting die is verschuldigd op grond van artikel 23 van voornoemde wet.
