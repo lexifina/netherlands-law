@@ -1,0 +1,2 @@
+# Artikel II
+De voorwaarden voor aanwijzing van een lichaam waarvan de werknemers deelnemen in de Stichting Pensioenfonds ABP zoals die gelden op de dag voorafgaande aan de datum van inwerkingtreding van deze wet, blijven van toepassing op aanwijzingen die op of na die datum plaatsvinden en waarvoor het schriftelijk verzoek dat leidt tot de voordracht, bedoeld in artikel 3, eerste lid, voor die datum bij genoemde stichting is binnengekomen.
