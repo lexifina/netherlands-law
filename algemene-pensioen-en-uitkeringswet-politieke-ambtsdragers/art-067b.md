@@ -1,4 +1,7 @@
 # Artikel 67b
-1. Dit artikel is uitsluitend van toepassing op pensioenberekeningen over diensttijd tussen 31 december 1994 en 1 januari 1996.
-2. De nabestaande die de leeftijd van 65 jaar nog niet heeft bereikt en geen recht heeft op nabestaandenuitkering ingevolge de Algemene nabestaandenwet, heeft tot de eerste dag van de maand waarin hij die leeftijd bereikt recht op een toeslag op zijn volgens de voorgaande artikelen berekende pensioen. Deze toeslag bedraagt jaarlijks voor elk voor de berekening van het nabestaandenpensioen tellend jaar 1,25 percent van de franchise, bedoeld in artikel 59aa.
-3. Het derde en vierde lid van artikel 22a zijn van overeenkomstige toepassing.
+1. De nabestaande die recht heeft op nabestaandenuitkering ingevolge de Algemene nabestaandenwet, waarop inkomen in mindering wordt gebracht, heeft recht op een toeslag op zijn volgens artikel 67 berekende pensioen, indien dat is berekend of mede berekend over diensttijd na 31 december 1985.
+2. Recht op toeslag heeft eveneens de nabestaande aan wie in het tijdvak van 1 juli 1996 tot 1 juli 1999 nabestaandenpensioen is toegekend en op wiens uitkering ingevolge de Algemene nabestaandenwet in dat tijdvak inkomen in mindering is gebracht, met ingang van die vermindering.
+3. De toeslag bedraagt jaarlijks voor elk voor de berekening van het nabestaandenpensioen tellend jaar na 31 december 1985 2,5 procent van het verschil tussen 75 procent van het tot een jaarbedrag herleide bedrag van de nabestaandenuitkering en de vakantie-uitkering ingevolge de Algemene nabestaandenwet zonder vermindering en het verminderde bedrag. De toeslag bedraagt niet meer dan 75 procent van het in de eerste volzin eerstbedoelde bedrag en kan niet negatief zijn. De toeslag wordt nader vastgesteld;
+a. met ingang van 1 januari en 1 juli van ieder jaar aan de hand van wijzigingen van de in het tweede lid, eerste volzin, eerstbedoelde bedragen vanaf 1 juli 1999;
+b. bij iedere nadere vaststelling van de verminderdering van een uitkering ingevolge de Algemene nabestaandenwet.
+4. Artikel 67a, vierde en vijfde lid, zijn mede van toepassing op de toeslag ingevolge dit artikel.

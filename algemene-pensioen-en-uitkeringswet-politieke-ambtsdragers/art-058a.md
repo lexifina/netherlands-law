@@ -6,3 +6,7 @@
 a. voor zover gedurende de in dat lid bedoelde tijd de uitkering wegens het genieten van inkomsten als bedoeld in artikel 54 tot nihil is verminderd;
 b. in zover de belanghebbende die recht heeft op uitkering, maar die minder uitkering geniet dan de krachtens artikel 106 berekende inhoudingen ter zake van ouderdom en overlijden, er geen zorg voor draagt dat het bedrag van deze inhoudingen, welk bedrag in dit geval als een op hem rustende schuld wordt beschouwd, bij het bereiken van de 65-jarige leeftijd is voldaan;
 c. indien de belanghebbende daarom verzoekt.
+5. Een kamerlid en een gewezen kamerlid hebben bij ingang van het pensioen eenmalig de keuzemogelijkheid het pensioen met 12 percent te verhogen, voorzover het is berekend over kamerlidtijd die is gelegen na 30 juni 1999 en die overeenkomt met de tijd die krachtens artikel 67 voor de berekening van het nabestandenpensioen in aanmerking wordt genomen.
+6. Met de verhoging van het pensioen, bedoeld in het vijfde lid, vervalt de aanspraak op nabestaandenpensioen, voorzover opgebouwd na 30 juni 1999.
+7. De keuze, bedoeld in het vijfde lid, kan slechts worden gedaan met toestemming van de echtgenoot of de aangemelde partner. Onze Minister kan nadere regels stellen met betrekking tot het doen van de keuze.
+8. De verhoging van het pensioen gaat in met ingang van de dag waarop het recht op pensioen ontstaat en is onherroepelijk.
