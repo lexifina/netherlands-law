@@ -7,13 +7,17 @@
 ### § 3a. Administratieve boeten
 ### § 4. De betaling van de uitkering
 ### § 5. Terugvordering
-## Hoofdstuk III. Verplichtingen gericht op inschakeling in de arbeid en voorzieningen
+## Hoofdstuk III. Rechten en plichten
 ## Hoofdstuk IV. Uitvoering en toezicht
 ### § 1. Verantwoordelijkheid voor de uitvoering
 ### § 2. Inlichtingenverplichting en gegevensuitwisseling
-### § 3. Toezicht
-### § 4. Beleidsinformatie
-## Hoofdstuk V
+### Paragraaf 3. Toezicht
+### Paragraaf 4. Informatie
+## Hoofdstuk V. Financiering
+### Paragraaf 1. Vergoeding
+### Paragraaf 2. Uitkering
+### Paragraaf 3. Vaststelling
+### Paragraaf 4. Voorzieningen
 ## Hoofdstuk VI. Rechtsbescherming
 ## Hoofdstuk VII. Strafbepalingen
 ## Hoofdstuk VIII. Slotbepalingen

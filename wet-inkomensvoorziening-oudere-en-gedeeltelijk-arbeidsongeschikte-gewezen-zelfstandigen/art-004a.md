@@ -1,0 +1,4 @@
+# Artikel 4a
+In deze wet en de daarop berustende bepalingen wordt verstaan onder:
+a. arbeidsinschakeling: het verkrijgen van algemeen geaccepteerde arbeid, waarbij geen gebruik wordt gemaakt van een voorziening als bedoeld in artikel 34, eerste lid, onderdeel a;
+b. sociale activering: het verrichten van onbeloonde maatschappelijk zinvolle activiteiten gericht op arbeidsinschakeling of, als arbeidsinschakeling nog niet mogelijk is, op zelfstandige maatschappelijke participatie.
