@@ -10,6 +10,7 @@ de Meststoffenwet, de artikelen 55, 57, tweede lid, 58, 58c, 58d, tweede lid, 58
 de Wet bestrijding ongevallen Noordzee, de artikelen 4, eerste, tweede, derde en vierde lid, en 15;
 de Wet bodembescherming, de artikelen 6 tot en met 13, 38 en 94;
 de Wet inzake de luchtverontreiniging, de artikelen 91, 92, onder a, in verband met artikel 48, en 92, onder b;
+de Wet luchtvaart, de artikelen 6.51, eerste lid, 6.54, vierde lid, 6.55, eerste lid en 6.58, tweede lid, alsmede - voorzover aangeduid als strafbare feiten - overtredingen van voorschriften krachtens titel 6.5 van die wet gegeven;
 de Wet milieubeheer, artikel 1.2, eerste lid, - voor zover aangeduid als strafbare feiten - en de artikelen 8.1, eerste lid, 8.40, eerste lid, 8.42, tweede lid, 8.43, 8.44, eerste en zesde lid, 10.1, 10.2, eerste lid, 10.37, eerste lid, 10.39, eerste lid, 10.45, eerste lid, onderdeel b, 10.47, eerste lid, 10.54, eerste lid, 10.56, eerste en tweede lid, 10.57, 10.58, eerste en tweede lid, 10.60, eerste en tweede lid, onder a en b, 17.4 eerste lid, en 18.18;
 de Wet milieugevaarlijke stoffen, de artikelen 2, 8, 24, 31, 59 en 63;
 de Wet rampen en zware ongevallen, – voor zover aangeduid als strafbare feiten – de artikelen 2c, eerste en derde lid, en 11b, tweede en derde lid;
@@ -46,6 +47,7 @@ de Natuurbeschermingswet, artikel 17;
 de Wet bescherming Antarctica, de artikelen 19, tweede lid, en 33
 de Wet geluidhinder, de artikelen 2, 3, 8, 9, 10, 170, tweede lid, en 175;
 de Wet inzake de luchtverontreiniging, de artikelen 92, onder a, in verband met de artikelen 13, 14 en 86, tweede lid, 92, onder c, en 92, onder d;
+de Wet luchtvaart, de artikelen 6.60, eerste lid, 6.61, tweede lid, 6.61a, en 6.62, tweede lid.
 de Wet milieubeheer, de artikelen 10.23 – voor zover aangeduid als strafbare feiten – en artikel 10.60, tweede lid, onder d en e;
 de Wet van 13 mei 1993, Stb. 283, tot uitbreiding en wijziging van de Wet milieubeheer (afvalstoffen), artikel VII, voor zover het betreft gemeentelijke verordeningen, vastgesteld krachtens artikel 2 van de Afvalstoffenwet;
 de Wet verplaatsing mestproductie, de artikelen 9, tweede lid, 10, 13, 14, en 17;
