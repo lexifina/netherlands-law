@@ -4,15 +4,12 @@
 ### § 2. De werknemer
 ### § 3. De werkgever
 ### § 4. Het loon
-## Hoofdstuk IIA. De verplichte verzekering van loongerelateerde uitkering en vervolguitkering bij werkloosheid
+## Hoofdstuk IIA. De verplichte verzekering van loongerelateerde uitkering bij werkloosheid
 ### Afdeling I. Algemene bepalingen
-#### § 1. De voorwaarden voor het recht op loongerelateerde uitkering en vervolguitkering
-#### § 2. Het geldend maken van het recht op loongerelateerde uitkering en vervolguitkering
-#### § 3. De betaling van de loongerelateerde uitkering en van de vervolguitkering
+#### § 1. De voorwaarden voor het recht op loongerelateerde uitkering
+#### § 2. Het geldend maken van het recht op loongerelateerde uitkering
+#### § 3. De betaling van de loongerelateerde uitkering
 ### Afdeling II. De loongerelateerde uitkering
-#### § 1. De duur van de uitkering
-#### § 2. De hoogte van de uitkering
-### Afdeling III. De vervolguitkering
 #### § 1. De duur van de uitkering
 #### § 2. De hoogte van de uitkering
 ## Hoofdstuk IIB. De verplichte verzekering van kortdurende uitkering bij werkloosheid
@@ -29,7 +26,7 @@
 ## Hoofdstuk VII. Financiering
 ### § 1. Het Algemeen Werkloosheidsfonds en de wachtgeldfondsen
 ### § 2. Het Uitvoeringsfonds voor de overheid
-### § 3. Sectorindeling.
+### § 3. Sectorindeling
 ## Hoofdstuk VIII. De uitvoeringsorganisatie
 ## Hoofdstuk IX. Bepalingen van procedurele aard
 ## Hoofdstuk X. Bezwaar, administratief beroep en beroep bij de Centrale Raad van Beroep

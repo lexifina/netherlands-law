@@ -1,0 +1,10 @@
+# Artikel 130h
+1. Hoofdstuk IIA, Afdeling III, zoals dat luidde op de dag voor inwerkingtreding van de wet van 19 december 2003 tot wijziging van de Werkloosheidswet in verband met afschaffing van de vervolguitkering (Stb. 546), blijft van toepassing op een recht op uitkering:
+a. waarvan de eerste werkloosheidsdag is gelegen voor 11 augustus 2003;
+b. ontstaan als gevolg van eindiging van de dienstbetrekking door opzegging, indien de aanzegging van de opzegging heeft plaatsgevonden voor de in onderdeel a genoemde datum;
+c. ontstaan als gevolg van ontbinding door de rechter van de dienstbetrekking, indien de datum waarop de ontbinding is uitgesproken is gelegen voor de in onderdeel a genoemde datum.
+2. De artikelen 48, 51 en 52, zoals die luidden op de dag voor inwerkingtreding van de in het eerste lid genoemde wet, blijven van toepassing op de persoon:
+a. die voor 11 augustus 2003 recht op uitkering op grond van deze wet had, welk recht eindigt of is geëindigd op grond van het verrichten van werkzaamheden als werknemer, en die terzake van de verrichte werkzaamheden op of na 11 augustus 2003 een nieuw recht op uitkering krijgt, tot aan het moment waarop dat eerste recht zonder toepassing van de artikelen 43 en 50 zou hebben geduurd;
+b. op wie het eerste lid, onderdeel b of c van toepassing is, en wiens recht als bedoeld in dat lid eindigt of is geëindigd op grond van het verrichten van werkzaamheden als werknemer, en die terzake van de verrichte werkzaamheden op of na 11 augustus 2003 een nieuw recht op uitkering krijgt, tot aan het moment waarop dat eerste recht zonder toepassing van de artikelen 43 en 50 zou hebben geduurd.
+3. De artikelen 15, 35c, 52b, derde lid, en 52d, derde tot en met vijfde lid, zoals die luidden op de dag voor inwerkingtreding van de in het eerste lid genoemde wet, blijven van toepassing op de in het eerste en tweede lid bedoelde rechten respectievelijk personen.
+4. Met opzegging als bedoeld in het eerste lid, onderdeel b, wordt gelijkgesteld, ontslag als bedoeld in de artikelen 93 en 94 van het Algemeen Rijksambtenarenreglement of een overeenkomstige bepaling van een soortgelijke regeling.
