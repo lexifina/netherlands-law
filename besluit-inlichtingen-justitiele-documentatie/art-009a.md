@@ -1,2 +1,0 @@
-# Artikel 9a
-Het College van procureurs-generaal is bevoegd aan de daartoe bevoegde buitengewone opsporingsambtenaren van de Dienst Wegverkeer alsmede aan de met opsporing belaste ambtenaren, bedoeld in artikel 141 van het Wetboek van Strafvordering inlichtingen te verstrekken terzake van overtredingen van de artikelen 30, eerste, tweede en vierde lid, en artikel 34, derde lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen, voor zover zij deze behoeven voor de uitoefening van hun taak terzake van het aanbieden van transacties.

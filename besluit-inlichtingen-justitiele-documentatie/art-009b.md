@@ -1,2 +1,0 @@
-# Artikel 9b
-Het College van procureurs-generaal is bevoegd aan de daartoe bevoegde buitengewone opsporingsambtenaren van de divisie Vervoer van de Inspectie Verkeer en Waterstaat inlichtingen te verstrekken terzake van overtredingen van artikel 31 van de Wet Goederenvervoer over de weg voor zover zij deze behoeven voor de uitoefening van hun taak terzake van de beoordeling van de eis van betrouwbaarheid.
