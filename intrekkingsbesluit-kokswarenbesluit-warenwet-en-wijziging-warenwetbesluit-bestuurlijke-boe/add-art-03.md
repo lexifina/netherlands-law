@@ -1,0 +1,2 @@
+# Artikel III
+In afwijking van artikel 15, eerste lid, onder b, en vierde lid, van het Warenwetbesluit Bereiding en behandeling van levensmiddelen, en van artikel 4 van de Warenwetregeling Diepgevroren levensmiddelen, mogen kokswaren nog tot 1 januari 2006 worden vervoerd en bewaard met inachtneming van artikel 2 van het Kokswarenbesluit (Warenwet) zoals dat onmiddellijk voor de inwerkingtreding van dit besluit luidde.
