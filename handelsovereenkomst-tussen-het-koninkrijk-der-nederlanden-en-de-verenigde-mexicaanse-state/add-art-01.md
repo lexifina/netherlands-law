@@ -1,0 +1,2 @@
+# I
+Beide Regeringen komen overeen ter zake van de invoer, de uitvoer, de doorvoer en de opslag van goederen onder douaneverband elkander wederkerig de onvoorwaardelijke en onbeperkte behandeling van de meestbegunstigde natie te verlenen voor alles wat betreft de douanerechten en alle bijkomende rechten, heffingen en belastingen, de wijze van heffing of inning van deze rechten, heffingen en belastingen en de voorschriften, formaliteiten en verplichtingen, waaraan de douanehandelingen kunnen zijn onderworpen.

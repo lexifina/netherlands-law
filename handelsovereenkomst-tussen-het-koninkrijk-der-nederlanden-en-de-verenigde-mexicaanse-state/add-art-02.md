@@ -1,0 +1,2 @@
+# II
+Ingevolge artikel I, zullen de producten van bodem en nijverheid van het grondgebied van een van beide landen, welke worden ingevoerd in het grondgebied van het andere land, in geen geval, ter zake van genoemd stelsel, worden onderworpen aan andere of hogere rechten, belastingen of heffingen, noch aan enige andere of drukkender voorschriften, formaliteiten en verplichtingen dan die, aan welke gelijksoortige producten van enig derde land zijn of in de toekomst mochten worden onderworpen.

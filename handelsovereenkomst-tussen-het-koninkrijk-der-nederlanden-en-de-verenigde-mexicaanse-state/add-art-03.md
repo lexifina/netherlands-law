@@ -1,0 +1,2 @@
+# III
+Insgelijks zullen de producten van bodem en nijverheid uitgevoerd uit het grondgebied van een van beide landen naar het grondgebied van het andere land, in geen enkel geval, onder hetzelfde stelsel, worden onderworpen aan enige andere of hogere rechten, belastingen of heffingen, noch aan enige andere of drukkender voorschriften, formaliteiten en verplichtingen dan die, aan welke gelijksoortige producten met bestemming naar enig derde land zijn of in de toekomst mochten worden onderworpen.
