@@ -1,0 +1,4 @@
+# Artikel VI
+1. Bevoegd tot het verlenen van een erkenning, een ontheffing, een consent, een vergunning, een verlof en een Europese schietwapenpas, aangevraagd vóór de inwerkingtreding van deze wet, is het bestuursorgaan dat daartoe bevoegd was overeenkomstig het recht zoals dat gold voor de inwerkingtreding van deze wet.
+2. Een erkenning, een ontheffing, een consent, een vergunning, een verlof en een Europese schietwapenpas, verleend vóór de inwerkingtreding van deze wet, blijft geldig totdat de geldigheidsduur zou zijn verstreken overeenkomstig het recht zoals dat gold voor de inwerkingtreding van deze wet.
+3. De geldigheidsduur van een erkenning, een ontheffing, een consent, een vergunning, een verlof en een Europese schietwapenpas, verleend vóór de inwerkingtreding van deze wet, kan worden verlengd overeenkomstig het recht zoals dat geldt na de inwerkingtreding van deze wet.
