@@ -1,0 +1,2 @@
+# Artikel II
+Een verzoek om toepassing van artikel 2, onderdeel d, van de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945 door een persoon op wiens aanvraag tussen 1 april 1984 en de datum van inwerkingtreding van deze wet een beslissing in zijn nadeel is genomen, waarbij is vastgesteld dat voldaan is aan eisen als bedoeld in artikel 2, onderdeel d, van de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945, dient uiterlijk één jaar na de datum van inwerkingtreding van deze wet te worden ingediend.
