@@ -1,0 +1,2 @@
+# Artikel XIII. Inwerkingtreding
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat artikel I, onderdeel L, met betrekking tot de artikelen 76 en 77 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen terugwerkt tot en met 1 januari 2004. In het koninklijk besluit wordt zo nodig toepassing gegeven aan artikel 16 van de Tijdelijke referendumwet.
