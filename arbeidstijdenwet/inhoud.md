@@ -73,10 +73,28 @@
 ### § 8.3. Geheimhouding
 ## Hoofdstuk 9. Zelfstandige bestuursorganen
 ### Dienst Wegverkeer
+## Hoofdstuk 10. Bestuursrechtelijke handhaving
+### § 10.1. Beboetbare feiten
+#### Aanwijzing beboetbare feiten
+#### Aanduiding pleger beboetbaar feit
+### § 10.2. Het boeterapport
+#### Boeterapport
+### § 10.3. Oplegging van de boete
+#### Kennisgeving boete oplegging
+#### Het opleggen van de boete
+#### Geen oplegging van de boete
+#### De hoogte van de boete
+#### De boetebeschikking
+#### Vervaltermijn
+### § 10.4. Aanmaning en invordering
+#### Betaling van de boete
+#### Aanmaning
+#### Dwangbevel
+### § 10.5. Terugbetaling
 ## Hoofdstuk 11. Strafbaarstelling en daarmee samenhangende bepalingen
 ### Toepasselijkheid Nederlandse strafwet
 ### Bijzondere aansprakelijkheid
-### Economisch delict
+### Strafbepalingen
 ### Strafoplegging
 ### Uitreiking gerechtelijke mededelingen
 ## Hoofdstuk 12. Overgangs- en slotbepalingen
