@@ -1,0 +1,3 @@
+# Artikel VI. Arrestatie, hechtenis
+1. Vietnam stelt Nederland er onverwijld van in kennis indien personeelsleden of één van hun gezinsleden worden gearresteerd, gevangen gezet, in voorlopige hechtenis genomen of anderszins in detentie worden gehouden. Alle mededelingen die in zulke gevallen door personeelsleden en hun gezinsleden aan Nederland worden gedaan, worden onverwijld door Vietnam aan Nederland doorgezonden.
+2. Vertegenwoordigers van Nederland zijn gerechtigd met personeelsleden en hun gezinsleden die zijn gearresteerd, gevangen zijn gezet, in voorlopige hechtenis zijn genomen of zich anderszins in detentie bevinden, te spreken, te corresponderen en hen te bezoeken, en zijn voorts gerechtigd maatregelen te nemen ter zake van hun wettelijke vertegenwoordiging.
