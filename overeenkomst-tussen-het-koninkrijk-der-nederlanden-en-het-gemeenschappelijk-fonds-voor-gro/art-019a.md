@@ -1,0 +1,9 @@
+# Article 19A. Employment of Family Members of Officials
+1. Members of the family forming part of the household of the officials of the Fund shall be authorised to engage in gainful employment in the Netherlands for the duration of the term of office of the officials concerned.
+2. The following persons are members of the family forming part of the household in the sense of paragraph 1:
+a. the spouses or registered partners of the officials of the Fund;
+b. children of the officials of the Fund who are under the age of 18;
+c. children of the officials of the Fund aged 18 or over, but not older than 27, provided that they formed part of the official's household prior to their first entry into the Netherlands and still form part of this household, and that they are unmarried, financially dependent on the Fund official concerned and are attending education in the Netherlands.
+3. Persons mentioned in paragraph 2 of this Article who obtain gainful employment shall have no immunity from criminal, civil or administrative jurisdiction with respect to matters arising in the course of or in connection with such employment, provided that measures of execution are taken without infringing the inviolability of their person or of their residence, if they are entitled to such inviolability.
+4. In case of the insolvency of a person aged under 18 with respect to a claim arising out of gainful employment of that person under this Article, the immunity of the official of whose family the person concerned is a member shall be waived by the Fund for the purpose of settlement of the claim, in accordance with the provisions of the applicable international legal instrument regarding waiver.
+5. The employment referred to in paragraph l of this Article shall be in accordance with Netherlands legislation, including fiscal and social security legislation, unless any other applicable international legal instrument provides otherwise.
