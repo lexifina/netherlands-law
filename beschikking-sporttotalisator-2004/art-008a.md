@@ -1,0 +1,3 @@
+# Artikel 8a
+1. De stichting kan speelkansen in delen uitgeven. De inleg per deel van een speelkans wordt naar evenredigheid berekend.
+2. Elk deel van een speelkans geeft aanspraak op een evenredig deel van de eventueel daarop gewonnen prijs.
