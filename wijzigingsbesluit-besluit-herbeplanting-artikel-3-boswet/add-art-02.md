@@ -1,0 +1,2 @@
+# ARTIKEL II
+Besluiten die in de periode vanaf 1 januari 1998 tot het tijdstip van inwerkingtreding van dit besluit zijn genomen door de directeur Staatsbosbeheer op basis van artikel 2 van het Besluit van 20 juni 1962, houdende regelen ten aanzien van de verplichting tot herbeplanting, bedoeld in artikel 3 van de Boswet, worden aangemerkt als een besluit van de Minister van Landbouw, Natuurbeheer en Visserij.
