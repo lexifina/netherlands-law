@@ -1,0 +1,2 @@
+# XVI. Ad Article 18
+With respect to subparagraph b) of paragraph 2 of Article 18, it is understood that the generally applicable tax allowance that may be deducted from the tax base in Portugal on a pension or other similar remuneration or annuity, is not by itself a circumstance to conclude that a pension or other similar remuneration or annuity is not taxed at the generally applicable rate for income from dependent personal services, or that less than 90 per cent of the gross amount of the pension or other similar remuneration or annuity is taxed.

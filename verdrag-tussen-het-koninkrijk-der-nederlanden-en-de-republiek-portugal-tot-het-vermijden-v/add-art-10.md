@@ -1,0 +1,2 @@
+# X. Ad Articles 9 and 26
+It is understood that the provisions of the Convention shall not be interpreted so as to prevent the application by a Contracting State of the thin capitalization provisions provided for in its domestic law, except in those cases in which the associated enterprises can show that due to the special characteristics of their activities or their specific economic circumstances, the conditions made or imposed between those enterprises are in conformity with the arm's length principle.

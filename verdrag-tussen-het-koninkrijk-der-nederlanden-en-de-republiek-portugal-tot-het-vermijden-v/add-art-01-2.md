@@ -1,0 +1,4 @@
+# I. Ad artikel 2
+1. Het is wel te verstaan dat in de uitdrukking belastingen naar het totale bedrag van de lonen of salarissen geen sociale verzekeringspremies zijn begrepen.
+2. Het is wel te verstaan dat dit Verdrag ook van toepassing is op belastingen die op grond van een EU-richtlijn, -verordening of -verdrag geacht worden een belasting naar het inkomen, bestanddelen van het inkomen, naar het vermogen of bestanddelen van het vermogen te zijn.
+3. Indien Portugal een aan de Nederlandse vermogensbelasting soortgelijke belasting invoert, dan zal de bevoegde Portugese autoriteit de bevoegde Nederlandse autoriteit langs diplomatieke weg inlichten, teneinde met elkaar overleg te kunnen plegen om overeenstemming te bereiken of en hoe het Verdrag zou kunnen worden uitgebreid met een dergelijke belasting.

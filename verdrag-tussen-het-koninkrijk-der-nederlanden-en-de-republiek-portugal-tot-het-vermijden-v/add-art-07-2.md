@@ -1,0 +1,2 @@
+# VII. Ad artikel 8
+Voor de toepassing van artikel 8 omvatten voordelen verkregen uit de exploitatie in internationaal verkeer van schepen en luchtvaartuigen mede voordelen behaald met de verhuur op basis van verhuur zonder bemanning van schepen en luchtvaartuigen indien zij worden geëxploiteerd in het internationale verkeer, indien deze voordelen voortvloeien uit de voordelen omschreven in artikel 8, eerste lid.

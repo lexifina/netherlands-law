@@ -1,0 +1,2 @@
+# X. Ad artikelen 9 en 26
+Het is wel te verstaan dat de bepalingen van het Verdrag niet zodanig mogen worden uitgelegd dat zij de toepassing door een Verdragsluitende Staat van de bepalingen inzake „thin capitalization" uit zijn nationale wetgeving in de weg staan, behalve in die gevallen waarin de gelieerde ondernemingen kunnen laten zien dat de voorwaarden die tussen die ondernemingen zijn overeengekomen of opgelegd, vanwege de speciale kenmerken van hun activiteiten of hun specifieke economische omstandigheden, in overeenstemming zijn met het „arms length" principe.

@@ -1,0 +1,2 @@
+# XV. Ad artikel 16
+Het is wel te verstaan dat conselho de administração of conselho fiscal van een Portugees lichaam en bestuurder of commissaris van een Nederlands lichaam betrekking heeft op personen die als zodanig zijn benoemd door de algemene vergadering van aandeelhouders of door enig ander bevoegd orgaan van dat lichaam, en die zijn belast met de algemene leiding van het lichaam, onderscheidenlijk met het toezicht daarop.
