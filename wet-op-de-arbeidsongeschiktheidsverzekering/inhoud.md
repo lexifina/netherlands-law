@@ -18,7 +18,7 @@
 ### § 1. Middelen tot dekking van de uitgaven
 ### § 2. De basispremie
 ### § 3. De gedifferentieerde premie
-### § 4. Premievrijstelling en premiekorting
+### § 4. Premiekorting
 ## Hoofdstuk V. Het verstrekken van inlichtingen
 ## Hoofdstuk VI. De vrijwillige verzekering
 ## Hoofdstuk VII. Bepalingen in verband met de Algemene wet bestuursrecht en beroep in cassatie
