@@ -1,0 +1,4 @@
+# Artikel VI
+1. De op het tijdstip, waarop deze wet in werking treedt, krachtens de Drank- en Horecawet geldende vergunning wordt mede beschouwd als een vergunning voor de uitoefening van het bedrijf, bedoeld in artikel 4 van het Vestigingsbesluit bedrijven.
+2. Indien de in het eerste lid bedoelde vergunning op grond van de Drank- en Horecawet vervalt dan wel wordt ingetrokken, wordt op een daartoe strekkende aanvraag, die is ingediend binnen een jaar vanaf het tijdstip waarop de vergunning is vervallen of ingetrokken, een vergunning verleend voor de uitoefening van het bedrijf, bedoeld in artikel 4 van het Vestigingsbesluit bedrijven.
+3. Het tweede lid is slechts van toepassing indien de vergunning vervalt of wordt ingetrokken op andere gronden dan de overeenkomstige gronden voor verval of intrekking van een vergunning als bedoeld in de artikelen 11 en 13 van de Vestigingswet Bedrijven 1954.
