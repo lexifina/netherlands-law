@@ -1,0 +1,3 @@
+# Artikel III
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, waarbij aan artikelen of onderdelen daarvan terugwerkende kracht kan worden verleend tot en met een bij dat besluit te bepalen tijdstip. In dat besluit wordt zonodig toepassing gegeven aan artikel 16 van de Tijdelijke referendumwet.
+2. Deze wet vervalt met ingang van 1 september 2008. Indien de met ingang van 1 september 2005 te verlenen erkenningen en voorlopige erkenningen, bedoeld in de artikelen 31 en 37 van de Mediawet, op een later tijdstip dan het in de eerste volzin genoemde tijdstip vervallen, vervalt deze wet op dat latere tijdstip.
