@@ -1,0 +1,2 @@
+# Artikel 23a
+Artikel 6, eerste lid, onderdeel h, zoals dat onderdeel luidde op 31 december 2002, blijft tot en met het kalenderjaar 2007 van toepassing op na 31 december 2002 toegekende spaarpremies of voorlopig bijgeschreven spaarpremies ter zake van voor 1 januari 2003 ingehouden besparingen op de voet van een premiespaarregeling als bedoeld in artikel 31a van de Wet op de loonbelasting 1964, zoals dat artikel luidde op 31 december 2002.
