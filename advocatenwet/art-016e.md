@@ -1,0 +1,7 @@
+# Artikel 16e
+1. Bij de uitoefening van werkzaamheden, bij wijze van dienstverrichting, betreffende de vertegenwoordiging en de verdediging van een cliënt in rechte, waarvoor ingevolge de wet de bijstand of vertegenwoordiging van een advocaat of procureur is voorgeschreven, moet een bezoekende advocaat samenwerken met een in Nederland ingeschreven advocaat, hierna te noemen de samenwerkende advocaat.
+2. De samenwerkende advocaat dient zich tevoren te vergewissen van de bevoegdheid van de bezoekende advocaat tot uitoefening van het beroep van advocaat en is daarvoor verantwoordelijk tegenover het betrokken gerecht.
+3. De samenwerkende advocaat stelt de bezoekende advocaat, alvorens deze voor de eerste maal als zodanig in rechte optreedt, voor aan de rechter die de leiding heeft van de terechtzitting.
+4. De bezoekende advocaat wordt geacht voor de in het eerste lid bedoelde werkzaamheden woonplaats te hebben gekozen ten kantore van de samenwerkende advocaat.
+5. In de gevallen dat advocaten verplicht of gerechtigd zijn tot het dragen van een bijzonder kostuum, mag de bezoekende advocaat, indien hij zulks verkiest, in plaats daarvan het kostuum dragen dat is voorgeschreven in de staat van herkomst.
+6. De rechter die de leiding heeft van de terechtzitting kan bezoekende advocaten toestaan zich van een andere taal te bedienen dan de Nederlandse, indien hij van mening is dat daardoor een goede rechtsbedeling niet wordt geschaad. Hij kan daarbij als voorwaarde stellen dat van een tolk gebruik gemaakt wordt.

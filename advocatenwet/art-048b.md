@@ -1,0 +1,3 @@
+# Artikel 48b
+1. Bij de oplegging van de in artikel 48, tweede lid, onder a tot en met d, genoemde maatregelen kan de raad van discipline in afwijking van het bepaalde in het eerste lid van het voorgaande artikel als bijzondere voorwaarde stellen dat de betrokken advocaat de door zijn gedraging veroorzaakte schade geheel of tot een bij de beslissing te bepalen gedeelte binnen een daarbij te stellen termijn, korter dan de proeftijd, vergoedt.
+2. Bovendien is de raad van discipline bevoegd bij de beslissing ook andere bijzondere voorwaarden, de praktijkbeoefening van de betrokken advocaat gedurende de proeftijd of een bij de beslissing te bepalen gedeelte daarvan betreffende, te stellen.

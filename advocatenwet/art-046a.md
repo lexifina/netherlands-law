@@ -1,0 +1,4 @@
+# Artikel 46a
+1. In het rechtsgebied van elk gerechtshof is een raad van discipline, wiens rechtsgebied samenvalt met dat van het gerechtshof en die de tuchtrechtspraak in eerste aanleg uitoefent met betrekking tot de advocaten, ingeschreven bij de arrondissementsrechtbanken in dat gebied.
+2. De raden van discipline zijn gevestigd in de vestigingsplaatsen van de gerechtshoven. Zij kunnen ook buiten de vestigingsplaats zitting houden.
+3. Met betrekking tot de leden-advocaten en de plaatsvervangende leden-advocaten van de raden van discipline wordt de tuchtrechtspraak in eerste aanleg uitgeoefend door een door het hof van discipline naar aanleiding van een ingekomen klacht ambtshalve aan te wijzen andere raad van discipline. Van een zodanige verwijzing geeft de voorzitter van het hof van discipline kennis aan de aangewezen raad van discipline alsmede aan de deken die de klacht ter kennis heeft gebracht van het hof van discipline en aan de klager.

@@ -1,0 +1,2 @@
+# Artikel 48f
+Een beslissing als bedoeld in de artikelen 48d en 48e wordt niet gegeven dan na verhoor, althans behoorlijke oproeping van de betrokken advocaat en, in het geval de beslissing de bijzondere voorwaarde tot gehele of gedeeltelijke schadevergoeding betreft en deze daarbij belanghebbende is, de klager. Voor het verhoor wordt tevens opgeroepen de in het eerste lid van artikel 48c bedoelde toezichthouder. Op het verhoor en de beslissing zijn de bepalingen van de artikelen 49, tweede tot en met het laatste lid, en 50 van overeenkomstige toepassing.

@@ -1,0 +1,3 @@
+# Artikel 48c
+1. De deken van de orde, waartoe de advocaat behoort, ziet toe op de nakoming der voorwaarden, tenzij de raad van discipline, in overleg met de deken, bij besluit een ander lid van de orde daarmee belast. Indien de betrokken advocaat de deken is, wijst de raad van discipline een ander lid van de orde aan in overleg met het in artikel 23, eerste lid, bedoelde lid van de raad van toezicht.
+2. De deken of het in het eerste lid bedoelde andere lid van de orde geeft, ingeval de betrokken advocaat de voorwaarden gedurende de proeftijd niet nakomt, daarvan kennis aan de raad van discipline, met zodanige vordering als hij nodig acht.

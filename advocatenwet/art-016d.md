@@ -1,0 +1,4 @@
+# Artikel 16d
+1. De werkzaamheden, bij wijze van dienstverrichting, betreffende de vertegenwoordiging en de verdediging van een cliënt in rechte of ten overstaan van een overheidsinstantie worden door bezoekende advocaten onder dezelfde voorwaarden uitgeoefend als die welke gelden voor in Nederland ingeschreven advocaten.
+2. Bij de uitoefening van de in het eerste lid genoemde werkzaamheden nemen bezoekende advocaten de beroepsregels in acht die gelden voor in Nederland ingeschreven advocaten, met inbegrip van de verordeningen genoemd in artikel 28, onverminderd hetgeen waartoe zij als advocaat in de staat van herkomst verplicht zijn.
+3. Bij het optreden ten overstaan van een overheidsinstantie moeten bezoekende advocaten desgevraagd hun bevoegdheid tot de uitoefening van het beroep van advocaat ten genoegen van die instantie aantonen.
