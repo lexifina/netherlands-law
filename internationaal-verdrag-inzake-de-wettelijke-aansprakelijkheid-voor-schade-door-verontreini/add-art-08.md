@@ -1,0 +1,2 @@
+# Article VIII
+Rights of compensation under this Convention shall be extinguished unless an action is brought thereunder within three years from the date when the damage occurred. However, in no case shall an action be brought after six years from the date of the incident which caused the damage. Where this incident consists of a series of occurrences, the six years' period shall run from the date of the first such occurrence.

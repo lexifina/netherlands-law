@@ -1,0 +1,15 @@
+# Artikel I
+Voor de toepassing van dit Verdrag:
+1. wordt onder „schip" verstaan: alle zeeschepen en andere zeegaande vaartuigen, van welk type ook, gebouwd of aangepast voor het vervoer van olie in bulk als lading, met dien verstande dat een schip dat olie en andere soorten lading kan vervoeren alleen als een schip wordt beschouwd, wanneer het daadwerkelijk olie in bulk als lading vervoert en tijdens iedere reis na een zodanig vervoer, tenzij wordt aangetoond dat het geen residuen van zulk vervoer van olie in bulk aan boord heeft.
+2. wordt onder „persoon" verstaan iedere natuurlijke persoon of maatschap, alsmede ieder publiekrechtelijk of privaatrechtelijk lichaam, al of niet rechtspersoonlijkheid bezittend, hieronder begrepen een Staat of zijn staatsrechtelijke onderdelen;
+3. wordt onder „eigenaar" verstaan: de persoon of personen die als eigenaar van het schip zijn teboekgesteld of, indien er geen teboekstelling heeft plaatsgehad, de persoon of personen, die het schip in eigendom hebben.
+Indien evenwel een schip eigendom is van een Staat en geëxploiteerd wordt door een maatschappij die in die Staat teboekstaat als de exploitant van het schip, betekent „eigenaar" een zodanige maatschappij;
+4. wordt onder „Staat waarin het schip is teboekgesteld" verstaan ten aanzien van teboekgestelde schepen: de Staat waarin het schip is teboekgesteld, en ten aanzien van niet teboekgestelde schepen: de Staat onder wiens vlag het schip vaart;
+5. wordt onder „olie" verstaan: alle persistente uit koolwaterstoffen bestaande minerale oliën, zoals ruwe olie, stookolie, zware dieselolie en smeerolie, vervoerd aan boord van een schip als lading of in de bunkers van het schip.
+6. wordt onder „schade door verontreiniging" verstaan:
+a. verlies of schade buiten het schip veroorzaakt door bevuiling ten gevolge van het ontsnappen of doen wegvloeien van olie uit het schip, waar zulk ontsnappen of doen wegvloeien ook mag plaatsvinden, met dien verstande dat vergoeding voor andere schade aan het milieu dan winstderving ten gevolge van deze schade wordt beperkt tot de kosten van redelijke maatregelen tot herstel die daadwerkelijk worden ondernomen of zullen worden ondernomen.
+b. de kosten van preventieve maatregelen alsmede verlies of schade veroorzaakt door die maatregelen;
+7. wordt onder „preventieve maatregelen" verstaan: alle na het voorval door een persoon genomen redelijke maatregelen ter voorkoming of beperking van de schade door verontreiniging;
+8. wordt onder „voorval" verstaan: elk feit of elke opeenvolging van feiten met dezelfde oorzaak, waardoor schade door verontreiniging wordt veroorzaakt, of waardoor een ernstige en onmiddellijke dreiging ontstaat dat zulk een schade zal worden veroorzaakt.
+9. wordt onder „Organisatie" verstaan: de Internationale Maritieme Organisatie.
+10. wordt onder het „Aansprakelijkheidsverdrag, 1969" verstaan: het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969. Voor Partijen bij het Protocol van 1976 bij dit Verdrag, wordt met deze term bedoeld het Aansprakelijkheidsverdrag, 1969, zoals gewijzigd bij dat Protocol.

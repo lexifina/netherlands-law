@@ -1,0 +1,2 @@
+# Article XII
+This Convention shall supersede any International Conventions in force or open for signature, ratification or accession at the date on which the Convention is opened for signature, but only to the extent that such Conventions would be in conflict with it; however, nothing in this Article shall affect the obligations of Contracting States to non-Contracting States arising under such International Conventions.

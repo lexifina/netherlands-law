@@ -1,0 +1,2 @@
+# Artikel VIII
+Het recht op schadevergoeding krachtens dit Verdrag vervalt wanneer niet binnen drie jaar na de datum waarop de schade is ontstaan een rechtsvordering is ingesteld. In geen geval kan echter een rechtsvordering worden ingesteld nadat zes jaar zijn verstreken na de datum van het voorval dat de schade heeft veroorzaakt. Indien dit voorval wordt gevormd door een opeenvolging van feiten, loopt de termijn van zes jaar van de datum van het eerste feit.
