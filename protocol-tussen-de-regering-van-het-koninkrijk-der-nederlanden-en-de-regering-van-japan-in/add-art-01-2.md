@@ -1,0 +1,2 @@
+# Artikel I
+Teneinde uitdrukking te geven aan haar deelneming met, en haar leedwezen te betuigen voor, het aan Nederlandse onderdanen gedurende de tweede wereldoorlog door instanties van de Regering van Japan toegebrachte leed, zal de Regering van Japan vrijwillig, bij wijze van smartegeld, de tegenwaarde van U.S. $ 10.000.000 in ponden sterling uitkeren aan de Regering van het Koninkrijk der Nederlanden ten behoeve van die Nederlandse onderdanen.
