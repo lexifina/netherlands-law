@@ -1,0 +1,2 @@
+# Artikel IV
+De Unie-Staten worden ingedeeld in die van de in deze Aanvullende Akte voorziene klassen, welke hetzelfde aantal eenheden bevat als de klasse welke zij hebben gekozen uit hoofde van de toepassing van het Verdrag, tenzij zij bij nederlegging van hun akten van bekrachtiging of toetreding de wens te kennen geven in een andere klasse, voorzien in deze Aanvullende Akte, ingedeeld te worden.

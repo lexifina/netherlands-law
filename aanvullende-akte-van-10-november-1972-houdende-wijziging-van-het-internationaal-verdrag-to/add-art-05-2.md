@@ -1,0 +1,6 @@
+# Artikel V
+1) Deze Aanvullende Akte staat tot één april negentienhonderd drieënzeventig open voor ondertekening door de Unie-Staten en de Staten die het Verdrag hebben ondertekend.
+2) Deze Aanvullende Akte dient te worden bekrachtigd.
+3) Deze Aanvullende Akte staat open voor toetreding door de Staten die haar niet hebben ondertekend overeenkomstig de bepalingen van het tweede en derde lid van artikel 32 van het Verdrag.
+4) Na de inwerkingtreding van deze Aanvullende Akte kan een Staat slechts tot het Verdrag toetreden indien hij terzelfdertijd toetreedt tot deze Aanvullende Akte.
+5) De akten van bekrachtiging van en de akten van toetreding tot deze Aanvullende Akte van de Staten die het Verdrag hebben bekrachtigd of die het bekrachtigen op het moment van hun bekrachtiging van of hun toetreding tot deze Aanvullende Akte, worden nedergelegd bij de Regering van de Franse Republiek. De akten van bekrachtiging van of de akten van toetreding tot deze Aanvullende Akte van de Staten die tot het Verdrag zijn toegetreden of die tot het Verdrag toetreden op het moment van hun bekrachtiging van of hun toetreding tot deze Aanvullende Akte worden nedergelegd bij de Regering van de Zwitserse Bondsstaat.
