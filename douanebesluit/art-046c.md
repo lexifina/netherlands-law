@@ -1,0 +1,2 @@
+# Artikel 46c
+De beheerder vrije zone controletype II of de operateur die zodanige wijziging wenst te brengen in of aan een in de vrije zone controletype II gelegen gebouw, dan wel in de door hem gevoerde administratie, dat daardoor de wijze waarop toezicht op de vrije zone controletype II wordt uitgeoefend wordt beïnvloed, onderwerpt de voorgenomen wijziging aan goedkeuring van de inspecteur. De wijziging wordt niet aangebracht dan na verkregen goedkeuring.
