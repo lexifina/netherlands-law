@@ -1,0 +1,2 @@
+# Artikel I
+Bij de inwerkingtreding van dit Protocol zal de Regering der Verenigde Staten van Amerika uit naam van alle Partijen aan de Regering der Bondsrepubliek Duitsland een uitnodiging doen toekomen, tot het Noord-Atlantisch Verdrag toe te treden. Daarna wordt de Bondsrepubliek Duitsland partij bij dat Verdrag op de dag waarop zij bij de Regering der Verenigde Staten van Amerika haar akte van toetreding nederlegt in overeenstemming met artikel 10 van dat Verdrag.

@@ -1,0 +1,2 @@
+# Article I
+Upon the entry into force of the present Protocol, the Government of the United States of America shall on behalf of all the Parties communicate to the Government of the Federal Republic of Germany an invitation to accede to the North Atlantic Treaty. Thereafter the Federal Republic of Germany shall become a Party to that Treaty on the date when it deposits its instrument of accession with the Government of the United States of America in accordance with Article 10 of that Treaty.
