@@ -1,0 +1,43 @@
+# Artikel XIII. Veterinaire regelgeving
+De volgende regelingen worden ingetrokken:
+a. Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 3 april 1997, nr. GZB/VVB-971072, houdende instemming tarieven Destructiewet voor het jaar 1997 (Stcrt. 70);
+b. Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 31 augustus 1998, nr. GZB/VVB/983859, houdende instemming tarieven Destructiewet voor het jaar 1998 (Stcrt. 166);
+c. Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 5 november 1999, nr. GZB/VVB/2011285, houdende instemming tarieven Destructiewet voor het jaar 1999 (Stcrt. 215);
+d. Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 13 december 2000, nr. GZB/VVB/2139083, houdende instemming tarieven Destructiewet voor het jaar 2000 (Stcrt. 243);
+e. Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 16 april 2001, nr. GZB/VVB/2156328, houdende instemming tarieven Destructiewet eerste kwartaal 2001 (Stcrt. 78);
+f. Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 13 augustus 2001, nr. GZB/VVB/2189893, houdende instemming tarieven Destructiewet tweede kwartaal 2001 (Stcrt. 155);
+g. Regeling van de Minister van Landbouw, Natuurbeheer en Visserij van 5 december 2001, nr. TRCJZ/2001/16443, houdende instemming tarieven Destructiewet derde en vierde kwartaal 2001 (Stcrt. 238);
+h. Regeling van de Minister van Landbouw, Natuurbeheer en Visserij van 4 april 2002, nr. TRCJZ/2002/3675, houdende instemming tarieven Destructiewet eerste kwartaal 2002 (Stcrt. 66);
+i. Regeling van de Minister van Landbouw, Natuurbeheer en Visserij van 16 augustus 2002, nr. TRCJZ/2002/7385, houdende instemming tarieven Destructiewet tweede kwartaal 2002 (Stcrt. 157);
+j. Regeling instemming destructietarieven derde en vierde kwartaal 2002;
+k. Regeling van de Staatssecretaris van Landbouw, Natuurbeheer en Visserij van 27 mei 1993, nr. J938360, houdende een wijziging van de Regeling keuring en handelsverkeer pluimveevlees 1992 (Stcrt. 99);
+l. Regeling van de Minister van Landbouw, Natuurbeheer en Visserij van 27 oktober 1993, nr. J9316523, houdende een wijziging van de regeling tarieven keuring vlees en vleesproducten 1993 (Stcrt. 208);
+m. Regeling van de Staatssecretaris van Landbouw, Natuurbeheer en Visserij van 27 oktober 1993, nr. J9306524, houdende een wijziging van diverse veterinaire tariefregelingen (Stcrt. 208);
+n. Regeling van de Staatssecretaris van Landbouw, Natuurbeheer en Visserij van 28 augustus 1998, nr. J987075, houdende een wijziging van de regeling tarieven keuring vlees en vleesproducten 1993 (Stcrt. 163);
+o. Regeling van de Minister van Landbouw, Natuurbeheer en Visserij van 28 augustus 1998, nr. J987074, houdende een wijziging van diverse veterinaire tariefregelingen (Stcrt. 162);
+p. Regeling van de Minister van Landbouw, Natuurbeheer en Visserij van 27 april 1995, nr. J955012, houdende een wijziging van de regeling keuring- en handelsverkeer konijnen- en hazevlees 1993 (Stcrt. 88);
+q. Regeling van de Minister van Landbouw, Natuurbeheer en Visserij van 27 april 1995, nr. J955212, houdende een wijziging van de regeling keuring- en handelsverkeer vleesproducten 1993 (Stcrt. 86);
+r. Regeling van de Minister van Landbouw, Natuurbeheer en Visserij van 23 april 2003, nr. TRCJZ/2003/3688, houdende een wijziging van de Regeling compartimentering AI-gevoelige dieren 2003 (Stcrt. 80);
+s. Regeling van de Minister van Landbouw, Natuurbeheer en Visserij van 26 april 2003, nr. TRCJZ/2003/3872, houdende een wijziging van de Regeling compartimentering AI-gevoelige dieren 2003 (Stcrt. 83);
+t. Regeling van de Minister van Landbouw, Natuurbeheer en Visserij van 15 mei 2003, nr. TRCJZ/2003/4025, houdende een wijziging van diverse AI-regelingen i.v.m. versoepelingen m.i.v. 15 mei 2003 (Stcrt. 98);
+u. Regeling van de Minister van Landbouw en Visserij van 2 mei 1964, nr. 1306, houdende vaststelling borden of biljetten vervoersverbod mond- en klauwzeer (Stcrt. 85);
+v. Regeling van de Minister van Landbouw en Visserij van 13 juli 1972, nr. J1206, houdende vaststelling bord vervoersverbod varkenspest (Stcrt. 138);
+w. Regeling van de Minister van Landbouw en Visserij van 21 november 1975, nr. J2657, houdende vaststelling bord vervoersverbod vesiculaire varkensziekte (Stcrt. 228);
+x. Regeling model borden en biljetten vogelziekten;
+y. Kortingsregeling preventieve maatregelen klassieke varkenspest 1997;
+z. Herbevolkingsregeling klassieke varkenspest 1997;
+aa. Regeling aanscherping vervoersverboden in toezichtsgebieden varkenspest 1997;
+bb. Regeling vervoersverbod Afrikaanse varkenspest 1986 I;
+cc. Regeling vervoersverbod nieuwe varkensziekte 1991;
+dd. Regeling vervoersverbod bijen Boxtel 1998;
+ee. Regeling vervoersverbod varkens uit Verenigd Koninkrijk 2000;
+ff. Regeling Import- en exportrestricties mond- en klauwzeer 2001;
+gg. Regeling van de Minister van Landbouw, Natuurbeheer en Visserij van 11 april 2001, nr. TRCJZ/2001/4752, houdende wijziging regeling compartimentering Nederland MKZ 2001 (Stcrt. 74);
+hh. Regeling doorvoer Baarle-Nassau;
+ii. Regeling van de Staatssecretaris van Landbouw, Natuurbeheer en Visserij van 27 september 1991, nr. J 911213, houdende gedeeltelijke buitenwerkingstelling Regeling vergoeding werkzaamheden op verzoek 1991 (Stcrt. 190);
+jj. Regeling van de Staatssecretaris van Landbouw, Natuurbeheer en Visserij van 15 maart 1999, nr. TRCJZ/1998/2561, houdende wijziging van de Uitvoeringsregeling varkensheffing (Stcrt. 51);
+kk. Regeling transport en vernietiging verwerkte dierlijke eiwitten;
+ll. Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 20 juni 2003, nr. TRCJZ/2003/4858, houdende wijziging van de Regeling compartimentering AI-gevoelige dieren 2003 (Stcrt. 119);
+mm. Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 31 juli 2003, nr. TRCJZ/2003/6860, houdende intrekking van de Tijdelijke vrijstellingsregeling vaccinatie Newcastle disease (Stcrt. 146);
+nn. Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 21 augustus 2003, nr. TRCJZ/2003/7335, houdende wijziging AI-regelgeving, opheffing vervoersbeperkingsgebied Nederweert-Zuid en compartiment G (Stcrt. 166);
+oo. Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 22 augustus 2003, nr. TRCJZ/2003/7336, houdende intrekking van diverse AI-regelingen in verband met vervallen vervoersbeperkingsgebied Gelderse Vallei en Compartiment A (Stcrt. 167).
