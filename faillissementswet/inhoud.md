@@ -18,6 +18,10 @@
 ### afdeeling Tiende. Bepalingen van internationaal recht
 ### afdeeling Elfde. Van rehabilitatie
 ### Afdeling 11A. Van het faillissement van een kredietinstelling, een financiële instelling, een effecteninstelling of een andere instelling, genoemd in artikel 212a, onder a
+### Afdeling 11B. Van het faillissement van een verzekeraar
+#### § 1. Definities
+#### § 2. Verzekeraars met zetel in Nederland, verzekeraars zonder vergunning met zetel in een andere lidstaat dan Nederland en verzekeraars met zetel buiten de Europese Unie met bijkantoor in Nederland
+#### § 3. Bepalingen van internationaal privaatrecht
 ## Titel II. Van surséance van betaling
 ### afdeeling Eerste. Van de verleening van surséance van betaling en hare gevolgen
 ### afdeeling Tweede. Van het akkoord
