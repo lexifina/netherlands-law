@@ -105,6 +105,7 @@
 #### afdeling Tweede. Van ontzegeling
 #### afdeling Derde. Van boedelbeschrijving
 #### afdeling Vierde. Van geschillen in verband met verzegeling, ontzegeling en boedelbeschrijving
+#### Vierde afdeling A. Rechtsmiddelen tegen beschikkingen in procedures betreffende een nalatenschap
 #### afdeling Vijfde. Van de verdeling van een gemeenschap
 ### titel Vierde. Van middelen tot bewaring van zijn recht
 #### afdeling Eerste. Algemene bepalingen

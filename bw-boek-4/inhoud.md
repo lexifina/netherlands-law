@@ -1,25 +1,35 @@
 # Inhoud
 ## Boek 4. Erfrecht
-### titel Elfde. Van erfopvolging bij versterf
-#### afdeeling Eerste. Algemeene bepalingen
-#### afdeeling Tweede. Van de orde der erfopvolging
-### titel Twaalfde. Van uiterste willen
-#### afdeeling Eerste. Algemeene bepalingen
-#### afdeeling Tweede. Van de bekwaamheid om bij uitersten wil te beschikken of daarvan voordeel te genieten
-#### afdeeling Derde. Van de legitime portie of het wettelijk erfdeel, en van de inkorting der giften, welke die portie zouden verminderen
-#### afdeeling Vierde. Van den vorm der uiterste willen
-#### afdeeling Vijfde. Van de erfstellingen
-#### afdeeling Zesde. Van legaten
-#### afdeeling Zevende. Van de geoorloofde erfstellingen over de hand, ten behoeve van kleinkinderen en afstammelingen van broeders en zusters
-#### afdeeling Achtste. Van de erfstellingen over de hand in hetgeen de erfgenaam of legataris onvervreemd en onverteerd zal nalaten
-#### afdeeling Negende. Van het herroepen van uiterste wilsbeschikkingen en het vervallen van dezelve
-### titel Dertiende. Van uitvoerders van uiterste wilsbeschikkingen en van bewindvoerders
-### titel Veertiende. Van het regt van beraad en het voorregt van boedelbeschrijving
-### titel Vijftiende. Van het aanvaarden en verwerpen van erfenissen
-#### afdeeling Eerste. Van het aanvaarden van erfenissen
-#### afdeeling Tweede. Van het verwerpen van erfenissen
-### Titel Zestiende. Van boedelscheiding
-#### afdeeling Tweede. Van inbreng
-#### afdeeling Derde. Van de betaling der schulden
-#### afdeeling Vijfde. Van boedelverdeeling, door bloedverwanten in de opgaande linie tusschen hunne afkomelingen onderling of tusschen dezen en hun langstlevenden echtgenoot gemaakt
-### titel Zeventiende. Van onbeheerde nalatenschappen
+### Titel 1. Algemene bepalingen
+### Titel 2. Erfopvolging bij versterf
+### Titel 3. Het erfrecht bij versterf van de niet van tafel en bed gescheiden echtgenoot en van de kinderen alsmede andere wettelijke rechten
+#### Afdeling 1. Het erfrecht bij versterf van de niet van tafel en bed gescheiden echtgenoot en van de kinderen
+#### Afdeling 2. Andere wettelijke rechten
+### Titel 4. Uiterste willen
+#### Afdeling 1. Uiterste wilsbeschikkingen in het algemeen
+#### Afdeling 2. Wie uiterste wilsbeschikkingen kunnen maken en wie daaruit voordeel kunnen genieten
+#### Afdeling 3. Legitieme portie
+##### Paragraaf 1. Algemene bepalingen
+##### Paragraaf 2. De omvang van de legitieme portie
+##### Paragraaf 3. Het geldend maken van de legitieme portie
+#### Afdeling 4. Vorm van uiterste willen
+#### Afdeling 5. Herroeping van uiterste wilsbeschikkingen
+### Titel 5. Onderscheiden soorten van uiterste wilsbeschikkingen
+#### Afdeling 1. Erfstellingen
+#### Afdeling 2. Legaten
+##### Paragraaf 1. Algemene bepalingen
+##### Paragraaf 2. Giften en andere handelingen die worden aangemerkt als legaten
+#### Afdeling 3. Testamentaire lasten
+#### Afdeling 4. Stichtingen
+#### Afdeling 5. Makingen onder tijdsbepaling en onder voorwaarde
+#### Afdeling 6. Executeurs
+#### Afdeling 7. Testamentair bewind
+##### Paragraaf 1. Algemene bepalingen
+##### Paragraaf 2. De bewindvoerder
+##### Paragraaf 3. De gevolgen van het bewind
+##### Paragraaf 4. Einde van het bewind
+### Titel 6. Gevolgen van de erfopvolging
+#### Afdeling 1. Algemene bepalingen
+#### Afdeling 2. Aanvaarding en verwerping van nalatenschappen en van legaten
+#### Afdeling 3. Vereffening van de nalatenschap
+#### Afdeling 4. Verdeling van de nalatenschap
