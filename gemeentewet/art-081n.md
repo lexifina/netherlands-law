@@ -1,4 +1,6 @@
 # Artikel 81n
-In de regeling waarbij de gemeenschappelijke rekenkamer wordt ingesteld, worden ten minste regels gesteld over:
-a. de benoeming, op voordracht van de voorzitter of het enige lid van de rekenkamer, van de ambtenaren die nodig zijn voor een goede uitoefening van de werkzaamheden van de rekenkamer;
-b. de vergoeding die de leden van de rekenkamer voor hun werkzaamheden ontvangen en de tegemoetkoming in de kosten.
+Indien de raad of de raden van een of meer gemeenten met provinciale staten van een of meer provincies een gemeenschappelijke rekenkamer instellen, is, onverminderd artikel 81m, eerste lid, juncto artikel 81f, een lid van de rekenkamer niet tevens:
+a. lid van provinciale staten van een deelnemende provincie;
+b. ambtenaar, door of vanwege het provinciebestuur van een deelnemende provincie aangesteld of daaraan ondergeschikt;
+c. ambtenaar, door of vanwege het Rijk aangesteld, tot wiens taak het behoort het verrichten van werkzaamheden in het kader van het toezicht op de provincie;
+d. functionaris, krachtens de wet of algemene maatregel van bestuur geroepen om het provinciebestuur van advies te dienen.

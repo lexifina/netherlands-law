@@ -1,4 +1,4 @@
 # Artikel 81o
-1. Als geen rekenkamer is ingesteld als bedoeld in hoofdstuk IVa, stelt de raad bij verordening regels vast voor de uitoefening van de rekenkamerfunctie.
-2. De artikelen 182 en 185 zijn voor de uitoefening van de rekenkamerfunctie van overeenkomstige toepassing.
-3. Op personen die de rekenkamerfunctie uitoefenen, is artikel 81f, behoudens het eerste lid, onder j en o, van overeenkomstige toepassing.
+In de regeling waarbij de gemeenschappelijke rekenkamer wordt ingesteld, worden ten minste regels gesteld over:
+a. de benoeming, op voordracht van de voorzitter of het enige lid van de rekenkamer, van de ambtenaren die nodig zijn voor een goede uitoefening van de werkzaamheden van de rekenkamer;
+b. de vergoeding die de leden van de rekenkamer voor hun werkzaamheden ontvangen en de tegemoetkoming in de kosten.
