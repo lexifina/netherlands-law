@@ -1,0 +1,2 @@
+# Artikel X. Uittreding
+ledere Lid-Staat van de Organisatie kan na een termijn van ten minste tien jaar, te rekenen van de datum waarop hij lid van de Organisatie werd, de Voorzitter van de Raad schriftelijk mededelen dat hij uit de Organisatie treedt. Een zodanige uittreding wordt van kracht aan het einde van het boekjaar volgende op dat waarin de Voorzitter de desbetreffende mededeling heeft ontvangen. Een Lid-Staat die uit de Organisatie treedt kan geen enkel recht doen gelden op de activa van de Organisatie, noch op het bedrag van de door hem reeds gestorte bijdragen.

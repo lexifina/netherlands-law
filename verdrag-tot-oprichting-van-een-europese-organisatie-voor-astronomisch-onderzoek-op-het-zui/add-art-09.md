@@ -1,0 +1,2 @@
+# Artikel IX. Geschillen
+Tenzij de betrokken Lid-Staten een andere wijze van beslechting aanvaarden, wordt ieder geschil tussen de Lid-Staten betreffende de uitlegging of de toepassing van dit Verdrag of van het Financiële Protocol, dat niet kan worden beslecht door bemiddeling van de Raad, bij het Permanente Hof van Arbitrage te 's-Gravenhage aanhangig gemaakt, overeenkomstig de bepalingen van het Verdrag voor de vreedzame beslechting van internationale geschillen van 18 oktober 1907.
