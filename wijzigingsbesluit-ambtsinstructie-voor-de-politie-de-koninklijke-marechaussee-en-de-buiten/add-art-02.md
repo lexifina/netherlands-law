@@ -1,0 +1,2 @@
+# Artikel II
+Onze Minister van Justitie zendt in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties binnen drie jaar na de inwerkingtreding van dit besluit aan de Staten-Generaal een verslag met betrekking tot de doeltreffendheid en de effecten in de praktijk van de artikelen 12a tot en met 12c van de Ambtsinstructie voor de politie, de Koninklijke marechaussee en de buitengewoon opsporingsambtenaar zoals deze komen te luiden ingevolge dit besluit.
