@@ -1,0 +1,6 @@
+# Art. 4°
+El Señor H. THIELEN podrá sustentar ante los Tribunales Venezolanos competentes las pretensiones contra el Estado de Venezuela fundadas en las pérdidas que pretende haber sufrido la sociedad H. THIELEN y Cia, por los sucesos ocurridos en Caracas el 13 y el 14 de diciembre de 1908.
+Las Altas Partes Contratantes convienen en que no habrá lugar a intervención diplomática sino en el caso de denegación de justicia o injusticia evidente.
+Si el Gobierno de los Países Bajos considera que se ha presentado uno de estos casos, lo participará al Gobierno de Venezuela.
+Si las Altas Partes Contratantes no pudieren ponerse de acuerdo a este respecto, se someterá la cuestión a la decisión de un Tribunal compuesto de tres juristas. Cada una de las Altas Partes Contratantes elegirá un Arbitro y los Arbitros asi nombrados elegirán el tercero.
+Si las Altas Partes no pudieren ponerse de acuerdo en las reglas del procedimiento arbitral, se observarán las establecidas en la Convención de La Haya de 29 de Julio de 1899, para el arreglo pacifico de los conflictos internacionales. Igualmente se observará lo dispuesto en dicha Convención para la elección del tercero para el casa de que los Arbitros no pudieren ponerse de acuerdo para hacer esta designación.

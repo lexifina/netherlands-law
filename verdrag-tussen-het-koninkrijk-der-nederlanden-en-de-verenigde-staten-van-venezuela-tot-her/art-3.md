@@ -1,0 +1,2 @@
+# Art. 3°
+Mientras se celebra un tratado de comercio, las Altas Partes Contratantes se garantizan en todo lo relativo al comercio, a la industria y a la navegación el tratamiento de la nación mas favorecida. Este tratamiento será acordado gratuitamente si la concesión hecha a favor de una tercera Potencia fuere gratuita; y si la concesión fuere condicional, mediante la misma o equivalente compensación que se fijará por convenio entre las Partes.
