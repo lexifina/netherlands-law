@@ -1,0 +1,2 @@
+# Artikel I
+Tenzij in dit Verdrag of in enig aanvullend protocol aangaande de eigen Partijen anders is bepaald, passen alle Staten die Partij zijn bij dit Verdrag de bepalingen van het Verdrag tussen de Staten die Partij zijn bij het Noord-Atlantisch Verdrag nopens de rechtspositie van hun krijgsmachten, ondertekend te Londen op 19 juni 1951, hierna te noemen het NAVO Status-verdrag, toe als waren alle Staten die Partij zijn bij dit Verdrag Partij bij het NAVO-Status-verdrag.

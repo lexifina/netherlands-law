@@ -1,0 +1,2 @@
+# Article I
+Except as otherwise provided for in the present Agreement and any additional protocol in respect to its own Parties, all States Parties to the present Agreement shall apply the provisions of the Agreement between Parties to the North Atlantic Treaty regarding the status of their forces, done at London on 19 June 1951, hereinafter referred to as the NATO SOFA, as if all State Parties to the present Agreement were Parties to the NATO SOFA.

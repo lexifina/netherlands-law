@@ -1,0 +1,5 @@
+# Artikel II
+1. Dit Protocol staat ter ondertekening open voor alle Staten die het Verdrag hebben ondertekend.
+2. Dit Protocol dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Regering van de Verenigde Staten van Amerika, die van elke nederlegging mededeling doet aan alle ondertekenende Staten.
+3. Dit Protocol treedt in werking dertig dagen na de datum van nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring door drie ondertekenende Staten, waarvan er ten minste één Partij is bij het NAVO Status-verdrag en één is ingegaan op de uitnodiging om zich aan te sluiten bij het Partnerschap voor de Vrede en het Raamwerkdocument van het Partnerschap voor de Vrede heeft onderschreven.
+4. Voor elke andere ondertekenende Staat treedt dit Protocol in werking op de datum van nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring bij de Regering van de Verenigde Staten van Amerika.

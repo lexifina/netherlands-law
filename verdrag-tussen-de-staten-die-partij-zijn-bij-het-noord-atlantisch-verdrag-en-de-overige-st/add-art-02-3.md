@@ -1,0 +1,3 @@
+# Artikel II
+1. Dit Verdrag is, behalve op het gebied waarop het NAVO Status-verdrag van toepassing is, ook van toepassing op het grondgebied van alle Staten die Partij zijn bij dit Verdrag en die geen Partij zijn bij het NAVO Status-verdrag.
+2. Voor de toepassing van dit Verdrag worden verwijzingen in het NAVO Status-verdrag naar het werkingsgebied van het Noord-Atlantisch Verdrag geacht tevens de grondgebieden te omvatten waarnaar wordt verwezen in het eerste lid van dit artikel en worden verwijzingen naar het Noord-Atlantisch Verdrag geacht tevens het Partnerschap voor de Vrede te omvatten.

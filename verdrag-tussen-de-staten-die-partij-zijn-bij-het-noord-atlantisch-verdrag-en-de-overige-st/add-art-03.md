@@ -1,0 +1,2 @@
+# Article III
+For purposes of implementing the present Agreement with respect to matters involving Parties that are not Parties to the NATO SOFA, provisions of the NATO SOFA that provide for requests to be submitted, or differences to be referred to the North Atlantic Council, the Chairman of the North Atlantic Council Deputies or an arbitrator shall be construed to require the Parties concerned to negotiate between or among themselves without recourse to any outside jurisdiction.
