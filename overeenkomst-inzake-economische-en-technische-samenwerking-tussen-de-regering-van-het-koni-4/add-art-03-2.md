@@ -1,0 +1,2 @@
+# Artikel III
+De beide Overeenkomstsluitende Partijen bevorderen de grootst mogelijke uitbreiding van de handelsbetrekkingen tussen hun onderscheiden landen. Hiertoe bevorderen zij, in het kader van hun wetten, regelingen en voorschriften, de samenwerking tussen alle maatschappijen, verenigingen, stichtingen en andere organisaties of dochterondernemingen daarvan, die verband houden met de nationale economie in beide landen, met inbegrip van alle personen die economische activiteiten verrichten.

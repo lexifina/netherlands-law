@@ -1,0 +1,2 @@
+# Artikel XI
+De investeringen van onderdanen van een der Overeenkomstsluitende Partijen op het grondgebied van de andere Overeenkomstsluitende Partij mogen niet worden onteigend, behalve in het openbaar belang en tegen vergoeding. Een zodanige vergoeding vertegenwoordigt de tegenwaarde van de getroffen investering; zij dient inderdaad verwezenlijkt te kunnen worden, vrijelijk te kunnen worden overgemaakt en zonder nodeloze vertraging te worden betaald.

@@ -1,0 +1,2 @@
+# Article III
+The two Contracting Parties shall facilitate the intensification of commercial relations between their respective countries to the highest possible extent. For that purpose they shall, within the framework of their laws, rules and regulations, further the co-operation between all companies, associations, foundations and other organizations or subsidiary bodies thereof, which are connected with the economic life in both countries including all individuals engaged in economic activities.

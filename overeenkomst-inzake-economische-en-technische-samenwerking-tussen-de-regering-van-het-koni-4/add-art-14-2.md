@@ -1,0 +1,4 @@
+# Artikel XIV
+1. De Overeenkomstsluitende Partijen komen overeen een Gemengde Commissie in te stellen, bestaande uit door hen benoemde vertegenwoordigers.
+2. De Gemengde Commissie komt op verzoek van een der Overeenkomstsluitende Partijen bijeen ter bespreking van aangelegenheden betreffende de tenuitvoerlegging van deze Overeenkomst en ter bestudering van middelen voor de bevordering van hun economische samenwerking.
+3. De Gemengde Commissie stelt zich voortdurend op de hoogte van de ontwikkeling van de economische betrekkingen tussen de twee landen, zowel in bilateraal als in multilateraal verband. Bovendien doet zij aanbevelingen aan de onderscheiden Regeringen wanneer de doelstellingen van deze Overeenkomst zouden kunnen worden bevorderd en een grotere mate van economische samenwerking tot stand zou kunnen worden gebracht.

@@ -1,0 +1,3 @@
+# Article II
+1. To secure the achievement of the aims of the present Agreement, each Contracting Party undertakes within the framework of its laws, rules and regulations to authorize its nationals at their request to deliver capital goods and carry out public works for governmental and private enterprises in the territory of the other Contracting Party against payment agreed upon.
+2. Each Contracting Party shall guarantee, within the framework of its laws, rules and regulations, the transfer from its territory, when due, of the sums owing to creditors, who are nationals of the other Contracting Party.
