@@ -1,0 +1,10 @@
+# Article XIV
+1. For the purpose of ensuring verification of compliance with the provisions of this Treaty, each State Party shall have the right to conduct, and the obligation to accept, within the area of application, inspections in accordance with the provisions of the Protocol on Inspection.
+2. The purpose of such inspections shall be:
+(A) to verify, on the basis of the information provided pursuant to the Protocol on Information Exchange, the compliance of States Parties with the numerical limitations set forth in Articles IV, V and VI;
+(B) to monitor the process of reduction of battle tanks, armoured combat vehicles, artillery, combat aircraft and attack helicopters carried out at reduction sites in accordance with Article VIII and the Protocol on Reduction; and
+(C) to monitor the certification of recategorised multi-purpose attack helicopters and reclassified combat-capable trainer aircraft carried out in accordance with the Protocol on Helicopter Recategorisation and the Protocol on Aircraft Reclassification, respectively.
+3. No State Party shall exercise the rights set forth in paragraphs 1 and 2 of this Article in respect of States Parties which belong to the group of States Parties to which it belongs in order to elude the objectives of the verification regime.
+4. In the case of an inspection conducted jointly by more than one State Party, one of them shall be responsible for the execution of the provisions of this Treaty.
+5. The number of inspections pursuant to Sections VII and VIII of the Protocol on Inspection which each State Party shall have the right to conduct and the obligation to accept during each specified time period shall be determined in accordance with the provisions of Section II of that Protocol.
+6. Upon completion of the 120-day residual level validation period, each State Party shall have the right to conduct, and each State Party with territory within the area of application shall have the obligation to accept, an agreed number of aerial inspections within the area of application. Such agreed numbers and other applicable provisions shall be developed during negotiations referred to in Article XVIII.

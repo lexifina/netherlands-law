@@ -1,0 +1,17 @@
+# Artikel XVI
+1. Ter bevordering van de doelstellingen en de uitvoering van de bepalingen van dit Verdrag stellen de Partijen hierbij een Gemengd Overlegorgaan in.
+2. In het kader van het Gemengd Overlegorgaan zullen de Partijen:
+A. vraagstukken behandelen betreffende de naleving of de mogelijke omzeiling van bepalingen van dit Verdrag;
+B. trachten een oplossing te vinden voor onduidelijkheden en verschillen van interpretatie die aan het licht treden bij de toepassing van dit Verdrag
+C. maatregelen overwegen en, indien mogelijk, overeenkomen ter verbetering van de uitvoerbaarheid en de doeltreffendheid van dit Verdrag;
+D. de lijsten vervat in het Protocol inzake bestaande typen bijwerken, zoals is voorgeschreven in artikel II, tweede lid;
+E. een oplossing vinden voor technische vraagstukken, ten einde te streven naar gemeenschappelijke praktijken van de Partijen bij de toepassing van dit Verdrag;
+F. een reglement van orde, werkwijzen en de verdeelsleutel voor de kosten van het Gemengd Overlegorgaan en krachtens dit Verdrag belegde conferenties, alsmede de verdeling van de kosten van inspecties tussen Partijen, vaststellen of, indien nodig, herzien;
+G. passende maatregelen bestuderen en uitwerken ten einde te verzekeren dat de informatie verkregen door middel van uitwisseling van informatie tussen de Partijen of ten gevolge van inspecties ingevolge dit Verdrag, uitsluitend wordt gebruikt voor de doeleinden van dit Verdrag, rekening houdend met de bijzondere vereisten van elke Partij met betrekking tot de beveiliging van informatie die die Partij aanmerkt als vertrouwelijk
+H. zich op verzoek van een Partij buigen over elke aangelegenheid die een Partij ter bestudering wenst voor te leggen aan een in overeenstemming met artikel XXI te beleggen conferentie; dit laat het recht van een Partij om haar toevlucht te nemen tot de procedures vervat in artikel XXI onverlet; en
+I. zich buigen over geschilpunten die voortvloeien uit de toepassing van dit Verdrag.
+3. Elke Partij heeft het recht elke aangelegenheid die verband houdt met dit Verdrag voor te leggen aan het Gemengd Overlegorgaan en deze op zijn agenda te doen plaatsen.
+4. Het Gemengd Overlegorgaan neemt besluiten en doet aanbevelingen op basis van consensus. Er is sprake van consensus wanneer er geen bezwaren bestaan van een vertegenwoordiger van een Partij tegen hetnemen van een besluit of het doen van een aanbeveling.
+5. Het Gemengd Overlegorgaan kan wijzigingen op dit Verdrag voorstellen en deze ter overweging en bevestiging voorleggen in overeenstemming met artikel XX. Het Gemengd Overlegorgaan kan ook verbeteringen overeenkomen betreffende de uitvoerbaarheid en de doeltreffendheid van dit Verdrag, zulks verenigbaar met de bepalingen hiervan. Tenzij deze verbeteringen betrekking hebben? op ondergeschikte kwesties van administratieve of technische aard moeten zij ter overweging en bevestiging worden voorgelegd in overeenstemming met artikel XX voordat zij van kracht kunnen worden.
+6. Geen enkele bepaling van dit artikel wordt geacht.een beletsel of beperking te vormen voor een, Partij om langs andere kanalen of in andere fora dan het Gemengd Overlegorgaan inlichtingen te vragen van of overleg te plegen met andere Partijen over aangelegenheden die verband houden met dit Verdrag of de toepassing daarvan.
+7. Het Gemengd Overlegorgaan volgt de procedures vervat in het Protocol inzake het Gemengd Overlegorgaan.
