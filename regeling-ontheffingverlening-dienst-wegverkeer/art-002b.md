@@ -1,0 +1,2 @@
+# Artikel 2b
+Een ontheffing als bedoeld in artikel 1 ten behoeve van een rijdend werktuig als bedoeld in artikel 1.1, onderdeel ay, van het Voertuigreglement, met een totale massa van meer dan 84.000 kg, maar van ten hoogste 100.000 kg, die voor inwerkingtreding van artikel 2a van deze regeling reeds is verleend, wordt ingetrokken en opnieuw verleend, waarbij aan de ontheffing in elk geval de voorschriften, bedoeld in artikel 2a worden verbonden.
