@@ -1,0 +1,4 @@
+# Tekst
+De Staatssecretaris van Financiën heeft het volgende besloten.
+Bij de totstandkoming van de huidige wettelijke regeling met betrekking tot de latent verschuldigde inkomstenbelasting, heeft de wetgever beoogd voor de rechten van successie, van schenking en van overgang aftrek toe te staan van op de verkrijging rustende latente belastingschulden analoog aan art. 4 VB. De wetgever heeft hierbij niet de bedoeling gehad een uitzondering te maken voor latent verschuldigde inkomstenbelasting over de oudedagsreserve in de zin van de Wet IB.
+In verband met het voorgaande keur ik met toepassing van art. 63 AWR goed dat bij de regeling van de rechten van successie, van schenking en van overgang de op de verkrijging rustende latent verschuldigde inkomstenbelasting ter zake van een tot een ondernemingsvermogen behorende oudedagsreserve in de zin van de Wet IB, in aftrek wordt gebracht op de voet van art. 20, zesde lid SW.
