@@ -1,0 +1,2 @@
+# Artikel VIII
+De waterloozing voor Vlaanderen zal tusschen Holland en Belgie geregeld worden in overeenkomst met de bepalingen, te dien aanzien in artikel VI van het definitief verdrag vastgesteld, dat den 8sten November 1785 tusschen Zijne Majesteit den Keizer van Duitschland en de Staten Generaal gesloten is. In overeenkomst met dat artikel zullen wederzijds benoemde commissarissen zich over de toepassing der daarbij gemaakte beschikkingen verstaan.

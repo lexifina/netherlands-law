@@ -1,0 +1,2 @@
+# Article VIII
+L'écoulement des eaux des Flandres sera réglé entre la Hollande et la Belgique d'après les stipulations arrêtées à cet égard dans l'article VI du traité définitif, conclu entre Sa Majesté l'Empereur d'Allemagne et les Etats-Généraux, le 8e Novembre 1785; et conformement audit article, des commissaires nommés de part et d'autre, s'entendront sur l'application des dispositions, qu'il consacre.

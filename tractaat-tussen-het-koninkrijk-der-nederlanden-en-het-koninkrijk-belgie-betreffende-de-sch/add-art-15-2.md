@@ -1,0 +1,3 @@
+# Artikel XV
+De werken van openbaar of bijzonder nut, zoo als vaarten, wegen of andere van soortgelijken aard, die geheel of gedeeltelijk op kosten van het Koningrijk der Nederlanden aangelegd zijn, zullen met de daaraan verknochte baten en lasten aan het land toebehooren, waarin zij gelegen zijn.
+Het blijft de bedoeling, dat de kapitalen, die voor het aanleggen dezer werken opgenomen, en daarop bepaaldelijk gevestigd zijn, onder de voorzegde lasten zullen worden begrepen, voor zoo verre zij nog niet afgelost zijn, en zonder dat de reeds gedane aflossingen aanleiding tot verevening kunnen geven.

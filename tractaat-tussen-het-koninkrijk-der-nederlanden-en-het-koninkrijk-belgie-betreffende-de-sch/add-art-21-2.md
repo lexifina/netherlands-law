@@ -1,0 +1,3 @@
+# Artikel XXI
+De pensioenen, wachtgelden en tractementen van non-activiteit en reforme, zullen in het vervolg van weerszijden, aan alle titularissen zoo burgerlijke als militaire uitbetaald worden, die daarop, in overeenkomst met de wetten, vóór den 1sten November 1830 in werking geweest, regt hebben.
+Men is overeengekomen, dat de bovengemelde pensioenen en tractementen der regt hebbenden, die geboren zijn op het grondgebied, hetwelk thans Belgie uitmaakt, ten laste van de Belgische schatkist zullen blijven, en de pensioenen en tractementen der regthebbenden, welke geboren zijn op het grondgebied, hetwelk thans het Koningrijk der Nederlanden vormt, ten laste der Nederlandsche schatkist.

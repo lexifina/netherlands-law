@@ -1,0 +1,2 @@
+# Article V
+Sa Majesté le Roi des Pays-Bas, Grand-Duc de Luxembourg, s'entendra avec la Confédération Germanique et les agnats de la Maison de Nassau, sur l'application des stipulations renfermées, dans les articles III et IV, ainsi que sur tous les arrangemens, que les dits articles pourraient rendre nécessaires soit avec les agnats ci-dessus nommés de la Maison de Nassau, soit avec la conféderation Germanique.

@@ -1,0 +1,3 @@
+# Article XVII
+Dans les deux Pays, dont la séparation a lieu en conséquence du présent traité, les habitans et propriétaires s'ils veulent transferer leur domicile d'un pays à l'autre, auront la liberté de disposer pendant deux ans de leur propriétés, meubles ou immeubles, de quelque nature qu'elles soient, de les vendre et d'emporter le produit de ces ventes, soit en numéraire, soit en autres valeurs, sans empêchement ou acquittement de droits autres que ceux, qui sont aujourd'hui en vigueur dans les deux pays pour les mutations et transferts.
+Il est entendu, que renonnonciation est faite pour le présent et pour l'avenir, à la perception de tout droit d'aubaine et de détraction sur les personnes et sur les biens des Hollandais en Belgique, et des Belges en Hollande.

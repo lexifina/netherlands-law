@@ -1,0 +1,2 @@
+# Artikel XXIII
+De vonnissen in burgerlijke of handelszaken gewezen, de acten van den burgelijken stand, en de acten voor een notaris of ander openbaar ambtenaar verleden tijdens het Belgisch beheer, in die gedeelten van Limburg en van het Groot-Hertogdom Luxemburg, welke weder in het bezit van Zijne Majesteit den Koning der Nederlanden, Groot-Hertog van Luxemburg, zullen worden gesteld, zullen in derzelver kracht en werking worden gehandhaafd.
