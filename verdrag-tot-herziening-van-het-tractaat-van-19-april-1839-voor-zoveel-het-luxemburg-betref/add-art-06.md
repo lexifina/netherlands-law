@@ -1,0 +1,2 @@
+# Article VI
+Les Puissances signataires du présent traité constatent que la dissolution de la Confédération Germanique, ayant également amené la dissolution des liens qui unissaient le Duché de Limbourg collectivement avec le Grand-Duché de Luxembourg à la dite Confédération, il en résulte que les rapports, dont il est fait mention aux articles III, IV et V du traité du 19 Avril 1839, entre le Grand-Duché et certains territoires appartenant au Duché de Limbourg, ont cessé d'exister, les dits territoires continuant à faire partie intégrante du Royaume des Pays-Bas.

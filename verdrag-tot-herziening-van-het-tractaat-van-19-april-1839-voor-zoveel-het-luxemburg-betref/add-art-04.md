@@ -1,0 +1,3 @@
+# Article IV
+Conformément aux stipulations contenues dans les articles II et III, Sa Majesté le Roi de Prusse déclare que ses troupes actuellement en garnison dans la forteresse de Luxembourg, recevront l'ordre de procéder à l'évacuation de cette place, immédiatement après l'échange des ratifications du présent traité. On commencera simultanément à retirer l'artillerie, les munitions et tous les objets qui font partie de la dotation de la dite place forte.
+Durant cette opération, il n'y restera que le nombre de troupes nécessaire pour veiller à la sûreté du matériel de guerre et pour en effectuer l'expédition, qui s'achèvera dans le plus bref délai possible.
