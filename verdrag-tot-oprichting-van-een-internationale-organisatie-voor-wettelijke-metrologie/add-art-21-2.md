@@ -1,0 +1,4 @@
+# Artikel XXI
+Het personeel van het Bureau omvat een Directeur en diens door de Commissie benoemde medewerkers alsmede de vaste of tijdelijke, door de Directeur aangestelde employés of agenten.
+Het personeel van het Bureau en eventueel de in artikel XVIII bedoelde deskundigen, worden bezoldigd. Zij ontvangen hetzij salaris of loon, hetzij vergoedingen; de betreffende bedragen worden vastgesteld door de Commissie.
+De rechtspositie van de Directeur, de medewerkers en de employés of agenten wordt vastgesteld door de Commissie, met name wat betreft de aanstellings-, arbeids- en pensioenvoorwaarden en de interne regelingen. De Directeur benoemt en ontslaat de agenten en de employés van het Bureau, behalve wat betreft de door de Commissie aangewezen medewerkers die slechts bij besluit van de Commissie door deze maatregel kunnen worden getroffen.

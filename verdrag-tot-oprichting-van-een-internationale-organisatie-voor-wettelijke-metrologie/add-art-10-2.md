@@ -1,0 +1,2 @@
+# Artikel X
+De Conferentie komt ten minste elke zes jaren bijeen na oproeping door de Voorzitter van de Commissie of, in geval van verhindering, na oproeping door de Directeur van het Bureau indien bij hem een aanvraag, uitgegaan van ten minste de helft van de leden van de Commissie, is ingediend. Zij bepaalt, aan het einde van haar werkzaamheden, plaats en datum van de volgende bijeenkomst of machtigt de Commissie hiertoe.

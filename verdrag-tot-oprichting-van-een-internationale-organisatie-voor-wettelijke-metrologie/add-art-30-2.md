@@ -1,0 +1,3 @@
+# Artikel XXX
+Een vrijwillig uittredend Staat-Lid kan op zijn verzoek zonder meer wederom lid worden. Hij wordt dan beschouwd als nieuw Staat-Lid, doch entreegeld is slechts verschuldigd indien zijn uittreding langer dan vijf jaar geleden plaatsvond.
+Een reglementair uitgetreden Staat-Lid kan op eigen verzoek wederom lid worden, onder voorwaarde dat de op het tijdstip van zijn afvoering onbetaalde bijdragen worden aangezuiverd. Deze met terugwerkende kracht geldende bijdragen worden berekend op basis van de bijdragen voor de jaren voorafgaande aan het tijdstip waarop hij wederom lid wordt. Daarna wordt hij beschouwd als een nieuw Staat-Lid maar het entreegeld wordt vastgesteld met inachtneming van zijn vroegere bijdragen in door de Conferentie vastgestelde verhoudingen.

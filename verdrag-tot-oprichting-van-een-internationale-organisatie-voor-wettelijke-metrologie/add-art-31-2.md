@@ -1,0 +1,2 @@
+# Artikel XXXI
+In geval van ontbinding van de Organisatie worden de baten verdeeld onder de Staten-Leden naar verhouding van het totaal van hun vroegere bijdragen, onder voorbehoud van overeenkomsten welke eventueel gesloten zijn tussen de Staten-Leden die op de datum van de ontbinding geen achterstand hebben ten aanzien van hun bijdragen, en onder voorbehoud van de contractuele of verworven rechten van het in dienst zijnde of gepensioneerde personeel.
