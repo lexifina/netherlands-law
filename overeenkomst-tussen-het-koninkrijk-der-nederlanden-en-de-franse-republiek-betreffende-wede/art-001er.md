@@ -1,0 +1,3 @@
+# Article 1er
+Le Gouvernement néerlandais et le Gouvernement français, après avoir examiné les réclamations d'ordre maritime présentées de part et d'autre et ayant leur origine dans des événements de la guerre de 1939 à 1945, ont fixé d'un commun accord, après compensation des créances réciproques énumérées à l'article 2, à la somme de Livres sterling 8.000.- l'indemnité à verser par le Gouvernement néerlandais au Gouvernement français.
+Ce versement sera effectué en florins, un mois après l'échange des instruments de ratification du présent accord, au profit du Trésor français, sur la base de la parité officielle de cette devise par rapport à la livre au jour du versement.
