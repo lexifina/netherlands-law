@@ -1,0 +1,2 @@
+# Artikel V. Voorziening WEB i.v.m. de Wet van 1 juli 1998 (Stb. 431)
+Tot het tijdstip waarop de algemene maatregelen van bestuur op grond van de artikelen 2.2.1 en 2.4.1 van de Wet educatie en beroepsonderwijs in werking treden, is artikel 2.2.4a van de Wet educatie en beroepsonderwijs zoals luidend ingevolge deze wet, van toepassing met dien verstande dat in artikel 2.2.4a, eerste en vierde lid, voor «artikel 2.2.1, vijfde lid» telkens wordt gelezen: artikel IA van de Wet van 1 juli 1998 (Stb. 431).
