@@ -1,0 +1,3 @@
+# Artikel 16i
+1. De advocaat, bedoeld in het eerste lid van artikel 16h, is gehouden zijn beroepswerkzaamheden in Nederland uit te oefenen onder zijn oorspronkelijke beroepstitel, zoals deze dient te luiden in de taal of een der officiële talen van de staat van herkomst, evenwel op een verstaanbare wijze en zodanig dat hij niet kan worden verward met de titel advocaat, bedoeld in artikel 9a.
+2. Bij de uitoefening van de werkzaamheden, bedoeld in het eerste lid, vermeldt de advocaat de beroepsorganisatie waartoe hij behoort of het gerecht waarbij hij overeenkomstig de wettelijke regeling van de staat van herkomst is toegelaten alsmede zijn inschrijving bij de raad van toezicht.
