@@ -1,0 +1,5 @@
+# Artikel XXII. Opzegging
+a. Iedere regering die lid is kan deze Overeenkomst te allen tijde nadat twee jaar zijn verlopen sinds de dag waarop de Overeenkomst voor die regering in werking is getreden, opzeggen door schriftelijke kennisgeving aan de Franse Regering. De opzegging treedt in werking één jaar na de dag van ontvangst van deze kennisgeving.
+b. Wanneer twee achtereenvolgende jaarlijkse bijdragen niet zijn betaald, zal dit onder normale omstandigheden worden beschouwd als opzegging van de Overeenkomst door de regering die lid is die aldus in gebreke is gebleven.
+c. De toepassing van de Overeenkomst op een gebied of gebieden uit hoofde van artikel XXI kan worden beëindigd door een schriftelijke kennisgeving aan de Franse Regering door de deelnemende regering die voor de internationale betrekkingen van dat gebied of die gebieden verantwoordelijk is. De kennisgeving treedt in werking één jaar na de dag van haar ontvangst.
+d. De Franse Regering stelt alle deelnemende regeringen onmiddellijk op de hoogte van overeenkomstig dit artikel gedane kennisgevingen.

@@ -1,0 +1,6 @@
+# Artikel I. Doelstellingen
+Er wordt een Plantenbeschermingsorganisatie voor Europa en het gebied van de Middellandse Zee (hierna te noemen de Organisatie) opgericht, als erkende regionale organisatie voor de bescherming van planten in het kader van het Internationaal Verdrag voor de bescherming van planten, die is opgericht door de Voedsel- en Landbouworganisatie van de Verenigde Naties (FAO). De doelstellingen van de Organisatie zijn:
+a. de regeringen die lid zijn te ondersteunen in hun streven om de gezondheid van planten te waarborgen en tegelijkertijd de gezondheid van mens en dier en het milieu te beschermen;
+b. het nastreven en ontwikkelen, door middel van samenwerking tussen de regeringen die lid zijn, van de bescherming van planten en plantaardige producten tegen ziekten en plagen en het voorkomen van hun internationale verspreiding en in het bijzonder hun introductie in bedreigde gebieden;
+c. het ontwikkelen van internationaal geharmoniseerde fytosanitaire en andere officiële gewasbeschermingsmaatregelen en, waar nodig, het opstellen van standaarden die dat bewerkstelligen;
+d. de collectieve standpunten van de regeringen die lid zijn, in voorkomend geval, voor te leggen aan de FAO, de WTO, andere regionale organisaties ter bescherming van planten en andere organen met daarmee verband houdende verantwoordelijkheden.

@@ -1,0 +1,5 @@
+# Artikel XIX. Wijzigingen
+a. De tekst van voorstellen tot wijziging van deze Overeenkomst en tot wijziging van Bijlage I wordt door de Directeur-Generaal aan de regeringen die lid zijn medegedeeld ten minste drie maanden voordat de bedoelde voorstellen in de Raad zullen worden behandeld.
+b. Wijzigingen van de Overeenkomst worden van kracht, wanneer zij in de Raad zijn aangenomen met een meerderheid van twee derden van de aanwezige leden die hun stem uitbrengen, met dien verstande echter dat wijzigingen die nieuwe verplichtingen voor de regeringen die lid zijn meebrengen – met uitzondering van de wijzigingen van Bijlage I bedoeld in lid c hieronder – voor ieder van hen eerst van kracht worden nadat zij door de betrokken regering zijn aanvaard.
+c. Wijzigingen van Bijlage I worden door de Raad aangenomen met tweederdemeerderheid van de regeringen die lid zijn.
+d. De aanvaarding van wijzigingen wordt ter kennis gebracht van de Franse Regering, die alle regeringen die lid zijn mededeling doet van de ontvangst van de kennisgevingen van aanvaarding en van de inwerkingtreding van de wijzigingen.
