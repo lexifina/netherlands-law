@@ -1,3 +1,0 @@
-# ARTIKEL IV
-1. Indien het bij koninklijke boodschap van 1 september 1997 ingediende voorstel van wet tot vaststelling van nieuwe regels met betrekking tot de (re)integratie van arbeidsgehandicapten, 25 478, (Wet op de (re)integratie arbeidsgehandicapten) tot wet wordt verheven, treedt dit besluit, met uitzondering van artikel I, onderdelen B, D, en L, voorzover het betreft artikel 18, eerste lid, en artikel II, in werking op het tijdstip waarop artikel 65 van die wet in werking treedt.
-2. Artikel I, onderdelen B, D, en L, voorzover het betreft artikel 18, eerste lid, en artikel II treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij worden geplaatst en werken terug tot en met 1 januari 1998.
