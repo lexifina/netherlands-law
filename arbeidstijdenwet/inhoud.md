@@ -28,6 +28,7 @@
 ## Hoofdstuk 4. Algemene verplichtingen
 ### § 4.1. Algemeen
 #### Beleidsvoering, inventarisatie en evaluatie
+#### Vaststelling van het arbeidstijdpatroon
 #### Mededeling arbeids- en rusttijdenregeling
 #### Registratie
 ### § 4.2. Jeugdige werknemers
