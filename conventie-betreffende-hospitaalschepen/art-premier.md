@@ -1,0 +1,2 @@
+# Article premier
+Les bâtiments hospitaliers, à l'égard desquels se trouvent remplies les conditions prescrites dans les articles 1, 2 et 3 de la Convention, conclue à La Haye le 29 juillet 1899, pour l'adaptation à la guerre maritime des principes de la Convention de Genève du 22 août 1864, seront exemptés, en temps de guerre, dans les ports des Parties contractantes de tous droits et taxes, imposés aux navires au profit de l'Etat.
