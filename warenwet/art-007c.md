@@ -1,0 +1,3 @@
+# Artikel 7c
+1. Een krachtens artikel 7a aangewezen instelling verstrekt desgevraagd kosteloos aan Onze Minister de voor de uitoefening van zijn taak benodigde inlichtingen. Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
+2. Een krachtens artikel 7a aangewezen instelling zendt Onze Minister jaarlijks een verslag betreffende de door de instelling krachtens de aanwijzing uitgevoerde werkzaamheden, de rechtmatigheid en doeltreffendheid van die werkzaamheden en de werkwijze in het afgelopen jaar. Onze Minister kan met betrekking tot dit verslag nadere regels stellen.

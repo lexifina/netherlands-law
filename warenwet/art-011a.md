@@ -1,0 +1,2 @@
+# Artikel 11a
+Bij algemene maatregel van bestuur kan worden voorgeschreven dat de eigenaar of houder van bij de maatregel aangewezen technische voortbrengselen, verplicht is aangifte te doen van elke aanleg, opbouw of plaatsing van die technische voortbrengselen bij Onze Minister dan wel bij een door Onze Minister aangewezen instelling, met inachtneming van de bij die algemene maatregel van bestuur bepaalde termijnen.
