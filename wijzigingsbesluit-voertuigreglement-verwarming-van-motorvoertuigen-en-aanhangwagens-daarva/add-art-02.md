@@ -1,0 +1,2 @@
+# Artikel II
+Op verzoek van de fabrikant wordt tot 9 mei 2004 voor personenauto's, alsmede voor verwarmingssystemen op brandstof voor personenauto's, bedrijfsauto's en aanhangwagens, een typegoedkeuring verleend als bedoeld in artikel 4, eerste lid, van richtlijn nr. 2001/56/EG van het Europees Parlement en de Raad van 27 september 2001 inzake de verwarming van motorvoertuigen en aanhangwagens daarvan en tot wijziging van Richtlijn 70/156/EEG van de Raad en tot intrekking van Richtlijn 78/548/EEG van de Raad (PbEU L 292).
