@@ -1,0 +1,2 @@
+# Article XI
+The Commission shall seek to co-operate with Contracting Parties which may exercise jurisdiction in marine areas adjacent to the area to which this Convention applies in respect of the conservation of any stock or stocks of associated species which occur both within those areas and the area to which this Convention applies, with a view to harmonizing the conservation measures adopted in respect of such stocks.

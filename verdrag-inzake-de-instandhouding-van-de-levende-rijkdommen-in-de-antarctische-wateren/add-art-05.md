@@ -1,0 +1,4 @@
+# Article V
+1. The Contracting Parties which are not Parties to the Antarctic Treaty acknowledge the special obligations and responsibilities of the Antarctic Treaty Consultative Parties for the protection and preservation of the environment of the Antarctic Treaty area.
+2. The Contracting Parties which are not Parties to the Antarctic Treaty agree that, in their activities in the Antarctic Treaty area, they will observe as and when appropriate the Agreed Measures for the Conservation of Antarctic Fauna and Flora and such other measures as have been recommended by the Antarctic Treaty Consultative Parties in fulfilment of their responsibility for the protection of the Antarctic environment from all forms of harmful human interference.
+3. For the purposes of this Convention, "Antarctic Treaty Consultative Parties" means the Contracting Parties to the Antarctic Treaty whose Representatives participate in meetings under Article IX of the Antarctic Treaty.

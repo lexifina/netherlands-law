@@ -1,0 +1,5 @@
+# Artikel XXIII
+1. De Commissie en het Wetenschappelijk Comité werken samen met de Consultatieve Partijen bij het Verdrag inzake Antarctica op de gebieden waarop deze Partijen bevoegd zijn.
+2. De Commissie en het Wetenschappelijk Comité werken, al naar gelang van het geval, samen met de Voedsel- en Landbouworganisatie van de Verenigde Naties en met andere gespecialiseerde organisaties.
+3. De Commissie en het Wetenschappelijk Comité streven ernaar zonodig samenwerking tot stand te brengen met intergouvernementele en niet-gouvernementele organisaties die een bijdrage zouden kunnen leveren aan hun werk met inbegrip van de Wetenschappelijke Commissie voor onderzoek in Antarctica, de Wetenschappelijke Commissie voor Oceanografisch Onderzoek en de Internationale Walvisvangstcommissie.
+4. De Commissie kan overeenkomsten sluiten met de in dit artikel bedoelde organisaties en zo nodig ook met andere organisaties. De Commissie en het Wetenschappelijk Comité kunnen dergelijke organisaties uitnodigen om waarnemers te zenden naar hun vergaderingen en naar vergaderingen van hun ondergeschikte organen.

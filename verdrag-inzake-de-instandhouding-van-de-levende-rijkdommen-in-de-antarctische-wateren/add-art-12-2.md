@@ -1,0 +1,5 @@
+# Artikel XII
+1. Besluiten van de Commissie over kwesties van wezenlijk belang worden met algemene instemming genomen. De vraag of een kwestie van wezenlijk belang is, wordt behandeld als een kwestie van wezenlijk belang.
+2. Besluiten over andere kwesties dan die welke in het eerste lid hierboven zijn bedoeld, worden genomen bij meerderheid van stemmen van de aanwezige leden van de Commissie die hun stem uitbrengen.
+3. Wanneer de Commissie een punt behandelt waarover een besluit moet worden genomen, dan moet vooraf worden vastgesteld of een organisatie voor regionale economische integratie zal deelnemen aan de besluitvorming en zo ja, of een of meer van haar Lid-Staten ook zullen deelnemen. Het aantal Verdragsluitende Partijen dat aldus deelneemt, mag niet meer bedragen dan het aantal Lid-Staten van de organisatie voor regionale economische integratie die lid zijn van de Commissie.
+4. Wanneer besluiten overeenkomstig dit artikel worden genomen, heeft een organisatie voor regionale economische integratie slechts één stem.

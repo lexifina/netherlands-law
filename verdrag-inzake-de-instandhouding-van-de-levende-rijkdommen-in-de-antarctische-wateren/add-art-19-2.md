@@ -1,0 +1,7 @@
+# Artikel XIX
+1. De Commissie keurt haar begroting en de begroting van het Wetenschappelijk Comité met algemene instemming goed tijdens de jaarlijkse vergadering.
+2. Ten minste zestig dagen vóór de jaarlijkse vergadering van de Commissie wordt een ontwerp-begroting voor de Commissie, het Wetenschappelijk Comité en eventuele ondergeschikte organen door de uitvoerend secretaris voorbereid en aan de leden van de Commissie voorgelegd.
+3. Elk lid van de Commissie draagt bij in de begroting. Tot vijf jaar na de inwerkingtreding van dit Verdrag blijft de bijdrage van elk lid van de Commissie gelijk. Daarna wordt de bijdrage vastgesteld aan de hand van twee criteria: de gevangen hoeveelheid en een gelijke verdeling over alle leden van de Commissie. De Commissie bepaalt met algemene instemming in welke mate deze twee criteria worden toegepast.
+4. De financiële verrichtingen van de Commissie en van het Wetenschappelijk Comité worden uitgevoerd overeenkomstig door de Commissie vastgestelde financiële voorschriften en worden jaarlijks gecontroleerd door onafhankelijke accountants die door de Commissie worden gekozen.
+5. Elk lid van de Commissie betaalt zelf de kosten voor het bijwonen van de vergaderingen van de Commissie en van het Wetenschappelijk Comité.
+6. Een lid van de Commissie dat zijn bijdrage voor twee achtereenvolgende jaren niet heeft betaald, mag, zolang het in gebreke blijft, niet deelnemen aan de besluitvorming in de Commissie.

@@ -1,0 +1,2 @@
+# Artikel XI
+De Commissie streeft naar samenwerking met de Verdragsluitende Partijen die in de zeegebieden welke grenzen aan het gebied waarop dit Verdrag van toepassing is rechtsmacht kunnen uitoefenen ten aanzien van de instandhouding van een bestand of van een aantal bestanden van verwante soorten die zowel voorkomen in die gebieden als in het gebied waarop dit Verdrag van toepassing is, ten einde de voor die bestanden vastgestelde instandhoudingsmaatregelen te harmoniseren.

@@ -1,0 +1,2 @@
+# Artikel VIII
+De Commissie heeft rechtspersoonlijkheid en beschikt op het grondgebied van de Verdragsluitende Partijen over de handelingsbekwaamheid die nodig is voor het uitoefenen van haar taken en voor het bereiken van de doeleinden van dit Verdrag. De voorrechten en immuniteiten die de Commissie en haar personeelsleden op het grondgebied van een Staat (Partij) genieten, worden in overleg tussen de Commissie en de betrokken Staat (Partij) vastgesteld.

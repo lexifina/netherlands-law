@@ -1,0 +1,5 @@
+# Artikel XX
+1. De leden van de Commissie verstrekken de Commissie en het Wetenschappelijk Comité in zo ruim mogelijke mate jaarlijks de statistische, biologische en andere gegevens en inlichtingen die de Commissie en het Wetenschappelijk Comité nodig hebben voor de uitoefening van hun functies.
+2. De leden van de Commissie verstrekken op de voorgeschreven wijze en tijdstippen gegevens over hun exploitatie-activiteiten, met inbegrip van visgronden en vaartuigen, ten einde de opstelling van betrouwbare statistieken over de vangst en vangstprestaties mogelijk te maken.
+3. De leden van de Commissie verstrekken de Commissie op de voorgeschreven tijdstippen gegevens over de maatregelen die zij hebben getroffen om de door de Commissie vastgestelde instandhoudingsmaatregelen ten uitvoer te leggen.
+4. De leden van de Commissie komen overeen dat bij al hun exploitatie-activiteiten van de gelegenheid gebruik zal worden gemaakt om gegevens te verzamelen die nodig zijn ter beoordeling van het effect van de exploitatie.

@@ -1,0 +1,7 @@
+# Article XIX
+1. At each annual meeting, the Commission shall adopt by consensus its budget and the budget of the Scientific Committee.
+2. A draft budget for the Commission and the Scientific Committee and any subsidiary bodies shall be prepared by the Executive Secretary and submitted to the Members of the Commission at least sixty days before the annual meeting of the Commission.
+3. Each Member of the Commission shall contribute to the budget. Until the expiration of five years after the entry into force of this Convention, the contribution of each Member of the Commission shall be equal. Thereafter the contribution shall be determined in accordance with two criteria: the amount harvested and an equal sharing among all Members of the Commission. The Commission shall determine by consensus the proportion in which these two criteria shall apply.
+4. The financial activities of the Commission and Scientific Committee shall be conducted in accordance with financial regulations adopted by the Commission and shall be subject to an annual audit by external auditors selected by the Commission.
+5. Each Member of the Commission shall meet its own expenses arising from attendance at meetings of the Commission and of the Scientific Committee.
+6. A Member of the Commission that fails to pay its contributions for two consecutive years shall not, during the period of its default, have the right to participate in the taking of decisions in the Commission.

@@ -1,0 +1,4 @@
+# Artikel XXXI
+1. Elke Verdragsluitende Partij kan zich op 30 juni van elk jaar uit dit Verdrag terugtrekken door uiterlijk op 1 januari van hetzelfde jaar een schriftelijke kennisgeving te richten aan de Depositaris, die onmiddellijk na ontvangst van een dergelijke kennisgeving daarvan mededeling doet aan de andere Verdragsluitende Partijen.
+2. Elke andere Verdragsluitende Partij kan binnen zestig dagen nadat zij een afschrift van een dergelijke kennisgeving van de Depositaris heeft ontvangen, een schriftelijke kennisgeving van terugtrekking richten op de Depositaris; het Verdrag houdt op 30 juni van hetzelfde jaar op van kracht te zijn ten aanzien van de Verdragsluitende Partij die een dergelijke kennisgeving heeft verricht.
+3. Terugtrekking van een lid van de Commissie uit dit Verdrag laat de financiële verplichtingen die krachtens dit Verdrag op dat lid rusten onverlet.

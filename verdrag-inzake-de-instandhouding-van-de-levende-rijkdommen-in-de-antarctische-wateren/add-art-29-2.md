@@ -1,0 +1,3 @@
+# Artikel XXIX
+1. Elke Staat die belangstelling heeft voor onderzoek naar of exploitatie van de levende mariene rijkdommen waarop dit Verdrag van toepassing is, kan toetreden tot dit Verdrag.
+2. Door soevereine Staten gevormde organisaties voor regionale economische integratie die een of meer Lid-Staten van de Commissie onder hun leden tellen en waaraan de Lid-Staten van de organisatie geheel of gedeeltelijk bevoegdheden inzake de in dit Verdrag opgenomen aangelegenheden hebben overgedragen, kunnen tot dit Verdrag toetreden. De leden van de Commissie dienen te worden geraadpleegd over de toetreding van dergelijke organisaties voor regionale economische integratie.

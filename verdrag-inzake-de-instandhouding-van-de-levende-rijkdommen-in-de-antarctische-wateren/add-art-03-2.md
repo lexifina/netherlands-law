@@ -1,0 +1,2 @@
+# Artikel III
+De Verdragsluitende Partijen, ongeacht of zij Partij zijn bij het Verdrag inzake Antarctica, komen overeen dat zij geen activiteiten zullen ontplooien in het gebied van het Verdrag inzake Antarctica die strijdig zijn met de beginselen en doeleinden van dat Verdrag en dat zij in hun onderlinge betrekkingen gebonden zijn door de verplichtingen die vervat zijn in de artikelen I en V van het Verdrag inzake Antarctica.

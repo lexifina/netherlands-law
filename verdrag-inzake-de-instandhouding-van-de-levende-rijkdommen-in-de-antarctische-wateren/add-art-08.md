@@ -1,0 +1,2 @@
+# Article VIII
+The Commission shall have legal personality and shall enjoy in the territory of each of the States Parties such legal capacity as may be necessary to perform its function and achieve the purposes of this Convention. The privileges and immunities to be enjoyed by the Commission and its staff in the territory of a State Party shall be determined by agreement between the Commission and the State Party concerned.

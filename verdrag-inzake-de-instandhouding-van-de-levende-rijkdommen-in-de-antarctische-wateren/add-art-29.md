@@ -1,0 +1,3 @@
+# Article XXIX
+1. This Convention shall be open for accession by any State interested in research or harvesting activities in relation to the marine living resources to which this Convention applies.
+2. This Convention shall be open for accession by regional economic integration organizations constituted by sovereign States which include among their members one or more States Members of the Commission and to which the States members of the organization have transferred, in whole or in part, competences with regard to the matters covered by this Convention. The accession of such regional economic integration organizations shall be the subject of consultations among Members of the Commission.

@@ -1,0 +1,5 @@
+# Article XXIII
+1. The Commission and the Scientific Committee shall co-operate with the Antarctic Treaty Consultative Parties on matters falling within the competence of the latter.
+2. The Commission and the Scientific Committee shall co-operate, as appropriate, with the Food and Agriculture Organisation of the United Nations and with other Specialised Agencies.
+3. The Commission and the Scientific Committee shall seek to develop co-operative working relationships, as appropriate, with inter-governmental and non-governmental organizations which could contribute to their work, including the Scientific Committee on Antarctic Research, the Scientific Committee on Oceanic Research and the International Whaling Commission.
+4. The Commission may enter into agreements with the organizations referred to in this Article and with other organizations as may be appropriate. The Commission and the Scientific Committee may invite such organizations to send observers to their meetings and to meetings of their subsidiary bodies.
