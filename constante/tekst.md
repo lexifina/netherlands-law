@@ -1,0 +1,7 @@
+# Tekst
+De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
+Dit besluit is opnieuw uitgebracht voor de toepassing van de Wet IB 2001. Hiermee is geen inhoudelijke wijziging beoogd ten opzichte van de regeling die gold voor de toepassing van de Wet IB 1964, besluit van 15 september 1992, nr. DB92/4286M.
+Ingevolge artikel I, onderdeel LLL, van de Wet van 27 april 1989, Stb. 122 (Oort-I), is artikel 74 van de Wet op de inkomstenbelasting 1964 (hierna: de Wet IB'64 vervallen. Dit artikel voorzag in een overgangsregeling voor ondernemers die bij de invoering van de Wet IB'64 per 1 januari 1965 een gebroken boekjaar hadden. Het gevolg van het vervallen van artikel 74 van de Wet IB'64 is dat hiermede ook de zogenaamde 'constante' is komen te vervallen.
+Bovenbedoelde constante werd onder het Besluit op de Inkomstenbelasting 1941 bij beschikking vastgesteld. Bij het staken van de onderneming van de belastingplichtige werd het bedrag van de constante in aftrek gebracht van de winst van het laatste boekjaar. Door het vervallen van artikel 74 van de Wet IB'64 is dit thans niet meer mogelijk.
+Ik keur echter goed dat het bij beschikking vastgestelde bedrag van de constante in aftrek wordt gebracht van de winst over het laatste (gebroken) boekjaar bij het staken van de onderneming.
+Dit besluit treedt in werking met ingang van het belastingjaar 2001.
