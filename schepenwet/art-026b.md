@@ -10,4 +10,4 @@ b. De benoeming van de ambtenaren uit de departementen van Sociale Zaken en van 
 8. Aan een lid of plaatsvervangend lid wordt door Onze Minister tussentijds ontslag verleend:
 a. bij verlies van de hoedanigheid of beëindiging van de ambtsvervulling in verband waarmede de benoeming heeft plaatsgevonden;
 b. op eigen verzoek.
-9. Het secretariaat van de Commissie berust bij het Directoraat-Generaal Scheepvaart en Maritieme Zaken.
+9. Het secretariaat van de Commissie berust bij het Ministerie van Verkeer en Waterstaat.
