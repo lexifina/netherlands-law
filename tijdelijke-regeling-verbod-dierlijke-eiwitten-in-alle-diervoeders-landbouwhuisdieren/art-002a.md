@@ -1,3 +1,0 @@
-# Artikel 2a
-1. Het is verboden diervoeders, met inbegrip van voeder voor gezelschapsdieren, die verwerkte dierlijke eiwitten bevatten en die bestemd zijn voor andere dieren dan landbouwhuisdieren, te vervaardigen in bedrijven die diervoeders voor landbouwhuisdieren produceren.
-2. Het eerste lid is niet van toepassing indien voor de productie van diervoeders voor landbouwhuisdieren, niet zijnde herkauwers en voor de productie van diervoeders voor andere dieren dan landbouwhuisdieren geen dierlijke eiwitten worden aangewend, anders dan, met inachtneming van artikel 2, tweede lid, vismeel, dicalciumfosfaat en gehydrolyseerde eiwitten.
