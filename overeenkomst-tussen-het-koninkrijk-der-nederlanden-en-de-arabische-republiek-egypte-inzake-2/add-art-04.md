@@ -1,0 +1,2 @@
+# Article IV
+The Government of the Arab Republic of Egypt will have the right to request the recall of any expert whose work or conduct is unsatisfactory. Before exercising such right the Government of the Arab Republic of Egypt will inform the Government of the Kingdom of the Netherlands. If the Government of the Arab Republic of Egypt so requests, the Government of the Kingdom of the Netherlands will make every effort to obtain a replacement for the recalled expert.

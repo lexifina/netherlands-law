@@ -1,0 +1,2 @@
+# Article VII
+The Government of the Arab Republic of Egypt will provide for the Netherlands personal privileges no less favourable than those accorded to foreign experts of other countries involved in technical assistance in the Arab Republic of Egypt. In case the Arab Republic of Egypt is providing new privileges to experts in the framework of technical cooperation with other countries, these privileges will also be applicable to the personnel concerned under the present Agreement.

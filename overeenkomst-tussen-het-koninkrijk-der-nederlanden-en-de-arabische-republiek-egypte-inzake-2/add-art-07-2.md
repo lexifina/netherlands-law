@@ -1,0 +1,2 @@
+# Artikel VII
+De Regering van de Arabische Republiek Egypte zal het Nederlandse personeel geen minder gunstige voorrechten toekennen dan die welke worden toegekend aan buitenlandse deskundigen van andere landen die betrokken zijn bij technische bijstand in de Arabische Republiek Egypte. Ingeval de Arabische Republiek Egypte deskundigen nieuwe voorrechten toekent in het kader van technische samenwerking met andere landen, zullen deze voorrechten ook toepasselijk zijn op het desbetreffende personeel dat onder deze Overeenkomst valt.

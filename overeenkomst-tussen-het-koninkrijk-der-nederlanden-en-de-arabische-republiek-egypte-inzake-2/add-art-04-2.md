@@ -1,0 +1,2 @@
+# Artikel IV
+De Regering van de Arabische Republiek Egypte zal het recht hebben de terugroeping te verzoeken van een deskundige wiens werk of gedrag onbevredigend is. Alvorens een zodanig recht uit te oefenen, zal de Regering van de Arabische Republiek Egypte de Regering van het Koninkrijk der Nederlanden daarvan in kennis stellen. Indien de Regering van de Arabische Republiek Egypte zulks verzoekt, zal de Regering van het Koninkrijk der Nederlanden al het mogelijke doen om vervanging van de teruggeroepen deskundige te bewerkstelligen.
