@@ -1,0 +1,2 @@
+# Artikel 2c
+Van de verzekering ingevolge artikel 3, eerste lid, onder a, van de Ziekenfondswet is uitgezonderd degene die onmiddellijk voorafgaand aan 1 januari 1994 een invaliditeitspensioen in de zin van artikel 7, eerste lid, onder b, van de Wet privatisering Spoorwegpensioenfonds genoot en die onmiddellijk voorafgaand aan de inwerkingtreding van dit artikel ingevolge artikel 2, achtste, tiende of elfde lid, van het Aanwijzingsbesluit verplicht-verzekerden Ziekenfondswet niet verzekerd was ingevolge de Ziekenfondswet.

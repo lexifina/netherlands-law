@@ -1,0 +1,2 @@
+# Artikel 2e
+Van de verzekering ingevolge artikel 3, eerste lid, onder a, van de Ziekenfondswet is uitgezonderd degene die uitsluitend uit hoofde van een arbeidsverhouding als overheidswerknemer in de zin van artikel 1, onderdeel l, van de Wet overheidspersoneel onder de werknemersverzekeringen een uitkering op grond van de Werkloosheidswet ontvangt, tenzij hij op grond van die arbeidsverhouding verplicht verzekerd was, of uitsluitend in verband met overschrijding van de voor de verplichte ziekenfondsverzekering geldende loongrens niet verplicht verzekerd was.
