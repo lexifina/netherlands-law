@@ -1,0 +1,10 @@
+# Artikel 2a
+1. Voor de toepassing van artikel 2 wordt voor de bepaling van het gemiddelde aantal in het desbetreffende jaar op strooisel gehuisveste varkens, van de onderscheiden diercategorieën, ten hoogste het aantal in aanmerking genomen:
+– dat, indien het bedrijf als scharrelvarkenshouderij is geregistreerd bij het Productschap voor Vee en Vlees, wordt gehouden overeenkomstig de in de Regeling scharrelvarkens van het Productschap voor Vee en Vlees neergelegde en ook overigens in dit verband door dat productschap gestelde voorwaarden,
+– dat, indien het bedrijf als biologische varkenshouderij is geregistreerd bij de Stichting Skal te Zwolle, of een naar het oordeel van Onze Minister met die stichting vergelijkbare organisatie die zich het toezicht op, en de keuring, controle, beoordeling en certificering van biologische productiemethoden ten doel stelt, wordt gehouden overeenkomstig de door die stichting of de daarmee vergelijkbare organisatie gestelde voorwaarden,
+– dat als zodanig is vermeld op de milieuvergunning die van kracht is voor de desbetreffende stal, of
+– waarvan de heffingplichtige de huisvesting op strooisel naar het oordeel van Onze Minister genoegzaam anderszins kan aantonen.
+2. Voor de toepassing van artikel 2 wordt voor de bepaling van het gemiddelde aantal in het desbetreffende jaar in een stal met een bodemsysteem met strooisel dan wel een deeppitstal gehouden kippen, van de onderscheiden diercategorieën, ten hoogste het aantal in aanmerking genomen:
+– dat als zodanig is vermeld op de milieuvergunning die van kracht is voor de desbetreffende stal, of
+– waarvan de heffingplichtige de huisvesting in de desbetreffende stal naar het oordeel van Onze Minister genoegzaam anderszins kan aantonen.
+3. Voor de toepassing van artikel 2 wordt voor de bepaling van het gemiddelde aantal in het desbetreffende jaar in een stal met een huisvestingssysteem waarvoor een keuringscertificaat van kracht is gehouden kippen van de diercategorie die in de bijlage bij dit besluit wordt aangeduid met nummer 301, ten hoogste het aantal in aanmerking genomen dat in het keuringscertificaat is genoemd.
