@@ -1,0 +1,2 @@
+# Artikel 5ter
+De Overeenkomstsluitende Partij op wier grondgebied een onderdaan van de andere Overeenkomstsluitende Partij een investering verricht of voornemens is te verrichten, stemt in met een verzoek van een zodanige onderdaan, om ieder geschil dat zich met betrekking tot deze investering zou kunnen voordoen voor arbitrage en bemiddeling voor te leggen aan het Centrum opgericht bij het Verdrag van Washington van 18 maart 1965 inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten.

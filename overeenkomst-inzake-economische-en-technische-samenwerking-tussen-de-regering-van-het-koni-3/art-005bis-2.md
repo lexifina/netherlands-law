@@ -1,0 +1,2 @@
+# Artikel 5bis
+De Overeenkomstsluitende Partij op wier grondgebied een door haar goedgekeurde investering is verricht, ten aanzien van welke investering de andere Overeenkomstsluitende Partij of een onderdaan daarvan enige financiële zekerheid heeft gesteld tegen niet-commerciële risico's, erkent de subrogatie van degene die deze zekerheid heeft gesteld in de rechten van de investeerder met betrekking tot schadevergoeding indien op grond van deze zekerheidstelling een betaling werd verricht.
