@@ -20,8 +20,8 @@
 ### Afdeling 3A. Het Centraal Fonds voor de Volkshuisvesting
 ### Afdeling 4. Voorzieningen in het belang van de volkshuisvesting vanwege de gemeente of de provincie
 ### Afdeling 5. Verstrekking van geldelijke steun uit 's Rijks kas
-## Hoofdstuk VI. Organen en diensten voor de volkshuisvesting
-### Afdeling 1. Het staatstoezicht op de volkshuisvesting
+## Hoofdstuk VI. Het toezicht op de volkshuisvesting
+### Afdeling 1. Het toezicht van rijks- en provinciewege
 ### Afdeling 2. Gemeentelijk bouw- en woningtoezicht
 ## Hoofdstuk VII. Voorzieningen in geval van buitengewone omstandigheden
 ## Hoofdstuk VIII. Dwang- en strafbepalingen
