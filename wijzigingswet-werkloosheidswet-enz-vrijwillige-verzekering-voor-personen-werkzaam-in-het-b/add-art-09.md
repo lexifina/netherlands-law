@@ -1,0 +1,2 @@
+# Artikel IX
+De persoon die op de datum van inwerkingtreding van deze wet reeds vrijwillig verzekerd is, maar op grond van het bepaalde in artikel 53, eerste lid, onderdeel b, van de Werkloosheidswet, artikel 64, tweede lid, onderdeel b, van de Ziektewet en artikel 81, tweede lid, onderdeel b, van de Wet op de Arbeidsongeschiktheidsverzekering na inwerkingtreding van deze wet niet kan worden toegelaten tot de vrijwillige verzekering, blijft vrijwillig verzekerd.

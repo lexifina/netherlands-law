@@ -1,0 +1,2 @@
+# Artikel VIII
+De termijnen voor de duur van de werkzaamheden in het buitenland als bedoeld in artikel 53, eerste lid, onderdeel a, van de Werkloosheidswet, artikel 64, tweede lid, onderdeel a, van de Ziektewet en artikel 81, tweede lid, onderdeel a, van de Wet op de arbeidsongeschiktheidsverzekering worden voor de persoon, die reeds vrijwillig verzekerd was dan wel met toepassing van het bepaalde in artikel VII wordt toegelaten tot de vrijwillige verzekering, gerekend vanaf de datum van inwerkingtreding van deze wet.
