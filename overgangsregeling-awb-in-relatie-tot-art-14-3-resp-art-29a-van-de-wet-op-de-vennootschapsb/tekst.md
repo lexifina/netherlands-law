@@ -1,0 +1,14 @@
+# Tekst
+De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten
+## 1 Inleiding
+Vóór het in werking treden van de Algemene wet bestuursrecht, per 1 januari 1994, diende de beslissing op een verzoek om toepassing van artikel 14, derde lid, resp. artikel 29a van de Wet op de vennootschapsbelasting 1969 (hierna Wet Vpb'69) de vorm te hebben van een uitspraak van de inspecteur, waartegen beroep bij het Gerechtshof openstond. Vanaf 1 januari 1994 dient te worden beslist door middel van een voor bezwaar vatbare beschikking, ook als het verzoek is ingediend vóór die datum.
+Naar aanleiding van de wijzigingen zijn de besluiten van 1 juli 1993, nrs. DB93/2165M en DB93/2167M (Vpb'69, nr. 1.01.70 en Vpb'69, nr. 1.01.71) aangepast; zie de 1e herdruk d.d. 11 januari 1994.
+Mij is gebleken dat onduidelijkheid bestaat met betrekking tot de behandeling en afdoening van verzoeken om toepassing van artikel 14, derde lid, resp. artikel 29a van de Wet Vpb'69, welke zijn ingediend vóór het in werking treden van de Awb en waarop na het in werking treden van die wet wordt beslist.
+Dienaangaande deel ik u het volgende mede.
+## 2 Overgangsregeling
+In de Wet van 16 december 1993 (voltooiing eerste fase herziening rechterlijke organisatie), Stb. 1993, 650 en de Wet van 23 december 1993 (Aanpassingswet Awb III), Stb. 1993, 690, zijn overgangsbepalingen met betrekking tot het inwerkingtreden van de Algemene wet bestuursrecht opgenomen.
+In artikel I, eerste lid, van de vorenbedoelde Wet van 16 december 1993 is het volgende bepaald: 'Ten aanzien van het nemen van besluiten die zijn aangevraagd voor de datum van inwerkingtreding van deze wet ......., blijft het recht zoals het gold voor dat tijdstip van toepassing.'
+Ter verduidelijking merk ik op dat deze overgangsbepaling slechts betrekking heeft op het nemen (d.w.z. de totstandkoming) van het besluit, doch niet op de vorm die aan het besluit dient te worden gegeven.
+Voorts blijkt uit de memorie van toelichting bij vorenbedoeld wetsvoorstel dat voor de (on)mogelijkheid bezwaar te maken of beroep in te stellen, cruciaal is het tijdstip van bekendmaking van het bestreden besluit. Hieruit volgt dat tegen een besluit dat na inwerkingtreding van de Awb is genomen, het rechtsmiddel van bezwaar openstaat.
+Het vorenstaande impliceert dat de inspecteur een, naar aanleiding van een verzoek als vorenbedoeld, genomen besluit de vorm geeft van een voor bezwaar vatbare beschikking, waartegen het rechtsmiddel van bezwaar openstaat. De procedurele- en termijnbepalingen van de Awb zijn hierop van toepassing.
+Gelet op het vorenstaande kunnen ook met betrekking tot verzoeken die vóór de inwerkingtreding van de Awb zijn ingediend doch waarop na die datum wordt beslist, de modellen die als bijlage bij de eerste herdruk d.d. 11 januari 1994 (nr. DB93/4630M) van het besluit van 1 juli 1993, nr. DB93/2167M (Vpb'69, nr. 1.01.71) zijn opgenomen, zonder meer worden gebruikt.
