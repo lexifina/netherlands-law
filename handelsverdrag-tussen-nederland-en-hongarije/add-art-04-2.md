@@ -1,0 +1,4 @@
+# IV
+1. De aan rechten onderworpen en als monsters dienende voorwerpen, met uitzondering van de goederen, waarvan de invoer is verboden, zullen wederzijds onder tijdelijke vrijstelling van rechten worden toegelaten, mits in acht worden genomen de douaneformaliteiten, noodig om hunnen algeheelen wederuitvoer te verzekeren.
+2. De herkenningsmerken, door de autoriteiten van een der Hooge Verdragsluitende Partijen op de monsters aangebracht, zullen ter vaststelling van hun identiteit door de autoriteiten van de andere Partij worden erkend, met dien verstande, dat deze de bevoegdheid zullen hebben om in alle gevallen, waar hun zulks noodig zal voorkomen, daarnaast de nationale herkenningsmerken aan te brengen.
+3. Het voorrecht van dezen vrijdom van invoerrechten kan worden ingetrokken voor die reizigers en handelshuizen, die zich niet houden aan de vastgestelde voorwaarden.

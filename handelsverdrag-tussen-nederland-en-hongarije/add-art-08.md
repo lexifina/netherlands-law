@@ -1,0 +1,2 @@
+# VIII
+La présente Convention sera ratifiée et les ratifications seront échangées à Budapest aussitôt que faire se pourra. Elle entrera en vigueur quinze jours après l'échange des ratifications et demeurera obligatoire pendant une année à partir du jour de son entrée en vigueur avec tacite réconduction pour une même période chaque fois où elle ne sera pas dénoncée par une des Hautes Parties Contractantes au moins six mois avant l'échéance.

@@ -1,0 +1,4 @@
+# II
+1. Les sociétés anonymes et autres sociétés commerciales, industrielles ou financières, y compris les compagnies de navigation, qui ont leur siége sur le territoire de l'une des Hautes Parties Contractantes et qui d'après les lois de cette Partie y sont légalement constituées, seront autorisées également sur le territoire de l'autre Partie à défendre tous leurs droits et spécialement à ester en justice, en se soumettant aux lois et ordonnances y relatives, en vigueur sur le territoire de cette autre partie.
+2. L'admission des sociétés énoncées ci-dessus, légalement constituées sur le territoire de l'une des Hautes Parties Contractantes, sur le territoire de l'autre Partie, sera régie par les lois et ordonnances en vigueur sur le territoire de l'Etat respectif.
+3. Toutes les sociétés, une fois légalement établies, jouiront à tout égard du traitement sur le pied de la nation la plus favorisée.
