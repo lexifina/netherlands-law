@@ -1,0 +1,4 @@
+# Artikel 46e
+1. De in artikel 46d aan de Minister van Binnenlandse Zaken toegekende bevoegdheden worden uitgeoefend na overleg met de betrokken werkgevers of verenigingen van werkgevers en de centrales van overheidspersoneel, verenigd in de Raad voor het Overheidspersoneelsbeleid.
+2. In het in het eerste lid bedoelde overleg hebben de centrales van overheidspersoneel evenveel stemmen als de betrokken werkgevers of verenigingen van werkgevers.
+3. Voor een besluit als bedoeld in de artikelen 8, tweede en derde lid en 39 van deze Wet behoeft Onze Minister van Binnenlandse Zaken de instemming van twee derde van de deelnemers aan het in het eerste lid bedoelde overleg. Voor een besluit als bedoeld in de artikelen 5, 37, 38 en 41, tweede lid, van deze Wet behoeft Onze Minister van Binnenlandse Zaken de instemming van de meerderheid van de deelnemers aan het in het eerste lid bedoelde overleg.

@@ -1,0 +1,2 @@
+# Artikel 23c
+Indien de ondernemingsraad aan een onderdeelcommissie de bevoegdheid heeft toegekend tot het plegen van overleg met degene die de leiding heeft van het betrokken onderdeel, zijn ten aanzien van dat overleg de artikelen 17, 22, 23, 23a, tweede, vierde en zesde lid, 23b, 24, eerste lid, 25, 27, 28, 31a, eerste, zesde en zevende lid, 31b en 31c van overeenkomstige toepassing. In dit overleg kunnen geen aangelegenheden worden behandeld die in het overleg met de ondernemingsraad worden behandeld.
