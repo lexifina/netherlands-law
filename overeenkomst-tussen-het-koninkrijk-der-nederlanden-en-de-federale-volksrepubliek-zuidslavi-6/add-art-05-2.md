@@ -1,0 +1,4 @@
+# Artikel V
+1. Aan de aangewezen onderneming of ondernemingen zal een rechtvaardige en billijke behandeling worden verzekerd bij de exploitatie van de in de Bijlage vastgestelde diensten.
+2. De bovengenoemde diensten van elke Overeenkomstsluitende Partij zullen als eerste doel hebben een vervoerscapaciteit te verschaffen, die aangepast is aan de normale en redelijkerwijze te verwachten behoeften aan luchtverkeer tussen het grondgebied van de Overeenkomstsluitende Partij die de exploiterende ondernemingen heeft aangewezen en de landen van uiteindelijke bestemming van het verkeer.
+3. Bij de exploitatie van de bedoelde diensten zal de totale capaciteit welke door de ondernemingen, aangewezen door de beide Overeenkomstsluitende Partijen, wordt verschaft op dezelfde trajecten welke op hun wederzijdse grondgebieden uitkomen in een redelijke verhouding moeten staan tot de vraag naar luchtvervoer.
