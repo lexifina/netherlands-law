@@ -1,0 +1,2 @@
+# ARTIKEL IX
+Ten aanzien van belastingen van provincies, gemeenten en waterschappen die betrekking hebben op belastingtijdvakken die zijn aangevangen voor het tijdstip van inwerkingtreding van deze wet, en op belastbare feiten die zich voor dat tijdstip hebben voorgedaan, blijven hoofdstuk XV van de Provinciewet, onderscheidenlijk de bepalingen in hoofdstuk XV van de Gemeentewet en in de hoofdstukken XVII en XVIII van de Waterschapswet van toepassing zoals die luidden voor de inwerkingtreding van deze wet.
