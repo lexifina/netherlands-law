@@ -1,0 +1,3 @@
+# I
+Afgezien van de Moersloot, zijnde de grens tusschen de provincie Groningen en Oostfriesland, waaromtrent eene bijzondere regeling blijft voorbehouden, wordt de afwatering der evengenoemde deelen van het Koningrijk Pruissen en van dat der Nederlanden geheel gescheiden, in dier voege dat Groningen voortaan uitsluitend op de grensrivier de Aa, Oostfriesland daarentegen uitsluitend naar de Eems zal afwateren.
+Dien ten gevolge wordt door Pruissen in de opruiming zoowel van de Krombeks- als van de zogenaamde Roode Pomp toegestemd, terwijl het Wijmeerster Zijldiep, zoowel als de afwatering van den Heinitz-polder, die tot nu toe in de Aa uitmondden, in den volgens § II te maken nieuwen Pruissischen polder en voorts daar doorheen naar de Eems geleid zullen worden.
