@@ -1,0 +1,3 @@
+# Artikel IV
+1. De behandeling van een tegen een octrooigemachtigde gerezen bedenking die op het tijdstip van inwerkingtreding van deze wet nog niet tot een beslissing van de Raad van Toezicht, bedoeld in artikel 18 van het Octrooigemachtigdenreglement, heeft geleid, geschiedt vanaf dat tijdstip door de raad van toezicht overeenkomstig het bij of krachtens de artikelen 23n tot en met 23x bepaalde.
+2. Ten aanzien van de behandeling van een tegen een octrooigemachtigde gerezen bedenking die op het tijdstip van inwerkingtreding van deze wet reeds tot een beslissing van de Raad van Toezicht heeft geleid, blijven de artikelen 15 tot en met 19 van het Octrooigemachtigdenreglement van toepassing zoals deze golden op het tijdstip van inwerkingtreding van deze wet.
