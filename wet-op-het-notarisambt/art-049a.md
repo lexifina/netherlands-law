@@ -1,0 +1,2 @@
+# Artikel 49a
+De erflater kan bij uiterste wilsbeschikking bepalen dat de in artikel 49, eerste lid, bedoelde afschriften, uittreksels en grossen van zijn uiterste wil niet mogen worden uitgegeven noch inzage in zijn uiterste wil mag worden verleend, voor zijn lijk is begraven of verbrand, met dien verstande dat zodanig uitstel niet meer mag bedragen dan vijf dagen na het overlijden van de erflater.
