@@ -1,0 +1,8 @@
+# Artikel IV. Overgangsrecht fusie per 1-8-1993
+1. Indien een school of scholengemeenschap:
+a. op 1 augustus 1993 met toepassing van artikel 75a van de Wet op het voortgezet onderwijs is ontstaan door samenvoeging, en
+b. het aantal formatierekeneenheden waarop deze school of scholengemeenschap ingevolge de voorschriften, bedoeld in artikel II, eerste lid, onderdelen a tot en met d, aanspraak heeft, lager is dan het gezamenlijke aantal formatierekeneenheden waarop de scholen of scholengemeenschappen waaruit door de samenvoeging de school of scholengemeenschap is ontstaan, aanspraak zouden hebben ingevolge de voorschriften van artikel II, eerste lid, onderdelen a, c en d, zoals die voorschriften luidden op 31 juli 1993, en onderdeel b, zoals die voorschriften luiden op 1 augustus 1993, wordt het aantal formatierekeneenheden met dit verschil verhoogd wat het schooljaar 1993-1994 en het schooljaar 1994-1995 betreft.
+2. De in het eerste lid bedoelde verhoging:
+a. is ten aanzien van scholengemeenschappen v.w.o./a.v.o./v.b.o. als bedoeld in het Formatiebesluit scholen v.w.o.-a.v.o.-v.b.o. eveneens van toepassing wat het schooljaar 1995-1996 betreft, en
+b. is ten aanzien van scholengemeenschappen v.w.o./h.a.v.o./m.a.v.o./v.b.o. als bedoeld in het Formatiebesluit v.w.o.-a.v.o.-v.b.o. eveneens van toepassing wat het schooljaar 1995-1996 en het schooljaar 1996-1997 betreft.
+3. In afwijking van artikel 19, derde lid, van het Formatiebesluit dagscholen v.w.o.-a.v.o.-v.b.o., deelt het bevoegd gezag van een school of scholengemeenschap die met ingang van 1 augustus 1993 door samenvoeging ontstaat, indien het eerste lid, onderdeel b, geen toepassing kan vinden, het in dat derde lid bedoelde besluit uiterlijk op 31 juli 1993 aan Onze Minister mede.
