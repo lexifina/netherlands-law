@@ -1,0 +1,2 @@
+# Artikel III
+Deze beschikking treedt in werking met ingang van 1 januari 1996.
