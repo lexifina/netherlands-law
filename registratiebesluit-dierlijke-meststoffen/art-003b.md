@@ -1,0 +1,4 @@
+# Artikel 3b
+1. De in artikel 2, vijfde lid, onderdeel a, bedoelde aantallen dieren worden, indien het betreft vossen en nertsen, opgegeven aan de hand van de bezetting op 31 december 1990 alsmede aan de hand van de bezetting op een ander tijdstip in 1990, en bepaald door het totaal van deze opgaven, gedeeld door twee.
+2. In afwijking van het bepaalde in het eerste lid, kunnen de in dat lid bedoelde aantallen dieren, indien de bezetting in 1990 geen getrouw beeld geeft van de gebruikelijke bezetting op het bedrijf en onverminderd een opgave van de bezetting in 1990, worden opgegeven aan de hand van de bezetting op 31 december 1989 alsmede aan de hand van de bezetting op een ander tijdstip in 1989, waarbij voor de bepaling van de aantallen dieren het in het eerste lid bepaalde van overeenkomstige toepassing is.
+3. Het derde lid van artikel 3 is van overeenkomstige toepassing.
