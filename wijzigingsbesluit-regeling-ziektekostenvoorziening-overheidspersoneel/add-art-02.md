@@ -1,0 +1,2 @@
+# ARTIKEL II
+Nota's van kosten, bedoeld in artikel 7, onderdeel b, van de Regeling ziektekostenvoorziening overheidspersoneel die een datum dragen vóór de datum van inwerkingtreding van dit besluit, en die niet tot uitkering hebben geleid bij een aanvraag omdat die niet zijn betaald in het tijdvak waarop die aanvraag betrekking had, worden bij een aansluitende aanvraag voor vergoeding in aanmerking genomen.
