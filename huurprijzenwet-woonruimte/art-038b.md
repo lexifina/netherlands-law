@@ -1,2 +1,0 @@
-# Artikel 38b
-In elke rechtsvordering terzake van hetgeen onverschuldigd mocht zijn betaald in verband met een overeenkomst als bedoeld in artikel 11a, eerste lid, waarbij partijen slechts de hoogte van de prijs en niet die van de huurprijs zijn overeengekomen, wordt een uitspraak van de huurcommissie, als bedoeld in artikel 11a, tweede lid, dan wel beschikking van de kantonrechter, als bedoeld in artikel 14, tweede lid, overgelegd.
