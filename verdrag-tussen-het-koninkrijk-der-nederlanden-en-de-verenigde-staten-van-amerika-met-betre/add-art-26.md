@@ -1,0 +1,3 @@
+# Artikel XXVI
+(1) De autoriteiten van elk der Verdragsluitende Staten kunnen in overeenstemming met het gebruik in die Staat, uitvoeringsbepalingen vaststellen, nodig om de bepalingen van dit Verdrag uit te voeren.
+(2) Ten aanzien van de bepalingen van dit Verdrag met betrekking tot de uitwisseling van inlichtingen en de wederkerige bijstand bij de inning der belastingen, kunnen de bevoegde autoriteiten in gemeenschappelijk overleg regelen vaststellen betreffende de te volgen gedragslijn, de formulieren voor aanvragen en voor antwoorden daarop, de herleiding van de munt, de beschikking over de geïnde bedragen, de minima der voor invordering in aanmerking komende bedragen, en dergelijke zaken.

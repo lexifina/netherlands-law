@@ -1,0 +1,2 @@
+# Artikel X
+Een inwoner of een lichaam van een van de Verdragsluitende Staten, uit bronnen in de andere Verdragsluitende Staat royalty's genietende terzake van de exploitatie van mijnen, steengroeven of natuurlijke hulpbronnen, of huren van onroerend goed, is bevoegd te verkiezen voor enig belastingjaar aan de belasting van die andere Staat op die inkomsten te worden onderworpen naar de zuivere opbrengst daarvan.

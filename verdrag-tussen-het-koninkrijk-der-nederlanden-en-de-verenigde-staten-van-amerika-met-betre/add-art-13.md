@@ -1,0 +1,2 @@
+# Artikel XIII
+Een Nederlands lichaam zal zijn vrijgesteld van belasting van de Verenigde Staten op zijn onverdeelde of niet uitgekeerde verdiensten, winsten, inkomsten of reserves, indien het ten genoegen van de bevoegde autoriteiten der Verenigde Staten kan aantonen, dat natuurlijke personen (anderen dan burgers van de Verenigde Staten) die inwoner van Nederland zijn, gedurende de laatste helft van het belastingjaar, middellijk of onmiddellijk, onafgebroken meer dan 50 percent van het gehele stemrecht in bedoeld lichaam hebben beheerst.

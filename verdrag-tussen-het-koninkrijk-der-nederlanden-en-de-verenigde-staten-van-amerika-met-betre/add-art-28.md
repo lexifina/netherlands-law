@@ -1,0 +1,3 @@
+# Artikel XXVIII
+(1) Dit Verdrag zal worden bekrachtigd en de bekrachtigingsoorkonden zullen zo spoedig mogelijk worden uitgewisseld te Washington.
+(2) Dit Verdrag treedt in werking de eerste Januari voorafgaande aan het jaar waarin de uitwisseling van de bekrachtigingsoorkonden plaats vindt. Het blijft van kracht gedurende een tijdvak van vijf jaren, te beginnen met gemelde datum en voor onbepaalde tijd daarna, doch kan door elke Verdragsluitende Staat worden opgezegd aan het einde van het tijdvak van vijf jaren of op ieder tijdstip daarna, mits tenminste zes maanden eerder een kennisgeving van opzegging is afgegeven, tredende de gevolgen der opzegging in werking op de eerste Januari na het verstrijken van het tijdvak van zes maanden.

@@ -1,0 +1,7 @@
+# Artikel XVI
+(1) Een natuurlijke persoon, die inwoner is van een der Verdragsluitende Staten is vrijgesteld van belasting geheven door de andere Verdragsluitende Staat ter zake van inkomsten uit persoonlijke diensten, indien
+(a) hij in de laatstbedoelde Verdragsluitende Staat verblijf houdt voor een tijdvak of tijdvakken, welke in het belastingjaar een totaal van 183 dagen niet te boven gaan, en
+(b) in het geval van inkomsten uit dienstbetrekking
+(i) deze natuurlijke persoon een werknemer is van een inwoner of een lichaam van een andere Staat dan de laatstbedoelde Verdragsluitende Staat, of van een vaste inrichting van een inwoner of een lichaam van laatstbedoelde Verdragsluitende Staat gelegen buiten laatstbedoelde Verdragsluitende Staat, en
+(ii) deze inkomsten bij de berekening van de voordelen van een vaste inrichting in de laatstbedoelde Verdragsluitende Staat niet als zodanig worden afgetrokken.
+(2) Voor de toepassing van het eerste lid omvat de uitdrukking „inkomsten uit persoonlijke diensten" inkomsten uit dienstbetrekking en inkomsten die door een natuurlijke persoon worden verdiend met het verrichten van persoonlijke diensten in een zelfstandige hoedanigheid. De uitdrukking „inkomsten uit dienstbetrekking" omvat mede inkomsten uit diensten verricht door leidinggevende personeelsleden van lichamen, maar omvat niet inkomsten uit persoonlijke diensten verricht door vennoten.
