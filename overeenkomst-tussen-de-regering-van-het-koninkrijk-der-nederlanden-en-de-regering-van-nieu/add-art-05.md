@@ -1,0 +1,2 @@
+# V. Ad Artikel 10, 11 en 12
+Indien Nieuwzeeland in een toekomstige overeenkomst tot het vermijden van dubbele belasting met een ander land dat lid is van de Organisatie van Economische Samenwerking en Ontwikkeling zijn bronheffing op dividenden, interest en royalty's mocht beperken tot een tarief dat lager is dan dat waarin een van de voornoemde artikelen voorziet, gaat Nieuwzeeland zo spoedig mogelijk onderhandelingen aan met Nederland om het desbetreffende artikel te herzien ten einde Nederland dezelfde behandeling te verlenen.

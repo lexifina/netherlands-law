@@ -1,0 +1,2 @@
+# XI
+Indien Nieuwzeeland te eniger tijd na de datum van ondertekening van de Overeenkomst in een van zijn Overeenkomsten tot het vermijden van dubbele belasting een bepaling inzake non-discriminatie opneemt, stelt de Regering van Nieuwzeeland de Regering van het Koninkrijk der Nederlanden hiervan zo spoedig mogelijk in kennis en gaat met de Regering van het Koninkrijk der Nederlanden onderhandelingen aan ten einde een dergelijk artikel in de heden gesloten Overeenkomst te doen opnemen.

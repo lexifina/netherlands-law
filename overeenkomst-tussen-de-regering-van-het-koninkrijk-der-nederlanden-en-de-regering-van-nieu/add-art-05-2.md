@@ -1,0 +1,2 @@
+# V. With reference to Articles 10, 11 and 12
+If in any future double taxation convention with any other country, being a member of the Organisation for Economic Co-operation and Development, New Zealand should limit its taxation at source on dividends, interest and royalties to a rate lower than the one provided for in any of such articles, New Zealand shall without undue delay enter into negotiations with the Netherlands to review the appropriate article with a view to providing the same treatment.
