@@ -1,0 +1,2 @@
+# ARTIKEL VII
+Degene aan wie overeenkomstig artikel 118, derde tot en met vijfde lid, van de Mediawet, zoals dat artikel luidde op de dag voor de datum van inwerkingtreding van deze wet, de mogelijkheid is geboden de omroepbijdrage A in twee dan wel vier termijnen te voldoen, behoeft termijnbetalingen die uitsluitend betrekking hebben op perioden die aanvangen na het tijdstip van inwerkingtreding van deze wet, niet te voldoen.

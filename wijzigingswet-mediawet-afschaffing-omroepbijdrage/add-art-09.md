@@ -1,0 +1,3 @@
+# ARTIKEL IX
+1. Bij algemene maatregel van bestuur kunnen tot twee jaar na inwerkingtreding van deze wet, in gevallen waarin deze wet niet voorziet, regels worden gesteld.
+2. In een algemene maatregel van bestuur als bedoeld in het eerste lid kan bepaald worden dat bij invordering van nog niet betaalde omroepbijdragen waarvan de verschuldigdheid is ontstaan voor het tijdstip van inwerkingtreding van deze wet bedragen tot ten hoogste € 4,54 niet worden ingevorderd en dat bij restitutie van reeds betaalde omroepbijdrage over tijdvakken die liggen na het tijdstip van inwerkingtreding van deze wet bedragen van ten hoogste € 0,45 niet worden gerestitueerd. Over te restitueren bedragen wordt geen rente vergoed.
