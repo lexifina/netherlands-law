@@ -1,0 +1,2 @@
+# VI. Ad artikelen 10, 11 en 12
+Indien aan de bron een belasting is geheven die het belastingbedrag dat ingevolge de bepalingen van artikel 10, 11 of 12 mag worden geheven te boven gaat, moeten verzoeken om teruggaaf van het daarboven uitgaande belastingbedrag worden ingediend bij de bevoegde autoriteit van de Overeenkomstsluitende Staat die de belasting heeft geheven, binnen een tijdvak van driejaar na afloop van het kalenderjaar waarin de belasting is geheven.
