@@ -1,0 +1,11 @@
+# Artikel XIV. Schorsing van de werkzaamheden en liquidatie van het Fonds
+Eerste lid. - Schorsing van de werkzaamheden
+Indien het College van Bewindvoerders besluit de werkzaamheden van het Fonds te schorsen, staakt het Fonds onmiddellijk alle activiteiten, met uitzondering van de activiteiten samenhangend met het nakomen van zijn verplichtingen en het op de juiste wijze te gelde maken, in stand houden en veilig stellen van zijn activa.
+Tweede lid. - Uittreden van Leden
+Elk Lid kan uit het Fonds treden na hiervan zes maanden voor het einde van het lopende boekjaar kennisgeving te hebben gedaan. De voorwaarden daarvoor worden vastgesteld door het College van Bewindvoerders.
+Derde lid. - Liquidatie van het Fonds
+Nadat aan alle geldelijke verplichtingen van het Fonds, met inbegrip van uitoefening van de rechten op verdeling die eerder door het Fonds zijn toegekend bij het aanvaarden van bijdragen krachtens artikel V, is voldaan of voorzieningen dienaangaande zijn getroffen, kunnen de Leden van het Fonds een plan aannemen voor de verdeling van de activa, dat gebaseerd is op de volgende grondregels:
+(a) Een Lid van het Fonds waarop het Fonds een vordering heeft, is niet gerechtigd deel te nemen aan de verdeling krachtens dit plan, totdat het zijn positie heeft geregulariseerd.
+(b) Indien de netto activa van het Fonds dit toelaten, ontvangt elk Lid van het Fonds als zijn aandeel in de verdeling het bedrag dat hij krachtens artikel IV betaald heeft in dezelfde munteenheid of, indien dat niet mogelijk is, de tegenwaarde daarvan op het tijdstip van de verdeling in andere munteenheden. Indien de netto activa van het Fonds de volledige teruggave van dat aandeel niet toelaten, wordt het eventuele tekort naar evenredigheid omgeslagen over alle Leden.
+(c) Een eventueel overschot aan netto activa van het Fonds boven het totaal van de verdeelde aandelen, wordt uitgekeerd aan alle Leden van het Fonds en wel naar evenredigheid van het aantal deelnemingsbewijzen dat elk Lid bezit.
+(d) Wanneer deze aandelen aan Leden van het Fonds uitbetaald worden in de munteenheid van andere Leden van het Fonds, nemen deze laatsten de nodige maatregelen om, overeenkomstig de krachtens hun wisselkoersvoorschriften bepaalde procedure, transacties met de aldus uitgekeerde bedragen te verzekeren.

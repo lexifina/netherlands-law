@@ -1,0 +1,4 @@
+# Artikel II. Doel
+Het doel van het Fonds is hulp te bieden bij het oplossen van de problemen waarmede de Europese landen worden of kunnen worden geconfronteerd als gevolg van de aanwezigheid van bevolkingsoverschotten, met inbegrip van nationale vluchtelingen, door het verschaffen of het garanderen van leningen ter financiering van:
+(a) integratieprogramma's die door een Lid van het Fonds zijn goedgekeurd overeenkomstig artikel VI van dit Statuut en waarmede wordt beoogd voor deze mensen nieuwe kansen op werkgelegenheid te scheppen;
+(b) door een Lid van het Fonds goedgekeurde vestigingsprogramma's die voorzien in het verstrekken van leningen aan of het doen van uitgaven ten behoeve van in Europa verblijvende personen die zich willen vestigen in een land binnen of buiten Europa en die zich verplichten tot terugbetaling van het bedrag van deze leningen of uitgaven voor zover deze door het Fonds zijn gefinancierd.
