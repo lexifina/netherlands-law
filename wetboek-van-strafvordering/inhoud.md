@@ -41,6 +41,7 @@
 #### afdeling Vijfde. Bevoegdheden in een besloten plaats
 #### afdeling Zesde. Opnemen van vertrouwelijke communicatie met een technisch hulpmiddel
 #### afdeling Zevende. Onderzoek van telecommunicatie
+#### afdeling Achtste. Vorderen van gegevens van instellingen in de financiële sector
 ### Titel V. Bijzondere bevoegdheden tot opsporing voor het onderzoek naar het beramen of plegen van ernstige misdrijven in georganiseerd verband
 ### Titel VA. Bijstand aan opsporing door burgers
 #### afdeling Eerste. Verzoek informatie in te winnen
