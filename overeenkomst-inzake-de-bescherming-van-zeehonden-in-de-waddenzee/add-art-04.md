@@ -1,0 +1,2 @@
+# IV. Plan voor behoud en beheer
+De Partijen ontwikkelen een plan voor behoud en beheer voor de zeehondenpopulatie op basis van wetenschappelijke kennis. Dit plan zal een uitvoerige uiteenzetting bevatten van alle acties die ondernomen worden of ondernomen zullen worden om de doelstellingen van deze Overeenkomst te bereiken. De Partijen zullen geregeld van gedachten wisselen over het plan en het waar nodig wijzigen, vooral met inachtneming van de resultaten van wetenschappelijk onderzoek.

@@ -1,0 +1,2 @@
+# XI. Wijziging van de overeenkomst
+Elke Partij heeft het recht wijzigingen in de Overeenkomst voor te stellen. Dergelijke voorgestelde wijzigingen worden voorgelegd aan de Depositaris die ze ter kennis van alle Partijen brengt. De Partijen stellen de Depositaris zo spoedig mogelijk na ontvangst van de kennisgeving op de hoogte van hun aanvaarding of verwerping van de wijziging. De wijziging treedt in werking 90 dagen nadat de Depositaris de kennisgevingen van aanvaarding van de betreffende wijziging van alle Partijen heeft ontvangen.

@@ -1,0 +1,2 @@
+# XVII. Opzegging
+Elke Partij kan deze Overeenkomst te allen tijde opzeggen na afloop van een periode van vijf jaar vanaf de datum van inwerkingtreding van deze Overeenkomst, door middel van een aan de Depositaris gerichte schriftelijke kennisgeving met ingang van het einde van een kalenderjaar. Deze Overeenkomst wordt beëindigd twaalf maanden nadat de Depositaris een dergelijke kennisgeving heeft ontvangen.
