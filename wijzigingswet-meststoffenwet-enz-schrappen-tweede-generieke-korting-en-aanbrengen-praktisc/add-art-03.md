@@ -1,0 +1,3 @@
+# Artikel III
+1. Indien toepassing van artikel I, onderdeel V, voor de jaren 1998 tot en met 2002 leidt tot een lagere belastbare hoeveelheid fosfaat, onderscheidenlijk stikstof, kan de aangifte of de naheffingsaanslag door de inspecteur worden herzien bij voor bezwaar vatbare beschikking.
+2. De in het eerste lid bedoelde herziening kan worden bepaald op basis van het gemiddelde aantal in het desbetreffende kalenderjaar op het bedrijf gehouden varkens van de onderscheiden diercategorieën, genoemd in bijlage A bij de Meststoffenwet, en op basis van bij ministeriële regeling vast te stellen correctiefactoren, uitgedrukt in kilogrammen fosfaat, onderscheidenlijk stikstof.

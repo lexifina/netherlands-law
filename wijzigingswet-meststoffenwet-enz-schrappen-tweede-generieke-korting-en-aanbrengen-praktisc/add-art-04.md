@@ -1,0 +1,5 @@
+# Artikel IV
+Artikel 16, tweede lid, van de Wet herstructurering varkenshouderij is niet van toepassing bij een samenvoeging van bedrijven indien is voldaan aan elk van de volgende voorwaarden:
+a. de afstand tussen de stallen van de bedrijven die worden samengevoegd is niet groter dan 10 kilometer;
+b. op het moment waarop de kennisgeving, bedoeld in artikel 18, eerste lid, van de wet wordt gedaan, is ten minste één dezelfde persoon of rechtspersoon, of zijn verschillende personen waartussen bloed- of aanverwantschap in de eerste graad bestaat, gerechtigd tot de samen te voegen bedrijven ingevolge eigendom, een zakelijk gebruiksrecht of een door de grondkamer goedgekeurde pachtovereenkomst;
+c. met betrekking tot het voor de bij de samenvoeging betrokken bedrijven geldende mestproductierecht en pluimveerecht wordt tegelijk met de kennisgeving, bedoeld in artikel 18, eerste lid, van de wet een kennisgeving van verplaatsing, onderscheidenlijk een kennisgeving van overgang als bedoeld in artikel 58q, eerste lid, van de Meststoffenwet met betrekking tot de samenvoeging gedaan.
