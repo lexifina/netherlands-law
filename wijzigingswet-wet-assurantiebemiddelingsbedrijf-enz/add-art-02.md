@@ -1,0 +1,6 @@
+# Artikel II
+1. De ontheffingen van de verplichting tot inschrijving in het in artikel 20 bedoelde register, verleend op grond van de artikelen 2 of 4 van de Ontheffingsregeling Gevolmachtigde Agent (Stcrt. 1991, 61) worden op het moment van inwerkingtreding van deze wet van rechtswege omgezet in inschrijvingen in dat register. Daarbij blijft de verleende dispensatie van de vakbekwaamheidseisen vervat in die regeling in stand.
+2. De inschrijvingen in het register op grond van een verleende ontheffing op grond van artikel 9 van de Ontheffingsregeling Gevolmachtigde Agent blijven na inwerkingtreding van deze wet gehandhaafd.
+Daarbij blijft de verleende dispensatie van de vakbekwaamheidseisen in stand.
+3. Indien de gevolmachtigde agent niet een natuurlijk persoon is, geldt hetgeen in het eerste en tweede lid is bepaald met betrekking tot het instandblijven van de verleende dispensatie van de vakbekwaamheidseisen, slechts zolang degenen die voor 1 april 1991 belast waren met de feitelijke leiding van het verzekeringsbedrijf, op het kantoor of de kantoren van die agent als zodanig aldaar werkzaam zijn.
+4. Volmachten die voor 1 januari 1989 zijn opgemaakt in overeenstemming met de destijds ter beurze gebruikelijke volmachten worden gelijk gesteld met volmachten, opgemaakt overeenkomstig het model, bedoeld in artikel 21, eerste lid, onderdeel a.
