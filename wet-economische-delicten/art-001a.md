@@ -16,7 +16,7 @@ de Wet milieubeheer, artikel 1.2, eerste lid, - voor zover aangeduid als strafba
 de Wet milieugevaarlijke stoffen, de artikelen 2, 8, 24, 31, 59 en 63;
 de Wet rampen en zware ongevallen, – voor zover aangeduid als strafbare feiten – de artikelen 2c, eerste en derde lid, en 11b, tweede en derde lid;
 de Wet van 2 juli 1992, Stb. 415, tot uitbreiding en wijziging van de Wet algemene bepalingen milieuhygiëne en daarmee samenhangende wijzigingen van andere wetten (milieubeleidsplanning en milieukwaliteitseisen; provinciale milieuverordening, totstandkoming algemene maatregelen van bestuur), artikel XIX, voor zover het betreft provinciale verordeningen, vastgesteld krachtens artikel 36 of artikel 41 van de Wet bodembescherming;
-de Wet verontreiniging oppervlaktewateren, de artikelen 1, eerste, derde en vierde lid, 1b, 2a, 2c, tweede lid, 5, eerste lid, en 26;
+de Wet verontreiniging oppervlaktewateren, de artikelen 1, eerste, derde en vierde lid, 1b, 2a, 2c, tweede lid, 5, eerste lid, en 30a;
 de Wet verontreiniging zeewater, de artikelen 3, eerste lid, 4, en 11;
 de Wet verplaatsing mestproductie, de artikelen 2, 3, 4, en 9, vijfde lid;
 de Wet vervoer gevaarlijke stoffen, de artikelen 4, 5, 10, 11, 21, 24, 27, 29, 31 en 33;
@@ -38,7 +38,7 @@ de Wet voorkoming verontreiniging door schepen, de artikelen 6, tweede lid, 10, 
 3°. overtredingen van voorschriften, gesteld bij of krachtens:
 de Bestrijdingsmiddelenwet 1962, de artikelen 2, vijfde, zesde en zevende lid, 5a, derde lid, 9, vijfde lid, 10, tweede lid, 11 tot en met 15 en 16a;
 de Destructiewet, de artikelen 3, eerste, tweede en derde lid, 4a, 6, 9, 10, eerste en vijfde lid, 11, 12, 13, eerste, tweede, derde, vierde en vijfde lid, 15, 17, eerste lid, en 25, vierde lid;
-de Flora- en faunawet, de artikelen 10, 16, 37, eerste en tweede lid, 38, eerste lid, 50, eerste, tweede en derde lid, 51, 52, 53, 54, eerste lid, 58, 59, tweede lid, 60, vijfde lid, 62, eerste lid, 63, eerste lid, 64, tweede lid, 67, zesde lid, 72, vijfde lid, 74, eerste lid, 79, tweede lid, 81, eerste lid, en 111, eerste lid.
+de Flora- en faunawet, de artikelen 10, 16, 37, eerste en tweede lid, 38, eerste lid, 50, eerste, tweede en derde lid, 51, 52, 53, 54, eerste lid, 58, 59, tweede lid, 60, vijfde lid, 62, eerste lid, 63, eerste lid, 64, tweede lid, 67, zesde lid, 72, vijfde lid, 74, eerste lid, 74a, eerste lid, 79, tweede lid, 81, eerste lid, en 111, eerste lid.
 de Grondwaterwet, artikel 11;
 de Kernenergiewet, de artikelen 36, eerste lid, en - voor zover aangeduid als strafbare feiten - 73;
 de Meststoffenwet, de artikelen 3, 4, 5, 6, 6a, 7, 7a, 42a, eerste lid, 58ae, vierde en zesde lid, 58aka, derde en vierde lid, 59, derde lid, en 61;
