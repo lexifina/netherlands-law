@@ -1,0 +1,2 @@
+# Article VI
+Each Government shall pay the remuneration of the member appointed by it. If the Japanese Government fails to appoint a member, it shall pay the remuneration of the member appointed on its behalf. The remuneration of the third member of each commission and the expences of each commission shall be fixed by, and borne in equal shares by the Government of the Allied Power and the Japanese Government.

@@ -1,0 +1,2 @@
+# Article VIII
+This Agreement shall be open for signature by the government of any state which is a signatory to the Treaty of Peace. This Agreement shall come into force between the Government of an Allied Power and the Japanese Government upon the date of its signature by the Government of the Allied Power and the Japanese Government, or upon the date of the entry into force of the Treaty of Peace between the Allied Power whose Government is a signatory hereto and Japan, whichever is the later.

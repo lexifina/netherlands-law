@@ -1,0 +1,2 @@
+# Artikel VI
+Elke Regering betaalt de beloning van het door haar benoemde lid. Indien de Japanse Regering nalaat een lid te benoemen, betaalt zij de beloning van het voor haar benoemde lid. De beloning van het derde lid van elke commissie en de onkosten van elke commissie worden vastgesteld en gezamenlijk gedragen door de Regering van de Geallieerde Mogendheid en de Japanse Regering, ieder voor de helft.

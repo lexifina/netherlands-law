@@ -1,0 +1,2 @@
+# Article II
+A commission for the purpose of this Agreement shall be appointed upon request to the Japanese Government made in writing by the Government of an Allied Power and shall be composed of three members; one, appointed by the Government of the Allied Power, one, appointed by the Japanese Government, and the third, appointed by mutual agreement of the two Governments. Each commission shall be known as the (name of the Allied Power concerned) - Japanese Property Commission.

@@ -1,0 +1,2 @@
+# Artikel VIII
+Deze Overeenkomst staat open voor ondertekening door de regering van iedere Staat, welke het Vredesverdrag heeft ondertekend. Deze Overeenkomst treedt tussen de Regering van een Geallieerde Mogendheid en de Japanse Regering in werking op de datum waarop de Regering van die Geallieerde Mogendheid en de Japanse Regering haar ondertekenen, of op de datum waarop het Vredesverdrag tussen de Geallieerde Mogendheid welker Regering deze Overeenkomst heeft ondertekend en Japan in werking treedt, al naar gelang welke datum de laatste is.

@@ -1,0 +1,2 @@
+# Artikel II
+Voor de toepassing van de bepalingen van deze Overeenkomst wordt, na een door de Regering van een Geallieerde Mogendheid aan de Japanse Regering gericht schriftelijk verzoek, een commissie benoemd welke zal bestaan uit drie leden: één te benoemen door de Regering van de Geallieerde Mogendheid, één te benoemen door de Japanse Regering, en het derde lid te benoemen in onderling overleg tussen de beide Regeringen. Elke commissie zal als volgt worden aangeduid: de (naam van de betrokken Geallieerde Mogendheid)-Japanse Eigendommen-Commissie.
