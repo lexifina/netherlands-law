@@ -1,0 +1,5 @@
+# Artikel II
+1. Met ingang van de inwerkingtreding van deze wet worden:
+a. het inkomen van een politiek ambtsdrager als bedoeld in de Algemene pensioenwet politieke ambtsdragers, als zodanig, alsmede het inkomen van degene die een functie vervult ter zake waarvan die wet van overeenkomstige toepassing is verklaard, uit die functie,
+b. de laatstelijk genoten wedde dan wel de berekeningsgrondslag, waarvan is afgeleid een uitkering ter zake van ontslag of aftreden als politiek ambtsdrager dan wel een overeenkomstige uitkering ter zake van ontslag of aftreden uit een functie als bedoeld onder a, in beide gevallen inbegrepen een zodanige wegens algemene invaliditeit voortgezette uitkering, aangepast overeenkomstig de aanpassing van de salarissen ingevolge artikel 34 van de Wet financiële voorzieningen privatisering ABP.
+2. De in het eerste lid bedoelde aanpassing is geen algemene bezoldigingswijziging als bedoeld in de artikelen 105 en 157 van de Algemene pensioenwet politieke ambtsdragers.
