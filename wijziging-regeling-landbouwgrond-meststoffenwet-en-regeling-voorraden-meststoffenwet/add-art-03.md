@@ -1,0 +1,2 @@
+# Artikel III
+In geval van niet-tijdige indiening van een formulier als bedoeld in artikel 3, eerste lid, van de Regeling landbouwgrond Meststoffenwet, waarop als datum van ingebruikneming van de grond een datum is vermeld welke is gelegen in de periode van 1 januari 1999 tot de dag waarop deze regeling in werking treedt, geldt als datum waarop de grond in gebruik is genomen de op het formulier vermelde datum, mits het formulier uiterlijk binnen zes weken na de dag van inwerkingtreding van deze regeling bij het bureau is ingediend.
