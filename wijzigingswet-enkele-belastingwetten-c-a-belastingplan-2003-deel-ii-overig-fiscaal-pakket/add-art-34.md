@@ -1,0 +1,2 @@
+# Artikel XXXIV
+De artikelen 26, derde lid, van de Algemene wet inzake rijksbelastingen en 5, tweede lid, van de Invorderingswet 1990 zoals deze luidden onmiddellijk voorafgaande aan de datum van inwerkingtreding van de artikelen XIV, onderdeel C, en XV, onderdeel B, blijven van toepassing op de belasting die betrekking heeft op tijdstippen of tijdvakken die zijn gelegen respectievelijk aangevangen voor die datum.
