@@ -1,0 +1,2 @@
+# Article VII
+This Agreement may be denounced by any contracting Party by written notice of denunciation given to the Government of the United States of America which will inform all the other signatory Parties of such notice. Denunciation shall take effect one year after receipt of notification by the Government of the United States of America but shall not affect obligations already contracted and the rights or prerogatives previously acquired by the signatory Parties under the provisions of this Agreement.

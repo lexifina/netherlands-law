@@ -1,0 +1,2 @@
+# Artikel II
+De bepalingen van artikel I worden toegepast op verzoek van, hetzij de regering van het land van oorsprong, hetzij de octrooiaanvrager, mits laatstgenoemde het bewijs levert dat de regering van het land van oorsprong de uitvinding aan geheimhouding heeft onderworpen en dat hij van die regering toestemming heeft verkregen om in het desbetreffende land een octrooiaanvrage onder geheimhouding in te dienen.

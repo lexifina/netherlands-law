@@ -1,0 +1,4 @@
+# Article I
+The Governments Parties to this Agreement shall safeguard and cause to be safeguarded the secrecy of inventions for which applications for patents have been received under agreed procedures whenever the secrecy has been imposed on such inventions in the interests of national defence by the Government, hereinafter referred to as the "originating Government", which was the first to receive an application for a patent covering these inventions.
+Provided that this provision shall not prejudice the right of the originating Government to prohibit the filing of an application for a patent for the invention with one or more of the other Governments Parties to this Agreement.
+The Governments Parties to this Agreement agree to develop such operational procedures as may be required to effectuate this Article.

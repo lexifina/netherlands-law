@@ -1,0 +1,2 @@
+# Artikel III
+De regering die wordt verzocht de geheimhouding van een uitvinding te verzekeren overeenkomstig het bij artikel I bepaalde heeft het recht, alvorens de nodige maatregelen ter verzekering van de geheimhouding te treffen, van de octrooiaanvrager te eisen dat hij afstand doet van elke vordering tot schadevergoeding die uitsluitend berust op de omstandigheid dat de uitvinding aan geheimhouding is onderworpen.
