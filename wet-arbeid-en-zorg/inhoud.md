@@ -29,11 +29,9 @@
 ##### De uitbetaling van de uitkering
 ##### Financiering
 ##### Van overeenkomstige toepassing zijnde artikelen
-#### § 2. De zelfstandige en de beroepsbeoefenaar op arbeidsovereenkomst
-##### Begrippen zelfstandige en beroepsbeoefenaar op arbeidsovereenkomst
+#### § 2. De beroepsbeoefenaar op arbeidsovereenkomst
+##### Begrip beroepsbeoefenaar op arbeidsovereenkomst
 ##### Recht op uitkering voor de beroepsbeoefenaar op arbeidsovereenkomst
-##### Recht op uitkering in verband met zwangerschap en bevalling voor de zelfstandige
-##### Recht op uitkering in verband met adoptie of pleegzorg voor de zelfstandige
 ##### Uitkering terzake van vervanging
 ##### Aanvraag van uitkering
 ##### De hoogte van de uitkering
@@ -44,7 +42,7 @@
 #### § 3. Slotbepalingen
 ##### Controlevoorschriften
 ##### Samenloop
-##### Uitvoering
+##### Overgangsrecht zelfstandigen en beroepsbeoefenaren op arbeidsovereenkomst
 ## Hoofdstuk 4. Calamiteiten- en ander kort verzuimverlof
 ### § 1. Verlofvormen
 #### Calamiteiten- en ander kort verzuimverlof
