@@ -1,0 +1,2 @@
+# Article I
+The Governments of the Islamic Republic of Iran and the United States of America, desiring to give effect to certain provisions of the Declaration of the Government of the Democratic and Popular Republic of Algeria of 19 January 1981, have selected, as a mutually agreeable central bank, De Nederlandsche Bank at Amsterdam, to assume the management of a bank which shall act as Depositary of the funds in the Security Account established by the foregoing Declaration.
