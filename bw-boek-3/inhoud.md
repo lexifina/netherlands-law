@@ -2,7 +2,8 @@
 ## Boek 3. Vermogensrecht in het algemeen
 ### Titel 1. Algemene bepalingen
 #### Afdeling 1. Begripsbepalingen
-#### Afdeling 1A. Het voeren van een administratie
+#### Afdeling 1A. Elektronisch vermogensrechtelijk rechtsverkeer
+#### Afdeling 1B. Het voeren van een administratie
 #### Afdeling 2. Inschrijvingen betreffende registergoederen
 ### Titel 2. Rechtshandelingen
 ### Titel 3. Volmacht
