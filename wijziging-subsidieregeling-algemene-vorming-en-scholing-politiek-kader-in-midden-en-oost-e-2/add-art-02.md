@@ -1,0 +1,2 @@
+# Artikel II
+Een rechtspersoon, bedoeld in artikel 1, eerste lid, van de Subsidieregeling Algemene Vorming en Scholing Politiek Kader in Midden- en Oost-Europa 1993–1996 die nog in 1994 uitgaven wil doen ten behoeve van activiteiten in landen, genoemd in artikel 1, eerste lid, onderdeel b, dient met het oog daarop uiterlijk 1 oktober 1994 een aanvullende begroting in bij de Minister van Binnenlandse Zaken.
