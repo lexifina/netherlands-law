@@ -1,4 +1,0 @@
-# Artikel II
-A. Tot 1 januari 1997 kan, in het geval de overlegging van een formulier, als bedoeld in bijlage IV is voorgeschreven, gebruik worden gemaakt van het formulier, zoals vastgesteld in bijlage IV van de In- en uitvoerbeschikking landbouwgoederen 1981, zoals deze luidde op 31 december 1995.
-B. Tot 1 januari 1997 kan, in het geval de overlegging van een formulier, als bedoeld in bijlage V is voorgeschreven, gebruik worden gemaakt van het formulier, zoals vastgesteld in bijlage V van de In- en uitvoerbeschikking landbouwgoederen 1981, zoals deze luidde op 31 december 1995.
-C. Tot 1 januari 1997 kan, in het geval de overlegging van een formulier, als bedoeld in de bis-lijst behorend bij bijlage V is voorgeschreven, gebruik worden gemaakt van het formulier, zoals vastgesteld in de bis-lijst behorend bij bijlage V van de In- en uitvoerbeschikking landbouwgoederen 1981, zoals deze luidde op 31 december 1995.
