@@ -6,6 +6,7 @@
 ### § 1. Vereisten voor een vergunning
 ### § 2. Regels voor vergunninghouders
 ### § 3. Gekwalificeerde deelnemingen in effecteninstellingen
+## Hoofdstuk III A. Financiële instellingen, niet zijnde vergunningplichtige effecteninstellingen
 ## Hoofdstuk IV. Intrekkingsbepalingen
 ## Hoofdstuk V. Register
 ## Hoofdstuk VI. Effectenbeurzen
@@ -17,6 +18,7 @@
 ## Hoofdstuk XII. Gebruik van voorwetenschap en publieksmisleiding
 ## Hoofdstuk XIIA. Onderzoek door onze minister
 ## Hoofdstuk XII B. Dwangsom en bestuurlijke boete
+## Hoofdstuk XIIC. Openbaarmaking van overtredingen
 ## Hoofdstuk XIII. Wijziging van andere wetten
 ## Hoofdstuk XIV. Slotbepalingen
 ## Artikel 1
