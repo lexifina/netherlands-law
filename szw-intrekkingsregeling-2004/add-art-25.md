@@ -1,0 +1,2 @@
+# Artikel XXV. Wet op de (re)integratie arbeidsgehandicapten
+De regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 21 december 1998, nr. SV/WV/98/42554, houdende vaststelling van het tijdstip van beëindiging van de toepasselijkheid van de Algemene Arbeidsongeschiktheidswet met betrekking tot de verstrekking van de blindengeleidehond en de doventolk voor de leefsfeer op grond van artikel 57, eerste en tweede lid, onderdeel b, (Stcrt. 248) wordt ingetrokken.
