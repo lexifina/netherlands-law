@@ -1,0 +1,13 @@
+# Tekst
+De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
+Aan mij is gevraagd wat de gevolgen voor de inkomstenbelasting en het schenkingsrecht zijn van de Startersregeling. De vraag met daarop gegeven antwoord is hierna opgenomen.
+De Startersregeling is een initiatief van gemeenten en de stichting Stimuleringsfonds Volkshuisvesting Nederlandse gemeenten (SVn). Uitgangspunt van de Starterslening is een flexibele lening. De lening overbrugt het verschil tussen de aankoopkosten van de woning en het bedrag dat de starter maximaal kan lenen volgens de normen van de Nationale Hypotheek Garantie.
+Het doel van de Starterslening is het stimuleren van het eigenwoningbezit door de gemeente, bijvoorbeeld bij verkoop van huurwoningen door woningbouwcorporaties maar ook bij nieuwbouwprojecten. De lening wordt door de gemeente verstrekt via SVn. SVn beheert per deelnemende gemeente een revolverend fonds. Namens de gemeente verstrekt SVn uit dit fonds zogeheten laagrentende stimuleringsleningen, waar onder de Starterslening. De Startersregeling is een kaderregeling die door de gemeenten nader ingevuld kan worden. De gemeente bepaalt de doelgroep (bijvoorbeeld: van minimumloon tot en met modaal) en het woningsegment, maar kan bijvoorbeeld ook de verkoop van woningen door corporaties stimuleren.
+De Starterslening is een annuïteitenlening met een looptijd van 30 jaar. De eerste drie jaren zijn aflossings- en rentevrij. Na de drie jaren kan regelmatig een draagkrachttoets worden uitgevoerd om de betalingscapaciteit vast te stellen. De verwachting is dat het inkomen groeit en de starter rente en aflossing zal kunnen gaan betalen. Indien er voldoende betalingscapaciteit is zal de starter rente en aflossing moeten betalen, waarbij rentebetaling vooropstaat.
+## Vraag
+Wat zijn de gevolgen voor de inkomstenbelasting en het schenkingsrecht van de Starterslening voor de starter?
+## Antwoord
+Inkomstenbelasting
+Afgezien van de zachte voorwaarden verschilt de Starterslening niet van andere reguliere leningsvormen. Als de Starterslening aangewend wordt voor de verwerving, onderhoud of verbetering van een eigen woning in de zin van artikel 3.111 Wet IB 2001 dan is de feitelijk betaalde rente aftrekbaar op grond van artikel 3.120 Wet IB 2001. Het feit dat gedurende een bepaalde periode de lening aflossings- en rentevrij is heeft geen fiscale gevolgen. Aangezien op de Starterslening de eerste drie jaren geen rente wordt betaald, is er in deze jaren geen rente-aftrek.
+Schenkingsrecht
+Het voordeel uit de Starterslening vormt geen belastbare schenking. Voor zover sprake is van een schenking is deze vrijgesteld op grond van artikel 33, eerste lid, onderdeel 2, Successiewet 1956.
