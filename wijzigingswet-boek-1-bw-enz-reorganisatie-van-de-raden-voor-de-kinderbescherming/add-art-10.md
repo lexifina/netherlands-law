@@ -1,0 +1,3 @@
+# ARTIKEL X
+1. In zaken, daaronder begrepen procedures, waarin tot het tijdstip van inwerkingtreding van deze wet een raad voor de kinderbescherming optreedt, treedt de landelijke raad voor de kinderbescherming in zijn plaats.
+2. In zaken, daaronder begrepen procedures, waarin tot het tijdstip van inwerkingtreding van deze wet de raad voor de kinderbescherming te Amsterdam op grond van artikel 239, derde lid, van Boek 1 van het Burgerlijk Wetboek, zoals dat luidde onmiddellijk voorafgaande aan de inwerkingtreding van deze wet, optreedt, treedt de landelijke raad voor de kinderbescherming in zijn plaats.
