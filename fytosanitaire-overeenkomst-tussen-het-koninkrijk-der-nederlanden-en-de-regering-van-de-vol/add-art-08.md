@@ -1,0 +1,2 @@
+# Artikel VIII
+Ten behoeve van de uitvoering van deze Overeenkomst kunnen beide Overeenkomstsluitende Partijen na overleg besluiten vertegenwoordigers naar de andere Overeenkomstsluitende Partij te zenden. In dit geval zijn de internationale reiskosten voor rekening van de zendende Partij. De kosten van verblijf, vervoer en medische verzorging in noodgevallen tijdens het bezoek zijn voor rekening van de ontvangende Partij.

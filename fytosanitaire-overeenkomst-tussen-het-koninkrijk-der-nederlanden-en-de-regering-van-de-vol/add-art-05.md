@@ -1,0 +1,2 @@
+# Artikel V
+Het gezondheidscertificaat laat het recht van het land van invoer onverlet met betrekking tot het onderzoeken van zendingen planten of plantaardige produkten en het treffen van de noodzakelijke maatregelen op het gebied van de quarantaine van planten. Indien aantasting door schadelijke organismen wordt geconstateerd in een ingevoerde zending planten of plantaardige produkten, worden de noodzakelijke quarantainemaatregelen genomen en wordt de voor quarantaine van planten bevoegde autoriteit van het land van uitvoer daarvan onmiddellijk in kennis gesteld.
