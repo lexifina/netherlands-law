@@ -1,0 +1,2 @@
+# 1°
+Het in art. 5 van het voorschreven grenstractaat vervat verbod, om in de toekomst nader bij de grenslijn, dan op een afstand van 376 Nederlandsche ellen en 7 palmen of 100 Rijnlandsche roeden, particuliere gebouwen op te rigten, wordt in het algemeen in stand gehouden, en vindt meer bepaald dààr deszelfs geheele strenge toepassing, waar zich op een afstand van 100 Rijnlandsche roeden van de grenzen nog geene neêrzettintingen bevonden;

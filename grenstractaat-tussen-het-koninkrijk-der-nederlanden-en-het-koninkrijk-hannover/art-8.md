@@ -1,0 +1,2 @@
+# 8°
+Aan de zoodanige kolonisten die binnen de 100 roeden van de grenzen geene landerijen bezitten, wordt de oprigting vergund van nieuwe gebouwen zonder haard. De wederzijdsche gouvernementen leggen hunnen onderdanen de verpligting op, sub poenâ van correctionele straf (ordenungstrafe), om te voren hunne hierover gestelde autoriteiten kennis te doen dragen van alle uitbreiding of oprigting van nieuwe gebouwen, als vermeld zijn onder no. 7 en 8: de autoriteiten zullen moeten zorg dragen dat de vermelde gebouwen niet in strijd zijn met de bepalingen des tractaats;
