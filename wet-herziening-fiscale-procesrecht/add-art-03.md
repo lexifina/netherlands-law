@@ -1,0 +1,2 @@
+# ARTIKEL III
+[Wijzigt de Algemene wet bestuursrecht, de Successiewet 1956, de Registratiewet 1970, de Invorderingswet 1990, de Kostenwet invordering rijksbelastingen, de Wet op de omzetbelasting 1968, de Gemeentewet, de Provinciewet, de Waterschapswet, de Wet verontreiniging oppervlaktewateren, de Meststoffenwet, de Wet waardering onroerende zaken, de Luchtvaartwet, de Wet sloopregeling binnenvaart, de Douanewet.]
