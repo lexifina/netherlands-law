@@ -1,0 +1,12 @@
+# Article IV
+1. The Minister responsible for Forestry in Guyana shall establish a Tropenbos Committee for Guyana (hereinafter referred to as the Committee) which shall consist of not more than fifteen (15) members.
+2. The Minister responsible for Forestry in Guyana will be responsible for the appointment of twelve (12) members of the Committee including the Chairman and the Secretary. The Secretary may be appointed from among the members of the Committee. The Committee shall include a representative from the Guyana Forestry Commission, Guyana Natural Resources Agency, University of Guyana, Institute of Applied Science and Technology, Department of International Economic Cooperation, Department of Lands and Surveys, Ministry of Agriculture, Ministry of Regional Development, Ministry of Education, Ministry of Communications and Works and the Guyana Agency for Health Sciences Education, Environment and Food Policy.
+3. The Tropenbos Foundation will be responsible for the nomination of three (3) members of the Committee, namely, the Tropenbos Director, the Location Scientific Coordinator and a representative of the Royal Netherlands Embassy at Paramaribo (Suriname).
+4. Within the framework of this Agreement the Committee shall:
+a) recommend to the Contracting Parties the acceptance for funding of proposed activities and supporting administrative arrangements to be signed by the nominees of the Contracting Parties. The ensuing arrangements will stipulate the specific contributions financial and kind - each Contracting Party will make to agreed activities.
+b) supervise all activities;
+c) ensure that the programme activities are independently evaluated;
+d) regularly report on progress made to the Contracting Parties.
+5. The Committee shall meet at least twice (2) a year.
+6. The Committee shall establish sub-committees from among the members of the Committee. Each sub-committee will be concerned either with individual Tropenbos activities or with coherent activities on a particular location. Sub-committees will invite representatives of cooperating agencies to deliberate with them. The sub-committees so appointed shall advise on Tropenbos activities and proposals for projects and the necessary supporting administrative arrangements to the Committee.
+7. The Committee shall establish for each location of programme activities in Guyana a working group which shall include regional authorities and the representatives of the institutions and organizations that are involved in the activities.
