@@ -1,0 +1,2 @@
+# VIII. Ad artikel 24
+Het is wel verstaan dat voor de berekening van de in het eerste en vierde lid van artikel 24 bedoelde vermindering de waarde van de in het eerste lid van artikel 23 bedoelde vermogensbestanddelen wordt verminderd met de waarde van de schulden verzekerd door hypotheek op dat vermogen en de waarde van de in het tweede lid van artikel 23 bedoelde vermogensbestanddelen wordt verminderd met de waarde van de tot de vaste inrichting of het vaste middelpunt behorende schulden.
