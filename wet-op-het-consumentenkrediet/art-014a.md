@@ -1,0 +1,2 @@
+# Artikel 14a
+Zodra een instelling ingevolge artikel 52, tweede lid, onder c, d, f onderscheidenlijk g, van de Wet toezicht kredietwezen 1992 in het in dat artikel bedoelde register is ingeschreven, beschikt die instelling, voor zover het aan die instelling ingevolge artikel 31, tweede lid, 32, tweede lid, 50, eerste lid, onderscheidenlijk artikel 51 van genoemde wet is toegestaan krediet te verlenen, over een van rechtswege, zonder beperkingen, verleende vergunning als bedoeld in artikel 9 van deze wet.
