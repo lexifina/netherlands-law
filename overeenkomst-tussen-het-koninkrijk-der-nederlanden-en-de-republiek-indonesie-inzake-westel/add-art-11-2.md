@@ -1,0 +1,2 @@
+# Artikel XI
+Voor zover zij in overeenstemming zijn met letter en geest van deze Overeenkomst, blijven de bestaande wetten en voorschriften van kracht. Het UNTEA is bevoegd, nieuwe wetten en voorschriften af te kondigen of deze naar geest en opzet van deze Overeenkomst te wijzigen. De vertegenwoordigende raden worden geraadpleegd voordat nieuwe wetten en voorschriften worden uitgevaardigd of bestaande wetten worden gewijzigd.

@@ -1,0 +1,2 @@
+# Article II
+After the adoption of the resolution referred to in Article I, the Netherlands will transfer administration of the territory to a United Nations Temporary Executive Authority (UNTEA), established by and under the jurisdiction of the Secretary-General, upon the arrival of the United Nations Administrator appointed in accordance with article IV. The UNTEA will in turn transfer the administration to Indonesia in accordance with article XII.

@@ -1,0 +1,4 @@
+# Artikel XXIV
+1. Tekorten op de begroting van het gebied tijdens het bestuur door het UNTEA worden door Nederland en Indonesië, ieder voor de helft, gedragen.
+2. Nederland en Indonesië worden door de Secretaris-Generaal geraadpleegd bij de opstelling van de UNTEA-begroting en ten aanzien van andere financiële aangelegenheden met betrekking tot de verantwoordelijkheden van de Verenigde Naties krachtens deze Overeenkomst; aan de Secretaris-Generaal is evenwel de definitieve beslissing voorbehouden.
+3. De Partijen bij deze Overeenkomst zullen de Secretaris-Generaal alle kosten vergoeden, die de Verenigde Naties krachtens deze Overeenkomst maken en de nodige voorschotten verstrekken teneinde de Secretaris-Generaal in staat te stellen zijn taak te vervullen. Partijen bij deze Overeenkomst zullen elk de helft van deze vergoedingen en voorschotten dragen.

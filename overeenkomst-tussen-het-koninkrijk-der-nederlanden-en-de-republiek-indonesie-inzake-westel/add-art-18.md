@@ -1,0 +1,6 @@
+# Article XVIII
+Indonesia will make arrangements, with the assistance and participation of the United Nations Representative and his staff, to give the people of the territory the opportunity to exercise freedom of choice. Such arrangements will include:
+a. Consultation (Musjawarah) with the representative councils on procedures and appropriate methods to be followed for ascertaining the freely expressed will of the population.
+b. The determination of the actual date of the exercise of free choice within the period established by the present Agreement.
+c. Formulation of the questions in such a way as to permit the inhabitants to decide (a) whether they wish to remain with Indonesia; or (b) whether they wish to sever their ties with Indonesia.
+d. The eligibility of all adults, male and female, not foreign nationals to participate in the act of self-determination to be carried out in accordance with international practice, who are resident at the time of the signing of the present Agreement and at the time of the act of self-determination including those residents who departed after 1945 and who return to the territory to resume residence after the termination of Netherlands administration.

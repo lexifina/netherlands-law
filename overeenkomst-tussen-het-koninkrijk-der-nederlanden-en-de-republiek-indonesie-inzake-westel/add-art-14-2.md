@@ -1,0 +1,2 @@
+# Artikel XIV
+Na overdracht van de volledige bestuursverantwoordelijkheid aan Indonesië zijn de Indonesische nationale wetten en voorschriften in beginsel in het gebied van toepassing, mits zij verenigbaar zijn met de rechten en vrijheden die krachtens deze Overeenkomst aan de inwoners worden gewaarborgd. Er kunnen nieuwe wetten en voorschriften of wijzigingen van bestaande worden uitgevaardigd in de geest van deze Overeenkomst. In de daarvoor in aanmerking komende gevallen worden de vertegenwoordigende lichamen terzake geraadpleegd.

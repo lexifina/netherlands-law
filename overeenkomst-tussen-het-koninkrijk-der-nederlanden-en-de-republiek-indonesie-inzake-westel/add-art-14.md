@@ -1,0 +1,2 @@
+# Article XIV
+After the transfer of full administrative responsibility to Indonesia, Indonesian national laws and regulations will in principle be applicable in the territory, it being understood that they be consistent with the rights and freedoms guaranteed to the inhabitants under the terms of the present Agreement. New laws and regulations or amendments to the existing ones can be enacted within the spirit of the present Agreement. The representative councils will be consulted as appropriate.

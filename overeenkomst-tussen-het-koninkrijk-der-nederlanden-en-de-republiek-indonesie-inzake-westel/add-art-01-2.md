@@ -1,0 +1,2 @@
+# Artikel I
+Nadat deze Overeenkomst tussen Nederland en Indonesië door beide Overeenkomstsluitende Partijen is ondertekend en bekrachtigd, zullen Nederland en Indonesië gezamenlijk een ontwerp-resolutie bij de Verenigde Naties indienen, bij welke de Algemene Vergadering van de Verenigde Naties kennis neemt van deze Overeenkomst, de rol in deze Overeenkomst opgedragen aan de Secretaris-Generaal van de Verenigde Naties erkent en hem machtigt de hem bij deze Overeenkomst toevertrouwde taken uit te voeren.

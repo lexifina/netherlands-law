@@ -1,0 +1,2 @@
+# Article I
+After the present Agreement between the Netherlands and Indonesia has been signed and ratified by both Contracting Parties, the Netherlands and Indonesia will jointly sponsor a draft resolution in the United Nations under the terms of which the General Assembly of the United Nations takes note of the present Agreement, acknowledges the role conferred upon the Secretary-General of the United Nations therein, and authorizes him to carry out the tasks entrusted to him therein.

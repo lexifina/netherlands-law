@@ -1,0 +1,2 @@
+# Article XV
+After the transfer of full administrative responsibility to Indonesia, the primary task of Indonesia will be further intensification of the education of the people, of the combating of illiteracy, and of the advancement of their social, cultural and economic development. Efforts also will be made in accordance with present Indonesian practice to accelerate the participation of the people in local government through periodic elections. Any aspects relating to the act of free choice will be governed by the terms of the present Agreement.

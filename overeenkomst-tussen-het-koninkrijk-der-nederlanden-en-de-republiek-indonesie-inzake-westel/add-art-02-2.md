@@ -1,0 +1,2 @@
+# Artikel II
+Na de aanvaarding van de in artikel I bedoelde resolutie, draagt Nederland het bestuur over het gebied over aan een Tijdelijk Bestuursorgaan van de Verenigde Naties (United Nations Temporary Executive Authority; UNTEA), ingesteld door en onder gezag staand van de Secretaris-Generaal, zodra de ingevolge artikel IV benoemde Bestuurder der Verenigde Naties ter plaatse zal zijn aangekomen. Het UNTEA draagt op zijn beurt het bestuur over aan Indonesië, overeenkomstig artikel XII.

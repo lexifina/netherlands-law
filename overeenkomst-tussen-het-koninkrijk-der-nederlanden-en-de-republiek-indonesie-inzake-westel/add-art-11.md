@@ -1,0 +1,2 @@
+# Article XI
+To the extent that they are consistent with the letter and spirit of the present Agreement, existing laws and regulations will remain in effect. The UNTEA will have the power to promulgate new laws and regulations or amend them within the spirit and framework of the present Agreement. The representative councils will be consulted prior to the issuance of new laws and regulations or the amendment of existing laws.

@@ -1,0 +1,6 @@
+# Artikel XVIII
+Indonesië treft, met bijstand en bemoeiing van de Vertegenwoordiger van de Verenigde Naties en zijn staf, regelingen om aan de bevolking van het gebied de gelegenheid te geven hun keuze vrijelijk te bepalen. Deze regelingen zullen inhouden:
+a) overleg (musjawarah) met de vertegenwoordigende raden over procedures en geëigende methoden die moeten worden gevolgd om de vrijelijk tot uitdrukking gebrachte mening van de bevolking te constateren;
+b) vaststelling van de datum van de feitelijke uitoefening der vrije keuze binnen het in deze Overeenkomst neergelegde tijdvak;
+c) formulering van de vragen op een wijze die de inwoners in staat zal stellen te beslissen (a) of zij bij Indonesië wensen te blijven; (b) of zij hun banden met Indonesië wensen te verbreken;
+d) het recht tot deelneming aan de uitoefening van de zelfbeschikking in overeenstemming met internationaal gebruik van alle volwassenen, zowel mannen als vrouwen, die geen vreemde nationaliteit bezitten en die ingezetenen zijn ten tijde van de ondertekening van deze Overeenkomst en ten tijde van de uitoefening van de zelfbeschikking, daarbij inbegrepen die ingezetenen die na 1945 zijn vertrokken en naar het gebied terugkeren, om zich aldaar na beëindiging van het Nederlands bestuur wederom te vestigen.

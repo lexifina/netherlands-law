@@ -1,0 +1,2 @@
+# Artikel XXIII
+Vacatures in de vertegenwoordigende raden, ontstaan door het vertrek van Nederlandse onderdanen of door andere oorzaken, worden op de daarvoor in aanmerking komende wijze en overeenkomstig de bestaande wetgeving vervuld door middel van verkiezingen of door benoeming door het UNTEA. De vertegenwoordigende raden worden gehoord alvorens tot de benoeming van nieuwe vertegenwoordigers wordt overgegaan.

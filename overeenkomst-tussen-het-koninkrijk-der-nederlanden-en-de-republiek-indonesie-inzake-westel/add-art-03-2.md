@@ -1,0 +1,2 @@
+# Artikel III
+Teneinde, na de aanvaarding van de resolutie door de Algemene Vergadering, de overdracht van het bestuur aan het UNTEA te vergemakkelijken, nodigt Nederland de Secretaris-Generaal uit, een vertegenwoordiger te zenden om gedurende korte tijd met de Nederlandse Gouverneur van het gebied vóór diens vertrek overleg te plegen. De Nederlandse Gouverneur vertrekt vóór de aankomst van de Bestuurder der Verenigde Naties.

@@ -1,0 +1,2 @@
+# Article XXVI
+For the purposes of the present Agreement, the Netherlands and Indonesia will apply to United Nations property, funds, assets and officials the provisions of the Convention on the Privileges and Immunities of the United Nations. In particular, the United Nations Administrator, appointed pursuant to Article IV, and the United Nations Representative, appointed pursuant to Article, XVII, will enjoy the privileges and immunities specified in Section 19 of the Convention on the Privileges and Immunities of the United Nations.
