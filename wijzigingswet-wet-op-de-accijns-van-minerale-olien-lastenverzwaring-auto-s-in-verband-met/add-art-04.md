@@ -1,0 +1,7 @@
+# Artikel IV
+1. Voor een motorrijtuig als bedoeld in artikel 5, eerste lid, onderdeel a of b, van de Wet op de motorrijtuigenbelasting 1966, waarvoor vóór 16 juli 1991 motorrijtuigenbelasting is betaald over een tijdvak waarvan een gedeelte valt na 15 juli 1991, is over het gehele tijdvak motorrijtuigenbelasting verschuldigd naar het tarief dat met betrekking tot dat motorrijtuig gold bij de aanvang van dat tijdvak.
+2. Het eerste lid is niet van toepassing met betrekking tot een motorrijtuig waarvoor de motorrijtuigbelasting is betaald na 15 februari 1991 over een tijdvak van twaalf of van drie maanden tenzij:
+a. het in het eerste lid bedoelde tijdvak eindigt op 31 juli 1991;
+b. de houder van het motorrijtuig voor de eerste maal voor dat motorrijtuig de belasting heeft betaald; of
+c. de houder van het motorrijtuig de belasting heeft betaald over een tijdvak dat aansluit op een tijdvak van twaalf of drie maanden dat is geëindigd vóór 16 juli 1991.
+3. Voor een motorrijtuig waarmee gebruik van de weg wordt gemaakt op een tijdstip na 31 juli 1991 en waarvoor vóór 16 juli 1991 motorrijtuigenbelasting is betaald over een tijdvak dat geheel of gedeeltelijk valt na 15 juli 1991 en waarop het eerste lid krachtens het bepaalde in het tweede lid niet van toepassing is, moet de ingevolge deze wet meer verschuldigde belasting over de op het tijdstip van het gebruik nog niet verstreken maanden van dat tijdvak vóór dat tijdstip worden betaald.

@@ -1,0 +1,2 @@
+# Artikel VI
+Voor een motorrijtuig als bedoeld in artikel 5, eerste lid, onderdeel c of d, alsmede voor een motorrijtuig als bedoeld in artikel 7, eerste lid, onderdeel c of d, van de Wet op de motorrijtuigbelasting 1966, waarvoor motorrijtuigenbelasting is betaald over een tijdvak waarvan een gedeelte valt na 15 september 1991, wordt over dat gedeelte van het tijdvak teruggaaf verleend voor het verschil tussen het tarief dat geldt op 15 september 1991 en het tarief dat geldt met ingang van 16 september 1991.
