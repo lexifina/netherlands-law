@@ -1,0 +1,3 @@
+# Artikel 452f
+1. Artikel 413 geldt ten aanzien van schepelingen ter zeevisscherij met deze aanvulling, dat het in geld vastgesteld loon voorzoover het afhankelijk is van de opbrengst der vangst in de arbeidsovereenkomst moet worden begroot op zijn vermoedelijk bedrag naar tijdruimte; bij de toepassing van de artikelen 425, 428, 438 en 450 wordt dergelijk loon berekend naar deze begrooting.
+2. De schepeling heeft geen aanspraak tegen de zeewerkgever op grond dat krachtens artikel 425 of 428 ingevolge de begrooting aan een derde meer is uitbetaald dan strookt met het loon, dat ten slotte aan den schepeling verschuldigd blijkt te zijn.

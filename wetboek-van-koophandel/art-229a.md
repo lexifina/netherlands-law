@@ -1,0 +1,3 @@
+# Artikel 229a
+1. De stuiting der verjaring is slechts van kracht tegen dengene, ten aanzien van wien de stuitingshandeling heeft plaats gehad.
+2. Op de in het vorige artikel bedoelde verjaringen is artikel 321, eerste lid, onder a-d van Boek 3 van het Burgerlijk Wetboek niet van toepassing; in de gevallen bedoeld in artikel 321, eerste lid, onder b en c, van Boek 3 van het Burgerlijk Wetboek heeft de onbekwame of rechthebbende, wiens rechtsvordering is verjaard, verhaal op de wettelijke vertegenwoordiger of bewindvoerder.

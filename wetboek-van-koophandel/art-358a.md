@@ -1,0 +1,4 @@
+# Artikel 358a
+1. De kapitein is verplicht aan personen, die in gevaar verkeeren, en in het bijzonder, als zijn schip bij eene aanvaring betrokken is geweest, aan de andere daarbij betrokken schepen en de personen, die zich aan boord dier schepen bevinden, de hulp te verleenen, waartoe hij bij machte is, zonder zijn eigen schip en de opvarenden daarvan aan ernstig gevaar bloot te stellen.
+2. Hij is bovendien verplicht, voor zooverre hem dit mogelijk is, aan de andere bij de aanvaring betrokken schepen op te geven den naam van zijn schip, van de haven waar het thuis behoort en van de havens van waar het komt en waarheen het bestemd is.
+3. Niet-nakoming van deze verplichtingen door den kapitein geeft geen aanspraak tegen hem, die uit welken hoofde dan ook verantwoordelijk is voor het optreden van de kapitein.

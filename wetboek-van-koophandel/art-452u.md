@@ -1,0 +1,2 @@
+# Artikel 452u
+De artikelen 444, 451, 451a, 451d en 451e zijn van overeenkomstige toepassing met dien verstande dat in de artikelen 451, 451a en 451e in plaats van «zeewerkgever» wordt gelezen: eigenaar, of ingeval van rompbevrachting: rompbevrachter, en in artikel 451d, tweede lid: maatschap, dat in plaats van «arbeidsovereenkomst» wordt gelezen: maatschapsovereenkomst en dat in plaats van «loon» wordt gelezen: aandeel in de besomming.

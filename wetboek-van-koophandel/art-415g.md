@@ -1,0 +1,2 @@
+# Artikel 415g
+Onder loon van de schepeling wordt voor de toepassing van de artikelen 415c en 415e verstaan het naar tijdruimte in geld vastgestelde loon, dat hij genoot toen het ongeval als bedoeld in artikel 415b plaatsvond, verhoogd met de bij algemene maatregel van bestuur vast te stellen geldswaarde van andere loonbestanddelen. Hetgeen het naar tijdruimte in geld vastgestelde loon meer bedraagt dan een bij algemene maatregel van bestuur te bepalen bedrag, wordt daarbij niet in aanmerking genomen.

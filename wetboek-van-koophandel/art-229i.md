@@ -1,0 +1,3 @@
+# Artikel 229i
+1. De houder eener promesse aan toonder is verpligt voldoening te vorderen binnen den tijd van drie dagen na den dag, op welken hij dat papier heeft in betaling genomen, die dag niet daaronder gerekend, en hij moet, bij wanbetaling, binnen een gelijken termijn daarna, de promesse ter intrekking aanbieden aan dengenen die hem dezelve heeft in betaling gegeven, alles op verbeurte van zijn verhaal tegen denzelven, doch onverminderd zijn regt tegen dengenen die de promesse heeft geteekend.
+2. Indien bij de promesse de dag is uitgedrukt op welken dezelve betaalbaar is, begint de termijn van drie dagen eerst te loopen daags na den uitgedrukten betaaldag.

@@ -1,0 +1,2 @@
+# Artikel 109b
+De trekker, of degene voor wiens rekening de wisselbrief is getrokken, is verplicht zorg te dragen, dat de betrokkene, ten vervaldage, in handen hebbe het noodige fonds tot betaling, zelfs indien de wisselbrief bij eenen derde is betaalbaar gesteld, met dien verstande echter, dat de trekker zelf in alle gevallen aan den houder en de vroegere endossanten persoonlijk verantwoordelijk blijft.

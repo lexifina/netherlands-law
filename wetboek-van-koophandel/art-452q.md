@@ -1,0 +1,9 @@
+# Artikel 452q
+1. De maatschapsovereenkomst moet, op straffe van nietigheid, schriftelijk worden aangegaan. In de maatschapsovereenkomst wordt bepaald, wie van de maten de kapitein zal zijn.
+2. Artikel 400, onder 1°-4°, onder 5°, met dien verstande dat in plaats van "waarin de schepeling in dienst zal treden" wordt gelezen: waarin de maat op het schip werkzaam zal zijn en onder 6°, zomede artikel 401, eerste lid, zijn van overeenkomstige toepassing.
+3. De overeenkomst moet een regeling bevatten omtrent de wijze waarop ieders aandeel in de opbrengst van de maatschap (besomming) zal worden bepaald.
+4. Tevens moet de maatschapsovereenkomst behelzen de wijze van haar beëindiging, namelijk:
+a. indien de overeenkomst voor onbepaalde tijd wordt aangegaan, de inhoud van artikel 434, eerste lid, met dien verstande dat daarin in plaats van "arbeidsovereenkomst" gelezen wordt: maatschapsverhouding;
+b. indien de overeenkomst voor bepaalde tijd wordt aangegaan, de dag waarop de overeenkomst eindigt met vermelding van de inhoud van artikel 431 met dien verstande dat in plaats van "arbeidsovereenkomst" wordt gelezen: maatschapsverhouding.
+c. indien de overeenkomst bij de reis wordt aangegaan, de haven overeengekomen voor de beëindiging van de maatschapsverhouding met vermelding van de inhoud van artikel 432, tweede lid, met dien verstande dat daarin in plaats van "arbeidsovereenkomst" gelezen wordt: maatschapsverhouding en, indien de haven een Nederlandse haven is, met vermelding van de inhoud van het eerste of tweede lid van artikel 433, naar gelang de haven al of niet met name is genoemd, met dien verstande dat in dat artikel in plaats van "arbeidsovereenkomst" gelezen wordt: maatschapsverhouding en in plaats van "zeewerkgever" elke vennoot.
+5. Nietig is een beding waarbij een maat wordt beperkt in zijn vrijheid, na het einde van de maatschapsovereenkomst, arbeid te verrichten.
