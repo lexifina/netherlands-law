@@ -1,6 +1,0 @@
-# Artikel 5a
-1. Een licentie die is uitgereikt voor een vissersvaartuig met een lengte over alles van minder dan 12 meter dat tot segment 4J1 behoort, kan slechts worden overgeschreven op een vissersvaartuig met een lengte over alles van minder dan 12 meter en dat tot segment 4J1 behoort.
-2. Een licentie die is uitgereikt voor een vissersvaartuig dat tot segment 4J2 behoort, kan slechts worden overgeschreven op een vissersvaartuig dat tot segment 4J2 behoort.
-3. Een licentie die is uitgereikt voor een vissersvaartuig met een lengte over alles van ten hoogste 59 meter en ten minste 12 meter en dat tot segment 4J3 behoort, kan slechts worden overgeschreven op een vissersvaartuig met een lengte over alles van ten minste 12 meter en dat tot segment 4J3 behoort.
-4. Een licentie die is uitgereikt voor een vissersvaartuig met een lengte over alles van ten minste 12 meter en dat tot segment 4J4 behoort, kan slechts worden overgeschreven op een vissersvaartuig met een lengte over alles van ten minste 12 meter en dat tot segment 4J4 behoort.
-5. Een licentie die is uitgereikt voor een vissersvaartuig met een lengte over alles van minder dan 12 meter dat tot segment 4J5 behoort, kan slechts worden overgeschreven op een vissersvaartuig met een lengte over alles van minder dan 12 meter en dat tot segment 4J5 behoort.
