@@ -1,0 +1,2 @@
+# Artikel V. Herplaatsing Wet op het onderwijstoezicht
+De tekst van de Wet op het onderwijstoezicht wordt in het Staatsblad geplaatst. Voor de plaatsing in het Staatsblad stelt Onze Minister van Onderwijs, Cultuur en Wetenschappen de nummering van de artikelen en hoofdstukken opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van de artikelen en hoofdstukken met de nieuwe nummering in overeenstemming.
