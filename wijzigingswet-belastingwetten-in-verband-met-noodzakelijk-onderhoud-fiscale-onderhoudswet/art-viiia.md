@@ -1,0 +1,2 @@
+# Artikel VIIIa
+Artikel 11, eerste lid, onderdeel p, van de Wet op de loonbelasting 1964 zoals dit onderdeel luidde op 31 december 2003, blijft van toepassing voor gevallen waarin het computers en bijbehorende apparatuur betreft die door de werknemer vóór de genoemde datum in gebruik zijn genomen of ter zake waarvan door de werknemer nog vóór dat tijdstip een verplichting tot aanschaffing is aangegaan.
