@@ -1,4 +1,0 @@
-# Artikel 2b
-1. De justitiële documentatiedienst verstrekt inlichtingen uit de strafregisters aan de secretarissen-generaal van de ministeries ten behoeve van het onderzoek naar personen, die worden of zijn belast met werkzaamheden in dienstbetrekking bij het Rijk, indien dit noodzakelijk is in verband met bijzondere eisen die aan de verantwoordelijkheid of de integriteit van deze personen worden gesteld.
-2. De justitiële documentatiedienst doet jaarlijks opgave aan de Minister van Justitie ten behoeve van welke werkzaamheden, bedoeld in het eerste lid, inlichtingen zijn verstrekt.
-3. Onze Minister van Justitie kan, in overeenstemming met Onze Minister van Binnenlandse Zaken, ten aanzien van bepaalde werkzaamheden de bevoegdheid om ingevolge het eerste lid gegevens te verstrekken beperken.
