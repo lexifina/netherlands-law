@@ -1,0 +1,3 @@
+# Artikel V
+1. De Regering van het Koninkrijk Nepal vrijwaart de Nederlandse Regering en het Nederlandse personeel terzake van aansprakelijkheid op grond van het verrichten of nalaten van handelingen door de Nederlandse personeelsleden tijdens de uitoefening van hun functie met als gevolg de dood van of letsel toegebracht aan derden of schade aan het eigendom van derden, tenzij de aansprakelijkheid het gevolg is van opzettelijk onjuist handelen of grove nalatigheid van een of meer personeelsleden.
+2. Indien de Regering van het Koninkrijk Nepal een vordering uit hoofde van het vorige lid moet behandelen, is zij gerechtigd alle rechten uit te oefenen die door de Nederlandse Regering en het Nederlandse personeel kunnen worden uitgeoefend.
