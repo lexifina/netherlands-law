@@ -1,0 +1,2 @@
+# Artikel I
+De Nederlanders sedert ten minste achttien maanden in België hunne woonplaats hebbende en de Belgen sedert ten minste achttien maanden hunne woonplaats in Nederland hebbende, zullen wederkeerig worden toegelaten tot het voorrecht van den kosteloozen rechtsbijstand op denzelfden voet als de eigen onderdanen en onder naleving van de wetgeving van den Staat, waar de kostelooze rechtsbijstand wordt verlangd.

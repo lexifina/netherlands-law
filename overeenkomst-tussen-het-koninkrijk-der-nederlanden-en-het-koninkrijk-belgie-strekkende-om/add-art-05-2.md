@@ -1,0 +1,3 @@
+# Artikel V
+De tegenwoordige Overeenkomst wordt gesloten voor vijf jaren, te rekenen van den dag der uitwisseling van de akten van bekrachtiging. Ingeval geen der beide Hooge Contracteerende Partijen één jaar vóór het verstrijken van dat tijdsverloop het voornemen heeft te kennen gegeven haar buiten werking te stellen, zal de Overeenkomst van kracht blijven gedurende nog een jaar, en zoo vervolgens van jaar tot jaar, te rekenen van den dag waarop eene der Partijen haar zal hebben opgezegd.
+De tegenwoordige Overeenkomst zal worden bekrachtigd en de akten van bekrachtiging zullen te Brussel worden uitgewisseld zoodra mogelijk na de vervulling der grondwettelijke formaliteiten in de beide Landen.
