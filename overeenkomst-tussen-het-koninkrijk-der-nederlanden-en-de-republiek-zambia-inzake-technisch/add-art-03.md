@@ -1,0 +1,4 @@
+# Article III
+1. The experts shall comply with the laws, regulations and orders as may be in force from time to time in Zambia unless otherwise provided for in this Agreement or supplementary agreements hereto.
+2. The Government of Zambia shall have the right to request the recall or replacement of any expert made available by the Government of the Netherlands. Before exercising such right the Government of Zambia shall consult the Government of the Netherlands.
+3. The Government of the Netherlands shall have the right upon at least two months' prior notice in writing to the Government of Zambia to recall any expert made available by the Government of the Netherlands under this Agreement. Before exercising such right the Government of the Netherlands shall consult the Government of Zambia and shall endeavour to secure a suitable replacement for any expert so recalled.

@@ -1,0 +1,4 @@
+# Article V
+1. The Government of Zambia shall exempt from all import and export duties and other official charges the equipment (including motor-vehicles) and other supplies provided by the Netherlands Government in connection with a project.
+2. The Government of Zambia shall do its utmost to facilitate the speedy handling, clearing and forwarding of goods referred to in paragraph 1 above upon arrival of such goods in Zambia.
+3. Without prejudice to the Zambian exchange control regulations no currency or foreign exchange restrictions shall be imposed on funds introduced into Zambia from external sources by the Government of the Netherlands for purposes in accordance with the Agreement. Balances on bank accounts exclusively fed with such funds shall be freely transferable into any convertible currency.

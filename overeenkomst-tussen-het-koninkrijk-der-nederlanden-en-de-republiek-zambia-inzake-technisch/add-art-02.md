@@ -1,0 +1,12 @@
+# Article II
+In connection with a project, the Government of Zambia shall:
+a. accord to the experts and their families exemption from Customs duties, taxes and other related charges in respect of personal and household effects imported into Zambia for their exclusive use, or entitle them to acquire the same in Zambia exbonded warehouse within six months of their first arrival in Zambia. The term "personal and household effects" shall include for each household one motor vehicle. If these articles are sold or otherwise disposed of in Zambia other than to a person entitled to the same privileges, appropriate duty based on the estimated value of the articles, shall be paid thereon. No sale or disposal and household effects shall be made without the prior notice of the Controller of Customs and Excise.
+b. accord the right to re-export the effects and goods mentioned in paragraph (a) on completion of the assignment of the expert in Zambia.
+c. exempt the experts from personal income tax or any other direct tax in respect of any emoluments paid to them by the Netherlands Government.
+d. grant free of charge and without undue delay entry and exit visas and other permits, for the Netherlands experts and their families.
+e. grant the experts the most favourable exchange facilities, i.e. external accounts for all their Netherlands remunerations.
+f. in the event of an international crisis affecting the safety of foreign nationals in Zambia, accord the same repatriation facilities to the experts and their families as to diplomatic personnel.
+g. exempt the experts and their families from national service obligations or other defence-related duties.
+h. provide medical care for experts and their families as is provided for every citizen or resident of Zambia including civil servants of all categories.
+i. in case of any damage to a third party caused by the expert in the course of his duties in Zambia under this Agreement the Government of Zambia shall be liable in his place and any claim against the expert shall to that extent be excluded unless it is established by a competent court of law in Zambia that any such damage has arisen from the gross negligence or wilful or criminal conduct on the part of the expert.
+j. ensure that the experts and their families are accorded treatment of a manner no less favourable than that accorded to technical assistance personnel assigned to Zambia by any other country.
