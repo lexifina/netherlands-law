@@ -1,0 +1,9 @@
+# Tekst
+De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
+Aan mij is een vraag voorgelegd over de regeling van x (hierna: Wet Vpb), zoals deze regeling luidt met ingang van 1 januari 2003. De vraag en het antwoord zijn hieronder opgenomen.
+## Vraag
+A BV is als dochtermaatschappij opgenomen in een fiscale eenheid met Holding BV als moedermaatschappij. Tijdens het bestaan van deze fiscale eenheid koopt A BV een landgoed in de zin van de Natuurschoonwet 1928 aan. Als A BV geen onderdeel zou uitmaken van de fiscale eenheid, dan zou zij op basis van het bepaalde in artikel 5, onderdeel a, van de Wet Vpb juncto artikel 2 Uitvoeringsbesluit vennootschapsbelasting 1971 subjectief zijn vrijgesteld voor de vennootschapsbelasting.
+Verbreekt de fiscale eenheid met een dochtermaatschappij indien deze dochtermaatschappij tijdens het bestaan van de fiscale eenheid op zelfstandige basis beschouwd de subjectieve vrijstelling van artikel 5, onderdeel a, van de Wet Vpb deelachtig wordt?
+## Antwoord
+Ja, indien een tot de fiscale eenheid behorende dochtermaatschappij op zelfstandige basis beoordeeld de subjectieve vrijstelling van artikel 5, onderdeel a, van de Wet Vpb deelachtig wordt, leidt dit tot verbreking van de fiscale eenheid. Vanaf het moment dat de dochtermaatschappij ingevolge voormeld artikel 5, onderdeel a, subjectief is vrijgesteld, is zij geen belastingplichtige meer in de zin van artikel 15, eerste lid, van de Wet Vpb. Tevens wordt in dat geval niet meer voldaan aan het in artikel 15, derde lid, onderdeel b, van de Wet Vpb opgenomen vereiste dat voor het bepalen van de winst bij beide belastingplichtigen dezelfde bepalingen van toepassing zijn.
+Een en ander leidt op grond van het bepaalde in artikel 15, zesde lid, van de Wet Vpb tot verbreking van de fiscale eenheid.
