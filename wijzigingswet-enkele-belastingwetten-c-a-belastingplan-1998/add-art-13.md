@@ -1,0 +1,4 @@
+# Artikel XIII
+1. Deze wet treedt in werking met ingang van 1 januari 1998, met uitzondering van artikel I, onderdelen B en F.6, dat in werking treedt met ingang van 1 januari 2000 alsmede artikel IV, onderdeel D, dat in werking treedt op een bij koninklijk besluit vast te stellen tijdstip, zo nodig met terugwerkende kracht tot en met 1 januari 1998, en met dien verstande dat artikel I, onderdeel D, terugwerkt tot en met 1 januari 1997.
+2. De artikelen I en II, alsmede artikel III en artikel IV vinden toepassing nadat onderscheidenlijk artikel 66b van de Wet op de inkomstenbelasting 1964, artikel 22a van de Wet op de vermogensbelasting 1964 en 30a van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen bij het begin van het kalenderjaar 1998 zijn toegepast.
+3. De artikelen V en VII, onderdeel A, vinden voor het eerst toepassing voor het jaar 1998.

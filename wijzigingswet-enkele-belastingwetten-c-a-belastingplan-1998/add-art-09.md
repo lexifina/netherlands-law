@@ -1,0 +1,3 @@
+# Artikel IX
+1. Per 1 januari 1998 vindt de aanpassing op grond van artikel 27a van de Wet op de accijns van de in artikel 27, eerste lid, onderdelen a en b, van die wet vermelde bedragen, geen toepassing.
+2. Indien het bij koninklijke boodschap van 16 mei 1997 ingediende voorstel van wet tot wijziging van de Wet op de accijns (kamerstukken II 1996/97, 25349, nr. 2) tot wet wordt verheven en artikel I, onderdeel E, daarvan in werking treedt, vindt per 1 januari 1998 de aanpassing op grond van de tweede volzin van artikel 71a, tweede lid, van de Wet op de accijns van het in de eerste volzin van dat lid vermelde bedrag, geen toepassing.
