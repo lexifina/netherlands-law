@@ -1,0 +1,3 @@
+# ARTIKEL III
+1. In afwijking van artikel 122g van de Mediawet, is het personeel van de Dienst omroepbijdragen tot een bij of krachtens wet te bepalen datum werkzaam krachtens arbeidsovereenkomst naar burgerlijk recht. Het personeel is tot die datum geen overheidswerknemer in de zin van artikel 2, eerste lid, onderdeel a, van de Wet privatisering Abp.
+2. De personen die op de in het eerste lid bedoelde datum behoren tot het personeel van de Dienst omroepbijdragen, zijn met ingang van die datum van rechtswege aangesteld als ambtenaar in dienst van de Dienst omroepbijdragen met een rechtspositie die in totaliteit ten minste gelijkwaardig is aan die welke voor elk van hen gold krachtens zijn arbeidsovereenkomst naar burgerlijk recht.

@@ -1,0 +1,2 @@
+# ARTIKEL IX
+Eventuele naheffingsaanslagen terzake van omzetbelasting, opgelegd aan Koninklijke PTT Nederland N.V., komen voor rekening van de Dienst omroepbijdragen, voor zover deze naheffingen betrekking hebben op goederen of diensten die voor de inwerkingtreding van deze wet zijn geleverd dan wel verricht door de met de inning van de omroepbijdragen belaste dienst van Koninklijke PTT Nederland N.V.

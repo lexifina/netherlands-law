@@ -1,0 +1,5 @@
+# ARTIKEL V
+1. Onze Minister van Onderwijs, Cultuur en Wetenschappen bepaalt in overeenstemming met Koninklijke PTT Nederland N.V. welke vermogensbestanddelen van Koninklijke PTT Nederland N.V. die aan haar met de inning van de omroepbijdragen belaste dienst worden toegerekend, worden overgedragen aan de Dienst omroepbijdragen.
+2. De in het eerste lid bedoelde vermogensbestanddelen gaan met ingang van de datum van inwerkingtreding van deze wet onder algemene titel over op de Dienst omroepbijdragen, tegen een door Onze Minister van Onderwijs, Cultuur en Wetenschappen in overeenstemming met Koninklijke PTT Nederland N.V. te bepalen waarde.
+3. Ingeval krachtens het eerste en tweede lid registergoederen overgaan, zal verandering in de tenaamstelling in de openbare registers, bedoeld in afdeling 2 van titel 1 van boek 3 van het Burgerlijk Wetboek, plaatsvinden. De daartoe benodigde opgaven worden door de zorg van Onze Minister van Onderwijs, Cultuur en Wetenschappen aan de bewaarders van de desbetreffende registers gedaan.
+4. Ter zake van de overgang, bedoeld in het tweede lid, is geen overdrachtsbelasting of omzetbelasting verschuldigd.

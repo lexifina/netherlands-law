@@ -1,0 +1,5 @@
+# ARTIKEL IV
+1. Onze Minister van Onderwijs, Cultuur en Wetenschappen en Koninklijke PTT Nederland N.V. stellen gezamenlijk een lijst vast van de namen en functies van de personen die krachtens arbeidsovereenkomst naar burgerlijk recht behoren tot het personeel van de met de inning van de omroepbijdragen belaste dienst van Koninklijke PTT Nederland N.V.
+2. De overgang van de met de inning van de omroepbijdragen belaste dienst van Koninklijke PTT Nederland N.V. naar de Dienst omroepbijdragen wordt aangemerkt als de overgang van een onderneming, bedoeld in artikel 1639aa van boek 7A van het Burgerlijk Wetboek.
+3. De artikelen 1639bb tot en met 1639dd van boek 7A van het Burgerlijk Wetboek zijn niet van toepassing ten aanzien van de directeur van de met de inning van de omroepbijdragen belaste dienst van Koninklijke PTT Nederland N.V.
+4. De directeur van de Dienst omroepbijdragen wordt voor de eerste periode van vijf jaren benoemd door Onze Minister van Onderwijs, Cultuur en Wetenschappen.
