@@ -1,0 +1,3 @@
+# Artikel II
+1. Artikel I, onderdeel A, is ten aanzien van artikel 2, tweede lid, gedurende 24 uur na inwerkingtreding van deze regeling niet van toepassing op vervoereenheden of containers die op het moment van inwerkingtreding van deze regeling voorzien zijn van een kenteken van een compartiment en zich daarbuiten bevinden.
+2. In afwijking van artikel 3, vierde lid, van de Regeling compartimentering AI-gevoelige dieren 2003 wordt een kenteken dat ingevolge artikel 3 van die regeling is afgegeven voor de compartimenten C, D, E of F verwijderd en binnen 24 uur na inwerkingtreding van deze regeling geretourneerd aan het Agentschap LASER of aan een keuringsstation van de RDW Centrum voor voertuigtechniek en informatie.
