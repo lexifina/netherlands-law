@@ -1,0 +1,2 @@
+# Article IV
+States Parties to the Convention, to the Optional Protocol concerning Acquisition of Nationality, and to the present Protocol may at any time declare that they will extend the provisions of the present Protocol to disputes arising out of the interpretation or application of the Optional Protocol concerning Acquisition of Nationality. Such declarations shall be notified to the Secretary-General of the United Nations.

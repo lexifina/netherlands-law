@@ -1,0 +1,2 @@
+# Artikel II
+Partijen kunnen, binnen een termijn van twee maanden nadat de ene partij de andere haar mening heeft te kennen gegeven dat er een geschil bestaat, overeenkomen zich niet tot het Internationale Gerechtshof te wenden, doch tot een scheidsgerecht. Na het verstrijken van bovengenoemde termijn kan elk der beide partijen het geschil door middel van een desbetreffend request aan het Hof voorleggen.

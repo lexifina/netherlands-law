@@ -1,0 +1,2 @@
+# Artikel IV
+De staten die partij zijn bij dit Verdrag, bij het Facultatieve Protocol betreffende de verkrijging van nationaliteit, alsmede bij dit Protocol, kunnen te allen tijde verklaren dat zij de bepalingen van dit Protocol zullen uitbreiden tot geschillen die voortvloeien uit de uitlegging of toepassing van het Facultatieve Protocol betreffende de verkrijging van nationaliteit. Deze verklaringen worden aan de Secretaris-Generaal van de Verenigde Naties medegedeeld.
