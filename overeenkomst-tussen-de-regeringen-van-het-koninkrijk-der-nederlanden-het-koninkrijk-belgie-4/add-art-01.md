@@ -1,0 +1,3 @@
+# Artikel I
+1. Verzoeken om overname zoals bedoeld in artikel 4, eerste lid, onder b, van de Overeenkomst zijn niet rechtsgeldig, indien de vreemdeling tevens beschikt over een visum dat is afgegeven door de Regering van een ander land en dat een langere geldigheidsduur heeft dan het visum afgegeven door Slowakije.
+2. Verzoeken om overname zoals bedoeld in artikel 5, eerste lid, onder b, van de Overeenkomst zijn niet rechtsgeldig, indien de vreemdeling tevens beschikt over een visum dat is afgegeven door de Regering van een ander land en dat een langere geldigheidsduur heeft dan het visum afgegeven door België, Luxemburg of Nederland.
