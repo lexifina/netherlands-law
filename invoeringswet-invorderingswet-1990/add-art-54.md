@@ -1,0 +1,2 @@
+# Artikel LIV
+[Wijzigt de Wet van 29 October 1948 tot goedkeuring van het op 29 April 1948 te Washington tussen Nederland en de Verenigde Staten van Amerika gesloten verdrag ter voorkoming van dubbele belasting en ter vermijding van het ontgaan van belasting met betrekking tot belastingen van inkomsten en bepaalde andere belastingen, benevens het treffen van enige voorzieningen in verband met genoemd verdrag.]
