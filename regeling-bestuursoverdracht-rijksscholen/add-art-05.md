@@ -1,0 +1,2 @@
+# Artikel V. Verzoeken om opneming op plan van scholen
+Verzoeken als bedoeld in artikel 66 van de Wet op het voortgezet onderwijs voor openbare scholen voor voorbereidend wetenschappelijk onderwijs, voor algemeen voortgezet onderwijs en voor lager beroepsonderwijs, van een gemeente waarin een of meer zodanige rijksscholen zijn gevestigd, worden tot een bij algemene maatregel van bestuur te bepalen tijdstip niet in behandeling genomen, indien deze gemeente heeft nagelaten een verzoek als bedoeld in onderdeel C van artikel III in te dienen.
