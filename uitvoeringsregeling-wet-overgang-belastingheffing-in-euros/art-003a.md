@@ -1,0 +1,6 @@
+# Artikel 3a
+Bij de omrekening van bedragen van guldens in euro's:
+a. worden de in kolom III van de tarieftabel van artikel 53a van de Wet op de inkomstenbelasting 1964 vermelde bedragen afgeleid uit de bedragen van de kolommen I en II en de percentages van kolom IV van die tabel, nadat die bedragen in euro's zijn omgerekend;
+b. worden de in kolom III van de tarieftabel van artikel 20a van de Wet op de loonbelasting 1964 vermelde bedragen afgeleid uit de bedragen van de kolommen I en II en de percentages van kolom IV van die tabel, nadat die bedragen in euro's zijn omgerekend;
+c. worden de in artikel 25, tweede lid, en artikel 27, vijfde lid, van de Wet op de loonbelasting 1964 bedoelde tabellen en berekeningsvoorschriften vastgesteld met inachtneming van de in euro's omgerekende bedragen van de kostenaftrekken, de belastingvrije sommen en het schijventarief en de in euro's omgerekende grootte van de loonklassen van de tabellen;
+d. worden in het tarief van artikel 24, eerste lid, van de Successiewet 1956 de in de derde, de vijfde en de zevende kolom vermelde bedragen afgeleid uit de bedragen genoemd in de eerste en de tweede kolom en het heffingspercentage genoemd in onderscheidenlijk de vierde, de zesde en de achtste kolom, nadat de bedragen van de eerste en de tweede kolom zijn omgerekend in euro's.
