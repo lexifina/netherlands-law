@@ -1,0 +1,7 @@
+# Artikel XV
+Paragraaf 3 van hoofdstuk IIIB van de Algemene Arbeidsongeschiktheidswet, zoals deze paragraaf luidde vóór de datum van inwerkingtreding van artikel I, onderdeel F, van deze wet, met uitzondering van artikel 59n, zevende lid, blijft van kracht voor loonkostensubsidies als bedoeld in die paragraaf:
+a. die vóór de datum van inwerkingtreding van artikel I, onderdeel F, van deze wet door de bedrijfsvereniging zijn toegekend,
+b. die vóór de datum van inwerkingtreding van artikel I, onderdeel F, van deze wet zijn aangevraagd en betrekking hebben op
+1°. een dienstbetrekking als bedoeld in artikel 59n, eerste lid, onderdeel a, van de Algemene Arbeidsongeschiktheidswet die vóór die datum is aangegaan dan wel
+2°. op het laten verrichten van arbeid in een aangepaste dan wel in een andere functie als bedoeld in artikel 59n, eerste lid, onderdeel b, van die wet, indien de aanvang van die werkzaamheden vóór die datum is gelegen, doch die eerst op of na die datum door de bedrijfsvereniging worden toegekend,
+c. die op of na de datum van inwerkingtreding van artikel I, onderdeel F, van deze wet worden aangevraagd en betrekking hebben op een dienstbetrekking als bedoeld in artikel 59n, eerste lid, onderdeel a, van de Algemene Arbeidsongeschiktheidswet die vóór die datum is aangegaan of op het laten verrichten van arbeid in een aangepaste dan wel in een andere functie als bedoeld in artikel 59n, eerste lid, onderdeel b, van die wet, indien de aanvang van die werkzaamheden vóór die datum is gelegen.
