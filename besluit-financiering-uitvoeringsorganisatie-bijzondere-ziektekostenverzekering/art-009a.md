@@ -1,0 +1,2 @@
+# Artikel 9a
+Het College toezicht is bevoegd opgaven en gegevens van een uitvoeringsorgaan, verbindingskantoor, regionaal contactkantoor en het Centraal administratiekantoor, die van invloed zijn op de omvang van de ten laste van het Algemeen Fonds Bijzondere Ziektekosten besteedbare middelen en op de hoogte van de vergoedingen en uitkeringen ingevolge dit besluit, op hun juistheid te beoordelen en te verbeteren.
