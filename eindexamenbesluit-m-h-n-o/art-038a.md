@@ -1,0 +1,4 @@
+# Artikel 38a
+1. Het bevoegd gezag kan tot het eindexamen toelaten kandidaten die niet als leerling van de school zijn ingeschreven.
+2. Kandidaten als bedoeld in het eerste lid, die worden toegelaten tot het eindexamen, zijn behoudens het bepaalde in het derde lid aan het bevoegd gezag een bedrag verschuldigd van f 300,- voor een volledig eindexamen. Voor een niet volledig eindexamen ingevolge het bepaalde in artikel 6a gelden de volgende bedragen: voor één vak f 155,-, voor twee vakken f 230,-, voor drie of meer vakken f 300,-.
+3. In afwijking van het bepaalde in het tweede lid is een toelatingsbedrag niet verschuldigd door kandidaten die zijn ingeschreven bij een andere uit de openbare kas bekostigde school, - al dan niet in de zin van dit besluit -, afdeling of onderwijsinstelling en die aldaar geen eindexamen afleggen.

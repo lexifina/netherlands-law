@@ -1,0 +1,3 @@
+# Artikel 25b
+1. Onze minister stelt jaarlijks vóór 1 oktober voor het eerste eindexamen en vóór 1 maart voor het tweede eindexamen de aanvang van het centraal geregelde gedeelte van het eindexamen vast alsmede de indeling van het schriftelijk werk daarvan.
+2. De voorzitter van de examencommissie zendt uiterlijk veertien dagen voor de aanvang van het centraal geregelde gedeelte van het eindexamen de examenroosters aan de inspecteur en aan de voorzitter van de commissie, bedoeld in artikel 25c, eerste lid, met vermelding van de datum waarop de in artikel 30b bedoelde vergadering wordt gehouden.

@@ -1,0 +1,7 @@
+# Artikel 25h
+1. De directeur stelt het schriftelijke werk met een exemplaar van de opgaven, een exemplaar van de beoordelingsnormen en het proces-verbaal van het examen aan de examinator in het desbetreffende vak ter hand. Deze ziet het werk na, wijst de gemaakte fouten aan en zendt het met zijn aan de hand van de beoordelingsnormen vastgestelde beoordeling en voorzien van de toelichting die hij voor een juiste waardering van belang acht, terug aan de voorzitter van de examencommissie. De directeur draagt er zorg voor, dat de door de examinator toegekende cijfers op een afzonderlijk vel papier wordt bijgevoegd en dat deze cijfers niet op het werk zelf worden vermeld.
+2. Vervolgens zendt de directeur het werk met een exemplaar van de opgave en van de beoordelingsnormen alsmede het proces-verbaal aan de gecommitteerde.
+3. De gecommitteerde ziet eveneens het werk na en zendt het, voorzien van zijn beoordeling en een toelichting daarop, terug aan de directeur.
+4. De directeur stelt het gemiddelde vast van de cijfers, door de examinator en de gecommitteerde gegeven voor hun beoordelingen, als bedoeld in het eerste en derde lid.
+5. Indien de door de examinator en de gecommitteerde vastgestelde cijfers meer dan een punt verschillen, treedt de directeur met deze examinator en gecommitteerde in overleg ter vaststelling van het cijfer.
+6. Voor de beoordeling van kennis en inzicht van een kandidaat wordt gebruik gemaakt van de cijfers 1 tot en met 10, waaraan de betekenis toekomt als aangegeven in artikel 8.

@@ -1,0 +1,4 @@
+# Artikel 25d
+1. Indien Onze minister er om verzoekt, zendt het bevoegd gezag hem voor het eerste eindexamen en voor het tweede eindexamen een lijst van de eindexamenvakken, een naamlijst van de leraren die in die vakken onderwijs geven en andere door Onze minister noodzakelijk geachte gegevens ten behoeve van de aanwijzing van gecommitteerden aan een andere school.
+2. De directeur zendt jaarlijks vóór 1 oktober voor het eerste eindexamen en vóór 1 maart voor het tweede eindexamen aan de inspecteur een genummerde alfabetische naamlijst van de kandidaten met vermelding van de vakken waarin door hen schriftelijk eindexamen zal worden afgelegd.
+3. Indien Onze minister krachtens artikel 25c een leraar van een school heeft aangewezen als gecommitteerde ten behoeve van een andere school, draagt het bevoegd gezag van de eerstgenoemde school er zorg voor, dat de leraar die uit die aanwijzing voortvloeiende verplichtingen nakomt.
