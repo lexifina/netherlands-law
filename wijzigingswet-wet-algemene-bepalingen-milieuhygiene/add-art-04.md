@@ -1,0 +1,3 @@
+# Artikel IV
+1. Indien vóór het tijdstip waarop deze wet in werking treedt, schadevergoedingen als bedoeld in artikel 61am, eerste lid, van de Wet algemene bepalingen milieuhygiëne zijn verleend, maar geen heffing als aldaar bedoeld is ingesteld, kunnen provinciale staten in afwijking van het vierde lid van dat artikel binnen een jaar na inwerkingtreding van deze wet alsnog besluiten tot het instellen van vorenbedoelde heffing.
+2. Indien binnen de periode, bedoeld in het eerste lid, de in artikel II, onder a en b, bedoelde voorstellen van wet tot wet worden verheven en in werking treden, is voor het resterende gedeelte van die periode het eerste lid van overeenkomstige toepassing met betrekking tot het afwijken van artikel 15.44, vierde lid, van de Wet milieubeheer.

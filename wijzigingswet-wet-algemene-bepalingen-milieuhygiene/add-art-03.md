@@ -1,0 +1,5 @@
+# Artikel III
+1. Artikel 61zd van de Wet algemene bepalingen milieuhygiëne geldt gedurende twee jaren na de inwerkingtreding van deze wet niet voor het verlenen van een bijdrage krachtens ministeriële regelingen welke vóór die inwerkingtreding in de Staatscourant zijn bekendgemaakt.
+2. Artikel 61zd van de Wet algemene bepalingen milieuhygiëne geldt niet voor het verlenen van een bijdrage ter uitvoering van verplichtingen die voor de inwerkingtreding van deze wet zijn aangegaan.
+3. Indien binnen de periode, bedoeld in het eerste lid, het in artikel II, onder a, bedoelde voorstel van wet tot wet wordt verheven en in werking treedt, is voor het resterende gedeelte van die periode het eerste lid van overeenkomstige toepassing met betrekking tot het gelden van artikel 15.27 van de Wet milieubeheer.
+4. Indien het in artikel II, onder a, bedoelde voorstel van wet tot wet wordt verheven en in werking treedt, is het tweede lid van overeenkomstige toepassing met betrekking tot het gelden van artikel 15.27 van de Wet milieubeheer.
