@@ -8,7 +8,7 @@
 ### § 3. Eisen aan de woning
 ### § 4. Eisen aan de financiële positie
 ## Hoofdstuk 3. De hoogte van de huursubsidie
-### § 1. Normhuur
+### § 1. Basishuur en normhuur
 ### § 2. Kwaliteitskortings- en aftoppingsgrens
 ### § 3. Berekening van de huursubsidie
 ## Hoofdstuk 4. Wijzigingen van omstandigheden, hardheidsbepaling

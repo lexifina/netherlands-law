@@ -1,6 +1,6 @@
 # Artikel 30a
 1. Onze Minister zendt over een subsidietijdvak een door hem vastgesteld huursubsidiebericht of beperkt huursubsidiebericht:
-a. aan de huurders die een aanvraag om toekenning van huursubsidie hebben ingediend en waarvan Onze Minister de gegevens, bedoeld in de artikelen 5, tweede lid, 12, tweede lid, en 30b, heeft ontvangen, binnen vier weken na ontvangst van die gegevens, en
+a. aan de huurders die een aanvraag om toekenning van huursubsidie hebben ingediend en waarvan Onze Minister de gegevens, bedoeld in de artikelen 12, tweede lid, en 30b, heeft ontvangen, binnen vier weken na ontvangst van die gegevens, en
 b. aan de huurders die over het subsidietijdvak voorafgaand aan het in de aanhef genoemde subsidietijdvak een huursubsidiebericht of een beperkt huursubsidiebericht hebben ontvangen, waarna in eerstgenoemd tijdvak positief is beschikt, uiterlijk 1 juli van elk jaar.
 2. Tegen een huursubsidiebericht of een beperkt huursubsidiebericht kan geen bezwaar worden gemaakt of beroep worden ingesteld.
 3. Indien de huurder na ontvangst van een huursubsidiebericht van mening is dat hij op meer huursubsidie aanspraak kan maken dan de huursubsidie die is opgenomen in dat bericht, kan hij dit binnen vier weken na de verzenddatum van dat bericht aan Onze Minister kenbaar maken.
