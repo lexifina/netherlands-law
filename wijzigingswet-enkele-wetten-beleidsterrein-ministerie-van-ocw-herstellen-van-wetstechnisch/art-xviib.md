@@ -1,0 +1,2 @@
+# Artikel XVIIB. Wijziging van de Wet, houdende wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet op het voortgezet onderwijs en de Wet medezeggenschap onderwijs 1992 in verband met een verruiming van de bestedingsvrijheid voor scholen in het primair en voortgezet onderwijs
+[Wijzigt de Wijzigingswet Wet op het primair onderwijs, Wet op de expertisecentra, Wet op het voortgezet onderwijs en Wet medezeggenschap onderwijs 1992.]

@@ -1,0 +1,3 @@
+# Artikel XVI. Interimwet zij-instroom leraren primair en voortgezet onderwijs onder werking van de Wet op het onderwijstoezicht
+1. Voor de toepassing van de Wet op het onderwijstoezicht wordt in artikel 1, onderdeel e, van die wet tot een bij koninklijk besluit te bepalen tijdstip onder «onderwijswet» mede verstaan de Interimwet zij-instroom leraren primair en voortgezet onderwijs.
+2. De artikelen 18 en 19 van de Wet op het onderwijstoezicht zijn tot het in het eerste lid bedoelde tijdstip van overeenkomstige toepassing op de taken van de in die artikelen bedoelde instellingen ter uitvoering van de Interimwet zij-instroom leraren primair en voortgezet onderwijs.
