@@ -21,7 +21,7 @@
 ### Titel 3. Rijksbijdrage ten behoeve van de educatie en de huisvesting van de opleidingen voortgezet algemeen volwassenenonderwijs
 ### Titel 4. Bekostiging van kenniscentra beroepsonderwijs bedrijfsleven
 #### § 1. Bekostiging
-### Titel 5. Begroting en verslaglegging
+### Titel 5. Begroting, verslaglegging en gegevensverstrekking
 #### § 1. Instellingen voor beroepsonderwijs en educatie, en agrarische innovatie- en praktijkcentra
 #### § 2. Kenniscentra beroepsonderwijs bedrijfsleven
 ### TITEL 6. SCHOLENGEMEENSCHAP ROC OF AOC MET SCHOOL VOOR VOORTGEZET ONDERWIJS; VOORSCHRIFTEN T.A.V. VBO IN AOC
