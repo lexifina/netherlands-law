@@ -1,0 +1,3 @@
+# Artikel VIII
+Deze beschikking, die kan worden aangehaald als 'FIOD-toelage regeling', treedt in de plaats van de gemeenschappelijke beschikking van de staatssecretaris van Financiën van 9 maart 1988, nr. 588-3711, en de minister van Binnenlandse Zaken van 17 maart 1988, nr. AB88/159/I. Zij treedt in werking met ingang van de tweede dag na publikatie in de Nederlandse Staatscourant en werkt terug tot en met 1 juli 1989.
+De minister van Financiën is belast met de uitvoering van deze beschikking, die in de Nederlandse Staatscourant zal worden geplaatst en waarvan een afschrift zal worden gezonden aan de Algemene Rekenkamer.
