@@ -1,0 +1,21 @@
+# Article V. The Council
+1. The Council shall be composed of not more than two delegates from each Member State who may be accompanied at meetings of the Council by advisers.
+2. The Council shall, subject to the provisions of this Convention,
+a. determine the Organization's policy in scientific, technical and administrative matters;
+b. approve the programmes of activities of the Organization;
+c. adopt, by a two-thirds majority of Member States represented and voting, the parts of the budget which apply to the different programmes of activities and determine the financial arrangements of the Organization in accordance with the Financial Protocol annexed to this Convention;
+d. review expenditures and approve and publish audited annual accounts of the Organization;
+e. decide on the staff establishments required;
+f. publish an annual report or reports;
+g. have such other powers and perform such other functions as may be necessary for the purposes of this Convention.
+3. The Council shall meet at least once a year at such places as it shall decide.
+4. Each Member State shall have one vote in the Council.
+5. Except where otherwise provided in this Convention, decisions of the Council shall be taken by a simple majority of Member States represented and voting.
+6. Where this Convention or the Financial Protocol annexed thereto provides that a matter requires approval by the Council by a two-thirds majority of all the Member States, and this matter relates directly to any programme of activities, the majority shall include also a two-thirds majority of all the Member States participating in that programme.
+7. Except where this Convention or the Financial Protocol annexed thereto provides that a matter requires approval by the Council unanimously or by a two-thirds majority of all the Member States, no Member State shall be entitled to vote in regard to any matter falling within the limits of a programme as defined by the Council by virtue of Article II unless it participates in that programme or unless the matter affects directly any programme in which it participates.
+8. A Member State shall not be entitled to vote in the Council if the amount of its unpaid contributions to the Organization exceeds the amount of the contributions due from it for the current financial year and the immediately preceding financial year. Similarly, it shall not be entitled to vote in the Council in respect of a particular programme of activities if the amount of its unpaid contributions to that programme exceeds the amount of the contributions due from it for the current financial year and the immediately preceding financial year. The Council nevertheless may, by a two-thirds majority of all the Member States, permit such Member State to vote if it is satisfied that the failure to pay is due to conditions beyond the control of the State concerned.
+9. For the discussion of any matter in the Council the presence of delegates from a majority of the Member States entitled to vote on that matter shall be necessary to constitute a quorum.
+10. Subject to the provisions of this Convention, the Council shall adopt its own rules of procedure.
+11. The Council shall elect a president and two vice-presidents who shall hold office for one year and may be re-elected on not more than two consecutive occasions.
+12. The Council shall establish a Scientific Policy Committee and a Finance Committee, and such other subordinate bodies as may be necessary for the purposes of the Organization, and in particular for the execution and co-ordination of its different programmes. The creation and the terms of reference of such bodies shall be determined by the Council by a two-thirds majority of all the Member States. Subject to the provisions of this Convention and of the Financial Protocol annexed thereto, such subordinate bodies shall adopt their own rules of procedure.
+13. Pending the deposit of their instruments of ratification or accession, the States mentioned in paragraph 1 of Article III may be represented at meetings of the Council and take part in its work until the thirty-first of December, 1954. This right shall not include the right to vote, unless the State concerned has contributed to the Organization in accordance with the provisions of paragraph 1 of Article 4 of the Financial Protocol annexed to this Convention.

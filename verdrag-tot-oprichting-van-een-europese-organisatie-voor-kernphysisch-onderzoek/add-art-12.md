@@ -1,0 +1,2 @@
+# Article XII. Withdrawal
+After this Convention has been in force for seven years, a Member State may, subject to the provisions of paragraph 4 of Article III, give notice in writing to the President of Council of withdrawal from the Organization and such withdrawal shall take effect at the end of the financial year following that in which notice is given, or at such later date as the Member State proposes.
