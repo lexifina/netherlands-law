@@ -1,0 +1,3 @@
+# Artikel 6a
+1. De vermindering, bedoeld in artikel 55a, eerste lid, van de Meststoffenwet, komt ten laste van het niet-verplaatsbare deel van het niet-gebonden mestproductierecht voor varkens en kippen, zoals dat geldt op de dag voorafgaand aan het tijdstip van inwerkingtreding van artikel 15 van de Wet herstructurering varkenshouderij.
+2. Voor zover het niet-verplaatsbare deel, bedoeld in het eerste lid, kleiner is dan de hoeveelheid fosfaat overeenkomend met de in dat lid bedoelde vermindering, komt deze vermindering ten laste van het verplaatsbare deel van het niet-gebonden mestproductierecht voor varkens en kippen, zoals dat geldt op de dag voorafgaand aan het tijdstip van inwerkingtreding van artikel 15 van de Wet herstructurering varkenshouderij.
