@@ -1,0 +1,7 @@
+# Tekst
+De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
+## Vraag
+Kunnen ondernemers, niet zijnde onderwijsinstellingen, die huiswerk- en/of studiebegeleiding verstrekken, afzien van de in Mededeling 56 (Besluit van 5 augustus 1998, nr. VB98/125) opgenomen vrijstelling en op verzoek voor al hun prestaties terzake in de BTW-heffing worden betrokken?
+## Antwoord
+Voor de BTW-heffing dient onderscheid te worden gemaakt tussen vakinhoudelijke begeleiding en niet-⁠vakinhoudelijke begeleiding. De door de onderhavige ondernemers verzorgde vakinhoudelijke huiswerk- en/of studiebegeleiding is vrijgesteld op grond van artikel 11, eerste lid, onderdeel o, 2°, van de Wet op de omzetbelasting 1968 juncto artikel 8, eerste lid, onderdeel d, van het Uitvoeringsbesluit omzetbelasting 1968. De niet-vakinhoudelijke huiswerk- en/of studiebegeleiding is op grond van Mededeling 56 (punt 3) bij wijze van goedkeuring vrijgesteld.
+Voor de vakinhoudelijke begeleiding kan door de betrokken ondernemers niet van de vrijstelling worden afgezien, omdat deze begeleiding verplicht is vrijgesteld. Vanwege het facultatieve karakter van de vrijstelling voor niet-vakinhoudelijke huiswerk- en/of studiebegeleiding kunnen de ondernemers voor deze vorm van begeleiding opteren voor BTW-heffing. Dit is alleen anders als de niet-vakinhoudelijke begeleiding vanwege haar (relatief) geringe omvang wordt geabsorbeerd door de vakinhoudelijke begeleiding en alsdan deelt in de verplichte vrijstelling voor laatstbedoelde begeleiding.
