@@ -1,0 +1,2 @@
+# Artikel II
+Gelet op en onverminderd de verplichting, bedoeld in de artikelen 39 en 40 der wet, doet de uitkeringsgerechtigde aan wie een uitkering en/of een tegemoetkoming krachtens de wet wordt uitbetaald, al dan niet door zijn wettelijke vertegenwoordiger, jaarlijks op een door de Uitkeringsraad te bepalen tijdstip en wijze, opgave van alle door hem in het voorafgaande kalenderjaar, anders dan uit vermogen, genoten inkomsten, en indien zulks door de Uitkeringsraad wordt verlangd, van de hoogte en samenstelling van zijn vermogen.
