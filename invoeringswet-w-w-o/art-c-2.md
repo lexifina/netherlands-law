@@ -1,0 +1,4 @@
+# Artikel C.2. Intrekking enige wetten en overgangsbepalingen
+Voor zover bij deze wet niet anders is bepaald, worden op het tijdstip van inwerkingtreding van de W.W.O. ingetrokken:
+a. de Wet op het wetenschappelijk onderwijs (Stb. 1975, 729), uitgezonderd de artikelen XIII, XIV, zoals gewijzigd bij deze wet, en XXIII;
+b. de ingevolge het bepaalde in artikel I van de onder a genoemde wet gehandhaafde bepalingen van de hoger-onderwijswet 1876 (Stb. 102) en van wetten tot wijziging van de laatstgenoemde wet, voor zover die bepalingen niet reeds zijn vervallen, uitgezonderd de artikelen 2 en 4 van de Wet van 5 november 1948 (Stb. I 489), artikel II, leden XIII, XIV en XVI, van de Wet van 7 juni 1956 (Stb. 310), artikel V van de Wet van 28 juli 1958 (Stb. 385) en artikel III, onder B, van de Wet van 30 oktober 1958 (Stb. 494);
