@@ -1,0 +1,2 @@
+# Artikel II
+De Regeling classificatie medische hulpmiddelen zoals gewijzigd bij artikel I geldt tot 1 maart 2004 niet ten aanzien van de persoon, bedoeld in artikel 4, derde lid, van het Besluit medische hulpmiddelen voor wat betreft het voorhanden hebben van borstimplantaten die voor 1 september 2003 in de handel zijn gebracht overeenkomstig de genoemde regeling zoals die tot dat tijdstip luidde.
