@@ -1,0 +1,4 @@
+# Artikel 1b
+1. De benoeming van de president van, een vice-president van of een raadsheer in de Hoge Raad kan op verzoek van de betrokkene, nadat hij de leeftijd van eenenzestig jaren heeft bereikt, bij koninklijk besluit worden gewijzigd in een benoeming als raadsheer in buitengewone dienst bij de Hoge Raad.
+2. De benoeming van de procureur-generaal, de plaatsvervangend procureur-generaal of een advocaat-generaal bij de Hoge Raad kan op verzoek van de betrokkene, nadat hij de leeftijd van eenenzestig jaren heeft bereikt, bij koninklijk besluit worden gewijzigd in een benoeming als advocaat-generaal in buitengewone dienst bij de Hoge Raad.
+3. Een wijziging als bedoeld in het eerste of tweede lid, wordt voor de vaststelling van aanspraken op en verplichtingen ten aanzien van pensioenen en uitkeringen wegens vrijwillig vervroegd uittreden gelijkgesteld met ontslag. Artikel 46n is niet van toepassing op de raadsheren en de advocaten-generaal in buitengewone dienst.
