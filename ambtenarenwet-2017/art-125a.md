@@ -4,3 +4,4 @@
 a. een politieke groepering, waarvan de aanduiding is ingeschreven overeenkomstig de Kieswet of
 b. een vakvereniging.
 3. De ambtenaar is verplicht tot geheimhouding van hetgeen hem in verband met zijn functie ter kennis is gekomen, voor zover die verplichting uit de aard der zaak volgt.
+4. De ambtenaar die te goeder trouw de bij hem levende vermoedens van misstanden uit volgens de procedure, bedoeld in artikel 125, eerste lid, onder m, zal als gevolg van het uiten van die vermoedens geen nadelige gevolgen voor zijn rechtspositie ondervinden tijdens en na het volgen van die procedure.
