@@ -103,7 +103,7 @@
 #### Afdeling 16.2.6. Registratie van broeikasgasemissierechten
 ## Hoofdstuk 17. Maatregelen in bijzondere omstandigheden
 ## Hoofdstuk 18. Handhaving
-## Hoofdstuk 19. Bepalingen in verband met de openbaarheid
+## Hoofdstuk 19. Openbaarheid van milieu-informatie
 ## Hoofdstuk 20. Beroep bij de administratieve rechter
 ### § 20.1. Algemeen
 ### § 20.2. Beroep tegen besluiten die met toepassing van de paragrafen 3.5.2 tot en met 3.5.5 van de Algemene wet bestuursrecht tot stand zijn gekomen
