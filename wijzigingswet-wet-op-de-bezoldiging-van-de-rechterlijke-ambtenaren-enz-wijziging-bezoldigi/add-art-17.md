@@ -1,0 +1,2 @@
+# Artikel XVII
+Artikel XVI is van overeenkomstige toepassing op rechterlijke ambtenaren als bedoeld in artikel 2, tweede en derde lid, van de Wet op de bezoldiging van de rechterlijke ambtenaren, die op het tijdstip van inwerkingtreding van deze wet als zodanig zijn aangewezen en die in aansluiting op hun aanwijzing worden benoemd tot rechterlijk ambtenaar als bedoeld in de artikelen 1 en 1a van die wet.

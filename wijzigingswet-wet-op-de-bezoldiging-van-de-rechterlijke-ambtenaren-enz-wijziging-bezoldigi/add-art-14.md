@@ -1,0 +1,3 @@
+# Artikel XIV
+1. De benoemingen van de voorzitter, de leden en de plaatsvervangende leden van de Centrale Raad van Beroep die op het tijdstip van inwerkingtreding van deze wet als zodanig zijn benoemd, worden van rechtswege gewijzigd in een benoeming tot president van, raadsheer in en raadsheer-plaatsvervanger in de Centrale Raad van Beroep.
+2. De benoemingen van de voorzitter, de leden en de plaatsvervangende leden van het College van Beroep voor het bedrijfsleven die op het tijdstip van inwerkingtreding van deze wet als zodanig zijn benoemd, worden van rechtswege gewijzigd in een benoeming tot president van, raadsheer in en raadsheer-plaatsvervanger in het College.
