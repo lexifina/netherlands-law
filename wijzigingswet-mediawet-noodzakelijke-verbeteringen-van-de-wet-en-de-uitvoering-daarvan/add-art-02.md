@@ -1,0 +1,2 @@
+# Artikel II
+In afwijking van artikel 15, vierde lid, tweede volzin, van de Mediawet, kunnen leden van het bestuur van de Nederlandse Programma Stichting, die voor de eerste keer zijn benoemd in de loop van de op 1 januari 2000 geëindigde vijfjarige termijn, bedoeld in artikel 15, vierde lid, van de Mediawet, zoals dat artikellid luidde op de dag voor het tijdstip van inwerkingtreding van artikel I, onderdeel C, van deze wet, en die met ingang van 1 januari 2000 zijn herbenoemd, een tweede maal worden herbenoemd voor een termijn van vier jaar.
