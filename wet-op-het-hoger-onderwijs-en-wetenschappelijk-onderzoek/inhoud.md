@@ -4,6 +4,7 @@
 ### Titel 2. De instellingen
 #### Paragraaf 1. Bekostigde instellingen voor hoger onderwijs
 #### Paragraaf 2. Aangewezen instellingen voor hoger onderwijs
+#### Paragraaf 2a. Postinitiële masteropleidingen
 #### Paragraaf 3. Academische ziekenhuizen
 #### Paragraaf 4. Instellingen voor wetenschappelijk onderzoek
 ### Titel 3. Kwaliteitszorg
@@ -15,7 +16,6 @@
 ### Titel 5. Subsidiëring academische ziekenhuizen ten behoeve van de educatieve voorziening
 ## Hoofdstuk 3. Overleg
 ## Hoofdstuk 4. Het personeel
-## Hoofdstuk 5. Het toezicht
 ## Hoofdstuk 5a. Accreditatie in het hoger onderwijs
 ### Titel 1. Accreditatieorgaan
 ### Titel 2. Accreditatie en toets nieuwe opleiding
@@ -30,8 +30,10 @@
 #### Paragraaf 1. Het onderwijs en de examens
 #### Paragraaf 2. Gemeente van vestiging
 #### Paragraaf 3. De promoties
-#### Paragraaf 4. Titulatuur
-### Titel 2. Vooropleidingseisen
+#### Paragraaf 4. Graden en titulatuur
+### Titel 2. Vooropleidingseisen en toelatingseisen
+#### Paragraaf 1. Vooropleidingseisen bacheloropleidingen
+#### Paragraaf 2. Toelatingseisen masteropleidingen
 ### TITEL 2A. VRIJSTELLING VAN HET AFLEGGEN VAN TENTAMENS OP GROND VAN HET BEZIT VAN EEN DIPLOMA BEROEPSONDERWIJS
 ### Titel 3. Studenten en extraneï
 #### Paragraaf 1. Inschrijving
@@ -109,5 +111,6 @@
 #### Paragraaf 3. Ongedeelde opleidingen in het wetenschappelijk onderwijs
 #### Paragraaf 4. Omzetting van rechtswege en registratie van bacheloropleidingen in het hoger beroepsonderwijs; tijdelijke handhaving van voortgezette opleidingen
 #### Paragraaf 5. Invoering studiepuntensysteem «nieuwe stijl»
-#### Paragraaf 6. Overig invoerings- en overgangsrecht
-#### Paragraaf 7. Overige bepalingen
+#### Paragraaf 6. Overgangsrecht accreditatieplicht
+#### Paragraaf 7. Overig invoerings- en overgangsrecht
+#### Paragraaf 8. Overige bepalingen
