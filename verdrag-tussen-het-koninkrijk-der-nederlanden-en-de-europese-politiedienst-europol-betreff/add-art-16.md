@@ -1,0 +1,3 @@
+# Article XVI. Social Security
+1. Provided Europol establishes its own social security scheme or adheres to a social security scheme offering coverage comparable to the coverage under Netherlands legislation, Europol and its Staff to whom the aforementioned scheme applies shall be exempt from all social security provisions in the Netherlands, unless the Staff to whom the aforementioned scheme applies take up a gainful activity in the Netherlands.
+2. The provisions of paragraph 1 shall apply mutatis mutandis to members of the family forming part of the household of the persons referred to in paragraph 1, unless they are employed otherwise than by Europol or self-employed in the Netherlands or unless they receive Netherlands social security benefit.

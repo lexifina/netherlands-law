@@ -1,0 +1,2 @@
+# Article V. Protection of the Headquarters
+The Host State authorities shall exercise due diligence to ensure that the security and tranquillity of the Headquarters are not impaired by any person or group of persons attempting unauthorized entry into the Headquarters, or creating disturbances in its immediate vicinity. As may be required for this purpose, the Host State authorities shall provide adequate police protection on the boundaries and in the vicinity of the Headquarters.
