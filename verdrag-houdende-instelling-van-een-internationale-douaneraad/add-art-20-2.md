@@ -1,0 +1,5 @@
+# Artikel XX
+(a) De Raad kan aan de Verdragsluitende Partijen aanbevelingen doen tot wijziging van dit Verdrag.
+(b) Elke Verdragsluitende Partij, die een wijziging goedkeurt, geeft hiervan schriftelijk kennis aan het Ministerie van Buitenlandse Zaken van België, dat aan alle Regeringen, die dit Verdrag hebben ondertekend of die tot dit Verdrag zijn toegetreden, alsmede aan de Secretaris-Generaal, de ontvangst van deze kennisgeving bericht.
+(c) Een wijziging treedt in werking drie maanden nadat de kennisgevingen van goedkeuring van alle Verdragsluitende Partijen door het Ministerie van Buitenlandse Zaken van België zijn ontvangen. Indien een wijziging aldus door alle Verdragsluitende Partijen is goedgekeurd, geeft het Ministerie van Buitenlandse Zaken van België hiervan kennis aan alle Regeringen, die dit Verdrag hebben ondertekend en die tot dit Verdrag zijn toegetreden, alsmede aan de Secretaris-Generaal, en deelt hun de dag van inwerkingtreding mede.
+(d) Nadat een wijziging in werking is getreden, kan geen enkele Regering dit Verdrag bekrachtigen of tot dit Verdrag toetreden zonder eveneens deze wijziging aan te nemen.

@@ -1,0 +1,14 @@
+# Artikel III. Eigendommen, fondsen en bezittingen
+§ 3. De Raad, zijn eigendommen en bezittingen, waar deze zich ook bevinden en wie deze ook onder zich heeft, zijn vrijgesteld van rechtsvervolging, behoudens wanneer de Raad in een bijzonder geval uitdrukkelijk afstand heeft gedaan van zijn immuniteit. Het is echter wel verstaan, dat afstand van immuniteit zich niet uitstrekt tot enige maatregel van ten uitvoerlegging.
+§ 4. De gebouwen en de terreinen van de Raad zijn onschendbaar.
+Zijn eigendommen en bezittingen, waar deze zich ook bevinden en wie deze ook onder zich heeft, zijn vrijgesteld van onderzoek, vordering, confiscatie, onteigening of van iedere andere vorm van ingrijpen, hetzij door optreden van uitvoerende, administratieve, rechterlijke of wetgevende aard.
+§ 5. De archieven van de Raad en in het algemeen alle stukken, die hem toebehoren of die hij onder zich heeft, zijn onschendbaar, waar deze zich ook bevinden.
+§ 6. Zonder beperkt te worden door financiële voorschriften, regelingen of moratoria van enigerlei aard,
+a) kan de Raad valuta van enigerlei aard bezitten en rekeningen hebben in iedere geldsoort;
+b) kan de Raad zijn fondsen vrijelijk van het ene land naar het andere of binnen een land overmaken en de valuta, die hij bezit, in elke andere valuta omzetten.
+§ 7. Bij de uitoefening van de rechten, die hem zijn verleend krachtens § 6 hierboven, zal de Raad de nodige aandacht schenken aan vertogen van een van zijn Leden en daaraan gevolg geven voor zover hij van oordeel is, dat hierdoor zijn belangen niet worden geschaad.
+§ 8. De Raad, zijn bezittingen, inkomen en andere eigendommen zijn:
+a) vrijgesteld van alle directe belastingen. Het is echter wel verstaan, dat de Raad geen vrijstelling zal opeisen van belastingen, die in feite niet anders zijn dan retributies voor algemene overheidsdiensten;
+b) vrijgesteld van douanerechten, alsmede van verboden en beperkingen van invoer en uitvoer met betrekking tot artikelen, die door de Raad worden ingevoerd of uitgevoerd voor zijn officiële gebruik. Het is echter wel verstaan, dat de goederen, die met zodanige vrijstelling zijn ingevoerd, in het land, waarin zij werden ingevoerd, niet zullen worden verkocht anders dan op voorwaarden, welke door de Regering van dat land zijn vastgesteld;
+c) vrijgesteld van douanerechten, alsmede van verboden en beperkingen van invoer en uitvoer met betrekking tot zijn publicaties.
+§ 9. Hoewel de Raad in beginsel geen aanspraak zal maken op vrijstelling van accijnzen en van belastingen op de verkoop van roerend en onroerend goed, welke een deel vormen van de te betalen prijs, zullen niettemin, wanneer de Raad voor officieel gebruik belangrijke aankopen doet van goederen, in welker prijs zodanige belastingen begrepen zijn, de Leden van de Raad, telkens wanneer dit mogelijk is, de nodige administratieve regelingen treffen voor de kwijtschelding of teruggave van het bedrag van zodanige belastingen.

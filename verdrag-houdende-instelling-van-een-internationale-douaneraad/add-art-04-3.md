@@ -1,0 +1,2 @@
+# Artikel IV
+De Leden van de Raad verschaffen hem op zijn verzoek de inlichtingen en documentatie, welke nodig zijn voor het vervullen van zijn taak; geen enkel Lid van de Raad is evenwel verplicht vertrouwelijke inlichtingen te verschaffen, welker bekendmaking een beletsel zou vormen voor de toepassing van de wet, in strijd zou zijn met het algemeen belang of nadelig zou zijn voor de rechtmatige handelsbelangen van openbare of particuliere ondernemingen.

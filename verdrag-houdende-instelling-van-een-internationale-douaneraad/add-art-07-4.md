@@ -1,0 +1,6 @@
+# Artikel VII. Deskundigen met zendingen voor de Raad
+§ 20. Aan deskundigen (andere dan de functionarissen, bedoeld in artikel VI), die zendingen voor de Raad verrichten, worden voor de duur van hun zending, de duur van de daarmede verband houdende reizen daarin begrepen, zodanige voorrechten en immuniteiten verleend als nodig zijn voor de onafhankelijke uitoefening van hun functies, en in het bijzonder:
+a) immuniteit van persoonlijke arrestaties of gevangenhouding en van inbeslagneming van hun bagage;
+b) vrijstelling van rechtsvervolging met betrekking tot de door hen in de vervulling van hun zending en binnen de grenzen van hun bevoegdheid gesproken of geschreven woorden en verrichte handelingen;
+c) onschendbaarheid van alle papieren en stukken.
+§ 21. De voorrechten, immuniteiten en faciliteiten worden aan de deskundigen verleend in het belang van de Raad en niet voor hun persoonlijk voordeel. De Secretaris-Generaal heeft het recht en de plicht de immuniteit van een deskundige op te heffen, telkens wanneer hij van oordeel is dat de immuniteit aan de loop van de gerechtigheid in de weg staat en de immuniteit kan worden opgeheven zonder dat afbreuk wordt gedaan aan de belangen van de Raad.

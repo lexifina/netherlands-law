@@ -1,0 +1,2 @@
+# Article XIX
+The present Convention is of unlimited duration, but at any time after the expiry of five years from its entry into force under paragraph (a) of Article XVII, any Contracting Party may withdraw therefrom. Withdrawal shall take effect one year after the date of receipt by the Belgian Ministry of Foreign Affairs of the notification of withdrawal. The Belgian Ministry of Foreign Affairs shall notify each withdrawal to all signatory and acceding Governments and to the Secretary General.

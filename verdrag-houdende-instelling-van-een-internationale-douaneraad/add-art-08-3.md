@@ -1,0 +1,3 @@
+# Artikel VIII
+(a) Elk Lid van de Raad heeft een stem; geen enkel Lid kan evenwel deelnemen aan een stemming over aangelegenheden, welke betrekking hebben op de interpretatie, de toepassing of de wijziging van de Verdragen als bedoeld zijn in artikel III, lid d, hiervoor, welke in werking zijn getreden doch op hem niet van toepassing zijn.
+(b) Behoudens het bepaalde in artikel VI, lid b, worden de besluiten van de Raad genomen met een meerderheid van twee derden van de aanwezige en stemgerechtigde Leden. De Raad neemt geen beslissing over enige aangelegenheid, tenzij meer dan de helft van de Leden, die in een zodanige aangelegenheid stemrecht hebben, vertegenwoordigd zijn.

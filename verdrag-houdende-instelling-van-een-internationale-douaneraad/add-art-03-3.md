@@ -1,0 +1,10 @@
+# Artikel III
+De taak van de Raad is:
+(a) alle vraagstukken te bestuderen met betrekking tot de samenwerking op het gebied van de douane, welke samenwerking de Verdragsluitende Partijen zijn overeengekomen te bevorderen overeenkomstig de algemene doelstellingen van dit Verdrag;
+(b) de technische aspecten van de douanestelsels alsmede de daarmede verband houdende economische factoren te onderzoeken, ten einde zijn Leden practische middelen voor te stellen om de grootst mogelijke overeenstemming en eenvormigheid te bereiken;
+(c) ontwerp-verdragen en wijzigingen van verdragen op te stellen en de aanneming daarvan aan de betrokken Regeringen aan te bevelen;
+(d) aanbevelingen te doen, ten einde een gelijke interpretatie en toepassing te verzekeren van verdragen, welke door zijn toedoen zijn gesloten, alsmede van het Verdrag inzake de nomenclatuur voor de indeling van goederen in de douanetarieven en van het Verdrag nopens de waarde van goederen in douanezaken, welke Verdragen zijn opgesteld door de Studiegroep voor de Europese Douane-Unie, en te dien einde de functies te vervullen, welke hem uitdrukkelijk bij de bepalingen van genoemde Verdragen zijn opgelegd;
+(e) in de hoedanigheid van bemiddelaar aanbevelingen te doen voor de beslechting van geschillen met betrekking tot de interpretatie of de toepassing van de Verdragen als bedoeld zijn in lid d hiervoor, overeenkomstig de bepalingen van genoemde Verdragen; de betrokken Partijen kunnen zich in gemeen overleg bij voorbaat verbinden zich te schikken naar de aanbevelingen van de Raad;
+(f) de verspreiding van inlichtingen met betrekking tot de douanereglementering en de douanetechniek te verzekeren;
+(g) ambtshalve of op verzoek aan de betrokken Regeringen inlichtingen of adviezen te verstrekken betreffende douaneaangelegenheden, welke vallen binnen het kader van de algemene doelstellingen van dit Verdrag, en terzake aanbevelingen te doen;
+(h) met andere intergouvernementele organisaties samen te werken inzake aangelegenheden, welke tot zijn competentie behoren.

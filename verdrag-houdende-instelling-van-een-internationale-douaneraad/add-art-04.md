@@ -1,0 +1,2 @@
+# Article IV
+The Members of the Council shall supply to the Council any information and documentation requested by it which is necessary for the execution of its functions provided that no Member shall be required to divulge confidential information, the disclosure of which would impede the enforcement of its laws, or which would otherwise be contrary to the public interest or prejudice the legitimate commercial interests of any enterprise, public or private.
