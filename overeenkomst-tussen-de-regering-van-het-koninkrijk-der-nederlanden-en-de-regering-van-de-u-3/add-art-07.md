@@ -1,0 +1,2 @@
+# Artikel VII
+De Partijen wisselen tijdig passende informatie uit betreffende voorvallen van aanvaringen, incidenten die schade opleveren en andere incidenten op zee tussen schepen en luchtvaartuigen van de Partijen. De Koninklijke marine verschaft deze informatie door tussenkomst van de Marine-attaché of andere militaire attaché van de Unie van Socialistische Sovjet Republieken te 's-Gravenhage en de marine van de Unie van Socialistische Sovjet Republieken verschaft deze informatie door tussenkomst van de Nederlandse Marine-attaché of andere militaire attaché te Moskou.
