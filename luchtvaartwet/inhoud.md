@@ -19,6 +19,6 @@
 #### § 1. Oplegging van het verbod
 #### § 2. Schadeloosstelling
 ### Afdeling 5. Militaire werken
-## Hoofdstuk V. Militaire vorderingen
+## Hoofdstuk V. Buitengewone omstandigheden
 ## Hoofdstuk VI. Strafbepalingen
 ## Hoofdstuk VII. Slotbepalingen
