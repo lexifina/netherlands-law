@@ -1,0 +1,2 @@
+# III. Ad artikel 5
+Met betrekking tot artikel 5, zesde lid, is het wel verstaan dat een overigens onafhankelijke vertegenwoordiger zijn onafhankelijke positie niet verliest op grond van het enkele feit dat hij ten behoeve van een onderneming een voorraad goederen of koopwaar aanhoudt, waaruit hij goederen of koopwaar levert, tegen voorwaarden die gebruikelijk zijn tussen onafhankelijke ondernemingen.

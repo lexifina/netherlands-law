@@ -1,0 +1,2 @@
+# VI. Ad Article 9
+In respect of paragraph 1 of Article 9, it is understood, however, that the fact that associated enterprises have concluded arrangements, such as costsharing arrangements or general services agreements, for or based on the allocation of executive, general administrative, technical and commercial expenses, research and development expenses and other similar expenses, is not in itself a condition as meant in that paragraph.

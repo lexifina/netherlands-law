@@ -1,0 +1,2 @@
+# XIV. Ad Article 23
+It is understood that the provisions of sub-paragraph a) of paragraph 1 of Article 23 shall only apply with respect to dividends mentioned in that sub-paragraph as long as, under the provisions of the Netherlands Company Tax Act and to future amendments thereto, a company which is a resident of the Netherlands is not charged to Netherlands company tax with respect to dividends the company receives from a company which is a resident of Turkey.

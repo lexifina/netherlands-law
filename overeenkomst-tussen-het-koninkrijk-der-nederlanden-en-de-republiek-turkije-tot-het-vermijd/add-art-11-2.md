@@ -1,0 +1,2 @@
+# XI. Ad artikelen 12 en 13
+Met betrekking tot de artikelen 12 en 13 van de Overeenkomst is het wel verstaan dat in het geval van enige betaling ontvangen als een vergoeding voor de verkoop van de in artikel 12, vierde lid, bedoelde zaken, de bepalingen van artikel 12 van toepassing zijn, tenzij wordt aangetoond dat de desbetreffende vergoeding een vergoeding is voor de werkelijke vervreemding van bovengenoemde zaken. In dat geval zijn de bepalingen van artikelen 13 van toepassing.

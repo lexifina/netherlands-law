@@ -1,0 +1,2 @@
+# XIV. Ad artikel 23
+Het is wel verstaan dat de bepalingen van artikel 23, eerste lid, onderdeel a), met betrekking tot de in dat onderdeel genoemde dividenden slechts van toepassing zijn zolang ingevolge de bepalingen van de Nederlandse Wet op de vennootschapsbelasting en de toekomstige wijzigingen daarvan, van een lichaam dat inwoner is van Nederland geen Nederlandse vennootschapsbelasting wordt geheven ter zake van dividenden die het lichaam ontvangt van een lichaam dat inwoner is van Turkije.

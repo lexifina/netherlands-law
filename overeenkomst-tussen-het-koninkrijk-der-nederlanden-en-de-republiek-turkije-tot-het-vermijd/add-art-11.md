@@ -1,0 +1,2 @@
+# XI. Ad Articles 12 and 13
+In respect of Articles 12 and 13 of the Agreement it is understood that in the case of any payment received as a consideration for the sale of the property as meant in paragraph 4 of Article 12, the provisions of Article 12 shall apply, unless it is proved that the payment in question is a payment for a genuine alienation of the said property. In such case the provisions of Article 13 shall apply.

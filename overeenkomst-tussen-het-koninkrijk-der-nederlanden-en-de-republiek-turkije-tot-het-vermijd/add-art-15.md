@@ -1,0 +1,3 @@
+# XV. Ad Article 24
+It is understood that the expression "in the same circumstances" as mentioned in paragraph 1 of Article 24 refers to taxpayers (individuals, legal persons, partnerships and associations) placed, from the point of view of the application of the ordinary taxation laws and regulations, in substantially similar circumstances both in law and in fact.
+Amongst other things this means that a national of one of the States, resident of a third State and doing business in the other State will be subjected to the same taxation or requirements connected therewith in that other State to which a national of that other State, resident in a third State and doing business in that other State, is or may be subjected.
