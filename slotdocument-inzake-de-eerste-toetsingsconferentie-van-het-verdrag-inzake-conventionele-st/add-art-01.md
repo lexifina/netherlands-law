@@ -1,0 +1,4 @@
+# I
+1. Each State Party shall, taking into account the clarification set forth in this Document relating to the area described in Article V, subparagraph 1(A), of the Treaty and taking into account the understandings on flexibility set forth in this Document, comply fully with the numerical limitations set forth in the Treaty, including Article V thereof, no later than 31 May 1999.
+2. Paragraph 1 of this Section shall be understood as not giving any State Party, which was in compliance with the numerical limitations set forth in the Treaty, including Article V thereof, as of 1 January 1996, the right to exceed any of the numerical limitations set forth in the Treaty.
+3. Pursuant to the Decision of the Joint Consultative Group of 17 November 1995, the States Parties shall co-operate to the maximum extent possible to ensure the full implementation of the provisions of this Document.

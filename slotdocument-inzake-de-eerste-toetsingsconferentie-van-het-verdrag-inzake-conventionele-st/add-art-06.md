@@ -1,0 +1,3 @@
+# VI
+1. This Document shall enter into force upon receipt by the Depositary of notification of confirmation of approval by all States Parties. Section II, paragraphs 2 and 3, Section IV and Section V of this Document are hereby provisionally applied as of 31 May 1996 through 15 December 1996. If this Document does not enter into force by 15 December 1996, then it shall be reviewed by the States Parties.
+2. This Document, in all six official languages of the Treaty, shall be deposited with the Government of the Kingdom of the Netherlands, as the designated Depositary for the Treaty, which shall circulate copies of this Document to all States Parties.
