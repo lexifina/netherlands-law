@@ -1,0 +1,2 @@
+# Artikel 15a
+Indien ter vervulling van een door ontslag of overlijden van een lid van het algemeen bestuur opengevallen plaats niet een daartoe gekozen plaatsvervangend lid beschikbaar is, komen daarvoor in aanmerking degenen die bij de verkiezing voor de vertegenwoordigers van de desbetreffende categorie van belanghebbenden kandidaat waren voor de verkiezing tot lid, en wel in volgorde van de aantallen behaalde stemmen.
