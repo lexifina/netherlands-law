@@ -1,0 +1,2 @@
+# Artikel VI
+De Wet algemene bepalingen milieuhygiëne, zoals die luidde een dag voor de inwerkingtreding van deze wet, blijft van toepassing op de bestemmingsheffingen op brandstof en de regulerende heffingen op gelode lichte olie met een researchoktaangetal lager dan 97 en op ongelode lichte olie met een researchoktaangetal lager dan 95, die voor de inwerkingtreding van deze wet krachtens de Wet algemene bepalingen milieuhygiëne verschuldigd zijn geworden.
