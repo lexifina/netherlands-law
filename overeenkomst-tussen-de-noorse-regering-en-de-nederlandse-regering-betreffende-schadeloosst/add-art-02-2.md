@@ -1,0 +1,2 @@
+# Artikel II
+Op basis van de Nederlandse „Wet op de Materiële Oorlogsschade" betaalt de Nederlandse Regering aan de Vereniging voor Scandinavische Zeemanshuizen in Buitenlandse Havens een schadeloosstelling ten bedrage van f 92 400 voor oorlogsschade aan het Scandinavisch Zeemanshuis te Rotterdam. Dit bedrag wordt verhoogd met 4 % rente per jaar voor de periode van 1 juni 1940 tot 1 maart 1950 en 3½ % rente per jaar van 1 maart 1950 tot en met 29 februari 1952.

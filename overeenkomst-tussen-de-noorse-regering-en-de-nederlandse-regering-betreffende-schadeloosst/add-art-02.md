@@ -1,0 +1,2 @@
+# Article II
+On the basis of the Netherlands „Wet op de Materiële Oorlogsschade" the Government of the Netherlands shall pay to the Society for Scandinavian Seamen's Homes in Foreign Ports a compensation of h.fl. 92,400.- for war damage to the Scandinavian Seamen's Home in Rotterdam. To this amount there will be added 4 % interest p.a. for the period June 1, 1940 to March 1, 1950 and 3½ % interest p.a. from March 1, 1950 till February 29, 1952, inclusive.
