@@ -1,0 +1,2 @@
+# Article 1er
+Les droits de propriété industrielle ayant appartenu à l'Etat italien ou à ses ressortissants (personnes physiques ou morales) qui, aux termes de la législation néerlandaise relative aux biens ennemis sont passés de droit à l'Etat néerlandais seront restitués à l'Etat italien ou aux ressortissants italiens susdits ou à leurs ayants-droit conformément aux stipulations des articles suivants.
