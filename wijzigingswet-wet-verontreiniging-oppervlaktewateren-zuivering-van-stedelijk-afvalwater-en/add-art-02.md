@@ -1,0 +1,2 @@
+# Artikel II
+Een vergunning, als bedoeld in artikel 1, eerste en derde lid, van de Wet verontreiniging oppervlaktewateren, welke vóór de inwerkingtreding van deze wet is verleend door gedeputeerde staten, dan wel door het bestuur van een gemeente of van enig ander openbaar lichaam waaraan met toepassing van artikel 6 van die wet de bevoegdheid tot vergunningverlening is toegekend, wordt beschouwd als te zijn verleend door het bestuur van het bevoegde waterschap.
