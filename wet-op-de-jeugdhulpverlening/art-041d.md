@@ -1,2 +1,0 @@
-# Artikel 41d
-Wonen bijdrageplichtige ouders of stiefouders gescheiden en is geen bedrag bepaald op de voet van de artikelen 406 of 407 van Boek 1 van het Burgerlijk Wetboek of van artikel 822, eerste lid, onder c, van het Wetboek van Burgerlijke Rechtsvordering, dan is de ouder of stiefouder die ingevolge de Algemene Kinderbijslagwet onmiddellijk voorafgaande aan het verblijf bedoeld in artikel 41a, eerste lid, recht op kinderbijslag heeft de ouderbijdrage verschuldigd.

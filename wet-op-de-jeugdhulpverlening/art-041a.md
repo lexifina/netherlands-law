@@ -1,6 +1,0 @@
-# Artikel 41a
-1. De onderhoudsplichtige ouders, degene tegen wie een op artikel 394 van Boek 1 van het Burgerlijk Wetboek gegronde vordering is toegewezen daaronder begrepen, de onderhoudsplichtige stiefouder en degene die anders dan als ouder samen met de ouder het gezag uitoefent van een jeugdige, zijn aan het Rijk een bijdrage verschuldigd in de kosten van verzorging en verblijf:
-a. in een op grond van deze wet voor bekostiging in aanmerking gebrachte voorziening niet zijnde een voorziening van ambulante hulpverlening;
-b. elders dan in een zodanige voorziening, indien de jeugdige daar is geplaatst met toepassing van artikel 261 of 326 van Boek 1 van het Burgerlijk Wetboek, dan wel daar is geplaatst door een voogdij-instelling of de raad voor de kinderbescherming.
-2. De ouderbijdrage wordt vastgesteld naar de leeftijd van de jeugdige en de aard van de verzorging en het verblijf, bedoeld in het eerste lid. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de hoogte van de bijdrage.
-3. Indien ten aanzien van een jeugdige meer dan één persoon de ouderbijdrage verschuldigd is, is ieder der bijdrageplichtigen de ouderbijdrage verschuldigd met dien verstande dat, indien de een heeft betaald, de ander is bevrijd.

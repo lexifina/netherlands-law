@@ -1,3 +1,0 @@
-# Artikel 34e
-1. Indien het aan het bestuur van een voorziening of instelling bekend is geworden dat een persoon die werkzaam is bij de voorziening of de instelling zich mogelijk schuldig maakt of heeft gemaakt aan kindermishandeling, doet het bestuur van de desbetreffende voorziening of instelling hiervan onverwijld melding aan het advies- en meldpunt kindermishandeling.
-2. Indien een persoon die werkzaam is in een voorziening of instelling op enigerlei wijze bekend is geworden dat een bij die voorziening of instelling werkzame andere persoon zich mogelijk schuldig maakt of heeft gemaakt aan kindermishandeling, stelt hij het bestuur daarvan onverwijld in kennis.
