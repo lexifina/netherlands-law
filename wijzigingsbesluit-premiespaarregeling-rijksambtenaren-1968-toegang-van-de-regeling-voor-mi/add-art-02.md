@@ -1,0 +1,3 @@
+# Artikel II
+1. De militaire ambtenaar, bedoeld in artikel 1, eerste lid, van de Militaire Ambtenarenwet 1931 die vóór 1 januari 1994 op zijn bijzondere spaarrekening in de zin van artikel 4 van de Premiespaarregeling Rijksambtenaren 1968 een op zijn bezoldiging ingehouden bedrag had uitstaan, komt in aanmerking voor de toekenning van een spaarpremie over dat bedrag met overeenkomstige toepassing van die regeling.
+2. De militaire ambtenaar, bedoeld in artikel 1, eerste lid, van de Militaire Ambtenarenwet 1931 die vóór 1 januari 1994 betalingen heeft verricht in de zin van artikel 5 van de Premiespaarregeling Rijksambtenaren 1968 komt in aanmerking voor de toekenning van een premie met overeenkomstige toepassing van die regeling.
