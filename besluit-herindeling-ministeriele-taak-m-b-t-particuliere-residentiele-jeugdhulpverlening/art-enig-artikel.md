@@ -1,0 +1,2 @@
+# [Enig artikel]
+met ingang van 1 januari 1987 Onze Minister van Welzijn, Volksgezondheid en Cultuur te belasten met de zorg voor de particuliere inrichtingen op het terrein van de kinderbescherming, voor zover thans opgedragen aan Onze Minister van Justitie, met uitzondering van de inrichtingen opgenomen in de bijlage die bij dit besluit behoort, en de taak van beide ministeries dienovereenkomstig te wijzigen.
