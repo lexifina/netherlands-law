@@ -1,0 +1,2 @@
+# XII. Ad Article 18
+Notwithstanding the provisions of paragraph 1 of Article 18 of the Convention, the Netherlands may apply its national legislation with respect to the payments referred to therein. When the competent authority of Romania informs the competent authority of the Netherlands that, under the legislation of Romania, Romania can tax such payments, the competent authorities shall by mutual agreement determine whether and to what extent the provisions of paragraph 1 of Article 18 will be applicable.

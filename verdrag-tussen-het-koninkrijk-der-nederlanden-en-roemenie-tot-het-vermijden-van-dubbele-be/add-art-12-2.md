@@ -1,0 +1,2 @@
+# XII. Ad Artikel 18
+Niettegenstaande de bepalingen van artikel 18, eerste lid, van het Verdrag mag Nederland met betrekking tot de daarin bedoelde uitkeringen zijn nationale wetgeving toepassen. Wanneer de bevoegde autoriteit van Roemenië de bevoegde autoriteit van Nederland bericht dat Roemenië volgens de nationale wetgeving van Roemenië deze uitkeringen kan belasten, bepalen de bevoegde autoriteiten in onderlinge overeenstemming of en in welke mate de bepalingen van artikel 18, eerste lid, toepassing vinden.
