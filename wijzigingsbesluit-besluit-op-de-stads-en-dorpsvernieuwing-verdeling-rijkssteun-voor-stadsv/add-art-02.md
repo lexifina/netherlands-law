@@ -1,0 +1,2 @@
+# Artikel II
+De artikelen 4, 5, 6 en 12 van het Besluit op de stads- en dorpsvernieuwing, zoals dat laatstelijk luidde vóór 1 januari 1994, blijven van toepassing op de verlening van geldelijke steun als bedoeld in artikel 39, eerste lid, van de Wet op de stads- en dorpsvernieuwing voor kalenderjaren die vóór die datum zijn verstreken, en op de besteding van en de verslaglegging over die geldelijke steun.
