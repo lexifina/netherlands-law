@@ -1,0 +1,2 @@
+# Artikel II
+Nummers voor toegang tot ondernemingen en instellingen worden met de inwerkingtreding van dit besluit aangewezen als nummers van uitzonderlijke economische waarde. Deze aanwijzing vervalt zes maanden na de inwerkingtreding van dit besluit. Op aanvragen die binnen zes maanden na de inwerkingtreding van dit besluit bij het college zijn ingediend is de procedure van veilen van toepassing.
