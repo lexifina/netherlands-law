@@ -9,4 +9,6 @@
 ## Hoofdstuk 8. Financiële bepalingen, planning en verslaglegging
 ## Hoofdstuk 9. Informatiebepalingen
 ## Hoofdstuk 10. Overige bepalingen
+## Hoofdstuk 10A. Bepalingen in verband met de Algemene wet bestuursrecht
+## Hoofdstuk 10B. Overgangsbepalingen
 ## Hoofdstuk 11. Straf- en slotbepalingen
