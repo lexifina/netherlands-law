@@ -1,0 +1,3 @@
+# Artikel II
+1. Indien een gemeente voor de jaren 1996 en 1997 een lager of gelijk aantal inburgeringsprogramma's voor vaststelling van de uitkering in aanmerking brengt dan het door Onze Minister voor de desbetreffende gemeente voor dat jaar gegarandeerde aantal, wordt bij de vaststelling van de uitkering uitgegaan van het door Onze Minister van Onderwijs, Cultuur en Wetenschappen bij de afrekening over de jaren 1996 en 1997 voor de desbetreffende gemeente vastgestelde aantal en blijft toepassing van artikel 52, tweede en vierde lid, achterwege.
+2. Onze Minister hanteert voor de vaststelling van het in het eerste lid bedoelde gegarandeerde aantal het door Onze Minister van Onderwijs, Cultuur en Wetenschappen gegarandeerde aantal inburgeringsprogramma's.
