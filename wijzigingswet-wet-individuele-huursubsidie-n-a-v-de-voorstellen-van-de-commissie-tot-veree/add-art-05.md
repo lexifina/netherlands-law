@@ -1,0 +1,2 @@
+# Artikel V
+Ten aanzien van de toepassing van artikel 25, onderdeel d, van de Wet individuele huursubsidie met ingang van 1 juli 1989 en met ingang van 1 juli 1990 geldt dat Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer bij het maken van de in genoemd onderdeel bedoelde schatting niet in zijn oordeel betrekt het effect van de in artikel III bedoelde overhevelingstoeslag en het niet meer als persoonlijke verplichting aftrekbaar zijn van de premies volksverzekeringen.
