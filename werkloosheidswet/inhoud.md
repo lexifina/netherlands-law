@@ -22,7 +22,7 @@
 ## Hoofdstuk III. De vrijwillige verzekering van uitkering bij werkloosheid
 ## Hoofdstuk IV. Overneming van uit de dienstbetrekking voortvloeiende verplichtingen bij onmacht van de werkgever te betalen
 ## Hoofdstuk V. Vervallen.
-## Hoofdstuk VI. REÏNTEGRATIEMAATREGELEN
+## Hoofdstuk VI. Reïntegratiemaatregelen
 ## Hoofdstuk VII. Financiering
 ### § 1. Het Algemeen Werkloosheidsfonds en de wachtgeldfondsen
 ### § 2. Het Uitvoeringsfonds voor de overheid
