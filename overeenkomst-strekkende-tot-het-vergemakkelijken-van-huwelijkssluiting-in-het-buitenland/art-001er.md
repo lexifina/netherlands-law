@@ -1,0 +1,2 @@
+# Article 1er
+Lorsque le mariage d'un ressortissant d'un des Etats contractants est célébré sur le territoire d'un autre de ces Etats et que ce ressortissant y réside habituellement, les autorités compétentes du pays de célébration pourront, dans les cas et sous les conditions prévus par la loi personnelle du futur conjoint, accorder à celui-ci dispense des empêchements à mariage établis par cette loi.
