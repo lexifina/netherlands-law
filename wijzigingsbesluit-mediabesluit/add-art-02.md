@@ -1,0 +1,3 @@
+# Artikel II
+1. De leden van het bestuur van de Nederlandse Omroepprogramma Stichting, met uitzondering van de voorzitter, treden af met ingang van 1 januari 1995. Zij zijn terstond herbenoembaar als lid van het algemeen bestuur van de Nederlandse Omroep Stichting.
+2. Alle leden van het algemeen bestuur en het dagelijks bestuur van de Nederlandse Omroep Stichting, met uitzondering van de voorzitter, treden af met ingang van 1 september 1995. De leden zijn terstond herbenoembaar. De leden van het dagelijks bestuur kunnen, in afwijking van artikel 19, vierde lid, tweede zin, van de Mediawet, na herbenoeming nog eenmaal voor een aansluitende periode worden herbenoemd.
