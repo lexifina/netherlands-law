@@ -1,0 +1,2 @@
+# Artikel 220g
+Het tarief van de in artikel 220, onderdeel b, bedoelde belasting voor onroerende zaken die in hoofdzaak tot woning dienen, gaat niet uit boven 125 percent van het tarief van de in artikel 220, onderdeel a, bedoelde belasting voor die onroerende zaken. Het tarief van de in artikel 220, onderdeel b, bedoelde belasting voor onroerende zaken die niet in hoofdzaak tot woning dienen, gaat niet uit boven 125 percent van het tarief van de in artikel 220, onderdeel a, bedoelde belasting voor die onroerende zaken.

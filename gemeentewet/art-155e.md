@@ -1,0 +1,3 @@
+# Artikel 155e
+1. Niemand kan genoodzaakt worden aan de onderzoekscommissie geheimen te openbaren, voor zover daardoor onevenredige schade zou worden toegebracht aan het belang van de uitoefening van zijn beroep, dan wel aan het belang van zijn onderneming of de onderneming waarbij hij werkzaam is of is geweest.
+2. Zij die uit hoofde van hun ambt, beroep of betrekking tot geheimhouding verplicht zijn, kunnen zich verschonen getuigenis af te leggen, doch uitsluitend met betrekking tot hetgeen waarvan de wetenschap aan hen als zodanig is toevertrouwd. Zij kunnen inzage, afschrift of kennisneming anderszins weigeren van bescheiden of gedeelten daarvan tot welke hun plicht tot geheimhouding zich uitstrekt.

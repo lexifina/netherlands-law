@@ -1,0 +1,4 @@
+# Artikel 155d
+1. Getuigen en deskundigen worden schriftelijk opgeroepen. De brief, houdende de oproep, wordt aangetekend verzonden of tegen gedagtekend ontvangstbewijs uitgereikt.
+2. De onderzoekscommissie kan bevelen dat getuigen en deskundigen die, hoewel opgeroepen in overeenstemming met het eerste lid, niet zijn verschenen, door de openbare macht voor hen worden gebracht om aan hun verplichting te voldoen. De onderzoekscommissie stelt de getuige of deskundige hiervan schriftelijk in kennis op de wijze, bedoeld in het eerste lid. In de beschikking wordt een termijn gesteld waarbinnen de belanghebbende de tenuitvoerlegging kan voorkomen door alsnog aan zijn verplichting te voldoen.
+3. Op een beschikking als bedoeld in het eerste en het tweede lid is artikel 7:1 van de Algemene wet bestuursrecht niet van toepassing.
