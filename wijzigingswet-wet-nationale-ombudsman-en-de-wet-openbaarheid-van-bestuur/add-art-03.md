@@ -1,0 +1,2 @@
+# ARTIKEL III
+Tot een jaar na de beëindiging van een aanwijzing van bestuursorganen van een provincie, gemeente of waterschap op grond van de Wet Nationale ombudsman, zoals deze wet luidde voor inwerkingtreding van deze wet, kan met betrekking tot een gedraging van het desbetreffende bestuursorgaan die heeft plaatsgevonden voordat de aanwijzing werd beëindigd, een verzoekschrift als bedoeld in artikel 12 bij de Nationale ombudsman worden ingediend.

@@ -1,0 +1,2 @@
+# ARTIKEL IV
+Het Aanwijzingsbesluit bestuursorganen Wob en WNo, het koninklijk besluit van 1 september 1993 houdende aanwijzing van bestuursorganen van waterschappen als administratieve organen in de zin van de Wet Nationale ombudsman (Stb. 488), alsmede het koninklijk besluit van 10 april 1995 houdende aanwijzing op grond van de Wet Nationale ombudsman van bestuursorganen van gemeenten en provincies voor de gedragingen van buitengewoon opsporingsambtenaren (Stb. 218) worden ingetrokken.
