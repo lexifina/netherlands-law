@@ -5,5 +5,6 @@ a. Onze Minister van Financiën, het bestuur van 's Rijksbelastingen en de direc
 b. de inspecteur: de provincieambtenaar, belast met de heffing van provinciale belastingen;
 c. de ontvanger of een inzake rijksbelastingen bevoegde ontvanger: de provincieambtenaar belast met de invordering van provinciale belastingen;
 d. de ambtenaren van de rijksbelastingdienst: de provincieambtenaren belast met de heffing of de invordering van provinciale belastingen;
-e. de belastingdeurwaarder: de daartoe aangewezen provincieambtenaar.
+e. de belastingdeurwaarder: de daartoe aangewezen provincieambtenaar;
+f. de Tweede Kamer der Staten-Generaal of de Tweede Kamer: de provinciale staten.
 3. Onverminderd het overigens in deze paragraaf bepaalde wordt met betrekking tot provinciale belastingen in de Algemene wet en in de Invorderingswet 1990 voor «algemene maatregel van bestuur» en voor «ministeriële regeling» gelezen: besluit van het college van gedeputeerde staten.
