@@ -1,0 +1,15 @@
+# Artikel XVIB
+1. Artikel 71a van de Wet op de accijns is van overeenkomstige toepassing op de in dat artikel bedoelde halfzware olie en gasolie die in het jaar 2000 is afgeleverd in de brandstoftanks van en is gebruikt voor het aandrijven op de weg van een vrachtauto met een toegestane maximum massa van minder dan 12 000 kg, van een autobus of van een bestelauto.
+2. In dit artikel en de daarop gegronde bepalingen wordt verstaan onder:
+a. vrachtauto: een vrachtauto als bedoeld in artikel 2, onderdeel f, van de Wet op de motorrijtuigenbelasting 1994;
+b. autobus: een autobus als bedoeld in artikel 2, onderdeel e, van de Wet op de motorrijtuigenbelasting 1994, voor zover degene op wiens naam het voor de autobus opgegeven kenteken in het kentekenregister, bedoeld in artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994, is gesteld, in het bezit is van een vergunning voor het verrichten van openbaar of besloten busvervoer als bedoeld in artikel 4 van de Wet personenvervoer 2000;
+c. bestelauto: een bestelauto als bedoeld in artikel 2, onderdeel c, van de Wet op de motorrijtuigenbelasting 1994,
+1°. met een laadvermogen van meer dan 500 kg, voorzover deze hoofdzakelijk wordt gebruikt voor het vervoer van goederen en degene op wiens naam het voor de bestelauto opgegeven kenteken is gesteld de auto gebruikt in het kader van een aan hem verleende vergunning voor het verrichten van beroepsvervoer als bedoeld in artikel 5, eerste of derde lid, van de Wet goederenvervoer over de weg of een inschrijving als eigen vervoerder overeenkomstig artikel 15 van die wet, dan wel voor vervoer dat van de vergunningplicht is uitgezonderd op grond van het Besluit goederenvervoer over de weg, of
+2°. met een laadvermogen van 500 kg of minder, voorzover degene op wiens naam het voor de bestelauto opgegeven kenteken is gesteld is ingeschreven in het handelsregister, bedoeld in artikel 2 van de Handelsregisterwet 1996, en uit de omschrijving van het uitgeoefende bedrijf of de uitgeoefende bedrijven kan worden afgeleid dat het vervoer van goederen tot de kerntaken daarvan behoort en de bestelauto voorts hoofdzakelijk wordt gebruikt voor het vervoer van goederen in het kader van dat bedrijf of die bedrijven.
+3. De vergunning voor het verrichten van beroepsvervoer of de inschrijving als eigen vervoerder, dan wel de inschrijving in het handelsregister dient te zijn aangevraagd op een tijdstip dat is gelegen voor de periode waarop het verzoek om teruggaaf betrekking heeft.
+4. In afwijking van artikel 71a, tweede lid, van de Wet op de accijns bedraagt de teruggaaf per 1000 L:
+a. voor de afleveringen die hebben plaatsgevonden in de periode van 1 januari 2000 tot en met 31 maart 2000: f 140;
+b. voor de afleveringen die hebben plaatsgevonden in de periode van 1 april 2000 tot en met 30 juni 2000: f 105;
+c. voor de afleveringen die hebben plaatsgevonden in de periode van 1 juli 2000 tot en met 30 september 2000: f 70;
+d. voor de afleveringen die hebben plaatsgevonden in de periode van 1 oktober 2000 tot en met 31 december 2000: f 35.
+5. Artikel 71a, derde lid, van de Wet op de accijns is niet van toepassing.
