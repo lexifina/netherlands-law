@@ -1,0 +1,2 @@
+# Artikel II
+In afwijking van artikel 17, eerste en tweede lid, van het Inschrijvingsbesluit ziekenfondsverzekering wordt een op het tijdstip van inwerkingtreding van dit besluit bestaande inschrijving na een termijn van zes maanden, te rekenen vanaf de dag van die inwerkingtreding, beëindigd indien vóór de dag waarop die termijn is verstreken, van de verzekerde een schriftelijk verzoek om beëindiging van de inschrijving is ontvangen.
