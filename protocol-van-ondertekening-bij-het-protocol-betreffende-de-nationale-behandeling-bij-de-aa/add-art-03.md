@@ -1,0 +1,3 @@
+# III
+Ter verwezenlijking van het in artikel 2 neergelegde beginsel van non-discriminatie, neemt de Regering van Luxemburg de verplichting op zich erop toe te zien, dat bij de toepassing van de in Luxemburg bestaande wettelijke regelingen ten doel hebbend de bescherming van nationale producten en ondernemingen, Nederlandse producten en ondernemingen op gelijke voet zullen worden gesteld met Luxemburgse en Belgische producten en ondernemingen.
+Dit houdt o.m. in, dat artikel 18 van het Ministerieel Besluit van 1 maart 1948 betreffende het Algemeen Lastenkohier dusdanig zal worden toegepast, dat Nederlandse ondernemingen en producten volledig gelijk gesteld zullen worden met Luxemburgse en Belgische ondernemingen en producten.
