@@ -1,0 +1,2 @@
+# Artikel 6 bis
+Wanneer een Overeenkomstsluitende Partij haar goedkeuring heeft gehecht aan een op haar grondgebied gedane investering, en een onderdaan van de andere Overeenkomstsluitende Partij te dezen aanzien enige financiële zekerheid tegen niet-commerciële risico's heeft gesteld, erkent eerstbedoelde Overeenkomstsluitende Partij met betrekking tot schadevergoeding de subrogatie van degene die deze zekerheid heeft gesteld in de rechten van de investeerder, indien op grond van die zekerheidstelling een betaling werd verricht.

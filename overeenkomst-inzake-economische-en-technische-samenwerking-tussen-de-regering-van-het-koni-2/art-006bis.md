@@ -1,0 +1,2 @@
+# article 6 bis
+La Partie Contractante sur le territoire de laquelle un investissement approuvé par elle a été effectué, investissement pour lequel une garantie financière contre des risques non commerciaux a été accordée par un ressortissant de l'autre Partie Contractante, reconnaît la subrogation du garant dans les droits de l'investisseur quant aux dommages-intérêts, si un paiement a été fait sous ladite garantie.
