@@ -1,0 +1,3 @@
+# Artikel II
+1. Als opbrengsten als bedoeld in artikel 2, eerste lid, onderdeel b, van de Wet Fonds economische structuurversterking, worden in aanvulling op de opbrengsten, bedoeld in artikel 2, tweede lid, van die wet, aangemerkt de opbrengsten van de veiling in het jaar 2000 van de UMTS-frequenties die in dat jaar leidden tot bespaarde rentelasten.
+2. Met ingang van 1 januari 2001 worden de als gevolg van de opbrengsten van de veiling in het jaar 2000 van de UMTS-frequenties te besparen rentelasten, niet langer beschouwd als opbrengsten in de zin van artikel 2, eerste lid, onderdeel b, van de Wet fonds economische structuurversterking.
