@@ -1,0 +1,2 @@
+# Artikel III
+De Partijen kunnen binnen een tijdvak van twee maanden nadat de ene Partij aan de andere als haar mening te kennen heeft gegeven, dat er een geschil bestaat, overeenkomen geen beroep te doen op het Internationale Gerechtshof, doch op een scheidsrechterlijk tribunaal. Na het verstrijken van genoemd tijdvak kan iedere Partij bij dit Protocol het geschil door middel van een rekwest aan het Hof voorleggen.
