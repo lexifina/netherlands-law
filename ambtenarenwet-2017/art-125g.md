@@ -1,0 +1,4 @@
+# Artikel 125g
+1. Het bevoegd gezag mag geen onderscheid maken tussen ambtenaren op grond van een verschil in arbeidsduur in de voorwaarden waaronder een aanstelling wordt verleend, verlengd dan wel beëindigd, tenzij een dergelijk onderscheid objectief gerechtvaardigd is.
+2. Het bevoegd gezag mag het dienstverband met de ambtenaar niet beëindigen wegens de omstandigheid dat betrokkene in of buiten rechte een beroep heeft gedaan op het eerste lid.
+3. De Commissie gelijke behandeling, genoemd in artikel 11 van de Algemene wet gelijke behandeling, kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in dit artikel. De artikelen 12, 13, 14, 15, 20, tweede lid, en 33 van de Algemene wet gelijke behandeling zijn van overeenkomstige toepassing.
