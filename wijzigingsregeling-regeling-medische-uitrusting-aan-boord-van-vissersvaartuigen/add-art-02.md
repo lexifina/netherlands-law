@@ -1,0 +1,2 @@
+# Artikel II
+De kapitein draagt ervoor zorg dat de medische uitrusting uiterlijk op het moment van de eerstvolgende inspectie van die uitrusting in overeenstemming is met de Regeling medische uitrusting aan boord van vissersvaartuigen zoals die luidt na de inwerkingtreding van deze regeling. Tot dat moment mogen vissersvaartuigen uitgerust blijven met medische uitrusting voorgeschreven door de Regeling medische uitrusting aan boord van vissersvaartuigen zoals die luidde voor de inwerkingtreding van deze regeling.
