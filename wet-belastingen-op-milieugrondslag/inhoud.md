@@ -40,10 +40,8 @@
 ### Afdeling 5. Belastingvermindering en vrijstellingen
 ### Afdeling 6. Teruggaven
 ### Afdeling 7. Verplichtingen ten dienste van de belastingheffing
-### Afdeling 8. Bijzondere regeling voor op duurzame wijze geproduceerde energie
 ### Afdeling 10. Bijzondere teruggaafregeling
 ### Afdeling 12
-### Afdeling 13. Bijzondere regeling stimulering installaties voor warmtekrachtkoppeling
 ## Hoofdstuk VI. Algemene bepalingen
 ### Afdeling 1. Wijze van heffing
 ### Afdeling 2. Aanvullende regelingen
