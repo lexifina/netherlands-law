@@ -1,0 +1,2 @@
+# Artikel 229a
+In de gevallen waarin het volkenrecht dan wel, naar het oordeel van Onze Minister en Onze Minister van Financiën, het internationale gebruik daartoe noodzaakt, wordt vrijstelling van provinciale belastingen verleend. Onze genoemde Ministers kunnen gezamenlijk ter zake nadere regels stellen.

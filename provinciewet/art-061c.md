@@ -1,0 +1,4 @@
+# Artikel 61c
+1. De beraadslagingen, bedoeld in de artikelen 61, derde en vierde lid, 61a, derde lid, en 61b, derde lid, vinden plaats met gesloten deuren. Van deze beraadslagingen wordt een afzonderlijk verslag opgemaakt dat niet openbaar wordt gemaakt.
+2. Ten aanzien van de beraadslagingen en de stukken die aan provinciale staten worden gezonden dan wel die door provinciale staten aan Onze Minister worden gezonden geldt een geheimhoudingsplicht.
+3. De aanbevelingen van de staten, bedoeld in artikel 61, vijfde lid, 61a, tweede lid, en 61b, tweede lid, zijn openbaar.
