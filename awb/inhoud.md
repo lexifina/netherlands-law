@@ -70,9 +70,14 @@
 ### Titel 8.3. Voorlopige voorziening en onmiddellijke uitspraak in de hoofdzaak
 ### Titel 8.4. Herziening
 ## Hoofdstuk 9. Klachtbehandeling
-### Afdeling 9.1. Algemene bepalingen
-### Afdeling 9.2. De behandeling van klaagschriften
-### Afdeling 9.3. Aanvullende bepalingen voor een klachtadviesprocedure
+### Titel 9.1. Klachtbehandeling door een bestuursorgaan
+#### Afdeling 9.1.1. Algemene bepalingen
+#### Afdeling 9.1.2. De behandeling van klaagschriften
+#### Afdeling 9.1.3. Aanvullende bepalingen voor een klachtadviesprocedure
+### Titel 9.2. Klachtbehandeling door een ombudsman
+#### Afdeling 9.2.1. Algemene bepalingen
+#### Afdeling 9.2.2. Bevoegdheid
+#### Afdeling 9.2.3. Procedure
 ## Hoofdstuk 10. Bepalingen over bestuursorganen
 ### Titel 10.1. Mandaat en delegatie
 #### Afdeling 10.1.1. Mandaat
