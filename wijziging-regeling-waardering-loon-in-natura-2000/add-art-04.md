@@ -1,0 +1,2 @@
+# Artikel IV
+De Regeling waardering loon in natura 1999, zoals die regeling van toepassing was op de dag voorafgaand aan de inwerkingtreding van artikel II van deze regeling, blijft van toepassing op de persoon wiens recht op ziekengeld op grond van de Ziektewet, op uitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering respectievelijk op uitkering op grond van de Werkloosheidswet, is ontstaan voor de datum van inwerkingtreding van dat artikel, met betrekking tot dat recht.
