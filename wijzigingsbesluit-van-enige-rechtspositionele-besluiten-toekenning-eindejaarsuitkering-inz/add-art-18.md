@@ -1,0 +1,3 @@
+# ARTIKEL XVIII
+Dit besluit treedt, met uitzondering van de artikelen VI, VII, VIII, IX en X, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug wat betreft artikel XI, onderdeel C, tot en met 1 april 1994, wat betreft de artikelen XI, onderdeel A en XII, onderdeel A en B, tot en met 1 januari 1996, wat betreft de artikelen I, II, III en XII, onderdeel C, tot en met 1 april 1997, en wat betreft de artikelen IV, V, XIII, XVI en XVII tot en met 1 juli 1997.
+De artikelen VI, VII, VIII, IX en X treden in werking op respectievelijk 1 januari 1998, 1 april 1998, 1 augustus 1998 en 1 oktober 1998.
