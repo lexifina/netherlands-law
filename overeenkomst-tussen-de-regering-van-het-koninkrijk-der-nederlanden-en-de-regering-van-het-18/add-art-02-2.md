@@ -1,0 +1,2 @@
+# Artikel II
+Elke Overeenkomstsluitende Partij verleent aan de andere Overeenkomstsluitende Partij de in de Bijlage bij deze Overeenkomst omschreven rechten, ten doel hebbende de daarin omschreven luchtdiensten (hierna te noemen de „omschreven luchtdiensten") in te stellen. Deze diensten kunnen onmiddellijk, dan wel op een later tijdstip, worden geopend naar verkiezing van de Overeenkomstsluitende Partij, aan welke de rechten worden verleend.

@@ -1,0 +1,2 @@
+# Article V
+To the extent to which they are applicable to the air services established under the present Agreement, the provisions of the Convention shall remain in force in their present form between the Contracting Parties for the duration of the Agreement, as if they were an integral part of the Agreement, unless both Contracting Parties ratify any amendment to the Convention which shall have duly come into force in which case the Convention as amended shall remain in force for the duration of the present Agreement.

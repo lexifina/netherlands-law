@@ -1,0 +1,2 @@
+# Artikel V
+Voor zover zij van toepassing zijn op de luchtdiensten, welke op grond van deze Overeenkomst zijn ingesteld, zullen de bepalingen van het Verdrag in hun huidige vorm van kracht blijven tussen de Overeenkomstsluitende Partijen voor de duur van de Overeenkomst, alsof zij een wezenlijk deel van de Overeenkomst uitmaken, tenzij beide Overeenkomstsluitende Partijen een wijziging van het Verdrag bekrachtigen, welke behoorlijk in werking zal zijn getreden, in welk geval het aldus gewijzigde Verdrag van kracht zal blijven voor de duur van deze Overeenkomst.
