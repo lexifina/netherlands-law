@@ -1,0 +1,5 @@
+# Artikel 2a
+1. De deurwaarders moeten het doen van exploiten weigeren indien deze betrekking hebben op vorderingen tegen de rechtspersoon naar het recht van de Democratische Volksrepubliek Algerije Banque Centrale d'Algérie, terzake van:
+a. de aanwezigheid van de fondsen, bedoeld in de overeenkomst van 13 juli 1981 tussen de regering van het Koninkrijk der Nederlanden en de Democratische Volksrepubliek Algerije betreffende een garantiefonds in verband met de beslechting van bepaalde geschillen tussen de Verenigde Staten van Amerika en Iran (Trb. 163), op een of meer rekeningen bij de naamloze vennootschap N.V. Settlement Bank of the Netherlands, dan wel bij derden;
+b. de functie van de Banque Centrale d'Algérie bij de uitvoering van de Regeringsverklaring van de Democratische Volksrepubliek Algerije van 19 januari 1981, betreffende de beslechting van geschillen door de regering van de Verenigde Staten van Amerika en de regering van de Islamitische Republiek Iran.
+2. Het eerste lid is niet van toepassing op vorderingen terzake waarvan de Banque Centrale d'Algérie krachtens de in het eerste lid onder a genoemde overeenkomst geen onschendbaarheid geniet.
