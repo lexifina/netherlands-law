@@ -1,0 +1,2 @@
+# Artikel IV. Inwerkingtreding
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven op of na 2 september 2004, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 2 september 2004.
