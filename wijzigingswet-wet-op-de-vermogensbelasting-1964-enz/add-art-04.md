@@ -1,0 +1,3 @@
+# Artikel IV
+1. Deze wet treedt in werking met ingang van 1 januari 1994.
+2. In geval van oprichting van een vennootschap voor 27 oktober 1992 vinden de in artikel III opgenomen wijzigingen van artikel 29a van de Wet op de inkomstenbelasting 1964 eerst toepassing met ingang van het kalenderjaar waarin het boekjaar wordt gewijzigd of waarin de toename van de gemiddelde omvang van de bezittingen over het kalenderjaar ten gevolge van stortingen gelijk is aan of meer bedraagt dan de gemiddelde omvang van de bezittingen over het voorafgaande kalenderjaar. Voor de toepassing van de eerste volzin wordt onder oprichting van een vennootschap mede begrepen het openstellen van een zelfstandig doelvermogen van een vennootschap.
