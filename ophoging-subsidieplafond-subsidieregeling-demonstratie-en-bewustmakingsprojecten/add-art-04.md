@@ -1,0 +1,2 @@
+# Artikel IV
+Voor de afhandeling van aanvragen, waaronder begrepen de behandeling van bezwaarschriften betreffende de beslissingen op aanvragen welke zijn ingediend voor de inwerkingtreding van het besluit van 18 oktober 1999 houdende intrekking van de Subsidieregeling demonstratie- en bewustmakingsprojecten milieu- en natuurvriendelijke landbouwproduktiemethoden, blijft de Subsidieregeling demonstratie- en bewustmakingsprojecten milieu- en natuurvriendelijke landbouwproduktiemethoden van toepassing.

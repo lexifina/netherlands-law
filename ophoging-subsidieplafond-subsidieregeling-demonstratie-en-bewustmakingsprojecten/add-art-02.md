@@ -1,0 +1,2 @@
+# Artikel II
+Terzake van subsidieaanvragen als bedoeld in artikel 2 van de Subsidieregeling demonstratie- en bewustmakingsprojecten milieu- en natuurvriendelijke landbouwproduktiemethoden, wordt het subsidieplafond, als bedoeld in artikel 1 van de Vaststellingsregeling subsidieplafond Subsidieregeling demonstratie- en bewustmakingsprojecten milieu- en natuurvriendelijke landbouwproduktiemethoden 1999, verhoogd tot f 7.837.369,-.
