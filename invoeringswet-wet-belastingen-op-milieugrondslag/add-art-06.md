@@ -1,0 +1,2 @@
+# Artikel VI
+Het Hoofdstuk Financiële bepalingen van de Wet milieubeheer, zoals dat luidde onmiddellijk voorafgaande aan de inwerkingtreding van deze wet, blijft van toepassing met betrekking tot feiten die leiden tot de verschuldigdheid of voldoening van de verbruiksbelastingen van brandstoffen, geheven naar het koolstofgehalte en de energie-inhoud, alsmede strafbare feiten ter zake, welke hebben plaatsgevonden vóór de datum met ingang waarvan deze wet in werking is getreden.
