@@ -1,0 +1,2 @@
+# Artikel 12a
+Voor de toepassing van het in deze paragraaf bepaalde wordt verstaan onder pensioenvoorziening: een pensioenvoorziening ten behoeve van een of meer personen, uitsluitend in verband met hun werkzaamheden in een onderneming, bedrijfstak, tak van beroep of openbare dienst, in aanvulling op een wettelijk stelsel van sociale zekerheid en, ingeval van een voorziening ten behoeve van een persoon, anders dan door die persoon zelf tot stand gebracht.
