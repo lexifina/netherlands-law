@@ -1,0 +1,2 @@
+# Artikel III
+Deze regeling treedt in werking met ingang van 30 september 2003.
