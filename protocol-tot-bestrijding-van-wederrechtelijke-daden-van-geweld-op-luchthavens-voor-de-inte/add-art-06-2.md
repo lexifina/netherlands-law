@@ -1,0 +1,3 @@
+# Artikel VI
+1. Terstond nadat tien van de ondertekenende Staten hun akten van bekrachtiging van dit Protocol hebben nedergelegd, treedt het tussen hen in werking op de dertigste dag na de datum van nederlegging van de tiende akte van bekrachtiging. Voor iedere Staat die zijn akte van bekrachtiging nederlegt na die datum, treedt het in werking op de dertigste dag na de nederlegging van zijn akte van bekrachtiging.
+2. Terstond nadat dit Protocol in werking is getreden, wordt het geregistreerd door de depositarissen in overeenstemming met artikel 102 van het Handvest van de Verenigde Naties en in overeenstemming met artikel 83 van het Verdrag inzake de Internationale Burgerluchtvaart (Chicago, 1944).

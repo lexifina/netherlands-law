@@ -1,0 +1,3 @@
+# Article VI
+1. As soon as ten of the signatory States have deposited their instruments of ratification of this Protocol, it shall enter into force between them on the thirtieth day after the date of the deposit of the tenth instrument of ratification. It shall enter into force for each State which deposits its instrument of ratification after that date on the thirtieth day after deposit of its instrument of ratification.
+2. As soon as this Protocol enters into force, it shall be registered by the Depositaries pursuant to Article 102 of the Charter of the United Nations and pursuant to Article 83 of the Convention on International Civil Aviation (Chicago, 1944).
