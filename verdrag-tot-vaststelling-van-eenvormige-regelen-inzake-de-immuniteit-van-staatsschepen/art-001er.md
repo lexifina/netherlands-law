@@ -1,0 +1,2 @@
+# Article 1er
+Les navires de mer appartenant aux Etats ou exploités par eux, les cargaisons leur appartenant, les cargaisons et passagers transportés par les navires d'Etat, de même que les Etats qui sont propriétaires de ces navires ou que les exploitent, ou qui sont propriétaires de ces cargaisons, sont soumis, en ce qui concerne les réclamations relatives à I'exploitation de ces navires ou au transport de ces cargaisons, aux mêmes règles de responsabilité et aux mêmes obligations que celles applicables aux navires, cargaisons et armements privés.
