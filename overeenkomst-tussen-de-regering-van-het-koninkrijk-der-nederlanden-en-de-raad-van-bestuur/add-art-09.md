@@ -1,0 +1,2 @@
+# Artikel IX
+Op de Directeur en de leden van het onderwijzend en het gedetacheerd administratief personeel van de School, op wie de wetgeving inzake sociale verzekering van een andere Staat van toepassing is, alsmede op hun echtgenoten en kinderen voor zover deze kinderen geen bedrijf of beroep uitoefenen noch aan de Nederlandse loonbelasting zijn onderworpen, is de Nederlandse sociale verzekeringswetgeving niet van toepassing.

@@ -1,0 +1,2 @@
+# Artikel VIII
+De Directeur en de leden van het onderwijzend en het gedetacheerd administratief personeel van de School die in Nederland hun werkzaamheden uitoefenen, genieten met betrekking tot hun deviezenrechtelijke positie dezelfde faciliteiten als ambtenaren van buitenlandse diplomatieke zendingen in het Koninkrijk der Nederlanden. Dientengevolge worden zij behandeld als ingezetenen in de zin van artikel 2, letter (d), van de Deviezenbekendmaking 2/61 van 11 september 1961 (Bijvoegsel bij de Nederlandse Staatscourant nr. 179 van 14 september 1961).
