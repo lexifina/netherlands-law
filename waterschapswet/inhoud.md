@@ -23,8 +23,6 @@
 #### § 5. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
 ### Hoofdstuk X. De bevoegdheid van het algemeen bestuur
 ### Hoofdstuk XI. De bevoegdheid van het dagelijks bestuur
-#### § 1. Algemene bevoegdheden
-#### § 2. Bijzondere bevoegdheden
 ### Hoofdstuk XII. De bevoegdheid van de voorzitter
 ## Titel IV. De financiën van het waterschap
 ### Hoofdstuk XIII. Inleidende bepaling
