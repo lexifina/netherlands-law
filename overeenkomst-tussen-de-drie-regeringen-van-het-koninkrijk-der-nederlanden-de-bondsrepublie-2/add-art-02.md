@@ -1,0 +1,4 @@
+# Artikel II. Verantwoordelijke instanties
+1. De United States Nuclear Regulatory Commission (USNRC) is als „Instantie van de Verenigde Staten" verantwoordelijk voor de toepassing van de desbetreffende bepalingen van deze Overeenkomst.
+2. Voor de toepassing van de relevante bepalingen van deze Overeenkomst worden de Drie Regeringen vertegenwoordigd door een „Tripartiete Instantie", benoemd door de Voorzitter van de krachtens de Overeenkomst van 4 maart 1970 ingestelde Gemengde Commissie voor tripartiete samenwerking bij de ontwikkeling en exploitatie van het gas-ultracentrifuge-procédé.
+3. Wanneer nodig vindt tussen de Tripartiete Instantie en de Instantie van de Verenigde Staten overleg plaats over aangelegenheden aangaande de beveiliging van gegevens die zich kunnen voordoen in het kader van deze Overeenkomst.

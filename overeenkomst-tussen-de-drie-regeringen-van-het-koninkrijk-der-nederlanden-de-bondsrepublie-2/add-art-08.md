@@ -1,0 +1,2 @@
+# Artikel VIII. Overige fasen van het industriële project
+De Drie Regeringen en de Regering van de Verenigde Staten beginnen vroegtijdig met onderhandelingen teneinde een vervolgovereenkomst op te stellen over de noodzakelijke voorwaarden voor de uitvoering van de overige fasen van het industriële project. Zij doen alles wat in hun vermogen ligt om die overeenkomst te sluiten binnen één jaar na de datum waarop deze Overeenkomst in werking treedt.
