@@ -1,7 +1,9 @@
 # Artikel 5a
 1. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaan onder artiest dan wel beroepssporter: degene die ingevolge een overeenkomst van korte duur, dan wel kortstondig krachtens een andere grond, als musicus of anderszins als artiest optreedt dan wel als beroep een tak van sport beoefent (beroepssporter).
 2. Degene die ingevolge een overeenkomst van korte duur, dan wel kortstondig krachtens een andere grond, als musicus of anderszins als artiest optreedt dan wel als beroep een tak van sport beoefent, is geen artiest onderscheidenlijk beroepssporter ingeval:
-a. hij in Nederland woont en door Onze Minister ten aanzien van hem is verklaard dat hij zijn werkzaamheden verricht in de uitoefening van een bedrijf of in de zelfstandige uitoefening van een beroep;
+a. hij in Nederland woont, en:
+1°. bij een beschikking als bedoeld in artikel 3.156 van de Wet inkomstenbelasting 2001 is verklaard dat de voordelen die hij geniet uit zijn optreden of sportbeoefening, worden aangemerkt als winst uit een onderneming, of
+2°. bij een beschikking als bedoeld in artikel 3.157 van de Wet inkomstenbelasting 2001 is verklaard dat de werkzaamheden die hij verricht in het kader van zijn optreden of sportbeoefening, worden aangemerkt als werkzaamheden uitsluitend verricht voor rekening en risico van de onderneming van een in Nederland gevestigde vennootschap waarin hij een aanmerkelijk belang heeft;
 b. hij het optreden rechtstreeks is overeengekomen met een natuurlijke persoon ten behoeve van diens persoonlijke aangelegenheden.
 3. Ingeval een artiest of beroepssporter optreedt of als beroep een tak van sport beoefent in het kader van een dienstbetrekking tot een in Nederland gevestigde inhoudingsplichtige, is hij voor de toepassing van deze wet en de daarop berustende bepalingen werknemer.
 4. Ingeval een niet in Nederland wonende artiest of beroepssporter optreedt of als beroep een tak van sport beoefent in het kader van een dienstbetrekking tot een inhoudingsplichtige die niet in Nederland is gevestigd, vindt de heffing van loonbelasting plaats ingevolge de regelingen zoals die gelden voor artiesten en beroepssporters.
