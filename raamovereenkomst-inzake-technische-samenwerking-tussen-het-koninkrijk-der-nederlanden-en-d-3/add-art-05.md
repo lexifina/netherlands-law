@@ -1,0 +1,3 @@
+# Artikel V
+1. Alle bepalingen van deze Overeenkomst aangaande het Nederlands personeel zijn gelijkelijk van toepassing op personen in dienst van de Nederlandse Regering en op personen in dienst van ondernemingen waarmee de Nederlandse Regering een contract heeft afgesloten voor de uitvoering van een project ten aanzien waarvan beide bevoegde bestuurlijke autoriteiten tot samenwerking hebben besloten.
+2. Het aangestelde Nederlandse personeel zal binnen een project zowel uitvoerende als adviserende taken kunnen vervullen en daarbij alle mogelijke technische en wetenschappelijke hulp en medewerking verlenen, doch zij zullen geen andere economische activiteiten buiten het project verrichten.
