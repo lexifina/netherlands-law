@@ -1,0 +1,4 @@
+# Article XIII
+1. Chaque Partie Contractante pourra à tout moment proposer à l'autre Partie Contractante toute modification qu'elle estime désirable d'apporter au présent Accord. Une consultation entre les Parties Contractantes au sujet de la modification proposée doit commencer dans un délai de soixante (60) jours à compter de la date de la demande par l'une des Parties Contractantes.
+2. Si l'une des Parties Contractantes estime désirable de modifier une Annexe au présent Accord, les autorités aéronautiques des deux Parties Contractantes pourront se consulter en vue de procéder à une modification.
+3. Toute modification du présent Accord ou de ses Annexes suivant les paragraphes 1 ou 2 du présent Article entrera en vigueur après sa confirmation par un échange de notes entre les Parties Contractantes.

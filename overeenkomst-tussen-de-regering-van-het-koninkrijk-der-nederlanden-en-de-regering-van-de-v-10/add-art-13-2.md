@@ -1,0 +1,4 @@
+# Artikel XIII
+1. Elke Overeenkomstsluitende Partij zal te allen tijde aan de andere Overeenkomstsluitende Partij iedere wijziging kunnen voorstellen, welke zij in deze Overeenkomst zal wensen te zien aangebracht. Een overleg tussen de Overeenkomstsluitende Partijen betreffende de voorgestelde wijziging moet aanvangen binnen een termijn van zestig (60) dagen te rekenen van de datum van het verzoek van één der Overeenkomstsluitende Partijen.
+2. Indien één der Overeenkomstsluitende Partijen het wenselijk acht een Bijlage bij deze Overeenkomst te wijzigen, zullen de luchtvaartautoriteiten van beide Overeenkomstsluitende Partijen overleg kunnen plegen teneinde tot zodanige wijziging te geraken.
+3. Elke wijziging van deze Overeenkomst of van haar Bijlagen volgens lid 1 en 2 van dit Artikel zal van kracht worden nadat zij is bevestigd door een wisseling van nota's tussen de Overeenkomstsluitende Partijen.

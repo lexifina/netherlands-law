@@ -1,0 +1,2 @@
+# Artikel VI
+De normale boord-uitrustingsstukken alsook de zaken en voorraden, welke zich aan boord bevinden van de luchtvaartuigen van een Overeenkomstsluitende Partij, zullen op het grondgebied van de andere Overeenkomstsluitende Partij slechts kunnen worden uitgeladen met toestemming van de douaneautoriteiten van dat grondgebied. In dit geval zullen ze onder toezicht van genoemde autoriteiten kunnen worden gesteld, totdat ze weer worden uitgevoerd of met toestemming van deze autoriteiten een andere bestemming hebben gekregen.

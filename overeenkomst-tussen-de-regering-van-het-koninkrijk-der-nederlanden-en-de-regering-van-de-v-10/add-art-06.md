@@ -1,0 +1,2 @@
+# Article VI
+Les équipements normaux du bord ainsi que les produits et approvisionnements se trouvant à bord des aéronefs d'une Partie Contractante ne pourront être déchargés sur le territoire de l'autre Partie Contractante qu'avec le consentement des autorités douanières de ce territoire. En ce cas, ils pourront être placés sous la surveillance desdites autorités jusqu'à ce qu'ils soient réexportés ou aient reçu une autre destination avec l'autorisation des mêmes autorités.

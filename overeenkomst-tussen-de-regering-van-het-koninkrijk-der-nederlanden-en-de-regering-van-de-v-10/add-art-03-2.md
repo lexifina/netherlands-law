@@ -1,0 +1,6 @@
+# Artikel III
+1. Elke Overeenkomstsluitende Partij zal het recht hebben een exploitatievergunning in te trekken of de uitoefening door een door de andere Overeenkomstsluitende Partij aangewezen luchtvaartmaatschappij van de in Artikel I van deze Overeenkomst omschreven rechten op te schorten of ten aanzien van de uitoefening van die rechten voorwaarden te stellen, welke zij noodzakelijk acht, wanneer:
+a. zij niet ervan overtuigd is, dat een aanmerkelijk deel van de eigendom van en het daadwerkelijk toezicht op die maatschappij berusten bij de Overeenkomstsluitende Partij, welke de maatschappij heeft aangewezen, of bij de onderdanen daarvan, of
+b. die maatschappij de wetten en voorschriften van de Overeenkomstsluitende Partij, welke die rechten heeft verleend, niet heeft nagekomen, of
+c. die maatschappij de exploitatie niet uitoefent volgens de door deze Overeenkomst gestelde voorwaarden.
+2. Tenzij de intrekking, de opschorting of het stellen van voorwaarden, bedoeld in lid 1 van dit Artikel, onmiddellijk noodzakelijk is om hernieuwde inbreuken op de wetten en voorschriften te voorkomen, zal een zodanig recht slechts kunnen worden uitgeoefend na overleg met de andere Overeenkomstsluitende Partij.
