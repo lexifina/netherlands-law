@@ -1,0 +1,3 @@
+# Artikel 76b. Nevenvestiging instellingen
+1. Indien een bevoegd gezag van een instelling wenst over te gaan tot het inrichten van een nevenvestiging en het daarover overeenstemming heeft bereikt met de andere instellingen en de gemeente waar die nevenvestiging zal worden gevestigd, dient het bevoegd gezag voor 1 februari een daarop betrekking hebbend verzoek met de gegevens waaruit de bedoelde overeenstemming blijkt, in bij Onze minister.
+2. Onze minister beslist voor 1 december daaropvolgend. Indien Onze minister de inrichting van een nevenvestiging goedkeurt, vangt de bekostiging van die nevenvestiging aan op 1 augustus volgend op de goedkeuring. Voor de bekostiging wordt de nevenvestiging aangemerkt als deel van de instelling die de nevenvestiging in stand houdt.
