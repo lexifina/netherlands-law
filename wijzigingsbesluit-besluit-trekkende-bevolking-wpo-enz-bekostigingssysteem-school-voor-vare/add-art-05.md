@@ -1,0 +1,2 @@
+# Artikel V. Afkoop van restschulden
+Het Rijk kan met het bestuur van de gemeenten Dordrecht, Terneuzen en Zwolle een regeling treffen tot betaling van het bedrag dat door elk van deze gemeenten is gedaan in verband met investeringen ten behoeve van huisvesting van de school voor varende kinderen. Het bedrag, bedoeld in de eerste volzin, is het bedrag dat resteert op het tijdstip waarop in een van deze gemeenten de desbetreffende huisvesting door deze school wordt verlaten.
