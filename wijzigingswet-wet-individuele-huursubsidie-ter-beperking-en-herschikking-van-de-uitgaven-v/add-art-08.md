@@ -1,0 +1,4 @@
+# Artikel VIII
+1. Deze wet is niet van toepassing op aanvragen om en verstrekkingen van een bijdrage als bedoeld in artikel 2, eerste lid, van de Wet individuele huursubsidie, die betrekking hebben op tijdvakken als bedoeld in artikel 2, vijfde lid, van die wet, die zijn verstreken vóór 1 juli 1992.
+2. De artikelen II, III, IV en VII van deze wet zijn eveneens niet van toepassing op aanvragen om en verstrekkingen van een bijdrage als bedoeld in artikel 2, eerste lid, van de Wet individuele huursubsidie, die betrekking hebben op het tijdvak van 1 juli 1992 tot en met 30 juni 1993.
+3. Artikel V van deze wet is eveneens niet van toepassing op aanvragen om en verstrekkingen van een bijdrage als bedoeld in artikel 2, eerste lid, van de Wet individuele huursubsidie, die betrekking hebben op de tijdvakken van 1 juli 1992 tot en met 30 juni 1993 en van 1 juli 1993 tot en met 30 juni 1994.

@@ -1,0 +1,2 @@
+# Artikel VI
+In afwijking van artikel 25, aanhef en onder a, van de Wet individuele huursubsidie vervangt Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer met ingang van 1 juli voor de periode van 1 juli 1992 tot en met 30 juni 1993 het bedrag, genoemd in artikel 7, eerste lid, onder a, van die wet door een bedrag, gelijk aan het te vervangen bedrag, verhoogd met 4½ procent en daarna afgerond op het naasthogere veelvoud van f 5,-.

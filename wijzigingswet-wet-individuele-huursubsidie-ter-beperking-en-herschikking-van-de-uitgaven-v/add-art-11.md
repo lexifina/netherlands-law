@@ -1,0 +1,2 @@
+# Artikel XI
+Voor de huurder die op 1 juli 1992 jonger is dan 23 jaar en aan wie voor een woning waarvan hij op 30 juni 1992 nog het genot had, een bijdrage als bedoeld in artikel 2, eerste lid, van de Wet individuele huursubsidie is verstrekt over het tijdvak van 1 juli 1991 tot en met 30 juni 1992, geldt, zolang die huurder het genot van de hiervoor bedoelde woning behoudt, artikel 16, tweede volzin, van genoemde wet, zoals deze vanaf de inwerkingtreding van artikel I van deze wet is komen te luiden, niet.
