@@ -1,0 +1,2 @@
+# Artikel 34*
+Artikel 26a, vierde lid, zoals dit luidde op 31 december 2004 blijft van toepassing met betrekking tot arbo-bedrijfsmiddelen ter zake waarvan de inhoudingsplichtige arbo-afdrachtvermindering heeft genoten.
