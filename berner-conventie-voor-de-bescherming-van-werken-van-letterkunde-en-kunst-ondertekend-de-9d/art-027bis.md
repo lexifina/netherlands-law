@@ -1,0 +1,2 @@
+# Article 27bis
+Tout différend entre deux ou plusieurs Pays de l'Union concernant l'interprétation ou l'application de la présente Convention, qui ne sera pas réglé par voie de négociation, sera porté devant la Cour internationale de Justice pour qu'il soit statué par elle, à moins que les Pays en cause ne conviennent d'un autre mode de règlement. Le Bureau international sera informé par le Pays demandeur du différend porté devant la Cour; il en donnera connaissance aux autres Pays de l'Union.

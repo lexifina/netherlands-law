@@ -1,0 +1,2 @@
+# Artikel 27bis
+Elk geschil tussen twee of meer Landen van het Verbond betreffende de uitlegging of toepassing van deze Conventie, dat niet door onderhandeling zal worden bijgelegd, zal ter beslissing voor het Internationaal Gerechtshof worden gebracht, tenzij de betrokken Landen een andere wijze van beslechting overeenkomen. Het Internationaal Bureau zal door het Land, dat als eiser het geschil voor het Hof heeft gebracht, hiervan op de hoogte worden gesteld; het Bureau zal hiervan kennis geven aan de andere Landen van het Verbond.
