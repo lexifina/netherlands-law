@@ -1,0 +1,9 @@
+# Artikel 5a
+1. In afwijking van artikel 5, wordt, indien dit leidt tot een langere wachtgeldduur, waarin tevens voor zover van toepassing de bijzondere verlenging bedoeld in het derde lid is begrepen, de duur van het wachtgeld vastgesteld overeenkomstig de volgende leden.
+2. De duur van het wachtgeld wordt vastgesteld op drie maanden, vermeerderd voor de betrokkene:
+a. die op de dag van ontslag de leeftijd van 21 jaar nog niet heeft bereikt met een duur gelijk aan 18% van de diensttijd;
+b. die op de dag van ontslag 21 jaar oud is met een duur van 19,5% van de diensttijd en zo vervolgens per leeftijdsjaar opklimmende met 1,5%;
+c. die op de dag van ontslag 60 jaar of ouder is, met een duur gelijk aan 78% van de diensttijd.
+3. In aanvulling op de duur van het wachtgeld van de betrokkene die ten tijde van het ontslag een diensttijd, voor zover geldig voor pensioen, van ten minste 10 jaar heeft volbracht, wordt indien de som van zijn leeftijd en diensttijd ten tijde van het ontslag 60 jaren of meer bedraagt, na afloop van de termijn waarover wachtgeld is toegekend, een bijzondere verlenging verleend. Deze bijzondere verlenging duurt tot de eerste dag van de kalendermaand volgende op die waarin hij de leeftijd van 65 jaar heeft bereikt.
+4. De verlenging bedoeld in het derde lid vindt niet plaats in het geval, dat ter zake van een eerder toegekend wachtgeld de vorenbedoelde verlenging reeds heeft plaatsgehad, tenzij de betrokkene nadien weder een diensttijd, voor zover geldig voor pensioen, van ten minste tien jaar heeft vervuld. In dat geval blijft de tijd die in aanmerking is genomen bij de bijzondere verlenging, buiten aanmerking.
+5. In bijzondere gevallen kan Onze Minister na afloop van de in het eerste en tweede lid bedoelde termijnen de duur van het wachtgeld verlengen.
