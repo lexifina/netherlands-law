@@ -1,0 +1,2 @@
+# Artikel I
+In afwijking van artikel 4, eerste lid, van het Besluit vakantie-uitkering militairen zeemacht (Stb. 1954, 607) onderscheidenlijk artikel 44, eerste lid, van de Regeling inkomsten militairen land- en luchtmacht 1969 (Stb. 1968, 523) wordt de vakantie-uitkering over de periode van tien maanden, die is aangevangen met de maand juni 1984 betaald in maart 1985 en wordt in mei 1985 de vakantie-uitkering over de maanden april en mei 1985 betaald.
