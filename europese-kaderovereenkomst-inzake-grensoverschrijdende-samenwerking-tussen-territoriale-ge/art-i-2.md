@@ -1,0 +1,5 @@
+# Artikel i
+1. Elke Partij stelt de andere in kennis van de voltooiing van de ingevolge zijn interne recht vereiste procedures voor de toepassing van deze overeenkomst, die in werking treedt met ingang van de datum van de laatste kennisgeving.
+2. Deze overeenkomst wordt gesloten voor een tijdvak van vijf jaar vanaf haar inwerkingtreding. Tenzij zij zes maanden voor het einde van deze periode wordt opgezegd, wordt zij stilzwijgend op dezelfde voorwaarden voor achtereenvolgende tijdvakken van vijf jaar verlengd.
+3. De Partij die kennisgeving van opzegging doet, kan aangeven dat zulks slechts geldt voor nader aangeduide artikelen, geografische gebieden of terreinen van activiteiten. In een dergelijk geval blijft de overeenkomst voor het overige van kracht, tenzij zij door de andere Partij of Partijen wordt opgezegd binnen vier maanden na ontvangst van de kennisgeving van gedeeltelijke opzegging.
+4. De Partijen kunnen te allen tijde de toepassing van deze overeenkomst voor een aangegeven tijdvak schorsen. Ook kunnen zij overeenkomen dat de werkzaamheden van een bepaalde commissie of een bepaald comité worden opgeschort of beëindigd.
