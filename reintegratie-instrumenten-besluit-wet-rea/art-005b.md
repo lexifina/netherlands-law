@@ -1,0 +1,2 @@
+# Artikel 5b. Geen subsidie bij geringe kosten
+Een subsidie als bedoeld in artikel 16 van de Wet wordt niet verstrekt indien de kosten, bedoeld in dat artikel, minder bedragen dan 1,85 maal het minimumloon per dag, bedoeld in artikel 8, eerste lid, onderdeel c, van de Wet minimumloon en minimumvakantiebijslag, zoals dat artikel luidde op 1 januari van het kalenderjaar waarin de kosten zijn gemaakt.
