@@ -1,0 +1,2 @@
+# Artikel IV
+De tekst van het Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen wordt in het Staatsblad geplaatst. Voor de plaatsing in het Staatsblad stelt Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer de nummering van de artikelen en paragrafen van het besluit opnieuw vast en brengt hij de in dit besluit voorkomende aanhalingen van de artikelen en paragrafen met de nieuwe nummering in overeenstemming.
