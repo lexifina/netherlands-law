@@ -1,0 +1,3 @@
+# Artikel IX
+Dit Verdrag dient te worden bekrachtigd en de akten van bekrachtiging zullen zo spoedig mogelijk te 's-Gravenhage worden uitgewisseld.
+Het Verdrag treedt in werking op de datum van uitwisseling van de akten van bekrachtiging en zal een geldigheid hebben van vijf jaar. Ingeval geen der Verdragsluitende Partijen zes maanden voor het verstrijken van genoemde termijn aan de andere het voornemen heeft te kennen gegeven zijn werking te willen doen eindigen, zal het Verdrag voor onbepaalde tijd van kracht blijven doch door elk der Verdragsluitende Partijen op ieder tijdstip kunnen worden opgezegd, door de andere hiervan in kennis te stellen met een opzeggingstermijn van zes maanden.
