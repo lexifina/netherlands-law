@@ -1,0 +1,2 @@
+# Artikel VII
+Deze Overeenkomst zal, wat het Koninkrijk der Nederlanden betreft, alleen gelden voor het Rijk in Europa.
