@@ -1,0 +1,11 @@
+# § 10). Forfaitaire kentallen
+Waar van toepassing gelden bij berekeningen voor diverse energiebronnen de volgende forfaitaire waarden voor energie-inhoud en CO2-emissiefactoren:
+ | Energie-inhoud in MJ per eenheid (stookwaarde) | CO2-emissiefactor in kg per eenheid:
+Aardgas | 32 per nm³ | 1,8 per nm³
+LPG | 24 per liter | 1,6 per liter
+Benzine | 33 per liter | 2,4 per liter
+Dieselolie | 36 per liter | 2,6 per liter
+Gasolie | 43 per kg | 3,1 per kg
+Stookolie, |  | 
+alle gradaties | 42 per kg | 3,1 per kg
+Elektriciteit | 3,6 per kWh | 0,37 per kWh
