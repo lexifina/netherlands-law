@@ -1,0 +1,4 @@
+# Art. 6bis
+De verdragsluitende landen verbinden zich om, hetzij ambtshalve, indien de wetgeving van het land dit toelaat, hetzij op verzoek van den belanghebbende, te weigeren of nietig te verklaren de inschrijving van een fabrieks- of handelsmerk, dat de reproductie is of nabootsing, welke verwarring kan wekken, van een merk, dat naar het oordeel van de bevoegde autoriteit van het land van inschrijving, aldaar algemeen bekend is als zijnde reeds het merk van een onderdaan van een ander verdragsluitend land, en gebruikt voor gelijke of soortgelijke waren.
+Een termijn van ten minste 3 jaar moet worden toegestaan om de doorhaling van deze merken te vorderen. De termijn zal beginnen te loopen van de dagteekening der inschrijving van het merk af.
+Er zal geen termijn vastgesteld worden om de doorhaling te vorderen van die merken, welke te kwader trouw zijn ingeschreven.

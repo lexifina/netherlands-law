@@ -1,0 +1,3 @@
+# Article 10ter
+Les pays contractants s'engagent à assurer aux ressortissants des autres pays de l'Union des recours légaux appropriés pour réprimer efficacement tous les actes visés aux articles 9, 10 et 10bis.
+Ils s'engagent, en outre, à prévoir des mesures pour permettre aux syndicats et associations représentant l'industrie ou le commerce intéressé et dont l'existence n'est pas contraire aux lois de leur pays, d'agir en justice ou auprès des autorités administratives, en vue de la répression des actes prévus par les articles 9, 10 et 10bis, dans la mesure où la loi du pays dans lequel la protection est réclamée le permet aux syndicats et associations de ce pays.

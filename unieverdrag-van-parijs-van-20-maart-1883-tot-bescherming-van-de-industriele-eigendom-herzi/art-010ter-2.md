@@ -1,0 +1,3 @@
+# Art. 10ter
+De verdragsluitende landen verbinden zich om aan de onderdanen van de andere landen van de Unie wettelijk verhaal te verzekeren, geschikt om alle handelingen, bedoeld in de artikelen 9, 10 en 10bis, met kracht tegen te gaan.
+Zij verbinden zich bovendien, maatregelen te treffen om aan syndicaten en vereenigingen, welke de belanghebbende nijverheid of handel vertegenwoordigen, en welker bestaan niet strijdig is met de wetten van hun land, toe te staan in rechten of bij de administratieve autoriteiten op te treden ter bestrijding van de handelingen, bedoeld in de artikelen 9, 10 en 10bis, voorzoover de wet van het land, waarin de bescherming wordt gevraagd, zulks toestaat aan de syndicaten en vereenigingen van dat land.

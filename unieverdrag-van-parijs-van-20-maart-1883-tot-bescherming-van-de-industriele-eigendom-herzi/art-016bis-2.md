@@ -1,0 +1,5 @@
+# Art. 16bis
+De verdragsluitende landen hebben het recht te allen tijde tot dit verdrag toe te treden voor hunne koloniën, bezittingen, afhankelijke gebieden en protectoraten of gebieden, bestuurd krachtens een mandaat van den Volkenbond, of voor sommige van deze.
+Te dien einde kunnen zij òf eene algemeene verklaring indienen, waardoor al hunne koloniën, bezittingen, afhankelijke gebieden en protectoraten en de mandaatgebieden, bedoeld in de eerste alinea, in de toetreding zijn begrepen, òf uitdrukkelijk die opgeven, welke daarin zijn begrepen, òf zich bepalen tot de aanwijzing van die, welke er van zijn uitgesloten.
+Deze verklaring zal schriftelijk ter kennis van de Regeering van den Zwitserschen Bond en door deze ter kennis van alle andere Regeeringen worden gebracht.
+De verdragsluitende landen zullen onder dezelfde voorwaarden het verdrag kunnen opzeggen voor hunne koloniën, bezittingen, afhankelijke gebieden en protectoraten of voor de mandaatgebieden bedoeld in de eerste alinea, dan wel voor sommige van deze.
