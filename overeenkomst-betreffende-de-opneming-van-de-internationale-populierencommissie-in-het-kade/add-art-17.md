@@ -1,0 +1,2 @@
+# Article XVII. Termination
+This Convention shall be considered terminated if and when the number of Member Nations of the Commission falls below 6 unless the remaining Member Nations of the Commission unanimously decide otherwise subject to the approval of the Conference of the Organization. The Director-General of the Organization shall inform all Member Nations of the Commission, all Member Nations and Associate Members of the Organization and the Secretary-General of the United Nations of such termination.

@@ -1,0 +1,2 @@
+# Article I. Status
+The International Poplar Commission (hereinafter referred to as ,,the Commission") shall be placed within the framework of the Food and Agriculture Organization of the United Nations (hereinafter referred to as ,,the Organization") and the present Convention whose object is to achieve that purpose shall be governed by the provisions of Article XIV of the Constitution of the Organization.

@@ -1,0 +1,6 @@
+# Article X. Expenses
+1. Expenses incurred by delegates of Member Nations of the Commission and of their alternates and advisors, when attending sessions of the Commission, or subsidiary bodies, as well as the expenses incurred by observers, shall be borne by the respective governments or organizations.
+2. Expenses of all the Members of the Executive Committee when attending sessions of the Executive Committee shall be borne by the countries of which they are nationals.
+3. Expenses incurred by individuals invited in their personal capacity to attend sessions or participate in the work of the Commission or its subsidiary bodies shall be borne by such individuals except when they have been requested to perform a specific task on behalf of the Commission or its subsidiary bodies.
+4. The expenses of the Secretariat shall be borne by the Organization.
+5. When the Commission or Executive Committee hold sessions elsewhere than at the seat of the Commission, all additional expenses related to such sessions shall be borne by the host government. The expenses for publications relating to sessions of the Commission other than the reports of such sessions, of the Executive Committee and subsidiary bodies shall be borne by the host government.

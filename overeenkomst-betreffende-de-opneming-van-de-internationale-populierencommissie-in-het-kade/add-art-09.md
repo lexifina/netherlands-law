@@ -1,0 +1,3 @@
+# Article IX. Subsidiary Bodies
+1. The Commission may, if necessary, establish sub-commissions, committees or working parties, subject to the availability of the necessary funds in the relevant chapter of the approved budget of the Organization. Sessions of such sub-commissions, committees or working parties shall be convened by the Director-General of the Organization in consultation with the Chairman of such body.
+2. Membership in subsidiary bodies shall be open to all Member Nations of the Commission, or shall consist of selected Member Nations of the Commission, or of individuals appointed in their personal capacity, as determined by the Commission.

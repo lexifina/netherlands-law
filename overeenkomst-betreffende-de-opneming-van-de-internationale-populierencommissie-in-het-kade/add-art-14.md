@@ -1,0 +1,2 @@
+# Article XIV. Territorial Application
+Member Nations of the Commission shall, when accepting this Convention, state explicitly to which territories their participation shall extend. In the absence of such a declaration, participation shall be deemed to apply to all the territories for the international relations of which the Member Nation of the Commission is responsible. Subject to the provisions of Article XVI, paragraph 2 below, the scope of the territorial application may be modified by a subsequent declaration.

@@ -1,0 +1,8 @@
+# Article VII. Executive Committee
+1. There shall be an Executive Committee of the Commission consisting of 12 members and up to 5 co-opted members.
+2. Twelve members of the Executive Committee shall be elected by the Commission from among individuals nominated by Member Nations of the Commission upon the suggestion of their respective National Poplar Commissions. Members of the Executive Committee shall be appointed in their personal capacity because of their special competence, and shall serve for a period of four years. Members of the Executive Committee shall be eligible for re-election.
+3. The Executive Committee may, in order to ensure the co-operation of the necessary specialists, co-opt one to five additional members under the same conditions as are provided for in paragraph 2 above. The term of office of the additional members shall expire with the term of the elected members.
+4. The Executive Committee shall, between sessions of the Commission, act on behalf of the Commission as its executive organ. The Executive Committee shall in particular make proposals to the Commission regarding the general orientation and the program of work of the Commission, study technical questions and implement the program as approved by the Commission.
+5. The Executive Committee shall elect from amongst its Members a Chairman and a Vice-Chairman.
+6. Sessions of the Executive Committee may be convened as often as necessary by the Director-General of the Organization in consultation with its Chairman. The Committee shall meet in connection with each regular session of the Commission. It shall also meet at least once between two regular sessions of the Commission.
+7. The Executive Committee shall report to the Commission.

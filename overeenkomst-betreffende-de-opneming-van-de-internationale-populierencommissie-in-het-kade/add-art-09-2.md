@@ -1,0 +1,3 @@
+# Artikel IX. Hulporganen
+1. De Commissie kan, indien gewenst, subcommissies, comités of werkgroepen instellen onder voorbehoud dat de benodigde gelden beschikbaar zijn op het desbetreffende hoofdstuk van de door de Organisatie goedgekeurde begroting. Deze subcommissies, comités en werkgroepen worden door de Directeur-Generaal van de Organisatie, in overleg met de voorzitter van het desbetreffende orgaan, bijeengeroepen.
+2. Van deze hulporganen kunnen deel uitmaken hetzij alle Lid-Staten van de Commissie, hetzij bepaalde Lid-Staten van de Commissie, hetzij particulieren die in hun persoonlijke hoedanigheid worden benoemd, al naar de Commissie beslist.

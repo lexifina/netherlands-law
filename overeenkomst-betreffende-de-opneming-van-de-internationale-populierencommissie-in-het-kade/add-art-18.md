@@ -1,0 +1,3 @@
+# Article XVIII. Entry into Force
+1. This Convention shall enter into force as soon as twelve Member Nations or Associate Members of the Organization have become parties to it by the deposit of an instrument of acceptance in accordance with the provisions of Article XIII. 1 of this Convention.
+2. With respect to such nations as are already Members of the Commission and who become parties to the present Convention, the provisions of this Convention shall replace the provisions of the statutes of the International Poplar Commission adopted at the second session of the Commission held on 20 to 28 April 1948 in Italy.

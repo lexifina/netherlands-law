@@ -1,0 +1,6 @@
+# Artikel VI. Zittingen
+1. Iedere Lid-Staat van de Commissie wordt op de zittingen van de Commissie vertegenwoordigd door één enkele afgevaardigde, die zich kan doen vergezellen door een plaatsvervanger en door deskundigen en adviseurs. De plaatsvervangers, deskundigen en adviseurs kunnen aan de besprekingen van de Commissie deelnemen, maar zij brengen geen stem uit, behalve indien de plaatsvervanger naar behoren gemachtigd wordt de afgevaardigde te vervangen. Iedere Lid-Staat van de Commissie heeft één stem. De besluiten van de Commissie worden genomen bij meerderheid van de uitgebrachte stemmen, tenzij in deze Overeenkomst anders is bepaald. Het quorum wordt gevormd door de meerderheid van de Lid-Staten van de Commissie.
+2. [De tekst van de vertaling is niet beschikbaar.]
+3. De zittingen van de Commissie worden gehouden op een door de Commissie bepaalde plaats binnen het grondgebied van de Lid-Staten of op de plaats waar haar zetel is gevestigd.
+4. De Commissie kiest bij de aanvang van iedere zitting uit de afgevaardigden een voorzitter en twee ondervoorzitters.
+5. Er wordt voor de duur van de zitting een Bureau gevormd, dat bestaat uit de voorzitter en de twee ondervoorzitters van de zitting en de voorzitter en ondervoorzitter van het Bestuur.

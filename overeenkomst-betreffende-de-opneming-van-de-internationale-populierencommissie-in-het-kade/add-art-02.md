@@ -1,0 +1,3 @@
+# Article II. Membership
+1. Member Nations of the Commission shall be such Member Nations or Associate Members of the Organization as accept this Convention in accordance with the provisions of Article XIII of this Convention.
+2. The Commission may, by a two-thirds majority of its membership, admit to membership such other States that are Members of the United Nations, any of its Specialized Agencies or the International Atomic Energy Agency as have submitted an application for membership and a declaration made in a formal instrument that they accept this Convention as in force at the time of admission.
