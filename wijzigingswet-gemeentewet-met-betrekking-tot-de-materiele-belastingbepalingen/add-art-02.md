@@ -1,0 +1,2 @@
+# Artikel II
+Aan de gemeenten die op de dag voorafgaande aan de inwerkingtreding van deze wet over het belastingjaar waarin die dag valt belastingen ter zake van onroerende zaken als bedoeld in artikel 220 van de Gemeentewet, zoals dat luidde voor inwerkingtreding van deze wet, heffen naar de grondslag oppervlakte, wordt volgens bij algemene maatregel van bestuur te stellen regels een bijdrage verstrekt ter tegemoetkoming in de kosten die zijn gemoeid met de overgang naar de grondslag waarde in het economisch verkeer.
