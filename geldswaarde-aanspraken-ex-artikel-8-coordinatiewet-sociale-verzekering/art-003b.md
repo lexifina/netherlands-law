@@ -1,0 +1,2 @@
+# Artikel 3b
+Voor de toepassing van artikel 3a, tweede lid, geldt met betrekking tot de kalenderjaren 2001 en 2002 dat een werknemer wordt geacht de bedoelde geldlening of geldleningen tot een gezamenlijk bedrag van ten hoogste € 3403,00 (f 7499,00) op een dusdanige wijze aan te wenden dat een in de plaats van de lening of leningen voor de desbetreffende aanwending gekomen vergoeding of verstrekking geheel of nagenoeg geheel op nihil zou zijn gesteld.
