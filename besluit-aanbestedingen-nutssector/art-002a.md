@@ -1,0 +1,2 @@
+# Artikel 2a
+Aanbestedende diensten passen bij een procedure voor het plaatsen van een opdracht tegenover aannemers, leveranciers en dienstverleners in de lidstaten van de Europese Unie de voorwaarden, bedoeld in de Overeenkomst inzake overheidsopdrachten, toe, indien zij deze voorwaarden voor diezelfde procedure toepassen ten aanzien van aannemers, leveranciers en dienstverleners uit andere staten die partij bij de Overeenkomst inzake overheidsopdrachten zijn en deze voorwaarden gunstiger voor hen zijn dan de voorwaarden, bedoeld in richtlijn 93/38/EEG.
