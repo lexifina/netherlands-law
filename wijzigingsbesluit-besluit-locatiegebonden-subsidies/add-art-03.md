@@ -1,0 +1,2 @@
+# Artikel III
+Een vóór de inwerkingtreding van dit besluit tot stand gekomen verordening van provinciale staten, die regels bevat inzake de verlening van geldelijke steun vanwege de provincie voor de ontwikkeling van bouwlocaties in de zin van het Besluit locatiegebonden subsidies, staat gelijk aan een verordening als bedoeld in artikel 18a van genoemd besluit, indien die verordening datgene omvat wat een zodanige verordening ingevolge genoemd artikel 18a dient te omvatten.
