@@ -15,6 +15,7 @@
 ## Hoofdstuk 5. Verwerving, gebruik en verstrekking van gegevens
 ### Paragraaf 1. Verwerving
 ### Paragraaf 2. Gebruik van gegevens
+### Paragraaf 2a. Uitvoering van verordening 638/2004
 ### Paragraaf 3. Verstrekking van gegevens
 ### Paragraaf 4. Bestuurlijke boete en last onder dwangsom
 ## Hoofdstuk 6. Informatievoorziening, sturing en toezicht
