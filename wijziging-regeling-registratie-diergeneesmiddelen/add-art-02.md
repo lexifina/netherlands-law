@@ -1,2 +1,0 @@
-# Artikel II
-Indien een registratie is aangevraagd als bedoeld in artikel 3, eerste lid, van de Diergeneesmiddelenwet vóór het tijdstip van inwerkingtreding van deze regeling, en op die aanvraag nog niet is beslist, blijven de voor dat tijdstip geldende bepalingen met betrekking tot het indienen en de behandeling van een aanvraag ten aanzien van het diergeneesmiddel waarvoor de aanvraag is gedaan, van toepassing tot het tijdstip waarop op de aanvraag is beslist.
