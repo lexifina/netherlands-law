@@ -1,0 +1,3 @@
+# Artikel VI
+1. Deze wet is, behoudens artikel VIA, tweede lid, niet van invloed op de bevoegdheid van de rechter in burgerlijke zaken en bestuursrechtelijke zaken of op die van procureurs van partijen, met betrekking tot zaken die vóór de inwerkingtreding van deze wet bij een gerecht aanhangig zijn gemaakt.
+2. Deze wet is, met uitzondering van de kantongerechten te Zwolle, te Lelystad en te Terneuzen, niet van invloed op de bevoegdheid van de rechter tot kennisneming van strafbare feiten die vóór de inwerkingtreding van deze wet door de officier van justitie in behandeling zijn genomen, met dien verstande dat in strafzaken waarin na de inwerkingtreding van deze wet hoger beroep wordt ingesteld, deze bepaling buiten toepassing blijft.

@@ -1,0 +1,2 @@
+# Artikel V
+De advocaten en procureurs die kantoor houden in een gemeente die ingevolge deze wet naar een ander arrondissement overgaat, worden door de zorg van de betrokken griffiers ingeschreven bij de rechtbank van het nieuwe arrondissement. Zij blijven gedurende vijf jaren na de inwerkingtreding van deze wet tevens ingeschreven bij de rechtbank van het oude arrondissement. Artikel 61, tweede lid, tweede volzin, van de Advocatenwet blijft buiten toepassing.
