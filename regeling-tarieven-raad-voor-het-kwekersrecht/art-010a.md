@@ -1,0 +1,2 @@
+# Artikel 10a
+Indien op verzoek van de aanvrager, de houder van het kwekersrecht, hun rechtsopvolgers of degene te wiens naam een inschrijving ex artikel 18, tweede lid, van de wet is gesteld, een wijziging, verbetering of aanvulling van de in het Register ingeschreven gegevens noodzakelijk is, is, voor zover voor die wijziging, verbetering of aanvulling geen bijzonder tarief is gegeven, een bedrag van € 6,49 verschuldigd per ingeschreven ras.
