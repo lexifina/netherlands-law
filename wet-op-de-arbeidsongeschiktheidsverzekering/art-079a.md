@@ -1,5 +1,6 @@
 # Artikel 79a
-1. Het Uitvoeringsinstituut werknemersverzekeringen heft op het loon van de werknemer, die bij het begin van het kalenderjaar de leeftijd van 57 jaar heeft bereikt, 2%-punt minder basispremie, als bedoeld in artikel 77, voorzover hij over dat kalenderjaar premie over het loon van die werknemer verschuldigd is of verschuldigd zou zijn indien artikel 79b niet van toepassing zou zijn geweest.
-2. Dit artikel is niet van toepassing indien het loon van de werknemer slechts bestaat uit een door tussenkomst van de werkgever uitbetaalde uitkering op grond van de verplichte verzekering op grond van deze wet en, indien van toepassing, een toeslag daarop op grond van de Toeslagenwet.
-3. Dit artikel is niet van toepassing op de premie over het loon van de persoon die arbeid verricht als bedoeld in de artikelen 2 of 7 van de Wet sociale werkvoorziening, de artikelen 4 of 5 van de Wet inschakeling werkzoekenden of arbeid waarvoor de werkgever krachtens artikel 3, eerste lid, van de Kaderwet SZW-subsidies een vergoeding ontvangt als bedoeld in artikel 6 van het Besluit in- en doorstroombanen, met uitzondering van arbeid waarvoor de werkgever krachtens artikel 3, eerste lid, van de Kaderwet SZW-subsidies een vergoeding ontvangt als bedoeld in artikel 2 van de Regeling schoonmaakdiensten particulieren.
-4. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van een goede uitvoering van het eerste lid.
+1. Het uitvoeringsinstituut werknemersverzekeringen heft op het loon van de werknemer geen basispremie als bedoeld in artikel 77:
+a. indien de werkgever die werknemer in dienst neemt, terwijl die werknemer een leeftijd van 50 jaar of ouder heeft;
+b. indien die werknemer de leeftijd van 55 jaar heeft bereikt.
+2. Dit artikel is niet van toepassing op de premie over het loon van de persoon die arbeid verricht als bedoeld in artikel 2 van de Wet sociale werkvoorziening.
+3. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van een goede uitvoering van het eerste lid.
