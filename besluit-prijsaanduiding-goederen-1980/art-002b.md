@@ -1,0 +1,4 @@
+# Artikel 2b
+1. Een ieder, die in het kader van zijn handels-, beroeps- of bedrijfsactiviteit in een reclame-uiting of in het kader van een koop op afstand goederen aan particulieren te koop aanbiedt met bekendmaking van de prijs, waartegen die goederen worden aangeboden, is verplicht in die reclame-uiting, onderscheidenlijk in het aanbod van de koop op afstand tevens het door omrekening van die prijs verkregen geldbedrag per een in het derde lid van artikel 2a aangewezen standaardhoeveelheid bekend te maken.
+2. Artikel 2a, tweede lid, vierde lid, derde volzin, vijfde lid, onder a en b, zesde lid en zevende lid, is van overeenkomstige toepassing op het bekendmaken van de prijs per standaardhoeveelheid in de reclame-uiting, onderscheidenlijk het aanbod voor de koop op afstand.
+3. Ten aanzien van elk in dit artikel bedoeld bekendgemaakt geldbedrag per standaardhoeveelheid moet duidelijk blijken op welk goed dit betrekking heeft.
