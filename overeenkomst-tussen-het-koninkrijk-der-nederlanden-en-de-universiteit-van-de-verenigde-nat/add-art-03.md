@@ -1,0 +1,3 @@
+# Article III. Premises
+The premises of the Institute shall be inviolable. Any person authorized to enter any place under any legal provision or on the strength of the law shall not excercise that authority in respect of the premises of the Institute unless permission to do so has been given by or on behalf of the Director. Nothing in this Agreement shall prevent the reasonable application by the appropriate authorities from taking measures for the protection of the premises in case of fire or other emergencies requiring prompt protective action.
+In the other cases the Director or the person acting on his behalf shall give permission if it is possible to do so without prejudice to the interests of the Institute.

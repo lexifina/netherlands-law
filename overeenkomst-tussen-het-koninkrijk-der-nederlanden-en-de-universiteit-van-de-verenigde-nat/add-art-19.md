@@ -1,0 +1,3 @@
+# Article XIX. Purpose and scope of privileges and immunities
+1. Privileges and immunities are granted by this Agreement in the interests of the Institute and not for the personal benefit of the individuals themselves.
+2. The Director, on behalf of the Rector, has the right and the duty to waive such immunities (other than his own and those of the members of the Board) in any case where the immunity would impede the course of justice, and where it can be waived without prejudice to the interests of the Institute. In respect of the Director and the members of the Board the Rector has a similar right and duty.
