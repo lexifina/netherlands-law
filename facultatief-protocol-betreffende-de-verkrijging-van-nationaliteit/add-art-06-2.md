@@ -1,0 +1,3 @@
+# Artikel VI
+1. Dit Protocol treedt in werking op dezelfde dag als het Verdrag of op de dertigste dag die volgt op de datum van nederlegging van de tweede akte van bekrachtiging van of toetreding tot het Protocol bij de Secretaris-Generaal van de Verenigde Naties, al naar gelang welke van deze twee data de laatste is.
+2. Ten aanzien van elke Staat die dit Protocol bekrachtigt of ertoe toetreedt, nadat het overeenkomstig het eerste lid van dit artikel in werking is getreden, treedt dit Protocol in werking op de dertigste dag na de datum waarop die Staat zijn akte van bekrachtiging of toetreding heeft nedergelegd.
