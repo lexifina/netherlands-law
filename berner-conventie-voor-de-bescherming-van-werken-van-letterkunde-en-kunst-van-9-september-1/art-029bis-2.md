@@ -1,0 +1,2 @@
+# Artikel 29bis
+De bekrachtiging van of de toetreding tot deze Akte door een land dat niet is gebonden door de artikelen 22 tot en met 38 van de Akte van Stockholm van deze Conventie, staat, uitsluitend ten behoeve van de toepassing van artikel 14, tweede lid, van het Verdrag tot oprichting van de Organisatie, gelijk met bekrachtiging van de Akte van Stockholm of toetreding tot deze Akte met de beperking voorzien in artikel 28, eerste lid, letter b onder i), van genoemde Akte.

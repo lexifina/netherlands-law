@@ -1,0 +1,4 @@
+# Artikel 2bis
+1) Het is aan de wetgeving van de landen van de Unie voorbehouden om van de bescherming bedoeld in het vorige artikel politieke redevoeringen en in rechtszaken uitgesproken redevoeringen geheel of gedeeltelijk uit te sluiten.
+2) Eveneens is het aan de wetgeving van de landen van de Unie voorbehouden om voorwaarden vast te stellen, waaronder lezingen, toespraken en andere werken van dezelfde aard die in het openbaar worden uitgesproken, door de pers mogen worden weergegeven, door de radio mogen worden uitgezonden, per draadverbinding aan het publiek mogen worden overgebracht en tot voorwerp mogen worden gemaakt van de openbare mededelingen bedoeld in het eerste lid van artikel 11bis, onder (1), van deze Conventie, wanneer een zodanig gebruik is gerechtvaardigd uit een oogpunt van voorlichting.
+3) Alleen de auteur zal evenwel het recht hebben zijn in de vorige leden genoemde werken in een verzameling bijeen te brengen.
