@@ -1,0 +1,5 @@
+# Artikel V. Overgangsbepaling liggende aanvragen en vastgestelde programma's huisvestingsvoorzieningen
+1. Aanvragen van bevoegde gezagsorganen van scholen voor voortgezet onderwijs aan gemeenteraden op grond van artikel 76e van de Wet op het voortgezet onderwijs, blijven na de inwerkingtreding van deze wet buiten verdere behandeling.
+2. Het programma huisvestingsvoorzieningen dat op grond van artikel 76f van de Wet op het voortgezet onderwijs is vastgesteld voor het jaar waarin deze wet in werking treedt dan wel het jaar erna, kan vervallen voor zover het betreft voorzieningen:
+a. waarvan de bekostiging nog geen aanvang heeft genomen, en
+b. bestemd zijn voor scholen voor voortgezet onderwijs die deel uitmaken van een scholengemeenschap waarin tot één instelling zijn verenigd een regionaal opleidingencentrum als bedoeld in de Wet educatie en beroepsonderwijs en een school voor voortgezet onderwijs, dan wel een agrarisch opleidingscentrum als bedoeld in de Wet educatie en beroepsonderwijs en een school voor middelbaar algemeen voortgezet onderwijs.
