@@ -1,0 +1,2 @@
+# Article VI
+Pour les cas non prévus par la présente Convention les deux Gouvernements fixeront pour chaque cas, par un accord administratif et après consultation préalable, quelles facilités relatives à la mise à la disposition d'experts, d'instructeurs et de spécialistes, et à l'exécution de projets, contenues dans le „Model Text of Agreement concerning assistance under the United Nations Development Programme" valable au moment de la conclusion de l'accord administratif, seront déclarées applicables.

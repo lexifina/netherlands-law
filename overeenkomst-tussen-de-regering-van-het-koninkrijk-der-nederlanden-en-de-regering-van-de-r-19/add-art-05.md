@@ -1,0 +1,3 @@
+# Article V
+1. Le Gouvernement de la République Tunisienne répondra, à la place d'un expert, instructeur ou spécialiste néerlandais, des dommages que celui-ci causerait à un tiers en connexion avec l'exécution d'une tâche qui lui est dévolue en vertu de la présente Convention. A cet égard, toute révendication à l'encontre de l'expert, instructeur ou spécialiste néerlandais sera exclue.
+2. Un droit à remboursement, quelle que soit sa base juridique, ne pourra être invoqué par le Gouvernement de la République Tunisienne à l'encontre de l'expert, instructeur ou spécialiste néerlandais qu'en cas de négligence ou de dol.

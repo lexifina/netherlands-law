@@ -1,0 +1,2 @@
+# Artikel III
+Wanneer tot technische samenwerking als bedoeld in het eerste lid van artikel II is besloten en dientengevolge deskundigen, leerkrachten en specialisten beschikbaar worden gesteld, studiebeurzen worden verleend of tot meer uitgebreide vormen van technische samenwerking wordt overgegaan, zullen, in overeenstemming met de beginselen neergelegd in deze Overeenkomst, de wijzen waarop en de voorwaarden waaronder zulks zal geschieden van geval tot geval in gemeenschappelijk overleg worden geregeld in administratieve akkoorden.

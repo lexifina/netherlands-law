@@ -1,0 +1,3 @@
+# Artikel V
+1. De Regering van de Tunesische Republiek stelt zich aansprakelijk voor schade die de Nederlandse deskundigen, leerkrachten en specialisten aan derden veroorzaken voor zover die schade verband houdt met de uitvoering van een taak die hun krachtens deze Overeenkomst is opgedragen. Elke eis tot schadevergoeding tegen de Nederlandse deskundigen, leerkrachten of specialisten die daarop betrekking heeft is uitgesloten.
+2. Behoudens in geval van nalatigheid of bedrog kan de Regering van de Tunesische Republiek, onverschillig op welke juridische gronden, geen verhaal zoeken op de Nederlandse deskundigen, leerkrachten of specialisten.

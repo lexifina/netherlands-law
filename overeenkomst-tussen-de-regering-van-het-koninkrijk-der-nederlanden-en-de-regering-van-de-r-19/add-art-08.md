@@ -1,0 +1,5 @@
+# Article VIII
+1. La présente Convention entrera en vigueur à la date à laquelle le Gouvernement du Royaume des Pays-Bas et le Gouvernement de la République Tunisienne se feront savoir par écrit qu'il a été satisfait aux dispositions prévues par les constitutions des deux pays.
+2. La présente Convention demeurera en vigueur pour une période de cinq années. Elle sera considérée comme prorogée par tacite réconduction, chaque fois pour une période de trois ans, à moins de dénonciation par l'une des Parties, faite par écrit, au plus tard six mois avant la fin de la période en cours.
+3. En cas de dénonciation, la situation dont jouissent les experts, instructeurs et spécialistes sera maintenue jusqu'a la fin de l'année en cours. Les bénéficiaires d'une bourse d'études ou de stage continueront, en cas d'examens réussis avec succès, à bénéficier des dispositions de la présente Convention jusqu'à la fin normale du cycle d'études ou de formation pour lequel la bourse a été octroyée.
+4. Les deux parties s'entendront sur l'achèvement des projets commencés en vertu de la présente Convention.

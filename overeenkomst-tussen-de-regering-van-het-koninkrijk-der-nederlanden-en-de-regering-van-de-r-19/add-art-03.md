@@ -1,0 +1,2 @@
+# Article III
+Lorsqu'une coopération technique comme celle visée au premier paragraphe de l'article II aura été décidée et que de ce fait des experts, des instructeurs et des spécialistes seront mis à la disposition, que des bourses d'étude seront accordées ou qu'il sera procédé à une coopération technique sous une forme plus étendue, les modalités et les conditions selon lesquelles il y sera procédé seront, pour chaque cas, réglées conjointement par des accords administratifs, conformément aux principes énoncés dans la présente Convention.
