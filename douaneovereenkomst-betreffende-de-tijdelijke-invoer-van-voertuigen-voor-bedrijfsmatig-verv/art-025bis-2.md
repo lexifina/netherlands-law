@@ -1,0 +1,2 @@
+# Artikel 25 bis
+De bevoegde douaneautoriteiten vorderen geen betaling van invoerrechten en -heffingen, indien ten hunne genoege is aangetoond dat een voertuig, ingevoerd onder dekking van documenten van tijdelijke invoer, niet weder kan worden uitgevoerd omdat het vernietigd of onherstelbaar verloren is om redenen van overmacht, in het bijzonder door toedoen van oorlogsgeweld, oproer of natuurrampen.
