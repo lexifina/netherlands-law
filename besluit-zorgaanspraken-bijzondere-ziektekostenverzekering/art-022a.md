@@ -1,8 +1,0 @@
-# Artikel 22a
-1. Zorg te verlenen door een gezinsvervangend tehuis voor visueel, auditief of communicatief gehandicapten omvat begeleiding gericht op bevordering van de integratie van de visueel, auditief of communicatief gehandicapte in de samenleving, al dan niet gepaard gaande met verblijf gedurende het etmaal.
-2. Op het verblijf, bedoeld in het eerste lid, bestaat aanspraak indien de verzekerde:
-a. gedurende ten minste vier dagdelen per week buiten het gezinsvervangend tehuis betaalde arbeid verricht, een dagopleiding volgt of een dagverblijf voor gehandicapten bezoekt,
-b. door oorzaken buiten zijn persoon gelegen, geen arbeid verricht, geen opleiding volgt of geen dagverblijf bezoekt, doch in staat kan worden geacht tot een zodanige dagbesteding te geraken, of
-c. de leeftijd van 40 jaren heeft bereikten "bereikten" moet zijn "bereikt". en bij het bereiken daarvan in een gezinsvervangend tehuis verbleef en door het deelnemen aan een regeling voor vervroegde uittreding uit het arbeidsproces, het bereiken van de pensioengerechtigde leeftijd dan wel andere oorzaken in zijn persoon gelegen, buiten het gezinsvervangend tehuis geen arbeid verricht, geen opleiding volgt of geen dagverblijf bezoekt en voorafgaande aan het verder verblijf gedurende een aaneengesloten periode van ten minste vijf jaren zodanige dagbesteding heeft gehad.
-3. Op het verblijf, bedoeld in het eerste lid, bestaat geen aanspraak indien de verzekerde in belangrijke mate aangewezen is op verpleging.
-4. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de voorwaarden waaronder aanspraak bestaat op de zorg, bedoeld in het eerste lid.
