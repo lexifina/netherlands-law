@@ -1,0 +1,3 @@
+# Artikel 4a
+1. Een aanvrager die een erkenning als ijkbevoegde aanvraagt, uitsluitend ten einde vervolgens als 'aangewezen instantie' als bedoeld in artikel 8, tweede lid, van het EEG-IJkbesluit niet-automatische weegwerktuigen te kunnen worden aangewezen, behoeft niet te voldoen aan de artikelen 2 tot en met 4, maar moet voldoen aan de in bijlage V van de richtlijn vastgestelde voorwaarden, dan wel aan de geharmoniseerde normen, bedoeld in artikel 9, tweede lid, van de richtlijn.
+2. Het in artikel 6, tweede lid, onderdeel a. van het EEG-ijkbesluit niet-automatische weegwerktuigen bedoelde EG-type-onderzoek wordt aangewezen als gelijkwaardig aan het onderzoek, bedoeld in artikel 11a van de wet.
