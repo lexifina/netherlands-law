@@ -1,0 +1,3 @@
+# III. Ad Articles 8, 14 and 24
+1. Notwithstanding the provisions of Article 8, profits from the operation of ships in international traffic derived by a company which is a resident of Malta, may be taxed in the Netherlands, unless the company proves that such profits are not relieved from Malta tax under the provisions of the Merchant Shipping Act, 1973, or under any identical or similar provision. The foregoing sentence, however, shall not apply if the company proves that not more than 25 per cent of its capital is owned, directly or indirectly, by persons who are not residents of Malta.
+2. The provisions of paragraph 1 shall apply accordingly to capital gains referred to in paragraph 3 of Article 14 and to capital referred to in paragraph 3 of Article 24.
