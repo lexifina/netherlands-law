@@ -1,0 +1,3 @@
+# Artikel III
+Deze regeling treedt in werking met ingang van 1 februari 1993.
+Deze regeling zal met de toelichting in de Staatscourant wordt geplaatst.
