@@ -1,0 +1,2 @@
+# Artikel III
+De artikelen 39 tot en met 42 van de Wet op de stads- en dorpsvernieuwing, zoals deze laatstelijk luidden vóór de inwerkingtreding van artikel I van deze wet, blijven van toepassing op de verlening van geldelijke steun als bedoeld in artikel 39, eerste lid, van eerstgenoemde wet voor kalenderjaren die vóór de datum, bedoeld in artikel V, eerste lid, zijn verstreken, en op de besteding van en de verslaglegging over die geldelijke steun.
