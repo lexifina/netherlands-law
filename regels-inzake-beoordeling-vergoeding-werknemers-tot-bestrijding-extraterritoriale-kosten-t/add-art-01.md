@@ -1,0 +1,2 @@
+# Artikel I
+Vergoedingen in de zin van artikel 6, eerste lid, onderdeel k, van de Coördinatiewet Sociale Verzekering strekken in ieder geval tot bestrijding van kosten ter behoorlijke vervulling van de dienstbetrekking, indien zij worden verstrekt aan een werknemer behorend tot een groep die op grond van artikel 15a, eerste lid, onderdeel j, van de Wet op de loonbelasting 1964 is aangewezen en indien wordt voldaan aan de voorwaarden bij en krachtens artikel 15a, eerste lid, onderdeel j, van de Wet op de Loonbelasting 1964 bepaald.
