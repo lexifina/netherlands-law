@@ -1,8 +1,9 @@
 # Inhoud
 ## Hoofdstuk 1. Algemeen
-## Hoofdstuk 1A. Benoeming, beëdiging en installatie
+## Hoofdstuk 1A. Benoeming, beëdiging, installatie en ambtskostuum
 ### § 1A.1. Benoeming
 ### § 1A.2. Beëdiging en installatie
+### § 1A.3. Het ambtskostuum
 ## Hoofdstuk 2. Volledige taak en deeltaak
 ## Hoofdstuk 3. Bezoldiging en andere financiële arbeidsvoorwaarden
 ## Hoofdstuk 4. Arbeidsduur, werktijd en werkverdeling
