@@ -1,0 +1,3 @@
+# Artículo decimo sexto. De los nombramientos
+La Junta Directiva elegirá a los miembros a que se refiere el inciso a) del articulo sexto de estos Estatutos y al Director General del CIP. Asimismo, la designación de los miembros a que se refieren los incisos b) y d) del mismo artículo será sometida a la aprobación de la Junta Directiva.
+La Junta Directiva procederá al nombramiento del miembro correspondiente a fin de reemplazar a aquel cuyo período termina o cuando el cargo vaca por cualquier razón, o a la reelección o ratificación del nombramiento cuando sea el caso, a realizarse en la reunión anual que precede a la expiración del término del mandato del miembro en cuestión.

@@ -1,0 +1,4 @@
+# Artículo decimo primero. De los excedentes y activos
+Los excedentes económicos de las actividades del CIP no podrán ser distribuidos, ni en todo.ni en parte, entre los miembros, la Junta Directiva u otros funcionarios o personas particulares, por ningún concepto, directa ni indirectamente. Queda obviamente fuera de esta restricción las sumas que el CIP abone a sus funcionarios, asesores, empleados, obreros y, en general, a quienes le presten servicios efectivos como remuneración de los mismos.
+Estas sumas no constituyen excedentes sino que forman parte de los gastos operativos y están previstas en su presupuesto.
+Asimismo, los activos del CIP no podrán en ningún caso ser distribuidos, ni en todo ni en parte, entre los miembros, la Junta Directiva u otros funcionarios o personas particulares, por ningún concepto, directa ni indirectamente. En caso de disolución se aplicará la regla prevista en el articulo cuadragésimo quinto de estos Estatutos.

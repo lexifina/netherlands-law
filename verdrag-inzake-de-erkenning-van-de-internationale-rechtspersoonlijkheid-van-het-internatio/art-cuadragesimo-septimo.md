@@ -1,0 +1,2 @@
+# Artículo cuadragesimo septimo
+A sugerencia del Grupo Consultivo de Investigación Agrícola Internacional (GCIAI), la Junta Directiva podrá acordar la fusión del CIP con alguna otra institución similar, ya sea bajo la modalidad de que el CIP absorba a la otra institución o que el CIP sea absorbido por la otra institución o que ambas instituciones desaparezcan y se cree una nueva como resultado de la fusión.

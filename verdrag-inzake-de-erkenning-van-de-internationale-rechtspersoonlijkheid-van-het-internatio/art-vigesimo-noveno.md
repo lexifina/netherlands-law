@@ -1,0 +1,2 @@
+# Artículo vigesimo noveno. Mayoría calificada
+Las sesiones en las que se trate sobre la remoción de uno de los miembros de la Junta Directiva, incluyéndose al Director General, sobre la modificación o interpretación de los Estatutos, sobre la disolución del CIP o sobre su fusión con otras institución, requerirán como quorum la asistencia de dos terceras partes de los miembros con nombramiento vigente. Para la validez de los acuerdos en estas materias se requiere el voto favorable de cuando menos siete de los miembros de la Junta Directiva.

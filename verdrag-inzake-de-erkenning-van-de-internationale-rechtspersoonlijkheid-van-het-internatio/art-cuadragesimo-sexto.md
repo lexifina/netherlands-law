@@ -1,0 +1,3 @@
+# Artículo cuadragesimo sexto. Revocación del acuerdo de disolución
+Hasta antes de que se produzca la último transferencia de los activos y si se presentan nuevas situaciones que hacen viable la continuación del CIP, la Junta Liquidadora podrá dejar sin efecto la Comisión Liquidadora, revocar el acuerdo de disolución y reasumir las funciones directivas que le corresponden normalmente conforme a los presentes Estatutos.
+Este acuerdo debe ser adoptado con las mismas formalidades que el de disolución y será igualmente puesto en conocimiento del Grupo Consultivo de Investigación Agrícola Internacional (GCIAI).
