@@ -1,0 +1,2 @@
+# Artikel II
+In afwijking van artikel 5 van het Besluit kunnen binnenvaartuigen die worden hermeten en waarvan de lastlijn was vastgesteld volgens artikel 5 van de I.M.B. 1979 zoals dat luidde voor de inwerkingtreding van deze regeling, op verzoek van de belanghebbende worden gemeten volgens de vervallen artikelen 5 en 6 en 8 tot en met 14 van de I.M.B. 1979, mits het vaartuig sinds de laatste meting geen verbouwing heeft ondergaan die van invloed kan zijn op de vaststelling van dat vlak.
