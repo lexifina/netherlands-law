@@ -1,0 +1,6 @@
+# Artikel 137e
+1. Hij die, anders dan ten behoeve van zakelijke berichtgeving:
+1°. een uitlating openbaar maakt die, naar hij weet of redelijkerwijs moet vermoeden, voor een groep mensen wegens hun ras, hun godsdienst of levensovertuiging of hun hetero- of homoseksuele gerichtheid beledigend is, of aanzet tot haat tegen of discriminatie van mensen of gewelddadig optreden tegen persoon of goed van mensen wegens hun ras, hun godsdienst of levensovertuiging, hun geslacht of hun hetero- of homoseksuele gerichtheid;
+2°. een voorwerp waarin, naar hij weet of redelijkerwijs moet vermoeden, zulk een uitlating is vervat, aan iemand, anders dan op diens verzoek, doet toekomen, dan wel verspreidt of ter openbaarmaking van die uitlating of verspreiding in voorraad heeft;
+wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
+2. Indien de schuldige een van de strafbare feiten, omschreven in dit artikel, in zijn beroep begaat en er, tijdens het plegen van het feit, nog geen vijf jaren zijn verlopen sedert een vroegere veroordeling van de schuldige wegens een van deze misdrijven onherroepelijk is geworden, kan hij van de uitoefening van dat beroep worden ontzet.

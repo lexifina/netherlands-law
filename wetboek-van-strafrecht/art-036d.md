@@ -1,0 +1,2 @@
+# Artikel 36d
+Vatbaar voor onttrekking aan het verkeer zijn bovendien de aan de dader of verdachte toebehorende voorwerpen van zodanige aard dat het ongecontroleerde bezit daarvan in strijd is met de wet of met het algemeen belang, welke bij gelegenheid van het onderzoek naar het door hem begane feit, dan wel het feit waarvan hij wordt verdacht, zijn aangetroffen, doch alleen indien de voorwerpen kunnen dienen tot het begaan of de voorbereiding van soortgelijke feiten, dan wel tot de belemmering van de opsporing daarvan.

@@ -1,0 +1,14 @@
+# Artikel 77s
+1. De maatregel van plaatsing in een inrichting voor jeugdigen kan slechts worden opgelegd, indien
+a. het een misdrijf betreft waarvoor voorlopige hechtenis is toegelaten;
+b. de veiligheid van anderen dan wel de algemene veiligheid van personen of goederen het opleggen van die maatregel eist, en
+c. de maatregel in het belang is van een zo gunstig mogelijke verdere ontwikkeling van de verdachte.
+2. De rechter legt de maatregel slechts op, nadat hij zich een met redenen omkleed, gedagtekend en ondertekend advies heeft doen overleggen van ten minste twee gedragsdeskundigen van verschillende disciplines. Het advies wordt door de deskundigen gezamenlijk dan wel door ieder van hen afzonderlijk uitgebracht. Indien dit advies eerder dan een jaar voor de aanvang van de terechtzitting is gedagtekend kan de rechter hier slechts gebruik van maken met instemming van het openbaar ministerie en de verdachte.
+3. De maatregel kan ook worden opgelegd indien de verdachte niet strafbaar is op de grond dat het feit hem wegens de gebrekkige ontwikkeling of ziekelijke stoornis niet kan worden toegerekend. Indien bij de verdachte tijdens het begaan van het feit een gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens bestond, dient bij toepassing van het eerste lid één van de gedragsdeskundigen een psychiater te zijn.
+4. Het tweede lid blijft buiten toepassing indien de betrokkene weigert medewerking te verlenen aan het onderzoek dat ten behoeve van het advies moet worden verricht. Voor zover mogelijk maken de gedragsdeskundigen gezamenlijk dan wel ieder van hen afzonderlijk over de reden van weigering rapport op. De rechter doet zich zoveel mogelijk een ander advies of rapport, dat hem over de wenselijkheid of noodzakelijkheid van de oplegging van de maatregel kan voorlichten en aan de totstandkoming waarvan de betrokkene wel bereid is om medewerking te verlenen, overleggen.
+5. Indien de maatregel is opgelegd draagt Onze Minister van Justitie de tenuitvoerlegging op aan een inrichting als bedoeld in artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen, of doet hij de veroordeelde elders opnemen.
+6. De maatregel geldt voor de tijd van twee jaar. De termijn gaat in nadat de rechterlijke uitspraak onherroepelijk is geworden.
+7. De termijn van de maatregel loopt niet:
+a. gedurende de tijd dat aan de veroordeelde uit anderen hoofde rechtens zijn vrijheid is ontnomen en gedurende de tijd dat hij zich aan zodanige vrijheidsbeneming heeft onttrokken;
+b. wanneer de veroordeelde zich langer dan een week ongeoorloofd ophoudt buiten de plaats die voor de tenuitvoerlegging van de maatregel is aangewezen.
+8. Onze Minister van Justitie kan de maatregel te allen tijde, na advies te hebben ingewonnen van de raad voor de kinderbescherming, voorwaardelijk of onvoorwaardelijk beëindigen.

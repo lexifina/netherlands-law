@@ -1,0 +1,3 @@
+# Artikel 90quinquies
+1. Onder inrichting voor verpleging van ter beschikking gestelden wordt verstaan een inrichting als bedoeld in artikel 37d, eerste lid.
+2. Onder justitiële inrichting voor verpleging van ter beschikking gestelden wordt verstaan een inrichting als bedoeld in artikel 37d, eerste lid, onder a waarvan de verpleegkosten vanwege de Minister van Justitie worden vergoed op grond van een door hem goedgekeurde inrichtingsbegroting, dan wel een inrichting als bedoeld in artikel 37d, eerste lid, onder b waarvan de algehele exploitatiekosten ten laste van het Ministerie van Justitie komen.
