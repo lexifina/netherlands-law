@@ -7,6 +7,6 @@ b. in zover de belanghebbende die recht heeft op uitkering, maar die minder uitk
 c. indien de belanghebbende daarom verzoekt.
 Provinciale staten onderscheidenlijk de raad kunnen bepalen dat voor de toepassing van de eerste en de tweede volzin de vergoeding voor de werkzaamheden als lid van provinciale staten respectievelijk de raad niet wordt beschouwd als daar bedoelde inkomsten.
 4. Een lid van gedeputeerde staten en een gewezen lid van gedeputeerde staten hebben bij ingang van het pensioen eenmalig de keuzemogelijkheid het pensioen met 12 percent te verhogen, voorzover het is berekend over tijd als lid van gedeputeerde staten die is gelegen na 30 juni 1999 en die overeenkomt met de tijd die krachtens artikel 145 voor de berekening van het nabestandenpensioen in aanmerking wordt genomen.
-5. Met de verhoging van het pensioen, bedoeld in het vijfde lid, vervalt de aanspraak op nabestaandenpensioen, voorzover opgebouwd na 30 juni 1999.
-6. De keuze, bedoeld in het vijfde lid, kan slechts worden gedaan met toestemming van de echtgenoot of de aangemelde partner. De regels, bedoeld in artikel 13a, zevende lid, zijn van overeenkomstige toepassing.
+5. Met de verhoging van het pensioen, bedoeld in het vierde lid, vervalt de aanspraak op nabestaandenpensioen, voorzover opgebouwd na 30 juni 1999.
+6. De keuze, bedoeld in het vierde lid, kan slechts worden gedaan met toestemming van de echtgenoot of de aangemelde partner. De regels, bedoeld in artikel 13a, zevende lid, zijn van overeenkomstige toepassing.
 7. De verhoging van het pensioen gaat in met ingang van de dag waarop het recht op pensioen ontstaat en is onherroepelijk.
