@@ -1,0 +1,3 @@
+# ARTIKEL XII
+1. In afwijking in zoverre van artikel 220i, derde en vijfde lid, van de Gemeentewet, kan een gemeente die de heffing van onroerende-zaakbelastingen reeds met ingang van 1 januari 1996 baseert op de naar de waardepeildatum 1 januari 1995 bepaalde waarden, in de belastingverordening bepalen dat een vermindering als bedoeld in dat artikel voor het eerst wordt berekend ten opzichte van het belastingbedrag dat is verschuldigd met betrekking tot het jaar 1995 en wordt voor de toepassing van het vierde lid van dat artikel onder het daaraan voorafgaande kalenderjaar mede begrepen het kalenderjaar 1995.
+2. Het eerste lid is van overeenkomstige toepassing op de toepassing van artikel 221 van de Gemeentewet.

@@ -1,0 +1,3 @@
+# ARTIKEL XI
+1. Indien één of meer bepalingen van een belastingverordening van een gemeente of een waterschap niet in overeenstemming zijn met de ingevolge deze wet gewijzigde Gemeentewet, Waterschapswet en Wet waardering onroerende zaken blijven die bepalingen met ingang van 1 januari 1997 buiten toepassing en gelden van rechtswege de voorschriften van de ingevolge deze wet gewijzigde Gemeentewet, Waterschapswet en Wet waardering onroerende zaken.
+2. Bepalingen van een belastingverordening als bedoeld in het eerste lid worden vóór 1 april 1997 met terugwerkende kracht tot en met 1 januari 1997 aangepast aan de ingevolge deze wet gewijzigde Gemeentewet, Waterschapswet en Wet waardering onroerende zaken.

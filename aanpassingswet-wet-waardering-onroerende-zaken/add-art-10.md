@@ -1,0 +1,2 @@
+# ARTIKEL X
+Artikel 131 van de Waterschapswet, zoals dat luidde onmiddellijk voorafgaand aan de inwerkingtreding van deze wet, blijft van toepassing met betrekking tot belastingaanslagen in de waterschapsomslagen ter zake van gebouwde onroerende zaken die zijn opgelegd met toepassing van een door het college van burgemeester en wethouders vastgestelde waardemaatstaf, over tijdvakken die zijn geëindigd voorafgaand aan de inwerkingtreding van deze wet.
