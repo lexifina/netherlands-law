@@ -1,0 +1,2 @@
+# Artikel VIII
+Geen enkele bepaling in dit Verdrag mag zo worden uitgelegd als zou zij op enigerlei wijze een beperking inhouden van of afbreuk doen aan de verplichtingen, die een Staat op zich heeft genomen krachtens het Protocol van Genève van 17 juni 1925 nopens het verbod van het gebruik tijdens oorlogshandelingen van verstikkende, giftige of andere gassen en van vormen van bacteriologische oorlogvoering.

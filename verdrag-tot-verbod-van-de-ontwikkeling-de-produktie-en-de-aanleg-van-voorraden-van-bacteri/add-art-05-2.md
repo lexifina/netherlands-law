@@ -1,0 +1,2 @@
+# Artikel V
+De Staten die Partij zijn bij het Verdrag verbinden zich elkander te raadplegen en samen te werken bij de oplossing van eventuele problemen die zich kunnen voordoen in verband met het doel van dit Verdrag of bij de toepassing van zijn bepalingen. Overleg en samenwerking op grond van dit artikel kunnen ook plaatsvinden met behulp van ter zake dienende internationale procedures in het kader van de Verenigde Naties en overeenkomstig het Handvest.

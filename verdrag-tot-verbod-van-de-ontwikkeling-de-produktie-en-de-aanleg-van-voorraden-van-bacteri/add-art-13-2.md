@@ -1,0 +1,3 @@
+# Artikel XIII
+(1) Dit Verdrag wordt aangegaan voor onbepaalde tijd.
+(2) Elke Staat die Partij is bij dit Verdrag heeft in de uitoefening van zijn nationale soevereiniteit het recht zich uit het Verdrag terug te trekken indien hij van mening is dat buitengewone gebeurtenissen die betrekking hebben op het onderwerp van dit Verdrag, de hoogste belangen van het land in gevaar hebben gebracht. Hij stelt alle andere Staten die Partij zijn bij het Verdrag en de Veiligheidsraad der Verenigde Naties drie maanden van tevoren van deze terugtrekking in kennis. Hij geeft in deze kennisgeving de buitengewone gebeurtenissen aan die, naar zijn oordeel, zijn hoogste belangen in gevaar hebben gebracht.

@@ -1,0 +1,7 @@
+# Artikel XIV
+(1) Dit Verdrag staat voor ondertekening open voor alle Staten. Iedere Staat die het Verdrag niet vóór de datum van inwerkingtreding overeenkomstig het derde lid van dit artikel ondertekent, kan te allen tijde tot dit Verdrag toetreden.
+(2) Dit Verdrag dient te worden bekrachtigd door de ondertekenende Staten. De akten van bekrachtiging en de akten van toetreding worden nedergelegd bij de Regeringen van de Verenigde Staten van Amerika, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en van de Unie van Socialistische Sowjet-Republieken, die hierbij worden aangewezen als depotregeringen.
+(3) Dit Verdrag treedt in werking na de nederlegging van de akten van bekrachtiging van tweeëntwintig Regeringen, waaronder de Regeringen die zijn aangewezen als depositaris van het Verdrag.
+(4) Ten aanzien van Staten wier akten van bekrachtiging of van toetreding na de inwerkingtreding van dit Verdrag worden nedergelegd, treedt het in werking op de datum van de nederlegging van hun akten van bekrachtiging of van toetreding.
+(5) De depotregeringen doen alle Staten die het Verdrag hebben ondertekend of ertoe zijn toegetreden onverwijld mededeling van de datum van iedere ondertekening, de datum van de nederlegging van iedere akte van bekrachtiging of van toetreding en de datum van inwerkingtreding van dit Verdrag, alsmede van de ontvangst van andere kennisgevingen.
+(6) Dit Verdrag wordt door de depotregeringen geregistreerd in overeenstemming met artikel 102 van het Handvest der Verenigde Naties.

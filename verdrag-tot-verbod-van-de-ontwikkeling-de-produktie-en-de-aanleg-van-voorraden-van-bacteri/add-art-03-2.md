@@ -1,0 +1,2 @@
+# Artikel III
+Elke Staat die Partij is bij dit Verdrag verbindt zich de agentia, toxines, wapens, uitrusting of verspreidingsmiddelen genoemd in artikel I van het Verdrag noch direct noch indirect, aan wie dan ook, over te dragen, noch op enigerlei wijze een Staat, groep van Staten of internationale organisaties te helpen, aan te moedigen of te bewegen zulke agentia, toxines, wapens, uitrusting of verspreidingsmiddelen te vervaardigen of anderszins te verwerven.

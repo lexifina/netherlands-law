@@ -1,0 +1,2 @@
+# Artikel IV
+Elke Staat die Partij is bij dit Verdrag neemt overeenkomstig zijn grondwettelijke procedures alle nodige maatregelen om de ontwikkeling, produktie, aanleg van voorraden, verwerving of het bezit van de agentia, toxines, wapens, uitrusting en verspreidingsmiddelen genoemd in artikel I van het Verdrag, op het grondgebied van die Staat, onder zijn jurisdictie of te eniger plaatse onder zijn beschikkingsmacht, te verbieden en te verhinderen.
