@@ -1,0 +1,2 @@
+# Article 1er
+Dans le cas où les deux Gouvernements ont décidé de collaborer à un projet particulier de coopération technique (appelé ci-après «Un Projet»), les contributions de chaque Gouvernement à ce projet, ainsi que sa réalisation feront l'objet, dans chaque cas, d'un accord administratif entre les autorités compétentes respectives, conformément aux principes énoncés dans la présente Convention.
