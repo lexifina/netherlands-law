@@ -1,0 +1,4 @@
+# Artikel III
+De ingevolge artikel I in te trekken wetten en regelingen blijven van kracht voor diegenen:
+a. ten aanzien van wie op grond van die wetten of regelingen, dan wel met betrekking tot de voorgenomen omzetting van de daaruit voortvloeiende aanspraken in aanspraken op grond van de bij of krachtens de Kaderwet militaire pensioenen vast te stellen regelingen, een beschikking is genomen, voor zover die beschikking strekt en voor zolang deze vatbaar is voor bezwaar of enige vorm van beroep of hoger beroep;
+b. die als gewezen militair op 31 mei 2001 geen pensioengeldige diensttijd opbouwen, mits zij uiterlijk op die datum voor de periode waarin zij pensioengeldige diensttijd bij of krachtens de Kaderwet militaire pensioenen hadden kunnen opbouwen, onherroepelijk hebben verklaard op die opbouw geen prijs te stellen.
