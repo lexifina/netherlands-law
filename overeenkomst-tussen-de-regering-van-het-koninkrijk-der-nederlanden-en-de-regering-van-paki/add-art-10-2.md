@@ -1,0 +1,3 @@
+# Artikel X
+Elk der Overeenkomstsluitende Partijen kan te allen tijde aan de andere mededeling doen van haar wens deze Overeenkomst te beëindigen. Een zodanige mededeling zal tegelijkertijd worden gezonden aan de Internationale Burgerlijke Luchtvaart Organisatie.
+Deze Overeenkomst zal eindigen één jaar na de datum van ontvangst van de mededeling door de andere Overeenkomstsluitende Partij, tenzij de mededeling in onderling overleg wordt ingetrokken voor het verstrijken van die termijn. Bij ontbreken van ontvangstbevestiging van de andere Overeenkomstsluitende Partij zal de mededeling geacht worden te zijn ontvangen veertien dagen na ontvangst van de mededeling door de Internationale Burgerlijke Luchtvaart Organisatie.

@@ -1,0 +1,6 @@
+# Article II
+(A) Each of the specified air services may be inaugurated immediately or at a later date at the option of the Contracting Party to whom the rights are granted, on condition that:
+1. The Contracting Party to whom the rights have been granted shall have designated an airline (hereinafter referred to as a „designated airline") for the specified air routes.
+2. The Contracting Party which grants the rights shall have given the appropriate operating permission to the airline, which it shall do with the least possible delay, provided that the airline has, if called upon, complied with the requirements of paragraph (B) of this Article.
+(B) The designated airline may be required to satisfy the aeronautical authorities of the Contracting Party granting the rights that it is qualified to fulfil the conditions prescribed by or under the laws and regulations normally applied by those authorities to the operation of international air services.
+(C) The operation of each of the specified air services shall be subject to the agreement of the Contracting Party concerned that the route organisation available for civil aviation on the specified air route is adequate for the safe operation of air services.

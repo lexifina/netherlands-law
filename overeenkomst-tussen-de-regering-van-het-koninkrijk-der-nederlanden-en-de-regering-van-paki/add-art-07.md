@@ -1,0 +1,2 @@
+# Article VII
+Fuel, lubricating oils and spare parts introduced into or taken on board aircraft in the territory of one Contracting Party by, or on behalf of the other Contracting Party or its designated airlines and intended solely for use by the latter's aircraft shall be accorded, with respect to customs duty, inspection fees or other charges imposed by the former Contracting Party, treatment not less favourably than that granted to its national airlines engaged in international public transport or to the airlines of the most favoured nation.

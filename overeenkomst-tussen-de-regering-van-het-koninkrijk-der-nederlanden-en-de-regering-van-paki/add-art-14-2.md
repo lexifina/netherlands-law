@@ -1,0 +1,8 @@
+# Artikel XIV
+Met betrekking tot deze Overeenkomst:
+A) Hebben de uitdrukkingen „luchtdienst", „internationale luchtdienst" en „luchtvaartmaatschappij" de betekenis, omschreven in het Verdrag.
+B) Betekent de uitdrukking „grondgebied" met betrekking tot een Overeenkomstsluitende Partij de grondgebieden en de daaraan grenzende territoriale wateren, welke staan onder de souvereiniteit, suzereiniteit, bescherming of het beheer van die Overeenkomstsluitende Partij.
+C) Betekent de uitdrukking „luchtvaartautoriteiten" in het geval van het Koninkrijk der Nederlanden, de Directeur-Generaal van de Rijksluchtvaartdienst en in het geval van Pakistan, de Directeur-Generaal van de Burgerlijke Luchtvaart, en in beide gevallen enig persoon of lichaam, gemachtigd de functies te vervullen, welke thans door bovengenoemde autoriteiten worden uitgeoefend.
+D) Betekent de uitdrukking „capaciteit" met betrekking tot een luchtvaartuig de ruimte voor betalende lading van dat luchtvaartuig, welke op de route of een gedeelte van de route beschikbaar is.
+E) Betekent de uitdrukking „capaciteit" met betrekking tot een omschreven luchtdienst de capaciteit van het op zulk een dienst gebruikte luchtvaartuig, vermenigvuldigd met de frequentie, waarmede door zulk een luchtvaartuig over een bepaalde periode en over een bepaalde route of gedeelte van een route wordt gevlogen.
+F) Betekent de uitdrukking „aangewezen luchtvaartmaatschappijen" een luchtvaartmaatschappij of luchtvaartmaatschappijen, door een Overeenkomstsluitende Partij tegenover de luchtvaartautoriteiten van de andere Overeenkomstsluitende Partij aangewezen, overeenkomstig Artikel II van deze Overeenkomst.
