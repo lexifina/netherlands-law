@@ -1,0 +1,2 @@
+# Artikel II. Taakstelling
+De Commissie van Advies gaat na of er, bij het opmaken van de beoordeling alsmede bij de behandeling van de daartegen ingebrachte bezwaren door de ambtenaren, een juiste interpretatie en hantering van de geldende beoordelingsvoorschriften heeft plaatsgevonden. Voorts of de beoordeling op voldoende feitelijke grondslag berust en of de beoordelaars en de beoordelingsautoriteit, alle overigens relevant te achten omstandigheden in aanmerking hebben genomen.
