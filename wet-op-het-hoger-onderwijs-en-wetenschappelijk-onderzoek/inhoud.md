@@ -115,3 +115,4 @@
 #### Paragraaf 7. Overig invoerings- en overgangsrecht
 #### Paragraaf 8. Overige bepalingen
 ## Hoofdstuk 17b. Overgangsbepaling van de Wet betreffende onder meer de uitvoering van de in de nota «Zicht op kwaliteit» aangekondigde maatregelen
+## Hoofdstuk 17c. Overgangs- en invoeringsbepaling van de wet betreffende versnelde invoering toets nieuwe opleiding
