@@ -1,0 +1,3 @@
+# Artikel 9g
+1. De werking van de beschikking tot oplegging van een boete wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
+2. In afwijking van het eerste lid wordt de werking van de beschikking tot oplegging van een boete voor een overtreding die op grond van artikel 9e, tweede lid, is aangewezen, opgeschort totdat de bezwaartermijn is verstreken of, indien bezwaar is gemaakt, op het bezwaar is beslist.
