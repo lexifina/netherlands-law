@@ -1,0 +1,3 @@
+# ARTIKEL III. INWERKINGTREDING
+Artikel I van dit besluit treedt in werking op 31 december 1998 met dien verstande dat bij koninklijk besluit een inwerkingtreding op een eerder tijdstip kan worden vastgesteld. Laatstbedoeld besluit wordt niet genomen voordat vier weken zijn verstreken nadat het onderhavige besluit is overgelegd aan de beide Kamers der Staten-Generaal, en gedurende die termijn niet door of namens één of beide Kamers de wens te kennen wordt gegeven dat het in het onderhavige besluit geregelde onderwerp bij de wet wordt geregeld.
+Artikel II van dit besluit treedt in werking op 31 december 1997 met dien verstande dat bij koninklijk besluit een inwerkingtreding op een ander tijdstip, gelegen in 1997, kan worden bepaald.
