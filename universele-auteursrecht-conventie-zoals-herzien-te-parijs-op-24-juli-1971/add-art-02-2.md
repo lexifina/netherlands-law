@@ -1,0 +1,4 @@
+# Artikel II
+1. Gepubliceerde werken van onderdanen van een Verdragsluitende Staat, alsook voor het eerst in het gebied van een zodanige Staat gepubliceerde werken, genieten in elke andere Verdragsluitende Staat de bescherming, welke deze andere Staat toekent aan voor het eerst in zijn eigen gebied gepubliceerde werken van zijn onderdanen alsmede de speciaal door deze Conventie toegekende bescherming.
+2. Niet gepubliceerde werken van onderdanen van een Verdragsluitende Staat genieten in iedere andere Verdragsluitende Staat de bescherming, welke deze andere Staat verleent aan niet gepubliceerde werken van zijn eigen onderdanen, alsmede de speciaal door deze Conventie toegekende bescherming.
+3. Voor de toepassing van deze Conventie mag elke Verdragsluitende Staat door bepalingen van zijn nationale wetgeving personen, die in zijn gebied woonplaats hebben, met zijn eigen onderdanen gelijkstellen.

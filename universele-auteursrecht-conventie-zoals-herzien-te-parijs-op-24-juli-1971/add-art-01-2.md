@@ -1,0 +1,2 @@
+# Artikel I
+Iedere Verdragsluitende Staat verbindt zich, alle voorzieningen te treffen, welke nodig zijn om een voldoende en doeltreffende bescherming te verzekeren van de rechten van auteurs en van alle andere houders van die rechten op werken van letterkunde, wetenschap en kunst, zoals geschriften, muziekwerken, toneelwerken, cinematografische werken, schilderwerken, gravures en beeldhouwwerken.
