@@ -1,0 +1,2 @@
+# Artikel II
+Op het tijdstip van inwerkingtreding van deze rijkswet in het Koninkrijk bestaande rijkswetten, wetten, landsverordeningen, algemene maatregelen van rijksbestuur, algemene maatregelen van bestuur, andere regelingen en besluiten die in strijd zijn met de bij deze rijkswet vastgestelde veranderingen in het Statuut, blijven gehandhaafd, totdat daarvoor met inachtneming van het Statuut een voorziening is getroffen.
