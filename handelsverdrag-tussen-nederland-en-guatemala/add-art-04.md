@@ -1,0 +1,4 @@
+# Artikel IV
+1. De aan rechten onderworpen en als monsters dienende voorwerpen, met uitzondering van de goederen waarvan de invoer is verboden, zullen wederzijds onder tijdelijke vrijstelling van rechten worden toegelaten, mits in acht worden genomen de douaneformaliteiten, noodig om hunnen algeheelen wederuitvoer te verzekeren.
+2. De herkenningsteekens door de autoriteiten van eene der Hooge Verdragsluitende Partijen op de monsters aangebracht ter vaststelling van hun identiteit, zullen worden erkend door de autoriteiten van de andere Partij, die desniettemin de bevoegdheid zullen hebben om in alle gevallen waar hun, zulks noodig zal voorkomen, daarnaast de nationale herkenningsteekens aan te brengen.
+3. Het voorrecht van dezen vrijdom kan worden ingetrokken voor de handelsreizigers en handelshuizen, die zich niet houden aan de vastgestelde voorwaarden.

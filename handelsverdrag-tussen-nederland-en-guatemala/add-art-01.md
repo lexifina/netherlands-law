@@ -1,0 +1,4 @@
+# Artikel I
+1. De onderdanen van elke der Hooge Verdragsluitende Partijen zullen op het grondgebied der andere Partij in alle opzichten en in het bijzonder voor wat betreft de vestiging en de uitoefening van den handel, de nijverheid en de scheepvaart, de bescherming van hun persoon, hunne roerende en onroerende goederen, op minstens even gunstige wijze behandeld worden als de onderdanen der meestbegunstigde natie.
+2. Het zal hun vrijstaan, hunne zaken op het grondgebied der andere Partij te regelen, hetzij persoonlijk, hetzij door een tusschenpersoon van hun eigen keuze, zonder te dezen opzichte aan eenige andere beperkingen te zijn onderworpen dan die, vastgesteld bij de op genoemd grondgebied van kracht zijnde wetten en voorschriften.
+3. Zij zullen voor de uitoefening van hunnen handel, hunne nijverheid of hunne scheepvaart op het gebied der andere Partij geene andere of hoogere belasting, heffing of recht betalen dan die, welke van de nationalen geheven worden.
