@@ -1,0 +1,3 @@
+# Artikel II
+1. Gedurende de jaren 1997 tot en met 2001 behoort bij een lichaam dat, dan wel een natuurlijk persoon die, rente ontvangt niet tot de winst onderscheidenlijk niet tot het inkomen, de rente welke ingevolge artikel 10a van de Wet op de vennootschapsbelasting 1969 bij het bepalen van de winst van degene die de rente is verschuldigd niet in aftrek is gebracht.
+2. Artikel 13ca van de Wet op de vennootschapsbelasting 1969 vindt slechts toepassing met betrekking tot een afwaarderingsverlies voor zover de daling van de waarde van de deelneming beneden het opgeofferde bedrag betrekking heeft op een jaar dat aanvangt met of na 1 januari 1997.
