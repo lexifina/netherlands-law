@@ -1,0 +1,6 @@
+# ARTIKEL II
+1. Indien een toegelaten instelling als bedoeld in artikel 70, eerste lid, van de Woningwet voor het tijdstip van inwerkingtreding van dit besluit, overeenkomstig artikel 30, eerste lid, van het Besluit beheer sociale-huursector als laatstelijk luidend voor die inwerkingtreding, aan het college van burgemeester en wethouders de bescheiden, bedoeld in de onderdelen a en b van dat lid als laatstelijk luidend voor die inwerkingtreding, heeft doen toekomen:
+a. is dat college in voorkomende gevallen niet meer gehouden toepassing te geven aan artikel 31, eerste lid, van genoemd besluit als laatstelijk luidend voor die inwerkingtreding;
+b. geeft dat college geen toepassing aan artikel 32 van genoemd besluit als laatstelijk luidend voor die inwerkingtreding en
+c. zendt dat college die bescheiden onverwijld na die inwerkingtreding aan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en aan het bestuur van het Centraal Fonds voor de Volkshuisvesting, bedoeld in artikel 71, eerste lid, van de Woningwet.
+2. Onze in onderdeel c van het eerste lid genoemde Minister en het in dat onderdeel genoemde bestuur bevestigen binnen twee weken aan de betrokken toegelaten instellingen als bedoeld in artikel 70, eerste lid, van de Woningwet, de ontvangst van de krachtens het eerste lid aan hen gezonden bescheiden.
