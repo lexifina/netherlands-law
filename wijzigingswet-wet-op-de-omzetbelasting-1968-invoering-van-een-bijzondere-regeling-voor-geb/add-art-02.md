@@ -1,2 +1,0 @@
-# Artikel II
-Bij ministeriële regeling kunnen nadere regels worden gesteld, die zonodig afwijken van de Wet op de omzetbelasting 1968 zoals die luidt nadat deze wet in werking is getreden, ter zake van leveringen aan ondernemers door andere ondernemers uit een lid-staat die één van de bijzondere overgangsbepalingen toepast van artikel 28 sexdecies van de Zesde Richtlijn als bedoeld in artikel 2a, eerste lid, onderdeel a, van die wet.
