@@ -1,0 +1,6 @@
+# Artikel VI
+1. Dit Verdrag zal in werking treden op de dag van ondertekening en zal van kracht blijven tot één jaar na ontvangst door een der Partijen van een schriftelijke kennisgeving van de bedoeling van de andere Partij het te beëindigen, onder voorbehoud dat, indien kennisgeving van bekrachtiging van dit Verdrag door de Nederlandse Regering niet binnen 45 dagen na de ondertekening van dit Verdrag door de Regering van de Verenigde Staten van Amerika is ontvangen, dit Verdrag zal zijn beëindigd onmiddellijk na ontvangst door de Nederlandse Regering van een schriftelijke kennisgeving, dat de Regering van de Verenigde Staten van Amerika zich niet langer gebonden acht door het Verdrag.
+2. De bepalingen van dit Verdrag zullen te allen tijde op verzoek van één der Regeringen worden herzien. Bij zulk een herziening zal, waar nodig, rekening worden gehouden met overeenkomsten, door een der Regeringen aangegaan in verband met de tenuitvoerlegging van Artikel 9 van het Noord-Atlantisch Verdrag.
+3. Dit Verdrag kan te allen tijde, wanneer beide regeringen aldus overeenkomen, worden gewijzigd.
+4. De bijlagen van dit Verdrag vormen een onafscheidelijk deel ervan.
+5. Dit Verdrag zal worden geregistreerd bij de Secretaris-Generaal van de Verenigde Naties.
