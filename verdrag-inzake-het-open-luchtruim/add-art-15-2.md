@@ -1,0 +1,4 @@
+# Artikel XV. Duur en terugtrekking
+1. Dit Verdrag wordt voor onbepaalde tijd gesloten.
+2. Een Staat-Partij heeft het recht zich uit dit Verdrag terug te trekken. Een Staat-Partij die voornemens is zich terug te trekken, doet ten minste zes maanden vóór de datum van zijn voorgenomen terugtrekking kennisgeving van zijn besluit zich terug te trekken aan één van beide Depositarissen, alsmede aan alle andere Staten-Partijen. De Depositarissen stellen alle andere Staten-Partijen op de hoogte van deze kennisgeving.
+3. Ingeval een Staat-Partij in overeenstemming met het tweede lid van dit artikel kennisgeving doet van zijn besluit zich uit dit Verdrag terug te trekken, beleggen de Depositarissen ten minste 30 dagen en ten hoogste 60 dagen na de ontvangst van die kennisgeving een conferentie van de Staten-Partijen, teneinde de gevolgen van die terugtrekking voor het Verdrag te bestuderen.

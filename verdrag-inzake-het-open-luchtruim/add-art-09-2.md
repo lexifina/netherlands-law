@@ -1,0 +1,51 @@
+# Artikel IX. Tijdens observatievluchten door sensoren verzamelde gegevens
+AFDELING I
+ALGEMENE BEPALINGEN
+1. Voor het registreren van de tijdens observatievluchten door sensoren verzamelde gegevens worden de volgende gegevensdragers gebruikt:
+A. bij optische panorama- en fotocamera's: zwart/wit-fotofilm;
+B. bij videocamera's: magneetband;
+C. bij infrarood-lijnaftasttoestellen: zwart/wit-fotofilm of magneetband; en
+D. bij zijwaarts gerichte radars met synthetische apertuur: magneetband.
+Het overeengekomen formaat waarin deze gegevens worden geregistreerd en uitgewisseld op andere gegevensdragers wordt vastgesteld binnen de „Open Luchtruim"-Overlegcommissie gedurende het tijdvak van voorlopige toepassing van dit Verdrag.
+2. Tijdens observatievluchten door sensoren verzamelde gegevens blijven aan boord van het observatievliegtuig totdat de observatievlucht is voltooid. De doorgifte van door sensoren verzamelde gegevens vanuit het observatievliegtuig is tijdens de observatievlucht verboden.
+3. Elke filmrol en elke cassette of spoel met magneetband die is gebruikt voor het verzamelen van gegevens door een sensor tijdens een observatievlucht wordt zo spoedig mogelijk na verwijdering ervan uit de sensor in aanwezigheid van de Staten-Partijen in een houder geplaatst en verzegeld.
+4. Tijdens observatievluchten door sensoren verzamelde gegevens worden aan Staten-Partijen ter beschikking gesteld in overeenstemming met de bepalingen van dit artikel en worden uitsluitend gebruikt ter verwezenlijking van de doelstellingen van dit Verdrag.
+5. Ingeval op grond van ingevolge Afdeling I van Bijlage B bij dit Verdrag verstrekte gegevens een door een Staat-Partij tijdens een observatievlucht te gebruiken gegevensdrager incompatibel blijkt te zijn met de apparatuur van een andere Staat-Partij voor de gebruikmaking van die gegevensdrager, stellen de betrokken Staten-Partijen procedures vast om te verzekeren dat alle tijdens observatievluchten verzamelde gegevens door hen kunnen worden verwerkt, verveelvoudigd en opgeslagen.
+AFDELING II
+GEGEVENS VERZAMELD DOOR SENSOREN DIE WERKEN MET FOTOFILMS
+1. Ingeval de gegevens die zijn verzameld door twee tegelijk werkende optische camera's dienen te worden uitgewisseld, moeten de camera's, de films en de ontwikkelingswijze van de films van een identiek type zijn.
+2. Ervan uitgaande dat de door één optische camera verzamelde gegevens moeten kunnen worden uitgewisseld, buigen de Staten-Partijen zich gedurende het tijdvak van voorlopige toepassing van dit Verdrag in het kader van de „Open Luchtruim"-Overlegcommissie over de vraag of de verantwoordelijkheid voor het ontwikkelen van het oorspronkelijke negatief berust bij de observerende Partij dan wel bij de Staat-Partij die het observatievliegtuig ter beschikking stelt. De Staat-Partij die het oorspronkelijke negatief ontwikkelt, is verantwoordelijk voor de kwaliteit met betrekking tot het ontwikkelen van het oorspronkelijke negatief en het vervaardigen van duplicaatpositieven of -negatieven. Ingeval de Staten-Partijen overeenkomen dat de film die is gebruikt tijdens een observatievlucht die is uitgevoerd met een observatievliegtuig dat ter beschikking is gesteld door de geobserveerde Partij, zal worden ontwikkeld door de observerende Partij, draagt de geobserveerde Partij geen verantwoordelijkheid voor de kwaliteit met betrekking tot het ontwikkelen van het oorspronkelijke negatief.
+3. Alle tijdens de observatievlucht gebruikte films dienen te worden ontwikkeld:
+A. ingeval het oorspronkelijke negatief wordt ontwikkeld in een door de geobserveerde Partij ter beschikking gestelde ontwikkelinrichting, uiterlijk drie dagen na de aankomst van het observatievliegtuig op het punt van vertrek, tenzij anders is overeengekomen; of
+B. ingeval het oorspronkelijke negatief wordt ontwikkeld in een door de observerende Partij ter beschikking gestelde ontwikkelinrichting, uiterlijk tien dagen na het vertrek van het observatievliegtuig van het grondgebied van de geobserveerde Partij.
+4. De Staat-Partij die het oorspronkelijke negatief ontwikkelt, is verplicht ten hoogste twee functionarissen van de andere Staat-Partij toe te laten tot de ontwikkelinrichting, teneinde het openen van de filmcassette of houder en elke etappe van de opslag, ontwikkeling, verveelvoudiging of gebruikmaking van het oorspronkelijke negatief te controleren in overeenstemming met de bepalingen van Afdeling II van Bijlage K bij dit Verdrag. De Staat-Partij die het ontwikkelen en verveelvoudigen van de film controleert, heeft het recht deze functionarissen aan te wijzen te midden van haar onderdanen die zich bevinden op het grondgebied waarop de door de andere Staat-Partij ter beschikking gestelde ontwikkelinrichting is gelegen, mits deze personen zijn vermeld op de lijst van aangewezen personeel in overeenstemming met artikel XIII, Afdeling I, van dit Verdrag. De Staat-Partij die de film ontwikkelt, assisteert de functionarissen van de andere Staat-Partij in de grootst mogelijke mate bij de verrichting van de in dit lid bedoelde taken.
+5. Na afloop van een observatievlucht wordt door de Staat-Partij die het oorspronkelijke negatief zal ontwikkelen op de aan- of uitloopstrook van elke rol van het oorspronkelijke negatief dat tijdens de observatievlucht is gebruikt hetzij een sensitometrische proefstrook van 21 trappen - van hetzelfde filmtype als dat wat tijdens de observatievlucht is gebruikt - bevestigd, hetzij een 21-trappenwig belicht. Nadat het oorspronkelijke negatief is ontwikkeld en duplicaatnegatieven of-positieven zijn vervaardigd, beoordelen de Staten-Partijen de beeldkwaliteit van de sensitometrische proefstroken van 21 trappen of de beelden van de 21-trappenwig aan de hand van de overeenkomstig Afdeling I van Bijlage K bij dit Verdrag verstrekte sensitometrische eigenschappen van dat type oorspronkelijke negatief, dan wel duplicaatnegatief of -positief.
+6. Ingeval slechts één oorspronkelijk negatief wordt ontwikkeld:
+A. heeft de observerende Partij het recht het oorspronkelijke negatief te behouden of te ontvangen; en
+B. heeft de geobserveerde Partij het recht een volledig duplicaat van de eerste generatie, of een gedeelte daarvan, positief dan wel negatief, van het oorspronkelijke negatief uit te kiezen en te ontvangen. Tenzij anders is overeengekomen, dient dit duplicaat:
+1. hetzelfde formaat en dezelfde afmetingen te hebben als het oorspronkelijke negatief;
+2. onmiddellijk na het ontwikkelen van het oorspronkelijke negatief te zijn vervaardigd; en
+3. onmiddellijk na de vervaardiging van het duplicaat aan de functionarissen van de geobserveerde Partij te worden overhandigd.
+7. Ingeval twee oorspronkelijke negatieven worden ontwikkeld:
+A. heeft de geobserveerde Partij, indien het observatievliegtuig ter beschikking wordt gesteld door de observerende Partij, het recht, na afloop van de observatievlucht, één van de twee oorspronkelijke negatieven uit te kiezen, waarna de observerende Partij het niet gekozen oorspronkelijke negatief behoudt; of
+B. heeft de observerende Partij, indien het observatievliegtuig ter beschikking wordt gesteld door de geobserveerde Partij, het recht één van de twee oorspronkelijke negatieven uit te kiezen, waarna de geobserveerde Partij het niet gekozen oorspronkelijke negatief behoudt.
+AFDELING III
+GEGEVENS VERZAMELD DOOR SENSOREN DIE WERKEN MET ANDERE GEGEVENSDRAGERS
+1. De Staat-Partij die het observatievliegtuig ter beschikking stelt, registreert ten minste één oorspronkelijke versie van de gegevens die worden verzameld door sensoren die werken met andere gegevensdragers.
+2. Ingeval slechts één oorspronkelijke versie wordt vervaardigd:
+A. heeft de observerende Partij, indien het observatievliegtuig ter beschikking wordt gesteld door de observerende Partij, het recht de oorspronkelijke versie te behouden, terwijl de geobserveerde Partij het recht heeft een duplicaat van de eerste generatie te ontvangen; of
+B. heeft de observerende Partij, indien het observatievliegtuig ter beschikking wordt gesteld door de geobserveerde Partij, het recht de oorspronkelijke versie te ontvangen, terwijl de geobserveerde Partij het recht heeft een duplicaat van de eerste generatie te ontvangen.
+3. Ingeval twee oorspronkelijke versies worden vervaardigd:
+A. heeft de geobserveerde Partij, indien het observatievliegtuig ter beschikking wordt gesteld door de observerende Partij, het recht, na afloop van de observatievlucht, één van de twee gegevensdragers uit te kiezen, waarna de observerende Partij de andere behoudt; of
+B. heeft de observerende Partij, indien het observatievliegtuig ter beschikking wordt gesteld door de geobserveerde Partij, het recht één van de twee gegevensdragers uit te kiezen, waarna de geobserveerde Partij de andere behoudt.
+4. Ingeval het observatievliegtuig ter beschikking wordt gesteld door de observerende Partij, heeft de geobserveerde Partij het recht de door een zijwaarts gerichte radar met synthetisch apertuur verzamelde gegevens te ontvangen in de vorm van hetzij onverwerkte gegevens, hetzij een radarbeeld, naar keuze.
+5. Ingeval het observatievliegtuig ter beschikking wordt gesteld door de geobserveerde Partij, heeft de observerende Partij het recht de door een zijwaarts gerichte radar met synthetische apertuur verzamelde gegevens te ontvangen in de vorm van hetzij onverwerkte gegevens, hetzij een radarbeeld, naar keuze.
+AFDELING IV
+TOEGANG TOT DOOR SENSOREN VERZAMELDE GEGEVENS
+1. Elke Staat-Partij heeft het recht de observerende Partij te verzoeken om kopieën van de tijdens een observatievlucht door sensoren verzamelde gegevens, en deze te ontvangen. Deze kopieën dienen duplicaten van de eerste generatie te zijn die zijn vervaardigd van de oorspronkelijke gegevens die tijdens een observatievlucht door sensoren zijn verzameld. De Staat-Partij die om kopieën verzoekt, stelt de geobserveerde Partij daarvan in kennis. Een verzoek om duplicaten dient de volgende informatie te bevatten:
+A. de observerende Partij;
+B. de geobserveerde Partij;
+C. de datum van de observatievlucht;
+D. de sensor waardoor de gegevens werden verzameld;
+E. het gedeelte of de gedeelten van de observatieperiode in de loop waarvan de gegevens werden verzameld; en
+F. het type en het formaat van de duplicaat-gegevensdrager, hetzij een negatieve of een positieve film, hetzij een magneetband.

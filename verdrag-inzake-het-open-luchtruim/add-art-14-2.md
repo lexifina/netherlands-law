@@ -1,0 +1,3 @@
+# Artikel XIV. Benelux
+1. Uitsluitend voor de toepassing van de artikelen II tot en met IX en artikel XI, alsmede de Bijlagen A tot en met I en Bijlage K bij dit Verdrag, worden het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden beschouwd als één StaatPartij, hierna te noemen de Benelux.
+2. Onverminderd de bepalingen van artikel XV, kunnen de bovengenoemde Staten-Partijen deze regeling beëindigen door middel van een kennisgeving aan alle andere Staten-Partijen. Deze regeling wordt dan geacht te eindigen op de eerstvolgende 31ste december na de termijn van 60 dagen te rekenen vanaf die kennisgeving.

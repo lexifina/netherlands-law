@@ -1,0 +1,42 @@
+# Artikel VIII. Verboden, afwijkingen van het vliegplan en noodsituaties
+AFDELING I
+VERBODEN VAN OBSERVATIEVLUCHTEN EN WIJZIGINGEN IN MISSIEPLANNEN
+1. De geobserveerde Partij heeft het recht een observatievlucht die niet in overeenstemming met de bepalingen van dit Verdrag is, te verbieden.
+2. De geobserveerde Partij heeft het recht een observatievlucht vóór de aanvang daarvan te verbieden ingeval de observerende Partij niet aankomt op het punt van binnenkomst binnen 24 uur na de verwachte tijd van aankomst als vermeld in de in overeenstemming met artikel VI, Afdeling I, vijfde lid, verstrekte kennisgeving, tenzij anders is overeengekomen tussen de betrokken Staten-Partijen.
+3. Ingeval een geobserveerde Partij een observatievlucht verbiedt ingevolge dit artikel of Bijlage F, vermeldt zij de feiten die aan het verbod ten grondslag liggen onmiddellijk in het missieplan. Binnen zeven dagen doet de geobserveerde Partij alle Staten-Partijen, langs diplomatieke weg, een schriftelijke toelichting bij dit verbod toekomen in het missierapport, overgelegd ingevolge artikel VI, Afdeling I, lid 21. Een observatievlucht die is verboden, wordt niet in mindering gebracht op de quotums van beide Staten-Partijen.
+4. De geobserveerde Partij heeft het recht in de volgende omstandigheden wijzigingen in het missieplan voor te stellen:
+A. de weersomstandigheden beïnvloeden de vliegveiligheid;
+B. de toestand van het te gebruiken „open luchtruim"-vliegveld, de uitwijkvliegvelden of de bijtankvliegvelden belet het gebruik daarvan; of
+C. het missieplan is onverenigbaar met artikel VI, Afdeling II, tweede en vierde lid.
+5. Ingeval de observerende Partij niet instemt met de voorgestelde wijzigingen in het missieplan, heeft zij het recht alternatieve wijzigingsvoorstellen te doen. Ingeval geen overeenstemming over het missieplan wordt bereikt binnen acht uur na de indiening van het oorspronkelijke missieplan, en indien de observerende Partij de wijzigingen in het missieplan beschouwt als een aantasting van haar rechten uit hoofde van dit Verdrag met betrekking tot de uitvoering van een observatievlucht, heeft de observerende Partij het recht af te zien van de uitvoering van de observatievlucht, welke dan niet in mindering zal worden gebracht op de quotums van beide Staten-Partijen.
+6. Ingeval een observerende Partij afziet van de uitvoering van een observatievlucht ingevolge dit artikel of Bijlage F, geeft zij onmiddellijk een toelichting bij haar besluit in het missieplan vóór haar vertrek. Binnen zeven dagen na het vertrek van de observerende Partij doet de observerende Partij alle andere Staten-Partijen, langs diplomatieke weg, een schriftelijke toelichting bij haar besluit toekomen in het missierapport, overgelegd overeenkomstig artikel VI, Afdeling I, lid 21.
+AFDELING II
+AFWIJKING VAN HET VLIEGPLAN
+1. Afwijkingen van het vliegplan zijn gedurende de observatievlucht toegestaan indien daartoe de noodzaak bestaat op grond van:
+A. weersomstandigheden die de vliegveiligheid beïnvloeden;
+B. technische problemen met betrekking tot het observatievliegtuig;
+C. een medisch spoedgeval betreffende een persoon aan boord; of
+D. aanwijzingen van de luchtverkeersleiding verband houdende met omstandigheden die het gevolg zijn van overmacht.
+2. Bovendien zijn afwijkingen toegestaan indien de weersomstandigheden een doelmatig gebruik van optische sensoren en infraroodlijnaftasttoestellen beletten, mits:
+A. wordt voldaan aan de vereisten ter zake van de vliegveiligheid;
+B. ingeval de nationale regels zulks vereisen, toestemming wordt verleend door de met de luchtverkeersleiding belaste autoriteiten; en
+C. de prestatie van de sensoren het in artikel IV, tweede lid, omschreven vermogen niet te boven gaat, tenzij anders is overeengekomen.
+3. De geobserveerde Partij heeft het recht het gebruik van een bepaalde sensor te verbieden gedurende een afwijking die ertoe leidt dat het observatievliegtuig onder de voor de bediening van die bepaalde sensor geldende minimumhoogte boven de grond komt, in overeenstemming met de in artikel IV, tweede lid, bedoelde limiet voor de grondresolutie. Ingeval de afwijking vereist dat het observatievliegtuig zijn vliegbaan verlegt met meer dan 50 kilometer ten opzichte van de in het vliegplan omschreven vliegbaan, heeft de geobserveerde Partij het recht het gebruik van alle aan boord van het observatievliegtuig aangebrachte sensoren voorbij die 50 kilometer te verbieden.
+4. De observerende Partij heeft het recht een observatievlucht tijdens de uitvoering daarvan te bekorten in geval van een defecte sensor. De gezagvoerder heeft het recht een observatievlucht te bekorten in geval van technische problemen die de veiligheid van het observatievliegtuig beïnvloeden.
+5. Ingeval een op grond van het eerste lid van deze Afdeling toegestane afwijking van het vliegplan leidt tot bekorting van de observatievlucht, of indien er een bekorting plaatsvindt in overeenstemming met het vierde lid van deze Afdeling, wordt de observatievlucht in mindering gebracht op de quotums van beide Staten-Partijen, tenzij de bekorting het gevolg is van:
+A. een defecte sensor aan boord van een door de geobserveerde Partij ter beschikking gesteld observatievliegtuig;
+B. technische problemen met betrekking tot het door de geobserveerde Partij ter beschikking gestelde observatievliegtuig;
+C. een medisch spoedgeval betreffende een lid van de bemanning van de geobserveerde Partij of de vluchtwaarnemers; of
+D. aanwijzingen van de luchtverkeersleiding verband houdende met omstandigheden die het gevolg zijn van overmacht.
+In dergelijke gevallen heeft de observerende Partij het recht te beslissen of de vlucht in mindering wordt gebracht op de quotums van beide Staten-Partijen.
+6. De door de sensoren verzamelde gegevens worden slechts door de observerende Partij bewaard indien de observatievlucht in mindering wordt gebracht op de quotums van beide Staten-Partijen.
+7. Ingeval van het vliegplan wordt afgeweken, handelt de gezagvoerder in overeenstemming met de bekendgemaakte nationale vliegvoorschriften van de geobserveerde Partij. Zodra de factoren die aanleiding gaven tot de afwijking niet langer bestaan, kan het observatievliegtuig, met toestemming van de met de luchtverkeersleiding belaste autoriteiten, de observatievlucht voortzetten in overeenstemming met het vliegplan. De extra vliegafstand van het observatievliegtuig ten gevolge van de afwijking wordt niet verrekend met de maximale vliegafstand.
+8. Het personeel van beide Staten-Partijen aan boord van het observatievliegtuig wordt onmiddellijk in kennis gesteld van alle afwijkingen van het vliegplan.
+9. Extra kosten voortvloeiende uit de bepalingen van dit artikel worden vergoed in overeenstemming met Afdeling I, paragraaf 9, van Bijlage L bij dit Verdrag.
+AFDELING III
+NOODSITUATIES
+1. Ingeval zich een noodsituatie voordoet, neemt de gezagvoerder de „Procedures for Air Navigation Services - Rules of the Air and Air Traffic Services, ICAO-document nr. 4444-RAC/501/12, zoals herzien of gewijzigd, de nationale vliegvoorschriften van de geobserveerde Partij en de vlieghandleiding van het observatievliegtuig in acht.
+2. De geobserveerde Partij stelt een observatievliegtuig dat een noodsituatie meldt alle hulpverlenings- en navigatievoorzieningen ter beschikking teneinde zorg te dragen voor de snelst mogelijke landing van het vliegtuig op het dichtstbijzijnde daarvoor in aanmerking komende vliegveld.
+3. Ingeval het observatievliegtuig op het grondgebied van de geobserveerde Partij betrokken raakt bij een vliegtuigongeval, voert de geobserveerde Partij zoekacties en reddingsoperaties uit in overeenstemming met haar eigen voorschriften en procedures ter zake.
+4. Het onderzoek betreffende een ongeval of voorval waarbij een observatievliegtuig betrokken is, wordt door de geobserveerde Partij, met medewerking van de observerende Partij, verricht in overeenstemming met de aanbevelingen van de ICAO als uiteengezet in Bijlage 13 bij het Verdrag inzake de internationale burgerlijke luchtvaart („Investigation of Aviation Accidents"), zoals herzien of gewijzigd, en in overeenstemming met de nationale voorschriften van de geobserveerde Partij.
+5. Ingeval een observatievliegtuig niet bij de geobserveerde Partij is ingeschreven, worden na afronding van het onderzoek alle wrakken en wrakstukken van het observatievliegtuig en de sensoren, indien gevonden en geborgen, teruggegeven aan de observerende Partij of aan de Partij waaraan het vliegtuig toebehoort, indien daarom wordt verzocht.

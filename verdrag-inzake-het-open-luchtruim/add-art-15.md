@@ -1,0 +1,4 @@
+# Article XV. Duration and withdrawal
+1. This Treaty shall be of unlimited duration.
+2. A State Party shall have the right to withdraw from this Treaty. A State Party intending to withdraw shall provide notice of its decision to withdraw to either Depositary at least six months in advance of the date of its intended withdrawal and to all other States Parties. The Depositaries shall promptly inform all other States Parties of such notice.
+3. In the event that a State Party provides notice of its decision to withdraw from this Treaty in accordance with paragraph 2 of this Article, the Depositaries shall convene a conference of the States Parties no less than 30 days and no more than 60 days after they have received such notice, in order to consider the effect of the withdrawal on this Treaty.

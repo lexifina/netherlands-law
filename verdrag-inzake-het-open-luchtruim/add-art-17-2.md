@@ -1,0 +1,16 @@
+# Artikel XVII. Depositarissen, inwerkingtreding en toetreding
+1. Dit Verdrag dient door elke Staat-Partij te worden bekrachtigd in overeenstemming met zijn constitutionele procedures. De akten van bekrachtiging en de akten van toetreding worden nedergelegd bij de Regering van Canada of de Regering van de Republiek Hongarije, of bij beide, die hierbij als Depositarissen worden aangewezen. Dit Verdrag wordt door de Depositarissen geregistreerd ingevolge artikel 102 van het Handvest van de Verenigde Naties.
+2. Dit Verdrag treedt in werking 60 dagen na de nederlegging van 20 akten van bekrachtiging, met inbegrip van die van de Depositarissen en van de Staten-Partijen waarvan het toegekende individuele passieve quotum als neergelegd in Bijlage A acht of meer bedraagt.
+3. Dit Verdrag staat open voor ondertekening door Armenië, Azerbajdzjan, Georgië, Kazachstan, Kirgizstan, Moldavië, Tadzjikistan, Turkmenistan en Oezbekistan en dient door hen te worden bekrachtigd. Elk van deze Staten die dit Verdrag niet ondertekent voordat het in werking treedt in overeenstemming met de bepalingen van het tweede lid van dit artikel, kan hiertoe te allen tijde toetreden door middel van de nederlegging van een akte van toetreding bij één van de Depositarissen.
+4. Gedurende zes maanden na de inwerkingtreding van dit Verdrag kan elke Staat die deelneemt aan de Conferentie over Veiligheid en Samenwerking in Europa verzoeken om toetreding door een daartoe strekkend schriftelijk verzoek in te dienen bij één van de Depositarissen. De Depositaris die dit verzoek ontvangt, zendt het onverwijld toe aan alle Staten-Partijen. De Staten die verzoeken om toetreding tot het Verdrag inzake het open luchtruim kunnen ook, indien zij zulks wensen, verzoeken om toekenning van een passief quotum en de hoogte daarvan voorstellen.
+Deze aangelegenheid wordt bestudeerd tijdens de volgende gewone vergadering van de „Open Luchtruim"-Overlegcommissie en hierover wordt te gelegener tijd beslist.
+5. Na een termijn van zes maanden te rekenen vanaf de inwerkingtreding van dit Verdrag kan de „Open Luchtruim"-Overlegcommissie beraadslagen over de toetreding tot het Verdrag van een Staat die, naar het oordeel van de Commissie, in staat en bereid is bij te dragen tot de doelstellingen van het Verdrag.
+6. Voor elke Staat die op het tijdstip van inwerkingtreding geen akte van bekrachtiging heeft nedergelegd, doch dit Verdrag later bekrachtigt of hiertoe toetreedt, treedt dit Verdrag in werking 60 dagen na de datum van nederlegging van zijn akte van bekrachtiging of toetreding.
+7. De Depositaris stelt alle Staten-Partijen onverwijld in kennis van:
+A. de datum van nederlegging van elke akte van bekrachtiging en de datum van inwerkingtreding van dit Verdrag;
+B. de datum van een verzoek om toetreding, de naam van de verzoekende Staat en het resultaat van de procedure;
+C. de datum van nederlegging van elke akte van toetreding en de datum van inwerkingtreding van dit Verdrag voor elke Staat die hiertoe later toetreedt;
+D. de belegging van een conferentie ingevolge de artikelen XV en XVI;
+E. een terugtrekking in overeenstemming met artikel XV en de datum van vankrachtwording;
+F. de datum van vankrachtwording van elke wijziging op het Verdrag;
+G. elke andere aangelegenheid waarvan de Depositarissen krachtens dit Verdrag de Staten-Partijen in kennis dienen te stellen.
