@@ -1,0 +1,3 @@
+# Artikel 15e
+1. Aan een vergunning kunnen ter bescherming van de bij of krachtens artikel 15b aangewezen belangen andere dan de in artikel 15d bedoelde voorschriften worden verbonden.
+2. Een voorschrift kan de verplichting inhouden dat met betrekking tot in het voorschrift geregelde, daarbij aangegeven onderwerpen moet worden voldaan aan nadere eisen die door een bij het voorschrift aangewezen bestuursorgaan worden gesteld. Bij het voorschrift kan worden aangegeven hoe die eisen door het betrokken bestuursorgaan moeten worden bekendgemaakt. Bij het stellen van een nadere eis wordt het tijdstip bepaald, waarop ten aanzien van die eis de verplichting ingaat.

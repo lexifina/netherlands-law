@@ -1,0 +1,5 @@
+# Artikel 80a
+In geval van vervolging wegens een strafbaar feit, vallende onder de omschrijvingen van artikel 7, eerste lid, onder a, van het op 3 maart 1980 te Wenen/New York tot stand gekomen Verdrag inzake de fysieke beveiliging van kernmateriaal (Trb. 1981, 7) op grond van een der bevoegdheidsregels, bedoeld in artikel 8, eerste lid, onder b, of artikel 8, tweede lid, van dat Verdrag, wordt bij de toepassing van deze wet
+a. elk handelen zonder vergunning te verlenen door het bevoegd gezag van een Staat, Partij bij dat Verdrag, of in strijd met de in zulk een Staat geldende voorschriften gelijk gesteld met eenzelfde handelen zonder vergunning te verlenen ingevolge deze wet of in strijd met overeenkomstige bij of krachtens deze wet gestelde voorschriften,
+b. het binnen of buiten het grondgebied van een Staat, Partij bij dat Verdrag, brengen of doen brengen gelijk gesteld met het binnen of buiten Nederlands grondgebied brengen of doen brengen, en
+c. de veiligheid van de Staat gelijk gesteld met de veiligheid van een vreemde Staat, Partij bij dat Verdrag.

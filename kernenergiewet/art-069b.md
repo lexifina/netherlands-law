@@ -1,0 +1,3 @@
+# Artikel 69b
+1. Een krachtens artikel 69a, eerste lid, aangewezen instelling verstrekt desgevraagd kosteloos aan Onze in dat artikellid genoemde Ministers de voor de uitoefening van hun taak benodigde inlichtingen. Onze genoemde Ministers kunnen inzage vorderen van zakelijke gegevens en bescheiden voor zover dat voor vervulling van hun taak redelijkerwijs nodig is.
+2. Bij of krachtens algemene maatregel van bestuur kan een krachtens artikel 69a, eerste lid, aangewezen instelling worden verplicht tot het periodiek opstellen en toezenden aan Onze genoemde Ministers van een verslag van de in artikel 69, tweede lid, bedoelde werkzaamheden en de rechtmatigheid en doeltreffendheid van die werkzaamheden en werkwijze in de afgelopen periode.

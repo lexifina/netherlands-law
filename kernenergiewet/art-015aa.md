@@ -1,0 +1,2 @@
+# Artikel 15aa
+Indien een vergunning als bedoeld in artikel 15, onder b, voor het wijzigen van een inrichting wordt aangevraagd en voor die inrichting al een of meer vergunningen krachtens deze wet zijn verleend, is artikel 8.4, eerste, tweede en vierde lid, van de Wet milieubeheer van overeenkomstige toepassing. Het bevoegd gezag kan de rechten die de vergunninghouder aan de al eerder verleende vergunningen ontleende, niet wijzigen anders dan mogelijk zou zijn met toepassing van artikel 18a of artikel 19 van deze wet.
