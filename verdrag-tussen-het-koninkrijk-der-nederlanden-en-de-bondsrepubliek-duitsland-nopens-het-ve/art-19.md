@@ -1,0 +1,6 @@
+# § 19. Gaesdonk/Siebengewald
+Verloop van de grens:
+Van de zuidelijke grenssteen 530 af volgt de nieuwe grens de zijde van de weg ongeveer 475 m in noordoostelijke richting. Daarna loopt zij in rechte lijn ongeveer 11 m voorbij de zuidelijke grenssteen 531 tot de huidige Duitse slagboom. Hier kruist zij de weg langs de zuidwestzijde van de slagboom. Van het noordwestelijke einde van de slagboom loopt zij in rechte lijn naar de westelijke grenssteen 532 (bij de brug) en daaraan voorbij tot de oude grens in het midden van de Kendelbeek.
+Bijzondere bepalingen:
+1. Het Koninkrijk der Nederlanden verklaart zich bereid, de douanebehandeling te regelen overeenkomstig de op 30 mei 1958 te 's-Gravenhage ondertekende Overeenkomst tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden nopens de samenvoeging van de grenscontrole en de instelling van gemeenschappelijke spoorwegstations of van grensaflossingsstations aan de Nederlands-Duitse grens.
+2. De Bondsrepubliek Duitsland zal met ingang van de inwerkingtreding van dit Verdrag aan het Duitse douanekantoor Gaesdonk de bevoegdheden verlenen van een „Zollamt 2", met uitzondering van de bevoegdheden voor de douanebehandeling van vlees en vleeswaren.

@@ -1,0 +1,5 @@
+# § 5. Vaalserquartier/Vaals
+Verloop van de grens:
+Van het snijpunt van de oude grens tussen de grensstenen 196 en 196a met de zuidwestzijde van de Vaalser Landstrasse loopt de nieuwe grens, deze straatweg kruisend, naar een punt op de noordoostzijde van de straatweg, dat ongeveer 6,5 m ten oosten van grenssteen 196a ligt. Van hier loopt zij in het midden van de 1,5 m brede scheidingsstrook, die tussen de beide rijbanen aldus zal worden aangelegd, dat een 1,5 m breed trottoir en een 6,0 m brede rijbaan op Nederlands gebied liggen, tot ongeveer 65 m ten zuidwesten van het in het midden van de Senserbach gelegen grenspunt 197 en van hier in rechte lijn naar het grenspunt 197 op de oude grens.
+Bijzondere bepalingen:
+De voor het doorgaand verkeer naar Laurensberg ontworpen rijbaan op het Duitse gedeelte van de straatweg zal zo worden aangelegd, dat voertuigen zich niet van de Duitse op de Nederlandse rijbaan kunnen begeven en niet ter hoogte van het Duitse douanekantoor naar Nederlands gebied kunnen afbuigen. Voor het doorgaand verkeer op de Duitse rijbaan zal een stopverbod worden uitgevaardigd.

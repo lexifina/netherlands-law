@@ -1,0 +1,8 @@
+# § 46. Bunderneuland/Nieuweschans
+Verloop van de grens:
+De nieuwe grens loopt van een punt dat 185 m ten zuidwesten van grenssteen 193 op de oude grens ligt, langs een cirkelboog die over een punt 40,65 m ten zuiden van grenssteen 194 leidt en die tangentiaal aansluit bij het verlengde van het lange rechtlijnige grensgedeelte tussen de grensstenen 196 en 195I. Van dit raakpunt loopt zij verder in rechte lijn naar het knikpunt van de oude grens ongeveer 26 m ten zuidoosten van grenssteen 195I.
+Bijzondere bepalingen:
+1. Het Koninkrijk der Nederlanden is voornemens, binnen vijf jaar na de inwerkingtreding van dit Verdrag ten zuiden van Nieuweschans een nieuwe weg aan te leggen. In het kader van de aanleg van deze weg wordt het Wijmeersterdiep verlegd naar de zuidzijde van de nieuwe grens. Tot de verlegging van het Wijmeersterdiep brengt de grenswijziging geen verandering in de wederzijdse gebruiksrechten en onderhoudsplichten met betrekking tot deze waterloop.
+2. Het Koninkrijk der Nederlanden draagt alle kosten die voortvloeien uit de aanleg van de nieuwe weg en de verlegging van het Wijmeersterdiep. Onder deze kosten vallen ook schadevergoedingen voor de eigenaren van terreinen die, al of niet rechtstreeks, door deze werken worden getroffen.
+3. De bevoegde Duitse autoriteiten zullen de bevoegde Nederlandse autoriteiten steun verlenen bij de verlegging van het Wijmeersterdiep.
+4. Na de verlegging van het Wijmeersterdiep zijn de bevoegde Duitse autoriteiten op een 3 m brede strook langs de bovenkant van de noordelijke oever gerechtigd tot het treffen van alle noodzakelijke maatregelen ten behoeve van het onderhoud van het Wijmeersterdiep.

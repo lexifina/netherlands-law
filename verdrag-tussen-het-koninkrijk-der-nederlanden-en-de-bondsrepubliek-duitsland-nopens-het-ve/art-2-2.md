@@ -1,0 +1,5 @@
+# § 2. Anselderbeek-Bleyerheiderbeek
+Normalisatie van de beken:
+Tussen een punt dat ongeveer op het midden van de grens tussen de grensstenen 224 en 225 ligt, en grenssteen 227 worden de Anselderbeek en de Bleyerheiderbeek binnen vier jaar na de inwerkingtreding van dit Verdrag door de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden volgens een gezamenlijk plan genormaliseerd, waardoor de loop van deze beken wordt gewijzigd zoals in de bijgevoegde kaart is aangegeven.
+Toekomstig verloop van de grens:
+De grens, die thans van grenspunt 224 tot grenspunt 225 in het midden loopt van de Baamstraat (Hammerweg) en van hier af in het algemeen in het midden van de Anselderbeek en de Bleyerheiderbeek, zal na de uitvoering van de hierboven bedoelde normalisering van de zuidelijke grenssteen 224 langs de zuidzijde van de Baamstraat lopen tot het midden van de genormaliseerde Anselderbeek. Van hier tot grenssteen 227 zal de grens dan worden gevormd door het midden van de genormaliseerde Anselderbeek en van de genormaliseerde Bleyerheiderbeek.

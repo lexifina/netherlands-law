@@ -1,0 +1,3 @@
+# § 27. Elten (douane-emplacement autoweg)
+Verloop van de grens:
+Van het snijpunt van de oude grens tussen de grensstenen 684 en 685 met een lijn die ten zuidwesten van de ontworpen autoweg op een afstand van 55 m evenwijdig aan de as van de autoweg ligt, loopt de nieuwe grens langs deze lijn ongeveer 580 m in zuidoostelijke richting tot de noordzijde van een van west naar oost lopende weg en volgt van hier deze wegzijde tot de as van de ontworpen autoweg. Van hier loopt zij over de as van de ontworpen autoweg ongeveer 350 m in zuidoostelijke richting tot de westzijde van een naar het noorden lopende weg en volgt van hier deze wegzijde in noordelijke richting tot de oude grens tussen de grensstenen 686 en 687.

@@ -1,0 +1,6 @@
+# § 34. Zwillbrock/Eibergen
+Verloop van de grens:
+a) Van de tussengrenssteen 42 tussen de grensstenen 806 en 807 bij het Nederlandse douanekantoor aan de zuidzijde van de straatweg van Vreden naar Groenlo kruist de nieuwe grens deze straatweg en loopt vervolgens langs de oostzijde van de Veengoot tot de oude grens tussen de grensstenen 808/40 en 809/39.
+b) Van het snijpunt van de oude grens tussen de grensstenen 809a en 809b met de zuidzijde van de Veengoot loopt de nieuwe grens in hoofdzakelijk noordelijke richting aan de oostzijde van de Veengoot en de Ramsbeek, en wel voorzover daar dijken zijn, aan de oostzijde daarvan, tot de oude grens tussen de grensstenen 811/36 en 811/35.
+Bijzondere bepalingen:
+Het Koninkrijk der Nederlanden verplicht zich, door middel van het Waterschap van de Berkel overeenkomstig het in 1939 ten uitvoer gebrachte normaliseringsplan te zorgen voor het herstel en het onderhoud van de voor het gebied van het Duitse „Wasser- und Bodenverband" Krosewicker Feld noodzakelijke afwatering. Het Waterschap van de Berkel zal bij het opstellen van een nieuw normaliseringsplan, voorzover dit de belangen van het „Wasser- und Bodenverband" Krosewicker Feld raakt, de desbetreffende bepalingen met de „Landkreis" Ahaus overeenkomen.
