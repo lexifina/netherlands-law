@@ -1,0 +1,3 @@
+# Artikel 7d
+1. Het college kan alleen van erkenning afzien, indien hij van oordeel is dat er redenen zijn om aan te nemen dat het product waarvoor vergunning is verleend, vanuit het oogpunt van kwaliteit, veiligheid of werkzaamheid, een risico voor de volksgezondheid kan opleveren.
+2. Indien het college, ingevolge het eerste lid, niet tot erkenning overgaat, doet hij daarvan onverwijld mededeling aan de personen en instanties, bedoeld in artikel 7c, tweede lid. Deze mededeling gaat vergezeld van een advies omtrent te nemen maatregelen of te vinden oplossingen voor tekortkomingen in de bij hem ingediende aanvraag tot inschrijving.

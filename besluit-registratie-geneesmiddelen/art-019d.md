@@ -1,0 +1,3 @@
+# Artikel 19d
+1. Tenzij als voorwaarde bij de registratie anderen eisen zijn gesteld dan wel de in artikel 19c, eerste lid, onder b, bedoelde richtsnoeren anders bepalen, worden de verslagen, bedoeld in artikel 19c, eerste lid, onder b, gedurende een periode van 2 jaar na de registratie van het geneesmiddel elk half jaar aan het college gezonden. Na het verstrijken van de in de vorige zin genoemde periode worden de verslagen gedurende een periode van 2 jaar ten minste een maal per jaar en bij het verzoek om verlenging van de registratie aan het college verzonden.
+2. De registratiehouder zendt het college desgevraagd ook tussentijds verslagen als bedoeld in artikel 19c, eerste lid, onder b.

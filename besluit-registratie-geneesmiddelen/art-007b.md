@@ -1,0 +1,3 @@
+# Artikel 7b
+1. Indien een aanvraag betrekking heeft op een farmaceutisch product waarvoor een andere lid-staat reeds een vergunning heeft verleend, verzoekt het college aan de betrokken instantie van die lid-staat onverwijld om toezending van het beoordelingsrapport.
+2. Het college gaat na of de vergunninghouder het comité in kennis heeft gesteld van de aanvraag, overeenkomstig artikel 9, tweede lid, van Richtlijn 75/319/EEG van de Raad van de Europese Gemeenschappen van 20 mei 1975 betreffende aanpassing van de wettelijke en bestuursrechtelijke bepalingen inzake farmaceutische specialiteiten (PbEG L 147), zoals deze laatstelijk is gewijzigd bij Richtlijn 93/39/EEG van de Raad van 14 juni 1993 (PbEG L 214).

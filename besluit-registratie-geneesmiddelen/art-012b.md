@@ -1,0 +1,5 @@
+# Artikel 12b
+1. In afwijking van artikel 3, eerste lid, derde volzin, en tweede lid, van de wet gaat het college binnen dertig dagen na ontvangst van de kennisgeving van een uitspraak in een procedure als bedoeld in de artikelen 7e en 12a, over tot uitvoering van de beschikking van de commissie of de raad inzake een aanvraag tot inschrijving, de schorsing, doorhaling of wijziging van een inschrijving. Bestaande besluiten worden binnen de in de eerste volzin gestelde termijn, zo nodig, herzien overeenkomstig de beschikking.
+2. Het college geeft van de uitvoering van de beschikking, bedoeld in het eerste lid, kennis aan de commissie en het comité.
+3. Ten aanzien van een farmaceutisch product waarover een uitspraak in een procedure is gedaan, blijven de artikelen 10 en 11 buiten toepassing.
+4. Het bepaalde in dit artikel geldt ook, indien een procedure aanhangig is gemaakt door de bevoegde instantie van een andere lid-staat, de commissie of een persoon, rechtspersoon inbegrepen, die voor het in de handel brengen van een farmaceutisch product verantwoordelijk zal zijn of is.
