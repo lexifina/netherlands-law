@@ -1,0 +1,2 @@
+# II. Ad Article 7
+It is understood that in the case of profits from survey, supply, installation or construction activities only so much of them is attributable to a permanent establishment as results from the actual performance of these activities through that permanent establishment. Accordingly, profits from deliveries of goods, whether or not in connection with these activities, to that permanent establishment by the head office, another permanent establishment or a third person shall not be attributed to that permanent establishment.

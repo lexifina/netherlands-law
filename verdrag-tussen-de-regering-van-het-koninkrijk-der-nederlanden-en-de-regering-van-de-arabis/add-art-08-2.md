@@ -1,0 +1,3 @@
+# VIII
+1. This Agreement may be extended, either in its entirety or in part, to either or both of the countries of the Netherlands Antilles and Aruba, if the country concerned imposes taxes substantially similar in character to those to which this Agreement applies. Any such extension shall take effect from such date and subject to such modifications and conditions, including conditions as to termination, as may be specified and agreed in notes to be exchanged through diplomatic channels.
+2. Unless otherwise agreed the termination of this Agreement shall not also terminate any extension of this Agreement to any country to which it has been extended under paragraph 1 of this provision of the Protocol.
