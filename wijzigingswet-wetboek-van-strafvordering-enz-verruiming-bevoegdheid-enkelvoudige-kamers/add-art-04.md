@@ -1,0 +1,3 @@
+# Artikel IV
+1. In zaken waarin voor het tijdstip van inwerkingtreding van deze wet een dagvaarding is uitgebracht waardoor de zaak bij de rechtbank ter terechtzitting aanhangig is gemaakt, blijven de artikelen 368 en 369 van het Wetboek van Strafvordering van toepassing zoals zij luidden voor die inwerkingtreding.
+2. In zaken waarin voor het tijdstip van inwerkingtreding van deze wet een dagvaarding of oproeping is betekend waardoor de zaak in hoger beroep ter terechtzitting aanhangig wordt gemaakt, blijft artikel 411, tweede lid, onder b, van het Wetboek van Strafvordering van toepassing zoals het luidde voor die inwerkingtreding.

@@ -1,0 +1,2 @@
+# Artikel V
+Onder toepassing van artikel 16 van de Tijdelijke referendumwet treedt deze wet in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij is geplaatst.
