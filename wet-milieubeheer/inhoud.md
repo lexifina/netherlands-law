@@ -94,9 +94,13 @@
 ### Titel 16.1. Algemeen
 ### Titel 16.2. Broeikasgassen en broeikasgasemissierechten
 #### Afdeling 16.2.1. Algemeen
+#### Afdeling 16.2.2. Vergunning
 #### Afdeling 16.2.3. Het toewijzen en verlenen van broeikasgasemissierechten
 ##### § 16.2.3.1. Het nationale toewijzingsplan
 ##### § 16.2.3.2. Het nationale toewijzingsbesluit, overige toewijzingsbesluiten en de verlening van broeikasgasemissierechten
+#### Afdeling 16.2.4. De geldigheid, inlevering en intrekking van broeikasgasemissierechten en het compenseren van emissies in een ander kalenderjaar
+#### Afdeling 16.2.5. De overgang van broeikasgasemissierechten
+#### Afdeling 16.2.6. Registratie van broeikasgasemissierechten
 ## Hoofdstuk 17. Maatregelen in bijzondere omstandigheden
 ## Hoofdstuk 18. Handhaving
 ## Hoofdstuk 19. Bepalingen in verband met de openbaarheid
