@@ -1,0 +1,2 @@
+# Article III
+Both Contracting Parties shall notify each other in writing of the accomplishment of their respective internal or constitutional procedures required for the entry into force of the present Convention. The Convention shall enter into force on the first day of the third month after the date of the last notification.
