@@ -1,0 +1,3 @@
+# Artikel XI
+1. Artikel 10b, eerste lid, van de Pensioen- en spaarfondsenwet zoals dat ingevolge deze wet komt te luiden is ten aanzien van op het tijdstip van inwerkingtreding van dat artikel bestaande pensioen- en spaarfondsen en beroepspensioenfondsen eerst van toepassing met ingang van de eerste dag van het tweede kalenderjaar na het tijdstip van inwerkingtreding van dat artikellid.
+2. Artikel 10b, tweede, derde en vierde lid, van de Pensioen- en spaarfondsenwet zoals deze ingevolge deze wet komt te luiden is voor het eerst van toepassing met betrekking tot het eerste volle boekjaar gelegen na het tijdstip van inwerkingtreding van deze artikelleden.

@@ -1,0 +1,2 @@
+# Artikel X
+Artikel 1, achtste lid, van de Pensioen- en spaarfondsenwet zoals dat ingevolge deze wet komt te luiden, is niet van toepassing ten aanzien van een pensioenfonds jegens welk op het tijdstip van inwerkingtreding van die artikelen ten minste 2000 personen aanspraak of recht op ouderdomspensioen hebben, terwijl tot dat pensioenfonds geen nieuwe deelnemers kunnen toetreden en de bezittingen van dat fonds tezamen met de te verwachten inkomsten toereikend zijn ter dekking van 115% van de uit de statuten en reglementen voortvloeiende pensioenverplichtingen.
