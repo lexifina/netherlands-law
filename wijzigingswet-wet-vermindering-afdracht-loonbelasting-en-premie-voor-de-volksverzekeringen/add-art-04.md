@@ -1,0 +1,2 @@
+# ARTIKEL IV
+In afwijking van artikel 6, tweede lid, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen wordt met betrekking tot de werknemer voor wie de inhoudingsplichtige op 31 december 1998 in aanmerking kwam voor de afdrachtvermindering langdurig werklozen voor de toepassing van artikel 6, eerste lid, van die wet de volledige arbeidsduur voor een kalenderweek gesteld op 32 uren. De eerste volzin is niet van toepassing ingeval de werknemer nadien opnieuw een dienstbetrekking met de inhoudingsplichtige aangaat.
