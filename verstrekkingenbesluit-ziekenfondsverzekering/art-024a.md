@@ -1,0 +1,2 @@
+# Artikel 24a
+Op hulp, welke bij of krachtens dit besluit als verstrekking is geregeld, bestaat geen aanspraak, voor zover deze objectief voorzienbaar samenhangt met een onderzoek in een ziekenhuis dat of een behandeling in een ziekenhuis die niet behoort tot de verstrekking, bedoeld in artikel 12 van dit besluit of tot de zorg, omschreven in artikel 14, eerste lid, van het Besluit zorgaanspraken AWBZ.
