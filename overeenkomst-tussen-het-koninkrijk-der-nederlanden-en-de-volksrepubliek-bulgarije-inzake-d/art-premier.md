@@ -1,0 +1,7 @@
+# Article premier
+1. Le Gouvernement bulgare paiera au Gouvernement néerlandais un montant fixé à 1.500.000 florins néerlandais, calculé à la base de 1 florin néerlandais = 0,245489 gr. or pur, à titre de règlement global et forfaitaire:
+a) des indemnités dues en raison des mesures bulgares de nationalisation, expropriation, confiscation ou autres mesures de dépossession totale ou partielle qui ont atteint les biens, droits ou intérêts de personnes physiques ou morales néerlandaises ayant ce statut tant à la date où ces mesures ont été prises qu'à la date de la signature du présent Accord;
+b) des obligations du Gouvernement bulgare envers le Gouvernement néerlandais et les personnes physiques ou morales néerlandaises, résultant de l'article 23 du Traité de Paix avec la Bulgarie, signé à Paris le 10 février 1947;
+c) de toutes créances commerciales et financières de personnes physiques ou morales néerlandaises sur des débiteurs bulgares, pour autant que ces créances sont nées avant la conclusion de l'Accord de Paiement bulgaro-néerlandais du 4 juin 1947;
+d) des obligations d'emprunts publics extérieurs bulgares ou d'emprunts garantis par l'Etat bulgare, appartenant le 31 décembre 1960 à des personnes physiques ou morales néerlandaises ayant ce statut à la date de la signature du présent Accord.
+2. Si la teneur en or du florin néerlandais visée ci-dessus venait à être modifiée, la partie non payée de la somme globale sera ajustée conformément.
