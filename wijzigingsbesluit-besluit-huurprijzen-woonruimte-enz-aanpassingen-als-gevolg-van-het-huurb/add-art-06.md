@@ -1,0 +1,2 @@
+# Artikel VI
+De instellingen, toegelaten krachtens artikel 70 van de Woningwet, die op het tijdstip waarop dit besluit in werking treedt bestaan, brengen hun statuten voor 1 juli 2003 in overeenstemming met dit besluit. Zij leggen de daarvoor noodzakelijke wijzigingen van de statuten ter goedkeuring voor aan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. De artikelen 9 en 10 van het Besluit beheer sociale-huursector zijn van toepassing.
