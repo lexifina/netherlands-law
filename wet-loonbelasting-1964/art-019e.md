@@ -1,0 +1,2 @@
+# Artikel 19e
+Bij algemene maatregel van bestuur worden regels gesteld ter zake van de instelling van een Adviescommissie fiscale behandeling pensioenen. De commissie adviseert over elementen van pensioenregelingen die weliswaar afwijken van het overigens in of krachtens dit hoofdstuk bepaalde maar niettemin van belang zijn voor een verdergaande flexibilisering van pensioenen, waarbij acht wordt geslagen op het beginsel van budgettaire neutraliteit.

@@ -1,0 +1,2 @@
+# Artikel 15c
+Bij ministeriële regeling kan, in aanvulling op de artikelen 15, 15a en 15b en zonodig onder het aanbrengen van normeringen en beperkingen en het stellen van voorwaarden, worden bepaald dat vergoedingen die naar algemene maatschappelijke opvattingen wel of niet als loon worden ervaren, niet respectievelijk wel tot de vrije vergoedingen worden gerekend.

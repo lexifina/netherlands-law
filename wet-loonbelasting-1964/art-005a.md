@@ -1,0 +1,7 @@
+# Artikel 5a
+1. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaan onder artiest dan wel beroepssporter: degene die ingevolge een overeenkomst van korte duur, dan wel kortstondig krachtens een andere grond, als musicus of anderszins als artiest optreedt dan wel als beroep een tak van sport beoefent (beroepssporter).
+2. Degene die ingevolge een overeenkomst van korte duur, dan wel kortstondig krachtens een andere grond, als musicus of anderszins als artiest optreedt dan wel als beroep een tak van sport beoefent, is geen artiest onderscheidenlijk beroepssporter ingeval:
+a. hij in Nederland woont en door Onze Minister ten aanzien van hem is verklaard dat hij zijn werkzaamheden verricht in de uitoefening van een bedrijf of in de zelfstandige uitoefening van een beroep;
+b. hij het optreden rechtstreeks is overeengekomen met een natuurlijke persoon ten behoeve van diens persoonlijke aangelegenheden.
+3. Ingeval een artiest of beroepssporter optreedt of als beroep een tak van sport beoefent in het kader van een dienstbetrekking tot een in Nederland gevestigde inhoudingsplichtige, is hij voor de toepassing van deze wet en de daarop berustende bepalingen werknemer.
+4. Ingeval een niet in Nederland wonende artiest of beroepssporter optreedt of als beroep een tak van sport beoefent in het kader van een dienstbetrekking tot een inhoudingsplichtige die niet in Nederland is gevestigd, vindt de heffing van loonbelasting plaats ingevolge de regelingen zoals die gelden voor artiesten en beroepssporters.

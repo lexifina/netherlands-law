@@ -1,0 +1,4 @@
+# Artikel 19c
+1. Op verzoek van de inhoudingsplichtige beslist de inspecteur bij voor bezwaar vatbare beschikking of een regeling een pensioenregeling is in de zin van de artikelen 18 tot en met 18h. Het verzoek wordt gedaan voordat de regeling dan wel een wijziging van de regeling wordt ingevoerd.
+2. Indien een zodanig verzoek is gedaan en vervolgens onherroepelijk komt vast te staan dat de regeling niet een zodanige pensioenregeling is en de regeling – onverwijld en ingaand op het tijdstip van ingang van de regeling – wordt aangepast in dier voege dat de regeling wel een zodanige pensioenregeling is, wordt de regeling geacht met terugwerkende kracht tot uiterlijk dat tijdstip een zodanige pensioenregeling te zijn. De vorige volzin is niet van toepassing op pensioenregelingen als bedoeld in artikel 18h.
+3. Het eerste en het tweede lid zijn van overeenkomstige toepassing op regelingen voor vervroegde uittreding als bedoeld in artikel 18i.

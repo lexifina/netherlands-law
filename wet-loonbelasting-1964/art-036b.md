@@ -1,0 +1,2 @@
+# Artikel 36b
+Met betrekking tot bestaande pensioenaanspraken voor welke op of na 1 januari 1995 een ander lichaam als verzekeraar optreedt dan bedoeld in artikel 18, onderdeel c, en artikel 18i, onderdeel c, is de in die onderdelen gestelde voorwaarde inzake de verzekeraar niet van toepassing. Onder bestaande pensioenaanspraken worden verstaan de op 31 december 1994 bestaande aanspraken welke naar of krachtens de tekst van artikel 11 zoals dat toen luidde, zijn aan te merken als aanspraken die berusten op een pensioenregeling.

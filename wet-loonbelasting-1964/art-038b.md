@@ -1,0 +1,2 @@
+# Artikel 38b
+Voor op 1 juni 1999 bestaande pensioenregelingen die niet voldoen aan hoofdstuk IIB of artikel 38a, blijven tot 1 juni 2004 de artikelen 11, 11b, 11c en 11d zoals die luidden op 31 mei 1999 van toepassing en zijn tot die datum hoofdstuk IIB en artikel 38a niet van toepassing, met dien verstande dat ingeval een pensioenregeling in die periode op meer dan ondergeschikte punten wordt gewijzigd, deze daarbij geheel in overeenstemming dient te worden gebracht met hoofdstuk IIB en artikel 38a.

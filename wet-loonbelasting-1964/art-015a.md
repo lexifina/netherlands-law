@@ -1,0 +1,16 @@
+# Artikel 15a
+1. Tot de vrije vergoedingen behoren vergoedingen, in redelijkheid, ter zake van:
+a. consumpties tijdens de werktijd die geen deel uitmaken van een maaltijd;
+b. werkkleding, met inachtneming van bij ministeriële regeling te stellen regels;
+c. vakliteratuur;
+d. representatie ter behoorlijke vervulling van de dienstbetrekking, daaronder begrepen recepties, feestelijke bijeenkomsten, giften, relatiegeschenken en vermaak, met inbegrip van de desbetreffende reizen en het desbetreffende verblijf;
+e. cursussen, congressen, seminars, symposia, excursies, studiereizen en dergelijke ter behoorlijke vervulling van de dienstbetrekking, met inbegrip van de desbetreffende reizen en het desbetreffende verblijf;
+f. muziekinstrumenten, geluidsapparatuur, gereedschap, tekstverwerkers, schrijf- en rekenmachines, computers en andere dergelijke apparatuur, alsmede beeldapparatuur, ter behoorlijke vervulling van de dienstbetrekking, met dien verstande dat bij zaken met een kostprijs van € 450 of meer met een meerjarig belang de afschrijving in aanmerking wordt genomen;
+g. verhuizing, ter omvang van de kosten van het overbrengen van de inboedel vermeerderd met 12% van het, met inachtneming van bij ministeriële regeling te stellen regels bepaalde, jaarloon of het tot jaarloon herleide bedrag van het in het kalenderjaar genoten loon uit de dienstbetrekking waarvoor de werknemer verhuist, maar met niet meer dan € 5445;
+h. op de werknemer drukkende uitgaven voor het volgen van een opleiding of studie met het oog op het verwerven van inkomen uit werk en woning, met uitzondering van vergoedingen:
+1°. die verband houden met een werk- of studeerruimte, daaronder begrepen de inrichting;
+2°. van binnenlandse reizen voorzover de vergoeding meer bedraagt dan het bedrag per kilometer, bedoeld in artikel 15b, eerste lid, onderdeel b;
+i. een recht op reizen per openbaar vervoer dat niet is beperkt tot reizen over een vast traject ten behoeve van woon-werkverkeer, voorzover is voldaan aan bij ministeriële regeling te stellen regels die mede betrekking kunnen hebben op de mate waarin de vergoeding tot de vrije vergoedingen behoort;
+j. vervoer van en naar de opstapplaats voor openbaar vervoer, in verband met regelmatig woon-werkverkeer, waarbij de afstand geheel of gedeeltelijk per openbaar vervoer is afgelegd, tot ten hoogste € 91 op jaarbasis;
+k. extra kosten van tijdelijk verblijf buiten het land van herkomst (extraterritoriale kosten), met dien verstande dat voor bij algemene maatregel van bestuur aan te wijzen groepen werknemers die door een inhoudingsplichtige van buiten Nederland in dienstbetrekking worden genomen of buiten Nederland worden uitgezonden, onder daarbij te stellen voorwaarden, geldt dat vergoedingen van kosten van verblijf buiten het land van herkomst – voor van buiten Nederland in dienstbetrekking genomen werknemers gedurende ten hoogste tien jaar – ten minste worden beschouwd als vergoeding voor extraterritoriale kosten tot ten hoogste 30 percent van het loon en de vergoeding voor extraterritoriale kosten, alsmede tot het bedrag van de daarbij aan te wijzen schoolgelden.
+2. Voor de toepassing van het eerste lid, onderdeel g, kunnen bij ministeriële regeling regels worden gesteld voor de beoordeling of in ieder geval in het kader van de dienstbetrekking wordt verhuisd.
