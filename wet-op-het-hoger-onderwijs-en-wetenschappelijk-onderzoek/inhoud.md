@@ -16,6 +16,10 @@
 ## Hoofdstuk 3. Overleg
 ## Hoofdstuk 4. Het personeel
 ## Hoofdstuk 5. Het toezicht
+## Hoofdstuk 5a. Accreditatie in het hoger onderwijs
+### Titel 1. Accreditatieorgaan
+### Titel 2. Accreditatie en toets nieuwe opleiding
+### Titel 3. Overige bepalingen
 ## Hoofdstuk 6. Onderwijsaanbod
 ### Titel 1. Opleidingen bekostigde instellingen voor hoger onderwijs
 ### Titel 2. Aanwijzing en intrekking aanwijzing van niet bekostigde instellingen voor hoger onderwijs
@@ -96,6 +100,8 @@
 #### Paragraaf 2. Voorschriften betreffende de onderzoekinstellingen
 #### Paragraaf 3. Aanhangige beroepen
 ### Titel 6. Evaluatie, inwerkingtreding, citeertitel
+## Hoofdstuk 17. Overgangs- en invoeringsbepalingen wijzigingswetten
+### Titel 1. Overgangsrecht wet van 6 juni 2002 houdende wijziging van onder meer de wet op het hoger onderwijs en wetenschappelijk onderzoek in verband met de invoering van accreditatie in het hoger onderwijs
 ## Hoofdstuk 17a. Overgangs- en invoeringsbepalingen van de wet betreffende de invoering van de bachelor-masterstructuur in het hoger onderwijs
 ### Titel 1. Wet van 6 juni 2002 (Stb. 303)
 #### Paragraaf 1. Algemeen
