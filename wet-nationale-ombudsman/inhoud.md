@@ -1,5 +1,5 @@
 # Inhoud
-## Begripsbepalingen en toepassingsbereik
-## Hoofdstuk I. De Nationale Ombudsman
-## Hoofdstuk II. Het onderzoek
-## Hoofdstuk III. Overgangs- en slotbepalingen
+## Hoofdstuk I. Begripsbepalingen en toepassingsbereik
+## Hoofdstuk II. De Nationale Ombudsman
+## Hoofdstuk III. Aanvullende bepalingen betreffende het onderzoek
+## Hoofdstuk IV. Overgangs- en slotbepalingen
