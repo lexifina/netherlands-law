@@ -7,6 +7,4 @@
 ### Paragraaf 3.3. De verwerking van gegevens door het Bureau
 ### Paragraaf 3.4. Beheer van het Bureau
 ### Paragraaf 3.5. Begeleidingscommissie
-## Hoofdstuk 4. Bevoegdheden, verplichtingen en procedurele bepalingen
-### Paragraaf 4.2. Verplichting tot medewerking
 ## Hoofdstuk 6. Overgangs- en slotbepalingen
