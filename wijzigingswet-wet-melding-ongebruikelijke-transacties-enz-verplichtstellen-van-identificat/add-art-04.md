@@ -1,0 +1,2 @@
+# Artikel IV
+Op het tijdstip van inwerkingtreding van deze wet worden, in afwijking van het bepaalde in artikel 8, eerste lid, van de Wet melding ongebruikelijke transacties, door Onze Minister van Financiën en Onze Minister van Justitie gezamenlijk, zo nodig per daarbij te onderscheiden categorieën transacties, voor een termijn van ten hoogste zes maanden, de indicatoren vastgesteld aan de hand waarvan wordt beoordeeld of een transactie in zaken van grote waarde moet worden aangemerkt als ongebruikelijk.

@@ -1,0 +1,3 @@
+# Artikel V
+1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
+2. Indien het bij koninklijke boodschap van 2 maart 2000 ingediende voorstel van wet, houdende tijdelijke regels inzake het raadgevend correctief referendum (Tijdelijke referendumwet) (Kamerstukken II, 2000–2001, 27 034) tot wet is verheven en deze wet is bekrachtigd op of na de datum waarop de Tijdelijke referendumwet in werking is getreden, treedt deze wet onder toepassing van artikel 16 van de Tijdelijke referendumwet in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
