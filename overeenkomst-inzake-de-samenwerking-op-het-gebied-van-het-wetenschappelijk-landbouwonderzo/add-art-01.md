@@ -1,0 +1,2 @@
+# Artikel I
+Partijen zullen, in overeenstemming met hun nationale wetten en procedures, de uitbreiding van contakten tussen de instellingen van wetenschappelijk landbouwonderzoek en de wetenschappelijke onderzoekers van het Koninkrijk der Nederlanden en de Unie van Socialistische Sowjet-Republieken bevorderen door middel van wederzijdse uitwisseling van technisch-wetenschappelijke gegevens en literatuur en, in onderling overleg, van zaadmonsters, pootgoed en andere materialen, alsook door middel van bezoeken van wetenschappelijke onderzoekers over en weer.
