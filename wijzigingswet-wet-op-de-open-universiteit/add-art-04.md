@@ -1,0 +1,2 @@
+# Artikel IV
+Binnen drie maanden nadat overeenkomstig artikel III, tweede lid, het bestuursreglement tot stand is gekomen stelt het college van bestuur, bedoeld in artikel 21 van de Wet op de Open Universiteit, het beheersreglement, bedoeld in artikel 33 van de Wet op de Open Universiteit, vast. Indien binnen deze termijn het beheersreglement niet of niet volledig is vastgesteld, kan de bestuursraad het reglement of het ontbrekende gedeelte daarvan vaststellen.
