@@ -1,0 +1,2 @@
+# VI. Ad Artikelen 10, 11, 12
+Niettegenstaande andersluidende bepalingen in de nationale wetgeving van elk van de Staten wordt teruggaaf van in strijd met de bepalingen van de artikelen 10, 11 en 12 geheven belasting verleend, indien het desbetreffende verzoek bij de bevoegde autoriteit van de Staat die de belasting heeft geheven, is ingediend binnen een tijdvak van twee jaren na het einde van het kalenderjaar waarin de belasting is geheven.

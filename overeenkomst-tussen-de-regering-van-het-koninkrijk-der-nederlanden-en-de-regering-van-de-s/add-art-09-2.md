@@ -1,0 +1,2 @@
+# IX. Ad Article 11
+Where an enterprise of one of the States has a permanent establishment in the other State, that other State may not impose any tax on the interest paid by the enterprise to persons who are not residents of that other State, unless the indebtedness on which the interest is paid was incurred in connection with that permanent establishment, and such interest is borne by that permanent establishment.

@@ -1,0 +1,2 @@
+# I
+Indien het inkomen van een vereniging van personen, zoals een maatschap of een onverdeelde nalatenschap, in een van de Staten wordt behandeld als inkomen van de eenheid, terwijl dit inkomen in de andere Staat wordt behandeld als inkomen van de natuurlijke personen die deel uitmaken van de vereniging van personen, plegen de bevoegde autoriteiten van de Staten met elkaar overleg ten einde de moeilijkheden die hieruit mochten voortvloeien, op te lossen.

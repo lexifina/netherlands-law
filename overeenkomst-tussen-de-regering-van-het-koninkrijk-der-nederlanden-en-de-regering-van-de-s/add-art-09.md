@@ -1,0 +1,2 @@
+# IX. Ad Artikel 11
+Indien een onderneming van een van de Staten een vaste inrichting in de andere Staat heeft, mag die andere Staat geen belasting heffen op de interest die door de onderneming wordt betaald aan personen die geen inwoner zijn van die andere Staat, tenzij de schuld ter zake waarvan de interest wordt betaald, was aangegaan voor die vaste inrichting en deze interest ten laste komt van die vaste inrichting.

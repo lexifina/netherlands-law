@@ -1,0 +1,3 @@
+# IV. Ad Article 3, paragraph 1, a) and b)
+1. The term "the Netherlands" also comprises the part of the sea bed and its sub-soil under the North Sea, over which the Kingdom of the Netherlands has sovereign rights in accordance with international law.
+2. The term "Spain" also comprises any area outside the territorial sea of Spain which in accordance with international law has been or may hereafter be designated, under the laws of Spain concerning the Continental Shelf, as an area within which the rights of Spain with respect to the sea bed and sub-soil and their natural resources may be exercised.

@@ -1,0 +1,6 @@
+# XIV. Ad Artikelen 12 en 25
+1. Niettegenstaande de bepalingen van artikel 12, tweede lid, en artikel 25, tweede lid, tweede alinea, letter a, vinden de volgende bepalingen toepassing op royalty's, afkomstig uit Spanje en betaald aan een inwoner van Nederland ingevolge een contract dat gesloten is binnen een tijdvak van vijf jaren na de datum waarop de Overeenkomst toepassing vindt met betrekking tot royalty's:
+a) het tarief van de door Spanje geheven belasting mag 5 percent van het bruto-bedrag van de royalty's niet overschrijden;
+b) onder voorbehoud van de bepalingen van artikel 25, tweede lid, tweede alinea, letter b, verleent Nederland, boven het bedrag dat gelijk is aan de in Spanje geheven belasting, een vermindering ten belope van 5 percent van het bruto-bedrag van die royalty's,
+met dien verstande dat de onder a en b bedoelde bepalingen slechts toepassing vinden gedurende een tijdvak van vijfjaren na de dag waarop het contract was gesloten.
+2. De bepalingen van het eerste lid vinden geen toepassing op vergoedingen van welke aard ook voor het gebruik van, of voor het recht van gebruik van, een auteursrecht op een werk op het gebied van letterkunde, kunst of wetenschap, daaronder begrepen films.

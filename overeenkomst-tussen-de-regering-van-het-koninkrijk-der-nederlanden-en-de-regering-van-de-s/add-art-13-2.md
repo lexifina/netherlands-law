@@ -1,0 +1,2 @@
+# XIII. Ad Article 25
+For the purposes of paragraph 2, second subparagraph, letter a), of Article 25, interest from loans contracted after January 1st, 1968, for which reduction of Spanish tax is granted by application of Decreto-Ley 19/1961 of October 19th, 1961, as in force on January 1st, 1968, shall be deemed to be subjected to Spanish tax under the conditions referred to in Article 11, paragraph 2.

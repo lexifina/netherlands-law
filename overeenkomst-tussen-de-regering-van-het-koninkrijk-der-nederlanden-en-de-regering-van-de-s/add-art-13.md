@@ -1,0 +1,2 @@
+# XIII. Ad Artikel 25
+Voor de toepassing van artikel 25, tweede lid, tweede alinea, letter a, wordt interest op leningen, aangegaan na 1 januari 1968, waarvoor met toepassing van Decreto-Ley 19/1961 van 19 oktober 1961, zoals deze op 1 januari 1968 van kracht was, vermindering van Spaanse belasting wordt verleend, geacht aan Spaanse belasting onderworpen te zijn onder de in artikel 11, tweede lid, vermelde voorwaarden.
