@@ -1,0 +1,3 @@
+# Article IX. Equipment and Materials
+1. The provisions of Article IV and V of the Agreement shall be applicable to the importation and exportation of the equipment and materials provided by the Netherlands party as well as to the status of the said equipment and materials.
+2. Without prejudice to the payment by the Bangladesh party or the Bangladesh recipient agency of the customs duties and taxes on the equipment and materials supplied by the Netherlands party, those customs duties and taxes are only due upon the transfer of the equipment and materials to the Bangladesh party or Bangladesh recipient agency. The Netherlands party is in no way under an obligation to pay the customs duties or taxes.
