@@ -1,0 +1,2 @@
+# Article III
+The Contracting Parties shall set up a mixed committee whose duty it shall be, in application of Articles I and II, to recommend to the two Governments a programme of activities for a period of two years at a time; the programme shall be accompanied by suggestions as to the financing of its various parts. Each Contracting Party shall submit its decisions concerning the recommendations and suggestions of the mixed committee to the other Party through the ordinary diplomatic channels.
