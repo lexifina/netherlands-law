@@ -1,0 +1,7 @@
+# Article V
+1. Les deux Gouvernements instituent par le présent Accord un Comité mixte comprenant au maximum deux hauts fonctionnaires de chacun des Gouvernements. Chacun des Gouvernements instituera un mécanisme national d'exécution comme stipulé à l' Article VI.
+2. La première réunion du Comité mixte sera convoquée par le Gouvernement du Royaume des Pays-Bas et le Gouvernement de la République du Bénin dans un délai qui n'excédera pas six mois après l'entrée en vigueur du présent Accord. Par la suite, les réunions du Comité mixte auront lieu sur décision du Comité mixte ou sur la demande écrite de l'un des Gouvernements.
+3. Le Comité mixte veillera à promouvoir et à contrôler en permanence la mise en oeuvre du présent Accord au moyen des politiques, des arrangements, des programmes et des projets visés à l'article I.
+4. Le Comité mixte peut déléguer la mise en oeuvre du présent Accord, en tout ou en partie, aux entités executives mentionnées dans l'article VI, selon le pays où les activités ont lieu.
+5. Le Comité mixte peut décider quelles personnes, représentant ou non des organisations gouvernementales ou non-gouvernementales, entrent en ligne de compte, sur la base de leur expérience pertinente pour le présent Accord, pour assister à ses réunions en tant qu'observateurs afin de recueillir leur avis, dans les conditions à fixer par ledit Comité.
+6. Les décisions du Comité mixte seront prises à l'unanimité des deux parties.

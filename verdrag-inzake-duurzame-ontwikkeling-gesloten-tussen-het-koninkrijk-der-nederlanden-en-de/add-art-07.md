@@ -1,0 +1,8 @@
+# Article VII
+1. Le présent Accord entrera en vigueur à la date à laquelle les deux Gouvernements se seront notifiés par écrit que les procédures légales requises ont été accomplies dans leurs pays respectifs.
+2. Le présent Accord restera en vigueur pour une durée indéterminée. Chaque Gouvernement peut à tout moment le dénoncer ou en suspendre l'application en le notifiant à l'autre Gouvernement.
+La suspension prendra effet à la date de réception par l'un des Gouvernements de la notification de suspension de l'autre Gouvernement. Elle prendra fin à la date de réception de la notification de cessation de la suspension.
+La dénonciation prendra effet le premier jour du mois suivant ľexpiration d'une période de trois mois à dater de la réception par l'un des Gouvernements de la notification de dénonciation de l'autre Gouvernement.
+3. Pour les programmes ou projets lancés avant la date de dénonciation du présent Accord ou de la suspension de son application, les deux Gouvernements décideront si, et dans quelle mesure, les dispositions du présent Accord continueront de s'appliquer jusqu'à ce que ces programmes ou projets aient été menés à terme.
+4. Si, pour quelque raison que ce soit, le présent Accord est dénoncé, par l'un des deux Gouvernements, ou suspendu pendant une période de plus d'un an, il sera décidé d'un commun accord de l'affectation des biens et équipements, utilisés dans le cadre des programmes et des projets.
+5. Le présent Accord peut être modifié par échange de notes diplomatiques entre les deux Gouvernements. Des modifications prendront effet à la date à laquelle les deux Gouvernements se seront notifiés par écrit que les procédures légales requises ont été accomplies.

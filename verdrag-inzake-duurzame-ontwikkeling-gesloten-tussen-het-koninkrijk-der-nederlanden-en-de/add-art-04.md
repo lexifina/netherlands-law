@@ -1,0 +1,3 @@
+# Article IV
+1. La coopération et en particulier les politiques, les arrangements, les programmes et les projets visés à l'Article I seront fondés sur les conventions, les politiques, les arrangements, les programmes et les projets conclus entre les deux pays, et n'auront en aucune façon des conséquences sur les engagements contractés par les deux pays dans le cadre d'autres conventions.
+2. Pour tout programme ou projet de développement durable convenu entre les deux Gouvernements avant la date de l'entrée en vigueur du présent Accord et non encore achevé à cette date, les deux Gouvernements décideront si, et dans quelle mesure, le programme ou projet en question sera régi par le présent Accord.
