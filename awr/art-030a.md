@@ -1,0 +1,3 @@
+# Artikel 30a
+1. Een beslissing die door de inspecteur is genomen op grond van wettelijke bepalingen in de zin van de Douanewet is, indien deze, in voorkomend geval met toepassing van het tweede lid, is aan te merken als een beschikking in de zin van artikel 1:3, tweede lid, van de Algemene wet bestuursrecht, voor bezwaar vatbaar.
+2. De inspecteur bevestigt op verzoek van degene te wiens aanzien hij op grond van wettelijke bepalingen in de zin van de Douanewet anders dan bij beschikking in de zin van artikel 1:3, tweede lid, van de Algemene wet bestuursrecht een beslissing heeft genomen, die beslissing bij zodanige beschikking. Het verzoek wordt ingediend binnen vier weken nadat de inspecteur de beslissing heeft medegedeeld.

@@ -1,0 +1,2 @@
+# Artikel 27c
+Artikel 8:62 van de Algemene wet bestuursrecht is ten aanzien van beroep bij het gerechtshof slechts van overeenkomstige toepassing voor zover het beroep is gericht tegen een uitspraak waarbij een boete geheel of gedeeltelijk is gehandhaafd. In andere gevallen heeft het onderzoek ter zitting plaats met gesloten deuren, maar kan het gerechtshof bepalen dat het onderzoek openbaar is, voor zover de belangen van partijen daardoor niet worden geschaad.

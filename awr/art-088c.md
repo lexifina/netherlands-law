@@ -1,0 +1,3 @@
+# Artikel 88c
+1. Van goederen die ter zake van het begaan van strafbare feiten als bedoeld in de wettelijke bepalingen in de zin van de Douanewet, in beslag zijn genomen van onbekende personen wordt volgens bij ministeriële regeling te stellen regels in het openbaar mededeling gedaan.
+2. Indien niet binnen een jaar na dagtekening van de in het eerste lid bedoelde mededeling op voldoende wijze blijkt wie de ten aanzien van de in beslag genomen goederen bevonden overtreding van de in dat lid bedoelde wettelijke bepalingen heeft begaan en evenmin de belanghebbende bij de goederen aannemelijk maakt dat zij ten onrechte in beslag zijn genomen, vervallen de goederen aan de staat.

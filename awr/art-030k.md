@@ -1,0 +1,2 @@
+# Artikel 30k
+Onze Minister kan in het kader van een regeling voor onderling overleg op grond van het Verdrag ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen (Trb. 1990, 173), de Belastingregeling voor het Koninkrijk of een verdrag ter voorkoming van dubbele belasting, voor bepaalde gevallen of groepen van gevallen afwijkingen toestaan van de artikelen 30f, 30g en 30h.

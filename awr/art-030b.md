@@ -1,0 +1,2 @@
+# Artikel 30b
+De administratieplichtige, bedoeld in artikel 9 van de Douanewet, die niet of niet volledig voldoet aan de vordering gegevensdragers, of de inhoud daarvan, voor raadpleging beschikbaar te stellen, wordt voor de toepassing van de artikelen 25 en 27e geacht niet volledig te hebben voldaan aan een bij of krachtens artikel 8 van de Douanewet opgelegde verplichting, tenzij aannemelijk is dat de afwezigheid of onvolledigheid van de gegevensdragers of de inhoud daarvan het gevolg is van overmacht.

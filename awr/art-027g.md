@@ -1,0 +1,3 @@
+# Artikel 27g
+1. In afwijking van artikel 8:79, tweede lid, van de Algemene wet bestuursrecht geschiedt de verstrekking overeenkomstig die bepaling van afschriften of uittreksels aan anderen dan partijen met machtiging van het gerechtshof.
+2. Met betrekking tot schriftelijke uitspraken blijft de machtiging, bedoeld in het eerste lid, slechts achterwege indien op een voor de uitspraak gedaan verzoek van een der partijen het gerechtshof oordeelt dat ook na anonimisering de geheimhouding van persoonlijke en financiële gegevens onvoldoende wordt beschermd en bovendien het belang van de openbaarheid van de rechtspraak niet opweegt tegen dit belang.

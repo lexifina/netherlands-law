@@ -1,0 +1,2 @@
+# Artikel 22f
+Indien een douaneschuld ontstaat anders dan op grond van de artikelen 201 of 209 van het Communautair douanewetboek, en één of meer voor de berekening van de douaneschuld noodzakelijke gegevens met betrekking tot de goederen niet zijn komen vast te staan, worden die goederen, met inachtneming van de gegevens die wel zijn komen vast te staan, geacht die hoedanigheid te bezitten, volgens welke het hoogste tarief van rechten bij invoer onderscheidenlijk rechten bij uitvoer van toepassing is.

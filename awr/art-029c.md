@@ -1,0 +1,5 @@
+# Artikel 29c
+1. Indien, hetzij in het beroepschrift hetzij in het verweerschrift hetzij nadien door degene die beroep in cassatie heeft ingesteld, binnen twee weken nadat het afschrift van het verweerschrift ter post is bezorgd, schriftelijk is verzocht de zaak mondeling te mogen toelichten, bepaalt de Hoge Raad dag en uur waarop de zaak door de advocaten van partijen zal kunnen worden bepleit. De griffier stelt beide partijen of de door hen aangewezen advocaten hiervan ten minste tien dagen tevoren in kennis.
+2. De advocaten kunnen in plaats van de zaak mondeling bij pleidooi toe te lichten een schriftelijke toelichting overleggen of toezenden.
+3. Artikel 8:62 van de Algemene wet bestuursrecht is van overeenkomstige toepassing voor zover het beroep in cassatie is gericht tegen een uitspraak waarbij de gehele of gedeeltelijke handhaving van een boete in het geding is.
+4. In andere gevallen dan in het derde lid bedoeld, heeft de mondelinge behandeling plaats met gesloten deuren, maar kan de Hoge Raad bepalen dat de behandeling openbaar is, voor zover de belangen van partijen daardoor niet worden geschaad.

@@ -1,0 +1,3 @@
+# Artikel 67a
+1. Indien de belastingplichtige de aangifte voor een belasting welke bij wege van aanslag wordt geheven niet, dan wel niet binnen de ingevolge artikel 9, derde lid, gestelde termijn heeft gedaan, vormt dit een verzuim ter zake waarvan de inspecteur hem, gelijktijdig met de vaststelling van de aanslag, een boete van ten hoogste € 1 134 kan opleggen.
+2. Indien over een jaar zowel een aanslag als een conserverende aanslag wordt vastgesteld, wordt de in het eerste lid bedoelde boete uitsluitend opgelegd bij het vaststellen van de aanslag. Wordt over een jaar uitsluitend een conserverende aanslag vastgesteld, dan wordt die boete opgelegd bij het vaststellen van de conserverende aanslag.

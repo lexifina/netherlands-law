@@ -1,0 +1,2 @@
+# Artikel 67o
+De bevoegdheid tot het opleggen van een bestuurlijke boete vervalt indien ter zake van het feit op grond waarvan de boete kan worden opgelegd, tegen de belastingplichtige of de inhoudingsplichtige een strafvervolging is ingesteld en het onderzoek ter terechtzitting een aanvang heeft genomen, dan wel het recht tot strafvervolging is vervallen ingevolge artikel 76 van deze wet of artikel 74 van het Wetboek van Strafrecht.
