@@ -1,0 +1,11 @@
+# I
+1. Teneinde te waarborgen dat de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek, hierna „toetredende staten" te noemen, voldoende worden ingelicht, worden alle voorstellen, mededelingen, aanbevelingen of initiatieven die kunnen leiden tot besluiten van de instellingen of organen van de Europese Unie, na toezending aan de Raad ter kennis van de toetredende staten gebracht.
+2. Er wordt overleg gepleegd op een met redenen omkleed verzoek van een toetredende staat, die daarin zijn belangen als toekomstig lid van de Unie dient uiteen te zetten en zijn opmerkingen daarin neerlegt.
+3. Besluiten inzake beheer vormen in het algemeen geen aanleiding tot overleg.
+4. Het overleg vindt plaats in een Interimcomité, samengesteld uit vertegenwoordigers van de Unie en van de toetredende staten.
+5. Aan de zijde van de Unie zijn de leden van het Interimcomité de leden van het Comité van permanente vertegenwoordigers of diegenen die deze laatsten daarvoor aanwijzen. De Commissie wordt uitgenodigd zich bij deze werkzaamheden te doen vertegenwoordigen.
+6. Het Interimcomité wordt bijgestaan door een secretariaat, dat het secretariaat van de Conferentie is, dat tot dat doel in functie blijft.
+7. Het overleg vindt normaliter plaats zodra de voorbereidende werkzaamheden op communautair niveau met het oog op de aanvaarding van besluiten door de Raad zover zijn gevorderd dat de gemeenschappelijke strekking ervan het mogelijk maakt een dergelijk overleg met vrucht te organiseren.
+8. Mochten er na het overleg nog ernstige moeilijkheden bestaan, dan kan het probleem op verzoek van een toetredende staat op ministerieel niveau worden besproken.
+9. Bovenstaande bepalingen worden mutatis mutandis toegepast op de besluiten van de Raad van Gouverneurs van de Europese Investeringsbank.
+10. De in de voorgaande punten omschreven procedure is eveneens van toepassing op alle door de toetredende staten te nemen besluiten die van invloed kunnen zijn op de verbintenissen die voortvloeien uit hun hoedanigheid van toekomstige leden van de Unie.

@@ -1,0 +1,3 @@
+# V
+Ten aanzien van de onderhandelingen over overgangs- en aanpassingsprotocollen met de in artikel 6, leden 2 en 6, van de Akte betreffende de toetredingsvoorwaarden genoemde landen worden de vertegenwoordigers van de toetredende Staten als waarnemers bij de werkzaamheden betrokken, naast de vertegenwoordigers van de huidige lidstaten.
+Bepaalde door de Gemeenschap gesloten niet-preferentiële akkoorden die ook na de datum van toetreding blijven gelden, kunnen worden aangepast om rekening te houden met de uitbreiding van de Unie. De Unie zal de vertegenwoordigers van de toetredende staten overeenkomstig de in de vorige alinea omschreven procedure bij de onderhandelingen over deze aanpassing betrekken.
