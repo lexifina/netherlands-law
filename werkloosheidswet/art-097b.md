@@ -3,8 +3,7 @@
 a. de op grond van deze wet te betalen uitkering aan een persoon als bedoeld in artikel 78a, met uitzondering van de premie, bedoeld in artikel 97d, tweede lid;
 b. de op grond van enige wet over de uitkering, bedoeld in onderdeel a, door het Uitvoeringsinstituut werknemersverzekeringen verschuldigde premies die niet op deze uitkering in mindering kunnen worden gebracht, met uitzondering van de premie, bedoeld in artikel 97d, tweede lid;
 c. de tegemoetkoming, bedoeld in artikel 97f, onderdeel i;
-d. de vergoeding, bedoeld in artikel 97h, die betrekking heeft op de persoon die de in onderdeel a bedoelde uitkering ontving;
-e. de tegemoetkoming in de kosten in verband met kinderopvang, bedoeld in artikel 74, tweede lid, voorzover de werknemer de uitkering, bedoeld in het eerste lid van dat artikel, ontving uit hoofde van een dienstbetrekking als overheidswerknemer.
+d. de vergoeding, bedoeld in artikel 97h, die betrekking heeft op de persoon die de in onderdeel a bedoelde uitkering ontving.
 2. Voor de toepassing van het eerste lid wordt onder uitkering niet verstaan de uitkering aan een persoon:
 a. voor wie een beschikking geldt als bedoeld in artikel 4a van de Wet arbeidsongeschiktheidsverzekering zelfstandigen waarin hij met betrekking tot de, in de in het eerste lid bedoelde dienstbetrekking, verrichte soort van werkzaamheden, wordt aangemerkt als zelfstandige als bedoeld in artikel 4 van die wet;
 b. waarvan het de overheidswerkgever niet redelijkerwijs duidelijk kon zijn dat deze tot hem in een privaatrechtelijke of publiekrechtelijke dienstbetrekking stond.
