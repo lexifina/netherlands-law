@@ -1,0 +1,4 @@
+# Artikel 2a
+1. In afwijking van het bepaalde in artikel 7, eerste lid, van de Algemene EEG-IJkregeling mag het ijkmerk van eerste EEG-ijk voor lengtematen bestaan uit de kleine letter 'e' in een zeshoekig veld. In dat geval is of zijn in het bovenste deel van de letter 'e' de kenletter of de kenletters aangebracht van de EER-Staat, door of vanwege welke de eerste EEG-ijk is verricht en in het onderste deel de laatste twee cijfers van het jaartal van het jaar, waarin de eerste EEG-ijk is voltooid.
+2. De in het eerste lid bedoelde kenletters zijn voor Nederland 'NL' en voor de andere EER-Staten die welke in bijlage 3, onder 1, van de Algemene EEG-IJkregeling zijn bekendgemaakt.
+3. Een voorbeeld van het in het eerste lid bedoelde ijkmerk van eerste EEG-ijk is weergegeven in bijlage 2, die bij deze regeling is gevoegd.
