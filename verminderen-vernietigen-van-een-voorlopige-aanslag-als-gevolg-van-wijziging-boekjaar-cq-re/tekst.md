@@ -1,0 +1,3 @@
+# Tekst
+Momenteel is bij de Tweede Kamer aanhangig een wetsvoorstel dat beoogt de in de aanschrijving van 18 december 1989, nr. OB89/3959 (Vpb'69-449 en Gba-224) genoemde situaties te ondervangen. Vooruitlopend op de inwerkingtreding van dit wetsvoorstel trek ik de in de genoemde aanschrijving opgenomen voorgeschreven werkwijze in. De aanschrijving is derhalve vervallen. Dit leidt er toe dat vanaf heden de datum van de beschikking tot vermindering niet meer dient te worden gelijkgesteld met de laatste vervaldag van de te vernietigen aanslag.
+In dit kader wordt nog de aandacht gevestigd op het besluit van 2 juli 1991, nr. CA 91/78 (Inv.'90, nr. 15.11.00 en Bel. A, nr. 70.00.05) waarin organisatorische maatregelen rond heffings- en invorderingsrente worden beschreven.
