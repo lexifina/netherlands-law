@@ -1,0 +1,2 @@
+# Artikel 8bis
+De eigenaar van een internationaal merk kan steeds afstand doen van de bescherming in een of meer der contracterende landen, door middel van een verklaring, afgegeven aan de Administratie van het land van oorsprong van het merk, ter mededeling aan het Internationaal Bureau, dat haar ter kennis zal brengen van de landen, waarop deze afstand betrekking heeft. Deze afstand is niet aan enige taxe onderworpen.

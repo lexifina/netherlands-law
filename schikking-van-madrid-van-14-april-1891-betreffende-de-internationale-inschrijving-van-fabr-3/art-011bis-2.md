@@ -1,0 +1,2 @@
+# Artikel 11bis
+In geval van opzegging van deze overeenkomst is artikel 17bis van het algemeen verdrag van toepassing. De internationale merken, ingeschreven tot de dag, waarop de opzegging van kracht wordt, en niet binnen het jaar, bedoeld in artikel 5, geweigerd, zullen, gedurende de duur der internationale bescherming, in het genot blijven van dezelfde bescherming, als waren zij rechtstreeks in dat land gedeponeerd.

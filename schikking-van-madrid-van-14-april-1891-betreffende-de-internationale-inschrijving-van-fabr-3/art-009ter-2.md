@@ -1,0 +1,4 @@
+# Artikel 9ter
+1. Indien de overdracht van een internationaal merk voor slechts een gedeelte der ingeschreven waren ter kennis van het Internationaal Bureau is gebracht, zal dit die overdracht in zijn registers inschrijven. Elk der contracterende landen zal de bevoegdheid hebben de geldigheid van deze overdracht niet te erkennen, indien de waren, in het aldus overgedragen gedeelte begrepen, van hetzelfde soort zijn, als die, waarvoor het merk ten behoeve van hem, die het merk heeft overgedragen, blijft ingeschreven.
+2. Het internationaal Bureau zal eveneens inschrijven een overdracht van het internationale merk voor slechts één of meer der contracterende landen.
+3. Indien, in de bovengenoemde gevallen, zich een verandering van het land van oorsprong voordoet, zal de Administratie van het land, waartoe hij, aan wie de overdracht heeft plaats gehad, behoort, haar toestemming, overeenkomstig artikel 9bis vereist, moeten geven.
