@@ -1,0 +1,4 @@
+# Artikel 729b
+1. Onverminderd het bepaalde in artikel 729a mag geen beslag op een luchtvaartuig worden gelegd, indien ter voorkoming daarvan voldoende zekerheid is gesteld. Onmiddellijke opheffing van gelegd beslag zal worden gelast, wanneer voldoende zekerheid wordt gesteld.
+2. De zekerheid is voldoende, indien zij het bedrag van de schuldvordering en de kosten dekt en uitsluitend is bestemd voor de betaling van den schuldeischer, of indien zij de waarde van het luchtvaartuig dekt, ingeval deze geringer is dan het bedrag van de schuld en de kosten.
+3. Wanneer bij het aanbieden van zekerheid ter voorkoming van beslag geschil ontstaat over het bedrag of den aard der te stellen zekerheid, beslist de voorzieningenrechter van de rechtbank, binnen welker gebied het luchtvaartuig zich bevindt, op verzoek van de meest gerede partij, na verhoor of behoorlijke oproeping.

@@ -1,0 +1,9 @@
+# Artikel 642e
+1. Indien na toewijzing van een op artikel 750 of artikel 751 van Boek 8 van het Burgerlijk Wetboek gegrond verzoek geen der schuldeisers binnen de in artikel 642g genoemde termijn betwist heeft, dat de schuldenaar zijn aansprakelijkheid kan beperken, dan wel omtrent een zodanige betwisting onherroepelijk afwijzend is beslist en een fonds is gesteld ten aanzien waarvan de rechtbank een verklaring als bedoeld in het zesde lid van artikel 642c heeft afgegeven en dat werkelijk ten bate van de schuldeiser beschikbaar is alsmede de schuldeiser zijn vordering op het fonds in rechte geldend kan maken, kan de rechter op verzoek van hem te wiens behoeve het fonds is gesteld de opheffing van beslagen die ter zake van de vorderingen waarvoor het fonds is gesteld, zijn gelegd, dan wel de teruggave van te dier zake gegeven zekerheid bevelen.
+2. Indien aan de in het eerste lid gestelde vereisten is voldaan, zal de rechter op een verzoek als in het eerste lid bedoeld een bevel als in dat lid bedoeld geven, wanneer het fonds is gesteld
+a. in de haven waar het ongeval waaruit aansprakelijkheid is voortgevloeid, plaats vond, of wanneer dit ongeval niet in een haven plaats vond, in de eerste haven welke het schip daarna aanliep, of
+b. in de haven van ontscheping van de betrokken persoon, indien de schade is voortgevloeid uit dood of letsel van personen, of
+c. met betrekking tot beschadigde lading in de haven van lossing, of
+d. in de Staat waarin het beslag is gelegd.
+3. Het eerste of tweede lid van dit artikel vindt slechts toepassing indien het fonds aan de schuldeiser, wat zijn vordering betreft, vrij kan worden overgemaakt.
+4. Indien ten aanzien van een op artikel 1060 of artikel 1061 van Boek 8 van het Burgerlijk Wetboek gegrond verzoek aan de in het eerste lid gestelde vereisten is voldaan, geeft de rechtbank op een verzoek als in het eerste lid bedoeld een bevel als in dat lid bedoeld.

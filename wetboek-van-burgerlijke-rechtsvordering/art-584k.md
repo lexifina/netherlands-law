@@ -1,0 +1,5 @@
+# Artikel 584k
+1. Indien voor het tijdstip van de verkoop geen tegenspraak is gedaan dan tegen rechten en vorderingen die in rang na die van de executant komen, sluit de rechter-commissaris de lijst en wordt tot verkoop overgegaan.
+2. Indien voor het tijdstip van verkoop wel tegenspraak als bedoeld in het vorige lid is gedaan, verdaagt de rechtercommissaris de verkoop.
+3. Zodra op de tegenspraak is beslist bij een vonnis, dat in kracht van gewijsde is gegaan, sluit de rechter-commissaris op verzoek van de executant de lijst en bepaalt hij plaats, dag en uur, waarop de verkoop en de toewijzing zullen plaats hebben. Deze dag moet tenminste 7 weken liggen na de dagtekening van de beschikking van de rechter-commissaris.
+4. De executant vervult in dat geval opnieuw de formaliteiten vermeld in artikel 584f, derde lid. Hij verwittigt voorts hen, die een bewering hebben ingediend, alsmede de in artikel 584f, vierde lid, bedoelde beperkt gerechtigden en beslagleggers, van de voorgenomen verkoop bij aangetekende brief, alsmede, zo mogelijk, bij per luchtpost verzonden aangetekende brief.

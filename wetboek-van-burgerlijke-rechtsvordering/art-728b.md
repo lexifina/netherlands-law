@@ -1,0 +1,2 @@
+# Artikel 728b
+Indien het beslag is gelegd op een schip dat teboekstaat in het in artikel 193 van Boek 8 of artikel 783 van Boek 8 van het Burgerlijk Wetboek genoemd register en de eis in de hoofdzaak niet binnen de overeenkomstig artikel 700, derde lid, bepaalde termijn is ingesteld, is de beslaglegger verplicht de inschrijving van het beslag in de openbare registers onverwijld te doen doorhalen op straffe van schadevergoeding.

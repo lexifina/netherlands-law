@@ -1,0 +1,6 @@
+# Artikel 642r
+1. Verschijnt de schuldeiser die de verificatie vraagt, niet ter terechtzitting van de rechtbank, dan wordt hij geacht zijn vordering voor zover zij betwist is, te hebben ingetrokken.
+2. Verschijnt hij die een betwisting van enige stelling van een schuldenaar of schuldeiser deed, niet, dan wordt hij geacht deze betwisting te hebben laten varen.
+3. De in het tweede lid van artikel 642q genoemde personen kunnen zich in het geding niet op het ontbreken van de daar bedoelde kennisgeving beroepen.
+4. Schuldeisers die bij de indiening van hun vordering, noch ter vergadering, betwisting hebben gedaan, kunnen in het geding zich voegen noch tussenkomen; tussenkomst kan in geval van faillissement van een schuldenaar worden gevorderd door de curator in dat faillissement of, ingeval van toepassing van de schuldsaneringsregeling natuurlijke personen, door de bewindvoerder.
+5. Een onherroepelijke beslissing inhoudende dat een schuldenaar zijn aansprakelijkheid ten opzichte van één of meer vorderingen niet kan beperken, heeft bindende kracht zowel jegens een schuldenaar als in geval van diens faillissement of toepassing ten aanzien van hem van de schuldsaneringsregeling natuurlijke personen jegens zijn schuldeisers.
