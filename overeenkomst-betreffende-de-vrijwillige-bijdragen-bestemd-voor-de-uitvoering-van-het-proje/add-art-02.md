@@ -1,0 +1,3 @@
+# Article II
+1. The Director-General will obtain all the necessary particulars regarding the payment dates with which the United Arab Republic will have to reckon in executing the contract referred to in Article I, paragraph 2. He will also receive periodical progress reports.
+2. He will pay the amounts which he receives in conformity with the terms of Article I, paragraph 1, and in accordance with the procedure laid down in the Agreement between Unesco and the Government of the United Arab Republic concerning the safeguarding of the temples of Philae to the appropriate authorities of the United Arab Republic, taking the time-table of payments due and the progress of work into account.

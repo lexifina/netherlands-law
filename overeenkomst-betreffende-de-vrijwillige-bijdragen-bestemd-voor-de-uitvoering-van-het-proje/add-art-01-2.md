@@ -1,0 +1,3 @@
+# Article I
+1. The Government of the United Arab Republic undertakes to proceed with the work of saving the temples of Philae in accordance with the project it has approved and which consists in dismantling the temples and reconstructing them on a small island close to their original site at a total estimated cost equivalent to about thirteen million three hundred thousand dollars of the United States of America.
+2. In conformity with resolution 4. 421, adopted by the General Conference at its twelfth session, the Government of the United Arab Republic shall take the necessary measures to preserve the international character of the enterprise in the execution of the project.

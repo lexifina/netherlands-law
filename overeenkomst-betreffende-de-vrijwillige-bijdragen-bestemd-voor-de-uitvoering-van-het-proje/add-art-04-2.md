@@ -1,0 +1,2 @@
+# Article IV
+The Director-General of the Organization shall continue to appeal to governments and to public and private sources in order to assist the Government of the United Arab Republic in making up any difference between the total amount of contributions so far secured and the expected cost of the operation: about thirteen million three hundred thousand dollars of the United States of America.
