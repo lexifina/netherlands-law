@@ -1,0 +1,2 @@
+# Artikel X
+In overeenstemming met de beginselen van het volkenrecht betreffende de aansprakelijkheid van Staten ter zake van schade toegebracht aan het milieu van andere Staten of aan iedere andere sector van het milieu ten gevolge van het storten van afval of andere stoffen, verbinden de Verdragsluitende Partijen zich tot het ontwikkelen van procedures voor het vaststellen van de aansprakelijkheid en het regelen van geschillen met betrekking tot het storten.

@@ -1,0 +1,2 @@
+# Artikel XXII
+Het originele exemplaar van dit Verdrag, waarvan de Engelse, Franse, Russische en Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Regeringen van Mexico, de Unie van Socialistische Sowjet-Republieken, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Verenigde Staten van Amerika, die daarvan voor eensluidend gewaarmerkte afschriften doen toekomen aan alle Staten.

@@ -1,0 +1,11 @@
+# Artikel VI
+1. Iedere Verdragsluitende Partij wijst één of meer autoriteiten aan die bevoegd zijn tot:
+(a) het verlenen van bijzondere vergunningen die voorafgaande aan de storting vereist zijn voor het storten van de in Bijlage II genoemde stoffen en in de in Artikel V, tweede lid, omschreven omstandigheden;
+(b) het verlenen van algemene vergunningen die voorafgaande aan de storting vereist zijn voor het storten van alle andere stoffen;
+(c) het bijhouden van lijsten, waarop de aard en de hoeveelheden van alle stoffen die gestort mogen worden, alsmede de plaats, de datum en de wijze van storten worden vermeld;
+(d) het afzonderlijk of in samenwerking met andere Partijen en de bevoegde international organisaties verrichten van controlemetingen betreffende de toestand van de zeeën ten behoeve van de uitvoering van dit Verdrag.
+2. De bevoegde autoriteit of autoriteiten van een Verdragsluitende Partij zullen voorafgaand aan de storting de algemene of bijzondere vergunningen verlenen overeenkomstig het bepaalde in het eerste lid hierboven voor de te storten stoffen:
+(a) die geladen worden op haar grondgebied;
+(b) die geladen worden door een schip of een luchtvaartuig dat op haar grondgebied staat ingeschreven of dat haar vlag voert, wanneer het laden plaatsvindt op het grondgebied van een Staat die geen Partij is bij dit Verdrag.
+3. Bij het verlenen van de hierboven onder het eerste lid, letters (a) en (b), bedoelde vergunningen handelt de bevoegde autoriteit of handelen de bevoegde autoriteiten overeenkomstig het bepaalde in Bijlage III en overeenkomstig de aanvullende criteria, maatregelen en voorwaarden die zij ter zake dienende acht, respectievelijk achten.
+4. Iedere Verdragsluitende Partij brengt, rechtstreeks of door tussenkomstvan een bij regionale overeenkomst ingesteld secretariaat, aan de Organisatie en zo nodig aan andere Partijen verslag uit over de in de letters (c) en (d) van het eerste lid van dit artikel bedoelde inlichtingen alsmede over de overeenkomstig het bepaalde in het derde lid van dit artikel door haar aanvaarde criteria, maatregelen en voorwaarden. De te volgen procedure en de aard van deze mededelingen worden in onderling overleg door de Partijen geregeld.
