@@ -1,0 +1,5 @@
+# Artikel IV
+De zelfstandigenaftrek als bedoeld in artikel 44m van de Wet op de inkomstenbelasting 1964 wordt op schriftelijk verzoek verhoogd met f 3300 voor het kalenderjaar 1990, met f 2200 voor het kalenderjaar 1991 en met f 1100 voor het kalenderjaar 1992 ten aanzien van de in het desbetreffende jaar in tariefgroep 2 als bedoeld in artikel 54 van genoemde wet ingedeelde ongehuwde belastingplichtige die in dat jaar winst in de zin van genoemd artikel 44m geniet van minder dan f 29 000 en die tevens in elk van de kalenderjaren 1987, 1988 en 1989 heeft voldaan aan de volgende voorwaarden:
+a. ten aanzien van hem is zelfstandigenaftrek toegepast;
+b. hij is ingedeeld in tariefgroep II als bedoeld in artikel 55 van genoemde wet, zoals dat artikel luidde voor die jaren;
+c. met toepassing van artikel 42 van de Algemene Ouderdomswet (Stb. 1985, 181) onderscheidenlijk artikel 45 van de Algemene Weduwen- en Wezenwet ( Stb. 1965, 429), zoals die artikelen luidden voor die jaren, is het door hem verschuldigde bedrag aan premies volksverzekeringen of premievervangende belasting niet of gedeeltelijk ingevorderd.
