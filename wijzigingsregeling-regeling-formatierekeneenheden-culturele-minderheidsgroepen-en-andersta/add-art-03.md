@@ -1,2 +1,0 @@
-# Artikel III. Bekendmaking
-Deze regeling wordt met de toelichting in Uitleg OCenW-Regelingen geplaatst. Van deze plaatsing zal mededeling worden gedaan in de Staatscourant.
