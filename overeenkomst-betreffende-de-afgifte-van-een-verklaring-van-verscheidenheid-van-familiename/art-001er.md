@@ -1,0 +1,3 @@
+# Article 1er
+1. Le certificat de diversité de noms de famille institué par la présente Convention est destiné à faciliter la preuve de leur identité aux personnes qui, par suite de différences existant entre les législations de certains Etats, notamment en matière de mariage, de filiation ou d'adoption, ne sont pas désignées par le même nom de famille.
+2. Ce certificat a pour seul objet de constater que les divers noms de famille par lui mentionnés désignent, selon des législations différentes, une même personne. Il ne peut avoir pour effet de faire échec aux dispositions légales régissant le nom.
