@@ -1,0 +1,4 @@
+# Article V
+States Parties to the Treaty shall regard astronauts as envoys of mankind in outer space and shall render to them all possible assistance in the event of accident, distress, or emergency landing on the territory of another State Party or on the high seas. When astronauts make such a landing, they shall be safely and promptly returned to the State of registry of their space vehicle.
+In carrying on activities in outer space and on celestial bodies, the astronauts of one State Party shall render all possible assistance to the astronauts of other States Parties.
+States Parties to the Treaty shall immediately inform the other States Parties to the Treaty or the Secretary-General of the United Nations of any phenomena they discover in outer space, including the moon and other celestial bodies, which could constitute a danger to the life or health of astronauts.

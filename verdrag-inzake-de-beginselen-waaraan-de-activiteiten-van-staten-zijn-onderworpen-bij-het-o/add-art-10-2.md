@@ -1,0 +1,3 @@
+# Artikel X
+Ten einde overeenkomstig de doelstellingen van dit Verdrag de internationale samenwerking te bevorderen bij het onderzoek en gebruik van de kosmische ruimte, met inbegrip van de maan en andere hemellichamen, nemen de Staten die partij zijn bij dit Verdrag ieder verzoek van andere Staten die partij zijn bij dit Verdrag, om in de gelegenheid te worden gesteld de vlucht waar te nemen van ruimtevoorwerpen die door die Staten worden gelanceerd, op basis van gelijkheid in overweging.
+De aard van een zodanige gelegenheid tot waarneming en de voorwaarden waaronder deze kan worden gegeven, worden bij overeenkomst tussen de betrokken Staten vastgesteld.

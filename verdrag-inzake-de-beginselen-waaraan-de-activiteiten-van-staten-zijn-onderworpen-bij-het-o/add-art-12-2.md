@@ -1,0 +1,2 @@
+# Artikel XII
+Alle stations, installaties, materieel en ruimtevaartuigen op de maan en andere hemellichamen staan op basis van wederkerigheid open voor vertegenwoordigers van andere Staten die partij zijn bij dit Verdrag. Deze vertegenwoordigers geven een redelijke tijd van tevoren kennis van een voorgenomen bezoek, opdat passend overleg kan plaatsvinden en maximale voorzorgsmaatregelen kunnen worden genomen om de veiligheid te verzekeren en verstoring van de gewone werkzaamheden in het te bezoeken object te vermijden.
