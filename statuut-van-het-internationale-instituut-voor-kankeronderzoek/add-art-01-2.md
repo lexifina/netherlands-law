@@ -1,0 +1,2 @@
+# Artikel I. Doel
+Het doel van het Internationale Instituut voor Kankeronderzoek is de bevordering van internationale samenwerking bij het kankeronderzoek. Het Instituut vormt een middel dat het de Deelnemende Staten en de Wereldgezondheidsorganisatie, in vereniging met het Internationale Verbond tot bestrijding van Kanker en andere daarbij betrokken internationale organisaties mogelijk maakt samen te werken bij het stimuleren van, en het verlenen van steun aan alle fasen van wetenschappelijk onderzoek verband houdende met het kankervraagstuk.

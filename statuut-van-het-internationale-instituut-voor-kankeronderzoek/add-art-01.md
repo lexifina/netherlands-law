@@ -1,0 +1,2 @@
+# Article I. Objective
+The objective of the International Agency for Research on Cancer shall be to promote international collaboration in cancer research. The Agency shall serve as a means through which Participating States and the World Health Organization, in liaison with the International Union against Cancer and other interested international organizations, may co-operate in the stimulation and support of all phases of research related to the problem of cancer.

@@ -1,0 +1,2 @@
+# Article III. Participating States
+Any Member of the World Health Organization may, subject to the provisions of Article XII, participate actively in the Agency by undertaking, in a notification to the Director-General of the World Health Organization, to observe and apply the provisions of this Statute. In this Statute, Members which have made such a notification are termed "Participating States".
