@@ -1,0 +1,11 @@
+# Artikel 17a
+1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent:
+a. de gegevens die Onze Minister met het oog op het opstellen van de begroting verstrekt aan het orgaan, alsmede op welk tijdstip deze gegevens uiterlijk worden verstrekt;
+b. de termijn waarbinnen Onze Minister op het verzoek tot verlening onderscheidenlijk tot vaststelling van de subsidie beslist;
+c. de wijze waarop de subsidie wordt bepaald;
+d. de handelingen, bedoeld in artikel 4:71 van de Algemene wet bestuursrecht, waarvoor het orgaan de toestemming van Onze Minister behoeft;
+e. de gevallen waarin het orgaan een vergoeding voor vermogensvorming als bedoeld in artikel 4:41 van de Algemene wet bestuursrecht verschuldigd is, alsmede hoe deze vergoeding wordt berekend;
+f. het vormen van een egalisatiereserve;
+g. de overige aan de subsidie verbonden verplichtingen;
+h. het verlenen van voorschotten.
+2. De voordracht voor een krachtens het eerste lid vastgestelde algemene maatregel van bestuur wordt niet gedaan dan nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd.

@@ -1,0 +1,4 @@
+# Artikel 3a
+1. In afwijking van artikel 72, derde lid, van de Vreemdelingenwet 2000 zijn de afdelingen 1, 3 en 4 van hoofdstuk 7 van de Vreemdelingenwet 2000 van toepassing op besluiten in het kader van het onthouden dan wel de beëindiging van verstrekkingen bij of krachtens deze wet.
+2. In afwijking van artikel 72, derde lid, van de Vreemdelingenwet 2000 worden handelingen van het orgaan ten aanzien van een vreemdeling als zodanig die worden verricht in het kader van de beëindiging van verstrekkingen bij of krachtens deze wet, voor de toepassing van deze wet met een beschikking gelijkgesteld. De afdelingen 1, 3 en 4 van hoofdstuk 7 van de Vreemdelingenwet 2000 zijn op die beschikking van toepassing.
+3. In afwijking van het eerste en tweede lid is artikel 82 van de Vreemdelingenwet 2000 niet van toepassing.
