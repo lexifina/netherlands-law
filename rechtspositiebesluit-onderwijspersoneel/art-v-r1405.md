@@ -1,3 +1,0 @@
-# Artikel V-R1405. Overgangsrecht leraar verticale scholengemeenschap
-1. De artikelen V-R1401 tot en met V-R1404 zijn niet van toepassing op de leraar die benoemd is in de formatie, bedoeld in artikel I-R1409, onder b, dan wel het deel van zijn benoeming dat daarop betrekking heeft indien hij tevens is benoemd in de formatie als bedoeld in artikel I-R1409, onder a.
-2. Op de in het eerste lid bedoelde leraar zijn de artikelen V-P6, V-R401 tot en met V-R409 van overeenkomstige toepassing.

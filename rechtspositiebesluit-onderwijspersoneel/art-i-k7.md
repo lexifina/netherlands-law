@@ -1,4 +1,0 @@
-# Artikel I-K7. Opschorting aanspraak bij lang buitengewoon verlof overwegend of mede in het algemeen belang
-1. Indien de jubileumdatum valt in een periode waarin de betrokkene lang buitengewoon verlof geniet dat, naar het oordeel van Onze minister, overwegend of mede in het algemeen belang is verleend, heeft hij, onverminderd het bepaalde in artikel I-K6, eerst aanspraak op een jubileumgratificatie zodra hij na afloop van het verlof zijn werkzaamheden aan een instelling hervat.
-2. Bij toepassing van het eerste lid wordt de jubileumgratificatie uitbetaald door het bevoegd gezag van de instelling waaraan de betrokkene na afloop van het verlof werkzaam is.
-3. Daarbij geldt als bezoldiging de bezoldiging die de betrokkene gedurende de maand waarin de jubileumdatum valt zou hebben genoten indien hij in de functie en met het salarisnummer welke hij had op de dag voorafgaande aan het ingaan van het verlof, op de jubileumdatum in actieve dienst was geweest.

@@ -1,2 +1,0 @@
-# Artikel V-R803. Respijtjaar zittend personeel landbouwpraktijkscholen
-De betrekking van de betrokkene die op 28 februari 1987 aan een landbouwpraktijkschool was verbonden en sindsdien als instructeur aan deze instelling verbonden is gebleven, wordt eerst opgeheven nadat zijn functie voor de totale omvang gedurende een schooljaar niet meer is opgenomen geweest in de formatie bedoeld in artikel I-P76, tweede lid, onder a.

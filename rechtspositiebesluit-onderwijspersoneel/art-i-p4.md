@@ -1,3 +1,0 @@
-# Artikel I-P4. Bezoldiging bij een niet-normbetrekking
-1. Het salaris van de betrokkene die is benoemd in een betrekking met een omvang anders dan die van een normbetrekking wordt naar evenredigheid van die betrekkingsomvang berekend. De aldus berekende uitkomst wordt op rekenkundige wijze afgerond op centen.
-2. Waar dit in hoofdstuk of in de hoofdstukken I-Q, I-R of I-S sprake is van een vergelijking van salarisbedragen ten einde een inpassingsschaalbedrag te kunnen vaststellen moet worden uitgegaan van het salarisbedrag behorende bij een normbetrekking. Zonodig wordt het voor een betrokkene feitelijk geldende salaris omgerekend naar een salarisbedrag behorende bij een normbetrekking.

@@ -1,3 +1,0 @@
-# Artikel V-J2. Vergoeding dienstreizen m.b.o. en AOC
-1. Voor de betrokkene bedoeld in artikel I-A1, onder e14 en e15, die werkzaam is aan een instelling, die in meer dan één gebouw is gehuisvest, geldt als standplaats het gebouw waar hij de grootste taakomvang heeft.
-2. De betrokkene, bedoeld in het eerste lid, ontvangt gedurende de periode tot 1 januari 1994 voor het reizen tussen de gebouwen waar de instelling is gehuisvest een vergoeding van de reiskosten bij dienstreizen - met uitzondering van verblijfkosten - overeenkomstig artikel I-J13 van het hoofdstuk I-J zoals dat op 31 december 1993 luidde.

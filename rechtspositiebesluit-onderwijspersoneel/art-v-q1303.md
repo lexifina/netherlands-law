@@ -1,7 +1,0 @@
-# Artikel V-Q1303. Behoud HOS-uitzicht
-1. Op de betrokkene bedoeld in artikel I-A1, onder e15, voor wie op 31 juli 1990 een of meer der artikelen V-Q402, V-Q403, V-Q405, V-Q406, V-R402, eerste en tweede lid, V-R403, V-R404, V-R404a, V-R407 en V-R408 zoals die artikelen op die datum luidden, van toepassing waren, zijn de artikelen V-P6, V-Q401, V-Q402, V-Q405, V-Q406, V-R401, V-R402, V-R403, V-R405 en V-R406 van overeenkomstig toepassing.
-2. De betrokkene bedoeld in artikel I-A1, onder e15 die op 31 juli 1990 en 1 augustus 1990 bij de instelling in dienst is en voor wie op 31 juli 1990 een of meer der artikelen V-Q402, V-Q403, V-Q406, V-R404 en V-R408, zoals die artikelen op die datum luidden, van toepassing waren, behoudt de in die artikelen bedoelde aanspraak indien hij op of na 1 augustus 1990 vrijwillig een functie aanvaardt met een maximumschaal die ten hoogste één lager is dan de maximumschaal bij de functie die hij op 31 juli 1990 bekleedde, mits:
-a. in de door hem niet aanvaarde dan wel nadien opgegeven functie een andere betrokkene wordt benoemd die boventallig is en
-b. die andere betrokkene een aanspraak heeft als bedoeld in de in de aanhef genoemde artikelen die tenminste gelijk is aan het maximumsalaris van de maximumschaal van de functie die behoort bij de functie waarin hij wordt benoemd en
-c. de boventalligheid aan een instelling als bedoeld in artikel I-A1, onder d15, wordt verminderd en
-d. het verschil in salaris van de in het gestelde onder a bedoelde beide betrokkenen niet meer bedraagt dan twee periodieke verhogingen.

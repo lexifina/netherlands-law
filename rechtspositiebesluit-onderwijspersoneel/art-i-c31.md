@@ -1,7 +1,0 @@
-# Artikel I-C31. Lang buitengewoon verlof (facultatief)
-1. Het bevoegd gezag kan aan een betrokkene op diens verzoek uit het geheel of een deel van zijn werkzaamheden lang buitengewoon verlof verlenen. Indien dit verlof wordt verleend is het bepaalde in één van de artikelen I-C32, I-C33 of I-C34 van toepassing, al naar gelang het betreft verlof uitsluitend in het persoonlijk belang, mede in het algemeen belang, dan wel overwegend in het algemeen belang.
-2. Het verlof gaat niet eerder in dan nadat de betrokkene zich schriftelijk akkoord heeft verklaard met de voorwaarden waaronder het verlof wordt verleend.
-3. De voorwaarden bevatten in ieder geval een regeling met betrekking tot de betaling van door de betrokkene aan het bevoegd gezag verschuldigde premiebijdragen ter zake van pensioenen, vervroegde uittreding en sociale verzekeringen, volgens bij of krachtens dit besluit nader te stellen regels.
-4. Het verlof strekt zich naar evenredigheid geheel of gedeeltelijk uit over de schoolvakantie dan wel wordt het vakantieverlof naar evenredigheid verminderd.
-5. Op verzoek van de betrokkene kan het bevoegd gezag in geval van samenloop met andere vormen van verlof, niet zijnde vakantieverlof en in andere daarvoor in aanmerking komende gevallen het verleende verlof opschorten dan wel intrekken en op een ander tijdstip opnieuw verlenen.
-6. De voorschriften in dit artikel zijn niet van toepassing, indien met medewerking van alle betrokkenen het beoogde doel door een omzetting van dienst is te bereiken.

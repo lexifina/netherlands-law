@@ -1,6 +1,0 @@
-# Artikel III-A4. Vereisten voor lidmaatschap van de commissie
-1. Voorzitter, plaatsvervangend voorzitter, lid en plaatsvervangend lid van een commissie kan niet zijn hij die:
-a. zitting heeft in of in dienst is van het instellingsbestuur of het bestuur van een vereniging van instellingsbesturen of organen dan wel van de landelijke organisatie, of deel uitmaakt van het personeel van een instelling waarover die commissie waarvan hij deel uitmaakt, haar werkkring uitstrekt;
-b. in dienst is van een vereniging als bedoeld in artikel 64 van de Wet op het primair onderwijs, artikel 66 van de Wet op de expertisecentra, artikel 40 en artikel 184 van de Wet op het voortgezet onderwijs, artikel 2.51 en 2.59 van de Wet op het cursorisch beroepsonderwijs, artikel 61 van de Wet op de onderwijsverzorging of artikel 9 van de Kaderwet volwasseneneducatie, waarvan het lidmaatschap openstaat voor personeel van instellingen waarvoor de desbetreffende commissie waarvan hij deel uitmaakt is ingesteld;
-c. deel uitmaakt van de rijksinspectie;
-2. Voorzitter en plaatsvervangend voorzitter kan slechts zijn hij die de hoedanigheid van meester in de rechten heeft verkregen op grond van een met goed gevolg afgelegd doctoraal examen in het Nederlands recht aan een Nederlandse universiteit of hogeschool.

@@ -1,2 +1,0 @@
-# Artikel V-Q705. Behoud HOS-uitzicht
-Op de betrokkene bedoeld in artikel I-A1, onder e5, voor wie tot en met 31 juli 1994 op grond van artikel IV, onderdeel 3, onder a, sub 1, van het besluit van 3 juli 1992 (Stb 1992, 389) (Formatiebudgetsysteem) een of meer van de artikelen V-Q701, V-Q702, V-Q703, V-R702, eerste en tweede lid, en V-R703, van toepassing zijn gebleven, zijn de artikelen V-Q701, V-Q702, V-Q703, V-R701, V-R702, en V-R703 van overeenkomstige toepassing.

@@ -1,4 +1,0 @@
-# Artikel I-S111. Arbeidstijdverkorting 60-jarigen en ouder
-1. Voor de betrokkene, benoemd in een volledige weektaak, die de leeftijd van 60 jaar heeft bereikt, wordt op zijn schriftelijk verzoek de dagelijkse werktijd met een half uur verkort, mits hij geen bezoldigde nevenwerkzaamheden verricht of gaat verrichten. In dat geval vervalt tevens het recht op een eventuele ontslaguitkering als bedoeld in hoofdstuk I-H ter zake van beëindigde nevenwerkzaamheden.
-2. De betrokkene op wie het eerste lid van toepassing is verklaard, alsmede de betrokkene die gebruik maakt van hoofdstuk I-V kunnen niet met overwerk als bedoeld in artikel I-S106 worden belast.
-3. Indien de betrokkene, bedoeld in het eerste lid, tevens gebruik maakt van het verlof, bedoeld in hoofdstuk I-V, wordt het verlof, bedoeld in het eerste lid, samengevoegd en in gehele of halve werkdagen verleend.

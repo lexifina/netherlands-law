@@ -1,3 +1,0 @@
-# Artikel I-L3. Aanspraak vakantie-uitkering in bijzondere omstandigheden
-1. Het bepaalde in dit hoofdstuk is mede van toepassing op de gewezen betrokkene, die ingevolge artikel 39, eerste, tweede, vierde of zesde lid van het Besluit ziekte en arbeidsongeschiktheid onderwijs- en onderzoekpersoneel nog bezoldiging geniet.
-2. Voor de betrokkene op wie het bepaalde in artikel I-D3, tweede lid, van toepassing is wordt de vakantie-uitkering berekend op basis van de volle aan zijn betrekking verbonden bezoldiging. Hij geniet deze uitkering slechts voor zoveel die uitgaat boven de vakantie-uitkering, waarop hij als militair aanspraak heeft.

@@ -1,3 +1,0 @@
-# Artikel I-R104. Maximum- en aanloopschalen
-1. Voor elke functie met maximumschaal 9, 10 of 11 geldt dat bij elke maximumschaal een aanloopschaal behoort die één nummer lager is dan de maximumschaal. Bij de de functies met maximumschaal 9, 10 of 11 behoort een begintraject dat voorafgaat aan de aanloopschaal. Voor elke functie met maximumschaal 12 of hoger geldt dat bij elke maximumschaal twee aanloopschalen behoren die één respectievelijk twee nummers lager zijn dan de maximumschaal.
-2. De betrokkene doorloopt het begintraject en de aanloopschalen bij zijn functie volgens het voor hem geldende carrièrepatroon.

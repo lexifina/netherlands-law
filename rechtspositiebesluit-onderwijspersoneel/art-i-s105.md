@@ -1,5 +1,0 @@
-# Artikel I-S105. Bijzonderheden functievervulling
-1. De functie van de betrokkene wordt vervuld binnen de gebouwen of ruimten waarin de instelling of instellingen zijn gehuisvest en op de daarbij behorende terreinen, tenzij de aard van de te verrichten werkzaamheden zich daartegen verzet.
-2. Het bevoegd gezag stelt na overleg met de betrokkene zo mogelijk aan het begin van het school-, cursus- dan wel kalenderjaar een werktijdenregeling vast. De werktijdenregeling wordt met instemming van de betrokkene vastgesteld indien in deze regeling is bepaald dat arbeidsduurverkorting niet in regelmatige terugkerende perioden van een week wordt genoten.
-3. Het bevoegd gezag stelt na overleg met de betrokkene de dagelijkse werktijden vast, waarbij doorgaans per dag niet meer dan 8 uur wordt gewerkt.
-4. Van de op grond van het tweede en derde lid vastgestelde tijden wordt in opdracht van het bevoegd gezag na overleg met de betrokkene incidenteel afgeweken, indien om school-organisatorische redenen de werkzaamheden noodzakelijk op andere tijden dan bedoeld in het tweede lid moeten worden verricht.

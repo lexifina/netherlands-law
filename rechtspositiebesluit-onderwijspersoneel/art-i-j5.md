@@ -1,9 +1,0 @@
-# Artikel I-J5. De hoogte van de tegemoetkoming in verhuiskosten
-1. De tegemoetkoming in verhuiskosten kan slechts bestaan uit:
-a. Een tegemoetkoming in de kosten van transport van de bagage en van de inboedel van de belanghebbende en zijn gezinsleden naar de nieuwe woning, waaronder begrepen de kosten van het in- en uitpakken van breekbare zaken, en in de te maken reiskosten ter bezichtiging van woonruimte en in de eventuele opknapkosten aan de nieuwe woning en dubbele woonkosten, van in totaal een bedrag als aangegeven in de bijlage J1 onder 1, van dit besluit.
-b. een tegemoetkoming voor alle andere direct uit de verhuizing voortvloeiende kosten.
-2. Indien de verhuizing door belanghebbende in eigen beheer wordt uitgevoerd, ontvangt belanghebbende slechts de helft van het in het eerste lid, onder a, bedoelde bedrag.
-3. Het in het eerste lid, onder b, bedoelde bedrag wordt, afhankelijk van het aantal woon/slaapvertrekken dat de achter te laten woning telde, gesteld op een percentage van de jaarbezoldiging die de belanghebbende genoot op de dag waarop de nieuwe woning kon worden betrokken zoals aangegeven in de bijlage J1, onder 2, van dit besluit.
-4. Voor de belanghebbende, die inwonend was bij de ouders is het laagst genoemde percentage zoals aangegeven in de bijlage J1, onder 2, van dit besluit van toepassing.
-5. De belanghebbende, die een woning heeft betrokken op een reisafstand van meer dan 2 zones van de plaats van tewerkstelling, ontvangt slechts 80% van het bedrag van de in het eerste lid onder a en b bedoelde tegemoetkomingen.
-6. De tegemoetkoming in de verhuiskosten voor de belanghebbende, die voor het eerst bij een instelling in dienst treedt en op enig tijdstip wordt benoemd in een standplaatsbetrekking, bedraagt in afwijking van het bepaalde in het eerste tot en met vijfde lid, de helft van de vergoeding waarop hij ingevolge die leden aanspraak zou hebben.

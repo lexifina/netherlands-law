@@ -1,4 +1,0 @@
-# Artikel I-S103. Inschaling
-1. Bij de benoeming van de betrokkene wordt het salaris na toepassing van de artikelen I-P7 tot en met I-P11 vastgesteld in de hoogst mogelijke schaal van het carrièrepatroon dat behoort bij zijn functie.
-2. Indien de betrokkene direct voorafgaand aan zijn benoeming een onderwijsfunctie heeft vervuld waarin hij laatstelijk reeds voor de duur van een jaar werd bezoldigd naar een bedrag vermeld achter het voorlaatste salarisnummer beginnend met de letter U van een van dezelfde schalen 1 tot en met 4 als die waarin het salaris, bedoeld in het eerste lid, wordt vastgesteld, wordt die periode van tenminste een jaar in mindering gebracht op de periode van twee jaar, bedoeld in artikel I-P13, tweede lid, in die nieuwe functie.
-3. Indien aan de functie waarin betrokkene werkzaam is als gevolg van herwaardering een hogere maximumschaal wordt verbonden, wordt het salaris vastgesteld op de in het eerste lid aangegeven wijze.

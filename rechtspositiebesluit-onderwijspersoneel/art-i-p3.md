@@ -1,6 +1,0 @@
-# Artikel I-P3. Invulling normbetrekking
-1. De betrokkene wordt benoemd in een normbetrekking of een deel daarvan, onverminderd het vijfde lid.
-2. De normbetrekking op jaarbasis wordt gerealiseerd door met inachtneming van het verlof op grond van artikel I-C2 respectievelijk artikel I-C7, tweede lid eerste volzin, op jaarbasis uit te gaan van een arbeidsduur van 1710 uren, waaruit verlof wordt verleend op grond van artikel I-C41.
-3. In afwijking van het tweede lid wordt de normbetrekking door het bevoegd gezag op verzoek van betrokkene gerealiseerd door middel van een arbeidsduur op jaarbasis die met inachtneming van het verlof op grond van artikel I-C2 respectievelijk artikel I-C7, tweede lid eerste volzin, wordt gelijkgesteld met 1790 uren, tenzij het dienstbelang zich daartegen verzet.
-4. Aan het derde lid kan geen toepassing worden gegeven indien dat op enigerlei wijze direct leidt tot een plaatsing in de formatie, bedoeld in artikel I-P76, tweede lid onder b, dan wel tot enige uitkering op grond van het Besluit Werkloosheid onderwijs- en onderzoekpersoneel.
-5. Voor de betrokkene geldt dat de omvang van zijn betrekking of betrekkingen, waaronder tevens zijn begrepen werkzaamheden al of niet in dienstverband buiten het onderwijs verricht en waarmee inkomen wordt verworven, de omvang van 120% van een normbetrekking niet te boven mag gaan.

@@ -1,5 +1,0 @@
-# Artikel II-C3. Inhouding van bezoldiging
-1. Inhouding van bezoldiging als zelfstandige disciplinaire straf of maatregel op grond van artikel II-C2, eerste lid onder c, kan geschieden tot een bedrag van ten hoogste de bezoldiging over een halve maand.
-2. Inhouding van bezoldiging als disciplinaire straf of maatregel opgelegd naast de in artikel II-C2, eerste lid onder d, genoemde schorsing, kan geheel of gedeeltelijk geschieden voor ten hoogste de duur van de schorsing.
-3. De ingehouden bezoldiging wordt alsnog uitbetaald, indien door de rechter geen straf wordt opgelegd of het besluit wordt vernietigd, alsmede voor zover op andere andere gronden alsnog tot uitbetaling wordt besloten. Op de aldus uit te keren bezoldiging worden in mindering gebracht de inkomsten, welke de betrokkene sedert de schorsing bedoeld in het tweede lid heeft genoten uit arbeid die hij als gevolg van de schorsing heeft kunnen verrichten, tenzij zulks naar het oordeel van het bevoegd gezag onredelijk of onbillijk is.
-4. Van de inhouding en de uitbetaling van de bezoldiging als bedoeld in dit artikel doet het bevoegd gezag terstond mededeling aan Onze minister.

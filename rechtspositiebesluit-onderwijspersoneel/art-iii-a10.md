@@ -1,3 +1,0 @@
-# Artikel III-A10. Verweerschrift
-1. Binnen twee weken na ontvangst van het door de voorzitter van de commissie toegezonden beroepschrift en de daarbij behorende afschriften doet het instellingsbestuur de voorzitter een verweerschrift in drievoud toekomen. Bij elk exemplaar voegt het instellingsbestuur afschriften van de voornaamste op de zaak betrekking hebbende stukken. De voorzitter kan op tijdig verzoek van het instellingsbestuur de termijn voor verweer in uitzonderlijke gevallen verlengen tot een door hem te bepalen datum.
-2. Na ontvangst van het verweerschrift zendt de voorzitter onverwijld een exemplaar daarvan, vergezeld van de daarbij behorende afschriften, aan de appellant.

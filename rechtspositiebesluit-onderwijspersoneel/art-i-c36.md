@@ -1,4 +1,0 @@
-# Artikel I-C36. Afloop lang buitengewoon verlof
-1. Indien de betrokkene na afloop van een hem verleend lang buitengewoon verlof, als bedoeld in de artikelen I-C31 tot en met I-C35, als gevolg van beperking van de formatieomvang van de instelling zijn werkzaamheden, mede gezien de afvloeiingsregeling, geheel of gedeeltelijk niet kan hervatten, vormt zulks een grond voor ontslag, respectievelijk vermindering van de taakomvang.
-2. De betrokkene die na afloop van een hem verleend lang buitengewoon verlof zijn werkzaamheden niet te bestemder tijd hervat, wordt voor de toepassing van dit besluit geacht te zijn ontslagen.
-3. Het tweede lid is niet van toepassing indien de betrokkene binnen een redelijke termijn aannemelijk maakt dat hij geldige redenen had zijn dienst niet te hervatten, in welk geval het verlof geacht wordt te zijn verlengd tot het tijdstip, waarop bedoelde redenen hebben opgehouden te bestaan.

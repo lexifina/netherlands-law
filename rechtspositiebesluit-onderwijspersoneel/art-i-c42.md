@@ -1,4 +1,0 @@
-# Artikel I-C42. Verlof in verband met niet genoten arbeidsduurverkorting onderwijsgevend personeel
-1. Tot een nader door Onze Minister te bepalen datum kan aan de betrokkene behorend tot het onderwijsgevend personeel die op zijn verzoek geen gebruik maakt van de voor hem geldende arbeidsduurverkorting door een verlaging van de normbetrekking met ingang van 1 augustus 1991, na een periode van minimaal 4 jaar en maximaal 8 jaar verlof worden verleend, waarvan de tijdsduur overeenkomt met de tijd van de niet genoten arbeidsduurverkorting.
-2. Het in het eerste lid bedoelde verlof wordt vermeerderd met extra verlof waarvan de tijdsduur overeenkomt met een percentage van de niet genoten arbeidsduurverkorting.
-3. Onze Minister geeft nadere voorschriften voor de toepassing van het in dit artikel bedoelde verlof.

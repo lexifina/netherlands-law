@@ -1,4 +1,0 @@
-# Artikel I-P88. Persoonsgebonden werkzaamheden
-1. Onze minister kan bepalen dat aan een betrokkene bedoeld in artikel I-A1, onder e1 en e2 en e16 die wordt belast met externe taken ten behoeve van het onderwijs, voor zover hij daarvoor geen vergoeding of verlof op de voet van artikel I-C38 verkrijgt, tijdelijk een gedeelte van een normbetrekking wordt toegekend.
-2. Het in het eerste lid bedoelde gedeelte van een normbetrekking wordt voor de duur waarvoor het wordt toegekend afzonderlijk in de akte van benoeming vermeld. De bezoldiging voor dit gedeelte bedraagt een evenredig gedeelte van het voor de betrokkene geldende salarisbedrag behorende bij een normbetrekking.
-3. Zodra voor de betrokkene het gedeelte van de normbetrekking bedoeld in het eerste lid wordt verminderd, wordt de omvang van de betrekking dienovereenkomstig verkleind.

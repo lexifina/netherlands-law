@@ -1,3 +1,0 @@
-# Artikel I-P10. Vaststelling salaris bij indiensttreding in aansluiting op een betrekking buiten het onderwijs
-1. Het salaris van de betrokkene die een inkomen geniet of heeft genoten voor werkzaamheden die buiten het onderwijs al dan niet in dienstbetrekking zijn verricht en waarin hij relevante ervaring heeft opgedaan, wordt vastgesteld op een bedrag dat ten hoogste één periodieke verhoging hoger is dan evenbedoeld inkomen per maand, in het begintraject of in een salarisschaal die voorkomt in het bij zijn functie behorende carrièrepatroon.
-2. Onze minister geeft nadere voorschriften voor de uitvoering van het eerste lid.

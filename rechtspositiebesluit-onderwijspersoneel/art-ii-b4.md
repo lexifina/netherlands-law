@@ -1,7 +1,0 @@
-# Artikel II-B4. Formaliteiten
-1. Betrokkene brengt, indien gewenst, binnen drie weken, nadat hij door het bevoegd gezag schriftelijk van het voornemen tot schorsing, bedoeld in artikel II-B3, onder a in kennis is gesteld, zijn zienswijze schriftelijk of mondeling naar voren.
-2. Betrokkene brengt, indien, gewenst, onmiddellijk nadat hij door het bevoegd gezag schriftelijk van de maatregel tot schorsing, bedoeld in artikel II B-3, onder b, in kennis is gesteld, zijn zienswijze schriftelijk of mondeling naar voren.
-3. Indien betrokkene mondeling zijn zienswijze kenbaar maakt wordt hiervan door het bevoegd gezag een verslag gemaakt. Dit verslag wordt getekend door het bevoegd gezag en door betrokkene. Weigert de betrokkene de ondertekening, dan wordt daarvan, zo mogelijk met vermelding van de redenen, melding gemaakt. Een afschrift van het verslag wordt aan betrokkene uitgereikt.
-4. Het besluit tot schorsing, bedoeld in artikel II-B3, onder a, wordt uiterlijk binnen een week nadat betrokkene zijn zienswijze heeft kenbaar gemaakt, genomen.
-5. Het besluit tot schorsing, bedoeld in artikel II-B3, onder b, wordt onverwijld doch uiterlijk de tweede dag nadat betrokkene zijn zienswijze heeft kenbaar gemaakt, genomen. Het bevoegd gezag kan betrokkene de toegang tot de school ontzeggen voor zolang het besluit nog niet te zijner kennis is gebracht.
-6. Van het intreden van een schorsing van rechtswege stelt het bevoegd gezag de betrokkene onverwijld doch uiterlijk binnen twee dagen in kennis.

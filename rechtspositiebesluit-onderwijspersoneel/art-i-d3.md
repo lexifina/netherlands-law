@@ -1,2 +1,0 @@
-# Artikel I-D3. Verlof wegens opleiding en oefening
-De betrokkene die ingevolge wettelijke verplichting voor opleiding en oefening als militair in werkelijke dienst is, geniet de aan zijn betrekking verbonden burgerlijke beloning tot een bedrag, gelijk aan het op hem te verhalen gedeelte van de pensioenbijdrage en de Vut-bijdrage ingevolge de regels van het bestuur VUT-fonds met betrekking tot financiering VUT-aanspraken.

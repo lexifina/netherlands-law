@@ -1,2 +1,0 @@
-# Artikel I-Q1309. Restrictie toepassing artikelen I-P53, I-P55 en I-P56
-Het is het bevoegd gezag niet toegestaan de betrokkene extra beloning toe te kennen in de vorm van periodieke verhoging, bedoeld in artikel I-P53, in de vorm van buitengewone toelage, bedoeld in artikel I-P55, dan wel in de vorm van gratificatie, bedoeld in artikel I-P56, in situaties waarin tevens sprake is van gedwongen ontslag van een of meer personeelsleden.

@@ -1,6 +1,0 @@
-# Artikel II-D6. De termijn van opzegging bij beëindiging vast dienstverband
-1. In het geval, bedoeld in artikel II-D2, eerste en derde lid, bedraagt de opzeggingstermijn drie maanden, onverminderd het bepaalde in artikel II-D7.
-2. Bij beëindiging van het dienstverband op grond van artikel II-D3, eerste lid onder a, en artikel II-D3, tweede lid onder e, bedraagt de opzeggingstermijn 3 maanden.
-3. In het geval, bedoeld in artikel II-D3, eerste lid onder b, eindigt het dienstverband op de laatste dag van de maand waarin de pensioengerechtigde leeftijd werd bereikt, tenzij in overeenstemming met de betrokkene de ontslagdatum naar een later tijdstip wordt verschoven.
-4. In de gevallen, bedoeld in artikel II-D3, tweede lid, kan het dienstverband eerst worden beëindigd met ingang van de dag, volgende op die, waarop de reden van het ontslag voor het eerst aanwezig was.
-5. In het geval de betrokkene blijkens het doorlopen van de procedure, bedoeld in artikel 20 van het Besluit ziekte en arbeidsongeschiktheid onderwijs- en onderzoekpersoneel, blijvend ongeschikt is verklaard voor de vervulling van zijn functie, eindigt het dienstverband niet eerder dan op de dag waarop het ontslagbesluit hem ter kennis is gesteld.

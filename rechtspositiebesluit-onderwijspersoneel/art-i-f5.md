@@ -1,4 +1,0 @@
-# Artikel I-F5. Verrekening met andere uitkeringen
-1. Indien de nabestaanden, bedoeld in artikel I-F2, aanspraak hebben op een overlijdensuitkering als bedoeld in artikel 1639l, tweede lid, van het Burgerlijk Wetboek, wordt de uitkering bij overlijden bedoeld in dit hoofdstuk slechts uitbetaald, voor zover deze de eerstgenoemde uitkering te boven gaat.
-2. In geval van overlijden als militair in werkelijke dienst wordt de uitkering bij overlijden verminderd met het bedrag van de overeenkomstige uitkering, die uit hoofde van militaire dienst ter zake wordt gedaan.
-3. In geval van overlijden als gewezen betrokkene, bedoeld in artikel I-F1, onder a3, wordt de uitkering bij overlijden verminderd met het bedrag van de uitkering waarop de nabestaanden van de gewezen betrokkene ter zake van diens overlijden aanspraak kunnen maken krachtens artikel Q6 van de pensioenwet dan wel krachtens enige wettelijk voorgeschreven verzekering wegens ziekte of arbeidsongeschiktheid.

@@ -1,7 +1,0 @@
-# Artikel IV-F2. De organen van georganiseerd overleg
-1. Ten behoeve van de van één bevoegd gezag uitgaande gezamenlijke instellingen die behoren tot eenzelfde categorie als bedoeld in artikel I-A1, onder d, is er een orgaan van georganiseerd overleg.
-2. Bevoegde gezagsorganen kunnen besluiten dat over bepaalde zaken die meer dan één orgaan van georganiseerd overleg aan eenzelfde categorie van instellingen aangaan, overleg wordt gevoerd in een overkoepelend overlegorgaan.
-3. Indien over een bepaalde zaak overleg is gevoerd in een overkoepelend overlegorgaan kan hierover geen overleg meer worden gevoerd in de desbetreffende afzonderlijke organen.
-4. Een bevoegd gezag kan in overleg met het orgaan als bedoeld in het eerste lid, in afwijking van het bepaalde in het eerste lid besluiten dat het overleg over alle zaken die een of een aantal instellingen als bedoeld in het eerste lid aangaan wordt gevoerd in deelorganen.
-5. Bevoegde gezagsorganen kunnen in afwijking van het bepaalde in het eerste lid besluiten dat in plaats van een overlegorgaan bij elk bevoegd gezag het overleg over alle zaken wordt gevoerd in een overkoepelend overlegorgaan. Dit overkoepelend overleg kan meerdere categorieën van instellingen als bedoeld in artikel I-A1, onder d, betreffen.
-6. Bevoegde gezagsorganen kunnen in afwijking van het tweede lid besluiten dat over de zaken, genoemd in artikel IV-F4a, eerste lid, in een overkoepelend overlegorgaan overleg wordt gevoerd dat meerdere categorieën van instellingen als bedoeld in artikel I-A1, onder d, kan betreffen.

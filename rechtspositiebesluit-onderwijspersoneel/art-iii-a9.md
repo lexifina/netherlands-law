@@ -1,4 +1,0 @@
-# Artikel III-A9. Voorlopige behandeling van het beroepschrift
-1. Indien het geschil kennelijk bij een andere commissie moet worden aangebracht, deelt de voorzitter dit onverwijld bij aangetekende brief aan de appellant mee. Over andere gevallen van onbevoegdheid beslist de commissie.
-2. Indien het beroepschrift na de daarvoor gestelde termijn is ingediend, laat de commissie niet-ontvankelijkverklaring op die grond achterwege, indien de appellant aantoont dat hij de voorziening in beroep heeft gevraagd zo spoedig als dit redelijkerwijs verlangd kon worden.
-3. Tenzij de behandeling in het eerste en tweede lid er toe leidt het beroepschrift niet in behandeling te nemen, zendt de voorzitter onmiddellijk na ontvangst van het beroepschrift of hersteld beroepschrift een exemplaar daarvan, vergezeld van de in artikel III-A8, tweede lid, genoemde afschriften, aan het betrokken instellingsbestuur.

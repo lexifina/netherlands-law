@@ -1,2 +1,0 @@
-# Artikel V-H6. Wachtgeld bij vermindering betrekkingsomvang als gevolg van beëindiging samenvoegingsboventalligheid
-Onze minister verleent desgevraagd aan de betrokkene wiens betrekking per 1 augustus 1991 gedeeltelijk is opgeheven in verband met de beëindiging van samenvoegingsboventalligheid als bedoeld in de circulaire BO/BO-87017 334 van 27 november 1987, met ingang van eerstgenoemde datum een wachtgeld over het opgeheven deel van de betrekking.

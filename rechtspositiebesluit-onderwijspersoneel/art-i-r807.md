@@ -1,2 +1,0 @@
-# Artikel I-R807. Restrictie toepassing artikelen I-P53 en I-P55 tot en met I-P58
-Het is het bevoegd gezag niet toegestaan de betrokkene extra beloning toe te kennen in de vorm van een periodieke verhoging, bedoeld in artikel I-P53, in de vorm van een buitengewone toelage, bedoeld in artikel I-P55, in de vorm van een gratificatie, bedoeld in artikel I-P56, dan wel in de vorm van uitkering of toelage om redenen van werving en behoud als bedoeld in de artikelen I-P57 en I-P58, in situaties waarin tevens sprake is van gedwongen ontslag van een of meer personeelsleden.

@@ -1,3 +1,0 @@
-# Artikel I-C4. Vakantieverlof kort-tijdelijk personeel en cursussen
-1. Voor de betrokkene, die een benoeming heeft voor korter dan één jaar aan een instelling of instellingen met een jaarcursus, geldt artikel I-C2, eerste lid, met dien verstande, dat alleen in aanmerking komen de vakanties, gelegen tussen de eerste en de laatste dag van zijn werkzaamheden, tenzij de betrokkene is benoemd vóór 1 maart en zijn werkzaamheden voortzet tot aan de zomervakantie, in welk geval in aanmerking komen de vakanties, gelegen tussen de eerste dag van zijn werkzaamheden en het einde van het schooljaar.
-2. Het eerste lid laat onverlet de aanspraak op een evenredig gedeelte van vier weken vakantie per schooljaar.

@@ -1,2 +1,0 @@
-# Artikel V-R1402. Vergrote v.b. vóór 1 april 1985
-De leraar bedoeld in artikel I-A1, onder e17, voor wie op 31 juli 1993 artikel V-Q404 dan wel artikel V-R404, zoals die artikelen op die datum luidden, van toepassing was en die op 1 augustus 1993 in dienst is bij een instelling, bedoeld in artikel I-A1, onder d17, en voor wie een betrekkingsomvang van meer dan 38 uur is berekend, komt niet voor bezoldiging in aanmerking voor het verschil tussen 38 uur en de voor hem 1 augustus 1993 geldende betrekkingsomvang.
