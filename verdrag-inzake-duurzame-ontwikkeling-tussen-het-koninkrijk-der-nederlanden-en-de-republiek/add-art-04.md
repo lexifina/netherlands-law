@@ -1,0 +1,3 @@
+# Artikel IV
+1. De samenwerking, en in het bijzonder de beleidsmaatregelen, afspraken, programma's en projecten zoals bedoeld in artikel I, zullen tot stand komen op basis van de tussen beide landen bestaande verdragen, beleidsmaatregelen, afspraken, programma's en projecten, en zullen op geen enkele wijze gevolgen hebben voor de verplichtingen die beide landen in het kader van andere verdragen zijn aangegaan.
+2. Wat betreft de eventuele programma's en projecten voor duurzame ontwikkeling die tussen beide Regeringen zijn overeengekomen vóór de datum van de inwerkingtreding van dit Verdrag, en die nog niet op die datum zijn afgerond, zullen beide Regeringen besluiten of, en zo ja in welke mate, het desbetreffende project of programma door dit Verdrag zal worden geregeld.

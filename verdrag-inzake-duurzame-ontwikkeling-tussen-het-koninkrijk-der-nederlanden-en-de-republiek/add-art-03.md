@@ -1,0 +1,2 @@
+# Artikel III
+Onverminderd hun respectievelijke internationale verplichtingen, zullen beide Regeringen gezamenlijk overleg voeren over de in te nemen standpunten ten aanzien van onderwerpen inzake duurzame ontwikkeling die in internationale instanties en specialistische internationale conferenties aan de orde worden gesteld. Indien dit nodig en wenselijk wordt geacht, zullen ook andere landen bij dit overleg worden betrokken.

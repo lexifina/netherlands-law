@@ -1,0 +1,3 @@
+# Artikel I
+1. De twee Regeringen komen hierbij overeen een langdurige samenwerking tussen hun landen, die gebaseerd is op gelijkwaardigheid en wederkerigheid, evenals op wederzijdse hulp en overleg, teneinde op effectieve en efficiënte wijze duurzame ontwikkeling in al zijn facetten na te streven, waarbij de participatie van alle maatschappelijke belangengroeperingen wordt bevorderd.
+2. Overeenkomstig het bovenstaande scheppen zij hierbij een wettelijk en institutioneel kader voor de ontwikkeling en uitvoering van beleidsmaatregelen, afspraken, programma's en projecten die zijn gericht op verwezenlijking van de doelstelling van dit Verdrag.
