@@ -1,0 +1,3 @@
+# Artikel XV
+1. Besluiten en overige rechtshandelingen welke voor de inwerkingtreding van deze regeling op grond van de in de voorgaande artikelen genoemde regelingen zijn genomen, respectievelijk verricht door het Voedselvoorzieningsin- en verkoopbureau als bedoeld in artikel 31 van de Landbouwwet gelden als besluiten, respectievelijk rechtshandelingen van de Minister van Landbouw, Natuurbeheer en Visserij.
+2. Aanvragen, bezwaren en beroepen welke voor de inwerkingtreding van deze regeling op grond van de in de voorgaande artikelen genoemde regelingen zijn gericht tot het Voedselvoorzieningsin-en verkoopbureau als bedoeld in artikel 31 van de Landbouwwet gelden als aanvragen, bezwaren en beroepen gericht tot de Minister van Landbouw, Natuurbeheer en Visserij.
