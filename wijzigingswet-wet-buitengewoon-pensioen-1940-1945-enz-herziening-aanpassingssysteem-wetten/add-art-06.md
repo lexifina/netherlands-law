@@ -1,0 +1,2 @@
+# Artikel VI
+Artikel 31a van de Wet buitengewoon pensioen 1940-1945, artikel 28a van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers, artikel 35 van de Wet buitengewoon pensioen Indisch verzet, artikel 18 van de Wet uitkeringen vervolgingsslachtoffers 1940-1945 en artikel 25 van de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945, zoals deze artikelen luidden voor 1 januari 1995, blijven van toepassing ten aanzien van wijzigingen in de bezoldiging van het rijkspersoneel voor die datum.
