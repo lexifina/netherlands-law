@@ -1,0 +1,3 @@
+# Artikel VIII
+1. De tekst van het Eerste Boek van het Wetboek van Burgerlijke Rechtsvordering en van de overige wettelijke bepalingen die op de voet van het tweede lid worden gewijzigd, wordt in het Staatsblad geplaatst.
+2. Voor de plaatsing in het Staatsblad stelt Onze Minister van Justitie de nummering van de artikelen, paragrafen, afdelingen en titels van het Wetboek van Burgerlijke Rechtsvordering opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van artikelen, paragrafen, afdelingen en titels van het Wetboek van Burgerlijke Rechtsvordering met de nieuwe nummering in overeenstemming.
