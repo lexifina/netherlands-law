@@ -1,0 +1,3 @@
+# Artikel 86a
+1. De Dienst Wegverkeer laat met het oog op het toezicht op het verrichten van keuringen, keuringen uitvoeren door het ter keuring aanbieden van een voertuig in bij ministeriële regeling vast te stellen gevallen.
+2. Bij ministeriële regeling kunnen regels worden vastgesteld betreffende de wijze waarop de keuring wordt uitgevoerd. Deze regels kunnen inhouden dat verscherpt toezicht wordt gehouden indien blijkt dat er door een natuurlijke persoon die daartoe niet bevoegd is motorrijtuigen en aanhangwagens, waarvoor artikel 72 geldt, met uitzondering van bussen als bedoeld in de Wet personenvervoer, aan een keuring worden onderworpen.

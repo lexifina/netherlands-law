@@ -1,0 +1,6 @@
+# Artikel 85a
+1. De Dienst Wegverkeer kan aan een natuurlijke persoon de bevoegdheid verlenen motorrijtuigen en aanhangwagens, waarvoor artikel 72 geldt, met uitzondering van bussen als bedoeld in de Wet personenvervoer, aan een keuring te onderwerpen. Ten bewijze van deze bevoegdheid verstrekt de Dienst Wegverkeer de betrokken persoon een bevoegdheidspas.
+2. De bevoegdheid voertuigen aan een keuring te onderwerpen geldt voor motorrijtuigen en aanhangwagens die behoren tot een in de verlening van de bevoegdheid voertuigen aan een keuring te onderwerpen aangewezen groep, en kan gelden voor bepaalde of onbepaalde tijd.
+3. De bevoegdheid voertuigen aan een keuring te onderwerpen wordt verleend indien de natuurlijke persoon voldoet aan bij ministeriële regeling vastgestelde eisen.
+4. Bij ministeriële regeling worden regels vastgesteld met betrekking tot de aanvraag tot het verlenen van de bevoegdheid voertuigen aan een keuring te onderwerpen en met betrekking tot de bevoegdheidspas.
+5. Bij ministeriële regeling kunnen voorschriften worden vastgesteld die aan de bevoegdheid voertuigen aan een keuring te onderwerpen worden verbonden en kunnen met betrekking tot die voorschriften regels worden vastgesteld.

@@ -1,0 +1,4 @@
+# Artikel 70i
+1. In geval van overdracht van een motorrijtuig of aanhangwagen aan een erkend bedrijf als bedoeld in artikel 62, ten behoeve van uitvoer naar het buitenland of voorgoed buiten gebruikstelling, is de eigenaar of houder verplicht tot inlevering van de betrokken kentekenplaten bij dat bedrijf tegelijk met de overdracht.
+2. In geval van uitvoer naar het buitenland anders dan door een erkend bedrijf als bedoeld in artikel 62, is de eigenaar of houder van het motorrijtuig of de aanhangwagen verplicht tot inlevering van de betrokken kentekenplaten bij de Dienst Wegverkeer tegelijk met de uitvoer.
+3. Indien het kentekenbewijs zijn geldigheid heeft verloren, anders dan in geval van het eerste of het tweede lid, kan de Dienst Wegverkeer verlangen dat de betrokken kentekenplaten binnen een bepaalde termijn bij deze dienst worden ingeleverd.
