@@ -15,6 +15,20 @@
 #### Afdeling 10A. Koop van rechten van gebruik in deeltijd van onroerende zaken
 #### Afdeling 12. Ruil
 ### Titel 3. Schenking
+### Titel 4. Huur
+#### Afdeling 1. Algemene bepalingen
+#### Afdeling 2. Verplichtingen van de verhuurder
+#### Afdeling 3. De verplichtingen van de huurder
+#### Afdeling 4. De overgang van de huur bij overdracht van de verhuurde zaken en het eindigen van de huur
+#### Afdeling 5. Huur van woonruimte
+##### Onderafdeling 1. Algemeen
+##### Onderafdeling 2. Huurprijzen en andere vergoedingen
+###### Paragraaf 1. Huurprijzen
+###### Paragraaf 2. Andere vergoedingen
+###### Paragraaf 3. Slotbepalingen
+##### Onderafdeling 3. Medehuur en voortzetting van de huur
+##### Onderafdeling 4. Het eindigen van de huur
+#### Afdeling 6. Huur van bedrijfsruimte
 ### Titel 7. Opdracht
 #### Afdeling 1. Opdracht in het algemeen
 #### Afdeling 2. Lastgeving
