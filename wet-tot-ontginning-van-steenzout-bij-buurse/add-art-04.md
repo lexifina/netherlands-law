@@ -1,0 +1,2 @@
+# Artikel IV
+De wetten van 21 April 1810 (Bulletin des Lois n°. 285), van 27 April 1904 (Staatsblad n°. 73), gewijzigd bij de wet van 29 Juni 1912 (Staatsblad n°. 202) en bij de wet van 16 December 1916 (Staatsblad n°. 552), en van 6 Maart 1915 (Staatsblad n°. 141) zijn op de in deze wet bedoelde ontginning van toepassing, de eerstgenoemde wet (van 1810) voor zoover daarvan niet bij deze wet wordt afgeweken, de in de tweede plaats genoemde wet (van 1904) met uitzondering van de artikelen 1-8.
