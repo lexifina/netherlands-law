@@ -1,5 +1,5 @@
 # Artikel 9a
-1. In afwijking van artikel 9 is voor de pensioengerechtigde, die niet in Nederland woont, het bruto-ouderdomspensioen gelijk aan het bedrag, bedoeld in artikel 9, tiende lid, onderdeel b, onverminderd artikel 13, eerste lid.
+1. In afwijking van artikel 9 is voor de pensioengerechtigde, die niet in Nederland woont, het bruto-ouderdomspensioen gelijk aan het bruto-ouderdomspensioen voor de pensioengerechtigde, bedoeld in artikel 9, eerste lid, onderdeel b, onverminderd artikel 13, eerste lid.
 2. Artikel 8a, tweede lid, is van overeenkomstige toepassing.
 3. Bij of krachtens algemene maatregel van bestuur kunnen ten aanzien van het eerste lid afwijkende regels worden gesteld ten gunste van:
 a. de pensioengerechtigde, bedoeld in artikel 9, eerste lid, onderdeel a of c, die werkzaamheden verricht in het algemeen belang en niet in Nederland woont;

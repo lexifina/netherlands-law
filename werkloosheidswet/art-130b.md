@@ -1,9 +1,0 @@
-# Artikel 130b
-1. Bij algemene maatregel van bestuur kan ten behoeve van een experiment met een tijdsduur van ten hoogste vier jaar, dat ten doel heeft de inschakeling in het arbeidsproces te bevorderen van werknemers die recht hebben op uitkering op grond van hoofdstuk IIa of IIb, het Uitvoeringsinstituut werknemersverzekeringen de bevoegdheid worden gegeven tot toekenning van loonsuppletie bij werkaanvaarding tegen een lager loon dan de uitkering die, als gevolg van de eindiging van het recht daarop wegens de vermindering van het verlies aan arbeidsuren, niet langer wordt betaald.
-2. Voor de toepassing van de artikelen 22, 22a, 23, 25, 27a tot en met 27g, 30 tot en met 34, 36 tot en met 41, 93, 97b, 97f, 97i en 129 en de daarop berustende bepalingen alsmede voor de toepassing van andere wetten en de daarop berustende bepalingen wordt de loonsuppletie aangemerkt als uitkering op grond van de verplichte verzekering op grond van de Werkloosheidswet.
-3. In de in het eerste lid bedoelde algemene maatregel van bestuur wordt in ieder geval bepaald:
-a. de periode gedurende welke de bevoegdheid tot toekenning van loonsuppletie bestaat;
-b. aan welke groepen werknemers loonsuppletie kan worden toegekend;
-c. het resultaat dat met het experiment wordt beoogd.
-4. In de in het eerste lid bedoelde algemene maatregel van bestuur kan worden bepaald dat met betrekking tot bij dat besluit aan te wijzen onderdelen van het experiment door het Uitvoeringsinstituut werknemersverzekeringen nadere regels worden gesteld of kunnen worden gesteld. Die nadere regels behoeven de goedkeuring van Onze Minister.
-5. Bij algemene maatregel van bestuur kan een experiment als bedoeld in het eerste lid na afloop van de looptijd worden voortgezet tot een structurele wettelijke regeling is getroffen, doch niet langer dan met een tijdsduur van ten hoogste twee jaar. Het tweede tot en met vierde lid zijn van overeenkomstige toepassing.
