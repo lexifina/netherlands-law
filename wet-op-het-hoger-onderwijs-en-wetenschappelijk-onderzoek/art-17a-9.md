@@ -4,3 +4,4 @@
 a life science and technology aan de openbare universiteit te Delft,
 b telematica aan de openbare universiteit te Enschede, en
 c voeding en gezondheid aan de openbare universiteit te Wageningen.
+3. In afwijking van het eerste lid zijn met betrekking tot het toezicht op de in dat lid bedoelde opleidingen de voorschriften van de Wet op het onderwijstoezicht van toepassing.
