@@ -1,0 +1,5 @@
+# ARTIKEL XVI
+1. Als een schip of een vaartuig van een der verdragsluitende Partijen gestrand is of schipbreuk heeft geleden in de wateren van den anderen Staat, zullen het schip of vaartuig, zijn passagiers en zijn lading dezelfde gunsten en vrijdommen genieten, als die, welke de wetten en reglementen van het betrokken land in overeenkomstige gevallen toekennen of zullen toekennen aan nationale schepen en vaartuigen of aan die van de meestbegunstigde natie.
+Aan den kapitein en aan de bemanning zal, zoowel voor henzelf als ten behoeve van het schip of vaartuig, de passagiers en de lading, in gelijke mate hulp en bijstand worden verleend als aan de eigen onderdanen.
+2. Voor wat betreft het bergloon, zal de wetgeving worden toegepast van het land, waar de berging heeft plaats gehad.
+3. De koopwaren, die van een schip of vaartuig, hetwelk is gestrand of schipbreuk heeft geleden, worden geborgen, zullen aan geen enkel douanerecht worden onderworpen, tenzij zij worden toegelaten tot het binnenlandsch verbruik.

@@ -1,0 +1,3 @@
+# ARTICLE XVII
+1. Les Parties Contractantes se garantissent réciproquement sur leur territoire en tout ce qui concerne les diverses formalités, administratives ou autres, rendues nécessaires par l'application des dispositions contenues dans le présent Traité, le traitement de la nation la plus favorisée.
+2. Il est entendu toutefois que les stipulations énoncées dans les articles précédents, en tant qu'elles garantissent le traitement de la nation la plus favorisée, ne dérogent en rien aux lois, ordonnances et règlements de sûreté générale et sur l'exercice de certains métiers et professions qui sont ou seront en vigueur dans chacun des pays et applicables à tous les étrangers.

@@ -1,0 +1,3 @@
+# VII. En ce qui concerne l'article XI.
+1. Aussi longtemps que la frontière entre la Pologne et un des pays limitrophes restera pour une raison quelconque fermée aux voyageurs ou aux marchandises de la Pologne ou du pays limitrophe en question, le Gouvernement Polonais ne sera pas considéré comme tenu d'accorder aux Pays-Bas sur la frontière dudit pays les facilites prévues par l'article XI.
+2. Les dispositions concernant la communication par chemin de fer avec un État tiers ne seront appliquées qu'au cas où une convention sur la communication directe par chemin de fer aura été conclue avec cet État.

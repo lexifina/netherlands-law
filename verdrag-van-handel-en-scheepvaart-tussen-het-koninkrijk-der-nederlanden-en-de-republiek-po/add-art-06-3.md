@@ -1,0 +1,3 @@
+# ARTIKEL VI
+1. Teneinde de voordeelen, vastgelegd in bovenstaande bepalingen, voor te behouden aan de producten, afkomstig uit hare onderscheiden landen, zullen de verdragsluitende Partijen bevoegd zijn te eischen, dat de producten en koopwaren op haar grondgebied ingevoerd, vergezeld zijn van een certificaat van oorsprong.
+2. De certificaten van oorsprong zullen worden afgegeven, hetzij door de Kamers van Koophandel onder welke de verzender ressorteert, hetzij door eenig ander orgaan of lichaam, goedgekeurd door het land van bestemming. Bedoelde certificaten zullen worden gelegaliseerd door een diplomatiek of consulair vertegenwoordiger van het land van bestemming.

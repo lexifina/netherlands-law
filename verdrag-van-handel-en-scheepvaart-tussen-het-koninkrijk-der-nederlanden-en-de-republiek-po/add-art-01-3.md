@@ -1,0 +1,2 @@
+# ARTIKEL I
+De onderdanen van de eene Hooge Verdragsluitende Partij, die gevestigd zijn op het grondgebied der andere Partij of die daar tijdelijk verblijf houden, zullen voor wat betreft de vestiging en de uitoefening van den handel en de nijverheid op het grondgebied der andere Partij, dezelfde rechten, voorrechten, vrijdommen, gunsten en vrijstellingen genieten als de onderdanen van de meestbegunstigde natie.

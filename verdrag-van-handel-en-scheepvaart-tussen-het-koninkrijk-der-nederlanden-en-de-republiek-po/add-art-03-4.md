@@ -1,0 +1,3 @@
+# III. Betreffende art. V.
+1. Aangezien art. V van dit Verdrag aan de producten van den bodem en de nijverheid van de onderscheiden landen de behandeling der meestbegunstigde natie toekent, stellen de Hooge Verdragsluitende Partijen vast, dat de instelling wegens muntdepreciatie door een Harer, van surtaxen of toeslags-coëfficienten op de invoerrechten, welke de producten van den bodem en de industrie der wederpartij treffen, in strijd zou zijn met den geest van het onderwerpelijke Verdrag.
+2. Het is wel verstaan, dat de beperkingen en verboden van economischen aard slechts zullen worden gehandhaafd voor den tijd en in de mate, dat zulks door de daarop betrekking hebbende economische omstandigheden onvermijdelijk gemaakt wordt.

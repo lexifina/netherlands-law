@@ -1,0 +1,3 @@
+# III. En ce qui concerne l'article V.
+1. Vu que l'article V de ce Traité accorde aux produits du sol et de l'industrie des pays respectifs le traitement de la nation la plus favorisée, les Hautes Parties Contractantes constatent que l'établissement par l'une d'elles pour cause de dépréciation du change, de surtaxe ou de coefficients de majoration de droits d'entrée, frappant les produits du sol et de l'industrie de l'autre, serait contraire à l'esprit du présent Traité.
+2. II est bien entendu que les restrictions ou prohibitions de caractère économique ne seront maintenues que pour le temps et dans la mesure rendus indispensables par les conditions économiques y relatives.

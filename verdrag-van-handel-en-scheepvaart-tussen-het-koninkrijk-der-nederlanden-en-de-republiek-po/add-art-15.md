@@ -1,0 +1,7 @@
+# ARTICLE XV
+1. Seront complètement affranchis de tous droits grevant les navires et bateaux et la navigation dans les ports du pays respectif:
+a. les navires et bateaux qui, entrés sur lest, de quelque lieu que ce soit, en sortirent sur lest:
+b. les navires et bateaux qui, passant d'un port de l'un des deux pays dans un ou plusieurs ports du même pays, justifieront qu'ils ont déjà acquitté les droits en question au cours du même voyage, dans un autre port du même pays;
+c. les navires et bateaux qui, entrés avec cargaison dans un port, soit volontairement, soit en relâche forcée, en sortiront sans avoir fait aucune opération de commerce.
+2. L'exonération dont il s'agit à l'alinéa précédent ne s'appliquera pas aux droits de pilotage, de port, de remorque, de quarantaine, ni à tous autres droits grevant les navires et bateaux et que les navires et bateaux nationaux et ceux de la nation la plus favorisée ont à acquitter dans les mêmes conditions pour services rendus ou dispositions prises dans l'intérêt de la navigation.
+3. Ne seront pas considérés en cas de relâche forcée, comme opération de commerce: le débarquement et le rembarquement des passagers et de leurs effets ainsi que des marchandises pour la réparation du navire ou bateau, le transbordement sur un autre navire ou bateau en cas d'innavigabilité du navire ou bateau, l'achat de provisions nécessaires pour le ravitaillement des équipages et des passagers, la vente des marchandises avariées, lorsque l'administration des douanes en aura donné l'autorisation.

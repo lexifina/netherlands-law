@@ -1,0 +1,3 @@
+# ARTICLE XX
+Le Gouvernement Polonais, auquel il appartient d'assurer la conduite des affaires extérieures de la Ville Libre de Dantzig en vertu de l'article 104 du Traité de Versailles, et des articles 2 et 6 de la Convention de Paris entre la Pologne et la Ville Libre de Dantzig du 9. XI. 20, se réserve le droit de déclarer que la Ville Libre est Partie Contractante du présent Traité et qu'elle accepte les obligations et acquiert les droits en dérivant.
+Cette réserve ne se rapporte pas aux dispositions du présent Traité, lesquelles la République Polonaise contracte, en ce qui concerne la Ville Libre de Dantzig, conformément à ses droits découlant des traités y relatifs.

@@ -1,0 +1,3 @@
+# ARTIKEL XVII
+1. De verdrag sluitende Partijen waarborgen elkander over en weder op haar grondgebied de behandeling van de meestbegunstigde natie voor alles wat betreft de verschillende administratieve of andere formaliteiten, welker vervulling noodzakelijk gemaakt wordt door de toepassing van de bepalingen, vervat in dit verdrag.
+2. Het is intusschen wel verstaan, dat de bepalingen, uitgedrukt in de voorafgaande artikelen, voor zoover zij de behandeling der meestbegunstigde natie waarborgen, in niets inbreuk maken op de wetten, ordonnanties en reglementen, de openbare veiligheid en de uitoefening van sommige vakken en beroepen betreffende, welke in ieder der landen van kracht en op alle vreemdelingen van toepassing zijn of zullen worden.

@@ -1,0 +1,4 @@
+# ARTICLE XVI
+1. Si un navire ou bateau de l'une des Parties Contractantes s'est échoué ou a fait naufrage dans les eaux de l'autre État, le navire ou bateau, ses passagers et sa cargaison jouiront des mêmes faveurs et immunités que les lois et règlements du pays respectif accordent ou accorderont dans des circonstances analogues aux navires et bateaux nationaux ou à ceux de la nation la plus favorisée. Il sera donné, dans la même mesure qu'aux nationaux, aide et assistance au capitaine et à l'équipage, tant pour eux-mêmes que pour le navire ou bateau, les passagers et la cargaison.
+2. En ce qui concerne le droit de sauvetage, il sera fait application de la législation du pays où le sauvetage a en lieu.
+3. Les marchandises sauvées d'un navire ou bateau échoué ou naufragé ne seront assujettis à aucun droit de douane, à moins qu'elles ne soient admises à la consommation intérieure.

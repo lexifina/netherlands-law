@@ -1,0 +1,2 @@
+# ARTIKEL IV
+De buitenlandsche rechten en belastingen, geheven voor rekening van den Staat, de provinciën, gemeenten of openbare instellingen, welke op het gebied van een der verdragsluitende Partijen drukken of zullen komen te drukken op de voortbrenging of de bereiding van koopwaren of op het verbruik van een artikel, zullen de producten, koopwaren of artikelen der andere Partij niet zwaarder mogen treffen dan de producten, koopwaren of artikelen van dezelfde soort van de meestbegunstigde natie.

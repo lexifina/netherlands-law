@@ -1,0 +1,2 @@
+# II. En ce qui concerne l'article II.
+Il est entendu que les dispositions de article II, selon lesquelles les ressortissants des Hautes Parties Contractantes auront le droit d'ester en justice devant des Tribunaux sur un pied d'égalité avec les nationaux, de même que les dispositions de l'article III concernant le libre accès des sociétés anonymes et autres auprès des tribunaux, ne s'appliquent pas à l'assistance judiciaire gratuite ni à la dispense de la ,,cautio judicatum solvi''.

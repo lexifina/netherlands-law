@@ -1,0 +1,2 @@
+# II. Betreffende art. II.
+Het is wel verstaan, lat de bepalingen van art. II, volgens welke de onderdanen der Hooge Verdragsluitende Partijen het recht zullen hebben om voor de rechtbanken te kunnen optreden op voet van gelijkheid met de eigen onderdanen, alsmede de bepaling van art. III, betreffende den vrijen toegang der naamlooze en andere vennootschappen tot de rechtbanken, niet van toepassing zijn op het verleenen van kosteloozen rechtsbijstand, noch op de vrijstelling van de ,,cautio judicatum solvi''.

@@ -1,0 +1,3 @@
+# VII. Betreffende art. XI.
+1. Gedurende den tijd, dat de grens tusschen Polen en een der aangrenzende landen om een of andere reden gesloten blijft voor reizigers en koopwaren uit Polen of uit het onderwerpelijke aangrenzende land, zal de Poolsche Regeering niet geacht worden gehouden te zijn aan Nederland aan de grens van bedoeld land de vergemakkelijkingen te verleenen, voorzien in art. XI.
+2. De bepalingen betreffende de spoorwegverbinding met een derden Staat zullen slechts worden toegepast in het geval, dat een verdrag over de rechtstreeksche spoorwegverbinding met dien Staat zal zijn gesloten.

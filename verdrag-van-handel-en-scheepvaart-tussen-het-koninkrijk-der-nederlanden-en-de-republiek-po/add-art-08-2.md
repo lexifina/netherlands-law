@@ -1,0 +1,4 @@
+# VIII. En ce qui concerne les articles XI—XVII.
+1. Les entreprises d'émigration autorisées dans l'un des Pays respectifs bénéficieront sous tous les rapports dans le territoire de l'autre Pays des mêmes droits, privilèges, immunités et exceptions que les entreprises similaires du pays le plus favorisé. Il est entendu toutefois qu'aucune des Parties Contractantes ne pourra invoquer le principe de la nation la plus favorisée pour prétendre dans l'acte de concession à la désignation d'un port spécial pour l'embarquement des émigrants.
+2. En ce qui concerne le cabotage maritime et fluvial les Hautes Parties Contractantes s'accordent réciproquement le traitement de la nation la plus favorisée. le Gouvernement Néerlandais se réservant toutefois le droit de cabotage aux Indes Néerlandaises, Surinam et Curaçao.
+3. Il est entendu que les dispositions de l'article XVI ne dérogent en rien aux conventions internationales en ce qui concerne le sauvetage et le secours.
