@@ -1,0 +1,3 @@
+# Artikel II
+A. De lichamen, bedoeld in artikel U 2 en de lichamen, bedoeld in artikel B3, waarvan het personeel op de dag voor het tijdstip van de inwerkingtreding van deze wet ambtenaar is in de zin van de Algemene burgerlijke pensioenwet, worden geacht te zijn aangewezen bij een besluit van het bestuur van het Algemeen burgerlijk pensioenfonds.
+B. Tot het tijdstip waarop de in artikel B 3, tweede lid, van de Algemene burgerlijke pensioenwet bedoelde regels zijn bekend gemaakt in de Nederlandse Staatscourant, neemt het bestuur van het Algemeen burgerlijk pensioenfonds de richtlijnen in acht die door Ons tot het tijdstip van inwerkingtreding van deze wet werden gehanteerd voor de toepassing van het voormelde artikel.
