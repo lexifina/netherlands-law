@@ -20,12 +20,6 @@
 #### § 3. Omvang van het pluimveerecht op het tijdstip van inwerkingtreding van de wet
 #### § 4. Bepalingen inzake de overgang van het pluimveerecht
 #### § 5. Overige bepalingen met betrekking tot het pluimveerecht
-### Titel 3. Regels inzake de mestproductie in verhouding tot de mestplaatsingsruimte
-#### § 1. Algemeen
-#### § 2. Maximum stikstofproductie per jaar
-#### § 3. Maximum stikstofproductie op enig moment
-#### § 4. Regels met betrekking tot het aangaan van een verplichting tot afname van dierlijke meststoffen
-#### § 5. Overige regels
 ## Hoofdstuk VI. Overige bepalingen
 ## Hoofdstuk VII. Toezicht
 ## Hoofdstuk VIII. Slotbepalingen
