@@ -1,0 +1,2 @@
+# Artikel 7a
+Een certificaat inzake goederenverkeer voor goederen, waar op de in de internationale afspraken, bedoeld in artikel I, eerste lid, letter b, van het besluit opgenomen regelingen betreffende de oorsprong van goederen niet van toepassing zijn, wordt slechts afgegeven indien wordt voldaan aan het bepaalde in de ade artikelen 23 tot en met 25 van de Verordening (EEG) nr. 2913/92 van de Raad van de Europese Gemeenschappen van 12 oktober 1992 tot vaststelling van het communautair douanewetboek (PbEG L 302).
