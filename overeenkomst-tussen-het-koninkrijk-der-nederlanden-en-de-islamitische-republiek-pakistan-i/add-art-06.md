@@ -1,0 +1,2 @@
+# Article VI
+The provisions of this Agreement concerning Netherlands personnel shall apply equally to all persons, other than Pakistan nationals, employed by the Netherlands Government and to all persons, other than Pakistan nationals, employed by companies with which the Netherlands Government has concluded a contract to engage in operations governed by or undertaken in connection with this Agreement.

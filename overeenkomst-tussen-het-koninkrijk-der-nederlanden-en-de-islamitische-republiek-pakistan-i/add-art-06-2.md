@@ -1,0 +1,2 @@
+# Artikel VI
+De bepalingen van deze Overeenkomst betreffende Nederlands personeel zijn eveneens van toepassing op alle andere personen dan Pakistaanse onderdanen, in dienst van de Nederlandse Regering, en op alle andere personen dan Pakistaanse onderdanen, in dienst van maatschappijen waarmee de Nederlandse Regering een contract heeft gesloten voor het verrichten van werkzaamheden die vallen onder, of die worden ondernomen in verband met deze Overeenkomst.

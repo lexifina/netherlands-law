@@ -1,0 +1,3 @@
+# Artikel I
+1. Het doel van deze Overeenkomst is de technische samenwerking op basis van schenkingen te bevorderen en te dien einde het juridische en administratieve kader te scheppen voor programma's en projecten van technische samenwerking waartoe de bevoegde autoriteiten van beide Partijen besluiten ten einde uitvoering te geven aan deze Overeenkomst.
+2. Een besluit samen te werken als bedoeld in het eerste lid hierboven, de bijdragen aan een programma of project en de wijze waarop dat programma of project wordt uitgevoerd, worden per geval vastgelegd in een door de bevoegde autoriteiten op te stellen afzonderlijk akkoord, overeenkomstig de beginselen vervat in deze Overeenkomst.
