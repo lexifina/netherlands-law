@@ -1,0 +1,3 @@
+# Artikel X
+1. Onderdanen en vennootschappen van de ene Partij zullen binnen het grondgebied van de andere Partij nationale behandeling genieten met betrekking tot het verkrijgen en in stand houden van octrooirechten en met betrekking tot de rechten van handelsmerk, handelsnaam, handelsetiket en iedere vorm van industriële eigendom.
+2. De Partijen zijn het eens, dat het gewenst is door samenwerking en andere geëigende middelen uitwisseling en gebruik van wetenschappelijke en technische kennis te bevorderen, in het bijzonder met het oog op de opvoering van de produktiviteit en de verhoging van het levenspeil binnen ieders grondgebied.
