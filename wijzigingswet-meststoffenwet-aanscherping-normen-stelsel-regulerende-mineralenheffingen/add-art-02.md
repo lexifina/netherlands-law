@@ -1,0 +1,2 @@
+# Artikel II
+Op de tenuitvoerlegging van een dwangbevel ter invordering van een belastingaanslag met betrekking tot de heffingen, bedoeld in hoofdstuk IV van de Meststoffenwet, waartegen de belastingschuldige vóór inwerkingtreding van deze wet in verzet is gekomen als bedoeld in artikel 42, tweede lid, van de Meststoffenwet in samenhang met artikel 17 van de Invorderingswet 1990, blijft het recht zoals dat gold vóór dat tijdstip van toepassing.
