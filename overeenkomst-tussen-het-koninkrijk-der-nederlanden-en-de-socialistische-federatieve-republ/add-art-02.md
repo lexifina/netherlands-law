@@ -1,0 +1,2 @@
+# II. Ad Article 4
+For the purposes of the Convention an individual, who is a member of a diplomatic or consular mission of one of the States in the other State or in a third State and who is a national of the sending State, shall be deemed to be a resident of the sending State if he is submitted therein to the same obligations in respect of taxes on income and on capital as are residents of that State.

@@ -1,0 +1,2 @@
+# II. Ad Artikel 4
+Voor de toepassing van de Overeenkomst wordt een natuurlijke persoon die deel uitmaakt van een diplomatieke of consulaire vertegenwoordiging van een van de Staten in de andere Staat of in een derde Staat en die onderdaan is van de zendstaat, geacht inwoner van de zendstaat te zijn, indien hij daarin aan dezelfde verplichtingen ter zake van belastingen naar het inkomen en naar het vermogen is onderworpen als inwoners van die Staat.
