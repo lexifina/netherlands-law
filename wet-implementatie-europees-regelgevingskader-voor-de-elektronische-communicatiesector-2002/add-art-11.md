@@ -1,0 +1,2 @@
+# Artikel XI
+Onverminderd het bepaalde in artikel 1:8, eerste lid, van de Algemene wet bestuursrecht, blijven verplichtingen op grond van deze wet of op grond van de Telecommunicatiewet zoals deze luidt na het tijdstip van inwerkingtreding van deze wet, die ertoe strekken om ontwerpen van besluiten aan de Staten-Generaal voor te leggen buiten toepassing voor zover deze besluiten zijn vastgesteld voor het tijdstip van inwerkingtreding van deze wet.
