@@ -1,0 +1,2 @@
+# Artikel 334k
+Ten minste een van de partijen bij de splitsing moet, op straffe van gegrondverklaring van een verzet als bedoeld in artikel 334l, voor iedere schuldeiser van deze partijen die dit verlangt zekerheid stellen of hem een andere waarborg geven voor de voldoening van zijn vordering. Dit geldt niet, indien de schuldeiser voldoende waarborgen heeft of de vermogenstoestand van de rechtspersoon die na de splitsing zijn schuldenaar zal zijn niet minder waarborg zal bieden dat de vordering zal worden voldaan, dan er voordien is.

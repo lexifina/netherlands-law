@@ -1,0 +1,4 @@
+# Artikel 87b
+1. De statuten kunnen bepalen dat van de aandeelhouder die niet of niet langer aan in de statuten gestelde eisen voldoet het stemrecht, het recht op deelname aan de algemene vergadering en het recht op uitkeringen is opgeschort.
+2. Indien de aandeelhouder een of meer van de in lid 1 genoemde rechten niet kan uitoefenen en de aandeelhouder niet gehouden is zijn aandelen aan te bieden en over te dragen, is hij onherroepelijk van de in de statuten gestelde eisen ontheven wanneer de vennootschap niet binnen drie maanden na een verzoek daartoe van de aandeelhouder gegadigden heeft aangewezen aan wie hij al zijn aandelen zal kunnen overdragen volgens een regeling in de statuten.
+3. De regeling dient zodanig te zijn dat de aandeelhouder die dit verlangt een prijs ontvangt, gelijk aan de waarde van zijn aandeel of aandelen, vastgesteld door een of meer onafhankelijke deskundigen.

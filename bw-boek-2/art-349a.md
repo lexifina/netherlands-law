@@ -1,0 +1,3 @@
+# Artikel 349a
+1. De ondernemingskamer behandelt het verzoek met de meeste spoed. De verzoekers en de rechtspersoon verschijnen hetzij bij procureur, hetzij bijgestaan door hun procureurs. Alvorens te beslissen kan de ondernemingskamer ook ambtshalve getuigen en deskundigen horen.
+2. Indien in verband met de toestand van de rechtspersoon of in het belang van het onderzoek een onmiddellijke voorziening is vereist, kan de ondernemingskamer in elke stand van het geding op verzoek van de indieners van het in artikel 345 bedoelde verzoek een zodanige voorziening treffen voor ten hoogste de duur van het geding.

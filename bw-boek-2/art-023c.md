@@ -1,0 +1,3 @@
+# Artikel 23c
+1. Indien na het tijdstip waarop de rechtspersoon is opgehouden te bestaan nog een schuldeiser of gerechtigde tot het saldo opkomt of van het bestaan van een bate blijkt, kan de rechtbank op verzoek van een belanghebbende de vereffening heropenen en zo nodig een vereffenaar benoemen. In dat geval herleeft de rechtspersoon, doch uitsluitend ter afwikkeling van de heropende vereffening. De vereffenaar is bevoegd van elk der gerechtigden terug te vorderen hetgeen deze te veel uit het overschot heeft ontvangen.
+2. Gedurende het tijdvak waarin de rechtspersoon had opgehouden te bestaan, is er een verlengingsgrond als bedoeld in artikel 320 van Boek 3 ten aanzien van de verjaring van rechtsvorderingen van of tegen de rechtspersoon.

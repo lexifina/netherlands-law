@@ -1,0 +1,6 @@
+# Artikel 23a
+1. Een vereffenaar heeft, tenzij de statuten anders bepalen, dezelfde bevoegdheden, plichten en aansprakelijkheid als een bestuurder, voor zover deze verenigbaar zijn met zijn taak als vereffenaar.
+2. Zijn er twee of meer vereffenaars, dan kan ieder van hen alle werkzaamheden verrichten, tenzij anders is bepaald. Bij verschil van mening tussen de vereffenaars beslist op verzoek van een hunner de rechter die bij de vereffening is betrokken, en anders de kantonrechter. De rechter bedoeld in de vorige zin, kan ook een verdeling van het loon vaststellen.
+3. Zowel de rechtbank als een door haar in de vereffening benoemde rechter-commissaris kan voor de vereffening nodige bevelen geven, al dan niet in de vorm van een bevelschrift in executoriale vorm. De vereffenaar is verplicht hun aanwijzingen op te volgen. Tegen de bevelen en aanwijzingen staan geen rechtsmiddelen open.
+4. Blijkt de vereffenaar dat de schulden de baten vermoedelijk zullen overtreffen, dan doet hij aangifte tot faillietverklaring, tenzij alle bekende schuldeisers desgevraagd instemmen met voortzetting van de vereffening buiten faillissement.
+5. De voorgaande bepalingen van dit artikel en de artikelen 23b-23c zijn niet van toepassing op vereffening in faillissement.

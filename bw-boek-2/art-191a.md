@@ -1,0 +1,4 @@
+# Artikel 191a
+1. Storting op een aandeel moet in geld geschieden voor zover niet een andere inbreng is overeengekomen.
+2. Voor of bij de oprichting kan storting in vreemd geld slechts geschieden, indien de akte van oprichting vermeldt dat storting in vreemd geld is toegestaan; na de oprichting kan dit slechts geschieden met toestemming van de vennootschap. Storting in een valuta die een eenheid is van de euro krachtens artikel 109L, vierde lid van het Verdrag betreffende de Europese Unie wordt niet beschouwd als storting in vreemd geld.
+3. Met storting in vreemd geld wordt aan de stortingsplicht voldaan voor het bedrag waartegen het gestorte bedrag vrijelijk in Nederlands geld kan worden gewisseld. Bepalend is de wisselkoers op de dag van de storting dan wel, indien vroeger dan een maand voor de oprichting is gestort, op de dag van de oprichting.

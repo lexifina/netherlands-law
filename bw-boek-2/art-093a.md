@@ -1,0 +1,9 @@
+# Artikel 93a
+1. Indien voor of bij de oprichting op aandelen wordt gestort in geld, moeten aan de akte van oprichting een of meer verklaringen worden gehecht, inhoudende dat de bedragen die op de bij de oprichting te plaatsen aandelen moeten worden gestort:
+a. hetzij terstond na de oprichting ter beschikking zullen staan van de naamloze vennootschap,
+b. hetzij alle op een zelfde tijdstip, ten vroegste vijf maanden voor de oprichting, op een afzonderlijke rekening stonden welke na de oprichting uitsluitend ter beschikking van de vennootschap zal staan, mits de vennootschap de stortingen in de akte aanvaardt.
+2. Indien vreemd geld is gestort, moet uit de verklaring blijken tegen hoeveel geld het vrijelijk kon worden gewisseld op een dag waarop krachtens artikel 80a lid 3 de koers bepalend is voor de stortingsplicht.
+3. Zulk een verklaring kan slechts worden afgelegd door een bankier die hetzij als kredietinstelling is geregistreerd ingevolge artikel 52 van de Wet toezicht kredietwezen 1992, hetzij in een andere lidstaat van de Europese Gemeenschappen of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte is onderworpen aan bedrijfseconomisch toezicht van overheidswege. Zij kan slechts worden afgegeven aan een notaris.
+4. Worden voor de oprichting aan de rekening, bedoeld in onderdeel b van lid 1, bedragen onttrokken, dan zijn de oprichters hoofdelijk jegens de vennootschap verbonden tot vergoeding van die bedragen, totdat de vennootschap de onttrekkingen uitdrukkelijk heeft bekrachtigd.
+5. De notaris moet de bankiers wier verklaring hij heeft ontvangen terstond verwittigen van de oprichting. Indien de oprichting niet doorgaat, moet hij hun de verklaring terugzenden.
+6. Indien na de oprichting in vreemd geld is gestort, legt de vennootschap binnen twee weken na de storting een verklaring, als bedoeld in lid 2, van een in het derde lid bedoelde bankier neer ten kantore van het handelsregister.

@@ -1,0 +1,8 @@
+# Artikel 63b
+1. Een coöperatie of onderlinge waarborgmaatschappij moet, indien lid 2 op haar van toepassing is, binnen twee maanden na de vaststelling van haar jaarrekening door de algemene vergadering, aan het handelsregister opgeven dat zij voldoet aan de in lid 2 gestelde voorwaarden. Totdat artikel 63c lid 3 toepassing heeft gevonden, vermeldt het bestuur in elk volgend jaarverslag wanneer de opgave is gedaan; wordt de opgaaf doorgehaald, dan wordt daarvan melding gemaakt in het eerste jaarverslag dat na de doorhaling wordt uitgebracht.
+2. De verplichting tot opgave geldt, indien:
+a. het eigen vermogen volgens de balans met toelichting ten minste een bij koninklijk besluit vastgesteld grensbedrag beloopt,
+b. de rechtspersoon of een afhankelijke maatschappij krachtens wettelijke verplichting een ondernemingsraad heeft ingesteld, en
+c. bij de rechtspersoon en haar afhankelijke maatschappijen te zamen in de regel ten minste honderd werknemers in Nederland werkzaam zijn.
+3. Het in onderdeel a van lid 2 genoemde grensbedrag wordt ten hoogste eenmaal in de twee jaren verhoogd of verlaagd, evenredig aan de ontwikkeling van een bij algemene maatregel van bestuur aan te wijzen prijsindexcijfer sedert een bij die maatregel te bepalen datum; het wordt daarbij afgerond op het naaste veelvoud van een miljoen euro. Het bedrag wordt niet opnieuw vastgesteld zo lang als het onafgeronde bedrag minder dan een miljoen euro afwijkt van het laatst vastgestelde bedrag.
+4. Onder het eigen vermogen wordt in onderdeel a van lid 2 begrepen de gezamenlijke verrichte en nog te verrichten inbreng van vennoten bij wijze van geldschieting in afhankelijke maatschappijen die commanditaire vennootschap zijn, voor zover dit niet tot dubbeltelling leidt.

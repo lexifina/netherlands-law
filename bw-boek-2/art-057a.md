@@ -1,0 +1,3 @@
+# Artikel 57a
+1. Op de benoeming van commissarissen die niet reeds bij de akte van oprichting zijn aangewezen, is artikel 37 van overeenkomstige toepassing, tenzij zij overeenkomstig artikel 63f geschiedt.
+2. Bij een aanbeveling of voordracht tot benoeming van een commissaris worden van de kandidaat medegedeeld zijn leeftijd, zijn beroep en de betrekkingen die hij bekleedt of die hij heeft bekleed voor zover die van belang zijn in verband met de vervulling van de taak van een commissaris. Tevens wordt vermeld aan welke rechtspersonen hij reeds als commissaris is verbonden; indien zich daaronder rechtspersonen bevinden, die tot een zelfde groep behoren, kan met de aanduiding van de groep worden volstaan. De aanbeveling en de voordracht worden met redenen omkleed.

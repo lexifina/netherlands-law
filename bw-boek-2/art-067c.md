@@ -1,0 +1,3 @@
+# Artikel 67c
+1. Een naamloze vennootschap waarvan de statuten het maatschappelijk kapitaal en het bedrag van de aandelen in gulden vermelden, kan in het maatschappelijk verkeer de tegenwaarde in euro gebruiken tot ten hoogste twee cijfers achter de komma, mits daarbij wordt verwezen naar dit artikel. Dit gebruik van de tegenwaarde in euro heeft geen rechtsgevolg.
+2. Indien een naamloze vennootschap waarvan de statuten het bedrag van het maatschappelijk kapitaal en het bedrag van de aandelen in gulden vermelden, na 1 januari 2002 een wijziging aanbrengt in een of meer bepalingen waarin bedragen in gulden worden uitgedrukt, worden in de statuten alle bedragen omgezet in euro. De artikelen 67a en 67b zijn van toepassing.

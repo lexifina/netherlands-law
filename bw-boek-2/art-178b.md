@@ -1,0 +1,2 @@
+# Artikel 178b
+Indien de vennootschap in afwijking van artikel 178a het bedrag van de aandelen wijzigt, behoeft deze wijziging de goedkeuring van elke groep van aandeelhouders aan wier rechten de wijziging afbreuk doet. Bestaat krachtens de wijziging recht op geld of schuldvorderingen, dan mag het gezamenlijk bedrag daarvan een tiende van het gewijzigde nominale bedrag van de aandelen niet te boven gaan.

@@ -1,0 +1,4 @@
+# Artikel 63c
+1. De artikelen 63f tot en met 63j zijn van toepassing op een rechtspersoon waaromtrent een in artikel 63b bedoelde opgaaf gedurende drie jaren onafgebroken is ingeschreven. Deze termijn wordt geacht niet te zijn onderbroken, indien een doorhaling van de opgaaf, welke tijdens die termijn ten onrechte heeft plaatsgevonden, ongedaan is gemaakt.
+2. De doorhaling van de inschrijving op de grond dat de rechtspersoon niet meer voldoet aan de voorwaarden van artikel 63b lid 2 doet de toepasselijkheid van de artikelen 63f tot en met 63j slechts eindigen, indien na de doorhaling drie jaren zijn verstreken waarin de rechtspersoon niet opnieuw tot de opgaaf verplicht is geweest.
+3. De coöperatie of onderlinge waarborgmaatschappij brengt haar statuten in overeenstemming met de artikelen 63f tot en met 63j welke voor haar gelden, uiterlijk met ingang van de dag waarop die artikelen krachtens lid 1 op haar van toepassing worden.

@@ -1,0 +1,5 @@
+# Artikel 207a
+1. Verkrijging van aandelen in strijd met het tweede lid van het vorige artikel is nietig. De bestuurders zijn hoofdelijk aansprakelijk jegens de vervreemder te goeder trouw die door de nietigheid schade lijdt.
+2. De vennootschap mag niet langer dan gedurende drie jaren nadat zij eigen aandelen om niet of onder algemene titel heeft verkregen, samen met haar dochtermaatschappijen meer aandelen in haar kapitaal houden dan de helft van het geplaatste kapitaal. De bestuurders zijn hoofdelijk aansprakelijk voor de vergoeding aan de vennootschap van de waarde van de aandelen die zij te veel houdt of doet houden op het einde van de laatste dag van die drie jaren, met de wettelijke rente van dat tijdstip af. Betaling van de vergoeding geschiedt tegen overdracht van de aandelen.
+3. Lid 2 is van overeenkomstige toepassing op elk niet volgestort aandeel dat de vennootschap onder algemene titel heeft verkregen en niet binnen drie jaren daarna heeft vervreemd of ingetrokken.
+4. Onder het begrip aandelen in dit artikel zijn certificaten daarvan begrepen.

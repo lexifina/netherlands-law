@@ -1,0 +1,9 @@
+# Artikel 334l
+1. Tot een maand nadat alle partijen bij de splitsing de nederlegging van het voorstel tot splitsing hebben aangekondigd kan iedere wederpartij bij een rechtsverhouding van zulk een partij door een verzoekschrift aan de rechtbank tegen het voorstel tot splitsing in verzet komen op grond dat het voorstel ten aanzien van zijn rechtsverhouding strijdt met artikel 334j of dat een krachtens artikel 334k verlangde waarborg niet is gegeven. In het laatste geval vermeldt het verzoekschrift de waarborg die wordt verlangd.
+2. Voordat de rechter beslist, kan hij de partijen bij de splitsing in de gelegenheid stellen binnen een door hem gestelde termijn een door hem omschreven wijziging in het voorstel tot splitsing aan te brengen en het gewijzigde voorstel overeenkomstig artikel 334h openbaar te maken, onderscheidenlijk een door hem omschreven waarborg te geven.
+3. Indien tijdig verzet is gedaan, mag de akte van splitsing eerst worden verleden, zodra het verzet is ingetrokken of de opheffing van het verzet uitvoerbaar is.
+4. Indien de akte van splitsing al is verleden, kan de rechter op een ingesteld rechtsmiddel:
+a. bevelen dat een rechtsverhouding die in strijd met artikel 334j is overgegaan geheel of gedeeltelijk wordt overgedragen aan een of meer door hem aan te wijzen verkrijgende rechtspersonen of aan de voortbestaande gesplitste rechtspersoon, of bepalen dat twee of meer van deze rechtspersonen hoofdelijk tot nakoming van de uit de rechtsverhouding voortvloeiende verbintenissen verbonden zijn;
+b. bevelen dat een door hem omschreven waarborg wordt gegeven.
+De rechter kan aan een bevel een dwangsom verbinden.
+5. Indien door een overdracht als bedoeld in lid 4 onder a de overdragende of verkrijgende rechtspersoon nadeel lijdt, is de andere rechtspersoon gehouden dit goed te maken.

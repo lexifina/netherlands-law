@@ -1,0 +1,3 @@
+# Artikel 334o
+1. De rechthebbende van een pandrecht of vruchtgebruik op een recht van lidmaatschap of op aandelen in het kapitaal van de splitsende rechtspersoon verkrijgt eenzelfde recht op hetgeen het lid of de aandeelhouder krachtens de akte van splitsing verkrijgt. Indien de splitsende rechtspersoon na de splitsing voortbestaat, blijft daarnaast het bestaande pandrecht of recht van vruchtgebruik in stand.
+2. Vervallen aandelen waarop een pandrecht of vruchtgebruik rust, en treedt daarvoor niets in de plaats, dan moeten de verkrijgende rechtspersonen de rechthebbende een gelijkwaardige vervanging geven.

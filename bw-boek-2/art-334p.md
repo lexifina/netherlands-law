@@ -1,0 +1,4 @@
+# Artikel 334p
+1. Hij die, anders dan als lid of aandeelhouder, een bijzonder recht jegens de splitsende rechtspersoon heeft, zoals een recht op een uitkering van winst of tot het nemen van aandelen, moet hetzij zodanige rechten in verkrijgende rechtspersonen krijgen, dat deze, waar toepasselijk samen met het recht dat hij jegens de voortbestaande splitsende rechtspersoon heeft, gelijkwaardig zijn aan zijn recht voor de splitsing, hetzij schadeloosstelling krijgen.
+2. De schadeloosstelling wordt bij gebreke van overeenstemming bepaald door een of meer onafhankelijke deskundigen, ten verzoeke van de meest gerede partij te benoemen door de voorzieningenrechter van de rechtbank van het arrondissement waarin de woonplaats van de splitsende rechtspersoon is gelegen.
+3. Artikel 334o is van overeenkomstige toepassing op pandrecht of vruchtgebruik dat op de bijzondere rechten was gevestigd.
