@@ -1,0 +1,2 @@
+# Artikel 20b
+Indien de zaak op een zitting zal worden behandeld worden de stukken van het geding neergelegd ter griffie van het gerechtshof. Hiervan wordt door de griffier mededeling gedaan aan partijen, onder vermelding van de termijn waarbinnen deze stukken aldaar kunnen worden ingezien en dat daarvan afschriften of uittreksels kunnen worden gevraagd. Op de voor de verstrekking van afschriften of uittreksels in rekening te brengen vergoedingen is het bij of krachtens de Wet tarieven in burgerlijke zaken bepaalde van overeenkomstige toepassing.

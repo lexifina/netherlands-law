@@ -1,0 +1,2 @@
+# Artikel 28a
+Indien niet of niet volledig verhaal overeenkomstig de artikelen 26 en 27 heeft plaatsgevonden, kan de officier van justitie te Leeuwarden het rijbewijs innemen van degene aan wie de administratieve sanctie is opgelegd. De officier kan tot uiterlijk vijf jaar nadat de opgelegde administratieve sanctie onherroepelijk is geworden van zijn bevoegdheid gebruik maken. De inneming van het rijbewijs duurt ten hoogste vier weken.
