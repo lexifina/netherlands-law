@@ -1,0 +1,5 @@
+# Artikel IV. Betalingen uit het Fonds
+4.01. De beheerder mag uitsluitend bedragen uit het Fonds gebruiken of betalen om de kosten van de goederen te financieren. De beheerder bepaalt van tijd tot tijd na overleg met Laos, of - betreffende de in deel B van het project genoemde goederen - met Thailand, welke specifieke goederen uit het Fonds zullen worden gefinancierd en welke methoden zullen worden aangewend om deze aan te schaffen en te betalen.
+4.02. Tenzij de beheerder anders bepaalt worden geen betalingen verricht met betrekking tot (i) uitgaven die hebben plaatsgevonden voor 11 maart 1966 of (ii) uitgaven in de gebieden van een land dat geen Partij is bij deze Overeenkomst, of met betrekking tot goederen welke worden vervaardigd in of diensten welke worden verleend door die gebieden.
+4.03. Betalingen uit het Fonds dienen te geschieden in de munteenheden welke de beheerder daartoe aanwijst.
+4.04. Laos treft regelingen, en houdt deze in stand, met betrekking tot de verkoop van de voor de uitvoering van het project benodigde kip en wel tegen de voordeligste wettelijk toegestane wisselkoers.

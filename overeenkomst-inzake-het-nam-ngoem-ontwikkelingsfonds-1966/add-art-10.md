@@ -1,0 +1,5 @@
+# Article X. Settlement of Disputes
+Section 10.01.
+(a) Any dispute between any of the Parties hereto concerning the interpretation or the application to particular facts or circumstances of this Agreement, or of any supplementary arrangement or agreement, which cannot be resolved by agreement of such Parties, shall be decided, at the request of one of them, by the Administrator whose decision shall be final, except as provided in subsection (b) of this Section 10.01.
+(b) If the Administrator shall fail or refuse to make any such decision or if the Administrator shall have been a party to the dispute, any party to the dispute may submit it for a final decision to an arbitrator selected by the parties to the dispute or, failing such selection, appointed by the Secretary-General of the United Nations. All Parties shall abide by the decision, if any, of the Administrator over the dispute until such decision shall have been modified or reversed by the arbitrator's final decision.
+(c) The decision of the Administrator or the arbitrator shall be binding on all Parties and shall be implemented in accordance with their constitutional procedures.

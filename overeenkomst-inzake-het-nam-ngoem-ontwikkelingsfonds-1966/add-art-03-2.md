@@ -1,0 +1,18 @@
+# Artikel III. Bijdragen aan het Fonds
+3.01. Elk der hierna genoemde Regeringen verbindt zich, onder voorbehoud van eventueel noodzakelijke handelingen van de zijde der volksvertegenwoordiging, aan het Fonds bij wijze van schenking het hieronder naast haar naam aangeduide bedrag bij te dragen:
+Australië.............. | $ 500.000
+Canada.............. | $ 2.000.000
+Denemarken.............. | $ 600.000
+Japan.............. | $ 4.000.000
+Nederland.............. | $ 3.300.000
+Nieuw-Zeeland.............. | $ 350.000
+Verenigde Staten van Amerika..... ..... | $ 12.065.000
+3.02. (a) Bij de inwerkingtreding van deze Overeenkomst doet de beheerder elk der Partijen die een bijdrage zullen leveren mededeling van het door haar als onderdeel van haar bijdrage aan het Fonds te betalen bedrag ter dekking van de begrote uitgaven van het Fonds gedurende het tijdvak dat eindigt op 31 december 1966, en voorts doet hij voor het begin van elk tijdvak dat begint op 1 januari of op 1 juli daarna (op een tussen de beheerder en iedere betrokken Partij te bepalen tijdstip) elk der Partijen die een bijdrage zullen leveren mededeling van het bedrag dat die Partij dient bij te dragen gedurende dat tijdvak. Elk der Partijen die een bijdrage zal leveren verbindt zich de in die kennisgeving aangegeven betaling te doen op de in die kennisgeving aangegeven of bepaalde datum of data en in de daarin aangegeven of bepaalde bedragen, dan wel op een tussen de beheerder en de Partij die een bijdrage zal leveren overeengekomen ander tijdstip binnen dat tijdvak.
+(b) De beheerder kan bij zijn begroting van de bedragen die ingevolge het bepaalde in deze paragraaf over een bepaald tijdvak dienen te worden betaald, de sommen opnemen welke hij noodzakelijk of wenselijk acht ten einde een redelijke reserve te kweken en aan te houden voor het geval de werkelijk gedane uitgaven de begrote uitgaven mochten overschrijden.
+3.03. Verstaan en overeengekomen wordt dat:
+(a) Australië zijn bijdrage aan het Fonds betaalt in zes termijnen, de eerste ten bedrage van $ 85.000 en de overige van $ 83.000 elk, in de loop van de eerste zes tijdvakken bedoeld in paragraaf 3.02 (a);
+(b) Japan zijn bijdrage aan het Fonds betaalt in acht gelijke termijnen van $ 500.000 elk, in de loop van de eerste acht tijdvakken bedoeld in paragraaf 3.02 (a);
+(c) Nieuw-Zeeland zijn bijdrage aan het Fonds betaalt in acht gelijke termijnen van $ 43.750 elk, in de loop van de eerste acht tijdvakken bedoeld in paragraaf 3.02 (a);
+(d) Het bedrag dat door de andere Partijen die een bijdrage zullen leveren aan het Fonds dient te worden betaald in de loop van elk tijdvak bedoeld in paragraaf 3.02 (a) over hen wordt omgeslagen in verhouding tot hun bijdragen zoals die zijn vastgesteld in paragraaf 3.01 van deze Overeenkomst.
+3.04. De betaling van de bijdragen geschiedt in dollars of in de tegenwaarde daarvan in andere munteenheden die vrijelijk kunnen worden gebruikt of vrijelijk inwisselbaar zijn, al naargelang tussen de Partij die de bijdragen levert en de beheerder is overeengekomen.
+3.05. De Partijen komen voor de toepassing van deze Overeenkomst overeen de beslissingen van de beheerder met betrekking tot de begrote behoeften en ontvangsten van het Fonds, alsmede van de benodigde reserves te aanvaarden. De beheerder kan met twee of meer der Partijen die een bijdrage zullen leveren overeenstemming bereiken over een wijziging, voor een of meer halfjaarlijkse tijdvakken, in de omvang van de termijnen waarin deze Partijen hun bijdragen leveren, mits het door hen over dat tijdvak of die tijdvakken te betalen totaalbedrag in wezen onveranderd blijft en passende compensatie wordt gevonden waar het latere tijdvakken betreft.

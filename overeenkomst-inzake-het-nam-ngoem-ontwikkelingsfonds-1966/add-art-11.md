@@ -1,0 +1,3 @@
+# Article XI. Additional Parties and Contributions
+Section 11.01. Any Government, institution or entity, not a Party to this Agreement, may, with the prior approval of the Parties hereto and in accordance with such arrangements as they shall agree, become a contributing Party upon deposit with the Bank of an instrument stating that it accepts all the provisions hereof and agrees to be bound thereby.
+Section 11.02. The Administrator may receive on behalf of the Fund from any Government, institution or entity, whether or not a Party, amounts not provided for herein to be held and used as part of the Fund subject to the provisions hereof, in accordance with such arrangements, not inconsistent herewith, as the Administrator may approve.

@@ -1,0 +1,5 @@
+# Article IV. Disbursements from Fund
+Section 4.01. Amounts in the Fund shall be used or disbursed by the Administrator exclusively to finance the cost of the goods. The specific items to be financed from the Fund and the methods to be used in procuring and financing them shall be determined from time to time by the Administrator, after consultation with Laos or, in respect of goods for Part B of the Project, with Thailand.
+Section 4.02. Except as shall be otherwise determined by the Administrator, no disbursements shall be made on account of (i) expenditures prior to March 11, 1966, or (ii) expenditures in the territories of any country which is not a Party to this Agreement, or for goods produced in, or services supplied from, such territories.
+Section 4.03. Disbursements from the Fund shall be in such currencies as the Administrator shall elect.
+Section 4.04. Laos shall make and maintain arrangements for the sale of kip required for the carrying out of the Project at the most advantageous legal rate.
