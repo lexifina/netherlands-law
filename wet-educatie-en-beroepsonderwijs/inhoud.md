@@ -18,7 +18,7 @@
 #### § 1. Bekostiging
 #### § 2
 #### § 3. Bekostiging agrarische innovatie- en praktijkcentra
-### Titel 3. Rijksbijdrage ten behoeve van de educatie en de huisvesting van de opleidingen voortgezet algemeen volwassenenonderwijs
+### Titel 3. Rijksbijdrage ten behoeve van de educatie
 ### Titel 4. Bekostiging van kenniscentra beroepsonderwijs bedrijfsleven
 #### § 1. Bekostiging
 ### Titel 5. Begroting, verslaglegging en gegevensverstrekking
