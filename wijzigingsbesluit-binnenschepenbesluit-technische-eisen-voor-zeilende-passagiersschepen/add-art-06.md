@@ -1,0 +1,2 @@
+# Artikel VI
+Een certificaat van onderzoek voor zeilende passagiersschepen dat voor de datum van inwerkingtreding van dit besluit door de Stichting Register Holland is afgegeven geldt met ingang van de datum van inwerkingtreding van dit besluit als een certificaat van onderzoek dat is afgegeven ingevolge artikel 3, eerste lid onderdeel d, van de Binnenschepenwet, en blijft geldig tot de daarop aangegeven datum, met dien verstande, dat, indien deze datum gelegen is op of na 1 januari 2003, dit certificaat geldt tot en met 31 december 2002.
