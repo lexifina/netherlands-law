@@ -1,0 +1,3 @@
+# Artikel I. Doelstellingen
+De Associatie heeft tot doel in de minderontwikkelde gebieden van de wereld waar deze Overeenkomst van toepassing is, de economische ontwikkeling te bevorderen en de produktiviteit te verhogen om er op die wijze de levensstandaard te verhogen in het bijzonder door het verstrekken van financiële middelen voor hun belangrijke ontwikkelingsbehoeften op voorwaarden die soepeler zijn en minder zwaar op de betalingsbalans drukken dan die van gebruikelijke leningen, en aldus de ontwikkelingsdoeleinden van de Internationale Bank voor Herstel en Ontwikkeling (hierna genoemd „de Bank") te bevorderen en haar werkzaamheden aan te vullen.
+De Associatie laat zich in al haar beslissingen leiden door de bepalingen van dit artikel.

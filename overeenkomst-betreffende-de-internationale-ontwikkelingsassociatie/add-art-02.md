@@ -1,0 +1,20 @@
+# Article II. Membership; Initial Subscriptions
+Section 1
+Membership
+(a) The original members of the Association shall be those members of the Bank listed in Schedule A hereto which, on or before the date specified in Article XI, Section 2 (c), accept membership in the Association.
+(b) Membership shall be open to other members of the Bank at such times and in accordance with such terms as the Association may determine.
+Section 2
+Initial Subscriptions
+(a) Upon accepting membership, each member shall subscribe funds in the amount assigned to it. Such subscriptions are herein referred to as initial subscriptions.
+(b) The initial subscription assigned to each original member shall be in the amount set forth opposite its name in Schedule A, expressed in terms of United States dollars of the weight and fineness in effect on January 1, 1960.
+(c) Ten percent of the initial subscription of each original member shall be payable in gold or freely convertible currency as follows: fifty percent within thirty days after the date on which the Association shall begin operations pursuant to Article XI, Section 4, or on the date on which the original member becomes a member, whichever shall be later; twelve and one-half percent one year after the beginning of operations of the Association; and twelve and one-half percent each year thereafter at annual intervals until the ten percent portion of the initial subscription shall have been paid in full.
+(d) The remaining ninety percent of the initial subscription of each original member shall be payable in gold or freely convertible currency in the case of members listed in Part I of Schedule A, and in the currency of the subscribing member in the case of members listed in Part II of Schedule A. This ninety percent portion of initial subscriptions of original members shall be payable in five equal annual instalments as follows: the first such instalment within thirty days after the date on which the Association shall begin operations pursuant to Article XI, Section 4, or on the date on which the original member becomes a member, whichever shall be later; the second instalment one year after the beginning of operations of the Association, and succeeding instalments each year thereafter at annual intervals until the ninety percent portion of the initial subscription shall have been paid in full.
+(e) The Association shall accept from any member, in place of any part of the member's currency paid in or payable by the member under the preceding subsection (d) or under Section 2 of Article IV and not needed by the Association in its operations, notes or similar obligations issued by the government of the member or the depository designated by such member, which shall be non-negotiable, non-interest-bearing and payable at their par value on demand to the account of the Association in the designated depository.
+(f) For the purposes of this Agreement the Association shall regard as "freely convertible currency":
+(i) currency of a member which the Association determines, after consultation with the International Monetary Fund, is adequately convertible into the currencies of other members for the purposes of the Association's operations; or
+(ii) currency of a member which such member agrees, on terms satisfactory to the Association, to exchange for the currencies of other members for the purposes of the Association's operations.
+(g) Except as the Association may otherwise agree, each member listed in Part I of Schedule A shall maintain, in respect of its currency paid in by it as freely convertible currency pursuant to subsection (d) of this Section, the same convertibility as existed at the time of payment.
+(h) The conditions on which the initial subscriptions of members other than original members may be made, and the amounts and the terms of payment thereof, shall be determined by the Association pursuant to Section 1 (b) of this Article.
+Section 3
+Limitation on Liability
+No member shall be liable, by reason of its membership, for obligations of the Association.
