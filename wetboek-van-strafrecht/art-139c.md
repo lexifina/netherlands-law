@@ -3,4 +3,4 @@
 2. Het eerste lid is niet van toepassing op het aftappen of opnemen:
 1°. van door middel van een radio-ontvangapparaat ontvangen gegevens, tenzij om de ontvangst mogelijk te maken een bijzondere inspanning is geleverd of een niet toegestane ontvanginrichting is gebruikt.
 2°. door of in opdracht van de gerechtigde tot een voor de telecommunicatie gebezigde aansluiting, behoudens in geval van kennelijk misbruik;
-3°. ten behoeve van de strafvordering, dan wel, op bijzondere last van Onze Minister-President en Onze Ministers van Justitie, van Binnenlandse Zaken en Koninkrijksrelaties en van Verkeer en Waterstaat gezamenlijk, telkens voor de duur van ten hoogste drie maanden aan het Hoofd van de Binnenlandse Veiligheidsdienst te geven, in gevallen waarin zulks nodig is in het belang van de veiligheid van de staat.
+3°. ten behoeve van de goede werking van een openbaar telecommunicatienetwerk, ten behoeve van de strafvordering, dan wel ter uitvoering van de Wet op de inlichtingen- en veiligheidsdiensten 2002.
