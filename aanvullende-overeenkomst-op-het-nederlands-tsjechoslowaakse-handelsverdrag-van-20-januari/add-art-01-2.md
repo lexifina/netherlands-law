@@ -1,0 +1,3 @@
+# Artikel I
+Van de dag af der (zelfs voorlopige) inwerkingstelling door beide partijen der Algemene Overeenkomst betreffende Tarieven en Handel zullen de verdragsrechten, vastgesteld bij de Aanvullende Overeenkomst van 9 April 1934 op het Handelsverdrag tussen het Koninkrijk der Nederlanden en de Republiek Tsjechoslowakije, getekend te Den Haag, op 20 Januari 1923, niet langer worden toegepast.
+Beide Regeringen komen overeen, dat het invoerrecht voor Edammer en Goudse kaas van Nederlandse oorsprong, vastgesteld in de Aanvullende Schikking van 1 December 1931, in verband met de algemene herwaardering van het Tsjechoslowaakse tarief, vastgesteld zal worden op 500 Kcs. per 100 kg.

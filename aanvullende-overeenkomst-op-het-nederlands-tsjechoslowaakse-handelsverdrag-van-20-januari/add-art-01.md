@@ -1,0 +1,3 @@
+# Article I
+A partir du jour de la mise en vigueur (même provisoire) de l'Accord général sur les tarifs douaniers et le commerce par les deux parties contractantes, les droits conventionnels stipulés à l'Avenant du 9 avril 1934, à la Convention commercial entre le Royaume des Pays-Bas et la République Tchécoslovaque, signé à la Haye le 20 janvier 1923, ne seront plus appliqués.
+Les deux Gouvernements sont d'accord que le droit d'entrée sur le fromage d'Edam et de Gouda d'origine néerlandaise, stipulé à l'Arrangement additionnel du 1er décembre 1931, sera fixé par rapport à la révalorisation générale du tarif tchécoslovaque, au taux de 500 Kcs les 100 kgs.
