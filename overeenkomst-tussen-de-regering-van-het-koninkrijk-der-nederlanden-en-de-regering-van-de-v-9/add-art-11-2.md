@@ -1,0 +1,4 @@
+# Artikel XI
+1. De luchtvaartuigen van de aangewezen luchtvervoersondernemingen, welke gebruikt worden voor de exploitatie van de omschreven luchtdiensten of voor de uitvoering van bijzondere vluchten, zullen op het grondgebied van de andere Overeenkomstsluitende Partij niet in beslag genomen of vastgehouden kunnen worden.
+2. De luchtvaartuigen van de luchtvervoersondernemingen kunnen niet in beslag genomen of vastgehouden worden onder het motief, dat hun bouw, hun onderdelen of hun uitrusting de nabootsing zouden vormen van een patent, ontwerp of model, behoorlijk verleend of geregistreerd op het grondgebied van die Overeenkomstsluitende Partij.
+3. De vrijstelling van het leggen van beslag en van het vasthouden, bedoeld in de leden 1 en 2 van dit artikel, kan niet afhankelijk worden gemaakt van het verschaffen van een zekerheidsstelling.
