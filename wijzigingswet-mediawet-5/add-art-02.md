@@ -1,0 +1,2 @@
+# Artikel II
+In afwijking van de artikelen 51e, 51f en 52 van de Mediawet, is het lokale en regionale omroepinstellingen die op 31 december 1995 in het bezit waren van een toestemming als bedoeld in artikel 43a van de Mediawet zoals dat artikel toen luidde, toegestaan programma-onderdelen als omschreven in het toenmalige artikel 43a van de Mediawet te verzorgen gedurende het tijdvak van 1 januari 1996 tot het tijdstip van inwerkingtreding van deze wet, met inachtneming van de artikelen 43c en 43d van de Mediawet, zoals die artikelen luidden op 31 december 1995.
