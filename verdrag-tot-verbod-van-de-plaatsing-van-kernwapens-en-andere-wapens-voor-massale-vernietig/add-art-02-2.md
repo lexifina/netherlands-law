@@ -1,0 +1,2 @@
+# Artikel II
+Voor de toepassing van dit Verdrag valt de buitenste grens van de zeebeddingszone bedoeld in artikel I samen met de buitenste twaalfmijlsgrens van de zone bedoeld in Hoofdstuk II van het Verdrag inzake de territoriale zee en de aansluitende zone, opengesteld voor ondertekening te Genève op 29 april 1958, en dient zij te worden gemeten overeenkomstig het bepaalde in Hoofdstuk I, Afdeling II, van genoemd Verdrag en in overeenstemming met het volkenrecht.

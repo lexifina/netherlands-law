@@ -1,0 +1,2 @@
+# Article VII
+Five years after the entry into force of this Treaty, a conference of Parties to the Treaty shall be held at Geneva, Switzerland, in order to review the operation of this Treaty with a view to assuring that the purposes of the preamble and the provisions of the Treaty are being realized. Such review shall take into account any relevant technological developments. The review conference shall determine in accordance with the views of a majority of those Parties attending whether and when an additional review conference shall be convened.

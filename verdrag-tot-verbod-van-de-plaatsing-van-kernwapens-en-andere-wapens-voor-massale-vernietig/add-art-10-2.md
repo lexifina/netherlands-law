@@ -1,0 +1,7 @@
+# Artikel X
+1. Dit Verdrag staat voor alle Staten ter ondertekening open. Iedere Staat die het Verdrag niet vóór de datum van inwerkingtreding overeenkomstig lid 3 van dit artikel ondertekent, kan te allen tijde tot het Verdrag toetreden.
+2. Dit Verdrag dient te worden bekrachtigd door de ondertekenende Staten. De akten van bekrachtiging en toetreding dienen te worden nedergelegd bij de Regering van de Unie van Socialistische Sowjet Republieken, van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en van de Verenigde Staten van Amerika, die hierbij worden aangewezen als Depotregeringen.
+3. Dit Verdrag treedt in werking nadat tweeëntwintig Regeringen, waaronder de Regeringen die zijn aangewezen als Depotregeringen van dit Verdrag, hun akten van bekrachtiging hebben nedergelegd.
+4. Ten aanzien van Staten wier akten van bekrachtiging of toetreding na de inwerkingtreding van dit Verdrag worden nedergelegd, treedt dit Verdrag in werking op de datum van nederlegging van hun akten van bekrachtiging of toetreding.
+5. De Depotregeringen geven de Regeringen van alle ondertekenende en toetredende Staten onverwijld kennis van de datum van elke ondertekening, van de datum van nederlegging van elke akte van bekrachtiging of toetreding, van de datum van inwerkingtreding van dit Verdrag en van de ontvangst van andere kennisgevingen.
+6. Dit Verdrag wordt door de Depotregeringen geregistreerd overkomstig artikel 102 van het Handvest der Verenigde Naties.

@@ -1,0 +1,4 @@
+# Article I
+1. The States Parties to this Treaty undertake not to emplant or emplace on the sea-bed and the ocean floor and in the subsoil thereof beyond the outer limit of a sea-bed zone as defined in Article II, any nuclear weapons or any other types of weapons of mass destruction as well as structures, launching installations or any other facilities specifically designed for storing, testing or using such weapons.
+2. The undertakings of paragraph 1 of this Article shall also apply to the sea-bed zone referred to in the same paragraph, except that within such sea-bed zone, they shall not apply either to the coastal State or to the sea-bed beneath its territorial waters.
+3. The States Parties to this Treaty undertake not to assist, encourage or induce any State to carry out activities referred to in paragraph 1 of this Article and not to participate in any other way in such actions.

@@ -1,0 +1,7 @@
+# Article X
+1. This Treaty shall be open for signature to all States. Any State which does not sign the Treaty before its entry into force in accordance with paragraph 3 of this Article may accede to it at any time.
+2. This Treaty shall be subject to ratification by signatory States. Instruments of ratification and of accession shall be deposited with the Governments of the United Kingdom of Great Britain and Northern Ireland, the Union of Soviet Socialist Republics and the United States of America, which are hereby designated the Depositary Governments.
+3. This Treaty shall enter into force after the deposit of instruments of ratification by twenty-two Governments, including the Governments designated as Depositary Governments of this Treaty.
+4. For States whose instruments of ratification or accession are deposited after the entry into force of this Treaty it shall enter into force on the date of the deposit of their instruments of ratification or accession.
+5. The Depositary Governments shall promptly inform the Governments of all signatory and acceding States of the date of each signature, of the date of deposit of each instrument of ratification or of accession, of the date of the entry into force of this Treaty, and of the receipt of other notices.
+6. This Treaty shall be registered by the Depositary Governments pursuant to Article 102 of the Charter of the United Nations.

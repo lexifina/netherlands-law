@@ -1,0 +1,2 @@
+# Article VIII
+Each State Party to this Treaty shall in exercising its national sovereignty have the right to withdraw from this Treaty if it decides that extraordinary events related to the subject-matter of this Treaty have jeopardized the supreme interests of its country. It shall give notice of such withdrawal to all other States Parties to the Treaty and to the United Nations Security Council three months in advance. Such notice shall include a statement of the extraordinary events it considers to have jeopardized its supreme interests.

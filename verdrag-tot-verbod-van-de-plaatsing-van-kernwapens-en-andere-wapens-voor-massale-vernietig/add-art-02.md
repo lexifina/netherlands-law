@@ -1,0 +1,2 @@
+# Article II
+For the purpose of this Treaty the outer limit of the sea-bed zone referred to in Article I shall be coterminous with the twelve-mile outer limit of the zone referred to in Part II of the Convention on the Territorial Sea and the Contiguous Zone, signed at Geneva on 29 April 1958, and shall be measured in accordance with the provisions of Part I, Section II, of that Convention and in accordance with international law.
