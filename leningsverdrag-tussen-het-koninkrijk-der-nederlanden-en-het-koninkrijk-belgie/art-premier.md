@@ -1,0 +1,2 @@
+# Article Premier
+Par les présentes, le Gouvernement du Royaume de Belgique ouvre au Gouvernement du Royaume des Pays-Bas un crédit en francs belges équivalent à trente-huit millions de dollars U.S.A. ($ 38.000.000) en vue de financer le déficit de la zone florin vis-à-vis de la zone monétaire belge, tel que ce déficit sera déterminé par application de l'Accord de Paiements et de Compensations entre les pays européens, conclu à Paris, le 7 septembre 1949.
