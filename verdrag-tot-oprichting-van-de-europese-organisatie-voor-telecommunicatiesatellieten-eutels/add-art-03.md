@@ -1,0 +1,7 @@
+# Article III. Purposes of EUTELSAT
+a) The primary purpose of EUTELSAT is to ensure that the Basic Principles set forth in this Article are observed by the Company Eutelsat S.A. namely:
+i) public service/universal service obligations: such obligations apply to space segment and to its use to provide services connected to the public switched telephone network; audiovisual services and future services will be provided in conformity with the relevant national regulations and international agreements, in particular the provisions of the European Convention on Transfrontier Television, taking account of those applying to the universal service concept and the information society;
+ii) pan-European coverage by the satellite system: the Company Eutelsat S.A. shall, on an economic basis, seek through the pan-European coverage of its satellite system to serve all areas where there is a need for communications services in Member States;
+iii) non discrimination: services shall be provided to users on an equitable basis subject to commercial flexibility and consistent with applicable laws;
+iv) fair competition: the Company Eutelsat S.A. shall comply with all applicable laws and regulations relating to fair competition.
+b) EUTELSAT shall also have the purpose of ensuring continuity regarding rights and obligations under international law, in particular under the Radio Regulations for the use of frequencies deriving from the operation of the EUTELSAT space segment transferred to the Company Eutelsat S.A.

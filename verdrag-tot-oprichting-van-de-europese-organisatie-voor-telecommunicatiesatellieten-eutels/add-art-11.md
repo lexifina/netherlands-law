@@ -1,0 +1,4 @@
+# Article XI. Rights and Obligations
+a) The Parties shall exercise their rights and meet their obligations under the Convention in a manner fully consistent with and in furtherance of the principles and provisions of the Convention.
+b) All Parties may attend and participate in all conferences and meetings in which they are entitled to be represented under any of the provisions of the Convention, and in any other meetings called by or held under the auspices of EUTELSAT in accordance with the arrangements made by it for such meetings, regardless of where they may take place.
+c) Before any such conference or meeting is held outside the country in which the Headquarters of EUTELSAT is established, the Executive Secretary shall ensure that arrangements with the host Party for each such conference or meeting include a provision for the admission to and residence in the host country during such conference or meeting of representatives of all Parties entitled to attend.

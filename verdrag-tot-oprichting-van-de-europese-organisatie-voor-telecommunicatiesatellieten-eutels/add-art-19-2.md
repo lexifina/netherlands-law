@@ -1,0 +1,2 @@
+# Artikel XIX. Aansprakelijkheid
+Een Partij is niet hoofdelijk aansprakelijk voor de handelingen en verplichtingen van EUTELSAT, behalve in gevallen waarin deze aansprakelijkheid voortvloeit uit een Verdrag waarbij deze Partij en een Staat die schadevergoeding vordert, Partij zijn. ln dat geval stelt EUTELSAT de betrokken Partij schadeloos met betrekking tot elke zodanige aansprakelijkheid, tenzij de laatstgenoemde uitdrukkelijk op zich heeft genomen deze aansprakelijkheid alleen te dragen.
