@@ -1,0 +1,2 @@
+# Article 1er
+Sans préjudice de l'application de conventions bilatérales existantes ou qui viendraient à être conclues entre deux Etats parties à la présente Convention, chaque Etat contractant s'engage à délivrer sans frais aux autres Etats contractants des expéditions littérales ou des extraits des actes de l'état civil dressés sur son territoire et concernant les ressortissants du Gouvernement requérant, lorsque la demande en est faite dans un intérêt administratif ou en faveur d'indigents.
