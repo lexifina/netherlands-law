@@ -1,0 +1,3 @@
+# Artikel V
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+2. In afwijking van het eerste lid wordt een koninklijk besluit tot inwerkingtreding van artikel I, onderdelen D tot en met H, en artikel II aan beide kamers der Staten-Generaal overgelegd. Het wordt gepubliceerd nadat vier weken na de overlegging zijn verstreken, tenzij binnen die termijn door of namens een der kamers of door ten minste de helft van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven inwerkingtreding van voornoemde artikel(onderdelen) niet te doen plaatsvinden.

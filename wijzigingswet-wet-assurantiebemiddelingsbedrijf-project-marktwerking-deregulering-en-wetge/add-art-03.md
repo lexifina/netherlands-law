@@ -1,0 +1,2 @@
+# Artikel III
+In afwijking van artikel I, onderdelen D tot en met H, blijft het bepaalde bij of krachtens de artikelen 13, 14, vierde lid, 15, 17 en 18 van de Wet assurantiebemiddelingsbedrijf, zoals deze bepalingen voorafgaand aan het tijdstip van inwerkingtreding van dit artikel luidden, tot het einde van de overeengekomen looptijd van toepassing met betrekking tot verzekeringsovereenkomsten die op dat tijdstip bestonden, tenzij partijen anders overeenkomen.
