@@ -5,4 +5,5 @@ b. bij toepassing van artikel 2b: de ondernemer die dan wel het publiekrechtelij
 c. bij toepassing van artikel 2c, tweede lid: de natuurlijke persoon die het accijnsgoed voorhanden heeft;
 d. bij toepassing van artikel 2d: degene voor wiens rekening de minerale oliën worden vervoerd dan wel degene die de minerale oliën verkrijgt;
 e. bij toepassing van artikel 2e: de door de verkoper aangewezen fiscaal vertegenwoordiger;
-f. bij toepassing van artikel 2f: degene die het accijnsgoed vervaardigt dan wel degene die het accijnsgoed voorhanden heeft.
+f. bij toepassing van artikel 2f: degene die het accijnsgoed vervaardigt dan wel degene die het accijnsgoed voorhanden heeft;
+g. bij toepassing van artikel 2h: de natuurlijke persoon of de rechtspersoon, bedoeld in artikel 86a, eerste lid.
