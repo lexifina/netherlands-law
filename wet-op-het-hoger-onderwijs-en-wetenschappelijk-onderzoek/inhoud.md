@@ -96,3 +96,12 @@
 #### Paragraaf 2. Voorschriften betreffende de onderzoekinstellingen
 #### Paragraaf 3. Aanhangige beroepen
 ### Titel 6. Evaluatie, inwerkingtreding, citeertitel
+## Hoofdstuk 17a. Overgangs- en invoeringsbepalingen van de wet betreffende de invoering van de bachelor-masterstructuur in het hoger onderwijs
+### Titel 1. Wet van 6 juni 2002 (Stb. 303)
+#### Paragraaf 1. Algemeen
+#### Paragraaf 2. Instelling en registratie van bachelor- en masteropleidingen in het wetenschappelijk onderwijs; tijdelijke handhaving van opleidingen in afbouw
+#### Paragraaf 3. Ongedeelde opleidingen in het wetenschappelijk onderwijs
+#### Paragraaf 4. Omzetting van rechtswege en registratie van bacheloropleidingen in het hoger beroepsonderwijs; tijdelijke handhaving van voortgezette opleidingen
+#### Paragraaf 5. Invoering studiepuntensysteem «nieuwe stijl»
+#### Paragraaf 6. Overig invoerings- en overgangsrecht
+#### Paragraaf 7. Overige bepalingen

@@ -1,0 +1,4 @@
+# Artikel 17a.6. Opleidingen in afbouw
+1. Indien het instellingsbestuur, bedoeld in artikel 17a.2 of artikel 17a.2b toepassing heeft gegeven aan het tweede lid van die artikelen, houdt hij de opleiding in het wetenschappelijk onderwijs in stand tot een zodanig tijdstip dat de voor de opleiding ingeschreven studenten en extraneï de opleiding aan dezelfde instelling of aan een andere instelling binnen een redelijke tijd kunnen voltooien.
+2. Met ingang van het in artikel 17a.2, tweede lid, bedoelde studiejaar worden geen studenten of extraneï voor de eerste maal voor de propedeutische fase van de desbetreffende opleiding in het wetenschappelijk onderwijs ingeschreven.
+3. Op een in dit artikel bedoelde opleiding en de daarvoor ingeschreven studenten en extraneï blijven de voorschriften van deze wet en de daarop gebaseerde uitvoeringsregelingen, zoals die op 31 augustus 2002 luidden, van toepassing.
