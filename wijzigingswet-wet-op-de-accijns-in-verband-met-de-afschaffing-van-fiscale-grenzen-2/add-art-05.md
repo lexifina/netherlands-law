@@ -1,0 +1,3 @@
+# Artikel V
+1. De Wet op de accijns en de daarop gebaseerde regelingen zoals deze luidden op 31 december 1992 zijn van toepassing op accijnsgoederen die vóór 1 januari 1993 zijn verzonden vanuit een accijnsgoederenplaats naar de in artikel 2, derde lid, onderdelen a, b of c, bedoelde bestemmingen en na 31 december 1992 op die bestemmingen worden ontvangen.
+2. De Wet op de accijns en de daarop gebaseerde regelingen zoals deze luidden op 31 december 1992 zijn van toepassing op accijnsgoederen die vóór 1 januari 1993 zijn verzonden vanuit het buitenland, een entrepot of een plaats voor tijdelijke opslag naar de in artikel 3, derde lid, onderdelen a, b of c, bedoelde bestemmingen en na 31 december 1992 op die bestemmingen worden ontvangen.
