@@ -35,7 +35,7 @@
 ### Titel 1. Personeel van instellingen voor educatie en beroepsonderwijs
 #### § 1. Formatie; rechtspositie
 #### § 2. Commissie van beroep
-### Titel 2. Benoembaarheidvereisten voor docenten van instellingen
+### Titel 2. Vereisten benoeming of tewerkstelling voor docenten van instellingen
 ### Titel 2a. Benoembaarheidsvereiste voor overig personeel van instellingen
 ### Titel 3. Personeel van landelijke organen
 ## Hoofdstuk 6. Het onderwijsaanbod beroepsopleidingen
