@@ -1,0 +1,2 @@
+# Artikel IX
+Met betrekking tot op 31 december 1993 bestaande aanspraken op uitkeringen ingevolge een op die datum bestaande premiespaarregeling en een winstdelingsspaarregeling alsmede met betrekking tot reeds op die datum toegekend spaarloon blijven de regels van kracht die daarvoor golden op 31 december 1993. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het overgangsrecht.
