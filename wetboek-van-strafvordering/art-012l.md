@@ -1,2 +1,3 @@
 # Artikel 12l
-Bij toepassing van artikel 74, dan wel het bepaalde krachtens artikel 74c van het Wetboek van Strafrecht wegens een overtreding is beklag niet toegelaten.
+1. Beklag is niet toegelaten terzake van strafbare feiten waarvoor de verdachte buiten vervolging is gesteld of een beschikking waarin verklaard wordt dat de zaak is geëindigd aan hem is betekend.
+2. Betreft het beklag een strafbaar feit waarvoor aan de verdachte een kennisgeving van niet verdere vervolging is betekend, dan moet het beklag worden gedaan binnen drie maanden nadat zich een omstandigheid heeft voorgedaan waaruit voortvloeit dat de rechtstreeks belanghebbende met de kennisgeving bekend is geworden.
