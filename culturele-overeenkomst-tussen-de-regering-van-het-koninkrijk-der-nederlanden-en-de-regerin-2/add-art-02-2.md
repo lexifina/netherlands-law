@@ -1,0 +1,2 @@
+# Artikel II
+De Overeenkomstsluitende Partijen bevorderen de uitwisseling van bezoeken en andere contacten tussen vooraanstaande persoonlijkheden uit het culturele leven, zoals schrijvers, componisten, architecten, beeldende kunstenaars, kunstcritici, journalisten, deskundigen op het gebied van musea, kunstgalerijen en bibliotheken, alsmede deskundigen op het gebied van het maatschappelijk werk, de massamedia, culturele en opvoedkundige arbeid, de jeugdvorming en de sportbeoefening.
