@@ -1,0 +1,2 @@
+# Artikel III
+Ten aanzien van voertuigen onderscheidenlijk combinaties van voertuigen, vóór de datum van inwerkingtreding van artikel I, onderdelen H tot en met K, van dit besluit in gebruik als examenvoertuig onderscheidenlijk als examencombinatie voor het praktijkexamen voor de rijbewijscategorieën C, E bij C, D en E bij D blijven de artikelen 73, 74, 76 en 77 van het Reglement rijbewijzen zoals die artikelen luidden vóór de datum van inwerkingtreding van artikel I, onderdelen H tot en met K, van dit besluit, van kracht tot 30 september 2013.
