@@ -1,0 +1,2 @@
+# Artikel VII
+In afwijking van de artikelen 81 van de Provinciewet (Stb. 1962, 17), 194 van de gemeentewet (Stb. 1931, 89) en 59, tweede lid, van de Waterschapswet blijven de bepalingen van verordeningen van provincies, van gemeenten en van waterschappen betreffende het onderwerp waarin deze wet voorziet - behoudens in de gevallen waarin strijd met de bij of krachtens deze wet gestelde voorschriften zou ontstaan - nog van kracht tot twee jaar na het in werking treden van dit artikel.

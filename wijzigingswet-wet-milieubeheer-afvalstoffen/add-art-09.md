@@ -1,0 +1,4 @@
+# Artikel IX
+1. De titels, paragrafen en artikelen van hoofdstuk 10 van de Wet milieubeheer worden door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer doorlopend genummerd. De verwijzingen in de Wet milieubeheer worden aan die nummering aangepast.
+2. De tekst van de Wet milieubeheer wordt door Onze Minister van Justitie in het Staatsblad geplaatst.
+3. De tekst van de krachtens de artikelen II, III en IV ingevoegde en gewijzigde bepalingen van de Wet verontreiniging oppervlaktewateren, de Wet verontreiniging zeewater en de Wet op de economische delicten worden door Onze Minister van Justitie in het Staatsblad geplaatst, nadat de verwijzingen in die wetten naar artikelen van de Wet milieubeheer door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer zijn aangepast aan de vernummering van die artikelen ingevolge het eerste lid.
