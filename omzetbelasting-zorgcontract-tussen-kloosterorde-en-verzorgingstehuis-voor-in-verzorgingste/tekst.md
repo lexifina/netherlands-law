@@ -1,0 +1,15 @@
+# Tekst
+De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
+Aan mij is een vraag voorgelegd over de reikwijdte van de in artikel 11, eerste lid, onderdeel c, van de Wet op de omzetbelasting 1968 (hierna: de Wet) opgenomen vrijstelling. De vraag en het antwoord zijn hieronder opgenomen.
+## Vraag
+In een verzorgingstehuis zijn door een kloosterorde bejaarde kloosterlingen ondergebracht. Tot dusverre verzorgde de kloosterorde 'zijn' bejaarde kloosterlingen zelf, maar vanwege het vergrijzende kloosterlingenbestand is de orde hiertoe niet meer in staat. In verband hiermee schakelt de orde hiervoor het verzorgingstehuis in.
+Het verzorgingstehuis is met de kloosterorde contractueel overeengekomen om tegen betaling door de orde aan vorenbedoelde kloosterlingen de hieronder omschreven (niet-medische) zorg te verstrekken:
+– materiële zorg (bijv. boodschappen doen, de was verzorgen, afspraken maken met derden (bijv. een ziekenhuis), het aanschaffen van bepaalde (o.a. medische) artikelen;
+– sociale zorg (extra zorg en aandacht bij ziekte, waken bij overlijden e.d.);
+– welzijnszorg (bijv. geregeld binnenlopen, zorgen voor een huiselijke sfeer, meegaan naar het ziekenhuis, de kapper e.d.);
+– psycho-sociale zorg (persoonlijke aandacht en begeleiding, als gesprekspartner optreden bij zorgen en problemen e.d.);
+– werkzaamheden die worden verricht na het overlijden van de kloosterling (bijv. het regelen van de begrafenis van de kloosterling, nazorg aan de familie e.d. van de kloosterling, het uitruimen van de kamer van de kloosterling enz.).
+Is de hiervoor omschreven zorg te rangschikken onder de vrijstelling die is opgenomen in artikel 11, eerste lid, onderdeel c, van de Wet?
+## Antwoord
+Ja, de hiervoor omschreven zorg is te rangschikken onder de vrijstelling van artikel 11, eerste lid, onderdeel c, van de Wet, mits het verzorgingstehuis met deze zorg geen winst beoogt in de zin van artikel 11, tweede lid, van de Wet.
+De tekst van artikel 11, eerste lid, onderdeel c, van de Wet biedt de ruimte om naast medische zorg ook niet-medische zorg onder de vrijstelling te rangschikken. In dit verband is van belang dat artikel 11, eerste lid, onderdeel c, spreekt over 'het verzorgen en verplegen' en dat de term 'verzorgen' meer omvat dan louter medische zorg. Ook artikel 13A, lid 1, letter b, van de zesde BTW-richtlijn, waarop artikel 11, eerste lid, onderdeel c, van de Wet is gebaseerd, laat ruimte om niet-medische zorg onder de vrijstelling te rangschikken. In lijn met vorenbedoelde richtlijnbepaling kan alleen de niet-medische zorg die nauw samenhangt met de normaliter door verzorgingstehuizen geboden medische zorg worden gerangschikt onder de vrijstelling van artikel 11, eerste lid, onderdeel c, van de Wet. Bij de hiervoor beschreven zorg die het verzorgingstehuis aanbiedt is vorenbedoeld verband aanwezig. In de praktijk omvat het normale takenpakket van verzorgingstehuizen naast medische handelingen als regel immers ook de hiervoor beschreven zorg.
