@@ -1,0 +1,3 @@
+# Artikel II
+1. Projectvoorstellen die betrekking hebben op industrieel onderzoek dat gericht is op het aanmerkelijk verbeteren van gegevensinfrastructuur en die in het kader van het Nationaal Programma Gebruikersondersteuning 2001–2005 in het jaar 2002 zijn ingediend worden vanaf het tijdstip van inwerkingtreding van deze regeling aangemerkt als aanvragen voor subsidie als bedoeld in artikel 2 van de Tijdelijke subsidieregeling Nationaal Programma GO.
+2. In afwijking van artikel 7 van de Tijdelijke subsidieregeling Nationaal Programma GO geeft de Minister van Verkeer en Waterstaat ten aanzien van de in het eerste lid bedoelde aanvragen de beschikking tot subsidieverlening binnen 8 weken na de inwerkingtreding van deze regeling.
