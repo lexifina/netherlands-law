@@ -1,0 +1,12 @@
+# Artikel 2b
+1. Voor werkzaamheden binnen openingstijd ter zake van het slachten van klein vederwild en haarwild als bedoeld in de Regeling keuring en handel dierlijke producten is de aanbieder een vergoeding verschuldigd, bestaande uit een starttarief ten bedrage van € 31,67 en een tarief per dier voor de volgende categorieën:
+a. klein veder- en haarwild met een geslacht gewicht van minder dan 2 kilogram;
+b. klein veder- en haarwild met een geslacht gewicht van 2 tot en met 5 kilogram;
+c. klein veder- en haarwild met een geslacht gewicht van meer dan 5 kilogram.
+2. Onverminderd het derde en vierde lid, wordt het tarief per dier, bedoeld in het eerste lid, onderdelen a, b en c, berekend door het aantal kwartieren dat op één en dezelfde dag door de met de werkzaamheden belaste dierenarts of dierenartsen aan keuring en onderzoek in verband met het slachten van dieren van dezelfde categorie in een slachterij is besteed, de tijd die met onderbrekingen en uitstel van de werkzaamheden is gemoeid hieronder begrepen, te vermenigvuldigen met € 24,68 en de uitkomst hiervan te delen door het aantal dieren van dezelfde categorie, dat op deze dag in de desbetreffende slachterij is geslacht.
+3. Indien de in het tweede lid bedoelde dierenarts of dierenartsen zich bij de werkzaamheden laten bijstaan door één of meer assistenten, wordt het tarief per dier, bedoeld in het eerste lid, berekend door het totaal aantal kwartieren dat op één en dezelfde dag door één of meer dierenartsen aan keuring en onderzoek in verband met het slachten van dieren van dezelfde soort in een slachterij is besteed te vermenigvuldigen met € 24,68 en de uitkomst van die vermenigvuldiging te verhogen met de uitkomst van de vermenigvuldiging van het totaal aantal door de assistent of de assistenten aan desbetreffende keuring en onderzoek bestede kwartieren met € 16,40.
+4. Het tarief per dier, bedoeld in het eerste lid, onderdelen a, b en c, bedraagt:
+a. voor klein veder- en haarwild met een geslacht gewicht van minder dan 2 kilogram ten minste € 0,0045;
+b. voor klein veder- en haarwild met een geslacht gewicht van 2 tot en met 5 kilogram ten minste € 0,0090;
+c. voor klein veder- en haarwild met een geslacht gewicht van meer dan 5 kilogram ten minste € 0,0180.
+5. Onverminderd het tarief per dier is de aanbieder, bedoeld in het eerste lid, een vergoeding verschuldigd van € 1,35 per ton geslacht gewicht voor de controles, bedoeld in bijlage B van richtlijn 85/73/EEG.
