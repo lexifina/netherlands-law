@@ -1,0 +1,3 @@
+# Artikel XI. Jaarverslagen
+1. Overeenkomstig Bijlage IV stelt elke Partij een jaarverslag op over de programma's die zij heeft aangenomen ter bescherming en behoud van zeeschildpadden en hun habitats, alsmede over alle programma's die zij mogelijkerwijs heeft aangenomen met betrekking tot het gebruik van deze soorten overeenkomstig het derde lid van artikel IV.
+2. Elke Partij verschaft, hetzij rechtstreeks hetzij via het secretariaat, indien opgericht, haar jaarverslag aan de andere Partijen en aan het raadgevend comité en het wetenschappelijk comité ten minste 30 dagen voor de volgende algemene vergadering van de Partijen en stelt deze jaarverslagen ook ter beschikking aan andere Staten of belanghebbende instanties die daarom verzoeken.

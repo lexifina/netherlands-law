@@ -1,0 +1,2 @@
+# Artikel XX. Aanvullende protocollen
+Teneinde de bescherming en het behoud van zeeschildpadden buiten het Verdragsgebied waar deze soorten ook voorkomen, te bevorderen, moeten de Partijen met Staten die niet in aanmerking komen om partij te worden bij dit Verdrag onderhandelen over een aanvullend protocol of aanvullende protocollen, in overeenstemming met de doelstelling van dit Verdrag, waarbij alle belanghebbende Staten partij kunnen worden.

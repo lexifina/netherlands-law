@@ -1,0 +1,3 @@
+# Article XVI. Settlements of disputes
+1. Any Party may consult with one or more other Parties about any dispute related to the interpretation or application of the provisions of this Convention to reach a solution satisfactory to all parties to the dispute as quickly as possible.
+2. If a dispute is not settled through such consultation within a reasonable period, the Parties in question shall consult among themselves as soon as possible in order to settle the dispute through any peaceful means they may decide upon in accordance with international law, including, where appropriate, those provided for in the United Nations Convention on the Law of the Sea.

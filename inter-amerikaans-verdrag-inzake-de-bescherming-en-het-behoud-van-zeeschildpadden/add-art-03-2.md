@@ -1,0 +1,2 @@
+# Artikel III. Toepassingsgebied van het Verdrag
+Het toepassingsgebied van dit Verdrag (het Verdragsgebied) omvat het landgebied in de Amerikaanse landen van elk der Partijen, alsmede de maritieme gebieden van de Atlantische Oceaan, de Caribische Zee en de Stille Zuidzee, waar elk der Partijen soevereiniteit, soevereine rechten of rechtsmacht uitoefent over levende mariene rijkdommen, overeenkomstig het internationale recht, als weergegeven in het Verdrag van de Verenigde Naties inzake het recht van de zee.

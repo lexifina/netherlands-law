@@ -1,0 +1,2 @@
+# Article III. Area of application of the Convention
+The area of application of this Convention (the Convention Area) comprises the land territory in the Americas of each of the Parties, as well as the maritime areas of the Atlantic Ocean, the Caribbean Sea and the Pacific Ocean, with respect to which each of the Parties exercises sovereignty, sovereign rights or jurisdiction over living marine resources in accordance with international law, as reflected in the United Nations Convention on the Law of the Sea.

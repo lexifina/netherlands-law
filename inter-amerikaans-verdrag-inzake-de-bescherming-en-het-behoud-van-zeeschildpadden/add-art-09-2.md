@@ -1,0 +1,4 @@
+# Artikel IX. Programma's van toezicht
+1. Gedurende het jaar volgend op de inwerkingtreding van dit Verdrag, stelt elke Partij binnen haar grondgebied en in maritieme gebieden waarover zij soevereiniteit, soevereine rechten of rechtsmacht uitoefent, een programma vast teneinde toezicht te verzekeren op de toepassing van de in dit Verdrag neergelegde of ingevolge dit Verdrag aangenomen maatregelen ter bescherming en behoud van zeeschildpadden en hun habitats.
+2. Het in het vorige lid genoemde programma omvat, waar nodig, tevens mechanismen en regelingen voor deelname van door elke Partij aangewezen of in onderling overleg aangewezen waarnemers aan werkzaamheden ten behoeve van het toezicht.
+3. Bij de uitvoering van het programma kan elke Partij optreden met de steun van of in samenwerking met andere belanghebbende Staten en relevante internationale organisaties, alsmede niet-gouvernementele organisaties.

@@ -1,0 +1,22 @@
+# Article IV. Measures
+1. Each Party shall take appropriate and necessary measures, in accordance with international law and on the basis of the best available scientific evidence, for the protection, conservation and recovery of sea turtle populations and their habitats:
+a) In its land territory and in maritime areas with respect to which it exercises sovereignty, sovereign rights or jurisdiction included within the Convention Area; and
+b) Notwithstanding Article III, with respect to vessels on the high seas that are authorized to fly its flag.
+2. Such measures shall include:
+a) The prohibition of the intentional capture, retention or killing of, and domestic trade in, sea turtles, their eggs, parts or products;
+b) Compliance with the obligations established under the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) relating to sea turtles, their eggs, parts or products;
+c) To the extent practicable, the restriction of human activities that could seriously affect sea turtles, especially during the periods of reproduction, nesting and migration;
+d) The protection, conservation and, if necessary, the restoration of sea turtle habitats and nesting areas, as well as the establishment of necessary restrictions on the use of such zones, including the designation of protected areas, as provided in Annex II;
+e) The promotion of scientific research relating to sea turtles and their habitats, as well as to other relevant matters that will provide reliable information useful for the adoption of the measures referred to in this Article;
+f) The promotion of efforts to enhance sea turtle populations, including research into the experimental reproduction, raising and reintroduction of sea turtles into their habitats in order to determine the feasibility of these practices to increase populations, without putting sea turtles at risk;
+g) The promotion of environmental education and dissemination of information in an effort to encourage the participation of government institutions, nongovernmental organizations and the general public of each State, especially those communities that are involved in the protection, conservation and recovery of sea turtle populations and their habitats;
+h) The reduction, to the greatest extent practicable, of the incidental capture, retention, harm or mortality of sea turtles in the course of fishing activities, through the appropriate regulation of such activities, as well as the development, improvement and use of appropriate gear, devices or techniques, including the use of turtle excluder devices (TEDs) pursuant to the provisions of Annex III, and the corresponding training, in keeping with the principle of the sustainable use of fisheries resources; and
+i) Any other measure, in accordance with international law, which the Parties deem appropriate to achieve the objective of this Convention.
+3. With respect to such measures:
+a) Each Party may allow exceptions to Paragraph 2(a) to satisfy economic subsistence needs of traditional communities, taking into account the recommendations of the Consultative Committee established pursuant to Article VII, provided that such exceptions do not undermine efforts to achieve the objective of this Convention. In making its recommendations, the Consultative Committee shall consider, inter alia, the status of the sea turtle populations in question, the views of any Party regarding such populations, impacts on such populations on a regional level, and methods used to take the eggs or turtles to cover such needs;
+b) A Party allowing such an exception shall:
+(i) establish a management program that includes limits on levels of intentional taking;
+(ii) include in its Annual Report, referred to in Article XI, information concerning its management program;
+c) Parties may establish, by mutual agreement, bilateral, subregional or regional management plans;
+d) The Parties may, by consensus, approve exceptions to the measures set forth in paragraph 2(c)-(i) to account of circumstances warranting special consideration, provided that such exceptions do not undermine the objective of this Convention.
+4. When an emergency situation is identified that undermines efforts to achieve the objective of this Convention and that requires collective action, the Parties shall consider the adoption of appropriate and adequate measures to address the situation. These measures shall be of a temporary nature and shall be based on the best available scientific evidence.

@@ -1,0 +1,3 @@
+# Article XI. Annual reports
+1. Each Party shall prepare an annual report, in accordance with Annex IV, on the programs it has adopted to protect and conserve sea turtles and their habitats, as well as any program it may have adopted relating to the utilization of these species in accordance with Article IV(3).
+2. Each Party shall provide, either directly or through the Secretariat, if established, its annual report to the other Parties and to the Consultative and Scientific Committees at least 30 days prior to the next ordinary meeting of the Parties and shall also make such annual reports available to other States or interested entities that so request.

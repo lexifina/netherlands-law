@@ -1,0 +1,3 @@
+# Artikel XVI. Beslechting van geschillen
+1. Een Partij kan een of meer andere Partijen raadplegen over een geschil met betrekking tot de uitlegging of de toepassing van de bepalingen van dit Verdrag, teneinde zo spoedig mogelijk een voor alle bij het geschil betrokken partijen bevredigende oplossing te bereiken.
+2. Indien een geschil binnen een redelijke termijn niet wordt beslecht door middel van deze raadpleging, raadplegen de betrokken Partijen elkaar zo spoedig mogelijk teneinde het geschil te beslechten met alle vreedzame middelen waartoe zij kunnen besluiten overeenkomstig het internationale recht, met inbegrip van, indien van toepassing, die middelen die zijn neergelegd in het Verdrag van de Verenigde Naties inzake het recht van de zee.

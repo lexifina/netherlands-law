@@ -1,0 +1,2 @@
+# Article XX. Complementary protocols
+In order to promote the protection and conservation of sea turtles outside the Convention Area where these species also exist, the Parties should negotiate with States that are not eligible to become party to this Convention a complementary protocol or protocols, consistent with the objective of this Convention, to which all interested States may become party.

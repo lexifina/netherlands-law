@@ -1,0 +1,4 @@
+# Article IX. Monitoring programs
+1. During the year following the entry into force of this Convention, each Party shall establish, within its territory and in maritime areas with respect to which it exercises sovereignty, sovereign rights or jurisdiction, a program to ensure monitoring of the application of the measures to protect and conserve sea turtles and their habitats set forth in this Convention or adopted pursuant thereto.
+2. The program referred to in the preceding paragraph shall include, where appropriate, mechanisms and arrangements for the participation by observers designated by each Party or by agreement among them in monitoring activities.
+3. In implementing the program, each Party may act with the support or cooperation of other interested States and relevant international organizations, as well as non-governmental organizations.
