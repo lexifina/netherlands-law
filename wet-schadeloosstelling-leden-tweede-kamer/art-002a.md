@@ -1,0 +1,3 @@
+# Artikel 2a
+1. Indien aan het burgerlijk rijkspersoneel een eenmalige uitkering wordt toegekend en wordt bepaald dat deze uitkering een algemeen karakter draagt, ontvangen de kamerleden een uitkering op gelijke voet.
+2. Indien de hoogte van de uitkering, bedoeld in het eerste lid, afhankelijk is van de hoogte van de schadeloosstelling, wordt bij de vaststelling hiervan rekening gehouden met een eventuele vermindering van de schadeloosstelling als bedoeld in artikel 3, met een eventuele toelage als bedoeld in artikel 11, alsmede met een verhoging van de schadeloosstelling als bedoeld in artikel 12.

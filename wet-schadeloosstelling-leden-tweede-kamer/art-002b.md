@@ -1,0 +1,2 @@
+# Artikel 2b
+De kamerleden ontvangen een eindejaarsuitkering overeenkomstig de bepalingen welke daaromtrent voor het burgerlijk rijkspersoneel zijn vastgesteld. Grondslag voor de eindejaarsuitkering is de schadeloosstelling, bedoeld in artikel 2, verminderd met het in dat artikel bedoelde percentage en rekening houdend met een eventuele vermindering van de schadeloosstelling als bedoeld in artikel 3, alsmede de toelagen, bedoeld in de artikelen 11 en 12.
