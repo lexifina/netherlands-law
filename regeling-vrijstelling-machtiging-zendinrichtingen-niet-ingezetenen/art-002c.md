@@ -1,0 +1,2 @@
+# Artikel 2c
+In afwijking van het bepaalde in artikel 2a is een niet-ingezetene, die tijdelijk in Nederland verblijft en in een van de landen van de CEPT overeenkomstig de Recommandatie T/R 21–09 is gemachtigd voor het aanwezig hebben en gebruiken van een zendinrichting, bestemd voor landmobiele satelliet-communicatie, vrijgesteld van het vereiste van een machtiging voor de aanleg, de aanwezigheid en het gebruik van de zendinrichting, voor zover wordt voldaan aan het bepaalde in artikel 2d.

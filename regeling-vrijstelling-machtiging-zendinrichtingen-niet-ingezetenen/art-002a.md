@@ -1,0 +1,2 @@
+# Artikel 2a
+Een niet-ingezetene die tijdelijk in Nederland verblijft en in één van de landen van de CEPT overeenkomstig de Recommandatie T/R 21-07 is gemachtigd voor het aanwezig hebben en gebruiken van een zendinrichting, bestemd voor landmobiele communicatie door middel van satellietverbindingen, is vrijgesteld van het vereiste van een machtiging voor de aanleg, de aanwezigheid en het gebruik van deze inrichting voor zover wordt voldaan aan het bepaalde in artikel 2b.
