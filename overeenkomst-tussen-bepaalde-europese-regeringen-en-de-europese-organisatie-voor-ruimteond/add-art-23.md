@@ -1,0 +1,2 @@
+# Article XXIII
+Upon entry into force of the Arrangement, the Government of the French Republic shall register it with the Secretariat of the United Nations, in accordance with Article 102 of the United Nations Charter.

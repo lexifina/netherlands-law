@@ -1,0 +1,10 @@
+# Article VII
+1. In order that the financial envelope referred to in Article VI, paragraph 2, above may be revised in the event of changes in price levels, the Participants agree, except where otherwise provided in paragraph 2.4 of Annex B to this Arrangement, to:
+(a) apply to the contribution of each country participating in the direct expenditure referred to in Article VI, paragraph revision formulas using the relevant national indices adopted by the Organisation; and
+(b) apply to the contribution of each country participating in the expenditure referred to in Article VI, paragraphs 2 (b) and (c) the normal rules in force in the Organisation.
+2. If, in the opinion of the Programme Board, the amount of direct expenditure referred to in Article VI, paragraph 2 (a) above has to be revised for reasons other than changes in price levels, the following provisions shall apply:
+(a) If the additional expenditure does not exceed 20% of mount, revised, where applicable, under the provisions of the paragraph 1 above, the Participants shall be bound to contribute to the additional expenditure in proportion to their contributions as laid down in Annex B of the present Arrangement.
+(b) Additional expenditure exceeding 20% of the aforesaid amount shall be borne by the French Government provided it does not exceed 35%.
+(c) No Participant may withdraw from the programme so long as the provisions of sub-paragraphs (a) and (b) of the present paragraph are operative.
+(d) If the additional expenditure exceeds 35% of the amount direct expenditure referred to in Article VI, paragraph 2 (a) above, revised where necessary in accordance with paragraph 1 above, either in fact or according to forecasts by the Programme Board, the French Government's obligations referred to above shall cease and the Participants shall consult among themselves as to the future of the programme.
+(e) The French Government will review the undertaking referred to in sub-paragraph (b) above should the Organisation no longer be able to provide it with the funds necessary for execution of the programme owing to the default of one or more Participants.

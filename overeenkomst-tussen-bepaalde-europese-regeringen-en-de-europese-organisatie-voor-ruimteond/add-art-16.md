@@ -1,0 +1,8 @@
+# Article XVI
+1. This Arrangement shall be open for signature by the Member States of the European Space Conference from 15 October 1973 to 30 November 1973.
+2. The States shall become parties to the Arrangement:
+- either by signature not subject to ratification or approval,
+- or by depositing an instrument of ratification or approval with the Government of the French Republic if the Arrangement has been signed subject to ratification or approval.
+3. This Arrangement shall come into force when it has been signed by the Organisation and when the States whose participation amounts to 75% of the total weight of the votes referred to in paragraph 2.3 of the Annex B, have become parties to this Arrangement in accordance with paragraph 2 of this Article.
+4. For the purpose of paragraph 3 above, the deposit with the depositary Government of a declaration of intent to apply the Arrangement provisionally and to seek ratification or approval as soon as possible shall be considered as the deposit of an instrument of ratification or approval.
+5. The Government of any Member State of the Organisation which has not signed the Arrangement by 30 November 1973 may become a party to it after that date, provided the other Governments, parties to the Arrangement, agree. In such event, the Government in question must deposit an instrument of accession with the Government of the French Republic; it may also apply the provisions of paragraph 4 of this Article in order to become a party to this Arrangement. The Programme Board shall determine unanimously the terms governing the participating of the acceding States.

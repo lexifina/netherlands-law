@@ -1,0 +1,4 @@
+# Article III
+1. The objectives of the programme referred to in Article I above, a description of the launcher and a description of the development phase of the programme, are contained in Annex A to this Arrangement. The decision to proceed to the production phase of the programme shall be taken in conformity with the provisions of Article V below.
+2. The objectives of the definition stage of the development phase is to establish the detailed specifications of the launcher on the technical bases of Annex A to this Arrangement, to draw up a detailed development plan, to distribute work in industry and to adjust the financial contribution of each Participant to the programme in conformity with the procedure described in Article X of this Arrangement.
+3. The elements of the detailed analysis referred to in paragraph 2 above will enable the development phase to be carried out. The latter will be completed with qualification of the launcher following the flight tests.

@@ -1,0 +1,3 @@
+# Artikel XV
+1. Elk geschil dat zich voordoet tussen twee of meer Deelnemers of tussen een van hen en de Organisatie betreffende de uitlegging of toepassing van deze Overeenkomst en dat niet in onderling overleg kan worden geregeld, wordt op verzoek van een der partijen bij het geschil voorgelegd aan een scheidsman, die moet worden benoemd door de President van het Internationaal Gerechtshof. De scheidsman mag geen onderdaan zijn van een Staat die partij is bij het geschil en evenmin permanent in die Staat zijn gevestigd.
+2. De Partijen bij de Overeenkomst die geen partij zijn bij het geschil hebben het recht deel te nemen aan de procedure en de beslissing van de scheidsman is bindend voor alle Deelnemers, ongeacht of zij al dan niet aan de procedure hebben deelgenomen.

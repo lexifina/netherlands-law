@@ -1,0 +1,2 @@
+# Artikel XVIII
+De Deelnemers kunnen met eenparigheid van stemmen besluiten het programma te beëindigen. In een zodanig geval wordt, voor het verwerven van de onderdelen, installaties en uitrusting die voor de uitvoering van de ontwikkelingsfase van dit programma zijn verworven, voorrang verleend aan een Deelnemer, die op zich heeft genomen dit programma of een daarmede verband houdend programma voor eigen rekening voort te zetten.

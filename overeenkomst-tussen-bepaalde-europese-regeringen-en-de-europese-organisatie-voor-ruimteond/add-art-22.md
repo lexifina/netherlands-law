@@ -1,0 +1,3 @@
+# Article XXII
+1. This Arrangement may be revised at the request of a Participant or of the Organisation. Any amendments shall come into force when all parties have notified their approval to the depositary Government.
+2. The Annexes to this Arrangement may be revised by the Programme Board in accordance with the provisions of the revision clauses of those Annexes.
