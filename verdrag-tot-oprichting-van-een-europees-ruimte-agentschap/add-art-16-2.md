@@ -1,0 +1,9 @@
+# Artikel XVI
+De personeelsleden van het Agentschap:
+(a) genieten, ook nadat zij de dienst van het Agentschap hebben verlaten, immuniteit van jurisdictie met betrekking tot handelingen, waaronder begrepen gesproken en geschreven woorden, door hen in de uitoefening van hun functie verricht; deze immuniteit geldt evenwel niet in geval van een verkeersovertreding begaan door een personeelslid van het Agentschap, noch in geval van schade veroorzaakt door een motorvoertuig dat toebehoort aan of dat bestuurd werd door het betrokken personeelslid;
+(b) zijn vrijgesteld van alle verplichtingen met betrekking tot de militaire dienst;
+(c) genieten onschendbaarheid van al hun officiële papieren en documenten;
+(d) genieten, te zamen met hun inwonende gezinsleden, dezelfde faciliteiten ten aanzien van vrijstelling van alle maatregelen die de immigratie beperken en de inschrijving van vreemdelingen regelen, als die welke in het algemeen worden toegekend aan personeelsleden van internationale organisaties;
+(e) genieten dezelfde voorrechten met betrekking tot deviezenbepalingen als die welke in het algemeen worden toegekend aan personeelsleden van internationale organisaties;
+(f) genieten in tijden van internationale crisis, dezelfde faciliteiten ten aanzien van repatriëring als diplomatieke ambtenaren; hun inwonende gezinsleden genieten dezelfde faciliteiten;
+(g) hebben het recht, wanneer zij zich voor de eerste maal in de betrokken Lid-Staat vestigen, hun meubelen en persoonlijke bezittingen vrij van rechten in te voeren en hebben bij beëindiging van hun functie in die Lid-Staat, het recht hun meubelen en persoonlijke bezittingen vrij van rechten uit te voeren, in beide gevallen met inachtneming van de voorwaarden die de Lid-Staat, in wiens grondgebied dit recht wordt uitgeoefend, noodzakelijk acht.

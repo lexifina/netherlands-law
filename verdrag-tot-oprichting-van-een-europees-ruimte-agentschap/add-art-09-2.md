@@ -1,0 +1,3 @@
+# Artikel IX
+1. Goederen verworven ingevolge artikel V of ingevoerd ingevolge artikel VI mogen niet worden verkocht of afgestaan dan op voorwaarden vastgesteld door de Lid-Staten die de vrijstellingen hebben verleend.
+2. De overdracht van goederen en het verlenen van diensten tussen de Zetel en de vestigingen van het Agentschap, tussen de verschillende vestigingen onderling of, met het doel een programma van het Agentschap uit te voeren, tussen de vestigingen en een nationale instelling van een Lid-Staat, zijn vrij van heffingen of beperkingen van welke aard dan ook; indien nodig nemen de Lid-Staten alle passende maatregelen met het oog op vrijstelling of terugbetaling van dergelijke heffingen of met het oog op opheffing van dergelijke beperkingen.

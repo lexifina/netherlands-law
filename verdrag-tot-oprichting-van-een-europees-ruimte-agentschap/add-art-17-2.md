@@ -1,0 +1,5 @@
+# Artikel XVII
+Deskundigen die niet behoren tot de in artikel XVI bedoelde personeelsleden, genieten tijdens het uitoefenen van hun functie bij het Agentschap of tijdens het uitvoeren van opdrachten voor het Agentschap alsook tijdens reizen die zij in verband daarmee maken, de volgende voorrechten en immuniteiten, voor zover deze noodzakelijk zijn voor de uitoefening van hun functie:
+(a) immuniteit van jurisdictie met betrekking tot handelingen, waaronder begrepen gesproken en geschreven woorden, door hen in de uitoefening van hun functie verricht, behalve in geval van een door een deskundige begane verkeersovertreding, of in geval van schade veroorzaakt door een hem toebehorend of door hem bestuurd motorvoertuig; deskundigen blijven deze immuniteit genieten ook na beëindiging van hun functie bij het Agentschap;
+(b) onschendbaarheid van al hun officiële papieren en documenten;
+(c) dezelfde faciliteiten met betrekking tot valuta- en deviezenbepalingen, alsmede ten aanzien van hun persoonlijke bagage, als die welke worden toegekend aan ambtenaren van buitenlandse regeringen die met een tijdelijke officiële opdracht zijn belast.

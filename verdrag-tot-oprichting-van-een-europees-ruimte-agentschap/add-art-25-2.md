@@ -1,0 +1,4 @@
+# Artikel XXV. Ontbinding
+1. Het Agentschap wordt ontbonden wanneer het aantal Lid-Staten minder dan vijf wordt. Het kan te allen tijde worden ontbonden nadat daarover door de Lid-Staten overeenstemming is bereikt.
+2. In geval van ontbinding stelt de Raad een liquidatie-orgaan in, dat in onderhandeling zal treden met de Staten op wier grondgebied de Zetel en de vestigingen van het Agentschap op dat ogenblik zijn gevestigd. De rechtspersoonlijkheid van het Agentschap blijft bestaan ten behoeve van de liquidatie.
+3. Elk overschot wordt verdeeld onder de Staten die op het ogenblik van de ontbinding lid van het Agentschap zijn, en wel in verhouding tot de bijdragen die zij vanaf het tijdstip waarop zij partij werden bij dit Verdrag daadwerkelijk hebben betaald. Indien er een tekort is, wordt dit over dezelfde Staten omgeslagen in verhouding tot hun voor het dan lopende begrotingsjaar vastgestelde bijdragen.

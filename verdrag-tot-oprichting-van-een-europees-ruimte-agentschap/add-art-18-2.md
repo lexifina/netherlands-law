@@ -1,0 +1,3 @@
+# Artikel XVIII
+1. Met inachtneming van de voorwaarden en volgens de procedures zoals die door de Raad zijn vastgesteld, zijn de Directeur-Generaal en de personeelsleden van het Agentschap onderworpen aan een belasting ten gunste van het Agentschap op door het Agentschap betaalde salarissen en emolumenten. Deze salarissen en emolumenten zijn vrij van nationale inkomstenbelasting; de Lid-Staten behouden zich evenwel het recht voor rekening te houden met deze salarissen en emolumenten bij de berekening van de belasting die geheven wordt op inkomsten uit andere bronnen.
+2. De bepalingen van het eerste lid zijn niet van toepassing op door het Agentschap aan zijn vroegere Directeuren-Generaal en personeelsleden betaalde jaargelden en pensioenen.

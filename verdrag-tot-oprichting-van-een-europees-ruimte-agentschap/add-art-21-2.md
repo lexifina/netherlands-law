@@ -1,0 +1,3 @@
+# Artikel XXI
+1. De voorrechten en immuniteiten bepaald in deze Bijlage worden de Directeur-Generaal, de personeelsleden en deskundigen van het Agentschap niet verleend tot hun persoonlijk voordeel. Zij beogen uitsluitend om, in alle omstandigheden, het onbelemmerd functioneren van het Agentschap, alsook de volledige onafhankelijkheid van de personen aan wie zij worden verleend, te waarborgen.
+2. De Directeur-Generaal is verplicht iedere immuniteit op te heffen in alle gevallen waarin handhaving ervan de loop van het recht zou belemmeren, en wanneer er afstand van kan worden gedaan zonder de belangen van het Agentschap te schaden. Ten aanzien van de Directeur-Generaal is de Raad bevoegd deze immuniteit op te heffen.

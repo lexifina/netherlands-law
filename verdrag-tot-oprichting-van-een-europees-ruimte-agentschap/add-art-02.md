@@ -1,0 +1,6 @@
+# Artikel II. Doel
+Het doel van het Agentschap is de samenwerking tussen de Europese Staten op het gebied van het ruimte-onderzoek en de ruimtetechnologie en de toepassing hiervan in de ruimte, uitsluitend voor vreedzame doeleinden, tot stand te brengen en te bevorderen, met het oog op hun gebruik voor wetenschappelijke doeleinden en voor operationele ruimtesystemen bestemd voor praktische toepassing:
+(a) door het uitwerken en ten uitvoer leggen van een Europees ruimtebeleid op lange termijn, door aanbevelingen te doen bij de Lid-Staten inzake doelstellingen op ruimtegebied en door de onderlinge afstemming van het beleid van de Lid-Staten met betrekking tot andere nationale en internationale organisaties en instellingen;
+(b) door het uitwerken en ten uitvoer leggen van werkzaamheden en programma's op ruimtegebied;
+(c) door het coördineren van het gemeenschappelijk Europees ruimteprogramma en de nationale programma's en door het geleidelijk en zo volledig mogelijk integreren van laatstgenoemde programma's in het gemeenschappelijk Europees ruimteprogramma, in het bijzonder wat betreft de ontwikkeling van applicatiesatellieten;
+(d) door het uitwerken en ten uitvoer leggen van het bij zijn programma passende industriële beleid en door aanbevelingen te doen bij de Lid-Staten inzake een samenhangend industrieel beleid.

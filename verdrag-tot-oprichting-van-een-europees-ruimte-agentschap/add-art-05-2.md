@@ -1,0 +1,3 @@
+# Artikel V
+1. In het kader van zijn officiële werkzaamheden zijn het Agentschap, zijn vermogen en zijn inkomsten, vrijgesteld van directe belastingen.
+2. Indien door of ten behoeve van het Agentschap aankopen van aanzienlijke waarde worden verricht of een beroep wordt gedaan op diensten van aanzienlijke waarde, strikt noodzakelijk voor de uitoefening van de officiële werkzaamheden van het Agentschap, en indien in de prijs van zodanige aankopen of diensten belastingen of rechten zijn begrepen, nemen de Lid-Staten zo mogelijk passende maatregelen met het oog op vrijstelling of terugbetaling van zodanige belastingen of rechten.

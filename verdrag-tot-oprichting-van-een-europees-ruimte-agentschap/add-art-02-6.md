@@ -1,0 +1,4 @@
+# Artikel II
+1. Bij het plaatsen van alle opdrachten, geeft het Agentschap de voorkeur aan de industrie en de organisatie van de Lid-Staten. Echter wordt binnen elk niet-verplicht programma, vallende onder artikel V, eerste lid, letter b, van het Verdrag, bijzondere voorkeur gegeven aan de industrie en de organisaties van de deelnemende Staten.
+2. De Raad beslist of en in hoeverre het Agentschap van de bovengenoemde voorkeursregeling kan afwijken.
+3. De vraag of een onderneming moet worden beschouwd als behorend tot een der Lid-Staten, wordt beoordeeld naar de volgende criteria: plaats van de zetel der onderneming, van haar centra waar de beslissingen worden genomen en van haar onderzoekcentra, en het grondgebied waar de werkzaamheden zullen worden verricht. In geval van twijfel beslist de Raad of een onderneming moet worden geacht al of niet tot een Lid-Staat te behoren.

@@ -1,0 +1,2 @@
+# Artikel XIX
+De artikelen XVI en XVIII zijn van toepassing op alle categorieën van personeelsleden waarop het Personeelsstatuut van het Agentschap van toepassing is. De Raad bepaalt de categorieën van deskundigen op wie artikel XVII van toepassing is. De namen, hoedanigheden en adressen van de personeelsleden en deskundigen bedoeld in dit artikel worden op gezette tijden aan de Lid-Staten medegedeeld.

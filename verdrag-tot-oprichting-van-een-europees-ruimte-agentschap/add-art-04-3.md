@@ -1,0 +1,5 @@
+# Artikel IV
+1. De goedgekeurde uitgaven voor de werkzaamheden bedoeld in artikel V van het Verdrag worden bestreden uit bijdragen, vastgesteld overeenkomstig artikel XIII van het Verdrag.
+2. Wanneer een Staat overeenkomstig artikel XXII toetreedt tot het Verdrag, worden de bijdragen van de andere Lid-Staten opnieuw vastgesteld. Een nieuwe schaal, die van kracht wordt op een door de Raad te bepalen datum, wordt opgesteld op basis van de statistieken van het nationale inkomen over dezelfde jaren als die welke aan de bestaande schaal ten grondslag liggen. Indien nodig worden terugbetalingen verricht, ten einde te verzekeren dat de door alle Lid-Staten voor het lopende jaar betaalde contributies in overeenstemming zijn met het besluit van de Raad.
+3. (a) De wijze waarop de betalingen van de bijdragen moeten geschieden ten einde de nodige geldmiddelen van het Agentschap te waarborgen, wordt bepaald in het Financieel Reglement.
+(b) De Directeur-Generaal stelt de Lid-Staten in kennis van de hoogte van hun bijdrage en van de data waarop de betalingen dienen plaats te vinden.

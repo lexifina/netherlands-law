@@ -1,0 +1,5 @@
+# Artikel VI. Installaties en diensten
+1. Voor de uitvoering van de aan het Agentschap toevertrouwde programma's:
+(a) dient het Agentschap zijn eigen capaciteit te handhaven, nodig voor de voorbereiding van en het toezicht op zijn taken en, te dien einde, de vestigingen en de installaties op te richten en te exploiteren, die voor zijn werkzaamheden vereist zijn;
+(b) kan het Agentschap bijzondere overeenkomsten aangaan voor de uitvoering van bepaalde delen van zijn programma's door, of in samenwerking met, nationale instellingen van de Lid-Staten ofwel voor het in beheer nemen door het Agentschap zelf van bepaalde nationale installaties.
+2. Bij de uitvoering van hun programma's trachten de Lid-Staten en het Agentschap bij voorrang van hun bestaande installaties en beschikbare diensten een zo goed mogelijk gebruik te maken en ze te rationaliseren; zij richten derhalve geen nieuwe installaties of diensten op alvorens de mogelijkheid tot gebruik van de bestaande middelen te hebben onderzocht.

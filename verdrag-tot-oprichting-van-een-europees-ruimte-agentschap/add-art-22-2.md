@@ -1,0 +1,3 @@
+# Artikel XXII
+1. Het Agentschap werkt te allen tijde samen met de bevoegde autoriteiten van de Lid-Staten ten einde een goede rechtsbedeling te vergemakkelijken, de naleving van politievoorschriften en van voorschriften met betrekking tot de behandeling van explosieven en ontvlambare materialen, de volksgezondheid, de arbeidsinspectie of andere soortgelijke nationale wetgeving te verzekeren, alsmede ieder misbruik van de in deze Bijlage bedoelde voorrechten, immuniteiten en faciliteiten te voorkomen.
+2. De wijze waarop de in het eerste lid genoemde samenwerking zal plaats vinden kan worden vastgelegd in de in artikel XXVIII bedoelde aanvullende overeenkomsten.
