@@ -1,0 +1,2 @@
+# Artikel IX
+Met inachtneming van de van kracht zijnde wetten en voorschriften in Canada en Nederland vergemakkelijken deze landen de toegang tot en het tijdelijke verblijf op hun respectieve grondgebieden van het creatieve en technische personeel dat ondergeschikt is aan de coproducent van het andere land. Zij staan eveneens de tijdelijke invoer en wederuitvoer toe van alle apparatuur die nodig is voor de coproduktie krachtens deze Overeenkomst.

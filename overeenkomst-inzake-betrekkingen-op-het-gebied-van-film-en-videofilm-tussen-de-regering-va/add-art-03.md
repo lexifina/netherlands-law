@@ -1,0 +1,3 @@
+# Artikel III
+De producenten, de schrijvers en de regisseurs van coprodukties, alsmede technici, acteurs, en ander produktiepersoneel die meewerken aan de produktie, moeten Canadees of Nederlands zijn, dan wel de nationaliteit bezitten van één van de lidstaten van de Europese Economische Gemeenschap (EEG), dan wel ingezetene van Canada of Nederland zijn, dan wel ingezetene van één van de lidstaten van de Europese Economische Gemeenschap (EEG) zijn.
+Medewerking van andere acteurs dan die bedoeld in het eerste lid kan, indien dit voor de coproduktie is vereist, worden toegestaan behoudens toestemming van de bevoegde autoriteiten van beide landen.

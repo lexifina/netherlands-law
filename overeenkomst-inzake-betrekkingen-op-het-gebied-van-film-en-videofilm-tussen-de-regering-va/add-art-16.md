@@ -1,0 +1,3 @@
+# Artikel XVI
+Er worden aan de invoer, verspreiding en vertoning van Nederlandse film-en videoprodukties in Canada of Canadese film- en videoprodukties in Nederland geen andere beperkingen opgelegd dan die vervat in de wetten en voorschriften die van kracht zijn in elk van de twee landen.
+De bevoegde autoriteiten van beide landen achten het wenselijk dat de nasynchronisatie of de ondertiteling in het Frans of in het Engels van elke Nederlandse produktie die verspreid en vertoond wordt in Canada wordt verzorgd in dit laatstgenoemde land en de nasynchronisatie en ondertitelingen het Nederlands van elke Canadese produktie die verspreid en vertoond wordt in Nederland wordt verzorgd in dit laatstgenoemde land.

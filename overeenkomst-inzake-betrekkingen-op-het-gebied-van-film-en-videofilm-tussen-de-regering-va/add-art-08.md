@@ -1,0 +1,3 @@
+# Artikel VIII
+Het originele geluidsspoor van elke coproduktie wordt gemaakt in het Engels, dan wel in het Frans dan wel in het Nederlands. Tweetalig filmen in het Frans en Nederlands dan wel in het Engels en Nederlands is mogelijk. De coproduktie kan, al naar gelang het draaiboek vereist, dialogen in andere talen bevatten.
+De nasynchronisatie of ondertiteling van elke coproduktie in het Frans of het Engels wordt verzorgd in Canada. De nasynchronisatie of ondertiteling van elke coproduktie in het Nederlands wordt verzorgd in Nederland. Elke afwijking hiervan moet worden goedgekeurd door de bevoegde autoriteiten van beide landen.
