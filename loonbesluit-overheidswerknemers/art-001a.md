@@ -1,7 +1,0 @@
-# Artikel 1a
-1. Als loon in de zin van artikel 4 van de Coördinatiewet Sociale Verzekering wordt aangemerkt:
-a. wachtgeld uit hoofde van een dienstbetrekking die is geëindigd voor 1 januari 2001;
-b. wachtgeld uit hoofde van een dienstbetrekking die is geëindigd op of na 1 januari 2001, voorzover de periode waarover het recht op wachtgeld zich uitstrekt niet samenvalt met de periode waarover het, in verband met dezelfde werkloosheid ontstane, recht op uitkering op grond van de Werkloosheidswet, bedoeld in hoofdstuk IIa of IIb van die wet, inclusief een eventuele verlenging van die duur op grond van artikel 76 van die wet zich uitstrekt; en
-c. uitkering wegens ziekte tenzij in verband met die ziekte tevens recht is ontstaan op uitkering op grond van de Ziektewet.
-2. In dit artikel wordt verstaan onder wachtgeld: wachtgeld in de zin van het Rijkswachtgeldbesluit 1959 of een soortgelijke uitkering van een overheidswerknemer op grond van ontslag of werkloosheid alsmede een wachtgeld of daarmee gelijkgestelde uitkering in de zin van de bij of krachtens de Kaderwet militaire pensioenen vastgestelde bepalingen, met uitzondering van een uitkering in verband met functioneel leeftijdsontslag of vrijwillig vervroegd uittreden.
-3. In dit artikel wordt verstaan onder uitkering wegens ziekte: bezoldiging of uitkering wegens ziekte na beëindiging van het dienstverband als bedoeld in artikel 42 van het Algemeen Rijksambtenarenreglement, zoals dat luidde op 31 december 1997, of een overeenkomstige bepaling van een soortgelijke regeling.
