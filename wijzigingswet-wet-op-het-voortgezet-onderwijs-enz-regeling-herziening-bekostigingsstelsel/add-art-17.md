@@ -1,0 +1,2 @@
+# Artikel XVII. Overgangsregeling scholen voor beroepsonderwijs
+Onze Minister van Onderwijs en Wetenschappen dan wel voor wat betreft het lager landbouwonderwijs Onze Minister van Landbouw, Natuurbeheer en Visserij, stelt in 1993 ten behoeve van elke school voor beroepsonderwijs alsmede voor elke scholengemeenschap waarvan een school voor beroepsonderwijs deel uitmaakt, een bedrag vast ten behoeve van voorzieningen in de inventaris en het onderhoud. Dit bedrag wordt jaarlijks uitgekeerd gedurende een periode van ten hoogste tien jaren.

@@ -1,0 +1,3 @@
+# Artikel XI. Geen aanspraak op vergoeding
+1. Aan een op grond van artikel 80 van de Wet op het voortgezet onderwijs vastgestelde ministeriële regeling kunnen geen aanspraken worden ontleend op vergoeding van voorzieningen in de huisvesting en inventaris die voor 1 januari 1993 tot stand zijn gebracht.
+2. Aan de op grond van artikel 92 van de in het eerste lid genoemde wet vastgestelde ministeriële regeling dan wel aan de op grond van artikel XV vastgestelde ministeriële regeling kunnen geen aanspraken worden ontleend op vergoeding van exploitatiekosten waarvoor de aanspraken voor 1 januari 1993 zijn ontstaan.

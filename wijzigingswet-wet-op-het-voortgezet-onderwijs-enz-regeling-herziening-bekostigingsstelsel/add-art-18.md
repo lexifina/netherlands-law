@@ -1,0 +1,2 @@
+# Artikel XVIII. Overgangsregeling inrichtingen voor voortgezet onderwijs
+Voor de toepassing van het Besluit proefprojecten deeltijd vervolg/beroepsonderwijs (Stb. 1983, 128) blijven de op 31 juli 1992 geldende voorschriften, gegeven bij of krachtens hoofdstuk II van titel III van de Wet op het voortgezet onderwijs van kracht. Onze Minister van Onderwijs en Wetenschappen kan toestaan dat wordt afgeweken van deze voorschriften, voor zover dat naar zijn oordeel voor een goede gang van zaken noodzakelijk is.
