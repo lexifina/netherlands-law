@@ -1,0 +1,2 @@
+# Artikel 28a
+De heffing van omzetbelasting ter zake van de intracommunautaire verwerving van accijnsgoederen, andere dan tabaksprodukten, geschiedt met overeenkomstige toepassing van de voor de accijns geldende regels, indien de verwerving wordt verricht door ondernemers of rechtspersonen, andere dan ondernemers, waarvoor artikel 1a, tweede lid, toepassing vindt ter zake van intracommunautaire verwervingen van goederen, andere dan nieuwe vervoermiddelen en accijnsgoederen.

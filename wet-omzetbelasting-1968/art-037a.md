@@ -1,0 +1,6 @@
+# Artikel 37a
+1. De ondernemer, uitgezonderd die bedoeld in artikel 7, zesde lid, is verplicht uiterlijk de laatste dag van de maand volgend op een kalenderkwartaal bij de inspecteur door middel van het uitgereikte of toegezonden formulier een lijst in te dienen waarop zijn vermeld:
+a. de afnemers aan wie goederen zijn geleverd met toepassing van de bij deze wet behorende tabel II, onderdeel a, post 6;
+b. de afnemers aan wie in een andere lid-staat goederen zijn geleverd in aansluiting op in die lid-staat door de ondernemer verrichte intracommunautaire verwervingen waarvoor tevens belasting is geheven met toepassing van artikel 17b, tweede lid.
+2. In de lijst wordt opgave verlangd van de gegevens als bedoeld in artikel 22, lid 6, onder b, van de Zesde Richtlijn, waarvan de kennisneming van belang kan zijn voor de heffing van belasting ter zake van intracommunautaire verwervingen van goederen in andere lid-staten en die noodzakelijk zijn met het oog op de naleving van de bepalingen betreffende administratieve samenwerking op het gebied van de indirecte belastingen als bedoeld in dezelfde bepaling.
+3. In afwijking in zoverre van het eerste en het tweede lid kan de inspecteur toestaan dat de aldaar bedoelde gegevens op andere wijze, bij voorbeeld op electronische wijze, worden ingediend.

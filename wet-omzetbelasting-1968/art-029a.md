@@ -1,0 +1,3 @@
+# Artikel 29a
+1. Op verzoek wordt teruggaaf verleend van de belasting ter zake van intracommunautaire verwerving van goederen, voor zover de vergoeding wordt terugbetaald omdat een vermindering van de vergoeding is verleend of omdat de goederen in ongebruikte staat zijn teruggezonden. De teruggaaf wordt slechts verleend voor zover de ondernemer de belasting niet in aftrek heeft gebracht.
+2. Bij algemene maatregel van bestuur kunnen regels worden gesteld waarin het eerste lid niet van toepassing wordt verklaard op bedragen welke niet zijn betaald ten gevolge van een korting voor contante betaling.

@@ -1,0 +1,3 @@
+# Artikel 6b
+1. In afwijking van artikel 6, tweede lid, onderdeel c, onder 3°, worden diensten bestaande in werkzaamheden, deskundigenonderzoeken daaronder begrepen, met betrekking tot roerende zaken die worden verleend aan afnemers aan wie een btw-identificatienummer is toegekend in een andere lid-staat dan die waar de werkzaamheden feitelijk plaatsvinden, verricht in de lid-staat die aan de afnemer van de dienst het btw-identificatienummer heeft toegekend waaronder de dienst aan deze is verleend.
+2. Het eerste lid is alleen van toepassing indien de goederen worden verzonden of vervoerd buiten de lid-staat waar de diensten daadwerkelijk zijn verricht.

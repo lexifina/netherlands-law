@@ -1,0 +1,4 @@
+# Artikel 28l
+1. De ondernemer die beleggingsgoud produceert of goud omzet in beleggingsgoud kan ervoor kiezen artikel 28k, onderdeel a, op hem niet van toepassing te doen zijn met betrekking tot leveringen van beleggingsgoud aan een andere ondernemer.
+2. De ondernemer die in het kader van zijn onderneming normaliter goud levert voor industriële doeleinden, kan ervoor kiezen artikel 28k, onderdeel a, op hem niet van toepassing te doen zijn met betrekking tot leveringen van beleggingsgoud als bedoeld in artikel 28j, eerste lid, onderdeel a, aan een andere ondernemer.
+3. Indien de leverancier het recht om overeenkomstig het eerste of het tweede lid voor belastingheffing te kiezen heeft uitgeoefend, kan de tussenpersoon ervoor kiezen artikel 28k, onderdeel b, op hem niet van toepassing te doen zijn met betrekking tot de in dat onderdeel vermelde diensten.

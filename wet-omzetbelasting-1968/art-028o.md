@@ -1,0 +1,2 @@
+# Artikel 28o
+In geval een ondernemer een levering of een dienst verricht die een verwerking omvat van aan een ander toebehorend beleggingsgoud, waardoor het goud niet langer als beleggingsgoud is aan te merken, wordt, in afwijking in zoverre van artikel 8, de belasting berekend over het door de ondernemer voor die levering of dienst in rekening gebrachte bedrag – de omzetbelasting niet daaronder begrepen – vermeerderd met de waarde van het goud dat in het tot stand gekomen goed voorkomt.

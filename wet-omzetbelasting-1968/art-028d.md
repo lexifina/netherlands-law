@@ -1,0 +1,2 @@
+# Artikel 28d
+In bij ministeriële regeling aan te wijzen gevallen wordt, in afwijking in zoverre van de artikelen 28b en 28c, ter zake van leveringen van goederen waarop een zelfde tarief wordt toegepast, de belasting berekend over de winstmarge per tijdvak van aangifte. Deze winstmarge is het verschil tussen de som van de vergoedingen ter zake van die leveringen in dat tijdvak en de som van hetgeen in dat tijdvak door de wederverkoper is of moet worden voldaan ter zake van in artikel 28b, tweede lid, en 28c, eerste lid, bedoelde leveringen of invoer van dergelijke goederen.
