@@ -1,0 +1,3 @@
+# Artikel IV
+1. Het is tot 31 december 1998 toegestaan om verpakkingen, etiketten en begeleidende documenten met de vermelding 'EEG-MESTSTOF' te gebruiken, mits voldaan wordt aan artikel 10 van de Meststoffenbeschikking 1977.
+2. De bepalingen van de Beschikking analysemethoden meststoffen 1979, de Meststoffenbeschikking 1977 en de regeling van de Minister van Landbouw en Visserij van 14 februari 1978, nr. J. 425, houdende voorschriften voor de monsterneming van meststoffen (Stcrt. 35), die betrekking hebben op meststoffen waarvoor bij de type-aanduiding de vermelding 'EG-MESTSTOF' wordt gebruikt, gelden tot 31 december 1998 ook voor meststoffen waarvoor bij de type-aanduiding de vermelding 'EEG-MESTSTOF' wordt gebruikt.
