@@ -1,0 +1,3 @@
+# Artikel 5a
+1. Degene, die een uitkering geniet krachtens de in artikel 1 genoemde regeling, heeft, te rekenen van 1 Januari 1950 of van het later tijdstip, waarop de uitkering is ingegaan of zal ingaan, recht op een extra-toeslag, tot het bedrag van de kindertoelage, waarop hij recht zou hebben krachtens de Kindertoelagewet voor gepensionneerden, indien hij instede van de vorenbedoelde uitkering een pensioen tot een gelijk bedrag zou genieten.
+2. In afwijking van het eerste lid bestaat voor degene, die een uitkering geniet krachtens de in artikel 1 genoemde regeling en voor wie aanspraak bestaat op kinderbijslag ingevolge de Kinderbijslagwet, slechts recht op de in het eerste lid bedoelde extra-toeslag voor zoveel deze meer bedraagt dan evengenoemde kinderbijslag.
