@@ -1,0 +1,3 @@
+# Artikel XX. Verhouding tot andere verdragen en mechanismen
+1. Geen van de bepalingen van dit Verdrag tast de rechten en verplichtingen van de Partijen die voortvloeien uit andere overeenkomsten aan. Evenmin tasten de bepalingen van dit Verdrag de bestaande mechanismen voor samenwerking, gezamenlijk optreden en overleg aan.
+2. In het kader van dit Verdrag kunnen de lidstaten initiatieven nemen en integratieovereenkomsten sluiten met elkaar, mits deze overeenkomen met de doelstellingen en de functies van dit Verdrag. Elk verdrag of initiatief van deze aard staat open voor toetreding door elke andere lidstaat die eraan kan en wil deelnemen.

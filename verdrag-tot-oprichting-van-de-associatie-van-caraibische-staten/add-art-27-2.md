@@ -1,0 +1,2 @@
+# Artikel XXVII. Toetreding
+Nadat dit Verdrag in werking is getreden, blijft het open staan voor toetreding door de in artikel IV bedoelde Staten, Landen en Grondgebieden. Toetreding geschiedt door middel van nederlegging van een akte van toetreding bij de Regering van de Republiek Colombia die de lidstaten en de geassocieerde leden daarvan in kennis stelt. Dit Verdrag treedt voor de toetredende Staten, Landen en Grondgebieden in werking dertig dagen na de nederlegging van hun akte van toetreding.

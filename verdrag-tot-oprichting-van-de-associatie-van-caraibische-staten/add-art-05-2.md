@@ -1,0 +1,2 @@
+# Artikel V. Waarnemers
+Waarnemers kunnen worden toegelaten tot de Associatie onder de door de Raad van ministers gestelde voorwaarden. Waarnemers kunnen worden toegelaten uit de Staten, Landen en Grondgebieden die voorkomen in de Bijlagen I en II bij dit Verdrag. Voorts kan aan elke Staat, elk Land of Grondgebied of elke organisatie die om deelname aan de Associatie in de hoedanigheid van waarnemer verzoekt, deze status worden toegekend indien de Raad van ministers aldus besluit.

@@ -1,0 +1,3 @@
+# Article XXX. Duration and Withdrawal
+1. This Convention shall have indefinite duration.
+2. Any Contracting Party may at any time withdraw from this Convention. Such withdrawal shall take effect one year after the date of the receipt by the depository of the formal notification of withdrawal and shall be without prejudice to any obligation incurred by the withdrawing Party by or under this Convention prior to such withdrawal. This Convention shall continue in force thereafter with respect to the other Parties, provided that not less than two-thirds of the States referred to in Article IV(1) continue to be Parties.

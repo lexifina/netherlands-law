@@ -1,0 +1,2 @@
+# Article V. Observers
+Observers may be admitted to the Association on terms and conditions as may be determined by the Ministerial Council. Observers may be admitted from among the States, Countries and Territories listed in Annexes I and II of this Convention. Additionally, any other State, Country, Territory, or an organisation applying for observer status in the Association may be accorded such status, provided that the Ministerial Council so decides.

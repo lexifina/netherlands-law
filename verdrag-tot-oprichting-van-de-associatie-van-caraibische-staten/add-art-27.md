@@ -1,0 +1,2 @@
+# Article XXVII. Accession or Adhesion
+After its entry into force, this Convention shall remain open to accession or adhesion by any of the States, Countries and Territories referred to in Article IV. Accession or adhesion shall be effected by the deposit of an instrument of accession or adhesion with the Government of the Republic of Colombia which shall inform the Member States and Associate Members. This Convention shall enter into force for the acceding or adhering State, Country and Territory thirty days after the deposit of its instrument of accession or adhesion.

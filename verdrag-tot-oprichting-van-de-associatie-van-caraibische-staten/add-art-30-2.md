@@ -1,0 +1,3 @@
+# Artikel XXX. Duur en opzegging
+1. Dit Verdrag wordt gesloten voor onbepaalde tijd.
+2. Elke Verdragsluitende Partij kan dit Verdrag te allen tijde opzeggen. De terugtrekking wordt van kracht een jaar na de dag van ontvangst door de depositaris van de officiële kennisgeving van opzegging. De opzegging laat de verplichtingen van de opzeggende Partij aangegaan krachtens dit Verdrag gedurende de periode voorafgaand aan de opzegging, onverlet. Het Verdrag blijft daarna van kracht voor de andere Partijen, mits ten minste twee derden van de in artikel IV, eerste lid, bedoelde Staten Verdragsluitende Partij bij dit Verdrag blijven.

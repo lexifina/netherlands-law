@@ -1,0 +1,3 @@
+# Article XX. Relationship to other Treaties and Mechanisms
+1. Nothing in this Convention shall be construed as altering the rights and obligations of Parties which arise from other Agreements. In like manner, the provisions of this Convention shall not affect existing mechanisms for cooperation, concerted action and consultation.
+2. Within the scope of this Convention a number of Member States may undertake initiatives and conclude integration agreements among themselves consistent with its purposes and functions. Any such agreement or initiative may be open to any other Member State which is able and willing to participate therein.
