@@ -1,0 +1,2 @@
+# VIII. Ad Article 23
+It is understood that for the computation of the deduction mentioned in paragraph 3 (subparagraph c) of Article 23, the items of capital referred to in paragraph 1 of Article 22 shall be taken into account for the value thereof reduced by the value of the debts secured by mortgage on that capital and the items of capital referred to in paragraph 2 of Article 22 shall be taken into account for the value thereof reduced by the value of the debts pertaining to the permanent establishment or fixed base.
