@@ -16,8 +16,6 @@
 ## Hoofdstuk 5. Aanpassing van bedragen
 ## Hoofdstuk 6. Aanvraag, huursubsidiebericht, beperkt huursubsidiebericht, afhandeling en betaling
 ## Hoofdstuk 7. Informatieplicht, verificatie, opschorting, herziening en terugvordering
-## Hoofdstuk 8. Beheersing van de huurlasten en huursubsidie-uitgaven
-### § 1. Beperking huursubsidietoekenning boven de aftoppingsgrens
-### § 2. Normering van het huursubsidiebudget van het Rijk
-## Hoofdstuk 9. Bestuurlijke informatieverschaffing, administratie, toezicht op de naleving en experimenten
+## Hoofdstuk 8. Beperking huursubsidietoekenning boven de aftoppingsgrens
+## Hoofdstuk 9. Bestuurlijke informatievoorziening, administratie, toezicht op de naleving, gemeentelijk woonlastenfonds en experimenten
 ## Hoofdstuk 10. Overgangs- en slotbepalingen

@@ -1,8 +1,7 @@
 # Artikel 30a
-1. Onze Minister zendt uiterlijk 1 juli van elk jaar aan de huurders:
-a. die over het subsidietijdvak dat loopt tot en met 30 juni 2001 een aanvraag om toekenning van huursubsidie hebben ingediend of een huursubsidiebericht hebben ontvangen, waarna uiterlijk 1 april 2001 positief is beschikt, en
-b. die een woning als bedoeld in artikel 11, eerste lid, onder a, huren van een verhuurder die op verzoek Onze Minister heeft gemachtigd de huurprijsgegevens te gebruiken in de zin van artikel 30b, tweede lid, dan wel die het bedrag aan huursubsidie rechtstreeks ontvangen van Onze Minister,
-een door Onze Minister vastgesteld huursubsidiebericht of beperkt huursubsidiebericht. De artikelen 22a en 28 tot en met 30 zijn in dat geval niet van toepassing.
+1. Onze Minister zendt over een subsidietijdvak een door hem vastgesteld huursubsidiebericht of beperkt huursubsidiebericht:
+a. aan de huurders die een aanvraag om toekenning van huursubsidie hebben ingediend en waarvan Onze Minister de gegevens, bedoeld in de artikelen 5, tweede lid, 12, tweede lid, en 30b, heeft ontvangen, binnen vier weken na ontvangst van die gegevens, en
+b. aan de huurders die over het subsidietijdvak voorafgaand aan het in de aanhef genoemde subsidietijdvak een huursubsidiebericht of een beperkt huursubsidiebericht hebben ontvangen, waarna in eerstgenoemd tijdvak positief is beschikt, uiterlijk 1 juli van elk jaar.
 2. Tegen een huursubsidiebericht of een beperkt huursubsidiebericht kan geen bezwaar worden gemaakt of beroep worden ingesteld.
 3. Indien de huurder na ontvangst van een huursubsidiebericht van mening is dat hij op meer huursubsidie aanspraak kan maken dan de huursubsidie die is opgenomen in dat bericht, kan hij dit binnen vier weken na de verzenddatum van dat bericht aan Onze Minister kenbaar maken.
 4. De huurder stelt na ontvangst van een huursubsidiebericht, indien door hemzelf of door de medebewoners wordt beschikt over inlichtingen die kunnen inhouden dat hij op minder huursubsidie aanspraak kan maken dan de huursubsidie die is opgenomen in dat bericht, Onze Minister hiervan binnen vier weken na de verzenddatum van dat bericht in kennis.
