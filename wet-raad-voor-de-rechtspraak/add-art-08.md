@@ -1,0 +1,2 @@
+# Artikel VIII
+Bij het voor de eerste maal vaststellen van de in artikel 97 van de Wet op de rechterlijke organisatie bedoelde algemene maatregel van bestuur stelt Onze Minister, alvorens een voordracht daarvoor te doen, degenen die op de dag voorafgaand aan de inwerkingtreding van deze wet zijn aangewezen als kwartiermaker voor de Raad voor de rechtspraak in de gelegenheid schriftelijk hun zienswijze kenbaar te maken en wordt in de nota van toelichting bij de algemene maatregel van bestuur aangegeven in hoeverre en op welke gronden van deze zienswijze is afgeweken.

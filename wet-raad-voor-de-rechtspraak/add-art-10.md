@@ -1,0 +1,2 @@
+# Artikel X
+Voor de plaatsing van deze wet in het Staatsblad stelt Onze Minister van Justitie de nummering van de artikelen, paragrafen, afdelingen en hoofdstukken van de Wet op de rechterlijke organisatie opnieuw vast, en brengt hij de in deze wet voorkomende aanhalingen van de artikelen, paragrafen, afdelingen en hoofdstukken van die wet met de nieuwe nummering in overeenstemming.
