@@ -1,0 +1,2 @@
+# Artikel V
+De bepalingen van deze Overeenkomst betreffende Nederlands personeel zijn eveneens van toepassing op personen die in dienst zijn van de Nederlandse Regering (bilaterale deskundigen) en op personen in dienst van ondernemingen, ontwikkelingsorganisaties of consultancy-bureaus die projecten uitvoeren in het kader van de bilaterale samenwerking, mits de aangestelde personen functies uitoefenen op het gebied van technische bijstand en/of consultancy.
