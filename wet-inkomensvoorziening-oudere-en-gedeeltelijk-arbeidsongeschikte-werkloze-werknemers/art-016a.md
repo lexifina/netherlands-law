@@ -1,0 +1,4 @@
+# Artikel 16a
+1. Indien door burgemeester en wethouders is vastgesteld dat recht op uitkering bestaat, wordt de uitkering toegekend vanaf de dag waarop dit recht is ontstaan, voorzover deze dag niet ligt voor de dag waarop de belanghebbende zich heeft gemeld om uitkering aan te vragen.
+2. De belanghebbende heeft zich gemeld als zijn naam, adres en woonplaats zijn geregistreerd en hij in staat is gesteld zijn aanvraag in te dienen bij de Centrale organisatie werk en inkomen, als het een aanvraag betreft als bedoeld in artikel 11a, eerste of derde lid, of bij burgemeester en wethouders, als het een aanvraag betreft als bedoeld in artikel 11a, tweede lid.
+3. Indien de belanghebbende de aanvraag niet zo spoedig mogelijk indient nadat hij zich heeft gemeld en hem dit te verwijten valt, kunnen burgemeester en wethouders, in afwijking van het eerste lid, besluiten dat de uitkering wordt toegekend vanaf de dag dat de aanvraag is ingediend.
