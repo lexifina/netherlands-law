@@ -1,0 +1,2 @@
+# Artikel III
+Artikel I en II zijn mede van toepassing op de militair en de ambtenaar die vóór het tijdstip van de inwerkingtreding van dit besluit verlof heeft genoten alsmede op de militair en de ambtenaar die op dat tijdstip verlof geniet, mits aan de in artikel 87a, eerste tot en met derde lid, van het Algemeen militair ambtenarenreglement respectievelijk artikel 47, eerste tot en met vierde lid, van het Burgerlijk ambtenarenreglement defensie gestelde voorwaarden voor de aanspraak op verlof is voldaan.
