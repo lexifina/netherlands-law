@@ -1,0 +1,2 @@
+# Artikel 7c
+De garanties strekken zich niet uit over het recht op kindertoelage voor kinderen, voor wie aanspraak bestaat op kinderbijslag ingevolge de Algemene Kinderbijslagwet, de Kinderbijslagwet voor loontrekkenden, of de algemene maatregel van bestuur bedoeld in artikel 10 van laatstgenoemde wet, terwijl de kindertoelage voor die kinderen voor de berekening van de in het tweede lid van artikel 3c bedoelde duurtetoeslag buiten aanmerking wordt gelaten.

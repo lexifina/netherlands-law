@@ -1,0 +1,2 @@
+# Artikel 7b
+Voor gevallen, waarin deze wet, Hoofdstuk V van de in het eerste lid van artikel 2, onder b, bedoelde regelingen dan wel de in artikel 3 bedoelde afvloeiingsvoorwaarden niet of niet naar billijkheid voorzien, kunnen door Ons op voordracht van Onze Ministers ten behoeve van de militairen, gewezen militairen en nagelaten betrekkingen aanvullende garanties van het Rijk worden vastgesteld.
