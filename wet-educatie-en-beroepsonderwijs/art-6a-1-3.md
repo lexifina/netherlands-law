@@ -1,0 +1,5 @@
+# Artikel 6a.1.3. Waarschuwing
+1. Voordat Onze Minister een beschikking neemt op grond van artikel 6a.1.2, eerste lid, onder a, geeft hij aan het bevoegd gezag een waarschuwing op grond van zijn bevindingen ten aanzien van de kwaliteit van een of meer examens of een of meer onderdelen van een examen van die opleiding. Onze Minister geeft eerst toepassing aan artikel 6a.1.2, eerste lid, onder a, nadat
+a. na de waarschuwing ten minste een jaar is verstreken, en
+b. Onze Minister aan de hand van een hernieuwd onderzoek tot het oordeel is gekomen dat niet of niet in voldoende mate gevolg is gegeven aan de waarschuwing.
+2. Voordat Onze Minister een beschikking neemt op grond van artikel 6a.1.2, eerste lid, onder b, geeft hij aan het bevoegd gezag een waarschuwing, onder bepaling van een termijn waarbinnen aan die waarschuwing gevolg moet zijn gegeven en desgewenst overleg met hem dienaangaande plaats kan vinden. De termijn waarbinnen aan de waarschuwing gevolg moet zijn gegeven bedraagt ten minste drie maanden.
