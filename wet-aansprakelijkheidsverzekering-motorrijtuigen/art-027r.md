@@ -1,0 +1,2 @@
+# Artikel 27r
+Het Schadevergoedingsorgaan gaat slechts over tot vergoeding van schade, indien de benadeelde aantoont dat hij alle bekende als zodanig aansprakelijke personen en, voor zover de aansprakelijkheid van deze personen behoort te zijn verzekerd volgens de desbetreffende wetgeving van de lidstaat waar het motorrijtuig waarmee de schade is veroorzaakt, gewoonlijk is gestald, hun verzekeraars of hun schaderegelaars in Nederland tot betaling heeft aangemaand.
