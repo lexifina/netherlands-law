@@ -1,0 +1,3 @@
+# Article VI. Applicability
+As far as the Kingdom of the Netherlands is concerned, this Agreement shall apply to its territory in Europe. Its applicability may be extended by written agreement of the States either in its entirety or with any necessary modifications to the Netherlands Antilles and/or Aruba.
+In the case of an extension of the applicability of this Agreement to the Netherlands Antilles and/or Aruba, either State shall be entitled to terminate the application of this Agreement in respect of any of the separate parts of the Kingdom in accordance with the termination procedures of Article V.

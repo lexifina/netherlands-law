@@ -1,0 +1,3 @@
+# Artikel VI. Toepassingsgebied
+Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag van toepassing op zijn grondgebied in Europa. Het toepassingsgebied kan met schriftelijke instemming van de Staten, hetzij in het geheel, hetzij met de nodige aanpassingen, worden uitgebreid tot de Nederlandse Antillen en/of Aruba.
+In geval van een uitbreiding van het toepassingsgebied van dit Verdrag tot de Nederlandse Antillen en/of Aruba, is elk van beide Staten gerechtigd de toepassing van dit Verdrag ten aanzien van elk van de afzonderlijke delen van het Koninkrijk te beëindigen, in overeenstemming met de beëindigingsprocedures genoemd in Artikel V.

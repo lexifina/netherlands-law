@@ -1,0 +1,10 @@
+# Artikel I. Begripsomschrijvingen
+Voor de toepassing van dit Verdrag wordt verstaan onder:
+A. „luchtwaardigheidscertificering", een onderzoek waaruit blijkt dat een ontwerp of een wijziging op een ontwerp van een burgerluchtvaartprodukt voldoet aan de normen die daarvoor door de burgerluchtvaartautoriteit van één van de Staten zijn vastgesteld, of dat een produkt conform een ontwerp is waarvan is vastgesteld dat het aan deze normen voldoet, en zich in een staat bevindt dat dit produkt veilig kan worden gebruikt.
+B. „burgerluchtvaartprodukt", elk burgerluchtvaartuig, elke vliegtuigmotor, luchtschroef, elk assemblagedeel, uitrustingsdeel, materieel, onderdeel of elk daarop te installeren component.
+C. „aanpassingen of veranderingen", het aanbrengen van wijzigingen aan de constructie, configuratie, prestaties, milieu-eigenschappen of gebruiksgrenzen van het desbetreffende burgerluchtvaartprodukt.
+D. „milieugoedkeuring", de procedure waarbij wordt beoordeeld of een burgerluchtvaartprodukt in overeenstemming is met de wetten, voorschriften, normen en eisen van een Staat met betrekking tot geluid- en uitlaatemissies.
+E. „onderhoud", het uitvoeren van inspecties, revisies, reparaties en handelingen gericht op behoud alsmede het vervangen van onderdelen, materialen of componenten van een produkt ter waarborging van de voortdurende luchtwaardigheid van dit produkt; met uitzondering van aanpassingen of veranderingen.
+F. „vluchtnabootser-geschiktheidsbeoordeling", de procedure waarbij een vluchtnabootser wordt beoordeeld door vergelijking met het vliegtuig dat erdoor wordt nagebootst, in overeenstemming met de door de burgerluchtvaartautoriteit van elk van beide Staten opgestelde prestatie-normen.
+G. „goedkeuring van vliegdiensten", de procedure waarbij door de burgerluchtvaartautoriteit van een Staat technische inspecties en beoordelingen worden verricht betreffende maatschappijen die op commerciële basis passagiers en vracht door de lucht vervoeren.
+H. „toezicht", een door de burgerluchtvaartautoriteit van een Staat periodiek verricht onderzoek om vast te stellen of de desbetreffende normen bij voortduring in acht worden genomen.
