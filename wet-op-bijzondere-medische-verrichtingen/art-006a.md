@@ -1,0 +1,3 @@
+# Artikel 6a
+1. Het uitvoeren van medische verrichtingen met toepassing van xenotransplantatie is verboden. Onder xenotransplantatie wordt verstaan het in- of aanbrengen van levende bestanddelen van een dier of van een foetus of embryo van een dier, dan wel een menselijk bestanddeel dat daarmee doelgericht in aanraking is gebracht, in of aan het lichaam van een mens.
+2. Bij algemene maatregel van bestuur kan het begrip xenotransplantatie nader worden omschreven en kunnen verrichtingen waarbij naar heersend medisch inzicht onaanvaardbare risico's voor de patiënt en de volksgezondheid redelijkerwijs zijn uitgesloten, worden aangewezen waarop het in het eerste lid bedoelde verbod niet van toepassing is.
