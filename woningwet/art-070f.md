@@ -1,0 +1,5 @@
+# Artikel 70f
+1. Bij een beslissing waarbij een toegelaten instelling onder bewind wordt gesteld, benoemt de rechtbank een of meer bewindvoerders en regelt hij hun beloning. De beloning komt voor rekening van de toegelaten instelling.
+2. De bewindvoerders maken onverwijld een uittreksel van de uitspraak bekend in de Staatscourant en in een of meer bij de uitspraak aangewezen nieuwsbladen. Het uittreksel vermeldt naam en woonplaats van de toegelaten instelling en de woonplaats of het kantoor van de bewindvoerders, alsmede de datum van de uitspraak.
+3. De uitspraak is uitvoerbaar bij voorraad, onverminderd enige daartegen gerichte voorziening. Gedurende acht dagen na de uitspraak kan daartegen hoger beroep worden ingesteld bij het gerechtshof binnen welks rechtsgebied de betrokken toegelaten instelling gevestigd is. Het gerechtshof behandelt het beroep binnen twee weken nadat het het beroepschrift heeft ontvangen.
+4. Gedurende acht dagen na de uitspraak van het gerechtshof in hoger beroep kan daartegen beroep in cassatie worden ingesteld. De Hoge Raad behandelt het beroep binnen twee weken nadat hij het beroepschrift heeft ontvangen.

@@ -1,0 +1,3 @@
+# Artikel 70b
+1. Tegen een koninklijk besluit dat strekt tot intrekking van de toelating staat beroep open bij de Afdeling bestuursrechtspraak van de Raad van State. De Afdeling oordeelt in hoogste ressort over het beroep. Zij geeft daarbij aanvankelijk overeenkomstige toepassing aan artikel 8:52 van de Algemene wet bestuursrecht en kan nadien overeenkomstige toepassing geven aan artikel 8:53 van die wet.
+2. Nadat een koninklijk besluit dat strekt tot intrekking van de toelating onherroepelijk is geworden, wordt de vereniging of de stichting op vordering van Onze Minister ontbonden door de rechtbank binnen welker rechtsgebied zij gevestigd is.
