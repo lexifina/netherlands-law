@@ -1,0 +1,2 @@
+# Artikel 7a
+Een melding als bedoeld in artikel 20, eerste en tweede lid, van de wet wordt tevens gedaan bij de Commissie van de Europese Gemeenschappen, indien het een stof betreft als bedoeld in artikel 2, onderdeel e, van verordening (EEG) nr. 793/93 van de Raad van de Europese Gemeenschappen van 23 maart 1993 inzake de beoordeling en beperking van de risico's van bestaande stoffen (PbEG L 84).
