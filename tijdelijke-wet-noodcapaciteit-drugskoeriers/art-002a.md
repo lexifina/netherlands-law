@@ -1,0 +1,2 @@
+# Artikel 2a
+Personen ten aanzien van wie vanaf 25 januari 2002 wegens verdenking van overtreding van artikel 2, eerste lid, aanhef en onder A, van de Opiumwet de inverzekeringstelling of de voorlopige hechtenis is bevolen en die in een inrichting als bedoeld in de Penitentiaire beginselenwet zijn geplaatst, kunnen worden overgeplaatst naar een voorziening als bedoeld in deze wet. Artikel 6 is van overeenkomstige toepassing.
