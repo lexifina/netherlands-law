@@ -14,8 +14,8 @@
 ### Afdeling 2. Aanvang van de bekostiging
 ### Afdeling 3. Voorziening in de huisvesting
 ### Afdeling 4. Materiële instandhouding
-### Afdeling 5. Formatie personeel; bekostiging kosten vervanging van personeel; bekostiging voor schoolspecifieke knelpunten in de personeelsvoorziening
-### Afdeling 6. Nascholing personeel
+### Afdeling 5. Formatie personeel; bekostiging kosten vervanging van personeel
+### Afdeling 6. Schoolbudget voor personeels- en arbeidsmarktbeleid
 ### Afdeling 7. Wijze van bekostiging
 #### § 1. Huisvesting
 #### § 2. Materiële instandhouding
