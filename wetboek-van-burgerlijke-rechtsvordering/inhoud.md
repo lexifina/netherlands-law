@@ -6,8 +6,9 @@
 #### afdeling Derde. Algemene voorschriften voor procedures
 #### afdeling Vierde. Wraking en verschoning van rechters
 #### afdeling Vijfde. Het openbaar ministerie en de procureur-generaal bij de Hoge Raad
+#### afdeling Vijfde A. De directeur-generaal van de Nederlandse mededingingsautoriteit en de commissie van de Europese gemeenschappen
 #### afdeling Zesde. Exploten
-#### afdeling Zevende. Inlichtingen over buitenlands recht
+#### afdeling Zevende. Inlichtingen over buitenlands recht en communautair mededingingsrecht
 #### afdeling Achtste. Herstel van verkeerd inleiden van een procedure, verwijzing door of naar de kantonrechter en verwijzing bij absolute onbevoegdheid
 #### afdeling Negende. Slotbepaling
 ### titel Tweede. De dagvaardingsprocedure in eerste aanleg
