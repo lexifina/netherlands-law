@@ -1,0 +1,7 @@
+# Artikel 32c
+1. Geen recht op nabestaandenuitkering ontstaat voor de nabestaande indien hem op de dag van het overlijden van de verzekerde rechtens zijn vrijheid is ontnomen. Geen recht op halfwezenuitkering ontstaat voor de nabestaande indien hem of de halfwees op de dag van het overlijden van de verzekerde rechtens zijn vrijheid is ontnomen. Geen recht op wezenuitkering ontstaat voor het kind indien het op de dag van het overlijden van de verzekerde rechtens zijn vrijheid is ontnomen.
+2. Voor de persoon, bedoeld in het eerste lid, ontstaat, onverminderd artikel 15, 23 of 27, recht op nabestaandenuitkering, halfwezenuitkering of wezenuitkering vanaf de dag dat:
+a. de nabestaande in vrijheid wordt gesteld en hij voldoet aan een voorwaarde als bedoeld in artikel 14, eerste lid, of de voorwaarden bedoeld in artikel 66a, tweede lid, en onverminderd artikel 14, derde lid;
+b. de nabestaande en de halfwees in vrijheid worden gesteld en de nabestaande voldoet aan de voorwaarden, bedoeld in artikel 22, eerste en tweede lid;
+c. het kind in vrijheid wordt gesteld en het voldoet aan een voorwaarde als bedoeld in artikel 26, eerste en tweede lid.
+3. Het eerste lid is niet van toepassing en het tweede lid is van overeenkomstige toepassing op bij algemene maatregel van bestuur aan te wijzen categorieën personen waarbij tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel buiten een justitiële inrichting plaatsvindt.

@@ -1,0 +1,8 @@
+# Artikel 32d
+1. Het recht op nabestaandenuitkering eindigt, indien de nabestaande rechtens zijn vrijheid is ontnomen, vanaf de dag dat deze vrijheidsontneming één maand heeft geduurd. Het recht op halfwezenuitkering eindigt, indien de nabestaande of de halfwees rechtens zijn vrijheid is ontnomen, vanaf de dag dat deze vrijheidsontneming één maand heeft geduurd. Het recht op wezenuitkering eindigt, indien het kind rechtens zijn vrijheid is ontnomen, vanaf de dag dat deze vrijheidsontneming één maand heeft geduurd.
+2. Voor de persoon, bedoeld in het eerste lid, herleeft, onverminderd artikel 15, 23 of 27, het recht op nabestaandenuitkering, halfwezenuitkering of wezenuitkering op de dag dat:
+a. de nabestaande in vrijheid wordt gesteld en hij voldoet aan een voorwaarde als bedoeld in artikel 14, eerste lid, of de voorwaarden bedoeld in artikel 66a, tweede lid, en onverminderd artikel 14, derde lid;
+b. de nabestaande en de halfwees in vrijheid worden gesteld en de nabestaande voldoet aan de voorwaarden, bedoeld in artikel 22, eerste en tweede lid;
+c. het kind in vrijheid wordt gesteld en het voldoet aan een voorwaarde als bedoeld in artikel 26, eerste en tweede lid.
+3. Voor de toepassing van het eerste lid worden perioden van vrijheidsontneming samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen.
+4. Artikel 32c, derde lid, is van overeenkomstige toepassing.
