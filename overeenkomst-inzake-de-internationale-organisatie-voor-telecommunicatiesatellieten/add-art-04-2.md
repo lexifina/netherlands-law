@@ -1,0 +1,4 @@
+# Artikel IV. Verzorgde Binnenlandse Openbare Telecommunicatiediensten
+De volgende diensten zullen ten behoeve van de toepassing van artikel III gelijkwaardig worden beschouwd aan internationale openbare telecommunicatiediensten:
+a. binnenlandse openbare telecommunicatiediensten tussen gebieden die gescheiden zijn door niet tot het rechtsgebied van de betrokken Staat behorende gebieden, of door open zeeën gescheiden gebieden; en
+b. binnenlandse openbare telecommunicatiediensten tussen gebieden die niet verbonden zijn door aardse breedbandfaciliteiten en die gescheiden zijn door natuurlijke barrières van een zodanig uitzonderlijk karakter, dat zij de reële mogelijkheid van totstandbrenging van aardse breedbandfaciliteiten tussen zodanige gebieden verhinderen, op voorwaarde dat de desbetreffende goedkeuring is verleend.

@@ -1,0 +1,2 @@
+# Article V. Supervision
+ITSO shall take all appropriate actions, including entering into the Public Services Agreement, to supervise the performance by the Company of the Core Principles, in particular, the principle of non-discriminatory access to the Company's system for existing and future public telecommunications services offered by the Company when space segment capacity is available on a commercial basis.

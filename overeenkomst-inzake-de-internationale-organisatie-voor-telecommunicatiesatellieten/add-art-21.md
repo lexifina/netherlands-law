@@ -1,0 +1,2 @@
+# Article XXI. Duration
+This Agreement shall be in effect for at least twelve years from the date of transfer of ITSO's space system to the Company. The Assembly of Parties may terminate this Agreement effective upon the twelfth anniversary of the date of transfer of ITSO's space system to the Company by a vote pursuant to Article IX(f) of the Parties. Such decision shall be deemed to be a matter of substance.

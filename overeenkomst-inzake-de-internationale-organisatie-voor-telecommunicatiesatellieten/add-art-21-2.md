@@ -1,0 +1,2 @@
+# Artikel XXI. Duur
+De Overeenkomst is ten minste voor een duur van twaalf jaar van kracht, te rekenen vanaf de datum van de overdracht van het ITSO-ruimtesysteem aan de Onderneming. De Assemblee van Partijen kan deze Overeenkomst beëindigen met ingang van de twaalfde verjaardag van de datum van overdracht van het ITSO-ruimtesysteem aan de Onderneming door middel van een stemming van de Partijen ingevolge artikel IX, lid f. Een dergelijk besluit wordt geacht materieel van aard te zijn.

@@ -1,0 +1,3 @@
+# Article IV. Covered Domestic Public Telecommunications Services
+The following shall be considered for purposes of applying Article III on the same basis as international public telecommunications services:
+a ) domestic public telecommunications services between areas separated by areas not under the jurisdiction of the State concerned, or between areas separated by the high seas; and b) domestic public telecommunications services between areas which are not linked by any terrestrial wideband facilities and which are separated by natural barriers of such an exceptional nature that they impede the viable establishment of terrestrial wideband facilities between such areas, provided that the appropriate approval has been given.

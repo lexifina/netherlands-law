@@ -1,0 +1,2 @@
+# Artikel V. Toezicht
+ITSO neemt alle nodige maatregelen, waaronder het sluiten van de Algemene Dienstenovereenkomst, om toe te zien op de uitvoering door de Onderneming van de Grondbeginselen, in het bijzonder het beginsel van non-discriminatoire toegang tot het systeem van de Onderneming voor bestaande en toekomstige openbare telecommunicatiediensten die door de Onderneming worden geleverd wanneer op commerciële basis ruimtesectorcapaciteit beschikbaar is.

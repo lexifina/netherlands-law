@@ -1,0 +1,21 @@
+# Artikel X. Directeur-Generaal
+a. Het uitvoerend orgaan wordt geleid door de Directeur-Generaal die rechtstreeks verantwoording verschuldigd is aan de Assemblee van Partijen.
+b. De Directeur-Generaal:
+i. is de directeur en de wettelijk vertegenwoordiger van ITSO en is verantwoordelijk voor de uitvoering van alle managementfuncties, met inbegrip van de uitoefening van contractuele rechten;
+ii. treedt op in overeenstemming met de beleidslijnen en richtlijnen van de Assemblee van Partijen; en
+iii. wordt door de Assemblee van Partijen benoemd voor een termijn van vier jaar of een ander tijdvak waartoe de Assemblee van Partijen besluit. De Directeur-Generaal kan door de Assemblee van Partijen om gegronde redenen uit zijn functie worden ontzet. Niemand wordt voor langer dan acht jaar tot Directeur-Generaal benoemd.
+c. De belangrijkste overweging bij de benoeming van de Directeur-Generaal en bij de keuze van ander personeel van het uitvoerend orgaan is de noodzaak te zorgen voor de hoogste mate van integriteit, competentie en doelmatigheid, met aandacht voor de mogelijke voordelen van werving en inzet op een regionaal en geografisch gezien uiteenlopende basis. De Directeur-Generaal en het personeel van het uitvoerend orgaan onthouden zich van activiteiten die onverenigbaar zijn met hun verantwoordelijkheden ten aanzien van ITSO.
+d. De Directeur-Generaal bepaalt, onder aansturing en instructies van de Assemblee van Partijen, de structuur, het aantal personeelsleden en vaste arbeidsvoorwaarden van functionarissen en medewerkers, en benoemt het personeel van het uitvoerend orgaan. De Directeur-Generaal kan consultants en andere adviseurs bij het uitvoerend orgaan selecteren.
+e. De Directeur-Generaal ziet erop toe dat de Onderneming de Grondbeginselen onderschrijft.
+f. De Directeur-Generaal:
+i. monitort de eerbiediging van de Onderneming van het Grondbeginsel LCO-cliënten te bedienen door naleving van LCO-contracten;
+ii. bestudeert de door de Onderneming genomen besluiten ten aanzien van petities om in aanmerking te komen voor het sluiten van een LCO-contract;
+iii. assisteert LCO-cliënten bij de beslechting van hun geschillen met de Onderneming door conciliatiediensten te verlenen; en
+iv. verstrekt, in het geval dat een LCO-cliënt besluit een arbitrageprocedure tegen de Onderneming in te stellen, advies betreffende de keuze van consultants en scheidsrechters.
+g. De Directeur-Generaal brengt aan de Partijen verslag uit over de in de leden d tot en met f bedoelde aangelegenheden.
+h. Ingevolge de door de Assemblee van Partijen vast te stellen voorwaarden kan de Directeur-Generaal een arbitrageprocedure tegen de Onderneming instellen uit hoofde van de Algemene Dienstenovereenkomst.
+i. De Directeur-Generaal handelt ten aanzien van de Onderneming overeenkomstig de Algemene Dienstenovereenkomst.
+j. De Directeur-Generaal bestudeert alle kwesties die voortkomen uit het Gemeenschappelijk Erfgoed van de Partijen en deelt de standpunten van de Partijen mede aan de Kennisgevende Administratie(s).
+k
+Wanneer de Directeur-Generaal van mening is dat door het verzuim van een Partij om de nodige maatregelen uit hoofde van artikel XI, lid c, te nemen de Onderneming de mogelijkheid is ontnomen de Grondbeginselen na te leven, neemt de Directeur-Generaal met die Partij contact op teneinde hiervoor een oplossing te vinden en kan hij, in overeenstemming met de door de Assemblee van Partijen ingevolge artikel IX, lid e, vastgestelde voorwaarden een buitengewone vergadering van de Assemblee van Partijen bijeenroepen.
+l. De Assemblee van Partijen wijst een senior functionaris van het uitvoerend orgaan aan die optreedt als Waarnemend Directeur-Generaal wanneer de Directeur-Generaal afwezig is of niet in staat is zijn taken te vervullen, of indien de functie van Directeur-Generaal vacant wordt. De Waarnemend Directeur-Generaal is gerechtigd tot uitoefening van alle bevoegdheden van de Directeur-Generaal uit hoofde van deze Overeenkomst. In het geval van een vacature treedt de Waarnemend Directeur-Generaal in die hoedanigheid op totdat het ambt wordt aanvaard door een Directeur-Generaal die zo snel mogelijk overeenkomstig lid b, paragraaf iii, van dit artikel wordt benoemd en bevestigd.
