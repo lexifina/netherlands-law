@@ -1,0 +1,3 @@
+# Artikel VIII
+1. Dit Verdrag staat tot 31 december 1958 open ter ondertekening voor ieder Lid van de Verenigde Naties, alsmede voor iedere andere Staat die lid is of op een later tijdstip lid zal worden van een der gespecialiseerde organisaties van de Verenigde Naties of die partij is of op een later tijdstip partij zal worden bij het Statuut van het Internationale Gerechtshof, of voor iedere andere Staat die door de Algemene Vergadering van de Verenigde Naties daartoe is uitgenodigd.
+2. Dit Verdrag dient te worden bekrachtigd en de akten van bekrachtiging moeten worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.

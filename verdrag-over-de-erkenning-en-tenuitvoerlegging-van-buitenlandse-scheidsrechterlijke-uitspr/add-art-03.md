@@ -1,0 +1,2 @@
+# Article III
+Each Contracting State shall recognize arbitral awards as binding and enforce them in accordance with the rules of procedure of the territory where the award is relied upon, under the conditions laid down in the following articles. There shall not be imposed substantially more onerous conditions or higher fees or charges on the recognition or enforcement of arbitral awards to which this Convention applies than are imposed on the recognition or enforcement of domestic arbitral awards.

@@ -1,0 +1,4 @@
+# Artikel XIII
+1. Iedere Verdragsluitende Staat kan dit Verdrag opzeggen door middel van een schriftelijke mededeling, gericht tot de Secretaris-Generaal van de Verenigde Naties. De opzegging wordt van kracht een jaar na de datum van ontvangst van de mededeling door de Secretaris-Generaal.
+2. Iedere Staat die overeenkomstig artikel X een verklaring heeft afgelegd of een kennisgeving heeft gedaan, kan op ieder tijdstip daarna door middel van een tot de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving verklaren, dat dit Verdrag een jaar na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal zal ophouden toepasselijk te zijn op het betrokken gebied.
+3. Het Verdrag blijft van toepassing op scheidsrechterlijke uitspraken ten aanzien waarvan een procedure nopens erkenning of tenuitvoerlegging aanhangig is gemaakt vóór de opzegging van kracht wordt.

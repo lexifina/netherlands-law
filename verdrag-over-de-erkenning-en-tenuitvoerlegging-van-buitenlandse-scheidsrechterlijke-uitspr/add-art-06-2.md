@@ -1,0 +1,2 @@
+# Artikel VI
+Indien vernietiging van de uitspraak of schorsing van haar tenuitvoerlegging is verzocht aan de bevoegde autoriteit, bedoeld in artikel V, eerste lid, onder e, kan de autoriteit bij wie een beroep op de uitspraak wordt gedaan, indien zij daartoe aanleiding vindt, de beslissing over de tenuitvoerlegging van de uitspraak opschorten en ook, op verzoek van de partij die de tenuitvoerlegging van de uitspraak verzocht, bevelen, dat de andere partij passende zekerheid stelt.

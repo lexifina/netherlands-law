@@ -1,0 +1,2 @@
+# Article VI
+If an application for the setting aside or suspension of the award has been made to a competent authority referred to in article V (1) (e), the authority before which the award is sought to be relied upon may, if it considers it proper, adjourn the decision on the enforcement of the award and may also, on the application of the party claiming enforcement of the award, order the other party to give suitable security.

@@ -1,0 +1,3 @@
+# Article VII
+1. The provisions of the present Convention shall not affect the validity of multilateral or bilateral agreements concerning the recognition and enforcement of arbitral awards entered into by the Contracting States nor deprive any interested party of any right he may have to avail himself of an arbitral award in the manner and to the extent allowed by the law or the treaties of the country where such award is sought to be relied upon.
+2. The Geneva Protocol on Arbitration Clauses of 1923 and the Geneva Convention on the Execution of Foreign Arbitral Awards of 1927 shall cease to have effect between Contracting States on their becoming bound and to the extent that they become bound, by this Convention.
