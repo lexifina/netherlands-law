@@ -1,0 +1,2 @@
+# VI. Ad Artikel 12
+Vergoedingen voor technische diensten, daaronder begrepen studies of onderzoeken van wetenschappelijke, geologische of technische aard, of voor contracten inzake bouw- of constructiewerkzaamheden met inbegrip van de daartoe behorende blauwdrukken, dan wel voor diensten van raadgevende of toezichthoudende aard worden beschouwd als vergoedingen waarop de bepalingen van artikel 7 of artikel 14 van toepassing zijn.
