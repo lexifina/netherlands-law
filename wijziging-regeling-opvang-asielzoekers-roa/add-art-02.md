@@ -1,0 +1,2 @@
+# Artikel II
+Onder `rechtmatig verwijderbare vreemdeling' als bedoeld in artikel 1, derde lid, zoals dat luidt na de inwerkingtreding van deze regeling, wordt ook verstaan een vreemdeling op wiens asielaanvraag in bezwaar in negatieve zin is beslist, tenzij de betrokkene in afwachting is van een rechterlijke uitspraak op een binnen de vertrektermijn ingediend verzoek om voorlopige voorziening tegen de beslissing dat de behandeling niet in Nederland mag worden afgewacht, tenzij dit verzoek op grond van de Vreemdelingencirculaire 1994 niet hier te lande mag worden afgewacht.
