@@ -1,0 +1,3 @@
+# Artikel II
+1. Een vergunning voor het infiltreren van water, als bedoeld in artikel 14, van de Grondwaterwet, dan wel een vergunning voor het onttrekken van grondwater waaraan een voorschrift tot het infiltreren van water is verbonden, als bedoeld in artikel 15, derde lid, die is verleend vóór het tijdstip van inwerkingtreding van deze wet, wordt gelijkgesteld met een vergunning die is verleend met toepassing van artikel 14a, eerste lid, onderscheidenlijk artikel 15, vierde lid, van de Grondwaterwet.
+2. Het eerste lid is van overeenkomstige toepassing op een vergunning als daar bedoeld, welke is aangevraagd vóór het tijdstip van inwerkingtreding van deze wet doch waarover op dat tijdstip nog niet onherroepelijk is beslist.
