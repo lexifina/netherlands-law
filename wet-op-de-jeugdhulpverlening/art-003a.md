@@ -1,0 +1,3 @@
+# Artikel 3a
+1. Onze Minister van Volksgezondheid, Welzijn en Sport kan aan landelijke voorzieningen en steunfuncties subsidie verstrekken in de kosten van jeugdhulpverlening en subsidie ter bestrijding van de financiële gevolgen van een vermindering van de subsidie of de capaciteit dan wel de beëindiging van de subsidiëring.
+2. Provinciale Staten kunnen aan regionale voorzieningen en aan samenwerkingsverbanden subsidie verstrekken in de kosten van jeugdhulpverlening en subsidie ter bestrijding van de financiële gevolgen van een vermindering van de subsidie of de capaciteit dan wel de beëindiging van de subsidiëring.
