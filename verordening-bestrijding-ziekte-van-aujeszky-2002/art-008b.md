@@ -1,0 +1,8 @@
+# Artikel 8b
+Het Bestuur stelt bij besluit een draaiboek vast waarin de te nemen maatregelen bij een (mogelijke) uitbraak van de Ziekte van Aujeszky zijn vastgelegd. Op grond van dit draaiboek kan de voorzitter de volgende maatregelen nemen:
+– In het geval een (mogelijke) uitbraak op een vestiging is geconstateerd, mogen er gedurende een door het Bestuur bepaalde periode geen varkens aangevoerd dan wel afgevoerd worden van deze vestiging.
+– In het geval een (mogelijke) uitbraak op een vestiging is geconstateerd, mogen er gedurende een door het Bestuur bepaalde periode geen varkens aangevoerd dan wel afgevoerd worden van de vestigingen in een straal van 5 kilometer rondom de vestiging waar een (mogelijke) uitbraak is gecontateerd.
+– In het geval dat de uitslag van een onderzoek positief is, maar er nog geen sprake is van een (mogelijke) uitbraak, is er zolang er geen uitslag van aanvullend onderzoek bekend is geen afvoer van varkens vanaf de desbetreffende vestiging toegestaan.
+– Na een periode waarin geen afvoer is toegestaan is zolang een onderneming niet Aujeszky-vrij is verklaard en Aujeszky-vrij is gecertificeerd van de desbetreffende vestiging(en) van de onderneming uitsluitend afvoer van varkens naar het slachthuis toegestaan.
+– In het geval van een (mogelijke) uitbraak is de ondernemer verplicht de varkens op diens vestiging(en) waar een (mogelijke) uitbraak is geconstateerd (aanvullend) te doen vaccineren volgens een door het Bestuur vastgesteld schema.
+– In het geval er een (mogelijke) uitbraak is geconstateerd is de ondernemer verplicht de varkens op diens vestiging(en) binnen het gebied met een straal van 5 kilometer rond een (mogelijke) uitbraak te doen vaccineren volgens een door het Bestuur vastgesteld schema.
