@@ -1,0 +1,2 @@
+# Artikel III
+De op grond van artikel 7 van het Besluit emissie-eisen stookinstallaties milieubeheer A, zoals dat luidde vóór het tijdstip waarop dit besluit in werking treedt, aan een vergunning verbonden voorschriften die in strijd zijn met artikel 7a van het eerstgenoemde besluit, blijven van kracht tot 1 januari 2008, indien deze voorschriften betrekking hebben op een bestaande stookinstallatie met een thermisch vermogen van 50 MW of meer.
