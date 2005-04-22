@@ -1,0 +1,2 @@
+# Artikel IV
+Maatregelen als bedoeld in de artikelen 13, 15, 16 en 19 van het Subsidiebesluit openbare lichamen milieubeheer, zoals die luidden voorafgaand aan het tijdstip van inwerkingtreding van dit besluit, welke door Onze Minister zijn vastgesteld voor het tijdstip van inwerkingtreding van dit besluit, gelden als door Onze Minister vastgestelde maatregelen als bedoeld in artikel 27, negende lid, van het Besluit geluidhinder spoorwegen, zoals dat luidt vanaf het tijdstip van inwerkingtreding van dit besluit.
