@@ -1,0 +1,22 @@
+# Tekst
+De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
+## Inleiding
+Vanuit de uitvoeringspraktijk zijn vragen gesteld over situaties waarin een werknemer een studiekostenvergoeding moet terugbetalen en een nieuwe werkgever in dit verband een vergoeding wil geven. Hierover deel ik het volgende mee.
+De Voorzitter Raad van Bestuur Uitvoeringsinstituut werknemersverzekeringen (UWV) heeft mij meegedeeld dat de inhoud van dit besluit ook van toepassing is voor de premieheffing werknemersverzekeringen.
+## Te onderscheiden situaties
+Het komt regelmatig voor dat werknemers bij ontslag een vergoeding voor studiekosten moeten terugbetalen aan de – voormalige – werkgever (hierna: werkgever 1). Ook komt het voor dat de nieuwe werkgever (hierna: werkgever 2) de terug te betalen vergoeding van studiekosten direct of indirect voor zijn rekening neemt. Waar hierna gesproken wordt over studiekosten, zijn dit de op de werknemer drukkende uitgaven voor het volgen van een opleiding of studie als bedoeld in artikel 15a, eerste lid, onderdeel h, van de Wet op de loonbelasting 1964 (hierna: Wet LB).
+De volgende situaties zijn te onderscheiden:
+1. Vergoeding van studiekosten door werkgever 1
+2. Terugbetaling van een studiekostenvergoeding door de werknemer
+3. Vergoeding door werkgever 2 binnen het kalenderjaar van terugbetaling
+4. Vergoeding door werkgever 2 buiten het kalenderjaar van terugbetaling
+## 1 Vergoeding van studiekosten door werkgever 1
+Dit is de gebruikelijke (begin-)situatie. Een werkgever kent een studiekostenvergoeding toe in het jaar waarin de werknemer de uitgaven doet. De studiekostenvergoeding is een vrije vergoeding. Voor de werknemer is in zoverre geen sprake meer van uitgaven die op hem drukken. De kosten kunnen hierom voor de heffing van de inkomstenbelasting niet bij hem in aftrek komen (zie de artikelen 6.1 en 6.27 van de Wet IB 2001).
+## 2 Terugbetaling van een studiekostenvergoeding door de werknemer
+Als een werknemer een eerder vrijgestelde studiekostenvergoeding terugbetaalt is er geen sprake van negatief loon. Zie in dit verband de MvT op artikel 15 van de Wet LB (onder meer gepubliceerd in VN BP21 1999/2.6A): 'Indien een werknemer om welke reden dan ook een vrije vergoeding geheel of gedeeltelijk terugbetaalt, brengt het in de wet neergelegde systeem mee dat deze terugbetaling niet op enigerlei wijze in mindering op het loon kan komen. De fiscale behandeling van een dergelijke situatie is derhalve gelijk aan die van de situatie waarin de werkgever aanstonds geen of een gedeeltelijke vergoeding verstrekt.'
+Mede gelet op het voorgaande brengt een redelijke wetstoepassing mee dat de werknemer het terugbetaalde bedrag voor de heffing van de inkomstenbelasting in aanmerking kan nemen als scholingsuitgaven in het jaar van terugbetaling.
+## 3 Vergoeding door werkgever 2 binnen het kalenderjaar van terugbetaling
+Aangezien de terugbetaling van de studiekostenvergoeding voor de werknemer meebrengt dat in zoverre sprake is van op hem drukkende scholingsuitgaven (zie hiervoor onder 2), kan werkgever 2 hiervoor een vrije studiekostenvergoeding geven. Hierbij geldt als voorwaarde dat hij de vergoeding betaalt of onvoorwaardelijk toezegt in het kalenderjaar waarin de werknemer terugbetaalt aan werkgever 1. Het gevolg voor de werknemer is dat in zoverre geen sprake meer is van uitgaven die op hem drukken. De kosten kunnen hierom voor de heffing van de inkomstenbelasting niet bij hem in aftrek komen (zie de artikelen 6.1 en 6.27 van de Wet IB 2001).
+In de praktijk hoeft dit overigens niet via de werknemer te verlopen. Als werkgever 2 de terugbetalingsverplichting van de werknemer overneemt en rechtstreeks aan werkgever 1 betaalt, heeft deze betaling voor de werknemer geen enkel gevolg voor de loon- en inkomstenbelasting.
+## 4 Vergoeding door werkgever 2 buiten het kalenderjaar van terugbetaling
+Als werkgever 2 een vergoeding toekent na afloop van het jaar waarin de werknemer terugbetaalt aan werkgever 1, is er geen sprake van een vrije studiekostenvergoeding. Voor de werknemer vormde de terugbetaling in het desbetreffende jaar aftrekbare scholingsuitgaven (zie hiervoor onder 2). In een later jaar is hierom geen sprake van drukkende uitgaven en is een vrije vergoeding in zoverre niet mogelijk. Zie ook het antwoord op vraag 3 in Besluit van 21 december 2001, nr. CPPP2001/1450M.
