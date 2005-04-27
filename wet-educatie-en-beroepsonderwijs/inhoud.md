@@ -75,6 +75,7 @@
 ### Paragraaf 2. Opschorten en terugvorderen rijksbijdrage educatie
 ## Hoofdstuk 12. Overgangs-, invoerings- en slotbepalingen
 ### Titel 1. Intrekking regelingen
+### Titel 1a. Bepalingen met betrekking tot experimentele opleidingen
 ### Titel 2. Voorzieningen voor onbepaalde tijd
 ### Titel 3. Invoering van de wet
 ### Titel 5. Evaluatie, inwerkingtreding en citeertitel
