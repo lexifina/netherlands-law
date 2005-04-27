@@ -19,6 +19,7 @@
 ## Hoofdstuk 5. Opsporing en sancties
 ### Paragraaf 1. Opsporing
 ### Paragraaf 2. Bestuurlijke boeten
+## Hoofdstuk 6. Experimenten
 ## Hoofdstuk 7. Overgangs- en slotbepalingen
 ### Paragraaf 1. Overgangsbepalingen
 ### Paragraaf 2. Wijziging van andere wet- en regelgeving
