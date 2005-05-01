@@ -1,0 +1,2 @@
+# Artikel VII
+Houders van een amateurbouwluchtvaartuig, waarvoor een speciaal-BvL is afgegeven op grond van onder meer een berekening als bedoeld in artikel 4, eerste lid, onderdeel i, van de Regeling amateurbouwluchtvaartuigen, zoals dat luidde op het tijdstip van inwerkingtreding van deze regeling, dienen met ingang van 1 mei 2007 voor het verkrijgen van een speciaal-BvL in plaats van die berekening een geluidsmeetrapport als bedoeld in genoemd onderdeel over te leggen.
