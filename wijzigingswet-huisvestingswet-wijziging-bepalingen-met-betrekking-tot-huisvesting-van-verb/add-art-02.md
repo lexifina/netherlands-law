@@ -1,0 +1,2 @@
+# Artikel II
+Het in artikel 60f, eerste lid, van de Huisvestingswet, zoals die wet luidt na de inwerkingtreding van deze wet, bedoelde verslag wordt voor de eerste maal opgesteld nadat sedert het tijdstip van inwerkingtreding van deze wet een geheel kalenderhalfjaar is verstreken. Over het daaraan voorafgaande kalenderhalfjaar wordt verslag uitgebracht op de wijze als is aangegeven in artikel 60f van de Huisvestingswet, zoals die wet laatstelijk luidde voor de inwerkingtreding van deze wet.
