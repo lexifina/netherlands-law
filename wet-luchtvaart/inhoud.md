@@ -6,10 +6,11 @@
 ### TITEL 2.3. ADVIESCOMMISSIE ARBEIDSOMSTANDIGHEDEN
 ## Hoofdstuk 3. Luchtvaartuigen
 ### Titel 3.1. Nationaliteitskenmerken en registratie van luchtvaartuigen
-### Titel 3.2. Luchtwaardigheid
-#### § 3.2.1. Type-certificaat, bewijs van luchtwaardigheid
+### Titel 3.2. Luchtwaardigheids- en geluidseisen
+#### § 3.2.1. Type-certificaat, bewijs van luchtwaardigheid, geluidscertificaat, geluidsverklaring
 #### § 3.2.2. Erkenningen
 #### § 3.2.3. Diverse bepalingen
+## Hoofdstuk 4. Vluchtuitvoering
 ## Hoofdstuk 5. Luchtverkeer, luchtverkeersbeveiliging en luchtverkeersbeveiligingsorganisatie
 ### Titel 5.1. Luchtverkeer
 ### Titel 5.2. Bepalingen met betrekking tot de luchtverkeersdienstverlening
