@@ -1,0 +1,3 @@
+# Artikel IX
+1. De ingevolge artikel 44, eerste lid, van de Ziekenfondswet dan wel artikel 42, eerste lid, van de Algemene Wet Bijzondere Ziektekosten voor de datum van inwerkingtreding van de artikelen I, onderdeel Q, en II, onderdeel M, van deze wet, gesloten overeenkomsten vervallen uiterlijk een jaar na inwerkingtreding van laatstgenoemde artikelen.
+2. De voor de datum van inwerkingtreding van de artikelen I, onderdeel Q, en II, onderdeel M, door het College zorgverzekeringen ingevolge artikel 44a van de Ziekenfondswet dan wel artikel 42a van de Algemene Wet Bijzondere Ziektekosten vastgestelde modelovereenkomsten en goedgekeurde uitkomsten, vervallen uiterlijk op de datum van inwerkingtreding van eerstgenoemde artikelen.
