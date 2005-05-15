@@ -1,0 +1,4 @@
+# Artikel 212ii
+1. Behoudens de bevoegdheid tot het aanwenden van een dwangmaatregel en de bevoegdheid tot het doen van een uitspraak in een geding of een geschil heeft de curator uit een andere lidstaat van herkomst dan Nederland in Nederland de bevoegdheden die hij in de lidstaat van herkomst heeft. De wijze van uitoefenen van deze bevoegdheden in Nederland wordt beheerst door het Nederlandse recht.
+2. De curator kan personen aanwijzen om hem te vertegenwoordigen of anderszins bij te staan.
+3. Indien op grond van het recht van de lidstaat van herkomst personen zijn aangewezen om de curator te vertegenwoordigen of anderszins bij te staan, kunnen zij de bevoegdheden die zij hebben op grond van het recht van die lidstaat uitoefenen op het grondgebied van Nederland.

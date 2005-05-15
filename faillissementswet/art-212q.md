@@ -1,0 +1,4 @@
+# Artikel 212q
+1. De kennisgeving, bedoeld in artikel 212p, eerste lid, aan een bekende schuldeiser met gewone verblijfplaats of woonplaats in een lidstaat, geschiedt in het Nederlands met een formulier dat in alle officiële talen van de Europese Unie het opschrift draagt «Oproep tot indiening van opmerkingen betreffende schuldvorderingen. Termijnen».
+2. Elke schuldeiser met gewone verblijfplaats of woonplaats in een lidstaat kan zijn vordering en schriftelijke opmerkingen betreffende zijn vordering indienen in een officiële taal van die lidstaat met een verklaring met als opschrift in de Nederlandse taal «Indiening van een vordering» onderscheidenlijk «Indiening van opmerkingen betreffende een vordering».
+3. De curator kan een vertaling in het Nederlands van het stuk waarbij de vordering wordt ingediend en van de opmerkingen betreffende de vordering verlangen.

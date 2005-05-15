@@ -17,7 +17,10 @@
 ### afdeeling Achtste. Van den rechtstoestand des schuldenaars na afloop van de vereffening
 ### afdeeling Tiende. Bepalingen van internationaal recht
 ### afdeeling Elfde. Van rehabilitatie
-### Afdeling 11A. Van het faillissement van een kredietinstelling, een financiële instelling, een effecteninstelling of een andere instelling, genoemd in artikel 212a, onder a
+### Afdeling 11A. Van het definitieve karakter van de afwikkeling van betalingen en effectentransacties in betalings- en afwikkelingssystemen
+### Afdeling 11AA. Van het faillissement van een kredietinstelling
+#### § 1. In Nederland gevestigde kredietinstellingen en buiten de Europese Economische Ruimte gevestigde kredietinstellingen met bijkantoor in Nederland
+#### § 2. Bepalingen van internationaal privaatrecht
 ### Afdeling 11B. Van het faillissement van een verzekeraar
 #### § 1. Definities
 #### § 2. Verzekeraars met zetel in Nederland, verzekeraars zonder vergunning met zetel in een andere lidstaat dan Nederland en verzekeraars met zetel buiten de Europese Unie met bijkantoor in Nederland

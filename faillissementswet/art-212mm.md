@@ -1,0 +1,3 @@
+# Artikel 212mm
+1. Indien een kredietinstelling die niet is gevestigd in een lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economscue Ruimte en een bijkantoor heeft in Nederland en een of meer bijkantoren in andere lidstaten, trachten zowel de rechtbank als de Nederlandsche Bank hun optreden te coördineren met de bevoegde instanties onderscheidenlijk de toezichthoudende autoriteiten van die andere lidstaten.
+2. In het in het eerste lid bedoelde geval tracht de in Nederland benoemde curator zijn optreden te coördineren met de curatoren in de andere lidstaten waarin aan de financiële onderneming een vergunning is verleend.

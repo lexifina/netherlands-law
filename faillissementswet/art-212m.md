@@ -1,0 +1,7 @@
+# Artikel 212m
+1. Nadat de rechtbank een verklaring als bedoeld in artikel 71, eerste of tweede lid, van de Wet toezicht kredietwezen 1992, heeft gegeven dan wel verlengd, kan zij in afwijking van het bepaalde in de artikelen 1 en 6, derde lid, een kredietinstelling slechts in staat van faillissement verklaren, indien een naar goed koopmansgebruik opgemaakte balans van de kredietinstelling een tekort aanwijst, ongeacht of de kredietinstelling verkeert in een toestand van te hebben opgehouden te betalen.
+2. De faillietverklaring vindt plaats, De Nederlandsche Bank N.V. gehoord, op verzoek van de bewindvoerders, bedoeld in artikel 71, zevende lid, van de Wet toezicht kredietwezen 1992, op verzoek van het Openbaar Ministerie of ambtshalve onder intrekking van bedoelde verklaring.
+3. Alsdan, zomede indien de faillietverklaring wordt uitgesproken binnen vier weken na het intrekken van de verklaring, gelden de volgende bepalingen:
+a. het tijdstip, waarop de termijnen, bedoeld in de artikelen 43 en 45, aanvangen, wordt berekend vanaf het geven van de verklaring, bedoeld in artikel 71, eerste of tweede lid, van de Wet toezicht kredietwezen 1992;
+b. boedelschulden, na het geven van de verklaring ontstaan, zullen ook in het faillissement als boedelschulden gelden;
+c. het tijdstip waarop de termijnen, vermeld in de artikelen 138, zesde lid, en 248, zesde lid, van Boek 2 van het Burgerlijk Wetboek aanvangen, wordt berekend vanaf de aanvang van de bijzondere voorziening.

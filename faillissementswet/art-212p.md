@@ -1,0 +1,4 @@
+# Artikel 212p
+1. De curator geeft van het vonnis tot faillietverklaring onmiddellijk aan alle bekende schuldeisers schriftelijk kennis.
+2. De curator die op de voet van artikel 109 aan alle bekende schuldeisers kennis geeft van de in dat artikel bedoelde beschikkingen, deelt daarbij tevens mede wat de gevolgen zijn van het indienen van een vordering na het verstrijken van de termijn, bedoeld in artikel 108, eerste lid, onderdeel 1, en dat schuldeisers, daaronder begrepen de schuldeisers met een voorrecht of zakelijk zekerheidsrecht, hun vorderingen bij de curator moeten indienen, met, in het voorkomende geval, de opgave dat op een voorrecht of zakelijk zekerheidsrecht aanspraak wordt gemaakt.
+3. De curator stelt alle bekende schuldeisers regelmatig op passende wijze in kennis van in ieder geval het verloop van de procedure.

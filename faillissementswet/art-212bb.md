@@ -1,0 +1,2 @@
+# Artikel 212bb
+In afwijking van artikel 212t worden, onverminderd artikel 212hh, de gevolgen van een liquidatieprocedure voor de rechten en verplichtingen van deelnemers aan een gereglementeerde markt als bedoeld in artikel 1, onder 13, van richtlijn nr. 93/22/EEG van de Raad van de Europese Gemeenschappen van 10 mei 1993 betreffende het verrichten van diensten op het gebied van beleggingen in effecten (PbEG L 141) uitsluitend beheerst door het recht dat op die markt van toepassing is.

@@ -1,5 +1,5 @@
 # Artikel 212a
-Voor de toepassing van deze afdeling wordt verstaan onder:
+Voor de toepassing van deze afdeling en afdeling 11AA wordt verstaan onder:
 a. instelling:
 1°. een kredietinstelling als bedoeld in artikel 1, eerste lid, onderdeel a, van de Wet toezicht kredietwezen 1992;
 2°. een financiële instelling als bedoeld in artikel 1, eerste lid, onderdeel c, van de Wet toezicht kredietwezen 1992;
