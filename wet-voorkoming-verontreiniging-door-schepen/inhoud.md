@@ -10,7 +10,7 @@
 ### § 1. Toezicht
 ### § 2. Aanhouding
 ## Hoofdstuk V. Verdere bepalingen
-### § 1. Bezwaar
+### § 1. Beroep
 ### § 2. Onderzoek van voorvallen
 ### § 3. Medewerking
 ### § 4. Ontheffing en vrijstelling
