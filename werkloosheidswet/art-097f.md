@@ -8,7 +8,7 @@ e. de kosten van het onderzoek, bedoeld in artikel 30, eerste lid, onderdelen e,
 f. de uitvoeringskosten, voorzover betrekking hebbend op de uitvoering van de artikelen 38, vierde lid, 39 en 39a van de Ziektewet ten aanzien van overheidswerkgevers en overheidswerknemers, die niet reeds op grond van onderdeel c ten laste van dat fonds worden gebracht, voorzover deze betrekking hebben op de uitvoering van artikel 629, derde lid, onderdeel c, van Boek 7 van het Burgerlijk Wetboek;
 g. de korting op de door de overheidswerkgever verschuldigde premie, bedoeld in artikel 97c, zesde lid;
 h. het op grond van artikel 42 van de Wet op de (re)integratie arbeidsgehandicapten aan het Reïntegratiefonds af te dragen bedrag;
-i. de financiële tegemoetkomingen op grond van artikel 7:6 van de Wet arbeid en zorg en de daaraan verbonden uitvoeringskosten;
+i. [vervallen;]
 j. de op diens aanvraag aan de werkgever door het Uitvoeringsinstituut werknemersverzekeringen te verlenen vergoeding van de schade, die de werkgever lijdt door toepassing van artikel 22b, eerste lid, en de daaraan verbonden uitvoeringskosten;
 k. de uitvoeringskosten verbonden aan werkzaamheden gericht op het ontvangen van bedragen, premies en bijdragen als bedoeld in artikel 97e;
 l. de kosten van de werkzaamheden, bedoeld in artikel 63a, vierde en vijfde lid, van de Ziektewet alsmede de schade, bedoeld het zesde lid van dat artikel, die wordt vergoed aan een eigenrisicodrager als bedoeld in artikel 63 van die wet en de daaraan verbonden uitvoeringskosten;
