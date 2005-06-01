@@ -4,6 +4,7 @@
 ### Het begrip loon
 ### Overige begrippen
 ### Gelijkstelling met een collectieve arbeidsovereenkomst
+### Werkingsduur, regeling bestuursorgaan of regeling met ondernemingsraad/personeelsvertegenwoordiging
 ## Hoofdstuk 2. Aanpassing arbeidsduur
 ### Gereserveerd
 ## Hoofdstuk 3. Zwangerschap, bevalling, adoptie en pleegzorg
@@ -54,23 +55,33 @@
 ### § 4. Nadere voorschriften
 #### Compensatie met vakantie-aanspraken
 ### § 5. Mate van gebondenheid
-#### Driekwartdwingend recht
-## Hoofdstuk 5. Kortdurend zorgverlof
-### § 1. Verlofvorm
-#### Kortdurend zorgverlof
-#### Duur verlof
-### § 2. Melding en informatie
-#### Meldingsverplichting
-#### Ingang verlof/zwaarwegend bedrijfs- of dienstbelang
-#### Informatieverplichting
-### § 3. Loonvoorschriften
-#### Loondoorbetaling
-#### Nadere loonvoorschriften
-### § 4. Nadere voorschriften
-#### Samenloop
+#### Recht met afwijkingsmogelijkheden
+## Hoofdstuk 5. Kort- en langdurend zorgverlof
+### Afdeling 1. Kortdurend zorgverlof
+#### § 1. Verlofvorm
+##### Kortdurend zorgverlof
+##### Duur verlof
+#### § 2. Melding en informatie
+##### Meldingsverplichting
+##### Ingang verlof/zwaarwegend bedrijfs- of dienstbelang
+##### Informatieverplichting
+#### § 3. Loonvoorschriften
+##### Loondoorbetaling
+##### Nadere loonvoorschriften
+#### § 4. Nadere voorschriften
+##### Samenloop
+### Afdeling 2. Langdurend zorgverlof
+#### § 1. Verlofvorm
+##### Langdurend zorgverlof
+##### Omvang, duur en invulling verlof
+#### § 2. Verlening, ingang en einde van verlof, informatie
+##### Verzoek, zwaarwegend bedrijfs- of dienstbelang
+##### Ingang van het verlof
+##### Einde van het verlof
+#### § 3. Samenloop
+### Afdeling 3. Nadere voorschriften
 #### Compensatie met vakantie-aanspraken
-### § 5. Mate van gebondenheid
-#### Driekwartdwingend recht
+#### Recht met afwijkingsmogelijkheden
 ## Hoofdstuk 6. Ouderschapsverlof
 ### § 1. Verlofvorm
 #### Ouderschapsverlof
@@ -83,29 +94,8 @@
 ### § 3. Nadere voorschriften
 #### Compensatie met vakantie-aanspraken
 ### § 4. Mate van gebondenheid
-#### Driekwartdwingend recht
+#### Recht met afwijkingsmogelijkheden
 #### Dwingend recht
-## Hoofdstuk 7. Loopbaanonderbreking
-### Afdeling 1. Algemene bepalingen
-#### De begrippen verlof en verlofganger
-#### Nadere voorschriften duur en invulling verlof
-#### Het begrip vervanger
-#### Nadere voorschriften vervanging
-### Afdeling 2. Financiële tegemoetkoming
-#### § 1. Aanvraag
-#### § 2. Financiële tegemoetkoming
-##### Toekenning en hoogte financiële tegemoetkoming
-##### Voorwaarden voor toekenning
-##### Voorwaarden bij palliatief verlof
-##### Duur financiële tegemoetkoming
-##### Voortijdige beëindiging financiële tegemoetkoming
-##### Geen voortijdige beëindiging financiële tegemoetkoming bij voortijdige beëindiging vervanging
-##### Herziening of intrekking
-##### Terugvordering
-##### Onvervreemdbaarheid
-#### § 3. Informatieverplichting
-##### Verplichting tot het verstrekken van inlichtingen
-#### § 4. Boete
 ## Hoofdstuk 8. Slotbepalingen
 ### Evaluatiebepaling
 ### Inwerkingtreding
