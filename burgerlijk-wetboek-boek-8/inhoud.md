@@ -63,6 +63,11 @@
 ##### Afdeling 1. Rechten op luchtvaartuigen
 ##### Afdeling 2. Voorrechten op luchtvaartuigen
 ##### Afdeling 3. Slotbepaling
+#### Titel 16. Exploitatie
+##### Afdeling 1. Algemene bepalingen
+##### Afdeling 2. Overeenkomst van goederenvervoer door de lucht
+##### Afdeling 3. Overeenkomst van personenvervoer door de lucht
+##### Afdeling 4. Opvolgend vervoer
 ### VI. Vervoer langs spoorstaven
 #### Titel 19. Ongevallen
 ##### Afdeling 4. Gevaarlijke stoffen aan boord van een spoorrijtuig
@@ -79,4 +84,5 @@
 ##### Afdeling 10. Hulpverlening
 ##### Afdeling 11. Avarij-grosse
 ##### Afdeling 12. Gevaarlijke stoffen aan boord van een zeeschip, een binnenschip, een voertuig en een spoorrijtuig
+##### Afdeling 13. Luchtrecht
 #### Algemene Slotbepaling
