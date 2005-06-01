@@ -1,4 +1,0 @@
-# Artikel 34a
-1. Indien een geding wordt aanhangig gemaakt tegen een ondergeschikte van de vervoerder op grond van schade als bedoeld in deze wet, zal deze, indien hij bewijst, dat hij in de uitoefening van zijn werkzaamheden heeft gehandeld, zich kunnen beroepen op de aansprakelijkheidsgrenzen, waarop een vervoerder zich krachtens artikel 30 kan beroepen.
-2. Het totale bedrag van de schade-vergoeding, welke in dat geval van de vervoerder en diens ondergeschikte kan worden verkregen, mag de in artikel 30 vermelde grenzen niet overschrijden.
-3. De bepalingen van de vorige leden van dit artikel zijn niet van toepassing, indien wordt bewezen, dat de schade het gevolg is van een daad of een nalatigheid van de ondergeschikte, welke plaats vond hetzij met de bedoeling schade te veroorzaken, hetzij roekeloos en met de wetenschap, dat er waarschijnlijk schade uit zou voortvloeien.
