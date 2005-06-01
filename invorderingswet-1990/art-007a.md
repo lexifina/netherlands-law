@@ -1,0 +1,3 @@
+# Artikel 7a
+1. De ontvanger betaalt een terug te geven bedrag aan rijksbelastingen dan wel andere belastingen of heffingen voorzover de invordering daarvan aan hem is opgedragen uitsluitend uit door bijschrijving op een rekening, bestemd voor girale betaling, die op naam staat van de belastingschuldige dan wel ingeval de belastingschuldige dat voorafgaande aan de uitbetaling aan de inspecteur of de ontvanger te kennen heeft gegeven of daarmee heeft ingestemd, door bijschrijving op een door de belastingschuldige aangewezen rekening, bestemd voor girale betaling, die op naam staat van hem of een andere persoon.
+2. Het eerste lid is van overeenkomstige toepassing op andere door de ontvanger uit te betalen bedragen.
