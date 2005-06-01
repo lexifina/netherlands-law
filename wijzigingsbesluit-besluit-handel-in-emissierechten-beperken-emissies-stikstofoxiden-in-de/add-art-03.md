@@ -1,0 +1,2 @@
+# Artikel III
+Indien het bij koninklijke boodschap van 21 september 2004 ingediende voorstel van wet tot wijziging van de Wet milieubeheer en de Wet op de economische delicten ten behoeve van de invoering van een systeem van handel in emissierechten met het oog op het beperken van de emissies van stikstofoxiden (handel in NOx-emissierechten) (29 766) nadat het tot wet is verheven, in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking.

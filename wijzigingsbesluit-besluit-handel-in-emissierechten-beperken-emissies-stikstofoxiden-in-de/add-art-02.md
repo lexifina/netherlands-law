@@ -1,0 +1,2 @@
+# Artikel II
+Voorzover de voorbereiding van de beslissing op een verzoek om buiten de aanwijzing, bedoeld in artikel 13, eerste lid, aanhef en onder a, van het Besluit handel in emissierechten, zoals dat artikel komt te luiden na de inwerkingtreding van dit besluit, te blijven, al heeft plaatsgevonden vóór dat tijdstip, wordt deze voorbereiding aangemerkt als te hebben plaatsgevonden overeenkomstig de vanaf de inwerkingtreding van dit besluit voor de voorbereiding van die beslissing geldende procedure.
