@@ -1,3 +1,0 @@
-# Artikel II
-1. Een verzoek als bedoeld in artikel 24, eerste lid, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen, dat betrekking heeft op werkzaamheden die geheel of gedeeltelijk worden verricht in het eerste kalenderhalfjaar van 2004 en die bestaan uit de werkzaamheden bedoeld in artikel 1, onderdeel m, van de Afbakeningsregeling speur- en ontwikkelingswerk 1997, zoals dat luidde direct vóór de inwerkingtreding van Artikel I, moet uiterlijk 1 maart 2004 zijn ingediend.
-2. De beslissing op een verzoek, ingediend op de voet van het vorige lid, wordt uiterlijk 1 mei 2004 bekendgemaakt.
