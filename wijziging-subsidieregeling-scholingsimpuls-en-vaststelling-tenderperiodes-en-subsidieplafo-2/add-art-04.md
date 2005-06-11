@@ -1,2 +1,0 @@
-# Artikel IV
-Indien het bij koninklijke boodschap van 22 juli 2002 ingediende voorstel van wet tot aanvulling van de Algemene wet bestuursrecht met regels over verkeer langs elektronische weg tussen burgers en bestuursorganen (Wet elektronisch bestuurlijk verkeer, Kamerstukken II 2001-2002, 28 483), nadat het tot wet is verheven, in werking treedt, vervallen op hetzelfde tijdstip het derde tot en met zesde lid van artikel 7a van de Subsidieregeling scholingsimpuls.
