@@ -1,3 +1,0 @@
-# A4. Energiebesparing in het railvervoer
-Projecten voor energiebesparing in het railvervoer die in aanmerking komen voor subsidie betreffen bij voorkeur projecten gericht op energiezuinig rijden, energiezuinige dienstregeling en projecten voor energiebesparing in het materieel.
-Aan de doelstelling van het onderdeel Energiebesparing in de dienstensector kunnen met name partijen bijdragen die een structurele relatie hebben met de eindverbruikers. Hierbij gaat het vooral om energiedistributiebedrijven, adviesbureaus, installateurs, branche- of koepelorganisaties en andere intermediaire groepen. Specifiek voor de nieuwbouwkantoren kunnen ook beleggers of financiers, projectontwikkelaars en partijen die verantwoordelijk zijn voor het bouwmanagement projecten indienen.

@@ -1,4 +1,0 @@
-# B2. Praktijkexperimenten energiezuinige concepten
-De voornaamste soorten projecten die in 2000 voor subsidie in aanmerking komen zijn praktijkexperimenten gericht op het opdoen van praktische ervaring, respectievelijk het aantonen van praktische werking van energiezuinige concepten zoals omschreven in onderdeel B1., dan wel gericht op essentiële componenten van deze energiezuinige concepten voorzover deze separaat te beproeven zijn.
-Aan de doelstelling van het onderdeel kunnen met name bijdragen adviesbureaus, (toekomstige) eigenaren en exploitanten van woningbouwcomplexen en utiliteitsgebouwen, fabrikanten, energiedistributiebedrijven en instellingen voor onderzoek en hoger of wetenschappelijk onderwijs.
-Bij projectvoorstellen moeten bij voorkeur zoveel mogelijk (onderdeel B1.) respectievelijk alle (onderdeel B2.) bij ontwerp en bouw betrokken partijen worden betrokken.
