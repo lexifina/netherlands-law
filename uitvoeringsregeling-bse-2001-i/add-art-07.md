@@ -1,5 +1,0 @@
-# Artikel VII
-1. Als programma als bedoeld in artikel 2, tweede lid, van het Besluit subsidies energieprogramma's, wordt vastgesteld het programma opgenomen in de bij deze regeling behorende bijlage 1, onder A.
-2. Voor het in bijlage 1, onder A, opgenomen onderdeel A van het programma wordt het subsidieplafond vastgesteld overeenkomstig het bepaalde in bijlage 1, onder B.
-3. Het in het tweede lid bedoelde bedrag is beschikbaar voor aanvragen die zijn ontvangen in de in bijlage 1, onder C, opgenomen periode.
-4. Het bedrag voor onderdeel A van bijlage 1, onder A, wordt verdeeld op de wijze, bepaald in artikel 9, tweede lid, van het Besluit subsidies energieprogramma's.
