@@ -1,9 +1,0 @@
-# B. Beoordeling
-1. Aanvragen die niet voldoen aan het Besluit subsidies energieprogramma's en het gestelde in onderdeel A van dit programma, worden door de minister afgewezen.
-2. Aanvragen betreffende haalbaarheids- en kennisoverdrachtprojecten, die voldoen aan de voorschriften van het Besluit subsidies energieprogramma's en het gestelde in onderdeel A van dit programma, worden door de minister getoetst aan de voorwaarden van onderdeel C van dit programma.
-3. De minister wint omtrent aanvragen betreffende onderzoeks- of ontwikkelingsprojecten, praktijkexperimenten, demonstratieprojecten en marktintroductieprojecten die voldoen aan de voorschriften van het Besluit subsidies energieprogramma's en het gestelde in onderdeel A van dit programma, advies in bij de Adviescommissie duurzame energie.
-4. De commissie geeft de minister een negatief advies over de aanvragen, bedoeld onder 3 van dit onderdeel, die op grond van onderdeel C van dit programma niet voor subsidie in aanmerking komen.
-5. De commissie geeft inzake de aanvragen, bedoeld onder 3 van dit onderdeel, waarover de commissie geen negatief advies als bedoeld onder 4 van dit onderdeel heeft gegeven, een advies over de volgorde van rangschikking aan de hand van de criteria, bedoeld in onderdeel D van dit programma.
-6. De minister kan afwijken van een advies van de commissie, indien een advies van de commissie in strijd is met het Besluit subsidies energieprogramma's dan wel op onzorgvuldige wijze tot stand is gekomen.
-Toelichting
-Haalbaarheids- en kennisoverdrachtprojecten worden behandeld in volgorde van ontvangst. Onderzoeks- of ontwikkelingsprojecten, praktijkexperimenten, demonstratieprojecten en marktintroductieprojecten worden in een tenderprocedure met elkaar vergeleken. De Adviescommissie duurzame energie adviseert de minister over de volgorde waarin de aanvragen worden gerangschikt.
