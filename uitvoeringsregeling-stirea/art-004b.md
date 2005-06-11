@@ -1,2 +1,0 @@
-# Artikel 4b
-Indien van een ontwikkelingsproject in ondergeschikte mate activiteiten deel uitmaken die bestaan uit een ingrijpende herstructurering van een bestaand bedrijventerrein, worden als projectkosten mede in aanmerking genomen de aan die activiteiten toe te rekenen kosten, met dien verstande dat subsidie wordt verstrekt overeenkomstig het percentage dat geldt voor revitaliseringsprojecten.
