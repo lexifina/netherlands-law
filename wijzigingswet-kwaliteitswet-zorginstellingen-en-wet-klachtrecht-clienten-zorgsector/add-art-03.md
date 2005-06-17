@@ -1,0 +1,2 @@
+# Artikel III
+In afwijking van artikel 2, zevende lid, van de Wet klachtrecht cliënten zorgsector kan in het openbaar verslag over het kalenderjaar, voorafgaande aan het jaar waarin deze wet in werking treedt, worden volstaan met het aangeven van het aantal en de aard van de door de klachtencommissie, bedoeld in artikel 2, tweede lid, onder a, van de Wet klachtrecht cliënten zorgsector behandelde klachten.
