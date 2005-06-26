@@ -1,3 +1,0 @@
-# Artikel 10a
-1. Een melding als bedoeld in artikel 100 van de wet vindt voor BSE in ieder geval plaats bij runderen ouder dan twintig maanden, die gedragsstoornissen of neurologische symptomen vertonen en waarbij de ziekte op grond van een reactie op een behandeling of op grond van een laboratoriumonderzoek niet kan worden uitgesloten.
-2. Een melding als bedoeld in artikel 100 van de wet vindt voor scrapie in ieder geval plaats bij schapen en geiten ouder dan twaalf maanden, die gedragsstoornissen of neurologische symptomen vertonen en waarbij de ziekte op grond van een reactie op een behandeling of op grond van een laboratorium-onderzoek niet kan worden uitgesloten.
