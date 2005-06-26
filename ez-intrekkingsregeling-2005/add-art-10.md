@@ -1,0 +1,11 @@
+# Artikel X. Exportfinanciering
+De volgende regelingen worden ingetrokken:
+a. Regeling van de Staatssecretaris van Economische Zaken van 30 december 1993, nr. 93097372, houdende wijziging Subsidieregeling exportfinanciering (Stcrt. 252);
+b. Regeling van de Staatssecretaris van Economische Zaken van 17 december 1998, nr. WJZ/JZ 98083105, houdende wijziging Regeling exportfinancieringsarrangement lichte matching (Stcrt. 249);
+c. Regeling van de Staatssecretaris van Economische Zaken van 17 december 1998, nr. WJZ/JZ 98083109, houdende wijziging Regeling exportfinancieringsarrangement rente-overbruggingsfaciliteit (Stcrt. 249);
+d. Regeling van de Staatssecretaris van Economische Zaken van 17 december 1998, nr. WJZ/JZ 98083241, houdende wijziging Regeling exportfinancieringsarrangement Indonesië (Stcrt. 249);
+e. Regeling van de Staatssecretaris van Economische Zaken van 14 december 1999, nr. WJZ/JZ 99075801, houdende subsidieplafonds 2000 regelingen exportfinancieringsarrangement (Stcrt. 243);
+f. Regeling van de Staatssecretaris van Economische Zaken van 13 december 2000, nr. WJZ 00076018, houdende vaststelling subsidieplafonds 2001 op grond van enkele regelingen exportfinancieringsarrangement (Stcrt. 244);
+g. Regeling van de Staatssecretaris van Economische Zaken van 11 december 2001, nr. WJZ 01061966, houdende vaststelling van de subsidieplafonds voor 2002 op grond van de Regeling exportfinancieringsarrangement lichte matching, de Regeling exportfinancieringsarrangement zware matching en de Regeling exportfinancieringsarrangement rente-overbruggingsfaciliteit (Stcrt. 242);
+h. Regeling van de Staatssecretaris van Economische Zaken van 1 december 2002, nr. WJZ 02060103, houdende vaststelling van de subsidieplafonds voor 2003 op grond van de Regeling exportfinancieringsarrangement rente-overbruggingsfaciliteit 2002 en de Regeling exportfinancieringsarrangement zware matching (Stcrt. 234);
+i. Regeling van de Staatssecretaris van Economische Zaken van 10 december 2003, WJZ 3071774, houdende intrekking van de Regeling exportfinancieringsarrangement rente-overbruggingsfaciliteit 2002 en vaststelling van het subsidieplafond voor 2004 van de Regeling exportfinancieringsarrangement zware matching (Stcrt. 245).
