@@ -7,4 +7,4 @@
 6. Indien meer dan één taakstraf wordt opgelegd, bedraagt het totaal aantal uren niet meer dan tweehonderdenveertig.
 7. Artikel 27, eerste en vierde lid, is bij veroordeling tot een taakstraf van overeenkomstige toepassing.
 8. Het openbaar ministerie kan de termijn, genoemd in het derde en vijfde lid, ambtshalve of op verzoek van de veroordeelde, eenmaal met een zelfde periode verlengen. Het openbaar ministerie zendt hiervan zo spoedig mogelijk een kennisgeving aan de veroordeelde.
-9. De termijnen, genoemd in het derde en vijfde lid, worden verlengd met de tijd dat de veroordeelde uit anderen hoofde rechtens zijn vrijheid is ontnomen alsmede met de tijd dat hij zich aan zodanige vrijheidsontneming heeft onttrokken.
+9. De termijnen, genoemd in het derde en vijfde lid, worden verlengd met de tijd dat de veroordeelde uit anderen hoofde rechtens zijn vrijheid is ontnomen alsmede met de tijd dat hij ongeoorloofd afwezig is.

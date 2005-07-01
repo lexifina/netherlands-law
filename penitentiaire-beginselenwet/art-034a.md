@@ -1,0 +1,9 @@
+# Artikel 34a
+1. De directeur kan bepalen dat de gedetineerde die in een individueel regime als bedoeld in artikel 22 of in een extra beveiligde inrichting als bedoeld in artikel 13, eerste lid, onder e, is geplaatst, dag en nacht door middel van een camera wordt geobserveerd:
+a. indien dit noodzakelijk is in het belang van de handhaving van de orde of de veiligheid in de inrichting;
+b. indien dit noodzakelijk is voor een ongestoorde tenuitvoerlegging van de vrijheidsbeneming;
+c. indien dit ter bescherming van de geestelijke of lichamelijke toestand van de gedetineerde noodzakelijk is;
+d. indien bij ontvluchting of schade aan de gezondheid van de gedetineerde grote maatschappelijke onrust zou kunnen ontstaan of ernstige schade zou kunnen worden toegebracht aan de betrekkingen van Nederland met andere staten of internationale organisaties.
+2. Indien cameraobservatie wordt toegepast op de grond van het eerste lid, onder c, wordt, alvorens de directeur hiertoe beslist, het advies ingewonnen van een gedragsdeskundige onderscheidenlijk de inrichtingsarts, tenzij dit advies niet kan worden afgewacht. In dat geval wint de directeur het advies zo spoedig mogelijk na zijn beslissing in.
+3. De cameraobservatie, bedoeld in het eerste lid, duurt ten hoogste twee weken. De directeur kan de cameraobservatie telkens voor ten hoogste twee weken verlengen, indien hij tot het oordeel is gekomen dat de noodzaak daartoe nog bestaat. De beslissing tot verlenging wordt genomen na overleg met de aan de inrichting verbonden arts of diens vervanger, of, in het geval, bedoeld in het eerste lid, onder c, een gedragsdeskundige.
+4. De directeur draagt zorg dat, ingeval de cameraobservatie langer dan vierentwintig uren duurt, de commissie van toezicht en de aan de inrichting verbonden arts of diens vervanger terstond hiervan in kennis worden gesteld.

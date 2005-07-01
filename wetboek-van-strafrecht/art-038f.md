@@ -1,8 +1,9 @@
 # Artikel 38f
 1. De termijn van de terbeschikkingstelling loopt niet:
-a. gedurende de tijd dat aan de ter beschikking gestelde uit anderen hoofde rechtens zijn vrijheid is ontnomen en gedurende de tijd dat hij zich aan zodanige vrijheidsontneming heeft onttrokken;
-b. wanneer de ter beschikking gestelde zich langer dan een week achtereen ongeoorloofd ophoudt buiten de inrichting voor verpleging van ter beschikking gestelden waarin hij krachtens een bevel als bedoeld in artikel 37b of artikel 38c is opgenomen.
-c. wanneer de ter beschikking gestelde zich langer dan een week achtereen ongeoorloofd ophoudt buiten een inrichting waarin hij krachtens een voorwaarde als bedoeld in artikel 38a, eerste lid, is opgenomen.
-2. In afwijking van het bepaalde in het eerste lid, aanhef en onder a, loopt de termijn van de terbeschikkingstelling wel indien de ter beschikking gestelde:
-a. krachtens een last als bedoeld in artikel 13 of ingevolge het bepaalde bij en krachtens de Penitentiaire beginselenwet in een inrichting voor verpleging van ter beschikking gestelden of in een ander psychiatrisch ziekenhuis is opgenomen, tenzij hij zich langer dan een week achtereen ongeoorloofd ophoudt buiten die inrichting of dat ziekenhuis;
-b. nadat de termijn van de terbeschikkingstelling een aanvang heeft genomen, in een psychiatrisch ziekenhuis is opgenomen, tenzij hij zich langer dan een week achtereen ongeoorloofd ophoudt buiten dat ziekenhuis.
+a. gedurende de tijd dat de ter beschikking gestelde die van overheidswege wordt verpleegd uit anderen hoofde rechtens zijn vrijheid is ontnomen en gedurende de tijd dat hij uit zodanige vrijheidsontneming ongeoorloofd afwezig is;
+b. gedurende de tijd dat de ter beschikking gestelde met voorwaarden, bedoeld in artikel 38, eerste lid, rechtens zijn vrijheid is ontnomen en gedurende de tijd dat hij uit zodanige vrijheidsontneming ongeoorloofd afwezig is;
+c. gedurende de tijd dat de ter beschikking gestelde die van overheidswege wordt verpleegd, langer dan een week achtereen ongeoorloofd afwezig is uit de inrichting voor verpleging van ter beschikking gestelden;
+d. gedurende de tijd dat de ter beschikking gestelde met voorwaarde langer dan een week achtereen ongeoorloofd afwezig is uit de inrichting waarin hij krachtens de voorwaarde is opgenomen.
+2. In afwijking van het eerste lid, onder a, loopt de termijn van de terbeschikkingstelling wel indien de ter beschikking gestelde:
+a. krachtens een last als bedoeld in artikel 13 of ingevolge het bepaalde bij of krachtens de Penitentiaire beginselenwet in een inrichting voor verpleging van ter beschikking gestelden of in een ander psychiatrisch ziekenhuis is opgenomen, tenzij hij langer dan een week ongeoorloofd afwezig is uit die inrichting of dat ziekenhuis;
+b. nadat de termijn van de terbeschikkingstelling een aanvang heeft genomen, in een psychiatrisch ziekenhuis is opgenomen, tenzij hij langer dan een week ongeoorloofd afwezig is uit dat ziekenhuis.
