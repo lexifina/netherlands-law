@@ -1,2 +1,0 @@
-# Artikel II
-Onze Minister van Landbouw, Natuurbeheer en Visserij zendt binnen vijf jaar na de inwerkingtreding van dit besluit aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit besluit in de praktijk.
