@@ -1,3 +1,0 @@
-# Artikel 130d
-1. Onze Minister zendt uiterlijk zes maanden voor de beëindiging van een experiment, dat met toepassing van dit hoofdstuk is getroffen, een verslag over de doeltreffendheid en de effecten ervan alsmede een standpunt inzake de voortzetting van de desbetreffende regeling, anders dan als experiment, aan de Staten-Generaal.
-2. Indien een experiment, dat met toepassing van dit hoofdstuk is getroffen, eerder wordt beëindigd dan oorspronkelijk beoogd zendt Onze Minister, in afwijking van het eerste lid, uiterlijk twee maanden na de beëindiging van dat experiment een verslag over de doeltreffendheid en de effecten ervan alsmede een standpunt inzake de voortzetting van de desbetreffende regeling, anders dan als experiment, aan de Staten-Generaal.
