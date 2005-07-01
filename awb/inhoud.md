@@ -10,14 +10,7 @@
 ### Afdeling 3.1. Inleidende bepalingen
 ### Afdeling 3.2. Zorgvuldigheid en belangenafweging
 ### Afdeling 3.3. Advisering
-### Afdeling 3.4. Openbare voorbereidingsprocedure
-### Afdeling 3.5. Uitgebreide openbare voorbereidingsprocedures
-#### § 3.5.1. Algemeen
-#### § 3.5.2. Indiening van de aanvraag; ontvankelijkheid
-#### § 3.5.3. Het ontwerp van het besluit
-#### § 3.5.4. Adviezen en bedenkingen
-#### § 3.5.5. Beslissing op de aanvraag
-#### § 3.5.6. Besluiten tot wijziging of intrekking en ambtshalve andere te nemen besluiten
+### Afdeling 3.4. Uniforme openbare voorbereidingsprocedure
 ### Afdeling 3.6. Bekendmaking en mededeling
 ### Afdeling 3.7. Motivering
 ## Hoofdstuk 4. Bijzondere bepalingen over besluiten
