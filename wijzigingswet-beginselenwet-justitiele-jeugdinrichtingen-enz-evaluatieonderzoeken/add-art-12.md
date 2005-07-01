@@ -1,0 +1,2 @@
+# Artikel XII
+Herbenoeming van leden en plaatsvervangende leden van de commissie, bedoeld in artikel 8, eerste lid, van de Wet schadefonds geweldsmisdrijven, die zijn benoemd voor het tijdstip van inwerkingtreding van deze wet, geschiedt, na afloop van de termijn waarvoor zij zijn benoemd, overeenkomstig de daarvoor geldende bepalingen, doch zodanig dat de totale zittingsduur een termijn van twaalf jaren niet zal kunnen overschrijden.
