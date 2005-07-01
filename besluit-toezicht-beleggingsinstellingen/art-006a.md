@@ -1,0 +1,3 @@
+# Artikel 6a
+1. Een beleggingsinstelling behoort niet tot een groep waarbinnen de formele of feitelijke zeggenschapsstructuur in zodanige mate ondoorzichtig is dat deze, naar het oordeel van de toezichthoudende autoriteit, een belemmering vormt voor het adequaat uitoefenen van toezicht op de beleggingsinstelling.
+2. Indien een beleggingsinstelling in een groep is verbonden met een natuurlijke persoon of rechtspersoon op wie, onderscheidenlijk waarop, het recht van een staat die geen lid-staat is, van toepassing is, mag het recht van die staat, naar het oordeel van de toezichthoudende autoriteit, niet een belemmering vormen voor het adequaat uitoefenen van toezicht op de beleggingsinstelling.
