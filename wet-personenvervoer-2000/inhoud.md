@@ -4,7 +4,7 @@
 ### § 2. Werkingssfeer
 ### § 3. Vergunningen
 ### § 4. Algemene verplichtingen
-### § 5. Taken van de Nederlandse mededingingsautoriteit
+### § 5. Taken van de raad van bestuur van de mededingingsautoriteit
 ## Hoofdstuk II. Concessies voor openbaar vervoer
 ### § 1. Concessieplicht
 ### § 2. Concessieverlening
