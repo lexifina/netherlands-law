@@ -1,0 +1,9 @@
+# Artikel 18a
+1. Onze Minister kan bepalen:
+a. dat een ziekenhuisvoorziening moet worden gesloten;
+b. dat het aantal bedden of plaatsen in een ziekenhuisvoorziening moet worden verminderd met een door hem aan te geven aantal;
+c. dat de uitoefening van door hem aan te geven medische specialismen in een ziekenhuisvoorziening moet worden verminderd met een door hem aan te geven aantal functie-eenheden dan wel dient te worden beëindigd, indien een en ander niet past in een plan voor ziekenhuisvoorzieningen.
+2. Alvorens hiertoe over te gaan, hoort Onze Minister het College bouw en gedeputeerde staten van de provincie waarin de ziekenhuisvoorziening zich bevindt; gedeputeerde staten geven aan het bestuur van de gemeente, waarin de voorziening zich bevindt, en aan bestuur en medewerkers van de betrokken ziekenhuisvoorziening de gelegenheid om binnen een door Onze Minister te bepalen termijn hun opmerkingen omtrent dit voornemen aan hen kenbaar te maken.
+3. Onze minister handelt bij toepassing van de voorgaande leden in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschappen met betrekking tot academische ziekenhuizen, met Onze Minister van Defensie met betrekking tot militaire ziekenhuizen en met Onze Minister van Justitie met betrekking tot ziekenhuisvoorzieningen waar uitsluitend of overwegend patiënten worden opgenomen onder diens verantwoordelijkheid in het kader van de uitvoering van een rechterlijke uitspraak.
+4. De werking van de beschikking krachtens het eerste lid, wordt opgeschort tot drie maanden na het verstrijken van de beroepstermijn of, indien beroep is ingesteld, tot drie maanden nadat op het beroep is beslist, tenzij Onze Minister, gezien de aard van de maatregel, anders bepaalt. Onze Minister kan desgevraagd de termijn verlengen.
+5. Het is verboden een ziekenhuisvoorziening te exploiteren in strijd met een beschikking krachtens het eerste lid.

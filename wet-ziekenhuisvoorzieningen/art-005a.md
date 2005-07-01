@@ -1,0 +1,2 @@
+# Artikel 5a
+Onze minister, in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschappen, biedt na overleg met de besturen van provincies periodiek aan de Tweede Kamer der Staten-Generaal een overzicht aan van zijn beleidsvoornemens met betrekking tot functies, capaciteit, samenhang en spreiding van de voorzieningen in academische ziekenhuizen. Hierbij wordt het bijzondere karakter van deze ziekenhuizen zoals vastgelegd in artikel 150a van de Wet op het wetenschappelijk onderwijs in acht genomen.
