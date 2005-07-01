@@ -114,9 +114,7 @@
 ## Hoofdstuk 19. Openbaarheid van milieu-informatie
 ## Hoofdstuk 20. Beroep bij de administratieve rechter
 ### § 20.1. Algemeen
-### § 20.2. Beroep tegen besluiten die met toepassing van de paragrafen 3.5.2 tot en met 3.5.5 van de Algemene wet bestuursrecht tot stand zijn gekomen
-### § 20.3. Beroep tegen besluiten die met toepassing van paragraaf 3.5.6 van de Algemene wet bestuursrecht tot stand zijn gekomen
-### § 20.4. Beroep tegen andere besluiten
-### § 20.5. Advisering inzake beroepen milieubeheer
+### § 20.2. Beroep tegen besluiten die zijn voorbereid met toepassing van afdeling 3.4 van de Algemene wet bestuursrecht
+### § 20.3. Advisering inzake beroepen milieubeheer
 ## Hoofdstuk 21. Verdere bepalingen
 ## Hoofdstuk 22. Slotbepalingen
