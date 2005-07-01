@@ -14,8 +14,9 @@
 ### Algemene verplichtingen van de werknemers
 ## Hoofdstuk 3. Samenwerking, overleg, bijzondere rechten van de ondernemingsraad, de personeelsvertegenwoordiging en de belanghebbende werknemers en de regeling van de deskundige bijstand
 ### Samenwerking en bijzondere rechten van de ondernemingsraad, de personeelsvertegenwoordiging en de belanghebbende werknemers
-### Werkoverleg
-### Deskundige bijstand op het gebied van preventie en bescherming
+### Bijstand deskundige werknemers op het gebied van preventie en bescherming
+### Maatwerkregeling aanvullende deskundige bijstand bij specifieke taken op het gebied van preventie en bescherming
+### Vangnetregeling aanvullende deskundige bijstand op het gebied van preventie en bescherming
 ### Deskundige bijstand op het gebied van bedrijfshulpverlening
 ## Hoofdstuk 4. Bijzondere verplichtingen
 ### Nadere regels met betrekking tot arbeidsomstandigheden alsmede uitzonderingen op en uitbreidingen van toepassingsgebied
@@ -57,6 +58,7 @@
 ### Evaluatie
 ### Intrekking
 ### Overgang
+### Overgangsrecht wijziging van de Arbeidsomstandighedenwet 1998 in verband met een gewijzigde organisatie van de deskundige bijstand bij het arbeidsomstandighedenbeleid en de daarmee samenhangende bepalingen
 ### Overgang verzoeken en beroepen
 ### Arbeidstijdenwet
 ### Invoeringswet Arbeidsvoorzieningswet
