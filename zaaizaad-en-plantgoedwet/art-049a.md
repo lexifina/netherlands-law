@@ -1,0 +1,5 @@
+# Artikel 49a
+1. Pandrecht op een kwekersrecht wordt gevestigd bij een akte en werkt tegenover derden eerst wanneer de akte in het Nederlands Rassenregister is ingeschreven.
+2. De pandhouder is verplicht in een door hem ondertekende verklaring, bij de Raad voor het Kwekersrecht in te zenden, woonplaats te kiezen te 's-Gravenhage. Indien die keuze niet is gedaan, geldt de zetel van de Raad voor het Kwekersrecht als gekozen woonplaats.
+3. Bedingen in de akte waarbij het pandrecht is gevestigd, betreffende na inschrijving te verlenen licenties, gelden van het ogenblik af, dat zij in het Nederlands Rassenregister zijn aangetekend, ook tegenover derden. Bedingen, betreffende vergoedingen voor licenties, die op het ogenblik der inschrijving reeds waren verleend, gelden tegenover de houder der licentie na aanzegging aan deze bij deurwaardersexploit.
+4. Akten, waaruit blijkt, dat het pandrecht heeft opgehouden te bestaan of krachteloos is geworden, worden in het Nederlands Rassenregister ingeschreven.
