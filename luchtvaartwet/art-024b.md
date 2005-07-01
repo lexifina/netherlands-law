@@ -1,5 +1,3 @@
 # Artikel 24b
-1. Onze Minister doet mededeling van zijn beslissing omtrent de aanwijzing van het luchtvaartterrein in de Staatscourant en in de daarvoor in aanmerking komende dag- en nieuwsbladen. Hij maakt bij die gelegenheid tevens de nederlegging bekend van de afschriften van de aanwijzing.
-2. Onze Minister zendt afschrift van zijn beslissing omtrent de aanwijzing aan de Rijksplanologische Commissie en de Rijksmilieuhygiënische Commissie en aan de commissie, bedoeld in artikel 28, indien deze reeds is ingesteld.
-3. Vanaf de dag der verzending van de afschriften ligt de aanwijzing van het luchtvaartterrein voor een ieder ter inzage ter griffie en ter secretarie van respectievelijk de provincies en gemeenten, bedoeld in artikel 19, eerste en tweede lid.
-4. Gedeputeerde Staten van de provincies, bedoeld in artikel 19, eerste lid, dragen zorg voor de verzending van de afschriften aan degenen die bij hen schriftelijk bezwaren hebben ingediend, tenzij publicatie hiervan plaatsvindt in de plaatselijke bladen.
+1. De terinzagelegging, bedoeld in artikel 3:44, eerste lid, onder a, van de Algemene wet bestuursrecht geschiedt ter secretarie van de provincies en gemeenten, bedoeld in artikel 19, tweede en derde lid.
+2. Gedeputeerde staten van de provincies, bedoeld in artikel 19, tweede lid, dragen zorg voor de toezending, bedoeld in artikel 3:44, eerste lid, onderdeel b, of tweede lid, van de Algemene wet bestuursrecht.
