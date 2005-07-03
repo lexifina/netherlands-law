@@ -1,0 +1,2 @@
+# Artikel 3b. Overgangsrecht artikel 3a
+In afwijking van artikel 3a wordt aan de werkgever, die de onderneming overneemt als bedoeld in artikel 3a, slechts op aanvraag de premiekorting verstrekt als voortzetting van de premiekorting van de werkgever die de onderneming overdraagt, indien sprake is geweest van overgang van onderneming als bedoeld in artikel 3a in de periode van 1 januari 2002 tot en met 1 juli 2005 en de aanvraag wordt gedaan vóór 1 januari 2006.
