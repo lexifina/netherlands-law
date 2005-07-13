@@ -1,0 +1,3 @@
+# Artikel 4a
+1. In de administratie van de ziektekostenverzekeraars en het uitvoeringsorgaan ter zake van de uitvoering van deze wet wordt van de personen met wie een overeenkomst van standaardverzekering is gesloten, het sociaal-fiscaalnummer, bedoeld in artikel 2, derde lid, onderdeel j, van de Algemene wet inzake rijksbelastingen, opgenomen, tenzij aan de betrokken persoon geen sociaal-fiscaalnummer is bekendgemaakt.
+2. Bij de verstrekking van gegevens ter uitvoering van deze wet met betrekking tot personen met wie een overeenkomst van standaardverzekering is gesloten, wordt door de ziektekostenverzekeraars, het uitvoeringsorgaan en de in artikel 4b genoemde instanties gebruik gemaakt van het sociaal-fiscaalnummer.
