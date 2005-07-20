@@ -64,6 +64,7 @@
 ### Vrijstelling en ontheffing
 ### Nadere voorschriften inzake vrijstelling en ontheffing
 ### Eis tot naleving
+### Nadere voorschriften registratiemiddelen
 ## Hoofdstuk 8. Toezicht
 ### § 8.1. Toezicht
 #### Aanwijzing toezichthouders
@@ -71,6 +72,7 @@
 #### Het bevel tot staken van de arbeid
 #### Aansprakelijkheid
 ### § 8.3. Geheimhouding
+### § 8.4. Controlemiddelen toezichthouders
 ## Hoofdstuk 9. Zelfstandige bestuursorganen
 ### Dienst Wegverkeer
 ## Hoofdstuk 10. Bestuursrechtelijke handhaving
