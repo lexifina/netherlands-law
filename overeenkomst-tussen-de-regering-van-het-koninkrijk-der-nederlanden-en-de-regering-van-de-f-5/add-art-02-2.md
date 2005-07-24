@@ -1,0 +1,2 @@
+# II. Ad article 6
+La France se réserve le droit de considérer, conformément aux dispositions de sa loi interne, comme biens immobiliers, pour l'application des articles 6 et 13 de la Convention, les droits sociaux possédés par les associés ou actionnaires des sociétés qui ont, en fait, pour unique objet, soit la construction ou l'acquisition d'immeubles ou de groupes d'immeubles en vue de leur division par fractions, destinées à être attribuées à leurs membres en propriété ou en jouissance, soit la gestion de ces immeubles ou groupes d'immeubles ainsi divisés.

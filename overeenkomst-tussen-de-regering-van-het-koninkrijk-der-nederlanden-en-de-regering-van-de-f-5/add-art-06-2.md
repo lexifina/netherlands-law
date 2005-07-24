@@ -1,0 +1,8 @@
+# VI. Ad Articles 4, 8, 13 et 23
+1. Il est entendu que, nonobstant les dispositions des articles 4, 8, 13 et 23 de la Convention, les Pays-Bas ont le droit exclusif d'imposer:
+a. Les bénéfices tirés par l'actuelle société Koninklijke Luchtvaartmaatschappij N. V. de l'exploitation d'aéronefs en trafic international;
+b. les gains tirés par l'actuelle société Koninklijke Luchtvaartmaatschappij N.V. de l'aliénation desdits aéronefs exploités en trafic international ainsi que des biens mobiliers affectés à leur exploitation; et
+c. les aéronefs exploités en trafic international par l'actuelle société Koninklijke Luchtvaartmaatschappij N.V. ainsi que les biens mobiliers affectés à leur exploitation;
+sous réserve que les bénéfices, gains, aéronefs et biens mobiliers précités, dans la mesure où la législation interne des Pays-Bas permet aux Pays-Bas de les imposer, soient effectivement imposés aux Pays-Bas.
+2. Il est entendu que, nonobstant les dispositions des articles 4, 8, 13 et 23 de la Convention, dans toute situation où les activités de transport aérien de l'actuelle société Koninklijke Luchtvaartmaatschappij N.V. seraient entièrement ou pour une part substantielle poursuivies par une autre personne, les Pays-Bas auront le droit exclusif d'imposer les bénéfices, gains en capital, aéronefs et biens mobiliers afférents à ces activités de transport aérien, sous réserve que les bénéfices, gains, aéronefs et biens mobiliers précités, dans la mesure où la législation interne des Pays-Bas permet aux Pays-Bas de les imposer, soient effectivement imposés aux Pays-Bas.
+3. Les Etats Contractants se consultent, en tant que de besoin, sur les modalités d'application du paragraphe 2, par échange de lettres ou par tout autre moyen.
