@@ -1,4 +1,4 @@
-# Artikel 83c. Overgangsrecht artikel 33a
-Tot 1 januari 2012 is het Uitvoeringsinstituut werknemersverzekeringen, in afwijking van artikel 33a, eerste lid, bevoegd:
-a. de in dat lid genoemde termijn van 18 maanden buiten beschouwing te laten, en
-b. de in dat lid bedoelde beschikking te geven over tijdvakken korter of langer dan vijf jaar.
+# Artikel 83c. Boete bij niet, niet tijdige of onjuiste informatieverstrekking door personen die werkzaamheden laten verrichten
+1. Indien de persoon, bedoeld in artikel 54, eerste lid, onderdelen b en c, die gehouden is tot het verstrekken van gegevens en inlichtingen op grond van artikel 54, eerste lid, aan het Uitvoeringsinstituut werknemersverzekeringen of de Centrale organisatie werk en inkomen, en hij deze niet dan wel niet binnen de op grond van artikel 54, vierde lid, gestelde termijn verstrekt, kan het Uitvoeringsinstituut werknemersverzekeringen hem een bestuurlijke boete van ten hoogste € 1500 opleggen.
+2. Indien het aan opzet of grove schuld van de persoon, bedoeld in het eerste lid, is te wijten dat geen, dan wel onjuiste of onvolledige inlichtingen zijn verstrekt kan het Uitvoeringsinstituut werknemersverzekeringen hem een bestuurlijke boete opleggen van ten hoogste € 5000.
+3. De bevoegdheid tot het opleggen van een bestuurlijke boete vervalt vijf jaren na de dag waarop de in artikel 54, vierde lid, gestelde termijn is verstreken.
