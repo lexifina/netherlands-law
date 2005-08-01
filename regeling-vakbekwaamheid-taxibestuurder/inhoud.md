@@ -1,3 +1,0 @@
-# Inhoud
-## Theorie-examen
-## Praktijkexamen
