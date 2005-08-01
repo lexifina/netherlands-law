@@ -1,0 +1,2 @@
+# Artikel XVII
+Voor zover nodig ten behoeve van een goede en tijdige invoering worden voor het schooljaar 2002–2003, in afwijking van artikel 10g, achtste lid, en artikel 77, vierde lid, van de Wet op het voortgezet onderwijs, de in die artikelleden bedoelde voorschriften vastgesteld bij ministeriële regeling. De tweede volzin van artikel 77, vierde lid, van de Wet op het voortgezet onderwijs is in dat geval van overeenkomstige toepassing.

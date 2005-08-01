@@ -1,0 +1,2 @@
+# Artikel XIX
+Tot het tijdstip waarop artikel I van de wet van 6 december 2001 tot wijziging van enkele onderwijswetten in verband met de invoering van persoonsgebonden nummers in het onderwijs (Stb. 2001, 681) in werking treedt, kan bij ministeriële regeling met betrekking tot de in die regeling aangewezen scholen voor praktijkonderwijs worden afgeweken van het bepaalde bij of krachtens de artikelen 27b en 103b tot en met 103f van de Wet op het voorgezet onderwijs en van artikel 2, eerste lid, tweede en derde volzin, en vierde en vijfde lid, van de Leerplichtwet 1969.
