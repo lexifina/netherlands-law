@@ -14,6 +14,14 @@
 ### Paragraaf 3.6. Toekenning
 ### Paragraaf 3.7. Toekenning reisvoorziening
 ## Hoofdstuk 4. Beroepsonderwijs
+### Afdeling 4.1. Beroepsonderwijs in Nederland
+#### Paragraaf 4.1.1. Studiefinanciering in de vorm van gift of lening
+#### Paragraaf 4.1.2. Studiefinanciering in de vorm van prestatiebeurs
+### Afdeling 4.2. Beroepsonderwijs buiten Nederland
+#### Paragraaf 4.2.1. Algemeen
+#### Paragraaf 4.2.2. Opleiding niveau 1 of 2 buiten Nederland
+#### Paragraaf 4.2.3. Opleiding niveau 3 of 4 buiten Nederland
+#### Paragraaf 4.2.4. Afwijkingsmogelijkheid afdeling 4.2
 ## Hoofdstuk 5. Hoger onderwijs; prestatiebeurs
 ### Paragraaf 5.1. Algemeen
 ### Paragraaf 5.2. Omzetting bij afsluitend examen
