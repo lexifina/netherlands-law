@@ -130,6 +130,9 @@
 ##### § 1a. Overdracht van strafvervolging door de officier van justitie
 ##### § 2. Overname van strafvervolging door Onze Minister van Justitie
 ##### § 2a. Overname van strafvervolging door de officier van justitie
+### Titel XI. Wederzijdse erkenning en tenuitvoerlegging van strafvorderlijke bevelen
+#### afdeling Eerste. Erkenning en tenuitvoerlegging van buitenlandse strafvorderlijke bevelen
+#### afdeling Tweede. Erkenning en tenuitvoerlegging van Nederlandse strafvorderlijke bevelen
 ## Boek Vijfde. Tenuitvoerlegging en kosten
 ### Titel I. Tenuitvoerlegging
 #### afdeeling Eerste. Algemeene bepalingen

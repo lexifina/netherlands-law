@@ -1,0 +1,6 @@
+# Artikel 552jj
+1. Bevelen als bedoeld in het tweede lid, uitgevaardigd door een bevoegde justitiële autoriteit van een andere lidstaat van de Europese Unie, kunnen in Nederland worden erkend en ten uitvoer gelegd.
+2. Vatbaar voor erkenning en tenuitvoerlegging zijn bevelen tot inbeslagneming van voorwerpen die zich op Nederlands grondgebied bevinden en naar het recht van de uitvaardigende lidstaat:
+a. kunnen dienen om de waarheid aan de dag te brengen of wederrechtelijk verkregen voordeel aan te tonen;
+b. kunnen worden verbeurd verklaard of onttrokken aan het verkeer;
+c. kunnen dienen tot bewaring van het recht tot verhaal voor een tot ontneming van wederrechtelijk verkregen voordeel strekkende sanctie.

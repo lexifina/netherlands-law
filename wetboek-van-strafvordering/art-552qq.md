@@ -1,0 +1,4 @@
+# Artikel 552qq
+1. De officier van justitie willigt een verzoek als bedoeld in artikel 552kk, tweede lid, onderdeel a, in, voorzover de rechtbank, met inachtneming van het toepasselijke verdrag, daartoe verlof verleent. Artikel 552ll, derde lid, is van overeenkomstige toepassing.
+2. Tenzij aannemelijk is dat de rechthebbende op de in beslag genomen voorwerpen niet in Nederland verblijf houdt, wordt het krachtens het eerste lid vereiste verlof slechts verleend onder het voorbehoud dat bij de afgifte aan de autoriteiten van de uitvaardigende lidstaat wordt bedongen, dat de voorwerpen zullen worden teruggezonden zodra daarvan het voor de strafvordering nodige gebruik is gemaakt.
+3. De artikelen 552a, 552ca, 552d, eerste lid en 552e, eerste lid, zijn van overeenkomstige toepassing, met dien verstande dat het klaagschrift wordt ingediend bij de griffie van de rechtbank die bevoegd is tot het verlenen van het krachtens het eerste lid vereiste verlof.

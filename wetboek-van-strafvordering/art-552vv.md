@@ -1,0 +1,2 @@
+# Artikel 552vv
+De officier van justitie kan het bevel te allen tijde intrekken. Indien hij een bevel intrekt, stelt hij de autoriteiten van de uitvoerende lidstaat hiervan onverwijld in kennis.
