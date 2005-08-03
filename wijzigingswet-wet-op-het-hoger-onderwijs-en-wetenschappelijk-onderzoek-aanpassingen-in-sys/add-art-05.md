@@ -1,0 +1,2 @@
+# ARTIKEL V
+1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van artikel II, dat in werking treedt met ingang van 1 januari 2000, met dien verstande dat de bepalingen van de Wet op het hoger onderwijs en wetenschappelijk onderzoek zoals die door dat artikel worden gewijzigd voor de eerste maal worden toegepast met betrekking tot het studiejaar 2000–2001.
