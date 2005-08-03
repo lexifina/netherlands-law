@@ -11,7 +11,7 @@
 ## Hoofdstuk 2. Planning en bekostiging
 ### Titel 1. Planning
 ### Titel 2. Bekostiging
-### Titel 3. Richtlijn
+### Titel 3. Inrichting begroting en verslag
 ### Titel 4. Bijzondere bepalingen in verband met investeringen en leningen
 ### Titel 5. Subsidiëring academische ziekenhuizen ten behoeve van de educatieve voorziening
 ## Hoofdstuk 3. Overleg
@@ -101,6 +101,16 @@
 #### Paragraaf 1. Voorschriften betreffende de instellingen voor hoger onderwijs
 #### Paragraaf 2. Voorschriften betreffende de onderzoekinstellingen
 #### Paragraaf 3. Aanhangige beroepen
+## Hoofdstuk 17. Overgangs- en invoeringsbepalingen wijzigingswetten tot 2002
+### Titel 1. Wet van 25 januari 1996 (Stb. 172)
+### Titel 2. Wet van 28 maart 1996 (Stb. 226)
+### Titel 3. Wet van 4 juli 1996 (Stb. 434)
+### Titel 4. Wet van 10 april 1997 (Stb. 162)
+### Titel 5. Wet van 2 juli 1997 (Stb. 322)
+### Titel 6. Wet van 2 april 1998 (Stb. 216)
+### Titel 7. Wet van 10 december 1998 (Stb. 733)
+### Titel 8. Wet van 3 april 1999 (Stb. 170)
+### Titel 9. Wet van 29 juni 2000 (Stb. 286)
 ## Hoofdstuk 18. Overgangs- en invoeringsbepalingen wijzigingswetten vanaf 2002
 ### Titel 1. Wet van 6 juni 2002 (Stb. 302)
 ### Titel 2. Wet van 6 juni 2002 (Stb. 303)
