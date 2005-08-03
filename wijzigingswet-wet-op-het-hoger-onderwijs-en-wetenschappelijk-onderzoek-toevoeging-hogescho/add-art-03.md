@@ -1,2 +1,0 @@
-# Artikel III
-In afwijking van artikel 7.38 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek bedraagt de inschrijvingsduur van degene die voor 1 augustus 1993 is ingeschreven aan een vijfjarige opleiding, verbonden aan het op grond van de Experimentenwet onderwijs bekostigde instituut voor de agrarische opleiding van leraren, en deze opleiding nadien heeft voortgezet, zeven jaren en zes maanden.

@@ -1,2 +1,0 @@
-# Artikel VI
-De artikelen 17a, tweede tot en met achtste lid, en 17b van de Wet op de studiefinanciering en artikel 7.9a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek zijn met ingang van september van het studiejaar na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, van toepassing op degenen die als student zijn ingeschreven aan de hogeschool te Wageningen, uitgaande van de Stichting "STOAS".
