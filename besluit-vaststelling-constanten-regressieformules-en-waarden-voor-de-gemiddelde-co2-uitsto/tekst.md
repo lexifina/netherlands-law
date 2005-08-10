@@ -1,0 +1,24 @@
+# Tekst
+De Algemeen Directeur van de Dienst Wegverkeer,
+Gelet op artikel 8 van het Besluit etikettering energieverbruik personenauto's van 3-11-2000 (Stb. 2000, nr. 475);
+Besluit:
+De constanten voor de in bijlage 4 bij het Besluit etikettering energieverbruik personenauto's opgenomen regressieformules, en de daarbij behorende waarden van de gemiddelde CO2-uitstoot voor personenauto's met benzine als brandstof, en voor personenauto's met diesel als brandstof, voor het kalenderjaar 2006, als volgt vast te stellen:
+1. Constanten voertuiglengte:
+C1, lengte: | –3,071
+C2, lengte: | 4,236
+C3, lengte: | –0,013
+2. Constanten benzineauto's:
+C1, benzine: | 273,348
+C2, benzine: | –59,248
+C3, benzine: | 6,166
+3. Constanten dieselauto's:
+C1, diesel: | 195,299
+C2, diesel: | –41,993
+C3, diesel: | 4,629
+4. Waarden gemiddelde CO2-uitstoot:
+Gemiddelde CO2-uitstoot benzine: | 172,493
+Gemiddelde CO2 -uitstoot diesel: | 160,256
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+Zoetermeer
+8 augustus 2005
+De Algemeen Directeur van de Dienst Wegverkeer,J.G.Hakkenberg
