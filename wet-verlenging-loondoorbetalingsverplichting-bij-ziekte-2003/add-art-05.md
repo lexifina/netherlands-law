@@ -1,0 +1,3 @@
+# Artikel V. Overheidspersoneel
+A [Wijzigt de Wet terugdringing ziekteverzuim.]
+B De wijzigingen in Boek 7 van het Burgerlijk Wetboek, bedoeld in artikel II van deze wet, worden voor ambtenaren, militaire ambtenaren respectievelijk rechterlijke ambtenaren op overeenkomstige wijze aangebracht in op artikel 125 van de Ambtenarenwet, artikel 50, eerste lid, van de Politiewet 1993 en artikel 12 van de Militaire Ambtenarenwet gebaseerde voorschriften respectievelijk het bij of krachtens de Wet rechtspositie rechterlijke ambtenaren bepaalde. Over de wijzigingen ingevolge de eerste volzin behoeft geen overeenstemming te worden bereikt in het overleg met de vakorganisaties van overheidspersoneel.
