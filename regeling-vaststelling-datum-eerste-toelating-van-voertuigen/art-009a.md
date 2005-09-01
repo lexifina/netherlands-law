@@ -1,0 +1,2 @@
+# Artikel 9a
+Indien een kentekenbewijs wordt aangevraagd voor een bromfiets op grond van artikel IV, van de wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee (Stb. 281), wordt de datum van eerste toelating vastgesteld op 31 augustus 2005.
