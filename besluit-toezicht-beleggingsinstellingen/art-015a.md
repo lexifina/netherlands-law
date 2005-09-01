@@ -1,3 +1,0 @@
-# Artikel 15a
-1. De beleggingsinstelling en de bewaarder, indien aan de beleggingsinstelling verbonden, voeren een adequaat beleid ter zake van het tegengaan van verstrengeling van tegenstrijdige belangen. De beleggingsinstelling en de bewaarder, indien aan de beleggingsinstelling verbonden, dragen er zorg voor dat dit beleid zijn neerslag vindt in organisatorische en administratieve procedures en maatregelen.
-2. De toezichthoudende autoriteit stelt regels vast met betrekking tot de minimumvoorwaarden waaraan het beleid en de procedures en maatregelen, bedoeld in het eerste lid, moeten voldoen.
