@@ -1,0 +1,4 @@
+# Artikel III
+De artikelen 1 tot en met 5a, 8, 9 en 10 van het besluit van 16 september 1965, houdende vaststelling van het bewijs van verzekering voor de niet-kentekenplichtige motorrijtuigen en enkele regelen met betrekking tot het bewijs van vrijstelling (Stb. 414), zoals deze luidden voor het tijdstip van de inwerkingtreding van dit besluit, blijven van kracht:
+a. voor wat betreft een bromfiets die op dat tijdstip reeds in het verkeer is gebracht tot voor de betrokken bromfiets kentekenbewijs is afgegeven op grond van artikel IV van de wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee (Stb. 281), of
+b. tot het tijdstip waarop artikel IV van die wet vervalt.

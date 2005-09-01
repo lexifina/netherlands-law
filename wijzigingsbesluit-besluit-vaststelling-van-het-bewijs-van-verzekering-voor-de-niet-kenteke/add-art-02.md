@@ -1,0 +1,3 @@
+# Artikel II
+1. Een fabrikanten- of handelaarsbewijs W.A.M. (bromfietsen), afgegeven voor de inwerkingtreding van dit besluit, behoudt voor wat betreft gehandicaptenvoertuigen en fietsen met trapondersteuning zijn geldigheid tot vijf jaar na datum van afgifte.
+2. Een fabrikanten- of handelaarsbewijs W.A.M. (andere niet-kentekenplichtige motorrijtuigen dan bromfietsen), afgegeven voor de inwerkingtreding van dit besluit, behoudt voor wat betreft andere niet-kentekenplichtige motorrijtuigen dan gehandicaptenvoertuigen en fietsen met trapondersteuning zijn geldigheid tot vijf jaar na datum van afgifte.
