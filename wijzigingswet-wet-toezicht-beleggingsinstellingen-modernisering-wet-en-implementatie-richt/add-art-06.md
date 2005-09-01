@@ -1,0 +1,2 @@
+# Artikel VI
+De beleggingsinstelling, bedoeld in het vorige artikel, kan haar werkzaamheden ook na afloop van de in dat artikel bedoelde periode overeenkomstig de bestaande vergunning voortzetten, indien de beheerder van die beleggingsinstelling voor het einde van die periode een verzoek heeft ingediend om een vergunning als bedoeld in artikel 5 (nieuw) van de Wet toezicht beleggingsinstellingen, tot het moment dat onherroepelijk op het verzoek is beslist. De tweede volzin van het vorige artikel is van overeenkomstige toepassing.
