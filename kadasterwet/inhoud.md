@@ -2,7 +2,7 @@
 ## Hoofdstuk 1. Algemene bepalingen
 ## Hoofdstuk 2. Openbare registers voor registergoederen
 ### Titel 1. Algemene bepalingen
-#### Afdeling 1. Omschrijving en vorm van de openbare registers; aantekeningen in de openbare registers, daaronder begrepen doorhalingen van inschrijvingen; vervanging van de inhoud van de openbare registers
+#### Afdeling 1. Omschrijving en vorm van de openbare registers; aantekeningen in de openbare registers; wijze van bewaren van de openbare registers; vervaardiging en vervanging van duplicaten van de openbare registers en van duplicaten van andere bij de openbare registers te bewaren stukken
 #### Afdeling 2. Plaats van inschrijving
 #### Afdeling 3. Vereisten voor inschrijving en de wijze waarop deze geschiedt
 #### Afdeling 4. Voorlopige aantekeningen en bewijs van ontvangst
@@ -19,7 +19,7 @@
 ### Titel 1. Bijwerking van de kadastrale registratie en de kadastrale kaarten
 #### Afdeling 1. Algemene bepalingen
 #### Afdeling 2. Bijhouding
-##### § 1. Bijhouding op grond van stukken ingeschreven in de openbare registers, bedoeld in artikel 8, eerste lid, onder a, met uitzondering van akten van vernieuwing
+##### § 1. Bijhouding op grond van in de openbare registers, bedoeld in artikel 8, eerste lid, onderdeel a, ingeschreven stukken betreffende onroerende zaken en rechten waaraan die zaken zijn onderworpen, met uitzondering van notariële akten van vernieuwing
 ##### § 2. Bijhouding op grond van inlichtingen omtrent het overlijden van personen die als eigenaar of beperkt gerechtigde met betrekking tot een onroerende zaak in de kadastrale registratie staan vermeld
 ##### § 3. Bijhouding op grond van inlichtingen van personen die als eigenaar of beperkt gerechtigde met betrekking tot een onroerende zaak in de kadastrale registratie staan vermeld omtrent hun wettelijke woonplaats
 ##### § 4. Bijhouding op grond van inlichtingen of waarnemingen omtrent feiten, bedoeld in de artikelen 29 en 35 van Boek 5 van het Burgerlijk Wetboek
@@ -34,21 +34,19 @@
 ### Titel 1. Inhoud van de registratie voor schepen
 ### Titel 2. Bijwerking van de registratie voor schepen
 #### Afdeling 1. Algemene bepalingen
-#### Afdeling 2. Bijhouding op grond van stukken ingeschreven in de openbare registers, bedoeld in artikel 8, eerste lid, onder b
+#### Afdeling 2. Bijhouding op grond van in de openbare registers, bedoeld in artikel 8, eerste lid, onderdeel a, ingeschreven stukken betreffende schepen en rechten waaraan die schepen zijn onderworpen
 #### Afdeling 3. Overige bepalingen
 ## Hoofdstuk 6. Registratie voor luchtvaartuigen
 ### Titel 1. Inhoud van de registratie voor luchtvaartuigen
 ### Titel 2. Bijwerking van de registratie voor luchtvaartuigen
 #### Afdeling 1. Algemene bepalingen
-#### Afdeling 2. Bijhouding op grond van stukken ingeschreven in de openbare registers, bedoeld in artikel 8, eerste lid, onder c
+#### Afdeling 2. Bijhouding op grond van in de openbare registers, bedoeld in artikel 8, eerste lid, onderdeel a, ingeschreven stukken betreffende luchtvaartuigen en rechten waaraan die luchtvaartuigen zijn onderworpen
 #### Afdeling 3. Overige bepalingen
 ## Hoofdstuk 6a. Geografische gegevens
 ## Hoofdstuk 7. Verstrekking van inlichtingen; kadastraal recht
 ### Titel 1. Verstrekking van inlichtingen
-#### Afdeling 1. Verstrekking van inlichtingen uit de openbare registers
-#### Afdeling 2. Verstrekking van inlichtingen uit de kadastrale registratie, het kaartenbestand, de daaraan ten grondslag liggende bescheiden en het net van coördinaatpunten
-#### Afdeling 3. Verstrekking van inlichtingen uit de registratie voor schepen
-#### Afdeling 4. Verstrekking van inlichtingen uit de registratie voor luchtvaartuigen
-#### Afdeling 5. Bepalingen in verband met de bescherming van de persoonlijke levenssfeer
+#### Afdeling 1. Verstrekking van inlichtingen uit de openbare registers, de kadastrale registratie, het kaartenbestand, de daaraan ten grondslag liggende bescheiden, het net van coördinaatpunten, de registratie voor schepen, de registratie voor luchtvaartuigen omtrent geografische gegevens
+#### Afdeling 2. Bepalingen in verband met de bescherming van de persoonlijke levenssfeer
 ### Titel 2. kadastraal recht
-## Hoofdstuk 8. Overige en slotbepalingen
+## Hoofdstuk 8. Wijziging van de kadastrale aanduiding van onroerende zaken en appartementsrechten anders dan in geval van bijwerking; opnieuw vaststellen van de grootte van percelen; herstel van kennelijke misslagen begaan bij de bijwerking en van onregelmatigheden begaan bij het houden van de openbare registers
+## Hoofdstuk 9. Overige en slotbepalingen
