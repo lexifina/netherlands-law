@@ -1,10 +1,10 @@
 # Inhoud
 ## Hoofdstuk 1. Algemene bepalingen
-## Hoofdstuk 2. Tegemoetkomingen in de kosten van kinderopvang
-### Paragraaf 1. Aanspraken op een tegemoetkoming
-### Paragraaf 2. Tegemoetkoming van het Rijk
-### Paragraaf 3. Tegemoetkoning van de gemeente
-### Paragraaf 4. Tegemoetkoning van het uitvoeringsinstituut werknemersverzekeringen
+## Hoofdstuk 2. Kinderopvangtoeslag en tegemoetkomingen in de kosten van kinderopvang
+### Paragraaf 1. Aanspraken op kinderopvangtoeslag en tegemoetkomingen in de kosten van kinderopvang
+### Paragraaf 2. Kinderopvangtoeslag
+### Paragraaf 3. Tegemoetkoming van de gemeente
+### Paragraaf 4. Tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen
 ### Paragraaf 5. Voortzetting aanspraak tegemoetkomingen
 ### Paragraaf 6. Invordering
 ### Paragraaf 7. Overige bepalingen
