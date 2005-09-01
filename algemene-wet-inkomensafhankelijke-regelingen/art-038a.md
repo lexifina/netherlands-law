@@ -1,0 +1,2 @@
+# Artikel 38a. Gegevensverstrekking door de Belastingdienst/Toeslagen
+De Belastingdienst/Toeslagen kan onder bij of krachtens algemene maatregel van bestuur te bepalen voorwaarden ten behoeve van bij algemene maatregel van bestuur aan te wijzen voorzieningen die de dienstverlening voortvloeiende uit de uitvoering van deze wet verbeteren, gegevens verstrekken die voor deze dienstverlening nodig zijn.
