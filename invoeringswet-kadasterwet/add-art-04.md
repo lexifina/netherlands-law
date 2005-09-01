@@ -1,0 +1,2 @@
+# Artikel IV
+Een met toepassing van het tevoren geldende recht uitgesproken veroordeling die verplicht tot een handeling waarop de Kadasterwet na haar in werking treden van toepassing is, wordt met toepassing van die wet uitgevoerd, voor zover die uitvoering op het tijdstip van die inwerkingtreding nog niet heeft plaatsgevonden. Voor de toepassing van het bepaalde in de eerste zin wordt een veroordeling tot overschrijving met een veroordeling tot inschrijving gelijkgesteld.

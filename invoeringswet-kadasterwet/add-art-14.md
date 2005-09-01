@@ -1,0 +1,2 @@
+# Artikel XIV
+Indien op het tijdstip van het in werking treden van de Kadasterwet de in artikel XIII bedoelde bijhouding reeds was voltooid, maar het resultaat van die bijhouding op dat tijdstip nog niet onherroepelijk is, blijft, ongeacht of toen al of niet reeds een kennisgeving van het resultaat van die bijhouding was verzonden, het tevoren geldende recht van toepassing, daaronder begrepen de artikelen 15-21 van de Wet op de grondbelasting (Stb. 1870, 82).

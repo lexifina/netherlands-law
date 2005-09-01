@@ -1,0 +1,2 @@
+# Artikel XIII
+Indien vóór het tijdstip van het in werking treden van de Kadasterwet aan belanghebbenden bij een bijhouding van de kadastrale registratie en de kadastrale kaarten ten behoeve waarvan een meting noodzakelijk is, van het voornemen daartoe mededeling is gedaan, blijft, ingeval die bijhouding nog niet is voltooid op dat tijdstip, het tevoren geldende recht van toepassing ter vaststelling van wie belanghebbenden bij de bijhouding zijn.

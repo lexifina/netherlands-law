@@ -1,0 +1,3 @@
+# Artikel VII
+1. Overschrijvingen in de openbare registers voor registergoederen die op het tijdstip van het in werking treden van de Kadasterwet door de Rijksdienst worden gehouden, worden voor de toepassing van de Kadasterwet met inschrijvingen gelijkgesteld.
+2. Stukken die vóór het in het eerste lid bedoelde tijdstip op grond van het tevoren geldende recht hebben geleid tot het stellen van aantekeningen in de in het eerste lid bedoelde openbare registers maar daarin niet zijn in- dan wel overgeschreven, blijven, voor zover zij aan de kantoren van de Dienst berusten, aldaar bewaard en zijn openbaar. Artikel 9 van de Kadasterwet is van overeenkomstige toepassing op de stukken, bedoeld in de eerste zin.

@@ -1,0 +1,3 @@
+# Artikel VIII
+1. Voor zover de wet bepaalt dat in plaats van een notariële akte een onderhandse akte kan worden gebezigd die is opgesteld en mede-ondertekend door een persoon als bedoeld in de artikelen 91 of 254 van de Overgangswet nieuw Burgerlijk Wetboek, wordt voor de toepassing van hetgeen bij of krachtens de Kadasterwet is of wordt bepaald een zodanige onderhandse akte gelijkgesteld met een notariële akte.
+2. Voor zover de wet bepaalt dat met een notariële verklaring wordt gelijkgesteld een verklaring van een persoon als bedoeld in het eerste lid, wordt bij toepassing van hetgeen bij of krachtens de Kadasterwet is of wordt bepaald een zodanige verklaring gelijkgesteld met een notariële verklaring.
