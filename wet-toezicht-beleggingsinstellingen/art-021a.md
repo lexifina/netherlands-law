@@ -1,0 +1,2 @@
+# Artikel 21a
+Indien een accountant naar het oordeel van Onze Minister niet of niet meer de nodige waarborgen biedt dat deze de toevertrouwde taak met betrekking tot de beleggingsinstelling naar behoren zal vervullen, kan Onze Minister bepalen dat hij niet bevoegd is de in deze wet en daaruit voortvloeiende besluiten bedoelde verklaringen omtrent de getrouwheid met betrekking tot die beleggingsinstelling af te leggen.
