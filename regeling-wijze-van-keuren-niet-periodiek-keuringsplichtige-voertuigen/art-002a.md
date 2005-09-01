@@ -1,0 +1,2 @@
+# Artikel 2a
+In het kader van de toelating van een bromfiets tot het verkeer op de weg alsmede na invordering van het kentekenbewijs, wordt de keuring, voor wat betreft de eisen neergelegd in hoofdstuk 5 van het Voertuigreglement, verricht op de wijze zoals bepaald in bijlage IA. In deze bijlage worden in de linkerkolom de keuringseisen en in de rechterkolom de daarbij behorende wijze van keuren weergegeven.
