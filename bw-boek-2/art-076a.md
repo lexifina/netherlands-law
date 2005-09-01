@@ -2,6 +2,6 @@
 1. Onder beleggingsmaatschappij met veranderlijk kapitaal wordt verstaan een naamloze vennootschap,
 a. die uitsluitend ten doel heeft haar vermogen zodanig te beleggen dat de risico's daarvan worden gespreid, ten einde haar aandeelhouders in de opbrengst te doen delen,
 b. waarvan het bestuur krachtens de statuten bevoegd is aandelen in haar kapitaal uit te geven, te verwerven en te vervreemden,
-c. waarvan de aandelen, met uitzondering van aandelen waaraan de statuten een bijzonder recht inzake de zeggenschap in de vennootschap verbinden, worden opgenomen in de prijscourant van een beurs, en
+c. waarvoor aan een beheerder een vergunning is verleend als bedoeld in artikel 5 van de Wet toezicht beleggingsinstellingen voor plaatsing van haar aandelen, en
 d. waarvan de statuten bepalen dat de vennootschap beleggingsmaatschappij met veranderlijk kapitaal is.
-2. De vennootschap moet aan het handelsregister opgeven dat zij "beleggingsmaatschappij met veranderlijk kapitaal" is. Deze woorden moeten ook in alle geschriften, gedrukte stukken en aankondigingen, waarin de beleggingsmaatschappij met veranderlijk kapitaal partij is of die van haar uitgaan, met uitzondering van telegrammen en reclames, duidelijk bij haar naam worden vermeld.
+2. De vennootschap doet aan het handelsregister en aan de rechtspersoon waaraan ingevolge artikel 29 van de Wet toezicht beleggingsinstellingen taken en bevoegdheden zijn overgedragen opgave dat zij een beleggingsmaatschappij met veranderlijk kapitaal is. Deze woorden moeten ook in alle geschriften, gedrukte stukken en aankondigingen, waarin de beleggingsmaatschappij met veranderlijk kapitaal partij is of die van haar uitgaan, met uitzondering van telegrammen en reclames, duidelijk bij haar naam worden vermeld.
