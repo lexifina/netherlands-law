@@ -1,0 +1,4 @@
+# Artikel VII
+De artikelen 1.1, onderdeel m, 5.1.4, 5.6.1, 5.6.8, 5.6.11, vierde en vijfde lid, van het Voertuigreglement en artikel 1, onderdelen i en af, van het RVV 1990 zoals deze luidden voor het tijdstip van de inwerkingtreding van de artikelen II en III van dit besluit blijven van kracht:
+a. voor wat betreft een bromfiets die op dat tijdstip reeds in het verkeer is gebracht tot voor de betrokken bromfiets een kentekenbewijs is afgegeven op grond van artikel IV van de wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee (Stb. 281), of, indien dat later is,
+b. tot het tijdstip waarop artikel IV van die wet vervalt.
