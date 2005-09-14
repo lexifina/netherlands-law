@@ -7,5 +7,4 @@
 ## § 6. Overige bepalingen
 ## § 7. Toezicht
 ## § 7a. Bestuurlijke boete
-## § 8. Bepaling van strafrechtelijke aard
 ## § 9. Overgangs- en slotbepalingen
