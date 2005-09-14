@@ -6,7 +6,7 @@
 ### § 3. Typekeuring alsmede controle op explosieven en fabricageprocessen
 ### § 4. Explosieven met conformiteitsgebrek
 ## Hoofdstuk III. Overbrenging van explosieven
-### § 1. Vergunningen en goedkeuring
+### § 1. Vergunning en toestemming
 ### § 2. Gegevensverstrekking
 ### § 3. Erkenning
 ### § 4. Registratie van explosieven
