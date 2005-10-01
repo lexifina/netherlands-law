@@ -26,7 +26,7 @@ de Bestrijdingsmiddelenwet 1962: artikel 16g, zesde lid;
 de Boswet, de artikelen 2, derde lid, 3, eerste en tweede lid, en 13, eerste lid;
 de Flora- en faunawet, de artikelen 8, 9, 11, 12, 14, eerste, tweede en derde lid, 15, eerste en tweede lid, 17, 18, eerste lid, 26, derde en vijfde lid, 47 en 73;
 de Kernenergiewet, de artikelen 14, 22, eerste lid, 26, tweede lid, 28, 33, eerste lid, 35, tweede lid, voor zover betrekking hebbend op een onderwerp, geregeld bij een krachtens artikel 28 vastgestelde algemene maatregel van bestuur, 37, eerste lid, 39, 67, eerste en vierde lid, 68 en 76, derde lid;
-de Natuurbeschermingswet, de artikelen 12, eerste lid, 14, derde lid, 16, eerste lid, 31, eerste lid, en 33a, eerste lid;
+de Natuurbeschermingswet 1998, artikel 16, 19d, eerste lid, 19l, eerste lid en 20, derde lid, 17, vierde lid, 21, tweede lid, 22, tweede lid, 56, eerste lid, 58, eerste lid en 66;
 de Ontgrondingenwet, de artikelen 3, eerste en tweede lid, 7, derde lid, 12, eerste en tweede lid, en 16, tweede lid;
 de Wet bescherming Antarctica, de artikelen 3, eerste lid, 5, 6, eerste en tweede lid, 8, 25, eerste en tweede lid, 29 en 30;
 de Wet bodembescherming, de artikelen 20, 27, 28, 29, 30, tweede, derde en vierde lid, 31, 32, tweede lid, tweede volzin, 39, eerste en tweede lid, 43, eerste, derde en vierde lid, 44, 45, vierde lid, 49 juncto 30, tweede, derde en vierde lid, 63e, derde lid, tweede volzin, 63i, vijfde lid, tweede volzin, 63j, tweede lid, 70 en 72;
@@ -45,7 +45,6 @@ de Grondwaterwet, artikel 11;
 de Kernenergiewet, de artikelen 36, eerste lid, en - voor zover aangeduid als strafbare feiten - 73;
 de Meststoffenwet, de artikelen 3, 4, 5, 6, 6a, 7, 7a, 42a, eerste lid, 58ae, vierde en zesde lid, 58aka, derde en vierde lid, 59, derde lid, en 61;
 de Meststoffenwet 1947, de artikelen 2 en 4;
-de Natuurbeschermingswet, artikel 17;
 de Wet bescherming Antarctica, de artikelen 19, tweede lid, en 33
 de Wet geluidhinder, de artikelen 2, 3, 8, 9, 10, 170, tweede lid, en 175;
 de Wet inzake de luchtverontreiniging, de artikelen 92, onder a, in verband met de artikelen 13, 14 en 86, tweede lid, 92, onder c, en 92, onder d;
