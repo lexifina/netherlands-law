@@ -84,7 +84,7 @@
 ## B. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 ## C. Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
 ## D. Ministerie van Verkeer en Waterstaat
-## E. Ministerie van Landbouw, Natuurbeheer en Visserij
+## E. Ministerie van Landbouw, Natuur en Voedselkwaliteit
 ## F. Ministerie van Sociale Zaken en Werkgelegenheid
 ## G. Ministerie van Defensie
 ## H. Ministerie van Volksgezondheid, Welzijn en Sport
