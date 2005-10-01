@@ -15,7 +15,11 @@
 ## Hoofdstuk IX. Overdracht van toezicht
 ## Hoofdstuk X. Beroep
 ## Hoofdstuk XI. Betrekkingen met derde landen
-## Hoofdstuk XII. Gebruik van voorwetenschap en publieksmisleiding
+## Hoofdstuk XII. Marktmisbruik
+### § 1. Algemeen
+### § 2. Verbodsbepalingen
+### § 3. Openbaarmakings- en meldingsverplichtingen
+### § 4. Aanvullende toezichtsbevoegdheden
 ## Hoofdstuk XIIA. Onderzoek door onze minister
 ## Hoofdstuk XII B. Dwangsom en bestuurlijke boete
 ## Hoofdstuk XIIC. Openbaarmaking van overtredingen

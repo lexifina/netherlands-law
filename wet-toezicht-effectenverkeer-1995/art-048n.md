@@ -6,4 +6,4 @@ c. het feit dat een effecteninstelling waarop naar zijn oordeel het verbod, bedo
 d. het feit dat degene waarop een vrijstelling als bedoeld in artikel 10 van toepassing is, zich niet houdt aan de voorschriften die aan die vrijstelling zijn verbonden;
 e. het feit dat de houder van een effectenbeurs waarop naar zijn oordeel het verbod, bedoeld in artikel 22, eerste lid, van toepassing is, niet over een erkenning of ontheffing beschikt; of
 f. het feit dat de houder van een effectenbeurs waarop een vrijstelling als bedoeld in artikel 25 van toepassing is, zich niet houdt aan de voorschriften die aan die vrijstelling zijn verbonden;
-g. zijn aanwijzing als bedoeld in artikel 28, tweede lid, terzake van het niet naleven van de regels gesteld bij of krachtens de artikelen 6a, tweede of derde lid, 6b18a, eerste lid, of 18b, tweede lid.
+g. zijn aanwijzing als bedoeld in artikel 28, tweede lid, ter zake van het niet naleven van de regels gesteld bij of krachtens de artikelen 6a, tweede of derde lid, 6b, 18a, eerste lid, 18b, tweede lid of artikel 47, eerste lid, eerste volzin, en vijfde lid.
