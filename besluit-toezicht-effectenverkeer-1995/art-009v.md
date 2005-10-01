@@ -1,0 +1,2 @@
+# Artikel 9v
+De bieder en de doelvennootschap zenden alle ingevolge dit hoofdstuk door middel van een openbare mededeling door hen te publiceren stukken en mededelingen tijdig voor de openbare mededeling aan de toezichthoudende autoriteit, met dien verstande dat het biedingsbericht uiterlijk tien beursdagen voor de openbare mededeling van de verkrijgbaarstelling ervan aan de toezichthoudende autoriteit wordt gezonden.

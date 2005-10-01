@@ -1,0 +1,12 @@
+# Artikel 9c
+De mededeling, bedoeld in artikel 9b, eerste lid, vermeldt voor zover van toepassing:
+a. de omstandigheid, bedoeld in artikel 9b, tweede lid, onder a, alsmede de namen van de bieder en de doelvennootschap;
+b. het verzenden van de kennisgeving, bedoeld in artikel 9b, tweede lid, onder b, alsmede de namen van de bieder en de doelvennootschap.
+c. de naam van de bieder of doelvennootschap die bij de koersvorming of andere ontwikkelingen, bedoeld in artikel 9b, tweede lid, onder c, zijn betrokken, alsmede het feit dat besprekingen over een openbaar bod worden gevoerd respectievelijk dat het voornemen bestaat tot het uitbrengen van een openbaar bod.
+d. de vastgestelde prijs of ruilverhouding, bedoeld in artikel 9b, tweede lid, onder d, alsmede de namen van de bieder en de doelvennootschap, de op dat moment reeds vastgestelde voorwaarden waarvan de verplichting tot nakoming van het bod afhankelijk zal worden gesteld, alsmede een indicatie van de datum van verkrijgbaarstelling van het biedingsbericht;
+e. het getal of percentage van de effecten tot de verkrijging waarvan het bod strekt dan wel de prijs of ruilverhouding, bedoeld in artikel 9b, tweede lid, onder e, alsmede de namen van de bieder en de doelvennootschap, alsmede een indicatie van de datum van publicatie van het biedingsbericht;
+f. het getal of percentage van de effecten tot de verkrijging waarvan het bod strekt dan wel de prijs of ruilverhouding, bedoeld in artikel 9b, tweede lid, onder f, alsmede de namen van de bieder en de doelvennootschap en een indicatie van de datum van publicatie van het biedingsbericht;
+g. het besluit tot het niet-uitbrengen van het bod, bedoeld in artikel 9b, tweede lid, onder g;
+h. de naam van degene die de in artikel 9b, tweede lid, onder h, bedoelde effecten verwerft of eventueel zal verwerven, het nominale bedrag daarvan en de prijs of uitgiftekoers, alsmede de motieven voor de in dat lid, onder h, bedoelde handeling;
+i. een gemotiveerde standpuntbepaling door de doelvennootschap over het door de in artikel 9b, tweede lid, onder i, bedoelde derde uit te brengen of voor te bereiden bod, of een verklaring waarom geen onmiddellijke standpuntbepaling daarover wordt bekendgemaakt, vergezeld van de mededeling wanneer deze tegemoet kan worden gezien;
+j. de maatregelen van de bieder tot welke het bod, bedoeld in artikel 9b, tweede lid, onder i, hem aanleiding geeft, hetzij, indien geen onmiddellijke maatregelen worden overwogen, een indicatie omtrent het tijdstip waarop een mededeling omtrent te nemen maatregelen kan worden verwacht.

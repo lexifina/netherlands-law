@@ -1,0 +1,3 @@
+# Artikel 22b
+1. Een ieder die een effecteninstelling krachtens wet, statuten of reglementen vertegenwoordigt dan wel het dagelijks beleid van een effecteninstelling bepaalt, dient naar het oordeel van de toezichthoudende autoriteit voldoende deskundig te zijn in verband met de bedrijfsvoering van de effecteninstelling.
+2. De betrouwbaarheid van de in het eerste lid bedoelde personen, de personen die het dagelijks beleid van de effecteninstelling mede bepalen en de personen die rechtstreeks of middellijk bevoegd zijn de in het eerste lid bedoelde personen te benoemen of te ontslaan, dient naar het oordeel van de toezichthoudende autoriteit buiten twijfel te staan.

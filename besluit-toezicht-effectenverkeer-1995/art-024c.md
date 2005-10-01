@@ -1,0 +1,6 @@
+# Artikel 24c
+De in artikel 24b, tweede en derde lid, bedoelde procedures en maatregelen betreffen in ieder geval:
+a. de behandeling en administratieve vastlegging van incidenten die een ernstig gevaar vormen voor een integere bedrijfsvoering van de effecteninstelling, voorzover het betreft een gedraging van een personeelslid of van een persoon die het dagelijks beleid bepaalt dan wel mede bepaalt van de effecteninstelling, dan wel van een houder van een gekwalificeerde deelneming of van een natuurlijke persoon of rechtspersoon die werkzaamheden verricht ten behoeve van de effecteninstelling.
+b. de beoordeling, met het oog op de belangen van cliënten of toekomstige cliënten van de effecteninstelling, of de betrouwbaarheid van een personeelslid dat zij voornemens is te benoemen in een integriteitsgevoelige functie buiten twijfel staat. Onder integriteitsgevoelige functie wordt in dit verband verstaan:
+1º. een leidinggevende functie die is geplaatst direct onder het echelon van de bepalers en medebepalers van het dagelijks beleid van de effecteninstelling;
+2º. een functie waaraan overigens een bevoegdheid is verbonden die een wezenlijk risico bevat voor de integere bedrijfsvoering van de effecteninstelling.
