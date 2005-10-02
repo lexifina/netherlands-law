@@ -1,0 +1,4 @@
+# Article XVI. Supplementary agreements
+1. The contracting parties may, for the purpose of meeting special problems of plant protection which need particular attention or action, enter into supplementary agreements. Such agreements may be applicable to specific regions, to specific pests, to specific plants and plant products, to specific methods of international transportation of plants and plant products, or otherwise supplement the provisions of this Convention.
+2. Any such supplementary agreements shall come into force for each contracting party concerned after acceptance in accordance with the provisions of the supplementary agreements concerned.
+3. Supplementary agreements shall promote the intent of this Convention and shall conform to the principles and provisions of this Convention, as well as to the principles of transparency, non-discrimination and the avoidance of disguised restrictions, particularly on international trade.

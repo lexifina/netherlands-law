@@ -1,0 +1,2 @@
+# Artikel XVIII. Niet-Verdragsluitende Partijen
+De Verdragsluitende Partijen moedigen iedere staat of Lidorganisatie van de FAO die geen partij is bij dit Verdrag, aan dit Verdrag te aanvaarden, en moedigen iedere niet-verdragsluitende partij aan fytosanitaire maatregelen toe te passen die in overeenstemming zijn met de bepalingen van dit Verdrag en met alle ingevolge dit Verdrag aangenomen internationale standaarden.
