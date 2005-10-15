@@ -1,6 +1,6 @@
 # Artikel 15b
 1. Indien redelijkerwijs niet geoordeeld kan worden dat de gefailleerde wegens hem toe te rekenen omstandigheden binnen de termijn bedoeld in artikel 3, eerste lid, geen verzoekschrift tot het van toepassing verklaren van de schuldsaneringsregeling heeft ingediend of indien het faillissement is uitgesproken op eigen aangifte van de schuldenaar, kan de rechtbank, totdat de verificatievergadering is gehouden of, indien de verificatievergadering achterwege blijft, totdat de rechter-commissaris de beschikkingen als bedoeld in artikel 137a, eerste lid, heeft gegeven, op verzoek van de gefailleerde diens faillissement opheffen onder het gelijktijdig uitspreken van de toepassing van de schuldsaneringsregeling bedoeld in titel III.
-2. De gefailleerde zal zich daartoe bij een verzoekschrift als bedoeld in artikel 284 wenden tot de rechtbank waarbij de aangifte, het verzoek of de vordering tot faillietverklaring werd ingediend. Het derde lid van artikel 284 is niet van toepassing.
+2. De gefailleerde zal zich daartoe bij een verzoekschrift als bedoeld in artikel 284 wenden tot de rechtbank waarbij de aangifte of het verzoek tot faillietverklaring werd ingediend. Het derde lid van artikel 284 is niet van toepassing.
 3. Het eerste lid is niet van toepassing:
 a. indien het faillissement is uitgesproken terwijl de schuldsaneringsregeling ten aanzien van de schuldenaar van toepassing was;
 b. indien de schuldenaar in staat van faillissement verkeert door beëindiging van de toepassing van de schuldsaneringsregeling;
