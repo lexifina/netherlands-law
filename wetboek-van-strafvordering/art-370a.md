@@ -5,4 +5,4 @@ a. een oproeping om een bepaalde dag en uur op de terechtzitting voor de politie
 b. de mededeling van de rechten en bevoegdheden, op welke de verdachte ingevolge artikel 260, derde lid, opmerkzaam moet worden gemaakt;
 c. een mededeling van de mogelijkheid dat het openbaar ministerie een transactievoorstel terzake van hetzelfde feit kan doen en de rechtsgevolgen die aan weigering of aanvaarding daarvan zijn verbonden;
 d. de aankondiging dat de verkorte dagvaarding zal worden aangevuld en een mededeling over de rechtsgevolgen die zijn verbonden aan het al dan niet verschijnen op de terechtzitting.
-3. De verkorte dagvaarding wordt voor de terechtzitting aangevuld met een telastlegging die voldoet aan de eisen van artikel 261, eerste lid; deze aanvulling wordt ten minste drie dagen voor de terechtzitting aan de verdachte betekend.
+3. De verkorte dagvaarding wordt voor de terechtzitting aangevuld met een telastlegging die voldoet aan de eisen van artikel 261, eerste lid; deze aanvulling wordt ten minste drie dagen voor de terechtzitting toegezonden aan het door de verdachte opgegeven adres.
