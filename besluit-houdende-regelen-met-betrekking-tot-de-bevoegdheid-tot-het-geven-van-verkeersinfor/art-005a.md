@@ -1,2 +1,0 @@
-# Artikel 5a
-De ambtenaar van politie, aangesteld voor de uitvoering van de politietaak, die in het bezit is van een vaarbekwaamheidsbewijs politie en van een groot vaarbewijs, is bevoegd tot het geven van verkeersaanwijzingen anders dan bedoeld in artikel 4, aan de schipper van een schip dat zich bevindt op de wateren waarop het Binnenvaartpolitiereglement, het Scheepvaartreglement Eemsmonding, het Scheepvaartreglement Gemeenschappelijke Maas of het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen van toepassing is.
