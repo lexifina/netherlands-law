@@ -6,7 +6,7 @@ c. lid van de Raad van State;
 d. lid van de Algemene Rekenkamer;
 e. Nationale ombudsman;
 f. substituut-ombudsman als bedoeld in artikel 9, eerste lid, van de Wet Nationale ombudsman;
-g. lid van de provinciale staten;
+g. lid van provinciale staten van de betrokken provincie;
 h. commissaris van de Koning van de betrokken provincie;
 i. gedeputeerde van de betrokken provincie;
 j. burgemeester van een in de betrokken provincie gelegen gemeente;

@@ -6,7 +6,7 @@ c. lid van de Raad van State;
 d. lid van de Algemene Rekenkamer;
 e. Nationale ombudsman;
 f. substituut-ombudsman als bedoeld in artikel 9, eerste lid, van de Wet Nationale ombudsman;
-g. commissaris van de Koningin van de provincie waarin de gemeente waar hij lid van de rekenkamer is, is gelegen;
+g. commissaris van de Koning van de provincie waarin de gemeente waar hij lid van de rekenkamer is, is gelegen;
 h. gedeputeerde van de provincie waarin de gemeente waar hij lid van de rekenkamer is, is gelegen;
 i. secretaris van de provincie waarin de gemeente waar hij lid van de rekenkamer is, is gelegen;
 j. griffier van de provincie waarin de gemeente waar hij lid van de rekenkamer is, is gelegen;
