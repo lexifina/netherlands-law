@@ -1,0 +1,2 @@
+# Artikel VII
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat artikel I, onderdeel B, voorzover het betreft artikel 18.3e, eerste lid, en artikel 18.3f, eerste lid, onder b, niet eerder in werking treedt dan met ingang van 1 januari 2005.
