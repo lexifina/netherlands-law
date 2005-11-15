@@ -1,0 +1,3 @@
+# XVII. Ad Artikel 16
+1. Het is echter wel te verstaan dat artikel 16 ook van toepassing is op beloningen betaald aan een persoon als bedoeld in artikel 16 ter zake van andere functies verricht voor de onderneming.
+2. Het is wel te verstaan dat, in het geval van Nederland, een lid van de raad van beheer of van een soortgelijk orgaan mede omvat een „bestuurder of commissaris" van een Nederlands lichaam, hetgeen betrekking heeft op personen die als zodanig zijn benoemd door de algemene vergadering van aandeelhouders of door enig ander bevoegd orgaan van dat lichaam, en die zijn belast met de algemene leiding van het lichaam, onderscheidenlijk met het toezicht daarop.

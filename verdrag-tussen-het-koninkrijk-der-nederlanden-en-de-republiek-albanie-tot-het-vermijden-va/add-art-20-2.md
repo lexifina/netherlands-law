@@ -1,0 +1,2 @@
+# XX
+Het is wel te verstaan dat wanneer de Nederlandse Antillen en/of Aruba een belastingregime hebben ingevoerd dat in overeenstemming is met de internationaal aanvaarde belastingprincipes (de zogenoemde OESO-normen) en mits het uitvoeringsbeleid van hun wetgeving ook in overeenstemming is met eerdergenoemde principes, is Albanië bereid te overwegen om met die landen besprekingen te voeren over de mogelijkheid van het sluiten een bilateraal verdrag tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting.

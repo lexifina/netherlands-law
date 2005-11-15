@@ -1,0 +1,2 @@
+# VI. Ad Artikelen 5, 6, 7, 13 en 23A
+Het is wel te verstaan dat rechten tot exploratie en exploitatie van natuurlijke rijkdommen worden beschouwd als onroerende zaken die zijn gelegen in de Verdragsluitende Staat op wiens zeebodem en ondergrond daarvan deze rechten betrekking hebben, alsmede dat deze rechten worden geacht te behoren tot de activa van een vaste inrichting in die Staat. Voorts is het wel te verstaan dat de hiervoor genoemde rechten ook omvatten rechten op belangen bij, of voordelen uit vermogensbestanddelen die voortvloeien uit die exploratie of exploitatie.

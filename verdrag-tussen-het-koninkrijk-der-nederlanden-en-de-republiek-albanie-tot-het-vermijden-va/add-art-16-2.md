@@ -1,0 +1,4 @@
+# XVI. Ad Artikel 10, achtste lid, en Artikel 13, zesde lid
+Waar het betreft de toepassing van artikel 10, achtste lid, en artikel 13, zesde lid, omvat de uitdrukking „een lichaam dat volgens de wetgeving van een Verdragsluitende Staat inwoner is van die Staat" mede:
+a. een lichaam dat zijn plaats van werkelijke leiding in die Verdragsluitende Staat heeft; en
+b. een lichaam waarvan de plaats van werkelijke leiding is overgeplaatst vanuit die Verdragsluitende Staat, mits de plaats van werkelijke leiding van dat lichaam voorafgaande aan de verplaatsing van de plaats van zijn werkelijke leiding voor een tijdvak van ten minste vijf jaar in die Verdragsluitende Staat gevestigd was. In dat geval wordt dat lichaam slechts voor een tijdvak van tien jaar na de verplaatsing van zijn plaats van werkelijke leiding geacht inwoner van die Verdragsluitende Staat te zijn.

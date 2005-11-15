@@ -1,0 +1,2 @@
+# X. Ad Artikel 8
+Het is wel te verstaan dat voor de toepassing van artikel 8, voordelen uit de exploitatie van schepen en luchtvaartuigen in internationaal verkeer mede omvatten voordelen verkregen uit het verhuren van schepen en luchtvaartuigen op basis van verhuur zonder bemanning, mits geëxploiteerd in internationaal verkeer en mits die verhuuropbrengsten een incidentele bron van inkomsten vormen naast de voordelen als beschreven in het eerste lid van artikel 8.

@@ -1,0 +1,2 @@
+# XI. Ad Article 9
+Concerning the application of Article 9, it is understood that agreements concluded between associated enterprises, such as costsharing agreements or general services agreement, for or based on the allocation of the executive, general administrative, technical and commercial expenses and other similar expenses, is not in itself a condition as meant in paragraph 1 of Article 9 and will be treated according to the principles of Article 9 and may be adjusted for tax purposes in the same way like any other transaction between associated enterprises.

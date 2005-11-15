@@ -1,0 +1,3 @@
+# XVII. Ad Article 16
+1. It is, however, understood that Article 16 also applies to remuneration paid to a person as mentioned in Article 16 on account of other functions performed for the enterprise.
+2. It is understood that in the case of the Netherlands a member of the board of director or a similar organ includes a "bestuurder or commissaris" of a Netherlands company, meaning persons, who are nominated as such by the general meeting of shareholders or by any other competent body of such company and are charged with the general management of the company and the supervision thereof, respectively.

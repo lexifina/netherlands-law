@@ -1,0 +1,4 @@
+# XVI. Ad Article 10, paragraph 8 and Article 13, paragraph 6
+As regards the application of paragraph 8 of Article 10 and paragraph 6 of Article 13 the term "a company which under the laws of a Contracting State is a resident of that State" includes:
+a) a company that has its place of effective management in that Contracting State; and
+b) a company which place of effective management is transferred from that Contracting State, provided that the place effective management of that company, prior to the aforementioned transfer of its place of effective management, was situated for a period of at least five years in that Contracting State. In that case that company will be deemed to be a resident of that Contracting State only for a period of ten years after the transfer of its place of effective management.

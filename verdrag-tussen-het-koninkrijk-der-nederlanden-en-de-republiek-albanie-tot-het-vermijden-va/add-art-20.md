@@ -1,0 +1,2 @@
+# XX
+It is understood that if the Netherlands Antilles and/or Aruba have introduced a tax system which is in conformity with internationally accepted taxation principles (the so-called OECD-standards) and provided that the policy of execution of their laws is also in conformity with the aforementioned principles, Albania is prepared to consider discussions with those countries on the possibility of concluding a bilateral convention for the avoidance of double taxation and the prevention of fiscal evasion.

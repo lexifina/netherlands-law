@@ -1,0 +1,2 @@
+# VII. Ad Artikelen 5, 7, 10, 11, 12, 13, 15, 21, 22 en 24
+Het is wel te verstaan dat onder een vaste bedrijfsinrichting door middel waarvan de werkzaamheden van een onderneming geheel of gedeeltelijk worden uitgeoefend wordt verstaan een vaste bedrijfsinrichting door middel waarvan een onderneming van een Verdragsluitende Staat in de andere Verdragsluitende Staat, geheel of gedeeltelijk, haar bedrijf uitoefent.

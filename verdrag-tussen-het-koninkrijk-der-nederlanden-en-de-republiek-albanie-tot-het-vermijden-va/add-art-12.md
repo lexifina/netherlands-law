@@ -1,0 +1,2 @@
+# XII. Ad Article 10
+Notwithstanding the provisions of paragraph 2, the Contracting State of which the company is a resident shall not levy a tax on dividends paid by that company, if the beneficial owner of the dividends is a pension fund referred to in paragraph IV of this Protocol.
