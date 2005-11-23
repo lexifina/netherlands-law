@@ -1,4 +1,0 @@
-# Artikel 3a
-1. De commissie heeft in aansluiting op de taak, genoemd in artikel 2, de opdracht het daarin bedoelde onderzoek voort te zetten bij de 7 instellingen ten aanzien van die instellingen in de sectoren HBO en BVE waarvan geen eindconclusie is opgenomen in het eindrapport zoals bedoeld onder h van dat artikel.
-2. De commissie rapporteert over de resultaten van dit onderzoek per instelling. De rapporten betreffende de afzonderlijke instellingen behoeven niet gelijktijdig te worden uitgebracht.
-3. Indien het voortgezette onderzoek in vergelijking met de eindrapportage, bedoeld in het eerste lid, leidt tot het vaststellen van nog niet eerder vastgestelde onregelmatigheden of de commissie aanleiding geeft tot het doen van nieuwe aanbevelingen en adviezen brengt zij naast de rapportage per instelling een afsluitende algemene rapportage uit.
