@@ -48,6 +48,11 @@
 ### § 8. Registratie van gegevens met betrekking tot rijbewijzen
 ### § 9. Maatregelen rijvaardigheid en geschiktheid
 ### § 10. Bromfietscertificaat
+## Hoofdstuk VIA. Interoperabiliteit van elektronische heffingssystemen
+### § 1. Algemene bepalingen
+### § 2. Technologische eisen
+### § 3. Europese elektronische tolheffingsdienst
+### § 4. Nadere regelgeving
 ## Hoofdstuk VII. Vrijstelling en ontheffing
 ## Hoofdstuk VIII. Kosten
 ## Hoofdstuk IX. Handhaving
