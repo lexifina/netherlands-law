@@ -1,0 +1,3 @@
+# Artikel II
+1. Ten aanzien van een aan de vennootschapsbelasting onderworpen belastingplichtige die op 11 juli 2001 voldeed aan de regeling van artikel 15b van de Wet op de vennootschapsbelasting 1969, zoals dat artikel toen luidde, blijven de artikelen 10a, vierde lid, 14, derde lid, 14a, vierde lid, 15b en 18, eerste lid, van die wet alsmede de daarop berustende bepalingen, zoals deze toen luidden, van toepassing.
+2. Het eerste lid is van toepassing gedurende een periode van tien jaren gerekend vanaf de datum met ingang waarvan de belastingplichtige een reserve als bedoeld in artikel 15b van de Wet op de vennootschapsbelasting 1969, mocht vormen, met dien verstande dat deze toepassing uiterlijk eindigt met ingang van 1 januari 2011.
