@@ -1,2 +1,0 @@
-# Artikel XVIII. Herbezetting regionale ondersteuningsinstellingen schooljaar 1995-1996
-Artikel 11a van het Uitvoeringsbesluit KVE 1991, zoals gewijzigd door het onderhavige besluit, vindt voor het schooljaar 1995-1996 toepassing voor zover het betreft een voortzetting van de reeds voor het schooljaar 1994-1995 gehonoreerde verzoeken als bedoeld in artikel 11a juncto artikel 6a, tweede lid, van het Uitvoeringsbesluit KVE 1991.

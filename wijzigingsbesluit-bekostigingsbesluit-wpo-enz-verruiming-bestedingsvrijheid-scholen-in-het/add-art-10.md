@@ -1,3 +1,0 @@
-# Artikel X
-1. Artikel I, onderdeel A, artikel II, onderdeel A, artikel III, en de artikelen V tot en met VIII treden in werking op de dag na de datum van uitgifte van het Staatsblad waarin dit besluit is geplaatst en werken met uitzondering van artikel VI, onderdeel A, terug tot en met 1 augustus 2001. Artikel VI, onderdeel A, werkt terug tot en met 1 augustus 2003.
-2. Artikel I, onderdelen B en C, artikel II, onderdelen B en C, artikel IV en artikel IX, treden in werking op een bij koninklijk besluit te bepalen tijdstip, waarbij wordt bepaald dat artikel I, onderdelen B en C en artikel II, onderdelen B en C, terugwerken tot en met 1 augustus 2001.

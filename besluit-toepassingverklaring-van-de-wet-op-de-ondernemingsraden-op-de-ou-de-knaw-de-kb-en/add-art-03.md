@@ -1,3 +1,0 @@
-# ARTIKEL III
-1. Uiterlijk twee jaar na inwerkingtreding van dit besluit wordt voor de in artikel 1 genoemde instellingen een ondernemingsraad ingesteld.
-2. Zolang geen uitvoering is gegeven aan het eerste lid, blijven de artikelen 11.19, 11.20, 11.21 en 11.22, onderscheidenlijk artikel 12.14 en artikel 13.7 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, en artikel 14, tweede lid, van de Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek, alsmede de artikelen 70, 71 en 72 van het Rechtspositiereglement Academische Ziekenhuizen, van toepassing, zoals die luidden vóór de inwerkingtreding van dit besluit.

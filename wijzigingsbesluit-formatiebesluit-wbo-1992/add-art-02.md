@@ -1,3 +1,0 @@
-# Artikel II
-1. Leerlingen voor wie bij een school op grond van onderdeel a van het overzicht van artikel 7, eerste lid, van het Formatiebesluit WBO 1992, zoals dat luidde op de dag voorafgaande aan de datum van inwerkingtreding van dit besluit, het gewicht 1,25 was vastgesteld, behouden dat gewicht zolang zij op die school verblijven, doch uiterlijk tot 1 augustus 1997.
-2. Met ingang van 1 augustus 1997 behouden de in het eerste lid bedoelde leerlingen het gewicht 1,25 slechts indien zij voldoen aan onderdeel a van het overzicht van artikel 7, eerste lid, van het Formatiebesluit WBO 1992, zoals dat geldt vanaf de inwerkingtreding van dit besluit.

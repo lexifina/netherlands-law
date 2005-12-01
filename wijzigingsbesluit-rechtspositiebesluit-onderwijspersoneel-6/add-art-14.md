@@ -1,2 +1,0 @@
-# Artikel XIV
-De artikelen van de in dit besluit gewijzigde regelingen en besluiten voortvloeiende uit de maatregelen gericht op de terugdringing van het beroep op de arbeidsongeschiktheidsregelingen, zoals deze luidden op 31 juli 1993 blijven van toepassing op de ambtenaar of betrokkene in de zin van die regelingen en besluiten voor zover die ambtenaar of betrokkene verkeert in een overeenkomstige situatie, als de situaties als omschreven in hoofdstuk III van de Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen.

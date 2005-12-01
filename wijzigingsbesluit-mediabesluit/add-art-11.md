@@ -1,2 +1,0 @@
-# Artikel XI
-Onze Minister van Onderwijs, Cultuur en Wetenschappen bepaalt, met inachtneming van de artikelen 51b en 51d van de Mediawet, welk gedeelte van de zendtijd van de Nederlandse Omroepprogramma Stichting met ingang van het tijdstip van inwerkingtreding van de wet van 28 april 1994 (Stb. 385) geacht wordt te zijn toegewezen aan de Nederlandse Omroep Stichting, onderscheidenlijk aan de Nederlandse Programma Stichting.

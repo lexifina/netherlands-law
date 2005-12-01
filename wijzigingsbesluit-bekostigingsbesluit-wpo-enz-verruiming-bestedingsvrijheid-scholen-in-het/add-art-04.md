@@ -1,2 +1,0 @@
-# Artikel IV
-Voor de periode van 1 augustus 2001 tot 1 augustus 2003 bestaat er voor het personeel, bedoeld in artikel 240 van de Wet op het voortgezet onderwijs, zoals dat artikel luidde op 31 juli 2003, geen aanspraak op vergoeding voor de uitgaven voor nascholing als bedoeld in artikel 38, tweede lid, onderdeel d, zoals dat artikel luidde op 31 juli 2003, en deel II, Hoofdstuk V, van het Bekostigingsbesluit W.V.O. zoals luidend op 31 juli 2003.

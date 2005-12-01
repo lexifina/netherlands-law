@@ -1,3 +1,0 @@
-# Artikel VI
-1. Besluiten tot toewijzing van zendtijd voor landelijke omroep en aanwijzing van dagen, uren en zendernetten op grond van de Mediawet zoals deze luidde voor de inwerkingtreding van de wet van 28 april 1994 (Stb. 385), blijven van kracht tot en met 31 augustus 1995. De artikelen 39, 39a en 39b van de Mediawet vinden tot dat tijdstip geen toepassing.
-2. Tot en met 31 augustus 1995 kan het Commissariaat voor de Media met toepassing van artikel 32 van de Mediawet, zoals deze bepaling luidde voor de inwerkingtreding van de wet van 28 april 1994 (Stb. 385), zendtijd toewijzen, alsmede besluiten tot een afwijking van de vastgestelde hoeveelheden, uren en verhoudingen tussen de zendtijd van de verschillende categorieën instellingen.

@@ -1,2 +1,0 @@
-# ARTIKEL I. WIJZIGING BEKOSTIGINGSBESLUIT WBO/OWBO
-[Wijzigt het Bekostigingsbesluit WBO/OWBO.]

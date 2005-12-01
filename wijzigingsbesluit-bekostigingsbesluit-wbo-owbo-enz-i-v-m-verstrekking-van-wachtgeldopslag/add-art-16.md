@@ -1,2 +1,0 @@
-# Artikel XVI. Berekening verhoging aantal formatierekeneenheden schooljaar 1995-1996
-Artikel XV is voor het schooljaar 1995-1996 van overeenkomstige toepassing, met dien verstande dat voor dat schooljaar de in artikel XV bedoelde omvang waarin gebruik is gemaakt van de arbeidsduurverkorting of taakverlichtingsregeling senioren, wordt gesteld op 60% van de omvang waarin voor het schooljaar 1994-1995 gebruik is gemaakt van de genoemde arbeidsduurverkorting of taakverlichtingsregeling senioren.
