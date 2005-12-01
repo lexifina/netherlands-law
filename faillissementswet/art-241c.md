@@ -1,3 +1,3 @@
 # Artikel 241c
-1. Tijdens de afkoelingsperiode kan de Ontvanger die een beslag heeft gelegd als bedoeld in artikel 22, derde lid, Invorderingswet 1990, niet tot uitwinning overgaan, tenzij de rechtbank of de rechter-commissaris zo die is benoemd, anders beslist.
+1. Tijdens de afkoelingsperiode kan de ontvanger die een beslag heeft gelegd als bedoeld in artikel 22, derde lid, Invorderingswet 1990, niet tot uitwinning overgaan, tenzij de rechtbank of de rechter-commissaris zo die is benoemd, anders beslist.
 2. Een beslag als bedoeld in artikel 22, derde lid, van de Invorderingswet 1990 dat tijdens de afkoelingsperiode wordt gelegd op een zaak die zich op de bodem van de schuldenaar bevindt en die niet aan hem toebehoort, kan niet worden tegengeworpen aan de eigenaar van de zaak of, als daarop een pandrecht van een ander rust, aan die ander, indien deze voordat het beslag was gelegd bij deurwaardersexploot aanspraak heeft gemaakt op afgifte van de zaak.

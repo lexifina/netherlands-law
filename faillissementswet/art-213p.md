@@ -7,6 +7,6 @@ c. het recht om een goed van een ieder die het zonder recht houdt op te eisen, v
 d. het goederenrechtelijke recht om van een goed de vruchten te trekken.
 3. Voor de toepassing van het eerste lid wordt met een goederenrechtelijk recht gelijk gesteld het in een openbaar register ingeschreven recht tot verkrijging van een goederenrechtelijk recht als bedoeld in het eerste lid, dat aan derden kan worden tegengeworpen.
 4. Voor de toepassing van dit artikel is de lidstaat waar een goed zich bevindt:
-a. met betrekking tot registergoederen en rechten op registergoederen:de lidstaat onder het gezag waarvan het desbetreffende register wordt gehouden;
-b. met betrekking tot zaken, voor zover niet vallend onder onderdeel a: de lidstaat op het grondgebied waarvan de zaak zich bevindt;
+a. met betrekking tot registergoederen en rechten op registergoederen: de lidstaat onder het gezag waarvan het desbetreffende register wordt gehouden;
+b. met betrekking tot zaken, voorzover niet vallend onder onderdeel a: de lidstaat op het grondgebied waarvan de zaak zich bevindt;
 c. met betrekking tot schuldvorderingen, de lidstaat op het grondgebied waarvan de derde-schuldenaar zijn statutaire zetel heeft.

@@ -5,6 +5,6 @@
 a. indien het faillissement is uitgesproken terwijl de schuldsaneringsregeling ten aanzien van de schuldenaar van toepassing was;
 b. indien de schuldenaar in staat van faillissement verkeert door beëindiging van de toepassing van de schuldsaneringsregeling;
 c. indien het faillissement is uitgesproken op grond van artikel 340, vierde lid.
-4. Alvorens te beslissen kan de rechtbank de gefailleerde, de rechtercommissaris en de curator oproepen om te worden gehoord. Artikel 6, tweede lid, is van toepassing.
+4. Alvorens te beslissen kan de rechtbank de gefailleerde, de rechter-commissaris en de curator oproepen om te worden gehoord. Artikel 6, tweede lid, is van toepassing.
 5. Bij toewijzing van het verzoek, spreekt de rechtbank de definitieve toepassing van de schuldsaneringsregeling uit.
 6. Van de opheffing van het faillissement wordt door de griffier kennis gegeven in de aankondiging die is voorgeschreven in artikel 293. Indien in het faillissement overeenkomstig artikel 108 reeds het tijdstip voor de verificatievergadering was bepaald, zal in die aankondiging tevens mededeling worden gedaan dat die verificatievergadering niet zal worden gehouden.
