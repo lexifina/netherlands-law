@@ -38,7 +38,7 @@ de Wet verontreiniging oppervlaktewateren, de artikelen 2b, eerste, tweede en de
 de Wet verontreiniging zeewater, de artikelen 6 en 6a;
 de Wet voorkoming verontreiniging door schepen, de artikelen 6, tweede lid, artikel 10, eerste lid, onder b en d, 10, derde lid, jo. artikel 10, eerste lid, onder b en d, 11, eerste en derde lid, 12a, eerste, tweede, derde en vierde lid, 12d, eerste lid, 16, 17, en 31;
 3°. overtredingen van voorschriften, gesteld bij of krachtens:
-de Bestrijdingsmiddelenwet 1962, de artikelen 2, vijfde, zesde en zevende lid, 5a, derde lid,, 10, tweede lid, 11, 12 en 13a tot en met 15;
+de Bestrijdingsmiddelenwet 1962, de artikelen 2, vijfde, zesde en zevende lid, 5a, derde lid,, 10, tweede lid, 11, 11a, 12 en 13a tot en met 15;
 de Destructiewet, de artikelen 3, eerste, tweede en derde lid, 4a, 6, 9, 10, eerste en vijfde lid, 11, 12, 13, eerste, tweede, derde, vierde en vijfde lid, 15, 17, eerste lid, en 25, vierde lid;
 de Flora- en faunawet, de artikelen 10, 16, 37, eerste en tweede lid, 38, eerste lid, 50, eerste, tweede en derde lid, 51, 52, 53, 54, eerste lid, 58, 59, tweede lid, 60, vijfde lid, 62, eerste lid, 63, eerste lid, 64, tweede lid, 67, zesde lid, 72, vijfde lid, 74, eerste lid, 74a, eerste lid, 79, tweede lid, 81, eerste lid, en 111, eerste lid.
 de Grondwaterwet, artikel 11;
