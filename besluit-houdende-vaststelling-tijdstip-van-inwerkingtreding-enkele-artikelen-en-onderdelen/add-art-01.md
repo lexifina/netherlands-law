@@ -1,4 +1,0 @@
-# Artikel I
-1. Artikel I, onderdelen E, artikelen 5a.9 en 5a.11, F, H, voor wat betreft artikel 6.4, I tot en met M, P, R en T, tweede, derde en vijfde lid, van de wet van 6 juni 2002 tot wijziging van onder meer de Wet op het hoger onderwijs en wetenschappelijk onderzoek in verband met de invoering van accreditatie in het hoger onderwijs (Stb. 302) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
-2. Artikel I, onderdelen H, wat betreft artikel 6.3, en O, van de wet, genoemd in het eerste lid, treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst en werkt terug tot en met 12 september 2002.
-3. Artikel I, onderdeel O, van de wet, genoemd in het eerste lid, is eerst van toepassing op opleidingen die starten met ingang van het studiejaar 2004–2005.
