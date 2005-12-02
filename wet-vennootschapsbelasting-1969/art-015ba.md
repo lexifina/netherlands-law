@@ -2,7 +2,7 @@
 1. Lichamen zonder aandeelhouders of deelgerechtigden waarbij een algemeen maatschappelijk of sociaal belang op de voorgrond staat, kunnen een herbestedingsreserve vormen tot vermindering van de in aanmerking te nemen kosten bedoeld in het tweede lid, indien en zolang het voornemen bestaat tot het maken van die kosten.
 2. De kosten waarvoor een herbestedingsreserve kan worden gevormd zijn de in het jaar of in de volgende drie jaren te verrichten:
 a. uitgaven ter zake van de aanschaf, voortbrenging of verbetering van bedrijfsmiddelen, of
-b. uitgaven ter zake van projecten voorzover het lichaam daardoor naar verwachting een verlies zal leiden.
+b. uitgaven ter zake van projecten voorzover het lichaam daardoor naar verwachting een verlies zal lijden.
 3. Het eerste lid is slechts van toepassing voorzover ondernemingsactiviteiten worden verricht die in de lijn liggen van het belang dat bij het lichaam op de voorgrond staat of bestaan uit het inzamelen om niet en vervolgens verkopen van gebruikte goederen met het oog op dat belang. Daarbij wordt onder gebruikte goederen verstaan: alle roerende lichamelijke zaken die, in de staat waarin zij verkeren of na herstelling daarvan, opnieuw kunnen worden gebruikt of verbruikt, met uitzondering van vervoermiddelen, kunstvoorwerpen, voorwerpen voor verzamelingen, antiquiteiten, edele metalen en edelstenen.
 4. Bij ministeriële regeling kunnen ter voorkoming van ernstige concurrentieverstoring, lichamen, groepen lichamen of activiteiten worden uitgezonderd van de toepassing van het eerste lid.
 5. Het ten laste van de winst van een jaar aan de reserve toe te voegen bedrag beloopt ten hoogste de in het jaar behaalde winst vóór die toevoeging.
