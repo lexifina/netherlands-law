@@ -1,0 +1,4 @@
+# Artikel 15d. Berekening gezamenlijke zorgformatie basisscholen
+1. De gezamenlijke zorgformatie voor de basisscholen in een samenwerkingsverband, bedoeld in artikel 132 van de wet, wordt berekend door de som van het aantal leerlingen van de afzonderlijke basisscholen op de teldatum te vermenigvuldigen met 0,463.
+2. In een samenwerkingsverband dat de in artikel 18, zevende lid, van de wet bedoelde instemming heeft verkregen, wordt de in het eerste lid bedoelde formatie voor 2% van het aantal leerlingen van elke basisschool op 1 oktober van het voorafgaande schooljaar, rekenkundig afgerond op een geheel getal, verhoogd met 12,6 formatierekeneenheden per leerling.
+3. Het totale aantal formatierekeneenheden dat is berekend op grond van het eerste en het tweede lid, wordt per school rekenkundig afgerond op een geheel getal.
