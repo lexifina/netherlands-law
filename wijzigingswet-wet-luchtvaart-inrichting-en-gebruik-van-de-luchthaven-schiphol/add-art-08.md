@@ -1,0 +1,5 @@
+# Artikel VIII. (Overgangsbepaling milieueffectrapport)
+1. Bij de voorbereiding van het eerste luchthavenindelingbesluit en het eerste luchthavenverkeerbesluit wordt een milieueffectrapport gemaakt. De paragrafen 7.5 tot en met 7.7 van de Wet milieubeheer zijn op dit rapport van overeenkomstige toepassing.
+2. Het rapport wordt gemaakt door Onze Minister van Verkeer en Waterstaat.
+3. Het rapport is gericht op een vergelijking van het beschermingsniveau, zoals dat wordt geboden bij de inwerkingtreding van de in het eerste lid bedoelde besluiten, met het beschermingsniveau zoals dat voor de inwerkingtreding van artikel VI ten aanzien van het vijfbanenstelsel is beschreven in de PKB Schiphol en Omgeving.
+4. Het rapport bevat in ieder geval de informatie, bedoeld in artikel 5, derde lid, van de Richtlijn 85/337/EEG van de Raad van de Europese Gemeenschappen van 27 juni 1985 betreffende de milieu-effectbeoordeling van bepaalde openbare en particuliere projecten (PbEG L 175), zoals deze is gewijzigd bij richtlijn 97/11/EG van de Raad van de Europese Unie van 3 maart 1997 (PbEG L 397).
