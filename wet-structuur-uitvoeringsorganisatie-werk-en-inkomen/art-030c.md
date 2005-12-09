@@ -1,0 +1,4 @@
+# Artikel 30c. Beslissingsautoriteit Wet werk en inkomen naar arbeidsvermogen
+1. Het Uitvoeringsinstituut werknemersverzekeringen benoemt één of meer personen die onder zijn verantwoordelijkheid werkzaam zijn als beslissingsautoriteit.
+2. Voorzover nodig in afwijking van artikel 3, vijfde lid, laat het Uitvoeringsinstituut werknemersverzekeringen primaire beschikkingen die mede betrekking hebben op de artikelen 47, 48 en 50 van de Wet werk en inkomen naar arbeidsvermogen bij uitsluiting nemen door een beslissingsautoriteit als bedoeld in het eerste lid.
+3. Het Uitvoeringsinstituut werknemersverzekeringen regelt in overeenstemming met Onze Minister de plaats of plaatsen van werkzaamheden van de beslissingsautoriteit, de werkwijze van de beslissingsautoriteit en de benodigde kwalificaties voor een benoeming tot beslissingsautoriteit.
