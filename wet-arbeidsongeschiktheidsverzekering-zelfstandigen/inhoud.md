@@ -16,7 +16,7 @@
 ## Hoofdstuk 5. Het verstrekken van inlichtingen
 ## Hoofdstuk 6. Financiering
 ## Hoofdstuk 7. Uitvoering
-## HOOFDSTUK 9. BEPALINGEN IN VERBAND MET DE ALGEMENE WET BESTUURSRECHT EN HET BEROEP IN CASSATIE
+## Hoofdstuk 9. Bepalingen in verband met de Algemene wet bestuursrecht en het beroep in cassatie
 ## Hoofdstuk 10. Strafbepalingen
 ## Hoofdstuk 10A. Overgangsbepalingen
 ## Hoofdstuk 11. Slotbepalingen
