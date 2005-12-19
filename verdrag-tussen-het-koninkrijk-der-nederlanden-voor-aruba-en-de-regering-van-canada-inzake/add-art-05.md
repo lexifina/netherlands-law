@@ -1,0 +1,3 @@
+# Article V. Authorization
+1. Following receipt of a notice of designation or of substitution pursuant to Article IV of this Agreement, the aeronautical authorities of the other Contracting Party shall, consistent with the laws and regulations of that Contracting Party, issue without delay to the airline or airlines so designated the required authorizations to operate the agreed services for which that airline has been designated.
+2. Upon receipt of such authorizations, the designated airline may begin at any time to operate the agreed services, in whole or in part, provided that the airline complies with the provisions of this Agreement.

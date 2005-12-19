@@ -1,0 +1,6 @@
+# Article XVII. Airline Representatives
+1. The designated airline or airlines of one Contracting Party shall be allowed, on the basis of reciprocity, to bring into and to maintain in the territory of the other Contracting Party their representatives and commercial, operational and technical staff as required in connection with the operation of the agreed services.
+2. These staff requirements may, at the option of the designated airline or airlines of one Contracting Party, be satisfied by its own personnel or by using the services of any other organization, company or airline operating in the territory of the other Contracting Party and authorized to perform such services for other airlines.
+3. The representatives and staff shall be subject to the laws and regulations in force of the other Contracting Party, and consistent with such laws and regulations:
+a) each Contracting Party shall, on the basis of reciprocity and with the minimum of delay, grant the necessary employment authorizations, visitor visas or other similar documents to the representatives and staff referred to in paragraph 1 of this Article; and
+b) both Contracting Parties shall facilitate and expedite the requirement of employment authorizations for personnel performing certain temporary duties not exceeding ninety (90) days.

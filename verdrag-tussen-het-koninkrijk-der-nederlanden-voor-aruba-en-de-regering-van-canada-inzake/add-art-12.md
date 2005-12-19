@@ -1,0 +1,3 @@
+# Article XII. Statistics
+1. The aeronautical authorities of each Contracting Party shall provide, or shall cause their designated airlines to provide, the aeronautical authorities of the other Contracting Party, upon request, periodic or other statements of statistics as may be reasonably required for the purpose of reviewing the operation of the agreed services, including statistics showing the initial origins and final destinations of the traffic.
+2. The aeronautical authorities of both Contracting Parties shall maintain close contact with respect to the implementation of paragraph 1 of this Article including procedures for the provision of statistical information.
