@@ -1,0 +1,7 @@
+# Artikel 2a. Verkort reïntegratieverslag Ziektewet
+1. Indien geen probleemanalyse en geen plan van aanpak zijn opgesteld omdat naar de verwachting van de bedrijfsarts of de arbodienst geen sprake zou zijn van dreigend langdurig ziekteverzuim als bedoeld in artikel 2, tweede lid, van de regeling, of omdat de tijdsperiode tussen de eerste dag van de ongeschiktheid tot werken en de laatste dag voordat de dienstbetrekking eindigt korter is dan tien weken, kan in afwijking van artikel 2 worden volstaan met een beknopt verslag, aan te duiden als: verkort reïntegratieverslag Ziektewet.
+2. Voor het indienen van een verkort reïntegratieverslag Ziektewet stelt het UWV een afzonderlijk formulier beschikbaar.
+3. Indien geen gebruik wordt gemaakt van het in het tweede lid bedoelde formulier, worden in elk geval als afzonderlijke en herkenbare elementen van het verkort reïntegratieverslag Ziektewet weergegeven:
+a. de actuele stand van zaken, met vermelding van de administratieve gegevens van de werknemer, werkgever en bedrijfsarts of arbodienst, gegevens omtrent de aard van het bedrijf van de werkgever en omtrent de functie en de bekwaamheden van de werknemer, de eerste dag van diens ongeschiktheid tot het verrichten van arbeid wegens ziekte, een en ander als bedoeld in artikel 6, onder a tot en met e, van de regeling;
+b. de medische informatie van de bedrijfsarts of de arbodienst, voor zover van toepassing met een onderbouwing van de gestelde afwezigheid van dreigend langdurig ziekteverzuim;
+c. het oordeel van de werknemer.
