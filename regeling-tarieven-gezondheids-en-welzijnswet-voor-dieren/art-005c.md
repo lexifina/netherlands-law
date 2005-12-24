@@ -1,7 +1,0 @@
-# Artikel 5c
-1. Voor het onderzoek, bedoeld in artikel 79 van de Gezondheids- en welzijnswet voor dieren, dat op verzoek van de aanbieder door de VWA binnen openingstijd wordt verricht, is de aanbieder een vergoeding verschuldigd.
-2. De in het eerste lid bedoelde vergoeding bedraagt € 20,48 per onderzoek.
-3. Voor zover voor het onderzoek inzet van een keuringsdierenarts of assistent nodig is, wordt de in het tweede lid bedoelde vergoeding verhoogd met een starttarief van € 34,97 en een bedrag van € 26,74 per kwartier dat aan het onderzoek door een dierenarts is besteed, en € 21,54 per kwartier dat aan de werkzaamheden door een assistent is besteed.
-4. Indien naar aanleiding van het verzoek van de aanbieder, bedoeld in het eerste lid, certificaten of geleide biljetten worden afgegeven, is de aanbieder boven de vergoeding, bedoeld in het tweede lid, een vergoeding verschuldigd van € 18,89 per certificaat of geleidebiljet.
-5. In afwijking van het vierde lid is de aanbieder voor afgifte van certificaten en of geleidebiljetten, die worden afgegeven op grond van een schriftelijke afspraak tussen de Chief Veterinary Officer en de bevoegde autoriteit van een derde land, boven de vergoeding, bedoeld in het tweede lid, een vergoeding verschuldigd van € 2,15 per certificaat of geleidebiljet.
-6. Indien in het kader van het in het eerste lid bedoelde onderzoek laboratoriumonderzoek noodzakelijk is, is boven de ingevolge het tweede lid verschuldigde vergoeding, een extra vergoeding ter hoogte van de kosten van het laboratoriumonderzoek verschuldigd.
