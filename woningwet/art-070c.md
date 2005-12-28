@@ -12,4 +12,4 @@ h. de verslaglegging;
 i. de inrichting van de administratie en
 j. overleg met en verplichtingen ten opzichte van huurders.
 3. Bij de in het tweede lid bedoelde algemene maatregel van bestuur kan worden bepaald dat het eerste lid, alsmede voorschriften als bedoeld in het tweede lid, van toepassing zijn op gemeenten.
-4. Bij of krachtens de in het tweede lid bedoelde algemene maatregel van bestuur kunnen de in dat lid genoemde voorschriften voorts worden gegeven voor standplaatsen en woonwagens, verzorgingshuizen als bedoeld in artikel 1, eerste lid, onderdeel b, van de Overgangswet verzorgingshuizen, onroerende aanhorigheden van woningen, standplaatsen, woonwagens en zodanige verzorgingshuizen, alsmede de woonomgeving.
+4. Bij of krachtens de in het tweede lid bedoelde algemene maatregel van bestuur kunnen de in dat lid genoemde voorschriften voorts worden gegeven voor standplaatsen en woonwagens, instellingen waarin aan ten minste vijf personen van 65 jaar of ouder duurzaam verblijf en verzorging wordt verschaft, onroerende aanhorigheden van woningen, standplaatsen, woonwagens en zodanige verzorgingshuizen, alsmede de woonomgeving.
