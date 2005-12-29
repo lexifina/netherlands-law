@@ -1,3 +1,3 @@
 # Artikel 36b
 1. De intrekking of verlaging van een arbeidsongeschiktheidsuitkering, die voortvloeit uit het door de werkgever ingesteld bezwaar of beroep, vindt niet eerder plaats dan zes weken na de dag waarop de beslissing op bezwaar is bekendgemaakt of de uitspraak is gedaan. De eerste zin is van overeenkomstige toepassing in geval van intrekking van het bezwaar of beroep omdat het Uitvoeringsinstituut werknemersverzekeringen geheel of gedeeltelijk is tegemoet gekomen aan het bezwaar of beroep van de werkgever.
-2. Het eerste lid geldt niet, indien de uitkering door eigen schuld of toedoen van de werknemer ten onrechte of tot een te hoog bedrag is vastgesteld.
+2. Het eerste lid geldt niet, indien de uitkering door eigen schuld of toedoen van de verzekerde ten onrechte of tot een te hoog bedrag is vastgesteld.

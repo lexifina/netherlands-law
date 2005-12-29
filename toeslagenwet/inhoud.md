@@ -10,4 +10,4 @@
 ## Hoofdstuk IV. Het Uitvoeringsinstituut werknemersverzekeringen
 ## Hoofdstuk V. Bepalingen in verband met de Algemene wet bestuursrecht en het beroep in cassatie
 ## Hoofdstuk VI. Strafbepalingen
-## Hoofdstuk VII. Slotbepalingen
+## Hoofdstuk VII. Overgangs- en slotbepalingen

@@ -1,4 +1,9 @@
 # Artikel 65a
-1. De arbeidsongeschiktheidsuitkering en de vakantie-uitkering op grond van deze wet zijn onvervreemdbaar en niet vatbaar voor verpanding of belening.
+1. Onvervreemdbaar en niet vatbaar voor verpanding en belening zijn:
+a. de arbeidsongeschiktheidsuitkering;
+b. de vakantie-uitkering;
+c. de loonsuppletie, bedoeld in artikel 65c;
+d. de inkomenssuppletie, bedoeld in artikel 65d;
+e. de voorzieningen, bedoeld in artikel 65e.
 2. Volmacht tot ontvangst van een uitkering onder welke vorm of benaming ook verleend, is steeds herroepelijk.
 3. Elk beding, strijdig met dit artikel, is nietig.

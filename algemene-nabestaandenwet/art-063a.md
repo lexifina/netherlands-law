@@ -7,14 +7,15 @@ b. de gewezen verzekerde die is uitgezonden om werkzaamheden te verrichten voor 
 c. de gewezen verzekerde die werkzaam is bij een door Onze Minister, Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties aan te wijzen volkenrechtelijke organisatie;
 d. de gewezen verzekerde die werkzaamheden verricht die worden bekostigd door het Rijk en die tevens in opdracht van het Rijk worden verricht in het kader van een wettelijke taakomschrijving of ter uitvoering van een internationaal verdrag dan wel een daarmee gelijk te stellen overeenkomst of een besluit van een volkenrechtelijke organisatie;
 e. de gewezen verzekerde, die op de dag waarop de verplichte verzekering is geëindigd de leeftijd van 50 jaar heeft bereikt, niet in Nederland woont en recht heeft op een:
-1°. uitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering;
-2°. uitkering op grond van de Wet arbeidsongeschiktheidsverzekering zelfstandigen;
-3°. uitkering op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;
-4°. uitkering op grond van de Wet arbeidsongeschiktheidsvoorziening militairen;
-5°. pensioen op basis van arbeidsongeschiktheid op grond van de Wet privatisering Spoorwegpensioenfonds;
-6°. pensioen op basis van arbeidsongeschiktheid op grond van de Algemene militaire pensioenwet, zoals die luidde voor 1 januari 1998;
-7°. ouderdomspensioen op grond van de Algemene Ouderdomswet; of
-8°. nabestaandenuitkering op grond van deze wet,
+1°. uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen;
+2°. uitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering;
+3°. uitkering op grond van de Wet arbeidsongeschiktheidsverzekering zelfstandigen;
+4°. uitkering op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;
+5°. uitkering op grond van de Wet arbeidsongeschiktheidsvoorziening militairen;
+6°. pensioen op basis van arbeidsongeschiktheid op grond van de Wet privatisering Spoorwegpensioenfonds;
+7°. pensioen op basis van arbeidsongeschiktheid op grond van de Algemene militaire pensioenwet, zoals die luidde voor 1 januari 1998;
+8°. ouderdomspensioen op grond van de Algemene Ouderdomswet; of
+9°. nabestaandenuitkering op grond van deze wet,
 mits die uitkering of dat pensioen ten minste gelijk is aan 35% van het in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag bedoelde bedrag; of
 f. de gewezen verzekerde wiens recht op een uitkering als bedoeld in onderdeel e uitsluitend als gevolg van het bereiken van de leeftijd van 65 jaar is geëindigd.
 4. De periode van maximaal tien jaar, bedoeld in het eerste lid, is niet van toepassing op de echtgenoot van de in het derde lid genoemde gewezen verzekerde en de inwonende minderjarige kinderen met wie die gewezen verzekerde of die echtgenoot in familierechtelijke betrekking staat.

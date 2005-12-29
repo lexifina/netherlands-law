@@ -1,0 +1,11 @@
+# Artikel 59h. Proefplaatsing
+1. Het Uitvoeringsinstituut werknemersverzekeringen kan, in het kader van de bevordering van de inschakeling in de arbeid, toestemming verlenen aan de jonggehandicapte, die recht heeft op een arbeidsongeschiktheidsuitkering om op een proefplaats bij een werkgever gedurende maximaal drie maanden onbeloonde werkzaamheden te verrichten.
+2. Tijdens het verrichten van werkzaamheden op een proefplaats als bedoeld in het eerste lid wordt de arbeidsongeschiktheidsuitkering niet ingetrokken of herzien.
+3. De onbeloonde werkzaamheden op een proefplaats als bedoeld in het eerste lid zijn:
+a. werkzaamheden, waartoe de jonggehandicapte, bedoeld in het eerste lid, met zijn krachten en bekwaamheden in staat is;
+b. werkzaamheden, waarbij de werkgever, bij wie de proefplaatsing geschiedt, een aansprakelijkheids- en ongevallenverzekering ten behoeve van de jonggehandicapte, bedoeld in het eerste lid, heeft afgesloten;
+c. werkzaamheden, die de jonggehandicapte, bedoeld in het eerste lid, niet reeds eerder onbeloond op een proefplaats bij die werkgever of diens rechtsvoorganger heeft verricht; en
+d. werkzaamheden, waarbij er, naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen, een reëel uitzicht is op een op de onbeloonde werkzaamheden aansluitende dienstbetrekking van dezelfde of grotere omvang voor ten minste 6 maanden.
+4. De jonggehandicapte, bedoeld in het eerste lid, die werkzaamheden verricht als bedoeld in het eerste lid, doet daarvan onverwijld mededeling aan het Uitvoeringsinstituut werknemersverzekeringen.
+5. Indien de werkzaamheden, bedoeld in het eerste lid, wegens ziekte worden onderbroken, wordt de periode waarin een uitkering bij ziekte wordt ontvangen, voor de toepassing van dat lid buiten beschouwing gelaten.
+6. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de uitvoering van dit artikel.

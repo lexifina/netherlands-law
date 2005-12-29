@@ -20,5 +20,5 @@
 ### Paragraaf 4. Uitvoeringskosten
 ### Paragraaf 5. Voorzieningen
 ## Hoofdstuk VI. Rechtsbescherming
-## Hoofdstuk VII. Strafbepalingen
+## Hoofdstuk VII. Strafbepalingen en overgangsbepalingen
 ## Hoofdstuk IX. Slotbepalingen

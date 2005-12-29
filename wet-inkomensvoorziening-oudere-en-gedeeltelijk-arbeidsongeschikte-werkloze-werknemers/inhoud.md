@@ -19,5 +19,5 @@
 ### Paragraaf 3. Vaststelling
 ### Paragraaf 4. Voorzieningen
 ## Hoofdstuk VI. Rechtsbescherming
-## Hoofdstuk VII. Strafbepalingen
+## Hoofdstuk VII. Strafbepalingen en overgangsbepalingen
 ## Hoofdstuk VIII. Slotbepalingen

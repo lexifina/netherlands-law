@@ -1,0 +1,5 @@
+# Artikel 65d
+1. Het Uitvoeringsinstituut werknemersverzekeringen kan aan de verzekerde die recht heeft op een arbeidsongeschiktheidsuitkering, die arbeid als zelfstandige verricht of gaat verrichten, op aanvraag inkomenssuppletie toekennen, indien zijn inkomen uit het bedrijf of beroep lager is dan zijn resterende verdiencapaciteit.
+2. De inkomenssuppletie wordt verstrekt over perioden waarin het bedrijf of beroep wordt uitgeoefend, doch ten hoogste over een periode van vier jaar te rekenen vanaf de dag met ingang waarvan voor de eerste maal inkomenssuppletie is toegekend.
+3. De inkomenssuppletie wordt voor de toepassing van de wettelijke bepalingen inzake premieheffing aangemerkt als een uitkering op grond van de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
+4. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de hoogte van de inkomenssuppletie.

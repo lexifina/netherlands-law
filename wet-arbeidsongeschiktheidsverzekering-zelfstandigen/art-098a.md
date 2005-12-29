@@ -1,0 +1,2 @@
+# Artikel 98a. Titel 4.2 Algemene wet bestuursrecht
+Titel 4.2 van de Algemene wet bestuursrecht is niet van toepassing op aanspraken op grond van artikel 67c.
