@@ -1,0 +1,3 @@
+# Artikel 2a. Politieke ambtsdragers
+1. Niet verzekerd zijn ministers, staatssecretarissen, leden van de Tweede Kamer der Staten-Generaal, de voorzitter van de Eerste Kamer der Staten-Generaal, leden van het Europese Parlement, de Nationale ombudsman en de substituut-ombudsmannen.
+2. Niet verzekerd zijn voorts politieke ambtsdragers die als gevolg van wijzigingen in de Algemene pensioenwet politieke ambtsdragers die tot stand komen na het tijdstip van inwerkingtreding van het besluit waarmee dit artikel is ingevoerd, hun verzekering tegen langdurige arbeidsongeschiktheid rechtstreeks aan die wet ontlenen.
