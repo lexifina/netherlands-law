@@ -1,0 +1,4 @@
+# Artikel 93a
+1. De voordracht tot het vaststellen van een algemene maatregel van bestuur als bedoeld in de artikelen 3a, 8, 15, eerste en zesde lid, 17, eerste lid, en 18 wordt gedaan door Onze Minister in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid.
+2. Indien een algemene maatregel van bestuur, bedoeld in artikel 8, geen zodanige invloed heeft op de geldelijke omvang van de verstrekkingen dat zulks verhoging of verlaging van de in artikel 15 bedoelde premie tot gevolg heeft, zal, in afwijking van het eerste lid, een voordracht tot het vaststellen daarvan worden gedaan door Onze Minister.
+3. De bevoegdheden van Onze Minister, als bedoeld in de artikelen 4, twaalfde lid, onder c, en veertiende lid, worden door hem uitgeoefend in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid.

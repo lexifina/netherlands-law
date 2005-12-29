@@ -1,0 +1,4 @@
+# Artikel 1x11
+1. Een uitvoeringsorgaan verstrekt op verzoek van het College zorgverzekeringen dan wel het College toezicht, overeenkomstig de daarbij door het desbetreffende college gestelde eisen en binnen de daarbij gestelde termijn, kosteloos alle gegevens en inlichtingen die het desbetreffende college nodig acht voor de uitoefening van zijn taak.
+2. Een uitvoeringsorgaan verleent op verzoek van het College zorgverzekeringen dan wel het College toezicht aan door het desbetreffende college aangewezen personen toegang tot en inzage in alle gegevens die het desbetreffende college nodig acht voor de uitoefening van zijn taak. De aangewezen persoon is bevoegd van de gegevens kopieën te maken.
+3. Het eerste en tweede lid zijn tevens van toepassing op een rechtspersoon waaraan een uitvoeringsorgaan een deel van zijn werkzaamheden heeft opgedragen of overgedragen, voor zover het die werkzaamheden betreft.

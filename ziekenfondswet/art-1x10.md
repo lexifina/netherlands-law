@@ -1,0 +1,2 @@
+# Artikel 1x10
+Het College toezicht kan, optredende voor een uitvoeringsorgaan een schadevergoeding vorderen van een bestuurder of gewezen bestuurder voor schade, veroorzaakt door diens nalatigheid of wanbeheer. De voorgaande volzin is ten aanzien van ziekenfondsen eveneens van toepassing ten aanzien van degenen, bedoeld in artikel 1x9, zevende lid, eerste volzin, voor schade als in dat lid bedoeld.

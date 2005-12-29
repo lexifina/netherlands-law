@@ -1,0 +1,5 @@
+# Artikel 1u
+1. Er is een College van toezicht op de zorgverzekeringen, dat rechtspersoonlijkheid bezit. Het College toezicht is gevestigd in een door Onze Minister te bepalen plaats.
+2. Het College toezicht is belast met het toezicht op de rechtmatige en doelmatige uitvoering van deze wet en de Algemene Wet Bijzondere Ziektekosten door de uitvoeringsorganen. Het College toezicht kan bij algemene maatregel van bestuur tevens worden belast met het toezicht op andere organen voor zover deze taken vervullen die rechtstreeks verband houden met de uitvoering van de ziekenfondsverzekering of de algemene verzekering bijzondere ziektekosten.
+3. In een krachtens deze wet, de Algemene Wet Bijzondere Ziektekosten, de Wet financiering volksverzekeringen of een andere wet vast te stellen algemene maatregel van bestuur of ministeriële regeling kan het nemen van een voor de toepassing van die wetten te nemen besluit, voor zover dat voor de goede uitoefening van taken door het College toezicht wenselijk is, worden opgedragen aan het College toezicht.
+4. Het College toezicht wordt in en buiten rechte vertegenwoordigd door de voorzitter.

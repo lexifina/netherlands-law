@@ -1,0 +1,2 @@
+# Artikel 1z
+Het College zorgverzekeringen en het College toezicht verstrekken desgevraagd aan het College tarieven gezondheidszorg, bedoeld in de Wet tarieven gezondheidszorg, en aan het College bouw ziekenhuisvoorzieningen en het College sanering ziekenhuisvoorzieningen, bedoeld in de Wet ziekenhuisvoorzieningen, de voor de uitoefening van hun taak benodigde inlichtingen. De bedoelde colleges kunnen inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.

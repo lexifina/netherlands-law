@@ -1,0 +1,3 @@
+# Artikel 1x12
+1. Het College toezicht, onderscheidenlijk het College zorgverzekeringen kan na overleg met het College zorgverzekeringen, onderscheidenlijk het College toezicht regels stellen welke gegevens en inlichtingen regelmatig door de uitvoeringsorganen moeten worden verstrekt. De regels kunnen mede omvatten het tijdstip en de wijze waarop de gegevens en inlichtingen moeten worden verstrekt, alsmede dat een accountant als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek de juistheid van de verstrekte gegevens en inlichtingen bevestigt.
+2. Bij ministeriële regeling kan worden bepaald welke statistische gegevens de uitvoeringsorganen verzamelen betreffende verstrekking van zorg, vergoeding van kosten van zorg dan wel vormen van zorg.
