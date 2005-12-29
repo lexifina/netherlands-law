@@ -12,7 +12,8 @@ c. ingeval de werknemer bij het begin van het kalenderjaar de leeftijd van 62 ja
 a. loon genoten wegens tijdelijke arbeidsongeschiktheid;
 b. uitkeringen op grond van de Wet arbeid en zorg en aanvullingen daarop door degene tot wie de belastingplichtige in dienstbetrekking staat.
 5. Loon genoten wegens tijdelijke arbeidsongeschiktheid zijn niet uitkeringen op grond van:
-a. de Wet op de arbeidsongeschiktheidsverzekering;
-b. de Wet arbeidsongeschiktheidsverzekering zelfstandigen;
-c. de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;
-d. buitenlandse arbeidsongeschiktheidsverzekeringen die naar aard en strekking overeenkomen met de regelingen die zijn vermeld in de onderdelen a, b en c.
+a. de Wet werk en inkomen naar arbeidsvermogen;
+b. de Wet op de arbeidsongeschiktheidsverzekering;
+c. de Wet arbeidsongeschiktheidsverzekering zelfstandigen;
+d. de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;
+e. buitenlandse arbeidsongeschiktheidsverzekeringen die naar aard en strekking overeenkomen met de regelingen die zijn vermeld in de onderdelen a, b, c en d.

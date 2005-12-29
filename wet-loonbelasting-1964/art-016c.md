@@ -6,5 +6,6 @@
 5. Voor de toepassing van dit artikel wordt onder partner verstaan hetgeen daaronder in artikel 3 van de Algemene wet inkomensafhankelijke regelingen wordt verstaan.
 6. Voor de toepassing van dit artikel wordt met een vergoeding ter zake van kosten van kinderopvang van een inhoudingsplichtige gelijkgesteld:
 a. een tegemoetkoming van een gemeente op grond van artikel 24 van de Wet kinderopvang;
-b. een tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 30 van de Wet kinderopvang.
+b. een tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 30 van de Wet kinderopvang;
+c. een bijdrage in de kosten van kinderopvang van de eigenrisicodrager, bedoeld in artikel 82 van de Wet werk en inkomen naar arbeidsvermogen.
 7. Bij ministeriële regeling worden nadere regels gesteld voor de toepassing van dit artikel.
