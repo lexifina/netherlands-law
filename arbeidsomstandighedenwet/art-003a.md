@@ -1,0 +1,5 @@
+# Artikel 3a. Aanpassing arbeidsplaats werknemer met structurele functionele beperking
+1. In aanvulling op artikel 3, eerste lid, aanhef en onder c, past de werkgever uit hoofde van de uitoefening van zijn taak, bedoeld in artikel 7:658a van het Burgerlijk Wetboek en artikel 76e van de Ziektewet,
+a. de inrichting van de arbeidsplaats, de werkmethoden en de bij de arbeid gebruikte arbeidsmiddelen, alsmede de arbeidsinhoud aan zijn werknemer, die in verband met ongeschiktheid ten gevolge van ziekte verhinderd is de bedongen arbeid te verrichten aan, en
+b. de inrichting van het bedrijf aan die werknemer aan, voorzover de behoefte daaraan wordt opgeroepen door de deelneming van die werknemer aan de werkzaamheden of het daarmee samenhangende verblijf in het bedrijf.
+2. Voor de toepassing van dit artikel wordt onder werkgever mede verstaan de eigenrisicodrager, bedoeld in artikel 1, eerste lid, onderdeel h, van de Ziektewet en wordt onder werknemer mede verstaan de persoon, bedoeld in artikel 63, eerste lid, van die wet aan wie de eigenrisicodrager ziekengeld moet betalen.
