@@ -1,9 +1,9 @@
 # Artikel 52i
 1. De kortdurende uitkering bedraagt per dag 70% van het minimumloon.
-2. Artikel 51, tweede tot en met vierde lid, is van toepassing.
-3. In afwijking van het eerste lid bedraagt de uitkering per dag 70% van het dagloon indien het dagloon lager is dan het minimumloon. De artikelen 45 en 46 en de daarop berustende bepalingen zijn van overeenkomstige toepassing.
-4. Artikel 52, derde lid, is van overeenkomstige toepassing.
-5. Indien
+2. Voor de werknemer die bij het ontstaan van zijn recht op uitkering zijn arbeidsuren, bedoeld in artikel 16, uit de dienstbetrekking waaruit hij werkloos werd niet volledig heeft verloren of wiens verlies van arbeidsuren tijdens de duur van de uitkering wijziging ondergaat, bedraagt de uitkering 70% van het minimumloon, vermenigvuldigd met het aantal uren werkloosheid per kalenderweek, gedeeld door het aantal arbeidsuren voorafgaande aan het intreden van het verlies van arbeidsuren waarnaar zijn recht is berekend. Het aantal arbeidsuren voorafgaande aan het verlies van arbeidsuren wordt bepaald met toepassing van artikel 16.
+3. Voor de werknemer die op de eerste dag van herleving van het recht op werkloosheidsuitkering, een arbeidsongeschiktheidsuitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering naar een arbeidsongeschiktheid van minder dan 80% ontvangt of zou ontvangen indien artikel 25, 28, 30 of 33 van die wet niet op hem van toepassing zou zijn bedraagt de uitkering per dag 70% van een percentage van het minimumloon. Het percentage is gelijk aan het verschil tussen 100 en het midden van de arbeidsongeschiktheidsklasse waarin de werknemer is ingedeeld.
+4. Indien het dagloon lager is dan het minimumloon wordt bij de toepassing van het eerste en tweede lid voor «minimumloon» gelezen «dagloon». De artikelen 45, 46 en 47, derde lid, en de daarop berustende bepalingen zijn van overeenkomstige toepassing.
+5. Op de herziening van de uitkering als gevolg van een wijziging van het minimumloon zijn de artikelen 3:41 en 3:45 van de Algemene wet bestuursrecht niet van toepassing.
+6. De kortdurende uitkering per dag bedraagt het op grond van de vorige leden berekende bedrag, verminderd met de hoogte van de uitkering op grond van hoofdstuk IIa, indien:
 a. het recht op kortdurende uitkering is ontstaan na toepassing van artikel 52b, derde lid; of
-b. tegelijkertijd een recht op kortdurende uitkering herleeft en een recht op uitkering ingevolge hoofdstuk IIa ontstaat,
-bedraagt de kortdurende uitkering per dag het op grond van de vorige leden berekende bedrag, verminderd met de hoogte van de uitkering ingevolge hoofdstuk IIa.
+b. tegelijkertijd een recht op kortdurende uitkering herleeft en een recht op uitkering op grond van hoofdstuk IIa ontstaat.
