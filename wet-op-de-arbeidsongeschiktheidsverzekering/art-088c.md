@@ -1,6 +1,5 @@
 # Artikel 88c
-1. Inzage in, dan wel kennisname of toezending van enig stuk, dat medische gegevens bevat, is voorbehouden aan een gemachtigde van de werkgever, die arts is.
-2. De gemachtigde, die arts is, treedt in de plaats van de werkgever bij:
-a. de voorbereiding van een medisch besluit;
-b. het opstellen van een bezwaar- of beroepschrift; en
-c. de behandeling van een bezwaar of beroep; voor zover betrekking hebbend op medische gegevens.
+1. Het Uitvoeringsinstituut werknemersverzekeringen vermeldt de motivering van een medische beschikking, voorzover betrekking hebbend op medische gegevens, in een aparte bijlage.
+2. Indien de werknemer geen toestemming heeft gegeven als bedoeld in artikel 88a wordt de bijlage, bedoeld in het eerste lid, niet aan de werkgever verstrekt.
+3. De bijlage wordt verstrekt aan de gemachtigde van de werkgever, bedoeld in artikel 88b.
+4. Het tweede en derde lid zijn van overeenkomstige toepassing op een rapport of een advies van een arts of een psycholoog, waarnaar bij de motivering van een medische beschikking wordt verwezen.

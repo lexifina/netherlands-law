@@ -1,2 +1,3 @@
 # Artikel 88f
-In afwijking van artikel 6:5 van de Algemene wet bestuursrecht worden de gronden van het bezwaar en beroep, die betrekking hebben op medische gegevens, op een aparte bijlage vermeld.
+1. Indien artikel 8:32, tweede lid, van de Algemene wet bestuursrecht is toegepast, vindt in afwijking van artikel 8:62, eerste lid, van die wet het onderzoek ter zitting, voorzover betrekking hebbend op medische gegevens, met gesloten deuren plaats, tenzij de rechtbank ambtshalve of op verzoek van een van de partijen bepaalt dat het onderzoek openbaar is.
+2. In de uitnodiging, bedoeld in artikel 8:56 van de Algemene wet bestuursrecht, wordt mededeling gedaan van het eerste lid.

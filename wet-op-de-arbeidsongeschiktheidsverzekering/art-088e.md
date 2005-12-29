@@ -1,2 +1,2 @@
 # Artikel 88e
-Bij de bekendmaking van een medisch besluit wordt gewezen op de artikelen 88a tot en met 88d en 88f.
+De gronden van het bezwaar of beroep, bedoeld in artikel 6:5, eerste lid, onderdeel d, van de Algemene wet bestuursrecht, worden in een aparte bijlage vermeld voorzover ze betrekking hebben op medische gegevens.
