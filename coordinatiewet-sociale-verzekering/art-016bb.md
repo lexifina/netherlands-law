@@ -1,0 +1,4 @@
+# Artikel 16bb
+1. Indien de premieschuld betrekking heeft op een werk als bedoeld in artikel 16ba, eerste lid, is degene die buiten dienstbetrekking in de normale uitoefening van zijn bedrijf vervaardigde kleding koopt, hoofdelijk aansprakelijk voor de premie en de voorschotpremie welke verschuldigd is ter zake van dat werk, tenzij aannemelijk is dat hij op het tijdstip van de koop niet wist of behoorde te weten dat ter zake van dat werk te weinig of geen premie of voorschotpremie zou worden betaald. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit lid.
+2. Degene die op grond van het eerste lid hoofdelijk aansprakelijk is, kan slechts worden aangesproken, indien de werkgever met de betaling van de premie of de voorschotpremie in gebreke is.
+3. De artikelen 14 tot en met 16 zijn van overeenkomstige toepassing.
