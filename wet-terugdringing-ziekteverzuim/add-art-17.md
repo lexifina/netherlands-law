@@ -1,0 +1,4 @@
+# Artikel XVII
+1. Artikel 57 van de Ziektewet blijft voor door de bedrijfsvereniging op grond van dat artikel getroffen en door de Minister van Sociale Zaken en Werkgelegenheid goedgekeurde besluiten van kracht tot 1 juli 1994.
+2. De op grond van artikel 54 van de Ziektewet getroffen regelingen en overeenkomsten inzake hogere, langere of andere uitkeringen blijven van kracht tot 1 juli 1994.
+3. In de gevallen waarin het eerste lid toepassing vindt blijven de artikelen 1, 7a en 57 van de Wet op de arbeidsongeschiktheidsverzekering, de artikelen 1 en 48 van de Algemene Arbeidsongeschiktheidswet, artikel 3a, tweede lid van de Coördinatiewet Sociale Verzekering en artikel 3 van de Wet arbeidsongeschiktheidsvoorziening militairen, zoals deze luidden vóór het tijdstip van inwerkingtreding van deze wet, van kracht.
