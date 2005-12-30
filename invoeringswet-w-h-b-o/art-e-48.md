@@ -1,2 +1,0 @@
-# Artikel E.48. Tijdelijke handhaving Besluit medezeggenschap onderwijs
-Tot het tijdstip waarop toepassing wordt gegeven aan artikel 70, tweede lid, van de W.H.B.O., is van overeenkomstige toepassing het op de dag voor de datum van inwerkingtreding van de Wet medezeggenschap onderwijs 1992 (Stb. 1992, 663) bepaalde bij of krachtens artikel 17, tweede lid, van de Wet medezeggenschap onderwijs (Stb. 1981, 778).
