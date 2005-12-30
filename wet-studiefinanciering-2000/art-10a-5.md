@@ -1,3 +1,0 @@
-# Artikel 10a.5. Herkansing voor omzetting eerste 12 maanden prestatiebeurs (voorheen artikel 5.14)
-1. Indien een student als bedoeld in artikel 5.12, eerste lid, niet de daar vereiste 30, onderscheidenlijk 20 studiepunten heeft behaald, maar wel binnen de diplomatermijn met goed gevolg het afsluitend examen heeft behaald, wordt de omgezette prestatiebeurs over de in artikel 5.12, eerste lid, bedoelde maanden alsnog omgezet in een gift. Artikel 5.7, derde lid, is van toepassing.
-2. De omzetting vindt op aanvraag van de student plaats, gelijktijdig met de omzetting, bedoeld in artikel 5.9, tweede lid. De in dat lid bedoelde bekendmaking door de IB-Groep heeft betrekking op beide omzettingen tezamen.
