@@ -22,6 +22,7 @@
 ### Afdeling 5. Verstrekking van geldelijke steun uit 's Rijks kas
 ## Hoofdstuk VI. Het toezicht op de volkshuisvesting
 ### Afdeling 1. Het toezicht van rijks- en provinciewege
+### Afdeling 1a. Sluiting van gebouwen, open erven en terreinen door burgemeester en wethouders
 ### Afdeling 2. Gemeentelijk bouw- en woningtoezicht
 ## Hoofdstuk VII. Voorzieningen in geval van buitengewone omstandigheden
 ## Hoofdstuk VIII. Dwang- en strafbepalingen
