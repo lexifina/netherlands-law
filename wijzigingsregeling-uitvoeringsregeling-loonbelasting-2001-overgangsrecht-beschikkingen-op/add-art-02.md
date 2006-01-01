@@ -1,0 +1,2 @@
+# Artikel II
+Beschikkingen die het UWV voor de datum van inwerkingtreding van artikel 28 van de Wet financiering sociale verzekeringen heeft genomen op grond van artikel 85 van de Werkloosheidswet, behoren tot de beschikkingen, bedoeld in artikel 44, tweede lid, van de Invoeringswet Wet financiering sociale verzekeringen, en gelden met ingang van de datum van inwerkingtreding van artikel 28 van de Wet financiering sociale verzekeringen als beschikkingen op grond van dat artikel.
