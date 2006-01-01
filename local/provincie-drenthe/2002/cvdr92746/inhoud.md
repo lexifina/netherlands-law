@@ -2,14 +2,14 @@
 ## Inhoud
 ## 1, INLEIDING
 Met ingang van 1 januari 2002 is de Subsidieverordening onderhoud landschapselementen (SOL) Drenthe in werking getreden. Deze verordening vervangt de Regeling onderhoudsovereenkomsten landschapselementen (ROL) Drenthe. Op bestaande overeenkomsten die op basis van de oude regeling zijn afgesloten geldt het overgangsrecht.
-De nieuwe verordening is afgestemd op de Algemene wet bestuursrecht (Awb) en de Algemene subsidieverordening Drenthe (ASV), maar is tevens aangepast aan de bij het Programma Beheer behorende (rijks-)Subsidieregeling agrarisch natuurbeheer (SAN).
+De nieuwe verordening is afgestemd op de Algemene wet bestuursrecht (Awb) en de Algemene subsidieverordening Drenthe (ASV), maar is tevens aangepast aan de bij het Programma Beheer behorende (rijks)Subsidieregeling agrarisch natuurbeheer (SAN).
 Voor welke landschaps- en beheerspakketten subsidie kan worden aangevraagd en in welke gebieden de verordening van toepassing is, is vastgelegd in dit document Beleidsregels, SOL Drenthe. Bovendien treft u in dit document de voorwaarden en verplichtingen aan, waarvan u zich bij het indienen van een aanvraag op de hoogte dient te stellen.
 Voor de verlening en vaststelling van subsidie kan een aanvraag worden ingediend bij Landschapsbeheer Drenthe. Hierbij dient u gebruik te maken van de aanvraagformulieren (bijlage 1) die verkrijgbaar zijn bij Landschapsbeheer Drenthe.
 Subsidie op grond van de verordening kan worden verleend met dien verstande dat jaarlijks in de provinciale begroting het subsidieplafond voor de verordening wordt vastgesteld.
 Adres: Landschapsbeheer Drenthe
 Rodeweg 25
 9404 RM Assen
-Telefoonnummer (0592) 31 66 16
+Telefoonnummer (0592) 316616
 Contactpersoon: de heer S. Hoeksma (S.Hoeksma@Landschapsbeheer.com)
 ### 2, SUBSIDIE VOOR LANDSCHAPSONDERHOUD
 Voor het aanvragen van subsidie op grond van de Subsidieverordening onderhoud landschapselementen (SOL) Drenthe gelden een aantal algemene voorwaarden en verplichtingen.
@@ -20,7 +20,7 @@ c. toestemming te verlenen aan Landschapbeheer Drenthe om alle inlichtingen in t
 d. de met de controle belaste medewerkers van Landschapbeheer Drenthe toegang tot het terrein te verschaffen, waarvoor in het kader van de SOL subsidie wordt verkregen en de door hen gevraagde medewerking te verlenen ter controle op de naleving van de voorwaarden en verplichtingen zoals vastgesteld in de SOL Drenthe;
 e. alle nadere gewenste inlichtingen met betrekking tot de benodigde gegevens terstond en naar waarheid aan de met de uitvoering en de controle belaste medewerker van Landschapsbeheer Drenthe te verstrekken;
 f. bij overname van de grond door de verkrijger te bedingen dat deze de verplichtingen op de grond uit hoofde van onderhavige verordening op zich neemt;
-g. gewijzigde omstandigheden binnen 2 weken na wijziging van deze omstandigheden te melden aan Landschapsbeheer Drenthe.
+g. gewijzigde omstandigheden binnen 2 weken na wijziging van deze omstandig-heden te melden aan Landschapsbeheer Drenthe.
 Betreffende de landschaps- en beheerspakketten gelden nadere doelstellingen en criteria. Bij het indienen van een aanvraag verklaart de aanvrager:
 a. dat het terrein voldoet aan de vereisten van het gevraagde beheers- en landschapspakket;
 b. de bestaande waterhuishouding van het terrein te handhaven;
