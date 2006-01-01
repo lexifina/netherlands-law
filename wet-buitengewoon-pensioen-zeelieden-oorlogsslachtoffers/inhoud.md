@@ -14,6 +14,7 @@
 ## hoofdstuk Vijfde. Van ingang en einde van het buitengewoon pensioen
 ## hoofdstuk Zesde. Van de welvaartsvastheid der buitengewone pensioenen
 ## Hoofdstuk 6A. De garantietoeslag
+## Hoofdstuk 6B. De toeslag inkomensafhankelijke premie
 ## hoofdstuk Zevende. Bijzondere bepalingen aan alle buitengewone pensioenen en garantietoeslagen gemeen
 ## hoofdstuk Achtste. Van het indienen van een bezwaarschrift en beroep
 ## Hoofdstuk 8A. Van herziening van gegeven beschikkingen
