@@ -1,2 +1,0 @@
-# Ia
-De periode waarvoor de academische ziekenhuizen, genoemd in de bijlage bij deze beschikking, zijn erkend als ziekenhuis (academisch ziekenhuis) als bedoeld in artikel 1 van het Besluit ziekenhuisverpleging ziekenfondsverzekering (Stcrt. 1969, 50) en als bedoeld in artikel 1 van het Besluit ziekenhuisverpleging Bijzondere Ziektekostenverzekering (Stcrt. 1968, 103), wordt verlengd voor onbepaalde tijd.
