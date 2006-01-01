@@ -1,4 +1,0 @@
-# Artikel 75c
-1. De eigen risicodrager is over het loon van de tot hem in dienstbetrekking staande werknemers, de gedifferentieerde premie, bedoeld in artikel 78, eerste lid, en over de door hem te betalen arbeidsongeschiktheidsuitkeringen, de vervangende premie, bedoeld in artikel 78, zesde lid, niet verschuldigd.
-2. De startende werkgever, bedoeld in artikel 75, zesde lid, is in afwachting van de door het Uitvoeringsinstituut werknemersverzekeringen te verlenen toestemming, bedoeld in artikel 75, eerste lid, over het loon van de tot hem in dienstbetrekking staande werknemers, de gedifferentieerde premie, bedoeld in artikel 78, eerste lid, niet verschuldigd.
-3. De eigen risicodrager die ter dekking van het risico, bedoeld in artikel 75a, eerste lid, een verzekering heeft afgesloten, mag de door hem ter zake van die verzekering verschuldigde premie niet verhalen op de werknemer. Elk beding waarbij van de eerste zin wordt afgeweken is nietig.

@@ -1,0 +1,4 @@
+# Artikel 33b. Sociaal-fiscaalnummer
+1. Het Uitvoeringsinstituut werknemersverzekeringen gebruikt het sociaal-fiscaalnummer bij de verwerking van persoonsgegevens voor de uitvoering van de in artikel 30, eerste lid, onderdeel a, genoemde verzekeringen en wetten en bij de verwerking van persoonsgegevens in de polisadministratie, bedoeld in artikel 33.
+2. Het Uitvoeringsinstituut werknemersverzekeringen verifieert het sociaal-fiscaalnummer in relatie tot de bijbehorende persoonsidentificerende gegevens, van de natuurlijke persoon, bedoeld in artikel 33, tweede lid, onderdeel a, bij de eerste opname in de polisadministratie en vervolgens indien daartoe aanleiding is, bij de rijksbelastingdienst.
+3. Bij ministeriële regeling kunnen, in overeenstemming met Onze Minister van Financiën, nadere regels worden gesteld ter uitvoering van dit artikel.

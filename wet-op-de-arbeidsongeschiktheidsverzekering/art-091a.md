@@ -1,4 +1,0 @@
-# Artikel 91a
-1. Artikel 79b, eerste lid, is niet van toepassing indien de dienstbetrekking is aangegaan voor 1 januari 2002.
-2. Artikel 79b, tweede lid is niet van toepassing indien de werknemer voor 1 januari 2002 zijn eigen arbeid of een andere functie bij dezelfde werkgever geheel of gedeeltelijk heeft hervat dan wel indien diens arbeidsplaats voor die datum is aangepast tot behoud, herstel of ter bevordering van de mogelijkheden tot het verrichten van arbeid van die werknemer.
-3. Zo nodig in afwijking van artikel 79a, eerste lid, of artikel 79b, eerste, tweede en derde lid, kan het bedrag dat in mindering wordt gebracht op de door de werkgever verschuldigde premie en de premiekorting met betrekking tot het jaar 2002, in 2003 worden vastgesteld. Bij ministeriële regeling kunnen met betrekking tot dit lid nadere regels worden gesteld.

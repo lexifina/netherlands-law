@@ -8,5 +8,5 @@ In afwijking in zoverre van artikel 32, tweede lid, is de opdrachtgever niet aan
 4. Artikel 35, tweede lid, derde lid, onderdelen a en c, en vijfde lid, is van overeenkomstige toepassing, met dien verstande dat:
 a. in het tweede lid, onderdeel a, van dat artikel voor een werk van stoffelijke aard moet worden gelezen: een werk, inhoudende de vervaardiging en elke daarop gerichte handeling van kleding, andere dan schoeisel;
 b. de toepassing van het derde lid, onderdeel a, van dat artikel er niet toe kan leiden dat de wederpartij van de aannemer als opdrachtgever als bedoeld in het tweede lid wordt beschouwd;
-c. in het vijfde lid van dat artikel voor «aannemer» moet worden gelezen: opdrachtgever, voor «onderaannemer»: aannemer en voor «het eerste lid en artikel 16b»: het eerste lid van artikel 35a en artikel 16ba.
+c. in het vijfde lid van dat artikel voor «aannemer» moet worden gelezen: opdrachtgever, voor «onderaannemer»: aannemer en voor «het eerste lid»: het eerste lid van artikel 35a.
 5. De aansprakelijkheid op grond van het eerste lid geldt niet met betrekking tot de loonbelasting verschuldigd door de aannemer of een onderaannemer, indien aannemelijk is dat het niet betalen door de aannemer of een onderaannemer noch aan de opdrachtgever, noch aan de aannemer of een onderaannemer is te wijten.
