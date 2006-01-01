@@ -96,6 +96,10 @@
 ### § 4. Mate van gebondenheid
 #### Recht met afwijkingsmogelijkheden
 #### Dwingend recht
+## Hoofdstuk 7. Levensloopregeling
+### Begrippen
+### Recht op deelname
+### Mate van gebondenheid
 ## Hoofdstuk 8. Slotbepalingen
 ### Evaluatiebepaling
 ### Inwerkingtreding
