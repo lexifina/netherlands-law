@@ -78,7 +78,9 @@
 #### afdeling Tweede. Van executoriaal beslag onder derden
 #### Tweede afdeling A. Van executoriaal beslag onder derden in zaken betreffende levensonderhoud en uitkering voor de huishouding
 #### Tweede afdeling B. Van executoriaal beslag onder de schuldeiser zelf
-#### Tweede afdeling c. Van executoriaal beslag onder derden betreffende de rechten uit een overeenkomst van levensverzekering
+#### Tweede afdeling c. Van executoriaal beslag op de rechten uit een sommenverzekering
+##### § 1. Algemene bepalingen
+##### § 2. Beslag ten laste van de verzekeringnemer op diens rechten uit een levensverzekering
 #### afdeling Derde. Van de verdeling van de opbrengst der executie
 #### afdeling Vierde. Van executie tot afgifte van roerende zaken, die geen registergoederen zijn
 ### titel Derde. Van de gerechtelijke tenuitvoerlegging op onroerende zaken
@@ -114,6 +116,7 @@
 #### afdeling Derde. Van conservatoir beslag op aandelen op naam, en effecten op naam die geen aandelen zijn
 #### afdeling Vierde. Van conservatoir beslag onder derden
 #### afdeling Vijfde. Van conservatoir beslag onder de schuldeiser zelf
+#### Vijfde afdeling A. Van conservatoir beslag op de rechten uit een sommenverzekering
 #### afdeling Zesde. Van conservatoir beslag op onroerende zaken
 #### Zesde afdeling A. Van conservatoir beslag op schepen
 #### Zesde afdeling B. Van conservatoir beslag op luchtvaartuigen
