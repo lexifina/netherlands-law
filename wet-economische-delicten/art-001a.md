@@ -2,11 +2,11 @@
 Economische delicten zijn eveneens:
 1°. overtredingen van voorschriften, gesteld bij of krachtens:
 de Bestrijdingsmiddelenwet 1962, de artikelen 2, eerste lid, 2a, 2b, eerste lid, 10, eerste lid, 13, 16a en 16aa en 25d, vierde en achtste lid;
-de Destructiewet, de artikelen 4 en 5, eerste en tweede lid;
+de Destructiewet, de artikelen 4, 5, eerste en tweede lid en artikel 23;
 de Flora- en faunawet, artikel 13, eerste lid;
 de Grondwaterwet, artikel 14, eerste en tweede lid;
 de Kernenergiewet, de artikelen 15, 21, 21a, 21e, eerste lid, 29, eerste lid, 31, 32, eerste lid, 34, eerste, vijfde en zesde lid, 37b, 38a, 46, eerste lid, 47, eerste lid, 49b, eerste lid, 49d, 75, tweede lid, en 76a;
-de Meststoffenwet, de artikelen 55, 57, tweede lid, 58, 58c, 58d, tweede lid, 58e, derde lid, 58f, eerste lid, 58aa, 58af, eerste lid, 58aj, eerste lid, 58ak, eerste lid, 58 aka, eerste lid, en 58al;
+de Meststoffenwet, de artikelen 5a, 5h, eerste lid, 56, 57, eerste lid, 58, 58a, derde lid en 58e, zesde lid;
 de Wet bestrijding ongevallen Noordzee, de artikelen 4, eerste, tweede, derde en vierde lid, en 15;
 de Wet bodembescherming, de artikelen 6 tot en met 13, 38 en 94;
 de Wet houdende wijziging van de Bestrijdingsmiddelenwet 1962 (landbouwkundig onmisbare gewasbeschermingsmiddelen): artikel II, derde en zesde lid, en bijlage.
@@ -18,7 +18,6 @@ de Wet rampen en zware ongevallen, – voor zover aangeduid als strafbare feiten
 de Wet van 2 juli 1992, Stb. 415, tot uitbreiding en wijziging van de Wet algemene bepalingen milieuhygiëne en daarmee samenhangende wijzigingen van andere wetten (milieubeleidsplanning en milieukwaliteitseisen; provinciale milieuverordening, totstandkoming algemene maatregelen van bestuur), artikel XIX, voor zover het betreft provinciale verordeningen, vastgesteld krachtens artikel 36 of artikel 41 van de Wet bodembescherming;
 de Wet verontreiniging oppervlaktewateren, de artikelen 1, eerste, derde en vierde lid, 1b, 2a, 2c, tweede lid, 5, eerste lid, en 30a;
 de Wet verontreiniging zeewater, de artikelen 3, eerste lid, 4, en 11;
-de Wet verplaatsing mestproductie, de artikelen 2, 3, 4, en 9, vijfde lid;
 de Wet vervoer gevaarlijke stoffen, de artikelen 4, 5, 10, 11, 21, 24, 27, 29, 31 en 33;
 de Wet voorkoming verontreiniging door schepen, de artikelen 5, eerste lid, 12, eerste lid, tweede lid, onderdelen a en b, vierde, zesde, zevende en achtste lid, 12b, eerste lid, 12c, eerste lid, 13, 13a, eerste, tweede, derde en vierde lid, 23, eerste, tweede en vierde lid, 35, derde lid, 35a, derde lid en 36a, eerste lid;
 2°. overtredingen van voorschriften, gesteld bij of krachtens:
@@ -29,7 +28,7 @@ de Kernenergiewet, de artikelen 14, 22, eerste lid, 26, tweede lid, 28, 33, eers
 de Natuurbeschermingswet 1998, artikel 16, 19d, eerste lid, 19l, eerste lid en 20, derde lid, 17, vierde lid, 21, tweede lid, 22, tweede lid, 56, eerste lid, 58, eerste lid en 66;
 de Ontgrondingenwet, de artikelen 3, eerste en tweede lid, 7, derde lid, 12, eerste en tweede lid, en 16, tweede lid;
 de Wet bescherming Antarctica, de artikelen 3, eerste lid, 5, 6, eerste en tweede lid, 8, 25, eerste en tweede lid, 29 en 30;
-de Wet bodembescherming, de artikelen 20, 27, 28, 29, 30, tweede, derde en vierde lid, 31, 32, tweede lid, tweede volzin, 39, eerste en tweede lid, 43, eerste, derde en vierde lid, 44, 45, vierde lid, 49 juncto 30, tweede, derde en vierde lid, 63e, derde lid, tweede volzin, 63i, vijfde lid, tweede volzin, 63j, tweede lid, 70 en 72;
+de Wet bodembescherming, de artikelen 20, 27, 28, 29, 30, tweede, derde en vierde lid, 31, 32, tweede lid, tweede volzin, 39, eerste, tweede en vierde lid, 39a, 39b, eerste en derde lid en vierde lid, tweede volzin, 39c, eerste en derde lid, 39d, eerste en vijfde lid, 39e, 43, eerste, derde en vierde lid, 45, vierde lid, 49 juncto 30, tweede, derde en vierde lid, 55b, eerste lid, 63e, derde lid, tweede volzin, 63i, vijfde lid, tweede volzin, 63j, tweede lid, 70 en 72;
 de Wet milieubeheer, de artikelen 8.14, eerste lid, 8.36f, eerste en tweede lid, 8.20, tweede lid, 8.41, eerste, tweede en derde lid, 8.42, eerste lid, 8.44, vijfde lid, 10.15, eerste lid, 10.16, eerste lid, 10.17, eerste lid, 10.18, 10.20, eerste lid, 10.29, eerste lid, 10.30, eerste lid, 10.32, 10.38, 10.40, eerste en tweede lid, 10.41, eerste en tweede lid, 10.42, eerste lid, 10.43, eerste lid, 10.44, 10.45, eerste lid, onderdeel a, 10.46, eerste lid, 10.48, derde lid, 10.51, eerste lid, 10.52, eerste lid, 10.55, 10.60, tweede lid, onder c, 12.4, eerste en tweede lid, 12.7, eerste en tweede lid, 12.8, eerste lid, 12.4, eerste en tweede lid, 12.7, eerste en tweede lid en derde lid, juncto het eerste en tweede lid, 12.8, eerste lid, 15.32, eerste en tweede lid, 17.1 en 17.2;
 de Wet milieugevaarlijke stoffen, de artikelen 13, 14, 15, 16, 17, 20, 21, 22, 23, 25, 32, 34, 37, 38, 39, en - voor zover aangeduid als strafbare feiten - 19, vierde lid;
 de Wet op de Ruimtelijke Ordening, de artikelen 10, eerste en tweede lid, en 14 – voorzover aangeduid als strafbare feiten – alsmede de artikelen 17, vierde lid, 21, derde lid, 28, vierde lid, 29, achtste lid, en 45, tweede lid;
@@ -43,14 +42,12 @@ de Destructiewet, de artikelen 3, eerste, tweede en derde lid, 4a, 6, 9, 10, eer
 de Flora- en faunawet, de artikelen 10, 16, 37, eerste en tweede lid, 38, eerste lid, 50, eerste, tweede en derde lid, 51, 52, 53, 54, eerste lid, 58, 59, tweede lid, 60, vijfde lid, 62, eerste lid, 63, eerste lid, 64, tweede lid, 67, zesde lid, 72, vijfde lid, 74, eerste lid, 74a, eerste lid, 79, tweede lid, 81, eerste lid, en 111, eerste lid.
 de Grondwaterwet, artikel 11;
 de Kernenergiewet, de artikelen 36, eerste lid, en - voor zover aangeduid als strafbare feiten - 73;
-de Meststoffenwet, de artikelen 3, 4, 5, 6, 6a, 7, 7a, 42a, eerste lid, 58ae, vierde en zesde lid, 58aka, derde en vierde lid, 59, derde lid, en 61;
-de Meststoffenwet 1947, de artikelen 2 en 4;
+de Meststoffenwet, de artikelen 3, 4, 5, 5c, tweede lid, 5e, vijfde lid, 5g, derde lid, 6, 6a, 59, 59a59b, 59c, 59d, derde lid, en 61;
 de Wet bescherming Antarctica, de artikelen 19, tweede lid, en 33
 de Wet geluidhinder, de artikelen 2, 3, 8, 9, 10, 170, tweede lid, en 175;
 de Wet inzake de luchtverontreiniging, de artikelen 92, onder a, in verband met de artikelen 13, 14 en 86, tweede lid, 92, onder c, en 92, onder d;
 de Wet luchtvaart, de artikelen 6.60, eerste lid, 6.61, tweede lid, 6.61a, en 6.62, tweede lid.
 de Wet milieubeheer, de artikelen 10.23 – voor zover aangeduid als strafbare feiten – en artikel 10.60, tweede lid, onder d en e;
 de Wet van 13 mei 1993, Stb. 283, tot uitbreiding en wijziging van de Wet milieubeheer (afvalstoffen), artikel VII, voor zover het betreft gemeentelijke verordeningen, vastgesteld krachtens artikel 2 van de Afvalstoffenwet;
-de Wet verplaatsing mestproductie, de artikelen 9, tweede lid, 10, 13, 14, en 17;
 de Wet vervoer gevaarlijke stoffen: de artikelen 47 en 48, tweede lid;
 de Wet voorkoming verontreiniging door schepen, artikel 12, tweede lid, onderdeel c.
