@@ -93,14 +93,14 @@
 ### Titel 3. Overige bepalingen
 ## Hoofdstuk 14. Beroep op de administratieve rechter
 ## Hoofdstuk 15. Inhouding bekostiging, schadevergoeding en strafbepalingen
-## Hoofdstuk 16. Overgangs- en invoeringsbepalingen
-### Titel 1. Intrekking wetten en besluiten
-### Titel 2. Voorzieningen voor bepaalde en onbepaalde tijd
-### Titel 3. Tijdelijke handhaving voorschriften oude stijl
-### Titel 4. Voorschriften i.v.m. invoering wet
-#### Paragraaf 1. Voorschriften betreffende de instellingen voor hoger onderwijs
-#### Paragraaf 2. Voorschriften betreffende de onderzoekinstellingen
-#### Paragraaf 3. Aanhangige beroepen
+## Hoofdstuk 16. Overgangsvoorzieningen bij invoering van de wet en enkele andere overgangsvoorzieningen
+### Paragraaf 1. Onderwijsbevoegdheden en rechtspositie
+### Paragraaf 2. Onderwijs en vooropleidingseisen
+### Paragraaf 3. Getuigschriften en titulatuur
+### Paragraaf 4. Doctoraten Internationaal Instituut voor Sociale Studiën
+### Paragraaf 5. Omzetting, splitsing, verplaatsing en bestuursoverdracht hogescholen
+### Paragraaf 6. Rechtsbescherming
+### Paragraaf 7. Bijdragen uit 's Rijks kas voor theologisch en levensbeschouwelijk onderwijs
 ## Hoofdstuk 17. Overgangs- en invoeringsbepalingen wijzigingswetten tot 2002
 ### Titel 2. Wet van 28 maart 1996 (Stb. 226)
 ### Titel 3. Wet van 4 juli 1996 (Stb. 434)
