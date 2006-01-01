@@ -17,4 +17,5 @@
 ## Titel IX. Het toezicht over de notarissen en kandidaat-notarissen en de tuchtrechtspraak, alsmede het financiële toezicht
 ### Afdeling 1. Het toezicht en de tuchtrechtspraak
 ### Afdeling 2. Het financiële toezicht
+## Titel IXa. Het Notarieel Pensioenfonds
 ## Titel X. Overgangs- en slotbepalingen
