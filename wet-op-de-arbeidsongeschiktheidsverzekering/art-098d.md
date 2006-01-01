@@ -1,0 +1,2 @@
+# Artikel 98d
+Artikel 14 en de daarop berustende bepalingen, zoals die luidden op de dag voorafgaand aan de dag van inwerkingtreding van artikel V, onderdeel A, van de Wet administratieve lastenverlichting en vereenvoudiging in socialeverzekeringswetten, blijven van toepassing op de persoon wiens recht op arbeidsongeschiktheidsuitkering is ontstaan voor de datum van inwerkingtreding van dat artikel, met betrekking tot die arbeidsongeschiktheidsuitkering. Met betrekking tot de artikelen 40, eerste lid, en 48, derde lid, is de eerste zin niet van toepassing.
