@@ -1,5 +1,0 @@
-# Artikel 7g
-1. Terzake van een zending vlees die zich aan boord bevindt van een vliegtuig of schip dat bij vervoer tussen twee derde landen op Nederlands grondgebied lardt of aanlegt, overlegt de vervoerder aan de ambtenaar desgevraagd het document, bedoeld in artikel 7a.
-2. Indien de in het eerste lid bedoelde zending van het ene vliegtuig of schip in het andere wordt overgeladen, stelt de vervoerder de ambtenaar hiervan in kennis en overlegt hij hem desgevraagd het document, bedoeld in het eerste lid.
-3. Indien de in het eerste lid bedoelde zending tijdelijk wordt uitgeladen en opgeslagen op de desbetreffende luchthaven of haven, in afwachting van verzending naar een vooraf bepaald derde land, overlegt de vervoerder aan de ambtenaar, het in het eerste lid bedoelde document en biedt hij de zending aan hem ten onderzoek aan.
-4. In de in het eerste tot en met het derde lid bedoelde gevallen gaat de desbetreffende zending bij verzending naar het derde land vergezeld van het originele document, bedoeld in het eerste lid.

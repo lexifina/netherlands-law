@@ -1,4 +1,0 @@
-# Artikel 7l
-1. De artikelen 7b tot en met 7h gelden niet voor vlees als bedoeld in artikel 16, eerste lid, van richtlijn 97/78/EG, met dien verstande dat onder commerciële monsters als bedoeld in artikel 16, eerste lid, onderdeel e, van richtlijn 97/78/EG wordt verstaan handelsmonsters als bedoeld in artikel 1 1, eerste lid, van de Regeling keuring en handel dierlijke producten, en, mits met inachtneming van artikel 8 van verordening 136/2004/EG, wordt voldaan aan artikel 16, eerste lid, van richtlijn 97/78/EG.
-2. Vlees als bedoeld in artikel 16, eerste lid, onderdelen e en f, van richtlijn 97/78/EG wordt aangevoerd via een erkende inspectiepost.
-3. Tenzij met de Minister anders is overeengekomen, geeft de belanghebbende bij de lading van de aanvoer als bedoeld in het tweede lid tenminste 24 uur voor de aankomst schriftelijk kennis aan de VWA.
