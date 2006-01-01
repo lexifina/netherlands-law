@@ -1,5 +1,0 @@
-# Artikel 97m
-1. De werkgever die op grond van artikel 97l bij een sector is aangesloten of ophoudt bij een sector aangesloten te zijn, doet daarvan schriftelijk melding bij het Uitvoeringsinstituut werknemersverzekeringen binnen een door het Uitvoeringsinstituut werknemersverzekeringen te stellen termijn.
-2. Een melding als bedoeld in het eerste lid is geen aanvraag in de zin van artikel 1:3, derde lid, van de Algemene wet bestuursrecht.
-3. Het Uitvoeringsinstituut werknemersverzekeringen deelt een werkgever mee, bij welke sector en vanaf welke datum hij op grond van artikel 97l is aangesloten. Indien de mededeling afwijkt van de melding, bedoeld in het eerste lid, geldt de mededeling als een beschikking.
-4. In afwijking van artikel 97l, tweede lid, is het Uitvoeringsinstituut werknemersverzekeringen bevoegd ambtshalve of op verzoek te besluiten dat een werkgever met ingang van een door het Uitvoeringsinstituut werknemersverzekeringen aan te geven datum voor door dit instituut aan te wijzen werkzaamheden is aangesloten bij een andere sector dan de sector waartoe de werkzaamheden behoren die hij overigens doet verrichten.

@@ -1,2 +1,0 @@
-# Artikel 97i
-Bij regeling van Onze Minister in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan een bedrag worden vastgesteld dat, in verband met de toepassing van de artikelen 85, derde en vijfde lid, 86, eerste lid, en 97d, tweede lid, op uitkeringen op grond van de Wet werk en inkomen naar arbeidsvermogen en de Wet op de arbeidsongeschiktheidsverzekering, volgens een bij die regeling te bepalen verdeling wordt afgedragen aan het Uitvoeringsfonds voor de overheid dan wel de wachtgeldfondsen en het Algemeen Werkloosheidsfonds.
