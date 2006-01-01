@@ -1,0 +1,2 @@
+# Artikel V
+Indien voor 1 januari 2006 met betrekking tot een deelneming een afwaarderingsverlies als bedoeld in artikel 13ca van de Wet op de vennootschapsbelasting 1969 in aanmerking is genomen, blijven daarna met betrekking tot die deelneming artikel 8, vierde lid, artikel 13ba, zevende lid, artikel 13ca, derde tot en met vijfde lid, zesde lid, tweede volzin, en zevende lid, artikel 14c, vierde lid, onderdeel b, en artikel 15aj, zevende lid, van de Wet op de vennootschapsbelasting 1969, zoals die artikelen luidden op 31 december 2005, van toepassing.
