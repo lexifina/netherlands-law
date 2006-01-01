@@ -1,0 +1,3 @@
+# Artikel IX
+1. Op verzoekschriften die bij de Nationale ombudsman zijn ingediend voor de inwerkingtreding van de artikelen I en II van deze wet, zijn de bepalingen van de Wet Nationale ombudsman van toepassing, zoals deze voor dat tijdstip luidden.
+2. Ten aanzien van bestuursorganen van provincies, gemeenten, waterschappen en gemeenschappelijke regelingen waarop tot de inwerkingtreding van artikel II van deze wet, de Wet Nationale ombudsman niet van toepassing was, stelt de Nationale ombudsman geen onderzoek in voorzover het gaat om gedragingen die plaats vonden voordat artikel II van deze wet in werking was getreden.
