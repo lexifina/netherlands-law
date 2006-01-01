@@ -1,0 +1,2 @@
+# Artikel 130m
+Artikel 34 van de Invoeringswet stelselherziening sociale zekerheid en de daarop berustende bepalingen, zoals die luidden op de dag voorafgaand aan de dag van inwerkingtreding van de artikelen VI en VII, van de Wet administratieve lastenverlichting en vereenvoudiging in socialeverzekeringswetten, blijven van toepassing op de persoon wiens recht op uitkering op grond van deze wet is ontstaan voor de datum van inwerkingtreding van die artikelen, met betrekking tot die uitkering.
