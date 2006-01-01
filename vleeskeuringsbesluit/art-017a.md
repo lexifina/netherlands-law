@@ -1,4 +1,0 @@
-# Artikel 17a
-1. Door Onze Minister aangewezen categorieën van ter slachting aangeboden slachtdieren dienen te zijn voorzien van een door Onze Minister aangewezen onderscheidings- of herkenningsteken.
-2. De in het eerste lid bedoelde slachtdieren dienen in door Onze Minister aangewezen gevallen te zijn vergezeld van een begeleidingsformulier. Onze Minister kan voorschriften vaststellen met betrekking tot de vorm en de inhoud van het begeleidingsformulier.
-3. Onze Minister kan van het bepaalde in het eerste lid een vrijstelling of een ontheffing verlenen. Aan een vrijstelling of een ontheffing kunnen voorschriften worden verbonden. Zij kunnen onder beperkingen worden verleend. Onze Minister kan de vrijstelling of ontheffing intrekken, de aan de vrijstelling of ontheffing verbonden voorschriften intrekken of wijzigen, dan wel een nieuwe voorschriften stellen.

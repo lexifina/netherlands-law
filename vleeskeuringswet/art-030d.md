@@ -1,3 +1,0 @@
-# Artikel 30d
-1. Bij of krachtens algemene maatregel van bestuur kan voor het vaststellen dat met betrekking tot vlees of vleeswaren aan bij of krachtens deze wet gestelde regels, bij of krachtens de maatregel aangegeven, al dan niet is of wordt voldaan, een bij of krachtens de maatregel omschreven methode van onderzoek worden aangewezen.
-2. In gevallen waarin toepassing is gegeven aan het eerste lid, kan bij of krachtens algemene maatregel van bestuur tevens worden bepaald dat voor de vaststelling of aan bedoelde regels al dan niet is of wordt voldaan, de aangewezen methode van onderzoek bij uitsluiting beslissend is.

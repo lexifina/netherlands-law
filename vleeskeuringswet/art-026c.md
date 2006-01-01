@@ -1,2 +1,0 @@
-# Artikel 26c
-Voor de behandeling van een verzoek om een ingevolge deze wet door de Dienst Wegverkeer, bedoeld in artikel 4a van de Wegenverkeerswet 1994, te verrichten keuring van een vervoermiddel is een vergoeding verschuldigd. De Dienst Wegverkeer stelt de hoogte van de vergoeding alsmede de wijze van betaling vast. Artikel 4q, eerste lid, van de Wegenverkeerswet 1994 is van overeenkomstige toepassing.
