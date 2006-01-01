@@ -1,5 +1,0 @@
-# Artikel 17a
-1. Hij die een der in artikel 10 bedoelde verplichtingen niet, niet juist, of niet volledig nakomt, wordt gestraft, met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie. Dit feit is een overtreding.
-2. Hij die opzettelijk een der in artikel 10 bedoelde verplichtingen niet, niet juist, of niet volledig nakomt, wordt gestraft, met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie of, indien dit hoger is, ten hoogste eenmaal het bedrag van de te weinig geheven premie. Dit feit is een misdrijf.
-3. Met de opsporing van de in het eerste en tweede lid strafbaar gestelde feiten zijn, behalve de ambtenaren, bedoeld in artikel 141 van het Wetboek van Strafvordering, belast de door Onze Minister, in overeenstemming met Onze Minister van Justitie, aangewezen personen.
-4. Het recht tot strafvordering vervalt indien het Uitvoeringsinstituut werknemersverzekeringen aan de werkgever terzake van hetzelfde feit reeds een boete heeft opgelegd.

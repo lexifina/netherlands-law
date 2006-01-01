@@ -1,3 +1,0 @@
-# Artikel 12d
-1. Een boete ingevolge artikel 12, derde lid, wordt opgelegd binnen een jaar nadat het Landelijk instituut sociale verzekeringen de werkgever overeenkomstig artikel 12a, vierde lid, in de gelegenheid heeft gesteld zijn zienswijze naar voren te brengen. Indien terzake aangifte is gedaan of proces-verbaal is opgemaakt en ingezonden vangt de termijn van een jaar aan op de dag na die waarop het Openbaar Ministerie aan het Uitvoeringsinstituut werknemersverzekeringen heeft medegedeeld dat geen strafvervolging wordt ingesteld.
-2. Een boete wordt niet meer opgelegd, indien meer dan vijf jaren zijn verstreken sedert het einde van het kalenderjaar waarin de desbetreffende gedraging heeft plaatsgevonden.

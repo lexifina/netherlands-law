@@ -1,2 +1,0 @@
-# Artikel 18a
-Het beroep kan niet zijn gegrond op het verweer dat de aanslag ten onrechte of tot een te hoog bedrag is vastgesteld. Het beroep kan slechts dan zijn gegrond op het verweer dat de aanslag niet is ontvangen, indien belanghebbende aannemelijk kan maken dat hij de aanslag nimmer ontvangen heeft en dat er geen omstandigheden zijn op grond waarvan het niet ontvangen van de aanslag hem kan worden toegerekend.
