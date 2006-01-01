@@ -1,0 +1,2 @@
+# Artikel III
+De artikelen 108, eerste lid, onderdeel h, en 109, eerste lid, van de Wegenverkeerswet 1994, zoals die artikelen luidden vóór het tijdstip van inwerkingtreding van artikel I, onderdelen D en E, van deze wet, blijven van kracht ten aanzien van rijbewijzen, afgegeven door het daartoe bevoegde gezag in een andere Lid-Staat van de Europese Gemeenschappen of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, die voor dat tijdstip zijn geregistreerd in het rijbewijzenregister.
