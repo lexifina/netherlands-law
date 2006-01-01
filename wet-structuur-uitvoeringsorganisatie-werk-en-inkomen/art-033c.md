@@ -1,0 +1,7 @@
+# Artikel 33c. Bericht over verwerkte gegevens
+1. Het Uitvoeringsinstituut werknemersverzekeringen verstrekt aan de werknemer periodiek een bericht als bedoeld in artikel 33, tweede lid, onderdeel b.
+2. Het bericht, bedoeld in het eerste lid, bevat informatie over de verwachte hoogte en duur van de uitkering, die door het Uitvoeringsinstituut werknemersverzekeringen wordt verstrekt, indien de werknemer op de laatste dag van de periode waarop het bericht betrekking heeft, werkloos, arbeidsongeschikt of gedeeltelijk arbeidsgeschikt zou worden.
+3. Indien de gegevens opgenomen in het bericht, bedoeld in het eerste lid, niet juist of niet volledig zijn, doet de werknemer het Uitvoeringsinstituut werknemersverzekeringen hiervan terstond schriftelijk mededeling.
+4. Indien de werknemer het bericht, bedoeld in het eerste lid, niet heeft ontvangen en hij redelijkerwijs een bericht kon verwachten, deelt hij dit terstond aan het Uitvoeringsinstituut werknemersverzekeringen mede.
+5. Het Uitvoeringsinstituut werknemersverzekeringen beslist naar aanleiding van een mededeling als bedoeld in het tweede of derde lid, over de opname, verbetering en aanvulling van gegevens van de werknemer.
+6. Bij ministeriële regeling kunnen regels worden gesteld voor de periodiciteit van het bericht, die voor verschillende soorten werknemers verschillend kan zijn, en in samenhang daarmee voor de inhoud van het bericht.
