@@ -17,7 +17,7 @@
 ### Afdeling III. De betaling van de uitkering
 ## Hoofdstuk 4. De invloed van de verzekering op het burgerlijk recht
 ## Hoofdstuk 5. De vrijwillige verzekering
-## Hoofdstuk 6. Vrijstelling wegens gemoedsbezwaren
+## Hoofdstuk 5a. Vrijwillige verzekering voor in de Europese Unie wonende postactieven
 ## Hoofdstuk 7. Bepalingen in verband met de Algemene wet bestuursrecht en het beroep in cassatie
 ## Hoofdstuk 8. Overgangsbepalingen
 ## Hoofdstuk 9. Strafbepalingen
