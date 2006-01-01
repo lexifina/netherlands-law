@@ -1,3 +1,0 @@
-# Artikel 13a
-1. Het laten vervaardigen en het in voorraad hebben van de in deze regeling genoemde merken, alsmede het in op grond van deze regeling erkende vleesproductenfabrieken, inrichtingen als bedoeld in artikel 13, vierde lid, en herverpakkingscentra voorhanden hebben van stempels en andere werktuigen waarmee deze merken kunnen worden vervaardigd of aangebracht, is slechts toegestaan met toestemming van de Minister van Landbouw, Natuurbeheer en Visserij. Aan deze toestemming kunnen voorschriften worden verbonden. Deze toestemming kan onder beperkingen worden verleend.
-2. Het gebruik van de in deze regeling genoemde merken is slechts toegestaan in fabrieken, inrichtingen en centra als bedoeld in het eerste lid.

@@ -1,9 +1,0 @@
-# Artikel 11a
-1. Onverminderd het bepaalde in de artikelen 9, 10 en 11 is het bedrijfsmatig bereiden en vervaardigen van:
-1. vleesproducten van pluimvee, van gekweekt vederwild, van konijnen, hazen of klein vrij wild;
-2. producten die andere levensmiddelen bevatten en die voor een gering percentage uit vlees of vleesproducten van de in onderdeel 1 bedoelde diersoorten zijn samengesteld, en
-3. andere producten van dierlijke oorsprong, afkomstig van de in onderdeel 1 bedoelde diersoorten,
-slechts toegestaan indien de bereiding en vervaardiging geschiedt in een inrichting die daartoe met betrekking tot de desbetreffende productsoort overeenkomstig artikel 13 is erkend, dan wel, voor zover het betreft de producten, bedoeld in onderdeel 3, indien met betrekking tot de producten wordt voldaan aan het bepaalde in artikel 5, tweede lid, onderdelen a, b en c.
-2. Onverminderd het bepaalde in de artikelen 9, 10 en 11 en het bepaalde in het eerste lid, is het voorhanden en in voorraad hebben, opslaan, be- en verwerken, ge- en verbuiken, vervoeren, aanvoeren, ontvangen, afleveren, te koop aanbieden, kopen en vervreemd van de producten, bedoeld in het eerste lid, onderdelen 1 en 2, slechts toegestaan, indien:
-voor zover het betreft de producten, bedoeld in het eerste lid, onderdeel 1, deze zijn voorzien van een keurmerk als bedoeld in artikel 4, eerste lid, onderdeel h, met dien verstande echter dat voor zover het betreft dergelijke producten die zijn bereid met vlees dat overeenkomstig artikel 15 van richtlijn 71/118/EEG of artikel 17, tweede alinea, van richtlijn 91/495/EEG is ingevoerd, in het vorenbedoelde merk de letters 'EEG' worden vervangen door het woord 'GOEDGEKEURD';
-voor zover het betreft de producten, bedoeld in het eerste lid, onderdeel 2, deze zijn voorzien van een keurmerk als bedoeld in artikel 3, tweede lid.
