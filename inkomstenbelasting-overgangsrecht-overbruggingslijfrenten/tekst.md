@@ -1,0 +1,27 @@
+# Tekst
+De directeur-generaal Belastingdienst heeft namens de staatssecretaris van Financiën het volgende besloten.
+## 1 Inleiding
+Op 26 mei 2005 heb ik in het persbericht 2005/071 een goedkeuring aangekondigd over de vormgeving die vereist is voor lijfrenten om na het kalenderjaar 2005 nog een overbruggingslijfrente te kunnen bedingen. Dit besluit bevat die goedkeuring.
+## 2 Geen aanpassing bestaande polissen nodig voor eerbiedigende werking overbruggingslijfrenten
+Algemeen; vanaf 2006 geen premieaftrek meer voor overbruggingslijfrente
+Op grond van de Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling, Stb. 2005,115 (hierna: Wet VPL), die wat dit onderdeel betreft in werking treedt op 1 januari 2006, is met ingang van die datum geen premieaftrek meer mogelijk voor tijdelijke lijfrenten die voorafgaan aan de pensioendatum. Dergelijke lijfrenten worden in de praktijk overbruggingslijfrenten genoemd. Wel is het op grond van het in de Wet VPL opgenomen overgangsrecht mogelijk om in de toekomst nog overbruggingslijfrenten te bedingen voor zover er sprake is van op 31 december 2005 bestaande aanspraken (eerbiedigende werking, zie artikel 10a.1 van de Wet IB 2001, onderdeel van artikel III Wet VPL).
+## Wettelijke voorwaarde eerbiedigende werking
+Voor die eerbiedigende werking geldt als voorwaarde dat de polis (mede) betrekking heeft op een overbruggingslijfrente. Dit houdt in dat de overbruggingslijfrente uitdrukkelijk (mede) verzekerd dient te zijn. In vele bestaande lijfrentepolissen worden overbruggingslijfrenten echter niet met zoveel woorden genoemd. Eenvoudshalve zijn meestal uitsluitend de zogenoemde oudedagslijfrenten in de polis opgenomen, met als achterliggende gedachte dat op grond van de huidige Wet IB 2001 een fiscaal geruisloze omzetting in een overbruggingslijfrente steeds mogelijk is.
+## Vervallen omzettingsmogelijkheid met ingang van 2006
+Met ingang van 2006 komt de mogelijkheid tot omzetting in een overbruggingslijfrente te vervallen. In situaties waarin men een dergelijke omzetting toch zou willen, zou de overbruggingslijfrente in 2005 (alsnog) uitdrukkelijk in de bestaande lijfrentepolis moeten worden opgenomen om in de toekomst gebruik te kunnen maken van de eerbiedigende werking van het overgangsrecht van artikel 10a.1 van de Wet IB 2001.
+## Goedkeuring
+## Algemeen
+Om te voorkomen dat lijfrentepolissen alleen om deze reden moeten worden aangepast, keur ik goed dat de hiervóór vermelde aanpassing van lijfrentepolissen niet nodig is om in de toekomst overbruggingslijfrenten te kunnen bedingen met betrekking tot op 31 december 2005 bestaande aanspraken.
+## Lijfrente voor oudedagsreserve en/of stakingswinst
+De goedkeuring geldt ook voor lijfrenten die worden of zijn bedongen in het kader van de omzetting van de fiscale oudedagsreserve in een lijfrente en/of in het kader van de omzetting van stakingswinst in een lijfrente.
+## Omzetting artikel 19 (oud)/artikel 44j(oud) Wet IB 1964 stamrecht
+De goedkeuring geldt eveneens voor stamrechten die in het verleden zijn bedongen met toepassing van artikel 19 (oud) en artikel 44j (oud) van de Wet IB 1964. Dergelijke stamrechten mogen thans worden omgezet in een lijfrente als bedoeld in artikel 3.125 van de Wet IB 2001. De omzetting in een overbruggingslijfrente kan in dit kader ook plaatsvinden na het kalenderjaar 2005.
+## 3 Overige aspecten in verband met afschaffen overbruggingslijfrente
+## Terugwenteling premies naar kalenderjaar 2005
+Op grond van artikel 10a.1, eerste lid, van de Wet IB 2001 geldt de eerbiedigende werking voor aanspraken die voortvloeien uit premies die vóór 1 januari 2006 als uitgaven voor inkomensvoorzieningen in aanmerking zijn genomen. Als gevolg hiervan geldt de eerbiedigende werking ook voor aanspraken die voortvloeien uit premies die zijn betaald in 2006 en die op grond van artikel 3.130, tweede en derde lid, van de Wet IB 2001 in 2005 in aanmerking zijn genomen (terugwenteling). Het kan hierbij gaan om reeds vóór 2006 gesloten lijfrenten maar ook om in 2006 gesloten lijfrenten, waarbij de premie is teruggewenteld naar 2005. Ook voor de betreffende polissen waarvan de premies naar 2005 zijn teruggewenteld, is de goedkeuring van toepassing. Ook daarin behoeft de overbruggingslijfrente derhalve niet uitdrukkelijk te zijn genoemd (verzekerd).
+## Waarde in het economische verkeer van polis; terugwenteling premies
+Indien (mede) een overbruggingslijfrente is verzekerd, terwijl na 31 december 2005 nog premies worden voldaan, kan in de toekomst slechts een overbruggingslijfrente worden bedongen tot het bedrag van de waarde in het economische verkeer van de verzekering op 31 december 2005 (artikel 10a.1, derde lid, van de Wet IB 2001). Premies die met toepassing van artikel 3.130 van de Wet IB 2001 worden teruggewenteld naar 2005, worden in dit verband niet aangemerkt als premies die na 31 december 2005 zijn voldaan.
+## Goedkeuring
+Met betrekking tot de waarde in het economische verkeer van lijfrenten waarvoor na 31 december 2005 nog premies worden voldaan keur ik het volgende goed. De waarde in het economische verkeer van de polis op 31 december 2005 kan worden verhoogd met de nominale premie die na 31 december 2005 is voldaan en met toepassing van artikel 3.130 van de Wet IB 2001 is teruggewenteld.
+## 4 Inwerkingtreden besluit
+Dit besluit treedt in werking met ingang van de dagtekening van dit besluit.
