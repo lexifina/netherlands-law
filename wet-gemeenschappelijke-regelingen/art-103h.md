@@ -1,2 +1,0 @@
-# Artikel 103h
-Indien het bestuur van een openbaar lichaam of het gemeenschappelijk orgaan niet binnen de termijn, bedoeld in artikel 103g, derde lid, gevolg geeft aan de aanwijzing oefenen gedeputeerde staten de desbetreffende bevoegdheid of taak uit namens het bestuur van dat openbaar lichaam of het gemeenschappelijk orgaan en ten laste van dat openbaar lichaam of dat gemeenschappelijk orgaan. Gedeputeerde staten kunnen zonodig de bevoegdheid of taak op gelijke wijze doen uitoefenen.
