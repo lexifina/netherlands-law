@@ -1,4 +1,0 @@
-# Artikel 17a
-1. Onze Minister kan entrepots erkennen voor de opslag van producten van dierlijke oorsprong afkomstig uit derde landen als bedoeld in artikel 12, vierde lid, van richtlijn nr. 97/78/EEG, die voldoen aan de eisen, bedoeld in artikel 12, vierde lid, onder b, van die richtlijn.
-2. Onze Minister kan een vergunning verlenen aan handelaren als bedoeld in artikel 13, eerste lid, onder a, van richtlijn nr. 97/78/EG, die voldoen aan de voorschriften, bedoeld in artikel 13, eerste lid, van die richtlijn.
-3. Onze Minister kan entrepots erkennen in de haven van bestemming, voor de opslag van producten van dierlijke oorsprong afkomstig uit derde landen bestemd voor zeevervoermiddelen als proviand voor bemanning en passagiers als bedoeld in artikel 13, tweede lid, onder a, van richtlijn nr. 97/78/EEG.
