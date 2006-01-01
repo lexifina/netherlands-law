@@ -1,2 +1,0 @@
-# Artikel 1a
-Het orgaan dat niet direct in staat is ziekenfondspremie in te houden over de door dat orgaan betaalbaar gestelde uitkering, bedoeld in artikel 14, vierde lid, onder a en b, en 14a, eerste lid, van het Aanwijzingsbesluit verzekerden Zfw, is voor ten hoogste zes maanden nadat de verzekering ingevolge de Ziekenfondswet is ontstaan, dan wel na toekenning van die uitkering niet belast met de inhouding van de verschuldigde ziekenfondspremie.
