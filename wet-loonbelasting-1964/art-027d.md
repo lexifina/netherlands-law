@@ -1,0 +1,3 @@
+# Artikel 27d
+1. Indien de werknemer ook verzekeringsplichtig is in de zin van de Zorgverzekeringswet, geschiedt de heffing van de ingevolge de Zorgverzekeringswet over het loon verschuldigde inkomensafhankelijke bijdrage gelijktijdig met die van de belasting en geschiedt de afdracht van die bijdrage en de belasting op één aangifte, een en ander met overeenkomstige toepassing van de regels die gelden voor de heffing en de invordering van de loonbelasting.
+2. Toerekening van een betaling op de aangifte, bedoeld in het eerste lid, geschiedt naar evenredigheid aan de belasting en aan de ingevolge de Zorgverzekeringswet verschuldigde inkomensafhankelijke bijdrage.

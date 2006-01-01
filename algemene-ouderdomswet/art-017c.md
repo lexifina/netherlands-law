@@ -4,5 +4,5 @@
 3. Indien het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 49, niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van ouderdomspensioen, kan de Sociale verzekeringsbank afzien van het opleggen van een boete als bedoeld in het eerste lid en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet of niet behoorlijk nakomen van de verplichting, tenzij het niet of niet behoorlijk nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de pensioengerechtigde, zijn echtgenoot, of zijn wettelijke vertegenwoordiger, een zodanige waarschuwing is gegeven.
 4. Indien daarvoor dringende redenen aanwezig zijn kan de Sociale verzekeringsbank besluiten van het opleggen van een boete af te zien.
 5. Degene aan wie een boete is opgelegd is verplicht desgevraagd aan de Sociale verzekeringsbank de inlichtingen te verstrekken die voor de tenuitvoerlegging van de boete van belang zijn.
-6. Voor zover de boete nog niet is geïnd vervalt zij door het overlijden van degene aan wie zij is opgelegd.
-7. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het eerste en het tweede lid.
+6. Voorzover de boete nog niet is geïnd, vervalt zij door het overlijden van degene aan wie zij is opgelegd.
+7. Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het eerste en het tweede lid.
