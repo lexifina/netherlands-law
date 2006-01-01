@@ -1,2 +1,0 @@
-# Inhoud
-## Verstrekken van gegevens
