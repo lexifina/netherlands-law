@@ -1,2 +1,0 @@
-# Artikel 21c
-Het overeenkomstig hoofdstuk II, uitgezonderd artikel 14, en artikel 24 van de wet bepaalde varkensrecht, onderscheidenlijk fokzeugenrecht, van een daartoe aangemeld bedrijf wordt overeenkomstig deze paragraaf vergroot, indien de mestproductie afkomstig van varkens in 1994, 1995 en 1996 gemiddeld minder dan 5% en in 1997 ten minste 25% was van de som van het niet-gebonden mestproductierecht voor varkens en kippen geldend met betrekking tot het desbetreffende jaar en het met betrekking tot dat jaar geldende grondgebonden mestproductierecht.

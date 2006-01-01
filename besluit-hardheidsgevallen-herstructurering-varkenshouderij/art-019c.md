@@ -1,6 +1,0 @@
-# Artikel 19c
-1. Het overeenkomstig hoofdstuk II, uitgezonderd artikel 14, en artikel 24 van de wet, dan wel overeenkomstig paragraaf 1, 2, 4, 5, 7, 7A of 7C van dit hoofdstuk, bepaalde varkensrecht, onderscheidenlijk fokzeugenrecht, van een daartoe aangemeld bedrijf wordt overeenkomstig deze paragraaf vergroot indien de tot het bedrijf behorende oppervlakte landbouwgrond in de periode van 1 januari 1996 tot 10 juli 1997 per saldo is vergroot.
-2. Een bedrijf komt uitsluitend voor de toepassing van deze paragraaf in aanmerking indien ten aanzien van het bedrijf is voldaan aan elk van de volgende voorwaarden:
-a. de vergroting van de tot het bedrijf behorende oppervlakte landbouwgrond is uiterlijk op 21 oktober 1998 schriftelijk bij het Bureau Heffingen gemeld;
-b. de grond waarmee de tot het bedrijf behorende oppervlakte landbouwgrond is uitgebreid, was al vóór 10 juli 1997 daadwerkelijk in het kader van een normale bedrijfsvoering in gebruik bij het in het eerste lid bedoelde bedrijf;
-c. de in 1997 gerealiseerde mestproductie van varkens was ten minste 25% groter dan de in 1996 gerealiseerde mestproductie van varkens en deze vergroting ging gepaard met ten minste eenzelfde vergroting van zowel het grondgebonden mestproductierecht als de som van het grondgebonden mestproductierecht en het niet-gebonden mestproductierecht voor varkens en kippen.

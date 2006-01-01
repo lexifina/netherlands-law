@@ -1,2 +1,0 @@
-# Artikel 14a
-Ingeval de mestafzetovereenkomst is gesteld op een door Onze Minister vastgesteld formulier alsmede op andere stukken, wordt, in zoverre in afwijking van artikel 58an, eerste lid, onderdeel b, van de wet, enkel het desbetreffende formulier verzonden aan het Bureau Heffingen en worden de andere stukken gedurende vijf jaren na afloop van het kalenderjaar waarop deze betrekking hebben door ieder van de bij de overeenkomst betrokken partijen bewaard.
