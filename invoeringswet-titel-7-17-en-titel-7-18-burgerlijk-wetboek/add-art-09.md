@@ -1,0 +1,2 @@
+# Artikel IX
+Op een vóór het tijdstip van inwerkingtreding van deze wet gelegd beslag op de rechten uit een sommenverzekering, een voor dat tijdstip uitgesproken faillissement of toepassing van de schuldsaneringsregeling natuurlijke personen zijn de artikelen III en IV van de wet van 22 december 2005 tot vaststelling van titel 7.17 (verzekering) en titel 7.18 (lijfrente) van het nieuwe Burgerlijk Wetboek (Stb. 700) niet van toepassing en blijft het tevoren geldende recht ook na dit tijdstip van toepassing.
