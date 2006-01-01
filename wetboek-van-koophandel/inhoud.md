@@ -43,11 +43,6 @@
 #### afdeeling Tiende. Algemeene bepalingen
 #### afdeeling Elfde. Van quitantiën en promessen aan toonder
 ### titel Achtste. Van reclame of terugvordering in geval van faillissement
-### titel Negende. Van assurantie of verzekering in het algemeen
-### titel Tiende. Van verzekering tegen de gevaren van brand, tegen die waaraan de voortbrengselen van den landbouw te velde onderhevig zijn, en van levensverzekering
-#### afdeeling Eerste. Van verzekering tegen gevaren van brand
-#### afdeeling Tweede. Van verzekering tegen de gevaren waaraan de voortbrengselen van den landbouw te velde onderhevig zijn
-#### afdeeling Derde. Van levensverzekering
 ## Boek Tweede. Van de regten en verpligtingen uit scheepvaart voortspruitende
 ### Algemeene Bepaling
 ### titel Eerste. Van zeeschepen
@@ -78,17 +73,7 @@
 ### titel Zesde. Van aanvaring
 ### titel Zevende. Van hulp en berging
 ### titel Achtste. Van bodemerij
-### titel Negende. Van verzekering tegen de gevaren der zee en die der slavernij
-#### afdeeling Eerste. Van den vorm en den inhoud der verzekering
-#### afdeeling Tweede. Van de begrooting der verzekerde voorwerpen
-#### afdeeling Derde. Van het begin en het einde van het gevaar
-#### afdeeling Vierde. Van de regten en pligten van den verzekeraar en den verzekerde
-#### afdeeling Vijfde. Van abandonnement
-#### afdeeling Zesde. Van de plichten en rechten van tussenpersonen in zee-assurantiën
-### titel Tiende. Van verzekering tegen de gevaren van den vervoer te lande en op binnenwateren
-### titel Elfde. Van avarijen
 ### Elfde titel A. Van de beperking der aansprakelijkheid
-### titel Twaalfde. Van het te niet gaan der verbindtenissen in den zeehandel
 ### titel Dertiende. Van de binnenvaart
 #### afdeling Eerste. Binnenschepen en voorwerpen aan boord daarvan
 ##### § 1. Rechten op binnenschepen
@@ -107,5 +92,4 @@
 #### afdeeling Negende. Van hulp en berging
 #### afdeeling Tiende. Van avarijen
 #### Afdeling 10A. Van de beperking der aansprakelijkheid
-#### afdeeling Elfde. Van verjaring en verval
 ### Algemene slotbepaling
