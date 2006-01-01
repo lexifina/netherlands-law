@@ -1,0 +1,2 @@
+# Artikel 38i
+Bij algemene maatregel van bestuur kunnen met het oog op een goede invoering of een doelmatige toepassing van de wijzigingen die zijn aangebracht in deze wet bij de Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling, regels worden gesteld waarbij zo nodig kan worden afgeweken van het bepaalde bij of krachtens hoofdstuk IIB of hoofdstuk VIII van deze wet.
