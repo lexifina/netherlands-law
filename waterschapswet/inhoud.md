@@ -12,6 +12,11 @@
 #### § 1. De samenstelling
 #### § 2. De inrichting
 ### Hoofdstuk VI. De voorzitter
+### Hoofdstuk VIA. De ombudsman
+#### § 1. Algemene bepaling
+#### § 2. De ombudsman voor het waterschap
+#### § 3. De ombudscommissie voor het waterschap
+#### § 4. De gezamenlijke ombudsman en de gezamenlijke ombudscommissie
 ### Hoofdstuk VII. Afdelingen
 ### Hoofdstuk VIII. De secretaris
 ## Titel III. De bevoegdheid van het waterschapsbestuur
