@@ -1,6 +1,0 @@
-# Artikel 27a
-1. Indien op het tijdstip waarop artikel 25 in werking treedt geen plan op grond van de Wet op de bejaardenoorden is vastgesteld voor de periode tot 1 januari 2001, wordt zodanig plan zo spoedig mogelijk vastgesteld met toepassing van de daarop betrekking hebbende artikelen van de Wet op de bejaardenoorden.
-2. Voor zover geen plan is vastgesteld, zijn de artikelen 4, 5, 8, 9 en 10 van overeenkomstige toepassing, met dien verstande dat, onverminderd de op grond van de Wet op de bejaardenoorden ten aanzien van een verzorgingshuis genomen besluiten:
-a. de verzorgingshuizen ten behoeve waarvan onmiddellijk voor het in het eerste lid bedoelde tijdstip subsidie werd verleend op grond van de Wet op de bejaardenoorden, gelden als opgenomen in een plan;
-b. de toegestane capaciteit van een verzorgingshuis onmiddellijk voor het in het eerste lid bedoelde tijdstip geldt als de in een plan opgenomen capaciteit;
-c. de omvang van andere activiteiten dan het verlenen van zorg, bestaande uit duurzaam verblijf en verzorging in een verzorgingshuis, welke onmiddellijk voor het in het eerste lid bedoelde tijdstip voor subsidie op grond van de Wet op de bejaardenoorden in aanmerking werd gebracht, geldt als de in een plan opgenomen omvang van activiteiten.

@@ -1,2 +1,0 @@
-# Artikel 2o
-Het College bouw en het College sanering verstrekken desgevraagd aan elkaar en aan het College voor zorgverzekeringen, genoemd in artikel 1a van de Ziekenfondswet, het College van toezicht op de zorgverzekeringen, genoemd in artikel 1u van de Ziekenfondswet, en het College tarieven gezondheidszorg, bedoeld in de Wet tarieven gezondheidszorg, de voor de uitoefening van hun taak benodigde inlichtingen. De bedoelde colleges kunnen inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.

@@ -1,3 +1,0 @@
-# Artikel 2k
-1. Een besluit van het College bouw kan bij koninklijk besluit worden vernietigd.
-2. Van een besluit tot vernietiging wordt mededeling gedaan door plaatsing in de Staatscourant.

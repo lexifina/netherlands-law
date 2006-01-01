@@ -1,2 +1,0 @@
-# Artikel 2e
-Het College bouw zendt jaarlijks voor 1 oktober aan Onze Minister een begroting van zijn beheerskosten voor het volgende kalenderjaar, alsmede een meerjarenraming. De begroting en de meerjarenraming behoeven de instemming van Onze Minister.
