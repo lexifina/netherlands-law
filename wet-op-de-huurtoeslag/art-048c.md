@@ -1,2 +1,2 @@
 # Artikel 48c
-De Belastingdienst/Toeslagen verstrekt de voor de uitvoering ten behoeve van het doen van uitkeringen uit een bij verordening op basis van artikel 108 van de Gemeentewet ingesteld gemeentelijk woonlastenfonds benodigde gegevens behoudens het bepaalde in artikel 28, tweede lid, uitsluitend ten behoeve van dat woonlastenfonds.
+De Belastingdienst/Toeslagen verstrekt op verzoek aan burgemeester en wethouders de voor de uitvoering ten behoeve van het doen van uitkeringen uit een bij verordening op basis van artikel 108 van de Gemeentewet ingesteld gemeentelijk woonlastenfonds benodigde gegevens behoudens het bepaalde in artikel 38a van de Algemene wet inkomensafhankelijke regelingen, uitsluitend ten behoeve van dat woonlastenfonds.
