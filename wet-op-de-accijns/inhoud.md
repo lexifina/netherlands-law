@@ -25,6 +25,7 @@
 ## Hoofdstuk V. Vrijstellingen en teruggaven
 ### Afdeling 1. Vrijstellingen
 ### Afdeling 2. Teruggaven
+## Hoofdstuk Va. Bijzondere regeling voor biobrandstoffen
 ## Hoofdstuk VI. Bijzondere bepalingen
 ### Afdeling 1. Accijnszegels
 ### Afdeling 2. Controlebepalingen
