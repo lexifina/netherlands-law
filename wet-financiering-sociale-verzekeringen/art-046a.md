@@ -1,0 +1,3 @@
+# Artikel 46a. Vrijstelling premie eigenrisicodrager WGA-uitkering
+1. De eigenrisicodrager met betrekking tot de WGA uitkering, bedoeld in artikel 40, eerste lid, onderdeel c, is over het loon van de tot hem in dienstbetrekking staande werknemers de gedifferentieerde premie, bedoeld in artikel 38, en over de door hem te betalen WGA uitkeringen de premie ten behoeve van de Werkhervattingskas, bedoeld in artikel 38a, niet verschuldigd.
+2. De startende werkgever, bedoeld in artikel 40, negende lid, is in afwachting van de door de inspecteur te nemen beslissing op aanvraag, bedoeld in artikel 40, eerste lid, onderdeel c, over het loon van de tot hem in dienstbetrekking staande werknemers de gedifferentieerde premie, bedoeld in artikel 38, niet verschuldigd.
