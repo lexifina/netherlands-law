@@ -1,5 +1,5 @@
 # Artikel 1c
-1. De rechtspersoon waartoe het ingevolge artikel 1b aangewezen bestuursorgaan behoort, is een door Onze Minister van Binnenlandse Zaken vast te stellen vergoeding verschuldigd ter dekking van de kosten die zijn verbonden aan het beschikbaarstellen van de klachtvoorziening bij de Nationale ombudsman aan het desbetreffende bestuursorgaan.
+1. Provincies, gemeenten, waterschappen en gemeenschappelijke regelingen als bedoeld in artikel 1a, eerste lid, onder b, zijn een vergoeding verschuldigd ter dekking van de kosten die zijn verbonden aan de behandeling van verzoekschriften ten aanzien van hun bestuursorganen door de ombudsman. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties stelt de vergoeding vast.
 2. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent:
 a. de berekening van de te betalen vergoeding;
 b. de wijze van betaling van de verschuldigde vergoeding;
