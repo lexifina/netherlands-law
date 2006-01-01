@@ -1,6 +1,0 @@
-# Tekst
-De HR heeft in het arrest van 23 mei 1990, BNB 1990/204, uitgesproken dat voor de heffing van kapitaalsbelasting een 100%-pakket aandelen onder omstandigheden kan worden aangemerkt als een 'zelfstandig onderdeel van een onderneming'.
-In dit arrest heeft de HR tevens enige prejudiciële vragen gesteld aan het Hof van Justitie van de Europese Gemeenschappen. Bij arrest van 13 december 1991, PW 20 034, heeft dit Hof beslist dat voor de heffing van kapitaalsbelasting de inbreng van een (al dan niet 100%-) pakket aandelen niet is aan te merken als de inbreng van een 'tak van bedrijvigheid'. Daarna heeft de HR op 29 april 1992, BNB 1992/365*, met toepassing van artikel 35, lid 4 (oud) WBR de verschuldigde kapitaalsbelasting vastgesteld.
-Gezien de omstandigheden kan ik me er mee verenigen dat ook thans de inbreng van een 100%-pakket aandelen wordt aangemerkt als de verwerving van een zelfstandig onderdeel van een onderneming als bedoeld in artikel 37, lid 2, onderdeel b WBR, mits voldaan is aan de volgende voorwaarden:
-1. het inbrengende lichaam dient een onderneming in materiële zin te drijven;
-2. het door het 100%-pakket vertegenwoordigde dient, gelet op de doelstelling en de activiteiten van de deelneming, als organisatie van kapitaal en arbeid een zodanige zelfstandigheid te bezitten dat het naar zijn aard een onderneming kan vormen.
