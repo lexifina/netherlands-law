@@ -11,5 +11,6 @@ b. een pleegkind verstaan een kind dat als een eigen kind wordt onderhouden en o
 6. Voor de toepassing van dit artikel en van artikel 17, onderdeel b, onder 1°, wordt
 a. de persoon, bedoeld in artikel 7, geacht als werknemer in een dienstbetrekking in de zin van deze wet te staan;
 b. niet als loon beschouwd een uitkering op grond van deze wet, met uitzondering van een uitkering op grond van hoofdstuk IV van deze wet, een uitkering op grond van hoofdstuk 7 van de Wet werk en inkomen naar arbeidsvermogen, met uitzondering van een uitkering aan de persoon die slechts in staat is om met arbeid ten hoogste 20% te verdienen van het maatmaninkomen, bedoeld in artikel 1 van laatstgenoemde wet, alsmede een uitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering, berekend naar een arbeidsongeschiktheid van minder dan 80%.
-c. het aantal dagen, waarover loon wordt ontvangen vastgesteld overeenkomstig artikel 9, vijfde en zesde lid, van de Coördinatiewet Sociale Verzekering.
-7. Bij algemene maatregel van bestuur kunnen regels worden gesteld op grond waarvan voor het bepalen van het aantal van 52 dagen, bedoeld in artikel 17, onderdeel b, onder 1°, dagen waarover, anders dan bedoeld in het vijfde lid, geen loon is ontvangen worden gelijkgesteld met dagen, waarover loon is ontvangen.
+7. Bij algemene maatregel van bestuur kunnen regels worden gesteld:
+a. ter vaststelling van het aantal dagen waarover loon is ontvangen, bedoeld in artikel 17, onderdeel b, onder 1°;
+b. op grond waarvan voor het bepalen van het aantal van 52 dagen, bedoeld in artikel 17, onderdeel b, onder 1°, dagen waarover, anders dan bedoeld in het vijfde lid, geen loon is ontvangen, worden gelijkgesteld met dagen waarover loon is ontvangen.

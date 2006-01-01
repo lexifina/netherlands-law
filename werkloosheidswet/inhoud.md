@@ -23,13 +23,10 @@
 ## Hoofdstuk IV. Overneming van uit de dienstbetrekking voortvloeiende verplichtingen bij onmacht van de werkgever te betalen
 ## Hoofdstuk V. Vervallen.
 ## Hoofdstuk VI. Reïntegratiemaatregelen
-## Hoofdstuk VII. Financiering
-### § 1. Het Algemeen Werkloosheidsfonds en de wachtgeldfondsen
-### § 2. Het Uitvoeringsfonds voor de overheid
-### § 3. Sectorindeling
+## Hoofdstuk VII. Verhaal
 ## Hoofdstuk VIII. De uitvoeringsorganisatie
 ## Hoofdstuk IX. Bepalingen van procedurele aard
-## Hoofdstuk X. Bezwaar, administratief beroep en beroep bij de Centrale Raad van Beroep
+## Hoofdstuk X. Bepalingen in verband met de Algemene wet bestuursrecht en beroep in cassatie
 ## Hoofdstuk XA. Experimenten
 ## Hoofdstuk XB. Overgangsbepalingen
 ## Hoofdstuk XI. Straf- en slotbepalingen
