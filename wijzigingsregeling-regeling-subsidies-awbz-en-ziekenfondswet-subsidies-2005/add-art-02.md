@@ -1,2 +1,0 @@
-# Artikel II
-Aan ingevolge de Ziekenfondswet of Algemene Wet Bijzondere Ziektekosten toegelaten uitvoeringsorganen wordt tot uiterlijk 1 januari 2006 ambtshalve subsidie verleend die bestemd is voor het verlenen van vergoedingen voor voortgezet verblijf van hun verzekerden in een ziekenhuis die geen toelating heeft voor het verlenen van zorg als bedoeld in artikel 4 tot en met 9 van het Besluit zorgaanspraken AWBZ, met toepassing van paragraaf 2.3.1 van de Regeling subsidies AWBZ en Ziekenfondswet, zoals de paragraaf op 31 december 2004 luidde.
