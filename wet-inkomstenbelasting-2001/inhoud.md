@@ -78,4 +78,5 @@
 ## Hoofdstuk 10. Aanvullende regelingen
 ### Afdeling 10.1. Indexering
 ### Afdeling 10.2. Overige aanvullende regelingen
+## Hoofdstuk 10A. Overgangsrecht ten gevolge van wijzigingswetten
 ## Hoofdstuk 11. Slotbepalingen
