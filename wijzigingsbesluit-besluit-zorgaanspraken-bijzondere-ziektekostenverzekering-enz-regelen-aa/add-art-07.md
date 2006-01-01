@@ -1,2 +1,0 @@
-# Artikel VII
-De verzekerde die op 31 december 2000 in het genot is van zorg door een verpleeginrichting als bedoeld in het Besluit zorgaanspraken bijzondere ziektekostenverzekering of een verzorgingshuis als bedoeld in de Overgangswet verzorgingshuizen en ten aanzien van wie een indicatiebesluit op grond van de artikelen 9a en 9b van de Algemene Wet Bijzondere Ziektekosten is afgegeven, waaruit blijkt dat hij op die zorg is aangewezen, heeft gedurende de geldigheidsduur van het indicatiebesluit aanspraak op voortzetting van deze zorg volgens de geldende voorschriften.

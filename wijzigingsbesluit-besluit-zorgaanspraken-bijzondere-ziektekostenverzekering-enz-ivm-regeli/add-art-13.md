@@ -1,3 +1,0 @@
-# ARTIKEL XIII
-1. Een indicatieorgaan als bedoeld in artikel 9a van de Algemene Wet Bijzondere Ziektekosten kan, voor zover het orgaan niet in staat is aanvragen zelf te behandelen, uiterlijk tot 1 januari 1998, aan ingevolge die wet toegelaten instellingen die zorg verlenen als bedoeld in artikel 15 van het Besluit zorgaanspraken bijzondere ziektekostenverzekering, mandaat verlenen met betrekking tot het vaststellen van indicatiebeoordelingen.
-2. Het indicatieorgaan en de gemandateerde kunnen tot uiterlijk 1 januari 1998 afwijken van hetgeen in de artikelen 2, zesde lid, en 8, eerste lid, van het Besluit indicatiebeoordeling verpleging en verzorging is bepaald ten aanzien van de werkwijze.

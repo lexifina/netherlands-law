@@ -1,2 +1,0 @@
-# Artikel X
-Voor zover de bepalingen van de fase 2, respectievelijk de fase 3 van de Wet overheidspersoneel onder de werknemersverzekeringen die betrekking hebben op de Ziektewet op hetzelfde tijdstip van kracht worden als de bepalingen van de fase 2, respectievelijk de fase 3 van die wet die betrekking hebben op de Werkloosheidswet, worden van dit besluit eerst de artikelen II en III en vervolgens de artikelen VI en VII toegepast respectievelijk worden van dit besluit eerst de artikelen IV en V en vervolgens de artikelen VIII en IX toegepast.

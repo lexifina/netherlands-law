@@ -1,2 +1,0 @@
-# Artikel II
-De in artikel 15d van het Aanwijzingsbesluit verplicht-verzekerden Ziekenfondswet bedoelde kennisgeving, dient door de betrokkene te worden gedaan aan een ziekenfonds, werkend in de gemeente of in het deel van de gemeente waar hij woont, dan wel aan het in het Besluit aanwijzing ziekenfondsen Ziekenfondswet 1980 (Stcrt. 225) voor de daar bedoelde personen aangewezen ziekenfonds, binnen vier maanden, te rekenen vanaf de dag van inwerkingtreding van dit besluit.
