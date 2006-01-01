@@ -1,0 +1,2 @@
+# Artikel IV
+Deze regeling is van toepassing op verzoeken om rechtsbijstand ten aanzien waarvan een beslissing wordt genomen op of na de datum van inwerkingtreding van dit besluit.
