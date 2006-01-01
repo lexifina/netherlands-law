@@ -15,7 +15,6 @@
 ## Hoofdstuk 3A. Reïntegratie-instrumenten
 ## Hoofdstuk 4. De invloed van de verzekering op het burgerlijk recht
 ## Hoofdstuk 5. Het verstrekken van inlichtingen
-## Hoofdstuk 6. Financiering
 ## Hoofdstuk 7. Uitvoering
 ## Hoofdstuk 9. Bepalingen in verband met de Algemene wet bestuursrecht en het beroep in cassatie
 ## Hoofdstuk 9A. Overgangsbepalingen
