@@ -1,6 +1,6 @@
 # Artikel 13k
 1. Indien het vermogen van een rechtspersoon waarin de belastingplichtige een deelneming heeft, in het kader van een fusie onder algemene titel overgaat, wordt de in artikel 3.57, eerste lid, van de Wet inkomstenbelasting 2001 bedoelde vervreemding van aandelen en schuldvorderingen geacht te hebben plaatsgevonden aan een met de belastingplichtige en de verdwijnende rechtspersoon verbonden lichaam.
-2. Het voor de aandelen in de verkrijgende rechtspersoon opgeofferde bedrag als bedoeld in de artikelen 13ca en 13d, wordt niet hoger gesteld dan het bedrag dat is opgeofferd voor de aandelen in de verdwijnende rechtspersoon.
+2. Het voor de aandelen in de verkrijgende rechtspersoon opgeofferde bedrag, bedoeld in artikel 13d, wordt niet hoger gesteld dan het bedrag dat is opgeofferd voor de aandelen in de verdwijnende rechtspersoon.
 3. Een geldlening waarop artikel 10a, tweede lid, van toepassing is en die verband houdt met de aandelen die de belastingplichtige in de verdwijnende rechtspersoon heeft, wordt geacht verband te houden met de aandelen die de belastingplichtige direct na de fusie in de verkrijgende rechtspersoon heeft.
 4. Indien het voordeel bij de fusie ingevolge artikel 3.57, tweede lid, van de Wet inkomstenbelasting 2001, niet in aanmerking wordt genomen:
 a. treden de in het kader van de fusie verkregen aandelen ingeval deze een deelneming vormen, in de plaats van de aandelen die de belastingplichtige ten tijde van de fusie in de verdwijnende rechtspersoon heeft;
