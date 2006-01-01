@@ -1,0 +1,3 @@
+# Artikel 126uh
+1. De officier van justitie kan, indien het belang van het onderzoek dit vordert, bij of terstond na de toepassing van artikel 126ud, eerste lid, 126ue, eerste of derde lid, of 126uf, eerste lid, degene van wie redelijkerwijs kan worden vermoed dat hij kennis draagt van de wijze van versleuteling van de in deze artikelen bedoelde gegevens, bevelen medewerking te verlenen aan het ontsleutelen van de gegevens door de versleuteling ongedaan te maken, dan wel deze kennis ter beschikking te stellen.
+2. Het bevel wordt niet gegeven aan de verdachte. Artikel 96a, derde lid, is van overeenkomstige toepassing.

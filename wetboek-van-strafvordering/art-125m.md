@@ -1,4 +1,8 @@
 # Artikel 125m
-1. Een bevel als bedoeld in de artikelen 125i, eerste lid, of 125k wordt niet gegeven aan de verdachte.
-2. De personen, bedoeld in artikel 96a, derde lid, kunnen zich verschonen van de nakoming van dit bevel.
-3. Leidt een doorzoeking of de toepassing van één van de bevoegdheden genoemd in deze Afdeling, tot vastlegging van gegevens opgeslagen door middel van een geautomatiseerd werk, dan wordt aan de beheerder van dat geautomatiseerd werk een opgave van deze gegevens gedaan.
+1. Leidt een doorzoeking tot vastlegging van gegevens, dan wordt zo spoedig mogelijk aan de betrokkenen schriftelijk mededeling gedaan van deze vastlegging en van de aard van de vastgelegde gegevens. De mededeling blijft achterwege, indien uitreiking van de mededeling redelijkerwijs niet mogelijk is.
+2. De officier van justitie dan wel, indien de rechter-commissaris de bevoegdheid tot doorzoeking heeft toegepast, de rechter-commissaris kan bepalen dat de in het eerste lid bedoelde mededeling aan een betrokkene wordt uitgesteld zolang het belang van het onderzoek zich tegen mededeling aan deze betrokkene verzet.
+3. Als betrokkene in de zin van dit artikel worden aangemerkt:
+a. de verdachte;
+b. de verantwoordelijke voor de gegevens;
+c. de rechthebbende van een plaats waar een doorzoeking heeft plaatsgevonden.
+4. Indien de betrokkene de verdachte is, kan mededeling achterwege blijven, indien hij door opneming in de processtukken van de vastlegging van gegevens en van de aard van de vastgelegde gegevens op de hoogte komt.

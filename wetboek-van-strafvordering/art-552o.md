@@ -1,6 +1,6 @@
 # Artikel 552o
 1. Voor zover de in artikel 552n, derde lid, bedoelde vordering is gedaan met het oog op de voldoening aan een voor inwilliging vatbaar en op een verdrag gegrond verzoek van een buitenlandse rechterlijke autoriteit, heeft zij dezelfde rechtsgevolgen als een vordering tot het instellen van een gerechtelijk vooronderzoek, zulks voor wat betreft:
-a. de bevoegdheden van de rechter-commissaris ten aanzien van de door hem te horen verdachten, getuigen en deskundigen, alsmede die tot het bevelen van de uitlevering of overbrenging van stukken van overtuiging, het nemen van maatregelen in het belang van het onderzoek, het laten verrichten van een DNA-onderzoek alsmede het daartoe bevelen van het afnemen van celmateriaal, het betreden van plaatsen, het doorzoeken van plaatsen, het in beslag nemen van stukken van overtuiging en het onderzoeken van gegevens in geautomatiseerde werken;
+a. de bevoegdheden van de rechter-commissaris ten aanzien van de door hem te horen verdachten, getuigen en deskundigen, alsmede die tot het bevelen van de uitlevering of overbrenging van stukken van overtuiging, het nemen van maatregelen in het belang van het onderzoek, het laten verrichten van een DNA-onderzoek alsmede het daartoe bevelen van het afnemen van celmateriaal, het betreden van plaatsen, het doorzoeken van plaatsen en het in beslag nemen van stukken van overtuiging;
 b. de bevoegdheden van de officier van justitie;
 c. de rechten en verplichtingen van de door de rechter-commissaris te horen personen;
 d. de bijstand van een raadsman;
