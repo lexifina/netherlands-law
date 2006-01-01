@@ -1,0 +1,2 @@
+# Artikel 6a
+Een pensioenfonds of een verzekeraar is bevoegd het deel van de aanspraak op het pensioen dat op het tijdstip onmiddellijk voorafgaand aan het tijdstip van ingang van het pensioen uitgaat boven de begrenzingen bedoeld in de artikelen 18a, zevende lid, artikel 18b, zevende lid, 18c, vijfde lid, 18d, 18e, 18f en 38a van de Wet op de loonbelasting 1964, af te kopen en de afkoopsom aan de rechthebbende ter hand te stellen.
