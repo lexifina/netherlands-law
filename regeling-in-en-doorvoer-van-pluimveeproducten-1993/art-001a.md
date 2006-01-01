@@ -1,2 +1,0 @@
-# Artikel 1a
-Deze regeling is niet van toepassing op vleesproducten als bedoeld in artikel 1 van verordening (EG) nr. 745/2004 van de Commissie van de Europese Gemeenschappen van 16 april 2004 tot vaststelling van maatregelen betreffende de invoer van producten van dierlijke oorsprong voor persoonlijke consumptie (PbEU L 122), voor zover door reizigers in de Europese Gemeenschap binnengebracht of aan particulieren in de Europese Gemeenschap toegezonden.
