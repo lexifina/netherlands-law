@@ -1,0 +1,2 @@
+# Artikel XIX
+Artikel 3.52, tweede lid, van de Wet inkomstenbelasting 2001 is niet van toepassing op een op grond van artikel 3.52, eerste lid, onderdeel a, onder 3°, van die wet vastgestelde ministeriële regeling die voorziet in wijziging van de willekeurige afschrijving op zeeschepen in verband met communautaire richtsnoeren betreffende staatssteun voor het zeevervoer. In afwijking van artikel 3.52, eerste lid, onderdeel a, onder 3°, van de Wet inkomstenbelasting 2001 vindt deze wijziging plaats na overleg met onze Minister van Verkeer en Waterstaat.
