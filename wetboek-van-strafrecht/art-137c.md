@@ -1,3 +1,3 @@
 # Artikel 137c
-1. Hij die zich in het openbaar, mondeling of bij geschrift of afbeelding, opzettelijk beledigend uitlaat over een groep mensen wegens hun ras, hun godsdienst of levensovertuiging of hun hetero- of homoseksuele gerichtheid, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
+1. Hij die zich in het openbaar, mondeling of bij geschrift of afbeelding, opzettelijk beledigend uitlaat over een groep mensen wegens hun ras, hun godsdienst of levensovertuiging, hun hetero- of homoseksuele gerichtheid of hun lichamelijke, psychische of verstandelijke handicap, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 2. Indien het feit wordt gepleegd door een persoon die daarvan een beroep of gewoonte maakt of door twee of meer verenigde personen wordt gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie opgelegd.
