@@ -1,6 +1,0 @@
-# Artikel 11a
-1. Bij de vaststelling van het dagloon voor een vakantiewerker wordt voor de toepassing van dit artikel verstaan onder:
-a. vakantiewerker: degene, wiens voor het verrichten van arbeid in het bedrijfs- en beroepsleven beschikbare tijd in belangrijke mate in beslag wordt genomen door of in verband met het volgen van onderwijs of een beroepsopleiding en die de arbeid, uit hoofde waarvan hij werknemer is, verricht in een tijdvak, waarin dat onderwijs of die beroepsopleiding voor hem door vakantie wordt onderbroken.
-b. periode: het aaneengesloten tijdvak, gedurende hetwelk de vakantiewerker in elk geval arbeid zou hebben verricht, indien hij niet gedurende dat tijdvak ongeschikt tot werken zou zijn geworden.
-2. Het dagloon van een vakantiewerker wordt vastgesteld met toepassing van het bepaalde in de voorgaande artikelen met uitzondering van de artikelen 8, eerste lid, onder c en d, en 8a.
-3. In afwijking van het bepaalde in het tweede lid wordt het dagloon van een vakantiewerker over dagen, gelegen na afloop van de periode vastgesteld op het loon, dat hij gemiddeld per dag heeft genoten in de 52 kalender- of loonweken aan het ontstaan van zijn ongeschiktheid tot werken onmiddellijk voorafgaande. Het bepaalde in artikel 3, eerste lid, onder b, is van overeenkomstige toepassing.
