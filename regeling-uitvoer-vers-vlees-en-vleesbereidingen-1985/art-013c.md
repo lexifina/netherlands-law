@@ -1,4 +1,0 @@
-# Artikel 13c
-Deze regeling is niet van toepassing op:
-a. gehakt, vlees in stukken van minder dan 100 gram en vleesbereidingen als bedoeld in Richtlijn nr. 88/657/EEG van de Raad van de Europese Gemeenschappen van 14 december 1988 tot vaststelling van de eisen voor de produktie van en het handelsverkeer in gehakt, vlees in stukken van minder dan 100 gram en vleesbereidingen en tot wijziging van de Richtlijnen 64/433/EEG, 71/118/EEG en 72/462/EEG (PbEG L 382), en
-b. gehakt vlees en vleesbereidingen als bedoeld in Richtlijn nr. 94/65/EG van de Raad van de Europese Unie van 14 december 1994 tot vaststelling van voorschriften voor de produktie en het in de handel brengen van gehakt vlees en vleesbereidingen (PbEG L 368), niet zijnde gehakt vlees als bedoeld in artikel 9.15, tweede lid, van de Regeling keuring en handel dierlijke produkten en met inachtneming van, voor zover van toepassing, artikel 9.15, vierde lid, van laatstgenoemde regeling.

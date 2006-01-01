@@ -1,3 +1,0 @@
-# Artikel 11a
-1. Vers vlees afkomstig van varkens wordt voorzien van het in artikel 6, eerste lid, onderdeel b, van richtlijn 64/433/EEG bedoelde merk, tenzij naar het oordeel van de ambtenaar redelijkerwijs kan worden aangenomen dat het vlees niet afkomstig is van cryptorchide, hermafrodiete of niet-gecastreerde mannelijke varkens.
-2. Wanneer vers vlees ten gevolge van het uitsnijden geen merk meer draagt wordt het vlees voorzien van het in artikel 6, eerste lid, onderdeel b, van richtlijn 64/433/EEG bedoelde merk, tenzij naar het oordeel van de ambtenaar redelijkerwijs kan worden aangenomen dat het vlees niet afkomstig is van cryptorchide, hermafrodiete of niet-gecastreerde mannelijke varkens.
