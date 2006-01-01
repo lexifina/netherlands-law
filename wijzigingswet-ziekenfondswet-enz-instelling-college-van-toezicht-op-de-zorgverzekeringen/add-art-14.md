@@ -1,3 +1,0 @@
-# Artikel XIV
-1. De vaststelling door het College van toezicht op de zorgverzekeringen van een bestuursreglement als bedoeld in artikel 1c, onderscheidenlijk een werkprogramma als bedoeld in artikel 1e en een begroting als bedoeld in artikel 1f van de Ziekenfondswet, vindt plaats zo spoedig mogelijk onderscheidenlijk vindt voor het eerst plaats ten aanzien van het kalenderjaar na dat waarin deze wet in het Staatsblad is geplaatst.
-2. Tot het tijdstip waarop Onze Minister het bestuursreglement goedkeurt gelden voor het College van toezicht op de zorgverzekeringen de door het College voor zorgverzekeringen in het bestuursreglement gestelde regels ten aanzien van de Commissie toezicht uitvoeringsorganisatie.

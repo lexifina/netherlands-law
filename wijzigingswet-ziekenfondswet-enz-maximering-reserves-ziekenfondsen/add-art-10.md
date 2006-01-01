@@ -1,3 +1,0 @@
-# Artikel X
-1. De artikelen I, onderdelen A, B, C, D, E, F, voor zover het betreft de wijzigingen van artikel 43b, eerste en tweede lid, G, voor zover het betreft artikel 43c, III, IV, V, VI, VII, VIII en IX treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst. De artikelen IV, V, VII en VIII, met uitzondering van onderdeel C, werken terug tot en met 1 juli 1999.
-2. Artikel I, onderdeel F, voor zover het betreft artikel 43b, derde, vierde en vijfde lid, en onderdeel G, voor zover het betreft artikel 43d, en artikel II treden in werking met ingang van 1 januari van het kalenderjaar na dat waarin de overige onderdelen van deze wet in werking zijn getreden.

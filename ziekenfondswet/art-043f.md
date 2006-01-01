@@ -1,4 +1,0 @@
-# Artikel 43f
-1. Een ziekenfonds zendt voor 1 maart aan het College zorgverzekeringen en aan het College toezicht een financieel verslag over het voorafgaande kalenderjaar, dat vergezeld gaat van een verklaring omtrent de getrouwheid en rechtmatigheid, afgegeven door een accountant als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek, alsmede van een rapport van de accountant over de ordelijkheid en controleerbaarheid van het gevoerde financiële beheer.
-2. In het financieel verslag wordt een onderscheid gemaakt tussen de beheerskosten en de kosten van verstrekkingen en vergoedingen.
-3. Op aanvraag van een uitvoeringsorgaan is het College toezicht bevoegd voor in zijn besluit aan te wijzen baten en lasten te besluiten dat het ontbreken van een overeenkomst als bedoeld in artikel 44, geen gevolgen heeft voor de inhoud van de verklaring, bedoeld in het eerste lid.

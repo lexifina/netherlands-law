@@ -1,3 +1,0 @@
-# Artikel 2a
-1. Van de verzekering ingevolge artikel 3, eerste lid, onder a, b en d, van de Ziekenfondswet is uitgezonderd degene wiens vaste, naar tijdsruimte en in geld vastgestelde inkomen uit een of meer rechtsverhoudingen die afzonderlijk bezien rechtsgrond zouden vormen voor verzekering ingevolge artikel 3, eerste lid, onder b of d, van de Ziekenfondswet, in voorkomend geval vermeerderd met het loon, bedoeld in artikel 3, vierde en vijfde lid, van de Ziekenfondswet, meer bedraagt dan het in artikel 3, eerste lid, onder a, van de Ziekenfondswet bedoelde bedrag.
-2. Voor de toepassing van het eerste lid is artikel 3, vierde lid, onder b, c, d en e en e, van de Ziekenfondswet, van overeenkomstige toepassing.

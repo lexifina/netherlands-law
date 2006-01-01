@@ -1,2 +1,0 @@
-# Artikel 18a
-Onverminderd artikel 2a omvat de vergoeding van de kosten van hulpmiddelen niet de kosten van hulpmiddelen, op het verkrijgen waarvan verzekerden in gevolge de Ziekenfondswet geen aanspraak hebben. In gevallen waarin verzekerden in de zin van de Ziekenfondswet voor het verkrijgen van hulpmiddelen op grond van artikel 15 van het Verstrekkingenbesluit ziekenfondsverzekering bijdragen in de kosten daarvan, blijft ten aanzien van dat hulpmiddel een bedrag, gelijk aan die bijdrage, buiten de vergoeding op grond van dit besluit.

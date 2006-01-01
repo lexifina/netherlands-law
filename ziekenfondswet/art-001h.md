@@ -1,3 +1,0 @@
-# Artikel 1h
-1. Het College zorgverzekeringen brengt jaarlijks voor 1 juli aan Onze Minister een financieel verslag over zijn beheerskosten over het afgelopen kalenderjaar uit, dat vergezeld gaat van een verklaring omtrent de getrouwheid en rechtmatigheid van de ontvangsten en uitgaven, afgegeven door een accountant als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek, alsmede van een rapport van de accountant over de ordelijkheid en controleerbaarheid van het gevoerde financiële beheer.
-2. Het financieel verslag behoeft de instemming van Onze Minister. Onze Minister zendt het financieel verslag aan beide kamers der Staten-Generaal. Het College zorgverzekeringen stelt het financieel verslag algemeen verkrijgbaar.

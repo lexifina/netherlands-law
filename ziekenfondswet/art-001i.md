@@ -1,2 +1,0 @@
-# Artikel 1i
-Bij ministeriële regeling kunnen regels worden gesteld over de inrichting van de begroting, het financieel verslag en aandachtspunten voor de accountantscontrole.

@@ -1,3 +1,0 @@
-# Artikel XV
-1. Voor zover de artikelen X tot en met XII daarin niet voorzien, stelt Onze Minister regels met betrekking tot de gevolgen van de inwerkingtreding van deze wet. Van het vaststellen van deze regels wordt kennis gegeven aan de beide kamers der Staten-Generaal.
-2. De regels, bedoeld in het eerste lid, gelden tot en met 31 december van het kalenderjaar na dat waarin zij in werking zijn getreden. Indien voor dat tijdstip een voorstel van wet tot regeling van de betrokken onderwerpen bij de Staten-Generaal is ingediend, vervalt de regeling op het tijdstip waarop een van de beide kamers der Staten-Generaal besluit het wetsvoorstel niet aan te nemen of op het tijdstip waarop het wetsvoorstel kracht van wet krijgt.

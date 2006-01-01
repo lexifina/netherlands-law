@@ -1,4 +1,0 @@
-# Artikel 2d
-1. Indien de verzekerde slechts gedurende een deel van het kalenderjaar waarop de uitkering betrekking heeft, bij een ziekenfonds was ingeschreven, wordt het bedrag, bedoeld in artikel 2b, gedeeld door het aantal dagen van dat kalenderjaar en vermenigvuldigd met het aantal dagen dat de verzekerde bij dat ziekenfonds was ingeschreven.
-2. Indien voor de verzekerde slechts een deel van het kalenderjaar waarop de uitkering betrekking heeft, nominale premie verschuldigd was, wordt het bedrag, bedoeld in artikel 2b, gedeeld door het aantal dagen van dat kalenderjaar en vermenigvuldigd met het aantal dagen waarover nominale premie werd betaald.
-3. Indien het eerste of het tweede lid van toepassing is, worden voor de berekening van de uitkering slechts in aanmerking genomen de kosten van de zorg waarvan de verzekerde gebruik heeft gemaakt in het desbetreffende deel van het kalenderjaar.

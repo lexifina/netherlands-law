@@ -1,2 +1,0 @@
-# Artikel 2a
-Waar ingevolge dit besluit voor de verzekering als voorwaarde wordt gesteld dat betrokkene zijn woonplaats hier te lande heeft, is deze voorwaarde niet van toepassing op degene die buiten het Rijk woont op het grondgebied van een staat waar hij hetzij krachtens verordening van de Raad van de Europese Gemeenschappen, hetzij krachtens een verdrag recht heeft op verstrekkingen, welke in beginsel worden verleend ten laste van de Algemene Kas bedoeld in artikel 1q van de Ziekenfondswet.

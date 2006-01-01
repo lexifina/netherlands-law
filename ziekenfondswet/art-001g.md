@@ -1,2 +1,0 @@
-# Artikel 1g
-Het College zorgverzekeringen zendt jaarlijks voor 1 juli aan Onze Minister een verslag van de werkzaamheden, het gevoerde beleid in het algemeen en de doelmatigheid en doeltreffendheid van zijn werkzaamheden en werkwijze in het bijzonder, alsmede gegevens omtrent de uitvoering van het werkprogramma in het afgelopen kalenderjaar. Onze Minister zendt het verslag aan beide kamers der Staten-Generaal. Het College zorgverzekeringen stelt het verslag algemeen verkrijgbaar.

@@ -1,3 +1,0 @@
-# Artikel 14c
-1. Voor de verzekering van verzekerden als bedoeld in artikel 1, onder ii, onderdelen 1 en 2, en jj, onderdeel 1, wordt een premie geheven tot het krachtens het eerste lid van artikel 15 van de Ziekenfondswet vastgestelde percentage van het loon dan wel van de uitkering, dat door de verzekerde is genoten in het tijdvak, waarover de betaling loopt.
-2. Artikel 15, tweede lid, alsmede de artikelen 15, derde tot en met vijfde lid, en 16 van de Ziekenfondswet zijn van overeenkomstige toepassing. In het geval een uitkering wordt genoten, wordt het orgaan dat de uitkering doet, als werkgever beschouwd en wordt de uitkering als loon aangemerkt.

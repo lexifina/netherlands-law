@@ -1,4 +1,0 @@
-# Artikel 2c
-1. De uitkering waarop verzekerden ingevolge artikel 18a van de Ziekenfondswet aanspraak hebben, wordt uiterlijk op 31 maart van het kalenderjaar volgend op het kalenderjaar waarop de uitkering betrekking heeft uitgekeerd, door overmaking op de bankrekening van degene die de nominale premie heeft betaald, tenzij de verzekerde anders heeft aangegeven.
-2. Voor de toepassing van artikel 18a, eerste lid, van de Ziekenfondswet wordt als kosten van de gebruikte zorg in aanmerking genomen het bedrag dat voor die zorg in rekening is gebracht.
-3. Indien blijkt dat zorg is gebruikt, met de kosten waarvan het ziekenfonds bij de berekening van de uitkering geen rekening kon houden, wordt de uitkering uiterlijk op 31 maart van het tweede kalenderjaar volgend op het kalenderjaar waarop de uitkering betrekking heeft, gecorrigeerd.

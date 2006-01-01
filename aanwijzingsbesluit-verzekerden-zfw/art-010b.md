@@ -1,3 +1,0 @@
-# Artikel 10b
-1. Voor de verzekering van verzekerden als bedoeld in artikel 1, onder k, geschiedt de procentuele premiebetaling door betaling ineens van een jaarlijks door Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid vast te stellen bedrag, welk bedrag gebaseerd is op de geschatte opbrengst aan procentuele premie van de betreffende categorie van verzekerden indien zij een loongerelateerde uitkering zouden hebben ontvangen.
-2. Als werkgever van de verzekerde, bedoeld in artikel 1, onder k, wordt beschouwd de werkgever bij wie de verzekerde op de dag voorafgaande aan de eindiging van zijn dienstbetrekking in dienstbetrekking stond.

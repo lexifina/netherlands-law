@@ -1,4 +1,0 @@
-# Artikel 83d
-1. Een ziekenfonds kan van hem, die, zonder daartoe gerechtigd te zijn, opzettelijk aanspraken als verzekerde bij hem doet gelden onderscheidenlijk deed gelden, alsmede van hem, die daaraan opzettelijk zijn medewerking verleent onderscheidenlijk heeft verleend, geheel of gedeeltelijk het bedrag vorderen van de verstrekkingen of van de vergoedingen die hem te veel of ten onrechte zijn verleend. Voorzover de geldswaarde van de in de eerste volzin bedoelde verstrekkingen niet vaststaat, kan deze worden vastgesteld op een geschat bedrag.
-2. Het besluit tot terugvordering levert een executoriale titel op in de zin van het Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering.
-3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld betreffende de in het eerste lid bedoelde terugvordering.
