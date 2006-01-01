@@ -11,11 +11,6 @@
 ### Afdeling 3. Tarief en vrijstellingen
 ### Afdeling 4. Wijze van heffing
 ### Afdeling 5. Bijzondere bepalingen
-## Hoofdstuk IV. Kapitaalsbelasting
-### Afdeling 1. Belastbaar feit
-### Afdeling 2. Maatstaf van heffing
-### Afdeling 3. Tarief en vrijstellingen
-### Afdeling 4. Wijze van heffing
 ## Hoofdstuk V. Beursbelasting
 ## Hoofdstuk VI. Algemene bepalingen
 ## Hoofdstuk VIA. Bijzondere bepalingen
