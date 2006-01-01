@@ -1,2 +1,0 @@
-# Artikel 5b
-Het conservatoir beslag en de versnelde invordering waarover hoofdstuk I, artikel 3, paragraaf 2, eerste lid, van de Leidraad Invordering 1990 handelt, worden uitgevoerd door de Belastingdienst vanaf het moment van terhandstelling van het dwangbevel door de ontvanger aan de ontvanger van de Belastingdienst. Voorafgaand aan de dwanginvorderingsfase kunnen handelingen ten behoeve van conservatoir beslag en versnelde invordering plaatsvinden.
