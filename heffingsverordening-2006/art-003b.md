@@ -1,0 +1,2 @@
+# Artikel 3b. (administratieheffing)
+Indien een heffingsplichtige gegevens die hem krachtens de Verordening Algemene Bepalingen Productschap Vis 2000 ten behoeve van de onderhavige verordening en/of bij of krachtens deze verordening zijn gevraagd, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, welke heffing in dat geval verhoogd met € 110,- in verband met administratiekosten.
