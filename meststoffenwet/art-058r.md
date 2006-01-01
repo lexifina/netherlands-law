@@ -1,7 +1,0 @@
-# Artikel 58r
-1. De registratie, bedoeld in artikel 58q, vindt niet plaats indien:
-a. de kennisgeving betrekking heeft op een grotere hoeveelheid fosfaat dan overeenkomt met het pluimveerecht van het bedrijf waarvan het afkomstig is;
-b. de kennisgeving betrekking heeft op het pluimveerecht van een bedrijf ten aanzien waarvan Onze Minister gebruik maakt van de in artikel 58e, eerste lid, bedoelde bevoegdheid;
-c. niet is voldaan aan artikel 58p;
-d. het formulier, bedoeld in artikel 58q, eerste lid, niet volledig en naar waarheid is ingevuld en door beide belanghebbenden is ondertekend.
-2. Indien na de registratie blijkt dat niet aan de in het eerste lid bedoelde voorwaarden voor registratie is voldaan, wordt de registratie door het Bureau Heffingen doorgehaald. Met terugwerkende kracht tot het tijdstip van de registratie vindt een vergroting plaats van het pluimveerecht van het bedrijf waarvan het pluimveerecht, of een gedeelte daarvan, afkomstig was met de hoeveelheid fosfaat waarop de kennisgeving betrekking had, althans voor zover de kennisgeving niet betrekking had op een grotere hoeveelheid fosfaat dan overeenkwam met het pluimveerecht van dat bedrijf, en vindt een verkleining plaats van het pluimveerecht van het bedrijf waarnaar het pluimveerecht, of een gedeelte daarvan, is overgegaan met eenzelfde hoeveelheid fosfaat, verminderd met 25% dan wel, in voorkomend geval, het percentage dat ingevolge de krachtens artikel 58t gestelde regels bij de overgang van toepassing was.

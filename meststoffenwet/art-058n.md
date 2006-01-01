@@ -1,3 +1,0 @@
-# Artikel 58n
-1. De belanghebbende doet de in de artikelen 58g, tweede en derde lid, 58i, vierde lid, 58j, eerste lid, 58k, eerste lid, en 58m bedoelde meldingen binnen zes weken na inwerkingtreding van artikel 58c bij het Bureau Heffingen, met gebruikmaking van een daartoe bestemd, door het Bureau Heffingen op verzoek van de belanghebbende ter beschikking gesteld formulier, dat overeenkomstig de op het formulier aangegeven wijze volledig en naar waarheid is ingevuld en door de belanghebbende is ondertekend.
-2. Bij gebreke van een overeenkomstig het eerste lid gedane melding treden de in de artikelen 58g, tweede en derde lid, 58i, vierde lid, 58j, eerste lid, 58k, eerste lid, en 58m bedoelde genoemde gevolgen van de melding niet in.
