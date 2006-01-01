@@ -1,2 +1,0 @@
-# Artikel IV. Overgangsbepaling Dagloonregels Invoeringswet stelselherziening sociale zekerheid
-Met uitzondering van artikel 14 en artikel 17, vijfde lid, aanhef en onderdeel b, van die regeling blijven de Dagloonregels Invoeringswet stelselherziening sociale zekerheid, zoals die regeling luidde op de dag voorafgaand aan de inwerkingtreding van deze regeling, van toepassing op de persoon wiens recht op uitkering op grond van de Werkloosheidswet is ontstaan voor die dag, met betrekking tot dat recht.

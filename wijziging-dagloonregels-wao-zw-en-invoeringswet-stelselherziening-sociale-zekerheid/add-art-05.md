@@ -1,2 +1,0 @@
-# Artikel V. Overgangsbepaling dagloonregels Ziektewet
-De regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 april 1967, nr. 61525 (Stcrt. 162), zoals die regeling luidde op de dag voorafgaand aan de inwerkingtreding van artikel II van deze regeling, blijft van toepassing op de persoon wiens recht op ziekengeld is ontstaan voor de datum van inwerkingtreding van dat artikel, met betrekking tot dat ziekengeld.

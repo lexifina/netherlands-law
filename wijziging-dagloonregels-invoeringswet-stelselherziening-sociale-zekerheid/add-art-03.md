@@ -1,2 +1,0 @@
-# Artikel III. Overgangsbepaling dagloonregels Wet op de arbeidsongeschiktheidsverzekering
-De regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 april 1967, nr. 61524 (Stcrt. 126), zoals die regeling luidde op de dag voorafgaand aan de inwerkingtreding van deze regeling, blijft van toepassing op de persoon wiens recht op arbeidsongeschiktheidsuitkering is ontstaan voor de datum van inwerkingtreding van deze regeling, met betrekking tot die arbeidsongeschiktheidsuitkering.
