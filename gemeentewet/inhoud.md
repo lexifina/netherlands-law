@@ -9,6 +9,11 @@
 #### Paragraaf 1. De gemeentelijke rekenkamer
 #### Paragraaf 2. De gemeenschappelijke rekenkamer
 ### Hoofdstuk IVb. De rekenkamerfunctie
+### Hoofdstuk IVc. De ombudsman
+#### Paragraaf 1. Algemene bepaling
+#### Paragraaf 2. De gemeentelijke ombudsman
+#### Paragraaf 3. De gemeentelijke ombudscommissie
+#### Paragraaf 4. De gezamenlijke ombudsman en de gezamenlijke ombudscommissie
 ### Hoofdstuk V. De commissies
 #### Paragraaf 1. Commissies
 #### Paragraaf 2. Deelgemeenten
