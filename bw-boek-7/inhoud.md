@@ -14,6 +14,7 @@
 #### Afdeling 10. Koop van vermogensrechten
 #### Afdeling 10A. Koop van rechten van gebruik in deeltijd van onroerende zaken
 #### Afdeling 12. Ruil
+### Titel 2. Financiëlezekerheidsovereenkomsten
 ### Titel 3. Schenking
 ### Titel 4. Huur
 #### Afdeling 1. Algemene bepalingen
