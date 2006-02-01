@@ -1,0 +1,2 @@
+# Artikel 6a
+Degene die zijn bemiddeling bij het veilen van vis verleent, stelt ten genoege van de minister ten behoeve van de Algemene Inspectiedienst van het ministerie van Landbouw, Natuur en Voedselkwaliteit de volgende voorzieningen ter beschikking; twee afsluitbare ruimtes in het gebouw waar het veilen van vis plaatsvindt, waarin een afsluitbare kast, bureaus, stoelen, telefoon en elektrische aansluitingen aanwezig zijn.
