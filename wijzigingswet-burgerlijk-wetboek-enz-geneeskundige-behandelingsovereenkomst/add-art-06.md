@@ -1,0 +1,4 @@
+# Artikel VI
+Op het in artikel V, eerste lid, bedoelde tijdstip worden de artikelen 1653 tot en met 1653x van het Burgerlijk Wetboek, zoals die bij artikel I zijn vastgesteld in titel 7 van Boek 7 van het Burgerlijk Wetboek opgenomen als afdeling 5 van die titel onder het opschrift "De overeenkomst inzake geneeskundige behandeling", en vervalt artikel I voor het overige.
+2. [Bevat wijzigingen in andere regelgeving.]
+3. De Minister van Justitie brengt bij de opneming in Titel 7 van Boek 7 van het Burgerlijk Wetboek de artikelen 1653 tot en met 1653x in een doorlopende nummering, aansluitend bij de nummering van die Titel, en brengt de verwijzingen in deze en andere wetsartikelen daarmede in overeenstemming. De Minister van Justitie brengt tevens de aanduiding van leden van artikelen in overeenstemming met die welke in Boek 7 gebruikelijk is. De tekst van de aldus gewijzigde wet wordt in het Staatsblad geplaatst.
