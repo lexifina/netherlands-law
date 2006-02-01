@@ -1,0 +1,2 @@
+# Artikel 123a
+Hij die door geweld of bedreiging met geweld een vergadering van een door de staten van een provincie ingestelde commissie uiteenjaagt of tot het nemen of niet nemen van enig besluit dwingt of een lid, een gedeputeerde of de commissaris van de Koning uit die vergadering verwijdert of opzettelijk verhindert die bij te wonen of daarin vrij en onbelemmerd zijn plicht te vervullen, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
