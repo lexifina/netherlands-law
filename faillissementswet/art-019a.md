@@ -1,4 +1,4 @@
 # Artikel 19a
-1. Door Onze Minister van Justitie of, indien ingevolge artikel 19, eerste lid, een ander orgaan is aangewezen, door dat orgaan, wordt een centraal register gehouden, waarin de in artikel 19, eerste lid, onder 1° tot en met 6° genoemde gegevens worden ingeschreven.
+1. Door Onze Minister van Justitie of, indien ingevolge artikel 19, vierde lid, een ander orgaan is aangewezen, door dat orgaan, wordt een centraal register gehouden, waarin de in artikel 19, eerste lid, onder 1° tot en met 6° genoemde gegevens worden ingeschreven.
 2. Omtrent vorm en inhoud van het register worden bij algemene maatregel van bestuur nadere regels gegeven.
 3. Een ieder heeft kosteloos inzage in het register en kan tegen betaling een uittreksel daaruit verkrijgen.
