@@ -1,3 +1,3 @@
 # Artikel 37o
-1. Onze Minister van Justitie kan, in overeenstemming met Onze Minister, bij ministeriële regeling ten aanzien van bepaalde soorten vluchten of luchtvaartuigen vrijstelling verlenen van de controle als bedoeld in artikel 37j, eerste lid, wanneer de dreiging voor deze soorten als gevolg van gevaarlijke goederen verwaarloosbaar is. Daarbij kunnen nadere voorschriften worden gegeven.
-2. Onze Minister van Justitie kan in bijzondere gevallen op de grond als bedoeld in het eerste lid, ontheffing verlenen van de controle.
+1. Bij regeling van Onze Minister van Justitie, in overeenstemming met Onze Minister, kan ten aanzien van bepaalde vluchten of luchtvaartuigen vrijstelling worden verleend voor de controle, bedoeld in artikel 37j, eerste lid, indien de dreiging voor deze vluchten of luchtvaartuigen als gevolg van gevaarlijke goederen verwaarloosbaar is. Daarbij kunnen nadere voorschriften worden gegeven.
+2. Onze Minister van Justitie kan in bijzondere gevallen op de grond, bedoeld in het eerste lid, ontheffing verlenen van de controle.

@@ -3,7 +3,7 @@
 a. luchtvaartterreinen: een luchtvaartterrein dat mede wordt gebruikt voor verkeersvluchten, met uitzondering van die delen van een militair luchtvaartterrein die niet uitsluitend ten behoeve van de burgerluchtvaart worden gebruikt;
 b. beveiligingspersoneel:
 1°. personen in dienst van een door de exploitant van een luchtvaartterrein met de uitvoering van de beveiliging belaste particuliere beveiligingsorganisatie, waaraan door Onze Minister van Justitie een vergunning is verleend als bedoeld in artikel 3 van de Wet particuliere beveiligingsorganisaties en recherchebureaus, en
-2°. de door Onze Minister van Justitie aangewezen politie-ambtenaren, ambtenaren van de Koninklijke marechaussee en de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane;
+2°. de door Onze Minister van Justitie aangewezen ambtenaren van politie, ambtenaren van de Koninklijke marechaussee en de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane;
 c. voor bedreiging geschikte voorwerpen: wapens, explosieven of andere voorwerpen en stoffen, die voor de bedreiging van personen geschikt zijn dan wel de veiligheid van het luchtvaartuig in gevaar kunnen brengen;
 d. gevaarlijke goederen: explosieven of andere voorwerpen en stoffen, die de veiligheid van het luchtvaartuig in gevaar kunnen brengen;
 e. bagage: goederen toebehorende aan passagiers,

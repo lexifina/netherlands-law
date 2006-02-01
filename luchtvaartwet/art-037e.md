@@ -1,6 +1,6 @@
 # Artikel 37e
-1. De exploitant van een luchtvaartterrein is gehouden een plan op te stellen met betrekking tot de beveiliging van het luchtvaartterrein. Het plan behoeft de toestemming van Onze Minister van Justitie in overeenstemming met Onze Minister. Het plan wordt op hun verzoek, onder het stellen van een redelijke termijn, aangepast.
-2. Het in het eerste lid bedoelde plan omvat onder meer:
+1. De exploitant van een luchtvaartterrein is gehouden een plan op te stellen met betrekking tot de beveiliging van het luchtvaartterrein. Het plan behoeft de instemming van Onze Minister van Justitie in overeenstemming met Onze Minister. Het plan wordt op hun verzoek, onder het stellen van een redelijke termijn, aangepast.
+2. Het plan, bedoeld in het eerste lid, omvat onder meer:
 a. de plichten, verantwoordelijkheden, maatregelen en procedures die zijn vastgesteld met het oog op de beveiliging van het luchtvaartterrein;
 b. de bijzondere procedures en maatregelen voor situaties als bedoeld in artikel 37ad, eerste lid;
 c. de maatregelen en procedures in geval van dreiging van onwettige daden van geweld, bomalarm, kaping of gewapende aanvallen op het luchtvaartterrein en

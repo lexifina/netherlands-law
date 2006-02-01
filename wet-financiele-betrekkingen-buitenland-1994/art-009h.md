@@ -5,5 +5,5 @@
 4. Bij gebreke van tijdige betaling kan de Bank de boete, verhoogd met de kosten van de aanmaning en van de invordering, bij dwangbevel invorderen.
 5. Het dwangbevel wordt op kosten van de overtreder bij deurwaardersexploit betekend en levert een executoriale titel op in de zin van het Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering.
 6. Gedurende zes weken na de dag van betekening staat verzet tegen het dwangbevel open door dagvaarding van de Bank.
-7. Het verzet schorst de tenuitvoerlegging niet, tenzij de president van de rechtbank in kort geding desgevraagd anders beslist.
+7. Het verzet schorst de tenuitvoerlegging niet, tenzij de voorzieningenrechter van de rechtbank in kort geding desgevraagd anders beslist.
 8. Het verzet kan niet worden gegrond op de stelling dat de boete ten onrechte of op een te hoog bedrag is vastgesteld.

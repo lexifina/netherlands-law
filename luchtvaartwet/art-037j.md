@@ -5,5 +5,5 @@ a. vracht bestemd om te worden overgeladen van het ene vliegtuig op het andere, 
 b. vervoer van stoffelijke overschotten;
 c. levende dieren;
 d. levensreddende materialen, voor zover de controle afbreuk kan doen aan de levensreddende kwaliteit van het materiaal;
-e. nucleair materiaal of
-f. andere bij ministeriële regeling van Onze Minister van Justitie aangewezen vracht, voor zover de controle afbreuk kan doen aan de kwaliteit van de vracht.
+e. nucleair materiaal, of
+f. andere bij regeling van Onze Minister van Justitie aangewezen vracht, voor zover de controle afbreuk kan doen aan de kwaliteit van de vracht.
