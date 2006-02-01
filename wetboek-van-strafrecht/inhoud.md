@@ -21,7 +21,6 @@
 ### Titel III. Misdrijven tegen hoofden van bevriende Staten en andere internationaal beschermde personen
 ### Titel IV. Misdrijven betreffende de uitoefening van staatsplichten en staatsrechten
 ### Titel V. Misdrijven tegen de openbare orde
-### Titel VI. Tweegevecht
 ### Titel VII. Misdrijven waardoor de algemene veiligheid van personen of goederen wordt in gevaar gebracht
 ### Titel VIII. Misdrijven tegen het openbaar gezag
 ### Titel IX. Meineed
@@ -48,7 +47,6 @@
 ### Titel XXIX. Scheepvaart- en luchtvaartmisdrijven
 ### Titel XXX. Begunstiging
 ### Titel XXXA. Witwassen
-### Titel XXXI. Bepalingen over herhaling van misdrijf aan verschillende titels gemeen
 ## Boek Derde. Overtredingen
 ### Titel I. Overtredingen betreffende de algemene veiligheid van personen en goederen
 ### Titel II. Overtredingen betreffende de openbare orde
