@@ -37,7 +37,7 @@ Aan een verleend mandaat ligt tevens het uitgangspunt ten grondslag dat dit ook 
 BIJLAGE 1, MANDAATLIJST PERSONELE AANGELEGENHEDEN SEPTEMBER 2004
 Bijlage als bedoeld in artikel 6, derde lid, sub g
 Collectieve Arbeidsvoorwaardenregeling Provincies (CAP)
-Collectieve Arbeidsvoorwaardenregeling Provincies (CAP)
+MANDAATLIJST PERSONELE AANGELEGENHEDEN
 Nummer | Bevoegdheid | Voorwaarden | 
 1 | Beslissingen te nemen inzake de uitwerking van de Kaderregeling rechtspositie. |  | 
 2 | Beslissingen te nemen inzake de nadere uitwerking van de Werktijd- en vakantieregeling. |  | 
@@ -166,63 +166,64 @@ Uitkeringsverordening
 Nummer | Bevoegdheid | Voorwaarden
 I | Alle besluiten gebaseerd op deze regeling. |  | 
 ## Bijlage 2
-BIJLAGE 1c, LIJST ALS BEDOELD IN ARTIKEL 8, TWEEDE LID, VAN HET BESLUIT MANDAAT, VOLMACHT EN MACHTIGING GEDEPUTEERDE STATEN 2004, ZOALS VASTGESTELD DOOR DE DIRECTEUR-SECRETARIS OP 15 MAART 2005
+BIJLAGE 1c, LIJST ALS BEDOELD IN ARTIKEL 8, TWEEDE LID, VAN HET BESLUIT MANDAAT, VOLMACHT EN MACHTIGING GEDEPUTEERDE STATEN 2004, ZOALS VASTGESTELD DOOR DE DIRECTEUR-SECRETARIS OP 26 JANUARI 2006
 Vertegenwoordiging in rechte
-1. Vertegenwoordiging bij (hoor)zittingen van een bij de wet ingesteld orgaan, dat is belast met de rechtspraak
+1. Vertegenwoordiging bij (hoor)zittingen van een bij de wet ingesteld
+orgaan, dat is belast met de rechtspraak
 Vertegenwoordiging van gedeputeerde staten in gerechtelijke procedures geschiedt door het hoofd en de volgende medewerkers van de product- of stafgroepen.
-Vertegenwoordiging van gedeputeerde staten in gerechtelijke procedures geschiedt door het hoofd en de volgende medewerkers van de product- of stafgroepen.
-Product-/Stafgroep | Naam medewerker | Ten behoeve van
-Ruimte en Water | A. Anema mr. R.A. Bouwer ing. W.F.R. Feenstra mevrouw B.K. Hendriks mevrouw drs. ing. A.T. Hiddema mevrouw H. Hingstman mevrouw drs. F.E. Jorritsma A. Kooistra J. Kuiper ing. H.W.A. van de Meer P.K. Munnik H. van Laar mevrouw A. Oldenhuis E. Saathof mevrouw N. Scheeper | procedures inzake ruimtelijke ordening, volkshuisvesting en waterhuishouding c.a.
-Milieubeheer | drs. A. Ayal ing. K.J. v.d. Berg mevrouw ing. K.E. Blanke mevrouw J.H. Blokzijl mevrouw H.R. Bos mevrouw mr. L.A.E. van Dijk mevrouw ing. R. Dingemanse ing. F. Eilander G. Eleveld mevrouw mr. dr. N.Y. Del Grosso ing. G. Gjaltema mevrouw ing. A.M.M. de Graaf mr. W. Huizing mr. J. Kramer C.J. Mulder ing. M.J. Power ing. J. Scholte mevrouw ing. B. Vrieling mevrouw J.R. Warmelts ing. W.R. Wesseling ing. K.S. van der Wal mevrouw drs. D. Wimmers | Procedures inzake milieuaangelegenheden.
-Bodem | K. Folkertsma mevrouw M. Portena drs. A.H. Smits F. Velthuis A. Venekamp J. Venema L. Wallinga | Procedures inzake bodemsanering en bodem- en grondwaterbescherming.
-Landelijk Gebied | mevrouw M. Boersma J. Grotenhuis mr. R.A.M. Kavsek B.L.J. van Os mevrouw G. Pothof C. Schaafsma mevrouw ing. I.J. Schotanus drs. F. Voogd | Procedures inzake ontgrondingen en natuur (flora en fauna), bos en landschap.
-Cultuur en Welzijn | mr. G. Bosschers mevrouw drs. E. den Engelsman S.J. de Jonge mevrouw drs. E.E. Moesker E. Schut mevrouw drs. G. Smidt | Procedures inzake cultuur, welzijn en zorg.
-Verkeer en Vervoer | A.F.A. Bruikman ing. F.H.T. Koen J. Lever mr. L.O. Rozema G.H. Veringa ing. J.P. de Vries ing. S.A.B. de Vries ing. J.P. Waalkens | Procedures inzake verkeer en vervoer.
-Wegen en Kanalen | J. Bron W. Feiken ing. C. Hussels ing. G.J.V. Jansen ing. A.R. Kroeze ing. J.F. Meek ing. W. Paas mr. L.O. Rozema A. Zijlstra | Procedures inzake aanleg, beheer en onderhoud van wegen en kanalen.
-Handhaving | R.J.A. Altena ing. A.D. Bloemsma mevrouw H.R. Bouwers mevrouw mr. R.A. Bruinsma mevrouw ing. H. Buining E. Gosselink P.J. Graveland J. van der Heide H. Hollander W.H. Hut D.W. Klein Bramel mevrouw ing. M.E. Koekoek B. Luinge R.J. Jongman T. Mennink C.J. Oosterhuis T. Ottens B. Roelfsema H. Padberg A. Suichies J.J. Vos ing. H.B. Venema J. Wind B.G. Winkelman | Procedures inzake handhaving.
-Personeel en Organisatie | P. Aardenborg H. Stoffers mevrouw mr. C.M. de Werd-Eijsink | Procedures inzake arbeidsvoorwaarden en rechtspositie.
-Bestuurs-, Juridische en Concernzaken | mevrouw mr. A.M. Brouwer mr. E.J. Gernaat mr. J. de Ruiter mevrouw mr. F. Westerhof | Alle administratiefrechtelijke procedures.
-2. Vertegenwoordiging als bedoeld in artikel 7:13, vijfde lid, van de Awb
-Vertegenwoordiging van gedeputeerde staten bij de adviescommissies als bedoeld in artikel 7:13 van de Awb geschiedt door het hoofd en de volgende medewerkers van de product- en stafgroepen.
-Vertegenwoordiging van gedeputeerde staten bij de adviescommissies als bedoeld in artikel 7:13 van de Awb geschiedt door het hoofd en de volgende medewerkers van de product- en stafgroepen.
-Product-/Stafgroep | Naam medewerker | Ten behoeve van
+Vertegenwoordiging bij (hoor)zittingen van een bij de wet ingesteld
+Product-/ Stafgroep | Naam medewerker | Ten behoeve van
+Ruimte en Water | de heer A. Anema de heer R.A. Bouwer de heer W.F.R. Feenstra mevrouw B.K. Hendriks mevrouw H. Hingstman mevrouw F.E. Jorritsma de heer A. Kooistra de heer H.W.A. van de Meer de heer P.K. Munnik de heer H. van Laar mevrouw A. Oldenhuis de heer E. Saathof mevrouw N. Scheeper | Procedures inzake ruimtelijke ordening, volkshuisvesting en waterhuishouding c.a.
+Milieubeheer | de heer A. Ayal de heer K.J. v.d. Berg mevrouw K.E. Blanke mevrouw J.H. Blokzijl mevrouw H.R. Bos mevrouw L.A.E. van Dijk mevrouw R. Dingemanse de heer F. Eilander de heer G. Eleveld mevrouw N.Y. Del Grosso de heer G. Gjaltema mevrouw A.M.M. de Graaf de heer W. Huizing de heer J. Kramer de heer C.J. Mulder de heer M.J. Power de heer J. Scholte mevrouw B. Vrieling mevrouw J.R. Warmelts de heer W.R. Wesseling de heer K.S. van der Wal mevrouw D. Wimmers | Procedures inzake milieuaangelegenheden.
+Bodem | de heer K. Folkertsma mevrouw M. Portena de heer A.H. Smits de heer F. Velthuis de heer A. Venekamp de heer J. Venema de heer L. Wallinga | Procedures inzake bodemsanering en bodem- en grondwaterbescherming.
+Landelijk Gebied | mevrouw M. Boersma de heer J. Grotenhuis de heer R.A.M. Kavsek de heer B. Klijs de heer B.L.J. van Os mevrouw G. Pothof de heer C. Schaafsma mevrouw I.J. Schotanus de heer F. Voogd | Procedures inzake ontgrondingen en natuur (flora en fauna), bos en landschap.
+Cultuur en Welzijn | de heer G. Bosschers de heer S.J. de Jonge mevrouw E.E. Moesker de heer E. Schut mevrouw G. Smidt | Procedures inzake cultuur, welzijn en zorg.
+Verkeer en Vervoer | de heer A.F.A. Bruikman de heer F.H.T. Koen de heer J. Lever de heer L.O. Rozema de heer G.H. Veringa de heer J.P. de Vries de heer S.A.B. de Vries de heer J.P. Waalkens | Procedures inzake verkeer en vervoer.
+Wegen en Kanalen | de heer J. Bron de heer C. Hussels de heer G.J.V. Jansen de heer A.R. Kroeze de heer J.F. Meek de heer W. Paas de heer L.O. Rozema mevrouw M. Vroling de heer A. Zijlstra | Procedures inzake aanleg, beheer en onderhoud van wegen en kanalen.
+Handhaving | de heer R.J.A. Altena de heer A.D. Bloemsma mevrouw H.R. Bouwers mevrouw R.A. Bruinsma mevrouw H. Buining de heer E. Gosselink de heer P.J. Graveland de heer J. van der Heide de heer W.H. Hut de heer D.W. Klein Bramel mevrouw M.E. Koekoek de heer C.J. Oosterhuis de heer T. Ottens mevrouw B. Roelfsema de heer H. Padberg de heer A. Suichies de heer J.J. Vos de heer H.B. Venema de heer J. Wind de heer B.G. Winkelman | Procedures inzake handhaving.
+Personeel en Organisatie | de heer P. Aardenborg de heer H. Stoffers mevrouw C.M. de Werd-Eijsink | Procedures inzake arbeidsvoorwaarden en rechtspositie.
+Bestuurs-, Juridische en Concernzaken | mevrouw A.M. Brouwer de heer E.J. Gernaat de heer J. de Ruiter mevrouw F. Westerhof | Alle administratiefrechtelijke procedures.
+2. Vertegenwoordiging als bedoeld in artikel 7:13, vijfde lid, van de Algemene wet bestuursrecht
+Vertegenwoordiging van gedeputeerde staten bij de adviescommissies als bedoeld in artikel 7:13 van de Algemene wet bestuursrecht geschiedt door het hoofd en de volgende medewerkers van de product- en stafgroepen
+Vertegenwoordiging als bedoeld in artikel 7:13, vijfde lid, van de Algemene wet bestuursrecht
+Product-/ Stafgroep | Naam medewerker | Ten behoeve van
 Economie | mevrouw A. Bouw | Bezwaren inzake economische aangelegenheden.
-Ruimte en Water | A. Anema mr. R.A. Bouwer ing. W.F.R. Feenstra mevrouw B.K. Hendriks mevrouwdrs. ing. A.T. Hiddema mevrouw H. Hingstman mevrouw drs. F.E. Jorritsma A. Kooistra J. Kuiper ing. H.W.A. van de Meer P.K. Munnik H. van Laar mevrouw A. Oldenhuis E. Saathof mevrouw N. Scheeper | Bezwaren inzake ruimtelijke ordening, volkshuisvesting en waterhuishouding c.a.
-Milieubeheer | drs. A. Ayal ing. K.J. v.d. Berg mevrouw ing. K.E. Blanke mevrouw J.H. Blokzijl mevrouw H.R. Bos mevrouw mr. L.A.E. van Dijk mevrouw ing. R. Dingemanse ing. F. Eilander G. Eleveld mevrouw mr. dr. N.Y. Del Grosso ing. G. Gjaltema mevrouw ing. A.M.M. de Graaf mr. W. Huizing mr. J. Kramer C.J. Mulder ing. M.J. Power ing. J. Scholte mevrouw ing. B. Vrieling mevrouw J.R. Warmelts ing. W.R. Wesseling ing. K.S. van der Wal mevrouw drs. D. Wimmers | Bezwaren inzake milieuaangelegen-heden.
-Bodem | K. Folkertsma mevrouw M. Portena L. Wallinga drs. A.H. Smits F. Velthuis A. Venekamp J. Venema | Bezwaren inzake bodemsanering en bodem- en grondwaterbescherming.
-Landelijk Gebied | mevrouw M. Boersma J. Grotenhuis mr. R.A.M. Kavsek B.L.J. van Os G. Pothof C. Schaafsma mevrouw ing. I.J. Schotanus drs. F. Voogd | Bezwaren inzake ontgrondingen en natuur (flora en fauna), bos en landschap.
-Cultuur en Welzijn | mevrouw E. Alkema mr. G. Bosschers mevrouw drs. E. den Engelsman J. Langeland* mevrouw drs. E.E. Moesker mevrouw H. Rijkens* mevrouw drs. W. Schutte mevrouw drs. G. Smidt S.R. Vos | Bezwaren inzake cultuur. * Medewerkers van het Drents Plateau.
-Cultuur en Welzijn | mr. G. Bosschers H. Derks P. Hofstra mevrouw L.A.M. Kompier mevrouw drs. B. van Mierlo mevrouw H. Peters | Bezwaren inzake welzijn.
- | mr. G. Bosschers drs. B.S. Nijholt A. Opmeer E. Schut | Bezwaren inzake zorg.
-Verkeer en Vervoer | A.F.A. Bruikman ing. F.H.T. Koen J. Lever mr. L.O. Rozema G.H. Veringa ing. J.P. de Vries ing. S.A.B. de Vries ing. J.P. Waalkens | Bezwaren inzake verkeer en vervoer.
-Wegen en Kanalen | J. Bron W. Feiken ing. C. Hussels ing. G.J.V. Jansen ing. A.R. Kroeze ing. J.F. Meek ing. W. Paas mr. L.O. Rozema A. Zijlstra | Bezwaren inzake aanleg, beheer en onderhoud van wegen en kanalen.
-Handhaving | R.J.A. Altena ing. A.D. Bloemsma mevrouw H.R. Bouwers mevrouw mr. R.A. Bruinsma mevrouw ing. H. Buining E. Gosselink P.J. Graveland J. van der Heide H. Hollander W.H. Hut D.W. Klein Bramel mevrouw ing. M.E. Koekoek B. Luinge R.J. Jongman T. Mennink C.J. Oosterhuis T. Ottens B. Roelfsema H. Padberg A. Suichies J.J. Vos ing. H.B. Venema J. Wind B.G. Winkelman | Procedures inzake handhaving.
-Personeel en Organisatie | P. Aardenborg H. Stoffers mevrouw mr. C.M. de Werd-Eijsink | Bezwaren inzake arbeidsvoorwaarden en rechtspositie.
-Bestuurs-, Juridische en Concernzaken | mevrouw mr. A.M. Brouwer mr. E.J. Gernaat mr. J. de Ruiter | Bezwaren inzake alle administratiefrechtelijke procedures.
+Ruimte en Water | de heer A. Anema de heer R.A. Bouwer de heer W.F.R. Feenstra mevrouw B.K. Hendriks mevrouw H. Hingstman mevrouw F.E. Jorritsma de heer A. Kooistra de heer H.W.A. van de Meer de heer P.K. Munnik de heer H. van Laar mevrouw A. Oldenhuis de heer E. Saathof mevrouw N. Scheeper | Bezwaren inzake ruimtelijke ordening, volkshuisvesting en waterhuishouding c.a.
+Milieubeheer | de heer A. Ayal de heer K.J. v.d. Berg mevrouw K.E. Blanke mevrouw J.H. Blokzijl mevrouw H.R. Bos mevrouw L.A.E. van Dijk mevrouw R. Dingemanse de heer F. Eilander de heer G. Eleveld mevrouw N.Y. Del Grosso de heer G. Gjaltema mevrouw A.M.M. de Graaf de heer W. Huizing de heer J. Kramer de heer C.J. Mulder de heer M.J. Power de heer J. Scholte mevrouw B. Vrieling mevrouw J.R. Warmelts de heer W.R. Wesseling de heer K.S. van der Wal mevrouw D. Wimmers | Bezwaren inzake milieuaangelegenheden.
+Bodem | de heer K. Folkertsma mevrouw M. Portena de heer L. Wallinga de heer A.H. Smits de heer F. Velthuis de heer A. Venekamp de heer J. Venema | Bezwaren inzake bodemsanering en bodem- en grondwaterbescherming.
+Landelijk Gebied | mevrouw M. Boersma de heer J. Grotenhuis de heer R.A.M. Kavsek de heer B.Klijs de heer B.L.J. van Os mevrouw G. Pothof de heer C. Schaafsma mevrouw I.J. Schotanus de heer F. Voogd | Bezwaren inzake ontgrondingen en natuur (flora en fauna), bos en landschap.
+Cultuur en Welzijn | mevrouw E. Alkema de heer G. Bosschers de heer J. Langeland* mevrouw E.E. Moesker mevrouw H. Rijkens* mevrouw W. Schutte mevrouw G. Smidt de heer S.R. Vos | Bezwaren inzake cultuur. * Medewerkers van het Drents Plateau.
+Cultuur en Welzijn | de heer G. Bosschers de heer H. Derks de heer P. Hofstra mevrouw L.A.M. Kompier mevrouw B. van Mierlo mevrouw H. Peters | Bezwaren inzake welzijn.
+ | de heer G. Bosschers de heer B.S. Nijholt de heer A. Opmeer de heer E. Schut | Bezwaren inzake zorg.
+Verkeer en Vervoer | de heer A.F.A. Bruikman de heer F.H.T. Koen de heer J. Lever de heer L.O. Rozema de heer G.H. Veringa de heer J.P. de Vries de heer S.A.B. de Vries de heer J.P. Waalkens | Bezwaren inzake verkeer en vervoer.
+Wegen en Kanalen | de heer J. Bron de heer C. Hussels de heer G.J.V. Jansen de heer A.R. Kroeze de heer J.F. Meek de heer W. Paas de heer L.O. Rozema mevrouw M. Vroling de heer A. Zijlstra | Bezwaren inzake aanleg, beheer en onderhoud van wegen en kanalen.
+Handhaving | de heer R.J.A. Altena de heer A.D. Bloemsma mevrouw H.R. Bouwers mevrouw R.A. Bruinsma mevrouw H. Buining de heer E. Gosselink de heer P.J. Graveland de heer J. van der Heide de heer W.H. Hut de heer D.W. Klein Bramel mevrouw M.E. Koekoek de heer C.J. Oosterhuis de heer T. Ottens mevrouw B. Roelfsema de heer H. Padberg de heer A. Suichies de heer J.J. Vos de heer H.B. Venema de heer J. Wind de heer B.G. Winkelman | Procedures inzake handhaving.
+Personeel en Organisatie | de heer P. Aardenborg de heer H. Stoffers mevrouw C.M. de Werd-Eijsink | Bezwaren inzake arbeidsvoorwaarden en rechtspositie.
+Bestuurs-, Juridische en Concernzaken | mevrouw A.M. Brouwer de heer E.J. Gernaat de heer J. de Ruiter | Bezwaren inzake alle administratiefrechtelijke procedures.
 ## Bijlage 2
 BIJLAGE 2, BESLUIT ONDERMANDAAT DIRECTEUR-SECRETARIS
-Assen, 15 maart 2005
-Ons kenmerk 6.2/2005002312
+Assen, 26 januari 2006
+Ons kenmerk BJC/A1/2006001008
 Behandeld door de heer E.J. Gernaat (0592) 36 57 23
 Onderwerp: Besluit ondermandaat
 De directeur-secretaris;
 gelet op het Besluit mandaat, volmacht en machtiging gedeputeerde staten 2004;
-gelet op afdeling 10.1.1 van de Algemene wet bestuursrecht;
-overwegende, dat het uit een oogpunt van doelmatigheid wenselijk is om voor nader omschreven gevallen de bevoegdheid tot het nemen van besluiten en het verrichten van rechtshandelingen, door te mandateren;
+gelet op artikel 10:9 van de Algemene wet bestuursrecht;
+overwegende dat het uit een oogpunt van doelmatigheid wenselijk is om voor nader omschreven gevallen de bevoegdheid tot het nemen van besluiten en het verrichten van rechtshandelingen, door te mandateren;
 BESLUIT:
-de ingevolge het Besluit mandaat, volmacht en machtiging gedeputeerde staten 2004, verkregen bevoegdheden door te mandateren aan de groepshoofden, programmamanagers, projectleiders en daarmee gelijk te stellen functionarissen, zoals hieronder aangegeven.
+de ingevolge het Besluit mandaat, volmacht en machtiging gedeputeerde staten 2004, verkregen bevoegdheden door te mandateren aan de groepshoofden, programmamanagers, projectleiders en daarmee gelijk te stellen functionarissen zoals hieronder aangegeven.
 I. Aan alle groepshoofden, programmamanagers en projectleiders en daarmee gelijk te stellen functionarissen wordt, voor zover het de hun regarderende organisatieonderdelen betreft, de volgende bevoegdheid verleend.
 1, Algemeen
 a. In voorkomend geval brieven van derden voor kennisgeving aan te nemen.
 b. Verzoeken om informatie mede op grond van de Wet openbaarheid van bestuur af te doen, (met uitzondering van negatieve besluiten, anders dan om formele redenen of anders dan binnen de gebruikelijke of eerder door het college vastgestelde gedragslijn of anders dan in gevallen dat de beslissing op grond van wet- en regelgeving dan wel door vigerende besluiten van het provinciebestuur is gebonden).
-c. Beslissingen te nemen ter uitvoering van door provinciale staten (PS) of het college vastgestelde beleids- en uitvoeringskaders.
+c. Beslissingen te nemen ter uitvoering van door provinciale staten of het college vastgestelde beleids- en uitvoeringskaders.
 d. Met inachtneming van door het college gestelde kaders op privaatrechtelijke grondslag (overeenkomst) informatie, digitale gegevens daaronder begrepen, aan derden te verstrekken.
-e. Beslissingen te nemen inzake de procedure ter voorbereiding van een besluit (met inbegrip van het besluiten tot buiten behandeling laten van een aanvraag), anders dan bedoeld in de afdelingen 6.2. en 7.2. van de Algemene wet bestuursrecht (Awb), verdagingen daaronder begrepen.
+e. Beslissingen te nemen inzake de procedure ter voorbereiding van een besluit (met inbegrip van het besluiten tot buiten behandeling laten van een aanvraag), anders dan bedoeld in de afdelingen 6.2. en 7.2. van de Algemene wet bestuursrecht, verdagingen daaronder begrepen.
 f. Toezichthoudende ambtenaren aan te wijzen.
 g. Verweerschriften en eventuele nadere memories in te dienen, waarbij het eerder door het college ingenomen standpunt wordt gehandhaafd.
-h. Besluiten van PS en het college bekend te maken.
+h. Besluiten van provinciale staten en het college bekend te maken.
 i. Verzekeringen af te sluiten, op te zeggen en tussentijds te wijzigen.
-j. Beslissingen te nemen inzake het afwijzen c.q. het voeren van verweer in een civielrechtelijke procedure tegen een vordering uit (on)rechtmatige daad.
+j. Beslissingen te nemen inzake het afwijzen c.q. het voeren van verweer in een civielrechte-lijke procedure tegen een vordering uit (on)rechtmatige daad.
 k. Beslissingen te nemen met betrekking tot de aansprakelijkheid van de provincie en de aansprakelijkheidsstelling van derden, met uitzondering van de beslissing tot het optreden in rechte.
 l. Beslissingen te nemen over het inschakelen van schade-expertise en het cederen van vorderingen.
 m. Beslissingen te nemen in onvoorziene, spoedeisende gevallen, waarin onverwijld handelen geboden is.
@@ -230,117 +231,116 @@ n. Beslissingen te nemen op verzoeken van de aanvrager tot intrekking van vergun
 2, Financieel
 a. Binnen door het college geaccordeerde duurcontracten of (meerjarig vastgestelde) plannen te beslissen tot opdrachtverlening en/of periodieke aanpassing op onderdelen.
 b. Alle bestedingsbeslissingen die op het bevoegde niveau zijn genomen, finaal af te handelen.
-c. Bekend te maken en mededeling te doen aan instellingen van het door PS vastgestelde subsidieplafond.
+c. Bekend te maken en mededeling te doen aan instellingen van het door provinciale staten vastgestelde subsidieplafond.
 d. Het beslissen op aanvragen betreffende:
-1. verlening en vaststelling van subsidies als bedoeld in hoofdstuk 4 van de Algemene wet bestuursrecht en in de Algemene subsidieverordening Drenthe, de intrekking van deze beslissingen daaronder begrepen;
-2. de verdere financiële afwikkeling, waaronder het verlenen en terugvorderen van voorschotten, van onder 1 bedoelde beslissingen (met uitzondering van afwijzingen, anders dan om formele redenen en anders dan om redenen die eerder voor het college aanleiding waren de subsidie af te wijzen), de beslissing over uitstel dan wel kwijtschelding van terugbetaling daaronder begrepen.
+1. verlening en vaststelling van subsidies als bedoeld in hoofdstuk 4 van de Algemene wet bestuursrecht en in de Algemene subsidieverordening Drenthe 2004, de intrekking van deze beslissingen daaronder begrepen;
+2. de verdere financiële afwikkeling, waaronder het verlenen en terugvorderen van voorschotten, van de onder 1 bedoelde beslissingen (met uitzondering van afwijzingen, anders dan om formele redenen en anders dan om redenen die eerder voor het college aanleiding waren de subsidie af te wijzen), de beslissing over uitstel dan wel kwijtschelding van terugbetaling daaronder begrepen.
 3, Personeel
-In de bijlage Mandaatlijst personele aangelegenheden is aangegeven welke ondermandaten zijn verleend.
-De bevoegdheden onder 3, Personeel, worden niet door de groepshoofden, de programmamanagers, de projectleiders en daarmee gelijk te stellen functionarissen uitgeoefend, voor zover het henzelf aangaat.
+In de bijlage Mandaatlijst Personele Aangelegenheden is aangegeven welke ondermandaten zijn verleend.
+De bevoegdheden onder 3, Personeel, worden niet door de groepshoofden, de programmamanagers, de projectleiders en daarmee gelijk te stellen functionarissen uitgeoefend voor zover het henzelf aangaat.
 II. Aan de hoofden van de productgroepen worden de volgende bevoegdheden verleend.
-a. Aan het hoofd van de Productgroep Economie wordt de bevoegdheid verleend om (met uitzondering van negatieve besluiten, anders dan om formele redenen of anders dan binnen de gebruikelijke of eerder door het college vastgestelde gedragslijn of anders dan in gevallen dat de beslissing op grond van wet- en regelgeving dan wel door vigerende besluiten van het provinciebestuur is gebonden) te beslissen over:
-- het voordragen voor herbenoeming van leden van de Grondkamer en het verstrekken van adviezen ten behoeve van de herbenoeming van de leden van de Pachtkamers.
+a. Aan het hoofd van de Productgroep Economie wordt de bevoegdheid verleend om (met uitzondering van negatieve besluiten, anders dan om formele redenen of anders dan binnen de gebruikelijke of eerder door het college vastgestelde gedragslijn of anders dan in gevallen dat de beslissing op grond van wet en regelgeving dan wel door vigerende besluiten van het provinciebestuur is gebonden) te beslissen over:
+- het voordragen voor herbenoeming van leden van de grondkamer en het verstrekken van adviezen ten behoeve van de herbenoeming van de leden van de pachtkamers;
 b. Aan het hoofd van de Productgroep Cultuur en Welzijn wordt de bevoegdheid verleend om (met uitzondering van negatieve besluiten, anders dan om formele redenen of anders dan binnen de gebruikelijke of eerder door het college vastgestelde gedragslijn of anders dan in gevallen dat de beslissing op grond van wet- en regelgeving dan wel door vigerende besluiten van het provinciebestuur is gebonden):
 1. bruikleenovereenkomsten aan te gaan met betrekking tot roerende zaken, ondergebracht in het provinciaal depot voor bodemvondsten;
-2. te besluiten omtrent goedkeuring ex artikelen 33, tweede lid, en 38, tweede lid, van de Archiefwet voor de bouw, verbouwing, inrichting en wijziging van de inrichting van archiefbewaarplaatsen.
+2. te besluiten omtrent goedkeuring ex artikel 33, tweede lid, en 38, tweede lid, van de Archiefwet voor de bouw, verbouwing, inrichting en wijziging van de inrichting van archiefbewaarplaatsen.
 c. Aan het hoofd van de Productgroep Verkeer en Vervoer wordt de bevoegdheid verleend om (met uitzondering van negatieve besluiten, anders dan om formele redenen of anders dan binnen de gebruikelijke of eerder door het college vastgestelde gedragslijn of anders dan in gevallen dat de beslissing op grond van wet- en regelgeving dan wel door vigerende besluiten van het provinciebestuur is gebonden):
 1. beslissingen te nemen over de wijziging van een vastgestelde dienstregeling voor interlokaal openbaar vervoer;
 2. beslissingen te nemen over verkeersbesluiten, over het plaatsen van verkeerstekens en over het nemen van verkeersmaatregelen en het nemen van overige besluiten op grond van de Wegenverkeerswet 1994, het Besluit administratieve bepalingen inzake het wegverkeer en het Reglement verkeersregels en verkeerstekens.
 d. Aan het hoofd van de Productgroep Wegen en Kanalen wordt de bevoegdheid verleend om:
-1. met inachtneming van de managementcontracten beheer en onderhoud en binnen de goedgekeurde begroting c.q. begrotingsposten werken, diensten en leveringen op te dragen en overige financiële beslissingen te nemen ter uitvoering van de door het college jaarlijks vastgestelde uitvoeringsprogramma's, inclusief de noodzakelijke uitvoeringsbesluiten, tenzij expliciet ten aanzien van een onderdeel van het programma is aangegeven dat nog nadere voorstellen aan het college zullen worden voorgelegd;
+1. met inachtneming van de managementcontracten beheer en onderhoud en binnen de goedgekeurde begroting c.q. begrotingsposten werken, diensten en leveringen op te dragen en overige financiële beslissingen te nemen ter uitvoering van de door het college jaarlijks vastgestelde uitvoeringsprogramma¿s inclusief de noodzakelijke uitvoeringsbesluiten, tenzij expliciet ten aanzien van een onderdeel van het programma is aangegeven dat nog nadere voorstellen aan het college zullen worden voorgelegd;
 2. beslissingen te nemen tot het tijdelijk plaatsen van verkeerstekens en het uitvoeren van maatregelen als bedoeld in artikel 34 van het Besluit administratieve bepalingen inzake het wegverkeer;
 3. te besluiten tot verkeersmaatregelen op het water op grond van de Scheepvaartverkeerswet, het Besluit administratieve bepalingen scheepvaartverkeer en het Binnenvaartpolitiereglement;
-4. beslissingen te nemen en (rechts)handelingen te verrichten in de sfeer van dagelijks beheer van provinciaal eigendom, het besluiten tot het aangaan van overeenkomsten inzake het beheer van verkeersregelinstallaties daaronder begrepen;
-5. beslissingen te nemen en onderhandelingen te verrichten ter verwerving van eigendom in het kader van de uitvoering van door het college vastgestelde programma's en projecten, het aangaan van kwalitatieve verplichtingen als bedoeld in artikel 6.252 van het Burgerlijk Wetboek daaronder begrepen;
-6. beslissingen te nemen en handelingen te verrichten ter vervreemding van provinciaal eigendom, dat als gevolg van de uitvoering van door het college vastgestelde programma's en projecten mede aangekocht moet worden, doch niet voor de daarbij gestelde doeleinden is bestemd;
-7. overeenkomsten aan te gaan met betrekking tot het gebruik van gronden, het bezwaren van onroerende zaken daaronder begrepen;
-8. overeenkomsten aan te gaan met betrekking tot bereidverklaringen en schaderegelingen inzake bodemsanering ter uitvoering van goedgekeurde programma's of projecten, tenzij in geval van bodemverontreiniging sprake is van een vervuiler en/of schuldige eigenaar;
-9. het verrichten van (rechts)handelingen voortvloeiend uit een besluit van het college met betrekking tot de aanleg/uitvoering van civieltechnische werken, diensten en leveringen, zoals het aanbesteden, het aangaan uit de aanbesteding voortvloeiende overeenkomsten tot aanneming van werk en het geven van opdrachten;
-10. overeenkomsten aan te gaan met betrekking tot verkeersregelinstallaties en gladheidbestrijding;
-11. (met uitzondering van negatieve besluiten, anders dan om formele redenen of anders dan binnen de gebruikelijke of eerder door het college vastgestelde gedragslijn of anders dan in gevallen dat de beslissing op grond van wet- en regelgeving dan wel door vigerende besluiten van het provinciebestuur is gebonden):
-a. beslissingen te nemen inzake ontheffingen op grond van het Voertuigreglement, het Reglement verkeersregels en verkeerstekens 1990;
-b. het nemen van beslissingen op grond van hoofdstuk 12 van de POV.
+4. het verlenen van toestemming voor overschrijding van de in besluit van het college tot vaststelling van maximaal toelaatbare scheepsafmetingen op de provinciale vaarwegen toegestane afmetingen;
+5. beslissingen te nemen en (rechts)handelingen te verrichten in de sfeer van dagelijks beheer van provinciaal eigendom, het besluiten tot het aangaan van overeenkomsten inzake het beheer van verkeersregelinstallaties daaronder begrepen;
+6. beslissingen te nemen en onderhandelingen te verrichten ter verwerving van eigendom in het kader van de uitvoering van door het college vastgestelde programma's en projecten, het aangaan van kwalitatieve verplichtingen als bedoeld in artikel 6.252 van het Burgerlijk Wetboek daaronder begrepen;
+7. beslissingen te nemen en handelingen te verrichten ter vervreemding van provinciaal eigendom, dat als gevolg van de uitvoering van door het college vastgestelde programma's en projecten mede aangekocht moet worden, doch niet voor de daarbij gestelde doeleinden is bestemd;
+8. overeenkomsten aan te gaan met betrekking tot het gebruik van gronden, het bezwaren van onroerende zaken daaronder begrepen;
+9. overeenkomsten aan te gaan met betrekking tot bereidverklaringen en schaderegelingen inzake bodemsanering ter uitvoering van goedgekeurde programma's of projecten, tenzij in geval van bodemverontreiniging sprake is van een vervuiler en/of schuldige eigenaar;
+10. het verrichten van (rechts)handelingen voortvloeiend uit een besluit van het college met betrekking tot de aanleg/uitvoering van civieltechnische werken, diensten en leveringen zoals het aanbesteden, het aangaan uit de aanbesteding voortvloeiende overeenkomsten tot aanneming van werk, en het geven van opdrachten;
+11. overeenkomsten aan te gaan met betrekking tot verkeersregelinstallaties en gladheidsbestrijding;
+12. (met uitzondering van negatieve besluiten, anders dan om formele redenen of anders dan binnen de gebruikelijke of eerder door het college vastgestelde gedragslijn of anders dan in gevallen dat de beslissing op grond van wet- en regelgeving dan wel door vigerende besluiten van het provinciebestuur is gebonden):
+1. beslissingen te nemen inzake ontheffingen op grond van het Voertuigreglement, het Reglement verkeersregels en verkeerstekens 1990;
+2. het nemen van beslissingen op grond hoofdstuk 12 van de Provinciale omgevingsverordening (POV).
 e. Aan het hoofd van de Productgroep Ruimte en Water wordt de bevoegdheid verleend om (met uitzondering van negatieve besluiten, anders dan om formele redenen of anders dan binnen de gebruikelijke of eerder door het college vastgestelde gedragslijn of anders dan in gevallen dat de beslissing op grond van wet- en regelgeving dan wel door vigerende besluiten van het provinciebestuur is gebonden):
 1. beslissingen te nemen omtrent de goedkeuring van uitwerkings- en wijzigingsplannen als bedoeld in artikel 11 van de Wet op de Ruimtelijke Ordening en herzieningen daarvan;
 2. beslissingen te nemen omtrent de goedkeuring van bestemmingsplannen, alsmede van besluiten tot intrekking daarvan, indien geen dan wel kennelijk niet-ontvankelijke bedenkingen zijn ingediend;
 3. te beslissen omtrent de afgifte van (algemene) verklaringen van geen bezwaar;
 4. beslissingen te nemen in het kader van de Wet voorkeursrecht gemeenten;
 5. beslissingen te nemen ten aanzien van waterakkoorden en beheersplannen op grond van de Wet op de waterhuishouding;
-6. beslissingen te nemen ten aanzien van meldingen en vergunningsaanvragen voor de onttrekking van grondwater in het kader van hoofdstuk II van de POV en de Grondwaterwet;
-7. beslissingen te nemen in het kader van de Wet hygiëne en veiligheid badinrichtingen en zwemgelegenheden (WHVBZ), anders dan in het kader van handhaving;
+6. beslissingen nemen ten aanzien van meldingen en vergunningenaanvragen voor de onttrekking van grondwater in het kader van hoofdstuk 11 van de POV en de Grondwaterwet;
+7. beslissingen te nemen in het kader van de Wet hygiëne en veiligheid badinrichtingen en zwemgelegenheden, anders dan in het kader van handhaving;
 8. beslissingen te nemen op grond van de Waterschapswet en de diverse waterschapsreglementen;
-9. beslissingen te nemen in het kader van de artikelen 4.23, eerste lid, sub a, en 10.33, tweede lid, van de Wet milieubeheer.
+9. beslissingen te nemen in het kader van de artikelen 4.23, eerste lid, sub a, en 10.33, tweede lid van de Wet milieubeheer.
 f. Aan het hoofd van de Productgroep Landelijk Gebied wordt de bevoegdheid verleend om (met uitzondering van negatieve besluiten, anders dan om formele redenen of anders dan binnen de gebruikelijke of eerder door het college vastgestelde gedragslijn of anders dan in gevallen dat de beslissing op grond van wet- en regelgeving dan wel door vigerende besluiten van het provinciebestuur is gebonden):
-1. te adviseren over het al dan niet verlenen van goedkeuring, voor zover voortvloeiend uit voorwaarden, verbonden aan vergunningen op grond van artikel 12 van de Natuurbeschermingswet;
-2. te adviseren over het al dan niet verlenen van ontheffingen als bedoeld in artikel 16, tweede lid, onder c, van de Natuurbeschermingswet;
-3. het goedkeuren van beheersplannen ingevolge artikel 14 van de Natuurbeschermingswet;
+1. het nemen van beslissingen met betrekking tot aanvragen om vergunningen op grond van de Natuurbeschermingswet 1998;
+2. beslissingen nemen omtrent de goedkeuring van beheersplannen op grond van de Natuurbeschermingswet 1998;
+3. overige beslissingen in het kader van de Natuurbeschermingswet 1998, anders dan in het kader van handhaving, met uitzondering van goedkeuringsbesluiten als bedoeld in artikel 19j, tweede lid van deze wet;
 4. het nemen van beslissingen op grond van de Flora- en Faunawet, anders dan in het kader van handhaving;
-5. te beslissen over grondverwerving ten behoeve van begrensde relatienotagebieden, natuurontwikkelingsprojecten en traditionele natuurterreinen volgens de criteria, zoals die zijn vastgelegd in de Regeling subsidiecriteria en -voorwaarden natuurgebiedaankopen c.a. en de subsidiecriteria 1984;
+5. te beslissen over grondverwerving ten behoeve van begrensde relatienotagebieden, natuurontwikkelingsprojecten en traditionele natuurterreinen volgens de criteria zoals die zijn vastgelegd in de Regeling subsidiecriteria en -voorwaarden natuurgebiedaankopen c.a. en de subsidiecriteria 1984;
 6. beslissingen te nemen in het kader van de Boswet en de Natuurschoonwet;
 7. het nemen van beslissingen over aanvragen om vergunning in het kader van de Ontgrondingenwet;
-8. het geven van adviezen met betrekking tot de Vogelrichtlijn en de Habitatrichtlijn.
+8. het geven van adviezen met betrekking tot de Vogelrichtlijn en de Habitatrichtlijn;
 g. Aan het hoofd van de Productgroep Bodem wordt de bevoegdheid verleend om (met uitzondering van negatieve besluiten, anders dan om formele redenen of anders dan binnen de gebruikelijke of eerder door het college vastgestelde gedragslijn of anders dan in gevallen dat de beslissing op grond van wet- en regelgeving dan wel door vigerende besluiten van het provinciebestuur is gebonden):
-1. het beslissen op aanvragen om ontheffing en ontheffingsvoorschriften en het nemen van overige beslissingen inzake bodem- en/of grondwaterbescherming op grond van het bepaalde bij of krachtens de Wet bodembescherming (WBB) en de POV;
-2. het nemen van beslissingen met betrekking tot bodemsaneringen op grond van de WBB en de POV, anders dan in het kader van handhaving;
-3. het verrichten van (rechts)handelingen voortvloeiend uit een besluit van het college met betrekking tot de aanleg/uitvoering van civieltechnische werken, diensten en leveringen, zoals het aanbesteden, het aangaan uit de aanbesteding voortvloeiende overeenkomsten tot aanneming van werk en het geven van opdrachten voor onder meer de uitvoering van het Werkplan bodemsanering.
-h. Aan het hoofd van de Productgroep Milieubeheer wordt de bevoegdheid verleend om (met uitzondering van negatieve besluiten, anders dan om formele redenen of anders dan binnen de gebruikelijke of eerder door het college vastgestelde gedragslijn of anders dan in gevallen dat de beslissing op grond van wet- en regelgeving dan wel door vigerende besluiten van het provinciebestuur is gebonden):
-1. beslissingen te nemen op aanvragen om vergunningen en ontheffingen op grond van de Wet milieubeheer (Wm), tenzij bedenkingen zijn ingediend;
-2. beslissingen te nemen op aanvragen tot vaststelling van hogere grenswaarden Wet geluidhinder (WGH);
+1. het beslissen op aanvragen om ontheffing en ontheffingsvoorschriften en het nemen van overige beslissingen inzake bodem- en/of grondwaterbescherming op grond van het bepaalde bij of krachtens de Wet bodembescherming en de POV;
+2. het nemen van beslissingen met betrekking tot bodemsaneringen op grond van de Wet bodembescherming en de POV, anders dan in het kader van handhaving;
+3. het verrichten van (rechts)handelingen voortvloeiend uit een besluit van het college met betrekking tot de aanleg/uitvoering van civieltechnische werken, diensten en leveringen zoals het aanbesteden, het aangaan uit de aanbesteding voortvloeiende overeenkomsten tot aanneming van werk, en het geven van opdrachten voor onder meer de uitvoering van het Werkplan bodemsanering.
+h. Aan het hoofd van de Productgroep Milieubeheerwordt de bevoegdheid verleend om (met uitzondering van negatieve besluiten, anders dan om formele redenen of anders dan binnen de gebruikelijke of eerder door het college vastgestelde gedragslijn of anders dan in gevallen dat de beslissing op grond van wet- en regelgeving dan wel door vigerende besluiten van het provinciebestuur is gebonden):
+1. beslissingen te nemen op aanvragen om vergunningen en ontheffingen op grond van de Wet milieubeheer, tenzij bedenkingen zijn ingediend;
+2. beslissingen te nemen op aanvragen tot vaststelling van hogere grenswaarden Wet geluidhinder;
 3. beslissingen te nemen op aanvragen om ontheffing op grond van de POV;
-4. de provinciale lijst van inzamelbedrijven vast te stellen ter uitvoering van de Inzamelaarsregeling, zoals vastgelegd in de POV;
-5. te beslissen op aanvragen in verband met de openbaarheid, zoals bedoeld in artikel 19.3 van de Wm;
-6. te beslissen inzake verklaringen omtrent de melding zoals bedoeld in artikel 8.19, tweede lid, sub c, van de Wm;
-7. te beslissen omtrent de uitkering van vastgestelde schadevergoedingen op grond van de Wm, binnen de door het college vastgestelde kaders;
+4. de provinciale lijst van inzamelbedrijven vast te stellen ter uitvoering van de inzamelaarregeling zoals vastgelegd in de POV;
+5. te beslissen op aanvragen in verband met de openbaarheid zoals bedoeld in artikel 19.3 van de Wet milieubeheer;
+6. te beslissen inzake verklaringen omtrent de melding zoals bedoeld in artikel 8.19, tweede lid, sub c, van de Wet milieubeheer;
+7. te beslissen omtrent de uitkering van vastgestelde schadevergoedingen op grond van de Wet milieubeheer, binnen de door het college vastgestelde kaders;
 8. beslissingen te nemen op aanvragen om vergunningen en toestemmingen als bedoeld in het Vuurwerkbesluit.
-i. Aan het hoofd van de Productgroep Handhaving wordt de bevoegdheid verleend om beslissingen te nemen in het kader van de handhaving van de Wm, de Wet milieugevaarlijke stoffen, de WGH, de Wet inzake de luchtverontreiniging, de WBB, de Ontgrondingenwet, de Flora- en Faunawet, de WHVBZ, de Grondwaterwet en de POV.
+i. Aan het hoofd van de Productgroep Handhaving wordt de bevoegdheid verleend om beslissingen te nemen in het kader van de handhaving van de Wet milieubeheer, de Wet milieugevaarlijke stoffen, de Wet geluidhinder, de Wet inzake de luchtverontreiniging, de Wet bodembescherming, de Ontgrondingenwet, de Flora- en Faunawet, de Wet hygiëne en veiligheid badinrichtingen en zwemgelegenheden, de Grondwaterwet en de POV.
 III. Aan de hoofden van de stafgroepen worden de volgende bevoegdheden verleend.
 a. Aan het hoofd van de Stafgroep Kabinet wordt de bevoegdheid verleend om: gemeentebesturen uit te nodigen om hun rampenplan te wijzigingen (artikel 6, eerste lid, van de Wet rampen en zware ongevallen).
-b. Aan het hoofd van de Stafgroep Financiën en Control wordt de bevoegdheid verleend om:
+b. Aan het hoofd van de Stafgroep Financiën en Control de bevoegdheid verleend om:
 1. dwangbevelen uit te vaardigen ter invordering van de kosten, verbonden aan de toepassing van bestuursdwang en ter invordering van verbeurde dwangsommen;
 2. te beslissen omtrent het oninbaar verklaren van vorderingen;
 3. te beslissen over de toepassing van de hardheidsclausule ex artikel 63 van de Algemene wet inzake rijksbelastingen juncto artikel 227a, tweede lid, sub a, van de Provinciewet, voor zover het verzoek daartoe is opgenomen in een bezwaarschrift;
-4. het uitzetten en aantrekken van gelden met inachtneming van de Nota treasurybeleid, zoals vastgesteld door PS op 19 april 2000;
+4. het uitzetten en aantrekken van gelden met inachtneming van de nota
+Treasurybeleid zoals vastgesteld door provinciale staten op 19 april 2000;
 5. het factureren en invorderen van vorderingen;
 6. het doen van aangifte op grond van de Wet op de omzetbelasting;
-7. het innen van rechten op een bijdrage op grond van de Wet op het BTW-compensatiefonds.
+7. het innen van rechten op een bijdrage op grond van Wet op het BTW-compensatiefonds.
 c. Aan het hoofd van de Stafgroep Personeel en Organisatie wordt de bevoegdheid verleend om:
-1. correspondentie te voeren met het Algemeen Burgerlijk Pensioenfonds (ABP) met betrekking tot de uitvoering van het Pensioenreglement van de Stichting Pensioenfonds ABP;
+1. correspondentie te voeren met het Algemeen Burgerlijk Pensioenfonds (ABP) met betrekking tot de uitvoering van het Pensioenreglement van de stichting Pensioenfonds ABP;
 2. te beslissen tot het verlenen van opdrachten ter zake van opleidingen;
 3. te beslissen inzake het verstrekken van opdrachten tot het plaatsen van personeelsadvertenties;
 4. de administratieve afhandeling van werving en selectieprocedures;
 5. beslissingen te nemen op verzoeken tot het sparen van compensatieverlof;
-6. te beslissen met betrekking tot intrekking van verleende vakantie als bedoeld in de CAP en beslissingen te nemen met betrekking tot de uitvoering van de fpu+-regeling;
+6. te beslissen met betrekking tot intrekking van verleende vakantie als bedoeld in de Collectieve Arbeidsvoorwaardenregeling Provincies (CAP) en beslissingen te nemen met betrekking tot de uitvoering van de fpu+-regeling;
 7. besluiten te nemen met betrekking tot de uitvoering van de Seniorenregeling;
 8. besluiten te nemen met betrekking tot de 1%-regeling (artikel E.12 van de CAP);
 9. het doen van aangifte voor de loonbelasting/premie volksverzekeringen.
 d. Aan het hoofd van de Stafgroep Bestuurs-, Juridische en Concernzaken wordt de bevoegdheid verleend om (met uitzondering van negatieve besluiten, anders dan om formele redenen of anders dan binnen de gebruikelijke of eerder door het college vastgestelde gedragslijn of anders dan in gevallen dat de beslissing op grond van wet- en regelgeving dan wel door vigerende besluiten van het provinciebestuur is gebonden):
-1. beslissingen te nemen inzake de vergoeding van kosten van administratieve procedures;
-2. beslissingen te nemen inzake de procedure ter voorbereiding van een besluit van het college als bedoeld in de afdelingen 6.2 en 7.2 van de Awb;
+1. beslissingen te nemen inzake de vergoeding van kosten van administratieve proce-dures;
+2. beslissingen te nemen inzake de procedure ter voorbereiding van een besluit van het college als bedoeld in de afdelingen 6.2 en 7.2 van de Awb
 3. meldingen te doen in het kader van de Wet bescherming persoonsgegevens;
 4. met uitzondering van negatieve besluiten, anders dan om formele redenen of anders dan binnen de gebruikelijke of eerder door het college vastgestelde gedragslijn beslissingen te nemen inzake:
 a. de goedkeuring van besluiten met betrekking tot het oprichten van of deelnemen in privaatrechtelijke rechtspersonen (artikel 155 van de Gemeentewet);
 b. het verlenen van ontheffing als bedoeld in artikel 15 van de Gemeentewet;
 c. besluiten van gemeenten en gemeenschappelijke regelingen goed te keuren inzake begroting en begrotingswijzigingen;
-d. besluiten van gemeenten, die ingevolge artikel 25 van de Wet algemene regels herindeling door het college zijn aangewezen, goed te keuren;
+d. het inschrijven van registergoederen in de openbare registers zoals bedoeld in artikel 44, vierde lid, van de Wet algemene regels herindeling.
 5. kennis te nemen van de vaststelling van de gemeenterekening als bedoeld in artikel 198 en volgende van de Gemeentewet;
-6. beslissingen te nemen op bezwaarschriften waarbij de Commissie voor advies voor de bezwaarschriften en klachten van de provincie Drenthe heeft bepaald dat er geen hoorzitting plaatsvindt.
-7. beslissingen te nemen op bezwaarschriften, waarbij de Commissie van advies voor de bezwaarschriften en klachten van de provincie Drenthe heeft geadviseerd tot het niet?ontvanke- lijk of ongegrond verklaren van een bezwaarschrift, behalve als de beslissing genomen is door gedeputeerde staten, de directeur of het hoofd zelf;
-8. beslissingen te nemen die betrekking hebben op besteding van de budgetten van het onderzoeksbureau CWZ en het voeren van correspondentie met de bestuurscommissie CWZ.
-e. Aan het hoofd van de Facilitaire Groep wordt de bevoegdheid verleend om:
+6. beslissingen te nemen op bezwaarschriften waarbij de Commissie van advies voor de bezwaarschriften en klachten heeft bepaald dat er geen hoorzitting plaatsvindt.
+7. beslissingen te nemen op bezwaarschriften, waarbij de Commissie van advies voor de bezwaarschriften en klachten van de provincie Drenthe heeft geadviseerd tot het niet-ontvankelijk of ongegrond verklaren van een bezwaarschrift, behalve als de beslissing, waartegen het bezwaar zich richt, genomen is door gedeputeerde staten, de directeur of het hoofd zelf;
+8. beslissingen te nemen die betrekking hebben op besteding van de budgetten van het Onderzoeksbureau CWZ en het voeren van correspondentie met de Bestuurscommissie CWZ.
+e. Aan het hoofd van de Stafgroep Facilitaire Groep wordt de bevoegdheid verleend om:
 1. te beslissen op verzoeken tot raadpleging of gebruik van archiefbescheiden;
 2. verklaringen te ondertekenen inzake de overbrenging van archiefbescheiden;
 3. verklaringen te ondertekenen inzake de vernietiging van archiefbescheiden;
 4. zorg te dragen voor vernietiging van de daarvoor in aanmerking komende en niet naar een Rijksarchiefbewaarplaats over te brengen archiefbescheiden overeenkomstig de vereisten van de Archiefwet;
 5. verklaringen te ondertekenen inzake vervreemding, vervanging of terbeschikkingstelling van archiefbescheiden, die niet in de Rijksarchiefbewaarplaats berusten;
-6. verklaringen te ondertekenen inzake het stellen en opheffen van beperkingen aan de openbaarheid van archiefbescheiden, berustend bij het overheidsorgaan waaronder zij behoren te berusten, alsook na overbrenging naar de Rijksarchiefbewaarplaats;
+6. verklaringen te ondertekenen inzake het stellen en opheffen van beperkingen aan de openbaarheid van archiefbescheiden, berustend bij het overheidsorgaan waaronder ze behoren te berusten, alsook na overbrenging naar de Rijksarchiefbewaarplaats;
 7. jaarlijks een toelage toe te kennen aan de BHV-deelnemers.
-Directeur-secretaris voornoemd,
-J.D. Nauta
 ## Bijlage 2a, mandaatlijst personele aangelegenheden
 BIJLAGE 2a, MANDAATLIJST PERSONELE AANGELEGENHEDEN
-Bijlage als bedoeld onder 3, Personeel, in het Besluit ondermandaat directeur-secretaris
 Collectieve Arbeidsvoorwaardenregeling Provincies (CAP)
-Collectieve Arbeidsvoorwaardenregeling Provincies (CAP)
+MANDAATLIJST PERSONELE AANGELEGENHEDEN
 Nummer | Bevoegdheid | Ondermandaat | Voorwaarden
 1 | Beslissingen te nemen inzake de uitwerking van de Kaderregeling rechtspositie. |  | 
 2 | Beslissingen te nemen inzake de nadere uitwerking van de Werktijd- en vakantieregeling. |  | 
@@ -348,15 +348,15 @@ Nummer | Bevoegdheid | Ondermandaat | Voorwaarden
 4 | Beslissingen te nemen inzake de Algemene regeling op het gebied van veiligheid, gezondheid of welzijn in verband met de arbeid (concernbreed Arbo-beleidsplan). |  | 
 5 | Wijziging van de omvang van formatie van de product- en stafgroepen. |  | 
 6 | Vrijgeven van een vacature en het vaststellen van de wervings- en selectieprocedure. |  | Met uitzondering van product- en stafgroephoofden. Met inachtneming van door gedeputeerde staten getroffen vacaturemaatregelen.
-7 | Opstellen van advertentietekst. | Product- en stafgroephoofden. | Binnen de concernrichtlijnen.
-8 | Keuze van mediamiddelen. | Product- en stafgroephoofden. | Binnen het toegekende budget en binnen de concernrichtlijnen..
+7 | Opstellen van advertentietekst. | Product- en stafgroephoofden. | Binnen de concernrichtlijnen
+8 | Keuze van mediamiddelen. | Product- en stafgroephoofden. | Binnen het toegekende budget en binnen de concernrichtlijnen.
 9 | Aanstelling (artikel B.1 van de CAP). |  | Met uitzondering van product- en stafgroephoofden.
 10 | Psychologisch onderzoek sollicitant (artikel B.3, tweede lid, van de CAP). |  | 
 11 | Benoeming voor een periode in een functie (artikel B.5 van de CAP). |  | 
 12 | Andere functie of werkzaamheden (artikel B.6 van de CAP). |  | 
 13 | Verplichting andere werkzaamheden te verrichten en de daarbijbehorende noodzakelijke opleidingen te volgen (artikel B.7, eerste en tweede lid,van de CAP). |  | Het betreft andere werkzaamheden in bijzondere omstandigheden.
 14 | Ontslag ambtenaar (artikel B.9 van de CAP met uitzondering van ontslaggronden, genoemd onder n en p). |  | Met uitzondering van product- en stafgroephoofden.
-15 | Ontslag op aanvraag, wegens pensionering, wegens flexibel pensioen en uittreden en wegens reorganisatie (artikel B.10 tot en met B.13 van de CAP. |  | Met uitzondering van product- en stafgroephoofden.
+15 | Ontslag op aanvraag, wegens pensionering, wegens flexibel pen-sioen en uittreden en wegens reorganisatie (artikel B.10 tot en met B.13 van de CAP. |  | Met uitzondering van product- en stafgroephoofden.
 16 | Besluiten tot uitbetaling van overlijdensuitkering (artikel B.15, tweede en derde lid, van de CAP). |  | 
 17 | Beslissingen omtrent geen recht op bezoldiging (artikel C.1, tweede lid). |  | 
 18 | Bepalen van de salarisschaal (artikel C.5, eerste lid). |  | 
@@ -365,35 +365,35 @@ Nummer | Bevoegdheid | Ondermandaat | Voorwaarden
 21 | Beslissingen te nemen inzake het bepalen van het salaris (artikel C.6). | Product- en stafgroephoofden. | 
 22 | Beslissingen te nemen inzake de salarisontwikkeling bij duurzame groei in het functioneren (artikel C.7). | Product- en stafgroephoofden. | 
 23 | Beslissingen nemen inzake de incidentele beloning van prestaties (artikel C.9). |  | 
-24 | Beslissingen nemen inzake incidentele beloning van extra inzet (artikel C.10). | Product- en stafgroephoofden. | Binnen het toegekende budget.
+24 | Beslissingen nemen inzake incidentele beloning van extra inzet (artikel C.10). | Product- en stafgroephoofden. | Binnen het toegekende budget
 25 | Beslissingen nemen inzake de toekenning van een waarnemingstoelage (artikel C.11). |  | 
 26 | Beslissingen nemen inzake de toekenning van een toelage onregelmatige dienst (artikel C.12). |  | 
 27 | Beslissingen nemen inzake de afbouw toelage onregelmatige dienst (artikel C.13). |  | 
 28 | Beslissingen nemen inzake de toekenningen arbeidsmarkttoelage en bindingspremie (artikel C.14). |  | 
-29 | Beslissingen nemen inzake de toekenning van een toelage op andere gronden (artikel C.15). |  | 
+29 | Beslissingen nemen inzake de toekenning van een toelage op andere gronden (artikel C.15). | Product- en stafgroephoofden. | 
 30 | Beslissingen te nemen inzake de toekenning van een vergoeding voor overwerk (artikel C.20). | Product- en stafgroephoofden. | 
 31 | Beslissingen inzake de toekenning van een vergoeding voor andere extra diensten dan overwerk (artikel C.21). |  | 
 32 | Afspraak om veertig uur per week te werken (artikel D.1, vijfde lid, van de CAP). |  | 
 33 | Vastleggen van individuele werktijdregeling in afwijking van de door gedeputeerde staten vastgestelde Werktijdregeling op grond van het eerste of tweede lid (artikel D.2, derde lid, van de CAP). |  | 
 34 | Verplichting tot werken c.q. het beschikbaar houden buiten de voor hem geldende werktijden (artikel D.2, vijfde lid, van de CAP). |  | 
 35 | Aanwijzen van collectieve vrije dagen (artikel D.3 van de CAP). |  | Na overleg met de Ondernemingsraad.
-36 | Beslissingen te nemen inzake de toekenning van (gedeeltelijke) vrijstelling van continudiensten in de nachturen (art. D.4) | Product- en stafgroephoofden. | 
+36 | Beslissingen te nemen inzake de toekenning van (gedeeltelijke) vrijstelling van continudiensten in de nachturen (artikel D.4). | Product- en stafgroephoofden. | 
 37 | Vaststellen en opnemen van verlofuren (artikelen D.5, D.6 en D.7 van de CAP). | Product- en stafgroephoofden. | 
 38 | Intrekking reeds verleende opname algemeen verlof in verband met zwaarwegend bedrijfs- of dienstbelang en uitkeringen van schadevergoeding (artikel D.7, vijfde lid, van de CAP). |  | 
 39 | Besluiten teruggave niet-genoten verlofuren tijdens ziekte (artikel D.8 van de CAP). | Product- en stafgroephoofden. | 
-40 | Uitbetalen niet-opgenomen algemene verlofuren bij ontslag/verrekenen van te veel opgenomen algemene verlofuren bij ontslag (artikel D.9 van de CAP). | Product- en stafgroephoofden. | 
+40 | Uitbetalen niet-opgenomen algemene verlofuren bij ontslag/ verrekenen van te veel opgenomen algemene verlofuren bij ontslag (artikel D.9 van de CAP). | Product- en stafgroephoofden. | 
 41 | Sparen van algemene verlofuren (artikel D.10 van de CAP). | Het hoofd van Personeel en Organisatie. | 
 42 | Alle besluiten ten aanzien van zwangerschaps- en bevallingsverlof (artikel D.11 van de CAP). | Product- en stafgroephoofden. | 
 43 | Verlenen van buitengewoon verlof (artikel D.12 van de CAP). | Product- en stafgroephoofden. | 
 44 | Verlenen van buitengewoon verlof ten behoeve van vakbondsactiviteiten (artikel D.13 van de CAP). | Product- en stafgroephoofden. | 
-45 | Verlenen van non-activiteits-verlof (artikel D.14 van de CAP). |  | 
+45 | Verlenen van non-activiteitsverlof (artikel D.14 van de CAP). |  | 
 46 | Beslissingen inzake betaald ouderschapsverlof (artikel D.15 van de CAP). |  | 
 47 | Beslissingen met betrekking tot financiering loopbaanonderbreking, inclusief de Wet arbeid en zorg (artikel D.16 van de CAP). |  | 
 48 | Alle beslissingen met betrekking tot buitengewoon verlof (artikel D.17 van de CAP). |  | 
 49 | Verplichting tot het ondergaan van arbeidsgezondheidskundig onderzoek (artikel E.4 van de CAP). |  | 
 50 | Aanwijzing commissie van drie artsen (artikel E.5, vierde lid, van de CAP). |  | 
 51 | Buitendienststelling (artikel E.6 van de CAP). |  | 
-52 | Besluiten inzake reïntegratie van zieke ambtenaren (artikel E.7 van de CAP). | Product- en stafgroephoofden. | Ten aanzien van het tweede lid van het Plan van aanpak reïntegratie.
+52 | Besluiten inzake reïntegratie van zieke ambtenaren (artikel E.7 van de CAP). | Product- en stafgroephoofden. | Ten aanzien van tweede lid, het plan van aanpak reïntegratie
 53 | Besluiten betreffende de procedure om over te gaan tot ontslag wegens arbeidsongeschiktheid (artikel E.9 van de CAP). |  | 
 54 | Ontheffing van verplichte deelname aan de Interprovinciale ziektekostenregeling (IZR) (artikel E.11 van de CAP). |  | 
 55 | Besluiten op basis van de 1%¿regeling (artikel E12, eerste en vijfde lid, van de CAP). |  | 
@@ -406,9 +406,9 @@ Nummer | Bevoegdheid | Ondermandaat | Voorwaarden
 62 | Opleggen van plicht tot bewoning van de dienstwoning en het maken van afspraken daarover (artikel F.6 van de CAP). |  | 
 63 | Opleggen van de plicht tot aanzuivering van tekorten (artikel F.8 van de CAP). |  | 
 64 | Opleggen van de plicht een opleiding te volgen (artikel F.9 van de CAP). |  | 
-65 | Ontzegging van de toegang tot dienstgebouwen of het werk (artikel G.1 van de CAP). |  | 
+65 | Ontzegging van de toegang tot dienstgebouwen of het werk (artikelG.1 van de CAP). |  | 
 66 | Schorsing in het belang van de dienst (artikel G.2, eerste lid, onderdeel a tot en met d, van de CAP). |  | 
-67 | Uitbetalen van niet-ingehouden deel van salaris aan anderen dan aan de ambtenaar (artikel G.2, derde lid, van de CAP). |  | 
+67 | Uitbetalen van niet-ingehou-den deel van salaris aan anderen dan aan de ambtenaar (artikel G.2, derde lid, van de CAP). |  | 
 68 | Opleggen van disciplinaire straffen met uitzondering van ontslag (artikel G.4, eerste lid, onderdeel a tot en met d, van de CAP). |  | 
 69 | Besluiten inzake detacheringsovereenkomsten. |  | 
 70 | Indienstneming op arbeidsovereenkomst naar burgerlijk recht (artikel H.2 van de CAP). |  | Met uitzondering van product- en stafgroephoofden.
@@ -421,8 +421,8 @@ Nummer | Bevoegdheid | Ondermandaat | Voorwaarden
 77 | Beslissingen omtrent het aanmerken van medewerkers als loopbaankandidaat. |  | 
 78 | Verlenen van outplacementfaciliteiten. |  | 
 79 | Het treffen van arrangementen met medewerkers in het kader van beëindiging/aanpassing van hun dienstverband. |  | 
-80 | Beslissingen te nemen over het bepalen van het verstrekkingenpakket inzake dienstkleding. | Product- en stafgroephoofden. | Binnen het toegekende budget.
-81 | Beslissingen te nemen inzake het sparen van compensatieverlof. |  | 
+80 | Beslissingen te nemen over het bepalen van het verstrekkingenpakket inzake dienstkleding | Product- en stafgroephoofden. | Binnen het toegekende budget.
+81 | Beslissingen te nemen inzake het sparen van compensatieverlof |  | 
 Sociaal statuut
 Sociaal statuut
 Nummer | Bevoegdheid | Ondermandaat | Voorwaarden
@@ -433,14 +433,14 @@ Nummer | Bevoegdheid | Ondermandaat | Voorwaarden
 I | Aanpassen van de bedragen. |  | Doorberekenen van de algemene salarisverhogingen (CAO-verhogingen als gevolg van de koopkracht).
 Procedureregeling methodische functiewaardering
 Procedureregeling methodische functiewaardering
-Nummer | Bevoegdheid | Ondermandaat | Voorwaarden | 
+Nummer | Bevoegdheid | Ondermandaat | Voorwaarden
 I | Vaststellen organieke functiebeschrijving (artikel 3). |  | Met uitzondering van product- en stafgroephoofden.
 II | Besluiten op verzoek herbeschrijving van de functie (artikel 4). |  | Met uitzondering van product- en stafgroephoofden.
 III | Vaststellen organieke functiewaardering. |  | Met uitzondering van product- en stafgroephoofden.
 Regels toekenning gratificatie bij een ambtsjubileum
 Regels toekenning gratificatie bij een ambtsjubileum
 Nummer | Bevoegdheid | Ondermandaat | Voorwaarden
-I | Toekennen van een gratificatie. |  | Conform de regels Toekenning gratificatie bij een ambtsjubileum.
+I | Toekennen van een gratificatie. |  | Conform de regels toekenning gratificatie bij een ambtsjubileum.
 Regeling toeslag vuil en onaangenaam werk
 Regeling toeslag vuil en onaangenaam werk
 Nummer | Bevoegdheid | Ondermandaat | Voorwaarden
@@ -466,10 +466,10 @@ Kortingsregeling in verband met bezoldigde nevenfuncties
 Kortingsregeling in verband met bezoldigde nevenfuncties
 Nummer | Bevoegdheid | Ondermandaat | Voorwaarden
 I | Alle besluiten gebaseerd op deze regeling. |  | 
-Regeling stageovereenkomsten
-Regeling stageovereenkomsten
+Regeling stage overeenkomsten
+Regeling stage overeenkomsten
 Nummer | Bevoegdheid | Ondermandaat | Voorwaarden
-I | Het aangaan van een stageovereenkomst. |  | 
+I | Het aangaan van een stage overeenkomst. |  | 
 Rechtspositie en beloning bij tijdelijke functie
 Rechtspositie en beloning bij tijdelijke functie
 Nummer | Bevoegdheid | Ondermandaat | Voorwaarden
@@ -481,13 +481,13 @@ I | Beslissingen te nemen op een aanvraag (artikel 2, tweede en vijfde lid). | P
 II | Beslissingen te nemen om een fiets toe te kennen (artikel 5, eerste lid). | Product- en stafgroephoofden. | 
 III | Beslissingen te nemen omtrent het toekennen van een openbaarvervoersabonnement (artikel 6, eerste en tweede lid). | Product- en stafgroephoofden. | 
 IV | Beslissingen te nemen omtrent het vergoeden van de vakbondscontributie (artikel 7) | Product- en stafgroephoofden. | 
-V | Beslissingen te nemen ten aanzien van uitbetaling van verlof (artikel 8). | Product- en stafgroephoofden. | 
+V | Beslissingen te nemen ten aanzien van uitbetaling van verlof (artikel 8) | Product- en stafgroephoofden. | 
 Regeling jaargesprekken
 Regeling jaargesprekken
 Nummer | Bevoegdheid | Ondermandaat | Voorwaarden
 I | Vaststellen van een beoordeling. | Product- en stafgroephoofden. | Voor zover er geen geschilpunten tussen beoordelaar en beoordeelde zijn.
-II | Voorbereiden planningsgesprek. | Sectiecoördinator. | Uitgezonderd de afspraken omtrent de competentieontwikkeling.
-III | Voortgangsgesprekken. | Sectiecoördinator. | Niet in geval van matig/slecht functioneren.
+II | Voorbereiden planningsgesprek | Sectiecoördinator. | Uitgezonderd de afspraken omtrent de competentieontwikkeling.
+III | Voortgangsgesprekken | Sectiecoördinator. | Niet in geval van matig/slecht functioneren.
 Beleidsregels Wet aanpassing arbeidsduur
 Beleidsregels Wet aanpassing arbeidsduur
 Nummer | Bevoegdheid | Ondermandaat | Voorwaarden
@@ -506,15 +506,15 @@ Nummer | Bevoegdheid | Ondermandaat | Voorwaarden
 I | Alle besluiten gebaseerd op de artikelen 29b, 63, 64, 65, 65a, 65b, 66, 67, 68, 69, 69a en 69b. |  | Voor zover de bepalingen nog van toepassing zijn.
 Wachtgeldverordening
 Wachtgeldverordening
-Nummer | Bevoegdheid | Ondermandaat | Voorwaarden
-I | Alle besluiten gebaseerd op deze regeling. |  | 
+Nummer | Bevoegdheid | Voorwaarden
+I | Alle besluiten gebaseerd op deze regeling. | 
 Uitkeringsverordening
 Uitkeringsverordening
-Nummer | Bevoegdheid | Ondermandaat | Voorwaarden
-I | Alle besluiten gebaseerd op deze regeling. |  | 
+Nummer | Bevoegdheid | Voorwaarden
+I | Alle besluiten gebaseerd op deze regeling. | 
 ## Bijlage 2b, overzicht ondermandaten
 BIJLAGE 2b, OVERZICHT ONDERMANDATEN AAN MEDEWERKERS TOT HET UITOEFENEN VAN DE BEVOEGDHEID DIE HET HOOFD VAN DE STAF- OF PRODUCTGROEP KRACHTENS HET BESLUIT VAN DE DIRECTEUR-SECRETARIS VAN 15 MAART 2005 HEEFT
-OVERZICHT ONDERMANDATEN
+OVERZICHT ONDERMANDATEN AAN MEDEWERKERS
 Productgroep | Naam ondergemandateerde | Functie
 Economie | 1. J.K. Geveke | coördinerend beleidsmedewerker
  | 2. W.F. Postma | beleidsmedewerker
@@ -556,7 +556,7 @@ Kompas | 1. L. Hoven | projectleider Kompas
 Programma Stad | J. Tolsma | 
 Programma Land | W. de Bruijn | 
 Overzicht ondermandaten aan medewerkers tot het uitoefenen van de hierna genoemde bevoegdheden die het hoofd van de staf- of productgroep krachtens het besluit mandaat, machtiging en volmacht gedeputeerde staten 2004
-Overzicht ondermandaten
+Overzicht ondermandaten aan medewerkers
 Productgroep | Naam | Functie | Bevoegdheden
 Ruimte en Water (RW) | A. Anema ing. W.F.R. Feenstra B.K. Hendriks drs. ing. A.T. Hiddema H. Hingstman drs. F.E. Jorritsma P.K. Munnik A. Oldenhuis E. Saathof N. Scheeper | medewerkers gemeentelijke plannen | De uitoefening van de bevoegdheden van het hoofd RW, voor zover deze betrekking hebben op: 1. het nemen van beslissingen omtrent de afgifte van verklaringen van geen bezwaar met inbegrip van de procedure ter voorbereiding daarvan; 2. beslissingen te nemen omtrent de goedkeuring van bestemmingsplannen, met inbegrip van de procedure ter voorbereiding daarvan; 3. beslissingen te nemen omtrent de goedkeuring van uitwerkings- en wijzigingsplannen, indien geen bedenkingen zijn ingediend met inbegrip van de procedure ter voorbereiding daarvan.
 RW | S. Abbes J.H. Haaijer |  | De uitoefening van de bevoegdheden van het hoofd RW, voor zover deze betrekking hebben op: 1. de toezending van ontvangstbevestigingen aan degene die bedenkingen heeft ingediend in het kader van een procedure op grond van de Wet op de Ruimtelijke Ordening; 2. de toezending van de onder 1 bedoelde bedenkingen om bericht en raad aan de betrokken gemeentebesturen.
