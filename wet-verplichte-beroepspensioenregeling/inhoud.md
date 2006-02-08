@@ -15,6 +15,9 @@
 ### § 1. Aanwijzing van De Nederlandsche Bank N.V.
 ### § 2. Jaarverslag
 ### § 3. Overige taken De Nederlandsche Bank N.V.
+### § 3a. Verlening vergunning grensoverschrijdende activiteiten
+### § 3b. Toezicht grensoverschrijdende activiteiten beroepspensioenfondsen
+### § 3c. Toezicht grensoverschrijdende activiteiten pensioeninstellingen uit andere lidstaat
 ### § 4. Toezicht op de naleving; bevoegdheden van De Nederlandsche Bank N.V.
 ### § 5. Accountant en actuaris
 ### § 6. Getuigen en deskundigen

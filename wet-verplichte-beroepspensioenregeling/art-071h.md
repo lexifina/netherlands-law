@@ -1,0 +1,2 @@
+# Artikel 71h
+De Nederlandsche Bank N.V. neemt, in coördinatie met de bevoegde autoriteiten van de lidstaat waarvan de voor bedrijfspensioenvoorziening geldende sociale en arbeidswetgeving van toepassing is op de beroepspensioenregeling, de nodige maatregelen om ervoor te zorgen dat een beroepspensioenfonds een einde maakt aan een vastgestelde inbreuk op de toepasselijke regelgeving.
