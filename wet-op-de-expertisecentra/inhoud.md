@@ -14,8 +14,8 @@
 ### Afdeling 2. Aanvang van de bekostiging
 ### Afdeling 3. Voorziening in de huisvesting
 ### Afdeling 4. Materiële instandhouding
-### Afdeling 5. Formatie personeel; bekostiging kosten vervanging van personeel
-### Afdeling 6. Schoolbudget voor personeels- en arbeidsmarktbeleid
+### Afdeling 5. Grondslag bekostiging personeelskosten
+### Afdeling 6. Budget voor personeels- en arbeidsmarktbeleid
 ### Afdeling 7. Wijze van bekostiging
 #### § 1. Huisvesting
 #### § 2. Materiële instandhouding
@@ -23,6 +23,7 @@
 #### § 4. Gemeentelijk beleid met betrekking tot personele en materiële voorzieningen
 #### § 5. Overschrijdingsregeling
 #### § 6. Bestedingsmogelijkheden
+#### § 7. Betaling van de bekostiging
 ### Afdeling 8. Beëindiging van de bekostiging
 ### Afdeling 9. Gemeentelijk onderwijsachterstandenbeleid
 ### Afdeling 10. Verslaglegging en informatieverstrekking

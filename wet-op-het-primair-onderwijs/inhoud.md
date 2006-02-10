@@ -19,9 +19,9 @@
 ##### § 3. Nadere voorschriften voor de uitvoering van afdeling 2
 #### Afdeling 3. Voorziening in de huisvesting
 #### Afdeling 4. Materiële instandhouding
-#### Afdeling 5. Formatie personeel; bekostiging kosten vervanging van personeel
-#### Afdeling 6. Schoolbudget voor personeels- en arbeidsmarktbeleid
-#### Afdeling 7. Gezamenlijke zorgformatie basisscholen
+#### Afdeling 5. Grondslag bekostiging personeelskosten
+#### Afdeling 6. Budget voor personeels- en arbeidsmarktbeleid
+#### Afdeling 7. Gezamenlijke personeelsbekostiging voor zorgvoorzieningen basisscholen
 #### Afdeling 8. Wijze van bekostiging
 ##### § 1. Huisvesting
 ##### § 2. Materiële instandhouding
@@ -29,6 +29,7 @@
 ##### § 4. Gemeentelijk beleid met betrekking tot personele en materiële voorzieningen
 ##### § 5. Overschrijdingsregeling
 ##### § 6. Bestedingsmogelijkheden
+##### § 7. Betaling van de bekostiging
 #### Afdeling 9. Beëindiging van de bekostiging
 ##### § 1. Basisscholen
 ##### § 2. Speciale scholen voor basisonderwijs
