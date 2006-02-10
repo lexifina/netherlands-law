@@ -1,3 +1,0 @@
-# Artikel 17d. Overdracht formatierekeneenheden aan speciale school voor basisonderwijs bij overgang leerling naar ander samenwerkingsverband
-1. Het aantal formatierekeneenheden, bedoeld in artikel 125, eerste en tweede lid, van de wet bedraagt voor elk schooljaar volgend op het schooljaar van de toelating van de leerling tot de speciale school voor basisonderwijs 13,5 formatierekeneenheden, met dien verstande dat dit aantal in het eerste schooljaar volgend op de toelating 22,6 formatierekeneenheden bedraagt indien de toelating heeft plaatsgevonden in de periode van 2 oktober tot 1 augustus daaropvolgend.
-2. Het op grond van het eerste lid berekende aantal formatierekeneenheden wordt rekenkundig afgerond op een geheel getal.

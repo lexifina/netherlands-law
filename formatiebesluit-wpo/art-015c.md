@@ -1,6 +1,0 @@
-# Artikel 15c. Groeiformatie
-1. Aan het bevoegd gezag van een basisschool wordt groeiformatie toegekend, indien:
-a. het aantal leerlingen van die school voor 1 april van een schooljaar met ten minste 13 is toegenomen ten opzichte van 103% van het aantal leerlingen op de teldatum, en vervolgens telkens indien het aantal leerlingen van die school voor 1 april van hetzelfde schooljaar met ten minste 13 is toegenomen ten opzichte van het aantal leerlingen op grond waarvan de laatste maal in dat schooljaar groeiformatie is toegekend; en
-b. het bevoegd gezag van die school het aantal leerlingen op grond waarvan het bevoegd gezag aanspraak maakt op groeiformatie, binnen twee weken na de telling op een daartoe bij ministeriële regeling vastgesteld formulier aan Onze Minister heeft gemeld.
-2. Bij de berekening van 103% van het aantal leerlingen op de teldatum als bedoeld in het eerste lid, onder a, wordt de uitkomst naar beneden afgerond op een geheel getal.
-3. De groeiformatie wordt toegekend met ingang van de eerste dag van de maand volgende op de telling waarop de melding, bedoeld in het eerste lid, onder b, betrekking heeft, dan wel, indien de telling waarop de melding betrekking heeft, heeft plaatsgevonden op de voor de school geldende eerste schooldag van het schooljaar, met ingang van de eerste dag van dat schooljaar.
