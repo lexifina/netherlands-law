@@ -6,7 +6,7 @@ de Destructiewet, de artikelen 4, 5, eerste en tweede lid en artikel 23;
 de Flora- en faunawet, artikel 13, eerste lid;
 de Grondwaterwet, artikel 14, eerste en tweede lid;
 de Kernenergiewet, de artikelen 15, 21, 21a, 21e, eerste lid, 29, eerste lid, 31, 32, eerste lid, 34, eerste, vijfde en zesde lid, 37b, 38a, 46, eerste lid, 47, eerste lid, 49b, eerste lid, 49d, 75, tweede lid, en 76a;
-de Meststoffenwet, de artikelen 5a, 5h, eerste lid, 56, 57, eerste lid, 58, 58a, derde lid en 58e, zesde lid;
+de Meststoffenwet, de artikelen 7, 14, eerste lid, 19, 20, eerste lid, 21, 22, derde lid en 26, zesde lid;
 de Wet bestrijding ongevallen Noordzee, de artikelen 4, eerste, tweede, derde en vierde lid, en 15;
 de Wet bodembescherming, de artikelen 6 tot en met 13, 38 en 94;
 de Wet houdende wijziging van de Bestrijdingsmiddelenwet 1962 (landbouwkundig onmisbare gewasbeschermingsmiddelen): artikel II, derde en zesde lid, en bijlage.
@@ -37,12 +37,12 @@ de Wet verontreiniging oppervlaktewateren, de artikelen 2b, eerste, tweede en de
 de Wet verontreiniging zeewater, de artikelen 6 en 6a;
 de Wet voorkoming verontreiniging door schepen, de artikelen 6, tweede lid, artikel 10, eerste lid, onder b en d, 10, derde lid, jo. artikel 10, eerste lid, onder b en d, 11, eerste en derde lid, 12a, eerste, tweede, derde en vierde lid, 12d, eerste lid, 16, 17, en 31;
 3°. overtredingen van voorschriften, gesteld bij of krachtens:
-de Bestrijdingsmiddelenwet 1962, de artikelen 2, vijfde, zesde en zevende lid, 5a, derde lid,, 10, tweede lid, 11, 11a, 12 en 13a tot en met 15;
+de Bestrijdingsmiddelenwet 1962, de artikelen 2, vijfde, zesde en zevende lid, 5a, derde lid, 10, tweede lid, 11, 11a, 12 en 13a tot en met 15;
 de Destructiewet, de artikelen 3, eerste, tweede en derde lid, 4a, 6, 9, 10, eerste en vijfde lid, 11, 12, 13, eerste, tweede, derde, vierde en vijfde lid, 15, 17, eerste lid, en 25, vierde lid;
 de Flora- en faunawet, de artikelen 10, 16, 37, eerste en tweede lid, 38, eerste lid, 50, eerste, tweede en derde lid, 51, 52, 53, 54, eerste lid, 58, 59, tweede lid, 60, vijfde lid, 62, eerste lid, 63, eerste lid, 64, tweede lid, 67, zesde lid, 72, vijfde lid, 74, eerste lid, 74a, eerste lid, 79, tweede lid, 81, eerste lid, en 111, eerste lid.
 de Grondwaterwet, artikel 11;
 de Kernenergiewet, de artikelen 36, eerste lid, en - voor zover aangeduid als strafbare feiten - 73;
-de Meststoffenwet, de artikelen 3, 4, 5, 5c, tweede lid, 5e, vijfde lid, 5g, derde lid, 6, 6a, 59, 59a59b, 59c, 59d, derde lid, en 61;
+de Meststoffenwet, de artikelen 4, 5, 6, 9, tweede lid, 11, vijfde lid, 13, derde lid, 15, 16, 34, 3536, 37, 38, derde lid, en 40;
 de Wet bescherming Antarctica, de artikelen 19, tweede lid, en 33
 de Wet geluidhinder, de artikelen 2, 3, 8, 9, 10, 170, tweede lid, en 175;
 de Wet inzake de luchtverontreiniging, de artikelen 92, onder a, in verband met de artikelen 13, 14 en 86, tweede lid, 92, onder c, en 92, onder d;
