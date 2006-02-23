@@ -1,0 +1,4 @@
+# Article XII. Effect on International Conventions and Other Legislation
+1. Nothing in this Convention shall prejudice the codification and development of the law of the sea by the United Nations Conference on the Law of the Sea convened pursuant to Resolution 2750 C (XXV) of the General Assembly of the United Nations nor the present or future claims and legal views of any State concerning the law of the sea and the nature and extent of coastal and flag State jurisdiction.
+2. The provisions of this Convention shall in no way affect the rights or obligations of any Party deriving from any existing treaty, convention or agreement.
+3. The provisions of this Convention shall in no way affect the right of Parties to adopt stricter domestic measures concerning the conservation of migratory species listed in Appendices I and II or to adopt domestic measures concerning the conservation of species not listed in Appendices I and II.

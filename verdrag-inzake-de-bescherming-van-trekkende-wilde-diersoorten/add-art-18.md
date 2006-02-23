@@ -1,0 +1,3 @@
+# Article XVIII. Entry into Force
+1. This Convention shall enter into force on the first day of the third month following the date of deposit of the fifteenth instrument of ratification, acceptance, approval or accession with the Depositary.
+2. For each State or each regional economic integration organization which ratifies, accepts or approves this Convention or accedes thereto after the deposit of the fifteenth instrument of ratification, acceptance, approval or accession, this Convention shall enter into force on the first day of the third month following the deposit by such State or such organization of its instrument of ratification, acceptance, approval or accession.

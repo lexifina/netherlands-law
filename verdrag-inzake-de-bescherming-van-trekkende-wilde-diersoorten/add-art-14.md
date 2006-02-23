@@ -1,0 +1,3 @@
+# Article XIV. Reservations
+1. The provisions of this Convention shall not be subject to general reservations. Specific reservations may be entered in accordance with the provisions of this Article and Article XI.
+2. Any State or any regional economic integration organization may, on depositing its instrument of ratification, acceptance, approval or accession, enter a specific reservation with regard to the presence on either Appendix I or Appendix II or both, of any migratory species and shall then not be regarded as a Party in regard to the subject of that reservation until ninety days after the Depositary has transmitted to the Parties notification that such reservation has been withdrawn.

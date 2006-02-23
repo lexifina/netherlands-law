@@ -1,0 +1,3 @@
+# Artikel XVIII. Inwerkingtreding
+1. Dit Verdrag treedt in werking op de eerste dag van de derde maand na het tijdstip van nederlegging van de vijftiende akte van bekrachtiging, aanvaarding, goedkeuring of toetreding bij de depositaris.
+2. Ten aanzien van iedere Staat en iedere regionale organisatie voor economische integratie, die dit Verdrag bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt na de nederlegging van de vijftiende akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, treedt dit Verdrag in werking op de eerste dag van de derde maand na de nederlegging door die Staat of door die organisatie van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.

@@ -1,0 +1,3 @@
+# Artikel XIII. Regeling van geschillen
+1. Over elk tussen twee of meer Partijen bij dit Verdrag gerezen geschil ten aanzien van de uitlegging of de toepassing van de bepalingen ervan, wordt tussen de bij het geschil betrokken Partijen onderhandeld.
+2. Indien het geschil niet overeenkomstig de in het eerste lid van dit artikel bedoelde wijze kan worden geregeld, kunnen de Partijen in onderling overleg het geschil ter arbitrage voorleggen, met name aan het Permanent Hof van Arbitrage te 's-Gravenhage; de Partijen die het geschil ter arbitrage hebben voorgelegd, zijn door de scheidsrechterlijke uitspraak gebonden.

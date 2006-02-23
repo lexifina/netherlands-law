@@ -1,0 +1,4 @@
+# Article VI. Range States
+1. A list of the Range States of migratory species listed in Appendices I and II shall be kept up to date by the Secretariat using information it has received from the Parties.
+2. The Parties shall keep the Secretariat informed in regard to which of the migratory species listed in Appendices I and II they consider themselves to be Range States, including provision of information on their flag vessels engaged outside national jurisdictional limits in taking the migratory species concerned and, where possible future plans in respect of such taking.
+3. The Parties which are Range States for migratory species listed in Appendix I or Appendix II should inform the Conference of the Parties through the Secretariat, at least six months prior to each ordinary meeting of the Conference, on measure that they are taking to implement the provisions of this Convention for these species.

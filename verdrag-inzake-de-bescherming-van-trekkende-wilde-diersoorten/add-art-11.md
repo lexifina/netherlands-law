@@ -1,0 +1,7 @@
+# Article XI. Amendment of the Appendices
+1. Appendices I and II may be amended at any ordinary or extraordinary meeting of the Conference of the Parties.
+2. Proposals for amendment may be made by any Party.
+3. The text of any proposed amendment and the reasons for it, based on the best scientific evidence available, shall be communicated to the Secretariat at least one hundred and fifty days before the meeting and shall promptly be communicated by the Secretariat to all Parties. Any comments on the text by the Parties shall be communicated to the Secretariat not less than sixty days before the meeting begins. The Secretariat shall, immediately after the last day for submission of comments, communicate to the Parties all comments submitted by that day.
+4. Amendments shall be adopted by a two-thirds majority of Parties present and voting.
+5. An amendment to the Appendices shall enter into force for all Parties ninety days after the meeting of the Conference of the Parties at which it was adopted, except for those Parties which make a reservation in accordance with paragraph 6 of this Article.
+6. During the period of ninety days provided for in paragraph 5 of this Article, any Party may by notification in writing to the Depositary make a reservation with respect to the amendment. A reservation to an amendment may be withdrawn by written notification to the Depositary and thereupon the amendment shall enter into force for that Party ninety days after the reservation is withdrawn.
