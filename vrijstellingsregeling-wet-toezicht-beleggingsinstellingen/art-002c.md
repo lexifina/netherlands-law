@@ -1,0 +1,3 @@
+# Artikel 2c
+1. Van het in artikel 4, eerste en tweede lid, van de Wet toezicht beleggingsinstellingen vervatte verboden wordt vrijstelling verleend voor het aanbieden van rechten van deelneming, aan bestuurders, leden van de raad van commissarissen of werknemers van de beleggingsinstelling van die rechten van deelneming, of aan bestuurders, leden van de raad van commissarissen of werknemers van een met die beleggingsinstelling in een groep verbonden rechtspersoon, vennootschap of instelling.
+2. Het bepaalde in het eerste lid is niet van toepassing op beheerders van beleggingsinstellingen die voorzieningen aanhouden in het kader van een levensloopregeling als bedoeld in artikel 19g van de Wet op de loonbelasting 1964.
