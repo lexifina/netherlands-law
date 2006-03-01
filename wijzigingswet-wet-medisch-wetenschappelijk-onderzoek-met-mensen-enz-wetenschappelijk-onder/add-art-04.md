@@ -1,0 +1,2 @@
+# Artikel IV
+Op een vóór de inwerkingtreding van deze wet ingediende aanvraag om een oordeel van een daartoe ingevolge artikel 2, tweede lid, van de Wet medisch-wetenschappelijk onderzoek met mensen bevoegde commissie over een wetenschappelijk onderzoek met geneesmiddelen waarop nog niet onherroepelijk is beslist, en de beoordeling van die aanvraag blijven de bepalingen van de Wet medisch-wetenschappelijk onderzoek met mensen, die golden ten tijde van die aanvraag, van toepassing.
