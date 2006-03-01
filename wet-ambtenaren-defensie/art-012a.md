@@ -5,4 +5,3 @@ a. een politieke groepering waarvan de naam of aanduiding is ingeschreven overee
 b. een politieke groepering waarvan de naam of aanduiding is ingeschreven overeenkomstig artikel G3 van de Kieswet, en die, indien na de inschrijving verkiezingen zijn gehouden voor de gemeenteraden, aan de laatst gehouden verkiezingen heeft deelgenomen; of
 c. een vakvereniging.
 3. De militaire ambtenaar is verplicht tot geheimhouding van enig gegeven, de dienst betreffende, tegenover een ieder die tot kennisneming daarvan niet bevoegd is, voor zover die verplichting uit de aard der zaak volgt.
-4. De militaire ambtenaar die te goeder trouw de bij hem levende vermoedens van misstanden uit volgens de procedure, bedoeld in artikel 12, eerste lid, onder r, zal als gevolg van het uiten van die vermoedens geen nadelige gevolgen voor zijn rechtspositie ondervinden tijdens en na het volgen van die procedure.
