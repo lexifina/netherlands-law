@@ -1,0 +1,5 @@
+# Artikel 2b
+1. Met betrekking tot nieuw te bouwen, nog niet in aanbouw zijnde woningen kunnen gedeputeerde staten toepassing geven aan artikel 67, vierde lid, van de wet:
+1°. bij herstructurering van havenbekkens, haventerreinen of activiteiten die zeehavengebonden zijn, en
+2°. indien de toepassing van maatregelen, gericht op het terugbrengen van de geluidsbelasting, vanwege het industrieterrein, van de uitwendige scheidingsconstructie van de betrokken woningen tot 50 dB(A) onvoldoende doeltreffend zal zijn, dan wel overwegende bezwaren ontmoet van stedebouwkundige, landschappelijke of financiële aard.
+2. Met betrekking tot nieuw te bouwen, nog niet in aanbouw zijnde woningen kunnen gedeputeerde staten toepassing geven aan artikel 67, vijfde lid, van de wet, indien de toepassing van maatregelen, gericht op het terugbrengen van de geluidsbelasting, vanwege het industrieterrein, van de uitwendige scheidingsconstructie van de betrokken woningen tot 50 dB(A) onvoldoende doeltreffend zal zijn, dan wel overwegende bezwaren ontmoet van stedebouwkundige, landschappelijke of financiële aard.

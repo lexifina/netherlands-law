@@ -1,0 +1,5 @@
+# Artikel 14a
+1. Burgemeester en wethouders van de gemeente, bedoeld in artikel 10, onder a, houden binnen de in artikel 11, tweede lid, bedoelde termijn een openbare zitting, waarbij een ieder de gelegenheid wordt gegeven opmerkingen te maken ten aanzien van het ontwerp van het verzoek, bedoeld in artikel 11.
+2. Burgemeester en wethouders van de gemeente, bedoeld in artikel 10, onder a, stellen een rapport op van de wijze waarop de bevolking bij de totstandkoming van het verzoek, bedoeld in artikel 10, is betrokken, waarin in ieder geval begrepen zijn een verslag van de openbare zitting en afschriften van de schriftelijk gemaakte opmerkingen over het ontwerp van het verzoek. Zij zenden dit rapport onmiddellijk toe aan degenen die op de openbare zitting opmerkingen ten aanzien van het ontwerp van het verzoek hebben gemaakt, en aan de verzoeker.
+3. Een verzoek als bedoeld in artikel 10 gaat vergezeld van het in het tweede lid bedoelde rapport.
+4. Dit artikel blijft van toepassing zolang de betrokken gemeente met inachtneming van artikel 151 juncto artikel 297 van de Gemeentewet geen inspraakverordening heeft vastgesteld en in werking heeft laten treden.
