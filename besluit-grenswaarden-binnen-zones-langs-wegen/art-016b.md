@@ -1,0 +1,8 @@
+# Artikel 16b
+1. Met betrekking tot krachtens artikel 2 van de Wet D'gemeenten en D'provincies (Stb. 1991, 449) aangewezen D'gemeenten is voor de in artikel 3, eerste lid, van die wet genoemde periode dit besluit van toepassing, zoals dit in dit artikel wordt bepaald.
+2. In artikel 1a wordt "geven gedeputeerde staten" vervangen door: geeft de gemeenteraad of, in voorkomend geval, het college van burgemeester en wethouders. Voorts wordt in dat artikel "hun oordeel" vervangen door: zijn oordeel.
+3. In de artikelen 2, eerste, derde en vierde lid, 3, 8, derde lid, 9 en 14, derde lid, wordt "Gedeputeerde staten kunnen" telkens vervangen door: De gemeenteraad of, in voorkomend geval, het college van burgemeester en wethouders kan.
+4. In artikel 13, derde lid, wordt "Burgemeester en wethouders van de gemeente, bedoeld in artikel 12, onder a," vervangen door: Burgemeester en wethouders van een krachtens artikel 2 van de Wet D'gemeenten en D'provincies aangewezen D'gemeente, aan wie een verzoek als bedoeld in de artikelen 83, eerste lid, 85 en 100a, eerste lid, is gedaan,. Voorts wordt "artikel 12, onder b of c," vervangen door: artikel 12.
+5. In artikel 14, derde lid, wordt "indien zij deze noodzakelijk achten" vervangen door: indien dit naar zijn oordeel noodzakelijk wordt geacht.
+6. In artikel 14, vierde lid, wordt "kunnen gedeputeerde staten" vervangen door: kan de gemeenteraad, of, in voorkomend geval, het college van burgemeester en wethouders.
+7. In artikel 16 wordt "Gedeputeerde staten tekenen" vervangen door: De gemeenteraad of, in voorkomend geval, het college van burgemeester tekent. Voorts wordt "zenden" vervangen door: zendt.

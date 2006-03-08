@@ -1,0 +1,6 @@
+# Artikel 16a
+1. De verzoeker, bedoeld in artikel 12, onder a, b en c, houdt binnen de in artikel 13, tweede lid, bedoelde termijn een openbare zitting, waarbij een ieder de gelegenheid wordt gegeven opmerkingen te maken ten aanzien van het ontwerp van het verzoek, bedoeld in artikel 13.
+2. De verzoeker stelt een rapport op van de wijze waarop de bevolking bij de totstandkoming van het verzoek, bedoeld in artikel 12, is betrokken, waarin in ieder geval begrepen zijn een verslag van de openbare zitting en afschriften van de schriftelijk gemaakte opmerkingen over het ontwerp van het verzoek. De verzoeker zendt dit rapport onmiddellijk toe aan degenen die op de openbare zitting opmerkingen ten aanzien van het ontwerp van het verzoek hebben gemaakt.
+3. Een verzoek als bedoeld in artikel 12 gaat vergezeld van het in het tweede lid bedoelde rapport.
+4. Indien burgemeester en wethouders voornemens zijn een verzoek in te dienen als bedoeld in artikel 82a van de wet handelen zij overeenkomstig het eerste en tweede lid. Het verzoek gaat vergezeld van het in het tweede lid bedoelde rapport.
+5. Dit artikel blijft van toepassing zolang de betrokken gemeente, met inachtneming van artikel 151 juncto artikel 297 van de Gemeentewet geen inspraakverordening heeft vastgesteld en in werking heeft laten treden.
