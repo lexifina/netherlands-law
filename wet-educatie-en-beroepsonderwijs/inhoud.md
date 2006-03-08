@@ -23,6 +23,7 @@
 #### § 1. Bekostiging
 ### Titel 5. Begroting, verslaglegging en gegevensverstrekking
 #### § 1. Instellingen voor beroepsonderwijs en educatie, en agrarische innovatie- en praktijkcentra
+#### § 1a. Verantwoording educatiemiddelen
 #### § 2. Kenniscentra beroepsonderwijs bedrijfsleven
 ### TITEL 6. SCHOLENGEMEENSCHAP ROC OF AOC MET SCHOOL VOOR VOORTGEZET ONDERWIJS; VOORSCHRIFTEN T.A.V. VBO IN AOC
 ### Titel 6a. Samenwerking met VO-scholen ter bevordering van doelmatig en doeltreffend onderwijs
