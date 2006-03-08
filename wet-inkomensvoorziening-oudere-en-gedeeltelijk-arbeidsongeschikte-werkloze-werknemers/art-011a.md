@@ -1,4 +1,4 @@
 # Artikel 11a
 1. Een aanvraag is gericht tot burgemeester en wethouders en wordt overeenkomstig artikel 28 van de Wet structuur uitvoeringsorganisatie werk en inkomen ingediend bij de Centrale organisatie werk en inkomen. Na de overdracht van de aanvraag door de Centrale organisatie werk en inkomen aan burgemeester en wethouders ingevolge artikel 28, derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen wordt de aanvraag verder behandeld door burgemeester en wethouders.
 2. Bij of krachtens algemene maatregel van bestuur kunnen categorieën van aanvragen worden aangewezen die, in afwijking van het eerste lid, bij burgemeester en wethouders worden ingediend.
-3. Het gemeentebestuur kan, in overeenstemming met de Centrale organisatie werk en inkomen, bij verordening categorieën van aanvragen vaststellen die, in afwijking van het tweede lid, bij de Centrale organisatie werk en inkomen worden ingediend.
+3. De gemeenteraad kan, in overeenstemming met de Centrale organisatie werk en inkomen, bij verordening categorieën van aanvragen vaststellen die, in afwijking van het tweede lid, bij de Centrale organisatie werk en inkomen worden ingediend.
