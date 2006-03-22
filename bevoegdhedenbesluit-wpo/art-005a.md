@@ -1,0 +1,5 @@
+# Artikel 5a. Euritmie
+De bewijzen van bekwaamheid die bevoegdheid verlenen tot het geven van onderwijs in de expressie-activiteit euritmie zijn:
+a. het diploma docent dans van het theateronderwijs met aantekening voortgezet onderwijs, afstudeerrichting eurythmie, afgegeven op of na 1 juni 1982 door de Academie voor Eurythmie te Den Haag dan wel afgegeven op of na 1 juli 1998 door de Hogeschool Helicon te Den Haag;
+b. het getuigschrift hoger beroepsonderwijs van met goed gevolg afgelegd afsluitend examen in de samengestelde voltijdse dan wel deeltijdse studierichting met een cursusduur van ten minste 4 jaren docentschap dans, afstudeerrichting euritmie, afgegeven op of na 1 augustus 1986 door de Academie voor Eurythmie te Den Haag dan wel afgegeven op of na 1 juli 1998 door de Hogeschool Helicon te Den Haag;
+c. het getuigschrift van met goed gevolg afgelegd afsluitend examen van de opleiding voor het docentschap dans, afgegeven door de Academie voor Eurythmie te Den Haag dan wel afgegeven op of na 1 juli 1998 door de Hogeschool Helicon te Den Haag.
