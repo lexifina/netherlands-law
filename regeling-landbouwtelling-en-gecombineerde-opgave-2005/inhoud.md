@@ -1,3 +1,0 @@
-# Inhoud
-## Gecombineerde opgave
-## Slotbepalingen
