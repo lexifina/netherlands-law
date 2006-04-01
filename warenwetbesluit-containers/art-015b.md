@@ -1,0 +1,3 @@
+# Artikel 15b
+1. Indien een wijziging plaatsvindt in de gegevens op grond waarvan de instelling is aangewezen, doet de instelling hiervan terstond mededeling aan Onze Minister.
+2. Indien een instelling voornemens is een of meer van de taken waarvoor zij is aangewezen, te beëindigen, doet de instelling hiervan terstond mededeling aan Onze Minister en de certificaathouders. In dat geval worden door de instelling de gegevens, bedoeld in artikel 15, eerste lid, onder e, overgedragen aan Onze Minister dan wel, na toestemming van Onze Minister en de certificaathouders, een andere instelling die voor dezelfde taken is aangewezen.
