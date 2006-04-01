@@ -6,3 +6,4 @@ b. het ten laste gelegde feit, voor zover bewezen, betreft een misdrijf als omsc
 3. Een schriftelijk bescheid houdende de verklaring van een persoon wiens identiteit niet blijkt, kan, buiten het geval omschreven in het tweede lid, alleen meewerken tot het bewijs dat de verdachte het ten laste gelegde feit heeft begaan, indien ten minste aan de volgende voorwaarden is voldaan:
 a. de bewezenverklaring vindt in belangrijke mate steun in andersoortig bewijsmateriaal, en
 b. door of namens de verdachte is niet op enig moment in het geding de wens te kennen gegeven om de in de aanhef bedoelde persoon te ondervragen of te doen ondervragen.
+4. Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan door de rechter niet uitsluitend worden aangenomen op grond van verklaringen van getuigen met wie op grond van artikel 226h, derde lid, of 226k een afspraak is gemaakt.

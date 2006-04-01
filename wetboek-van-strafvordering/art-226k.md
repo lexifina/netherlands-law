@@ -1,0 +1,3 @@
+# Artikel 226k
+1. De artikelen 226g tot en met 226j zijn van overeenkomstige toepassing indien de officier van justitie voornemens is een afspraak te maken met een veroordeelde die bereid is een getuigenverklaring af te leggen, in ruil voor de toezegging van de officier van justitie dat deze bij de indiening van een verzoekschrift om gratie een positief advies tot vermindering van de opgelegde straf met maximaal de helft zal uitbrengen. De voorwaarden voor het uitbrengen van een positief advies zijn dezelfde als genoemd in artikel 44a van het Wetboek van Strafrecht voor het vorderen en toepassen van strafvermindering.
+2. Bij het op schrift stellen van de voorgenomen afspraak geldt niet het vereiste genoemd in artikel 226g, tweede lid, onder b.
