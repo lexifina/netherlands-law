@@ -1,0 +1,3 @@
+# Artikel 43c
+1. De verplichting tot betaling van de vergoeding, bedoeld in artikel 43a, eerste lid, rust op de bij de verkoop betrokken professionele kunsthandelaar. Indien meer dan één professionele kunsthandelaar bij een verkoop is betrokken, zijn zij hoofdelijk voor deze vergoeding aansprakelijk.
+2. Een rechtsvordering tot betaling van de vergoeding bedoeld in artikel 43a, eerste lid, verjaart door verloop van vijf jaren na de aanvang van de dag, volgende op die waarop de rechthebbende zowel met de opeisbaarheid van de vergoeding als met de tot de betaling van de vergoeding verplichte persoon bekend is geworden, en in ieder geval door verloop van twintig jaren na het tijdtip waarop de vergoeding opeisbaar is geworden.

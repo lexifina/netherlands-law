@@ -8,7 +8,7 @@
 ### § 6. De beperkingen van het auteursrecht
 ## Hoofdstuk II. De uitoefening en de handhaving van het auteursrecht en bepalingen van strafrecht
 ## Hoofdstuk III. De duur van het auteursrecht
-## Hoofdstuk IV. Wijziging van de Faillissementswet en van het Wetboek van Strafrecht
+## Hoofdstuk IV. Bijzondere bepalingen betreffende het volgrecht
 ## Hoofdstuk V. Bijzondere bepalingen betreffende filmwerken
 ## Hoofdstuk VI. Bijzondere bepalingen betreffende computerprogramma's
 ## Hoofdstuk VII. Bescherming van na het verstrijken van de beschermingsduur openbaar gemaakte werken
