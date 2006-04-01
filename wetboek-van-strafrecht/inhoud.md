@@ -7,6 +7,7 @@
 #### afdeling Tweede. Plaatsing in een psychiatrisch ziekenhuis en terbeschikkingstelling
 #### afdeling Derde. Plaatsing in een inrichting voor stelselmatige daders
 ### Titel III. Uitsluiting en verhoging van strafbaarheid
+### Titel IIIa. Gronden voor vermindering van straf
 ### Titel IV. Poging en voorbereiding
 ### Titel V. Deelneming aan strafbare feiten
 ### Titel VI. Samenloop van strafbare feiten
