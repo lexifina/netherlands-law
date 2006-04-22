@@ -1,0 +1,3 @@
+# Artikel 3a
+1. Aan organisaties waaraan reeds eerder op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken, hoofdstuk II, afdeling 3 (Thematische medefinanciering), of de Subsidieregeling algemene organisaties voor ontwikkelingssamenwerking (Medefinancieringsprogramma) subsidie is verleend, kan niet meer subsidie worden verleend dan het met inachtneming van de bijlage bij dit besluit berekende bedrag. De subsidie kan in geen geval meer bedragen dan € 527,5 miljoen voor het gehele subsidietijdvak.
+2. Aan andere organisaties dan bedoeld in het eerste lid kan ten hoogste € 5 miljoen per jaar worden verleend.
