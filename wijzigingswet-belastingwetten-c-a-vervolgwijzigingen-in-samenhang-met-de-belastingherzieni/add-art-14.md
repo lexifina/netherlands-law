@@ -1,0 +1,6 @@
+# Artikel XIV
+De wijzigingen ingevolge de Wet van 14 december 2001 tot wijziging van belastingwetten c.a. (Belastingplan 2002 II Economische infrastructuur) (Stb. 641) in de Wet op de dividendbelasting 1965 en de Wet op de vennootschapsbelasting 1969 zijn, in afwijking van artikel VIII, vijfde lid, van de Wet van 14 december 2001 (Stb. 641), tevens van toepassing op geldleningen die zijn aangegaan voor 1 januari 2002, indien op of na het tijdstip van inwerkingtreding van deze wet:
+a. de voorwaarden waaronder de geldlening is aangegaan zodanig worden gewijzigd dat de lening in de zin van artikel 10, eerste lid, onderdeel d, van de Wet op de vennootschapsbelasting 1969, bij de schuldenaar feitelijk gaat functioneren als eigen vermogen; of
+b. ingeval het reeds een geldlening in de zin van artikel 10, eerste lid, onderdeel d, van de Wet op de vennootschapsbelasting 1969 betreft:
+10. de aflossingsdatum van de lening wordt verschoven naar een later tijdstip; of
+20. een andere rechtspersoon in de plaats treedt van de schuldenaar, tenzij dit geschiedt in het kader van een fusie of splitsing waarbij de daarbij behaalde winst op de voet van artikel 14, 14a of 14b van de Wet op de vennootschapsbelasting 1969 buiten aanmerking blijft.
