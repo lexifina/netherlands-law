@@ -1,0 +1,2 @@
+# Artikel 12a
+Tenzij anders is aangegeven, is het in of krachtens de artikelen 2 tot en met 12 bepaalde van overeenkomstige toepassing ten aanzien van het Aanvullend Fonds, met dien verstande dat een opgave van bijdragende olie als bedoeld in artikel 5, eerste lid, alsmede een mededeling als bedoeld in artikel 5, tweede lid, die is geschied ten aanzien van het Fonds, geacht wordt tevens ten aanzien van het Aanvullend Fonds te zijn gedaan.
