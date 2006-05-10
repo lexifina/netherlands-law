@@ -1,2 +1,0 @@
-# ARTIKEL XXXII. VERVALLEN ARTIKEL XIX
-[Wijzigt deze wet.]

@@ -1,2 +1,0 @@
-# ARTIKEL V. OVERGANGSBEPALING IN VERBAND MET ARTIKEL 3, ZEVENDE LID VAN DE ALGEMENE NABESTAANDENWET
-Indien de toepassing van artikel 3, zevende lid, van de Algemene nabestaandenwet in verband met de uitbreiding van het begrip bloedverwant in de eerste graad tot de persoon die met de nabestaande een gezamenlijke huishouding voert leidt tot het beëindigen van het recht op nabestaandenuitkering, gaat deze wijziging eerst in zes maanden na inwerkingtreding van deze wet.

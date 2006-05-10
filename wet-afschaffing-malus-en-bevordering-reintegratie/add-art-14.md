@@ -1,2 +1,0 @@
-# Artikel XIV
-Paragraaf 2 van hoofdstuk IIIB van de Algemene Arbeidsongeschiktheidswet, zoals deze paragraaf luidde vóór de datum van inwerkingtreding van artikel I, onderdeel F, van deze wet, blijft van toepassing op geldelijke bijdragen die aan de bedrijfsvereniging verschuldigd zijn op grond van artikel 59i, tweede lid, van die wet voor personen wier eerste dag van ongeschiktheid tot werken, bedoeld in het eerste lid van dat artikel, is gelegen vóór 1 juli 1993.

@@ -1,2 +1,0 @@
-# ARTIKEL LXII. ORGANISATIEWET SOCIALE VERZEKERINGEN
-Voor de periode 1 januari 1997 tot en met 28 februari 1997 kunnen, indien in de middelen tot dekking van de uitgaven verbonden aan de uitvoering van een door de Sociale Verzekeringsbank uit te voeren regeling wordt voorzien door het Rijk, bij ministeriële regeling regels worden gesteld ten aanzien van het beheer van gelden, uitvoeringskosten en verslaglegging als bedoeld in hoofdstuk VI van de Organisatiewet sociale verzekeringen, zoals deze wet op 28 februari 1997 luidde.

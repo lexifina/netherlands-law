@@ -1,2 +1,0 @@
-# ARTIKEL III. WIJZIGING VAN DE WET OP DE INKOMSTENBELASTING 1964
-[Wijzigt de Wet op de inkomstenbelasting 1964.]

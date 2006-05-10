@@ -1,2 +1,0 @@
-# Artikel III. Overgangsrecht regels op grond van artikel 24, zevende lid, van de Werkloosheidswet
-De door het Landelijk instituut sociale verzekeringen gestelde regels op grond van de artikelen 24, zevende lid, en 26, derde lid, van de Werkloosheidswet, zoals die artikelen luidden op de dag voor het tijdstip van inwerkingtreding van deze wet, gelden als regels die door Onze Minister van Sociale Zaken en Werkgelegenheid zijn gesteld.

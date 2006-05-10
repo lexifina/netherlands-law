@@ -1,2 +1,0 @@
-# ARTIKEL VI
-Onze Minister van Sociale Zaken en Werkgelegenheid herziet met ingang van de datum van inwerkingtreding van deze wet de bedragen genoemd in artikel 30, tweede lid, van de Algemene bijstandswet, zoals dit artikel komt te luiden na de inwerkingtreding van deze wet, op de wijze als voorgeschreven in artikel 57 van de Algemene bijstandswet, zoals dat artikel komt te luiden na de inwerkingtreding van deze wet, een en ander voor zover de ontwikkelingen van alle daarin bedoelde bedragen, gerekend vanaf 1 juli 1997, daartoe aanleiding geven.

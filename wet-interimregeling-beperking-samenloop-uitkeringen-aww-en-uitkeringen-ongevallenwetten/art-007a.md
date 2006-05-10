@@ -1,2 +1,0 @@
-# Artikel 7a
-In de gevallen, waarin het bepaalde in deze paragraaf toepassing heeft gevonden ten aanzien van renten, waarvan de datum van ingang ligt nà 30 september 1959, worden bij of krachtens algemene maatregel van bestuur nadere regelen gegeven voor de berekening van de contante waarde dier renten in verband met de toepassing van de artikelen 57, 58 en 95 der Ongevallenwet 1921 en de artikelen 25 en 103 der Land- en Tuinbouwongevallenwet 1922.

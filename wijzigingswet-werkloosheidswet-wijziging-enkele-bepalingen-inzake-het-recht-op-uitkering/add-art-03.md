@@ -1,4 +1,0 @@
-# Artikel III
-1. Indien een recht op uitkering voor de inwerkingtreding van deze wet is ontstaan, blijven de Werkloosheidswet en de daarop berustende bepalingen zoals die luidden op de dag, voorafgaande aan die waarop deze wet in werking treedt, van toepassing op feiten en omstandigheden, ontstaan voor de inwerkingtreding van deze wet.
-2. Indien ter zake van werkloosheid ontstaan voor de inwerkingtreding van deze wet geen recht op uitkering is ontstaan, blijven de Werkloosheidswet en de daarop berustende bepalingen zoals die luidden op de dag, voorafgaande aan die waarop deze wet in werking treedt, op het ontstaan van het recht op uitkering ter zake van die werkloosheid van toepassing.
-3. Bij ministeriële regeling kunnen met betrekking tot dit artikel nadere en zonodig afwijkende regels worden gesteld.
