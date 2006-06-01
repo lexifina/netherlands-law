@@ -1,0 +1,8 @@
+# Artikel 25bis
+1. De verzoekende Partij kan vragen dat een persoon, die op haar grondgebied rechtens van zijn vrijheid is beroofd, tijdelijk wordt overgebracht naar het grondgebied van de aangezochte Partij, ten einde daar bij de uitvoering van de rogatoire commissie aanwezig te zijn.
+2. De overgebrachte persoon zal op het grondgebied van de aangezochte Partij in hechtenis blijven, tenzij de verzoekende Partij met zijn invrijheidstelling instemt.
+3. De hechtenis op het grondgebied van de aangezochte Partij komt in mindering op de duur van de vrijheidsbeneming die de overgebrachte persoon moet ondergaan op het grondgebied van de verzoekende Partij.
+4. Nadat de rogatoire commissie is uitgevoerd, wordt de overgebrachte persoon, ongeacht zijn nationaliteit, onverwijld teruggebracht naar het grondgebied van de verzoekende Partij.
+5. In geval van vlucht van de overgebrachte persoon neemt de aangezochte Partij alle maatregelen die tot zijn aanhouding kunnen leiden.
+6. De persoon die tijdelijk is overgebracht naar het grondgebied van de aangezochte Partij, kan, ongeacht zijn nationaliteit, aldaar noch worden vervolgd, noch in hechtenis gehouden, noch aan enige andere vrijheidsbeperking worden onderworpen voor feiten of veroordelingen welke voorafgingen aan zijn vertrek van het grondgebied van de verzoekende Partij; behoudens het bepaalde in lid 2.
+7. Op aanvraag van de verzoekende Partij zal de doortocht van een persoon, bedoeld in lid 1, over het grondgebied van een der Partijen worden toegestaan, tenzij bijzondere omstandigheden zich daartegen verzetten. De Partij die de doortocht heeft toegestaan wordt voor de toepassing van de leden 2-6 met de aangezochte Partij gelijkgesteld.
