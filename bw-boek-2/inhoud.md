@@ -55,6 +55,7 @@
 ##### § 1. Algemene bepalingen
 ##### § 2. Voorschriften omtrent de balans en de toelichting daarop
 ##### § 3. Voorschriften omtrent de winst- en verliesrekening en de toelichting daarop
+##### § 2a. Het overzicht van de samenstelling van het totaalresultaat
 ##### § 4. Bijzondere voorschriften omtrent de toelichting
 ##### § 5. Bijzondere voorschriften omtrent de grondslagen van waardering en van bepaling van het resultaat
 ##### § 6. Bijzondere bepalingen voor de geconsolideerde jaarrekening
