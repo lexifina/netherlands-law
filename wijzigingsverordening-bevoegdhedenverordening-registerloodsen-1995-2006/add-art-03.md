@@ -1,0 +1,2 @@
+# Artikel III
+Het bestuur van de regionale loodsencorporatie Amsterdam-IJmond plaatst de tot die regionale loodsencorporatie behorende registerloodsen, met ingang van de datum waarop deze verordening van kracht is, in de artikel 7 genoemde bevoegdheden, zodanig dat de krachtens artikel 7 toegekende bevoegdheid zoveel mogelijk overeenkomt met de bevoegdheid van de registerloods op de dag voorafgaande aan de inwerkingtredingsdatum van deze verordening.
