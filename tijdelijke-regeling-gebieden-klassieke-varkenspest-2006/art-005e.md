@@ -1,2 +1,0 @@
-# Artikel 5e
-Het is verboden met een vervoermiddel vee, niet zijnde varkens, en pluimvee afkomstig van een plaats waar tevens varkens worden gehouden, van binnen het gebied naar buiten het gebied te vervoeren, tenzij het vervoermiddel bij het verlaten van de plaats van lading wordt gereinigd en ontsmet overeenkomstig een door de Inspecteur Generaal van de VWA goedgekeurd protocol en dat is gepubliceerd op www.vwa.nl.
