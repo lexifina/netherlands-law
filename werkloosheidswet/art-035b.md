@@ -5,4 +5,4 @@
 a. de dienstbetrekkingen uit hoofde waarvan de werknemer recht op uitkering op grond van deze wet heeft en die waaruit of in verband waarmee de inkomsten worden ontvangen;
 b. de bedrijfstak of bedrijfstakken waarin de werknemer werkzaam was en die waaruit of in verband waarmee de inkomsten worden ontvangen.
 4. Indien geen samenhang kan worden vastgesteld, worden de inkomsten gelijkelijk in mindering gebracht op de verschillende uitkeringen. Indien bij de toepassing van de eerste zin een uitkering lager is dan het daarop in mindering te brengen bedrag, wordt hetgeen aldus niet in mindering kan worden gebracht in gelijke mate in mindering gebracht op de andere uitkeringen.
-5. Het Uitvoeringsinstituut werknemersverzekeringen kan nadere regels stellen met betrekking tot het derde lid.
+5. Het UWV kan nadere regels stellen met betrekking tot het derde lid.

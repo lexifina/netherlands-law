@@ -1,5 +1,5 @@
 # Artikel 56a
-Het Uitvoeringsinstituut werknemersverzekeringen beëindigt de vrijwillige werkloosheidsverzekering:
+Het UWV beëindigt de vrijwillige werkloosheidsverzekering:
 a. op verzoek van de vrijwillig verzekerde met ingang van een door hem te bepalen datum;
 b. met ingang van de dag, waarop de termijn van vijf jaar, bedoeld in artikel 53, eerste lid, onderdeel a, is verstreken;
 c. met ingang van de dag, waarop de werkzaamheden bedoeld in artikel 53, eerste en tweede lid worden beëindigd;
