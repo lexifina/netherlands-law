@@ -1,0 +1,2 @@
+# Article 12, paragraph 4
+The words "and subject to the conditions laid down in such agreements" in the introduction to this paragraph are taken to imply inter alia that with regard to benefits which are available independently of any insurance contribution, a Party may require the completion of a prescribed period of residence before granting such benefits to nationals of other Parties.

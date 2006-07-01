@@ -1,0 +1,8 @@
+# Article A. Undertakings
+1. Subject to the provisions of Article B below, each of the Parties undertakes:
+a) to consider Part I of this Charter as a declaration of the aims which it will pursue by all appropriate means, as stated in the introductory paragraph of that part;
+b) to consider itself bound by at least six of the following nine articles of Part II of this Charter: Articles 1, 5, 6, 7, 12, 13, 16, 19 and 20;
+c) to consider itself bound by an additional number of articles or numbered paragraphs of Part II of the Charter which it may select, provided that the total number of articles or numbered paragraphs by which it is bound is not less than sixteen articles or sixty-three numbered paragraphs.
+2. The articles or paragraphs selected in accordance with sub-paragraphs b and c of paragraph 1 of this article shall be notified to the Secretary General of the Council of Europe at the time when the instrument of ratification, acceptance or approval is deposited.
+3. Any Party may, at a later date, declare by notification addressed to the Secretary General that it considers itself bound by any articles or any numbered paragraphs of Part II of the Charter which it has not already accepted under the terms of paragraph 1 of this article. Such undertakings subsequently given shall be deemed to be an integral part of the ratification, acceptance or approval and shall have the same effect as from the first day of the month following the expiration of a period of one month after the date of the notification.
+4. Each Party shall maintain a system of labour inspection appropriate to national conditions.

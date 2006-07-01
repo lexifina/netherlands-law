@@ -1,0 +1,3 @@
+# Article G. Restrictions
+1. The rights and principles set forth in Part I when effectively realised, and their effective exercise as provided for in Part II, shall not be subject to any restrictions or limitations not specified in those parts, except such as are prescribed by law and are necessary in a democratic society for the protection of the rights and freedoms of others or for the protection of public interest, national security, public health, or morals.
+2. The restrictions permitted under this Charter to the rights and obligations set forth herein shall not be applied for any purpose other than that for which they have been prescribed.

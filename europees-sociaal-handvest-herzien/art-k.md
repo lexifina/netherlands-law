@@ -1,0 +1,4 @@
+# Article K. Signature, ratification and entry into force
+1. This Charter shall be open for signature by the member States of the Council of Europe. It shall be subject to ratification, acceptance or approval. Instruments of ratification, acceptance or approval shall be deposited with the Secretary General of the Council of Europe.
+2. This Charter shall enter into force on the first day of the month following the expiration of a period of one month after the date on which three member States of the Council of Europe have expressed their consent to be bound by this Charter in accordance with the preceding paragraph.
+3. In respect of any member State which subsequently expresses its consent to be bound by this Charter, it shall enter into force on the first day of the month following the expiration of a period of one month after the date of the deposit of the instrument of ratification, acceptance or approval.

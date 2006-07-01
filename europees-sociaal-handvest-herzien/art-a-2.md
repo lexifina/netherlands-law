@@ -1,0 +1,8 @@
+# Artikel A. Verplichtingen
+1. Met inachtneming van de bepalingen van het navolgende Artikel B is elk van de Partijen verplicht:
+a. deel I van dit Handvest te beschouwen als een verklaring van de doelstellingen die zij overeenkomstig de inleidende alinea van dat deel met alle daarvoor in aanmerking komende middelen zal nastreven;
+b. zich gebonden te achten door ten minste zes van de negen hierna genoemde artikelen van deel II van dit Handvest, namelijk de artikelen 1, 5, 6, 7, 12, 13, 16, 19 en 20;
+c. zich gebonden te achten door een bijkomend aantal artikelen of genummerde leden van deel II van het Handvest, te harer keuze, mits het totale aantal artikelen of genummerde leden die haar binden niet minder dan 16 artikelen of 63 genummerde leden bedraagt.
+2. De krachtens lid 1, sub b en c, van dit artikel gekozen artikelen of leden worden medegedeeld aan de Secretaris-Generaal van de Raad van Europa bij de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
+3. Ieder der Partijen kan op een later tijdstip door kennisgeving aan de Secretaris-Generaal verklaren dat zij zichzelf gebonden acht door andere artikelen of genummerde leden van deel II van het Handvest die zij nog niet eerder overeenkomstig lid 1 van dit artikel heeft aanvaard. Deze later aanvaarde verplichtingen worden geacht een integrerend deel van de bekrachtiging, aanvaarding of goedkeuring te zijn en hebben met ingang van de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum van kennisgeving hetzelfde rechtsgevolg.
+4. Iedere Partij dient te beschikken over een aan haar nationale omstandigheden aangepast stelsel van arbeidsinspectie.

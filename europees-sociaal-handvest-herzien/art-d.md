@@ -1,0 +1,3 @@
+# Article D. Collective complaints
+1. The provisions of the Additional Protocol to the European Social Charter providing for a system of collective complaints shall apply to the undertakings given in this Charter for the States which have ratified the said Protocol.
+2. Any State which is not bound by the Additional Protocol to the European Social Charter providing for a system of collective complaints may when depositing its instrument of ratification, acceptance or approval of this Charter or at any time thereafter, declare by notification addressed to the Secretary General of the Council of Europe, that it accepts the supervision of its obligations under this Charter following the procedure provided for in the said Protocol.

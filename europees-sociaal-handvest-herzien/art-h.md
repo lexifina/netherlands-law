@@ -1,0 +1,2 @@
+# Article H. Relations between the Charter and domestic law or international agreements
+The provisions of this Charter shall not prejudice the provisions of domestic law or of any bilateral or multilateral treaties, conventions or agreements which are already in force, or may come into force, under which more favourable treatment would be accorded to the persons protected.

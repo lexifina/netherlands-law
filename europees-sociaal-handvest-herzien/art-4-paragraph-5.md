@@ -1,0 +1,2 @@
+# Article 4, paragraph 5
+It is understood that a Party may give the undertaking required in this paragraph if the great majority of workers are not permitted to suffer deductions from wages either by law or through collective agreements or arbitration awards, the exceptions being those persons not so covered.
