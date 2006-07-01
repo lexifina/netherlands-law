@@ -1,0 +1,3 @@
+# Artikel II. Andere verdragen en interpretatie
+1. Niets in dit Verdrag doet afbreuk aan de codificering en ontwikkeling van het zeerecht door de Conferentie van de Verenigde Naties inzake het zeerecht, bijeengeroepen ingevolge Resolutie 2750 (XXV) van de Algemene Vergadering van de Verenigde Naties, noch aan de huidige of toekomstige aanspraken en rechtsopvattingen van een staat met betrekking tot het zeerecht en de aard en de omvang van de jurisdictie van kuststaten en vlagstaten.
+2. Geen enkele bepaling in dit Verdrag mag zodanig worden opgevat, alsof deze afbreuk doet aan verplichtingen of rechten van schepen, vervat in andere internationale akten.

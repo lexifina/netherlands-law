@@ -1,0 +1,3 @@
+# Article II. Other treaties and interprétation
+(1) Nothing in the Convention shall prejudice the codification and development of the law of the sea by the United Nations Conference on the Law of the Sea convened pursuant to Resolution 2750 (XXV) of the General Assembly of the United Nations nor the present or future claims and legal views of any State concerning the law of the sea and the nature and extent of coastal and flag State jurisdiction.
+(2) No provision of the Convention shall be construed as prejudicing obligations or rights of vessels provided for in other international instruments.

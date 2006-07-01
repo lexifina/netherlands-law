@@ -1,0 +1,6 @@
+# Artikel V. Inwerkingtreding
+1. Dit Verdrag treedt in werking twaalf maanden na de datum waarop vijftien Staten partij daarbij zijn geworden overeenkomstig het bepaalde in artikel IV.
+2. Voor Staten die dit Verdrag bekrachtigen, aanvaarden, goedkeuren of ertoe toetreden overeenkomstig het bepaalde in artikel IV, nadat aan de in het eerste lid gestelde voorwaarde is voldaan en voordat dit Verdrag in werking treedt, geldt als datum van inwerkingtreding de dag waarop dit Verdrag in werking treedt.
+3. Voor Staten die dit Verdrag bekrachtigen, aanvaarden, goedkeuren of ertoe toetreden na de datum waarop dit Verdrag in werking treedt, treedt dit Verdrag in werking dertig dagen na de datum van nederlegging van een akte overeenkomstig het bepaalde in artikel IV.
+4. ledere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, nedergelegd na de datum waarop een wijziging van het Verdrag overeenkomstig het bepaalde in artikel III van kracht is geworden, heeft betrekking op dit Verdrag, zoals gewijzigd, en dit Verdrag, zoals gewijzigd, treedt in werking voor een Staat die een zodanige akte nederlegt, dertig dagen na de nederlegging ervan.
+5. De Secretaris-Generaal stelt alle Staten in kennis van de datum van inwerkingtreding van dit Verdrag.
