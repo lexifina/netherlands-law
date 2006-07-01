@@ -1,0 +1,3 @@
+# Artikel 23a
+1. Voor een personenauto waarvan de binnenruimte is ingericht voor het vervoer en verblijf van personen en is voorzien van een vaste kook- en slaapgelegenheid en die voldoet aan bij algemene maatregel van bestuur gestelde voorwaarden en beperkingen met betrekking tot uiterlijk en inrichting, bedraagt de belasting in afwijking van artikel 23 en onder bij algemene maatregel van bestuur te stellen voorwaarden, een kwart van de ingevolge dat artikel verschuldigde belasting.
+2. Indien een personenauto als bedoeld in het eerste lid, bedrijfsmatig wordt verhuurd, bedraagt de belasting de helft van de ingevolge artikel 23 verschuldigde belasting.

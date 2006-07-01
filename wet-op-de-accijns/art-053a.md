@@ -1,3 +1,4 @@
 # Artikel 53a
 1. Bij toepassing van artikel 52a dient in afwijking van artikel 53, eerste lid, en van artikel 10, tweede lid, en artikel 19, derde lid, van de Algemene wet inzake rijksbelastingen uiterlijk op de dag na het in artikel 52a bedoelde tijdstip aangifte te worden gedaan en de accijns op aangifte te worden voldaan.
-2. In afwijking in zoverre van het eerste lid dient bij toepassing van artikel 52a, onderdeel e, binnen één maand na het in artikel 52a, onderdeel e, bedoelde tijdstip, aangifte te worden gedaan en de accijns op aangifte te worden voldaan.
+2. In afwijking in zoverre van het eerste lid doet de vergunninghouder van een geregistreerd bedrijf aangifte van de in een week op de voet van artikel 52a, onderdeel a, verschuldigd geworden accijns uiterlijk op de vrijdag van de week daaropvolgend. De verschuldigd geworden accijns wordt op aangifte voldaan.
+3. In afwijking in zoverre van het eerste lid dient bij toepassing van artikel 52a, onderdeel e, binnen één maand na het in artikel 52a, onderdeel e, bedoelde tijdstip, aangifte te worden gedaan en de accijns op aangifte te worden voldaan.
