@@ -1,2 +1,0 @@
-# Artikel 9a
-Op de balans worden de voorzieningen, gesplitst naar hun aard, en de reservering opgenomen. In de toelichting op de balans worden de toevoegingen en de onttrekkingen aan de voorzieningen en reservering toegelicht.
