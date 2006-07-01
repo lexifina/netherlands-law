@@ -1,7 +1,7 @@
 # Artikel 9a
-1. In afwijking van artikel 9, eerste lid, bedraagt de belasting tot 1 juli 2006 nihil voor een personenauto of bestelauto die ingericht en bestemd is om uitsluitend te worden aangedreven door:
-a. een elektromotor, mits de elektrische energie uitsluitend door een batterij of door een brandstofcel wordt geleverd,
-b. een combinatie van een elektromotor en een verbrandingsmotor, mits de aandrijving door de elektromotor zodanig is dat de elektrische energie voor een actieradius van ten minste 24 km aaneengesloten stadsverkeer uitsluitend door een batterij of door een brandstofcel kan worden geleverd,
-c. een combinatie van een elektromotor en een verbrandingsmotor, mits het piekvermogen van de voor de aandrijving bestemde elektromotor ten minste 15% van het maximum vermogen van de verbrandingsmotor bedraagt en mits de personenauto of de bestelauto blijkens de vermelding in het kentekenregister behoort tot de energie-efficiëntieklasse A, bedoeld in bijlage 4 bij het Besluit etikettering energiegebruik personenauto's, of
-d. een verbrandingsmotor die kan worden gevoed met waterstof.
-2. Het bedrag aan belasting, bedoeld in artikel 9, eerste lid, wordt verlaagd met € 3000 voor een personenauto die ingericht en bestemd is om uitsluitend te worden aangedreven door een combinatie van een elektromotor en een verbrandingsmotor, mits het piekvermogen van de voor de aandrijving bestemde elektromotor ten minste 15% van het maximum vermogen van de verbrandingsmotor bedraagt en mits de personenauto volgens de vermelding in het kentekenregister behoort tot de energie-efficiëntieklasse B, bedoeld in bijlage 4 bij het Besluit etikettering energiegebruik personenauto's.
+1. Indien de personenauto volgens de vermelding in het kentekenregister behoort tot een energie-efficiëntieklasse als bedoeld in bijlage 4 bij het Besluit etikettering energiegebruik personenauto's, wordt het bedrag aan belasting, bedoeld in artikel 9, eerste lid, verlaagd of verhoogd met een bedrag dat wordt bepaald aan de hand van de volgende tabel.
+Energie-efficiëntieklasse | A | B | C | D | E | F | G
+verlaagd met: | € 1000 | € 500 | – |  |  |  | 
+verhoogd met: |  |  | – | € 135 | € 270 | € 405 | € 540
+2. Bij toepassing van het eerste lid wordt de energie-efficiëntieklasse in aanmerking genomen waartoe de personenauto behoort bij aanvang van de dag waarop aan het voertuig een kenteken wordt toegekend.
+3. In afwijking in zoverre van het tweede lid wordt met betrekking tot gebruikte personenauto's de energie-efficiëntieklasse in aanmerking genomen waartoe de personenauto behoorde op het tijdstip waarop deze voor het eerst in gebruik werd genomen.
