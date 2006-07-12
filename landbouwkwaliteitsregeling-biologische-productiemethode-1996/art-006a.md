@@ -1,0 +1,3 @@
+# Artikel 6a
+1. Het aantal grootvee-eenheden, bedoeld in bijlage I, onderdeel B, punt 7.2, van verordening (EEG) nr. 2092/91, wordt vastgesteld door 170 kg stikstof per jaar per hectare cultuurgrond te delen door de omvang van de mestproductie per dier van de betreffende diercategorie per jaar uitgedrukt in kilogrammen stikstof. De omvang van de mestproductie per dier van de onderscheiden diercategorieën per jaar, uitgedrukt in kilogrammen stikstof, is opgenomen in de bijlage bij deze regeling.
+2. De periode waarin uitlopen leeg moeten blijven, bedoeld in bijlage I, onderdeel B, punt 8.4.6, van verordening (EEG) nr. 2092/91, wordt gesteld op 60 dagen, telkens na het houden van een partij pluimvee.

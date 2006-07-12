@@ -1,0 +1,2 @@
+# Artikel 3a
+Artikel 4, eerste lid, van het Landbouwkwaliteitsbesluit biologische produktiemethode is niet van toepassing ten aanzien van marktdeelnemers die producten waarop aanduidingen voorkomen die verwijzen naar de biologische productiemethode, direct aan de eindconsument of eindgebruiker verkopen mits zij deze producten niet produceren, bereiden of opslaan op een andere plaats dan het verkooppunt en mits zij deze producten niet invoeren.
