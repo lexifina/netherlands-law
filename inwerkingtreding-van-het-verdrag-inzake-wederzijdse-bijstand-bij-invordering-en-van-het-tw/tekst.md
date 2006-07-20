@@ -1,6 +1,0 @@
-# Tekst
-De Directeur-Generaal voor Fiscale Zaken geeft namens de Staatssecretaris van Financiën kennis van het volgende.
-Het op 20 december 2001 tussen Nederland en Nieuw-Zeeland gesloten Verdrag inzake wederzijdse bijstand bij de invordering van belastingvorderingen is op 22 augustus 2004 in werking getreden Tractatenblad 2004, 218). De Nederlandse tekst van het Verdrag is opgenomen in Trb. 2002, 45.
-Ingevolge artikel 7 van het Verdrag inzake wederzijdse bijstand zijn de bepalingen ervan in Nederland en in Nieuw-Zeeland van toepassing met ingang van 22 augustus 2004.
-Ook het op 20 december 2001 gesloten Tweede Protocol tot wijziging van de Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de regering van Nieuw-Zeeland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, met Protocol, is op 22 augustus 2004 in werking getreden (Tractatenblad 2004, 224). De Nederlandse tekst van het Protocol is opgenomen in Trb. 2002, 46.
-Ingevolge artikel V van het Wijzigingsprotocol zijn de bepalingen ervan in Nederland van toepassing voor inkomsten die opkomen op of na 1 januari 2005, en in Nieuw-Zeeland voor inkomsten die opkomen in enig inkomensjaar dat aanvangt op of na 1 april 2005.
