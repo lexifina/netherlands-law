@@ -1,2 +1,0 @@
-# Artikel 4c
-Indien vis, die in een andere lidstaat van de Europese Unie dan Nederland wordt aangeland, voor het eerst op de markt wordt gebracht op Nederlands grondgebied, overhandigt de vervoerder van de vis binnen 48 uur na het tijdstip van aanlanding een copie van het vervoersdocument aan een ambtenaar van de Algemene Inspectiedienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit of deponeert de vervoerder deze in een opgavebus als bedoeld in de Beschikking plaatsing opgavebussen.
