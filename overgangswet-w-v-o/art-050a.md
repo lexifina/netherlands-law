@@ -1,0 +1,2 @@
+# Artikel 50a
+Voor de toepassing van de artikelen 82 en 83 van de Wet op het voortgezet onderwijs ten behoeve van scholen, als bedoeld in artikel 35, stelt Onze minister de waarde vast van de op 31 december 1968 in de school aanwezige inrichting, alsmede, voor zover het bijzondere scholen betreft, de waarde van de onderdelen van deze inrichting. De aldus vastgestelde bedragen worden in mindering gebracht op de vergoedingen, bedoeld in de artikelen 82, tweede lid onder a, en 83, tweede lid eerste volzin, van de Wet op het voortgezet onderwijs.

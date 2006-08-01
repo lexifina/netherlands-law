@@ -1,0 +1,2 @@
+# Artikel 30a
+Indien een niet uit 's Rijks kas bekostigde avondhogereburgerschool in het schooljaar 1967-1968 geheel of gedeeltelijk uit de gemeentekas werd bekostigd en de school wordt omgezet in een avondschool voor voortgezet onderwijs, blijft de gemeente ook na 31 juli 1968 tot gehele of gedeeltelijke bekostiging bevoegd tot het tijdstip waarop de school ingevolge titel III van de Wet op het voortgezet onderwijs uit 's Rijks kas wordt bekostigd.
