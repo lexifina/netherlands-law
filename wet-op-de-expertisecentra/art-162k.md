@@ -1,0 +1,3 @@
+# Artikel 162k. Kwaliteitsbewaking; sancties
+1. Het in artikel 162h en het in artikel 162j bedoelde bestuur dragen zorg voor de kwaliteit van de werkzaamheden van de instelling.
+2. Onze minister kan een instelling een of meer van de in artikel 162h of artikel 162j, eerste lid, bedoelde bevoegdheden ontnemen indien gebleken is dat de kwaliteit van de uitoefening daarvan tekortschiet, dan wel indien niet of niet meer wordt voldaan aan het terzake bij en krachtens deze wet bepaalde. Artikel 6.10, vierde lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek is van overeenkomstige toepassing ten aanzien van de ontneming.

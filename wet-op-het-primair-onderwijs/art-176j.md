@@ -1,0 +1,2 @@
+# Artikel 176j. Inlichtingenplicht
+Het in artikel 176e en het in artikel 176g bedoelde bestuur verstrekken aan Onze minister alle inlichtingen die deze nodig acht ten behoeve van een goede naleving van deze afdeling. Het bestuur zendt de inspectie van het onderwijs telkens na zes maanden een overzicht van in die periode afgegeven geschiktheidsverklaringen en bekwaamheidsonderzoeken waaraan met goed gevolg is deelgenomen.

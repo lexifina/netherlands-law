@@ -1,0 +1,2 @@
+# Artikel 7a.4. Getuigschrift pedagogisch-didactische scholing WEB
+Ten bewijze dat de scholing, bedoeld in artikel 4.2.5 van de Wet educatie en beroepsonderwijs, ertoe heeft geleid dat betrokkene voldoet aan de in artikel 4.2.3, derde lid, onder a, van die wet bedoelde bekwaamheidseisen, wordt door de examencommissie van een instelling die daarvoor het meest in aanmerking komt een getuigschrift pedagogisch-didactische scholing uitgereikt. Op het getuigschrift wordt vermeld, welke onderdelen het onderzoek dat tot het getuigschrift leidde, omvatte.

@@ -46,6 +46,7 @@
 #### Paragraaf 1. College van beroep voor de examens
 #### Paragraaf 2. College van beroep voor het hoger onderwijs
 #### Paragraaf 3. Colleges van beroep bijzonder onderwijs
+## Hoofdstuk 7a. Taken in het kader van de zij-instroom in het beroep van leraar en docent
 ## Hoofdstuk 8. Samenwerking bekostigde instellingen voor hoger onderwijs
 ## Hoofdstuk 9. Het bestuur en de inrichting van de universiteiten
 ### TITEL 1. HET BESTUUR EN DE INRICHTING VAN DE OPENBARE UNIVERSITEITEN

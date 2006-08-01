@@ -1,0 +1,3 @@
+# Artikel 162e. Geschiktheidsverklaring
+1. Aan degene die blijkens een geschiktheidsonderzoek als bedoeld in artikel 162f voldoende geschikt wordt geacht voor het beroep van leraar en in staat moet worden geacht binnen twee jaar na benoeming of tewerkstelling zonder benoeming tot leraar met goed gevolg deel te nemen aan het in artikel 162i bedoelde bekwaamheidsonderzoek, wordt een geschiktheidsverklaring afgegeven door het instellingsbestuur onder verantwoordelijkheid waarvan het geschiktheidsonderzoek wordt uitgevoerd of door het bestuur van een op grond van artikel 162h, eerste lid, erkende instelling.
+2. Bij ministeriële regeling wordt een model voor de geschiktheidsverklaring vastgesteld.

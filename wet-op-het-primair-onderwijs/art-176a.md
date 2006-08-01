@@ -1,0 +1,4 @@
+# Artikel 176a. Begripsbepalingen
+In deze afdeling wordt verstaan onder:
+a. instelling voor hoger onderwijs: een instelling voor hoger onderwijs als bedoeld in artikel 1.1, onder g, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;
+b. instellingsbestuur: het instellingsbestuur, bedoeld in artikel 1.1, onderdeel j, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, met dien verstande dat voor zover het openbare instellingen betreft, de artikelen 9.2, tweede lid, 10.9, tweede lid, en 11.1, tweede lid, van die wet van overeenkomstige toepassing zijn.
