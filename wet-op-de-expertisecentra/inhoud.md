@@ -25,10 +25,9 @@
 #### § 6. Bestedingsmogelijkheden
 #### § 7. Betaling van de bekostiging
 ### Afdeling 8. Beëindiging van de bekostiging
-### Afdeling 9. Gemeentelijk onderwijsachterstandenbeleid
 ### Afdeling 10. Verslaglegging en informatieverstrekking
 ### Afdeling 10A. Bestrijding voortijdig schoolverlaten niet-leerplichtigen
+### Afdeling 10B. Zij-instroom in het beroep
 ### Afdeling 11. Overige bepalingen
-## Titel V. Bewijzen van bekwaamheid
 ## Titel VI. Bevoegdheden t.a.v. de rechtspersoon, bedoeld in artikel 169
 ## Titel VII. Slotbepalingen
