@@ -1,0 +1,5 @@
+# Artikel 166a. Activiteiten voor leerlingen met een grote achterstand in de Nederlandse taal buiten reguliere schooltijd
+1. Ten behoeve van leerlingen van wie op grond van door burgemeester en wethouders vast te stellen criteria is vastgesteld dat zij een grote achterstand in de Nederlandse taal hebben, kunnen uitsluitend op scholen die na overleg met de bevoegde gezagsorganen van de scholen in de gemeente door burgemeester en wethouders daartoe zijn aangewezen, naast de uren die door het bevoegd gezag van de school op grond van artikel 8 zijn vastgesteld, activiteiten ter bevordering van de beheersing van de Nederlandse taal worden verricht die zijn gericht op een betere doorstroming in het onderwijs indien dit van belang is in het kader van het voorkomen en bestrijden van onderwijsachterstanden.
+2. Artikel 166, tweede lid, is van overeenkomstige toepassing.
+3. Tot de activiteiten, bedoeld in het eerste lid, kunnen tevens leerlingen die op een andere school zijn ingeschreven, worden toegelaten.
+4. Een leerling neemt slechts deel aan de activiteiten, bedoeld in het eerste lid, na schriftelijke instemming van de ouders van de leerling.

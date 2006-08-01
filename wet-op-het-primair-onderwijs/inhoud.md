@@ -34,8 +34,9 @@
 ##### § 1. Basisscholen
 ##### § 2. Speciale scholen voor basisonderwijs
 ##### § 3. Overige bepalingen
-#### Afdeling 10. Gemeentelijk onderwijsachterstandenbeleid
+#### Afdeling 10. Onderwijsachterstandenbeleid
 #### Afdeling 11. Verslaglegging en informatieverstrekking
+#### Afdeling 11A. Zij-instroom in het beroep
 #### Afdeling 12. Overige bepalingen
 ## Hoofdstuk II. Andere vormen van basisonderwijs
 ## Hoofdstuk III. Slotbepalingen
