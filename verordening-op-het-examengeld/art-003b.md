@@ -1,0 +1,2 @@
+# Artikel 3b
+Kandidaten die aan de toetsing van het praktijkgedeelte van het examen, als bedoeld in artikel 9 en artikel 10 van het Examenbesluit registeraccountants 1994, wensen deel te nemen, dienen te staan ingeschreven bij het Stagebestuur van het Koninklijk NIVRA. Hiervoor is eenmalig een inschrijfgeld verschuldigd van € 125, alsmede een jaarlijks bedrag van € 152, als bijdrage in de algemene kosten van het Stagebestuur.
