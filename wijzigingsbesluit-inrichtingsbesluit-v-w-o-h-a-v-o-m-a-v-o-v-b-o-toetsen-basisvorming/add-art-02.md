@@ -1,4 +1,0 @@
-# Artikel II
-1. Dit besluit treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip. Laatstbedoeld besluit wordt niet genomen voordat vier weken zijn verstreken nadat het onderhavige besluit is voorgelegd aan de beide Kamers der Staten-Generaal en gedurende die termijn niet door of namens een van beide Kamers de wens wordt te kennen gegeven dat het in het besluit geregelde onderwerp bij de wet wordt geregeld.
-2. Artikel 20, zevende tot en met negende lid, van het Inrichtingsbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. zoals luidend ingevolge dit besluit, heeft voor de eerste maal betrekking op het schooljaar 1994-1995.
-3. In afwijking van artikel 20, derde lid, van het Inrichtingsbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. zoals luidend ingevolge dit besluit, deelt Onze Minister het bevoegd gezag in de maand september 1994 mede welke opgaven beschikbaar zullen worden gesteld voor het schooljaar 1994-1995.
