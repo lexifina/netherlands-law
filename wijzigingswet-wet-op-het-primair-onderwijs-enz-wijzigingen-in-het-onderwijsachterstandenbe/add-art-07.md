@@ -1,0 +1,2 @@
+# Artikel VII
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, waarbij kan worden bepaald dat aan de algemene maatregel van bestuur, bedoeld in de artikelen 165 en 168 van de Wet op het primair onderwijs, terugwerkende kracht wordt verleend tot en met 1 augustus 2006.

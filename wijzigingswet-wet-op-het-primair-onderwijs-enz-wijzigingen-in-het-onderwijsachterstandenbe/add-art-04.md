@@ -1,0 +1,3 @@
+# Artikel IV
+1. De ingevolge deze wet gewijzigde artikelen, zoals die artikelen luidden op de dag voor de inwerkingtreding van deze wet, blijven van toepassing op de tijdvakken, waarvoor zij gelding hadden.
+2. Op geschillen met betrekking tot de ingevolge deze wet gewijzigde artikelen, zoals die artikelen luidden op de dag voor de inwerkingtreding van deze wet, die op die datum in bezwaar of beroep aanhangig zijn of na die datum binnen de bezwaar- of beroepstermijn aanhangig zijn gemaakt, blijven de op die datum geldende regelingen van toepassing. De eerste volzin is van overeenkomstige toepassing op de bevoegdheid tot het intrekken en vervangen van besluiten die tot de aldaar bedoelde geschillen hebben geleid.
