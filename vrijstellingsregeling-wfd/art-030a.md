@@ -1,0 +1,2 @@
+# Artikel 30a
+Van hetgeen is bepaald in artikel 27 van het besluit en ingevolge artikel 29 van het besluit voor zover het ingevolge dat artikel bepaalde betrekking heeft op artikel 27 van het besluit, zijn vrijgesteld financiële dienstverleners, voor zover zij ten aanzien van complexe producten financiële diensten verlenen aan natuurlijke personen of rechtspersonen die handelen in de uitoefening van hun bedrijf of beroep.

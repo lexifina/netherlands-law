@@ -1,0 +1,2 @@
+# Artikel 26e
+Van artikel 38, eerste lid, tweede volzin, van het besluit, zijn vrijgesteld aanbieders van rechten van deelneming in een beleggingsinstelling als bedoeld in artikel 12, derde lid, van de Wet toezicht beleggingsinstellingen die de financiële bijsluiter over de rechten van deelneming in de beleggingsinstelling op hun website beschikbaar houden en die de financiële bijsluiter onverwijld op verzoek van een consument verstrekken.
