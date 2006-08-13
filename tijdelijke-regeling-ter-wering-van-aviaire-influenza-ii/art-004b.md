@@ -1,0 +1,8 @@
+# Artikel 4b
+1. In afwijking van de artikelen 44 tot en met 46 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's is het verboden pluimvee of loopvogels tijdelijk te verzamelen.
+2. Het eerste lid is niet van toepassing op het verzamelen van in Nederland gehouden postduiven ten behoeve van wedvluchten binnen Nederland en wedvluchten vanuit België naar Nederland.
+3. Op aanvraag van de organisator van een wedvlucht, cultureel evenement, tentoonstelling of keuring of de persoon die, anders dan ten behoeve van een markt waar pluimvee of loopvogels worden verhandeld, deze dieren tijdelijk wil verzamelen, kan de VWA, namens de Minister, met inachtneming van artikel 2bis, tweede lid, van beschikking 2005/734/EG, ontheffing verlenen van het verbod, bedoeld in het eerste lid.
+4. De ontheffing, bedoeld in het derde lid, wordt in ieder geval niet verleend indien de aanvraag niet ten minste 8 dagen van tevoren bij de VWA is ingediend.
+5. Aan de ontheffing, bedoeld in het derde lid, zijn in ieder geval de volgende voorwaarden verbonden:
+a. de dieren worden, alvorens deze worden toegelaten bij de plaats van aanvoer, op de kosten van de organisator of de persoon die tijdelijk dieren wil verzamelen, onderzocht door één of meer dierenartsen, en
+b. voor zover het een tentoonstelling of keuring betreft worden slechts pluimvee of loopvogels toegelaten die vergezeld gaan van een op hen betrekking hebbende, volledig ingevulde en ondertekende verklaring van enting tegen Newcastle Disease zoals bedoeld in artikel 45, tweede lid, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's.
