@@ -1,8 +1,0 @@
-# Tekst
-De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
-## Vraag
-Is de verhuur van schoolboeken door onderwijsinstellingen aan hun leerlingen vrijgesteld van omzetbelasting?
-## Antwoord
-Ingevolge artikel 11, eerste lid, onderdeel o, van de Wet op de omzetbelasting 1968 (hierna: de Wet) is het verstrekken van het in dit artikelonderdeel omschreven onderwijs vrijgesteld van de heffing van omzetbelasting.
-Deze vrijstelling komt in strekking overeen met artikel 13A, lid 1, letter i, van de zesde BTW-richtlijn. In deze richtlijnbepaling is aangegeven dat naast het in deze bepaling omschreven onderwijs ook de diensten en goederenleveringen die nauw met dit onderwijs samenhangen zijn vrijgesteld. Het ter beschikking stellen van schoolboeken (d.w.z. boeken die noodzakelijk zijn voor het volgen van het aangeboden onderwijs) is onlosmakelijk verbonden met het geven van onderwijs. De wijze waarop de boeken door de onderwijsinstelling worden verstrekt (via verhuur dan wel via verkoop) is voor de BTW-heffing niet van belang. De terbeschikkingstelling van schoolboeken door de in artikel 11, eerste lid, onderdeel o, van de Wet bedoelde onderwijs-instellingen aan hun leerlingen kan derhalve onder laatstbedoelde vrijstelling worden gerangschikt.
-Deze vrijstelling is niet van toepassing op onderwijsinstellingen voorzover deze op grond van Mededeling 8 (Besluit van 24 juni 1993, nr. VB93/1755) en Mededeling 14 (Besluit van 9 december 1993, nr. VB93/3598) ervoor hebben gekozen voor het verstrekken van beroepsopleidingen in de BTW-heffing te worden betrokken.
