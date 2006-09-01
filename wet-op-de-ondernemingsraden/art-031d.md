@@ -1,0 +1,7 @@
+# Artikel 31d
+1. De ondernemer verstrekt, mede ten behoeve van de bespreking van de algemene gang van zaken van de onderneming, ten minste eenmaal per jaar aan de ondernemingsraad schriftelijk informatie over de hoogte en inhoud van de arbeidsvoorwaardelijke regelingen en afspraken per verschillende groep van de in de onderneming werkzame personen.
+2. De ondernemer verstrekt daarbij tevens schriftelijke informatie over de hoogte en inhoud van de arbeidsvoorwaardelijke regelingen en afspraken met het bestuur dat de rechtspersoon vertegenwoordigt en het totaal van de vergoedingen, dat wordt verstrekt aan het toezichthoudend orgaan, bedoeld in artikel 24, tweede lid.
+3. Ten aanzien van het eerste en tweede lid wordt inzichtelijk gemaakt met welk percentage deze arbeidsvoorwaardelijke regelingen en afspraken zich verhouden tot elkaar en tot die van het voorgaande jaar.
+4. Indien een groep, als bedoeld in het eerste lid, het bestuur of het toezichthoudend orgaan, bedoeld in het tweede lid, uit minder dan vijf personen bestaat, is het mogelijk om voor de toepassing van deze leden twee of meer functies samen te voegen, zodat een groep van ten minste vijf personen ontstaat.
+5. De ondernemer is verplicht de ondernemingsraad zo spoedig mogelijk in kennis te stellen van belangrijke wijzigingen die in deze regelingen en afspraken worden aangebracht.
+6. Dit artikel is uitsluitend van toepassing op ondernemingen waarin in de regel ten minste 100 personen werkzaam zijn.
