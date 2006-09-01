@@ -1,12 +1,16 @@
 # Artikel 126t
-1. In een geval als bedoeld in artikel 126o, eerste lid, kan de officier van justitie, indien het onderzoek dit dringend vordert, bevelen dat een opsporingsambtenaar met een technisch hulpmiddel telecommunicatie opneemt ten aanzien waarvan het vermoeden bestaat dat daaraan een persoon deelneemt ten aanzien van wie uit feiten of omstandigheden een redelijk vermoeden voortvloeit dat deze betrokken is bij het in het georganiseerd verband beramen of plegen van misdrijven.
-2. Onder telecommunicatie wordt in dit artikel verstaan niet voor het publiek bestemde communicatie via een openbaar telecommunicatienetwerk, dan wel met gebruikmaking van openbare telecommunicatiediensten.
-3. Het bevel tot het opnemen van telecommunicatie is schriftelijk en vermeldt:
+1. In een geval als bedoeld in artikel 126o, eerste lid, kan de officier van justitie, indien het onderzoek dit dringend vordert, aan een opsporingsambtenaar bevelen dat met een technisch hulpmiddel niet voor het publiek bestemde communicatie die plaatsvindt met gebruikmaking van de diensten van een aanbieder van een communicatiedienst in de zin van artikel 126la, wordt opgenomen.
+2. Het bevel is schriftelijk en vermeldt:
 a. een omschrijving van het georganiseerd verband;
-b. de feiten of omstandigheden waaruit blijkt dat de voorwaarden, bedoeld in het eerste lid, zijn vervuld;
-c. het nummer waarmee de individuele gebruiker van telecommunicatie wordt geïdentificeerd, alsmede, voor zover bekend, de naam en het adres van de gebruiker;
-d. de naam van de persoon, genoemd in het eerste lid, wanneer deze niet de houder is, en
-e. de geldigheidsduur van het bevel.
-4. Indien bij de afgifte van het bevel, bedoeld in het eerste lid, bekend is dat de gebruiker van het nummer, bedoeld in het derde lid, onderdeel c, zich op het grondgebied van een andere staat bevindt, wordt, voor zover een verdrag dit voorschrijft en met toepassing van dat verdrag, die andere staat van het voornemen tot het opnemen van telecommunicatie in kennis gesteld en de instemming van die staat verworven voordat het bevel ten uitvoer wordt gelegd.
-5. De officier van justitie kan een bevel als bedoeld in het eerste lid eveneens geven, indien het bestaan van het bevel noodzakelijk is om een andere staat te kunnen verzoeken telecommunicatie met een technisch hulpmiddel op te nemen of telecommunicatie af te tappen en rechtstreeks naar Nederland door te geleiden ter fine van opname met een technisch hulpmiddel in Nederland.
-6. Artikel 126s, vierde tot en met achtste lid, is van overeenkomstige toepassing.
+b. de feiten en omstandigheden waaruit blijkt dat de voorwaarden, bedoeld in het eerste lid, zijn vervuld;
+c. zo mogelijk het nummer waarmee de individuele gebruiker van de communicatiedienst wordt geïdentificeerd alsmede, voor zover bekend, de naam en het adres van de gebruiker;
+d. de naam van de persoon, genoemd in het eerste lid, wanneer deze niet de houder is;
+e. de geldigheidsduur van het bevel; en
+f. een aanduiding van de aard van het technisch hulpmiddel of de technische hulpmiddelen waarmee de communicatie wordt opgenomen.
+3. Indien het bevel betrekking heeft op communicatie die plaatsvindt via een openbaar telecommunicatienetwerk of met gebruikmaking van een openbare telecommunicatiedienst in de zin van de Telecommunicatiewet, wordt – tenzij zulks niet mogelijk is of het belang van strafvordering zich daartegen verzet – het bevel ten uitvoer gelegd met medewerking van de aanbieder van het openbare telecommunicatienetwerk of de openbare telecommunicatiedienst en gaat het bevel vergezeld van een vordering aan de aanbieder om medewerking te verlenen.
+4. Indien het bevel betrekking heeft op andere communicatie dan bedoeld in het derde lid, wordt – tenzij zulks niet mogelijk is of het belang van strafvordering zich daartegen verzet – de aanbieder in de gelegenheid gesteld medewerking te verlenen bij de tenuitvoerlegging van het bevel.
+5. Het bevel, bedoeld in het eerste lid, kan slechts worden gegeven na schriftelijke machtiging, op vordering van de officier van justitie te verlenen door de rechter-commissaris. Artikel 126s, vijfde tot en met achtste lid, is van overeenkomstige toepassing.
+6. Voor zover het belang van het onderzoek dit bepaaldelijk vordert, kan bij of terstond na de toepassing van het eerste lid tot degene van wie redelijkerwijs kan worden vermoed dat hij kennis draagt van de wijze van versleuteling van de communicatie, de vordering worden gericht medewerking te verlenen aan het ontsleutelen van de gegevens door hetzij deze kennis ter beschikking te stellen, hetzij de versleuteling ongedaan te maken.
+7. De in het zesde lid bedoelde vordering wordt niet gericht tot de verdachte.
+8. Op de in het zesde lid bedoelde vordering zijn artikel 96a, derde lid, en artikel 126s, vierde, zesde en zevende lid, van overeenkomstige toepassing.
+9. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de wijze waarop het in het eerste lid bedoelde bevel en de in het derde en zesde lid bedoelde vorderingen worden gegeven en over de wijze waarop daaraan wordt voldaan.

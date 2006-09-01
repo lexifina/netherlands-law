@@ -6,4 +6,4 @@ b. de gebruiker van telecommunicatie of de technische hulpmiddelen waarmee de te
 c. de rechthebbende van een besloten plaats als bedoeld in de artikelen 126g, tweede lid, 126k, 126l, tweede lid, 126o, tweede lid, 126r en 126s, tweede lid.
 3. Indien de betrokkene de verdachte is, kan mededeling achterwege blijven, indien hij op grond van artikel 126aa, eerste of vierde lid, met de bevoegdheidstoepassing op de hoogte komt.
 4. Het eerste lid is niet van toepassing op de uitoefening van de bevoegdheid, bedoeld in de artikelen 126nc en 126uc.
-5. Degene tot wie een vordering als bedoeld in de artikelen 126nc tot en met 126nh en 126uc tot en met 126uh is gericht neemt in het belang van het onderzoek geheimhouding in acht omtrent al hetgeen hem terzake van de vordering bekend is.
+5. Degene tot wie een vordering als bedoeld in de artikelen 126nc tot en met 126ni en 126uc tot en met 126ui is gericht neemt in het belang van het onderzoek geheimhouding in acht omtrent al hetgeen hem terzake van de vordering bekend is.

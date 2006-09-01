@@ -40,7 +40,7 @@
 #### afdeling Vierde. Stelselmatige inwinning van informatie
 #### afdeling Vijfde. Bevoegdheden in een besloten plaats
 #### afdeling Zesde. Opnemen van vertrouwelijke communicatie met een technisch hulpmiddel
-#### afdeling Zevende. Onderzoek van telecommunicatie
+#### afdeling Zevende. Onderzoek van communicatie door middel van geautomatiseerde werken
 #### afdeling Achtste. Vorderen van gegevens
 ### Titel V. Bijzondere bevoegdheden tot opsporing voor het onderzoek naar het beramen of plegen van ernstige misdrijven in georganiseerd verband
 ### Titel VA. Bijstand aan opsporing door burgers
