@@ -1,0 +1,2 @@
+# XIV. Ad Article 11
+It is understood that when a person mentioned in subparagraph a) of paragraph 3 of Article 11 grants any loan through another person, the loan shall be deemed to be granted by the first-mentioned person. As a person meant in subparagraph a) of paragraph 3 of Article 11 shall also be considered the Netherlands Finance Company for Developing Countries NV (FMO) and the Netherlands Investment Bank for Developing Countries NV (NIO).

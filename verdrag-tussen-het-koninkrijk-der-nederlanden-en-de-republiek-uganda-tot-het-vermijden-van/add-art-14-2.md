@@ -1,0 +1,2 @@
+# XIV. Ad artikel 11
+Het is wel te verstaan dat indien een persoon als bedoeld in artikel 11, derde lid, onderdeel a, een lening verstrekt via een andere persoon, de lening wordt geacht te zijn verstrekt door de eerstbedoelde persoon. Als persoon bedoeld in artikel 11, derde lid, onderdeel a, worden tevens aangemerkt de Nederlandse Financierings-Maatschappij voor Ontwikke-lingslanden NV (FMO) en de Nederlandse Investeringsbank voor Ontwikkelingslanden VN (NIO).

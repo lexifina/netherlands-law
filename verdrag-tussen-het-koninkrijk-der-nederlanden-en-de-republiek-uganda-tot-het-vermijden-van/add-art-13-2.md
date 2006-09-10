@@ -1,0 +1,3 @@
+# XIII. Ad artikelen 10 en 13
+Het is wel te verstaan dat in het geval van Nederland, artikel 13, vijfde lid, alleen van toepassing is in het geval van een natuurlijke persoon die, al dan niet tezamen met zijn echtgenoot of een van zijn bloed- of aanverwanten in de rechte lijn, onmiddellijk of middellijk ten minstevijf percent bezit van het geplaatste kapitaal van een bepaalde soort aandelen van een lichaam.
+Het is voorts wel te verstaan dat indien een dergelijke natuurlijke persoon een schuldvordering heeft op dat lichaam, de bepalingen van artikel 13, vijfde lid, eveneens van toepassing zijn met betrekking tot door die natuurlijke persoon verkregen vermogenswinsten uit de „vervreemding" van een dergelijke schuldvordering.

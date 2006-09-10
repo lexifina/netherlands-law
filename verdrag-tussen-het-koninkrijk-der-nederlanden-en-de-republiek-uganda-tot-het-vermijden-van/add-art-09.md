@@ -1,0 +1,4 @@
+# IX. Ad Article 10
+The provisions of subparagraph a) of paragraph 3 of Article 10 shall apply as long as, under the provisions of the Netherlands Company Tax Act, a company which is a resident of the Netherlands is not charged to Netherlands company tax with respect to dividends which the company receives from a company which is resident of Uganda.
+When investments in a Contracting State have been made before and after the entry into force of this Convention, it is understood that dividends shall, for the purpose of sub-paragraph a) of paragraph 3 of Article 10, be deemed to be derived from those investments in proportion to the ratio between those respective investments.
+Notwithstanding the provisions of paragraph 2 of Article 10, the Contracting State of which the company is a resident shall not levy a tax on dividends paid by that company, if the beneficial owner of the dividends is a pension fund referred to in paragraph 2 of Article 4.

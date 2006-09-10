@@ -1,0 +1,2 @@
+# VIII. Ad Article 9
+It is understood that the fact that associated enterprises have concluded arrangements, such as cost sharing arrangements or general services agreements, for or based on the allocation of executive, general administrative, technical and commercial expenses, research and development expenses and other similar expenses, is not in itself a condition as meant in paragraph 1 of Article 9. However, this does not prevent a Contracting State from checking the above-mentioned arrangements or agreements for conditions as meant in paragraph 1 of Article 9.
