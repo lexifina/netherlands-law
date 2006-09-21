@@ -1,2 +1,0 @@
-# Artikel VII
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt, met uitzondering van de artikelen III en VI, terug tot en met 1 februari 1999.
