@@ -23,11 +23,13 @@
 ## Hoofdstuk 6. Milieuzonering
 ## Hoofdstuk 7. Milieu-effectrapportage
 ### § 7.1. Algemeen
-### § 7.2. Activiteiten en besluiten ten aanzien waarvan het maken van een milieu-effectrapport verplicht is
-### § 7.3. Procedurevoorschriften bij het ondernemen van activiteiten, aangewezen krachtens artikel 7.4
+### § 7.2. Plannen en besluiten ten aanzien waarvan het maken van een milieu-effectrapport verplicht is
+### § 7.3. Procedurevoorschriften met betrekking tot besluiten die zijn aangewezen krachtens artikel 7.2, vierde lid
 ### § 7.4. Het milieu-effectrapport
-### § 7.5. De voorbereiding van het milieu-effectrapport
-### § 7.6. De beoordeling van het milieu-effectrapport
+### § 7.4a. De voorbereiding van een milieu-effectrapport dat betrekking heeft op een plan
+### § 7.5. De voorbereiding van een milieu-effectrapport dat betrekking heeft op een besluit
+### § 7.6. De beoordeling van een milieu-effectrapport dat betrekking heeft op een besluit
+### § 7.6a. Het plan
 ### § 7.7. Het besluit
 ### § 7.8. Activiteiten met mogelijke grensoverschrijdende milieugevolgen
 ### § 7.9. Evaluatie
