@@ -1,2 +1,0 @@
-# Artikel 35c
-Indien tegelijkertijd recht bestaat op meer kortdurende uitkeringen en de som van de bedragen die aan deze uitkeringen zou moeten worden betaald groter is dan 70% van het minimumloon, wordt van elk van deze uitkeringen 70% van het minimumloon betaald, vermenigvuldigd met het aantal arbeidsuren terzake waarvan het betrokken recht bestaat gedeeld door het aantal arbeidsuren terzake waarvan recht op kortdurende uitkering bestaat.

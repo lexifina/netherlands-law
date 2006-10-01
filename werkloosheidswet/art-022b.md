@@ -1,3 +1,0 @@
-# Artikel 22b
-1. De intrekking of verlaging van een uitkering, die voortvloeit uit het door de werkgever ingesteld bezwaar of beroep, vindt niet eerder plaats dan de dag volgend op die waarop de beslissing op bezwaar is bekendgemaakt of de uitspraak is gedaan. De eerste zin is van overeenkomstige toepassing in geval van intrekking van het bezwaar of beroep omdat het UWV geheel of gedeeltelijk is tegemoet gekomen aan het bezwaar of beroep van de werkgever.
-2. Het eerste lid geldt niet, indien de uitkering door eigen schuld of toedoen van de werknemer ten onrechte of tot een te hoog bedrag is vastgesteld.

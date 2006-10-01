@@ -1,0 +1,18 @@
+# Artikel 42a
+1. Voor de toepassing van artikel 42, tweede lid, onderdeel a, worden met dagen waarover loon is ontvangen, gelijkgesteld:
+a. dagen waarover recht bestond op een uitkering die naar aard en strekking overeenkomt met een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen of met een uitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering voorzover de uitkering wordt toegekend naar een arbeidsongeschiktheid van ten minste 80% respectievelijk wordt toegekend over periodes waarin de persoon slechts in staat is om met arbeid ten hoogste 20% te verdienen van het maatmaninkomen, bedoeld in artikel 1 van eerstgenoemde wet;
+b. dagen waarover een persoon een uitkering ontvangt op grond van hoofdstuk III van de Wet arbeidsongeschiktheidsvoorziening militairen, berekend naar een arbeidsongeschiktheid van ten minste 80% of een toelage op grond van dat hoofdstuk, die al dan niet vermeerderd met de arbeidsongeschiktheidsuitkering 70% of meer bedraagt van het dagloon, waarnaar de arbeidsongeschiktheidsuitkering is of zou zijn berekend.
+2. Voor de toepassing van artikel 42, tweede lid, onderdeel a, worden niet reeds in aanmerking genomen kalenderjaren waarin een persoon recht heeft op kinderbijslag op grond van artikel 7 van de Algemene Kinderbijslagwet of een andere gezinsbijslag als bedoeld in artikel 4, eerste lid, onderdeel h, van verordening (EG) nr. 1408/71 van de Raad van de Europese Gemeenschap van 14 juni 1971 betreffende de toepassing van socialezekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen (PbEG L 149) voor een tot zijn huishouden behorend kind dat bij de aanvang van dat kalenderjaar de leeftijd van vijf jaar niet heeft bereikt, voor de helft gelijkgesteld met kalenderjaren waarin over 52 of meer dagen loon is ontvangen. De in de eerste zin bedoelde persoon wordt aangemerkt als verzorgend persoon.
+3. Het tweede lid vindt geen toepassing indien de verzorgende persoon in een kalenderjaar voor een periode langer dan een half jaar als werknemer in de zin van een wettelijke regeling inzake werkloosheid recht heeft op een uitkering ter zake van werkloosheid.
+4. Voor de toepassing van het tweede lid wordt onder:
+a. een kind verstaan een eigen, aangehuwd of pleegkind;
+b. een pleegkind verstaan een kind dat als een eigen kind wordt onderhouden en opgevoed.
+5. Voor de toepassing van artikel 42, tweede lid, onderdeel a, worden dagen, tot een maximum van achttien maanden, waarover de werknemer onbetaald verlof heeft genoten, gelijkgesteld met dagen, waarover loon is ontvangen.
+6. Voor de toepassing van dit artikel en van artikel 42, tweede lid, onderdeel a, wordt niet als loon beschouwd een uitkering:
+a. op grond van deze wet, met uitzondering van een uitkering op grond van hoofdstuk IV van deze wet;
+b. op grond van hoofdstuk 7 van de Wet werk en inkomen naar arbeidsvermogen, met uitzondering van een uitkering aan de persoon die slechts in staat is om met arbeid ten hoogste 20% te verdienen van het maatmaninkomen, bedoeld in artikel 1 van die wet;
+c. op grond van de Wet op de arbeidsongeschiktheidsverzekering, berekend naar een arbeidsongeschiktheid van minder dan 80%; of
+d. die naar aard en strekking overeenkomt met een uitkering als bedoeld in onderdeel a, b of c.
+7. Bij algemene maatregel van bestuur kunnen regels worden gesteld:
+a. ter vaststelling van het aantal dagen waarover loon is ontvangen, bedoeld in artikel 42, tweede lid, onderdeel a;
+b. op grond waarvan voor het bepalen van het aantal van 52 dagen, bedoeld in artikel 42, tweede lid, onderdeel a, dagen waarover, anders dan bedoeld in het vijfde lid, geen loon is ontvangen, worden gelijkgesteld met dagen waarover loon is ontvangen.
