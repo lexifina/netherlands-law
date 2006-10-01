@@ -25,10 +25,6 @@
 ### Paragraaf 6.1. Algemene bepalingen
 ### Paragraaf 6.2. Taken en bevoegdheden
 ### Paragraaf 6.3. Planning, verslaglegging en financiering
-## Hoofdstuk 7. Het college toezicht
-### Paragraaf 7.1. Algemene bepalingen
-### Paragraaf 7.2. Taken en bevoegdheden
-### Paragraaf 7.3. Planning, verslaglegging en financiering
 ## Hoofdstuk 8. Gegevensverstrekking
 ## Hoofdstuk 9. Handhaving
 ### Paragraaf 9.1. Aanwijzingen aan verzekeraars
