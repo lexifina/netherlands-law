@@ -60,6 +60,7 @@
 ### Titel 10.7. Het overbrengen van afvalstoffen binnen, naar en uit de Europese Gemeenschap
 ### Titel 10.8. Verdere bepalingen
 ## Hoofdstuk 11. Andere handelingen
+### Titel 11.1. Kwaliteit van werkzaamheden en integriteit van degenen die deze werkzaamheden uitvoeren
 ## Hoofdstuk 12. Verslag-, registratie- en meetverplichtingen
 ### Titel 12.1. Milieuverslaglegging
 ## Hoofdstuk 13. Procedures voor vergunningen en ontheffingen
