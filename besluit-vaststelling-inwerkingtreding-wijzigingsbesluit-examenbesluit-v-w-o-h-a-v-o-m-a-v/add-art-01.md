@@ -1,3 +1,0 @@
-# Artikel I
-Het Besluit van 14 juni 1994 (Stb. 488), houdende wijziging van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o., het Inrichtingsbesluit dagscholen m.b.o., het Inrichtingsbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. en het Besluit staatsexamens v.w.o.-h.a.v.o.-m.a.v.o. 1978 (diploma m.a.v.o.-v.b.o.; compensatie bij gespreide examinering) treedt in werking met ingang van 1 augustus 1994.
-Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 juli 1994, treedt het in de eerste volzin genoemde Besluit van 14 juni 1994 (Stb. 488) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
