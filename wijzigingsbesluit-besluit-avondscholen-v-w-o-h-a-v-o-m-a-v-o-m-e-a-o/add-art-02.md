@@ -1,2 +1,0 @@
-# Artikel II
-Gedurende het schooljaar 1991-1992 kan volgens bij ministeriële regeling te stellen regels door Onze Minister van Onderwijs en Wetenschappen aanvullende formatie in de vorm van leseenheden worden toegekend ten behoeve van personeelsleden, voor wie als gevolg van de bij artikel I van dit besluit gewijzigde formules geen formatie meer beschikbaar is, en voor wie de geldende taakverminderingsregelingen geen opvang kunnen bieden.
