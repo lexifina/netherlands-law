@@ -1,0 +1,5 @@
+# Artikel 75a
+1. Indien de machtiging strekt tot overdracht als bedoeld in artikel 75, eerste lid, aanhef en onderdeel a, kan op voordracht van de rechter-commissaris of op verzoek van de bewindvoerders de machtiging worden uitgebreid tot een machtiging als bedoeld in artikel 75, eerste lid, aanhef en onderdeel c.
+2. Op een voordracht of verzoek als bedoeld in het eerste lid wordt niet beslist dan nadat de rechtbank de Bank in de gelegenheid heeft gesteld haar mening daaromtrent kenbaar te maken. De Bank maakt met de meeste spoed haar mening kenbaar.
+3. Nadat de Bank haar mening ingevolge het tweede lid kenbaar heeft gemaakt, of indien zij niet van de in het tweede lid bedoelde gelegenheid gebruik heeft gemaakt, behandelt de rechtbank de voordracht of het verzoek met de meeste spoed op een niet openbare terechtzitting op de voet van de rechtspleging in burgerlijke zaken, voor zover daarvan bij deze wet niet is afgeweken.
+4. Artikel 71, achtste tot en met veertiende lid, is van overeenkomstige toepassing.

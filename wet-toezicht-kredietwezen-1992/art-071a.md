@@ -1,0 +1,2 @@
+# Artikel 71a
+Indien de rechtbank het noodzakelijk acht dat ten aanzien van een bijkantoor in Nederland van een in een andere lidstaat gevestigde kredietinstelling die krachtens artikel 31 in Nederland het bedrijf van kredietinstelling mag uitoefenen, een saneringsmaatregel wordt vastgesteld, stelt de griffier van de rechtbank de Bank daarvan in kennis. De Bank stelt de bevoegde instanties van de lidstaat van herkomst daarvan in kennis.

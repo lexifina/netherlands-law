@@ -1,0 +1,4 @@
+# Artikel 76b
+1. De kennisgeving, bedoeld in artikel 76a, eerste lid, aan een bekende schuldeiser met gewone verblijfplaats of woonplaats in een Lid-Staat, geschiedt in het Nederlands met een formulier dat in alle officiële talen van de Lid-Staten het opschrift draagt «Oproep tot indiening van opmerkingen betreffende schuldvorderingen. Termijnen».
+2. Elke schuldeiser met gewone verblijfplaats of woonplaats in een Lid-Staat kan zijn vordering en schriftelijke opmerkingen betreffende zijn vordering indienen in de officiële taal van die Lid-Staat met een verklaring als opschrift in de Nederlandse taal «Indiening van een vordering» onderscheidenlijk «Indiening van opmerkingen betreffende een vordering».
+3. De bewindvoerders kunnen een vertaling in het Nederlands van het stuk waarbij de vordering wordt ingediend en van de opmerkingen betreffende de vordering verlangen.

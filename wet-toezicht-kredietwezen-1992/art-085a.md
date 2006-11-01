@@ -1,0 +1,9 @@
+# Artikel 85a
+1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot aan het publiek te verstrekken informatie door kredietinstellingen en financiële instellingen die zijn geregistreerd ingevolge artikel 52, tweede lid.
+2. Onze minister kan, op aanvraag, bepalen dat een kredietinstelling of een financiële instelling niet behoeft te voldoen aan alle in het eerste lid bedoelde regels indien de kredietinstelling of de financiële instelling aantoont dat daaraan redelijkerwijs niet volledig kan worden voldaan en dat de doeleinden die deze wet beoogt te bereiken anderszins voldoende zijn bereikt. Onze minister kan een besluit als bedoeld in de vorige volzin wijzigen of intrekken indien naar zijn oordeel de omstandigheden waaronder het besluit is genomen zodanig zijn gewijzigd dat de doeleinden die deze wet beoogt te bereiken niet langer worden bereikt.
+3. Onze minister is belast met het toezicht op de naleving van het bij of krachtens dit artikel bepaalde. De artikelen 53 en 54 zijn van overeenkomstige toepassing.
+4. Taken en bevoegdheden die Onze minister op grond van dit artikel heeft, kunnen bij algemene maatregel van bestuur worden overgedragen aan een of meer rechtspersonen. Alsdan gelden de verplichtingen op grond van dit artikel jegens Onze minister als verplichtingen jegens de desbetreffende rechtspersoon of rechtspersonen.
+5. Een overdracht als bedoeld in het vierde lid vindt slechts plaats indien de betrokken rechtspersoon aan de volgende vereisten voldoet:
+a. hij dient in staat te zijn de in het vierde lid bedoelde taken en bevoegdheden naar behoren te vervullen;
+b. de voorwaarden dienen aanwezig te zijn voor een zodanige besluitvorming binnen de rechtspersoon dat een onafhankelijke vervulling van de in het vierde lid bedoelde taken en bevoegdheden zo veel mogelijk is gewaarborgd.
+6. Aan de overdracht, bedoeld in het vierde lid, kunnen beperkingen worden gesteld en voorschriften worden verbonden.

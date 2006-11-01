@@ -1,0 +1,3 @@
+# Artikel 90f
+1. Indien Onze Minister, dan wel de Bank voor zover zij bevoegd is een boete op te leggen, voornemens is een boete op te leggen, geeft hij, dan wel de Bank, de betrokkene daarvan kennis onder vermelding van de gronden waarop het voornemen berust.
+2. In afwijking van afdeling 4.1.2 van de Algemene wet bestuursrecht, stelt Onze Minister, dan wel de Bank voor zover zij bevoegd is een boete op te leggen, de betrokkene in de gelegenheid om naar keuze schriftelijk of mondeling zijn zienswijze naar voren te brengen voordat de boete wordt opgelegd, tenzij het een overtreding betreft die in de bijlage, bedoeld in artikel 90d, is aangewezen.

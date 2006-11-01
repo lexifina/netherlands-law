@@ -1,0 +1,2 @@
+# Artikel 80p
+In afwijking van artikel 80b worden de gevolgen van een saneringsmaatregel voor het uitoefenen van rechten op financiële instrumenten waarvan het bestaan of de overdracht inschrijving in een register, op een rekening of in een in een Lid-Staat bijgehouden of gesitueerd gecentraliseerd effectendepot veronderstelt, uitsluitend beheerst door het recht van de Lid-Staat waar het register, de rekening of het gecentraliseerde effectendepot waar deze rechten zijn ingeschreven, wordt bijgehouden of is gesitueerd.
