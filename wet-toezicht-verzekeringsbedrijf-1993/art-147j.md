@@ -1,0 +1,8 @@
+# Artikel 147j
+1. De opvanginstelling maakt de overdracht van de portefeuille van de verzekeraar nadat deze heeft plaatsgevonden onverwijld bekend in de Staatscourant. De Pensioen- & Verzekeringskamer kan de opvanginstelling gelasten van de overdracht tevens mededeling te doen op een andere, door de Pensioen- & Verzekeringskamer te bepalen, wijze. De inhoud van deze bekendmaking onderscheidenlijk mededeling behoeft de voorafgaande instemming van de Pensioen- & Verzekeringskamer.
+2. De overdracht wordt ten aanzien van alle andere belanghebbenden dan de betrokken verzekeraars van kracht met ingang van de tweede dag, volgende op die van de dagtekening van de Staatscourant waarin de bekendmaking is geplaatst.
+3. Op de overdracht zijn de artikelen 129, eerste tot en met derde en vijfde tot en met zevende lid, 130, 131 en 134 niet van toepassing.
+4. De Pensioen- & Verzekeringskamer geeft van de overdracht kennis:
+a. indien het een verzekeraar met zetel in Nederland betreft, aan de toezichthoudende autoriteiten van de andere lid-staten waar de verzekeraar een bijkantoor heeft of waarheen hij diensten verricht vanuit zijn vestigingen in de Unie;
+b. indien het een verzekeraar met zetel buiten de Unie betreft, aan de toezichthoudende autoriteiten van de andere lid-staten waarheen hij diensten verricht vanuit een bijkantoor in Nederland.
+5. Voordat de overdracht plaatsvindt stelt de Pensioen- & Verzekeringskamer de toezichthoudende autoriteiten, bedoeld in het vierde lid, in kennis van de voorgenomen overdracht, tenzij het met het opvanginstrument te bereiken doel daardoor in gevaar komt.

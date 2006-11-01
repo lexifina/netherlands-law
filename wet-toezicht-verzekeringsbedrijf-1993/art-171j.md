@@ -1,0 +1,3 @@
+# Artikel 171j
+1. In afwijking van artikel 171b worden, onverminderd artikel 171c, de gevolgen van een saneringsmaatregel voor de rechten en verplichtingen van deelnemers aan een gereglementeerde markt als bedoeld in artikel 1, onder 13, van richtlijn nr. 93/22/EEG van de Raad van de Europese Gemeenschappen van 10 mei 1993 betreffende het verrichten van diensten op het gebied van beleggingen in effecten (PbEG L 141) uitsluitend beheerst door het recht dat op die markt van toepassing is.
+2. Het eerste lid staat er niet aan in de weg dat een vordering wordt ingesteld tot nietigheid, vernietiging of het niet kunnen worden tegengeworpen van een rechtshandeling wegens de benadeling van het geheel van schuldeisers die van die rechtshandeling het gevolg is.

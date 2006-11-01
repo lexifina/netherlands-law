@@ -1,0 +1,5 @@
+# Artikel 54a
+1. Indien een verzekeraar tot een groep behoort en de deskundigheid of betrouwbaarheid van de in artikel 29, derde en vierde lid, bedoelde personen naar het oordeel van de Pensioen- & Verzekeringskamer niet langer buiten twijfel staat, kan deze aan de personen of instellingen die via een formele of feitelijke zeggenschapsstructuur het beleid bepalen van de groep waartoe de verzekeraar behoort, de aanwijzing geven dat de eerstgenoemde personen het beleid van die verzekeraar niet meer kunnen bepalen of mede bepalen.
+2. De personen en instellingen tot wie de aanwijzing is gericht, volgen deze binnen de door de Pensioen- & Verzekeringskamer gestelde termijn op.
+3. De personen en instellingen tot wie de aanwijzing is gericht, informeren de Pensioen- & Verzekeringskamer binnen de door haar gestelde termijn over de maatregelen die zijn getroffen om aan de aanwijzing gevolg te geven.
+4. De verzekeraar geeft geen gevolg aan algemene of bijzondere instructies van personen op wie een aanwijzing van de Pensioen- & Verzekeringskamer als bedoeld in het eerste lid betrekking heeft.

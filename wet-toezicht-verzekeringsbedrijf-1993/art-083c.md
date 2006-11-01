@@ -1,0 +1,4 @@
+# Artikel 83c
+1. Met inachtneming van het recht van een derde land heeft de vertegenwoordiger ten aanzien van de uitoefening van het verzekeringsbedrijf vanuit de bijkantoren in de betrokken staten van rechtswege alle bevoegdheden die de verzekeraar bezit. Hij maakt daarvan gebruik voor zover de Pensioen- & Verzekeringskamer zulks verlangt.
+2. Is de vertegenwoordiger rechtspersoon, dan wijst hij op zijn beurt een natuurlijk persoon aan die hem bij uitsluiting van ieder ander vertegenwoordigt bij de uitoefening van zijn bevoegdheden en bij de nakoming van zijn verplichtingen.
+3. Artikel 29, eerste en tweede lid, is van overeenkomstige toepassing op de natuurlijke persoon die als vertegenwoordiger is aangesteld en op de natuurlijke persoon, bedoeld in het tweede lid.

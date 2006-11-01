@@ -1,0 +1,3 @@
+# Artikel 188m
+1. Met het oog op de belangen van degenen die als verzekeringnemers, verzekerden of gerechtigden op uitkeringen betrokken zijn of zullen worden bij overeenkomsten van verzekering, gesloten of te sluiten met de verzekeraar, kunnen Onze Minister en de Pensioen- & Verzekeringskamer, onverminderd artikel 182, eerste en tweede lid, het feit ter zake waarvan de last onder dwangsom of de bestuurlijke boete is opgelegd, het overtreden voorschrift, alsmede de naam, het adres en de woonplaats van degene aan wie de last onder dwangsom of de bestuurlijke boete is opgelegd, ter openbare kennis brengen.
+2. Onze Minister kan regels stellen ter zake van de uitoefening van de bevoegdheid bedoeld in het eerste lid.

@@ -1,0 +1,2 @@
+# Artikel 147h
+De Pensioen- & Verzekeringskamer kan de verzekeraar en de opvanginstelling instructies geven in het belang van de goede werking van het opvanginstrument. De verzekeraar en de opvanginstelling volgen de instructies van de Pensioen- & Verzekeringskamer op. De instructies van de Pensioen- & Verzekeringskamer kunnen geen betrekking hebben op de voorwaarden van het herverzekeringscontract, bedoeld in artikel 147d, tweede lid, laatste volzin.
