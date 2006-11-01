@@ -72,6 +72,7 @@
 #### Vierde afdeling B. Toezeggingen aan getuigen die tevens verdachte zijn
 #### Vierde afdeling C. Toezeggingen aan getuigen die reeds veroordeeld zijn
 #### Vierde afdeling D. Maatregelen tot bescherming van getuigen
+#### Vierde afdeling E. Afgeschermde getuigen
 #### afdeeling Vijfde. Deskundigen
 #### afdeeling Zesde. Sluiting van het gerechtelijk vooronderzoek
 #### afdeeling Zevende. Handelingen van de rechter-commissaris na de sluiting of beëindiging van het gerechtelijk vooronderzoek
