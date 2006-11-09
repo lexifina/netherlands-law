@@ -1,0 +1,2 @@
+# Artikel 1a
+Onder de vermelding in deze regeling van een EG-richtlijn wordt verstaan hetgeen daaronder wordt begrepen in artikel 1.1a van het Voertuigreglement, met inbegrip van de ingevolge artikel 1.7, eerste lid, van het Voertuigreglement bekendgemaakte wijzigingen. Artikel 1.7, tweede lid, van het Voertuigreglement is van overeenkomstige toepassing.
