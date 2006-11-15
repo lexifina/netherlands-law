@@ -1,0 +1,2 @@
+# Artikel II
+Ten aanzien van de kostenopslag voor de invordering van uitkeringen tot voorziening in de kosten van verzorging en opvoeding of tot voorziening in de kosten van levensonderhoud en studie, waartoe vóór het tijdstip van inwerkingtreding van dit besluit is overgegaan, blijft het Besluit kostenopslag inning kinderalimentaties van toepassing zoals dat luidde direct voorafgaande aan de inwerkingtreding van dit besluit.
