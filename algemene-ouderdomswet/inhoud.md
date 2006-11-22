@@ -15,5 +15,6 @@
 ### § 1. Het ouderdomspensioen van personen die vóór het in werking treden van artikel 6 de leeftijd van 15, doch nog niet die van 65 jaar hebben bereikt
 ### § 2. Het ouderdomspensioen van personen die vóór of op de dag van het in werking treden van artikel 7 de leeftijd van 65 jaar hebben bereikt
 ### § 3*. Overige overgangsbepalingen
+### § 3. Overgangsrecht artikel 17
 ## Hoofdstuk IX. Strafbepalingen
 ## Hoofdstuk X. Slotbepalingen
