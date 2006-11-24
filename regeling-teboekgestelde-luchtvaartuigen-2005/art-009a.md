@@ -1,0 +1,2 @@
+# Artikel 9a
+De raadpleging van de kadastrale registratie voor luchtvaartuigen geschiedt door het verlenen van inzage aan de kantoren van de Dienst die voor het publiek zijn opengesteld, via het in paragraaf 3.6 van de technische handleiding genoemde internetadres of door middel van een permanente aansluiting op de geautomatiseerde kadastrale registratie en door het verstrekken van inlichtingen, door middel van de telefoon of telefax.
