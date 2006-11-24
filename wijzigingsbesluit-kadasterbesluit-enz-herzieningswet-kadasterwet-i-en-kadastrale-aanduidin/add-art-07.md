@@ -1,0 +1,2 @@
+# Artikel VII
+Indien een kabelnet voor de inwerkingtreding van artikel I, onderdeel B, van dit besluit reeds is ingeschreven onder vermelding van de kadastrale aanduiding van de onroerende zaken waarin dit kabelnet gelegen is, vervangt de bewaarder deze kadastrale aanduiding door een kadastrale aanduiding als bedoeld in artikel 2, vijfde lid, van het Kadasterbesluit, zoals dat artikellid komt te luiden na de inwerkingtreding van artikel I, onderdeel B, van dit besluit.
