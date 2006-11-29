@@ -28,6 +28,10 @@
 ## Hoofdstuk 6. Luchtvervoer
 ### Titel 6.5. Vervoer van gevaarlijke stoffen
 ### Titel 6.6. Vervoer van dieren
+## Hoofdstuk 7. Diverse bepalingen inzake luchtvaart
+### Titel 7.1. Melding van voorvallen
+### Titel 7.2. Slotallocatie
+### Titel 7.3. Verzekering
 ## Hoofdstuk 8. De luchthaven Schiphol
 ### Titel 8.1. Algemeen
 ### Titel 8.2. De ruimtelijke indeling van en rond de luchthaven
@@ -49,4 +53,5 @@
 ## Hoofdstuk 11. Toezicht en handhaving
 ### Titel 11.1. Toezicht en strafrechtelijke handhaving
 ### Titel 11.2. Bestuursrechtelijke handhaving
+### Titel 11.3. Uitzonderingen
 ## Hoofdstuk 12. Overgangs- en slotbepalingen
