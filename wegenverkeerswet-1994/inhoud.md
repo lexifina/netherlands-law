@@ -9,6 +9,7 @@
 ### Paragraaf 6. Financiële bepalingen
 ### Paragraaf 7. Overige bepalingen
 ## Hoofdstuk IB. Toezicht op het CBR
+## Hoofdstuk IC. Toezicht op keuringsinstellingen en onderzoeksgerechtigden
 ## Hoofdstuk II. Verkeersgedrag
 ### § 1. Gedragsregels
 ### § 2. Verkeerstekens en maatregelen op of aan de weg
