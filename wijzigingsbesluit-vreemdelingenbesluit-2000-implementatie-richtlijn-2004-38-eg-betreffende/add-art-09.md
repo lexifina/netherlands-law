@@ -1,0 +1,2 @@
+# Artikel IX
+Op onderdanen van staten, die op 1 mei 2004 zijn toegetreden of daarna toetreden tot de Europese Unie, alsmede hun familieleden, ongeacht hun nationaliteit, blijven de artikelen 8.11 en 8.12 van het Vreemdelingenbesluit 2000 van toepassing zoals deze luidden onmiddellijk voorafgaand aan inwerkingtreding van dit besluit, indien en voor zover ten aanzien van deze onderdanen het vrije verkeer van werknemers nog niet geldt ingevolge door Nederland getroffen overgangsmaatregelen.

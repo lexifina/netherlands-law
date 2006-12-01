@@ -1,0 +1,2 @@
+# Artikel II
+Een op het tijdstip van inwerkingtreding van dit besluit geldig bescheid, waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder e, van de Vreemdelingenwet 2000 blijkt, wordt, onder handhaving van de daarop gestelde aantekeningen en de geldigheidsduur, aangemerkt als document als bedoeld in artikel 8.13, vijfde lid, van het Vreemdelingenbesluit 2000, indien de houder ervan niet de nationaliteit van een staat bezit als bedoeld in artikel 8.7, eerste lid, van het Vreemdelingenbesluit 2000.

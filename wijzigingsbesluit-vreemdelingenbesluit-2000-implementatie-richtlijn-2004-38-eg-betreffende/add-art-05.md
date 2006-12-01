@@ -1,0 +1,2 @@
+# Artikel V
+Een op het tijdstip van inwerkingtreding van dit besluit in behandeling zijnde aanvraag om toetsing aan het gemeenschapsrecht en afgifte van een verblijfsdocument, van een vreemdeling die de nationaliteit bezit van een staat als bedoeld in artikel 8.7, eerste lid, van het Vreemdelingenbesluit 2000 en die tenminste vijf jaren voorafgaand aan dat tijdstip in de vreemdelingenadministratie is ingeschreven, wordt aangemerkt als een aanvraag tot afgifte van een verblijfsdocument als bedoeld in artikel 8.19 van het Vreemdelingenbesluit 2000.
