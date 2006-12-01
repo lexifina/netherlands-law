@@ -69,8 +69,15 @@
 ##### Afdeling 3. Overeenkomst van personenvervoer door de lucht
 ##### Afdeling 4. Opvolgend vervoer
 ### VI. Vervoer langs spoorstaven
+#### Titel 18. Overeenkomst van goederenvervoer over spoorwegen
+##### Afdeling 1. Algemene bepalingen
+##### Afdeling 2. Sluiting en uitvoering van de vervoerovereenkomst
+##### Afdeling 3. Aansprakelijkheid
+##### Afdeling 4. Uitoefening van rechten
+##### Afdeling 5. Onderlinge betrekkingen tussen de vervoerders
 #### Titel 19. Ongevallen
-##### Afdeling 4. Gevaarlijke stoffen aan boord van een spoorrijtuig
+##### Afdeling 1. Aansprakelijkheid voor spoorvoertuigen en spoorweginfrastructuur
+##### Afdeling 2. Gevaarlijke stoffen aan boord van een spoorrijtuig
 ### VII. Slotbepalingen
 #### Titel 20. Verjaring en verval
 ##### Afdeling 1. Algemene bepalingen
@@ -83,6 +90,6 @@
 ##### Afdeling 9. Aanvaring
 ##### Afdeling 10. Hulpverlening
 ##### Afdeling 11. Avarij-grosse
-##### Afdeling 12. Gevaarlijke stoffen aan boord van een zeeschip, een binnenschip, een voertuig en een spoorrijtuig
+##### Afdeling 12. Gevaarlijke stoffen aan boord van een zeeschip, een binnenschip, een voertuig en een spoorvoertuig
 ##### Afdeling 13. Luchtrecht
 #### Algemene Slotbepaling
