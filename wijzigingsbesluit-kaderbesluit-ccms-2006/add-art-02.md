@@ -1,0 +1,4 @@
+# Artikel II. Overgangsbepaling
+1. De eisen en verplichtingen voor opleiders en opleidingsinrichtingen voortvloeiende uit dit besluit zijn verbindend vanaf de datum van inwerkingtreding van dit besluit.
+2. In afwijking van het eerste lid worden ten aanzien van aanvragen voor erkenning ingediend vóór de inwerkingtreding van dit besluit de bepalingen omtrent erkenning toegepast die golden ten tijde van de aanvraag.
+3. Eisen en verplichtingen te stellen aan de opleider en de opleidingsinrichting aan wie een erkenning is verleend vóór de in het eerste lid genoemde datum van inwerkingtreding van dit besluit zijn verbindend vanaf de eerstvolgende datum waarop de erkenning als opleider en opleidingsinrichting opnieuw wordt verleend. Tot die datum blijven de bepalingen omtrent erkenning van toepassing die golden op het moment dat de oorspronkelijke erkenning werd verleend.
