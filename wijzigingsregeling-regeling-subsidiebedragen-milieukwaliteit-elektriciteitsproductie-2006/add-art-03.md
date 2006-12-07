@@ -1,0 +1,2 @@
+# Artikel III
+Op aanvragen om subsidie voor de productie van duurzame elektriciteit als bedoeld in de Regeling subsidiebedragen milieukwaliteit 2006 (periode 1 juli tot en met 31 december) en in de Regeling subsidiebedragen milieukwaliteit 2007 die vóór 18 augustus 2006 zijn ingediend en op subsidies die vóór 18 augustus 2006 zijn verstrekt, is de regelgeving van toepassing zoals die onmiddellijk voor dat tijdstip luidde.
