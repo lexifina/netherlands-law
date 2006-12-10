@@ -1,0 +1,10 @@
+# Artikel 22a
+1. De voorzitter kan, op schriftelijk verzoek van de eigenaar, van het bepaalde in de artikelen 2, tweede lid, 3, tweede lid, 4, tweede lid, 9, 20, tweede lid, en 21 ontheffing verlenen voor zover toepassing van deze artikelen gelet op de bezwaren aan de zijde van de eigenaar zal leiden tot een onbillijkheid van overwegende aard.
+2. Voorzover de ontheffing tevens betrekking heeft op het bepaalde in artikel 4, tweede lid, wordt het in het eerste lid bedoelde verzoek ingediend uiterlijk 5 maanden na de geboorte van de paardachtige.
+3. De ontheffing wordt slechts verleend nadat de eigenaar van de paardachtige waarop het verzoek betrekking heeft, op zijn kosten heeft voorzien in de identificatie van de paardachtige door vaststelling van de DNA-code van de paardachtige en deze code in het paspoort heeft doen vermelden door de in artikel 6, eerste lid, bedoelde erkende instelling of hippische sportorganisatie die het paspoort heeft uitgegeven.
+4. Aan een ontheffing zijn de volgende verplichtingen verbonden:
+a. de eigenaar verleent medewerking aan onderzoeken, waaronder het nemen en analyseren van haarmonsters van de paardachtige, ter vaststelling van de identiteit van de paardachtige door de bevoegde autoriteiten uitgevoerd in het kader van de handhaving van de wettelijke bepalingen ter zake van de identificatie en registratie van paardachtigen;
+b. de eigenaar draagt de kosten van de onder a. bedoelde onderzoeken;
+c. de paardachtige waarvoor ontheffing is verleend wordt, behoudens het bepaalde in het zesde lid, niet ter slachting aangeboden.
+5. Aan een ontheffing kunnen nadere voorwaarden worden verbonden. De voorwaarden kunnen bij besluit worden gewijzigd. Een ontheffing kan te allen tijde worden ingetrokken.
+6. In geval de paardachtige waarvoor een ontheffing is verleend wordt bestemd om te worden geslacht, wordt de paardachtige voorzien van een transponder en wordt zij niet eerder ter slacht aangeboden dan na het verstrijken van een termijn van 6 maanden te rekenen vanaf de dag van implantatie van de transponder.

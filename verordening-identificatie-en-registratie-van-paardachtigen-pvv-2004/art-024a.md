@@ -1,0 +1,2 @@
+# Artikel 24a
+Het hippisch paspoort als bedoeld in artikel 5.1 van de Regeling handel levende dieren en levende producten, zoals het artikel luidde vóór 1 januari 2004, en dat is afgegeven vóór 1 januari 2004, wordt als paspoort in de zin van deze verordening aangemerkt, voor zover dit paspoort in overeenstemming is met de bijlage bij Beschikking nr. 93/623/EEG van de Commissie van de Europese Gemeenschappen van 20 oktober 1993 tot vaststelling van een identificatiedocument (paspoort) dat geregistreerde paardachtigen moet vergezellen (PbEG L 298).
