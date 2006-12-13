@@ -1,4 +1,0 @@
-# Artikel IVa
-1. Om te verzekeren dat het college zo spoedig mogelijk na het tijdstip van inwerkingtreding van de regels ter uitvoering van Richtlijn nr. 2002/21/EG van het Europees Parlement en de Raad van de Europese Unie van 7 maart 2002 inzake een gemeenschappelijk regelgevingskader voor elektronische-communicatienetwerken en -diensten (Kaderrichtlijn) en de daarmee samenhangende richtlijnen kan komen tot de daarin vereiste bepaling en onderzoek van een of meer relevante markten in de elektronische communicatiesector kan het college reeds voor dit tijdstip de daartoe benodigde informatie verzamelen en analyseren.
-2. Een ieder verstrekt op verzoek van het college die informatie die het college redelijkerwijs nodig heeft bij de uitoefening van de in het eerste lid genoemde bevoegdheid.
-3. Hoofdstuk 15 van de Telecommunicatiewet is van overeenkomstige toepassing.

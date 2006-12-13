@@ -1,3 +1,0 @@
-# Artikel III
-1. Onverminderd het bepaalde bij of krachtens andere hoofdstukken van de Wet op de telecommunicatievoorzieningen dan hoofdstuk V, mogen apparaten tot 1 januari 1996 tevens in de handel worden gebracht en verhandeld, in gebruik worden genomen en gebruikt indien met betrekking tot de elektromagnetische compatibiliteit van die apparaten wordt voldaan aan de bij en krachtens de Wet op de telecommunicatievoorzieningen terzake vastgestelde regels die van kracht waren op 30 juni 1992.
-2. Artikel 30a, tweede lid, van de Wet op de telecommunicatievoorzieningen zoals dat is komen te luiden ingevolge deze wet, is niet van toepassing ten aanzien van apparaten die op het tijdstip van inwerkingtreding van deze wet reeds in de handel zijn gebracht.

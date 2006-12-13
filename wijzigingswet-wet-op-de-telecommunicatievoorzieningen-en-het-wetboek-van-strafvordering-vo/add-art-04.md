@@ -1,4 +1,0 @@
-# ARTIKEL IV
-Artikel 29b van de Wet op de telecommunicatievoorzieningen zoals dit komt te luiden na inwerkingtreding van deze wet, is niet van toepassing ten aanzien van:
-a. randapparatuur waarvoor, in overeenstemming met richtlijn nr. 86/361/EEG van de Raad van de Europese Gemeenschappen van 24 juli 1986 betreffende de eerste fase van de wederzijdse erkenning van goedkeuringen van eindapparatuur voor telecommunicatie (PbEG L 217), voor 6 november 1992 een typegoedkeuring is verleend;
-b. randapparatuur waarvoor in de periode tussen 6 november 1992 en het tijdstip van inwerkingtreding van deze wet, op grond van richtlijn nr. 91/263/EEG van de Raad van de Europese Gemeenschappen van 29 april 1991 inzake de onderlinge aanpassing van de wetgevingen der Lid-Staten betreffende eindapparatuur voor telecommunicatie en de onderlinge erkenning van de conformiteit van de apparatuur (PbEG L 128), een goedkeuring is verleend.
