@@ -6,4 +6,4 @@ b. € 211 indien door een natuurlijke persoon beroep in cassatie is ingesteld t
 c. € 422 indien anders dan door een natuurlijke persoon beroep in cassatie is ingesteld.
 3. Indien Onze Minister beroep in cassatie heeft ingesteld en de uitspraak van het gerechtshof in stand blijft, wordt van de Staat een griffierecht geheven van € 422.
 4. Artikel 8:41, tweede en vierde lid, van de Algemene wet bestuursrecht is van overeenkomstige toepassing.
-5. De in het tweede en derde lid genoemde bedragen kunnen bij algemene maatregel van bestuur worden gewijzigd voor zover het prijsindexcijfer van de gezinsconsumptie daartoe aanleiding geeft.
+5. De in het tweede en derde lid genoemde bedragen kunnen bij algemene maatregel van bestuur worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft.

@@ -3,4 +3,4 @@
 a. € 38 indien door een natuurlijke persoon beroep is ingesteld tegen een ander besluit dan een besluit als bedoeld in onderdeel b;
 b. € 141 indien door een natuurlijke persoon beroep is ingesteld tegen een besluit met betrekking tot de toepassing van de Wet op de dividendbelasting 1965, de Wet op de omzetbelasting 1968, de Wet op de belasting van personenauto's en motorrijwielen 1992, de Wet op de accijns, de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten, de Wet belastingen op milieugrondslag of wettelijke bepalingen in de zin van de Douanewet;
 c. € 281 indien anders dan door een natuurlijke persoon beroep is ingesteld.
-2. De in het eerste lid genoemde bedragen kunnen bij algemene maatregel van bestuur worden gewijzigd voor zover het prijsindexcijfer van de gezinsconsumptie daartoe aanleiding geeft.
+2. De in het eerste lid genoemde bedragen kunnen bij algemene maatregel van bestuur worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft.
