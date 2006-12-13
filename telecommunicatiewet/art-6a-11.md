@@ -12,3 +12,4 @@ b. de opgelegde of in stand gehouden verplichting niet langer passend is.
 5. Uiterlijk binnen achttien maanden nadat een besluit als bedoeld in het eerste lid in werking is getreden, onderzoekt het college of er nog sprake is van uitzonderlijke omstandigheden en of de opgelegde of in stand gehouden verplichting nog passend is en besluit het college op grond van:
 a. het eerste lid om het besluit in stand te houden, of
 b. het vierde lid om het besluit in te trekken.
+6. Artikel 6a.2, derde lid, is van overeenkomstige toepassing.

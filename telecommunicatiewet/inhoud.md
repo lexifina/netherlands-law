@@ -8,7 +8,7 @@
 ### § 3.4. Antenne-opstelpunten, antennesystemen en antennes
 ## Hoofdstuk 4. Nummerbeleid en nummerbeheer
 ## Hoofdstuk 5. Gedoogplicht voor aanleg, instandhouding en opruiming van kabels
-## Hoofdstuk 6. Interoperabiliteit van diensten
+## Hoofdstuk 6. Interoperabiliteit van diensten en vertrouwelijkheid van informatie
 ## Hoofdstuk 6a. Verplichtingen voor ondernemingen die beschikken over een aanmerkelijke marktmacht
 ### § 6a.1. Vaststellen van aanmerkelijke marktmacht
 ### § 6a.2. Met toegang verband houdende verplichtingen
