@@ -1,0 +1,3 @@
+# Artikel 13a
+1. Onze Minister geeft op aanvraag van een JAA-persoon een ontwerpgoedkeuring af voor een onderdeel van een luchtvaartuig, niet zijnde een uitrustingsstuk, indien de aanvrager aantoont dat het onderdeel voldoet aan de eisen die van toepassing zijn op het type luchtvaartuig waarvoor het onderdeel bedoeld is, zoals genoemd in artikel 5.
+2. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het eerste lid, alsmede de aanvraag van een ontwerpgoedkeuring van een onderdeel, de wijze waarop de aanvrager aantoont aan de van toepassing zijnde eisen voldoet en de procedure van aanvraag.
