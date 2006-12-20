@@ -5,4 +5,4 @@ a. of de omvang van dat pensioen voor mannen en vrouwen gelijk getrokken;
 b. of die geldelijke bijdrage zodanig vastgesteld dat naar het inzicht op het tijdstip van vaststelling, de omvang van de pensioenen voor mannen en vrouwen gelijk wordt getrokken.
 3. Indien het pensioen niet wordt berekend op grond van de geldelijke bijdrage van de tot de betrokken tak van beroep behorende persoon blijft de omvang van de geldelijke bijdrage voor de toepassing van artikel 12b buiten beschouwing voor zover dat gerechtvaardigd is in verband met voor mannen en vrouwen verschillende actuariële berekeningselementen.
 4. Indien het pensioen wordt berekend of mede wordt berekend op grond van de geldelijke bijdrage van de tot de betrokken beroepsgroep behorende persoon wordt de omvang van dat pensioen voor mannen en vrouwen gelijk getrokken.
-5. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent het tweede en vijfde lid.
+5. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent het tweede en vierde lid.
