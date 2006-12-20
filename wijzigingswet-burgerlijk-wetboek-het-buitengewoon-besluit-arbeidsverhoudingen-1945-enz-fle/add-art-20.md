@@ -1,0 +1,4 @@
+# ARTIKEL XX
+1. Voor de beëindiging van de uitzendovereenkomst waarin een beding als bedoeld in artikel 691 lid 2, is opgenomen en die voor de datum van inwerkingtreding van deze wet is voortgezet, is, in afwijking van artikel XIX lid 3, geen voorafgaande opzegging nodig.
+2. Voor uitzendovereenkomsten die zijn aangegaan op of na de datum van inwerkingtreding van deze wet en die voor dat tijdstip aangegane uitzendovereenkomsten opvolgen, worden voor de berekening van de termijnen, bedoeld in artikel 691 leden 1 en 3, die perioden in aanmerking genomen waarin gedurende de drie jaren die voorafgaan aan de datum van de inwerkingtreding van deze wet arbeid is verricht.
+3. Van de leden 1 en 2 kan slechts worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan.

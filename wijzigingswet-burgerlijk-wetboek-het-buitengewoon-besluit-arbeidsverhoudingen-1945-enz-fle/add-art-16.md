@@ -1,0 +1,3 @@
+# ARTIKEL XVI
+1. Onze Minister van Sociale Zaken en Werkgelegenheid zendt binnen 3 jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+2. Onze Minister van Sociale Zaken en Werkgelegenheid zendt na 2 jaar na de inwerkingtreding van deze wet en vervolgens telkens na 4 jaar aan de Staten-Generaal een verslag over de wijze waarop de Centrale organisatie werk en inkomen, bedoeld in artikel 2 van de Wet structuur uitvoeringsorganisatie werk en inkomen de bevoegdheid tot het verlenen van toestemming voor de opzegging van de arbeidsverhouding, bedoeld in artikel II, onderdeel B, heeft uitgevoerd.
