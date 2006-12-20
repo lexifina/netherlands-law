@@ -1,0 +1,4 @@
+# Artikel 8b
+1. Degene, die aan een spaarfonds heeft deelgenomen, ontvangt, tenzij het bepaalde in het tweede lid toepassing vindt, bij het eindigen van zijn deelneming of op een in de statuten of reglementen van het fonds aangegeven later tijdstip een uitkering op de voet van de door en voor hem betaalde en uit hoofde van artikel 3, derde lid, nog verschuldigde bijdragen.
+2. De statuten en reglementen van een spaarfonds kunnen bepalen dat degene, die korter dan een jaar aan het fonds heeft deelgenomen, bij het eindigen van zijn deelneming een uitkering ontvangt ten minste gelijk aan de door hem betaalde bijdragen.
+3. De statuten en reglementen van een spaarfonds kunnen in plaats van het in het tweede lid bedoelde tijdstip, waarop de deelneming eindigt, een later tijdstip van uitkering noemen, doch niet later dan twee jaren na het eindigen van de deelneming.

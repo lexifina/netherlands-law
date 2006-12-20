@@ -1,0 +1,3 @@
+# Artikel 23i
+1. De bevoegdheid een boete op te leggen vervalt indien ter zake van de overtreding een strafvervolging is ingesteld en het onderzoek ter terechtzitting een aanvang heeft genomen, dan wel het recht tot strafvordering is vervallen ingevolge artikel 74 van het Wetboek van Strafrecht.
+2. Het recht tot strafvordering met betrekking tot een overtreding als bedoeld in artikel 23b vervalt, indien de Pensioen- & Verzekeringskamer ter zake van die overtreding reeds een boete heeft opgelegd.

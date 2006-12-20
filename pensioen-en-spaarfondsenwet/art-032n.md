@@ -1,0 +1,4 @@
+# Artikel 32n
+1. De Pensioen- & Verzekeringskamer verbiedt een pensioenfonds bijdragen te ontvangen van een onderneming met een zetel in een andere lidstaat wanneer de Pensioen- & Verzekeringskamer reden heeft tot twijfel als bedoeld in artikel 32m, eerste lid, of het fonds niet beschikt over een vergunning, bedoeld in artikel 32i, onderdeel a.
+2. De Pensioen- & Verzekeringskamer kan een fonds verbieden nog langer bijdragen te ontvangen van een bijdragende onderneming met zetel in een andere lidstaat wanneer door de bevoegde autoriteiten van de lidstaat waarvan de voor bedrijfspensioenvoorziening geldende sociale en arbeidswetgeving van toepassing is, melding heeft gemaakt van een door het fonds gemaakte inbreuk op de toepasselijke sociale en arbeidswetgeving.
+3. De Pensioen- & Verzekeringskamer legt een verbod als bedoeld in dit artikel op in de vorm van een aanwijzing als bedoeld in artikel 23.
