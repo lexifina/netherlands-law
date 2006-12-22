@@ -1,0 +1,2 @@
+# Artikel XI
+Artikel 41, eerste lid, tweede volzin, en zevende lid (oud vijfde lid) van het Besluit algemene rechtspositie politie is mede van toepassing op de ambtenaar die voor het tijdstip van inwerkingtreding van dit besluit verlof heeft genoten mits aan de in artikel 41, eerste tot en met derde lid, van het Besluit algemene rechtspositie politie terzake van het recht op verlof gestelde voorwaarden is voldaan.
