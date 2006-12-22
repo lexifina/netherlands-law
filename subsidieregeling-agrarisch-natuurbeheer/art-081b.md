@@ -1,0 +1,4 @@
+# Artikel 81b
+1. Voor het eerste jaar van het tijdvak waarop de subsidieverlening betrekking heeft wordt binnen 8 weken na de beschikking tot subsidieverlening een voorschot verleend, gebaseerd op 70% van de subsidiabele kosten die zijn opgenomen in het overzicht, bedoeld in artikel 81a, derde lid.
+2. Voor elk van de volgende jaren van het tijdvak waarop de subsidieverlening betrekking heeft wordt binnen 17 weken na aanvang van het kalenderjaar een voorschot verleend, gebaseerd op 80% van de subsidiabele kosten die zijn opgenomen in het overzicht, bedoeld in artikel 81a, eerste lid.
+3. Het voorschot, bedoeld in het tweede lid, kan in voorkomend geval worden verhoogd of verlaagd met het verschil tussen de daadwerkelijke subsidiabele kosten in het voorafgaande jaar en het verleende voorschot voor dat jaar.

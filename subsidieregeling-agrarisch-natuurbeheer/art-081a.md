@@ -1,0 +1,4 @@
+# Artikel 81a
+1. De subsidieontvanger dient uiterlijk op 31 maart van het tweede en volgende jaar van het tijdvak waarop de subsidieverlening betrekking heeft een overzicht in van de subsidiabele kosten van de met betrekking tot dat jaar geplande activiteiten.
+2. Ingeval de met betrekking tot een jaar geplande activiteiten niet of anders zijn opgenomen in het projectplan komen de met die activiteiten samenhangende kosten enkel voor subsidie in aanmerking als de afwijking van het projectplan naar het oordeel van de minister voldoende is gemotiveerd. In dat geval wijzigt de minister op aanvraag de beschikking tot subsidieverlening.
+3. Voor het eerste jaar van het tijdvak waarop de subsidieaanvraag betrekking heeft dient de aanvrager tegelijk met de subsidieaanvraag een overzicht in van de subsidiabele kosten van de met betrekking tot dat jaar geplande activiteiten.
