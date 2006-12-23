@@ -3,4 +3,7 @@
 2. De in het eerste lid bedoelde beschikking wordt door het Uitvoeringsinstituut werknemersverzekeringen aangehouden indien van de in dat lid bedoelde persoon geen adresgegevens worden verwerkt in de polisadministratie, bedoeld in artikel 33. In dat geval wordt de beschikking niet eerder gegeven dan dat de adresgegevens bekend zijn.
 3. Op verzoek van belanghebbende geeft het Uitvoeringsinstituut werknemersverzekeringen een beschikking over tijdvakken die niet zullen worden bestreken door de in het eerste lid bedoelde beschikking waarin van ieder kalenderjaar in dat tijdvak wordt aangegeven of hij over 52 of meer dagen loon heeft ontvangen als bedoeld in artikel 42 van de Werkloosheidswet en artikel 15 van de Wet werk en inkomen naar arbeidsvermogen.
 4. Bij de vaststelling van het aantal kalenderjaren, bedoeld in het eerste en derde lid, is artikel 42a van de Werkloosheidswet met betrekking tot artikel 42 van die wet van overeenkomstige toepassing.
-5. Bij ministeriële regeling kunnen regels worden gesteld omtrent het eerste en tweede lid.
+5. Tot 1 januari 2009 is het Uitvoeringsinstituut werknemersverzekeringen, in afwijking van het eerste lid, bevoegd:
+a. de in dat lid genoemde termijn van 18 maanden buiten beschouwing te laten; en
+b. de in dat lid bedoelde beschikking te geven over tijdvakken korter of langer dan vijf jaar.
+6. Bij ministeriële regeling kunnen regels worden gesteld omtrent het eerste en tweede lid.
