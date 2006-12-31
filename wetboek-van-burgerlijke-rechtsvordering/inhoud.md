@@ -138,7 +138,6 @@
 #### afdeling Eerste. Algemene bepalingen
 #### afdeling Tweede. Bijzondere bepalingen
 ### titel Tiende. Van rechtspleging in zaken van rechtspersonen
-### titel Elfde. Van rechtspleging inzake jaarrekeningen en jaarverslagen
 ### titel Twaalfde. Van rechtspleging in zaken betreffende onredelijk bezwarende bedingen in algemene voorwaarden
 ### Titel 13. Van rechtspleging in zaken betreffende de teruggave van cultuurgoederen
 ### Titel 14. Van rechtspleging in zaken betreffende de verbindendverklaring van overeenkomsten strekkende tot collectieve schadeafwikkeling
