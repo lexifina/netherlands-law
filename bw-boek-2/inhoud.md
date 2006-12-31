@@ -59,3 +59,4 @@
 ##### § 4. Bijzondere voorschriften omtrent de toelichting
 ##### § 5. Bijzondere voorschriften omtrent de grondslagen van waardering en van bepaling van het resultaat
 ##### § 6. Bijzondere bepalingen voor de geconsolideerde jaarrekening
+#### Afdeling 16. Rechtspleging
