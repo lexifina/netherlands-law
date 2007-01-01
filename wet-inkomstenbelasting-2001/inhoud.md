@@ -13,9 +13,10 @@
 #### Paragraaf 3.2.2. Winst uit een onderneming
 #### Paragraaf 3.2.3. Oudedagsreserve
 #### Paragraaf 3.2.4. Ondernemersaftrek
+#### Paragraaf 3.2.5. MKB-winstvrijstelling
 ### Afdeling 3.3. Belastbaar loon
 #### Paragraaf 3.3.1. Belastbaar loon
-#### Paragraaf 3.3.2. Werknemersaftrek
+#### Paragraaf 3.3.2. Reisaftrek
 ### Afdeling 3.4. Belastbaar resultaat uit overige werkzaamheden
 #### Paragraaf 3.4.1. Belastbaar resultaat uit overige werkzaamheden
 #### Paragraaf 3.4.2. Resultaat uit een werkzaamheid

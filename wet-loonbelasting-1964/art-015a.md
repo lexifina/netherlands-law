@@ -1,6 +1,7 @@
 # Artikel 15a
 1. Tot de vrije vergoedingen behoren vergoedingen, in redelijkheid, ter zake van:
 a. consumpties tijdens de werktijd die geen deel uitmaken van een maaltijd;
+ab. maaltijden waarbij het zakelijke karakter van meer dan bijkomstig belang is;
 b. werkkleding, met inachtneming van bij ministeriële regeling te stellen regels;
 c. vakliteratuur;
 d. representatie ter behoorlijke vervulling van de dienstbetrekking, daaronder begrepen recepties, feestelijke bijeenkomsten, giften, relatiegeschenken en vermaak, met inbegrip van de desbetreffende reizen en het desbetreffende verblijf;
