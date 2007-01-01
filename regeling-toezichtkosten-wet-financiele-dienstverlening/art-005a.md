@@ -1,9 +1,0 @@
-# Artikel 5a
-1. De toezichthouder stelt jaarlijks een begroting op van de in het daarop volgende jaar te verwachten baten en lasten, investeringsuitgaven, inkomsten en uitgaven met betrekking tot de uitvoering van de taken en bevoegdheden en de daaruit voortvloeiende werkzaamheden die hem zijn opgedragen bij of krachtens de wet. De begroting wordt op een zodanige wijze opgesteld dat de lasten en uitgaven structureel worden gedekt door de baten en inkomsten.
-2. De begrotingsposten worden van een toelichting voorzien.
-3. Tenzij de werkzaamheden waarop de begroting betrekking heeft nog niet eerder werden verricht, bevat de begroting een vergelijking met de begroting van het lopende jaar en de laatste jaarrekening waarmee de minister heeft ingestemd.
-4. De toezichthouder zendt de begroting, vergezeld van een toelichting, voor 1 december van het aan het begrotingsjaar voorafgaande jaar ter instemming aan de minister.
-5. De instemming kan worden onthouden wegens strijd met het recht of het algemeen belang.
-6. De toezichthouder doet onverwijld mededeling in de Staatscourant van de begroting waarmee is ingestemd en houdt de begroting gedurende een jaar na instemming op elektronische wijze ter inzage.
-7. Indien de minister niet voor 1 januari van het jaar waarop deze betrekking heeft met de begroting heeft ingestemd, kan de toezichthouder, in het belang van een juiste uitvoering van zijn taak, voor het aangaan van verplichtingen en het verrichten van uitgaven beschikken over ten hoogste vier twaalfde gedeelten van de bedragen die bij de overeenkomstige onderdelen in de begroting van het voorafgaande jaar waren toegestaan.
-8. Indien gedurende het jaar aanmerkelijke verschillen ontstaan of dreigen te ontstaan tussen de werkelijke en begrote baten en lasten dan wel inkomsten en uitgaven, doet de toezichthouder daarvan onverwijld mededeling aan de minister onder vermelding van de oorzaak van de verschillen.

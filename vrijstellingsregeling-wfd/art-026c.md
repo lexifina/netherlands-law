@@ -1,2 +1,0 @@
-# Artikel 26c
-Van hetgeen is bepaald in artikel 32 van de wet en ingevolge artikel 100 van de wet, voor zover het ingevolge dat artikel bepaalde betrekking heeft op artikel 32 van de wet, en van de artikelen 27 en 38 van het besluit, zijn vrijgesteld financiële dienstverleners voor zover zij financiële diensten verlenen ten aanzien van natura-uitvaartverzekeringen of andere verzekeringen die uitsluitend strekken tot het doen van geldelijke uitkeringen in verband met de verzorging van de uitvaart van de mens.
