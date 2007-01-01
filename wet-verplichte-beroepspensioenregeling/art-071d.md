@@ -1,6 +1,0 @@
-# Artikel 71d. Nadere voorschriften en intrekking vergunning
-De Nederlandsche Bank N.V. kan de vergunning, bedoeld in artikel 22a, onderdeel a, geheel of gedeeltelijk intrekken of daaraan nadere voorschriften verbinden wanneer:
-a. het beroepspensioenfonds niet langer voldoet aan artikel 71c;
-b. de bij de aanvraag verstrekte gegevens onjuist of onvolledig zijn en de verstrekking van de juiste of volledige gegevens tot een andere beschikking op de aanvraag tot verlening van de vergunning zou hebben geleid;
-c. de verlening van de vergunning anderszins onjuist was en het fonds dit wist of behoorde te weten, of
-d. van de vergunning gedurende twee jaren, na de dagtekening van de beschikking waarbij de vergunning is verleend, geen gebruik is gemaakt.
