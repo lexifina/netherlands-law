@@ -1,4 +1,0 @@
-# Artikel 9a
-Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in artikel 10 tenzij het een subsidie betreft:
-a. als bedoeld in artikel 4: 23, derde lid, van de Algemene wet bestuursrecht of
-b. waarvan de voorgenomen strekking tevoren schriftelijk is meegedeeld aan de beide Kamers der Staten-Generaal.
