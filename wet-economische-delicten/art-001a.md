@@ -19,7 +19,7 @@ de Wet van 2 juli 1992, Stb. 415, tot uitbreiding en wijziging van de Wet algeme
 de Wet verontreiniging oppervlaktewateren, de artikelen 1, eerste, derde en vierde lid, 1b, 2a, 2c, tweede lid, 5, eerste lid, en 30a;
 de Wet verontreiniging zeewater, de artikelen 3, eerste lid, 4, en 11;
 de Wet vervoer gevaarlijke stoffen, de artikelen 4, 5, 10, 11, 21, 24, 27, 29, 31 en 33;
-de Wet voorkoming verontreiniging door schepen, de artikelen 5, eerste lid, 12, eerste lid, tweede lid, onderdelen a en b, vierde, zesde, zevende en achtste lid, 12b, eerste lid, 12c, eerste lid, 13, 13a, eerste, tweede, derde en vierde lid, 23, eerste, tweede en vierde lid, 35, derde lid, 35a, derde lid en 36a, eerste lid;
+de Wet voorkoming verontreiniging door schepen, de artikelen 5, eerste lid, 12, eerste lid, tweede lid, onderdelen a en b, vierde, zesde, zevende en achtste lid, 12b, eerste lid, 12c, eerste lid, en 12e, eerste lid, 13, 13a, eerste, tweede, derde en vierde lid, 23, eerste, tweede en vierde lid, 35, derde lid, 35a, derde lid en 36a, eerste lid;
 2°. overtredingen van voorschriften, gesteld bij of krachtens:
 de Bestrijdingsmiddelenwet 1962: artikel 16g, zesde lid;
 de Boswet, de artikelen 2, derde lid, 3, eerste en tweede lid, en 13, eerste lid;
@@ -35,7 +35,7 @@ de Wet op de Ruimtelijke Ordening, de artikelen 10, eerste en tweede lid, en 14 
 de Wet op de stads- en dorpsvernieuwing, artikel 31 juncto de artikelen 10, eerste en tweede lid, en 14 van de Wet op de Ruimtelijke Ordening – voorzover aangeduid als strafbare feiten – alsmede de artikelen 17, vierde lid, 21, derde lid, 28, vierde lid, 29, achtste lid, en 45, tweede lid, van laatstgenoemde wet;
 de Wet verontreiniging oppervlaktewateren, de artikelen 2b, eerste, tweede en derde lid, 4, en 9a, eerste, tweede en derde lid;
 de Wet verontreiniging zeewater, de artikelen 6 en 6a;
-de Wet voorkoming verontreiniging door schepen, de artikelen 6, tweede lid, artikel 10, eerste lid, onder b en d, 10, derde lid, jo. artikel 10, eerste lid, onder b en d, 11, eerste en derde lid, 12a, eerste, tweede, derde en vierde lid, 12d, eerste lid, 16, 17, en 31;
+de Wet voorkoming verontreiniging door schepen, de artikelen 6, tweede lid, 10, eerste lid, 11, eerste en tweede lid, 12a, eerste tot en met vierde lid, 12d, eerste lid, en 12e, tweede lid;
 3°. overtredingen van voorschriften, gesteld bij of krachtens:
 de Bestrijdingsmiddelenwet 1962, de artikelen 2, vijfde, zesde en zevende lid, 5a, derde lid, 10, tweede lid, 11, 11a, 12 en 13a tot en met 15;
 de Destructiewet, de artikelen 3, eerste, tweede en derde lid, 4a, 6, 9, 10, eerste en vijfde lid, 11, 12, 13, eerste, tweede, derde, vierde en vijfde lid, 15, 17, eerste lid, en 25, vierde lid;
