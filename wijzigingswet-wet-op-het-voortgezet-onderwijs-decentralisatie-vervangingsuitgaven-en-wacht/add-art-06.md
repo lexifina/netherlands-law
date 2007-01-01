@@ -1,0 +1,2 @@
+# Artikel VI. Financiële afwikkeling eigenwachtgelderbepaling
+Artikel 96o, eerste en vierde tot en met zevende lid, en artikel 96q.1 van de Wet op het voortgezet onderwijs zoals luidend op de dag voor de inwerkingtreding van dit artikel blijven van kracht met betrekking tot de bekostiging, bedoeld in artikel 96m, eerste lid, van de Wet op het voortgezet onderwijs voorzover de inhoudingen op grond van genoemde artikelen betrekking hebben op de periode tot de inwerkingtreding van dit artikel.

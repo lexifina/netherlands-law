@@ -1,0 +1,3 @@
+# Artikel III. Overgangsbepaling lopende vervangingen
+1. Scholen kunnen uiterlijk tot de eerste dag van de derde kalendermaand na de inwerkingtreding van dit artikel een verzoek richten tot de rechtspersoon, bedoeld in artikel 98a, eerste lid, van de Wet op het voortgezet onderwijs, zoals luidend op 31 december 2001, tot het voor hen uitvoeren van de uit dat artikellid voortvloeiende werkzaamheden ten aanzien van vervangingen in de periode tot en met de dag voor de inwerkingtreding van dit artikel.
+2. De rechtspersoon, bedoeld in het eerste lid, verricht de aldaar bedoelde werkzaamheden voor de laatste dag van de vijfde kalendermaand na de inwerkingtreding van dit artikel.
