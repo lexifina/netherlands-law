@@ -1,0 +1,2 @@
+# Artikel IV
+Artikel 13b en artikel 13ba van de Wet op de vennootschapsbelasting 1969 alsmede artikel 3.98a van de Wet Inkomstenbelasting 2001 blijven met betrekking tot een schuldvordering buiten toepassing voor zover met betrekking tot de met die schuldvordering corresponderende schuld reeds op de voet van artikel 12 van de Wet op de vennootschapsbelasting 1969, zoals dat luidde voor inwerkingtreding van deze wet, een bedrag tot de winst is gerekend.
