@@ -1,2 +1,0 @@
-# Artikel 9a
-De aanspraak, bedoeld in artikel 9, tweede lid, dient voor de verzekerde in elk geval steeds aan het einde van ieder kalenderjaar dan wel, indien dat eerder is, bij beëindiging van het verbonden zijn aan de onderneming, volledig te zijn gefinancierd. De Pensioen- & Verzekeringskamer kan op grond van bijzondere omstandigheden een langere termijn, van ten hoogste dertien weken, toestaan voor financiering als bedoeld in dit lid.
