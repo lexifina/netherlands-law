@@ -1,2 +1,0 @@
-# Artikel 13a
-Onze Minister verstrekt, op verzoek, aan de beheerder waaraan een vergunning is verleend en die het beheer voert over een beleggingsinstelling als bedoeld in artikel 6 en die voornemens is rechten van deelneming in die beleggingsinstelling in een andere lidstaat te verhandelen een verklaring dat de beheerder en de door hem beheerde beleggingsinstelling aan de voorwaarden van de richtlijn voldoen.

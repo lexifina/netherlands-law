@@ -1,4 +1,0 @@
-# Artikel 164c
-1. Indien na de inwerkingstelling van het opvanginstrument overeenkomstig artikel 147c, eerste lid, of artikel 164b, eerste lid, de verplichte overdracht van de portefeuille naar het oordeel van de Pensioen- & Verzekeringskamer niet tot stand kan worden gebracht, doet zij hiervan mededeling aan de bewindvoerders.
-2. Zolang de Pensioen- & Verzekeringskamer deze mededeling niet heeft gedaan, verleent de rechtbank de bewindvoerders geen bijzondere machtiging als bedoeld in artikel 165, eerste lid.
-3. De rechtbank verleent de bijzondere machtiging evenmin zolang de Pensioen- & Verzekeringskamer het opvanginstrument niet in werking heeft gesteld, tenzij de Pensioen- & Verzekeringskamer aan de bewindvoerders mededeling heeft gedaan van haar oordeel dat er geen aanleiding is tot het in werking stellen van het opvanginstrument.

@@ -1,3 +1,0 @@
-# Artikel 163b
-1. De kennisgeving, bedoeld in artikel 163a, derde lid, tweede volzin, aan een bekende schuldeiser met gewone verblijfplaats of woonplaats in een lid-staat, die een vordering uit hoofde van verzekering heeft, geschiedt in een officiële taal van die lid-staat.
-2. De kennisgeving, bedoeld in artikel 163a, derde lid, tweede volzin, aan een bekende schuldeiser met gewone verblijfplaats of woonplaats in een lid-staat, die een andere vordering heeft dan de vordering, bedoeld in het eerste lid, geschiedt in het Nederlands met een formulier dat in alle officiële talen van de Europese Unie het opschrift draagt: «Oproep tot indiening van schuldvorderingen. Termijnen».

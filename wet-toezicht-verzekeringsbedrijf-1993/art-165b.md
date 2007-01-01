@@ -1,2 +1,0 @@
-# Artikel 165b
-In geval van overdracht van rechten en verplichtingen ingevolge de machtigingen, bedoeld in artikel 156, derde lid, aanhef en onderdelen a en c, of de bijzondere machtiging, bedoeld in artikel 165, eerste lid, draagt de verzekeraar de waarden over die dienen tot dekking van de technische voorzieningen voor zover deze voorzieningen betrekking hebben op de verplichtingen die worden overgedragen.

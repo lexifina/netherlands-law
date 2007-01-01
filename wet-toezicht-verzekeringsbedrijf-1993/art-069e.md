@@ -1,2 +1,0 @@
-# Artikel 69e
-Indien een verzekeraar met zetel in Nederland en een of meer verzekeraars met zetel in een andere lid-staat dan Nederland als moederonderneming dezelfde verzekeringsholding, verzekeraar met zetel buiten de Unie, herverzekeraar of gemengde verzekeringsholding hebben, kan de Pensioen- & Verzekeringskamer met die andere toezichthoudende autoriteit in overleg treden met het doel overeenstemming te bereiken over de vraag wie het toezicht, bedoeld in artikel 69c, zal uitoefenen.

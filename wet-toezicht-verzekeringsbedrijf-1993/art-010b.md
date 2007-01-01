@@ -1,2 +1,0 @@
-# Artikel 10b
-Met het oog op een effectieve en efficiënte besluitvorming over de wijze van behandeling van aangelegenheden van wederzijds belang en het verzamelen van informatie ten behoeve daarvan, maken de Pensioen- & Verzekeringskamer, het College toezicht, genoemd in artikel 77, eerste lid, van de Zorgverzekeringswet, en het College zorgverzekeringen, genoemd in artikel 58, eerste lid, van die wet, afspraken met elkaar.

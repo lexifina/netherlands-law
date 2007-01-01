@@ -1,2 +1,0 @@
-# Artikel 55a
-Bij of krachtens de in de artikelen 70a en 98a bedoelde algemene maatregel van bestuur kan worden voorgeschreven dat verzekeraars bepaalde gegevens ter zake van de integere bedrijfsvoering aan de Pensioen- & Verzekeringskamer melden. Onder integere bedrijfsvoering wordt in dit artikel verstaan de bedrijfsvoering met uitzondering van het deel dat wordt geregeld door de effectentypische gedragsregels, bedoeld in artikel 18a van de Wet toezicht effectenverkeer 1995.

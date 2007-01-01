@@ -1,2 +1,0 @@
-# Artikel 183c
-In afwijking van artikel 182 is artikel 183a van overeenkomstige toepassing op gegevens of inlichtingen die betrekking hebben op derden die betrokken zijn bij pogingen de verzekeraar in staat te stellen zijn bedrijf voort te zetten, ongeacht of de verleende machtiging een machtiging is als bedoeld in artikel 156, derde lid, aanhef en onderdeel a, b of c, en ongeacht of activa te gelde zijn gemaakt met het oogmerk de opbrengst te verdelen onder de schuldeisers, aandeelhouders of leden.

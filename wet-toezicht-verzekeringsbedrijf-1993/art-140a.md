@@ -1,3 +1,0 @@
-# Artikel 140a
-1. De Pensioen- & Verzekeringskamer kan, indien aan een verzekeraar op grond van artikel 137a, tweede lid, een hoger minimum bedrag aan vereiste solvabiliteitsmarge is voorgeschreven en die verzekeraar niet of niet meer beschikt over dit minimum bedrag aan vereiste solvabiliteitsmarge, in uitzonderlijke omstandigheden, waarbij zij van oordeel is dat de financiële positie van de verzekeraar nog verder zal verslechteren, de vrije beschikking door de verzekeraar over zijn waarden, waar zij zich ook bevinden, beperken of hem verbieden om anders dan met schriftelijke machtiging van de Pensioen- & Verzekeringskamer te beschikken over deze waarden.
-2. Artikel 140, tweede tot en met vijfde lid, is van overeenkomstige toepassing.

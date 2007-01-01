@@ -1,2 +1,0 @@
-# Artikel 78a
-Indien een faillietverklaring wordt uitgesproken op verzoek van de bewindvoerders dan wel binnen vier weken na het einde van de noodregeling, geldt dat het tijdstip waarop de termijnen vermeld in de artikelen 43 en 45 van de Faillissementswet en in artikel 138, zesde lid, van Boek 2 van het Burgerlijk Wetboek aanvangen, wordt berekend vanaf het tijdstip waarop de noodregeling is uitgesproken.

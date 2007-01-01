@@ -1,2 +1,0 @@
-# Artikel 65c
-In afwijking van artikel 64 is artikel 65a van overeenkomstige toepassing op gegevens of inlichtingen die betrekking hebben op derden die betrokken zijn bij pogingen de kredietinstelling in staat te stellen haar bedrijf voort te zetten, ongeacht of een machtiging is verleend, als bedoeld in artikel 75, eerste lid, aanhef en onderdeel a, b of c, en ongeacht of activa te gelde zijn gemaakt met het oogmerk de opbrengst te verdelen onder de schuldeisers, aandeelhouders of leden.

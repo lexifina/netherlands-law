@@ -1,4 +1,0 @@
-# Artikel 147d
-1. De opvang door een opvanginstelling kan bestaan uit verplichte herverzekering van de portefeuille van de verzekeraar of verplichte overdracht van de portefeuille van de verzekeraar.
-2. In geval van verplichte herverzekering van de portefeuille worden de verplichtingen van de verzekeraar uit overeenkomsten van directe verzekering geheel of ten dele herverzekerd bij een door de Pensioen- & Verzekeringskamer aan te wijzen opvanginstelling. De voorwaarden waaronder verplichte herverzekering plaatsvindt, worden opgesteld door de opvanginstelling en behoeven de instemming van de Pensioen- & Verzekeringskamer.
-3. In geval van verplichte overdracht van de portefeuille worden de rechten en verplichtingen uit overeenkomsten van directe verzekering van de verzekeraar overgedragen aan een door de Pensioen- & Verzekeringskamer aan te wijzen opvanginstelling. De opvanginstelling brengt daarbij de solvabiliteitsmarge op de ingevolge artikel 68 vereiste omvang.
