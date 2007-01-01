@@ -1,0 +1,5 @@
+# Artikel 25a. Gelijke behandeling bij toeslagen
+1. Tot de datum van inwerkingtreding van artikel 58 van de Pensioenwet blijven, in afwijking van artikel 2, de artikelen 8, vijfde en zesde lid, van de Pensioen- en spaarfondsenwet en 9, vierde en vijfde lid, van de Regelen verzekeringsovereenkomsten Pensioen- en spaarfondsenwet van toepassing.
+2. Artikel 58 van de Pensioenwet is niet van toepassing op meeverzekerde stijgingen voor de datum van inwerkingtreding van genoemd artikel.
+3. Tot de datum van inwerkingtreding van artikel 69 van de Wet verplichte beroepspensioenregeling, zoals dat komt te luiden na de datum van inwerkingtreding van deze wet, blijven de artikelen 44 en 45, van de Wet verplichte beroepspensioenregeling, zoals deze luiden op de peildatum, van toepassing.
+4. Artikel 69 van de Wet verplichte beroepspensioenregeling, zoals dat komt te luiden na de datum van inwerkingtreding van deze wet, is niet van toepassing op meeverzekerde stijgingen voor de datum van inwerkingtreding van genoemd artikel.

@@ -1,0 +1,3 @@
+# Artikel 2a. Afhandeling verzoeken
+1. Op een verzoek ingediend op grond van de Pensioen- en spaarfondsenwet, ten aanzien waarvan op de peildatum nog geen beslissing is genomen, blijft, in afwijking van artikel 2, de Pensioen- en spaarfondsenwet van toepassing, tenzij in deze wet anders wordt bepaald.
+2. Op een verzoek ingediend op grond van de Wet verplichte beroepspensioenregeling, zoals deze luidde op de peildatum, ten aanzien waarvan op de peildatum nog geen beslissing is genomen, blijft de Wet verplichte beroepspensioenregeling, zoals deze luidde op de peildatum, van toepassing, tenzij in deze wet anders wordt bepaald.
