@@ -1,12 +1,6 @@
 # Artikel 212g
 1. Voor de toepassing van deze afdeling wordt verstaan onder:
-a. kredietinstelling: de kredietinstelling, bedoeld in artikel 1 van de Wet toezicht kredietwezen 1992, met uitzondering van een kredietinstelling:
-1°. die door de Minister van Financiën op grond van artikel 6, tweede lid, van de Wet toezicht kredietwezen 1992 is vrijgesteld van het verbod van artikel 6, eerste lid, van die wet;
-2°. die door de Minister van Financiën op grond van artikel 31, vierde lid, van de Wet toezicht kredietwezen 1992 is vrijgesteld van het verbod van artikel 31, eerste lid, van die wet;
-3°. die door de Minister van Financiën op grond van artikel 38, derde lid, van de Wet toezicht kredietwezen 1992 is vrijgesteld van het verbod van artikel 38, eerste lid, van die wet;
-4°. die door De Nederlandsche Bank N.V. op grond van artikel 6, derde lid, Wet toezicht kredietwezen 1992 is ontheven van het verbod van artikel 6, eerste lid, van die wet;
-5°. die door De Nederlandsche Bank N.V. op grond van artikel 31, vijfde lid, van de Wet toezicht kredietwezen 1992 is ontheven van het verbod van artikel 31, eerste lid, van die wet;
-6°. die door De Nederlandsche Bank N.V. op grond van artikel 38, vierde lid, van de Wet toezicht kredietwezen 1992 is ontheven van het verbod van artikel 38, eerste lid, van die wet.
+a. kredietinstelling: een kredietinstelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;
 b. liquidatieprocedure: een collectieve procedure, het faillissement daaronder begrepen, geopend in een lidstaat, die het te gelde maken van de activa van een kredietinstelling en het op toepasselijke wijze verdelen van de opbrengst onder de schuldeisers, aandeelhouders of leden behelst, en die noodzakelijkerwijs een optreden van administratieve of rechterlijke instanties behelst, daaronder begrepen de collectieve procedure die wordt afgesloten met een gerechtelijk akkoord of een andere maatregel van dezelfde strekking;
 c. lidstaat: een staat die lid is van de Europese Unie alsmede een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij de overeenkomst betreffende de Europese Economische Ruimte (Trb. 1992, 132);
 d. lidstaat van herkomst: ingeval de kredietinstelling een rechtspersoon is, de lidstaat waarin aan een kredietinstelling haar zetel heeft, dan wel, ingeval de kredietinstelling geen rechtspersoon is, de lidstaat waar zij haar hoofdbestuur heeft;

@@ -1,12 +1,13 @@
 # Artikel 212a
 Voor de toepassing van deze afdeling en afdeling 11AA wordt verstaan onder:
 a. instelling:
-1°. een kredietinstelling als bedoeld in artikel 1, eerste lid, onderdeel a, van de Wet toezicht kredietwezen 1992;
-2°. een financiële instelling als bedoeld in artikel 1, eerste lid, onderdeel c, van de Wet toezicht kredietwezen 1992;
-3°. een effecteninstelling als bedoeld in artikel 1, onderdeel d, van de Wet toezicht effectenverkeer 1995;
+1°. een kredietinstelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;
+2°. een financiële instelling die een verklaring van ondertoezichtstelling als bedoeld in artikel 3:110, eerste lid, van de Wet op het financieel toezicht heeft;
+3°. een beleggingsonderneming als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;
 4°. een centrale tegenpartij, indien deze in het kader van deelname aan het systeem op grond van een overboekingsopdracht effectentegoeden verkrijgt;
 5°. een overheidsinstantie of onderneming met overheidsgarantie;
-6°. een in een staat die niet een lidstaat is van de Europese Unie gevestigde onderneming of instelling die het bedrijf van kredietinstelling of effecteninstelling uitoefent door middel van een bijkantoor in Nederland;
+6°. een ieder, bedoeld in artikel 3:4 van de Wet op het financieel toezicht, die een vergunning heeft als bedoeld in artikel 2:11 van die wet;
+7°. een clearinginstelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.
 b. systeem:
 1°. een door de Minister van Financiën op grond van artikel 212d aangewezen systeem;
 2°. een formele overeenkomst waarop het recht van een lidstaat van de Europese Unie van toepassing is en die door een andere lidstaat van de Europese Unie als systeem in de zin van richtlijn nr. 98/26/EG van het Europees Parlement en de Raad van de Europese Unie van 19 mei 1998 (PbEG L 166) is aangemeld bij de Commissie van de Europese Gemeenschappen;
@@ -14,10 +15,10 @@ c. centrale tegenpartij: een lichaam dat tussen de instellingen die deelnemen aa
 d. afwikkelende instantie: een lichaam dat aan instellingen of centrale tegenpartijen die deelnemen aan systemen, afwikkelingsrekeningen beschikbaar stelt via welke overboekingsopdrachten binnen die systemen worden afgewikkeld;
 e. verrekeningsinstituut: een lichaam dat verantwoordelijk is voor de berekening van de netto posities van de instellingen, een eventuele centrale tegenpartij of een eventuele afwikkelende instantie;
 f. deelnemer: een instelling, een centrale tegenpartij, een afwikkelende instantie, dan wel een verrekeningsinstituut;
-g. indirecte deelnemer: een kredietinstelling als bedoeld in artikel 1, eerste lid, onderdeel a, van de Wet toezicht kredietwezen 1992, dan wel een financiële instelling als bedoeld in artikel 1, eerste lid, onderdeel c, van de Wet toezicht kredietwezen 1992, die op grond van een overeenkomst met een instelling die deelneemt in een systeem via het systeem een geldsom ter beschikking van een ontvanger kan stellen door middel van een boeking in de rekening van een kredietinstelling, een financiële instelling, een centrale bank of een afwikkelende instantie;
+g. indirecte deelnemer: een kredietinstelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, of een financiële instelling als bedoeld in artikel 1:1 van die wet, die op grond van een overeenkomst met een instelling die deelneemt in een systeem via het systeem een geldsom ter beschikking van een ontvanger kan stellen door middel van een boeking in de rekening van een kredietinstelling, een financiële instelling, een centrale bank of een afwikkelende instantie;
 h. centrale bank: een centrale bank van een lidstaat van de Europese Unie, de centrale bank van een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, dan wel de Europese Centrale Bank;
-i. bijkantoor: één of meer onderdelen zonder rechtspersoonlijkheid van een instelling die in een andere staat zijn gevestigd dan die waarin die instelling gevestigd is;
-j. effecten: effecten als bedoeld in artikel 1, onderdeel a, van de Wet toezicht effectenverkeer 1995;
+i. bijkantoor: een duurzaam in een andere staat dan de staat van de zetel aanwezig onderdeel zonder rechtspersoonlijkheid van een instelling;
+j. effect: een effect als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;
 k. overboekingsopdracht: een opdracht door een deelnemer om door middel van een boeking op de rekeningen van een kredietinstelling, een centrale bank of een afwikkelende instantie een geldsom ter beschikking van een ontvanger te stellen, of iedere opdracht die resulteert in het op zich nemen of het nakomen van een betalingsverplichting zoals gedefinieerd in de regels van het systeem, dan wel een opdracht door een deelnemer om door middel van een boeking in een register of anderszins, de rechten op of de rechten ten aanzien van één of meer effecten over te boeken;
 1. insolventieprocedure: elke collectieve maatregel waarin de wetgeving van een lidstaat of van een derde land voorziet, met het oog op de liquidatie of de sanering van de deelnemer indien een dergelijke maatregel gepaard gaat met opschorting van, of oplegging van beperkingen aan overboekingen en betalingen;
 m. verrekening: het in één nettovordering of nettoverplichting omzetten van vorderingen en verplichtingen die voortvloeien uit overboekingsopdrachten die een deelnemer geeft aan of ontvangt van, dan wel die deelnemers geven aan of ontvangen van, één of meer andere deelnemers, met als gevolg dat er alleen een nettovordering of een nettoverplichting ontstaat;

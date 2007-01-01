@@ -1,4 +1,4 @@
 # Artikel 213q
 1. Ingeval de verzekeraar een zaak heeft gekocht, laat de beslissing tot opening van een liquidatieprocedure onverlet de op een eigendomsvoorbehoud berustende rechten van de verkoper, indien de zaak waarop het eigendomsvoorbehoud betrekking heeft zich op het tijdstip waarop de beslissing tot opening van een liquidatieprocedure rechtsgevolgen heeft, bevindt op het grondgebied van een andere lidstaat dan de lidstaat van herkomst.
 2. Ingeval de verzekeraar een zaak heeft verkocht, is de beslissing tot opening van een liquidatieprocedure geen grond voor ontbinding of beëindiging van de overeenkomst tot verkoop, en belet de liquidatieprocedure de koper niet de eigendom van de gekochte zaak te verkrijgen, indien de zaak zich op het tijdstip waarop de beslissing tot opening van de liquidatieprocedure rechtsgevolgen heeft, bevindt op het grondgebied van een andere lidstaat dan de lidstaat van herkomst.
-3. Artikel 171c, vierde lid, van de Wet toezicht verzekeringsbedrijf 1993 is van overeenkomstige toepassing.
+3. Artikel 3:241, vierde lid, van de Wet op het financieel toezicht is van overeenkomstige toepassing.

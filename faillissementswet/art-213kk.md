@@ -1,0 +1,8 @@
+# Artikel 213kk
+1. In geval van faillietverklaring op grond van deze paragraaf worden de boedelschulden, al naar gelang de aard van de betrokken boedelschuld hetzij over ieder deel van de boedel omgeslagen, hetzij uitsluitend van een bepaalde bate van de boedel afgetrokken.
+2. Onverminderd het bepaalde in het eerste lid en behoudens vorderingen door pand en hypotheek gedekt, worden de volgende vorderingen verhaald op de boedel in de volgende volgorde:
+a. de vorderingen van werknemers en gewezen werknemers alsmede de vorderingen van hun nabestaanden met betrekking tot reeds vervallen termijnen van pensioenen, voorzover de vordering niet ouder is dan een jaar;
+b. de vorderingen van werknemers, niet zijnde bestuurders van de natura-uitvaartverzekeraar waarbij zij in dienst zijn, en gewezen werknemers alsmede de vorderingen van hun nabestaanden met betrekking tot in de toekomst tot uitkering komende termijnen van toegezegd pensioen;
+c. de vorderingen van werknemers met betrekking tot het loon over het voorafgaande jaar en hetgeen over het lopende jaar verschuldigd is, benevens het bedrag van de verhoging van dat loon ingevolge artikel 625 van Boek 7 van het Burgerlijk Wetboek alsmede het bedrag van de uitgaven, door de werknemer voor de natura-uitvaartverzekeraar als werkgever gedaan, en de bedragen, door de natura-uitvaartverzekeraar aan de werknemer krachtens artikel 10 van Boek 7 van het Burgerlijk Wetboek in verband met de beëindiging van de arbeidsovereenkomst verschuldigd;
+d. de vorderingen en rechten betreffende prestaties, die zijn ontstaan of nog zullen ontstaan uit een natura-uitvaartverzekering, gesloten vanuit een vestiging in Nederland.
+3. Artikel 213m, vierde tot en met zesde lid, is van overeenkomstige toepassing.

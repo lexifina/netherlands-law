@@ -25,11 +25,12 @@
 #### § 1. Definities
 #### § 2. Verzekeraars met zetel in Nederland, verzekeraars zonder vergunning met zetel in een andere lidstaat dan Nederland en verzekeraars met zetel buiten de Europese Unie met bijkantoor in Nederland
 #### § 3. Bepalingen van internationaal privaatrecht
+#### § 4. Natura-uitvaartzekeraars
 ## Titel II. Van surseance van betaling
 ### afdeling Eerste. Van de verlening van surseance van betaling en haar gevolgen
 ### afdeling Tweede. Van het akkoord
 ### Tweede afdeling A. Bijzondere bepalingen
-### Tweede afdeling B. Van de verlening van surseance van betaling aan een kredietinstelling, die ingevolge artikel 6, tweede of derde lid, is vrijgesteld onderscheidenlijk ontheven van artikel 6, eerste lid, van de Wet toezicht kredietwezen 1992, een kredietinstelling, die ingevolge artikel 31, vierde of vijfde lid, is vrijgesteld onderscheidenlijk ontheven van artikel 31, eerste lid, van de Wet toezicht kredietwezen 1992, een kredietinstelling, die ingevolge artikel 38, derde of vierde lid, is vrijgesteld onderscheidenlijk ontheven van artikel 38, eerste lid, van de Wet toezicht kredietwezen 1992, een financiële instelling, een effecteninstelling of een andere instelling, genoemd in artikel 281g
+### Tweede afdeling B. Van de verlening van surseance van betaling aan een beleggingsonderneming en een financiële instelling die een verklaring van ondertoezichtstelling heeft of een andere instelling
 ### afdeling Derde. Slotbepalingen
 ## Titel III. Schuldsaneringsregeling natuurlijke personen
 ### afdeling Eerste. Het uitspreken van de toepassing van de schuldsaneringsregeling
