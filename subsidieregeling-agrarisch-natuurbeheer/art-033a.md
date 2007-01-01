@@ -1,3 +1,0 @@
-# Artikel 33a
-1. De beheerssubsidie voor de in de bijlagen 6 tot en met 28b genoemde beheerspakketten wordt, gedeeltelijk, voor de duur van één jaar, ingetrokken indien op het bedrijf van de subsidieontvanger op grond van het Besluit verboden stoffen diergeneesmiddelen verboden hormonen of residuen daarvan, worden aangetroffen.
-2. De beheerssubsidie voor de in de bijlagen 6 tot en met 28b genoemde beheerspakketten wordt, gedeeltelijk, voor de duur van twee jaren, ingetrokken indien op het bedrijf van de subsidieontvanger nogmaals op grond van het Besluit verboden stoffen diergeneesmiddelen verboden hormonen of residuen daarvan, worden aangetroffen.

@@ -1,3 +1,0 @@
-# Artikel 85a
-1. Een aanvraag als bedoeld in artikel 85, eerste lid, die wordt ingediend door een aanvrager als bedoeld in artikel 4 of 5, tezamen met een verzoek van een beheerder tot intrekking van een aan hem verleende subsidie voor het terrein waarop die aanvraag betrekking heeft, wordt niet gehonoreerd indien die aanvraag ertoe zou leiden dat minder dan vijf jaren subsidie voor het desbetreffende terrein kan worden verleend.
-2. Ingeval van intrekking uit hoofde van het eerste lid wordt de subsidie naar evenredigheid verleend en vastgesteld voor het verstreken gedeelte van het tijdvak of aaneengesloten tijdvakken, bedoeld in artikel 26, waarvoor subsidie is verleend.
