@@ -1,0 +1,2 @@
+# Artikel 46a. Niet meewerken aan medisch onderzoek vóór recht op uitkering
+Indien voor het vaststellen van het recht op uitkering op grond van deze wet, in het kader van een aanvraag voor de toekenning van een uitkering op grond van deze wet, naar het oordeel van het UWV een medisch onderzoek nodig is en de betrokkene niet meewerkt aan dat onderzoek, blijven eventuele uit deze wet voortvloeiende aanspraken op een uitkering op grond van deze wet buiten aanmerking, voor zolang het recht op uitkering niet kan worden vastgesteld.
