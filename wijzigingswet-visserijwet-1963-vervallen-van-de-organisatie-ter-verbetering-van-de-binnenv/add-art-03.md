@@ -1,0 +1,4 @@
+# Artikel III
+1. Onze Minister bepaalt in overeenstemming met Onze Minister van Financiën welke vermogensbestanddelen die aan de Organisatie ter verbetering van de binnenvisserij als bedoeld in artikel 38 van de Visserijwet 1963 worden toegerekend, worden toebedeeld aan de door Onze Minister aan te wijzen rechtspersoon.
+2. De in het eerste lid bedoelde vermogensbestanddelen gaan met ingang van de datum van inwerkingtreding van deze wet onder algemene titel over op de door Onze Minister aan te wijzen rechtspersoon tegen een door Onze Minister in overeenstemming met Onze Minister van Financiën te bepalen waarde.
+3. Terzake van de verkrijging van de vermogensbestanddelen van de Organisatie ter verbetering van de binnenvisserij, bedoeld in het eerste lid, blijft heffing van overdrachtsbelasting achterwege.
