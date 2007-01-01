@@ -1,3 +1,0 @@
-# Artikel 12b
-1. Voor het boekjaar 2006 wordt het minimumbedrag van de solvabiliteitsmarge voor schadeverzekeraars die zorgverzekeringen als bedoeld in artikel 1, onderdeel d, van de Zorgverzekeringswet of de daarop aanvullende ziektekostenverzekeringen uitvoeren, bepaald op de wijze, bedoeld in artikel 1, met dien verstande dat bij de berekening, bedoeld in het eerste lid, onderdeel b, van dat artikel niet wordt uitgegaan van de afgelopen drie boekjaren, maar van het boekjaar 2006.
-2. Voor de bepaling van het minimumbedrag van de solvabiliteitsmarge, bedoeld in het eerste lid, blijft artikel 1, zesde lid, buiten toepassing.
