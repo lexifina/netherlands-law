@@ -1,0 +1,4 @@
+# Artikel 8d
+1. Voordat de vorm van financiële zekerheid wordt gewijzigd, de persoon of hoedanigheid van de garant wijziging ondergaat, dan wel ingevolge artikel 8, eerste lid, de verplichting tot het stellen van financiële zekerheid op een ander komt te rusten wordt een verkennend onderzoek tankstations uitgevoerd.
+2. Het verkennend onderzoek, bedoeld in het eerste lid, behoeft niet plaats te vinden indien de gewijzigde of vervangende financiële zekerheid voorziet in het aanmerken van de uitkomsten van het in artikel 5 genoemde verkennend onderzoek als uitgangssituatie voor later optredende verontreiniging.
+3. Indien een verkennend onderzoek als bedoeld in het eerste lid wordt uitgevoerd meldt degene die de inrichting drijft het bevoegd gezag zo spoedig mogelijk de resultaten daarvan. Artikel 8, vierde lid, is van overeenkomstige toepassing.
