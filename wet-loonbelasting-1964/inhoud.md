@@ -7,6 +7,7 @@
 ## Hoofdstuk III. Tarief
 ## Hoofdstuk IV. Wijze van heffing
 ## Hoofdstuk V. Eindheffing
+## Hoofdstuk VA. Belastingheffing bij verrekening van sociale uitkeringen
 ## Hoofdstuk VI. Aanvullende regelingen
 ## Hoofdstuk VIA
 ## Hoofdstuk VII. Belastingheffing van artiesten en beroepssporters

@@ -1,15 +1,14 @@
 # Artikel 15b
 1. Tot de vrije vergoedingen behoren niet vergoedingen ter zake van:
-a. vervoer, waar onder woon-werkverkeer, indien dat vervoer niet plaatsvindt per taxi, luchtvaartuig, schip of ter beschikking gesteld vervoermiddel, voorzover de vergoeding meer bedraagt dan € 0,19 per kilometer;
-b. kinderopvang voorzover niet is voldaan aan artikel 16c;
-c. maaltijden waarbij het zakelijke karakter:
-1°. van bijkomstig belang is, of
-2°. van meer dan bijkomstig belang is voorzover zij wat betreft aantal en regelmaat uitgaan boven bij ministeriële regeling te stellen normen;
+a. vervoer, waar onder woon-werkverkeer, indien dat vervoer niet plaatsvindt per taxi, luchtvaartuig, schip of ter beschikking gesteld vervoermiddel, voorzover de vergoeding meer bedraagt dan € 0,19 per kilometer, met dien verstande dat bij ministeriële regeling afwijkende regels kunnen worden gesteld met betrekking tot vaste vergoedingen ter zake van vervoer ingeval de werknemer hoofdzakelijk naar een vaste plaats van werkzaamheden reist;
+b. [vervallen;]
+c. onregelmatige diensten of continudiensten voorzover de vergoeding betrekking heeft op voeding, verlichting of verwarming in de woning, een duurzaam aan een plaats gebonden schip of woonwagen in de zin van artikel 1 van de Woningwet, de aanhorigheden daaronder begrepen, van de werknemer;
 d. bedrijfsfitness voorzover niet is voldaan aan bij ministeriële regeling te stellen regels;
 e. werkruimte, de inrichting daaronder begrepen, in de woning, een duurzaam aan een plaats gebonden schip of woonwagen in de zin van artikel 1 van de Woningwet, de aanhorigheden daaronder begrepen, van de werknemer voorzover niet is voldaan aan bij ministeriële regeling te stellen regels die mede betrekking hebben op de mate waarin de vergoeding niet tot de vrije vergoedingen wordt gerekend;
-f. telefoonabonnementen behoudens voorzover het betreft het tweede en volgende telefoonabonnement van de werknemer waarvan het zakelijke karakter van meer dan bijkomstig belang is;
+f. telefoon, internet en dergelijke communicatiemiddelen – niet zijnde computers en dergelijke apparatuur en bijbehorende apparatuur –, tenzij het zakelijke gebruik van meer dan bijkomstig belang is;
 g. persoonlijke verzorging, behoudens voorzover de werknemer optreedt als artiest of presentator of als beroep een tak van sport beoefent;
-h. personeelsverenigingen en dergelijke;
+h. personeelsverenigingen en dergelijke, behoudens voorzover is voldaan aan bij ministeriële regeling te stellen regels;
+ha. personeelsreizen, personeelsfestiviteiten en dergelijke incidentele personeelsvoorzieningen, behoudens voorzover is voldaan aan bij ministeriële regeling te stellen regels;
 i. huisvesting buiten de woonplaats ter zake van de dienstbetrekking voorzover de vergoeding betrekking heeft op een periode van meer dan twee jaar;
 j. [vervallen;]
 k. verschuldigde loonbelasting en bij wijze van inhouding verschuldigde premie voor de volksverzekeringen;

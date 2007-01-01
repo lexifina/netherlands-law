@@ -1,6 +1,6 @@
 # Artikel 17c
 1. De belasting wordt berekend over de vergoeding.
 2. Met betrekking tot intracommunautaire verwervingen waarbij de ondernemer die de goederen levert verplicht is ter zake van die levering een factuur uit te reiken is artikel 8, tweede, vijfde en zesde lid, van overeenkomstige toepassing.
-3. Met betrekking tot andere intracommunautaire verwervingen dan bedoeld in het tweede lid, is artikel 8, derde en zesde lid, van overeenkomstige toepassing.
+3. Met betrekking tot hetgeen op de voet van artikel 17a, derde en vierde lid, wordt gelijkgesteld met een intracommunautaire verwerving van goederen onder bezwarende titel als bedoeld in artikel 1, onderdeel b, is artikel 8, derde en zesde lid, van overeenkomstige toepassing.
 4. In afwijking van het eerste lid wordt met betrekking tot de intracommunautaire verwervingen van accijnsgoederen, andere dan tabaksprodukten, waarbij de voor die goederen in Nederland verschuldigde of voldane accijns niet in de vergoeding is begrepen, de belasting berekend over de vergoeding vermeerderd met die voor de goederen verschuldigde of voldane accijns.
 5. Het vierde lid is van overeenkomstige toepassing met betrekking tot de intracommunautaire verwervingen van alcoholvrije dranken als bedoeld in artikel 6 van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten, waarbij de voor die goederen in Nederland op de voet van die wet verschuldigde of voldane belasting niet in de vergoeding is begrepen.
