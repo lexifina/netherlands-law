@@ -1,2 +1,0 @@
-# Artikel II
-Het ziekenfonds, bedoeld in artikel 1q, vierde lid, van de Ziekenfondswet, zoals die bepaling luidde onmiddellijk vóór het inwerkingtreden van deze wet, verrekent het saldo van de afzonderlijke kas met de Algemene Kas, genoemd in artikel 1q, eerste lid, van de Ziekenfondswet. Het College voor zorgverzekeringen draagt zorg voor de gevolgen van de opheffing van de afzonderlijke kas en de afwikkeling van de lopende zaken.
