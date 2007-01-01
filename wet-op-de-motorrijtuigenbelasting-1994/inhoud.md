@@ -22,7 +22,6 @@
 ### Afdeling 3. Teruggaaf en verrekening
 ### Afdeling 4. Tarief
 ### Afdeling 5. Naheffing
-## Hoofdstuk IV. Personenauto's, bestelauto's en autobussen, verbonden met een aanhangwagen
 ## Hoofdstuk V. Motorrijtuigen in een bedrijfsvoorraad of bij een herstelbedrijf
 ### Afdeling 1. Belastingplichtige
 ### Afdeling 2. Wijze van heffing
