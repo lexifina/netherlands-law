@@ -1,5 +1,5 @@
 # Artikel 16aa
-1. In afwijking van artikel 15, vierde lid, artikel 15a, achtste en tiende lid, artikel 15b, zesde lid, en artikel 16, zesde lid, is het teruggegeven bedrag niet als belasting verschuldigd indien:
+1. In afwijking van artikel 15, vierde lid, artikel 15a, achtste en tiende lid, en artikel 16, zesde lid, is het teruggegeven bedrag niet als belasting verschuldigd indien:
 a. de tenaamstelling van het kenteken in het in artikel 1, tweede lid, bedoelde register wordt beëindigd omdat het motorrijtuig buiten Nederland wordt gebracht;
 b. de tenaamstelling van het kenteken in het in artikel 1, tweede lid, bedoelde register wordt beëindigd omdat het motorrijtuig wordt gesloopt; of
 c. het motorrijtuig is gestolen en een melding van diefstal van het motorrijtuig is geplaatst in het in artikel 1, tweede lid, bedoelde register.
