@@ -1,6 +1,0 @@
-# Artikel V
-De bijlage, bedoeld in de artikelen 32, eerste lid, 33 en 40, eerste lid, van de Beschikking beheersovereenkomsten 1983, wordt voor het begrotingsjaar 2006 als volgt vastgesteld:
-Bijlage, behorende bij de artikelen 32, eerste lid, 33 en 40, eerste lid, van de Beschikking beheersovereenkomsten 1983, als bedoeld in artikel 32, eerste lid en de artikelen 33 en 40, eerste lid, van die Beschikking
-a. Het bedrag als bedoeld in artikel 32, eerste lid, van de Beschikking beheersovereenkomsten 1983, dat met betrekking tot het verschil van de productieniveaus van 1 hectare grasland, uitgedrukt in kilo voedereenheden melk, bij de bepaling van de beheersvergoeding in aanmerking wordt genomen, bedraagt voor het jaar 2006: € 18,45 per 100 kilo voedereenheid melk.
-b. Het bedrag als bedoeld in artikel 33 van de Beschikking beheersovereenkomsten 1983, dat met betrekking tot de toename van de arbeidsaanspraken per hectare bij de bepaling van de beheersvergoeding in aanmerking wordt genomen, bedraagt voor het jaar 2006: € 19,60 per arbeidsuur.
-c. Het bedrag als bedoeld in artikel 40, eerste lid, van de Beschikking beheersovereenkomsten 1983, dat voor de op termijn aanpasbare genormeerde vaste kosten per 100 kilo voedereenheid melk bij de bepaling van de aanpassingsvergoeding in aanmerking wordt genomen, bedraagt voor het jaar 2006: € 24,37.
