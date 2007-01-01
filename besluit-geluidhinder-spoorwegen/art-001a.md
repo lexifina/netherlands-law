@@ -1,5 +1,0 @@
-# Artikel 1a
-1. Tot wijziging van een spoorweg met betrekking waartoe een melding moet worden gedaan als bedoeld in artikel 25, eerste lid, wordt niet overgegaan dan nadat onze Minister met betrekking tot de in dat artikel bedoelde woningen, andere geluidsgevoelige gebouwen of geluidsgevoelige terreinen binnen de zone van die spoorweg uitvoering heeft gegeven aan artikel 27, tweede en negende lid.
-2. Onze Minister stelt in een geval als bedoeld in het eerste lid tevens voor andere dan de in dat lid bedoelde woningen, andere geluidsgevoelige gebouwen of geluidsgevoelige terreinen binnen de zone van die spoorweg vast welke maatregelen nodig zijn om te voorkomen dat de geluidsbelasting die de spoorweg binnen de zone zal veroorzaken de waarden die ingevolge de artikelen 7 tot en met 11 als ten hoogste toelaatbaar worden aangemerkt te boven zou gaan.
-3. In afwijking van de artikelen 8 tot en met 11 geeft Onze Minister voor de in het tweede lid bedoelde woningen, andere geluidsgevoelige gebouwen en geluidsgevoelige terreinen toepassing aan die artikelen.
-4. In geval van het eerste tot en met derde lid zijn de artikelen 19 tot en met 21 niet van toepassing.
