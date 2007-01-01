@@ -2,13 +2,13 @@
 1. Op verzoek wordt teruggaaf van de belasting verleend met betrekking tot halfzware olie, gasolie en vloeibaar gemaakt petroleumgas, voor zover de hoeveelheid die door een verbruiker is betrokken hoger is dan 159 000 L halfzware olie, 153 000 L gasolie onderscheidenlijk 119 000 kilogram vloeibaar gemaakt petroleumgas per kalenderjaar.
 De teruggaaf bedraagt:
 a. indien voornoemde producten zijn belast naar het tarief, bedoeld in artikel 36i, eerste lid, onderdelen a, b en c:
-– voor halfzware olie, per 1000 L € 145,94;
-– voor gasolie, per 1000 L € 147,17; en
-– voor vloeibaar gemaakt petroleumgas, per 1000 kilogram € 174,09;
+– voor halfzware olie, per 1000 L € 148,28;
+– voor gasolie, per 1000 L € 149,52; en
+– voor vloeibaar gemaakt petroleumgas, per 1000 kilogram € 176,88;
 b. indien voornoemde producten zijn belast naar het tarief, bedoeld in artikel 36i, derde lid:
-– voor halfzware olie, per 1000 L € 2,0870;
-– voor gasolie, per 1000 L € 2,1046; en
-– voor vloeibaar gemaakt petroleumgas, per 1000 kilogram € 2,4895.
+– voor halfzware olie, per 1000 L € 2,1204;
+– voor gasolie, per 1000 L € 2,1383; en
+– voor vloeibaar gemaakt petroleumgas, per 1000 kilogram € 2,5293.
 2. De teruggaaf, bedoeld in het eerste lid, wordt verleend aan degene die de brandstoffen voor eigen verbruik heeft betrokken.
 3. Op verzoek wordt teruggaaf van de belasting verleend voor aardgas dat is belast naar het tarief als bedoeld in artikel 36i, eerste lid, onderdeel d, voor het verbruik niet hoger dan 5000 m3, voorzover het verbruik van warmte in een onroerende zaak die door een installatie voor blokverwarming wordt verwarmd, hoger is dan 158 000 MJ per verbruiksperiode van 12 maanden.
 4. De teruggaaf, bedoeld in het derde lid, wordt verleend aan de gebruiker van de in het derde lid bedoelde onroerende zaak. De teruggaaf bedraagt het verschil tussen het tarief, bedoeld in artikel 36i, eerste lid, onderdeel d, voor het verbruik niet hoger dan 5000 m3 en het tarief voor het verbruik gelegen tussen 5000 m3 en 170 000 m3.
