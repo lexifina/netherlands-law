@@ -6,6 +6,5 @@ a. werkzaamheden, waartoe de verzekerde, bedoeld in het eerste lid, met zijn kra
 b. werkzaamheden, waarbij de werkgever, bij wie de proefplaatsing geschiedt, een aansprakelijkheids- en ongevallenverzekering ten behoeve van de verzekerde, bedoeld in het eerste lid, heeft afgesloten;
 c. werkzaamheden, die de verzekerde, bedoeld in het eerste lid, niet reeds eerder onbeloond op een proefplaats bij die werkgever of diens rechtsvoorganger heeft verricht; en
 d. werkzaamheden, waarbij er, naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen, een reëel uitzicht is op een op de onbeloonde werkzaamheden aansluitende dienstbetrekking van dezelfde of grotere omvang voor ten minste 6 maanden.
-4. De verzekerde, bedoeld in het eerste lid, die werkzaamheden verricht als bedoeld in het eerste lid, doet daarvan onverwijld mededeling aan het Uitvoeringsinstituut werknemersverzekeringen.
-5. Indien de werkzaamheden, bedoeld in het eerste lid, wegens ziekte worden onderbroken, wordt de periode waarin een uitkering bij ziekte wordt ontvangen, voor de toepassing van dat lid buiten beschouwing gelaten.
-6. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de uitvoering van dit artikel.
+4. Indien de werkzaamheden, bedoeld in het eerste lid, wegens ziekte worden onderbroken, wordt de periode waarin een uitkering bij ziekte wordt ontvangen, voor de toepassing van dat lid buiten beschouwing gelaten.
+5. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de uitvoering van dit artikel.
