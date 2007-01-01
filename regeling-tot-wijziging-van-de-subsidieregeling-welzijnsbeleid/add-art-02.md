@@ -1,2 +1,0 @@
-# Artikel II
-Voor de jaren 1999 en 2000 wordt, onverminderd titel 4.2 van de Algemene wet bestuursrecht, het voor het desbetreffende jaar beschikbare bedrag voor de verlening van subsidies als bedoeld in artikel 19 van de Subsidieregeling welzijnsbeleid, verdeeld over de instellingen dan wel hun rechtsopvolgers waaraan in het jaar 1998 subsidie is verleend inzake vorming, training en advies naar rato van de verdeling van de subsidies in 1998.
