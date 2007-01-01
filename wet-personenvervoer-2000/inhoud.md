@@ -15,9 +15,8 @@
 ### § 2. De verklaring van geen bezwaar
 ### § 3. De procedure tot afgifte van de verklaring van geen bezwaar
 ### § 4. De aanbestedingsplicht
-### § 5. De gemeentelijke vervoerbedrijven
+### § 5. Bijzondere bepalingen inzake door Onze Minister te verlenen concessies
 ### § 6. Bepalingen inzake marktactiviteiten van gemeentelijke vervoerbedrijven en houders van langdurige concessies
-### § 7. Bijzondere bepalingen inzake door Onze Minister te verlenen concessies
 ## Hoofdstuk IV. Bepalingen voor de reiziger
 ## Hoofdstuk VI. Internationaal vervoer en taxivervoer
 ### § 1. Internationaal vervoer
