@@ -11,7 +11,7 @@
 ### § 1. Basishuur en normhuur
 ### § 2. Kwaliteitskortings- en aftoppingsgrens
 ### § 3. Berekening van de huurtoeslag
-## Hoofdstuk 4. Wijzigingen van omstandigheden, hardheidsbepaling
+## Hoofdstuk 4. Wijzigingen van omstandigheden
 ## Hoofdstuk 5. Aanpassing van bedragen
 ## Hoofdstuk 6. Hulp- en informatiepunten
 ## Hoofdstuk 8. Beperking huurtoeslagtoekenning boven de aftoppingsgrens
