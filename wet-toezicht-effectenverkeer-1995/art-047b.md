@@ -1,4 +1,0 @@
-# Artikel 47b
-1. Onze Minister verwerkt de in een melding op grond van artikel 47a, eerste lid, opgenomen gegevens, met uitzondering van de adresgegevens van de meldingsplichtige, onverwijld in het in artikel 47, negende lid, bedoelde register. Onze Minister houdt de gegevens, met uitzondering van de adresgegevens van de meldingsplichtige, voor een ieder gedurende tenminste vijf jaren kosteloos ter inzage in het register.
-2. Indien een melding naar het oordeel van Onze Minister onjuist is en de melding na verzoek daartoe van Onze Minister niet is hersteld, neemt hij in plaats van de gemelde gegevens de juiste gegevens in het register op.
-3. Onze Minister kan met het oog op een onderzoek naar de juistheid van een melding, opneming van de melding in het register voor de duur van het onderzoek opschorten. Hij stelt degene die de melding heeft gedaan van de opschorting in kennis.
