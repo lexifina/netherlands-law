@@ -4,4 +4,4 @@
 3. Voorzover de mogelijkheden onvoldoende zijn om de bijstand binnen het bedrijf of de inrichting te organiseren, wordt de bijstand verleend door een andere arbodienst ten behoeve waarvan, overeenkomstig artikel 20, een certificaat is afgegeven.
 4. De deskundige werknemers en andere deskundige personen, bedoeld in artikel 13, en de werknemers van een arbodienst, werken bij het verlenen van bijstand aan een werkgever samen.
 5. Artikel 13, vijfde en zesde lid, is van overeenkomstige toepassing.
-6. Artikel 14, derde tot en met zesde lid en twaalfde lid, is van toepassing.
+6. Artikel 14, derde tot en met zesde lid, twaalfde tot en met veertiende lid, is van toepassing.

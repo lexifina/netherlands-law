@@ -9,15 +9,16 @@
 ### Voorkoming en beperking van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken
 ### Informatie aan het publiek
 ### Voorlichting en onderricht
-### Melding arbeidsongevallen en beroepsziekten
+### Melding en registratie van arbeidsongevallen en beroepsziekten
 ### Voorkomen van gevaar voor derden
 ### Algemene verplichtingen van de werknemers
 ## Hoofdstuk 3. Samenwerking, overleg, bijzondere rechten van de ondernemingsraad, de personeelsvertegenwoordiging en de belanghebbende werknemers en de regeling van de deskundige bijstand
-### Samenwerking en bijzondere rechten van de ondernemingsraad, de personeelsvertegenwoordiging en de belanghebbende werknemers
+### Samenwerking, overleg en bijzondere rechten van de ondernemingsraad, de personeelsvertegenwoordiging en de belanghebbende werknemers
 ### Bijstand deskundige werknemers op het gebied van preventie en bescherming
 ### Maatwerkregeling aanvullende deskundige bijstand bij specifieke taken op het gebied van preventie en bescherming
 ### Vangnetregeling aanvullende deskundige bijstand op het gebied van preventie en bescherming
 ### Deskundige bijstand op het gebied van bedrijfshulpverlening
+### Informatierechten deskundige werknemers en personen, bedrijfshulpverleners en arbodiensten
 ## Hoofdstuk 4. Bijzondere verplichtingen
 ### Nadere regels met betrekking tot arbeidsomstandigheden alsmede uitzonderingen op en uitbreidingen van toepassingsgebied
 ### Maatwerk door werkgevers en werknemers
@@ -33,6 +34,7 @@
 ### Geheimhouding
 ### Eis tot naleving
 ### Stillegging van het werk
+### Bestuursdwang
 ### Werkonderbreking
 ## Hoofdstuk 6. Vrijstellingen, ontheffingen en beroep
 ### Vrijstelling en ontheffing
@@ -53,21 +55,5 @@
 ### Terugbetaling
 ## Hoofdstuk 8. Overgangs- en slotbepalingen
 ### Kosten
-### Gemeente
-### Wet op de economische delicten
 ### Evaluatie
-### Intrekking
-### Overgang
-### Overgangsrecht wijziging van de Arbeidsomstandighedenwet 1998 in verband met een gewijzigde organisatie van de deskundige bijstand bij het arbeidsomstandighedenbeleid en de daarmee samenhangende bepalingen
-### Overgang verzoeken en beroepen
-### Arbeidstijdenwet
-### Invoeringswet Arbeidsvoorzieningswet
-### Wet medezeggenschap onderwijs 1992
-### Wet op de (re)integratie arbeidsgehandicapten
-### Wet op de ondernemingsraden
-### Wet privatisering RBB
-### Organisatiewet sociale verzekeringen
-### Ziektewet
-### Burgerlijk Wetboek
-### Inwerkingtreding
 ### Citeertitel

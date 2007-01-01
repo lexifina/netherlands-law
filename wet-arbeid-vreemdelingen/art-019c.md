@@ -1,2 +1,2 @@
 # Artikel 19c
-Een beboetbaar feit wordt aangemerkt als een strafbaar feit indien binnen een periode van 48 maanden tweemaal voor een zelfde feit, elk afzonderlijk in een periode van maximaal 24 maanden voorafgaand aan dat feit, een boete is opgelegd en onherroepelijk is geworden.
+Een beboetbaar feit wordt aangemerkt als een strafbaar feit, indien tweemaal binnen een aan de dag van het constateren van dat beboetbare feit voorafgaande periode van 48 maanden, met respectievelijke tussenliggende perioden van ten hoogste 24 maanden, voor een beboetbaar feit bestaande uit het niet naleven van eenzelfde wettelijke verplichting een boete is opgelegd die onherroepelijk is geworden.
