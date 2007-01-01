@@ -1,0 +1,277 @@
+# Inhoud
+## 1. Algemeen deel
+### Hoofdstuk 1.1. Inleidende bepalingen
+#### Afdeling 1.1.1. Definities
+#### Afdeling 1.1.2. Reikwijdte met betrekking tot financiële ondernemingen
+##### § 1.1.2.1. Algemeen
+##### § 1.1.2.2. Clearinginstellingen en kredietinstellingen
+##### § 1.1.2.3. Levensverzekeraars, natura-uitvaartverzekeraars en schadeverzekeraars
+##### § 1.1.2.4. Beleggingsinstellingen
+#### Afdeling 1.1.3. Reikwijdte met betrekking tot financiële diensten
+##### § 1.1.3.1. Algemeen
+##### § 1.1.3.2. Diensten van de informatiemaatschappij
+##### § 1.1.3.3. Adviseren over financiële instrumenten en het verlenen van beleggingsdiensten.
+##### § 1.1.3.4. Financiële diensten met betrekking tot krediet
+##### § 1.1.3.5. Financiële diensten met betrekking tot verzekeringen
+#### Afdeling 1.1.4. Aantastbaarheid van rechtshandelingen
+### Hoofdstuk 1.2. Toezichthouders
+#### Afdeling 1.2.1. Algemene bepalingen
+##### § 1.2.1.1. Taakstelling
+##### § 1.2.1.2. Institutionele bepalingen
+##### § 1.2.1.3. Regelgevende bevoegdheid
+#### Afdeling 1.2.2. Rekening en verantwoording
+### Hoofdstuk 1.3. Samenwerking toezichthouders
+#### Afdeling 1.3.1. Samenwerking toezichthouders nationaal
+#### Afdeling 1.3.2. Samenwerking met andere lidstaten algemeen
+##### § 1.3.2.1. Samenwerking en uitwisseling van gegevens en inlichtingen
+##### § 1.3.2.2. Samenwerking in het kader van toezicht op de naleving
+##### § 1.3.2.3. Samenwerking in het kader van handhaving
+##### § 1.3.2.4. Raadplegen in het kader van overige procedures en kennis geven van bepaalde besluiten
+#### Afdeling 1.3.3. Samenwerking met toezichthoudende instanties van staten die geen lidstaat zijn
+#### Afdeling 1.3.4. Informatieverstrekking door toezichthouder aan de Commissie van de Europese Gemeenschappen
+### Hoofdstuk 1.4. Toezicht en handhaving
+#### Afdeling 1.4.1. Toezicht op de naleving
+#### Afdeling 1.4.2. Handhaving
+### Hoofdstuk 1.5. Geheimhoudingsplicht, uitzonderingen dienaangaande en publicatiemogelijkheden
+#### Afdeling 1.5.1. Geheimhoudingsplicht en uitzonderingen dienaangaande
+#### Afdeling 1.5.2. Publicatiemogelijkheden van de toezichthouders
+### Hoofdstuk 1.6. Procedures
+#### Afdeling 1.6.1. Vergunningen
+#### Afdeling 1.6.2. Registratie
+#### Afdeling 1.6.3. Beroep
+## 2. Deel Markttoegang Financiële Ondernemingen
+### Hoofdstuk 2.1. Inleidende bepalingen
+### Hoofdstuk 2.2. Toegang tot de Nederlandse financiële markten
+#### Afdeling 2.2.1. Uitoefenen van bedrijf van clearinginstelling
+##### § 2.2.1.1. Vergunningplicht en -eisen voor clearinginstellingen met zetel in Nederland
+##### § 2.2.1.2. Bijkantoor en verrichten van diensten door clearinginstellingen met zetel buiten Nederland
+#### Afdeling 2.2.2. Uitoefenen van bedrijf van kredietinstelling en financiële instelling
+##### § 2.2.2.1. Vergunningplicht en -eisen voor kredietinstellingen met zetel in Nederland
+##### § 2.2.2.2. Bijkantoor en verrichten van diensten door kredietinstellingen met zetel in een andere lidstaat
+##### § 2.2.2.3. Vergunningplicht en -eisen voor kredietinstellingen met zetel in een staat die geen lidstaat is
+##### § 2.2.2.4. Bijkantoor en verrichten van diensten door financiële instellingen met zetel in een andere lidstaat
+#### Afdeling 2.2.3. Uitoefenen van bedrijf van levensverzekeraar en schadeverzekeraar
+##### § 2.2.3.1. Vergunningplicht en -eisen voor levensverzekeraars en schadeverzekeraars met zetel in Nederland
+##### § 2.2.3.2. Bijkantoor en verrichten van diensten door levensverzekeraars en schadeverzekeraars met zetel in een andere lidstaat
+##### § 2.2.3.3. Bijkantoor en verrichten van diensten door levensverzekeraars of schadeverzekeraars met zetel in een staat die geen lidstaat is
+#### Afdeling 2.2.4. Uitoefenen van bedrijf van natura-uitvaartverzekeraar
+##### § 2.2.4.1. Vergunningplicht en -eisen voor natura-uitvaartverzekeraars met zetel in Nederland
+##### § 2.2.4.2. Vergunningplicht en -eisen voor natura-uitvaartverzekeraars met zetel buiten Nederland
+#### Afdeling 2.2.5. Aanbieden van beleggingsobjecten
+##### § 2.2.5.1. Vergunningplicht en -eisen
+##### § 2.2.5.2. Vrijstelling
+#### Afdeling 2.2.6. Aanbieden van krediet
+##### § 2.2.6.1. Vergunningplicht en -eisen
+##### § 2.2.6.2. Vrijstelling
+#### Afdeling 2.2.7. Aanbieden van rechten van deelneming in beleggingsinstellingen
+##### § 2.2.7.1. Vergunningplicht en -eisen
+##### § 2.2.7.2. Bijkantoor en verrichten van diensten
+##### § 2.2.7.3. Vrijstelling
+#### Afdeling 2.2.8. Adviseren
+##### § 2.2.8.1. Vergunningplicht en -eisen
+##### § 2.2.8.2. Vrijstelling
+#### Afdeling 2.2.9. Bemiddelen
+##### § 2.2.9.1. Vergunningplicht en -eisen
+##### § 2.2.9.2. Bijkantoor en verrichten van diensten
+##### § 2.2.9.3. Vrijstelling
+#### Afdeling 2.2.10. Herverzekeringsbemiddelen
+##### § 2.2.10.1. Vergunningplicht en -eisen
+##### § 2.2.10.2. Bijkantoor en verrichten van diensten
+##### § 2.2.10.3. Vrijstelling
+#### Afdeling 2.2.11. Optreden als gevolmachtigde agent of ondergevolmachtigde agent
+##### § 2.2.11.1. Vergunningplicht en -eisen
+##### § 2.2.11.2. Vrijstelling
+#### Afdeling 2.2.12. Verlenen van beleggingsdiensten
+##### § 2.2.12.1. Vergunningplicht en -eisen
+##### § 2.2.12.2. Bijkantoor en verrichten van diensten
+##### § 2.2.12.3. Vrijstelling
+#### Afdeling 2.2.13. Bijzondere bepalingen
+### Hoofdstuk 2.3. Toegang tot de buitenlandse financiële markten
+#### Afdeling 2.3.1. Uitoefenen van bedrijf van clearinginstelling
+##### § 2.3.1.1. Bijkantoor buiten Nederland
+#### Afdeling 2.3.2. Uitoefenen van bedrijf van kredietinstelling en financiële instelling
+##### § 2.3.2.1. Bijkantoor en verrichten van diensten door een kredietinstelling naar een andere lidstaat
+##### § 2.3.2.2. Bijkantoor en verrichten van diensten door een kredietinstelling naar een staat die geen lidstaat is
+##### § 2.3.2.3. Bijkantoor en verrichten van diensten door een financiële instelling naar een andere lidstaat
+#### Afdeling 2.3.3. Uitoefenen van bedrijf van levensverzekeraar en schadeverzekeraar
+##### § 2.3.3.1. Bijkantoor en verrichten van diensten naar een andere lidstaat
+##### § 2.3.3.2. Bijkantoor in een staat die geen lidstaat is
+#### Afdeling 2.3.4. Uitoefenen van bedrijf van natura-uitvaartverzekeraar
+##### § 2.3.4.1. Bijkantoor buiten Nederland
+#### Afdeling 2.3.5. Aanbieden van rechten van deelneming in instellingen voor collectieve belegging in effecten
+##### § 2.3.5.1. Bijkantoor en verrichten van diensten naar een lidstaat
+#### Afdeling 2.3.6. Bemiddelen in verzekeringen
+##### § 2.3.6.1. Bijkantoor en verrichten van diensten naar een andere lidstaat
+#### Afdeling 2.3.7. Herverzekeringsbemiddelen
+##### § 2.3.7.1. Bijkantoor en verrichten van diensten naar een andere lidstaat
+#### Afdeling 2.3.8. Verlenen van beleggingsdiensten
+##### § 2.3.8.1. Bijkantoor en verrichten van diensten naar een andere lidstaat
+##### § 2.3.8.2. Bijkantoor in een staat die geen lidstaat is
+## 3. Deel Prudentieel Toezicht Financiële Ondernemingen
+### Hoofdstuk 3.1. Inleidende bepalingen
+### Hoofdstuk 3.2. Aantrekken van opvorderbare gelden
+### Hoofdstuk 3.3. Regels voor het werkzaam zijn op de financiële markten
+#### Afdeling 3.3.1. Verbod gebruik van het woord «bank»
+#### Afdeling 3.3.2. Deskundigheid, betrouwbaarheid en integriteit
+##### § 3.3.2.1. Financiële ondernemingen met zetel in Nederland
+##### § 3.3.2.2. Financiële ondernemingen met zetel in een staat die geen lidstaat is
+##### § 3.3.2.3. Financiële ondernemingen met zetel in een niet-aangewezen staat
+#### Afdeling 3.3.3. Structurering en inrichting
+##### § 3.3.3.1. Financiële ondernemingen met zetel in Nederland
+##### § 3.3.3.2. Financiële ondernemingen met zetel in een staat die geen lidstaat is
+##### § 3.3.3.3. Financiële ondernemingen met zetel in een niet-aangewezen staat
+#### Afdeling 3.3.4. Overige bepalingen
+##### § 3.3.4.1. Financiële ondernemingen met zetel in Nederland
+##### § 3.3.4.2. Financiële ondernemingen met zetel in een andere lidstaat
+##### § 3.3.4.3. Financiële ondernemingen met zetel in een staat die geen lidstaat is
+##### § 3.3.4.4. Financiële ondernemingen met zetel buiten Nederland
+#### Afdeling 3.3.5. Minimum vermogen
+##### § 3.3.5.1. Financiële ondernemingen met zetel in Nederland
+##### § 3.3.5.2. Financiële ondernemingen met zetel in een staat die geen lidstaat is
+##### § 3.3.5.3. Financiële ondernemingen met zetel in een niet-aangewezen staat
+#### Afdeling 3.3.6. Solvabiliteit
+##### § 3.3.6.1. Financiële ondernemingen met zetel in Nederland
+##### § 3.3.6.2. Financiële ondernemingen met zetel in een staat die geen lidstaat is
+##### § 3.3.6.3. Financiële ondernemingen met zetel in een niet-aangewezen staat
+#### Afdeling 3.3.7. Liquiditeit
+##### § 3.3.7.1. Financiële ondernemingen met zetel in Nederland
+##### § 3.3.7.2. Financiële ondernemingen met zetel in een andere lidstaat
+##### § 3.3.7.3. Financiële ondernemingen met zetel in een staat die geen lidstaat is
+##### § 3.3.7.4. Financiële ondernemingen met zetel in een niet-aangewezen staat
+#### Afdeling 3.3.8. Technische voorzieningen
+##### § 3.3.8.1. Verzekeraars met zetel in Nederland
+##### § 3.3.8.2. Levensverzekeraars en schadeverzekeraars met zetel in een staat die geen lidstaat is
+##### § 3.3.8.3. Natura-uitvaartverzekeraars met zetel in een niet-aangewezen staat
+#### Afdeling 3.3.9. Boekhouding en rapportage
+##### § 3.3.9.1. Financiële ondernemingen met zetel in Nederland
+##### § 3.3.9.2. Financiële ondernemingen met zetel in een andere lidstaat
+##### § 3.3.9.3. Financiële ondernemingen met zetel in een staat die geen lidstaat is
+##### § 3.3.9.4. Financiële ondernemingen met zetel buiten Nederland
+#### Afdeling 3.3.10. Meldingsplichten van de accountant en de actuaris
+##### § 3.3.10.1. Financiële ondernemingen met zetel in Nederland
+##### § 3.3.10.2. Financiële ondernemingen met zetel in een andere lidstaat
+##### § 3.3.10.3. Financiële ondernemingen met zetel in een staat die geen lidstaat is
+##### § 3.3.10.4. Financiële ondernemingen met zetel buiten Nederland
+#### Afdeling 3.3.11. Gekwalificeerde deelnemingen in en door financiële ondernemingen
+##### § 3.3.11.1. Financiële ondernemingen met zetel in Nederland
+##### § 3.3.11.2. Banken met zetel in een staat die geen lidstaat is
+### Hoofdstuk 3.4. Regels voor bepaalde ondernemingen werkzaam op de financiële markten
+#### Afdeling 3.4.1. Ondertoezichtstelling financiële instellingen
+##### § 3.4.1.1. Financiële instellingen met zetel in Nederland
+#### Afdeling 3.4.2. Regime voor banken aangesloten bij een centrale kredietinstelling
+### Hoofdstuk 3.5. Bijzondere regels en maatregelen ten aanzien van financiële ondernemingen werkzaam op de financiële markten
+#### Afdeling 3.5.1. Bijzondere maatregelen ten aanzien van banken en beleggingsondernemingen
+#### Afdeling 3.5.1a. Portefeuilleoverdracht
+##### § 3.5.1a.1. Verzekeraars met zetel in Nederland
+##### § 3.5.1a.2. Levensverzekeraars en schadeverzekeraars met zetel in een andere lidstaat
+##### § 3.5.1a.3. Levensverzekeraars en schadeverzekeraars met zetel in een staat die geen lidstaat is
+##### § 3.5.1a.4. Natura-uitvaartverzekeraars met zetel in een niet-aangewezen staat
+#### Afdeling 3.5.2. Herstelplan
+##### § 3.5.2.1. Verzekeraars met zetel in Nederland
+##### § 3.5.2.2. Levensverzekeraars en schadeverzekeraars met zetel in een staat die geen lidstaat is
+##### § 3.5.2.3. Natura-uitvaartverzekeraars met zetel in een niet-aangewezen staat
+#### Afdeling 3.5.3. Beperking van de beschikkingsbevoegdheid, saneringsplan en financieringsplan
+##### § 3.5.3.1. Verzekeraars met zetel in Nederland
+##### § 3.5.3.2. Levensverzekeraars en schadeverzekeraars met zetel in een andere lidstaat
+##### § 3.5.3.3. Levensverzekeraars en schadeverzekeraars met zetel in een staat die geen lidstaat is
+##### § 3.5.3.4. Natura-uitvaartverzekeraars met zetel in een niet-aangewezen staat
+#### Afdeling 3.5.4. Opvangregeling voor levensverzekeraars
+##### § 3.5.4.1. Levensverzekeraars met zetel in Nederland
+##### § 3.5.4.2. Levensverzekeraars met zetel in een staat die geen lidstaat is
+#### Afdeling 3.5.5. Noodregeling en saneringsmaatregelen en liquidatieprocedures naar buitenlands recht
+##### § 3.5.5.1. Financiële ondernemingen met zetel in Nederland
+##### § 3.5.5.2. Financiële ondernemingen met zetel in een andere lidstaat
+##### § 3.5.5.3. Financiële ondernemingen met zetel in een staat die geen lidstaat is en met een in Nederland gelegen bijkantoor
+##### § 3.5.5.4. Natura-uitvaartverzekeraars met zetel buiten Nederland en met een in Nederland gelegen bijkantoor
+##### § 3.5.5.5. Bepalingen van internationaal privaatrecht
+#### Afdeling 3.5.6. Beleggerscompensatiestelsel en depositogarantiestelsel
+##### § 3.5.6.1. Financiële ondernemingen met zetel in Nederland
+##### § 3.5.6.2. Financiële ondernemingen met zetel in een andere lidstaat
+##### § 3.5.6.3. Financiële ondernemingen met zetel in een staat die geen lidstaat is
+### Hoofdstuk 3.6. Aanvullende bepalingen ten aanzien van financiele groepen
+#### Afdeling 3.6.1. Definities en algemeen
+#### Afdeling 3.6.2. Geconsolideerd toezicht op beleggingsondernemingen en kredietinstellingen
+#### Afdeling 3.6.3. Aanvullend toezicht op levensverzekeraars en schadeverzekeraars in een verzekeringsgroep
+#### Afdeling 3.6.4. Prudentieel toezicht op financiële conglomeraten
+##### § 3.6.4.1. Inleidende bepalingen
+##### § 3.6.4.2. De coördinator, samenwerking en handhaving
+##### § 3.6.4.3. Regels voor het werkzaam zijn als financieel conglomeraat
+## 4. Deel Gedragstoezicht financiële ondernemingen
+### Hoofdstuk 4.1. Inleidende bepalingen
+#### Afdeling 4.1.1. Reikwijdte
+#### Afdeling 4.1.2. Bijzondere bepalingen
+#### Afdeling 4.1.3. Vrijstelling
+### Hoofdstuk 4.2. Regels voor het werkzaam zijn op de financiële markten betreffende alle financiële diensten
+#### Afdeling 4.2.1. Deskundigheid, betrouwbaarheid en integriteit
+#### Afdeling 4.2.2. Structurering en inrichting
+#### Afdeling 4.2.3. Zorgvuldige dienstverlening
+#### Afdeling 4.2.4. Meldingsplichten
+#### Afdeling 4.2.5. Overeenkomsten op afstand
+### Hoofdstuk 4.3. Aanvullende regels voor het werkzaam zijn op de financiële markten betreffende bepaalde financiële diensten
+#### Afdeling 4.3.1. Aanbieden
+##### § 4.3.1.1. Beleggingsobjecten
+##### § 4.3.1.2. Elektronisch geld
+##### § 4.3.1.3. Krediet
+##### § 4.3.1.4. Rechten van deelneming in een beleggingsinstelling
+##### § 4.3.1.5. Verzekeringen
+#### Afdeling 4.3.2. Adviseren
+#### Afdeling 4.3.3. Bemiddelen
+##### § 4.3.3.1. Algemeen
+##### § 4.3.3.2. Krediet
+##### § 4.3.3.3. Verzekeringen
+#### Afdeling 4.3.4. Herverzekeringsbemiddelen
+#### Afdeling 4.3.5. Optreden als clearinginstelling
+#### Afdeling 4.3.6. Optreden als gevolmachtigde agent of ondergevolmachtigde agent
+#### Afdeling 4.3.7. Verlenen van beleggingsdiensten
+#### Afdeling 4.3.8. Onderlinge verhouding financiële ondernemingen
+##### § 4.3.8.1. Verhouding tussen aanbieder, (onder)bemiddelaar en (onder-)gevolmachtigde agent
+##### § 4.3.8.2. Verhouding tussen beleggingsondernemingen
+##### § 4.3.8.3. Verhouding tussen financiële ondernemingen bij financiële diensten met betrekking tot verzekeringen
+## 5. Deel Gedragstoezicht financiële markten
+### Hoofdstuk 5.1. Regels voor het aanbieden van effecten
+#### Afdeling 5.1.1. Inleidende bepaling
+#### Afdeling 5.1.2. Verbod en uitzonderingen
+#### Afdeling 5.1.3. Aanbieden van effecten aan het publiek en het toelaten van effecten op een gereglementeerde markt
+##### § 5.1.3.1. Goedkeuringsbevoegdheid
+##### § 5.1.3.2. Goedkeuring van het prospectus
+##### § 5.1.3.3. Reikwijdte van een in een andere lidstaat goedgekeurd prospectus
+##### § 5.1.3.4. Procedure inzake het opstellen van het prospectus en de in het prospectus op te nemen gegevens
+##### § 5.1.3.5. Reclame-uitingen, algemeenverkrijgbaarstelling van het prospectus en geldigheidsduur van het prospectus
+##### § 5.1.3.6. Informatieverplichtingen na goedkeuring van het prospectus
+##### § 5.1.3.7. Doorlopende informatieverplichting
+##### § 5.1.3.8. Aanvullende bevoegdheden voor de Autoriteit Financiële Markten bij aanbieden van effecten
+### Hoofdstuk 5.2. Regels voor het houden van een markt in financiële instrumenten
+#### Afdeling 5.2.1. Erkenning van een markt in financiële instrumenten
+#### Afdeling 5.2.2. Het houden van een gereglementeerde markt in Nederland
+### Hoofdstuk 5.3. Regels voor het medlen van stemmen, kapitaal, zeggenschap en kapitaalbelang in uitgevende instellingen
+#### Afdeling 5.3.1. Inleidende bepaling
+#### Afdeling 5.3.2. Meldingen door uitgevende instellingen betreffende het kapitaal en de stemmen
+#### Afdeling 5.3.3. Meldingen door aandeelhouders en andere stemgerechtigden betreffende wijzigingen in zeggenschap en kapitaalbelang
+#### Afdeling 5.3.4. Bijzondere bepalingen en uitzonderingen op de meldingsplicht betreffende wijzigingen in zeggenschap en kapitaalbelang
+#### Afdeling 5.3.5. Meldingen door bestuurders en commissarissen betreffende zeggenschap en kapitaalbelang
+#### Afdeling 5.3.6. Registratie van meldingen
+#### Afdeling 5.3.7. Overige regels
+### Hoofdstuk 5.4. Regels ter voorkoming van marktmisbruik en voor het optreden op markten in financiële instrumenten
+#### Afdeling 5.4.1. Inleidende bepaling
+#### Afdeling 5.4.2. Regels ter voorkoming van marktmisbruik
+##### § 5.4.2.1. Verbodsbepalingen
+##### § 5.4.2.2. Openbaarmakings- en meldingsverplichtingen
+##### § 5.4.2.3. Aanvullende toezichtbevoegdheden
+#### Afdeling 5.4.3. Optreden op markten in financiële instrumenten
+### Hoofdstuk 5.6. Regels over het toepassen van een gedragscode door institutionele beleggers
+## 6. Deel Toezicht infrastructuur financiële markten
+## 7. Deel Slotbepalingen
+## Overtreding van voorschriften, gesteld bij of krachtens artikel:
+### Algemeen deel
+### Deel Markttoegang financiële ondernemingen
+### Deel Prudentieel toezicht financiële ondernemingen
+### Deel Gedragstoezicht financiële ondernemingen
+### Deel Gedragstoezicht financiële markten
+### Prospectusverordening
+## Overtreding van voorschriften, gesteld bij of krachtens artikel:
+### Algemeen deel
+### Deel Markttoegang financiële ondernemingen
+### Deel Prudentieel toezicht financiële ondernemingen
+### Deel Gedragstoezicht financiële ondernemingen
+### Deel Gedragstoezicht financiële markten
+### Prospectusverordening
