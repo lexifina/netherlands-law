@@ -1,0 +1,2 @@
+# Artikel II
+Onze minister draagt ervoor zorg dat binnen drie jaar na het tijdstip waarop krachtens een algemene maatregel van bestuur, bedoeld in artikel 10, vierde lid, van de Wet op de orgaandonatie, voor het eerst donorformulieren worden toegezonden aan nieuw ingeschrevenen, aan iedere ingezetene als bedoeld in de Wet gemeentelijke basisadministratie persoonsgegevens die op genoemd tijdstip reeds de leeftijd van achttien jaar heeft bereikt en aan wie nog geen donorformulier is toegezonden, alsnog een donorformulier wordt toegezonden.
