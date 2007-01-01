@@ -53,12 +53,11 @@
 #### § 1. Reikwijdte
 #### § 2. Beroepsopleidingen en eindtermen beroepsopleidingen
 ### Titel 3. De educatie
-### Titel 4. EXAMENS EN TOETSEN.
+### Titel 4. Examens
 #### § 1. Examens beroepsopleidingen en opleidingen educatie, met uitzondering van opleidingen voortgezet algemeen volwassenenonderwijs en opleidingen Nederlands als tweede taal
 #### Paragraaf 1a. Kwaliteitscentrum examinering beroepsopleidingen
 #### Paragraaf 1b. De uitvoering van de externe kwaliteitsbewaking
 #### § 2. Examens opleidingen voortgezet algemeen volwassenenonderwijs en Nederlands als tweede taal I en II
-#### Paragraaf 3. Toetsen educatieve programma's
 ### Titel 5. Commissie van beroep voor de examens
 ### Titel 7. Practicumplaatsen voor studenten in opleiding
 ## Hoofdstuk 8. Inschrijving, vooropleidingseisen, voortijdig schoolverlaten
