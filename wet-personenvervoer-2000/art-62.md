@@ -1,3 +1,0 @@
-# Artikel 62*
-1. Concessies als bedoeld in artikel 20, derde lid, worden slechts verleend nadat daartoe een aanbesteding is gehouden.
-2. In bij of krachtens algemene maatregel van bestuur omschreven gevallen kan het eerste lid buiten toepassing worden gelaten.
