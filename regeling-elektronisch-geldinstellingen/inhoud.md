@@ -1,2 +1,0 @@
-# Inhoud
-## Richtlijnen en aanbevelingen
