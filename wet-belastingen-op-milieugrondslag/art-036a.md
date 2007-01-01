@@ -15,7 +15,12 @@ l. Nm3: een normaalkubiekemeter;
 m. aardgas: producten van de GN-codes 2711 11 00 en 2711 21 00;
 n. overige gassen: hoogovengas, cokesovengas, kolengas, raffinaderijgas en KV-gas als bedoeld in de GN-code 2705;
 o. elektriciteit: elektrische energie van de GN-code 2716;
-p. brandstof: een stof – met inbegrip van alle daaraan toegevoegde stoffen – dienende voor verbranding met het doel de daarbij ontstane energie te benutten, bij welke verbranding verontreinigende stoffen in de buitenlucht kunnen geraken.
+p. brandstof: een stof – met inbegrip van alle daaraan toegevoegde stoffen – dienende voor verbranding met het doel de daarbij ontstane energie te benutten, bij welke verbranding verontreinigende stoffen in de buitenlucht kunnen geraken;
+q. energie-intensief bedrijf: een zakelijke eenheid als bedoeld in artikel 36i, zevende lid, waar de kosten van de aankoop van energieproducten en elektriciteit ten minste 3,0% van de productiewaarde uitmaken, of waar de verschuldigde energiebelasting en accijns op minerale oliën ten minste 0,5% van de toegevoegde waarde bedraagt;
+r. kosten van aankoop van energieproducten en elektriciteit, productiewaarde en toegevoegde waarde: hetgeen ingevolge artikel 17, eerste lid, onderdeel a, van Richtlijn 2003/96/EG van de Raad van 27 oktober 2003 tot herstructurering van de communautaire regeling voor de belasting van energieproducten en elektriciteit (PbEG L 283) onder deze begrippen wordt verstaan;
+s. CNG: aardgas dat na compressie geschikt is voor de aanwending in motorrijtuigen;
+t. CNG-vulstation: een rechtstreeks op het distributienet van aardgas aangesloten inrichting waar uitsluitend aardgas wordt samengeperst tot CNG, dat wordt afgeleverd aan motorrijtuigen.
 2. Bij regeling van Onze Minister worden regels gesteld met betrekking tot de herleiding van feitelijke hoeveelheden van halfzware olie en gasolie tot hoeveelheden bij een temperatuur van 15°C.
 3. Bij regeling van Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer kunnen nadere regels worden gesteld met betrekking tot de inhoud van het begrip zuivere biomassa.
 4. Met betrekking tot elektriciteit wordt onder distributienet verstaan een net als bedoeld in artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998, met uitzondering van een net als bedoeld in artikel 15, eerste lid, van de Elektriciteitswet 1998.
+5. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de toepassing van het eerste lid, onderdeel q.
