@@ -1,0 +1,2 @@
+# Artikel 10a.5. Overgangsrecht in verband met het vervallen van de mogelijkheid dat een natuurlijke persoon als pensioenverzekeraar optreedt
+Met betrekking tot een pensioentoezegging als bedoeld in artikel 19 van de Invoerings- en aanpassingswet Pensioenwet blijven artikel 3.83, tweede lid, en artikel 7.2, achtste lid, zoals deze leden luidden op de dag voorafgaand aan de inwerkingtreding van artikel 1 van de Pensioenwet, van toepassing.
