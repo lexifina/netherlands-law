@@ -9,6 +9,7 @@
 #### § 4. De hoogte van de halfwezenuitkering
 #### § 5. De wezenuitkering
 #### § 6. De hoogte van de wezenuitkering
+#### § 6a. Tegemoetkoming in aanvulling op de nabestaandenuitkering, de halfwezenuitkering en de wezenuitkering
 #### § 7. De vakantie-uitkering
 #### § 8. De hoogte van de vakantie-uitkering
 #### § 9. Geen recht op nabestaandenuitkering, halfwezenuitkering en wezenuitkering buiten Nederland
