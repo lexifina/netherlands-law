@@ -1,9 +1,0 @@
-# Artikel 10a
-1. Indien de Pensioen- & Verzekeringskamer zulks noodzakelijk acht in het belang van de deelnemers, de gewezen deelnemers, of andere belanghebbenden, gaat een pensioenfonds binnen de daarvoor door de Pensioen- & Verzekeringskamer gestelde termijn over tot het overdragen of herverzekeren van het uit de aangegane verplichtingen voortspruitende risico door het sluiten van overeenkomsten van verzekering met een verzekeraar als bedoeld in artikel 9.
-2. Een ondernemingspensioenfonds als bedoeld in artikel 1, achtste lid, informeert de Pensioen- & Verzekeringskamer direct zodra het ondernemingspensioenfonds weet of redelijkerwijs kan voorzien dat de verbondenheid aan de onderneming zal eindigen.
-3. Het ondernemingspensioenfonds, bedoeld in artikel 1, achtste lid, gaat binnen zes maanden na het eindigen van de verbondenheid over tot:
-a. het overdragen of herverzekeren van het uit de aangegane verplichtingen voortspruitende risico door het sluiten van overeenkomsten van verzekering met een verzekeraar als bedoeld in artikel 2, vierde lid,
-b. of het onderbrengen van het uit de aangegane verplichtingen voortspruitende risico bij een bedrijfstakpensioenfonds waarvan de werkingssfeer betrekking heeft op de activiteiten van de onderneming.
-4. De in het derde lid opgenomen verplichting van het ondernemingspensioenfonds geldt niet zolang ten genoegen van de Pensioen- & Verzekeringskamer door het ondernemingspensioenfonds wordt aangetoond dat herverzekering, overdracht of onderbrenging niet noodzakelijk is omdat het ondernemingspensioenfonds kan voldoen aan de voorwaarden in aanvulling op de bij of krachtens de wet geldende eisen die de Pensioen- & Verzekeringskamer stelt met betrekking tot:
-a. de actuariële en bedrijfstechnische opzet en
-b. de deskundigheid en betrouwbaarheid van het bestuur.

@@ -1,4 +1,0 @@
-# Artikel 8c
-1. De aanspraak op ouderdomspensioen van een deelnemer of gewezen deelnemer kan zonder toestemming van diens echtgenoot niet bij overeenkomst tussen die deelnemer of gewezen deelnemer en het pensioenfonds of de werkgever worden verminderd anders dan bij afkoop zoals voorzien bij of krachtens deze wet, tenzij de echtgenoten het recht op pensioenverevening ingevolge de Wet verevening pensioenrechten bij scheiding (Stb. 1994, 342) hebben uitgesloten.
-2. De aanspraak op weduwen- of weduwnaarspensioen ten behoeve van de echtgenoot van een deelnemer of gewezen deelnemer kan zonder toestemming van die echtgenoot niet bij overeenkomst tussen de deelnemer of gewezen deelnemer en het pensioenfonds of de werkgever worden verminderd anders dan bij afkoop zoals voorzien bij of krachtens deze wet.
-3. Elk beding, strijdig met het bepaalde in het eerste en tweede lid, is nietig.

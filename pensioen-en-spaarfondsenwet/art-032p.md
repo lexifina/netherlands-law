@@ -1,2 +1,0 @@
-# Artikel 32p
-De Pensioen- & Verzekeringskamer neemt, in coördinatie met de bevoegde autoriteiten van de lidstaat waarvan de voor bedrijfspensioenvoorziening geldende sociale en arbeidswetgeving van toepassing is op de pensioenregeling, de nodige maatregelen om ervoor te zorgen dat een pensioenfonds of beroepspensioenfonds een einde maakt aan een vastgestelde inbreuk op de toepasselijke regelgeving.

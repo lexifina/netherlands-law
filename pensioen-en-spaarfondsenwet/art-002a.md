@@ -1,5 +1,0 @@
-# Artikel 2a
-1. Ingeval een werkgever een toezegging omtrent pensioen doet, mogen personen, verbonden aan zijn onderneming, niet worden uitgesloten van deelneming aan de betreffende pensioenregeling vanwege het minder dan de volledige arbeidstijd werkzaam zijn.
-2. Indien als voorwaarde voor toetreding tot de pensioenregeling een minimum loongrens wordt gesteld, wordt voor de toepassing van die loongrens het loon van een persoon die minder dan de volledige arbeidstijd werkzaam is, herleid naar het loon dat ingeval van een volledige arbeidstijd zou zijn verkregen.
-3. Bij de vaststelling van aanspraken op ouderdoms-, weduwen-, weduwnaars- en partnerpensioen worden aan personen die minder dan de volledige arbeidstijd werkzaam zijn ten minste pensioenaanspraken verleend naar evenredigheid van de aanspraken die ingeval van een volledige arbeidstijd zouden zijn verkregen.
-4. Bij de vaststelling van aanspraken op invaliditeitspensioen die aan de deelneming kunnen worden ontleend, is onderscheid op grond van het enkele feit van de omvang van de arbeidstijd niet toegestaan.

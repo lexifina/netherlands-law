@@ -1,4 +1,0 @@
-# Artikel 23a
-1. De Pensioen- & Verzekeringskamer kan een last onder dwangsom opleggen ter zake van overtreding van voorschriften, gesteld bij of krachtens de artikelen 2, eerste en vierde lid, 2b, eerste, derde, en vijfde lid, 2c, 3, eerste lid, 4, eerste, tweede, vierde en zesde lid, 5, eerste tot en met zevende lid, 5a, eerste lid, 6a, 6b, tweede en vierde lid, 6d, derde lid, 7, 7a, 8, vijfde en zesde lid, 9, 9a, 9aa, 9b, 9ba, 9c, 10, derde lid, 10a, 10b, 17b, 18, 19, 21, zesde lid, 22, tweede en vierde lid, 23, tweede lid, 23l, eerste en derde lid, 32b, tweede lid, 32i en 32o.
-2. De artikelen 5:32, tweede tot en met vijfde lid, en 5:33 tot en met 5:35 van de Algemene wet bestuursrecht zijn van toepassing.
-3. Onze Minister kan regels stellen ter zake van de uitoefening van de bevoegdheid, bedoeld in het eerste lid.

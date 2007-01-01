@@ -1,3 +1,0 @@
-# Artikel 32o
-1. Een pensioenfonds kan na ontvangst van de mededeling, bedoeld in artikel 32m, derde lid, dan wel nadat twee maanden zijn verstreken na ontvangst van de mededeling, bedoeld in artikel 32m, tweede lid, beginnen met het uitvoeren van de voorgenomen pensioenregeling.
-2. Het fonds neemt bij de uitvoering van de pensioenregeling de op bedrijfspensioenvoorziening toepasselijke sociale en arbeidswetgeving en de voorschriften die krachtens de artikelen 11 en 18, zevende lid, van richtlijn 2003/41/EG moeten worden nageleefd, in acht. De Nederlandse sociale en arbeidswetgeving is niet van toepassing op de uitvoering van de pensioenregeling.

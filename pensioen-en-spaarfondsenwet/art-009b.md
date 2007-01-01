@@ -1,4 +1,0 @@
-# Artikel 9b
-1. Belegging van de daartoe beschikbare gelden van een spaarfonds moet op solide wijze geschieden.
-2. Vorderingen van een spaarfonds op de werkgever, alsmede belegging in aandelen in diens onderneming zijn toegelaten tot een bedrag gelijk aan het twintigste deel van de bezittingen van het fonds, vermeerderd met een bedrag gelijk aan de vrije reserve van dat fonds. Het bedrag van deze vorderingen en aandelen mag evenwel het tiende deel van de bezittingen van het fonds niet overschrijden.
-3. Het tweede lid is tot 23 september 2010 van overeenkomstige toepassing op een pensioenfonds of beroepspensioenfonds, tenzij het fonds bijdragen ontvangt van ondernemingen die zetel hebben in een andere lidstaat dan Nederland, in welk geval artikel 9ba, eerste lid, onderdeel f, van toepassing is.
