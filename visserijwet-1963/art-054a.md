@@ -1,0 +1,3 @@
+# Artikel 54a
+1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
+2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.

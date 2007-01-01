@@ -9,14 +9,12 @@
 ## Hoofdstuk IV. De kustvisserij
 ## Hoofdstuk V. De binnenvisserij
 ### Afdeling I
-#### § 1. Visakten en bijdrage ter verbetering van de binnenvisserij
+#### § 1. Visakte
 #### § 3. Maatregelen in het belang van de visserij
-#### § 4. Vergunningen voor het vissen in wateren, waarin de binnenvisserij wordt uitgeoefend
+#### § 4. Schriftelijke toestemmingen voor het vissen in wateren, waarin de binnenvisserij wordt uitgeoefend
 #### § 5. Huur en verhuur van visrecht
 #### § 6. Beroep van beslissingen van de Kamer
-### Afdeling II. De organen
-#### § 1. De organisatie ter verbetering van de binnenvisserij
+### Afdeling II. Het orgaan
 #### § 2. De Kamer voor de Binnenvisserij
-#### § 3. De Raad voor de Binnenvisserij
-## Hoofdstuk VI. Strafbepalingen
+## Hoofdstuk VI. Toezichts-, dwang- en strafbepalingen
 ## Hoofdstuk VII. Overgangs- en slotbepalingen
