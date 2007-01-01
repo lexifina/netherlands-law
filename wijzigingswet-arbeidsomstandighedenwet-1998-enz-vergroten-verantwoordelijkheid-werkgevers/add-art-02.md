@@ -1,0 +1,2 @@
+# Artikel II
+Indien voor het tijdstip waarop artikel I in werking treedt, een eis tot naleving is gesteld, een beschikking tot het opleggen van een bestuurlijke boete is gegeven, een beschikking tot toepassing van bestuursdwang is gegeven dan wel een last onder dwangsom is opgelegd wegens overtreding van het bij of krachtens de Arbeidsomstandighedenwet 1998 bepaalde, blijft het voor dat tijdstip ten aanzien van een zodanige beschikking geldende recht van toepassing tot het tijdstip waarop die beschikking onherroepelijk is geworden.

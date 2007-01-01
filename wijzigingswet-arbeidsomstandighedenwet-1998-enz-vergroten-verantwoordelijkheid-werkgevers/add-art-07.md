@@ -1,0 +1,2 @@
+# Artikel VII
+[Wijzigt de Wet medezeggenschap onderwijs 1992, de Wet financiering sociale verzekeringen, de Wet op de arbeidsongeschiktheidsverzekering, de Wet op de ondernemingsraden, de Wet op het hoger onderwijs en wetenschappelijk onderzoek, de Wet structuur uitvoeringsorganisatie werk en inkomen, de Ziektewet, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de economische delicten, en de Wet verbetering poortwachter.]
