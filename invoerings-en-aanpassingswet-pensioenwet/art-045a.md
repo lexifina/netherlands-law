@@ -1,0 +1,2 @@
+# Artikel 45a. Raadpleging pensioengerechtigden
+Artikel 100, tweede lid, van de Pensioenwet is niet van toepassing indien het ondernemingspensioenfonds voor 28 februari 2003 heeft voorzien in een deelnemersraad of een bestuur waarin vertegenwoordigers van pensioengerechtigden zitting hebben en het ondernemingspensioenfonds kan aantonen dat de gerealiseerde medezeggenschapsorm de instemming heeft van de pensioengerechtigden.
