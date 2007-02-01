@@ -1,5 +1,6 @@
 # Inhoud
 ## Hoofdstuk 1. Algemene bepalingen
+## Hoofdstuk 2. Meeteenheden en standaarden
 ## Hoofdstuk 3. Meetinstrumenten
 ## Hoofdstuk 4. Toetsende instanties bij overeenstemmingsbeoordelingen
 ### Paragraaf 1. Aangewezen instanties en erkenningen
