@@ -1,5 +1,0 @@
-# Artikel 26b
-1. Een erkenning wordt door de ijkinstelling verleend, indien de aanvrager voor wat betreft zijn organisatie, personeel en materieel overeenkomstig daaromtrent door Onze Minister gestelde, in de Staatscourant bekendgemaakte regelen in staat is de in de aanvraag vermelde werkzaamheden ten aanzien van de in de aanvraag genoemde voorwerpen naar behoren te verrichten en beschikt over de voor de werkzaamheden nodige standaarden als bedoeld in artikel 22, tweede lid, onder a.
-2. Aan een erkenning kunnen voorschriften worden verbonden. De erkenning kan onder beperkingen worden verleend.
-3. In de verklaring van erkenning wordt een door de ijkinstelling voor de betrokkene vastgesteld kenmerk opgenomen.
-4. De ijkinstelling doet van de erkenning en de datum daarvan mededeling in de Staatscourant, onder opgave van de naam of handelsnaam van de desbetreffende ijkbevoegde, van de plaats en het adres waar deze is gevestigd, van de voorwerpen ten aanzien waarvan en van de werkzaamheden waarvoor de erkenning is verleend, en voorts onder opgave van de beperkingen waaronder de erkenning is verleend.
