@@ -7,7 +7,13 @@
 ### § 3.3. Bijzonder gebruik van frequentieruimte
 ### § 3.4. Antenne-opstelpunten, antennesystemen en antennes
 ## Hoofdstuk 4. Nummerbeleid en nummerbeheer
-## Hoofdstuk 5. Gedoogplicht voor aanleg, instandhouding en opruiming van kabels
+## Hoofdstuk 5. Aanleg, instandhouding en opruiming van kabels
+### § 5.1. De gedoogplicht
+#### § 5.1.1. Algemene bepalingen
+#### § 5.1.2. Openbare gronden
+#### § 5.1.3. Ernstige belemmeringen en storingen
+### § 5.2. Schadevergoeding in verband met gedoogplicht
+### § 5.3. Overige bepalingen
 ## Hoofdstuk 6. Interoperabiliteit van diensten en vertrouwelijkheid van informatie
 ## Hoofdstuk 6a. Verplichtingen voor ondernemingen die beschikken over een aanmerkelijke marktmacht
 ### § 6a.1. Vaststellen van aanmerkelijke marktmacht
@@ -16,6 +22,7 @@
 ### § 6a.4. Carrierkeuze en carriervoorkeuze op openbare telefoonnetwerken op een vaste locatie
 ### § 6a.5. Het minimumpakket van huurlijnen
 ### § 6a.6. Verticaal geïntegreerde openbare ondernemingen die beschikken over een economische machtspositie als bedoeld in artikel 82 van het EG-verdrag
+### § 6a.7. Verplichtingen voor aanbieders van programmadiensten die beschikken over een aanmerkelijke marktmacht
 ## Hoofdstuk 6b. Consultatie
 ## Hoofdstuk 7. Eindgebruikersbelangen
 ## Hoofdstuk 8. Regels met betrekking tot het verspreiden van programma's, systemen voor voorwaardelijke toegang, applicatieprogramma-interfaces en elektronische programmagidsen
