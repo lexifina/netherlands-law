@@ -1,2 +1,2 @@
 # Artikel 132a
-Onder het opsporingsonderzoek wordt verstaan het onderzoek onder leiding van de officier van justitie naar aanleiding van een redelijk vermoeden dat een strafbaar feit is begaan of dat in georganiseerd verband misdrijven worden beraamd of gepleegd, als omschreven in artikel 67, eerste lid, die gezien hun aard of samenhang met andere misdrijven die in dat georganiseerd verband worden beraamd of gepleegd een ernstige inbreuk op de rechtsorde opleveren, met als doel het nemen van strafvorderlijke beslissingen.
+Onder opsporing wordt verstaan het onderzoek in verband met strafbare feiten onder gezag van de officier van justitie met als doel het nemen van strafvorderlijke beslissingen.

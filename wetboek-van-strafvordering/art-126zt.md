@@ -1,0 +1,6 @@
+# Artikel 126zt
+1. In geval van aanwijzingen van een terroristisch misdrijf kan een opsporingsambtenaar, bij bevel daartoe van de officier van justitie, in het belang van het onderzoek met een persoon die geen opsporingsambtenaar is overeenkomen dat deze voor de duur van het bevel bijstand verleent aan de opsporing door:
+a. goederen af te nemen van of diensten te verlenen aan een persoon of gegevens die zijn opgeslagen, worden verwerkt of overgedragen door middel van een geautomatiseerd werk, door tussenkomst van een openbaar telecommunicatienetwerk af te nemen van een persoon;
+b. stelselmatig informatie in te winnen omtrent een persoon.
+2. De artikelen 126za en 126zd, vijfde lid, zijn van overeenkomstige toepassing, alsmede artikel 126ij, derde lid, voor zover het eerste lid, onder a, toepassing vindt. Toepassing van het eerste lid, onder a, vindt alleen plaats indien geen bevel als bedoeld in artikel 126zd, eerste lid, onder b, kan worden gegeven.
+3. De overeenkomst is schriftelijk en vermeldt de rechten en plichten van de persoon die bijstand verleent aan de opsporing, de wijze waarop aan de overeenkomst uitvoering dient te worden gegeven, alsmede de geldigheidsduur van de overeenkomst. De overeenkomst kan schriftelijk worden gewijzigd, aangevuld, verlengd of beëindigd.

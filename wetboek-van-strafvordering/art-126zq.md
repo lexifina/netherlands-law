@@ -1,0 +1,5 @@
+# Artikel 126zq
+1. In geval van aanwijzingen van een terroristisch misdrijf is de opsporingsambtenaar, bij bevel daartoe van de officier van justitie, bevoegd in het belang van het onderzoek voorwerpen te onderzoeken en aan opneming te onderwerpen en daarvan monsters te nemen. Hij is bevoegd daartoe verpakkingen te openen.
+2. Indien het onderzoek, de opneming of de monsterneming niet ter plaatse kan geschieden, is de opsporingsambtenaar bevoegd de voorwerpen voor dat doel voor korte tijd mee te nemen tegen een door hem, zoveel mogelijk, af te geven schriftelijk bewijs.
+3. Het bevel kan mondeling worden gegeven. Het wordt gegeven voor een periode van ten hoogste twaalf uren, voor een daarbij omschreven gebied. De geldigheidsduur kan telkens met ten hoogste twaalf uren worden verlengd.
+4. In bij algemene maatregel van bestuur aangewezen veiligheidsrisicogebieden kan voor de uitoefening van een in dit artikel bedoelde bevoegdheid onder bij die algemene maatregel van bestuur gestelde voorwaarden een bevel van de officier van justitie achterwege blijven.

@@ -47,13 +47,20 @@
 #### afdeling Eerste. Verzoek informatie in te winnen
 #### afdeling Tweede. Burgerinfiltratie
 #### afdeling Derde. Burgerpseudo-koop of -dienstverlening
-### Titel VB. Algemene regels betreffende de bevoegdheden in de titels IVA, V en VA
+### Titel VB. Bijzondere bevoegdheden tot opsporing van terroristische misdrijven
+#### afdeling Eerste. Algemene bepalingen
+#### afdeling Tweede. Stelselmatige observatie, pseudo-koop of -dienstverlening, stelselmatige inwinning van informatie, bevoegdheden in een besloten plaats en infiltratie
+#### afdeling Derde. Opnemen en onderzoek communicatie
+#### Derde afdeling A. Vorderen van gegevens
+#### afdeling Vierde. Onderzoek van voorwerpen, vervoermiddelen en kleding
+### Titel VC. Bijstand aan opsporing van terroristische misdrijven door burgers
+### Titel VD. Algemene regels betreffende de bevoegdheden in de titels IVA tot en met VC
 #### afdeling Eerste. Voeging bij de processtukken
 #### afdeling Tweede. Kennisgeving aan betrokkene
 #### afdeling Derde. De bewaring en de vernietiging van processen-verbaal en andere voorwerpen en het gebruik van gegevens voor een ander doel
 #### afdeling Vierde. Technische hulpmiddelen
 #### afdeling Vijfde. Verbod op doorlaten
-### Titel VC. Verkennend onderzoek
+### Titel VE. Verkennend onderzoek
 ### Titel VI. Beteekenis van sommige in het wetboek voorkomende uitdrukkingen
 ## Boek Tweede. Strafvordering in eersten aanleg
 ### Titel I. Het opsporingsonderzoek

@@ -1,0 +1,10 @@
+# Artikel 126zd
+1. In geval van aanwijzingen van een terroristisch misdrijf is de opsporingsambtenaar, bij bevel daartoe van de officier van justitie, bevoegd in het belang van het onderzoek:
+a. een persoon stelselmatig te volgen of stelselmatig de aanwezigheid of het gedrag van een persoon waar te nemen,
+b. goederen af te nemen van of diensten te verlenen aan een persoon of gegevens die zijn opgeslagen, worden verwerkt of overgedragen door middel van een geautomatiseerd werk, door tussenkomst van een openbaar telecommunicatienetwerk af te nemen van een persoon,
+c. zonder dat kenbaar is dat hij optreedt als opsporingsambtenaar, stelselmatig informatie in te winnen over een persoon,
+d. zonder toestemming van de rechthebbende een besloten plaats, niet zijnde een woning, te betreden dan wel een technisch hulpmiddel aan te wenden teneinde die plaats op te nemen, aldaar sporen veilig te stellen of aldaar een technisch hulpmiddel te plaatsen teneinde de aanwezigheid of verplaatsing van een goed vast te kunnen stellen.
+2. De opsporingsambtenaar mag bij de uitoefening van de bevoegdheden, bedoeld in het eerste lid, onder b, een persoon niet brengen tot andere strafbare feiten dan waarop diens opzet reeds tevoren was gericht.
+3. De officier van justitie kan in het belang van het onderzoek bepalen dat bij de uitoefening van de bevoegdheid, bedoeld in het eerste lid, onder a, een besloten plaats, niet zijnde een woning, kan worden betreden zonder toestemming van de rechthebbende.
+4. De officier van justitie kan voorts bepalen dat bij de uitoefening van de bevoegdheid, bedoeld in het eerste lid, onder a, een technisch hulpmiddel kan worden aangewend, voor zover daarmee geen vertrouwelijke communicatie wordt opgenomen. Een technisch hulpmiddel wordt niet op een persoon bevestigd, tenzij met diens toestemming.
+5. Het bevel tot uitoefening van de bevoegdheden, bedoeld in het eerste lid, onder a of c, wordt gegeven voor een periode van ten hoogste drie maanden. De geldigheidsduur kan telkens voor een periode van drie maanden worden verlengd.

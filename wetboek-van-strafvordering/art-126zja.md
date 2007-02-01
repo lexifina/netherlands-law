@@ -1,0 +1,3 @@
+# Artikel 126zja
+1. In geval van aanwijzingen van een terroristisch misdrijf kan de officier van justitie, indien het belang van het onderzoek dit dringend vordert, van degene van wie redelijkerwijs kan worden vermoed dat hij toegang heeft tot bepaalde gegevens die ten tijde van de vordering zijn opgeslagen in een geautomatiseerd werk en waarvan redelijkerwijs kan worden aangenomen dat zij in het bijzonder vatbaar zijn voor verlies of wijziging, vorderen dat deze gegevens gedurende een periode van ten hoogste negentig dagen worden bewaard en beschikbaar gehouden. De vordering kan niet worden gericht tot de verdachte.
+2. Artikel 126ni, tweede tot en met vijfde lid, is van overeenkomstige toepassing

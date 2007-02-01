@@ -1,0 +1,3 @@
+# Artikel 126zu
+1. In geval van aanwijzingen van een terroristisch misdrijf kan de officier van justitie, indien het belang van het onderzoek dit dringend vordert en geen bevel als bedoeld in artikel 126ze, eerste lid, kan worden gegeven, met een persoon die geen opsporingsambtenaar is, overeenkomen dat deze bijstand verleent aan de opsporing door deel te nemen aan of medewerking te verlenen aan een groep van personen ten aanzien waarvan aanwijzingen bestaan dat daarbinnen een terroristisch misdrijf wordt beraamd of gepleegd.
+2. De artikelen 126zt, derde lid, en 126w, derde, vierde en zesde lid zijn overeenkomstige toepassing.

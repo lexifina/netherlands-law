@@ -1,0 +1,2 @@
+# Artikel 126zj
+Teneinde toepassing te kunnen geven aan artikel 126zg of artikel 126zh kan de officier van justitie met inachtneming van artikel 3.10, vierde lid, van de Telecommunicatiewet bevelen dat met behulp van in dat artikel bedoelde apparatuur het nummer waarmee de gebruiker van een communicatiedienst kan worden geïdentificeerd, wordt verkregen. Artikel 126nb, tweede tot en met vierde lid, is van overeenkomstige toepassing.
