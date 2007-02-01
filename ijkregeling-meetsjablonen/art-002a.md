@@ -1,2 +1,0 @@
-# Artikel 2a
-Met de meetsjablonen, die in artikel 10, eerste lid, van de wet, bedoelde keuring hebben ondergaan, worden gelijkgesteld meetsjablonen, die in een andere lid-staat van de Europese Unie dan wel in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte rechtmatig zijn geproduceerd of in de handel zijn gebracht en die door een gelijkwaardige, door die andere staat erkende instantie zijn gekeurd, mits bij de keuringen aan gelijkwaardige eisen is voldaan.
