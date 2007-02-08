@@ -1,0 +1,5 @@
+# Inhoud
+## § 1. Algemene bepalingen
+## § 2. Aanvraag en beslissing op de aanvraag
+## § 3. Verplichtingen van de subsidieontvanger
+## § 4. Slotbepalingen
