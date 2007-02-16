@@ -1,0 +1,4 @@
+# Artikel IV
+1. Dit besluit treedt in werking met ingang van de dag die is gelegen acht weken na de datum van uitgifte van het Staatsblad waarin het is geplaatst en werkt terug tot en met 1 januari 2007.
+2. In afwijking van het eerste lid treedt artikel I, onderdelen C en D, in werking op een bij koninklijk besluit te bepalen tijdstip waarbij dat tijdstip terugwerkende kracht kan hebben en vindt voor het eerst toepassing met betrekking tot boekjaren die aanvangen op of na dat tijdstip van inwerkingtreding.
+3. In afwijking van het eerste lid, is het in artikel I, onderdeel G, opgenomen artikel 18a, vierde lid, onderdeel c, van het Besluit fiscale eenheid 2003 slechts van toepassing indien de in artikel 318, eerste lid, van Boek 2 BW (voor de fusie) onderscheidenlijk artikel 334n, eerste lid, van Boek 2 BW (voor de splitsing) bedoelde notariële akte is verleden op of na de dag waarop dit besluit in werking treedt.

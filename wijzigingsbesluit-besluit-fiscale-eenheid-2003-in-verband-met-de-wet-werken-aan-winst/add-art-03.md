@@ -1,0 +1,2 @@
+# Artikel III
+De artikelen 17, zesde lid, 18, zesde lid, 31, eerste lid, 39, tweede lid, en 40, derde lid, van het Besluit fiscale eenheid 2003, zoals deze luidden op 31 december 2006, blijven van toepassing op rente, bedoeld in artikel 15ad, eerste lid, van de Wet op de vennootschapsbelasting 1969 zoals dat luidde op 31 december 2006, waarop artikel VIIIc van de Wet werken aan winst van toepassing is.

@@ -1,0 +1,2 @@
+# Artikel II
+Indien voor 1 januari 2006 met betrekking tot een deelneming een afwaarderingsverlies als bedoeld in artikel 13ca van de Wet op de vennootschapsbelasting 1969, zoals dat artikel luidde op 31 december 2005, in aanmerking is genomen, blijft artikel 35, vierde lid, van het Besluit fiscale eenheid 2003, zoals dit luidde op 31 december 2005, van toepassing met betrekking tot dat afwaarderingsverlies.
