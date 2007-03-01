@@ -1,0 +1,2 @@
+# Artikel 70a
+In deze paragraaf wordt verstaan onder "reservaat" een gebied waar de eigendom dan wel de erfpacht van landbouwgronden door de Staat of bij koninklijk besluit aangewezen particuliere terreinbeherende natuurbeschermingsorganisaties is verworven en waar een beheer gevoerd kan worden gericht op doeleinden van natuur- en landschapsbehoud anders dan door middel van een daartoe te sluiten overeenkomst betreffende het richten van de bedrijfsvoering van agrarische bedrijven op doeleinden van natuur- en landschapsbehoud.

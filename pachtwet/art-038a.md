@@ -1,0 +1,3 @@
+# Artikel 38a
+1. De pachtkamer wijst, onverminderd het bepaalde in artikel 43, vierde lid, het verzoek om verlenging af, indien de pachter voor het einde van de lopende pachttermijn de leeftijd van vijfenzestig jaren heeft bereikt of zal bereiken en de verpachter deswege bezwaar maakt tegen verlenging.
+2. Nochtans kan de pachtkamer op verzoek van de pachter de pachtovereenkomst verlengen, indien de pachter een kind, stiefkind of pleegkind heeft dat op het tijdstip van indiening van het verzoek de leeftijd van ten minste vijftien jaren heeft bereikt en ten behoeve waarvan de pachter op dat tijdstip een vordering tot indeplaatsstelling als bedoeld in artikel 49, eerste lid, heeft gedaan.
