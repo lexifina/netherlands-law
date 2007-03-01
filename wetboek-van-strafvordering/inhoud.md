@@ -98,7 +98,6 @@
 ### Titel VIII. Bijzondere bepalingen voor het rechtsgeding voor de kantonrechter
 ## Boek Derde. Rechtsmiddelen
 ### A. Gewone rechtsmiddelen
-#### Titel I. Verzet tegen einduitspraken
 #### Titel II. Hooger beroep van uitspraken
 #### Titel III. Beroep in cassatie van uitspraken
 #### Titel IV. Hooger beroep en beroep in cassatie van beschikkingen. Bezwaarschriften
