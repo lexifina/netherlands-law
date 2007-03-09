@@ -1,2 +1,0 @@
-# Artikel XXXII
-Voor de toepassing van artikel 8 van de Uitkeringsregeling 1966 wordt met de betrokkene bedoeld in het tweede lid, onderdeel b, van dat artikel gelijkgesteld de betrokkene die op de dag voorafgaand aan de inwerkingtreding van de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen recht heeft op een uitkering op grond van de Algemene Arbeidsongeschiktheidswet zoals die wet luidde op de dag voorafgaand aan de inwerkingtreding van de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen.
