@@ -1,0 +1,2 @@
+# Article I. Administration of the Fund
+The Bank shall continue to be the administrator of the Fund. The Bank shall administer the Fund and carry out its operations in accordance with the MIF II Agreement and provide depositary and other services in connection therewith. The Bank shall maintain the Office of the Multilateral Investment Fund as the office within the Bank organization entrusted with administering and carrying out Fund operations and programs as contemplated in this MIF II Administration Agreement.

@@ -1,0 +1,3 @@
+# Article III. Depositary functions
+Section 1. Depositary for Agreements and Documents. The Bank shall be depositary for this MIF II Administration Agreement, the MIF II Agreement, the Instruments of Acceptance and Contribution (as defined in Article II, Section 1(a) of the MIF II Agreement) and all other Fund-related documents.
+Section 2. Establishment of Accounts. The Bank shall establish an account or accounts of the Bank as administrator of the Fund, to receive payments from Donors pursuant to Article II, Section 2 of the MIF II Agreement. The Bank shall administer such accounts in accordance with this MIF II Administration Agreement.

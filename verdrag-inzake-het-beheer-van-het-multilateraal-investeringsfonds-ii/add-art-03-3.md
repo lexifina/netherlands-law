@@ -1,0 +1,3 @@
+# Artikel III. Taken van de depositaris
+Afdeling 1. Depositaris voor verdragen en documenten. De Bank is depositaris voor dit MIF II-beheerverdrag, het MIF II-verdrag, de akten van aanvaarding en bijdrage (omschreven in artikel II, afdeling 1, onderdeel a, van het MIF II-verdrag) en alle overige aan het Fonds gerelateerde documenten.
+Afdeling 2. Openen van rekeningen. De Bank opent als beheerder van het Fonds een rekening of rekeningen van de Bank voor de ontvangst van betalingen van donoren uit hoofde van artikel II, afdeling 2, van het MIF II-verdrag. De Bank beheert deze rekeningen in overeenstemming met dit MIF II-beheerverdrag.
