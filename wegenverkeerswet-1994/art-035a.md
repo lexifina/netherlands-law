@@ -1,0 +1,2 @@
+# Artikel 35a
+In de ingevolge de artikelen 21, eerste en derde lid, 22, eerste lid, 25a, eerste lid, 26, eerste lid, en 34, eerste lid, vastgestelde regels kan ter uitvoering van verdragen of van besluiten van volkenrechtelijke organisaties of van één of meer instellingen van de Europese Unie, al dan niet gezamenlijk, worden bepaald dat zij mede betrekking hebben op de goedkeuring van voertuigen, voertuigonderdelen, uitrustingsstukken en voorzieningen ter bescherming van weggebruikers en passagiers voor gebruik buiten de weg.

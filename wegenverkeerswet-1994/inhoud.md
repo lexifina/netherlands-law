@@ -14,12 +14,14 @@
 ### § 1. Gedragsregels
 ### § 2. Verkeerstekens en maatregelen op of aan de weg
 ### § 3. Vaststelling bebouwde kom
-## Hoofdstuk III. Toelating tot de weg
+## Hoofdstuk III. Toelating tot de weg, goedkeuring productieprocessen en goedkeuring gebruik buiten de weg
 ### § 1. Algemene bepalingen
-### § 2. Typegoedkeuring
+### § 2. Typegoedkeuring en goedkeuring productieprocessen van voertuigen en voertuigonderdelen
+### § 2a. Goedkeuring productieprocessen
 ### § 3. Individuele goedkeuring
 ### § 4. Keuringen ter uitvoering van andere wetten
 ### § 5. Verbodsbepalingen
+### § 6. Toepasselijkheid van dit hoofdstuk op de goedkeuring voor het gebruik buiten de weg
 ## Hoofdstuk IV. Kentekens en kentekenbewijzen
 ### § 1. Kentekenplicht
 ### § 2. Kentekens
