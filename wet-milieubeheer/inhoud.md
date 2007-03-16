@@ -101,7 +101,7 @@
 #### Afdeling 16.2.3. Het toewijzen en verlenen van broeikasgasemissierechten en het gebruik van emissiereductie-eenheden en gecertificeerde emissiereducties
 ##### § 16.2.3.1. Het nationale toewijzingsplan
 ##### § 16.2.3.2. Het nationale toewijzingsbesluit, overige toewijzingsbesluiten en de verlening van broeikasgasemissierechten
-#### Afdeling 16.2.4. De geldigheid van broeikasgasemissierechten, het inleveren van broeikasgasemissierechten, emissie-reductie-eenheden en gecertificeerde emissiereducties, het intrekken van broeikasgasemissierechten en het compenseren van emissies in een ander kalenderjaar
+#### Afdeling 16.2.4. De geldigheid van broeikasgasemissierechten, het inleveren van broeikasgasemissierechten, emissie-reductie-eenheden en gecertificeerde emissiereducties, het annuleren van broeikasgasemissierechten en het compenseren van emissies in een ander kalenderjaar
 #### Afdeling 16.2.5. De overgang van broeikasgasemissierechten, emissiereductie-eenheden en gecertificeerde emissiereducties
 #### Afdeling 16.2.6. Registratie van broeikasgasemissierechten, emissiereductie-eenheden en gecertificeerde emissiereducties
 #### Afdeling 16.2.7. Instemming met deelname aan projectactiviteiten
