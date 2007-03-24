@@ -1,0 +1,5 @@
+# Artikel 9a
+1. Als bewijs van verworven vakbekwaamheid als bedoeld in de artikelen 2, 3, 4, 6 en 7 gelden tevens diploma's, certificaten en andere titels van arts, tandarts, apotheker, verloskundige en ziekenverpleger die zijn afgegeven door de voormalige Sovjet-Unie, indien:
+– de Estse, Letse of Litouwse autoriteiten verklaren, dat die titels, wat betreft de toegang tot en de uitoefening van het betreffende beroep, op hun eigen grondgebied dezelfde rechtsgeldigheid hebben als de nationale titels van arts, tandarts, apotheker, verloskundige en ziekenverpleger; en
+– de Estse, Letse of Litouwse autoriteiten een verklaring afgeven waaruit blijkt dat die onderdanen tijdens de vijf aan de afgifte van de verklaring voorafgaande jaren de bedoelde werkzaamheden gedurende tenminste drie opeenvolgende jaren daadwerkelijk en op rechtmatige wijze op hun grondgebied hebben verricht.
+2. Het eerste lid is alleen van toepassing op die diploma's, certificaten en andere titels die het resultaat zijn van een opleiding die wat Estland betreft voor 20 augustus 1991, wat betreft Letland voor 21 augustus 1991 en wat betreft Litouwen voor 11 maart 1990 is aangevangen.
