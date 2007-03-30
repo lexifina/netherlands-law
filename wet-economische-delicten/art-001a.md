@@ -47,7 +47,7 @@ de Wet bescherming Antarctica, de artikelen 19, tweede lid, en 33
 de Wet geluidhinder, de artikelen 2, 3, 8, 9, 10, 170, tweede lid, en 175;
 de Wet inzake de luchtverontreiniging, de artikelen 92, onder a, in verband met de artikelen 13, 14 en 86, tweede lid, 92, onder c, en 92, onder d;
 de Wet luchtvaart, de artikelen 6.60, eerste lid, 6.61, tweede lid, 6.61a, en 6.62, tweede lid.
-de Wet milieubeheer, de artikelen 10.23 – voor zover aangeduid als strafbare feiten – en artikel 10.60, tweede lid, onder d en e;
+de Wet milieubeheer, de artikelen 10.23 – voor zover aangeduid als strafbare feiten –, artikel 10.60, tweede lid, onder d en e en artikel 12.14, eerste en tweede lid;
 de Wet van 13 mei 1993, Stb. 283, tot uitbreiding en wijziging van de Wet milieubeheer (afvalstoffen), artikel VII, voor zover het betreft gemeentelijke verordeningen, vastgesteld krachtens artikel 2 van de Afvalstoffenwet;
 de Wet vervoer gevaarlijke stoffen: de artikelen 47 en 48, tweede lid;
 de Wet voorkoming verontreiniging door schepen, artikel 12, tweede lid, onderdeel c.

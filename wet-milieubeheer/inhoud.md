@@ -63,6 +63,7 @@
 ### Titel 11.1. Kwaliteit van werkzaamheden en integriteit van degenen die deze werkzaamheden uitvoeren
 ## Hoofdstuk 12. Verslag-, registratie- en meetverplichtingen
 ### Titel 12.1. Milieuverslaglegging
+### Titel 12.2. Registratie gegevens externe veiligheid inrichtingen, transportroutes en buisleidingen
 ## Hoofdstuk 13. Procedures voor vergunningen en ontheffingen
 ### Afdeling 13.1. Algemeen
 ### Afdeling 13.2. Bijzondere bepalingen
