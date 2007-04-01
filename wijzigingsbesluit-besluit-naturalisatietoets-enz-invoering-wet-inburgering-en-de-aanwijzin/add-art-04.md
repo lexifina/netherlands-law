@@ -1,0 +1,2 @@
+# Artikel IV
+Het certificaat, bedoeld in artikel 5, eerste lid, van het Besluit naturalisatietoets zoals dit luidde voor 1 april 2007, met daarop de aantekening dat de verzoeker beschikt over de vereiste kennis van de Nederlandse taal, toont aan dat de verzoeker beschikt over de vereiste kennis van de taal alsmede van de staatsinrichting en maatschappij als bedoeld in artikel 8, eerste lid, onderdeel d, van de Rijkswet op het Nederlanderschap.
