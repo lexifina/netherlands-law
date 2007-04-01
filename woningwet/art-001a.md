@@ -1,0 +1,3 @@
+# Artikel 1a
+1. De eigenaar van een bouwwerk, standplaats, open erf of terrein of degene die uit anderen hoofde bevoegd is tot het daaraan treffen van voorzieningen draagt er zorg voor dat als gevolg van de staat van dat bouwwerk, die standplaats, dat open erf of terrein geen gevaar voor de gezondheid of veiligheid ontstaat dan wel voortduurt.
+2. Een ieder die een bouwwerk of standplaats bouwt, gebruikt, laat gebruiken of sloopt, dan wel een open erf of terrein gebruikt of laat gebruiken, draagt er, voor zover dat in diens vermogen ligt, zorg voor dat als gevolg van dat bouwen, gebruik of slopen geen gevaar voor de gezondheid of veiligheid ontstaat dan wel voortduurt.

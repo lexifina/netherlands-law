@@ -1,0 +1,2 @@
+# Artikel 13a
+Indien niet wordt voldaan aan artikel 12, eerste lid, kunnen burgemeester en wethouders, tenzij toepassing is gegeven aan het tweede lid van dat artikel, degene die als eigenaar van een bouwwerk of standplaats dan wel uit anderen hoofde bevoegd is tot het treffen van voorzieningen daaraan, verplichten tot het binnen een door hen te bepalen termijn treffen van zodanige door hen daarbij aan te geven voorzieningen, dat nadien wordt voldaan aan artikel 12, eerste lid.

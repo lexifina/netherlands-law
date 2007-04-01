@@ -36,6 +36,7 @@ de Wet op de stads- en dorpsvernieuwing, artikel 31 juncto de artikelen 10, eers
 de Wet verontreiniging oppervlaktewateren, de artikelen 2b, eerste, tweede en derde lid, 4, en 9a, eerste, tweede en derde lid;
 de Wet verontreiniging zeewater, de artikelen 6 en 6a;
 de Wet voorkoming verontreiniging door schepen, de artikelen 6, tweede lid, 10, eerste lid, 11, eerste en tweede lid, 12a, eerste tot en met vierde lid, 12d, eerste lid, en 12e, tweede lid;
+de Woningwet, de artikelen 1a, 1b, 7b, 14a, 16, 40, 45, zevende lid, 60, 103 en 120, tweede lid;
 3°. overtredingen van voorschriften, gesteld bij of krachtens:
 de Bestrijdingsmiddelenwet 1962, de artikelen 2, vijfde, zesde en zevende lid, 5a, derde lid, 10, tweede lid, 11, 11a, 12 en 13a tot en met 15;
 de Destructiewet, de artikelen 3, eerste, tweede en derde lid, 4a, 6, 9, 10, eerste en vijfde lid, 11, 12, 13, eerste, tweede, derde, vierde en vijfde lid, 15, 17, eerste lid, en 25, vierde lid;

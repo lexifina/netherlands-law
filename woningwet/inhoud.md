@@ -1,17 +1,13 @@
 # Inhoud
-## Hoofdstuk I. Begripsbepalingen
+## Hoofdstuk I. Algemene bepalingen
 ## Hoofdstuk II. Voorschriften betreffende het bouwen, de staat van bestaande bouwwerken en standplaatsen, het gebruik, het slopen en de welstand
 ### Afdeling 1. Voorschriften betreffende het bouwen en de staat van bestaande bouwwerken en standplaatsen
 ### Afdeling 2. De bouwverordening
 ### Afdeling 3. De welstand
-## Hoofdstuk III. Bijzondere maatregelen
-### Afdeling 1. Toezicht op bouwwerken, open erven en terreinen
-### Afdeling 2. Aanschrijving tot het treffen van voorzieningen en tot het aanbrengen van verbeteringen
-### Afdeling 3. Onbewoonbaarverklaring
+## Hoofdstuk III. Bijzondere verplichtingen
 ## Hoofdstuk IV. Vergunningen
 ### Afdeling 1. Bouwvergunning
 ### Afdeling 2. Woonvergunning
-### Afdeling 3. Vergunning tot hergebruik van een ontruimde onbewoonbaarverklaarde woning of woonwagen
 ### Afdeling 4. Vergunning voor toegelaten instellingen tot vervreemden van onroerende zaken en daarop vestigen van zakelijke rechten
 ## Hoofdstuk V. Voorziening in de woningbehoefte
 ### Afdeling 1. Onderzoek naar de volkshuisvesting
@@ -23,7 +19,7 @@
 ## Hoofdstuk VI. Het toezicht op de volkshuisvesting
 ### Afdeling 1. Het toezicht van rijks- en provinciewege
 ### Afdeling 1a. Sluiting van gebouwen, open erven en terreinen door burgemeester en wethouders
-### Afdeling 2. Gemeentelijk bouw- en woningtoezicht
+### Afdeling 2. De bestuursrechtelijke handhaving van de hoofdstukken I tot en met IV
 ## Hoofdstuk VII. Voorzieningen in geval van buitengewone omstandigheden
 ## Hoofdstuk VIII. Dwang- en strafbepalingen
 ## Hoofdstuk IX. Slot- en overgangsbepalingen
