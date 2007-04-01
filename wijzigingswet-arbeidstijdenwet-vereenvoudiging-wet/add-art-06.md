@@ -1,0 +1,2 @@
+# Artikel VI
+Tot 11 april 2007 geldt in afwijking van artikel 5:15, vijfde lid, van de Arbeidstijdenwet, zoals dit lid komt te luiden na inwerkingtreding van artikel I, onderdeel L, van deze wet, dat bij de toepassing van artikel 5:15 van de Arbeidstijdenwetverordening (EEG) nr. 3820/85 van de Raad van de Europese Gemeenschappen van 20 december 1985 tot harmonisatie van bepaalde voorschriften van sociale aard voor het wegvervoer (PbEG L 370) in acht wordt genomen.
