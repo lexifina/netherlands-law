@@ -1,0 +1,3 @@
+# Artikel 55b
+1. Met het toezicht op de uitvoering en de handhaving van het bij of krachtens deze wet bepaalde zijn tevens belast de bij besluit van de commissaris van de Koning aangewezen personen.
+2. De artikelen 5:13, 5:15, 5:16, 5:17 en 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.
