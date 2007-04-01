@@ -1,2 +1,0 @@
-# Artikel 20a
-Op een aanvraag tot subsidieverlening die is ingediend voor 1 juli 2005 is deze regeling van toepassing zoals deze luidt tot de inwerkingtreding van de Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 3 februari 2005, nr. TRCJZ/2005/69, houdende wijziging van de Regeling effectgerichte maatregelen in bossen en natuurterreinen, wijziging van het Besluit instandhouding schaapskuddes en wijziging van de Regeling diverse subsidieplafonds en aanvraagperioden LNV (Stcrt. 30).
