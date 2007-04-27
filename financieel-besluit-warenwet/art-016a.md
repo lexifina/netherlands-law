@@ -1,2 +1,0 @@
-# Artikel 16a
-Onverwijld nadat Onze Minister bericht van goedkeuring van de begrooting van den Keuringsdienst (daaronder begrepen mogelijke aanvullingsbegrootingen) heeft gezonden, geven Gedeputeerde Staten aan de besturen der kringgemeenten kennis van het bedrag, dat als bijdrage in de kosten van den keuringsdienst voor het desbetreffende dienstjaar ten laste van elke gemeente komt, zulks onder overlegging aan de besturen der kringgemeenten van een afschrift van bovenbedoelde goedgekeurde begrooting.
