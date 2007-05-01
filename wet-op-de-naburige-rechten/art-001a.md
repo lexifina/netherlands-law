@@ -1,0 +1,2 @@
+# Artikel 1a
+Behoudens bewijs van het tegendeel wordt voor de houder van een naburig recht gehouden degene die op of in het op grond van deze wet beschermde materiaal als zodanig is aangeduid, of bij gebreke van een dergelijke aanduiding, degene die bij de openbaarmaking of het in het verkeer brengen van dit materiaal als uitvoerende kunstenaar, producent van fonogrammen, producent van eerste vastleggingen van films, of omroeporganisatie, daarvan is bekend gemaakt door degene die het materiaal openbaar maakt of in het verkeer brengt.

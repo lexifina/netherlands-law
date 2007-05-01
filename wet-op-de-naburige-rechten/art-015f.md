@@ -1,0 +1,2 @@
+# Artikel 15f
+De voorzieningenrechter kan op vordering van de rechthebbende, bedoeld in de artikelen 2, 6, 7a en 8, tijdelijke voortzetting van de vermeende inbreuk toestaan onder de voorwaarde dat zekerheid wordt gesteld voor vergoeding van de door de rechthebbende geleden schade. Onder dezelfde voorwaarden kan de rechter voortzetting van de dienstverlening door de tussenpersoon als bedoeld in artikel 15e toestaan.
