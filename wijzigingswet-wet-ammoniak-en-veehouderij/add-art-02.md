@@ -1,0 +1,2 @@
+# Artikel II
+Totdat binnen een provincie het in artikel 2, eerste lid, van de Wet ammoniak en veehouderij zoals dat artikel ingevolge artikel I, onderdeel B van deze wet is komen te luiden, bedoelde besluit is bekendgemaakt, worden in die provincie als zeer kwetsbaar gebied aangemerkt de gebieden die onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze wet werden aangemerkt als kwetsbaar gebied als bedoeld in artikel 2 van de Wet ammoniak en veehouderij zoals dat artikel tot vorenbedoeld tijdstip luidde.
