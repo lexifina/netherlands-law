@@ -6,4 +6,3 @@ a. omgang ernstig nadeel zou opleveren voor de geestelijke of lichamelijke ontwi
 b. de ouder kennelijk ongeschikt of kennelijk niet in staat moet worden geacht tot omgang, of
 c. het kind dat twaalf jaren of ouder is, bij zijn verhoor van ernstige bezwaren tegen omgang met zijn ouder heeft doen blijken, of
 d. omgang anderszins in strijd is met zwaarwegende belangen van het kind.
-4. Tot kennisneming van de in dit artikel bedoelde verzoeken is de rechtbank bevoegd. Indien evenwel een procedure inzake gezagstoewijzing bij de kantonrechter aanhangig is, kan een verzoek tot vaststelling van een omgangsregeling in verband daarmee aan de kantonrechter worden gedaan.
