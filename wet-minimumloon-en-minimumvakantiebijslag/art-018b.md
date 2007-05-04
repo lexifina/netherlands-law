@@ -1,0 +1,3 @@
+# Artikel 18b
+1. Als beboetbaar feit wordt aangemerkt het door een werkgever niet of onvoldoende nakomen van de op hem op grond van artikel 7 rustende verplichting aangaande het voldoen van hetgeen in hoofdstuk II is aangeduid als minimumloon alsmede het door de werkgever niet of onvoldoende nakomen van de op hem op grond van artikel 15 rustende verplichting.
+2. Als beboetbaar feit wordt tevens aangemerkt het door de werkgever niet of onvoldoende kunnen overleggen van enige schriftelijke bescheiden waaruit de aard van de arbeidsrelatie, het door hem betaalde loon of de door hem betaalde vakantiebijslag of het aantal gewerkte uren blijkt van een in zijn onderneming, bedrijf of inrichting aangetroffen persoon.

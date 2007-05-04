@@ -1,4 +1,7 @@
 # Artikel 18c
-1. Indien het uitbetaalde loon en de vakantiebijslag minder bedragen dan dat waarop ingevolge het bepaalde bij of krachtens deze wet, na aftrek van hetgeen door de werkgever niet behoeft te worden uitbetaald, aanspraak bestaat, heeft de werknemer met ingang van de vierde werkdag na die, waarop betaling had moeten geschieden, aanspraak op een verhoging wegens niet-volledige betaling.
-2. De verhoging bedraagt voor elke werkdag vijf procent, doch gaat de helft van het verschuldigde bedrag niet te boven.
-3. De rechter is tot beperking van de in de vorige leden bedoelde verhoging bevoegd, doch alleen indien toekenning van de volledige verhoging in de gegeven omstandigheden tot kennelijk onaanvaardbare gevolgen voor de werkgever zou leiden.
+1. Beboetbare feiten kunnen worden begaan door natuurlijke personen en rechtspersonen.
+2. Indien een beboetbaar feit wordt begaan door een rechtspersoon, kan de boete worden opgelegd aan:
+1°. de rechtspersoon, of
+2°. degene die opdracht heeft gegeven tot de gedraging waardoor de verplichtingen die voortvloeien uit deze wet of de daarop berustende bepalingen niet zijn nageleefd alsmede tegen hem die feitelijke leiding heeft gegeven aan die gedraging, of
+3°. de onder 1° en 2° genoemden tezamen.
+3. Voor de toepassing van het eerste en tweede lid wordt met een rechtspersoon gelijkgesteld: de vennootschap zonder rechtspersoonlijkheid, de maatschap, de rederij en het doelvermogen.

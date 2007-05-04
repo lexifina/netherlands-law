@@ -3,4 +3,8 @@
 ## Hoofdstuk II. Minimumloon
 ## Hoofdstuk III. Minimumvakantiebijslag
 ## Hoofdstuk IV. Toezicht op de naleving
+### § 1. Aanwijzing toezichthouders
+### § 2. Bestuurlijke boete
+### § 3. Last onder dwangsom
+### § 4. Gegevensuitwisseling
 ## Hoofdstuk V. Slotbepalingen
