@@ -1,3 +1,0 @@
-# Artikel XI
-1. Onze Minister voor het Publieke Onderwijs, de Nationale Nijverheid en de Kolonien, zal eene Commissie benoemen welke belast zal zijn met het onderzoek der bewijs-stukken, en zal, op haar berigt, uitspraak doen over de teruggave der goederen, bosschen en renten, alsmede omtrent de administratie van dezelve goederen ten voordeele van die genen, welke daartoe regt hebben, volgens de akten der stichting; of, bij gebreke van deze, aan die genen welke door Ons bij een nader besluit daartoe geroepen zullen worden.
-2. Bijaldien er nogthans eenige geschillen omtrent de goederen der gezegde fundatien, of omtrent het regt van beheering, uitgifte of verkrijging dier Beurzen mogten ontstaan, zullen dezelve aan de Regtbanken worden verwezen.
