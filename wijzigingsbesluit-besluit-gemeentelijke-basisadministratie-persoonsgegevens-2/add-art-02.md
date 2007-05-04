@@ -1,4 +1,0 @@
-# Artikel II
-1. De op grond van artikel 43, eerste lid, van het Besluit gemeentelijke basisadministratie persoonsgegevens vast te stellen tegemoetkoming wordt aan de door Onze Minister aan te wijzen gemeenten gedurende drie jaren, te rekenen vanaf 1 januari 1999, verhoogd. De aanwijzing vermeldt de voor de desbetreffende gemeenten in een kalenderjaar geldende verhoging.
-2. De op grond van het eerste lid vastgestelde verhoging van de tegemoetkoming wordt overeenkomstig artikel 43, tweede lid, van het Besluit gemeentelijke basisadministratie persoonsgegevens in rekening gebracht bij de daar bedoelde afnemers.
-3. Onze Minister zendt binnen vijf jaar na de inwerkingtreding van het bij dit besluit gewijzigde artikel 43 van het Besluit gemeentelijke basisadministratie persoonsgegevens, aan het gebruikersoverleg een verslag over de doeltreffendheid en de effecten van dat artikel in de praktijk.
