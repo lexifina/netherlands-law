@@ -1,0 +1,3 @@
+# Artikel 8b. Overgang in bezoldigingsklasse
+1. Overgang van een waterschap naar een hogere klasse in verband met de toeneming van het budget vindt plaats met ingang van het jaar waarin het budget op 1 januari voor de tweede achtereenvolgende maal boven de maximumgrens van de klasse, waarin het waterschap tot dusverre ingedeeld was, gestegen is.
+2. Overgang van een waterschap naar een lagere klasse in verband met de vermindering van het budget vindt plaats met ingang van het jaar waarin het budget op 1 januari voor de tweede achtereenvolgende maal beneden de minimumgrens van de klasse, waarin het waterschap tot dusverre ingedeeld was, gedaald is.
