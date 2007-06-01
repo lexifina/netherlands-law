@@ -46,6 +46,7 @@
 #### § 8.2.2. Regels voor vergunningplichtige inrichtingen
 ### Titel 8.3. Regels met betrekking tot gesloten stortplaatsen
 ## Hoofdstuk 9. Stoffen en produkten
+### Titel 9.3. De EG-verordening registratie, evaluatie en autorisatie van chemische stoffen
 ## Hoofdstuk 10. Afvalstoffen
 ### Titel 10.1. Algemeen
 ### Titel 10.2. Het afvalbeheersplan
