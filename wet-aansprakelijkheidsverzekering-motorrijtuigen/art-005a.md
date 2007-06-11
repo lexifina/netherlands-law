@@ -1,0 +1,2 @@
+# Artikel 5a
+De verzekeringnemer heeft te allen tijde het recht van de verzekeraar een verklaring te verzoeken omtrent de ingediende schadevorderingen of het ontbreken daarvan ten aanzien van het door de verzekering gedekte motorrijtuig of de gedekte motorrijtuigen gedurende ten minste de laatste 5 voorafgaande jaren van de looptijd van de verzekering. De verzekeraar verstrekt deze verklaring binnen 15 dagen na indiening van het verzoek.
