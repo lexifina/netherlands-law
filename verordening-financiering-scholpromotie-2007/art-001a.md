@@ -1,0 +1,2 @@
+# Artikel 1a
+Onder het productschap ressorterende ondernemers zijn wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2007 tot en met 31 december 2007 aan en ten behoeve van het productschap een heffing verschuldigd volgens de in de artikelen 2, 3 en 4 vermelde heffingsgrondslagen met de daarbij behorende tarieven. De berekening en de wijze van betaling vinden plaats, zoals in de Verordening Algemene Bepalingen Productschap Vis 2006 is bepaald.
