@@ -1,0 +1,4 @@
+# Artikel 71t
+Het is een commerciële omroepinstelling niet toegestaan een programmaonderdeel als bedoeld in artikel 51d, tweede lid, voor zover het betreft een onderdeel van een televisieprogramma waarvan de verspreiding in Nederland slechts mogelijk is na verwerving van de daarop betrekking hebbende rechten, uit te zenden of te doen uitzenden, indien:
+a. de commerciële omroepinstelling niet tijdig aan de Stichting heeft medegedeeld dat zij de rechten, bedoeld in de aanhef, wenst te verwerven met uitsluiting van de instellingen die zendtijd hebben verkregen voor landelijke omroep; en
+b. de Stichting binnen een redelijke termijn na de mededeling, bedoeld in onderdeel a, aan de commerciële omroepinstelling te kennen heeft gegeven dat zij of een andere instelling die zendtijd heeft verkregen voor landelijke omroep, het desbetreffende programmaonderdeel in haar programma wenst op te nemen.

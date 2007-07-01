@@ -1,0 +1,3 @@
+# Artikel 39h
+1. Bij of krachtens algemene maatregel van bestuur worden, op voordracht van Onze Minister-President na overleg met Onze Minister, regels gesteld met betrekking tot het toewijzen van zendtijd voor landelijke omroep door het Commissariaat voor de Media ten behoeve van overheidsvoorlichting. Bij deze algemene maatregel van bestuur kan tevens worden bepaald dat, in afwijking van artikel 39a1, derde lid, daarvoor ook een deel van de zendtijd voor het teletekstprogramma voor landelijke omroep kan worden toegewezen.
+2. De zendtijd wordt toegewezen aan de ministers voor het gebruik door overheidsinstellingen of personen die daartoe door hen zijn aangewezen.

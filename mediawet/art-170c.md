@@ -1,0 +1,5 @@
+# Artikel 170c
+1. Onze Minister kan een deel van de inkomsten van de Stichting Etherreclame, bedoeld in artikel 28, en de rijksomroepbijdrage, bedoeld in artikel 111, reserveren ten behoeve van de instellingen die zendtijd hebben verkregen voor landelijke omroep, met uitzondering van politieke partijen, en de Wereldomroep (de algemene omroepreserve).
+2. Onze Minister kan uit de algemene omroepreserve uitkeringen doen aan de raad van bestuur en, ten behoeve van de Wereldomroep, aan het Commissariaat voor de Media. Het doen van uitkeringen aan de raad van bestuur geschiedt met toepassing van artikel 106a.
+3. Aan het doen van uitkeringen kunnen voorschriften worden verbonden. Onze Minister kan de beschikking tot het doen van uitkeringen intrekken of wijzigen, indien de aan de beschikking verbonden voorschriften niet worden nageleefd.
+4. Het beheer van de algemene omroepreserve berust bij het Commissariaat voor de Media. Het Commissariaat legt over het beheer jaarlijks verantwoording af aan Onze Minister.

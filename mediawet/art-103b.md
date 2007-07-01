@@ -1,0 +1,2 @@
+# Artikel 103b
+Voor zover er een verschil bestaat tussen het totaal van de bedragen die op basis van artikel 102 door Onze Minister ter beschikking zijn gesteld van de raad van bestuur, en het totaal van de bedragen die op basis van de artikelen 103 en 103a door de raad van bestuur ter beschikking worden gesteld aan de instellingen die zendtijd voor landelijke omroep hebben verkregen, wordt dit verschil door de raad van bestuur aangewend ter versterking van de programmering. Artikel 101, vierde lid, is van overeenkomstige toepassing.

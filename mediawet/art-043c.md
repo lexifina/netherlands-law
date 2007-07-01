@@ -1,0 +1,5 @@
+# Artikel 43c
+1. De inkomsten die worden verworven door de uitzending van de in artikel 43a bedoelde programma-onderdelen worden, na aftrek van de kosten die verband houden met de verzorging van die programma-onderdelen en het met toepassing van artikel 128 vastgestelde bedrag, aangewend voor de verzorging van de overige programma-onderdelen.
+2. Lokale en regionale omroepinstellingen die programma-onderdelen als bedoeld in artikel 43a verzorgen, voldoen jaarlijks het met toepassing van artikel 128 vastgestelde bedrag aan het Commissariaat voor de Media. Het Commissariaat stelt dit bedrag ter beschikking van Onze Minister.
+3. Bij algemene maatregel van bestuur kunnen regels worden gesteld over de wijze waarop inzicht moet worden verschaft in de financiën die op de exploitatie van de verzorging en uitzending van de programma-onderdelen als bedoeld in artikel 43a betrekking hebben.
+4. Artikel 64, eerste lid, onderdeel d, is van overeenkomstige toepassing op lokale en regionale omroepinstellingen die programma-onderdelen als bedoeld in artikel 43a verzorgen, en hun medewerkers.

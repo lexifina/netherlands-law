@@ -1,0 +1,3 @@
+# Artikel 46a
+1. Indien een andere instelling dan bedoeld in artikel 46, eerste lid, die zendtijd heeft verkregen, niet voldoet aan de verplichtingen die bij of krachtens deze wet of artikel 5:20 van de Algemene wet bestuursrecht voor haar gelden, kan het Commissariaat voor de Media de aan die instelling toegewezen zendtijd intrekken of verminderen.
+2. Gedurende de periode waarvoor de zendtijd op grond van het eerste lid is ingetrokken, bestaat geen recht op de vergoeding, bedoeld in artikel 104, tweede en derde lid. Gedurende de periode waarvoor de zendtijd op grond van het eerste lid is verminderd, wordt de vergoeding, bedoeld in artikel 104, tweede en derde lid, evenredig verminderd.

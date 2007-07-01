@@ -1,0 +1,6 @@
+# Artikel 170a
+1. De instellingen die zijn aangewezen op grond van artikel 28, onderdelen j en k, dienen eenmaal per vier jaren bij Onze Minister een meerjarenplan voor de volgende periode van vier jaren in. Deze meerjarenplannen zijn afgestemd op de voor de desbetreffende periode geldende cultuurnota, bedoeld in artikel 3 van de Wet op het specifiek cultuurbeleid, en op de voor de desbetreffende periode geldende begroting voor de instellingen die zendtijd hebben verkregen voor landelijke omroep, bedoeld in artikel 99.
+2. De instellingen, bedoeld in het eerste lid, dienen jaarlijks voor 1 juni bij Onze Minister een jaarrekening over het voorafgaande kalenderjaar in.
+3. Het meerjarenplan en de jaarrekening behoeven de instemming van Onze Minister. Met betrekking tot het meerjarenplan hoort Onze Minister daaromtrent de Stichting.
+4. Aan het ter beschikking stellen van een vergoeding als bedoeld in artikel 28, onderdelen j en k, kunnen voorschriften worden verbonden.
+5. Indien niet wordt voldaan aan de eisen, bedoeld in het eerste en tweede lid, of de aan de beschikking verbonden voorschriften niet worden nageleefd, kan Onze Minister de beschikking waarbij de desbetreffende instelling is aangewezen, intrekken, dan wel de beschikking tot het ter beschikking stellen van een vergoeding wijzigen.
