@@ -1,0 +1,2 @@
+# Artikel II
+Op een bestemmingsplan waarvan het ontwerp voor het tijdstip van inwerkingtreding van deze regeling overeenkomstig artikel 23, eerste lid, van de Wet op de Ruimtelijke Ordening ter inzage is gelegd en na dat tijdstip wordt vastgesteld, is, voor zover dat bestemmingsplan betrekking heeft op grond gelegen binnen het invloedsgebied van een spoorwegemplacement als bedoeld in artikel 1a van de Regeling externe veiligheid inrichtingen, artikel 13 van het besluit niet van toepassing.
