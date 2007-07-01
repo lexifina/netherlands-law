@@ -1,0 +1,4 @@
+# Artikel 25a
+1. Lokale en regionale omroepinstellingen die programma-onderdelen als bedoeld in artikel 43a van de Mediawet verzorgen, zijn verplicht een behoorlijke boekhouding te voeren en hun jaarrekening vergezeld te laten gaan van een verklaring van een accountant-administratieconsulent of een registeraccountant omtrent de getrouwheid ervan.
+2. Deze boekhouding bevat ten minste gegevens over de kosten en opbrengsten, verdeeld naar de kosten en opbrengsten van de exploitatie van reclameboodschappen en telewinkelboodschappen, de kosten en opbrengsten van andere programma-onderdelen, onderscheidenlijk de kosten en opbrengsten van alle andere activiteiten.
+3. Lokale en regionale omroepinstellingen die programma-onderdelen als bedoeld in artikel 43a van de Mediawet verzorgen zenden jaarlijks vóór 1 juni de jaarrekening aan het Commissariaat voor de Media.
