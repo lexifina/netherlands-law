@@ -1,0 +1,3 @@
+# Artikel IIa
+1. De besluiten van het provinciebestuur van Zuid-Holland, onderscheidenlijk Noord-Holland waarbij de provinciale besturen de bevoegdheden inzake de uitvoering van hun taken in het kader van de jeugdhulpverlening op grond van artikel 20 van de Kaderwet bestuur in verandering hebben overgedragen aan het bestuur van de regionale lichamen van de samenwerkingsgebieden waarin Rotterdam of 's-Gravenhage, onderscheidenlijk Amsterdam zijn gelegen, hebben te rekenen van 1 januari 2005 betrekking op jeugdzorg in het kader van de Wet op de jeugdzorg.
+2. De besluiten, bedoeld in het eerste lid, zijn van het tijdstip dat de Wijzigingswet Wgr-plus in werking treedt af, gebaseerd op artikel 104 van de Wet gemeenschappelijke regelingen.
