@@ -1,7 +1,0 @@
-# Artikel 7e
-1. Het college tracht, door overleg met de betrokken andere lid-staten, tot overeenstemming te komen over de beoordeling van de aanvraag. De aanvrager wordt in de gelegenheid gesteld zijn standpunt mondeling of schriftelijk toe te lichten.
-2. Indien het college binnen de termijn van negentig dagen geen overeenstemming bereikt, is hij verplicht onverwijld een procedure aanhangig te maken bij het comité, onder vermelding van de diverse standpunten waarover geen overeenstemming is bereikt, en verstrekking van gegevens. Het college stelt de aanvrager in kennis van het aanhangig maken van de procedure, onder toezending van een afschrift van de aan het comité overgelegde standpunten en gegevens.
-3. De aanvrager is verplicht om na ontvangst van de kennisgeving een afschrift te sturen aan het comité van de gegevens en bescheiden, behorende bij de aanvraag.
-4. Alleen in specifieke gevallen, wanneer de belangen van de Europese Gemeenschap in het geding zijn, kan het college, alvorens een besluit wordt genomen, een aanvraag als bedoeld in artikel 7a, rechtstreeks bij het comité in procedure brengen, onder vermelding van feiten en omstandigheden en verstrekking van gegevens, waaronder gegevens over bijwerkingen, zo die in zijn bezit zijn.
-5. Het college stelt de aanvrager in kennis van het aanhangig maken van de procedure, onder toezending van afschriften van de aan het comité verstrekte informatie.
-6. Een zelfde bevoegdheid als bedoeld in het vierde lid, komt toe aan de aanvrager indien het college voornemens is de inschrijving te weigeren.

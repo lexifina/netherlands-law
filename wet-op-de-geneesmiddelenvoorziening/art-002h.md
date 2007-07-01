@@ -1,4 +1,0 @@
-# Artikel 2h
-1. De aflevering van geneesmiddelen door de in artikel 2f, eerste lid, bedoelde personen mag uitsluitend geschieden in het verkooplokaal van een perceel, aangegeven in een vóór 1 januari 1978 verleende vergunning of ontheffing, onderscheidenlijk in het verkooplokaal van een perceel door Onze Minister aan te geven in een door hem verleende vergunning als bedoeld in voornoemd artikellid, onder f.
-2. Boven of terzijde van de buitendeur van het perceel, waarin zich het verkooplokaal bevindt van de in artikel 2f, eerste lid, onder a, b of f, bedoelde personen, moet een door Onze Minister vastgesteld kenteken zijn aangebracht.
-3. De aflevering van geneesmiddelen door de in artikel 2f, eerste lid, onder a, b, c en f, bedoelde personen mag uitsluitend geschieden onder de onmiddellijke leiding van de persoon die blijkens de in genoemde artikelonderdelen bedoelde vergunning onderscheidenlijk ontheffing daarmee is belast.

@@ -1,7 +1,0 @@
-# Artikel 19a
-In deze paragraaf wordt verstaan onder:
-a. bijwerking: een reactie op een geneesmiddel die schadelijk en onbedoeld is en die optreedt bij doses die normaal voor het genezen, lenigen of voorkomen van een ziekte, wond of pijn bij de mens, het herstellen, verbeteren of anderszins wijzigen van organische functies van de mens of het stellen van een geneeskundige diagnose bij de mens worden gebruikt;
-b. ernstige bijwerking: een bijwerking die tot de dood leidt, levensgevaar oplevert, opneming in een ziekenhuis of een verlenging van een verblijf in een ziekenhuis vereist, blijvende of significante invaliditeit of arbeidsongeschiktheid dan wel een aangeboren afwijking veroorzaakt;
-c. onverwachte bijwerking: een bijwerking waarvan de aard, de ernst of het gevolg niet verenigbaar is met de samenvatting van de kenmerken van het product;
-d. veiligheidsonderzoek na verlening van de handelsvergunning: een farmaco-epidemiologisch onderzoek of een klinisch onderzoek dat overeenkomstig de voorwaarden van de vergunning voor het in de handel brengen wordt uitgevoerd teneinde een gevaar voor de veiligheid in verband met een geneesmiddel waarvoor een handelsvergunning is verleend, te specificeren of te kwantificeren;
-e. misbruik van geneesmiddelen: een aanhoudend of incidenteel opzettelijk overmatig gebruik van geneesmiddelen dat gepaard gaat met schadelijke lichamelijke of psychische effecten.

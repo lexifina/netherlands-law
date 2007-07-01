@@ -1,2 +1,0 @@
-# Artikel 37a
-De groothandelaar dient zich te richten naar de beginselen en richtsnoeren inzake goede distributiepraktijken, bedoeld in artikel 10 van richtlijn 92/25/EEG van de Raad van de Europese Gemeenschappen van 31 maart 1992 betreffende de groothandel in geneesmiddelen voor menselijk gebruik (PbEG L 113). Van de bekendmaking daarvan door de Commissie van de Europese Gemeenschappen, zal door Onze Minister mededeling worden gedaan in de Staatscourant, voor zover zodanige bekendmaking niet geschiedt in het Publikatieblad van de Europese Gemeenschappen.

@@ -1,3 +1,0 @@
-# Artikel 2g
-1. De personen, die krachtens artikel 2f, eerste lid, onder a of b, bevoegd zijn tot het afleveren van geneesmiddelen, zijn, met het oog op het toezicht op de uitvoering van deze wet, verplicht hiervan Onze Minister vóór 1 juli 1978 per aangetekende brief in kennis te stellen, onder vermelding van naam en adres, alsmede van het perceel, bedoeld in artikel 2h, eerste lid.
-2. De personen die aan de in het eerste lid bedoelde verplichting niet hebben voldaan, mogen na 30 juni 1978 van hun bevoegdheid geen gebruik maken alvorens zij een kennisgeving als in dat lid bedoeld hebben gedaan.

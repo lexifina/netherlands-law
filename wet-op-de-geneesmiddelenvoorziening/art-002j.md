@@ -1,2 +1,0 @@
-# Artikel 2j
-Bij algemene maatregel van bestuur kan het tijdvak, genoemd in artikel 2f, tweede lid, onder a, éénmaal worden verlengd met een bij die maatregel vermeld tijdvak van ten minste vijf en ten hoogste vijftien jaren, indien dit in het belang van de geneesmiddelenvoorziening nodig wordt geacht. De voordracht tot zodanige maatregel wordt Ons gedaan in het tiende kalenderjaar na 31 december 1977.

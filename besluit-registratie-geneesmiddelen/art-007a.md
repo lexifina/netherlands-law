@@ -1,3 +1,0 @@
-# Artikel 7a
-1. Ingeval een aanvraag reeds bij de bevoegde instantie van een andere lid-staat in onderzoek is, kan het college besluiten het gedetailleerde onderzoek van de bij hem ingediende aanvraag op te schorten totdat door de desbetreffende instantie een beoordelingsrapport als bedoeld in artikel 9, zevende lid, is opgesteld.
-2. Van zijn besluit tot opschorting van het onderzoek geeft het college kennis aan de aanvrager en de desbetreffende instantie van de andere lid-staat. De kennisgeving aan die instantie gaat vergezeld van een verzoek om toezending van het beoordelingsrapport, zodra een beslissing op die aanvraag is genomen.

@@ -1,3 +1,0 @@
-# Artikel 8a
-1. De fabrikant draagt ervoor zorg dat de in artikel 5, eerste lid, bedoelde persoon met betrekking tot elke charge van geneesmiddelen voor onderzoek ter zake waarvan hij heeft vastgesteld dat aan het bij en krachtens artikel 7, tweede volzin, bepaalde is voldaan, dit in een door hem ondertekend document vastlegt.
-2. Het in het eerste lid bedoelde document wordt bij iedere verrichtingbijgesteld en wordt ten minste vijf jaren bewaard, te rekenen vanaf de datum waarop de laatste klinische proef met gebruikmaking van de geneesmiddelen voor onderzoek van de desbetreffende charge is beëindigd.

@@ -1,4 +1,0 @@
-# Artikel 2i
-1. De bevoegdheid van de personen, bedoeld in artikel 2f, eerste lid, onder a, b en f, kan door Onze Minister worden ontnomen indien niet wordt voldaan aan artikel 2h, eerste of tweede lid, of aan de met betrekking tot het verkooplokaal krachtens artikel 26, onder f, gestelde eisen.
-2. Een vergunning verleend aan een persoon, bedoeld in artikel 2f, tweede lid, onder c, wordt door Onze Minister ingetrokken indien naar zijn oordeel de grond voor de verlening daarvan is komen te vervallen.
-3. Indien een persoon als bedoeld in artikel 2f, eerste lid, zijn bevoegdheid tot het afleveren van geneesmiddelen heeft verloren, mag in het desbetreffende verkooplokaal de aflevering van geneesmiddelen worden voortgezet gedurende zes maanden, gerekend vanaf de datum waarop die bevoegdheid is verloren gegaan.
