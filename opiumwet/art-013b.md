@@ -1,4 +1,3 @@
 # Artikel 13b
 1. De burgemeester is bevoegd tot toepassing van bestuursdwang indien in voor het publiek toegankelijke lokalen en daarbij behorende erven een middel als bedoeld in lijst I of II wordt verkocht, afgeleverd of verstrekt dan wel daartoe aanwezig is.
 2. Het eerste lid is niet van toepassing indien de desbetreffende lokalen gebruikt worden ter uitoefening van de artsenijbereidkunst, de geneeskunst, de tandheelkunst of de diergeneeskunde door onderscheidenlijk apothekers, artsen, tandartsen en dierenartsen.
-3. Indien de burgemeester op grond van het eerste lid een besluit tot sluiting van het desbetreffende lokaal of erf heeft genomen, doet hij het besluit zo spoedig mogelijk inschrijven in de openbare registers, bedoeld in artikel 16 van Boek 3 van het Burgerlijk Wetboek. Artikel 24 van dat boek is niet van toepassing.
