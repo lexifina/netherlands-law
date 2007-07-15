@@ -1,4 +1,0 @@
-# Artikel 18a
-1. De AID controleert bij de denaturatiebedrijven, de verwerkende bedrijven, dan wel in voorkomend geval andere begunstigden of betrokkenen met inachtneming van het dienaangaande in de communautaire verordeningen bepaalde periodiek de juistheid van de uitgekeerde steunbedragen dan wel de juistheid van de vrijgave van gestelde zekerheden, met name aan de hand van de handelsdocumenten en de voorraadboekhouding.
-2. Onverminderd het bepaalde in het eerste lid verricht de AID bij voorrang het speciaal onderzoek als bedoeld in artikel 9, vierde lid, tweede alinea, van Verordening 1725/79.
-3. Van de bevindingen bij de controles als bedoeld in het eerste en tweede lid, brengt de AID rapport uit bij de instantie belast met de uitkering van de steun of met de in artikel 16e, eerste lid, bedoelde administratieve controle. Deze instantie neemt naar aanleiding van deze rapporten de geëigende maatregelen.
