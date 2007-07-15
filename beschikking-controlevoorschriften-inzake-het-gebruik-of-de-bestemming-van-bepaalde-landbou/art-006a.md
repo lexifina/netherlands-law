@@ -1,2 +1,0 @@
-# Artikel 6a
-Het bepaalde in de artikelen 2 en 3 is van overeenkomstige toepassing op produkten waarvoor ingevolge Verordening (EEG nr. 756/70 PbEG nr. L 91) steun wordt verleend, zolang door de fabrikant of de afnemer van deze produkten daaraan niet het gebruik of de bestemming is gegeven als door de Verordening is voorgeschreven, met dien verstande dat de opgave, bedoeld in artikel 3, met betrekking tot genoemde produkten dient te geschieden aan het Produktschap voor Zuivel overeenkomstig de door dit Produktschap gestelde voorschriften.
