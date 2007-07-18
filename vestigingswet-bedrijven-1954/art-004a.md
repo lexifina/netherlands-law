@@ -1,4 +1,0 @@
-# Artikel 4a
-1. Bij ieder vestigingsbesluit wordt bepaald, welke handelingen als uitoefening van het aangewezen bedrijf worden aangemerkt.
-2. Daarbij kan ten aanzien van een of meer van die handelingen worden bepaald, dat zij slechts als uitoefening van het aangewezen bedrijf worden aangemerkt, voor zover zij in samenhang met andere van die handelingen onder daarbij aangegeven omstandigheden worden verricht. Het aldus verrichten van eerstbedoelde handelingen wordt niet aangemerkt als uitoefening van enig ander krachtens deze wet aangewezen bedrijf.
-3. Daarbij kan voorts worden bepaald, dat als uitoefening van het aangewezen bedrijf mede wordt aangemerkt het openlijk aanduiden of doen aanduiden van de bereidheid een of meer van de krachtens het eerste lid aangewezen handelingen te verrichten, onverminderd het in het tweede lid bepaalde.
