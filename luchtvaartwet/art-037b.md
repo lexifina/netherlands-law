@@ -2,7 +2,8 @@
 1. De exploitant van een luchtvaartterrein wijst de delen daarvan aan:
 a. die door het publiek slechts betreden mogen worden, indien de betrokken personen in het bezit zijn van een geldig reisbiljet of een daartoe afgegeven persoonsgebonden kaart;
 b. die niet voor het publiek toegankelijk zijn;
-c. die slechts voor een beperkte categorie van de op het luchtvaartterrein werkzame personen toegankelijk zijn.
+c. die slechts voor een beperkte categorie van de op het luchtvaartterrein werkzame personen toegankelijk zijn;
+d. die voor het publiek toegankelijk zijn.
 2. Onze Minister van Justitie, in overeenstemming met Onze Minister, kan delen van het luchtvaartterrein aanwijzen die in ieder geval tot een van de in het eerste lid bedoelde delen behoren.
 3. De exploitant van een luchtvaartterrein draagt er zorg voor:
 a. dat een ieder die toegang heeft tot een van de in het eerste lid, onder b en c, bedoelde delen, over een door hem verstrekt of erkend toegangsbewijs beschikt, waaruit tevens duidelijk kenbaar is tot welke delen de drager toegang heeft;

@@ -1,2 +1,2 @@
 # Artikel 37t
-Met het toezicht op de naleving van het bepaalde bij en krachtens deze afdeling is belast de Commandant van de Koninklijke marechaussee. Onze Minister van Justitie kan daartoe aanwijzingen geven.
+Met het toezicht op de naleving van het bepaalde bij of krachtens deze afdeling, dan wel van verplichtingen die voortvloeien uit een EG-verordening voor zover deze betrekking heeft op de beveiliging van de burgerluchtvaart en voor het toezicht daarop geen andere autoriteit is aangewezen, is belast de Commandant van de Koninklijke marechaussee. Onze Minister van Justitie kan daartoe aanwijzingen geven.
