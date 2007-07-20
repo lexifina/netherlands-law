@@ -1,5 +1,0 @@
-# Tekst
-Naar aanleiding van ............................. deel ik U mede dat de dividenden op aandelen in portefeuille ook naar mijn mening niet aan de heffing van de dividendbelasting zijn onderworpen.
-Voor wat betreft de toepassing van het Besluit op de Dividendbelasting 1941 ten aanzien van verjaard dividend, deel ik U voorts mede, dat ingevolge artikel 3, tweede lid, van het Besluit, de dividendbelasting verschuldigd is, zodra de opbrengst betaalbaar of op andere wijze vorderbaar is. De omstandigheid dat dividend, waarover terecht dividendbelasting is geheven, ten gevolge van verjaring niet wordt uitgekeerd, brengt niet mede, dat de ter zake geheven dividendbelasting kan worden teruggegeven. Evenmin kan deze dividendbelasting worden teruggeven op de voet van artikel 30, tweede lid, van het Besluit op de Vennootschapsbelasting 1942.
-Noot 1. Zie de blauwe aanschrijving van 12 januari 1962, nr. B2/137 (opgenomen in bw. Vennootschapsbelasting)
-Noot 2. De tot een naamloze vennootschap gerichte brief, waarvan hierboven een uittreksel is opgenomen, was tevens verwerkt in B.i.b. nr. 9449.
