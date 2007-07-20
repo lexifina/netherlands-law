@@ -29,14 +29,11 @@
 ### § 8.1. Verplichtingen in verband met het uitzenden van programma's
 ### § 8.2. Systemen voor voorwaardelijke toegang, applicatieprogramma-interfaces, elektronische programmagidsen en toegang tot programma-aanbod
 ## Hoofdstuk 9. Universele dienstverlening
-## Hoofdstuk 10. Randapparaten, radiozendapparaten en overige apparaten
-### Titel 10.1. Algemene bepalingen voor apparaten
-#### § 10.1.1. Vereisten en certificatie
-#### § 10.1.2. Uitzonderingsbepalingen
-### Titel 10.2. Bijzondere bepalingen
-#### § 10.2.1. Elektromagnetische compatibiliteit
-#### § 10.2.2. Randapparaten
-#### § 10.2.3. Radiozendapparaten
+## Hoofdstuk 10. Uitrusting
+### § 10.1. Europese bepalingen voor uitrusting
+#### § 10.1.1. Conformiteiteisen en wederzijdse erkenning van conformiteit
+#### § 10.1.2. Digitale televisie
+### § 10.2. Bepalingen van nationale oorsprong
 ## Hoofdstuk 11. Bescherming van persoonsgegevens en de persoonlijke levenssfeer
 ### § 11.1. Algemene bepalingen
 ### § 11.2. Nummeridentificatie
@@ -53,6 +50,7 @@
 ## Hoofdstuk 15. Handhaving
 ### § 15.1. Algemeen
 ### § 15.2. Boete en last onder dwangsom
+### § 15.3. Uit de handel nemen van uitrusting
 ## Hoofdstuk 16. Vergoedingen
 ## Hoofdstuk 17. Beroep
 ## Hoofdstuk 18. Verdere bepalingen
