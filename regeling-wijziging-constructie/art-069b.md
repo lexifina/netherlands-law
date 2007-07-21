@@ -1,0 +1,6 @@
+# Artikel 69b
+Een bedrijfsauto moet voldoen aan de volgende eisen:
+a. van deugdelijke bouw en inrichting zijn;
+b. in overeenstemming zijn met de op het voor het voertuig afgegeven kentekenbewijs en in het kentekenregister omtrent het voertuig vermelde gegevens, met uitzondering van die betreffende de vermelding van de dubbele cabine;
+c. het identificatienummer moet op een vast voertuigdeel zijn ingeslagen en moet goed leesbaar zijn;
+d. het kenteken moet goed leesbaar zijn en de kentekenplaten mogen niet zijn afgeschermd.
