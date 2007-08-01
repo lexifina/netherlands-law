@@ -2,8 +2,8 @@
 ## Hoofdstuk I. Algemeen
 ### Titel 1. Definities, reikwijdte, aard bepalingen
 ### Titel 2. Doelstellingen onderwijs
-### Titel 3. Bekostigde instellingen voor educatie en beroepsonderwijs, alsmede agrarische innovatie- en praktijkcentra
-#### § 1. Instellingen en agrarische innovatie- en praktijkcentra
+### Titel 3. Bekostigde instellingen voor educatie en beroepsonderwijs
+#### § 1. Instellingen
 #### § 2. Taken
 #### § 3. Kwaliteitszorg
 #### § 4. Overige voorschriften
@@ -17,12 +17,11 @@
 ### Titel 2. Bekostiging beroepsonderwijs
 #### § 1. Bekostiging
 #### § 2
-#### § 3. Bekostiging agrarische innovatie- en praktijkcentra
 ### Titel 3. Rijksbijdrage ten behoeve van de educatie
 ### Titel 4. Bekostiging van kenniscentra beroepsonderwijs bedrijfsleven
 #### § 1. Bekostiging
 ### Titel 5. Begroting, verslaglegging en gegevensverstrekking
-#### § 1. Instellingen voor beroepsonderwijs en educatie, en agrarische innovatie- en praktijkcentra
+#### § 1. Instellingen voor beroepsonderwijs en educatie
 #### § 1a. Verantwoording educatiemiddelen
 #### § 2. Kenniscentra beroepsonderwijs bedrijfsleven
 ### TITEL 6. SCHOLENGEMEENSCHAP ROC OF AOC MET SCHOOL VOOR VOORTGEZET ONDERWIJS; VOORSCHRIFTEN T.A.V. VBO IN AOC
