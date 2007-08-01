@@ -1,5 +1,3 @@
-# Artikel 4c. Begin en einde van de verplichting tot geregeld schoolbezoek
-1. De jongere die als leerling van een instelling is ingeschreven is verplicht gedurende twee dagen per week het onderwijs geregeld te volgen. Indien de jongere een overeenkomst als bedoeld in artikel 7.2.8 van de Wet educatie en beroepsonderwijs heeft gesloten geldt de verplichting bedoeld in de eerste volzin voor één dag per week.
-2. De verplichting het onderwijs geregeld te volgen begint op de dag, waarop de jongere na inschrijving op die instelling kan plaatsnemen, en eindigt tegelijk met de verplichting van de in artikel 2, eerste lid, bedoelde personen om te zorgen, dat de jongere als leerling van een instelling is ingeschreven.
-3. Het onderwijs wordt geregeld gevolgd, zolang geen les of praktijktijd wordt verzuimd.
-4. Onze minister kan toestaan, dat jongeren onderwijs volgen in een door hem te bepalen aaneengesloten periode, indien zij tengevolge van de aard van hun beroep of van het bedrijf, waar zij werkzaam zijn, niet in staat zijn overeenkomstig het bepaalde in het eerste lid onderwijs te volgen.
+# Artikel 4c. De invulling van de verplichting tot geregeld schoolbezoek
+1. De jongere die als leerling of deelnemer van een school of instelling is ingeschreven op grond van artikel 4a, eerste lid, is verplicht het volledige onderwijsprogramma respectievelijk het volledige programma van de combinatie leren en werken te volgen dat door die school of instelling wordt aangeboden.
+2. De jongere voldoet aan de verplichting, bedoeld in artikel 4a, eerste lid, om de school of instelling na inschrijving geregeld te bezoeken, zolang hij geen les of praktijktijd verzuimt anders dan op een van de gronden, bedoeld in artikel 11.
