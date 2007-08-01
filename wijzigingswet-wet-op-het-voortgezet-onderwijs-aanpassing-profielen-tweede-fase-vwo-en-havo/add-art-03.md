@@ -1,0 +1,2 @@
+# Artikel III. Intrekking Wet van 2 juli 1997, Stb. 322, inzake profielen voortgezet onderwijs
+De Wet van 2 juli 1997 tot wijziging van de Wet op het voortgezet onderwijs, de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet educatie en beroepsonderwijs in verband met verbetering van de aansluiting van het voorbereidend wetenschappelijk onderwijs en het hoger algemeen voortgezet onderwijs op het hoger onderwijs (Stb.1997, 322) wordt ingetrokken.
