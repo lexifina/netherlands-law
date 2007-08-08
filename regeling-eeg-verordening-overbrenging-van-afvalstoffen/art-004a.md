@@ -1,3 +1,0 @@
-# Artikel 4a
-1. De kennisgever zendt de kennisgeving, bedoeld in de artikelen 3, eerste lid, 6, eerste lid en 15, eerste lid, van de EEG-verordening overbrenging van afvalstoffen, alsmede een afschrift van het in artikel 4, eerste lid, bedoelde contract, aan de Minister.
-2. De Minister zendt de kennisgeving, bedoeld in de artikelen 3, eerste lid, 6, eerste lid, en 15, eerste lid, van de EEG-verordening overbrenging van afvalstoffen, alsmede een afschrift van het in artikel 4, eerste lid, bedoelde contract, aan de bevoegde autoriteit van bestemming, met een afschrift aan de ontvanger en aan de bevoegde autoriteit van doorvoer.
