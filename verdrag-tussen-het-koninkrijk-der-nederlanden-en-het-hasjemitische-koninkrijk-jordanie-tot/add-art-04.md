@@ -1,0 +1,2 @@
+# IV. Ad Article 5, paragraph 5, subparagraph b
+With respect to paragraph 5 of Article 5 it is understood that where a person holds a stock of goods or merchandise belonging to an enterprise and also habitually canvasses for orders on behalf of that enterprise in Jordan, that enterprise shall be treated as having a permanent establishment in Jordan, notwithstanding that contracts of sale are formally concluded outside Jordan.

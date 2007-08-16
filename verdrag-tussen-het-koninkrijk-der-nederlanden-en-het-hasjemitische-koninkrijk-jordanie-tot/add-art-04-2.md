@@ -1,0 +1,2 @@
+# IV. Ad Artikel 5, vijfde lid
+Met betrekking tot artikel 5, vijfde lid, is het wel te verstaan dat, indien een persoon een voorraad goederen of koopwaar aanhoudt die tot een onderneming toebehoort en ook gewoonlijk voor die onderneming in Jordanië bestellingen verwerft, die onderneming wordt behandeld alsof zij een vaste inrichting in Jordanië heeft, niettegenstaande het feit dat verkoopcontracten formeel buiten Jordanië worden afgesloten.

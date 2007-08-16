@@ -1,0 +1,2 @@
+# V. Ad Artikelen 5 en 7
+Ook in de gevallen als bedoeld in artikel 5, tweede lid, onderdeel f, artikel 5, vijfde lid, onderdeel b, Protocol III Ad Artikel 5, vierde lid, onderdelen a en b en Protocol IV Ad Artikel 5, onderdeel b, worden de voordelen aan de vaste inrichting toegerekend alsof het hoofdkantoor en de vaste inrichting van de onderneming worden geëxploiteerd als onafhankelijke eenheden.

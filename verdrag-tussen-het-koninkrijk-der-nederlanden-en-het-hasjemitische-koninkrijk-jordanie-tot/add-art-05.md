@@ -1,0 +1,2 @@
+# V. Ad Articles 5 and 7
+Also in the cases of Article 5, paragraph 2, subparagraph f, Article 5, paragraph 5, subparagraph b, Protocol III Ad Article 5, paragraph 4, subparagraphs a and b and Protocol IV Ad Article 5, paragraph 5, subparagraph b, the profits of the permanent establishment shall be allocated as if the head office and the permanent establishment of the enterprise were operating as independent entities.
