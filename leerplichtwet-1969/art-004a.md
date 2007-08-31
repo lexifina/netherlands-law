@@ -1,5 +1,5 @@
 # Artikel 4a. Inschrijving
-1. De in artikel 2, eerste lid, bedoelde personen zijn verplicht te zorgen dat de jongere overeenkomstig de bepalingen van deze paragraaf is ingeschreven als leerling of deelnemer bij een school of instelling die volledig dagonderwijs dan wel een bij de wet geregelde combinatie van leren en werken verzorgt en dat hij deze school of instelling na inschrijving geregeld bezoekt, als:
+1. De in artikel 2, eerste lid, bedoelde personen zijn verplicht te zorgen dat de jongere overeenkomstig de bepalingen van deze paragraaf staat ingeschreven als leerling of deelnemer bij een school of instelling die volledig dagonderwijs dan wel een bij de wet geregelde combinatie van leren en werken verzorgt en dat hij deze school of instelling na inschrijving geregeld bezoekt, als:
 a. ten aanzien van de jongere de leerplicht, bedoeld in paragraaf 2 van deze wet is geëindigd, en
 b. de jongere geen startkwalificatie heeft behaald.
 2. De verplichting, bedoeld in het eerste lid, geldt niet ten aanzien van jongeren die in het bezit zijn van een getuigschrift of een schooldiploma praktijkonderwijs als bedoeld in artikel 29a van de Wet op het voortgezet onderwijs en jongeren die een school voor speciaal onderwijs of voortgezet speciaal onderwijs hebben bezocht als bedoeld in artikel 2, tweede lid, onder j en n, van de Wet op de expertisecentra.

@@ -1,3 +1,3 @@
 # Artikel 4c. De invulling van de verplichting tot geregeld schoolbezoek
-1. De jongere die als leerling of deelnemer van een school of instelling is ingeschreven op grond van artikel 4a, eerste lid, is verplicht het volledige onderwijsprogramma respectievelijk het volledige programma van de combinatie leren en werken te volgen dat door die school of instelling wordt aangeboden.
+1. De jongere die als leerling of deelnemer van een school of instelling staat ingeschreven op grond van artikel 4a, eerste lid, is verplicht het volledige onderwijsprogramma respectievelijk het volledige programma van de combinatie leren en werken te volgen dat door die school of instelling wordt aangeboden.
 2. De jongere voldoet aan de verplichting, bedoeld in artikel 4a, eerste lid, om de school of instelling na inschrijving geregeld te bezoeken, zolang hij geen les of praktijktijd verzuimt anders dan op een van de gronden, bedoeld in artikel 11.
