@@ -1,3 +1,0 @@
-# Artikel 15a
-1. Als vergoeding van de kosten voor uitvoeren van laboratoriumonderzoek ten behoeve van het afgeven van een verklaring als bedoeld in artikel 2, onderdeel b, of artikel 3, tweede lid, onderdeel b, van de Regeling tijdelijke maatregel PSTVd wordt de natuurlijke persoon of de rechtspersoon die een melding doet als bedoeld in artikel 2, onderdeel b, of artikel 3, tweede lid, onderdeel b, van de Regeling tijdelijke maatregel PSTVd € 375,00 in rekening gebracht.
-2. Voor de vergoeding van de kosten voor het verrichten van werkzaamheden ten behoeve van het afgeven van een verklaring als bedoeld in artikel 3, tweede lid, onderdeel b, van de Regeling tijdelijke maatregel PSTVd is artikel 2 van overeenkomstige toepassing.
