@@ -1,0 +1,4 @@
+# Artikel 399c
+1. Een beding waarin een verpachter, indien de grondkamer onderscheidenlijk de Centrale Grondkamer de pachtovereenkomst of een overeenkomst tot wijziging van een pachtovereenkomst heeft vastgesteld, een hogere tegenprestatie bedingt dan ingevolge deze wet is geoorloofd, is nietig. Onder de tegenprestatie worden prestaties, bedongen of genoten krachtens andere met de pachtovereenkomst verband houdende overeenkomsten, mede begrepen.
+2. Een beding in een overeenkomst tussen een afgaande en een opgaande pachter, verband houdende met de overgang van het bedrijf, waarin meer is bedongen dan een redelijke vergoeding voor de verrichte prestatie, is nietig.
+3. Een beding in een overeenkomst van het verlenen van bemiddeling of andere diensten bij het sluiten van een pachtovereenkomst of van een overeenkomst tot wijziging of beëindiging van een pachtovereenkomst waarin meer is bedongen dan een redelijke vergoeding, is nietig.
