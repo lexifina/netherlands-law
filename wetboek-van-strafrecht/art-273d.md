@@ -4,4 +4,4 @@ a. die opzettelijk en wederrechtelijk van gegevens kennisneemt die door tussenko
 b. die de beschikking heeft over een voorwerp waaraan, naar hij weet of redelijkerwijs moet vermoeden, een gegeven kan worden ontleend, dat door wederrechtelijk overnemen, aftappen of opnemen van zodanige gegevens is verkregen;
 c. die opzettelijk en wederrechtelijk de inhoud van zodanige gegevens aan een ander bekendmaakt;
 d. die opzettelijk en wederrechtelijk een voorwerp waaraan een gegeven omtrent de inhoud van zodanige gegevens kan worden ontleend, ter beschikking stelt van een ander.
-2. [Dit lid is nog niet in werking getreden.]
+2. Het eerste lid is van overeenkomstige toepassing op de persoon werkzaam bij een aanbieder van een niet-openbaar telecommunicatienetwerk of een niet-openbare telecommunicatiedienst.
