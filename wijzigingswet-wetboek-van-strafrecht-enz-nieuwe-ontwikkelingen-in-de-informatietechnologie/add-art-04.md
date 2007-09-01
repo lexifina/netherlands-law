@@ -1,0 +1,2 @@
+# Artikel IV
+Een bevel aan een opsporingsambtenaar tot het door tussenkomst van een openbaar telecommunicatienetwerk afnemen van een bepaald persoon van gegevens die zijn opgeslagen, worden verwerkt of overgedragen door middel van een geautomatiseerd werk, welk bevel is uitgevaardigd voorafgaand aan het tijdstip van inwerkingtreding van deze wet, geldt als een bevel als bedoeld in de artikelen 126i, eerste lid, onderdeel b, en 126q, eerste lid, onderdeel b, van het Wetboek van Strafvordering, indien het aan de in het toepasselijke artikel gestelde eisen voldoet.
