@@ -142,6 +142,7 @@
 ### Titel 13. Van rechtspleging in zaken betreffende de teruggave van cultuurgoederen
 ### Titel 14. Van rechtspleging in zaken betreffende de verbindendverklaring van overeenkomsten strekkende tot collectieve schadeafwikkeling
 ### Titel 15. Van rechtspleging in zaken betreffende rechten van intellectuele eigendom
+### Titel 16. Van rechtspleging in pachtzaken
 ## Boek Vierde. Arbitrage
 ### titel Eerste. Arbitrage in Nederland
 #### afdeling Eerste. De overeenkomst tot arbitrage en de benoeming tot arbiter

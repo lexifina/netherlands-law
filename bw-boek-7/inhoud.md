@@ -30,6 +30,25 @@
 ##### Onderafdeling 3. Medehuur en voortzetting van de huur
 ##### Onderafdeling 4. Het eindigen van de huur
 #### Afdeling 6. Huur van bedrijfsruimte
+### Titel 5. Pacht
+#### Afdeling 1. Algemene bepalingen
+#### Afdeling 2. Vorm van de pachtovereenkomst
+#### Afdeling 3. Goedkeuring van de pachtovereenkomst
+#### Afdeling 4. Duur van de pachtovereenkomst
+#### Afdeling 5. Pachtprijs
+#### Afdeling 6. Verplichtingen van de verpachter
+#### Afdeling 7. Verplichtingen van de pachter
+#### Afdeling 8. Overgang van de pacht bij overdracht van de verpachte zaken
+#### Afdeling 9. Pachtoverneming
+#### Afdeling 10. Het eindigen van de pachtovereenkomst
+#### Afdeling 11. Het voorkeursrecht van de pachter
+#### Afdeling 12. Bijzondere pachtovereenkomsten
+##### Paragraaf 1. Verpachting door openbare lichamen
+##### Paragraaf 2. Verpachting binnen reservaten
+##### Paragraaf 3. Pacht van geringe oppervlakten
+##### Paragraaf 4. Teeltpacht en geliberaliseerde pacht
+#### Afdeling 13. Dwingend recht
+#### Afdeling 14. Slotbepalingen
 ### Titel 7. Opdracht
 #### Afdeling 1. Opdracht in het algemeen
 #### Afdeling 2. Lastgeving
