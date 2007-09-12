@@ -1,0 +1,2 @@
+# Artikel 21a
+Bij de voorbereiding van een regionaal structuurplan pleegt het dagelijks bestuur overleg met de besturen van bij het plan betrokken waterschappen. Waar nodig pleegt het tevens overleg met de besturen van de gemeenten of samenwerkingsgebieden wier belangen rechtstreeks in het geding zijn, met die diensten van Rijk en provincie die betrokken zijn bij de zorg voor de ruimtelijke ordening alsmede met die diensten van Rijk en provincie die belast zijn met de behartiging van belangen die in het plan in geding zijn.

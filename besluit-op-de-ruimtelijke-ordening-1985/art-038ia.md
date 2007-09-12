@@ -1,0 +1,2 @@
+# Artikel 38ia
+Indien de subsidie-ontvanger een gemeente, provincie of een regionaal openbaar lichaam op grond van artikel 104 van de Wet gemeenschappelijke regelingen is, wordt een subsidievaststelling aangevraagd in het jaar na de voltooiing van de activiteit, door de verantwoordingsinformatie aan Onze Minister te verstrekken, op de wijze, bedoeld in artikel 27 van het Besluit financiële verhouding 2001.
