@@ -1,2 +1,0 @@
-# Artikel 2c
-Voor de toetsing van het halfjaarlijks praktijkverslag, als bedoeld in artikel 10, van het Examenbesluit Accountants-Administratieconsulenten 1994, is een examengeld verschuldigd van € 45 behoudens het eindgesprek, hiervoor is een examengeld verschuldigd van € 225. Als de kandidaat het praktijkgedeelte van het examen bij een door het Examenbureau AA erkend Stagebureau volgt, is hij het examengeld van € 45 niet verschuldigd.
