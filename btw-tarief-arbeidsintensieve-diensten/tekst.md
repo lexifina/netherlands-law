@@ -1,9 +1,0 @@
-# Tekst
-De plv. Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
-## Vraag
-Een woningbouwvereniging geeft opdracht tot het laten reinigen (stoomcleanen), impregneren en injecteren van de muren van woningen alsmede tot het herstellen van de voegen van de muren van die woningen. Het impregneren van de muren heeft ten doel te voorkomen dat de muren vocht doorlaten. Het impregneermiddel wordt aangebracht met een lagedrukspuit, maar kan ook met een kwast of een roller worden aangebracht.
-Kunnen de vermelde prestaties worden gerangschikt onder het verlaagde BTW-tarief op grond van het Besluit van 1 februari 2000, nr. VB1999/194M, Infobulletinpublicatie nr. 2000/130 (het besluit)?
-## Antwoord
-1. Werkzaamheden als het injecteren van muren en het herstellen van voegen van muren zijn niet aan te merken als 'schilderwerk', dat wil zeggen dat die werkzaamheden noch kunnen worden beschouwd als voorbereidings- en voorbehandelingswerkzaamheden bij schilderwerk, noch als eigenlijk schilderwerk. Ook kunnen die werkzaamheden niet worden gerangschikt onder enige andere vorm van arbeidsintensieve dienstverlening als bedoeld in het besluit. Met betrekking tot het verrichten van de onderhavige werkzaamheden is het algemene BTW-tarief van toepassing.
-2. Het reinigen van muren kan uitsluitend worden gerangschikt onder het verlaagde BTW-tarief ingeval die prestatie een voorbereidings- of voorbehandelingswerkzaamheid is voor het eigenlijke schilderwerk. In het onderhavige geval is daarvan geen sprake, zodat het verlaagde BTW-tarief niet van toepassing is.
-3. Het impregneren van de muren is, nu die activiteit niet wordt gevolgd door het verwerken en aanbrengen van lakverf, structuurverf, vernis, beits e.d., niet aan te merken als eigenlijk schilderwerk. Het verlaagde BTW-tarief is niet van toepassing.
