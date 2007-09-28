@@ -1,3 +1,0 @@
-# Artikel 2a
-1. Een ieder die groenten en fruit verhandelt vermeldt op de facturen en de begeleidende documenten de kwaliteitsklasse, het land van oorsprong en indien van toepassing de industriële bestemming van het product. Deze verplichting geldt niet voor de verkoop in de detailhandel aan de consument.
-2. De verpakkers van producten bestemd voor industriële verwerking brengen duidelijk zichtbaar op de verpakking een etiket aan met de vermelding "bestemd voor industriële verwerking" of een andere vermelding van dezelfde strekking. In het geval van onverpakte goederen die rechtstreeks op een vervoermiddel worden geladen, wordt deze vermelding aangegeven op een notitie die de zending vergezelt of die op een zichtbare plaats in het vervoermiddel is aangebracht.
