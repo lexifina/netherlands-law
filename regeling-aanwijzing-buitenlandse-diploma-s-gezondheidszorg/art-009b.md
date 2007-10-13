@@ -1,4 +1,0 @@
-# Artikel 9b
-Als bewijs van verworven vakbekwaamheid als bedoeld in de artikelen 2, 3, 4, 6 en 7 gelden tevens diploma's, certificaten en andere titels van arts, tandarts, apotheker, verloskundige en ziekenverpleger die voor 25 juni 1991 zijn afgegeven door Joegoslavië, of ter verwerving waarvan de opleiding vóór die datum in dat land is begonnen, indien:
-– de Sloveense autoriteiten verklaren, dat die titels, wat betreft de toegang tot en de uitoefening van het betreffende beroep, op Sloveens grondgebied dezelfde rechtsgeldigheid hebben als de Sloveense titels van arts, tandarts, apotheker, verloskundige en ziekenverpleger; en
-– de Sloveense autoriteiten een verklaring afgeven waaruit blijkt dat die onderdanen tijdens de vijf aan de afgifte van de verklaring voorafgaande jaren de bedoelde werkzaamheden gedurende tenminste drie opeenvolgende jaren daadwerkelijk en op rechtmatige wijze op het grondgebied van Slovenië hebben verricht.
