@@ -1,5 +1,0 @@
-# Artikel 25a
-1. Artikel 3, tweede lid, onderdeel a, is niet van toepassing op biociden die werkzame stoffen bevatten die op 13 mei 2000 nog niet eerder werden afgeleverd en die niet bij de in dat artikelonderdeel bedoelde communautaire maatregel zijn aangewezen, mits voldaan is aan de regelen, bedoeld in de artikelen 3, eerste lid, onderdelen a, b en d; 3a en 4a, tweede lid, tweede zin.
-2. In geval van een toelating dan wel registratie waarbij toepassing is gegeven aan het eerste lid, geldt deze voor een termijn van ten hoogste drie jaren. Indien de termijn van toelating dan wel registratie korter is dan drie jaren, kan deze een of meerdere malen worden verlengd met dien verstande, dat de totale duur van de termijn niet langer zal zijn dan drie jaren.
-3. Het college kan een toelating dan wel registratie waarbij toepassing is gegeven aan het eerste lid intrekken. Artikel 7 is van overeenkomstige toepassing op een zodanige intrekking.
-4. In afwijking van het bepaalde in het tweede lid kan ter uitvoering van een communautaire maatregel, de termijn van drie jaren met ten hoogste een jaar worden verlengd.

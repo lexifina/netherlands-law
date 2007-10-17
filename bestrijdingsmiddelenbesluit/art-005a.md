@@ -1,3 +1,0 @@
-# Artikel 5a
-1. Het is verboden bestrijdingsmiddelen waarvan de verpakking ingevolge de voorschriften, gegeven krachtens de artikelen 3, tweede lid, onder b, 5, derde lid, en 9, derde lid, van de wet, voorzien moet zijn van een afbeelding van een doodshoofd, te gebruiken in volkstuinen en particuliere tuinen, wegbermen, kampeerplaatsen als bedoeld in artikel 1, eerste lid, van de Kampeerwet (Stb. 1981, 372), voor het publiek toegankelijke natuurgebieden, bossen, parken en plantsoenen, alsmede andere plaatsen waar derden ongewild met deze middelen in aanraking kunnen komen.
-2. Onze betrokken Minister kan in bijzondere gevallen op een daartoe strekkend verzoek van het in het eerste lid neergelegde verbod ontheffing verlenen.
