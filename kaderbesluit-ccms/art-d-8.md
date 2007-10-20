@@ -1,0 +1,2 @@
+# Artikel D.8. Aanvraag beoordelingsstage
+De arts dient tijdig voorafgaand aan de aanvang van de beoordelingsstage bij de MSRC een aanvraag in, vergezeld met de gegevens en bescheiden als genoemd in artikel D.4., eerste lid. De arts verschaft de MSRC de gegevens en bescheiden die de MSRC voor de beoordeling van de aanvraag nodig acht en waarover de arts redelijkerwijs de beschikking kan krijgen. De beoordelingsstage kan eerst aanvangen nadat de MSRC hiervoor toestemming heeft gegeven.

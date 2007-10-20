@@ -1,0 +1,2 @@
+# Artikel D.14. Beheersing Nederlandse taal
+Inschrijving in het register, bedoeld in de artikelen D.1. onder d, alsmede de aanvang van de beoordelingsstage, bedoeld in artikel D.4., vierde lid, kan eerst geschieden nadat de arts op een door de MSRC aangegeven wijze heeft aangetoond een zodanige kennis van de Nederlandse taal in woord en geschrift alsmede voldoende luistervaardigheid te hebben verworven, dat een goede communicatie met patiënten, collegae en andere werkers in de gezondheidszorg gewaarborgd is

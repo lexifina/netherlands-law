@@ -1,0 +1,46 @@
+# Artikel A.1. Begripsomschrijvingen
+In dit besluit wordt verstaan onder:
+a. afdeling: onderdeel van een inrichting;
+b. aios: arts(en) in opleiding tot (medisch) specialist;
+c. algemene competentie: competentie die voor ieder specialisme van toepassing is, zoals neergelegd in artikel B.2, derde lid;
+d. AVGIO-commissie: vertegenwoordiging van artsen voor verstandelijk gehandicapten in opleiding;
+e. Beoordelingsstage: een stage in een opleidingsinrichting voor een arts die buiten Nederland een specialisatie met goed gevolg heeft afgerond waarbij de kennis en beroepsuitoefening getoetst wordt op gelijkwaardigheid aan het eindniveau van de Nederlandse opleiding voor het betreffende medisch specialisme;
+f. bestuurlijke eenheid: eenheid die wordt gevormd doordat de instelling wordt geleid door één Raad van Bestuur, centrale directie, bestuursraad of bestuur;
+g. centrale opleidingscommissie: een in iedere opleidingsinrichting aanwezig overlegorgaan ter handhaving en bevordering van een optimaal opleidingsklimaat;
+h. co-assistent: de student in opleiding tot arts die het klinisch gedeelte van de opleiding volgt;
+i. competentie: een getoonde bekwaamheid of gedragsrepertoire waaruit blijkt dat kennis, vaardigheden, attitude, eigenschappen en inzichten in het handelen zijn geïntegreerd;
+j. CvG: de Commissie voor Geschillen;
+k. dagdeel: een aaneengesloten periode overdag van vier uur;
+l. deskundigheidsbevordering: het geheel van activiteiten dat er op is gericht de kwaliteit van de eigen beroepsuitoefening te handhaven op het eindniveau van de vigerende opleiding en deze te verdiepen en verbreden in afstemming op de eisen van de eigen beroepspraktijk door geaccrediteerde bij- en nascholing;
+m. EER: Europees Economische Ruimte;
+n. geaccrediteerde bij- en nascholing: waardering van de betreffende wetenschappelijke medisch specialistenvereniging van de kwaliteit en de onafhankelijkheid van bij- en nascholingsactiviteiten, die kwantitatief tot uitdrukking wordt gebracht in het aantal toe te kennen accreditatieuren;
+o. gedeelte van de opleiding: een in tijd en inhoud omschreven onderdeel van de opleiding in een medisch specialisme;
+p. inrichting: een, al dan niet over meerdere locaties verspreide, bestuurlijk samenhangende instelling waar medisch specialisten werkzaam zijn en waar een of meer medisch specialismen uitgeoefend worden;
+q. klinisch wetenschappelijk onderzoek: in een kliniek of onder verantwoordelijkheid van een kliniek uitgevoerd onderzoek, begeleid door een als zodanig opgeleide onderzoeker werkzaam bij een universiteit of instelling die mede het uitvoeren van wetenschappelijk onderzoek in haar missie heeft opgenomen;
+r. kwaliteitsvisitatie: visitatie uitgevoerd door een wetenschappelijke medisch specialisten vereniging van een individuele specialist of de afdeling waar deze werkzaam is ter bevordering van de kwaliteit van de zorg;
+s. mediator: persoon die het proces bij conflictbemiddeling begeleidt en als mediator geregistreerd is bij het Nederlands Mediation Instituut;
+t. medisch specialisme: een deelgebied van de geneeskunde dat door het CCMS als zodanig is aangewezen;
+u. medisch specialistische kennis en ervaring verkregen buiten het kader van de opleiding: kennis en ervaring in een erkend medisch specialisme, welke in Nederland na het artsexamen en buiten de opleiding tot medisch specialist in een opleidingsinrichting is verkregen;
+v. onderzoeksbegeleider: begeleider van een klinisch wetenschappelijk onderzoeksproject;
+w. opleider: een door de MSRC voor de opleiding erkende medisch specialist onder wiens verantwoordelijkheid de gehele opleiding of een gedeelte van de opleiding tot medisch specialist plaatsvindt;
+x. opleiding: de opleiding of gedeelte van de opleiding in Nederland tot medisch specialist;
+y. opleidingsgroep: het samenwerkingsverband van de medisch specialisten, inclusief de opleider en plaatsvervangend opleider, van een opleidingsinrichting betrokken bij de opleiding van het desbetreffende specialisme;
+z. opleidingsinrichting: een inrichting in Nederland die door de MSRC voor het verzorgen van één of meer opleidingen tot medisch specialist is erkend en waar de gehele of een gedeelte van de opleiding plaatsvindt;
+aa. opleidingsregister: een register van aios;
+bb. patiëntgebonden zorg: de zorgverlening die bestaat uit de componenten klinische werkzaamheid, poliklinische werkzaamheid, consultatieve activiteiten, patiëntgebonden opleidingsactiviteiten en patiëntenbesprekingen;
+cc. plaatsvervangend opleider: de opleider die als zodanig op voordracht van de opleider en de opleidingsinrichting door de MSRC is aangewezen en die voor een bepaalde periode in de rechten en plichten van de opleider kan treden;
+dd. plenaire visitatiecommissie: een per specialisme door de MSRC ingestelde adviescommissie;
+ee. portfolio: een verzameling van documenten waarin de verplichtingen voortvloeiende uit dit besluit en de specifieke besluiten worden bijgehouden, waaruit de voortgang van de opleiding en de zelfreflectie van de aios blijken, met ten minste de documenten ten behoeve van de beoordeling van de aios, de gehouden voordrachten en referaten, de gepubliceerde artikelen, de gevolgde cursussen en de uitgevoerde verrichtingen;
+ff. Richtlijn 2005/36/EG: Richtlijn 2005/36/EG van het Europees Parlement en de Raad van 7 september 2005 betreffende de erkenning van beroepskwalificaties (Pb Nr. L 255 van 30/09/2005 blz. 0022 - 0142);
+gg. samengestelde opleiding: een opleiding die bestaat uit een vooropleiding in een ander medisch specialisme dan het eigenlijk gekozen medisch specialisme gevolgd door een vervolgopleiding in het eigenlijk gekozen medisch specialisme;
+hh. specifiek besluit: besluit van het CCMS dat zij ter uitvoering van de taken, bedoeld in artikel 12, eerste lid, van de Regeling per specialisme vaststelt;
+ii. stage: een gedeelte van de opleiding dat wordt gevolgd bij een opleidingsinrichting en dat in specifieke besluiten is omschreven wat betreft duur, inhoud en verplichte of facultatieve status;
+jj. stage-eisen: eisen met betrekking tot de duur en de inhoud van de stage;
+kk. stageopleider: de opleider die een stage als onderdeel van de opleiding in een medisch specialisme verzorgt;
+ll. taaltest: de onder auspiciën van de MSRC af te nemen taaltest Nederlands, zoals beschreven in hoofdstuk D, titel II, paragraaf II-D van dit besluit;
+mm. visitatie: een vorm van onderzoek naar het functioneren van de opleider, de plaatsvervangend opleider, de stageopleider, de inrichting of de opleidingsinrichting, op locatie met als doel een zo objectief mogelijk oordeel te verkrijgen of aan de eisen of verplichtingen voor erkenning is voldaan;
+nn. visitatieprogramma: een onderzoek om de opleidingsinrichting of de opleider op basis van de besluiten van het CCMS te toetsen;
+oo. visitatierapport: de op de daarvoor bestemde formulieren over een visitatie uitgebrachte rapportage en de eventueel daarbij gevoegde bescheiden;
+pp. volledige werkweek: een volledige werkweek zoals bepaald in de CAO ziekenhuizen, de CAO GGZ en de CAO academische ziekenhuizen alsmede de Arbeidsvoorwaardenregeling Medisch Specialisten (AMS) en de Honoreringsregeling Academisch Medisch Specialisten (HAMS). Voor aios geldt de hiervoor omschreven werkweek, met daarbij opgeteld het aantal in voornoemde CAO's genoemde opleidingsuren per week (zogenaamde normatieve werkweek);
+qq. vrijstelling: de ontheffing van de verplichting deel te nemen aan een gedeelte van de opleiding met als gevolg feitelijke bekorting van de opleidingsduur;
+rr. waarnemer: een medisch specialist die is ingeschreven in hetzelfde register als de opleider en de opleider gedurende een bepaalde periode waarneemt.

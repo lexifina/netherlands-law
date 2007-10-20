@@ -1,0 +1,5 @@
+# Artikel B.24. Met voorafgaande toestemming MSRC
+1. De aios die een gedeelte van de opleiding tot medisch specialist buiten Nederland wenst te volgen en die deze periode geheel of gedeeltelijk wil laten meetellen voor de in Nederland reeds gevolgde of nog te volgen opleiding, dient hiertoe vooraf de toestemming van de MSRC te verkrijgen.
+2. De aios dient in het geval, bedoeld in het eerste lid, bij de MSRC een schriftelijke aanvraag in, waarin in elk geval is vermeld in welke inrichting buiten Nederland, bij welke specialist en gedurende welke periode hij zal worden opgeleid. De aios verschaft de MSRC de gegevens en bescheiden die de MSRC voor de beoordeling van de aanvraag nodig acht en waarover hij redelijkerwijs de beschikking kan krijgen.
+3. De plenaire visitatiecommissie van de betrokken wetenschappelijke medisch specialisten vereniging en de opleider in Nederland dienen schriftelijk met de aanvraag in te stemmen.
+4. Indien de MSRC de gevraagde toestemming verleent, vermeldt zij gedurende welke periode de opleiding buiten Nederland zal worden gevolgd en tevens voor welke tijdsduur deze periode als opleiding in Nederland zal worden aangemerkt.

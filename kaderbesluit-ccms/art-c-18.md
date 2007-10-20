@@ -1,0 +1,4 @@
+# Artikel C.18. Aanvraag erkenning
+1. De aanvraag tot erkenning tot opleider, plaatsvervangend opleider, stageopleider of opleidingsinrichting wordt door de betreffende medisch specialist respectievelijk inrichting, bij de MSRC ingediend op een door de MSRC verstrekt aanvraagformulier onder overlegging van documenten waaruit blijkt dat aan de eisen en verplichtingen van dit besluit en de specifieke besluiten wordt voldaan.
+2. De aanvraag voor erkenning tot opleider, plaatsvervangend opleider of stageopleider en de aanvraag voor erkenning van de inrichting tot opleidingsinrichting worden gelijktijdig bij de MSRC ingediend, tenzij de inrichting al is erkend.
+3. Tenminste drie maanden voor het verstrijken van de termijn waarvoor de erkenning is verleend wordt door de betreffende opleider, plaatsvervangend opleider, stageopleider of opleidingsinrichting een schriftelijke aanvraag voor het opnieuw verlenen van de erkenning bij de MSRC ingediend.

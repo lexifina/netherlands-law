@@ -1,0 +1,2 @@
+# Artikel D.9. Toestemming MSRC
+In het kader van het verlenen van toestemming voor de aanvang van de beoordelingsstage gaat de MSRC na of de arts voldoet aan de in artikel D.4., eerste lid, genoemde eisen. Indien de MSRC tot de vaststelling komt dat op verantwoorde wijze met de beoordelingsstage kan worden gestart, verleent de MSRC toestemming voor het volgen van de beoordelingsstage. In het geval de MSRC de arts toestemming verleent de beoordelingsstage aan te vangen, bepaalt de MSRC tevens conform artikel D.11., de tijdsduur hiervan.

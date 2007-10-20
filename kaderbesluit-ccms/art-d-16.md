@@ -1,0 +1,2 @@
+# Artikel D.16. Inhoud individueel scholingsprogramma
+De opleider stelt het individueel scholingsprogramma, bedoeld in artikel D.15. op. Bij het opstellen van het individueel scholingsprogramma houdt de opleider rekening met de uitgangssituatie van de betreffende arts of medisch specialist en maakt daartoe gebruik van de voor de betreffende opleiding geldende toetsmethoden. Nadat de opleider het individueel scholingsprogramma heeft opgesteld vraagt hij ter zake goedkeuring aan de MSRC.
