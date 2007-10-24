@@ -47,6 +47,7 @@
 ### Titel 8.3. Regels met betrekking tot gesloten stortplaatsen
 ## Hoofdstuk 9. Stoffen en produkten
 ### Titel 9.3. De EG-verordening registratie, evaluatie en autorisatie van chemische stoffen
+### Titel 9.4. De EG-richtlijn ecologisch ontwerp energieverbruikende producten
 ## Hoofdstuk 10. Afvalstoffen
 ### Titel 10.1. Algemeen
 ### Titel 10.2. Het afvalbeheersplan
