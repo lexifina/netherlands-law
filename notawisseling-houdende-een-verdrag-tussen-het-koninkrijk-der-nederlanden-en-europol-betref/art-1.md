@@ -1,0 +1,6 @@
+# 1.. Use of terms
+For the purpose of this Agreement:
+a) "the parties" means the European Police Office and the host State;
+b) "the Organisation" means the European Police Office;
+c) "the host State" means the Kingdom of the Netherlands;
+d) "the Vienna Convention" means the Vienna Convention on Diplomatic Relations of 18 April 1961.
