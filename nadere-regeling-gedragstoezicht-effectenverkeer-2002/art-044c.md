@@ -1,5 +1,0 @@
-# Artikel 44c. Regeling privé effectentransacties
-1. De financiële marktpartij voert een reglement in dat voldoet aan de regels in bijlage 3a, houdende een gedragscode voor privé effectentransacties van aan de financiële marktpartij verbonden personen die direct of indirect bij effectentransacties van de financiële marktpartij zijn betrokken dan wel anderszins uit hoofde van hun functie of positie over koersgevoelige informatie beschikken of kunnen beschikken.
-2. De financiële marktpartij bindt tenminste de onder het eerste lid bedoelde personen aan de in het eerste lid bedoelde gedragscode door middel van een schriftelijke overeenkomst.
-3. De financiële marktpartij voorziet tenminste in de aanwijzing van een interne toezichthouder als bedoeld in bijlage 3a ten behoeve van de controle op de naleving van de gedragscode.
-4. De financiële marktpartij komt met iedere persoon als bedoeld in het eerste lid overeen dat de schriftelijke overeenkomst als bedoeld in het tweede lid blijft gelden tot zes maanden nadat de persoon niet meer aan de financiële marktpartij is verbonden.
