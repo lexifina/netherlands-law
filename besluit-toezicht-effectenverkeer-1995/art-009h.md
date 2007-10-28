@@ -1,6 +1,0 @@
-# Artikel 9h
-1. Een vast bod is gericht tot alle rechthebbenden van de uitstaande effecten waarop het bod betrekking heeft, behoudens de bevoegdheid van de bieder om daarvan uit te sluiten effecten, die ten tijde van het uitbrengen van het bod nog niet waren uitgegeven of waarvan op dat tijdstip de uitgifte nog niet bekend was gemaakt, noch ter kennis van de bieder was gebracht.
-2. Aan alle rechthebbenden van dezelfde soort effecten wordt hetzelfde bod gedaan.
-3. De bieder treft een regeling met betrekking tot de levering en betaling van de aangeboden effecten, welke regeling voldoet aan door de toezichthoudende autoriteit te stellen regels.
-4. De bieder heeft de bevoegdheid het bod gestand te doen indien effecten tot een geringer bedrag of aantal zijn aangemeld, dan het bedrag of aantal van welker aanbieding hij binnen de aanmeldingstermijn zijn verplichting tot gestanddoening van het bod afhankelijk stelt.
-5. Indien de bieder het bod gestand doet, betaalt de bieder steeds voor alle ingevolge dat bod aangemelde effecten van enige soort waarop dat bod betrekking heeft een vergoeding welke overeenkomt met de hoogste door hem betaalde vergoeding in verband met transacties als bedoeld in artikel 9b, derde lid, met uitzondering van in regelmatig beursverkeer tot stand gekomen transacties.
