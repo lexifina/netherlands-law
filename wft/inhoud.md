@@ -258,6 +258,11 @@
 ##### § 5.4.2.2. Openbaarmakings- en meldingsverplichtingen
 ##### § 5.4.2.3. Aanvullende toezichtbevoegdheden
 #### Afdeling 5.4.3. Optreden op markten in financiële instrumenten
+### Hoofdstuk 5.5. Openbaar bod op effecten
+#### Afdeling 5.5.1. Regels omtrent verplichte biedingen
+#### Afdeling 5.5.2. Uitbrengen van een openbaar bod en de bevoegdheid tot goedkeuren van een biedingsbericht
+#### Afdeling 5.5.3. Voorschriften indien de Autoriteit Financiële Markten bevoegd is het biedingsbericht goed te keuren
+#### Afdeling 5.5.4. Aanvullende voorschriften, vrijstelling en ontheffing
 ### Hoofdstuk 5.6. Regels over het toepassen van een gedragscode door institutionele beleggers
 ## 6. Deel Toezicht infrastructuur financiële markten
 ## 7. Deel Slotbepalingen

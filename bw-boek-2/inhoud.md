@@ -33,6 +33,7 @@
 ### Titel 8. Geschillenregeling en het recht van enquête
 #### Afdeling 1. Geschillenregeling
 #### Afdeling 2. Het recht van enquête
+#### Afdeling 3. Het openbaar bod
 ### Titel 9. De jaarrekening en het jaarverslag
 #### Afdeling 1. Algemene bepaling
 #### Afdeling 2. Algemene bepalingen omtrent de jaarrekening

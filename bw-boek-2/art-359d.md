@@ -1,0 +1,8 @@
+# Artikel 359d
+1. Tegen degene die een openbaar bod heeft uitgebracht en als aandeelhouder voor eigen rekening ten minste 95% van het geplaatste kapitaal van de doelvennootschap verschaft alsmede ten minste 95% van de stemrechten van de doelvennootschap vertegenwoordigt, kan door een andere aandeelhouder een vordering worden ingesteld tot overneming van de aandelen van de andere aandeelhouder. Hetzelfde geldt, indien twee of meer groepsmaatschappijen dit deel van het geplaatste kapitaal samen verschaffen en dit deel van de stemrechten samen vertegenwoordigen en een van hen het openbaar bod heeft uitgebracht.
+2. Zijn er verschillende soorten aandelen dan kan de vordering worden ingesteld ten aanzien van de soort waarvan degene die een openbaar bod heeft uitgebracht alleen of samen met groepsmaatschappijen ten minste 95% van het geplaatste kapitaal verschaft en 95% van de stemrechten vertegenwoordigt.
+3. De vordering moet binnen drie maanden na afloop van de termijn voor aanvaarding van het bod worden ingesteld.
+4. Over de vordering oordeelt in eerste aanleg de ondernemingskamer van het gerechtshof te Amsterdam. Van de uitspraak staat uitsluitend beroep in cassatie open.
+5. Indien tegen een of meer gedaagden verstek is verleend, moet de rechter ambtshalve onderzoeken of de gedaagden de vereisten van lid 1 onderscheidenlijk lid 2 vervullen.
+6. Staat het bevel tot overneming bij gerechtelijk gewijsde vast, dan deelt de overnemer de dag en plaats van betaalbaarstelling van de prijs schriftelijk mee aan de houders van de over te nemen aandelen.
+7. Artikel 359c, leden 6, 7 en 9, is van overeenkomstige toepassing.
