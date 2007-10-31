@@ -1,3 +1,0 @@
-# Artikel I
-1. Elke kennisgeving en elke toezending van stukken geschiedt door de secretaris van de grondkamer en door de griffier van de Centrale Grondkamer bij gewone brief.
-2. In afwijking van het bepaalde in het eerste lid geschiedt de verzending van beschikkingen van de grondkamer aan degenen die daarvan op grond van artikel 106, eerste lid, van de Pachtwet beroep kunnen instellen, bij aangetekende brief.
