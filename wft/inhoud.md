@@ -10,7 +10,7 @@
 #### Afdeling 1.1.3. Reikwijdte met betrekking tot financiële diensten
 ##### § 1.1.3.1. Algemeen
 ##### § 1.1.3.2. Diensten van de informatiemaatschappij
-##### § 1.1.3.3. Adviseren over financiële instrumenten en het verlenen van beleggingsdiensten.
+##### § 1.1.3.3. Het verlenen van beleggingsdiensten en verrichten van beleggingsactiviteiten
 ##### § 1.1.3.4. Financiële diensten met betrekking tot krediet
 ##### § 1.1.3.5. Financiële diensten met betrekking tot verzekeringen
 #### Afdeling 1.1.4. Aantastbaarheid van rechtshandelingen
@@ -67,7 +67,7 @@
 ##### § 2.2.7.1. Vergunningplicht en -eisen
 ##### § 2.2.7.2. Bijkantoor en verrichten van diensten
 ##### § 2.2.7.3. Vrijstelling
-#### Afdeling 2.2.8. Adviseren
+#### Afdeling 2.2.8. Adviseren over andere financiële producten dan financiële instrumenten
 ##### § 2.2.8.1. Vergunningplicht en -eisen
 ##### § 2.2.8.2. Vrijstelling
 #### Afdeling 2.2.9. Bemiddelen
@@ -81,7 +81,7 @@
 #### Afdeling 2.2.11. Optreden als gevolmachtigde agent of ondergevolmachtigde agent
 ##### § 2.2.11.1. Vergunningplicht en -eisen
 ##### § 2.2.11.2. Vrijstelling
-#### Afdeling 2.2.12. Verlenen van beleggingsdiensten
+#### Afdeling 2.2.12. Verlenen van beleggingsdiensten, verrichten van beleggingsactiviteiten en systematische internalisatie
 ##### § 2.2.12.1. Vergunningplicht en -eisen
 ##### § 2.2.12.2. Bijkantoor en verrichten van diensten
 ##### § 2.2.12.3. Vrijstelling
@@ -104,7 +104,7 @@
 ##### § 2.3.6.1. Bijkantoor en verrichten van diensten naar een andere lidstaat
 #### Afdeling 2.3.7. Herverzekeringsbemiddelen
 ##### § 2.3.7.1. Bijkantoor en verrichten van diensten naar een andere lidstaat
-#### Afdeling 2.3.8. Verlenen van beleggingsdiensten
+#### Afdeling 2.3.8. Verlenen van beleggingsdiensten en verrichten van beleggingsactiviteiten
 ##### § 2.3.8.1. Bijkantoor en verrichten van diensten naar een andere lidstaat
 ##### § 2.3.8.2. Bijkantoor in een staat die geen lidstaat is
 ## 3. Deel Prudentieel Toezicht Financiële Ondernemingen
@@ -222,10 +222,14 @@
 #### Afdeling 4.3.4. Herverzekeringsbemiddelen
 #### Afdeling 4.3.5. Optreden als clearinginstelling
 #### Afdeling 4.3.6. Optreden als gevolmachtigde agent of ondergevolmachtigde agent
-#### Afdeling 4.3.7. Verlenen van beleggingsdiensten
+#### Afdeling 4.3.7. Verlenen van beleggingsdiensten, verrichten van beleggingsactiviteiten en systematische interne afhandeling
+##### § 4.3.7.1. Algemeen
+##### § 4.3.7.2. Exploiteren van een multilaterale handelsfaciliteit
+##### § 4.3.7.3. Systematische interne afhandeling
+##### § 4.3.7.4. Overige bepaling informatie na de handel door beleggingsondernemingen
 #### Afdeling 4.3.8. Onderlinge verhouding financiële ondernemingen
 ##### § 4.3.8.1. Verhouding tussen aanbieder, (onder)bemiddelaar en (onder-)gevolmachtigde agent
-##### § 4.3.8.2. Verhouding tussen beleggingsondernemingen
+##### § 4.3.8.2. Verhouding tussen beleggingsondernemingen onderling en tussen beleggingsondernemingen en verbonden agenten
 ##### § 4.3.8.3. Verhouding tussen financiële ondernemingen bij financiële diensten met betrekking tot verzekeringen
 ## 5. Deel Gedragstoezicht financiële markten
 ### Hoofdstuk 5.1. Regels voor het aanbieden van effecten
@@ -240,9 +244,9 @@
 ##### § 5.1.3.6. Informatieverplichtingen na goedkeuring van het prospectus
 ##### § 5.1.3.7. Doorlopende informatieverplichting
 ##### § 5.1.3.8. Aanvullende bevoegdheden voor de Autoriteit Financiële Markten bij aanbieden van effecten
-### Hoofdstuk 5.2. Regels voor het houden van een markt in financiële instrumenten
-#### Afdeling 5.2.1. Erkenning van een markt in financiële instrumenten
-#### Afdeling 5.2.2. Het houden van een gereglementeerde markt in Nederland
+### Hoofdstuk 5.2. Regels voor toegang tot de Nederlandse financiële markten voor marktexploitanten en voor het exploiteren of beheren van een gereglementeerde markt
+#### Afdeling 5.2.1. Toegang tot de Nederlandse financiële markten voor marktexploitanten
+#### Afdeling 5.2.2. Het exploiteren of beheren van een gereglementeerde markt
 ### Hoofdstuk 5.3. Regels voor het medlen van stemmen, kapitaal, zeggenschap en kapitaalbelang in uitgevende instellingen
 #### Afdeling 5.3.1. Inleidende bepaling
 #### Afdeling 5.3.2. Meldingen door uitgevende instellingen betreffende het kapitaal en de stemmen
@@ -273,6 +277,7 @@
 ### Deel Gedragstoezicht financiële ondernemingen
 ### Deel Gedragstoezicht financiële markten
 ### Prospectusverordening
+### uitvoeringsverordening MiFID
 ## Overtreding van voorschriften, gesteld bij of krachtens artikel:
 ### Algemeen deel
 ### Deel Markttoegang financiële ondernemingen
@@ -280,3 +285,4 @@
 ### Deel Gedragstoezicht financiële ondernemingen
 ### Deel Gedragstoezicht financiële markten
 ### Prospectusverordening
+### uitvoeringsverordening MiFID
