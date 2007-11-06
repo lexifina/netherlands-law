@@ -1,0 +1,4 @@
+# Artikel XI
+Artikel 27 van het Besluit financiële verhouding 2001, de artikelen 24, derde lid, aanhef en onderdeel c, en 58a van het Besluit begroting en verantwoording provincies en gemeenten, alsmede de artikelen 3a en 5, vierde lid, van het Besluit accountantscontrole provincies en gemeenten werken
+a. ter zake van de in hoofdstuk 2 van het Besluit van 4 juli 2006, houdende wijziging van het Besluit financiële verhouding 2001 en enkele andere besluiten in verband met invoering van single-information en single-audit voor specifieke uitkeringen genoemde regelingen, ook ten aanzien van de jaarstukken en de controle op de jaarrekening over het begrotingsjaar 2007 en latere jaren, en
+b. ter zake van de in dit besluit genoemde regelingen voor het eerst ten aanzien van de jaarstukken en de controle op de jaarrekening over het begrotingsjaar 2007.
