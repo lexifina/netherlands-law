@@ -1,2 +1,0 @@
-# Artikel IV
-In afwijking van de artikelen 5 en 12a van de Wet schadeloosstelling leden Tweede Kamer, worden de bedragen, bedoeld in de artikelen 3, 4, 11 en 12 van die wet per 1 april 1992 en 1 januari 1993 opnieuw vastgesteld bij algemene maatregel van bestuur overeenkomstig de artikelen 5, 11, vierde lid, en 12, derde lid, van de Wet schadeloosstelling leden Tweede Kamer, zoals die wet vóór de inwerkingtreding van deze wet luidde.

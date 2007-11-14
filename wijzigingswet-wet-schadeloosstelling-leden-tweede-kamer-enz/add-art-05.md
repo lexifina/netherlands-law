@@ -1,3 +1,0 @@
-# Artikel V
-1. Aan de voorzitter van de Eerste Kamer der Staten-Generaal wordt een eenmalige uitkering toegekend van 6% van de feitelijk genoten toelage, bedoeld in artikel 1, eerste lid, van de wet van 12 november 1975 tot nadere vaststelling toelage Voorzitter Eerste Kamer der Staten-Generaal, over de maand september 1992, verminderd met een percentage van dat bedrag, overeenkomend met het in artikel 21, eerste lid, Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 genoemde percentage.
-2. Aan degene die op 30 september 1992 voorzitter van de Eerste Kamer der Staten-Generaal was, wordt naast de eenmalige uitkering, bedoeld in het eerste lid, een eenmalige uitkering toegekend van f 215,50.

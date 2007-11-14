@@ -1,2 +1,0 @@
-# Artikel III
-Deze wet treedt in werking op een bij of krachtens de wet te bepalen tijdstip.

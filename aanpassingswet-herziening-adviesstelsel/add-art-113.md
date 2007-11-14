@@ -1,5 +1,0 @@
-# ARTIKEL CXIII
-1. Met ingang van 1 januari 1997 zijn de personeelsleden van de Nationale Raad voor de Volksgezondheid van rechtswege ontslagen en aangesteld als ambtenaar in dienst van Onze Minister van Volksgezondheid, Welzijn en Sport dan wel, in geval het een personeelslid betreft voor wie een salarisschaal geldt, behorend tot hoofdgroep V of VI van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984, in algemene dienst van het Rijk.
-2. De overgang van de in het eerste lid bedoelde personeelsleden vindt plaats met een rechtspositie die als geheel ten minste gelijkwaardig is aan die welke voor elk van hen gold bij de Nationale Raad voor de Volksgezondheid.
-3. Wettelijke procedures en rechtsgedingen waarbij de Nationale Raad voor de Volksgezondheid partij is, worden met ingang van 1 januari 1997 voortgezet door of tegen de Staat dan wel Onze Minister van Volksgezondheid, Welzijn en Sport.
-4. De vermogensbestanddelen van de Nationale Raad voor de Volksgezondheid gaan op 1 januari 1997 onder algemene titel over op de Staat.

@@ -1,4 +1,0 @@
-# Artikel V
-1. Geen recht op pensioen ingevolge deze wet ontstaat, indien op de datum van overlijden van de vrouwelijke ambtenaar, gewezen ambtenaar of gepensioneerde ambtenaar in een overigens overeenkomstig geval geen recht op weduwenpensioen of bijzonder weduwenpensioen zou zijn ontstaan ingevolge het overlijden van een mannelijke ambtenaar, gewezen ambtenaar of gepensioneerde ambtenaar.
-2. Het eerste lid is van overeenkomstige toepassing indien de overledene een deelgenoot, gewezen deelgenoot of gepensioneerd deelgenoot is, dan wel een militair, gewezen militair of een gepensioneerd militair.
-3. Het pensioen waarop ingevolge deze wet recht ontstaat in verband met een overlijden voor de datum van inwerkingtreding van deze wet, wordt berekend als of het recht ontstaan is op de datum van overlijden.
