@@ -1,0 +1,2 @@
+# Artikel IV
+Aanvragen tot afgifte van een bromfietscertificaat ingediend voor het tijdstip van inwerkingtreding van artikel I, onderdeel C, worden, in die gevallen waarin, voor zover vereist, betrokkene ook daadwerkelijk vóór dat tijdstip het theorie-examen heeft afgelegd en daarvoor is geslaagd, na het tijdstip van inwerkingtreding van artikel I, onderdeel C, behandeld overeenkomstig de bepalingen die tot het tijdstip van inwerkingtreding van dat artikelonderdeel golden voor de afgifte van een bromfietscertificaat.

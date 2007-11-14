@@ -1,0 +1,2 @@
+# Artikel XII
+Ten aanzien van tweede onderzoeken als bedoeld in artikel 134, derde lid, van de Wegenverkeerswet 1994 die op het moment van inwerkingtreding van artikel I, onderdeel F, zijn gemeld bij het Centraal Bureau Rijvaardigheidsbewijzen, blijft de verdeling van de kosten overeenkomstig artikel 134, derde lid, zoals dat luidde tot het moment van inwerkingtreding van artikel I, onderdeel F, in stand.

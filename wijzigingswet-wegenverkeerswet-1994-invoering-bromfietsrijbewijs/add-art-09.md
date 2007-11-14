@@ -1,0 +1,2 @@
+# Artikel IX
+De in artikel 159, onderdeel a, van de Wegenverkeerswet 1994 bedoelde personen die bij de uitoefening van de bij of krachtens de Wegenverkeerswet 1994 aan hen verleende bevoegdheden de beschikking krijgen over een bromfietscertificaat ten aanzien waarvan op grond van artikel 141, derde lid, van die wet of op grond van artikel VI, derde lid, van deze wet een verplichting tot inlevering bestaat, zijn bevoegd dat certificaat in te nemen en het door te geleiden naar degene bij wie de houder dat certificaat had moeten inleveren.
