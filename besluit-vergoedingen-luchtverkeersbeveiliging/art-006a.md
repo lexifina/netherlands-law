@@ -1,0 +1,2 @@
+# Artikel 6a
+Voor een burgerhelicoptervlucht in de North Sea Area Amsterdam is, ongeacht het aantal landingen in de North Sea Area Amsterdam, aan de LVNL een vergoeding verschuldigd als bedoeld in artikel 5.21, eerste lid van de wet. De vergoeding is het quotiënt van de geraamde exploitatiekosten van het ACC Amsterdam zoals deze zijn opgenomen in de door Onze Minister van Verkeer en Waterstaat goedgekeurde begroting van de LVNL, en het aantal voor dat jaar door de LVNL geraamde helicoptervluchten.
