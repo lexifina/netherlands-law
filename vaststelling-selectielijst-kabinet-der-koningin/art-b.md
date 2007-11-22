@@ -1,0 +1,2 @@
+# b. Bewaren van de oorspronkelijke wetten, koninklijke besluiten en soortgelijke rege-ringsbescheiden
+Deze taak die van oudsher aan de Directeur is opgedragen staat vermeld in het koninklijk besluit van 14 december 1893, nr. 17, en in de Archiefwet 1995. Deze taak omvat het registreren, rappelleren, archiveren, verfilmen van alle archiefbescheiden en overdragen daarvan aan het Algemeen Rijksarchief. Voorts verschaft het Kabinet aan tal van instanties en particulieren informatie over de in het archief opgenomen documenten.
