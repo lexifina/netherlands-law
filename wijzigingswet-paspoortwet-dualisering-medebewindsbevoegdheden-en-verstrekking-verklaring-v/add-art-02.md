@@ -1,0 +1,2 @@
+# Artikel II
+Vervangende verklaringen van toestemming betreffende verzoeken tot verstrekking van een reisdocument ten behoeve van onder toezicht gestelde minderjarigen die jonger zijn dan zestien jaar, die zijn afgegeven na 31 maart 2001 en vóór de inwerkingtreding van deze rijkswet, door de kinderrechter in Nederland of de rechter in eerste aanleg in de Nederlandse Antillen of Aruba, hebben dezelfde rechtskracht als een verklaring van toestemming als bedoeld in artikel 36 van de Paspoortwet.
