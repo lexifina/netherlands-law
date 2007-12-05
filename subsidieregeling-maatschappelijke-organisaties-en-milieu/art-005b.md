@@ -1,0 +1,2 @@
+# Artikel 5b
+Indien werkzaamheden ten behoeve van het project of het programma worden uitbesteed aan een onderneming die in organisatorisch, financieel of personeel opzicht verbonden is met de subsidieaanvrager of aan een onderneming die een inhoudelijk belang heeft bij de resultaten van het project of programma, wordt een door die onderneming in de kosten doorberekende winstopslag niet tot de subsidiabele kosten gerekend.
