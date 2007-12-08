@@ -1,3 +1,0 @@
-# Artikel 6a
-1. Voor de beoordeling van een gewasbeschermingsmiddel of biocide met een aangewezen werkzame stof als bedoeld in artikel 25d van de wet, waarvoor een aanvraag als bedoeld in artikel 25d, lid 6 van de wet bij het Ctb is ingediend vóór 1 oktober 2007, is verschuldigd; € 1.650,–
-2. Voor de beoordeling van een gewasbeschermingsmiddel of biocide, met een aangewezen werkzame stof als bedoeld in artikel 25d van de wet, die als parallelle of afgeleide toelating (artikel 1, onderdeel e en f en artikel 17a Regeling toelating bestrijdingsmiddelen 1995) is toegelaten en waarvoor een aanvraag als bedoeld in artikel 25d, lid 6 van de wet bij het Ctb is ingediend vóór 1 oktober 2007, is verschuldigd: € 123,–
