@@ -1,0 +1,3 @@
+# Artikel VII
+1. Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst, met dien verstande dat het opnemen in het onderdeel 1 of 2 van bijlage A bij het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie voor de rechtspersonen, genoemd in artikel 1, respectievelijk artikel 3, terugwerkt tot en met de datum waarop deze rechtspersonen daadwerkelijk aan het schatkistbankieren zijn gaan deelnemen.
+2. Dit besluit wordt aangehaald als: Eerste wijzigingsbesluit aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.
