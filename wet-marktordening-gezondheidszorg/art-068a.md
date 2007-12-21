@@ -1,0 +1,14 @@
+# Artikel 68a
+1. Een zorgaanbieder die aan een verzekerde zorg heeft verleend, en die daarvoor krachtens een door hem met de ziektekostenverzekeraar gesloten overeenkomst rechtstreeks een tarief bij die ziektekostenverzekeraar in rekening brengt, verstrekt die ziektekostenverzekeraar of een door die ziektekostenverzekeraar aangewezen persoon de persoonsgegevens van de verzekerde, waaronder persoonsgegevens betreffende de gezondheid als bedoeld in de Wet bescherming persoonsgegevens, die noodzakelijk zijn voor de uitvoering van de ziektekostenverzekering of van de wet, dan wel stelt hem deze gegevens voor dit doel voor inzage of het nemen van afschrift ter beschikking.
+2. Een zorgaanbieder die aan een verzekerde zorg heeft verleend en die daarvoor bij de verzekerde een tarief in rekening brengt, verstrekt hem de persoonsgegevens, waaronder persoonsgegevens betreffende zijn gezondheid als bedoeld in de Wet bescherming persoonsgegevens, die voor zijn ziektekostenverzekeraar noodzakelijk zijn voor de uitvoering van de ziektekostenverzekering of van de wet.
+3. Behoudens voor zover enig wettelijk voorschrift hen mededeling toestaat, zijn personen werkzaam bij een ziektekostenverzekeraar, bij een door de ziektekostenverzekeraar aangewezen persoon of bij een door Onze Minister aangewezen persoon als bedoeld in artikel 53, eerste of derde lid, van de Algemene Wet Bijzondere Ziektekosten of artikel 87, derde lid, van de Zorgverzekeringswet, voor wie niet reeds uit hoofde van ambt of beroep een geheimhoudingsplicht geldt, verplicht tot geheimhouding van persoonsgegevens van een verzekerde, waaronder persoonsgegevens betreffende zijn gezondheid als bedoeld in de Wet bescherming persoonsgegevens, die voor een ziektekostenverzekeraar noodzakelijk zijn voor de uitvoering van een ziektekostenverzekering.
+4. Bij ministeriële regeling kan worden bepaald:
+a. tot welke gegevens en tot welke categorie van ziektekostenverzekeraars als bedoeld in artikel 1, onderdeel f, de verplichting, bedoeld in het eerste of tweede lid, zich in ieder geval uitstrekt;
+b. op welke wijze gegevens, bedoeld in het eerste of tweede lid, worden verwerkt;
+c. volgens welke technische standaarden gegevensverwerking plaatsvindt;
+d. aan welke beveiligingseisen gegevensverwerking voldoet;
+e. in welke gevallen gegevens, bedoeld in het eerste of tweede lid, verder worden verwerkt met het oog op de uitvoering van ziektekostenverzekeringen, voor zover deze gegevens niet worden gebruikt voor het beoordelen en accepteren van een aspirant-verzekerde door een ziektekostenverzekeraar als bedoeld in artikel 1, onderdeel f, onder 3°, en bovendien noodzakelijk zijn voor:
+1°. de betaling aan een zorgaanbieder of de vergoeding van zorgkosten aan een verzekerde,
+2°. de vaststelling van eigen bijdragen, nog openstaand eigen risico of een no-claimteruggave aan de verzekerde,
+3°. het uitoefenen van het verhaalsrecht, of
+4°. het verrichten van controle of fraudeonderzoek.
