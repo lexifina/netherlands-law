@@ -7,7 +7,9 @@
 ### Hoofdstuk IV. Het algemeen bestuur
 #### § 1. De samenstelling
 #### § 2. De verkiezing
-#### § 3. De inrichting
+#### § 3. De zittingsduur, het begin van het lidmaatschap en de plaatsvervanging
+#### § 4. Bijzondere bepalingen in verband met de instelling van een waterschap tijdens de gewone zittingsperiode
+#### § 5. De inrichting
 ### Hoofdstuk V. Het dagelijks bestuur
 #### § 1. De samenstelling
 #### § 2. De inrichting
@@ -17,7 +19,6 @@
 #### § 2. De ombudsman voor het waterschap
 #### § 3. De ombudscommissie voor het waterschap
 #### § 4. De gezamenlijke ombudsman en de gezamenlijke ombudscommissie
-### Hoofdstuk VII. Afdelingen
 ### Hoofdstuk VIII. De secretaris
 ## Titel III. De bevoegdheid van het waterschapsbestuur
 ### Hoofdstuk IX. Algemene bepalingen
@@ -30,13 +31,15 @@
 ### Hoofdstuk XI. De bevoegdheid van het dagelijks bestuur
 ### Hoofdstuk XII. De bevoegdheid van de voorzitter
 ## Titel IV. De financiën van het waterschap
-### Hoofdstuk XIII. Inleidende bepaling
-### Hoofdstuk XIV. De begroting en de rekening
+### Hoofdstuk XIII. Algemene bepalingen
+### Hoofdstuk XIV. De begroting en de jaarrekening
 #### § 1. De begroting
-#### § 2. De rekening
+#### § 2. De jaarrekening
 ### Hoofdstuk XV. De administratie en de controle
 ### Hoofdstuk XVI. De waterschapsbelastingen
-### Hoofdstuk XVII. Bijzondere bepalingen omtrent de omslagen
+### Hoofdstuk XVII. De watersysteemheffing
+### Hoofdstuk XVIIa. De heffing ter bekostiging van het wegenbeheer
+### Hoofdstuk XVIIb. De zuiveringsheffing
 ### Hoofdstuk XVIII. De heffing en invordering van waterschapsbelastingen
 ## Titel V. Aanvullende bepalingen inzake het toezicht op het waterschapsbestuur
 ### Hoofdstuk XIX. Goedkeuring

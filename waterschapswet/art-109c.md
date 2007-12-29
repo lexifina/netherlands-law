@@ -1,0 +1,2 @@
+# Artikel 109c
+Gedeputeerde staten kunnen te allen tijde een onderzoek instellen naar het beheer en de inrichting van de financiële organisatie, bedoeld in artikel 108, eerste lid.

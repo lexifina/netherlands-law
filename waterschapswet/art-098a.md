@@ -1,0 +1,7 @@
+# Artikel 98a
+1. De begroting, de begrotingswijzigingen, de meerjarenraming, de jaarrekening en het jaarverslag worden ingericht overeenkomstig bij of krachtens algemene maatregel van bestuur te geven regels.
+2. Bij of krachtens de algemene maatregel van bestuur, bedoeld in het eerste lid, kunnen tevens regels worden gesteld ten aanzien van:
+a. door het dagelijks bestuur vast te stellen documenten ten behoeve van de uitvoering van de begroting en de jaarrekening;
+b. door het dagelijks bestuur aan derden te verstrekken informatie op basis van de begroting en de jaarrekening en de controle van deze informatie. In overeenstemming met Onze Minister van Economische Zaken kan worden bepaald dat deze informatie wordt verstrekt aan het Centraal Bureau voor de Statistiek.
+3. Indien de informatie, bedoeld in het tweede lid onder b, niet of niet tijdig wordt verstrekt, dan wel de kwaliteit van de informatie tekort schiet, geven gedeputeerde staten een aanwijzing aan het dagelijks bestuur om alsnog informatie van voldoende kwaliteit te verstrekken.
+4. Indien het dagelijks bestuur nalaat de aanwijzing, bedoeld in het derde lid, op te volgen zorgen gedeputeerde staten dat de benodigde informatie alsnog wordt verstrekt. De kosten daarvan komen voor rekening van het waterschap.
