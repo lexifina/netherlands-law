@@ -1,9 +1,9 @@
 # Artikel 1a
 1. Artikel 1, aanhef en onderdeel b, is niet van toepassing wanneer het verworven goed:
-a. is geleverd door een ondernemer op wie de in artikel 24 van de Zesde Richtlijn bedoelde vrijstellingsregeling van toepassing is;
+a. is geleverd door een ondernemer op wie de in de artikelen 282 tot en met 292 van de BTW-richtlijn 2006 bedoelde vrijstellingsregeling van toepassing is;
 b. is geleverd in de zin van artikel 3, eerste lid, onderdeel f;
 c. is geleverd met toepassing van artikel 5a, eerste lid; of
-d. is geleverd met toepassing van een van de in artikel 26bis, B en C, van de Zesde Richtlijn bedoelde bijzondere regelingen.
+d. is geleverd met toepassing van een van de in de artikelen 312 tot en met 325 en 333 tot en met 340 van de BTW-richtlijn 2006 bedoelde bijzondere regelingen.
 2. Artikel 1, aanhef en onderdeel b, is voorts niet van toepassing op intracommunautaire verwervingen van goederen, andere dan nieuwe vervoermiddelen en accijnsgoederen, door:
 a. ondernemers die op grond van artikel 27, eerste lid, geen omzetbelasting verschuldigd zijn;
 b. ondernemers die uitsluitend leveringen van goederen of diensten verrichten waarvoor geen recht op aftrek van belasting bestaat; en
