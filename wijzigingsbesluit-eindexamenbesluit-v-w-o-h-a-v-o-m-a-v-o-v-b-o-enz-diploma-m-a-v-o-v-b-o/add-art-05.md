@@ -1,2 +1,0 @@
-# Artikel V
-In afwijking van artikel 38, tweede lid, van het Inrichtingsbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o., is op de leerlingen van een school voor voorbereidend beroepsonderwijs die het eindexamen, bedoeld in artikel 29b van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. afleggen, het aantal van 24 wekelijkse lessen voor de voorgeschreven op het beroep gerichte vakken niet van toepassing.
