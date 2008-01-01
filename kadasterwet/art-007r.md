@@ -1,0 +1,4 @@
+# Artikel 7r
+1. Indien ten aanzien van een beslissing over wijziging van een authentiek gegeven dat is opgenomen in de basisregistratie kadaster bezwaar wordt gemaakt of beroep wordt ingesteld, tekent de Dienst in de basisregistratie kadaster, of ingeval het betreffende gegeven een gegeven is als bedoeld in artikel 48, derde lid, onderdeel a, b of c, in een afzonderlijk register, aan dat het betreffende authentieke gegeven «in onderzoek» is.
+2. Indien de beslissing op bezwaar of de rechterlijke uitspraak op het beroep strekt tot wijziging van een in de basisregistratie kadaster opgenomen authentiek gegeven, verwerkt de Dienst die wijziging in die basisregistratie.
+3. Indien onherroepelijk is beslist op het bezwaar of beroep, verwijdert de Dienst de aantekening dat het betreffende authentieke gegeven «in onderzoek» is.

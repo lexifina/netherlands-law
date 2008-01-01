@@ -1,3 +1,3 @@
 # Artikel 56b
-1. Belanghebbenden kunnen tegen beschikkingen inzake de bijwerking, genomen krachtens hoofdstuk 4 van deze wet, bezwaar maken nadat zij is voltooid.
-2. Geen bezwaar staat open tegen bijhoudingen als bedoeld in de artikelen 71 en 72 alsmede tegen een vernieuwing als bedoeld in artikel 78, eerste lid.
+1. Tenzij het betreft een beschikking als bedoeld in artikel 71, 72 of 78, eerste lid, kan een belanghebbende bezwaar maken tegen een beschikking inzake de bijwerking, vastgesteld krachtens hoofdstuk 4, nadat die bijwerking is voltooid.
+2. Voorzover een beschikking als bedoeld in het eerste lid betrekking heeft op een gegeven dat krachtens deze wet als authentiek wordt aangemerkt en ten aanzien van die beschikking bezwaar wordt gemaakt of beroep wordt ingesteld, handelt de Dienst overeenkomstig artikel 7r.
