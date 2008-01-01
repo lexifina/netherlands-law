@@ -1,2 +1,0 @@
-# § 8). Verplichtingen subsidieontvanger
-De subsidieontvanger zal gedurende een periode van ten hoogste vijf jaar, ingaand na goedkeuring van het eindverslag, zoals bedoeld in artikel 17 van de Subsidieregeling, informatie verstrekken met betrekking tot het resultaat van het project voor zover het de CO2-emissie betreft. Voor de wijze waarop dit zal gebeuren wordt door het Projectbureau CO2-reductieplan een opzet verstrekt.
