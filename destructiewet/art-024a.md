@@ -1,2 +1,0 @@
-# Artikel 24a
-Van elke krachtens artikel 5:18 van de Algemene wet bestuursrecht onderzochte zaak, wordt aan de belanghebbende op diens verzoek een vergoeding gegeven ter grootte van het bedrag waarmee haar verkoopwaarde ten gevolge van het onderzoek is verminderd. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de wijze waarop de vergoeding wordt vastgesteld en uitgekeerd.
