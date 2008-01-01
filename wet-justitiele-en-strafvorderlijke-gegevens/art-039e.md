@@ -7,8 +7,8 @@ d. ambtenaren van politie als bedoeld in artikel 3, eerste lid, onder a en c, en
 e. militairen van de Koninklijke marechaussee als bedoeld in artikel 141, onder c, van het Wetboek van Strafvordering;
 f. buitengewone opsporingsambtenaren als bedoeld in artikel 142, eerste lid, van het Wetboek van Strafvordering;
 g. instanties die belast zijn met de tenuitvoerlegging van rechterlijke beslissingen of handelingen, beslissingen van de officier van justitie dan wel van vrijheidsbenemende straffen of maatregelen;
-h. beheerders van politieregisters als bedoeld in artikel 1, eerste lid, onder c, van de Wet politieregisters;
+h. verantwoordelijken voor de verwerking van politiegegevens als bedoeld in artikel 1, eerste lid, onderdeel f, van de Wet politiegegevens;
 i. bewaarders als bedoeld in artikel 118, eerste en tweede lid, van het Wetboek van Strafvordering;
 j. andere autoriteiten in het buitenland als bedoeld in onderdeel a en instanties die ingevolge het internationaal recht een taak hebben in het kader van de strafrechtspleging.
 2. Het College van procureurs-generaal verstrekt aan de ambtenaren die werkzaam zijn ten behoeve van de justitiële documentatie strafvorderlijke gegevens.
-3. Artikel 8, vierde en vijfde lid, en artikel 9, eerste lid, tweede volzin, en tweede lid, zijn van overeenkomstige toepassing.
+3. Artikel 8, vierde tot en met zesde lid, en artikel 9, eerste lid, tweede volzin, zijn van overeenkomstige toepassing.
