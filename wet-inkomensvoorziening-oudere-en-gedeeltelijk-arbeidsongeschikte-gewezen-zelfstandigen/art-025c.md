@@ -1,5 +1,5 @@
 # Artikel 25c
-1. In afwijking van artikel 25 kunnen burgemeester en wethouders besluiten van terugvordering of van verdere terugvordering af te zien, indien de belanghebbende:
+1. In afwijking van artikel 25 kan het college besluiten van terugvordering of van verdere terugvordering af te zien, indien de belanghebbende:
 a. gedurende vijf jaar volledig aan zijn betalingsverplichtingen heeft voldaan;
 b. gedurende vijf jaar niet volledig aan zijn betalingsverplichtingen heeft voldaan, maar het achterstallige bedrag over die periode, vermeerderd met de daarover verschuldigde wettelijke rente en de op de invordering betrekking hebbende kosten, alsnog heeft betaald;
 c. gedurende vijf jaar geen betalingen heeft verricht en niet aannemelijk is dat hij deze op enig moment zal gaan verrichten; of

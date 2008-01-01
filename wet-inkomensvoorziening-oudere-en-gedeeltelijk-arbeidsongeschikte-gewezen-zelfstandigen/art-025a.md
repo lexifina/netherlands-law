@@ -1,5 +1,5 @@
 # Artikel 25a
-1. In afwijking van artikel 25 kunnen burgemeester en wethouders, op verzoek van belanghebbende, besluiten gedeeltelijk van terugvordering of gedeeltelijk van verdere terugvordering van de uitkering af te zien, indien:
+1. In afwijking van artikel 25 kan het college, op verzoek van belanghebbende, besluiten gedeeltelijk van terugvordering of gedeeltelijk van verdere terugvordering van de uitkering af te zien, indien:
 a. redelijkerwijs te voorzien is dat de belanghebbende niet zal kunnen voortgaan met het betalen van zijn schulden;
 b. redelijkerwijs te voorzien is dat een schuldregeling met betrekking tot alle vorderingen, behoudens de in het tweede lid bedoelde, van de overige schuldeisers zonder een zodanig besluit niet tot stand zal komen; en
 c. de vordering van de gemeente wegens teruggevorderde uitkering ten minste zal worden voldaan naar evenredigheid met de vorderingen van de schuldeisers van gelijke rang.
