@@ -9,7 +9,6 @@
 ### Paragraaf 3.2. De te verzekeren prestaties
 ### Paragraaf 3.3. De premie
 ### Paragraaf 3.4. Het eigen risico
-### Paragraaf 3.5. De no-claimteruggave bij beperkt zorggebruik
 ### Paragraaf 3.6. Overige bepalingen
 ## Hoofdstuk 4. De zorgverzekeraars
 ### Paragraaf 4.1. De aanmelding, de statuten en het werkgebied
