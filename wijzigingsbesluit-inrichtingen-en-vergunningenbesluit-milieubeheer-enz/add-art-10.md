@@ -1,4 +1,0 @@
-# Artikel X
-1. Dit besluit treedt in werking met ingang van een maand na de datum van uitgifte van het Staatsblad waarin het is geplaatst.
-2. Artikel I, onder A, H, I, K, L, onder 2, N en R, werkt terug tot en met 1 maart 1993.
-3. Indien de aanvraag tot het geven van een beschikking waarop dit besluit betrekking heeft, is ingediend of het voornemen tot het geven van een zodanige beschikking krachtens wettelijk voorschrift aan degene tot wie de beschikking zal zijn gericht, is bekend gemaakt na 1 maart 1993 maar voor het tijdstip waarop dit besluit in werking treedt, blijft - indien de beschikking op de aanvraag, onderscheidenlijk naar aanleiding van het voornemen nog niet is gegeven - het tot dat tijdstip met betrekking tot zodanige beschikkingen geldende recht van toepassing tot het tijdstip waarop de beschikking onherroepelijk is geworden.
