@@ -1,0 +1,6 @@
+# Artikel 12k
+1. Aan een aanstelling als militair ambtenaar bij het beroepspersoneel is de verplichting verbonden om een bij of krachtens algemene maatregel van bestuur te bepalen termijn, doch ten hoogste gedurende de initiële opleiding en aansluitend een periode van vier jaar, deel uit te blijven maken van het beroepspersoneel.
+2. In afwijking van het eerste lid is aan een aanstelling als militair ambtenaar met de bestemming
+a. tot het volgen van de meerjarige opleiding tot officier, de verplichting verbonden om gedurende de opleiding en aansluitend een periode van zeven jaar deel uit te blijven maken van het beroepspersoneel;
+b. tot het volgen van een opleiding tot vlieger, de verplichting verbonden gedurende de opleiding en aansluitend een periode van tien jaar deel uit te blijven maken van het beroepspersoneel.
+3. Aan een aanwijzing, op aanvraag van een militair ambtenaar in werkelijke dienst, voor het volgen van een opleiding waarbij de militair ambtenaar wordt vrijgesteld van werkzaamheden en diensten als militair, kan door Onze Minister de verplichting worden verbonden om een periode van ten hoogste twee maal de periode dat hij is vrijgesteld deel te blijven uitmaken van het beroepspersoneel.

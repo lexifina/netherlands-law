@@ -1,0 +1,6 @@
+# Artikel 12j
+1. De militair ambtenaar is gehouden tot het naar beste vermogen uitvoeren van de hem in het belang van de taakuitoefening van de krijgsmacht opgedragen werkzaamheden en diensten.
+2. Hij kan in het belang van die taakuitoefening overal ter wereld worden ingezet.
+3. De militair ambtenaar kan voor het verrichten van de hem opgedragen werkzaamheden worden gesteld onder een functionaris die niet behoort tot het militaire personeel van de krijgsmacht.
+4. De militair ambtenaar in werkelijke dienst kan worden verplicht, wanneer naar het oordeel van Onze Minister het algemeen belang dit vordert, tijdelijk andere werkzaamheden te verrichten dan die welke uit de militaire hoedanigheid voortvloeien. Hij kan echter niet worden verplicht werkzaamheden te verrichten in plaats van stakers of uitgeslotenen, tenzij het werkzaamheden betreft die naar het oordeel van Onze Minister geen uitstel gedogen.
+5. Indien militairen worden verplicht tot het verrichten van werkzaamheden als bedoeld in het vierde lid kan Onze Minister een militair ambtenaar in werkelijke dienst, die bestuurslid of kaderlid is van een vakorganisatie van overheidspersoneel, op diens aanvraag tijdelijk van deze verplichting ontheffen.
