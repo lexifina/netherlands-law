@@ -1,9 +1,0 @@
-# Tekst
-De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
-## Vraag
-Vallen de door een gediplomeerd logopedist verrichte handelingen bestaande in het onderzoeken en behandelen van patiënten bij wie sprake is van dyslexie onder de vrijstelling van artikel 11, eerste lid, onderdeel g, 1°, van de Wet op de omzetbelasting 1968?
-## Antwoord
-Ingevolge artikel 11, eerste lid, onderdeel g, 1°, van de Wet op de omzetbelasting 1968 (hierna: de Wet) zijn de diensten van beoefenaren van een beroep waarvoor regels zijn gesteld bij of krachtens de Wet op de beroepen in de individuele gezondheidszorg (hierna: de Wet BIG) vrijgesteld van omzetbelasting. De vrijstelling geldt alleen voor de diensten die de betrokken beroepsbeoefenaren als zodanig, d.w.z. in het kader van hun specifieke deskundigheid binnen de individuele gezondheidszorg, verrichten.
-In het Besluit opleidingseisen en deskundigheidsgebied logopedist, gebaseerd op de Wet BIG, worden de handelingen genoemd die tot de deskundigheid van een (gediplomeerd) logopedist behoren. Het betreft het behandelen van spraakgebreken die een gevolg zijn van stoornissen in stem, taal, spraak, gehoor en primaire mond- en keelfuncties.
-Dyslexie is een stoornis, waarbij de lees- en spellingsvaardigheid onder meer significant afwijkt van wat verwacht mag worden op basis van leeftijd, intelligentie en scholing. De lees- en spellingsproblemen en de oorzaken daarvan kunnen divers zijn. In de praktijk vindt behandeling plaats door uiteenlopende beroepsbeoefenaren, variërend van remedial teacher tot psycholoog. Een logopedist kan daarbij ondersteunend en indicerend bezig zijn door het behandelen van spraakgebreken.
-De vorenbedoelde behandeling van spraakgebreken door een logopedist in het kader van de behandeling van dyslexie kan onder de in artikel 11, eerste lid, onderdeel g, 1°, van de Wet opgenomen vrijstelling worden gerangschikt.
