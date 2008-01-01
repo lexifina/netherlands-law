@@ -1,3 +1,0 @@
-# Artikel 3d
-1. De frequentiekorting wordt verleend met ingang van de dag waarop aangetoond is dat aan de daarvoor geldende vereisten wordt voldaan.
-2. De organisatie kan, indien naar haar oordeel in voldoende mate is aangetoond dat de aangegeven frequentie in calls wordt behaald, de frequentiekorting op voorschotbasis per reis op het te factureren loodsgeldtarief in mindering brengen. Na afloop van elk kalenderkwartaal vindt op basis van nacalculatie een voorlopige afrekening van de toepasselijke frequentiekorting plaats. De definitieve afrekening vindt plaats binnen drie maanden na afloop van het betreffende kalenderjaar.
