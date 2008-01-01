@@ -1,0 +1,4 @@
+# Artikel 17a
+1. De directeur kan de tenuitvoerlegging van een machtiging als bedoeld in artikel 29b van de Wet op de jeugdzorg schorsen, als de tenuitvoerlegging niet langer nodig is om te voorkomen dat de jeugdige zich aan de zorg die hij nodig heeft onttrekt of daaraan door anderen wordt onttrokken. De schorsing kan worden ingetrokken indien blijkt dat de tenuitvoerlegging nodig is om te voorkomen dat de jeugdige zich aan de zorg die hij nodig heeft onttrekt of daaraan door anderen wordt onttrokken.
+2. Een besluit tot schorsing of intrekking wordt niet genomen dan nadat de directeur daaromtrent overleg heeft gepleegd met de betrokken stichting en de raad voor de kinderbescherming.
+3. De directeur doet van een besluit tot schorsing of intrekking mededeling aan de stichting en de raad voor de kinderbescherming.
