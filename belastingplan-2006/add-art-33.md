@@ -1,0 +1,2 @@
+# Artikel XXXIII
+Bij ministeriële regeling kunnen de bedragen, genoemd in artikel X, onderdeel C, worden gewijzigd indien de uitkomst van de meldingsprocedure als voorzien in artikel 26, tweede lid, eerste alinea, van richtlijn 2003/96/EG van de Raad van de Europese Unie van 27 oktober 2003 tot herstructurering van de communautaire regeling voor de belasting van energieproducten en elektriciteit (PbEG L 283), daartoe aanleiding geeft.
