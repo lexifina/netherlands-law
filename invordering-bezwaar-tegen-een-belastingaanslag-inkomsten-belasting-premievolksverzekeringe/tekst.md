@@ -1,9 +1,0 @@
-# Tekst
-De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
-## Inleiding
-Tot 1 januari 2005 gold het beleid dat een bij de Belastingdienst ingediend bezwaarschrift tegen een belastingaanslag tevens werd aangemerkt als een verzoek om uitstel van betaling. Bij de wijziging van de Leidraad Invordering 1990 van 23 december 2004 nr. CPP2004/2905M, Stcrt. nr. 251 is dit beleid aangepast. Met ingang van 1 januari 2005 wordt een ingediend bezwaarschrift tegen een belastingaanslag alleen nog maar beschouwd als een verzoek om uitstel van betaling als in het bezwaarschrift het bedrag wordt vermeld dat wordt bestreden en een berekening van dat bedrag wordt gegeven. In alle andere gevallen moet expliciet om uitstel van betaling worden verzocht.
-## Toelichting op aanslagbiljetten
-In verband met het gewijzigde beleid als hiervoor omschreven, heeft de Belastingdienst met ingang van 1 januari 2005 de toelichting op de aanslagbiljetten onder het kopje 'bezwaar' dienovereenkomstig aangepast.
-Dat geldt echter nog niet voor de desbetreffende toelichting op het aanslagbiljet IB/PVV. Dat aanslagbiljet zal pas in de loop van de maand maart van 2005 zijn aangepast aan het nieuwe beleid. Tot die tijd vermeldt de toelichting op het aanslagbiljet IB/PVV nog een tekst die uitgaat van het beleid zoals dat gold tot 1 januari 2005.
-## Beleid voor belastingaanslagen IB/PVV
-Ik acht het onwenselijk dat voor een belastingschuldige die een aanslagbiljet krijgt waarvan de toelichting nog niet is aangepast, het gewijzigde beleid wordt toegepast zoals in de inleiding van dit besluit omschreven. Om die reden keur ik goed dat een bij de Belastingdienst ingediend bezwaarschrift tegen een aanslag IB/PVV met een dagtekening die ligt vóór 1 april 2005 ook als een verzoek om uitstel van betaling wordt aangemerkt indien in of bij het bezwaarschrift het bestreden bedrag niet is vermeld of is berekend.
