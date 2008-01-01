@@ -17,7 +17,7 @@
 ### Afdeling 1. Vertegenwoordiging buiten rechte
 ### Afdeling 2. Verplichtingen ten dienste van de belastingheffing
 ### Afdeling 3. Domiciliekeuze en uitreiking van stukken
-### Afdeling 4. Herstel van vormverzuimen en overschrijding van termijnen
+### Afdeling 4. Overschrijding van termijnen
 ### Afdeling 5. Toekenning van bevoegdheden
 ### Afdeling 6. Geheimhouding
 ## Hoofdstuk VIIIA. Bestuurlijke boeten

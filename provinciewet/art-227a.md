@@ -8,4 +8,4 @@ d. de ambtenaren van de rijksbelastingdienst: de provincieambtenaren belast met 
 e. de belastingdeurwaarder: de daartoe aangewezen provincieambtenaar;
 f. de Tweede Kamer der Staten-Generaal of de Tweede Kamer: de provinciale staten.
 3. Onverminderd het overigens in deze paragraaf bepaalde wordt met betrekking tot provinciale belastingen in de Algemene wet en in de Invorderingswet 1990 voor «algemene maatregel van bestuur» en voor «ministeriële regeling» gelezen: besluit van het college van gedeputeerde staten.
-4. Met betrekking tot provinciale belastingen wordt in de artikelen 27l, 27n, 27p en 29b van de Algemene wet voor «de Staat» gelezen: de provincie.
+4. Met betrekking tot provinciale belastingen wordt in de artikelen 27l, 27n, 27p en 29b van de Algemene wet en in artikel 24 van de Invorderingswet 1990 voor «de Staat» gelezen: de provincie.

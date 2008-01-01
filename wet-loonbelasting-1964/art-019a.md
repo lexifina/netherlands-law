@@ -1,6 +1,6 @@
 # Artikel 19a
 1. Als verzekeraar van een pensioen als bedoeld in artikel 18 kan optreden:
-a. een lichaam dat ingevolge artikel 5, onderdeel b, van de Wet op de vennootschapsbelasting 1969 is vrijgesteld van die belasting;
+a. een lichaam dat ingevolge artikel 5, eerste lid, onderdeel b, van de Wet op de vennootschapsbelasting 1969 is vrijgesteld van die belasting;
 b. een verzekeraar als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, mits deze de pensioenverplichting voor de heffing van de vennootschapsbelasting rekent tot het binnenlandse ondernemingsvermogen;
 c. een niet in Nederland gevestigd pensioenfonds of lichaam dat het levensverzekeringsbedrijf uitoefent, mits het pensioen de voortzetting is van een pensioen dat reeds was verzekerd bij die verzekeraar in een periode waarin de werknemer of gewezen werknemer niet in Nederland woonde of niet in Nederland een dienstbetrekking vervulde;
 d. een ander lichaam dan bedoeld in de onderdelen a, b en c, dat in Nederland is gevestigd, de pensioenverplichting voor de heffing van de vennootschapsbelasting rekent tot het binnenlandse ondernemingsvermogen en voldoet aan de in het tweede lid gestelde voorwaarden;
