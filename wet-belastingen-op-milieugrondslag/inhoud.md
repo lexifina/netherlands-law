@@ -4,25 +4,10 @@
 ### Afdeling 1. Begripsbepalingen
 ### Afdeling 2. Grondslag en belastingplicht
 ### Afdeling 3. Maatstaf van heffing en verschuldigdheid
-### Afdeling 4. Vrijstellingen en tarief
-### Afdeling 4a. Teruggaaf
-### Afdeling 5. Verplichting ten dienste van de belastingheffing
-## Hoofdstuk IIA. Belasting op leidingwater
-### Afdeling 1. Begripsbepalingen
-### Afdeling 2. Grondslag en belastingplicht
-### Afdeling 3. Maatstaf van heffing en verschuldigdheid
 ### Afdeling 4. Tarief
 ### Afdeling 5. Vrijstellingen
-### Afdeling 6. Teruggaven
-### Afdeling 7. Verplichtingen ten dienste van de belastingheffing
-## Hoofdstuk III. Afvalstoffenbelasting
-### Afdeling 1. Begripsbepalingen
-### Afdeling 2. Grondslag en belastingplicht
-### Afdeling 3. Maatstaf van heffing en verschuldigdheid
-### Afdeling 4. Vrijstellingen en tarief
-### Afdeling 4a. Teruggaaf
-### Afdeling 5. Verplichting ten dienste van de belastingheffing
-## Hoofdstuk IV. Brandstoffenbelasting
+### Afdeling 6. Verplichting ten dienste van de belastingheffing
+## Hoofdstuk III. Belasting op leidingwater
 ### Afdeling 1. Begripsbepalingen
 ### Afdeling 2. Grondslag en belastingplicht
 ### Afdeling 3. Maatstaf van heffing en verschuldigdheid
@@ -30,8 +15,23 @@
 ### Afdeling 5. Vrijstellingen
 ### Afdeling 6. Teruggaaf
 ### Afdeling 7. Verplichtingen ten dienste van de belastingheffing
-## Hoofdstuk V
-## Hoofdstuk VA. Energiebelasting
+## Hoofdstuk IV. Afvalstoffenbelasting
+### Afdeling 1. Begripsbepalingen
+### Afdeling 2. Grondslag en belastingplicht
+### Afdeling 3. Maatstaf van heffing en verschuldigdheid
+### Afdeling 4. Tarief
+### Afdeling 5*. Vrijstelling
+### Afdeling 6*. Teruggaaf
+### Afdeling 7*. Verplichting ten dienste van de belastingheffing
+## Hoofdstuk V. Kolenbelasting
+### Afdeling 1. Begripsbepalingen
+### Afdeling 2. Grondslag, belastingplicht en verschuldigdheid
+### Afdeling 3. Maatstaf van heffing
+### Afdeling 4. Tarief
+### Afdeling 5. Vrijstellingen
+### Afdeling 6. Teruggaaf
+### Afdeling 7. Verplichtingen ten dienste van de belastingheffing
+## Hoofdstuk VI. Energiebelasting
 ### Afdeling 1. Begripsbepalingen
 ### Afdeling 2. Grondslag en belastingplicht
 ### Afdeling 3. Maatstaf van heffing en verschuldigdheid
@@ -39,9 +39,16 @@
 ### Afdeling 5. Belastingvermindering en vrijstellingen
 ### Afdeling 6. Teruggaven
 ### Afdeling 7. Verplichtingen ten dienste van de belastingheffing
-### Afdeling 10. Bijzondere vrijstelling
-## Hoofdstuk VI. Algemene bepalingen
+## Hoofdstuk VII. (gereserveerd)
+## Hoofdstuk VIII. Verpakkingenbelasting
+### Afdeling 1. Begripsbepalingen
+### Afdeling 2. Grondslag en belastingplicht
+### Afdeling 3. Maatstaf van heffing en verschuldigdheid
+### Afdeling 4. Tarief
+### Afdeling 5. Belastingvermindering
+### Afdeling 6. Verplichtingen ten dienste van de belastingheffing
+### Afdeling 7. Bijzondere regelingen
+## Hoofdstuk IX. Algemene bepalingen
 ### Afdeling 1. Wijze van heffing
 ### Afdeling 2. Aanvullende regelingen
-### Afdeling 3. Evaluatie
-## Hoofdstuk VII. Slotbepalingen
+## Hoofdstuk X. Slotbepalingen
