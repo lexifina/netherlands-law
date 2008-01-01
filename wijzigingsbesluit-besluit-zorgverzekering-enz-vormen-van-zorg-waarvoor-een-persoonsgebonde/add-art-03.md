@@ -1,0 +1,5 @@
+# Artikel III
+1. Een verzekerde behoudt recht op het persoonsgebonden budget gedurende de looptijd van het indicatiebesluit als bedoeld in het Zorgindicatiebesluit volgens de door de zorgverzekeraar in de modelovereenkomst te bepalen termijnen waarin het budget aan de verzekerde wordt betaald, tot uiterlijk tot 1 januari 2009, indien:
+a. de verzekerde op 31 december 2007 een persoonsgebonden budget ingevolge de Algemene Wet Bijzondere Ziektekosten ontving op basis van een indicatiebesluit als bedoeld in het Zorgindicatiebesluit, en
+b. uit dit indicatiebesluit blijkt dat de verzekerde is aangewezen op zorg in verband met een psychiatrische aandoening op de levering of vergoeding waarvan met ingang van 1 januari 2008 recht bestaat op grond van de Zorgverzekeringswet.
+2. Het eerste lid laat onverlet dat de verzekerde, om aanspraak te maken op het persoonsgebonden budget, zich verantwoordt jegens de zorgverzekeraar over het gebruik van het persoonsgebonden budget op de wijze zoals in de modelovereenkomst is bepaald.
