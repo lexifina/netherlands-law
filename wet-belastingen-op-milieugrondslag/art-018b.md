@@ -1,6 +1,0 @@
-# Artikel 18b
-1. Op verzoek wordt teruggaaf van belasting verleend met betrekking tot stoffen, preparaten of andere producten die de inrichting, al dan niet na nuttige toepassing, verlaten, met dien verstande dat geen teruggaaf wordt verleend voor percolaat of stortgas.
-2. Bij ministeriële regeling kunnen met betrekking tot de in het eerste lid bedoelde stoffen, preparaten of andere producten die nuttig zijn toegepast, nadere regels worden gesteld ter berekening van het terug te geven bedrag aan belasting.
-3. Indien bij de afgifte van een afzonderlijke, duidelijk herkenbare afvalstoffenstroom aan een inrichting bekend is dat deze niet uitsluitend bestaat uit voor verwijdering bestemde afvalstoffen, kan de inspecteur op schriftelijk verzoek van de belastingplichtige toestaan dat met betrekking tot die afvalstroom de totale hoeveelheid afgegeven afvalstoffen door toepassing van een verhoudingsgetal wordt herleid tot de hoeveelheid voor verwijdering afgegeven afvalstoffen.
-4. Het verhoudingsgetal, bedoeld in het derde lid, wordt gebaseerd op de in het voorafgaande tijdvak gerealiseerde cijfers. Na afloop van het kalenderjaar vindt herrekening plaats op de voet van het eerste lid.
-5. Artikel 10a, tweede tot en met zesde lid, is van overeenkomstige toepassing.
