@@ -37,14 +37,10 @@
 ### afdeling Tweede. De gevolgen van de toepassing van de schuldsaneringsregeling
 ### afdeling Derde. Het bestuur over de boedel
 ### afdeling Vierde. De voorzieningen na de uitspraak tot de toepassing van de schuldsaneringsregeling en de taak van de bewindvoerder
-### afdeling VIJFDE. Verificatie van vorderingen, behandeling van ontwerp van akkoord en raadpleging over voortzetting van de toepassing van de schuldsaneringsregeling en het ontwerp van saneringsplan
-#### Paragraaf 1. Verificatie van vorderingen
-#### Paragraaf 2. Het ontwerp van akkoord
-#### Paragraaf 3. Raadpleging over voortzetting van de schuldsaneringsregeling en het ontwerp van saneringsplan
-### afdeling Zesde. Behandeling door de rechtbank
-### afdeling Zevende. Het saneringsplan
-### afdeling Achtste. De vereffening van de boedel
-### afdeling Negende. Beëindiging van de toepassing van de schuldsaneringsregeling
-### afdeling Tiende. Bijzondere bepalingen
-### afdeling Elfde. Slotbepalingen
+### afdeling Vijfde. Verificatie van vorderingen
+### afdeling Zesde. Het akkoord
+### afdeling Zevende. De vereffening van de boedel
+### afdeling Achtste. Termijn en beëindiging van de toepassing van de schuldsaneringsregeling
+### afdeling Negende. Bijzondere bepalingen
+### afdeling Tiende. Slotbepalingen
 ### Algemene slotbepaling
