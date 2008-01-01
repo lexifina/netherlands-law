@@ -1,0 +1,2 @@
+# Artikel V
+De tekst van de Wet belastingen op milieugrondslag wordt in het Staatsblad geplaatst zoals deze luidt per 1 januari 2008, of indien deze wet in werking treedt op een latere datum, zoals deze luidt per die datum. Voor de plaatsing in het Staatsblad stelt Onze Minister van Financiën de nummering van de artikelen, hoofdstukken en afdelingen van de Wet belastingen op milieugrondslag opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van de artikelen, hoofdstukken en afdelingen met de nieuwe nummering in overeenstemming.

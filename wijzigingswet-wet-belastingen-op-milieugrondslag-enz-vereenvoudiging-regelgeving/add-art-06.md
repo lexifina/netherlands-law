@@ -1,0 +1,2 @@
+# Artikel VI
+Ingeval de samenloop van onderhavig wetsvoorstel en wetten die wijzigingen aanbrengen in de Wet belastingen op milieugrondslag en die eerder dan onderhavig wetsvoorstel, nadat het tot wet is verheven, in het Staatsblad zijn of worden gepubliceerd, niet of niet juist is geregeld, of als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelen, artikelonderdelen, verwijzingen en dergelijke in de Wet belastingen op milieugrondslag, kan die wet op dit punt bij ministeriële regeling worden gewijzigd.
