@@ -1,0 +1,2 @@
+# Artikel 43a
+Artikel 43 is van overeenkomstige toepassing op de verpakkingenbelasting die is verschuldigd door een concern als bedoeld in artikel 36s, onderdeel g, van de Wet belastingen op milieugrondslag, met dien verstande dat, ingeval het concern een samenwerkingsverband betreft als bedoeld in dat onderdeel g, onder 2o, de tot het concern behorende producenten en importeurs, bedoeld in artikel 36s, onderdeel e onderscheidenlijk f, van die wet ieder aansprakelijk zijn naar evenredigheid van hun aandeel in de door het concern verschuldigde verpakkingenbelasting.
