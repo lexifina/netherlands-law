@@ -1,2 +1,0 @@
-# Artikel 122ca. Overgangsrecht geen eigenrisicodragen kleine werkgevers
-In afwijking van artikel 40 en artikel 122c, vierde lid, wordt geen toestemming verleend om in de jaren 2005 en 2006 het risico van betaling van WGA-uitkering overeenkomstig hoofdstuk 9 van de Wet werk en inkomen naar arbeidsvermogen zelf te dragen aan de werkgever te wiens laste, in het tweede kalenderjaar dat aan het premiejaar vooraf is gegaan, een premieplichtig loon is gekomen dat gelijk is of minder bedraagt dan 25 maal het gemiddelde premieplichtig loon per werknemer in dat kalenderjaar.

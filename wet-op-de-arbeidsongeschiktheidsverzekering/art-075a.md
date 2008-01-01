@@ -1,5 +1,5 @@
 # Artikel 75a
-1. De eigenrisicodrager, bedoeld in artikel 40, aanhef en eerste lid, onderdeel b, van de Wet financiering sociale verzekeringen, draagt gedurende de periode van vier jaar nadat de arbeidsongeschiktheidsuitkering is ingegaan het risico van de betaling van de arbeidsongeschiktheidsuitkering die is toegekend:
+1. De eigenrisicodrager draagt gedurende de periode van vier jaar nadat de arbeidsongeschiktheidsuitkering is ingegaan het risico van de betaling van die uitkering die is toegekend:
 a. aan de werknemer die op de eerste dag van de ongeschiktheid tot het verrichten van zijn arbeid als bedoeld in artikel 19 van de Ziektewet tot de eigen risicodrager in dienstbetrekking stond en ter zake van die ongeschiktheid de wachttijd van 104 weken, bedoeld in artikel 19 heeft doorgemaakt;
 b. met toepassing van artikel 43a, eerste lid, onderdeel a, nadat de arbeidsongeschiktheidsuitkering toegekend aan de werknemer, bedoeld in onderdeel a, is ingetrokken op grond van artikel 43, eerste lid;
 c. met toepassing van artikel 43a, eerste lid, onderdeel b, aan de werknemer, bedoeld in onderdeel a, die aan het einde van de wachttijd ongeschikt was tot het verrichten van zijn arbeid wegens ziekte of gebreken, maar geen recht had op toekenning van arbeidsongeschiktheidsuitkering omdat hij niet arbeidsongeschikt was;
