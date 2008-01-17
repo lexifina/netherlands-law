@@ -1,0 +1,3 @@
+# Artikel 75c
+1. Een verzoek als bedoeld in artikel VI, derde lid, van de Wet van 14 december 2000 tot wijziging van de Wet op de belastingen van rechtsverkeer, de Natuurschoonwet 1928, de Wet op de loonbelasting 1964, de Wet op de vennootschapsbelasting 1969 en de Coördinatiewet Sociale Verzekering, geschiedt met gebruikmaking van het formulier 'Aanvraag (geen) hernieuwde rangschikking als landgoed Natuurschoonwet 1928' dat is opgenomen in bijlage IV.
+2. In afwijking van artikel 7, eerste en tweede lid, van het Rangschikkingsbesluit Natuurschoonwet 1928 bevat het verzoek, bedoeld in het eerste lid, de in het formulier gevraagde gegevens en worden bij het verzoek de documenten overgelegd zoals aangegeven in het formulier.

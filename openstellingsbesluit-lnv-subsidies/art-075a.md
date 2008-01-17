@@ -1,0 +1,2 @@
+# Artikel 75a
+Als formulier waarmee aanvragen tot subsidieverlening als bedoeld in artikel 3, eerste lid, onderdeel a en b, artikel 6, eerste lid, artikel 12, eerste lid, artikel 18, eerste lid, artikel 23, eerste lid, artikel 23, tweede lid, onderdeel a en b, artikel 28, artikel 34, eerste lid, artikel 39, eerste lid, artikel 43, artikel 47, eerste lid, artikel 53, artikel 59 en artikel 65 worden ingediend, zijn vastgesteld de aanvraagformulieren die overeenkomen met de desbetreffende modellen opgenomen in Bijlage II bij dit besluit.
