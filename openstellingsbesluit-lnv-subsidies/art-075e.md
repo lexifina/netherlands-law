@@ -1,2 +1,0 @@
-# Artikel 75e
-Als formulier waarmee aanvragen tot subsidievaststelling als bedoeld in artikel 3, eerste lid, onderdeel a en b, artikel 6, eerste lid, artikel 18, eerste lid, 23, eerste lid, 23, tweede lid, onderdeel a en b, artikel 28, artikel 34, artikel 39, eerste lid, artikel 43, eerste lid, artikel 47, eerste lid, artikel 53 en artikel 59, worden ingediend, zijn vastgesteld de formulieren die overeenkomen met de desbetreffende modellen opgenomen in bijlage VI van dit besluit.
