@@ -1,0 +1,7 @@
+# Inhoud
+## § 1. Begripsbepaling en toepassingsgebied
+## § 2. De heffingen
+## § 3. De vaststelling en oplegging van de heffing
+## § 4. De betaling van de heffing
+## § 5. Vermindering van heffing
+## § 6. Overige bepalingen
