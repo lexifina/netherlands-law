@@ -1,0 +1,2 @@
+# Artikel 8:. Inwerkingtreding
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij is geplaatst.
