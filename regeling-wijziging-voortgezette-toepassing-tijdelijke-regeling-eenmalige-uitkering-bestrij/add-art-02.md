@@ -1,0 +1,2 @@
+# Artikel II
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt, met uitzondering van artikel I, onderdeel B, terug tot en met 1 januari 2008.
