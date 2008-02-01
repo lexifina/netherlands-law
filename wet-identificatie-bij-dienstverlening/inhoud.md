@@ -1,0 +1,2 @@
+# Inhoud
+## Categorie-indeling
