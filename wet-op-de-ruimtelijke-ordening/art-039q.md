@@ -1,0 +1,3 @@
+# Artikel 39q
+1. Onverminderd het bepaalde in artikel 59, eerste lid, van de onteigeningswet kan het vonnis van onteigening van de rechtbank niet eerder in de openbare registers worden ingeschreven dan nadat het rijksprojectbesluit onherroepelijk is geworden.
+2. In aanvulling op de artikelen 54n en 59 van de onteigeningswet is ten behoeve van de in het eerste lid bedoelde inschrijving een uitspraak van de Afdeling bestuursrechtspraak van de Raad van State dan wel een verklaring van de Secretaris van de Raad van State nodig, waaruit blijkt dat het rijksprojectbesluit onherroepelijk is geworden.

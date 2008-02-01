@@ -1,0 +1,2 @@
+# Artikel 36f
+De bekendmaking van een besluit als bedoeld in artikel 36e, tweede lid, geschiedt door het besluit tezamen met het regionaal structuurplan voor een ieder ter inzage te leggen ter secretarie van het regionaal openbaar lichaam en van de gemeenten op wier gebied het betrekking heeft. De artikelen 3:11, eerste, tweede en derde lid, en 3:12, eerste en tweede lid, en derde lid, onderdeel a, van de Algemene wet bestuursrecht alsmede artikel 4a, derde lid, onderdeel b, zijn van overeenkomstige toepassing.

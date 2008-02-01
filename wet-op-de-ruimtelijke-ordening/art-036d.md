@@ -1,0 +1,3 @@
+# Artikel 36d
+1. Op de voorbereiding van een regionaal structuurplan is artikel 8 van overeenkomstige toepassing, met dien verstande dat het ontwerp ter inzage ligt ter secretarie van het regionaal openbaar lichaam en van de gemeenten op wier gebied het betrekking heeft en dat burgemeester en wethouders worden vervangen door het dagelijks bestuur van het regionaal openbaar lichaam.
+2. Binnen acht weken of, indien over het ontwerp een zienswijze naar voren is gebracht, binnen vier maanden na afloop van de termijn voor terinzageligging van het ontwerp, stelt het algemeen bestuur van het regionaal openbaar lichaam het regionaal structuurplan vast.

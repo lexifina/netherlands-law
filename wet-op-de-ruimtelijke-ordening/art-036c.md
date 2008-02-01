@@ -1,0 +1,3 @@
+# Artikel 36c
+1. Het algemeen bestuur van een regionaal openbaar lichaam stelt voor het samenwerkingsgebied een regionaal structuurplan vast, waarin de toekomstige ontwikkeling van dat gebied wordt aangegeven. In dat plan worden concrete beleidsbeslissingen opgenomen over de lokatie van projecten of voorzieningen van regionaal belang. Bij de vaststelling van gemeentelijke plannen als bedoeld in Hoofdstuk IV van deze wet en Hoofdstuk IV van de Wet op de stads- en dorpsvernieuwing worden die beslissingen in acht genomen.
+2. Indien toepassing wordt gegeven aan het eerste lid, blijft voor het daarbij begrepen gebied artikel 7, tweede lid, buiten toepassing.
