@@ -1,7 +1,7 @@
 # Artikel 38m
 1. De rechter kan op vordering van het openbaar ministerie de maatregel opleggen tot plaatsing van een verdachte in een inrichting voor stelselmatige daders, indien:
 1°. het door de verdachte begane feit een misdrijf betreft waarvoor voorlopige hechtenis is toegelaten;
-2°. de verdachte in de vijf jaren voorafgaand aan het door hem begane feit ten minste driemaal wegens een misdrijf onherroepelijk tot een vrijheidsbenemende straf of maatregel, een vrijheidsbeperkende maatregel of een taakstraf is veroordeeld, het feit is begaan na tenuitvoerlegging van deze straffen of maatregelen en er voorts ernstig rekening mede moet worden gehouden dat de verdachte wederom een misdrijf zal begaan, en
+2°. de verdachte in de vijf jaren voorafgaand aan het door hem begane feit ten minste driemaal wegens een misdrijf onherroepelijk tot een vrijheidsbenemende straf of maatregel, een vrijheidsbeperkende maatregel of een taakstraf is veroordeeld dan wel bij onherroepelijke strafbeschikking een taakstraf is opgelegd, het feit is begaan na tenuitvoerlegging van deze straffen of maatregelen en er voorts ernstig rekening mede moet worden gehouden dat de verdachte wederom een misdrijf zal begaan, en
 3°. de veiligheid van personen of goederen het opleggen van de maatregel eist.
 2. De maatregel strekt tot beveiliging van de maatschappij en de beëindiging van de recidive van de verdachte.
 3. Indien de verdachte verslaafde is dan wel ten aanzien van hem andere specifieke problematiek bestaat waarmee het plegen van strafbare feiten samenhangt, strekt de maatregel er mede toe een bijdrage te leveren aan de oplossing van zijn verslavingsproblematiek dan wel van die andere problematiek.
