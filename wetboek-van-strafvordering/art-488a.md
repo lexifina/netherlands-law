@@ -1,0 +1,2 @@
+# Artikel 488a
+Artikel 94a is van overeenkomstige toepassing op personen die ten tijde van het begaan van het feit de leeftijd van achttien jaren nog niet hebben bereikt, met dien verstande dat inbeslagneming tot bewaring van het recht tot verhaal ten aanzien van jeugdigen mogelijk is in geval van verdenking van onderscheidenlijk verdenking van of veroordeling wegens een misdrijf waarvoor een geldboete van de vierde categorie kan worden opgelegd.

@@ -11,6 +11,7 @@ a. verbeurdverklaring;
 b. ontzegging van de bevoegdheid motorrijtuigen te besturen.
 4. De maatregelen zijn:
 a. plaatsing in een inrichting voor jeugdigen;
-b. onttrekking aan het verkeer;
-c. ontneming van wederrechtelijk verkregen voordeel;
-d. schadevergoeding.
+b. maatregel betreffende het gedrag van de jeugdige;
+c. onttrekking aan het verkeer;
+d. ontneming van wederrechtelijk verkregen voordeel;
+e. schadevergoeding.
