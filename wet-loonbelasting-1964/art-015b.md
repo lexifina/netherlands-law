@@ -15,7 +15,7 @@ k. verschuldigde loonbelasting en bij wijze van inhouding verschuldigde premie v
 l. premies voor buitenlandse verzekeringen die naar aard en strekking overeenkomen met de volksverzekeringen, tenzij de werknemer premieplichtig is voor de volksverzekeringen;
 m. geldboeten opgelegd door een Nederlandse strafrechter en geldsommen betaald aan de Staat ter voorkoming van strafvervolging in Nederland of ter voldoening aan een voorwaarde verbonden aan een besluit tot gratieverlening, bestuurlijke boeten, geldboeten opgelegd op basis van bij wet geregeld tuchtrecht, alsmede kosten als bedoeld in artikel 234, zesde lid, en artikel 235, derde lid, van de Gemeentewet;
 n. misdrijven ter zake waarvan de werknemer door een Nederlandse strafrechter bij onherroepelijke uitspraak is veroordeeld, daaronder begrepen de misdrijven die zijn betrokken bij de bepaling van de hoogte van de opgelegde straf en ter zake waarvan het Openbaar Ministerie heeft verklaard te zullen afzien van vervolging;
-o. misdrijven ter zake waarvan de werknemer ter voorkoming van strafvervolging in Nederland aan de gestelde voorwaarden heeft voldaan;
+o. misdrijven terzake waarvan jegens de werknemer een onherroepelijk geworden strafbeschikking is uitgevaardigd;
 p. wapens en munitie, tenzij terzake een erkenning, consent, vergunning, verlof of ontheffing is verleend krachtens de Wet wapens en munitie;
 q. dieren en categorieën van dieren als bedoeld in de krachtens de artikelen 73 en 107 van de Gezondheids- en welzijnswet voor dieren vastgestelde Regeling agressieve dieren, tenzij terzake een dierenpaspoort als bedoeld in artikel 3, tweede lid, onderdeel a, van die regeling is afgegeven;
 r. parkeergelegenheid in of bij de woning van de werknemer;

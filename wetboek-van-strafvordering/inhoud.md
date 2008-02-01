@@ -87,6 +87,15 @@
 #### afdeling Negende. Geen beroep in cassatie voor het openbaar ministerie
 ### Titel IV. Beslissingen omtrent verdere vervolging
 #### Slotbepalingen betreffende het voorbereidend onderzoek
+### Titel IVa. Vervolging door een strafbeschikking
+#### afdeling Eerste. De strafbeschikking
+#### afdeling Tweede. Oplegging door opsporingsambtenaren en lichamen of personen, met een publieke taak belast
+#### afdeling Derde. Waarborgen bij de oplegging
+#### afdeling Vierde. Uitreiken en toezenden van de strafbeschikking
+#### afdeling Vijfde. Het doen van verzet
+#### afdeling Zesde. De behandeling van het verzet
+#### afdeling Zevende. De tenuitvoerlegging
+#### afdeling Achtste. Openbaarheid
 ### Titel V. Aanhangig maken der zaak ter terechtzitting
 ### Titel VI. Behandeling van de zaak door de rechtbank
 #### afdeling Eerste. Onderzoek op de terechtzitting
@@ -147,7 +156,8 @@
 ### Titel I. Tenuitvoerlegging
 #### afdeeling Eerste. Algemeene bepalingen
 #### afdeeling Tweede. Uitvoerbaarheid van beslissingen
-#### afdeeling Derde. Tenuitvoerlegging van bevelen tot vrijheidsbeneming en veroordeelende vonnissen of arresten
+#### afdeeling Derde. Tenuitvoerlegging van strafbeschikkingen, bevelen tot vrijheidsbeneming en veroordeelende vonnissen of arresten
+#### Derde afdeling A. Gijzeling
 #### afdeeling Vierde. Rechtsgeding tot herkenning van veroordeelden of van andere gevonniste personen
 #### afdeeling Vijfde. Wijze van kennisgeving van gerechtelijke mededelingen aan natuurlijke personen
 ### Titel II. Kosten
