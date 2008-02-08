@@ -1,0 +1,4 @@
+# Artikel 4a
+De algemeen directeur, de directeur projecten, de directeur uitvoering en de manager en plaatsvervangend manager recht en rechtsbescherming zijn bevoegd om namens de minister besluiten te nemen en stukken te ondertekenen met betrekking tot:
+a. de machtiging van medewerkers werkzaam bij Dienst Regelingen om de minister te vertegenwoordigen bij de bestuursrechter inzake beroepen en andere rechtsmiddelen als onder b. bedoeld, die aanhangig zijn tegen of betrekking hebben op beslissingen die zijn genomen in het kader van het besluit;
+b. het instellen van hoger beroep of verzet, het indienen van een verzoek om voorlopige voorziening of een verzoek om opheffing van een voorlopige voorziening of het instellen van een ander rechtsmiddel tegen rechterlijke uitspraken in gedingen in het kader van het besluit.
