@@ -5,4 +5,4 @@
 a. pensioenbedragen: de krachtens artikel 28b, eerste lid, onder a, verhoogde of verlaagde bedragen, vermeerderd met 1 procent;
 b. grondslagen, welke voor de toepassing van artikel 11, tweede lid, gelden voor de verrekening van inkomsten met het buitengewoon pensioen: de krachtens artikel 28b, eerste lid, onder b, fictief herziene grondslagen, welke geacht worden te zijn vermeerderd met 1 procent;
 c. de maxima, bedoeld in de artikelen 17, e, f en g, 18, eerste lid, en 19, eerste lid: de krachtens artikel 28b, eerste lid, onder c, fictief herziene maxima, welke worden geacht te zijn vermeerderd met 1 procent.
-4. De pensioenbedragen alsmede de bedragen van de grondslagen en maxima, bedoeld in het derde lid, worden naar boven afgerond tot volle guldens.
+4. De pensioenbedragen alsmede de bedragen van de grondslagen en maxima, bedoeld in het derde lid, worden naar boven afgerond tot hele euro's.
