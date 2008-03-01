@@ -1,2 +1,0 @@
-# Artikel 14a
-Indien de aangevraagde bedrijfsactiviteiten, bedoeld in artikel 8 van het besluit, niet zullen plaatsvinden, worden uitgesteld of overigens wijziging ondergaan, als gevolg van niet aan de VWA te wijten oorzaken of omstandigheden, bericht degene die de aanvraag heeft gedaan, dit schriftelijk aan de regionaal directeur, uiterlijk om 14.00 uur van de werkdag, voorafgaande aan de dag waarop de activiteiten plaatsvinden dan wel zouden hebben plaatsgevonden.
