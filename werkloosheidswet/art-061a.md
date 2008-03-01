@@ -1,0 +1,3 @@
+# Artikel 61a
+1. De nagelaten betrekkingen van een werknemer hebben recht op uitkering op grond van dit hoofdstuk over de periode vanaf de dag na overlijden tot en met één maand na de dag van het overlijden, ten bedrage van het loon dat de werknemer laatstelijk rechtens toekwam, indien zij van een werkgever, die verkeert in een omstandigheid als bedoeld in artikel 61, een overlijdensuitkering te vorderen hebben.
+2. Artikel 674, derde en vierde lid, van Boek 7 van het Burgerlijk Wetboek en artikel 63 zijn van overeenkomstige toepassing met betrekking tot het recht op uitkering op grond van dit artikel. De artikelen 19, 20, 21, 64 en 65 zijn niet van toepassing met betrekking tot het recht op uitkering op grond van dit artikel.

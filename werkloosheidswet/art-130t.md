@@ -1,0 +1,2 @@
+# Artikel 130t
+Hoofdstuk IV en de daarop berustende bepalingen zoals deze luidden op de dag voor inwerkingtreding van de Wet van 6 december 2007 tot wijziging van hoofdstuk IV van de Werkloosheidswet teneinde enkele vereenvoudigingen te realiseren en uitkering bij overlijden toe te voegen (Stb. 2007, 545) blijven van toepassing met betrekking tot een recht op uitkering waarvan de eerste dag van de periode, bedoeld in artikel 64, eerste lid, onderdeel a, is gelegen op of voor die dag doch op of na 1 oktober 2006.
