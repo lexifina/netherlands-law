@@ -1,0 +1,2 @@
+# Artikel 4a
+Indien met toepassing van artikel 4, eerste lid, aan een vergunning als bedoeld in artikel 8.1 van de wet of artikel 1 van de Wet verontreiniging oppervlaktewateren een voorschrift is verbonden als in dat lid bedoeld, blijft dat voorschrift met betrekking tot het betrokken verslagjaar buiten toepassing voor zover de betrokken gegevens reeds ingevolge artikel 5, eerste lid, van de EG-verordening PRTR worden verstrekt.
