@@ -72,6 +72,11 @@
 ## Hoofdstuk 12. Verslag-, registratie- en meetverplichtingen
 ### Titel 12.1. Milieuverslaglegging
 ### Titel 12.2. Registratie gegevens externe veiligheid inrichtingen, transportroutes en buisleidingen
+### Titel 12.3. De EG-verordening PRTR en het PRTR-protocol
+#### § 12.3.1. Algemeen
+#### § 12.3.2. Rapportage door inrichtingen
+#### § 12.3.3. PRTR
+#### § 12.3.4. Slotbepalingen
 ## Hoofdstuk 13. Procedures voor vergunningen en ontheffingen
 ### Afdeling 13.1. Algemeen
 ### Afdeling 13.2. Bijzondere bepalingen
