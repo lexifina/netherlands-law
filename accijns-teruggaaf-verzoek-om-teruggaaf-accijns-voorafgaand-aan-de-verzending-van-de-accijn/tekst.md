@@ -1,9 +1,0 @@
-# Tekst
-De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
-Aan mij is een vraag voorgelegd over verzoeken om teruggaaf van accijns voorafgaand aan de verzending van accijnsgoederen naar een andere lidstaat.
-## Vraag
-Om in aanmerking te komen voor teruggaaf van accijns voor accijnsgoederen die door een ondernemer zijn overgebracht naar een ondernemer dan wel een publiekrechtelijk lichaam, anders dan als ondernemer, in een andere lidstaat, moet belanghebbende voorafgaand aan het verzenden van de accijnsgoederen een verzoek om teruggaaf doen.
-Is het toegestaan af te zien van de eis dat een verzoek om teruggaaf van accijns moet worden gedaan voorafgaand aan de verzending van de goederen naar een andere lidstaat in de gevallen dat een ondernemer anders dan eenmalig accijnsgoederen waarvan de accijns is geheven naar een andere lidstaat verzendt?
-## Antwoord
-Ja, ik sta toe dat een ondernemer die meer dan eenmaal accijnsgoederen, waarvan de accijns is geheven, verzendt naar een andere lidstaat bij een tweede en volgende zending een verzoek om teruggaaf van accijns pas doet nadat de goederen zijn overgebracht naar een andere lidstaat. Na ontvangst van het eerste verzoek om teruggaaf na publicatie van dit besluit stelt de douane verzoeker schriftelijk in kennis van de eisen waaraan verzoeken om teruggaaf moeten voldoen.
-Een ondernemer die meer dan eenmalig accijnsgoederen verzendt naar een andere lidstaat, waarvoor teruggaaf van accijns wordt verzocht, kan uit ervaring bekend zijn met de voorwaarden waaraan moet worden voldaan om voor teruggaaf in aanmerking te komen. Om die reden verliest de verplichting om voorafgaande aan de verzending van de goederen reeds een verzoek om teruggaaf te moeten doen haar belang. Dit in tegenstelling tot een ondernemer die eenmalig een verzoek om teruggaaf van accijns doet voor goederen die naar een ander lidstaat worden verzonden.
