@@ -1,0 +1,3 @@
+# Artikel IV
+1. Onze Minister van Justitie zendt in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschappen vóór 1 januari 2000 aan de Staten-Generaal een verslag over de werking en het effect van de in de Auteurswet en de Wet op de naburige rechten opgenomen regeling terzake van het leenrecht.
+2. De stichting, bedoeld in artikel 15d van de Auteurswet onderscheidenlijk artikel 15b van de Wet op de naburige rechten, en de rechtspersoon, bedoeld in artikel 15f van de Auteurswet onderscheidenlijk artikel 15a van de Wet op de naburige rechten, zijn verplicht de voor het in het eerste lid bedoelde verslag noodzakelijke gegevens te verschaffen en voor het overige hun medewerking te verlenen aan de voorbereiding van dit verslag.

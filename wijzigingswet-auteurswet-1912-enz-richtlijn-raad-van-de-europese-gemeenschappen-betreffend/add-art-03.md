@@ -1,0 +1,4 @@
+# Artikel III
+1. Deze wet laat vóór het tijdstip van inwerkingtreding van deze wet verrichte exploitatiehandelingen onverlet.
+2. Voor het verhuren van een werk in de zin van de Auteurswet en van een prestatie in de zin van de Wet op de naburige rechten, waarvan de verhuurder aantoont dat hij daarover vóór het tijdstip van inwerkingtreding van deze wet op rechtmatige wijze de beschikking heeft gekregen, wordt de rechthebbende geacht toestemming te hebben gegeven, onverminderd het recht van de rechthebbende op een billijke vergoeding.
+3. Het recht op een billijke vergoeding bedoeld in artikel 12a, en artikel 45d, zesde zin, van de Auteurswet en in artikel 2a van de Wet op de naburige rechten, voortvloeiend uit een vóór het tijdstip van inwerkingtreding van deze wet gesloten overeenkomst, wordt uiterlijk op 31 december 1996 ingeroepen.
