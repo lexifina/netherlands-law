@@ -8,6 +8,6 @@ c. de wijze waarop aan het bevel uitvoering wordt gegeven, en
 d. de geldigheidsduur van het bevel.
 4. Een bevel als bedoeld het eerste lid kan ook worden gegeven aan:
 a. een persoon in de openbare dienst van een vreemde staat, die voldoet aan bij algemene maatregel van bestuur te stellen eisen;
-b. een opsporingsambtenaar als bedoeld in artikel 141, onderdeel c, of artikel 142, mits deze opsporingsambtenaar voldoet aan bij algemene maatregel van bestuur te stellen regels terzake van opleiding en samenwerking met opsporingsambtenaren als bedoeld in artikel 141, onderdeel b.
+b. een opsporingsambtenaar als bedoeld in artikel 141, onderdelen c en d, of artikel 142, mits deze opsporingsambtenaar voldoet aan bij algemene maatregel van bestuur te stellen regels terzake van opleiding en samenwerking met opsporingsambtenaren als bedoeld in artikel 141, onderdeel b.
 Het tweede en derde lid zijn van overeenkomstige toepassing.
 5. Artikel 126g, zesde tot en met achtste lid, is van overeenkomstige toepassing.

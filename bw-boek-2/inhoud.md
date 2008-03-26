@@ -9,7 +9,7 @@
 #### Afdeling 1. Algemene bepalingen
 #### Afdeling 2. De aandelen
 #### Afdeling 3. Het vermogen van de naamloze vennootschap
-#### Afdeling 4. De algemene vergadering van aandeelhouders
+#### Afdeling 4. De algemene vergadering
 #### Afdeling 5. Het bestuur van de naamloze vennootschap en het toezicht op het bestuur
 #### Afdeling 6. De raad van commissarissen bij de grote naamloze vennootschap
 #### Afdeling 7. De ontbinding van de naamloze vennootschap

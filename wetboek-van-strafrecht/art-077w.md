@@ -1,6 +1,6 @@
 # Artikel 77w
 1. De maatregel betreffende het gedrag van de jeugdige kan slechts worden opgelegd, indien:
-a. hetzij de ernst van het begane misdrijf, hetzij de veelvuldigheid van de begane misdrijven, hetzij voorafgegane veroordelingen wegens misdrijf hiertoe aanleiding geven, en
+a. de ernst van het begane misdrijf of de veelvuldigheid van de begane misdrijven of voorafgegane veroordelingen wegens misdrijf hiertoe aanleiding geven, en
 b. de maatregel in het belang is van een zo gunstig mogelijke verdere ontwikkeling van de verdachte.
 2. De rechter legt de maatregel slechts op, nadat hij zich een met redenen omkleed, gedagtekend en ondertekend advies heeft doen overleggen van de raad voor de kinderbescherming, dat wordt ondersteund door ten minste een gedragsdeskundige. Indien dit advies eerder dan een jaar voor de aanvang van de terechtzitting is gedagtekend kan de rechter hier slechts gebruik van maken met instemming van het openbaar ministerie en de verdachte.
 3. De rechter geeft in zijn uitspraak aan waar de maatregel uit bestaat. De maatregel kan inhouden dat de veroordeelde aan een programma deelneemt in een door de rechter aan te wijzen instelling of dat de veroordeelde een ambulant programma zal volgen onder begeleiding van een door de rechter aan te wijzen organisatie.
