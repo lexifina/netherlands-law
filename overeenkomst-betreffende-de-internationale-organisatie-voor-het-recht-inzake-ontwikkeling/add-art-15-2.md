@@ -1,0 +1,2 @@
+# Artikel XV. Overgang
+Bij de inwerkingtreding van deze Overeenkomst neemt het Instituut alle nodige maatregelen ter verwerving van de rechten, verplichtingen, vergunningen, eigendommen en rentetegoeden van zijn rechtsvoorganger, het Internationaal Instituut voor het Recht inzake Ontwikkeling (International Development Law Institute), een niet-gouvernementele organisatie wettig gevestigd te Rotterdam, Nederland.

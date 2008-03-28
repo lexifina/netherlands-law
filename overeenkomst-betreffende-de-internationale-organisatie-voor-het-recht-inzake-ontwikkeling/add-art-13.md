@@ -1,0 +1,4 @@
+# Article XIII. Signature, ratification, acceptance, approval and accession
+1. This Agreement shall be open for signature by states and intergovernmental organisations. It may also be signed, in lieu of any state, by a national public development organisation delegated to act on its behalf by such a state. It shall remain open for signature for a period of two years from June 1, 1987, unless such period is extended prior to its expiry by the Depositary. Signature of the Agreement by any party eligible under this provision thereafter shall require approval of the Assembly by a simple majority.
+2. The Government of Italy shall be the Depositary of this Agreement.
+3. Ratification, acceptance or approval of this Agreement shall be undertaken by the signatories in accordance with their own laws, regulations and procedures.

@@ -1,0 +1,4 @@
+# Artikel XIII. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+1. Deze Overeenkomst staat open voor ondertekening door Staten en intergouvernementele organisaties. In plaats van door een Staat kan zij ook worden ondertekend door een ontwikkelingsorganisatie van een nationale overheid aan wie gedelegeerd is om namens de desbetreffende Staat te handelen. Zij staat open voor ondertekening gedurende een tijdvak van twee jaar vanaf 1 juni 1987, tenzij deze termijn vóór het verstrijken daarvan door de depositaris wordt verlengd. Voor latere ondertekening van deze Overeenkomst door een partij die daarvoor op grond van deze bepaling in aanmerking komt, is de goedkeuring van de Vergadering bij eenvoudige meerderheid vereist.
+2. De Regering van Italië is de depositaris van deze Overeenkomst.
+3. Bekrachtiging, aanvaarding of goedkeuring van deze Overeenkomst geschiedt door de ondertekenaars overeenkomstig hun eigen wetten, voorschriften en procedures.
