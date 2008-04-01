@@ -46,6 +46,7 @@
 ### Afdeling 3. Maatstaf van heffing en verschuldigdheid
 ### Afdeling 4. Tarief
 ### Afdeling 5. Belastingvermindering
+### Afdeling 5a. Exportvermindering
 ### Afdeling 6. Verplichtingen ten dienste van de belastingheffing
 ### Afdeling 7. Bijzondere regelingen
 ## Hoofdstuk IX. Algemene bepalingen
