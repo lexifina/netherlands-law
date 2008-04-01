@@ -1,0 +1,3 @@
+# Artikel 2a
+1. De substituut-ombudsman die ingevolge artikel 10, derde lid, van de Wet Nationale ombudsman is belast met de waarneming van het ambt van de ombudsman, geniet voor de duur van de waarneming een waarnemingstoelage tot de hoogte van het bedrag van de bezoldiging van de ombudsman.
+2. De substituut-ombudsman die ingevolge artikel 10, eerste lid, van de Wet Nationale ombudsman gedurende meer dan 30 dagen onafgebroken is belast met de vervanging van de ombudsman, geniet voor de duur van de vervanging een vervangingstoelage tot de hoogte van het bedrag van de bezoldiging van de ombudsman.
