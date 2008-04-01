@@ -1,0 +1,2 @@
+# Artikel VI
+De instemming van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer met mededelingen die voor de inwerkingtreding van dit besluit zijn gedaan op grond van artikel 12, eerste lid, van het Besluit beheer autowrakken, artikel 6, eerste lid, van het Besluit beheer batterijen, artikel 4, eerste lid, van het Besluit beheer elektrische en elektronische apparatuur of artikel 6, eerste lid, van het Besluit beheer verpakkingen en papier en karton, geldt voor onbeperkte tijd.
