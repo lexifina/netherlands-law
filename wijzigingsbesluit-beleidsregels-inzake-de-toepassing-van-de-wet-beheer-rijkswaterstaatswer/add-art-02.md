@@ -1,0 +1,2 @@
+# Artikel II
+Artikel I is tot en met 28 februari 2009 niet van toepassing op een aanvraag die gepaard gaat met de gegevens en bescheiden, bedoeld in artikel 4, eerste en vierde lid, van de Beleidsregels inzake de toepassing van de Wet beheer rijkswaterstaatswerken op installaties in de exclusieve economische zone, voor een activiteit ten aanzien waarvan vóór 1 april 2008 een schriftelijke mededeling als bedoeld in artikel 7.12, eerste lid, van de Wet milieubeheer, is gedaan aan de Minister van Verkeer en Waterstaat.
