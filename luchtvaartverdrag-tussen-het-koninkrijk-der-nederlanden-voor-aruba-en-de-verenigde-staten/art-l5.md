@@ -1,0 +1,2 @@
+# Article l5. Termination
+Either Party may, at any time, give notice in writing to the other Party of its decision to terminate this Agreement. Such notice shall be sent simultaneously to the International Civil Aviation Organization. This Agreement shall terminate at midnight (at the place of receipt of the notice to the other Party) immediately before the first anniversary of the date of receipt of the notice by the other Party, unless the notice is withdrawn by agreement of the Parties before the end of this period.
