@@ -1,0 +1,2 @@
+# Artikel VII. Inwerkingtreding
+Deze wet treedt in werking met ingang van 1 augustus 2007. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 juli 2007, treedt deze wet in werking op de dag na de datum van uitgifte van het Staatsblad waarin zij is geplaatst en werkt zij voor wat betreft artikel II, onderdelen C, D, E, punt 2, en F tot en met I, en artikel III, onderdelen C tot en met E, terug tot en met 1 augustus 2007.
