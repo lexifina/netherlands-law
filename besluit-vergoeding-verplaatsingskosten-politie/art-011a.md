@@ -1,0 +1,3 @@
+# Artikel 11a
+1. De betrokkene, geleider van een politiesurveillancehond of een politiespeurhond, heeft aanspraak op een tegemoetkoming in de kosten voor de dagelijkse reizen tussen de woning en de plaats van tewerkstelling of oefenterrein, indien het noodzakelijk is dat hij in het kader van zijn dienstuitoefening met een politiesurveillancehond of een politiespeurhond reist met eigen vervoer tussen de woning en de plaats van tewerkstelling of oefenterrein. De betrokkene wordt in dat geval een tegemoetkoming in de kosten verleend volgens door Onze Minister vast te stellen regels.
+2. Voor de dagelijkse reizen tussen de woning en plaats van tewerkstelling of oefenterrein, waarop het eerste lid van toepassing is, treedt deze aanspraak in plaats van artikel 11.
