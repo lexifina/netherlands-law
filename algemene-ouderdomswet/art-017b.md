@@ -4,4 +4,4 @@
 3. Indien het niet tijdig nakomen van de verplichting, bedoeld in artikel 49, niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van ouderdomspensioen kan de Sociale verzekeringsbank afzien van het opleggen van een maatregel als bedoeld in het eerste lid en volstaan met het geven van een schriftelijke waarschuwing ter zake het niet tijdig nakomen van de verplichting, tenzij het niet tijdig nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de belanghebbende een zodanige waarschuwing is gegeven.
 4. Indien daarvoor dringende redenen aanwezig zijn kan de Sociale verzekeringsbank besluiten van het opleggen van een maatregel af te zien.
 5. Het opleggen van een maatregel blijft achterwege indien voor dezelfde gedraging een boete als bedoeld in artikel 17c wordt opgelegd.
-6. De Sociale verzekeringsbank stelt nadere regels met betrekking tot het eerste en tweede lid.
+6. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het eerste en tweede lid.
