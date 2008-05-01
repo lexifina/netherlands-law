@@ -50,7 +50,7 @@
 ##### § 8.1.3.2. Gevallen waarin mede een vergunning krachtens de Wet verontreiniging oppervlaktewateren vereist is
 ##### § 8.1.3.3. Gevallen waarin afvalstoffen op een bepaalde wijze nuttig worden toegepast of worden verwijderd
 ### Titel 8.2. Algemene regels
-### Titel 8.3. Regels met betrekking tot gesloten stortplaatsen
+### Titel 8.3. Regels met betrekking tot gesloten stortplaatsen en gesloten afvalvoorzieningen
 ## Hoofdstuk 9. Stoffen en produkten
 ### Titel 9.3. De EG-verordening registratie, evaluatie en autorisatie van chemische stoffen
 ### Titel 9.4. De EG-richtlijn ecologisch ontwerp energieverbruikende producten
@@ -80,11 +80,7 @@
 ## Hoofdstuk 13. Procedures voor vergunningen en ontheffingen
 ### Afdeling 13.1. Algemeen
 ### Afdeling 13.2. Bijzondere bepalingen
-#### § 13.2.3. Adviezen en bezwaren
-#### § 13.2.4. Beschikking op de aanvraag
-#### § 13.2.5. Bekendmaking van de beschikking
-### Afdeling 13.3. Beschikkingen inzake wijziging of intrekking van een vergunning of ontheffing
-### Afdeling 13.4. Bijzondere gevallen
+### Afdeling 13.3. Afvalvoorzieningen categorie A met mogelijke grensoverschrijdende milieugevolgen
 ## Hoofdstuk 14. Coördinatie
 ### § 14.1. Coördinatie bij aanvragen om een beschikking
 ### § 14.2. Coördinatie bij het maken van een milieu-effectrapport
@@ -128,6 +124,7 @@
 #### Afdeling 16.3.6. Registratie van NOx-emissierechten
 #### Afdeling 16.3.7. Overige bepalingen
 ## Hoofdstuk 17. Maatregelen in bijzondere omstandigheden
+### Titel 17.1A. Maatregelen betreffende afvalvoorzieningen
 ## Hoofdstuk 18. Handhaving
 ## Hoofdstuk 19. Openbaarheid van milieu-informatie
 ## Hoofdstuk 20. Beroep bij de administratieve rechter
