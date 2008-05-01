@@ -1,0 +1,2 @@
+# Article IV.3
+Where a qualification gives access only to specific types of institutions or programmes of higher education in the Party in which the qualification was obtained, each other Party shall grant holders of such qualifications access to similar specific programmes in institutions belonging to its higher education system, unless a substantial difference can be demonstrated between the requirements for access in the Party in which the qualification was obtained and the Party in which recognition of the qualification is sought.

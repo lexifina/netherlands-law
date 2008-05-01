@@ -1,0 +1,2 @@
+# Artikel IV.6
+Onverminderd het bepaalde in de artikelen IV.1, IV.2, IV.3, IV.4 en IV.5 kan toelating tot een bepaalde instelling voor hoger onderwijs of tot een gegeven programma binnen een zodanige instelling beperkt of selectief zijn. In de gevallen waarin toelating tot een instelling en/of programma op het gebied van hoger onderwijs selectief is, zouden toelatingsprocedures dienen te worden opgesteld met de bedoeling ervoor te zorgen dat buitenlandse kwalificaties worden beoordeeld volgens de beginselen van billijkheid en non-discriminatie, beschreven in hoofdstuk III.

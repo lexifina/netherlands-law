@@ -1,0 +1,2 @@
+# Article VI.1
+To the extent that a recognition decision is based on the knowledge and skills certified by the higher education qualification, each Party shall recognize the higher education qualifications conferred in another Party, unless a substantial difference can be shown between the qualification for which recognition is sought and the corresponding qualification in the Party in which recognition is sought.

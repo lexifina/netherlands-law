@@ -1,0 +1,2 @@
+# Artikel II.2
+Ten tijde van de ondertekening of bij de nederlegging van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, of op een tijdstip daarna, deelt iedere Staat, Vaticaanstad of de Europese Gemeenschap één der depositarissen van dit Verdrag mede welke autoriteiten bevoegd zijn tot het nemen van de verschillende categorieën beslissingen op het gebied van erkenning.

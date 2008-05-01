@@ -1,0 +1,2 @@
+# Article IV.1
+Each Party shall recognize the qualifications issued by other Parties meeting the general requirements for access to higher education in those Parties for the purpose of access to programmes belonging to its higher education system, unless a substantial difference can be shown between the general requirements for access in the Party in which the qualification was obtained and in the Party in which recognition of the qualification is sought.

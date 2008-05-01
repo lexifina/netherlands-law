@@ -1,0 +1,4 @@
+# Article XI.8
+1. Draft amendments to this Convention may be adopted by the Committee of the Convention on the Recognition of Qualifications concerning Higher Education in the European Region by a two-thirds majority of the Parties. Any draft amendment so adopted shall be incorporated into a Protocol to this Convention. The Protocol shall specify the modalities for its entry into force which, in any event, shall require the expression of consent by the Parties to be bound by it.
+2. No amendment may be made to Section III of this Convention under the procedure of paragraph 1 above.
+3. Any proposal for amendments shall be communicated to one of the depositaries, who shall transmit it to the Parties at least three months before the meeting of the Committee. The depositary shall also inform the Committee of Ministers of the Council of Europe and the Executive Board of UNESCO.

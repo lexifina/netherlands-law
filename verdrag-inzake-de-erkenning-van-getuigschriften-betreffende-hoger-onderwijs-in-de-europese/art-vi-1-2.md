@@ -1,0 +1,2 @@
+# Artikel VI.1
+Voor zover de beslissing betreffende een erkenning is gebaseerd op de kennis en vaardigheden die blijken uit de kwalificaties voor hoger onderwijs, erkent iedere Partij de kwalificaties voor hoger onderwijs die zijn afgegeven op het grondgebied van een andere Partij, tenzij een aanzienlijk verschil kan worden aangetoond tussen de kwalificatie waarvoor erkenning wordt gevraagd en de overeenkomstige kwalificatie op het grondgebied van de Partij waar erkenning wordt gevraagd.

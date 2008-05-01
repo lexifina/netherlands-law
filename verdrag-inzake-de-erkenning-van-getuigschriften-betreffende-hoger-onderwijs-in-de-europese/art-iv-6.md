@@ -1,0 +1,2 @@
+# Article IV.6
+Without prejudice to the provisions of Articles IV.1, IV.2, IV.3, IV.4 and IV.5, admission to a given higher education institution, or to a given programme within such an institution, may be restricted or selective. In cases in which admission to a higher education institution and/or programme is selective, admission procedures should be designed with a view to ensuring that the assessment of foreign qualifications is carried out according to the principles of fairness and non-discrimination described in Section III.

@@ -1,0 +1,2 @@
+# Artikel IV.4
+Wanneer de toelating tot specifieke programma's op het gebied van hoger onderwijs afhankelijk is van de vervulling van specifieke voorwaarden in aanvulling op de algemene toegangseisen, kunnen de bevoegde autoriteiten van de betrokken Partij de aanvullende eisen op gelijke wijze opleggen aan bezitters van op het grondgebied van de andere Partijen behaalde kwalificaties, of beoordelen of de aanvragers met op het grondgebied van de andere Partijen behaalde kwalificaties voldoen aan gelijkwaardige eisen.

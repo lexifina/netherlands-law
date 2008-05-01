@@ -1,0 +1,2 @@
+# Article XI.2
+This Convention shall enter into force on the first day of the month following the expiration of the period of one month after five States, including at least three member States of the Council of Europe and/or the UNESCO Europe Region, have expressed their consent to be bound by the Convention. It shall enter into force for each other State on the first day of the month following the expiration of the period of one month after the date of expression of its consent to be bound by the Convention.

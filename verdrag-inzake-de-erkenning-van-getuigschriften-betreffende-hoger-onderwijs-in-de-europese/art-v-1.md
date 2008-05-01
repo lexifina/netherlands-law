@@ -1,0 +1,2 @@
+# Article V.1
+Each Party shall recognize periods of study completed within the framework of a higher education programme in another Party. This recognition shall comprise such periods of study towards the completion of a higher education programme in the Party in which recognition is sought, unless substantial differences can be shown between the periods of study completed in another Party and the part of the higher education programme which they would replace in the Party in which recognition is sought.

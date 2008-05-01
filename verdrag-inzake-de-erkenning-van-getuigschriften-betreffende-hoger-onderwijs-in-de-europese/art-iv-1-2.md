@@ -1,0 +1,2 @@
+# Artikel IV.1
+Met het doel toegang te verkrijgen tot programma's welke deel uitmaken van haar stelsel van hoger onderwijs, erkent iedere Partij de door de andere Partijen afgegeven kwalificaties die voldoen aan de algemene eisen betreffende de toegang tot hoger onderwijs op het grondgebied van die Partijen, tenzij een aanzienlijk verschil kan worden aangetoond tussen de algemene eisen betreffende de toegang op het grondgebied van de Partij waar de kwalificatie werd behaald en die op het grondgebied van de Partij waar erkenning van de kwalificatie wordt gevraagd.
