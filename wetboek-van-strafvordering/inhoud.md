@@ -128,7 +128,6 @@
 #### afdeling Vierde. Beroep
 ### TITEL IIC. Rechtsplegingen in verband met de plaatsing in een inrichting voor stelselmatige daders
 ### Titel III. Vervolging en berechting van rechterlijke ambtenaren
-### Titel IIIA. Strafvordering ter zake van strafbare feiten waarvan de burgerlijke rechter kennis neemt
 ### Titel IIIb. Strafvordering ter zake van ontneming van wederrechtelijk verkregen voordeel
 ### Titel IV. Wraking en verschoning van rechters
 ### Titel V. Geschillen over rechtsmacht
