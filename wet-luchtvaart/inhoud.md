@@ -13,8 +13,8 @@
 ## Hoofdstuk 4. Vluchtuitvoering
 ## Hoofdstuk 5. Luchtverkeer, luchtverkeersbeveiliging en luchtverkeersbeveiligingsorganisatie
 ### Titel 5.1. Luchtverkeer
-### Titel 5.2. Bepalingen met betrekking tot de luchtverkeersdienstverlening
-#### § 5.2.1. Luchtverkeersdienstverlening
+### Titel 5.2. Bepalingen met betrekking tot het verlenen van luchtverkeersdiensten
+#### § 5.2.1. Het verlenen van luchtverkeersdiensten
 #### § 5.2.2. Vergoedingen
 ### Titel 5.3. De luchtverkeersbeveiligings-organisatie
 #### § 5.3.1. De LVNL
