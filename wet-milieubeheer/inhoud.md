@@ -52,6 +52,10 @@
 ### Titel 8.2. Algemene regels
 ### Titel 8.3. Regels met betrekking tot gesloten stortplaatsen en gesloten afvalvoorzieningen
 ## Hoofdstuk 9. Stoffen en produkten
+### Titel 9.2. Stoffen, preparaten en genetisch gemodificeerde organismen
+#### § 9.2.1. Algemeen
+#### § 9.2.2. Maatregelen
+#### § 9.2.3. Verpakking, aanduiding en aanbeveling
 ### Titel 9.3. De EG-verordening registratie, evaluatie en autorisatie van chemische stoffen
 ### Titel 9.4. De EG-richtlijn ecologisch ontwerp energieverbruikende producten
 ## Hoofdstuk 10. Afvalstoffen
@@ -124,7 +128,10 @@
 #### Afdeling 16.3.6. Registratie van NOx-emissierechten
 #### Afdeling 16.3.7. Overige bepalingen
 ## Hoofdstuk 17. Maatregelen in bijzondere omstandigheden
+### Titel 17.1. Maatregelen bij een ongewoon voorval
 ### Titel 17.1A. Maatregelen betreffende afvalvoorzieningen
+### Titel 17.2. Maatregelen bij milieuschade of een onmiddellijke dreiging daarvan
+### Titel 17.3. Maatregelen bij gevaar door stoffen, preparaten of genetisch gemodificeerde organismen
 ## Hoofdstuk 18. Handhaving
 ## Hoofdstuk 19. Openbaarheid van milieu-informatie
 ## Hoofdstuk 20. Beroep bij de administratieve rechter
