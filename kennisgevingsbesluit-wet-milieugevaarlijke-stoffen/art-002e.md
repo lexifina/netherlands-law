@@ -1,4 +1,0 @@
-# Artikel 2e
-Het is verboden een stof, al dan niet verwerkt in een preparaat, in Nederland in te voeren, dan wel aan een ander ter beschikking te stellen:
-a. indien een kennisgeving als bedoeld in artikel 2a, eerste of tweede lid is gedaan: binnen 30 dagen nadat Onze Minister die kennisgeving heeft ontvangen blijkens het bewijs van ontvangst, bedoeld in artikel 6, eerste lid, van de wet, tenzij Onze Minister anders bepaalt;
-b. indien Onze Minister overeenkomstig artikel 2d, eerste lid, aan degene die een kennisgeving als bedoeld in artikel 2a, eerste of tweede lid, heeft gedaan, heeft medegedeeld dat de kennisgeving aan het bij of krachtens artikel 4 of 5 van de wet bepaalde voldoet: binnen 15 dagen nadat Onze Minister die kennisgeving heeft ontvangen blijkens het bewijs van ontvangst, bedoeld in artikel 6, eerste lid, van de wet.

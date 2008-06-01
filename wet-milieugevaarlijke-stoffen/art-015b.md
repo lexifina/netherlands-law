@@ -1,4 +1,0 @@
-# Artikel 15b
-1. Indien voor een buiten de Europese Economische Ruimte vervaardigde stof in de Europese Economische Ruimte meer dan één kennisgeving is gedaan en deze kennisgevingen betrekking hebben op een stof, die is vervaardigd door dezelfde persoon, hebben de gewichtsgrenzen, genoemd in de artikelen 14 en 15, betrekking op de totale hoeveelheid van de stof, zoals die door degene die de stof vervaardigt, door middel van de in de kennisgevingen genoemde importeurs, in de Europese Economische Ruimte wordt ingevoerd.
-2. Indien het eerste lid toepassing vindt, geldt de verplichting om aanvullende gegevens over te leggen als bedoeld in de artikelen 13, eerste lid, aanhef en onder b tot en met f, 14 en 15, in afwijking van die artikelen, voor de kennisgevers gezamenlijk.
-3. Bij de in artikel 14, vierde lid, bedoelde maatregel wordt bepaald wie de gegevens, bedoeld in het tweede lid, overlegt.

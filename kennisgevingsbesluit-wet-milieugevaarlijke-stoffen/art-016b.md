@@ -1,2 +1,0 @@
-# Artikel 16b
-Met betrekking tot stoffen die door het in werking treden van artikel 1, onder b, niet als polymeer worden aangemerkt, zijn de artikelen 3 tot en met 18 van de wet, voor zover deze artikelen betrekking hebben op het in Nederland invoeren of het in de Europese Economische Ruimte aan een ander ter beschikking stellen van een stof, niet van toepassing indien degene die deze stoffen invoert of ter beschikking stelt, aantoont dat zij vóór 31 oktober 1993 in de Europese Gemeenschappen werden ingevoerd of aan een ander ter beschikking werden gesteld.

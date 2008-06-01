@@ -1,7 +1,0 @@
-# Artikel 16a
-1. Als stoffen bedoeld in artikel 67, eerste lid, van de wet, waarop overeenkomstig dat artikel de artikelen 3, eerste lid, en 4 tot en met 18 van de wet, voor zover deze artikelen betrekking hebben op het vervaardigen van die stoffen, niet van toepassing zijn, worden aangemerkt de stoffen waarvan kan worden aangetoond dat zij in produktie waren op 1 januari 1987. Hiertoe behoren in ieder geval de stoffen die in de periode van 18 september 1981 tot en met 1 januari 1987 met regelmaat werden vervaardigd, dan wel waarvan, nadat zij gedurende die periode vervaardigd zijn geweest, regelmatige vervaardiging in het voornemen lag, hetgeen kan worden aangetoond door het voorkomen van hun chemische naam in meer dan een van de volgende registratiesystemen:
-a). in- en verkoopadministratie,
-b). procesbeschrijving,
-c). administratie per procesinstallatie.
-2. Voor stoffen die zijn vervaardigd ten behoeve van onderzoek- en ontwikkelingsdoeleinden, moet voor een beroep op de uitzonderingsmogelijkheid, bedoeld in het eerste lid, de chemische naam voorkomen in geautoriseerde laboratoriumjournalen of officiële laboratoriumrapporten.
-3. Aan het bepaalde in het eerste en tweede lid is voldaan indien de handelsnaam of codenaam in de aldaar bedoelde registratiesystemen voorkomt, op voorwaarde dat op grond van schriftelijke gegevens uit die periode een relatie kan worden gelegd tussen de handels- of codenaam enerzijds en de chemische naam anderzijds.
