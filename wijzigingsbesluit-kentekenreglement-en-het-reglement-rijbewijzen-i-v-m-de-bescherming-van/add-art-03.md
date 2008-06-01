@@ -1,0 +1,2 @@
+# Artikel III
+De artikelen 14 en 15 van het Kentekenreglement zoals deze luidden voor het tijdstip van inwerkingtreding van dit besluit blijven ten aanzien van organisaties die de belangen van de automobielbranche behartigen als bedoeld in artikel 9, onderdeel d, van dat reglement en die voor de datum van inwerkingtreding van dit besluit als zodanig zijn aangewezen, van toepassing tot 1 maart 2007. Ten aanzien van gegevens die voor 1 maart 2007 zijn verstrekt blijft het gebruik ten behoeve van de op het tijdstip van de verstrekking toegestane doeleinden toegestaan.
