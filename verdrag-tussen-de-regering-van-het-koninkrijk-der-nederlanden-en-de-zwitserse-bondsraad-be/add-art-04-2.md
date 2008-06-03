@@ -1,0 +1,3 @@
+# Artikel IV. Technische Regelingen
+1. Gedetailleerde afspraken over specifieke oefeningen, trainingen en opleidingen worden, al naargelang noodzakelijk, vastgelegd in Technische Regelingen (TA's). Deze Technische Regelingen worden afzonderlijk gesloten tussen de bevoegde autoriteiten van het Federale Ministerie van Defensie, Civiele Bescherming en Sport van de Zwitserse Confederatie en de Minister van Defensie van het Koninkrijk der Nederlanden, die ook de onderhandelingen voeren over deze Regelingen.
+2. Teneinde de langetermijnplanning van de Verdragsluitende Partijen te vergemakkelijken, dienen Technische Regelingen ruim voor het plaatsvinden van de desbetreffende activiteit te worden gesloten.

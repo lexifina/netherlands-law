@@ -1,0 +1,3 @@
+# Artikel XIV. Financiële regelingen
+1. Elke Verdragsluitende Partij draagt haar eigen kosten voor personeel en uitrusting bij de uitoefening van activiteiten ingevolge dit Verdrag.
+2. Voor diensten die niet kosteloos worden verstrekt, onderhandelen de Verdragsluitende Partijen, in overeenstemming met hun nationale wetten en procedures, over betaling in contanten of in natura. Verschillen met betrekking tot betalingen in natura worden binnen een termijn van ten hoogste drie jaar verrekend. Gedetailleerde regelingen met betrekking tot financiële aspecten worden in Technische Regelingen vastgelegd.

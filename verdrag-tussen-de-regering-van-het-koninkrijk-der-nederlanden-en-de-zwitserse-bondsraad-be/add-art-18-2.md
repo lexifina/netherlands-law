@@ -1,0 +1,5 @@
+# Artikel XVIII. Slotbepalingen
+1. Dit Verdrag treedt in werking op de datum waarop beide Verdragsluitende Partijen elkaar ervan in kennis hebben gesteld dat alle voor de inwerkingtreding vereiste constitutionele procedures zijn voltooid en zal voorlopig worden toegepast vanaf de eerste dag van de tweede maand volgend op de datum van ondertekening.
+2. Wijzigingen of aanpassingen van dit Verdrag geschieden in onderlinge overeenstemming tussen de Verdragsluitende Partijen. Deze wijzigingen of aanpassingen treden in werking op de datum waarop beide Verdragsluitende Partijen elkaar ervan in kennis hebben gesteld dat alle voor de inwerkingtreding vereiste constitutionele procedures zijn voltooid.
+3. Dit Verdrag kan door elke Verdragsluitende Partij worden beëindigd door hiervan zes (6) maanden van te voren schriftelijk kennis te geven aan de andere Partij.
+4. Niettegenstaande een beëindiging van dit Verdrag, blijven de bepalingen ervan van toepassing op alle uitstaande financiële verplichtingen uit hoofde van dit Verdrag.
