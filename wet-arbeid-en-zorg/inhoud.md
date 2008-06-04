@@ -1,6 +1,6 @@
 # Inhoud
 ## Hoofdstuk 1. Algemene bepalingen
-### Begrippen werkgever en werknemer
+### Algemene begrippen
 ### Het begrip loon
 ### Overige begrippen
 ### Gelijkstelling met een collectieve arbeidsovereenkomst
@@ -30,9 +30,8 @@
 ##### De uitbetaling van de uitkering
 ##### Financiering
 ##### Van overeenkomstige toepassing zijnde artikelen
-#### § 2. De beroepsbeoefenaar op arbeidsovereenkomst
-##### Begrip beroepsbeoefenaar op arbeidsovereenkomst
-##### Recht op uitkering voor de beroepsbeoefenaar op arbeidsovereenkomst
+#### § 2. De zelfstandige en de beroepsbeoefenaar op arbeidsovereenkomst
+##### Recht op uitkering voor de zelfstandige en de beroepsbeoefenaar op arbeidsovereenkomst
 ##### Uitkering terzake van vervanging
 ##### Aanvraag van uitkering
 ##### De hoogte van de uitkering
