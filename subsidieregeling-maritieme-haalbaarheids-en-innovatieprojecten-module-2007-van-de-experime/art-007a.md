@@ -1,0 +1,2 @@
+# Artikel 7a
+In aanvulling op artikel 15 van de kaderregeling, beslist de Minister afwijzend op een aanvraag voor een maritiem innovatieproject indien de MKB-ondernemer, die geen deel uitmaakt van een maritiem innovatiesamenwerkingsverband, geen redelijk deel van de activiteiten heeft uitbesteed aan andere natuurlijke personen of rechtspersonen die niet met hem in een groep of andere economische eenheid zijn verbonden.
