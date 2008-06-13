@@ -1,0 +1,2 @@
+# Artikel 3a
+De in artikel 2 bedoelde aansprakelijke is eveneens verplicht tot vergoeding van de door het verhalend lichaam gemaakte redelijke kosten ter nakoming van zijn in artikel 76e van de Ziektewet dan wel in naar aard en strekking daarmee overeenkomende bepalingen van de op de ambtenaar van toepassing zijnde rechtspositieregeling bedoelde verplichtingen. De aansprakelijke kan hetzelfde verweer voeren dat hem jegens de getroffene ten dienste zou hebben gestaan.
