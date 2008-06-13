@@ -107,6 +107,7 @@
 ### Titel 15.9A. Rechten
 ### Titel 15.10. Afvalbeheersbijdragen
 ### Titel 15.11. Financiering van de zorg voor gesloten stortplaatsen
+### Titel 15.12. Financiële tegemoetkomingen
 ## Hoofdstuk 16. Handel in emissierechten
 ### Titel 16.1. Algemeen
 ### Titel 16.2. Broeikasgassen en broeikasgasemissierechten
