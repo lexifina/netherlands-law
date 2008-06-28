@@ -1,0 +1,4 @@
+# Artikel 25a
+1. Indien een externe accountant betrekkingen onderhoudt met een controlecliënt of een met deze controlecliënt verbonden derde op grond waarvan een objectieve, redelijke en geïnformeerde derde partij zou concluderen dat die een bedreiging kunnen vormen voor de onafhankelijkheid van de externe accountant ten opzichte van die controlecliënt of derde, neemt de externe accountant maatregelen om zijn onafhankelijkheid te waarborgen door deze bedreiging uit te sluiten of te beperken of, indien dat niet mogelijk is, accepteert de externe accountant geen betrokkenheid bij de uitvoering van de opdracht of beëindigt hij deze betrokkenheid.
+2. De externe accountant legt de ingevolge het eerste lid genomen maatregelen vast.
+3. De externe accountant voldoet aan bij of krachtens algemene maatregel van bestuur te stellen regels terzake van zijn onafhankelijkheid.

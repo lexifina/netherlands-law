@@ -1,0 +1,3 @@
+# Artikel 63i
+1. Indien de Autoriteit Financiële Markten vaststelt dat er in een andere lidstaat handelingen worden of zijn uitgevoerd die strijdig zijn met hetgeen ingevolge de richtlijn in die lidstaat is voorgeschreven, geeft zij hiervan op zo specifiek mogelijke wijze kennis aan de toezichthoudende instantie van de andere lidstaat.
+2. Indien de Autoriteit Financiële Markten een kennisgeving heeft ontvangen van een toezichthoudende instantie van een andere lidstaat dat er in Nederland handelingen worden of zijn uitgevoerd die strijdig zijn met deze wet, stelt zij de kennisgevende toezichthoudende instantie in kennis van de door haar genomen maatregelen, voor zover van toepassing, alsmede, voorzover mogelijk, van belangrijke tussentijdse ontwikkelingen.

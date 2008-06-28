@@ -1,0 +1,7 @@
+# Artikel 12d
+1. De artikelen 48a, 52, 64, 65, en 66 en de hoofdstukken 5A en 5B zijn van overeenkomstige toepassing ten aanzien van auditorganisaties van een derde land die ingevolge artikel 12c zijn ingeschreven in het register, met dien verstande dat de in artikel 64 bedoelde openbare waarschuwing kan worden uitgevaardigd, indien de auditorganisatie van een derde land niet voldoet aan de in artikel 12c, eerste lid gestelde eisen voor inschrijving in het register.
+2. In afwijking van het eerste lid is artikel 48a niet van toepassing op auditorganisaties van een derde land, voor zover een toezichthoudende instantie in een andere lidstaat of in een staat als bedoeld in het derde lid, in de voorgaande drie jaar een beoordeling als bedoeld in artikel 45, derde lid, van de richtlijn heeft uitgevoerd.
+3. Bij ministeriële regeling kan worden bepaald dat de artikelen 12c, eerste lid, 52, 64, 65 en 66 geheel of gedeeltelijk niet van toepassing zijn ten aanzien van auditorganisaties van een derde land met zetel in een daarbij aan te wijzen staat die geen lidstaat is. Een staat kan slechts worden aangewezen:
+a. op basis van wederkerigheid;
+b. indien die staat beschikt over een stelsel van toezicht en handhaving dat gelijkwaardig is aan dat op grond van deze wet; en
+c. indien de Autoriteit Financiële Markten met de desbetreffende toezichthoudende instantie een overeenkomst heeft gesloten als bedoeld in artikel 63j, eerste lid, onderdeel e.
