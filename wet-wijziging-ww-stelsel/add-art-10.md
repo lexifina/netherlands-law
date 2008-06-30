@@ -1,2 +1,0 @@
-# Artikel X
-vervallen
