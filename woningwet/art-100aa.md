@@ -1,0 +1,3 @@
+# Artikel 100aa
+1. Onze Minister kan, indien dat in het belang van een goede ruimtelijke ordening geboden is, vorderen dat het tot intrekken bevoegde bestuursorgaan binnen een door hem te stellen termijn de bouwvergunning intrekt. Indien burgemeester en wethouders of gedeputeerde staten de beschikking tot intrekking van de vergunning geven, zenden zij daarvan terstond afschrift aan Onze Minister.
+2. Indien het bestuursorgaan aan de vordering geen gevolg geeft, kan Onze Minister tot zes weken na het verstrijken van de gestelde termijn een beschikking als bedoeld in het eerste lid geven. Onze Minister zendt van zijn beschikking terstond afschrift aan burgemeester en wethouders.

@@ -1,0 +1,4 @@
+# Artikel 50a
+1. In afwijking van artikel 46, eerste lid, houden burgemeester en wethouders de beslissing op een aanvraag om bouwvergunning eveneens aan voor een bouwplan, dat krachtens artikel 6.12 van de Wet ruimtelijke ordening is aangewezen, indien er geen grond is om de vergunning te weigeren en het exploitatieplan, dat voor de in de aanvraag begrepen grond is vastgesteld, nog niet onherroepelijk is.
+2. De aanhouding duurt totdat een exploitatieplan onherroepelijk is.
+3. In afwijking van het eerste lid kunnen burgemeester en wethouders de bouwvergunning verlenen indien een ingesteld beroep geen gevolgen kan hebben voor de toetsing van het bouwplan of de aan de bouwvergunning te verbinden voorschriften, dan wel indien deze gevolgen naar het oordeel van burgemeester en wethouders niet opwegen tegen het belang dat met verlening van de bouwvergunning is gediend.

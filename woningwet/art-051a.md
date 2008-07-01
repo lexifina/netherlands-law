@@ -1,2 +1,0 @@
-# Artikel 51a
-Indien een plusregio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, 's-Gravenhage, Rotterdam of Utrecht omvat, is begrepen in een regionaal structuurplan, horen gedeputeerde staten tevens het dagelijks bestuur van die plusregio alvorens zij besluiten omtrent de verklaring van geen bezwaar, bedoeld in artikel 50.
