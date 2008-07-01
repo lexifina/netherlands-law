@@ -1,0 +1,2 @@
+# Artikel 43f
+Onverminderd artikel 43c zijn overheidsorganen gehouden om aan de Dienst Wegverkeer op de door deze dienst te bepalen wijze mededeling te doen van de hen in de uitoefening van hun functie ter kennis gekomen feiten, ingeval deze feiten aanleiding kunnen zijn om tot wijziging of aanvulling van de in het kentekenregister opgenomen gegevens over te gaan, dan wel anderszins van belang kunnen zijn voor de juistheid van deze gegevens.

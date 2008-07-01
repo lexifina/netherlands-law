@@ -3,8 +3,9 @@
 2. Het tarief, bedoeld in artikel 48, eerste lid, voor de aanvraag van een bij algemene maatregel van bestuur aan te wijzen deel van een kentekenbewijs omvat mede een bij ministeriële regeling vastgesteld bedrag dat strekt ter dekking van de kosten van:
 a. het registreren van keuringsrapporten,
 b. het ongeldig verklaren van kentekenbewijzen,
-c. het verstrekken van gegevens uit het kentekenregister aan de in artikel 43, eerste en tweede lid, bedoelde autoriteiten en instellingen van volkenrechtelijke organisaties,
+c. het verstrekken van gegevens uit het kentekenregister als bedoeld in artikel 43, eerste en tweede lid, en bij algemene maatregel van bestuur te bepalen verstrekkingen,
 d. het behandelen van klachten en ingevolge de Algemene wet bestuursrecht ingediende bezwaarschriften en beroepschriften, gericht op het handelen van de Dienst Wegverkeer,
 e. het opsporen van bij of krachtens deze wet strafbaar gestelde feiten voor zover de ambtenaren van de Dienst Wegverkeer daarmee ingevolge artikel 159 zijn belast,
 f. het beheer en de instandhouding van het in artikel 13, tweede lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen bedoelde register, en
-g. het verstrekken van gegevens uit het in onderdeel f bedoelde register aan degenen die ingevolge de in artikel 38, tweede lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen bedoelde algemene maatregel van bestuur niet tot betaling van het ter zake vastgestelde tarief zijn gehouden.
+g. het verstrekken van gegevens uit het in onderdeel f bedoelde register aan degenen die ingevolge de in artikel 38, tweede lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen bedoelde algemene maatregel van bestuur niet tot betaling van het ter zake vastgestelde tarief zijn gehouden,
+h. de inspectie bedoeld in artikel 45a, tweede lid, indien naar oordeel van de Dienst Wegverkeer blijkt dat de gegevens juist in het kentekenregister zijn opgenomen dan wel de onjuistheid van een gegeven degene aan wie het kentekenbewijs voor het geïnspecteerde voertuig is afgegeven niet kan worden tegengeworpen.

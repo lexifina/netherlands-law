@@ -1,0 +1,3 @@
+# Artikel 43e
+1. Indien een belanghebbende gegronde redenen heeft om aan te nemen dat een gegeven dat bij of krachtens deze wet als authentiek is aangemerkt of een niet-authentiek gegeven onjuist of ten onrechte wel, dan wel ten onrechte niet in het kentekenregister is opgenomen, kan hij onder opgave van die redenen aan de Dienst Wegverkeer een verzoek doen tot wijziging, verwijdering of opneming van dat gegeven.
+2. De Dienst Wegverkeer beslist naar aanleiding van een verzoek als bedoeld in het eerste lid over wijziging, verwijdering of opneming van het betreffende gegeven en bericht de belanghebbende die het verzoek heeft gedaan over deze beslissing.

@@ -1,0 +1,4 @@
+# Artikel 43d
+1. Indien de Dienst Wegverkeer constateert dat een door deze dienst in het kentekenregister geplaatst gegeven onjuist of ten onrechte in het kentekenregister is opgenomen, wijzigt of verwijdert deze dienst dat gegeven.
+2. Indien de Dienst Wegverkeer constateert dat een gegeven ten onrechte niet in het kentekenregister is opgenomen, neemt deze dienst dat gegeven alsnog in het kentekenregister op.
+3. Van de beslissing tot wijzigen, verwijderen, dan wel alsnog opnemen van een authentiek gegeven in het kentekenregister doet de Dienst Wegverkeer onverwijld mededeling aan degene op wie het authentieke gegeven betrekking heeft, dan wel aan degene aan wie het kentekenbewijs is afgegeven voor het motorrijtuig of de aanhangwagen waarop het desbetreffende authentieke gegeven betrekking heeft.
