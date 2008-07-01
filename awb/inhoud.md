@@ -11,6 +11,10 @@
 ### Afdeling 3.2. Zorgvuldigheid en belangenafweging
 ### Afdeling 3.3. Advisering
 ### Afdeling 3.4. Uniforme openbare voorbereidingsprocedure
+### Afdeling 3.5. Samenhangende besluiten
+#### Paragraaf 3.5.1. Algemeen
+#### Paragraaf 3.5.2. Informatie
+#### Paragraaf 3.5.3. Coördinatie van besluitvorming en rechtsbescherming
 ### Afdeling 3.6. Bekendmaking en mededeling
 ### Afdeling 3.7. Motivering
 ## Hoofdstuk 4. Bijzondere bepalingen over besluiten
