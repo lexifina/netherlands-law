@@ -39,7 +39,13 @@
 ### Afdeling 5. Belastingvermindering en vrijstellingen
 ### Afdeling 6. Teruggaven
 ### Afdeling 7. Verplichtingen ten dienste van de belastingheffing
-## Hoofdstuk VII. (gereserveerd)
+## Hoofdstuk VII. Vliegbelasting
+### Afdeling 1. Begripsbepalingen
+### Afdeling 2. Grondslag en belastingplicht
+### Afdeling 3. Maatstaf van heffing en verschuldigdheid
+### Afdeling 4. Tarief
+### Afdeling 5. Teruggaaf
+### Afdeling 6. Verplichtingen ten dienste van de belastingheffing
 ## Hoofdstuk VIII. Verpakkingenbelasting
 ### Afdeling 1. Begripsbepalingen
 ### Afdeling 2. Grondslag en belastingplicht
