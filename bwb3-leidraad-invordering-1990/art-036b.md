@@ -1,5 +1,0 @@
-# Artikel 36b
-1. Aansprakelijkheid bestuurder voor aansprakelijkheidsschuld lichaam
-Artikel 36b van de wet voorziet in een aansprakelijkheid voor de bestuurder van een rechtspersoonlijkheid bezittend lichaam dat aan de heffing van vennootschapsbelasting is onderworpen, voor de onbetaald gebleven aansprakelijkheidsschuld van dat lichaam. Onder aansprakelijkheidsschuld moet worden verstaan: loon- of omzetbelasting waarvoor een lichaam bij beschikking als bedoeld in artikel 49, lid 1, van de wet, aansprakelijk is gesteld.
-2. Fiscale eenheid voor de omzetbelasting
-Als de ontvanger bestuurders van verschillende vennootschappen die deel uitmaken van een fiscale eenheid voor de omzetbelasting aansprakelijk kan stellen op grond van artikel 36b van de wet en het de ontvanger bekend is bij welk onderdeel van de fiscale eenheid de materiële omzetbelastingschuld is ontstaan, zal hij als eerste de bestuurder van dat onderdeel aansprakelijk stellen. Dat betekent dat bestuurders van andere onderdelen van de fiscale eenheid pas aansprakelijk kunnen worden gesteld indien de invordering ten laste van de in de vorige volzin bedoelde bestuurder onvoldoende soelaas biedt.

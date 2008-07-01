@@ -1,4 +1,0 @@
-# Artikel 42b
-§ 1. Aansprakelijkheid ondernemer die levering verricht
-1. Algemeen
-Op grond van artikel 42b van de wet is, als op grond van artikel 12a van de Wet op de omzetbelasting 1968 de omzetbelasting wordt geheven van degene aan wie de levering is verricht, de ondernemer die de levering heeft verricht hoofdelijk aansprakelijk. Deze aansprakelijkheid betreft uitsluitend de omzetbelasting die verschuldigd is op grond van artikel 12a van de Wet op de omzetbelasting 1968 en niet de overigens op grond van die wet verschuldigde omzetbelasting. Disculpatie is echter mogelijk als de ondernemer aannemelijk maakt dat hij met betrekking tot het verzoek als bedoeld in artikel 11, eerste lid, onderdeel a, onder 2, van de Wet op de omzetbelasting 1968, niet wist of behoorde te weten dat niet werd voldaan aan de voorwaarden bedoeld in genoemd artikellid.
