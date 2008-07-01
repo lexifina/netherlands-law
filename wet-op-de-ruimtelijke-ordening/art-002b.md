@@ -1,6 +1,0 @@
-# Artikel 2b
-1. Een planologische kernbeslissing kan geheel of gedeeltelijk worden herzien of ingetrokken. Artikel 2a, eerste lid, is van overeenkomstige toepassing.
-2. Uiterlijk één jaar voor de geldingsduur van een plan verstrijkt, delen Onze in artikel 2a, eerste lid, bedoelde Ministers aan de Staten-Generaal mede of en in hoeverre zij voornemens zijn toepassing te geven aan het bepaalde in het eerste lid. Afschrift van deze mededeling zendt Onze Minister aan de VROM-raad.
-3. Bij de mededeling aan de Staten-Generaal van het voornemen tot herziening of intrekking doen Onze in artikel 2a, eerste lid, bedoelde Ministers de Staten-Generaal weten of en in hoeverre zij bij de herziening of intrekking toepassing zullen geven aan het bepaalde in artikel 2a, tweede, derde of vierde lid.
-4. Voor zover de herziening of intrekking een concrete beleidsbeslissing betreft is het derde lid niet van toepassing.
-5. Ten aanzien van een herziening of intrekking is artikel 2a, vijfde tot en met achtste lid, van overeenkomstige toepassing, met dien verstande dat, indien het ontwerp van een besluit tot herziening of intrekking niet ter inzage is gelegd, de toezending van dat besluit aan Staten-Generaal onverwijld na vaststelling door de Ministerraad geschiedt.

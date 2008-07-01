@@ -1,2 +1,0 @@
-# Artikel 36n
-Voor zover een gemeente, waarvan grondgebied begrepen is in een regionaal structuurplan, weigert een bestemmingsplan voor dat gebied in overeenstemming te brengen met dat regionaal structuurplan, ondanks een daartoe strekkend verzoek van het regionaal openbaar lichaam, kan het dagelijks bestuur van dat openbaar lichaam gedeputeerde staten verzoeken toepassing te geven aan artikel 37, met dien verstande dat de aanwijzing, bedoeld in het vijfde lid van dat artikel, haar grondslag vindt in het regionaal structuurplan.

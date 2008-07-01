@@ -1,2 +1,0 @@
-# Artikel 41b
-Indien, bij de toepassing van artikel 40 of artikel 41, de beslissing omtrent enige bestuursrechtelijke toestemming als in die artikelen bedoeld, wordt genomen door een ander bestuursorgaan dan het oorspronkelijk bevoegde bestuursorgaan, zijn de leges, die ingevolge wettelijk voorschrift verschuldigd zijn terzake van die toestemming, verschuldigd aan het bestuursorgaan dat omtrent die toestemming heeft beslist, tenzij de beslissing van dat orgaan niet afwijkt van de beslissing van het oorspronkelijk bevoegde bestuursorgaan.

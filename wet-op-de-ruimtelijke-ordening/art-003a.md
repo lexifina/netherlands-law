@@ -1,2 +1,0 @@
-# Artikel 3a
-De in deze wet voorziene algemene maatregelen van bestuur treden niet eerder in werking dan twee maanden na de dagtekening van het Staatsblad, waarin de desbetreffende besluiten zijn geplaatst. Van de plaatsing wordt onverwijld aan de Staten-Generaal mededeling gedaan.

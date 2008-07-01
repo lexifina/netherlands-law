@@ -1,4 +1,0 @@
-# Artikel 39j
-1. Onze projectminister bevordert een gecoördineerde voorbereiding van de besluiten, bedoeld in artikel 39i, eerste lid, en van de ambtshalve met het oog op de uitvoering van het project te nemen besluiten.
-2. Onze projectminister kan van de andere betrokken bestuursorganen de medewerking vorderen die voor het welslagen van de coördinatie nodig is. Die bestuursorganen verlenen de van hen gevorderde medewerking.
-3. Indien voor een project of categorie van projecten, bedoeld in artikel 39a, is bepaald dat uitsluitend de procedure van paragraaf 3 van deze afdeling van toepassing is, geeft Onze projectminister bij de gecoördineerde voorbereiding, bedoeld in het eerste lid, aan op welke wijze de inpassing van het betrokken project bevorderd kan worden en, waar deze in redelijkheid niet kan worden verlangd, de compenserende maatregelen die kunnen worden getroffen.
