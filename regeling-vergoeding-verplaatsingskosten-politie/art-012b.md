@@ -1,5 +1,0 @@
-# Artikel 12b
-1. Aan de ambtenaar die op grond van artikel 65a van het Besluit algemene rechtspositie politie een andere plaats van tewerkstelling is aangewezen, wordt, indien de andere plaats van tewerkstelling op een grotere afstand van de woning is gelegen dan de voordien aangewezen plaats van tewerkstelling, per extra afgelegde reiskilometer een vergoeding van € 0,15 toegekend, voor zover deze kilometer niet wordt afgelegd met een door de dienst ter beschikking gesteld voertuig.
-2. Ten aanzien van de extra afgelegde reiskilometers, bedoeld in het eerste lid, is een tegemoetkoming in de reiskosten, bedoeld in artikel 10, niet van toepassing.
-3. Voor de duur dat de ambtenaar een tegemoetkoming in de reiskosten ontvangt, bedoeld in artikel 11, blijft dit artikel buiten beschouwing.
-4. Indien 2 jaren of langer na het aanwijzen van een plaats van tewerkstelling, bedoeld in het eerste lid, aan de ambtenaar opnieuw een andere plaats van tewerkstelling wordt aangewezen, gelden als extra afgelegde reiskilometers alleen die kilometers die de eerste verplaatsing te boven gaan.
