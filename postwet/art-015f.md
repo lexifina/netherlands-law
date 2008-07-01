@@ -1,0 +1,3 @@
+# Artikel 15f
+1. In afwijking van afdeling 4.1.2 van de Algemene wet bestuursrecht stelt Onze Minister, onderscheidenlijk het college, de betrokkene, bedoeld in artikel 15b, in de gelegenheid om binnen een redelijke termijn naar keuze schriftelijk of mondeling zijn zienswijze naar voren te brengen.
+2. Indien de betrokkene, bedoeld in artikel 15b, zijn zienswijze mondeling naar voren brengt en de Nederlandse taal onvoldoende begrijpt, draagt Onze Minister, onderscheidenlijk het college, op verzoek van de houder zorg voor benoeming van een tolk die de betrokkene kan bijstaan, tenzij redelijkerwijs kan worden aangenomen dat daaraan geen behoefte bestaat.
