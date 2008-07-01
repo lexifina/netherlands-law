@@ -1,4 +1,0 @@
-# Artikel 7a
-1. De deelnemer kan een tegemoetkoming verkrijgen in de te zijnen laste blijvende ziektekosten die hij gedurende een aaneengesloten tijdvak van twaalf maanden heeft gemaakt. Voor de vraag of die kosten betrekking hebben op het tijdvak is bepalend of de datum van de behandeling of verstrekking in dat tijdvak is gelegen.
-2. De tegemoetkoming, bedoeld in het eerste lid, wordt aan de deelnemer verleend voor zover de te zijnen laste blijvende ziektekosten hoger zijn dan het door Onze Minister vastgestelde percentage van de inkomsten van de deelnemer en zijn medeverzekerde gezinsleden. Indien een tijdvak gelegen is in twee kalenderjaren, wordt het proportionele gemiddelde van dat percentage berekend naar rato van de aantallen maanden in de onderscheiden jaren.
-3. Onze Minister stelt regels vast ter uitvoering van dit artikel.
