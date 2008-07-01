@@ -1,0 +1,4 @@
+# Artikel 6a
+1. Indien de in artikel 3, eerste of tweede lid, bedoelde veiligheidsnormen, de in artikel 4, eerste lid, bedoelde hoogwaterstanden, de krachtens artikel 4, eerste lid, vastgestelde waarden of de krachtens artikel 5a vastgestelde regels wijziging ondergaan, kan bij besluit van Onze Minister worden bepaald door welk bestuursorgaan, op welke wijze en binnen welk tijdsbestek maatregelen met betrekking tot de beveiliging tegen overstroming worden getroffen.
+2. Op de voorbereiding van een besluit als bedoeld in het eerste lid, is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.
+3. Het eerste lid wordt niet toegepast dan nadat overleg is gevoerd met het betrokken bestuursorgaan en niet eerder dan vier weken nadat de beide Kamers der Staten-Generaal in kennis zijn gesteld van het voornemen tot het nemen van het besluit.
