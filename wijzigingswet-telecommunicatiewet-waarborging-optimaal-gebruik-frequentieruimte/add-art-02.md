@@ -1,0 +1,2 @@
+# ARTIKEL II
+In afwijking van het bepaalde in artikel 9, eerste lid, van het Frequentiebesluit kan gedurende een jaar na de inwerkingtreding van deze wet een houder van een vergunning voor commerciële radio-omroep, als bedoeld in artikel 1, onder e en x, van de Mediawet, een aanvraag tot verlenging van zijn vergunning ook indienen op een tijdstip dat ligt binnen een jaar voorafgaand aan het tijdstip waarop de periode waarvoor de vergunning is verleend verstrijkt.
