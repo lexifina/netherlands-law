@@ -1,0 +1,2 @@
+# III
+15. De Instellingen van de Unie stellen tijdig de bepalingen vast die worden bedoeld in de artikelen 58 en 60 van het Protocol betreffende de voorwaarden en de nadere regels voor de toelating van de Republiek Bulgarije en Roemenië tot de Europese Unie en in de artikelen 58 en 60 van de Akte betreffende de voorwaarden voor de toelating van de Republiek Bulgarije en Roemenië tot de Europese Unie. Daartoe verstrekken de regeringen van de Republiek Bulgarije en van Roemenië de Instellingen tijdig ontwerp-vertalingen van genoemde teksten.
