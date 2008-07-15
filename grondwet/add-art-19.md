@@ -8,7 +8,7 @@ Het formulier van afkondiging der wetten is het volgende:
 (De beweegredenen der wet).
 "Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze" enz.
 (De inhoud der wet).
-"Gegeven", enz.
+"Gegeven". enz.
 Ingeval een Koningin regeert of het Koninklijk gezag door een Regent of door de Raad van State wordt waargenomen, wordt de daardoor nodige wijziging in dit formulier gebracht.
 Artikel 130
 De Koning doet de Staten-Generaal zo spoedig mogelijk kennis dragen, of hij een voorstel van wet, door hen aangenomen, al dan niet goedkeurt. Die kennisgeving geschiedt met een der volgende formulieren:
