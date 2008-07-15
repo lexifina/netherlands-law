@@ -28,6 +28,7 @@
 #### Afdeling 1. Algemene bepaling
 #### Afdeling 2. Algemene bepalingen omtrent fusies
 #### Afdeling 3. Bijzondere bepalingen voor fusies van naamloze en besloten vennootschappen
+#### Afdeling 3A. Bijzondere bepalingen voor grensoverschrijdende fusies
 #### Afdeling 4. Algemene bepalingen omtrent splitsingen
 #### Afdeling 5. Bijzondere bepalingen voor splitsingen waarbij een naamloze of besloten vennootschap wordt gesplitst of wordt opgericht
 ### Titel 8. Geschillenregeling en het recht van enquête
