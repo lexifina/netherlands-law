@@ -1,7 +1,0 @@
-# Artikel 5a. Vleugelvliegtuigen
-1. De prestaties van een voor verkeersvluchten te gebruiken vleugelvliegtuig, waarvan de maximaal toegelaten totaalmassa 5700 kg of minder bedraagt, moeten zodanig zijn, dat het vliegtuig met één motor buiten werking een stijgsnelheid heeft van tenminste 0,25 m/sec op een hoogte van 300 m boven de hoogste hindernis, welke zich binnen een afstand van 600 m van het vliegtuig bevindt.
-2. De in het vorige lid gestelde eis is niet van toepassing op éénmotorige vleugelvliegtuigen, welke in de landingsconfiguratie een overtreksnelheid hebben van ten hoogste 100 km/h, mits daarmee slechts:
-a. vluchten worden uitgevoerd bij dag en onder zicht-weersomstandigheden (VMC) en
-b. de overige omstandigheden van de vluchten (hoogte, route, enz.) zodanig zijn, dat op elk tijdstip een veilige noodlanding kan worden uitgevoerd.
-3. Tenzij door de Minister van Verkeer en Waterstaat toestemming is verleend is het uitvoeren van verkeersvluchten met tweemotorige vleugelvliegtuigen met een max. startmassa van meer dan 5700 kg niet toegestaan langs de route die op enig punt verder verwijderd is van een geschikt luchtvaartterrein, dan de afstand die met het vliegtuig kan worden afgelegd in één uur vliegen met één voortstuwingsinstallatie buiten werking, waarbij geen rekening wordt gehouden met de verplaatsing door de wind.
-4. Met betrekking tot het verkrijgen van de in het derde lid bedoelde toestemming worden ter zake aanwijzingen gegeven.
