@@ -1,0 +1,2 @@
+# Artikel II
+De houder van een burgerluchtvaartuig waarvoor bij de inwerkingtreding van deze wet een bewijs van luchtwaardigheid of een ontheffing als bedoeld in artikel 3.21 is afgegeven, dient zijn aanvraag voor een (voorlopig) geluidscertificaat, een (voorlopige) geluidsverklaring of (voorlopige) aanvullende geluidsverklaring in, tegelijkertijd met de eerstvolgende aanvraag tot afgifte of verlenging van het bewijs van luchtwaardigheid van dat luchtvaartuig, dan wel tot afgifte of verlenging van de ter zake verleende ontheffing.
