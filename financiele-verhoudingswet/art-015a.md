@@ -1,0 +1,4 @@
+# Artikel 15a
+1. Elke bijdrage uit 's Rijks kas die door of vanwege Onze Minister wie het aangaat onder voorwaarden ten behoeve van een bepaald openbaar belang aan provincies en gemeenten wordt verstrekt, is een specifieke uitkering.
+2. Indien provincies of gemeenten optreden als marktpartij of werkgever, of als eigenaar of huurder van een roerende of onroerende zaak, en onder dezelfde voorwaarden als andere natuurlijke personen en rechtspersonen, niet zijnde medeoverheden, voor een bijdrage uit 's Rijks kas in aanmerking komen, is die bijdrage geen specifieke uitkering.
+3. Bijdragen uit 's Rijks kas aan provincies en gemeenten ten behoeve van een bepaald openbaar belang waarvoor een bedrag beschikbaar is, dat lager is dan een bij algemene maatregel van bestuur op voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties vastgesteld bedrag, kunnen slechts worden verstrekt als onderdeel van een verzameluitkering.
