@@ -16,7 +16,7 @@
 ### Titel 1. Planning
 ### Titel 2. Bekostiging beroepsonderwijs
 #### § 1. Bekostiging
-#### § 2
+#### § 2. Leerlinggebonden financiering
 ### Titel 3. Rijksbijdrage ten behoeve van de educatie
 ### Titel 4. Bekostiging van kenniscentra beroepsonderwijs bedrijfsleven
 #### § 1. Bekostiging
@@ -28,10 +28,6 @@
 ### Titel 6a. Samenwerking met VO-scholen ter bevordering van doelmatig en doeltreffend onderwijs
 ### Titel 7. Stimuleringsmiddelen voor educatie en beroepsonderwijs en voor afstemming onderwijs-arbeidsmarkt
 ### TITEL 8. WAARBORGFONDS EN INVESTERINGEN IN GEBOUWEN EN TERREINEN
-## Hoofdstuk 3. Overleg
-### Titel 1. Overleg Minister
-### Titel 2. Overleg instellingen
-### Titel 3. Overleg kenniscentra beroepsonderwijs bedrijfsleven
 ## Hoofdstuk 4. Personeel
 ### Titel 1. Personeel van instellingen voor educatie en beroepsonderwijs
 #### § 1. Formatie; rechtspositie
@@ -76,4 +72,5 @@
 ### Titel 1a. Bepalingen met betrekking tot experimentele opleidingen
 ### Titel 2. Voorzieningen voor onbepaalde tijd
 ### Titel 3. Invoering van de wet
+### Titel 4. Bepalingen met betrekking tot leerlinggebonden financiering
 ### Titel 5. Evaluatie, inwerkingtreding en citeertitel
