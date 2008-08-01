@@ -1,0 +1,2 @@
+# Artikel 28a
+Degene jegens wie Onze Minister van Financiën een handeling heeft verricht waaraan hij in redelijkheid de gevolgtrekking kan verbinden dat deze hem wegens een overtreding een bestuurlijke boete zal opleggen, is niet verplicht ter zake daarvan enige inlichting te verstrekken. Hij wordt hiervan door Onze Minister van Financiën in kennis gesteld alvorens hem mondeling om informatie met betrekking tot de desbetreffende overtreding wordt gevraagd.
