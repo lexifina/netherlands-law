@@ -1,6 +1,0 @@
-# Artikel 12b
-1. Indien dit ingevolge een besluit, vastgesteld door een orgaan van de Europese Gemeenschappen, wordt vereist om te kunnen beoordelen of ten aanzien van de invoer of uitvoer van goederen maatregelen moeten worden getroffen, kan Onze Minister van Economische Zaken bij door hem aangewezen ondernemers onderzoekingen doen verrichten.
-2. Deze onderzoekingen kunnen uitsluitend worden gericht op het verzamelen van die gegevens, welker verkrijging naar het oordeel van Onze Minister van Economische Zaken noodzakelijk is om te voldoen aan hetgeen wordt vereist ingevolge een besluit als in het eerste lid bedoeld.
-3. Voor het verrichten van onderzoekingen als in het eerste lid bedoeld geeft Onze Minister van Economische Zaken voor ieder afzonderlijk geval schriftelijk opdracht. In zodanige opdracht worden de daarmede belaste ambtenaren en de te verkrijgen gegevens vermeld.
-4. Ten aanzien van de ambtenaren, bedoeld in het derde lid, zijn de artikelen 5:12, 5:13, 5:15 tot en met 5:17 en 5:20 van de Algemene wet bestuursrecht van overeenkomstige toepassing. Zo nodig oefenen zij de in artikel 5:17 van die wet bedoelde bevoegdheid uit met behulp van de sterke arm.
-5. Onze Minister van Economische Zaken oefent de hem in dit artikel toegekende bevoegdheden niet uit dan in overeenstemming met Onze Ministers, wie het mede aangaat.
