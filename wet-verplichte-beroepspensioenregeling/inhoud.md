@@ -11,7 +11,6 @@
 ### § 4. Uitruil, afkoop, waardeoverdracht
 ### § 5. Overige bepalingen
 ## Hoofdstuk 4. Beroepspensioenfonds
-### § 1. Bestuur van het beroepspensioenfonds
 ## Hoofdstuk 5. Financieel toetsingskader inzake beroepspensioenfondsen
 ## Hoofdstuk 6. Toezicht, handhaving en overige taken toezichthouder
 ### § 1. De toezichthouder
