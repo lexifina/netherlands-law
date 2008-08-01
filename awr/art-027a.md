@@ -1,4 +1,2 @@
 # Artikel 27a
-Indien het beroep is gericht tegen het niet tijdig doen van een uitspraak door de inspecteur, kan:
-a. de rechtbank bepalen dat hoofdstuk VIII, afdeling 2, gedurende een daarbij te bepalen termijn van toepassing blijft;
-b. de rechtbank te Haarlem bepalen dat de artikelen 13 en 14 van het Communautair douanewetboek en hoofdstuk 2, paragrafen 2 en 3, alsmede artikel 28 van de Douanewet gedurende een daarbij te bepalen termijn van toepassing blijven.
+Indien het beroep is gericht tegen het niet tijdig doen van een uitspraak door de inspecteur, kan de rechtbank bepalen dat hoofdstuk VIII, afdeling 2, gedurende een daarbij te bepalen termijn van toepassing blijft.

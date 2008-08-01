@@ -1,4 +1,0 @@
-# Artikel 30a
-1. Een beschikking als bedoeld in artikel 1:3, tweede lid, van de Algemene wet bestuursrecht die is genomen op grond van wettelijke bepalingen in de zin van de Douanewet, is voor bezwaar vatbaar.
-2. Een andere beslissing op grond van wettelijke bepalingen in de zin van de Douanewet wordt bevestigd bij beschikking als bedoeld in artikel 1:3, tweede lid, van de Algemene wet bestuursrecht, indien degene jegens wie de beslissing is genomen daarom verzoekt binnen vier weken nadat de beslissing aan hem is medegedeeld.
-3. Indien een uitspraak van de rechtbank of van de voorzieningenrechter van de rechtbank betrekking heeft op een voor bezwaar vatbare beschikking die op grond van wettelijke bepalingen in de zin van de Douanewet is gegeven door Onze Minister, treedt voor de toepassing van dit hoofdstuk Onze Minister in de plaats van de inspecteur.

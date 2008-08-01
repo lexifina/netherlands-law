@@ -3,13 +3,11 @@
 ## Hoofdstuk II. Aangifte
 ## Hoofdstuk III. Heffing van belasting bij wege van aanslag
 ## Hoofdstuk IV. Heffing van belasting bij wege van voldoening of afdracht op aangifte
-## Hoofdstuk IVA. Heffing van belasting bij wege van uitnodiging tot betaling
 ## Hoofdstuk V. Bezwaar en beroep
 ### Afdeling 1. Bezwaar
 ### Afdeling 2. Beroep bij de rechtbank
 ### Afdeling 3. Hoger beroep bij het gerechtshof
 ### Afdeling 4. Beroep in cassatie bij de Hoge Raad
-### Afdeling 5. Bijzondere bepalingen inzake bezwaar en beroep (douane)
 ## Hoofdstuk VA. Heffingsrente en revisierente
 ## Hoofdstuk VI. Bevordering van de richtige heffing
 ## Hoofdstuk VII. Bepalingen van interregionaal en van internationaal recht
@@ -25,13 +23,9 @@
 #### Paragraaf 1. Verzuimboeten
 #### Paragraaf 2. Vergrijpboeten
 ### Afdeling 2. Voorschriften inzake het opleggen van bestuurlijke boeten
-#### Paragraaf 1. Algemene bepalingen
-#### Paragraaf 2. Bijzondere bepalingen (douane)
 ## Hoofdstuk IX. Strafrechtelijke bepalingen
 ### Afdeling 1. Strafbare feiten
 ### Afdeling 1A. Strafbare feiten in algemene maatregelen van bestuur en ministeriële regelingen
 ### Afdeling 2. Algemene bepalingen van strafrecht
-### Afdeling 2A. Aanvullende algemene bepalingen van strafrecht (douane)
 ### Afdeling 3. Algemene bepalingen van strafvordering
-### Afdeling 4. Aanvullende algemene bepalingen van strafvordering (douane)
 ## Hoofdstuk X. Overgangs- en slotbepalingen

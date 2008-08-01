@@ -1,4 +1,0 @@
-# Artikel 88b
-1. Goederen die in beslag zijn genomen ter zake van het begaan van strafbare feiten als bedoeld in de wettelijke bepalingen in de zin van de Douanewet, kunnen, voor zover de eisen van het onderzoek of het algemeen belang bij hun vernietiging of onbruikbaarmaking zich niet daartegen verzetten, zo nodig na monsterneming, overeenkomstig bij ministeriële regeling te stellen regels, tegen zekerheidstelling worden vrijgegeven.
-2. Het bepaalde in het eerste lid vindt geen toepassing ten aanzien van goederen, in beslag genomen in zaken waarin het bestuur van 's Rijks belastingen het proces-verbaal ingevolge het bepaalde in artikel 80, tweede lid, aan de officier van justitie heeft doen toekomen.
-3. De overeenkomstig het eerste lid gestelde zekerheid treedt voor de toepassing van bepalingen betreffende verbeurdverklaring en inbeslagneming, alsmede voor de uitoefening van het recht van verhaal, in de plaats van de in beslag genomen goederen.
