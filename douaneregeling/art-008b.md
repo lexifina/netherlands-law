@@ -1,2 +1,0 @@
-# Artikel 8b
-Indien een productschap een vergunning heeft verleend als bedoeld in artikel 56, eerste lid, onderscheidenlijk artikel 68, eerste lid, en voor deze goederen een douaneschuld ontstaat uit hoofde van artikel 204 van het Communautair douanewetboek, wordt dat productschap voor de toepassing van het bepaalde bij of krachtens de artikelen 5, 22a, eerste lid, 22b, 22c, eerste en vierde lid, alsmede hoofdstuk V, van de Algemene wet inzake rijksbelastingen en artikel 3, eerste lid, van de Invorderingswet 1990 mede aangemerkt als inspecteur, onderscheidenlijk ontvanger.

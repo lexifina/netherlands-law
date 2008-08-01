@@ -1,3 +1,0 @@
-# Artikel 110a
-1. Terugbetaling of kwijtschelding van accijnzen, omzetbelasting en de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten wordt verleend in de gevallen waarin bij of krachtens het Communautair douanewetboek aanspraak op terugbetaling of kwijtschelding van rechten bij invoer bestaat of zou bestaan.
-2. De door de Commissie genomen beschikking bedoeld in artikel 239, lid 1, tweede gedachtestreepje, van het Communautair douanewetboek en de ter uitvoering van dit artikel vastgestelde bepalingen is van overeenkomstige toepassing op het verzoek om terugbetaling of kwijtschelding voor zover het tevens betrekking heeft op accijnzen, omzetbelasting en de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.
