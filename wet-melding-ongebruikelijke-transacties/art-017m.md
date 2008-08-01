@@ -1,2 +1,0 @@
-# Artikel 17m
-Onze Minister van Financiën kan, in afwijking van artikel 18, het feit ter zake waarvan een last onder dwangsom of een bestuurlijke boete is opgelegd, het overtreden voorschrift, alsmede de naam, het adres en de woonplaats van degene aan wie de last onder dwangsom of de bestuurlijke boete is opgelegd, ter openbare kennis brengen, zonodig onder vermelding van de overwegingen die tot de kennisgeving hebben geleid.
