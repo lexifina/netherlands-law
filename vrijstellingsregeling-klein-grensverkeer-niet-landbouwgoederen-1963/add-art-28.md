@@ -1,5 +1,0 @@
-# XXVIII. Vervoermiddelen, in internationaal verkeer gebezigd, en toebehoren
-1. a. De tijdelijke invoer en de wederuitvoer, alsmede de tijdelijke uitvoer en de wederinvoer van in internationaal verkeer gebezigde vervoermiddelen.
-b. De invoer van smeer- en onderhoudsmiddelen, zomede van ballast, zich bevindende in de onder a bedoelde vervoermiddelen, voor zover deze goederen naar het oordeel van de Minister van Financiën in overeenstemming zijn met het normaal gebruik.
-c. De invoer en de uitvoer van brandstoffen, zich bevindende in de onder a bedoelde vervoermiddelen, voor zover deze brandstoffen naar het oordeel van de Minister van Financiën in overeenstemming zijn met het normaal gebruik.
-2. Onder vervoermiddelen worden te dezen verstaan schepen, jachten, kano's e.d., luchtvaartuigen, rollend spoor- en tramwegmaterieel, motorrijtuigen en daarmede verbonden opleggers en aanhangwagens, rijwielen met hulpmotor, rijwielen, door trekdieren voortbewogen voertuigen, zomede onderdelen, banden, gereedschappen en andere goederen, welke naar het oordeel van de Minister van Financiën tot de normale uitrusting van vervoermiddelen gerekend kunnen worden.

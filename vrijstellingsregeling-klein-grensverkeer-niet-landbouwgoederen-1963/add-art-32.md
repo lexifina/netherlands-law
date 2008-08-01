@@ -1,2 +1,0 @@
-# XXXII. Uitrustingsstukken e.d. voor in het buitenland verkerende Nederlandse schepen en luchtvaartuigen
-De uitvoer van uitrustingsstukken, onderhoudsmiddelen, brandstoffen e.d., door of in opdracht van binnenlandse rederijen of luchtvaartmaatschappijen verzonden voor gebruik aan boord van haar in het buitenland verkerende zee- of binnenschepen resp. luchtvaartuigen, voor zover de aard en de hoeveelheden van de betrokken goederen naar het oordeel van de Minister van Financiën in overeenstemming zijn met het normaal gebruik.

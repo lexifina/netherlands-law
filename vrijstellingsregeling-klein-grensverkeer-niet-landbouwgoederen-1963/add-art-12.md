@@ -1,2 +1,0 @@
-# XII. Voor sportbeoefening benodigde dieren en voorwerpen
-De tijdelijke invoer en de wederuitvoer dan wel de tijdelijke uitvoer en de wederinvoer van dieren, toestellen en andere voorwerpen benodigd voor de deelneming aan wedstrijden of sportmanifestaties, voor zover deze dieren en voorwerpen bij de invoer met vrijstelling van rechten bij invoer als bedoeld in artikel 1, tweede lid, van de Douanewet worden toegelaten.

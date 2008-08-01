@@ -1,3 +1,0 @@
-# XXXI. Onderdelen enz. van vervoermiddelen en van drijvend bagger- en bergingsmaterieel
-a. De wederinvoer door hier te lande gevestigde spoorweg- of luchtvaartondernemingen van gebruikte onderdelen van rollend spoorwegmaterieel resp. van luchtvaartuigen, zomede van ander gebruikt spoorweg- resp. luchtvaartmaterieel, voor zover deze goederen met vrijstelling van rechten bij invoer als bedoeld in artikel 1, tweede lid, van de Douanewet worden toegelaten.
-b. De invoer van vervangen onderdelen van vervoermiddelen en drijvend bagger- en bergingsmaterieel, vrijgekomen bij herstellingen, welke door toevallige omstandigheden in het buitenland moesten plaatshebben.
