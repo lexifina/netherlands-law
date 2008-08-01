@@ -1,3 +1,0 @@
-# Artikel II
-A. De op 30 juni 1996 geldende voorafgaande toestemming, bedoeld in artikel 87, eerste lid, van de In- en uitvoerbeschikking landbouwgoederen 1981, zoals die luidde op 31 mei 1996, wordt geacht vervangen te zijn door de voorafgaande toestemming, bedoeld in artikel 86a van de In- en uitvoerbeschikking landbouwgoederen, zoals die luidt op 1 juli 1996.
-B. Nadat de uitslag van het onderzoek, bedoeld in artikel 90a, tweede lid, van de In- en uitvoerbeschikking landbouwgoederen 1981, zoals die luidt op 1 juli 1996, hem is bericht, heeft de exporteur 30 dagen om aan de in die bepaling bedoelde verplichtingen te voldoen.
