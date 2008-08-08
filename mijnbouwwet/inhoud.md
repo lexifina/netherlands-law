@@ -19,9 +19,11 @@
 #### § 5.1.1.4. Winstaandeel
 #### § 5.1.1.5. Heffing en invordering
 ### Afdeling 5.1.2. Afdrachten aan de provincie
-### Afdeling 5.2.1. Staatsdeelneming in opsporingsvergunningen voor koolwaterstoffen voor de zeezijde
-### Afdeling 5.2.2. Staatsdeelneming in winningsvergunningen voor koolwaterstoffen
-### Afdeling 5.3. Afdrachten in verband met andere vergunningen dan die tot het opsporen en het winnen van koolwaterstoffen en staatsdeelneming in het opslaan van stoffen
+### Afdeling 5.2. Deelneming in opsporing en winning van koolwaterstoffen en andere taken en activiteiten van de aangewezen vennootschap
+#### § 5.2.1. Algemeen
+#### § 5.2.2. Deelneming in opsporingswerkzaamheden
+#### § 5.2.3. Deelneming in mijnbouwwerkzaamheden
+### Afdeling 5.3. Afdrachten in verband met andere vergunningen dan die tot het opsporen en het winnen van koolwaterstoffen
 ### Afdeling 5.4. Het stellen van zekerheid
 ### Afdeling 5.5. Uitvoeringsregels
 ### Afdeling 5.6. Wetenschappelijk onderzoek
