@@ -9,5 +9,4 @@
 ### Afdeling 2. Van de vergaderingen
 ## § 4. Van de tuchtrechtspraak
 ## § 4a. De procedure inzake de onbehoorlijke praktijkuitoefening
-## § 5. Van de procureurs
-## § 6. Slotbepalingen
+## § 5. Slotbepalingen
