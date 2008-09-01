@@ -1,0 +1,2 @@
+# Article 5bis. Documentary Evidence of Legitimacy of Use of Certain Elements of the Mark
+Documentary evidence of the legitimacy of the use of certain elements incorporated in a mark, such as armorial bearings, escutcheons, portraits, honorary distinctions, titles, trade names, names of persons other than the name of the applicant, or other like inscriptions, which might be required by the Offices of the Contracting Parties shall be exempt from any legalization as well as from any certification other than that of the Office of origin.

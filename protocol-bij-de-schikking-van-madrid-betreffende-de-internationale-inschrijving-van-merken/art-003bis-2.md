@@ -1,0 +1,2 @@
+# Artikel 3bis. Territoriale werking
+Slechts op verzoek van de persoon die de internationale aanvrage indient of die rechthebbende op de internationale inschrijving is, strekt de uit de internationale inschrijving voortvloeiende bescherming zich uit tot een overeenkomstsluitende Partij. Ten aanzien van de overeenkomstsluitende Partij waarvan de Administratie de Administratie van oorsprong is, kan evenwel niet een zodanig verzoek worden gedaan.

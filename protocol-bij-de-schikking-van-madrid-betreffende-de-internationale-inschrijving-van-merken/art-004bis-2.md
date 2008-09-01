@@ -1,0 +1,6 @@
+# Artikel 4bis. Internationale inschrijving in de plaats van een nationale of een regionale inschrijving
+1. Wanneer een merk dat het voorwerp is van een nationale of een regionale inschrijving bij de Administratie van een overeenkomstsluitende Partij ook het voorwerp is van een internationale inschrijving en beide inschrijvingen zijn geschied ten name van dezelfde persoon, wordt de internationale inschrijving geacht in de plaats te treden van de nationale of de regionale inschrijving, zonder afbreuk te doen aan de uit hoofde van laatstgenoemde inschrijvingen verkregen rechten, mits
+(i) de uit de internationale inschrijving voortvloeiende bescherming zich uitstrekt tot genoemde overeenkomstsluitende Partij krachtens artikel 3ter, eerste en tweede lid.
+(ii) alle in de nationale of de regionale inschrijving vermelde waren en diensten ook zijn vermeld in de internationale inschrijving met betrekking tot genoemde overeenkomstsluitende Partij,
+(iii) bedoelde uitstrekking van kracht wordt na de datum van de nationale of de regionale inschrijving.
+2. De in het eerste lid bedoelde Administratie is gehouden op aanvrage in haar register van de internationale inschrijving aantekening te houden.
