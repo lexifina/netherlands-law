@@ -1,0 +1,2 @@
+# Artikel VI. Overgangsrecht
+De Tijdelijke regeling inkomensgevolgen herbeoordeelde arbeidsongeschikten, de Regeling tegemoetkoming onderhoudskosten thuiswonende gehandicapte kinderen 2000, de Regeling tegemoetkoming asbestslachtoffers, de Regeling Wfsv en de Tijdelijke regeling brugbanen niet-uitkeringsgerechtigde herbeoordeelden, zoals deze luiden na de inwerkingtreding van deze regeling, zijn van toepassing op de wijze van raming en opgave, afdracht en afrekening over het kalenderjaar 2008.
