@@ -1,0 +1,2 @@
+# Artikel IV
+In afwijking van artikel 100, derde lid, eerste volzin, van het Reglement rijbewijzen mag een aanvrager van een rijbewijs dat geldig is voor een of meer van de rijbewijscategorieën C, C1, D, D1, E bij C, E bij C1, E bij D of E bij D1 tot 10 september 2016 een niet langer dan twee jaren voor de aanvraag getekend geneeskundig verslag volgens het door het CBR vastgesteld model overleggen.
