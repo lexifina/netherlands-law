@@ -1,0 +1,7 @@
+# Artikel 151c
+1. Het is verboden als bestuurder op te treden zonder te beschikken over een ingevolge de richtlijn vakbekwaamheid bestuurders vereist geldig getuigschrift.
+2. Het verbod in het eerste lid geldt niet voor bestuurders die in de richtlijn vakbekwaamheid bestuurders zijn vrijgesteld van de verplichting tot het behalen van de basiskwalificatie.
+3. Een door de bevoegde autoriteit van een lidstaat van de Europese Unie overeenkomstig de richtlijn vakbekwaamheid bestuurders aan een bestuurder afgegeven rijbewijs of kwalificatiekaart bestuurder, voorzien van de in die richtlijn bedoelde communautaire code, geldt als een ingevolge die richtlijn vereist getuigschrift indien de code zijn geldigheid nog niet heeft verloren.
+4. Een in artikel 151b, onderdeel b, onder 2°, bedoelde bestuurder die beschikt over de volgende documenten, voldoet aan de ingevolge de richtlijn vakbekwaamheid bestuurders gestelde vereisten:
+a. indien hij goederenvervoer over de weg verricht: een bestuurdersattest als bedoeld in verordening (EEG) nr. 881/92 van de Raad van Europese Gemeenschappen van 26 maart 1992 betreffende de toegang tot de markt van het goederenvervoer over de weg in de Gemeenschap van of naar het grondgebied van een lidstaat of over het grondgebied van meer lidstaten (PbEG L 95);
+b. indien hij personenvervoer over de weg verricht: een nationaal certificaat waarvan de lidstaten van de Europese Unie de geldigheid op hun grondgebied onderling erkennen.

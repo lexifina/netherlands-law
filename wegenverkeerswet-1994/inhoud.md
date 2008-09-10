@@ -58,6 +58,9 @@
 ### § 3. Europese elektronische tolheffingsdienst
 ### § 4. Nadere regelgeving
 ## Hoofdstuk VII. Vrijstelling en ontheffing
+## Hoofdstuk VIIA. Vakbekwaamheid bestuurders goederen- en personenvervoer over de weg
+### § 1. Algemene bepalingen
+### § 2. Getuigschrift van vakbekwaamheid en getuigschrift van nascholing
 ## Hoofdstuk VIII. Kosten
 ## Hoofdstuk IX. Handhaving
 ## Hoofdstuk X. Bestuursdwang
