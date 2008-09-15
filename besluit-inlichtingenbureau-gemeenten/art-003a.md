@@ -1,2 +1,0 @@
-# Artikel 3a. Gegevensverstrekking door burgemeester en wethouders
-De verstrekking van gegevens, bedoeld in artikel 43, eerste lid, van de WWIK, door burgemeester en wethouders aan de adviserende instelling die in het kader van de uitvoering van de WWB burgemeester en wethouders van advies dient, vindt plaats door tussenkomst van het Inlichtingenbureau voor zover het betreft gegevens over verstrekte uitkeringen op grond van de WWIK ten behoeve van de uitvoering van aan deze instantie in het kader van de WWIK opgedragen taken.
