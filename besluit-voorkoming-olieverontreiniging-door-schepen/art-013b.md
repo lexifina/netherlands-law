@@ -1,6 +1,0 @@
-# Artikel 13B. Voorschriften voor olietankschepen ingericht voor de Ruwe Olie Wasmethode
-1. Elk systeem voor het wassen met ruwe olie, voorgeschreven ingevolge het bepaalde in het tweede lid, onder f en vierde lid van artikel 13, moet voldoen aan het bepaalde in dit artikel.
-2. De installatie voor het wassen met ruwe olie alsmede de bijbehorende uitrusting en voorzieningen moeten voldoen aan de voorschriften vastgesteld door de inspecteur-generaal.
-3. Een inert-gasinstallatie moet zijn aangebracht en aangesloten op elke ladingtank en sloptank in overeenstemming met de van toepassing zijnde artikelen van Bijlage IV van het Schepenbesluit 1965.
-4. Alvorens een ballastreis wordt aangevangen, dienen voldoende ladingtanks met ruwe olie te zijn gewassen opdat, rekening houdend met het vaarschema van het schip en de te verwachten weersomstandigheden, ballastwater alleen wordt vervoerd in ladingtanks die met ruwe olie zijn gewassen.
-5. Elk olietankschip uitgerust met een systeem voor het wassen met ruwe olie, moet zijn voorzien van een handboek waarin het systeem, de uitrusting en de werkwijze daarmee beschreven staan en dat ten genoegen van de inspecteur-generaal is. Wanneer een wijziging wordt aangebracht die het systeem voor het wassen met ruwe olie beïnvloedt, dient het handboek overeenkomstig te worden herzien.
