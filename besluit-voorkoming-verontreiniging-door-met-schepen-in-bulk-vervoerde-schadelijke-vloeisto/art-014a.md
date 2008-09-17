@@ -1,8 +1,0 @@
-# Artikel 14A. Scheepsnoodplan voor verontreiniging van de zee door schadelijke vloeistoffen
-1. Elk schip met een tonnage van 150 of meer waarvoor een Internationaal certificaat van voorkoming van verontreiniging voor het vervoer van schadelijke vloeistoffen in bulk is afgegeven, heeft een door de inspecteur-generaal goedgekeurd scheepsnoodplan voor verontreiniging van de zee door schadelijke vloeistoffen aan boord.
-2. Een scheepsnoodplan voor verontreiniging van de zee door schadelijke vloeistoffen bevat ten minste:
-a. de procedure die de kapitein of een ander bemanningslid dat de leiding van het schip heeft, moet volgen voor het melden van een voorval van verontreiniging door schadelijke vloeistoffen;
-b. een lijst van autoriteiten of personen aan wie een voorval van verontreiniging door schadelijke vloeistoffen moet worden gemeld;
-c. een gedetailleerde beschrijving van de maatregelen welke de bemanning onmiddellijk moet nemen om de uitstroom van schadelijke vloeistoffen ten gevolge van een voorval zoveel mogelijk te beperken;
-d. de procedure en contactpersoon aan boord van het schip voor het coördineren van de maatregelen aan boord met nationale en plaatselijke autoriteiten bij het bestrijden van een verontreiniging door schadelijke vloeistoffen.
-3. Een schip waarop artikel 26 van het Besluit voorkoming olieverontreiniging door schepen naast dit artikel van toepassing is, mag het scheepsnoodplan voor verontreiniging van de zee door schadelijke vloeistoffen combineren met het scheepsnoodplan voor olieverontreiniging, bedoeld in dat artikel. In dat geval is de titel van het plan: scheepsnoodplan voor verontreiniging van de zee.
