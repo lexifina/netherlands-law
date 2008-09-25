@@ -1,0 +1,2 @@
+# Artikel XXIV. Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten
+De Regeling van 23 oktober 2001 van de Minister van Sociale Zaken en Werkgelegenheid, nr. AV/A&M/2001/60856, tot wijziging van het Besluit aanmelding van collectieve arbeidsovereenkomsten en het aanvragen van algemeen verbindend verklaring (Stcrt. 207) wordt ingetrokken.

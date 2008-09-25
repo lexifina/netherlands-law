@@ -1,0 +1,4 @@
+# Artikel XVII. Pensioenen
+De volgende regelingen worden ingetrokken:
+a. Regeling van 20 december 2002 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 28 juni 2000, nr. SV/V&P/2000/36999, houdende aanwijzing van verenigingen die niet aan de representativiteitseisen van de Pensioen- en spaarfondsenwet hoeven te voldoen, (Stcrt. 124);
+b. Regeling van 28 november 1983 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, houdende richtlijnen betreffende vrijwillige voorzieningen in beroepspensioenregelingen, die in het kader van de uitvoering van de Wet betreffende verplichte deelneming in een beroepspensioenregeling waar nodig zullen worden gehanteerd bij verzoeken om verplichtstelling van de deelneming in een beroepspensioenregeling of de wijziging daarvan, en bij verzoeken om afgifte van een verklaring van geen bezwaar ten aanzien van wijzigingen in de statuten en reglementen van de betreffende rechtspersoon, (Stcrt. 231).
