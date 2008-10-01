@@ -16,7 +16,7 @@ de Wet milieubeheer, artikel 1.2, eerste lid, - voor zover aangeduid als strafba
 de Wet rampen en zware ongevallen, – voor zover aangeduid als strafbare feiten – de artikelen 10a, eerste en derde lid, en 11b, tweede en derde lid;
 de Wet van 2 juli 1992, Stb. 415, tot uitbreiding en wijziging van de Wet algemene bepalingen milieuhygiëne en daarmee samenhangende wijzigingen van andere wetten (milieubeleidsplanning en milieukwaliteitseisen; provinciale milieuverordening, totstandkoming algemene maatregelen van bestuur), artikel XIX, voor zover het betreft provinciale verordeningen, vastgesteld krachtens artikel 36 of artikel 41 van de Wet bodembescherming;
 de Wet verontreiniging oppervlaktewateren, de artikelen 1, eerste, derde en vierde lid, 1b, 2a, 2c, tweede tot en met vierde lid, 5, eerste lid, en 30a;
-de Wet verontreiniging zeewater, de artikelen 3, eerste lid, 4, en 11;
+de Wet verontreiniging zeewater, de artikelen 3, eerste lid, en 11;
 de Wet vervoer gevaarlijke stoffen, de artikelen 4, 5, 10, 11, 21, 24, 27, 29, 31 en 33;
 de Wet voorkoming verontreiniging door schepen, de artikelen 5, eerste lid, 12, eerste lid, tweede lid, onderdelen a en b, vierde, zesde, zevende en achtste lid, 12b, eerste lid, 12c, eerste lid, en 12e, eerste lid, 13, 13a, eerste, tweede, derde en vierde lid, 23, eerste, tweede en vierde lid, 35, derde lid, 35a, derde lid en 36a, eerste lid;
 2°. overtredingen van voorschriften, gesteld bij of krachtens:
