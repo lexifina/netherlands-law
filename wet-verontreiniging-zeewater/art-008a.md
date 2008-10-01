@@ -1,0 +1,3 @@
+# Artikel 8a
+1. Op de voorbereiding van een ambtshalve te geven beschikking tot wijziging of aanvulling van de aan een ontheffing verbonden voorschriften zijn afdeling 3.4 van de Algemene wet bestuursrecht en afdeling 13.2 van de Wet milieubeheer van toepassing, behoudens het bepaalde in het tweede lid.
+2. In overeenkomstige gevallen als bedoeld in artikel 8, derde lid, zijn afdeling 3.4 van de Algemene wet bestuursrecht en afdeling 13.2 van de Wet milieubeheer niet van toepassing. In overeenkomstige gevallen als bedoeld in artikel 8, vierde lid, kan Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer bepalen dat die afdelingen niet van toepassing zijn.
