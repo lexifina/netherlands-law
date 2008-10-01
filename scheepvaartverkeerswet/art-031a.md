@@ -1,0 +1,12 @@
+# Artikel 31a
+1. Overtreding van artikel 9, eerste lid, van het Scheldereglement met een zeeschip, een Scheldevaarder of een schip als bedoeld in artikel 13 wordt gestraft met hechtenis van ten hoogste twee maanden of een geldboete van de derde categorie.
+2. Niet-nakoming van de voorschriften verbonden aan een ontheffing, bedoeld in artikel 9, vierde lid, van het Scheldereglement, van een verplichting opgelegd krachtens artikel 11 van het Scheldereglement, alsmede overtreding van de regels gesteld bij en krachtens de artikelen 13, eerste lid, en 14, eerste lid, van het Scheldereglement, wordt gestraft met hechtenis van twee maanden of een geldboete van de derde categorie.
+3. Overtreding van de regels gesteld krachtens artikel 4, derde lid, van het verdrag inzake het gemeenschappelijk nautisch beheer wordt gestraft met:
+a. hechtenis van ten hoogste twee maanden of een geldboete van de derde categorie, indien de overtreding is begaan in de Nederlandse territoriale zee of de Westerschelde;
+b. hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie, indien de overtreding is begaan op een andere scheepvaartweg waarop dat verdrag van toepassing is;
+c. hechtenis van ten hoogste twee maanden of een geldboete van de derde categorie, indien de overtreding betrekking heeft op het ontvangen, bewaren of verstrekken van gegevens met betrekking tot de scheepvaart door organisaties en personen die niet deelnemen aan het scheepvaartverkeer,
+een en ander voorzover overtreding van de desbetreffende regel bij regeling van Onze Minister als een strafbaar feit is aangemerkt.
+4. Niet-nakoming van een krachtens het verdrag inzake het gemeenschappelijk nautisch beheer gegeven gebod of verbod, vervat in een verkeersteken of een bekendmaking met dezelfde strekking als een verkeersteken, in de zin van dat verdrag, dan wel een krachtens dat verdrag gegeven voorschrift of beperking, verbonden aan een vrijstelling of ontheffing van een verkeersteken of bekendmaking met dezelfde strekking als een verkeersteken, dan wel een krachtens dat verdrag gegeven verkeersaanwijzing, wordt gestraft met:
+a. hechtenis van ten hoogste twee maanden of een geldboete van de derde categorie indien de overtreding is begaan in de Nederlandse territoriale zee of de Westerschelde;
+b. hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie, indien de overtreding is begaan op een andere scheepvaartweg waarop dat verdrag van toepassing is.
+5. De bij of krachtens dit artikel strafbaar gestelde feiten zijn overtredingen.
