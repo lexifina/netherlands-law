@@ -1,0 +1,7 @@
+# § 15. Mededelingsplicht (artikel 67g van de AWR)
+1. De in artikel 67g, tweede lid, van de AWR bedoelde mededeling geschiedt schriftelijk.
+2. Bij het opleggen van een verzuimboete vermeldt de mededeling het feit dat aanleiding heeft gegeven tot het opleggen van de boete alsmede de voor de berekening van de boete gehanteerde uitgangspunten.
+3. Bij het opleggen van een vergrijpboete vermeldt de mededeling de feiten die aanleiding hebben gegeven tot het opleggen van de boete alsmede de feiten en omstandigheden op grond waarvan kan worden aangenomen dat sprake is van opzet of grove schuld. In voorkomende gevallen dient de mededeling tevens te vermelden de bijzondere omstandigheden van hoofdstuk VI van dit besluit die tot een matiging dan wel verhoging van de boete hebben geleid.
+Toelichting
+Artikel 6, derde lid, onderdeel a, van het EVRM verplicht de inspecteur tot het mededelen van aard en reden van de ingebrachte beschuldiging. Deze mededeling wordt uiterlijk bij het bekend maken van de boetebeschikking gedaan in een begrijpelijke taal (zie voor dit laatste aspect paragraaf 16 van het besluit). Indien een kennisgeving in de zin van artikel 67k van de AWR is verzonden waarin de gronden van het voornemen een vergrijpboete op te leggen, zijn opgenomen en waarop geen reactie van belanghebbende is ontvangen, kan de inspecteur in de mededeling volstaan met een verwijzing naar de kennisgeving.
+Zo mogelijk worden in de mededeling de relevante wetsartikelen en paragrafen van het besluit opgenomen.
