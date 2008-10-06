@@ -1,0 +1,2 @@
+# Artikel IV
+De werkzaamheden van het Centraal Fonds voor de Volkshuisvesting, strekkende tot de uitvoering in 2008 van het Besluit Centraal Fonds voor de Volkshuisvesting, als gewijzigd door dit besluit, en dit besluit, die voor de inwerkingtreding van dit besluit zijn verricht, staan gelijk aan werkzaamheden waarop het Besluit Centraal Fonds voor de Volkshuisvesting, als gewijzigd door dit besluit, en dit besluit van toepassing zijn.
