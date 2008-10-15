@@ -1,7 +1,7 @@
 # Artikel 194a
 1. Onder vergelijkende reclame wordt verstaan elke vorm van reclame waarbij een concurrent dan wel door een concurrent aangeboden goederen of diensten uitdrukkelijk of impliciet worden genoemd.
 2. Vergelijkende reclame is, wat de vergelijking betreft, geoorloofd op voorwaarde dat deze:
-a. niet misleidend is;
+a. niet misleidend of een misleidende handelspraktijk als bedoeld in de artikelen 193c tot en met 193g is;
 b. goederen of diensten vergelijkt die in dezelfde behoeften voorzien of voor hetzelfde doel zijn bestemd;
 c. op objectieve wijze een of meer wezenlijke, relevante, controleerbare en representatieve kenmerken van deze goederen en diensten, zoals de prijs, met elkaar vergelijkt;
 d. er niet toe leidt dat op de markt de adverteerder wordt verward met een concurrent, of de merken, handelsnamen, andere onderscheidende kenmerken, goederen of diensten van de adverteerder met die van een concurrent;

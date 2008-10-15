@@ -1,0 +1,5 @@
+# Artikel 193d
+1. Een handelspraktijk is bovendien misleidend indien er sprake is van een misleidende omissie.
+2. Een misleidende omissie is iedere handelspraktijk waarbij essentiële informatie welke de gemiddelde consument nodig heeft om een geïnformeerd besluit over een transactie te nemen, wordt weggelaten, waardoor de gemiddelde consument een besluit over een overeenkomst neemt of kan nemen, dat hij anders niet had genomen.
+3. Van een misleidende omissie is eveneens sprake indien essentiële informatie als bedoeld in lid 2 verborgen wordt gehouden of op onduidelijke, onbegrijpelijke, dubbelzinnige wijze dan wel laat verstrekt wordt, of het commerciële oogmerk, indien dit niet reeds duidelijk uit de context blijkt, niet laat blijken, waardoor de gemiddelde consument een besluit over een overeenkomst neemt of kan nemen, dat hij anders niet had genomen.
+4. Bij de beoordeling of essentiële informatie is weggelaten of verborgen is gehouden worden de feitelijke context, de beperkingen van het communicatiemedium alsook de maatregelen die zijn genomen om de informatie langs andere wegen ter beschikking van de consument te stellen, in aanmerking genomen.

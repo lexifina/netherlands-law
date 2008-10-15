@@ -1,0 +1,15 @@
+# Artikel 193a
+1. In deze afdeling wordt verstaan onder:
+a. consument: natuurlijk persoon die niet handelt in de uitoefening van een beroep of bedrijf;
+b. handelaar: natuurlijk persoon of rechtspersoon die handelt in de uitoefening van een beroep of bedrijf of degene die ten behoeve van hem handelt;
+c. product: goed, elektriciteit daaronder begrepen, of dienst;
+d. handelspraktijk: iedere handeling, omissie, gedraging, voorstelling van zaken of commerciële communicatie, met inbegrip van reclame en marketing, van een handelaar, die rechtstreeks verband houdt met de verkoopbevordering, verkoop of levering van een product aan consumenten;
+e. besluit over een overeenkomst: een door een consument genomen besluit over de vraag of, en, zo ja, hoe en op welke voorwaarden hij een product koopt, geheel of gedeeltelijk betaalt, behoudt of van de hand doet, of een contractueel recht uitoefent in verband met het product, ongeacht of de consument overgaat tot handelen;
+f. professionele toewijding: normale niveau van bijzondere vakkundigheid en van zorgvuldigheid dat redelijkerwijs van een handelaar ten aanzien van consumenten mag worden verwacht, in overeenstemming met de op hem rustende verantwoordelijkheid, voortvloeiend uit de voor die handelaar geldende professionele standaard en eerlijke marktpraktijken;
+g. uitnodiging tot aankoop: commerciële boodschap die de kenmerken en de prijs van het product op een aan het gebruikte medium aangepaste wijze vermeldt en de consument aldus in staat stelt een aankoop te doen;
+h. ongepaste beïnvloeding: uitbuiten van een machtspositie ten aanzien van de consument om, zelfs zonder gebruik van of dreiging met fysiek geweld, pressie uit te oefenen op een wijze die het vermogen van de consument om een geïnformeerd besluit te nemen, aanzienlijk beperkt;
+i. gedragscode: regels die vaststellen hoe handelaren die zich aan de code binden, zich gedragen met betrekking tot een of meer bepaalde handelspraktijken of bedrijfssectoren en die niet bij of krachtens wettelijke voorschriften zijn vastgesteld;
+j. houder van een gedragscode: rechtspersoon of groep van handelaren die verantwoordelijk is voor het opstellen en herzien van een gedragscode of het toezien op de naleving van de gedragscode door degenen die zich hieraan hebben gebonden;
+k. richtlijn: richtlijn nr. 2005/29/EG van het Europees Parlement en de Raad van de Europese Unie van 11 mei 2005 betreffende oneerlijke handelspraktijken van ondernemingen jegens consumenten op de interne markt (PbEG L 149).
+2. In deze afdeling wordt mede verstaan onder gemiddelde consument: het gemiddelde lid van een specifieke groep waarop de handelaar zich richt of het gemiddelde lid van een specifieke groep waarvan de handelaar redelijkerwijs kan voorzien dat die groep wegens hun geestelijke of lichamelijke beperking, hun leeftijd of goedgelovigheid bijzonder vatbaar is voor de handelspraktijk of voor het onderliggende product.
+3. Deze afdeling is niet van toepassing op de certificering van goederen van edelmetaal en de vermelding van het edelmetaalgehalte voor deze goederen.
