@@ -1,0 +1,3 @@
+# Artikel LXXIV
+1. Gemeenschappelijke regelingen tot het treffen waarvan na het tijdstip van inwerkingtreding van deze wet een ander bestuursorgaan van de deelnemende gemeente bevoegd is, worden met ingang van dat tijdstip geacht te zijn getroffen door dat andere bestuursorgaan.
+2. Het eerste lid is van overeenkomstige toepassing op gemeenschappelijke regelingen waarvan de bevoegdheid tot het treffen daarvan ten gevolge van de inwerkingtreding van artikel I, onderdeel PPP, van de Wet dualisering gemeentebestuur is overgegaan naar een ander bestuursorgaan, met dien verstande dat voor «het tijdstip van inwerkingtreding van deze wet» wordt gelezen: het tijdstip van inwerkingtreding van artikel I, onderdeel PPP, van de Wet dualisering gemeentebestuur.
