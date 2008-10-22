@@ -1,0 +1,2 @@
+# Artikel IX. Inwerkingtreding
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Indien het koninklijk besluit dat de inwerkingtreding van deze wet bevat, wordt uitgegeven na 31 juli 2006, kan dat koninklijk besluit bepalen dat deze wet in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het koninklijk besluit wordt geplaatst, en terugwerkt tot en met 1 augustus 2006.
