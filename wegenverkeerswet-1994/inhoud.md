@@ -30,7 +30,7 @@
 ### § 5. Erkenningsregeling bedrijfsvoorraad
 ### § 6. Schorsing
 ### § 7. Kentekenplaten
-## Hoofdstuk IVA. Registratie van fietsen
+## Hoofdstuk IVA. Registratie van fietsen en andere mobiele objecten
 ## Hoofdstuk V. Gebruik van voertuigen op de weg
 ### § 1. Algemene bepalingen
 ### § 2. Periodieke keuringsplicht
