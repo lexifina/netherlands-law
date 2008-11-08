@@ -1,0 +1,4 @@
+# Article 26 bis
+1. The marking of lanes reserved for certain categories of vehicles, including cycle lanes, shall be by means of lines which should be clearly distinguished from other continuous or broken lines on the carriageway, notably by being wider and with less space between strokes.
+2. When a lane is reserved for regular public transport service vehicles the worded road marking shall be the word 'BUS' or the letter 'A'. The sign indicating such a line shall be of the square type described in annex 1, section E, or of the round type described in annex 1, section D, of the present Convention, showing the white symbol of a bus on a blue ground. Diagrams A, 58a and A, 58b shown in annex 2 to this Convention are examples of markings for a lane reserved for regular public transport service vehicles.
+3. Domestic legislation shall specify under what conditions other vehicles may use or go across the lane referred to in paragraph 1.
