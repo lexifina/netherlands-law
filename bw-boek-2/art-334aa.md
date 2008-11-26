@@ -5,3 +5,4 @@
 4. Indien twee of meer van de partijen bij de splitsing naamloze vennootschappen zijn, wordt slechts dezelfde persoon als accountant aangewezen, indien de voorzitter van de ondernemingskamer van het gerechtshof te Amsterdam de aanwijzing op hun eenparig verzoek heeft goedgekeurd.
 5. De accountants zijn bij alle partijen bij de splitsing gelijkelijk tot onderzoek bevoegd.
 6. Op de verklaring van de accountant is artikel 334h van overeenkomstige toepassing en op zijn verslag de leden 2 en 3 van artikel 334h.
+7. De leden 1 en 3 blijven buiten toepassing indien de aandeelhouders van elke partij bij de splitsing daarmee instemmen.
