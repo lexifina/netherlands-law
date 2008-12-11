@@ -1,0 +1,2 @@
+# Artikel 2a. Gevolgen Wet werk en inkomen naar arbeidsvermogen
+Voor de toepassing van artikel 2 wordt voor zover de subsidiemiddelen betrekking hebben op de periode vanaf 29 december 2005 met ingang van die datum op de plaats van 'WAO' tevens gelezen: Wet werk en inkomen naar arbeidsvermogen, en op de plaats van 'arbeidsgehandicapten' of 'arbeidsgehandicapten, als bedoeld in artikel 2 van de Wet op de (re-)ïntegratie': personen met een structurele functionele beperking en gedeeltelijk arbeidsgeschikten.
