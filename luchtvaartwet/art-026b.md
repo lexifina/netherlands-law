@@ -1,5 +1,0 @@
-# Artikel 26b
-Onze Minister stelt in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer een regeling vast inzake geluidwerende voorzieningen ten aanzien van aanwezige woningen en andere geluidsgevoelige gebouwen, welke bij de uitvoering van de in overeenstemming met de aanwijzingen, bedoeld in artikel 26a, eerste lid, gebrachte bestemmingsplannen niet behoeven te worden afgebroken, of waarvan het gebruik of de bewoning niet behoeft te worden beëindigd, binnen:
-a. de voor de in artikel 25, eerste lid, onder a, bedoelde grenswaarde vastgestelde geluidszone, en
-b. voor zover artikel 25, vierde lid, is toegepast, de voor de grenswaarde voor structureel uitgevoerd nachtelijk vliegverkeer vastgestelde geluidszone.
-De regeling inzake geluidwerende voorzieningen is voor wat betreft de voorschriften die samenhangen met de gestelde grenswaarde voor structureel uitgevoerd nachtelijk vliegverkeer van toepassing op aanwezige woningen en gezondheidszorggebouwen.

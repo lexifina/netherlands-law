@@ -1,2 +1,0 @@
-# Artikel 25f
-Indien ten gevolge van groot onderhoud van een baan of banen, van een ongeval of van een ander bijzonder voorval sprake is van langdurige afwijking van het voorgeschreven gebruik van het luchtvaartterrein, waardoor de geluidszone voor de grenswaarde bedoeld in artikel 25, eerste lid, of artikel 25, vierde lid, eenmalig overschreden zal worden, kan door Onze Minister ontheffing worden verleend van het verbod bedoeld in artikel 25a.

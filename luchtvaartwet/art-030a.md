@@ -1,8 +1,0 @@
-# Artikel 30a
-1. Voor elk luchtvaartterrein waarvoor een of meer zones, als bedoeld in de artikelen 25a, 25b en 25c worden vastgesteld, stelt Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer een handhavingsvoorschrift vast.
-2. Het handhavingsvoorschrift legt de hoofdlijnen vast van de wijze waarop toezicht plaatsvindt op de voor het gebruik van een luchtvaartterrein gestelde voorschriften als bedoeld in artikel 24, derde lid, alsmede op andere voorschriften en maatregelen die gericht zijn op het voorkomen of bestrijden van geluidhinder, en bevat tenminste:
-a. regels omtrent de wijze waarop de voor het meten, berekenen en registreren van de geluidsbelasting benodigde gegevens worden verzameld;
-b. regels omtrent de wijze waarop het feitelijke gebruik van het luchtvaartterrein wordt getoetst aan het voorgenomen gebruik dat in het gebruiksplan, bedoeld in artikel 30b, is aangegeven;
-c. regels omtrent de wijze waarop kan worden geconstateerd of het gebruik van het luchtvaartterrein afwijkt van de voorschriften in de aanwijzing bedoeld in artikel 24, derde lid, met betrekking tot de geluidsbelasting of andere voorschriften en maatregelen die gericht zijn op het voorkomen of bestrijden van geluidhinder.
-3. Het handhavingsvoorschrift is openbaar.
-4. Onze Minister brengt uiterlijk vóór 1 april van elk kalenderjaar in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer aan de milieucommissie, bedoeld in artikel 28, een evaluatierapport uit over de werking van het handhavingsvoorschrift in het voorgaande kalenderjaar. Zonodig bevat het evaluatierapport voorstellen omtrent de werking van het handhavingsvoorschrift in het voorgaande kalenderjaar.

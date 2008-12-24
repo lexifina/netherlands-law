@@ -1,2 +1,0 @@
-# Artikel 26d
-De geldelijke steun, bedoeld in artikel 26a, derde lid, en de kosten verbonden aan de uitvoering van de regeling, bedoeld in artikel 26b, en de kosten verbonden aan de toepassing van artikel 26c komen ten laste van het Rijk, met dien verstande dat door de eigenaar of houder van een burgerluchtvaartuig ter zake van het landen met dat luchtvaartuig op een luchtvaartterrein dan wel door de luchtpassagier die van enigerlei luchthaven gebruik maakt een vergoeding verschuldigd is aan de Staat ter bestrijding van die geldelijke steun en vorenbedoelde kosten.
