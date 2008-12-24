@@ -1,2 +1,0 @@
-# Artikel 13a
-De maximaal toelaatbare geluidsbelasting van een ligplaats die op het tijdstip van vaststelling van de geluidszone daarbinnen reeds aanwezig is, is 40 Kosteneenheden.
