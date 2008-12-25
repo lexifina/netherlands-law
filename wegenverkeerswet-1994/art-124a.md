@@ -7,4 +7,4 @@ b. het getuigschrift onderscheidenlijk het certificaat kennelijk abusievelijk aa
 4. Onverminderd het eerste lid en artikel 151g, vierde lid, verliest het certificaat zijn geldigheid:
 a. door het onbevoegd daarin aanbrengen van wijzigingen, of
 b. door het overlijden van de houder.
-5. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de wijze van bekendmaking van de ongeldigverklaring van een getuigschrift of certificaat, de vernieuwing van rijbewijzen na ongeldigverklaring van het daarop vermelde getuigschrift en omtrent de wijze van inlevering van een ongeldig verklaard certificaat.
+5. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de wijze van bekendmaking van de ongeldigverklaring van een getuigschrift of certificaat, de vernieuwing van rijbewijzen na ongeldigverklaring van het daarop vermelde getuigschrift en omtrent de wijze van inlevering van een ongeldig verklaard certificaat.
