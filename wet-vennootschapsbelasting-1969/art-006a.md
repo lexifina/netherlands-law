@@ -3,9 +3,7 @@
 2. Het eerste lid vindt slechts toepassing indien de beleggingsinstelling een naamloze vennootschap of een fonds voor gemene rekening is, of een lichaam dat is opgericht of aangegaan naar het recht van de Nederlandse Antillen, Aruba, een lidstaat van de Europese Unie of een staat in de relatie waarmee een met Nederland gesloten verdrag ter voorkoming van dubbele belasting van toepassing is waarin een bepaling is opgenomen die discriminatie naar nationaliteit verbiedt voor lichamen die overigens in dezelfde situatie verkeren als naar Nederlands recht opgerichte of aangegane lichamen, die naar aard en inrichting vergelijkbaar is met het hiervoor genoemde naar Nederlands recht opgerichte of aangegane lichaam.
 3. Voor de toepassing van dit artikel worden onder financiële instrumenten verstaan:
 a. financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, met uitzondering van zaken en rechten als omschreven in artikel 17a, eerste lid, onderdelen a en b, van deze wet;
-b. derivatencontracten voor de overdracht van kredietrisico;
-c. opties, futures, swaps, termijncontracten en andere derivatencontracten die betrekking hebben op klimaatvariabelen, emissievergunningen, inflatiepercentages of andere economische statistieken en die in contanten moeten worden afgewikkeld; en
-d. financiële contracten ter verrekening van verschillen.
+b. banktegoeden.
 4. Een lichaam wordt uitsluitend met ingang van een jaar als vrijgestelde beleggingsinstelling aangemerkt.
 5. Het verzoek, bedoeld in het eerste lid, wordt uiterlijk ingediend in het jaar met ingang waarvan het lichaam als vrijgestelde beleggingsinstelling wil worden aangemerkt. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
 6. Indien een lichaam in de loop van een jaar niet langer voldoet aan de voorwaarden voor vrijstelling van de belasting, wordt het lichaam met ingang van dat jaar bij een voor bezwaar vatbare beschikking van de inspecteur niet meer als vrijgestelde beleggingsinstelling aangemerkt.

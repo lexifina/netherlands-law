@@ -14,7 +14,7 @@ c. met betrekking tot de omzetbelasting, de overdrachtsbelasting, de belasting v
 1°. indien een naheffingsaanslag wordt opgelegd: over het tijdvak dat aanvangt op de dag na het einde van het kalenderjaar of het boekjaar waarop de nageheven belasting betrekking heeft en eindigt op de dag van de dagtekening van het aanslagbiljet;
 2°. indien een teruggaaf wordt verleend: over het tijdvak dat aanvangt drie maanden na het einde van het kalenderjaar of het boekjaar waarop de teruggaaf betrekking heeft en eindigt op de dag van de dagtekening van het afschrift van de uitspraak of van de kennisgeving waaruit van de teruggaaf blijkt;
 d. ingeval het tweede lid, tweede volzin, van toepassing is: over het tijdvak dat aanvangt op de dag na het einde van het kalenderjaar of het boekjaar waarop de te laat betaalde belasting betrekking heeft en eindigt op de dag van betaling.
-4. Bij ministeriële regeling kunnen afwijkende regels worden gesteld over de aanvang van het tijdvak waarover de rente wordt berekend voor gevallen waarin de belastingplicht voor de inkomstenbelasting of de vennootschapsbelasting in de loop van het kalenderjaar ontstaat of eindigt.
+4. Bij ministeriële regeling kunnen nadere regels worden gesteld over de aanvang van het tijdvak waarover de rente wordt berekend voor gevallen waarin de belastingplicht voor de inkomstenbelasting of de vennootschapsbelasting in de loop van het kalenderjaar ontstaat of eindigt.
 5. Voor de toepassing van dit hoofdstuk geldt als het bedrag van de aanslag: het bedrag van de aanslag na de verrekening ingevolge
 a. artikel 15;
 b. de artikelen 3.152, vijfde lid, en 4.51, vijfde lid, van de Wet inkomstenbelasting 2001;
