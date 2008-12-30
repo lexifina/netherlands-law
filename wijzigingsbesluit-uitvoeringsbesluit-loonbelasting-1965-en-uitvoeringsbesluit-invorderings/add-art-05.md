@@ -1,2 +1,0 @@
-# ARTIKEL V. (INWERKINGTREDINGSBEPALING)
-Dit besluit treedt in werking met ingang van 1 januari 1998 en werkt terug tot en met 1 januari 1997, behoudens artikel II, onderdeel B.1, dat in werking treedt op het tijdstip waarop de wet tot wijziging van de Algemene wet inzake rijksbelastingen en van de Invorderingswet 1990 in verband met de herziening van het stelsel van bestuurlijke boeten en van het fiscale strafrecht in werking treedt.
