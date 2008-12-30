@@ -30,6 +30,7 @@
 ### Afdeling 4. Tarief
 ### Afdeling 5. Vrijstellingen
 ### Afdeling 6. Teruggaaf
+### Afdeling 6a. Overige bepalingen
 ### Afdeling 7. Verplichtingen ten dienste van de belastingheffing
 ## Hoofdstuk VI. Energiebelasting
 ### Afdeling 1. Begripsbepalingen
