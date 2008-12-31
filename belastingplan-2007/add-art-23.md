@@ -1,0 +1,2 @@
+# Artikel XXIII
+Met betrekking tot de kalenderjaren 2006 en 2007 kunnen bij ministeriële regeling van Onze Minister van Financiën van artikel 13a en artikel 27 van de Wet op de loonbelasting 1964 en van artikel 3.146 van de Wet inkomstenbelasting 2001 afwijkende regels worden gesteld op grond waarvan loon overeenkomstig een door de inhoudingsplichtige bestendig gevolgde gedragslijn aan een of meer verstreken loontijdvakken wordt toegerekend.
