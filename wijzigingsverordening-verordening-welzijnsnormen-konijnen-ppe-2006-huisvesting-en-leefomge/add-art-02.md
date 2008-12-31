@@ -1,0 +1,2 @@
+# Artikel II
+Deze verordening treedt in werking met ingang van de tweede dag na de dag van dagtekening van het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst.

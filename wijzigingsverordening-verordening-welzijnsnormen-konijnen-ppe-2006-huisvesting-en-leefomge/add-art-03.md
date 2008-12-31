@@ -1,0 +1,2 @@
+# Artikel III
+Op het moment van inwerkingtreding van deze verordening blijven de volgens het puntensysteem in bijlage 1 bij Verordening welzijnsnormen konijnen (PPE) 2006 reeds behaalde punten, behouden. Vanaf het moment van inwerkingtreding van deze verordening worden de in bijlage 1 genoemde punten alleen behaald indien is voldaan aan de in de bijlage genoemde respectieve leden van artikel 2 van Verordening welzijnsnormen konijnen (PPE) 2006, zoals gewijzigd bij deze verordening.
