@@ -1,3 +1,0 @@
-# Artikel 10a
-1. De artikelen 2 tot en met 9 zijn niet van toepassing op de voor de jaren 2006, 2007 en 2008 te verstrekken subsidies in de kosten van activiteiten op het in artikel 2, eerste lid, omschreven gebied aan organisaties waaraan ook in 2005 een instellingssubsidie in de kosten van zodanige activiteiten is verstrekt.
-2. De Stichting kan aan een in het eerste lid bedoelde organisatie voor 2006, voor 2007 en voor 2008 een instellingssubsidie in de kosten, bedoeld in het eerste lid, verstrekken indien die organisatie ook in 2006, 2007, onderscheidenlijk 2008, voldoet aan de voorwaarden die in 2005 golden om voor subsidie in aanmerking te komen. De subsidie wordt in dat geval berekend op overeenkomstige wijze als de subsidie voor 2005 is berekend.
