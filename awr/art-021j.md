@@ -1,0 +1,4 @@
+# Artikel 21j
+1. Met een voor bezwaar vatbare beschikking van de inspecteur wordt gelijkgesteld het inkomensgegeven, bedoeld in artikel 21, onderdeel e, onder 2°, zoals dat met het oorspronkelijke besluit van de afnemer is bekendgemaakt op grond van artikel 21f, derde lid.
+2. Een bezwaarschrift tegen of verzoekschrift om wijziging van het besluit van de afnemer wordt, voor zover het gericht is tegen het inkomensgegeven, mede aangemerkt als een bezwaarschrift tegen of verzoekschrift om ambtshalve vermindering van het inkomensgegeven.
+3. Een bezwaarschrift tegen of verzoekschrift om ambtshalve vermindering van het inkomensgegeven wordt, indien gericht tegen het besluit van de afnemer, mede aangemerkt als een bezwaarschrift tegen of verzoekschrift om wijziging van het besluit van die afnemer.

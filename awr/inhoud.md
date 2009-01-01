@@ -3,6 +3,7 @@
 ## Hoofdstuk II. Aangifte
 ## Hoofdstuk III. Heffing van belasting bij wege van aanslag
 ## Hoofdstuk IV. Heffing van belasting bij wege van voldoening of afdracht op aangifte
+## Hoofdstuk IVA. Basisregistratie inkomen
 ## Hoofdstuk V. Bezwaar en beroep
 ### Afdeling 1. Bezwaar
 ### Afdeling 2. Beroep bij de rechtbank
