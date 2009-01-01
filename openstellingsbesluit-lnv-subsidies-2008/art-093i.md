@@ -1,2 +1,0 @@
-# Artikel 93i
-Een aanvraag tot voorschotverlening gaat vergezeld van een overzicht van gemaakte en betaalde kosten en de kosten van eigen arbeid.

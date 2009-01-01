@@ -1,2 +1,0 @@
-# Artikel 95a
-Als formulier waarmee aanvragen tot subsidieverlening als bedoeld in de artikelen 3, eerste lid, 6, eerste lid, 11, eerste lid, 27, 31, 36, eerste lid, 40, eerste lid, 43, eerste lid, 62, eerste lid, 92a, 93a, eerste en derde lid, 93k, eerste lid, 93m, eerste lid, en 93p, eerste lid, worden ingediend, zijn vastgesteld de formulieren die overeenkomen met de desbetreffende modellen die zijn opgenomen in Bijlage 4 bij dit besluit.
