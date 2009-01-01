@@ -1,0 +1,10 @@
+# Artikel 3b
+1. Het is verboden
+a. een kuil of een tunnel van een sleepnet als bedoeld in artikel 3, onderdeel a, van de verordening aan boord te houden van een vissersvaartuig of te gebruiken in de gebieden, bedoeld in artikel 1 van de verordening, met uitzondering van ICES-deelgebieden V en VI;
+b. bodemsleepnetten als bedoeld in artikel 3, onderdelen b, c en d, van de verordening aan boord te houden van een vissersvaartuig of te gebruiken in de gebieden, bedoeld in artikel 1 van de verordening;
+c. boomkorren als bedoeld in artikel 4 van de verordening aan boord te houden van een vissersvaartuig of te gebruiken in de gebieden, bedoeld in artikel 1 van de verordening;
+d. sleepnetten met een maaswijdte tussen 55 en 99 mm aan boord te houden van een vissersvaartuig of te gebruiken in de gebieden, bedoeld in artikel 5, eerste lid, onderdelen a en b, van de verordening;
+e. staand vistuig met een maaswijdte van minder dan 120 mm aan boord te houden van een vissersvaartuig of te gebruiken in de gebieden, bedoeld in artikel 5, eerste lid, onderdeel a, van de verordening;
+f. staand vistuig met een maaswijdte van minder dan 100 mm aan boord te houden van een vissersvaartuig of te gebruiken in de gebieden, bedoeld in artikel 5, eerste lid, onderdeel b, van de verordening;
+tenzij dit vistuig is geborgen overeenkomstig artikel 20, eerste lid, van verordening (EEG) nr. 2847/93 van de Raad van de Europese Gemeenschappen van 12 oktober 1993 tot invoering van een controleregeling voor het gemeenschappelijk visserijbeleid (PbEG L 261).
+2. Het eerste lid, onderdeel d, is niet van toepassing, indien in overeenstemming met artikel 6 van verordening nr. 494/2002 of onderdeel 12.1 van bijlage III van de verordening van 19 december 2008 van de Raad van de Europese Unie tot vaststelling, voor 2009, van de vangstmogelijkheden voor sommige visbestanden en groepen visbestanden welke in de wateren van de Gemeenschap en, voor vaartuigen van de Gemeenschap, in andere wateren met vangstbeperkingen van toepassing zijn, en tot vaststelling van de bij de visserij in acht te nemen voorschriften, wordt gehandeld.
