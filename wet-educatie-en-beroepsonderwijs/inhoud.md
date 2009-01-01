@@ -17,7 +17,7 @@
 ### Titel 2. Bekostiging beroepsonderwijs
 #### § 1. Bekostiging
 #### § 2. Leerlinggebonden financiering
-### Titel 3. Rijksbijdrage ten behoeve van de educatie
+### Titel 3. Uitkering ten behoeve van de educatie
 ### Titel 4. Bekostiging van kenniscentra beroepsonderwijs bedrijfsleven
 #### § 1. Bekostiging
 ### Titel 5. Begroting, verslaglegging en gegevensverstrekking
@@ -66,7 +66,6 @@
 ## Hoofdstuk 10. Beroep bij de administratieve rechter
 ## Hoofdstuk 11. Sancties
 ### Paragraaf 1. Inhouden en opschorten bekostiging; strafbepaling
-### Paragraaf 2. Opschorten en terugvorderen rijksbijdrage educatie
 ## Hoofdstuk 12. Overgangs-, invoerings- en slotbepalingen
 ### Titel 1. Intrekking regelingen
 ### Titel 1a. Bepalingen met betrekking tot experimentele opleidingen
