@@ -1,0 +1,4 @@
+# Artikel IV
+1. De netbeheerder van het landelijk hoogspanningsnet stelt over 2008 een jaarverslag op overeenkomstig artikel 70 van de Elektriciteitswet 1998 zoals dat onmiddellijk luidde voor het moment van inwerkingtreding van artikel IV.
+2. De netbeheerder van het landelijk hoogspanningsnet stelt over 2008 een jaarrekening op overeenkomstig artikel 72i van de Elektriciteitswet 1998 zoals dat onmiddellijk luidde voor het moment van inwerkingtreding van artikel IV.
+3. Het besluit tot vaststelling van de jaarrekening over 2008 behoeft de goedkeuring van Onze Minister van Economische Zaken. De goedkeuring kan worden onthouden wegens strijd met het recht of het algemeen belang. Artikel 72k van de Elektriciteitswet 1998 zoals dat onmiddellijk luidde voor het moment van inwerkingtreding van artikel IV, is van overeenkomstige toepassing.
