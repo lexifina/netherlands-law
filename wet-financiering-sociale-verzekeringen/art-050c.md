@@ -1,0 +1,3 @@
+# Artikel 50c. Nadere regels
+1. Bij regeling van Onze Minister, in overeenstemming met Onze Minister van Financiën, worden met betrekking tot de premiekortingen regels gesteld over de toepassing van die kortingen bij onderbreking van het dienstverband dan wel opeenvolgende en verschillende dienstverbanden bij dezelfde werkgever of bij overgang van ondernemingen en voor het in dienst treden.
+2. Bij regeling van Onze Minister, in overeenstemming met Onze Minister van Financiën, kunnen regels worden gesteld ten behoeve van een goede uitvoering van paragraaf 1 van deze afdeling, waaronder voor het berekenen van de evenredige vermindering en de samenloop van premiekortingen en premievrijstelling in het tijdvak waarover premie wordt betaald.

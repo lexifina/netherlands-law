@@ -33,11 +33,10 @@
 #### § 1. Algemeen
 #### § 2. Eigenrisicodragen Ziektewet
 #### § 3. Eigenrisicodragen Wet op de arbeidsongeschiktheidsverzekering en Wet werk en inkomen naar arbeidsvermogen
-### Afdeling 6. Premievrijstellingen en premiekorting
-#### § 1. Premievrijstelling oudere werknemer
-#### § 2. Korting arbeidsgehandicapte werknemer
+### Afdeling 6. Premiekortingen en premievrijstelling
+#### § 1. Premiekortingen oudere werknemer en arbeidsgehandicapte werknemer
+#### § 2. Algemene bepalingen en nadere regels premiekorting
 #### § 3. Premievrijstelling bij marginale arbeid
-#### § 4. Nadere regels
 ### Afdeling 7. Dienstplichtigen
 ## Hoofdstuk 4. De heffing en invordering van premies
 ### § 1. Heffing
