@@ -1,0 +1,21 @@
+# Artikel 122a
+1. Het College zorgverzekeringen verstrekt bijdragen aan zorgaanbieders die inkomsten derven ten gevolge van het verlenen van medisch noodzakelijke zorg aan:
+a. vreemdelingen als bedoeld in artikel 8, onderdelen f of h, van de Vreemdelingenwet 2000, voor zover het betreft vreemdelingen die in afwachting zijn van een beslissing op een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 14 van die wet, dan wel vreemdelingen die in afwachting zijn van een beslissing op een bezwaarschrift of een beroepschrift naar aanleiding van een beslissing als hiervoor bedoeld en deze procedure krachtens de Vreemdelingenwet 2000 of op grond van een rechterlijke beslissing in Nederland mogen afwachten, en
+b. vreemdelingen als bedoeld in artikel 10 van de Vreemdelingenwet 2000.
+2. Onder medisch noodzakelijke zorg wordt verstaan zorg of overige diensten als bedoeld in artikel 11 van deze wet of in artikel 6 van de Algemene Wet Bijzondere Ziektekosten, met uitzondering van bij of krachtens algemene maatregel van bestuur aan te wijzen vormen van zorg of diensten, en slechts voor zover de zorgaanbieder verstrekking ervan, gezien de aard van de prestaties en de verwachte duur van het verblijf van de vreemdeling, medisch noodzakelijk acht.
+3. Geen bijdrage wordt verstrekt voor zover de kosten voor de verleende zorg:
+a. op de vreemdeling of een verzekeraar van de vreemdeling kunnen worden verhaald,
+b. op grond van een andere wettelijke bepaling kunnen worden vergoed, of
+c. hoger zijn dan in de Nederlandse marktomstandigheden in redelijkheid passend is.
+4. Indien zorg is verleend die aan verzekerden doorgaans zonder verwijzing, recept of zonder indicatie als bedoeld in de Algemene Wet Bijzondere Ziektekosten wordt verleend, bedraagt de bijdrage:
+a. 100% van de kosten die verband houden met zwangerschap en bevalling, en
+b. 80% van de kosten in de overige gevallen,
+voor zover deze kosten niet op grond van het derde lid zijn of kunnen worden betaald of buiten beschouwing dienen te blijven.
+5. In bijdragen als bedoeld in het eerste lid voor andere zorg dan de zorg, bedoeld in het vierde lid, wordt voorzien door middel van met het oog op verlening van die zorg tussen het College zorgverzekeringen en zorgaanbieders gesloten overeenkomsten.
+6. Indien een zorgaanbieder zowel in zorg als bedoeld in het vierde lid als in zorg als bedoeld in het vijfde lid kan voorzien, kan een overeenkomst als bedoeld in het vijfde lid zich tevens uitstrekken over de in het vierde lid bedoelde zorg en kunnen in die overeenkomst van het vierde lid afwijkende afspraken worden gemaakt.
+7. Het College zorgverzekeringen zendt jaarlijks voor 1 oktober aan Onze Minister een begroting van de kosten van de bijdragen, bedoeld in het eerste lid, voor het volgende kalenderjaar.
+8. Het voor de bijdragen in een kalenderjaar beschikbare bedrag wordt voor 1 december van het daaraan voorafgaande jaar door Onze Minister vastgesteld.
+9. Het bedrag, bedoeld in het achtste lid, wordt gedekt uit 's Rijks kas en wordt door het College zorgverzekeringen afzonderlijk beheerd en geadministreerd.
+10. De artikelen 40, tweede tot en met elfde lid, 72, tweede tot en met zesde lid, 73 en 75, zijn van overeenkomstige toepassing.
+11. De zorgaanbieder die in aanmerking wenst te komen voor een bijdrage als bedoeld in dit artikel, verstrekt het College zorgverzekeringen of door dat College aangewezen, bij de uitvoering van dit artikel betrokken personen, bij ministeriële regeling te bepalen gegevens die noodzakelijk zijn om het recht op en de omvang van een bijdrage te kunnen vaststellen, dan wel stelt hem deze gegevens voor dit doel voor inzage of het nemen van afschrift ter beschikking.
+12. In afwijking van artikel 116 kan een zorgaanbieder tegen een op grond van dit artikel genomen besluit van het College zorgverzekeringen beroep instellen bij het College van Beroep voor het bedrijfsleven.
