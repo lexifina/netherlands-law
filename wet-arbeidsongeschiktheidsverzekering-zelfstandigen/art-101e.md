@@ -1,0 +1,2 @@
+# Artikel 101e. Overgangsrecht Tijdelijk besluit brugbanen herbeoordeelden
+De loonkostensubsidie die voor de dag van inwerkingtreding van de Wet stimulering arbeidsparticipatie, op grond van het Tijdelijk besluit brugbanen herbeoordeelden, is verstrekt aan een werkgever ten behoeve van een persoon die op de dag voor aanvang van die gesubsidieerde dienstbetrekking recht had op een arbeidsongeschiktheidsuitkering wordt aangemerkt als loonkostensubsidie als bedoeld in artikel 67f.
