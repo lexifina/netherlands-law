@@ -1,0 +1,2 @@
+# Artikel XXVII
+De met betrekking tot een van de kalenderjaren 2001 tot en met 2008 in artikel 2.17, vierde lid, van de Wet inkomstenbelasting 2001 bedoelde onderlinge verhouding kan in afwijking van dat lid door de belastingplichtige en zijn partner nog gezamenlijk worden gewijzigd indien en zolang voor een van hen een in dat lid bedoelde aanslag over het desbetreffende kalenderjaar op 1 januari 2009 nog niet onherroepelijk vaststaat of na die datum wordt vastgesteld.
