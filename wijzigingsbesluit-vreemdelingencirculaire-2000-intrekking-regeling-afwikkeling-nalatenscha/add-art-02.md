@@ -1,0 +1,7 @@
+# Artikel II
+1. Paragraaf B14/5 Vreemdelingencirculaire 2000, zoals dit luidde voor de inwerkingtreding van dit besluit, blijft van kracht voor vreemdelingen:
+a. ten aanzien van wie voor de inwerkingtreding van dit besluit een positieve beoordeling heeft plaatsgevonden omtrent de ambtshalve verlening van een verblijfsvergunning op grond van die paragraaf, doch waarbij de daadwerkelijke verlening van de verblijfsvergunning niet vóór de inwerkingtreding van dit besluit heeft kunnen plaatsvinden;
+b. ten aanzien van wie bij de IND voor de inwerkingtreding bekend is dat de burgemeester een verzoek om een burgemeestersverklaring als bedoeld in paragraaf B14/5.2 Vreemdelingencirculaire 2000 in behandeling heeft genomen;
+c. die voor de inwerkingtreding van dit besluit een aanvraag voor een verblijfsvergunning op grond van die paragraaf hebben ingediend;
+d. die tijdig bezwaar hebben aangetekend tegen het besluit, dan wel de feitelijke handeling waarbij is geoordeeld dat er geen grond bestond een verblijfsvergunning op grond van de regeling te verlenen.
+2. In de gevallen waarin de ambtshalve beoordeling niet heeft geleid tot een kennisgeving van de feitelijke handeling waarbij is geoordeeld dat er geen grond bestond een verblijfsvergunning op grond van de regeling te verlenen, is het eerste lid, onder d, slechts van toepassing, indien de vreemdeling binnen vier weken na de inwerkingtreding van dit besluit heeft verzocht om bekendmaking van die beoordeling.
