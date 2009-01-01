@@ -1,2 +1,0 @@
-# Artikel I
-[Wijzigt de Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen en de Wijzigingswet Wet werk en bijstand, enz. (meer zekerheid gemeenten dat mensen met kleine kans op inschakeling in arbeidsproces met behoud van uitkering maximaal 2 jaar onbeloonde additionele werkzaamheden kunnen verrichten).]
