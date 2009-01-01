@@ -1,5 +1,0 @@
-# Artikel 53c
-1. Voor de toepassing van artikel 82f van de Mediawet worden twee of meer instellingen als één instelling aangemerkt, indien:
-a. een instelling direct of indirect zodanige zeggenschap of feitelijke invloed heeft in een of meer andere instellingen, dat deze in belangrijke mate het beleid van die instelling of instellingen kan bepalen, dan wel aanmerkelijke invloed heeft op de inhoud van dat beleid; of
-b. een natuurlijk persoon of groep van natuurlijke personen direct of indirect zodanige zeggenschap of feitelijke invloed heeft in twee of meer instellingen, dat deze in belangrijke mate het beleid van die instellingen kan bepalen, dan wel aanmerkelijke invloed heeft op de inhoud van dat beleid.
-2. Bij regeling van Onze Minister, in overeenstemming met Onze Minister van Verkeer en Waterstaat, kan worden bepaald dat in afwijking van artikel 82f, eerste lid, van de Mediawet voor de uitzending van de radioprogramma's van eenzelfde instelling meer frequentieruimte mag worden gebruikt dan één FM-frequentie of samenstel van FM-frequenties.

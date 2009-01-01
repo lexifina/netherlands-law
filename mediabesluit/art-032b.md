@@ -1,5 +1,0 @@
-# Artikel 32b
-1. Het verstrekken van voorschotten aan instellingen die zendtijd hebben verkregen voor landelijke omroep en de Wereldomroep vindt plaats in de vorm van twaalf maandelijkse termijnen. In bijzondere gevallen kan de raad van bestuur, onderscheidenlijk het Commissariaat voor de Media, hiervan afwijken.
-2. De hoogte van de voorschotten wordt bepaald door de raad van bestuur, onderscheidenlijk het Commissariaat. Dit geschiedt mede op basis van de begroting, bedoeld in artikel 99, onderscheidenlijk artikel 108, van de Mediawet, en een liquiditeitsprognose van de desbetreffende instelling welke aan de raad van bestuur, onderscheidenlijk het Commissariaat, ter kennisneming wordt gezonden voor 1 november van het jaar, voorafgaande aan het begrotingsjaar.
-3. Zolang de liquiditeitsprognose over het desbetreffende jaar nog niet in bezit is van de raad van bestuur, onderscheidenlijk het Commissariaat, vindt het verstrekken van voorschotten plaats op basis van de laatstelijk toegezonden liquiditeitsprognose.
-4. Het totaal aan voorschotten in enig jaar kan de voor dat jaar vastgestelde totale vergoeding niet overschrijden.

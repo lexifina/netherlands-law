@@ -1,2 +1,0 @@
-# Artikel 32c
-In deze afdeling wordt verstaan onder neventaken: activiteiten als bedoeld in artikel 13c, derde lid, van de Mediawet, die bestaan uit het anders dan als programma waarvoor zendtijd is verkregen, verzorgen van elektronische producten met beeld, geluid of tekst, en het al dan niet tegen betaling, al dan niet gecodeerd of al dan niet op individueel verzoek analoog of digitaal verspreiden daarvan via elektronische communicatienetwerken als bedoeld in artikel 1.1, onderdeel e, van de Telecommunicatiewet.
