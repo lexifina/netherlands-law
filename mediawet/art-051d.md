@@ -1,3 +1,0 @@
-# Artikel 51d
-1. De Stichting gebruikt haar zendtijd, bedoeld in artikel 39a1, eerste en tweede lid, geheel voor een programma dat bestaat uit onderdelen die zich bij uitstek voor een gezamenlijke verzorging lenen. Hiertoe behoren die programma-onderdelen die een hoge frequentie en vaste regelmaat van uitzending vereisen, een algemeen dienstverlenend karakter dragen, of met een doelmatiger inzet van omroepmiddelen beter gezamenlijk tot stand kunnen worden gebracht.
-2. Bij algemene maatregel van bestuur wordt bepaald welke programma-onderdelen als bedoeld in het eerste lid in ieder geval in het programma van de Stichting worden opgenomen.

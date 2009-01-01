@@ -1,3 +1,0 @@
-# Artikel 39f
-1. Het Commissariaat voor de Media kan eenmaal in de vijf jaren voor een periode van vijf jaren zendtijd voor landelijke omroep toewijzen aan kerkgenootschappen en genootschappen op geestelijke grondslag, dan wel aan rechtspersonen waarin twee of meer van deze genootschappen samenwerken. De zendtijd vervalt na afloop van deze periode.
-2. De kerkgenootschappen en genootschappen op geestelijke grondslag die zendtijd hebben verkregen, zijn gerechtigd de verzorging van hun programma's op te dragen aan hetzij de Stichting, hetzij een omroepvereniging die zendtijd heeft verkregen, hetzij een door hen in het leven geroepen orgaan.

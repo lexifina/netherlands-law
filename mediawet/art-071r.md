@@ -1,2 +1,0 @@
-# Artikel 71r
-Een commerciële omroepinstelling die programmaonderdelen bestaande uit reclameboodschappen verzorgt, draagt er zorg voor dat zij aangesloten is bij de Nederlandse Reclame Code of een vergelijkbare door de Stichting Reclame Code tot stand gebrachte regeling en ter zake onderworpen is aan het toezicht van de Stichting Reclame Code. De commerciële omroepinstelling toont dit aan door middel van een aan het Commissariaat voor de Media over te leggen schriftelijke verklaring van de Stichting Reclame Code.

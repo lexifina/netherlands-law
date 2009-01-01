@@ -1,3 +1,0 @@
-# Artikel 106a
-1. Onze Minister kan – naast de bedragen, bedoeld in artikel 101, eerste lid – gelden ter beschikking stellen van de raad van bestuur, welke gelden voor doeleinden die door Onze Minister bij het ter beschikking stellen zijn vastgesteld, kunnen worden aangewend ten behoeve van de instellingen die zendtijd hebben verkregen voor landelijke omroep.
-2. Aan het ter beschikking stellen van gelden kunnen voorschriften worden verbonden. Onze Minister kan de beschikking tot het ter beschikking stellen van gelden intrekken of wijzigen, indien de aan de beschikking verbonden voorschriften niet worden nageleefd.

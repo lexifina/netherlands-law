@@ -1,7 +1,0 @@
-# Artikel 40d
-1. Ten behoeve van de coördinatie op een televisieprogrammanet wordt de raad van bestuur bijgestaan door een netredactie die als volgt is samengesteld:
-a. de instellingen, wier zendtijd voor televisie krachtens artikel 41b, eerste lid, onderdelen a en b, is ingedeeld op het desbetreffende programmanet benoemen elk één lid;
-b. de instellingen, met uitzondering van de Stichting Etherreclame, de kerkgenootschappen en genootschappen op geestelijke grondslag, de politieke partijen en de overheid, van wie een bij het coördinatiereglement, bedoeld in artikel 19a, eerste lid, onderdeel f, te bepalen belangrijk deel van de zendtijd tussen 16.00 uur en 24.00 uur is ingedeeld op het desbetreffende programmanet benoemen elk één lid;
-c. de kerkgenootschappen en genootschappen op geestelijke grondslag, wier zendtijd is ingedeeld op het desbetreffende programmanet, benoemen gezamenlijk één lid.
-2. Ten behoeve van de coördinatie op een radioprogrammanet wordt de raad van bestuur bijgestaan door een netredactie die bestaat uit een aantal leden dat gelijk is aan het aantal instellingen wier zendtijd op het desbetreffende programmanet is ingedeeld, met uitzondering van de Stichting Etherreclame, de politieke partijen en de overheid. Iedere instelling benoemt één lid, met uitzondering van de instellingen, genoemd in de vorige volzin.
-3. Het lidmaatschap van een netredactie is onverenigbaar met het lidmaatschap van het bestuur van een omroepvereniging, de educatieve omroepinstelling of de Programmastichting.
