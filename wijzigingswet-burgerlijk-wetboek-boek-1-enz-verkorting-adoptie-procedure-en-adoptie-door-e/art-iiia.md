@@ -1,0 +1,2 @@
+# Artikel IIIa
+Artikel 3 van de Wet opneming buitenlandse kinderen ter adoptie, zoals dit luidde voor de inwerkingtreding van deze wet, blijft van toepassing op beginseltoestemmingen die op het tijdstip van inwerkingtreding van deze wet reeds zijn verleend, maar geldt niet voor verzoeken tot verlenging van de geldigheidsduur daarvan die op of na het tijdstip van inwerkingtreding van deze wet zijn of worden ingediend.
