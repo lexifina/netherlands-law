@@ -1,0 +1,2 @@
+# Artikel 38a
+Het college kan ter uitvoering van artikel 34, eerste lid, onderdeel a, degene die uitkering op grond van deze wet ontvangt en voor wie de kans op inschakeling in het arbeidsproces gering is en die daardoor vooralsnog niet bemiddelbaar is op de arbeidsmarkt, onbeloonde additionele werkzaamheden laten verrichten gedurende maximaal twee jaar. Artikel 10a, tweede tot en met zesde en achtste tot en met tiende lid, van de Wet werk en bijstand alsmede de regels, bedoeld in artikel 8, eerste lid, onderdelen e en f, van die wet, zijn van overeenkomstige toepassing.
