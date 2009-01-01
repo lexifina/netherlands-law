@@ -1,0 +1,3 @@
+# Artikel II
+1. Verzoeken als bedoeld in artikel 3, eerste lid, van de Monumentenwet 1988, zoals die bepaling op 31 december 2008 luidde, betreffende voor 1 januari 1940 vervaardigde monumenten als bedoeld in artikel 1, onderdeel b, onder 1, van die wet die voor 1 januari 2009 zijn ingediend, worden afgehandeld overeenkomstig het bepaalde bij of krachtens de Monumentenwet 1988, zoals die wet op 31 december 2008 luidde.
+2. Bezwaar- en beroepschriften tegen een besluit met betrekking tot een verzoek als bedoeld in het eerste lid worden afgehandeld overeenkomstig het bepaalde bij of krachtens de Monumentenwet 1988, zoals die wet op 31 december 2008 luidde.
