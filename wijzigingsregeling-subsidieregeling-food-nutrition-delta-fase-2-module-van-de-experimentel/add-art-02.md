@@ -1,2 +1,0 @@
-# Artikel II
-De Subsidieregeling Food & Nutrition Delta Fase 2-module van de Experimentele kaderregeling subsidies innovatieprojecten zoals die luidde voor het tijdstip waarop deze regeling in werking is getreden, blijft van toepassing op subsidies voor FND-innovatieprojecten en FND-haalbaarheidsprojecten die voor dat tijdstip zijn aangevraagd, met dien verstande dat de deelnemers in een FND-samenwerkingsverband of een FND-MKB-samenwerkingsverband die bij de overdracht van kennis en resultaten voldoen aan artikel 16a, niet behoeven te voldoen aan artikel 33, vierde lid.
