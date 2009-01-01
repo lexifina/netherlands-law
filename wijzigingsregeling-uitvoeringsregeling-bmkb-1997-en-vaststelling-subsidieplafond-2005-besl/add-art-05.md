@@ -1,2 +1,0 @@
-# Artikel V
-Met betrekking tot kredieten, die zijn verstrekt voor het tijdstip van inwerkingtreding van deze regeling blijven artikel 3, eerste lid, onderdeel d, artikel 5, tweede lid, onderdeel b, en vierde lid, onderdeel c, artikel 7, derde lid, en 8, eerste lid, onderdeel j, van de bijlagen 1 en 2 bij de Uitvoeringsregeling BMKB 1997 van toepassing, zoals deze onderdelen en dit lid luidden onmiddellijk voor dat tijdstip.
