@@ -1,3 +1,0 @@
-# Artikel 21b. Gebruik sociaal-fiscaal nummer
-1. De Centrale organisatie werk en inkomen gebruikt het sociaal-fiscaalnummer bij de verwerking van persoonsgegevens voor de uitvoering van de taken, bedoeld in artikel 21, onderdelen a, e, f, en h, voorzover dit betreft de uitvoering van het Buitengewoon Besluit Arbeidsverhoudingen 1945, en artikel 21a.
-2. De Centrale organisatie werk en inkomen verifieert het sociaal-fiscaalnummer in relatie tot de bijbehorende persoonsidentificerende gegevens van personen van wie persoonsgegevens worden verwerkt bij de rijksbelastingdienst, tenzij die gegevens afkomstig zijn van het Uitvoeringsinstituut werknemersverzekeringen of de Sociale verzekeringsbank.
