@@ -108,7 +108,7 @@
 #### Afdeling 2.3.4. Uitoefenen van bedrijf van natura-uitvaartverzekeraar
 ##### § 2.3.4.1. Bijkantoor buiten Nederland
 #### Afdeling 2.3.5. Aanbieden van rechten van deelneming in instellingen voor collectieve belegging in effecten
-##### § 2.3.5.1. Bijkantoor en verrichten van diensten naar een lidstaat
+##### § 2.3.5.1. Bijkantoor en verrichten van diensten naar een andere lidstaat
 #### Afdeling 2.3.6. Bemiddelen in verzekeringen
 ##### § 2.3.6.1. Bijkantoor en verrichten van diensten naar een andere lidstaat
 #### Afdeling 2.3.7. Herverzekeringsbemiddelen
@@ -119,6 +119,7 @@
 ## 3. Deel Prudentieel Toezicht Financiële Ondernemingen
 ### Hoofdstuk 3.1. Inleidende bepalingen
 ### Hoofdstuk 3.2. Aantrekken van opvorderbare gelden
+### Hoofdstuk 3.2A. Optreden als waarborg- of garantiefonds
 ### Hoofdstuk 3.3. Regels voor het werkzaam zijn op de financiële markten
 #### Afdeling 3.3.1. Verbod gebruik van het woord «bank»
 #### Afdeling 3.3.2. Deskundigheid, betrouwbaarheid en integriteit
@@ -251,12 +252,23 @@
 ##### § 5.1.3.4. Procedure inzake het opstellen van het prospectus en de in het prospectus op te nemen gegevens
 ##### § 5.1.3.5. Reclame-uitingen, algemeenverkrijgbaarstelling van het prospectus en geldigheidsduur van het prospectus
 ##### § 5.1.3.6. Informatieverplichtingen na goedkeuring van het prospectus
-##### § 5.1.3.7. Doorlopende informatieverplichting
-##### § 5.1.3.8. Aanvullende bevoegdheden voor de Autoriteit Financiële Markten bij aanbieden van effecten
+##### § 5.1.3.7. Aanvullende bevoegdheden voor de Autoriteit Financiële Markten bij aanbieden van effecten
+### Hoofdstuk 5.1a. Regels voor informatievoorziening door uitgevende instellingen
+#### Afdeling 5.1a.1. Afdeling 5.1a.1 Informatieverplichtingen voor uitgevende instellingen waarvan effecten zijn toegelaten tot de handel op een gereglementeerde markt en waarvan Nederland lidstaat van herkomst is
+##### § 5.1a.1.1. Inleidende bepalingen
+##### § 5.1a.1.2. Periodieke verplichtingen voor uitgevende instellingen
+##### § 5.1a.1.3. Incidentele verplichtingen voor uitgevende instellingen
+#### Afdeling 5.1a.2. Regels voor uitgevende instellingen met Nederland als lidstaat van herkomst
+##### § 5.1a.2.1. Inleidende bepalingen
+##### § 5.1a.2.2. Specifieke informatie voor aandeelhouders en obligatiehouders
+##### § 5.1a.2.3. Wijze van algemeen verkrijgbaar stellen en deponeren van informatie
+##### § 5.1a.2.4. Taal van de informatie
+#### Afdeling 5.1a.3. Algemeenverkrijgbaarstelling informatie bij andere lidstaat van herkomst
+#### Afdeling 5.1a.4. Toezicht op de naleving, vrijstellingen, ontheffingen en nadere regels
 ### Hoofdstuk 5.2. Regels voor toegang tot de Nederlandse financiële markten voor marktexploitanten en voor het exploiteren of beheren van een gereglementeerde markt
 #### Afdeling 5.2.1. Toegang tot de Nederlandse financiële markten voor marktexploitanten
 #### Afdeling 5.2.2. Het exploiteren of beheren van een gereglementeerde markt
-### Hoofdstuk 5.3. Regels voor het medlen van stemmen, kapitaal, zeggenschap en kapitaalbelang in uitgevende instellingen
+### Hoofdstuk 5.3. Regels voor het melden van stemmen, kapitaal, zeggenschap en kapitaalbelang in uitgevende instellingen
 #### Afdeling 5.3.1. Inleidende bepaling
 #### Afdeling 5.3.2. Meldingen door uitgevende instellingen betreffende het kapitaal en de stemmen
 #### Afdeling 5.3.3. Meldingen door aandeelhouders en andere stemgerechtigden betreffende wijzigingen in zeggenschap en kapitaalbelang
