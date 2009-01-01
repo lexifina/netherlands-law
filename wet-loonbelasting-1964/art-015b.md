@@ -1,6 +1,6 @@
 # Artikel 15b
 1. Tot de vrije vergoedingen behoren niet vergoedingen ter zake van:
-a. vervoer, waar onder woon-werkverkeer, indien dat vervoer niet plaatsvindt per taxi, luchtvaartuig, schip of ter beschikking gesteld vervoermiddel, voorzover de vergoeding meer bedraagt dan € 0,19 per kilometer, met dien verstande dat bij ministeriële regeling afwijkende regels kunnen worden gesteld met betrekking tot vaste vergoedingen ter zake van vervoer ingeval de werknemer hoofdzakelijk naar een vaste plaats van werkzaamheden reist;
+a. vervoer, waar onder woon-werkverkeer, indien dat vervoer niet plaatsvindt per taxi, luchtvaartuig, schip of ter beschikking gesteld vervoermiddel, voorzover de vergoeding meer bedraagt dan € 0,19 per kilometer en geen vergoeding is als bedoeld in artikel 15a, eerste lid, onderdeel k;
 b. [vervallen;]
 c. onregelmatige diensten of continudiensten voorzover de vergoeding betrekking heeft op voeding, verlichting of verwarming in de woning, een duurzaam aan een plaats gebonden schip of woonwagen in de zin van artikel 1 van de Woningwet, de aanhorigheden daaronder begrepen, van de werknemer;
 d. bedrijfsfitness voorzover niet is voldaan aan bij ministeriële regeling te stellen regels;
