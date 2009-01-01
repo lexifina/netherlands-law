@@ -1,0 +1,3 @@
+# Artikel 78d. Gesubsidieerde arbeid
+1. Een dienstbetrekking als bedoeld in artikel 4 van de Wet inschakeling werkzoekenden, een arbeidsovereenkomst als bedoeld in artikel 5, eerste lid, van die wet en een dienstbetrekking als bedoeld in artikel 6 van het Besluit in- en doorstroombanen gelden als een voorziening als bedoeld in artikel 7, eerste lid, onderdeel a.
+2. Op dienstbetrekkingen als bedoeld in de Wet inschakeling werkzoekenden blijft titel 10 van Boek 7 van het Burgerlijk Wetboek alsmede de artikelen 4, tweede, zesde en zevende lid, en 11, aanhef en onderdeel a, van de Wet inschakeling werkzoekenden van toepassing. Op deze dienstbetrekkingen is artikel 134, tweede lid, van de Ambtenarenwet niet van toepassing.

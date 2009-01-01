@@ -1,0 +1,8 @@
+# Artikel 78e. Bezwaar- en beroepschriften
+1. Op een bezwaar- of beroepschrift dat:
+a. vóór of op 31 december 2003 is ingediend tegen een door het college op grond van de Algemene bijstandswet, de Wet inschakeling werkzoekenden of het Besluit in- en doorstroombanen genomen besluit en waarop op die datum nog niet onherroepelijk is beslist;
+b. na 31 december 2003 is ingediend tegen een op grond van de in het eerste lid bedoelde wetten of het Besluit in- en doorstroombanen met toepassing van artikel 2, tweede lid, van de Invoeringswet Wet werk en bijstand, na 31 december 2003 genomen besluit en waarop nog niet onherroepelijk is beslist op het tijdstip dat de bepaling vervalt op grond waarvan het besluit is genomen;
+c. na 31 december 2003 is ingediend en betrekking heeft op bijstandsverlening waarop op grond van artikel 12, eerste lid, van de Invoeringswet Wet werk en bijstand de Algemene bijstandswet van toepassing is;
+wordt beslist met toepassing van onderscheidenlijk de Algemene bijstandswet, de Wet inschakeling werkzoekenden of het Besluit in- en doorstroombanen.
+2. Het eerste lid is van overeenkomstige toepassing op verzoeken als bedoeld in artikel 140 van de Algemene bijstandswet en verzoeken om een voorlopige voorziening als bedoeld in artikel 8:81 van de Algemene wet bestuursrecht.
+3. Op een bezwaar- of beroepschrift dat voor of op de dag van inwerkingtreding van de wet van 29 december 2008 tot intrekking van de Invoeringswet Wet werk en bijstand (Stb. 586) is ingediend tegen een door het college of Onze Minister op grond van de Invoeringswet Wet werk en bijstand genomen besluit en waarop op die datum nog niet onherroepelijk is beslist wordt beslist met toepassing van deze wet.

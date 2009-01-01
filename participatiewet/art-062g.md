@@ -1,0 +1,3 @@
+# Artikel 62g. Mededeling verhaalsbesluit
+1. Het besluit tot verhaal op grond van deze paragraaf, anders dan met toepassing van artikel 62b, wordt door het college aan degene op wie verhaal wordt gezocht medegedeeld. Daarbij wordt het bedrag of worden de bedragen genoemd waarvan, alsmede de termijn of termijnen waarbinnen, betaling wordt verlangd. Bij verhaal op de nalatenschap kan de mededeling worden gericht tot de langstlevende echtgenoot of een der erfgenamen die geacht kan worden bij de afwikkeling van de nalatenschap te zijn betrokken.
+2. Indien de belanghebbende niet uit eigen beweging bereid is de verlangde gelden aan het college te betalen dan wel niet of niet tijdig tot betaling daarvan overgaat, kan het college overgaan tot verhaal in rechte.
