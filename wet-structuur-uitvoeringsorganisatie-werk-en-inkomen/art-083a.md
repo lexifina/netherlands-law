@@ -1,2 +1,2 @@
-# Artikel 83a. Beperking belanghebbendebegrip
-Bij een besluit op grond van artikel 83i is belanghebbende de persoon op wiens aanspraken het besluit betrekking heeft.
+# Artikel 83a. Afzien van horen in bezwaarschriftprocedure
+In afwijking van artikel 7:3 van de Algemene wet bestuursrecht kan van het horen van een belanghebbende worden afgezien indien de belanghebbende niet binnen een door het Uitvoeringsinstituut werknemersverzekeringen gestelde redelijke termijn, verklaart dat hij gebruik wil maken van het recht te worden gehoord.

@@ -1,7 +1,7 @@
-# Artikel 33c. Bericht over verwerkte gegevens
-1. Het Uitvoeringsinstituut werknemersverzekeringen verstrekt aan de werknemer periodiek een bericht als bedoeld in artikel 33, tweede lid, onderdeel b.
-2. Het bericht, bedoeld in het eerste lid, bevat informatie over de verwachte hoogte en duur van de uitkering, die door het Uitvoeringsinstituut werknemersverzekeringen wordt verstrekt, indien de werknemer op de laatste dag van de periode waarop het bericht betrekking heeft, werkloos, arbeidsongeschikt of gedeeltelijk arbeidsgeschikt zou worden.
-3. Indien de gegevens opgenomen in het bericht, bedoeld in het eerste lid, niet juist of niet volledig zijn, doet de werknemer het Uitvoeringsinstituut werknemersverzekeringen hiervan terstond schriftelijk mededeling.
-4. Indien de werknemer het bericht, bedoeld in het eerste lid, niet heeft ontvangen en hij redelijkerwijs een bericht kon verwachten, deelt hij dit terstond aan het Uitvoeringsinstituut werknemersverzekeringen mede.
-5. Het Uitvoeringsinstituut werknemersverzekeringen beslist naar aanleiding van een mededeling als bedoeld in het tweede of derde lid, over de opname, verbetering en aanvulling van gegevens van de werknemer.
-6. Bij ministeriële regeling kunnen regels worden gesteld voor de periodiciteit van het bericht, die voor verschillende soorten werknemers verschillend kan zijn, en in samenhang daarmee voor de inhoud van het bericht.
+# Artikel 33c. Informatie over verwerkte gegevens
+1. Het Uitvoeringsinstituut werknemersverzekeringen informeert de werknemer periodiek als bedoeld in artikel 33, tweede lid, onderdeel b.
+2. Het Uitvoeringsinstituut werknemersverzekeringen stelt de werknemer tevens in de gelegenheid kennis te nemen van te verwachten hoogte en duur van de uitkering die door het Uitvoeringsinstituut werknemersverzekeringen wordt verstrekt, indien de werknemer werkloos, arbeidsongeschikt of gedeeltelijk arbeidsgeschikt zou worden.
+3. Indien de gegevens niet juist of niet volledig zijn, dient de werknemer terstond een correctieverzoek in bij het Uitvoeringsinstituut werknemersverzekeringen met aanduiding van de juiste gegevens.
+4. Indien de werknemer vaststelt, dat gegevens als bedoeld in het eerste lid niet zijn opgenomen in de polisadministratie en hij dit redelijkerwijs wel kon verwachten, dient hij terstond een correctieverzoek in bij het Uitvoeringsinstituut werknemersverzekeringen met aanduiding van de ontbrekende gegevens.
+5. Het Uitvoeringsinstituut werknemersverzekeringen beslist naar aanleiding van een verzoek als bedoeld in het derde of vierde lid over de opname, verbetering en aanvulling van gegevens van de werknemer.
+6. Bij ministeriële regeling kunnen regels worden gesteld voor de periodiciteit van de informatie en voor de wijze van informatieverstrekking die voor verschillende soorten werknemers verschillend kan zijn, en in samenhang daarmee voor de inhoud van de informatie.

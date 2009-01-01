@@ -1,0 +1,3 @@
+# Artikel 32b. Onderzoekssubsidies
+1. Het Uitvoeringsinstituut werknemersverzekeringen kan in het belang van de arbeidsintegratie van personen met een structurele functionele beperking ten laste van de fondsen, bedoeld in hoofdstuk 7 van de Wet financiering sociale verzekeringen, subsidie verstrekken aan instellingen of organisaties met het oog op onderzoek naar en het bevorderen van maatregelen, die strekken tot behoud, herstel of bevordering van de mogelijkheid tot het verrichten van arbeid.
+2. Bij ministeriële regeling kunnen nadere regels worden gesteld voor de uitvoering van het eerste lid.

@@ -1,0 +1,3 @@
+# Artikel 83s. Overgang goedkeuringen, verplichtingen en opdrachten in verband met andere taken
+1. Goedkeuring verleend aan de Centrale organisatie werk en inkomen op grond van artikel 13, eerste lid, zoals dit artikel luidde op 31 december 2008, wordt aangemerkt als goedkeuring of, indien artikel 5, vierde lid, van toepassing is, als melding, van een daartoe strekkend besluit van het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 5.
+2. Verplichtingen opgelegd aan de Centrale organisatie werk en inkomen op grond van artikel 13, tweede lid, zoals dit artikel luidde op 31 december 2008, worden aangemerkt als verplichtingen opgelegd aan het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 5.

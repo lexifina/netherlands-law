@@ -6,5 +6,5 @@ c. gedurende vijf jaar geen betalingen heeft verricht en niet aannemelijk is dat
 d. een bedrag, overeenkomend met ten minste 50% van de restsom in één keer aflost.
 2. De in het eerste lid, onder a en b, genoemde termijn is drie jaar indien:
 a. het gemiddeld inkomen van de belanghebbende in die periode de beslagvrije voet bedoeld in de artikelen 475c en 475d van het Wetboek van Burgerlijke Rechtsvordering niet te boven is gegaan; en
-b. de terugvordering niet het gevolg is van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 13, eerste lid, of de artikelen 28, tweede lid, en 29, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen.
+b. de terugvordering niet het gevolg is van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 13, eerste lid, of artikel 30c, tweede en derde lid van de Wet structuur uitvoeringsorganisatie werk en inkomen.
 3. Bij ministeriële regeling kunnen met betrekking tot dit artikel nadere regels worden gesteld.

@@ -1,0 +1,5 @@
+# Artikel 83p. Partijvervanging van de Centrale organisatie werk en inkomen en beroepstermijn
+1. In civielrechtelijke en bestuursrechtelijke gedingen waarin de Centrale organisatie werk en inkomen partij is, treedt het Uitvoeringsinstituut werknemersverzekeringen in haar plaats, zonder dat daarvoor een betekening nodig is en met overneming van procureurstelling onderscheidenlijk aanwijzing van een gemachtigde.
+2. Beroep waarvoor de termijn is aangevangen vóór de inwerkingtreding van deze wet staat voor het Uitvoeringsinstituut werknemersverzekeringen open gedurende het resterende gedeelte van de beroepstermijn.
+3. Indien de toepassing van dit hoofdstuk tot gevolg heeft dat het Uitvoeringsinstituut werknemersverzekeringen in een geding zowel eiser als gedaagde is, wordt dat geding van rechtswege beëindigd.
+4. Indien de toepassing van dit hoofdstuk tot gevolg heeft dat het Uitvoeringsinstituut werknemersverzekeringen in een bezwaarschriftprocedure zowel de indiener van het bezwaarschrift als het bestuursorgaan dat het bestreden besluit heeft genomen is, wordt die bezwaarschriftprocedure van rechtswege beëindigd.

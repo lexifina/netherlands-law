@@ -1,0 +1,3 @@
+# Artikel 31a. Werkstaking, uitsluiting of bedrijfsbezetting
+1. Voor zover aan het Uitvoeringsinstituut werknemersverzekeringen bekend is dat in een bedrijf of onderneming, of een gedeelte daarvan, een werkstaking, uitsluiting of bedrijfsbezetting plaatsvindt, verleent het geen diensten tot het plaatsen van werkzoekenden in dat bedrijf of die onderneming, of dat gedeelte daarvan, waar de werkstaking, uitsluiting of bedrijfsbezetting heerst.
+2. Voor zover aan het Uitvoeringsinstituut werknemersverzekeringen bekend is dat werkzoekenden rechtstreeks in een werkstaking, uitsluiting of bedrijfsbezetting betrokken zijn, verleent het aan hen tijdens de duur van het arbeidsconflict geen diensten als bedoeld in artikel 30a, tweede lid.
