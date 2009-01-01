@@ -1,0 +1,2 @@
+# Artikel II
+Een verzekerde die op 31 december 2008 op grond van een overeenkomst voor bruikleen een aan functiebeperkingen aangepaste stoel in bruikleen heeft die in gevolge deze regeling niet meer onder de te verzekeren prestaties op grond van de Zorgverzekeringswet valt, behoudt recht op gebruik van die stoel voor rekening van de zorgverzekering als bedoeld in die wet tot het einde van die overeenkomst, maar uiterlijk tot 1 januari 2010.
