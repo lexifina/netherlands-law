@@ -1,2 +1,0 @@
-# Artikel III
-Dit besluit treedt in werking op het tijdstip waarop artikel I, onderdeel T, van de wet van 16 juli 2005 tot wijziging van de Mediawet in verband met het bevorderen van een gezamenlijke strategie en duidelijke regie met betrekking tot de programmering van de landelijke publieke omroep, alsmede het aanbrengen van een helderder afbakening tussen toezicht, bestuur en professionele werkprocessen binnen de organisatie van de landelijke publieke omroep (Stb. 426), in werking treedt.
