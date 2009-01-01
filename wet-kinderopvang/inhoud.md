@@ -15,6 +15,7 @@
 ## Hoofdstuk 4. Handhaving
 ### Paragraaf 1. Toezicht op de naleving
 ### Paragraaf 2. Gemeentelijk ingrijpen
+### Paragraaf 2a. Informatieverstrekking aan de GGD
 ### Paragraaf 3. Rijkstoezicht op gemeentelijk toezicht en ingrijpen
 ## Hoofdstuk 5. Opsporing en sancties
 ### Paragraaf 1. Opsporing

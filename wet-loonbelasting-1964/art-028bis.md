@@ -1,0 +1,9 @@
+# Artikel 28bis
+1. De inspecteur kan de verplichting tot het doen van eerstedagsmeldingen slechts opleggen indien ten aanzien van de inhoudingsplichtige in de periode van zes maanden welke voorafgaat aan de dagtekening van de beschikking, bedoeld in artikel 28, onderdeel f, een van de volgende gebeurtenissen zich heeft voorgedaan:
+a. een naheffingsaanslag in verband met de toepassing van artikel 30a is opgelegd;
+b. een vergrijpboete als bedoeld in artikel 67f van de Algemene wet inzake rijksbelastingen is opgelegd;
+c. een boete ter zake van een of meer beboetbare feiten als genoemd in artikel 18 van de Wet arbeid vreemdelingen is opgelegd;
+d. artikel 76 van de Algemene wet inzake rijksbelastingen toepassing heeft gevonden, of
+e. strafvervolging is ingesteld en het onderzoek ter terechtzitting een aanvang heeft genomen ter zake van een of meer strafbare feiten als bedoeld in artikel 19c van de Wet arbeid vreemdelingen, in artikel 47 van de Handelsregisterwet 2007 of in de artikelen 68 en 69 van de Algemene wet inzake rijksbelastingen.
+2. De verplichting tot het doen van eerstedagsmeldingen vervalt drie jaren na de dagtekening van de beschikking waarbij die verplichting is opgelegd of zoveel eerder als deze beschikking bij voor bezwaar vatbare beschikking is ingetrokken omdat de grond, bedoeld in het eerste lid, voor het opleggen van die verplichting is komen te vervallen. In afwijking in zoverre van de eerste volzin vervalt de verplichting vijf jaren na de dagtekening van de beschikking ingeval aan de inhoudingsplichtige eerder een verplichting tot het doen van eerstedagsmeldingen is opgelegd.
+3. In de beschikking waarbij de verplichting tot het doen van eerstedagsmeldingen wordt opgelegd, wordt vermeld welke van de in het eerste lid genoemde gebeurtenissen grond is voor het opleggen van de verplichting. Tevens wordt in de beschikking vermeld met ingang van welke datum de verplichting vervalt.

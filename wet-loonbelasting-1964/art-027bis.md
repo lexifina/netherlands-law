@@ -1,0 +1,2 @@
+# Artikel 27bis
+In afwijking van artikel 27 kan de overeenkomstig een door de inhoudingsplichtige bestendig gevolgde gedragslijn in de maand januari van het kalenderjaar gedane inhouding op loon dat de werknemer met betrekking tot een of meer loontijdvakken binnen het voorgaande kalenderjaar toekomt, worden begrepen in de laatste aangifte met betrekking tot het voorgaande kalenderjaar. Het loon waarop deze inhouding betrekking heeft, wordt voor de berekening van de inhouding gerekend tot het loon van het desbetreffende loontijdvak.
