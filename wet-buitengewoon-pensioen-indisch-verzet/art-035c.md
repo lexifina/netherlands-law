@@ -1,3 +1,2 @@
 # Artikel 35c
-1. De garantietoeslag gaat in op de eerste dag van de maand, waarin het recht op de garantietoeslag is ontstaan.
-2. De hoogte van het maandinkomen, bedoeld in artikel 35a, wordt aanvankelijk voorlopig geschat. Na afloop van elk kalenderjaar wordt het inkomen definitief vastgesteld. Indien blijkt dat er aanspraak bestaat op een hoger bedrag aan garantietoeslag dan is uitgekeerd, dan wordt het te weinig uitgekeerde bedrag uitbetaald; in het tegenovergestelde geval wordt het te veel uitgekeerde hetzij teruggestort, hetzij door de Raad in door deze te bepalen termijnen op de gepensioneerde of diens rechtverkrijgende(n) verhaald.
+De garantietoeslag gaat in op de eerste dag van de maand, waarin het recht op de garantietoeslag is ontstaan.
