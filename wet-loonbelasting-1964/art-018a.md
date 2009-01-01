@@ -1,7 +1,7 @@
 # Artikel 18a
 1. Een op een eindloonstelsel gebaseerd ouderdomspensioen bedraagt per dienstjaar niet meer dan 2 percent van het pensioengevend loon.
 2. Een op een middelloonstelsel gebaseerd ouderdomspensioen bedraagt per dienstjaar niet meer dan 2,25 percent van het pensioengevend loon.
-3. Een op een beschikbare-premiestelsel gebaseerd ouderdomspensioen wordt tijdsevenredig opgebouwd en is gericht op een pensioen dat na 35 jaren opbouw niet meer bedraagt dan 70 percent van het loon op dat tijdstip. De beschikbare premie wordt ten hoogste bepaald met inachtneming van de volgende uitgangspunten:
+3. Een op een beschikbare-premiestelsel gebaseerd ouderdomspensioen wordt tijdsevenredig opgebouwd en is gericht op een pensioen dat na 35 jaren opbouw niet meer bedraagt dan 70 percent van het pensioengevend loon op dat tijdstip. De beschikbare premie wordt ten hoogste bepaald met inachtneming van de volgende uitgangspunten:
 a. de beschikbare premie wordt actuarieel vastgesteld per leeftijdsklasse van ten hoogste vijf jaren en wordt afgestemd op de gemiddelde leeftijd in de klasse;
 b. als loopbaanontwikkeling wordt gerekend met een loonstijging van drie percent per jaar gedurende de jaren voor het bereiken van de 35-jarige leeftijd, van twee percent per jaar gedurende de tien daaropvolgende jaren, van een percent per jaar gedurende de tien daaropvolgende jaren en van nihil gedurende de overige jaren;
 c. bij de berekening wordt een rekenrente in aanmerking genomen van ten minste vier percent en wordt de te verwachten inflatie op nihil gesteld.
