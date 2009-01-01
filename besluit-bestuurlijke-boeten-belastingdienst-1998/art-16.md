@@ -1,5 +1,0 @@
-# § 16. Begrijpelijke taal (artikel 67g, derde lid, van de AWR)
-Indien de inspecteur weet dat belanghebbende noch zijn gemachtigde de Nederlandse taal voldoende begrijpt, vult hij de mededeling aan met een vertaling daarvan, althans een korte weergave in een voor belanghebbende of zijn gemachtigde begrijpelijke taal.
-Toelichting
-Indien voor het verzenden van de mededeling bekend is dat belanghebbende de Nederlandse taal niet begrijpt en de gemachtigde wel, zendt de inspecteur een afschrift van de mededeling aan de gemachtigde. Begrijpt ook de gemachtigde de Nederlandse taal niet (of is er geen gemachtigde) dan brengt de inspecteur naast de mededeling tenminste een korte weergave van de inhoud van die mededeling in een begrijpelijke taal ter kennis van belanghebbende (of de gemachtigde).
-Als begrijpelijke taal wordt beschouwd een taal die belanghebbende of diens gemachtigde voldoende begrijpt; die taal hoeft niet de moedertaal van een van hen te zijn. In het algemeen is het voldoende dat de mededeling geschiedt in één van de moderne talen (Engels, Duits of Frans).

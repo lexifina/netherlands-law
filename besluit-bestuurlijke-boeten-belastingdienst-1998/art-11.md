@@ -1,4 +1,0 @@
-# § 11. Redelijke termijn
-Overschrijding van de redelijke termijn als bedoeld in artikel 6 van het EVRM kan aanleiding zijn tot matiging van de boete, dan wel in uitzonderlijke gevallen tot het vervallen van de boete. Bij de beoordeling van de vraag of de redelijke termijn is overschreden, moet onder meer worden gelet op de ingewikkeldheid van de zaak, het processuele gedrag van belanghebbende en de wijze waarop de zaak door de Belastingdienst is behandeld.
-Toelichting
-Belanghebbende heeft recht op behandeling van zijn zaak binnen een redelijke termijn. Hij dient niet te lang in onzekerheid te verkeren over de aan hem op te leggen of opgelegde boete. De redelijke termijn vangt aan op het tijdstip waarop de inspecteur jegens belanghebbende een handeling heeft verricht waaraan deze in redelijkheid de gevolgtrekking heeft kunnen verbinden dat aan hem wegens een bepaalde gedraging een boete is of zal worden opgelegd (zie paragraaf 9 van het besluit).
