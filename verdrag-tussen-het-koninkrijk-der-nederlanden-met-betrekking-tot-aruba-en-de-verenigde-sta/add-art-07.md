@@ -1,0 +1,2 @@
+# Article VII
+The United States may extend the application of any of its customs, immigration, agriculture and public health laws and regulations to aircraft, passengers, aircraft crew, baggage, cargo and aircraft stores in Aruba which are subject to preclearance, for the purpose of establishing and enforcing penalties for violations of these laws and regulations upon arrival in the United States.

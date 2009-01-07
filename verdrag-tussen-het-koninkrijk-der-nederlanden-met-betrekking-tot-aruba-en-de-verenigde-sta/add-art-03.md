@@ -1,0 +1,2 @@
+# Article III
+In accordance with United States Immigration, customs and public health laws and regulations, U.S. inspection agencies may refuse passage onwards to the United States to any passenger or aircraft crew member on a flight subject to preclearance who refuses to comply with applicable laws and procedures. Except in circumstances arising under Article IV (g) of this agreement, no citizen of the United States or alien lawfully resident in the U.S. may be refused onwards to the United States.
