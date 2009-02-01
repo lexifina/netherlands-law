@@ -24,7 +24,7 @@ de Bestrijdingsmiddelenwet 1962: artikel 16g, zesde lid;
 de Boswet, de artikelen 2, derde lid, 3, eerste en tweede lid, en 13, eerste lid;
 de Flora- en faunawet, de artikelen 8, 9, 11, 12, 12a, 14, eerste, tweede en derde lid, 15, eerste en tweede lid, 15a, 15b, 17, 18, eerste lid, 26, derde en vijfde lid, 47 en 73;
 de Kernenergiewet, de artikelen 14, 22, eerste lid, 26, tweede lid, 28, 33, eerste lid, 37, eerste lid, 39, 67, eerste en vierde lid, 68 en 76, derde lid;
-de Natuurbeschermingswet 1998, artikel 16, 19d, eerste lid, 19l, eerste lid en 20, derde lid, 17, vierde lid, 21, tweede lid, 22, tweede lid, 56, eerste lid, 58, eerste lid en 66;
+de Natuurbeschermingswet 1998, de artikelen 16, 17, vierde lid, 19c, vierde lid, 19d, eerste lid, 19l, eerste lid, 20, derde lid, 21, tweede lid, 22, tweede lid, en 66;
 de Ontgrondingenwet, de artikelen 3, eerste en tweede lid, 7 en 12, eerste en tweede lid;
 de Wet bescherming Antarctica, de artikelen 3, eerste lid, 5, 6, eerste en tweede lid, 8, 25, eerste en tweede lid, 29 en 30;
 de Wet bodembescherming, de artikelen 20, 27, 28, 29, 30, tweede, derde en vierde lid, 31, 32, tweede lid, tweede volzin, 39, eerste, tweede en vierde lid, 39a, 39b, eerste en derde lid en vierde lid, tweede volzin, 39c, eerste en derde lid, 39d, eerste en vijfde lid, 39e, 43, eerste, derde en vierde lid, 45, vierde lid, 49 juncto 30, tweede, derde en vierde lid, 55b, eerste lid, 63e, derde lid, tweede volzin, 63i, vijfde lid, tweede volzin, 63j, tweede lid, 70 en 72;
