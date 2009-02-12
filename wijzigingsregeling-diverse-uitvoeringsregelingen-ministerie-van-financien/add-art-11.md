@@ -1,0 +1,2 @@
+# Artikel XI. Overgangsrecht (Uitvoeringsregeling invorderingswet 1990)
+Ten aanzien van het bedrag dat is verkregen in het kader van een regeling voor persoonsgebonden budget, welke regeling is gegrond op artikel 1p, eerste lid, onderdeel d, van de Ziekenfondswet, blijven de artikelen 12, tweede lid, onderdeel e, en 14, eerste lid, onderdeel c, van de Uitvoeringsregeling Invorderingswet 1990 van toepassing zoals deze golden op 31 december 2005.
