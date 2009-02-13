@@ -1,5 +1,0 @@
-# Artikel 4a
-1. Boven en behalve de bezoldiging, genoemd in artikel 4, ontvangen de president en de overige leden in gewone dienst een uitkering ter zake van veeljarige dienst, een vakantie-uitkering, een eindejaarsuitkering, een vergoeding van verplaatsingskosten en een vergoeding van telefoonkosten op de voet van de bepalingen welke te dien aanzien voor de burgerlijke rijksambtenaren zijn of zullen worden vastgesteld.
-2. Boven en behalve de bezoldiging, genoemd in artikel 4, ontvangen de leden in gewone dienst van de Algemene Rekenkamer, met uitzondering van de president, een vergoeding van reis- en verblijfkosten op de voet van de bepalingen welke te dien aanzien voor de burgerlijke rijksambtenaren zijn of zullen worden vastgesteld.
-3. Bij algemene maatregel van bestuur worden regels gesteld betreffende de vergoeding van reis- en verblijfkosten welke de president ontvangt.
-4. Bij algemene maatregel van bestuur kunnen regels worden gesteld betreffende de vergoeding voor kosten die aan de vervulling van het ambt van president of lid in gewone dienst zijn verbonden en die voor eigen rekening komen.

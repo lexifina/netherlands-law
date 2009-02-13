@@ -1,3 +1,0 @@
-# Artikel 2b
-1. Degene die op grond van artikel 2, vijfde lid, of artikel 10, tweede of vierde lid, van de Wet Nationale ombudsman, de ombudsman vervangt respectievelijk het ambt van ombudsman waarneemt, geniet voor de duur van de vervanging respectievelijk de waarneming, de bezoldiging en de vakantie-uitkering die voor dit ambt zijn vastgesteld.
-2. Van degene die krachtens artikel 2, vijfde lid, of artikel 10, zevende lid, van de Wet Nationale ombudsman in een betrekking of lidmaatschap op non-activiteit is gesteld, wordt de bezoldiging met inbegrip eventueel van toelagen gedurende de periode van non-activiteit ingehouden.
