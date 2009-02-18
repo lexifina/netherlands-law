@@ -1,2 +1,0 @@
-# Artikel VII
-Na de inwerkingtreding van dit artikel berust de Regeling bekostiging Hoger Onderwijs mede op de artikelen 2.7, eerste lid, 2.11, 3.3, vierde lid, 3.4, 3.7, tweede lid, 4.3, eerste lid, onder b, 5.3, 5.5, eerste lid en 5.7 van het Bekostigingsbesluit WHW in plaats van op de artikelen 2.5, eerste lid, 2.9, 2.14, eerste lid, 3.3, vierde lid, 3.4, 3.7, tweede lid, 4.3, eerste lid, onder b, 5.7, 5.9, eerste lid en 5.14 van dat besluit.
