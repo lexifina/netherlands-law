@@ -1,0 +1,3 @@
+# Artikel II
+1. De ouder en zijn echtgenoot die overeenkomstig artikel 253sa van Boek 1 van het Burgerlijk Wetboek, het gezamenlijk gezag over het staande hun huwelijk geboren kind uitoefenen en aan wie het afleggen van een verklaring als bedoeld in artikel 5, vierde lid, van Boek 1 van het Burgerlijk Wetboek, door de ambtenaar van de burgerlijke stand is geweigerd, kunnen tot twee jaren na de inwerkingtreding van deze wet bepalen welke van hun beider geslachtsnamen het kind zal hebben.
+2. Rechtshandelingen van of jegens de ouder die niet de geregistreerde partner is, welke zijn verricht voor de inwerkingtreding van deze wet in de uitoefening van het gezamenlijk gezag over hun kind op grond van artikel 253aa van Boek 1 van het Burgerlijk Wetboek, zijn geldig.
