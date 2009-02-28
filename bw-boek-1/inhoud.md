@@ -64,7 +64,7 @@
 #### Afdeling 2. Ouderlijk gezag
 ##### § 1. Het gezamenlijk gezag van ouders binnen en buiten huwelijk en het gezag van één ouder na scheiding
 ##### Paragraaf 1a. Het gezamenlijk gezag van ouders binnen een geregistreerd partnerschap
-##### § 2. Het gezag van één ouder anders dan na scheiding
+##### § 2. Het gezag van ouders anders dan na scheiding
 ##### § 2a. Gezag na meerderjarigverklaring
 ##### § 3. Het bewind van de ouders
 #### Afdeling 3. Gemeenschappelijke bepalingen betreffende de gezagsuitoefening door de ouders en de gezagsuitoefening door één van hen
