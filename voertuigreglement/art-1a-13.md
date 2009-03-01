@@ -1,0 +1,3 @@
+# Artikel 1a.13
+1. Met ingang van 1 juli 2009 is het verboden nieuwe landbouw- of bosbouwtrekkers in voorraad te hebben, te koop aan te bieden of af te leveren, indien deze niet overeenstemmen met een goedgekeurd type als bedoeld in artikel 4, eerste lid, onderdeel a, van richtlijn 2003/37/EG, en niet vergezeld gaan van een geldig certificaat van overeenstemming volgens het model, bedoeld in bijlage III, van die richtlijn.
+2. Met ingang van 1 juli 2009 is het verboden nieuwe systemen, onderdelen of technische eenheden bestemd voor landbouw- of bosbouwtrekkers in voorraad te hebben, te koop aan te bieden of af te leveren, indien deze niet overeenstemmen met een goedgekeurd type als bedoeld in artikel 4, eerste lid, onderdeel c, van richtlijn 2003/37/EG.

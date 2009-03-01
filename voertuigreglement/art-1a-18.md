@@ -1,0 +1,2 @@
+# Artikel 1a.18
+In afwijking van artikel 1a.3, tweede lid, is het met ingang van 1 januari 2009 verboden vervangingskatalysatoren, die bestemd zijn om te worden geïnstalleerd in voertuigen waarvoor typegoedkeuring is verleend overeenkomstig richtlijn 2002/24/EG, te koop aan te bieden, in voorraad te hebben of af te leveren indien deze niet overeenstemmen met een goedgekeurd type als bedoeld in richtlijn 97/24/EG.
