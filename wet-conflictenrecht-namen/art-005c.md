@@ -1,0 +1,2 @@
+# Artikel 5c
+In de gevallen, bedoeld in artikel 5b, onder a, c, e en f, kan de verklaring houdende naamskeuze worden afgelegd ten overstaan van iedere ambtenaar van de burgerlijke stand. In het geval, bedoeld in artikel 5b, onder b, wordt de verklaring houdende naamskeuze afgelegd ten overstaan van de ambtenaar van de burgerlijke stand van de gemeente waar de optie voor het Nederlanderschap in ontvangst wordt genomen.
