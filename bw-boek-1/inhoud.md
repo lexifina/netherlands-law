@@ -25,7 +25,6 @@
 #### Afdeling 3. Stuiting van het huwelijk
 #### Afdeling 4. De voltrekking van het huwelijk
 #### Afdeling 5. Nietigverklaring van een huwelijk
-#### Afdeling 5A. Omzetting van een huwelijk in een geregistreerd partnerschap
 #### Afdeling 6. Bewijs van het bestaan van het huwelijk
 ### Titel 5A. Het geregistreerd partnerschap
 ### Titel 6. Rechten en verplichtingen van echtgenoten
