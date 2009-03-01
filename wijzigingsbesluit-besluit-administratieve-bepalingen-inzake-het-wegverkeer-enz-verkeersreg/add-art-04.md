@@ -1,0 +1,3 @@
+# Artikel IV
+1. Aanstellingen van verkeersregelaars afgegeven voor de inwerkingtreding van dit besluit behouden hun geldigheid zolang hun geldigheidsduur niet is verstreken of, indien geen geldigheidsduur is vastgesteld, tot vijf jaren na inwerkingtreding van dit besluit, dan wel tot zij zijn vervangen door een aanstelling op grond van artikel 56 van het BABW, zoals dit komt te luiden na inwerkingtreding van dit besluit.
+2. Aanvragen om als verkeersregelaar te worden aangesteld, ingediend vóór de inwerkingtreding van dit besluit, worden na dat tijdstip behandeld overeenkomstig de voorschriften zoals deze golden voor de datum van inwerkingtreding van dit besluit.
