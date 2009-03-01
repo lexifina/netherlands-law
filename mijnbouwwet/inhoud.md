@@ -39,6 +39,7 @@
 ### § 9.1. Algemene bepalingen
 ### § 9.2. Schadevergoeding bij insolventie
 ### § 9.3. Voorschotten
+## Hoofdstuk 9a. Coördinatie van de aanleg of uitbreiding van mijnbouwwerken en pijpleidingen ten behoeve van de winning van koolwaterstoffen en de opslag van stoffen
 ## Hoofdstuk 10. Rechtsbescherming
 ## Hoofdstuk 11. Overgangsbepalingen
 ## Hoofdstuk 12. Intrekking en wijziging van enige wetten
