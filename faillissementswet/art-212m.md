@@ -5,6 +5,7 @@
 a. het tijdstip waarop de termijnen, bedoeld in de artikelen 43 en 45, aanvangen, wordt berekend vanaf het geven van de verklaring, bedoeld in artikel 3:160, eerste of tweede lid, of artikel 3:206, eerste of tweede lid, van de Wet op het financieel toezicht;
 b. boedelschulden, na het geven van de verklaring ontstaan, zullen ook in het faillissement als boedelschuld gelden;
 c. het tijdstip waarop de termijnen, vermeld in de artikelen 138, zesde lid, en 248, zesde lid, van Boek 2 van het Burgerlijk Wetboek, aanvangen wordt berekend vanaf de aanvang van de bijzondere voorziening;
-d. handelingen, ingevolge artikel 3:175 van de Wet op het financieel toezicht door of namens de bewindvoerders, bedoeld in dat artikel, verricht gedurende de tijd dat de noodregeling van kracht was, worden beschouwd als handelingen van de curator; en
-e. de boedel is niet aansprakelijk voor verbintenissen van de kredietinstelling die in strijd met artikel 3:175, eerste en zesde lid, van de Wet op het financieel toezicht zijn aangegaan gedurende de tijd dat de noodregeling van kracht was, dan voorzover deze daardoor is gebaat.
+d. handelingen, ingevolge artikel 3:175 van de Wet op het financieel toezicht door of namens de bewindvoerders, bedoeld in dat artikel, verricht gedurende de tijd dat de noodregeling van kracht was, worden beschouwd als handelingen van de curator;
+e. de boedel is niet aansprakelijk voor verbintenissen van de kredietinstelling die in strijd met artikel 3:175, eerste en zesde lid, van de Wet op het financieel toezicht zijn aangegaan gedurende de tijd dat de noodregeling van kracht was, dan voorzover deze daardoor is gebaat; en
+f. indien de uitvoering van de vangnetregeling is aangevangen onder de noodregeling, wordt deze tijdens het faillissement voortgezet op de voet van afdeling 3.5.6 van de Wet op het financieel toezicht.
 4. Het bepaalde in de eerste titel en artikel 362 is van overeenkomstige toepassing.

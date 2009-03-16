@@ -196,6 +196,7 @@
 ##### § 3.5.5.5. Bepalingen van internationaal privaatrecht
 #### Afdeling 3.5.6. Beleggerscompensatiestelsel en depositogarantiestelsel
 ##### § 3.5.6.1. Financiële ondernemingen met zetel in Nederland
+##### § 3.5.6.1a. Uitvoering van de vangnetregeling in de noodregeling
 ##### § 3.5.6.2. Financiële ondernemingen met zetel in een andere lidstaat
 ##### § 3.5.6.3. Financiële ondernemingen met zetel in een staat die geen lidstaat is
 ### Hoofdstuk 3.6. Aanvullende bepalingen ten aanzien van financiele groepen
