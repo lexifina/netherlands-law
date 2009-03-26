@@ -1,0 +1,2 @@
+# Artikel 3a
+In afwijking van artikel 3, eerste lid, bedraagt het door Onze Minister aan de gemeente Sittard-Geleen te verstrekken budget voor de periode van 1 januari 2005 tot en met 31 december 2009 een bedrag van € 10.130.989 en wordt het aan de provincie Limburg te verstrekken budget, zoals dat op voet van de artikelen 3 en 4 is berekend voor de periode van 1 januari 2005 tot en met 31 december 2009, met een bedrag van € 9.251.553 verminderd.
