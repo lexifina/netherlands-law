@@ -14,6 +14,5 @@
 ## Hoofdstuk 4. Wijzigingen van omstandigheden
 ## Hoofdstuk 5. Aanpassing van bedragen
 ## Hoofdstuk 6. Hulp- en informatiepunten
-## Hoofdstuk 8. Beperking huurtoeslagtoekenning boven de aftoppingsgrens
 ## Hoofdstuk 9. Gemeentelijk woonlastenfonds en experimenten
 ## Hoofdstuk 10. Overgangs- en slotbepalingen
