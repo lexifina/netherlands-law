@@ -1,0 +1,2 @@
+# Artikel 24a
+Leveringen van varkens door of aan een varkenshouderijbedrijf of aan een verzamelcentrum waarvan de exploitatie nadien blijvend is gestaakt, worden niet begrepen onder de op grond van de artikelen 12, eerste lid, onderdelen a. en b., 13, eerste lid, onderdelen a. en b., en tweede lid, 14, eerste lid, en tweede lid, onderdeel b., en 15, eerste en tweede lid, toegestane leveringen, indien door de levering door of aan het bedrijf waarvan de exploitatie blijvend is gestaakt het in genoemde artikelen opgenomen maximum aantal toegestane leveringen wordt bereikt.
