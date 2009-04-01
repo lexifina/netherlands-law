@@ -1,5 +1,0 @@
-# Artikel 13a
-1. De houder van de concessie en de houder van een ontheffing als bedoeld in artikel 13, eerste lid, zijn ter dekking van de kosten die verband houden met de werkzaamheden van het college, jaarlijks een vergoeding verschuldigd, voor zover deze kosten niet reeds krachtens artikel 13, tweede lid, verschuldigd zijn.
-2. De vergoeding wordt bepaald aan de hand van de door het college te verrichten werkzaamheden toegerekend aan de onderscheiden marktcategorieën. Van de toerekening van kosten van werkzaamheden zijn uitgezonderd de kosten, verbonden aan de behandeling van bezwaarschriften en aan het optreden als procespartij bij de behandeling van beroepschriften.
-3. Onze Minister stelt op voorstel van het college de hoogte van de vergoeding vast. De vergoeding wordt opgelegd door het college en voldaan aan het college.
-4. Bij of krachtens algemene maatregel van bestuur worden regels gegeven met betrekking tot de wijze waarop de vergoeding wordt vastgesteld, geheven en ingevorderd.

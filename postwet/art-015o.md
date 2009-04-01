@@ -1,3 +1,0 @@
-# Artikel 15o
-1. Voorzover bij de uitoefening van bevoegdheden van het college begrippen worden uitgelegd die worden gehanteerd bij de toepassing van artikel 24 van de Mededingingswet, geschiedt de uitoefening van die bevoegdheden overeenkomstig door het college in overeenstemming met de de raad van bestuur van de Nederlandse Mededingingsautoriteit vastgestelde richtlijnen. Van die richtlijnen doet de raad van bestuur mededeling in de Staatscourant.
-2. Het college en de de raad van bestuur van de Nederlandse Mededingingsautoriteit maken in het belang van een effectieve en efficiënte besluitvorming gezamenlijk afspraken over de wijze van behandeling van aangelegenheden van wederzijds belang.

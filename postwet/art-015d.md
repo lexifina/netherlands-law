@@ -1,2 +1,0 @@
-# Artikel 15d
-Indien de ambtenaren in het kader van het onderzoek, bedoeld in artikel 15c, een redelijk vermoeden hebben dat een natuurlijke persoon of een rechtspersoon een overtreding heeft begaan, is er geen verplichting aan de zijde van die natuurlijke persoon of rechtspersoon terzake een verklaring af te leggen. De betrokkenen worden hiervan in kennis gesteld voordat hun mondeling om informatie wordt gevraagd.
