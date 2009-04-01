@@ -1,0 +1,2 @@
+# Artikel II. Overgangsbepaling
+Gedurende 6 maanden na de inwerkingtreding van deze wet kan worden afgeweken van de daarin opgenomen wijzigingen. Voor zover van deze wet wordt afgeweken, blijven de artikelen 1.1.1, onderdeel w2, 1.1.3, 2.2.4, vijfde lid, 2.5.3, vierde lid, 2.5.4, eerste lid, 2.8.2, eerste lid, 4.1.3, 9.1.4, 9.1.5 en 9.1.7 zoals luidend voor de inwerkingtreding van deze wet van toepassing.
