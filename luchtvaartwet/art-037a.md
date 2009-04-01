@@ -9,6 +9,6 @@ d. gevaarlijke goederen: explosieven of andere voorwerpen en stoffen, die de vei
 e. bagage: goederen toebehorende aan passagiers,
 1°. die deze zelf in het luchtvaartuig meenemen als handbagage, of
 2°. die deze in verband met hun reis aan de luchtvaartmaatschappij hebben afgegeven teneinde in het ruim van het luchtvaartuig te worden vervoerd als ruimbagage;
-f. vracht: goederen, niet zijnde bagage, die voor vervoer door de lucht worden aangeboden, daaronder begrepen postzendingen als bedoeld in artikel 1, onderdeel c, van de Postwet, tenzij deze goederen door de lucht worden aangevoerd en het vliegtuig niet verlaten.
+f. vracht: goederen, niet zijnde bagage, die voor vervoer door de lucht worden aangeboden, daaronder begrepen poststukken als bedoeld in artikel 2, onderdeel b, van de Postwet 2009, tenzij deze goederen door de lucht worden aangevoerd en het vliegtuig niet verlaten.
 2. Met betrekking tot militaire luchtvaartterreinen waarvan delen uitsluitend ten behoeve van de burgerluchtvaart worden gebruikt, wordt in afwijking van artikel 1, eerste lid, onder d, voor de toepassing van deze afdeling als exploitant van een luchtvaartterrein aangemerkt, de bij koninklijk besluit aan te wijzen rechtspersoon aan wie het medegebruik ten behoeve van de burgerluchtvaart is verleend.
 3. Een koninklijk besluit als bedoeld in het tweede lid wordt genomen op voordracht van Onze Minister van Verkeer en Waterstaat in overeenstemming met Onze Ministers van Justitie en van Defensie.
