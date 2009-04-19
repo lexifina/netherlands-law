@@ -1,0 +1,2 @@
+# Artikel VI
+Indien aan de burgemeester een dienstauto ter beschikking is gesteld en voor zover voor het gebruik van deze dienstauto een naheffing van loon- en inkomstenbelasting is verschuldigd, wordt deze naheffing door de gemeente aan de burgemeester vergoed. De vergoeding betreft de gebruteerde verschuldigde loon- en inkomstenbelasting voor het gebruik van de dienstauto en de heffingsrente in de periode van 1 januari 2002 tot 1 januari 2006.

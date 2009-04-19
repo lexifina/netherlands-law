@@ -1,0 +1,2 @@
+# Artikel V
+Indien aan de commissaris van de Koning een dienstauto ter beschikking is gesteld en hij voor zover voor het gebruik van deze dienstauto een naheffing van loon- en inkomstenbelasting is verschuldigd, wordt deze naheffing door de provincie aan de commissaris van de Koning vergoed. De vergoeding betreft de gebruteerde verschuldigde loon- en inkomstenbelasting voor het gebruik van de dienstauto en de heffingsrente, in de periode van 1 januari 2001 tot 1 januari 2006.
