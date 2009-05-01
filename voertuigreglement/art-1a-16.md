@@ -1,3 +1,0 @@
-# Artikel 1a.16
-1. Met ingang van 20 oktober 2007 is het verboden nieuwe personenauto's of bedrijfsauto's in voorraad te hebben, te koop aan te bieden of af te leveren, indien deze voor wat betreft de bevestigingspunten voor veiligheidsgordels niet voldoen aan richtlijn 76/115/EEG en voorzover daarin is voorzien, niet vergezeld gaan van een geldig certificaat van overeenstemming als bedoeld in artikel 7, eerste lid, van richtlijn 70/156/EEG.
-2. Het eerste lid is niet van toepassing op nieuwe personenauto's en bedrijfsauto's waarvoor krachtens artikel 2.2, eerste lid, onder a, goedkeuring is verleend en die voldoen aan de krachtens dat artikel gestelde eisen.

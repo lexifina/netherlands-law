@@ -1,2 +1,0 @@
-# Artikel II
-Tot en met 20 juni 2008 wordt op verzoek van de fabrikant voor nieuwe personenauto's of bedrijfsauto's met een referentiemassa van niet meer dan 1305 kg, niet zijnde bussen, die zijn voorzien van een klimaatregelingssysteem dat is ontworpen om een gefluoreerd broeikasgas te bevatten met een aardopwarmingsvermogen van meer dan 150, een typegoedkeuring verleend als bedoeld in artikel 5, eerste lid, van richtlijn nr. 2006/40/EG, indien het klimaatregelingssysteem wat betreft emissies aan die richtlijn voldoet.

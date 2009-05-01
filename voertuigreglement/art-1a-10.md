@@ -1,3 +1,0 @@
-# Artikel 1a.10
-1. Het is met ingang van 1 januari 2005 verboden bedrijfsauto's met een toegestane maximum massa van meer dan 3.500 kg of bussen te koop aan te bieden, af te leveren of in te voeren, indien de snelheidsbegrenzer of het ingebouwde snelheidsbegrenzingssysteem niet voldoet aan het bepaalde in richtlijn 92/24/EEG.
-2. Het is met ingang van 1 januari 2005 verboden snelheidsbegrenzers of ingebouwde snelheidsbegrenzingssystemen, bestemd voor het gebruik in bedrijfsauto's met een toegestane maximum massa van meer dan 3.500 kg of in bussen, te koop aan te bieden, af te leveren of in te voeren, indien deze niet voldoen aan het bepaalde in richtlijn 92/24/EEG.

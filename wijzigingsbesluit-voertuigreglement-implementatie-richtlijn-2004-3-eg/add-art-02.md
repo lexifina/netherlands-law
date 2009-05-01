@@ -1,2 +1,0 @@
-# Artikel II
-Op verzoek van de fabrikant wordt met ingang van 19 februari 2005 voor bedrijfsauto's met een verbrandingsmotor, niet zijnde bussen, met een toegestane maximum massa van niet meer dan 3500 kg en met een referentiemassa als bedoeld in richtlijn 80/1268/EEG van meer dan 1305 kg een typegoedkeuring verleend als bedoeld in artikel 5, eerste lid, van richtlijn 2004/3/EG, indien wat betreft de wijze van meten van het brandstofverbruik aan richtlijn 80/1268/EEG wordt voldaan.
