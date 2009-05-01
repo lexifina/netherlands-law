@@ -14,7 +14,7 @@
 ### § 1. Gedragsregels
 ### § 2. Verkeerstekens en maatregelen op of aan de weg
 ### § 3. Vaststelling bebouwde kom
-## Hoofdstuk III. Toelating tot de weg, goedkeuring productieprocessen en goedkeuring gebruik buiten de weg
+## Hoofdstuk III. Toelating en goedkeuring
 ### § 1. Algemene bepalingen
 ### § 2. Typegoedkeuring en goedkeuring productieprocessen van voertuigen en voertuigonderdelen
 ### § 2a. Goedkeuring productieprocessen
@@ -40,7 +40,8 @@
 ### § 6. Herkeuring en deskundigenonderzoek
 ### § 7. Wijziging in de constructie van voertuigen
 ### § 8. Erkenningsregeling wijziging constructie voertuigen
-### § 9. Keuring na invordering kentekenbewijs
+### § 9. Keuring na ongeldigverklaring of invordering kentekenbewijs
+### § 9a. Erkenningsregeling keuring van schadevoertuigen
 ## Hoofdstuk VI. Rijvaardigheid en rijbevoegdheid
 ### § 1. Rijbewijsplicht
 ### § 2. Eisen ten aanzien van het geven van rijonderricht
