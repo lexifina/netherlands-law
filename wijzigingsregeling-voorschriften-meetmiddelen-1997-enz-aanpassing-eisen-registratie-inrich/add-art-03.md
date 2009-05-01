@@ -1,2 +1,0 @@
-# Artikel III
-Artikel 3.1.12, derde lid, onderdeel f, van de Voorschriften meetmiddelen 1997 zoals dit onderdeel luidde vóór de inwerkingtreding van deze regeling, kan van toepassing blijven op het verkrijgen van een certificaat van herkeuring voor roetmeters waarvoor vóór de inwerkingtreding van deze regeling een typekeuringscertificaat is afgegeven en waarvoor vóór 1 januari 2019 een certificaat van eerste keuring is afgegeven.

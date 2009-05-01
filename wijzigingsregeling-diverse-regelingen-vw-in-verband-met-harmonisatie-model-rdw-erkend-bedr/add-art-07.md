@@ -1,2 +1,0 @@
-# Artikel VII
-Artikel 33, eerste lid, van de Erkenningsregeling APK, artikel 18 van de LPG-erkenningsregeling, artikel 11, tweede lid, van de Erkenningsregeling snelheidsbegrenzers en artikel 9, zesde lid, van de Regeling erkenning bedrijfsvoorraad, zoals deze artikelen luidden voor het tijdstip van de inwerkingtreding van deze regeling blijven ten aanzien van houders van erkenningen en handelaarskentekens die zijn verleend onderscheidenlijk opgegeven voor de datum van inwerkingtreding van deze regeling van kracht tot 1 september 2005.
