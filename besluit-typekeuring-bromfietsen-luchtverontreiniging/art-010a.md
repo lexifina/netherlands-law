@@ -1,0 +1,2 @@
+# Artikel 10a
+Het in artikel 2, eerste lid, onder b, gestelde verbod is tot 17 juni 1999 niet van toepassing op bromfietsen die behoren tot een type dat is goedgekeurd blijkens een certificaat als bedoeld in bijlage 2 van Reglement 47 behorende bij de Overeenkomst van 20 maart 1958 betreffende het aannemen van eenvormige goedkeuringsvoorwaarden en de wederzijdse erkenning van goedkeuring van uitrustingsstukken en onderdelen van motorrijtuigen (Trb.1959, 83).
