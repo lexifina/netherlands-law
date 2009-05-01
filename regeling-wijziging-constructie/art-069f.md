@@ -1,3 +1,0 @@
-# Artikel 69f
-1. Bedrijfsauto's moeten zijn voorzien van een linkerbuitenspiegel en een rechterbuitenspiegel.
-2. In afwijking van het bepaalde in het eerste lid mogen voor het vervoer van goederen bestemde bedrijfsauto's met een toegestane maximum massa van niet meer dan 3500 kg zijn voorzien van een linkerbuitenspiegel en een binnenspiegel indien het gezichtsveld van de binnenspiegel zodanig is dat de bestuurder ten minste een vlak en horizontaal weggedeelte, waarvan het midden in het verticale vlak door de lengte-as van het voertuig ligt, kan overzien vanaf een afstand van 60,00 m van de achterzijde van het voertuig tot aan de horizon over een breedte van 20,00 m.
