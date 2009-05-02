@@ -5,3 +5,4 @@ a. ingezetenen zijn;
 b. krachtens eigendom, bezit of beperkt recht het genot hebben van ongebouwde onroerende zaken, niet zijnde natuurterreinen;
 c. krachtens eigendom, bezit of beperkt recht het genot hebben van natuurterreinen;
 d. krachtens eigendom, bezit of beperkt recht het genot hebben van gebouwde onroerende zaken.
+3. Op het tweede lid is artikel 116 van toepassing.
