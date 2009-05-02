@@ -1,0 +1,3 @@
+# Artikel XI
+1. De verordeningen, bedoeld in de artikelen 120, eerste lid, en 122b, eerste lid, van de Waterschapswet, zoals deze luiden met ingang van de inwerkingtreding van artikel I, onderdelen AF en AG, worden vastgesteld vóór de vaststelling van de begroting over het jaar 2009.
+2. De belastingverordeningen ter zake van de heffingen bedoeld in artikel 117, 122a en 122d van de Waterschapswet en artikel 18 van de Wet verontreiniging oppervlaktewateren, zoals deze artikelen luiden met ingang van de inwerkingtreding van respectievelijk artikel I en artikel II van deze wet, worden voor de eerste maal vastgesteld vóór de vaststelling van de begroting over het jaar 2009.

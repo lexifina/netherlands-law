@@ -1,0 +1,4 @@
+# Artikel X
+1. De verordeningen, bedoeld in de artikelen 108 en 109 van de Waterschapswet, zoals deze luiden met ingang van de inwerkingtreding van artikel I, onderdeel AB, worden vastgesteld vóór de vaststelling van de begroting over het jaar 2009.
+2. De accountantsverklaring en het verslag van bevindingen, bedoeld in artikel 109 van de Waterschapswet, zoals dat luidt met ingang van de inwerkingtreding van artikel I, onderdeel AB, voldoen met ingang van het begrotingsjaar 2009 aan de in of krachtens dit onderdeel gestelde eisen.
+3. Tot en met de jaarrekening over het jaar 2008 blijven de artikelen 105, 106 en 107 van de Waterschapswet, zoals die luidden onmiddellijk voorafgaande aan de datum van inwerkingtreding van artikel I van deze wet, van toepassing op de vaststelling van de jaarrekening.

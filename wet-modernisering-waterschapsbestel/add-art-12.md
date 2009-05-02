@@ -1,0 +1,2 @@
+# Artikel XII
+Ten aanzien van belastingen die betrekking hebben op belastingtijdvakken die zijn aangevangen vóór 1 januari 2009, en op belastbare feiten die zich voor dat tijdstip hebben voorgedaan, blijven hoofdstuk XVII van de Waterschapswet en hoofdstuk IV van de Wet verontreiniging oppervlaktewateren van toepassing zoals deze luidden voor de inwerkingtreding van artikel I, onderdeel AF, onderscheidenlijk artikel II van deze wet.
