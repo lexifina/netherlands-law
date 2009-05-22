@@ -1,0 +1,2 @@
+# II. Ad Article 3
+It is understood that the terms "the Netherlands" or "Estonia", as the case may be, shall include the exclusive economic zone within which the Netherlands or Estonia may exercise sovereign rights in accordance with their domestic law and international law, if the Netherlands or Estonia under their law have designated or will designate such a zone and exercise or will exercise taxation rights therein.
