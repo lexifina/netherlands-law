@@ -1,0 +1,3 @@
+# Artikel III
+1. Op aanvragen om subsidie die vóór de inwerkingtreding van deze regeling zijn ingediend en op subsidies die vóór de inwerkingtreding van deze regeling zijn verstrekt, blijft de Tijdelijke energieregeling markt en innovatie van toepassing zoals die onmiddellijk voor dat tijdstip luidde.
+2. De aanvraag om subsidievaststelling voor een duurzame warmtemaatregel als bedoeld in hoofdstuk 2 van de Tijdelijke energieregeling markt en innovatie, waarbij de activiteiten zijn voltooid tussen 10 september 2008 en de datum van inwerkingtreding van deze regeling, wordt ingediend uiterlijk dertien weken na de datum van inwerkingtreding van deze regeling.
