@@ -1,9 +1,0 @@
-# Tekst
-De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
-Aan mij is een vraag voorgelegd over de reikwijdte van het besluit van 18 februari 2003, nr. CPP2003/303M (Transparantie samenwerkingsverbanden in het BTW-compensatiefonds). De vraag en het antwoord zijn hierna opgenomen.
-## Vraag
-Kan het besluit van 18 februari 2003, nr. CPP2003/303M (hierna: het transparantiebesluit) worden toegepast door een in Nederland gevestigd samenwerkingsverband waarin naast Nederlandse gemeenten ook een buitenlandse gemeente deelneemt?
-## Antwoord
-Ja, het transparantiebesluit kan door het desbetreffende samenwerkingsverband worden toegepast. Dit betekent dat de aan het samenwerkingsverband in rekening gebrachte, niet voor aftrek in aanmerking komende omzetbelasting, onder de in het transparantiebesluit gestelde voorwaarden kan worden doorgeschoven naar de Nederlandse gemeenten. De Nederlandse gemeenten kunnen de doorgeschoven omzetbelasting voor de toepassing van de Wet op het BTW-compensatiefonds (hierna: Wet BCF) beschouwen als ware deze rechtstreeks aan hen in rekening gebracht, zodat zij hiervoor onder de in de Wet BCF opgenomen voorwaarden recht hebben op een bijdrage uit het BTW-compensatiefonds. De buitenlandse gemeente valt niet onder de werking van de Wet BCF).
-Toelichting
-In § 2.1.2 van het transparantiebesluit is aangegeven, dat de omstandigheid dat in een samenwerkingsverband ook wordt deelgenomen door andere publiekrechtelijke lichamen dan bijdragegerechtigden), niet in de weg staat aan toepassing van de transparantiemethode ten aanzien van de bijdragerechtigden. Een buitenlandse gemeente is een publiekrechtelijk lichaam, dat niet onder de werking van de Wet BCF valt en vormt als zodanig geen bijdragegerechtigd lichaam.
