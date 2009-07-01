@@ -1,2 +1,0 @@
-# Artikel 3a
-Het is verboden in de gebieden, bedoeld in artikel 1 van de verordening, heek aan boord te houden van een vissersvaartuig waarop een sleepnet met een maaswijdte van 55 tot 99 mm aan boord wordt gehouden of wordt gebruikt indien de hoeveelheid heek meer dan 20% uitmaakt van de totale hoeveelheid mariene organismen aan boord, tenzij het een vissersvaartuig betreft met een lengte over alles van minder dan 12 meter, dat binnen 24 uur terugkeert naar de laatste haven waaruit het is vertrokken.
