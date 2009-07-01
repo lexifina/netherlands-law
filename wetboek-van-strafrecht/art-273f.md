@@ -1,5 +1,5 @@
 # Artikel 273f
-1. Als schuldig aan mensenhandel wordt met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie gestraft:
+1. Als schuldig aan mensenhandel wordt met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie gestraft:
 1°. degene die een ander door dwang, geweld of een andere feitelijkheid of door dreiging met geweld of een andere feitelijkheid, door afpersing, fraude, misleiding dan wel door misbruik van uit feitelijke omstandigheden voortvloeiend overwicht, door misbruik van een kwetsbare positie of door het geven of ontvangen van betalingen of voordelen om de instemming van een persoon te verkrijgen die zeggenschap over die ander heeft, werft, vervoert, overbrengt, huisvest of opneemt, met het oogmerk van uitbuiting van die ander of de verwijdering van diens organen;
 2°. degene die een ander werft, vervoert, overbrengt, huisvest of opneemt, met het oogmerk van uitbuiting van die ander of de verwijdering van diens organen, terwijl die ander de leeftijd van achttien jaren nog niet heeft bereikt;
 3°. degene die een ander aanwerft, medeneemt of ontvoert met het oogmerk die ander in een ander land ertoe te brengen zich beschikbaar te stellen tot het verrichten van seksuele handelingen met of voor een derde tegen betaling;
@@ -10,10 +10,9 @@
 8°. degene die opzettelijk voordeel trekt uit seksuele handelingen van een ander met of voor een derde tegen betaling of de verwijdering van diens organen tegen betaling, terwijl die ander de leeftijd van achttien jaren nog niet heeft bereikt;
 9°. degene die een ander met een van de onder 1° genoemde middelen dwingt dan wel beweegt hem te bevoordelen uit de opbrengst van diens seksuele handelingen met of voor een derde of van de verwijdering van diens organen.
 2. Uitbuiting omvat ten minste uitbuiting van een ander in de prostitutie, andere vormen van seksuele uitbuiting, gedwongen of verplichte arbeid of diensten, slavernij en met slavernij of dienstbaarheid te vergelijken praktijken.
-3. De schuldige wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie, indien:
+3. De schuldige wordt gestraft met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie, indien:
 1°. de feiten, omschreven in het eerste lid, worden gepleegd door twee of meer verenigde personen;
 2°. de persoon ten aanzien van wie de in het eerste lid omschreven feiten worden gepleegd, de leeftijd van zestien jaren nog niet heeft bereikt.
-4. De feiten, omschreven in het eerste lid, gepleegd door twee of meer verenigde personen onder de omstandigheid, bedoeld in het derde lid, onder 2°, worden gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
-5. Indien een van de in het eerste lid omschreven feiten zwaar lichamelijk letsel ten gevolge heeft of daarvan levensgevaar voor een ander te duchten is, wordt gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie opgelegd.
-6. Indien een van de in het eerste lid omschreven feiten de dood ten gevolge heeft, wordt gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie opgelegd.
-7. Artikel 251 is van overeenkomstige toepassing.
+4. Indien een van de in het eerste lid omschreven feiten zwaar lichamelijk letsel ten gevolge heeft of daarvan levensgevaar voor een ander te duchten is, wordt gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie opgelegd.
+5. Indien een van de in het eerste lid omschreven feiten de dood ten gevolge heeft, wordt gevangenisstraf van ten hoogste achttien jaren of geldboete van de vijfde categorie opgelegd.
+6. Artikel 251 is van overeenkomstige toepassing.
