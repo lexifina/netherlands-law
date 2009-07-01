@@ -37,10 +37,23 @@
 ##### Paragraaf 4.2.8.4. Verplichtingen van de subsidie-ontvanger
 ##### Paragraaf 4.2.8.5. De subsidievaststelling
 ### Titel 4.3. Beleidsregels
+### Titel 4.4. Bestuursrechtelijke geldschulden
+#### Afdeling 4.4.1. Vaststelling en inhoud van de verplichting tot betaling
+#### Afdeling 4.4.2. Verzuim en wettelijke rente
+#### Afdeling 4.4.3. Verjaring
+#### Afdeling 4.4.4. Aanmaning en invordering bij dwangbevel
+##### Paragraaf 4.4.4.1. De aanmaning
+##### Paragraaf 4.4.4.2. Invordering bij dwangbevel
+#### Afdeling 4.4.5. Bezwaar en beroep
 ## Hoofdstuk 5. Handhaving
-### Afdeling 5.2. Toezicht op de naleving
-### Afdeling 5.3. Bestuursdwang
-### Afdeling 5.4. Dwangsom
+### Titel 5.1. Algemene bepalingen
+### Titel 5.2. Toezicht op de naleving
+### Titel 5.3. Herstelsancties
+#### Afdeling 5.3.1. Last onder bestuursdwang
+#### Afdeling 5.3.2. Last onder dwangsom
+### Titel 5.4. Bestuurlijke boete
+#### Afdeling 5.4.1. Algemene bepalingen
+#### Afdeling 5.4.2. De procedure
 ## Hoofdstuk 6. Algemene bepalingen over bezwaar en beroep
 ### Afdeling 6.1. Inleidende bepalingen
 ### Afdeling 6.2. Overige algemene bepalingen
@@ -76,9 +89,10 @@
 #### Afdeling 9.2.2. Bevoegdheid
 #### Afdeling 9.2.3. Procedure
 ## Hoofdstuk 10. Bepalingen over bestuursorganen
-### Titel 10.1. Mandaat en delegatie
+### Titel 10.1. Mandaat, delegatie en attributie
 #### Afdeling 10.1.1. Mandaat
 #### Afdeling 10.1.2. Delegatie
+#### Afdeling 10.1.3. Attributie
 ### Titel 10.2. Toezicht op bestuursorganen
 #### Afdeling 10.2.1. Goedkeuring
 #### Afdeling 10.2.2. Vernietiging
