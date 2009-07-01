@@ -1,0 +1,2 @@
+# Artikel 48a. Reïntegratiemelding aan het Lisv bij invoering van de WAO
+Indien op het moment van invoering van de WAO het verlof wegens ziekte van betrokkene reeds langer dan 13 weken heeft geduurd, is het bevoegd gezag verplicht betrokkene vóór 1 februari 1998 te melden bij het Lisv. De melding gaat vergezeld van het reïntegratieplan of de reïntegratieplannen en de resultaten van de uitvoering van dit plan of deze plannen.
