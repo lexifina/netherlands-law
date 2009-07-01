@@ -1,0 +1,3 @@
+# Artikel II
+1. De ingevolge de Wet op de kamers van koophandel en fabrieken 1997 geldende bepalingen ten aanzien van begroting, activiteitenplan, jaarrekening en jaarverslag van een kamer en ten aanzien van door een kamer in rekening te brengen vergoedingen en bijdragen, zoals die luiden na inwerkingtreding van deze wet, worden voor de eerste maal in acht genomen indien de genoemde documenten, vergoedingen en bijdragen betrekking hebben op kalenderjaar 2008.
+2. Indien een jaarrekening of jaarverslag van een kamer betrekking heeft op kalenderjaar 2007, gelden de op die documenten betrekking hebbende bepalingen van de Wet op de kamers van koophandel en fabrieken 1997 zoals deze luidde direct voorafgaand aan de inwerkingtreding van deze wet.
