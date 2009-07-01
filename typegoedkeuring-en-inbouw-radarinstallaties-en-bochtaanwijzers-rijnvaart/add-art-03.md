@@ -1,3 +1,0 @@
-# Artikel III. Controle op goedgekeurde toestellen
-1. De Inspecteur-generaal van de Inspectie Verkeer en Waterstaat is gerechtigd op elk tijdstip een toestel uit de serie te controleren. Worden tijdens deze controle gebreken geconstateerd dan kan de verleende typegoedkeuring door de minister van Verkeer en Waterstaat worden ingetrokken.
-2. Voorgenomen wijzigingen aan een goedgekeurde installatie moeten schriftelijk aan de Inspecteur-generaal van de Inspectie Verkeer en Waterstaat worden gemeld. Deze beslist of de goedkeuring kan worden gehandhaafd of dat een herkeuring dan wel een nieuwe typekeuring, met inachtneming van artikel II van deze regeling, nodig is.

@@ -1,2 +1,0 @@
-# Artikel VI. Controle op de inbouw en het functioneren
-De controle op de inbouw en het functioneren van een radarinstallatie of een bochtaanwijzer alsmede de afgifte van de verklaring, als bedoeld in de artikelen 8 en 9 van de Voorschriften omtrent de inbouw en de controle van het functioneren van radarinstallaties en bochtaanwijzers voor de Rijnvaart (Stb. 1989, 557), geschiedt door of vanwege de Inspecteur-generaal van de Inspectie Verkeer en Waterstaat.
