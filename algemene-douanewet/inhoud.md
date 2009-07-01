@@ -21,7 +21,7 @@
 ## Hoofdstuk 8. Beroep in een eerste fase (bezwaar) en beroep in een tweede fase (beroep)
 ## Hoofdstuk 9. Bestuurlijke boeten
 ### Afdeling 9.1. Beboetbare feiten
-### Afdeling 9.2. Voorschriften inzake het opleggen van bestuurlijke boeten
+### Afdeling 9.2. Aanvullende voorschriften inzake het opleggen van bestuurlijke boeten
 ## Hoofdstuk 10. Strafrechtelijke bepalingen
 ### Afdeling 10.1. Strafbare feiten
 ### Afdeling 10.2. Algemene bepalingen van strafrecht

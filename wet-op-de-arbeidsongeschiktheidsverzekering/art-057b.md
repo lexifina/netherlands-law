@@ -1,2 +1,2 @@
 # Artikel 57b
-Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de artikelen 57, eerste, tweede, derde, vierde, vijfde en zesde lid, en 57a.
+Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze van tenuitvoerlegging van de beschikking waarbij is vastgesteld dat onverschuldigd is betaald.

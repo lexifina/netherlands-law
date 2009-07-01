@@ -1,7 +1,4 @@
 # Artikel 18c
-1. Beboetbare feiten kunnen worden begaan door natuurlijke personen en rechtspersonen.
-2. Indien een beboetbaar feit wordt begaan door een rechtspersoon, kan de boete worden opgelegd aan:
-1°. de rechtspersoon, of
-2°. degene die opdracht heeft gegeven tot de gedraging waardoor de verplichtingen die voortvloeien uit deze wet of de daarop berustende bepalingen niet zijn nageleefd alsmede tegen hem die feitelijke leiding heeft gegeven aan die gedraging, of
-3°. de onder 1° en 2° genoemden tezamen.
-3. Voor de toepassing van het eerste en tweede lid wordt met een rechtspersoon gelijkgesteld: de vennootschap zonder rechtspersoonlijkheid, de maatschap, de rederij en het doelvermogen.
+1. Een daartoe door Onze Minister aangewezen, onder hem ressorterende ambtenaar legt namens hem de bestuurlijke boete op aan degene op wie de verplichtingen rusten welke voortvloeien uit deze wet, voor zover het niet naleven daarvan is aangeduid als een overtreding.
+2. De ter zake van de bij of krachtens deze wet gestelde overtredingen gelden ten opzichte van elke persoon met of ten aanzien van wie de overtreding is begaan.
+3. Een beschikking op grond van deze wet van de ambtenaar, bedoeld in het eerste lid, wordt genomen namens Onze Minister.

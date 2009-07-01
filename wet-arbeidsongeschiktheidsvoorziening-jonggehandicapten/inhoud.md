@@ -7,7 +7,7 @@
 ### Afdeling 2. Het geldend maken van het recht op uitkering
 #### § 1. Melding
 #### § 2. Toekenning
-#### § 3. Maatregelen en boeten
+#### § 3. Maatregelen en bestuurlijke boeten
 ### Afdeling 3. De betaling van de uitkering
 ## Hoofdstuk 2A. Reïntegratie-instrumenten
 ## Hoofdstuk 3. De invloed van de verzekering op het burgerlijk recht

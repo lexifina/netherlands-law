@@ -4,7 +4,7 @@
 ### § 1. De voorwaarden voor het recht op uitkering
 ### § 2. De hoogte van de uitkering
 ### § 3. Het geldend maken van het recht op uitkering
-### § 3a. Administratieve boeten
+### § 3a. Bestuurlijke boeten
 ### § 4. De betaling van de uitkering
 ### § 5. Terugvordering
 ## Hoofdstuk III. Rechten en plichten

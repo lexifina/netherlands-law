@@ -2,4 +2,5 @@
 1. De jonggehandicapte die behoort tot een bij ministeriële regeling te bepalen categorie heeft recht op een tegemoetkoming.
 2. De tegemoetkoming wordt verstrekt in aanvulling op de arbeidsongeschiktheidsuitkering.
 3. Bij ministeriële regeling worden in ieder geval regels gesteld voor de hoogte van de tegemoetkoming en de betaling van de tegemoetkoming.
-4. Op de toekenning van de tegemoetkoming zijn de artikelen 3:41 en 3:45 van de Algemene wet bestuursrecht niet van toepassing.
+4. De tegemoetkoming wordt betaald zonder dat dit bij beschikking is vastgesteld.
+5. De betaling van de tegemoetkoming vindt plaats binnen een maand nadat het recht op de tegemoetkoming is vastgesteld en geschiedt vervolgens in dezelfde termijnen als die waarin de betaling van de arbeidsongeschiktheidsuitkering plaatsvindt.

@@ -20,8 +20,6 @@
 ### Paragraaf 6.2. Aanwijzingen
 ### Paragraaf 6.3. Bestuursdwang en last onder dwangsom
 ### Paragraaf 6.4. Bestuurlijke boete
-#### Afdeling 6.4.1. Overtredingen
-#### Afdeling 6.4.2. Procedure
 ### Paragraaf 6.5. Afdracht dwangsommen en boetes
 ### Paragraaf 6.6. Rechtsbescherming
 ## Hoofdstuk 7. Wijzigingen in andere wetten

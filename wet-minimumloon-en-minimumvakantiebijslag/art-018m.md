@@ -1,2 +1,0 @@
-# Artikel 18m
-Indien een boete ten onrechte is opgelegd, wordt de betaalde geldsom, vermeerderd met de wettelijke rente, binnen 6 weken nadat is vastgesteld dat de boete ten onrechte is opgelegd, aan de rechthebbende terugbetaald.

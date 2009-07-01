@@ -1,4 +1,5 @@
 # Artikel 18e
-1. Een daartoe door Onze Minister aangewezen, onder hem ressorterende ambtenaar kan een boete opleggen aan de natuurlijke of rechtspersoon op wie de verplichtingen rusten die voortvloeien uit deze wet, voor zover het niet naleven daarvan is aangeduid als beboetbaar feit.
-2. De terzake van het bij of krachtens deze wet beboetbaar gestelde feiten gelden ten opzichte van elke persoon met of ten aanzien van wie het beboetbare feit is begaan.
-3. Geen boete wordt opgelegd indien degene op wie de verplichtingen rusten die voortvloeien uit deze wet, bedoeld in het eerste lid, is overleden.
+1. Onverminderd artikel 5:48, tweede lid, van de Algemene wet bestuursrecht vermeldt het rapport in ieder geval:
+a. de bij de overtreding betrokken persoon of personen;
+b. het officiële nummer waaronder het betreffende vervoermiddel is geregistreerd, voor zover in verband met de overtreding van belang.
+2. Het rapport wordt toegezonden aan de op grond van artikel 18c, eerste lid, aangewezen ambtenaar.
