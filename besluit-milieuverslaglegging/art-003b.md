@@ -1,2 +1,0 @@
-# Artikel 3b
-Indien met toepassing van artikel 3, zevende lid, bij het verbinden van voorschriften aan een vergunning als bedoeld in artikel 8.1 van de wet of artikel 1 van de Wet verontreiniging oppervlaktewateren is bepaald dat daarbij aangegeven andere gegevens dan vermeld in bijlage II, onder 1 tot en met 13, in het overheidsverslag worden vermeld, blijven die voorschriften met betrekking tot het verslagjaar buiten toepassing voor zover die gegevens reeds ingevolge artikel 5, eerste lid, van de EG-verordening PRTR worden verstrekt.
