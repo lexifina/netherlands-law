@@ -1,4 +1,0 @@
-# Artikel 67l
-1. De inspecteur kan de belastingplichtige of de inhoudingsplichtige ten aanzien van wie de redelijke verwachting bestaat dat hem een bestuurlijke boete kan worden opgelegd, oproepen voor een verhoor. In deze oproep deelt de inspecteur hem mede dat hij zich desgewenst kan doen bijstaan.
-2. Voordat het verhoor aanvangt, deelt de inspecteur de belastingplichtige of de inhoudingsplichtige mede dat hij niet tot antwoorden verplicht is.
-3. Op verzoek van de belastingplichtige of de inhoudingsplichtige die de Nederlandse taal onvoldoende begrijpt, draagt de inspecteur er zorg voor dat een tolk wordt benoemd die de belastingplichtige of de inhoudingsplichtige tijdens het verhoor kan bijstaan, tenzij redelijkerwijs kan worden aangenomen dat daaraan geen behoefte bestaat; aan de tolk wordt ten laste van het Rijk een vergoeding toegekend ingevolge de Wet tarieven in strafzaken.

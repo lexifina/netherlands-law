@@ -1,3 +1,2 @@
 # Artikel 154e
-1. Het bestuursorgaan legt geen bestuurlijke boete op voorzover de overtreding niet aan de overtreder kan worden verweten.
-2. Het bestuursorgaan legt geen sanctie op voorzover voor de overtreding een rechtvaardigingsgrond bestond.
+De beschikking tot oplegging van de bestuurlijke boete wordt gezonden naar het adres dat de overtreder heeft opgegeven. Indien de beschikking onbestelbaar blijkt te zijn, wordt deze gezonden naar het in de basisregistratie laatst vermelde adres, tenzij dit hetzelfde is als het opgegeven adres. Indien de beschikking op het in de basisadministratie persoonsgegevens vermelde adres onbestelbaar blijkt te zijn, wordt de beschikking geacht aan de overtreder bekend te zijn.

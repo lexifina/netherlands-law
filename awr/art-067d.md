@@ -1,5 +1,5 @@
 # Artikel 67d
-1. Indien het aan opzet van de belastingplichtige is te wijten dat met betrekking tot een belasting welke bij wege van aanslag wordt geheven, de aangifte niet, dan wel onjuist of onvolledig is gedaan, vormt dit een vergrijp ter zake waarvan de inspecteur hem, gelijktijdig met de vaststelling van de aanslag, een boete kan opleggen van ten hoogste 100 percent van de in het tweede lid omschreven grondslag voor de boete.
+1. Indien het aan opzet van de belastingplichtige is te wijten dat met betrekking tot een belasting welke bij wege van aanslag wordt geheven, de aangifte niet, dan wel onjuist of onvolledig is gedaan, vormt dit een vergrijp ter zake waarvan de inspecteur hem, gelijktijdig met de vaststelling van de aanslag, een bestuurlijke boete kan opleggen van ten hoogste 100 percent van de in het tweede lid omschreven grondslag voor de boete.
 2. De grondslag voor de boete wordt gevormd door:
 a. het bedrag van de aanslag, dan wel
 b. indien verliezen in aanmerking zijn of worden genomen, het bedrag waarop de aanslag zou zijn berekend zonder rekening te houden met die verliezen;

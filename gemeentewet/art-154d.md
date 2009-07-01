@@ -1,3 +1,2 @@
 # Artikel 154d
-1. Degene die wordt verhoord met het oog op het opleggen van een bestuurlijke boete, is niet verplicht ten behoeve daarvan verklaringen omtrent de overtreding af te leggen.
-2. Voor het verhoor wordt aan de betrokkene medegedeeld dat hij niet verplicht is tot antwoorden.
+Artikel 5:53 van de Algemene wet bestuursrecht is niet van toepassing op een bestuurlijke boete als bedoeld in artikel 154b, eerste lid.

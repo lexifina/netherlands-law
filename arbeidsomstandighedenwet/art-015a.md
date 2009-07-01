@@ -4,6 +4,6 @@ a. de ongevalsrapportages en de lijst van arbeidsongevallen, bedoeld in artikel 
 b. een eis als bedoeld in artikel 27, eerste lid;
 c. een bevel als bedoeld in artikel 28, eerste lid;
 d. een verzoek om ontheffing als bedoeld in artikel 30, tweede lid;
-e. een beschikking tot toepassing van bestuursdwang of tot oplegging van een dwangsom als bedoeld in artikel 28a;
+e. een beschikking tot oplegging van een last onder bestuursdwang of tot oplegging van een last onder dwangsom als bedoeld in artikel 28a;
 f. een rapport als bedoeld in artikel 36, eerste lid;
 g. een beschikking als bedoeld in artikel 37, eerste lid.

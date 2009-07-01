@@ -64,7 +64,7 @@
 ### § 2. Getuigschrift van vakbekwaamheid en getuigschrift van nascholing
 ## Hoofdstuk VIII. Kosten
 ## Hoofdstuk IX. Handhaving
-## Hoofdstuk X. Bestuursdwang
+## Hoofdstuk X. Last onder bestuursdwang
 ## Hoofdstuk XI. Strafbepalingen
 ## Hoofdstuk XII. Civiele aansprakelijkheid
 ## Hoofdstuk XIII. Slotbepalingen

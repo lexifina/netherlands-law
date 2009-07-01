@@ -1,3 +1,2 @@
 # Artikel 19b
-1. Geen boete wordt opgelegd indien degene op wie de verplichtingen rusten welke voortvloeien uit deze wet, is overleden.
-2. Geen boete wordt opgelegd, indien een beboetbaar feit tevens een strafbaar feit oplevert.
+Geen bestuurlijke boete wordt opgelegd, indien een gedraging die in strijd is met het bepaalde bij of krachtens deze wet, tevens een strafbaar feit als bedoeld in artikel 19c oplevert.

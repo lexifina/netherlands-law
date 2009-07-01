@@ -1,2 +1,0 @@
-# Artikel 67j
-Indien de inspecteur jegens de belastingplichtige of de inhoudingsplichtige een handeling heeft verricht waaraan deze in redelijkheid de gevolgtrekking kan verbinden dat aan hem wegens een bepaalde gedraging een boete zal worden opgelegd, is, voor zoveel nodig in afwijking van hoofdstuk VIII, afdeling 2, de belastingplichtige onderscheidenlijk de inhoudingsplichtige niet langer verplicht ter zake van die gedraging enige verklaring af te leggen voorzover het betreft de boete-oplegging.

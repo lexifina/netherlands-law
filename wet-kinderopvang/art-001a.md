@@ -2,7 +2,7 @@
 1. Op deze wet is de Algemene wet inkomensafhankelijke regelingen, met uitzondering van artikel 5, van toepassing, met dien verstande dat met de aanwezigheid van een partner geen rekening wordt gehouden in de kalendermaand waarin het partnerschap aanvangt of eindigt.
 2. De uitvoering van het toekennen, uitbetalen en terugvorderen van de kinderopvangtoeslag is opgedragen aan de Belastingdienst/Toeslagen.
 3. In afwijking in zoverre van het eerste lid zijn met betrekking tot tegemoetkomingen van de gemeente en van het Uitvoeringsinstituut werknemersverzekeringen alleen de volgende bepalingen van de Algemene wet inkomensafhankelijke regelingen van overeenkomstige toepassing:
-a. artikel 2, eerste lid, onderdelen b, h en q,
+a. artikel 2, eerste lid, onderdelen b, g en p,
 b. artikel 3,
 c. artikel 4,
 d. artikel 6,

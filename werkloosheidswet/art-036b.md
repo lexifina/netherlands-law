@@ -1,2 +1,2 @@
 # Artikel 36b
-Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de artikelen 36 en 36a.
+Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze van tenuitvoerlegging van de beschikking waarbij is vastgesteld dat onverschuldigd is betaald.

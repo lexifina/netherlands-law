@@ -1,7 +1,7 @@
 # Artikel 19b
 1. Ingeval op enig tijdstip:
 a. een aanspraak ingevolge een pensioenregeling niet langer als zodanig is aan te merken;
-b. een aanspraak ingevolge een pensioenregeling wordt afgekocht of vervreemd dan wel formeel of feitelijk voorwerp van zekerheid, anders dan ten behoeve van uitstel van betaling op grond van artikel 25, vijfde lid, van de Invorderingswet 1990, wordt;
+b. een aanspraak ingevolge een pensioenregeling wordt afgekocht of vervreemd dan wel formeel of feitelijk voorwerp van zekerheid, anders dan ten behoeve van uitstel van betaling op grond van artikel 25, derde lid, van de Invorderingswet 1990, wordt;
 c. een aanspraak ingevolge een pensioenregeling waarvan als verzekeraar optreedt een lichaam als bedoeld in artikel 19a, eerste lid, onderdeel d, dan wel een lichaam als bedoeld in artikel 36b, wordt prijsgegeven, behoudens voor zover de aanspraak niet voor verwezenlijking vatbaar is;
 d. de zekerheidstelling wordt beëindigd door de werknemer of de gewezen werknemer die zich op grond van artikel 19a, eerste lid, onderdeel f, heeft verplicht deze zekerheid te stellen;
 wordt op het onmiddellijk daaraan voorafgaande tijdstip de aanspraak aangemerkt als loon uit een vroegere dienstbetrekking van de werknemer of gewezen werknemer dan wel, indien deze is overleden, van de gerechtigde tot de aanspraak.

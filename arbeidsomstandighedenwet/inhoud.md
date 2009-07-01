@@ -34,23 +34,19 @@
 ### Geheimhouding
 ### Eis tot naleving
 ### Stillegging van het werk
-### Bestuursdwang
+### Last onder bestuursdwang
 ### Werkonderbreking
 ## Hoofdstuk 6. Vrijstellingen, ontheffingen en beroep
 ### Vrijstelling en ontheffing
 ### Beroep
 ## Hoofdstuk 7. Sancties
 ### Strafbepaling
-### Beboetbare feiten
-### Aanduiding pleger beboetbaar feit
-### Hoogte boete en recidive
-### Informatie, zwijgrecht en cautie
+### Overtredingen
+### Hoogte bestuurlijke boete en recidive
 ### Boeterapport
 ### Boetebeschikking
-### Betaling
-### Aanmaning
+### Inlichtingenplicht jegens de boeteoplegger
 ### Invordering
-### Vervaltermijn
 ### Wijziging boetebedrag
 ### Terugbetaling
 ## Hoofdstuk 8. Overgangs- en slotbepalingen
