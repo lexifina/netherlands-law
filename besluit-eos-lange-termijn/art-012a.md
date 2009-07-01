@@ -1,0 +1,2 @@
+# Artikel 12a
+In afwijking van artikel 12 verdeelt Onze Minister het beschikbare bedrag voor haalbaarheidsstudies in de volgorde van de ontvangst van de aanvragen, met dien verstande dat indien een aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag en met toepassing van artikel 4:5 van de Algemene wet bestuursrecht de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag voldoet aan de wettelijke voorschriften met betrekking tot de verdeling als datum van ontvangst geldt.
