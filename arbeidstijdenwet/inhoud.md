@@ -76,23 +76,18 @@
 ## Hoofdstuk 9. Zelfstandige bestuursorganen
 ### Dienst Wegverkeer
 ## Hoofdstuk 10. Bestuursrechtelijke handhaving
-### § 10.1. Beboetbare feiten
-#### Aanwijzing beboetbare feiten
-#### Aanduiding pleger beboetbaar feit
+### § 10.1. Overtredingen
+#### Aanwijzing overtredingen
 ### § 10.2. Het boeterapport
 #### Boeterapport
 ### § 10.3. Oplegging van de boete
-#### Kennisgeving boete oplegging
 #### Het opleggen van de boete
-#### Geen oplegging van de boete
-#### De hoogte van de boete
-#### De boetebeschikking
-#### Vervaltermijn
-### § 10.4. Aanmaning en invordering
-#### Betaling van de boete
-#### Aanmaning
-#### Dwangbevel
+#### Geen oplegging van de bestuurlijke boete
+#### De hoogte van de bestuurlijke boete
+### § 10.4. Inlichtingenplicht en terugbetaling
+#### Inlichtingenplicht jegens de boeteoplegger
 ### § 10.5. Terugbetaling
+#### Terugbetaling
 ### § 10.6. Bijzondere voorschriften voor bestuurders van motorrijtuigen zonder bekende woon- of verblijfplaats in Nederland
 #### Begrippen
 #### Toepasselijkheid van de paragraaf

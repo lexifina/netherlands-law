@@ -49,7 +49,7 @@
 ## Hoofdstuk 14. Buitengewone omstandigheden
 ## Hoofdstuk 15. Handhaving
 ### § 15.1. Algemeen
-### § 15.2. Boete en last onder dwangsom
+### § 15.2. Bestuurlijke boete en last onder dwangsom
 ### § 15.3. Uit de handel nemen van uitrusting
 ## Hoofdstuk 16. Vergoedingen
 ## Hoofdstuk 17. Beroep

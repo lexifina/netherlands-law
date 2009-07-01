@@ -4,4 +4,4 @@
 3. Bij regeling van Onze Minister kunnen nadere regels worden gesteld betreffende de organisatie, werkwijze, statuten, reglementen en de benoeming van bestuurders van de rechtspersoon, bedoeld in het eerste lid.
 4. Onze Minister kan in overeenstemming met Onze betrokken Ministers nadere regels stellen over de taakverdeling tussen de ambtenaren, behorende tot de onderscheidene in artikel 25, eerste en tweede lid bedoelde categorieën, en de personen, bedoeld in het eerste lid.
 5. Onze Minister kan personen als bedoeld in het eerste lid, aanwijzingen geven over de wijze waarop zij het toezicht uitoefenen.
-6. Indien een last tot het houden van toezicht als bedoeld in het eerste lid wordt gegeven, zijn de verplichtingen en bevoegdheden ingevolge de artikelen 27 tot en met 31, 32c, 32f en 32l van overeenkomstige toepassing.
+6. Indien een last tot het houden van toezicht als bedoeld in het eerste lid wordt gegeven, zijn de verplichtingen en bevoegdheden ingevolge de artikelen 27 tot en met 31, 32c en 32l van overeenkomstige toepassing.

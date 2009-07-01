@@ -25,7 +25,7 @@
 #### § 1. Inleidende bepaling
 #### § 2. Verhouding tot provincie en Rijk
 #### § 3. Bijzondere voorzieningen
-#### § 4. Bestuursdwang
+#### § 4. Last onder bestuursdwang
 #### § 5. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
 ### Hoofdstuk X. De bevoegdheid van het algemeen bestuur
 ### Hoofdstuk XI. De bevoegdheid van het dagelijks bestuur
