@@ -1,0 +1,6 @@
+# Artikel 8b
+1. Geen recht op ouderdomspensioen ontstaat voor de pensioengerechtigde, aan wie rechtens zijn vrijheid is ontnomen indien de dag waarop het ouderdomspensioen zou ingaan, is gelegen in de periode dat hem rechtens zijn vrijheid is ontnomen.
+2. Het recht op ouderdomspensioen eindigt, indien de pensioengerechtigde rechtens zijn vrijheid is ontnomen gedurende ten minste een maand.
+3. De persoon die op grond van het eerste of tweede lid geen recht op ouderdomspensioen heeft, heeft met ingang van de eerste dag van de maand waarin hij in vrijheid is gesteld met inachtneming van de bepalingen van deze wet recht op ouderdomspensioen.
+4. Voor de toepassing van het tweede lid worden perioden van vrijheidsontneming samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen.
+5. Het eerste en tweede lid zijn niet van toepassing en het derde lid is van overeenkomstige toepassing op bij algemene maatregel van bestuur aan te wijzen categorieën personen waarbij tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel buiten een justitiële inrichting plaatsvindt.
