@@ -1,5 +1,0 @@
-# Artikel 43a
-1. Voor de be- en afhandeling van een aanvraag tot erkenning van een kwaliteitssysteem als bedoeld in de artikelen 56 en 57 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's, is de aanvrager een retributie verschuldigd van:
-a. € 1561,00 voor een eerste aanvraag;
-b. € 892,00 voor een iedere aanvraag na afwijzing van een eerdere aanvraag.
-2. Indien de rechtspersoon als bedoeld in artikel 59, eerste lid, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's een wijziging van gegevens als bedoeld in artikel 57, vierde lid, onderdeel d, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's heeft doorgegeven overeenkomstig artikel 62, zesde lid, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's, is de rechtspersoon voor de be- en afhandeling van die wijziging een retributie verschuldigd van € 223,00.
