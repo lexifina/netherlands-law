@@ -1,3 +1,0 @@
-# Artikel 10e. Gegevenslevering
-1. Voor het aantonen van de juistheid van de door het bevoegd gezag te verstrekken gegevens over Vreemdelingen per peildatum 1 oktober is artikel 10 van overeenkomstige toepassing.
-2. Voor het aantonen van de juistheid van de door het bevoegd gezag te verstrekken gegevens over Vreemdelingen per peildatum 1 april dient een uittreksel van de GBA in de administratie van de school aanwezig te zijn. In het geval de registratie in de GBA ontbreekt of afwijkt van de door het bevoegd gezag van de school aangeleverde gegevens, moet het bevoegd gezag gebruik maken van een of meer van de documenten in bijlage 1.

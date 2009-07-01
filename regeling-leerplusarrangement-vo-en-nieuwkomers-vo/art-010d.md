@@ -1,7 +1,0 @@
-# Artikel 10d. Aanvraagprocedure
-1. Het bevoegd van de school dient de aanvraag voor aanvullende bekostiging eerste opvang Vreemdelingen, bedoeld in artikel 2, derde lid, in bij Centrale Financiën Instellingen binnen twee weken na een peildatum, bedoeld in artikel 10b, tweede lid. Aanvragen die na deze termijn worden ingezonden worden afgewezen.
-2. Het bevoegd van de school dient de aanvraag voor extra aanvullende bekostiging eerste opvang Vreemdelingen, bedoeld in artikel 2, derde lid, in bij Centrale Financiën Instellingen binnen twee weken na een peildatum, bedoeld in artikel 10b, tweede lid. Aanvragen die na deze termijn worden ingezonden worden afgewezen.
-3. De aanvragen, bedoeld in het eerste en tweede lid, kunnen uitsluitend worden ingediend met gebruikmaking van het aanvraagformulier dat als bijlage 2 bij deze regeling is gevoegd. Aanvragen die niet uitgaan van het aanvraagformulier worden afgewezen.
-4. De aanvragen, bedoeld in het eerste en tweede lid, zijn gebaseerd op de gegevens over Vreemdelingen, bedoeld in artikel 10e.
-5. Voor het verkrijgen van de extra aanvullende bekostiging eerste opvang, bedoeld in artikel 10c, eerste lid, is een verklaring van de gemeente nodig waarin is opgenomen dat de school in de periode van 1 augustus 2003 tot en met 31 juli 2007 geen eerste opvang van Vreemdelingen heeft georganiseerd. Deze verklaring dient in de administratie van de school aanwezig te zijn.
-6. Indien de extra aanvullende bekostiging eerste opvang wordt verleend, maakt deze onderdeel uit van de aanvullende bekostiging eerste opvang.

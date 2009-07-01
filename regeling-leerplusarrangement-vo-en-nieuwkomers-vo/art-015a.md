@@ -1,2 +1,0 @@
-# Artikel 15a. Overgangsrecht elektronisch bestand van 1 oktober 2007 van scholen voor praktijkonderwijs als bedoeld in artikel 9 van het Besluit RVC's, regionaal zorgbudget en praktijkscholen met declaratiebekostiging, zoals dat luidde op 31 juli 2006
-Bij een afwijking van het elektronisch bestand van 1 oktober 2007 van meer dan 1% van de integrale leerlingtelling van 1 oktober 2007 vindt voor het bevoegd gezag van de school met betrekking tot de teldatum 1 oktober 2007 geen toepassing plaats van artikel 4, eerste lid.
