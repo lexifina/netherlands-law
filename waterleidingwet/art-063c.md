@@ -1,0 +1,2 @@
+# Artikel 63c
+Ten behoeve van het opstellen van het verslag verschaffen de eigenaren van waterleidingbedrijven en degenen die met behulp van een collectieve watervoorziening leidingwater ter beschikking stellen aan derden, en de eigenaren van collectieve leidingnetten aan Onze Minister op zijn verzoek alle inlichtingen en gegevens waarover zij kunnen beschikken, voor zover die voor dat opstellen redelijkerwijs noodzakelijk zijn.
