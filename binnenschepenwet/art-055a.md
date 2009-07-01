@@ -1,6 +1,0 @@
-# Artikel 55a
-1. Het groot vaarbewijs, afgegeven ingevolge deze wet, waarvan de houder de 50-jarige leeftijd nog niet heeft bereikt op de datum van inwerkingtreding van artikel 23a, is geldig tot de dag waarop de houder de leeftijd van 50 jaar en drie maanden bereikt.
-2. Het groot vaarbewijs, afgegeven ingevolge deze wet, waarvan de houder de 50-jarige leeftijd bereikt of heeft bereikt op de datum van inwerkingtreding van artikel 23a, is geldig tot de dag waarop de houder de leeftijd van 55 jaar en drie maanden heeft bereikt.
-3. Het groot vaarbewijs, afgegeven ingevolge deze wet, waarvan de houder de 55-jarige leeftijd bereikt of heeft bereikt op de datum van inwerkingtreding van artikel 23a, is geldig tot de dag waarop de houder de leeftijd van 60 jaar en drie maanden heeft bereikt.
-4. Het groot vaarbewijs, afgegeven ingevolge deze wet, waarvan de houder de 60-jarige leeftijd bereikt of heeft bereikt op de datum van inwerkingtreding van artikel 23a, is geldig tot de dag waarop de houder de leeftijd van 65 jaar en drie maanden heeft bereikt.
-5. Het groot vaarbewijs, afgegeven ingevolge deze wet, waarvan de houder de 65-jarige leeftijd bereikt of heeft bereikt op de datum van inwerkingtreding van artikel 23a, is geldig tot drie maanden na de eerstvolgende verjaardag van de houder.

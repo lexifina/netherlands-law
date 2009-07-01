@@ -1,8 +1,0 @@
-# Artikel 12a
-1. Bij of krachtens algemene maatregel van bestuur worden ter uitvoering van de Herziene Rijnvaartakte regels gesteld betreffende:
-a. de bouw, inrichting en uitrusting van schepen die de Rijn in Nederland, met inbegrip van de Waal en de Lek, bevaren;
-b. het onderzoek van schepen, hun uitrusting en de afgifte van documenten ten behoeve van schepen die de in onderdeel a genoemde scheepvaartwegen bevaren;
-c. de instellingen en bedrijven die onderzoeken verrichten en documenten afgeven als bedoeld in onderdeel b;
-d. de instellingen en de autoriteiten in Nederland die belast zijn met de uitvoering van de in dit lid bedoelde regels.
-2. Voor de werkzaamheden, bedoeld in het eerste lid, onderdeel b, is een vergoeding verschuldigd volgens een bij ministeriële regeling vast te stellen tarief. De vergoeding kan worden berekend aan de hand van onder andere de ouderdom van de schepen of hun uitrusting, de aard van de schepen of hun uitrusting, het aantal inspecties, de aard, het tijdstip en de plaats van de inspecties en de aard van de documenten. Voor de werkzaamheden verricht door instellingen en bedrijven als bedoeld in het eerste lid, onderdeel c, kan in deze regeling een maximumtarief worden opgenomen.
-3. Teneinde rekening te houden met de technische ontwikkelingen in de binnenvaart of om proefnemingen mogelijk te maken, kunnen, uitsluitend overeenkomstig de door de Centrale Commissie voor de Rijnvaart aangenomen resoluties, bij ministeriële regeling voorschriften worden vastgesteld waarbij tijdelijke afwijkingen voor ten hoogste drie jaren van de in het eerste lid bedoelde regels toegelaten zijn.

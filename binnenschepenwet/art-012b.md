@@ -1,8 +1,0 @@
-# Artikel 12b
-1. Bij of krachtens algemene maatregel van bestuur worden ter uitvoering van de Herziene Rijnvaartakte regels gesteld betreffende:
-a. eisen en keuringsvoorwaarden voor uitrusting, bestemd voor of aanwezig op schepen die de Rijn in Nederland, met inbegrip van de Waal en de Lek, bevaren;
-b. de keuring van uitrusting als bedoeld in onderdeel a en de afgifte van met de keuring verband houdende documenten ten behoeve van schepen die de in onderdeel a genoemde scheepvaartwegen bevaren;
-c. de procedure van typekeuring van uitrusting als bedoeld in onderdeel a en de afgifte van met de keuring verband houdende documenten en aan te brengen merken, alsmede de aanwijzing en erkenning van keuringsinstellingen en de intrekking daarvan;
-d. de instellingen en bedrijven en de aanwijzing en erkenning daarvan, die de inbouw of vervanging, de reparatie en het onderhoud van uitrusting als bedoeld in onderdeel a verrichten;
-e. de instellingen en de autoriteiten in Nederland die belast zijn met de uitvoering van de in dit lid bedoelde regels.
-2. Voor de werkzaamheden, bedoeld in het eerste lid, onderdeel b, is een vergoeding verschuldigd volgens een bij ministeriële regeling vast te stellen tarief. De vergoeding kan worden berekend aan de hand van onder andere de ouderdom van de uitrusting, de aard van de uitrusting, het aantal keuringen, de aard, het tijdstip en de plaats van de keuring en de aard van de documenten. Voor de werkzaamheden verricht door instellingen en bedrijven als bedoeld in het eerste lid, onderdelen c en d, kan in deze regeling een maximumtarief worden opgenomen.

@@ -1,4 +1,0 @@
-# Artikel 58a
-1. Ter uitvoering van de artikelen 11, 15, 16, 17, 18, 43 en 45, alsmede voor het verlenen van ontheffing onderscheidenlijk vrijstelling van deze artikelen, worden persoonsgegevens verwerkt betreffende de gezondheid, waaronder mede begrepen de wettelijke onbekwaamheid. De verwerking van deze gegevens vindt plaats teneinde te kunnen beoordelen of aan deze artikelen toepassing kan worden gegeven, dan wel of ontheffing onderscheidenlijk vrijstelling kan worden verleend.
-2. Ter uitvoering van de artikelen 11, derde lid, en 15 kunnen strafrechtelijke persoonsgegevens worden verwerkt, indien dit voor de beoordeling van de betrouwbaarheid of kredietwaardigheid van een betrokkene noodzakelijk is.
-3. Onze Minister is verantwoordelijke voor de verwerking van de in het eerste en tweede lid bedoelde persoonsgegevens.
