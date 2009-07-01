@@ -8,5 +8,6 @@
 ### Afdeling 1. Van de samenstelling en de bevoegdheid
 ### Afdeling 2. Van de vergaderingen
 ## § 4. Van de tuchtrechtspraak
-## § 4a. De procedure inzake de onbehoorlijke praktijkuitoefening
+## § 4a. De procedure inzake het spoedshalve schorsen of treffen van een voorlopige voorziening
+## § 4b. De procedure inzake de onbehoorlijke praktijkuitoefening
 ## § 5. Slotbepalingen
