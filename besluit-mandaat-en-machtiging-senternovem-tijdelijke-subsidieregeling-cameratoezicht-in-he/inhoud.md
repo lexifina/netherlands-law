@@ -1,2 +1,0 @@
-# Inhoud
-## Algemene instructie
