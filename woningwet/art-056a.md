@@ -1,7 +1,7 @@
 # Artikel 56a
 1. Een reguliere bouwvergunning wordt op aanvraag in twee fasen verleend.
-2. De bouwvergunning eerste fase mag slechts en moet worden geweigerd indien een weigeringsgrond als bedoeld in artikel 44, eerste lid, onderdeel c, d, e, f of g, van toepassing is.
-3. De bouwvergunning tweede fase mag slechts en moet worden geweigerd indien een weigeringsgrond als bedoeld in artikel 44, eerste lid, onderdeel a of b, van toepassing is.
+2. De bouwvergunning eerste fase mag slechts en moet worden geweigerd indien een weigeringsgrond als bedoeld in artikel 44, eerste lid, onderdeel b, c, d, e, f of g, van toepassing is, met dien verstande dat onderdeel b van dat lid slechts van toepassing is voor zover de daar bedoelde voorschriften van stedenbouwkundige aard zijn.
+3. De bouwvergunning tweede fase mag slechts en moet worden geweigerd indien een weigeringsgrond als bedoeld in artikel 44, eerste lid, onderdeel a of b, van toepassing is, met dien verstande dat onderdeel b van dat lid niet van toepassing is voor zover de daar bedoelde voorschriften van stedenbouwkundige aard zijn.
 4. De aanvraag om bouwvergunning tweede fase kan eerst worden ingediend:
 a. na afloop van de termijn waarbinnen overeenkomstig artikel 46, eerste lid, onderdeel c, of tweede lid, op de aanvraag om bouwvergunning eerste fase moet worden beslist, dan wel
 b. indien op een eerder tijdstip op die aanvraag is beslist: nadat die beslissing is bekendgemaakt.
