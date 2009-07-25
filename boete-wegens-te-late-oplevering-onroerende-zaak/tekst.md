@@ -1,7 +1,0 @@
-# Tekst
-De plv. Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
-## Vraag
-In aanneemcontracten is veelal een bepaling opgenomen over de termijn van oplevering van een onroerende zaak. Houdt de aannemer zich niet aan die termijn, dan is hij vaak een boete verschuldigd aan de koper. Deze boete merken sommige aannemers aan als een vermindering van de koopprijs. Zij sturen een creditfactuur aan de opdrachtgever, waarbij de oorspronkelijke vergoeding wordt verminderd met de belopen boete en slechts omzetbelasting wordt berekend over het verminderde bedrag. Derhalve wordt de omzetbelasting over de boete in mindering gebracht op de te betalen omzetbelasting op grond van de oplevering van de woning.
-Is de boete aan te merken als een prijsvermindering en zo neen, hoe moet de boete dan OB-technisch worden behandeld?
-## Antwoord
-De boete is niet aan te merken als een prijsvermindering, omdat hij niet afdoet aan de vooraf vastgestelde hoogte van de overeengekomen (ver)koopprijs. In casu is, ingeval de woning te laat wordt opgeleverd, sprake van het plegen van wanprestatie door de aannemer. De afnemer wordt buiten zijn wil geconfronteerd met die wanprestatie. De vanwege de wanprestatie door de aannemer verschuldigde boete moet worden aangemerkt als een voor de omzetbelasting onbelaste schadevergoeding en heeft derhalve geen invloed op de ter zake van de oplevering van het pand verschuldigde omzetbelasting.
