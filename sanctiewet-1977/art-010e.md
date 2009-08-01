@@ -1,3 +1,8 @@
 # Artikel 10e
-1. Het bedrag van de bestuurlijke boete wordt bepaald op de wijze, voorzien in het tweede lid, met dien verstande dat het bedrag van de bestuurlijke boete ten hoogste € 200 000 bedraagt.
-2. Het bedrag van de bestuurlijke boete wordt bepaald door vermenigvuldiging van het bedrag van € 5 445 met de factor die van toepassing is op grond van de in artikel 10d, tweede, derde en vierde lid, bedoelde categorie-indeling.
+1. Het bedrag van de bestuurlijke boete wordt bepaald bij algemene maatregel van bestuur, met dien verstande dat de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste € 4 000 000 bedraagt. Indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding, wordt het bedrag van de bestuurlijke boete, bedoeld in de eerste volzin, voor een afzonderlijke overtreding verdubbeld.
+2. De algemene maatregel van bestuur, bedoeld in het eerste lid, bepaalt bij elke daarin omschreven overtreding het bedrag van de deswege op te leggen bestuurlijke boete. De overtredingen worden gerangschikt in categorieën naar zwaarte van de overtreding met de daarbij behorende basisbedragen, minimumbedragen en maximumbedragen. Daarbij wordt de volgende indeling gebruikt:
+Categorie | Basisbedrag | Minimumbedrag | Maximumbedrag
+1 | € 10 000,– | € 0,– | € 10 000,–
+2 | € 500 000,– | € 0,– | € 1 000 000,–
+3 | € 2 000 000,– | € 0,– | € 4 000 000,–
+3. In afwijking van het eerste en tweede lid kan de toezichthouder de hoogte van de bestuurlijke boete vaststellen op ten hoogste twee keer het bedrag van het voordeel dat de overtreder door de overtreding heeft verkregen indien diens voordeel groter is dan € 2 000 000.
