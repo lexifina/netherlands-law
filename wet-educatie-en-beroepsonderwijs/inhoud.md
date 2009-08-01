@@ -57,7 +57,7 @@
 ### Titel 1. Inschrijving
 ### Titel 2. Vooropleidingseisen
 ### Titel 3. Bestrijding voortijdig schoolverlaten niet-leerplichtigen
-### Titel 4. Samenwerking in verband met leer-werktrajecten vmbo
+### Titel 4. Samenwerking in verband met leer-werktrajecten vmbo en assistentopleiding in het vmbo
 ## Hoofdstuk 9. Het bestuur
 ### Titel 1. De instellingen voor educatie en beroepsonderwijs
 #### § 1. Bevoegd gezag; bestuursoverdracht
