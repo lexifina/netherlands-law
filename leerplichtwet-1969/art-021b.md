@@ -1,0 +1,2 @@
+# Artikel 21b. Overgangsbepaling kennisgeving relatief verzuim primair onderwijs en (voortgezet) speciaal onderwijs
+Tot een bij koninklijk besluit te bepalen tijdstip wordt in artikel 21, eerste lid, voor «niet zijnde een school» gelezen «niet zijnde een dagschool voor voortgezet onderwijs» en wordt in artikel 21a, eerste lid, voor «een ingeschreven leerling van een school» gelezen: een ingeschreven leerling van een dagschool voor voortgezet onderwijs.
