@@ -6,5 +6,3 @@
 ## § 5. Rechtsvordering
 ## § 6. Wijziging van wetten
 ## § 7. Overgangs- en slotbepalingen
-## Artikel 1
-## Artikel 2
