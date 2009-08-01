@@ -1,2 +1,2 @@
 # Artikel 65h
-Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de aanvraag van loonsuppletie, bedoeld in artikel 65c, van inkomenssuppletie, bedoeld in artikel 65d, van voorzieningen, bedoeld in artikel 65e en van toestemming als bedoeld in artikel 65g.
+Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de aanvraag van loonsuppletie, bedoeld in artikel 65c, van inkomenssuppletie, bedoeld in artikel 65d, de termijn waarbinnen die aanvraag wordt ingediend, alsmede omtrent de rechtsgevolgen die aan overschrijding van die termijn zijn verbonden, en met betrekking tot de aanvraag van voorzieningen, bedoeld in artikel 65e en van toestemming als bedoeld in artikel 65g.
