@@ -18,4 +18,3 @@
 ### § 5.2. Gegevens met betrekking tot een ongebruikelijke transactie
 ### § 5.3. Opleiding
 ## Hoofdstuk 6. Overgangs- en slotbepalingen
-## Categorie-indeling
