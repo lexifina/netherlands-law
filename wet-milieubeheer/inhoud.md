@@ -26,8 +26,8 @@
 #### § 5.2.2. Plannen
 #### § 5.2.3. Nationaal programma en overige programma's
 #### § 5.2.4. Uitoefening van bevoegdheden of toepassing van wettelijke voorschriften
-#### § 5.2.5. Vaststelling van het kwaliteitsniveau
-#### § 5.2.6. Handhaving
+#### § 5.2.5. Beoordeling van de luchtkwaliteit
+#### § 5.2.6. Handhaving en internationale samenwerking
 ## Hoofdstuk 6. Milieuzonering
 ## Hoofdstuk 7. Milieu-effectrapportage
 ### § 7.1. Algemeen
@@ -148,13 +148,20 @@
 ### Voorschrift 1.3
 ## § 2. Grenswaarden, plandrempels en alarmdrempel voor stikstofdioxide
 ### Voorschrift 2.1
+### Voorschrift 2.1a
 ### Voorschrift 2.2
 ### Voorschrift 2.3
 ### Voorschrift 2.4
 ## § 3. Grenswaarde voor stikstofoxiden
 ### Voorschrift 3.1
-## § 4. Grenswaarden voor zwevende deeltjes (PM10)
+## § 4. Grenswaarden voor zwevende deeltjes (PM10); plandrempel, richtwaarden, grenswaarde en blootstellingsconcentratieverplichting voor zwevende deeltjes (PM2,5)
 ### Voorschrift 4.1
+### Voorschrift 4.2
+### Voorschrift 4.3
+### Voorschrift 4.4
+### Voorschrift 4.5
+### Voorschrift 4.6
+### Voorschrift 4.7
 ## § 5. Grenswaarde voor lood
 ### Voorschrift 5.1
 ## § 6. Grenswaarde voor koolmonoxide
@@ -177,4 +184,3 @@
 ### Voorschrift 12.1
 ## § 13. Gevallen als bedoeld in de artikelen 5.9, eerste lid, en 5.10, eerste lid, waarin een plan wordt vastgesteld en uitgevoerd.
 ### Voorschrift 13.1
-### Voorschrift 13.2
