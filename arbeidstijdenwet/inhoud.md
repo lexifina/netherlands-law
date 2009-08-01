@@ -73,6 +73,7 @@
 #### Aansprakelijkheid
 ### § 8.3. Geheimhouding
 ### § 8.4. Controlemiddelen toezichthouders
+### § 8.5. Gegevensuitwisseling
 ## Hoofdstuk 9. Zelfstandige bestuursorganen
 ### Dienst Wegverkeer
 ## Hoofdstuk 10. Bestuursrechtelijke handhaving
