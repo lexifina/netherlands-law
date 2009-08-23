@@ -1,0 +1,4 @@
+# Artikel 3a
+1. De monstername bedoeld in artikel 4, derde lid, onder c. van de Verordening kan door of namens GD worden uitgevoerd bij een vleeskuikenbedrijf wanneer op grond van de analyse van de door de ondernemer overeenkomstig Bijlage II uitgevoerde monstername een besmetting met de serotypen Salmonella enteritidis, Salmonella typhimurium, Salmonella virchow, Salmonella hadar of Salmonella infantis bij een koppel vleeskuikens is aangetoond.
+2. De in het eerste lid bedoelde monstername wordt uitgevoerd bij één koppel op het betreffende vleeskuikenbedrijf.
+3. Indien de in het eerste lid bedoelde monstername niet in tien procent van het totale aantal vleeskuikenbedrijven is uitgevoerd, kan de voorzitter jaarlijks zoveel vleeskuikenbedrijven aanwijzen totdat in tien procent van het totale aantal vleeskuikenbedrijven de monstername door of namens GD is uitgevoerd.
