@@ -1,0 +1,3 @@
+# Artikel I
+1. Voor de herziening van de bedragen, bedoeld in artikel 12 van de Algemene Kinderbijslagwet, en de rangordebedragen, bedoeld in artikel IV van de Wet van 22 december 1994 tot nadere wijziging van de Algemene Kinderbijslagwet, de Ziekenfondswet en de Algemene Wet Bijzondere Ziektekosten (Stb. 957), met ingang van 1 juli 2009 wordt artikel 13, tweede lid, van de Algemene Kinderbijslagwet niet toegepast.
+2. Voor de herziening van de bedragen, bedoeld in het eerste lid, met ingang van 1 januari 2010 wordt voor de toepassing van artikel 13, tweede lid, van de Algemene Kinderbijslagwet onder «de consumentenprijsindex, waarop de laatste herziening is gebaseerd» verstaan: de consumentenprijsindex over de maand april 2009.
