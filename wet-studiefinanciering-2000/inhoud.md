@@ -26,7 +26,7 @@
 ### Paragraaf 5.1. Algemeen
 ### Paragraaf 5.2. Omzetting bij afsluitend examen
 ### Paragraaf 5.3. Omzettingsprocedure
-### Paragraaf 5.4. Omzettingsprocedure bij stoppen voor 1 februari in eerste studiejaar
+### Paragraaf 5.4. Omzettingsprocedure bij stoppen voor 1 februari of 1 september in eerste studiejaar
 ### Paragraaf 5.7. Omzetting bij bijzondere omstandigheden
 ### Paragraaf 5.8. Tenietgaan rente
 ## Hoofdstuk 6. Opbouw en terugbetaling studieschuld
