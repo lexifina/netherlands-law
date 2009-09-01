@@ -7,12 +7,14 @@
 ## Hoofdstuk 3. De inhoud van de zorgverzekering
 ### Paragraaf 3.1. Het te verzekeren risico
 ### Paragraaf 3.2. De te verzekeren prestaties
-### Paragraaf 3.3. De premie
+### Paragraaf 3.3. De premie en de gevolgen van het niet betalen van de premie
+#### Afdeling 3.3.1. De premie
+#### Afdeling 3.3.2. De gevolgen van het niet betalen van de premie
 ### Paragraaf 3.4. Het eigen risico
 ### Paragraaf 3.6. Overige bepalingen
 ## Hoofdstuk 4. De zorgverzekeraars
 ### Paragraaf 4.1. De aanmelding, de statuten en het werkgebied
-### Paragraaf 4.2. De vereveningsbijdrage
+### Paragraaf 4.2. De vereveningsbijdrage en de bijdrage voor het verzekerd houden van wanbetalers
 ### Paragraaf 4.3. De verslaglegging
 ## Hoofdstuk 5. Het Zorgverzekeringsfonds, de inkomensafhankelijke bijdrage, de rijksbijdragen en de belasting van gemoedsbezwaarden
 ### Paragraaf 5.1. Het Zorgverzekeringsfonds

@@ -1,0 +1,5 @@
+# Artikel 18f
+1. Het College zorgverzekeringen gebruikt het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van de in artikel 18c, eerste lid, bedoelde personen, met het doel te waarborgen dat de in het kader van de uitvoering van deze afdeling en artikel 34a te verwerken persoonsgegevens op die personen betrekking hebben.
+2. Bij gegevensuitwisseling tussen het College zorgverzekeringen en de in de artikelen 18e, 88 en 89 bedoelde personen en instanties wordt, voor de uitvoering van deze afdeling en voor zover die personen en instanties tot gebruik van dat nummer bevoegd zijn, het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer gebruikt.
+3. Het College zorgverzekeringen is bevoegd schulden ter zake van de bestuursrechtelijke premie die hem nog niet zijn voldaan nadat artikel 18d niet meer op de verzekeringnemer van toepassing is, kwijt te schelden.
+4. Bij ministeriële regeling worden nadere regels gesteld over de wijze waarop het College zorgverzekeringen de bestuursrechtelijke premie int.
