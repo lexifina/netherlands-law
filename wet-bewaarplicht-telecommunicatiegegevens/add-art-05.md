@@ -1,0 +1,2 @@
+# Artikel V
+Bij koninklijk besluit kan worden bepaald dat deze wet gedurende een in dat besluit te bepalen periode, doch niet langer dan tot 15 maart 2009, niet van toepassing is op de aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten, voor zover het betreft het genereren of verwerken van gegevens in het kader van de verlening van toegang tot internet, e-mail over het internet en internettelefonie.
