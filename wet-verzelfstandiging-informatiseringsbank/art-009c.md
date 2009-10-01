@@ -1,0 +1,2 @@
+# Artikel 9c. Beveiligingsmaatregelen
+Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de technische en organisatorische maatregelen, bedoeld in artikel 13 van de Wet bescherming persoonsgegevens, die de hoofddirectie ten uitvoer moet leggen om de in het basisregister opgenomen persoonsgegevens te beveiligen tegen verlies of tegen enige vorm van onrechtmatige verwerking.
