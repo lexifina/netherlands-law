@@ -1,0 +1,3 @@
+# Artikel XXVIIA
+1. In afwijking van artikel 7:10, eerste lid, van de Algemene wet bestuursrecht beslist het Uitvoeringsinstituut werknemersverzekeringen binnen dertien weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.
+2. Indien bezwaar wordt gemaakt tegen een besluit waaraan een medische of arbeidskundige beoordeling ten grondslag ligt, beslist het Uitvoeringsinstituut werknemersverzekeringen binnen zeventien weken of indien zij advies vraagt aan een deskundige die niet onder haar verantwoordelijkheid werkzaam is binnen eenentwintig weken, gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.

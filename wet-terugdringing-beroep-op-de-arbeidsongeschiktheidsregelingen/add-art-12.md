@@ -1,0 +1,2 @@
+# Artikel XII
+De stimuleringsuitkering is geen inkomen in de zin van de artikelen 6 en 10 van de Algemene Arbeidsongeschiktheidswet, de Toeslagenwet, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers (Stb. 1987, 92), de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen (Stb. 1987, 281) en de Wet werk en bijstand en geen inkomen uit of in verband met arbeid in de zin van de Algemene burgerlijke pensioenwet, de Spoorwegpensioenwet en de Algemene militaire pensioenwet.

@@ -1,0 +1,2 @@
+# Artikel XV
+Bij ministeriële regeling kan Onze Minister van Sociale Zaken en Werkgelegenheid, voor zover het hen aangaat in overeenstemming met Onze Ministers van Binnenlandse Zaken, Verkeer en Waterstaat en van Defensie, met betrekking tot dit hoofdstuk nadere regels stellen. In deze regels kan onder meer worden bepaald, dat perioden waarin geen arbeid is verricht worden gelijkgesteld met perioden waarin arbeid is verricht.

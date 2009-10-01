@@ -1,0 +1,5 @@
+# Artikel VIII
+Voor de toepassing van dit hoofdstuk wordt als arbeidsongeschikte aangemerkt de persoon:
+a. die op 31 januari 1992 recht heeft op uitkering op grond van de Algemene Arbeidsongeschiktheidswet dan wel de Wet op de arbeidsongeschiktheidsverzekering, waaronder begrepen een uitkering op grond van hoofdstuk III van de Wet arbeidsongeschiktheidsvoorziening militairen (Stb. 1972, 313), en op wie voor genoemde dag artikel 52 van de Invoeringswet stelselherziening sociale zekerheid (Stb. 1987, 94) van toepassing was;
+b. die sinds 1 januari 1990 onafgebroken recht heeft op uitkering op grond van de Algemene Arbeidsongeschiktheidswet dan wel de Wet op de arbeidsongeschiktheidsverzekering, waaronder begrepen een uitkering op grond van hoofdstuk III van de Wet arbeidsongeschiktheidsvoorziening militairen, en op de dag waarop deze wet in werking treedt de leeftijd van 50 jaar heeft bereikt;
+c. op wie de bepalingen van de artikelen XX en XXIII van deze wet van toepassing zijn en die op 31 januari 1992 en sinds 1 januari 1990 onafgebroken recht heeft op een aanvulling als bedoeld in deze artikelen.
