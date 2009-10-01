@@ -1,0 +1,2 @@
+# Artikel II
+De artikelen van de Experimentele regeling subsidieverstrekking arbeidsgehandicapten, zoals die luidden op de dag voorafgaand aan de inwerkingtreding van deze regeling, blijven van toepassing op de persoon die voor 1 oktober 2009 een aanvraag om een persoonsgebonden re-integratiebudget heeft ingediend waarop nog niet onherroepelijk is beslist of aan wie een persoonsgebonden re-integratiebudget is verstrekt.
