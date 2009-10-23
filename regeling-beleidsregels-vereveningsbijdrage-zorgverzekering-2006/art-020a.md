@@ -1,0 +1,2 @@
+# Artikel 20a. Algemene bepaling
+Het college herberekent het normatieve bedrag voor de tweede maal op basis van correcties die de Nederlandse Zorgautoriteit heeft toegepast op de dbc-declaraties 2006, de HKC opgave 2006, de opgave no-claim teruggave 2006 in de jaarstaat 2007 en de te verrekenen opbrengstresultaten 2006, zoals vastgesteld door de NZa overeenkomstig de artikelen 3.8 en 3.9 van de Regeling zorgverzekering.

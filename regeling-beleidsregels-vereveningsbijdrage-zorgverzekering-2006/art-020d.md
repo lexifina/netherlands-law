@@ -1,0 +1,2 @@
+# Artikel 20d. De tweede voorlopige herberekening van het deelbedrag vaste kosten van ziekenhuisverpleging 2006
+Het college herberekent op basis van de opgave herziene jaarstaat 2006 per 1 juli 2009 en het opbrengstresultaat 2006 zoals vastgesteld door de Nederlandse Zorgautoriteit, het deelbedrag vaste kosten van ziekenhuisverpleging 2006 overeenkomstig artikel 17. Het resultaat wordt aangeduid als het tweede voorlopige herberekende deelbedrag vaste kosten van ziekenhuisverpleging 2006.

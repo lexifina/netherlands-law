@@ -1,0 +1,7 @@
+# Artikel 28b
+1. Bij gelegenheid van de voorlopige vaststelling van de bijdrage, bedoeld in artikel 20, achtste lid, stelt het college het bedrag aan compensatie vast volgens artikel 3.15a van de Regeling zorgverzekering, voor iedere verzekerde ten aanzien van wie niet aan de premieplicht, bedoeld in artikel 16 van de Zorgverzekeringswet, is of wordt voldaan. De zorgverzekeraar ontvangt de compensatie onder de voorwaarde dat is voldaan aan het bepaalde in artikel 3.18 van het Besluit zorgverzekering. Bij de voorlopige vaststelling baseert het college zich voor de vaststelling van de compensatie op de voorlopige opgave van de zorgverzekeraars per 1 juni 2007 over het aantal wanbetalers in 2006.
+2. Het college stelt de compensatie, bedoeld in het eerste lid, als volgt vast:
+a. Het college stelt per zorgverzekeraar het totale bedrag aan openstaande premievorderingen vast.
+b. Het college berekent het bedrag van de premievordering dat ten laste komt van de zorgverzekeraar zelf door het aantal wanbetalers te vermenigvuldigen met de nominale rekenpremie over 6 maanden.
+c. Het college stelt de voorlopige compensatie vast door het bedrag onder b in mindering te brengen op het bedrag onder a.
+3. De door de zorgverzekeraars te ontvangen compensatie, bedoeld in het tweede lid, onder c, verrekent het college zo mogelijk met de op grond van artikel 20, zesde lid, voorlopig vastgestelde bijdrage.
