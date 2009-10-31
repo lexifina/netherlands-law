@@ -1,0 +1,3 @@
+# Artikel 94a
+1. Aanvragen tot verstrekking van een garantstelling als bedoeld in artikel 4:53 van de regeling kunnen worden ingediend van 1 januari tot en met 31 december 2009.
+2. Het maximumbedrag, bedoeld in artikel 4:57, eerste lid, van de regeling, wordt voor 2009 vastgesteld op € 4.000.000,–.
