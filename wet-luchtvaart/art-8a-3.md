@@ -1,0 +1,3 @@
+# Artikel 8a.3
+1. Ten behoeve van het verkrijgen van een veiligheidscertificaat stelt de exploitant een luchthavenbedrijfshandboek op. Het luchthavenbedrijfshandboek bevat een beschrijving van de aanleg, de inrichting, de uitrusting en het veilig gebruik van het luchtvaartgebied alsmede een beschrijving van het veiligheidsmanagementsysteem van de luchthaven.
+2. Bij regeling van Onze Minister van Verkeer en Waterstaat worden regels gegeven omtrent het veiligheidscertificaat, het veiligheidsmanagementsysteem en het luchthavenbedrijfshandboek. Hierbij kan een onderscheid worden gemaakt tussen categorieën luchthavens en vormen van luchtvaart die gebruik maken van luchthavens.
