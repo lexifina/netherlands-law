@@ -4,7 +4,8 @@
 #### Afdeling 1.1.1. Definities
 #### Afdeling 1.1.2. Reikwijdte met betrekking tot financiële ondernemingen
 ##### § 1.1.2.1. Algemeen
-##### § 1.1.2.2. Clearinginstellingen en kredietinstellingen
+##### § 1.1.2.2. Betaaldienstverleners, clearinginstellingen en kredietinstellingen
+##### § 1.1.2.2a. Betaaldiensten
 ##### § 1.1.2.3. Verzekeraars
 ##### § 1.1.2.4. Beleggingsinstellingen
 #### Afdeling 1.1.3. Reikwijdte met betrekking tot financiële diensten
@@ -43,6 +44,11 @@
 ## 2. Deel Markttoegang Financiële Ondernemingen
 ### Hoofdstuk 2.1. Inleidende bepalingen
 ### Hoofdstuk 2.2. Toegang tot de Nederlandse financiële markten
+#### Afdeling 2.2.0. Uitoefenen van bedrijf van betaaldienstverlener
+##### § 2.2.0.1. Vergunningplicht en -eisen voor betaaldienstverleners met zetel in Nederland
+##### § 2.2.0.2. Vrijstelling
+##### § 2.2.0.3. Bijkantoren en betaaldienstagenten van en verrichten van diensten door betaaldienstverleners met zetel in een andere lidstaat
+##### § 2.2.0.4. Betaaldienstverleners met zetel in een staat die geen lidstaat is
 #### Afdeling 2.2.1. Uitoefenen van bedrijf van clearinginstelling
 ##### § 2.2.1.1. Vergunningplicht en -eisen voor clearinginstellingen met zetel in Nederland
 ##### § 2.2.1.2. Bijkantoor en verrichten van diensten door clearinginstellingen met zetel buiten Nederland
@@ -96,6 +102,8 @@
 ##### § 2.2.12.3. Vrijstelling
 #### Afdeling 2.2.13. Bijzondere bepalingen
 ### Hoofdstuk 2.3. Toegang tot de buitenlandse financiële markten
+#### Afdeling 2.3.0. Uitoefenen van bedrijf van betaaldienstverlener
+##### § 2.3.0.1. Bijkantoor en verrichten van diensten door een betaalinstelling naar een andere lidstaat
 #### Afdeling 2.3.1. Uitoefenen van bedrijf van clearinginstelling
 ##### § 2.3.1.1. Bijkantoor buiten Nederland
 #### Afdeling 2.3.2. Uitoefenen van bedrijf van kredietinstelling en financiële instelling
@@ -128,6 +136,7 @@
 ##### § 3.3.2.3. Financiële ondernemingen met zetel in een niet-aangewezen staat
 #### Afdeling 3.3.3. Structurering en inrichting
 ##### § 3.3.3.1. Financiële ondernemingen met zetel in Nederland
+##### § 3.3.3.1a. Financiële ondernemingen met zetel in een andere lidstaat
 ##### § 3.3.3.2. Financiële ondernemingen met zetel in een staat die geen lidstaat is
 ##### § 3.3.3.3. Financiële ondernemingen met zetel in een niet-aangewezen staat
 #### Afdeling 3.3.4. Overige bepalingen
@@ -170,7 +179,7 @@
 ##### § 3.4.1.1. Financiële instellingen met zetel in Nederland
 #### Afdeling 3.4.2. Regime voor banken aangesloten bij een centrale kredietinstelling
 ### Hoofdstuk 3.5. Bijzondere regels en maatregelen ten aanzien van financiële ondernemingen werkzaam op de financiële markten
-#### Afdeling 3.5.1. Bijzondere maatregelen ten aanzien van banken en beleggingsondernemingen
+#### Afdeling 3.5.1. Bijzondere maatregelen ten aanzien van banken, beleggingsondernemingen en betaalinstellingen
 #### Afdeling 3.5.1a. Portefeuilleoverdracht
 ##### § 3.5.1a.1. Verzekeraars met zetel in Nederland
 ##### § 3.5.1a.2. Levensverzekeraars en schadeverzekeraars met zetel in een andere lidstaat
@@ -201,7 +210,8 @@
 ##### § 3.5.6.3. Financiële ondernemingen met zetel in een staat die geen lidstaat is
 ### Hoofdstuk 3.6. Aanvullende bepalingen ten aanzien van financiele groepen
 #### Afdeling 3.6.1. Definities en algemeen
-#### Afdeling 3.6.2. Geconsolideerd toezicht op beleggingsondernemingen en kredietinstellingen
+#### Afdeling 3.6.1a. Betaalinstellingen in een groep
+#### Afdeling 3.6.2. Geconsolideerd toezicht op beleggingsondernemingen, betaalinstellingen en kredietinstellingen
 #### Afdeling 3.6.3. Aanvullend toezicht op herverzekeraars, levensverzekeraars en schadeverzekeraars in een verzekeringsgroep
 #### Afdeling 3.6.4. Prudentieel toezicht op financiële conglomeraten
 ##### § 3.6.4.1. Inleidende bepalingen
@@ -290,6 +300,7 @@
 #### Afdeling 5.5.3. Voorschriften indien de Autoriteit Financiële Markten bevoegd is het biedingsbericht goed te keuren
 #### Afdeling 5.5.4. Aanvullende voorschriften, vrijstelling en ontheffing
 ### Hoofdstuk 5.6. Regels over het toepassen van een gedragscode door institutionele beleggers
+### Hoofdstuk 5.7. Regels voor de toegang tot betalingssystemen
 ## 6. Deel Toezicht infrastructuur financiële markten
 ## 7. Deel Slotbepalingen
 ## Overtreding van voorschriften, gesteld bij of krachtens artikel:

@@ -56,6 +56,14 @@
 #### Afdeling 4. Agentuurovereenkomst
 #### Afdeling 5. De overeenkomst inzake geneeskundige behandeling
 ### Titel 7A. Reisovereenkomst
+### Titel 7b. Betalingstransactie
+#### Afdeling 1. Algemene bepalingen
+#### Afdeling 2. Instemming met de betaalopdracht
+#### Afdeling 3. Uitvoering van de betalingstransactie
+##### Paragraaf 1. Betaalopdrachten, kosten en overgemaakte bedragen
+##### Paragraaf 2. Uitvoeringstermijn en valutadatum
+##### Paragraaf 3. Aansprakelijkheid
+#### Afdeling 4. Slotbepalingen
 ### Titel 9. Bewaarneming
 ### Titel 10. Arbeidsovereenkomst
 #### Afdeling 1. Algemene bepalingen
