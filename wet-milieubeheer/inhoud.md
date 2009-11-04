@@ -57,6 +57,7 @@
 #### § 9.2.2. Maatregelen
 #### § 9.2.3. Verpakking, aanduiding en aanbeveling
 ### Titel 9.3. De EG-verordening registratie, evaluatie en autorisatie van chemische stoffen
+### Titel 9.3a. De EG-verordening indeling, etikettering en verpakking van stoffen en mengsels
 ### Titel 9.4. De EG-richtlijn ecologisch ontwerp energieverbruikende producten
 ## Hoofdstuk 10. Afvalstoffen
 ### Titel 10.1. Algemeen
