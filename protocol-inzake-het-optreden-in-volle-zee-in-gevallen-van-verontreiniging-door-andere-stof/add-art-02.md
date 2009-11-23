@@ -1,0 +1,3 @@
+# Article II
+1. The provisions of paragraph 2 of Article I and of Articles II to VIII of the Convention relating to Intervention on the High Seas in Cases of Oil Pollution Casualties, 1969, and the Annex thereto as they relate to oil, shall be applicable with regard to the substances referred to in Article I of the present Protocol.
+2. For the purpose of the present Protocol the list of experts referred to in Articles III (c) and IV of the Convention shall be extended to include experts qualified to give advice in relation to substances other than oil. Nominations to the list may be made by Member States of the Organization and by Parties to the present Protocol.

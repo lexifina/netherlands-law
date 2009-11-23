@@ -1,0 +1,3 @@
+# Artikel II
+1. De bepalingen van artikel I, tweede lid, en van de artikelen II tot VIII van het Internationaal Verdrag inzake optreden in volle zee bij ongevallen die verontreiniging door olie kunnen veroorzaken, 1969, en de Bijlage daarbij, voor zover zij betrekking hebben op olie, zijn van toepassing ten aanzien van de stoffen bedoeld in artikel I van dit Protocol.
+2. Voor toepassing van de bepalingen van dit Protocol wordt de lijst van deskundigen, bedoeld in de artikelen III, letter (c), en IV van dat Verdrag, uitgebreid, zodat zij deskundigen omvat die bevoegd zijn tot het geven van advies inzake andere stoffen dan olie. De Lid-Staten van de Organisatie en Partijen bij dit Protocol kunnen voordrachten doen voor die lijst.

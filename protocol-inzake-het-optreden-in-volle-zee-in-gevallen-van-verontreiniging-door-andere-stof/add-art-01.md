@@ -1,0 +1,6 @@
+# Article I
+1. Parties to the present Protocol may take such measures on the high seas as may be necessary to prevent, mitigate or eliminate grave and imminent danger to their coastline or related interests from pollution or threat of pollution by substances other than oil following upon a maritime casualty or acts related to such a casualty, which may reasonably be expected to result in major harmful consequences.
+2. "Substances other than oil" as referred to in paragraph 1 shall be:
+(a) those substances enumerated in a list which shall be established by an appropriate body designated by the Organization and which shall be annexed to the present Protocol, and
+(b) those other substances which are liable to create hazards to human health, to harm living resources and marine life, to damage amenities or to interfere with other legitimate uses of the sea.
+3. Whenever an intervening Party takes action with regard to a substance referred to in paragraph 2 (b) above that Party shall have the burden of establishing that the substance, under the circumstances present at the time of the intervention, could reasonably pose a grave and imminent danger analogous to that posed by any of the substances enumerated in the list referred to in paragraph 2 (a) above.
