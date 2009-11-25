@@ -42,7 +42,6 @@
 ### Hoofdstuk XVIIb. De zuiveringsheffing
 ### Hoofdstuk XVIII. De heffing en invordering van waterschapsbelastingen
 ## Titel V. Aanvullende bepalingen inzake het toezicht op het waterschapsbestuur
-### Hoofdstuk XIX. Goedkeuring
 ### Hoofdstuk XX. Het beroep tegen besluiten
 ### Hoofdstuk XXI. Schorsing en vernietiging
 ### Hoofdstuk XXII. Het toezicht op interprovinciale waterschappen
