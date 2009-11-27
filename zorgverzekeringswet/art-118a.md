@@ -11,3 +11,4 @@ b. op welke wijze gegevens, bedoeld in het derde lid, worden verwerkt;
 c. volgens welke technische standaarden gegevensverwerking plaatsvindt;
 d. aan welke beveiligingseisen gegevensverwerking voldoet;
 e. in welke gevallen gegevens, bedoeld in het derde lid, verder worden verwerkt met het oog op de uitvoering van het uitkeren van het bedrag, bedoeld in het eerste lid.
+5. Bij algemene maatregel van bestuur wordt bepaald op welke wijze het College zorgverzekeringen de beheerskosten, bedoeld in artikel 39, derde lid, onderdeel f, vaststelt.
