@@ -1,0 +1,4 @@
+# Artikel 4,. Selectie van kandidaten voor de Culturele prijs
+1. Door middel van een openbare oproep wordt gevraagd kandidaten voor te dragen voor de prijs.
+2. De commissie maakt op basis van eigen voorstellen en de uitkomst van de openbare oproep een selectie van potentiële kandidaten.
+3. Door middel van gerichte werkbezoeken en het volgen van geselecteerde kandidaten komt de commissie tot een voorstel voor toekenning van de prijs
