@@ -1,5 +1,5 @@
 # Artikel 82a. Innovatie
-1. Bij algemene maatregel van bestuur kan bij wijze van experiment, met het oog op het onderzoeken van mogelijkheden om deze wet, de Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen, de Werkloosheidswet, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten en de Toeslagenwet doeltreffender uit te voeren, worden afgeweken van het bepaalde bij of krachtens:
+1. Bij algemene maatregel van bestuur kan bij wijze van experiment, met het oog op het onderzoeken van mogelijkheden om deze wet, de Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen, de Wet inkomensvoorziening oudere werklozen, de Werkloosheidswet, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten en de Toeslagenwet doeltreffender uit te voeren, worden afgeweken van het bepaalde bij of krachtens:
 a. de artikelen 9, 10, 30 en 30a van deze wet;
 b. de artikelen 7, 8, 9, 10 en 55 van de Wet werk en bijstand;
 c. de artikelen 34 tot en met 37 van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers;
@@ -8,7 +8,8 @@ e. hoofdstuk VI van de Werkloosheidswet;
 f. paragraaf 4.2 en artikel 39 van de Wet werk en inkomen naar arbeidsvermogen;
 g. hoofdstuk IIB van de Wet op de arbeidsongeschiktheidsverzekering;
 h. hoofdstuk 2A van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;
-i. hoofdstuk 7 van de Wet financiering sociale verzekeringen.
+i. hoofdstuk 7 van de Wet financiering sociale verzekeringen;
+j. artikel 13 en de artikelen 19 tot en met 21 van de Wet inkomensvoorziening oudere werklozen.
 2. Bij een algemene maatregel van bestuur als bedoeld in het eerste lid wordt geregeld op welke wijze van welke artikelen wordt afgeweken en kunnen alleen regels worden gesteld:
 a. ter verbetering van de samenwerking tussen de uitvoeringsorganisaties van de in het eerste lid genoemde wetten;
 b. met betrekking tot de inzet van re-integratie-instrumenten en de financiering daarvan;
