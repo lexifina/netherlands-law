@@ -12,6 +12,8 @@
 ## Hoofdstuk 4. Scheepsnummer en gegevensverstrekking
 ### § 1. Scheepsnummer
 ### § 2. Gegevensverstrekking
+## Hoofdstuk 4a. Financiering inzameling en verdere verwijdering van olie- en vethoudende scheepsafvalstoffen
+### § 3. Het nationaal instituut
 ## Hoofdstuk 5. Handhaving
 ### § 1. Toezicht en opsporing
 ### § 2. Bestuurlijke boete
