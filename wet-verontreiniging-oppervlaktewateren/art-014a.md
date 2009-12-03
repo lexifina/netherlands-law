@@ -1,0 +1,4 @@
+# Artikel 14a
+1. Onze Minister stelt iedere twee jaar een rapport op, waarin de stand van zaken wordt beschreven met betrekking tot lozingen als bedoeld in artikel 1, eerste lid, vanuit een inrichting voor het zuiveren van afvalwater, in beheer bij een waterschap of gemeente dan wel in exploitatie bij een rechtspersoon die door het bestuur van een waterschap is belast met de zuivering van stedelijk afvalwater als bedoeld in artikel 15a.
+2. Van de vaststelling van het rapport wordt mededeling gedaan in de Staatscourant.
+3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de toepassing van het eerste lid. Deze regels kunnen voor openbare lichamen de verplichting inhouden jaarlijks op een daarbij aangegeven wijze gegevens te verstrekken, die voor de opstelling van het rapport nodig zijn.

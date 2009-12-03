@@ -1,0 +1,2 @@
+# Artikel 7e
+In een geval als bedoeld in artikel 7b, eerste lid, waarin burgemeester en wethouders bevoegd zijn de krachtens de betrokken wet vereiste vergunning te verlenen, is artikel 7d van overeenkomstige toepassing, met dien verstande dat gedeputeerde staten op een daartoe strekkend verzoek van burgemeester en wethouders een bindende aanwijzing kunnen geven aan het orgaan dat krachtens deze wet bevoegd is de beschikking op de aanvrage te geven.
