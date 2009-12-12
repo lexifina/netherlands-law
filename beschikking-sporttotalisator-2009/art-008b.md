@@ -1,0 +1,5 @@
+# Artikel 8b
+1. De stichting draagt er zorg voor dat aan wervings- en reclameactiviteiten op zorgvuldige en evenwichtige wijze vorm wordt gegeven, waarbij in het bijzonder wordt gewaakt tegen het aanzetten tot onmatige deelneming aan de krachtens deze beschikking georganiseerde kansspelen.
+2. De stichting ziet er op toe dat de medewerkende verenigingen en verkooppunten onmatige deelneming aan deze kansspelen tegengaan. In de door de stichting op te stellen voorschriften voor de medewerkende verenigingen en ondernemers worden daartoe nadere regels gegeven.
+3. De formulieren voor deelneming aan de dagelijkse lotto dienen aan de voorzijde te zijn voorzien van de duidelijk leesbare tekst 'ZET NIET ALLES OP HET SPEL - Speel met mate'. Voor zover er bij deelname via direct elektronische weg geen sprake is van een (digitaal) formulier voor deelneming, dient deze tekst bij de voorspelling te worden vermeld.
+4. De stichting neemt bij haar wervings- en reclameactiviteiten de haar door de minister gegeven aanwijzingen, gehoord het college, in acht.
