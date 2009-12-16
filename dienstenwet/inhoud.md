@@ -5,10 +5,14 @@
 ### § 2.1. Het centraal loket
 ## Hoofdstuk 3. Informatie, bijstand en elektronische afwikkeling voor dienstverrichters
 ### § 3.1. Toegankelijkheid van informatie voor dienstverrichters
+### § 3.2. Verlening van bijstand aan dienstverrichters
 ### § 3.3. Op procedures en formaliteiten betrekking hebbend berichtenverkeer
 ### § 3.4. Gegevensbescherming
 ## Hoofdstuk 4. Informatie en bijstand voor afnemers
 ### § 4.1. Toegankelijkheid van informatie voor afnemers
+## Hoofdstuk 5. Vergunningstelsels
+### § 5.1. Vergunningen op aanvraag
+### § 5.2. Meldingen
 ## Hoofdstuk 6. Administratieve samenwerking
 ### § 6.4. Het waarschuwingsmechanisme
 ### § 6.6. Het contactpunt
