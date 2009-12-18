@@ -1,0 +1,3 @@
+# XI. Ad Article 11
+A financial institution as mentioned in Article 11, paragraph 3 (iii), includes especially: the Netherlands Development Finance Company (Nederlandse Financieringsmaatschappij voor Ontwikkelingslanden N.V.), and the Netherlands Investment Bank for Developing Countries (Nederlandse Investeringsbank voor Ontwikkelingslanden N.V.). With respect to Azerbaijan an agency or instrumentality mentioned in Article 11, paragraph 3 (iii), includes especially the State Oil Fund of Azerbaijan.
+It is also understood that the list of the agencies and instrumentalities to which Article 11, paragraph 3 (iii) applies, could be agreed from time to time between the competent authorities of the Contracting States.

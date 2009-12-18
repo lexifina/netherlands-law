@@ -1,0 +1,2 @@
+# IV. Ad artikel 5
+Het is wel te verstaan dat ten aanzien van een persoon die bevoegd is te onderhandelen over alle elementen en details van een overeenkomst op een wijze die de onderneming bindt, gesteld kan worden dat hij deze bevoegdheid uitoefent in een Verdragsluitende Staat, ook wanneer de overeenkomst wordt ondertekend door een andere persoon in de andere Verdragsluitende Staat waar de onderneming gevestigd is.

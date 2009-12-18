@@ -1,0 +1,3 @@
+# XI. Ad artikel 11
+Als financiële instelling als bedoeld in artikel 11, derde lid, onder iii, worden in het bijzonder mede verstaan de Nederlandse Financierings-Maatschappij voor Ontwikkelingslanden NV en de Nederlandse Investeringsbank voor Ontwikkelingslanden NV. Ten aanzien van Azerbeidzjan wordt onder agentschap of instantie bedoeld in artikel 11, derde lid, onder iii, in het bijzonder mede verstaan het State Oil Fund van Azerbeidzjan.
+Het voorts te verstaan dat de bevoegde autoriteiten van de Verdragsluitende Staten van tijd tot tijd overeenstemming bereiken over de lijst van agentschappen en instanties waarop artikel 11, derde lid, onder iii, van toepassing is.

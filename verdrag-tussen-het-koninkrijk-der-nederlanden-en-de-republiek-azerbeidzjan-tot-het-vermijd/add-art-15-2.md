@@ -1,0 +1,2 @@
+# XV. Ad artikel 23
+Met betrekking tot Nederland is het wel te verstaan dat voor de berekening van de vermindering vermeld in artikel 23, tweede lid, de waarde van de in artikel 22, eerste lid, bedoelde vermogensbestanddelen wordt verminderd met de waarde van schulden verzekerd door hypotheek op dat vermogen en dat de waarde van de in artikel 22, tweede lid, bedoelde vermogensbestanddelen wordt verminderd met de waarde van de tot de vaste inrichting of het vaste middelpunt behorende schulden.
