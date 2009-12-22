@@ -1,4 +1,3 @@
 # Artikel 95a. Bijzondere beslistermijnen
 1. Een beschikking over het verzekerd zijn op grond van deze wet wordt gegeven binnen dertien weken na ontvangst van de aanvraag.
-2. Indien in verband met het geven van een beschikking als bedoeld in het eerste lid informatie is gevraagd aan een persoon of instantie buiten Nederland en om die reden de beschikking niet binnen dertien weken gegeven kan worden, wordt die termijn verlengd met ten hoogste zes maanden en wordt de aanvrager van deze verlenging schriftelijk in kennis gesteld.
-3. Indien een beschikking als bedoeld in het eerste lid om andere dan de in het tweede lid bedoelde redenen niet binnen dertien weken kan worden gegeven, wordt de aanvrager daarvan schriftelijk in kennis gesteld onder vermelding van een zo kort mogelijke termijn waarbinnen de beschikking wel tegemoet kan worden gezien.
+2. Indien een beschikking als bedoeld in het eerste lid om andere dan de in het tweede lid bedoelde redenen niet binnen dertien weken kan worden gegeven, wordt de aanvrager daarvan schriftelijk in kennis gesteld onder vermelding van een zo kort mogelijke termijn waarbinnen de beschikking wel tegemoet kan worden gezien.
