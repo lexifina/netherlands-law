@@ -1,0 +1,3 @@
+# Artikel 7a
+1. Indien een verzoek is gedaan aan Onze Minister om een uitzondering te maken op de algemeen verbindend verklaarde bepalingen van een collectieve arbeidsovereenkomst, beslist Onze Minister op dit verzoek niet eerder dan op het moment dat die bepalingen van de collectieve arbeidsovereenkomst algemeen verbindend zijn verklaard.
+2. Indien tegen een besluit inzake het al dan niet maken van een uitzondering op de algemeen verbindend verklaarde bepalingen van een collectieve arbeidsovereenkomst bezwaar is gemaakt, beslist Onze Minister op dat bezwaar, in afwijking van artikel 7:10, eerste lid, van de Algemene wet bestuursrecht, binnen veertien weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.
