@@ -47,7 +47,7 @@
 #### Afdeling 8.1.2. Wijziging of intrekking van vergunningen
 #### Afdeling 8.1.3. Bijzondere gevallen
 ##### § 8.1.3.1. Algemeen
-##### § 8.1.3.2. Gevallen waarin mede een vergunning krachtens de Wet verontreiniging oppervlaktewateren vereist is
+##### § 8.1.3.2. Gevallen waarin mede een vergunning krachtens artikel 6.2 van de Waterwet vereist is
 ##### § 8.1.3.3. Gevallen waarin afvalstoffen op een bepaalde wijze nuttig worden toegepast of worden verwijderd
 ### Titel 8.2. Algemene regels
 ### Titel 8.3. Regels met betrekking tot gesloten stortplaatsen en gesloten afvalvoorzieningen
