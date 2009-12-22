@@ -1,2 +1,0 @@
-# Artikel 1d
-Het is verboden afvalstoffen waarop de verordening (EG) nr. 1013/2006 van het Europees Parlement en de Raad van de Europese Unie van 14 juni 2006 betreffende de overbrenging van afvalstoffen (PbEU L 190) van toepassing is, binnen Nederlands grondgebied te brengen, indien dat naar het oordeel van Onze Minister, in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, in strijd zou zijn met het belang van de bescherming van het milieu.
