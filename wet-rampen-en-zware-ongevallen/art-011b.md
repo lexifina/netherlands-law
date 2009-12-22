@@ -1,0 +1,5 @@
+# Artikel 11b
+1. In geval van een ramp of een zwaar ongeval stelt een ieder die daarvan kennis draagt, de burgemeester van de gemeente waar de ramp of het zware ongeval plaatsvindt, zo spoedig mogelijk daarvan op de hoogte.
+2. In geval van een ramp of een zwaar ongeval verschaft een ieder die over relevante veiligheidstechnische informatie beschikt, de burgemeester van de gemeente waar de ramp of het zware ongeval plaatsvindt, de informatie die nodig is opdat hij zijn taken, bedoeld in artikel 11a, eerste en tweede lid, naar behoren kan uitvoeren. Dit geldt niet voor zover deze informatie reeds op grond van andere voorschriften is verschaft of kan worden verkregen.
+3. Bij algemene maatregel van bestuur worden nadere regels gegeven over de inhoud van de informatie, bedoeld in het tweede lid, alsmede over de wijze waarop de informatie wordt verschaft en welke natuurlijke personen of rechtspersonen de informatie verplicht zijn te verschaffen.
+4. Het tweede lid is niet van toepassing op gegevens waarvan de geheimhouding door het belang van de veiligheid van de staat is geboden.

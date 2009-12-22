@@ -1,0 +1,5 @@
+# Artikel 10a
+1. Een ieder die beschikt over relevante veiligheidstechnische gegevens, verschaft het college van burgemeester en wethouders, de burgemeester en het bestuur van de regionale brandweer de informatie die nodig is opdat zij hun taken in het kader van de voorbereiding van de bestrijding van rampen en zware ongevallen naar behoren kunnen uitvoeren. Dit geldt niet voor zover deze informatie reeds op grond van andere voorschriften is verschaft of kan worden verkregen.
+2. Burgemeester en wethouders kunnen bevelen dat een krachtens artikel 4a, eerste lid, aangewezen risicovol object niet in bedrijf gesteld wordt, indien degene die de inrichting gaat drijven niet aan de in het eerste lid bedoelde verplichting tot informatieverstrekking heeft voldaan.
+3. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de informatieverschaffing, bedoeld in het eerste lid.
+4. Het eerste lid is niet van toepassing op gegevens waarvan de geheimhouding door het belang van de veiligheid van de staat is geboden.

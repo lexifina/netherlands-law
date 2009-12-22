@@ -1,0 +1,2 @@
+# Artikel 25c
+Burgemeester en wethouders zijn bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bij of krachtens artikel 10a bepaalde ten aanzien van krachtens artikel 4a aangewezen inrichtingen, tot welke bevoegdheid mede behoort het stilleggen of gedeeltelijk buiten werking stellen of verzegelen van de inrichting dan wel het verzegelen of verwijderen van hetgeen zich in de inrichting bevindt.
