@@ -1,0 +1,4 @@
+# Artikel 929a
+1. De vervoerder stelt het schip aan de afzender ter beschikking met ten minste de krachtens de Waterwet en bij algemene maatregel van bestuur bepaalde losstandaard. Zodra met het laden een aanvang is gemaakt, wordt het schip geacht aan dit vereiste te voldoen.
+2. De afzender en de ontvanger – en in geval zij van een overslaginstallatie gebruik maken in hun plaats de exploitant daarvan – zijn jegens elkaar en jegens de vervoerder verplicht de voor ieder van hen krachtens de Wet milieubeheer of de Waterwet en bij algemene maatregel van bestuur voorgeschreven maatregelen met betrekking tot het laden en lossen van het schip te treffen. Voor zover het betreft hun onderlinge verplichtingen kunnen de afzender en de ontvanger anders overeenkomen dan uit de vorige volzin voortvloeit.
+3. Nietig is ieder beding, waarbij van het eerste of tweede lid op andere wijze wordt afgeweken dan volgens die leden geoorloofd is.
