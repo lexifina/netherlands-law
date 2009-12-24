@@ -1,0 +1,2 @@
+# D. Ad Article 5, paragraph 2, subparagraphs g and h
+It is understood that a sales outlet and a warehouse in relation to a person providing storage facilities for others can only be deemed to be a permanent establishment insofar as the other activities of the enterprise in the other Contracting State consist of business activities which constitute a permanent establishment in the meaning of Article 5.

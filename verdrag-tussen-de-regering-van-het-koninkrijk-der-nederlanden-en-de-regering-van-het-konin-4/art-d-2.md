@@ -1,0 +1,2 @@
+# D. Ad artikel 5, tweede lid, onderdelen g en h
+Het is wel te verstaan dat een ruimte gebruikt voor de verkoop en een opslagplaats van een persoon die derden opslagruimte ter beschikking stelt uitsluitend als vaste inrichting kunnen worden aangemerkt voor zover de overige activiteiten van de onderneming in de andere Verdragsluitende Staat bestaan uit bedrijfsactiviteiten die een vaste inrichting vormen in de zin van artikel 5.
