@@ -1,0 +1,2 @@
+# VII. Ad artikelen 10 en 13
+Het is wel te verstaan dat inkomsten uit aandelen die worden ontvangen in verband met de (gedeeltelijke) liquidatie van een lichaam of een inkoop van eigen aandelen door een lichaam worden behandeld als inkomsten uit aandelen en niet als vermogenswinsten. De voorgaande volzin is niet van toepassing op de (gedeeltelijke) vervreemding of opheffing van een vaste inrichting of vast middelpunt in de andere Verdragsluitende Staat.

@@ -1,0 +1,3 @@
+# VI. Ad Article 10
+1. Notwithstanding paragraph 2 of Article 10, the Contracting State of which the company is a resident shall not levy a tax on dividends paid by that company, if the beneficial owner of the dividends is a pension fund or a collective investment vehicle referred to in paragraph 2 of Article 4.
+2. If after the date of signature of this Agreement in any Agreement for the avoidance of double taxation concluded by the Netherlands with a third State, the Netherlands would agree to a lower rate for dividends as provided in paragraph 2, subparagraph (b) of article 10, then the lower rate shall automatically apply to residents of Qatar from the moment the lower rate is effective for residents of that third State.

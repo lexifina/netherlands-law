@@ -1,0 +1,3 @@
+# VI. Ad artikel 10
+1. Niettegenstaande artikel 10, tweede lid, heft de Verdragsluitende Staat waarvan het lichaam inwoner is geen belasting over door dat lichaam betaalde dividenden, indien de uiteindelijk gerechtigde tot de dividenden een pensioenfonds of een collectief beleggingsfonds is als bedoeld in artikel 4, tweede lid.
+2. Indien Nederland na de datum van ondertekening van dit Verdrag in een verdrag tot het vermijden van dubbele belasting gesloten tussen Nederland en een derde Staat zou instemmen met een lager tarief voor dividenden dan voorzien in artikel 10, tweede lid, onderdeel b, is het lagere tarief automatisch van toepassing op inwoners van Qatar vanaf het tijdstip waarop het lagere tarief in werking treedt voor inwoners van die derde Staat.
