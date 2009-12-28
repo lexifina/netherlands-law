@@ -1,0 +1,5 @@
+# Artikel 34a. Instemming migrerende beroepsbeoefenaar en vergoeding van kosten
+1. Voor de toepassing van de artikelen 32, eerste lid, 34, 35 en 36 van de Wet justitiële en strafvorderlijke gegevens wordt als aanvrager aangemerkt de migrerende beroepsbeoefenaar ten aanzien van wie de verklaring omtrent het gedrag wordt gevraagd.
+2. Onze minister van Justitie stelt de migrerende beroepsbeoefenaar ten aanzien van wie de verklaring omtrent het gedrag wordt gevraagd in kennis van de aanvraag, bedoeld in artikel 34, derde lid, en vraagt zijn instemming met het in behandeling nemen van de aanvraag.
+3. Indien de migrerende beroepsbeoefenaar geen instemming verleent, bericht Onze minister van Justitie dit aan de bevoegde autoriteit van een andere betrokken staat dan Nederland die de verklaring omtrent het gedrag heeft aangevraagd.
+4. Voor het in behandeling nemen van de aanvraag tot afgifte van een verklaring omtrent het gedrag kan Onze minister van Justitie van de aanvrager, bedoeld in het eerste lid, een vergoeding van kosten verlangen. Artikel 39, tweede en vierde lid, van de Wet justitiële en strafvorderlijke gegevens is van overeenkomstige toepassing.
