@@ -21,9 +21,10 @@
 ### Titel 4.1. Beschikkingen
 #### Afdeling 4.1.1. De aanvraag
 #### Afdeling 4.1.2. De voorbereiding
-#### Afdeling 4.1.3. Beslistermijn en dwangsom bij niet tijdig beslissen
+#### Afdeling 4.1.3. Beslistermijn
 ##### § 4.1.3.1. Beslistermijn
 ##### § 4.1.3.2. Dwangsom bij niet tijdig beslissen
+##### § 4.1.3.3. Positieve fictieve beschikking bij niet tijdig beslissen
 ### Titel 4.2. Subsidies
 #### Afdeling 4.2.1. Inleidende bepalingen
 #### Afdeling 4.2.2. Het subsidieplafond
@@ -77,7 +78,7 @@
 #### Afdeling 8.2.2. Vooronderzoek
 #### Afdeling 8.2.3. Versnelde behandeling
 #### Afdeling 8.2.4. Vereenvoudigde behandeling
-#### Afdeling 8.2.4a. Beroep bij niet tijdig beslissen
+#### Afdeling 8.2.4a. Beroep bij niet tijdig handelen
 #### Afdeling 8.2.5. Onderzoek ter zitting
 #### Afdeling 8.2.6. Uitspraak
 ### Titel 8.3. Voorlopige voorziening en onmiddellijke uitspraak in de hoofdzaak

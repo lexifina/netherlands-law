@@ -37,6 +37,7 @@
 ### Titel 5. Overeenkomsten in het algemeen
 #### Afdeling 1. Algemene bepalingen
 #### Afdeling 2. Het tot stand komen van overeenkomsten
+#### Afdeling 2a. Informatie over dienstverrichters en hun diensten naar aanleiding van de dienstenrichtlijn
 #### Afdeling 3. Algemene voorwaarden
 #### Afdeling 4. Rechtsgevolgen van overeenkomsten
 #### Afdeling 5. Wederkerige overeenkomsten
