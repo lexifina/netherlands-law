@@ -1,0 +1,2 @@
+# I. Algemeen
+De voordelen uit dit Verdrag zijn niet van toepassing op lichamen of andere personen die geheel of gedeeltelijk van belasting zijn vrijgesteld uit hoofde van een bijzondere regeling krachtens de wetten of bestuurlijke praktijken van een van de Staten. Een bijzondere regeling als bedoeld in de eerste volzin van deze bepaling wordt uitsluitend als zodanig beschouwd nadat de bevoegde autoriteiten van de Staten in onderling overleg hebben besloten dat hiervan sprake is.

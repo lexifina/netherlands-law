@@ -1,0 +1,2 @@
+# II. Ad Artículos 1, 11 y 23
+Se entiende que a los efetos del presente Convenio un fondo de pensiones reconocido en uno de los Estados y cuya renta se encuentra generalmente exenta de impuesto en este Estado, será considerado como residente en este Estado. Se considerará como un fondo de pensiones reconocido, en el caso de los Países Bajos, cualquier fondo de pensiones reconocido y controlado de acuerdo a las disposiciones legales y, en el caso de México, cualquier fondo de pensiones constituido de conformidad al Artículo 28 de la Ley del Impuesto sobre la Renta mexicana.

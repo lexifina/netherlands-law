@@ -1,0 +1,2 @@
+# X. Ad artikel 10
+Niettegenstaande de bepalingen van artikel 10, tweede lid, onderdeel a, zijn, zolang een lichaam dat inwoner is van Nederland, op grond van de Wet op de vennootschapsbelasting en toekomstige wijzigingen daarop, niet aan de Nederlandse vennootschapsbelasting wordt onderworpen ter zake van dividenden ontvangen van een lichaam dat inwoner is van Mexico, de dividenden welke zijn genoemd in dit onderdeel slechts belastbaar in die Staat waarvan de ontvanger van de dividenden inwoner is.

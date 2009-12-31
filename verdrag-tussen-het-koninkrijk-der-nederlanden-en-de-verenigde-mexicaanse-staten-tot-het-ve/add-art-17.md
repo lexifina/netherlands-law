@@ -1,0 +1,2 @@
+# XVII. Ad artikel 24
+Indien na 11 oktober 2007, in een Verdrag tot het vermijden van dubbele belasting gesloten tussen Mexico en een derde Staat, Mexico instemt met een bepaling inzake arbitrage die in wezen gelijk is aan de bepaling inzake arbitrage in het OESO-modelverdrag inzake belastingen, is een dergelijke bepaling automatisch van toepassing tussen Nederland en Mexico vanaf de datum waarop het Verdrag tussen Mexico en de derde Staat in werking treedt.

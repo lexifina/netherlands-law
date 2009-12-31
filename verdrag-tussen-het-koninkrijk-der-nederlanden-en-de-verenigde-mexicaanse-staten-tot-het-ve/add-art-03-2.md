@@ -1,0 +1,2 @@
+# III. Ad Articulo 3, párrafo I, incisos b y c
+Se entiende que los términos «los Países Bajos» y «México» incluyen la zona económica exclusiva dentro de la cual los Países Bajos o México, según sea el caso, puede ejercer derechos de soberanía conforme a su legislación interna y al Derecho internacional, cuando los Países Bajos o México, de acuerdo con su legislación, hayan designado o designen dicha zona y ejerzan derechos de imposición sobre la misma.

@@ -1,0 +1,2 @@
+# XVII. Ad Artículo 24
+Si después del 11 de octubre de 2007, en cualquier convenio para evitar la doble tributación concluido por México con un tercer Estado, México acuerda una disposición relacionada con el arbitraje, que sea substancialmente similar a la disposición sobre arbitraje del Modelo de Convenio Tributario de la OCDE, dicha disposición aplicará automáticamente entre los Países Bajos y, México a partir de la fecha en que entre el vigor el convenio entre México y el tercer Estado.

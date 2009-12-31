@@ -1,0 +1,2 @@
+# XI. Ad Artículos 10, 11 y 12
+Cuando se haya impuesto un gravamen en el país de la fuente que exceda el impuesto exigible conforme a las disposiciones del Artículo 10, 11 o 12, deberán presentarse solicitudes para la devolución del monto del impuesto pagado en exceso ante las autoridades competentes del Estado que haya impuesto el gravamen, dentro de un plazo de tres años posterior a la terminación del año de calendario en el que se impuso el gravamen.

@@ -1,0 +1,2 @@
+# XV. Ad Articulo 16
+Se entiende que los términos «administrador» o «comisario», en el caso de México, o «bestuurder» o «commissaris», en el caso de los Países Bajos, significan las personas designadas como tales por la asamblea general de accionistas o por cualquier otro órgano competente de dicha sociedad y quienes están a cargo de la administración general o la supervisión de la misma, respectivamente.

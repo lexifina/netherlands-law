@@ -1,0 +1,2 @@
+# IX. Ad Artículo 9
+Se entiende que el hecho de que empresas asociadas hayan concluido arreglos tales como arreglos de costos compartidos, acuerdos generales de servicios para o basados en la distribución de gastos ejecutivos, generales de administración, técnicos y comerciales, de investigación y desarrollo, y otros gastos similares, no constituye por sí solo una condición en el sentido del párrafo 1 del Artículo 9.

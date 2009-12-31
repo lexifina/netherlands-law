@@ -1,0 +1,2 @@
+# XV. Ad artikel 16
+Het is wel verstaan dat met „bestuurder" of „commissaris", in geval van Nederland, of „administrador" of „comisario", in geval van Mexico, personen zijn bedoeld die als zodanig zijn benoemd door de algemene vergadering van aandeelhouders of door enig ander bevoegd orgaan van het lichaam en die belast zijn met de algemene leiding van het lichaam, onderscheidenlijk met het toezicht daarop.
