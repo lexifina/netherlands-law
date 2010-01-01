@@ -12,6 +12,7 @@
 ### Afdeling 2. Formele bepalingen
 ### Afdeling 3. Bijzondere verhaalsregelingen voor aansprakelijken
 ## Hoofdstuk VII. Verplichtingen ten behoeve van de invordering
+## Hoofdstuk VIIa. Bestuurlijke boeten
 ## Hoofdstuk VIII. Strafrechtelijke bepalingen
 ## Hoofdstuk IX. Aanvullende regelingen
 ## Hoofdstuk X. Slotbepalingen
