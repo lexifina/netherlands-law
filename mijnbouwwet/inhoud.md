@@ -7,6 +7,7 @@
 ### § 2.4. Wijziging, overgang en intrekking
 ### § 2.5. Bijzondere bepalingen
 ## Hoofdstuk 3. Vergunningen voor het opslaan van stoffen
+## Hoofdstuk 3a. Gebiedsverkleining
 ## Hoofdstuk 4. De zorg voor een goede uitvoering van activiteiten
 ### § 4.1. Algemene verplichtingen
 ### § 4.2. Financiële zekerheid
