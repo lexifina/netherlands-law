@@ -76,11 +76,13 @@
 ### Titel 8.2. Behandeling van het beroep
 #### Afdeling 8.2.1. Griffierecht
 #### Afdeling 8.2.2. Vooronderzoek
+#### Afdeling 8.2.2a. Bestuurlijke lus
 #### Afdeling 8.2.3. Versnelde behandeling
 #### Afdeling 8.2.4. Vereenvoudigde behandeling
 #### Afdeling 8.2.4a. Beroep bij niet tijdig handelen
 #### Afdeling 8.2.5. Onderzoek ter zitting
 #### Afdeling 8.2.6. Uitspraak
+#### Afdeling 8.2.7. Tussenuitspraak
 ### Titel 8.3. Voorlopige voorziening en onmiddellijke uitspraak in de hoofdzaak
 ### Titel 8.4. Herziening
 ## Hoofdstuk 9. Klachtbehandeling
