@@ -1,7 +1,0 @@
-# Artikel 59a
-1. Indien bij de vaststelling van de ten laste van de gemeente gebleven kosten, bedoeld in artikel 59c, blijkt, dat de ten laste van de gemeente gebleven kosten, bedoeld in artikel 58, eerste lid, in een kalenderjaar meer bedragen dan 115% van het bedrag van de uitkering, bedoeld in artikel 58, of meer dan het totaal van het bedrag van de uitkering en het bedrag dat wordt verkregen door een bedrag van € 6,81 te vermenigvuldigen met het aantal inwoners in die gemeente op 1 januari van het desbetreffende kalenderjaar, wordt door Onze Minister ten laste van 's Rijks kas aan de gemeente een aanvullende uitkering toegekend.
-2. De hoogte van de aanvullende uitkering is:
-a. gelijk aan het verschil tussen het bedrag van de ten laste van de gemeente gebleven kosten, bedoeld in artikel 58, eerste lid, en 115% van het bedrag van de uitkering, of, indien dit groter is,
-b. gelijk aan het verschil tussen het bedrag van de ten laste van de gemeente gebleven kosten, bedoeld in artikel 58, eerste lid, en het in het eerste lid bedoelde totaalbedrag.
-3. Het percentage en het met het aantal inwoners te vermenigvuldigen bedrag, bedoeld in het eerste en tweede lid, kunnen bij algemene maatregel van bestuur worden verhoogd of verlaagd.
-4. Het aantal inwoners, bedoeld in het eerste lid, wordt ontleend aan de statistiek «Bevolking der gemeenten in Nederland op 1 januari» van het Centraal Bureau voor de Statistiek.
