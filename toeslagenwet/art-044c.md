@@ -1,0 +1,2 @@
+# Artikel 44c
+Artikel 1, achtste en negende lid, is niet van toepassing indien voor de inwerkingtreding van deze artikelleden op grond van artikel 2 recht bestaat op toeslag omdat de ongehuwde toeslaggerechtigde wegens een gezamenlijke huishouding met een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind is aangemerkt als gehuwd, voor zolang dit recht op toeslag bestaat, tenzij toepassing van de genoemde artikelleden leidt tot een hogere toeslag.
