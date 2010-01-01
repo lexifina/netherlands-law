@@ -1,4 +1,0 @@
-# Inhoud
-## I
-## II
-## III
