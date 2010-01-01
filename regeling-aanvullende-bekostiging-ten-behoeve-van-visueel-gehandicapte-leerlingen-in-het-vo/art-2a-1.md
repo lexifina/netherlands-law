@@ -1,3 +1,0 @@
-# Artikel 2a.1. Toekenning aanvullende bekostiging
-1. Aan een instelling kan door een melding van het bevoegd gezag een aanvullende bekostiging voor personeelskosten worden toegekend voor een deelnemer die als direct gevolg van een visuele handicap aanvullende begeleiding nodig heeft om het onderwijs te volgen.
-2. Artikel 2.2 is van overeenkomstige toepassing, met dien verstande dat de melding voor het meldingsformulier ten behoeve van de aanvullende bekostiging voor 2006 dient te worden ingediend voor 1 februari 2006. Meldingen voor het jaar 2006 die na 1 februari 2006 zijn ingediend, worden afgewezen.
