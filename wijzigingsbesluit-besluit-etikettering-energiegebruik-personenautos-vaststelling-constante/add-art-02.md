@@ -1,0 +1,2 @@
+# Artikel II
+Voor 2010 en 2011 gelden de constanten en waarden die daartoe door de RDW zijn bekendgemaakt met inachtneming van de wijze van berekening, bedoeld in artikel I, onderdeel B, in plaats van de in 2009 vastgestelde constanten en waarden op grond van bijlage 4, onderdeel II, van het Besluit etikettering energiegebruik personenauto's zoals die luidde op het tijdstip voor de inwerkingtreding van dit besluit.
