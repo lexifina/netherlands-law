@@ -1,2 +1,0 @@
-# Artikel 65e
-Bij of krachtens algemene maatregel van bestuur kunnen nadere en zo nodig afwijkende regels worden gesteld op grond waarvan het Uitvoeringsinstituut werknemersverzekeringen op aanvraag aan de verzekerde die recht heeft op een arbeidsongeschiktheidsuitkering, in het kader van de bevordering van en ondersteuning bij de inschakeling in de arbeid als zelfstandige voorzieningen kan verstrekken.
