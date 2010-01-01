@@ -1,5 +1,0 @@
-# Artikel 9f. Het meldingsregister relatief verzuim
-1. Er is een meldingsregister relatief verzuim dat ten doel heeft burgemeester en wethouders, het hoofd, bedoeld in artikel 21a van de Leerplichtwet 1969, en het bevoegd gezag, bedoeld in artikel 8.1.8a van de Wet educatie en beroepsonderwijs, artikel 47b van de Wet op de expertisecentra en artikel 28a van de Wet op het voortgezet onderwijs, te voorzien van de gegevens die noodzakelijk zijn voor de uitvoering van hun taken inzake:
-a. het verzuim, bedoeld in artikel 21a van de Leerplichtwet 1969; en
-b. het zonder geldige reden niet meer volgen van het onderwijs of de educatie, bedoeld in artikel 8.1.8a van de Wet educatie en beroepsonderwijs, of van het onderwijs, bedoeld in artikel 47b van de Wet op de expertisecentra en artikel 28a van de Wet op het voortgezet onderwijs.
-2. Met betrekking tot de verwerking van persoonsgegevens, bedoeld in deze paragraaf, is de hoofddirectie van de Informatie Beheer Groep de verantwoordelijke in de zin van de Wet bescherming persoonsgegevens.

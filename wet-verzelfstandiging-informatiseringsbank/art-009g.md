@@ -1,5 +1,0 @@
-# Artikel 9g. Inhoud van het meldingsregister relatief verzuim
-1. In het meldingsregister relatief verzuim zijn de volgende gegevens opgenomen:
-a. de gegevens van de leerlingen en deelnemers, bedoeld in artikel 21a, eerste, tweede en zesde lid, van de Leerplichtwet 1969, artikel 8.1.8a, eerste en vijfde lid, van de Wet educatie en beroepsonderwijs, artikel 47b, eerste en vijfde lid, van de Wet op de expertisecentra en artikel 28a, eerste en vijfde lid, van de Wet op het voortgezet onderwijs.
-b. de gegevens, bedoeld in artikel 9e, elfde lid.
-2. De gegevens, bedoeld in het eerste lid, worden in het meldingsregister relatief verzuim bewaard gedurende het schooljaar waarin de kennisgeving, bedoeld in artikel 21a, eerste en tweede lid, van de Leerplichtwet 1969, of de opgave, bedoeld in artikel 8.1.8a, eerste lid, van de Wet educatie en beroepsonderwijs, artikel 47b, eerste lid, van de Wet op de expertisecentra en artikel 28a, eerste lid, van de Wet op het voortgezet onderwijs, is gedaan en het daaropvolgende schooljaar.
