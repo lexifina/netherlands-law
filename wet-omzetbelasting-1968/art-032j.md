@@ -1,0 +1,3 @@
+# Artikel 32j
+1. Indien het vermelde pro rata voor de toepassing van de aftrek overeenkomstig artikel 175 van BTW-richtlijn 2006 na de indiening van het teruggaafverzoek wordt aangepast, corrigeert de aanvrager het bedrag dat wordt teruggevraagd of dat reeds is teruggegeven.
+2. De correctie vindt plaats in een teruggaafverzoek dat gedaan wordt binnen het kalenderjaar volgend op het desbetreffende teruggaaftijdvak. Mocht de aanvrager in dat kalenderjaar geen volgend teruggaafverzoek indienen dan vindt de correctie plaats door toezending van een afzonderlijke verklaring via de door de lidstaat van vestiging ingestelde portaalsite.

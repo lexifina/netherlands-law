@@ -1,0 +1,3 @@
+# Artikel 32r
+1. Indien de betaling plaatsvindt na de laatste datum van betaling overeenkomstig artikel 32p, eerste lid, wordt aan de aanvrager rente betaald over het aan de aanvrager terug te geven bedrag. De bepalingen van de artikelen 29 en 30 van de Invorderingswet 1990 zijn ter zake van overeenkomstige toepassing als ware de rente invorderingsrente.
+2. Het eerste lid, eerste volzin, is niet van toepassing indien de aanvrager de gevraagde aanvullende of verdere aanvullende gegevens niet binnen de voorgeschreven termijn aan de inspecteur heeft verstrekt. Het eerste lid, eerste volzin, is evenmin van toepassing zolang de inspecteur de krachtens artikel 32g langs elektronische weg toe te zenden documenten niet heeft ontvangen.

@@ -1,0 +1,6 @@
+# Artikel 32n
+1. Ingeval de inspecteur meent niet alle dienstige informatie te hebben ontvangen om met betrekking tot het geheel of een deel van het teruggaafverzoek een beschikking te kunnen nemen, kan hij binnen de in artikel 32m, tweede lid, genoemde termijn van vier maanden, langs elektronische weg in het bijzonder de aanvrager of de lidstaat van vestiging om aanvullende gegevens verzoeken.
+2. Indien de aanvullende gegevens worden opgevraagd bij een andere persoon dan de aanvrager of de bevoegde autoriteiten van een lidstaat kan de inspecteur alleen langs elektronische weg om gegevens verzoeken indien de bestemmeling van het verzoek over de desbetreffende apparatuur beschikt.
+3. Zo nodig kan de inspecteur om verdere aanvullende gegevens verzoeken.
+4. De overeenkomstig de eerste tot en met vierde lid verlangde gegevens kunnen het overleggen van het origineel of een afschrift van de factuur of het invoerdocument omvatten wanneer de inspecteur op goede gronden het bestaan van een bepaalde vordering betwijfelt. In dat geval zijn de drempelnormen van artikel 32g niet van toepassing.
+5. De krachtens de vorige leden gevraagde gegevens moeten binnen een maand na ontvangst van het verzoek om informatie door de bestemmeling van het verzoek aan de inspecteur worden verstrekt.

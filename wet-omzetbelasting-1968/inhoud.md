@@ -2,6 +2,12 @@
 ## Hoofdstuk I. Inleidende bepalingen
 ## Hoofdstuk II. Heffing ter zake van leveringen en diensten
 ### Afdeling 1. Belastbaar feit
+### Afdeling 1a. Plaats van levering
+### Afdeling 1b. Plaats van een dienst
+#### Paragraaf 1. Algemene bepalingen
+#### Paragraaf 2. Bijzondere bepalingen
+#### Paragraaf 3. Voorkoming van niet-heffing
+### Afdeling 1c. Ondernemer
 ### Afdeling 2. Maatstaf en tarief van heffing
 ### Afdeling 3. Vrijstellingen
 ### Afdeling 4. Wijze van heffing
@@ -23,9 +29,17 @@
 ### Afdeling 4. Tabaksprodukten en accijnsgoederen, andere dan tabaksprodukten
 ### Afdeling 5. Regeling voor gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten
 ### Afdeling 6. Regeling voor beleggingsgoud
-### Afdeling 7. Regeling voor niet in de Gemeenschap gevestigde ondernemers die elektronische diensten verrichten aan anderen dan ondernemers die in de Gemeenschap wonen of zijn gevestigd
+### Afdeling 7. Regeling voor niet in de Gemeenschap gevestigde ondernemers die elektronische diensten verrichten aan andere dan ondernemers
 ### Afdeling 8. Regeling voor vis
-## Hoofdstuk VI. Bijzondere bepalingen
+## Hoofdstuk VI. Diverse bepalingen
+### Afdeling 1. Teruggaaf van belasting
+### Afdeling 2. Teruggaaf aan ondernemers die niet in de lidstaat van teruggaaf maar in een andere lidstaat gevestigd zijn
+#### Paragraaf 1. Algemeen
+#### Paragraaf 2. Teruggaaf van in Nederland in rekening gebrachte belasting aan ondernemers uit een andere lidstaat
+#### Paragraaf 3. Teruggaafverzoek voor in andere lidstaten aan Nederlandse ondernemers in rekening gebrachte belasting
+### Afdeling 3. Fiscaal vertegenwoordiger
+### Afdeling 4. Administratieve verplichtingen
+### Afdeling 5. Bijzondere bepalingen
 ## Hoofdstuk VII. Bestuurlijke boete
 ## Hoofdstuk VIII. Strafbepaling
 ## Hoofdstuk IX. Overgangs- en slotbepalingen

@@ -1,0 +1,3 @@
+# Artikel 33b
+1. Om in de lidstaat van teruggaaf recht te hebben op teruggaaf verricht de in Nederland gevestigde ondernemer handelingen die in Nederland een recht op aftrek doen ontstaan.
+2. Wanneer de niet in de lidstaat van teruggaaf gevestigde ondernemer in Nederland gevestigd is, en zowel handelingen verricht die in Nederland een recht op aftrek doen ontstaan, als handelingen die in Nederland geen recht op aftrek doen ontstaan, kan van het overeenkomstig artikel 33a voor teruggaaf in aanmerking komende bedrag slechts dat gedeelte van de belasting door de lidstaat van teruggaaf in aanmerking worden genomen dat overeenkomstig artikel 173 van BTW-richtlijn 2006, zoals toegepast door Nederland, aan eerstgenoemde handelingen kan worden toegerekend.

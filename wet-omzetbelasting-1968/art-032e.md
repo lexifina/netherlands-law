@@ -1,0 +1,3 @@
+# Artikel 32e
+1. Om in Nederland recht te hebben op teruggaaf verricht een niet in Nederland gevestigde ondernemer handelingen die in de lidstaat van vestiging een recht op aftrek doen ontstaan.
+2. Wanneer een niet in Nederland gevestigde ondernemer in de lidstaat waar hij gevestigd is, zowel handelingen verricht die in die lidstaat een recht op aftrek doen ontstaan, als handelingen die in die lidstaat geen recht op aftrek doen ontstaan, kan van het overeenkomstig artikel 32d voor teruggaaf in aanmerking komende bedrag slechts dat gedeelte van de belasting door Nederland worden teruggegeven dat overeenkomstig artikel 173 van BTW-richtlijn 2006, zoals toegepast door de lidstaat van vestiging, aan eerstgenoemde handelingen kan worden toegerekend.

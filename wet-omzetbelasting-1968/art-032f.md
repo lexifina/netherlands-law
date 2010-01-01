@@ -1,0 +1,5 @@
+# Artikel 32f
+1. Een niet in Nederland gevestigde ondernemer die in Nederland teruggaaf van de belasting wenst te verkrijgen, richt langs elektronische weg een teruggaafverzoek tot Nederland, dat hij indient bij zijn lidstaat van vestiging, via de door deze lidstaat ingestelde portaalsite.
+2. Het verzoek bevat alle informatie die daartoe bij ministeriële regeling is voorgeschreven overeenkomstig het bepaalde in de artikelen 8 en 9, lid 1, van Richtlijn 2008/9/EG.
+3. Bij ministeriële regeling kan worden bepaald dat de aanvrager langs elektronische weg aanvullende gegevens verstrekt met betrekking tot iedere in artikel 9, lid 1, van Richtlijn 2008/9/EG vermelde code, voor zover die gegevens noodzakelijk zijn wegens in Nederland geldende beperkingen van het recht op aftrek of voor de toepassing van een krachtens artikel 395 of 396 van BTW-richtlijn 2006 aan Nederland verleende, voor dit geval relevante afwijking.
+4. Artikel 57 van de Algemene wet inzake rijksbelastingen is niet van toepassing met betrekking tot ondernemers die een verzoek doen als bedoeld in het eerste lid.

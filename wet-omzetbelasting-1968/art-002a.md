@@ -9,9 +9,7 @@ f. nieuwe vervoermiddelen: voor het personen- of goederenvervoer bestemde schepe
 1°. na het tijdstip van eerste ingebruikneming van het landvoertuig niet meer dan zes maanden, dan wel van het schip of luchtvaartuig niet meer dan drie maanden, zijn verstreken; of
 2°. het vervoermiddel, als het een landvoertuig betreft ten hoogste 6000 km heeft afgelegd, als het een schip betreft ten hoogste 100 uren heeft gevaren, dan wel als het een luchtvaartuig betreft ten hoogste 40 uren heeft gevlogen;
 g. btw-identificatienummer: het nummer dat ingevolge artikel 214 van de BTW-richtlijn 2006 door een lid-staat aan een ondernemer of aan een rechtspersoon, andere dan ondernemer, is toegekend;
-h. intracommunautair goederenvervoer:
-1°. het vervoer van goederen waarvan de plaats van vertrek en de plaats van aankomst op het grondgebied van twee verschillende lid-staten zijn gelegen;
-2°. het vervoer van goederen waarvan de plaats van vertrek en de plaats van aankomst in dezelfde lid-staat zijn gelegen, wanneer dit vervoer rechtstreeks samenhangt met het vervoer van goederen als bedoeld onder 1°;
+h. intracommunautair goederenvervoer: het vervoer van goederen waarvan de plaats van vertrek en de plaats van aankomst op het grondgebied van twee verschillende lidstaten zijn gelegen;
 i. plaats van vertrek: de plaats waar het goederenvervoer daadwerkelijk aanvangt, zonder rekening te houden met de trajecten die worden afgelegd om zich naar de plaats te begeven waar de goederen zich bevinden;
 j. plaats van aankomst: de plaats waar het goederenvervoer daadwerkelijk eindigt;
 k. wederverkoper: de ondernemer wiens activiteiten geheel of ten dele bestaan uit de wederverkoop van gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen of antiquiteiten;
@@ -20,7 +18,7 @@ m. kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten: de bij minis
 n. gedeelte van een binnen de Gemeenschap verricht passagiersvervoer: het gedeelte van een vervoer dat, zonder tussenstop buiten de Gemeenschap, plaatsvindt tussen de plaats van vertrek en de plaats van aankomst van het vervoer van passagiers; in geval het een heen- en terugreis betreft, wordt de terugreis als een afzonderlijk vervoer beschouwd;
 o. plaats van vertrek van een vervoer van passagiers: het eerste punt in de Gemeenschap waar passagiers aan boord kunnen komen, eventueel na een tussenstop buiten de Gemeenschap;
 p. plaats van aankomst van een vervoer van passagiers: het laatste punt in de Gemeenschap waar passagiers die binnen de Gemeenschap aan boord zijn gekomen van boord kunnen gaan, eventueel vóór een tussenstop buiten de gemeenschap;
-q. elektronische diensten: langs elektronische weg verrichte diensten, onder andere de in bijlage II van de BTW-richtlijn 2006 beschreven diensten;
+q. elektronische diensten: langs elektronische weg verrichte diensten, met name de in bijlage II van de BTW-richtlijn 2006 beschreven diensten;
 r. normale waarde:
 1°. het volledige bedrag, de omzetbelasting niet daaronder begrepen, dat de afnemer van goederen of diensten, om de desbetreffende goederen of diensten op dat tijdstip te verkrijgen, in dezelfde handelsfase als waarin de goederen worden geleverd of de diensten worden verricht, op het tijdstip van die levering of van die verrichting en bij vrije mededinging daarvoor zou moeten betalen aan een zelfstandige leverancier of dienstverrichter in Nederland;
 2°. indien geen vergelijkbare levering of verrichting als bedoeld onder 1° voorhanden is:

@@ -1,0 +1,2 @@
+# Artikel 32g
+Bij ministeriële regeling kan worden bepaald dat de aanvrager, onverminderd de krachtens artikel 32n verlangde gegevens, tezamen met het teruggaafverzoek langs elektronische weg een afschrift van de factuur of het invoerdocument overlegt, wanneer de maatstaf van heffing op de factuur of het invoerdocument 1000 euro of meer beloopt. Indien de factuur betrekking heeft op brandstof, is dit drempelbedrag 250 euro.
