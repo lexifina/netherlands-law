@@ -9,7 +9,7 @@
 ### Paragraaf 6. Invordering
 ### Paragraaf 7. Overige bepalingen
 ## Hoofdstuk 3. Kwaliteit
-### Paragraaf 1. Melding en registratie
+### Paragraaf 1. Aanvraag en registratie
 ### Paragraaf 2. Eisen
 ### Paragraaf 3. Oudercommissie
 ## Hoofdstuk 4. Handhaving
