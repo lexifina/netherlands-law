@@ -1,3 +1,0 @@
-# Inhoud
-## Algemene instructie
-## Mededeling
