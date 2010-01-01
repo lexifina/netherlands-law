@@ -1,0 +1,3 @@
+# Artikel IV
+1. Uiterlijk binnen vijf jaar na het tijdstip van inwerkingtreding van artikel III, onderdeel B, van deze wet stelt de gemeenteraad een gemeentelijk rioleringsplan vast dat voldoet aan artikel 4.22, tweede lid, van de Wet milieubeheer zoals gewijzigd door deze wet.
+2. Artikel 4.22, tweede lid, onderdeel a, van de Wet milieubeheer, zoals dat luidde voor het tijdstip, bedoeld in het eerste lid, blijft, zolang de in het eerste lid genoemde termijn niet is verstreken, van toepassing op een gemeentelijk rioleringsplan, als bedoeld in artikel 4.22, eerste lid, van de Wet milieubeheer, dat uiterlijk binnen die termijn is vastgesteld en niet voldoet aan artikel 4.22, tweede lid, van de Wet milieubeheer, zoals gewijzigd door deze wet.
