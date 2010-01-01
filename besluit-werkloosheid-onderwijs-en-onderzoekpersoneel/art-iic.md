@@ -1,0 +1,3 @@
+# Artikel IIc. Overgangsrecht bij samenloop van uitkeringen
+1. Voor de betrokkene die op 31 december 1995 reeds recht heeft op een uitkering op grond van artikel II, eerste lid en daarnaast een uitkering op grond van de Werkloosheidswet of een daarmee naar aard en strekking overeenkomende regeling, waarvan de uitkering op grond van artikel II, eerste lid, met ingang van 1 januari 1996, zou moeten worden beëindigd op grond van artikel 6 wordt op 1 januari 1996 desgevraagd artikel 1 van de ministeriële regeling op grond van artikel 6, zesde lid, buiten toepassing gelaten. In dit geval is artikel 19 van toepassing.
+2. Een verzoek dient schriftelijk te worden ingediend bij de uitvoeringsorganisatie.
