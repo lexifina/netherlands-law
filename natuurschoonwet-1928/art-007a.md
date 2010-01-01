@@ -1,5 +1,5 @@
 # Artikel 7a
-1. Voor de heffing van de rechten van successie, van schenking en van overgang, geheven krachtens de Successiewet 1956en voor de toepassing van artikel 8a, worden de bezittingen en schulden van een naamloze vennootschap of van een besloten vennootschap met beperkte aansprakelijkheid als bezittingen en schulden harer gezamenlijke aandeelhouders beschouwd, indien:
+1. Voor de heffing van de schenk- en erfbelasting, geheven krachtens de Successiewet 1956en voor de toepassing van artikel 8a, worden de bezittingen en schulden van een naamloze vennootschap of van een besloten vennootschap met beperkte aansprakelijkheid als bezittingen en schulden harer gezamenlijke aandeelhouders beschouwd, indien:
 a. de werkzaamheden der naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid uitsluitend of hoofdzakelijk bestaan in de instandhouding en exploitatie van onroerende zaken als landgoederen;
 b. alle aandeelhouders natuurlijke personen zijn;
 c. het aantal aandeelhouders niet meer dan twintig bedraagt.
