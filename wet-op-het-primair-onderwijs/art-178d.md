@@ -1,5 +1,0 @@
-# Artikel 178d. Toegang minister tot basisregister onderwijs
-1. Onze minister is bevoegd het basisregister onderwijs, bedoeld in artikel 9a van de Wet verzelfstandiging Informatiseringsbank, te raadplegen ten behoeve van de vaststelling van de bekostiging van een school.
-2. Bij algemene maatregel van bestuur wordt bepaald welke gegevens als bedoeld in artikel 178a, tweede lid, Onze minister kan raadplegen tezamen met het persoonsgebonden nummer van een leerling. Bij deze algemene maatregel van bestuur wordt voorts bepaald op welke wijze en onder welke voorwaarden Onze minister het basisregister onderwijs kan raadplegen.
-3. Onze minister kan ten behoeve van de vaststelling van de bekostiging van een school het persoonsgebonden nummer van een leerling gebruiken in het verkeer met die school, al dan niet tezamen met de gegevens, bedoeld in het tweede lid.
-4. Onze minister kan ten behoeve van de uitvoering van subsidieregelingen van het Europees Sociaal Fonds het persoonsgebonden nummer van een leerling gebruiken in het verkeer met een school.

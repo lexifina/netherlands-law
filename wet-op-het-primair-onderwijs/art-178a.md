@@ -1,6 +1,6 @@
 # Artikel 178a. Gebruik persoonsgebonden nummer door bevoegd gezag
 1. Het bevoegd gezag kan het persoonsgebonden nummer van een leerling gebruiken in het verkeer met de leerling op wie het nummer betrekking heeft, of met de ouders van deze leerling.
-2. Het bevoegd gezag verstrekt het persoonsgebonden nummer van iedere leerling aan de Informatie Beheer Groep, tezamen met de volgende gegevens van de leerling:
+2. Het bevoegd gezag verstrekt het persoonsgebonden nummer van iedere leerling aan Onze minister, tezamen met de volgende gegevens van de leerling:
 a. geslacht, geboortedatum en postcode van de woonplaats;
 b. de datum van in- of uitschrijving;
 c. de groep;
@@ -17,6 +17,6 @@ l. bekostigingsindicatie.
 4. Het bevoegd gezag kan het persoonsgebonden nummer van een leerling, al dan niet tezamen met een of meer van de gegevens, bedoeld in het tweede en zevende lid, gebruiken in het verkeer met Onze minister ten behoeve van de vaststelling van de bekostiging van de school.
 5. Het bevoegd gezag en het hoofd, bedoeld in artikel 1, onder d, van de Leerplichtwet 1969, gebruiken het persoonsgebonden nummer van een leerling in contacten met een gemeente in het kader van de Leerplichtwet 1969, tezamen met de gegevens die noodzakelijk zijn voor het toezicht op de naleving van die wet door de gemeente.
 6. Het bevoegd gezag gebruikt het persoonsgebonden nummer van een leerling in het contact met een andere school of een school voor ander onderwijs ten behoeve van de in- en uitschrijving van die leerling.
-7. Indien de gegevens over de nationaliteit van de leerling niet zijn opgenomen in de gemeentelijke basisadministratie persoonsgegevens worden deze gegevens door het bevoegd gezag verstrekt aan de Informatie Beheer Groep.
+7. Indien de gegevens over de nationaliteit van de leerling niet zijn opgenomen in de gemeentelijke basisadministratie persoonsgegevens worden deze gegevens door het bevoegd gezag verstrekt aan Onze minister.
 8. Het bevoegd gezag gebruikt het persoonsgebonden nummer van een leerling in het kader van de uitvoering van subsidieregelingen van het Europees Sociaal Fonds.
 9. Het bevoegd gezag verstrekt geen persoonsgebonden nummer van een leerling ter uitvoering van artikel 107, tweede en vijfde lid, van de Vreemdelingenwet 2000.
