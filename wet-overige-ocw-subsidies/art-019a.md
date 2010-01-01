@@ -1,11 +1,12 @@
 # Artikel 19a. Onderwijsvoorzieningen voor jongeren met een handicap
-1. Het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen, heeft tot taak te bevorderen dat belemmeringen worden weggenomen die de ingezetene, bedoeld in artikel 3 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, vanwege ziekte of gebrek ondervindt bij het volgen van onderwijs, indien het een persoon betreft die:
+1. Het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in artikel 1 van de Wet structuur uitvoeringsorganisatie werk en inkomen, heeft tot taak te bevorderen dat belemmeringen worden weggenomen die de ingezetene, bedoeld in artikel 1:2 van de Wet werk en arbeidsondersteuning jonggehandicapten, vanwege ziekte of gebrek ondervindt bij het volgen van onderwijs, indien het een persoon betreft die:
 a. jonger is dan 17 jaar;
-b. studerende is als bedoeld in artikel 5 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;
-c. jonger is dan 30 jaar en uitsluitend vanwege zijn ziekte of gebrek niet kan worden aangemerkt als studerende bedoeld in artikel 5 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
-2. Het Uitvoeringsinstituut werknemersverzekeringen kan op aanvraag aan de persoon, bedoeld in het eerste lid, voorzieningen toekennen die hem in staat stellen onderwijs te volgen.
-3. Het Uitvoeringsinstituut werknemersverzekeringen kan op aanvraag van de persoon, bedoeld in het eerste lid, vervoersvoorzieningen toekennen die strekken tot verbetering van zijn leefomstandigheden en die deel uitmaken van dan wel rechtstreeks samenhangen met voorzieningen als bedoeld in het tweede lid.
-4. Onder voorzieningen als bedoeld in het tweede lid wordt niet verstaan financiering van of kinderopvangtoeslag in de kosten van kinderopvang.
-5. De artikelen 16, 33, 55, 56, 57, 58, 59 en 62 van de Wet arbeidsongeschiktheidsvoorziening jongehandicapten zijn van overeenkomstige toepassing op de toekenning van voorzieningen als bedoeld in het tweede lid.
-6. Beschikkingen op grond van artikel 2.17 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen worden na de inwerkingtreding van deze wet aangemerkt als beschikkingen op grond van deze wet.
-7. Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot dit artikel nadere regels worden gesteld.
+b. studerende is als bedoeld in artikel 1:4 van de Wet werk en arbeidsondersteuning jonggehandicapten;
+c. jonger is dan 30 jaar en uitsluitend vanwege zijn ziekte of gebrek niet kan worden aangemerkt als studerende bedoeld in artikel 1:4 van de Wet werk en arbeidsondersteuning jonggehandicapten.
+2. Het Uitvoeringsinstituut werknemersverzekeringen kan op aanvraag van degene, bedoeld in het eerste lid, toekennen:
+a. voorzieningen die hem in staat stellen onderwijs te volgen, en
+b. vervoersvoorzieningen die de leefomstandigheden van hem verbeteren en die samenhangen met de voorzieningen, bedoeld in onderdeel a.
+3. De artikelen 3:18, 3:33, 3:56, 3:57, 3:58, 3:62 en 3:74 van de Wet werk en arbeidsondersteuning jonggehandicapten zijn van overeenkomstige toepassing op voorzieningen bedoeld in het tweede lid.
+4. Het Uitvoeringsinstituut werknemersverzekeringen kan geen tegemoetkoming in de kosten van kinderopvang toekennen.
+5. Beschikkingen op grond van artikel 2.17 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen worden na de inwerkingtreding van deze wet aangemerkt als beschikkingen op grond van deze wet.
+6. Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot dit artikel nadere regels worden gesteld.
