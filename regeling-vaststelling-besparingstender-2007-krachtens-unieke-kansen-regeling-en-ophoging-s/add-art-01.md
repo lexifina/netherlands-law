@@ -1,6 +1,0 @@
-# Artikel I
-1. Als periode, bedoeld in artikel 6 van het Besluit EOS: demo en transitie-experimenten, na afloop waarvan de aanvragen om subsidie krachtens de Unieke kansen regeling, die in die periode zijn ontvangen, worden behandeld, wordt vastgesteld: de periode die aanvangt op de dag waarop deze regeling inwerking treedt en die loopt tot 13 september 2007, 17:00 uur.
-2. Het subsidieplafond, bedoeld in artikel 6 van het Besluit, voor het verlenen van subsidies op aanvragen als bedoeld in het eerste lid, ontvangen in de daar genoemde periode, wordt voor projecten die zich bevinden op de transitiepaden, genoemd in de bij de Unieke kansen regeling behorende bijlage 1, vastgesteld op € 14.100.000,–.
-3. De volgende activiteiten als bedoeld in artikel 1, tweede lid van het Besluit worden niet tot het project gerekend:
-a. activiteiten gericht op de productie van duurzame energie, afvang, transport of opslag van CO2, dan wel de productie van biobrandstoffen;
-b. activiteiten, die niet gericht zijn op energiebesparing, dat wil zeggen die niet gericht zijn op vermindering van de energiebehoefte per eenheid product of energiebehoefte per geleverde dienst of op de toepassing van restwarmte voor zover die in de huidige situatie beschikbaar is en in de nieuwe situatie nuttig wordt toegepast.
