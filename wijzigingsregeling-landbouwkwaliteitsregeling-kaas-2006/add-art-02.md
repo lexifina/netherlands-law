@@ -1,3 +1,0 @@
-# Artikel II
-1. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat de overeenkomstig de Landbouwkwaliteitsregeling kaas 2006 geproduceerde rijksmerken voor boerenkaas nog mogen worden gebruikt tot en met 31 december 2007 in welk geval de in de Landbouwkwaliteitsregeling kaas 2006 gestelde regels onverkort van toepassing zijn.
-2. Voor een goede uitvoering van het Landbouwkwaliteitsbesluit geografische aanduidingen, oorsprongsbenamingen en specificiteitscertificering en de Landbouwkwaliteitsregeling geografische aanduidingen, oorsprongsbenaming en specificiteitscertificering blijft de wettelijke controlebevoegdheid van de Stichting COKZ ten aanzien van boerenkaas bestaan.
