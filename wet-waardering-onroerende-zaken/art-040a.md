@@ -1,0 +1,4 @@
+# Artikel 40a
+1. Op verzoek kan het waardegegeven van een bepaalde onroerende zaak die in hoofdzaak tot woning dient door de in artikel 1, tweede lid, bedoelde gemeenteambtenaar worden verstrekt aan bij algemene maatregel van bestuur aan te wijzen derden die bevoegd zijn tot het gebruik van een waardegegeven ten behoeve van de bij die maatregel aan te wijzen doeleinden.
+2. De bij de in het eerste lid bedoelde algemene maatregel van bestuur aangewezen derde gebruikt een waardegegeven uitsluitend bij de uitoefening van de op grond van de bij die algemene maatregel van bestuur verleende bevoegdheid tot gebruik van dit gegeven.
+3. De bij de in het eerste lid bedoelde algemene maatregel van bestuur aangewezen derde is niet bevoegd een waardegegeven verder bekend te maken dan noodzakelijk voor de uitoefening van de hem verleende bevoegdheid.

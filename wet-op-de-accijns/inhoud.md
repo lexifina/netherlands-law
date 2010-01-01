@@ -33,4 +33,5 @@
 ## Hoofdstuk VII. Verbodsbepalingen en strafbepalingen
 ### Afdeling 1. Verbodsbepalingen
 ### Afdeling 2. Strafbepalingen
+### Afdeling 3. Bestuurlijke boete
 ## Hoofdstuk VIII. Slotbepalingen

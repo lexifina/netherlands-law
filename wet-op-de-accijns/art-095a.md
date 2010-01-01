@@ -1,0 +1,10 @@
+# Artikel 95a
+1. Ingeval er een autonome accijnsverhoging van de totale accijns van sigaretten of rooktabak plaatsvindt en er tussen de publicatiedatum van de als gevolg hiervan ontstane nieuwe accijnstarieven voor deze tabaksproducten en de ingangsdatum van deze nieuwe accijnstarieven ten minste twee maanden zijn gelegen, is het vanaf de eerste dag van de tweede kalendermaand volgend op de maand waarin de accijnsaanpassing plaatsvindt niet toegestaan dat tabaksproduct aan wederverkopers te verkopen, te koop aan te bieden of af te leveren indien de verpakking voorzien is van de vóór de ingangsdatum van de nieuwe accijnstarieven bij de uitslag en invoer voor het desbetreffende tabaksproduct voorgeschreven accijnszegel.
+2. Voor de toepassing van dit artikel wordt verstaan onder:
+a. autonome accijnsverhoging: aanpassing van de accijnstarieven, genoemd in artikel 35, die wat betreft de totale accijns tot een verhoging leidt, en die niet voortvloeit uit de artikelen 35a of 36;
+b. rooktabak: rooktabak als bedoeld in artikel 32, pijptabak niet daaronder begrepen;
+c. pijptabak: rooktabak als bedoeld in artikel 32, bestemd om te worden gerookt met een pijp.
+3. Onder een wederverkoper als bedoeld in het eerste lid wordt mede verstaan een verkoopautomaat bestemd voor de verkoop van tabaksproducten. Onder afleveren als bedoeld in het eerste lid aan een verkoopautomaat bestemd voor de verkoop van tabaksproducten wordt niet verstaan het afleveren van tabaksproducten die uit een andere verkoopautomaat van dezelfde eigenaar afkomstig zijn.
+4. Onder afleveren als bedoeld in het eerste lid wordt voor een bedrijf, waarvan het distributiecentrum en de detailhandel tot dezelfde rechtspersoon behoren, mede verstaan het afleveren door het distributiecentrum aan de detailhandel.
+5. Onder afleveren als bedoeld in het eerste lid wordt niet verstaan het retourneren van sigaretten of rooktabak door wederverkopers aan diegenen die daaraan voorafgaand deze tabaksproducten aan deze wederverkopers hebben verkocht of afgeleverd.
+6. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
