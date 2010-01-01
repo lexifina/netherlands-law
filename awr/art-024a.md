@@ -1,3 +1,5 @@
 # Artikel 24a
 1. Hij die bezwaar heeft tegen meer dan één belastingaanslag of voor bezwaar vatbare beschikking kan daartegen bezwaar maken bij één bezwaarschrift.
 2. Indien de bedragen van een belastingaanslag en van een voor bezwaar vatbare beschikking waarbij een bestuurlijke boete wordt opgelegd op één aanslagbiljet zijn vermeld, wordt een bezwaarschrift tegen de belastingaanslag geacht mede te zijn gericht tegen de boete, tenzij uit het bezwaarschrift het tegendeel blijkt.
+3. Indien artikel 30j, tweede lid, eerste volzin, van toepassing is, wordt de heffingsrente voor de toepassing van de wettelijke voorschriften over bezwaar en beroep geacht onderdeel uit te maken van de belastingaanslag.
+4. Het derde lid is van overeenkomstige toepassing met betrekking tot de revisierente, bedoeld in artikel 30i, het verzamelinkomen, bedoeld in artikel 2.18 van de Wet inkomstenbelasting 2001, en de betalingskorting, bedoeld in artikel 27a van de Invorderingswet 1990.

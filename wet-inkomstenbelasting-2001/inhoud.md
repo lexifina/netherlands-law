@@ -20,6 +20,7 @@
 ### Afdeling 3.4. Belastbaar resultaat uit overige werkzaamheden
 #### Paragraaf 3.4.1. Belastbaar resultaat uit overige werkzaamheden
 #### Paragraaf 3.4.2. Resultaat uit een werkzaamheid
+#### Paragraaf 3.4.3. Terbeschikkingstellingsvrijstelling
 ### Afdeling 3.5. Belastbare periodieke uitkeringen en verstrekkingen
 ### Afdeling 3.6. Belastbare inkomsten uit eigen woning
 ### Afdeling 3.6a. Aftrek wegens geen of geringe eigenwoningschuld
@@ -44,7 +45,8 @@
 #### Paragraaf 4.6.2. De omvang van vervreemdingsvoordelen
 ### Afdeling 4.7. Vaststellen verkrijgingsprijs
 ### Afdeling 4.8. Doorschuifregelingen
-#### Paragraaf 4.8.1. Keuze bij overgang krachtens erfrecht en huwelijksvermogensrecht
+#### Paragraaf 4.8.1. Afrekening op verzoek bij overgang krachtens huwelijksvermogensrecht
+#### Paragraaf 4.8.1a. Doorschuiving verkrijgingsprijs bij overgang krachtens huwelijksvermogensrecht en erfrecht alsmede bij overdracht krachtens schenking
 #### Paragraaf 4.8.2. Doorschuiving indien niet langer een aanmerkelijk belang aanwezig is
 #### Paragraaf 4.8.3. Doorschuiving in het kader van een aandelenfusie, juridische fusie of splitsing
 #### Paragraaf 4.8.4. Doorschuiving in het kader van een geruisloze terugkeer
@@ -76,6 +78,8 @@
 ### Afdeling 8.1. Aansluiting belasting- en premieheffing
 ### Afdeling 8.2. Elementen van de standaardheffingskorting
 ## Hoofdstuk 9. Wijze van heffing
+### Afdeling 9.1. Heffing bij wege van aanslag
+### Afdeling 9.2. Bijzondere regels
 ## Hoofdstuk 10. Aanvullende regelingen
 ### Afdeling 10.1. Indexering
 ### Afdeling 10.2. Overige aanvullende regelingen
