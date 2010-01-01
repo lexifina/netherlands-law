@@ -14,6 +14,7 @@
 #### afdeeling Tweede. Toevoeging van een raadsman
 #### afdeeling Derde. Bevoegdheden van den raadsman betreffende het verkeer met den verdachte en de kennisneming van processtukken
 ### Titel IIIA. De benadeelde partij
+### Titel IIIC. : De deskundige
 ### Titel IV. Eenige bijzondere dwangmiddelen
 #### afdeeling Eerste. Aanhouding en inverzekeringstelling
 #### afdeeling Tweede. Voorloopige hechtenis
