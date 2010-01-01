@@ -1,5 +1,0 @@
-# Artikel 30a
-In afwijking van artikel 1, aanhef en onderdelen b en c, wordt ter zake van intracommunautaire verwervingen van goederen die op grond van artikel 17b, eerste lid, in Nederland worden verricht geen belasting geheven, voor zover:
-a. de goederen zijn verworven door een ondernemer die niet in Nederland woont of is gevestigd en aldaar geen vaste inrichting heeft en aan wie een btw-identificatienummer is toegekend in een andere lid-staat;
-b. de goederen door deze ondernemer in Nederland worden geleverd aan een ondernemer die in Nederland woont of is gevestigd dan wel aldaar een vaste inrichting heeft, of aan een in Nederland gevestigd lichaam in de zin van de Algemene wet inzake rijksbelastingen, en aan welke afnemer in Nederland een btw-identificatienummer is toegekend; en
-c. de goederen rechtstreeks naar de in onderdeel b bedoelde afnemer worden verzonden of vervoerd vanuit een lid-staat die niet een btw-identificatienummer heeft toegekend aan de in onderdeel a bedoelde ondernemer.
