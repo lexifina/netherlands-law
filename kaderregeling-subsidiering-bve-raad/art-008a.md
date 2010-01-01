@@ -1,3 +1,0 @@
-# Artikel 8a. Vaststelling van de projectsubsidie
-1. Uiterlijk 1 juli van het jaar volgend op het jaar waarop de projectopdrachten betrekking hebben, dient de Bve Raad een aanvraag tot vaststelling van de projectsubsidie in. De aanvraag gaat vergezeld van de jaarrekening, bedoeld in artikel 8, derde lid, en een projectenverslag over het betreffende boekjaar.
-2. De minister stelt, na goedkeuring van de aanvraag en het projectenverslag, de projectsubsidie vast binnen dertien weken na de ontvangst van de aanvraag tot vaststelling. Indien de beschikking niet binnen dertien weken kan worden gegeven, stelt Onze Minister de Bve Raad daarvan in kennis en noemt hij daarbij een termijn waarbinnen de beschikking wel tegemoet kan worden gezien.
