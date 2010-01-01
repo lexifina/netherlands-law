@@ -1,0 +1,2 @@
+# Artikel 47e. Gegevensverstrekkingen aan en door de Sociale verzekeringsbank
+De artikelen 64 en 67 zijn van overeenkomstige toepassing voor het kosteloos verstrekken van opgaven en inlichtingen aan de Sociale verzekeringsbank die noodzakelijk zijn voor de uitvoering van de taak van de Sociale verzekeringsbank op grond van dit hoofdstuk en voor het verstrekken van gegevens door de Sociale verzekeringsbank uit de administratie voor de uitvoering van deze taak.

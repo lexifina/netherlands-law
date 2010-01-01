@@ -1,0 +1,2 @@
+# Artikel 78o. Overgangsrecht verrekening in verband met uitvoering Sociale verzekeringsbank
+Indien het college vóór de datum van inwerkingtreding van paragraaf 5.4 ten aanzien van een persoon als bedoeld in artikel 47a, eerste lid, een vordering heeft waarop artikel 78j van toepassing is en die persoon een uitkering op grond van die paragraaf ontvangt, betaalt de Sociale verzekeringsbank, zonder dat daarvoor machtiging nodig is van de belanghebbende, op verzoek van het college ter verrekening van die vordering aan dat college.

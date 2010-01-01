@@ -18,6 +18,7 @@
 ### § 5.1. De aanvraag
 ### § 5.2. Toekenning, vaststelling en betaling
 ### § 5.3. Cliëntenparticipatie
+### § 5.4. Uitvoering Sociale verzekeringsbank
 ## Hoofdstuk 6. Bevoegdheden en faciliteiten gemeenten
 ### § 6.1. Vorm bijstand
 ### § 6.2. Onderzoek, opschorten en herzien

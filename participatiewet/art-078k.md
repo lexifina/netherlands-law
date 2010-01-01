@@ -1,0 +1,5 @@
+# Artikel 78k. Overgang krediethypotheek in verband met uitvoering Sociale verzekeringsbank
+1. Rechten en verplichtingen die voortvloeien uit een door het college vóór de datum van inwerkingtreding van paragraaf 5.4 verstrekte geldlening of borgtocht op grond van artikel 48, 50 en 78c aan een persoon als bedoeld in artikel 47a, eerste lid, die na die datum wordt voortgezet, gaan over op de Sociale verzekeringsbank.
+2. Vermogensbestanddelen die voortvloeien uit een geldlening als bedoeld in het eerste lid gaan met ingang van de datum van inwerkingtreding van paragraaf 5.4 over op de Sociale verzekeringsbank, zonder dat daarvoor een akte of betekening nodig is.
+3. Met betrekking tot de ingevolge het tweede lid overgaande vermogensbestanddelen die in openbare registers te boek zijn gesteld, zal verandering van de tenaamstelling in die registers plaatsvinden door de bewaarders van die registers. De daartoe benodigde opgaven worden door de zorg van Onze Minister aan de bewaarders van de desbetreffende registers gedaan.
+4. Terzake van de in het tweede lid bedoelde overgang van vermogensbestanddelen blijft heffing van overdrachtsbelasting achterwege.

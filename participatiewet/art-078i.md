@@ -1,0 +1,4 @@
+# Artikel 78i. Overgang besluiten in verband met uitvoering Sociale verzekeringsbank
+1. Een besluit van het college tot verlening van algemene bijstand aan een persoon als bedoeld in artikel 47a, eerste lid, dat is genomen vóór de datum van inwerkingtreding van paragraaf 5.4, geldt met ingang van die datum als genomen door de Sociale verzekeringsbank op grond van paragraaf 5.4.
+2. De toepassing van paragraaf 6.5 in relatie tot besluiten als bedoeld in het eerste lid gaat na de datum van inwerkingtreding van paragraaf 5.4 over op de Sociale verzekeringsbank.
+3. Een tot het college gericht verzoek door een persoon als bedoeld in artikel 47a, eerste lid, om een besluit te nemen, waarop op de datum van inwerkingtreding van paragraaf 5.4 nog niet is beslist, geldt met ingang van die datum als te zijn gericht tot de Sociale verzekeringsbank.

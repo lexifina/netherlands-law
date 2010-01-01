@@ -1,0 +1,3 @@
+# Artikel 78j. Overgangsrecht vorderingen in verband met uitvoering Sociale verzekeringsbank
+1. Het college dat vóór de datum van inwerkingtreding van paragraaf 5.4 ten aanzien van een persoon als bedoeld in artikel 47a, eerste lid, een vordering heeft in verband met terugvordering of verhaal van kosten van bijstand anders dan in verband met het recht op algemene bijstand, waarop artikel 78i van toepassing is, blijft, indien die vordering nog niet geheel is voldaan, bevoegd die vordering te innen.
+2. Het eerste lid is van overeenkomstige toepassing ten aanzien van een vóór de datum van inwerkingtreding van paragraaf 5.4 verstrekte geldlening of borgtocht op grond van artikel 48, 50 en 78c aan een persoon als bedoeld in artikel 47a, eerste lid.
