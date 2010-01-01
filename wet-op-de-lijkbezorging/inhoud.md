@@ -2,7 +2,7 @@
 ## Hoofdstuk I. Algemene bepalingen
 ## Hoofdstuk II. Algemene voorschriften voor de lijkbezorging
 ### § 1. Lijkschouwing en identificatie
-### § 2. Verlof tot begraving of verbranding
+### § 2. Verlof tot begraving of crematie
 ### § 3. Termijn
 ### § 4. Voorziening in de lijkbezorging
 ### § 5. Overheidszorg
@@ -11,7 +11,7 @@
 ### § 2. Gemeentelijke begraafplaatsen
 ### § 3. Bijzondere begraafplaatsen
 ### § 4. Sluiting en opheffing van begraafplaatsen
-## Hoofdstuk IV. Verbranding
+## Hoofdstuk IV. Crematie
 ### Afdeling 1. Algemene bepalingen
 ### Afdeling 2. Crematoria
 ### Afdeling 3. Berging, bestemming en bewaring van as
