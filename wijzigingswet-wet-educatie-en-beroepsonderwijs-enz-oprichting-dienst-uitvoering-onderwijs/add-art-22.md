@@ -1,0 +1,4 @@
+# Artikel XXII
+1. De artikelen 12, 14, eerste, derde en vierde lid, en 19 van de Wet verzelfstandiging Informatiseringsbank, zoals deze luidden voor de inwerkingtreding van deze wet, blijven van toepassing voor het laatste boekjaar voorafgaand aan de inwerkingtreding van deze wet, met dien verstande dat de verplichtingen die voor de Informatie Beheer Groep of haar hoofddirectie voortvloeien uit de genoemde artikelen worden overgenomen door Onze Minister van Onderwijs, Cultuur en Wetenschap.
+2. De Raad van Toezicht, bedoeld in artikel 5 van de Wet verzelfstandiging Informatiseringsbank, blijft bestaan in zijn samenstelling van voor de inwerkingtreding van deze wet voor zover noodzakelijk voor de uitvoering van het eerste lid.
+3. Nadat de Raad van Toezicht zijn werkzaamheden, bedoeld in het eerste lid, heeft beëindigd, wordt aan de leden door Onze Minister van Onderwijs, Cultuur en Wetenschap eervol ontslag verleend.
