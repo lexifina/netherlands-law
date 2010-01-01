@@ -51,6 +51,7 @@
 ##### § 8.1.3.3. Gevallen waarin afvalstoffen op een bepaalde wijze nuttig worden toegepast of worden verwijderd
 ### Titel 8.2. Algemene regels
 ### Titel 8.3. Regels met betrekking tot gesloten stortplaatsen en gesloten afvalvoorzieningen
+### Titel 8.4. Regels met betrekking tot plaatsing van stortplaatsen op een lijst
 ## Hoofdstuk 9. Stoffen en produkten
 ### Titel 9.2. Stoffen, preparaten en genetisch gemodificeerde organismen
 #### § 9.2.1. Algemeen
