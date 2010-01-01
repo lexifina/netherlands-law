@@ -1,0 +1,2 @@
+# Artikel XIV
+Indien vóór het tijdstip waarop artikel XIII in werking treedt een certificaat is afgegeven als bedoeld in artikel 3, onderdeel e, van de Wet belasting zware motorrijtuigen zoals dit luidde vóór bedoeld tijdstip, waarvoor op dat tijdstip het in het certificaat opgenomen tijdvak nog niet is verstreken, blijft de regelgeving met betrekking tot dit certificaat, zoals die luidde voorafgaand aan dat tijdstip, van toepassing.
