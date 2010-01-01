@@ -1,0 +1,2 @@
+# Artikel IV
+Het bepaalde bij of krachtens de artikelen 7, eerste lid, en 31, tweede lid, van de Wet inburgering zoals die bepalingen luidden vóór het tijdstip van inwerkingtreding van artikel I, onderdelen C en Ia, van deze wet, blijft van toepassing ten aanzien van de termijnen voor het behalen van het inburgeringsexamen die vóór dat tijdstip zijn aangevangen, respectievelijk ten aanzien van de verlenging van die termijnen.
