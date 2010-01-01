@@ -1,5 +1,5 @@
 # Artikel 26b
-In afwijking van de artikelen 20, 20a en 26 bedraagt de belasting 52% van het loon ingeval:
+In afwijking van de artikelen 20, 20a, 20b en 26 bedraagt de belasting 52% van het loon ingeval:
 a. de werknemer zijn naam, adres, woonplaats of burgerservicenummer of, bij het ontbreken daarvan, zijn sociaal-fiscaalnummer niet aan de inhoudingsplichtige heeft verstrekt;
 b. bij een werknemer die loon uit tegenwoordige dienstbetrekking geniet, de inhoudingsplichtige zijn identiteit niet heeft vastgesteld en opgenomen in de loonadministratie overeenkomstig artikel 28, onderdeel e;
 c. bij een werknemer die loon uit tegenwoordige dienstbetrekking geniet, vreemdeling is in de zin van de Vreemdelingenwet 2000 en niet behoort tot de categorie werknemers die op grond van overeenkomsten van internationaal recht is uitgezonderd van de verplichting tot het hebben van een geldige verblijfsvergunning als bedoeld in die wet en een geldige tewerkstellingsvergunning als bedoeld in de Wet arbeid vreemdelingen, de inhoudingsplichtige zijn verblijfsrechtelijke positie ter zake van het verrichten van arbeid niet heeft vastgesteld en opgenomen in de loonadministratie overeenkomstig artikel 28, onderdeel e;

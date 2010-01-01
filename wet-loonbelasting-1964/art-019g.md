@@ -7,7 +7,7 @@ b. inhoudt dat een voorziening in geld kan worden opgebouwd, met dien verstande 
 4. Als kredietinstelling, onderscheidenlijk verzekeraar of beheerder van een beleggingsinstelling als bedoeld in het derde lid kunnen optreden:
 a. financiële ondernemingen die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van bank mogen uitoefenen, mits zij de verplichtingen ingevolge de levensloopregeling voor de heffing van de vennootschapsbelasting rekenen tot het binnenlandse ondernemingsvermogen;
 b. financiële ondernemingen die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van verzekeraar mogen uitoefenen, mits zij de verplichtingen ingevolge de levensloopregeling rekenen tot het binnenlandse ondernemingsvermogen;
-c. beheerders van beleggingsinstellingen aan wie een vergunning is verleend ingevolge de Wet toezicht beleggingsinstellingen en die zijn gevestigd in Nederland;
+c. financiële ondernemingen aan wie een vergunning is verleend ingevolge de Wet op het financieel toezicht om in Nederland het bedrijf van beleggingsinstelling uit te oefenen, en die zijn gevestigd in Nederland;
 d. een ander lichaam dan bedoeld in de onderdelen a, b en c dat voldoet aan door onze Minister te stellen voorwaarden.
 5. Een werknemer kan in een kalenderjaar niet zowel een voorziening ingevolge een levensloopregeling opbouwen als sparen ingevolge een spaarloonregeling als bedoeld in artikel 32.
 6. Indien op enig tijdstip:
