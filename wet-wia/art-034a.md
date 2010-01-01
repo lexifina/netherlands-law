@@ -1,0 +1,7 @@
+# Artikel 34a. Voorzieningen ter ondersteuning van toeleiding naar arbeid als zelfstandige
+1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld op grond waarvan het UWV op aanvraag van de persoon met een naar het oordeel van het UWV structurele functionele beperking, die arbeid als zelfstandige verricht of gaat verrichten, in het kader van de bevordering van de inschakeling in en ondersteuning bij de arbeid als zelfstandige, voorzieningen kan verstrekken.
+2. Voorzieningen als bedoeld in het eerste lid worden uitsluitend verstrekt in verband met een naar het oordeel van het UWV structurele functionele beperking die het gevolg is van een ziekte of handicap die:
+a. bij de aanvang van de arbeid als zelfstandige aanwezig was, of
+b. binnen drie jaar na de aanvang van de arbeid als zelfstandige is ontstaan, indien bij de aanvang van de arbeid als zelfstandige reeds een ziekte of handicap aanwezig was.
+3. Voorzieningen als bedoeld in het eerste lid worden niet verstrekt of worden beëindigd indien het inkomen van de persoon die arbeid als zelfstandige verricht, na een bij algemene maatregel van bestuur te bepalen aantal kalenderjaren na de aanvang van de arbeid als zelfstandige, meer bedraagt dan een bij die maatregel vast te stellen bedrag. Bij of krachtens die maatregel wordt tevens bepaald wat onder inkomen als bedoeld in de eerste zin wordt verstaan.
+4. Dit artikel is niet van toepassing op de persoon die recht op arbeidsondersteuning heeft op grond van de Wet werk en arbeidsondersteuning jonggehandicapten.
