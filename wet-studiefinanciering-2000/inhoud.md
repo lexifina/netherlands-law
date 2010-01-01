@@ -30,6 +30,7 @@
 ### Paragraaf 5.7. Omzetting bij bijzondere omstandigheden
 ### Paragraaf 5.8. Tenietgaan rente
 ## Hoofdstuk 6. Opbouw en terugbetaling studieschuld
+### Paragraaf 6.1. Algemeen
 ## Hoofdstuk 7. Herziening
 ## Hoofdstuk 8. Uitbetaling, verrekening en invordering
 ## Hoofdstuk 9. Toezicht en sancties
@@ -38,6 +39,7 @@
 ### Paragraaf 9.3. Administratieve sanctie
 ### Paragraaf 9.4. Strafbepalingen
 ## Hoofdstuk 10. Hoger onderwijs; tempobeurs
+## Hoofdstuk 10a. Opbouw en terugbetaling studieschuld; «oude» debiteuren
 ## Hoofdstuk 11. Overige bepalingen
 ## Hoofdstuk 12. Overgangsbepalingen
 ## Hoofdstuk 13. Wijzigingen in andere wetten
