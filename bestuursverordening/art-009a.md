@@ -1,0 +1,2 @@
+# Artikel 9a
+Het bestuur publiceert alle beslissingen van de Raden van Tucht voor registeraccountants en Accountants-Administratieconsulenten die op grond van artikel 52 van de Wet tuchtrechtspraak accountants worden genomen voor zover zij betrekking hebben op tegen registeraccountants gerezen bezwaren. Indien tegen een beslissing beroep is ingesteld waarop ten tijde van de publicatie nog geen uitspraak is gedaan, wordt dit bij de publicatie vermeld.
