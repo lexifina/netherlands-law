@@ -1,0 +1,2 @@
+# Artikel II
+De Aanwijzingsregeling boeteopleggers arbeidstijden vervoer zoals die luidde voor 1 januari 2010, blijft van toepassing op het opleggen en afwikkelen van bestuurlijke boeten, die een gevolg zijn van overtredingen die voor genoemde datum zijn geconstateerd door de daartoe op grond van de Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving aangewezen ambtenaren.
