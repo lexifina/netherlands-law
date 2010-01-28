@@ -1,0 +1,3 @@
+# Artikel 1a
+1. Het hoofd bedrijfsvoering van de directie Organisatie en Bedrijfsvoering is gemachtigd om namens de Minister van Landbouw, Natuur en Voedselkwaliteit, te beslissen en stukken te ondertekenen betreffende het sluiten van overeenkomsten voor uitgaven van materiële aard, voor zover deze een bedrag van € 100.000,– niet te boven gaan.
+2. De overige leden van het managementteam van de directie Organisatie en Bedrijfsvoering en de directeur Kasteel Groeneveld zijn gemachtigd om namens de Minister van Landbouw, Natuur Voedselkwaliteit, te beslissen en stukken te ondertekenen betreffende het sluiten van overeenkomsten voor uitgaven van materiële aard, voor zover deze een bedrag van € 50.000,– niet te boven gaan.
