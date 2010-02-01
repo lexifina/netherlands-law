@@ -1,0 +1,2 @@
+# Artikel 341a
+Hij die, om het handels- of bedrijfsdebiet van zichzelve of van een ander te vestigen, te behouden of uit te breiden, enige bedrieglijke handeling pleegt tot misleiding van het publiek of van een bepaald persoon, wordt, indien daaruit enig nadeel voor concurrenten van hem of van dien ander kan ontstaan, gestraft met gevangenisstraf van ten hoogste een jaar of een geldboete van ten hoogste negenhonderd gulden.
