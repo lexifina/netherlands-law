@@ -1,0 +1,2 @@
+# Artikel 10 bis. Gevoelige informatie in een verzoek
+Indien de verzoekende Staat overweegt bijzonder gevoelige informatie over te leggen ter ondersteuning van zijn uitleveringsverzoek, kan hij de aangezochte Staat raadplegen om na te gaan in hoeverre de informatie door de aangezochte Staat kan worden beschermd. Indien de aangezochte Staat de informatie niet overeenkomstig de wensen van de verzoekende Staat kan beschermen, bepaalt de verzoekende Staat of de informatie desondanks wordt overgelegd.
