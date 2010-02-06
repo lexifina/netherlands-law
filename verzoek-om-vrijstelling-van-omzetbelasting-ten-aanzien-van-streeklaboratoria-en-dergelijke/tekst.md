@@ -1,5 +1,0 @@
-# Tekst
-De directeur-generaal Belastingdienst heeft namens de staatssecretaris van Financien het volgende besloten.
-Op grond van het bepaalde in paragraaf 85, nr. 4a, van de Leidraad omzetbelasting 1954 werden laboratoria, welke zijn aangewezen als streeklaboratorium voor de volksgezondheid, niet in de heffing van omzetbelasting betrokken in gevallen waarin zij op kosten van het Rijk onderzoekingen verrichten ter herkenning en opsporing van bepaalde ernstige de volksgezondheid bedreigende ziekten.
-Ten aanzien van door streeklaboratoria voor de volksgezondheid en andere laboratoria verrichte onderzoekingen, welke in tegenstelling met bovenvermelde onderzoekingen uitsluitend rechtstreeks verband houden met de behandeling van zieke mensen door artsen, kon heffing van omzetbelasting mede achterwege blijven.
-Het ontmoet bij mij voorshands geen bezwaar dat in vorenbedoelde gevallen ook onder de werking van de Wet op de omzetbelasting 1968 heffing van omzetbelasting achterwege blijft, mits de desbetreffende voorbelasting niet wordt afgetrokken.
