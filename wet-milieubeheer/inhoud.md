@@ -114,15 +114,21 @@
 ## Hoofdstuk 16. Handel in emissierechten
 ### Titel 16.1. Algemeen
 ### Titel 16.2. Broeikasgassen en broeikasgasemissierechten
-#### Afdeling 16.2.1. Algemeen
-#### Afdeling 16.2.2. Vergunning
-#### Afdeling 16.2.3. Het toewijzen en verlenen van broeikasgasemissierechten en het gebruik van emissiereductie-eenheden en gecertificeerde emissiereducties
-##### § 16.2.3.1. Het nationale toewijzingsplan
-##### § 16.2.3.2. Het nationale toewijzingsbesluit, overige toewijzingsbesluiten en de verlening van broeikasgasemissierechten
-#### Afdeling 16.2.4. De geldigheid van broeikasgasemissierechten, het inleveren van broeikasgasemissierechten, emissie-reductie-eenheden en gecertificeerde emissiereducties, het annuleren van broeikasgasemissierechten en het compenseren van emissies in een ander kalenderjaar
-#### Afdeling 16.2.5. De overgang van broeikasgasemissierechten, emissiereductie-eenheden en gecertificeerde emissiereducties
-#### Afdeling 16.2.6. Registratie van broeikasgasemissierechten, emissiereductie-eenheden en gecertificeerde emissiereducties
-#### Afdeling 16.2.7. Instemming met deelname aan projectactiviteiten
+#### Afdeling 16.2.1. Inrichtingen
+##### Paragraaf 16.2.1.1. Algemeen
+##### Paragraaf 16.2.1.2. Vergunning
+##### Paragraaf 16.2.1.3. Het toewijzen en verlenen van broeikasgasemissierechten en het gebruik van emissiereductie-eenheden en gecertificeerde emissiereducties
+###### Subparagraaf 16.2.1.3.1. Het nationale toewijzingsplan
+###### Subparagraaf 16.2.1.3.2. Het nationale toewijzingsbesluit, overige toewijzingsbesluiten en de verlening van broeikasgasemissierechten
+##### Paragraaf 16.2.1.4. De geldigheid van broeikasgasemissierechten, het inleveren van broeikasgasemissierechten, emissiereductie-eenheden en gecertificeerde emissiereducties, het annuleren van broeikasgasemissierechten en het compenseren van emissies in een ander kalenderjaar
+#### Afdeling 16.2.2. Luchtvaartactiviteiten
+##### Paragraaf 16.2.2.1. Algemeen
+##### Paragraaf 16.2.2.2. Monitoring en verslaglegging
+##### Paragraaf 16.2.2.3. Het toewijzen en verlenen van broeikasgasemissierechten
+##### Paragraaf 16.2.2.4. De geldigheid van broeikasgasemissierechten, het inleveren van broeikasgasemissierechten, emissiereductie-eenheden en gecertificeerde emissiereducties, het annuleren van broeikasgasemissierechten en het compenseren van emissies in een ander kalenderjaar
+#### Afdeling 16.2.3. De overgang van broeikasgasemissierechten, emissiereductie-eenheden en gecertificeerde emissiereducties
+#### Afdeling 16.2.4. Registratie van broeikasgasemissierechten, emissiereductie-eenheden en gecertificeerde emissiereducties
+#### Afdeling 16.2.5. Instemming met deelname aan projectactiviteiten
 ### Titel 16.3. Stikstofoxiden en NOx-emissierechten
 #### Afdeling 16.3.1. Algemeen
 #### Afdeling 16.3.2. Vergunning
