@@ -35,7 +35,7 @@
 #### § 5. Beroep en herziening
 ### Hoofdstuk 19. Overgangsbepalingen
 #### Bepalingen van administratieve aard
-## afdeling Vijfde. Leden van gedeputeerde staten en wethouders
+## afdeling Vijfde. Commissarissen van de Koning, gedeputeerden, burgemeesters, wethouders en bestuurders van waterschappen
 ### Hoofdstuk 20. Algemene bepalingen
 ### Hoofdstuk 21. De uitkering
 #### Het recht op uitkering
@@ -46,7 +46,6 @@
 #### Betaling
 #### Einde en verval van de uitkering
 #### Uitkering bij overlijden
-#### Vervanging
 ### Hoofdstuk 22. Het eigen pensioen
 ### Hoofdstuk 23. Het nabestaanden- en wezenpensioen
 #### § 1. Het recht op pensioen

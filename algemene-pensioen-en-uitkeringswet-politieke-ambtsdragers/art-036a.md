@@ -1,0 +1,3 @@
+# Artikel 36a
+1. De artikelen 7, derde en vierde lid, en 7a tot en met 7c zijn niet van toepassing ter zake van een ontslag of aftreden dat is ingegaan vóór de datum van inwerkingtreding van die bepalingen. In dat geval wordt in artikel 7, eerste lid, voor «vier jaren» gelezen: zes jaren.
+2. Ten aanzien van de belanghebbende die op het tijdstip van inwerkingtreding van de artikelen 7a tot en met 7c het ambt van minister vervult en geen ambt bekleedt in het na de eerstvolgende verkiezing voor de leden van de Tweede Kamer aantredende kabinet, zijn de artikelen 7a tot en met 7c niet van toepassing. In dat geval wordt in artikel 7, eerste lid, voor «vier jaren» gelezen: zes jaren.
