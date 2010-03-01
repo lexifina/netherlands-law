@@ -1,0 +1,4 @@
+# Artikel VI
+1. Met ingang van de datum waarop het bevoegd gezag van een instelling toepassing heeft gegeven aan artikel V, eerste lid, eerste volzin, wordt het deel van de voordien bestaande medezeggenschapsraad dat uit en door de deelnemers is gekozen dan wel de desbetreffende geledingenraad aangemerkt als deelnemersraad, bedoeld in artikel 8a.1.2 van de Wet educatie en beroepsonderwijs.
+2. Binnen drie maanden na de datum, bedoeld in het eerste lid, legt het bevoegd gezag een reglement voor de raad als voorstel voor aan de deelnemersraad. Deze termijn kan met instemming van de deelnemersraad worden verlengd. Artikel 8a.3.1 van de Wet educatie en beroepsonderwijs is van toepassing.
+3. Binnen drie maanden na de datum, bedoeld in het eerste lid, legt het bevoegd gezag een medezeggenschapsstatuut als voorstel voor aan de deelnemersraad en de ondernemingsraad. Deze termijn kan met instemming van de deelnemersraad en de ondernemingsraad worden verlengd.
