@@ -58,6 +58,12 @@
 ### Titel 2. Vooropleidingseisen
 ### Titel 3. Bestrijding voortijdig schoolverlaten niet-leerplichtigen
 ### Titel 4. Samenwerking in verband met leer-werktrajecten vmbo en assistentopleiding in het vmbo
+## Hoofdstuk 8a. Medezeggenschap van deelnemers en ouders; landelijke geschillencommissie medezeggenschap
+### Titel 1. Algemene bepalingen
+### Titel 2. Bevoegdheden van de deelnemersraad
+### Titel 3. Reglement deelnemersraad
+### Titel 4. Geschillenregeling en procesbevoegdheid
+### Titel 5. Afwijkingen
 ## Hoofdstuk 9. Het bestuur
 ### Titel 1. De instellingen voor educatie en beroepsonderwijs
 #### § 1. Bevoegd gezag; bestuursoverdracht
