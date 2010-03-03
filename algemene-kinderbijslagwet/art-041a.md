@@ -1,0 +1,2 @@
+# Artikel 41a
+Artikel 7, zoals dat artikel luidde op de dag voorafgaande aan de inwerkingtreding van artikel I, onderdeel C, van de Wet van 4 februari 2010 tot wijziging van de Algemene Kinderbijslagwet en de Algemene nabestaandenwet in verband met aanpassing aan de invoering van een kwalificatieplicht in de Leerplichtwet 1969 en het aanbrengen van een aantal vereenvoudigingen in de Algemene Kinderbijslagwet alsmede enkele andere aanpassingen van die wet (Stb. 74) blijft van toepassing op het kind, dat op 1 oktober 2009 de leeftijd van 16 jaar heeft bereikt.
