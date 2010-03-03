@@ -1,0 +1,3 @@
+# Artikel 13b
+1. De ambtenaar, bedoeld in artikel 13a, eerste lid, aan wie ontslag wordt verleend met recht op dadelijk ingaand pensioen, behoudt de aanspraak op een tegemoetkoming in huur- of rentekosten ingevolge artikel 13a, eerste lid, indien overigens aan de voorwaarden is voldaan.
+2. De ambtenaar, bedoeld in artikel 13a, eerste lid, aan wie twee jaren of langer na zijn verhuizing ontslag wordt verleend met recht op een uitkering ingevolge de Wet uitkering wegens vrijwillig vervroegd uittreden dan wel die anders dan op eigen verzoek en niet wegens aan hem te wijten feiten of omstandigheden wordt ontslagen, behoudt de aanspraak op een tegemoetkoming in huur- of rentekosten ingevolge artikel 13a, eerste lid, indien overigens aan de voorwaarden is voldaan.
