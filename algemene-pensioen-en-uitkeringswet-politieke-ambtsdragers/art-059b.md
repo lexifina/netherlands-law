@@ -3,4 +3,4 @@
 2. Voor de toepassing van dit artikel wordt mede als echtgenoot aangemerkt degene die voor de toepassing van de Algemene Ouderdomswet als echtgenoot van het gepensioneerde kamerlid wordt aangemerkt.
 3. De in het eerste lid bedoeld toeslag bedraagt voor elk voor de berekening van het pensioen meetellend jaar binnen de samenlopende kalendertijd 0,525 percent van de franchise bedoeld in artikel 59a, derde lid, onder a.
 4. De toeslag wordt slechts toegekend op verzoek en gaat in op de dag waarop de in het eerste lid bedoelde omstandigheid is opgetreden, met dien verstande dat de toeslag niet vroeger ingaat dan een jaar voor de eerste dag van de maand waarin het verzoek is ingediend.
-5. Voor de toepassing van artikel 105 en van hoofdstuk 5 wordt de toeslag ingevolge dit artikel niet onder pensioen begrepen.
+5. Voor de toepassing van hoofdstuk 5 wordt de toeslag ingevolge dit artikel niet onder pensioen begrepen.
