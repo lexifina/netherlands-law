@@ -1,0 +1,6 @@
+# Artikel 66b
+1. Onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen wordt vrijstelling van accijns verleend ter zake van de uitslag tot verbruik van accijnsgoederen uit een accijnsgoederenplaats, gelegen op een luchthaven of op een haventerrein, die worden meegevoerd in de persoonlijke bagage van reizigers die zich door de lucht of over zee naar een derdelandsgebied of een derde land begeven.
+2. De vrijstelling, bedoeld in het eerste lid, is mede van toepassing met betrekking tot de accijnsgoederen die aan boord van een luchtvaartuig of schip worden geleverd tijdens een vlucht of overtocht naar een derdelandsgebied of een derde land.
+3. Voor de toepassing van dit artikel wordt onder reiziger die zich naar een derdelandsgebied of derde land begeeft, verstaan: iedere passagier die in het bezit is van een bewijs van vervoer door de lucht of over zee, waarop als definitieve bestemming een in een derdelandsgebied of derde land gelegen luchthaven of haven is vermeld.
+4. In afwijking van artikel 74 kunnen tabaksproducten worden opgeslagen in een accijnsgoederenplaats van waaruit de in het eerste lid bedoelde uitslag tot verbruik plaatsvindt.
+5. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
