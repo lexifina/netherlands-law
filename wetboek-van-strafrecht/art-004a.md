@@ -1,3 +1,3 @@
 # Artikel 4a
 1. De Nederlandse strafwet is toepasselijk op ieder tegen wie de strafvervolging door Nederland van een vreemde staat is overgenomen op grond van een verdrag waaruit de bevoegdheid tot strafvervolging voor Nederland volgt.
-2. De Nederlandse strafwet is voorts toepasselijk op ieder wiens uitlevering of overlevering ter zake van een terroristisch misdrijf dan wel een der misdrijven omschreven in de artikelen 225, derde lid, 311, eerste lid, onder 6°, 312, tweede lid, onder 5°, alsmede 317, derde lid, jo. 312, tweede lid, onder 5°, ontoelaatbaar is verklaard, is afgewezen of geweigerd.
+2. De Nederlandse strafwet is voorts toepasselijk op ieder wiens uitlevering of overlevering ter zake van een terroristisch misdrijf dan wel een misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf, ontoelaatbaar is verklaard, is afgewezen of geweigerd.

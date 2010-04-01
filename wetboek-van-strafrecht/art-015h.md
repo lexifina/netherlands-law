@@ -5,7 +5,5 @@
 4. De veroordeelde wordt door de rechter-commissaris gehoord. De artikelen 40 en 191 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing. De raadsman is bevoegd bij het onderzoek tegenwoordig te zijn en van de daarop betrekking hebbende stukken kennis te nemen.
 5. Indien de rechter-commissaris de vordering van het openbaar ministerie toewijst, beveelt hij de schorsing van de voorwaardelijke invrijheidstelling. Indien hij de vordering afwijst, beveelt hij de hervatting van de voorwaardelijke invrijheidstelling van de veroordeelde.
 6. Het openbaar ministerie stelt de veroordeelde onverwijld schriftelijk in kennis van de beslissing van de rechter-commissaris.
-7. De termijn van de schorsing eindigt van rechtswege:
-a. met ingang van het tijdstip waarop de duur van de vrijheidsbeneming gelijk wordt aan de duur van de periode waarover voorwaardelijke invrijheidstelling is verleend;
-b. met ingang van het tijdstip van de beslissing van de rechtbank over de herroeping van de voorwaardelijke invrijheidstelling, bedoeld in artikel 15j.
+7. De termijn van de schorsing eindigt van rechtswege met ingang van het tijdstip waarop de duur van de vrijheidsbeneming gelijk wordt aan de duur van de periode waarover voorwaardelijke invrijheidstelling is verleend.
 8. Het bevel tot schorsing van de voorwaardelijke invrijheidstelling kan door de rechtbank worden opgeheven. Zij kan dit ambtshalve doen, op verzoek van de veroordeelde of op vordering van het openbaar ministerie.
