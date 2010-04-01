@@ -1,0 +1,2 @@
+# Artikel VIII
+De artikelen 3b, eerste lid, derde en vijfde volzin, 3d, eerste lid, derde volzin, en 3g, vijfde lid, tweede volzin, van de Uitvoeringswet huurprijzen woonruimte, zoals die luidt na de inwerkingtreding van deze wet, zijn niet van toepassing voor het voor de eerste maal benoemen van de voorzitter, de plaatsvervangend voorzitter, de zittingsvoorzitters, onderscheidenlijk de zittingsleden.
