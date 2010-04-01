@@ -1,0 +1,2 @@
+# Artikel II
+Het openbaar register, bedoeld in artikel 9 van de Uitvoeringsregeling huurprijzen woonruimte, zoals die geldt met ingang van het tijdstip waarop de wet van 23 december 2009 tot wijziging van de Uitvoeringswet huurprijzen woonruimte (instelling van een landelijke huurcommissie) (Stb. 2010, 28) in werking treedt, bevat tevens de gegevens zoals die zijn opgenomen in het openbaar register, bedoeld in artikel 9 van de Uitvoeringsregeling huurprijzen woonruimte, zoals die gold vóór dat tijdstip.
