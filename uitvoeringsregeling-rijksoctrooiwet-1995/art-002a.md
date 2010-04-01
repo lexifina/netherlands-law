@@ -1,2 +1,0 @@
-# Artikel 2a
-Op een aanvraag als bedoeld in artikel 2, derde lid, zijn niet van toepassing de artikelen 4, onderdelen a, uitgezonderd het voorschrift de beschrijving op formaat A4 (29,7 × 21 cm) te plaatsen, b en c, 5, onderdelen a, uitgezonderd het voorschrift de tekening op formaat A4 (29,7 × 21 cm) te plaatsen, b en c, en 6, onderdeel a, uitgezonderd het voorschrift het uittreksel op formaat A4 (29,7 × 21 cm) te plaatsen.
