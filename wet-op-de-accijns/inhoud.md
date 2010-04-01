@@ -12,10 +12,10 @@
 ### Afdeling 6. Minerale oliën
 ### Afdeling 7. Tabaksprodukten
 ### Afdeling 8. Alcoholgehalte en volume
-## Hoofdstuk III. Uitslag
+## Hoofdstuk III. Uitslag tot verbruik
 ### Afdeling 1. Accijnsgoederenplaats
 ### Afdeling 2. Vergunning voor een accijnsgoederenplaats
-### Afdeling 2a. Geregistreerde bedrijven en niet-geregistreerde bedrijven
+### Afdeling 2a. Geregistreerde geadresseerde en geregistreerde afzender
 ### Afdeling 2b. Verkopen op afstand
 ### Afdeling 3. Wijze van heffing en voldoening
 ### Afdeling 4. Zekerheid
