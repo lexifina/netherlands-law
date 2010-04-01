@@ -2,9 +2,10 @@
 ## Hoofdstuk I. Algemeen
 ### § 1. Begripsomschrijvingen
 ### § 2. Reikwijdte
-## Hoofdstuk II. Huurcommissies en hun taak
-### § 1. Taken huurcommissie
-### § 2. Aan de Staat verschuldigde vergoeding
+## Hoofdstuk II. Instelling, inrichting, samenstelling en taken van de huurcommissie
+### § 1. Instelling, inrichting en samenstelling van de huurcommissie
+### § 2. Taken van de huurcommissie
+### § 3. Aan de Staat verschuldigde vergoeding
 ## Hoofdstuk III. Toetsingscriteria en uitspraken huurcommissie
 ### § 1. Algemeen
 ### § 2. Aanvangshuurprijs
@@ -16,8 +17,9 @@
 ### § 8. De betalingsverplichting met betrekking tot de servicekosten
 ### § 9. Het voorschotbedrag van de servicekosten
 ## Hoofdstuk IV. Voorzittersuitspraken
-## Hoofdstuk V. Samenstelling, inrichting, werkwijze van en toezicht op de huurcommissie
-### § 1. Samenstelling en inrichting van de huurcommissie
-### § 2. Werkwijze van de huurcommissie
-### § 3. Toezicht op de huurcommissies
+## Hoofdstuk V. Werkwijze van de huurcommissie
+### § 1. Algemene bepalingen
+### § 2. De voorbereiding van de zitting
+### § 3. De zitting
+### § 4. De uitspraak en verdere bepalingen
 ## Hoofdstuk VI. Overgangs- en slotbepalingen
