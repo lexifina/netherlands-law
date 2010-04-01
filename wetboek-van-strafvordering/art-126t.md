@@ -1,5 +1,5 @@
 # Artikel 126t
-1. In een geval als bedoeld in artikel 126o, eerste lid, kan de officier van justitie, indien het onderzoek dit dringend vordert, aan een opsporingsambtenaar bevelen dat met een technisch hulpmiddel niet voor het publiek bestemde communicatie die plaatsvindt met gebruikmaking van de diensten van een aanbieder van een communicatiedienst in de zin van artikel 126la, wordt opgenomen.
+1. In een geval als bedoeld in artikel 126o, eerste lid, kan de officier van justitie, indien het onderzoek dit dringend vordert, aan een opsporingsambtenaar bevelen dat met een technisch hulpmiddel niet voor het publiek bestemde communicatie die plaatsvindt met gebruikmaking van de diensten van een aanbieder van een communicatiedienst in de zin van artikel 126la, en waaraan een persoon deelneemt ten aanzien van wie uit feiten of omstandigheden een redelijk vermoeden voortvloeit dat deze betrokken is bij het in het georganiseerd verband beramen of plegen van misdrijven, wordt opgenomen.
 2. Het bevel is schriftelijk en vermeldt:
 a. een omschrijving van het georganiseerd verband;
 b. de feiten en omstandigheden waaruit blijkt dat de voorwaarden, bedoeld in het eerste lid, zijn vervuld;

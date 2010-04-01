@@ -4,8 +4,8 @@
 3. De burgemeester bedient zich bij de uitvoering van het in het eerste lid bedoelde besluit van de onder zijn gezag staande politie.
 4. De aanwezigheid van camera's als bedoeld in het eerste lid is op duidelijke wijze kenbaar voor een ieder die de desbetreffende openbare plaats betreedt.
 5. Met de camera's worden uitsluitend beelden gemaakt van een openbare plaats als bedoeld in artikel 1 van de Wet openbare manifestaties en andere bij verordening aan te wijzen plaatsen die voor een ieder toegankelijk zijn.
-6. De met de camera's gemaakte beelden mogen in het belang van de handhaving van de openbare orde worden vastgelegd en gedurende ten hoogste vier weken worden bewaard.
-7. De vastgelegde beelden, bedoeld in het zesde lid, vormen een tijdelijk register in de zin van de Wet politieregisters. Met inachtneming van artikel 13, zevende lid, van de Wet politieregisters kunnen uit dat register gegevens worden verstrekt ten behoeve van de opsporing van een gepleegd strafbaar feit.
+6. De met de camera's gemaakte beelden mogen in het belang van de handhaving van de openbare orde worden vastgelegd.
+7. De verwerking van de gegevens, bedoeld in het zesde lid, is een verwerking als bedoeld in de Wet politiegegevens, met dien verstande dat, in afwijking van het bepaalde in artikel 8 van die wet, de vastgelegde beelden na ten hoogste vier weken worden vernietigd en de gegevens, bedoeld in het zesde lid, indien er concrete aanleiding bestaat te vermoeden dat die gegevens noodzakelijk zijn voor de opsporing van een strafbaar feit, ten behoeve van de opsporing van dat strafbare feit kunnen worden verwerkt.
 8. Bij of krachtens algemene maatregel van bestuur worden met het oog op de goede uitvoering van het toezicht, bedoeld in het eerste lid, regels gesteld omtrent:
 a. de vaste camera's en andere technische hulpmiddelen benodigd voor het toezicht, bedoeld in het eerste lid, en de wijze waarop deze hulpmiddelen worden aangebracht;
 b. de personen belast met of anderszins direct betrokken bij de uitvoering van het toezicht; en
