@@ -1,0 +1,2 @@
+# Artikel III
+In het geval een of meer scholen voor voortgezet onderwijs van verschillende bevoegde gezagsorganen worden samengevoegd na 1 oktober 2004, waarbij één of meer scholen worden opgeheven, dienen de bevoegde gezagsorganen die zijn betrokken bij die samenvoeging onderling afspraken te maken hoe met het overgangsbudget wordt omgegaan. De eerste volzin is van overeenkomstige toepassing bij een splitsing.

@@ -1,0 +1,6 @@
+# Artikel I
+1. Op grond van het fictief berekend bekostigingsbudget voor het schooljaar 2005-2006 en van het fictief berekend bekostigingsbudget voor het kalenderjaar 2005 wordt bepaald of sprake is van een voor- of achteruitgang in bekostiging van een bevoegd gezag als gevolg van de vereenvoudiging bekostiging VO op grond van de overgangsregeling in artikel IV, eerste tot en met derde lid, van de Wet van 6 juli 2004 tot wijziging van de Wet op het voortgezet onderwijs in verband met onder meer vereenvoudiging van de bekostigingsbepalingen (Stb. 2005, 14).
+2. De fictieve berekeningen, bedoeld in het eerste lid, vinden plaats per school van het bevoegd gezag op basis van het aantal bekostigde leerlingen op 1 oktober 2004 dat is vermeld op de overzichten, bedoeld in artikel 14a, eerste lid, van het Bekostigingsbesluit W.V.O.
+3. De voor- of achteruitgang in bekostiging wordt per bevoegd gezag éénmalig vastgesteld.
+4. De vermeerdering bij achteruitgang in bekostiging onderscheidenlijk de vermindering bij vooruitgang in bekostiging vindt plaats bij die school van een bevoegd gezag die gelet op het leerlingenaantal per 1 oktober 2004 is aan te merken als de grootste school.
+5. De vermeerderingen en verminderingen vinden in 2006 plaats volgens het betaalritme van de reguliere bekostiging.
