@@ -1,6 +1,7 @@
 # Inhoud
 ## Hoofdstuk 1. Algemene bepalingen
 ### Titel 1. Definities en taakomschrijving
+### Titel 1a. Ruimte voor innovatie
 ### Titel 2. De instellingen
 #### Paragraaf 1. Bekostigde instellingen voor hoger onderwijs
 #### Paragraaf 2. Aangewezen instellingen voor hoger onderwijs
@@ -127,4 +128,5 @@
 ### Titel 6. Wet van 2 juli 2003 (Stb. 287)
 ### Titel 7. Wet van 24 juni 2004 (Stb. 321)
 ### Titel 10. Wet van 14 juni 2007 (Stb. 254)
+### Titel 11. Wet van 4 februari 2010 (Stb. 119)
 ## Hoofdstuk 19. Slotbepalingen
