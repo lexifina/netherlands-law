@@ -1,0 +1,3 @@
+# XIV. Ad Article 25
+1. The provisions of Article 25 shall apply accordingly to information that is relevant for carrying out the income-related regulations under the laws of the Netherlands by the authorities of the Netherlands concerned with the implementation, administration or enforcement of these income-related regulations.
+2. Any information received under paragraph 1 of this Article in connection with Article 25 of this Convention, shall be used only for the purpose of the determination and levying of the contributions and the determination and granting of the benefits under the income related regulations as meant in paragraph 1.

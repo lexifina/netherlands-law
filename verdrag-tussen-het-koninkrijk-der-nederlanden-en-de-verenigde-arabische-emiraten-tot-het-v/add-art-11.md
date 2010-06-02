@@ -1,0 +1,3 @@
+# XI. Ad Articles 10 and 13
+1. It is understood that income received in connection with the (partial) liquidation of a company or a purchase of own shares by a company is treated as income from shares and not as capital gains.
+2. The provisions of paragraphs 1, 2 and 8 of Article 10 and paragraph 4 of Article 13 of this Convention shall not prevent the Netherlands from applying its national legislation in case a so-called preserving tax assessment ("conserverende aanslag") has been issued to an individual insofar it concerns a substantial interest, according to Netherlands tax legislation, in a company which is resident in the Netherlands. The aforementioned shall only apply insofar the assessment or a part of the assessment is still outstanding.

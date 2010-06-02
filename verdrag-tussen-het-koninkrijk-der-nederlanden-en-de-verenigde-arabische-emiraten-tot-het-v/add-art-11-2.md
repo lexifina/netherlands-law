@@ -1,0 +1,3 @@
+# XI. Ad artikelen 10 en 13
+1. Het is wel te verstaan dat inkomsten die worden ontvangen in verband met de (gedeeltelijke) liquidatie van een lichaam of een inkoop van eigen aandelen door een lichaam worden behandeld als inkomsten uit aandelen en niet als vermogenswinsten.
+2. De bepalingen van artikel 10, eerste, tweede en achtste lid, en artikel 13, vierde lid, van dit Verdrag belet Nederland niet zijn nationale wetgeving toe te passen indien aan een natuurlijke persoon een zogenoemde conserverende aanslag is opgelegd, voorzover het overeenkomstig de Nederlandse wetgeving een aanmerkelijk belang betreft in een in Nederland gevestigd lichaam. Het voorgaande is uitsluitend van toepassing voorzover de hele aanslag of een deel ervan nog openstaat.

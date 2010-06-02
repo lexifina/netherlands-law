@@ -1,0 +1,3 @@
+# XIV. Ad artikel 25
+1. De bepalingen van artikel 25 zijn van dienovereenkomstige toepassing op inlichtingen die relevant zijn voor het uitvoeren van inkomensgerelateerde voorschriften uit hoofde van de Nederlandse wetgeving door de Nederlandse autoriteiten die belast zijn met de implementatie, administratie of tenuitvoerlegging van deze inkomensgerelateerde voorschriften.
+2. Alle inlichtingen die uit hoofde van het eerste lid van dit artikel juncto artikel 25 van dit Verdrag worden ontvangen, worden uitsluitend gebruikt ten behoeve van de vaststelling en heffing van de bijdragen en de vaststelling en toewijzing van de voordelen uit hoofde van de inkomensgerelateerde voorschriften bedoeld in het eerste lid.
