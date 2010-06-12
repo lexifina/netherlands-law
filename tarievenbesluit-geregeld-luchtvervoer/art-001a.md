@@ -1,0 +1,2 @@
+# Artikel 1a
+Voor tarieven die worden berekend door communautaire, Zweedse en Noorse luchtvaartmaatschappijen voor luchtdiensten tussen een luchthaven in Nederland en een luchthaven gelegen in een andere Lid-Staat van de Europese Gemeenschap, in het Koninkrijk Zweden of in het Koninkrijk Noorwegen geldt het bepaalde in de verordening (EEG) nr. 2409/92 van de Raad van de Europese Gemeenschappen van 23 juli 1992 inzake tarieven voor luchtdiensten (PbEG L 240/15).
