@@ -8,7 +8,7 @@
 #### § 1. De samenstelling
 #### § 2. De verkiezing
 #### § 3. De zittingsduur, het begin van het lidmaatschap en de plaatsvervanging
-#### § 4. Bijzondere bepalingen in verband met de instelling van een waterschap tijdens de gewone zittingsperiode
+#### § 4. Bijzondere bepalingen in verband met de instelling van een waterschap tijdens de zittingsperiode
 #### § 5. De inrichting
 ### Hoofdstuk V. Het dagelijks bestuur
 #### § 1. De samenstelling
