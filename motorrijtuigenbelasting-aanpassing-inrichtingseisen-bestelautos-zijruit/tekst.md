@@ -1,6 +1,0 @@
-# Tekst
-De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.
-Met ingang van 1 januari 2002 is inwerking getreden artikel V van de Wet van 14 december 2001 tot wijziging van belastingwetten c.a. (Belastingplan 2002-III Natuur, milieu en vervoer) (Stb. 642). Dit artikel strekt tot wijziging van enkele artikelen van de Wet op de motorrijtuigenbelasting 1994 (Wet MRB).
-Artikel 3, derde lid, van de Wet MRB is aangepast. Vanaf 1 januari 2002 is het toegestaan om de laadruimte van kleine en middelgrote bestelauto's waaronder auto's met een dubbele cabine te voorzien van één aan de rechterzijde van de laadruimte aangebrachte zijruit. (Grote bestelauto's mochten altijd al ruiten hebben in de laadruimte).
-Vanuit de praktijk is gevraagd aan welke eisen deze rechterzijruit moet voldoen.
-Uit de tekst van artikel 3 van de Wet MRB blijkt dat het gaat om één (1) zijruit. Voor het overige, zoals aan de plaats en de afmetingen van de zijruit, zijn geen nadere eisen gesteld. Dit betekent dat het een vaste zijruit mag zijn als ook een zijruit die kan worden geopend. Ruiten in het rechter achterzijportier die door een spijltje zijn gescheiden, worden als één ruit aangemerkt. Eén of meerdere ramen die al dan niet kunnen schuiven en die zijn geplaatst in één frame worden eveneens aangemerkt als één ruit.
