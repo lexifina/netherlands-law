@@ -1,0 +1,2 @@
+# Artikel 2a
+Voor een textielartikel als bedoeld in artikel 1, eerste lid, onder c, dat behoort tot de categorie vloerbedekkingen of tapijt, waarvan de grondlaag en de gebruikslaag uit ten opzichte van elkaar verschillende textielvezels is samengesteld, en voor een textielartikel als bedoeld in artikel 1, tweede lid, onder d, moet tevens de aanduiding "gebruikslaag", voorafgaande aan de in artikel 2 bedoelde aanduiding, worden gebezigd.
