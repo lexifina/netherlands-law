@@ -1,0 +1,5 @@
+# Artikel 151h
+1. Indien de uitslag van het onderzoek als bedoeld in artikel 151e, eerste lid, negatief is, kan de officier van justitie in het belang van het onderzoek na een periode van drie tot zes maanden na de eerste test opnieuw aan de verdachte verzoeken celmateriaal af te staan. Als de verdachte zijn medewerking weigert, kan het bevel tot medewerking slechts worden gegeven na schriftelijke machtiging van de rechter-commissaris op vordering van de officier van justitie.
+2. Indien de verdachte zijn medewerking aan dit onderzoek weigert, kan de officier van justitie zijn aanhouding bevelen. Artikel 55, tweede lid, en artikel 151e, derde en vierde lid, zijn van overeenkomstige toepassing. Zodra het monster is afgenomen, maar uiterlijk binnen zes uur na aanhouding, wordt de verdachte in vrijheid gesteld.
+3. Artikel 151f, tweede tot en met vierde lid, is van overeenkomstige toepassing.
+4. Bij of krachtens algemene maatregel van bestuur worden nadere regels omtrent de uitvoering van dit artikel gegeven.
