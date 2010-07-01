@@ -1,5 +1,5 @@
 # Artikel 117b
-1. De statuten kunnen bepalen dat stemmen die voorafgaand aan de algemene vergadering via een elektronisch communicatiemiddel worden uitgebracht gelijk worden gesteld met stemmen die ten tijde van de vergadering worden uitgebracht. Deze stemmen worden niet eerder uitgebracht dan op de in het derde lid bedoelde uiterste dag van registratie.
+1. De statuten kunnen bepalen dat stemmen die voorafgaand aan de algemene vergadering via een elektronisch communicatiemiddel of bij brief worden uitgebracht gelijk worden gesteld met stemmen die ten tijde van de vergadering worden uitgebracht. Deze stemmen worden niet eerder uitgebracht dan op de in het derde lid bedoelde dag van registratie.
 2. Voor de toepassing van lid 1 hebben als stem- of vergadergerechtigde te gelden zij die op een bij de bijeenroeping van een algemene vergadering te bepalen tijdstip die rechten hebben en als zodanig zijn ingeschreven in een door het bestuur aangewezen register, ongeacht wie ten tijde van de algemene vergadering de rechthebbenden op de aandelen zijn.
-3. De uiterste dag van de registratie mag niet vroeger worden gesteld dan op de dertigste dag voor die van de vergadering.
+3. De dag van registratie is de achtentwintigste dag voor die van de vergadering.
 4. Bij de oproeping wordt de dag van de registratie vermeld, alsmede de wijze waarop de stem- of vergadergerechtigden zich kunnen laten registreren en de wijze waarop zij hun rechten kunnen uitoefenen.
