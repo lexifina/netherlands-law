@@ -1,0 +1,2 @@
+# Artikel VII
+De archiefbescheiden van de raad voor rechtsbijstand, bedoeld in artikel 2, eerste lid, van de Wet op de rechtsbijstand zoals dat luidde vóór de inwerkingtreding van artikel I, onderdeel B, van deze wet, worden overgedragen aan de in artikel 2, eerste lid, van de Wet op de rechtsbijstand bedoelde raad, voor zover zij niet overeenkomstig de Archiefwet 1995 zijn overgebracht naar een archiefbewaarplaats.

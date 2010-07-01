@@ -1,0 +1,4 @@
+# Artikel VI
+1. Alle zaken, vermogensrechten, overige rechten en verplichtingen van de raad voor rechtsbijstand, bedoeld in artikel 2, eerste lid, van de Wet op de rechtsbijstand zoals dat luidde vóór de inwerkingtreding van artikel I, onderdeel B, van deze wet, worden toebedeeld aan de in artikel 2, eerste lid, van de Wet op de rechtsbijstand bedoelde raad.
+2. In geval krachtens het eerste lid registergoederen overgaan, doet Onze Minister van Financiën de overgang van die registergoederen onverwijld inschrijven in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek. Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek is niet van toepassing.
+3. Ter zake van de vermogensoverdracht krachtens het eerste lid blijft de heffing van overdrachtsbelasting achterwege.
