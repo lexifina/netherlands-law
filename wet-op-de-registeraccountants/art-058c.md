@@ -1,0 +1,2 @@
+# Artikel 58c
+Onze Minister van Financiën kan bepalen dat degene, die is ingeschreven in het accountantsregister, bedoeld in artikel 55 en die een opleidings- of beroepstitel of een afkorting daarvan voert, waartoe hij op grond van een wettelijke regeling van een andere Staat dan Nederland is gerechtigd, bij het voeren van die titel of afkorting tevens de naam en de plaats van vestiging van de instelling of examencommissie, die deze titel heeft verleend, moet vermelden.

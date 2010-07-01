@@ -1,0 +1,2 @@
+# Artikel 22a
+Indien de Orde haar taken vervult met betrekking tot registeraccountants die werkzaamheden verrichten als externe accountant als bedoeld in artikel 1, onderdeel e, van de Wet toezicht accountantsorganisaties, werkt de Orde, voor zover noodzakelijk ten behoeve van de uitoefening van het toezicht ingevolge de Wet toezicht accountantsorganisaties, samen met de Stichting Autoriteit Financiële Markten. In de daartoe voorkomende gevallen pleegt de Orde overleg met de Stichting Autoriteit Financiële Markten.
