@@ -124,7 +124,7 @@
 ### Titel IIA. Berechting van verdachten bij wie een gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens wordt vermoed
 ### Titel IIB. Rechtsplegingen in verband met de terbeschikkingstelling en de plaatsing in een psychiatrisch ziekenhuis
 #### afdeling Eerste. Inleidende bepalingen
-#### afdeling Tweede. Toepassing van de artikelen 38b, 38c, 38i of 38k van het Wetboek van Strafrecht
+#### afdeling Tweede. Toepassing van de artikelen 38b, 38c, 38i, 38k of 38la, zesde lid, van het Wetboek van Strafrecht
 #### afdeling Derde. Verlenging van de terbeschikkingstelling
 #### afdeling Vierde. Beroep
 ### TITEL IIC. Rechtsplegingen in verband met de plaatsing in een inrichting voor stelselmatige daders
