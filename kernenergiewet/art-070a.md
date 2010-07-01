@@ -1,0 +1,2 @@
+# Artikel 70a
+Op een overeenkomst, gesloten door de eigenaar van een inrichting als bedoeld in artikel 15, onder b, waarin kernenergie kan worden vrijgemaakt, met de Staat der Nederlanden, die verband houdt met die inrichting, is artikel 252 van Boek 6 van het Burgerlijk Wetboek van overeenkomstige toepassing, met dien verstande dat de in dat artikel bedoelde rechtsgevolgen mede zullen gelden voor verplichtingen van eerstgenoemde partij om ten aanzien van die inrichting iets te doen.
