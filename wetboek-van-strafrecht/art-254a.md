@@ -1,0 +1,3 @@
+# Artikel 254a
+1. Met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft degene die een afbeelding – of een gegevensdrager, bevattende een afbeelding – van een ontuchtige handeling, waarbij een mens en een dier zijn betrokken of schijnbaar zijn betrokken, verspreidt, openlijk tentoonstelt, vervaardigt, invoert, doorvoert, uitvoert of in bezit heeft.
+2. Met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie wordt gestraft degene die van het plegen van een van de misdrijven, omschreven in het eerste lid, een beroep of een gewoonte maakt.
