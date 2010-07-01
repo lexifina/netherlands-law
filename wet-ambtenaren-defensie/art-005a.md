@@ -1,3 +1,2 @@
 # Artikel 5a
-1. Alvorens zijn ambt te aanvaarden, legt het militaire lid de eden of verklaring en beloften af die voor rechterlijke ambtenaren zijn voorgeschreven.
-2. De beëdiging geschiedt ten overstaan van de president.
+Artikel 66, vijfde lid, van de Wet op de rechterlijke organisatie is van overeenkomstige toepassing ten aanzien van een militair lid.

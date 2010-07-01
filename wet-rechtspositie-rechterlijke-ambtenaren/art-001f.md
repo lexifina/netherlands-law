@@ -1,2 +1,0 @@
-# Artikel 1f
-Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de benoemingsprocedure ten aanzien van de procureur-generaal, de plaatsvervangend procureur-generaal en de advocaten-generaal bij de Hoge Raad, de procureurs-generaal die het College van procureurs-generaal vormen, de advocaten-generaal bij de ressortsparketten alsmede de officieren van justitie bij de arrondissementsparketten, het landelijk parket en het functioneel parket.

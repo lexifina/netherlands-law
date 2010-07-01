@@ -1,0 +1,5 @@
+# Artikel 5b
+1. In geval van benoeming van een rechterlijk ambtenaar in een bij een gerechtshof of rechtbank te vervullen ambt als bedoeld in de artikelen 2, eerste en vijfde lid, en 3, vierde lid, wordt bij besluit van de Raad voor de rechtspraak, overeenkomstig de aanbeveling van het betrokken gerechtsbestuur, vastgesteld bij welk gerechtshof of welke rechtbank dat ambt door hem wordt vervuld.
+2. In geval van benoeming van een rechterlijk ambtenaar in een bij een tot het openbaar ministerie behorend parket te vervullen ambt als bedoeld in de artikelen 2, tweede en derde lid, en 3, eerste tot en met derde lid, wordt bij besluit van Onze Minister vastgesteld bij welk parket dat ambt door hem wordt vervuld.
+3. Het tweede lid is niet van toepassing in geval van een benoeming in het ambt van procureur-generaal.
+4. Wijziging op verzoek van de betrokken rechterlijk ambtenaar van de vaststelling van het gerechtshof of de rechtbank onderscheidenlijk het parket waarbij een ambt als bedoeld in het eerste onderscheidenlijk tweede lid wordt vervuld, geschiedt eveneens bij besluit van de Raad voor de rechtspraak onderscheidenlijk Onze Minister.
