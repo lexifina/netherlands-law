@@ -143,6 +143,7 @@
 ### Titel 14. Van rechtspleging in zaken betreffende de verbindendverklaring van overeenkomsten strekkende tot collectieve schadeafwikkeling
 ### Titel 15. Van rechtspleging in zaken betreffende rechten van intellectuele eigendom
 ### Titel 16. Van rechtspleging in pachtzaken
+### Titel 17. Van rechtspleging in deelgeschillen betreffende letsel- en overlijdensschade
 ## Boek Vierde. Arbitrage
 ### titel Eerste. Arbitrage in Nederland
 #### afdeling Eerste. De overeenkomst tot arbitrage en de benoeming tot arbiter
