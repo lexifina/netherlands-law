@@ -1,0 +1,3 @@
+# Artikel 1019ij
+1. De rechter kan, op verzoek van partijen of van een van hen dan wel ambtshalve, een verschijning van partijen bevelen teneinde een schikking te beproeven of tot het geven van inlichtingen aan de rechter. Artikel 87, tweede en derde lid, en artikel 88, tweede lid, derde lid, eerste, tweede en derde zin, en vierde lid, zijn van overeenkomstige toepassing.
+2. Bij een verschijning van partijen ter terechtzitting kan ook de vraag hoe partijen verder zullen trachten een vaststellingsovereenkomst te bereiken, of de verdere wijze van behandeling van geschillen over de vordering, worden besproken. Artikel 191, tweede lid, tweede en derde zin, is van toepassing.

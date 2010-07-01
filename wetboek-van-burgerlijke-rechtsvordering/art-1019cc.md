@@ -1,0 +1,6 @@
+# Artikel 1019cc
+1. Voor zover in de beschikking uitdrukkelijk en zonder voorbehoud is beslist op een of meer geschilpunten tussen partijen betreffende hun materiële rechtsverhouding, is de rechter daaraan in de procedure ten principale op dezelfde wijze gebonden als wanneer de beslissing zou zijn opgenomen in een tussenvonnis in die procedure.
+2. Indien de beschikking tevens een veroordeling van een der partijen inhoudt, komt aan die veroordeling in de procedure ten principale geen verdergaande betekenis toe dan wanneer zij zou zijn opgenomen in een tussen partijen gewezen vonnis in kort geding.
+3. In de procedure ten principale kan van de beschikking, voor zover zij beslissingen als bedoeld in het eerste lid bevat, bij het gerechtshof hoger beroep worden ingesteld als van een tussenvonnis:
+a. binnen drie maanden, te rekenen van de eerste roldatum, dan wel, indien de beschikking nadien is gegeven, binnen drie maanden, te rekenen van de dag van de uitspraak van de beschikking, met dien verstande dat de appellant, binnen de grenzen van artikel 332, in het hoger beroep slechts ontvankelijk zal zijn, indien de rechter in eerste aanleg deze mogelijkheid heeft geopend op een daartoe binnen dezelfde termijn door een der partijen gedaan verzoek, waarover de wederpartij is gehoord;
+b. tegelijk met het hoger beroep van het eindvonnis.
