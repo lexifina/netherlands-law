@@ -1,0 +1,2 @@
+# Artikel VI
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld met uitzondering van artikel I, onderdeel Ea, onder 2, dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en terugwerkt tot en met 1 juli 2008.
