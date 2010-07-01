@@ -1,0 +1,2 @@
+# Artikel 3a
+Indien de NOvAA haar taken vervult met betrekking tot Accountants-Administratieconsulenten die werkzaamheden verrichten als externe accountant als bedoeld in artikel 1, onderdeel e, van de Wet toezicht accountantsorganisaties, werkt de NOvAA, voor zover noodzakelijk ten behoeve van de uitoefening van het toezicht ingevolge de Wet toezicht accountantsorganisaties, samen met de Stichting Autoriteit Financiële Markten. In de daartoe voorkomende gevallen pleegt de NOvAA overleg met de Stichting Autoriteit Financiële Markten.

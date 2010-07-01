@@ -1,0 +1,2 @@
+# Artikel 3c
+De NOvAA kan, in afwijking van artikel 2:5 van de Algemene wet bestuursrecht, vertrouwelijke gegevens of inlichtingen verkregen bij de vervulling van de haar ingevolge artikel 2, derde lid, tweede volzin, van deze wet opgedragen taak, verstrekken aan de accountantskamer, bedoeld in artikel 31, tweede lid, van de Wet toezicht accountantsorganisaties en, in hoger beroep, aan het College van Beroep voor het bedrijfsleven.
