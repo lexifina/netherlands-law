@@ -4,7 +4,7 @@
 ### § 1.2. De provinciale milieuverordening
 ## Hoofdstuk 2. Adviesorganen
 ### § 2.1. De Nederlandse emissieautoriteit
-### § 2.2. De Commissie voor de milieu-effectrapportage
+### § 2.2. De Commissie voor de milieueffectrapportage
 ### § 2.3. De Commissie genetische modificatie
 ### § 2.4. De provinciale milieucommissie
 ## Hoofdstuk 3. Internationale zaken
@@ -29,18 +29,19 @@
 #### § 5.2.5. Beoordeling van de luchtkwaliteit
 #### § 5.2.6. Handhaving en internationale samenwerking
 ## Hoofdstuk 6. Milieuzonering
-## Hoofdstuk 7. Milieu-effectrapportage
+## Hoofdstuk 7. Milieueffectrapportage
 ### § 7.1. Algemeen
-### § 7.2. Plannen en besluiten ten aanzien waarvan het maken van een milieu-effectrapport verplicht is
-### § 7.3. Procedurevoorschriften met betrekking tot besluiten die zijn aangewezen krachtens artikel 7.2, vierde lid
-### § 7.4. Het milieu-effectrapport
-### § 7.4a. De voorbereiding van een milieu-effectrapport dat betrekking heeft op een plan
-### § 7.5. De voorbereiding van een milieu-effectrapport dat betrekking heeft op een besluit
-### § 7.6. De beoordeling van een milieu-effectrapport dat betrekking heeft op een besluit
-### § 7.6a. Het plan
-### § 7.7. Het besluit
-### § 7.8. Activiteiten met mogelijke grensoverschrijdende milieugevolgen
-### § 7.9. Evaluatie
+### § 7.2. Plannen en besluiten ten aanzien waarvan het maken van een milieueffectrapport verplicht is
+### § 7.3. Het milieueffectrapport dat betrekking heeft op een plan
+### § 7.4. De voorbereiding van een milieueffectrapport dat betrekking heeft op een plan
+### § 7.5. Het plan
+### § 7.6. Besluiten ten aanzien waarvan moet worden beoordeeld of een milieueffectrapport moet worden gemaakt
+### § 7.7. Het milieueffectrapport dat betrekking heeft op een besluit
+### § 7.8. De voorbereiding van het milieueffectrapport dat betrekking heeft op een besluit waarop afdeling 3.4 van de Algemene wet bestuursrecht en afdeling 13.2 van toepassing zijn, met uitzondering van een besluit met betrekking tot een activiteit waarvoor tevens een besluit is vereist waarvoor op grond van artikel 19f, eerste lid, van de Natuurbeschermingswet 1998 een passende beoordeling moet worden gemaakt
+### § 7.9. De voorbereiding van het milieueffectrapport dat betrekking heeft op een besluit waarop afdeling 3.4 van de Algemene wet bestuursrecht of afdeling 13.2 niet van toepassing zijn alsmede een besluit waarop afdeling 3.4 van de Algemene wet bestuursrecht en afdeling 13.2 van toepassing zijn met betrekking tot een activiteit waarvoor tevens een besluit is vereist waarvoor op grond van artikel 19f, eerste lid, van de Natuurbeschermingswet 1998 een passende beoordeling moet worden gemaakt
+### § 7.10. Het besluit
+### § 7.11. Activiteiten met mogelijke grensoverschrijdende milieugevolgen
+### § 7.12. Evaluatie
 ## Hoofdstuk 8. Inrichtingen
 ### Titel 8.1. Vergunningen
 #### Afdeling 8.1.1. Algemeen
@@ -90,7 +91,7 @@
 ### Afdeling 13.3. Afvalvoorzieningen categorie A met mogelijke grensoverschrijdende milieugevolgen
 ## Hoofdstuk 14. Coördinatie
 ### § 14.1. Coördinatie bij aanvragen om een beschikking
-### § 14.2. Coördinatie bij het maken van een milieu-effectrapport
+### § 14.2. Coördinatie bij het maken van een milieueffectrapport
 ## Hoofdstuk 15. Financiële bepalingen
 ### Titel 15.1
 ### Titel 15.2. Verbruiksbelastingen van brandstoffen
