@@ -1,12 +1,15 @@
 # Inhoud
 ## Hoofdstuk I. Begripsbepalingen
 ## Hoofdstuk II. De raad voor rechtsbijstand
-### Afdeling 1. Samenstelling van de raad
-### Afdeling 2. Taak en werkwijze van de raad
-### Afdeling 3. Het bureau rechtsbijstandvoorziening
+### Afdeling 1. De raad en zijn organen
+#### § 1. Algemeen
+#### § 2. Het bestuur
+#### § 3. De raad van advies
+### Afdeling 2. Taak en werkwijze van het bestuur
+### Afdeling 3. Personeelsleden van de raad
 ## Hoofdstuk III. De verlening van rechtsbijstand
 ### Afdeling 1. Algemeen
-### Afdeling 2. De inschrijving van advocaten door de raad
+### Afdeling 2. De inschrijving van advocaten door het bestuur
 ## Hoofdstuk IIIa. De verlening van rechtsbijstand in grensoverschrijdende geschillen binnen de Europese Unie
 ### Afdeling 1. Rechtzoekenden die wonen in een andere lidstaat dan Nederland
 ### Afdeling 2. Rechtzoekenden die wonen in Nederland

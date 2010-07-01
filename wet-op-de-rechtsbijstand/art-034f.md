@@ -1,9 +1,5 @@
 # Artikel 34f
-1. De rechtzoekende is het bedrag dat in het kader van de verlening van rechtsbijstand door de raad is betaald aan de rechtsbijstandverlener verschuldigd aan de raad, indien de rechtzoekende op grond van het besluit, bedoeld in artikel 34d, eerste lid, geen recht heeft op de verlening van rechtsbijstand.
-2. De raad vordert het bedrag, bedoeld in het eerste lid, van de rechtzoekende, tenzij zwaarwegende omstandigheden zich daartegen verzetten.
-3. Bij het vaststellen van de termijn of de termijnen waarbinnen moet worden betaald, houdt de raad rekening met de draagkracht van de rechtzoekende.
-4. Indien de rechtzoekende het verschuldigde bedrag niet of niet tijdig voldoet maant de raad de rechtzoekende schriftelijk aan om alsnog binnen vier weken na dagtekening van de aanmaning het daarin vermelde bedrag aan de raad te voldoen. De aanmaning vermeldt dat bij niet tijdige betaling deze kan worden afgedwongen door op kosten van de schuldenaar uit te voeren invorderingsmaatregelen. De aanmaning vermeldt de vergoeding die in rekening wordt gebracht.
-5. Volgt op deze aanmaning de betaling binnen de gestelde termijn niet, dan vaardigt de raad een dwangbevel uit. Het dwangbevel omvat mede de buitengerechtelijke kosten.
-6. De bekendmaking van het dwangbevel geschiedt door middel van de betekening van een exploot als bedoeld in het Wetboek van Burgerlijke Rechtsvordering.
-7. Het dwangbevel levert een executoriale titel op, die met toepassing van de voorschriften van het Wetboek van Burgerlijke Rechtsvordering kan worden tenuitvoergelegd. Bij het dwangbevel kunnen tevens de aanmaningsvergoeding en de kosten van het dwangbevel worden ingevorderd.
-8. Binnen vier weken na de betekening staat verzet open tegen het dwangbevel, bedoeld in het vijfde lid, door dagvaarding van de raad. Het verzet schorst de tenuitvoerlegging van het dwangbevel voorzover deze door het verzet wordt bestreden.
+1. De rechtzoekende is het bedrag dat in het kader van de verlening van rechtsbijstand door het bestuur is betaald aan de rechtsbijstandverlener verschuldigd aan het bestuur, indien de rechtzoekende op grond van het besluit, bedoeld in artikel 34d, eerste lid, geen recht heeft op de verlening van rechtsbijstand.
+2. Het bestuur vordert het bedrag, bedoeld in het eerste lid, van de rechtzoekende, tenzij zwaarwegende omstandigheden zich daartegen verzetten.
+3. Bij het vaststellen van de termijn of de termijnen waarbinnen moet worden betaald, houdt het bestuur rekening met de draagkracht van de rechtzoekende.
+4. Bij gebreke van volledige betaling kan het bestuur na een aanmaning als bedoeld in artikel 4:112 van de Algemene wet bestuursrecht invorderen bij dwangbevel als bedoeld in artikel 4:114 van de Algemene wet bestuursrecht.

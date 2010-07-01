@@ -7,11 +7,10 @@ d. de eisen waaraan de begroting moet voldoen:
 e. de wijze waarop de subsidie wordt bepaald;
 f. het verlenen van voorschotten;
 g. de gevallen waarin de raad een vergoeding voor vermogensvorming als bedoeld in artikel 4:41 van de Algemene wet bestuursrecht verschuldigd is, alsmede hoe deze vergoeding wordt berekend;
-h. de handelingen, bedoeld in artikel 4:71 van de Algemene wet bestuursrecht, waarvoor de raad de toestemming van Onze Minister behoeft;
-i. het vormen van egalisatiereserves door de raad;
-j. de overige aan de subsidie verbonden verplichtingen;
-k. de termijn die bij de indiening van de aanvraag tot vaststelling van de subsidie in acht wordt genomen;
-l. de termijn waarbinnen Onze Minister op de aanvraag tot vaststelling van de subsidie beslist;
-m. het onderzoek door de accountant, bedoeld in artikel 4:78 van de Algemene wet bestuursrecht;
-n. de overige eisen waaraan het financiële verslag en het activiteitenverslag moeten voldoen.
+h. de omvang en aanvulling van de egalisatiereserves en de aanwending van overschotten;
+i. de overige aan de subsidie verbonden verplichtingen;
+j. de termijn die bij de indiening van de aanvraag tot vaststelling van de subsidie in acht wordt genomen;
+k. de termijn waarbinnen Onze Minister op de aanvraag tot vaststelling van de subsidie beslist;
+l. het onderzoek door de accountant, bedoeld in artikel 4:78 van de Algemene wet bestuursrecht;
+m. de overige eisen waaraan het financiële verslag en het activiteitenverslag moeten voldoen.
 2. Onze Minister stelt een aanwijzing over de reikwijdte en de intensiteit van de controle, als bedoeld in artikel 4:79, tweede lid, van de Algemene wet bestuursrecht, vast.
