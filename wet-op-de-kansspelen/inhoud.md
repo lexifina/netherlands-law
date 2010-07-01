@@ -10,7 +10,7 @@
 ## Titel V. Prijsvragen
 ## Titel VA. Speelautomaten
 ### § 1. Inleidende bepalingen
-### § 2. Vergunning tot het aanwezig hebben van speelautomaten
+### § 2. Vergunning tot het aanwezig hebben van kansspelautomaten
 ### § 3. Vergunning tot het exploiteren van speelautomaten
 ### § 4. Toelating van speelautomaten
 ### § 5. Overige verbodsbepalingen

@@ -1,7 +1,7 @@
 # Artikel 30f
 1. De vergunning wordt ingetrokken:
 a. indien de gegevens, die met het oog op de verkrijging der vergunning zijn verstrekt, zodanig onjuist of onvolledig blijken, dat op de aanvraag een andere beslissing zou zijn genomen als bij de beoordeling daarvan de juiste omstandigheden volledig bekend waren geweest;
-b. indien voor een inrichting, als bedoeld in artikel 30c, eerste lid, onder a, b en c, niet de vergunning van kracht is, die ingevolge de voor die inrichting geldende bepalingen is vereist;
+b. indien voor een inrichting, als bedoeld in artikel 30c, eerste lid, onder a en b, niet de vergunning van kracht is, die ingevolge de voor die inrichting geldende bepalingen is vereist;
 c. indien niet langer wordt voldaan aan de krachtens artikel 30d, vierde lid, onder a, geldende eisen.
 2. De vergunning kan voorts worden ingetrokken:
 a. indien de vergunninghouder de bij of krachtens deze Titel vastgestelde bepalingen heeft overtreden;

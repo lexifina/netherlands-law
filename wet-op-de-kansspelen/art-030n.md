@@ -18,4 +18,4 @@ j. het inworp- en uitbetalingsmechanisme;
 k. andere op de kansspelautomaat aanwezige mechanismen of voorzieningen die een rol spelen in het spelproces;
 l. de aanwezigheid op de kansspelautomaat van geldwisselapparatuur;
 m. de verlichting en het geluid van de kansspelautomaat.
-3. Voor de toelating van het model van kansspelautomaten bestemd om te worden opgesteld in een inrichting als bedoeld in artikel 30c, eerste lid, onder c, kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld ten aanzien van de onderwerpen genoemd in het tweede lid, die afwijken van het bij of krachtens het tweede lid bepaalde.
+3. Voor de toelating van het model van kansspelautomaten bestemd om te worden opgesteld in een inrichting als bedoeld in artikel 30c, eerste lid, onder b, kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld ten aanzien van de onderwerpen genoemd in het tweede lid, die afwijken van het bij of krachtens het tweede lid bepaalde.
