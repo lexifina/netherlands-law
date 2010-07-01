@@ -1,0 +1,2 @@
+# Artikel VI
+Ten aanzien van een plan als bedoeld in artikel 7.2, tweede lid, of artikel 7.2a, eerste lid, van de Wet milieubeheer, blijft, in afwijking van paragraaf 7.5 van die wet, zoals die is komen te luiden ingevolge artikel I, onderdelen W tot en met CC, van deze wet, paragraaf 7.6a van de Wet milieubeheer, zoals die luidde voor het tijdstip van inwerkingtreding van die artikelonderdelen, van toepassing, indien het ontwerp van een plan overeenkomstig artikel 7.26a van de Wet milieubeheer, zoals dat voor dat tijdstip luidde, ter inzage is gelegd voor dat tijdstip.

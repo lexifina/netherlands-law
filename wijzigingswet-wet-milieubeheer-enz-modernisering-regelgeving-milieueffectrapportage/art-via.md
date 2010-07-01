@@ -1,0 +1,2 @@
+# Artikel VIA
+Ten aanzien van een besluit als bedoeld in artikel 7.2, derde of vierde lid, van de Wet milieubeheer, blijft het recht zoals dat gold voor het tijdstip van inwerkingtreding van artikel I van deze wet van toepassing, indien de richtlijnen, bedoeld in artikel 7.15, eerste lid, van de Wet milieubeheer, zoals dat luidde voor het tijdstip van inwerkingtreding van artikel I van deze wet, voor dat tijdstip zijn gegeven.
