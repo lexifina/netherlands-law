@@ -1,0 +1,4 @@
+# III. Ad Artikel 24
+a. Het is wel verstaan dat, wat de Nederlandse inkomstenbelasting of vennootschapsbelasting betreft, de grondslag bedoeld in artikel 24, eerste lid, is het onzuivere inkomen of de winst in de zin van de Nederlandse wetten op de inkomstenbelasting onderscheidenlijk de vennootschapsbelasting.
+b. Het is wel verstaan dat voor de berekening van de vermindering vermeld in artikel 24, tweede lid, de waarde van de in artikel 23, eerste lid, bedoelde vermogensbestandddelen wordt verminderd met de waarde van de schulden verzekerd door hypotheek op dat vermogen en de waarde van de in artikel 23, tweede lid, bedoelde vermogensbestanddelen wordt verminderd met de waarde van de tot de vaste inrichting of het vaste middelpunt behorende schulden.
+c. Het in artikel 24, tweede lid, letter a, bedoelde bedrag van de in Oostenrijk geheven belasting wordt voor de in artikel 14, vijfde lid, genoemde voordelen naar het gemiddeld toegepaste tarief berekend.
