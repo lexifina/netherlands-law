@@ -1,4 +1,8 @@
 # Artikel 8a.51
-Gedeputeerde Staten kunnen een ontheffing verlenen van de verbodsbepaling, bedoeld in artikel 8.1a, eerste lid, indien een bij algemene maatregel van bestuur aan te wijzen luchtvaartuig voldoet aan bij regeling van Onze Minister van Verkeer en Waterstaat gegeven voorschriften en opstijgt van of landt op een terrein dat geschikt is om tijdelijk en uitzonderlijk te worden gebruikt door dit luchtvaartuig. Bij regeling van Onze Minister van Verkeer en Waterstaat worden voorschriften gegeven omtrent:
-a. de termijn waarbinnen gedeputeerde staten de ontheffing verlenen, en
-b. de wijze waarop de burgemeester van de gemeente waar het terrein is gelegen, wordt betrokken in verband met de openbare orde en veiligheid.
+1. Gedeputeerde staten kunnen voor tijdelijk en uitzonderlijk gebruik van een terrein ontheffing verlenen van het verbod, bedoeld in artikel 8.1a, eerste lid, indien het terrein wordt gebruikt door een luchtvaartuig dat behoort tot een bij algemene maatregel van bestuur aan te wijzen categorie.
+2. Een ontheffing kan onder beperkingen worden verleend. Aan een ontheffing kunnen voorschriften worden verbonden.
+3. Bij regeling van Onze Minister van Verkeer en Waterstaat worden regels gesteld over:
+a. het terrein;
+b. de wijze waarop het terrein wordt gebruikt;
+c. de termijn waarbinnen gedeputeerde staten een besluit nemen op de aanvraag;
+d. de wijze waarop Onze Minister van Verkeer en Waterstaat en de burgemeester van de gemeente waarin het terrein ligt, worden betrokken bij het verlenen van de ontheffing en bij het gebruik van het terrein.
