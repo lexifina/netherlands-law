@@ -1,0 +1,2 @@
+# Artikel IIc
+Het Wetboek van Strafrecht zoals het luidde vóór inwerkingtreding van artikel IIb blijft van toepassing op een luchtvaartterrein, aangewezen op grond van artikel 18 van de Luchtvaartwet, zolang op dat luchtvaartterrein het bepaalde bij of krachtens de Luchtvaartwet van toepassing blijft krachtens artikel IX, tweede lid, of artikel XVIII, derde lid, van de in artikel II genoemde Wet van 18 december 2008.
