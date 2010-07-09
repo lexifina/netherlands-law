@@ -1,2 +1,2 @@
 # Aanhef
-Paragraaf 1, Inleidende bepaling
+1.2.6. FINANCIËLE VERORDENING DRENTHE 2004
