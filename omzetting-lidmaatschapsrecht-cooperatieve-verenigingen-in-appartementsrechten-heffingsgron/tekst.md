@@ -1,6 +1,0 @@
-# Tekst
-(Onderstaande tekst is een beleidspublicatie, zoals die is geplaatst in het Infobulletin.)
-Bij de res. van 15-06-1983, nr. 283-4567, PW 19090, heeft de Staatssecr. zich bereid verklaard in de gevallen dat omzetting van een lidmaatschapsrecht in een appartementsrecht leidt tot dubbele heffing, onder aldaar genoemde voorwaarden, kwijtschelding van de verschuldigde overdrachtsbelasting te verlenen.
-In de gevallen waarin kwijtschelding op de voet van deze res. niet mogelijk is en waarbij het gaat om een door de verkrijger van een appartementsrecht reeds in het kader van zijn lidmaatschapsrecht zelf bewoond pand, heeft de Staatssecr. goedgekeurd dat de waarde van het verkregen appartementsrecht wordt bepaald met inachtneming van de omstandigheid dat het verkregene t.t.v. de verkrijging niet als een vrij opleverbaar pand kan worden beschouwd.
-Bij de bepaling van bedoelde waarde voor de heffing van de overdrachtsbelasting behoeft de forfaitaire regeling voor de waardebepaling van de eigen woning in de i.b. en v.b. niet noodzakelijk als richtsnoer te worden genomen.
-Het staat de Insp. der R. en S. vrij om in de praktijk bij deze forfaitaire regeling aan te sluiten als hij dit uit beleidsoverwegingen gewenst acht. Hij behoudt echter de mogelijkheid om van die regeling af te wijken indien de omstandigheden van het geval daartoe aanleiding geven.

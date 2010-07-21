@@ -1,5 +1,0 @@
-# Tekst
-De verkrijger van een onr. goed wilde een flatexploitatievereniging oprichten, waarvan het lidmaatschap recht zou geven op het uitsluitend gebruik van dat onr. goed.
-Omdat de voor die oprichting benodigde toestemming van B. en W. uitbleef werd, nog binnen drie maanden na de verkrijging, een onverdeeld aandeel in het onr. goed overgedragen aan een derde, onder de wederzijdse verplichting de flatexploitatievereniging op te richten en het onr. goed daaraan over te dragen tegen uitgifte van lidmaatschapsrechten.
-Op de latere verkrijging door de vereniging kon art. 13 WBR niet meer worden toegepast.
-Mede gelet op de res. van 29-12-1954, nr. 4, PW 16144 i.z. appartementsrechten heeft de Staatssecr. met toepassing van de hardheidsclausule goedgekeurd, dat de heffing van overdrachtsbelasting t.z.v. de verkrijging van het onr. goed door de vereniging achterwege zou blijven, zulks onder de voorwaarde, dat de verkrijging zou plaatsvinden binnen zes maanden na de toestemming van B. en W. tot de oprichting.
