@@ -1,0 +1,2 @@
+# Artikel 64a. Toepassing tabel bijzondere beloningen bij wisseling van werkgever binnen een samenhangende groep inhoudingsplichtigen
+Ingeval de inhoudingsplichtige van de werknemer en de zonder onderbreking voorafgaande inhoudingsplichtigen van de werknemer behoren tot een samenhangende groep inhoudingsplichtigen in de zin van artikel 27e van de wet, wordt de werknemer voor de toepassing van artikel 26, vierde lid, van de wet geacht het van deze inhoudingsplichtigen genoten loon van één inhoudingsplichtige te hebben genoten.

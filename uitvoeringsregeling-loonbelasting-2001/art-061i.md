@@ -1,0 +1,2 @@
+# Artikel 61i. Kredietfaciliteit
+Indien het ingevolge artikel 61h, eerste lid, opgenomen bedrag het op dat moment aanwezige tegoed overtreft, kan het negatieve saldo – uitgezonderd de daarover verschuldigde rente – met inachtneming van de in artikel 61e gestelde begrenzingen via een inhouding op het loon worden aangevuld, in welk geval deze aanvulling wordt aangemerkt als het opbouwen van een voorziening als bedoeld in artikel 61b.
