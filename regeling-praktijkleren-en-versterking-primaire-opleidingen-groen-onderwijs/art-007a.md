@@ -1,2 +1,0 @@
-# Artikel 7a
-De Universiteit Utrecht ontvangt de aanvullende bijdrage, bedoeld in artikel 2, jaarlijks als onderwijsopslag als bedoeld in artikel 4.10, onderdeel a, van het Uitvoeringsbesluit WHW 2008, welke voor praktijkleren gelijk is aan het bedrag, bedoeld in artikel 3, eerste lid, onderdeel e.
