@@ -1,0 +1,2 @@
+# Artikel 15a. Protocol kindermishandeling
+Artikel 10a is van overeenkomstige toepassing, met dien verstande dat voor 'een beroepskracht of een andere, bij het kindercentrum werkzame persoon' wordt gelezen: een persoon, werkzaam bij het gastouderbureau, een gastouder of een volwassen huisgenoot van de gastouder.

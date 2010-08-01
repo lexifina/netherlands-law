@@ -1,0 +1,4 @@
+# Artikel 15d. Aantal op te vangen kinderen
+1. Bij een gastouder worden maximaal vijf kinderen gelijktijdig opgevangen, als de kinderen (op te vangen én eigen kinderen) allemaal jonger zijn dan 4 jaar.
+2. Bij een gastouder worden maximaal zes kinderen gelijktijdig opgevangen, als de op te vangen kinderen in de leeftijd van 0 tot 13 jaar zijn. Eigen kinderen tot 10 jaar worden meegerekend.
+3. In de groep, bedoeld in het eerste en tweede lid, mogen maximaal 4 kinderen van 0 en 1 jaar aanwezig zijn, waarvan maximaal 2 kinderen van 0 jaar.
