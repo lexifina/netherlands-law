@@ -1,0 +1,2 @@
+# Article III. Duty of a State Party with respect to Article 8 of the Convention
+The duty of a State Party to this Protocol with respect to the application of article 8 of the Convention to United Nations operations defined in article II of this Protocol shall be without prejudice to its right to take action in the exercise of its national jurisdiction over any United Nations or associated personnel who violates the laws and regulations of that State, provided that such action is not in violation of any other international law obligation of the State Party.

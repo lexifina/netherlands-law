@@ -1,0 +1,3 @@
+# Article VI. Entry into force
+1. This Protocol shall enter into force thirty days after twenty-two instruments of ratification, acceptance, approval or accession have been deposited with the Secretary-General of the United Nations.
+2. For each State ratifying, accepting, approving or acceding to this Protocol after the deposit of the twenty-second instrument of ratification, acceptance, approval or accession, the Protocol shall enter into force on the thirtieth day after the deposit by such State of its instrument of ratification, acceptance, approval or accession.
