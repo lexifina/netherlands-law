@@ -1,4 +1,0 @@
-# Inhoud
-## Algemeen
-## Werkzaamheid
-## Toepassingen
