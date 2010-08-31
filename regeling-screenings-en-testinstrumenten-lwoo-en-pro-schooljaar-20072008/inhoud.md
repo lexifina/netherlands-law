@@ -1,2 +1,0 @@
-# Inhoud
-## Didactisch onderzoek
