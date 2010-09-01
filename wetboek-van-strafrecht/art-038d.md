@@ -1,3 +1,3 @@
 # Artikel 38d
 1. De terbeschikkingstelling geldt voor de tijd van twee jaar, te rekenen van de dag waarop de rechterlijke uitspraak waarbij zij is opgelegd onherroepelijk is geworden.
-2. De termijn van de terbeschikkingstelling kan, behoudens het bepaalde in artikel 38e of artikel 38j, door de rechter, op vordering van het openbaar ministerie, telkens hetzij met een jaar hetzij met twee jaar worden verlengd, indien de veiligheid van anderen, dan wel de algemene veiligheid van personen of goederen die verlenging eist. Een tweede verlenging is slechts mogelijk wanneer een bevel als bedoeld in artikel 37b of artikel 38c is gegeven.
+2. De termijn van de terbeschikkingstelling kan, behoudens het bepaalde in artikel 38e of artikel 38j, door de rechter, op vordering van het openbaar ministerie, telkens hetzij met een jaar hetzij met twee jaar worden verlengd, indien de veiligheid van anderen, dan wel de algemene veiligheid van personen of goederen die verlenging eist.
