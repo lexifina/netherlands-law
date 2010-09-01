@@ -1,0 +1,3 @@
+# Artikel XXXIV. Intrekking van verklaringen
+1. Elke Staat die Partij is en die een verklaring uit hoofde van dit Protocol heeft afgelegd, anders dan een in overeenstemming met artikel XXXI uit hoofde van artikel 60 van het Verdrag afgelegde verklaring, kan deze verklaring te allen tijde intrekken door middel van een kennisgeving aan de Depositaris. Deze intrekking wordt van kracht op de eerste dag van de maand volgend op het verstrijken van zes maanden na de datum van ontvangst van de kennisgeving door de Depositaris.
+2. Niettegenstaande het voorgaande lid blijft dit Protocol ten aanzien van alle rechten en zakelijke rechten die voor de datum van het van kracht worden van die intrekking zijn ontstaan, van toepassing alsof de verklaring niet was ingetrokken.

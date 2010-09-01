@@ -1,0 +1,3 @@
+# Artikel XXII. Afstand van soevereine immuniteit
+1. Onverminderd het tweede lid is afstand van soevereine immuniteit van rechtsmacht van de in artikel 42 of artikel 43 van het Verdrag bedoelde gerechten of met betrekking tot de handhaving van rechten en zakelijke rechten die ingevolge het Verdrag betrekking hebben op een luchtvaartuigzaak, bindend, en, indien aan de andere voorwaarden voor deze rechtsmacht of handhaving is voldaan, ontstaat hierdoor, naargelang van het geval, bevoegdheid en wordt hierdoor handhaving mogelijk.
+2. Afstand zoals bedoeld in het voorgaande lid dient schriftelijk te geschieden en dient een beschrijving van de luchtvaartuigzaak te bevatten.

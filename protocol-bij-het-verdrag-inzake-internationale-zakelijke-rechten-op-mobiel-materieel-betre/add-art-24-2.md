@@ -1,0 +1,3 @@
+# Artikel XXIV. Verhouding tot het Verdrag tot het vaststellen van enige eenvormige bepalingen inzake conservatoir beslag op luchtvaartuigen
+1. Ten aanzien van een Verdragsluitende Staat die Partij is bij het Verdrag tot het vaststellen van enige eenvormige bepalingen inzake conservatoir beslag op luchtvaartuigen, ondertekend te Rome op 29 mei 1933, heeft het Verdrag voorrang boven dat Verdrag voorzover het betrekking heeft op luchtvaartuigen, zoals nader aangeduid in dit Protocol.
+2. Een Verdragsluitende Staat die Partij is bij het bovengenoemde Verdrag kan, op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot dit Protocol, verklaren dat hij dit artikel niet toepast.

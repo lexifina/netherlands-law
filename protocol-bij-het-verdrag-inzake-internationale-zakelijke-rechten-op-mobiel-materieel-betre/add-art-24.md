@@ -1,0 +1,3 @@
+# Article XXIV. Relationship with the Convention for the Unification of Certain Rules Relating to the Precautionary Attachment of Aircraft
+1. The Convention shall, for a Contracting State that is a Party to the Convention for the Unification of Certain Rules Relating to the Precautionary Attachment of Aircraft, signed at Rome on 29 May 1933, supersede that Convention as it relates to aircraft, as defined in this Protocol.
+2. A Contracting State Party to the above Convention may declare, at the time of ratification, acceptance, approval of, or accession to this Protocol, that it will not apply this Article.

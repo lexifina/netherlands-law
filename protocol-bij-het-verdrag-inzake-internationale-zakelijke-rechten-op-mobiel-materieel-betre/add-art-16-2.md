@@ -1,0 +1,5 @@
+# Artikel XVI. Bepalingen inzake schuldenaars
+1. Bij afwezigheid van een verzuim in de zin van artikel 11 van het Verdrag, heeft de schuldenaar recht op het rustige bezit en gebruik van de zaak in overeenstemming met de overeenkomst tegenover:
+a. zijn schuldeiser en de houder van een zakelijk recht waarvan het door de schuldenaar verworven recht vrij is gebleven ingevolge artikel 29, vierde lid, van het Verdrag of, in de hoedanigheid van koper, artikel XIV, eerste lid, van dit Protocol, tenzij en voorzover de schuldenaar anders is overeengekomen; en
+b. de houder van een zakelijk recht waaraan het recht van de schuldenaar onderworpen is ingevolge artikel 29, vierde lid, van het Verdrag of, in de hoedanigheid van koper, artikel XIV, tweede lid, van dit Protocol, doch uitsluitend in de mate waarin die houder daarmee eventueel heeft ingestemd.
+2. Niets in het Verdrag of dit Protocol doet afbreuk aan de aansprakelijkheid van een schuldeiser wegens niet-nakoming van de overeenkomst ingevolge het toepasselijke recht voorzover die overeenkomst betrekking heeft op een luchtvaartuigzaak.

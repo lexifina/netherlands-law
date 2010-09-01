@@ -1,0 +1,4 @@
+# Article XXXIII. Subsequent declarations
+1. A State Party may make a subsequent declaration, other than a declaration made in accordance with Article XXXI under Article 60 of the Convention, at any time after the date on which this Protocol has entered into force for it, by notifying the Depositary to that effect.
+2. Any such subsequent declaration shall take effect on the first day of the month following the expiration of six months after the date of receipt of the notification by the Depositary. Where a longer period for that declaration to take effect is specified in the notification, it shall take effect upon the expiration of such longer period after receipt of the notification by the Depositary.
+3. Notwithstanding the previous paragraphs, this Protocol shall continue to apply, as if no such subsequent declarations had been made, in respect of all rights and interests arising prior to the effective date of any such subsequent declaration.

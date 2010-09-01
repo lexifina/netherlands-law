@@ -1,0 +1,12 @@
+# Artikel X. Wijziging van bepalingen met betrekking tot redres hangende definitieve vaststelling
+1. Dit artikel is uitsluitend van toepassing indien een Verdragsluitende Staat een verklaring ingevolge artikel XXX, tweede lid, heeft afgelegd en in de in die verklaring aangegeven mate.
+2. Voor de toepassing van artikel 13, eerste lid, van het Verdrag wordt in verband met het verkrijgen van redres onder „spoedig" verstaan, binnen het aantal werkdagen, vanaf de dag van indiening van het verzoek om redres, dat wordt vermeld in een door de Verdragsluitende Staat waarin het verzoek wordt gedaan afgelegde verklaring.
+3. Artikel 13, eerste lid, van het Verdrag is van toepassing, met toevoeging, onmiddellijk na onderdeel d, van het volgende:
+„e. indien de schuldenaar en de schuldeiser zulks op enig tijdstip in het bijzonder overeenkomen, de verkoop en aanwending van de opbrengsten daarvan",
+en artikel 43, tweede lid, is van toepassing met invoeging van de woorden „en onderdeel e", na de woorden „artikel 13, eerste lid, onderdeel d".
+4. De eigendom of elk ander recht van de schuldenaar dat overgaat bij een verkoop ingevolge het voorgaande lid is vrij van elk ander recht waarboven het internationale zakelijk recht van de schuldeiser krachtens de bepalingen van artikel 29 van het Verdrag voorrang heeft.
+5. De schuldeiser en schuldenaar of andere belanghebbenden kunnen schriftelijk overeenkomen de toepassing van artikel 13, tweede lid, van het Verdrag uit te sluiten.
+6. Ten aanzien van de in artikel IX, eerste lid, genoemde rechtsmiddelen geldt dat:
+a. deze beschikbaar worden gesteld door de registratieautoriteit en andere administratieve autoriteiten in een Verdragsluitende Staat, naargelang hetgeen van toepassing is, uiterlijk vijf werkdagen nadat de schuldeiser die autoriteiten ervan kennis heeft gegeven dat het in artikel IX, eerste lid, bedoelde redres is toegekend of, ingeval het redres is toegekend door een buitenlands gerecht, is erkend door een gerecht van die Verdragsluitende Staat, en dat de schuldeiser gerechtigd is die rechtsmiddelen in overeenstemming met het Verdrag te bewerkstelligen; en
+b. de desbetreffende autoriteiten met spoed met de schuldeiser samenwerken en deze bijstaan bij de toepassing van deze rechtsmiddelen in overeenstemming met de toepasselijke wetten en voorschriften inzake de veiligheid van de luchtvaart.
+7. Het tweede en zesde lid doen geen afbreuk aan de toepasselijke wetten en voorschriften inzake de veiligheid van de luchtvaart.

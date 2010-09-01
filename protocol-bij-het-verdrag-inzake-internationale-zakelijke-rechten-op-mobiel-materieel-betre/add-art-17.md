@@ -1,0 +1,6 @@
+# Article XVII. The Supervisory Authority and the Registrar
+1. The Supervisory Authority shall be the international entity designated by a Resolution adopted by the Diplomatic Conference to Adopt a Mobile Equipment Convention and an Aircraft Protocol.
+2. Where the international entity referred to in the preceding paragraph is not able and willing to act as Supervisory Authority, a Conference of Signatory and Contracting States shall be convened to designate another Supervisory Authority.
+3. The Supervisory Authority and its officers and employees shall enjoy such immunity from legal and administrative process as is provided under the rules applicable to them as an international entity or otherwise.
+4. The Supervisory Authority may establish a commission of experts, from among persons nominated by Signatory and Contracting States and having the necessary qualifications and experience, and entrust it with the task of assisting the Supervisory Authority in the discharge of its functions.
+5. The first Registrar shall operate the International Registry for a period of five years from the date of entry into force of this Protocol. Thereafter, the Registrar shall be appointed or reappointed at regular five-yearly intervals by the Supervisory Authority.

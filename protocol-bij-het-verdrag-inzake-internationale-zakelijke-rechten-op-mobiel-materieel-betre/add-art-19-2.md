@@ -1,0 +1,3 @@
+# Artikel XIX. Aangewezen punten van invoer
+1. Onverminderd het tweede lid kan een Verdragsluitende Staat te allen tijde een of meer organen op zijn grondgebied aanwijzen als punt of punten van invoer via welke informatie aan het Internationaal Register moet of kan worden verzonden die vereist is voor de inschrijving, anders dan de inschrijving van een kennisgeving van een nationaal zakelijk recht of een recht of zakelijk recht ingevolge artikel 40 die in beide gevallen ontstaan ingevolge het recht van een andere Staat.
+2. Een aanwijzing ingevolge het voorgaande lid kan het gebruik van een aangewezen punt of punten van invoer toestaan, doch niet opleggen, voor informatie vereist voor inschrijvingen ten aanzien van luchtvaartuigmotoren.

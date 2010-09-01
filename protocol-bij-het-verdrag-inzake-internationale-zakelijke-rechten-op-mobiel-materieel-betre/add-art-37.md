@@ -1,0 +1,12 @@
+# Article XXXVII. Depositary and its functions
+1. Instruments of ratification, acceptance, approval or accession shall be deposited with the International Institute for the Unification of Private Law (UNIDROIT), which is hereby designated the Depositary.
+2. The Depositary shall:
+a) inform all Contracting States of:
+(i) each new signature or deposit of an instrument of ratification, acceptance, approval or accession, together with the date thereof;
+(ii) the date of entry into force of this Protocol;
+(iii) each declaration made in accordance with this Protocol, together with the date thereof;
+(iv) the withdrawal or amendment of any declaration, together with the date thereof; and
+(v) the notification of any denunciation of this Protocol together with the date thereof and the date on which it takes effect;
+b) transmit certified true copies of this Protocol to all Contracting States;
+c) provide the Supervisory Authority and the Registrar with a copy of each instrument of ratification, acceptance, approval or accession, together with the date of deposit thereof, of each declaration or withdrawal or amendment of a declaration and of each notification of denunciation, together with the date of notification thereof, so that the information contained therein is easily and fully available; and
+d) perform such other functions customary for depositaries.

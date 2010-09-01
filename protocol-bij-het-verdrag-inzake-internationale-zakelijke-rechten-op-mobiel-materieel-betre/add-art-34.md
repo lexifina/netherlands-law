@@ -1,0 +1,3 @@
+# Article XXXIV. Withdrawal of declarations
+1. Any State Party having made a declaration under this Protocol, other than a declaration made in accordance with Article XXXI under Article 60 of the Convention, may withdraw it at any time by notifying the Depositary. Such withdrawal is to take effect on the first day of the month following the expiration of six months after the date of receipt of the notification by the Depositary.
+2. Notwithstanding the previous paragraph, this Protocol shall continue to apply, as if no such withdrawal of declaration had been made, in respect of all rights and interests arising prior to the effective date of any such withdrawal.
