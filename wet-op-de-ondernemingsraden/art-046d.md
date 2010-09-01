@@ -6,7 +6,7 @@ a. Voor de toepassing van deze wet wordt als bestuurder in de zin van deze wet n
 3°. bij een gemeente: de burgemeester, een lid van het college van burgemeester en wethouders of een lid van de gemeenteraad;
 4°. bij een waterschap: de voorzitter, een lid van het dagelijks bestuur van een waterschap of een lid van het algemeen bestuur;
 5°. bij de Kamers der Staten-Generaal: de voorzitter van de Kamer of een lid;
-6°. bij de Raad van State: de vice-president of een staatsraad;
+6°. bij de Raad van State: de vice-president of een lid;
 7°. bij de Algemene Rekenkamer: de president of een lid van de Algemene Rekenkamer;
 8°. bij de Nationale ombudsman: de Nationale ombudsman of een substituut-ombudsman.
 b. Voor de toepassing van artikel 23, tweede lid, zijn onder de aangelegenheden de onderneming betreffende niet begrepen de publiekrechtelijke vaststelling van taken van publiekrechtelijke lichamen en onderdelen daarvan, noch het beleid ten aanzien van en de uitvoering van die taken, behoudens voor zover het betreft de gevolgen daarvan voor de werkzaamheden van de in de onderneming werkzame personen.
