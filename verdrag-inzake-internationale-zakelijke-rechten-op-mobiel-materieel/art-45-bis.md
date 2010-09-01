@@ -1,0 +1,2 @@
+# Artikel 45-bis. Verhouding tot het Verdrag van de Verenigde Naties inzake de cessie van vorderingen in de internationale handel
+Dit Verdrag heeft voorrang boven het Verdrag van de Verenigde Naties inzake de cessie van vorderingen in de internationale handel, opengesteld voor ondertekening te New York op 12 december 2001, voorzover dit betrekking heeft op de cessie van vorderingen die aan internationale zakelijke rechten op luchtvaartuigen, rijdend spoorwegmaterieel en ruimteobjecten gerelateerde geassocieerde rechten zijn.
