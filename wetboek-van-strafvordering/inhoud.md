@@ -128,6 +128,7 @@
 #### afdeling Derde. Verlenging van de terbeschikkingstelling
 #### afdeling Vierde. Beroep
 ### TITEL IIC. Rechtsplegingen in verband met de plaatsing in een inrichting voor stelselmatige daders
+### Titel IID. Gedragsaanwijzing ter beëindiging van ernstige overlast
 ### Titel III. Vervolging en berechting van rechterlijke ambtenaren
 ### Titel IIIb. Strafvordering ter zake van ontneming van wederrechtelijk verkregen voordeel
 ### Titel IV. Wraking en verschoning van rechters

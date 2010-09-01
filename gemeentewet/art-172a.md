@@ -1,0 +1,11 @@
+# Artikel 172a
+1. Onverminderd artikel 172, derde lid, en hetgeen bij gemeentelijke verordening is bepaald omtrent de bevoegdheid van de burgemeester om bevelen te geven ter handhaving van de openbare orde, kan de burgemeester aan een persoon die herhaaldelijk individueel of groepsgewijs de openbare orde heeft verstoord of bij groepsgewijze verstoring van de openbare orde een leidende rol heeft gehad, bij ernstige vrees voor verdere verstoring van de openbare orde een bevel geven:
+a. zich niet te bevinden in of in de omgeving van een of meer bepaalde objecten binnen de gemeente, dan wel in een of meer bepaalde delen van de gemeente;
+b. zich niet in een of meer bepaalde delen van de gemeente op een voor het publiek toegankelijke plaats zonder redelijk doel met meer dan drie andere personen in groepsverband op te houden; of
+c. zich op bepaalde tijdstippen te melden op bepaalde plaatsen, al dan niet in een andere gemeente.
+2. Een bevel zich te melden in een andere gemeente, wordt slechts gegeven in overeenstemming met de burgemeester van die gemeente.
+3. Indien de officier van justitie een persoon als bedoeld in het eerste lid een gedragsaanwijzing heeft gegeven als bedoeld in artikel 509hh, tweede lid, onderdeel a, van het Wetboek van Strafvordering, geeft de burgemeester aan deze persoon niet een bevel als bedoeld in het eerste lid, onder a of b, voor hetzelfde gebied.
+4. Het bevel geldt voor een door de burgemeester vast te stellen periode van ten hoogste drie maanden. Het bevel kan ten hoogste driemaal worden verlengd met een door de burgemeester vast te stellen periode van telkens ten hoogste drie maanden.
+5. Op grond van nieuwe feiten of omstandigheden kan de burgemeester het bevel wijzigen ten nadele van betrokkene.
+6. De burgemeester kan op aanvraag tijdelijk ontheffing verlenen van de verboden of geboden die voortvloeien uit het bevel, dan wel van een of meer onderdelen daarvan. Aan de ontheffing kunnen voorschriften worden verbonden.
+7. Indien nieuwe feiten of omstandigheden daartoe aanleiding geven, wijzigt de burgemeester het bevel ten gunste van betrokkene. Het bevel wordt ingetrokken zodra het niet langer nodig is ter voorkoming van verdere verstoringen van de openbare orde.
