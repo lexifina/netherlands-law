@@ -1,8 +1,14 @@
 # Inhoud
 ## Hoofdstuk I. De Raad van State in het algemeen
-## Hoofdstuk II. De Afdeling bestuursrechtspraak
-### Titel I. Algemene bepalingen
-### Titel II. Beroep en hoger beroep bij de Afdeling bestuursrechtspraak
-#### § 1. Beroep
-#### § 2. Hoger beroep
-## Hoofdstuk III. Slotbepalingen
+### Afdeling 1. Samenstelling en taak
+### Afdeling 2. Staatsraden en staatsraden in buitengewone dienst
+### Afdeling 3. De secretaris en de ambtenaren van staat
+### Afdeling 4. Overige bepalingen
+## Hoofdstuk II. De Afdeling advisering
+### Afdeling 1. Samenstelling en taak
+### Afdeling 2. Overige bepalingen
+## Hoofdstuk III. De Afdeling bestuursrechtspraak
+### Afdeling 1. Samenstelling en taak
+### Afdeling 2. Overige bepalingen
+### Afdeling 3. Beroep en hoger beroep bij de Afdeling bestuursrechtspraak
+## Hoofdstuk IV. Slotbepalingen
