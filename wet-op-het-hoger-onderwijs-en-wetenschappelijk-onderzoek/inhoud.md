@@ -4,15 +4,16 @@
 ### Titel 1a. Ruimte voor innovatie
 ### Titel 2. De instellingen
 #### Paragraaf 1. Bekostigde instellingen voor hoger onderwijs
-#### Paragraaf 2. Aangewezen instellingen voor hoger onderwijs
-#### Paragraaf 2a. Postinitiële masteropleidingen
+#### Paragraaf 2. Rechtspersonen met geaccrediteerd initieel onderwijs.
+#### Paragraaf 2a. Instellingen of rechtspersonen met geaccrediteerd postinitieel onderwijs
 #### Paragraaf 3. Academische ziekenhuizen
 #### Paragraaf 4. Instellingen voor wetenschappelijk onderzoek
 ### Titel 3. Kwaliteitszorg
+### Titel 4. Overige voorschriften
 ## Hoofdstuk 2. Planning en bekostiging
 ### Titel 1. Planning
 ### Titel 2. Bekostiging
-### Titel 3. Inrichting begroting en verslag
+### Titel 3. Inrichting verslag en aanwijzing branchecode
 ### Titel 4. Bijzondere bepalingen in verband met investeringen en leningen
 ### Titel 5. Subsidiëring academische ziekenhuizen ten behoeve van de educatieve voorziening
 ## Hoofdstuk 3. Overleg
@@ -23,7 +24,7 @@
 ### Titel 3. Overige bepalingen
 ## Hoofdstuk 6. Onderwijsaanbod
 ### Titel 1. Opleidingen bekostigde instellingen voor hoger onderwijs
-### Titel 2. Aanwijzing en intrekking aanwijzing van niet bekostigde instellingen voor hoger onderwijs
+### Titel 2. Opleidingen rechtspersonen voor hoger onderwijs
 ### Titel 3. Het Centraal register opleidingen hoger onderwijs
 ### Titel 4
 ## Hoofdstuk 7. Onderwijs
@@ -35,7 +36,6 @@
 ### Titel 2. Vooropleidingseisen en toelatingseisen
 #### Paragraaf 1. Vooropleidingseisen bacheloropleidingen
 #### Paragraaf 2. Toelatingseisen masteropleidingen
-### TITEL 2A. VRIJSTELLING VAN HET AFLEGGEN VAN TENTAMENS OP GROND VAN HET BEZIT VAN EEN DIPLOMA BEROEPSONDERWIJS
 ### Titel 3. Studenten en extraneï
 #### Paragraaf 1. Inschrijving
 #### Paragraaf 2. Eigen bijdragen
@@ -44,9 +44,10 @@
 #### Paragraaf 4a. Regels voor de selectie van studenten voor opleidingen met een toelatingsbeperking
 #### Paragraaf 5. Overige bepalingen
 ### Titel 4. Rechtsbescherming van studenten en extraneï
-#### Paragraaf 1. College van beroep voor de examens
-#### Paragraaf 2. College van beroep voor het hoger onderwijs
-#### Paragraaf 3. Colleges van beroep bijzonder onderwijs
+#### Paragraaf 1. Toegankelijke faciliteit; klachten
+#### Paragraaf 2. College van beroep voor de examens; geschillenadviescommissie
+#### Paragraaf 3. College van beroep voor het hoger onderwijs
+#### Paragraaf 4. Colleges van beroep bijzonder onderwijs
 ## Hoofdstuk 7a. Taken in het kader van de zij-instroom in het beroep van leraar en docent
 ## Hoofdstuk 8. Samenwerking bekostigde instellingen voor hoger onderwijs
 ## Hoofdstuk 9. Het bestuur en de inrichting van de universiteiten
@@ -55,7 +56,6 @@
 #### Paragraaf 2. Onderwijs en wetenschapsbeoefening
 #### Paragraaf 3. Onderzoekinstituten en onderzoekscholen
 #### Paragraaf 4. Schorsing en vernietiging besluiten faculteit en voorziening bij verwaarlozing bestuur faculteit
-#### Paragraaf 5. Klachtrecht studenten
 ### TITEL 2. MEDEZEGGENSCHAP BINNEN DE OPENBARE UNIVERSITEITEN
 #### Paragraaf 1. Medezeggenschap binnen de universiteit
 #### Paragraaf 2. Medezeggenschap binnen de faculteit
@@ -64,22 +64,18 @@
 #### Paragraaf 5. Medezeggenschap binnen onderzoekinstituten en onderzoekscholen
 #### Paragraaf 6. Medezeggenschap binnen centrale diensten
 #### Paragraaf 7. Afwijking van titel 1 of titel 2
-### Titel 3. HET BESTUUR EN DE INRICHTING VAN EN DE MEDEZEGGENSCHAP BINNEN DE BIJZONDERE UNIVERSITEITEN
-### Titel 4. Bijzonder onderwijs aan openbare universiteiten
-#### Paragraaf 1. De kerkelijke hoogleraren
+### Titel 3. Het bestuur en de inrichting van en de medezeggenschap binnen de bijzondere universiteiten en de levensbeschouwelijke universiteiten
+### Titel 4. Bijzonder onderwijs aan universiteiten
 #### Paragraaf 2. De bijzondere leerstoelen
 ## Hoofdstuk 10. Het bestuur en de inrichting van de hogescholen
-### Titel 1. Het bestuur en de inrichting van hogescholen zonder rechtspersoonlijkheid
+### Titel 1. Het bestuur en de inrichting van hogescholen
 #### Paragraaf 1. Het bestuur en de inrichting van de hogeschool
 #### Paragraaf 2. Geschillenregeling
-#### Paragraaf 3. Bijzondere bepalingen betreffende het bestuur van een openbare hogeschool
 #### Paragraaf 4. Bijzondere bepalingen betreffende het bestuur van een bijzondere hogeschool
-### Titel 2. Het bestuur en de inrichting van hogescholen met rechtspersoonlijkheid
 ### Titel 3. Medezeggenschap
 ## Hoofdstuk 11. Het bestuur en de inrichting van de Open Universiteit
 ### Paragraaf 1. Het bestuur van de Open Universiteit
 ### Paragraaf 2. Onderwijs
-### Paragraaf 3. Schorsing en vernietiging van besluiten
 ### Paragraaf 4. Medezeggenschap studenten
 ## Hoofdstuk 12. Het bestuur en de inrichting van de academische ziekenhuizen
 ### Titel 1. Het bestuur en de inrichting van de academische ziekenhuizen

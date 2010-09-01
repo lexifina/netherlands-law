@@ -1,2 +1,0 @@
-# Artikel 5a.16. Taakverwaarlozing
-Indien naar het oordeel van het Comité van Ministers ingevolge artikel 12 van het Accreditatieverdrag het accreditatieorgaan zijn taak ernstig verwaarloost, worden die voorzieningen, spoedeisende gevallen uitgezonderd, niet eerder getroffen dan nadat het accreditatieorgaan in de gelegenheid is gesteld om binnen een door Onze minister te stellen termijn alsnog zijn taak naar behoren uit te voeren.
