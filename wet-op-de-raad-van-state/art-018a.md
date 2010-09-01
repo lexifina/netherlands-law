@@ -1,4 +1,0 @@
-# Artikel 18a
-1. Een afdeling kan bij de voorbereiding van een ingevolge artikel 15, derde lid, uit te brengen advies omtrent vernietiging van een besluit, onderscheidenlijk bij het onderzoek van en de voorbereiding van een ontwerp-besluit inzake de beslissing van geschillen als bedoeld in artikel 15c, belanghebbenden, getuigen, deskundigen en tolken oproepen om in een vergadering met gesloten deuren te worden gehoord. De artikelen 32 tot en met 35, alsmede de artikelen 8:24, 8:25, 8:27 tot en met 8:29, 8:31, 8:32, 8:33 tot en met 8:36, eerste lid, 8:39, 8:50 en 8:61 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing. Ambtsberichten en andere door Onze Minister wie het aangaat aangewezen stukken zijn niet openbaar.
-2. Het ontwerp van een koninklijk besluit tot vernietiging is niet openbaar.
-3. Een door Onze Minister wie het aangaat aangewezen ambtenaar kan in een vergadering als bedoeld in het eerste lid aanwezig zijn om inlichtingen te geven.
