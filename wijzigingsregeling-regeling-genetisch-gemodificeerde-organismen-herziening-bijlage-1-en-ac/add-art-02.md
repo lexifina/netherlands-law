@@ -1,0 +1,2 @@
+# Artikel II
+Voor zover bij de inwerkingtreding van deze regeling in een vergunning voor activiteiten als bedoeld in artikel 7 van de Regeling genetisch gemodificeerde organismen reeds voorschriften zijn opgenomen als bedoeld in de artikelen 7, tweede lid, van die regeling, zoals dat artikellid bij de inwerkingtreding van deze regeling komt te luiden, worden deze voorschriften vanaf de inwerkingtreding van deze regeling aangemerkt als voorschriften die ingevolge voornoemde artikellid aan de vergunning zijn verbonden.
