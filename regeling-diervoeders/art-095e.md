@@ -1,2 +1,0 @@
-# Artikel 95e
-Indien de werkzaamheden bedoeld in artikel 94, eerste lid, naar het oordeel van de aanwezige VWA-medewerker meer tijd in beslag nemen dan is aangemeld op grond van artikel 104, tweede lid, is de aanbieder een retributie verschuldigd, naast de ingevolge artikel 94, eerste lid verschuldigde retributies, bestaande uit een bedrag van € 34,14 per kwartier dat de werkzaamheden langer duren dan is aangemeld.

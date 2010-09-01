@@ -1,3 +1,0 @@
-# Artikel 94a
-1. Voor zover laboratoriumonderzoeken zijn verricht van chemische en microbiologische monsters die zijn genomen in het kader van werkzaamheden als bedoeld in de artikelen 89, 89a, 90, 91, 92, 93 of 94, is de aanbieder, naast de retributies die ter zake van de desbetreffende werkzaamheden zijn verschuldigd, een retributie voor deze laboratoriumonderzoeken verschuldigd.
-2. De in het eerste lid bedoelde retributie bedraagt de door de Minister te berekenen werkelijke kosten verbonden aan de onderzoeken, waaronder in elk geval zijn begrepen de kosten voor het verbruik van chemicaliën, hulpmiddelen en materialen, alsmede personeelskosten en huisvestingskosten.
