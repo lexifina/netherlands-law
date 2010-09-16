@@ -1,0 +1,2 @@
+# Artikel 60c
+De Bestuurscolleges van Curaçao en Sint Maarten kunnen met elkaar en één of meer regeringen van de landen van het Koninkrijk ontwerp-onderlinge regelingen treffen die de staat van onderlinge regeling in de zin van artikel 38, eerste lid, krijgen op het tijdstip van inwerkingtreding van de artikelen I en II van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen.
