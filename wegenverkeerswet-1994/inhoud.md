@@ -43,16 +43,9 @@
 ### § 9. Keuring na ongeldigverklaring of invordering kentekenbewijs
 ### § 9a. Erkenningsregeling keuring van schadevoertuigen
 ## Hoofdstuk VI. Rijvaardigheid en rijbevoegdheid
-### § 1. Rijbewijsplicht
-### § 2. Eisen ten aanzien van het geven van rijonderricht
-### § 3. Algemene voorwaarden met betrekking tot de verkrijging van rijbewijzen
-### § 4. Aanvraag van rijbewijzen
-### § 5. Afgifte van rijbewijzen
-### § 6. Geldigheidsduur
-### § 7. Verlies van geldigheid
-### § 8. Registratie van gegevens met betrekking tot rijbewijzen
-### § 9. Maatregelen rijvaardigheid en geschiktheid
-### § 10. Bromfietscertificaat
+### Afdeling 9. Maatregelen rijvaardigheid en geschiktheid
+#### § 4. Goedkeuring van het alcoholslot
+#### § 5. Erkenningsregelingen alcoholsloten
 ## Hoofdstuk VIA. Interoperabiliteit van elektronische heffingssystemen
 ### § 1. Algemene bepalingen
 ### § 2. Technologische eisen

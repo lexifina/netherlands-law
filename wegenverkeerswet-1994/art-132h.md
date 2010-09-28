@@ -1,0 +1,6 @@
+# Artikel 132h
+1. Met het toezicht op de naleving van de uit de erkenning, bedoeld in artikel 132f, voortvloeiende verplichtingen zijn belast de bij besluit van de Dienst Wegverkeer aangewezen ambtenaren. Van een zodanig besluit wordt mededeling gedaan door plaatsing in de Staatscourant.
+2. Tot het in het eerste lid bedoelde toezicht kan behoren het periodiek controleren van de organisatie van de erkenninghouder, alsmede het uitvoeren van steekproeven op de wijze waarop de erkenninghouder de in artikel 132f, eerste lid, bedoelde taken uitvoert.
+3. De erkenninghouder is gehouden tot betaling, op door de Dienst Wegverkeer vastgestelde wijze, van het door deze dienst ter zake van de kosten van het toezicht vastgestelde tarief.
+4. Bij ministeriële regeling kunnen nadere regels worden vastgesteld betreffende de wijze waarop het toezicht wordt gehouden en de wijze waarop de steekproef wordt georganiseerd. Deze regels kunnen inhouden dat een verscherpt toezicht wordt gehouden indien blijkt dat wordt gehandeld in strijd met een of meer uit de erkenning voortvloeiende de verplichtingen en op welke wijze dat verscherpte toezicht dan plaatsvindt.
+5. De kennisgeving van het verscherpen van het toezicht kan plaatsvinden door middel van datacommunicatie. In dat geval wordt de kennisgeving na daartoe strekkend verzoek van de belanghebbende in een beschikking vastgelegd.
