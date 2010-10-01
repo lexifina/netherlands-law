@@ -1,2 +1,0 @@
-# Artikel 8b
-Degene die de afvalvoorziening categorie A drijft, verstrekt bij een aanvraag om vergunning of op enig ander tijdstip aan het college van burgemeester en wethouders, de burgemeester en het bestuur van de regionale brandweer de gegevens die nodig zijn opdat zij hun taken in het kader van de voorbereiding van de bestrijding van rampen en zware ongevallen naar behoren kunnen uitvoeren. Dit geldt niet voor zover deze gegevens reeds op grond van andere voorschriften zijn verschaft of kunnen worden verkregen.

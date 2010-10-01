@@ -1,2 +1,0 @@
-# Artikel VI
-Voor degenen als bedoeld in artikel VI van de wet van 10 juli 1995, houdende wijziging van de Brandweerwet 1985, de Wet geneeskundige hulpverlening bij rampen en enige andere wetten in verband met wijziging van de opzet van de inspectie voor het brandweerwezen en regeling van enige andere onderwerpen (Stb. 431), treedt Onze Minister van Binnenlandse Zaken op als het bevoegd gezag, bedoeld in de artikelen 3, 4, 8 tot en met 10 en 12 van het Besluit brandweerpersoneel, voor zover het een bevordering betreft.
