@@ -1,5 +1,7 @@
 # Artikel 14c
-1. Toepassing van artikel 14a geschiedt onder de algemene voorwaarde dat de veroordeelde zich voor het einde van de proeftijd niet schuldig maakt aan een strafbaar feit.
+1. Toepassing van artikel 14a geschiedt onder de algemene voorwaarden dat:
+a. de veroordeelde zich voor het einde van de proeftijd niet schuldig maakt aan een strafbaar feit, en
+b. de veroordeelde, voor zover aan de toepassing van artikel 14a bijzondere voorwaarden als bedoeld in het tweede lid, onder 5°, zijn gesteld, ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage aanbiedt.
 2. Bij toepassing van artikel 14a kunnen voorts de volgende bijzondere voorwaarden worden gesteld:
 1°. gehele of gedeeltelijke vergoeding van de door het strafbare feit veroorzaakte schade binnen een door de rechter te bepalen termijn, korter dan de proeftijd;
 2°. opneming van de veroordeelde in een inrichting ter verpleging gedurende een door de rechter te bepalen termijn, ten hoogste gelijk aan de proeftijd;
