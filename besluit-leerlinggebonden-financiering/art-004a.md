@@ -1,0 +1,3 @@
+# Artikel 4a. Gegevens en verklaringen
+1. De gegevens en verklaringen die bij het aanmeldingsformulier, bedoeld in artikel 28c, vierde lid, van de wet, worden gevoegd zijn de toepasselijke onderzoeksgegevens en het onderwijskundig rapport, bedoeld in de afzonderlijke artikelen 13 tot en met 23.
+2. Het eerste lid is niet van toepassing voor zover de ouders van een leerling toestemming geven aan de commissie voor de indicatiestelling of de instantie binnen het regionaal expertisecentrum die de ouders bij de aanmelding begeleidt de gegevens en verklaringen, bedoeld in het eerste lid, op te vragen bij degene die het onderzoek heeft verricht of het rapport heeft opgesteld.
