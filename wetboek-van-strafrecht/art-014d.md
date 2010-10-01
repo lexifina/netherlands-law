@@ -1,3 +1,3 @@
 # Artikel 14d
 1. Met het toezicht op de naleving van de voorwaarden is het openbaar ministerie belast.
-2. De rechter kan aan een krachtens algemene maatregel van bestuur aangewezen reclasseringsinstelling dan wel aan een bijzondere reclasseringsambtenaar opdracht geven de veroordeelde bij de naleving van de voorwaarden hulp en steun te verlenen.
+2. De rechter kan aan een krachtens algemene maatregel van bestuur aangewezen reclasseringsinstelling dan wel aan een bijzondere reclasseringsambtenaar opdracht geven de veroordeelde bij de naleving van de voorwaarden hulp en steun te verlenen. Bij het verlenen van hulp en steun bij de naleving van de voorwaarden, bedoeld in artikel 14c, tweede lid, onder 5°, stelt de reclasseringsinstelling dan wel de bijzondere reclasseringsambtenaar de identiteit van de veroordeelde vast op de wijze, bedoeld in artikel 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van Strafvordering.
