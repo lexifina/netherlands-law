@@ -55,4 +55,3 @@
 ## Ministerie van Volksgezondheid, Welzijn en Sport
 ## Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
 ## Ministerie van Onderwijs en Wetenschappen
-## Ministerie van Binnenlandse Zaken
