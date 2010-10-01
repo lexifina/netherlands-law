@@ -1,0 +1,2 @@
+# Artikel XII
+De vingerafdrukken die op grond van artikel 28, tweede lid, van de Penitentiaire beginselenwet, artikel 22, tweede lid, van de Beginselenwet verpleging ter beschikking gestelden en artikel 33, tweede lid, van de Beginselenwet justitiële jeugdinrichtingen, zoals die artikelleden luidden voor de inwerkingtreding van deze wet, zijn verwerkt, worden tevens geacht te zijn verwerkt op grond van artikel 55c van het Wetboek van Strafvordering.
