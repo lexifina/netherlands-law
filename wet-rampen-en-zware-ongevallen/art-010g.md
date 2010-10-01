@@ -1,3 +1,0 @@
-# Artikel 10g
-1. Indien een ramp of zwaar ongeval heeft plaatsgevonden, draagt het college van burgemeester en wethouders van de gemeente waar de ramp of het zware ongeval zich heeft voorgedaan zorg voor een onderzoek van de ramp of het zware ongeval en doet het zonodig aanbevelingen om een soortgelijke ramp of soortgelijk zwaar ongeval voor de toekomst te voorkomen en de gevolgen daarvan te beperken, tenzij de Onderzoeksraad voor veiligheid, bedoeld in artikel 2 van de Rijkswet Onderzoeksraad voor veiligheid, daar onderzoek naar verricht.
-2. Indien daartoe aanleiding is, wordt naar aanleiding van het eigen onderzoek of het onderzoek van de Onderzoeksraad voor veiligheid het rampenplan, de rampbestrijdingsplannen of het beheersplan aangepast.
