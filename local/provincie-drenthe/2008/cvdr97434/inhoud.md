@@ -2,10 +2,8 @@
 ## Inhoud
 ### HOOFDSTUK I, ALGEMENE BEPALINGEN
 ### HOOFDSTUK II, BESCHERMDE MONUMENTEN
-### Monumentenlijst en plaatsing
-### Voorbescherming
-### Verbodsbepalingen en vergunningverlening
 ## HOOFDSTUK III (GERESERVEERD: BESCHERMDE STRUCTUREN)
+Gereserveerd: beschermde structuren
 ### HOOFDSTUK IV, SCHADEVERGOEDING
 ### HOOFDSTUK V, TOEZICHT EN STRAFBEPALING
 ### HOOFDSTUK VI, SLOTBEPALINGEN
