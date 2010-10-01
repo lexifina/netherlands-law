@@ -1,2 +1,0 @@
-# ARTIKEL V
-Ten aanzien van rampbestrijdingsplannen, bestaande op het tijdstip waarop artikel II, onderdeel C, in werking treedt, blijft artikel 7, eerste lid, tweede volzin van de Wet rampen en zware ongevallen van toepassing gedurende twee jaar na dat tijdstip, met dien verstande dat deze termijn ten aanzien van een rampbestrijdingsplan als bedoeld in artikel 7, derde lid, van die wet eindigt, zodra de krachtens dat artikellid vastgestelde regels worden toegepast. Deze termijn eindigt eveneens zodra de burgemeester zulks ten aanzien van een rampbestrijdingsplan bepaalt.

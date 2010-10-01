@@ -1,2 +1,0 @@
-# Artikel VII
-De ambtenaren die bij besluit van Onze Minister van Binnenlandse Zaken krachtens artikel 24, eerste lid, van de Brandweerwet 1985 zoals dat luidde vóór de datum van inwerkingtreding van artikel I, onderdeel K, als opsporingsambtenaar zijn aangewezen, behouden die hoedanigheid gedurende twee jaar na de datum van inwerkingtreding van dat artikelonderdeel, tenzij zij eerder krachtens artikel 24, eerste lid, van de Brandweerwet 1985 zoals dat komt te luiden na de datum van inwerkingtreding van dat artikelonderdeel, als zodanig worden aangewezen.
