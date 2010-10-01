@@ -43,15 +43,8 @@
 ### § 7.11. Activiteiten met mogelijke grensoverschrijdende milieugevolgen
 ### § 7.12. Evaluatie
 ## Hoofdstuk 8. Inrichtingen
-### Titel 8.1. Vergunningen
-#### Afdeling 8.1.1. Algemeen
-#### Afdeling 8.1.2. Wijziging of intrekking van vergunningen
-#### Afdeling 8.1.3. Bijzondere gevallen
-##### § 8.1.3.1. Algemeen
-##### § 8.1.3.2. Gevallen waarin mede een vergunning krachtens artikel 6.2 van de Waterwet vereist is
-##### § 8.1.3.3. Gevallen waarin afvalstoffen op een bepaalde wijze nuttig worden toegepast of worden verwijderd
-### Titel 8.2. Algemene regels
-### Titel 8.3. Regels met betrekking tot gesloten stortplaatsen en gesloten afvalvoorzieningen
+### Paragraaf 8.1
+### Paragraaf 8.2
 ### Titel 8.4. Regels met betrekking tot plaatsing van stortplaatsen op een lijst
 ## Hoofdstuk 9. Stoffen en produkten
 ### Titel 9.2. Stoffen, preparaten en genetisch gemodificeerde organismen
@@ -147,8 +140,7 @@
 ## Hoofdstuk 19. Openbaarheid van milieu-informatie
 ## Hoofdstuk 20. Beroep bij de administratieve rechter
 ### § 20.1. Algemeen
-### § 20.2. Beroep tegen besluiten die zijn voorbereid met toepassing van afdeling 3.4 van de Algemene wet bestuursrecht
-### § 20.3. Advisering inzake beroepen milieubeheer
+### § 20.2. Advisering inzake beroepen milieubeheer
 ## Hoofdstuk 21. Verdere bepalingen
 ## Hoofdstuk 22. Slotbepalingen
 ## § 1. Grenswaarden en alarmdrempel voor zwaveldioxide

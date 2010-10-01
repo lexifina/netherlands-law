@@ -1,2 +1,0 @@
-# Artikel 100d
-Een besluit tot oplegging van een last onder bestuursdwang of oplegging van een last onder dwangsom gericht op naleving van het bepaalde bij of krachtens hoofdstuk I, II, III of IV kan inhouden dat het bouwen, gebruik of slopen wordt gestaakt dan wel dat voorzieningen, met inbegrip van het slopen van een bouwwerk of standplaats, gericht op het tegengaan of beëindigen van gevaar voor de gezondheid of de veiligheid worden getroffen.

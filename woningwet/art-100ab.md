@@ -1,2 +1,0 @@
-# Artikel 100ab
-Gedeputeerde staten kunnen, indien dat met het oog op een goede ruimtelijke ordening ter behartiging van de provinciale belangen geboden is, burgemeester en wethouders verzoeken binnen een bepaalde termijn de bouwvergunning in te trekken. Indien burgemeester en wethouders de beschikking tot intrekking van de vergunning geven, zenden zij daarvan terstond afschrift aan gedeputeerde staten.

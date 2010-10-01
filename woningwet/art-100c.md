@@ -1,3 +1,0 @@
-# Artikel 100c
-1. Burgemeester en wethouders maken jaarlijks hun voornemens bekend met betrekking tot de wijze waarop in het komende jaar uitvoering zal worden gegeven aan de bestuursrechtelijke handhaving van het bepaalde bij of krachtens de hoofdstukken I tot en met IV.
-2. Burgemeester en wethouders doen jaarlijks verslag aan de gemeenteraad van de wijze waarop in het voorgaande jaar uitvoering is gegeven aan de bestuursrechtelijke handhaving van het bepaalde bij of krachtens de hoofdstukken I tot en met IV, alsmede van het door hen gevoerde beleid bij de uitvoering van die hoofdstukken. Burgemeester en wethouders zenden gelijktijdig met de aanbieding van het verslag aan de gemeenteraad een afschrift ervan aan de inspecteur.
