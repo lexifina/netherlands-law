@@ -1,5 +1,5 @@
 # Artikel 49e
-1. Aan degene voor wie uit de toepassing van artikel 46, 49b of 49d of uit de toepassing van artikel 173, 175 of 176 van de Gemeentewet bij een ongeval met een categorie B-object rechtstreeks en onmiddellijk schade ontstaat, die redelijkerwijs niet of niet geheel te zijnen laste behoort te blijven, kan op zijn verzoek door het in het vijfde lid aangewezen bestuursorgaan een naar billijkheid te bepalen vergoeding worden toegekend, voor zover:
+1. Aan degene voor wie uit de toepassing van artikel 46, 49b of 49d of uit de toepassing van artikel 175 of 176 van de Gemeentewet bij een ongeval met een categorie B-object rechtstreeks en onmiddellijk schade ontstaat, die redelijkerwijs niet of niet geheel te zijnen laste behoort te blijven, kan op zijn verzoek door het in het vijfde lid aangewezen bestuursorgaan een naar billijkheid te bepalen vergoeding worden toegekend, voor zover:
 a. de schade niet langs burgerrechtelijke weg is of kan worden verhaald;
 b. in de vergoeding van de schade niet op andere wijze is of kan worden voorzien.
 2. Het in het vijfde lid aangewezen bestuursorgaan kan regels stellen:
@@ -9,9 +9,9 @@ b. omtrent de indiening en behandeling van en de beslissing op een verzoek om ee
 4. Een vergoeding krachtens het derde lid kan alleen aan de belanghebbende worden toegekend onder de voorwaarde dat hij voor het toegekende bedrag de rechten die hij terzake van de door hem geleden schade tegenover derden heeft, overdraagt aan het bestuursorgaan dat de vergoeding toekent.
 5. Regels als bedoeld in het tweede en derde lid worden gesteld door:
 a. Onze Minister wie het aangaat, indien het betreft schade ten gevolge van de toepassing van artikel 46;
-b. de gemeenteraad, indien het betreft schade ten gevolge van de toepassing van artikel 49b of van de toepassing van artikel 173, 175 of 176 van de Gemeentewet bij een ongeval met een categorie B-object;
+b. de gemeenteraad, indien het betreft schade ten gevolge van de toepassing van artikel 49b of van de toepassing van artikel 175 of 176 van de Gemeentewet bij een ongeval met een categorie B-object;
 c. de beheerder van het oppervlaktewater indien het betreft schade ten gevolge van de toepassing van artikel 49d.
 6. De beslissing op een verzoek om vergoeding van schade als bedoeld in het eerste lid wordt genomen door:
 a. Onze Minister wie het aangaat, indien het betreft schade ten gevolge van de toepassing van artikel 46;
-b. het college van burgemeester en wethouders, indien het betreft schade ten gevolge van de toepassing van artikel 49b of van de toepassing van artikel 173, 175 of 176 van de Gemeentewet bij een ongeval met een categorie B-object;
+b. het college van burgemeester en wethouders, indien het betreft schade ten gevolge van de toepassing van artikel 49b of van de toepassing van artikel 175 of 176 van de Gemeentewet bij een ongeval met een categorie B-object;
 c. de beheerder van het oppervlaktewater, indien het betreft schade ten gevolge van de toepassing van artikel 49d.
