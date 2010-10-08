@@ -29,64 +29,95 @@ Een aantal bepalingen is gericht op een versterking van de voortgang in de uitvo
 De provincie wil hier, met als uitgangspunt dat projecten uitvoeringsgereed zijn en na de subsidieverlening onmiddellijk kunnen starten, bevorderen dat de projecten ook professioneel en snel worden uitgevoerd en afgerekend. Dit blijkt bijvoorbeeld uit de bevoorschotting (artikel 7), de uitvoering (artikel 8) en uit de manier waarop de voortgangsrapportages worden geregeld (artikel 11). De frequentie van voortgangsrapportages is eveneens afgestemd op de frequentie waarmee over voortgang van het plattelandsontwikkelingsprogramma door het Rijk aan de EU moet worden gerapporteerd.
 ### ARTIKELSGEWIJS
 ## Bijlage, Provinciaal meerjarenprogramma Landelijk gebied, deel 3, subsidiegids 2007
-Deel 3 Subsidiegids 2008
+pMJP DRENTHE 2007-2013, DEEL 3, SUBSIDIEGIDS 2011
 Deze subsidiegids is het derde deel van het pMJP van Drenthe voor de periode 2007-2013.
-De subsidiegids wordt los uitgegeven en jaarlijks bijgewerkt. De gids is daarmee zowel een
-document dat initiatiefnemers inzicht geeft in actuele budgetten en subsidiecriteria, als een
-managementinstrument voor de gebiedspartners, die hiermee een goed overzicht houden op de voortgang van de uitvoering van het pMJP.
-1. Subsidies algemeen
+De subsidiegids wordt los uitgegeven en jaarlijks bijgewerkt. De gids is daarmee zowel een document dat initiatiefnemers inzicht geeft in actuele budgetten en subsidiecriteria, als een managementinstrument voor de gebiedspartners, die hiermee een goed overzicht houden op de voortgang van de uitvoering van het pMJP.
+## INHOUD
+1. SUBSIDIES ALGEMEEN
 1.1. Subsidiekader
 1.2. Algemene criteria
 1.3. Europa
-2. Subsidies voor natuur
+2. SUBSIDIES VOOR NATUUR
 2.1. Realisatie natuur
 2.2. Leefgebiedenbenadering (soortenbescherming)
 2.3. Behoud, beheer en ontwikkeling van nationale parken
 2.4. Milieukwaliteit EHS, VHR en Natuurbeschermingsgebieden
 2.5. Natuurbeheer buiten de EHS (Programma Beheer)
-3. Subsidies voor landbouw
+3. SUBSIDIES VOOR LANDBOUW
 3.1. Grondgebonden landbouw
-3.2. Glastuinbouw (vervallen als 3.2, maar samengevoegd met 3.3 Innovatie en
-samenwerking land¿ en glastuinbouw)
+3.2. Glastuinbouw (vervallen als 3.2, maar samengevoegd met 3.3 Innovatie en samenwerking land- en glastuinbouw)
 3.3. Duurzaam ondernemen
-4. Subsidies voor recreatie
+4. SUBSIDIES VOOR RECREATIE
 4.1. Landelijke routenetwerken
-4.2. Provinciale routenetwerken (vervallen als 4.2, maar samengevoegd met 4.3)
+4.2. Provinciale routenetwerken [vervallen als 4.2, maar samengevoegd met 4.3]
 4.3. Versterken toeristische voorzieningen
-5. Subsidies voor landschap
+5. SUBSIDIES VOOR LANDSCHAP
 5.1. Lopende verplichtingen bos/landschap ruimtelijke structuren algemeen
 5.2. Stichting Landschapsbeheer Drenthe
 5.3. Nationaal Landschap
-5.4. Landschapsbehoud en ¿ontwikkeling buiten het kader van het Uitvoeringsprogramma Nationaal Landschap
-6. Subsidies voor bodem
+5.4. Landschapsbehoud en -ontwikkeling buiten het kader van het Uitvoeringsprogramma Nationaal Landschap
+6. SUBSIDIES VOOR BODEM
 6.1. Duurzaam bodemgebruik
-6.2. Bodemsanering (vervallen)
-6.3. Waterbodemsanering (vervallen)
-7. Subsidies voor water
+6.2. Bodemsanering [vervallen]
+6.3. Waterbodemsanering [vervallen]
+7. SUBSIDIES VOOR WATER
 7.1. Water bergen en vasthouden
 7.2. Synergieprojecten (KRW en WB21)
 7.3. Grondwater
-8. Subsidies voor sociaal-economische vitalisering
+8. SUBSIDIES VOOR SOCIAALECONOMISCHE VITALISERING
 8.1. Stimulering en verbreding van de plattelandseconomie
 8.2. Verbetering van de leefbaarheid in plattelandsgebieden
-8.3. Impuls sociaal-economische vitalisering
-### 1. Subsidies algemeen
-### 2. Subsidies voor natuur
-### 3. Subsidies voor landbouw
-### 4. Subsidies voor recreatie
-### 5. Subsidies voor landschap
-### 6. Subsidies voor bodem
-### 7. Subsidies voor water
-### 8. Subsidies voor sociaal-economische vitalisering
-Naast de ondergenoemde beleidsmatige criteria moeten subsidieaanvragen voldoen aan de
-beleidsregel Sociaal Economische Vitalisering, vast te stellen door GS medio januari 2010.
-## 9. Bijlagen
-## 9.1. Subsidieregeling kwaliteitsimpuls natuur en landschap
-### 1. Hoofdstuk 1 Algemene bepalingen
-### Hoofdstuk 2 Ambitiekaart
-### Hoofdstuk 3 Investeringssubsidie natuur en landschap
-### Hoofdstuk 4 Subsidie functieverandering
-### Hoofdstuk 5 Slotbepalingen
+8.3. Impuls sociaaleconomische vitalisering
+### 1, SUBSIDIES ALGEMEEN
+### 2, SUBSIDIES VOOR NATUUR
+### 3, SUBSIDIES VOOR LANDBOUW
+### 4, SUBSIDIES VOOR RECREATIE
+### 5, SUBSIDIES VOOR LANDSCHAP
+### 6, SUBSIDIES VOOR BODEM
+### 7. SUBSIDIES VOOR WATER
+### 8, SUBSIDIES VOOR SOCIAAL-ECONOMISCHE VITALISERING
+## BIJLAGE BIJ pMJP DRENTHE 2007-2013, DEEL 3, SUBSIDIEGIDS, REGELING KWALITEITSIMPULS NATUUR EN LANDSCHAP
+### Hoofdstuk 1, Algemene bepalingen
+### HOOFDSTUK 2, AMBITIEKAART
+### HOOFDSTUK 3, INVESTERINGSSUBSIDIE NATUUR EN LANDSCHAP
+### HOOFDSTUK 4, SUBSIDIE FUNCTIEVERANDERING
+### HOOFDSTUK 5, SLOTBEPALINGEN
+## AFKORTINGENWIJZER BIJ pMJP DRENTHE 2007-2013, DEEL 3, SUBSIDIEGIDS
+AO administratieve organisatie
+BBL Bureau Beheer Landbouwgronden
+BIO Beheers-, inrichtings- en ontwikkelingsplan
+BIP Beheers- en Inrichtingsplan
+DLG Dienst Landelijk Gebied
+EG Europese Gemeenschap
+EHS ecologische hoofdstructuur
+EU Europese Unie
+EVZ ecologische verbindingszone
+GGOR gewenst grond- en oppervlaktewaterregiem
+GS Gedeputeerde Staten
+ICT informatie- en communicatietechnologie
+ILG Investeringsbudget landelijk gebied
+IPO Interprovinciaal Overleg
+KRB Kaderrichtlijn bodem
+KRW Kaderrichtlijn water
+LNV Landbouw, Natuur en Voedselkwaliteit, Ministerie van
+MJP Meerjarenprogramma
+MKB midden- en kleinbedrijf
+NBW Nationaal Bestuursakkoord Water
+PBC Projectbeoordelingscommissie
+pMJP provinciaal Meerjarenprogramma
+POP II Provinciaal omgevingsplan II
+POP2 Plattelands Ontwikkelingsprogramma 2
+PS Provinciale Staten
+PUP Provinciaal Uitvoeringsprogramma Verkeer en Vervoer
+SAN Subsidieregeling agrarisch natuurbeheer
+SN Subsidieregeling natuurbeheer
+SNN Samenwerkingsverband Noord-Nederland
+VIEP Versnelde Inrichting Eelder- en Peizermaden
+VNG Vereniging van Nederlandse Gemeenten
+VROM Ruimtelijke Ordening en Milieubeheer, Ministerie van
+VW Verkeer en Waterstaat, Ministerie van
+WILG Wet Inrichting Landelijk Gebied
+Wm Wet milieubeheer
 ## Bijlage, Doel-middelentabel 2007 2013
 BIJLAGE BIJ HET PROVINCIAAL MEERJARENPROGRAMMA LANDELIJK GEBIED (pMJP), DEEL 3, SUBSIDIEGIDS 2007
 1, Doel-middelentabel 2007 2013
