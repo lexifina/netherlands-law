@@ -1,0 +1,2 @@
+# Artikel 67a. Stabiliteit
+1. Tezamen met de resultaten van de hellingproef als bedoeld in artikel 12 van dit besluit, dienen voldoende gegevens betreffende de stabiliteit voor verschillende hellingen van het schip te worden overgelegd aan het Hoofd van de Scheepvaartinspectie. De stabiliteit van het schip dient daarbij in alle voorkomende bedrijfstoestanden ten minste te voldoen aan door het Hoofd van de Scheepvaartinspectie vast te stellen criteria.
