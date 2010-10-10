@@ -1,0 +1,4 @@
+# Artikel 8b
+1. Bij besluit van Onze Minister en Onze Minister van Justitie gezamenlijk kan worden bepaald dat een krachtens artikel 8a aangewezen toezichthouder bevoegd is een dienstverlener die niet of niet tijdig voldoet aan een uit deze wet voortvloeiende verplichting, een geldboete op te leggen.
+2. De hoogte van de boete voor de verscheidene overtredingen wordt bepaald bij algemene maatregel van bestuur, met dien verstande dat de boete voor een afzonderlijke overtreding ten hoogste USD 250.000 bedraagt.
+3. Alvorens over te gaan tot het opleggen van een boete stelt de toezichthouder de betrokken dienstverlener schriftelijk op de hoogte van het voornemen een boete op te leggen, onder vermelding van de gronden waarop dat voornemen berust.
