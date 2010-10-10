@@ -4,7 +4,7 @@
 ### § 1. Veiligheidsvoorschriften
 ### § 2. Toezicht
 ### § 3. Beroep
-## Hoofdstuk III. De Raad voor de Scheepvaart en de Commissies van Onderzoek in de Nederlandse Antillen en in Aruba
+## Hoofdstuk III. De Raad voor de Scheepvaart en de Commissies van Onderzoek in Aruba, Curaçao en Sint Maarten
 ## Hoofdstuk III A. De veiligheidscommissies
 ### § 1. De Algemene veiligheidscommissie
 ### § 2. De veiligheidscommissie aan boord van schepen

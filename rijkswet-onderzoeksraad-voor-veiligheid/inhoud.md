@@ -16,7 +16,7 @@
 ### § 5. Verhouding tot andere procedures
 ### § 6. Geheimhouding
 ## Hoofdstuk 6. Vervolg op aanbevelingen
-## Hoofdstuk 7. Onderzoek door een ander land
+## Hoofdstuk 7. Onderzoek door een andere staat
 ## Hoofdstuk 8. Straf- en opsporingsbepalingen
 ## Hoofdstuk 9. Evaluatie
 ## Hoofdstuk 10. Taakverwaarlozing
