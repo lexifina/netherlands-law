@@ -1,0 +1,3 @@
+# Artikel 5a
+1. De in artikel 2, eerste lid, bedoelde personen zijn met betrekking tot de leerling die nog niet de leeftijd van zes jaar heeft bereikt, voor ten hoogste 5 uren per week vrijgesteld van de verplichting om te zorgen dat deze de school waarop hij is ingeschreven, geregeld bezoekt. Van een beroep op deze vrijstelling wordt mededeling gedaan aan het hoofd.
+2. Naast deze vrijstelling, genoemd in het eerste lid, kan het hoofd op verzoek van de in artikel 2, eerste lid, bedoelde personen ten behoeve van de leerling, bedoeld in het eerste lid, tot ten hoogste 5 uren per week vrijstelling verlenen van de verplichting om te zorgen dat deze school waarop hij is ingeschreven, geregeld bezoekt.
