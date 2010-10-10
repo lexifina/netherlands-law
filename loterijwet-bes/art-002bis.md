@@ -1,0 +1,2 @@
+# Artikel 2bis
+Het bestuurscollege kan aan een naamloze vennootschap, een coöperatieve of andere, rechtspersoonlijkheid bezittende vereniging of een stichting toestemming verlenen tot het openstellen van een tegen een niet hogere dan de parikoers uit te geven werkelijke geldlening, welke een jaarlijkse en jaarlijks ter beschikking te stellen rente heeft van ten minste drie ten honderd, terwijl aan de schuldbewijzen van die lening bijkomstig een kans op het winnen van premiën is verbonden.
