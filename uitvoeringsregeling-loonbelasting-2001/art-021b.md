@@ -1,2 +1,0 @@
-# Artikel 21b. Waarde kinderopvang
-De waarde van kinderopvang waarvoor aanspraak op een kinderopvangtoeslag onderscheidenlijk aanspraak op een tegemoetkoming kan ontstaan op de voet van artikel 5 van de Wet kinderopvang, die de inhoudingsplichtige zelf verricht, wordt gesteld op het aantal uren genoten kinderopvang maal de uurprijs vastgesteld krachtens artikel 7, tweede lid, van de Wet kinderopvang.

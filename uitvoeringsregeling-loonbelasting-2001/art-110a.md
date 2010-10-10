@@ -1,3 +1,0 @@
-# Artikel 110a. Verrekening sociale uitkeringen in het jaar 2006
-1. Voorzover een sociale uitkering in het jaar 2006 wordt verrekend met een andere sociale uitkering behoort alleen het aan de werknemer toekomende saldo van de verrekening tot het loon. Dit loon wordt belast naar het percentage dat wordt aangewezen door de loonbelastingtabel voor bijzondere beloningen.
-2. Voor de toepassing van het eerste lid wordt onder een sociale uitkering verstaan een uitkering die op grond van een wettelijke bepaling inzake de sociale zekerheid door een gemeente, het Uitvoeringsinstituut werknemersverzekeringen of de Sociale verzekeringsbank wordt betaald.

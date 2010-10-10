@@ -1,3 +1,0 @@
-# Artikel 85a. Niet-drukkende uitkering, bijdrage of premie ingevolge een regeling voor vervroegde uittreding
-1. Voor de toepassing van artikel 32ba van de wet wordt een uitkering, een bijdrage of een premie eveneens beschouwd niet te drukken op een inhoudingsplichtige voor zover de inhoudingplichtige aannemelijk maakt dat hij ter zake op een later moment bedragen van werknemers gaat inhouden of van andere inhoudingsplichtigen bijdragen of premies voldaan gaat krijgen.
-2. Indien de in het eerste lid bedoelde inhouding of voldoening niet binnen een jaar na het in artikel 32ba, tweede lid, van de wet bedoelde tijdstip heeft plaatsgevonden, wordt de uitkering, de bijdrage of de premie op dat moment geacht op de inhoudingsplichtige te drukken.

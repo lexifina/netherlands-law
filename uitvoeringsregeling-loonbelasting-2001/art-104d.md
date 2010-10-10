@@ -1,3 +1,0 @@
-# Artikel 104d. Identificatieplicht
-1. De inhoudingsplichtige stelt zodra het buitenlandse gezelschap zijn werkzaamheden aanvangt de identiteit van een zo groot mogelijk deel, maar van ten minste het merendeel van de leden van het gezelschap vast aan de hand van een document als bedoeld in artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht en houdt een afschrift van dat document voor controle beschikbaar bij de loonadministratie.
-2. Artikel 66, tweede, derde en vierde lid, is van overeenkomstige toepassing.

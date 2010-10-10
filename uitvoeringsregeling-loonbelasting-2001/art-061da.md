@@ -1,6 +1,0 @@
-# Artikel 61da. Levenslooprecht van deelneming
-1. Het ingevolge een levensloopregeling ingehouden loon moet worden overgemaakt naar de in de levensloopregeling aangewezen beheerder van een beleggingsinstelling ter verwerving van een of meer geblokkeerd rechten van deelneming in die instelling – levenslooprecht van deelneming –, die voor iedere werknemer afzonderlijk worden geadministreerd.
-2. Het met een levenslooprecht van deelneming behaalde rendement wordt aangewend ter verwerving van levenslooprechten van deelneming.
-3. Het levenslooprecht van deelneming mag uitsluitend bestaan uit het levenslooploon.
-4. De beheerder van de beleggingsinstelling maakt het levenslooploon over naar de inhoudingsplichtige ter betaling van het loon van de werknemer gedurende de periode van extra verlof voorzover de inhoudingsplichtige en de werknemer tezamen daarvoor toestemming hebben verleend.
-5. In afwijking in zoverre van het vierde lid maakt de beheerder van de beleggingsinstelling het levenslooploon op verzoek van de werknemer over naar de werknemer indien geen inhoudingsplichtige als bedoeld in artikel 6, eerste lid, onderdeel a, van de wet kan worden aangewezen; in dit geval wordt de beheerder van de beleggingsinstelling als inhoudingsplichtige aangemerkt.

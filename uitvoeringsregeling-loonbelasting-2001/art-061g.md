@@ -1,2 +1,0 @@
-# Artikel 61g. Toegestane aangroei boven het plafond bij een levensloopverzekering
-Ook indien bij het begin van het kalenderjaar de in artikel 61e bedoelde begrenzing op basis waarvan wordt beoordeeld of in het kalenderjaar nog aanspraken ingevolge een levensloopregeling kunnen worden opgebouwd is bereikt, leiden nadien behaalde rendementen niet tot de constatering dat de regeling niet meer voldoet aan de eisen die worden gesteld aan een levensloopregeling.

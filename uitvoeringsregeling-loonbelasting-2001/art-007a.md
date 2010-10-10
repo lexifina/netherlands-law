@@ -1,2 +1,0 @@
-# Artikel 7a. Niet tot het loon behorende voorzieningen
-Als niet tot het loon behorende voorzieningen voor militaire oorlogs- of dienstslachtoffers die verband houden met invaliditeit als bedoeld in artikel 11, eerste lid, onderdeel l, van de wet worden aangewezen: voorzieningen in de zin van de Voorzieningenregeling voor militaire oorlogs- en dienstslachtoffers.
