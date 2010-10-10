@@ -1,0 +1,3 @@
+# Artikel 10a
+1. Een voorstel tot verlening van een onderscheiding aan een gezaghebber wordt gericht aan de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba. De Rijksvertegenwoordiger zendt het voorstel met zijn advies aan het Kapittel. Artikel 9, vierde lid tot en met zevende lid, is van toepassing.
+2. Een voorstel tot verlening van een onderscheiding aan de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba wordt gericht aan de gezaghebber van Bonaire. De gezaghebber van Bonaire zendt het voorstel met zijn advies aan het Kapittel. Artikel 9, vierde tot en met zevende lid, is van toepassing.
