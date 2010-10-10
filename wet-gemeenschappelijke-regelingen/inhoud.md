@@ -39,4 +39,8 @@
 ### § 5. Verplichte uitvoering
 ### § 6. Taken en bevoegdheden
 ### § 7. Geschillen
+## Hoofdstuk XIa. Regelingen tussen de openbare lichamen Bonaire, Sint Eustatius en Saba
+### § 1. Bevoegdheid tot treffen van een regeling
+### § 2. Algemene bepalingen
+### § 3. Bevoegdheden bij regelingen tussen openbare lichamen Bonaire, Sint Eustatius en Saba
 ## Hoofdstuk XII. Slotbepalingen

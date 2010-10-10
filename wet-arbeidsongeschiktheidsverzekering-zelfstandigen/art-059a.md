@@ -12,4 +12,4 @@ b. zowel toekenning van arbeidsongeschiktheidsuitkering op grond van artikel 43a
 a. met betrekking tot het eerste tot en met derde lid;
 b. ter voorkoming of beperking van samenloop van arbeidsongeschiktheidsuitkering met de in het eerste tot en met derde lid bedoelde uitkeringen in situaties waarin deze leden niet of onvoldoende voorzien;
 c. ter voorkoming of beperking van samenloop van arbeidsongeschiktheidsuitkering op grond van deze wet met uitkering op grond van andere wetten.
-7. Bij algemene maatregel van bestuur kunnen regels worden gesteld ter voorkoming of beperking van samenloop van arbeidsongeschiktheidsuitkering met uitkering op grond van de sociale wetgeving van de Nederlandse Antillen, Aruba of van een andere Mogendheid.
+7. Bij algemene maatregel van bestuur kunnen regels worden gesteld ter voorkoming of beperking van samenloop van arbeidsongeschiktheidsuitkering met uitkering op grond van de sociale wetgeving van Aruba, Curaçao, Sint Maarten, een vergelijkbare regeling ten behoeve van de openbare lichamen Bonaire, Sint Eustatius en Saba of van een andere Mogendheid.

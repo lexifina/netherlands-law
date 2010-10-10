@@ -1,0 +1,3 @@
+# Artikel 19a
+1. In afwijking van artikel 1a, is deze wet tot twee jaar na de inwerkingtreding van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba alleen van toepassing op de gedragingen van de bestuursorganen van de openbare lichamen, voor zover de ombudsman hiertoe op een gezamenlijk verzoek van de eilandsraden van de openbare lichaam heeft besloten. De ombudsman kan daarbij een termijn bepalen waarop deze wet ten aanzien van de gedragingen van de bestuursorganen van de openbare lichamen van toepassing zal zijn.
+2. Een besluit als bedoeld in het eerste lid wordt bekend gemaakt in de Staatscourant en in de afkondigingsbladen van de openbare lichamen.
