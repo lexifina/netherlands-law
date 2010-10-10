@@ -1,0 +1,4 @@
+# Artikel 9a
+De verloskundige, die na 23 juli 1951 in Nederland een geldig diploma als zodanig heeft behaald, of die een aantekening op haar diploma heeft gekregen ingevolge de Beschikking van de Staatssecretaris van Sociale Zaken van 12 juli 1951, Afdeling Volksgezondheid 1, No. 13150 (Ned. Stcrt. 1951, nr. 135), bezit naast de bevoegdheid tot het verrichten van de handelingen als in de artikelen 7, 8 en 9 van dit besluit bedoeld, daarenboven nog de bevoegdheid tot:
+a. het geven van raad of bijstand aan zwangeren in de eerste helft der zwangerschap, met dien verstande, dat zij bevoegd is tot het nemen van maatregelen ter voorkoming van afwijkingen, daaronder begrepen het door middel van de aderprik afnemen van bloed voor onderzoek;
+b. het hechten van inscheuringen van beperkte omvang volgens bij ministeriele regeling vast te stellen regels;
