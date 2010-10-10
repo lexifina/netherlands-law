@@ -1,0 +1,2 @@
+# Artikel 1a
+De Kroon van het Koninkrijk wordt erfelijk gedragen door Hare Majesteit Juliana, Prinses van Oranje-Nassau en bij opvolging door Hare wettige opvolgers.
