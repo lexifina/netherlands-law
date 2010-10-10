@@ -1,0 +1,12 @@
+# Artikel 2a
+1. In afwijking van artikel 2 kan ten aanzien van een geschil voortvloeiende uit een overeenkomst tot het verrichten van arbeid, diegene wiens bruto inkomen per jaar uit arbeid niet meer dan USD 6.704 bedraagt, aanspraak maken op een kaart die recht geeft op kosteloze rechtsbijstand.
+2. Degene wiens bruto inkomen per jaar meer bedraagt dan USD 6.704 maar niet meer dan USD 12.570 aanspraak maken op de kaart, bedoeld in het eerste lid, mits hij aan de ontvanger, bedoeld in artikel 1.3, onderdeel k, van de Belastingwet BES, een eigen bijdrage heeft voldaan van:
+a. USD 28 als het bruto inkomen per jaar meer bedraagt dan USD 6.704 maar niet meer dan USD 8.380;
+b. USD 70 als het bruto inkomen per jaar meer bedraagt dan USD 8.380 maar niet meer dan USD 9.777;
+c. USD 126 als het bruto inkomen per jaar meer bedraagt dan USD 9.777 maar niet meer dan USD 11.173;
+d. USD 196 als het bruto inkomen per jaar meer bedraagt dan USD 11.173 maar niet meer dan USD 12.570;
+3. Onder inkomen, bedoeld in het eerste en het tweede lid, wordt verstaan:
+a. alle inkomen uit arbeid, waaronder begrepen nevenbetrekkingen, van de belanghebbende, zoals het naar tijdsruimte vastgestelde loon, het vakantiegeld, provisie, winstbonussen en dergelijke, die als grondslag dienen voor de inkomstenbelasting, met uitzondering van de vergoeding van overwerk en de toeslag, bedoeld in artikel 11, negende lid, van de Arbeidswet 2000 BES;
+b. andere inkomsten dan inkomsten uit arbeid, indien die andere inkomsten ten opzichte van het inkomen uit arbeid, bedoeld in onderdeel a, tenminste ééntiende deel van het totale bruto inkomen van de belanghebbende uitmaken.
+4. Degene, die een kaart wenst te verkrijgen als bedoeld in dit artikel, wendt zich daartoe tot Onze Minister van Justitie onder overlegging van tenminste zijn meest recente loonstrook of loonstroken als bedoeld in artikel 1614pa van het Burgerlijk Wetboek BES, en, voor zover van toepassing, een verklaring van de ontvanger, bedoeld in artikel 1.3, onderdeel k, van de Belastingwet BES van betaling van de in het tweede lid bedoelde eigen bijdrage. Als de belanghebbende geen loonstrook kan overleggen, dan wel als het bepaalde in het vierde lid van toepassing is, dient een verklaring, bedoeld in artikel 2, derde lid, te worden overgelegd, met dien verstande dat uit die verklaring niet enkel het zuiver inkomen doch tevens het bruto inkomen uit arbeid dient te blijken.
+5. Het bepaalde in artikel 2, tweede en vijfde lid, is van overeenkomstige toepassing.

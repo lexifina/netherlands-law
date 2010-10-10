@@ -1,0 +1,3 @@
+# Artikel 6a
+1. Indien personen, die als eisende partij met kosteloze rechtskundige bijstand ingevolge deze wet procederen, veroordeeld worden in de kosten, komt uitsluitend het salaris van de gemachtigde der wederpartij, tot het door de rechter vastgestelde bedrag voor rekening van het Rijk.
+2. Indien de rechter een bedrag vaststelt voor salaris van de advokaat van een onvermogende, aan wie op grond van deze wet kosteloze rechtkundige bijstand wordt verleend stort de advokaat dit bedrag na ontvangst in 's Rijks kas, voorzover dit bedrag, dat aan de advocaat voor de behandeling van de zaak in de betreffende instantie is toegekend, niet overschrijdt.
