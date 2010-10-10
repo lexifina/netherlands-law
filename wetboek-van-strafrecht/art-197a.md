@@ -5,3 +5,4 @@
 4. Indien een van de feiten, omschreven in het eerste en tweede lid, wordt begaan door een persoon die daarvan een beroep of gewoonte maakt of in vereniging wordt begaan door meerdere personen, wordt gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie opgelegd.
 5. Indien een van de feiten, omschreven in het eerste en tweede lid, zwaar lichamelijk letsel ten gevolge heeft of daarvan levensgevaar voor een ander te duchten is, wordt gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie opgelegd.
 6. Indien een van de feiten, omschreven in het eerste en tweede lid, de dood ten gevolge heeft, wordt een gevangenisstraf van het hoogste vijftien jaren of geldboete van de vijfde categorie opgelegd.
+7. Voor de toepassing van dit artikel wordt onder Nederland mede verstaan de openbare lichamen Bonaire, Sint Eustatius en Saba.
