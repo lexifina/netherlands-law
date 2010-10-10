@@ -1,0 +1,4 @@
+# Artikel 13c
+1. De in artikel 13, eerste lid, onderdeel a, bedoelde ambtenaren zijn bevoegd te vorderen dat de verpakking van goederen, met inbegrip van reisbagage, wordt geopend, indien daartoe redelijkerwijs aanleiding bestaat op grond van een gepleegd strafbaar feit waarbij vuurwapenen zijn gebruikt of op grond van aanwijzingen dat een dergelijk strafbaar feit zal worden gepleegd.
+2. De in het eerste lid bedoelde bevoegdheid kan slechts worden uitgeoefend tegen bepaalde personen, indien daartoe jegens hen aanleiding bestaat. De officier van justitie kan bij schriftelijk bevel gelasten dat deze bevoegdheid tegenover een ieder kan worden uitgeoefend. Het bevel is met redenen omkleed.
+3. Indien geen medewerking wordt verleend, kunnen de in het eerste lid bedoeld ambtenaren en personen, op kosten en risico van de houder van goederen, in het nodige voorzien.
