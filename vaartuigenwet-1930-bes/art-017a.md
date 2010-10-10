@@ -1,0 +1,2 @@
+# Artikel 17a
+Bij overtreding binnen de territoriale wateren van de artikelen 2, 3, 4, 6 of 8, dan wel indien niet wordt voldaan aan een vordering krachtens artikel 15a, vijfde lid, zijn de in artikel 17, eerste lid, genoemde opsporingsambtenaren bevoegd het vaartuig naar de haven of baai van de openbare lichamen Bonaire, Sint Eustatius of Saba van waar is uitgevaren, of anders naar de dichtstbijzijnde haven of baai op te brengen.
