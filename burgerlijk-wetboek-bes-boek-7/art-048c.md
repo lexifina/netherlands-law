@@ -1,0 +1,5 @@
+# Artikel 48c
+1. Gedurende vijf dagen na de terhandstelling van de akte of een afschrift daarvan overeenkomstig artikel 48b, tweede lid, heeft de koper het recht de koop zonder opgave van redenen te ontbinden. Indien de akte niet alle bij algemene maatregel van bestuur bepaalde gegevens vermeldt, wordt deze termijn verlengd met de tijd die is verstreken vanaf de terhandstelling van de akte of een afschrift daarvan totdat alle ontbrekende gegevens alsnog schriftelijk aan de koper zijn verstrekt, doch ten hoogste met een maand.
+2. De koper oefent zijn in het eerste lid bedoelde recht de overeenkomst te ontbinden uit door binnen de gestelde termijn een schriftelijke verklaring te richten tot de verkoper of tot degene die daartoe overeenkomstig het in het algemene maatregel van bestuur bepaalde in de akte is vermeld.
+3. In geval van ontbinding overeenkomstig het eerste en tweede lid is de koper aan de verkoper ten hoogste 3% van de prijs als vergoeding verschuldigd.
+4. Op de termijnen bedoeld in het eerste lid is de Algemene termijnenwet niet van toepassing.
