@@ -11,7 +11,7 @@
 ### Afdeling 4. Beroep in cassatie bij de Hoge Raad
 ## Hoofdstuk VA. Heffingsrente en revisierente
 ## Hoofdstuk VI. Bevordering van de richtige heffing
-## Hoofdstuk VII. Bepalingen van interregionaal en van internationaal recht
+## Hoofdstuk VII. Bepalingen ter voorkoming van dubbele belasting
 ## Hoofdstuk VIII. Bijzondere bepalingen
 ### Afdeling 1. Vertegenwoordiging buiten rechte
 ### Afdeling 2. Verplichtingen ten dienste van de belastingheffing

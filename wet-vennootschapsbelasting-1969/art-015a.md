@@ -12,7 +12,7 @@ e. de door Onze Minister nader te stellen voorwaarden zijn vervuld.
 6. Indien de ledenmaatschappijen deel uitmaken van een fiscale eenheid met een centrale maatschappij vindt met betrekking tot die centrale maatschappij artikel 9, eerste lid, onderdeel g, geen toepassing.
 7. Artikel 15, tiende lid, is van overeenkomstige toepassing.
 8. Dit artikel verstaat onder:
-a. centrale maatschappij: een binnen het Rijk gevestigde coöperatie waarvan de leden uitsluitend zijn binnen het Rijk gevestigde coöperaties;
+a. centrale maatschappij: een in Nederland gevestigde coöperatie waarvan de leden uitsluitend zijn in Nederland gevestigde coöperaties;
 b. ledenmaatschappijen: de leden van een centrale maatschappij.
 9. Dit artikel is op overeenkomstige wijze van toepassing op onderlinge waarborgmaatschappijen.
 10. Het bepaalde in artikel 15ac, vijfde en zesde lid, is van overeenkomstige toepassing.
