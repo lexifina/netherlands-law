@@ -1,0 +1,2 @@
+# Artikel 42b
+Kredietinstellingen en geldtransactiekantoren zijn gehouden bij geldovermakingen informatie over de betaler bij te voegen. Bij ministeriële regeling kunnen nadere regels worden gesteld, alsmede regels met betrekking tot het bewaren en beschikbaar houden van de bij te voegen informatie, de behandeling van ontvangen geldovermakingen waarbij niet alle vereiste informatie is gevoegd, en het optreden als intermediaire betalingsdienstaanbieder.
