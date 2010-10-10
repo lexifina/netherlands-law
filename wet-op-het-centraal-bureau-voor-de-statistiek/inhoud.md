@@ -12,6 +12,7 @@
 ### Paragraaf 1. Instelling en samenstelling
 ### Paragraaf 2. Benoeming
 ### Paragraaf 3. Taken, bevoegdheden en werkwijze
+## Hoofdstuk 4a. Bonaire, Sint Eustatius en Saba
 ## Hoofdstuk 5. Verwerving, gebruik en verstrekking van gegevens
 ### Paragraaf 1. Verwerving
 ### Paragraaf 2. Gebruik van gegevens

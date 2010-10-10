@@ -1,0 +1,2 @@
+# Artikel 32a
+Deze wet, met uitzondering van de artikelen 4, 38a tot en met 39, en artikel 41, tweede lid, onderdeel d, is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat Hoofdstuk 5, paragraaf 4, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van de Aanpassingswet vierde tranche Awb, in genoemde openbare lichamen van toepassing blijft.
