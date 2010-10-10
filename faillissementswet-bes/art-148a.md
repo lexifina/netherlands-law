@@ -1,0 +1,2 @@
+# Artikel 148a
+Binnen acht dagen na de beschikking van de rechter in eerste aanleg kunnen, zo de homologatie is geweigerd, zowel de schuldeisers die voor het akkoord stemden als de gefailleerde, zo de homologatie is toegestaan, de schuldeisers die tegenstemden of bij de stemming afwezig waren, tegen die beschikking in hoger beroep komen. In het laatste geval hebben ook de schuldeisers, die vóór stemden, ditzelfde recht, doch alleen op grond van het ontdekken na de homologatie van handelingen als in artikel 148, 2de lid, sub 3 e genoemd.

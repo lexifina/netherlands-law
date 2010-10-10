@@ -1,0 +1,2 @@
+# Artikel 32a
+Ingeval een termijn die vóór de faillietverklaring uit hoofde van artikel 55, tweede lid, van Boek 3 of van artikel 88 van Boek 6 van het Burgerlijk Wetboek BES aan de schuldenaar was gesteld, ten tijde van de faillietverklaring nog niet was verstreken, loopt de termijn voort, voor zover dit redelijkerwijze noodzakelijk is om de curator in staat te stellen zijn standpunt te bepalen. De wederpartij kan de curator daartoe een nieuwe redelijke termijn stellen.

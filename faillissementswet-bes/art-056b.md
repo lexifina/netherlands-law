@@ -1,0 +1,3 @@
+# Artikel 56b
+1. Zijn krachtens artikel 56a goederen buiten het faillissement gebleven en heeft de bewindvoerder opgehouden de schuldeisers te betalen die deze goederen onbelast met bewind kunnen uitwinnen, dan kan de rechter in eerste aanleg die de faillietverklaring heeft uitgesproken op verzoek van ieder van deze schuldeisers die niet in het faillissement kunnen opkomen, de curator opdragen ook het beheer van deze goederen op zich te nemen en voor de vereffening te hunnen behoeve zorg te dragen.
+2. De bepalingen, betreffende faillietverklaring en faillissement, zijn van overeenkomstige toepassing.
