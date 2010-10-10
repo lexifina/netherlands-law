@@ -1,0 +1,2 @@
+# Artikel 28a
+Handelen in strijd met de artikelen 10, eerste, derde en vierde lid, 18, eerste en tweede lid, en 20, tweede lid, is een overtreding en wordt gestraft met een geldboete van ten hoogste de vijfde categorie. Bovendien kan als bijkomende straf gehele of gedeeltelijke stillegging van de onderneming van de veroordeelde, waarin de overtreding is begaan, worden opgelegd, voor een tijd van ten hoogste een jaar.
