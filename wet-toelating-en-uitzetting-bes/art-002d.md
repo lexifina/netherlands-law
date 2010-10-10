@@ -1,0 +1,3 @@
+# Artikel 2d
+1. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de wijze van indiening en de behandeling van een aanvraag tot verlening of wijziging van een machtiging tot voorlopig verblijf dan wel een terugkeervisum, daaronder begrepen de wijze waarop beschikkingen, kennisgevingen, mededelingen of berichten ingevolge dit hoofdstuk aan de vreemdeling of andere belanghebbenden worden bekendgemaakt.
+2. Bij of krachtens algemene maatregel van bestuur kan worden bepaald in welke gevallen aan de verplichtingen die krachtens dit hoofdstuk op de betrokkene rusten kan worden voldaan door diens wettelijk vertegenwoordiger.

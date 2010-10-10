@@ -1,0 +1,4 @@
+# Artikel 2n
+1. Degene aan wie de toegang is geweigerd, dient de openbare lichamen onmiddellijk te verlaten met inachtneming van daartoe gegeven aanwijzingen van de ambtenaar belast met de grensbewaking.
+2. Indien de persoon, bedoeld in het eerste lid, de openbare lichamen is binnengekomen aan boord van een vaartuig of luchtvaartuig in gebruik bij een vervoersonderneming, dient hij de openbare lichamen onmiddellijk te verlaten met dat vervoer of een hem door een ambtenaar belast met de grensbewaking aangewezen vervoermiddel.
+3. De verplichtingen, bedoeld in het eerste en tweede lid, gelden niet indien de persoon, bedoeld in het eerste lid, een vreemdeling is die een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd onder een beperking verband houdend met bescherming als bedoeld in artikel 12a heeft ingediend en daarop nog niet is beslist.

@@ -1,0 +1,2 @@
+# Artikel 22o
+Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzien van de wijze van horen van de vreemdeling.

@@ -1,0 +1,4 @@
+# Artikel 22n
+1. Indien het beroep, bedoeld in artikel 22l, ongegrond is verklaard en de vreemdeling beroep instelt tegen het voortduren van de vrijheidsontneming, sluit het Gerecht het vooronderzoek binnen een week na ontvangst van het beroepschrift. In afwijking van artikel 35 van de Wet administratieve rechtspraak BES kan het Gerecht ook zonder toestemming van partijen bepalen dat het onderzoek ter zitting achterwege blijft.
+2. Het Gerecht doet mondeling of schriftelijk uitspraak. De schriftelijke uitspraak wordt binnen zeven dagen na de sluiting van het onderzoek gedaan.
+3. Indien het Gerecht bij het beroep van oordeel is dat de toepassing of tenuitvoerlegging van de maatregel in strijd is met deze wet dan wel bij afweging van alle daarbij betrokken belangen in redelijkheid niet gerechtvaardigd is, verklaart hij het beroep gegrond. In dat geval beveelt het Gerecht de opheffing van de maatregel of een wijziging van de wijze van tenuitvoerlegging daarvan.

@@ -1,0 +1,7 @@
+# Artikel 2q
+1. De vervoerder door wiens tussenkomst een persoon aan een grens of binnen het grondgebied van de openbare lichamen wordt gebracht, neemt de nodige maatregelen en houdt het toezicht dat redelijkerwijs van hem kan worden gevorderd om te voorkomen dat door de persoon niet wordt voldaan aan artikel 2r, eerste lid, onder a en b dan wel een voor Nederland bindend besluit van een volkenrechtelijke organisatie.
+2. De vervoerder kan worden verplicht om een afschrift te nemen van het op de vreemdeling betrekking hebbende document voor grensoverschrijding en dit ter hand te stellen aan de ambtenaar belast met de grensbewaking.
+3. De vervoerder, bedoeld in het eerste lid, kan ten behoeve van de grensbewaking en het tegengaan van illegale immigratie worden verplicht passagiersgegevens te verzamelen en te verstrekken aan de ambtenaren belast met de grensbewaking.
+4. De vervoerder, bedoeld in het eerste lid, vervoert op aanwijzing van de ambtenaar belast met grensbewaking degene aan wie de toegang is geweigerd terug naar de plaats, het land of de derde staat van waar zij die persoon heeft vervoerd.
+5. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepassing van het eerste tot het met het derde lid.
+6. Het eerste tot en met het derde lid zijn ook van toepassing op iedere vervoerder die zich buiten de openbare lichamen schuldig maakt aan schending van de in die leden bedoelde verplichtingen.

@@ -1,0 +1,12 @@
+# Artikel 2i
+1. Een terugkeervisum kan worden geweigerd indien:
+a. de vreemdeling niet door overlegging van documenten aannemelijk heeft gemaakt dat sprake is van een dringende reden die geen uitstel van vertrek mogelijk maakt;
+b. de vreemdeling niet zelfstandig beschikt over een geldig document voor grensoverschrijding;
+c. de vreemdeling zich gedurende zijn verblijf in een openbaar lichaam aan maatregelen van toezicht op grond van deze wet heeft onttrokken;
+d. uit een oogpunt van toezicht op grond van deze wet, opsporing of vervolging van strafbare feiten, tenuitvoerlegging van een vonnis of om andere gewichtige redenen bezwaar bestaat tegen vertrek van de vreemdeling uit de openbare lichamen;
+e. het naar het oordeel van Onze Minister in de rede ligt dat binnen de geldigheidsduur van het terugkeervisum een beslissing kan worden verwacht op een aanvraag tot het verlenen of verlengen van de geldigheidsduur van een verblijfsvergunning voor bepaalde tijd of onbepaalde tijd of wijziging daarvan, of op een bezwaarschrift of beroepschrift daaromtrent, terwijl bij of krachtens deze wet of een rechterlijke beslissing de uitzetting van de vreemdeling achterwege dient te blijven totdat op die aanvraag, dat bezwaar of beroep is beslist;
+f. de vreemdeling in afwachting is van de beslissing op diens aanvraag om een verblijfsvergunning voor bepaalde tijd dan wel in afwachting is van de beslissing op een bezwaarschrift of beroepschrift tegen een dergelijke beslissing en is ingereisd zonder de benodigde machtiging tot voorlopig verblijf;
+g. de vreemdeling een gevaar vormt voor de openbare orde of de nationale veiligheid dan wel zich schuldig heeft gemaakt aan of verdacht wordt van terrorisme, oorlogsmisdaden, of andere misdaden tegen de menselijkheid.
+2. Een terugkeervisum wordt geweigerd ten behoeve van de terugkeer uit het land van herkomst van de vreemdeling die houder is van een verblijfsvergunning voor bepaalde tijd verband houdend met bescherming als bedoeld in artikel 12a.
+3. Een terugkeervisum wordt geweigerd ten behoeve van de terugkeer uit het land van herkomst van de vreemdeling die een aanvraag verband houdend met bescherming als bedoeld in artikel 12a heeft gedaan en die in afwachting is van een beslissing omtrent die aanvraag.
+4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de toepassing van de gronden, bedoeld in het eerste, tweede en derde lid.

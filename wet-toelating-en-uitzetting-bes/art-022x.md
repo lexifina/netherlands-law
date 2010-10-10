@@ -1,0 +1,3 @@
+# Artikel 22x
+1. Indien het Gerecht de opheffing van een maatregel strekkende tot vrijheidsontneming beveelt, dan wel de vrijheidsontneming reeds voor de behandeling van het verzoek om opheffing van die maatregel wordt opgeheven, kan hij aan de vreemdeling een vergoeding ten laste van de Staat toekennen. Onder schade is begrepen het nadeel dat niet in vermogensschade bestaat. De artikelen 178 en 181 van het Wetboek van Strafvordering BES zijn van overeenkomstige toepassing. Indien de vreemdeling na het indienen van zijn verzoek is overleden, geschiedt de toekenning ten behoeve van zijn erfgenamen.
+2. Het eerste lid is van overeenkomstige toepassing, indien het Hof de opheffing van de maatregel strekkende tot vrijheidsontneming beveelt.

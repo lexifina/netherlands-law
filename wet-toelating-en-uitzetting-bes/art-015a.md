@@ -1,0 +1,6 @@
+# Artikel 15a
+1. Onze Minister kan de vreemdeling wiens aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd verband houdend met bescherming als bedoeld in artikel 12a is afgewezen, de aanwijzing geven zich op te houden in een bepaalde ruimte of op een bepaalde plaats en aldaar de aanwijzingen van de bevoegde autoriteit in acht te nemen, ook indien de beschikking waarbij de aanvraag is afgewezen nog niet onherroepelijk is dan wel de werking van de beschikking is opschort.
+2. Op aanvraag van de vreemdeling kan een andere ruimte of plaats worden aangewezen.
+3. Een aanwijzing als bedoeld in het eerste lid blijft achterwege indien de vrijheid van beweging van de vreemdeling is beperkt in verband met het onderzoek naar de aanvraag om een verblijfsvergunning voor bepaalde tijd en de vreemdeling zich daadwerkelijk beschikbaar heeft gehouden en de beschikking tot afwijzing meer dan acht weken na de indiening van de aanvraag is gegeven.
+4. De aanwijzing, bedoeld in het eerste lid, vervalt indien de beschikking waarbij de aanvraag is afgewezen is vernietigd of zodra het vertrek van de vreemdeling uit de ruimte of plaats nodig is om de openbare lichamen te verlaten.
+5. De termijn, bedoeld in het derde lid, wordt opgeschort gedurende de termijn waarin de vreemdeling de beperking van zijn bewegingsvrijheid niet in acht heeft genomen.

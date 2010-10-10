@@ -1,0 +1,3 @@
+# Artikel 2g
+1. De vreemdeling dan wel de referent verstrekt Onze Minister de door hem voor de beoordeling van de aanvraag om een machtiging tot voorlopig verblijf verlangde gegevens en bescheiden desgevraagd in persoon.
+2. Met het oog op de beoordeling van het vereiste ten aanzien van het beschikken over voldoende middelen van bestaan, gesteld bij of krachtens deze wet, kan Onze Minister van de vreemdeling zekerheidsstelling voor de daarmee gemoeide kosten verlangen tot een door Onze Minister te bepalen bedrag. Deze zekerheidsstelling kan mede omvatten het beschikken over een toereikende ziektekostenverzekering ter dekking van ziektekosten.
