@@ -1,0 +1,6 @@
+# Artikel 1a
+1. Het model van de identiteitskaart wordt voor ieder openbaar lichaam vastgesteld bij ministeriële regeling.
+2. Onze Minister draagt zorg voor de vervaardiging van de blanco identiteitskaarten en de distributie daarvan naar de gezaghebbers van de openbare lichamen. Onze Minister draagt tevens zorg dat de gezaghebbers beschikken over de apparatuur en overige materialen in verband met het personaliseren van de blanco identiteitskaarten.
+3. Een identiteitskaart die wordt verstrekt aan een vreemdeling vermeldt tevens de verblijfsstatus van betrokkene.
+4. De op de identiteitskaart aan te brengen foto voldoet aan de daaraan bij ministeriële regeling te stellen vereisten. Bij ministeriële regeling wordt tevens bepaald van welke vereisten kan worden afgezien indien op grond van godsdienstige, levensbeschouwelijke of medische redenen van betrokkene niet kan worden gevergd dat hij daaraan voldoet. Bij gerede twijfel aan de medische redenen kan van betrokkene worden verlangd, dat deze daartoe een door een bevoegde arts of medische instelling ondertekende verklaring overlegt.
+5. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot andere op de identiteitskaart aan te brengen gegevens en gegevensdragers.
