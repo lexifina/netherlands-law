@@ -1,0 +1,3 @@
+# Artikel IV
+1. De commissaris van de Koning adviseert Onze Minister wie het aangaat volgens een door de regering gegeven ambtsinstructie over de verlening van onderscheidingen in de Orde van de Nederlandse Leeuw en de Orde van Oranje-Nassau aan inwoners van de provincie.
+2. De Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba adviseert Onze Minister wie het aangaat volgens een door de regering gegeven ambtsinstructie over de verlening van onderscheidingen in de Orde van de Nederlandse Leeuw en de Orde van Oranje-Nassau aan inwoners van de openbare lichamen Bonaire, Sint Eustatius en Saba.
