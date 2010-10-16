@@ -1,4 +1,0 @@
-# Inhoud
-## Gebruiksvoorschriften
-### Algemeen
-### Werkwijze
