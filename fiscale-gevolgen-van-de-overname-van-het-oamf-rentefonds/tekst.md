@@ -1,6 +1,0 @@
-# Tekst
-De plv. Directeur-Generaal der Belastingen heeft namens de Staatssecretaris van Financiën het volgende besloten.
-Op 28 november 1995 heeft Optimaal Rendement Consortium BV een openbaar bod uitgebracht op alle uitstaande participaties aan toonder in het OAMF Rentefonds. De participatiehouders konden tot uiterlijk 15 december 1995 hun participaties aanbieden. Over de fiscale gevolgen van een dergelijk bod voor de particuliere participatiehouders bestaat verschil van mening tussen de vertegenwoordigers van OAMF en de Belastingdienst.
-Nader overleg heeft geleid tot de totstandkoming van een regeling die inhoudt dat OAMF een bedrag ineens zal betalen aan de Belastingdienst. Als gevolg van deze betaling zullen de particuliere participanten ter zake van het openbare bod niet in de belastingheffing worden betrokken.
-Voor de participatiehouders voor wie de participaties tot het vermogen van een onderneming behoren wordt het verschil tussen de biedprijs van ƒ 14,04 en de fiscale boekwaarde tot de winst gerekend. Dit laatste behoudens de situatie dat de deelnemingsvrijstelling (artikel 13 e.v. van de Wet op de vennootschapsbelasting 1969) van toepassing is.
-In beide gevallen bestaat geen recht op enige vorm van verrekening als voorheffing.
