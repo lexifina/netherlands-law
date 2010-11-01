@@ -1,0 +1,4 @@
+# Artikel 56a
+1. In zaken die bij dagvaarding worden ingeleid, zijn de artikelen 1 tot en met 31, 32, onderdelen A, N, O, R en S, of de onderdelen dan wel de subonderdelen daarvan alleen van toepassing in die zaken waarin de eerste roldatum, dan wel in zaken als bedoeld in artikel 254 van het Wetboek van Burgerlijke Rechtsvordering de eerste terechtzitting, is op of na het tijdstip van inwerkingtreding van die artikelen, onderdelen of subonderdelen daarvan.
+2. [Dit lid is nog niet in werking getreden.]
+3. In zaken die bij verzoekschrift worden ingeleid, zijn de in deze wet opgenomen artikelen of de onderdelen dan wel de subonderdelen daarvan, alleen van toepassing indien het verzoekschrift wordt ingediend op of na het tijdstip van inwerkingtreding van die artikelen, onderdelen of subonderdelen.
