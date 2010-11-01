@@ -6,4 +6,4 @@ c. de reiskosten, voorzover bij het voorleggen van de zaak van de aanvrager de a
 d. vijftig procent van het honorarium van personen die in opdracht van de rechter in de procedure optreden.
 2. Voorzover mogelijk draagt het bestuur zorg voor de vertaling van de stukken, bedoeld in het eerste lid, onder b.
 3. De hoogte van de vergoeding van de reiskosten, bedoeld in het eerste lid, onder c, wordt berekend overeenkomstig artikel 25 van het Besluit vergoedingen rechtsbijstand 2000.
-4. De hoogte van de vergoeding van het honorarium van de personen, bedoeld in het eerste lid, onder a, b en d, wordt berekend overeenkomstig de Wet tarieven in burgerlijke zaken.
+4. De hoogte van de vergoeding van het honorarium van de personen, bedoeld in het eerste lid, onder a, b en d, wordt berekend overeenkomstig de Wet griffierechten burgerlijke zaken.
