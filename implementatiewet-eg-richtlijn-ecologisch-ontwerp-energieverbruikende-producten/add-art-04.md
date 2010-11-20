@@ -1,0 +1,3 @@
+# Artikel IV
+1. Na de inwerkingtreding van deze wet berusten het Besluit rendementseisen cv-ketels, het Besluit energie-efficiëntienormen koel- en vriesapparatuur en het Besluit energierendementseisen voorschakelapparaten voor fluorescentielampen mede op artikel 9.4.4, eerste lid, van de Wet milieubeheer.
+2. Cv-ketels, koel- en vriesapparatuur, voorschakelapparaten voor fluorescentielampen, waarop een van de in het eerste lid genoemde besluiten van toepassing is, worden aangemerkt als categorieën van energiegerelateerde producten, aangewezen ingevolge artikel 9.4.4, tweede lid, van de Wet milieubeheer.
