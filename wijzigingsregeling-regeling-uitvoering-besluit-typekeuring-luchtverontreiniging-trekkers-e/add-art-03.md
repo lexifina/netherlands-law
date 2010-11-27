@@ -1,0 +1,2 @@
+# Artikel III
+Deze regeling treedt in werking met ingang van de dag na de datum van de uitgifte van de Staatscourant waarin zij wordt geplaatst.
