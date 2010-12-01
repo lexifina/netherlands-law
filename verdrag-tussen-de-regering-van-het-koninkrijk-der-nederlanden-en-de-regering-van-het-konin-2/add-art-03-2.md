@@ -1,0 +1,3 @@
+# III. Ad artikel 7
+1. In het geval van overeenkomsten betreffende toezicht, constructies, levering of installaties worden de voordelen van een vaste inrichting niet bepaald op basis van het totale bedrag van de overeenkomst, doch slechts op basis van dat deel van de overeenkomst dat werkelijk wordt uitgevoerd door de vaste inrichting in de Staat waar de vaste inrichting is gevestigd. Elk deel van de overeenkomst dat buiten de Verdragsluitende Staat waar de vaste inrichting gevestigd is wordt uitgevoerd wordt niet in aanmerking genomen bij het bepalen van de voordelen van die vaste inrichting.
+2. Elke Verdragsluitende Staat kan zijn nationale wetgeving toepassen op verzekeringsactiviteiten.

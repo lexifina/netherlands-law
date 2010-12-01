@@ -1,0 +1,3 @@
+# III. Ad Article 7
+1. In the case of contracts for survey, constructions, supply or installations, the profits of a permanent establishment shall not be determined on the total amount of the contract, but shall be determined only on the basis of that part of the contract, which is effectively carried out by the permanent establishment in the State where the permanent establishment is situated. Any portion of the contract executed outside the Contracting State in which the permanent establishment is situated shall not be taken into consideration in determining the profits of that permanent establishment.
+2. Each Contracting State may apply its domestic legislation with regard to insurance activities.
