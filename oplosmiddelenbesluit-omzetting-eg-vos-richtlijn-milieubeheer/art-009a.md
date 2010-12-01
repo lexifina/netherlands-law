@@ -1,0 +1,2 @@
+# Artikel 9a
+In afwijking van de artikelen 3 tot en met 9 stelt het bevoegd gezag, indien tot de inrichting een gpbv-installatie behoort, voor een tot die gpbv-installatie behorende installatie strengere emissiegrenswaarden vast dan de in dit besluit voor die installatie gestelde emissiegrenswaarden, indien met laatstbedoelde emissiegrenswaarden niet wordt voldaan aan het bepaalde bij of krachtens de artikelen 2.14 en 2.22 van de Wet algemene bepalingen omgevingsrecht.
