@@ -17,7 +17,7 @@ m. geldboeten opgelegd door een Nederlandse strafrechter en geldsommen betaald a
 n. misdrijven ter zake waarvan de werknemer door een Nederlandse strafrechter bij onherroepelijke uitspraak is veroordeeld, daaronder begrepen de misdrijven die zijn betrokken bij de bepaling van de hoogte van de opgelegde straf en ter zake waarvan het Openbaar Ministerie heeft verklaard te zullen afzien van vervolging;
 o. misdrijven terzake waarvan jegens de werknemer een onherroepelijk geworden strafbeschikking is uitgevaardigd;
 p. wapens en munitie, tenzij terzake een erkenning, consent, vergunning, verlof of ontheffing is verleend krachtens de Wet wapens en munitie;
-q. dieren en categorieën van dieren als bedoeld in de krachtens de artikelen 73 en 107 van de Gezondheids- en welzijnswet voor dieren vastgestelde Regeling agressieve dieren, tenzij terzake een dierenpaspoort als bedoeld in artikel 3, tweede lid, onderdeel a, van die regeling is afgegeven;
+q. dieren die krachtens een onherroepelijke bestuursrechtelijke of strafrechtelijke maatregel in verband met agressie niet mogen worden gehouden;
 r. parkeergelegenheid in of bij de woning van de werknemer;
 s. computers en dergelijke apparatuur en bijbehorende apparatuur, die
 1°. niet geheel en niet nagenoeg geheel zakelijk gebruikt worden, of
