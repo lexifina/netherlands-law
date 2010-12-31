@@ -1,0 +1,3 @@
+# Artikel XXV
+1. Artikel 6:2 van de Wet arbeid en zorg is niet van toepassing op de werknemer die voor een kind het verlof, bedoeld in artikel 6:2 van genoemde wet, geheel of gedeeltelijk heeft opgenomen. Op die werknemer blijft voor dat kind genoemd artikel van toepassing zoals dat luidde op 31 december 2008.
+2. De regeling in een voor 1 januari 2009 geldende collectieve arbeidsovereenkomst over het geheel of gedeeltelijk doorbetalen van het loon gedurende de periode van het verlof, bedoeld in artikel 6:2 van de Wet arbeid en zorg, en de invulling van het verlof, geldt uitsluitend voor het verlof zoals dat gold voor 1 januari 2009.
