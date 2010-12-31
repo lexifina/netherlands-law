@@ -1,0 +1,2 @@
+# Artikel 8b
+De ambtenaar van de Inspectie Verkeer en Waterstaat die een schip aanhoudt wegens overtreding van de internationale voorschriften inzake de arbeids- en rusttijden volgens het verdrag, genoemd in artikel 1, onderdeel b, onder 6o, van de wet, stelt daarvan, naast de personen en instanties, genoemd in artikel 8, derde lid, van de wet, tevens de exploitant van het betrokken schip in kennis en vermeldt in de kennisgeving tevens welke vereiste corrigerende maatregelen noodzakelijk zijn.

@@ -1,0 +1,3 @@
+# Artikel 6a
+1. De exploitant of de kapitein van een schip als bedoeld in artikel 6, eerste lid, deelt alle in bijlage V, deel B, van de richtlijn vermelde informatie mee aan de inspecteur-generaal van de Inspectie Verkeer en Waterstaat indien het schip na een periode van twaalf maanden na de laatste uitgebreide inspectie in een bij het MOU aangesloten havenstaat, een Nederlandse haven aandoet. Deze mededeling geschiedt ten minste drie dagen voor de verwachte tijd van aankomst in de haven, of, als de reis naar verwachting minder dan drie dagen in beslag zal nemen, voor het vertrek uit de vorige haven.
+2. Indien de exploitant of de kapitein van een schip niet voldoet aan het bepaalde in het eerste lid, wordt het schip aan een uitgebreide inspectie onderworpen.
