@@ -1,3 +1,0 @@
-# Artikel II
-1. Voor het fictief berekenen van het bekostigingsbudget voor het schooljaar 2005 - 2006 en voor het fictief berekenen van het bekostigingsbudget voor het kalenderjaar 2005 wordt gebruik gemaakt van de landelijke gpl-bedragen op de peildatum 1 augustus 2005, zoals vastgesteld bij Regeling aanpassing bedragen landelijke gemiddelde personeelslast (GPL), schooljaren 2004 -2005 en 2005 - 2006.
-2. Het bedrag voor de nascholing zoals vastgesteld in de Regeling bekostiging nascholing voortgezet onderwijs 2005-2006 wordt op een volledig schooljaar herberekend en als zodanig toegevoegd aan de uitkomst van de in het eerste lid bedoelde fictieve berekeningen.
