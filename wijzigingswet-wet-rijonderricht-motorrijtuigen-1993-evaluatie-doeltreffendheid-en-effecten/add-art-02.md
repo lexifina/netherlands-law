@@ -1,0 +1,2 @@
+# Artikel II
+Instructeursbewijzen, afgegeven krachtens artikel 3 van de Wet rijonderricht motorrijtuigen, aan houders die op 1 januari 1995 de leeftijd van 50 jaren hadden bereikt en aan wie niet overeenkomstig het bepaalde in artikel 30 van de Wet rijonderricht motorrijtuigen 1993, zoals deze gold voor de inwerkingtreding van deze wet, een certificaat is afgegeven, behouden hun geldigheid tot 5 jaar na de datum van inwerkingtreding van deze wet.
