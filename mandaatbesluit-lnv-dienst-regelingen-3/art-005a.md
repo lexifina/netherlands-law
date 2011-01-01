@@ -1,0 +1,2 @@
+# Artikel 5a
+De algemeen directeur, de unitmanagers, de manager en plaatsvervangend manager recht en rechtsbescherming, de teammanagers juridische zaken en de teammanager recht en rechtsbescherming van de Dienst Regelingen zijn gemachtigd om namens de Minister van Economische Zaken, Landbouw en Innovatie te beslissen en stukken te ondertekenen betreffende de besluiten die zijn genoemd in de afdelingen 4.4.1, 4.4.2 en 4.4.4 en in artikel 4:57 van de Algemene wet bestuursrecht voor zover die besluiten en stukken samenhangen met de in artikel 7 bedoelde besluiten en stukken.

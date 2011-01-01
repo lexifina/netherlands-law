@@ -1,0 +1,30 @@
+# Artikel 15a
+De algemeen directeur, de directeur Financiën, de directeur Uitvoering, de manager Dienst Control, de teammanager Baten-lastenadministratie, de teammanager Programma-uitgaven, de coördinator Programma-uitgaven, de teammanager Planning en Control, de manager Partner in Beleid, de manager Recht en Rechtsbescherming en de plaatsvervangend manager Recht en Rechtsbescherming van de Dienst Regelingen zijn gemachtigd namens de Minister van Economische Zaken, Landbouw en Innovatie uit te betalen dan wel te innen:
+a. de door het Hoofdproductschap Akkerbouw betaalbaargestelde of ter inning aangeboden geldbedragen ingevolge:
+1°. Verordening (EG) nr. 1784/2003 van de Raad van 29 september 2003 houdende een gemeenschappelijke ordening der markten in de sector granen (PbEU L 270);
+2°. Verordening (EG) nr. 1785/2003 van de Raad van 29 september 2003 houdende een gemeenschappelijke ordening van de rijstmarkt (PbEU L 270);
+3°. Verordening (EG) nr. 1493/1999 van de Raad van 17 mei 1999 houdende een gemeenschappelijke ordening van de wijnmarkt (PbEG L 179);
+4°. Verordening (EG) nr. 1947/2005 van de Raad van 23 november 2005 houdende een gemeenschappelijke ordening der markten in de sector zaaizaad en tot intrekking van de Verordeningen (EEG) nr. 2358/71 en (EEG) nr. 1674/72 (PbEU L 312);
+5°. Verordening (EG) nr. 1786/2003 van de Raad van 29 september 2003 houdende een gemeenschappelijke ordening der markten in de sector gedroogde voedergewassen (PbEU L 270);
+6°. Verordening (EG) nr. 1952/2005 van de Raad van 23 november 2005 houdende een gemeenschappelijke ordening der markten in de sector hop en houdende intrekking van de Verordeningen (EEG) nr. 1696/71, (EEG) nr. 1037/72, (EEG) nr. 879/73 en (EEG) nr. 1981/82 (PbEU L 314);
+7°. Verordening (EG) nr. 1251/1999 van de Raad van 17 mei 1999 tot instelling van een steunregeling voor producenten van bepaalde akkerbouwgewassen (PbEG L 160);
+8°. Verordening (EG) nr. 1673/2000 van de Raad van 27 juli 2000 houdende een gemeenschappelijke ordening der markten in de sector vezelvlas en -hennep (PbEG L 193);
+9°. Verordening (EG) nr. 318/2006 van de Raad van 20 februari 2006 houdende een gemeenschappelijke ordening der markten in de sector suiker (PbEU L 058);
+10°. Verordening (EG) Nr. 865/2004 van de Raad van 29 april 2004 houdende een gemeenschappelijke ordening der markten voor olijfolie en tafelolijven en tot wijziging van Verordening (EEG) nr. 827/68 (PbEU nr. L 161);
+11°. Verordening (EG) nr. 1973/2004 van de Commissie van 29 oktober 2004 houdende uitvoeringsbepalingen van Verordening (EG) nr. 1782/2003 van de Raad met betrekking tot de bij de titels IV en IV bis van die verordening ingestelde steunregelingen en het gebruik van braakgelegde grond voor de productie van grondstoffen (PbEU L 345), voor zover de te verwerken grondstoffen worden genoemd in onderdeel 1;
+b. de door het Productschap Zuivel, betaalbaargestelde of ter inning aangeboden geldbedragen ingevolge de Verordening (EG) nr. 1255/1999 van de Raad van 17 mei 1999 houdende een gemeenschappelijke ordening der markten in de sector melk en zuivelproducten (PbEG L 160), alsmede de Europese regelgeving ten aanzien van chemisch zuivere lactose en melksuikerstroop;
+c. de door het Productschap Tuinbouw, betaalbaargestelde of ter inning aangeboden geldbedragen ingevolge:
+1°. Verordening (EG) nr. 2200/96 van de Raad van 28 oktober 1996 houdende een gemeenschappelijke ordening der markten in de sector groenten en fruit (PbEG L 297);
+2°. Verordening (EG) nr. 2201/96 van de Raad van 28 oktober 1996 houdende een gemeenschappelijke ordening der markten in de sector verwerkte producten op basis van groenten en fruit (PbEG L 297);
+3°. Verordening (EEG) nr. 234/68 van de Raad van 27 februari 1968 houdende de totstandbrenging van een gemeenschappelijke ordening der markten in de sector levende planten en producten van de bloementeelt (PbEG L 55);
+4°. Verordening (EG) nr. 1493/1999 van de Raad van 17 mei 1999 houdende een gemeenschappelijke ordening van de wijnmarkt (PbEG L 179) indien betrekking hebbend op ongegist druivensap (met inbegrip van druivenmost) zonder toegevoegde alcohol, ook indien met toegevoegde suiker en druiven, andere dan voor tafelgebruik;
+5°. Verordening (EEG) nr. 404/93 van de Raad van 13 februari 1993 houdende een gemeenschappelijke ordening der markten in de sector bananen (PbEG L 47);
+d. de door het Productschap voor Vee en Vlees, betaalbaargestelde of ter inning aangeboden geldbedragen ingevolge:
+1°. Verordening (EEG) nr. 2759/75 van de Raad van 29 oktober 1975 houdende een gemeenschappelijke ordening der markten in de sector varkensvlees (PbEG nr. L 282);
+2°. Verordening (EG) nr. 1254/1999 van de Raad van 17 mei 1999 houdende een gemeenschappelijke ordening der markten in de sector rundvlees (PbEG L 160);
+3°. Verordening (EG) nr. 2529/2001 van de Raad van 19 december 2001 houdende een gemeenschappelijke ordening der markten in de sector schapen- en geitenvlees (PbEG L 341);
+e. de door het Productschap voor Pluimvee en Eieren, betaalbaargestelde of ter inning aangeboden geldbedragen ingevolge:
+1°. Verordening (EEG) nr. 2771/75 van de Raad van 29 oktober 1975 houdende een gemeenschappelijke ordening der markten in de sector eieren (PbEG nr. L 282) alsmede de Europese regelgeving ten aanzien van albuminen;
+2°. Verordening (EEG) nr. 2777/75 van de Raad van 29 oktober 1975 houdende een gemeenschappelijke ordening der markten in de sector slachtpluimvee (PbEG nr. L 282);
+3°. De artikelen 24, 29 en 32 van Beschikking 90/424/EEG van de Raad van de Europese Unie van 26 juni 1990 betreffende bepaalde uitgaven op veterinair gebied (PbEG L 224), voor zover het betreft geldbedragen in het kader van de bestrijding van salmonella;
+met dien verstande dat de betaalopdracht altijd wordt ondertekend door twee procuratiehouders conform de in de administratieve organisatie van Dienst Regelingen vastgestelde combinaties.

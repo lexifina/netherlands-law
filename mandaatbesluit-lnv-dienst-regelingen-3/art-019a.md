@@ -1,0 +1,3 @@
+# Artikel 19a
+1. De teammanagers uitvoering van de Dienst Regelingen zijn gemachtigd om namens de Minister van Economische Zaken, Landbouw en Innovatie te beslissen en stukken te ondertekenen betreffende het besluit, bedoeld in artikel 3.2.3, tweede lid, van de Regeling tijdelijke maatregelen dierziekten
+2. De teammanagers uitvoering van de Dienst Regelingen zijn gemachtigd om namens de Minister van Economische Zaken, Landbouw en Innovatie te beslissen en stukken te ondertekenen betreffende de vaststelling van de subsidie, bedoeld in artikel 3.3.1, eerste lid, van de Regeling tijdelijke maatregelen dierziekten.

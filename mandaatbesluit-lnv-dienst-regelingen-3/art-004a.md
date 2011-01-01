@@ -1,0 +1,5 @@
+# Artikel 4a
+De algemeen directeur, de directeur Financiën, de directeur Uitvoering, de manager Recht en Rechtsbescherming en de plaatsvervangend manager Recht en Rechtsbescherming van de Dienst Regelingen zijn gemachtigd om namens de Minister van Economische Zaken, Landbouw en Innovatie te beslissen en stukken te ondertekenen betreffende:
+a. besluiten op grond van de Wet openbaarheid van bestuur met uitzondering van de gevallen, bedoeld in artikel 6 van de Regeling openbaarheid van bestuur, Landbouw, Natuurbeheer en Visserij (Stcrt. 1992, 241);
+b. de besluiten op grond van artikel 6 van de Wet openbaarheid van bestuur strekkende tot verdaging van een beslissing op een verzoek om informatie als bedoeld in artikel 3 van de Wet openbaarheid van bestuur;
+c. besluiten op grond van de Wet bescherming persoonsgegevens als bedoeld in de artikelen 30, derde lid, 35, 36 en 38, tweede lid, 40 of 41 van die Wet.
