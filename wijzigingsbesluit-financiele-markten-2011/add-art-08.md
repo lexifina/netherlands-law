@@ -1,0 +1,2 @@
+# Artikel VIII
+Dit besluit treedt in werking met ingang van 1 januari 2011, met uitzondering van artikel I, onderdeel B, van dit besluit, dat in werking treedt met ingang van het tijdstip waarop het bij koninklijke boodschap van 25 augustus 2009 ingediende voorstel van wet tot wijziging van de Wet op het financieel toezicht en enige andere wetten (Wijzigingswet financiële markten 2010) (Kamerstukken 32 036), indien het tot wet wordt verheven, in werking treedt.
