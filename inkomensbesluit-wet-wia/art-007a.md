@@ -1,0 +1,3 @@
+# Artikel 7a. Overgangsrecht in verband met keuzeregime artikel 39c van de Wet op de loonbelasting 1964
+1. Ingeval ter zake van het belastbare loon artikel 39c van de Wet op de loonbelasting 1964 wordt toegepast, wordt voor de toepassing van artikel 3, tweede lid, onderdeel b, onder eindheffingsbestanddelen als bedoeld in artikel 31, eerste lid, onderdelen b tot en met h, van de Wet op de loonbelasting 1964 verstaan eindheffingsbestanddelen als bedoeld in artikel 31, eerste lid, onderdelen b tot en met h, van die wet, zoals dat artikel luidde op 31 december 2010.
+2. Dit artikel vervalt met ingang van de dag waarop artikel 39c van de Wet op de loonbelasting 1964 vervalt.
