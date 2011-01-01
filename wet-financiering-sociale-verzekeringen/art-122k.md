@@ -1,0 +1,6 @@
+# Artikel 122k. Overgangsrecht in verband met wijziging regime voor vergoedingen en verstrekkingen in de Wet op de loonbelasting 1964
+1. Voor zover ter zake van het belastbare inkomen uit werk en woning artikel 10a.8 van de Wet inkomstenbelasting 2001 wordt toegepast, wordt voor de toepassing van artikel 8, eerste lid, eerste volzin, onder premie-inkomen verstaan het belastbare inkomen uit werk en woning, bepaald volgens de regels van hoofdstuk 3 van de Wet inkomstenbelasting 2001, met inachtneming van artikel 10a.8 van die wet.
+2. Ingeval ter zake van het belastbare loon artikel 39c van de Wet op de loonbelasting 1964 wordt toegepast:
+1°. wordt voor de toepassing van artikel 8, tweede lid, onder premie-inkomen verstaan het belastbare loon in de zin van de wet op de loonbelasting 1964 met uitzondering van de eindheffingsbestanddelen, bedoeld in artikel 31, eerste lid, onderdelen e, onder 1°, f en g, van die wet, zoals dat op 31 december 2010 luidde:
+2°. behoren voor de toepassing van artikel 16, tweede lid, aanhef en onderdeel b, niet tot het loon eindheffingsbestanddelen als bedoel in artikel 31, eerste lid, onderdelen b tot en met h, van de Wet op de loonbelasting 1964, zoals dit op 31 december 2010 luidde.
+3. Dit artikel komt te vervallen met ingang van de dag waarop artikel 39c van de Wet op de loonbelasting 1964 komt te vervallen.
