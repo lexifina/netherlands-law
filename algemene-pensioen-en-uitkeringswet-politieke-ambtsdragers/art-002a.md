@@ -1,5 +1,5 @@
 # Artikel 2a
-1. De politieke ambtsdrager, bedoeld in artikel 2, tweede lid, onder a en b, kan bij Onze Minister één man of vrouw aanmelden, indien hij en deze man of vrouw:
+1. De politieke ambtsdrager, bedoeld in artikel 2, tweede lid, onder a en b, alsmede de Rijksvertegenwoordiger kan bij Onze Minister één man of vrouw aanmelden, indien hij en deze man of vrouw:
 a. beiden als ingezetene met het zelfde woonadres in de gemeentelijke basisadministratie persoonsgegevens zijn ingeschreven;
 b. zich bij een notarieel verleden samenlevingscontract tegenover elkaar hebben verplicht om wederkerig bij te dragen in de kosten van levensonderhoud;
 c. beiden ongehuwd zijn;
@@ -17,3 +17,4 @@ c. op de dag waarop degene die de aanmelding heeft gedaan, dan wel de man of vro
 8. Onze Minister kan, indien daartoe aanleiding bestaat, bevestiging vragen of nog aan de voorwaarden voor aanmelding wordt voldaan. Degene die de aanmelding heeft gedaan legt alsdan een schriftelijke verklaring ter zake over van hem en de aangemelde persoon gezamenlijk, alsmede een gewaarmerkt afschrift van de benodigde gegevens uit de gemeentelijke basisadministratie persoonsgegevens waaruit blijkt dat aan de voorwaarde, gesteld in het eerste lid, onder a, op het tijdstip van die verklaring wordt voldaan. Indien evenwel in de voorgaande periode het samenlevingscontract een wijziging heeft ondergaan die van belang kan zijn voor de aanmelding, wordt een afschrift van het gewijzigde contract overgelegd dan wel een uittreksel daaruit of een verklaring van een notaris dienaangaande, waaruit blijkt dat nog wordt voldaan aan de voorwaarde, bedoeld in het eerste lid, onderdeel b.
 9. Indien de bevestiging niet binnen zes weken wordt gedaan herhaalt Onze Minister zijn in het achtste lid bedoelde vraag.
 10. Indien de bevestiging niet binnen drie weken na de herhaalde vraag wordt gegeven, kan Onze Minister de aanmelding op een door hem vast te stellen datum doorhalen. De bedoelde datum is niet gelegen voor de datum waarop de in het achtste lid bedoelde bevestiging is gevraagd.
+11. Voor de toepassing van dit artikel ten aanzien van de Rijksvertegenwoordiger, kan voor «gemeentelijke basisadministratie persoonsgegevens» telkens worden gelezen: basisadministratie, als bedoeld in artikel 2 van de Wet basisadministratie persoonsgegevens BES.
