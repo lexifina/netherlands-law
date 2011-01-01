@@ -3,6 +3,7 @@
 ## Hoofdstuk II. Bepaling van het belastbaar bedrag
 ## Hoofdstuk III. Tarief; berekening van het recht; vrijstellingen
 ## Hoofdstuk IIIA. Bedrijfsopvolging
+## Hoofdstuk IIIb. Verkrijging blote eigendom van een eigen woning
 ## Hoofdstuk IV. Aangifte, aanslag en conserverende aanslag
 ## Hoofdstuk V
 ## Hoofdstuk VI. Navordering
