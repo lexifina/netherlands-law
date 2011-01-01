@@ -7,5 +7,5 @@ d. wanneer een kind of pleegkind van de pensioengerechtigde meerderjarig wordt;
 e. wanneer de pensioengerechtigde aanspraak maakt op de betaling uit een nieuwe bron van inkomsten, of
 f. wanneer de pensioengerechtigde geen aanspraak meer kan maken op de betaling uit een bron van inkomsten, tenzij hij het vervallen van die aanspraak heeft bewerkstelligd.
 2. Het eerste lid, onder e en f, is van overeenkomstige toepassing op de inkomsten van de echtgenoot van de pensioengerechtigde, voor zover die inkomsten de hoogte van het buitengewoon pensioen of de garantietoeslag mede bepalen.
-3. De beschikking, bedoeld in het eerste en tweede lid, wordt genomen binnen 13 weken nadat de noodzakelijke gegevens ter kennis van de Raad zijn gebracht.
-4. Hetgeen als gevolg van een beschikking als bedoeld in het eerste of tweede lid te veel dan wel te weinig is uitbetaald, wordt door de Raad teruggevorderd of verrekend dan wel nabetaald. De terugvordering kan in door de Raad te bepalen termijnen plaatsvinden.
+3. De beschikking, bedoeld in het eerste en tweede lid, wordt genomen binnen 13 weken nadat de noodzakelijke gegevens ter kennis van de Sociale verzekeringsbank zijn gebracht.
+4. Hetgeen als gevolg van een beschikking als bedoeld in het eerste of tweede lid te veel dan wel te weinig is uitbetaald, wordt door de Sociale verzekeringsbank teruggevorderd of verrekend dan wel nabetaald. De terugvordering kan in door de Sociale verzekeringsbank te bepalen termijnen plaatsvinden.

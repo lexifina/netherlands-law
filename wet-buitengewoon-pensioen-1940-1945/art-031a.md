@@ -1,5 +1,5 @@
 # Artikel 31a
-1. Het buitengewoon pensioen of de garantietoeslag wordt door de Raad aangepast overeenkomstig de normen en voorwaarden waarmee het bedrag, genoemd in artikel 8, eerste lid, onder a, van de Wet minimumloon en minimumvakantiebijslag ingevolge artikel 14 van die wet wordt herzien.
+1. Het buitengewoon pensioen of de garantietoeslag wordt door de Sociale verzekeringsbank aangepast overeenkomstig de normen en voorwaarden waarmee het bedrag, genoemd in artikel 8, eerste lid, onder a, van de Wet minimumloon en minimumvakantiebijslag ingevolge artikel 14 van die wet wordt herzien.
 2. De pensioenbedragen, bedoeld in artikel 31b, eerste lid, onder a, worden door Onze Minister, naar gelang de grondslagen waarvan zij zijn afgeleid, aangepast overeenkomstig de normen en voorwaarden waarmee het bedrag, genoemd in artikel 8, eerste lid, onder a, van de Wet minimumloon en minimumvakantiebijslag ingevolge artikel 14 van die wet wordt herzien.
 3. Bij de aanpassing, bedoeld in het eerste lid, wordt uitgegaan van het laatst vastgestelde dan wel overeenkomstig het eerste lid aangepaste buitengewoon pensioen of van de laatst vastgestelde dan wel overeenkomstig het eerste lid aangepaste garantietoeslag.
 4. De aanpassing, bedoeld in het eerste lid, vindt plaats zonder dat dit bij beschikking is vastgesteld.
