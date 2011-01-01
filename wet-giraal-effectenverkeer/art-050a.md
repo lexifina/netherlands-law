@@ -1,2 +1,0 @@
-# Artikel 50a
-In het geval dat aandelen op naam zijn geleverd aan een aangesloten instelling of aan het centraal instituut, kan in het register als bedoeld in artikel 85 eerste lid van Boek 2 van het Burgerlijk Wetboek de naam en het adres van de aangesloten instelling onderscheidenlijk centraal instituut worden opgenomen, met vermelding van de datum waarop die aandelen zijn gaan behoren tot een verzameldepot onderscheidenlijk girodepot, de datum van de erkenning of betekening, alsmede van het op ieder aandeel gestorte bedrag.

@@ -1,0 +1,2 @@
+# Artikel 8b
+Indien effecten op naam zijn geleverd aan een intermediair of aan het centraal instituut, kan in het desbetreffende register van de uitgevende instelling, de naam en het adres van de intermediair onderscheidenlijk het centraal instituut worden opgenomen, met vermelding van de datum waarop die aandelen zijn gaan behoren tot het verzameldepot onderscheidenlijk girodepot, de datum van de erkenning of betekening, alsmede van het op ieder aandeel gestorte bedrag.

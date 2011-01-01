@@ -1,0 +1,4 @@
+# Artikel 50b
+1. Indien ten aanzien vaneffecten een verzameldepot kan bestaan, en zodanige effecten op dat tijdstip worden bewaard door een bewaarbedrijf, is dit bewaarbedrijf bevoegd deze effecten aan de bewaargever uit te leveren door ze namens hem in bewaring te geven aan de met het bewaarbedrijf verbonden intermediair.
+2. Beperkte rechten die rusten op de vordering van de bewaargever op hetbewaarbedrijf tot uitlevering van niet afzonderlijk voor de bewaargever bewaarde effecten, komen te rusten op de overeenkomstig het eerste lid uitgeleverde effecten. Is op een zodanige vordering beslag gelegd, dan is het bewaarbedrijf niet bevoegd tot uitlevering van effecten overeenkomstig het eerste lid.
+3. In dit artikel wordt onder een bewaarbedrijf verstaan een rechtspersoon die krachtens haar statuten uitsluitend of hoofdzakelijk ten doel heeft de bewaring van financiële instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.
