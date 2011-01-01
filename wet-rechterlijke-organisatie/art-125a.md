@@ -1,0 +1,3 @@
+# Artikel 125a
+1. Indien bij of krachtens een wet een bevoegdheid wordt toegekend aan de officier van justitie, kan deze bevoegdheid worden uitgeoefend door de rechterlijke ambtenaren, bedoeld in artikel 1, onderdeel b, onder 7°, van de wet, tenzij de regeling waarop de bevoegdheid steunt of de aard van de bevoegdheid zich daartegen verzet.
+2. Indien bij of krachtens een wet een bevoegdheid wordt toegekend aan de advocaat-generaal, kan deze bevoegdheid worden uitgeoefend door de rechterlijke ambtenaren, bedoeld in artikel 1, onderdeel b, onder 6°, tenzij de regeling waarop de bevoegdheid steunt of de aard van de bevoegdheid zich daartegen verzet.
