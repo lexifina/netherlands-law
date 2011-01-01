@@ -1,0 +1,5 @@
+# Artikel II
+Met betrekking tot een aanvraag als bedoeld in artikel 3, eerste lid, in verbinding met artikel 4, eerste lid, tweede volzin, van het Besluit handel in emissierechten, die in het kalenderjaar 2008 wordt ingediend, geldt het volgende:
+a. Degene die de betrokken inrichting drijft, kan het bestuur van de emissieautoriteit bij de aanvraag verzoeken om de aanwijzing, bedoeld in artikel 2, tweede lid, van het Besluit handel in emissierechten terug te laten werken tot het tijdstip waarop de inrichting voldoet aan de voorwaarden, bedoeld in artikel 2, tweede lid, onder a en b, van het Besluit handel in emissierechten.
+b. De verzoeker verstrekt gegevens waaruit ten genoegen van het bestuur van de emissieautoriteit blijkt dat de inrichting op het tijdstip, bedoeld onder a, voldoet aan de voorwaarden, bedoeld in artikel 2, tweede lid, onder a en b, van het Besluit handel in emissierechten.
+c. Het bestuur van de emissieautoriteit wijst het verzoek toe indien de inrichting voldoet aan de voorwaarden, bedoeld onder b.
