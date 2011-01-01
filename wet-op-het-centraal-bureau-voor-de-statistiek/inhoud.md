@@ -6,7 +6,7 @@
 ### Paragraaf 3. Personeel
 ## Hoofdstuk 3. Directeur-generaal van de statistiek
 ### Paragraaf 1. Instelling en samenstelling
-### Paragraaf 2. Benoeming en bezoldiging
+### Paragraaf 2. Benoeming, schorsing en ontslag
 ### Paragraaf 3. Taken, bevoegdheden en werkwijze
 ## Hoofdstuk 4. Centrale commissie voor de statistiek
 ### Paragraaf 1. Instelling en samenstelling
@@ -19,9 +19,7 @@
 ### Paragraaf 2a. Uitvoering van verordening 638/2004
 ### Paragraaf 3. Verstrekking van gegevens
 ### Paragraaf 4. Bestuurlijke boete en last onder dwangsom
-## Hoofdstuk 6. Informatievoorziening, sturing en toezicht
-### Paragraaf 1. Informatievoorziening
-### Paragraaf 2. Sturing en toezicht
+## Hoofdstuk 6. Informatievoorziening
 ## Hoofdstuk 7. Financieel toezicht
 ### Paragraaf 1. Begroting
 ### Paragraaf 2. Beheer en verantwoording
