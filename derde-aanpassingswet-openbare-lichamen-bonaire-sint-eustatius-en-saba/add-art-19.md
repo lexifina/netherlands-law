@@ -1,0 +1,4 @@
+# Artikel XIX
+1. Geneesmiddelen welke zijn ingeschreven in het register, bedoeld in artikel 5, tweede lid, van de Wet op de geneesmiddelenvoorziening BES, zoals dat artikel luidde voor de inwerkingtreding van deze wet en die niet zijn vermeld in het register, bedoeld in artikel 53 van de Geneesmiddelenwet, zijn uitgezonderd van het verbod in artikel 5, eerste lid, van de Wet op de geneesmiddelenvoorziening BES, zoals dat luidt na inwerkingtreding van deze wet.
+2. De uitzondering bedoeld in het eerste lid geldt tot het moment waarop de inschrijving zou moeten worden verlengd, maar maximaal tot vijf jaar na inwerkingtreding van het verbod in artikel 5, eerste lid, van de Wet op de geneesmiddelenvoorziening BES, zoals dat luidt na inwerkingtreding van deze wet.
+3. Geneesmiddelen als bedoeld in het eerste lid en die ingevolge het tweede lid van artikel 16 van de Wet op de geneesmiddelenvoorziening BES zijn aangewezen, mogen niet anders dan op recept worden afgeleverd.
