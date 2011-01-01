@@ -1,0 +1,2 @@
+# Artikel 133f. Overgangsrecht in verband met arbeidsongeschiktheid bij aanvang verzekering
+De artikelen 43, onderdeel c, 46 en 124 zoals die luidden op de dag voorafgaand aan de inwerkingtreding van de Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving blijven van toepassing op de persoon wiens eerste werkdag waarop door hem wegens ziekte niet is gewerkt of het werken tijdens de werktijd is gestaakt, is gelegen voor die dag.
