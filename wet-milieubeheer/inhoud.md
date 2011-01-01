@@ -78,6 +78,7 @@
 #### § 12.3.3. PRTR
 #### § 12.3.4. Aanvullende rapportageverplichtingen
 #### § 12.3.5. Slotbepalingen
+### Titel 12.4. Registratie gegevens brandstoffen en elektriciteit uit hernieuwbare bronnen ten behoeve van vervoer
 ## Hoofdstuk 13. Procedures voor vergunningen en ontheffingen
 ### Afdeling 13.1. Algemeen
 ### Afdeling 13.2. Bijzondere bepalingen
