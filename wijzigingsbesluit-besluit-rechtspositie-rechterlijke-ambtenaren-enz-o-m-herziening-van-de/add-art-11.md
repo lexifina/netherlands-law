@@ -1,0 +1,2 @@
+# Artikel XI
+Degenen die op de dag voorafgaand aan de inwerkingtreding van dit besluit als directeur bedrijfsvoering bij de rechtbank te Groningen, Leeuwarden en Zutphen zijn aangesteld, blijven in het genot van het bij salarisschaal 16 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 behorende bedrag voor zolang zij zijn benoemd als directeur bedrijfsvoering bij die rechtbank.
