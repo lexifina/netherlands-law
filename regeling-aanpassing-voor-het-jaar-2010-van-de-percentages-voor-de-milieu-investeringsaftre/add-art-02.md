@@ -1,7 +1,0 @@
-# Artikel II
-1. De wijzigingen ingevolge artikel I van artikel 3.42a van de Wet inkomstenbelasting 2001 zijn:
-a. slechts van toepassing voor zover de belastingplichtige voldoet aan het op basis van de voorwaarden van de Tijdelijke communautaire kaderregeling inzake staatssteun ter stimulering van de toegang tot financiering in de huidige financiële en economische crisis van 17 december 2008 (PbEU van 22 januari 2009, C 16/1) goedgekeurde Nederlands nationaal kader voor het tijdelijk verlenen van beperkte steunbedragen, bedoeld in de beschikking van de Europese commissie van 1 april 2009, N156/2009 (PbEU van 5 juni 2009, C125/8),
-b. niet van toepassing op bedrijfsmiddelen die volgens het goedgekeurde Nederlands nationaal kader voor het tijdelijk verlenen van beperkte steunbedragen, bedoeld in de beschikking van de Europese commissie van 1 april 2009, N156/2009 (PbEU van 5 juni 2009, C 125/9), zijn uitgesloten van steun.
-2. Bij de toets of met betrekking tot de hoogte van de te ontvangen steun is voldaan aan de in het eerste lid, onderdeel a, bedoelde voorwaarden, wordt:
-a. een belastingplichtige in de zin van de Wet inkomstenbelasting 2001 geacht voor diens gehele belastbare winst uit onderneming als bedoeld in artikel 3.2 van die wet tegen een tarief van 52% te worden belast;
-b. een belastingplichtige in de zin van de Wet op de vennootschapsbelasting 1969 geacht voor diens gehele belastbare winst tegen een tarief van 25,5% te worden belast.
