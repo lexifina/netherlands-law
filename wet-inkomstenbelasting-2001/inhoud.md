@@ -61,7 +61,6 @@
 ## Hoofdstuk 6. Persoonsgebonden aftrek
 ### Afdeling 6.1. Persoonsgebonden aftrek
 ### Afdeling 6.2. Onderhoudsverplichtingen
-### Afdeling 6.3. Verliezen op beleggingen in durfkapitaal
 ### Afdeling 6.4. Uitgaven voor levensonderhoud van kinderen
 ### Afdeling 6.5. Uitgaven voor specifieke zorgkosten
 ### Afdeling 6.6. Weekenduitgaven voor gehandicapten
