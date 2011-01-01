@@ -13,7 +13,6 @@
 ## Hoofdstuk IIB. Reïntegratie-instrumenten
 ## Hoofdstuk III. De uitvoering der verzekering
 ### § 1. Het Uitvoeringsinstituut werknemersverzekeringen
-## Hoofdstuk IIIA. Eigen risico dragen door de werkgever
 ## Hoofdstuk V. Het verstrekken van inlichtingen
 ## Hoofdstuk VI. De vrijwillige verzekering
 ## Hoofdstuk VII. Bepalingen in verband met de Algemene wet bestuursrecht en beroep in cassatie
