@@ -14,6 +14,7 @@
 ### § 1. Gedragsregels
 ### § 2. Verkeerstekens en maatregelen op of aan de weg
 ### § 3. Vaststelling bebouwde kom
+## Hoofdstuk IIA. Aanwijzing bromfietsen waarvoor geen Europese typegoedkeuring vereist is
 ## Hoofdstuk III. Toelating en goedkeuring
 ### § 1. Algemene bepalingen
 ### § 2. Typegoedkeuring en goedkeuring productieprocessen van voertuigen en voertuigonderdelen
