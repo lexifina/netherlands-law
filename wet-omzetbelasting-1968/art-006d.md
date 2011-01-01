@@ -1,2 +1,2 @@
 # Artikel 6d
-De plaats van een dienst en van daarmee samenhangende diensten, in verband met culturele, artistieke, sportieve, wetenschappelijke, educatieve, vermakelijkheids- of soortgelijke activiteiten, zoals beurzen en tentoonstellingen, inclusief de diensten van de organisatoren van dergelijke activiteiten, is de plaats waar die activiteiten daadwerkelijk plaatsvinden.
+De plaats van een voor een ondernemer verrichte dienst bestaande in het verlenen van toegang tot culturele, artistieke, sportieve, wetenschappelijke, educatieve, vermakelijkheids- of soortgelijke evenementen, zoals beurzen en tentoonstellingen, en met de toegangverlening samenhangende diensten, is de plaats waar deze evenementen daadwerkelijk plaatsvinden.
