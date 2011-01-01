@@ -3,6 +3,6 @@
 2. Indien artikel 32d van toepassing is op het door een of meer lichamen verschuldigde loon, wordt het eerste lid toegepast alsof de ten behoeve van deze andere lichamen verrichte arbeid is verricht ten behoeve van de inhoudingsplichtige die ingevolge artikel 32d geacht wordt het loon te verstrekken.
 3. Het eerste lid is niet van toepassing indien het bij toepassing van het eerste en tweede lid vast te stellen loon voor de arbeid in het lichaam, bedoeld in het eerste lid, en – als het lichaam tot een concern behoort – de tot hetzelfde concern behorende andere lichamen, in het kalenderjaar niet hoger is dan € 5000.
 4. Voor de toepassing van dit artikel wordt verstaan onder:
-a. partner: een in artikel 3.91, tweede lid, onderdeel b, onder 1° tot en met 5°, van de Wet inkomstenbelasting 2001 aangeduide persoon;
+a. partner: een in artikel 3.91, tweede lid, onderdeel b, onder 1°, van de Wet inkomstenbelasting 2001 aangeduide persoon;
 b. een aanmerkelijk belang: een aanmerkelijk belang in de zin van de Wet inkomstenbelasting 2001.
 5. Het in het eerste lid vermelde bedrag wordt bij het begin van het kalenderjaar bij ministeriële regeling vervangen door een ander. Dit bedrag wordt berekend door het te vervangen bedrag te vermenigvuldigen met de tabelcorrectiefactor van artikel 10.2 van de Wet inkomstenbelasting 2001 en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande jaar een dergelijke afronding is toegepast, kan bij vervanging worden uitgegaan van het niet-afgeronde bedrag.
