@@ -72,6 +72,8 @@
 ##### § 2.2.4a.1. Vergunningplicht en -eisen voor entiteiten voor risico-acceptatie met zetel in Nederland
 ##### § 2.2.4a.2. Bijkantoren van en verrichten van diensten door entiteiten voor risico-acceptatie met zetel in een andere lidstaat
 ##### § 2.2.4a.3. Bijkantoren van en verrichten van diensten door entiteiten voor risico-acceptatie met zetel in een staat die geen lidstaat is
+#### Afdeling 2.2.4b. Uitoefenen van bedrijf van premiepensioeninstelling
+##### § 2.2.4b.1. Vergunningplicht en -eisen voor premiepensioeninstellingen
 #### Afdeling 2.2.5. Aanbieden van beleggingsobjecten
 ##### § 2.2.5.1. Vergunningplicht en -eisen
 ##### § 2.2.5.2. Vrijstelling
@@ -115,6 +117,8 @@
 ##### § 2.3.3.2. Bijkantoor in een staat die geen lidstaat is
 #### Afdeling 2.3.4. Uitoefenen van bedrijf van natura-uitvaartverzekeraar
 ##### § 2.3.4.1. Bijkantoor buiten Nederland
+#### Afdeling 2.3.4a. Uitoefenen van bedrijf van premiepensioeninstelling
+##### § 2.3.4a.1. Bijkantoor en verrichten van diensten naar een andere staat
 #### Afdeling 2.3.5. Aanbieden van rechten van deelneming in instellingen voor collectieve belegging in effecten
 ##### § 2.3.5.1. Bijkantoor en verrichten van diensten naar een andere lidstaat
 #### Afdeling 2.3.6. Bemiddelen in verzekeringen
@@ -208,6 +212,7 @@
 ##### § 3.5.6.1a. Uitvoering van de vangnetregeling in de noodregeling
 ##### § 3.5.6.2. Financiële ondernemingen met zetel in een andere lidstaat
 ##### § 3.5.6.3. Financiële ondernemingen met zetel in een staat die geen lidstaat is
+#### Afdeling 3.5.7. Beleggingsbeginselen en beleggingsbeleid van premiepensioeninstellingen
 ### Hoofdstuk 3.6. Aanvullende bepalingen ten aanzien van financiele groepen
 #### Afdeling 3.6.1. Definities en algemeen
 #### Afdeling 3.6.1a. Betaalinstellingen in een groep
@@ -235,6 +240,7 @@
 ##### § 4.3.1.3. Krediet
 ##### § 4.3.1.4. Rechten van deelneming in een beleggingsinstelling
 ##### § 4.3.1.5. Verzekeringen
+##### § 4.3.1.6. Premiepensioenvorderingen
 #### Afdeling 4.3.2. Adviseren
 #### Afdeling 4.3.3. Bemiddelen
 ##### § 4.3.3.1. Algemeen
