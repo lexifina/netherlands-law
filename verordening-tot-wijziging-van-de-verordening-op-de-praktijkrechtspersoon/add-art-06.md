@@ -1,0 +1,2 @@
+# Artikel VI
+Binnen een termijn van vier jaar na inwerkingtreding van deze wijzigingsverordening brengt de Algemene Raad aan het College van Afgevaardigden verslag uit over de doeltreffendheid en de effecten van deze wijzigingsverordening in de praktijk. De Algemene Raad rapporteert in elk geval over de mate waarin gebruik is gemaakt van de bij deze wijzigingsverordening geboden mogelijkheid om een bestuurder te benoemen die geen advocaat of beoefenaar van een toegelaten vrij beroep is.
