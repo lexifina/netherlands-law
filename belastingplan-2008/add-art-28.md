@@ -1,0 +1,2 @@
+# Artikel XXVIII
+Hetgeen door de belastingplichtige na 31 december 2008 is ontvangen als teruggave van of nagekomen betaling ter zake van buitengewone uitgaven die in enig kalenderjaar op grond van afdeling 6.5 van de Wet inkomstenbelasting 2001, zoals die afdeling in het desbetreffende kalenderjaar luidde, in aanmerking zijn genomen, wordt voor de toepassing van artikel 3 139 van de Wet inkomstenbelasting 2001 als negatieve persoonsgebonden aftrek in aanmerking genomen tot ten hoogste het bedrag van de uitgaven die in aftrek zijn gekomen.
