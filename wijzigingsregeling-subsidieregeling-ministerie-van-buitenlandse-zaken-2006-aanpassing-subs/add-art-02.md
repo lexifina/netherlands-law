@@ -1,0 +1,2 @@
+# Artikel II
+De bepalingen van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006, zoals luidend voor inwerkingtreding van deze regeling, blijven van toepassing op voor inwerkingtreding van deze regeling verstrekte subsidies en op de toepassing van voor inwerkingtreding van deze regeling bekendgemaakte beleidsregels en subsidieplafonds op grond van artikel 7 van het Subsidiebesluit Ministerie van Buitenlandse Zaken.
