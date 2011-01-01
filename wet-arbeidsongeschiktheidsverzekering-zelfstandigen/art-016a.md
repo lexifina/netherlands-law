@@ -1,0 +1,2 @@
+# Artikel 16a. Samenloop met Ziektewet
+Indien als gevolg van de toeneming van de arbeidsongeschiktheid zowel recht op herziening van de arbeidsongeschiktheidsuitkering bestaat of is ontstaan op grond van de artikelen 13, 14, 15 en 16, als op ziekengeld op grond van de Ziektewet, wordt het bedrag waarmee de arbeidsongeschiktheidsuitkering is of wordt verhoogd uitbetaald voor zover dit het ziekengeld overtreft, danwel zou overtreffen, indien het ziekengeld op grond van artikel 45 van de Ziektewet geheel of gedeeltelijk is geweigerd.

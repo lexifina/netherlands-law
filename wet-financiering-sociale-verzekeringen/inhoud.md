@@ -23,7 +23,7 @@
 ### Afdeling 3. Uitvoeringsfonds voor de overheid
 #### § 1. Door overheid af te dragen middelen
 #### § 2. Door overheid in te houden op het loon
-### Afdeling 4. Arbeidsongeschiktheidsfonds, Arbeidsongeschiktheidskas en Werkhervattingskas
+### Afdeling 4. Arbeidsongeschiktheidsfonds en Werkhervattingskas
 #### § 1. Premies en rijksbijdragen ten gunste van de fondsen
 #### § 2. Premieplicht werkgever
 #### § 3. Maatstaf
@@ -32,7 +32,7 @@
 ### Afdeling 5. Eigenrisicodragen
 #### § 1. Algemeen
 #### § 2. Eigenrisicodragen Ziektewet
-#### § 3. Eigenrisicodragen Wet op de arbeidsongeschiktheidsverzekering en Wet werk en inkomen naar arbeidsvermogen
+#### § 3. Eigenrisicodragen Wet werk en inkomen naar arbeidsvermogen
 ### Afdeling 6. Premiekortingen en premievrijstelling
 #### § 1. Premiekortingen oudere werknemer en arbeidsgehandicapte werknemer
 #### § 2. Algemene bepalingen en nadere regels premiekorting
