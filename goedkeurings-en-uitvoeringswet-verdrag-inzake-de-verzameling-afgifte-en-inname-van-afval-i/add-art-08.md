@@ -1,0 +1,2 @@
+# Artikel VIII
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van artikel I, dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld, waarop artikel II voor wat betreft hoofdstuk 4A, paragraaf 4, van de Binnenvaartwet in werking treedt.
