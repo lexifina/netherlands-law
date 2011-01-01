@@ -6,5 +6,5 @@
 ## Hoofdstuk IV. Bepalingen tot uitvoering van artikel vii van het verdrag
 ### Titel I. De verplichting tot het in stand houden van een verzekering of andere financiële zekerheid en de overeenkomst tot verstrekking van financiële zekerheid
 ### Titel 2. Het certificaat en het bewijs van financiële zekerheid
-## Hoofdstuk V. Toezicht op de naleving van het Verdrag en de wet; strafbepalingen
+## Hoofdstuk V. Toezicht op de naleving van het Verdrag en de wet; strafbepalingen; beroep
 ## Hoofdstuk VI. Slotbepalingen
