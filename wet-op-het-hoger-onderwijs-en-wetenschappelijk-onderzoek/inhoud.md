@@ -21,6 +21,7 @@
 ## Hoofdstuk 5a. Accreditatie in het hoger onderwijs
 ### Titel 1. Accreditatieorgaan
 ### Titel 2. Accreditatie en toets nieuwe opleiding
+### Titel 2a. Instellingstoets kwaliteitszorg
 ### Titel 3. Overige bepalingen
 ## Hoofdstuk 6. Onderwijsaanbod
 ### Titel 1. Opleidingen bekostigde instellingen voor hoger onderwijs
@@ -76,7 +77,7 @@
 ## Hoofdstuk 11. Het bestuur en de inrichting van de Open Universiteit
 ### Paragraaf 1. Het bestuur van de Open Universiteit
 ### Paragraaf 2. Onderwijs
-### Paragraaf 4. Medezeggenschap studenten
+### Paragraaf 4. Medezeggenschap
 ## Hoofdstuk 12. Het bestuur en de inrichting van de academische ziekenhuizen
 ### Titel 1. Het bestuur en de inrichting van de academische ziekenhuizen
 #### Paragraaf 1. Algemene bepalingen
