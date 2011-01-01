@@ -1,2 +1,0 @@
-# Artikel 7b. Overgangsrecht in verband met de Wet wijziging WW-stelsel
-Artikel 1, onderdeel d, zoals dat luidde op de dag voor inwerkingtreding van artikel XIIII, onderdeel A, van de regeling van 4 september tot wijziging van enige ministeriële regelingen in verband met de inwerkingtreding van de Wet wijziging WW-stelsel (Stcrt. 182) blijft van toepassing met betrekking tot een recht op uitkering waarvan de eerste werkloosheidsdag is gelegen voor de dag van inwerkingtreding van dat onderdeel.
