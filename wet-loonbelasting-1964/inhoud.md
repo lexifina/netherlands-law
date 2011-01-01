@@ -1,7 +1,6 @@
 # Inhoud
 ## Hoofdstuk I. Belastingplicht
 ## Hoofdstuk II. Voorwerp van de belasting
-## Hoofdstuk IIA. Vrije vergoedingen en verstrekkingen
 ## Hoofdstuk IIB. Pensioenregelingen
 ## Hoofdstuk IIC. Levensloopregeling
 ## Hoofdstuk III. Tarief
