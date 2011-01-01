@@ -6,3 +6,4 @@ b. de nabestaande en de halfwees in vrijheid worden gesteld en de nabestaande vo
 c. het kind in vrijheid wordt gesteld en het voldoet aan een voorwaarde als bedoeld in artikel 26, eerste en tweede lid.
 3. Voor de toepassing van het eerste lid worden perioden van vrijheidsontneming samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen.
 4. Artikel 32c, derde lid, is van overeenkomstige toepassing.
+5. Het recht op nabestaandenuitkering, respectievelijk het recht op halfwezenuitkering of het recht op wezenuitkering eindigt, in afwijking van het eerste lid, vanaf de dag dat de vrijheidsontneming ingaat, indien op de dag voorafgaande aan de vrijheidsontneming geen recht bestaat op die uitkering op grond van artikel 32f, eerste lid.

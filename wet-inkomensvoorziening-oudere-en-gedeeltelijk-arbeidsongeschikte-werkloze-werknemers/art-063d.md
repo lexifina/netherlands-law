@@ -1,0 +1,2 @@
+# Artikel 63d
+De artikelen 3, zevende en achtste lid, en 4, tweede lid, zijn niet van toepassing, indien voor de inwerkingtreding van deze artikelleden, op grond van artikel 5 recht bestaat op een uitkering voor de werkloze werknemer en de echtgenoot, omdat de ongehuwde uitkeringsgerechtigde wegens een gezamenlijke huishouding met een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind is aangemerkt als echtgenoot, voor zolang dit recht op uitkering bestaat, tenzij toepassing van de genoemde artikelleden leidt tot een hogere uitkering.
