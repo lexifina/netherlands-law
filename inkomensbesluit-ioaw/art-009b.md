@@ -1,3 +1,0 @@
-# Artikel 9b
-1. Op een besluit omtrent het recht op uitkering genomen met toepassing van artikel 7, tweede lid, zoals dat artikellid luidde op 31 maart 2008, wordt op aanvraag door burgemeester en wethouders artikel 7, tweede lid, onderdeel j, toegepast met ingang van 1 april 2005 of indien de periodieke uitkeringen uit hoofde van een stamrecht als bedoeld in artikel 7, tweede lid, onderdeel j, op een later tijdstip zijn ingegaan met ingang van dat tijdstip, mits deze aanvraag om toepassing leidt tot een hoger bedrag aan uitkering dan de vaststelling van het recht op uitkering zonder toepassing van artikel 7, tweede lid, onderdeel j.
-2. De aanvraag, bedoeld in het eerste lid, kan worden ingediend tot 1 april 2009.
