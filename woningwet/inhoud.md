@@ -11,6 +11,7 @@
 ### Afdeling 3. Instellingen werkzaam in het belang van de volkshuisvesting
 ### Afdeling 3A. Het Centraal Fonds voor de Volkshuisvesting
 ### Afdeling 4. Voorzieningen in het belang van de volkshuisvesting vanwege de gemeente of de provincie
+### Afdeling 4a. Stedelijke vernieuwing
 ### Afdeling 5. Verstrekking van geldelijke steun uit 's Rijks kas
 ## Hoofdstuk VI. Bestuursrechtelijke handhaving
 ## Hoofdstuk VII. Voorzieningen in geval van buitengewone omstandigheden
