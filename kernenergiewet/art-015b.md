@@ -2,7 +2,7 @@
 1. De vergunning kan slechts worden geweigerd in het belang van:
 a. de bescherming van mensen, dieren, planten en goederen;
 b. de veiligheid van de staat;
-c. de bewaring en bewaking van splijtstoffen en van ertsen;
+c. de bewaring en beveiliging van splijtstoffen en ertsen en de beveiliging van inrichtingen als bedoeld in artikel 15, onder b;
 d. de energievoorziening;
 e. het zeker stellen van de betaling van de vergoeding, aan derden toekomende voor schade of letsel, hun toegebracht;
 f. de nakoming van internationale verplichtingen.
