@@ -1,2 +1,0 @@
-# Slotformulering
-griffier, voorzitter
