@@ -1,0 +1,2 @@
+# Artikel II
+Het bestuur van de regionale loodsencorporatie Rotterdam-Rijnmond plaatst de tot die regionale loodsencorporatie behorende registerloodsen, met ingang van de datum waarop deze verordening van kracht is, in de artikel 9, vijfde lid, genoemde bevoegdheden, zodanig dat de krachtens artikel 9, vijfde lid, toegekende bevoegdheid zoveel mogelijk overeenkomt met de bevoegdheid van de registerloods op de dag voorafgaande aan de inwerkingtredingsdatum van deze verordening.
