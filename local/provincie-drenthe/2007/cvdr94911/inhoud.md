@@ -1,579 +1,1140 @@
 # Inhoud
-## Inhoud
-DEEL I, ALGEMEEN
-Hoofdstuk 1. Begripsbepalingen
-Hoofdstuk 2. Inspraak
-Hoofdstuk 3. [Vervallen.]
-Hoofdstuk 4. Geluidhinderdienst Drenthe
-DEEL II, MILIEU
-Hoofdstuk 5. Afvalstoffen
-Titel 5.1. Huishoudelijke afvalstoffen
-Titel 5.2. Bedrijfsafvalstoffen
-Paragraaf 5.2.1. Algemeen
-Paragraaf 5.2.2. Het gescheiden houden van bedrijfsafvalstoffen
-Paragraaf 5.2.3. Het inzamelen van bedrijfsafvalstoffen
-Paragraaf 5.2.4. De melding inzake de afgifte van bedrijfsafvalstoffen
-Titel 5.3. Gevaarlijke afvalstoffen
-Paragraaf 5.3.1. Algemeen
-Paragraaf 5.3.2. De melding inzake de afgifte van gevaarlijke afvalstoffen
-Hoofdstuk 6. Bodemsanering
-Titel 6.1. Landbodemsanering
-Titel 6.2. Waterbodemsanering
-Hoofdstuk 7. Gebieden
-Titel 7.1. Aanwijzing gebieden
-Titel 7.2. Zorgplichtbepaling
-Titel 7.3. Grondwaterbescherming
-Paragraaf 7.3.1. Waterwingebieden
-Paragraaf 7.3.2. Grondwaterbeschermingsgebieden
-Paragraaf 7.3.3. Gebieden tegen fysische bodemaantasting
-Paragraaf 7.3.4. Verbodszone diepe boringen
-Paragraaf 7.3.5. Grondwaterbeschermingsgebied Drentsche Aa
-Paragraaf 7.3.6. Aanduiding gebieden
-Titel 7.4. Stilte
-Paragraaf 7.4.1. Begripsbepalingen
-Paragraaf 7.4.2. Verbodsbepalingen
-Paragraaf 7.4.3. Vrijstellingen
-Paragraaf 7.4.4. Aanduiding gebieden
-DEEL III, NATUUR EN LANDSCHAP
-Hoofdstuk 8. Ontgrondingen
-Hoofdstuk 9. Vaarverbod Drentsche Aa
-Titel 9.1. Aanwijzing gebied
-Titel 9.2. Het vaarverbod
-DEEL IV, WATER
-Hoofdstuk 10. Waterhuishouding
-Titel 10.1. Algemene bepalingen
-Titel 10.2. Het beheersplan van het waterschap
-Titel 10.3. Het peilbesluit
-Titel 10.4. Het waterakkoord
-Titel 10.5. Vergunning, registratie, meld- en meetplicht
-Titel 10.6. Bevoegdheden gedeputeerde staten van Drenthe
-Hoofdstuk 11. Grondwateronttrekkingen
-Titel 11.1. Registratie- en meldingsplicht
-Titel 11.2. Uitzondering vergunningplicht
-Titel 11.3. Algemene regels
-Titel 11.4. Te overleggen gegevens
-Titel 11.5. Uitzondering horen commissie
-DEEL V, WEGEN EN WATERWEGEN
-Hoofdstuk 12. Wegen en waterwegen
-Titel 12.1. Algemene bepalingen
-Titel 12.2. Bepalingen inzake instandhouding en dergelijke
-Titel 12.3. Gebods- en verbodsbepalingen
-Titel 12.4. Ontheffing
-DEEL VI, OVERIGE BEPALINGEN
-Hoofdstuk 13. Vergoeding van schade en kosten
-Hoofdstuk 14. Handhaving
-Hoofdstuk 15. Overgangs- en slotbepalingen
-Toelichting op de Provinciale omgevingsverordening
-Toelichting op de eerste wijzigingstranche
-Toelichting op de tweede wijzigingstranche
-BIJLAGEN
-I. Categorieën van bedrijven als bedoeld in artikel 7.5
-II. Aanwijzing categorieën van afvalstoffen
 ## Deel I, Algemeen
-DEEL I. ALGEMEEN
-### hoofdstuk 1, begripsbepalingen
+### Hoofdstuk 1, Begripsbepalingen
 ### Hoofdstuk 2, Inspraak
-### Hoofdstuk 3, Provinciale Commissie voor het Omgevingsbeleid
+## Deel II, Ruimtelijke ordening
+## DEEL II, RUIMTELIJKE ORDENING
+Hoofdstuk 3, RUIMTELIJKE ORDENING
+### Titel 1, Algemeen
+## Deel III, Milieu
 ### Hoofdstuk 4, Geluidhinderdienst Drenthe
-## Deel II, Milieu
-DEEL II. MILIEU
-### Hoofdstuk 5, Afvalstoffen
-Titel 5.1, Huishoudelijke afvalstoffen
-### Paragraaf 5.2.1, Algemeen
-### Paragraaf 5.2.2, Het gescheiden houden van bedrijfsafvalstoffen
-### Paragraaf 5.2.3, Het inzamelen van bedrijfsafvalstoffen
-### Paragraaf 5.2.4, De melding inzake de afgifte van bedrijfsafvalstoffen
-### Paragraaf 5.3.1, Algemeen
-### Paragraaf 5.3.2, De melding inzake de afgifte van gevaarlijke afvalstoffen
+### HOOFDSTUK 5, WARMTE- EN KOUDEOPSLAG
+### Hoofdstuk 6, Bodemsanering
+### Hoofdstuk 7, Gebieden
+## Deel IV, Natuur en landschap
+### Hoofdstuk 8, Ontgrondingen
+### Hoofdstuk 9, Vaarverbod Drentsche Aa
+## Deel V, Water
+## Deel VI, Wegen
+## Deel VII, Overige bepalingen
+### DEEL VII, OVERIGE BEPALINGEN
+## Toelichting op de Provinciale omgevingsverordening
+### Algemeen
+### Grondslag
+De POV is gebaseerd op meerdere wetten met elk een eigen doel en werkingssfeer.
+De verordenende bevoegdheid van provinciale staten is neergelegd in de volgende bepalingen.
+Artikel 1.2 van de Wet milieubeheer
+Dit artikel bepaalt dat provinciale staten een verordening vaststellen ter bescherming van het milieu.
+Artikel 5, tweede lid, van de Ontgrondingenwet
+Dit artikel bepaalt dat, bij provinciale verordening, nadere regelen worden gesteld omtrent ontgrondingen, bedoeld in artikel 8, tweede lid, van de Ontgrondingenwet.
+De artikelen 8, eerste lid, 9, vierde lid, 16, derde lid en 24, derde lid, van de Wet op de waterhuishouding
+Deze artikelen bepalen dat provinciale staten, bij verordening, onder meer nadere regelen kunnen stellen ten aanzien van het Provinciaal omgevingsplan, het beheersplan van het waterschap, peilbesluiten en vergunningen voor het onttrekken aan en lozen op oppervlaktewater.
+Artikel 15a van de Grondwaterwet
+Dit artikel bepaalt dat provinciale staten bij verordening met betrekking tot daarbij aan te wijzen gevallen ten aanzien van het onttrekken van grondwater regels kunnen stellen ter bescherming van bij het grondwaterbeheer betrokken belangen.
+Deze regels kunnen ten aanzien van het onttrekken verboden en beperkingen inhouden. Bij die regels kan aan gedeputeerde statende bevoegdheid worden verleend in bij die regels aan te geven omstandigheden het onttrekken te verbieden.
+Artikel 105, eerste lid, van de Provinciewet
+Dit artikel bepaalt dat de bevoegdheid tot regeling en bestuur inzake de huishouding van de provincie aan het provinciebestuur wordt overgelaten. De bepalingen ten aanzien van wegen en waterwegen zijn gebaseerd op dit artikel.
+### DEEL II. MILIEU
 ### Hoofdstuk 6, Bodemsanering
 Titel 6.1, Landbodemsanering
 ### Hoofdstuk 7, Gebieden
-Titel 7.1, Aanwijzing gebieden
-### Paragraaf 7.3.1, Waterwingebieden
-### Paragraaf 7.3.2, Grondwaterbeschermingsgebieden
-### Paragraaf 7.3.3, Gebieden tegen fysische bodemaantastingen
-### Paragraaf 7.3.4, Verbodszone diepe boringen
-### Paragraaf 7.3.5, Grondwaterbeschermingsgebied Drentsche Aa
-### Paragraaf 7.3.6, Aanduiding gebieden
-### Paragraaf 7.4.1, Begripsbepalingen
-### Paragraaf 7.4.2, Verbodsbepalingen
-### Paragraaf 7.4.3, Vrijstellingen
-### Paragraaf 7.4.4, Aanduiding gebieden
-## Deel III, Natuur en landschap
-DEEL III. NATUUR EN LANDSCHAP
-### Hoofdstuk 8, Ontgrondingen
-### Hoofdstuk 9, Vaarverbod Drentsche Aa
-Titel 9.1, Aanwijzing gebied
-## Deel IV, Water
-DEEL IV. WATER
-### Hoofdstuk 10, Waterhuishouding
-Titel 10.1, Algemene bepalingen
-### Hoofdstuk 11, Grondwateronttrekkingen
-Titel 11.1, Registratie- en meldingsplicht
-## Deel V, Wegen en waterwegen
-DEEL V. WEGEN EN WATERWEGEN
-### Hoofdstuk 12, Wegen en waterwegen
-Titel 12.1, Algemene bepalingen
-## Deel VI, Overige bepalingen
-DEEL VI. OVERIGE BEPALINGEN
-### Hoofdstuk 13, Vergoeding van schade en kosten
-### Hoofdstuk 14, Handhaving
-### Hoofdstuk 15, Overgangs- en slotbepalingen
-## Toelichting op de Provinciale omgevingsverordening
-TOELICHTING OP DE PROVINCIALE OMGEVINGSVERORDENING DRENTHE
-### Algemeen
+### DEEL III. NATUUR EN LANDSCHAP
+### DEEL IV. WATER
+### DEEL VI. OVERIGE BEPALINGEN
 ## Toelichting op de eerste wijzigingstranche
-### TOELICHTING OP DE EERSTE WIJZIGINGSTRANCHE VAN DE PROVINCIALE OMGEVINGSVERORDENING (POV) DRENTHE
 WIJZIGINGEN
 De eerste wijzigingstranche van de POV omvat de volgende onderwerpen.
-- Aanpassing aan de Wet uniforme voorbereidingsprocedure Algemene wet bestuursrecht (samenvoeging van de afdelingen 3.4 en 3.5 van de Algemene wet bestuursrecht).
+- Aanpassing aan de Wet uniforme voorbereidingsprocedure Awb (samenvoeging van de afdelingen 3.4 en 3.5 van de Awb).
 - Corrigeren kennelijke verschrijvingen en onduidelijkheden.
 - Afstemming met het IPO-model voor zover het betreft het onderdeel Wegen en waterwegen.
 - Wijziging van de begrenzing van het grondwaterbeschermingsgebied Gasselte.
 ARTIKELSGEWIJS
-## Bijlage II
+Artikel 6.1
+Abusievelijk wordt in het vierde lid verwezen naar het tweede lid. Dit moet zijn het derde lid.
+Artikel 6.3
+Om in aanmerking te komen voor de in dit artikellid bedoelde vrijstelling is het van belang dat aan alle 3 genoemde voorwaarden wordt voldaan. Om voldoende duidelijk te zijn, is dit artikellid op deze wijze aangepast.
+Artikel 6.4
+Abusievelijk wordt in het vierde lid verwezen naar het tweede lid. Dit moet zijn het derde lid.
+Artikel 6.9
+Op grond van artikel 9:1 van de Awb heeft eenieder het recht om over de wijze waarop een bestuursorgaan zich in een bepaalde aangelegenheid jegens hem of een ander heeft gedragen, een klacht in te dienen bij dat bestuursorgaan. Dit is tevens van toepassing op gedragingen van personen die werkzaam zijn onder de verantwoordelijkheid van dat bestuursorgaan. Voor de afhandeling van deze klachten heeft de provincie een eigen klachtenregeling. Deze is laatstelijk in 2003 gewijzigd vastgesteld. Een aparte regeling voor de afhandeling van klachten die betrekking hebben op bodemsanering is dan ook niet noodzakelijk.
+Artikel 7.12
+Voor de afhandeling van aanvragen om ontheffing van verboden binnen deze titel is aangesloten bij de nieuwe procedure als bedoeld in afdeling 3.4 van de Awb. Aangezien de Wet milieubeheer deze procedure ook op deze ontheffingen van toepassing heeft verklaard, is een aparte opname in de POV van de te volgen procedure niet noodzakelijk.
+Artikel 7.13
+Zie toelichting bij artikel 7.12.
+Artikel 9.4
+Zie toelichting bij artikel 7.12.
+Artikel 10.9
+De termijn (13 weken) is aangepast aan de termijnen genoemd in de Awb (15 weken).
+Artikel 11.6
+Herstel van een verschrijving. In het eerste lid, onder h, is het woord "slechte" vervangen door slecht.
+Artikel 11.9
+Herstel van een verschrijving. Onder h is het woord "slechte" vervangen door slecht.
+Artikelen 12.1 tot en met 12.4
+Om hoofdstuk 12 qua systematiek meer in overeenstemming te brengen met de rest van de POV is ervoor gekozen de bestaande artikelen 12.1 tot en met 12.4 onderling te verplaatsen. Daarnaast zijn in de artikelen zelf enige aanpassingen aangebracht. Deze aanpassingen zijn in overeenstemming met de voorstellen die zijn gedaan voor een IPO-model Wegen en waterwegen. De hieronder gebruikte nummering van de artikelen betreft de nieuwe nummering.
+Artikel 12.1
+Aan dit artikel is een begripsomschrijving toegevoegd van de CVB: de Commissie Vaarweg Beheer. Deze commissie is een landelijke commissie, onder andere bestaande uit vertegenwoordigers van de sector van vaarwegbeheerders van regionale directies van Rijkswaterstaat, provinciale waterstaat en de havenautoriteiten. De commissie geeft richtlijnen uit met betrekking tot het vaarwegbeheer. Deze richtlijnen zijn ten principale bindend, maar de beheerder heeft de mogelijkheid ervan af te wijken. De provincie Drenthe wil in haar POV aangeven dat zij bij deze richtlijnen aansluit.
+Artikel 12.2
+Dit artikel regelt het toepassingsbereik van hoofdstuk 12. Met de wijziging van het eerste lid is dit hoofdstuk ook van toepassing op situaties buiten wegen en waterwegen waarbij het doelmatig en veilig gebruik van die wegen en waterwegen in het geding is. Hierbij gaat het nadrukkelijk alleen om de belangen van doelmatig en veilig gebruik.
+Artikel 12.3
+De wijziging van het eerste lid heeft tot gevolg dat de bescherming van de in dit artikellid genoemde belangen ook voor wegen van toepassing is.
+Op grond van het aangepaste tweede lid zijn gedeputeerde statenbevoegd nadere regels te stellen met betrekking tot de in het eerste lid genoemde belangen.
+Artikel 12.6
+In artikel 12.2 (nieuw) is reeds aangegeven dat dit hoofdstuk onder andere van toepassing is op in Drents beheer zijnde waterwegen. De nu vervallen zinsnede was dan ook overbodig.
+Artikel 12.8
+De eerste wijziging is een tekstuele wijziging. De toevoeging van het tweede lid aan dit artikel is een gevolg van de verruimde toepassing opgenomen in het nieuwe artikel 12.2. De in het eerste lid genoemde verboden gelden dus ook voor situaties buiten wegen en waterwegen met de in het artikellid genoemde beperking.
+Artikel 12.9
+De toevoeging van het tweede lid aan dit artikel is een gevolg van de verruimde toepassing opgenomen in het nieuwe artikel 12.2. De in het eerste lid genoemde verboden gelden dus ook voor situaties buiten wegen en waterwegen met de in het artikellid genoemde beperking.
+Artikel 12.11
+Het toegevoegde derde lid geeft aan in welke situaties gedeputeerde staten een verleende ontheffing kunnen intrekken.
+Bijlage II
 Het betreft hier een tekstuele aanpassing.
 Tevens is de begrenzing van het grondwaterbeschermingsgebied Gasselte gewijzigd. Wijziging van dit gebied is noodzakelijk omdat uit onderzoek is gebleken dat het intrekgebied een andere is dan jarenlang is aangenomen. Dit wordt veroorzaakt doordat de doorlatendheid in de noord-zuidrichting groter is dan in de west-oostrichting. Door dit verschil in doorlatendheid zal het grondwater makkelijker vanuit de lengterichting (noord-zuid) van de Hondsrug toestromen dan dwars op de Hondsrug. Hierdoor krijgt het intrekgebied van de winning deze andere vorm.
 ## Toelichting op tweede wijzigingstranche
-TOELICHTING OP DE TWEEDE WIJZIGINGSTRANCHE VAN DE PROVINCIALE OMGEVINGSVERORDENING (POV) DRENTHE
-## Inleiding
-Een aantal ontwikkelingen maakt het noodzakelijk de Provinciale omgevingsverordening Drenthe (POV) aan te passen. Het betreft hier de volgende zaken:
+Inleiding
+Een aantal ontwikkelingen maakt het noodzakelijk de POV Drenthe aan te passen. Het betreft hier de volgende zaken:
 1. aanpassing hoofdstuk 6 (Bodemsanering) in verband met de wijziging van de saneringsdoelstelling van multifunctioneel naar functioneel;
 2. aanpassing hoofdstuk 11 (Grondwateronttrekkingen) in verband met de overdracht van bevoegdheden voor bepaalde onttrekkingen naar de waterschappen en de hierdoor ontstane behoefte tot verdere afstemming met Groningen en Overijssel;
 3. aanpassing artikel 12.11, tweede lid;
 4. aanpassing van de waterwingebieden Nietap en De Groeve in verband met afstemming tussen POV en door waterleidingbedrijf op te stellen beheerplannen.
-Ad 1. De belangrijkste wijziging van de Wet bodembescherming is de wijziging van de saneringsdoelstelling. Niet langer is het noodzakelijk multifunctioneel te saneren, maar mag functie-gericht worden gesaneerd. Bij functiegericht saneren kan echter verontreiniging in de bodem achterblijven. Het beheer van deze restverontreiniging is daarom belangrijk geworden. Om dit te benadrukken heeft de wetgever het evaluatieverslag van de sanering en het nazorgplan een wettelijke status gegeven. Aan provinciale staten is de bevoegdheid gegeven om nadere regels te stellen waaraan beide moeten voldoen. Hieraan wordt in deze wijzigingstranche invulling gegeven.
+Ad 1. De belangrijkste wijziging van de Wet bodembescherming is de wijziging van de saneringsdoelstelling. Niet langer is het noodzakelijk multifunctioneel te saneren, maar mag functiegericht worden gesaneerd. Bij functiegericht saneren kan echter verontreiniging in de bodem achterblijven. Het beheer van deze restverontreiniging is daarom belangrijk geworden. Om dit te benadrukken heeft de wetgever het evaluatieverslag van de sanering en het nazorgplan een wettelijke status gegeven. Aan provinciale staten is de bevoegdheid gegeven om nadere regels te stellen waaraan beide moeten voldoen. Hieraan wordt in deze wijzigingstranche invulling gegeven.
 Tevens is van de gelegenheid gebruik gemaakt kritisch te kijken naar de inhoud van Hoofdstuk 6. De nu voorgestelde wijzigingen dragen bij aan deregulering en betere leesbaarheid van de POV. Gedeputeerde staten hebben een aantal bevoegdheden overgedragen gekregen van provinciale staten. In afzonderlijke besluiten van gedeputeerde staten zal hieraan invulling worden gegeven.
 In verband met de wijziging van de saneringsdoelstelling is het noodzakelijk om aan de begripsbepalingen de onderdelen evaluatieverslag en nazorgplan toe te voegen. Voor de goede orde is tevens een begripsomschrijving opgenomen voor het nader onderzoek.
 Ad 2. Per 8 januari 2007 wordt de bevoegdheid voor bepaalde grondwateronttrekkingen overgedragen van provincie naar waterschappen. Dit past binnen de gewenste bestuurlijke ontwikkeling binnen Noord-Nederland.
 In verband met verdere afstemming heeft binnen Noord-Nederland overleg plaatsgevonden over de provinciale regelgeving voor grondwateronttrekkingen. Dit afstemmingsoverleg heeft geleid tot de nu voorliggende wijzigingen.
 Ad 3. In het tweede lid van artikel 12.11 was aangegeven dat gedeputeerde staten voorwaarden kunnen verbinden aan een te verlenen ontheffing. Juridisch is hier echter sprake van de bevoegdheid om voorschriften aan een ontheffing te verbinden. In deze wijzigingstranche is daarom het begrip voorwaarden vervangen door voorschriften.
 Ad 4. Bij het opstellen van de beheerplannen voor de waterwingebieden van De Groeve en Nietap door het Waterbedrijf Groningen bleek dat de begrenzingen die het waterbedrijf in het veld gebruikte afweken van de begrenzingen zoals in de POV waren vastgesteld. Om beide begrenzingen op elkaar af te stemmen wordt de huidige in de POV opgenomen begrenzing aangepast. De begrenzing valt binnen de eigendomsgrenzen van het Waterbedrijf Groningen zodat er geen gevolgen zijn voor derden.
-### Toelichting per hoofdstuk (algemeen + artikelsgewijs)
+Toelichting per hoofdstuk (algemeen + artikelsgewijs)
 HOOFDSTUK 6
 Per 1 januari 2006 is de Wet houdende wijziging van de Wet bodembescherming en enkele andere wetten in verband met de wijzigingen in het beleid inzake bodemsanering (Staatsblad 2005, nummer 680) in werking getreden. Hierdoor is de Wet bodembescherming ingrijpend gewijzigd. Voorts maakt de Aanpassingswet uniforme openbare voorbereidingsprocedure Awb (Staatsblad 2005, nummer 282) een wijziging van hoofdstuk 6 van de POV noodzakelijk.
-De belangrijkste wijziging die tot gevolg heeft dat de POV moet worden aangepast, is de wijziging van de saneringsdoelstelling van artikel 38 van de Wet bodembescherming. Niet langer is het noodzakelijk om multifunctioneel te saneren, maar mag worden volstaan met een sanering die is afgestemd op de functie van het te saneren gebied. Functiegericht saneren heeft echter als gevolg dat na afloop van de sanering verontreiniging in de bodem kan achterblijven. Het beheer van deze restverontreiniging is daarom belangrijk geworden. Om dit te benadrukken heeft de wetgever het evaluatieverslag en het nazorgplan een wettelijke status gegeven. Beide behoeven bovendien de instemming van gedeputeerde staten. Aan provinciale staten wordt de bevoegdheid gegeven om nadere regels te stellen waaraan het evaluatieverslag en het nazorg[plan moeten voldoen.
+De belangrijkste wijziging die tot gevolg heeft dat de POV moet worden aangepast, is de wijziging van de saneringsdoelstelling van artikel 38 van de Wet bodembescherming. Niet langer is het noodzakelijk om multifunctioneel te saneren, maar mag worden volstaan met een sanering die is afgestemd op de functie van het te saneren gebied. Functiegericht saneren heeft echter als gevolg dat na afloop van de sanering verontreiniging in de bodem kan achterblijven. Het beheer van deze restverontreiniging is daarom belangrijk geworden. Om dit te benadrukken heeft de wetgever het evaluatieverslag en het nazorgplan een wettelijke status gegeven. Beide behoeven bovendien de instemming van GS. Aan provinciale staten wordt de bevoegdheid gegeven om nadere regels te stellen waaraan het evaluatieverslag en het nazorg[plan moeten voldoen.
 Tevens is van de gelegenheid gebruik gemaakt om kritisch te kijken naar de bestaande regelgeving. Hierbij is gekeken naar nut en noodzaak van de regelgeving, praktische hanteerbaarheid en leesbaarheid.
 Dit alles heeft geleid tot een nogal drastische wijziging van Hoofdstuk 6. Wij zijn echter van mening dat met de nu nog resterende regels op voldoende zorgvuldige wijze de bodemsanering in Drenthe kan worden uitgevoerd.
-Omdat deze wijziging nogal ingrijpend is, hebben wij besloten om het bestaande hoofdstuk 6 in z¿n geheel te laten vervallen en een nieuw hoofdstuk 6 vast te stellen. Dit komt de duidelijkheid en leesbaarheid ten goede. Bovendien is ook de nummering van de artikelen gewijzigd.
+Omdat deze wijziging nogal ingrijpend is, hebben wij besloten om het bestaande hoofdstuk 6 in z'n geheel te laten vervallen en een nieuw hoofdstuk 6 vast te stellen. Dit komt de duidelijkheid en leesbaarheid ten goede. Bovendien is ook de nummering van de artikelen gewijzigd.
 Hierna is per artikel aangegeven welke wijzigingen zijn aangebracht en wat hiervoor de motivering is. Het betreft hier de nummering van het oude (vervallen) hoofdstuk 6. Bij de verwijzing naar de verwerking in deze wijzigingstranche wordt verwezen naar het nieuwe (vastgestelde) hoofdstuk 6.
 Tot slot wordt nog aangegeven welke wijzigingen van de POV zijn veroorzaakt door de wijziging van de saneringsdoelstelling. De hierbij gebruikte nummering verwijst naar het nieuwe (vastgestelde) hoofdstuk 6.
-## Toelichting op Deel I
-DEEL I. ALGEMEEN
-### Hoofdstuk 1, Begripsbepalingen
-## Hoofdstuk 2, Inspraak
-In dit artikel wordt de Algemene Inspraakverordening Drenthe van toepassing verklaard op het wijzigen van deze verordening. Hierdoor is het niet noodzakelijk om in deze verordening de inspraak verder uit te werken.
-## Hoofdstuk 3, Provinciale Commissie voor het Omgevingsbeleid
-[Vervallen.]
-### Hoofdstuk 4, Geluidhinderdienst Drenthe
-## Toelichting op Deel II
-DEEL II. MILIEU
-### Hoofdstuk 5, Afvalstoffen
-Algemeen
-Op 8 mei 2002 is de Wijzigingswet Wet milieubeheer in werking getreden (Wet van 21 juni 2001 tot wijziging van de Wet milieubeheer; structuur beheer afvalstoffen; Staatsblad 2001/346, in werking: Staatsblad 2002/206). De structuur van het beheer van afvalstoffen is daarmee sterk gewijzigd. De wijzigingswet legt de sturing van het afvalstoffenbeleid op landelijk niveau, in plaats van op provinciaal niveau.
-De Wijzigingswet Wet milieubeheer heeft gevolgen voor de regelgeving van de provincies. De wijzigingswet is een raamwet. Dit betekent dat de hoofdlijnen vastliggen, maar dat daarbinnen nog veel vastgelegd moet worden in plannen of Algemene maatregelen van bestuur.
-Bij de inwerkingtreding van de wijzigingswet op 8 mei 2002 is een groot aantal artikelen van de toentertijd fingerende Provinciale milieuverordening* reeds van rechtswege komen te vervallen. Voor de provincies en de Provinciale omgevingsverordening is van belang dat er nog een aantal Algemene maatregelen van bestuur bij
-Koninklijk besluit moeten worden vastgesteld. In de wijzigingswet is in artikel XVII een overgangsregeling opgenomen. Daardoor geldt een overgangsperiode, waarin de nog "bestaande" provinciale regelgeving met betrekking tot deze onderwerpen van toepassing blijft, totdat in het betrokken onderwerp wordt voorzien door een Algemene maatregel van bestuur.
-* De op 8 mei 2002 vervallen artikelen hebben betrekking op de lijst van inzamelbedrijven inzake bedrijfsafvalstoffen, onderdelen van de meldingsregelingen, inzake de afgifte van bedrijfsafvalstoffen en gevaarlijke afvalstoffen, het provinciegrensoverschrijdend verkeer van bedrijfsafvalstoffen, het inzamelen van gevaarlijke afvalstoffen en voorschriften voor inrichtingen.
-De Algemene maatregel van bestuur op basis van artikel 10.52 van de Wet milieubeheer, waarin regels zijn opgenomen voor mobiele puinruimers, is per 1 maart 2004 in werking getreden.
-Vandaar dat er in deze Provinciale omgevingsverordening, in afwijking van de Provinciale milieuverordening, geen regels zijn opgenomen voor mobiele puinbrekers.
-De Algemene maatregelen van bestuur op basis van de artikelen 10.28 en 10.29 van de Wet milieubeheer (Besluit beheer elektrische en elektronische apparatuur), waarin regels voor huishoudelijk afval (wit- en bruingoed, afkomstig van particuliere huishoudens) zijn opgenomen, is per 13 augustus 2004 in werking getreden (Staatsblad 2004/340). Hierdoor vervalt van rechtswege artikel 5.1 van de Provinciale omgevingsverordening.
-De Algemene maatregelen van bestuur op basis van de artikelen 10.41 en 10.44 van de Wet milieu-beheer (Besluit melden), waarin regels voor het melden van afgifte, ontvangst en vervoer van afval zijn opgenomen, is per 1 januari 2005 in werking getreden (Staatsblad 2004/552). Hiervoor vervallen van rechtswege de artikelen uit de paragrafen 5.2.3, 5.2.4 en 5.3.2 van de Provinciale omgevingsverordening.
-Naar verwachting zullen de Algemene maatregelen van bestuur op basis van artikel 10.51 van de Wet milieubeheer in 2005 in werking treden. Hierin worden regels opgenomen voor het scheiden en gescheiden houden van afval. Als deze Algemene maatregel van bestuur in werking treedt, vervallen van rechtswege de artikelen uit paragraaf 5.2.2 van deze verordening die betrekking hebben op het gescheiden houden van bedrijfsafvalstoffen.
-Naast vorengenoemde artikelen, die van rechtswege zijn of komen te vervallen, bevat de Provinciale milieuverordening ook ondersteunende bepalingen voor vorengenoemde artikelen. Door de wetswijziging vervallen deze ondersteunende bepalingen niet van rechtswege. Formeel kunnen deze ondersteunende artikelen (en bijlagen) in de milieuverordening gehandhaafd blijven, maar ze zijn overbodig.
-Een aantal ondersteunende artikelen en bijlagen kan onmiddellijk vervallen, andere kunnen vervallen op het moment dat alle desbetreffende Algemene maatregelen van bestuur in werking zijn getreden (zie overgangs- en slotbepalingen).
-Als alle genoemde Algemene maatregelen van bestuur in werking zijn getreden, zijn alle artikelen van hoofdstuk 5 (Afvalstoffen) van de Provinciale omgevingsverordening vervallen.
-Artikelsgewijs
-Titel 5.1, Huishoudelijke afvalstoffen
-### Paragraaf 5.2.1, Algemeen
-### Paragraaf 5.2.2, Het gescheiden houden van bedrijfsafvalstoffen
-Met deze regeling wordt ¿ samen met stimulering van afvalpreventie, hergebruik en nuttige toepassing ¿ invulling gegeven aan het gestelde in artikel 10.1 van de Wet milieubeheer (uitwerking van de "Ladder van Lansink").
-Deze verordening bevat een minimumregeling voor het scheiden en gescheiden houden van afvalstoffen. De scheidingsverplichtingen die op grond van vergunningvoorschriften zijn opgelegd aan een bedrijf, blijven onverminderd van kracht.
-### Paragraaf 5.2.3, Het inzamelen van bedrijfsafvalstoffen
-### Paragraaf 5.2.4, De melding inzake de afgifte van bedrijfsafvalstoffen
-### Paragraaf 5.3.1, Algemeen
-### Paragraaf 5.3.2, De melding inzake de afgifte van gevaarlijke afvalstoffen
-### Hoofdstuk 6, Bodemsanering
-Titel 6.1, Landbodemsanering
-Algemeen
-De inhoud van het saneringsplan
-Op grond van artikel 39, eerste lid, van de Wet bodembescherming kunnen bij provinciale verordening regels worden gesteld voor de inhoud van het saneringsplan. Deze regels zijn opgenomen in artikel 6.3. Aan het artikel behoeft vanzelfsprekend alleen te worden voldaan als op grond van de Wet bodembescherming een saneringsplan moet worden ingediend. Dat is het geval als een melding wordt gedaan dat bij een geval van ernstige verontreiniging de bodem zal worden gesaneerd dan wel handelingen zullen worden verricht ten gevolge waarvan de verontreiniging van de bodem wordt verminderd of verplaatst (artikel 28 van de Wet bodemsanering). De in artikel 6.3 opgenomen eisen leiden niet zonder meer tot een standaard voor een saneringsplan. Met de bijzondere omstandigheden van een geval kan rekening worden gehouden.
-In de eerste plaats blijkt uit artikel 40 van de Wet bodembescherming dat als het gaat om een geringe verplaatsing van verontreinigde bodem met een saneringsplan voor dat gedeelte kan worden volstaan.
-Een gefaseerde aanpak heeft dus gevolgen voor de inhoud van het saneringsplan. Verder zullen meer in het algemeen de eisen die aan het saneringsplan worden gesteld, afhankelijk zijn van de omstandigheden van het geval. Waar het om gaat is dat gedeputeerde staten kunnen beoordelen of de saneringsdoelstelling gelet op artikel 38 van de Wet bodembescherming juist is gesteld en of de gestelde doelstelling met de voorgestelde aanpak kan worden gerealiseerd. Om het risico van vertraging als gevolg van problemen bij de ontvankelijkheid in het verzoek om goedkeuring te voorkomen, is bij twijfel aan de eisen die aan het plan zullen worden gesteld, vooroverleg met de provincie over die eisen raadzaam.
-De betrokkenheid van belanghebbenden; procedures
-Op grond van artikel 52 van de Wet bodembescherming dienen provinciale staten een verordening vast te stellen waarin regels worden gegeven voor de wijze waarop burgemeester en wethouders van de gemeente, waarin een (mogelijk) geval van ernstige verontreiniging is gelegen, alsmede ingezetenen en andere belanghebbenden bij de uitvoering van onderzoek en sanering worden betrokken.
-In de verordening is onderscheid gemaakt naar inspraak bij de totstandkoming van beschikkingen in het kader van de bodemsanering en betrokkenheid bij de uitvoering van onderzoek en sanering.
-Inspraak richt zich op de besluiten van het bevoegd gezag. In het kader van de bodemsanering zijn er ¿ naast het onderdeel van het milieuprogramma waarin onderzoeksgevallen en gevallen van verontreiniging worden aangewezen ¿ twee besluiten die volgens een openbare voorbereidingsprocedure tot stand zouden moeten komen.
-Het eerste besluit is de beschikking op grond van artikel 29 van de Wet bodembescherming, waarbij wordt vastgesteld of sprake is van een geval van ernstige verontreiniging. Deze beschikking wordt zowel bij onderzoek in opdracht van gedeputeerde staten op grond van artikel 48 van de Wet bodembescherming, als bij onderzoek door anderen (bijvoorbeeld onderzoek in eigen beheer door gemeenten of waterkwaliteits- of waterkwantiteitsbeheerder) gegeven.
-Het tweede besluit is de goedkeuring van het saneringsplan. Voor deze besluiten is in artikel 6.1, respectievelijk artikel 6.4, de procedure van afdeling 3.4 van de Algemene wet bestuursrecht van toepassing verklaard.
-Procedurekeuze
-In inspraak bij de totstandkoming van de beschikking wordt voorzien door afdeling 3.4 van de Algemene wet bestuursrecht in deze verordening van toepassing te verklaren. De in deze afdeling geregelde openbare voorbereidingsprocedure voorziet in:
-- terinzagelegging van het stuk naar aanleiding waarvan de beschikking wordt gegeven (het rapport van het nader onderzoek of de melding bedoeld in artikel 28, eerste lid, van de Wet bodembescherming);
-- een kennisgeving hiervan in dag- en/of nieuwsbladen;
-- de mogelijkheid voor belanghebbenden om ter zake schriftelijk of mondeling zienswijzen naar voren te brengen.
-Deze procedure wordt in bepaalde situaties als te zwaar en niet voldoende toegesneden op de praktijk ervaren. Daarom wordt nu bepaald dat in voorkomende gevallen kan worden afgeweken, mits dat wordt gepubliceerd.
-Gedeputeerde staten kunnen besluiten dat de in afdeling 3.4 van de Algemene wet bestuursrecht geregelde procedure niet wordt toegepast indien redelijkerwijs kan worden aangenomen dat aan de toepassing van de procedure geen behoefte bestaat. Een dergelijk besluit moet worden aangemerkt als een voorbereidingshandeling waartegen op grond van artikel 6:3 van de Algemene wet bestuursrecht in beginsel geen bezwaar of beroep open staat.
-Gedeputeerde staten hebben bij beleidsregel criteria geformuleerd, waarbij wordt aangegeven wanneer redelijkerwijs kan worden aangenomen dat aan de toepassing van afdeling 3.4 van de Algemene wet bestuursrecht geen behoefte bestaat.
-Indien gekozen voor niet toepassing van afdeling 3.4 van de Algemene wet bestuursrecht.
-Ook indien geen toepassing wordt gegeven aan afdeling 3.4, gelden wel de bepalingen van titel 4.1 van de Algemene wet bestuursrecht voor het totstandkomen van beschikkingen. Voor de voorbereiding van beschikkingen zijn met name de artikelen 4:7 en 4:8 van de Algemene wet bestuursrecht van belang. Zij vormen een minimumregeling.
-Artikel 4:7 ziet toe op het horen van de aanvrager van de beschikking.
-Artikel 4:7 van de Algemene wet bestuursrecht wordt ruim toegepast. Dit houdt in dat artikel 4:7 van de Algemene wet bestuursrecht wordt toegepast indien redelijkerwijs verwacht kan worden dat de aanvrager bedenkingen heeft (en niet alleen maar wanneer het een afwijzing van het verzoek betreft zoals de onthouding van de goedkeuring aan het saneringsplan). Een en ander is met name van belang voor de aanvraag Beschikking ernst en urgentie.
-Het is immers mogelijk dat de aanvrager verwacht dat het een ernstig en niet¿urgent geval van verontreiniging is, terwijl gedeputeerde staten beschikken dat het een ernstig en urgent geval van verontreiniging is. Er is dan strikt formeel geredeneerd geen sprake van een (gedeeltelijk) afwijzende beschikking, maar met een ruime interpretatie van artikel 4:7 van de Algemene wet bestuursrecht wordt de aanvrager in de gelegenheid gesteld zijn zienswijzen kenbaar te maken.
-Artikel 4:8 van de Algemene wet bestuursrecht ziet toe op het horen van belanghebbenden die de beschikking niet hebben aangevraagd. Hiervan is sprake bij derden-belanghebbenden en de gevallen waarin ambtshalve besluitvorming plaatsvindt.
-### Hoofdstuk 7, Gebieden
-Algemeen
-Ingevolge artikel 4.9, derde lid, onder c, van de Wet milieubeheer vormt de aanduiding van gebieden waarin de kwaliteit van het milieu of van een of meer onderdelen daarvan bijzondere bescherming behoeft, een van de hoofdzaken van het door het provinciaal bestuur te voeren milieubeleid. Het milieubeleid is in de provincie Drenthe opgenomen in het Provinciaal omgevingsplan.
-Wat betreft de systematiek dient het volgende te worden opgemerkt.
-Volgens artikel 4.9 van de Wet milieubeheer behoren tot de hoofdzaken van het gebiedsgericht milieubeleid ten minste:
-a. de in de betrokken periode van acht jaar beoogde resultaten, inzake de kwaliteit van de onderscheiden onderdelen van het milieu voor de in het plan aangeduide gebieden, waarin de kwaliteit van het milieu of van een of meer onderdelen daarvan bijzondere bescherming behoeft;
-b. de in dezelfde periode beoogde resultaten inzake het voorkomen, beperken of ongedaan maken van gevolgen van menselijke activiteiten die het milieu in die gebieden verontreinigen, aantasten of uitputten.
-Om de doelstellingen van het gebiedsgerichte beleid te realiseren kunnen verschillende instrumenten naast elkaar en in onderlinge samenhang worden ingezet. De (gezamenlijke) inzet van instrumenten vergt een strategie afgestemd op het desbetreffende gebied en het bijzondere karakter ervan. Het behoort tot de functie van de milieubeleidsplanning om per situatie uit het geheel van beschikbare instrumenten een zo doelmatig mogelijk pakket te kiezen.
-In het Provinciaal omgevingsplan moet dan ook zo duidelijk mogelijk in beeld worden gebracht wat de functie(s) van de te beschermen gebieden zijn of zouden moeten zijn en hoe de bijzondere bescherming van het milieu daar zal worden gerealiseerd. Dat gebeurt onder andere door middel van deze verordening, al dan niet in combinatie met andere instrumenten.
-Aan de uitspraken in het Provinciaal omgevingsplan met betrekking tot milieubeschermingsgebieden zijn als zodanig voor burgers of andere overheden geen rechtsgevolgen verbonden. Voor hen ontstaan eventuele rechtsgevolgen eerst als op grond van artikel 1.2 van de Wet milieubeheer in de Provinciale omgevingsverordening voor die gebieden regels worden gesteld. De mogelijkheid dat uit anderen hoofde rechtsgevolgen intreden, bijvoorbeeld op grond van de aanwijzing van een gebied ingevolge de Natuurbeschermingswet, door het opnemen van een aanlegvergunningstelsel in een bestemmingsplan of door het opnemen van strafbepalingen in de algemene plaatselijke verordeningen, wordt hier niet uitgewerkt. Wel wordt er op gewezen dat een goede afstemming van provinciaal en gemeentelijk beleid noodzakelijk is om tot een efficiënte inzet van het beschikbare instrumentarium te komen.
-Titel 7.1, Aanwijzing van gebieden
-Algemeen
-Ingevolge artikel 1.2, tweede lid, onder a en b, van de Wet milieubeheer, bevat de verordening ten minste voor een tweetal categorieën van gebieden regels:
-- regels ter bescherming van de kwaliteit van het grondwater met het oog op de waterwinning in bij de verordening aangewezen gebieden (onder a);
-- regels inzake het voorkomen of beperken van geluidhinder in bij de verordening aangewezen gebieden (onder b).
-De aanwijzing van gebieden geschiedt in het bijzonder in het belang van de bescherming van de onderdelen van het milieu die zijn aangegeven op de bij de verordening behorende kaarten van die gebieden. De aanwijzing kan zowel betrekking hebben op handhaving van een goede milieukwaliteit als op verbetering van een slechte milieukwaliteit.
-Bij de aanwijzing van gebieden met een goede milieukwaliteit kan gedacht worden aan met name:
-- het belang van de bescherming van de kwaliteit van het grondwater met het oog op de waterwinning;
-- het belang van de bescherming van de bodem;
-- het belang van het beperken en voorkomen van geluidhinder;
-- het belang van de bescherming van natuurwetenschappelijke en landschappelijke waarden.
-Een gebied kan om een of meer redenen als beschermingsgebied worden aangewezen.
-Regels zijn niet alleen mogelijk voor relatief schone gebieden. Het is ook mogelijk gebieden aan te wijzen met een slechte milieukwaliteit. Daarbij kan gedacht worden aan gebieden waarin potentiële waarden worden ontwikkeld en waar nodig wordt gesaneerd.
-Kan in het Provinciaal omgevingsplan volstaan worden met een min of meer globale aanduiding van het gebied, voor de toepassing van de verordening is een zo duidelijk mogelijke begrenzing van het gebied noodzakelijk. Daarom bevat de verordening naast een overzichtskaart van 1: 100.000 kaarten waarop de gebieden staan aangegeven met een schaal van 1: 25.000.
-Over de territoriale werking van de verordening mag men niet in het ongewisse verkeren. Daarom vallen de grenzen van de gebieden zoveel als mogelijk samen met duidelijk in het veld herkenbare structuren die zo min mogelijk aan verandering onderhevig zijn.
-Een wijzigingsbevoegdheid van de grenzen van het gebied voor gedeputeerde staten wordt om de volgende reden niet gewenst geacht.
-Zowel bij vergroting als bij verkleining van het gebied zullen veelal belangen in het geding zijn die bij de besluitvorming ter zake zorgvuldig moeten worden gewogen. Met het oog daarop dient een pro-cedure te worden gevolgd met de nodige waarborgen ter behartiging van die belangen (inspraak, overleg en advies). Delegatie zal daarom niet de tijdwinst opleveren die men daarvan op het eerste gezicht verwacht.
-Omdat het primaat wat betreft de aanwijzing van gebieden bij provinciale staten ligt (deze stellen immers de verordening vast), verdient het uit democratisch oogpunt de voorkeur de wijziging van de gebieden aan provinciale staten te laten.
-Systematiek van de begrenzing
-Rond de plaatsen waar grondwater wordt gewonnen ten behoeve van de openbare drinkwater-voorziening zijn beschermingsgebieden gecreëerd. Binnen die gebieden gelden regels die ten doel hebben de kwaliteit van het grondwater te beschermen. Die bescherming ligt niet in alle gebieden op eenzelfde niveau. Er is een nadere onderverdeling van de beschermingsgebieden ingesteld: waterwingebieden, grond-waterbeschermingsgebieden, gebieden tegen fysische bodemaantasting en verbodszones diepe boringen.
-Waterwingebieden worden begrensd door de lijn van waaraf het grondwater ten minste 60 dagen in het watervoerende pakket nodig heeft om de winningsmiddelen (de pompputten) te bereiken. Deze 60 dagen zijn gekozen omdat wordt aangenomen dat een verblijftijd van het grondwater in de bodem van 60 dagen voldoende is voor een zodanige afbraak van ziekteverwekkende kiemen, dat er geen gevaar voor de volksgezondheid meer dreigt. De afstand van de grens van het waterwingebied tot de winningsmiddelen dient daarom minimaal 30 m te bedragen.
-De grondwaterbeschermingsgebieden en overige beschermingszones liggen rondom de waterwingebieden. Hierbij wordt uitgegaan van het principe van maatwerk voor wat betreft de omvang van de beschermingsgebieden. Dit maatwerk is gerelateerd aan de mate van kwetsbaarheid van de winning en is afgeleid van de geohydrologische opbouw van de ondergrond en van de grondwaterkwaliteit. De toegepaste berekeningsmethode geeft naast inzicht in de ligging en omvang van de intrekgebieden ook informatie over verblijftijden van het opgepompte water en de bijbehorende volumepercentages. Met behulp van een "responskarakteristiek" wordt daarmee een indruk verkregen van de kwetsbaarheid van de winning.
-Zo kenmerkt een kwetsbare winning zich door een groot volumepercentage (meer dan 80%) met een geringe leeftijd (minder dan 100 jaar), terwijl bij een niet-kwetsbare winning een groot deel van het opgepompte water verblijftijden kent van enkele honderden tot meer dan duizend jaren.
-Op basis van de berekeningsmethode zijn voor wat betreft de ligging van het intrekgebied en de mate van kwetsbaarheid 3 typen winningen onderscheiden.
-Type winningkwetsbaarheid
-1. Het intrekgebied ligt aaneengesloten rondom het puttenveld
-- Kwetsbaar
-2. Deel van het intrekgebied ligt nabij de putten en een deel ligt ver weg
-- Minder kwetsbaar
-3. Het intrekgebied ligt ver weg; grote verblijftijden door de aanwezigheid van slecht doorlatende kleilagen
-- Niet kwetsbaar
-Bij kwetsbare winningen is ernaar gestreefd het gehele intrekgebied te beschermen en aan te wijzen als grondwaterbeschermingsgebied. Bij dergelijke (kwetsbare) winningen komt het intrekgebied praktisch overeen met de 100¿jaarsverblijftijd, gerekend vanaf het maaiveld (horizontale en verticale reistijd). Een groot deel van de totale volumestroom wordt dan beschermd.
-Bij de niet-kwetsbare winningen, winningen onder goed afsluitende kleilagen, is de bescherming beperkt tot het puttenveld (het waterwingebied) vanwege de natuur-lijke bescherming van de kleilagen. Daaromheen zijn verbodszones diepe boringen ingesteld; in deze gebieden is het verboden de klei-lagen te doorboren.
-De grenzen van deze verbodszones zijn gebaseerd op de 25¿jaarsverblijftijd in het watervoerend pakket (de horizontale reistijd onder de kleilagen). De overige regels en verbodsbepalingen zijn op deze gebieden niet van toepassing.
-Bij minder kwetsbare winningen ligt (meestal) een deel van het intrekgebied in de directe nabijheid van het puttenveld en een deel op grote(re) afstand met grote verblijftijden. De bescherming tegen diffuse verontreinigingen is beperkt tot het deel van het intrekgebied rondom het puttenveld met verblijftijden minder dan 100 jaar. Het deel van de volumestroom met een relatief snelle respons wordt dan beschermd.
-Voor potentiële puntverontreinigingen en fysische bodemaantastingen, die direct het diepere grond-water kunnen belasten, is vooral de horizontale grondwaterstroming in het watervoerend pakket van belang. Ter afbakening van de bescherming geldt een gebied, begrensd door de 25¿jaarsverblijftijd in het watervoerend pakket. In de meeste gevallen valt het beschermde deel van het intrekgebied (bescherming tegen diffuse verontreinigingen) en het gebied tegen puntverontreinigingen en fysische bodemaantastingen samen: het grondwaterbeschermingsgebied.
-In enkele gevallen waarin het gebied, bepaald door de 25¿jaarsverblijftijd in het watervoerend pakket groter is dan het beschermde deel van het intrekgebied, is voor dat deel een beschermingsgebied aangewezen, waar ter voorkoming van risico's van diepe grondwaterverontreiniging alleen regels gelden tegen fysische bodemaantastingen.
-Titel 7.2, Zorgplichtbepaling
-In artikel 7.3 is een zorgplichtbepaling opgenomen. Deze bepaling dient als vangnet voor het geval van een duidelijk voorzienbare aantasting van het gebied sprake is en de specifieke gedragsregels niet de vereiste bescherming bieden. Het betreft geen "algemene" zorgplichtbepaling. Zij betreft alleen aantasting van het bijzondere belang met het oog waarop het gebied is aangewezen. Door deze toespitsing op de kwaliteiten van het gebied is de zorgplichtbepaling voldoende geconcretiseerd om overtreding ervan strafbaar te stellen.
-Titel 7.3, Grondwaterbescherming
-Plaatsbepaling
-Verordening bescherming grondwaterkwaliteit
-De bescherming van de kwaliteit van het grondwater is in Drenthe sinds 1974 een provinciale aangelegenheid. In dat jaar stelden provinciale staten de Verordening bescherming grondwaterkwaliteit vast, een autonome verordening. Deze verordening was van toepassing op het totale grondgebied van de provincie; de gebieden rond de plaatsen waar grondwater ten behoeve van de drinkwatervoorziening werd gewonnen waren wel aangegeven (de waterwingebieden) doch binnen deze gebieden golden geen strengere regels dan elders.
-### Paragraaf 7.3.1, Waterwingebieden
-### Paragraaf 7.3.2, Grondwaterbeschermingsgebieden
-Inrichtingen
-### Gedragingen buiten inrichtingen
-### Paragraaf 7.3.3, Gebieden tegen fysische bodemaantastingen
-In de gebieden tegen fysische bodemaantastingen is van nature een zekere bescherming aanwezig. De geldende regels zijn bedoeld om die van nature aanwezige bescherming in stand te laten en om te voorkomen dat verontreinigingen door deze bescherming heen het grondwater kunnen bereiken.
-### Paragraaf 7.3.4, Verbodszone diepe boringen
-### Paragraaf 7.3.6, Aanduiding gebieden
-### Artikelsgewijs
-## Toelichting op Deel III
-DEEL III. NATUUR EN LANDSCHAP
-## Hoofdstuk 8, Ontgrondingen
-Het merendeel van de wettelijke bepalingen, die specifiek op de ontgrondingen zijn gericht, is opgenomen in de Ontgrondingenwet. Deze wet bevat onder meer het verbod om te ontgronden zonder vergunning en geeft een niet uitputtende opsomming van de voorschriften die aan een vergunning kunnen worden verbonden. Ook kent de wet procedurebepalingen en verklaart hij enkele toezichts- en handhavingsbepalingen van de Wet milieubeheer van toepassing.
-De strafbaarstelling van overtredingen is geregeld in de Wet op de economische delicten. Voorts is de Algemene wet bestuursrecht van toepassing, die onder meer bepalingen bevat over de voorbereiding van de beslissing op vergunningsaanvragen, over beroepsprocedures en eveneens over de handhaving. Dit hoofdstuk over ontgrondingen geeft slechts op enkele punten aanvullende regels en is daarom beperkt van opzet.
-Ontgrondingen zijn vooral gericht op het winnen van oppervlaktedelfstoffen. In Drenthe betreft dit nagenoeg alleen verschillende soorten zand. De overheidsbemoeienis met de ontgrondingen is in het bijzonder in het leven geroepen om een algemene afweging te kunnen maken van de uiteenlopende belangen die met de winningactiviteiten gemoeid zijn. Ontgronden is echter een weids begrip. Er zijn naast de winning van bodemmaterialen vele werkzaamheden waarbij tijdelijk of definitief materiaal aan de bodem wordt onttrokken. Om de maatschappelijke activiteiten niet meer aan banden te leggen dan strikt noodzakelijk is noemt de Ontgrondingenwet enkele werkzaamheden waarop deze wet niet van toepassing is, zoals de uitvoering van een landinrichtingsplan en de meeste bodemsaneringen.
-Bovendien geeft de Ontgrondingenwet de provinciale besturen de bevoegdheid ontgrondingen aan te wijzen waarvoor geen ontgrondingsvergunning is vereist.
-In de artikelen 8.2 en 8.3, eerste lid, is sprake van door gedeputeerde staten vastgestelde formulieren. Het vaststellingsbesluit van gedeputeerde staten, alsmede de formulieren zijn ter informatie bij deze verordening gevoegd.
-### Artikelsgewijs
-## Hoofdstuk 9, Vaarverbod Drentsche Aa
-Algemeen
-Het stroomgebied van de Drentsche Aa heeft een bijzondere ecologische en cultuurhistorische waarde. De waterlopen vormen daarbij de ruggengraat of de kern van het waardevol gebied.
-In dit gebied, dat vanwege zijn grote waarde als natuurlijk systeem zo hoog wordt gewaardeerd, passen, mits goed gezoneerd, rustige vormen van recreatie, zoals wandelen en fietsen.
-Met zonering wordt een geleiding van het recreatieve medegebruik beoogd. Dit teneinde de negatieve beïnvloeding van de waarden van de meest voor verstoring gevoelige delen van het gebied tot een minimum te beperken. Dit betekent dat een overigens rustige vorm van recreatie als kanovaren in het gebied van de Drentsche Aa hoogst ongewenst is, omdat het water en de oever(vegetatie)s met de aangrenzende gronden juist tot de meest kwetsbare delen (als gezegd: de ruggengraat) behoren.
-De kwetsbaarheid bestaat vooral in verontrusting van de fauna, beschadiging van de bodem en flora en vervuiling van het water. Overigens zijn elders volwaardige alternatieven voor de kanosport aanwezig, bijvoorbeeld de Hunze.
-Op grond van de Wet milieubeheer kunnen in de Provinciale omgevingsverordening regels worden opgenomen ter bescherming van natuur en landschap (zie onder meer de toelichting op de tweede tranche van de Provinciale milieuverordening, bladzijden 2 en 3). Voor de betrokken waterlopen geldt dan een uniforme regeling.
-Dit hoofdstuk voorziet in een (beperkte) mogelijkheid ontheffing van het verbod te verlenen. De uitvoering ervan is gemandateerd van gedeputeerde staten naar Staatsbosbeheer. Dat wil zeggen dat Staatsbosbeheer in naam van gedeputeerde staten (dus onder diens verantwoordelijkheid) de ontheffing verleent.
-Het verbod wordt gehandhaafd door opsporingsambtenaren die in dienst zijn bij Staatsbosbeheer. Hun opsporingsbevoegdheid voorziet reeds hierin. Vanzelfsprekend vindt handhaving ook plaats door andere instanties met een algemene opsporingsbevoegdheid, zoals de politie.
-Het vaarverbod is kenbaar gemaakt door borden. Deze zijn aangeschaft, geplaatst en onderhouden door Staatsbosbeheer.
-Voor het zuidwestelijk gedeelte van het stroomgebied, waar het verbod niet geldt, blijft het bestaande beleid gehandhaafd.
-Nadere aandacht verdient de samenloop van het verbod in de keur met dat in de Provinciale omgevingsverordening. Van beide verboden kan worden afgeweken voor bepaalde vaaractiviteiten (door middel van verstrekken vaarvergunning respectievelijk vrijstelling en ontheffing). De vaarvergunning wordt toegestaan, tenzij de belangen die aan het waterschap zijn toevertrouwd (zorg voor de waterstaat en waterhuishouding) worden geschaad. Vrijstelling en ontheffing van de Provinciale omgevingsverordening is alleen mogelijk voor onderhoudsactiviteiten en onderzoeksdoeleinden. Het verbod in de Provinciale omgevingsverordening maakt dus minder uitzonderingen mogelijk dan dat in de keur.
-Voor onderhoudswerkzaamheden, waarvoor een vrijstelling in de Provinciale omgevingsverordening is opgenomen, blijft een vaarvergunning van het waterschap vereist. Voor (incidentele) onderzoeksactiviteiten is zowel een ontheffing van de Provinciale omgevingsverordening als een vaarvergunning vereist. Hiervoor dienen 2 verschillende instanties, respectievelijk Staatsbosbeheer (namens gedeputeerde staten) en het waterschap Hunze en Aa's, te worden benaderd. Voor het gebied waarop het verbod in de Provinciale omgevingsverordening niet van toepassing is, blijft (alleen) de keur van toepassing.
-### Artikelsgewijs
-## Toelichting op Deel IV
-DEEL IV. WATER
-## Hoofdstukken 10 en 11, Water
-Algemeen
-Op 1 januari 2000 ontstonden in Groningen, Drenthe en Overijssel de vier interprovinciale all in waterschappen. Inhoudelijke afstemming van de regelgeving voor de waterhuishouding tussen de 3 provincies was daardoor, nog meer dan eerder, geboden. Bovendien zijn door de schaalvergroting in het waterschapsbestel de inzichten over het provinciaal toezicht op de taakuitoefening door de waterschappen sterk veranderd en kennen Groningen en Drenthe sinds een aantal jaren integrale omgevingsplannen. De 3 provincies hebben deze verordening, die in Drenthe deel uitmaakt van de Provinciale omgevingsverordening, dan ook gezamenlijk voorbereid. Inhoudelijk zijn de bepalingen geüniformeerd. Het hoofdstuk waterhuishouding is modulair opgezet, zodat nieuwe onderdelen in een later stadium eenvoudig zijn in te voegen.
-Voorop stond dat het waterhuishoudkundig beleid niet uitgebreid in regelgeving zou worden vastgelegd. Alleen daar waar regulering geboden is, wordt die in de verordening opgenomen. Zo ontbreekt bijvoorbeeld de bekrachtiging van in de dagelijkse praktijk ontstane handelwijzen, zoals de instelling van een voorbereidingsgroep voor de planvorming. Ook kent het hoofdstuk waterhuishouding geen bepalingen die al in andere wet- of regelgeving zijn vastgelegd.
-Zoals reeds vermeld zijn de bepalingen interprovinciaal geüniformeerd. Dit betekent onder meer dat de regelgeving voor peilbesluiten, het gewenst grond- en oppervlaktewaterregiem en de bepalingen over de beheersplannen vrijwel gelijkluidend zijn. De uniformering leidt op een aantal punten tot algemener geformuleerde bepalingen. Dit past echter goed bij de veranderde verhouding tussen waterschap en provincie en biedt zonodig ruimte tot maatwerk binnen de verschillende provincies. De belangrijkste wijzigingen ten opzichte van de Provinciale verordening waterhuishouding Drenthe 1997 zijn de volgende bepalingen.
-- Het beheersplan.
-In het hoofdstuk waterhuishouding is onder meer aangegeven dat het waterschap overlegt met de provincie over het plan van aanpak. Voorts moet het beheersplan na vaststelling naar de provincie worden gestuurd. Het beheersplan heeft een looptijd van 6 jaar met een tussentijdse plicht tot aanpassing aan het Provinciaal omgevingsplan.
-- Het gewenst grond- en oppervlaktewaterregiem.
-De waterschappen moeten het gewenst grond- en oppervlaktewaterregiem vaststellen in het kader van het beheersplan. In die gevallen waar functies/streef-beelden uit het Provinciaal omgevingsplan niet adequaat kunnen worden vertaald naar een gewenst grond- en oppervlaktewaterregiem worden deze in overleg met de provincie vastgesteld. Zonodig geven provinciale staten daarbij de doorslag. Overigens zal in situaties waar slecht doorlatende lagen voorkomen het gewenst grond- en oppervlaktewaterregiem onbruikbaar zijn.
-- Peilbesluiten.
-Met de "moderne" peilbesluiten, op basis van het gewenst grond- en oppervlaktewaterregiem, kan een beheersstrategie worden vastgelegd. Het peilbesluit blijft, na vaststelling van het gewenst grond- en oppervlaktewaterregiem, een belangrijk instrument, omdat het de belanghebbenden in het gebied duidelijkheid biedt over het voorgenomen beheer. Bovendien vormt het in feite een tegenwicht tegen het steeds globaler wordende beheersplan. Peilbesluiten verplichten waterschappen tot het maken van goed onderbouwde afwegingen op detailniveau. De toetsingscriteria voor peilbesluiten zijn opgenomen in het hoofdstuk waterhuishouding (duidelijkheid, rechtszekerheid voor waterschap, de belanghebbende en de provincie als toezicht-houder). Een belangrijke verandering ten opzichte van de verordening waterhuishouding is dat voor provinciegrensoverschrijdend peilvakken een verplichting tot het vaststellen van peilbesluiten kan gelden. Deze plicht is gekoppeld aan de eventuele plicht tot vaststelling van een peilbesluit aan de andere zijde van de provinciegrens.
-- Delegatie van de bevoegdheid tot regeling van vergunning-, melding- en metingplichtige gevallen.
-De minister van Verkeer en Waterstaat heeft een wijziging van de Wet op de waterhuishouding in voorbereiding (Tweede Kamer¿stukken, nummer 28475) Deze houdt in dat de primaire aanwijzingsbevoegdheid voor meldings-, registratie- en vergunningplichtige gevallen voor het onttrekken van water uit en lozen op het oppervlaktewater wordt overgedragen aan de waterbeheerder.
-Daarnaast zal door deze wetswijziging de mogelijkheid voor de waterschappen ontstaan om algemene regels te stellen voor de kleinere lozingen en onttrekkingen aan het oppervlaktewater. Het gaat hier om lozingen of onttrekkingen die individueel nauwelijks effect hebben, maar cumulatief wel. Het voorstel werd op 13 juli 2002 aan de Tweede Kamer gezonden. Tot nu toe ligt deze aanwijzingsbevoegdheid bij provinciale staten. De wetswijziging resulteert erin dat de verordeningsbepalingen in verband met de aanwijzingsbevoegdheden van rechtswege zullen vervallen zodra de waterschappen zelf een regeling vaststellen. Het voorstel van wet werd in juni 2002 aan de Tweede Kamer worden aangeboden. In Overijssel is op grond van artikel 107 van de Provinciewet de aanwijzingsbevoegdheid inmiddels overgedragen aan de waterschappen. Via deze verordening kan deze aanwijzingsbevoegdheid nu in Drenthe ook worden gedelegeerd aan de waterschappen.
-Artikelsgewijs
-### Hoofdstuk 10, Waterhuishouding
-### Hoofdstuk 11, Grondwateronttrekkingen
-## Toelichting op Deel V
-### Hoofdstuk 12, Wegen en waterwegen
-Algemeen
+Artikel 6.1
+In dit artikel was aangegeven welke procedure moest worden gevolgd bij de voorbereiding van een beschikking op grond van artikel 29 van de Wet bodembescherming. De Wet bodembescherming geeft namelijk niet aan welke procedure gevolgd moet worden. Bij het opstellen van hoofdstuk 6 is destijds gekozen voor toepassing van de procedure als bedoeld in afdeling 3.4 van de Awb. Hierbij was in het derde lid een afwijkingsmogelijkheid opgenomen in situaties waarbij "in redelijkheid kan worden aangenomen dat aan de toepassing van die procedure geen behoefte bestaat". In de praktijk blijkt dat toepassing van deze uitzonderingsbepaling in feite de regel is. In deze wijzigingstranche is er dan ook voor gekozen om niet langer afdeling 3.4 van de Awb van toepassing te verklaren.
+Dit betekent echter niet dat geen rekening meer gehouden zou moeten worden met de bepalingen uit de Awb. De "basisbepalingen" uit de Awb blijven op de voorbereiding van deze beschikking van toepassing. Hiermee worden de belangen van de aanvrager als ook die van belanghebbenden voldoende gewaarborgd. Daarnaast is het mogelijk om in voorkomende gevallen per besluit te bepalen dat in die concrete situatie gebruik wordt gemaakt van afdeling 3.4 van de Awb. Te denken valt aan situaties met veel belanghebbenden en/of grote maatschappelijke aandacht.
+Verwerking in deze wijzigingstranche: artikel 6.1 is komen te vervallen.
+Artikel 6.2
+In dit artikel was aangegeven op welke wijze een melding als bedoeld in artikel 28, eerste lid, van de Wet bodembescherming moet gebeuren. Hierbij is de verplichting opgenomen gebruik te maken van een door gedeputeerde staten vastgesteld formulier en het indienen in vijfvoud. Deze verplichtingen zijn in deze wijzigingstranche overgenomen.
+Verwerking in deze wijzigingstranche: de verplichtingen uit dit artikel zijn overgenomen in het nieuwe artikel 6.1.
+Artikel 6.3
+In dit artikel was de verplichting opgenomen om een groot aantal gegevens te vermelden in het saneringsplan. Het artikel is van een omvang en gedetailleerdheid dat gezocht is naar een manier om het artikel te beperken. Er is voor gekozen om de bevoegdheid voor het opstellen van deze verplichte gegevens neer te leggen bij GS. Alhoewel formeel gezien geen sprake is van deregulering (de invulling van de verplichte gegevens zal terugkomen in een besluit van GS) heeft dit wel als gevolg dat hoofdstuk 6 van de POV een stuk overzichtelijker en leesbaarder wordt. Ook heeft deze constructie het voordeel dat bij wijziging van deze verplichte gegevens niet telkens de POV gewijzigd behoeft te worden.
+Verwerking in deze wijzigingstranche: artikel 6.3 is komen te vervallen. De bevoegdheid voor gedeputeerde staten tot het opstellen van de verplichte gegevens (nadere regels) is opgenomen in artikel 6.1, tweede lid.
+Artikel 6.4
+Dit artikel ging in op de te volgen procedure bij de voorbereiding van een besluit over de instemming van een saneringsplan. Zie voor de verdere motivering hetgeen is opgemerkt bij artikel 6.1.
+Verwerking in deze wijzigingstranche: artikel 6.4 is komen te vervallen.
+Artikel 6.5
+In dit artikel waren aanvullende regels gesteld die van toepassing waren op situaties waarin gedeputeerde staten overgingen tot sanering van een ernstig geval van verontreiniging. Deze aanvullende regels hadden betrekking op het opstellen van een saneringsplan, het opnemen in het saneringsplan van bepaalde gegevens en de te volgen voorbereidingsprocedure. De Wet bodembescherming is echter van toepassing op "een ieder" die een sanering uitvoert dus ook op overheden. Het opnemen van een aparte regeling voor het geval gedeputeerde staten de sanering uitvoert is dan ook niet noodzakelijk en juridisch overbodig.
+Verwerking in deze wijzigingstranche: artikel 6.5 is komen te vervallen.
+Artikel 6.6
+In het eerste lid van dit artikel was de verplichting voor gedeputeerde staten opgenomen tot het instellen van een projectgroep ter begeleiding van een nader onderzoek of een sanering. Deze bepaling is in de wijzigingstranche gehandhaafd. De verplichting opgenomen in het tweede lid om ook een dergelijke projectgroep in te stellen als anderen dan gedeputeerde staten opdrachtgever zijn, is komen te vervallen. In de praktijk blijkt dat aan deze bepaling nimmer invulling wordt gegeven.
+Verwerking in de wijzigingstranche: artikel 6.6, tweede lid, is komen te vervallen; het eerste lid van artikel 6.6 is opgenomen in artikel 6.3.
+Artikel 6.7
+In artikel 6.7 wordt ingegaan op de taak en samenstelling van de projectgroep als bedoeld in het vorige artikel (6.6). Aangezien de projectgroep alleen wordt ingesteld als gedeputeerde staten opdrachtgever is, hoeft de projectgroep ook alleen maar aan gedeputeerde staten te adviseren. Het eerste lid is in die zin aangepast. Het tweede lid is zodanig aangepast dat een vertegenwoordiger van gedeputeerde staten en een vertegenwoordiger van burgemeester en wethouders van de gemeente waarbinnen het geval van verontreiniging is gelegen lid zijn van deze projectgroep. Hiermee is het derde lid overbodig geworden.
+Verwerking in deze wijzigingstranche: het eerste en tweede lid van artikel 6.7 zijn aangepast en opgenomen in artikel 6.4; het derde lid is komen te vervallen.
+Artikel 6.8
+In artikel 6.8 was aangegeven dat gedeputeerde staten jaarlijks verslag uitbrengen o ver de uitvoering van de artikelen 6.6. en 6.7. Ook zonder deze bepaling kunnen gedeputeerde staten een jaarlijks verslag opmaken, of dit verwoorden in andere jaarlijkse documenten.
+Verwerking in deze wijzigingstranche: artikel 6.8 is komen te vervallen.
+Artikel 6.10
+In artikel 6.10 was opgenomen dat in het saneringsplan als bedoeld in artikel 63e van de Wet bodembescherming (waterbodemsanering) aanvullende gegevens moesten worden opgenomen.
+Deze verplichting is in de wijzigingstranche ondergebracht bij artikel 6.1.
+Verwerking in deze wijzigingstranche: artikel 6.10 is komen te vervallen en vervangen door artikel 6.5 waarbij artikel 6.1 van toepassing wordt verklaard op deze saneringen.
+Artikel 6.11
+Dit artikel ging in op de te volgen procedure bij de voorbereiding van een besluit over de instemming van een saneringsplan. Zie voor de verdere motivering hetgeen is opgemerkt bij artikel 6.1.
+Verwerking in deze wijzigingstranche: artikel 6.11 is komen te vervallen.
+Artikel 6.12
+Is inhoudelijk niet gewijzigd maar is vernummerd.
+Verwerking in deze wijzigingstranche: artikel 6.12 is vernummerd tot artikel 6.7.
+Artikel 6.13
+Is inhoudelijk niet gewijzigd maar is vernummerd.
+Verwerking in deze wijzigingstranche: artikel 6.13 is vernummerd tot artikel 6.8,
+Gevolgen hoofdstuk 6 van de wijziging van de saneringsdoelstelling.
+Artikel 6.1
+In artikel 6.1 is tevens een verwijzing opgenomen naar het evaluatieverslag van de sanering en het nazorgplan. Dit houdt in dat bij de indiening van het evaluatieverslag en het nazorgplan gebruik moet worden gemaakt van een door gedeputeerde staten vastgesteld formulier. Ook hebben gedeputeerde staten de bevoegdheid nadere regels te stellen met betrekking tot de gegevens die moeten worden vermeld.
+Artikel 6.2
+Artikel 39c, eerste lid, van de Wet bodembescherming geeft aan dat het evaluatieverslag "zo spoedig mogelijk" na de uitvoering van de sanering dient te worden aangeboden bij GS.
+Deze ruime formulering maakt het mogelijk en gewenst om in de POV vast te leggen binnen welke termijn het evaluatieverslag uiterlijk moet zijn ingediend. In dit artikel is vastgelegd dat dit uiterlijk 13 weken na afloop van de sanering ingediend moet zijn.
+HOOFDSTUK 11.
+De wijzigingen houden verband met de overdracht van een aantal operationele grondwatertaken aan de waterschappen. Deze overdracht wordt per 1 januari 2007 gerealiseerd. De overdracht is gezamenlijk voorbereid met de provincies Overijssel en Groningen en de waterschappen Hunze en Aa's, Noorderzijlvest, Reest en Wieden, Velt en Vecht, Groot Salland, Regge en Dinkel en Rijn en IJssel.
+Omdat er in alle provincies sprake is van interprovinciale waterschappen is door de provincies gekeken waar de verschillende verordeningen op elkaar afgestemd kunnen worden. De doelstelling was om de provinciale verordeningen van de provincies Groningen, Drenthe en Overijssel zoveel mogelijk te uniformeren zodat de (interprovinciale) waterschappen er goed mee kunnen werken.
+De wijzigingen hebben hoofdzakelijk betrekking op uitvoering gerichte zaken. Het provinciale beleid blijft onaangetast.
+Artikel 11.1
+De term pompcapaciteit is vervangen door de term "de te onttrekken hoeveelheid grondwater". Hierdoor wordt beter aangesloten bij de terminologie van de Grondwaterwet. In de Grondwaterwet wordt namelijk ook gevraagd om de te onttrekken hoeveelheid grondwater. De pompcapaciteit zegt niets over de hoeveelheid die men wenst te onttrekken.
+Verder is mede als gevolg van nadere afstemming met de provincies Groningen en Overijssel de registratiegrens verruimd van 1.000 m3 per maand naar 5.000 m3 per kwartaal.
+Artikel 11.2
+De wijziging van de meldingsgrens van 1 naar 10 m3 per uur wordt ingegeven door het feit dat onttrekkingen minder dan 10m3 per uur niet relevant zijn voor de meldingsplicht of de registratie. Het betreft hier hoofdzakelijk particuliere pompen (beregening van tuinen en dergelijke.
+Om te voorkomen dat een melding pas wordt ingediend nadat met de onttrekking is begonnen, is de verplichting opgenomen om de melding vooraf te doen.
+Voor de toelichting op de wijziging van het tweede lid wordt verwezen naar de toelichting bij artikel 11.1.
+Artikel 11.4
+Voor de toelichting op deze wijziging wordt verwezen naar de toelichting bij artikel 11.1.
+Artikel 11.6
+De reden voor wijziging van de term "per maand" voor "per 30 dagen" is dat hierdoor onttrekkers niet in zeer korte tijd meer dan eigenlijk is toegestaan kunnen onttrekken. Nu begint de termijn op de dag van de onttrekking. Met de definitie "per maand" was het mogelijk om bijvoorbeeld op de laatste dag van een maand een grote onttrekking te doen en vervolgens op de eerste dag ook. Dus men zou in theorie in 2 dagen 100.000 m3 kunnen onttrekken. Met de 30-dagendefinitie is dat niet meer mogelijk.
+De invoeging van een nieuw derde lid heeft tot gevolg dat het bestaande derde lid wordt vernummerd tot het vierde lid. In dit nieuwe derde lid is de verplichting voor de houder van de inrichting opgenomen om voor aanvang van de onttrekking overleg te voeren met gedeputeerde staten over de gevolgen van de onttrekking voor aanwezige bodem- en grondwaterverontreinigingen. In de praktijk blijkt dat met name in stedelijk gebied de invloed van deze onttrekkingen op aanwezige verontreinigingen aanzienlijk kunnen zijn.
+De overige wijzigingen zijn van tekstuele aard.
+Artikel 11.7
+De bestaande tekst van artikel 11.7 is opgenomen in het eerste lid.
+In het tweede lid is een algemene regel opgenomen voor het jaarlijks testen van de noodvoorziening. Hiermee wordt voorkomen dat relatief kleine inrichtingen op grond van capaciteit of totale hoeveelheid vergunningplichtig worden.
+Wel is het zo dat als een bestaande inrichting als nevenfunctie brandbestrijding krijgt, deze nevenfunctie onder de vergunning komt te vallen.
+In het derde lid is een jaarlijkse meldingsplicht aan gedeputeerde staten opgenomen.
+Voor een toelichting op het vierde lid wordt verwezen naar de toelichting op het derde lid van artikel 11.6.
+Artikel 11.8
+In het eerste lid is de pompcapaciteit van 1 m3 vervangen door 10 m3. Voor de toelichting hierop wordt verwezen naar de toelichting op artikel 11.2.
+De overige wijzigingen zijn van tekstuele aard.
+Artikel 11.9
+Het betreft hier een aanscherping van de grondwatersaneringen. Met de nieuwe begrenzing wordt het langdurig onttrekken van aanzienlijke hoeveelheden beperkt, waardoor eventuele nadelige gevolgen voor derde belangen worden tegengegaan.
+Artikel 12.11
+In het tweede lid was de term voorwaarden opgenomen. Deze is nu vervangen door de term voorschriften. Dit sluit beter aan bij de (juridische) bedoeling van dit artikellid.
+## Toelichting op derde wijzigingstranche
 Inleiding
-De provincie Drenthe is verantwoordelijk voor de eigen droge en natte infrastructuur. Daarbij gaat het om aanleg, verbetering en instandhouding van wegen, waterwegen en de daarbijbehorende werken, voorzieningen en begroeiingen. Naast de technische en financiële aspecten spelen ook de bestuurlijk-juridische voorwaarden een belangrijke rol om de materiële en immateriële gebruikswaarden van de werken te beschermen.
-In hoofdstuk 12 van deze verordening zijn beheers- en verkeersbepalingen voor wegen en waterwegen opgenomen.
-Algemene normstelling
-Om discussies te vermijden of een handeling of het nalaten van een handeling al of niet geboden of verboden is, worden algemene bepalingen gehanteerd, zodat alle handelingen met betrekking tot de provinciale infrastructurele werken in principe onder de omschrijving kunnen worden gebracht, getoetst aan de doelstellingen van de verordening.
-Deregulering
-De verordening kent geen overlappingen met hogere wetgeving, doch is een geoorloofde aanvulling op zowel beheers- als verkeersaspecten. De aanvullingen worden als noodzakelijk beschouwd om de provinciale belangen optimaler te kunnen beschermen. Daarbij is onder andere gedacht aan landschappelijke, ecologische, cultuurhistorische, archeologische, recreatieve en toeristische waarden.
-Algemene wet bestuursrecht
-Op de verordening zijn de regels van deze wet van toepassing. Deze wetgeving beoogt een zo goed mogelijke bescherming van de belangen van de burgers te geven door regels te stellen aan de overheid om een zo zorgvuldig mogelijk handelen te waarborgen.
+Een aantal ontwikkelingen maakt het noodzakelijk de POV Drenthe aan te passen. Het betreft hier de volgende zaken.
+• 1. Aanpassing hoofdstuk 1 (begripsbepalingen) in verband met het opnemen van een nieuw hoofdstuk 10 in de POV en om het hoofdstuk in overeenstemming te brengen met recente wetswijzigingen.
+• 2. Aanpassing hoofdstuk 6 (bodemsanering) in verband met het vervallen van de bevoegdheid voor de sanering van waterbodems. De Waterwet legt deze bevoegdheid neer bij de waterschappen. Deze wijziging maakt het noodzakelijk de bepalingen in dit hoofdstuk met betrekking tot waterbodems te laten vervallen.
+• 3. Het vervallen van hoofdstuk 10 en 11 in verband met het vervallen van de wettelijke grondslagen (Wet op de waterhuishouding en Grondwaterwet). De inwerkingtreding van de Waterwet op 22 december 2009 maakt het noodzakelijk een nieuw hoofdstuk in de POV op te nemen waarin onderwerpen met betrekking tot de waterhuishouding en grondwateronttrekkingen zijn opgenomen. De hoofdstukken 10 en 11 worden daarom vervangen door een nieuw in de POV op te nemen hoofdstuk, te weten hoofdstuk 10, Water.
+• 4. Aanpassing van hoofdstuk 12 (wegen en waterwegen) in verband met het verplaatsen van het onderdeel waterwegen naar een nieuw in de POV op te nemen hoofdstuk, te weten hoofdstuk 10, Water. In de Waterwet is expliciet een regeling opgenomen voor het vaarwegenbeheer.
+• 5. Het doorvoeren van een wijziging van begrenzing van het waterwingebied van de waterwinning Noordbargeres te Emmen.
+Voor de uitvoering van het Atalanta-project is het noodzakelijk een wijziging door te voeren van begrenzing van het waterwingebied van de waterwinning Noordbargeres te Emmen. Onderdeel van het Atalanta-project is de verplaatsing van het Noorderdierenpark naar de Noordbargeres. Bij de uitwerking van de plannen voor het nieuwe dierenpark is gebleken dat het plangebied het bestaande wingebied deels overlapt en een aantal putten te dicht benadert. In overleg tussen gemeente, Noorderdierenpark, WMD en de provincie is het voorstel om twee putten te verplaatsen en het waterwingebied aan te passen. Door deze wijziging draagt de provincie bij aan het realiseren van het project Atalanta.
+• 6. Het aanpassen van het waterwingebied Hoogeveen.
+De gemeente is voornemens het gebied gelegen in en rondom het waterwingebied van de waterwinning Hoogeveen (Bentinckspark) her in te richten. De WMD wil medewerking aan deze herinrichting verlenen door pompputten die in de weg liggen te verplaatsen. De voorliggende grensaanpassing is bedoeld om deze ontwikkelingen (voor de korte en de langere termijn) mogelijk te maken. Aan de wijziging ligt een schriftelijk verzoek van de WMD ten grondslag.
+•7. Het opnemen van een correcte verwijzing naar de Wet gewasbeschermingsmiddelen en biociden en het aanpassen van de definitie van de spuitvrije zone's aan het Lozingenbesluit open teelt en veehouderij.
+In de regeling met betrekking tot de bescherming van de Drentsche Aa is een correcte verwijzing naar de Wet gewasbeschermingsmiddelen en biociden opgenomen en is de definitie van de spuitvrije zone's aangepast aan het Lozingenbesluit open teelt en veehouderij. In de huidige bepalingen voor de bescherming van het grondwaterbeschermingsgebied Drentsche Aa is een verwijzing opgenomen naar de Bestrijdingsmiddelenwet 1962. Deze wet is inmiddels vervangen door de Wet gewasbeschermingsmiddelen en biociden. Deze verwijzing dient als zodanig te worden aangepast. Daarnaast is in de POV de spuitvrije zone afgeleid van de rand van het oppervlaktewater. Aangezien deze grens nogal flexibel is, wordt er vanuit de handhaving getwijfeld aan de handhaafbaarheid van deze bepaling. Voorgesteld wordt aan te sluiten bij de omschrijving zoals is opgenomen in het Lozingenbesluit open teelt en veehouderij: de insteek van de watergang. Tot slot worden wat geringe aanpassingen voorgesteld op de kaart van het beschermingsgebied. Een aantal waterlopen wordt aangewezen en een aantal waterlopen komt te vervallen.
+Toelichting per artikel (algemeen + artikelsgewijs)
+HOOFDSTUK 1
+De wijzigingen houden vooral verband met het opnemen van een nieuw hoofdstuk 10 in de POV. Ook moet het hoofdstuk in overeenstemming gebracht worden met recente wetswijzigingen, zoals de vervanging van de Bestrijdingsmiddelenwet 1962 door de Wet gewasbeschermingsmiddelen en biociden.
+Artikel 1.1.
+In het artikel staan de begripsbepalingen. Omdat het artikel ingrijpend gewijzigd moest worden, hebben wij het bestaande artikel in zijn geheel laten vervallen en een nieuw artikel 1.1 vastgesteld. Bovendien is ook de nummering gewijzigd.
+HOOFDSTUK 6
+De bevoegdheid voor de sanering van waterbodems vervalt voor de provincie. De Waterwet legt deze bevoegdheid neer bij de waterschappen. Deze wijziging maakt het noodzakelijk de bepalingen in dit hoofdstuk met betrekking tot waterbodems te laten vervallen. Hierdoor vervalt titel 6.2. Het gaat om de artikelen 6.5, 6.6, 6.7 en 6.8.
+HOOFDSTUK 7
+De Bestrijdingsmiddelenwet 1962 is inmiddels vervangen door de Wet gewasbeschermingsmiddelen en biociden. Deze verwijzing dient als zodanig in hoofdstuk 7 te worden aangepast.
+Artikel 7.8.
+In artikel 7.8 is de term bestrijdingsmiddelen vervangen door de term gewasbeschermingsmiddelen. Verder is de verwijzing naar de Bestrijdingsmiddelenwet 1962 vervangen door een verwijzing naar de Wet gewasbeschermingsmiddelen en biociden.
+Artikel 7.14
+In artikel 7.14 is de term bestrijdingsmiddelen vervangen door de term gewasbeschermingsmiddelen.
+Artikel 7.15
+Bij de handhaving van dit artikel is enige twijfel ontstaan over de aanduiding van de grens van de spuitvrije zone: 5 m vanaf de rand van het oppervlaktewater. Deze twijfel zit vooral in het feit dat de grens van het oppervlaktewater een variabele grens is. Dit zou kunnen betekenen dat ook de omvang van de spuitvrije zone zou fluctueren bij een verschil in waterspiegel. Dit is een ongewenste situatie nog afgezien van de vraag of het juridisch mogelijk is een dergelijke variabele grens te handhaven. Daarom is besloten een andere grens vast te stellen. Hierbij is zoveel als mogelijk gekozen voor een grens die uitgaat van gangbare begrippen en overeenkomt met de grens die werd gehanteerd. Hierbij zijn wij uitgekomen bij de grens zoals deze is opgenomen in het Lozingenbesluit open teelt en veehouderij: de insteek van het oppervlaktewater. Hierbij wordt uitgegaan van een vaste grens die onafhankelijk is van de hoogte van de waterstand. Om zoveel als mogelijk uit te komen op de zelfde omvang als voorheen is ervoor gekozen de grens te leggen op 4 m vanuit de insteek van het oppervlaktewater.
+In dit artikel is daarnaast de term bestrijdingsmiddelen vervangen door de term gewasbeschermingsmiddelen en is de verwijzing naar de Bestrijdingsmiddelenwet 1962 vervangen door een verwijzing naar de Wet gewasbeschermingsmiddelen en biociden. Tot slot is de plant jacobskruiskruid toegevoegd bij de uitzonderingen voor het pleksgewijs bestrijden.
+HOOFDSTUK 10 EN 11
+Door de inwerkingtreding van de Waterwet op 22 december 2009 vervallen de wettelijke grondslagen (Wet op de waterhuishouding en Grondwaterwet) voor hoofdstuk 10 en 11.
+De inwerkingtreding van de Waterwet op 22 december 2009 maakt het noodzakelijk een nieuw hoofdstuk in de POV op te nemen waarin onderwerpen met betrekking tot de waterhuishouding en grondwateronttrekkingen zijn opgenomen. De hoofdstukken 10 en 11 worden daarom vervangen door een nieuw in de POV op te nemen hoofdstuk, te weten hoofdstuk 10, Water.
+Het nieuwe hoofdstuk 10 is van toepassing op de gebieden van de waterschappen Hunze en Aa's, Noorderzijlvest, Reest en Wieden en Velt en Vecht, voor zover gelegen binnen het grondgebied van de provincie Drenthe. Voor het gedeelte dat is gelegen binnen het grondgebied van de provincies Overijssel en Groningen zijn door deze provincies separate verordeningen opgesteld. In de voorbereiding is zoveel als mogelijk getracht deze verordeningen op elkaar af te stemmen.
+Titel 10.1, Normen
+Algemeen
+Op grond van artikel 2.4 van de Waterwet moeten bij provinciale verordening veiligheidsnormen worden vastgesteld voor waterkeringen. Het betreft hier andere dan de primaire waterkeringen die in beheer zijn bij het Rijk of een andere beheerder. In deze titel is daarin voorzien door het vastleggen van het gewenste beschermingsniveau van de regionale waterkeringen. De regionale waterkeringen zijn aangegeven op de als bijlage bij deze verordening behorende kaart(en). Op die kaart(en) is tevens voor elke waterkering de veiligheidsnorm aangegeven.
+Door het stellen van normen geeft de provincie in deze verordening nader invulling aan de reglementair opgedragen taak van de waterschappen, te weten de waterstaatkundige verzorging van zijn gebied.
 Artikelsgewijs
-Titel 12.1, Algemene bepalingen
-## Toelichting op Deel VI
-DEEL VI. OVERIGE BEPALINGEN
-## Hoofdstuk 13, Vergoeding van kosten en schade
-Dit hoofdstuk bevat enkele procedurele bepalingen met betrekking tot de totstandkoming van een beslissing over de vergoeding van schade en kosten door het van toepassing worden van bepalingen van hoofdstukken 5, 6, 7 en 9 van deze verordening ingevolge artikel 15.21, eerste lid, onder a, juncto artikel 15.20 van de Wet
-milieubeheer.
-In de artikelen 15.20 en 15.21 van de Wet milieubeheer zijn de criteria opgenomen waaraan moet worden voldaan wil men voor vergoeding van schade en kosten door het bevoegde gezag in aanmerking komen.
-De Wet milieubeheer bevat daarnaast bepalingen inzake de advisering door deskundigen en de mogelijkheid tot het instellen van beroep bij de administratieve rechter. Het is aan provinciale staten overgelaten de procedure voor de besluitvorming door het bevoegd gezag in te richten, vanzelfsprekend rekening houdend met de Algemene wet bestuursrecht.
-In artikel 13.2 is gebruikgemaakt van de aanvullende bevoegdheid te specificeren welke gegevens voor de beslissing op de aanvraag nodig zijn. De gegevens die in dat artikel zijn opgesomd vormen de basisgegevens die de aanvraag ten minste dient te bevatten.
-De Algemene wet bestuursrecht bevat in de artikelen 4:5 en 4:6 een uniforme regeling voor hoe moet worden gehandeld indien de verstrekte gegevens en bescheiden onvoldoende zijn voor de beoordeling van de aanvraag of voor de voorbereiding van de beschikking.
-Het bevoegde gezag kan zich laten adviseren door een of meer deskundigen (artikel 15.20, vierde lid, van de Wet milieubeheer). Of deskundigen worden aangewezen en hoeveel, valt onder de verantwoordelijkheid van het bevoegd gezag, dus gedeputeerde staten. Als bestuursorgaan moeten zij in elk geval de nodige kennis omtrent de relevante feiten en dergelijke vergaren om tot een zorgvuldige uitspraak te komen.
-Wezenlijk voor de advisering inzake besluiten omtrent de toekenning van een vergoeding van kosten dan wel schade is bovendien dat de deskundigen in staat zijn een onpartijdig oordeel te geven over de toepasselijkheid van de wettelijke criteria op de aanvraag om vergoeding of op de ambtshalve toekenning daarvan. In het tweede lid van artikel 13.3 is dit tot uitdrukking gebracht.
-De aanvrager van een vergoeding van kosten of schade of degene aan wie gedeputeerde staten uit eigen beweging een schadevergoeding willen toekennen wordt de gelegenheid geboden aan de deskundigen zijn aanvraag toe te lichten dan wel zijn opvattingen omtrent het voornemen tot ambtshalve toekenning kenbaar te maken (artikel 13.3, derde lid). In de geest van artikel 4:9 van de Algemene wet bestuursrecht kan dat mondeling of schriftelijk.
-In artikel 13.4 wordt aangegeven, welke gegevens moeten worden overgelegd bij een verzoek om instemming ingevolge artikel 15.20, eerste lid, van de Wet milieubeheer.
-### Hoofdstuk 14, Handhaving
-### Hoofdstuk 15, Overgangs- en slotbepalingen
-## Bijlage
-BIJLAGE I BIJ DE PROVINCIALE OMGEVINGSVERORDENING DRENTHE
-Categorieën van bedrijven als bedoeld in artikel 7.5 (grondwaterbescherming)
-SBI-CODE OMSCHRIJVING
-01 LANDBOUW EN DIENSTVERLENING TEN BEHOEVE VAN DE LANDBOUW
-0111, 0113 Akkerbouw en fruitteelt (bedrijfsgebouwen)
-0112 Tuinbouw
-Intensieve veehouderij:
-0121 - kalvermesterijen
-0121 - stiermesterijen
-0123 - varkensmesterijen
-11 AARDOLIE- EN AARDGASWINNING
-111 Aardolie- en aardgaswinning
-14 WINNING VAN ZAND, GRIND, KLEI, ZOUT EN DERGELIJKE
-144 Zoutwinningbedrijven
-15 VERVAARDIGING VAN VOEDINGSMIDDELEN EN DRANKEN
-1541 Vervaardiging van ruwe plantaardige en dierlijke oliën en vetten
-1542 Raffinage van plantaardige en dierlijke oliën en vetten
-1583 Suikerfabrieken
-17 VERVAARDIGING VAN TEXTIEL
-173 Textielveredelingsbedrijven
-1751 Tapijt-, kokos- en vloermattenfabrieken
-18 VERVAARDIGING VAN KLEDING; BEREIDEN EN VERVEN VAN BONT
-183 Bereiden en verven van bont; vervaardiging van artikelen van bont
-19 VERVAARDIGING VAN LEER EN LEDERWAREN (EXCLUSIEF KLEDING)
-191 Lederfabrieken
-20 HOUTINDUSTRIE EN VERVAARDIGING ARTIKELEN VAN HOUT, RIET, KURK EN DERGELIJKE
-2010.2 Houtconserveringsbedrijven:
-2010.2 - met creosootolie
-2010.2 - met zoutoplossingen
-202 Fineer- en plaatmaterialenfabrieken
-22 UITGEVERIJEN, DRUKKERIJEN EN REPRODUCTIE VAN OPGENOMEN MEDIA
-2221 Drukkerijen van dagbladen
-2222 Drukkerijen (vlak- en rotatiediepdrukkerijen)
-2222.6 Kleine drukkerijen en kopieerinrichtingen
-2224 Grafische reproductie en zetten
-2225 Overige grafische activiteiten
-23 AARDOLIE-/STEENKOOLVERWERKENDE INDUSTRIE; BEWERKING SPLIJT-/KWEEKSTOFFEN
-2320.2 Smeeroliën- en vettenfabrieken
-2320.2 Recyclingbedrijven voor afgewerkte olie
-2320.2 Aardolieproductenfabrieken n.e.g.
-233 Splijt- en kweekstoffenbewerkingsbedrijven
-24 VERVAARDIGING VAN CHEMISCHE PRODUCTEN
-2412 Kleur- en verfstoffenfabrieken
-2413 Anorganische chemische grondstoffenfabrieken
-2414.1 Organische chemische grondstoffenfabrieken
-2414.1 Methanolfabrieken
-2414.2 Vetzuren en alkanolenfabrieken (niet synthetisch)
-2415 Kunstmeststoffenfabrieken
-2416 Kunstharsenfabrieken en dergelijke
-242 Landbouwchemicaliënfabrieken
-243 Verf-, lak- en vernisfabrieken
-2441 Farmaceutische grondstoffenfabrieken
-2442 Farmaceutische productenfabrieken:
-2442 - formulering en afvullen geneesmiddelen
-2451 Zeep-, was- en reinigingsmiddelenfabrieken
-2461 Kruit-, vuurwerk-, en springstoffenfabrieken
-2462 Lijm- en plakmiddelenfabrieken
-2464 Fotochemische productenfabrieken
-2466 Chemische kantoorbenodigdhedenfabrieken
-2466 Overige chemische productenfabrieken n.e.g.
-247 Kunstmatige synthetische garen- en vezelfabrieken
-25 VERVAARDIGING VAN PRODUCTEN VAN RUBBER EN KUNSTSTOF
-2511 Rubberbandenfabrieken
-2512 Loopvlakvernieuwingsbedrijven:
-2512 - vloeroppervlakte > = 100 m2
-252 Kunststofverwerkende bedrijven:
-252 - met fenolharsen
-26 VERVAARDIGING VAN GLAS, AARDEWERK, CEMENT-, KALK- EN GIPS-
-PRODUCTEN
-2661.1 Betonwarenfabrieken
-2682 Bitumineuze materialenfabrieken
-2682 Isolatiematerialenfabrieken (exclusief glaswol):
-2682 Asfaltcentrales
-27 VERVAARDIGING VAN METALEN
-272 IJzeren- en stalenbuizenfabrieken
-274 Non-ferro-metaalfabrieken
-274 Non-ferro-metaalwalserijen, -trekkerijen en dergelijke
-2751, 2752 IJzer- en staalgieterijen/-smelterijen
-2753, 2754 Non-ferro-metaalgieterijen/-smelterijen
-28 VERVAARDIGING VAN PRODUCTEN VAN METAAL (EXCLUSIEF MACHINES/TRANSPORTMIDDELEN)
-281 Constructiewerkplaatsen
-2821 Tank- en reservoirbouwbedrijven
-2822, 2830 Vervaardiging van verwarmingsketels, radiatoren en stoomketels
-284 Stamp-, pers-, dieptrek- en forceerbedrijven
-284 Smederijen, lasinrichtingen, bankwerkerijen en dergelijke
-2851 Metaaloppervlaktebehandelingsbedrijven
-2852 Overige metaalbewerkende industrie
-287 Grofsmederijen, anker- en kettingfabrieken
-287 Overige metaalwarenfabrieken n.e.g.
-29 VERVAARDIGING VAN MACHINES EN APPARATEN
-29 Machine- en apparatenfabrieken
-31 VERVAARDIGING VAN OVERIG ELEKTRONISCHE MACHINES, APPARATEN EN BENODIGDHEDEN
-311 Elektromotoren- en generatorenfabrieken
-312 Schakel- en installatiemateriaalfabrieken
-314 Accumulatoren- en batterijenfabrieken
-315 Lampenfabrieken
-3162 Koolelektrodenfabrieken
-32 VERVAARDIGING VAN AUDIO-, VIDEO- EN TELECOMAPPARATEN EN
--BENODIGDHEDEN
-321 tot en
-met 323 Vervaardiging van audio-, video- en telecomapparatuur en dergelijke
-3210 Fabrieken voor gedrukte bedrading
-34 VERVAARDIGING VAN AUTO'S, AANHANGWAGENS EN OPLEGGERS
-341 Autofabrieken en assemblagebedrijven
-3420.1 Carrosseriefabrieken
-3420.2 Aanhangwagen- en opleggerfabrieken
-35 VERVAARDIGING VAN TRANSPORTMIDDELEN (EXCLUSIEF AUTO'S EN
-AANHANGWAGENS)
-351 Scheepsbouw- en reparatiebedrijven
-3511 Scheepssloperijen
-352 Wagonbouw- en spoorwegwerkplaatsen
-353 Vliegtuigbouw en -reparatiebedrijven
-354 Rijwiel- en motorrijwielfabrieken
-355 Transportmiddelenindustrie n.e.g.
-36 VERVAARDIGING VAN MEUBELS EN OVERIGE GOEDEREN N.E.G.
-361 Meubelfabrieken
-362 Fabricage van munten, sieraden en dergelijke
-37 VOORBEREIDING TOT RECYCLING
-371 Metaal- en autoschredders
-372 Puinbrekerijen en -malerijen:
-372 Afvalscheidinginstallaties
-40 PRODUCTIE EN DISTRIBUTIE VAN STROOM, AARDGAS, STOOM EN WARM WATER
-40 Elektriciteitsproductiebedrijven (vermogen > = 50 mW)
-40 - kolengestookt
-40 - oliegestookt
-40 - kerncentrales met koeltorens
-40 Elektriciteitsdistributiebedrijven
-45 BOUWNIJVERHEID
-45 Bouwbedrijven en aannemersbedrijven met werkplaats
-50 HANDEL/REPARATIE VAN AUTO'S, MOTORFIETSEN; BENZINESERVICESTATIONS
-501, 502, 504 Handel in auto's en motorfietsen, reparatie- en servicebedrijven
-5020.4 Autospuitinrichtingen
-505 Benzineservisestations
-51 GROOTHANDEL EN HANDELSBEMIDDELING
-5151.1 Groothandel in vaste brandstoffen:
-5151.1 - kolenterminal, opslag oppervlakte > = 2.000 m2
-5151.2 Groothandel in vloeibare en gasvormige brandstoffen
-5151.3 Groothandel minerale olieproducten (exclusief brandstoffen)
-5152.1 Groothandel in metaalertsen
-5155.1 Groothandel in chemische producten
-5157 Autosloperijen
-5157.2 /.3 Overige groothandel in afval en schroot
-60 VERVOER OVER LAND
-603 Pomp- en compressorstations van pijpleidingen
-63 DIENSTVERLENING TEN BEHOEVE VAN HET VERVOER
-6323 Luchthavens
-71 VERHUUR VAN TRANSPORTMIDDELEN, MACHINES, ANDERE ROERENDE GOEDEREN
-713 Verhuurbedrijven voor machines en werktuigen
-74 OVERIGE ZAKELIJKE DIENSTVERLENING
-747 Reinigingsbedrijven voor gebouwen
-7481.3 Foto- en filmontwikkelcentrales
-75 OPENBAAR BESTUUR, OVERHEIDSDIENSTEN, SOCIALE VERZEKERINGEN
-7522 Defensie-inrichtingen
-90 MILIEUDIENSTVERLENING
-9000.2 Gemeentewerven (afvalinzameldepots)
-9000.3 Afvalverwerkingsbedrijven
-9000.3 Vuilstortplaatsen
-9000.3 Vuiloverslagstations
-9000.3 Composteerbedrijven
-92 CULTUUR, SPORT EN RECREATIE
-9262 Skelterbanen
-9262 Autocircuits, motorcrossterreinen en dergelijke
-93 OVERIGE DIENSTVERLENING
-9301.2 Chemische wasserijen en ververijen
-9303 Begrafenisondernemingen:
-9303 - begraafplaatsen
-9303 - crematoria
-OPSLAGEN GEVAARLIJKE STOFFEN
-brandbare vloeistoffen:
-- ondergronds, K1/K2/K3-klasse
-- bovengronds, K1/K2/K3-klasse
-bestrijdingsmiddelen
-gier/drijfmest (open en gesloten opslag)
-INSTALLATIES
-vatenspoelinstallaties
-stookinstallaties:
-- olie, > = 50 mW
-motorbrandstofpompen
-## Bijlage II, Aanwijzing categorieen van afvalstoffen
-BIJLAGE II BIJ DE PROVINCIALE OMGEVINGSVERORDENING DRENTHE
-Aanwijzing categorieën van afvalstoffen
-a. Categorieën van afvalstoffen die op grond van artikelen 5.3 en 5.4 gescheiden moeten worden gehouden
-b. [Vervallen.]
-c. Categorieën van afvalstoffen waarvoor vrijstellingen gelden op grond van de artikelen 5.8 (afvalstroomnummer), 5.9 (omschrijvingsformulier) en 5.11 (meldingsregeling)
-a. Categorieën van afvalstoffen die op grond van de artikelen 5.3 en 5.4 gescheiden moeten worden gehouden
-Nummer | Categorie van Afvalstoffen | Afvalstofcode
-1 | Asbesthoudend bouw- en sloopafval | 06.10.103
-2 | Asfalt/asfaltpuin (schollen) teerhoudend | 12.20.203
-3 | Asfalt/asfaltpuin (schollen) niet-teerhoudend | 12.20.203
-4 | Freesasfalt teerhoudend | 12.20.205
-5 | Freesasfalt niet-teerhoudend | 12.20.205
-6 | Bitumenhoudend dakbedekkingsmateriaal (inclusief dakgrind) | 03.06.201
-7 | Elektronicaproducten: - computers - video- en audioapparatuur - beeldschermen - elektronicaonderdelen - elektronicaproducten, niet eerder genoemd (n.e.g.) | 12.26.101 12.26.102 12.26.103 12.26.111 12.26.199
-8 | Wit glas | 12.19.101
-9 | Vlak glas, ruiten | 12.19.201
-10 | Groen glas | 12.19.102
-11 | Bruin glas | 12.19.103
-12 | Grond, verontreinigd (halogeenarm): - grond, verontreinigd met oplosmiddel/verf - grond, verontreinigd met olie - grond, verontreinigd met PAK's/cyanide - grond, verontreinigd, halogeenarm, n.e.g. | 09.01.101 09.01.102 09.01.103 09.01.199
-13 | Grond, verontreinigd (halogeenhoudend): - grond met bestrijdingsmiddelen, halogeenhoudend - grond, verontreinigd, halogeenhoudend, n.e.g. | 09.02.101 09.02.199
-14 | Grond, verontreinigd met zware metalen | 09.03.000
-15 | Grond, organisch en anorganisch verontreinigd: - grond, verontreinigd met PAK's/cyanide/zware metalen | 09.04.101
-16 | Hout (niet geïmpregneerd met conserveringsmiddelen: - houtmot - houtwol - houtafval, krullen - houtafval, stukken - schors - schaaldelen en spaanders - zaagmeel en zaagspaanders - houtschuurstof en houtschuurslib - houtresten uit zagerijen/schaverijen, n.e.g. - houtresten uit de houtverwerkende industrie, n.e.g. - kratten - pallets, in goede staat - pallets, beschadigd - houtemballage, n.e.g. - bouw- en slootafvalhout - palen en masten - houtproductafval, n.e.g. - overig houtafval, veelal bruikbaar, n.e.g. | 12.15.101 12.15.102 12.15.103 12.15.104 12.15.105 12.15.106 12.15.107 12.15.109 12.15.199 12.15.299 12.15.301 12.15.302 12.15.303 12.15.399 12.15.401 12.15.403 12.15.499 12.15.599
-17 | Kunststoffen: - HDPE (hoge dichtheid polyetheen) - LDPE (lage dichtheid polyetheen) - LLDPE (liniair lage dichtheid polyetheen) - PVC (polyvinylchloride) | 12.11.102 12.11.103 12.11.104 12.11.201
-18 | Metalen codes beginnend met | 12.16. en 12.17.
- | - watervaste etiketten - papier, gemiddelde kwaliteit (ondersoorten), n.e.g. - karton (bruingroep) - kraftkarton (emballage) - welle 2 - golfkarton - duplex (grijs karton) - karton (bruimgroep), n.e.g. | 12.10.207 12.10.299 12.10.300 12.10.301 12.10.302 12.10.303 12.10.304 12.10.399
-20 | Plantaardig afval: - tuinbouwafval (composteerbaar) - veilingafval (composteerbaar) - land- en bosbouwafval - plantsoenafval - groente-, fruit- en tuinafval (GFT) (van huishoudens) - GFT (van kantoren, winkels en diensten) - moesig afval - bloembollen - maaigoed (bermafval) - loofafval - aardappelenafval - swill (gekookte etensresten) - plantaardig afval, n.e.g. | 13.31.101 13.31.102 13.31.103 13.31.104 13.31.105 13.31.106 13.31.111 13.31.112 13.31.113 13.31.114 13.31.115 13.31.116 13.31.199
-21 | Biologisch afbreekbare afvalstoffen, n.e.g.: - aardappelzetmeelproductieresten - rijstzetmeelproductieresten - maiszetmeelproductieresten - suikerbietenpulp, suikerbietstaartjes - melasse(resten) - filterstof uit zoetwarenindustrie - zoetwarenindustrieafval, specifiek - koffiefabrikaceresten (koffiedik, koffievliesjes) - theefabricageresten (theedik) - cacaofabricageresten - gist en gistverwante resten - deegresten - conservenindustrieresten - specerijenresten - kaf, kafstof, graanstof - draf, droesem - hopdraf - moutkiemen, moutstof - opschoon- en drijfgerst - bostel - wei - sigaretten, proefdraai en afgekeurd product - voedings- en genotmiddelen, ongeschikt voor consumptie - afval van de bereiding van voedings- en genotmiddelen, n.e.g. | 13.32.101 13.32.102 13.32.103 12.32.111 13.32.112 13.32.113 13.32.114 13.32.121 13.32.122 13.32.123 13.32.131 13.32.132 13.32.141 13.32.151 13.32.161 13.32.162 13.32.163 13.32.164 13.32.165 13.32.181 13.32.166 13.32.171 13.32.191 13.32.199
-22 | Dierlijke en plantaardige oliën en vetten: - plantaardige olie - dierlijke olie - olie-, vet- en wasemulsies (plantaardige/dierlijke vetproducten) - vetafval - vetzuurresten - wassen (niet paraffinisch) - dierlijke en plantaardige oliën en vetten, gemengd - afval van dierlijke/plantaardige oliën/vetten, n.e.g. | 12.25.101 12.25.102 12.25.103 12.25.111 12.25.112 12.25.113 12.25.131 12.25.199
-23 | Rubber: - autobanden van personenauto's - autobanden van vrachtwagens/bussen | 12.12.202 12.12.203
-24 | Steenachtig afval: - puin - baksteen - gasbeton - lichtbeton - metselmortel - metselwerkpuin - zeef- en brekerzand - puin, n.e.g. - wegverharding - straatklinkers, -tegels - wegenafval, opgebroken - wegverharding, n.e.g. | 12.20.100. 12.20.101 12.20.103 12.20.104 12.20.105 12.20.106 12.20.107 12.20.199 12.20.200 12.20.201 12.20.202 12.20.299
-25 | Steenwol | 12.20.411
-26 | Straalgrit | 12.30.301
-27 | Textiel: - kleding, geschikt als gedragen kleding - kleding, voornamelijk katoen - kleding, voornamelijk wol - kleding, voornamelijk synthetisch - schoenen - kleding, niet geschikt voor hergebruik, poetslappen of garens - gedragen kleding, n.e.g. - plantenvezelafval | 12.14.101 12.14.102 12.14.103 12.14.104 12.14.105 12.14.106 12.14.199 12.14.201
- | - katoen - linnen - cellulosevezelafval - wol - natuurzijde - textiel, natuurlijke vezels, gemengd - textiel, natuurlijke vezels, n.e.g. 299 - polyacrylvezelafval - polyamidevezelafval - polyestervezelafval - textiel, synthetische vezels en weefsels, gemengd - textiel, synthetische vezels en weefsels, n.e.g. - stofresten - stof- en weefselresten uit meubelindustrie - textielafval uit breierij en confectie - textielvezels en -weefsels, gemengd - textiel, natuurlijke en synthetische vezels en weefsels, n.e.g. | 12.14.202 12.14.203 12.14.204 12.14.205 12.14.206 12.14.221 12.14.299 12.14.301 12.14.302 12.14.303 12.14.321 12.14.399 12.14.401 12.14.403 12.14.404 12.14.431 12.14.499
-28 | Witgoed: - koelkasten/diepvriezers - witgoed, n.e.g. | 12.26.301 12.26.399
-29 | Brandbare afvalstoffen, n.e.g. codes beginnend met | 14
-30 | Niet-brandbare afvalstoffen, n.e.g. codes beginnend met | 15
-b. [Vervallen.]
-c. Categorieën van afvalstoffen waarvoor vrijstellingen gelden op grond van de artikelen 5.8 (afvalstroomnummer), 5.9 (omschrijvingformulier) en 5.11 (meldingsregeling)
-1 Afvalstoffen genoemd in de groene lijst van afvalstoffen
-2 Lederwaren en lederen voorwerpen
-3 Steenwol
-4 Droge toners, tonercassettes en printerlinten
+Artikel 10.2, Veiligheidsnorm
+- Eerste lid
+In dit lid is bepaald aan welke veiligheidsnorm de regionale keringen moeten voldoen. De norm is uitgedrukt in een gemiddelde overschrijdingskans per jaar van de hoogste waterstand die de desbetreffende waterkering veilig moet kunnen keren. Deze veiligheidsnorm is onder andere gerelateerd aan de economische schade die bij het falen van de waterkering kan optreden of maatschappelijke ontwrichting. De uitgangspunten voor de berekening van de schade en de vertaling naar de norm zijn afgeleid van IPO-Leidraden die daartoe zijn opgesteld.
+- Derde lid
+Het vaststellen van het tijdstip waarop de verschillende regionale waterkeringen aan de gestelde veiligheidsnorm moeten voldoen is een aangelegenheid van het provinciaal bestuur. Bij de vaststelling van de regionale keringen door provinciale staten is tevens de datum van 1 januari 2015 opgenomen. Deze datum is feitelijk gelijk aan hetgeen de provincie Groningen heeft opgenomen in haar verordening
+Artikel 10.3, Regionale verdringingsreeks
+In artikel 2.9, tweede lid, van de Waterwet is bepaald dat bij provinciale verordening voor de regionale wateren de rangorde kan worden bepaald van de maatschappelijke en ecologische behoeften bij watertekorten. In dit artikel is van deze mogelijkheid gebruik gemaakt.
+Van watertekort is sprake indien de vraag naar water vanuit de verschillende maatschappelijke en economische behoeften groter is dan het aanbod. Hierbij gaat het om de beschikbaarheid van voldoende water van die kwaliteit die voor bepaalde behoeften nodig is. Het beheer van het regionale watersysteem is er, onder andere, op gericht alle watervragers zoveel mogelijk van het benodigde water te voorzien. In tijden van watertekort is dit echter niet meer mogelijk. De gevolgen voor waterverbruikers kunnen aanzienlijk zijn. De regionale verdringingsreeks biedt helderheid over welke behoeften in een situatie van watertekort voorgaan boven de anderen en draagt bij aan een slagvaardig en eenduidig optreden van de waterbeheerder in situaties van watertekorten.
+In artikel 2.1 van het Waterbesluit is de landelijke verdringingsreeks vastgelegd. De landelijke verdringingsreeks bepaalt hoe het beschikbare water in de door het Rijk beheerde wateren wordt verdeeld in tijden van watertekort. De reeks is daardoor van toepassing in alle rijkswateren. In de landelijke verdringingsreeks zijn de watergebruikers ingedeeld in 4 categorieën.
+Binnen de categorieën 1 en 2 is sprake van een door het Rijk vastgestelde prioriteitsvolgorde. Deze is bindend. Daarnaast is er een groot aantal gebieden, waar het oppervlaktewater niet door het Rijk wordt beheerd. Daarom is er binnen de categorieën 3 en 4 ruimte voor een regionale prioritering op basis van minimalisatie van de economische en maatschappelijke schade. Dat kan in principe betekenen dat elke partij of regio binnen categorieën 3 en 4 anders prioriteert. Een werkgroep heeft voor het gebied rondom het IJsselmeer geadviseerd om die prioritering voor Noord-Nederland zo veel mogelijk op elkaar af te stemmen.
+In het rapport Waterverdeling Noord-Nederland, Advies van de Werkgroep Regionale Uitwerking Verdringingsreeks Noord-Nederland, september 2006, is daar uitwerking aan gegeven. Op basis van dit rapport leggen de provincies rondom het IJsselmeer de verdringingsreeks voor onttrekkingen uit het IJsselmeer op deze wijze in de verordeningen vast.
+De uitzonderingbepaling in het eerste lid, onder d, geldt alleen wanneer met relatief kleine hoeveelheden water relatief grote sociaal-economische gevolgen als faillissementen te voorkomen zijn. Dit kan structureel van toepassing zijn of er kan in voorkomende gevallen incidenteel gebruik van worden gemaakt.
+Artikel 10.4, Normen waterkwantiteit
+Deze verplichting vloeit voort uit artikel 2.8 van de Waterwet. Voor verschillende gebieden worden normen gegeven waarbij de kans op wateroverlast als gevolg van grote hoeveelheden neerslag is gerelateerd aan het landgebruik en de te verwachten schade bij wateroverlast. De normen drukken het wenselijk geachte beschermingsniveau uit. De normering bakent de zorgplicht en inspanningsverplichting af die de waterbeheerder heeft op het vlak van het voorkomen, dan wel beperken van ontoelaatbare wateroverlast door inundatie (overstroming) vanuit oppervlaktewater ten gevolge van neerslag. Deze normering geeft daarmee helderheid voor de burgers en de bedrijven over hun eigen risico en verantwoordelijkheid ten aanzien van roerende en onroerende zaken.
+In het Nationaal Bestuursakkoord Water (2003) zijn werknormen opgenomen die voor de verschillende vormen van landgebruik het wenselijk geachte beschermingsniveau uitdrukken. De vormen van landgebruik die worden onderscheiden zijn: grasland, akkerbouw, hoogwaardige land- en tuinbouw, glastuinbouw en bebouwd gebied. Deze werknormen zijn uitgangspunt bij het bepalen van het voor een gebied toepasselijke beschermingsniveau. Voor specifieke gebieden kunnen door de waterbeheerder gemotiveerd andere normen worden aangehouden. Dit kan alleen als het een strengere norm betreft. Dit valt namelijk al binnen de bepaling ('niet vaker dan'). Voor bepaalde gebieden is het wenselijk lichtere normen aan te houden. De waterbeheerder doet hiertoe een gemotiveerd voorstel aan provinciale staten. Indien deze het voorstel overnemen worden de afwijkende normen vastgesteld en opgenomen in de provinciale verordening en het beheerplan van het waterschap. Eventuele maatregelen die nodig zijn om de bergings- en afvoercapaciteit van de regionale wateren aan de in deze verordening vastgelegde norm te laten voldoen neemt de beheerder op in het beheerplan zoals bedoeld in artikel 4.6 van de Waterwet.
+In het eerste en tweede lid wordt onderscheid gemaakt in het gebied binnen en buiten de bebouwde kom. Binnen de bebouwde kom is de normering voor wateroverlast vastgesteld op eens in de 100 jaar. Deze norm geldt voor de doeleinden bebouwing, hoofdinfrastructuur en spoorwegen. Voor alle overige doeleinden is een gemiddelde vastgesteld van eens in de 10 jaar. Hierbij moet worden gedacht aan parken en plantsoenen, waarvoor een norm van 1: 100 als onnodig zwaar wordt gezien.
+Buiten de bebouwde kom is de normering voor wateroverlast met name gerelateerd aan de economische waarde van het landgebruik. Hierbij dient terughoudend te worden omgegaan met de gronden die op de nominatie staan om aangewezen te worden als EHS maar nog niet zijn verworven. Investeringen in deze gebieden kunnen zeer snel als onrendabel worden aangemerkt. Voor natuurgebieden is geen norm in deze verordening opgenomen omdat doorgaans geen sprake is van wateroverlast. De basis voor de normering is vastgelegd in de kadernotitie Normering regionale wateroverlast provincie Drenthe.
+Om te bereiken dat de toetsing van de bergings- en afvoercapaciteit van de regionale wateren door de beheerders op uniforme wijze tot stand komt, is aan gedeputeerde staten de bevoegdheid gegeven nadere voorschriften te stellen.
+Het vaststellen van het tijdstip waarop de bergings- en afvoercapaciteit van de regionale wateren voor de eerste keer aan de gestelde norm moeten voldoen is bepalend voor de zorgplicht van de beheerder en is daarom een aangelegenheid van het provinciaal bestuur. In de afgelopen periode is er in diverse beleidsdocumenten van uitgegaan dat uiterlijk in 2015 voor de eerste keer wordt voldaan aan de in het eerste en tweede lid opgenomen normen. In bijzondere gevallen kan van deze datum gemotiveerd worden afgeweken.
+Om tijdig te kunnen waarnemen of watersystemen op orde blijven, is het noodzakelijk dat de toetsing van het watersysteem periodiek wordt herhaald. De periodieke toetsing wordt onderdeel van de waterbeheerplannen. Dat wil zeggen, eens per 12 jaar een volledige toetsronde, met in het tussenliggende zesde jaar een herziening van de normering voor zover daar aanleiding voor is. Alle waterschappen die (deels) in Drenthe liggen, voeren op gelijke wijze in 2015 de toetsronde uit, die in het NBW-actueel aangekondigd is.
+Artikel 10.5, Verslag toetsing watersysteem
+Het is gelet op de Memorie van toelichting bij artikel 2.14 van de Waterwet gewenst dat de beheerder de vinger "aan de pols van het watersysteem houdt" en periodiek nagaat in hoeverre de normen verwezenlijkt zijn.
+De resultaten van de beoordeling van het watersysteem en de bevindingen bij de beoordeling worden door de beheerder vervat in een verslag, dat wordt toegezonden aan GS. Het verslag heeft een ander karakter en wordt met een andere frequentie opgesteld dan de algemene voortgangsrapportage bedoeld in artikel 10.27. Om die reden maakt het verslag als bedoeld in artikel 10.5 geen deel uit van de algemene voortgangsrapportage.
+De beheerder draagt zorg voor de periodieke beoordeling van het watersysteem. Meer specifiek betekent dit de beoordeling van de primaire en regionale waterkeringen, de regionale wateren en de ondersteunende kunstwerken. Daarbij wordt beoordeeld in hoeverre de waterstaatwerken voldoen aan de gestelde normen met betrekking tot de veiligheid van de regionale waterkering respectievelijk het tegengaan van wateroverlast.
+De beheerder rapporteert de uitkomsten van deze beoordeling periodiek aan gedeputeerde staten zodat gedeputeerde staten kunnen nagaan of aan de normen is voldaan. Bij een periodieke rapportage gaan wij uit van een frequentie die overeenkomt met de beleidscyclus van het beheerplan zijnde eens per 6 jaar.
+In samenhang met het voorgaande kan in de rapportage aandacht worden besteed aan de uit het Nationaal Bestuursakkoord Water voortvloeiende verplichting voor de beheerder om de regionale watersystemen te toetsen aan de vastgestelde gebiedsnormen voor wateroverlast en de uitwerking van de gewenste grond- en oppervlaktewaterregimes (GGOR).
+In verband met de vereiste veiligheid, het tegengaan van wateroverlast en discussies met betrekking tot schaderegelingen en kostenverdeling is het van belang dat de toetsing van watersystemen op uniforme wijze kan worden uitgevoerd. Zodoende kan eenduidig worden bepaald wanneer het watersysteem kan worden gekwalificeerd als "op orde". In dit kader kan ook worden gewezen op de voorschriften die gedeputeerde staten ingevolge de verordening kunnen stellen met betrekking tot de beoordeling van waterstaatswerken.
+Titel 10.2, Toedeling beheer en vaarwegenbeheer
+Algemeen
+De Waterwet beoogt te bewerkstelligen dat landsdekkend is bepaald wie belast zijn met het beheer van watersystemen. In artikel 3.1 van de Waterwet is bepaald dat alle watersystemen of onderdelen daarvan die bij het Rijk in beheer zijn, worden aangewezen bij of krachtens Algemene maatregel van bestuur. In artikel 2, tweede lid, van de Waterschapswet is bepaald dat de zorg voor het regionale watersysteem bij reglement aan waterschappen wordt opgedragen, tenzij dat niet verenigbaar is met een goede organisatie van de waterstaatkundige verzorging. De reglementaire taakopdracht is gebiedsgericht.
+Op grond van artikel 3.2, eerste lid, van de Waterwet moeten bij provinciale verordening beheerders worden aangewezen voor de niet bij het Rijk in beheer zijnde watersystemen of onderdelen daarvan. Hierbij dient artikel 2, tweede lid, van de Waterschapswet in acht te worden genomen. Ter uitvoering van artikel 3.2 van de Waterwet is het waterschap in artikel 10.8 van deze verordening aangewezen als beheerder van het regionale watersysteem. Hierbij is verwezen naar de reglementaire omschrijving van de taak van het waterschap, zijnde 'de waterstaatkundige verzorging van zijn gebied, voor zover deze taak niet aan andere publiekrechtelijke lichamen is opgedragen'. Met de clausulering in de taakopdracht wordt bereikt dat de toedeling van beheer geen betrekking heeft op watersystemen die in beheer zijn bij het Rijk of op vaarwegbeheer dat als onderdeel van het watersysteembeheer bij een gemeente of provincie berust.
+De in deze titel opgenomen regeling gaat uit van het in de afgelopen jaren gevoerde provinciale beleid met betrekking tot het beheer van provinciale vaarwegen. Met deze regeling wordt niet beoogd hierin verandering aan te brengen.
+Aard van de bepalingen
+De artikelen in deze titel hebben betrekking op het vaarwegbeheer en voor een deel op het nautisch beheer. Bij vaarwegbeheer gaat het om instandhouding van de natte infrastructuur waarover scheepvaartverkeer moet kunnen plaatsvinden, alsmede om aanleg en verbetering van objecten die deel uitmaken van die infrastructuur. In de praktijk wordt dit wel omschreven als 'het instandhouden van de bak'. Voor het (technisch) beheer van de droge infrastructuur zijn richtlijnen opgenomen in de Wegenwet. Voor het beheer en onderhoud van de natte infrastructuur is echter geen specifiek wettelijk kader beschikbaar.
+Het nautisch beheer is gericht op het bevorderen van een veilige, vlotte en doelmatige afwikkeling van het scheepvaartverkeer, onder andere door regulering en handhaving. Het nautisch beheer is hoofdzakelijk geregeld in de zogenaamde hogere regelgeving: de Scheepvaartverkeerswet en de daaruit voortvloeiende regelingen, zoals onder meer het Binnenvaartpolitiereglement (BPR) en het Besluit administratieve bepalingen scheepvaartverkeer (BABS).
+Artikelsgewijs
+Artikel 10.7, Begripsomschrijvingen
+- Vaarweg
+De omschrijving is ontleend aan artikel 1.01, onderdeel D 5, van het BPR. Binnen deze omschrijving valt het begrip vaarwater, zijnde het gedeelte van een vaarweg dat feitelijk door de scheepvaart kan worden gebruikt. De beperking 'voor zover vermeld op lijst A of lijst B' voorkomt dat ook sloten en dergelijke kleine wateren in principe onder het regime van de verordening vallen.
+- Werk
+Strikt genomen moet een vaarweg ook als een 'werk' als hier bedoeld worden beschouwd, maar voor de hanteerbaarheid van de bepalingen van de verordening is hiervan afgezien.
+Artikel 10.9, Toedeling beheer vaarwegen
+Dit artikel voorziet in de aanwijzing van beheerders voor vaarwegen. Hiertoe is op lijsten aangegeven welke gemeente, welke provincie of welk waterschap is belast met het vaarwegbeheer van regionale en lokale wateren. Door middel van deze lijsten wordt de bestaande beheersituatie vastgelegd. Daarmee zijn deze lijsten voor de bestuurspraktijk bepalend voor de vraag welk bestuursorgaan een zorgplicht dan wel bevoegdheden heeft voor het vaarwegbeheer van bedoelde wateren. Lijst A bevat alleen de vaarwegen die bij de provincie in beheer zijn. Op Lijst B (de 'toezichtlijst') zijn alle wateren opgenomen die van lokale betekenis zijn voor de scheepvaart en waarop de provincie het toezicht heeft.
+Artikel 10.10, Belangenbescherming
+Deze bepaling geeft een nadere uitwerking van de doelstellingen die met deze titel worden nagestreefd. In afwijking van het IPO-model is ervoor gekozen ook ecologische, cultuurhistorische, archeologische, recreatieve, toeristische of landschappelijke belangen hierin mee te nemen. Deze belangen waren ook al opgenomen in de vorige POV. Er is hier dus sprake van voortzetting van huidig beleid.
+Artikel 10.11, Vaarwegdiepte en vaarwegonderhoud
+Het derde lid bindt het vaststellen en wijzigen van de minimaal benodigde vaarwegdiepten aan de openbare voorbereidingsprocedure van afdeling 3.4 van de Awb. Bij het vaststellen van de minimaal benodigde vaarwegdiepten wordt rekening gehouden met de Richtlijnen vaarwegen 2005, onderdeel 3, Vaarwegvakken, en de vigerende CEMT-klassen en richtlijnen van het BRTN-convenant.
+Artikel 10.13, Bedieningstijden van bruggen en sluizen
+Het belang van de beroepsvaart en de recreatievaart is gediend met een optimale afstemming van de bedieningsregimes van de beweegbare bruggen en sluizen. Dit artikel legt daarom de vaststelling van deze bedieningstijden exclusief (uitgezonderd de spoorbruggen) bij gedeputeerde staten (eerste lid). Voorts moeten de beheerders van deze bruggen en sluizen ervoor zorgen (derde lid) dat ze minimaal bediend worden op de tijden die door gedeputeerde staten zijn vastgesteld. Hierbij wordt rekening gehouden met de Richtlijnen vaarwegen 2005, onderdeel 7, Bediening. Voor de vaststelling van de bedieningstijden voor vaarwegen die opgenomen zijn in de BRTN worden de BRTN-richtlijnen ten behoeve van de recreatievaart tevens meegewogen. Het vierde lid bindt het vaststellen en wijzigen van bedieningstijden van bruggen en sluizen aan de openbare voorbereidingsprocedure van de Awb.
+Artikel 10.14, Onttrekken van een vaarweg aan het openbaar scheepvaartverkeer
+Deze bepaling is vergelijkbaar met artikel 8, tweede lid, van de Wegenwet, op grond waarvan (land)wegen in beheer bij een provincie of een waterschap aan het openbaar verkeer onttrokken kunnen worden. De onttrekking van een vaarweg of een gedeelte daarvan aan het openbaar scheepvaartverkeer is blijvend en geldt voor elk type schip in de zin van artikel 1, eerste lid, onderdeel b, van de Scheepvaartverkeerswet.
+Artikel 10.15, Absoluut verbod voor provinciale vaarwegen (lijst A) en de bijbehorende werken
+De vaarwegbeheerders van de wateren van lijst B dienen ten aanzien van de in dit artikel genoemde onderwerp zelf te voorzien in regelgeving.
+De in dit artikel opgenomen verboden zijn zoveel als mogelijk opgenomen in de vorm van doelvoorschriften. Zo is het verboden het voor het scheepvaartverkeer noodzakelijke uitzicht op en bij scheepvaartwegen te belemmeren. Ook is het verboden de veiligheid en het vlotte verloop van het scheepvaartverkeer op de scheepvaartweg in gevaar te brengen. Dat betekent bijvoorbeeld dat het verboden is houtgewas of takken van bomen zodanig in of boven de vaarweg te laten hangen dat zij hinder voor de scheepvaart veroorzaken.
+Dit betekent ook dat er langs de oever geen werken mogen worden opgericht, bijvoorbeeld in de bocht van een scheepvaartweg, die het uitzicht van het scheepvaartverkeer belemmeren. De afstand van het werk tot de vaarweg is hierbij niet van belang. Bij twijfel kunnen de Richtlijnen vaarwegen 2005 uitkomst bieden of kan contact worden opgenomen met de desbetreffende beleidsafdeling.
+In het BPR en de keuren van de waterschappen staan soortgelijke bepalingen als opgenomen in sub c van dit artikel. In het BPR is geregeld dat het verboden is vanaf een schip stoffen in het water te brengen. Daarnaast is in de keuren van de waterschappen, die ook voor de scheepvaartwegen gelden, ook geregeld dat er geen stoffen in het water mogen worden gebracht. Omdat het regelmatig voorkomt dat er maaisel zodanig op de oever wordt gebracht dat het in het water terecht kan komen en daar adequaat gehandhaafd moet kunnen worden, is een expliciet verbod in de verordening opgenomen.
+De verboden van dit artikel zijn absoluut: ontheffing ervan is niet mogelijk.
+Artikel 10.16, Verboden met ontheffingsmogelijkheid voor provinciale vaarwegen (lijst A) en de bijbehorende werken
+De vaarwegbeheerders van de wateren van lijst B dienen ten aanzien van de in dit artikel genoemde onderwerp zelf te voorzien in regelgeving.
+Het eerste lid bevat verboden waarvan ontheffing kan worden gevraagd. In sub c van dit lid is bepaald dat er geen veranderingen mogen worden aangebracht aan de scheepvaartweg. Tot veranderingen behoren onder meer verbredingen, versmallingen, verdiepingen of verondiepingen van de scheepvaartweg.
+Voor het houden van wedstrijden is op grond van artikel 1.23 van het BPR toestemming vereist. In dit artikel (eerste lid, onder e) is tevens een regeling opgenomen voor situaties waarin de wedstrijd of evenement niet op of in het water worden gehouden maar wel over of boven het water. Hierbij kan worden gedacht aan paalstokspringen. Deze activiteit valt wel onder de verordening, maar niet onder het BPR.
+Artikel 10.17, Provinciaal belang
+Dit artikel bepaalt de uitzonderingspositie van personen die handelen in opdracht van of in het belang van de provincie. Het kan voorkomen dat er werkzaamheden moeten worden verricht waardoor schade of hinder ontstaat. Voorwaarde is daarbij wel dat de werkzaamheden worden verricht ten behoeve van de bescherming en instandhouding van wegen en waterwegen.
+Artikel 10.18, Aanwijzing andere ligplaats
+Dit artikel vormt een aanvulling op de nautische regel van het BPR ten aanzien van de verhaalplicht van schepen die afgemeerd zijn op plaatsen waar andere schepen moeten worden geladen of gelost. Deze verhaalplicht wordt in dit artikel ook opgelegd aan schepen wanneer onderhoudswerkzaamheden moeten worden uitgevoerd.
+Titel 10.3, Regionaal waterplan en beheerplannen
+Algemeen
+De bepalingen onder deze titel hebben betrekking op de totstandkoming en de inhoud van het regionaal waterplan en het beheerplan en de voortgangsrapportage. De bestaande planstructuur van de Wet op de waterhuishouding is grotendeels overgenomen in de Waterwet. provinciale staten stellen het regionaal waterplan vast. De waterschappen houden hier rekening mee bij het opstellen van hun beheerplan. Dit is de waarborg dat het uitvoeringsgerichte beheerplan goed wordt ingebed in het breder afgewogen regionaal waterplan. De Waterwet geeft in artikel 4.4 duidelijk aan welke onderdelen het regionaal waterplan moet bevatten. De verordening is op dit punt dan ook beknopt. De verordening gaat uitgebreider in op de in het beheerplan op te nemen onderdelen.
+Artikelsgewijs
+Artikel 10.19, Inhoud regionaal waterplan
+- Tweede lid
+Integratie van water en ruimtelijke ordening is alleen mogelijk wanneer de ruimtelijke gevolgen van de wateropgaven worden uitgewerkt in ruimtelijke plannen. De Waterwet brengt daarom een koppeling aan tussen de wateropgaven en de uitwerking daarvan door het regionaal waterplan tegelijkertijd de status te geven van structuurvisie in de zin van de Wet ruimtelijke ordening.
+Artikel 10.20, Voorbereiding regionaal waterplan
+De opsommingen genoemd in het eerste en tweede lid zijn niet limitatief. Het staat gedeputeerde staten vrij om bijvoorbeeld met andere overheden, bedrijven of instanties te overleggen of deze te raadplegen Daarbij kan worden gedacht aan Rijkswaterstaat, waterleidingbedrijven en belangenorganisaties, zoals LTO, natuur- en milieuorganisaties, VNO-NCW en de Kamer van Koophandel.
+Afdeling 3.4 van de Awb is van toepassing op de voorbereiding van het plan. De inspraakperiode bedraagt 6 weken.
+Artikel 10.21, Uitwerking regionaal waterplan
+Dit artikel biedt provinciale staten de grondslag om gedeputeerde staten de bevoegdheid te verlenen dan wel te verplichten tot het uitwerken van bepaalde onderdelen van het regionaal waterplan. De planuitwerking verkrijgt vervolgens dezelfde status als het regionaal waterplan. De bevoegdheid is beperkt tot het uitwerken van het eerder vastgestelde kader. Deze mag zich dan ook niet richten op het niveau van daadwerkelijke uitvoering van maatregelen. Die bevoegdheid is immers voorbehouden aan de waterschappen. Een in een uitwerkingsplan uit te werken onderwerp is bijvoorbeeld het aanwijzen van een waterbergingsgebied.
+Artikel 10.22, Inhoud beheerplan
+Het beheerplan bevat (op de schaal van het waterschap) een uitwerking van de strategische doelen die de provincie in haar regionaal waterplan heeft geformuleerd. De uitwerking bevat ten minste concrete maatregelen, de bijbehorende planning en de kosten die nodig zijn om deze maatregelen te realiseren.
+Het beheerplan gaat ook in op de vaststelling van het GGOR. In een dergelijk GGOR-besluit staat welke grondwater- en oppervlaktewatersituatie (verdeeld naar ruimte en tijd) in het projectgebied wordt nagestreefd, uitgedrukt in:
+- de grondwaterdynamiek en/of de combinatie van de gemiddeld hoogste grondwaterstand (ghg), de gemiddeld laagste grondwaterstand (glg), de gemiddelde voorjaarsgrondwaterstand (gvg);
+- de te hanteren streefpeilen;
+- de termijn van realisatie.
+In een achtergronddocument wordt toegelicht:
+- de afweging die ten grondslag ligt aan het GGOR-besluit en het doorlopen proces;
+- indien relevant: de inrichting van de watergangen, de (grond)waterkwaliteit en de benodigde wateraanvoer;
+- een beschrijving van de maatregelen, raming van kosten en een globaal plan van aanpak.
+Artikel 10.23, Raadplegen beheerplan
+De opsomming is niet limitatief. Het staat het dagelijks bestuur vrij om bijvoorbeeld met andere overheden, bedrijven of instanties te overleggen of deze te raadplegen. Daarbij kan worden gedacht aan Rijkswaterstaat, waterleidingbedrijven en belangenorganisaties, zoals LTO, natuur- en milieuorganisaties, VNO-NCW en de Kamer van Koophandel.
+Artikel 10.24, Voorbereiding beheerplan
+Afdeling 3.4 van de Awb is van toepassing op de voorbereiding en vaststelling van het beheerplan. De voorbereidingsprocedure voor het beheerplan is overigens identiek aan de in artikel 10.20 neergelegde procedure voor de totstandkoming van het regionaal waterplan. Voor de verdere toelichting verwijzen wij dan ook naar de toelichting bij artikel 10.20.
+Artikel 10.25, Uitwerking beheerplan
+Dit artikel biedt het algemeen bestuur de grondslag om het dagelijks bestuur de bevoegdheid te verlenen dan wel te verplichten tot het uitwerken van bepaalde onderdelen van het beheerplan. De planuitwerking verkrijgt vervolgens dezelfde status als het beheerplan.
+Artikel 10.26, Goedkeuring beheerplan
+Het waterschap stuurt met het goed te keuren beheerplan de in het artikel genoemde bijlagen mee. Deze zijn geen onderdeel van het beheerplan. gedeputeerde staten gebruiken de bijlagen bij de beoordeling van het plan en bij het beantwoorden van de vraag of het beheerplan is voorbereid en vastgesteld volgens de daarvoor geldende procedure. De mogelijkheid van een herziening van beperkte strekking en goedkeuring daarvan door de provincie waar de herziening plaatsvindt, kan bijvoorbeeld worden ingezet voor aanpassingen in het kader van GGOR. Deze kunnen dan stapsgewijs aan het beheerplan worden toegevoegd.
+Artikelen 10.27 en 10.28, Voortgangsrapportage uitvoering beheerplan en nadere voorschriften beheerplan
+In artikel 3.10 van de Waterwet is bepaald dat bij provinciale verordening regels kunnen worden gesteld omtrent de door de besturen van waterschappen te vertrekken informatie. Voor het kunnen uitoefenen van toezicht is het van belang dat gedeputeerde staten over adequate en voldoende actuele informatie beschikken. In dit artikel is geregeld dat het dagelijks bestuur, ten minste eenmaal per jaar, aan gedeputeerde staten rapporteert over de voortgang van de uitvoering van het beheerplan en de mate waarin de in het beheerplan gestelde doelen worden bereikt. Deze voortgangsrapportage vormt de basis voor het periodiek bestuurlijk overleg in de beleidscyclus tussen de provincie en het waterschap. In dit verband kan worden gewezen op de afspraken die het IPO en de Unie van Waterschappen hebben neergelegd in de rapportage Afstemming van taken in het regionale waterbeheer (2005). Uitgangspunt is dat de samenwerking tussen provincie en waterschap zich toespitst op de gezamenlijke beleidsvorming (met ieder een eigen rol hierin), de uitvoering en het toezicht op de uitvoering. Daarbij wordt uitgegaan van een afstemming van taken op basis van partnership en complementariteit. In het periodiek overleg kunnen alle onderwerpen betreffende het regionaal waterbeheer, het regionaal waterplan en het beheerplan aan de orde worden gesteld. Ook de wijze waarop het toezicht wordt ingevuld en het maken van afspraken ter evaluatie in het eerstvolgende overleg kunnen hiervan deel uitmaken.
+Titel 10.5, Aanleg en beheer van waterstaatswerken
+Algemeen
+- Legger waterstaatswerken
+In artikel 5.1 van de Waterwet is bepaald dat de beheerder zorg draagt voor de vaststelling van een legger, waarin is omschreven waaraan waterstaatswerken naar richting, vorm, afmeting en constructie moeten voldoen. In artikel 1.1 van de Waterwet is bepaald welke beheersobjecten onder waterstaatswerken zijn begrepen. De Waterwet vermeldt de basisgegevens die deel uitmaken van de legger. De ligging van de waterstaatswerken en daaraan grenzende beschermingszones wordt aangegeven op overzichtskaarten.
+In de Waterwet is bepaald dat bij provinciale verordening ten aanzien van inhoud, vorm en periodieke herziening van de legger voor daarbij te onderscheiden categorieën van waterstaatswerken nadere voorschriften kunnen worden gegeven. In deze titel wordt dit onderwerp nader uitgewerkt.
+De beheerder draagt er zorg voor dat de gegevens in de legger actueel blijven. De legger voor de oppervlaktewaterlichamen, bergingsgebieden, primaire- en regionale waterkeringen of ondersteunende kunstwerken kunnen door de beheerder desgewenst bij een of meer afzonderlijke besluiten, in afzonderlijke documenten worden vastgesteld dan wel worden gecombineerd.
+De legger is van belang voor de toetsing van de waterstaatswerken aan de gestelde normen.
+Deze toetsing wordt mogelijk door de gegevens in de legger, waarin de vereiste toestand van de waterstaatswerken is aangegeven, te vergelijken met de feitelijke toestand van de waterstaatswerken. Daarnaast is de legger van belang voor de ruimtelijke reikwijdte van de verbods- en beheerbepalingen ingevolge de Waterwet of de waterschapskeur (de werkingssfeer het vereiste van vergunningen of ontheffingen).
+De legger op grond van de Waterwet moet worden onderscheiden van de legger als bedoeld in artikel 78 van de Waterschapswet. Desgewenst kunnen beide leggers in 1 document worden gecombineerd. De Waterschapswet bevat enkele procedurele bepalingen met betrekking tot de voorbereiding en vaststelling van de laatstgenoemde legger (toepassing inspraakverordening).
+In artikel 5.1 van de Waterwet is een vrijstellingsmogelijkheid ingebouwd ten aanzien van het vermelden van vorm, afmeting en constructie van waterstaatswerken. Van deze mogelijkheid is in het vierde lid van artikel 10.29 van deze verordening gebruikgemaakt, gelet op de aard en functie van de in dit lid aangewezen waterstaatswerken. Deze lenen zich niet voor het vastleggen van vorm, afmeting en constructie. Het vermelden van de ligging blijft wel verplicht omdat de legger de reikwijdte van de keur bepaald.
+- Peilbesluiten
+Op grond van artikel 5.2 van de Waterwet moeten bij of krachtens provinciale verordening de oppervlaktewaterlichamen en/of grondwaterlichamen worden aangewezen waarvoor de beheerder peilbesluiten kan vaststellen. In de desbetreffende artikelen is daarin voorzien. In het peilbesluit worden op een voor de beheerder bindende wijze waterstanden opgenomen of bandbreedten waarbinnen de waterstanden onder reguliere omstandigheden kunnen variëren. Voor de gebieden waar geen peilbesluiten zijn voorgeschreven, kan het waterschap streefpeilen hanteren.
+Projectprocedure voor waterstaatswerken
+De Waterwet geeft voor de aanleg, verlegging en versterking van primaire waterkeringen een specifieke coördinatieregeling, de projectprocedure voor waterstaatswerken genoemd. Daarmee worden de besluitvormingsprocedures bespoedigd en vereenvoudigd. De Waterwet beperkt deze coördinatieregeling niet tot primaire waterkeringen maar geeft de provincies de mogelijkheid deze regeling ook open te stellen voor andere projecten. In artikel 10.34 is aangegeven voor welke projecten de projectprocedure ook kan worden ingezet.
+- Waterakkoord
+Het systeem van aanwijzing van verplichte gevallen waarin een waterakkoord moet worden vastgesteld is in de Waterwet vervangen door de verplichting om "voor zover dat nodig is met het oog op een samenhangend en doelmatig waterbeheer" waterakkoorden te sluiten. Hiermee wordt aangesloten bij de systematiek waarvoor ook in artikel 3.5 en 3.6 van de Waterwet inzake de samenwerking tussen waterschappen en gemeenten is gekozen. Bij provinciale verordening kunnen alleen nog nadere regels met betrekking tot waterakkoorden worden gesteld. Met artikel 10.36 is hieraan invulling gegeven. De nadere regels hebben alleen betrekking op de voorbereiding van de waterakkoorden.
+Artikelsgewijs
+Artikel 10.29
+Voor de vast te leggen gegevens in de legger van de regionale waterkering (en ondersteunende kunstwerken) zijn maatgevend de gestelde veiligheidsnorm en de voorschriften, bedoeld in artikel 10.2 van deze verordening. Met behulp van situatietekeningen en, waar mogelijk, dwarsprofielen wordt in de legger aangegeven wat de vereiste en te handhaven afmetingen van (de primaire en regionale) waterkering en de daaraan grenzende beschermingszones zijn.
+Voor de vast te leggen gegevens in de legger van de oppervlaktewaterlichamen en bergingsgebieden (en ondersteunende kunstwerken) zijn maatgevend de gestelde normen en de voorschriften, bedoeld in artikel 10.4 van deze verordening, met het oog op de bergings- en afvoercapaciteit waarop de regionale wateren moeten zijn ingericht (het voorkomen en tegengaan van wateroverlast).
+Het opstellen van deze legger is mede van belang gelet op de uit het Nationaal Bestuursakkoord Water voor de beheerder voortvloeiende verplichting om de regionale watersystemen te toetsen in samenhang met het GGOR.
+Met behulp van situatietekeningen (en waar mogelijk overige gegevens met betrekking tot de bergings- en afvoercapaciteit) wordt in de legger aangegeven wat de vereiste en te handhaven afmetingen van de te onderscheiden oppervlaktewaterlichamen of categorieën van oppervlaktewaterlichamen, de daaraan grenzende beschermingszones alsmede van de bergingsgebieden zijn.
+De gegevens in de legger zijn mede van belang voor de ruimtelijke reikwijdte van verbods- en beheerbepalingen ingevolge de Waterwet of de waterschapskeur (de werkingssfeer het vereiste van vergunningen of ontheffingen). Omdat hieruit gevolgen kunnen voortvloeien voor belanghebbende eigenaren en gebruikers van onroerende zaken die nabij waterstaatswerken zijn gelegen ligt, ligt het in de rede dat bij de voorbereiding van de legger de procedure, bedoeld in afdeling 3.4 van de Awb, wordt gevolgd.
+Artikel 10.30, Opstellen peilbesluiten
+De verplichting tot het vaststellen van een peilbesluit is in deze verordening alleen opgelegd voor 2 categorieën van gebieden. In de eerste plaats zijn dit de grensoverschrijdende peilvakken waarvoor door een van de buurprovincies een verplichting tot het opstellen van een peilbesluit in de verordening is opgenomen. Hiermee wordt een goede afstemming met de buurprovincies bereikt. In de tweede plaats betreft het gebieden waarbij het waterschap in het beheerplan heeft aangegeven dat het gewenst is om hier peilbesluiten voor vast te stellen.
+Artikel 10.31, Inhoud peilbesluit
+In dit artikel wordt aangegeven welke informatie het peilbesluit ten minste bevat.
+In verband met de wisselvalligheid van weersomstandigheden (nat of droog) hebben waterschappen behoefte aan een flexibel peilbeheer. Het tweede lid van artikel 5.2 van de Waterwet voorziet er daarom in dat peilbesluiten door de toepassing van bandbreedten flexibel kunnen zijn. In het peilbesluit kan zo nodig worden aangegeven welke peilen of bandbreedten in bepaalde delen van het jaar worden aangehouden. Het waterschap heeft de inspanningsverplichting om de in het peilbesluit aangegeven waterstanden te handhaven.
+De toelichting bij het peilbesluit dient op grond van onderdeel a van het tweede lid inzicht te gegeven in de verhouding tussen de gekozen oppervlaktewaterstanden ten opzichte van het optimale grond- en oppervlaktewaterregime. De in het tweede lid, onder a genoemde "aan het besluit ten grondslag liggende afwegingen" bevatten in ieder geval de GGOR. Dit betekent dat duidelijk moet worden toegelicht hoe de GGOR zijn vertaling heeft gekregen in het peilbesluit.
+Artikel 10.34, Projectprocedure voor waterstaatswerken
+Bij of krachtens provinciale verordening kunnen projecten worden aangewezen die zodanig belangrijk zijn voor het goed functioneren van het watersysteem dat deze alleen kunnen worden gerealiseerd door het gebruiken van de projectenprocedure. Er is ten behoeve van de transparantie voor gekozen de projecten bij verordening aan te wijzen. Dat biedt het voordeel dat vooraf duidelijk is voor welke projecten de projectenprocedure dient te worden ingezet. De projectenprocedure brengt immers belangrijke gevolgen met zich mee.
+Titel 4.6, Handelingen in het watersystemen
+Algemeen
+In lijn met het uitgangspunt "decentraal wat kan, centraal wat moet" zijn in de Waterwet de eigen verordenende bevoegdheden van provincie en waterschap niet verder ingeperkt dan nodig. Dit blijkt onder andere uit hoofdstuk 6 van de Waterwet, waar ruimte wordt geboden aan provincie en waterschap om zelf in de benodigde regelgeving te voorzien. Alleen waar dat nodig is met het oog op internationale verplichtingen of bovenregionale belangen, zullen door het Rijk regels worden gesteld. Dit betekent dat, waar van rijkswege gestelde regels ontbreken, waterschappen en provincies bevoegd zijn om daarin zelf bij verordening te voorzien. De waterschappen zijn als watersysteembeheerder verantwoordelijk voor de regulering van de handelingen in het regionale watersysteem. De Waterwet maakt hierop een uitzondering voor een drietal specifieke categorieën van grondwateronttrekkingen. Deze categorieën zijn opgenomen in artikel 6.4 van de Waterwet. Het betreft onttrekkingen ten behoeve van de openbare drinkwatervoorziening, koude- en warmteopslagsystemen en onttrekkingen van meer dan 150.000 m3 per jaar ten behoeve van industriële toepassingen. Voor deze categorieën van onttrekkingen kunnen door de provincie bij of krachtens verordening regels worden gesteld. Het infiltreren van water ten behoeve van voornoemde toepassingen valt ook onder het bevoegd gezag van GS.
+Onttrekkingen voor andere doeleinden kunnen worden gereguleerd door de waterschappen. De Waterwet laat de waterschappen de mogelijkheid voor de overige onttrekkingen een verbodsstelsel te introduceren met de mogelijkheid van vergunningen, algemene regels en vrijstellingen. De provincie heeft de mogelijkheid de regulering van de overige onttrekkingen te sturen via instructieregels bedoeld in artikel 3.11 van de Waterwet.
+In deze titel is daardoor een gedifferentieerd stelsel van regels vastgelegd. Deels hebben de regels betrekking op de specifieke categorieën van onttrekkingen en infiltraties die onder het bevoegd gezag van gedeputeerde staten vallen. Voor het overige deel zijn in deze titel instructiebepalingen opgenomen die mede sturend zijn voor de invulling van het verbodsstelsel bij de waterschappen en het grondwaterregister.
+Artikelsgewijs
+Artikel 10.37, Grondwaterregister
+De inrichting van het grondwaterregister is niet expliciet geregeld in de Waterwet, maar er wordt naar verwezen in artikel 7.4, eerste lid, onder c, van de Waterwet. Dit houdt in dat de provincie bevoegd is daarin zelf bij of krachtens verordening te voorzien. Het grondwaterregister is gekoppeld aan de grondwaterheffing. Deze grondwaterheffing kan van toepassing zijn op onttrekkingen die onder het bevoegd gezag van provincie en waterschap vallen. Dit brengt met zich mee dat het grondwaterregister moet worden gevuld met gegevens die door de provincie en het waterschap afzonderlijk worden verkregen. Artikel 10.37 geeft hier invulling aan door te bepalen dat de gegevens die door provincie en waterschap worden verkregen in het register moeten worden opgenomen. Het beheer van het grondwaterregister is expliciet neergelegd bij GS. Om er zorg voor te dragen dat het register actueel is en blijft, moeten de waterschappen hun gegevens binnen 3 maanden nadat zij deze hebben verkregen doorgeven aan GS.
+In overleg tussen IPO en Unie van Waterschappen wordt gewerkt aan het opzetten van een landelijk register. Ook bij een landelijk register is het noodzakelijk de verantwoordelijkheid voor het grondwaterregister bij een daar toe aangewezen bestuursorgaan neer te leggen. De aangewezen bestuursorganen kunnen gezamenlijk besluiten een landelijk register in te richten en te vullen.
+Artikel 10.38, Registratieplicht
+- Eerste lid
+In artikel 10.38 is de registratieplicht vastgelegd voor de categorieën van onttrekkingen die onder het bevoegd gezag vallen van GS. De registratieplicht voor de overige categorieën is bij instructiebepaling geregeld. In het vierde lid is de verplichting voor het algemeen bestuur van het waterschap opgenomen om bij verordening te regelen dat degene die water onttrekt uit een grondwaterlichaam en degene die water infiltreert in een grondwaterlichaam de gegevens bedoeld in het eerste lid verstrekt aan het dagelijks bestuur.
+Artikel 6.15 van de Waterwet geeft een regeling voor die gevallen waarin er sprake is van samenloop van bevoegdheden. In een dergelijk geval kan op een aanvraag om vergunning voor het onttrekken van water aan een grondwaterlichaam worden beslist door een bestuursorgaan dat niet primair het bevoegd gezag heeft. Artikel 10.38 blijft in dergelijke gevallen van toepassing. Dit houdt in dat ook in die gevallen waarin een ander bestuursorgaan op de vergunningaanvraag beslist, gevolg moet worden gegeven aan de registratieplicht die in artikel 10.38 is opgenomen respectievelijk die in een waterschapsverordening is opgenomen.
+- Tweede lid
+In het tweede lid is bepaald dat gedeputeerde staten nadere regels kunnen vaststellen omtrent de wijze van meting en registratie. De Algemene maatregel van bestuur waarin deze uitwerking was neergelegd is namelijk niet in het Waterbesluit geïncorporeerd. De nadere regels kunnen in ieder geval betrekking hebben op de wijze en de plaats van meting, de toegestane afwijking het meetresultaat (de vereiste nauwkeurigheid) en het meten van de kwaliteit van het te infiltreren water.
+Deze nadere regels gelden niet direct voor de onttrekkingen en infiltraties die onder het bevoegd gezag van het waterschap vallen. In het derde lid is daarom opgenomen dat de nadere regels in overleg met het dagelijks bestuur van het waterschap worden vastgesteld. Daarbij ligt het in de rede dat het waterschap in voorkomende gevallen de regels voor het meten en registreren eveneens vaststelt.
+- Derde lid
+Deze instructiebepaling hangt samen met het grondwaterregister (artikel 10.37) en wordt aan het waterschap opgelegd vanwege het grote provinciale belang bij registratie. Een betrouwbaar grondwaterregister is essentieel, zowel voor beleidsinhoudelijke beslissingen door provincie en waterschap (zoals belangenafweging bij vergunningverlening) als voor de provinciale grondwaterheffing. Een betrouwbaar grondwaterregister heeft met name waarde indien zowel de grondwateronttrekkingen waarvoor gedeputeerde staten bevoegd zijn als de grondwateronttrekkingen waarvoor het dagelijks bestuur bevoegd is onder de registratieplicht vallen. Op die manier ontstaat een dekkend beeld van de belangrijkste grondwateronttrekkingen. Het betreft hier de voortzetting van het provinciale meldingenbeleid. Deze meldingen zijn tevens van belang in verband met de beoordeling en toetsing aan de gebieden op grond van de Natuurbeschermingswet.
+Artikel 10.39, Ambtshalve inschrijving in grondwaterregister
+De ambtshalve inschrijving in het openbaar register met terugwerkende kracht tot de datum, waarop de onttrekking is aangevangen, is noodzakelijk in verband met de grondwaterheffing.
+Artikel10.40, Onttrekking van grondwater en infiltratie van water
+Op grond van artikel 6.4 van de Waterwet zijn gedeputeerde staten het bevoegd gezag voor een drietal categorieën van onttrekkingen van grondwater c.q. infiltraties van water. Het betreft hier industriële onttrekkingen van meer dan 150.000 m3/jaar, openbare drinkwatervoorziening of bodemenergiesystemen. Bij het verlenen van de watervergunning zal deze worden getoetst aan een aantal criteria. De criteria genoemd in het eerste lid zijn bedoeld als richtlijnen: bij het aanvragen van de vergunning zal door de aanvrager inzicht hierover moeten worden gegeven en er zullen voorschriften worden opgenomen met betrekking tot deze criteria.
+De criteria genoemd in het tweede lid geven een hard afwegingskader. Indien niet kan worden voldaan aan deze criteria zal de vergunning niet worden verleend. Hierdoor is het voor de aanvrager vooraf duidelijk onder welke omstandigheden een vergunning verleend kan worden.
+Het betreft hier voortzetting van het vergunningverleningbeleid zoals dat al voor de vaststelling van deze wijzigingsverordening werd uitgevoerd.
+TITEL 10.6, FINANCIËLE BEPALINGEN GRONDWATER
+In artikel 7.14a, eerste lid, van de Waterwet is bepaald dat degene die bij een vergunninghouder een vordering kan indienen tot vergoeding van schade die is veroorzaakt door een onttrekking van grondwater of infiltratie krachtens een watervergunning, eerst gedeputeerde staten kan verzoeken een onderzoek in te stellen. Deze voorziening houdt verband met de in artikel 5.22 van de Waterwet opgenomen gedoogplicht. Deze houdt in dat rechthebbenden ten aanzien van onroerende zaken waarin het grondwater invloed ondergaat door een onttrekking of infiltratie krachtens een watervergunning, verplicht zijn die onttrekking of infiltratie te gedogen.
+Deze bepalingen zijn overgenomen uit de Grondwaterwet (artikel 37, eerste lid, respectievelijk artikel 33).
+Het faciliteren van de burger die overweegt een schadeclaim in te dienen bij de vergunninghouder werd door de wetgever wenselijk geacht vanwege het complexe karakter van schadevragen die samenhangen met grondwateronttrekkingen, de voor het beoordelen daarvan benodigde specifieke kennis en de hoge kosten van het inhuren van dergelijke kennis voor de burger.
+De wetgever achtte het tevens wenselijk dat de vraag of er schade is en zo ja wat de omvang van die schade is door een onpartijdige partij werd vastgesteld. In verband daarmee was in de Grondwaterwet de bepaling opgenomen (artikel 37, tweede lid) dat gedeputeerde staten een verzoek tot het instellen van een onderzoek in handen stellen van een commissie van deskundigen die daarover advies uitbrengt aan de verzoeker. Ter uitvoering daarvan hebben gedeputeerde staten van de provincies in 1996 gezamenlijk 1 commissie ingesteld, de Commissie van Deskundigen Grondwaterwet.
+In de Waterwet ontbreekt de verplichting tot het instellen van een commissie van deskundigen. Het is aan de provincies overgelaten om te bepalen op welke wijze zij verzoeken als bedoeld in artikel 7.14a, eerste lid, van de Waterwet behandelen. In IPO-verband is uitgesproken dat het wenselijk is vast te houden aan één landelijke, onafhankelijk opererende commissie vanwege het beperkte aantal verzoeken op jaarbasis, de complexiteit van de schadevragen, de wenselijkheid van bundeling van expertise voor het beoordelen van die schadevragen en voorts vanwege de voordelen van een landelijk toegepaste uniforme werkwijze bij de behandeling van verzoeken. In verband hiermee zijn in dit hoofdstuk de bepalingen uit de Grondwaterwet omtrent de verplichting tot het instellen van een commissie van deskundigen en de werkwijze van die commissie overgenomen. Wel is de procedure qua termijnen en terminologie op enkele punten in overeenstemming gebracht met de Awb.
+Hierbij wordt nog opgemerkt dat artikel 7.14a, eerste lid, van de Waterwet ook van toepassing kan zijn op verzoeken die betrekking hebben op grondwateronttrekkingen die zijn vergund door een waterschapsbestuur. Dat betekent dat de bepalingen van dit hoofdstuk ook op die verzoeken van toepassing zijn. Om die reden is in artikel 10.42, eerste lid, en in artikel 10.43, vijfde lid, bepaald dat in dat geval het desbetreffende waterschapsbestuur wordt geïnformeerd over de adviesaanvraag en dat het advies ook wordt toegezonden aan dat bestuur.
+Het ligt in de rede dat de commissie van deskundigen ook wordt ingeschakeld bij een verzoek op grond van artikel 7.14a, tweede lid, van de Waterwet. In dat artikellid is bepaald dat gedeputeerde staten rechthebbenden ten aanzien van een onroerende zaak een schadevergoeding toekennen in het geval er sprake is van meer dan 1 grondwateronttrekking en binnen redelijke termijn niet is vast te stellen door welke onttrekking de schade wordt veroorzaakt. Bij een dergelijk verzoek brengt de commissie van deskundigen haar advies uit aan GS.
+HOOFDSTUK 12
+In de Waterwet is expliciet een regeling opgenomen voor het vaarwegenbeheer. Dit betekent dat de artikelen met betrekking tot het vaarwegen beheer in hoofdstuk 12 vervallen en worden opgenomen in het nieuwe hoofdstuk 10.
+Artikel 12.1
+In het artikel stonden de begripsbepalingen. Omdat het artikel ingrijpend gewijzigd moest worden, is het bestaande artikel in zijn geheel vervallen en is een nieuw artikel 12.1 vastgesteld.
+Artikel 12.2
+De zinsnede wegen en waterwegen is in het artikel vervangen door de zinsnede wegen. Tevens is het derde lid vervallen, dat betrekking heeft op het onderdeel waterwegen.
+Artikel 12.3
+In het derde lid is het gedeelte dat betrekking heeft op vaarwegen vervallen.
+Artikel 12.4
+Dit artikel is vervallen. De inhoud van het artikel is opgenomen in het nieuwe hoofdstuk 10.
+Artikel 12.5
+Dit artikel is vervallen. De inhoud van het artikel is opgenomen in het nieuwe hoofdstuk 10.
+Artikel 12.6
+Dit artikel is vervallen. De inhoud van het artikel is opgenomen in het nieuwe hoofdstuk 10.
+Artikel 12.8
+De zinsnede wegen en waterwegen is in het artikel vervangen door de zinsnede wegen. Het derde lid is vervallen. De inhoud van het derde lid is opgenomen in het nieuwe hoofdstuk 10.
+Artikel 12.9
+Het eerste lid, onder a, is vervallen. De inhoud van het eerste lid, onder a, is opgenomen in het nieuwe hoofdstuk 10. Ook is het eerste lid, onder c, vervallen. De inhoud van het eerste lid, onder c, is opgenomen in het nieuwe hoofdstuk 10.
+De kaarten behorende bij de POV zijn aangepast op de volgende punten.
+• - De begrenzing van het waterwingebied van de waterwinning Noordbargeres te Emmen is aangepast.
+Voor de uitvoering van het Atalanta-poject is het noodzakelijk een wijziging door te voeren van begrenzing van het waterwingebied van de waterwinning Noordbargeres te Emmen. Onderdeel van het Atalanta-project is de verplaatsing van het Noorderdierenpark naar de Noordbargeres. Bij de uitwerking van de plannen voor het nieuwe dierenpark is gebleken dat het plangebied het bestaande wingebied deels overlapt en een aantal putten te dicht benaderd. In overleg tussen gemeente, Noorderdierenpark, WMD en de provincie worden 2 putten verplaatst en het waterwingebied aangepast. Door deze wijziging draagt de provincie bij aan het realiseren van het project Atalanta.
+• - Het waterwingebied Hoogeveen is aangepast.
+De gemeente Hoogeveen is voornemens het gebied gelegen in en rondom het waterwingebied van de waterwinning Hoogeveen (Bentickspark) her in te richten. De WMD wil medewerking aan deze herinrichting verlenen door de pompputten die in de weg liggen te verplaatsen. De voorliggende grensaanpassing is bedoeld om deze ontwikkelingen (voor de korte en de langere termijn) mogelijk te maken. Aan de wijziging ligt een schriftelijk verzoek van de WMD ten grondslag.
+• - Geringe aanpassingen op de kaart van het grondwaterbeschermingsgebied Drentsche Aa.
+Er zijn wat geringe aanpassingen aangebracht op de kaart van het grondwaterbeschermingsgebied Drentsche Aa. Uit onderzoek is gebleken dat deze wel voldoen aan de criteria van het beschermingsgebied (permanent watervoerende watergangen) maar nog niet op kaart waren opgenomen. Met deze wijziging wordt dit in overeenstemming gebracht met elkaar.
+## Toelichting op de vierde wijzigingstranche
+## Inleiding
+Een aantal ontwikkelingen maakt het noodzakelijk de POV Drenthe aan te passen. Het betreft hier de volgende zaken.
+• 1. Aanpassing hoofdstuk 1 (begripsbepalingen) in verband met het opnemen van een nieuw hoofdstuk 10 in de POV en om het hoofdstuk in overeenstemming te brengen met recente wetswijzigingen.
+• 2. Aanpassing hoofdstuk 6 (bodemsanering) in verband met het vervallen van de bevoegdheid voor de sanering van waterbodems. De Waterwet legt deze bevoegdheid neer bij de waterschappen. Deze wijziging maakt het noodzakelijk de bepalingen in dit hoofdstuk met betrekking tot waterbodems te laten vervallen.
+• 3. Het vervallen van hoofdstuk 10 en 11 in verband met het vervallen van de wettelijke grondslagen (Wet op de waterhuishouding en Grondwaterwet). De inwerkingtreding van de Waterwet op 22 december 2009 maakt het noodzakelijk een nieuw hoofdstuk in de POV op te nemen waarin onderwerpen met betrekking tot de waterhuishouding en grondwateronttrekkingen zijn opgenomen. De hoofdstukken 10 en 11 worden daarom vervangen door een nieuw in de POV op te nemen hoofdstuk, te weten hoofdstuk 10, Water.
+• 4. Aanpassing van hoofdstuk 12 (wegen en waterwegen) in verband met het verplaatsen van het onderdeel waterwegen naar een nieuw in de POV op te nemen hoofdstuk, te weten hoofdstuk 10, Water. In de Waterwet is expliciet een regeling opgenomen voor het vaarwegenbeheer.
+• 5. Het doorvoeren van een wijziging van begrenzing van het waterwingebied van de waterwinning Noordbargeres te Emmen.
+Voor de uitvoering van het Atalanta-project is het noodzakelijk een wijziging door te voeren van begrenzing van het waterwingebied van de waterwinning Noordbargeres te Emmen. Onderdeel van het Atalanta-project is de verplaatsing van het Noorderdierenpark naar de Noordbargeres. Bij de uitwerking van de plannen voor het nieuwe dierenpark is gebleken dat het plangebied het bestaande wingebied deels overlapt en een aantal putten te dicht benadert. In overleg tussen gemeente, Noorderdierenpark, WMD en de provincie is het voorstel om twee putten te verplaatsen en het waterwingebied aan te passen. Door deze wijziging draagt de provincie bij aan het realiseren van het project Atalanta.
+• 6. Het aanpassen van het waterwingebied Hoogeveen.
+De gemeente is voornemens het gebied gelegen in en rondom het waterwingebied van de waterwinning Hoogeveen (Bentinckspark) her in te richten. De WMD wil medewerking aan deze herinrichting verlenen door pompputten die in de weg liggen te verplaatsen. De voorliggende grensaanpassing is bedoeld om deze ontwikkelingen (voor de korte en de langere termijn) mogelijk te maken. Aan de wijziging ligt een schriftelijk verzoek van de WMD ten grondslag.
+•7. Het opnemen van een correcte verwijzing naar de Wet gewasbeschermingsmiddelen en biociden en het aanpassen van de definitie van de spuitvrije zone's aan het Lozingenbesluit open teelt en veehouderij.
+In de regeling met betrekking tot de bescherming van de Drentsche Aa is een correcte verwijzing naar de Wet gewasbeschermingsmiddelen en biociden opgenomen en is de definitie van de spuitvrije zone's aangepast aan het Lozingenbesluit open teelt en veehouderij. In de huidige bepalingen voor de bescherming van het grondwaterbeschermingsgebied Drentsche Aa is een verwijzing opgenomen naar de Bestrijdingsmiddelenwet 1962. Deze wet is inmiddels vervangen door de Wet gewasbeschermingsmiddelen en biociden. Deze verwijzing dient als zodanig te worden aangepast. Daarnaast is in de POV de spuitvrije zone afgeleid van de rand van het oppervlaktewater. Aangezien deze grens nogal flexibel is, wordt er vanuit de handhaving getwijfeld aan de handhaafbaarheid van deze bepaling. Voorgesteld wordt aan te sluiten bij de omschrijving zoals is opgenomen in het Lozingenbesluit open teelt en veehouderij: de insteek van de watergang. Tot slot worden wat geringe aanpassingen voorgesteld op de kaart van het beschermingsgebied. Een aantal waterlopen wordt aangewezen en een aantal waterlopen komt te vervallen.
+## Toelichting per artikel (algemeen + artikelsgewijs)
+HOOFDSTUK 1
+De wijzigingen houden vooral verband met het opnemen van een nieuw hoofdstuk 10 in de POV. Ook moet het hoofdstuk in overeenstemming gebracht worden met recente wetswijzigingen, zoals de vervanging van de Bestrijdingsmiddelenwet 1962 door de Wet gewasbeschermingsmiddelen en biociden.
+Artikel 1.1.
+In het artikel staan de begripsbepalingen. Omdat het artikel ingrijpend gewijzigd moest worden, hebben wij het bestaande artikel in zijn geheel laten vervallen en een nieuw artikel 1.1 vastgesteld. Bovendien is ook de nummering gewijzigd.
+HOOFDSTUK 6
+De bevoegdheid voor de sanering van waterbodems vervalt voor de provincie. De Waterwet legt deze bevoegdheid neer bij de waterschappen. Deze wijziging maakt het noodzakelijk de bepalingen in dit hoofdstuk met betrekking tot waterbodems te laten vervallen. Hierdoor vervalt titel 6.2. Het gaat om de artikelen 6.5, 6.6, 6.7 en 6.8.
+HOOFDSTUK 7
+De Bestrijdingsmiddelenwet 1962 is inmiddels vervangen door de Wet gewasbeschermingsmiddelen en biociden. Deze verwijzing dient als zodanig in hoofdstuk 7 te worden aangepast.
+Artikel 7.8.
+In artikel 7.8 is de term bestrijdingsmiddelen vervangen door de term gewasbeschermingsmiddelen. Verder is de verwijzing naar de Bestrijdingsmiddelenwet 1962 vervangen door een verwijzing naar de Wet gewasbeschermingsmiddelen en biociden.
+Artikel 7.14
+In artikel 7.14 is de term bestrijdingsmiddelen vervangen door de term gewasbeschermingsmiddelen.
+Artikel 7.15
+Bij de handhaving van dit artikel is enige twijfel ontstaan over de aanduiding van de grens van de spuitvrije zone: 5 m vanaf de rand van het oppervlaktewater. Deze twijfel zit vooral in het feit dat de grens van het oppervlaktewater een variabele grens is. Dit zou kunnen betekenen dat ook de omvang van de spuitvrije zone zou fluctueren bij een verschil in waterspiegel. Dit is een ongewenste situatie nog afgezien van de vraag of het juridisch mogelijk is een dergelijke variabele grens te handhaven. Daarom is besloten een andere grens vast te stellen. Hierbij is zoveel als mogelijk gekozen voor een grens die uitgaat van gangbare begrippen en overeenkomt met de grens die werd gehanteerd. Hierbij zijn wij uitgekomen bij de grens zoals deze is opgenomen in het Lozingenbesluit open teelt en veehouderij: de insteek van het oppervlaktewater. Hierbij wordt uitgegaan van een vaste grens die onafhankelijk is van de hoogte van de waterstand. Om zoveel als mogelijk uit te komen op de zelfde omvang als voorheen is ervoor gekozen de grens te leggen op 4 m vanuit de insteek van het oppervlaktewater.
+In dit artikel is daarnaast de term bestrijdingsmiddelen vervangen door de term gewasbeschermingsmiddelen en is de verwijzing naar de Bestrijdingsmiddelenwet 1962 vervangen door een verwijzing naar de Wet gewasbeschermingsmiddelen en biociden. Tot slot is de plant jacobskruiskruid toegevoegd bij de uitzonderingen voor het pleksgewijs bestrijden.
+HOOFDSTUK 10 EN 11
+Door de inwerkingtreding van de Waterwet op 22 december 2009 vervallen de wettelijke grondslagen (Wet op de waterhuishouding en Grondwaterwet) voor hoofdstuk 10 en 11.
+De inwerkingtreding van de Waterwet op 22 december 2009 maakt het noodzakelijk een nieuw hoofdstuk in de POV op te nemen waarin onderwerpen met betrekking tot de waterhuishouding en grondwateronttrekkingen zijn opgenomen. De hoofdstukken 10 en 11 worden daarom vervangen door een nieuw in de POV op te nemen hoofdstuk, te weten hoofdstuk 10, Water.
+Het nieuwe hoofdstuk 10 is van toepassing op de gebieden van de waterschappen Hunze en Aa's, Noorderzijlvest, Reest en Wieden en Velt en Vecht, voor zover gelegen binnen het grondgebied van de provincie Drenthe. Voor het gedeelte dat is gelegen binnen het grondgebied van de provincies Overijssel en Groningen zijn door deze provincies separate verordeningen opgesteld. In de voorbereiding is zoveel als mogelijk getracht deze verordeningen op elkaar af te stemmen.
+Titel 10.1, Normen
+Algemeen
+Op grond van artikel 2.4 van de Waterwet moeten bij provinciale verordening veiligheidsnormen worden vastgesteld voor waterkeringen. Het betreft hier andere dan de primaire waterkeringen die in beheer zijn bij het Rijk of een andere beheerder. In deze titel is daarin voorzien door het vastleggen van het gewenste beschermingsniveau van de regionale waterkeringen. De regionale waterkeringen zijn aangegeven op de als bijlage bij deze verordening behorende kaart(en). Op die kaart(en) is tevens voor elke waterkering de veiligheidsnorm aangegeven.
+Door het stellen van normen geeft de provincie in deze verordening nader invulling aan de reglementair opgedragen taak van de waterschappen, te weten de waterstaatkundige verzorging van zijn gebied.
+Artikelsgewijs
+Artikel 10.2, Veiligheidsnorm
+- Eerste lid
+In dit lid is bepaald aan welke veiligheidsnorm de regionale keringen moeten voldoen. De norm is uitgedrukt in een gemiddelde overschrijdingskans per jaar van de hoogste waterstand die de desbetreffende waterkering veilig moet kunnen keren. Deze veiligheidsnorm is onder andere gerelateerd aan de economische schade die bij het falen van de waterkering kan optreden of maatschappelijke ontwrichting. De uitgangspunten voor de berekening van de schade en de vertaling naar de norm zijn afgeleid van IPO-Leidraden die daartoe zijn opgesteld.
+- Derde lid
+Het vaststellen van het tijdstip waarop de verschillende regionale waterkeringen aan de gestelde veiligheidsnorm moeten voldoen is een aangelegenheid van het provinciaal bestuur. Bij de vaststelling van de regionale keringen door provinciale staten is tevens de datum van 1 januari 2015 opgenomen. Deze datum is feitelijk gelijk aan hetgeen de provincie Groningen heeft opgenomen in haar verordening
+Artikel 10.3, Regionale verdringingsreeks
+In artikel 2.9, tweede lid, van de Waterwet is bepaald dat bij provinciale verordening voor de regionale wateren de rangorde kan worden bepaald van de maatschappelijke en ecologische behoeften bij watertekorten. In dit artikel is van deze mogelijkheid gebruik gemaakt.
+Van watertekort is sprake indien de vraag naar water vanuit de verschillende maatschappelijke en economische behoeften groter is dan het aanbod. Hierbij gaat het om de beschikbaarheid van voldoende water van die kwaliteit die voor bepaalde behoeften nodig is. Het beheer van het regionale watersysteem is er, onder andere, op gericht alle watervragers zoveel mogelijk van het benodigde water te voorzien. In tijden van watertekort is dit echter niet meer mogelijk. De gevolgen voor waterverbruikers kunnen aanzienlijk zijn. De regionale verdringingsreeks biedt helderheid over welke behoeften in een situatie van watertekort voorgaan boven de anderen en draagt bij aan een slagvaardig en eenduidig optreden van de waterbeheerder in situaties van watertekorten.
+In artikel 2.1 van het Waterbesluit is de landelijke verdringingsreeks vastgelegd. De landelijke verdringingsreeks bepaalt hoe het beschikbare water in de door het Rijk beheerde wateren wordt verdeeld in tijden van watertekort. De reeks is daardoor van toepassing in alle rijkswateren. In de landelijke verdringingsreeks zijn de watergebruikers ingedeeld in 4 categorieën.
+Binnen de categorieën 1 en 2 is sprake van een door het Rijk vastgestelde prioriteitsvolgorde. Deze is bindend. Daarnaast is er een groot aantal gebieden, waar het oppervlaktewater niet door het Rijk wordt beheerd. Daarom is er binnen de categorieën 3 en 4 ruimte voor een regionale prioritering op basis van minimalisatie van de economische en maatschappelijke schade. Dat kan in principe betekenen dat elke partij of regio binnen categorieën 3 en 4 anders prioriteert. Een werkgroep heeft voor het gebied rondom het IJsselmeer geadviseerd om die prioritering voor Noord-Nederland zo veel mogelijk op elkaar af te stemmen.
+In het rapport Waterverdeling Noord-Nederland, Advies van de Werkgroep Regionale Uitwerking Verdringingsreeks Noord-Nederland, september 2006, is daar uitwerking aan gegeven. Op basis van dit rapport leggen de provincies rondom het IJsselmeer de verdringingsreeks voor onttrekkingen uit het IJsselmeer op deze wijze in de verordeningen vast.
+De uitzonderingbepaling in het eerste lid, onder d, geldt alleen wanneer met relatief kleine hoeveelheden water relatief grote sociaal-economische gevolgen als faillissementen te voorkomen zijn. Dit kan structureel van toepassing zijn of er kan in voorkomende gevallen incidenteel gebruik van worden gemaakt.
+Artikel 10.4, Normen waterkwantiteit
+Deze verplichting vloeit voort uit artikel 2.8 van de Waterwet. Voor verschillende gebieden worden normen gegeven waarbij de kans op wateroverlast als gevolg van grote hoeveelheden neerslag is gerelateerd aan het landgebruik en de te verwachten schade bij wateroverlast. De normen drukken het wenselijk geachte beschermingsniveau uit. De normering bakent de zorgplicht en inspanningsverplichting af die de waterbeheerder heeft op het vlak van het voorkomen, dan wel beperken van ontoelaatbare wateroverlast door inundatie (overstroming) vanuit oppervlaktewater ten gevolge van neerslag. Deze normering geeft daarmee helderheid voor de burgers en de bedrijven over hun eigen risico en verantwoordelijkheid ten aanzien van roerende en onroerende zaken.
+In het Nationaal Bestuursakkoord Water (2003) zijn werknormen opgenomen die voor de verschillende vormen van landgebruik het wenselijk geachte beschermingsniveau uitdrukken. De vormen van landgebruik die worden onderscheiden zijn: grasland, akkerbouw, hoogwaardige land- en tuinbouw, glastuinbouw en bebouwd gebied. Deze werknormen zijn uitgangspunt bij het bepalen van het voor een gebied toepasselijke beschermingsniveau. Voor specifieke gebieden kunnen door de waterbeheerder gemotiveerd andere normen worden aangehouden. Dit kan alleen als het een strengere norm betreft. Dit valt namelijk al binnen de bepaling ('niet vaker dan'). Voor bepaalde gebieden is het wenselijk lichtere normen aan te houden. De waterbeheerder doet hiertoe een gemotiveerd voorstel aan provinciale staten. Indien deze het voorstel overnemen worden de afwijkende normen vastgesteld en opgenomen in de provinciale verordening en het beheerplan van het waterschap. Eventuele maatregelen die nodig zijn om de bergings- en afvoercapaciteit van de regionale wateren aan de in deze verordening vastgelegde norm te laten voldoen neemt de beheerder op in het beheerplan zoals bedoeld in artikel 4.6 van de Waterwet.
+In het eerste en tweede lid wordt onderscheid gemaakt in het gebied binnen en buiten de bebouwde kom. Binnen de bebouwde kom is de normering voor wateroverlast vastgesteld op eens in de 100 jaar. Deze norm geldt voor de doeleinden bebouwing, hoofdinfrastructuur en spoorwegen. Voor alle overige doeleinden is een gemiddelde vastgesteld van eens in de 10 jaar. Hierbij moet worden gedacht aan parken en plantsoenen, waarvoor een norm van 1: 100 als onnodig zwaar wordt gezien.
+Buiten de bebouwde kom is de normering voor wateroverlast met name gerelateerd aan de economische waarde van het landgebruik. Hierbij dient terughoudend te worden omgegaan met de gronden die op de nominatie staan om aangewezen te worden als EHS maar nog niet zijn verworven. Investeringen in deze gebieden kunnen zeer snel als onrendabel worden aangemerkt. Voor natuurgebieden is geen norm in deze verordening opgenomen omdat doorgaans geen sprake is van wateroverlast. De basis voor de normering is vastgelegd in de kadernotitie Normering regionale wateroverlast provincie Drenthe.
+Om te bereiken dat de toetsing van de bergings- en afvoercapaciteit van de regionale wateren door de beheerders op uniforme wijze tot stand komt, is aan gedeputeerde staten de bevoegdheid gegeven nadere voorschriften te stellen.
+Het vaststellen van het tijdstip waarop de bergings- en afvoercapaciteit van de regionale wateren voor de eerste keer aan de gestelde norm moeten voldoen is bepalend voor de zorgplicht van de beheerder en is daarom een aangelegenheid van het provinciaal bestuur. In de afgelopen periode is er in diverse beleidsdocumenten van uitgegaan dat uiterlijk in 2015 voor de eerste keer wordt voldaan aan de in het eerste en tweede lid opgenomen normen. In bijzondere gevallen kan van deze datum gemotiveerd worden afgeweken.
+Om tijdig te kunnen waarnemen of watersystemen op orde blijven, is het noodzakelijk dat de toetsing van het watersysteem periodiek wordt herhaald. De periodieke toetsing wordt onderdeel van de waterbeheerplannen. Dat wil zeggen, eens per 12 jaar een volledige toetsronde, met in het tussenliggende zesde jaar een herziening van de normering voor zover daar aanleiding voor is. Alle waterschappen die (deels) in Drenthe liggen, voeren op gelijke wijze in 2015 de toetsronde uit, die in het NBW-actueel aangekondigd is.
+Artikel 10.5, Verslag toetsing watersysteem
+Het is gelet op de Memorie van toelichting bij artikel 2.14 van de Waterwet gewenst dat de beheerder de vinger "aan de pols van het watersysteem houdt" en periodiek nagaat in hoeverre de normen verwezenlijkt zijn.
+De resultaten van de beoordeling van het watersysteem en de bevindingen bij de beoordeling worden door de beheerder vervat in een verslag, dat wordt toegezonden aan GS. Het verslag heeft een ander karakter en wordt met een andere frequentie opgesteld dan de algemene voortgangsrapportage bedoeld in artikel 10.27. Om die reden maakt het verslag als bedoeld in artikel 10.5 geen deel uit van de algemene voortgangsrapportage.
+De beheerder draagt zorg voor de periodieke beoordeling van het watersysteem. Meer specifiek betekent dit de beoordeling van de primaire en regionale waterkeringen, de regionale wateren en de ondersteunende kunstwerken. Daarbij wordt beoordeeld in hoeverre de waterstaatwerken voldoen aan de gestelde normen met betrekking tot de veiligheid van de regionale waterkering respectievelijk het tegengaan van wateroverlast.
+De beheerder rapporteert de uitkomsten van deze beoordeling periodiek aan gedeputeerde staten zodat gedeputeerde staten kunnen nagaan of aan de normen is voldaan. Bij een periodieke rapportage gaan wij uit van een frequentie die overeenkomt met de beleidscyclus van het beheerplan zijnde eens per 6 jaar.
+In samenhang met het voorgaande kan in de rapportage aandacht worden besteed aan de uit het Nationaal Bestuursakkoord Water voortvloeiende verplichting voor de beheerder om de regionale watersystemen te toetsen aan de vastgestelde gebiedsnormen voor wateroverlast en de uitwerking van de gewenste grond- en oppervlaktewaterregimes (GGOR).
+In verband met de vereiste veiligheid, het tegengaan van wateroverlast en discussies met betrekking tot schaderegelingen en kostenverdeling is het van belang dat de toetsing van watersystemen op uniforme wijze kan worden uitgevoerd. Zodoende kan eenduidig worden bepaald wanneer het watersysteem kan worden gekwalificeerd als "op orde". In dit kader kan ook worden gewezen op de voorschriften die gedeputeerde staten ingevolge de verordening kunnen stellen met betrekking tot de beoordeling van waterstaatswerken.
+Titel 10.2, Toedeling beheer en vaarwegenbeheer
+Algemeen
+De Waterwet beoogt te bewerkstelligen dat landsdekkend is bepaald wie belast zijn met het beheer van watersystemen. In artikel 3.1 van de Waterwet is bepaald dat alle watersystemen of onderdelen daarvan die bij het Rijk in beheer zijn, worden aangewezen bij of krachtens Algemene maatregel van bestuur. In artikel 2, tweede lid, van de Waterschapswet is bepaald dat de zorg voor het regionale watersysteem bij reglement aan waterschappen wordt opgedragen, tenzij dat niet verenigbaar is met een goede organisatie van de waterstaatkundige verzorging. De reglementaire taakopdracht is gebiedsgericht.
+Op grond van artikel 3.2, eerste lid, van de Waterwet moeten bij provinciale verordening beheerders worden aangewezen voor de niet bij het Rijk in beheer zijnde watersystemen of onderdelen daarvan. Hierbij dient artikel 2, tweede lid, van de Waterschapswet in acht te worden genomen. Ter uitvoering van artikel 3.2 van de Waterwet is het waterschap in artikel 10.8 van deze verordening aangewezen als beheerder van het regionale watersysteem. Hierbij is verwezen naar de reglementaire omschrijving van de taak van het waterschap, zijnde 'de waterstaatkundige verzorging van zijn gebied, voor zover deze taak niet aan andere publiekrechtelijke lichamen is opgedragen'. Met de clausulering in de taakopdracht wordt bereikt dat de toedeling van beheer geen betrekking heeft op watersystemen die in beheer zijn bij het Rijk of op vaarwegbeheer dat als onderdeel van het watersysteembeheer bij een gemeente of provincie berust.
+De in deze titel opgenomen regeling gaat uit van het in de afgelopen jaren gevoerde provinciale beleid met betrekking tot het beheer van provinciale vaarwegen. Met deze regeling wordt niet beoogd hierin verandering aan te brengen.
+Aard van de bepalingen
+De artikelen in deze titel hebben betrekking op het vaarwegbeheer en voor een deel op het nautisch beheer. Bij vaarwegbeheer gaat het om instandhouding van de natte infrastructuur waarover scheepvaartverkeer moet kunnen plaatsvinden, alsmede om aanleg en verbetering van objecten die deel uitmaken van die infrastructuur. In de praktijk wordt dit wel omschreven als 'het instandhouden van de bak'. Voor het (technisch) beheer van de droge infrastructuur zijn richtlijnen opgenomen in de Wegenwet. Voor het beheer en onderhoud van de natte infrastructuur is echter geen specifiek wettelijk kader beschikbaar.
+Het nautisch beheer is gericht op het bevorderen van een veilige, vlotte en doelmatige afwikkeling van het scheepvaartverkeer, onder andere door regulering en handhaving. Het nautisch beheer is hoofdzakelijk geregeld in de zogenaamde hogere regelgeving: de Scheepvaartverkeerswet en de daaruit voortvloeiende regelingen, zoals onder meer het Binnenvaartpolitiereglement (BPR) en het Besluit administratieve bepalingen scheepvaartverkeer (BABS).
+Artikelsgewijs
+Artikel 10.7, Begripsomschrijvingen
+- Vaarweg
+De omschrijving is ontleend aan artikel 1.01, onderdeel D 5, van het BPR. Binnen deze omschrijving valt het begrip vaarwater, zijnde het gedeelte van een vaarweg dat feitelijk door de scheepvaart kan worden gebruikt. De beperking 'voor zover vermeld op lijst A of lijst B' voorkomt dat ook sloten en dergelijke kleine wateren in principe onder het regime van de verordening vallen.
+- Werk
+Strikt genomen moet een vaarweg ook als een 'werk' als hier bedoeld worden beschouwd, maar voor de hanteerbaarheid van de bepalingen van de verordening is hiervan afgezien.
+Artikel 10.9, Toedeling beheer vaarwegen
+Dit artikel voorziet in de aanwijzing van beheerders voor vaarwegen. Hiertoe is op lijsten aangegeven welke gemeente, welke provincie of welk waterschap is belast met het vaarwegbeheer van regionale en lokale wateren. Door middel van deze lijsten wordt de bestaande beheersituatie vastgelegd. Daarmee zijn deze lijsten voor de bestuurspraktijk bepalend voor de vraag welk bestuursorgaan een zorgplicht dan wel bevoegdheden heeft voor het vaarwegbeheer van bedoelde wateren. Lijst A bevat alleen de vaarwegen die bij de provincie in beheer zijn. Op Lijst B (de 'toezichtlijst') zijn alle wateren opgenomen die van lokale betekenis zijn voor de scheepvaart en waarop de provincie het toezicht heeft.
+Artikel 10.10, Belangenbescherming
+Deze bepaling geeft een nadere uitwerking van de doelstellingen die met deze titel worden nagestreefd. In afwijking van het IPO-model is ervoor gekozen ook ecologische, cultuurhistorische, archeologische, recreatieve, toeristische of landschappelijke belangen hierin mee te nemen. Deze belangen waren ook al opgenomen in de vorige POV. Er is hier dus sprake van voortzetting van huidig beleid.
+Artikel 10.11, Vaarwegdiepte en vaarwegonderhoud
+Het derde lid bindt het vaststellen en wijzigen van de minimaal benodigde vaarwegdiepten aan de openbare voorbereidingsprocedure van afdeling 3.4 van de Awb. Bij het vaststellen van de minimaal benodigde vaarwegdiepten wordt rekening gehouden met de Richtlijnen vaarwegen 2005, onderdeel 3, Vaarwegvakken, en de vigerende CEMT-klassen en richtlijnen van het BRTN-convenant.
+Artikel 10.13, Bedieningstijden van bruggen en sluizen
+Het belang van de beroepsvaart en de recreatievaart is gediend met een optimale afstemming van de bedieningsregimes van de beweegbare bruggen en sluizen. Dit artikel legt daarom de vaststelling van deze bedieningstijden exclusief (uitgezonderd de spoorbruggen) bij gedeputeerde staten (eerste lid). Voorts moeten de beheerders van deze bruggen en sluizen ervoor zorgen (derde lid) dat ze minimaal bediend worden op de tijden die door gedeputeerde staten zijn vastgesteld. Hierbij wordt rekening gehouden met de Richtlijnen vaarwegen 2005, onderdeel 7, Bediening. Voor de vaststelling van de bedieningstijden voor vaarwegen die opgenomen zijn in de BRTN worden de BRTN-richtlijnen ten behoeve van de recreatievaart tevens meegewogen. Het vierde lid bindt het vaststellen en wijzigen van bedieningstijden van bruggen en sluizen aan de openbare voorbereidingsprocedure van de Awb.
+Artikel 10.14, Onttrekken van een vaarweg aan het openbaar scheepvaartverkeer
+Deze bepaling is vergelijkbaar met artikel 8, tweede lid, van de Wegenwet, op grond waarvan (land)wegen in beheer bij een provincie of een waterschap aan het openbaar verkeer onttrokken kunnen worden. De onttrekking van een vaarweg of een gedeelte daarvan aan het openbaar scheepvaartverkeer is blijvend en geldt voor elk type schip in de zin van artikel 1, eerste lid, onderdeel b, van de Scheepvaartverkeerswet.
+Artikel 10.15, Absoluut verbod voor provinciale vaarwegen (lijst A) en de bijbehorende werken
+De vaarwegbeheerders van de wateren van lijst B dienen ten aanzien van de in dit artikel genoemde onderwerp zelf te voorzien in regelgeving.
+De in dit artikel opgenomen verboden zijn zoveel als mogelijk opgenomen in de vorm van doelvoorschriften. Zo is het verboden het voor het scheepvaartverkeer noodzakelijke uitzicht op en bij scheepvaartwegen te belemmeren. Ook is het verboden de veiligheid en het vlotte verloop van het scheepvaartverkeer op de scheepvaartweg in gevaar te brengen. Dat betekent bijvoorbeeld dat het verboden is houtgewas of takken van bomen zodanig in of boven de vaarweg te laten hangen dat zij hinder voor de scheepvaart veroorzaken.
+Dit betekent ook dat er langs de oever geen werken mogen worden opgericht, bijvoorbeeld in de bocht van een scheepvaartweg, die het uitzicht van het scheepvaartverkeer belemmeren. De afstand van het werk tot de vaarweg is hierbij niet van belang. Bij twijfel kunnen de Richtlijnen vaarwegen 2005 uitkomst bieden of kan contact worden opgenomen met de desbetreffende beleidsafdeling.
+In het BPR en de keuren van de waterschappen staan soortgelijke bepalingen als opgenomen in sub c van dit artikel. In het BPR is geregeld dat het verboden is vanaf een schip stoffen in het water te brengen. Daarnaast is in de keuren van de waterschappen, die ook voor de scheepvaartwegen gelden, ook geregeld dat er geen stoffen in het water mogen worden gebracht. Omdat het regelmatig voorkomt dat er maaisel zodanig op de oever wordt gebracht dat het in het water terecht kan komen en daar adequaat gehandhaafd moet kunnen worden, is een expliciet verbod in de verordening opgenomen.
+De verboden van dit artikel zijn absoluut: ontheffing ervan is niet mogelijk.
+Artikel 10.16, Verboden met ontheffingsmogelijkheid voor provinciale vaarwegen (lijst A) en de bijbehorende werken
+De vaarwegbeheerders van de wateren van lijst B dienen ten aanzien van de in dit artikel genoemde onderwerp zelf te voorzien in regelgeving.
+Het eerste lid bevat verboden waarvan ontheffing kan worden gevraagd. In sub c van dit lid is bepaald dat er geen veranderingen mogen worden aangebracht aan de scheepvaartweg. Tot veranderingen behoren onder meer verbredingen, versmallingen, verdiepingen of verondiepingen van de scheepvaartweg.
+Voor het houden van wedstrijden is op grond van artikel 1.23 van het BPR toestemming vereist. In dit artikel (eerste lid, onder e) is tevens een regeling opgenomen voor situaties waarin de wedstrijd of evenement niet op of in het water worden gehouden maar wel over of boven het water. Hierbij kan worden gedacht aan paalstokspringen. Deze activiteit valt wel onder de verordening, maar niet onder het BPR.
+Artikel 10.17, Provinciaal belang
+Dit artikel bepaalt de uitzonderingspositie van personen die handelen in opdracht van of in het belang van de provincie. Het kan voorkomen dat er werkzaamheden moeten worden verricht waardoor schade of hinder ontstaat. Voorwaarde is daarbij wel dat de werkzaamheden worden verricht ten behoeve van de bescherming en instandhouding van wegen en waterwegen.
+Artikel 10.18, Aanwijzing andere ligplaats
+Dit artikel vormt een aanvulling op de nautische regel van het BPR ten aanzien van de verhaalplicht van schepen die afgemeerd zijn op plaatsen waar andere schepen moeten worden geladen of gelost. Deze verhaalplicht wordt in dit artikel ook opgelegd aan schepen wanneer onderhoudswerkzaamheden moeten worden uitgevoerd.
+Titel 10.3, Regionaal waterplan en beheerplannen
+Algemeen
+De bepalingen onder deze titel hebben betrekking op de totstandkoming en de inhoud van het regionaal waterplan en het beheerplan en de voortgangsrapportage. De bestaande planstructuur van de Wet op de waterhuishouding is grotendeels overgenomen in de Waterwet. provinciale staten stellen het regionaal waterplan vast. De waterschappen houden hier rekening mee bij het opstellen van hun beheerplan. Dit is de waarborg dat het uitvoeringsgerichte beheerplan goed wordt ingebed in het breder afgewogen regionaal waterplan. De Waterwet geeft in artikel 4.4 duidelijk aan welke onderdelen het regionaal waterplan moet bevatten. De verordening is op dit punt dan ook beknopt. De verordening gaat uitgebreider in op de in het beheerplan op te nemen onderdelen.
+Artikelsgewijs
+Artikel 10.19, Inhoud regionaal waterplan
+- Tweede lid
+Integratie van water en ruimtelijke ordening is alleen mogelijk wanneer de ruimtelijke gevolgen van de wateropgaven worden uitgewerkt in ruimtelijke plannen. De Waterwet brengt daarom een koppeling aan tussen de wateropgaven en de uitwerking daarvan door het regionaal waterplan tegelijkertijd de status te geven van structuurvisie in de zin van de Wet ruimtelijke ordening.
+Artikel 10.20, Voorbereiding regionaal waterplan
+De opsommingen genoemd in het eerste en tweede lid zijn niet limitatief. Het staat gedeputeerde staten vrij om bijvoorbeeld met andere overheden, bedrijven of instanties te overleggen of deze te raadplegen Daarbij kan worden gedacht aan Rijkswaterstaat, waterleidingbedrijven en belangenorganisaties, zoals LTO, natuur- en milieuorganisaties, VNO-NCW en de Kamer van Koophandel.
+Afdeling 3.4 van de Awb is van toepassing op de voorbereiding van het plan. De inspraakperiode bedraagt 6 weken.
+Artikel 10.21, Uitwerking regionaal waterplan
+Dit artikel biedt provinciale staten de grondslag om gedeputeerde staten de bevoegdheid te verlenen dan wel te verplichten tot het uitwerken van bepaalde onderdelen van het regionaal waterplan. De planuitwerking verkrijgt vervolgens dezelfde status als het regionaal waterplan. De bevoegdheid is beperkt tot het uitwerken van het eerder vastgestelde kader. Deze mag zich dan ook niet richten op het niveau van daadwerkelijke uitvoering van maatregelen. Die bevoegdheid is immers voorbehouden aan de waterschappen. Een in een uitwerkingsplan uit te werken onderwerp is bijvoorbeeld het aanwijzen van een waterbergingsgebied.
+Artikel 10.22, Inhoud beheerplan
+Het beheerplan bevat (op de schaal van het waterschap) een uitwerking van de strategische doelen die de provincie in haar regionaal waterplan heeft geformuleerd. De uitwerking bevat ten minste concrete maatregelen, de bijbehorende planning en de kosten die nodig zijn om deze maatregelen te realiseren.
+Het beheerplan gaat ook in op de vaststelling van het GGOR. In een dergelijk GGOR-besluit staat welke grondwater- en oppervlaktewatersituatie (verdeeld naar ruimte en tijd) in het projectgebied wordt nagestreefd, uitgedrukt in:
+- de grondwaterdynamiek en/of de combinatie van de gemiddeld hoogste grondwaterstand (ghg), de gemiddeld laagste grondwaterstand (glg), de gemiddelde voorjaarsgrondwaterstand (gvg);
+- de te hanteren streefpeilen;
+- de termijn van realisatie.
+In een achtergronddocument wordt toegelicht:
+- de afweging die ten grondslag ligt aan het GGOR-besluit en het doorlopen proces;
+- indien relevant: de inrichting van de watergangen, de (grond)waterkwaliteit en de benodigde wateraanvoer;
+- een beschrijving van de maatregelen, raming van kosten en een globaal plan van aanpak.
+Artikel 10.23, Raadplegen beheerplan
+De opsomming is niet limitatief. Het staat het dagelijks bestuur vrij om bijvoorbeeld met andere overheden, bedrijven of instanties te overleggen of deze te raadplegen. Daarbij kan worden gedacht aan Rijkswaterstaat, waterleidingbedrijven en belangenorganisaties, zoals LTO, natuur- en milieuorganisaties, VNO-NCW en de Kamer van Koophandel.
+Artikel 10.24, Voorbereiding beheerplan
+Afdeling 3.4 van de Awb is van toepassing op de voorbereiding en vaststelling van het beheerplan. De voorbereidingsprocedure voor het beheerplan is overigens identiek aan de in artikel 10.20 neergelegde procedure voor de totstandkoming van het regionaal waterplan. Voor de verdere toelichting verwijzen wij dan ook naar de toelichting bij artikel 10.20.
+Artikel 10.25, Uitwerking beheerplan
+Dit artikel biedt het algemeen bestuur de grondslag om het dagelijks bestuur de bevoegdheid te verlenen dan wel te verplichten tot het uitwerken van bepaalde onderdelen van het beheerplan. De planuitwerking verkrijgt vervolgens dezelfde status als het beheerplan.
+Artikel 10.26, Goedkeuring beheerplan
+Het waterschap stuurt met het goed te keuren beheerplan de in het artikel genoemde bijlagen mee. Deze zijn geen onderdeel van het beheerplan. gedeputeerde staten gebruiken de bijlagen bij de beoordeling van het plan en bij het beantwoorden van de vraag of het beheerplan is voorbereid en vastgesteld volgens de daarvoor geldende procedure. De mogelijkheid van een herziening van beperkte strekking en goedkeuring daarvan door de provincie waar de herziening plaatsvindt, kan bijvoorbeeld worden ingezet voor aanpassingen in het kader van GGOR. Deze kunnen dan stapsgewijs aan het beheerplan worden toegevoegd.
+Artikelen 10.27 en 10.28, Voortgangsrapportage uitvoering beheerplan en nadere voorschriften beheerplan
+In artikel 3.10 van de Waterwet is bepaald dat bij provinciale verordening regels kunnen worden gesteld omtrent de door de besturen van waterschappen te vertrekken informatie. Voor het kunnen uitoefenen van toezicht is het van belang dat gedeputeerde staten over adequate en voldoende actuele informatie beschikken. In dit artikel is geregeld dat het dagelijks bestuur, ten minste eenmaal per jaar, aan gedeputeerde staten rapporteert over de voortgang van de uitvoering van het beheerplan en de mate waarin de in het beheerplan gestelde doelen worden bereikt. Deze voortgangsrapportage vormt de basis voor het periodiek bestuurlijk overleg in de beleidscyclus tussen de provincie en het waterschap. In dit verband kan worden gewezen op de afspraken die het IPO en de Unie van Waterschappen hebben neergelegd in de rapportage Afstemming van taken in het regionale waterbeheer (2005). Uitgangspunt is dat de samenwerking tussen provincie en waterschap zich toespitst op de gezamenlijke beleidsvorming (met ieder een eigen rol hierin), de uitvoering en het toezicht op de uitvoering. Daarbij wordt uitgegaan van een afstemming van taken op basis van partnership en complementariteit. In het periodiek overleg kunnen alle onderwerpen betreffende het regionaal waterbeheer, het regionaal waterplan en het beheerplan aan de orde worden gesteld. Ook de wijze waarop het toezicht wordt ingevuld en het maken van afspraken ter evaluatie in het eerstvolgende overleg kunnen hiervan deel uitmaken.
+Titel 10.5, Aanleg en beheer van waterstaatswerken
+Algemeen
+- Legger waterstaatswerken
+In artikel 5.1 van de Waterwet is bepaald dat de beheerder zorg draagt voor de vaststelling van een legger, waarin is omschreven waaraan waterstaatswerken naar richting, vorm, afmeting en constructie moeten voldoen. In artikel 1.1 van de Waterwet is bepaald welke beheersobjecten onder waterstaatswerken zijn begrepen. De Waterwet vermeldt de basisgegevens die deel uitmaken van de legger. De ligging van de waterstaatswerken en daaraan grenzende beschermingszones wordt aangegeven op overzichtskaarten.
+In de Waterwet is bepaald dat bij provinciale verordening ten aanzien van inhoud, vorm en periodieke herziening van de legger voor daarbij te onderscheiden categorieën van waterstaatswerken nadere voorschriften kunnen worden gegeven. In deze titel wordt dit onderwerp nader uitgewerkt.
+De beheerder draagt er zorg voor dat de gegevens in de legger actueel blijven. De legger voor de oppervlaktewaterlichamen, bergingsgebieden, primaire- en regionale waterkeringen of ondersteunende kunstwerken kunnen door de beheerder desgewenst bij een of meer afzonderlijke besluiten, in afzonderlijke documenten worden vastgesteld dan wel worden gecombineerd.
+De legger is van belang voor de toetsing van de waterstaatswerken aan de gestelde normen.
+Deze toetsing wordt mogelijk door de gegevens in de legger, waarin de vereiste toestand van de waterstaatswerken is aangegeven, te vergelijken met de feitelijke toestand van de waterstaatswerken. Daarnaast is de legger van belang voor de ruimtelijke reikwijdte van de verbods- en beheerbepalingen ingevolge de Waterwet of de waterschapskeur (de werkingssfeer het vereiste van vergunningen of ontheffingen).
+De legger op grond van de Waterwet moet worden onderscheiden van de legger als bedoeld in artikel 78 van de Waterschapswet. Desgewenst kunnen beide leggers in 1 document worden gecombineerd. De Waterschapswet bevat enkele procedurele bepalingen met betrekking tot de voorbereiding en vaststelling van de laatstgenoemde legger (toepassing inspraakverordening).
+In artikel 5.1 van de Waterwet is een vrijstellingsmogelijkheid ingebouwd ten aanzien van het vermelden van vorm, afmeting en constructie van waterstaatswerken. Van deze mogelijkheid is in het vierde lid van artikel 10.29 van deze verordening gebruikgemaakt, gelet op de aard en functie van de in dit lid aangewezen waterstaatswerken. Deze lenen zich niet voor het vastleggen van vorm, afmeting en constructie. Het vermelden van de ligging blijft wel verplicht omdat de legger de reikwijdte van de keur bepaald.
+- Peilbesluiten
+Op grond van artikel 5.2 van de Waterwet moeten bij of krachtens provinciale verordening de oppervlaktewaterlichamen en/of grondwaterlichamen worden aangewezen waarvoor de beheerder peilbesluiten kan vaststellen. In de desbetreffende artikelen is daarin voorzien. In het peilbesluit worden op een voor de beheerder bindende wijze waterstanden opgenomen of bandbreedten waarbinnen de waterstanden onder reguliere omstandigheden kunnen variëren. Voor de gebieden waar geen peilbesluiten zijn voorgeschreven, kan het waterschap streefpeilen hanteren.
+Projectprocedure voor waterstaatswerken
+De Waterwet geeft voor de aanleg, verlegging en versterking van primaire waterkeringen een specifieke coördinatieregeling, de projectprocedure voor waterstaatswerken genoemd. Daarmee worden de besluitvormingsprocedures bespoedigd en vereenvoudigd. De Waterwet beperkt deze coördinatieregeling niet tot primaire waterkeringen maar geeft de provincies de mogelijkheid deze regeling ook open te stellen voor andere projecten. In artikel 10.34 is aangegeven voor welke projecten de projectprocedure ook kan worden ingezet.
+- Waterakkoord
+Het systeem van aanwijzing van verplichte gevallen waarin een waterakkoord moet worden vastgesteld is in de Waterwet vervangen door de verplichting om "voor zover dat nodig is met het oog op een samenhangend en doelmatig waterbeheer" waterakkoorden te sluiten. Hiermee wordt aangesloten bij de systematiek waarvoor ook in artikel 3.5 en 3.6 van de Waterwet inzake de samenwerking tussen waterschappen en gemeenten is gekozen. Bij provinciale verordening kunnen alleen nog nadere regels met betrekking tot waterakkoorden worden gesteld. Met artikel 10.36 is hieraan invulling gegeven. De nadere regels hebben alleen betrekking op de voorbereiding van de waterakkoorden.
+Artikelsgewijs
+Artikel 10.29
+Voor de vast te leggen gegevens in de legger van de regionale waterkering (en ondersteunende kunstwerken) zijn maatgevend de gestelde veiligheidsnorm en de voorschriften, bedoeld in artikel 10.2 van deze verordening. Met behulp van situatietekeningen en, waar mogelijk, dwarsprofielen wordt in de legger aangegeven wat de vereiste en te handhaven afmetingen van (de primaire en regionale) waterkering en de daaraan grenzende beschermingszones zijn.
+Voor de vast te leggen gegevens in de legger van de oppervlaktewaterlichamen en bergingsgebieden (en ondersteunende kunstwerken) zijn maatgevend de gestelde normen en de voorschriften, bedoeld in artikel 10.4 van deze verordening, met het oog op de bergings- en afvoercapaciteit waarop de regionale wateren moeten zijn ingericht (het voorkomen en tegengaan van wateroverlast).
+Het opstellen van deze legger is mede van belang gelet op de uit het Nationaal Bestuursakkoord Water voor de beheerder voortvloeiende verplichting om de regionale watersystemen te toetsen in samenhang met het GGOR.
+Met behulp van situatietekeningen (en waar mogelijk overige gegevens met betrekking tot de bergings- en afvoercapaciteit) wordt in de legger aangegeven wat de vereiste en te handhaven afmetingen van de te onderscheiden oppervlaktewaterlichamen of categorieën van oppervlaktewaterlichamen, de daaraan grenzende beschermingszones alsmede van de bergingsgebieden zijn.
+De gegevens in de legger zijn mede van belang voor de ruimtelijke reikwijdte van verbods- en beheerbepalingen ingevolge de Waterwet of de waterschapskeur (de werkingssfeer het vereiste van vergunningen of ontheffingen). Omdat hieruit gevolgen kunnen voortvloeien voor belanghebbende eigenaren en gebruikers van onroerende zaken die nabij waterstaatswerken zijn gelegen ligt, ligt het in de rede dat bij de voorbereiding van de legger de procedure, bedoeld in afdeling 3.4 van de Awb, wordt gevolgd.
+Artikel 10.30, Opstellen peilbesluiten
+De verplichting tot het vaststellen van een peilbesluit is in deze verordening alleen opgelegd voor 2 categorieën van gebieden. In de eerste plaats zijn dit de grensoverschrijdende peilvakken waarvoor door een van de buurprovincies een verplichting tot het opstellen van een peilbesluit in de verordening is opgenomen. Hiermee wordt een goede afstemming met de buurprovincies bereikt. In de tweede plaats betreft het gebieden waarbij het waterschap in het beheerplan heeft aangegeven dat het gewenst is om hier peilbesluiten voor vast te stellen.
+Artikel 10.31, Inhoud peilbesluit
+In dit artikel wordt aangegeven welke informatie het peilbesluit ten minste bevat.
+In verband met de wisselvalligheid van weersomstandigheden (nat of droog) hebben waterschappen behoefte aan een flexibel peilbeheer. Het tweede lid van artikel 5.2 van de Waterwet voorziet er daarom in dat peilbesluiten door de toepassing van bandbreedten flexibel kunnen zijn. In het peilbesluit kan zo nodig worden aangegeven welke peilen of bandbreedten in bepaalde delen van het jaar worden aangehouden. Het waterschap heeft de inspanningsverplichting om de in het peilbesluit aangegeven waterstanden te handhaven.
+De toelichting bij het peilbesluit dient op grond van onderdeel a van het tweede lid inzicht te gegeven in de verhouding tussen de gekozen oppervlaktewaterstanden ten opzichte van het optimale grond- en oppervlaktewaterregime. De in het tweede lid, onder a genoemde "aan het besluit ten grondslag liggende afwegingen" bevatten in ieder geval de GGOR. Dit betekent dat duidelijk moet worden toegelicht hoe de GGOR zijn vertaling heeft gekregen in het peilbesluit.
+Artikel 10.34, Projectprocedure voor waterstaatswerken
+Bij of krachtens provinciale verordening kunnen projecten worden aangewezen die zodanig belangrijk zijn voor het goed functioneren van het watersysteem dat deze alleen kunnen worden gerealiseerd door het gebruiken van de projectenprocedure. Er is ten behoeve van de transparantie voor gekozen de projecten bij verordening aan te wijzen. Dat biedt het voordeel dat vooraf duidelijk is voor welke projecten de projectenprocedure dient te worden ingezet. De projectenprocedure brengt immers belangrijke gevolgen met zich mee.
+Titel 4.6, Handelingen in het watersystemen
+Algemeen
+In lijn met het uitgangspunt "decentraal wat kan, centraal wat moet" zijn in de Waterwet de eigen verordenende bevoegdheden van provincie en waterschap niet verder ingeperkt dan nodig. Dit blijkt onder andere uit hoofdstuk 6 van de Waterwet, waar ruimte wordt geboden aan provincie en waterschap om zelf in de benodigde regelgeving te voorzien. Alleen waar dat nodig is met het oog op internationale verplichtingen of bovenregionale belangen, zullen door het Rijk regels worden gesteld. Dit betekent dat, waar van rijkswege gestelde regels ontbreken, waterschappen en provincies bevoegd zijn om daarin zelf bij verordening te voorzien. De waterschappen zijn als watersysteembeheerder verantwoordelijk voor de regulering van de handelingen in het regionale watersysteem. De Waterwet maakt hierop een uitzondering voor een drietal specifieke categorieën van grondwateronttrekkingen. Deze categorieën zijn opgenomen in artikel 6.4 van de Waterwet. Het betreft onttrekkingen ten behoeve van de openbare drinkwatervoorziening, koude- en warmteopslagsystemen en onttrekkingen van meer dan 150.000 m3 per jaar ten behoeve van industriële toepassingen. Voor deze categorieën van onttrekkingen kunnen door de provincie bij of krachtens verordening regels worden gesteld. Het infiltreren van water ten behoeve van voornoemde toepassingen valt ook onder het bevoegd gezag van GS.
+Onttrekkingen voor andere doeleinden kunnen worden gereguleerd door de waterschappen. De Waterwet laat de waterschappen de mogelijkheid voor de overige onttrekkingen een verbodsstelsel te introduceren met de mogelijkheid van vergunningen, algemene regels en vrijstellingen. De provincie heeft de mogelijkheid de regulering van de overige onttrekkingen te sturen via instructieregels bedoeld in artikel 3.11 van de Waterwet.
+In deze titel is daardoor een gedifferentieerd stelsel van regels vastgelegd. Deels hebben de regels betrekking op de specifieke categorieën van onttrekkingen en infiltraties die onder het bevoegd gezag van gedeputeerde staten vallen. Voor het overige deel zijn in deze titel instructiebepalingen opgenomen die mede sturend zijn voor de invulling van het verbodsstelsel bij de waterschappen en het grondwaterregister.
+Artikelsgewijs
+Artikel 10.37, Grondwaterregister
+De inrichting van het grondwaterregister is niet expliciet geregeld in de Waterwet, maar er wordt naar verwezen in artikel 7.4, eerste lid, onder c, van de Waterwet. Dit houdt in dat de provincie bevoegd is daarin zelf bij of krachtens verordening te voorzien. Het grondwaterregister is gekoppeld aan de grondwaterheffing. Deze grondwaterheffing kan van toepassing zijn op onttrekkingen die onder het bevoegd gezag van provincie en waterschap vallen. Dit brengt met zich mee dat het grondwaterregister moet worden gevuld met gegevens die door de provincie en het waterschap afzonderlijk worden verkregen. Artikel 10.37 geeft hier invulling aan door te bepalen dat de gegevens die door provincie en waterschap worden verkregen in het register moeten worden opgenomen. Het beheer van het grondwaterregister is expliciet neergelegd bij GS. Om er zorg voor te dragen dat het register actueel is en blijft, moeten de waterschappen hun gegevens binnen 3 maanden nadat zij deze hebben verkregen doorgeven aan GS.
+In overleg tussen IPO en Unie van Waterschappen wordt gewerkt aan het opzetten van een landelijk register. Ook bij een landelijk register is het noodzakelijk de verantwoordelijkheid voor het grondwaterregister bij een daar toe aangewezen bestuursorgaan neer te leggen. De aangewezen bestuursorganen kunnen gezamenlijk besluiten een landelijk register in te richten en te vullen.
+Artikel 10.38, Registratieplicht
+- Eerste lid
+In artikel 10.38 is de registratieplicht vastgelegd voor de categorieën van onttrekkingen die onder het bevoegd gezag vallen van GS. De registratieplicht voor de overige categorieën is bij instructiebepaling geregeld. In het vierde lid is de verplichting voor het algemeen bestuur van het waterschap opgenomen om bij verordening te regelen dat degene die water onttrekt uit een grondwaterlichaam en degene die water infiltreert in een grondwaterlichaam de gegevens bedoeld in het eerste lid verstrekt aan het dagelijks bestuur.
+Artikel 6.15 van de Waterwet geeft een regeling voor die gevallen waarin er sprake is van samenloop van bevoegdheden. In een dergelijk geval kan op een aanvraag om vergunning voor het onttrekken van water aan een grondwaterlichaam worden beslist door een bestuursorgaan dat niet primair het bevoegd gezag heeft. Artikel 10.38 blijft in dergelijke gevallen van toepassing. Dit houdt in dat ook in die gevallen waarin een ander bestuursorgaan op de vergunningaanvraag beslist, gevolg moet worden gegeven aan de registratieplicht die in artikel 10.38 is opgenomen respectievelijk die in een waterschapsverordening is opgenomen.
+- Tweede lid
+In het tweede lid is bepaald dat gedeputeerde staten nadere regels kunnen vaststellen omtrent de wijze van meting en registratie. De Algemene maatregel van bestuur waarin deze uitwerking was neergelegd is namelijk niet in het Waterbesluit geïncorporeerd. De nadere regels kunnen in ieder geval betrekking hebben op de wijze en de plaats van meting, de toegestane afwijking het meetresultaat (de vereiste nauwkeurigheid) en het meten van de kwaliteit van het te infiltreren water.
+Deze nadere regels gelden niet direct voor de onttrekkingen en infiltraties die onder het bevoegd gezag van het waterschap vallen. In het derde lid is daarom opgenomen dat de nadere regels in overleg met het dagelijks bestuur van het waterschap worden vastgesteld. Daarbij ligt het in de rede dat het waterschap in voorkomende gevallen de regels voor het meten en registreren eveneens vaststelt.
+- Derde lid
+Deze instructiebepaling hangt samen met het grondwaterregister (artikel 10.37) en wordt aan het waterschap opgelegd vanwege het grote provinciale belang bij registratie. Een betrouwbaar grondwaterregister is essentieel, zowel voor beleidsinhoudelijke beslissingen door provincie en waterschap (zoals belangenafweging bij vergunningverlening) als voor de provinciale grondwaterheffing. Een betrouwbaar grondwaterregister heeft met name waarde indien zowel de grondwateronttrekkingen waarvoor gedeputeerde staten bevoegd zijn als de grondwateronttrekkingen waarvoor het dagelijks bestuur bevoegd is onder de registratieplicht vallen. Op die manier ontstaat een dekkend beeld van de belangrijkste grondwateronttrekkingen. Het betreft hier de voortzetting van het provinciale meldingenbeleid. Deze meldingen zijn tevens van belang in verband met de beoordeling en toetsing aan de gebieden op grond van de Natuurbeschermingswet.
+Artikel 10.39, Ambtshalve inschrijving in grondwaterregister
+De ambtshalve inschrijving in het openbaar register met terugwerkende kracht tot de datum, waarop de onttrekking is aangevangen, is noodzakelijk in verband met de grondwaterheffing.
+Artikel10.40, Onttrekking van grondwater en infiltratie van water
+Op grond van artikel 6.4 van de Waterwet zijn gedeputeerde staten het bevoegd gezag voor een drietal categorieën van onttrekkingen van grondwater c.q. infiltraties van water. Het betreft hier industriële onttrekkingen van meer dan 150.000 m3/jaar, openbare drinkwatervoorziening of bodemenergiesystemen. Bij het verlenen van de watervergunning zal deze worden getoetst aan een aantal criteria. De criteria genoemd in het eerste lid zijn bedoeld als richtlijnen: bij het aanvragen van de vergunning zal door de aanvrager inzicht hierover moeten worden gegeven en er zullen voorschriften worden opgenomen met betrekking tot deze criteria.
+De criteria genoemd in het tweede lid geven een hard afwegingskader. Indien niet kan worden voldaan aan deze criteria zal de vergunning niet worden verleend. Hierdoor is het voor de aanvrager vooraf duidelijk onder welke omstandigheden een vergunning verleend kan worden.
+Het betreft hier voortzetting van het vergunningverleningbeleid zoals dat al voor de vaststelling van deze wijzigingsverordening werd uitgevoerd.
+TITEL 10.6, FINANCIËLE BEPALINGEN GRONDWATER
+In artikel 7.14a, eerste lid, van de Waterwet is bepaald dat degene die bij een vergunninghouder een vordering kan indienen tot vergoeding van schade die is veroorzaakt door een onttrekking van grondwater of infiltratie krachtens een watervergunning, eerst gedeputeerde staten kan verzoeken een onderzoek in te stellen. Deze voorziening houdt verband met de in artikel 5.22 van de Waterwet opgenomen gedoogplicht. Deze houdt in dat rechthebbenden ten aanzien van onroerende zaken waarin het grondwater invloed ondergaat door een onttrekking of infiltratie krachtens een watervergunning, verplicht zijn die onttrekking of infiltratie te gedogen.
+Deze bepalingen zijn overgenomen uit de Grondwaterwet (artikel 37, eerste lid, respectievelijk artikel 33).
+Het faciliteren van de burger die overweegt een schadeclaim in te dienen bij de vergunninghouder werd door de wetgever wenselijk geacht vanwege het complexe karakter van schadevragen die samenhangen met grondwateronttrekkingen, de voor het beoordelen daarvan benodigde specifieke kennis en de hoge kosten van het inhuren van dergelijke kennis voor de burger.
+De wetgever achtte het tevens wenselijk dat de vraag of er schade is en zo ja wat de omvang van die schade is door een onpartijdige partij werd vastgesteld. In verband daarmee was in de Grondwaterwet de bepaling opgenomen (artikel 37, tweede lid) dat gedeputeerde staten een verzoek tot het instellen van een onderzoek in handen stellen van een commissie van deskundigen die daarover advies uitbrengt aan de verzoeker. Ter uitvoering daarvan hebben gedeputeerde staten van de provincies in 1996 gezamenlijk 1 commissie ingesteld, de Commissie van Deskundigen Grondwaterwet.
+In de Waterwet ontbreekt de verplichting tot het instellen van een commissie van deskundigen. Het is aan de provincies overgelaten om te bepalen op welke wijze zij verzoeken als bedoeld in artikel 7.14a, eerste lid, van de Waterwet behandelen. In IPO-verband is uitgesproken dat het wenselijk is vast te houden aan één landelijke, onafhankelijk opererende commissie vanwege het beperkte aantal verzoeken op jaarbasis, de complexiteit van de schadevragen, de wenselijkheid van bundeling van expertise voor het beoordelen van die schadevragen en voorts vanwege de voordelen van een landelijk toegepaste uniforme werkwijze bij de behandeling van verzoeken. In verband hiermee zijn in dit hoofdstuk de bepalingen uit de Grondwaterwet omtrent de verplichting tot het instellen van een commissie van deskundigen en de werkwijze van die commissie overgenomen. Wel is de procedure qua termijnen en terminologie op enkele punten in overeenstemming gebracht met de Awb.
+Hierbij wordt nog opgemerkt dat artikel 7.14a, eerste lid, van de Waterwet ook van toepassing kan zijn op verzoeken die betrekking hebben op grondwateronttrekkingen die zijn vergund door een waterschapsbestuur. Dat betekent dat de bepalingen van dit hoofdstuk ook op die verzoeken van toepassing zijn. Om die reden is in artikel 10.42, eerste lid, en in artikel 10.43, vijfde lid, bepaald dat in dat geval het desbetreffende waterschapsbestuur wordt geïnformeerd over de adviesaanvraag en dat het advies ook wordt toegezonden aan dat bestuur.
+Het ligt in de rede dat de commissie van deskundigen ook wordt ingeschakeld bij een verzoek op grond van artikel 7.14a, tweede lid, van de Waterwet. In dat artikellid is bepaald dat gedeputeerde staten rechthebbenden ten aanzien van een onroerende zaak een schadevergoeding toekennen in het geval er sprake is van meer dan 1 grondwateronttrekking en binnen redelijke termijn niet is vast te stellen door welke onttrekking de schade wordt veroorzaakt. Bij een dergelijk verzoek brengt de commissie van deskundigen haar advies uit aan GS.
+HOOFDSTUK 12
+In de Waterwet is expliciet een regeling opgenomen voor het vaarwegenbeheer. Dit betekent dat de artikelen met betrekking tot het vaarwegen beheer in hoofdstuk 12 vervallen en worden opgenomen in het nieuwe hoofdstuk 10.
+Artikel 12.1
+In het artikel stonden de begripsbepalingen. Omdat het artikel ingrijpend gewijzigd moest worden, is het bestaande artikel in zijn geheel vervallen en is een nieuw artikel 12.1 vastgesteld.
+Artikel 12.2
+De zinsnede wegen en waterwegen is in het artikel vervangen door de zinsnede wegen. Tevens is het derde lid vervallen, dat betrekking heeft op het onderdeel waterwegen.
+Artikel 12.3
+In het derde lid is het gedeelte dat betrekking heeft op vaarwegen vervallen.
+Artikel 12.4
+Dit artikel is vervallen. De inhoud van het artikel is opgenomen in het nieuwe hoofdstuk 10.
+Artikel 12.5
+Dit artikel is vervallen. De inhoud van het artikel is opgenomen in het nieuwe hoofdstuk 10.
+Artikel 12.6
+Dit artikel is vervallen. De inhoud van het artikel is opgenomen in het nieuwe hoofdstuk 10.
+Artikel 12.8
+De zinsnede wegen en waterwegen is in het artikel vervangen door de zinsnede wegen. Het derde lid is vervallen. De inhoud van het derde lid is opgenomen in het nieuwe hoofdstuk 10.
+Artikel 12.9
+Het eerste lid, onder a, is vervallen. De inhoud van het eerste lid, onder a, is opgenomen in het nieuwe hoofdstuk 10. Ook is het eerste lid, onder c, vervallen. De inhoud van het eerste lid, onder c, is opgenomen in het nieuwe hoofdstuk 10.
+De kaarten behorende bij de POV zijn aangepast op de volgende punten.
+• - De begrenzing van het waterwingebied van de waterwinning Noordbargeres te Emmen is aangepast.
+Voor de uitvoering van het Atalanta-poject is het noodzakelijk een wijziging door te voeren van begrenzing van het waterwingebied van de waterwinning Noordbargeres te Emmen. Onderdeel van het Atalanta-project is de verplaatsing van het Noorderdierenpark naar de Noordbargeres. Bij de uitwerking van de plannen voor het nieuwe dierenpark is gebleken dat het plangebied het bestaande wingebied deels overlapt en een aantal putten te dicht benaderd. In overleg tussen gemeente, Noorderdierenpark, WMD en de provincie worden 2 putten verplaatst en het waterwingebied aangepast. Door deze wijziging draagt de provincie bij aan het realiseren van het project Atalanta.
+• - Het waterwingebied Hoogeveen is aangepast.
+De gemeente Hoogeveen is voornemens het gebied gelegen in en rondom het waterwingebied van de waterwinning Hoogeveen (Bentickspark) her in te richten. De WMD wil medewerking aan deze herinrichting verlenen door de pompputten die in de weg liggen te verplaatsen. De voorliggende grensaanpassing is bedoeld om deze ontwikkelingen (voor de korte en de langere termijn) mogelijk te maken. Aan de wijziging ligt een schriftelijk verzoek van de WMD ten grondslag.
+• - Geringe aanpassingen op de kaart van het grondwaterbeschermingsgebied Drentsche Aa.
+Er zijn wat geringe aanpassingen aangebracht op de kaart van het grondwaterbeschermingsgebied Drentsche Aa. Uit onderzoek is gebleken dat deze wel voldoen aan de criteria van het beschermingsgebied (permanent watervoerende watergangen) maar nog niet op kaart waren opgenomen. Met deze wijziging wordt dit in overeenstemming gebracht met elkaar.
+## TOELICHTING OP DE VIERDE WIJZIGINGSTRANCHE VAN DE PROVINCIALE OMGEVINGSVERORDENING
+1, ALGEMEEN
+In de vierde wijzigingstranche van de POV wordt een aantal onderdelen gewijzigd, toegevoegd of geschrapt. Op hoofdlijnen betreft het hier de volgende onderdelen.
+- De hoofdstukken 4 (Geluidhinderdienst Drenthe) en 5 (Afvalstoffen) komen te vervallen.
+- Er wordt een nieuw hoofdstuk ingevoegd met een regeling over de toepassing van WKO-systemen.
+- Wijzigen van hoofdstuk 7, Grondwaterbescherming.
+- Wijzigen van het grondwaterbeschermingsgebied Drentsche Aa.
+- Wijzigen artikel 10.4 betreffende het opnemen van een kaart waarop de gemiddelde overstromingskansen staan aangegeven.
+- Aanpassing van de indeling van de POV in verband met de voorgestelde wijzigingen en de toekomstige inpassing van een hoofdstuk Ruimtelijke ordening.
+Hierna wordt per onderdeel nader ingegaan op de reden van aanpassing van dit onderdeel van de POV.
+2, VERVALLEN VAN DE HOOFDSTUKKEN 4 (GELUIDHINDERDIENST)
+EN 5 (AFVALSTOFFEN)
+Geluidhinderdienst
+De regeling voor de Geluidhinderdienst zoals opgenomen in hoofdstuk 4 was gebaseerd op Hoofdstuk XIII, paragraaf 3, van de Wet geluidhinder. Met het vervallen van deze paragraaf van de Wet geluidhinder is ook de juridische basis voor de regeling in de POV komen te vervallen. Dit betekent echter niet dat klachten met betrekking tot geluidhinder en het uitvoering van metingen niet meer plaatsvinden. De verplichting tot het hebben van een (milieu)klachtendienst is nu opgenomen in het Besluit kwaliteitseisen milieubeheer. Op grond van het besluit dient adequaat te worden gereageerd op klachten binnen en buiten kantooruren. Hiervoor is onder andere een geluidmeetdienst nodig.
+Afvalstoffen
+Bij deze wijziging vervallen tevens de regels die betrekking hebben op het gescheiden houden van bedrijfsafvalstoffen. Deze regels zijn tot nu toe in de POV blijven staan op grond van het overgangsrecht van de Wet structuur beheer afvalstoffen. Volgens dit overgangsrecht blijven de desbetreffende regels van kracht, totdat een algemene maatregel van bestuur op grond van de gewijzigde Wet milieubeheer in deze onderwerpen voorziet. De desbetreffende Algemene maatregel van bestuur is er echter na 9 jaar nog steeds niet en wordt ook niet binnen afzienbare tijd verwacht. Bovendien zijn de omstandigheden dermate ontwikkeld dat er geen behoefte meer is aan de desbetreffende regelgeving in de POV. De regeling was oorspronkelijk bedoeld ter ondersteuning van andere regelgeving die eisen stelde aan het gescheiden houden van bedrijfsafvalstoffen. Deze regeling past echter niet meer bij de elders gestelde eisen. Het werkt eerder verwarrend dan dat het ondersteuning biedt. De ondersteunende rol is vervaagd. In de praktijk wordt aan deze regelgeving geen toepassing meer gegeven.
+Het laten vervallen van deze regels past uitstekend in het kader van deregulering en het schrappen van overbodige regels.
+3, INVOEGEN NIEUW HOOFDSTUK 4 (WKO-SYSTEMEN)
+In de provincie Drenthe kan warmte- en koudeopslag (WKO) potentieel veel bijdragen aan de CO2-reductiedoelstellingen. Er wordt dan ook ingezet op een versnelde groei van open en gesloten WKO-systemen. Een drietal aangrijpingspunten wordt benut om de versnelde groei van open en gesloten systemen mogelijk te maken. Het betreft:
+- stimulering van de marktvraag
+- bevorderen van de marktwerking (faciliteren)
+- zorgen voor een helder en duidelijk beleid/wettelijk kader
+Vorenstaande heeft geresulteerd in het definiëren en uitvoeren van activiteiten verdeeld over de onderstaande sporen. Op alle 7 sporen moet worden ingezet om daadwerkelijk een versnelde groei van WKO te realiseren.
+• Beleid
+• Regelgeving
+• Vergunningvoorwaarden
+• Communicatie en stimulatie
+• Monitoring en registratie
+• Handhaving
+• Organisatie
+De toepasbaarheid van WKO is sterk afhankelijk van het type WKO-systeem en locatiespecifieke bodemgegevens. Maar over het algemeen kan worden gesteld dat de gehele Drentse bodem (contact en waterlaag) geschikt is voor het toepassen van WKO.
+Het gebruik van WKO-systemen neemt in de bouwsector en glastuinbouw de laatste jaren enorm toe.
+Om onderlinge interferentie van WKO-systemen en conflicten met andere gebruikfuncties te voorkomen en tevens groei van WKO te kunnen realiseren, is nieuw WKO-beleid opgesteld en neergelegd in de provinciale Structuurvisie ondergrond. Dit heeft geresulteerd in het 3D-zone model van Drenthe (zie figuur 1).
+Het 3D-zone model bestaat uit tweetal ondergrondse zones. Zone I (maaiveld tot 25 m diep) is met name bedoeld voor de kleinere WKO-systemen. De diepere zone II (25-300 m ) is voor de grote WKO systemen. Groot verschil tussen de zones is:
+1. het gebruiksrecht
+Zone I is in principe voorbehouden voor het gebruik door de eigenaar van de bovenliggende grond. Deze eigenaar heeft het eerste recht op het aanleggen van een WKO-systeem in deze zone. Nieuw aan te leggen systemen mogen bestaande systemen niet negatief beïnvloeden.
+Zone II is in principe de openbare ruimte. Een ieder heeft het recht om binnen deze zone een WKO-systeem aan te leggen. De provincie heeft wel een voorkeur voor de aanleg van grote systemen in deze zone.
+Via een door de gemeente op te stellen Masterplan is het mogelijk om voor een specifiek gebied hieraan verdere uitwerking te geven.
+2. de eis met betrekking tot de energiebalans
+Voor de aanleg van een WKO-systeem in Zone II geldt de eis van het bereiken van een energiebalans. Dit betekent dat het WKO-systeem evenveel energie uit de bodem moet halen als er ook wordt ingestopt. Deze energie wordt uitgedrukt in warmte of koude.
+Figuur 1. 3D-zonemodel voor open en gesloten WKO-systemen
+In elke zone is een drietal gebieden te onderscheiden. Het betreft:
+- vrije gebieden (groen)
+- restrictiegebieden (oranje)
+- verbodsgebieden (rood)
+In de vrije gebieden (groen) is WKO toegestaan. In de restrictiegebieden (oranje) is WKO toegestaan onder aanvullende voorwaarden of onderzoeken. De verbodsgebieden (rood) zijn uitgesloten van toepassing van WKO-systemen. Dit zijn de gebieden waar een andere belangrijke gebruiksfunctie (de drinkwaterwinning) voorrang heeft.
+Dit hoofdstuk van de POV is onderdeel van het realiseren van versnelde groei van WKO en geeft hiermee invulling aan het door ons in de Structuurvisie ondergrond gevormde WKO-beleid. Door middel van deze regelgeving nemen wij een aantal belangrijke knelpunten weg. Het betreft hier de volgende onderwerpen.
+- Vermindering van administratieve lasten voor de aanvragers
+- Vermindering van administratieve lasten voor de provincie
+- Versnelde implementatie van kleine WKO-systemen
+- Gelijk speelveld creëren voor open en gesloten WKO-systemen
+- Geen onnodige onderzoekskosten voor de aanvrager
+- Lagere investeringskosten
+- Tijdwinst om toestemming te verkrijgen en verlenen
+- Intern alvast ervaring opdoen met de meldingssystematiek
+Met deze WKO-regelgeving wordt het volgende geregeld.
+- 3D-zone model wordt geïmplementeerd
+- Gesloten systemen worden afhankelijk van grootte en in welk gebied ze komen melding of vergunningplichtig (op dit moment is er zelfs geen registratieplicht)
+- Provincie wordt bevoegd gezag voor gesloten systemen
+- Kleine open (tot 10 m3/h) en gesloten (tot en met 70 kW) systemen worden grotendeels meldingplichtig
+- Standaardisatie van voorwaarden voor de meldingplechtige WKO-systemen
+- Uniformeren van vergunningvoorwaarden
+- Gemeenten kunnen ter voorkoming van interferentie masterplannen voor de ondergrond opstellen
+De provincie Drenthe loopt met dit WKO-beleid en regelgeving voor op de landelijk in ontwikkeling zijnde AMvB Bodemenergie. Onze opzet en inhoud van deze regelgeving komt grotendeels overeen met de AMvB Bodemenergie. De voorlopige planning is dat medio 2012 de AMvB van kracht moet zijn, maar gezien de door te lopen procedures en inhoudelijke discussies is dit niet met zekerheid te stellen. Met deze regelgeving kiezen wij voor een zeker traject en fungeren wij als pilot voor nieuw WKO-beleid en regelgeving.
+Na implementatie van de AMvB Bodemenergie is een aantal kleine aanpassing in deze verordening nodig. Echter, dit nadeel vinden wij acceptabel ten opzicht van de voordelen (eigen regels en zekerheid) die wij nu realiseren.
+## ARTIKELSGEWIJZE TOELICHTING
+Artikel 5.1, Begripsbepalingen
+- WKO-systeem
+Warmte Koude Opslag (WKO) is een duurzame methode om energie in de vorm van warmte of koude op te slaan in de bodem. De techniek wordt gebruikt om gebouwen, woningen, kassen en processen te verwarmen en/of te koelen. Waterhoudende lagen in de bodem laten zich uitstekend gebruiken om warmte en koude in op te slaan. In de zomer gebruikt men het koele grondwater om gebouwen te koelen, het opgewarmde water slaat men op in de bodem totdat het in de winter wordt gebruikt om gebouwen te verwarmen.
+Er zijn twee verschillende WKO systemen.
+- Open systeem
+Een open systeem staat in open verbinding met watervoerende pakketten en gebruikt grondwater dat via een beperkt aantal filterbuizen wordt onttrokken en geïnfiltreerd. Het grondwater wordt via een warmtewisselaar geleid om daarna weer in de bodem te worden geïnfiltreerd. Het onttrekken en infiltreren, gebeurt op enkele tientallen tot ruim honderd meter diepte, afhankelijk van waar zich een geschikt watervoerend pakket bevindt.
+- Gesloten systeem
+Bij een gesloten systeem staat de bodemwarmtewisselaar niet in open verbinding met grondwater, maar maakt gebruik van een techniek waarbij vloeistof, vaak met een antivries (glycol) erin opgelost, door gesloten bodemlussen wordt geleid om warmte en koude aan de bodem te onttrekken.
+Het systeem bestaat uit buizen van polyethyleen, zogenaamde collectoren, die in de bodem worden geplaatst. De thermische energie in de bodem wordt door middel van geleiding via de buiswanden en het medium in de collector overgedragen aan een warmtewisselaar. Collectoren (bodemwarmtewisselaars) kunnen horizontaal en verticaal worden geplaatst, waarbij de verticale tot wel meer dan honderd meter kunnen reiken. Dergelijke systemen zijn over het algemeen kleinschalig en worden vooral in de woningbouw en kleine utiliteitsbouw toegepast.
+- Zone I en zone II
+Voor de toepassing van de regels uit dit hoofdstuk is een verdeling in de ondergrond gemaakt in twee zones: een zone I die ligt tussen maaiveld en 25 meter beneden maaiveld en een zone II die ligt tussen 25 meter beneden maaiveld en 300 meter beneden maaiveld. De reden hiervoor is dat beleidsmatig er anders met deze twee zones wordt omgegaan. zone I is, gelet op de vele activiteiten die hier al plaatsvinden, een relatief drukke zone. Er moet in deze zone rekening worden gehouden met vele belangen waarvan WKO er ook een is. Daarnaast willen we aangeven dat voor de toepassing van WKO wij zone I beschouwen als een zone waar de eigenaar van de bovengrond een gebruiksrecht heeft. In principe heeft hij in deze zone het alleenrecht om een WKO systeem aan te leggen. Zone II heeft een maatschappelijke functie. In deze zone vinden activiteiten plaats die van een groter maatschappelijk belang zijn dan kleine perceelsgebonden WKO-systemen. Hierbij valt te denken aan grondwaterwinningen ten behoeve van de drinkwatervoorziening of grotere bodemenergiesystemen.
+- Rood gebied
+Binnen rode gebieden is de toepassing van WKO-systemen niet toegestaan omdat er andere maatschappelijk zwaarwegende belangen spelen. Voor de toepassing van WKO-systemen zijn dit de gebieden waar grondwater wordt onttrokken voor de openbare drinkwatervoorziening. Deze gebieden zijn aangewezen op grond van hoofdstuk 7 van deze verordening.
+- Oranje gebied
+In deze gebieden spelen meerdere tegenstrijdige belangen. Dit zijn bijvoorbeeld archeologische of ecologische belangen. Bij het verlenen van een toestemming voor de aanleg van een WKO-systeem zal een toets plaatsvinden in hoeverre er strijd ontstaat met deze andere belangen. Indien er sprake zal zijn van onacceptabele schade aan deze andere belangen, zal de toestemming worden geweigerd.
+- Groen gebied
+In deze gebieden zijn WKO-systemen toegestaan.
+- Eco-scan
+In verband met de Flora- en Faunawet en de natuurbeschermingswet is de grondeigenaar verplicht een toetsing uit te voeren naar de effecten van het project op de aanwezige natuur. Hierbij dient te worden gekeken naar de eventuele aanwezigheid van beschermde planten of dieren in het aandachtsgebied.
+- Archeologische toets
+De Archeologische Toets is een "risico-analyse", waarbij wordt bepaald of er op een locatie archeologische sporen te verwachten zijn. De toets wordt uitgevoerd op basis van landelijke, provinciale en gemeentelijke archeologische beleidskaarten, wetenschappelijke publicaties en locaal aanwezige kennis van onder andere gemeente-archeologen.
+De resultaten van deze toets worden samengevat in een rapport en overlegd aan het bevoegd gezag.
+Artikel 5.2
+Met dit artikel wordt beoogd aan te geven welke doelstellingen ten grondslag liggen aan dit hoofdstuk. Het betreft met name het reguleren van een zorgvuldige afweging van belangen. Dit betreft diverse afwegingen en belangen. In de eerste plaats betreft het hier het belang van het bereiken van het doel voor duurzame energieopwekking door middel van de aanleg van WKO-systemen. In de tweede plaats betreft het hier het belang om de aanleg van systemen voor warmte- en koudeopslag die elkaar onderling kunnen beïnvloeden in positieve of negatieve zin te reguleren. Tot slot betreft het hier het afwegen van het belang van de aanleg van systemen ten opzichte van andere belangen die aan de orde zijn in de ondergrond.
+Artikel 5.3
+In artikel 6.4, eerste lid, van de Waterwet is de vergunningplicht opgenomen voor de open WKO-systemen. In het tweede lid is de mogelijkheid opgenomen om in een provinciale verordening te bepalen dat voor kleine onttrekkingen ( 10m3 per uur) deze vergunningplicht niet van toepassing is. Omdat het provinciaal beleid is gericht op het stimuleren van kleinere systemen door het met name vereenvoudigen van procedures e.d. is besloten om voor deze kleine WKO-systemen van de mogelijkheid gebruik te maken om in de verordening een uitzondering van deze vergunningplicht te maken. Wel hebben wij gemeend deze vrijstelling te moeten binden aan een aantal algemene voorschriften. Deze algemene voorschriften zijn opgenomen in Bijlage II. Aan deze vrijstelling is in het tweede lid een meldingsplicht gebonden. Deze melding moet op grond van het bepaalde in artikel 5.6 worden gedaan middels een door gedeputeerde staten vastgesteld formulier.
+Artikel 5.4
+In tegenstelling tot de open WKO-systemen is er met betrekking tot de gesloten WKO-systemen op dit moment niets wettelijk geregeld. Dit betekent dat voor het reguleren van deze gesloten systemen gebruik wordt gemaakt van de autonome regelende bevoegdheid die de provincie bezit op grond van artikel 105, eerste lid, van de Provinciewet. Het moet hier gaan om onderwerpen die behoren tot de huishouding van de provincie. Het provinciaal bestuur acht het stimuleren en het reguleren van vormen van duurzame energiesystemen behoren tot de huishouding van de provincie. Tegelijkertijd zal moeten worden aangetoond dat de regeling niet in strijd komt met hogere regelgeving. Momenteel is er geen hogere regelgeving bekend die van toepassing op gesloten WKO-systemen en is er dus ook geen sprake van strijd met een hogere regeling.
+- Eerste lid
+In het eerste lid is het verbod opgenomen om een gesloten WKO-systeem aan te leggen of te hebben. Het opnemen van dit verbod is noodzakelijk omdat anders geen regulerende bepalingen (bijvoorbeeld ontheffing of melding) kunnen worden opgenomen.
+- Tweede lid
+De hier opgenomen methode vormt een zodanig gevaar voor de opbouw van de bodem dat is besloten om deze vorm te verbieden.
+- Derde lid
+In navolging van het vorige artikel, is in dit artikellid een vrijstelling opgenomen voor kleine WKO-systemen. Alleen geldt deze vrijstelling voor de gesloten systemen.
+- Vierde lid
+Ook aan deze vrijstelling is een meldingsplicht gebonden. Deze melding moet op grond van het bepaalde in artikel 5.6 worden gedaan middels een door gedeputeerde staten vastgesteld formulier.
+- Vijfde lid
+Het in het eerste lid opgenomen verbod is niet van toepassing op WKO-systemen die reeds bestonden op het moment dat deze regeling in werking treedt.
+Artikel 5.5
+In dit artikel is opgenomen dat gedeputeerde staten ontheffing kunnen verlenen van het verbod zoals dat is opgenomen in artikel 5.4. Het betreft hier de gesloten WKO-systemen. Deze zelfde bevoegdheid hoeft niet te worden opgenomen voor de open WKO-systemen omdat deze bevoegdheid al is opgenomen in de Waterwet (artikel 6.4, eerste lid).
+Artikel 5.6
+Om de eenheid te brengen in het melden en aanvragen van een ontheffing en de beoordeling daarvan eenvoudiger te maken, stellen gedeputeerde staten voor de zowel de melding als de aanvraag voor een ontheffing een formulier vast. Een formulier voor het aanvragen van een vergunning voor de open WKO-systemen is niet nodig omdat op grond van de Waterwet hiervoor al gebruik moet worden gemaakt van een standaardformulier voor het aanvragen van een watervergunning.
+Artikel 5.7
+Zoals al is aangegeven in de algemene toelichting en bij de toelichting van artikel 5.2, spelen er in de oranje gebieden meerdere belangen die kunnen conflicteren met de aanleg van een WKO-systeem. Voor twee situaties is getracht de belangenafweging te structureren.
+In de eerste plaats als sprake is van een gebied dat is aangewezen op grond van de Habitat- of Vogelrichtlijn of de Natuurbeschermingswet. Ligt het geplande WKO-systeem in een dergelijk gebied, dan is het noodzakelijk om een Eco-scan uit te voeren. In een dergelijke scan wordt aangegeven welke invloed de geplande activiteit heeft op de te beschermen belangen in deze gebieden.
+In de tweede plaats geldt dit voor gebieden die zijn opgenomen op de Archeologische monumentenkaart. In dergelijke gebieden moet een archeologische toets worden uitgevoerd waarbij moet worden aangegeven wat de gevolgen zijn van de geplande activiteit.
+Indien uit een van deze toetsen blijkt dat er sprake is van onacceptabele gevolgen, dan moet de aanvraag om ontheffing of vergunning worden geweigerd op grond van artikel 5.11, onder b.
+Artikel 5.8
+Door de gemeente kan een WKO-masterplan worden opgesteld waarin het gebruik van de ondergrond in een bepaald gebied ten aanzien van WKO-systemen zo optimaal mogelijk wordt geregeld. Dit is met name bedoeld voor gebieden waar veel WKO-systemen worden verwacht zodat op voorhand de negatieve interferentie tussen de WKO-systemen kan worden voorkomen en optimaal bodemgebruik wordt gerealiseerd. Naar de (toekomstige) gebruikers van WKO-systemen wordt hierdoor ook een stuk duidelijkheid gegeven waar en op welke wijze WKO-systemen mogen worden aangelegd. Daarnaast zal de provincie op grond van artikel 5.9 bij de vergunningverlening voor deze systemen deze masterplannen in acht nemen. Met de term "in acht nemen" wordt aangegeven dat in de vergunning datgene dat in het masterplan is opgenomen moet worden overgenomen. Hiermee kan de vergunningverlening van de provincie behoorlijk worden gestuurd en vereenvoudigd. Het ligt van te voren al min of meer vast of en onder welke voorschriften de provincie de vergunning zal gaan verlenen. Omdat feitelijk sprake is van een terugtreden van de provincie van haar eigen regeling, achten wij het wel noodzakelijk dat de masterplannen voldoen aan bepaalde voorwaarden en dat dit tevens wordt bevestigd door een goedkeuring door gedeputeerde staten.
+Artikel 5.9
+Zie toelichting bij artikel 5.8.
+Artikel 5.10
+In dit artikel is de bevoegdheid tot het opnemen van voorschriften en beperkingen opgenomen. Daarnaast is het verbod opgenomen te handelen in strijd met de aan de ontheffing verbonden voorschriften. Voor de vergunning voor de open WKO-systemen zijn dergelijke bepalingen opgenomen in de Waterwet.
+Artikel 5.11
+Om een ontheffing of een vergunning te kunnen weigeren, zijn deze expliciet opgenomen in dit artikel. In de eerste plaats is een koppeling gemaakt met de doelstellingen die zijn opgenomen in artikel 5.2. Een activiteit in strijd met deze doelstellingen zal worden geweigerd. Vervolgens is een koppeling gemaakt met de eco-scan en de archeologische-scan genoemd in artikel 5.7. Tot slot mogen WKO-systemen in de oranje gebieden geen effecten veroorzaken in de rode gebieden. Dit zijn de gebieden ter bescherming van het grondwater met het oog op de drinkwaterwinning. De bescherming van deze gebieden is van een maatschappelijk zeer hoog belang.
+Artikel 5.12
+In dit artikel is met betrekking tot de ontheffing de bevoegdheid opgenomen tot wijziging van de ontheffing of de aan de ontheffing verbonden voorschriften of beperkingen. Het derde lid heeft ook betrekking op de vergunning op grond van de Waterwet.
+Artikel 5.13
+Op grond van het bepaalde in de Waterwet gaat een watervergunning (= een vergunning voor een open WKO-systeem) over naar de rechtsopvolgers van de aanvrager. Om dit ook zo te regelen voor de gesloten WKO-systemen is het in dit artikel opgenomen.
+4, WIJZIGING VAN HOOFDSTUK 7 (GRONDWATERBECHERMING)
+4.1, Aanleiding voor de wijziging
+Al sinds de vaststelling van de eerste versie van de POV in 2004 is het onderdeel Grondwaterbescherming ongewijzigd gebleven. Na een aantal jaren zijn wij tot de conclusie gekomen dat deze regeling op een onvoldoende wijze invulling geeft aan de bescherming van het belang waarom de regeling in het teven is geroepen: de bescherming van het grondwater met het oog op de drinkwatervoorziening. Om de bescherming te verbeteren en om tegemoet te komen aan ontwikkelingen en opmerkingen die vanuit de Regionale Inspectie Milieu zijn gemaakt over de regeling, is besloten de regeling aan te passen.
+Bij deze wijziging is rekening gehouden met ontwikkelingen die zich hebben voorgedaan op het gebied van wet- en regelgeving en de uitgangspunten voor het opstellen van regelgeving door de provincie.
+De belangrijkste zijn:
+a. ontwikkelingen voortvloeiend uit de Kaderrichtlijn Water (KRW);
+b. ontwikkelingen ten aanzien van nieuwe technieken, zoals bodemenergiesystemen en bodemwarmtewisselaars) en ondergrondse opslag van hemelwater;
+c. uitkomsten onderzoek Regionale Inspectie Milieu;
+d. ontwikkeling van een nieuwe IPO-model voor het hoofdstuk Grondwaterbescherming
+e. de wens voor minder regels en minder administratieve lasten.
+a. Kaderrichtlijn Water (KRW)
+De KRW (Richtlijn 2000/60/EG) stelt eisen aan de kwaliteit van het grondwater waaruit dat drinkwater gewonnen wordt:
+"De lidstaten dragen zorg voor de nodige bescherming van de aangewezen waterlichamen met de bedoeling de achteruitgang van de kwaliteit daarvan te voorkomen, teneinde het niveau van zuivering dat voor de productie van drinkwater is vereist, te verlagen. De lidstaten kunnen voor die waterlichamen beschermingszones vaststellen." (KRW, artikel 7, derde lid)
+Verder verplicht de KRW (artikel 7, eerste lid) ertoe de Nederlandse grondwaterlichamen waaruit drinkwater gewonnen wordt op te nemen in het Register voor beschermde gebieden. De daardoor aangewezen gebieden (een groot deel van Nederland) hebben daarmee de status van 'Drinking water protected area'. Deze status heeft geen rechtstreekse gevolgen voor het handelen binnen die gebieden, maar geeft wel het gebied aan waarbinnen Nederland moet voldoen aan het vereiste van 'geen achteruitgang' met het oog op de binnen het grondwaterlichaam aanwezige drinkwaterwinning(en).
+Voor de openbare drinkwaterwinning betekent de KRW dat een voldoende vorm van preventieve bescherming nodig is. Gezien de inhoud van de vorige grondwaterbeschermingsregeling in de POV moet sterk worden betwijfeld of hiermee een voldoende provinciaal beschermingsniveau was vastgelegd. Vandaar dat wij hebben besloten dit beschermingsniveau te verbeteren. De KRW geeft er wel een extra belang aan dat die bescherming effectief en transparant geregeld wordt, zodat ook duidelijk is dat de richtlijn goed wordt nageleefd. Met de nieuwe regeling denken wij hieraan te kunnen voldoen. Indien de feitelijke kwaliteit van het grondwater desondanks ontoereikend is of wordt, zullen andere, aanvullende maatregelen moeten worden genomen.
+b. Ontwikkelingen ten aanzien van nieuwe technieken
+Nieuwe technieken, zoals bodemenergiesystemen en ondergrondse opslag van regenwater, vormen een bedreiging voor de kwaliteit van het grondwater. Niet alleen is het mogelijk dat ongewenste stoffen de waterkwaliteit aantasten, dat kan ook het gevolg zijn van temperatuurverschillen als gevolg van deze activiteiten. Daarom worden hiervoor in de verordening regels gesteld. Voor zover het bodemenergiesystemen betreft was voor dit verbod al beleidsmatige verankerd bodem in het Omgevingsplan. Via het opnemen in de POV wordt het opgenomen in het daarvoor geëigende uitvoeringsinstrument.
+c. Uitkomsten onderzoek Regionale Inspectie Milieu
+De Regionale inspectie Milieu heeft onderzoek gedaan naar de uitvoering van de VROM-taakvelden door de provincie Drenthe. Een aantal conclusies had betrekking op de wijze waarop in Drenthe uitvoering werd gegeven aan de bescherming van het grondwater met het oog op de drinkwatervoorziening. In de ogen van de Inspectie dienden met name 2 zaken te worden gecorrigeerd:
+1. de bescherming van het waterwingebied (= puttenveld) kan niet volledig in handen van het waterleidingbedijf worden gelegd. De provincie heeft hierin een duidelijke verantwoordelijkheid en dient deze ook te nemen;
+2. het beschermingsniveau in de POV was niet van dien aard dat het grondwater voldoende wordt beschermd om verontreiniging te voorkomen.
+Met de nu opgenomen aanpassing van de POV wordt voldaan aan deze opmerkingen van de Inspectie.
+d. IPO-model voor het hoofdstuk Grondwaterbescherming
+De laatste jaren is gewerkt aan het opstellen van een nieuw IPO-model voor het hoofdstuk Grondwaterbescherming voor de Provinciale milieuverordening. In het model zijn de activiteiten en inrichtingen opgenomen die naar de mening van de provincies een bedreiging vormen voor de kwaliteit van het grondwater en daarom gereguleerd moeten worden. De regeling voor activiteiten, alsmede een lijst met inrichtingen die zijn verboden binnen de grondwaterbeschermingsgebieden, zijn in grote lijnen overgenomen in deze wijziging van de POV. Daarnaast is in het model een uitwerking opgenomen van een risicobenadering bij de toelating en regulering van inrichtingen binnen de grondwaterbeschermingsgebieden. In Drenthe is er voor gekozen om deze regeling niet over te nemen in de POV. De reden hiervoor is dat wij van mening zijn dat de complexiteit van de regeling niet opweegt tegen de meerwaarde die deze regeling heeft voor de bescherming van het grondwater. Wij zijn van mening dat het huidige algemene beschermingsniveau, mits op voldoende zorgvuldige wijze uitgevoerd en gehandhaafd, voldoende waarborgen biedt om het grondwater te beschermen tegen verontreinigingen.
+e. Minder regels en minder administratieve lasten
+Door deze wijziging van de POV neemt de regeldruk voor dit beleidsveld enigszins toe. Gelet op de vorengenoemde ontwikkelingen en de verantwoordelijkheid die wij hebben voor de kwaliteit van het grondwater met het oog op de drinkwatervoorziening, achten wij de toegenomen regeldruk aanvaardbaar. Dit mede gelet op het feit dat wij zoveel als mogelijk hebben getracht de administratieve lasten voor burgers en bedrijven te minimaliseren door niet te gaan werken met een ontheffingenstelsel maar een stelsel van algemene voorschriften gekoppeld aan een melding. Daarnaast hebben wij geen regeling opgenomen voor de toepassing van instructiebepalingen voor gemeenten en is het aantal zones binnen de beschermingsgebieden teruggebracht van 4 naar maximaal 3. Zie voor een nadere uitleg daarover paragraaf 4.2.1.
+4.2, Inhoud van de wijziging
+4.2.1, Soorten van beschermingsgebieden
+In de bestaande POV wordt uitgegaan van een onderverdeling van de gebieden (met uitzondering van het grondwaterbeschermingsgebied Drentsche Aa) in maximaal 4 zones: waterwingebied, grondwaterbeschermingsgebied, gebied tegen fysische bodemaantastingen en verbodszone diepe boringen. In de praktijk van de afgelopen jaren is gebleken dat het beschermingsniveau in de gebieden tegen fysische bodemaantastingen en de grondwaterbeschermingsgebieden niet wezenlijk zouden moeten verschillen. Daarnaast is het verschil tussen beide gebieden aan derden moeilijk uit te leggen. Daarom hebben wij besloten om de zone "gebieden tegen fysische bodemaantastingen" te laten vervallen en deze fysiek te laten samenvallen met de zone"grondwaterbeschermingsgebied". Hierdoor is ook een stukje vermindering van regels gerealiseerd.
+4.2.2, Zorgplicht
+In artikel 7.3 is de bijzondere zorgplicht ter bescherming van de kwaliteit van het grondwater opgenomen. Deze bepaling is aangepast aan het IPO-model.
+4.2.3, Regeling waterwingebieden
+Een waterwingebied wordt aangemerkt als het meest kwetsbare deel van het gebied dat wordt beschermd met het oog op de kwaliteit van het grondwater ten behoeve van de waterwinning. Het waterwingebied is het gebied waar het drinkwater daadwerkelijk wordt gewonnen. Daarvoor is een zeer stringente bescherming nodig. De verantwoordelijkheid voor deze bescherming ligt bij de provincie. De regeling in de bestaande POV was, ook gelet op de reactie van de Regionale Inspectie Milieu, zodanig opgesteld dat de verantwoordelijkheid voor de bescherming was neergelegd bij het waterleidingbedrijf. Dit hebben wij in deze wijziging aangepast.
+Inrichtingen
+In waterwingebieden geldt een absoluut verbod voor het oprichten van bedrijven (inrichtingen in de zin van de Wet milieubeheer). Een uitzondering wordt alleen gemaakt voor de bedrijfsmatige activiteiten van het drinkwaterbedrijf, voor zover noodzakelijk voor de bereiding van drinkwater, en voor activiteiten die ten tijde van de inwerkingtreding van dit besluit al legaal aanwezig waren. De uitzondering voor de activiteiten van het drinkwaterbedrijf ligt voor de hand: het drinkwaterbedrijf kan anders zijn taak niet vervullen. Omdat het bedrijf er zelf belang bij heeft dat een goede grondwaterkwaliteit wordt gehandhaafd, mag er van uit worden gegaan dat het bedrijf zich ten minste aan zijn zorgplicht en de normen die voor grondwaterbeschermingsgebieden gelden zal houden en dat het bevoegd gezag bij vergunningverlening daar op zal letten. Dit is ook van toepassing wanneer sprake is van niet-vergunningplichtige inrichtingen. Het bevoegd gezag (= het gezag dat op grond van het Activiteitenbesluit bevoegd zou zijn de vergunning te verlenen) dient de afweging, genoemd in het tweede lid, te maken. Het bevoegd gezag is hiertoe verplicht op grond van het bepaalde in artikel 5.2, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht.
+Het verbod voor het oprichten van nieuwe inrichtingen is in de praktijk minder ingrijpend dan het lijkt, omdat de meeste waterwingebieden in eigendom van de waterleidingbedrijven zijn en in die gebieden nagenoeg geen 'gewone' bedrijven aanwezig zijn. Bovendien kunnen inrichtingen die op het moment van inwerkingtreden van de bepaling voor waterwingebieden al aanwezig en in werking zijn overeenkomstig de daarvoor geldende regels, krachtens het overgangsrecht in werking blijven.
+Activiteiten buiten inrichtingen
+In artikel 7.5 is in het eerste lid, onder a, een verzamelverbod opgenomen op het hebben, gebruiken etc. van schadelijke stoffen. In de begripsbepalingen in artikel 1.1 is aangegeven wat onder het begrip schadelijke stof moet worden verstaan.
+In het eerste lid, onder b, is een verbod opgenomen om constructies of werken van welke aard dan ook op of in de bodem te hebben als daarmee verspreiding van schadelijke stoffen in de bodem ontstaat of kan ontstaan. Een limitatieve opsomming is niet goed mogelijk is. Wel is in het derde lid een aantal constructies en werken genoemd die in ieder geval niet toelaatbaar zijn.
+Gelet op het bijzondere karakter van het gebied, zijn in het eerste lid onder c, d en e ook het gebruik van grond en baggerspecie, het toepassen van WKO-systemen en lozingen in de bodem gereguleerd.
+In het vierde lid is een aantal uitzonderingen op het verbod opgenomen. Zo zijn vanzelfsprekend constructies en werken voor de drinkwaterwinning toegestaan. Ook aardgasleidingen voor huishoudelijk gebruik zijn vanwege de beperkte risico's voor het grondwater toelaatbaar.
+In het vijfde lid is een uitzondering opgenomen voor de eigenaar of exploitant van een waterleidingmaatschappij indien de activiteit noodzakelijk is voor de openbare drinkwatervoorziening of is opgenomen in een beheerplan.
+Beheerplannen
+Op grond van artikel 7.6 moeten de waterleidingmaatschappijen voor de bij hun in beheer zijn waterwingebieden een beheerplan opstellen. De verplichting was ook reeds in de vorige versie van de POV opgenomen en inmiddels hebben alle waterleidingmaatschappijen hieraan voldaan. In het beheerplan kunnen tevens de activiteiten en handelingen worden opgenomen die zijn toegestaan in het waterwingebied ondanks het verbod dat is opgenomen in artikel 7.5. Omdat hiermee inbreuk wordt gemaakt op de verbodsbepalingen die door provinciale staten zijn opgesteld, is in het tweede lid de verplichting opgenomen dat dit beheerplan moet worden goedgekeurd door gedeputeerde staten.
+4.2.4, Regeling grondwaterbeschermingsgebieden
+Inrichtingen
+- Niet toegelaten inrichtingen
+In grondwaterbeschermingsgebieden moet worden voorkomen dat er inrichtingen worden gevestigd die voor de kwaliteit van de bodem en het grondwater met het oog op de waterwinning een te groot risico vormen. Voor deze inrichtingen geldt een absoluut verbod. Dit verbod is gebaseerd op artikel 1.2, zesde lid, onder b, van de Wet milieubeheer en was ook al in de vorige versie van de POV opgenomen.
+De lijst met verboden inrichtingen die is opgenomen in bijlage I is geactualiseerd en wijkt op een aantal punten af van de al bestaande lijst. Voor de praktijk zullen deze wijzigingen geen tot weinig gevolgen hebben. Daarnaast hebben wij geen gebruik gemaakt van de mogelijkheid om via instructiebepalingen nadere regels te stellen aan vergunningen voor inrichtingen binnen deze gebieden. De reden hiervoor is tweeledig.
+In de eerste plaats levert het opstellen van een instructiebepaling een juridisch ingewikkelde regeling op die ook qua uitvoering de nodige problemen met zich brengt. Dit achten wij in strijd met het uitgangpunt om te streven naar een efficiënte regelgeving. In de tweede plaats gaan wij er van uit dat het huidige algemene beschermingsniveau voldoende is om de kwaliteit van het grondwater bij inrichtingen te garanderen.
+Activiteiten buiten inrichtingen
+Boorputten en grondfunderingswerken
+- Boorputten
+Bij het uitvoeren van boringen kunnen in de bodem aanwezige afsluitende lagen worden verstoord. Verontreinigingen kunnen door middel van lekstromen in het diepere grondwater komen. Daarnaast is het van belang dat putten goed aan maaiveld worden afgesloten. Bij beëindiging van de put moet er voor worden gezorgd dat boorgaten op een goede wijze weer worden opgevuld. Doorboring van afsluitende lagen moet worden hersteld. Het uitvoeren van boringen is dusdanig risicovol dat het verboden is een boring uit te voeren. Er is een uitzondering opgenomen voor drie situaties waarin boringen wel zijn toegestaan:
+- boorputten voor de controle van het grondwater ten behoeve van de openbare drinkwatervoorziening door de voor het grondwaterbeheer verantwoordelijke instanties;
+- het onderzoeken of saneren van de bodem in het kader van de Wet bodembescherming; of
+- tijdelijke bronbemaling voor de uitvoering van werken.
+Wel moet hierbij worden voldaan aan het VKB-protocol 2006 Mechanisch boren. Indien een boring voldoet aan dit protocol zijn er voldoende waarborgen om een verontreiniging van het grondwater te voorkomen.
+- Grondwerken
+Bij het roeren van de grond gaat het om het uitvoeren of doen uitvoeren van werken op of in de bodem, waarbij ingrepen worden verricht of stoffen worden gebruikt die de beschermende werking van de slecht-doorlatende bodemlagen kunnen aantasten. Hieronder vallen in ieder geval bodemstabiliseringswerken, boringen, grond- en funderingswerken en het plaatsen en verwijderen van damwanden, folies en heipalen. Het roeren van de grond in de eerste 3 m heeft weinig invloed op de kwaliteit van het grondwater en zal doorgaans geen gevaar opleveren. Daarom heeft het verbod alleen betrekking op activiteiten die drie meter of meer onder het maaiveld plaatsvinden.
+Een geheel verbod op het roeren van de grond dieper dan 3 m is niet haalbaar. Er zijn situaties denkbaar waarbij het nodig is de grond dieper dan de in de verordening genoemde diepte te roeren terwijl geen bedreiging voor de grondwaterkwaliteit optreedt, bijvoorbeeld het aanleggen van een parkeergarage (met dichte vloer). Met algemene voorschriften kan in zo'n geval voldoende bescherming worden geboden.
+Op basis van deze algemene voorschriften moet na graafwerkzaamheden het bodemprofiel worden aangevuld tot ten minste 3 m onder het oude maaiveld. Aanvulling van grond moet gebeuren volgens het oorspronkelijke bodemprofiel en aansluiten op eventuele kunstwerken die zijn aangebracht (riolering, kelder en dergelijke).
+- Funderingstechnieken
+Gladde geprefabriceerde palen en in de grond gevormde palen, zonder verbrede voet, zijn funderingstechnieken die het minste risico opleveren voor de kwaliteit van het grondwater.
+Er zijn echter omstandigheden bekend waarbij gladde heipalen niet voldoen en andere technieken nodig zijn. Ook de lokale omstandigheden kunnen het nodig maken om andere technieken te gebruiken. Een te rigoureus verbod kan betekenen dat bepaalde maatschappelijk gewenste activiteiten niet door kunnen gaan. Voor dit soort situaties is een alternatief beschikbaar: de schroefpaal. Hiermee wordt voorkomen dat deze activiteiten onnodig worden geblokkeerd.
+- Buisleidingen
+Transportleidingen vormen een belangrijke risicofactor vanwege potentiële lekkages. Er moet dus zoveel mogelijk worden voorkomen dat transportleidingen van (milieu)gevaarlijke stoffen een grondwaterbeschermingsgebied doorkruisen.
+Gebouwen, wegen en andere werken
+- Verhardingen en gebouwen
+Verhardingen, zoals wegen en parkeerplaatsen, en gebouwen in grondwaterbeschermingsgebieden zijn tot nu toe aangemerkt als risico's en oorzaak van belasting van de bodem, zowel bij aanleg als gebruik.
+Echter, niet de aanwezigheid van verhardingen en gebouwen op zichzelf, maar de keuze van bouwmaterialen en het gebruik brengen risico's en mogelijk bodembelasting met zich mee.
+Het is niet nodig regels te stellen aan de constructie of vloeistofdichtheid van verhardingen. Wegen zijn berekend op de verkeersbelasting als gevolg van de verkeerstechnische eisen die aan de weg gesteld worden. Deze brengen met zich mee dat de wegen vloeistofdicht of vloeistofkerend zijn.
+Het werkelijke risico wordt gevormd door het afstromend water. Regenwater dat van nature schoon is, kan onderweg verontreinigingen opnemen van (bijvoorbeeld) uitlogende bouwmaterialen en van het verkeer. Het afstromend water van wegen bevat zware metalen, PAK's en minerale olie; in het afstromend hemelwater van gebouwen komen onder andere opgelost koper en zink voor. Bij een calamiteit op de weg kan een grote hoeveelheid schadelijke stoffen in de berm komen. Bij ongecontroleerde infiltratie in de berm kan dit tot vervuiling van de bodem en het grondwater leiden. Generieke regelgeving beperkt dit risico onvoldoende, gelet op het bijzondere belang en de kwetsbaarheid van de drinkwatervoorziening.
+Het aanleggen van een snelweg of een intensief te gebruiken (auto)weg in een grondwaterbeschermingsgebied introduceert een relatief groot risico op calamiteiten met mogelijk grote gevolgen en is daarom in beginsel ongewenst. Een tracé buiten het grondwaterbeschermingsgebied heeft de voorkeur, gezien vanuit het belang van de drinkwatervoorziening. Als dat niet mogelijk is, kan met adequate voorzieningen (best bestaande technieken) het risico van de weg tot verwaarloosbaar teruggebracht worden. Een absoluut verbod op het aanleggen van wegen is daarom niet proportioneel, evenals voor woonwijken, individuele gebouwen en dergelijke. Een dergelijk verbod zou in de praktijk kunnen leiden tot grote druk om een grondwaterwinning te sluiten om daarmee het verbod op te heffen. De grondwaterbescherming werkt dan averechts: in plaats van het beschermen van het grondwater wordt de winning gesloten. Daarmee zou dit middel zijn doel voorbijschieten.
+De POV is er daarom op gericht de resterende risico's van verhardingen en gebouwen verwaarloosbaar te maken, onder meer door het tegengaan van infiltratie van vervuild water en bescherming van afsluitende grondlagen.
+Als handreiking aan de initiatiefnemer wordt hier verwezen naar het rapport "Afstromend wegwater" (Commissie Integraal Waterbeheer (CIW), Den Haag, 2002), waarbij aangetekend wordt dat later nieuwe inzichten kunnen ontstaan waardoor dit rapport achterhaald wordt.
+De CIW komt - met het oog op de bodembescherming in het algemeen - tot een aantal maatregelen die zijn samengevat in een tabel (pagina 11 van de samenvatting). Die komen onder andere neer op het gebruik van ZOAB, periodiek reinigen van de vluchtstrook en het gecontroleerd infiltreren in de berm of buiten het kwetsbare gebied. Dit 'gecontroleerd infiltreren' wordt in het rapport nader toegelicht. De CIW vervolgt dat het aan de provincies is om extra maatregelen te nemen met het oog op de bescherming van het drinkwater.
+De door de CIW voorgestelde maatregelen moeten als een minimum beschouwd worden.
+Voor intensief gebruikte wegen, zoals autosnelwegen en doorgaande (auto)wegen, met een relatief grote kans op incidenten, zijn zwaardere maatregelen nodig, zoals het gebruik van folies en afvoervoorzieningen in de wegbermen. Het opgevangen water wordt afgevoerd of met de best beschikbare technieken gezuiverd voordat het wordt geïnfiltreerd. Voor minder intensief bereden wegen zijn minder vergaande maatregelen nodig, mede afhankelijk van de kwetsbaarheid van het gebied. Voor kleine weggetjes is het uiteraard overbodig de bermen met folie in te pakken en het regenwater op het riool af te voeren. De CIW-aanpak van gecontroleerd infiltreren is hier afdoende.
+Uiteindelijk beoordeelt het bestuursorgaan aan wie de melding gedaan wordt of de initiatiefnemer in die specifieke situatie voldoende maatregelen heeft getroffen.
+- Diepinfiltratie
+Bij diepinfiltratie wordt opgevangen hemelwater in watervoerende lagen gebracht, meestal enkele tientallen meters diep. Binnen de intrekgebieden van de drinkwatervoorziening vormt diepinfiltratie een groot risico, omdat het niet naleven van regels of het maken van fouten vergaande gevolgen heeft. Een eventuele verontreiniging kan immers zonder de reinigende werking (natuurlijke afbraak, adsorptie aan bodemdeeltjes) van een bodempassage direct in het watervoerende pakket doordringen. Een voorbeeld van een dergelijke fout is het verkeerd aansluiten van riolering of het lozen van vuil water op een hemelwaterkolk, waardoor vuil water in een hemelwaterriool terecht kan komen. Als dit water diep wordt geïnfiltreerd, kan dit een drinkwaterbron onbruikbaar maken.
+De regelgeving voor het grondwater in het algemeen (generieke regelgeving) is niet toereikend waar het gaat om de zorg voor de drinkwatervoorziening omdat deze wel regels stelt aan diepinfiltratie, maar het onvoldoende mogelijk maakt om in kwetsbare gebieden diepinfiltratie volledig uit te sluiten. In de verordening is daarom een absoluut verbod voor diepinfiltratie van afstromend water opgenomen. Ook andere, meer incidenteel, voorkomende vormen van diepinfiltratie zijn in het algemeen niet toelaatbaar. Dat volgt uit de algemene zorgplichtbepaling.
+- Parkeren zonder aaneengesloten verharding
+Het risico op lekkage en afspoelen van schadelijke stoffen van motorvoertuigen is bij de huidige stand der techniek beperkt, maar niet verwaarloosbaar. Parkeren op onverharde terreinen, dat wil zeggen zonder aaneengesloten verharding, dus bijvoorbeeld op kale grond, gras, grind en steengranulaat, is ongewenst. Vaste parkeerplekken moeten daarom voorzien worden van een aaneengesloten verharding. Ook zijn er regels gesteld met betrekking tot afstromend water van verhardingen.
+Bij een aaneengesloten verharding, zoals asfalt en strak gelegde straatklinkers, stroomt het merendeel of alle water af en kan dit worden opgevangen. Eventuele olielekkage wordt opgemerkt en opgevangen door de verharding en kan daarna kan worden opgevangen of uit het afstromend water worden gehaald.
+Het risico op bodemverontreiniging neemt toe met de intensiteit van het parkeren. Een permanente parkeervoorziening op niet verhard terrein is daarom niet toegestaan. Het risico van kleinere parkeergelegenheden voor privégebruik wordt als verwaarloosbaar beschouwd. Voor kleinschalig privégebruik wordt daarom een uitzondering gemaakt. Voor grootschalig gebruik als parkeergelegenheid (bijvoorbeekd bij een evenemententerrein) zal een verharding (inclusief bijbehorende opvang en zuivering van afstromend water) moeten worden aangebracht.
+- Begraafplaatsen
+De bestaande regels met betrekking tot begraafplaatsen en uitstrooivelden zijn gehandhaafd.
+- Gewasbeschermingsmiddelen
+De bestaande regels met betrekking tot gewasbeschermingsmiddelen zijn gehandhaafd.
+- Warmtetoevoeging en -onttrekking
+Warmtetoevoeging en -onttrekking aan bodem en grondwater vindt vooral plaats om te besparen op het gebruik van niet vernieuwbare energiebronnen. Gebouwen en processen kunnen op een energiezuinige manier van koeling en verwarming worden voorzien door gebruik te maken van ondergrondse energieopslag. De techniek daarvoor is goed uitontwikkeld en wordt inmiddels op ruime schaal toegepast.
+Er wordt onderscheid gemaakt tussen open systemen (grondwatersystemen, KWO) en gesloten systemen (bodemwarmtewisselaars).
+In open systemen wordt grondwater uit een watervoerend pakket op de ene locatie opgepompt, waarna het via een warmtewisselaar energie opneemt of afstaat, om vervolgens op een tweede locatie te worden geïnfiltreerd. Door in het warme seizoen grondwater op de eerste locatie op te pompen en te gebruiken voor koeldoeleinden en het daardoor opgewarmde grondwater op de tweede locatie te infiltreren ontstaat daar een "bel" van opgewarmd grondwater. Door omkering van de pomprichting in het koude seizoen kan de opgeslagen warmte worden gebruikt voor verwarmingsdoelen. Er ontstaat dus een warme en een koude bron in de ondergrond die wisselend worden gebruikt voor koeling en verwarming.
+Een gesloten systeem werkt volgens het zelfde principe, maar hier wordt via een in de ondergrond aangelegd gesloten systeem van (kunststof) slangen of buizen warmte aan de bodem toegevoegd in de zomer en onttrokken in de winter. Het gesloten systeem is gevuld met een vloeistof (bijvoorbeeld glycol, water).
+De toepassing van deze systemen brengt risico's met zich mee voor de drinkwaterwinning. Opwarming van het grondwater kan leiden tot verandering van de chemische kwaliteit, er kan negatieve beïnvloeding optreden van de stromingsrichting van grondwater voor drinkwaterbereiding en er kunnen zich calamiteiten voordoen bij gebruik van vloeistoffen in gesloten systemen. Ook het boren in de bodem kan een bedreiging opleveren. Deze systemen zijn daarom niet toegestaan.
+Het verbod op boren (artikel 7.8) houdt in feite al in dat bodemenergiesystemen niet geïnstalleerd mogen worden. Omwille van de duidelijkheid en vooral vanwege de reden voor het verbod is toch een bijzondere bepaling opgenomen. De reden voor het boorverbod (7.8) is vooral de boring zelf. De bepaling stelt voorwaarden aan de wijze van boren, waarbij het verbod voor de meeste situaties opgeheven wordt indien de boring wordt gemeld en bij die melding wordt aangegeven op welke wijze aan die regels wordt voldaan. De reden voor het verbod op bodemenergiesystemen ligt met name in het gebruik van die boring, zoals het risico van de gebruikte stoffen, verplaatsing van verontreiniging en temperatuurveranderingen in de bodem. Van het verbod van artikel 7.13 kan - anders dan bij het verbod op boren - geen ontheffing worden verleend. Het valt immers niet in te zien dat het algemeen belang de realisatie van een bodemenergiesysteem noodzakelijk zou maken.
+- Verontreinigde bouwstoffen, grond en baggerspecie
+Door het (her)gebruik van bouwstoffen, grond en bagger kan het grondwater dat wordt gebruikt voor de openbare drinkwaterwinning worden verontreinigd. Landelijke gebruiksregels zijn opgenomen in het Besluit bodemkwaliteit (Bbk). In het Bbk worden voor diverse situaties "standaardnormen" vastgesteld. Bij de normstelling is het risico van verspreiding van verontreinigingen naar het grondwater dat voor de drinkwaterwinning is bestemd, niet specifiek in aanmerking genomen. Dergelijke risico's zijn echter niet bij voorbaat uit te sluiten. Tussen verschillende locaties kunnen de risico's afwijken, afhankelijk van onder andere de kwetsbaarheid van een gebied, reeds aanwezige functies, bodemopbouw, bodemsamenstelling, kwaliteit van het te storten materiaal, mobiliteit van verontreinigingen, mate van doorlatendheid van de (water)bodem en van het toegepaste materiaal en wijzigingen in milieuomstandigheden (zuurgraad en zuurstof). Dit vraagt in bepaalde gevallen om een locatiespecifieke benadering.
+In grondwaterbeschermingsgebieden is het beleid erop gericht het bestaande beschermingsniveau minimaal in stand te laten (standstill) en zo mogelijk een verbetering van het beschermingsniveau te bereiken. Met het oog daarop geldt dat aanvoer van verontreinigende stoffen van buiten het grondwaterbeschermingsgebied dient te worden voorkomen. Daarmee wordt bereikt dat geen toename van verontreinigingen in het grondwaterbeschermingsgebied plaatsvindt.
+Gelet op vorenstaande zijn in de POV de volgende regels opgenomen voor toepassing van bouwstoffen, grond en bagger in de grondwaterbeschermingsgebieden, aanvullend op de regels van het Bbk.
+IBC-Bouwstoffen
+In het Bbk wordt onderscheid gemaakt tussen vormgegeven bouwstoffen, niet-vormgegeven bouwstoffen en IBC-bouwstoffen. Vormgegeven bouwstoffen bestaan uit flinke brokken, bijvoorbeeld bakstenen, betonklinkers, asfaltbeton en heipalen. Voorbeelden van niet-vormgegeven bouwstoffen zijn assen en granulaten. Wanneer niet-vormgegeven bouwstoffen niet aan de norm voor ongeïsoleerde toepassing voldoen, dan kan de bouwstof mogelijk nog als IBC-bouwstof worden toegepast. IBC-bouwstoffen zijn niet-vormgegeven bouwstoffen die alleen mogen worden toegepast met isolatie-, beheers- en controle (IBC-)maatregelen, omdat het gebruik anders tot teveel emissies naar het milieu kan leiden.
+De normen voor bouwstoffen bestaan uit maximale samenstellings- en emissiewaarden: samenstellingswaarden voor organische parameters en emissiewaarden voor anorganische parameters. De emissiewaarden zijn verschillend voor vormgegeven, niet-vormgegeven en IBC-bouwstoffen, vanwege de verschillen in uitloogeigenschappen. De samenstellingswaarden zijn voor de verschillende bouwstoffen gelijk.
+In grondwaterbeschermingsgebieden worden schone (primaire) bouwstoffen toegestaan en bouwstoffen die voldoen aan de emissie- en samenstellingsnormen voor ongeïsoleerde toepassing. Toepassing van zwaarder verontreinigde bouwstoffen (IBC-bouwstoffen) is in grondwaterbeschermingsgebieden niet toegestaan.
+Vanuit de optiek van de bescherming van de grondwaterkwaliteit zou het wellicht wenselijk zijn dat de aanvoer van verontreinigde bouwstoffen van buiten het grondwaterbeschermingsgebied geheel wordt verboden (standstill op gebiedsniveau). Omdat echter niet altijd voldoende schone bouwstoffen beschikbaar zijn - verhardingsmateriaal bijvoorbeeld bevat vaak lichte verontreinigingen - is dat niet realistisch.
+De toepassing van andere bouwstoffen dan IBC-bouwstoffen is derhalve onder de voorwaarden van het Bbk in grondwaterbeschermingsgebied wel toegestaan.
+Grond en baggerspecie (toepassingen tot 5.000 m3)
+Op grond van het generieke beleid mag de toe te passen kwaliteit van grond of baggerspecie niet slechter zijn dan de kwaliteit van de ontvangende bodem. Onderscheiden worden de klassen Achtergrondwaarden, Wonen en Industrie voor landbodems en de klassen Achtergrondwaarden, klassen A en B, en Niet toepasbaar voor waterbodems.
+Op basis van het gebiedsspecifieke kader van het Bbk kunnen gemeenten en waterschappen lokale normen vaststellen die hoger of lager zijn dan op basis van het generieke kader is toegestaan tot maximaal de interventiewaarden/saneringscriterium. Wanneer hogere lokale normen worden vastgesteld, is het mogelijk om grond/bagger toe te passen met een kwaliteit die slechter is dan de kwaliteit van de ontvangende (water)bodem, mits het gaat om gebiedseigen grond (uit het totale beheergebied).
+Op grond van artikel 7.14 is in grondwaterbeschermingsgebieden de toepassing van grond en baggerspecie met de kwaliteit Achtergrondwaarden (schoon) toegestaan en onder voorwaarden klasse Wonen/klasse A. Voor de toepassing van verontreinigde grond of baggerspecie van de klasse Wonen/klasse A, moet aan 2 voorwaarden zijn voldaan. De eerste voorwaarde is dat de grond of baggerspecie afkomstig is uit hetzelfde grondwaterbeschermingsgebied om een toename van verontreinigingen op gebiedsniveau te voorkomen (standstill op gebiedsniveau). De tweede voorwaarde is dat geen verontreinigde grond (klasse Wonen/klasse A) op een schone (water)bodem (achtergrondwaarden) mag worden toegepast (standstill op lokaal niveau).
+Grootschalige toepassing van grond en baggerspecie (meer dan 5.000 m3)
+Het toetsingskader voor grootschalige toepassingen conform artikel 63 van het Bbk (minimale omvang van 5.000 m3 en een minimale laagdikte van 2 m) kent naast de achtergrondwaarden (schoon) ook emissiewaarden en emissietoetswaarden voor zware metalen. Bij grootschalige toepassing van grond en baggerspecie op landbodem mag de kwaliteitsklasse Industrie niet worden overschreden. Bij grootschalige toepassing van grond in oppervlaktewater mag de kwaliteitsklasse Industrie en de Interventiewaarden voor waterbodems niet worden overschreden en bij toepassingen van bagger mogen de Interventiewaarden voor waterbodems niet worden overschreden. Het toetsingskader voor grootschalige toepassingen is daarmee ruimer, soepeler dan het generiek en gebiedsspecifiek toetsingskader van het Bbk.
+Voor grootschalige toepassing in beschermingsgebieden voor de drinkwaterwinning is het toetsingskader voor grootschalige toepassingen in het Bbk niet geschikt. Juist bij toepassing van grote hoeveelheden grond en bagger, in soms diepe putten, is vanwege de risico's voor de kwaliteit van het grondwater een strikter toetsingskader noodzakelijk.
+Daarom is bepaald dat grootschalig toe te passen verontreinigde grond of baggerspecie de klasse Wonen/klasse A niet mag overschrijden en uit het gebied afkomstig moet zijn en dat door de wijze van toepassing en de te treffen voorzieningen en maatregelen de risico's op verontreiniging van het grondwater voor de betreffende drinkwatervoorziening niet toenemen.
+Met name bij grootschalige toepassingen (voor onder water) kan ernstiger schade ontstaan als ernstig verontreinigd materiaal illegaal wordt gestort of zich calamiteiten voordoen. Er zal gedurende de duur van het project dan ook een grote handhavingsinspanning moeten worden geleverd om te voorkomen dat ernstig verontreinigde grond of baggerspecie wordt toegepast. Daarom wordt ook de aanvoer van grote hoeveelheden niet-schone grond van buitenaf verboden.
+Grootschalige toepassing in een grondwaterbeschermingsgebied dient niet alleen op grond van het Bbk te worden gemeld aan het meldpunt bodemkwaliteit, maar ook dient daarvan op grond van de regeling in de verordening een melding te worden gedaan. De melding moet de resultaten bevatten van locatiespecifiek onderzoek waarmee wordt aangetoond dat door de wijze van toepassing en de te treffen voorzieningen en maatregelen de risico's op verontreiniging van het grondwater voor de desbetreffende drinkwatervoorziening niet toenemen. Deze melding maakt preventief toezicht mogelijk. Op de melding zijn de procedureregels van artikel 7.20 van toepassing.
+Opgemerkt wordt nog dat de hiervoor beschreven regeling voor de grootschalige toepassing niet betrekking heeft op toepassing binnen een inrichting. Ingevolge het bepaalde onder 28.3 van het Besluit omgevingsrecht zijn "inrichtingen voor zover het betreft toepassingen van bouwstoffen, grond of baggerspecie waarop het Besluit bodemkwaliteit van toepassing is en waarin wordt gehandeld in overeenstemming met de bepalingen van dat besluit" geen inrichtingen die nadelige gevolgen voor het milieu kunnen veroorzaken als bedoeld in artikel 1.1, derde lid, van de Wet milieubeheer. Indien echter de bepalingen van het Besluit bodemkwaliteit niet worden nageleefd, is er wel sprake van een inrichting en wel van een inrichting voor het storten van afvalstoffen of het anderszins op of in de bodem brengen van afvalstoffen (categorie 28, punt 28.1, van het Besluit omgevingsrecht). Een dergelijke inrichting is in grondwaterbeschermingsgebied niet toegelaten (artikel 7.7.7, juncto bijlage I).
+Verspreiding baggerspecie
+Voor verspreiding van baggerspecie vanuit watergangen over aangrenzende percelen biedt het Besluit bodemkwaliteit voldoende bescherming. Dit kan worden toegestaan in de grondwaterbeschermingsgebieden, conform de eisen van het Bbk.
+4.2.5, Verbodszone diepe boringen
+In een verbodszone diepe boringen bevinden zich tussen het maaiveld en het watervoerende pakket waaraan het grondwater wordt onttrokken, zodanige beschermende bodemlagen dat met een beperkte regeling kan worden volstaan.
+Een verbod op het oprichten en in gebruik hebben van inrichtingen of de uitvoering van activiteiten die zich bovengronds afspelen is niet nodig omdat de generieke wetgeving, toepassing van de NRB en in aanvulling daarop de bijzondere zorgplicht voldoende bescherming bieden.
+Wel zijn er regels nodig om de scheidende lagen boven het watervoerende pakket van drinkwaterwinning zo min mogelijk te verstoren. Het gaat daarbij om regels voor boorputten en grond- of funderingswerken en om regels voor bodemenergiesystemen (warntetoevoeging en - onttrekking). Deze regels gelden ook in grondwaterbeschermingsgebieden en worden in artikel 7.14 van toepassing verklaard voor de verbodszones diepe boringen. Daarbij is wel bepaald dat de verboden niet van toepassing zijn als het grondwater waaruit het drinkwater wordt gewonnen, niet wordt bereikt. Dit is het geval als de activiteit niet dieper gaat dan de voor dat gebied op kaart aangegeven maximale diepte.
+4.2.6, Uitvoerbaarheid
+- Meldingen
+Voor de handhaving van de in deze verordening gestelde regels is het van groot belang dat het bevoegd gezag tijdig informatie ontvangt over het voornemen om activiteiten uit te voeren die risico's voor de kwaliteit van het grondwater met zich mee brengen. Daarom is daarvoor een informatieverplichting in de verordening opgenomen. Hoewel ook het streven van de provincies er op is gericht zo min mogelijk administratieve lastendruk te veroorzaken, is het belang van een goede bewaking van de grondwaterkwaliteit zo zwaarwegend dat aan deze informatieverplichting niet valt te ontkomen. Bedacht moet worden dat al een geringe verontreiniging ernstige gevolgen kan hebben voor de kwaliteit van het grondwater en daarmee voor de drinkwatervoorziening.
+Het kan zijn dat voor de activiteit waarvoor een melding moet worden gedaan, op grond van andere regelgeving al een melding moet worden gedaan. Dat kan zijn op grond van artikel 32 of artikel 42 van het Besluit bodemkwaliteit. Het ligt voor de hand dat in een dergelijk geval de meldingen dan zoveel mogelijk tegelijkertijd worden gedaan. Wel zullen daarbij in ieder geval de termijnen en inhoudelijke eisen die in de verordening worden gesteld in acht moeten worden genomen.
+De regeling van de melding in de Provinciale omgevingsverordening is als volgt.
+De melding wordt uiterlijk 9 weken voor de uitvoering gedaan. De melding bevat een beschrijving van de activiteit en de bodembeschermende voorzieningen en maatregelen.
+Na ontvangst van de melding wordt onverwijld een afschrift van de melding aan het drinkwaterbedrijf gezonden. Binnen 6 weken na ontvangst stuurt het bestuursorgaan een brief waarin het aangeeft of het verwacht dat de activiteit waarvan melding wordt gedaan, gezien de ontvangen gegevens zal voldoen aan de gestelde regels. Het is onzeker of het geven van een dergelijke verwachting moet worden aangemerkt als het nemen van een besluit. Enerzijds kan de mededeling worden aangemerkt als een niet bindende beoordeling van de activiteit in vooroverleg. Anderzijds is er jurisprudentie dat de mededeling die een oordeel geeft over de aanvaardbaarheid van een activiteit, moet worden aangemerkt als een besluit, waartegen bezwaar en beroep open staat.
+Als de gegevens in de melding voor een beoordeling van de te nemen maatregelen onvoldoende zijn, kan met overeenkomstige toepassing van artikel 4:5 Awb om aanvullende gegevens worden gevraagd.
+De termijn waarbinnen het bestuursorgaan moet reageren is 6 weken. Bij overschrijding van de termijn wordt het oordeel van het bestuursorgaan geacht positief voor de melder te zijn. Als om aanvullende gegevens wordt gevraagd, wordt de termijn van 6 weken opgeschort (artikel 4:15 Awb).
+Op grond van artikel 7.20, vierde lid, moet de aanvang van de daadwerkelijke uitvoering van de werkzaamheden minimaal 2 weken voor de uitvoering van de werkzaamheden schriftelijk aan het bestuursorgaan worden gemeld. Deze schriftelijke melding is ook toegestaan via een e-mail of fax.
+- Ontheffingen
+De strikte regelgeving ter bescherming van de grondwaterkwaliteit kan ertoe leiden dat een activiteit met een groot maatschappelijk belang op grond van de verordening niet kan worden toegelaten. Onder bijzondere omstandigheden kan het gewenst zijn dat dat toch gebeurt als het algemeen belang dat met uitvoering van de activiteit is gediend zwaarder weegt dan het - naar mag worden aangenomen beperkte - risico op grondwaterverontreiniging. Voor deze bijzondere situaties is in de verordening een regeling opgenomen. Van een in de verordening opgenomen verbod kan ontheffing worden verleend indien het algemeen belang de uitvoering van de activiteit waarop het verbod betrekking heeft, noodzakelijk maakt. Dat zal bijvoorbeeld het geval kunnen zijn als een voor de gemeenschap zeer belangrijke infrastructurele voorziening moet worden aangelegd en de bepalingen van de verordening daaraan in de weg staan. De mogelijkheid van ontheffing is niet bedoeld om een afweging te maken tussen het enkele belang van een individuele aanvrager en het belang van de bescherming van de grondwaterkwaliteit.
+De ontheffing wordt verleend door gedeputeerde staten. Afdeling 3.4 van de Awb is van toepassing op de voorbereiding van de ontheffing (artikel 1.3, vierde lid, Wm).
+Voor de ontheffing geldt dat voorschriften moeten worden opgelegd die de hoogst mogelijke bescherming voor de kwaliteit van het grondwater bieden. Dat betekent dat de beste milieupraktijken en de best beschikbare technieken dienen te worden toegepast.
+- Handhaving
+Voor activiteiten buiten inrichtingen is gedeputeerde staten het bestuursorgaan dat met de handhaving is belast.
+Overtreding van de rechtstreeks werkende bepalingen van de verordening is een economische delict.
+4.2.7, Overgangsrecht
+In de verordening is overgangsrecht opgenomen voor inrichtingen en activiteiten die ten tijde van de inwerkingtreding van deze regeling legaal, dat wil zeggen in overeenstemming met de op dat moment geldende regels van de POV, in werking zijn respectievelijk worden uitgevoerd.
+## ARTIKELSGEWIJZE TOELICHTING
+Artikel 1.1, Begripsbepaling
+In het artikel zijn uitsluitend omschrijvingen opgenomen van begrippen die zonder een dergelijke omschrijving onduidelijk zouden kunnen zijn. Van een aantal begrippen is geen omschriving opgenomen omdat deze begrippen al gedefinieerd zijn in de Wet milieubeheer en op grond van de tekst van artikel 1.1 ("In deze wet en de daarop berustende bepalingen ...") geldt die definitie "automatisch" ook voor de verordening.
+- Onderdeel j
+Onder "grond- of funderingswerkzaamheden" wordt elk werk in de bodem verstaan. Naast de expliciet (ter vermijding van misverstanden) in het artikel genoemde voorbeelden, kan bijvoorbeeld ook gedacht worden aan het plaatsen van kleischermen.
+- Onderdeel t
+In dit onderdeel is aangegeven wat onder "schadelijke stof" moet worden verstaan. Het is een ruim begrip waarvan in de POV is aangegeven wat hieronder in elk geval moet worden verstaan.
+- Onderdeel y
+Voor begrippen die gedefinieerd zijn in de Wet bodembescherming of een daarop gebaseerde regeling, geldt - anders dan voor begrippen die in artikel 1.1. van de Wet milieubeheer zijn omschreven - niet dat deze automatisch ook gelden voor de verordening. Ter vermijding van onduidelijkheid is daarom een aantal begrippen met een verwijzing naar het Besluit bodemkwaliteit en de Regeling bodemkwaliteit gedefinieerd.
+Artikel 7.3, Zorgplicht
+De zorgplichtbepaling van artikel 7.3 is een uitwerking van de algemene zorgplichtbepaling voor het milieu die is opgenomen in artikel 1.1a van de Wet milieubeheer.
+De uitzonderingen in het derde lid zijn in de verordening opgenomen om te voorkomen dat de bepaling betrekking zou hebben op een onderwerp waarin een wet in formele zin al voorziet of in een onderwerp dat uitdrukkelijk voor de provinciale wetgever is uitgesloten. Indien deze beperkingen niet zouden worden opgenomen, bestaat het risico dat de bepaling in zijn geheel onverbindend is.
+De bepalingen waarnaar wordt verwezen, zijn de zorgplicht voor stoffen, preparaten en genetisch gemodificeerde organismen (artikel 9.2.1.2 Wet milieubeheer), de zorgplicht met betrekking tot afvalstoffen (artikel 10.1 Wet milieubeheer) en de zorgplicht met betrekking tot de bodem (artikel 13 Wet bodembescherming).
+De voorheen geldende POV bevatte een vergelijkbare bepaling.
+Artikel 7.5, Activiteiten buiten inrichtingen
+De regeling voor waterwingebieden beoogt een optimale bescherming zowel van het voor drinkwater bestemde grondwater als van de bodem waarvan het te winnen grondwater deel uitmaakt.
+Daarom is elke handeling die er toe kan leiden dat schadelijke stoffen die zijn bedoeld in het eerste lid, onder a, in het grondwater komen, verboden. In het tweede lid zijn expliciet enkele stoffen genoemd die in het wingebied niet aanwezig mogen zijn, omdat zonder een dergelijke bepaling twijfel zou kunnen bestaan of zij wel onder het gestelde in het eerste lid, onder a, vallen. Het gaat in het tweede lid niet om een limitatieve opsomming.
+Het verbod op het oprichten van bebouwing volgt uit het stand-still-beginsel, dat hier met zich meebrengt dat er geen toename van bebouwing in het waterwingebied dient te zijn. Bestaande bebouwing valt overigens onder het overgangsrecht; herbouw is dus wel mogelijk.
+In het vierde lid zijn enkele handelingen van het in het eerste lid opgenomen verbod uitgezonderd. De redenen daarvoor zijn divers. Sommige handelingen zijn in een wingebied noodzakelijk voor de waterwinning. Dat geldt voor het oprichten van boorputten en controleputten. Andere handelingen worden toegestaan omdat een verbod daarvan onevenredig grote nadelen met zich mee zou brengen, bijvoorbeeld het onderhoud van rioleringen en wegen, en gladheidbestrijding. Weer andere handelingen kunnen worden toegelaten als sprake is van geringe hoeveelheden (kleinschalig gebruik van stoffen). Het begrip geringe hoeveelheid is afhankelijk van het gebruik ter plaatse. Er moet worden gedacht aan hoeveelheden die in elk huishouden aanwezig zijn. Verder moet de stof worden opgeslagen in een deugdelijke verpakking en zijn beschermd tegen weersinvloeden. Een deugdelijke verpakking is een verpakking die geschikt is om de stof te bevatten en voldoende bescherming biedt tegen verontreiniging van de bodem. Beschermd tegen invloeden van weersomstandigheden betekend dat weersomstandigheden geen invloed op de stof of de verpakking mogen hebben waardoor de stof mogelijkerwijze in of op de bodem kan komen.
+Artikel 7.10, Gebouwen, wegen en nadere verhardingen
+- Eerste en tweede lid
+Door uitloging van dakmaterialen (zoals bitumen, koper), hemelwaterafvoeren (zink) of anderszins mogen geen verontreinigingen aan de bodem worden toegevoegd. Indien niet-uitlogende materialen zijn gekozen of de materialen zodanig duurzaam zijn behandeld (én onderhouden!) dat hieruit geen stoffen uitlogen, kan het hemelwater zonder bezwaar infiltreren. Onder afstromend (ook wel: afvloeiend) water wordt in ieder geval verstaan hemelwater, bluswater en waswater. Het betreft hier de oppervlakkige infiltraties. Het (geforceerd) dieper lozen van het water is niet toegestaan.
+Bij het gebruik van een gescheiden rioolstelsel, zeker indien hierin het water van meerdere gebouwen wordt verzameld, bestaat altijd de mogelijkheid dat onbedoeld verontreiniging in het hemelwater terecht komt. Infiltratie moet hier plaatsvinden via een doelmatig werkende zuiveringsvoorziening (waaronder ook Wadi's worden begrepen), ingericht volgens de laatste stand der techniek. Daaronder wordt verstaan dat de zuiveringsvoorziening zodanig werkt dat de verontreinigingen uit het water worden verwijderd en het water voldoet aan de streefwaarden voor drinkwater. Het systeem zal overigens ook moeten voldoen aan de eisen die zijn gesteld in de artikel 7 tot en met 9 van het Lozingenbesluit bodembescherming
+Het staat de initiatiefnemer in beginsel vrij zelf het middel (de zuiveringsvoorziening) te kiezen, zo lang dit doel maar bereikt wordt. Bij de melding van de activiteit zal het bevoegd gezag beoordelen of met het in te zetten middel de drinkwaterwinning effectief beschermd wordt.
+Diepinfiltratie van het afstromend water is niet toegestaan op grond van het tweede lid.
+- Derde lid
+Voor een toelichting op de bepaling over het parkeren op onverhard terrein wordt verwezen naar paragraaf 4.2.4 (gebouwen, wegen en andere werken) van deze toelichting.
+Artikel 7.14, IBC-bouwstoffen, verontreinigde grond en baggerspecie
+In het derde lid, onder c, is een regeling opgenomen voor grootschalige toepassing van grond of baggerspecie. Volgens artikel 63 van het Besluit bodemkwaliteit gaat het bij grootschalige toepassingen om toepassing van grond of baggerspecie in een laagdikte van minimaal 2 m en een minimale omvang van 5.000 m3 en om toepassingen in nader omschreven situaties. Bij grootschalige toepassingen in de PMV gaat het om alle toepassingen van grond en bagger in een omvang van meer dan 5.000 m3.
+Ingevolge het vierde lid dienen de toepassingen genoemd onder a, b en c te worden gemeld aan gedeputeerde staten (artikel 5.5.3, derde lid). Dat geldt ook indien een melding op grond van het Besluit bodemkwaliteit aan de minister is voorgeschreven (artikel 42 Besluit bodemkwaliteit), omdat de termijn voor die melding zo kort is (5 dagen) dat de provincie bij een doormelding onvoldoende gelegenheid heeft om toezicht op de voorgenomen toepassing uit te oefenen.
+Artikel 7.18, Relatienotagebied
+De in dit artikel opgenomen beperking van de werkingssfeer van de verordening betreft gebieden die door de minister van VROM en de minister van Landbouw gezamenlijk op grond van artikel 1.2, vijfde lid, van de Wet milieubeheer zijn aangewezen. Van deze aanwijzingsmogelijkheid is tot op heden geen gebruik gemaakt.
+5, WIJZIGEN VAN HET GRONDWATERBESCHERMINGSGEBIED DRENTSCHE AA
+In het grondwaterbeschermingsgebied Drentsche Aa gelden regels met betrekking tot de toepassing van gewasbeschermingsmiddelen en het gebruik van de hiervoor bestemde spuitmachines. Via de regeling in de POV wordt getracht te voorkomen dat gewasbeschermingsmiddelen in het oppervlaktewater van de beek komen en daardoor de winning van het Waterbedrijf Groningen bedreigen. De bescherming van de POV is gericht op de permanent watervoerende waterlopen. Uit controle in het veld is gebleken dat de nu op kaart aangegeven waterloop deel uitmaakt van de beek maar niet is aangewezen in de POV. Met deze wijziging wordt deze waterloop alsnog aangewezen.
+6, WIJZIGEN ARTIKEL 10.4: OPNEMEN KAART GEMIDDELDE OVERSTROMINGSKANSEN
+In artikel 10.4 is in het derde lid aangegeven dat bij de verordening een kaart wordt opgenomen waarop voor de verschillende te onderscheiden gebieden als bedoeld in het tweede lid, de norm staat aangegeven van de bergings- en afvoercapaciteit van de regionale wateren. De kaart is samengesteld uit informatie die van de verschillende waterschappen is ontvangen.
+Deze verplichting vloeit voort uit artikel 2.8 van de Waterwet. Voor verschillende gebieden worden normen gegeven waarbij de kans op wateroverlast als gevolg van grote hoeveelheden neerslag is gerelateerd aan het landgebruik en de te verwachten schade hierbij. Basis voor de normering is het grondgebruik. Daarin wordt onderscheidt gemaakt in stedelijk gebied, waarvoor een norm van 1 keer per 100 jaar geldt voor de doeleinden bebouwing, hoofdinfrastructuur en spoorwegen. Buiten het stedelijk gebied geld een norm van 1: 10 voor grasland, 1: 25 voor akkerbouw en 1: 50 voor intensieve vormen van landbouw, zoals glastuinbouw en boomteelt. Deze normen zijn adviesnormen. Lokaal kan daarvan worden afgeweken. In het algemeen is uitgegaan van het gemiddelde grondgebruik per peilvak. Op de kaart is aangegeven welke normen voor welke gebieden gelden.
+7, AANPASSING INDELING POV
+Als gevolg van de nu voorliggende wijziging van de POV komt een aantal hoofdstukken te vervallen (4 en 5) en wordt een hoofdstuk (5) opnieuw ingevuld. Daarnaast ligt het in de verwachting dat bij een volgende wijziging van de POV een hoofdstuk met betrekking tot de ruimtelijke ordening in de POV zal worden opgenomen. Dit was voor ons aanleiding de indeling aan te passen. Hierbij is voor het onderdeel ruimtelijke ordening ook een nieuw deel ingevoegd. Hierna is een vergelijking opgenomen tussen de bestaande en de nieuwe indeling van de POV.
+Bestaand Nieuw
+DEEL I, ALGEMEEN DEEL I, ALGEMEEN
+Hoofdstuk 1, Begripsbepalingen Hoofdstuk 1, Begripsbepalingen
+Hoofdstuk 2, Inspraak Hoofdstuk 2, Inspraak
+Hoofdstuk 3, [Vervallen]
+Hoofdstuk 4, Geluidhinderdienst Drenthe DEEL II, RUIMTELIJKE ORDENING
+Hoofdstuk 3., Ruimtelijke ordening [gereserveerd]
+DEEL II, MILIEU DEEL III, MILIEU
+Hoofdstuk 5, Afvalstoffen Hoofdstuk 4, [Vervallen]
+Hoofdstuk 6, Bodemsanering Hoofdstuk 5, Warmte- en koudeopslag
+Hoofdstuk 7, Gebieden Hoofdstuk 6, Bodemsanering
+Hoofdstuk 7, Gebieden
+DEEL III, NATUUR EN LANDSCHAP DEEL IV, NATUUR EN LANDSCHAP
+Hoofdstuk 8, Ontgrondingen Hoofdstuk 8, Ontgrondingen
+Hoofdstuk 9, Vaarverbod Drentsche Aa Hoofdstuk 9, Vaarverbod Drentsche Aa
+DEEL IV, WATER DEEL V, WATER
+Hoofdstuk 10, Water Hoofdstuk 10, Water
+Hoofdstuk 11, [Vervallen] Hoofdstuk 11, [Vervallen]
+DEEL V, WEGEN EN WATERWEGEN DEEL VI, WEGEN
+Hoofdstuk 12, Wegen en waterwegen Hoofdstuk 12, Wegen
+DEEL VI, OVERIGE BEPALINGEN DEEL VII, OVERIGE BEPALINGEN
+Hoofdstuk 13, Vergoeding van schade Hoofdstuk 13, Vergoeding van
+en kosten schade en kosten
+Hoofdstuk 14, Handhaving Hoofdstuk 14, Handhaving
+Hoofdstuk 15, Overgangs- en slotbepalingen Hoofdstuk 15, Overgangs- en
+slotbepalingen
+## Bijlage I, Aanwijzing van categorieen van inrichtingen die niet in grondwaterbeschermingsgebied mogen worden opgericht of in werking worden gehouden
+Aanwijzing van categorieën van inrichtingen die niet in grondwaterbeschermingsgebied morgen worden opgericht of in werking worden gehouden
+Het in artikel 7.7 opgenomen verbod geldt voor de volgende categorieën van inrichtingen.
+Tabel
+Type | Toelichting
+a. | Inrichtingen voor het winnen van aardolie, aardgas, mergel, zand, grind, kalkzandsteen, kalk, zout, steenkolen, turf of andere delfstoffen.
+b. | Inrichtingen voor het opslaan, overslaan of bewerken van steenkool, ertsen of derivaten van ertsen.
+c. | Inrichtingen voor het vervaardigen van ruw ijzer, ruw staal, of primaire non-ferro metalen.
+d. | Inrichtingen voor het voorbereiden van recycling bestaande uit metaal- en autoshredders, puinbrekerijen en -malerijen en afvalscheidinginstallaties.
+e. | Inrichtingen voor het storten, het op- en overslaan, het composteren, het verbranden, het anderszins op of in de bodem brengen of op een andere wijze verwijderen of verwerken van afvalstoffen.
+f. | Inrichtingen voor het opslaan of storten van baggerspecie op land of op of in oppervlaktewateren.
+g. | Inrichtingen voor het vergisten van dierlijke meststoffen en organische afvalstoffen.
+h. | Zuiveringstechnische werken en bedrijfsafvalwaterzuiveringen die zelfstandig een inrichting vormen.
+i. | Inrichtingen voor het vervaardigen, onderhouden, repareren, verfspuiten of het anderszins behandelen van (de oppervlakte) van auto's, motorfietsen of schepen.
+j. | Inrichtingen voor het afleveren van vloeibare brandstoffen voor motorvoertuigen voor het wegverkeer of aan vaartuigen.
+k. | Inrichtingen waar gelegenheid wordt geboden voor het afmeren van pleziervaartuigen en waar afgewerkte olie, bilgewater, huishoudelijk afvalwater of andere afvalstoffen worden opgeslagen.
+l. | Inrichtingen voor de opslag van vloeibare brandstoffen, afgewerkte olie, gevaarlijke stoffen, CMR-stoffen of andere bodembelastende stoffen in ondergrondse opslagtanks.
+m. | Inrichtingen voor het inwendig reinigen van mobiele tanks, tankwagens, tankcontainers, bulkcontainers of tankschepen.
+n. | Groothandel in vloeibare chemische producten en vloeibare brandstoffen.
+o. | Inrichtingen voor oppervlaktebehandeling van metalen of kunststoffen door middel van een elektrolytisch of chemisch procedé, of het aanbrengen van gesmolten metaal waarbij de gebruikte behandelingsbaden direct in of op de bodem zijn geplaatst.
+p. | Inrichtingen voor het vervaardigen van chemische producten.
+q. | Inrichtingen voor schieten in de open lucht zonder gebruikmaking van kogelvangers, met vuurwapens of wapens werkend met luchtdruk of gasdruk.
+r. | Inrichtingen voor de bewerking van splijt- en kweekstoffen.
+s. | Inrichtingen voor het parkeren van vervoerseenheden met gevaarlijke stoffen.
+t. | Inrichtingen voor het recreatievissen of het kweken van siervis of consumptievis in een bassin dat in contact staat met bodem, grondwater of oppervlaktewater.
+u. | Inrichtingen voor het gebruiken van bromfietsen, motorvoertuigen of andere gemotoriseerde voertuigen of vaartuigen in wedstrijdverband of voor recreatieve doeleinden in de open lucht.
+## Bijlage II, Voorschriften als bedoeld in de artikelen 5.3, 1e lid en 5.4, 3 lid
+A. Voorschriften als bedoeld in de artikelen 5.3, eerste lid en 5.4, derde lid.
+Tabel 1, overzicht voorschriften voor kleine open en gesloten WKO systemen
+Overzicht voorschriften voor kleine open en gesloten WKO systemen
+Type systeem | zone | A1 | A2 | A3 | A4 | A5 | A6 | A7 | O1 | O2 | O3 | O4 | O5 | O6 | O7 | O8 | G1 | G2 | G3 | G4
+Kleine WKO-systemen in groene gebieden | Algemeen | Open systemen | Gesloten systemen
+Open | I | v |  | v |  | v | v | v | v | v | v | v | v |  |  |  |  |  |  | 
+Open | II | v | v |  | v | v | v | v | v |  |  |  |  | v | v | v |  |  |  | 
+Gesloten | I | v |  | v |  | v | v | v |  |  |  |  |  |  |  |  | v | v | v | v
+Gesloten | II | v | v |  | v | v | v | v |  |  |  |  |  |  |  |  | v |  | v | 
+Toelichting
+In tabel 1 is een overzicht van voorschriften opgenomen die voor kleine open en gesloten WKO-systemen in groene gebieden van toepassing zijn. Het betreft kleine WKO-systemen die meldingsplicht zijn. Gebruik de tabel van links naar rechts.
+1. Kies in eerste instantie het type systeem (open of gesloten)
+2. Kies vervolgens de zone waar het toekomstig systeem wordt geplaatst (zone I = 0 tot 25 meter en zone II 25 tot 300 meter diep).
+3. In kolom Algemeen (A1 t/m A7) zijn de geldende voorschriften (afhankelijk van stap 1 en 2) die van toepassing zijn aangevinkt.
+4. Afhankelijk van stap 1 en 2 zijn de geldende voorschriften voor open of gesloten systemen in de laatste twee kolommen aangevinkt.
+5. Een omschrijving van de van toepassing zijnde voorschriften is op de volgende pagina beschreven.
+Algemeen
+Voorschrift A1
+1. Het principe van eco-efficiency wordt gehanteerd: het voorkomen van/streven naar een minimale aantasting van de bodem/ecologie bij een tegelijk zo groot mogelijk energiebesparing (bijvoorbeeld een open systemen in plaats van meerdere kleinere gesloten systemen).
+2. De eigenaar/gebruiker van een open of een gesloten WKO-systeem moet streven naar een minimale verandering van de grond- en grondwaterkwaliteit. Streef naar het behoud of verbetering van de huidige kwaliteit.
+3. Op het uitvoeren van mechanische boringen in de bodem is de BRL SIKB 2101 (mechanisch boren) van toepassing en voor de algemene kwaliteitseisen voor het uitvoerende boorbedrijf is BRL SIKB 2100 van toepassing.
+4. De eigenaar/gebruiker van een toekomstige WKO-systeem moet zijn /haar ontwerp afstemmen op bestaande nabij gelegen WKO-systemen. Streef naar samenwerking en synergie waarbij het principe van eco-efficiency centraal staat.
+Voorschrift A2
+Een nieuw WKO-systeem mag een bestaand WKO-systeem niet negatief beïnvloeden.
+Voorschrift A3
+Gemiddeld over elk jaar is een netto opwarming van de bodem ten gevolge van het WKO-systeem niet toegestaan.
+Voorschrift A4
+1. Een energiebalans is noodzakelijk.
+2. Het WKO-systeem moet thermisch in balans zijn. De maximale afwijkingspercentages zijn 10% in 5 jaar en 5% in 10 jaar.
+3. Jaarlijks dient de energiebalans van het WKO-systeem te worden berekend op de wijze zoals aangeven in onderdeel B van deze bijlage.
+Voorschrift A5
+1. De watermeters die u gebruikt om te meten hoeveel water u aan de bodem onttrekt of hoeveel water u infiltreert, moeten nauwkeurig zijn en juist geplaatst zijn. Watermeters zijn voldoende nauwkeurig als ze geijkt zijn. Een watermeter mag een afwijking volgens de fabrieksspecificaties hebben van maximaal 5%.
+2. De temperatuurmeters die u gebruikt om te berekenen hoeveel energie u aan de bodem onttrekt of laad, moeten nauwkeurig zijn en juist geplaatst zijn. Temperatuurmeters zijn voldoende nauwkeurig als ze geijkt zijn. Een temperatuurmeter mag een afwijking volgens de fabrieksspecificaties hebben van maximaal 5%.
+3. De frequentie van energiemeting/berekening is minimaal 1 keer per maand.
+Voorschrift A6
+1. Voor het overhandigen van meetgegevens en registratie van voorvallen die van invloed kunnen zijn op de meting, wordt gebruik gemaakt van een door gedeputeerde staten vastgesteld meetformulier.
+2. Het meetformulier dient jaarlijks volledig en naar waarheid te worden ingevuld en door de houder te worden ondertekend, onder vermelding van de plaats en dagtekening.
+3. Uiterlijk op 31 januari van elk jaar of, indien het WKO-systeem is beëindigd, binnen 1 maand na het tijdstip van beëindiging, wordt opgave gedaan aan gedeputeerde staten over de in het voorgaande kalenderjaar gemeten hoeveelheden.
+4. De houder dient een kopie van het meetformulier ten minste 5 jaar beschikbaar te houden.
+Voorschrift A7
+1. Indien zich ten gevolge van het WKO-systeem een ongewoon voorval voordoet of heeft voorgedaan, waardoor nadelige gevolgen voor het grondwaterbeheer zijn ontstaan of dreigen te ontstaan, treft de houder onmiddellijke maatregelen die redelijkerwijs van hem kunnen worden verlangd om de gevolgen van het ongewone voorval te voorkomen of zover die gevolgen niet kunnen worden voorkomen, zoveel mogelijk te beperken en ongedaan te maken. Tevens meldt de houder dit voorval en de daarop genomen maatregelen terstond aan gedeputeerde staten.
+2. Binnen 13 weken na beëindiging van:
+- een open WKO-systeem dienen de weerstandbiedende lagen te worden hersteld met bentoniet;
+- een gesloten WKO-systeem dienen alle vloeistoffen te worden verwijderd en moet het systeem gespoeld worden met leidingwater. Aanvullend dienen de wisselaars te worden gevuld/afgedicht met bentoniet.
+3. Uiterlijk 13 weken voorafgaand aan de werkelijke beëindiging van het WKO-systeem moet de datum waarop de afdichting plaatsvindt schriftelijk aan gedeputeerde staten worden gemeld.
+4. De houder dient aan gedeputeerde staten gedeputeerde staten binnen 4 weken na de definitieve buitengebruikstelling van het WKO-systeem, schriftelijk te laten weten dat het WKO-systeem is ontmanteld en uit het register kan worden verwijderd.
+Open systemen
+Voorschrift 01
+De retourtemperatuur van het geïnjecteerde grondwater mag niet hoger zijn dan 25°C. Voor opvangen van pieken kan het bevoegd gezag een maximale retourtemperatuur van 30°C toegestaan, mits dit niet leidt tot overschrijding van de gemiddelde retourtemperatuur in de warme bron van 25°C op jaarbasis (jan/dec, verdisconteerd naar injectiedebieten).
+Voorschrift 02
+De bronnen van een open WKO-systeem moeten zijn gelegen op het eigen terrein.
+Voorschrift 03
+Alle effecten, met uitzondering van.de thermische effecten en hydrologische effecten, moeten zich beperken tot het eigen terrein en tot zone I.
+Voorschrift 04
+De freatische grondwaterstand mag buiten het perceel niet worden beïnvloed.
+Voorschrift 05
+In het bepompt pakket is een grondwaterstandsverlaging van maximaal 10 cm op de perceelgrens toegestaan.
+Voorschrift 06
+De thermische effecten moeten zich beperken tot de zone I op het eigen terrein.
+Voorschrift 07
+Mogelijk uitvoeren alternatief of vergoeding van de rendementsverliezen bij interferentie tussen bestaand gesloten en nieuw open systeem.
+Voorschrift 08
+Indien de grondwaterstromingssnelheid groter is dan 25 meter per jaar en gelegen in intrekgebied, is afstroming van warmte niet toegestaan.
+Gesloten systemen
+Voorschrift G1
+1. Ontwerp en uitvoering van verticale bodemwarmtewisselaars conform ISSO-publicatie 73 "ontwerp en uitvoering van verticale bodemwarmtewisselaars" tenzij in deze verordening anders vermeld.
+2. Ontwerp en uitvoering van horizontale of andere bodemwarmtewisselaars zoveel mogelijk ook conform ISSO-publicatie 73 "ontwerp en uitvoering van verticale bodemwarmtewisselaars" tenzij in deze verordening anders vermeld.
+3. De temperatuur van de bodemwarmtewisselaarvloeistof mag niet warmer dan 30°C of kouder dan 0°C zijn. Incidenteel is -5°C toegestaan.
+4. Het WKO-systeem moet zijn voorzien van een deugdelijk en functionerend lekdetectiesysteem.
+Voorschrift G2
+De bodemwarmtewisselaar(s) moet op eigen perceel worden aangelegd en op minimaal 2,5 m vanaf de perceelsgrens.
+Voorschrift G3
+In een oranjegebied mag alleen leidingwater als bodemwarmtewisselaarvloeistof worden toegepast.
+Voorschrift G4
+Indien het WKO-systeem wordt geplaatst door middel van de wegdrukmethode moet de bovenste 3 m door middel van bentoniet worden afgewerkt.
+B Berekening van de energiebalans
+Op basis van navolgende berekening dient jaarlijks de energiebalans (Eb) van het WKO-systeem te worden berekend. Frequentie van berekening op basis van meetformulier.
+Voor open systemen
+Met:
+Eb Energiebalans [MWh]
+Ew Toegevoegde koude in winterbedrijf [MWh]
+Ez Toegevoegde warmte in zomerbedrijf [MWh]
+Vw Verpompt hoeveelheid grondwater in winterbedrijf (m3)
+Vz Verpompt hoeveelheid grondwater in zomerbedrijf (m3)
+Tkgem Gemiddelde temperatuur van het water dat uit het koude veld wordt onttrokken (ºC)
+Twgem Gemiddelde temperatuur van het water dat uit het warme veld wordt onttrokken (ºC)
+Tiw Temperatuur van het water dat in het koude veld wordt geïnjecteerd (ºC)
+Tiz Temperatuur van het water dat in het warme veld wordt geïnjecteerd (ºC)
+Voor gesloten systemen
+Met:
+Eb Energiebalans [MWh]
+Ew Toegevoegde koude in winterbedrijf [MWh]
+Ez Toegevoegde warmte in zomerbedrijf [MWh]
+Vw Verpompt hoeveelheid bodemwarmtewisselaarvloeistof in winterbedrijf (m3)
+Vz Verpompt hoeveelheid bodemwarmtewisselaarvloeistof in zomerbedrijf (m3)
+Tkgem Gemiddelde temp. van de bodemwarmtewisselaarvloeistof dat uit de bodem komt (ºC)
+Twgem Gemiddelde temp. van de bodemwarmtewisselaarvloeistof dat uit de bodem komt (ºC)
+Tiw Temperatuur van de bodemwarmtewisselaarvloeistof dat in de bodem gaat (ºC)
+Tiz Temperatuur van de bodemwarmtewisselaarvloeistof dat in de bodem gaat (ºC)
+## Bijlage III, Lijst A en B als bedoeld in artikel 10.7, onder a en b
+Lijst A: vaarwegen in beheer bij de provincie
+Naam vaarweg Beheerder
+- Noord-Willemskanaal, voor zover in Drenthe provincie Drenthe
+- Drentsche Hoofdvaart provincie Drenthe
+- Het Meppelerdiep, voor zover in Drenthe provincie Drenthe
+- Hoogeveensche Vaart provincie Drenthe
+- Verlengde Hoogeveensche Vaart tot aan Klazienaveen provincie Drenthe
+- Stieltjes Kanaal provincie Drenthe
+- Coevorden-Vechtkanaal, vanaf de Coevorder
+Stadsgrachten tot de Vecht in de provincie Overijssel provincie Drenthe
+- Coevorder Stadsgrachten tussen het Stieltjeskanaal en
+het Kanaal Coevorden-Zwinderen provincie Drenthe
+- Coevorder Binnengracht provincie Drenthe
+- Verbindingskanaal in Coevorden provincie Drenthe
+- Coevorder Buitengracht provincie Drenthe
+- Zijtak van het Stieltjeskanaa provincie Drenthe
+- Bladderswijk provincie Drenthe
+- Oranjekanaal van de Bladderswijk tot de tot de
+Bargersluis provincie Drenthe
+- Witte Wijk provincie Drenthe
+- Afwateringskanaal in Coevorden tot einde
+woonbotenhaven provincie Drenthe
+Lijst B: vaarwegen in beheer bij andere overheidslichamen, het Rijk uitgezonderd
+Naam vaarweg Beheerder
+- Havenkanaal gemeente Assen
+- De Vaart gemeente Assen
+- Verdeelwerk Loon waterschap Hunze en Aa's
+- Norger-Vaart waterschap Reest en Wieden
+- Oranjekanaal tot Orveltersluis waterschap Reest en Wieden
+- Oranjekanaal vanaf Orveltersluis tot Bargersluis waterschap Velt en Vecht
+- Beilervaart waterschap Reest en Wieden
+- Linhorst-Homankanaal waterschap Reest en Wieden
+- Industriehaven Hoogeveen gemeente Hoogeveen
+-- Bargermeerkanaal van Bargersluis tot in Emmen gemeente Emmen
+- Dommerskanaal waterschap Velt en Vecht
+- Afwateringskanaal vanaf woonbotenhaven tot
+Overijsselse Vecht waterschap Velt en Vecht
+- Kanaal Coevorden Zwinderen vanaf sluis 1 waterschap Velt en Vecht
+- Kanaal Coevorden Zwinderen in Coevorden tot sluis 1 gemeente Coevorden
+- Binnengracht, buitengracht en binnenhaven Coevorden gemeente Coevorden
+- Haven Veenoord gemeente Emmen
+- Havens Meppel gemeente Meppel
+- Stads-Compascuumkanaal waterschap Hunze en Aa's
+- Verlengde Oosterdiep waterschap Hunze en Aa's
+-Eexterveenschekanaal waterschap Hunze en Aa's
