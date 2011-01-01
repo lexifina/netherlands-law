@@ -1,3 +1,3 @@
 # Artikel 18h
 1. In afwijking in zoverre van het overigens in of krachtens dit hoofdstuk bepaalde is een regeling waarvan geheel of gedeeltelijk een lichaam als bedoeld in artikel 19a, eerste lid, onderdelen d of e, als verzekeraar optreedt, een pensioenregeling indien zij voldoet aan de artikelen 18 tot en met 18g en voorts een pensioen inhoudt dat niet uitgaat boven hetgeen in collectieve regelingen gangbaar is.
-2. Bij algemene maatregel van bestuur kan worden vastgesteld wat in collectieve regelingen als bedoeld in het eerste lid gangbaar is. In afwijking daarvan kan worden vastgesteld dat de opbouwmogelijkheid, aangegeven in artikel 18a, eerste lid, onverkort van toepassing is.
+2. Bij algemene maatregel van bestuur kan worden vastgesteld wat in collectieve regelingen als bedoeld in het eerste lid gangbaar is.
