@@ -13,7 +13,9 @@
 #### afdeeling Eerste. Keuze van een raadsman
 #### afdeeling Tweede. Toevoeging van een raadsman
 #### afdeeling Derde. Bevoegdheden van den raadsman betreffende het verkeer met den verdachte en de kennisneming van processtukken
-### Titel IIIA. De benadeelde partij
+### Titel IIIA. Het slachtoffer
+#### afdeling Eerste. Rechten van het slachtoffer
+#### afdeling Tweede. Schadevergoeding
 ### Titel IIIC. : De deskundige
 ### Titel IV. Eenige bijzondere dwangmiddelen
 #### afdeeling Eerste. Aanhouding en inverzekeringstelling
@@ -101,7 +103,6 @@
 ### Titel VI. Behandeling van de zaak door de rechtbank
 #### afdeling Eerste. Onderzoek op de terechtzitting
 #### afdeeling Tweede. Onderzoek van de vordering van de benadeelde partij op de terechtzitting
-#### Tweede Afdeling A. Verklaring van het slachtoffer of diens nabestaande op de terechtzitting
 #### afdeeling Derde. Bewijs
 #### afdeeling Vierde. Beraadslaging en uitspraak
 ### Titel VII. Bijzondere bepalingen voor het rechtsgeding voor de politierechter

@@ -1,2 +1,4 @@
 # Artikel 51c
-Zij die om in een burgerlijk geding in rechte te verschijnen, bijstand behoeven of vertegenwoordigd moeten worden, hebben om zich overeenkomstig artikel 51b te voegen, in het strafproces de bijstand of vertegenwoordiging eveneens nodig. Een machtiging van de kantonrechter, als bedoeld in artikel 349, lid 1, Boek 1, van het Burgerlijk Wetboek, is voor die vertegenwoordiger niet vereist. Ten aanzien van de verdachte zijn de bepalingen betreffende bijstand of vertegenwoordiging, nodig in burgerlijke zaken, niet van toepassing.
+1. Het slachtoffer kan zich doen bijstaan.
+2. Het slachtoffer kan zich op de terechtzitting doen vertegenwoordigen door een advocaat, indien deze verklaart daartoe uitdrukkelijk gevolmachtigd te zijn, of door een gemachtigde die daartoe een bijzondere en schriftelijke volmacht heeft.
+3. Indien het slachtoffer de Nederlandse taal niet of niet voldoende beheerst, kan hij zich laten bijstaan door een tolk.

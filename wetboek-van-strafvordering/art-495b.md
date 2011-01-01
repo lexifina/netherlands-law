@@ -1,3 +1,3 @@
 # Artikel 495b
-1. De zaak wordt achter gesloten deuren behandeld. De voorzitter van de rechtbank kan tot bijwoning van de besloten terechtzitting bijzondere toegang verlenen.
+1. De zaak wordt achter gesloten deuren behandeld. De voorzitter van de rechtbank kan tot bijwoning van de besloten terechtzitting bijzondere toegang verlenen. Aan het slachtoffer of de nabestaanden van het slachtoffer wordt toegang verleend, tenzij de voorzitter wegens bijzondere redenen anders beslist.
 2. De voorzitter van de rechtbank gelast een openbare behandeling van de zaak indien naar zijn oordeel het belang van de openbaarheid van de zitting zwaarder moet wegen dan het belang van de bescherming van de persoonlijke levenssfeer van de verdachte, diens medeverdachte, ouders of voogd.

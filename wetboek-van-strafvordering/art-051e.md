@@ -1,3 +1,7 @@
 # Artikel 51e
-1. De benadeelde partij kan zich doen bijstaan.
-2. Zij kan zich doen vertegenwoordigen door een advocaat, indien deze verklaart daartoe bepaaldelijk gevolmachtigd te zijn, of door een daartoe bij bijzondere volmacht door haar schriftelijk gemachtigde.
+1. Het slachtoffer of een nabestaande kan op de terechtzitting een verklaring afleggen over de gevolgen die de strafbare feiten genoemd in het vierde lid bij hem teweeg hebben gebracht. Van het voornemen daartoe geeft hij voor de aanvang van de terechtzitting schriftelijk kennis aan de officier van justitie, opdat deze hem tijdig kan oproepen.
+2. Tot de nabestaanden die voor oproeping op grond van het eerste lid in aanmerking komen, behoren:
+a. de echtgenoot of geregistreerde partner of levensgezel, bij afwezigheid dan wel niet in staat of bereid zijn van deze;
+b. de bloedverwanten in de rechte lijn in de eerste graad en bij afwezigheid dan wel niet in staat of bereid zijn van deze, de bloedverwanten in de zijlijn in de tweede graad.
+3. Tot de slachtoffers of nabestaanden die van het spreekrecht gebruik kunnen maken, behoort de minderjarige die de leeftijd van twaalf jaar heeft bereikt. Hetzelfde geldt voor de minderjarige die die leeftijd nog niet heeft bereikt en die in staat kan worden geacht tot een redelijke waardering van zijn belangen terzake.
+4. Het spreekrecht kan worden uitgeoefend indien het tenlastegelegde feit een misdrijf betreft waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaar of meer is gesteld, dan wel een van de misdrijven genoemd in de artikelen 240b, 247, 248a, 248b, 249, 250, 273f, eerste lid, 285, 285b, 300, tweede en derde lid, 301, tweede en derde lid, 306 tot en met 308 en 318 van het Wetboek van Strafrecht en artikel 6 van de Wegenverkeerswet 1994.
