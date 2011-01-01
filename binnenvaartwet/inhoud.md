@@ -13,7 +13,10 @@
 ### § 1. Scheepsnummer
 ### § 2. Gegevensverstrekking
 ## Hoofdstuk 4a. Financiering inzameling en verdere verwijdering van olie- en vethoudende scheepsafvalstoffen
+### § 1. Algemene bepalingen
+### § 2. Afvalbeheerbijdrage
 ### § 3. Het nationaal instituut
+### § 4. Uitvoering van het verdrag
 ## Hoofdstuk 5. Handhaving
 ### § 1. Toezicht en opsporing
 ### § 2. Bestuurlijke boete
