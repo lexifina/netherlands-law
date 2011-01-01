@@ -4,4 +4,5 @@
 a. bij de aanvang van de arbeid als zelfstandige aanwezig was, of
 b. binnen drie jaar na de aanvang van de arbeid als zelfstandige is ontstaan, indien bij de aanvang van de arbeid als zelfstandige reeds een ziekte of handicap aanwezig was.
 3. Voorzieningen als bedoeld in het eerste lid worden niet verstrekt of worden beëindigd indien het inkomen van de persoon die arbeid als zelfstandige verricht, na een bij algemene maatregel van bestuur te bepalen aantal kalenderjaren na de aanvang van de arbeid als zelfstandige, meer bedraagt dan een bij die maatregel vast te stellen bedrag. Bij of krachtens die maatregel wordt tevens bepaald wat onder inkomen als bedoeld in de eerste zin wordt verstaan.
-4. Dit artikel is niet van toepassing op de persoon die recht op arbeidsondersteuning heeft op grond van de Wet werk en arbeidsondersteuning jonggehandicapten.
+4. Voor de toepassing van dit artikel en de daarop berustende bepalingen wordt, in afwijking van artikel 1, verstaan onder zelfstandige: de persoon die, anders dan in dienstbetrekking, arbeid in eigen bedrijf verricht of een beroep uitoefent, teneinde daarmee inkomen te verwerven.
+5. Dit artikel is niet van toepassing op de persoon die recht op arbeidsondersteuning heeft op grond van de Wet werk en arbeidsondersteuning jonggehandicapten.
