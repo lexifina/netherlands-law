@@ -1,0 +1,16 @@
+# Article X. The Council
+A. The Council shall consist of at least 11 but not more than 21 representatives of the Members of the Agency, elected by the Assembly. The concrete number of representatives between 11 and 21 shall correspond to the rounded up equivalent of one third of the Members of the Agency to be calculated on the basis of the number of Members of the Agency at the beginning of the respective election for members of the Council. The members of the Council shall be elected on a rotating basis as laid down in the rules of procedure of the Assembly, with a view to ensuring effective participation of developing and developed countries and achieving fair and equitable geographical distribution and effectiveness of the Council's work. The members of the Council shall be elected for a term of two years.
+B. The Council shall convene semi-annually and its meetings shall take place at the seat of the Agency, unless the Council decides otherwise.
+C. The Council shall, at the beginning of each meeting for the duration until its next meeting, elect a Chairperson and such other officials from among its members as may be required. It shall have the right to elaborate its rules of procedure. Such rules of procedure have to be submitted to the Assembly for approval.
+D. Each member of the Council shall have one vote. The Council shall take decisions on questions of procedure by a simple majority of its members. Decisions on matters of substance shall be taken by a majority of two thirds of its members. When the issue arises as to whether the question is one of substance or not, that question shall be treated as a matter of substance unless the Council, by a majority of two thirds of its members, decides otherwise.
+E. The Council shall be responsible and accountable to the Assembly. The Council shall carry out the powers and functions entrusted to it under this Statute, as well as those functions delegated to it by the Assembly. In so doing, it shall act in conformity with the decisions and with due regard to the recommendations of the Assembly and assure their proper and continuous implementation.
+F. The Council shall:
+1. facilitate consultations and cooperation among Members;
+2. consider and submit to the Assembly the draft work programme and the draft budget of the Agency;
+3. approve arrangements for the sessions of the Assembly including the preparation of the draft agenda;
+4. consider and submit to the Assembly the draft annual report concerning the activities of the Agency and other reports as prepared by the Secretariat according to Article XI paragraph E number 3 of this Statute;
+5. prepare any other reports which the Assembly may request;
+6. conclude agreements or arrangements with States, international organisations and international agencies on behalf of the Agency, subject to prior approval by the Assembly;
+7. substantiate the work programme as adopted by the Assembly with a view to its implementation by the Secretariat and within the limits of the adopted budget;
+8. have the authority to refer to the Assembly matters for its consideration; and
+9. establish subsidiary organs, when necessary, in accordance with Article VIII paragraph B, and decide on their terms of reference and duration.

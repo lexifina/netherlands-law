@@ -1,0 +1,7 @@
+# Artikel XIX. Ondertekening, bekrachtiging, inwerkingtreding en toetreding
+A. Dit Statuut staat tijdens de Oprichtingsconferentie open voor ondertekening door alle staten die lid zijn van de Verenigde Naties en door de regionale intergouvernementele organisaties voor economische integratie zoals omschreven in artikel VI, lid A. Het Statuut blijft openstaan voor ondertekening tot aan de datum van inwerkingtreding ervan.
+B. Voor staten en regionale intergouvernementele organisaties voor economische integratie zoals omschreven in artikel VI, lid A, die dit Statuut niet hebben ondertekend, staat het Statuut open voor toetreding nadat hun lidmaatschap door de Vergadering is goedgekeurd in overeenstemming met artikel VI, lid B, onderdeel 2.
+C. Door de nederlegging van een akte van bekrachtiging of toetreding bij de depositaris wordt de instemming door dit Statuut te worden gebonden tot uitdrukking gebracht. Bekrachtiging van of toetreding tot dit Statuut wordt door de staten verricht in overeenstemming met hun onderscheiden constitutionele procedures.
+D. Dit Statuut treedt in werking dertig dagen na de datum van nederlegging van de vijfentwintigste akte van bekrachtiging.
+E. Voor staten of regionale intergouvernementele organisaties voor economische integratie die een akte van bekrachtiging of toetreding hebben nedergelegd na de inwerkingtreding van het Statuut, treedt het Statuut in werking dertig dagen na de datum van nederlegging van de desbetreffende akte.
+F. Ten aanzien van de bepalingen van dit Statuut mogen geen voorbehouden worden gemaakt.

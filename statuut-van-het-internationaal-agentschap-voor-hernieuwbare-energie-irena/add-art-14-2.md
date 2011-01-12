@@ -1,0 +1,2 @@
+# Artikel XIV. Betrekkingen met andere organisaties
+Onder voorbehoud van goedkeuring door de Vergadering is de Raad gemachtigd namens het Agentschap overeenkomsten te sluiten en passende betrekkingen met de Verenigde Naties tot stand te brengen alsook met alle andere organisaties wier werkzaamheden verband houden met die van het Agentschap. De bepalingen van dit Statuut laten de rechten en verplichtingen van elk lid die voortvloeien uit bestaande internationale verdragen onverlet.

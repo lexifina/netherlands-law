@@ -1,0 +1,3 @@
+# Artikel XVI. Beslechting van geschillen
+A. Mogelijke geschillen betreffende de interpretatie of toepassing van dit Statuut worden door de leden op vreedzame wijze beslecht in overeenstemming met artikel 2, derde lid, van het Handvest van de Verenigde Naties en zij maken daartoe gebruik van de middelen die staan aangegeven in artikel 33, eerste lid, van het Handvest van de Verenigde Naties.
+B. De Raad kan met alle door hem nodig geachte middelen een bijdrage leveren aan de beslechting van het geschil, met inbegrip van het aanbieden van zijn goede diensten, het oproepen van de leden bij een geschil aan te vangen met de procedure van hun keuze voor de beslechting van het geschil en het aanbevelen van een termijn voor een overeengekomen procedure.

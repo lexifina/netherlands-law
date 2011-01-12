@@ -1,0 +1,7 @@
+# Article XIX. Signature, ratification, entry into force and accession
+A. This Statute shall be open for signature at the Founding Conference by all States that are members of the United Nations and regional intergovernmental economic integration organisations as defined in Article VI paragraph A. It shall remain open for signature until the date this Statute enters into force.
+B. For States and regional intergovernmental economic integration organisations as defined in Article VI paragraph A having not signed this Statute, this Statute shall be open for accession after their membership has been approved by the Assembly in accordance with Article VI paragraph B number 2.
+C. Consent to be bound by this Statute shall be expressed by depositing an instrument of ratification or accession with the Depositary. Ratification of or accession to this Statute shall be effected by States in accordance with their respective constitutional processes.
+D. This Statute shall enter into force on the thirtieth day after the date of deposit of the twenty-fifth instrument of ratification.
+E. For States or regional intergovernmental economic integration organisations having deposited an instrument of ratification or accession after the entry into force of the Statute, this Statute shall enter into force on the thirtieth day after the date of deposit of the relevant instrument.
+F. No reservations may be made to any of the provisions contained in this Statute.

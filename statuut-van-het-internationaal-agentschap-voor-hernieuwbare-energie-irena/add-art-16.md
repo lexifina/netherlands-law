@@ -1,0 +1,3 @@
+# Article XVI. Settlement of disputes
+A. Members shall settle any dispute between them concerning the interpretation or application of this Statute by peaceful means in accordance with Article 2 paragraph 3 of the Charter of the United Nations and, to this end, shall seek a solution by the means indicated in Article 33 paragraph 1 of the Charter of the United Nations.
+B. The Council may contribute to the settlement of a dispute by whatever means it deems appropriate, including offering its good offices, calling upon the Members to a dispute to start the settlement process of their choice and recommending a time limit for any agreed procedure.

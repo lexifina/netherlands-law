@@ -1,0 +1,3 @@
+# Article XVII. Temporary suspension of rights
+A. Any Member of the Agency which is in arrears with its financial contributions to the Agency shall have no right to vote if its arrears reach or exceed the amount of its contributions for the two preceding years. However, the Assembly may permit this Member to vote if it is convinced that the non-payment is due to circumstances beyond the Member's control.
+B. A Member which has persistently violated the provisions of this Statute or of any agreement entered into by it pursuant to this Statute may be suspended from the exercise of the privileges and rights of membership by the Assembly acting by a two-thirds majority of the Members present and voting upon recommendation by the Council.

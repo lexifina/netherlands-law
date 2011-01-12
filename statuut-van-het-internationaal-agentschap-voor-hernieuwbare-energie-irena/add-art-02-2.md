@@ -1,0 +1,4 @@
+# Artikel II. Doelstellingen
+Het Agentschap bevordert de grootschalige en verdere invoering en het duurzame gebruik van alle vormen van hernieuwbare energie, en houdt daarbij rekening met:
+a. nationale en binnenlandse prioriteiten en voordelen die worden behaald dankzij een combinatie van hernieuwbare energie en maatregelen om de energie-efficiëntie te vergroten, en
+b. de bijdrage die hernieuwbare energie levert aan milieubehoud, door vermindering van de druk op natuurlijke hulpbronnen en het terugdringen van ontbossing, met name de ontbossing in de tropen, woestijnvorming en het verlies van biodiversiteit, aan klimaatbescherming, aan economische groei en sociale cohesie met inbegrip van armoedebestrijding en duurzame ontwikkeling, aan toegang tot en zekerheid van energievoorziening, aan regionale ontwikkeling en aan de verantwoordelijkheid die de generaties jegens elkaar hebben.
