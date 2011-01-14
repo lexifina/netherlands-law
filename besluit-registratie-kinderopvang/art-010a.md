@@ -1,0 +1,2 @@
+# Artikel 10a. Informatieverstrekking aan voorzieningen voor gastouderopvang
+Een gastouderbureau stelt elke bij hem aangesloten voorziening voor gastouderopvang onverwijld in kennis van de op die voorziening betrekking hebbende registratie als bedoeld in artikel 8, waaronder de toekenning van het unieke registratienummer, bedoeld in dat artikel, en van wijziging of verwijdering van de op die voorziening betrekking hebbende gegevens, als bedoeld in de artikelen 9 en 10.
