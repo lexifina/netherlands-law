@@ -23,10 +23,10 @@ Agrarisch beheerpakket A01.01.01: Weidevogelgrasland met rustperiode
 Instapeisen:
 1. De beheereenheid bestaat uit grasland.
 2. De beheereenheid is ten minste 0,5 hectare groot.
-3. Cumulatie met alle beheerpakketten uitgesloten, uitgezonderd A01.03.01.
+3. Cumulatie met alle beheerpakket uitgesloten, uitgezonderd A01.03.01 en de beheerspakketten uit de Subsidieregeling agrarisch natuurbeheer Flevoland, bedoeld in artikel 4.1.1.5, derde lid, onderdeel a, van de onderhavige verordening.
 Beheereisen:
 1. Er wordt een rustperiode in acht genomen. De lengte van de rustperioden staat hieronder gedefinieerd.
-2. In de rustperiode is de beheereenheid niet beweid, gemaaid, gerold, gesleept, gescheurd, gefreesd, (her)ingezaaid, doorgezaaid of bemest. In deze periode is het gebruik van chemische bestrijdingsmiddelen niet toegestaan.
+2. In de rustperiode is de beheereenheid niet beweid, gemaaid, gerold, gesleept, gescheurd, gefreesd, (her)ingezaaid, doorgezaaid of bemest. In deze periode is het gebruik van chemische bestrijdingsmiddelen niet toegestaan. Voor de eilanden Terschelling, Ameland en Schiermonnikoog geldt dat in de rustperiode een kunstmestgift gegeven mag worden. In het goedgekeurde collectief beheerplan wordt geregeld hoe hierbij met het aanwezige legsel wordt omgegaan.
 Varianten:
 A01.01.01a De rustperiode loopt van 1 april tot 1 juni;
 A01.01.01b De rustperiode loopt van 1 april tot 8 juni;
@@ -39,7 +39,7 @@ Agrarisch beheerpakket A01.01.02: Weidevogelgrasland met voorweiden
 Instapeisen:
 1. De beheereenheid bestaat uit grasland.
 2. De beheereenheid is ten minste 0,5 hectare groot.
-3. Cumulatie met alle beheerpakketten uitgesloten, uitgezonderd A01.03.01.
+3. Cumulatie met alle beheerpakket uitgesloten, uitgezonderd A01.03.01 en de beheerspakketten uit de Subsidieregeling agrarisch natuurbeheer Flevoland, bedoeld in artikel 4.1.1.5, derde lid, onderdeel a, van de onderhavige verordening.
 Beheereisen:
 1. Er wordt een rustperiode in acht genomen. De lengte van de rustperiode staat hieronder gedefinieerd.
 2. In de rustperiode is de beheereenheid niet beweid, gemaaid, gerold, gesleept, gescheurd, gefreesd, (her)ingezaaid, doorgezaaid of bemest. In deze periode is het gebruik van chemische bestrijdingsmiddelen niet toegestaan.
@@ -51,7 +51,7 @@ Agrarisch beheerpakket A01.01.03: Plas-dras
 Instapeisen:
 1. De beheereenheid bestaat uit grasland.
 2. De beheereenheid is ten minste 0,5 hectare groot.
-3. Cumulatie met alle beheerpakketten uitgesloten, uitgezonderd A01.03.01.
+3. Cumulatie met alle beheerpakket uitgesloten, uitgezonderd A01.03.01 en de beheerspakketten uit de Subsidieregeling agrarisch natuurbeheer Flevoland, bedoeld in artikel 4.1.1.5, derde lid, onderdeel a, van de onderhavige verordening.
 Beheereisen:
 1. De beheereenheid is jaarlijks geïnundeerd. De inundatieperiode staat hieronder gedefinieerd.
 2. In de inundatieperiode staat op tenminste 60% van de beheereenheid het waterpeil ten minste 5 en ten hoogste 20 cm boven het maaiveld.
@@ -64,7 +64,7 @@ Agrarisch beheerpakket A01.01.04: landbouwgrond met legselbeheer
 Instapeisen:
 1. De beheereenheid bestaat uit grasland of bouwland.
 2. De beheereenheid is ten minste 0,5 hectare groot.
-3. Cumulatie met alle beheerpakketten uitgesloten, uitgezonderd A01.03.01.
+3. Cumulatie met alle beheerpakket uitgesloten, uitgezonderd A01.03.01 en de beheerspakketten uit de Subsidieregeling agrarisch natuurbeheer Flevoland, bedoeld in artikel 4.1.1.5, derde lid, onderdeel a, van de onderhavige verordening.
 Beheereisen:
 1. De beheereenheid wordt tijdens het broedseizoen een of enkele malen afgezocht op aanwezige legsels; de legsels worden gemarkeerd en, indien de beheereenheid wordt beweid, van deugdelijke legselbeschermers voorzien.
 2. Indien een perceel grasland wordt gemaaid of anderszins bewerkt, wordt een enclave van tenminste 50m2 om de aanwezige nesten gevrijwaard van alle landbouwkundige werkzaamheden.
@@ -79,7 +79,7 @@ Agrarisch beheerpakket A01.01.05: Kruidenrijk weidevogelgrasland
 Instapeisen:
 1. De beheereenheid bestaat uit grasland.
 2. De beheereenheid is ten minste 0,5 hectare groot.
-3. Cumulatie met alle beheerpakketten uitgesloten, uitgezonderd A01.03.01.
+3. Cumulatie met alle beheerpakket uitgesloten, uitgezonderd A01.03.01 en de beheerspakketten uit de Subsidieregeling agrarisch natuurbeheer Flevoland, bedoeld in artikel 4.1.1.5, derde lid, onderdeel a, van de onderhavige verordening.
 Beheereisen:
 1. Gebruik van chemische bestrijdingsmiddelen is slechts toegestaan voor pleksgewijze bestrijding van akkerdistel, ridderzuring en brandnetel.
 2. Uitsluitend bemesting met vaste mest toegestaan buiten de rustperiode.
@@ -91,67 +91,58 @@ Agrarisch beheerpakket A01.01.06: Extensief beweid weidevogelgrasland
 Instapeisen:
 1. De beheereenheid bestaat uit grasland.
 2. De beheereenheid is ten minste 0,5 hectare groot.
-3. Cumulatie met alle beheerpakketten uitgesloten, uitgezonderd A01.03.01.
+3. Cumulatie met alle beheerpakket uitgesloten, uitgezonderd A01.03.01 en de beheerspakketten uit de Subsidieregeling agrarisch natuurbeheer Flevoland, bedoeld in artikel 4.1.1.5, derde lid, onderdeel a, van de onderhavige verordening.
 Beheereisen:
 1. Beweiding is verplicht tot 15 juni met minimaal 1 en maximaal 1,5 GVE/ha.
 2. Tussen 1 april en 15 juni is de beheereenheid niet gemaaid, gerold, gesleept, gescheurd, gefreesd, (her)ingezaaid, doorgezaaid of bemest. In deze periode is het gebruik van chemische bestrijdingsmiddelen niet toegestaan.
 Agrarisch beheerpakket A01.02.01: Bouwland met broedende akkervogels
 Instapeisen:
 1. De beheereenheid bestaat uit bouwland.
-2. De beheereenheid is minimaal 9 meter breed en heeft een minimale oppervlakte van 0.3 ha.
-3. Cumulatie met alle beheerpakketten uitgesloten, uitgezonderd A01.03.01.
-4. In het jaar voorafgaand aan het contract moet u op bedrijfsniveau minimaal 4 verschillende gewassen telen, waaronder graan. Braakliggende grond beschouwen we als een gewas.
+2. De beheereenheid is minimaal 9 meter breed, tenzij in de onderstaande varianten anders wordt bepaald, en heeft een minimale oppervlakte van 0,3 ha.
+3. In het jaar voorafgaand aan het contract moet u op bedrijfsniveau minimaal 4 verschillende gewassen telen, waaronder graan. Braakliggende grond beschouwen we als een gewas.
 Beheereisen:
-1. De volgende begroeiing is door inzaai aanwezig: grassen, granen (niet zijnde maïs of graanstoppel), kruiden of een mengsel van deze. In het natuurbeheerplan wordt bepaald welke zaaimengsels en welke zaaidichtheden mogen worden gebruikt.
-2. 20-70% van de beheereenheid dient jaarlijks te worden gemaaid tussen 1 maart en 15 april. 20-70% van de beheereenheid dient jaarlijks te worden gemaaid tussen 15 juli en 15 september. Delen die opnieuw zijn ingezaaid hoeven in hetzelfde voorjaar niet te worden gemaaid. Het maaien mag niet gebeuren door klepelen. Het beheer wordt strooksgewijs uitgevoerd volgens onderstaande varianten.
-3. Mechanische en chemische onkruidbestrijding zijn niet toegestaan, met uitzondering van pleksgewijze bestrijding van akkerdistel, ridderzuring, haagwinde of kleefkruid.
-4. De beheereenheid mag niet worden beweid, bemest of als wendakker worden gebruikt.
+1. Tussen 1 mei en het moment van grondbewerking moet op de beheereenheid één van de volgende gewassen aanwezig zijn: grassen, granen (niet zijnde maïs of graanstoppel), kruiden of een mengsel van deze. Onder het moment van grondbewerking wordt verstaan de periode
+waarin de in de betreffende variant beschreven handelingen uitgevoerd mogen worden.
+2. Het gewas wordt ingezaaid, waarbij in het natuurbeheerplan wordt bepaald welke zaaimengsels en welke zaaidichtheden gebruikt mogen worden. Voor variant A01.02.01b geldt dat het gewas ook door spontane ontwikkeling aanwezig mag zijn.
+3. 20-70% van de beheereenheid dient jaarlijks ten minste twee maal te worden gemaaid tussen 1 maart en 15 september. Delen die opnieuw zijn ingezaaid hoeven in hetzelfde voorjaar niet te worden gemaaid. Het maaien mag niet gebeuren door klepelen. Het beheer wordt strooksgewijs uitgevoerd volgens onderstaande varianten. Het toegestane maairegime wordt verder gedifferentieerd in het natuurbeheerplan.
+4. Mechanische en chemische onkruidbestrijding zijn niet toegestaan, met uitzondering van pleksgewijze bestrijding van akkerdistel, ridderzuring, haagwinde, heermoes of kleefkruid.
+5. De beheereenheid mag niet worden beweid of bemest.
+6. Daar waar ploegen is toegestaan, mag ook een andere diepe grondbewerking worden toegepast.
 Varianten:
-A01.02.01a Jaarlijks dient 20-50% van de beheereenheid opnieuw tussen 1 maart en 15 april worden geploegd en opnieuw ingezaaid met een in het natuurbeheerplan voorgeschreven zaaimengsel.
-A01.02.01b Jaarlijks dient 20-50% van de beheereenheid opnieuw tussen 1 maart en 15 april te worden geploegd.
-A01.02.01c In het derde of vierde jaar dient de gehele beheereenheid tussen 1 maart en 15 april te worden geploegd en opnieuw ingezaaid met een in het natuurbeheerplan voorgeschreven zaaimengsel.
+A01.02.01a Jaarlijks dient 20-50% van de beheereenheid opnieuw tussen 1 september en 15 april worden geploegd en opnieuw ingezaaid met een in het natuurbeheerplan voorgeschreven zaaimengsel. De beheereenheid mag niet als wendakker gebruikt worden. A01.02.01b Jaarlijks dient 20-50% van de beheereenheid opnieuw tussen 1 september en 15 april te worden geploegd. Tussen 1 maart en 15 april mag nog een grondbewerking worden uitgevoerd. De beheereenheid mag niet als wendakker gebruikt worden. A01.02.01c In het derde of vierde jaar dient de gehele beheereenheid tussen 1 september en 15 april te worden geploegd en opnieuw ingezaaid met een in het natuurbeheerplan voorgeschreven zaaimengsel. Roulatie binnen het bedrijfsoppervlak is op dat moment mogelijk. De beheereenheid mag niet als wendakker gebruikt worden. Van de verplichting om in het derde of vierde jaar te ploegen en opnieuw in te zaaien kan worden afgeweken als dit is opgenomen in het goedgekeurde collectief beheerplan. A01.02.01d De beheereenheid is minimaal 12 meter breed. Tussen 15 april en 31 augustus mag maximaal 10% van de oppervlakte van de beheereenheid bedekt zijn met rijsporen. Tussen 1 september en 15 april mag maximaal 30% van de oppervlakte van de beheereenheid bedekt zijn met rijsporen. In het derde of vierde jaar dient tussen 1 september en 15 april over de gehele beheereenheid een diepe grondbewerking plaats te vinden en dient deze opnieuw te worden ingezaaid met een in het natuurbeheerplan voorgeschreven zaaimengsel. Roulatie binnen het bedrijfsoppervlak is op dat moment mogelijk.
 Agrarisch beheerpakket A01.02.02: Bouwland met doortrekkende en overwinterende akkervogels
 Instapeisen:
 1. De beheereenheid bestaat uit bouwland.
 2. De beheereenheid is minimaal 9 meter breed en heeft een minimale oppervlakte van 0.3 ha en een maximale oppervlakte van 2 ha.
-3. Cumulatie met alle beheerpakketten uitgesloten, uitgezonderd A01.03.01.
+3. Roulatie binnen het bedrijfsoppervlak is mogelijk.
 4. In het jaar voorafgaand aan het contract moet u op bedrijfsniveau minimaal 4 verschillende gewassen telen, waaronder graan. Braakliggende grond beschouwen we als een gewas.
 Beheereisen:
 1. Op de beheereenheid moet tussen 1 mei en 15 maart een graanmengsel staan van tenminste 50% zomertarwe, aangevuld met rogge, haver of een zaadragend gewas niet zijnde graan of maïs. De beheereenheid mag niet worden geoogst.
 2. De beheereenheid dient jaarlijks tussen 16 maart en 30 april te worden ingezaaid met een gangbare zaaidichtheid.
-3. Mechanische en chemische onkruidbestrijding zijn niet toegestaan, met uitzondering van pleksgewijze bestrijding van akkerdistel, ridderzuring, haagwinde of kleefkruid.
+3. Mechanische en chemische onkruidbestrijding zijn niet toegestaan, met uitzondering van pleksgewijze bestrijding van akkerdistel, ridderzuring, haagwinde, heermoes of kleefkruid.
 A01.02.02a Bouwland met doortrekkende en overwinterende akkervogels op kleigrond;
 A01.02.02b Bouwland met doortrekkende en overwinterende akkervogels op zandgrond;
 Agrarisch beheerpakket A01.02.03: Bouwland voor hamsters
 Instapeisen:
 1. De beheereenheid bestaat uit bouwland.
-2. De beheereenheid voldoet aan de minimale oppervlakte-eisen.
-3. De beheereenheid is geschikt bevonden voor de hamster en gelegen in, of in een straal van 2 km van, een hamsterkernleefgebied of hamsterverbindingszone.
-4. De beheereenheid bestaat uit aaneengesloten kavel met een gangbaar bouwplan voor een akkerbouwbedrijf. Het bouwplan bestaat uit minimaal vier verschillende gewassen.
-5. Doorsnijdingen zijn toegestaan mits deze als niet belemmerend beoordeeld worden.
-6. In het jaar voorafgaand aan het contract moet u op bedrijfsniveau minimaal 4 verschillende gewassen telen, waaronder graan. Braakliggende grond beschouwen we als een gewas.
-Beheerseisen.
-1. De grondbewerking voor alle gronden vindt maximaal tot een diepte van 25 cm plaats.
+2. In het jaar voorafgaand aan het contract moet u op bedrijfsniveau minimaal 4 verschillende gewassen telen waaronder graan.
+3. Voor de variant Bouwland voor hamsters geldt: de beheereenheid is ten minste 0,3 ha groot.
+4. Voor de variant Opvangstrook voor hamsters geldt: de beheereenheid is minimaal 15 meter breed en minimaal 100 meter lang.
 Varianten:
 A01.02.03a Bouwland voor hamsters.
-1. Hamstervriendelijk beheer bestaat uit het gewas Luzerne, bladramenas, wintertarwe of combinatie daarvan.
-2. Op de aangemelde kavel zal minimaal 50 % van de oppervlakte bestaan uit hamstervriendelijk beheer.
-3. De minimumoppervlakte van de beheereenheid is 1 ha.
-4. De luzerne wordt tot 15 juni geoogst.
-5. Na 15 juni blijft de luzerne staan tot 1 februari van het volgende jaar staan en worden dan geklepeld.
-6. De bladramenas wordt na 1 februari van het volgende jaar ondergewerkt.
-7. De wintertarwe wordt niet geoogst. Na 1 februari van het volgende jaar wordt het overblijvende gewas wintertarwe ondergewerkt.
-8. De teelt van alle gewassen vind plaats op basis van de goede landbouw en milieu praktijk (GLMC).
+1. Grondbewerking mag niet dieper dan 25 cm plaatsvinden.
+2. Op de beheereenheid wordt in overleg met de gebiedscoördinator één van de volgende gewassen geteeld: luzerne, graan (niet zijnde maïs), bladrammenas of een combinatie van deze gewassen.
+3. Luzerne wordt jaarlijks tussen 20 april en 20 juni gemaaid en afgevoerd.
+4. Graan wordt niet geoogst.
+5. De beheereenheid wordt jaarlijks in februari geklepeld. Buiten deze periode is bij overlast van de bruine rat klepelen toegestaan in overleg met de gebiedscoördinator.
 A01.02.03b Opvangstrook voor hamsters.
-1. Opvangstroken zijn stroken regulier graan die niet worden geoogst.
-2. De minimale grootte van de beheereenheid is 15 meter breed en 100 meter lang.
-3. Niet oogsten van de strook tot 1 februari van het volgende jaar. Tenzij er wintergraan ingezaaid wordt. Dan is oogsten en inzaaien toegestaan na 1 november.
-4. De opvangstrook rouleert jaarlijks.
+1. Grondbewerking mag niet dieper dan 25 cm plaatsvinden.
+2. De beheereenheid bestaat van augustus tot en met januari uit volgroeid graan (niet zijnde maïs). Bij overlast van de bruine rat is klepelen toegestaan in overleg met de gebiedscoördinator.
 Agrarisch beheerpakket A01.03.01: Overwinterende ganzen
 Instapeisen:
 1. De beheereenheid bestaat uit grasland of bouwland.
 2. De beheereenheid heeft een oppervlakte van minimaal 0,5 hectare en maakt onderdeel uit van een verzameling beheereenheden binnen één foerageergebied.
-3. Cumulatie met alle beheerpakketten uitgesloten, uitgezonderd A01.01.01 tot en met A01.01.06 en A02.01.01 en A02.01.02.
+3. Cumulatie met alle beheerpakketten uitgesloten, uitgezonderd A01.01.01 tot en met A01.01.06.
 Beheereisen:
 1. Het is niet toegestaan binnen de periode van 1 oktober tot 1 april handelingen te verrichten of toe te laten die de foerageerfunctie van het gebied voor ganzen en/of smienten negatief beïnvloeden.
 2. Onderhoud van sloten, walkanten en drainagesystemen is toegestaan van 1 oktober tot 1 februari.

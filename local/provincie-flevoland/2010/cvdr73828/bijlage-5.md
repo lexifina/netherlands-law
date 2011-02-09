@@ -2,16 +2,16 @@
 ## Bijlage 5: Eisen collectief beheerplan
 A. Een collectief beheerplan voldoet aan de volgende eisen:
 a. onderdeel van het collectief beheerplan maakt uit een elektronische kaart met een topografische ondergrond, waarop is aangegeven op welke landbouwgronden de deelnemende landbouwers welke agrarische beheerpakketten of varianten daarvan wensen uit te voeren;
-b. het collectief beheerplan is ondertekend door alle deelnemende landbouwers en de gebiedscoördinator;
+b. de gebiedscoördinator sluit met elk van de deelnemende landbouwers een overeenkomst waarin het beheer, bedoeld in subonderdeel a, wordt vastgelegd. De overeenkomst wordt door beide partijen ondertekend en in elk geval opgenomen in de administratie van de gebiedscoördinator;
 c. als onderdeel van het collectief beheerplan voegt de gebiedscoördinator een advies van de gebiedscoördinator met betrekking tot de kwaliteit van het collectief beheerplan;
 d. het collectief beheerplan omvat tevens een omschrijving en plaatsaanduiding van het beheer, uitgevoerd door ontvangers van:
 i. een subsidie natuurbeheer op grond van de onderhavige verordening;
 ii. een subsidie op grond van de Subsidieregeling agrarisch natuurbeheer {…naam provincie…};
 iii. een subsidie op grond van de Subsidieregeling agrarisch natuurbeheer van de minister;
 iv. een subsidie op grond van de Subsidieregeling natuurbeheer {…naam provincie…} of
-v. een subsidie op grond van de Subsidieregeling natuurbeheer 2000 van de minister,
-voor zover dit beheer samenhangt met en relevant is voor het doel van het collectief agrarisch natuurbeheer waarvoor de gebiedscoördinator een collectief beheerplan opstelt;
-e. aan nadere door Gedeputeerde Staten opgestelde eisen.
+v. een subsidie op grond van de Subsidieregeling natuurbeheer 2000 van de minister, voor zover dit beheer samenhangt met en relevant is voor het doel van het collectief agrarisch natuurbeheer waarvoor de gebiedscoördinator een collectief beheerplan opstelt;
+e. de gebiedscoördinator draagt er zorg voor dat de oppervlakte die per deelnemende landbouwer is opgenomen in het collectief beheerplan, groter gelijk onderscheidenlijk kleiner gelijk is dan de minimum- onderscheidenlijk maximumoppervlakte die de betreffende landbouwer heeft aangegeven in de aanvraag, bedoeld in artikel 4.1.2.1;
+f. aan nadere door Gedeputeerde Staten opgestelde eisen.
 B. Een wijziging van een vastgesteld collectief beheerplan voldoet aan de volgende eisen:
 a. onderdeel van de wijziging maakt uit een elektronische kaart met een topografische ondergrond waarop de wijzigingen, bedoeld in de onderdelen b en c, zijn aangegeven.
 b. op de in onderdeel a bedoelde kaart is ten behoeve van landbouwers die reeds vóór de indiening van de aanvraag tot wijziging van het collectief beheerplan deelnamen aan collectief agrarisch natuurbeheer in het gebied waarop het collectief beheerplan ziet, en voor zover daar door die landbouwers om is verzocht, aangegeven:
@@ -24,6 +24,8 @@ vi. op welke landbouwgronden die niet vóór de indiening van de aanvraag tot wi
 c. op de in onderdeel a bedoelde kaart is ten behoeve van landbouwers die niet reeds vóór de indiening van de aanvraag tot wijziging van het collectief beheerplan deelnamen aan collectief agrarisch natuurbeheer in het gebied waarop het collectief beheerplan ziet, op verzoek van die landbouwers, aangegeven op welke landbouwgronden zij voor de gehele periode, bedoeld in artikel 4.1.1.2, welke agrarische beheerpakketten of varianten daarvan wensen uit te voeren (nieuwe beheereenheid voor volledige subsidieperiode).
 d. een wijziging is ondertekend door alle landbouwers die bij de gebiedscoördinator een verzoek als bedoeld in de onderdelen b en c hebben ingediend, en de gebiedscoördinator;
 e. als onderdeel van de wijziging voegt de gebiedscoördinator een advies van de gebiedscoördinator met betrekking tot de kwaliteit van het collectief beheerplan in relatie tot de verzochte wijzigingen in beheer;
-f. aan nadere door Gedeputeerde Staten opgestelde eisen.
-• Wijzigingen als bedoeld in onderdeel b, onder i. en iii., zijn niet toegestaan voor zover deze tot gevolg hebben dat de landbouwer een agrarisch beheerpakket gaat uitvoeren dat behoort tot een ander agrarisch beheertype, of dat minder stringente eisen kent dan het agrarisch beheerpakket dat vóór het verzoek tot wijziging op die landbouwgrond of de gewijzigde landbouwgrond werd uitgevoerd;
-• Wijzigingen als bedoeld in onderdeel b, onder i. tot en met iii., zijn evenmin toegestaan voor zover zij betrekking hebben op agrarische beheerpakketten die behoren tot de agrarische beheertypen met de aanduiding A02.01 of A02.02.
+f. de gebiedscoördinator draagt er zorg voor dat de oppervlakte die per deelnemende landbouwer is opgenomen in het collectief beheerplan, groter gelijk is aan de minimumoppervlakte die de betreffende landbouwer heeft aangegeven in de aanvraag, bedoeld
+in artikel 4.1.2.1;
+g. aan nadere door Gedeputeerde Staten opgestelde eisen.
+• Wijzigingen als bedoeld in subonderdeel b, onder i. en iii., zijn niet toegestaan voor zover deze tot gevolg hebben dat de landbouwer een agrarisch beheerpakket gaat uitvoeren dat behoort tot een ander agrarisch beheertype, of dat minder stringente eisen kent dan het agrarisch beheerpakket dat vóór het verzoek tot wijziging op die landbouwgrond of de gewijzigde landbouwgrond werd uitgevoerd;
+• Wijzigingen als bedoeld in subonderdeel b, onder i. tot en met iii., zijn evenmin toegestaan voor zover zij betrekking hebben op agrarische beheerpakketten met de aanduiding A01.02.01, met uitzondering van variant c, A01.02.03 en A02.01.01 tot en met A02.02.03.

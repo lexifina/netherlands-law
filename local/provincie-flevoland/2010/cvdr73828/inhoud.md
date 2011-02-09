@@ -11,9 +11,9 @@
 ### Afdeling 5.1.3 Subsidie landschapsbeheer buiten natuurterreinen
 ## Hoofdstuk 6 Subsidie organisatiekosten
 ## Hoofdstuk 7 Wijziging en intrekking
-## Hoofdstuk 8 Certificering en subsidie certificeringskosten
+## Hoofdstuk 8 Certificering
 ### Paragraaf 8.1 Certificering
-### Paragraaf 8.2 Subsidie certificeringskosten
+### Paragraaf 8.2 Subsidie certificeringskosten (vervallen)
 ## Hoofdstuk 9 Collectief beheerplan
 ## Hoofdstuk 10 Verlaging jaarvergoeding en subsidies
 ## Hoofdstuk 11 Controle
