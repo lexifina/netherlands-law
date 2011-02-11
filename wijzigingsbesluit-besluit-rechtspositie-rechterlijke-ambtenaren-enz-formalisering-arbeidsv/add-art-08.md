@@ -1,0 +1,5 @@
+# Artikel VIII
+1. Artikel 27a van het Besluit rechtspositie rechterlijk ambtenaren, zoals dat luidde op 31 december 2005, blijft van toepassing op tegemoetkomingen:
+a. waarvoor binnen de termijnen, bedoeld in artikel 8 van de Regeling ziektekostenvoorziening rijkspersoneel, zoals dat artikel luidde op 31 december 2005, een aanvraag is ingediend, met betrekking tot een aaneengesloten tijdvak als bedoeld in genoemd artikel, dat uiterlijk loopt tot en met december 2005;
+b. waarvoor een aanvraag is ingediend die betrekking heeft op een tijdvak dat als gevolg van een eerder verleende tegemoetkoming is aangevangen na 1 januari 2005 en loopt tot en met december 2005.
+2. Bij een aanvraag als bedoeld in het eerste lid, onderdeel b, wordt, wanneer de aanvraag betrekking heeft op een verkort tijdvak, de hoogte van het drempelbedrag, bedoeld in artikel 9 van de Regeling ziektekostenvoorziening rijkspersoneel, zoals dat artikel luidde op 31 december 2005, vermenigvuldigd met de breuk waarbij de teller staat voor het aantal maanden waarop de aanvraag betrekking heeft, en de noemer 12 bedraagt.

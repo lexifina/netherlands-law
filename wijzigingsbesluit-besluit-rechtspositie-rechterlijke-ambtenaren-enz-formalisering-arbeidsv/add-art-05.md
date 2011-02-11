@@ -1,0 +1,3 @@
+# Artikel V
+1. De rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding, aan wie overeenkomstig het Besluit tegemoetkoming ziektekosten rijkspersoneel, zoals dat luidde op 31 december 2005, over december 2005 een tegemoetkoming voor een gezinslid als bedoeld in artikel 1, eerste lid, onderdeel b, ten eerste, van dat besluit is verleend, heeft recht op een eenmalige uitkering van € 450,–.
+2. De rechterlijk ambtenaar, die is aangesteld of aangewezen voor een minder dan volledige arbeidsduur, of de rechterlijk ambtenaar in opleiding ontvangt een tegemoetkoming die een met zijn arbeidsduur overeenkomend deel bedraagt van de tegemoetkoming bij een volledige arbeidsduur.

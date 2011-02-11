@@ -1,0 +1,2 @@
+# Artikel XV
+In afwijking van artikel 38a van het Besluit rechtspositie rechterlijke ambtenaren, zoals dat luidde op 30 juni 2010, wordt de korting, bedoeld in het vierde lid van dat artikel, vanaf 1 augustus 2007 teruggebracht tot 70% van 5% onderscheidenlijk 10% van het salaris, indien na 52 weken ongeschiktheid tot het verrichten van arbeid wegens ziekte de doorbetaling van het salaris van de rechterlijk ambtenaar op grond van artikel 17, tweede lid, van het Besluit rechtspositie rechterlijke ambtenaren wordt teruggebracht tot 70%.

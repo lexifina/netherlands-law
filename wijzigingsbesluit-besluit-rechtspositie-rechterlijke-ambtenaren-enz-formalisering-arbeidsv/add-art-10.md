@@ -1,0 +1,3 @@
+# Artikel X
+1. Artikel 33 van het Besluit rechtspositie rechterlijke ambtenaren, zoals dat luidde op 31 december 2006, blijft van toepassing ten aanzien van de gewezen rechterlijk ambtenaar of gewezen rechterlijk ambtenaar in opleiding van wie het ontslag is ingegaan vóór 1 januari 2007.
+2. De gewezen rechterlijk ambtenaar of gewezen rechterlijk ambtenaar in opleiding die recht heeft op suppletie overeenkomstig de Suppletieregeling gedeeltelijk arbeidsongeschikten sector Rijk, heeft geen recht heeft op een aanvullende uitkering als bedoeld in artikel 18, vierde lid, van het Besluit rechtspositie rechterlijke ambtenaren, zoals dat luidde op 31 december 2006, tenzij het recht op suppletie niet tot uitbetaling komt.
