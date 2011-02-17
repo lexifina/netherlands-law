@@ -1,2 +1,2 @@
-# Artikel 7a.3. Getuigschrift bekwaamheidsonderzoek WPO, WEC en WVO
+# Artikel 7a.3. Getuigschrift bekwaamheidsonderzoek WPO, WPO BES, WEC, WVO en WVO BES
 Ten bewijze dat het bekwaamheidsonderzoek met goed gevolg is afgesloten, wordt door de examencommissie van een instelling die daarvoor het meest in aanmerking komt een getuigschrift bekwaamheidsonderzoek uitgereikt. Op het getuigschrift wordt vermeld, welke onderdelen het bekwaamheidsonderzoek omvatte en, in een voorkomend geval, welke bevoegdheid daaraan is verbonden, rekening houdend met artikel 7.6, eerste lid.

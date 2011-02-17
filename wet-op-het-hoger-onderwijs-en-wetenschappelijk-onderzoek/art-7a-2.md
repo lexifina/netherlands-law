@@ -1,2 +1,2 @@
 # Artikel 7a.2. Reikwijdte
-Dit hoofdstuk heeft betrekking op de bekostigde en ingevolge artikel 6.9 aangewezen instellingen voor hoger onderwijs die voldoen aan artikel 176g van de Wet op het primair onderwijs, artikel 162j van de Wet op de expertisecentra of artikel 118p van de Wet op het voortgezet onderwijs.
+Dit hoofdstuk heeft betrekking op de bekostigde en ingevolge artikel 6.9 aangewezen instellingen voor hoger onderwijs die voldoen aan artikel 176g van de Wet op het primair onderwijs, artikel 149 van de Wet primair onderwijs BES, artikel 162j van de Wet op de expertisecentra, artikel 118p van de Wet op het voortgezet onderwijs of artikel 204 van de Wet voortgezet onderwijs BES.
