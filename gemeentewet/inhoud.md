@@ -51,7 +51,3 @@
 ### Hoofdstuk XVII. Schorsing en vernietiging
 ## Titel VI
 ## Titel VII. Overgangs- en slotbepalingen
-## Ministerie van Verkeer en Waterstaat
-## Ministerie van Volksgezondheid, Welzijn en Sport
-## Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
-## Ministerie van Onderwijs en Wetenschappen
