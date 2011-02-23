@@ -48,6 +48,3 @@
 ### Hoofdstuk XVIII. Schorsing en vernietiging
 ## Titel VI
 ## Titel VII. Overgangs- en slotbepalingen
-## Ministerie van Volksgezondheid, Welzijn en Sport
-## Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
-## Ministerie van Onderwijs, Cultuur en Wetenschappen
