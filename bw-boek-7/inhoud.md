@@ -12,8 +12,8 @@
 #### Afdeling 9. Koop op proef
 #### Afdeling 9A. Overeenkomsten op afstand
 #### Afdeling 10. Koop van vermogensrechten
-#### Afdeling 10A. Koop van rechten van gebruik in deeltijd van onroerende zaken
 #### Afdeling 12. Ruil
+### Titel 1a. Overeenkomsten betreffende het gebruik in deeltijd, vakantieproducten van lange duur, bijstand en uitwisseling
 ### Titel 2. Financiëlezekerheidsovereenkomsten
 ### Titel 3. Schenking
 ### Titel 4. Huur

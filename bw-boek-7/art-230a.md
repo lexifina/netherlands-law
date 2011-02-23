@@ -8,3 +8,4 @@
 7. Bij afwijzing van het verzoek stelt de rechter het tijdstip van ontruiming vast. De beschikking geldt als een veroordeling tot ontruiming tegen dat tijdstip.
 8. Tegen een beschikking krachtens dit artikel staat geen hogere voorziening open.
 9. Van dit artikel kan niet ten nadele van de huurder worden afgeweken.
+10. De leden 1–9 zijn niet van toepassing, wanneer de overeenkomst tevens aan de omschrijving voldoet van een overeenkomst als bedoeld in artikel 50a, onderdelen c of f.
