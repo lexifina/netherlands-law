@@ -1,0 +1,2 @@
+# Artikel V
+Met betrekking tot immateriële activa die na 31 december 2007, maar voor 1 januari 2010 tot de bedrijfsmiddelen van de belastingplichtige zijn gaan behoren en waarvoor aan hem een S&O-verklaring is afgegeven als bedoeld in de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen, blijven de artikelen 7a en 16a van het Besluit fiscale eenheid 2003 zoals deze luidden op 31 december 2009 van toepassing.
