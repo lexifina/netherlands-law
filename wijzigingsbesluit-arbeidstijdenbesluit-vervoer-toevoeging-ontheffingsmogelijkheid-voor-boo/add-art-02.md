@@ -1,0 +1,2 @@
+# Artikel II
+Ontheffingen verleend op grond van artikel 4.9:1, eerste lid, van het Arbeidstijdenbesluit vervoer zoals dat luidde voor het tijdstip van inwerkingtreding van artikel I van dit besluit, worden vanaf dat tijdstip gelijkgesteld met een ontheffing verleend op grond van artikel 4.9:1, eerste lid, onder a, van het Arbeidstijdenbesluit vervoer, zoals dat luidt na inwerkingtreding van artikel I van dit besluit.
