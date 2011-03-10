@@ -1,0 +1,8 @@
+# Artikel 34a. Vangstcertificaten bij invoer
+1. Het is verboden in strijd te handelen met artikel 12, eerste en tweede lid, artikel 14, eerste en tweede lid, en artikel 22, vijfde lid, van verordening nr. 1005/2008.
+2. Indien de invoer betrekking heeft op visserijproducten van de soorten, genoemd in artikel 2, onderdeel a, van verordening nr. 620/2010, artikel 3, onderdeel b en c, van verordening nr. 1984/2003 of artikel 3, onderdeel a, van verordening nr. 1035/2001, wordt voor de toepassing van het eerste lid gebruik gemaakt van:
+a. het vangstcertificaat, bedoeld in artikel 3, tweede lid, van verordening nr. 620/2010, dat overeenkomstig artikel 4 van die verordening is afgegeven, ingevuld en gewaarmerkt,
+b. het statistisch document, bedoeld in artikel 4 van verordening nr. 1984/2003, dat overeenkomstig dat artikel is afgegeven, ingevuld en gewaarmerkt, onderscheidenlijk
+c. het vangstdocument, bedoeld in artikel 3, onderdeel b, van verordening nr. 1035/2001, dat overeenkomstig die verordening is afgegeven, ingevuld en gewaarmerkt.
+3. In aanvulling op het eerste lid is de invoer van visserijproducten als bedoeld in artikel 2, achtste lid, van verordening nr. 1005/2008, verboden indien de invoer van die producten is geweigerd op grond van artikel 18, eerste en tweede lid, van die verordening.
+4. Indien de vrijgave en het in de handel brengen van visserijproducten op grond van artikel 17, zevende lid, van verordening nr. 1005/2008 is opgeschort, komen de kosten voor de opslag van die producten gedurende de periode, bedoeld in artikel 17, vijfde lid, van die verordening ten laste van de marktdeelnemer.
