@@ -1,0 +1,2 @@
+# Artikel 2a
+Het leggen van lokvoer is buiten de leefgebieden voor wilde zwijnen op de Veluwe en de Meinweg, alsmede in de nulstandgebieden binnen deze leefgebieden, en tot 1 april 2008 eveneens binnen het leefgebied voor wilde zwijnen op de Veluwe, beide zoals aangegeven op de als bijlage bij deze regeling behorende kaarten, niet voldoende effectief om het benodigde afschot op een andere wijze te realiseren dan bedoeld in artikel 74, tweede lid, van de Flora- en faunawet.
