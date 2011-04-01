@@ -1,0 +1,5 @@
+# Artikel 11d
+1. Op de behandeling van klachten over en onderzoek uit eigen beweging naar bestuursorganen met een eigen voorziening voor de behandeling van verzoekschriften als bedoeld in artikel 1a, eerste lid, onder b, en organen van rechtspersonen als bedoeld in artikel 11c, eerste lid, onder b, door de Kinderombudsman zijn artikel 15 alsmede titel 9.2 van de Algemene wet bestuursrecht van overeenkomstige toepassing.
+2. In afwijking van artikel 9:18, eerste lid, van de Algemene wet bestuursrecht, kan een klacht als bedoeld in artikel 11c, eerste lid, mondeling worden ingediend. De artikelen 9:23 onder a en 9:28 van de Algemene wet bestuursrecht zijn in dat geval niet van toepassing.
+3. In afwijking van artikel 9:18, derde lid, van de Algemene wet bestuursrecht is de Kinderombudsman niet verplicht een onderzoek in te stellen, indien de klacht een orgaan als bedoeld in artikel 11c, eerste lid, onder b, betreft.
+4. De in artikel 9:33 van de Algemene wet bestuursrecht bedoelde vergoeding van kosten vindt plaats ten laste van het Rijk indien het onderzoek betrekking heeft op een orgaan van een rechtspersoon als bedoeld in artikel 11c, eerste lid, onder b.
