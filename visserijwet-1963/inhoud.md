@@ -16,5 +16,5 @@
 #### § 6. Beroep van beslissingen van de Kamer
 ### Afdeling II. Het orgaan
 #### § 2. De Kamer voor de Binnenvisserij
-## Hoofdstuk VI. Toezichts-, dwang- en strafbepalingen
+## Hoofdstuk VI. Bestuurlijke maatregelen en toezichts-, dwang- en strafbepalingen
 ## Hoofdstuk VII. Overgangs- en slotbepalingen
