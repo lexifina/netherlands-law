@@ -1,2 +1,0 @@
-# Slotformulering
-secretaris en voorzitter
