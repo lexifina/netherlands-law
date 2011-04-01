@@ -3,7 +3,7 @@ Economische delicten zijn eveneens:
 1°. overtredingen van voorschriften, gesteld bij of krachtens:
 de Flora- en faunawet, artikel 13, eerste lid;
 de Gezondheids- en welzijnswet voor dieren, de artikelen 81b, 81c, 81d, 81m, 81n en 81o;
-de Kernenergiewet, de artikelen 15, 21, 21a, 21e, eerste lid, 29, eerste lid, 31, 32, eerste lid, 34, eerste, vijfde en zesde lid, 37b, 38a, 46, eerste lid, 47, eerste lid, 49b, eerste lid, 49d, 75, tweede lid, en 76a;
+de Kernenergiewet, de artikelen 15, 15f, eerste en zesde lid, 21, 21a, 21e, eerste lid, 29, eerste lid, 31, 32, eerste lid, 34, eerste, vijfde en zesde lid, 37b, 38a, 46, eerste lid, 47, eerste lid, 49b, eerste lid, 49d, 75, tweede lid, en 76a;
 de Meststoffenwet, de artikelen 7, 14, eerste lid, 19, 20, eerste lid, 21, 22, derde lid, en 26, zesde lid;
 de Waterwet, de artikelen 6.2, 6.3, 6.4, 6.5, 6.6, eerste en tweede lid, 6.7, 6.8, 6.10, eerste lid, 6.20, derde lid, tenzij de desbetreffende vergunning uitsluitend berust op een verordening van een waterschap, en 10.1;
 de Wet algemene bepalingen omgevingsrecht, artikel 2.1, eerste lid, aanhef en onder e, en artikel 2.3, aanhef en onder a;
