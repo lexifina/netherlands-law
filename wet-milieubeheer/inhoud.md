@@ -54,6 +54,7 @@
 ### Titel 9.3. De EG-verordening registratie, evaluatie en autorisatie van chemische stoffen
 ### Titel 9.3a. De EG-verordening indeling, etikettering en verpakking van stoffen en mengsels
 ### Titel 9.4. De EG-richtlijn ecologisch ontwerp energiegerelateerde producten
+### Titel 9.6. De EG-richtlijn ter bevordering van schone en energiezuinige wegvoertuigen
 ## Hoofdstuk 10. Afvalstoffen
 ### Titel 10.1. Algemeen
 ### Titel 10.2. Het afvalbeheerplan
