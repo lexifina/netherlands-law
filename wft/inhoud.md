@@ -39,6 +39,7 @@
 #### Afdeling 1.5.2. Publicatiemogelijkheden van de toezichthouders
 ### Hoofdstuk 1.6. Procedures
 #### Afdeling 1.6.1. Vergunningen
+#### Afdeling 1.6.1a. Verklaringen van geen bezwaar als bedoeld in artikel 3:95 en 3:96
 #### Afdeling 1.6.2. Registratie
 #### Afdeling 1.6.3. Beroep
 ## 2. Deel Markttoegang Financiële Ondernemingen
@@ -52,6 +53,11 @@
 #### Afdeling 2.2.1. Uitoefenen van bedrijf van clearinginstelling
 ##### § 2.2.1.1. Vergunningplicht en -eisen voor clearinginstellingen met zetel in Nederland
 ##### § 2.2.1.2. Bijkantoor en verrichten van diensten door clearinginstellingen met zetel buiten Nederland
+#### Afdeling 2.2.1.a. Uitoefenen van bedrijf van elektronischgeldinstelling
+##### § 2.2.1a.1. Vergunningplicht en eisen voor elektronischgeldinstellingen met zetel in Nederland
+##### § 2.2.1a.2. Vrijstelling
+##### § 2.2.1a.3. Bijkantoren en agenten van en verrichten van diensten door elektronischgeldinstellingen met zetel in een andere lidstaat
+##### § 2.2.1a.4. Elektronischgeldinstellingen met zetel in een staat die geen lidstaat is
 #### Afdeling 2.2.2. Uitoefenen van bedrijf van kredietinstelling en financiële instelling
 ##### § 2.2.2.1. Vergunningplicht en -eisen voor kredietinstellingen met zetel in Nederland
 ##### § 2.2.2.2. Bijkantoor en verrichten van diensten door kredietinstellingen met zetel in een andere lidstaat
@@ -108,6 +114,8 @@
 ##### § 2.3.0.1. Bijkantoor en verrichten van diensten door een betaalinstelling naar een andere lidstaat
 #### Afdeling 2.3.1. Uitoefenen van bedrijf van clearinginstelling
 ##### § 2.3.1.1. Bijkantoor buiten Nederland
+#### Afdeling 2.3.1a. Uitoefenen van het bedrijf van elektronischgeldinstelling met zetel in Nederland
+##### § 2.3.1a.1. Verrichten van diensten door een elektronischgeldinstelling met zetel in Nederland naar een andere lidstaat
 #### Afdeling 2.3.2. Uitoefenen van bedrijf van kredietinstelling en financiële instelling
 ##### § 2.3.2.1. Bijkantoor en verrichten van diensten door een kredietinstelling naar een andere lidstaat
 ##### § 2.3.2.2. Bijkantoor en verrichten van diensten door een kredietinstelling naar een staat die geen lidstaat is
