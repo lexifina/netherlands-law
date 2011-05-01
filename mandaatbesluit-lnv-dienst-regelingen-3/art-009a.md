@@ -1,2 +1,0 @@
-# Artikel 9a
-De algemeen directeur, de unitmanagers, de manager en plaatsvervangend manager recht en rechtsbescherming, de teammanagers juridische zaken en de teammanager recht en rechtsbescherming van de Dienst Regelingen zijn gemachtigd om namens de Minister van Economische Zaken, Landbouw en Innovatie te beslissen en stukken te ondertekenen betreffende de verschuldigdheid en de hoogte van de dwangsom bij niet tijdig beslissen en de terugvordering van dergelijke dwangsommen bij onverschuldigde betaling.
