@@ -1,2 +1,0 @@
-# Artikel 6a
-Aan de projectmanager Hanzelijn van ProRail B.V. wordt mandaat verleend om namens de Minister van Verkeer en Waterstaat besluiten te nemen inzake de verschuldigdheid en de hoogte van de dwangsom bij niet tijdig beslissen op verzoeken om schadevergoeding als bedoeld in artikel 22 van het Tracébesluit Hanzelijn en artikel 21 van het Tracébesluit Hanzelijn Aanvulling Hattem-Zwolle, met uitzondering van het beslissen op bezwaarschriften tegen voornoemde besluiten.

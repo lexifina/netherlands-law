@@ -1,2 +1,0 @@
-# Artikel 6b
-Aan de projectmanager Sloelijn van ProRail B.V. wordt mandaat verleend om namens de Minister van Verkeer en Waterstaat besluiten te nemen inzake de verschuldigdheid en de hoogte van de dwangsom bij niet tijdig beslissen op verzoeken om schadevergoeding als bedoeld in artikel 19 van het Tracébesluit Sloelijn, met uitzondering van het beslissen op bezwaarschriften tegen voornoemde besluiten
