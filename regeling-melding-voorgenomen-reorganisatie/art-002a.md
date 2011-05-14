@@ -1,0 +1,2 @@
+# Artikel 2a
+In afwijking van artikel 2, indien een voorgenomen reorganisatie voor 20 of minder ambtenaren wijziging van de rechtspositie tot gevolgen heeft, adviseert de Adviescommissie, bedoeld in artikel 2, derde lid, de Minister van Veiligheid en Justitie over het verzoek, als bedoeld in artikel 5, tweede lid, van de Regeling landelijk sociaal statuut, van het bevoegd gezag om het instellen van een plaatsingsadviescommissie, bedoeld in artikel 5, eerste lid, van de Regeling landelijk sociaal statuut, achterwege te laten.
