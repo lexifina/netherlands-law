@@ -1,0 +1,4 @@
+# Artikel IIa
+Op subsidies die zijn aangevraagd of verstrekt op grond van hoofdstuk 4 van de Subsidieregeling innoveren vóór de inwerkingtreding van deze regeling, blijft hoofdstuk 4 van toepassing zoals dat luidde direct voorafgaand aan de inwerkingtreding van deze regeling, met dien verstande dat met ingang van 16 mei 2011:
+a. een accountantsverklaring bij een aanvraag om vaststelling van een subsidie niet meer behoeft te worden overgelegd;
+b. verzoeken om vaststelling worden ingediend met gebruikmaking van het na de inwerkingtreding van de regeling van de Minister van Economische Zaken, Landbouw en Innovatie nr. WJZ/11052775, houdende wijziging van de Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 23 februari 2011, nr. WJZ/11019095 in verband met reductie administratieve lasten in bijlage 4.3 opgenomen formulier.
