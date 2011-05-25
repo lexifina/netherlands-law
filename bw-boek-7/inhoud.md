@@ -15,6 +15,13 @@
 #### Afdeling 12. Ruil
 ### Titel 1a. Overeenkomsten betreffende het gebruik in deeltijd, vakantieproducten van lange duur, bijstand en uitwisseling
 ### Titel 2. Financiëlezekerheidsovereenkomsten
+### Titel 2a. Consumentenkredietovereenkomsten
+#### Afdeling 1. Algemene bepalingen
+#### Afdeling 2. Informatieverstrekking en handelingen voorafgaand aan het sluiten van de kredietovereenkomst
+#### Afdeling 3. Informatie en rechten betreffende kredietovereenkomsten
+#### Afdeling 4. Jaarlijks kostenpercentage
+#### Afdeling 5. Kredietgevers en kredietbemiddelaars
+#### Afdeling 6. Slotbepalingen
 ### Titel 3. Schenking
 ### Titel 4. Huur
 #### Afdeling 1. Algemene bepalingen
