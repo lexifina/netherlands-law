@@ -1,0 +1,5 @@
+# Artikel 2bis
+Aan een strafbaar feit in de zin van dit Protocol maakt zich schuldig hij die wederrechtelijk en opzettelijk, indien het doel van de gedraging door haar aard of context is een bevolking te intimideren of een regering of internationale organisatie te dwingen tot het verrichten of zich onthouden van enige handeling:
+a. tegen, op of vanaf een vast platform een explosief, radioactief materiaal of een biologisch, chemisch of nucleair wapen doet vrijkomen op een wijze die leidt of kan leiden tot de dood of ernstig letsel of ernstige schade; of
+b. van een vast platform olie, vloeibaar gemaakt aardgas of een andere schadelijke of gevaarlijke stof doet vrijkomen waarop sub a niet van toepassing is en wel in een zodanige hoeveelheid of concentratie dat dit leidt of kan leiden tot de dood of ernstig letsel of ernstige schade; of
+c. al dan niet gepaard gaand met een voorwaarde zoals voorzien in de nationale wetgeving dreigt met het plegen van een strafbaar feit zoals voorzien in sub a of b.
