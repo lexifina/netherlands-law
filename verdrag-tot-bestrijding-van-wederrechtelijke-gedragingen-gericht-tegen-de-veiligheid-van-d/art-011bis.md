@@ -1,0 +1,2 @@
+# Article 11bis
+None of the offences set forth in article 3, 3bis, 3ter or 3quater shall be regarded for the purposes of extradition or mutual legal assistance as a political offence or as an offence connected with a political offence or as an offence inspired by political motives. Accordingly, a request for extradition of for mutual legal assistance based on such an offence may not be refused on the sole ground that it concerns a political offence or an offence connected with a political offence or an offence inspired by political motives.

@@ -1,0 +1,2 @@
+# Artikel 3ter
+Aan een strafbaar feit in de zin van dit Verdrag maakt zich schuldig hij die wederrechtelijk en opzettelijk een andere persoon aan boord van een schip vervoert, wetende dat deze persoon een strafbaar feit heeft gepleegd zoals omschreven in artikel 3, 3bis of 3quater of een strafbaar feit omschreven in een van de verdragen omschreven in de Bijlage, en met het oogmerk die persoon te helpen strafrechtelijke vervolging te ontlopen.

@@ -1,0 +1,2 @@
+# Artikel 11bis
+Geen van de in artikel 3, 3bis, 3ter of 3quater omschreven strafbare feiten wordt, ten behoeve van uitlevering of wederzijdse rechtshulp, aangemerkt als een politiek delict, een met een politiek delict samenhangend delict of een delict ingegeven door politieke motieven. Dienovereenkomstig mag een verzoek om uitlevering of om wederzijdse rechtshulp op basis van een dergelijk delict niet worden geweigerd met als enige reden dat het een politiek delict, een met een politiek delict samenhangend delict of een delict ingegeven door politieke motieven betreft.

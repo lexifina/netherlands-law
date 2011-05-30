@@ -1,0 +1,2 @@
+# Artikel 16bis. Slotbepalingen van het Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de zeevaart van 2005
+De slotbepalingen van het Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de zeevaart van 2005 zijn de artikelen 17 tot en met 24 van het Protocol van 2005 bij het Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de zeevaart. Verwijzingen in dit Verdrag naar Staten-Partijen verwijzen naar Staten-Partijen bij dat Protocol.

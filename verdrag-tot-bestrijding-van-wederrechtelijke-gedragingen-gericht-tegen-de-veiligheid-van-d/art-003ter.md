@@ -1,0 +1,2 @@
+# Article 3ter
+Any person commits an offence within the meaning of this Convention if that person unlawfully and intentionally transports another person on board a ship knowing that the person has committed an act that constitutes an offence set forth in article 3, 3bis or 3quater or an offence set forth in any treaty listed in the Annex, and intending to assist that person to evade criminal prosecution.

@@ -1,0 +1,2 @@
+# Article 16bis. Final clauses of the Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation, 2005
+The final clauses of the Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation, 2005 shall be articles 17 to 24 of the Protocol of 2005 to the Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation. References in this Convention to States Parties shall be taken to mean references to States Parties to that Protocol.

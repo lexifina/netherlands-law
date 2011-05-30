@@ -1,0 +1,10 @@
+# Artikel 12bis
+1. Een persoon die in detentie zit of een straf ondergaat op het grondgebied van een Staat-Partij, om wiens aanwezigheid op het grondgebied van een andere Staat-Partij wordt verzocht ten behoeve van identificatie, een getuigenverklaring of voor het op andere wijze verlenen van medewerking ter verkrijging van bewijs voor onderzoek of vervolging inzake strafbare feiten omschreven in artikel 3, 3bis, 3ter of 3quater, mag worden overgebracht, indien voldaan wordt aan de volgende voorwaarden:
+a. de persoon geeft vrijwillig zijn op volledige informatie gebaseerde toestemming; en
+b. de bevoegde autoriteiten van beide Staten stemmen ermee in overeenkomstig de voorwaarden die deze Staten gepast achten.
+2. Voor de toepassing van dit artikel:
+a. is de Staat waarnaar de persoon wordt overgebracht bevoegd en verplicht de overgebrachte persoon in detentie te houden, tenzij anderszins verzocht of gemachtigd door de Staat vanwaar de persoon is overgebracht;
+b. komt de Staat waarnaar de persoon wordt overgebracht onverwijld zijn verplichting na tot terugzending van de persoon voor detentie door de Staat vanwaar deze persoon is overgebracht zoals vooraf overeengekomen, of zoals anderszins overeengekomen door de bevoegde autoriteiten van beide Staten;
+c. verlangt de Staat waarnaar de persoon wordt overgebracht niet van de Staat vanwaar de persoon is overgebracht dat deze een uitleveringsprocedure instelt ten behoeve van de terugkeer van de persoon;
+d. krijgt de overgebrachte persoon vermindering van de straf die hij in de Staat vanwaar hij is overgebracht moet uitzitten met de tijd die hij in detentie heeft doorgebracht in de Staat waarnaar hij is overgebracht.
+3. Tenzij de Staat-Partij vanwaar een persoon overeenkomstig dit artikel moet worden overgebracht daarmee instemt, wordt die persoon, ongeacht zijn nationaliteit, niet vervolgd of in detentie genomen, noch aan enige andere beperking van zijn persoonlijke vrijheid onderworpen op het grondgebied van de Staat waarnaar deze persoon wordt overgebracht, wegens feiten of veroordelingen voorafgaand aan zijn vertrek uit het grondgebied van de Staat vanwaar deze persoon werd overgebracht.

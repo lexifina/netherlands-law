@@ -1,0 +1,4 @@
+# Artikel 5bis
+1. Elke Staat-Partij neemt, in overeenstemming met zijn nationale rechtsbeginselen de nodige maatregelen om een op zijn grondgebied gevestigde of overeenkomstig zijn wetgeving georganiseerde rechtspersoon aansprakelijk te stellen wanneer een persoon die verantwoordelijk is voor de leiding van of het toezicht op die rechtspersoon, in die hoedanigheid een in dit Verdrag omschreven strafbaar feit heeft gepleegd. Deze aansprakelijkheid kan straf-, civiel- of bestuursrechtelijk zijn.
+2. Deze aansprakelijkheid geldt onverminderd de strafrechtelijke aansprakelijkheid van de natuurlijke personen die de strafbare feiten hebben gepleegd.
+3. Elke Staat-Partij ziet er in het bijzonder op toe dat de overeenkomstig het eerste lid aansprakelijke rechtspersonen worden onderworpen aan doeltreffende, proportionele en ontmoedigende straf-, civiel- of bestuursrechtelijke sancties. Dergelijke sancties kunnen geldelijke sancties omvatten.
