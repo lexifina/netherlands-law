@@ -39,7 +39,7 @@ de Woningwet, de artikelen 1a, 1b, 7b, 14a, 16, 103 en 120, tweede lid;
 de Flora- en faunawet, de artikelen 10, 16, 37, eerste en tweede lid, 38, eerste lid, 50, eerste, tweede en derde lid, 51, 52, 53, 54, eerste lid, 58, 59, tweede lid, 60, vijfde lid, 62, eerste lid, 63, eerste lid, 64, tweede lid, 67, zesde lid, 72, vijfde lid, 74, eerste lid, 74a, eerste lid, 81, eerste lid, en 111, eerste lid;
 de Gezondheids- en welzijnswet voor dieren, de artikelen 81f, 81g en 81h;
 de Kernenergiewet, de artikelen 36, eerste lid, en - voor zover aangeduid als strafbare feiten - 73;
-de Meststoffenwet, de artikelen 4, 5, 6, 9, tweede lid, 11, vijfde lid, 13, derde lid, 15, 16, 34, 3536, 37, 38, derde lid, en 40;
+de Meststoffenwet, de artikelen 4, 5, 6, 9, tweede en derde lid, 11, vijfde lid, 13, vierde lid, 15, 16, 34, 35, 36, 37, 38, derde lid, en 40;
 de Waterwet, artikel 6.24, tweede lid, tenzij de desbetreffende vergunning uitsluitend berust op een verordening van een waterschap;
 de Wet algemene bepalingen omgevingsrecht, artikel 2.2 en artikel 2.3, aanhef en onder c;
 de Wet bescherming Antarctica, de artikelen 19, tweede lid, en 33;
