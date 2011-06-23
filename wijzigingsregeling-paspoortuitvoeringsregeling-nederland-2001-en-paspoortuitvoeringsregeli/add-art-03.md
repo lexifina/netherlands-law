@@ -1,0 +1,2 @@
+# Artikel III
+Op het tijdstip van inwerkingtreding van deze regeling eindigt de in artikel 72, vierde lid, van de Paspoortuitvoeringsregeling Nederland 2001 en in artikel 82, vierde lid, van de Paspoortuitvoeringsregeling Buitenland 2001 genoemde bewaartermijn van gegevens, voor zover het betreft de vingerafdrukken die in de reisdocumentenadministratie zijn opgenomen in verband met reisdocumenten die voor dat tijdstip zijn uitgereikt.
