@@ -1,0 +1,2 @@
+# Artikel XV
+De tewerkstellingen van degenen, die op de dag voorafgaand aan de inwerkingtreding van deze wet bij een kantongerecht in een functie, anders dan die van kantonrechter of kantonrechter-plaatsvervanger, op basis van een aanstelling werkzaam zijn, worden van rechtswege gewijzigd in een tewerkstelling in een gelijke functie bij de rechtbank tot het rechtsgebied waarvan het kantongerecht behoort.
