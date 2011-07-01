@@ -2,6 +2,7 @@
 ## Hoofdstuk 1. Algemene bepalingen
 ## Hoofdstuk 2. Rechtspraak
 ### Afdeling 1. Algemene bepalingen
+### Afdeling 1a. Klachtbehandeling door de Hoge Raad
 ### Afdeling 2. De organisatie van de gerechten
 #### Paragraaf 1. Inrichting
 #### Paragraaf 2. Taken en bevoegdheden
