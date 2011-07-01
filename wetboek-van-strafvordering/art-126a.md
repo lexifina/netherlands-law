@@ -6,3 +6,4 @@ en aldus verstrekte schriftelijke bescheiden in beslag te nemen.
 2. Het bevel wordt niet gericht aan degene tegen wie het onderzoek is gericht.
 3. Artikel 96a, derde lid, is van overeenkomstige toepassing.
 4. Ter gelegenheid van het eerste verhoor van degene tegen wie het onderzoek is gericht wordt hem door de verhorende rechter of ambtenaar een afschrift van de in artikel 126 bedoelde vordering en machtiging ter hand gesteld.
+5. Degene tot wie een vordering als bedoeld in het eerste lid is gericht, neemt in het belang van het onderzoek geheimhouding in acht omtrent al hetgeen hem terzake van de vordering bekend is.
