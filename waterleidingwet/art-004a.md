@@ -1,3 +1,0 @@
-# Artikel 4a
-1. Het ontwerp van een algemene maatregel van bestuur krachtens artikel 4 wordt overgelegd aan de beide kamers der Staten-Generaal en in de Staatscourant bekendgemaakt. Aan een ieder wordt de gelegenheid geboden binnen een bij die bekendmaking vast te stellen termijn van ten minste een maand opmerkingen over het ontwerp schriftelijk ter kennis van Onze Minister te brengen.
-2. Een algemene maatregel van bestuur als bedoeld in het eerste lid wordt, nadat hij is vastgesteld, toegezonden aan beide Kamers der Staten-Generaal. Hij treedt niet eerder in werking dan een maand na de datum van uitgifte van het Staatsblad waarin hij is geplaatst.

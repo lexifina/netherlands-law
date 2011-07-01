@@ -1,3 +1,0 @@
-# Artikel 3c
-1. De commissie en haar subcommissies kunnen zich bij hun werkzaamheden doen bijstaan door personen die geen lid of plaatsvervangend lid zijn van de commissie.
-2. Onze Minister en Onze Ministers van Economische Zaken, van Landbouw, Natuurbeheer en Visserij en van Verkeer en Waterstaat kunnen, ieder voor hun ministerie, ambtenaren aanwijzen, die bevoegd zijn tot het bijwonen van de door de commissie en de subcommissies te houden vergaderingen, met dien verstande dat in de vergaderingen van de commissie voor het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer ten hoogste twee ambtenaren aanwezig zijn en voor ieder van die andere ministeries ten hoogste één ambtenaar aanwezig is.

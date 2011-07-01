@@ -1,4 +1,0 @@
-# Artikel 4b
-1. Indien niet wordt voldaan aan tabel III, opgenomen in bijlage A, informeert de eigenaar terstond de toezichthouder, verricht hij terstond onderzoek naar de oorzaak en de mogelijke nadelige gevolgen voor de volksgezondheid en neemt hij de in het belang van de volksgezondheid noodzakelijke en passende maatregelen.
-2. In gevallen als bedoeld in het eerste lid informeert de eigenaar de verbruikers over de normoverschrijding en adviseert hij hen omtrent de maatregelen die zij kunnen nemen om nadelige gevolgen voor de gezondheid te voorkomen, tenzij de toezichthouder van oordeel is dat de normoverschrijding geen nadelige gevolgen heeft voor de gezondheid en het welzijn van de verbruikers en voor aan de verbruikers toebehorende goederen.
-3. Het tweede lid is van overeenkomstige toepassing op de eigenaar van een collectief leidingnet.

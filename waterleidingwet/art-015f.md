@@ -1,2 +1,0 @@
-# Artikel 15f
-Onze Minister wijst ambtenaren aan, ten aanzien van wie, in geval van levering van leidingwater door een collectief leidingnet, het ten aanzien van de inspecteur in de artikelen 5, eerste en tweede lid, 6, 7, 8 en 14 bepaalde van toepassing is, met dien verstande dat voor die toepassing in plaats van« de eigenaar van een waterleidingbedrijf» wordt gelezen «degene die een collectief leidingnet drijft» en in plaats van «de eigenaren van waterleidingbedrijven»: degenen die collectieve leidingnetten drijven.

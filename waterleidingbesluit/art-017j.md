@@ -1,3 +1,0 @@
-# Artikel 17j
-1. Leidingwater dat op een zodanige wijze aan de tappunten ter beschikking komt of wordt gebruikt, dat daarbij aërosolen alsmede daardoor, al dan niet samen met andere micro-organismen, meegevoerde legionellabacteriën kunnen vrijkomen in hoeveelheden die, in geval van inademing, nadelige gevolgen voor de volksgezondheid kunnen hebben, bevat minder dan 100 kolonie vormende eenheden legionellabacteriën per liter.
-2. De eigenaar van een collectieve watervoorziening of een collectief leidingnet draagt er zorg voor dat het door hem aan derden ter beschikking gestelde leidingwater op het punt van aflevering voldoet aan het eerste lid.
