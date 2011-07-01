@@ -1,0 +1,3 @@
+# Artikel 62a
+1. Ingeval een persoon als bedoeld in de artikelen 58, eerste lid, 59, eerste lid en 62, eerste lid, een door de ontvanger op een van die leden gebaseerde verplichting is nagekomen maar van oordeel is dat de verplichting onrechtmatig is opgelegd, kan hij verzoeken om vergoeding van kosten die rechtstreeks verband houden met deze nakoming. De ontvanger beslist op dat verzoek bij voor bezwaar vatbare beschikking en kent een redelijke kostenvergoeding toe in geval van een onrechtmatig opgelegde verplichting.
+2. Op het bezwaar, beroep, hoger beroep en beroep in cassatie inzake de in het eerste lid bedoelde beschikking is hoofdstuk V van de Algemene wet inzake rijksbelastingen van overeenkomstige toepassing.
