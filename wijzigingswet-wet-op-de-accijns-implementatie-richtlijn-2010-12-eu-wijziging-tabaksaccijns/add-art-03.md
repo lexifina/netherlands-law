@@ -1,0 +1,6 @@
+# Artikel III
+1. Met ingang van 1 juli 2011 worden bij ministeriële regeling de tarieven van de accijns, genoemd in artikel 35, eerste lid, onderdeel c, van de Wet op de accijns zodanig gewijzigd dat:
+a. de totale accijns voor de gewogen gemiddelde kleinhandelsprijs van rooktabak ten minste 52 percent van de gewogen gemiddelde kleinhandelsprijs bedraagt, of indien dit hoger is, gelijk is aan het in artikel 35, eerste lid, onderdeel c, van de Wet op de accijns genoemde totale bedrag van de accijns per kilogram zoals dit ten minste zal worden geheven op 30 juni 2011.
+b. voor rooktabak van de gewogen gemiddelde kleinhandelsprijs het specifieke gedeelte van de accijns 60 percent bedraagt van de som van de totale accijns berekend overeenkomstig onderdeel a en de omzetbelasting; en
+c. het bedrag dat in artikel 35, eerste lid, onderdeel c, van de Wet op de accijns is opgenomen als de ten minste te betalen accijns per kilogram rooktabak, gelijk is aan het overeenkomstig onderdeel a berekende totale bedrag van de accijns per kilogram rooktabak van de gewogen gemiddelde kleinhandelsprijs.
+2. Bij de wijziging vindt afronding plaats van het percentuele gedeelte van de accijns op honderdsten van een percent.
