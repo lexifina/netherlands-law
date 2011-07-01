@@ -1,0 +1,7 @@
+# Artikel 77ta
+1. Indien de maatregel voorwaardelijk eindigt als bedoeld in artikel 77s, zesde lid en artikel 77t, tweede lid, geschiedt dit onder de algemene voorwaarde dat:
+a. de jeugdige zich ten tijde van de voorwaardelijke beëindiging niet schuldig maakt aan een strafbaar feit;
+b. de jeugdige zich zal gedragen naar de aanwijzingen van een stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg dan wel, indien de veroordeelde de leeftijd van achttien jaar reeds heeft bereikt, een krachtens algemene maatregel van bestuur aangewezen reclasseringsinstelling of bijzondere reclasseringsambtenaar, ook indien deze aanwijzingen een vorm van intensieve begeleiding inhouden;
+c. de jeugdige zich niet onttrekt aan het toezicht op de naleving van de voorwaarden.
+2. Met het toezicht op de naleving van de voorwaarden is het openbaar ministerie belast. Over de wijze waarop de veroordeelde aan de voorwaarden voldoet, wordt het openbaar ministerie door de stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg ingelicht.
+3. Het bepaalde in artikel 77s, achtste lid, en in de vorige artikelleden, blijft buiten toepassing indien bij het vonnis of arrest waarbij de maatregel werd opgelegd, eveneens de maatregel bedoeld in artikel 77w werd opgelegd of indien ten aanzien van de jeugdige een rechterlijke machtiging op grond van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen is gegeven.
