@@ -1,6 +1,6 @@
 # Artikel 33a
 1. Vatbaar voor verbeurdverklaring zijn:
-a. voorwerpen die aan de veroordeelde toebehoren of die hij geheel of ten dele ten eigen bate kan aanwenden en die geheel of grotendeels door middel van het strafbare feit zijn verkregen;
+a. voorwerpen die aan de veroordeelde toebehoren of die hij geheel of ten dele ten eigen bate kan aanwenden en die geheel of grotendeels door middel van of uit de baten van het strafbare feit zijn verkregen;
 b. voorwerpen met betrekking tot welke het feit is begaan;
 c. voorwerpen met behulp van welke het feit is begaan of voorbereid;
 d. voorwerpen met behulp van welke de opsporing van het misdrijf is belemmerd;
