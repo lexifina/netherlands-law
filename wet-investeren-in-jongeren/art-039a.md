@@ -1,0 +1,4 @@
+# Artikel 39a. Vorm van Inkomensvoorziening
+1. Tenzij in deze wet anders is bepaald, wordt de inkomensvoorziening verleend om niet.
+2. Indien het college de inkomensvoorziening verleent in de vorm van een geldlening kan het college hieraan verplichtingen verbinden die zijn gericht op meer zekerheid voor de nakoming van de aan deze inkomensvoorziening verbonden rente- en aflossingsverplichtingen.
+3. Indien de jongere aan wie een inkomensvoorziening in de vorm van een geldlening wordt verleend een inkomensvoorziening, algemene bijstand op grond van de Wet werk en bijstand of een uitkering op grond van het Besluit bijstandverlening zelfstandigen 2004 of de Wet werk en inkomen kunstenaars ontvangt, is het college bevoegd tot verrekening van die geldlening met die inkomensvoorziening, algemene bijstand of uitkering.
