@@ -1,0 +1,2 @@
+# Artikel VI
+Deze regeling treedt in werking met ingang van 1 januari 2010, met uitzondering van artikel IV, onderdeel F, en artikel V, die in werking treden met ingang van het tijdstip waarop het bij koninklijke boodschap van 25 augustus 2009 ingediende voorstel van wet tot wijziging van de Wet op het financieel toezicht en enige andere wetten (Wijzigingswet financiële markten 2010) (Kamerstukken II 2008/09, 32 036), nadat het tot wet is verheven, in werking treedt.

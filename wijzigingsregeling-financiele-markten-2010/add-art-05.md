@@ -1,0 +1,2 @@
+# Artikel V
+Op het aanbieden van effecten aan het publiek en het toelaten van effecten tot de handel op een in Nederland gelegen of functionerende gereglementeerde markt blijft artikel 53, tweede lid, van de Vrijstellingsregeling Wft van toepassing zoals dat artikel luidde voor het tijdstip van inwerkingtreding van deze regeling, voor zover het effecten betreft die deel uitmaken van een aanbieding die is aangevangen voor dat tijdstip.
