@@ -1,0 +1,2 @@
+# Artikel VI
+De artikelen 77s, zesde en zevende lid, 77t, tweede lid, 77ta en 77tb van het Wetboek van Strafrecht, zoals zij na inwerkingtreding van deze wet komen te luiden, worden slechts toegepast met betrekking tot feiten gepleegd na inwerkingtreding van deze wet. Met betrekking tot feiten, gepleegd voor inwerkingtreding van deze wet, blijven de artikelen 77s, zesde en zevende lid, 77t, tweede lid, Wetboek van Strafrecht van toepassing zoals deze luidden voor dat tijdstip en blijven de artikelen 77ta en 77tb Wetboek van Strafrecht buiten toepassing.
