@@ -7,7 +7,8 @@ a. instelling:
 4°. een centrale tegenpartij, indien deze in het kader van deelname aan het systeem op grond van een overboekingsopdracht effectentegoeden verkrijgt;
 5°. een overheidsinstantie of onderneming met overheidsgarantie;
 6°. een ieder, bedoeld in artikel 3:4 van de Wet op het financieel toezicht, die een vergunning heeft als bedoeld in artikel 2:11 van die wet;
-7°. een clearinginstelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.
+7°. een clearinginstelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;
+8°. degene die een vergunning heeft verkregen ingevolge artikel 3:4 van de Wet op het financieel toezicht.
 b. systeem:
 1°. een door de Minister van Financiën op grond van artikel 212d aangewezen systeem;
 2°. een formele overeenkomst waarop het recht van een lidstaat van de Europese Unie van toepassing is en die door een andere lidstaat van de Europese Unie als systeem in de zin van richtlijn nr. 98/26/EG van het Europees Parlement en de Raad van de Europese Unie van 19 mei 1998 (PbEG L 166) is aangemeld bij de Commissie van de Europese Gemeenschappen;

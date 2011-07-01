@@ -249,6 +249,7 @@
 ##### § 4.3.1.4. Rechten van deelneming in een beleggingsinstelling
 ##### § 4.3.1.5. Verzekeringen
 ##### § 4.3.1.6. Premiepensioenvorderingen
+##### § 4.3.1.7. Provisie
 #### Afdeling 4.3.2. Adviseren
 #### Afdeling 4.3.3. Bemiddelen
 ##### § 4.3.3.1. Algemeen
@@ -315,6 +316,7 @@
 #### Afdeling 5.5.4. Aanvullende voorschriften, vrijstelling en ontheffing
 ### Hoofdstuk 5.6. Regels over het toepassen van een gedragscode door institutionele beleggers
 ### Hoofdstuk 5.7. Regels voor de toegang tot betalingssystemen
+### Hoofdstuk 5.8. Toezicht op ratingbureaus
 ## 6. Deel Toezicht infrastructuur financiële markten
 ## 7. Deel Slotbepalingen
 ## Overtreding van voorschriften, gesteld bij of krachtens artikel:
@@ -325,6 +327,8 @@
 ### Deel Gedragstoezicht financiële markten
 ### Prospectusverordening
 ### uitvoeringsverordening MiFID
+### Verordening grensoverschrijdende betalingen
+### Verordening ratingbureaus
 ## Overtreding van voorschriften, gesteld bij of krachtens artikel:
 ### Algemeen deel
 ### Deel Markttoegang financiële ondernemingen
@@ -333,3 +337,5 @@
 ### Deel Gedragstoezicht financiële markten
 ### Prospectusverordening
 ### uitvoeringsverordening MiFID
+### Verordening grensoverschrijdende betalingen
+### Verordening ratingbureaus
