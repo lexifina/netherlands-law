@@ -1,0 +1,5 @@
+# Artikel IVA
+1. Met ingang van de datum van inwerkingtreding van deze wet is de ambtenaar die in dienst is van de provincie en werkzaam is als muskusrattenvanger van rechtswege in dienst van het waterschap in het gebied waarvan hij werkzaam is.
+2. De overgang van de in het eerste lid bedoelde ambtenaar vindt plaats in dezelfde salarispositie, op dezelfde voet en in dezelfde rechtstoestand als voor die ambtenaar gold op de dag voorafgaande aan de datum bedoeld in het eerste lid.
+3. Het eerste lid is van overeenkomstige toepassing op de in dat lid bedoelde ambtenaar die in het gebied van meerdere waterschappen werkzaam is, met dien verstande dat hij van rechtswege in dienst is bij het waterschap waarin de oppervlakte van zijn werkgebied het grootste is. De in de vorige volzin bedoelde waterschappen treffen in overleg een regeling met betrekking tot de bekostiging en inzet van de ambtenaar.
+4. Voor de toepassing van dit artikel worden onder ambtenaren mede op arbeidsovereenkomst naar burgerlijk recht werkzame personen begrepen.
