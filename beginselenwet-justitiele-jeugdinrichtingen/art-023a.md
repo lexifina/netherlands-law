@@ -1,0 +1,4 @@
+# Artikel 23a
+1. Een personeelslid of medewerker kan de jeugdige voor een maximale aaneengesloten duur van een uur uitsluiten van het verblijf in de groep of van gemeenschappelijke activiteiten indien het gedrag van de jeugdige verstorend is voor de rust in de groep, en in verband daarmee de kortdurende uitsluiting ertoe bijdraagt dat het gedrag van de jeugdige gunstig wordt beïnvloed.
+2. Een uitsluiting als bedoeld in het eerste lid kan op een dag herhaaldelijk worden toegepast, met dien verstande dat de totale duur van de uitsluitingen de twee uren per etmaal niet overstijgt.
+3. De directeur houdt van de oplegging van de maatregel van uitsluiting, bedoeld in het eerste lid, en de herhaalde toepassing, bedoeld in het tweede lid, aantekening in een register. De directeur stelt aan de hand van dit register elke drie maanden de commissie van toezicht van de toepassing van de maatregel op de hoogte en treedt daarover met de commissie in overleg.

@@ -4,11 +4,11 @@
 ### Paragraaf 1. Doelstelling
 ### Paragraaf 2. Beheer
 ### Paragraaf 3. Toezicht
-## Hoofdstuk III. Bestemming
+## Hoofdstuk III. De inrichting
 ## Hoofdstuk IV. Plaatsing en plaatsingsprocedure
 ### Paragraaf 1. Plaatsing en overplaatsing
 ### Paragraaf 2. Bezwaar- en verzoekschriftprocedure
-## Hoofdstuk V. Verblijfsplan en behandelplan
+## Hoofdstuk V. Perspectiefplan
 ## Hoofdstuk VI. Bewegingsvrijheid
 ### Paragraaf 1. Bewegingsvrijheid binnen de inrichting
 ### Paragraaf 2. Ordemaatregelen
@@ -23,6 +23,7 @@
 ## Hoofdstuk XII. Bemiddeling
 ## Hoofdstuk XIII. Beklag
 ## Hoofdstuk XIV. Beroep tegen de uitspraak van de beklagcommissie
-## Hoofdstuk XV. Beroep inzake plaatsing, overplaatsing, verlof, proefverlof, deelname aan een scholings- en trainingsprogramma en strafonderbreking
+## Hoofdstuk XV. Beroep inzake plaatsing, overplaatsing, verlof, deelname aan een scholings- en trainingsprogramma en strafonderbreking
 ## Hoofdstuk XVI. Medezeggenschap en vertegenwoordiging
+## Hoofdstuk XVIa. Experimenten
 ## Hoofdstuk XVII. Overgangs- en slotbepalingen
