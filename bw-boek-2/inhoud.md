@@ -5,6 +5,7 @@
 ### Titel 3. Coöperaties en onderlinge waarborgmaatschappijen
 #### Afdeling 1. Algemene bepalingen
 #### Afdeling 2. De raad van commissarissen bij de grote coöperatie en bij de grote onderlinge waarborgmaatschappij
+#### Afdeling 3. Het beroep
 ### Titel 4. Naamloze vennootschappen
 #### Afdeling 1. Algemene bepalingen
 #### Afdeling 2. De aandelen
