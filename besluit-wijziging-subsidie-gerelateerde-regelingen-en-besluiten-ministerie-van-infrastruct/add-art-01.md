@@ -1,0 +1,2 @@
+# Artikel I
+[Wijzigt het Besluit mandaat en machtiging Agentschap NL voor uitvoering subsidieregelingen en -programma's Verkeer en Waterstaat.]
