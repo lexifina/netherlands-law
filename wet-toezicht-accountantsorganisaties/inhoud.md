@@ -16,10 +16,11 @@
 ### Paragraaf 5.1. Toezicht op de naleving
 ### Paragraaf 5.2. Handhaving
 ### Paragraaf 5.3. Beroep
-## Hoofdstuk 5a. Geheimhoudingsplicht en uitzonderingen dienaangaande
-## Hoofdstuk 5b. Samenwerking toezichthouders
-### Afdeling 5b.1. Samenwerking met andere lidstaten algemeen
-### Afdeling 5b.2. Samenwerking met toezichthoudende instanties van staten die geen lidstaat zijn
+## Hoofdstuk 5a. Geheimhoudingsplicht
+## Hoofdstuk 5b. Samenwerking nationaal
+## Hoofdstuk 5c. Samenwerking internationaal
+### Afdeling 5c.1. Samenwerking met toezichthoudende instanties van andere lidstaten
+### Afdeling 5c.2. Samenwerking met toezichthoudende instanties van staten die geen lidstaat zijn
 ## Hoofdstuk 6. Openbare waarschuwing en publicatie van handhavingsmaatregelen
 ## Hoofdstuk 7. Wijzigingen andere wetten
 ### Paragraaf 7.1. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
