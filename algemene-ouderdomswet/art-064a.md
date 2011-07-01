@@ -1,3 +1,0 @@
-# Artikel 64a
-1. Ten aanzien van de persoon wiens recht op ouderdomspensioen voorafgaand aan de dag van inwerkingtreding van artikel 8c al is ingegaan en die zich op die dag onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, wordt voor de toepassing van dat artikel als eerste dag waarop hij zich aan de tenuitvoerlegging van die vrijheidsstraf of vrijheidsbenemende maatregel onttrekt, aangemerkt de dag van inwerkingtreding van artikel 8c en eindigt het recht op ouderdomspensioen in afwijking van artikel 8c, tweede lid, vanaf de dag dat het onttrekken aan de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel zes maanden heeft geduurd.
-2. Dit artikel vervalt zes maanden na de dag van zijn inwerkingtreding.
