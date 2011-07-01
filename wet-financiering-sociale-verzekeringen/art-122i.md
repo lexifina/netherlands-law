@@ -1,0 +1,2 @@
+# Artikel 122i. Overgangsbepaling eigenrisicodragen WGA gemeente voor schoolpersoneel
+Een gemeente die zelf het risico, bedoeld in artikel 40, eerste lid, draagt op 1 juli 2011, draagt op die datum tevens zelf dit risico ten aanzien van haar werknemers als bedoeld in artikel 40, elfde lid, zoals dat luidde op de dag voor de inwerkingtreding van artikel IV, onderdeel H, van de Wet Harmonisatie en vereenvoudiging socialezekerheidswetgeving.
