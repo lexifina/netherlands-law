@@ -1,5 +1,5 @@
 # Artikel 48a
-1. De deskundige leden van de pachtkamers van de rechtbanken, bedoeld in artikel 48, derde lid, van deze wet en hun plaatsvervangers worden benoemd bij koninklijk besluit op voordracht van Onze Minister van Justitie, gehoord Gedeputeerde Staten. Zij worden genoemd lid, onderscheidenlijk plaatsvervangend lid van de pachtkamer.
+1. De deskundige leden van de pachtkamers van de rechtbanken, bedoeld in artikel 48, derde lid, van deze wet en hun plaatsvervangers worden benoemd bij koninklijk besluit op voordracht van Onze Minister, gehoord Gedeputeerde Staten. Zij worden genoemd lid, onderscheidenlijk plaatsvervangend lid van de pachtkamer.
 2. Om te kunnen worden benoemd tot lid of plaatsvervangend lid van een pachtkamer moet men Nederlander zijn.
 3. De deskundige leden en de plaatsvervangende leden van de pachtkamers worden voor de tijd van vijf jaren benoemd. Zij zijn bij hun aftreden weer benoembaar. Zij worden op eigen verzoek bij koninklijk besluit ontslagen.
 4. Bij de benoeming van de deskundige leden en van de plaatsvervangende leden dragen Wij zorg, dat in de pachtkamer noch het belang der pachters, noch het belang van de verpachters overheerst.
