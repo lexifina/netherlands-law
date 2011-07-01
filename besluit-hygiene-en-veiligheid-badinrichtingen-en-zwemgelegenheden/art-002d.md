@@ -1,0 +1,3 @@
+# Artikel 2d
+1. De houder stelt bij vaststelling van een concentratie van legionellabacteriën van 100 of meer kolonievormende eenheden per liter op de in artikel 2a, vierde lid, onder d, bedoelde risicopunten, gedeputeerde staten hiervan onmiddellijk in kennis.
+2. De houder treft in overleg met gedeputeerde staten de maatregelen die met het oog op de in het eerste lid bedoelde omstandigheid in het beheersplan zijn opgenomen of, voor zover daaromtrent in het beheersplan geen maatregelen zijn opgenomen dan wel geen beheersplan van toepassing is, de maatregelen die in deze omstandigheden redelijkerwijs van hem kunnen worden gevergd, tenzij gedeputeerde staten anders voorschrijven.
