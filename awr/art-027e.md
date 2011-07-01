@@ -1,6 +1,4 @@
 # Artikel 27e
-Indien:
-a. de vereiste aangifte niet is gedaan; of
-b. niet volledig is voldaan aan de verplichtingen ingevolge de artikelen 41, 47, 47a, 49, 52, alsmede aan de verplichtingen ingevolge artikel 53, eerste, tweede en derde lid, voorzover het verplichtingen van administratieplichtigen betreft ten behoeve van de heffing van de belasting waarvan de inhouding aan hen is opgedragen;
-verklaart de rechtbank het beroep ongegrond, tenzij is gebleken dat en in hoeverre de uitspraak op het bezwaar onjuist is.
-De vorige volzin vindt geen toepassing, voor zover het beroep is gericht tegen een vergrijpboete.
+1. Indien de vereiste aangifte niet is gedaan of sprake is van een onherroepelijk geworden informatiebeschikking als bedoeld in artikel 52a, eerste lid, verklaart de rechtbank het beroep ongegrond, tenzij is gebleken dat en in hoeverre de uitspraak op het bezwaar onjuist is.
+2. Indien de rechtbank het beroep tegen een in artikel 52a, eerste lid, bedoelde informatiebeschikking ongegrond verklaart, stelt de rechtbank een nieuwe termijn voor het voldoen aan de in die beschikking bedoelde verplichtingen, in situaties waarin daar nog gevolg aan kan worden gegeven, tenzij sprake is van kennelijk onredelijk gebruik van procesrecht.
+3. Dit artikel vindt geen toepassing voor zover het beroep is gericht tegen een vergrijpboete.
