@@ -7,7 +7,7 @@
 #### Afdeling 1. De ambtenaar van de burgerlijke stand
 #### Afdeling 2. De registers van de burgerlijke stand en de bewaring daarvan
 #### Afdeling 3. Akten van de burgerlijke stand en partijen bij deze akten
-#### Afdeling 4. De akten van geboorte en van overlijden
+#### Afdeling 4. De akten van geboorte, van overlijden en de akten houdende attestaties de vita
 #### Afdeling 5. Latere vermeldingen
 #### Afdeling 6. Akten van inschrijving van bepaalde rechterlijke uitspraken
 #### Afdeling 7. De bewijskracht van akten van de burgerlijke stand alsmede van afschriften en uittreksels
