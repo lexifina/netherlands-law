@@ -1,0 +1,2 @@
+# Artikel II
+Tot 31 december 2011 kunnen de vóór het tijdstip van inwerkingtreding van deze regeling gebruikte modellen en formulieren nog worden gebruikt. Tijdens deze overgangsperiode kunnen uitsluitend de combibonnen die zijn vervaardigd conform het bij de laatste wijziging van de Regeling modellen en formulieren ten behoeve van de handhaving Justitie (Stcrt. 2009, 10750) vastgestelde model worden gebruikt.
