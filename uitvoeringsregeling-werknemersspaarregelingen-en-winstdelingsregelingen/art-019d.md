@@ -1,0 +1,7 @@
+# Artikel 19d
+1. In afwijking van artikel 19 mag de werknemer mede over het tegoed van zijn spaarloonrekening beschikken ter zake van compensatie van loon dat niet is genoten door de werknemer, als gevolg van de opname van onbetaald verlof of gedeeltelijk onbetaald verlof door de werknemer, mits de dienstbetrekking ten tijde van het onbetaald verlof of gedeeltelijk onbetaald verlof ongewijzigd blijft voortbestaan.
+2. Voor de toepassing van dit artikel kan ten hoogste worden aangemerkt als opgenomen ter compensatie van het loon dat niet is genoten door de werknemer als gevolg van de opname van onbetaald verlof of gedeeltelijk onbetaald verlof door de werknemer, 50% van het bedrag waarmee het door de werknemer genoten loon is verminderd als gevolg van de opname van onbetaald verlof of gedeeltelijk onbetaald verlof door de werknemer.
+3. Voor de toepassing van dit artikel wordt het door de werknemer genoten loon in aanmerking genomen met inachtneming van het volgende:
+a. artikel 11, eerste lid, onderdeel j, van de Wet op de loonbelasting 1964 vindt geen toepassing;
+b. tantièmes en toevallige bijzondere beloningen, alsmede tot het loon behorende aanspraken worden niet in aanmerking genomen.
+4. Rechtstreekse betalingen als bedoeld in het eerste lid mogen voor de toepassing van dit artikel worden gelijkgesteld met het beschikken over het tegoed van de spaarloonrekening als bedoeld van het eerste lid.

@@ -1,0 +1,3 @@
+# Artikel 19f
+1. In afwijking van artikel 19 mag de werknemer mede over het tegoed van zijn spaarloonrekening beschikken ter zake van eenzesde deel van de aan de werknemer of zijn partner in rekening gebrachte kosten voor kinderopvang waarvoor aanspraak op een kinderopvangtoeslag onderscheidenlijk aanspraak op een tegemoetkoming kan ontstaan op de voet van artikel 1.5 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.
+2. Rechtstreekse betalingen door de werkgever, als bedoeld in het eerste lid, mogen voor de toepassing van dit artikel worden gelijkgesteld met het beschikken over het tegoed van de spaarloonrekening als bedoeld in het eerste lid.

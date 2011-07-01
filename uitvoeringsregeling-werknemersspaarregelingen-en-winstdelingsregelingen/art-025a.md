@@ -1,0 +1,3 @@
+# Artikel 25a
+1. Op een bedrag aan ingehouden spaargelden dat met toepassing van artikel 8, zoals dit artikel luidde op 31 december 2000, is gelijkgesteld met ingehouden spaargelden op een premiespaarrekening, blijft deze gelijkstelling van kracht tot uiterlijk 1 januari 2006. In afwijking hiervan mag de spaarpremie ter zake van deze spaargelden worden toegekend voordat een spaartermijn van vier jaren is vervuld.
+2. Een bedrag aan spaarloon dat met toepassing van artikel 16, tweede lid, zoals dit artikel luidde op 31 december 2000, is gelijkgesteld met spaarloon op een spaarloonrekening, wordt met ingang van 1 januari 2001 niet langer als spaarloon aangemerkt.
