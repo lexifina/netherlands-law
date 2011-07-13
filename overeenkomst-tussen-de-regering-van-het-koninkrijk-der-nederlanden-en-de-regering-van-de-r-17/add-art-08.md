@@ -1,0 +1,4 @@
+# Article VIII
+In order to develop the air transport services along the routes or segments thereof specified in the Annex hereof, for the purpose of achieving and maintaining equilibrium between the capacity of the specified air services and the requirements of the public for air transportation, as determined by the aeronautical authorities of the Contracting Parties, it is agreed that:
+(1) The designated airline or airlines of each Contracting Party shall enjoy fair and equal opportunity for the operation of agreed services for the carriage of traffic between the territories of the two parties;
+(2) In the operation by the designated airline or airlines of either Contracting Party of the agreed services, the interests of the designated airlines of the other Contracting Party shall be taken into consideration so as not to affect unduly the services which the latter provide on all or part of the same routes.

@@ -1,0 +1,2 @@
+# Article X
+In a spirit of close cooperation, the aeronautical authorities of the Contracting Parties shall consult each other from time to time with a view to ensuring the implementation of, and satisfactory compliance with, the provisions of the present Agreement and the Annex hereto.

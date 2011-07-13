@@ -1,0 +1,2 @@
+# Article VI
+Either Contracting Party undertakes to grant the other Party free transfer, at the official rate of exchange, of the excess of receipts over expenditure achieved on its territory in connection with the carriage of passengers, baggage, mail shipments and freight by the designated airline or airlines of the other Party. Wherever the payments system between the Contracting Parties is governed by a special agreement, said agreement shall apply.

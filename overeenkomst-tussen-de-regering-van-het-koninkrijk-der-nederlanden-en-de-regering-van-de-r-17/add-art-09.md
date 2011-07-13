@@ -1,0 +1,9 @@
+# Article IX
+1. Each Contracting Party shall allow prices for air transportation to be established by each designated airline based upon commercial considerations in the marketplace. Intervention by the Contracting Parties shall be limited to:
+a) prevention of predatory and/or unreasonably discriminatory prices or practices;
+b) protection of consumers from prices that are unreasonably high or restrictive due to the abuse of a dominant position;
+c) protection of airlines from prices that are artificially low due to, amongst others, direct or indirect governmental subsidy or support.
+2. Each Contracting Party may require notification or approval to its Aeronautical Authorities of prices to be charged to or from its territory by airlines of the other Contracting Party.
+3. If either Contracting Party considers any such prices inconsistent with the considerations set forth in paragraph (1) and paragraph (2) of this Article, it shall request consultations and notify the other Contracting Party of the reasons for its dissatisfaction as soon as possible. These consultations shall be held not later than 30 days after receipt of the request of the other Contracting Party, and the Contracting Parties shall co-operate in securing information necessary for reasoned resolution of the issue.
+If the Contracting Parties reach agreement with respect to a price for which a notice of dissatisfaction has been given, each Contracting Party shall use its best efforts to put that agreement into effect. Without such mutual agreement, the new price shall not take effect or continue to be in effect.
+4. Notwithstanding the provisions of this Article, in the case of the Kingdom of the Netherlands, the prices to be charged by the designated airlines for carriage wholly within the European Community shall be subject to European Community Law.

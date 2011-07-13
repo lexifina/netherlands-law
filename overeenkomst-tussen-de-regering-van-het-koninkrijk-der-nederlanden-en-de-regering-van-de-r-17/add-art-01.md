@@ -1,0 +1,10 @@
+# Article I
+For the purpose of the present Agreement, unless the context otherwise requires:
+(a) The term "aeronautical authorities" means, in the case of the Kingdom of the Netherlands, the Director General of Civil Aviation or any person or body authorized to perform any function exercised at present by the said Director General of Civil Aviation or similar functions, and, in the case of the Republic of the Philippines, the Civil Aeronautics Board or any person or body authorized to perform any function exercised at present by the said Civil Aeronautics Board or similar functions;
+(b) The term "designated airline or airlines" means an airline or airlines which one Contracting Party shall have designated, by written notification to the other Contracting Party, in accordance with the provisions of Article III of the present Agreement, for operation of air services on the routes specified in the Annex hereto;
+(c) The term "territory" in relation to a State means the land areas and territorial waters adjacent thereto under the sovereignty, suzerainty, protection, trusteeship or administration of that State;
+(d) The term "the Convention" means the Convention on International Civil Aviation opened for signature at Chicago on the seventh day of December 1944 and includes any Annex adopted under Article 90 of the Convention and any amendment of the Annexes or Convention under Articles 90 and 94 thereof;
+(e) The terms "air services", "international air service", "airline" and "stop for non-traffic purposes" have the meaning respectively assigned to them in Article 96 of the Convention;
+(f) The term "agreed services" means any scheduled air service operated on the routes specified in the Annex to this Agreement;
+(g) References in this Agreement to nationals of the Kingdom of the Netherlands shall be understood as referring to nationals of European Community Member States;
+(h) References in this Agreement to airlines of the Kingdom of the Netherlands shall be understood as referring to airlines designated by the Kingdom of the Netherlands.
