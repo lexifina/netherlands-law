@@ -247,6 +247,7 @@
 ##### § 4.3.1.2. Elektronisch geld
 ##### § 4.3.1.3. Krediet
 ##### § 4.3.1.4. Rechten van deelneming in een beleggingsinstelling
+##### § 4.3.1.4a. Fusie tussen instellingen voor collectieve belegging in effecten
 ##### § 4.3.1.5. Verzekeringen
 ##### § 4.3.1.6. Premiepensioenvorderingen
 ##### § 4.3.1.7. Provisie
