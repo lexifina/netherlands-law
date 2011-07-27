@@ -1,0 +1,2 @@
+# Artikel 17a
+De artikelen 9, eerste lid, 14, eerste lid, 22, eerste lid en 26, eerste lid, van de Wet wapens en munitie zijn niet van toepassing op personen die werkzaam zijn bij Politie Nederland of bij het Landelijk selectie- en opleidingsinstituut politie, Politie onderwijs- en kenniscentrum, bedoeld in artikel 2 van de Wet op het LSOP en het politieonderwijs, voor zover de in die artikelleden genoemde handeling of het voorhanden hebben geschiedt uit hoofde van de dienstuitoefening.
