@@ -126,4 +126,5 @@
 ### Titel 7. Wet van 24 juni 2004 (Stb. 321)
 ### Titel 10. Wet van 14 juni 2007 (Stb. 254)
 ### Titel 11. Wet van 4 februari 2010 (Stb. 119)
+### Titel 12. Wet van 8 juli 2011 (Stb. 369)
 ## Hoofdstuk 19. Slotbepalingen
