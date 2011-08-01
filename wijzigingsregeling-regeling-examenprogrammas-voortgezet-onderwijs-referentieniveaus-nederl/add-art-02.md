@@ -1,0 +1,5 @@
+# Artikel II. Overgangsbepalingen
+1. De wijziging die deze regeling aanbrengt in bijlage I van de Regeling examenprogramma's voortgezet onderwijs, is in het schooljaar 2011–2012 niet van toepassing op leerlingen die op 1 augustus 2011 zijn toegelaten tot het vijfde of zesde leerjaar vwo.
+2. De wijziging die deze regeling aanbrengt in bijlage I van de Regeling examenprogramma's voortgezet onderwijs, is in het schooljaar 2012–2013 niet van toepassing op leerlingen die op 1 augustus 2012 zijn toegelaten tot het vijfde leerjaar havo dan wel tot het zesde leerjaar vwo.
+3. De wijziging die deze regeling aanbrengt in bijlage II van de Regeling examenprogramma's voortgezet onderwijs, is in het schooljaar 2012–2013 niet van toepassing op leerlingen die op 1 augustus 2012 zijn toegelaten tot het vierde leerjaar vmbo.
+4. De wijziging die deze regeling aanbrengt in bijlage I en bijlage II van de Regeling examenprogramma's voortgezet onderwijs, is in het schooljaar 2013–2014 niet van toepassing op leerlingen die in schooljaar 2012–2013 op grond van artikel 37a van het Eindexamenbesluit v.w.o.-h.a.v.o.- m.a.v.o.- v.b.o. zijn toegelaten tot het centraal examen Nederlands.
