@@ -1,0 +1,3 @@
+# Artikel II. Overgangsbepalingen
+1. De wijziging die deze regeling aanbrengt in bijlage 1 van de Regeling examenprogramma's voortgezet onderwijs, is niet van toepassing op leerlingen die op 1 augustus 2011 zijn toegelaten tot het vijfde of zesde leerjaar vwo.
+2. In het schooljaar 2013–2014 wordt voor de eerste maal de gelegenheid geboden tot het afleggen van een centraal examen economie vwo op basis van het examenprogramma zoals beschreven in de bij deze regeling behorende bijlage, en wordt voor de laatste maal de gelegenheid geboden tot het afleggen van een centraal examen economie vwo op basis van het examenprogramma zoals dat luidde vóór inwerkingtreding van deze regeling.
