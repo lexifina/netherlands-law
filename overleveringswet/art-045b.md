@@ -1,0 +1,2 @@
+# Artikel 45b
+In de gevallen als bedoeld in artikel 45a, eerste lid, onderdeel d, verstrekt de uitvaardigende officier van justitie op verzoek van de persoon tegen wie het Europees aanhoudingsbevel is uitgevaardigd en die nog niet officieel van de tegen hem ingestelde strafprocedure in kennis is gesteld, onverwijld en door tussenkomst van de uitvoerende justitiële autoriteit, een afschrift van het vonnis, dat ten grondslag ligt aan het Europees aanhoudingsbevel. Artikel 408, tweede lid, van het Wetboek van Strafvordering is in dit geval niet van toepassing.

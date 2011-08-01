@@ -1,0 +1,4 @@
+# Artikel 12a
+1. In de gevallen als bedoeld in artikel 12, onderdeel d, kan de persoon tegen wie het Europees aanhoudingsbevel is uitgevaardigd en die nog niet officieel van de tegen hem ingestelde strafprocedure in kennis is gesteld, hetzij rechtstreeks hetzij door tussenkomst van de officier van justitie aan de uitvaardigende justitiële autoriteit om een afschrift van het vonnis dat ten grondslag ligt aan het Europees aanhoudingsbevel, verzoeken.
+2. Nadat de officier van justitie een afschrift van het vonnis van de uitvaardigende justitiële autoriteit heeft ontvangen, verstrekt hij dit onverwijld aan de persoon tegen wie het Europees aanhoudingsbevel is uitgevaardigd.
+3. Een verzoek als bedoeld in het eerste lid en het tijdstip van verstrekking van het afschrift van het vonnis kan geen afbreuk doen aan de behandeling van het Europees aanhoudingsbevel binnen de in artikel 22 gestelde termijnen.
