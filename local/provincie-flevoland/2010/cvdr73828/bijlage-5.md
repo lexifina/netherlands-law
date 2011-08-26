@@ -28,4 +28,4 @@ f. de gebiedscoördinator draagt er zorg voor dat de oppervlakte die per deelnem
 in artikel 4.1.2.1;
 g. aan nadere door Gedeputeerde Staten opgestelde eisen.
 • Wijzigingen als bedoeld in subonderdeel b, onder i. en iii., zijn niet toegestaan voor zover deze tot gevolg hebben dat de landbouwer een agrarisch beheerpakket gaat uitvoeren dat behoort tot een ander agrarisch beheertype, of dat minder stringente eisen kent dan het agrarisch beheerpakket dat vóór het verzoek tot wijziging op die landbouwgrond of de gewijzigde landbouwgrond werd uitgevoerd;
-• Wijzigingen als bedoeld in subonderdeel b, onder i. tot en met iii., zijn evenmin toegestaan voor zover zij betrekking hebben op agrarische beheerpakketten met de aanduiding A01.02.01, met uitzondering van variant c, A01.02.03 en A02.01.01 tot en met A02.02.03.
+• Wijzigingen als bedoeld in subonderdeel b, onder i. tot en met iii., zijn evenmin toegestaan voor zover zij betrekking hebben op agrarische beheerpakketten met de aanduiding A01.01.05, A01.02.01, met uitzondering van variant c, A01.02.03 en A02.01.01 tot en met A02.02.03.

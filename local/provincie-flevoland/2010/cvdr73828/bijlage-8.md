@@ -39,7 +39,7 @@ Beheerspakket (bijlagenummer/pakketnaam) | Agrarisch beheerpakket (aanduiding/pa
 28e: Grasgroenbemester t.b.v. overwinterende ganzen (pakket 2007) | A01.03.01c: Ganzen op vroege groenbemester
 28f: Grasgroenbemester maïsland t.b.v. overwinterende ganzen (pakket 2007) | A01.03.01d: Ganzen op late groenbemester
 Landschapspakket (bijlagenummer/pakketnaam) | Beheerpakket landschap (aanduiding/pakketnaam)
-32: Houtkade, houtwal, haag en singel | L01.02.01: Houtwal en singel
+32: Houtkade, houtwal, haag en singel | L01.02.01: Houtwal en singel L01.06.01a: Struweelhaag snoeicyclus 5-7 jaar* Lo1.06.01b: Struweelhaag snoeicyclus > 12 jaar* * Alleen als voldaan wordt aan instapeisen
 33: Bomenrij | L01.07.01a: Laan stamdiameter L01.07.01b: Laan stamdiameter 20-60 cm L01.07.01c: Laan stamdiameter > 60 cm L01.13.01a: Bomenrij stamdiameter L01.13.01b: Bomenrij stamdiameter 20-60 cm L01.13.01c: Bomenrij stamdiameter > 60 cm * Alleen als voldaan wordt aan instapeisen
 36: Elzensingel | L01.03.01c: Elzensingel bedekkingsgraad > 75%
 37: Geriefhoutbosje | L01.11.01a: Hakhoutbosje met dominantie van langzaamgroeiende boomsoorten (zomereik, wintereik, berk, haagbeuk) L01.11.01b: Hakhoutbosje met dominantie van snelgroeiende boomsoorten (zwarte els, gewone es)

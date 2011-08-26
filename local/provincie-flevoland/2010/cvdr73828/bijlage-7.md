@@ -2,11 +2,11 @@
 ## Bijlage 7 Voorwaarden toeslagen
 Onderdeel A:
 Voorschriften toeslag schapenbeheer (artikel 3.6, eerste lid, onderdeel c)
-1. Gedurende elk kalenderjaar van de periode, bedoeld in artikel 3.2, wordt gebruik gemaakt van één of meerdere door een herder geleide schaapskuddes bij het in stand houden van het op het natuurterrein aanwezige natuurbeheertype.
-2. Het gebruik van één of meerdere door een herder geleide schaapskuddes strekt zich gedurende elk kalenderjaar van de in artikel 3.2 bedoelde periode uit over de gehele oppervlakte waarvoor de toeslag door Gedeputeerde Staten wordt verstrekt.
+1. Gedurende elk kalenderjaar van de periode, bedoeld in artikel 3.2, waarvoor de toeslag wordt verstrekt, wordt gebruik gemaakt van één of meerdere door een herder geleide schaapskuddes bij het in stand houden van het op het natuurterrein aanwezige natuurbeheertype.
+2. Het gebruik van één of meerdere door een herder geleide schaapskuddes strekt zich gedurende elk kalenderjaar van de in het vorige punt bedoelde periode uit over de gehele oppervlakte waarvoor de toeslag door Gedeputeerde Staten wordt verstrekt.
 Onderdeel B:
 Voorschriften toeslag ruige stalmest (artikel 4.1.1.6, eerste lid, onderdeel b)
-1. Op de beheereenheid wordt een agrarisch beheerpakket uitgevoerd dat in bijlage 3, onderdeel B.1, is opgenomen onder de aanduiding A01.01.01, A01.01.02 of A01.01.05.
+1. Op de beheereenheid wordt een agrarisch beheerpakket uitgevoerd dat in bijlage 3, onderdeel B.1, is opgenomen onder de aanduiding A01.01.01, A01.01.02, A01.01.04a of A01.01.05.
 2. Op de beheereenheid wordt in een kalenderjaar ten minste 10 en maximaal 20 ton ruige stalmest per hectare uitgereden.
 3. De ruige stalmest wordt in één keer in één van de onderstaande periodes op een beheereenheid uitgereden:
 a. tussen 1 februari en de begindatum van de rustperiode van het betreffende agrarische beheerpakket, óf
