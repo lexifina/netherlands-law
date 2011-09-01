@@ -122,8 +122,8 @@
 ##### Paragraaf 16.2.2.2. Monitoring en verslaglegging
 ##### Paragraaf 16.2.2.3. Het toewijzen en verlenen van broeikasgasemissierechten
 ##### Paragraaf 16.2.2.4. De geldigheid van broeikasgasemissierechten, het inleveren van broeikasgasemissierechten, emissiereductie-eenheden en gecertificeerde emissiereducties, het annuleren van broeikasgasemissierechten en het compenseren van emissies in een ander kalenderjaar
-#### Afdeling 16.2.3. De overgang van broeikasgasemissierechten, emissiereductie-eenheden en gecertificeerde emissiereducties
-#### Afdeling 16.2.4. Registratie van broeikasgasemissierechten, emissiereductie-eenheden en gecertificeerde emissiereducties
+#### Afdeling 16.2.3. De overgang van broeikasgasemissierechten en andere eenheden
+#### Afdeling 16.2.4. Registratie van broeikasgasemissierechten en andere eenheden
 #### Afdeling 16.2.5. Instemming met deelname aan projectactiviteiten
 ### Titel 16.3. Stikstofoxiden en NOx-emissierechten
 #### Afdeling 16.3.1. Algemeen
