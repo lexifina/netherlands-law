@@ -1,12 +1,14 @@
 # Inhoud
 ## Hoofdstuk 1. Definities en algemene bepalingen
-## Hoofdstuk 2. Vergunningen voor opsporen en winnen
+## Hoofdstuk 2. Vergunningen voor opsporen en winnen van delfstoffen en aardwarmte
 ### § 2.1. Algemene bepalingen
 ### § 2.2. Beperkingen en voorschriften
 ### § 2.3. Procedure
 ### § 2.4. Wijziging, overgang en intrekking
 ### § 2.5. Bijzondere bepalingen
-## Hoofdstuk 3. Vergunningen voor het opslaan van stoffen
+## Hoofdstuk 3. Vergunningen voor het opslaan van stoffen en voor het opsporen van CO2-opslagcomplexen
+### § 3.1. Algemene bepalingen
+### § 3.2. Aanvullende bepalingen omtrent het permanent opslaan van CO2
 ## Hoofdstuk 3a. Gebiedsverkleining
 ## Hoofdstuk 4. De zorg voor een goede uitvoering van activiteiten
 ### § 4.1. Algemene verplichtingen

@@ -1,7 +1,4 @@
 # Artikel 26a
-1. Zodra een aanvraag om een opslagvergunning is ingediend, worden anderen in de gelegenheid gesteld om aanvragen om een opslagvergunning in te dienen voor hetzelfde gebied.
-2. Onze Minister plaatst hiertoe een uitnodiging in de Staatscourant. De uitnodiging maakt melding van het bepaalde in artikel 17.
-3. Anderen kunnen aanvragen indienen tot dertien weken na de dag van plaatsing van de uitnodiging in de Staatscourant.
-4. De procedure, bedoeld in het eerste tot en met het derde lid, wordt niet toegepast met betrekking tot:
-a. een aanvraag die wordt ingediend overeenkomstig het derde lid;
-b. vergunningen waarop artikel 26, eerste of tweede lid, van toepassing is.
+1. Onverminderd artikel 26, zesde lid, wordt de houder van een vergunning voor het opsporen van CO2-opslagcomplexen die met gebruikmaking van die vergunning de geschiktheid van een voorkomen voor permanent opslaan van CO2 heeft aangetoond, op zijn aanvraag, ingediend gedurende de geldingsduur van die vergunning, een opslagvergunning voor het aangetoonde opslagvoorkomen verleend.
+2. Het eerste lid geldt niet, indien weigering van de opslagvergunning, bedoeld in het eerste lid, gerechtvaardigd wordt door één van de in artikel 27 genoemde gronden.
+3. Indien een aanvraag als bedoeld in het eerste lid is ingediend, blijft de vergunning voor het opsporen van CO2-opslagcomplexen, voor zover deze betrekking heeft op het aangevraagde opslagvoorkomen, tenminste gelden tot het tijdstip waarop de beschikking waarbij op de aanvraag wordt beslist onherroepelijk wordt. Indien een vergunning voor permanent opslaan van CO2 wordt verleend, vervalt op het tijdstip waarop de beschikking onherroepelijk wordt, voor het gebied waarvoor de opslagvergunning geldt, de vergunning voor opsporen van CO2-opslagcomplexen. Voor zover hierdoor voorschriften vervallen die nog niet zijn uitgewerkt, gaan zij gelden als voorschriften die zijn verbonden aan de opslagvergunning.
