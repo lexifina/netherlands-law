@@ -18,4 +18,4 @@
 #### § 2. Hoogte bestuurlijke boete
 #### § 3. De procedure
 #### § 4. Betaling
-## Hoofdstuk IX. Slotbepalingen
+## Hoofdstuk IX. Overgangs- en slotbepalingen
