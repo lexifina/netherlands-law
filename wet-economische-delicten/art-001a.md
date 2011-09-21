@@ -17,7 +17,7 @@ de Wet milieubeheer, artikel 1.2, eerste lid, – voor zover aangeduid als straf
 de Wet van 2 juli 1992, Stb. 415, tot uitbreiding en wijziging van de Wet algemene bepalingen milieuhygiëne en daarmee samenhangende wijzigingen van andere wetten (milieubeleidsplanning en milieukwaliteitseisen; provinciale milieuverordening, totstandkoming algemene maatregelen van bestuur), artikel XIX, voor zover het betreft provinciale verordeningen, vastgesteld krachtens artikel 36 of artikel 41 van de Wet bodembescherming;
 de Wet veiligheidsregio's, – voor zover aangeduid als strafbare feiten – de artikelen 48, eerste en zesde lid, en 50, tweede en derde lid;
 de Wet vervoer gevaarlijke stoffen, de artikelen 4, 5, 10, 11, 21, 24, 27, 29, 31 en 33;
-de Wet voorkoming verontreiniging door schepen, de artikelen 5, eerste lid, 12, eerste lid, tweede lid, onderdelen a en b, vierde, zesde, zevende en achtste lid, 12b, eerste lid, 12c, eerste lid, en 12e, eerste lid, 13, 13a, eerste, tweede, derde en vierde lid, 23, eerste, tweede en vierde lid, 35, derde lid, 35a, derde lid en 36a, eerste lid;
+de Wet voorkoming verontreiniging door schepen, de artikelen 5, eerste lid, 12, eerste lid, tweede lid, onderdelen a en b, vierde, zesde, zevende en achtste lid, 12b, eerste lid, 12c, eerste en tweede lid, 12e, eerste lid, 13, 13a, eerste, tweede, derde en vierde lid, 23, eerste, tweede en vierde lid, 35, derde lid, 35a, derde lid en 36a, eerste lid;
 2°. overtredingen van voorschriften, gesteld bij of krachtens:
 de Bestrijdingsmiddelenwet 1962: artikel 16g, zesde lid;
 de Boswet, de artikelen 2, derde lid, 3, eerste en tweede lid, en 13, eerste lid;
