@@ -3,7 +3,8 @@
 ## Hoofdstuk II. Taken publieke gezondheidszorg
 ### § 1. Algemeen
 ### § 2. Jeugdgezondheidszorg
-### § 3. Infectieziektebestrijding
+### § 3. Ouderengezondheidszorg
+### § 4. Infectieziektebestrijding
 ## Hoofdstuk III. Landelijke en gemeentelijke nota gezondheidsbeleid
 ## Hoofdstuk IV. Gemeentelijke gezondheidsdiensten
 ## Hoofdstuk V. Bijzondere bepalingen infectieziektebestrijding
