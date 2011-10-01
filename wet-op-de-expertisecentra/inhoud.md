@@ -9,6 +9,8 @@
 ### Afdeling 2. Overige regelen voor het openbaar onderwijs
 ### Afdeling 3. Overige voorwaarden voor bekostiging uit de openbare kassen van het bijzonder onderwijs
 ## Titel III. Overige bepalingen met betrekking tot het uit de openbare kassen bekostigd onderwijs
+### Afdeling 1. Fusietoets
+### Afdeling 2. Overige bepalingen
 ## Titel IV. Bekostiging
 ### Afdeling 1. Algemeen
 ### Afdeling 2. Aanvang van de bekostiging

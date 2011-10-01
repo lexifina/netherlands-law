@@ -14,6 +14,7 @@
 ### Titel 7. Contractactiviteiten
 ## Hoofdstuk 2. Planning en bekostiging
 ### Titel 1. Planning
+### Titel Ib. Fusietoets
 ### Titel 2. Bekostiging beroepsonderwijs
 #### § 1. Bekostiging
 #### § 2. Leerlinggebonden financiering

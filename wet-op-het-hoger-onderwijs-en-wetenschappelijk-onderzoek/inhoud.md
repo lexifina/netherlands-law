@@ -97,7 +97,7 @@
 ### Paragraaf 2. Onderwijs en vooropleidingseisen
 ### Paragraaf 3. Getuigschriften en titulatuur
 ### Paragraaf 4. Doctoraten Internationaal Instituut voor Sociale Studiën
-### Paragraaf 5. Omzetting, splitsing, verplaatsing en bestuursoverdracht hogescholen
+### Paragraaf 5. Fusies, omzetting, splitsing, verplaatsing en bestuursoverdracht hogescholen
 ### Paragraaf 6. Rechtsbescherming
 ### Paragraaf 7. Bijdragen uit 's Rijks kas voor theologisch en levensbeschouwelijk onderwijs
 ## Hoofdstuk 17. Overgangs- en invoeringsbepalingen wijzigingswetten tot 2002
