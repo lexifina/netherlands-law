@@ -18,9 +18,14 @@
 ### § 5. Bijzondere bepalingen inzake door Onze Minister te verlenen concessies
 ### § 6. Bepalingen inzake marktactiviteiten van gemeentelijke vervoerbedrijven en houders van langdurige concessies
 ## Hoofdstuk IV. Bepalingen voor de reiziger
-## Hoofdstuk VI. Internationaal vervoer en taxivervoer
-### § 1. Internationaal vervoer
-### § 2. Taxivervoer
+## Hoofdstuk V. Taxivervoer
+### § 1. Vergunning
+### § 2. Geschillen en klachten
+### § 3. Verplichtingen betreffende bestuurders en voertuigen taxivervoer
+### § 4. Tarieven
+### § 4a. Vervoerbewijzen
+### § 5. Gemeentelijke bevoegdheden
+## Hoofdstuk VI. Internationaal vervoer
 ## Hoofdstuk VII. Handhaving
 ### § 1. Toezicht en opsporing
 ### § 2. Dwang- en strafbepalingen
