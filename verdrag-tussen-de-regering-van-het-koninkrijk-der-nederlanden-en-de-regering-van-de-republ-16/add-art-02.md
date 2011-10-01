@@ -1,0 +1,4 @@
+# Artikel II. Vereisten in verband met binnenkomst en vertrek
+1. Het personeel van de zendstaat heeft het recht het grondgebied van de ontvangende staat binnen te komen, er te verblijven en het te verlaten. Het personeel van de zendstaat geniet dezelfde bewegingsvrijheid als de onderdanen van de ontvangende staat.
+2. De autoriteiten van de ontvangende staat vergemakkelijken de vrije toegang tot het grondgebied van de ontvangende staat alsmede het vrije vertrek daaruit van personeel van de zendstaat op vertoon van een identiteitskaart en een individuele of collectieve dienstopdracht. Het personeel van de zendstaat is vrijgesteld van de voorschriften inzake paspoorten en visa, immigratiecontrole, belastingen bij binnenkomst op en vertrek uit het grondgebied, rechten en alle overige vereisten met betrekking tot binnenkomst of vertrek.
+3. De ontvangende staat stelt een contactpersoon ter beschikking die om advies gevraagd kan worden.

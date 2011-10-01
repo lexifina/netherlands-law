@@ -1,0 +1,10 @@
+# Artikel VIII. Geneeskundige zorg en overlijden van een lid van het personeel
+a. Geneeskundige en tandheelkundige zorg
+1. Het personeel van de zendstaat dient voorafgaand aan het volgen van de opleiding en training in de ontvangende staat in geneeskundig en tandheelkundig opzicht gezond te zijn verklaard.
+2. Het personeel van de zendstaat ontvangt gedurende zijn gehele verblijf in de ontvangende staat in verband met dit Verdrag kosteloos spoedeisende geneeskundige en tandheelkundige hulp.
+3. De overige geneeskundige en tandheelkundige zorg, met inbegrip van opname in een ziekenhuis, wordt verleend onder dezelfde voorwaarden als die welke gelden voor personeel van de ontvangende staat.
+4. De autoriteiten van de strijdkrachten van de zendstaat betalen de autoriteiten van de ontvangende staat de kosten terug van evacuatie met medische luchtvaartuigen in noodgevallen alsmede van de medische zorg die hun personeel is verleend in plaatselijke civiele medische faciliteiten, uitgezonderd in gevallen waarin de strijdkrachten van het Koninkrijk der Nederlanden voor de vergoeding van de kosten van de genoemde behandeling een beroep kunnen doen op van toepassing zijnde internationale of bilaterale verdragen met betrekking tot medische regelingen of regelingen op het gebied van sociale zekerheid.
+b. Overlijden
+1. De autoriteiten van de zendstaat die aanwezig zijn in de ontvangende staat zijn bevoegd zorg te dragen voor de repatriëring van het stoffelijk overschot van een overleden lid van het personeel van de zendstaat of van een familielid daarvan, alsmede van zijn persoonlijke bezittingen, en mogen daartoe gepaste maatregelen nemen.
+2. Autopsie op het stoffelijk overschot van een overleden lid van het personeel van de zendstaat of van een familielid daarvan mag uitsluitend worden uitgevoerd na toestemming van de autoriteiten van de zendstaat en in aanwezigheid van een vertegenwoordiger daarvan.
+3. De ontvangende staat en de zendstaat werken zo veel mogelijk samen om op zo kort mogelijke termijn de repatriëring te waarborgen van het stoffelijk overschot van een overleden lid van het personeel van de zendstaat of van een familielid daarvan.

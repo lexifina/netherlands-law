@@ -1,0 +1,2 @@
+# Artikel XII. Inwerkingtreding
+Dit Verdrag wordt voorlopig toegepast vanaf de datum van ondertekening en treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van twee maanden na de datum waarop de partijen elkaar schriftelijk in kennis hebben gesteld van de voltooiing van de voor de inwerkingtreding van dit Verdrag grondwettelijk vereiste procedures in hun beide landen.

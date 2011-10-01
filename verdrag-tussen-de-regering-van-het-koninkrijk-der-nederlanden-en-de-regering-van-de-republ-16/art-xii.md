@@ -1,0 +1,2 @@
+# Article XII:. Entrée en vigueur
+Le présent Accord sera appliqué provisoirement à partir de la date de sa signature et entrera en vigueur le premier jour du mois qui suit l'expiration d'une période de deux mois après la date à laquelle les Parties se seront informées mutuellement, par écrit, de l'accomplissement des procédures constitutionnelles requises pour l'entrée en viguer de cet Accord dans leurs pays respectifs.
