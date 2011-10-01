@@ -1,2 +1,0 @@
-# Artikel 6a
-Indien een kleinverbruiker niet heeft gereageerd op het in artikel 5, tweede lid, onderdeel c, bedoelde aanbod verstrekt de netbeheerder of de vergunninghouder de contactgegevens van de kleinverbruiker, diens klantnummer en informatie over de hoogte van diens schuld aan een schuldbemiddelingsinstantie als bedoeld in artikel 48, eerste lid, van de Wet op het consumentenkrediet met het oog op een mogelijk aanbod tot schuldbemiddeling door die instantie aan de betrokken kleinverbruiker.
