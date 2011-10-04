@@ -1,0 +1,24 @@
+# Artikel 23b
+1. De reclame dient eerlijk, echt en controleerbaar te zijn. Voorts mogen geen aanduidingen gebezigd worden in woord of beeld die doordat ze onjuist of onvolledig zijn of een onjuiste indruk wekken, misleidend zijn met betrekking tot de aard of eigenschappen, de samenstelling, de oorsprong, herkomst, de wijze van bereiding, het gebruik, de werking of de houdbaarheid.
+2. De reclame dient overeen te komen met de gegevens van het dossier dat werd overlegd bij het verzoek tot inschrijving in het register bedoeld in artikel 53 van de Geneesmiddelenwet hetzij bedoeld in artikel 5, tweede lid, van de Wet op de geneesmiddelenvoorziening BES.
+3. In de reclame is het niet toegestaan:
+a. afbeeldingen of foto's te tonen van personen die medicijnen innemen;
+b. kinderen te laten figureren bij de aanprijzing van voor volwassenen bestemde geneesmiddelen;
+c. bekende persoonlijkheden bij de aanprijzing te betrekken;
+d. bij de geneesmiddelen te vermelden dat het gebruik daarvan zonder gewenningseffect of niet-verslavend is;
+e. beoefenaars van medische of paramedische beroepen af te beelden;
+f. de goede afloop van het gebruik te waarborgen;
+g. de werking van het geneesmiddel te beschrijven met gebruikmaking van superlatieven of overdreven bewoordingen;
+h. bedriegelijke vereenvoudigingen te gebruiken of de nadruk te leggen op de afwezigheid van ongewenste effecten of van contra-indicaties;
+i. afbeeldingen of foto's weer te geven die geen onmiddellijk verband houden met het geneesmiddel;
+j. over te gaan tot vergelijking tussen geneesmiddelen, zonder de precieze elementen van vergelijking aan te duiden;
+k. melding te maken van genezingsattesten;
+l. melding te maken van speciale aanbiedingen, speciale kortingen, het uitschrijven van prijsvragen en het aanbieden van kortingscouponnen;
+m. het publiek te weerhouden of te ontmoedigen een medische behandeling te zoeken of nader medisch onderzoek te laten verrichten;
+n. de vermelding van ernstige therapeutische indicaties te maken, zoals:
+1° tuberculose;
+2° seksueel overdraagbare ziekten;
+3° andere ernstige infectieziekten;
+4° kanker en andere tumorziekten;
+5° chronische slapeloosheid;
+6° diabetes en andere stofwisselingsziekten.
