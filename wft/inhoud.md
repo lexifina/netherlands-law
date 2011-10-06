@@ -42,6 +42,7 @@
 #### Afdeling 1.6.1a. Verklaringen van geen bezwaar als bedoeld in artikel 3:95 en 3:96
 #### Afdeling 1.6.2. Registratie
 #### Afdeling 1.6.3. Beroep
+### Hoofdstuk 1.8. Beloningen van dagelijks beleidsbepalers bij steunmaatregelen
 ## 2. Deel Markttoegang Financiële Ondernemingen
 ### Hoofdstuk 2.1. Inleidende bepalingen
 ### Hoofdstuk 2.2. Toegang tot de Nederlandse financiële markten
