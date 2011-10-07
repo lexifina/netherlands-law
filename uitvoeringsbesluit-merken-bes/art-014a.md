@@ -1,0 +1,3 @@
+# Artikel 14a
+1. De in dit besluit bedoelde in maanden uitgedrukte termijnen beginnen te lopen met ingang van de dag waarop de desbetreffende handeling plaatsvindt en verstrijken, in de betreffende maand, op de dag die overeenkomt met de dag waarop de termijnen aanvingen. Indien de betreffende maand geen overeenkomende dag heeft, verstrijkt de termijn op de laatste dag van deze maand.
+2. De in dit besluit bedoelde in weken uitgedrukte termijnen beginnen te lopen met ingang van de dag waarop de desbetreffende handeling plaatsvindt en verstrijken, in de betreffende week, op de dag die overeenkomt met de dag waarop de termijnen aanvingen.
