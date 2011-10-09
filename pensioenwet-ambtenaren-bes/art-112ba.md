@@ -1,0 +1,3 @@
+# Artikel 112ba
+1. Voor de toepassing van artikel 112b en 112c worden tot de transitiedatum op arbeidsovereenkomst in dienst van de Nederlandse staat gestelde, werknemers van het Regionaal Service Centrum voor Bonaire, Sint Eustatius en Saba, voor zover ten aanzien van hen niet een pensioenvoorziening vanwege het Algemeen burgerlijk pensioenfonds van toepassing is, geacht pensioenaanspraken te hebben opgebouwd overeenkomstig de Pensioenlandsverordening overheidsdienaren zoals die luidde ten tijde van de periode van de dienstbetrekking.
+2. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het bepaalde in het eerste lid.

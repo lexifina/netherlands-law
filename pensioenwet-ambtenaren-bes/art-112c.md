@@ -1,0 +1,5 @@
+# Artikel 112c
+1. Indien of zodra op grond van artikel 112b, zesde lid, de verplichtingen zijn ondergebracht bij het fonds, is Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties gemachtigd om namens de Staat alle vermogensbestanddelen die de Staat ontvangen heeft of ontvangt ter zake van de overgang van de verplichtingen, bedoeld in artikel 112b, terstond onder algemene titel over te dragen aan het fonds.
+2. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is gemachtigd om de vermogensbestanddelen, bedoeld in het eerste lid, aan te vullen zoveel als nodig in verband met een toereikende solvabiliteit van het fonds.
+3. Ter zake van de overdracht van vermogensbestanddelen, bedoeld in het eerste lid, blijft de heffing van overdrachtsbelasting achterwege.
+4. Ten aanzien van de in het eerste lid bedoelde vermogensbestanddelen die in openbare registers te boek zijn gesteld, zal verandering van de tenaamstelling in die registers plaatsvinden. De daartoe vereiste opgaven worden door het bestuur aan de beheerders van de desbetreffende registers gedaan.

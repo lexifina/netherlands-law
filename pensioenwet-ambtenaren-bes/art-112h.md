@@ -1,0 +1,5 @@
+# Artikel 112h
+1. Het fonds wordt met de uitvoering van deze paragraaf belast.
+2. De rechtspersoon, bedoeld in artikel 112f, twaalfde lid, onderscheidenlijk artikel 112g, negende lid, betaalt maandelijks de ten laste van haar komende uitkeringen over de voorafgaande kalendermaand aan het fonds.
+3. De artikelen 70 en 71 van de Pensioenlandsverordening overheidsdienaren, zoals die luidde op de dag voor het tijdstip van transitie, zijn van overeenkomstige toepassing, met dien verstande dat onder "bestuur" verstaan wordt het bestuur van het fonds.
+4. Over besluiten, handelingen en weigeringen om te besluiten of te handelen, verband houdende met een aanspraak of een vermeende aanspraak op grond van deze paragraaf, oordeelt bij uitsluiting in eerste aanleg het gerecht in ambtenarenzaken en in hoger beroep de raad van beroep in ambtenarenzaken, óók wanneer de bezwaarde geen ambtenaar is in de zin van de Wet Ambtenarenrechstpraak BES. De bepalingen van die wet zijn van overeenkomstige toepassing.
