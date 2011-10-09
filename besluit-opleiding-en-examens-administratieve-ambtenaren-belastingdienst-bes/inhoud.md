@@ -1,0 +1,25 @@
+# Inhoud
+## Hoofdstuk I
+### §. De opleiding
+## Hoofdstuk II
+### §. De Tentamens
+## Hoofdstuk III
+### § A. De Examens
+### § B. Het Examenreglement
+## Hoofstuk IV
+### §. Slot- en overgangsbepalingen
+## INLEIDING TOT DE RECHTSWETENSCHAP
+## MAATSCHAPPIJLEER
+## REDAKTIE-TRAINING
+## BOEKHOUDEN
+## REKENKUNDE
+## COMPTABILITEIT
+## INVORDERING
+## STAATSRECHT
+## INKOMSTENBELASTING
+## WINSTBELASTING (3 jaar)
+## ANDERE HEFFINGSWETTEN EN TAKEN VAN DE BELASTINGDIENST (3 jaar)
+## BURGERLIJK RECHT (1 jaar)
+## ADMINISTRATIERECHT EN AMBTENARENRECHT (1 jaar)
+## ORGANISATIE EN STATISTIEK (1 jaar)
+## LESROOSTER
