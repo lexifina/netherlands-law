@@ -1,0 +1,7 @@
+# Artikel 5a
+1. Aan de geüniformeerd ambtenaar van de Kustwacht wordt door het bevoegd gezag eervol ontslag verleend met ingang van de dag waarop hij de leeftijd van 55 jaren bereikt.
+2. In geval van ontslag als bedoeld in het voorgaande lid heeft de betrokkene recht op pensioen, tenzij hij ingevolge artikel 13 van de Pensioenwet ambtenaren BES reeds invaliditeitspensioen geniet. Op het pensioen zijn de bepalingen van de genoemde wet van toepassing, behoudens het bepaalde in het volgende lid.
+3. Artikel 12, eerste lid, van de Pensioenwet ambtenaren BES is niet van toepassing; indien de overige bepalingen van de genoemde wet een verwijzing bevatten naar artikel 12, eerste lid, wordt deze aangemerkt als een verwijzing naar artikel 5a, eerste lid, van deze wet.
+4. De tijd, als geüniformeerd ambtenaar in dienst van de Kustwacht doorgebracht, wordt vermenigvuldigd met een breuk waarvan de teller zeven en de noemer zes bedraagt (7/6) en aldus gerekend als diensttijd, bedoeld in de Pensioenwet ambtenaren BES.
+5. De bijdragegrondslag, bedoeld in hoofdstuk VI van de Pensioenwet ambtenaren BES, wordt gevormd door het ambtelijk inkomen dat de ambtenaar, bedoeld in het voorgaande lid, in een maand heeft ontvangen, vermenigvuldigd met de factor een en drietiende (1,3).
+De bijdragegrondslag over een jaar wordt, voorzover de betrokkene in dat jaar geüniformeerd ambtenaar in dienst van de Kustwacht is geweest, gevormd door de som van de aldus berekende bijdragegrondslagen over de maanden van dat jaar.
