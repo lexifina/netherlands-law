@@ -1,0 +1,3 @@
+# Artikel 95d
+1. De dienstplichtige is verplicht zich tijdens het verblijf in een gebouw, luchtvaartuig of voertuig alsmede op een vaartuig of terrein dat in gebruik is bij of ten behoeve van de krijgsmacht of dat de dienstplichtige tot verblijf of gebruik dient bij de vervulling van de dienst, te onderwerpen aan een in het belang van de dienst door de commandant gelast onderzoek aan zijn lichaam of kleding of van zijn aldaar aanwezige goederen.
+2. De commandant op wiens last het in het eerste lid bedoelde onderzoek plaats heeft, neemt de nodige maatregelen ten einde daarbij een onredelijke of onbehoorlijke bejegening te voorkomen.

@@ -1,0 +1,4 @@
+# Artikel 116c
+1. De dienstplichtige die zich bezwaard voelt over een van een militaire meerdere als bedoeld in artikel 67 van het Wetboek van Militair Strafrecht ontvangen bevel, dan wel vermeend van een zodanig militaire meerdere een krenkende of onbillijke behandeling te hebben ondervonden kan zich door middel van een met redenen omkleed klaagschrift beklagen bij de beklagmeerdere.
+2. Het klaagschrift moet langs de hiërarchieke weg worden ingediend binnen zes weken na de dag waarop het bevel bedoeld in het eerste lid is gegeven dan wel de in het eerste lid bedoelde behandeling heeft plaatsgevonden.
+3. Een na afloop van de in het tweede lid genoemde termijn ingediend klaagschrift wordt geacht tijdig te zijn ingediend indien de klager aantoont dat hij het klaagschrift heeft ingediend zo spoedig als redelijkerwijs verlangd kon worden.
