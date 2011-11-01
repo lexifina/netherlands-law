@@ -1,0 +1,2 @@
+# Artikel 5*
+Het patent zal door de Staat, die het heeft verleend, worden ingetrokken ten aanzien van de bezitter, die blijk heeft gegeven van een onbekwaamheid, welke gevaar oplevert voor de scheepvaart, of die is veroordeeld, hetzij wegens herhaalde douane-overtredingen, hetzij wegens ernstige vergrijpen tegen de eigendom. De intrekking van het patent kan geschieden bij wijze van tijdelijke maatregel. Zij wordt ter kennis gebracht van de andere autoriteiten, welke tot het verlenen der patenten bevoegd zijn.

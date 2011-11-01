@@ -1,0 +1,3 @@
+# Artikel 4*
+De bezitter van een patent die, op welke wijze ook, een aan hem verleend patent laat komen in handen van een persoon die een zodanig stuk niet bezit, met het oogmerk deze in de gelegenheid te stellen krachtens dit patent de scheepvaart op de Rijn uit te oefenen, zal naar gelang van de omstandigheden worden gestraft met tijdelijke of definitieve intrekking van dit stuk.
+Elke persoon die, niet voorzien van een aan hem verleend patent, de scheepvaart op de Rijn uitoefent en zich daarbij bedient van een aan een andere persoon verleend patent, zal gedurende een naar gelang van de omstandigheden te bepalen termijn van het verkrijgen van een schipperspatent zijn uitgesloten.

@@ -1,0 +1,2 @@
+# Article 5*
+La patente devra être retirée, par l'Etat qui l'a délivrée, au titulaire ayant fait preuve d'une incapacité constituant un danger pour la navigation ou ayant été condamné soit pour faits répétés de fraude douanière, soit pour atteintes graves à la propriété. Le retrait de la patente peut avoir lieu à titre temporaire. Il est porté à la connaissance des autres autorités compétentes pour la délivrance des patentes.

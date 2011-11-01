@@ -1,0 +1,6 @@
+# Article 37bis
+d) Lorsque dans un même litige le demandeur et le défendeur ont fait tous deux appel dans les délais légaux, l'un devant la Commission Centrale et l'autre devant le tribunal supérieur national, la juridiction première saisie connaîtra des deux appels.
+L'appel porté devant la Commission Centrale est réputé formé aussitôt qu'il a été signifié, dans les formes et conditions prévues à l'alinéa 2 de l'art. 37, au tribunal qui a rendu le jugement de première instance. Si les deux appels ont été introduits le même jour, la juridiction devant laquelle le défendeur a fait appel connaîtra des appels.
+Chaque juridiction d'appel examine d'office si un appel a déjà été introduit devant l'autre juridiction d'appel.
+La juridiction d'appel dessaisie aux termes de l'alinéa 1 renverra le litige, sur demande de l'appelant, à la juridiction à laquelle il appartient de connaître des appels aux termes de cet alinéa. Lorsque l'appel devant la juridiction dessaisie a été interjeté dans les délais, le délai d'appel est réputé observé aussi devant l'autre juridiction d'appel.
+Les frais des appels comprennent également ceux qui, selon la législation de la juridiction dessaisie, ont été exposés par la procédure d'appel engagée.

@@ -1,0 +1,3 @@
+# Article 4*
+Le titulaire qui, de quelque manière que ce soit, laisse parvenir la patente qui lui a été délivrée en la possession d'une personne ne possédant pas un pareil document, à l'effet de la mettre en mesure d'exercer la navigation du Rhin en vertu de cette patente, sera puni, selon les circonstances, du retrait temporaire ou définitif de ladite pièce.
+Tout individu qui, n'étant point muni d'une patente pour lui-même, exerce la navigation du Rhin en se servant de celle qui a été délivrée à une autre personne ne pourra, pendant un délai à déterminer selon les circonstances, obtenir une patente de navigation.

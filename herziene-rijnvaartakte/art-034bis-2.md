@@ -1,0 +1,2 @@
+# Artikel 34bis
+a) Onverminderd artikel 35ter zijn de Rijnvaartrechtbanken overeenkomstig artikel 34, IIc eveneens bevoegd, indien de partijen door een privaatrechtelijke overeenkomst zijn gebonden; hun bevoegdheid strekt zich evenwel niet uit tot op een privaatrechtelijke overeenkomst gebaseerde rechtsvorderingen tegen een vaartuig terzake van schade door de schuld van dat vaartuig veroorzaakt aan personen of goederen die zich aan boord van dat vaartuig bevinden.
