@@ -1,0 +1,2 @@
+# IX. Ad Article 10, paragraph 8, and Article 11, paragraph 5
+Notwithstanding paragraph 8 of Article 10 and paragraph 5 of Article 11, it is understood that income from debt-claims shall be regarded as dividends, provided that, and due regard being had to Article 9 of this Convention, the laws of the Contracting State in which this income arises subjects such income to the same taxation treatment as income from shares.

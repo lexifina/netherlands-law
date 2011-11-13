@@ -1,0 +1,2 @@
+# IX. Ad artikel 10, achtste lid, en artikel 11, vijfde lid
+Niettegenstaande artikel 10, achtste lid, en artikel 11, vijfde lid, is het wel te verstaan dat inkomsten uit schuldvorderingen worden beschouwd als dividenden, mits en met gepaste aandacht voor artikel 9 van dit Verdrag, de wetgeving van de Verdragsluitende Staat waaruit deze inkomsten afkomstig zijn deze inkomsten op dezelfde wijze aan belastingheffing onderwerpt als inkomsten uit aandelen.

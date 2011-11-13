@@ -1,0 +1,3 @@
+# I. Algemeen
+1. Het is wel te verstaan dat beide Verdragsluitende Staten het commentaar van de OESO zullen volgen bij de toepassing en uitlegging van de bepalingen van dit Verdrag die in wezen gelijk zijn aan die van het OESO-modelverdrag.
+2. In het geval dat een bestanddeel van het inkomen of een voordeel verkregen door een persoon die fiscaal transparant is krachtens de wetgeving van een van beide Staten, wordt dat bestanddeel of voordeel geacht te zijn verworven door een inwoner van een Staat voor zover dat bestanddeel of voordeel voor de toepassing van de belastingwetgeving van die Staat wordt behandeld als het inkomen of voordeel van een inwoner.
