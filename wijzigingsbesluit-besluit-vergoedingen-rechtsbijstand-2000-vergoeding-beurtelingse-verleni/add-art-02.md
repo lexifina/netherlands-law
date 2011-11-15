@@ -1,0 +1,2 @@
+# Artikel II
+Op piketrechtsbijstand, verleend vóór de inwerkingtreding van dit besluit, waarin de eerste verrichting op of na 1 april 2010 is gedaan, zijn van toepassing de regels van de op 26 januari 2010 krachtens artikel 4:23, derde lid, onderdeel a, van de Algemene wet bestuursrecht vastgestelde beleidsregel Vergoeding raadplegen raadsman voorafgaand aan of bij het politieverhoor van de raden voor rechtsbijstand te Amsterdam, Arnhem, Den Haag, 's-Hertogenbosch en Leeuwarden.
