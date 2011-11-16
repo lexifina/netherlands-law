@@ -1,0 +1,2 @@
+# Artikel II
+Artikel 2 van de Regeling aanwijzing doelgroepen Remigratiewet, zoals dat luidde op de dag voor de datum van inwerkingtreding van deze regeling, blijft van toepassing op personen die voor het tijdstip van de inwerkingtreding van deze regeling zijn geremigreerd, of een aanvraag tot toekenning van de basisvoorzieningen of de remigratievoorzieningen bij de Sociale verzekeringsbank hebben ingediend.
