@@ -1,0 +1,7 @@
+# Artikel VI
+1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+2. In afwijking van het eerste lid, treedt artikel I, onderdelen Z, eerste lid, en Za, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 15 augustus 2001.
+3. In afwijking van het eerste lid, treedt artikel I, onderdelen G en AA, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 januari 2004.
+4. In afwijking van het eerste lid, treedt artikel I, onderdelen F en Z, tweede tot en met vijfde lid, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 januari 2005.
+5. In afwijking van het eerste lid, treedt artikel I, onderdelen A, tweede lid, Fa, Ga, Ia, Ib, Ic, Zb, BB, DDa, DDb, DDc en DDd in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 31 december 2008.
+6. In afwijking van het eerste lid, treedt artikel I, onderdelen A, eerste lid, Da, F0, Wa en FF, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.

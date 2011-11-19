@@ -1,0 +1,2 @@
+# Artikel V
+Artikel 6, eerste lid, onderdeel a, van de Werkloosheidswet en artikel 6, eerste lid, onderdeel a, van de Ziektewet, zoals die bepalingen luidden op de dag voorafgaand aan het tijdstip van inwerkingtreding van artikel I, onderdeel T, blijven van toepassing ten aanzien van gewezen commissarissen van de Koning, burgemeesters en voorzitters van een waterschap, die zijn afgetreden voorafgaand aan het tijdstip van inwerkingtreding van artikel I, onderdeel T.
