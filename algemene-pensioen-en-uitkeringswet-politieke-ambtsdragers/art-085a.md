@@ -1,0 +1,3 @@
+# Artikel 85a
+1. In afwijking van artikel 58b, derde lid, informeert Onze Minister het gewezen kamerlid van wie de uitkeringsduur, bedoeld in artikel 52, eerste of tweede lid, is geëindigd in de periode gelegen tussen 31 december 2007 en de dag van inwerkingtreding van de Wet aanpassing Appa en enkele andere wetten 2011, binnen vier maanden na inwerkingtreding van de Wet aanpassing Appa en enkele andere wetten 2011 over de mogelijkheid, bedoeld in artikel 58b, eerste lid.
+2. De gewezen minister kan tot een jaar na de inwerkingtreding van de Wet aanpassing Appa en enkele andere wetten 2011 Onze Minister verzoeken tot omzetting van eigen pensioen in nabestaandenpensioen als bedoeld in artikel 58b.
