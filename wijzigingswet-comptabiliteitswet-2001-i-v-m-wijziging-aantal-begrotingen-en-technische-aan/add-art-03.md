@@ -1,0 +1,2 @@
+# Artikel III
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst met uitzondering van de onderdelen A, onder 1, 2 en 3, B, C, D, F en I van artikel I, eerste lid, en van artikel II, die in werking treden met ingang van 1 augustus 2011. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven op of na de datum van 1 augustus 2011, dan treden deze onderdelen in werking met ingang van de dag na de datum van uitgifte van dat Staatsblad en werken zij terug tot en met 1 augustus 2011.
