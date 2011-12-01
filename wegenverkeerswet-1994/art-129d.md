@@ -1,0 +1,3 @@
+# Artikel 129d
+1. Aan autoriteiten die betrokken zijn bij de uitvoering van deze wet of zijn belast met de handhaving van de bij of krachtens deze wet vastgestelde voorschriften, voor zover het het alcoholslotprogramma betreft, worden op door de Dienst Wegverkeer bepaalde wijze de gegevens verstrekt die zij voor de uitvoering van hun taak behoeven.
+2. De autoriteiten, bedoeld in het eerste lid, zijn op bij algemene maatregel van bestuur bepaalde wijze bevoegd tot het invoeren, wijzigen dan wel verwijderen van de bij algemene maatregel van bestuur aangewezen gegevens die van belang zijn voor het bijhouden van het register.
