@@ -1,0 +1,2 @@
+# V
+This Protocol shall form an integral part of the Agreement between the Kingdom of The Netherlands, in respect of Aruba, and the Government of the Cayman Islands as authorised under the letter of entrustment dated 1 September 2009 from the United Kingdom of Great Britain and Northern Ireland for the exchange of information with respect to tax matters, and shall enter into force on the same date as the Agreement.
