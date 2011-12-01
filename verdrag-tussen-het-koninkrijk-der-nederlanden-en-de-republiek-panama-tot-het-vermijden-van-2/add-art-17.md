@@ -1,0 +1,12 @@
+# XVII. Ad Article 24
+a) It is understood that information will only be requested once the requesting Contracting State has exhausted all regular sources of information available under the internal taxation procedure.
+b) It is understood that the administrative assistance provided for in Article 24 does not include measures aimed only at the simple collection of pieces of evidence, when it is improbable that the requested information will be relevant for controlling or administering tax matters of a given taxpayer in a Contracting State ("fishing expeditions").
+c) It is understood that the tax authorities of the requesting State shall provide the following information to the tax authorities of the requested State when making a request for information under Article 24 of the Convention:
+(i) the name and address of the person(s) under examination or investigation and, if available, other particulars facilitating that person's identification, such as date of birth, marital status, tax identification number;
+(ii) the period of time for which the information is requested;
+(iii) a statement of the information sought including its nature and the form in which the requesting State wishes to receive the information from the requested State;
+(iv) the tax purpose for which the information is sought;
+(v) the name and address of any person believed to be in possession of the requested information.
+d) It is further understood that Article 24 of the Convention shall not commit the Contracting States to exchange information on an automatic or a spontaneous basis.
+e) It is understood that in case of an exchange of information, the administrative procedural rules regarding taxpayers' rights provided for in the requested Contracting State remain applicable before the information is transmitted to the requesting Contracting State. These procedures include notifying the person in regards with the request of information from the other Contracting State, and granting the possibility for that person to file and present a stance with the tax administration before it issues a response to the requesting State. It is further understood that this provision aims at guaranteeing the taxpayer a fair procedure and not at preventing or unduly delaying the exchange of information process.
+f) After a period of five years following the entering into force of this Convention, the Contracting States shall evaluate this provision, and if necessary, shall enter into negotiations to revise it.

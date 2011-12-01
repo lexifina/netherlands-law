@@ -1,0 +1,3 @@
+# XI. Ad artikel 10
+a. De in het tweede en derde lid voorziene verlaagde tarieven zijn niet van toepassing op dividenden op niet geregistreerde aandelen aan toonder.
+b. In geval van aandelen aan toonder die zijn omgezet naar aandelen op naam, zijn de in het tweede en derde lid voorziene verlaagde tarieven van toepassing met betrekking tot dividenduitdelingen betaald door een lichaam dat inwoner is van een Verdragsluitende Staat aan een inwoner van de andere Verdragsluitende Staat mits de aldus omgezette aandelen gedurende een tijdvak van ten minste 12 maanden voorafgaande aan de dividenduitdeling als aandelen op naam in zijn bezit waren.

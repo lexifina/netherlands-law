@@ -1,0 +1,2 @@
+# XVI. Ad Article 23
+The competent authorities of the States may also agree, with respect to any agreement reached as a result of a mutual agreement procedure as meant in Article 23 that the State in which there is an additional tax charge as a result of the aforementioned agreement shall not impose any increases, surcharges, interest and costs with respect to this additional tax charge, to the extent that a corresponding deduction of tax is made in the other State as a result of the agreement and no interest is payable in that State with respect to such a reduction of tax.

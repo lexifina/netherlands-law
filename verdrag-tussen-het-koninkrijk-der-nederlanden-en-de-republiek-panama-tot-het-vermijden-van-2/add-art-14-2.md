@@ -1,0 +1,2 @@
+# XIV. Ad artikel 12
+In het geval van royalty's die door een inwoner van een Verdragsluitende Staat uit de andere Verdragsluitende Staat worden verkregen, mag deze inwoner ervoor kiezen op nettobasis te worden belast als ware hij/zij een inwoner van de andere Verdragsluitende Staat. De keuze kan worden uitgeoefend na de toepassing van de in artikel 12, tweede lid, beschreven bronbelasting op het brutobedrag. De bevoegde autoriteiten stellen de administratieve maatregelen vast die nodig zijn om deze bepaling uit te voeren.

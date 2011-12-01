@@ -1,0 +1,2 @@
+# XIV. Ad Article 12
+In the case of royalties derived by a resident of a Contracting State from the other Contracting State, such resident may elect to be taxed on a net basis as if he/she were a resident of the other Contracting State. This election may be exercised after the application of the withholding tax described in Article 12, paragraph 2, on the gross amount. The competent authorities shall establish the administrative measures necessary to carry out this provision.

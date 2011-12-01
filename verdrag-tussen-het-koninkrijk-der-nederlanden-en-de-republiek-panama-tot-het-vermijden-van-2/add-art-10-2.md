@@ -1,0 +1,2 @@
+# X. Ad Artikel 7 en 28
+Alle diensten (of delen van diensten) die door een inwoner van een Verdragsluitende Staat in de andere Verdragsluitende Staat worden verleend voor de inwerkingtreding van dit Verdrag, mogen in die andere Staat op netto- of brutobasis (d.w.z. bronbelastingen) worden belast, binnen de in de nationale belastingwetgeving vastgestelde grenzen, zonder de bepalingen van artikel 7 in aanmerking te nemen.
