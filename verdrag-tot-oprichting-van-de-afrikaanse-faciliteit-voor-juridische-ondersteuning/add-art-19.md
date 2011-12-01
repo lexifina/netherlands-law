@@ -1,0 +1,3 @@
+# Article XIX. Freedom of Property, Assets and Operations from Restriction
+1. To the extent necessary to implement the purposes of the Facility and carry out its functions, each Participating State shall waive, and refrain from imposing, any administrative, financial or other regulatory restrictions that are likely to hinder in any manner the smooth functioning of the Facility or impair its operations.
+2. To this end, the Facility, its property, assets, operations and activities shall be free from restrictions, regulations, supervision or controls, moratoria and other legislative, executive, administrative, fiscal and monetary restrictions of any nature.

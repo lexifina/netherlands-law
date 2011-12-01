@@ -1,0 +1,4 @@
+# Article XXIV. Exemption from Taxation
+1. The Facility, its property, assets, income, operations and transactions shall be exempt from all taxation and custom duties.
+2. Without prejudice to the generality of the provision of paragraph 1 of this Article, each Participating State shall take all necessary action to ensure that the property and assets of the Facility, and other instruments and transactions, interest, commissions, fees, and other income, return and moneys of any kind, accruing, appertaining or payable to the Facility from any source shall be exempt from all forms of taxes, duties, charges, levies, and imposts of any kind whatsoever, including stamp duty and other documentary taxes, heretofore levied or hereafter imposed in its territory.
+3. The Facility shall also be exempt from any obligation relating to the payment, withholding, or collection of any tax or duty.

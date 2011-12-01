@@ -1,0 +1,4 @@
+# Artikel XXIX. Depositaris
+1. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding worden nedergelegd bij de Secretaris-Generaal van de Afrikaanse Ontwikkelingsbank, die zal optreden als voorlopige depositaris van dit Verdrag (hierna te noemen de „voorlopige depositaris").
+2. De voorlopige depositaris laat dit Verdrag registreren bij het Secretariaat van de Verenigde Naties, in overeenstemming met artikel 102 van het Handvest van de Verenigde Naties en de uit hoofde daarvan door de Algemene Vergadering van de Verenigde Naties aangenomen regelgeving. De voorlopige depositaris doet voor eensluidend gewaarmerkte afschriften van dit Verdrag toekomen aan alle verdragsluitende partijen.
+3. Voor aanvang van de werkzaamheden van de Faciliteit doet de voorlopige depositaris de tekst van dit Verdrag en alle relevante akten en documenten die hij in zijn bezit heeft, toekomen aan de Directeur van de Faciliteit, die daarna zal optreden als depositaris.

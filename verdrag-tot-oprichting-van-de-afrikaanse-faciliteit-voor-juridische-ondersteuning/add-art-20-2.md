@@ -1,0 +1,3 @@
+# Artikel XX. Onschendbaarheid van de archieven
+1. De archieven van de Faciliteit en in het algemeen alle documenten die toebehoren aan of in het bezit zijn van de Faciliteit zijn onschendbaar, ongeacht waar zij zich bevinden, met dien verstande dat de in dit artikel voorziene onschendbaarheid zich niet uitstrekt tot documenten die dienen te worden overgelegd in het kader van gerechtelijke of arbitrageprocedures waarbij de Faciliteit partij is;
+2. Onverminderd het algemene karakter van het bepaalde in het eerste lid van dit artikel, mogen documenten met vertrouwelijke bepalingen die in het bezit zijn van de Faciliteit niet worden overgelegd voor gerechtelijke of arbitrageprocedures.

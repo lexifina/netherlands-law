@@ -1,0 +1,3 @@
+# Artikel XIX. Vrijstelling van beperkingen ten aanzien van eigendommen, bezittingen en werkzaamheden
+1. Voor zover nodig om de doelstellingen van de Faciliteit te verwezenlijken en haar taken uit te voeren, dient iedere deelnemende staat afstand te doen van en zich te onthouden van het opleggen van administratieve, financiële of andere beperkende voorschriften, die het soepel functioneren van de Faciliteit op enige wijze zouden kunnen belemmeren of haar werkzaamheden zouden kunnen schaden.
+2. Daartoe worden de Faciliteit, haar eigendommen, bezittingen, werkzaamheden en activiteiten vrijgesteld van beperkingen, voorschriften, toezicht of controles, moratoria en alle andere beperkingen van wetgevende, uitvoerende, administratieve, fiscale en monetaire aard.

@@ -1,0 +1,4 @@
+# Article XXIX. Depositary
+1. Instruments of ratification acceptance, approval or accession shall be deposited with the Secretary General of the African Development Bank, who shall act as the provisional depositary of this Agreement (herein called the "Provisional Depositary").
+2. The Provisional Depositary shall register this Agreement with the Secretariat of the United Nations in accordance with Article 102 of the Charter of the United Nations and the regulations thereunder adopted by the General Assembly of the United Nations. The Provisional Depositary shall transmit certified copies of this Agreement to all contracting parties.
+3. Upon commencement of operations of the Facility, the Provisional Depositary shall transmit the text of this Agreement and all relevant instruments and documents in the possession of the Provisional Depositary to the Director of the Facility, who shall then act as the Depositary.

@@ -1,0 +1,2 @@
+# Artikel XXV. Fiscale vrijstellingen, financiële voorzieningen, voorrechten en concessies
+Elke deelnemende staat verleent aan de Faciliteit een status die niet ongunstiger is dan die van andere internationale organisaties. Bovendien geniet zij alle fiscale vrijstellingen, financiële voorzieningen, voorrechten en concessies die door de deelnemende staten aan internationale organisaties en andere instellingen worden verleend.

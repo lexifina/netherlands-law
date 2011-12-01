@@ -1,0 +1,3 @@
+# Article XVIII. Immunity of Property and Assets
+1. The property and assets of the Facility wherever located and by whomsoever held shall be immune from: (a) search, requisition, expropriation, confiscation, nationalization and all other forms of seizure, taking or foreclosure by executive or legislative action; and (b) seizure, attachment or execution before the delivery of final judgment or award against the Facility.
+2. For the purpose of this Article XVIII, the term "property and assets of the Facility" shall include property and assets owned or held by the Facility and deposits and funds entrusted to the Facility in the ordinary course of business.
