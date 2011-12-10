@@ -36,7 +36,7 @@
 ## Hoofdstuk 9. Toezicht en sancties
 ### Paragraaf 9.1. Toezicht
 ### Paragraaf 9.2. Verstrekken van inlichtingen
-### Paragraaf 9.3. Administratieve sanctie
+### Paragraaf 9.3. Bestuursrechtelijke geldschulden en bestuurlijke boete
 ### Paragraaf 9.4. Strafbepalingen
 ## Hoofdstuk 10. Hoger onderwijs; tempobeurs
 ## Hoofdstuk 10a. Opbouw en terugbetaling studieschuld; «oude» debiteuren
