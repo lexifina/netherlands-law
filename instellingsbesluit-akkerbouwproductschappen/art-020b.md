@@ -1,0 +1,5 @@
+# Artikel 20b
+1. Het op grond van artikel 3, zoals dit artikel luidde voor 1 januari 2008, ingestelde Hoofdproductschap Akkerbouw wordt opgeheven.
+2. De rechten en verplichtingen, de vermogensbestanddelen en de archiefbescheiden van het in het eerste lid bedoelde hoofdproductschap, met uitzondering van die bedoeld in artikel 20a, eerste lid, alsmede het personeel van het in het eerste lid bedoelde hoofdproductschap, gaan over naar het op grond van artikel 3 ingestelde Hoofdproductschap Akkerbouw.
+3. Verordeningen en andere besluiten van het in het eerste lid bedoelde hoofdproductschap, anders dan die bedoeld in artikel 20a, tweede lid, blijven van kracht tot de datum waarop door het Hoofdproductschap Akkerbouw vastgestelde verordeningen en besluiten ter zake in werking zullen treden.
+4. Wettelijke procedures en rechtsgedingen, ingesteld door of tegen het in het eerste lid bedoelde hoofdproductschap betreffende andere activiteiten dan die bedoeld in artikel 20a, derde lid, worden geacht te zijn ingesteld door of tegen het Hoofdproductschap Akkerbouw.
