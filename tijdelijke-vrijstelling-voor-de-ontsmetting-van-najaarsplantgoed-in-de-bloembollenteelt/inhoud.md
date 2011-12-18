@@ -1,2 +1,0 @@
-# Inhoud
-## Gevaren en veiligheidswaarschuwingen
