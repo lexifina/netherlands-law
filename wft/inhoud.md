@@ -25,6 +25,7 @@
 #### Afdeling 1.3.1. Samenwerking toezichthouders nationaal
 #### Afdeling 1.3.2. Samenwerking met andere lidstaten algemeen
 ##### § 1.3.2.1. Samenwerking en uitwisseling van gegevens en inlichtingen
+##### § 1.3.2.1.a. Colleges van toezichthouders
 ##### § 1.3.2.2. Samenwerking in het kader van toezicht op de naleving
 ##### § 1.3.2.3. Samenwerking in het kader van handhaving
 ##### § 1.3.2.4. Raadplegen in het kader van overige procedures en kennis geven van bepaalde besluiten
