@@ -1,0 +1,2 @@
+# VI. Ad artikelen 5, 6, 7 en 13
+Het is wel te verstaan dat voor de toepassing van dit Verdrag de rechten tot exploratie, exploitatie of winning van natuurlijke rijkdommen, verleend door een Verdragsluitende Staat in overeenstemming met de wetgeving van die Staat, tevens worden geacht een vaste inrichting in die Staat te zijn, onverminderd de wetgeving van de Verdragsluitende Staten inzake de natuurlijke rijkdommen, of de exploratie, exploitatie of winning daarvan.

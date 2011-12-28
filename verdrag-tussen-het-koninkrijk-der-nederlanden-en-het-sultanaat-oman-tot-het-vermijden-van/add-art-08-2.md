@@ -1,0 +1,2 @@
+# VIII. Ad artikel 7, derde lid
+Het is wel te verstaan dat de bepalingen van dit lid de Verdragsluitende Staat waar de vaste inrichting is gevestigd, niet beletten voor zijn nationale belastingheffing bij het vaststellen van het belastbaar inkomen van de vaste inrichting de bepalingen van zijn nationale wet- en regelgeving toe te passen daaronder begrepen de bepalingen die betrekking hebben op wat aftrekbaar is.

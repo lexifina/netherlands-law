@@ -1,0 +1,2 @@
+# VI. Ad Articles 5, 6, 7 and 13
+It is understood that, for the purposes of this Agreement, the rights to the exploration, exploitation or extraction of natural resources granted by a Contracting State according to the laws of that State shall also be deemed to be a permanent establishment in that State, without prejudice to the laws of the Contracting States relating to the natural resources or the exploration, exploitation or extraction of those resources.
