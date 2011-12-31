@@ -1,0 +1,2 @@
+# Artikel 67a
+Tot 31 december 2010 is de in bijlage 1, eerste lid, onderdeel e, genoemde limiet van 20% voor niet-achtergestelde effecten die zijn uitgegeven door Franse Fonds Commun de Créances of overeenkomstige securitisatievehikels niet van toepassing, voor zover voor die effecten een kredietbeoordeling van een aangewezen kredietbeoordelingsbureau beschikbaar is die de gunstigste is die dit kredietbeoordelingsbureau voor gedekte obligaties toekent.
