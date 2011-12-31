@@ -24,10 +24,11 @@
 #### Paragraaf 2. Bevoegdheden
 ### Afdeling 2. Maatregelen van toezicht
 ## Hoofdstuk 5. Vrijheidsbeperkende en vrijheidsontnemende maatregelen
-## Hoofdstuk 6. Vertrek, uitzetting en ongewenstverklaring
+## Hoofdstuk 6. Vertrek, uitzetting, inreisverbod en ongewenstverklaring
 ### Afdeling 1. Vertrek
 ### Afdeling 2. Uitzetting
-### Afdeling 3. Ongewenstverklaring
+### Afdeling 3. Inreisverbod
+### Afdeling 4. Ongewenstverklaring
 ## Hoofdstuk 7. Rechtsmiddelen
 ### Afdeling 1. Algemene bepalingen
 ### Afdeling 2. Regulier
