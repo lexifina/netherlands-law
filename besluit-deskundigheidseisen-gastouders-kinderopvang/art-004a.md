@@ -1,0 +1,2 @@
+# Artikel 4a. Overgangsrecht
+Een certificaat als bedoeld in artikel 3, tweede lid, zoals dat lid luidde voorafgaande aan de inwerkingtreding van het Besluit van 16 augustus 2011 tot wijziging van het Besluit deskundigheidseisen gastouders kinderopvang in verband met het niet langer toelaten van het ervaringscertificaat als bewijs van deskundigheid (Stb. 398), dat is verstrekt voor 1 januari 2012, geeft blijk van het voldoen aan de in artikel 2, onderdeel a, van dit besluit bedoelde deskundigheidseis.
