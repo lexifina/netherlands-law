@@ -11,11 +11,12 @@
 ### Afdeling 2.8. Geruisloze terugkeer uit BV
 ### Afdeling 2.9. Fiscale eenheid
 ### Afdeling 2.10. Eindafrekening
+### Afdeling 2.10a. Objectvrijstelling voor buitenlandse ondernemingswinsten
 ### Afdeling 2.11. Aftrekbare giften
 ## Hoofdstuk III. Voorwerp van de belasting bij buitenlandse belastingplichtigen
 ## Hoofdstuk IV. Verrekening van verliezen
 ## Hoofdstuk V. Tarief
-## Hoofdstuk Va. Deelnemingsverrekening
+## Hoofdstuk Va. Deelnemingsverrekening en verrekening bij buitenlandse ondernemingswinsten
 ## Hoofdstuk VI. Wijze van heffing
 ## Hoofdstuk VII. Aanvullende regelingen
 ## Hoofdstuk VIII. Overgangs- en slotbepalingen
