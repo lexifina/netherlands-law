@@ -1,0 +1,2 @@
+# Artikel II
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties betrekt de artikelen 4, eerste, tweede en vierde lid, 4a en 6 van de Tijdelijke regeling diensten van algemeen economisch belang toegelaten instellingen volkshuisvesting, zoals die artikelen door artikel I van deze regeling zijn komen te luiden, voor het eerst in 2013 bij de beoordeling, bedoeld in artikel 7 van genoemde regeling.
