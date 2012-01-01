@@ -1,6 +1,11 @@
 # Artikel 71h
-1. Op verzoek wordt teruggaaf van accijns verleend voor duurzaam geproduceerde E85 dat is belast naar het laatstgenoemde tarief, bedoeld in artikel 27, eerste lid, onderdeel a.
-2. Voor de toepassing van het eerste lid wordt onder duurzaam geproduceerde E85 verstaan de vloeistof bestaande uit een combinatie van uitsluitend bio-ethanol (ethanol uit biomassa) en ongelode lichte olie waarbij de bio-ethanol ten minste 70 percent en ten hoogste 85 percent uitmaakt van deze vloeistof mits de bio-ethanol in deze vloeistof aantoonbaar voldoet aan eisen van duurzaamheid. Bij ministeriële regeling worden nadere regels gesteld omtrent de eisen van duurzaamheid en de controle hierop.
-3. De teruggaaf bedraagt 27 percent van het in het eerste lid bedoelde accijnstarief.
-4. De teruggaaf wordt verleend aan degene die de accijns ter zake van de uitslag tot verbruik van E85 verschuldigd is geworden.
-5. Bij ministeriële regeling kunnen nadere voorwaarden en beperkingen worden gesteld ter uitvoering van de teruggaaf.
+1. Op verzoek wordt teruggaaf van accijns verleend voor motorbrandstof die geheel of gedeeltelijk bestaat uit biobrandstof als bedoeld in artikel 2, onderdeel i, van de Richtlijn hernieuwbare energie indien die biobrandstof voldoet aan duurzaamheidscriteria als bedoeld in artikel 17 van deze richtlijn.
+2. Dat een biobrandstof voldoet aan de duurzaamheidscriteria, bedoeld in het eerste lid, blijkt uit een audit uitgevoerd door een onafhankelijk deskundige of uit een andere wijze als bedoeld in artikel 18 van de Richtlijn hernieuwbare energie.
+3. Teruggaaf van accijns wordt slechts verleend:
+a. over de hoeveelheid biobrandstof in motorbrandstof als bedoeld in het eerste lid, mits die biobrandstof een lagere energie-inhoud heeft dan de gelijkwaardige motorbrandstof waarvan het accijnstarief van toepassing is; en
+b. indien 10 procent of meer van de in de motorbrandstof aanwezige energie afkomstig is van de in het eerste lid bedoelde biobrandstof.
+4. De teruggaaf van accijns bedraagt een percentage van het accijnstarief van de gelijkwaardige motorbrandstof, bedoeld in het derde lid, onderdeel a. Dit percentage is gelijk aan het verschil in energie-inhoud van de biobrandstof en die van de gelijkwaardige motorbrandstof, uitgedrukt als percentage van de energie-inhoud van de gelijkwaardige motorbrandstof.
+5. Voor de vaststelling van de energie-inhoud per volume van de biobrandstof en die van de gelijkwaardige motorbrandstof wordt voor zover mogelijk uitgegaan van hetgeen hiertoe is opgenomen in bijlage III van de Richtlijn hernieuwbare energie.
+6. De teruggaaf wordt verleend aan degene die de accijns ter zake van de uitslag tot verbruik verschuldigd is geworden.
+7. Bij algemene maatregel van bestuur kunnen voorwaarden en beperkingen worden gesteld waaronder de teruggaaf, bedoeld in het eerste lid, wordt verleend.
+8. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
