@@ -1,0 +1,2 @@
+# Artikel XI
+De artikelen 22, 23, tweede en derde lid, 69, tweede lid, 87, zesde lid, onderdeel e, subonderdeel 2, van de Zorgverzekeringswet, artikel 4 van de Wet op de zorgtoeslag en artikel 31, tweede lid, onderdeel r, van de Wet werk en bijstand en de daarop gebaseerde bepalingen, zoals deze luidden op de dag voorafgaande aan de dag waarop deze wet in werking treedt, blijven van toepassing op de no-claimteruggave over de jaren 2006 en 2007.
