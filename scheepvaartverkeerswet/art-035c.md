@@ -1,0 +1,2 @@
+# Artikel 35c
+De opsporingsambtenaar die bij de uitoefening van de hem bij of krachtens wet verleende bevoegdheden de beschikking krijgt over een vaarwijs waarvan ingevolge dit hoofdstuk de overgifte is gevorderd, waarvan een verplichting tot inlevering bestaat of dat ingevolge de Binnenvaartwet zijn geldigheid heeft verloren, is bevoegd dat vaarbewijs in te nemen en het door te geleiden naar het betrokken parket van het openbaar ministerie, naar degene bij wie de houder dat vaarbewijs had dienen in te leveren onderscheidenlijk naar de instantie die het heeft afgegeven.

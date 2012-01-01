@@ -9,6 +9,7 @@
 ### § 2. Scheepsmeting
 ### § 3. Bemanning
 ### § 4. Vaarbewijs
+### § 5. Vaarbevoegdheid en registratie van gegevens
 ## Hoofdstuk 4. Scheepsnummer en gegevensverstrekking
 ### § 1. Scheepsnummer
 ### § 2. Gegevensverstrekking
