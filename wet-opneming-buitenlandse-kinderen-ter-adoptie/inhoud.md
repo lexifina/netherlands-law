@@ -2,6 +2,7 @@
 ## Hoofdstuk 1. Begripsbepalingen
 ## Hoofdstuk 2. De beginseltoestemming
 ## Hoofdstuk 3. Het buitenlandse kind en zijn opneming
+## Hoofdstuk 3a. Tegemoetkoming kosten
 ## Hoofdstuk 4. Het gezinsonderzoek na binnenkomst in Nederland van een tijdens gewoon verblijf in het buitenland opgenomen buitenlands kind
 ## Hoofdstuk 5. De vergunning en de werkzaamheden van vergunninghouders
 ## Hoofdstuk 5A. De klachtencommissie
