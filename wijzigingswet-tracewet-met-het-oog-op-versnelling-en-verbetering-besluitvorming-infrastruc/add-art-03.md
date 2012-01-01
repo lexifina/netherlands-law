@@ -1,0 +1,4 @@
+# Artikel III
+1. Indien door Onze Minister een beslissing is genomen op grond van artikel 2, tweede lid, van de Tracéwet, zoals dat artikel luidde voor de inwerkingtreding van deze wet, zijn hoofdstuk II, artikel 9, eerste lid, voor zover het de termijnstelling betreft, en artikel 10, vierde lid, van de Tracéwet, zoals die luiden na de inwerkingtreding van deze wet, niet van toepassing op het desbetreffende project.
+2. Het eerste lid is van overeenkomstige toepassing op door Onze Minister binnen een jaar na inwerkingtreding van deze wet aan te wijzen projecten waarvoor de in het eerste lid bedoelde beslissing nog niet is genomen maar waarvan de verkenning zich reeds in gevorderd stadium bevindt.
+3. Ten aanzien van een tracébesluit waarvoor een ontwerp voor de inwerkingtreding van deze wet ter inzage is gelegd, is artikel 10, eerste lid, onderdeel f, en artikel 23 van de Tracéwet, zoals deze luiden na inwerkingtreding van deze wet, niet van toepassing.
