@@ -1,6 +1,0 @@
-# Artikel 65j
-1. In afwijking van artikel 7, eerste lid, onderdeel a, van de Wet werk en bijstand en artikel 30, eerste lid, onderdeel b, van de Wet structuur uitvoeringsorganisatie werk en inkomen is artikel 65i van overeenkomstige toepassing met betrekking tot de persoon:
-a. wiens arbeidsongeschiktheidsuitkering is ingetrokken als gevolg van de toepassing van artikel 34, vierde lid, alsmede de persoon op wie dat artikel, op grond van artikel 2, tweede lid, van het Besluit eenmalige herbeoordelingen arbeidsongeschiktheidswetten, niet van toepassing is en wiens arbeidsongeschiktheidsuitkering is ingetrokken;
-b. die op de dag voorafgaand aan de eerste dag van de dienstbetrekking met betrekking waartoe loonkostensubsidie wordt aangevraagd, geen uitkering ontvangt op grond van een wet waaraan uitvoering wordt gegeven door het Uitvoeringsinstituut werknemersverzekeringen of de Wet werk en bijstand; en
-c. die op de dag voorafgaand aan de eerste dag van de dienstbetrekking met betrekking waartoe loonkostensubsidie wordt aangevraagd geen tegemoetkoming ontvangt op grond van de Tijdelijke regeling inkomensgevolgen herbeoordeelde arbeidsongeschikten.
-2. De leeftijdsgrens, bedoeld in artikel 65i, eerste lid, is niet van toepassing op deze persoon
