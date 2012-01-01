@@ -1,0 +1,2 @@
+# Artikel III. Wijziging van de Wet van 31 januari 2008 tot wijziging van de Wet kinderopvang en enige andere wetten in verband met het herstel van enkele onvolkomenheden in de Wet kinderopvang en het opnemen van een klachtenregeling voor oudercommissies in die wet alsmede in verband met de overgang van het beleidsterrein kinderopvang naar het Ministerie van Onderwijs, Cultuur en Wetenschap
+[Wijzigt de Wijzigingswet Wet kinderopvang, enz. (herstel onvolkomenheden, opnemen klachtenregeling en overgang beleidsterrein kinderopvang).]
