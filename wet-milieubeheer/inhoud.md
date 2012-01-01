@@ -2,7 +2,7 @@
 ## Hoofdstuk 1. Algemeen
 ### § 1.1. Algemeen
 ### § 1.2. De provinciale milieuverordening
-## Hoofdstuk 2. Adviesorganen
+## Hoofdstuk 2. Zelfstandige bestuursorganen en adviesorganen
 ### § 2.1. De Nederlandse emissieautoriteit
 ### § 2.2. De Commissie voor de milieueffectrapportage
 ### § 2.3. De Commissie genetische modificatie
@@ -47,6 +47,7 @@
 ### Paragraaf 8.2
 ### Titel 8.4. Regels met betrekking tot plaatsing van stortplaatsen op een lijst
 ## Hoofdstuk 9. Stoffen en produkten
+### Titel 9.1. Algemeen
 ### Titel 9.2. Stoffen, preparaten en genetisch gemodificeerde organismen
 #### § 9.2.1. Algemeen
 #### § 9.2.2. Maatregelen
@@ -54,6 +55,7 @@
 ### Titel 9.3. De EG-verordening registratie, evaluatie en autorisatie van chemische stoffen
 ### Titel 9.3a. De EG-verordening indeling, etikettering en verpakking van stoffen en mengsels
 ### Titel 9.4. De EG-richtlijn ecologisch ontwerp energiegerelateerde producten
+### Titel 9.5. Overige bepalingen met betrekking tot stoffen, preparaten en producten
 ### Titel 9.6. De EG-richtlijn ter bevordering van schone en energiezuinige wegvoertuigen
 ## Hoofdstuk 10. Afvalstoffen
 ### Titel 10.1. Algemeen
