@@ -1,0 +1,2 @@
+# Artikel II
+In afwijking van artikel 3, onderdeel h, van de Regeling verslaggeving WTZi, zoals dat onderdeel luidde onmiddellijk voor het tijdstip van inwerkingtreding van deze regeling, kan een zorginstelling die zorg verleent, waarop aanspraak bestaat op grond van artikel 6 Algemene Wet Bijzondere Ziektekosten, ook bij de bepaling van de waarde van materiële vaste activa over het verslagjaar 2011, uitgaan van een situatie van nacalculatie over de afschrijvingsperiode hierover.
