@@ -40,14 +40,14 @@
 ### Titel 1. Het beroepsonderwijs, verzorgd door uit 's Rijks kas bekostigde instellingen
 ### Titel 2. Het beroepsonderwijs, verzorgd door niet uit 's Rijks kas bekostigde instellingen
 ### Titel 3. De exameninstellingen
-### Titel 4. Het Centraal register beroepsopleidingen
+### Titel 4. Het Centraal register beroepsonderwijs
 ## Hoofdstuk 6a. Het onderwijsaanbod educatie
 ### Titel 1. De educatie, verzorgd door instellingen als bedoeld in artikel 1.4a.1
 ## Hoofdstuk 7. Het onderwijs
 ### Titel 1. Het onderwijs
 ### Titel 2. Het beroepsonderwijs
 #### § 1. Reikwijdte
-#### § 2. Beroepsopleidingen en eindtermen beroepsopleidingen
+#### § 2. Beroepsopleidingen en kwalificatiestructuur
 ### Titel 3. De educatie
 ### Titel 4. Examens
 #### § 1. Examens beroepsopleidingen en opleidingen educatie, met uitzondering van opleidingen voortgezet algemeen volwassenenonderwijs en opleidingen Nederlands als tweede taal
@@ -73,9 +73,9 @@
 ## Hoofdstuk 10. Beroep bij de administratieve rechter
 ## Hoofdstuk 11. Sancties
 ### Paragraaf 1. Inhouden en opschorten bekostiging; strafbepaling
+## Hoofdstuk 11a. Experimenten
 ## Hoofdstuk 12. Overgangs-, invoerings- en slotbepalingen
 ### Titel 1. Intrekking regelingen
-### Titel 1a. Bepalingen met betrekking tot experimentele opleidingen
 ### Titel 2. Voorzieningen voor onbepaalde tijd
 ### Titel 3. Invoering van de wet
 ### Titel 4. Bepalingen met betrekking tot leerlinggebonden financiering
