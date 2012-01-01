@@ -1,2 +1,0 @@
-# Artikel IV
-Deze regeling treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
