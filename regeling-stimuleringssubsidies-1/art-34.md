@@ -1,2 +1,0 @@
-# Artikel 34*
-In gevallen waarin de wet, de statuten of dit reglement niet voorziet, beslist het bestuur.
