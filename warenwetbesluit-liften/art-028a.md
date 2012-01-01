@@ -1,0 +1,3 @@
+# Artikel 28a
+1. De artikelen 5 en 8 zijn niet van toepassing op liften die zijn vervaardigd in overeenstemming met de vervaardigingsvoorschriften, bedoeld in artikel 28b en die voor 1 juli 1999 in de handel zijn gebracht en in bedrijf zijn gesteld, voor zover zij niet alsnog in overeenstemming zijn gebracht met artikel 5.
+2. Met betrekking tot de liften, bedoeld in het eerste lid, waarop de artikelen 5 en 8 niet worden toegepast en waarop krachtens een of meer andere wettelijke regelingen de CE-markering wordt aangebracht, worden op de bij die liften gevoegde documenten, handleidingen of gebruiksaanwijzingen de in het Publicatieblad van de Europese Gemeenschappen bekendgemaakte referenties van de aan die wettelijke regelingen ten grondslag liggende richtlijnen vermeld.
