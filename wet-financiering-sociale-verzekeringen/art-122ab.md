@@ -1,2 +1,0 @@
-# Artikel 122ab. Overgangsrecht premiekorting i.v.m. gewijzigd loonsanctiesysteem
-Met betrekking tot personen die op of na 1 januari 2004 maar voor 15 augustus 2004 ziek zijn geworden wordt in artikel 49, vijfde lid, aanhef, voor «bedoeld in artikel 24 of 25, negende lid, van die wet» gelezen: bedoeld in artikel 24 van die wet of het tijdvak dat voortvloeit uit de toepassing van artikel 123b, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen.

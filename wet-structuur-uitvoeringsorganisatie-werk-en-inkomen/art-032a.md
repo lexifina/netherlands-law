@@ -1,4 +1,4 @@
 # Artikel 32a. Onderzoek en kostenvergoeding
 1. Indien een werkgever verzoekt een onderzoek als bedoeld in artikel 32, eerste en tweede lid, in te stellen, geeft het Uitvoeringsinstituut werknemersverzekeringen slechts een oordeel over het bestaan van de ongeschiktheid tot werken van een bepaalde werknemer, indien deze werknemer bereid is zich hiertoe te laten onderzoeken.
-2. Het Uitvoeringsinstituut werknemersverzekeringen kan voor een onderzoek als bedoeld in artikel 32, eerste, tweede, derde en vierde lid, kosten in rekening brengen bij de werkgever of de werknemer die heeft verzocht dit onderzoek in te stellen.
+2. Het Uitvoeringsinstituut werknemersverzekeringen kan voor een onderzoek als bedoeld in artikel 32, eerste, tweede, derde, vierde en zesde lid, kosten in rekening brengen bij de werkgever of de werknemer die heeft verzocht dit onderzoek in te stellen.
 3. Het Uitvoeringsinstituut werknemersverzekeringen geeft een oordeel als bedoeld in artikel 32, eerste, tweede, derde en vierde lid, binnen een termijn van twee weken na ontvangst van het verzoek. De artikelen 4:14 en 4:15 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.

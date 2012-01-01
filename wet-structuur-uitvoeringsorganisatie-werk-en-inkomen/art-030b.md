@@ -2,7 +2,7 @@
 1. Het Uitvoeringsinstituut werknemersverzekeringen registreert op diens verzoek als werkzoekende:
 a. Nederlanders;
 b. vreemdelingen op wie artikel 1 of artikel 10 van Verordening (EEG) nr. 1612/68 van de Raad van de Europese Gemeenschappen van 15 oktober 1968 betreffende het vrij verkeer van werknemers binnen de Gemeenschap (PbEG 1968, L 257) van toepassing is;
-c. vreemdelingen die beschikken over een krachtens de Vreemdelingenwet 2000 afgegeven vergunning die is voorzien van een aantekening van Onze Minister van Justitie waaruit blijkt dat aan die vergunning geen beperkingen zijn verbonden voor het verrichten van arbeid;
+c. vreemdelingen die beschikken over een krachtens de Vreemdelingenwet 2000 afgegeven vergunning die is voorzien van een aantekening van Onze Minister voor Immigratie en Asiel waaruit blijkt dat aan die vergunning geen beperkingen zijn verbonden voor het verrichten van arbeid;
 d. vreemdelingen die behoren tot een bij algemene maatregel van bestuur aangewezen categorie.
 2. Aan geregistreerde werkzoekenden wordt kosteloos een bewijs van registratie verstrekt.
 3. Het Uitvoeringsinstituut werknemersverzekeringen regelt de termijnen gedurende welke de registratie ten hoogste wordt gehandhaafd en waarmee de registratie telkenmale, op verzoek van de betrokkene, ten hoogste kan worden verlengd.
