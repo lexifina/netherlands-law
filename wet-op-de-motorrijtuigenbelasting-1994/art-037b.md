@@ -16,3 +16,4 @@ b. Gedurende het in onderdeel a genoemde jaar kan de inspecteur de vergunning on
 a. bij herhaling niet wordt voldaan aan de voor de vergunning gestelde voorwaarden;
 b. misbruik van de vergunning is gemaakt of een poging daartoe is gedaan;
 c. de vergunninghouder daarom verzoekt.
+6. Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht is van toepassing op verzoeken aan de inspecteur tot een vergunning als bedoeld in het eerste lid.

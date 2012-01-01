@@ -1,3 +1,4 @@
 # Artikel 15c
 1. De kapitein, eigenaar of rompbevrachter van een zeeschip dat gevoerd wordt door een verkeersdeelnemer op wie een verplichting rust als bedoeld in artikel 4, derde lid, gericht op het deelnemen aan verkeersbegeleiding, is gehouden het verkeersbegeleidingstarief te betalen en de in verband met de bepaling van het tarief benodigde informatie te verstrekken.
 2. In bij algemene maatregel van bestuur aan te wijzen gevallen en op een in die maatregel aan te geven wijze kan Onze Minister aan een kapitein, eigenaar of rompbevrachter een gehele of gedeeltelijke ontheffing verlenen van de verplichting tot het betalen van het in het eerste lid bedoelde tarief. Aan een besluit tot ontheffing kunnen voorschriften en beperkingen worden verbonden.
+3. Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht is van toepassing op de ontheffing van de verplichting tot het betalen van het in het eerste lid bedoelde tarief.
