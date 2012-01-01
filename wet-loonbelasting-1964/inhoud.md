@@ -2,7 +2,6 @@
 ## Hoofdstuk I. Belastingplicht
 ## Hoofdstuk II. Voorwerp van de belasting
 ## Hoofdstuk IIB. Pensioenregelingen
-## Hoofdstuk IIC. Levensloopregeling
 ## Hoofdstuk III. Tarief
 ## Hoofdstuk IV. Wijze van heffing
 ## Hoofdstuk V. Heffing van de inhoudingsplichtige
