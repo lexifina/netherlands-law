@@ -1,0 +1,2 @@
+# Artikel XIX
+Bij ministeriële regeling worden wijzigingen aangebracht in de wetgeving en in de daarop gebaseerde bepalingen teneinde voor de motorrijtuigenbelasting voor een motorrijwiel, een personenauto of bestelauto waarvoor een kenteken is opgegeven, in de gevallen waarin door de houder opdracht is gegeven tot automatische incasso, betaling in maandelijkse termijnen mogelijk te maken met ingang van 1 januari 1998.

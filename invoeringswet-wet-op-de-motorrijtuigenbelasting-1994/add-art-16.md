@@ -1,0 +1,2 @@
+# Artikel XVI
+In afwijking van artikel 222, derde lid, van de Provinciewet wordt voor de berekening van het aan provinciale opcenten verschuldigde bedrag voor tijdvakken die aanvangen na 31 maart 1995 doch vóór 1 april 1997 uitgegaan van het tarief van de Wet op de motorrijtuigenbelasting 1966, zoals dat luidde bij aanvang van het kalenderjaar 1980, met dien verstande dat de vermeerdering van belasting bedoeld in artikel 6 alsmede het vaste bedrag genoemd in artikel 8, tweede lid, onderdeel a, van laatstgenoemde wet buiten beschouwing blijven.
