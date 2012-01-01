@@ -1,0 +1,2 @@
+# Artikel VIIIf
+De Stichting Autoriteit Financiële Markten trekt de door haar op grond van artikel 2:65, derde lid, van de Wet op het financieel toezicht voor het aanbieden van rechten van deelneming in instellingen voor collectieve belegging in effecten en artikel 2:80, tweede lid, van de Wet op het financieel toezicht voor het bemiddelen in verzekeringen verleende ontheffingen in. Artikel 1:104, derde lid, van de Wet op het financieel toezicht is van overeenkomstige toepassing.
