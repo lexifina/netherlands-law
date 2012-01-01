@@ -1,0 +1,3 @@
+# Artikel 5g
+1. Bij subsidieverstrekking van € 125.000 of meer, wordt aan een subsidie de verplichting voor de subsidieontvanger verbonden om onverwijld een schriftelijke melding te doen zodra aannemelijk is dat de activiteiten waarvoor de subsidie is verleend niet of niet geheel vóór de in de beschikking vermelde datum waarop deze uiterlijk moeten zijn verricht zullen worden verricht of dat vóór die datum niet of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan.
+2. Indien de periode van uitvoering van de activiteiten waarvoor subsidie wordt verstrekt meer dan 12 maanden bedraagt, wordt een tussentijds voortgangsverslag ten hoogste één keer per periode van 12 maanden gevraagd.
