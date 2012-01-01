@@ -1,0 +1,2 @@
+# Artikel VIII
+Instellingen die op de voet van artikel 6.33, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001, zoals dat onderdeel luidde op 31 december 2011, zijn aangemerkt als een algemeen nut beogende instelling, worden met ingang van 1 januari 2012 aangemerkt als een algemeen nut beogende instelling als bedoeld in artikel 2, derde lid, onderdeel m, van de Algemene wet inzake rijksbelastingen.

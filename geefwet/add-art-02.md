@@ -1,0 +1,2 @@
+# Artikel II
+In afwijking van artikel 6.31, eerste lid, van de Wet inkomstenbelasting 2001 zijn op verzoek drukkende onderhoudskosten waarvan de belastingplichtige kan aantonen dat hij ter zake reeds verplichtingen is aangegaan vóór 1 januari 2012 en de uitgaven zijn gedaan vóór 1 januari 2014, aftrekbaar volgens artikel 6.31, eerste lid, van de Wet inkomstenbelasting 2001, zoals dat artikel luidde op 31 december 2011.
