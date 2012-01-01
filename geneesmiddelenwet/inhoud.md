@@ -10,7 +10,7 @@
 ### § 2. Verplichtingen van de houder van een door het College verleende handelsvergunning
 ### § 3. Schorsing, wijziging en intrekking van de handelsvergunning
 ### § 4. Register en vergoedingen
-### § 5. Uitzondering homeopathica
+### § 5. Uitzondering voor kruidengeneesmiddelen en homeopathische geneesmiddelen
 ## Hoofdstuk 5. Indeling van geneesmiddelen
 ## Hoofdstuk 6. Terhandstelling van geneesmiddelen en het voorschrijven daarvan
 ## Hoofdstuk 7. Etikettering en bijsluiter
