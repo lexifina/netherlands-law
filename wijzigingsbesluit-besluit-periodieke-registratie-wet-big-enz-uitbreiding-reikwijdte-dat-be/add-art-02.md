@@ -1,0 +1,2 @@
+# Artikel II
+Indien een ingeschrevene in een register als bedoeld in artikel 2, eerste lid, onder d tot en met h, van het Besluit periodieke registratie Wet BIG in het bezit is van een getuigschrift, verklaring of erkenning als bedoeld in artikel 8, tweede lid, onder a, van de wet, welke is verkregen vóór 1 januari 2012, geldt in afwijking van artikel 8, tweede lid, onder a, van de wet 1 januari 2012 als aanvangsdatum van de eerste vijfjaarlijkse registratieperiode.
