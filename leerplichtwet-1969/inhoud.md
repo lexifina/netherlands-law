@@ -4,5 +4,5 @@
 ## § 2a. Kwalificatieplicht
 ## § 3. Vrijstellingen
 ## § 4. Toezicht op de naleving van de wet
-## § 5. Strafbepalingen
+## § 5. Sanctiebepalingen
 ## § 6. Slot- en overgangsbepalingen
