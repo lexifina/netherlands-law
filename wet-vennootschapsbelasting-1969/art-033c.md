@@ -1,0 +1,7 @@
+# Artikel 33c
+1. Een bij een belastingplichtige met betrekking tot een laagbelaste buitenlandse beleggingsonderneming als bedoeld in artikel 15g, op basis van een regeling ter voorkoming van dubbele belasting naar een jaar dat aanvangt op of na 1 januari 2012 over te brengen bedrag aan te verrekenen belasting, wordt voor de toepassing van artikel 23d aangemerkt als een naar dat jaar over te brengen bedrag als bedoeld in het vijfde lid van dat artikel.
+2. Een bij een belastingplichtige met betrekking tot een laagbelaste buitenlandse beleggingsonderneming als bedoeld in artikel 15g, op basis van een regeling ter voorkoming van dubbele belasting naar een jaar dat aanvangt op of na 1 januari 2012 over te brengen bedrag aan negatieve buitenlandse winst, wordt voor de toepassing van artikel 23d, tweede lid, onderdeel a, en derde lid, in dat jaar en de daaropvolgende jaren, in mindering gebracht op het gezamenlijke bedrag aan winst uit buitenlandse onderneming van die jaren, doch niet verder dan tot nihil, tot in totaal het over te brengen bedrag.
+3. Het tweede lid vindt geen toepassing voor zover:
+a. met het bedrag aan negatieve buitenlandse winst al rekening is gehouden bij de toepassing van artikel 13c, zoals dat luidde op 31 december 2011;
+b. de belastingplichtige aannemelijk maakt dat het bedrag aan negatieve buitenlandse winst heeft geleid tot een verlies dat vanwege de in artikel 20, tweede lid, opgenomen termijnen niet meer verrekenbaar is.
+4. Artikel 33b, vierde lid, is van overeenkomstige toepassing.

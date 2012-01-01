@@ -1,0 +1,7 @@
+# Artikel 15g
+1. Voor de toepassing van artikel 15e, zevende lid, is een buitenlandse onderneming een laagbelaste buitenlandse beleggingsonderneming indien:
+a. de werkzaamheden van de buitenlandse onderneming tezamen met de werkzaamheden van de lichamen waarin de belastingplichtige, onmiddellijk dan wel middellijk, een belang van 5% of meer heeft dat toerekenbaar is aan de buitenlandse onderneming, grotendeels bestaan uit beleggen of het direct of indirect financieren van de belastingplichtige of met de belastingplichtige verbonden lichamen, dan wel van bedrijfsmiddelen die door de belastingplichtige of met de belastingplichtige verbonden lichamen worden gebruikt, daaronder begrepen het ter beschikking stellen van het gebruik of het gebruiksrecht daarvan, en
+b. de winst uit de buitenlandse onderneming in de staat waarin deze is behaald niet is onderworpen aan een belasting naar de winst die resulteert in een naar Nederlandse begrippen reële heffing.
+2. Van werkzaamheden als bedoeld in het eerste lid, onderdeel a, is geen sprake voor zover:
+a. de werkzaamheden ingevolge bij ministeriële regeling te stellen regels kunnen worden aangemerkt als actieve financierings- of terbeschikkingstellingswerkzaamheden, of
+b. de werkzaamheden bestaan uit het houden van onroerende zaken – daaronder mede begrepen rechten die direct of indirect betrekking hebben op onroerende zaken – die niet in het bezit zijn van een lichaam dat is aangemerkt als beleggingsinstelling of vrijgestelde beleggingsinstelling.
