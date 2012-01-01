@@ -1,0 +1,2 @@
+# Artikel XXIII
+De Wet werk en inkomen kunstenaars en de daarop berustende bepalingen alsmede de wettelijke bepalingen die op grond van deze wet worden gewijzigd en de daarop berustende bepalingen, zoals deze luidden op 31 december 2011, blijven van toepassing op de afwikkeling van uitkeringen, in welke vorm dan ook, op grond van de Wet werk en inkomen die zijn verleend over een voor 1 januari 2012 gelegen periode.
