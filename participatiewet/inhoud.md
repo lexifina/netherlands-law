@@ -3,7 +3,7 @@
 ### § 1.1. Begripsbepalingen
 ### § 1.2. Opdracht gemeente
 ## Hoofdstuk 2. Rechten en plichten
-### § 2.1. Arbeidsinschakeling
+### § 2.1. Arbeidsinschakeling en tegenprestatie
 ### § 2.2. Bijstand
 ### § 2.3. Inlichtingenplicht en afstemming
 ## Hoofdstuk 3. Algemene bijstand
