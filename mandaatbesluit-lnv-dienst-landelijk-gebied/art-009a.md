@@ -1,2 +1,0 @@
-# Artikel 9a
-De directeur, de directeur uitvoering, de chief financial officer, de regiodirecteuren, de hoofden projecten, het hoofd concern staf en het hoofd concern productie van de Dienst Landelijk Gebied zijn gemachtigd om namens de Minister van Landbouw, Natuur en Voedselkwaliteit te beslissen en stukken te ondertekenen betreffende het sluiten van overeenkomsten ten laste van programmabudget, voor zover het bedrag het hiervoor vastgestelde bedrag in de begroting niet overschrijdt.
