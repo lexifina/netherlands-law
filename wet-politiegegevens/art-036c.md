@@ -9,7 +9,7 @@ f. artikel 14, vierde lid, wordt in plaats van «artikel 15 van de Archiefwet 19
 g. artikel 17, derde lid, wordt in plaats van «het Europese deel van Nederland» gelezen: Bonaire, Sint Eustatius en Saba;
 h. de artikelen 18, tweede lid, 32, tweede lid, 33, tweede lid en 34, vierde lid, wordt in plaats van «het College bescherming persoonsgegevens» gelezen: de Commissie van toezicht bescherming persoonsgegevens BES, bedoeld in artikel 44 van de Wet bescherming persoonsgegevens BES;
 i. artikel 20, eerste lid, wordt in plaats van «Politiewet 1993 bevoegd gezag» gelezen: Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba bevoegde gezag op Bonaire, Sint Eustatius of Saba;
-j. artikel 23, eerste lid, wordt in plaats van «openbaar ministerie als bedoeld in artikel 16, eerste lid, onderdeel c,» gelezen: openbaar ministerie van Bonaire, Sint Eustatius en Saba;
+j. artikel 23, eerste lid, wordt in plaats van «openbaar ministerie als bedoeld in artikel 16, eerste lid, onderdeel b,» gelezen: openbaar ministerie van Bonaire, Sint Eustatius en Saba;
 k. artikel 24, eerste en tweede lid, wordt in plaats van «een lid van het College van procureurs-generaal» gelezen: de procureur-generaal, bedoeld in artikel 2 van de Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba;
 l. artikel 28, tweede lid, wordt in plaats van «Artikel 37, eerste lid, van de Wet bescherming persoonsgegevens» gelezen: Artikel 29, eerste lid, van de Wet bescherming persoonsgegevens BES.
 2. De artikelen 1, onder h, 17a, 35, 36 en 46 zijn niet van toepassing.

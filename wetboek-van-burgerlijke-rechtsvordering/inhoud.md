@@ -144,6 +144,7 @@
 ### Titel 15. Van rechtspleging in zaken betreffende rechten van intellectuele eigendom
 ### Titel 16. Van rechtspleging in pachtzaken
 ### Titel 17. Van rechtspleging in deelgeschillen betreffende letsel- en overlijdensschade
+### Titel 18. Van rechtspleging in zaken betreffende een arbeidsovereenkomst op grond waarvan de werknemer arbeid verricht op het continentaal plat
 ## Boek Vierde. Arbitrage
 ### titel Eerste. Arbitrage in Nederland
 #### afdeling Eerste. De overeenkomst tot arbitrage en de benoeming tot arbiter
