@@ -1,5 +1,5 @@
 # Artikel 28bis
-1. De inspecteur kan de verplichting tot het doen van eerstedagsmeldingen slechts opleggen indien ten aanzien van de inhoudingsplichtige in de periode van zes maanden welke voorafgaat aan de dagtekening van de beschikking, bedoeld in artikel 28, onderdeel f, een van de volgende gebeurtenissen zich heeft voorgedaan:
+1. De inspecteur kan de verplichting tot het doen van eerstedagsmeldingen slechts opleggen indien ten aanzien van de inhoudingsplichtige in de periode van zes maanden welke voorafgaat aan de dagtekening van de beschikking, bedoeld in artikel 28, eerste lid, onderdeel f, een van de volgende gebeurtenissen zich heeft voorgedaan:
 a. een naheffingsaanslag in verband met de toepassing van artikel 30a is opgelegd;
 b. een vergrijpboete als bedoeld in artikel 67f van de Algemene wet inzake rijksbelastingen is opgelegd;
 c. een boete ter zake van een of meer beboetbare feiten als genoemd in artikel 18 van de Wet arbeid vreemdelingen is opgelegd;
