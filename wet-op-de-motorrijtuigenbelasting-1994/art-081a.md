@@ -1,2 +1,2 @@
 # Artikel 81a
-De artikelen 10.1 en 10.2 van de Wet inkomstenbelasting 2001 zijn van overeenkomstige toepassing op de in de artikelen 23, 24, 24a, 24b, 25, 25a, 25b, 37c, eerste lid, en 47, eerste lid, vermelde bedragen.
+De artikelen 10.1 en 10.2 van de Wet inkomstenbelasting 2001 zijn van overeenkomstige toepassing op de in de artikelen 23, 24, 24a, 24b, 25, 25a, 25b, 25c, eerste lid, en 37c, eerste lid, vermelde bedragen.
