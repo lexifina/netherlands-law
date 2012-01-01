@@ -1,2 +1,0 @@
-# Artikel 10a
-Of een echtgenoot bij echtscheiding of scheiding van tafel en bed recht heeft op een gedeelte van de door de andere echtgenoot opgebouwde pensioenrechten, wordt beheerst door het recht dat van toepassing is op het huwelijksvermogensregime van de echtgenoten, behoudens artikel 1, zevende lid, van de Wet verevening pensioenrechten bij scheiding.

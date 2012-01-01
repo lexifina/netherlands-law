@@ -1,2 +1,0 @@
-# Artikel 5b
-Een corporatie die niet is een Nederlandse rechtspersoon en is vermeld in de lijst, bedoeld in artikel 2, derde lid, van Verordening (EG) nr. 2580/2001 van de Raad van 27 december 2001 (PbEG L 344) of in Bijlage I van Verordening (EG) nr. 881/2002 van de Raad van 27 mei 2002 (PbEG L 139) of is vermeld en met een ster aangemerkt in de Bijlage bij het Gemeenschappelijk Standpunt nr. 2001/931 van de Raad van 27 december 2001 (PbEG L 344) is van rechtswege verboden en niet bevoegd tot het verrichten van rechtshandelingen.
