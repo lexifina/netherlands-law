@@ -1,0 +1,5 @@
+# Artikel II
+1. Een ieder die op het tijdstip van inwerkingtreding van deze wet, naar hij weet of behoort te weten, beschikt over tenminste vijf procent van het kapitaal in een uitgevende instelling als bedoeld in artikel 5:33, eerste lid, onderdeel a, van de Wet op het financieel toezicht doet daarvan binnen vier weken na dat tijdstip melding aan de Stichting Autoriteit Financiële Markten:
+a. indien hij daarvan niet eerder melding heeft gedaan; of
+b. indien hij daarvan eerder melding heeft gedaan maar het aantal en de soort aandelen door de inwerkingtreding van deze wet gewijzigd zijn ten opzichte van de laatst gedane melding.
+2. De melding, bedoeld in het eerste lid, wordt gedaan overeenkomstig het Besluit melding zeggenschap en kapitaal belang in uitgevende instellingen Wft. Aan de verplichting op grond van het eerste lid is voldaan indien ter zake van hetzelfde feit een onverwijlde melding is gedaan op grond van de artikelen 5:38, eerste lid, 5:39, eerste lid, 5:40, 5:42, of 5:43, eerste of tweede lid, van de Wet op het financieel toezicht.
