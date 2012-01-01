@@ -1,0 +1,2 @@
+# Artikel III
+Indien vóór het tijdstip van inwerkingtreding van deze regeling een aanvraag om een watervergunning is gedaan in een geval dat op grond van artikel 6.11 of 6.12 van de Waterregeling als gevolg van deze regeling is aangewezen als een van de vergunningplicht vrijgestelde activiteit van ondergeschikt belang, of daarvoor al een vergunning is verleend welke op dat tijdstip nog niet onherroepelijk is, wordt de aanvraag als melding in de zin van artikel 6.14, eerste lid, van de Waterregeling te worden aangemerkt.
