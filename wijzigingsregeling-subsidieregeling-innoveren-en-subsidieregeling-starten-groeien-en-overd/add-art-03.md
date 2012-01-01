@@ -1,0 +1,2 @@
+# Artikel III
+Op aanvragen om subsidie die voor de inwerkingtreding van deze regeling zijn ingediend en op subsidies die voor de inwerkingtreding van deze regeling zijn verstrekt, op grond van de Subsidieregeling innoveren en de Subsidieregeling starten, groeien en overdragen van ondernemingen, zijn de betreffende regelingen van toepassing zoals deze luidden direct voor de inwerkingtreding van deze regeling.
