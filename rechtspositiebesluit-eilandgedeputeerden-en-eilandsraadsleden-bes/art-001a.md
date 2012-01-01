@@ -1,0 +1,2 @@
+# Artikel 1a
+Artikel 1 is van overeenkomstige toepassing op het lid van de eilandsraad aan wie ingevolge artikel Ya 13 juncto artikel X 10, eerste en tweede lid van de Kieswet tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, met dien verstande dat de tegemoetkoming in de kosten, die dit lid ontvangt op grond van eerste, tweede of derde lid, de helft bedraagt van het bedrag dat op grond van die bepalingen van toepassing is.
