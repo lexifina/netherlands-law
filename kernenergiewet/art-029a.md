@@ -4,4 +4,5 @@
 a. voor het vervoeren, het voorhanden hebben bij opslag in verband met het vervoer, het binnen of buiten Nederlands grondgebied brengen of doen brengen van radioactieve stoffen, dan wel het voorhanden hebben of zich ontdoen van zodanige stoffen die zullen ontstaan tijdens het gebruik van splijtstoffen in een inrichting of uitrusting, ten aanzien waarvan een vergunning krachtens artikel 15, onder b of c, is vereist;
 b. voor het bereiden, voorhanden hebben, toepassen of zich ontdoen van radioactieve stoffen in overeenkomstige gevallen als bedoeld in artikel 17, derde lid;
 c. voor medische toepassingen, indien naar het oordeel van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer het belang van de patiënt onverwijlde toepassing van die stoffen vereist.
+In gevallen als bedoeld in de eerste volzin is met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwetparagraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op de aanvraag om een vergunning.
 3. De artikelen 15c, eerste lid, 16 en 17a zijn van overeenkomstige toepassing.

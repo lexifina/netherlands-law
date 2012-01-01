@@ -10,3 +10,4 @@ c. het treffen van enige andere voorziening die naar het oordeel van Onze genoem
 6. Aan de goedkeuring kunnen voorschriften worden verbonden. Daartoe kan in ieder geval behoren een voorschrift dat de houder van de vergunning het bedrag van de gestelde zekerheid aanpast, indien dat naar het oordeel van Onze genoemde Ministers nodig is met het oog op wijziging van bij het voorschrift aangegeven omstandigheden.
 7. Onze genoemde Ministers beslissen binnen zes maanden na de ontvangst van een aanvraag om goedkeuring op die aanvraag.
 8. Bij of krachtens algemene maatregel van bestuur kunnen andere inrichtingen als bedoeld in artikel 15, onder b, worden aangewezen, waarop het eerste tot en met zevende lid van overeenkomstige toepassing zijn.
+9. Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op de aanvraag om goedkeuring.
