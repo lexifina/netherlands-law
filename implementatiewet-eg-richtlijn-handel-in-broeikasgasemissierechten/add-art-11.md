@@ -1,0 +1,5 @@
+# Artikel XI
+1. Indien artikel I, onderdeel E, eerder in werking treedt dan de Wet uniforme openbare voorbereidingsprocedure Awb, geldt tot het tijdstip waarop die wet in werking treedt, het volgende:
+a. Afdeling 7.1 van de Algemene wet bestuursrecht is niet van toepassing op besluiten die op grond van hoofdstuk 16 van de Wet milieubeheer zijn genomen en die zijn voorbereid met toepassing van afdeling 3.4 van de Algemene wet bestuursrecht.
+b. Beroep als bedoeld in artikel 20.1 van de Wet milieubeheer tegen besluiten als bedoeld in onderdeel a kan worden ingesteld door een belanghebbende. Geen beroep als bedoeld in de eerste volzin kan worden ingesteld door een belanghebbende aan wie redelijkerwijs kan worden verweten dat hij geen zienswijzen als bedoeld in artikel 3:13 van de Algemene wet bestuursrecht naar voren heeft gebracht.
+2. Indien artikel V, onderdeel 1, eerder in werking treedt dan de Wet uniforme openbare voorbereidingsprocedure Awb, wordt tot het tijdstip waarop die wet in werking treedt in artikel V, onderdeel 1, in plaats van «artikel 3:16, eerste lid» gelezen: de artikelen 3:11, eerste lid, en 3:13, derde lid.

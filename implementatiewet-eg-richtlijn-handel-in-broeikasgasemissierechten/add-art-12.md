@@ -1,0 +1,3 @@
+# Artikel XII
+1. Indien een aanvraag om een vergunning als bedoeld in artikel 16.5, eerste lid, van de Wet milieubeheer wordt ingediend vóór de inwerkingtreding van deze wet, wordt die aanvraag aangemerkt als een aanvraag om een vergunning als bedoeld in artikel 16.5, eerste lid, van de Wet milieubeheer, zoals dat artikel komt te luiden na de inwerkingtreding van deze wet.
+2. Indien de voorbereiding als bedoeld in artikel 16.7 van de Wet milieubeheer heeft plaatsgevonden vóór de inwerkingtreding van deze wet, wordt die voorbereiding aangemerkt als een voorbereiding als bedoeld in artikel 16.7 van de Wet milieubeheer, zoals dat artikel komt te luiden na de inwerkingtreding van deze wet.
