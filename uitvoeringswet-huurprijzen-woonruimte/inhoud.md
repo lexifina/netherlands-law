@@ -16,6 +16,7 @@
 ### § 7. De huurprijs en het voorschotbedrag aan servicekosten indien tussen partijen slechts een prijs en niet een huurprijs is overeengekomen
 ### § 8. De betalingsverplichting met betrekking tot de servicekosten
 ### § 9. Het voorschotbedrag van de servicekosten
+### § 10. Geschillen die voortvloeien uit de Wet op het overleg huurders verhuurder
 ## Hoofdstuk IV. Voorzittersuitspraken
 ## Hoofdstuk V. Werkwijze van de huurcommissie
 ### § 1. Algemene bepalingen
