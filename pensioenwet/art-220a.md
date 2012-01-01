@@ -1,0 +1,2 @@
+# Artikel 220a. Overgangsrecht
+Indien een pensioenfonds voor de datum van inwerkingtreding van artikel I, onderdeel E, van de Verzamelwet pensioenen 2012 is overgegaan tot verzekering bij een verzekeraar op basis van een kapitaalcontract als bedoeld in artikel 148a geldt het verbod tot verzekering op basis van een kapitaalcontract, bedoeld in artikel 148a, na afloop van het contract of een verlenging daarvan doch uiterlijk vijf jaar na het tijdstip van inwerkingtreding van artikel I, onderdeel E, van de Verzamelwet pensioenen 2012.
