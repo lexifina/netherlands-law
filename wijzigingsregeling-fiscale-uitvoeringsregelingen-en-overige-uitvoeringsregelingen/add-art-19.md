@@ -1,0 +1,2 @@
+# Artikel XIX
+Artikel III van de regeling van de Staatssecretaris van Financiën van 26 april 2011, nr. DB 2011/164M, tot wijziging van de Uitvoeringsregeling Belastingdienst 2003, de Algemene douaneregeling en de Uitvoeringsregeling Douane- en Accijnswet BES in verband met enkele aanpassingen van de organisatie en het besturingsmodel van de Belastingdienst (Stcrt. 2011, 7685) vindt mede toepassing voor de periode van 1 januari 2011 tot en met 2 maart 2011. Voorts vervalt artikel IV van de in de vorige volzin bedoelde regeling.
