@@ -1,0 +1,3 @@
+# Artikel III
+1. Artikel I, onderdeel A, treedt in werking met ingang van 1 januari 2012. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 31 december 2011, treedt artikel I, onderdeel A, in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst en werkt het terug tot en met 1 januari 2012.
+2. Artikel I, onderdeel B, en artikel II treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst. Artikel I, onderdeel B, werkt terug tot en met 19 september 2011.
