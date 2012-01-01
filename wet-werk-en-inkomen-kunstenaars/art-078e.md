@@ -1,2 +1,0 @@
-# Artikel 78e. Overgangsbepaling financiering uitkerings- en uitvoeringskosten
-Artikel 50 blijft van toepassing op de vaststelling van de vergoeding, bedoeld in dat artikel, zoals dat artikel luidde voor inwerkingtreding van de Wet van 17 december 2009 tot bundeling van uitkeringen inkomensvoorziening aan gemeenten (Stb. 592), voor kosten die betrekking hebben op kalenderjaren gelegen voor die van inwerkingtreding van die wet.

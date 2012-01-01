@@ -1,3 +1,0 @@
-# Artikel 78a. Woonwagen of woonschip
-1. Artikel 13, eerste lid, is tot een bij koninklijk besluit te bepalen tijdstip niet van toepassing op de kunstenaar die op de dag voorafgaand aan de inwerkingtreding van deze wet recht had op uitkering en eigenaar was van een door hemzelf of zijn gezin bewoonde woonwagen of bewoond woonschip met bijbehorend erf.
-2. In afwijking van artikel 77 wordt het in de woonwagen of het woonschip met bijbehorend erf gebonden vermogen van de kunstenaar, bedoeld in het eerste lid, met ingang van het tijdstip, bedoeld in het eerste lid, vastgesteld op de waarde ervan op dat tijdstip.

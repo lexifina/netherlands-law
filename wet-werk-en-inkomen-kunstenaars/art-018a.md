@@ -1,4 +1,0 @@
-# Artikel 18a. Aanpassing middelen
-1. Met ingang van de dag waarop de som wijzigt van de budgetten voor levensonderhoud, genoemd in artikel 3.2, eerste lid, onderdeel a, van de Wet studiefinanciering 2000 en het bedrag dat op grond van artikel 3.29, eerste lid, van die wet wordt verstrekt aan een studerende die ten onrechte over een kalendermaand geen reisvoorziening ontvangt, worden de in artikel 6, tweede lid, genoemde bedragen zodanig herzien dat deze gelijk zijn aan deze som.
-2. Met ingang van 1 januari van elk kalenderjaar worden de in artikel 7, tweede lid, onderdeel e, en derde lid, genoemde bedragen herzien met de procentuele stijging van de consumentenprijsindex.
-3. Van de herziene bedragen en van de dag waarop de herziening plaatsvindt wordt door Onze Minister mededeling gedaan in de Staatscourant.
