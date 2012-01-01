@@ -1,0 +1,2 @@
+# Artikel 4a. Volgorde vermindering van voordelen uit laagbelaste beleggingsdeelnemingen en deelnemingsverrekening
+Voor de berekening van het in aanmerking te nemen bedrag van deelnemingsverrekening of verrekening bij buitenlandse ondernemingswinsten, bedoeld in artikel 48b, onderscheidenlijk artikel 48d, van het Besluit fiscale eenheid 2003, is artikel 3, tweede tot en met zevende lid, van overeenkomstige toepassing.
