@@ -1,0 +1,2 @@
+# Artikel 640a
+De aanspraak op het minimum, bedoeld in artikel 634, vervalt zes maanden na de laatste dag van het kalenderjaar waarin de aanspraak is verworven, tenzij de werknemer tot aan dat tijdstip redelijkerwijs niet in staat is geweest vakantie op te nemen. Bij schriftelijke overeenkomst kan ten gunste van de werknemer worden afgeweken van de termijn van zes maanden, bedoeld in de eerste zin.
