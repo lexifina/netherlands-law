@@ -1,4 +1,0 @@
-# Artikel 7a. Evenwichtige verdeling subsidie
-1. Indien 25% van het voor het tweede aanvraagtijdvak, bedoeld in artikel 4, eerste lid, onderdeel b, vastgestelde subsidieplafond is aangevraagd ten behoeve van eenzelfde thema, laat de Minister daarna binnengekomen aanvragen ten behoeve van eenzelfde thema tot uiterlijk twaalf weken na het sluiten van het aanvraagtijdvak buiten behandeling.
-2. Het besluit om een aanvraag tijdelijk buiten behandeling te laten wordt aan de aanvrager bekendgemaakt uiterlijk vier weken na sluiting van het aanvraagtijdvak.
-3. Uiterlijk vier weken na afloop van de periode waarin een aanvraag buiten behandeling is gelaten, wordt op die aanvraag beslist. Daarbij worden de aanvragen die buiten behandeling zijn gelaten behandeld in volgorde van binnenkomst, onmiddellijk volgend op de laatste volledige aanvraag in de volgorde van binnenkomst van de aanvragen die niet buiten behandeling zijn gelaten.
