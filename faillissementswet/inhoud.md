@@ -18,8 +18,8 @@
 ### afdeling Tiende. Bepalingen van internationaal recht
 ### afdeling Elfde. Van rehabilitatie
 ### Afdeling 11A. Van het definitieve karakter van de afwikkeling van betalingen en effectentransacties in betalings- en afwikkelingssystemen
-### Afdeling 11AA. Van het faillissement van een kredietinstelling
-#### § 1. In Nederland gevestigde kredietinstellingen en buiten de Europese Economische Ruimte gevestigde kredietinstellingen met bijkantoor in Nederland
+### Afdeling 11AA. Van het faillissement van een bank
+#### § 1. In Nederland gevestigde bank en buiten de Europese Economische Ruimte gevestigde bank met bijkantoor in Nederland
 #### § 2. Bepalingen van internationaal privaatrecht
 ### Afdeling 11B. Van het faillissement van een verzekeraar
 #### § 1. Definities

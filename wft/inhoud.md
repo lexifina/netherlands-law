@@ -4,7 +4,7 @@
 #### Afdeling 1.1.1. Definities
 #### Afdeling 1.1.2. Reikwijdte met betrekking tot financiële ondernemingen
 ##### § 1.1.2.1. Algemeen
-##### § 1.1.2.2. Betaaldienstverleners, clearinginstellingen en kredietinstellingen
+##### § 1.1.2.2. Betaaldienstverleners, clearinginstellingen, elektronischgeldinstellingen en banken
 ##### § 1.1.2.2a. Betaaldiensten
 ##### § 1.1.2.3. Verzekeraars
 ##### § 1.1.2.4. Beleggingsinstellingen
@@ -60,10 +60,10 @@
 ##### § 2.2.1a.2. Vrijstelling
 ##### § 2.2.1a.3. Bijkantoren en agenten van en verrichten van diensten door elektronischgeldinstellingen met zetel in een andere lidstaat
 ##### § 2.2.1a.4. Elektronischgeldinstellingen met zetel in een staat die geen lidstaat is
-#### Afdeling 2.2.2. Uitoefenen van bedrijf van kredietinstelling en financiële instelling
-##### § 2.2.2.1. Vergunningplicht en -eisen voor kredietinstellingen met zetel in Nederland
-##### § 2.2.2.2. Bijkantoor en verrichten van diensten door kredietinstellingen met zetel in een andere lidstaat
-##### § 2.2.2.3. Vergunningplicht en -eisen voor kredietinstellingen met zetel in een staat die geen lidstaat is
+#### Afdeling 2.2.2. Uitoefenen van bedrijf van bank en financiële instelling
+##### § 2.2.2.1. Vergunningplicht en -eisen voor banken met zetel in Nederland
+##### § 2.2.2.2. Bijkantoor en verrichten van diensten door banken met zetel in een andere lidstaat
+##### § 2.2.2.3. Vergunningplicht en -eisen voor banken met zetel in een staat die geen lidstaat is
 ##### § 2.2.2.4. Bijkantoor en verrichten van diensten door financiële instellingen met zetel in een andere lidstaat
 #### Afdeling 2.2.2a. Uitoefenen van bedrijf van herverzekeraar
 ##### § 2.2.2a.1. Vergunningplicht en -eisen voor herverzekeraars met zetel in Nederland
@@ -105,6 +105,7 @@
 ##### § 2.2.10.3. Vrijstelling
 #### Afdeling 2.2.11. Optreden als gevolmachtigde agent of ondergevolmachtigde agent
 ##### § 2.2.11.1. Vergunningplicht en -eisen
+##### § 2.2.11.1a. Bijkantoor en verrichten van diensten
 ##### § 2.2.11.2. Vrijstelling
 #### Afdeling 2.2.12. Verlenen van beleggingsdiensten, verrichten van beleggingsactiviteiten en systematische internalisatie
 ##### § 2.2.12.1. Vergunningplicht en -eisen
@@ -118,9 +119,9 @@
 ##### § 2.3.1.1. Bijkantoor buiten Nederland
 #### Afdeling 2.3.1a. Uitoefenen van het bedrijf van elektronischgeldinstelling met zetel in Nederland
 ##### § 2.3.1a.1. Verrichten van diensten door een elektronischgeldinstelling met zetel in Nederland naar een andere lidstaat
-#### Afdeling 2.3.2. Uitoefenen van bedrijf van kredietinstelling en financiële instelling
-##### § 2.3.2.1. Bijkantoor en verrichten van diensten door een kredietinstelling naar een andere lidstaat
-##### § 2.3.2.2. Bijkantoor en verrichten van diensten door een kredietinstelling naar een staat die geen lidstaat is
+#### Afdeling 2.3.2. Uitoefenen van bedrijf van bank en financiële instelling
+##### § 2.3.2.1. Bijkantoor en verrichten van diensten door een bank naar een andere lidstaat
+##### § 2.3.2.2. Bijkantoor en verrichten van diensten door een bank naar een staat die geen lidstaat is
 ##### § 2.3.2.3. Bijkantoor en verrichten van diensten door een financiële instelling naar een andere lidstaat
 #### Afdeling 2.3.3. Uitoefenen van bedrijf van levensverzekeraar en schadeverzekeraar
 ##### § 2.3.3.1. Bijkantoor en verrichten van diensten naar een andere lidstaat
@@ -193,7 +194,7 @@
 ##### § 3.4.1.1. Financiële instellingen met zetel in Nederland
 #### Afdeling 3.4.2. Regime voor banken aangesloten bij een centrale kredietinstelling
 ### Hoofdstuk 3.5. Bijzondere regels en maatregelen ten aanzien van financiële ondernemingen werkzaam op de financiële markten
-#### Afdeling 3.5.1. Bijzondere maatregelen ten aanzien van banken, beleggingsondernemingen en betaalinstellingen
+#### Afdeling 3.5.1. Bijzondere maatregelen ten aanzien van banken, beleggingsondernemingen, betaalinstellingen en elektronischgeldinstellingen
 #### Afdeling 3.5.1a. Portefeuilleoverdracht
 ##### § 3.5.1a.1. Verzekeraars met zetel in Nederland
 ##### § 3.5.1a.2. Levensverzekeraars en schadeverzekeraars met zetel in een andere lidstaat
@@ -225,8 +226,8 @@
 #### Afdeling 3.5.7. Beleggingsbeginselen en beleggingsbeleid van premiepensioeninstellingen
 ### Hoofdstuk 3.6. Aanvullende bepalingen ten aanzien van financiele groepen
 #### Afdeling 3.6.1. Definities en algemeen
-#### Afdeling 3.6.1a. Betaalinstellingen in een groep
-#### Afdeling 3.6.2. Geconsolideerd toezicht op beleggingsondernemingen, betaalinstellingen en kredietinstellingen
+#### Afdeling 3.6.1a. Betaalinstellingen en elektronischgeldinstellingen in een groep
+#### Afdeling 3.6.2. Geconsolideerd toezicht op banken, beleggingsondernemingen, betaalinstellingen en elektronischgeldinstellingen
 #### Afdeling 3.6.3. Aanvullend toezicht op herverzekeraars, levensverzekeraars en schadeverzekeraars in een verzekeringsgroep
 #### Afdeling 3.6.4. Prudentieel toezicht op financiële conglomeraten
 ##### § 3.6.4.1. Inleidende bepalingen
