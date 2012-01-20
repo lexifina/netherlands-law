@@ -1,0 +1,4 @@
+# Artikel 212hg
+1. De rechtbank spreekt het faillissement uit indien summierlijk blijkt dat zich een situatie, als bedoeld in artikel 212ha, eerste lid, voordoet.
+2. Ingeval De Nederlandsche Bank N.V. een overdrachtsplan als bedoeld in artikel 212hc heeft overgelegd, keurt de rechtbank het overdrachtsplan goed, tenzij de in het overdrachtsplan genoemde prijs of wijze waarop de prijs die de overnemer bereid is te betalen wordt vastgesteld, gegeven de omstandigheden van het geval, niet een redelijke prijs of wijze is. Bij het vaststellen of de prijs of wijze redelijk is wordt uitgegaan van het te verwachten toekomstperspectief van de bank in de situatie dat het overdrachtsplan niet wordt goedgekeurd.
+3. Onverminderd het tweede lid, keurt de rechtbank het plan met betrekking tot de overdracht van activa of passiva goed, tenzij de schuldeisers die een vordering houden op de bank daardoor zouden worden benadeeld.

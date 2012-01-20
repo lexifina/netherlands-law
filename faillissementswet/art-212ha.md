@@ -1,0 +1,4 @@
+# Artikel 212ha
+1. Ingeval De Nederlandsche Bank N.V. oordeelt dat er ten aanzien van een bank die een vergunning als bedoeld in artikel 2:11 van de Wet op het financieel toezicht heeft tekenen van een gevaarlijke ontwikkeling zijn met betrekking tot het eigen vermogen, de solvabiliteit of de liquiditeit en redelijkerwijs is te voorzien dat die ontwikkeling niet voldoende of niet tijdig ten goede zal keren, kan zij de rechtbank Amsterdam verzoeken ten aanzien van die bank het faillissement uit te spreken.
+2. Een ander dan De Nederlandsche Bank N.V. of een in een noodregeling benoemde bewindvoerder kan niet het faillissement van een bank die een door De Nederlandsche Bank N.V. verleende vergunning heeft aanvragen.
+3. Een bank die een door De Nederlandsche Bank N.V. verleende vergunning heeft kan aangifte doen van haar eigen faillissement. In dat geval stelt de rechtbank De Nederlandsche Bank N.V. in staat te worden gehoord alvorens te beslissen op de aangifte.

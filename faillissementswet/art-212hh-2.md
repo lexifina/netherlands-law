@@ -1,0 +1,2 @@
+# Artikel 212hh
+In afwijking van artikel 212t worden de gevolgen van een liquidatieprocedure voor het uitoefenen van het rechten op financiële instrumenten waarvan het bestaan of de overdracht inschrijving in een register, op een rekening of in een in een lidstaat bijgehouden of gesitueerd gecentraliseerd effectendepot veronderstelt, uitsluitend beheerst door het recht van de lidstaat waar het register, de rekening of het gecentraliseerde effectendepot waar deze rechten zijn ingeschreven, wordt bijgehouden of is gesitueerd.
