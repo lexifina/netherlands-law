@@ -212,6 +212,9 @@
 #### Afdeling 3.5.4. Opvangregeling voor levensverzekeraars
 ##### § 3.5.4.1. Levensverzekeraars met zetel in Nederland
 ##### § 3.5.4.2. Levensverzekeraars met zetel in een staat die geen lidstaat is
+#### Afdeling 3.5.4a. Overdracht
+##### § 3.5.4a.1. Banken en verzekeraars met zetel in Nederland
+##### § 3.5.4a.2. Banken en verzekeraars met zetel in een staat die geen lidstaat is
 #### Afdeling 3.5.5. Noodregeling en saneringsmaatregelen en liquidatieprocedures naar buitenlands recht
 ##### § 3.5.5.1. Financiële ondernemingen met zetel in Nederland
 ##### § 3.5.5.2. Financiële ondernemingen met zetel in een andere lidstaat
@@ -224,6 +227,7 @@
 ##### § 3.5.6.2. Financiële ondernemingen met zetel in een andere lidstaat
 ##### § 3.5.6.3. Financiële ondernemingen met zetel in een staat die geen lidstaat is
 #### Afdeling 3.5.7. Beleggingsbeginselen en beleggingsbeleid van premiepensioeninstellingen
+#### Afdeling 3.5.8. Rechten wederpartij na een gebeurtenis
 ### Hoofdstuk 3.6. Aanvullende bepalingen ten aanzien van financiele groepen
 #### Afdeling 3.6.1. Definities en algemeen
 #### Afdeling 3.6.1a. Betaalinstellingen en elektronischgeldinstellingen in een groep
@@ -322,6 +326,9 @@
 ### Hoofdstuk 5.7. Regels voor de toegang tot betalingssystemen
 ### Hoofdstuk 5.8. Toezicht op ratingbureaus
 ## 6. Deel Toezicht infrastructuur financiële markten
+### Hoofdstuk 6.1. Algemeen
+### Hoofdstuk 6.2. Rechtsbescherming
+### Hoofdstuk 6.3. Schadeloosstelling bij onteigening
 ## 7. Deel Slotbepalingen
 ## Overtreding van voorschriften, gesteld bij of krachtens artikel:
 ### Algemeen deel
