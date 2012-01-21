@@ -1,0 +1,4 @@
+# Artikel XI. Criteria specifieke uitkering onderwijsachterstanden tot 2011
+1. Bij of krachtens algemene maatregel van bestuur worden de criteria vastgesteld op grond waarvan een gemeente tot het jaar 2011 in aanmerking komt voor een specifieke uitkering ter tegemoetkoming in de kosten voor het bestrijden van onderwijsachterstanden, alsmede de criteria voor de hoogte daarvan.
+2. Bij of krachtens algemene maatregel van bestuur kunnen tot 2011 nadere voorwaarden worden gesteld met betrekking tot de wijze waarop invulling wordt gegeven aan het onderwijsachterstandenbeleid en de activiteiten voor leerlingen met een grote achterstand in de Nederlandse taal.
+3. De artikelen 168, vierde lid, 169 en 170 van de Wet op het primair onderwijs, zoals die artikelen luidden op de dag voor de inwerkingtreding van artikel III, onderdelen K tot en met M, zijn van toepassing op het eerste en tweede lid.
