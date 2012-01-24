@@ -1,0 +1,2 @@
+# Artikel III
+Voorverpakte levensmiddelen die uiterlijk zes maanden na de datum van uitgifte van de Staatscourant, bedoeld in artikel 11a, vierde lid, van het Warenwetbesluit Voedingswaarde-informatie levensmiddelen, waarin een besluit tot goedkeuring van een voedselkeuzelogo is gepubliceerd, zijn voorzien van een voedselkeuzelogo dat niet is goedgekeurd door Onze Minister, mogen worden verhandeld zolang de voorraad strekt.
