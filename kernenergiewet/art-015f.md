@@ -1,5 +1,5 @@
 # Artikel 15f
-1. De houder van een vergunning als bedoeld in artikel 15, onder b, voor het in werking brengen, in werking houden, buiten gebruik stellen of ontmantelen van een inrichting waarin kernenergie kan, onderscheidenlijk kon worden vrijgemaakt, stelt op een door Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Financiën goedgekeurde wijze financiële zekerheid ter dekking van de kosten die voortvloeien uit het buiten gebruik stellen en de ontmanteling van de inrichting.
+1. De houder van een vergunning als bedoeld in artikel 15, onder b, voor het in werking brengen, in werking houden, buiten gebruik stellen of ontmantelen van een inrichting waarin kernenergie kan, onderscheidenlijk kon worden vrijgemaakt, stelt op een door Onze Ministers van Economische Zaken, Landbouw en Innovatie en van Financiën goedgekeurde wijze financiële zekerheid ter dekking van de kosten die voortvloeien uit het buiten gebruik stellen en de ontmanteling van de inrichting.
 2. De financiële zekerheid wordt in stand gehouden tot het tijdstip waarop Onze genoemde Ministers schriftelijk hebben verklaard dat de ontmanteling is voltooid.
 3. De financiële zekerheid wordt gesteld in een of meer van de volgende vormen:
 a. een borgtocht of een bankgarantie;
