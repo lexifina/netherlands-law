@@ -1,5 +1,5 @@
 # Artikel 141a
-1. De procedure, bedoeld in artikel 3.35, eerste lid, aanhef en onderdeel c, van de Wet ruimtelijke ordening, is van toepassing op:
+1. De procedure, bedoeld in artikel 3.35, eerste lid, aanhef en onderdeel c, van de Wet ruimtelijke ordening, is van toepassing op de aanleg of de uitbreiding van:
 a. een mijnbouwwerk ten behoeve van de opsporing of winning van koolwaterstoffen in of onder een gebied dat is aangewezen op grond van de artikelen 10 of 10a van de Natuurbeschermingswet 1998;
 b. een mijnbouwwerk ten behoeve van de opslag van stoffen;
 c. pijpleidingen die uitsluitend of in hoofdzaak zijn bestemd voor het vervoer van delfstoffen respectievelijk het vervoer van stoffen in verband met het opsporen of winnen van delfstoffen respectievelijk het opslaan van stoffen met behulp van een mijnbouwwerk als bedoeld in onderdeel a respectievelijk onderdeel b.

@@ -1,5 +1,5 @@
 # Artikel 31g
-1. De houder van een vergunning voor permanent opslaan voor CO2 of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22 verstrekt ten minste elk jaar aan Onze Minister de volgende gegevens:
+1. De houder van een vergunning voor permanent opslaan van CO2 of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22 verstrekt ten minste elk jaar aan Onze Minister de volgende gegevens:
 a. de resultaten van de monitoring van de opgeslagen CO2 met vermelding van de gebruikte technologie,
 b. de hoeveelheden en kenmerken van de geleverde en opgeslagen CO2-stromen met vermelding van de samenstelling van deze stromen,
 c. het bewijs dat financiële zekerheid of een gelijkwaardige voorziening is gesteld en aangehouden, en
