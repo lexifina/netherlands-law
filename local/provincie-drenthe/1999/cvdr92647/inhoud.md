@@ -71,11 +71,11 @@ Bekendmaking geschiedt door plaatsing van de integrale tekst van het besluit in 
 Op grond van artikel 139 van de Provinciewet treedt het bekendgemaakte besluit in werking met ingang van de achtste dag na de dag van de bekendmaking, tenzij in de verordening een ander tijdstip is aangegeven. De dag van bekendmaking is de dag waarop de uitgave feitelijk beschikbaar is. De datum van inwerkingtreding van een Belastingverordening mag niet liggen vóór de vaststelling en bekendmaking daarvan.
 De datum van inwerkingtreding moet worden onderscheiden van de datum van ingang van de heffing. Het feit dat de Belastingverordening pas in werking treedt na bekendmaking, betekent dat de provincie voor dat tijdstip geen aanslagen kan opleggen. De aanslagen kunnen echter wel betrekking hebben op de periode vanaf de datum van ingang van de heffing. De datum van ingang van de heffing kan evenwel niet liggen voor de datum van vaststelling van de verordening. Dit houdt verband met het beginsel dat belastingmaatregelen voor de toekomst dienen te gelden.
 In het derde lid is een aanduiding, ofwel citeertitel, van de verordening opgenomen.
-Tabel
-Kolom 1 Locatie | Kolom 2 Jaar van einde exploitatie stortplaats | Kolom 3 Jaar aanvang nazorg | Kolom 4 Doelvermogen in € | Kolom 5 Tarief jaarlijkse aanslag in €
-Stortplaats Noord-Drenthe BV te Ubbena | 2011 | 2012 | 2.309.316,-- | 201.577,--
-Attero Noord BV te Wijster | 2070 | 2075 | 89.408.430,-- | 0,--
 ## TARIEVENTABEL
+BIJLAGE BIJ DE VERORDENING NAZORGHEFFING STORTPLAATSEN PROVINCIE DRENTHE: TARIEVENTABEL
+Kolom 1 Locatie | Kolom 2 Jaar van einde van exploitatie stortplaats | Kolom 3 Jaar aanvang nazorg | Kolom 4 Doelvermogen in euro | Kolom 5 Tarief jaarlijkse aanslag in euro
+Stortplaats Noord- Drenthe BV te Ubbena | 2011 | 2012 | 1.855.710,-- | 0,--
+Attero Noord BV te Wijster | 2070 | 2075 | 89.408.430,-- | 0,--
 BEHORENDE BIJ DE VERORDENING NAZORGHEFFING STORTPLAATSEN PROVINCIE DRENTHE
 ## Toelichting bij de Tarieventabel
 Kolom 1 - In de eerste kolom wordt aangegeven de stortplaatslocatie waarvoor de heffing wordt opgelegd.
