@@ -6,6 +6,7 @@
 ## § 5. Vervoer van wapens en munitie van de categorieën II en III
 ## § 6. Voorhanden hebben en dragen van wapens en munitie van de categorieën II, III en IV
 ## § 7. Overdracht en verkrijging van wapens en munitie van de categorieën II, III en IV
+## § 7a. Markering van vuurwapens en munitie
 ## § 8. Veiligheidseisen
 ## § 9. Beroep
 ## § 10. Bepalingen over de uitvoering van de wet
