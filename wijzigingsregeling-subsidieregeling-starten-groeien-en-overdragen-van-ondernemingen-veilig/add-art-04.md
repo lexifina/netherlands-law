@@ -1,0 +1,4 @@
+# Artikel IV
+1. Op voor 1 maart 2012 verstrekte subsidies en op voor 1 maart 2012 ingediende aanvragen om subsidie waarop op de datum van inwerkingtreding van deze regeling nog niet is beslist blijft de Subsidieregeling starten, groeien en overdragen van ondernemingen van toepassing zoals zij voor de datum van inwerkingtreding van deze regeling luidde.
+2. Op aanvragen om subsidie als bedoeld in artikel 9.3 voor veiligheidsscans die zijn uitgevoerd voor 1 maart 2012 is de definitie van 'veiligheidsscan' in artikel 9.1 van toepassing zoals deze luidde voor de datum van inwerkingtreding van deze regeling.
+3. Op aanvragen om subsidie als bedoeld in artikel 9.7 voor het treffen van veiligheidsmaatregelen die zijn opgenomen in een veiligheidsscan die is uitgevoerd voor 1 maart 2012 is artikel 9.11, tweede lid, onder e, niet van toepassing.
