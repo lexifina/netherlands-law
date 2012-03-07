@@ -1,0 +1,6 @@
+# Artikel II
+1. Degene die op het tijdstip waarop dit besluit in werking treedt een inrichting drijft als bedoeld in artikel 4 van het Besluit risico's zware ongevallen 1999 waarop dat artikel op de dag voorafgaande aan de inwerkingtreding van dit besluit niet van toepassing was, stelt zo spoedig mogelijk, doch in elk geval binnen drie maanden na de inwerkingtreding van dit besluit, het document, bedoeld in artikel 5, tweede lid, van het Besluit risico's zware ongevallen 1999 op.
+2. Degene die op het tijdstip waarop dit besluit in werking treedt een inrichting drijft als bedoeld in artikel 8 van het Besluit risico's zware ongevallen 1999 waarop dat artikel op de dag voorafgaande aan de inwerkingtreding van dit besluit niet van toepassing was, zorgt er voor dat de hieronder genoemde documenten zo spoedig mogelijk, doch uiterlijk binnen de daarbij genoemde termijnen worden opgesteld:
+a. de stoffenlijst, bedoeld in artikel 21 van het Besluit risico's zware ongevallen 1999, binnen drie maanden na de inwerkingtreding van dit besluit;
+b. het interne noodplan, bedoeld in artikel 22 van het Besluit risico's zware ongevallen 1999, binnen zes maanden na de inwerkingtreding van dit besluit, en
+c. het veiligheidsrapport, bedoeld in artikel 9 van het Besluit risico's zware ongevallen 1999, binnen één jaar na de inwerkingtreding van dit besluit.
