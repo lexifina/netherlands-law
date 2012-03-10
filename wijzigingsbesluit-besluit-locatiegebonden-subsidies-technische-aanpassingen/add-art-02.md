@@ -1,2 +1,0 @@
-# ARTIKEL II
-Voor uitvoerings- en ontwikkelingscontracten in de zin van het Besluit locatiegebonden subsidies waarvan de contractperiode uiterlijk 31 december 1995 is aangevangen, geldt, voorzover nodig in afwijking van artikel 18, eerste lid, van genoemd besluit, dat op 31 december 1995 voor de eerste maal verhoging of verlaging van de nog uit te betalen jaarbedragen plaatsvindt met toepassing van het in dat artikel genoemde prijsindexcijfer.
