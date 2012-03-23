@@ -45,7 +45,7 @@
 ## Hoofdstuk 8. Inrichtingen
 ### Paragraaf 8.1
 ### Paragraaf 8.2
-### Titel 8.4. Regels met betrekking tot plaatsing van stortplaatsen op een lijst
+### Paragraaf 8.3
 ## Hoofdstuk 9. Stoffen en produkten
 ### Titel 9.1. Algemeen
 ### Titel 9.2. Stoffen, preparaten en genetisch gemodificeerde organismen
