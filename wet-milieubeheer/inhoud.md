@@ -37,8 +37,8 @@
 ### § 7.5. Het plan
 ### § 7.6. Besluiten ten aanzien waarvan moet worden beoordeeld of een milieueffectrapport moet worden gemaakt
 ### § 7.7. Het milieueffectrapport dat betrekking heeft op een besluit
-### § 7.8. De voorbereiding van het milieueffectrapport dat betrekking heeft op een besluit waarop afdeling 3.4 van de Algemene wet bestuursrecht en afdeling 13.2 van toepassing zijn, met uitzondering van een besluit met betrekking tot een activiteit waarvoor tevens een besluit is vereist waarvoor op grond van artikel 19f, eerste lid, van de Natuurbeschermingswet 1998 een passende beoordeling moet worden gemaakt
-### § 7.9. De voorbereiding van het milieueffectrapport dat betrekking heeft op een besluit waarop afdeling 3.4 van de Algemene wet bestuursrecht of afdeling 13.2 niet van toepassing zijn alsmede een besluit waarop afdeling 3.4 van de Algemene wet bestuursrecht en afdeling 13.2 van toepassing zijn met betrekking tot een activiteit waarvoor tevens een besluit is vereist waarvoor op grond van artikel 19f, eerste lid, van de Natuurbeschermingswet 1998 een passende beoordeling moet worden gemaakt
+### § 7.8. De beperkte voorbereiding inzake het milieueffectrapport dat betrekking heeft op een besluit
+### § 7.9. De uitgebreide voorbereiding inzake het milieueffectrapport dat betrekking heeft op een besluit
 ### § 7.10. Het besluit
 ### § 7.11. Activiteiten met mogelijke grensoverschrijdende milieugevolgen
 ### § 7.12. Evaluatie
