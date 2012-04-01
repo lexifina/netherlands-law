@@ -10,7 +10,7 @@
 ### § 1. Algemeen
 ### § 2. De bedrijfsvergunning voor spoorwegondernemingen
 ### § 3. Het veiligheidsattest
-### § 4. Gebruik, compatibiliteit en interoperabiliteit van spoorvoertuigen
+### § 4. Gebruik, compatibiliteit en interoperabiliteit van spoorvoertuigen en interoperabiliteitsonderdelen
 ### § 5. Personeel
 ### § 6. De verzekeringsplicht
 ## Hoofdstuk 4. Het gebruik van hoofdspoorwegen

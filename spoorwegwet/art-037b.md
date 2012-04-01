@@ -1,0 +1,14 @@
+# Artikel 37b
+1. Het is een spoorwegonderneming verboden om met een verbeterd of vernieuwd spoorvoertuig dat volledig in het register, bedoeld in artikel 37, tweede lid, is ingeschreven, van hoofdspoorweginfrastructuur gebruik te maken zonder:
+a. voorafgaande indiening van een informatiedossier als bedoeld in het tweede lid, en
+b. een vergunning dan wel nieuwe vergunning voor indienststelling, indien Onze Minister die krachtens het derde lid, heeft geëist.
+2. Degene die de verbetering of vernieuwing bij een spoorvoertuig aanbesteedt dient bij Onze Minister een informatiedossier in, waarin het project beschreven wordt.
+3. Onze Minister eist op basis van het informatiedossier, bedoeld in het tweede lid, een vergunning voor indienststelling respectievelijk een nieuwe vergunning voor indienststelling indien de omvang van de voorgenomen verbetering of vernieuwing, de mogelijke gevolgen voor de veiligheid van een betrokken subsysteem of de gevolgen voor de verenigbaarheid van het spoorvoertuig met de hoofdspoorweginfrastructuur dat noodzakelijk maakt of maken.
+4. Artikel 36, derde, vierde en tiende lid, en het krachtens tiende lid van dat artikel bepaalde zijn van toepassing, met dien verstande dat die leden van dat artikel toepassing vinden op de verbetering of vernieuwing.
+5. Onze Minister kan op aanvraag, op andere gronden dan genoemd in artikel 9, eerste lid, van richtlijn 2008/57/EG en met inachtneming van artikel 20 van die richtlijn, een of meer voor het betrokken subsysteem vastgestelde technische specificaties inzake interoperabiliteit buiten toepassing laten.
+6. Onze Minister eist op basis van het informatiedossier, bedoeld in het tweede lid, indien het spoorvoertuig niet volledig in het register, bedoeld in artikel 37, tweede lid, is ingeschreven, een aanvullende vergunning voor indienststelling respectievelijk nieuwe aanvullende vergunning voor indienststelling, indien de gevolgen van de de verbetering of vernieuwing voor de verenigbaarheid van het spoorvoertuig met de hoofdspoorweginfrastructuur dat noodzakelijk maken.
+7. Artikel 36, vijfde lid, is van toepassing, met dien verstande dat het slechts toepassing vindt op de verbetering of vernieuwing.
+8. Het is verboden van hoofdspoorweginfrastructuur gebruik te maken met een verbeterd of vernieuwd spoorvoertuig dat niet volledig in het register, bedoeld in artikel 37, tweede lid, is ingeschreven, zonder:
+a. zonder voorafgaande indiening van een informatiedossier als bedoeld in het tweede lid, en
+b. een aanvullende vergunning voor indienststelling of nieuwe aanvullende vergunning voor indienststelling, indien Onze Minister die krachtens het zesde lid heeft geëist.
+9. Het voldoen van de verbetering of vernieuwing bij een spoorvoertuig aan artikel 36, derde lid, onderdelen a tot en met c en e, blijkt uit een geldige verklaring van een aangemelde instantie of van een keuringsinstantie.
