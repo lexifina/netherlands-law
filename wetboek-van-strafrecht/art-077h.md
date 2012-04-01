@@ -14,4 +14,5 @@ a. plaatsing in een inrichting voor jeugdigen;
 b. maatregel betreffende het gedrag van de jeugdige;
 c. onttrekking aan het verkeer;
 d. ontneming van wederrechtelijk verkregen voordeel;
-e. schadevergoeding.
+e. schadevergoeding;
+f. vrijheidsbeperkende maatregel.

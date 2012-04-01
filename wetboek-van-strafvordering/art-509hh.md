@@ -1,7 +1,7 @@
 # Artikel 509hh
 1. De officier van justitie is bevoegd de verdachte tegen wie ernstige bezwaren bestaan een gedragsaanwijzing te geven in geval van verdenking van een strafbaar feit:
 a. waardoor de openbare orde, gelet op de aard van het strafbare feit of de samenhang met andere strafbare feiten, dan wel de wijze waarop het strafbare feit is gepleegd, ernstig is verstoord, en waarbij grote vrees voor herhaling bestaat, dan wel
-b. in verband waarmee vrees bestaat voor ernstig belastend gedrag van de verdachte jegens personen, dan wel
+b. in verband waarmee vrees bestaat voor ernstig belastend gedrag van de verdachte jegens een persoon of personen, dan wel
 c. in verband waarmee vrees bestaat voor gedrag van de verdachte dat herhaald gevaar voor goederen oplevert.
 2. De gedragsaanwijzing kan inhouden dat de verdachte wordt bevolen:
 a. zich niet op te houden in een bepaald gebied,
