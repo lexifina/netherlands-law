@@ -1,0 +1,2 @@
+# Artikel 28za
+De onder de voorwaarden van artikel 28z verrichte handelingen van het reisbureau met het oog op de totstandkoming van de reis, worden beschouwd als één enkele dienst die het reisbureau voor de reiziger verricht (reisdienst). De plaats van deze dienst is de plaats waar het reisbureau de zetel van zijn bedrijfsuitoefening of een vaste inrichting heeft gevestigd van waaruit het de dienst heeft verricht.

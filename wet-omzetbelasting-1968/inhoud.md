@@ -31,6 +31,7 @@
 ### Afdeling 6. Regeling voor beleggingsgoud
 ### Afdeling 7. Regeling voor niet in de Gemeenschap gevestigde ondernemers die elektronische diensten verrichten aan andere dan ondernemers
 ### Afdeling 8. Regeling voor vis
+### Afdeling 10. Regeling voor reisbureaus
 ## Hoofdstuk VI. Diverse bepalingen
 ### Afdeling 1. Teruggaaf van belasting
 ### Afdeling 2. Teruggaaf aan ondernemers die niet in de lidstaat van teruggaaf maar in een andere lidstaat gevestigd zijn

@@ -1,0 +1,2 @@
+# Artikel 28zc
+Indien de handelingen waarvoor het reisbureau een beroep doet op andere ondernemers, door laatstgenoemden buiten de Unie worden verricht, wordt de dienst van het reisbureau gelijkgesteld met de in de bij deze wet behorende tabel II, onderdeel b, post 4, genoemde handeling van een tussenpersoon. Indien de in de eerste volzin bedoelde handelingen zowel binnen als buiten de Unie worden verricht, mag alleen het gedeelte van de dienst van het reisbureau betreffende de buiten de Unie verrichte handelingen als zodanig gelijkgesteld worden beschouwd.
