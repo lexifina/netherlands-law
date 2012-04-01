@@ -1,0 +1,2 @@
+# Artikel 33b
+De raad van bestuur heeft, tenzij bij of krachtens deze wet anders is bepaald, tot taak het verstrekken, wijzigen en intrekken van vergunningen voor de diverse vormen van kansspelen, exploitatievergunningen en modeltoelatingen voor speelautomaten, het bevorderen van het voorkomen en het beperken van kansspelverslaving, het geven van voorlichting en informatie, het toezicht op de naleving van de toepasselijke wet- en regelgeving en de vergunningen, alsmede de handhaving daarvan.

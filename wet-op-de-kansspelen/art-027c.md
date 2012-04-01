@@ -1,5 +1,5 @@
 # Artikel 27c
-1. Onze in artikel 27b genoemde Ministers verbinden voorschriften aan de vergunning tot het organiseren van een lotto.
+1. De raad van bestuur, bedoeld in artikel 33a, verbindt voorschriften aan de vergunning tot het organiseren van een lotto.
 2. De voorschriften hebben onder meer betrekking op:
 a. het aantal te houden lotto's;
 b. de wijze van prijsbepaling en het prijzenschema;

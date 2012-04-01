@@ -1,5 +1,5 @@
 # Artikel 30z
-1. Tot het aanwezig hebben en het exploiteren van een of meer speelautomaten in een speelcasino kan uitsluitend door Onze Ministers van Justitie en Economische Zaken vergunning worden verleend. De paragrafen 2 en 3 van deze Titel zijn niet van toepassing op het aanwezig hebben en het exploiteren van een of meer speelautomaten in een speelcasino.
+1. Tot het aanwezig hebben en het exploiteren van een of meer speelautomaten in een speelcasino kan uitsluitend door de raad van bestuur, bedoeld in artikel 33a vergunning worden verleend. De paragrafen 2 en 3 van deze Titel zijn niet van toepassing op het aanwezig hebben en het exploiteren van een of meer speelautomaten in een speelcasino.
 2. De vergunning kan uitsluitend worden verleend aan de krachtens artikel 27h, eerste lid, aangewezen rechtspersoon. De vergunning wordt ingetrokken indien niet de vergunning van kracht is, die ingevolge artikel 27h, eerste lid, vereist is tot het organiseren van een speelcasino.
 3. Aan de vergunning worden voorschriften verbonden ten aanzien van het aanwezig hebben en de exploitatie van speelautomaten. De voorschriften kunnen worden gewijzigd, aangevuld of ingetrokken.
 4. Voor de toelating van het model van speelautomaten kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld die afwijken van het bepaalde in paragraaf 4 van deze Titel.

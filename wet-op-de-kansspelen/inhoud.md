@@ -14,10 +14,14 @@
 ### § 3. Vergunning tot het exploiteren van speelautomaten
 ### § 4. Toelating van speelautomaten
 ### § 5. Overige verbodsbepalingen
-### § 6. Beroep
-### § 7. Toezicht
 ### § 8. Speelautomaten in een speelcasino
 ### § 9. Slotbepalingen
-## Titel VI. Strafbepalingen
-## Titel VIa. College van toezicht op de kansspelen
+## Titel VI. De kansspelautoriteit
+### Afdeling 1. Inleidende bepalingen
+### Afdeling 2. Kansspelheffing
+## Titel VIa. Toezicht op de naleving
+## Titel VIb. Bestuurlijke handhaving
+### § 1. Last onder bestuursdwang
+### § 2. Bestuurlijke boete
+## Titel VIc. Strafbepalingen
 ## Titel VII. Slotbepalingen

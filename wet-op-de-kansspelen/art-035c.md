@@ -1,0 +1,6 @@
+# Artikel 35c
+1. De burgemeester kan een bestuurlijke boete van ten hoogste het bedrag van de eerste categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht opleggen wegens overtreding van het voorschrift vastgesteld bij artikel 30g, tweede lid.
+2. De burgemeester kan een bestuurlijke boete van ten hoogste het bedrag van de tweede categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht opleggen wegens overtreding van de aan de verleende vergunning verbonden voorschriften, bedoeld in artikel 3, eerste lid, voorzover deze vergunning is afgegeven door burgemeester en wethouders.
+3. De burgemeester kan een bestuurlijke boete van ten hoogste het bedrag van de derde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht opleggen wegens overtreding van de bij of krachtens artikel 7c gestelde voorschriften.
+4. De burgemeester kan een bestuurlijke boete van ten hoogste het bedrag van de vijfde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht opleggen wegens overtreding van de aan de verleende vergunning verbonden voorschriften, bedoeld in de artikelen 30b, eerste lid, en 30d, eerste lid, en wegens overtreding van het voorschrift, vastgesteld bij artikel 30g, eerste lid.
+5. De bestuurlijke boete komt toe aan de gemeente.

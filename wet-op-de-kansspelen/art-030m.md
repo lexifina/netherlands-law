@@ -1,5 +1,5 @@
 # Artikel 30m
-1. Het vervaardigen of invoeren van speelautomaten is verboden, tenzij het speelautomaten betreft die overeenstemmen met een door Onze Minister van Economische Zaken toegelaten model en
+1. Het vervaardigen of invoeren van speelautomaten is verboden, tenzij het speelautomaten betreft die overeenstemmen met een door de raad van bestuur, bedoeld in artikel 33a, toegelaten model en
 a. zij ten bewijze daarvan zijn voorzien van het ingevolge artikel 30r, eerste lid, met betrekking tot die toelating vastgestelde merkteken, of
 b. de vervaardiging of invoer geschiedt door de houder van die toelating of diens gemachtigde.
 2. Het eerste lid is niet van toepassing op speelautomaten:

@@ -1,0 +1,5 @@
+# Artikel 35a
+1. De raad van bestuur kan een bestuurlijke boete opleggen wegens overtreding van de voorschriften vastgesteld bij of krachtens de artikelen 1, eerste lid, onder a, b en d, tweede lid, 4a, 7, 10, 13, 14, 14c, 14d, eerste lid, 20, eerste lid, 21, 25, 27, 27c, 27e, eerste lid, 27i, 27j, eerste lid, 30h, eerste lid, 30j, eerste lid, 30m, eerste lid, 30q, derde lid, 30r, derde en vierde lid, 30t, eerste, tweede en vijfde lid, 30u, eerste lid, en 30z.
+2. De bestuurlijke boete die voor een overtreding als bedoeld in het eerste lid kan worden opgelegd bedraagt ten hoogste het bedrag van de zesde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht of, indien dat meer is, 10% van de omzet in het boekjaar voorafgaande aan de beschikking.
+3. De berekening van de omzet, bedoeld in het tweede lid, geschiedt op de voet van het bepaalde in artikel 377, zesde lid, van boek 2 van het Burgerlijk Wetboek voor de netto-omzet.
+4. De bestuurlijke boete komt toe aan de staat.
