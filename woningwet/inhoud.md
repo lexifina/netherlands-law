@@ -1,7 +1,7 @@
 # Inhoud
 ## Hoofdstuk I. Algemene bepalingen
 ## Hoofdstuk II. Voorschriften betreffende het bouwen, de staat van bestaande bouwwerken, het gebruik, het slopen en de welstand
-### Afdeling 1. Voorschriften betreffende het bouwen en de staat van bestaande bouwwerken
+### Afdeling 1. Voorschriften betreffende het bouwen, de staat van bestaande bouwwerken, het gebruik en het slopen
 ### Afdeling 2. De bouwverordening
 ### Afdeling 3. De welstand
 ## Hoofdstuk III. Bijzondere bepalingen
