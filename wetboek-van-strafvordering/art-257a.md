@@ -6,7 +6,7 @@ b. een geldboete;
 c. onttrekking aan het verkeer;
 d. de verplichting tot betaling aan de staat van een som gelds ten behoeve van het slachtoffer;
 e. ontzegging van de bevoegdheid tot het besturen van motorrijtuigen voor ten hoogste zes maanden.
-3. Voorts kan de strafbeschikking aanwijzingen bevatten waaraan de verdachte moet voldoen. De aanwijzingen mogen de vrijheid van de verdachte zijn godsdienst of levensovertuiging te belijden en de staatkundige vrijheid niet beperken. Zij kunnen inhouden:
+3. Voorts kan de strafbeschikking aanwijzingen bevatten waaraan de verdachte moet voldoen. Zij kunnen inhouden:
 a. afstand van voorwerpen die in beslag zijn genomen en vatbaar zijn voor verbeurdverklaring of onttrekking aan het verkeer;
 b. uitlevering, of voldoening aan de staat van de geschatte waarde, van voorwerpen die vatbaar zijn voor verbeurdverklaring;
 c. voldoening aan de staat van een geldbedrag of overdracht van in beslag genomen voorwerpen ter gehele of gedeeltelijke ontneming van het ingevolge artikel 36e van het Wetboek van Strafrecht voor ontneming vatbare wederrechtelijk verkregen voordeel;

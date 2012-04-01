@@ -10,3 +10,4 @@ a. de voorwaarden aanvullen of wijzigen;
 b. aan een andere instelling dan die welke daarmede tevoren was belast, de begeleiding van de jeugdige opdragen;
 c. bijzondere voorwaarden stellen die het gedrag van de jeugdige betreffen.
 6. Indien de rechter bijzondere voorwaarden stelt, als bedoeld in het vijfde lid, is artikel 77z van overeenkomstige toepassing, met dien verstande dat de rechter de werking van de bijzondere voorwaarden kan beperken tot een in de beslissing te bepalen tijdsduur binnen de termijn waarmee de voorwaardelijke beëindiging wordt verlengd.
+7. Artikel 77cca, eerste lid, derde tot en met zesde lid en achtste lid, is van overeenkomstige toepassing. Indien het openbaar ministerie de aanhouding noodzakelijk blijft vinden, dient het onverwijld een vordering tot voorlopige tenuitvoerlegging in bij de rechter-commissaris en een vordering als bedoeld in het derde lid bij de rechter.
