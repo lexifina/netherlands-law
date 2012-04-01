@@ -1,3 +1,4 @@
 # Artikel 39c
 1. De artikelen 3 en 7 zijn van overeenkomstige toepassing, met dien verstande dat daar waar in deze artikelen wordt gesproken over «Onze Minister» «het College van procureurs-generaal» wordt gelezen.
 2. Het College van procureurs-generaal verwerkt slechts strafvorderlijke gegevens, voorzover het, gelet op de doeleinden waarvoor zij worden verwerkt, toereikend, ter zake dienend en niet bovenmatig zijn.
+3. De verwerking van strafvorderlijke gegevens betreffende iemands godsdienst of levensovertuiging, ras, politieke gezindheid, gezondheid, seksuele leven, alsmede persoonsgegevens betreffende het lidmaatschap van een vakvereniging vindt slechts plaats in aanvulling op de verwerking van andere strafvorderlijke gegevens en voor zover dit voor het doel van de verwerking onvermijdelijk is.
