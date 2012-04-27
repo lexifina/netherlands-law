@@ -1,0 +1,2 @@
+# Artikel 8a. Toegang tot bedrijfsvoorzieningen of diensten in de inlenende onderneming
+Degene aan wie arbeidskrachten ter beschikking zijn gesteld, zorgt er voor dat de aan hem ter beschikking gestelde arbeidskrachten gelijke toegang hebben tot de bedrijfsvoorzieningen of diensten in zijn onderneming, met name kantines, kinderopvang- en vervoersfaciliteiten, als de werknemers, die in dienst van zijn onderneming werkzaam zijn in gelijke of gelijkwaardige functies, tenzij het verschil in behandeling om objectieve redenen gerechtvaardigd is.

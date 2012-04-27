@@ -1,0 +1,3 @@
+# Artikel 9a. Belemmeringsverbod
+1. Degene die arbeidskrachten ter beschikking stelt legt geen belemmeringen in de weg voor de totstandkoming van een arbeidsovereenkomst na afloop van de terbeschikkingstelling tussen de ter beschikking gestelde arbeidskracht en degene aan wie hij ter beschikking is gesteld.
+2. Elk beding in strijd met het eerste lid is nietig, met uitzondering van een beding op grond waarvan door degene aan wie de arbeidskracht ter beschikking is gesteld een redelijke vergoeding verschuldigd is aan degene die de arbeidskracht ter beschikking heeft gesteld voor de door deze verleende diensten in verband met de terbeschikkingstelling, werving of opleiding van de desbetreffende arbeidskracht.
