@@ -1,5 +1,0 @@
-# Artikel 12b
-1. De kapitein van een meldplichtig zeeschip meldt door middel van het LRIT de meldplichtige gegevens via een aangewezen applicatie-service provider aan het aangewezen LRIT-datacentrum.
-2. De melding bedoeld in het eerste lid, geschiedt met de intervallen zoals bepaald door de organisatie of persoon die daartoe op grond van artikel 12a, eerste lid, onderdeel d, is aangewezen.
-3. Wanneer het LRIT overeenkomstig het bepaalde in Hoofdstuk V, Voorschrift 19-1, onderdeel 7, van het SOLAS-verdrag is uitgeschakeld, meldt de kapitein dit aan de op grond van artikel 12a, eerste lid, onderdeel e, daartoe aangewezen organisatie of persoon, en maakt hij daarvan een aantekening in het document bedoeld in Hoofdstuk V, Voorschrift 28, van het SOLAS-verdrag, waarbij hij aangeeft waarom en hoe lang het LRIT werd uitgeschakeld. De melding kan mede geschieden door de eigenaar, de rompbevrachter, de agent, en verder door een ieder die zeggenschap heeft over het gebruik van het desbetreffend meldplichtig zeeschip.
-4. Wanneer een van de in het derde lid genoemde personen aan de daar genoemde meldplicht van de kapitein heeft voldaan, is de kapitein daarvan ontslagen.
