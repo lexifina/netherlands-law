@@ -66,6 +66,7 @@
 ### § 2. Technologische eisen
 ### § 3. Europese elektronische tolheffingsdienst
 ### § 4. Nadere regelgeving
+## Hoofdstuk VIB. Intelligente vervoerssystemen op het gebied van wegvervoer
 ## Hoofdstuk VII. Vrijstelling en ontheffing
 ## Hoofdstuk VIIA. Vakbekwaamheid bestuurders goederen- en personenvervoer over de weg
 ### § 1. Algemene bepalingen
