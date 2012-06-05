@@ -1,4 +1,5 @@
 # Artikel 6a.4
-Uiterlijk binnen drie jaar nadat een besluit als bedoeld in artikel 6a.2, eerste lid, inzake het opleggen of in stand houden van verplichtingen met betrekking tot een onderneming die beschikt over een aanmerkelijke macht op een relevante markt in werking is getreden, besluit het college op grond van:
+1. Uiterlijk binnen drie jaar nadat een besluit als bedoeld in artikel 6a.2, eerste lid, inzake het opleggen of in stand houden van verplichtingen met betrekking tot een onderneming die beschikt over een aanmerkelijke macht op een relevante markt in werking is getreden, besluit het college op grond van:
 a. artikel 6a.2, eerste lid, onderdeel b, om deze verplichtingen in stand te houden, of
 b. de artikelen 6a.2, eerste lid, onderdeel c, of 6a.3 om deze verplichtingen in te trekken.
+2. De termijn van drie jaar, bedoeld in het eerste lid, kan in uitzonderlijke gevallen door het college worden verlengd met ten hoogste drie jaar indien het college daartoe bij de Europese Commissie een gemotiveerd verzoek heeft ingediend en de Europese Commissie niet binnen een maand na ontvangst van dat verzoek bezwaar heeft gemaakt tegen de verlenging. Voorts wordt deze termijn verlengd met zes maanden indien het college met bijstand van BEREC de relevante markten en de verplichtingen, bedoeld in het eerste lid, onderzoekt.

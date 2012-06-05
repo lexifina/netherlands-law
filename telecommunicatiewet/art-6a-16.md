@@ -1,6 +1,0 @@
-# Artikel 6a.16
-1. Een onderneming ten aanzien waarvan op grond van artikel 6a.2, eerste lid, is vastgesteld dat zij op één relevante markt onderscheidenlijk transnationale markt of op meer relevante markten of transnationale markten tezamen, beschikt over een aanmerkelijke marktmacht bij de aanbieding van toegang tot en het gebruik van openbare telefoonnetwerken op een vaste locatie, wordt als zodanig aangewezen door het college.
-2. Het college trekt een aanwijzing als bedoeld in het eerste lid in voor zover uit een onderzoek als bedoeld in artikel 6a.1, derde of vierde lid, blijkt dat:
-a. een relevante markt of transnationale markt die betrekking heeft op de aanbieding van toegang tot en het gebruik van openbare telefoonnetwerken op een vaste locatie daadwerkelijk concurrerend is geworden, of
-b. de desbetreffende onderneming niet langer beschikt over een aanmerkelijke marktmacht bij de aanbieding van toegang tot en het gebruik van openbare telefoonnetwerken op een vaste locatie.
-3. Van een besluit als bedoeld in het eerste of tweede lid wordt door het college mededeling gedaan in de Staatscourant. Van gegevens als bedoeld in artikel 10, eerste lid, onderdeel c, van de Wet openbaarheid van bestuur wordt geen mededeling gedaan.

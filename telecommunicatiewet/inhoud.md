@@ -19,8 +19,6 @@
 ### § 6a.1. Vaststellen van aanmerkelijke marktmacht
 ### § 6a.2. Met toegang verband houdende verplichtingen
 ### § 6a.3. Verplichtingen op eindgebruikersniveau
-### § 6a.4. Carrierkeuze en carriervoorkeuze op openbare telefoonnetwerken op een vaste locatie
-### § 6a.5. Het minimumpakket van huurlijnen
 ### § 6a.6. Verticaal geïntegreerde openbare ondernemingen die beschikken over een economische machtspositie als bedoeld in artikel 82 van het EG-verdrag
 ### § 6a.7. Verplichtingen voor aanbieders van programmadiensten die beschikken over een aanmerkelijke marktmacht
 ## Hoofdstuk 6b. Consultatie
@@ -39,6 +37,7 @@
 ### § 11.2. Nummeridentificatie
 ### § 11.3. Ontheffing
 ### § 11.4. Uitzonderingen
+## Hoofdstuk 11a. Continuïteit
 ## Hoofdstuk 12. Geschillen
 ### § 12.1. Geschilbeslechting door geschillencommissie
 ### § 12.2. Geschilbeslechting door het college

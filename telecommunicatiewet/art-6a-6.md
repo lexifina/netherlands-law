@@ -6,10 +6,11 @@ b. te goeder trouw onderhandelt met aanbieders van elektronische communicatiedie
 c. reeds verleende toegang tot faciliteiten niet intrekt;
 d. op groothandelsbasis bepaalde diensten aanbiedt voor wederverkoop door aanbieders van elektronische communicatiediensten;
 e. open toegang verleent tot technische interfaces, protocollen of andere kerntechnologieën die onmisbaar zijn voor de interoperabiliteit van openbare elektronische communicatiediensten of virtuele netwerkdiensten;
-f. co-locatie of andere vormen van gedeeld gebruik van faciliteiten aanbiedt, inclusief gedeeld gebruik van kabelgoten, gebouwen of masten;
+f. collocatie of andere vormen van gedeeld gebruik van bijbehorende faciliteiten aanbiedt;
 g. bepaalde diensten aanbiedt die nodig zijn voor de interoperabiliteit van de aan gebruikers geleverde eind- tot einddiensten, inclusief faciliteiten voor intelligente netwerkdiensten of roaming binnen mobiele elektronische communicatienetwerken;
 h. toegang verleent tot operationele ondersteuningssystemen of vergelijkbare softwaresystemen die nodig zijn om eerlijke concurrentie bij het aanbieden van elektronische communicatiediensten te waarborgen;
-i. zorgt voor interconnectie van openbare elektronische communicatienetwerken of netwerkfaciliteiten.
+i. zorgt voor interconnectie van openbare elektronische communicatienetwerken of netwerkfaciliteiten;
+j. toegang verschaffen tot bijbehorende diensten.
 3. Het college kan aan de verplichting, bedoeld in het eerste lid, voorschriften verbinden betreffende billijkheid, redelijkheid en opportuniteit.
 4. Indien dit nodig is om de normale werking van het betrokken openbare elektronische communicatienetwerk te garanderen, kan het college technische of operationele voorschriften vaststellen die:
 a. een onderneming waarvoor een verplichting geldt als bedoeld in het eerste lid bij het verlenen van toegang in acht neemt, of
