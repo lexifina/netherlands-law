@@ -21,6 +21,7 @@
 ### § 2a. Goedkeuring productieprocessen
 ### § 3. Individuele goedkeuring
 ### § 4. Keuringen ter uitvoering van andere wetten
+### § 4a. Toestemming onderdelen en uitrustingstukken
 ### § 5. Verbodsbepalingen
 ### § 6. Toepasselijkheid van dit hoofdstuk op de goedkeuring voor het gebruik buiten de weg
 ## Hoofdstuk IV. Kentekens en kentekenbewijzen
