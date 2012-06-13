@@ -1,6 +1,0 @@
-# Artikel 59a
-1. Indien een bevoegde instantie niet of niet naar behoren voldoet aan een voor hem geldende rechtsplicht voortvloeiende uit de artikelen 8, 14, 19, 34, 36, 37, 39, 46 tot en met 50 of 55 dan wel voortvloeiende uit de artikelen 15, zevende lid, of 39, vijfde lid, tweede alinea, van de richtlijn, kan Onze Minister:
-a. in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties ten aanzien van provincies, gemeenten en gemeenschappelijke regelingen waaraan zijn deelnemen, of
-b. in overeenstemming met Onze Minister van Infrastructuur en Milieu ten aanzien van waterschappen en gemeenschappelijke regelingen waaraan uitsluitend waterschappen deelnemen,
-de desbetreffende bevoegde instantie een aanwijzing geven om binnen een in die aanwijzing vermelde termijn, alsnog aan die rechtsplicht te voldoen.
-2. Het eerste lid is niet van toepassing op bestuursorganen van provincies, gemeenten en gemeenschappelijke regelingen waaraan zij deelnemen, indien de bevoegdheden van artikel 121 en hoofdstuk XVIII van de Provinciewet en van artikel 124 en hoofdstuk XVII van de Gemeentewet toereikend zijn om het niet of niet naar behoren voldoen als bedoeld in het eerste lid te herstellen.

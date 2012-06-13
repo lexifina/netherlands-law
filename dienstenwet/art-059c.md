@@ -1,2 +1,0 @@
-# Artikel 59c
-Indien de in de aanwijzing vermelde termijn verstrijkt zonder dat de aanwijzing is opgevolgd, kan Onze Minister er, namens en op kosten van de bevoegde instantie, zowel door het verrichten van publiekrechtelijke of privaatrechtelijke rechtshandelingen als door het verrichten van feitelijke handelingen in voorzien dat alsnog wordt voldaan aan de rechtsplicht in verband waarmee de aanwijzing, bedoeld in artikel 59a, is gegeven.
