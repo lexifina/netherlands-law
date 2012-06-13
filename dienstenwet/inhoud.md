@@ -24,6 +24,5 @@
 ### § 6.5. Toezicht en handhaving
 ### § 6.6. Het contactpunt
 ### § 6.7. Het interne markt informatiesysteem
-## Hoofdstuk 6a. Naleving verplichtingen door bevoegde instanties
 ## Hoofdstuk 7. Wijziging van andere wetten
 ## Hoofdstuk 8. Slotbepalingen
