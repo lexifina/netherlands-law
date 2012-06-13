@@ -325,7 +325,7 @@
 ### Hoofdstuk 5.6. Regels over het toepassen van een gedragscode door institutionele beleggers
 ### Hoofdstuk 5.7. Regels voor de toegang tot betalingssystemen
 ### Hoofdstuk 5.8. Toezicht op ratingbureaus
-## 6. Deel Toezicht infrastructuur financiële markten
+## 6. Deel bijzondere maatregelen betreffende de stabiliteit van het financiële stelsel
 ### Hoofdstuk 6.1. Algemeen
 ### Hoofdstuk 6.2. Rechtsbescherming
 ### Hoofdstuk 6.3. Schadeloosstelling bij onteigening

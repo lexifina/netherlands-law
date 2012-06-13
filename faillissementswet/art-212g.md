@@ -7,7 +7,11 @@ d. lidstaat van herkomst: ingeval de bank een rechtspersoon is, de lidstaat waar
 e. bevoegde instanties: de administratieve of rechterlijke instanties die bevoegd zijn ter zake van liquidatieprocedures;
 f. toezichthoudende autoriteit: de instantie die in een lidstaat bij of krachtens de wet met het toezicht op het kredietwezen is belast;
 g. curator: de curator of elke andere persoon of ander orgaan, aangewezen door de bevoegde instanties van een andere lidstaat dan Nederland of door een bestuursorgaan van de bank om de liquidatieprocedure uit te voeren;
-h. financiële instrumenten: instrumenten, bedoeld in deel B van de bijlage bij richtlijn nr. 93/22/EEG van de Raad van de Europese Gemeenschappen van 10 mei 1993 betreffende het verrichten van diensten op het gebied van beleggingen in effecten (PbEG L 141).
+h. financiële instrumenten: instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;
+i. deposito: een deposito als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;
+j. gegarandeerd deposito: een deposito voor zover dit voor vergoeding ingevolge het depositogarantiestelsel, bedoeld in artikel 3:259, tweede lid, van de Wet op het financieel toezicht in aanmerking komt;
+k. deposito-overeenkomst: de overeenkomst op grond waarvan een depositohouder een deposito houdt bij een bank;
+l. overnemer: degene die deposito-overeenkomsten, activa of passiva anders dan uit hoofde van deposito-overeenkomsten overneemt, degene die bereid is zulks te doen en degene die onderzoekt of hij daartoe bereid is.
 2. Voor de toepassing van deze afdeling is een bank gevestigd in:
 a. de staat waar de statutaire zetel is, indien het een rechtspersoon betreft die overeenkomstig het toepasselijke recht een statutaire zetel heeft; en
 b. de staat waar haar zij haar hoofdbestuur heeft en zij feitelijk werkzaam is, indien het een andere bank betreft dan de bank, bedoeld in onderdeel a.
