@@ -1,0 +1,32 @@
+# Artikel III. Werkzaamheden
+Afdeling 1. Werkzaamheden, betrekking hebbende op de financiering
+De Maatschappij kan haar middelen investeren in productieve particuliere ondernemingen op het grondgebied van haar leden. Een regerings- of ander openbaar belang in een dergelijke onderneming sluit een investering van de Maatschappij niet noodzakelijkerwijze uit.
+Afdeling 2. Vormen van financiering
+(a) De Maatschappij verricht geen investeringen in de vorm van investering in aandelenkapitaal. Met inachtneming van het voorgaande kan de Maatschappij haar middelen investeren in zodanige vorm of vormen, als zij onder de omstandigheden het meest geschikt acht, daaronder begrepen (maar zonder beperking) investeringen, welke de houder het recht geven op winstdeling en het recht op inschrijving op aandelen-kapitaal of conversie van de investeringen in aandelen.
+(b) De Maatschappij oefent zelf geen enkel recht op inschrijving op aandelenkapitaal of conversie van een investering in aandelen uit.
+Afdeling 3. Beginselen voor de werkzaamheden
+De werkzaamheden van de Maatschappij worden geleid door de volgende beginselen:
+(i) De Maatschappij verricht geen financiering in gevallen, waarin naar haar mening voldoende particulier kapitaal op redelijke voorwaarden kan worden verkregen.
+(ii) De Maatschappij financiert geen onderneming binnen het grondgebied van enig lid, indien het lid bezwaar maakt tegen een dergelijke financiering.
+(iii) De Maatschappij stelt niet de voorwaarde, dat het provenu van enige door haar verrichte financiering moet worden besteed in de gebieden van enig bepaald land.
+(iv) De Maatschappij neemt geen verantwoordelijkheid op zich voor het bestuur van enige onderneming, waarin door haar is geïnvesteerd.
+(v) De Maatschappij verricht haar financieringen op zodanige voorwaarden als zij juist acht, met inachtneming van de behoeften van de onderneming, de risico's welke de Maatschappij aangaat en de voorwaarden, welke particuliere investeerders gewoonlijk voor soortgelijke financieringen verkrijgen.
+(vi) De Maatschappij tracht haar fondsen te laten rouleren door verkoop van haar investeringen aan particuliere investeerders, wanneer dit op bevredigende voorwaarden kan geschieden.
+(vii) De Maatschappij tracht een redelijke spreiding van haar investeringen te handhaven.
+Afdeling 4. Bescherming van belangen
+Geen bepaling in deze Overeenkomst verhindert de Maatschappij, in geval van feitelijke of dreigende wanbetaling op een van haar investeringen, van feitelijke of dreigende insolventie van de onderneming waarin deze investering plaats vond of in andere situaties, welke naar de mening van de Maatschappij een dergelijke investering in gevaar dreigen te brengen, die handelingen te verrichten en die rechten uit te oefenen welke zij noodzakelijk acht voor de bescherming van haar belangen.
+Afdeling 5. Toepasselijkheid van bepaalde buitenlandse deviezenbeperkingen
+Gelden, welke de Maatschappij heeft ontvangen of heeft te ontvangen in verband met een door de Maatschappij in het gebied van een lid ingevolge afdeling 1 van dit artikel verrichte investering, zijn niet, uitsluitend op grond van enige bepaling van deze Overeenkomst, vrijgesteld van algemeen toepasselijke buitenlandse beperkingen, voorschriften en contrôlemaatregelen met betrekking tot deviezen, welke in de gebieden van dat lid van kracht zijn.
+Afdeling 6. Diverse werkzaamheden
+Naast de elders in deze Overeenkomst beschreven werkzaamheden, is de Maatschappij gerechtigd:
+(i) gelden te lenen en in verband daarmede zodanig zakelijk of ander onderpand te verstrekken als zij zal bepalen met dien verstande evenwel, dat alvorens tot openbare verkoop van haar schuldbekentenissen op de markten van een lid over te gaan, de Maatschappij de toestemming dient te hebben ontvangen van dat lid en van het lid in wiens valuta de schuldbekentenissen dienen te zijn uitgedrukt; indien en voor zover de Maatschappij uit hoofde van door de Bank verstrekte of gegarandeerde leningen schulden heeft, mag het totale bedrag dat is gemoeid met de door de Maatschappij verkregen leningen of door haar verstrekte garanties niet worden verhoogd indien, op het ogenblik waarop een verhoging wordt overwogen of ten gevolge van een eventuele verhoging, het totale bedrag der op dat ogenblik uitstaande schulden (waaronder verstrekte garanties zijn begrepen) die genoemde Maatschappij uit enigen hoofde heeft aangegaan, een bedrag gelijk aan viermaal het oorspronkelijk geplaatste kapitaal en de reserve, overschrijdt;
+(ii) gelden, welke niet benodigd zijn voor haar financiële werkzaamheden, te beleggen in zodanige schuldbekentenissen als zij kan bepalen en gelden, welke worden aangehouden voor pensioen- of soortgelijke doeleinden, te beleggen in algemeen verhandelbare waardepapieren, dit alles zonder onderworpen te zijn aan de beperkingen, welke worden opgelegd door de andere afdelingen van dit artikel;
+(iii) waardepapieren te garanderen, waarin de Maatschappij haar middelen heeft belegd teneinde de verkoop daarvan te vergemakkelijken;
+(iv) waardepapieren, welke de Maatschappij heeft uitgegeven of gegarandeerd of waarin haar middelen zijn belegd, te kopen of te verkopen;
+(v) die andere bij haar werkzaamheden behorende bevoegdheden uit te oefenen welke noodzakelijk en wenselijk zijn voor de bevordering van haar doeleinden.
+Afdeling 7. Waardering van het valutabezit
+Voor geval het overeenkomstig de bepalingen van deze Overeenkomst noodzakelijk wordt enige valuta te waarderen uitgedrukt in de waarde van een andere valuta, wordt een zodanige waardering door de Maatschappij naar redelijkheid vastgesteld, na het Internationaal Monetair Fonds te hebben geraadpleegd.
+Afdeling 8. Waarschuwing te plaatsen op de waardepapieren
+Ieder waardepapier hetwelk door de Maatschappij is uitgegeven of gegarandeerd, draagt op de voorzijde een duidelijk zichtbare verklaring, welke doet uitkomen dat het geen schuldbekentenis van de Bank is of, tenzij dit op het waardepapier uitdrukkelijk is vermeld, van enige regering.
+Afdeling 9. Verbod van politieke activiteit
+De Maatschappij en haar ambtenaren mogen zich niet in de politieke aangelegenheden van enig lid mengen, noch laten zij zich bij hun beslissingen door het politieke karakter van het betrokken lid of de betrokken leden beïnvloeden. Slechts economische overwegingen spelen bij hun beslissingen een rol en deze overwegingen zullen onpartijdig tegen elkaar worden afgewogen, teneinde de in deze Overeenkomst vermelde doelstellingen te verwezenlijken.
