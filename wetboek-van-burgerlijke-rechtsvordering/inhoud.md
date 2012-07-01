@@ -63,6 +63,7 @@
 ### titel Tiende. Herroeping
 #### afdeling Eerste. Herroeping van vonnissen
 #### afdeling Tweede. Herroeping van beschikkingen
+### titel Tiende A. Prejudiciële vragen aan de Hoge Raad
 ### titel Elfde. Cassatie
 #### afdeling Eerste. Van de zaken aan cassatie onderworpen
 #### afdeling Tweede. Van de termijn van beroep en van deszelfs schorsende kracht
