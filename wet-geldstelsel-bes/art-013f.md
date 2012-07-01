@@ -1,0 +1,5 @@
+# Artikel 13f
+1. In afwijking van artikel 37, tweede lid, van de Algemene wet inzake rijksbelastingen en artikel 58 van de in de overgangsperiode als wet van toepassing zijnde Algemene Landsverordening Landsbelasting, wordt in de overgangsperiode dubbele belasting voorkomen overeenkomstig de regels van de Belastingregeling voor het Koninkrijk met uitzondering van de regels, bedoeld in artikel 3, derde lid, onderdeel c, artikel 11, derde lid, onderdeel b, artikel 26, tweede lid, onderdeel c, artikel 30, onderdeel c, artikel 32, onderdeel c, van die regeling en met dien verstande dat voor:
+a. «Aruba, Curaçao en Sint Maarten», «Curaçao, Sint Maarten», «Curaçao en Sint Maarten», «Curaçao onderscheidenlijk Sint Maarten» «Curaçao, onderscheidenlijk Aruba, onderscheidenlijk Sint Maarten» of «Aruba, Curaçao of Sint Maarten» telkens moet worden gelezen «de openbare lichamen»;
+b. «Nederland» telkens moet worden gelezen «het in Europa gelegen deel van het Koninkrijk».
+2. De in het eerste lid bedoelde wijze van voorkoming van dubbele belasting, wordt gedurende de overgangsperiode aangemerkt als de Belastingregeling voor het land Nederland.
