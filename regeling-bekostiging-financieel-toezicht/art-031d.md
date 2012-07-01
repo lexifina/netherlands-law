@@ -1,2 +1,0 @@
-# Artikel 31d
-Degene die het beheer voert over een beleggingsinstelling als bedoeld in artikel V van de wet van 16 juli 2005 tot wijziging van de Wet toezicht beleggingsinstellingen met het oog op modernisering van de wet en implementatie van richtlijn nr. 2001/107/EG en richtlijn 2001/108/EG van 21 januari 2002 (Stb. 401) wordt na het tijdstip van inwerkingtreding van die wet voor de toepassing van deze regeling aangemerkt als beheerder als bedoeld in artikel 13, onderdeel a, onder 1 of 2, of 16, onderdeel a, onder 1 of 2.
