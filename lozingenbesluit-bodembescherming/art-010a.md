@@ -1,0 +1,3 @@
+# Artikel 10a
+1. Bij een aanvraag om een ontheffing als bedoeld in artikel 5, derde lid, worden de gegevens verstrekt die in de bij dit besluit behorende bijlage I zijn aangegeven. Onze Minister kan nadere regels stellen met betrekking tot de te verstrekken gegevens.
+2. Het eerste lid is van overeenkomstige toepassing op een aanvraag om een vergunning als bedoeld in artikel 5a.
