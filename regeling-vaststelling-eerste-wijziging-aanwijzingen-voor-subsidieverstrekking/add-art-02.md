@@ -1,0 +1,3 @@
+# Artikel II
+1. Deze regeling is niet van toepassing op subsidieregelingen die vóór 1 oktober 2012 in werking zijn getreden en eindigen vóór 1 juli 2014, tenzij een verlenging van de geldingsduur van een dergelijke regeling wordt gewenst.
+2. Regelingen die eindigen op of na 1 juli 2014 en regelingen die geen einddatum kennen bij inwerkingtreding van deze regeling worden vóór 1 juli 2014 voorzien van een vervaldatum die niet later ligt dan 1 juli 2017, tenzij het ontwerp van een regeling daartoe met overeenkomstige toepassing van Aanwijzing 6A, vijfde lid, met een langere geldingsduur aan de Tweede Kamer is overlegd.
