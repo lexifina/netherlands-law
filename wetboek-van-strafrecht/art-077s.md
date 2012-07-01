@@ -11,5 +11,5 @@ c. de maatregel in het belang is van een zo gunstig mogelijke verdere ontwikkeli
 7. De termijn van de maatregel loopt niet:
 a. gedurende de tijd dat aan de veroordeelde uit anderen hoofde rechtens zijn vrijheid is ontnomen en gedurende de tijd dat hij uit zodanige vrijheidsontneming ongeoorloofd afwezig is;
 b. wanneer de veroordeelde langer dan een week ongeoorloofd afwezig is uit de plaats die voor de tenuitvoerlegging van de maatregel is aangewezen;
-c. wanneer de maatregel voorwaardelijk is geëindigd en de veroordeelde buiten de plaats verblijft die voor de tenuitvoerlegging is aangewezen.
+c. wanneer de maatregel voorwaardelijk is geëindigd als bedoeld in het zesde lid en artikel 77t, tweede lid.
 8. Onverminderd het bepaalde in het zevende lid, kan Onze Minister de maatregel te allen tijde, na advies te hebben ingewonnen van de raad voor de kinderbescherming, voorwaardelijk of onvoorwaardelijk beëindigen.
