@@ -1,0 +1,3 @@
+# Artikel IV
+1. De advocaat die op de datum van inwerkingtreding van artikel I, onderdelen A en B, kantoor houdt in het arrondissement 's-Gravenhage, is, voor zover de advocaat als advocaat bij de Hoge Raad optreedt, tot uiterlijk twee jaar na de inwerkingtreding van deze onderdelen uit dien hoofde advocaat bij de Hoge Raad, en daarna uitsluitend voor zaken die op dat moment aanhangig zijn bij de Hoge Raad en waarin hij in eigen naam optreedt.
+2. Het college van afgevaardigden kan de inwerkingtreding van de regels voor het optreden van een advocaat bij de Hoge Raad in strafzaken en belastingzaken op een later tijdstip dan bedoeld in artikel V vaststellen, met dien verstande dat dit tijdstip niet later ligt dan uiterlijk een bij koninklijk besluit te bepalen tijdstip.
