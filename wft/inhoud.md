@@ -31,7 +31,7 @@
 ##### § 1.3.2.4. Raadplegen in het kader van overige procedures en kennis geven van bepaalde besluiten
 ##### § 1.3.2.5. Informatieverstrekking door de Nederlandsche Bank aan toezichthoudende instanties van andere lidstaten in verband met herverzekeraars met zetel in een staat die geen lidstaat is
 #### Afdeling 1.3.3. Samenwerking met toezichthoudende instanties van staten die geen lidstaat zijn
-#### Afdeling 1.3.4. Informatieverstrekking door toezichthouder aan de Commissie van de Europese Gemeenschappen
+#### Afdeling 1.3.4. Samenwerking en uitwisseling van gegevens en inlichtingen met Europese instanties
 ### Hoofdstuk 1.4. Toezicht en handhaving
 #### Afdeling 1.4.1. Toezicht op de naleving
 #### Afdeling 1.4.2. Handhaving
@@ -82,6 +82,10 @@
 ##### § 2.2.4a.3. Bijkantoren van en verrichten van diensten door entiteiten voor risico-acceptatie met zetel in een staat die geen lidstaat is
 #### Afdeling 2.2.4b. Uitoefenen van bedrijf van premiepensioeninstelling
 ##### § 2.2.4b.1. Vergunningplicht en -eisen voor premiepensioeninstellingen
+#### Afdeling 2.2.4c. Uitoefenen van bedrijf van wisselinstelling
+##### § 2.2.4c.1. Vergunningplicht en -eisen voor wisselinstellingen met zetel in Nederland
+##### § 2.2.4c.2. Vrijstelling
+##### § 2.2.4c.3. Bijkantoren van wisselinstellingen met zetel buiten Nederland
 #### Afdeling 2.2.5. Aanbieden van beleggingsobjecten
 ##### § 2.2.5.1. Vergunningplicht en -eisen
 ##### § 2.2.5.2. Vrijstelling
@@ -145,9 +149,10 @@
 ### Hoofdstuk 3.2A. Optreden als waarborg- of garantiefonds
 ### Hoofdstuk 3.3. Regels voor het werkzaam zijn op de financiële markten
 #### Afdeling 3.3.1. Verbod gebruik van het woord «bank»
-#### Afdeling 3.3.2. Deskundigheid, betrouwbaarheid en integriteit
+#### Afdeling 3.3.2. Geschiktheid, betrouwbaarheid en integriteit
 ##### § 3.3.2.1. Financiële ondernemingen met zetel in Nederland
 ##### § 3.3.2.2. Financiële ondernemingen met zetel in een staat die geen lidstaat is
+##### § 3.3.2.2a. Financiële ondernemingen met zetel in een aangewezen staat
 ##### § 3.3.2.3. Financiële ondernemingen met zetel in een niet-aangewezen staat
 #### Afdeling 3.3.3. Structurering en inrichting
 ##### § 3.3.3.1. Financiële ondernemingen met zetel in Nederland
@@ -243,7 +248,7 @@
 #### Afdeling 4.1.2. Bijzondere bepalingen
 #### Afdeling 4.1.3. Vrijstelling
 ### Hoofdstuk 4.2. Regels voor het werkzaam zijn op de financiële markten betreffende alle financiële diensten
-#### Afdeling 4.2.1. Deskundigheid, betrouwbaarheid en integriteit
+#### Afdeling 4.2.1. Geschiktheid, betrouwbaarheid en integriteit
 #### Afdeling 4.2.2. Structurering en inrichting
 #### Afdeling 4.2.3. Zorgvuldige dienstverlening
 #### Afdeling 4.2.4. Meldingsplichten
@@ -336,17 +341,9 @@
 ### Deel Prudentieel toezicht financiële ondernemingen
 ### Deel Gedragstoezicht financiële ondernemingen
 ### Deel Gedragstoezicht financiële markten
-### Prospectusverordening
-### uitvoeringsverordening MiFID
-### Verordening grensoverschrijdende betalingen
-### Verordening ratingbureaus
 ## Overtreding van voorschriften, gesteld bij of krachtens artikel:
 ### Algemeen deel
 ### Deel Markttoegang financiële ondernemingen
 ### Deel Prudentieel toezicht financiële ondernemingen
 ### Deel Gedragstoezicht financiële ondernemingen
 ### Deel Gedragstoezicht financiële markten
-### Prospectusverordening
-### uitvoeringsverordening MiFID
-### Verordening grensoverschrijdende betalingen
-### Verordening ratingbureaus
