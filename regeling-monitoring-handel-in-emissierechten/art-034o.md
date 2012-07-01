@@ -1,0 +1,4 @@
+# Artikel 34o. Bepaling biomassafractie
+1. Indien de vliegtuigexploitant gebruik maakt van gemengde brandstoffen die biomassa bevatten, wordt de biomassafractie bepaald overeenkomstig de bij deze regeling behorende bijlage XVIII, hoofdstuk XVIII.4.
+2. Indien de in het eerste lid bedoelde brandstof een de minimis-bronstroom is, mag de vliegtuigexploitant een in het monitoringsplan neergelegde schattingsmethode gebruiken om de biomassafractie te bepalen.
+3. In afwijking van het eerste lid mag de vliegtuigexploitant het biomassagehalte voor commercieel verhandelbare brandstoffen afleiden van overeenkomstig artikel 34ae geregistreerde facturen van de brandstofleverancier indien hij ten genoegen van het bestuur van de emissieautoriteit aantoont dat de biomassafractie is gebaseerd op aanvaarde internationale normen.

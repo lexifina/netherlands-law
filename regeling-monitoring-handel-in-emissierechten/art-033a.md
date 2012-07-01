@@ -1,0 +1,4 @@
+# Artikel 33a. Tijdelijke afwijkingen monitoringsplan
+1. De houder van de vergunning meldt schriftelijk aan het bestuur van de emissieautoriteit elke tijdelijke afwijking van het aan de variabelen gekoppelde niveau van nauwkeurigheid dat in het monitoringsplan is vastgelegd onder opgaaf van de redenen voor deze afwijking. De melding wordt gedaan binnen vijf werkdagen na het ontstaan van de tijdelijke afwijking.
+2. Het eerste lid is niet van toepassing indien de houder van de vergunning iedere maand een overzicht aan het bestuur van de emissieautoriteit verstrekt van de afwijkingen, bedoeld in het eerste lid. Dit overzicht wordt telkens voor de zesde dag van de maand bij het bestuur van de emissieautoriteit ingediend.
+3. Indien de oorzaak van de afwijking van technische aard is, wordt bij de melding of in het overzicht gedetailleerde informatie over de voorlopige monitoringsmethodiek verstrekt.

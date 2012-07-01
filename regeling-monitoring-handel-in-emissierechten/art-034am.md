@@ -1,0 +1,2 @@
+# Artikel 34am. Termijn goedkeuring monitoringsplan voor emissies en tonkilometergegevens
+Het bestuur van de emissieautoriteit beslist omtrent goedkeuring van een monitoringsplan als bedoeld in de artikelen 16.39d, 16.39j, vierde lid, en 16.39n, tweede lid, tweede volzin, in verbinding met artikel 16.39j, vierde lid, van de wet binnen vier maanden na de dag waarop het bestuur van de emissieautoriteit het ontwerp van het monitoringsplan heeft ontvangen.

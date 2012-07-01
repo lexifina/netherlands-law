@@ -1,0 +1,7 @@
+# Artikel 12b. Afwijkende monitoringsmethodiek
+1. In afwijking van artikel 10, eerste en tweede lid, kan degene die een inrichting drijft, wanneer het technisch niet haalbaar is of tot onredelijke kosten zou leiden om ten minste niveau 1 als bedoeld in de bij deze regeling behorende bijlage IV voor een of meer bronstromen aan te houden, tijdelijk een afwijkende monitoringsmethodiek hanteren op voorwaarde dat:
+a. deze monitoringsmethodiek voor de gehele CO2-installatie geldt,
+b. deze monitoringsmethodiek niet wordt toegepast in geval van een continue meetmethode als bedoeld in artikel 6, tweede lid, en
+c. ten genoegen van het bestuur van de emissieautoriteit is aangetoond dat met deze methodiek wordt voldaan aan de bij deze regeling behorende bijlage IVA vermelde drempelwaarden voor de totale onzekerheid met betrekking tot de jaarlijkse CO2-emissies van de CO2-installatie.
+2. Ter uitvoering van de voorwaarde, bedoeld in het eerste lid, onder c, kwalificeert degene die de inrichting drijft, ten minste de onzekerheden ten aanzien van alle variabelen die bij het berekenen van de CO2-jaarvracht worden gebruikt, waarbij rekening wordt gehouden met ISO 5186: 2005 en de gegevens uit het voorgaande kalenderjaar worden gebruikt.
+3. Degene die de inrichting drijft, toont jaarlijks aan het bestuur van de emissieautoriteit in het emissieverslag de noodzaak aan van het hanteren van een afwijkende monitoringsmethodiek als bedoeld in het eerste lid. Tevens worden de gegevens, bedoeld in het tweede lid, jaarlijks in het monitoringsplan geactualiseerd.

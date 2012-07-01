@@ -1,0 +1,5 @@
+# Artikel 15d. Bepaling van de onzekerheid van een meetinstrument dat gemoeid is met de overschatting van de CO2-emissie
+1. Indien niet alle CO2-eenheden binnen de inrichting onder de CO2-installatie vallen, mag degene die de inrichting drijft, de CO2-emissies van de CO2-installatie als volgt overschatten:
+a. de CO2-emissies die niet onder het systeem van handel in broeikasgasemissierechten vallen, worden niet afgetrokken van de totale CO2-emissies of
+b. de CO2-emissies die samenhangen met het onzekerheidspercentage dat het meetinstrument afwijkt om aan het vereiste niveau voor de bronstroom te voldoen, worden opgeteld bij de CO2-emissies die afkomstig zijn van de CO2-installatie.
+2. Onverminderd de artikelen 15a en 15b mag degene die een inrichting drijft, het onzekerheidspercentage waarmee de CO2-emissies van de CO2-installatie worden overschat als bedoeld in het eerste lid, onder b, aftrekken van de daadwerkelijke onzekerheid van het meetinstrument dat wordt gebruikt om de hoeveelheid bronstroom te bepalen.
