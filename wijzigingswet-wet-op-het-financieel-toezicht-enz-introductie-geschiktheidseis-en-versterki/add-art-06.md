@@ -1,0 +1,2 @@
+# Artikel VI
+Indien een persoon als bedoeld in de artikelen 4, onderdeel b, en 11, tweede lid, van de Wet toezicht trustkantoren voorafgaand aan het tijdstip van inwerkingtreding van deze wet deskundig is, wordt die persoon vanaf dat tijdstip geacht te beschikken over de daartoe ingevolge de Wet toezicht trustkantoren vereiste geschiktheid, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een beoordeling of herbeoordeling van die geschiktheid.
