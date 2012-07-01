@@ -1,0 +1,4 @@
+# Artikel II. Overgangsrecht
+1. Besluiten die zijn genomen op grond van artikel 6, eerste en tweede lid, van de Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek zoals die luidde op de dag voorafgaand aan de dag van inwerkingtreding van deze wet, worden geacht te berusten op de Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek zoals die luidt na de inwerkingtreding van deze wet.
+2. Voor zover er ter zake nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze plaats overeenkomstig de Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek zoals die gold onmiddellijk voorafgaand aan de inwerkingtreding van deze wet.
+3. Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek zoals die gold onmiddellijk voorafgaand aan de inwerkingtreding van deze wet, blijven in stand.
