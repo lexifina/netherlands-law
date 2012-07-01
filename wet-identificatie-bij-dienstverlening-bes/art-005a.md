@@ -1,2 +1,0 @@
-# Artikel 5a
-Indien een dienstverlener een relatie met een cliënt is aangegaan, gericht op het gedurende ten minste enige tijd verlenen van diensten, voert de dienstverlener een voortdurende controle uit op die relatie en de tijdens de duur van die relatie uit te voeren transacties, ten einde te verzekeren dat deze overeenkomen met de kennis die de dienstverlener heeft van de cliënt en van zijn risicoprofiel, met in voorkomend geval een onderzoek naar de bron van het vermogen. Bij ministeriële regeling kunnen nadere regels worden gesteld.
