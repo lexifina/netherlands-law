@@ -70,8 +70,31 @@
 #### § 10.6.4. Verdere bepalingen omtrent het beheer van bedrijfsafvalstoffen en gevaarlijke afvalstoffen
 ### Titel 10.7. Het overbrengen van afvalstoffen binnen, naar en uit de Europese Gemeenschap
 ### Titel 10.8. Verdere bepalingen
-## Hoofdstuk 11. Andere handelingen
-### Titel 11.1. Kwaliteit van werkzaamheden en integriteit van degenen die deze werkzaamheden uitvoeren
+## Hoofdstuk 11. Geluid
+### Titel 11.1. Algemeen
+### Titel 11.2. Geluidsbelastingkaarten en actieplannen
+#### § 11.2.1. Algemeen
+#### § 11.2.2. Geluidsbelastingkaarten
+#### § 11.2.3. Actieplannen
+#### § 11.2.4. Inlichtingen aan een andere lidstaat van de Europese Unie
+### Titel 11.3. Wegen en spoorwegen met geluidproductieplafonds
+#### Afdeling 11.3.1. Algemeen
+#### Afdeling 11.3.2. Naleving en registratie van geluidproductieplafonds
+##### § 11.3.2.1. Naleving van de geluidproductieplafonds
+##### § 11.3.2.2. Het geluidregister
+#### Afdeling 11.3.3. Vaststelling of wijziging van geluidproductieplafonds
+##### § 11.3.3.1. Algemeen
+##### § 11.3.3.2. Procedures voor vaststelling of wijziging van geluidproductieplafonds
+##### § 11.3.3.3. De binnenwaarde
+##### § 11.3.3.4. Verdere bepalingen omtrent vaststelling en wijziging van geluidproductieplafonds
+#### Afdeling 11.3.4. Geluidproductieplafonds voor op «datum van inwerkingtreding van deze wet» bestaande of geprojecteerde wegen en spoorwegen
+##### § 11.3.4.1. Het tot stand komen van de geluidproductieplafonds
+##### § 11.3.4.2. Bijzondere bepalingen met betrekking tot het wijzigen van geluidproductieplafonds die tot stand zijn gekomen met toepassing van artikel 11.45, eerste lid
+#### Afdeling 11.3.5. Overschrijding van de maximale waarde
+#### Afdeling 11.3.6. Sanering
+#### Afdeling 11.3.7. Overige bepalingen
+## Hoofdstuk 11a. Andere handelingen
+### Titel 11a.1. Kwaliteit van werkzaamheden en integriteit van degenen die deze werkzaamheden uitvoeren
 ## Hoofdstuk 12. Verslag-, registratie- en meetverplichtingen
 ### Titel 12.1. Registers beschermde gebieden
 ### Titel 12.2. Registratie gegevens externe veiligheid inrichtingen, transportroutes en buisleidingen
@@ -116,9 +139,9 @@
 #### Afdeling 16.2.1. Inrichtingen
 ##### Paragraaf 16.2.1.1. Algemeen
 ##### Paragraaf 16.2.1.2. Vergunning
-##### Paragraaf 16.2.1.3. Het toewijzen en verlenen van broeikasgasemissierechten en het gebruik van emissiereductie-eenheden en gecertificeerde emissiereducties
-###### Subparagraaf 16.2.1.3.1. Het nationale toewijzingsplan
-###### Subparagraaf 16.2.1.3.2. Het nationale toewijzingsbesluit, overige toewijzingsbesluiten en de verlening van broeikasgasemissierechten
+##### Paragraaf 16.2.1.3. Het toewijzen en verlenen van broeikasgasemissierechten
+###### Subparagraaf 16.2.1.3.1. Het veilen en kosteloos toewijzen van broeikasgasemissierechten
+###### Subparagraaf 16.2.1.3.2. Wijziging van toewijzingsbesluiten
 ##### Paragraaf 16.2.1.4. De geldigheid van broeikasgasemissierechten, het inleveren van broeikasgasemissierechten, emissiereductie-eenheden en gecertificeerde emissiereducties, het annuleren van broeikasgasemissierechten en het compenseren van emissies in een ander kalenderjaar
 #### Afdeling 16.2.2. Luchtvaartactiviteiten
 ##### Paragraaf 16.2.2.1. Algemeen
