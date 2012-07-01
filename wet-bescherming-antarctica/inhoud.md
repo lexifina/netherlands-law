@@ -6,5 +6,6 @@
 ## § 5. Maatregelen in bijzondere omstandigheden
 ## § 6. Beroep
 ## § 7. Handhaving
+## § 7a. Openbare lichamen Bonaire, Sint-Eustatius en Saba
 ## § 8. Verdere bepalingen
 ## § 9. Slotbepalingen
