@@ -33,9 +33,54 @@ Titel 9.1, Aanwijzing gebied
 ### DEEL VI, WEGEN EN WATERWEGEN
 ### DEEL VII, OVERIGE BEPALINGEN
 ## Bijlagen
-### BIJLAGE I BIJ DE PROVINCIALE OMGEVINGSVERORDENING DRENTHE
-### BIJLAGE II BIJ DE PROVINCIALE OMGEVINGSVERORDENING DRENTHE
-### BIJLAGE III BIJ DE PROVINCIALE OMGEVINGSVERORDENING DRENTHE
+### BIJLAGE I
+BIJ DE POV DRENTHE
+### BIJLAGE II
+BIJ DE POV DRENTHE
+### BIJLAGE III
+BIJ DE POV DRENTHE
+Lijst A en B als bedoeld in artikel 10.7, onder a en b
+## BIJLAGE BIJ HOOFDSTUK 3
+VAN DE PROVINCIALE OMGEVINGSVERORDENING
+N.B.: Tussen haakjes bestuursorgaan (afkorting) en datum van vaststelling.
+1. Overzicht tot de verordening behorend kaartmateriaal
+- Kaart 1, Visie 2020 van de Omgevingsvisie (provinciale staten, 2 juni 2010, gewijzigd 10 juli 2010)
+- Kaart 2, Kernkwaliteiten van de Omgevingsvisie (provinciale staten, idem)
+- Kaart 5, Landbouw van de Omgevingsvisie (idem)
+- Kaart 8a, Zoeklocatie grootschalige windenergie van de Omgevingsvisie (idem)
+- Kaart 9, Oppervlaktewater (idem)
+- Kaart 12, Overige aanduidingen (idem)
+- Kaart Bestaand stedelijk gebied
+- Kaart EHS Concretisering 2010
+- Kaart Begrenzing Nationaal Landschap Drentsche Aa
+2. Overzicht relevante beleidsstukken
+- Omgevingsvisie Drenthe (provinciale staten, 2 juni 2010, gewijzigd 10 juli 2010)
+- Cultuurhistorisch Kompas (juni 2009)
+- Structuurvisie Ondergrond (ontwerp van 30 juni 2010)
+- Beleidsnota wAardevol Drenthe (ook: Beleidsnota aardkundige waarden, gedeputeerde staten, 6 juli 2010)
+- Beleidskader Co-Vergisting (gedeputeerde staten, 17 november 2006)
+- Nota Landschap (provinciale staten, november 1998)
+- Landschapsvisie Drentsche Aa (provinciale staten, mei 2004)
+- Brochure Onrechtmatige bewoning van recreatieverblijven; handreiking voor gemeenten (VROM, 2007)
+- Convenant Bedrijventerreinen 2010-2020 (Rijk en provincie Drenthe, 29 september 2009)
+- Bestuursovereenkomst ILG 2007-2013 (Rijk en provincie Drenthe, 18 december 2006)
+- Beleidsregel concretisering EHS (gedeputeerde staten, 21 januari 2008, in werking 11 december 2007)
+- Natuurbeheerplan Drenthe, versie 2011 (bevat Beheertypekaart) (gedeputeerde staten, 6 juli 2010)
+- Uitvoeringsprogramma Nationaal Landschap Drentsche Aa (gedeputeerde staten 12 juni 2007)
+- Mid Term Review Provinciaal Meerjarenprogramma Landelijk Gebied (gedeputeerde staten, 29 juni 2010)
+- Nota Ruimte (vaststelling door Tweede Kamer, 17 mei 2005, Eerste Kamer, 17 januari 2006)
+- Spelregels van de EHS (Rijk, 29 mei 2007, bijlage geweest bij kamerbrief 29 juni 2007)
+- (Concept) handreiking bestaand stedelijk gebied (TU Delft, versie 26 maart 2010)
+3. Overzicht wetgeving, verdere stukken waaraan wordt gerefereerd
+- Wet ruimtelijke ordening (ook wel afgekort tot: Wro)
+- Wet milieubeheer (ook wel afgekort tot: Wm)
+- Wet op de waterhuishouding
+- Crisis- en Herstelwet (ook wel afgekort tot: CHW)
+- Grondwaterwet
+- Besluit ruimtelijke ordening (ook wel afgekort tot: Bro)
+- (Ontwerp-)AMvB Ruimte (d.d. 29 mei 2009)
+- Europese Kaderrichtlijn Water (KRW)
+- Handreiking Bedrijven en Milieuzonering (VNG, 2009)
 ## Toelichting
 ### ALGEMEEN
 ### DEEL I, ALGEMEEN
