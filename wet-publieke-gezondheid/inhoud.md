@@ -19,4 +19,5 @@
 ## Hoofdstuk VII. Handhaving
 ### § 1. Toezicht
 ### § 2. Strafbepalingen
+## Hoofdstuk Va. Openbare lichamen Bonaire, Sint Eustatius en Saba
 ## Hoofdstuk VIII. Overige bepalingen

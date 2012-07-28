@@ -1,0 +1,3 @@
+# Artikel 68h
+1. Wat betreft het bij of krachtens deze wet voor de openbare lichamen Bonaire, Sint Eustatius en Saba bepaalde zijn de ambtenaren van het Staatstoezicht op de Volksgezondheid belast met het uitoefenen van de in artikel 36, eerste en tweede lid, van de Gezondheidswet genoemde taken. Artikel 36, derde lid, van de Gezondheidswet is niet van toepassing.
+2. Met de opsporing van de bij of krachtens deze wet in de openbare lichamen Bonaire, Sint Eustatius en Saba strafbare gestelde feiten zijn, onverminderd artikel 184 van het Wetboek van Strafvordering BES, belast de ambtenaren van het Staatstoezicht op de Volksgezondheid.
