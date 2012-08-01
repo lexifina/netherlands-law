@@ -43,6 +43,7 @@
 ### Titel 4. Het Centraal register beroepsonderwijs
 ## Hoofdstuk 6a. Het onderwijsaanbod educatie
 ### Titel 1. De educatie, verzorgd door instellingen als bedoeld in artikel 1.4a.1
+### Titel 2. Ontneming recht op examinering educatie
 ## Hoofdstuk 7. Het onderwijs
 ### Titel 1. Het onderwijs
 ### Titel 2. Het beroepsonderwijs
