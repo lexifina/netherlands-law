@@ -1,0 +1,2 @@
+# Artikel II. Overgangsbepalingen
+In het schooljaar 2013–2014 wordt voor de eerste maal de gelegenheid geboden tot het afleggen van een centraal examen bouwtechniek vmbo op basis van het gewijzigde examenprogramma zoals beschreven in artikel I van deze regeling, en wordt voor de laatste maal de gelegenheid geboden tot het afleggen van een centraal examen bouwtechniek vmbo op basis van het examenprogramma zoals dat luidde vóór inwerkingtreding van deze regeling voor leerlingen die in 2013–2014 voor de tweede maal een vmbo-examen afleggen.
