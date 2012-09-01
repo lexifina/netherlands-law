@@ -1,0 +1,2 @@
+# Inhoud
+## Privacy verklaring
