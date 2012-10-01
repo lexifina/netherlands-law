@@ -1,0 +1,2 @@
+# Artikel 121c
+Onze Minister wie het aangaat kan ambtenaren aanwijzen ten behoeve van het toezicht op de uitvoering van de aan het provinciebestuur bij of krachtens andere wet dan deze opgedragen taken. Deze ambtenaren beschikken over de bevoegdheden van de artikelen 5:15 tot en met 5:17 van de Algemene wet bestuursrecht. De artikelen 5:12, 5:13 en 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.
