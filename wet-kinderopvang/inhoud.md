@@ -17,7 +17,7 @@
 #### Paragraaf 1. Toezicht op de naleving
 #### Paragraaf 2. Gemeentelijk ingrijpen
 #### Paragraaf 2a. Informatieverstrekking aan de GGD
-#### Paragraaf 3. Rijkstoezicht op gemeentelijk toezicht en ingrijpen
+#### Paragraaf 3. Informatie aan minister door colleges van burgemeester en wethouders
 ### Afdeling 5. Opsporing en sancties
 #### Paragraaf 1. Opsporing
 #### Paragraaf 2. Bestuurlijke boeten
@@ -31,6 +31,7 @@
 ### Afdeling 3. Handhaving
 #### Paragraaf 1. Toezicht op de naleving
 #### Paragraaf 2. Gemeentelijk ingrijpen
+#### Paragraaf 3. Informatie aan minister door colleges van burgemeester en wethouders
 ### Afdeling 4. Sancties
 ### Afdeling 5. Experimenten
 ## Hoofdstuk 3. Overgangs- en slotbepalingen
