@@ -1,5 +1,0 @@
-# Artikel II
-1. Indien een subsidie als bedoeld in artikel 2 van de Regeling stimuleringssubsidie doorstroom zorg wordt gevraagd voor een reguliere dienstbetrekking die is aangevangen vóór 1 januari 2005:
-a. blijven de onderdelen 1° en 2° van artikel 1, onder c, van de Regeling stimuleringssubsidie doorstroom zorg zoals deze luidden op de datum vóór de inwerkingtreding van de onderhavige regeling van toepassing naast de nieuwe onderdelen 1° en 2° van artikel 1, onder c, van voornoemde regeling;
-b. wordt bij de subsidieaanvraag gebruik gemaakt van een formulier dat is ingericht overeenkomstig het als bijlage bij de onder a genoemde regeling gevoegde model zoals dat luidde op de datum vóór de inwerkingtreding van de onderhavige regeling.
-2. Het eerste lid, onder b, is niet van toepassing indien de betrokken werknemer in het jaar voorafgaande aan de reguliere dienstbetrekking werkzaam is geweest in een dienstbetrekking als bedoeld in artikel 1, onder c, onderdeel 2°, van de Regeling stimuleringssubsidie doorstroom zorg.
