@@ -1,0 +1,2 @@
+# Artikel IV
+De onderdelen B, D en H tot en met L van artikel I en onderdelen C en D van artikel II van dit besluit blijven buiten toepassing ten aanzien van het verblijfsrecht van de vreemdeling wiens verblijfsvergunning, bedoeld in artikel 14 van de Wet, is verleend voor de inwerkingtreding van dit besluit en wiens aanvraag tot verlenging van zijn verblijf niet kon worden afgewezen op grond van het recht zoals dat gold op de dag voor inwerkingtreding van dit besluit.
