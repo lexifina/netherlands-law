@@ -1,0 +1,4 @@
+# Artikel 9a
+1. Bij het rechtstreeks leveren, bedoeld in artikel 1, derde lid, onderdeel e, van verordening (EG) nr. 853/2004 van grof vrij wild wordt voldaan aan bijlage III, sectie IV, hoofdstuk II, onderdelen 1, 2, 4 en 5, van verordening (EG) nr. 853/2004.
+2. Bij het rechtstreeks leveren, bedoeld in artikel 1, derde lid, onderdeel e, van verordening (EG) nr. 853/2004 van klein vrij wild wordt voldaan aan bijlage III, sectie IV, hoofdstuk III, onderdelen 1, 2 en 4, van verordening (EG) nr. 853/2004.
+3. Het onderzoek, bedoeld in bijlage III, sectie IV, hoofdstuk II, onderdeel 2, en bijlage III, sectie IV, hoofdstuk III, onderdeel 1, van verordening (EG) nr. 853/2004, wordt uitgevoerd door een gekwalificeerd persoon als bedoeld in bijlage III, sectie IV, hoofdstuk I, van verordening (EG) nr. 853/2004.
