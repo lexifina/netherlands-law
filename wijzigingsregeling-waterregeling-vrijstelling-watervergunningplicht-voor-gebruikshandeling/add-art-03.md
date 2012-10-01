@@ -1,0 +1,2 @@
+# Artikel III
+Indien vóór het tijdstip van inwerkingtreding van artikel I, onderdelen B en C, van deze regeling een aanvraag om een watervergunning is gedaan voor een werk of activiteit welke op grond van artikel 6.12 of 6.12a van de Waterregeling, als gewijzigd door deze regeling, is vrijgesteld van de watervergunningplicht, of daarvoor een watervergunning is verleend welke op dat tijdstip nog niet onherroepelijk is, wordt de aanvraag als melding in de zin van artikel 6.14, eerste lid, van de Waterregeling aangemerkt. artikel 6.15 van de Waterregeling is van toepassing.
