@@ -1,5 +1,5 @@
 # Artikel 10a
 1. Indien de schouwing, bedoeld in artikel 7, eerste lid, een minderjarige betreft en is verricht door de behandelende arts, geeft deze een verklaring van overlijden slechts af na overleg met de gemeentelijke lijkschouwer.
-2. [Dit lid is nog niet in werking getreden.]
-3. [Dit lid is nog niet in werking getreden.]
-4. [Dit lid is nog niet in werking getreden.]
+2. De gemeentelijke lijkschouwer kan, na de minderjarige te hebben geschouwd, in afwijking van artikel 10, eerste lid, zorg dragen voor een nader onderzoek naar de doodsoorzaak. Een nader onderzoek vindt niet plaats, indien de lijkschouwer vermoedt dat het overlijden het gevolg is van een strafbaar feit.
+3. De behandelende arts en andere betrokken hulpverleners verstrekken de gemeentelijke lijkschouwer die het nader onderzoek leidt, op diens verzoek terstond de informatie dan wel inzage in of afschrift van bescheiden over de overleden minderjarige, die hij noodzakelijk acht in het kader van het nader onderzoek. De lijkschouwer gebruikt de informatie uitsluitend met het doel de doodsoorzaak vast te stellen.
+4. Na het onderzoek geeft de lijkschouwer een verklaring van overlijden af dan wel brengt hij door invulling van een formulier onverwijld verslag uit aan de officier van justitie en waarschuwt hij onverwijld de ambtenaar van de burgerlijke stand.
