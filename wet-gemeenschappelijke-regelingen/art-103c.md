@@ -1,4 +1,4 @@
 # Artikel 103c
 1. De aanwijzing, bedoeld in artikel 99, eerste lid, kan ook betreffen de deelneming van gemeenten aan een regeling als bedoeld in de hoofdstukken IV en VI, alsmede VIII, voor zover daaraan provincies deelnemen, met dien verstande dat de aanwijzing wordt gegeven door Onze Minister wie het aangaat, in overeenstemming met Onze Minister van Binnenlandse Zaken. Artikel 99, derde lid, is van overeenkomstige toepassing.
-2. Bij de aanwijzing, bedoeld in het eerste lid, stelt Onze Minister wie het aangaat een termijn binnen welke een regeling ter kennisneming aan hem dient te worden gezonden. Artikel 103 is van overeenkomstige toepassing.
+2. Bij de aanwijzing, bedoeld in het eerste lid, stelt Onze Minister wie het aangaat een termijn binnen welke een regeling ter kennisneming aan hem dient te worden gezonden.
 3. Bij toepassing van het eerste lid pleegt Onze Minister wie het aangaat tevens overleg met de besturen van de betrokken waterschappen, andere openbare lichamen en rechtspersonen. Bij toepassing van het tweede lid worden deze besturen tevens gehoord.
