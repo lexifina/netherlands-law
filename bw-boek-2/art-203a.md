@@ -1,9 +1,0 @@
-# Artikel 203a
-1. Indien voor of bij de oprichting op aandelen wordt gestort in geld, moeten aan de akte van oprichting een of meer verklaringen worden gehecht, inhoudende dat de bedragen die op de bij de oprichting te plaatsen aandelen moeten worden gestort:
-a. hetzij terstond na de oprichting ter beschikking zullen staan van de vennootschap;
-b. hetzij alle op een zelfde tijdstip, ten vroegste vijf maanden voor de oprichting, op een afzonderlijke rekening stonden welke na de oprichting uitsluitend ter beschikking van de vennootschap zal staan, mits de vennootschap de stortingen in de akte aanvaardt.
-2. Indien vreemd geld is gestort, moet uit de verklaring blijken tegen hoeveel geld het vrijelijk kon worden gewisseld op een dag waarop daarmee krachtens artikel 191a lid 3 kon worden voldaan aan de stortingsplicht.
-3. Een verklaring als bedoeld in het eerste lid kan slechts worden afgelegd door een financiële onderneming als bedoeld in artikel 1:1 van de Wet op het financieel toezicht die in de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte het bedrijf van bank mag uitoefenen. De verklaring kan slechts worden afgegeven aan een notaris.
-4. Worden voor de oprichting aan de rekening, bedoeld in onderdeel b van lid 1, bedragen onttrokken, dan zijn de oprichters hoofdelijk jegens de vennootschap verbonden tot vergoeding van die bedragen, totdat de vennootschap de onttrekkingen uitdrukkelijk heeft bekrachtigd.
-5. De notaris moet de bank wier verklaring hij heeft ontvangen terstond verwittigen van de oprichting. Indien de oprichting niet doorgaat, moet hij de bank de verklaring terugzenden.
-6. Indien na de oprichting in vreemd geld is gestort, legt de vennootschap binnen twee weken na de storting een verklaring, als bedoeld in lid 2, van een in het derde lid bedoelde bank neer ten kantore van het handelsregister.

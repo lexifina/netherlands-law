@@ -1,4 +1,4 @@
 # Artikel 224a
 1. Een onderwerp, waarvan de behandeling schriftelijk is verzocht door een of meer houders van aandelen die alleen of gezamenlijk ten minste een honderdste gedeelte van het geplaatste kapitaal vertegenwoordigen, wordt opgenomen in de oproeping of op dezelfde wijze aangekondigd indien de vennootschap het verzoek niet later dan op de dertigste dag voor die van de vergadering heeft ontvangen en mits geen zwaarwichtig belang van de vennootschap zich daartegen verzet. In de statuten kan het vereiste gedeelte van het kapitaal lager worden gesteld en de termijn voor indiening van het verzoek worden verkort.
-2. Voor de toepassing van dit artikel worden met de houders van aandelen gelijkgesteld de houders van de certificaten van aandelen die met medewerking van de vennootschap zijn uitgegeven.
+2. Voor de toepassing van dit artikel worden met de houders van aandelen gelijkgesteld anderen aan wie het vergaderrecht toekomt.
 3. Tenzij de statuten anders bepalen, wordt aan de eis van schriftelijkheid van het verzoek als bedoeld in lid 1 voldaan indien dit verzoek elektronisch is vastgelegd.

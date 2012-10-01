@@ -1,0 +1,3 @@
+# Artikel 341a
+1. Wordt een vonnis als bedoeld in artikel 340 lid 1 na het instellen van een rechtsmiddel vernietigd, dan blijft de rechtsgrond voor op grond van dat vonnis verrichte handelingen in stand, maar ontstaat voor partijen een verbintenis tot ongedaanmaking van de reeds ingetreden gevolgen.
+2. Indien de reeds ingetreden gevolgen bezwaarlijk ongedaan kunnen worden gemaakt of de billijkheid zulks anderszins vordert, kan de rechter desgevraagd de verplichting tot ongedaanmaking beperken of uitsluiten. Hij kan aan een partij die daardoor onbillijk wordt bevoordeeld, de verplichting opleggen tot een uitkering in geld aan de partij die benadeeld wordt.
