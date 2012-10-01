@@ -1,0 +1,3 @@
+# Artikel XII
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In het koninklijk besluit wordt zo nodig toepassing gegeven aan artikel 16 van de Tijdelijke referendumwet.
+2. Bij koninklijk besluit kan ten aanzien van gemeenten waar op 6 maart 2002 geen stemming voor de verkiezing van de leden van de raad plaatsvindt, een ander tijdstip worden vastgesteld waarop deze wet in werking treedt. Daarbij kan voor de verschillende artikelen of onderdelen daarvan het tijdstip van inwerkingtreding verschillend worden vastgesteld.

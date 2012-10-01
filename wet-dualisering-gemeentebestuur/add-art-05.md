@@ -1,0 +1,4 @@
+# Artikel V
+1. De in artikel I, onderdeel MMMM, bedoelde verordeningen worden vastgesteld vóór de vaststelling van de begroting over het jaar 2004, doch uiterlijk op 15 november 2003. De in dit onderdeel bedoelde accountantsverklaring en het in dit onderdeel bedoelde verslag van bevindingen voldoen met ingang van het jaar 2004 aan de in dit onderdeel gestelde eisen.
+2. De in artikel I, onderdelen I en NNNN, bedoelde verordeningen, de in artikel I, onderdelen D, N en DD, bedoelde gedragscodes en de in artikel I, onderdelen QQQ en SSS bedoelde regels worden vastgesteld binnen een jaar na de datum van inwerkingtreding van deze onderdelen.
+3. De raad kan besluiten de in het tweede lid genoemde termijn voor de vaststelling van de in artikel I, onderdeel NNNN, bedoelde verordening en de in artikel I, onderdelen D, N en DD, bedoelde gedragscodes met ten hoogste een jaar te verlengen.
