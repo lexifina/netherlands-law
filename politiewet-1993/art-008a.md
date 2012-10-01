@@ -1,0 +1,4 @@
+# Artikel 8a
+1. Een ambtenaar van politie aangesteld voor de uitvoering van de politietaak, is bevoegd tot het vorderen van inzage van een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht van personen, voor zover dat redelijkerwijs noodzakelijk is voor de uitoefening van de politietaak.
+2. Gelijke bevoegdheid komt toe aan de buitengewoon opsporingsambtenaar als bedoeld in artikel 142, eerste lid, van het Wetboek van Strafvordering, voor zover dat redelijkerwijs noodzakelijk is voor de uitoefening van zijn taak.
+3. Gelijke bevoegdheid komt toe aan de militair van de Koninklijke marechaussee, voor zover dat redelijkerwijs noodzakelijk is voor de uitoefening van zijn politietaak, bedoeld in artikel 6, eerste lid, en aan de militair van de Koninklijke marechaussee of van enig ander onderdeel van de krijgsmacht die op grond van artikel 58, eerste lid, onderscheidenlijk artikel 59, eerste lid, bijstand verleent aan de politie.

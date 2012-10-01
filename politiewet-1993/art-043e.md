@@ -1,0 +1,3 @@
+# Artikel 43e
+1. Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie doen periodiek onderzoek naar de verwezenlijking van de doelstellingen, bedoeld in artikel 43b.
+2. De korpsbeheerder verstrekt aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties alle informatie over de wijze waarop uitvoering wordt gegeven aan de verwezenlijking van de doelstellingen, bedoeld in artikel 43b. Bij of krachtens algemene maatregel van bestuur op voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met Onze Minister van Justitie kunnen hierover nadere regels worden gegeven.

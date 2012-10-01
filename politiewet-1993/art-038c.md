@@ -1,0 +1,3 @@
+# Artikel 38c
+1. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties stelt ten minste eenmaal in de vier jaar in overeenstemming met het hoofd van het landelijk parket het ontwerp van het beleidsplan voor het Korps landelijke politiediensten op. In het beleidsplan wordt in ieder geval aangegeven met welke personele en financiële middelen wordt beoogd het plan en zijn onderdelen te verwezenlijken.
+2. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties stelt jaarlijks in overeenstemming met het hoofd van het landelijk parket het ontwerp van het jaarverslag voor het Korps landelijke politiediensten op.

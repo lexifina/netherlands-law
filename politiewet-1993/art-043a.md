@@ -1,0 +1,3 @@
+# Artikel 43a
+1. Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie stellen ten minste eenmaal in de vier jaar de hoofdlijnen vast met betrekking tot het te voeren beleid ten aanzien van de taakuitvoering van de politie en het te voeren beheer van de politie voor de eerstkomende vier jaar.
+2. Zodra de hoofdlijnen, bedoeld in het eerste lid, zijn vastgesteld, doen Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie hiervan mededeling door overlegging ervan aan de Staten-Generaal en door toezending ervan aan de regionale colleges, de korpsbeheerders, het College van procureurs-generaal, de hoofdofficieren van justitie en de korpschefs.
