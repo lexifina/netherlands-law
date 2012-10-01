@@ -60,14 +60,12 @@
 ##### § 8.3.2.5. Informatievoorziening en gegevensverstrekking
 ##### § 8.3.2.6. Financiële aspecten
 ##### § 8.3.2.7. Commissie regionaal overleg luchthaven
-##### § 8.3.2.8. Aanwijzingen
 ##### § 8.3.2.9. Bijzondere bepalingen in verband met gevolgen die een provinciegrens overstijgen
 #### Afdeling 8.3.3. Luchthavens van regionale betekenis met luchthavenregeling
 ##### § 8.3.3.1. Algemeen
 ##### § 8.3.3.2. Luchthavenregeling
 ##### § 8.3.3.3. Informatievoorziening
 ##### § 8.3.3.4. Commissie regionaal overleg luchthaven
-##### § 8.3.3.5. Aanwijzingen
 ### Titel 8.4. Luchthavens van nationale betekenis
 #### Afdeling 8.4.1. Algemeen
 #### Afdeling 8.4.2. Luchthavens van nationale betekenis met luchthavenbesluit
