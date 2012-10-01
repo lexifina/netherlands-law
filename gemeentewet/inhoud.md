@@ -51,3 +51,10 @@
 ### Hoofdstuk XVII. Schorsing en vernietiging
 ## Titel VI
 ## Titel VII. Overgangs- en slotbepalingen
+## A. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
+## B. Ministerie van Sociale Zaken en Werkgelegenheid
+## C. Ministerie van Infrastructuur en Milieu
+## D. Ministerie van Volksgezondheid, Welzijn en Sport
+## E. Ministerie van Onderwijs, Cultuur en Wetenschap
+## F. Ministerie van Financiën
+## G. Ministerie van Veiligheid en Justitie
