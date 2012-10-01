@@ -19,7 +19,7 @@
 #### Afdeling 1. Algemene bepalingen
 #### Afdeling 2. De aandelen
 #### Afdeling 3. Het vermogen van de vennootschap
-#### Afdeling 4. De algemene vergadering van aandeelhouders
+#### Afdeling 4. De algemene vergadering
 #### Afdeling 5. Het bestuur van de vennootschap en het toezicht op het bestuur
 #### Afdeling 6. De raad van commissarissen bij de grote besloten vennootschap met beperkte aansprakelijkheid
 #### Afdeling 7. De ontbinding van de vennootschap
