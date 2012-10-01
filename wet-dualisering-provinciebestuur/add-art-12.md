@@ -1,0 +1,2 @@
+# Artikel XII
+Commissies die zijn ingesteld op grond van artikel 80 van de Provinciewet zoals dat luidde onmiddellijk voorafgaand aan de datum van inwerkintreding van artikel I van deze wet en waaraan voor deze datum bevoegdheden zijn overgedragen, kunnen deze bevoegdheden tot uiterlijk twee jaar na deze datum blijven uitoefenen of, bij eerdere opheffing van de commissie, tot de datum van opheffing, met inachtneming van het bepaalde bij of krachtens hoofdstuk V van de Provinciewet zoals dat luidde onmiddellijk voorafgaand aan de datum van inwerkingtreding.

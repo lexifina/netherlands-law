@@ -1,0 +1,2 @@
+# Artikel XVI
+Op besluiten van provinciale staten die zijn genomen op grond van artikel 151 van de Provinciewet, zoals dat luidde onmiddellijk voorafgaande aan de datum van inwerkingtreding van deze wet, blijven de artikelen 8, eerste lid, aanhef en onderdeel b, en 26 van de Tijdelijke referendumwet, zoals deze artikelen luidden onmiddellijk voorafgaande aan de datum van inwerkingtreding van artikel I van deze wet, van toepassing.

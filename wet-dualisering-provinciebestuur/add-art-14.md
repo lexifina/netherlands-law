@@ -1,0 +1,2 @@
+# Artikel XIV
+Artikel 89 van de Provinciewet zoals dat luidde onmiddellijk voorafgaand aan de datum van inwerkingtreding van artikel I van deze wet blijft van toepassing op vaste commissies van advies aan gedeputeerde staten of aan de commissaris van de Koning die zijn ingesteld voor deze datum, tot de dag van eerste samenkomst van de bij de periodieke verkiezing van 2003 gekozen leden van provinciale staten.

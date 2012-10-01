@@ -1,0 +1,3 @@
+# Artikel XIX
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In het koninklijk besluit wordt zo nodig toepassing gegeven aan artikel 16 van de Tijdelijke referendumwet.
+2. Indien het Staatsblad waarin het koninklijk besluit tot inwerkingtreding wordt geplaatst, wordt uitgegeven na 30 november 2002, wordt in dit koninklijk besluit bepaald dat artikel III in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het koninklijk besluit wordt geplaatst en terugwerkt tot en met 1 december 2002.

@@ -1,0 +1,4 @@
+# Artikel XI
+1. De ambtenaar die op de dag voorafgaand aan de datum van inwerkingtreding van artikel I van deze wet werkzaam is op basis van een aanstelling door provinciale staten, wordt met ingang van deze datum geacht te zijn aangesteld door gedeputeerde staten.
+2. De door provinciale staten op grond van de artikelen 125, 125c en 134 van de Ambtenarenwet vastgestelde voorschriften die op de dag voorafgaand aan de datum van inwerkingtreding van artikel I van deze wet gelden worden met ingang van deze datum geacht te zijn vastgesteld door gedeputeerde staten.
+3. Het eerste en tweede lid zijn niet van toepassing op de ambtenaar die door provinciale staten voorafgaande aan de datum van inwerkingtreding van artikel I van deze wet is benoemd om hen met ingang van deze datum als griffier te ondersteunen dan wel om met ingang van deze datum op de griffie werkzaam te zijn.
