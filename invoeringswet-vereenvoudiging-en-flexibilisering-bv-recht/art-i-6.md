@@ -1,0 +1,2 @@
+# Artikel I.6
+[Wijzigt de Wet op de economische delicten.]
