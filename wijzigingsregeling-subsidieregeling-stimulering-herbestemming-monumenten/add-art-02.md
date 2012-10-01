@@ -1,0 +1,3 @@
+# Artikel II. Overgangsbepaling bezwaar en beroep en financiële verantwoording
+1. Bezwaar en beroep tegen besluiten van de Minister van Onderwijs, Cultuur en Wetenschap op grond van de Subsidieregeling stimulering herbestemming monumenten, zoals deze voor 1 oktober 2012 luidde, worden afgehandeld overeenkomstig het bepaalde in genoemde regeling, zoals deze voor 1 oktober 2012 luidde.
+2. De financiële verantwoording met betrekking tot de activiteiten waarvoor op grond van de Subsidieregeling stimulering herbestemming monumenten, zoals deze voor 1 oktober 2012 luidde, subsidie is verstrekt, vindt plaats overeenkomstig het bepaalde in genoemde regeling, zoals deze voor 1 oktober 2012 luidde.
