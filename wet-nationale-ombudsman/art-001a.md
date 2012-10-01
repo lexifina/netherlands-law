@@ -5,6 +5,5 @@ b. bestuursorganen van provincies, gemeenten, openbare lichamen, waterschappen e
 c. bestuursorganen aan welke bij of krachtens wettelijk voorschrift een taak met betrekking tot de politie is opgedragen, voor zover het de uitoefening van die taak betreft;
 d. bestuursorganen van provincies, gemeenten, openbare lichamen, waterschappen en gemeenschappelijke regelingen voor zover het de gedragingen van voor hen werkzame buitengewoon opsporingsambtenaren betreft;
 e. andere bestuursorganen, daaronder mede begrepen bestuursorganen in de openbare lichamen, voor zover niet bij algemene maatregel van bestuur uitgezonderd.
-2. [Vervallen.]
-3. In afwijking van het eerste lid is deze wet niet van toepassing op gedragingen van de Commissie gelijke behandeling, bedoeld in de Algemene wet gelijke behandeling.
-4. Een gedraging van een ambtenaar, verricht in de uitoefening van zijn functie, wordt aangemerkt als een gedraging van het bestuursorgaan onder wiens verantwoordelijkheid hij werkzaam is.
+2. Een gedraging van een ambtenaar, verricht in de uitoefening van zijn functie, wordt aangemerkt als een gedraging van het bestuursorgaan onder wiens verantwoordelijkheid hij werkzaam is.
+3. Op een gedraging van het College, genoemd in artikel 1 van de Wet College voor de rechten van de mens, is deze wet slechts van toepassing voor zover het gaat om een gedraging van een ambtenaar die behoort tot het in artikel 18 van die wet bedoelde bureau.
