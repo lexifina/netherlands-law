@@ -12,11 +12,14 @@ Voorschriften toeslag ruige stalmest (artikel 4.1.1.6, eerste lid, onderdeel b)
 a. tussen 1 februari en de begindatum van de rustperiode van het betreffende agrarische beheerpakket, óf
 b. vanaf de dag volgend op de einddatum van de rustperiode van het betreffende agrarische beheerpakket tot 1 september.
 4. In afwijking van punt 3, onderdeel b, mag gedurende de tijd dat de rustperiode overeenkomstig onderdeel C, subonderdeel 1, van de onderhavige bijlage is verlengd, geen ruige stalmest uitgereden worden.
-5. Van het uitrijden van de ruige stalmest wordt binnen twee weken na dat uitrijden melding gedaan met gebruikmaking van een daartoe door of vanwege Gedeputeerde Staten vastgesteld formulier. De melding gaat vergezeld van een kaart met een topografische ondergrond waarop de beheereenheid is, dan wel beheereenheden zijn, aangegeven waarop de ruige stalmest is uitgereden.
+5. Indien de ruige stalmest wordt uitgereden op een beheereenheid waarop het agrarisch beheerpakket met de aanduiding A01.01.04a wordt uitgevoerd, dan wordt de ruige stalmest in één keer in één van de onderstaande periodes uitgereden:
+a. tussen 1 februari en 1 april, óf
+b. tussen 1 juli en 1 september.
+6. Van het uitrijden van de ruige stalmest wordt binnen twee weken na dat uitrijden melding gedaan met gebruikmaking van een daartoe door of vanwege Gedeputeerde Staten vastgesteld formulier. De melding gaat vergezeld van een kaart met een topografische ondergrond waarop de beheereenheid is, dan wel beheereenheden zijn, aangegeven waarop de ruige stalmest is uitgereden.
 Onderdeel C:
 Voorschriften aanvullende toeslag collectief agrarisch natuurbeheer (artikel 4.1.2.4, eerste lid)
 Subonderdeel 1 (verlengen rustperiode)
-1. Op de beheereenheid wordt in het betreffende beheerjaar een agrarisch beheerpakket uitgevoerd dat in bijlage 3, onderdeel B.1, is opgenomen onder de aanduiding A01.01.01, A01.01.02 of A01.01.06.
+1. Op de beheereenheid wordt in het betreffende beheerjaar een agrarisch beheerpakket uitgevoerd dat in bijlage 3, onderdeel B.1, is opgenomen onder de aanduiding A01.01.01, A01.01.02, A01.01.05 of A01.01.06.
 2. De in artikel 4.1.2.4, eerste lid, bedoelde landbouwer blijft, na afloop van de periode waarin in dat beheerjaar aan de aan het betreffende agrarische beheerpakket verbonden beheereisen dient te worden voldaan indien niet om de toeslag zou zijn verzocht, net zolang voldoen aan die beheereisen als de aanwezigheid en bescherming van de op de betreffende beheereenheid aanwezige weidevogels in het betreffende beheerjaar vereisen.
 Subonderdeel 2 (kuikenvelden)
 1. Op de beheereenheid wordt in het betreffende beheerjaar een agrarisch beheerpakket uitgevoerd dat in bijlage 3, onderdeel B.1, is opgenomen onder de aanduiding A01.01.01, A01.01.02, A01.01.04 voor zover het de varianten a1 tot en met a4 betreft, of A01.01.06.
@@ -24,3 +27,13 @@ Subonderdeel 2 (kuikenvelden)
 3. De in punt 2 bedoelde stroken worden:
 a. zodanig aangelegd dat de op de betreffende beheereenheid aanwezige weidevogels te allen tijde een vluchtmogelijkheid hebben, indien nodig naar een aangrenzend perceel waar voldoende bescherming gewaarborgd is;
 b. net zolang in stand gehouden als de aanwezigheid en bescherming van de op de betreffende beheereenheid aanwezige weidevogels in het betreffende beheerjaar vereisen.
+Subonderdeel 3 (nestgelegenheid voor de Zwarte stern)
+1. De beheereenheid ligt in een door Gedeputeerde Staten van Utrecht in het natuurbeheerplan aangewezen gebied.
+2. De beheereenheid bestaat uit twee randen van ten minste 250 meter lengte, gelegen aan weerszijden van een sloot, waarop door één en dezelfde begunstigde het agrarische beheerpakket met de aanduiding A01.01.05b wordt uitgevoerd.
+3. Aanvullend op, dan wel afwijkend van, de instap- en beheereisen van het agrarische beheerpakket met de aanduiding A01.01.05b worden de eisen in de onderstaande punten in acht genomen.
+4. Per rand wordt, gerekend vanaf de slootzijde, een aaneengesloten strook van 2 meter breedte en 250 meter lengte tussen 1 april en 1 augustus niet gemaaid, gerold, gesleept of bemest, en is het gebruik van chemische bestrijdingsmiddelen in die periode niet toegestaan. Bovendien wordt die strook tussen 15 juni en 1 augustus niet beweid.
+5. Indien het overige deel van de beheereenheid of het belendende perceel beweid wordt, dient vóór 15 juni een (tijdelijk) raster te worden geplaatst op een afstand van ten minste 0,5 meter van de in punt 4 bedoelde strook, bezien vanuit de zijde van het overige deel van de beheereenheid dan wel het belendende perceel.
+In dat geval kunnen Gedeputeerde Staten, op basis van het in artikel 4.1.2.4, tweede lid, bedoelde advies van de gebiedscoördinator en met inachtneming van het bepaalde in artikel 1.3, tweede tot en met vierde lid, de toeslag verhogen met een tegemoetkoming voor de tijd die de begunstigde heeft besteed aan het plaatsen van het raster.
+6. Halverwege de in punt 4 bedoelde strook worden, op een onderlinge afstand van ten minste 4 tot 5 meter en uiterlijk op 1 mei, minimaal 5 en maximaal 10 vlotjes in de sloot uitgelegd als nestgelegenheid voor de Zwarte stern. De vlotjes voldoen aan de eisen zoals geformuleerd door de werkgroep van de Agrarische Natuurvereniging "De Utrechtse Venen.
+7. De vlotjes worden, voor zover zij niet langer door de Zwarte stern gebruikt worden, uiterlijk op 1 september uit het water gehaald, schoongemaakt, gedroogd en opgeslagen.
+8. De begunstigde houdt bij op hoeveel vlotjes gebroed wordt en hoeveel jongen er uit komen. Deze gegevens worden door de begunstigde na afloop van het broedseizoen ter beschikking gesteld aan de werkgroep, bedoeld in punt 6.

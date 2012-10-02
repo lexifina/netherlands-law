@@ -58,13 +58,13 @@ Beheerpakketten: A01.01.04a Legselbeheer op grasland; A01.01.04b Legselbeheer op
 Beheerpakket A01.01.05: Kruidenrijk weidevogelgrasland
 Instapvoorwaarden voor het beheertype:
 1. De beheereenheid bestaat uit grasland.
-2. De beheereenheid is ten minste 0,5 hectare groot.
-3. Cumulatie met alle beheerpakketten uitgesloten, uitgezonderd A01.03.01 en de beheerspakketten uit de Subsidieregeling agrarisch natuurbeheer Flevoland, bedoeld in artikel 4.1.1.5, derde lid, onderdeel a, van de Subsidieverordening Natuur- en Landschapsbeheer Flevoland 2010.
+2. De beheereenheid is ten minste 0,5 hectare groot. Indien variant A01.01.05b wordt uitgevoerd is de beheereenheid ten minste 100 meter lang en tussen de 2 en 6 meter breed.
+3. Cumulatie met alle beheerpakketten is uitgesloten, uitgezonderd A01.03.01 en de beheerspakketten uit de Subsidieregeling agrarisch natuurbeheer Flevoland bedoeld in artikel 4.1.1.5, derde lid, onderdeel a, van de Subsidieverordening Natuur- en Landschapsbeheer Flevoland 2010.
 Beheereisen:
 1. Gebruik van chemische bestrijdingsmiddelen is slechts toegestaan voor pleksgewijze bestrijding van akkerdistel, ridderzuring en brandnetel.
 2. Uitsluitend bemesting met vaste mest toegestaan buiten de rustperiode.
 3. Er wordt een rustperiode in acht genomen van 1 april tot 15 juni.
-4. In de rustperiode is de beheereenheid niet beweid, gemaaid, gerold, gesleept, of bemest. In deze periode is het gebruik van chemische bestrijdingsmiddelen niet toegestaan.
+4. In de rustperiode is de beheereenheid niet beweid, gemaaid, gerold, gesleept, of bemest. In deze periode is het gebruik van chemische bestrijdingsmiddelen niet toegestaan. Beweiding gedurende de rustperiode is toegestaan indien variant A01.01.05b wordt uitgevoerd.
 5. Het gewas wordt jaarlijks voor 1 augustus afgevoerd door middel van maaien en afvoeren. Tweede keer maaien en afvoeren is toegestaan.
 6. Het grasland mag niet worden gescheurd, gefreesd of heringezaaid.
 Beheerpakket: A01.01.05a: Kruidenrijk weidevogelgrasland A01.01.05b: Kruidenrijke weidevogelgraslandrand
@@ -90,12 +90,10 @@ Beheereisen:
 2. Tussen 1 april en 15 juni is de beheereenheid niet gemaaid, gerold, gesleept, gescheurd, gefreesd, (her)ingezaaid, doorgezaaid of bemest. In deze periode is het gebruik van chemische bestrijdingsmiddelen niet toegestaan.
 Beheerpakket: A01.01.06: Extensief beweid weidevogelgrasland
 Toeslagen
-Toeslag A01.01.07: Ruige mest Instapvoorwaarden voor de toeslag 1. Van toepassing bij A01.01.01, A01.01.02, A01.01.05. A01.01.04a.
-Beheerseisen 1. Op de beheereenheid wordt buiten de rustperiode ruige mest uitgereden in een volume van tenminste 10 en maximaal 20 ton per ha.
-Toeslagpakketten A01.01.07a Ruige mest, rijland A01.01.07b Ruige mest, vaarland
-Toeslag A01.01.08: Kuikenstroken Instapvoorwaarden voor het beheertype: 1. Van toepassing bij A01.01.04a
-Beheereisen: 1. Stroken van minimaal 6 meter breed worden tenminste 2 weken later gemaaid dan de rest van het perceel
-Toeslagpakket A01.01.08: Kuikenstroken
+Toeslag ruige stalmest Voor de voorwaarden wordt verwezen naar bijlage 7, onderdeel B, van de Subsidieverordening Natuur- en Landschapsbeheer Flevoland 2010.
+Varianten: T1: ruige stalmest op rijland; T2: ruige stalmest op vaarland
+Aanvullende toeslag collectief agrarisch natuurbeheer Voor de voorwaarden wordt verwezen naar bijlage 7, onderdeel C, subonderdeel 1 (verlengen rustperiode) en subonderdeel 2 (kuikenvelden) van de Subsidieverordening Natuur- en Landschapsbeheer Flevoland 2010
+Varianten: T3: kuikenvelden; T8: verlengen rustperiode
 A01.02 Bouwland, faunabeheer
 Beheerpakket A01.02.01: Bouwland met broedende akkervogels
 Instapvoorwaarden voor het beheertype:
@@ -129,7 +127,7 @@ Beheerpakket A02.01.02: Botanisch hooiland
 Instapvoorwaarden voor het beheertype: 1. De beheereenheid bestaat uit grasland. 2. De beheereenheid is ten minste 0,5 hectare groot. 3. Cumulatie met alle beheerpakketten is uitgesloten.
 Beheereisen: 1. Gebruik van chemische bestrijdingsmiddelen is slechts toegestaan voor pleksgewijze bestrijding van akkerdistel, ridderzuring en brandnetel. 2. De beheereenheid wordt niet bemest en er wordt geen bagger opgebracht. 3. Beweiding is uitsluitend toegestaan in de periode van 1 augustus tot 1 maart. 4. Het gewas wordt jaarlijks minimaal éénmaal gemaaid en afgevoerd. 5. Het grasland mag niet worden gescheurd, gefreesd of heringezaaid.
 Beheerpakket A02.01.03: Botanische weide- of hooilandrand
-Instapvoorwaarden voor het beheertype: 1. De beheereenheid bestaat uit grasland. 2. De beheereenheid heeft een minimale (rand)breedte van 2 meter en een maximale (rand)breedte van 6 meter. 3. Cumulatie met alle beheerpakketten is uitgesloten
+Instapvoorwaarden voor het beheertype: 1. De beheereenheid bestaat uit grasland. 2. De beheereenheid is ten minste 100 meter lang en tussen de 2 en 6 meter breed. 3. Cumulatie met alle beheerpakketten is uitgesloten
 Beheereisen: 1. Gebruik van chemische bestrijdingsmiddelen is slechts toegestaan voor pleksgewijze bestrijding van akkerdistel, ridderzuring en brandnetel. 2. De beheereenheid wordt niet bemest en er wordt geen bagger opgebracht. 3. Het grasland mag niet worden geklepeld, gescheurd, gefreesd of heringezaaid
 Beheerpakketten: A02.01.03a Voor botanische weiderand geldt: beweiding is toegestaan; A02.01.03b Voor hooilandrand geldt: beweiding is niet toegestaan.
 Beheerpakket A02.01.04: Botanisch bronbeheer
@@ -143,9 +141,10 @@ Instapvoorwaarden voor het beheertype:
 3. Cumulatie met alle beheerpakketten is uitgesloten
 4. In het jaar voorafgaand aan het contract moet u op bedrijfsniveau minimaal 4 verschillende gewassen telen, waaronder graan. Braakliggende grond beschouwen we als een gewas. Hiervan kan worden afgeweken indien de nieuwe verbintenis volt op een milieuverbintenis 24A of 26A.
 Beheereisen:
-1. In de jaren waarin graan (niet zijnde maïs) wordt verbouwd, vindt geen bemesting met kunstmest plaats.
-2. In de jaren waarin graan (niet zijnde maïs) wordt verbouwd, vindt er in de beheereenheid geen mechanische onkruidbestrijding plaats vanaf het zaaien (bij zomergraan) of vanaf 1 april (bij wintergraan) tot de oogst en is het gebruik van chemische onkruidbestrijdingsmiddelen en insecticiden niet toegestaan, met uitzondering van pleksgewijze bestrijding van haarden met akkerdistel, ridderzuring, kleefkruid of haagwinde.
-3. Overig beheer wordt uitgevoerd op basis van één van de drie onderstaande varianten.
+1. Verbouwing van maïs is in het geheel niet toegestaan.
+2. In de jaren waarin graan wordt verbouwd, vindt geen bemesting met kunstmest plaats.
+3. In de jaren waarin graan wordt verbouwd, vindt er in de beheereenheid geen mechanische onkruidbestrijding plaats vanaf het zaaien (bij zomergraan) of vanaf 1 april (bij wintergraan) tot de oogst en is het gebruik van chemische onkruidbestrijdingsmiddelen en insecticiden niet toegestaan, met uitzondering van pleksgewijze bestrijding van haarden met akkerdistel, ridderzuring, kleefkruid of haagwinde.
+4. Overig beheer
 Beheerpakketten: A02.02.01a Drie van de zes jaar graan: In tenminste drie van de zes jaren van beheerperiode wordt graan verbouwd. A02.02.01b Vier van de zes jaar graan: In tenminste vier van de zes jaren van de beheerperiode wordt graan verbouwd. A02.02.01c Vijf van de zes jaar graan: In tenminste vijf van de zes jaren van de beheerperiode wordt graan verbouwd.
 Beheerpakket A02.02.02: Chemie en kunstmestvrij land
 Instapvoorwaarden voor het beheertype:

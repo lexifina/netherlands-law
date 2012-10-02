@@ -17,6 +17,25 @@ A02.01 Botanisch waardevol grasland
 A02.02 Botanisch waardevol akkerland
  | A02.02.01 Akker met waardevolle flora A02.02.02 Chemie en kunstmestvrij land A02.02.03 Akkerflora randen
 Onderdeel B.2. Agrarische beheertypen en bijbehorende regionale agrarische beheerpakketten
+Agrarisch beheerpakket A01.01.04c.Ut: Legselbeheer met hoge dichtheid weidevogels
+Instapeisen:
+1. De beheereenheid is gelegen in een door Gedeputeerde Staten van Utrecht in het natuurbeheerplan aangewezen gebied.
+2. De beheereenheid bestaat uit grasland.
+3. De beheereenheid is ten minste 0,5 ha groot.
+4. Cumulatie met alle beheerpakketten uitgesloten, uitgezonderd A01.03.
+Beheereisen:
+1. De beheereenheid wordt tijdens het broedseizoen een of enkele malen afgezocht op aanwezige legsels, welke worden gemarkeerd.
+2. De beheereenheid wordt niet beweid.
+3. Indien een perceel grasland wordt gemaaid of anderszins bewerkt, wordt een enclave van tenminste 25m2 om de aanwezige nesten gevrijwaard van alle landbouwkundige werkzaamheden.
+4. Op de totale oppervlakte van de beheereenheden waarop in een beheerjaar het onderhavige beheerpakket wordt uitgevoerd, wordt een getrapt maaibeheer uitgevoerd volgens onderstaande voorwaarden:
+a. de eerste maaibeurt vindt niet vóór 1 mei en niet later dan 6 mei plaats, waarbij ten minste 20% van die totale oppervlakte wordt gemaaid;
+b. de tweede maaibeurt vindt niet vóór 8 mei en niet later dan 15 mei plaats, waarbij maximaal 60% van die totale oppervlakte wordt gemaaid;
+c. de derde maaibeurt vindt niet vóór 17 mei en niet later dan 23 mei plaats, waarbij ten minste 20% van die totale oppervlakte wordt gemaaid.
+5. Tussen elke maaibeurt zit een periode van ten minste één week.
+6. Van de gevonden nesten wordt door de begunstigde een nestkaart bijgehouden. Na afloop van het broedseizoen worden deze gegevens door de begunstigde digitaal ter beschikking gesteld aan Gedeputeerde Staten.
+Varianten: A01.01.04c1.Ut: Legselbeheer op grasland met 150 tot 200 broedparen per 100 hectare. A01.01.04c2.Ut: Legselbeheer op grasland met 200 tot 300 broedparen per 100 hectare. A01.01.04c3.Ut: Legselbeheer op grasland met meer dan 300 broedparen per 25 hectare."
+3. De aanduidingen zoals opgenomen in de titel van de in onderdeel B.2 opgenomen agrarische beheerpakketten met de aanduidingen A01.03.02 en A01.05.01 wordt gewijzigd in A01.03.02.Lb respectievelijk A01.05.01.Lb.
+4. De in onderdeel B.2 opgenomen agrarische beheerpakketten met de aanduiding A01.04.01.Lb en A01.04.02.Lb komen als volgt te luiden:
 Agrarische beheertypen | Agrarische beheerpakketten (regionaal)
 A01.01 Weidevogelgebied
 A01.02 Akkerfaunagebied
@@ -28,7 +47,7 @@ A01.05 Bever foerageergebied |
 A02.01 Botanisch waardevol grasland
 A02.02 Botanisch waardevol akkerland
 Beschrijving regionale agrarische beheerpakketten
-Agrarisch beheerpakket A01.03.02: Opvang overzomerende Grauwe ganzen Maasplassen. Instapeisen:
+Agrarisch beheerpakket A01.03.02.Lb: Opvang overzomerende Grauwe ganzen Maasplassen. Instapeisen:
 1. De beheereenheid is een perceel grond, welk minimaal 0,5 hectare groot is en gelegen binnen de begrenzing van de aangegeven zoekgebieden in het beheerplan voor de overzomerende Grauwe gans in Limburg.
 2. De beheereenheid bestaat uit bemest grasland.
 3. Er dient op de beheereenheid in het foerageerseizoen te allen tijde aantrekkelijk gras voor ganzen aanwezig te zijn. Onder aantrekkelijk gras wordt verstaan; gras met een lengte van 5 tot 15 cm. Er dient op geen enkele plaats binnen het foerageergebied gras met een lengte van meer dan 30 cm aanwezig te zijn, tenzij dit niet volgens de goede landbouwpraktijk voorkomen kan worden.
@@ -47,32 +66,32 @@ Aanvullende verplichtingen
 1. Elk jaar vindt er een evaluatie plaats of de doelen zijn gehaald en kunnen de broed- en opgroeilocaties anders ingedeeld worden.
 2. Op of aanmerkingen vanuit de projectleider worden opgevolgd.
 3. De percelen worden ter beschikking gesteld aan alle activiteiten die aan het project gerelateerd zijn (bijvoorbeeld tellingen, taxaties en beoordelingen).
-Agrarisch beheerpakket A01.04.01: Insectenrijk graslandperceelsbeheer Roerdal Instapeisen:
-1. De beheereenheid is een perceel grasland van minimaal 0,5 hectare groot.
-2. Het grasland of de strook is gelegen in het leefgebied Donker Pimpernelblauwtje zoals weergegeven in het Beschermingsplan Donker pimpernelblauwtje Roerdal (Boeren, J., 2005).
+Agrarisch beheerpakket A01.04.01.Lb: Insectenrijk graslandperceelsbeheer Roerdal
+Instapeisen:
+1. De beheereenheid bestaat uit een perceel grasland van minimaal 0,2 hectare groot.
 Beheereisen:
-1. Deze graslanden worden jaarlijks grotendeels gefaseerd gemaaid waarbij het maaisel wordt afgevoerd. Er blijft ook een deel ongemaaid. Bemesting vindt alleen plaats met stalmest of kalk.
-2. Beweiding is toegestaan overeenkomstig de gekozen variant.
+1. De graslanden worden gemaaid conform de beheereisen van de betreffende variant. Buiten de aangegeven periodes is maaien niet toegestaan.
+2. Het grasland mag niet gescheurd, gefreesd, geploegd of heringezaaid worden.
+3. Chemische onkruidbestrijding is niet toegestaan met uitzondering van pleksgewijze bestrijding van jacobskruid, brandnetel, akkerdistel, ridderzuring, haagwinde of kleefkruid.
+4. Beweiding is toegestaan in de periode 15 september tot 1 januari met maximaal 2 GVE per hectare. Buiten deze periode is beweiding niet toegestaan.
 Varianten: A01.04.01a.Lb Insectenrijk graslandperceelsbeheer Roerdal: Basis
-1. Jaarlijks maaien in de periode van 15 september tot 1 januari.
-2. 25 % van de vegetatie niet maaien en in de winter laten overstaan.
-3. Gehele perceel nogmaals maaien tussen 1 mei en 1 juni. Maaisel steeds afvoeren.
+1. De gehele beheereenheid wordt ieder jaar in de periode van 1 mei tot 1 juni gemaaid, waarbij het maaisel wordt afgevoerd.
+2. Ieder jaar wordt 75 % van de beheereenheid in de periode van 15
+september tot 1 januari gemaaid, waarbij het maaisel wordt afgevoerd.
+3. De beheereenheid wordt niet bemest en er wordt geen bagger opgebracht.
 A01.04.01b.Lb Insectenrijk graslandperceelsbeheer Roerdal: Plus
-1. Gefaseerd maaien: ieder jaar wordt 50% van het perceel gemaaid in de periode tussen 15 september tot 1 januari. Het maaisel wordt afgevoerd. Het volgende jaar wordt de andere 50% gemaaid en afgevoerd, eveneens in de periode 15 september tot 1 januari.
-2. Bemesting mag alleen plaatsvinden met ruige stalmest, uitgezonderd pluimveemest, of met kalk.
-3. Bodembewerking zoals freezen, ploegen, etc. is niet toegestaan. Het perceel bestaat uit blijvend grasland: dus ook niet scheuren en herinzaaien.
-4. Het gebruik van bestrijdingsmiddelen is niet toegestaan met uitzondering van pleksgewijze onkruidbestrijding van jacobskruiskruid, brandnetel, akkerdistel, ridderzuring, haagwinde of kleefkruid.
-5. Nabeweiding is toegestaan in de periode 15 september tot 1 januari met maximaal 3 GVE. In het overig deel van het jaar wordt niet beweid, in verband met het behoud van typische hooilandplanten.
-Agrarisch beheerpakket A01.04.02: Insectenrijke graslandranden Roerdal Instapeisen:
-1. De beheereenheid is een strook grasland van minimaal 50 meter lang en tussen de 2 en 5 meter breed gelegen langs een wegberm, watergang of houtsingel.
-2. Het grasland of de strook is gelegen in het leefgebied Donker Pimpernelblauwtje zoals weergegeven in het Beschermingsplan Donker pimpernelblauwtje Roerdal (Boeren, J., 2005).
+1. Gefaseerd maaien: ieder jaar wordt 50% van het perceel gemaaid in de periode van 15 september tot 1 januari, waarbij het maaisel wordt afgevoerd. Het daaropvolgende jaar wordt de andere 50% van de beheereenheid gemaaid in de periode 15 september tot 1 januari, waarbij eveneens het maaisel wordt afgevoerd.
+2. Bemesting is niet toegestaan, met uitzondering van instandhoudingsbemesting met kalk of ruige mest, uitgezonderd kippenmest.
+Agrarisch beheerpakket A01.04.02.Lb: Insectenrijke graslandranden Roerdal
+Instapeisen:
+1. De beheereenheid bestaat uit grasland en grenst aan een wegberm, een watergang of aan opgaande houtachtige begroeiing.
+2. De beheereenheid is minimaal 50 meter lang en tussen de 5 en 10 meter breed.
 Beheereisen:
-1. Minimaal één keer per jaar maaien en afvoeren, waarbij circa 50 % van de strook niet gemaaid wordt. Dit niet gemaaide deel mag elk jaar anders zijn.
-2. Maaien vindt plaats in de periode van 15 september tot 1 januari.
-3. Bemesting mag alleen plaatsvinden met ruige stalmest, uitgezonderd pluimveemest, of met kalk.
-4. Bodembewerking zoals freezen, ploegen, etc. is niet toegestaan. De strook bestaat uit blijvend grasland: dus ook niet scheuren en herinzaaien.
-5. Het gebruik van bestrijdingsmiddelen is niet toegestaan met uitzondering van pleksgewijze onkruidbestrijding van jacobskruiskruid, brandnetel, akkerdistel, ridderzuring, haagwinde of kleefkruid.
-6. Beweiding is niet toegestaan in de als insectenstrook beheerde perceelsrand, de rest van het perceel mag wel beweid worden.
+1. Gefaseerd maaien: ieder jaar wordt 50% van het perceel gemaaid in de periode van 15 september tot 1 januari, waarbij het maaisel wordt afgevoerd. Het daaropvolgende jaar wordt de andere 50% van de beheereenheid gemaaid in de periode 15 september tot 1 januari, waarbij eveneens het maaisel wordt afgevoerd. Buiten de aangegeven periode is maaien niet toegestaan.
+2. Het grasland mag niet gescheurd, gefreesd, geploegd of heringezaaid worden.
+3. Chemische onkruidbestrijding is niet toegestaan met uitzondering van pleksgewijze bestrijding van jacobskruid, brandnetel, akkerdistel, ridderzuring, haagwinde of kleefkruid.
+4. Beweiding is niet toegestaan.
+5. De beheereenheid wordt niet bemest en er wordt geen bagger opgebracht.
 A01.04.02.Lb Insectenrijke graslandranden Roerdal
 Instapeisen:
 1. De foerageerrand heeft een minimale breedte van 10 meter, en een maximale breedte van 20 meter (gemeten vanaf de waterloop landinwaarts) met een minimale lengte van 50 meter
