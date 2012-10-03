@@ -1,0 +1,4 @@
+# Artikel 24h. De tweede voorlopige herberekening van de opbrengst van het normatieve eigen risico 2009
+1. Uitgangspunt voor de herberekening van de opbrengst van het normatieve eigen risico zijn de opgaven, bedoeld in artikel 24b, tweede lid van de verzekerdenaantallen van de zorgverzekeraar.
+2. Het college herberekent op de wijze zoals beschreven in artikel 13 de normatieve eigen risico opbrengst 2009 op basis van de werkelijke verzekerden aantallen 2009 van 18 jaar en ouder zoals berekend in artikel 24b.
+3. In afwijking van het tweede lid bepaalt het college op basis van de opgave jaarstaat 2009 per 1 juni 2010 de gederfde inkomsten voor verzekerden van 18 jaar en ouder voor wie als gevolg van de toepasselijkheid van artikel 24 van de Zorgverzekeringswet geen nominale premies worden ontvangen.
