@@ -9,5 +9,6 @@
 ### Paragraaf 6:. Werkwijze
 ### Paragraaf 7:. Geheimhouding en Verschoning
 ### Paragraaf 8:. Rapportage
+## Hoofdstuk IIIa. Bonaire, Sint Eustatius en Saba
 ## Hoofdstuk IV. Wijzigingen in andere wetten
 ## Hoofdstuk V. Slotbepalingen
