@@ -1,0 +1,3 @@
+# Artikel I
+1. Het op 2 december 2010 te Brussel tot stand gekomen Verdrag betreffende de oprichting van het Functioneel Luchtruimblok «Europe Central» tussen de Bondsrepubliek Duitsland, het Koninkrijk België, de Republiek Frankrijk, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en de Zwitserse Bondsstaat, waarvan de Nederlandse, Franse en Duitse tekst zijn geplaatst in Tractatenblad 2011, 27, wordt goedgekeurd voor het Europese deel van Nederland.
+2. Beslissingen van de FABEC-Raad, tot stand gekomen overeenkomstig artikel 23, tweede lid, van het in het eerste lid van dit artikel genoemde Verdrag, behoeven niet de goedkeuring van de Staten-Generaal.
