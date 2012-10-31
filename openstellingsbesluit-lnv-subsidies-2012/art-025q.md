@@ -1,0 +1,17 @@
+# Artikel 25q
+1. Aanvragen tot verlening van een subsidie voor een investering in:
+a. een eerste energiescherm als bedoeld in bijlage 2, hoofdstuk 1, paragraaf 1, onderdeel A, van de regeling kunnen worden ingediend door glastuinbouwondernemingen als bedoeld in bijlage 2, hoofdstuk 1, paragraaf 1, onderdeel B, van de regeling;
+b. een tweede energiescherm als bedoeld in bijlage 2, hoofdstuk 1, paragraaf 2, onderdeel A, van de regeling kunnen worden ingediend door glastuinbouwondernemingen als bedoeld in bijlage 2, hoofdstuk 1, paragraaf 2, onderdeel B, van de regeling;
+c. een warmtebuffersysteem als bedoeld in bijlage 2, hoofdstuk 1, paragraaf 5, onderdeel A, van de regeling kunnen worden ingediend door glastuinbouwondernemingen als bedoeld in bijlage 2, hoofdstuk 1, paragraaf 5, onderdeel B, van de regeling;
+d. verticale ventilatoren als bedoeld in bijlage 2, hoofdstuk 1, paragraaf 6, onderdeel A, van de regeling kunnen worden ingediend door glastuinbouwondernemingen als bedoeld in bijlage 2, hoofdstuk 1, paragraaf 6, onderdeel B, van de regeling;
+e. energieclusters als bedoeld in bijlage 2, hoofdstuk 1, paragraaf 7, onderdeel A, van de regeling kunnen worden ingediend door glastuinbouwondernemingen als bedoeld in bijlage 2, hoofdstuk 1, paragraaf 7, onderdeel B, van de regeling;
+f. een hogedruk vernevelingssysteem ten behoeve van kaskoeling als bedoeld in bijlage 2, hoofdstuk 1, paragraaf 8, onderdeel A, van de regeling kunnen worden ingediend door glastuinbouwondernemingen als bedoeld in bijlage 2, hoofdstuk 1, paragraaf 8, onderdeel B, van de regeling;
+g. een gevelscherm als bedoeld in bijlage 2, hoofdstuk 1, paragraaf 9, onderdeel A, van de regeling kunnen worden ingediend door glastuinbouwondernemingen als bedoeld in bijlage 2, hoofdstuk 1, paragraaf 9, onderdeel B, van de regeling;
+h. een energiebesparend ventilatiesysteem met voorverwarming en/of warmteterugwinning als bedoeld in bijlage 2, hoofdstuk 1, paragraaf 10, onderdeel A, van de regeling kunnen worden ingediend door glastuinbouwondernemingen als bedoeld in bijlage 2, hoofdstuk 1, paragraaf 10, onderdeel B, van de regeling;
+i. diffuus glas als bedoeld in bijlage 2, hoofdstuk1, paragraaf 11, onderdeel A van de regeling kunnen worden ingediend door glastuinbouwondernemingen als bedoeld in bijlage 2, hoofdstuk 1, paragraaf 11, onderdeel B van de regeling;
+j. een biomassa gestookte ketelinstallatie als bedoeld in bijlage 2, hoofdstuk 1, paragraaf 12, onderdeel A, van de regeling kan worden ingediend door glastuinbouwondernemingen als bedoeld in bijlage 2, hoofdstuk 1, paragraaf 12, onderdeel B, van de regeling;
+k. de aansluiting op een energie- of CO2netwerk als bedoeld in bijlage 2, hoofdstuk 1, paragraaf 13, onderdeel A, van de regeling kunnen worden ingediend door glastuinbouwondernemingen als bedoeld in bijlage 2, hoofdstuk 1, paragraaf 13, onderdeel B, van de regeling.
+2. De aanvragen kunnen worden ingediend in de periode van 12 oktober 2012 tot en met 9 november 2012.
+3. De Minister rangschikt de aanvragen overeenkomstig artikel 1:5 van de regeling.
+4. Per glastuinbouwonderneming of samenwerkingsverband kan slechts één aanvraag voor subsidieverlening worden ingediend. De aanvraag kan meerdere investeringen als bedoeld in het eerste lid bevatten.
+5. In afwijking van het vierde lid, mag een glastuinbouwonderneming geen aanvraag voor subsidieverlening indienen voor zowel een investering als bedoeld in het eerste lid, onderdeel e, als een investering als bedoeld in het eerste lid, onderdeel k.
