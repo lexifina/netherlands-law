@@ -1,0 +1,2 @@
+# II. Ad artikel 8A
+Het is wel verstaan dat ingeval het percentage voor de vaststelling van het bedrag van de voordelen uit scheepvaart zoals opgenomen is in artikel 44B van de Indiase Income-tax Act, zoals deze luidt op de datum van ondertekening van deze Overeenkomst, door een wijziging van de Indiase wetgeving wordt verlaagd, het percentage genoemd in artikel 8A, tweede lid, onderdeel b, in dezelfde verhouding zal worden verlaagd.

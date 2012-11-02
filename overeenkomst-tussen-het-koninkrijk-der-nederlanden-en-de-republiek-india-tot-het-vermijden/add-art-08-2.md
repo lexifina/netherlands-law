@@ -1,0 +1,3 @@
+# VIII. Ad artikel 26
+1. De bepalingen van artikel 26 zijn dienovereenkomstig van toepassing op informatie die van belang is voor de uitvoering van inkomensgerelateerde voorschriften krachtens de wetgeving van de Staten door de belastingautoriteiten van de Staten die belast zijn met de implementatie, toepassing of handhaving van deze inkomensgerelateerde voorschriften.
+2. Niettegenstaande artikel 26, tweede lid, tweede volzin, kan uit hoofde van artikel 26, eerste lid, door een Staat ontvangen informatie zonder nadere voorwaarden door deze Staat worden gebruikt voor de uitvoering van de inkomensgerelateerde voorschriften bedoeld in het eerste lid

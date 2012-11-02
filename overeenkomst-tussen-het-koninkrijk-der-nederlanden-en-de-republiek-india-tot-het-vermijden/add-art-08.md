@@ -1,0 +1,3 @@
+# VIII. Ad Article 26
+1. The provisions of Article 26 shall also apply accordingly to information that is relevant for carrying out the income-related regulations under the laws of the States by the tax authorities of the State concerned with the implementation, administration or enforcement of these income-related regulations.
+2. Notwithstanding the second sentence of paragraph 2 of Article 26, any information received under paragraph 1 of Article 26 by a State may, without further conditions, also be used by that State for the carrying-out of the income-related regulations as meant in paragraph 1.
