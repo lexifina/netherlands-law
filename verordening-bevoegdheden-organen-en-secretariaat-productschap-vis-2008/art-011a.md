@@ -1,0 +1,3 @@
+# Artikel 11a
+1. Voor het bepaalde in de artikelen 6 en 7 is de manager medebewind verantwoordelijk en bevoegd voor zover het de medebewindsorganisatie betreft. De manager medebewind kan de uitvoering van deze taken opdragen aan functionarissen van de medebewindsorganisatie.
+2. De manager medebewind kan voor de aan hem in artikel 10 gemandateerde bevoegdheden overeenkomstig het bepaalde in de Algemene wet bestuursrecht ondermandaat of afdoeningsmandaat verlenen aan functionarissen van de medebewindsorganisatie en is bevoegd om per geval of in het algemeen instructies te geven ter zake van de uitoefening van het ondermandaat met inachtneming van instructies die door de voorzitter op grond van artikel 10, vierde lid, zijn gegeven.
