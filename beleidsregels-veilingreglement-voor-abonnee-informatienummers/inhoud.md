@@ -1,3 +1,0 @@
-# Inhoud
-## Toelichting
-## Veilingreglement
