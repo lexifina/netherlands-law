@@ -2,85 +2,12 @@
 ## Inhoud
 ### DEEL I, ALGEMEEN
 ### DEEL II, RUIMTELIJKE ORDENING
-### Paragraaf 3.1.1, Begripsbepalingen
-### Paragraaf 3.1.2, AFLO
-### Paragraaf 3.2.1, Kernkwaliteiten
-### Paragraaf 3.2.2, Milieu- en leefomgevingskwaliteit
-### Paragraaf 3.2.3, Zorgvuldig ruimtegebruik (SER-Ladder)
-### Paragraaf 3.3.1, Algemene bepalingen
-### Paragraaf 3.3.2, Thematische bepalingen
-## DEEL III, MILIEU
-### HOOFDSTUK 5, WARMTE- EN KOUDEOPSLAG
-### HOOFDSTUK 6, BODEMSANERING
-Titel 6.1, Landbodemsanering
-### HOOFDSTUK 7, GEBIEDEN
-Titel 7.1, Aanwijzing gebieden
-### Paragraaf 7.3.1, Bevoegd gezag
-### Paragraaf 7.3.2, Waterwingebieden
-### Paragraaf 7.3.3, Grondwaterbeschermingsgebieden
-### Paragraaf 7.3.4, Verbodszone diepe boringen
-### Paragraaf 7.3.5, Grondwaterbeschermingsgebied Drentsche Aa
-### Paragraaf 7.3.6, Aanduiding gebieden
-### Paragraaf 7.3.7, Overige bepalingen
-### Paragraaf 7.4.1, Begripsbepalingen
-### Paragraaf 7.4.2, Verbodsbepalingen
-### Paragraaf 7.4.3, Vrijstellingen en ontheffingen
-### Paragraaf 7.4.4, Aanduiding gebieden
+### DEEL III, MILIEU
 ### DEEL IV, NATUUR EN LANDSCHAP
-### HOOFDSTUK 9, VAARVERBOD DRENTSCHE AA
-Titel 9.1, Aanwijzing gebied
 ### DEEL V, WATER
 ### DEEL VI, WEGEN EN WATERWEGEN
 ### DEEL VII, OVERIGE BEPALINGEN
 ## Bijlagen
-### BIJLAGE I
-BIJ DE POV DRENTHE
-### BIJLAGE II
-BIJ DE POV DRENTHE
-### BIJLAGE III
-BIJ DE POV DRENTHE
-Lijst A en B als bedoeld in artikel 10.7, onder a en b
-## BIJLAGE BIJ HOOFDSTUK 3
-VAN DE PROVINCIALE OMGEVINGSVERORDENING
-N.B.: Tussen haakjes bestuursorgaan (afkorting) en datum van vaststelling.
-1. Overzicht tot de verordening behorend kaartmateriaal
-- Kaart 1, Visie 2020 van de Omgevingsvisie (provinciale staten, 2 juni 2010, gewijzigd 10 juli 2010)
-- Kaart 2, Kernkwaliteiten van de Omgevingsvisie (provinciale staten, idem)
-- Kaart 5, Landbouw van de Omgevingsvisie (idem)
-- Kaart 8a, Zoeklocatie grootschalige windenergie van de Omgevingsvisie (idem)
-- Kaart 9, Oppervlaktewater (idem)
-- Kaart 12, Overige aanduidingen (idem)
-- Kaart Bestaand stedelijk gebied
-- Kaart EHS Concretisering 2010
-- Kaart Begrenzing Nationaal Landschap Drentsche Aa
-2. Overzicht relevante beleidsstukken
-- Omgevingsvisie Drenthe (provinciale staten, 2 juni 2010, gewijzigd 10 juli 2010)
-- Cultuurhistorisch Kompas (juni 2009)
-- Structuurvisie Ondergrond (ontwerp van 30 juni 2010)
-- Beleidsnota wAardevol Drenthe (ook: Beleidsnota aardkundige waarden, gedeputeerde staten, 6 juli 2010)
-- Beleidskader Co-Vergisting (gedeputeerde staten, 17 november 2006)
-- Nota Landschap (provinciale staten, november 1998)
-- Landschapsvisie Drentsche Aa (provinciale staten, mei 2004)
-- Brochure Onrechtmatige bewoning van recreatieverblijven; handreiking voor gemeenten (VROM, 2007)
-- Convenant Bedrijventerreinen 2010-2020 (Rijk en provincie Drenthe, 29 september 2009)
-- Bestuursovereenkomst ILG 2007-2013 (Rijk en provincie Drenthe, 18 december 2006)
-- Beleidsregel concretisering EHS (gedeputeerde staten, 21 januari 2008, in werking 11 december 2007)
-- Natuurbeheerplan Drenthe, versie 2011 (bevat Beheertypekaart) (gedeputeerde staten, 6 juli 2010)
-- Uitvoeringsprogramma Nationaal Landschap Drentsche Aa (gedeputeerde staten 12 juni 2007)
-- Mid Term Review Provinciaal Meerjarenprogramma Landelijk Gebied (gedeputeerde staten, 29 juni 2010)
-- Nota Ruimte (vaststelling door Tweede Kamer, 17 mei 2005, Eerste Kamer, 17 januari 2006)
-- Spelregels van de EHS (Rijk, 29 mei 2007, bijlage geweest bij kamerbrief 29 juni 2007)
-- (Concept) handreiking bestaand stedelijk gebied (TU Delft, versie 26 maart 2010)
-3. Overzicht wetgeving, verdere stukken waaraan wordt gerefereerd
-- Wet ruimtelijke ordening (ook wel afgekort tot: Wro)
-- Wet milieubeheer (ook wel afgekort tot: Wm)
-- Wet op de waterhuishouding
-- Crisis- en Herstelwet (ook wel afgekort tot: CHW)
-- Grondwaterwet
-- Besluit ruimtelijke ordening (ook wel afgekort tot: Bro)
-- (Ontwerp-)AMvB Ruimte (d.d. 29 mei 2009)
-- Europese Kaderrichtlijn Water (KRW)
-- Handreiking Bedrijven en Milieuzonering (VNG, 2009)
 ## Toelichting
 ### ALGEMEEN
 ### DEEL I, ALGEMEEN
@@ -90,3 +17,60 @@ N.B.: Tussen haakjes bestuursorgaan (afkorting) en datum van vaststelling.
 ### DEEL V, WATER
 ### DEEL IV, WEGEN
 ### DEEL VII, OVERIGE BEPALINGEN
+## TOELICHTING OP DE 8E WIJZIGINGSTRANCHE
+VAN DE PROVINCIALE OMGEVINGSVERORDENING DRENTHE
+(Deze toelichting maakt deel uit van de algemene toelichting op de Provinciale omgevingsverordening Drenthe en zal zo spoedig mogelijk in de bestaande tekst geïntegreerd worden.)
+ARTIKEL I, ONDERDEEL A, B, EN F
+Verdringingsreeksen
+In artikel 2.9, tweede lid, van de Waterwet is bepaald dat bij provinciale verordening voor de regionale wateren de rangorde kan worden bepaald van de maatschappelijke en ecologische behoeften bij watertekorten. Hierbij gaat het om de beschikbaarheid van voldoende water van die kwaliteit die voor bepaalde behoeften nodig is. In Drenthe is dit al sinds een aantal jaren opgenomen in artikel 10.3 van de Provinciale Omgevingsverordening Drenthe (POV). Deze verdringingsreeks is afgestemd op de verdringingsreeks voor IJsselmeergebied/ Noord-Nederland.
+In opdracht van de Coördinatiecommissie Twenthekanalen/Overijsselsche Vecht is in 2010 onderzoek verricht naar prioritering van de watervraag in het aanvoergebied van de Twenthekanalen en de Overijsselsche Vecht. Het advies van de Coördinatiecommissie Twenthekanalen/Overijsselsche Vecht is verwerkt in het Waterakkoord Twenthekanalen/Overijsselschse Vecht, dat de basis vormt voor de verdringingsreeks voor de aanvoer naar dit watersysteem. Op basis van dit waterakkoord leggen de provincies Drenthe en Overijssel het advies voor de verdringingsreeks voor onttrekkingen uit het systeem Twenthekanalen/Overijsselsche Vecht in de verordening vast. In de praktijk blijkt dit in Drenthe slechts betrekking te hebben op een relatief klein gebied ten zuiden van Coevorden. Wij hebben er voor gekozen om deze verdringingsreeks, naast de al bestaande verdringingsreeks, als apart artikel in de POV op te nemen. Hierdoor blijft deze afwijkende verdringingsreeks herkenbaar en gemakkelijk toegankelijk.
+Daarnaast is in de bestaande verdringingsreeks IJsselmeergebied zoals die nu in artikel 10.3 van de POV is opgenomen, het onderdeel a verplaatst van het eerste naar het tweede lid. Dit betekent dat dit onderdeel is verplaatst van categorie 3 naar categorie 4. De opname in categorie 3 was in strijd met wat in het Waterbesluit is bepaald. Hiermee wordt de POV weer in overeenstemming met het Waterbesluit gebracht.
+Verder is aan het tweede lid een onderdeel g (afvoer voor visintrek) toegevoegd. Deze was bij de eerste vaststelling van deze verdringingsreeks abusievelijk niet opgenomen.
+In onderdeel F is het gebied aangegeven waarop artikel 10.3a van toepassing is.
+Tot slot zal in de toelichting van de POV per onderdeel van de in de verdringingsreeksen genoemde prioriteiten een toelichting worden opgenomen. Deze heeft zowel betrekking op de bestaande als op de nieuwe verdringingsreeks.
+Deze toelichting luidt als volgt.
+Artikel 10.3, Regionale verdringingsreeks
+Het gaat hierbij om onttrekkingen die afkomstig zijn uit het IJsselmeer. Dit kunnen rechtstreekse onttrekkingen uit het IJsselmeer zijn, maar ook onttrekkingen uit watersystemen die gevoed worden vanuit het IJsselmeer. Dit betreft voor Drenthe het overgrote deel van de provincie. Deze verdringingsreeks is afgestemd in Noord-Nederland.
+- Eerste lid, onder a en b
+In voorkomende gevallen wordt eerst op doorspoeling gekort. Of het water dan nog voor procesdoeleinden of gietwater wordt gebruikt, wordt dan aan de gebruikers overgelaten. Pas wanneer dat nodig is, worden onttrekkingen voor procesdoeleinden of gietwater verboden.
+- Eerste lid, onder c
+Het gaat hier om akker- en tuinbouwgewassen als met relatief kleine hoeveelheden water relatief grote sociaaleconomische gevolgen zoals faillissementen te voorkomen zijn. Kan structureel van toepassing zijn of er kan in voorkomende gevallen incidenteel gebruik van worden gemaakt.
+- Tweede lid, onder a
+Algen en botulisme in zowel stedelijke als landelijke wateren worden veelal als overlast ervaren. De bestrijding hiervan door middel van doorspoeling valt onder de subcategorie genoemd onder h van dit lid. Alleen als de volksgezondheid in het geding is, is sprake van categorie a.
+- Tweede lid, onder b en c
+Het gaat hierbij om beregening van alle akker- en tuinbouwgewassen, inclusief bloembollen, echter exclusief maïs. Ook sportvelden, greens en dergelijke vallen in deze categorie. Voorafgaand wordt de doorspoeling tegen verzilting en verontreiniging gestopt.
+- Tweede lid, onder d en e
+Bij het opleggen van beperkingen komt eerst de peilhandhaving voor niet kwetsbare natuur te vervallen gevolgd door peilhandhaving van klei- en zandsloten.
+- Tweede lid, onder f
+Voor het beperken van de beregening van gras en maïs in een vroeg stadium, is gekozen vanwege de lage rentabiliteit van deze beregening.
+- Tweede lid, onder g
+Het gaat hierbij om een tijdelijke stopzetting van de lokstroom. Alleen voor soorten die in de desbetreffende periode trekken, heeft dat een tijdelijk effect op de visintrek. Van een onomkeerbaar effect is geen sprake.
+- Tweede lid, onder h
+De doorspoeling tegen algen en botulisme zal tot nul worden teruggebracht wanneer alleen sprake is van overlast, maar gehandhaafd worden als en voor zover dat nodig is ter voorkoming van risico's voor de volksgezondheid en andere maatregelen, zoals het instellen van een zwemverbod, niet afdoende zijn (zie ook de categorie genoemd onder a).
+- Tweede lid, onder i
+In tekortsituaties zal eerst het waterverbruik voor het schutten van de beroeps- en recreatievaart op buitenwater (voor zover daarbij waterverlies optreedt) tot een minimum worden teruggebracht. Dat minimum zal in de regel niet nul zijn; de economische belangen van zowel de beroeps- als de recreatievaart zijn zo hoog dat van stilleggen geen sprake kan zijn.
+Artikel 10.3a, Regionale verdringingsreeks onttrekking Twentekanalen/ Overijsselsche Vecht
+Er zijn een paar gebieden die rechtstreeks water inlaten vanuit het systeem Twenthekanalen/ Overijsselsche Vecht. Verder wordt water bij de Stieltjeskanaalsluis doorgevoerd. Hier mengt het zich met water vanuit de aanvoerroute IJsselmeergebied. Op dat moment is de verdringingsreeks IJsselmeergebied van toepassing, omdat deze aanvoerroute het grootst is en zeer waarschijnlijk het langste doorgaat.
+- Eerste lid, onder a, b en c
+Zie toelichting bij artikel 10.3, eerste lid, onder a, b en c.
+- Tweede lid, onder a
+Algen en botulisme in zowel stedelijke als landelijke wateren worden veelal als overlast ervaren. De bestrijding hiervan door middel van doorspoeling valt onder de subcategorie genoemd onder f van dit lid. Alleen als de volksgezondheid in het geding is, is sprake van categorie a.
+- Tweede lid, onder b
+Op de Twentekanalen kan de functie scheepvaart een aanzienlijke hoeveelheid water vragen. Het kan dus voorkomen dat ook deze categorie gekort moet worden om aan de behoeften van andere zwaarwegender functies te kunnen voldoen.
+Het kan echter ook voorkomen dat door het schutten van schepen het schutverlies niet tot vermindering van de aanvoercapaciteit leidt. Een voorbeeld hiervan is het schutten bij Stieltjeskanaalsluis, waar de schutverliezen richting Vechtsysteem gaan. De sluis is de scheiding tussen de twee gebieden en eigenlijk behoort deze sluis tot het IJsselmeergebied.
+- Tweede lid, onder c
+Het gaat hierbij om beregening van alle akker- en tuinbouwgewassen, inclusief bloembollen, echter exclusief maïs. Ook sportvelden, greens en dergelijke vallen in deze categorie.
+- Tweede lid, onder d
+Voor het beperken van de beregening van gras en maïs in een vroeg stadium is gekozen vanwege de lage rentabiliteit van deze beregening.
+- Tweede lid, onder e
+Bij het opleggen van beperkingen komt eerst de peilhandhaving voor niet kwetsbare natuur te vervallen.
+- Tweede lid, onder f
+Het gaat hierbij om het voldoen aan de KRW-doelen. Tijdelijk kan daar niet aan voldaan worden. Hierbij moet ook gedacht worden aan de tijdelijke stopzetting van de lokstroom bij vistrappen. Alleen voor soorten die in de desbetreffende periode trekken, heeft dat een tijdelijk effect op de visintrek. Van een onomkeerbaar effect is geen sprake.
+ARTIKEL I, ONDERDEEL D EN E, EN ARTIKEL II
+Vaarwegen
+Op 22 december 2009 is de Waterwet in werking getreden. Deze wet verplicht de provincies het vaarwegbeheer en het havenbeheer nader te inventariseren. De provincies moeten vaarwegfuncties aan waterwegen toekennen en voor deze vaarwegen de beheerders aanwijzen.
+Teneinde de functietoekenning en de aanwijzing van de beheerders te reguleren zijn feitelijk twee besluiten noodzakelijk:
+a. het toekennen van de vaarwegfunctie aan de wateren waarvoor dat geboden is wegens een economisch belang (goederenvervoer over water) of een recreatief belang (wateren met intensieve recreatievaart met een regionaal belang). Op grond van het bepaalde in artikel 4.4 van de Waterwet dient dit te geschieden door vastlegging van deze functie inclusief nadere aanduiding, normen en dergelijke in het Regionaal Waterplan. Aangezien in Drenthe het Regionaal Waterplan onderdeel is van de Omgevingsvise, dient dit besluit gekoppeld te worden aan de Omgevingsvisie. In dit ontwerpstatenbesluit is per vaarweg vastgelegd dat de bescherming van de vaarwegfunctie gewenst is. Daarnaast is opgenomen aan welke beheersnormen de vaarwegen moeten voldoen, wat de minimale vaarwegdiepte en minimale doorvaarthoogte is, etc.; de zogenaamde functionaliteiten. Dit is opgenomen in Artikel II;
+b. het aanwijzen van de vaarwegbeheerder voor wateren waaraan de vaarwegfunctie is toegekend. In de POV is nu al op grond van artikel 10.7 de vaarwegbeheerder van een groot aantal vaarwegen aangewezen. Bij de voorbereiding van dit statenvoorstel is de huidige lijst kritisch bekeken. Dit heeft geleid tot een nieuwe, volledig aangepaste lijst waarbij is aangegeven of er een wijziging ten opzichte van de huidige lijst heeft plaatsgevonden met de daarbij behorende argumenten. Dit wordt geregeld in Artikel I, onderdeel D en E.
+ARTIKELEN III EN IV
+In deze artikelen wordt de mogelijkheid voor GS opgenomen om wijzigingen in de nummering en benaming van artikelen, hoofdstukken en dergelijke aan te brengen teneinde de POV in overeenstemming met deze wijziging te brengen. Daarnaast wordt de bekendmaking geregeld en de inwerkingtreding.
