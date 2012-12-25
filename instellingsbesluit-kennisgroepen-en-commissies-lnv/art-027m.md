@@ -1,0 +1,3 @@
+# Artikel 27m
+1. De regiegroep heeft tot taak het aansturen van de interdepartementale en interbestuurlijke programma's Natuur- en Milieu-educatie en Leren voor Duurzame Ontwikkeling.
+2. De regiegroep vervult haar taak met inachtneming van de nota Natuur- en Milieu-educatie 'Kiezen, Leren, Meedoen' (Kamerstukken II 2007/08, 20 487, nr. 21) en bijbehorend uitvoeringskader 'Natuur- en Milieu-educatie 2008–2011' (Kamerstukken II 2008/09, 20 487, nr. 32) en op basis van de nota Leren voor Duurzame Ontwikkeling 'Van Marge naar Mainstream' (Kamerstukken II 2007/08, 31 200 VIII, nr. 163) en het bijbehorende uitvoeringskader 'Van Agenderen naar Doen! 2008–2011'.
