@@ -6,9 +6,9 @@ a. de nabestaande in Nederland woont en hij voldoet aan een voorwaarde als bedoe
 b. de nabestaande en de halfwees in Nederland wonen en de nabestaande voldoet aan de voorwaarden, bedoeld in artikel 22, eerste en tweede lid;
 c. het kind in Nederland woont en het voldoet aan een voorwaarde als bedoeld in artikel 26, eerste en tweede lid.
 4. Het derde lid is van overeenkomstige toepassing, indien de nabestaande, de nabestaande en de halfwees onderscheidenlijk het kind niet in Nederland wonen, vanaf de dag dat betrokkene in een land woont waarmee een verdrag in werking is getreden dan wel een besluit van een volkenrechtelijke organisatie van kracht is geworden, op grond waarvan recht op nabestaandenuitkering, halfwezenuitkering onderscheidenlijk wezenuitkering kan bestaan.
-5. Bij of krachtens algemene maatregel van bestuur kunnen ten aanzien van het eerste lid afwijkende regels worden gesteld ten gunste van:
+5. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat recht op nabestaandenuitkering, halfwezenuitkering of wezenuitkering ontstaat voor:
 a. de nabestaande of het kind, indien de nabestaande, de halfwees of het kind werkzaamheden verricht in het algemeen belang en niet in Nederland woont;
-b. de nabestaande of het kind, indien de nabestaande, de halfwees of het kind in Aruba, Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius en Saba woont; of
+b. de nabestaande of het kind, indien de nabestaande, de halfwees of het kind in Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba woont; of
 c. de gezinsleden van de in de onderdelen a of b bedoelde nabestaande of het kind.
 6. Onze Minister deelt mede in welke landen op grond van een verdrag of een besluit van een volkenrechtelijke organisatie recht op nabestaandenuitkering, halfwezenuitkering dan wel wezenuitkering kan bestaan. In deze mededeling wordt tevens opgenomen:
 a. de vindplaats van het desbetreffende verdrag of besluit, en
