@@ -1,2 +1,0 @@
-# Inhoud
-## De informatie-uitwisselingen
