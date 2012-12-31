@@ -1,0 +1,4 @@
+# Artikel 529g
+1. Onze Minister kan, na overleg met Onze Minister van Financiën, een certificaat intrekken indien door wijziging in de gegevens welke bij het in artikel 529c bedoelde verzoek zijn overgelegd of doordat die gegevens onvoldoende of onjuist blijken te zijn, het niet meer voldoet aan de bij of krachtens deze afdeling gestelde eisen, of indien er goede gronden zijn om aan te nemen dat de financiële draagkracht van de verstrekker van de financiële zekerheid onvoldoende was, of is geworden of, indien deze buiten Nederland is gevestigd, blijkt van een beletsel voor het werkelijk in Nederland beschikbaar komen van die gelden.
+2. In de beschikking wordt een termijn gesteld voor de inlevering van het certificaat.
+3. De werking van de beschikking wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.

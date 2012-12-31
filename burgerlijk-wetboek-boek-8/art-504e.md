@@ -1,0 +1,2 @@
+# Artikel 504e
+Indien een rechtsvordering tegen een ondergeschikte, vertegenwoordiger of lasthebber van de vervoerder of van de feitelijke vervoerder wordt ingesteld tot vergoeding van schade waarop deze afdeling van toepassing is, kan die ondergeschikte, vertegenwoordiger of lasthebber, indien hij bewijst dat hij in de uitoefening van zijn functie heeft gehandeld, een beroep doen op de verweren en aansprakelijkheidsgrenzen waarop de vervoerder of de feitelijke vervoerder zich krachtens deze afdeling kan beroepen.

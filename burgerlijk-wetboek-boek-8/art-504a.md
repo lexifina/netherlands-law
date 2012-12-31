@@ -1,0 +1,6 @@
+# Artikel 504a
+1. Indien het vervoer geheel of gedeeltelijk door een feitelijke vervoerder wordt uitgevoerd, blijft de vervoerder aansprakelijk voor het volledige vervoer overeenkomstig de bepalingen van deze afdeling. Bovendien is de feitelijke vervoerder onderworpen aan de bepalingen van deze afdeling en kan hij zich op deze bepalingen beroepen voor het gedeelte van het vervoer dat hij zelf heeft verricht.
+2. De vervoerder is met betrekking tot het door de feitelijke vervoerder verrichte vervoer aansprakelijk jegens de reiziger voor schade door de handelingen en het verzuim van de feitelijke vervoerder en van diens ondergeschikten, vertegenwoordigers of lasthebbers in de uitoefening van hun taak.
+3. Elke overeenkomst waarbij de vervoerder verplichtingen op zich neemt die niet voortvloeien uit deze afdeling of waarbij de vervoerder afstand doet van rechten die voortvloeien uit deze afdeling, zal ten opzichte van de feitelijke vervoerder slechts gevolg hebben als deze laatste daar uitdrukkelijk en schriftelijk mee heeft ingestemd.
+4. Indien en voor zover de vervoerder en de feitelijke vervoerder beiden aansprakelijk zijn, zijn zij hoofdelijk verbonden.
+5. Dit artikel laat onverlet enig recht op verhaal van de vervoerder en de feitelijke vervoerder.

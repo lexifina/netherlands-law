@@ -1,0 +1,9 @@
+# Artikel 529c
+1. Onze Minister geeft aan de vervoerder op diens verzoek een certificaat af als omschreven in artikel 4bis, tweede lid, van het Verdrag, of waarmerkt als certificaat een door de verstrekker van financiële zekerheid in deze vorm ten behoeve van de vervoerder afgegeven document, indien hem is gebleken dat de vervoerder aan zijn in artikel 529 bedoelde verplichting voldoet.
+2. Bij het verzoek moet de vervoerder de volgende gegevens en stukken overleggen:
+a. naam en adres van het hoofdkantoor van het bedrijf van de vervoerder die het vervoer feitelijk geheel of gedeeltelijk verricht;
+b. een uittreksel uit de registratie voor schepen als bedoeld in artikel 101, eerste lid, van de Kadasterwet, vermeldende ten minste de gegevens bedoeld in artikel 85, tweede lid, onder a, c, d, e, f, g en j van die wet, alsmede de gegevens omtrent niet doorgehaalde voorlopige aantekeningen, met dien verstande dat ingeval dat uittreksel meer dan twee dagen vóór de dag der overlegging is afgegeven, op dat uittreksel een verklaring van de bewaarder van het Kadaster en de openbare registers moet voorkomen, afgegeven binnen voornoemde termijn van twee dagen, dat sedert de afgifte de op dat uittreksel vermelde gegevens geen wijziging hebben ondergaan;
+c. een afschrift van de overeenkomst tot verstrekking van financiële zekerheid;
+d. de naam van degene die de financiële zekerheid verstrekt en de plaats waar diens hoofdkantoor is gevestigd, alsmede, zo nodig, het kantoor waar deze zekerheid wordt verstrekt;
+e. het tijdstip waarop de financiële zekerheid ingaat en het tijdstip waarop deze een einde neemt.
+3. Het certificaat bevindt zich aan boord van het schip en een afschrift hiervan wordt in bewaring gegeven bij de overheidsinstantie die het register houdt waarin het schip staat ingeschreven of, indien het schip niet te boek staat in een staat die partij is bij het Verdrag, bij de overheidsinstantie van de staat die het certificaat afgeeft of waarmerkt.

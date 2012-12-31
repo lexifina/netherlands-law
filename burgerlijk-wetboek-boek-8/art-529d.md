@@ -1,0 +1,2 @@
+# Artikel 529d
+Geldbedragen die door de verzekeraar of door de verstrekker van een andere overeenkomstig artikel 529a verzorgde financiële zekerheid ter beschikking worden gesteld, dienen uitsluitend voor de voldoening van uit hoofde van deze afdeling ingestelde vorderingen, en enige uitbetaling van deze bedragen heeft tot gevolg dat iedere aansprakelijkheid uit hoofde van deze afdeling met een bedrag ten belope van de uitgekeerde bedragen wordt verminderd.
