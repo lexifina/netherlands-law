@@ -1,7 +1,10 @@
 # Artikel 30g
-1. Heffingsrente wordt vergoed over het negatieve bedrag van de voorlopige aanslag, over het negatieve bedrag van de aanslag, alsmede over het bedrag van de teruggaaf.
-2. Heffingsrente wordt mede vergoed bij vermindering van:
-a. het negatieve bedrag van de aanslag: over die vermindering;
-b. de aanslag die geen negatief bedrag beloopt tot een aanslag die wel een negatief bedrag beloopt: over dat negatieve bedrag.
-3. Bij vermindering van de aanslag eindigt in afwijking in zoverre van artikel 30f, derde lid, het tijdvak waarover de heffingsrente wordt berekend op de dag van de dagtekening van het afschrift van de uitspraak of van de kennisgeving waaruit van de vermindering blijkt.
-4. Het tweede lid vindt geen toepassing bij een vermindering van de aanslag die voortvloeit uit de verrekening van een verlies van een volgend jaar.
+1. Indien met betrekking tot de erfbelasting een belastingaanslag met een door de belastingplichtige te betalen bedrag aan belasting wordt vastgesteld, wordt met betrekking tot die belastingaanslag rente – belastingrente – in rekening gebracht.
+2. De belastingrente wordt enkelvoudig berekend:
+a. indien het betreft een belastingaanslag ter zake van een overlijden: over het tijdvak dat aanvangt 8 maanden na het overlijden en eindigt op de dag voorafgaand aan de dag waarop de belastingaanslag invorderbaar is ingevolge artikel 9 van de Invorderingswet 1990;
+b. indien het betreft een belastingaanslag ter zake van een verkrijging ten gevolge van de vervulling van een voorwaarde: over het tijdvak dat aanvangt op de dag van de vervulling van de voorwaarde en eindigt op de dag voorafgaand aan de dag waarop de belastingaanslag invorderbaar is ingevolge artikel 9 van de Invorderingswet 1990;
+c. indien het betreft een belastingaanslag als bedoeld in artikel 8, vijfde lid, van de Natuurschoonwet 1928: over het tijdvak dat aanvangt op de dag dat zich een van de gevallen, bedoeld in artikel 8, eerste lid, van de Natuurschoonwet 1928, voordoet en eindigt op de dag voorafgaand aan de dag waarop de belastingaanslag invorderbaar is ingevolge artikel 9 van de Invorderingswet 1990.
+De renteberekening heeft als grondslag het te betalen bedrag aan belasting.
+3. Indien de belastingaanslag is vastgesteld overeenkomstig een verzoek of overeenkomstig de aangifte, eindigt het tijdvak waarover de belastingrente wordt berekend in afwijking in zoverre van het tweede lid uiterlijk 14 weken na de datum van ontvangst van het verzoek, onderscheidenlijk 19 weken na de datum van ontvangst van de aangifte. Ingeval het betreft een navorderingsaanslag die is vastgesteld naar aanleiding van een verzoek, eindigt het tijdvak waarover de belastingrente wordt berekend in afwijking in zoverre van de eerste volzin uiterlijk 12 weken na de datum van de ontvangst van het verzoek.
+4. Indien een belastingaanslag ter zake waarvan belastingrente in rekening is gebracht naar aanleiding van een bezwaarschrift, een daaropvolgende gerechtelijke procedure of een ambtshalve vermindering wordt verminderd of wordt vernietigd, wordt de eerder in rekening gebrachte rente naar evenredigheid verminderd, onderscheidenlijk vernietigd.
+5. Voor de toepassing van dit artikel geldt als het te betalen bedrag aan belasting, het bedrag na de verrekening ingevolge artikel 15.
