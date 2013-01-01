@@ -1,2 +1,0 @@
-# Artikel 38d
-Indien het hoofd van het landelijk parket en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties niet met elkaar tot overeenstemming kunnen komen over de in artikel 38c bedoelde stukken legt de eerstgenoemde dit verschil van zienswijze door tussenkomst van het College van procureurs-generaal schriftelijk voor aan Onze Minister van Justitie die alsdan, in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, beslist.

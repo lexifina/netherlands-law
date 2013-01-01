@@ -1,2 +1,0 @@
-# Artikel 43f
-Indien aannemelijk is dat de doelstellingen, bedoeld in artikel 43b, niet of in onvoldoende mate zijn of worden verwezenlijkt, kunnen Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie na overleg met de korpsbeheerder een bijzonder onderzoek doen instellen bij een regionaal politiekorps door een door Onze Ministers aan te wijzen deskundige. De deskundige rapporteert aan Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie.
