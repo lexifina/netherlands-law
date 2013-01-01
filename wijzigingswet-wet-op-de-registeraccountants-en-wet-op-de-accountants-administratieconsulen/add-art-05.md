@@ -1,3 +1,0 @@
-# Artikel V. Evaluatiebepaling
-1. Onze Minister van Economische Zaken zendt binnen zes maanden na het verstrijken van zes jaar na het in werking treden van deze wet aan de Staten-Generaal een verslag omtrent de wijze waarop de accountantswetgeving in Nederland na de invoering van de Achtste EEG-Richtlijn (PbEG 1984 L126) en de Richtlijn algemeen stelsel van erkenning van hoger-onderwijsdiploma's (PbEG 1989 L19) heeft gefunctioneerd.
-2. Onze Minister van Economische Zaken stelt de inhoud van het in het eerste lid bedoelde verslag niet vast dan na de besturen van het NIVRA en de NOvAA daarover advies te hebben gevraagd.
