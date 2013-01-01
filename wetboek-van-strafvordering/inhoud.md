@@ -69,13 +69,13 @@
 ### Titel I. Het opsporingsonderzoek
 #### afdeeling Eerste. Algemeene bepalingen
 #### afdeeling Tweede. De officieren van justitie
-#### afdeeling Derde. Overige ambtenaren met de opsporing belast
+#### afdeling Derde. Verslaglegging door opsporingsambtenaren
 #### afdeeling Vierde. Aangiften en klachten
 #### afdeeling Vijfde. Beslissingen omtrent vervolging
 ### Titel II. De rechter-commissaris belast met de behandeling van strafzaken
-### Titel III. Gang van het gerechtelijk vooronderzoek
-#### afdeeling Eerste. De vordering van den officier van justitie
-#### afdeeling Tweede. Instellen van het gerechtelijk vooronderzoek
+### Titel III. Onderzoek door de rechter-commissaris
+#### afdeling Eerste. Aanleiding tot het verrichten van onderzoekshandelingen
+#### afdeling Tweede. Het verrichten van onderzoekshandelingen door de rechter-commissaris
 #### afdeeling Derde. Het verhoor van den verdachte
 #### afdeeling Vierde. Het verhoor van den getuige
 #### Vierde Afdeling A. Bedreigde getuigen
@@ -84,10 +84,9 @@
 #### Vierde afdeling D. Maatregelen tot bescherming van getuigen
 #### Vierde afdeling E. Afgeschermde getuigen
 #### afdeeling Vijfde. Deskundigen
-#### afdeeling Zesde. Sluiting van het gerechtelijk vooronderzoek
-#### afdeeling Zevende. Handelingen van de rechter-commissaris na de sluiting of beëindiging van het gerechtelijk vooronderzoek
-#### afdeling Achtste. Bevoegdheden van de raadsman
-#### afdeling Negende. Geen beroep in cassatie voor het openbaar ministerie
+#### afdeling Zesde. Beëindiging van het onderzoek
+#### afdeling Zevende. Bevoegdheden van de raadsman
+#### afdeling Achtste. Geen beroep in cassatie voor het openbaar ministerie
 ### Titel IV. Beslissingen omtrent verdere vervolging
 #### Slotbepalingen betreffende het voorbereidend onderzoek
 ### Titel IVa. Vervolging door een strafbeschikking
