@@ -3,7 +3,7 @@
 a. Nederlandse rechterlijke ambtenaren en rechterlijke ambtenaren van Aruba en de Nederlandse Antillen;
 b. Onze Minister;
 c. lichamen of personen aan wie krachtens artikel 257ba van het Wetboek van Strafvordering de bevoegdheid is toegekend een strafbeschikking uit te vaardigen;
-d. ambtenaren van politie als bedoeld in artikel 3, eerste lid, onder a en c, en tweede lid, van de Politiewet 1993;
+d. ambtenaren van politie als bedoeld in artikel 2, onder a, van de Politiewet 2012 en ambtenaren van politie als bedoeld in artikel 2, onder c en d, voor zover zij zijn aangesteld voor de uitvoering van de politietaak;
 e. ambtenaren als bedoeld in artikel 141, onderdeel c en d, van het Wetboek van Strafvordering;
 f. buitengewone opsporingsambtenaren als bedoeld in artikel 142, eerste lid, van het Wetboek van Strafvordering;
 g. instanties die belast zijn met de tenuitvoerlegging van rechterlijke beslissingen of handelingen, beslissingen van de officier van justitie dan wel van vrijheidsbenemende straffen of maatregelen;
