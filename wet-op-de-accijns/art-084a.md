@@ -1,8 +1,8 @@
 # Artikel 84a
-1. In geval van verhoging van de accijns, bedoeld in artikel 27, eerste of derde lid, wordt ter zake van het bij het ingaan van die verhoging voorhanden hebben in een opslagplaats van de desbetreffende minerale oliën, accijns geheven, die per 1000 L bij een temperatuur van 15°C onderscheidenlijk per 1000 kg gelijk is aan de verhoging van het daarvoor in artikel 27, eerste of derde lid, vermelde bedrag.
+1. In geval van verhoging van de accijns, bedoeld in artikel 27, eerste lid, wordt ter zake van het bij het ingaan van die verhoging voorhanden hebben in een opslagplaats van de desbetreffende minerale oliën, accijns geheven, die per 1000 L bij een temperatuur van 15°C onderscheidenlijk per 1000 kg gelijk is aan de verhoging van het daarvoor in artikel 27, eerste lid, vermelde bedrag.
 Onder het voorhanden hebben wordt mede begrepen het vervoer naar een opslagplaats.
 2. Aan de accijns, bedoeld in het eerste lid, zijn niet onderworpen minerale oliën:
-a. waarvoor het tijdstip waarop de accijns, bedoeld in artikel 27, eerste of derde lid, verschuldigd wordt, is gelegen op of na het tijdstip van de in het eerste lid bedoelde verhoging;
+a. waarvoor het tijdstip waarop de accijns, bedoeld in artikel 27, eerste lid, verschuldigd wordt, is gelegen op of na het tijdstip van de in het eerste lid bedoelde verhoging;
 b. waarvoor een vrijstelling van accijns geldt.
 3. Onder opslagplaats wordt verstaan elk gebouw of terrein waar minerale oliën als bedoeld in het eerste lid voor commerciële doeleinden voorhanden zijn. Opslagplaatsen in gebruik bij een zelfde persoon worden te zamen als één opslagplaats beschouwd.
 4. De accijns, bedoeld in het eerste lid, wordt geheven van de eigenaar van de in een opslagplaats voorhanden minerale oliën en moet op aangifte worden voldaan.
