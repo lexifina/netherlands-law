@@ -1,0 +1,2 @@
+# Artikel III
+De leden van het bestuur van de Nederlandse Programma Stichting, bedoeld in artikel 2.36 van de Mediawet 2008, zoals dat artikel luidde op de dag voorafgaande aan het tijdstip van inwerkingtreding van deze wet, zijn met ingang van het tijdstip van inwerkingtreding van deze wet lid van de eerste raad van toezicht van de Nederlandse Programma Stichting, bedoeld in artikel 2.36 van de Mediawet 2008, zoals dat artikel luidt op het tijdstip van inwerkingtreding van deze wet, voor het resterende gedeelte van hun benoemingstermijn.

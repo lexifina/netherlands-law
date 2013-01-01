@@ -1,0 +1,5 @@
+# Artikel IV
+1. In afwijking van artikel 2.19, tweede lid, van de Mediawet 2008 geldt de concessie voor de Stichting Nederlandse Publieke Omroep, genoemd in artikel 2.2 van die wet, die aanvangt na de concessie voor de periode 2005–2010, voor tien jaar en vier maanden.
+2. In afwijking van artikel 2.19, derde lid, van de Mediawet 2008 bestaat de concessieperiode die aanvangt na de concessieperiode 2000–2010, uit een periode van vijf jaar en vier maanden en een periode van vijf jaar.
+3. In afwijking van artikel 2.29, eerste lid, van de Mediawet 2008 geldt de erkenning of de voorlopige erkenning voor de omroepverenigingen, bedoeld in artikel 2.24 van die wet, en voor de instelling, bedoeld in artikel 2.28 van die wet, die aanvangt na de erkenningperiode 2005–2010, voor vijf jaar en vier maanden.
+4. In afwijking van artikel 2.43, eerste lid, van de Mediawet 2008 geldt de aanwijzing van de kerkgenootschappen en de genootschappen op geestelijke grondslag, bedoeld in artikel 2.42 van die wet, die aanvangt na de aanwijzingsperiode 2005–2010, voor vijf jaar en vier maanden.

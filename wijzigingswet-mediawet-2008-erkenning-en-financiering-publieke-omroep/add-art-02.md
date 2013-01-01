@@ -1,0 +1,2 @@
+# Artikel II
+De omroepverenigingen waaraan in 2005 een erkenning als bedoeld in artikel 31 van de Mediawet of een voorlopige erkenning als bedoeld in artikel 37 van die wet is verleend, worden in het kader van een aanvraag om verlening van een erkenning als bedoeld in artikel 2.24 van de Mediawet 2008 voor de erkenningperiode 2010–2015 beoordeeld overeenkomstig de bepalingen van de Mediawet 2008, zoals die luidden op de dag voorafgaande aan het tijdstip van inwerkingtreding van deze wet.
