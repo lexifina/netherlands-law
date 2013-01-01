@@ -1,2 +1,0 @@
-# Artikel I
-Als veiler als bedoeld in artikel 22, eerste lid, van verordening (EU) nr. 1031/2010 van de Commissie van 12 november 2010 inzake de tijdstippen, het beheer en andere aspecten van de veiling van broeikasgasemissierechten overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap (PbEU L 302), verantwoordelijk voor het veilen van broeikasgasemissierechten voor Nederland, wordt aangewezen het bestuur van de Nederlandse emissieautoriteit.
