@@ -1,0 +1,109 @@
+# Artikel 1. Geen beroep
+Tegen een besluit, genomen op grond van een in dit artikel genoemd voorschrift, kan geen beroep worden ingesteld.
+Buitengewoon Besluit Arbeidsverhoudingen 1945: artikel 6
+Burgerlijk Wetboek, voor zover de aanvraag is toegewezen:
+a. Boek 1:
+1. artikel 7, eerste en tweede lid
+2. titel 14, afdeling 4
+b. Boek 2: de artikelen 63d, tweede lid, 156 en 266
+Elektriciteitswet 1998: de artikelen 9b, vierde lid, 9c, derde lid, 9d, tweede en derde lid, 9f, zesde lid, 20a, derde lid, 20b, derde lid, en 20c, tweede en derde lid
+Faillissementswet: artikel 285
+Financiële-verhoudingswet: artikel 9
+Gaswet: de artikelen 39b, derde lid, 39c, derde lid, en 39d, tweede en derde lid
+Gemeentewet:
+a. artikel 49
+b. artikel 124, voor zover het beroep niet wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester
+c. artikel 124a, voor zover het beroep niet wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
+d. de artikelen 169, derde lid, 180, derde lid, en 234, tweede lid, onderdeel a
+e. artikel 273, voor zover het betreft de weigering om een besluit te nemen en het niet tijdig nemen van een besluit
+Geneesmiddelenwet: artikel 17
+Gerechtsdeurwaarderswet: artikel 3a, tweede lid
+Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën: de artikelen 20, 21, 22, 72, eerste lid, 75, en 101, derde lid, voor zover die wet nog van toepassing is op grond van artikel VIII, eerste lid, van de Wet van 12 november 2009 tot aanpassing van LNV-wetgeving in verband met de Kaderwet zelfstandige bestuursorganen (Stb. 2009, 550)
+Invorderingswet 1990, met uitzondering van de artikelen 30, 49 en 62a
+Kostenwet invordering rijksbelastingen, met uitzondering van artikel 7
+Leegstandwet:
+a. artikel 15, eerste lid, voor zover het betreft een weigering van de vergunning
+b. artikel 15, vijfde lid, voor zover het betreft een afwijzing van het verzoek tot verlenging
+c. artikel 16, negende lid, eerste volzin
+Mededingingswet:
+a. artikel 49a, eerste lid, voor zover de aanvraag is afgewezen
+b. artikel 49c, tweede lid, voor zover de intrekking of wijziging geschiedt op de gronden, bedoeld in het eerste lid, onderdelen b of c, van dat artikel
+Mijnbouwwet: de artikelen 141a, derde lid, 141b, derde lid, en 141c, tweede en derde lid
+Natuurbeschermingswet 1998: de artikelen 17, 19kg en 23
+Onteigeningswet
+Ontgrondingenwet: mededeling als bedoeld in artikel 10, tweede en derde lid
+Politiewet 2012: de artikelen 18, 20, 34, 35, 37, eerste lid, 39, derde en vijfde lid, en 52
+Provinciewet:
+a. artikel 49
+b. artikel 121, voor zover het beroep niet wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
+c. de artikelen 167, derde lid, en 179, derde lid
+d. artikel 261, voor zover het betreft de weigering om een besluit te nemen en het niet tijdig nemen van een besluit
+Reconstructiewet Midden-Delfland: de artikelen 36, eerste lid, 37, 44, eerste lid, 45 en 70, voor zover die wet nog van toepassing is op grond van artikel VIII, tweede lid, van de Wet van 12 november 2009 tot aanpassing van LNV-wetgeving in verband met de Kaderwet zelfstandige bestuursorganen (Stb. 2009, 550)
+Rijkswet Onderzoeksraad voor veiligheid, met uitzondering van beslissingen ten aanzien van de algemeen secretaris en de medewerkers van het bureau
+Telecommunicatiewet: de artikelen 3.4, eerste lid, onderdeel b, voor zover het betreft een aanwijzing, 3.10 en 18.9, eerste en tweede lid
+Tracéwet: de artikelen 2, eerste lid, 4, eerste lid, onderdeel c, en 23, eerste lid
+Uitleveringswet
+Waterschapswet: artikel 156, eerste lid, voor zover het betreft de weigering om een vernietiging te bevorderen en het niet tijdig nemen van een besluit tot vernietiging
+Waterwet: de artikelen 4.1, 4.4 en 6.28
+Wegenverkeerswet 1994: de artikelen 132c, vijfde lid, en 132d, tweede lid
+Wet administratiefrechtelijke handhaving verkeersvoorschriften
+Wet algemene bepalingen omgevingsrecht:
+a. de artikelen 2.27, eerste lid, en 2.34, eerste lid, met uitzondering van beroep dat wordt ingesteld door het gezag dat bevoegd is ten aanzien van de beschikking waarop de verklaring, onderscheidenlijk de aanwijzing betrekking heeft
+b. artikel 5.8, eerste lid, laatste volzin
+Wet bekostiging financieel toezicht: de artikelen 2, 5, 6 en 13, derde lid
+Wet bijzondere opneming in psychiatrische ziekenhuizen
+Wet bodembescherming: artikel 43, voor zover het betreft de afwijzing van een verzoek
+Wet College voor de rechten van de mens, met uitzondering van de artikelen 14 tot en met 18
+Wet geurhinder en veehouderij: artikel 7
+Wet gewasbeschermingsmiddelen en biociden: artikel 108
+Wet investeren in jongeren: de artikelen 37, 57 en 91, voor zover het besluiten betreft van de voorzitter van gedeputeerde staten
+Wet luchtvaart:
+a. de artikelen 8.4 en 8.15
+b. artikel 8.70, eerste lid, in geval op een luchthaven sprake is van een samenwerking bij de verdeling van luchthavenluchtverkeer met de luchthaven Schiphol
+c. artikel 10.15, eerste lid, voor zover het betreft de grenswaarden en regels die gelden voor het burgerluchtverkeer vastgesteld op grond van artikel 10.28, eerste lid, en voor burgerluchthavenluchtverkeer sprake is van een samenwerking bij de verdeling van luchthavenluchtverkeer met de luchthaven Schiphol
+Wet melding collectief ontslag
+Wet milieubeheer:
+a. de artikelen 4.3, 4.6, 4.9, 4.12, 4.15a, 4.16, 4.19, 5.12, eerste lid, 5.12, dertiende lid, 5.13, eerste lid, 5.23, eerste lid, 10.3, 11A.2, derde lid, onderdelen b en c, 11.5, 11.18
+b. artikel 16.24, eerste lid, met uitzondering van een besluit houdende toewijzing van broeikasgasemissierechten voor een afzonderlijke inrichting
+c. artikel 17.5, eerste lid
+Wet Naleving Europese regelgeving publieke entiteiten:
+a. artikel 2, eerste lid, voor zover het betreft de weigering om een aanwijzing te geven
+b. artikel 3, voor zover het betreft de weigering om een aanwijzing te geven
+c. artikel 5, voor zover het betreft de weigering om een besluit te nemen
+Wet op de expertisecentra: artikel 134, vierde lid, zolang de gemeenteraad de aanvulling nog niet heeft bekrachtigd
+Wet op de jeugdzorg:
+a. artikel 3, vierde lid
+b. artikel 6, eerste lid, voor zover het betreft een besluit ter uitvoering van de taak, bedoeld in:
+1. artikel 10, eerste lid, onderdeel b
+2. artikel 10, eerste lid, onderdeel c, met uitzondering van de daarin bedoelde nazorg en de daarin bedoelde begeleiding als bedoeld in artikel 77hh van het Wetboek van Strafrecht
+3. de artikelen 29o tot en met 29r, 29t en 29v
+Wet op de rechterlijke organisatie: de artikelen 46a, eerste lid, 62a, eerste lid, en 100
+Wet opheffing particuliere banken van leening: artikel 2
+Wet op het financieel toezicht:
+a. de artikelen 3:159h, eerste lid, en 3:159u
+b. de artikelen 6:1 en 6:2, voor zover het betreft een weigering om een besluit te nemen of het niet tijdig nemen van een besluit
+Wet op het hoger onderwijs en wetenschappelijk onderzoek: artikel 7.61
+Wet op het primair onderwijs: artikel 140, vierde lid, zolang de gemeenteraad de aanvulling nog niet heeft bekrachtigd
+Wet op het voortgezet onderwijs: artikel 96g, vierde lid, zolang de gemeenteraad de aanvulling nog niet heeft bekrachtigd
+Wet publieke gezondheid: de artikelen 31 en 35
+Wet rechtspositie rechterlijke ambtenaren:
+a. een besluit tot benoeming, plaatsing of aanwijzing als bedoeld in hoofdstuk 2, tenzij het beroep wordt ingesteld door een rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding als zodanig, zijn nagelaten betrekkingen of zijn rechtverkrijgenden
+b. een besluit van de Hoge Raad als bedoeld in hoofdstuk 6A
+c. een vordering als bedoeld in artikel 46o
+Wet ruimtelijke ordening:
+a. de artikelen 2.1, 2.2, 2.3 en 3.7
+b. de artikelen 3.30, eerste lid, 3.33, eerste lid, en 3.35, eerste lid, voor zover het betreft een aanwijzing
+c. artikel 4.1, vijfde lid
+d. artikel 4.2, eerste lid, tenzij de aanwijzing betrekking heeft op een daarbij concreet aangegeven locatie waarvan geen afwijking mogelijk is
+e. de artikelen 4.2, derde lid, en 4.3, vierde lid
+f. artikel 4.4, eerste lid, tenzij de aanwijzing betrekking heeft op een daarbij concreet aangegeven locatie waarvan geen afwijking mogelijk is
+g. artikel 4.4, derde lid
+h. artikel 6.15, eerste lid, voor zover de herziening uitsluitend betrekking heeft op onderdelen als bedoeld in het derde lid
+Wet toezicht financiële verslaggeving: de artikelen 2, eerste lid, 3, eerste en tweede lid, 4, 9, 12 en 30
+Wet van 18 december 2008 tot wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens) (Stb. 2008, 561): artikel X
+Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen: artikel 30, tweede lid
+Wet werk en bijstand: de artikelen 52 en 81 en paragraaf 6.5
+Wet werk en inkomen kunstenaars: artikel 14
+Zorgverzekeringswet:
+a. artikel 9a
+b. artikel 18f, eerste lid, in samenhang met artikel 18d of 18e, voor zover een besluit wordt genomen over de verschuldigdheid van de bestuursrechtelijke premie of de hoogte daarvan
