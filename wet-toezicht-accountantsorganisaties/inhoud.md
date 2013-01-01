@@ -15,7 +15,6 @@
 ## Hoofdstuk 5. Toezicht en handhaving
 ### Paragraaf 5.1. Toezicht op de naleving
 ### Paragraaf 5.2. Handhaving
-### Paragraaf 5.3. Beroep
 ## Hoofdstuk 5a. Geheimhoudingsplicht
 ## Hoofdstuk 5b. Samenwerking nationaal
 ## Hoofdstuk 5c. Samenwerking internationaal
