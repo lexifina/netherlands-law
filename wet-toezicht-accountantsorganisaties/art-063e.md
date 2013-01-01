@@ -1,7 +1,6 @@
 # Artikel 63e
 1. De Autoriteit Financiële Markten kan, in afwijking van artikel 63a, vertrouwelijke gegevens of inlichtingen verkregen bij de vervulling van de haar ingevolge deze wet opgedragen taak, verstrekken aan:
-a. de Nederlandse Orde van Accountants-Administratieconsulenten, bedoeld in artikel 2, eerste lid, van de Wet op de Accountants-Administratieconsulenten;
-b. het Nederlands Instituut van Registeraccountants, bedoeld in artikel 1, eerste lid, van de Wet op de Registeraccountants; en
-c. een organisatorisch verband van marktpartijen, dat zich ten doel stelt een doeltreffende bijdrage te leveren aan de uitvoering door de Autoriteit Financiële Markten van het toezicht op de naleving van deze wet en daartoe met de Autoriteit Financiële Markten een convenant heeft gesloten;
+a. de Nederlandse beroepsorganisatie van accountants, bedoeld in artikel 2 van de Wet op het Accountantsberoep;
+b. een organisatorisch verband van marktpartijen, dat zich ten doel stelt een doeltreffende bijdrage te leveren aan de uitvoering door de Autoriteit Financiële Markten van het toezicht op de naleving van deze wet en daartoe met de Autoriteit Financiële Markten een convenant heeft gesloten;
 voor zover de gegevens of inlichtingen noodzakelijk zijn voor de vervulling van de taken van de in de onderdelen a tot en met c bedoelde instanties.
 2. Voor zover de gegevens of inlichtingen, bedoeld in het eerste lid, zijn verkregen van een toezichthoudende instantie, verstrekt de Autoriteit Financiële Markten deze niet aan een instantie als bedoeld in het eerste lid, tenzij de toezichthoudende instantie waarvan de gegevens of inlichtingen zijn verkregen uitdrukkelijk heeft ingestemd met de verstrekking van de gegevens of inlichtingen en in voorkomend geval heeft ingestemd met het gebruik voor een ander doel dan waarvoor de gegevens of inlichtingen zijn verstrekt.
