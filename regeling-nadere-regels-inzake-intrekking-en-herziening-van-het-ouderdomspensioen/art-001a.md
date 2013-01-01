@@ -1,0 +1,2 @@
+# Artikel 1a
+In afwijking van artikel 17, vierde lid, van de Algemene Ouderdomswet gaat de intrekking of een herziening van de toeslag, die voortvloeit uit een wijziging van het inkomen uit arbeid of overig inkomen van de echtgenoot van de pensioengerechtigde, in op de eerste dag van de periode, respectievelijk kalendermaand, bedoeld in artikel 4.1, vierde, respectievelijk vijfde lid, van het Algemeen inkomensbesluit sociale zekerheidswetten.
