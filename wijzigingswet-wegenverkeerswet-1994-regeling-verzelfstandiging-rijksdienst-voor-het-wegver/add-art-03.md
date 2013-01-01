@@ -1,0 +1,6 @@
+# Artikel III
+1. Onze Minister bepaalt in overeenstemming met Onze Minister van Financiën welke vermogensbestanddelen van de Staat worden toebedeeld aan de Dienst Wegverkeer.
+2. De in het eerste lid bedoelde vermogensbestanddelen gaan met ingang van de datum van inwerkingtreding van deze wet onder algemene titel over op de Dienst Wegverkeer tegen een door Onze Minister in overeenstemming met Onze Minister van Financiën te bepalen waarde.
+3. Ten aanzien van de in het eerste lid bedoelde vermogensbestanddelen welke in openbare registers te boek zijn gesteld, zal verandering van de tenaamstelling in die registers plaatsvinden. De daartoe nodige opgaven worden door de zorg van Onze Minister van Financiën aan de bewaarders van de desbetreffende registers gedaan.
+4. Ter zake van de verkrijging door de Dienst Wegverkeer van de vermogensbestanddelen, bedoeld in het tweede lid, blijft de heffing van overdrachtsbelasting achterwege.
+5. Archiefbescheiden van de Rijksdienst voor het Wegverkeer gaan met ingang van de datum van inwerkingtreding van deze wet over naar de Dienst Wegverkeer, met uitzondering van de archiefbescheiden die zijn vermeld op een door Onze Minister en de Rijksdienst voor het Wegverkeer tezamen vastgestelde lijst.
