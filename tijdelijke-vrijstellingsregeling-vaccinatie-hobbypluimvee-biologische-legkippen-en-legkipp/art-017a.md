@@ -1,2 +1,0 @@
-# Artikel 17a
-De houder die zijn biologische legkippen of legkippen met vrije uitloop ingevolge deze regeling heeft laten vaccineren, kan tot hervaccinatie van biologische legkippen of legkippen met vrije uitloop, ouder dan achttien weken overgaan, indien ten aanzien van de te hervaccineren dieren de eerste vaccinatie na 1 augustus 2007 is uitgevoerd, overeenkomstig de Tijdelijke vrijstellingsregeling vaccinatie hobbypluimvee, biologische legkippen en legkippen met vrije uitloop, zoals deze op het moment van eerste vaccinatie gold.
