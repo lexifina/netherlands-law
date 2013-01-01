@@ -20,7 +20,7 @@
 ##### § 1.2.1.1. Taakstelling
 ##### § 1.2.1.2. Institutionele bepalingen
 ##### § 1.2.1.3. Regelgevende bevoegdheid
-#### Afdeling 1.2.2. Rekening en verantwoording
+#### Afdeling 1.2.2. Informatievoorziening, sturing en toezicht
 ### Hoofdstuk 1.3. Samenwerking toezichthouders
 #### Afdeling 1.3.1. Samenwerking toezichthouders nationaal
 #### Afdeling 1.3.2. Samenwerking met andere lidstaten algemeen
@@ -42,7 +42,6 @@
 #### Afdeling 1.6.1. Vergunningen
 #### Afdeling 1.6.1a. Verklaringen van geen bezwaar als bedoeld in artikel 3:95 en 3:96
 #### Afdeling 1.6.2. Registratie
-#### Afdeling 1.6.3. Beroep
 ### Hoofdstuk 1.8. Beloningen van dagelijks beleidsbepalers bij steunmaatregelen
 ## 2. Deel Markttoegang Financiële Ondernemingen
 ### Hoofdstuk 2.1. Inleidende bepalingen
@@ -158,6 +157,7 @@
 ##### § 3.3.3.1. Financiële ondernemingen met zetel in Nederland
 ##### § 3.3.3.1a. Financiële ondernemingen met zetel in een andere lidstaat
 ##### § 3.3.3.2. Financiële ondernemingen met zetel in een staat die geen lidstaat is
+##### § 3.3.3.2a. Financiële ondernemingen met zetel in een aangewezen staat
 ##### § 3.3.3.3. Financiële ondernemingen met zetel in een niet-aangewezen staat
 #### Afdeling 3.3.4. Overige bepalingen
 ##### § 3.3.4.1. Financiële ondernemingen met zetel in Nederland
@@ -263,9 +263,7 @@
 ##### § 4.3.1.5. Verzekeringen
 ##### § 4.3.1.6. Premiepensioenvorderingen
 ##### § 4.3.1.7. Provisie
-#### Afdeling 4.3.2. Adviseren
 #### Afdeling 4.3.3. Bemiddelen
-##### § 4.3.3.1. Algemeen
 ##### § 4.3.3.2. Krediet
 ##### § 4.3.3.3. Verzekeringen
 #### Afdeling 4.3.4. Herverzekeringsbemiddelen

@@ -7,7 +7,7 @@ d. lidstaat van herkomst: ingeval de bank een rechtspersoon is, de lidstaat waar
 e. bevoegde instanties: de administratieve of rechterlijke instanties die bevoegd zijn ter zake van liquidatieprocedures;
 f. toezichthoudende autoriteit: de instantie die in een lidstaat bij of krachtens de wet met het toezicht op het kredietwezen is belast;
 g. curator: de curator of elke andere persoon of ander orgaan, aangewezen door de bevoegde instanties van een andere lidstaat dan Nederland of door een bestuursorgaan van de bank om de liquidatieprocedure uit te voeren;
-h. financiële instrumenten: instrumenten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;
+h. financiële instrumenten: instrumenten, bedoeld in artikel 1:1 van de Wet op het financieel toezicht;
 i. deposito: een deposito als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;
 j. gegarandeerd deposito: een deposito voor zover dit voor vergoeding ingevolge het depositogarantiestelsel, bedoeld in artikel 3:259, tweede lid, van de Wet op het financieel toezicht in aanmerking komt;
 k. deposito-overeenkomst: de overeenkomst op grond waarvan een depositohouder een deposito houdt bij een bank;
