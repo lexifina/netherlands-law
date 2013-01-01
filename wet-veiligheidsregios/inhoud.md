@@ -15,8 +15,8 @@
 ## § 14. Toezicht
 ## § 15. Binnentreden
 ## § 16. Sancties
-## § 17. Nederlands instituut fysieke veiligheid
-## § 18. Nederlands bureau brandweerexamens
+## § 17. Het Instituut Fysieke Veiligheid
+## § 18. Evaluatie
 ## § 19. Invoerings- en overgangsbepalingen
 ## § 20. Slotbepalingen
 ## Groningen
