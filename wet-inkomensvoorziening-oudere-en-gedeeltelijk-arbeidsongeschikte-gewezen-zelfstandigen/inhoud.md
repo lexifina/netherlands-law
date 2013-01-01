@@ -7,10 +7,10 @@
 ### § 4. De betaling van de uitkering
 ### § 5. Terugvordering
 ## Hoofdstuk III. Rechten en plichten
-## Hoofdstuk IV. Uitvoering en toezicht
+## Hoofdstuk IV. Uitvoering, gegevensverstrekking en informatievoorziening
 ### § 1. Verantwoordelijkheid voor de uitvoering
 ### § 2. Inlichtingenverplichting en gegevensuitwisseling
-### § 3. Toezicht
+### § 3. Aanwijzingsbevoegdheid en gemeentelijke toezichthouders
 ### § 4. Informatie
 ## Hoofdstuk V. Financiering
 ### Paragraaf 5. Voorzieningen
