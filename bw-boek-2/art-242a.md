@@ -1,0 +1,11 @@
+# Artikel 242a
+1. Tot bestuurder van een vennootschap die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, niet heeft voldaan aan ten minste twee van de vereisten als bedoeld in artikel 397 leden 1 en 2 kunnen niet worden benoemd:
+a. personen die commissaris of niet uitvoerende bestuurder zijn bij meer dan twee rechtspersonen;
+b. personen die voorzitter zijn van de raad van commissarissen van een rechtspersoon of van het bestuur van een rechtspersoon indien de bestuurstaken zijn verdeeld over uitvoerende en niet uitvoerende bestuurders.
+2. Voor de toepassing van dit artikel:
+a. wordt met een commissaris gelijkgesteld de persoon die lid is van een toezichthoudend orgaan dat bij of krachtens de statuten van een rechtspersoon is ingesteld;
+b. telt de benoeming bij verschillende rechtspersonen die met elkaar in een groep zijn verbonden als één benoeming;
+c. betreft de verwijzing naar rechtspersonen de rechtsvorm van de naamloze vennootschap en de besloten vennootschap met beperkte aansprakelijkheid die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, niet heeft voldaan aan ten minste twee van de vereisten als bedoeld in artikel 397 leden 1 en 2, onderscheidenlijk de stichting als bedoeld in artikel 297a lid 1;
+d. wordt met bestuurder in de zin van de aanhef van lid 1 gelijkgesteld de uitvoerende bestuurder, indien de bestuurstaken zijn verdeeld over uitvoerende en niet uitvoerende bestuurders;
+e. geldt een tijdelijke aanstelling overeenkomstig artikel 349a lid 2 of artikel 356 onder c niet als benoeming.
+3. De nietigheid van de benoeming op grond van de vorige leden heeft geen gevolgen voor de rechtsgeldigheid van de besluitvorming waaraan is deelgenomen.
