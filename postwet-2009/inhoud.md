@@ -26,7 +26,6 @@
 ## Hoofdstuk 9. Kosten werkzaamheden college
 ## Hoofdstuk 10. Implementatie van Europese richtlijnen en verordeningen
 ## Hoofdstuk 11. Buitengewone omstandigheden
-## Hoofdstuk 12. Beroep
 ## Hoofdstuk 13. Wijziging in andere wetten
 ### § 13.1. Ministerie van Justitie
 ### § 13.2. Ministerie van Binnenlandse Zaken
