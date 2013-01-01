@@ -18,12 +18,13 @@
 ### Titel 2. Bekostiging beroepsonderwijs
 #### § 1. Bekostiging
 #### § 2. Leerlinggebonden financiering
-### Titel 3. Uitkering ten behoeve van de educatie
+### Titel 2a. Bekostiging voortgezet algemeen volwassenenonderwijs
+### Titel 3. Uitkering educatie met uitzondering van opleidingen voortgezet algemeen volwassenenonderwijs; informatie en gegevensverstrekking educatie
 ### Titel 4. Bekostiging van kenniscentra beroepsonderwijs bedrijfsleven
 #### § 1. Bekostiging
 ### Titel 5. Begroting, verslaglegging en gegevensverstrekking
 #### § 1. Instellingen voor beroepsonderwijs en educatie
-#### § 1a. Verantwoording educatiemiddelen
+#### § 1a. Verantwoording middelen voortgezet algemeen volwassenenonderwijs
 #### § 2. Kenniscentra beroepsonderwijs bedrijfsleven
 ### TITEL 6. SCHOLENGEMEENSCHAP ROC OF AOC MET SCHOOL VOOR VOORTGEZET ONDERWIJS; VOORSCHRIFTEN T.A.V. VBO IN AOC
 ### Titel 6a. Samenwerking met VO-scholen ter bevordering van doelmatig en doeltreffend onderwijs
@@ -50,9 +51,9 @@
 #### § 1. Reikwijdte
 #### § 2. Beroepsopleidingen en kwalificatiestructuur
 ### Titel 3. De educatie
-### Titel 4. Examens
-#### § 1. Examens beroepsopleidingen en opleidingen educatie, met uitzondering van opleidingen voortgezet algemeen volwassenenonderwijs en opleidingen Nederlands als tweede taal
-#### § 2. Examens opleidingen voortgezet algemeen volwassenenonderwijs en Nederlands als tweede taal I en II
+### Titel 4. Examens, onderwijsprogramma en deelnemersstatuut
+#### § 1. Beroepsopleidingen en opleidingen educatie, met uitzondering van opleidingen voortgezet algemeen volwassenenonderwijs en opleidingen Nederlands als tweede taal I en II
+#### § 2. Opleidingen voortgezet algemeen volwassenenonderwijs en opleidingen Nederlands als tweede taal I en II
 ### Titel 5. Commissie van beroep voor de examens
 ### Titel 7. Practicumplaatsen voor studenten in opleiding
 ## Hoofdstuk 8. Inschrijving, vooropleidingseisen, voortijdig schoolverlaten
@@ -71,12 +72,12 @@
 #### § 1. Bevoegd gezag; bestuursoverdracht
 #### § 2. Bestuur en inrichting van de instellingen
 ### Titel 2. De kenniscentra beroepsonderwijs bedrijfsleven
-## Hoofdstuk 10. Beroep bij de administratieve rechter
+## Hoofdstuk 10. Beroep bij de bestuursrechter
 ## Hoofdstuk 11. Sancties
 ### Paragraaf 1. Inhouden en opschorten bekostiging; strafbepaling
 ## Hoofdstuk 11a. Experimenten
 ## Hoofdstuk 12. Overgangs-, invoerings- en slotbepalingen
-### Titel 1. Intrekking regelingen
+### Titel 1. Overgangsbepalingen experiment leergang vm2
 ### Titel 2. Voorzieningen voor onbepaalde tijd
 ### Titel 3. Invoering van de wet
 ### Titel 4. Bepalingen met betrekking tot leerlinggebonden financiering

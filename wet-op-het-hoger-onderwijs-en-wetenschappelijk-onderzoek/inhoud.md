@@ -90,7 +90,7 @@
 ### Titel 1. Het bestuur en de inrichting van de Koninklijke Nederlandse Akademie van Wetenschappen
 ### Titel 2. Het bestuur en de inrichting van de Koninklijke Bibliotheek
 ### Titel 3. Overige bepalingen
-## Hoofdstuk 14. Beroep op de administratieve rechter
+## Hoofdstuk 14. Beroep bij de bestuursrechter
 ## Hoofdstuk 15. Inhouding bekostiging, schadevergoeding en strafbepalingen
 ## Hoofdstuk 16. Overgangsvoorzieningen bij invoering van de wet en enkele andere overgangsvoorzieningen
 ### Paragraaf 1. Onderwijsbevoegdheden en rechtspositie
