@@ -1,2 +1,0 @@
-# Inhoud
-## Figuur 2
