@@ -9,5 +9,4 @@
 ### § 4. Bijzondere regelen
 ## Hoofdstuk IV. Het in- en verkoopbureau
 ## Hoofdstuk V. De in- en uitvoer
-## Hoofdstuk VI. Beroep
 ## Hoofdstuk VII. Overige bepalingen
