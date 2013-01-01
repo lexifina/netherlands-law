@@ -1,10 +1,10 @@
 # Artikel 475d
 1. De beslagvrije voet bedraagt voor schuldenaren die kunnen worden aangemerkt als:
 a. echtgenoten of geregistreerde partners als bedoeld in artikel 3 van Wet werk en bijstand die beiden 21 jaar of ouder zijn: negentig procent van de norm genoemd in artikel 21, onderdeel c, respectievelijk artikel 22, onderdeel c en d, van die wet;
-b. een alleenstaande en een alleenstaande ouder als bedoeld in artikel 4, onderdeel a en b, van de Wet werk en bijstand die 21 jaar of ouder, doch jonger dan 65 jaar zijn:
+b. een alleenstaande en een alleenstaande ouder als bedoeld in artikel 4, onderdeel a en b, van de Wet werk en bijstand die 21 jaar of ouder zijn, maar nog niet de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, hebben bereikt:
 1°. indien het periodieke inkomen bij de beslaglegger bekend is: 90 procent van dat inkomen inclusief de vakantie-aanspraak, doch ten minste 90 procent van de norm genoemd in artikel 21, onderdeel a en b, van de Wet werk en bijstand en ten hoogste 90 procent van die norm nadat deze eerst is verhoogd met het bedrag genoemd in artikel 25, tweede lid, van die wet;
 2°. indien het periodieke inkomen niet bij de beslaglegger bekend is: 90 procent van de norm genoemd in artikel 21, onderdeel a en b, van de Wet werk en bijstand;
-c. een alleenstaande van 65 jaar of ouder en een alleenstaande ouder van 65 jaar of ouder: negentig procent van de norm genoemd in artikel 22, onderdeel a en b, van die wet.
+c. een alleenstaande en een alleenstaande ouder vanaf het moment dat zij de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, hebben bereikt: negentig procent van de norm genoemd in artikel 22, onderdeel a en b, van die wet.
 2. De beslagvrije voet bedraagt voor schuldenaren die kunnen worden aangemerkt als:
 a. echtgenoten of geregistreerde partners zonder ten laste komende kinderen die beiden jonger zijn dan 21 jaar: 90 procent van de norm genoemd in artikel 20, eerste lid, onderdeel b, van de Wet werk en bijstand;
 b. echtgenoten of geregistreerde partners zonder ten laste komende kinderen waarvan een van hen jonger is dan 21 jaar: 90 procent van de norm genoemd in artikel 20, eerste lid, onderdeel c, van de Wet werk en bijstand;
