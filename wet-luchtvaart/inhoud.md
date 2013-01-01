@@ -86,7 +86,11 @@
 #### § 8a.3.2. Heffingen burgerluchthavens van nationale betekenis
 #### § 8a.3.3. Heffingen burgerluchthavens van regionale betekenis
 ### Titel 8A.4. Geluidbelastingkaarten en actieplannen in verband met EU richtlijn omgevingslawaai
-### Titel 8A.5. Overige bepalingen
+### Titel 8A.5. Overige bepalingen burgerluchthavens
+### Titel 8A.6. Gevolgen van buitenlandse luchthavens voor de ruimtelijke ordening op Nederlands grondgebied
+#### § 8a.6.1. Het besluit beperkingengebied buitenlandse luchthaven
+#### § 8a.6.2. Financiële aspecten
+#### § 8a.6.3. Commissie regionaal overleg luchthaven
 ## Hoofdstuk 9. Bijzondere of buitengewone omstandigheden
 ## Hoofdstuk 10. Militaire luchtvaart
 ### Titel 10.1. Personeel en luchtvaartuigen
@@ -118,6 +122,7 @@
 ### Titel 11.2. Bestuursrechtelijke handhaving
 #### § 11.2.1. Bestuursrechtelijke handhaving door Minister van Verkeer en Waterstaat
 #### § 11.2.2. Bestuursrechtelijke handhaving door Minister van Defensie
+#### § 11.2.2a. Bestuursrechtelijke handhaving door Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
 #### § 11.2.3. Bestuursrechtelijke boete door gedeputeerde staten
 #### § 11.2.4. Bestuursrechtelijke handhaving door Nederlandse Mededingingsautoriteit
 ### Titel 11.3. Uitzonderingen
