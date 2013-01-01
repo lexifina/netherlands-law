@@ -1,0 +1,2 @@
+# Artikel 111c
+De ambtenaren van de rijksbelastingdienst doen van hetgeen hen bij de uitvoering van hun taak betreffende de persoon of de zaken van een notaris, toegevoegd notaris of kandidaat-notaris blijkt of hun meegedeeld wordt, terstond mededeling aan het Bureau, indien het een handelen of nalaten betreft dat, gelet op artikel 93, eerste lid, aanleiding kan zijn voor de indiening van een klacht.

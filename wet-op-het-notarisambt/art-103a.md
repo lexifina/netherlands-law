@@ -1,0 +1,6 @@
+# Artikel 103a
+1. De geldboete, bedoeld in artikel 103, eerste lid, onderdeel c, bedraagt ten hoogste het bedrag van de vierde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.
+2. De beslissing tot oplegging van de geldboete bevat de termijn waarbinnen en de wijze waarop het bedrag moet worden betaald. Op verzoek van de notaris, toegevoegd notaris of kandidaat-notaris kan de voorzitter van de kamer voor het notariaat de termijn verlengen.
+3. Het bedrag van de opgelegde boete komt ten bate van de Staat.
+4. Wordt de boete niet voldaan binnen de termijn, krachtens het tweede lid gesteld, dan kan de kamer, na de betrokken notaris, toegevoegd notaris of kandidaat-notaris in de gelegenheid te hebben gesteld daarover te worden gehoord, ambtshalve beslissen een of meer tuchtrechtelijke maatregelen op te leggen als bedoeld in artikel 103, eerste lid, onderdelen c, e of f, de maatregel als bedoeld in artikel 103, derde lid, laatste deelzin.
+5. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de invordering van de geldboete.
