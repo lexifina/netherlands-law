@@ -1,0 +1,3 @@
+# Artikel III
+1. Binnen vijf jaar na inwerkingtreding van deze wet wordt een besluit beperkingengebied buitenlandse luchthaven als bedoeld in artikel 8a.54, eerste lid, van de Wet luchtvaart, vastgesteld.
+2. Een algemene maatregel van bestuur die op grond van artikel 108 van de Wet geluidhinder is vastgesteld met betrekking tot een buitenlandse luchthaven, genoemd in artikel 8a.54, eerste lid, van de Wet luchtvaart en de krachtens die maatregel genomen besluiten blijven voor deze luchthaven van kracht tot het tijdstip waarop een besluit beperkingengebied buitenlandse luchthaven voor deze luchthaven in werking treedt.
