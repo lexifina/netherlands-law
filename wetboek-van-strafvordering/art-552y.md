@@ -1,5 +1,5 @@
 # Artikel 552y
-1. De Minister van Justitie wijst een verzoek van een buitenlandse autoriteit tot het instellen van een strafvervolging aanstonds af, indien onmiddellijk kan worden vastgesteld dat
+1. Onze Minister van Veiligheid en Justitie wijst een verzoek van een buitenlandse autoriteit tot het instellen van een strafvervolging aanstonds af, indien onmiddellijk kan worden vastgesteld dat
 a. het betrekking heeft op een vreemdeling, die zijn vaste woon- of verblijfplaats buiten Nederland heeft;
 b. het feit waarvoor de strafvervolging wordt verzocht
 1°. naar Nederlands recht niet strafbaar is;
