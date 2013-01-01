@@ -1,0 +1,3 @@
+# Artikel 12c
+1. Indien de bevoegde instantie van een lidstaat, de aanvrager of een derde, zoals een getuige of een deskundige, wenst te horen, stelt het fonds de desbetreffende bevoegde instantie in staat de aanvrager of derde rechtstreeks te horen per telefoon- of videoverbinding, of hoort het fonds de aanvrager of derde zelf en zendt zij hiervan proces-verbaal van verhoor naar de bevoegde instantie. De aanvrager en de derden zijn niet verplicht tot medewerking aan rechtstreeks verhoor.
+2. Indien het fonds de aanvrager of een derde, zoals een getuige of deskundige, wenst te horen, stelt zij de bevoegde instantie in de desbetreffende lidstaat hiervan in kennis.
