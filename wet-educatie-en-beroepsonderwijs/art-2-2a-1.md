@@ -1,0 +1,3 @@
+# Artikel 2.2a.1. Rijksbijdrage voortgezet algemeen volwassenenonderwijs
+1. De rijksbijdrage voor het voortgezet algemeen volwassenenonderwijs waarop de in artikel 1.3.1 bedoelde aanspraak betrekking heeft wordt, binnen het raam van de door de begrotingswetgever beschikbaar gestelde middelen, per instelling berekend aan de hand van een bij of krachtens algemene maatregel van bestuur vastgestelde berekeningswijze.
+2. Artikel 2.2.1, derde lid, onder a tot en met k, en vierde lid, zijn van overeenkomstige toepassing, met dien verstande dat in onderdeel i onder gewezen personeel mede wordt begrepen personeel dat was belast met werkzaamheden op het gebied van het beroepsonderwijs.
