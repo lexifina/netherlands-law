@@ -19,6 +19,7 @@
 ## Titel VI. De kansspelautoriteit
 ### Afdeling 1. Inleidende bepalingen
 ### Afdeling 2. Kansspelheffing
+### Afdeling 3. Gegevensverwerking
 ## Titel VIa. Toezicht op de naleving
 ## Titel VIb. Bestuurlijke handhaving
 ### § 1. Last onder bestuursdwang

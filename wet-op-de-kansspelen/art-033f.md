@@ -9,12 +9,10 @@ a. voor tafelspelen in een speelcasino: € 160 per speeltafel en € 120 per aa
 b. voor kansspelautomaten bestemd voor opstelling in een speelcasino: € 120 per spelersplaats;
 c. voor kansspelautomaten bestemd voor opstelling in een speelautomatenhal: € 80 per spelersplaats;
 d. voor kansspelautomaten bestemd voor opstelling in een hoogdrempelige inrichting: € 40 per spelersplaats;
-3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de heffing.
-4. De kansspelheffing wordt geheven met overeenkomstige toepassing van de Algemene wet inzake rijksbelastingen.
-5. De kansspelheffing wordt geheven bij wege van aanslag.
-6. Voor de toepassing van de Algemene wet inzake rijksbelastingen treden in de plaats:
-a. voor het bestuur van 's Rijksbelastingen en de inspecteur: de raad van bestuur, bedoeld in artikel 33a;
-b. voor de ambtenaren van de rijksbelastingdienst: de ambtenaren die ingevolge artikel 34, eerste lid, belast zijn met het toezicht op de naleving.
-7. De kansspelheffing wordt ingevorderd met toepassing van de Invorderingswet 1990 en de Kostenwet invordering rijksbelastingen als was deze heffing een rijksbelasting in de zin van artikel 2, eerste lid, onderdeel a, van de Invorderingswet 1990 en geschiedt door de zorg van de ontvanger, bedoeld in artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990, alsmede door de overige in die wet genoemde functionarissen.
-8. Bij de invordering van de kansspelheffing blijven van de Invorderingswet 1990 buiten toepassing de artikelen 5, 20, 21, 59, 62 en 69.
+3. Overeenkomstig bij regeling van Onze Minister van Veiligheid en Justitie te stellen regels verstrekt de vergunninghouder op de daarbij vastgestelde wijze en binnen de daarbij vastgestelde termijn de gegevens en bescheiden die voor de vaststelling van de heffing van belang kunnen zijn en verstrekt hij op verzoek van de kansspelautoriteit de nadere gegevens en bescheiden die de kansspelautoriteit voor de vaststelling van de kansspelheffing behoeft.
+4. Indien de vergunninghouder niet binnen de daartoe gestelde termijn de gegevens en bescheiden, bedoeld in het derde lid, heeft verstrekt of kennelijk onjuiste of onvolledige gegevens heeft verstrekt, kan de kansspelautoriteit een schatting doen van de gegevens die voor de vaststelling van de heffing van belang zijn.
+5. De kansspelautoriteit kan een voorlopige kansspelheffing opleggen tot ten hoogste het bedrag waarop de kansspelheffing met toepassing van de verrekening, bedoeld in het zesde lid, van eerdere voorlopige kansspelheffingen vermoedelijk zal worden vastgesteld. Indien het bedrag in termijnen kan worden betaald, vermeldt de beschikking de te betalen geldsommen en de termijnen waarbinnen de betalingen moeten plaatsvinden. De voorlopige heffing wordt niet vastgesteld voor aanvang van het kalenderjaar waarop zij betrekking heeft.
+6. De voorlopige kansspelheffing wordt verrekend met de kansspelheffing.
+7. De kansspelheffing en de voorlopige kansspelheffing kunnen bij dwangbevel worden ingevorderd.
+8. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de heffing.
 9. De in het eerste en tweede lid genoemde bedragen kunnen bij ministeriële regeling worden gewijzigd.
