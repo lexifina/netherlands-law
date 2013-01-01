@@ -39,6 +39,7 @@
 #### Afdeling 10. Onderwijsachterstandenbeleid
 #### Afdeling 11. Verslaglegging en informatieverstrekking
 #### Afdeling 11A. Zij-instroom in het beroep
+#### Afdeling 11B. Experimenten
 #### Afdeling 12. Overige bepalingen
 ## Hoofdstuk II. Andere vormen van basisonderwijs
 ## Hoofdstuk III. Slotbepalingen
