@@ -1,0 +1,2 @@
+# Artikel 11a
+De kosten van het verhaal van een opgelegde ontnemings- of schadevergoedingsmaatregel worden op gelijke voet als de ontnemings- of schadevergoedingsmaatregel verhaald op degene aan wie deze maatregel is opgelegd. Onder de kosten van verhaal zijn begrepen de invorderingskosten. De kosten van verhaal, voor zover zij niet betreffen de invorderingskosten, worden berekend overeenkomstig de bij het Besluit tarieven ambtshandelingen gerechtsdeurwaarders vastgestelde tarieven. De omvang van de invorderingskosten wordt bepaald bij ministeriële regeling.
