@@ -1,0 +1,8 @@
+# Artikel 11a. Uitkering indien geen recht op WW-uitkering bestaat
+1. Onze Minister kan regels stellen waarbij een recht op uitkering wordt toegekend aan categorieën van betrokkenen die op grond van de overige artikelen van dit besluit geen recht hebben op bovenwettelijke uitkering omdat zij geen recht hebben op WW-uitkering.
+2. Een recht op uitkering, toegekend op grond van het eerste lid:
+a. wordt voor de toepassing van dit besluit gelijkgesteld met een recht op bovenwettelijke uitkering; en
+b. eindigt niet door de omstandigheid dat de betrokkene wegens ziekte, arbeidsongeschiktheid of verlof op grond van de WAZO niet beschikbaar is om arbeid te aanvaarden, indien hij geen recht heeft op een uitkering op grond van de ZW, de WIA, de WAO of de WAZO vanwege het enkele feit dat zijn verzekering op grond van de daar genoemde wetten is geëindigd; en
+c. is, indien de betrokkene alsnog of wederom recht krijgt op WW-uitkering, niet van invloed op het recht op bovenwettelijke uitkering dat voor de betrokkene verbonden is aan dat recht op WW-uitkering.
+Onderdeel b van de vorige volzin is niet van toepassing in de situatie, bedoeld in artikel 6, derde lid.
+3. Zolang en voorzover de betrokkene tegelijk recht heeft op een uitkering, toegekend op grond van het eerste lid, en een WW-uitkering, een ZW-uitkering, een bovenwettelijke uitkering of een uitkering die daar naar aard en strekking mee overeenkomt, heeft de uitkering op grond van het eerste lid het karakter van een aanvulling tot de hoogte die de uitkering op grond van het eerste lid zonder de samenloop zou hebben. Artikel 5, zevende lid, is van overeenkomstige toepassing.
