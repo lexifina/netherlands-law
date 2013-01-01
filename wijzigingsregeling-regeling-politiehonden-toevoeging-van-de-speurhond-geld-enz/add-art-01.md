@@ -1,2 +1,0 @@
-# Artikel I
-[Wijzigt de Regeling politiehonden.]
