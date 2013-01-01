@@ -14,7 +14,6 @@
 ## Hoofdstuk 5. Financieel toetsingskader inzake beroepspensioenfondsen
 ## Hoofdstuk 6. Toezicht, handhaving en overige taken toezichthouder
 ### § 1. De toezichthouder
-### § 2. Rekening en verantwoording
 ### § 3. Bevoegdheden Onze Minister
 ### § 4. Handhaving
 #### § 4.1. Algemeen – in Nederland zetel hebbende pensioenuitvoerders
