@@ -1,0 +1,5 @@
+# Artikel 13c
+1. Indien een inburgeraar in aanmerking wordt gebracht voor een inburgeringsvoorziening, een gecombineerde inburgeringsvoorziening of een taalkennisvoorziening doet het college van burgemeester en wethouders de inburgeraar terzake een aanbod.
+2. Indien het aanbod, bedoeld in het eerste lid, geheel of gedeeltelijk bestaat uit een persoonlijk inburgeringsbudget begeleidt het college van burgemeester en wethouders de inburgeraar op diens verzoek bij de vormgeving van zijn inburgeringsprogramma en de keuze van een inburgeringsbedrijf. Het college van burgemeester en wethouders beoordeelt het voorstel van de inburgeraar en sluit vervolgens een overeenkomst met het inburgeringsbedrijf.
+3. Indien een inburgeraar tevens geestelijke bedienaar is, wordt hem onverminderd het bepaalde in het eerste en tweede lid, de cursus, bedoeld in artikel 4.25 van de Regeling inburgering zoals deze luidde op 31 december 2012 aangeboden.
+4. Het college van burgemeester en wethouders doet geen aanbod aan een inburgeraar met wie eerder een overeenkomst als bedoeld in artikel 13d is gesloten.

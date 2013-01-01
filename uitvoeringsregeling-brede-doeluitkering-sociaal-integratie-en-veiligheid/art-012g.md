@@ -1,0 +1,4 @@
+# Artikel 12g
+1. De uitkeringen aan de centrumgemeenten voor vrouwenopvang, worden verhoogd ten laste van de middelen die vanuit hoofdstuk XVI van de Rijksbegroting voor 2008 en 2009 ter beschikking worden gesteld ten behoeve van de aanwezigheid van een advies- en steunpunt huiselijk geweld.
+2. Het procentuele aandeel van de betreffende centrumgemeenten wordt voor het jaar 2008 en voor het jaar 2009 vastgesteld volgens de Tijdelijke stimuleringsregeling advies- en steunpunten huiselijk geweld.
+3. De Minister neemt begin 2008 een beschikking tot verlening van de in het eerste lid bedoelde verhoging, met inachtneming van de in het meerjarenontwikkelingsprogramma vastgelegde te bereiken resultaten, bedoeld in artikel 5, tweede lid, van het Besluit. De verhoging wordt in zijn geheel toegedeeld aan de indicator, bedoeld in artikel 10, onderdeel r.

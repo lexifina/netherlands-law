@@ -1,0 +1,3 @@
+# Artikel 13e
+1. Indien de inburgeraar het inburgeringsexamen heeft behaald, ontvangt hij het inburgeringsdiploma.
+2. Het inburgeringsdiploma wordt uitgereikt door de Minister.

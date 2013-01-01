@@ -1,0 +1,2 @@
+# Artikel 15c
+Onverminderd artikel 15b kan in 2006 en 2007 een additioneel voorschot worden verstrekt op het inburgeringsdeel, maximaal ter hoogte van het verschil tussen enerzijds de op de grondslag van artikel 7, eerste en tweede lid, vast te stellen middelen voor de inburgering van nieuwkomers en anderzijds het op grond van artikel 15, eerste en tweede lid, verstrekte voorschot voor de inburgering van nieuwkomers, mits dat verschil groter is dan nul.

@@ -1,0 +1,2 @@
+# Artikel 15a
+Onverminderd artikel 15 wordt in november 2005 een additioneel voorschot verstrekt op het inburgeringsdeel, ter hoogte van het verschil tussen enerzijds de helft van de door de Minister voor Vreemdelingenzaken en Integratie geraamde door een gemeente opgebouwde reserve aan niet bestede rijksbijdragen als bedoeld in artikel 1, onderdeel g, van het Bekostigingsbesluit inburgering nieuwkomers, per 31 december 2004, en anderzijds de helft van de verantwoorde reserve van een gemeente per 31 december 2004, mits dat verschil groter is dan € 0.
