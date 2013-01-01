@@ -1,0 +1,5 @@
+# Artikel 13e. Het pensioen
+1. Het pensioen bedraagt op jaarbasis de som van de opgebouwde pensioenaanspraken.
+2. Voor zover het pensioen in gaat op een leeftijd die afwijkt van de pensioenrichtleeftijd die gold op het moment dat pensioenaanspraak werd opgebouwd, wordt voor de bepaling van de in het eerste lid bedoelde som dat deel van de aanspraak herrekend. Daarbij wordt voor het deel van de aanspraak dat is opgebouwd onder een lagere of hogere pensioenrichtleeftijd dan de leeftijd waarop het pensioen in gaat, de aanspraak verhoogd onderscheidenlijk verlaagd.
+3. Het pensioen kan op verzoek van de betrokkene in hoogte variëren in de loop der jaren, waarbij herrekening over de jaren plaats vindt. Daarbij wordt een eerdere verlaging of verhoging gecompenseerd door een latere verhoging onderscheidenlijk verlaging.
+4. Bij de herrekening, bedoeld in het tweede en derde lid, wordt aangesloten bij de herrekening die in overeenkomstige gevallen wordt gehanteerd ten aanzien van overheidswerknemers.
