@@ -1,0 +1,5 @@
+# Artikel 5a. Verzoek verkorting stage en waardering relevante werkzaamheden
+1. Het bestuur van de KNB stelt een commissie in, die als taak heeft het bestuur te adviseren over verzoeken tot verkorting van de stage, indien bepaalde werkzaamheden van de verzoeker, anders dan een stage op één of meer notariskantoren in Nederland, relevant zijn voor de voorbereiding op het notarisambt.
+2. Het bestuur van de KNB stelt een reglement vast voor de waardering van de werkzaamheden van verzoeker, genoemd in het eerste lid. Hierin geeft het bestuur aan welke werkzaamheden in beginsel gelijk zijn te stellen aan de praktische en theoretische werkzaamheden die een kandidaat-notaris tijdens zijn stage op een notariskantoor verricht.
+3. Het bestuur van de KNB stelt een reglement vast voor de behandeling van verzoeken tot verkorting van de stage, waarin de te volgen procedure en de wijze van bekendmaken van het beleid worden geregeld.
+4. Over de in de voorgaande leden genoemde reglementen wordt de ledenraad geraadpleegd. De reglementen worden zo spoedig mogelijk na vaststelling ter kennis van het ministerie van Veiligheid en Justitie gebracht.
