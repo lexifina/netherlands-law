@@ -1,2 +1,0 @@
-# Artikel 19c
-Een overtreding wordt aangemerkt als een strafbaar feit, indien tweemaal binnen een aan de dag van het constateren van die overtreding voorafgaande periode van 48 maanden, met respectievelijke tussenliggende perioden van ten hoogste 24 maanden, voor een overtreding bestaande uit het niet naleven van eenzelfde wettelijke verplichting een bestuurlijke boete is opgelegd die onherroepelijk is geworden.
