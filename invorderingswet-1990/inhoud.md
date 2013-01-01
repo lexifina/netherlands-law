@@ -6,7 +6,7 @@
 ### Afdeling 1. Verhaalsrechten
 ### Afdeling 2. Verrekening
 ### Afdeling 3. Uitstel van betaling, kwijtschelding en verjaring
-## Hoofdstuk V. Betalingskorting en rente
+## Hoofdstuk V. Betalingskorting en invorderingsrente
 ## Hoofdstuk VI. Aansprakelijkheid
 ### Afdeling 1. Aansprakelijkheid
 ### Afdeling 2. Formele bepalingen
@@ -15,4 +15,4 @@
 ## Hoofdstuk VIIa. Bestuurlijke boeten
 ## Hoofdstuk VIII. Strafrechtelijke bepalingen
 ## Hoofdstuk IX. Aanvullende regelingen
-## Hoofdstuk X. Slotbepalingen
+## Hoofdstuk X. Slot- en overgangsbepalingen
