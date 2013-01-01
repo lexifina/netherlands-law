@@ -1,0 +1,4 @@
+# Artikel II
+1. Voor zover voor een op het tijdstip onmiddellijk voorafgaand aan de inwerkingtreding van deze regeling bestaand werk of bestaande handeling, welk of welke op dat tijdstip niet strijdig was met de daarvoor krachtens de Waterwet geldende regels of voorschriften, als gevolg van een wijziging krachtens deze regeling van een in bijlage II of III van de Waterregeling opgenomen beheergrens een watervergunning als bedoeld in artikel 1.1, eerste lid, van de Waterwet vereist zou worden, blijft ten aanzien van dat werk of die handeling de watervergunningplicht buiten toepassing.
+2. Het eerste lid blijft van toepassing totdat er een wijziging van dat werk of die handeling plaatsvindt die op zichzelf beschouwd grond vormt voor een watervergunningplicht.
+3. In het geval, bedoeld in het tweede lid, geldt de watervergunningplicht voor het gehele samenstel van werken of handelingen.

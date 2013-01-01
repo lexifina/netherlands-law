@@ -1,0 +1,2 @@
+# Artikel III
+Indien vóór het tijdstip van inwerkingtreding van deze regeling een aanvraag om een watervergunning als bedoeld in artikel 6.10a, eerste lid, van het Waterbesluit is gedaan voor een onttrekking welke op grond van artikel 6.3a van de Waterregeling, als gewijzigd door deze regeling, is vrijgesteld van de watervergunningplicht, en daarvoor op dat tijdstip nog geen van kracht zijnde en onherroepelijke watervergunning was verleend, wordt de aanvraag als melding in de zin van artikel 6.11, eerste lid, van het Waterbesluit aangemerkt.
