@@ -11,7 +11,7 @@ c. een onderneming of instelling die bevoegd als bank of als beheerder van een b
 2°. zekerheid te stellen voor de invordering van de belasting die is verschuldigd door de toepassing van artikel 19b, achtste lid, dan wel de belastingplichtige zich heeft verplicht deze zekerheid te stellen.
 3. Voor zover het tegoed van de stamrechtspaarrekening onderscheidenlijk de waarde van het stamrechtbeleggingsrecht, niet is aangewend ter verkrijging van een aanspraak op periodieke uitkeringen als bedoeld in artikel 11, eerste lid, onderdeel g, dient het tegoed van de rekening, onderscheidenlijk de waarde van het recht in termijnen met een gelijke tussenperiode van ten hoogste een jaar te worden uitgekeerd, waarbij de omvang van de termijnen vergelijkbaar is met die bij vorenbedoelde periodieke uitkeringen. Voorts geldt daarbij:
 a. bij in leven zijn van de werknemer of gewezen werknemer:
-1°. dat de aan hem toekomende uitkeringen niet later ingaan dan in het jaar waarin hij de leeftijd van 65 jaar bereikt;
+1°. dat de aan hem toekomende uitkeringen niet later ingaan dan in het jaar waarin hij de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, bereikt;
 2°. dat de periode tussen de eerste en de laatste uitkering ten minste het bij ministeriële regeling vastgestelde aantal jaren bedraagt;
 b. bij overlijden van de werknemer of gewezen werknemer terwijl ingevolge onderdeel a nog geen uitkeringen hebben plaatsgevonden:
 1°. dat de uitkeringen direct ingaan en worden uitgekeerd aan een of meer in de overeenkomst betreffende de stamrechtspaarrekening, onderscheidenlijk het stamrechtbeleggingsrecht, genoemde personen als bedoeld in artikel 11, eerste lid, onderdeel g, onder 1°;
