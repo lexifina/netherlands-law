@@ -1,5 +1,5 @@
 # Artikel 76a
-1. Het UWV kan toestemming verlenen aan de werknemer, die recht heeft op een uitkering op grond van hoofdstuk II, om op een proefplaats bij een werkgever gedurende maximaal drie maanden onbeloonde werkzaamheden te verrichten.
+1. Het UWV kan toestemming verlenen aan de werknemer, die recht heeft op een uitkering op grond van hoofdstuk II, om op een proefplaats bij een werkgever gedurende maximaal zes maanden onbeloonde werkzaamheden te verrichten.
 2. Voor de werknemer, bedoeld in het eerste lid, blijft het recht op uitkering op grond van hoofdstuk II bestaan, onverminderd artikel 20, eerste lid, aanhef en onderdeel e, gedurende de periode waarover toestemming is verleend tot het verrichten van die werkzaamheden.
 3. De onbeloonde werkzaamheden op een proefplaats zijn:
 a. werkzaamheden, waartoe de werknemer met zijn krachten en bekwaamheden in staat is;
