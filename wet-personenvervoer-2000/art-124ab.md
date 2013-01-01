@@ -1,0 +1,2 @@
+# Artikel 124ab
+Een ontheffing die voor de datum van inwerkingtreding van de Wet aanbestedingsvrijheid OV grote steden is verleend, op grond van artikel 24, tweede lid, of artikel 61, tweede lid, zoals die artikelen luidden voor de inwerkingtreding van genoemde wet, blijft van kracht voor de duur waarvoor deze ontheffing is verleend, onverminderd mogelijke wijziging, intrekking of het van rechtswege vervallen.

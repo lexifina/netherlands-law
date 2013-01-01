@@ -1,0 +1,2 @@
+# Artikel 63a
+In afwijking van artikel 61, eerste lid, kan een concessieverlener voor openbaar vervoer, anders dan per trein, in een plusregio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen die de gemeente Amsterdam, 's-Gravenhage, Rotterdam of Utrecht omvat, een concessie verlenen zonder dat daartoe een aanbesteding is gehouden indien deze concessie wordt verleend aan een vervoerder waarop de desbetreffende plusregio net als over haar eigen diensten zeggenschap uitoefent. Artikel 5, tweede lid, van verordening (EG) 1370/2007 is van toepassing.
