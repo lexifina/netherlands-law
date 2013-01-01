@@ -24,7 +24,6 @@
 ## Hoofdstuk 6. Financieel toetsingskader inzake pensioenfondsen
 ## Hoofdstuk 7. Toezicht, handhaving en overige taken toezichthouder
 ### § 7.1. De toezichthouder
-### § 7.2. Rekening en verantwoording
 ### § 7.3. Bevoegdheden Onze Minister
 ### § 7.4. Handhaving
 #### § 7.4.1. Algemeen – in Nederland zetel hebbende pensioenuitvoerders
@@ -34,5 +33,4 @@
 ### § 7.6. Overige bepalingen
 ## Hoofdstuk 8. Gerechtelijke procedures
 ### § 8.1. Burgerrechtelijke geschillen
-### § 8.2. Bestuursrechtelijke geschillen
 ## Hoofdstuk 9. Overige- en slotbepalingen
