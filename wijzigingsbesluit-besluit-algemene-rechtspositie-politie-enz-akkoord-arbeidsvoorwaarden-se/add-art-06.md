@@ -1,3 +1,0 @@
-# Artikel VI
-1. De betrekkingsomvang van de ambtenaar die op 30 juni 2001 in een volledige betrekking was aangesteld, wordt met ingang van 1 juli 2001 gewijzigd in een betrekkingsomvang van gemiddeld 38 uur per week, tenzij de ambtenaar kiest voor een volledige betrekking.
-2. De keuze kan vanaf 1 juni 2001 worden gemaakt doch dient uiterlijk op 31 augustus 2001 aan het bevoegd gezag kenbaar te worden gemaakt. Indien binnen deze termijn van drie maanden geen keuze kenbaar wordt gemaakt, wordt de ambtenaar geacht te hebben gekozen voor een betrekkingsomvang van gemiddeld 38 uur per week met terugwerkende kracht tot 1 juli 2001.

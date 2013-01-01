@@ -1,2 +1,0 @@
-# Artikel X
-Indien de ambtenaar met ingang van hetzelfde tijdstip tot meer dan één kind in familierechtelijke betrekking komt te staan of met het oog op adoptie met ingang van hetzelfde tijdstip de verzorging en opvoeding van meer dan één kind op zich heeft genomen, en een of meer van deze kinderen de leeftijd van 8 jaren hebben bereikt op een tijdstip gelegen tussen 1 januari 2000 en 1 april 2002, bestaat in afwijking van artikel 41 van het Besluit algemene rechtspositie politie tot 1 april 2002 aanspraak op verlof ten aanzien van die kinderen.

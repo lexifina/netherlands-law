@@ -1,2 +1,0 @@
-# ARTIKEL IX
-Dit besluit treedt in werking met ingang van 1 juli 1996 en werkt terug voor wat betreft Artikel I tot en met 1 januari 1995, voor wat betreft Artikel II tot en met 1 april 1995, voor wat betreft Artikel III tot en met 1 juli 1995, voor wat betreft Artikel VII tot en met 1 november 1995, voor wat betreft artikel IV tot en met 1 januari 1996 en voor wat betreft artikel V tot en met 1 april 1996.

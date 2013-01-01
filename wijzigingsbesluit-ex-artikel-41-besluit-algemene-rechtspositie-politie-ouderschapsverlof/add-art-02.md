@@ -1,2 +1,0 @@
-# ARTIKEL II
-In afwijking van artikel 41, eerste lid, laatste volzin, van het Besluit algemene rechtspositie politie, heeft de ambtenaar, bedoeld in dat artikel, voor een kind dat tussen 1 juli 1997 en 1 januari 1999 de leeftijd van acht jaren heeft bereikt, recht op ouderschapsverlof over de periode die ligt tussen 1 juli 1997 en de achtste verjaardag van het kind, met dien verstande dat het verlof uiterlijk tot en met 31 december 1998 kan worden genoten.

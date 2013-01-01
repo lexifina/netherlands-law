@@ -1,4 +1,0 @@
-# Artikel 2e
-1. Indien het op grond van artikel 2, derde lid, onderdeel a, voor de algemene budgetten beschikbare bedrag voor het eerstvolgende jaar gelijk is aan dat van het lopende jaar en het algemene budget van een regio in het eerstvolgende jaar ten opzichte van het lopende jaar daalt als gevolg van de met toepassing van de artikelen 2b, 2c en 2d uitgevoerde berekeningen en deze daling meer dan 1% bedraagt, ontvangt de regio in het eerstvolgende jaar een compensatie ter hoogte van het percentage waarmee de daling de 1% overstijgt.
-2. Indien de in het eerste lid bedoelde daling meer bedraagt dan 2% wordt in het jaar volgende op het eerstvolgende jaar de helft gecompenseerd van het percentage waarmee de 1% wordt overschreden.
-3. Een stijging van het algemene budget ten opzichte van het lopende jaar als gevolg van de loon- en prijsindex, wordt in de berekeningen van het eerste en tweede lid buiten beschouwing gelaten.
