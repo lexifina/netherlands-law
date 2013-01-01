@@ -1,7 +1,7 @@
 # Artikel 137a
 1. Bij het functioneel parket zijn werkzaam:
-a. een hoofdofficier;
-b. een plaatsvervangend hoofdofficier;
+a. een hoofdofficier van justitie;
+b. een plaatsvervangend hoofdofficier van justitie;
 c. officieren van justitie;
 d. plaatsvervangende officieren van justitie;
 e. officieren enkelvoudige zittingen;
@@ -12,6 +12,6 @@ a. senior officieren van justitie A;
 b. senior officieren van justitie;
 c. substituut-officieren van justitie;
 d. rechterlijke ambtenaren in opleiding.
-3. Aan het hoofd van het functioneel parket staat de hoofdofficier met de titel hoofd van het functioneel parket. Hij kan algemene en bijzondere aanwijzingen geven aan de bij zijn parket werkzame ambtenaren betreffende de uitoefening van de taken en bevoegdheden van het parket. In geval van afwezigheid, belet of ontstentenis van het hoofd van het functioneel parket wordt hij vervangen door de plaatsvervangend hoofdofficier.
-4. De hoofdofficier, plaatsvervangend hoofdofficier, senior officieren van justitie A, senior officieren van justitie, officieren van justitie, substituut-officieren van justitie onderscheidenlijk officieren enkelvoudige zittingen zijn van rechtswege plaatsvervangend officier van justitie onderscheidenlijk plaatsvervangend officier enkelvoudige zittingen bij de arrondissementsparketten, bij het landelijk parket en bij het parket-generaal.
-5. De officier enkelvoudige zittingen en de plaatsvervangende officier enkelvoudige zittingen hebben de bevoegdheden en verplichtingen die bij of krachtens de wet aan de officier van justitie worden toegekend, met uitzondering van de bevoegdheid om op te treden ter terechtzitting van een meervoudige kamer van de arrondissementsrechtbank.
+3. Aan het hoofd van het functioneel parket staat de hoofdofficier van justitie met de titel hoofd van het functioneel parket. Hij kan algemene en bijzondere aanwijzingen geven aan de bij zijn parket werkzame ambtenaren betreffende de uitoefening van de taken en bevoegdheden van het parket. In geval van afwezigheid, belet of ontstentenis van het hoofd van het functioneel parket wordt hij vervangen door de plaatsvervangend hoofdofficier van justitie.
+4. De hoofdofficier van justitie, plaatsvervangend hoofdofficier van justitie, senior officieren van justitie A, senior officieren van justitie, officieren van justitie, substituut-officieren van justitie en plaatsvervangende officieren van justitie onderscheidenlijk officieren enkelvoudige zittingen en plaatsvervangende officieren enkelvoudige zittingen zijn van rechtswege plaatsvervangend officier van justitie onderscheidenlijk plaatsvervangend officier enkelvoudige zittingen bij de arrondissementsparketten, bij het landelijk parket en bij het parket-generaal.
+5. De officier enkelvoudige zittingen en de plaatsvervangende officier enkelvoudige zittingen hebben de bevoegdheden en verplichtingen die bij of krachtens de wet aan de officier van justitie worden toegekend, met uitzondering van de bevoegdheid om op te treden ter terechtzitting van een meervoudige kamer van de rechtbank.

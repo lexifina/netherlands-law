@@ -10,8 +10,7 @@
 #### Paragraaf 4. Toezicht
 ### Afdeling 3. De rechtbanken
 #### Paragraaf 1. Algemene bepalingen
-#### Paragraaf 2. De sector kanton
-#### Paragraaf 3. Vorming en bezetting van kamers
+#### Paragraaf 2. Vorming en bezetting van kamers
 ### afdeling Vierde. De gerechtshoven
 #### Paragraaf 1. Algemene bepalingen
 #### Paragraaf 2. Vorming en bezetting van kamers

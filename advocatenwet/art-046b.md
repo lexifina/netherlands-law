@@ -1,5 +1,5 @@
 # Artikel 46b
-1. Elke raad van discipline bestaat uit een voorzitter, ten hoogste zes plaatsvervangende voorzitters, acht leden-advocaten en ten hoogste vijftien plaatsvervangende leden-advocaten.
+1. Elke raad van discipline bestaat uit een voorzitter, ten hoogste dertien plaatsvervangende voorzitters, ten hoogste zestien leden-advocaten en ten hoogste 30 plaatsvervangende leden-advocaten.
 2. De voorzitter en plaatsvervangende voorzitters worden door Onze Minister van Justitie voor de tijd van vier jaren benoemd uit leden van de rechterlijke macht met rechtspraak belast.
 3. De leden-advocaten en de plaatsvervangende leden-advocaten kunnen alleen zijn advocaten die kantoor houden binnen het rechtsgebied van de betrokken raad, die langer dan vijf jaar in Nederland zijn ingeschreven.
 4. De leden-advocaten en de plaatsvervangende leden-advocaten worden door het college van afgevaardigden in de in artikel 19, eerste lid, bedoelde vergadering gekozen uit voordrachten van de raden van toezicht, voor de tijd van ten hoogste vier jaren. De verkiezing geschiedt met inachtneming van het streven naar een regionaal verantwoorde samenstelling van de raden van discipline.

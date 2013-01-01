@@ -5,8 +5,8 @@
 ## Titel IV. Van voorlopige maatregelen
 ## Titel V. Van handelingen in strijd met straffen en maatregelen
 ## Titel VI. Van de afdoening buiten geding
-## Titel VII. Van de bevoegdheid en de samenstelling der arrondissements-rechtbanken
-## Titel VIII. Van de berechting in eerste aanleg
+## Titel VII. De berechting in eerste aanleg
+## Titel VIII
 ## Titel IX. Van het hoger beroep
 ## Titel X
 ## Titel XI. Van de contactambtenaren
