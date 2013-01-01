@@ -3,4 +3,5 @@
 a. indien het niet of niet behoorlijk nakomen van een verplichting op grond van artikel 15 of 16 heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van kinderbijslag;
 b. indien anderszins de kinderbijslag ten onrechte of tot een te hoog bedrag is verleend;
 c. indien het niet of niet behoorlijk nakomen van een verplichting op grond van artikel 15 of 16 ertoe leidt dat niet kan worden vastgesteld of nog recht op kinderbijslag bestaat.
-2. Indien daarvoor dringende redenen aanwezig zijn kan de Sociale verzekeringsbank besluiten geheel of gedeeltelijk van herziening of intrekking af te zien.
+2. Indien daarvoor dringende redenen aanwezig zijn kan de Sociale verzekeringsbank besluiten geheel of gedeeltelijk van herziening of intrekking als bedoeld in het eerste lid af te zien.
+3. Indien de verzekerde of de persoon aan wie of de instelling waaraan op grond van artikel 21 kinderbijslag wordt betaald niet op grond van artikel 15a desgevraagd aantoont dat is voldaan aan artikel 15a, eerste lid, onderdelen a en b, en als gevolg hiervan niet kan worden vastgesteld tot wiens huishouden het kind behoort, wordt het recht op kinderbijslag vastgesteld, herzien of ingetrokken en het recht op kinderbijslag geldend gemaakt overeenkomstig hoofdstuk III, paragraaf 1 en 2.
