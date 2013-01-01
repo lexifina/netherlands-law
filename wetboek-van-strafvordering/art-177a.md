@@ -1,2 +1,2 @@
 # Artikel 177a
-In geval ter zake van een feit waarop een gerechtelijk vooronderzoek betrekking heeft, opsporing geschiedt, draagt de officier van justitie zorg dat de rechter-commissaris hieromtrent ten spoedigste wordt ingelicht en aan deze de desbetreffende processtukken worden toegezonden.
+De officier van justitie draagt er zorg voor dat de rechter-commissaris tot wie hij een vordering richt, tijdig alle relevante stukken ontvangt en voorziet de rechter-commissaris van de inlichtingen die nodig zijn voor een goede uitoefening van diens taak.

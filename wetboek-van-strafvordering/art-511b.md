@@ -1,5 +1,5 @@
 # Artikel 511b
 1. Een vordering van het openbaar ministerie als bedoeld in artikel 36e van het Wetboek van Strafrecht wordt zo spoedig mogelijk doch uiterlijk twee jaren na de uitspraak in eerste aanleg bij de rechtbank aanhangig gemaakt. Indien het strafrechtelijk financieel onderzoek overeenkomstig het bepaalde in artikel 126f, tweede lid, is gesloten en heropend, wordt de periode van twee jaren verlengd met de tijd verlopen tussen deze sluiting en heropening.
-2. De officier van justitie doet bij zijn vordering de stukken waarop zij berust aan de rechtbank toekomen. Artikel 258, vijfde lid, is van overeenkomstige toepassing.
+2. De officier van justitie doet bij zijn vordering de stukken waarop zij berust aan de rechtbank toekomen. Artikel 258, tweede lid, is van overeenkomstige toepassing.
 3. De vordering wordt aan degene op wie zij betrekking heeft betekend, onder mededeling van het recht op kennisneming van de stukken. Indien een strafrechtelijk financieel onderzoek is ingesteld wordt de vordering gelijktijdig met de sluiting van het strafrechtelijk financieel onderzoek aan degene tegen wie het is gericht betekend.
 4. De vordering behelst mede de oproeping om op het daarin vermelde tijdstip ter terechtzitting te verschijnen. De artikelen 260, 263 en 265 tot en met 267 zijn van overeenkomstige toepassing.
