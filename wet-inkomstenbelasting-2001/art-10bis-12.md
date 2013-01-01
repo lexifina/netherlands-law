@@ -1,0 +1,2 @@
+# Artikel 10bis.12. Indexatie
+Bij het begin van het kalenderjaar worden de in artikel 10bis.6, eerste lid, vermelde bedragen bij ministeriële regeling gewijzigd in andere bedragen. Deze bedragen worden berekend door de te wijzigen bedragen te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in artikel 10.2, en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande kalenderjaar een dergelijke afronding is toegepast, kan bij wijziging worden uitgegaan van de niet-afgeronde bedragen.

@@ -1,0 +1,30 @@
+# Artikel 10bis.5. Voordeel uit spaarrekening eigen woning of beleggingsrecht eigen woning
+1. Het voordeel uit spaarrekening eigen woning is het rendement dat op het tijdstip van deblokkering is begrepen in het tegoed van een spaarrekening eigen woning. Het voordeel uit beleggingsrecht eigen woning is het rendement dat op het tijdstip van deblokkering is begrepen in de waarde van een beleggingsrecht eigen woning.
+2. Van een spaarrekening eigen woning is sprake indien het betreft een rekening bij een bank waarbij de volgende voorwaarden in acht worden genomen:
+a. de rekeninghouder of zijn partner heeft een eigen woning met een eigenwoningschuld;
+b. de rekening is geblokkeerd en wordt slechts eenmalig gedeblokkeerd ter aflossing van de eigenwoningschuld;
+c. ten minste 15 jaar, of tot het overlijden van de rekeninghouder of zijn partner, wordt jaarlijks een bedrag naar de rekening overgemaakt waarbij het hoogste totaal van in een jaar naar de rekening overgemaakte bedragen niet meer bedraagt dan het tienvoud van het laagste totaal van in een jaar overgemaakte bedragen; ingeval een spaarrekening met ingang van enig tijdstip wordt aangeduid als spaarrekening eigen woning wordt het op dat tijdstip aanwezige tegoed aangemerkt als eerste overmaking;
+d. de op de rekening genoten inkomsten worden bijgeboekt op de rekening; bij deblokkering in de loop van het tijdvak waarover inkomsten worden genoten, vindt eerst nog bijboeking van die inkomsten plaats voordat tot deblokkering wordt overgegaan;
+e. de bank is een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van bank mag uitoefenen.
+3. Van een beleggingsrecht eigen woning is sprake indien het betreft bij een beheerder van een beleggingsinstelling aangehouden rechten van deelneming in die instelling waarbij de volgende voorwaarden in acht worden genomen:
+a. de eigenaar van het beleggingsrecht of zijn partner heeft een eigen woning met een eigenwoningschuld;
+b. het beleggingsrecht is geblokkeerd en wordt slechts eenmalig gedeblokkeerd ter aflossing van de eigenwoningschuld;
+c. ten minste 15 jaar, of tot het overlijden van de eigenaar van het beleggingsrecht of zijn partner, wordt jaarlijks een bedrag naar de beheerder overgemaakt ter verkrijging van rechten van deelneming waarbij het hoogste totaal van in een jaar naar de beheerder overgemaakte bedragen niet meer bedraagt dan het tienvoud van het laagste totaal van in een jaar overgemaakte bedragen; ingeval een beleggingsrecht met ingang van enig tijdstip wordt aangeduid als beleggingsrecht eigen woning wordt de waarde in het economische verkeer van het recht op dat tijdstip aangemerkt als eerste overmaking;
+d. het met het beleggingsrecht behaalde rendement wordt aangewend ter verkrijging van rechten van deelneming die tot het beleggingsrecht gaan behoren;
+e. de beheerder is een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van beleggingsinstelling mag uitoefenen.
+4. Een spaarrekening eigen woning of een beleggingsrecht eigen woning wordt geacht geheel te zijn gedeblokkeerd indien:
+a. op enig tijdstip de spaarrekening, onderscheidenlijk het beleggingsrecht, niet meer voldoet aan de voorwaarden van het tweede lid, onderscheidenlijk van het derde lid;
+b. de spaarrekening, onderscheidenlijk het beleggingsrecht, wordt vervreemd of verdeeld, behoudens voor zover sprake is van vervreemding of verdeling in het kader van het aangaan of beëindigen van een partnerschap en de spaarrekening, onderscheidenlijk het beleggingsrecht, wordt gecontinueerd als een spaarrekening eigen woning, onderscheidenlijk beleggingsrecht eigen woning;
+c. de spaarrekening, onderscheidenlijk het beleggingsrecht, wordt ingebracht in het vermogen van een onderneming;
+d. de spaarrekening, onderscheidenlijk het beleggingsrecht, gedeeltelijk wordt gedeblokkeerd;
+e. 30 jaren zijn verstreken na de eerste overmaking op de spaarrekening, onderscheidenlijk na de eerste overmaking naar de beheerder van de beleggingsinstelling;
+f. de rekeninghouder van de spaarrekening, onderscheidenlijk de eigenaar van het beleggingsrecht, komt te overlijden; in dat geval wordt de deblokkering geacht te hebben plaatsgevonden op het onmiddellijk daaraan voorafgaande tijdstip; er wordt geen deblokkering verondersteld bij een continuering als bedoeld in onderdeel b, of
+g. het overeengekomen gegarandeerde kapitaal op 31 december 2012 na 31 december 2012 wordt verhoogd, of bij het ontbreken van een gegarandeerd kapitaal, het op grond van de betreffende overeenkomst zoals die luidde op 31 december 2012 te betalen bedrag na 31 december 2012 wordt verhoogd of de looptijd na 31 december 2012 wordt verlengd.
+5. Artikel 10bis.4, vierde en vijfde lid, is van overeenkomstige toepassing. Daarbij wordt gelezen voor:
+a. verzekeringnemer: rekeninghouder van een spaarrekening eigen woning, onderscheidenlijk eigenaar van een beleggingsrecht eigen woning;
+b. kapitaalverzekering eigen woning: spaarrekening eigen woning, onderscheidenlijk beleggingsrecht eigen woning;
+c. tot uitkering te zijn gekomen: te zijn gedeblokkeerd.
+6. Het rendement begrepen in een tegoed van een spaarrekening eigen woning wordt gesteld op het bedrag waarmee het tegoed de naar de spaarrekening overgemaakte bedragen overtreft. Het rendement begrepen in de waarde van een beleggingsrecht eigen woning wordt gesteld op het bedrag waarmee de waarde van het recht de naar de beheerder overgemaakte bedragen overtreft.
+7. In afwijking van het bepaalde in artikel 3.146, is ingeval het vierde of vijfde lid toepassing vindt, het tijdstip waarop geacht wordt deblokkering te hebben plaatsgevonden het tijdstip van genieten van het voordeel uit spaarrekening eigen woning of beleggingsrecht eigen woning.
+8. In afwijking van artikel 9.2, eerste lid, wordt dividendbelasting niet als voorheffing in aanmerking genomen indien de dividendbelasting is ingehouden op de opbrengst die deel uitmaakt van een spaarrekening eigen woning of een beleggingsrecht eigen woning.
+9. Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassing van dit artikel.

@@ -1,0 +1,4 @@
+# Artikel 34a
+De dividendbelasting die op grond van artikel 10bis.5, achtste lid, van de Wet inkomstenbelasting 2001 niet als voorheffing in aanmerking wordt genomen, wordt mede als voorheffing als bedoeld in artikel 25 aangewezen:
+a. van de bank, bedoeld in artikel 10bis.5 van de Wet inkomstenbelasting 2001, indien die bank een bedrag ter grootte van die dividendbelasting overmaakt naar de spaarrekening eigen woning van degene bij wie de dividendbelasting niet als voorheffing in aanmerking wordt genomen;
+b. van de beheerder van de beleggingsinstelling, bedoeld in artikel 10bis.5 van de Wet inkomstenbelasting 2001, indien die beheerder een bedrag ter grootte van die dividendbelasting aanwendt ter verkrijging van een of meer geblokkeerde rechten van deelneming in die instelling ten behoeve van degene bij wie de dividendbelasting niet als voorheffing in aanmerking wordt genomen.

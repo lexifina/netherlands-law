@@ -55,8 +55,7 @@
 ## Hoofdstuk 5. Heffingsgrondslag bij sparen en beleggen
 ### Afdeling 5.1. Belastbaar inkomen uit sparen en beleggen
 ### Afdeling 5.2. Vrijstellingen
-### Afdeling 5.3. Maatschappelijke beleggingen
-### Afdeling 5.3A. Beleggingen in durfkapitaal
+### Afdeling 5.3. Groene beleggingen
 ### Afdeling 5.4. Waardering
 ## Hoofdstuk 6. Persoonsgebonden aftrek
 ### Afdeling 6.1. Persoonsgebonden aftrek
@@ -82,6 +81,7 @@
 ## Hoofdstuk 10. Aanvullende regelingen
 ### Afdeling 10.1. Indexering
 ### Afdeling 10.2. Overige aanvullende regelingen
-## Hoofdstuk 10A. Overgangsrecht ten gevolge van wijzigingswetten
+## Hoofdstuk 10bis. Overgangsrecht ten gevolge van Wet herziening fiscale behandeling eigen woning
+## Hoofdstuk 10A. Overig overgangsrecht ten gevolge van wijzigingswetten
 ## Hoofdstuk 10b. Horizonbepaling
 ## Hoofdstuk 11. Slotbepalingen
