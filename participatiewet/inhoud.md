@@ -28,7 +28,7 @@
 ### § 6.6. Gegevensuitwisseling
 ## Hoofdstuk 7. Financiering, toezicht en informatie
 ### § 7.1. Financiering
-### § 7.2. Toezicht
+### § 7.2. Aanwijzingsbevoegdheid en gemeentelijke toezichthouders
 ### § 7.3. Informatie
 ## Hoofdstuk 7a. Overgangsrecht
 ## Hoofdstuk 8. Slotbepalingen
