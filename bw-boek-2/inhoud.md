@@ -5,7 +5,6 @@
 ### Titel 3. Coöperaties en onderlinge waarborgmaatschappijen
 #### Afdeling 1. Algemene bepalingen
 #### Afdeling 2. De raad van commissarissen bij de grote coöperatie en bij de grote onderlinge waarborgmaatschappij
-#### Afdeling 3. Het beroep
 ### Titel 4. Naamloze vennootschappen
 #### Afdeling 1. Algemene bepalingen
 #### Afdeling 2. De aandelen
@@ -13,8 +12,7 @@
 #### Afdeling 4. De algemene vergadering
 #### Afdeling 5. Het bestuur van de naamloze vennootschap en het toezicht op het bestuur
 #### Afdeling 6. De raad van commissarissen bij de grote naamloze vennootschap
-#### Afdeling 7. De ontbinding van de naamloze vennootschap
-#### Afdeling 8. Het beroep
+#### Afdeling 7. Evenwichtige verdeling van de zetels over vrouwen en mannen
 ### Titel 5. Besloten vennootschappen met beperkte aansprakelijkheid
 #### Afdeling 1. Algemene bepalingen
 #### Afdeling 2. De aandelen
@@ -22,8 +20,7 @@
 #### Afdeling 4. De algemene vergadering
 #### Afdeling 5. Het bestuur van de vennootschap en het toezicht op het bestuur
 #### Afdeling 6. De raad van commissarissen bij de grote besloten vennootschap met beperkte aansprakelijkheid
-#### Afdeling 7. De ontbinding van de vennootschap
-#### Afdeling 8. Het beroep
+#### Afdeling 7. Evenwichtige verdeling van de zetels over vrouwen en mannen
 ### Titel 6. Stichtingen
 ### Titel 7. Fusie en splitsing
 #### Afdeling 1. Algemene bepaling

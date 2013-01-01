@@ -1,0 +1,4 @@
+# Artikel 239a
+1. Bij de statuten kan worden bepaald dat de bestuurstaken worden verdeeld over één of meer niet uitvoerende bestuurders en één of meer uitvoerende bestuurders. De taak om toezicht te houden op de taakuitoefening door bestuurders kan niet door een taakverdeling worden ontnomen aan niet uitvoerende bestuurders. Het voorzitterschap van het bestuur, het doen van voordrachten voor benoeming van een bestuurder en het vaststellen van de bezoldiging van uitvoerende bestuurders kan niet aan een uitvoerende bestuurder worden toebedeeld. Niet uitvoerende bestuurders zijn natuurlijke personen.
+2. De uitvoerende bestuurders nemen niet deel aan de besluitvorming over het vaststellen van de bezoldiging van uitvoerende bestuurders.
+3. Bij of krachtens de statuten kan worden bepaald dat een bestuurder rechtsgeldig kan besluiten omtrent zaken die tot zijn taak behoren. Bepaling krachtens de statuten geschiedt schriftelijk.

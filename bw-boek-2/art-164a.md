@@ -1,0 +1,5 @@
+# Artikel 164a
+1. In afwijking van artikel 158 lid 1 kan toepassing worden gegeven aan artikel 129a. In dat geval is het bepaalde ten aanzien van de raad van commissarissen onderscheidenlijk de commissarissen in artikel 158 leden 2 tot en met 12, 159, 160, 161 en 161a van overeenkomstige toepassing op de niet uitvoerende bestuurders van de vennootschap.
+2. Indien toepassing is gegeven aan artikel 129a, benoemen de niet uitvoerende bestuurders de uitvoerende bestuurders van de vennootschap; deze bevoegdheid kan niet door enige bindende voordracht worden beperkt. Artikel 162, tweede en derde zin, is van overeenkomstige toepassing.
+3. Van de toepassing van artikel 129a lid 3 zijn uitgesloten de besluiten van het bestuur in de zin van artikel 164.
+4. Indien toepassing is gegeven aan artikel 129a vereisen de besluiten in de zin van artikel 164 lid 1 de goedkeuring van de meerderheid van de niet uitvoerende bestuurders van de vennootschap. Het ontbreken van de goedkeuring tast de vertegenwoordigingsbevoegdheid van bestuur of bestuurders niet aan.

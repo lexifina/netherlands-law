@@ -1,0 +1,5 @@
+# Artikel 274a
+1. In afwijking van artikel 268 lid 1 kan toepassing worden gegeven aan artikel 239a. In dat geval is het bepaalde ten aanzien van de raad van commissarissen onderscheidenlijk de commissarissen in artikel 268 leden 2 tot en met 12, 269, 270, 271 en 271a van overeenkomstige toepassing op de niet uitvoerende bestuurders van de vennootschap.
+2. Indien toepassing is gegeven aan artikel 239a, benoemen de niet uitvoerende bestuurders de uitvoerende bestuurders van de vennootschap; deze bevoegdheid kan niet door enige bindende voordracht worden beperkt. Artikel 272, tweede en derde zin, is van overeenkomstige toepassing.
+3. Van de toepassing van artikel 239a lid 3 zijn uitgesloten de besluiten van het bestuur in de zin van artikel 274.
+4. Indien toepassing is gegeven aan artikel 239a lid 1 vereisen de besluiten in de zin van artikel 274 lid 1 de goedkeuring van de meerderheid van de niet uitvoerende bestuurders van de vennootschap. Het ontbreken van de goedkeuring tast de vertegenwoordigingsbevoegdheid van bestuur of bestuurders niet aan.
