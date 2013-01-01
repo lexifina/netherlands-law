@@ -4,7 +4,6 @@
 ### Afdeling 2.1. Belastbaar bedrag
 ### Afdeling 2.2. Algemene artikelen inzake bepaling van de winst
 ### Afdeling 2.3. Innovatiebox
-### Afdeling 2.4. Groepsrentebox
 ### Afdeling 2.5. Deelnemingen
 ### Afdeling 2.6. Bedrijfsfusie
 ### Afdeling 2.7. Splitsing en juridische fusie
