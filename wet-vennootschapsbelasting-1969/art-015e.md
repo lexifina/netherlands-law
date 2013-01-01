@@ -2,7 +2,7 @@
 1. Bij de belastingplichtige met winst uit een andere staat wordt de winst verminderd met de positieve en de negatieve bedragen van de winst uit die staat (objectvrijstelling voor buitenlandse ondernemingswinsten).
 2. Onder winst uit een andere staat wordt verstaan:
 a. voor zover in de relatie tot de andere staat een verdrag van kracht is dat, of een regeling is getroffen die, voorziet in een regeling voor de heffing over de bestanddelen van de winst van de belastingplichtige: het gezamenlijke bedrag van:
-1°. de in die staat behaalde winst uit buitenlandse onderneming, zijnde een onderneming die, of een gedeelte van een onderneming dat, wordt gedreven met behulp van een vaste inrichting binnen het gebied van die staat;
+1°. de winst die toerekenbaar is aan een buitenlandse onderneming in die staat, zijnde een onderneming die, of een gedeelte van een onderneming dat, wordt gedreven met behulp van een vaste inrichting binnen het gebied van die staat;
 2°. de in de winst begrepen opbrengsten, verminderd met de daarmee verband houdende kosten, uit de in die staat gelegen onroerende zaken, en
 3°. de in de winst begrepen overige voordelen, verminderd met de daarmee verband houdende kosten, uit die staat die op grond van dat verdrag, onderscheidenlijk die regeling, ter heffing aan die staat zijn toegewezen;
 voor zover Nederland op grond van dat verdrag, onderscheidenlijk die regeling, voor de winst uit een dergelijke onderneming, voor de opbrengsten uit dergelijke onroerende zaken en voor dergelijke overige voordelen, zo deze winsten, opbrengsten en voordelen positief zouden zijn, een vrijstelling ter voorkoming van dubbele belasting dient te verlenen;
