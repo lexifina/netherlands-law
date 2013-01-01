@@ -1,0 +1,6 @@
+# Artikel 28a
+1. Indien de ontvanger een aan een belastingplichtige uit te betalen bedrag niet binnen 6 weken na de dagtekening van de daartoe strekkende belastingaanslag uitbetaalt of verrekent, wordt aan de belastingplichtige invorderingsrente vergoed.
+2. De invorderingsrente wordt enkelvoudig berekend over het tijdvak dat aanvangt op de dag na de dagtekening van de tot uitbetaling strekkende belastingaanslag of beschikking en eindigt op de dag voorafgaand aan die van de betaling. In afwijking van de eerste volzin wordt invorderingsrente niet berekend over dagen waarover ingevolge hoofdstuk VA van de Algemene wet inzake rijksbelastingen reeds belastingrente is vergoed.
+3. Invorderingsrente wordt niet vergoed voor zover het aan de belastingplichtige is te wijten dat de uitbetaling niet tijdig is geschied.
+4. Dit artikel is niet van toepassing op een voorlopige aanslag als bedoeld in artikel 9, vijfde lid, die een uit te betalen bedrag behelst als bedoeld in het zesde lid van dat artikel.
+5. De in het eerste lid bedoelde periode van 6 weken wordt vervangen door een periode van 3 maanden ingeval het betreft de terugbetaling van rechten bij invoer als bedoeld in titel VII, hoofdstuk 5, van het Communautair douanewetboek.

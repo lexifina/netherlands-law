@@ -1,0 +1,3 @@
+# Artikel 28b
+1. Indien een belastingaanslag wordt verminderd of herzien tot een lager bedrag dan inmiddels op die aanslag is betaald en de belastingschuldige eerder een verzoek om uitstel van betaling met betrekking tot het door hem bestreden bedrag van die aanslag heeft gedaan dat door de ontvanger bij beschikking is afgewezen, wordt aan de belastingschuldige invorderingsrente vergoed.
+2. De invorderingsrente wordt enkelvoudig berekend over het tijdvak dat aanvangt de dag na de dag waarop de belastingaanslag waarvoor een verzoek om uitstel van betaling bij beschikking is afgewezen, invorderbaar is ingevolge artikel 9 en eindigt 6 weken na de dagtekening van de vermindering of de herziening en heeft als grondslag het terug te geven bedrag.
