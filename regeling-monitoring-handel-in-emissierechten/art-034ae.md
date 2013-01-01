@@ -1,4 +1,0 @@
-# Artikel 34ae. Register
-1. De vliegtuigexploitant houdt een register bij waarin zijn opgenomen alle gegevens van de gegevensverzamelings- en verwerkingsactiviteiten, bedoeld in artikel 34u, de controleactiviteiten, bedoeld in de artikelen 34w en 34x, de procedures van deze activiteiten, bedoeld in de artikelen 34v en 34y, alsmede de gegevens, bedoeld in artikel 34ah.
-2. De vliegtuigexploitant ziet erop toe dat de in het eerste lid bedoelde gegevens beschikbaar zijn waar en wanneer deze voor het verrichten van gegevensverzamelings- en verwerkingsactiviteiten noodzakelijk zijn en beschikt over een procedure om de verschillende versies van deze gegevens te identificeren, over te leggen, te verspreiden en te controleren.
-3. De in het eerste lid bedoelde gegevens worden in het register bewaard voor een periode van tien jaar na het jaar waarover het desbetreffende emissieverslag bij het bestuur van de emissieautoriteit is ingediend.

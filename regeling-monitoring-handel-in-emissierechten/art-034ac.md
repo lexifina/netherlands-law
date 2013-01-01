@@ -1,3 +1,0 @@
-# Artikel 34ac. Correcties en bijsturingsmaatregelen
-1. Indien een onderdeel van de gegevensverzamelings- en verwerkingsactiviteiten, bedoeld in artikel 34u, of de controleactiviteiten, bedoeld in artikel 34x, niet naar behoren of niet binnen de grenzen van de in de artikelen 34v en 34y bedoelde procedures functioneert, neemt de vliegtuigexploitant onverwijld passende corrigerende maatregelen en worden de afgekeurde gegevens aangepast.
-2. De vliegtuigexploitant beoordeelt de geldigheid van de uitkomsten van de desbetreffende procedurestappen in de gegevensverzamelings- en verwerkingsactiviteiten of controleactiviteiten, traceert de basisoorzaak van het desbetreffende mankement of de desbetreffende fout en neemt passende corrigerende maatregelen.

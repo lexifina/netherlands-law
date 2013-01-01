@@ -1,8 +1,0 @@
-# Artikel 34z. Kwaliteitsborging meetapparatuur
-1. De vliegtuigexploitant draagt er zorg voor dat de ter bepaling van de CO2-emissies gebruikte meetapparatuur regelmatig en voorafgaand aan het gebruik wordt gekalibreerd, bijgesteld en gecontroleerd op grond van meetnormen die, indien beschikbaar, zijn afgeleid van relevante internationale meetnormen.
-2. De vliegtuigexploitant registreert de resultaten van de kwaliteitsborging van de in het eerste lid bedoelde werkzaamheden in het register, bedoeld in artikel 34ae.
-3. Op grond van de resultaten, bedoeld in het tweede lid, beoordeelt de vliegtuigexploitant de geldigheid van de resultaten van eerder uitgevoerde metingen en registreert hij de uitkomst van deze beoordeling in het register, bedoeld in artikel 34ae.
-4. Indien uit de kalibratie en de controles blijkt dat de in het eerste lid bedoelde meetapparatuur niet naar behoren functioneert, neemt de vliegtuigexploitant onmiddellijk maatregelen teneinde te verzekeren dat deze situatie zo spoedig mogelijk wordt beëindigd.
-5. Indien de in het eerste lid bedoelde meetapparatuur niet kan worden gekalibreerd, neemt de vliegtuigexploitant alternatieve controleactiviteiten op in het monitoringsplan.
-6. Indien de vliegtuigexploitant gebruik maakt van informatietechnologie, is deze zodanig ontworpen, gedocumenteerd, beproefd, geïmplementeerd, gecontroleerd en onderhouden dat een betrouwbare, nauwkeurige en tijdige verwerking van de gegevens is gewaarborgd.
-7. De kwaliteitsborging van het gebruik van informatietechnologie, bedoeld in het zesde lid, omvat ten minste toegangscontrole, back-up- en herstelprocedures, continuïteitsplanning en beveiliging inclusief een correcte toepassing van de berekeningsformules die zijn opgenomen in het monitoringsplan.

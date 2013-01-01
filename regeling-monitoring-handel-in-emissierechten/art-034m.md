@@ -1,6 +1,0 @@
-# Artikel 34m. Bepaling emissiefactor
-1. De vliegtuigexploitant past voor vliegtuigkerosine van het type JET A1 of JET A, vliegtuigbenzine van het type JET B en vliegtuigbenzine van het type 'AvGas' de standaardemissiefactor toe die voor die brandstof is gespecificeerd in de bij deze regeling behorende bijlage XVIII, hoofdstuk XVIII.3.
-2. De vliegtuigexploitant bepaalt voor brandstoffen die niet onder het eerste lid vallen, de emissiefactor overeenkomstig de bij deze regeling behorende bijlage XVIII, hoofdstuk XVIII.4.
-3. Indien de brandstof als bedoeld in het tweede lid een de minimis-bronstroom is, mag de vliegtuigexploitant een in het monitoringsplan neergelegde schattingsmethode gebruiken om de emissiefactor te bepalen.
-4. In afwijking van het tweede lid mag de vliegtuigexploitant de voor de brandstoffen specifieke IPCC-referentiewaarde voor de emissiefactor toepassen als bedoeld in de bij deze regeling behorende bijlage VI.
-5. In afwijking van het tweede lid mag de vliegtuigexploitant de emissiefactor voor commercieel verhandelbare brandstoffen afleiden van overeenkomstig artikel 34ae geregistreerde facturen van de brandstofleverancier indien hij ten genoegen van het bestuur van de emissieautoriteit aantoont dat de afgeleide emissiefactoren zijn gebaseerd op aanvaarde internationale normen.

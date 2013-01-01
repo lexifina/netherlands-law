@@ -1,5 +1,0 @@
-# Artikel 79a. Herstel onjuiste opgaven en non-conformiteiten
-1. Degene die een inrichting drijft, herstelt alle onjuiste opgaven en non-conformiteiten die een verificateur tijdens de verificatie en in zijn verklaring, bedoeld in artikel 16.49, tweede lid, in verbinding met 16.12, eerste lid, onder c, van de wet, aan hem heeft medegedeeld.
-2. Onjuiste opgaven en non-conformiteiten die hersteld kunnen worden en die gevolgen hebben of kunnen hebben voor de totale N2O-emissies in het emissieverslag, worden door degene die de inrichting drijft, in het totale emissiecijfer van het emissieverslag verwerkt.
-3. Non-conformiteiten die niet kunnen worden hersteld voor 1 april van het betrokken kalenderjaar en die gevolgen hebben of kunnen hebben voor de totale N2O-emissies in het emissieverslag, worden hersteld binnen zes weken na indiening van het emissieverslag.
-4. Non-conformiteiten die geen gevolgen hebben of kunnen hebben voor de totale N2O-emissies in het emissieverslag, worden hersteld binnen drie maanden na indiening van het emissieverslag.

@@ -1,4 +1,0 @@
-# Artikel 6a. Continue meetmethode
-1. Indien een continue meetmethode, bedoeld in artikel 6, tweede lid, wordt gehanteerd, past degene die de inrichting drijft, het hoogste niveau als bedoeld in de bij deze regeling behorende bijlage XII, hoofdstuk XII.1, toe op elke bron waarvan de CO2-emissie met behulp van continue meting wordt bepaald.
-2. Indien ten genoegen van het bestuur van de emissieautoriteit is aangetoond dat het hoogste niveau, bedoeld in het eerste lid, technisch niet haalbaar is of leidt tot onredelijke kosten, mag voor de betrokken bron het eerstvolgende lagere niveau worden aangehouden.
-3. In afwijking van het eerste lid wordt voor de tweede planperiode, welke loopt van 1 januari 2008 tot en met 31 december 2012, ten minste niveau 2 van de bij deze regeling behorende bijlage XII, hoofdstuk XII.1 toegepast, tenzij dit technisch niet haalbaar is.
