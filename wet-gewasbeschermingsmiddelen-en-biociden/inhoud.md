@@ -31,7 +31,6 @@
 ## Hoofdstuk 8. Overige bepalingen
 ### § 1. Algemeen verbindend verklaring
 ### § 2. Implementatie
-### § 3. Beroepen
 ### § 4. Bevoegdheden ministers
 ## Hoofdstuk 9. Bepalingen in verband met bijlagen I, IA of IB bij richtlijn 98/8/EG
 ### § 1. Algemene bepalingen
