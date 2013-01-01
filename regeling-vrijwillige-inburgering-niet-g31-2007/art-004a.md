@@ -1,0 +1,4 @@
+# Artikel 4a
+1. Indien een inburgeraar in aanmerking wordt gebracht voor een inburgeringsvoorziening, een gecombineerde inburgeringsvoorziening dan wel een taalkennisvoorziening doet het college of het bestuur de inburgeraar terzake een aanbod.
+2. Indien het aanbod, bedoeld in het eerste lid, geheel of gedeeltelijk bestaat uit een persoonlijk inburgeringsbudget begeleidt het college of het bestuur de inburgeraar op diens verzoek bij de vormgeving van zijn inburgeringsprogramma en de keuze van een inburgeringsbedrijf. Het college of het bestuur beoordeelt het voorstel van de inburgeraar en sluit vervolgens een overeenkomst met het inburgeringsbedrijf.
+3. Indien een inburgeraar tevens geestelijke bedienaar is, wordt hem, onverminderd het bepaalde in het eerste en tweede lid, de cursus, bedoeld in artikel 4.25 van de Regeling inburgering aangeboden.
