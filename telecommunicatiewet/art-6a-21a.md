@@ -1,0 +1,3 @@
+# Artikel 6a.21a
+1. Het college kan aan een onderneming die een aanmerkelijke marktmacht heeft bij het aanbieden van programmadiensten, op grond van artikel 6a.21, derde lid, mede verplichtingen in verband met toegang opleggen als bedoeld in de artikelen 6a.6 tot en met 6a.10.
+2. Het college legt aan een onderneming die een aanmerkelijke marktmacht heeft bij het aanbieden van programmadiensten, op grond van artikel 6a.21, derde lid, de verplichting op om op groothandelsniveau programmadiensten en bijbehorende faciliteiten aan te bieden voor de wederverkoop aan eindgebruikers tegen een door het college vastgesteld tarief, tenzij de geringe omvang van het omroepnetwerk of de geringe potentiële vraag naar wederverkoop zulks niet rechtvaardigt.
