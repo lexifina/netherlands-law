@@ -31,5 +31,7 @@
 ### Afdeling 10A. Bestrijding voortijdig schoolverlaten niet-leerplichtigen
 ### Afdeling 10B. Zij-instroom in het beroep
 ### Afdeling 11. Overige bepalingen
+## Titel V. Experimenten
 ## Titel VI. Bevoegdheden t.a.v. de rechtspersoon, bedoeld in artikel 169
+## Titel VIa. Overgangs- en invoeringsbepalingen
 ## Titel VII. Slotbepalingen
