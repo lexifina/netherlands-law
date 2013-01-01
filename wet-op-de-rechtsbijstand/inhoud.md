@@ -21,6 +21,5 @@
 ### Afdeling 2. De kosten van de verlening van rechtsbijstand
 ### Afdeling 3. Subsidieverstrekking aan de raad en aan een voorziening
 ## Hoofdstuk VI. Rechtsbijstand in strafzaken
-## Hoofdstuk VII. Bezwaar en beroep
 ## Hoofdstuk VIII. Toezicht op de naleving
 ## Hoofdstuk IX. Slot- en overgangsbepalingen
