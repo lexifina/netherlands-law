@@ -1,2 +1,0 @@
-# Artikel 44a
-In afwijking van artikel 1:2, tweede lid, en artikel 4:43, eerste lid, van de regeling, kan subsidie, bedoeld in artikel 44, eerste lid, worden verleend in verband met kosten als bedoeld in artikel 4:45, eerste lid, onderdelen e en f, die zijn gemaakt voor activiteiten ter voorbereiding van het project voorafgaand aan de subsidieverlening, met dien verstande dat deze activiteiten zijn aangevangen na 1 januari 2007.
