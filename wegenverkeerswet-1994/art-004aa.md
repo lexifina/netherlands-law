@@ -1,6 +1,24 @@
 # Artikel 4aa
-1. Keuringsinstellingen, aangewezen ingevolge de artikelen 71a, 84, eerste lid, 101, eerste lid, en 132e, vijfde lid, en 106a, derde lid, jo. 101, eerste lid, en de ingevolge deze artikelen erkende onderzoeksgerechtigden en instellingen, verstrekken desgevraagd aan Onze Minister de inlichtingen die deze ten behoeve van zijn taakuitoefening nodig oordeelt. Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijze noodzakelijk is.
-2. Onze Minister kan aan de in het eerste lid bedoelde keuringsinstellingen, onderzoeksgerechtigden en instellingen aanwijzingen van algemene aard geven met betrekking tot de uitvoering van de taak waarvoor zij zijn aangewezen.
-3. Onze Minister kan tarieven vaststellen die de in het eerste lid bedoelde keuringsinstellingen, onderzoeksgerechtigden en instellingen ten hoogste mogen berekenen voor de door hen verrichte werkzaamheden in het kader van de uitvoering van de taak waarvoor zij zijn aangewezen. Daarbij kunnen voor verschillende werkzaamheden verschillende tarieven worden vastgesteld.
-4. Indien een keuringsinstelling als bedoeld in het eerste lid naar het oordeel van Onze Minister haar taak verwaarloost, kan Onze Minister de aanwijzing intrekken.
-5. Over de uitoefening van het toezicht op keuringsinstellingen, onderzoeksgerechtigden en instellingen als bedoeld in het eerste lid kunnen bij of krachtens algemene maatregel van bestuur nadere regels worden gesteld.
+1. Het CBR is belast met de volgende taken:
+a. het beoordelen van de rijvaardigheid;
+b. het beoordelen van de lichamelijke en geestelijke geschiktheid tot het besturen van motorrijtuigen;
+c. het opleggen van onderzoeken naar de rijvaardigheid en de geschiktheid tot het besturen van motorrijtuigen van houders van rijbewijzen ten aanzien van wie een vermoeden van onvoldoende rijvaardigheid of geschiktheid bestaat;
+d. het opleggen van educatieve maatregelen ter bevordering van de rijvaardigheid of geschiktheid tot het besturen van motorrijtuigen;
+e. het opleggen en uitvoeren van het alcoholslotprogramma;
+f. het schorsen van de geldigheid van rijbewijzen;
+g. het ongeldig verklaren van rijbewijzen;
+h. het verlenen van ontheffingen als bedoeld in artikel 149, tweede lid;
+i. het afgeven van gehandicaptenparkeerkaarten aan aanvragers die niet zijn ingeschreven in de basisadministratie persoonsgegevens van een gemeente;
+j. het beoordelen van de vakbekwaamheid van bestuurders in het goederen- en personenvervoer over de weg;
+k. het erkennen van opleidingscentra voor het verrichten van nascholing en het certificeren van cursussen met betrekking tot vakbekwaamheid bestuurders goederen- en personenvervoer over de weg en het registreren van nascholing;
+l. het houden van toezicht op de naleving van de verplichtingen die voortvloeien uit de in onderdeel k bedoelde erkenningen;
+m. het uitreiken van Nederlandse omwisselingscertificaten en deelcertificaten vakbekwaamheid bestuurders goederen- en personenvervoer over de weg;
+n. het ongeldig verklaren van getuigschriften van vakbekwaamheid, getuigschriften van nascholing en Nederlandse omwisselingscertificaten;
+o. het verwerken van gegevens, waaronder mede begrepen gegevens betreffende iemands gezondheid, voor zover dit noodzakelijk is voor de uitvoering van de taken waarmee het CBR bij of krachtens deze wet is belast, alsmede van de taken waarmee het CBR bij of krachtens andere wetten is belast;
+p. het met inachtneming van artikel 4am vaststellen van de tarieven, alsmede het vaststellen van de wijze van betaling van deze tarieven, voor het verrichten van taken waarvoor het CBR bij of krachtens deze wet bevoegd is, alsmede voor de bij of krachtens andere wetten opgedragen taken;
+q. het verstrekken van gegevens voor zover dit noodzakelijk is voor de uitvoering van de taken waarmee het CBR dan wel andere organisaties bij of krachtens deze wet zijn belast.
+2. Bij de toepassing van de taken, bedoeld in het eerste lid, onderdeel a, neemt het CBR de bij ministeriële regeling aangewezen richtlijn of de aangewezen onderdelen daarvan, in acht.
+3. Voor de toepassing van het eerste lid, onderdelen c tot en met g, wordt onder rijbewijzen mede verstaan rijbewijzen, afgegeven door het daartoe bevoegde gezag buiten Nederland, waarvan de houder in Nederland woonachtig is.
+4. Voorts is het CBR belast met:
+a. de bij of krachtens andere wetten opgedragen taken, en
+b. andere bij regeling van Onze Minister opgedragen taken waarbij regels kunnen worden gesteld met betrekking tot de tarieven van deze taken.

@@ -8,7 +8,12 @@
 ### Paragraaf 5. Personeel van de organisatie
 ### Paragraaf 6. Financiële bepalingen
 ### Paragraaf 7. Overige bepalingen
-## Hoofdstuk IB. Toezicht op het CBR
+## Hoofdstuk IB. Het CBR
+### Paragraaf 1. Algemeen
+### Paragraaf 2. Taken van het CBR
+### Paragraaf 3. De organen
+### Paragraaf 4. Financiële bepalingen
+### Paragraaf 5. Overige bepalingen
 ## Hoofdstuk IC. Toezicht op keuringsinstellingen en onderzoeksgerechtigden
 ## Hoofdstuk II. Verkeersgedrag
 ### § 1. Gedragsregels
@@ -30,6 +35,7 @@
 ### § 3. Registratie van kentekens
 ### § 4. Kentekenbewijzen
 ### § 5. Erkenningsregeling bedrijfsvoorraad
+### § 5a. Erkenningsregeling exportdienstverlening
 ### § 6. Schorsing
 ### § 7. Kentekenplaten
 ## Hoofdstuk IVA. Registratie van fietsen en andere mobiele objecten

@@ -1,4 +1,3 @@
 # Artikel 4w
-1. Waar ingevolge deze wet de goedkeuring dan wel de vaststelling door de raad van toezicht is vereist, verleent of onthoudt deze die goedkeuring dan wel stelt deze vast of weigert die vaststelling binnen zes weken na de datum van ontvangst van de aan goedkeuring onderhevige dan wel vast te stellen stukken.
-2. Met goedkeuring dan wel vaststelling wordt gelijkgesteld het verstrijken van de in het eerste lid bedoelde termijn zonder dat de goedkeuring is verleend of onthouden dan wel de vaststelling heeft plaatsgevonden of is geweigerd.
-3. Indien de raad van toezicht goedkeuring onthoudt aan de financiële begroting, is de directie gerechtigd gedurende ten hoogste zes maanden voor iedere maand gedurende welke de goedkeuring wordt onthouden, uitgaven te doen ter grootte van maximaal een twaalfde deel van de begroting van het voorafgaande boekjaar.
+1. Waar ingevolge deze wet de goedkeuring dan wel instemming door de raad van toezicht is vereist, verleent of onthoudt deze die goedkeuring dan wel die instemming binnen zes weken na de datum van ontvangst van de aan goedkeuring dan wel instemming onderhevige stukken.
+2. Met goedkeuring dan wel instemming wordt gelijkgesteld het verstrijken van de in het eerste lid bedoelde termijn zonder dat de goedkeuring dan wel de instemming is verleend of onthouden.
