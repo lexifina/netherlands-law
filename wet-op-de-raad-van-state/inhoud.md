@@ -10,5 +10,4 @@
 ## Hoofdstuk III. De Afdeling bestuursrechtspraak
 ### Afdeling 1. Samenstelling en taak
 ### Afdeling 2. Overige bepalingen
-### Afdeling 3. Beroep en hoger beroep bij de Afdeling bestuursrechtspraak
 ## Hoofdstuk IV. Slotbepalingen
