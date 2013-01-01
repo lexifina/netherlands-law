@@ -1,0 +1,3 @@
+# Artikel IB
+1. Tegen een op of na de datum van inwerkingtreding van deze wet bekendgemaakte beslissing van gedeputeerde staten op grond van de artikelen 41 van de Algemene Bijstandswet, 44 van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers en 44 van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen zoals deze luidden voor dat tijdstip, kan beroep worden ingesteld bij de Centrale Raad van Beroep.
+2. Tegen een op of na de datum van inwerkingtreding van deze wet bekendgemaakte beslissing van de voorzitter van gedeputeerde staten op grond van artikel 45 van de Algemene Bijstandswet zoals dat luidde voor dat tijdstip, kan beroep worden ingesteld bij de Centrale Raad van Beroep.
