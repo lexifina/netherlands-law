@@ -10,6 +10,5 @@
 ## Hoofdstuk VIII. Commissie vervoer over zee
 ## Hoofdstuk IX. Het verstrekken van inlichtingen
 ## Hoofdstuk X. Bemiddeling
-## Hoofdstuk XI. Beroep
-## Hoofdstuk XII. Strafbepalingen
-## Hoofdstuk XIII. Slotbepalingen
+## Hoofdstuk XI. Strafbepalingen
+## Hoofdstuk XII. Slotbepalingen
