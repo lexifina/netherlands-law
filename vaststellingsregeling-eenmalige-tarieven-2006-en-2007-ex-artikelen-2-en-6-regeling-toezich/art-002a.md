@@ -1,9 +1,0 @@
-# Artikel 2a
-1. Het bedrag, bedoeld in artikel 2, eerste lid, van de Regeling toezichtkosten Wet toezicht accountantsorganisaties, wordt voor accountantsorganisaties waaraan voor het jaar 2008 geen kosten voor doorlopend toezicht in rekening zijn of worden gebracht vastgesteld op:
-a. € 17.058,– voor de behandeling van een aanvraag tot verlening van een vergunning als bedoeld in artikel 5 van de wet, welke mede strekt tot het verrichten van wettelijke controles bij organisaties van openbaar belang;
-b. € 7.487,– voor de behandeling van een aanvraag tot verlening van een vergunning als bedoeld in artikel 5 van de wet, anders dan bedoeld onder a;
-c. € 9.572,– voor de behandeling van een verzoek tot opname van een vermelding, als bedoeld in artikel 6, tweede lid, van de wet in een vergunning als bedoeld in artikel 5 van de wet.
-d. € 2.559,– voor de behandeling van een aanvraag tot verlening van een vergunning op grond van artikel 5 van de wet, voor zover het betreft de inbreng van een vergunninghoudende accountantsorganisatie in een andere onderneming en waarbij er geen sprake is van wijziging in de organisatiestructuur, werkwijze en activiteiten van de accountantsorganisatie.
-2. Het bedrag, genoemd in het eerste lid, onderdeel b, wordt verlaagd tot € 1.897,–, indien wordt voldaan aan het bepaalde in artikel 8 van de Regeling toezichtkosten Wet toezicht accountantsorganisaties.
-3. De bedragen, genoemd in het eerste lid, onderdeel a of b en het tweede lid, worden verlaagd met € 200,–, indien de aanvraag op elektronische wijze geschiedt.
-4. Het bedrag, bedoeld in artikel 2, tweede lid, van de Regeling toezichtkosten Wet toezicht accountantsorganisaties wordt vastgesteld op € 711,–.
