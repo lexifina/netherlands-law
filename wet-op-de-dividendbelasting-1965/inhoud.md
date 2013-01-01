@@ -4,4 +4,4 @@
 ## Hoofdstuk III. Tarief
 ## Hoofdstuk IV. Wijze van heffing
 ## Hoofdstuk V. Strafrechtelijke bepalingen
-## Hoofdstuk VI. Slotbepalingen
+## Hoofdstuk VI. Overgangs- en slotbepalingen
