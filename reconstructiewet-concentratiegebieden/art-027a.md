@@ -1,0 +1,3 @@
+# Artikel 27a
+1. In gevallen als bedoeld in artikel 27, derde lid, stelt de gemeenteraad binnen een jaar nadat het reconstructieplan onherroepelijk is geworden een bestemmingsplan of een beheersverordening als bedoeld in de Wet ruimtelijke ordening overeenkomstig het reconstructieplan vast.
+2. De bevoegdheid tot het invorderen van rechten terzake van door of vanwege het gemeentebestuur verstrekte diensten die verband houden met het reconstructieplan, wordt opgeschort tot het tijdstip waarop het bestemmingsplan dan wel de beheersverordening is vastgesteld overeenkomstig het reconstructieplan. De bevoegdheid vervalt indien het bestemmingsplan dan wel de beheersverordening niet binnen zes maanden na het verstrijken van de in het eerste lid gestelde termijn is vastgesteld.
