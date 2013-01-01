@@ -61,20 +61,22 @@
 ### Afdeling 6.1. Inleidende bepalingen
 ### Afdeling 6.2. Overige algemene bepalingen
 ## Hoofdstuk 7. Bijzondere bepalingen over bezwaar en administratief beroep
-### Afdeling 7.1. Bezwaarschrift voorafgaand aan beroep bij de administratieve rechter
+### Afdeling 7.1. Bezwaarschrift voorafgaand aan beroep bij de bestuursrechter
 ### Afdeling 7.2. Bijzondere bepalingen over bezwaar
 ### Afdeling 7.3. Bijzondere bepalingen over administratief beroep
-## Hoofdstuk 8. Bijzondere bepalingen over beroep bij de rechtbank
-### Titel 8.1. Algemene bepalingen
+## Hoofdstuk 8. Bijzondere bepalingen over beroep en hoger beroep bij de bestuursrechter
+### Titel 8.1. Algemene bepalingen over het beroep in eerste aanleg
 #### Afdeling 8.1.1. Bevoegdheid
-#### Afdeling 8.1.2. Behandeling door een enkelvoudige en een meervoudige kamer
+#### Afdeling 8.1.2. Behandeling door een enkelvoudige, meervoudige of grote kamer
+#### Afdeling 8.1.2a. Conclusie
 #### Afdeling 8.1.3. Verwijzing, voeging en splitsing
 #### Afdeling 8.1.4. Wraking en verschoning van rechters
 #### Afdeling 8.1.5. Partijen
 #### Afdeling 8.1.6. Getuigen, deskundigen en tolken
 #### Afdeling 8.1.7. Verzending van stukken
-### Titel 8.2. Behandeling van het beroep
+### Titel 8.2. Behandeling van het beroep in eerste aanleg
 #### Afdeling 8.2.1. Griffierecht
+#### Afdeling 8.2.1a. Algemene bepaling
 #### Afdeling 8.2.2. Vooronderzoek
 #### Afdeling 8.2.2a. Bestuurlijke lus
 #### Afdeling 8.2.3. Versnelde behandeling
@@ -84,7 +86,9 @@
 #### Afdeling 8.2.6. Uitspraak
 #### Afdeling 8.2.7. Tussenuitspraak
 ### Titel 8.3. Voorlopige voorziening en onmiddellijke uitspraak in de hoofdzaak
-### Titel 8.4. Herziening
+### Titel 8.4
+### Titel 8.5. Hoger beroep
+### Titel 8.6. Herziening
 ## Hoofdstuk 9. Klachtbehandeling
 ### Titel 9.1. Klachtbehandeling door een bestuursorgaan
 #### Afdeling 9.1.1. Algemene bepalingen
@@ -104,14 +108,7 @@
 #### Afdeling 10.2.2. Vernietiging
 #### Afdeling 10.2.3. Schorsing
 ## Hoofdstuk 11. Slotbepalingen
-## A. Ministerie van Justitie
-## B. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
-## C. Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
-## D. Ministerie van Verkeer en Waterstaat
-## E. Ministerie van Landbouw, Natuur en Voedselkwaliteit
-## F. Ministerie van Sociale Zaken en Werkgelegenheid
-## G. Ministerie van Defensie
-## H. Ministerie van Volksgezondheid, Welzijn en Sport
-## I. Ministerie van Financiën
-## J. Ministerie van Onderwijs, Cultuur en Wetenschap
-## J. Ministerie van Economische Zaken
+## Hoofdstuk 1. Van beroep uitgezonderde besluiten (artikel 8:5)
+## Hoofdstuk 2. Beroep in eerste aanleg bij een bijzondere bestuursrechter (artikel 8:6)
+## Hoofdstuk 3. Beroep in eerste aanleg bij een andere rechtbank (artikel 8:7, vierde lid)
+## Hoofdstuk 4. Hoger beroep (artikelen 8:105 en 8:106, eerste lid, onder a)

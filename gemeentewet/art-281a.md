@@ -1,3 +1,2 @@
 # Artikel 281a
-1. In afwijking van artikel 8:4, onderdeel a, van de Algemene wet bestuursrecht kan een belanghebbende tegen een koninklijk besluit als bedoeld in artikel 268, eerste lid, dan wel tegen een vernietigingsbesluit als bedoeld in de artikelen 85, tweede lid, en 87a, eerste lid, beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State. Artikel 7:1 van de Algemene wet bestuursrecht is niet van toepassing
-2. In afwijking van artikel 6:2 van de Algemene wet bestuursrecht kan geen beroep worden ingesteld tegen de weigering om de vernietiging te bevorderen en tegen het niet tijdig nemen van een besluit tot vernietiging.
+In afwijking van artikel 8:4, eerste lid, onderdeel d, van de Algemene wet bestuursrecht kan een belanghebbende tegen een koninklijk besluit als bedoeld in artikel 268, eerste lid, dan wel tegen een vernietigingsbesluit als bedoeld in de artikelen 85, tweede lid, en 87a, eerste lid, beroep instellen.

@@ -142,12 +142,13 @@
 ##### Paragraaf 16.2.1.3. Het toewijzen en verlenen van broeikasgasemissierechten
 ###### Subparagraaf 16.2.1.3.1. Het veilen en kosteloos toewijzen van broeikasgasemissierechten
 ###### Subparagraaf 16.2.1.3.2. Wijziging van toewijzingsbesluiten
-##### Paragraaf 16.2.1.4. De geldigheid van broeikasgasemissierechten, het inleveren van broeikasgasemissierechten, emissiereductie-eenheden en gecertificeerde emissiereducties, het annuleren van broeikasgasemissierechten en het compenseren van emissies in een ander kalenderjaar
+###### Subparagraaf 16.2.1.3.3. Het verlenen van broeikasgasemissierechten
+##### Paragraaf 16.2.1.4. De geldigheid van broeikasgasemissierechten, het inleveren van broeikasgasemissierechten, het annuleren van broeikasgasemissierechten en het compenseren van emissies in een ander kalenderjaar
 #### Afdeling 16.2.2. Luchtvaartactiviteiten
 ##### Paragraaf 16.2.2.1. Algemeen
 ##### Paragraaf 16.2.2.2. Monitoring en verslaglegging
 ##### Paragraaf 16.2.2.3. Het toewijzen en verlenen van broeikasgasemissierechten
-##### Paragraaf 16.2.2.4. De geldigheid van broeikasgasemissierechten, het inleveren van broeikasgasemissierechten, emissiereductie-eenheden en gecertificeerde emissiereducties, het annuleren van broeikasgasemissierechten en het compenseren van emissies in een ander kalenderjaar
+##### Paragraaf 16.2.2.4. De geldigheid van broeikasgasemissierechten, het inleveren van broeikasgasemissierechten, het annuleren van broeikasgasemissierechten en het compenseren van emissies in een ander kalenderjaar
 #### Afdeling 16.2.3. De overgang van broeikasgasemissierechten en andere eenheden
 #### Afdeling 16.2.4. Registratie van broeikasgasemissierechten en andere eenheden
 #### Afdeling 16.2.5. Instemming met deelname aan projectactiviteiten
@@ -166,7 +167,7 @@
 ### Titel 17.3. Maatregelen bij gevaar door stoffen, preparaten of genetisch gemodificeerde organismen
 ## Hoofdstuk 18. Handhaving
 ## Hoofdstuk 19. Openbaarheid van milieu-informatie
-## Hoofdstuk 20. Beroep bij de administratieve rechter
+## Hoofdstuk 20. Inwerkingtreding en rechtsbescherming
 ### § 20.1. Algemeen
 ### § 20.2. Advisering inzake beroepen milieubeheer
 ## Hoofdstuk 21. Verdere bepalingen

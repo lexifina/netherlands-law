@@ -10,11 +10,10 @@ b. indien het ophouden noodzakelijk is ter voorkoming van voortzetting of herhal
 7. De ophouding mag niet langer duren dan de tijd die nodig is ter voorkoming van voortzetting of herhaling van de niet-naleving, met een maximum van twaalf uren.
 8. De plaats van ophouding dient geschikt te zijn voor de opvang van de op te houden personen. Bij algemene maatregel van bestuur kunnen nadere regels hieromtrent worden gesteld.
 9. De burgemeester draagt er voor zover mogelijk zorg voor dat de opgehouden personen in de gelegenheid worden gesteld door een daartoe door hem aangewezen ambtenaar hun gegevens te laten vastleggen ten bewijze dat zij zijn opgehouden.
-10. Artikel 7:1 van de Algemene wet bestuursrecht is niet van toepassing op de beschikking tot ophouding.
-11. Indien tegen de beschikking tot ophouding een verzoek om een voorlopige voorziening als bedoeld in artikel 8:81 van de Algemene wet bestuursrecht wordt gedaan:
+10. Indien tegen de beschikking tot ophouding een verzoek om een voorlopige voorziening als bedoeld in artikel 8:81 van de Algemene wet bestuursrecht wordt gedaan:
 a. wordt, in afwijking van artikel 8:83, eerste lid, van de Algemene wet bestuursrecht, de verzoeker die is opgehouden zo mogelijk nog tijdens zijn ophouding door de voorzieningenrechter gehoord;
 b. doet de voorzieningenrechter in afwijking van artikel 8:84, eerste lid, van de Algemene wet bestuursrecht onmiddellijk na het horen van partijen uitspraak, en
 c. wordt, in afwijking van artikel 8:82, eerste lid, van de Algemene wet bestuursrecht, geen griffierecht geheven.
-12. Bij de beoordeling van het verzoek betrekt de voorzieningenrechter tevens de rechtmatigheid van de tenuitvoerlegging van de beschikking tot ophouding jegens verzoeker.
-13. Indien de voorzieningenrechter een of meer verzoeken toewijst op de grond dat de beschikking tot ophouding naar zijn voorlopig oordeel onrechtmatig is, kan hij bepalen dat alle personen die op basis van de betrokken beschikking zijn opgehouden, onverwijld in vrijheid worden gesteld.
-14. Het twaalfde lid is van overeenkomstige toepassing op de beoordeling van een beroep tegen de beschikking tot ophouding als bedoeld in artikel 8:1 van de Algemene wet bestuursrecht.
+11. Bij de beoordeling van het verzoek betrekt de voorzieningenrechter tevens de rechtmatigheid van de tenuitvoerlegging van de beschikking tot ophouding jegens verzoeker.
+12. Indien de voorzieningenrechter een of meer verzoeken toewijst op de grond dat de beschikking tot ophouding naar zijn voorlopig oordeel onrechtmatig is, kan hij bepalen dat alle personen die op basis van de betrokken beschikking zijn opgehouden, onverwijld in vrijheid worden gesteld.
+13. Het elfde lid is van overeenkomstige toepassing op de beoordeling van een beroep tegen de beschikking tot ophouding als bedoeld in artikel 8:1 van de Algemene wet bestuursrecht.

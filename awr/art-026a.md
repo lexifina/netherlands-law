@@ -1,5 +1,5 @@
 # Artikel 26a
-1. In afwijking van artikel 8:1, eerste lid, van de Algemene wet bestuursrecht kan het beroep slechts worden ingesteld door:
+1. In afwijking van artikel 8:1 van de Algemene wet bestuursrecht kan het beroep slechts worden ingesteld door:
 a. de belanghebbende aan wie de belastingaanslag is opgelegd;
 b. de belanghebbende die de belasting op aangifte heeft voldaan of afgedragen of van wie de belasting is ingehouden, of
 c. degene tot wie de voor bezwaar vatbare beschikking zich richt.
