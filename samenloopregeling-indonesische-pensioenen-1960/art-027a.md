@@ -5,6 +5,6 @@ a. aan de hand van de ontwikkelingen van de bedragen van de Algemene nabestaande
 b. bij iedere nadere vaststelling van de hiervoor bedoelde nabestaandenuitkering krachtens artikel 18 van de Algemene nabestaandenwet.
 3. Het recht op de toeslag, bedoeld in het eerste lid, gaat in met ingang van het tijdstip waarop wordt voldaan aan de voorwaarden voor het recht.
 4. Het recht op de toeslag, bedoeld in het eerste lid, vervalt:
-a. met ingang van de dag waarop de weduwe de 65-jarige leeftijd bereikt;
+a. met ingang van de dag waarop de weduwe de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, bereikt;
 b. met ingang van de maand volgende op die waarin de weduwe hertrouwt, als partner wordt geregistreerd of aangemerkt, of als ongehuwd samenwonend als bedoeld in de Algemene nabestaandenwet wordt aangemerkt.
 5. De toeslag, bedoeld in het eerste lid, is geen pensioen als bedoeld in artikel 1, tweede lid.

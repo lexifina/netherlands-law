@@ -1,6 +1,6 @@
 # Artikel 42c
 1. Het buitengewoon pensioen of de garantietoeslag wordt, met uitzondering van de op grond van artikel 8 vastgestelde pensioengrondslag en het invaliditeitspercentage, bedoeld in artikel 9, opnieuw vastgesteld:
-a. wanneer de pensioengerechtigde of zijn echtgenoot de 65-jarige leeftijd bereikt;
+a. wanneer de pensioengerechtigde of zijn echtgenoot de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, bereikt;
 b. wanneer de pensioengerechtigde in het huwelijk treedt of zijn huwelijk wordt beëindigd door echtscheiding of overlijden van zijn echtgenoot;
 c. wanneer de pensioengerechtigde duurzaam gescheiden van zijn echtgenoot gaat leven;
 d. wanneer een kind of pleegkind van de pensioengerechtigde meerderjarig wordt;
