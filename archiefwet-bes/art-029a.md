@@ -1,0 +1,6 @@
+# Artikel 29a
+1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde ten aanzien van de zorg voor en het beheer van archiefbescheiden zijn belast de bij besluit van Onze Minister aangewezen personen.
+2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
+3. Een toezichthouder is bevoegd, met medeneming van de benodigde apparatuur, een ruimte waarin de archiefbescheiden worden bewaard, te betreden. Zo nodig verschaft hij zich toegang met behulp van de sterke arm. Hij is bevoegd zich te doen vergezellen van personen die daartoe door hem zijn aangewezen.
+4. Een toezichthouder is bevoegd inzage te vorderen van zakelijke gegevens en bescheiden. Hij is bevoegd van de gegevens kopieën te maken. Indien het maken van kopieën niet ter plaatse kan geschieden, is hij bevoegd de gegevens en bescheiden voor dat doel voor korte tijd mee te nemen tegen een door hem af te geven schriftelijk bewijs.
+5. Indien een toezichthouder met toepassing van het derde lid een ruimte betreedt waarin de archiefbescheiden worden bewaard, dan wel met toepassing van het vierde lid inzage vordert van die archiefbescheiden, neemt hij de voorschriften ten aanzien van de beveiliging van geheimen in acht.
