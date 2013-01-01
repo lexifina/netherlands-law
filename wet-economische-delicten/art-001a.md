@@ -2,9 +2,9 @@
 Economische delicten zijn eveneens:
 1°. overtredingen van voorschriften, gesteld bij of krachtens:
 de Flora- en faunawet, artikel 13, eerste lid;
-de Gezondheids- en welzijnswet voor dieren, de artikelen 81b, 81c, 81d, 81m, 81n en 81o;
 de Kernenergiewet, de artikelen 15, 15f, eerste en zesde lid, 21, 21a, 21e, eerste lid, 29, eerste lid, 31, 32, eerste lid, 34, eerste, vijfde en zesde lid, 37b, 38a, 46, eerste lid, 47, eerste lid, 49b, eerste lid, 49d, 75, tweede lid, en 76a;
 de Meststoffenwet, de artikelen 7, 14, eerste lid, 19, 20, eerste lid, 21, 22, derde lid, en 26, zesde lid;
+de Visserijwet 1963, de artikelen 3a, voor zover de overtreding van die voorschriften in de EU-verordening ter uitvoering waarvan zij strekken als ernstige inbreuk wordt aangemerkt, 5, 7, voor zover wordt gevist anders dan met de hengel of de peur, en 21, voor zover wordt gevist anders dan met de hengel of de peur, dan wel overtreding van voorschriften verbonden aan op grond van het bepaalde bij of krachtens de artikelen 7 en 21 van de Visserijwet 1963 verleende schriftelijke toestemmingen en huurovereenkomsten;
 de Waterwet, de artikelen 6.2, 6.3, 6.4, 6.5, 6.6, eerste en tweede lid, 6.7, 6.8, 6.10, eerste lid, 6.20, derde lid, tenzij de desbetreffende vergunning uitsluitend berust op een verordening van een waterschap, en 10.1;
 de Wet algemene bepalingen omgevingsrecht, artikel 2.1, eerste lid, aanhef en onder e, en artikel 2.3, aanhef en onder a;
 de Wet bestrijding ongevallen Noordzee, de artikelen 4, eerste, tweede, derde en vierde lid, en 15;
@@ -35,9 +35,9 @@ de Wet voorkoming verontreiniging door schepen, de artikelen 6, tweede lid, 10, 
 de Woningwet, de artikelen 1a, 1b, 7b, 14a, 16, 103 en 120, tweede lid;
 3°. overtredingen van voorschriften, gesteld bij of krachtens:
 de Flora- en faunawet, de artikelen 10, 16, 37, eerste en tweede lid, 38, eerste lid, 50, eerste, tweede en derde lid, 51, 52, 53, 54, eerste lid, 58, 59, tweede lid, 60, vijfde lid, 62, eerste lid, 63, eerste lid, 64, tweede lid, 67, zesde lid, 72, vijfde lid, 74, eerste lid, 74a, eerste lid, 81, eerste lid, en 111, eerste lid;
-de Gezondheids- en welzijnswet voor dieren, de artikelen 81f, 81g en 81h;
 de Kernenergiewet, de artikelen 36, eerste lid, en - voor zover aangeduid als strafbare feiten - 73;
 de Meststoffenwet, de artikelen 4, 5, 6, 9, tweede en derde lid, 11, vijfde lid, 13, vierde lid, 15, 16, 34, 35, 36, 37, 38, derde lid, en 40;
+de Visserijwet 1963, de artikelen 2a, 3 en 3a, voor zover de overtreding van die voorschriften in de EU- verordening ter uitvoering waarvan zij strekken niet als ernstige inbreuk wordt aangemerkt, 4, 7, voor zover wordt gevist met meer dan twee hengels of de peur, 9, 16 en 21, voor zover wordt gevist met de hengel of de peur, dan wel overtreding van voorschriften, verbonden aan op grond van het bepaalde bij of krachtens de artikelen 7 en 21 van de Visserijwet 1963 verleende schriftelijke toestemmingen en huurovereenkomsten;
 de Waterwet, artikel 6.24, tweede lid, tenzij de desbetreffende vergunning uitsluitend berust op een verordening van een waterschap;
 de Wet algemene bepalingen omgevingsrecht, artikel 2.2 en artikel 2.3, aanhef en onder c;
 de Wet bescherming Antarctica, de artikelen 19, tweede lid, en 33;
