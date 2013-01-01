@@ -1,0 +1,3 @@
+# Artikel 2a
+1. Ter voorkoming van witwassen en financieren van terrorisme verricht een instelling cliëntenonderzoek en meldt zij verrichte of voorgenomen ongebruikelijke transacties overeenkomstig de bij of krachtens de hoofdstukken 2 en 3 gestelde regels. Daarbij besteedt een instelling bijzondere aandacht aan ongebruikelijke transactiepatronen en aan transacties die naar hun aard een hoger risico op witwassen of financieren van terrorisme met zich brengen.
+2. Een instelling treft adequate maatregelen ter voorkoming van risico's op witwassen en financieren van terrorisme die kunnen ontstaan door het gebruik van nieuwe technologieën in het economisch verkeer.
