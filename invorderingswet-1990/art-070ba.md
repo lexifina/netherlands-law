@@ -1,0 +1,2 @@
+# Artikel 70ba
+Indien de ontvanger het verleende uitstel van betaling, bedoeld in artikel 70b, beëindigt, kan volgens bij ministeriële regeling te stellen regels kwijtschelding worden verleend voor zover de belasting waarvoor uitstel van betaling is verleend, hoger is dan de belasting die zou zijn geheven indien de belastingschuldige op het moment van de omstandigheid op grond waarvan het uitstel van betaling wordt beëindigd, in Nederland zou hebben gewoond.
