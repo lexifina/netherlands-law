@@ -1,0 +1,2 @@
+# Artikel 46d
+Indien de aanvrager opzettelijk een onjuiste aanvraag tot subsidieverlening of subsidievaststelling heeft ingediend of opzettelijk anderszins foute gegevens heeft verstrekt op grond van een andere regeling gebaseerd op titel II, hoofdstuk IX van de verordening (EG) nr. 1257/1999, of indien in geval van opzet een verleende subsidie is gewijzigd of ingetrokken op grond van artikel 46b of een vastgestelde subsidie is gewijzigd of ingetrokken op grond van artikel 46c, wordt tevens geen subsidie verleend in het daaropvolgende jaar.
