@@ -15,5 +15,15 @@ d. De in de artikelen 5, 8, tweede en derde lid, 37, 38, 39 en 41, tweede lid, v
 e. Voor de toepassing van artikel 38, eerste lid, kunnen behalve een representatieve organisatie of organisaties van ondernemers ook een of meerdere ministers aangewezen worden.
 f. De verordenende bevoegdheid van de Raad, met uitzondering van de bevoegdheid genoemd in artikel 46a, strekt zich niet uit tot ondernemingen waarin uitsluitend of nagenoeg uitsluitend krachtens publiekrechtelijke aanstelling arbeid wordt verricht.
 g. Indien op grond van het bepaalde in onderdeel d de Minister van Binnenlandse Zaken een bedrijfscommissie heeft ingesteld, dient deze onverminderd het bepaalde in artikel 40, eerste lid, aan de Minister van Binnenlandse Zaken verslag uit te brengen. De Minister van Binnenlandse Zaken doet dit verslag toekomen aan de betrokken werkgevers of verenigingen van werkgevers en de centrales van overheidspersoneel, verenigd in de Raad voor het Overheidspersoneelsbeleid.
-h. Voor het behandelen en beslissen van verzoekschriften als bedoeld in de artikelen 27 en 36, ter zake van een rechtbank, is bevoegd de kantonrechter werkzaam bij de rechtbank, die binnen hetzelfde ressort als eerste wordt genoemd in de Wet op de rechterlijke indeling. Indien de rechtbank waarop het verzoekschrift betrekking heeft binnen het ressort als eerste wordt genoemd in de Wet op de rechterlijke indeling, is bevoegd de kantonrechter werkzaam bij de rechtbank, die binnen hetzelfde ressort als tweede wordt genoemd in Wet op de rechterlijke indeling.
-i. Een beroep als bedoeld in artikel 26, eerste lid, ter zake van het gerechtshof te Amsterdam, wordt ingesteld bij het gerechtshof te 's-Gravenhage.
+h. Voor het behandelen en beslissen van verzoekschriften als bedoeld in artikelen 27 en 36, ter zake van een rechtbank, is bevoegd de kantonrechter werkzaam bij de volgende rechtbank:
+1°. terzake van de rechtbank Amsterdam: de rechtbank Noord-Holland;
+2°. terzake van de rechtbank Den Haag: de rechtbank Rotterdam;
+3°. terzake van de rechtbank Limburg: de rechtbank Oost-Brabant;
+4°. terzake van de rechtbank Midden-Nederland: de rechtbank Noord-Nederland
+5°. terzake van de rechtbank Noord-Holland: de rechtbank Amsterdam;
+6°. terzake van de rechtbank Noord-Nederland: de rechtbank Oost-Nederland;
+7°. terzake van de rechtbank Oost-Brabant: de rechtbank Zeeland-West-Brabant;
+8°. terzake van de rechtbank Oost-Nederland: de rechtbank Midden-Nederland;
+9°. terzake van de rechtbank Rotterdam: de rechtbank Den Haag;
+10°. terzake van de rechtbank Zeeland-West-Brabant: de rechtbank Limburg.
+i. Een beroep als bedoeld in artikel 26, eerste lid, ter zake van het gerechtshof Amsterdam, wordt ingesteld bij het gerechtshof Den Haag.

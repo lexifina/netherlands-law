@@ -1,6 +1,6 @@
 # Artikel 8a.4.4. Procesbevoegdheid deelnemersraad
 1. De deelnemersraad kan in rechte optreden indien de vordering strekt tot naleving door het bevoegd gezag van de verplichtingen jegens de deelnemersraad, voortvloeiend uit hoofdstuk 8a. Tegen een uitspraak van de commissie op grond van artikel 8a.4.3 staat beroep open.
-2. Een vordering of beroep als bedoeld in het eerste lid, wordt ingediend bij de ondernemingskamer van het gerechtshof te Amsterdam.
+2. Een vordering of beroep als bedoeld in het eerste lid, wordt ingediend bij de ondernemingskamer van het gerechtshof Amsterdam.
 3. Het beroep wordt ingediend bij beroepschrift binnen een maand nadat het bevoegd gezag of de deelnemersraad van de uitspraak op de hoogte is gesteld. De wederpartij wordt van het beroep in kennis gesteld.
 4. Het beroep kan uitsluitend worden ingesteld op de grond dat de commissie een onjuiste toepassing heeft gegeven aan de wet.
 5. Tegen een uitspraak van de ondernemingskamer kan geen beroep in cassatie worden ingesteld.
