@@ -9,7 +9,7 @@
 ## Hoofdstuk 3. Het spoorwegbedrijf
 ### § 1. Algemeen
 ### § 2. De bedrijfsvergunning voor spoorwegondernemingen
-### § 3. Het veiligheidsattest
+### § 3. Het veiligheidscertificaat
 ### § 4. Gebruik, compatibiliteit en interoperabiliteit van spoorvoertuigen en interoperabiliteitsonderdelen
 ### § 5. Personeel
 ### § 6. De verzekeringsplicht
@@ -28,7 +28,6 @@
 ### § 2. De Nederlandse Mededingingsautoriteit
 ### § 3. Bestuursrechtelijke handhaving
 ### § 4. Strafrechtelijke handhaving
-### § 5. Beroep
 ### § 6. Heffingen
 ### § 7. Toepasselijkheid nieuwe Europese regelgeving
 ### § 8. Aanwijzing van keuringsinstanties

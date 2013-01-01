@@ -1,6 +1,6 @@
 # Artikel 37a
 1. Onze Minister verleent op aanvraag een vergunning voor indienststelling of een aanvullende vergunning voor indienststelling voor een type indien hij voor een spoorvoertuig van dat type een dergelijke vergunning heeft verleend.
 2. Onze Minister verleent in afwijking van artikel 36, derde en vijfde lid, een vergunning voor indienststelling respectievelijk een aanvullende vergunning voor indienststelling, indien het spoorvoertuig overeenstemt met een type dat voorzien is van een geldige dergelijke vergunning.
-3. Onze Minister kan de vergunning voor indienststelling voor een type respectievelijk de aanvullende vergunning voor indienststelling voor een type intrekken,indien het type niet langer voldoet aan de krachtens artikel 36 geldende eisen.
+3. Onze Minister kan de vergunning voor indienststelling voor een type respectievelijk de aanvullende vergunning voor indienststelling voor een type schorsen of intrekken, indien het type niet of niet langer voldoet aan de bij of krachtens artikel 36 geldende eisen.
 4. De overeenstemming met een type blijkt uit een verklaring van overeenstemming die voldoet aan de daartoe bij regeling van Onze Minister gestelde voorschriften.
 5. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over het onderzoek naar de overeenstemming van de productie van het spoorvoertuig waarvoor een vergunning voor indienststelling respectievelijk aanvullende vergunning voor indienststelling van het type is verleend, met dat type.
