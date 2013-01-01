@@ -12,17 +12,15 @@
 ### Afdeling 1. Inleidende bepalingen
 #### § 1. Het loonbegrip
 #### § 2. Inhouding en verbod van verhaal
-#### § 3. Uitzondering premieplicht
+#### § 3. Uitzondering en uitbreiding premieplicht
 #### § 4. Premiewijziging anders dan per 1 januari
 ### Afdeling 2. Algemeen Werkloosheidsfonds en sectorfondsen
 #### § 1. Premies ten gunste van de fondsen
 #### § 2. Uitzondering overheid
-#### § 3. Premieplicht werkgever en werknemer
+#### § 3. Premieplicht
 #### § 4. Maatstaf
 #### § 5. Tarief
 ### Afdeling 3. Uitvoeringsfonds voor de overheid
-#### § 1. Door overheid af te dragen middelen
-#### § 2. Door overheid in te houden op het loon
 ### Afdeling 4. Arbeidsongeschiktheidsfonds en Werkhervattingskas
 #### § 1. Premies en rijksbijdragen ten gunste van de fondsen
 #### § 2. Premieplicht werkgever
@@ -30,11 +28,8 @@
 #### § 4. Tarief
 #### § 5. Rijksbijdrage
 ### Afdeling 5. Eigenrisicodragen
-#### § 1. Algemeen
-#### § 2. Eigenrisicodragen Ziektewet
-#### § 3. Eigenrisicodragen Wet werk en inkomen naar arbeidsvermogen
 ### Afdeling 6. Premiekortingen en premievrijstelling
-#### § 1. Premiekortingen oudere werknemer en arbeidsgehandicapte werknemer
+#### § 1. bonussen in de vorm van premiekortingen
 #### § 2. Algemene bepalingen en nadere regels premiekorting
 #### § 3. Premievrijstelling bij marginale arbeid
 ### Afdeling 7. Dienstplichtigen
