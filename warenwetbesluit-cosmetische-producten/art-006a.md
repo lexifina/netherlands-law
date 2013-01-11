@@ -1,0 +1,2 @@
+# Artikel 6a
+Een wijziging van richtlijn 67/548/EEG en bijlage III van richtlijn 76/768/EEG, gaat voor toepassing van respectievelijk artikel 6, achtste lid en artikel 4, eerste lid, onderdeel i, gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
