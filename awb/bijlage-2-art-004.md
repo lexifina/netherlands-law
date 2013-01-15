@@ -66,6 +66,7 @@ b. een besluit terzake van het ingevolge artikel 5:76, tweede lid, of 5:80b, vij
 Wet personenvervoer 2000, met uitzondering van de artikelen 56, eerste lid, 59, eerste lid, 94, eerste lid, en 96, eerste lid
 Wet privatisering FVP
 Wet uitvoering Internationaal Energieprogramma
+Wet verbod pelsdierhouderij
 Wet van 22 juni 1994 tot wijziging van het Burgerlijk Wetboek, het Wetboek van Burgerlijke Rechtsvordering, het Wetboek van Koophandel en de Wet nationaliteit zeeschepen in rompbevrachting (wijziging voorwaarden nationaliteitsverlening en registratie zeeschepen) (Stb. 1994, 507): een verklaring als bedoeld in artikel V, eerste lid
 Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen: een besluit genomen door een van de in artikel 30, eerste lid, genoemde bestuursorganen
 Wet vervoer over zee
