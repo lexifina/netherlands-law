@@ -1,0 +1,6 @@
+# Artikel III
+1. Artikel 110 van de Wegenverkeerswet 1994 zoals dat luidde voor het tijdstip van inwerkingtreding van artikel I, onderdeel E, blijft van toepassing ten aanzien van bestuurders van motorrijtuigen:
+a. aan wie voor het in de aanhef bedoelde tijdstip overeenkomstig de tot dat tijdstip bij of krachtens de Wegenverkeerswet 1994 gestelde regels een rijbewijs is uitgereikt voor het besturen van een motorrijtuig van de categorie waarmee wordt gereden;
+b. ten aanzien van wie het besluit tot afgifte van een rijbewijs voor het besturen van een motorrijtuig van de categorie waarmee wordt gereden is genomen voor het in de aanhef bedoelde tijdstip;
+c. ten aanzien van wie het besluit tot afgifte van een rijbewijs voor het besturen van een motorrijtuig van de categorie waarmee wordt gereden is genomen op of na het in de aanhef bedoelde tijdstip, doch de voor die categorie benodigde verklaring van rijvaardigheid voor dat tijdstip is geregistreerd in het rijbewijzenregister.
+2. Voor de toepassing van het eerste lid, onderdeel a, wordt onder rijbewijs mede verstaan een rijbewijs afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland.
