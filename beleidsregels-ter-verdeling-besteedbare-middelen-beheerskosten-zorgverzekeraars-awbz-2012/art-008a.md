@@ -1,0 +1,2 @@
+# Artikel 8a
+In 2013 stelt het college de beheerskostenbudgetten met toepassing van artikel 4 en 5 nader vast voor die zorgverzekeraars die, overeenkomstig artikel 5, middelen hebben ontvangen ten behoeve van de voorbereidingskosten voor de uitvoering van de AWBZ. In afwijking van artikel 4 gaat het college bij de nadere vaststelling uit van de opgave van de verzekerdenaantallen per 1 juli 2012 van de zorgverzekeraars.
