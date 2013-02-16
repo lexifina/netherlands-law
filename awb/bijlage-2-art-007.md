@@ -1,5 +1,6 @@
 # Artikel 7. Beroep bij de rechtbank Rotterdam
 Tegen een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan beroep worden ingesteld bij de rechtbank Rotterdam.
+Aanbestedingswet op defensie- en veiligheidsgebied, artikel 3.8
 Bankwet 1998: artikel 6a
 Burgerlijk Wetboek:
 a. Boek 2: de artikelen 63d, tweede lid, 156 en 266

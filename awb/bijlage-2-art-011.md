@@ -1,5 +1,6 @@
 # Artikel 11. Hoger beroep bij het College van Beroep voor het bedrijfsleven
 Tegen een uitspraak van de rechtbank of van de voorzieningenrechter omtrent een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan hoger beroep worden ingesteld bij het College van Beroep voor het bedrijfsleven.
+Aanbestedingswet op defensie- en veiligheidsgebied, artikel 3.8
 Bankwet 1998: artikel 6a
 Burgerlijk Wetboek: de artikelen 63d, tweede lid, 156 en 266 van Boek 2
 Elektriciteitswet 1998: de artikelen 77h en 77i
