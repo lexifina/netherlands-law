@@ -15,6 +15,11 @@
 ## Hoofdstuk 6. Terhandstelling van geneesmiddelen en het voorschrijven daarvan
 ## Hoofdstuk 7. Etikettering en bijsluiter
 ## Hoofdstuk 8. Geneesmiddelenbewaking
+### § 1. Het geneesmiddelenbewakingssysteem
+### § 2. Transparantie en communicatie
+### § 3. Registratie, melding en beoordeling van geneesmiddelenbewakingsgegevens
+### § 4. Uitvoering van niet-interventionele veiligheidsstudies na toelating
+### § 5. Overige bepalingen
 ## Hoofdstuk 9. Geneesmiddelenreclame
 ### § 1. Begrips- en algemene bepalingen
 ### § 2. Publieksreclame
