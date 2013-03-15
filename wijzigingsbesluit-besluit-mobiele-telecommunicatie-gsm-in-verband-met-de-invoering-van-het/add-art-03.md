@@ -1,5 +1,0 @@
-# Artikel III
-1. Onze Minister maakt binnen drie weken na de inwerkingtreding van dit besluit in de Staatscourant bekend wanneer de procedure voor het aanvragen van een vergunning zal beginnen.
-2. Onze Minister stelt een tenderdocument op, waarin een overzicht wordt gegeven van de gestelde regels omtrent de indiening en behandeling van de aanvragen om een vergunning en van de gestelde regels omtrent de inhoud van de aanvragen en de daarbij over te leggen gegevens. In het tenderdocument wordt voorts informatie gegeven over de aanvraagprocedure.
-3. Binnen twee weken na het tijdstip waarop de in het eerste lid bedoelde bekendmaking in de Staatscourant is gepubliceerd, kan een ieder aan Onze Minister een verzoek doen om toezending van het tenderdocument. Het tenderdocument wordt uitsluitend verzonden aan degene die daarvoor een bedrag van f 500,- heeft betaald als tegemoetkoming in de kosten van de vervaardiging.
-4. Onze Minister beslist op een aanvraag om een vergunning binnen dertig weken na de bekendmaking, bedoeld in het eerste lid.
