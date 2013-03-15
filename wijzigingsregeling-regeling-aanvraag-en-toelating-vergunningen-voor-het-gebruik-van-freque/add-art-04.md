@@ -1,2 +1,0 @@
-# Artikel IV
-Na de inwerkingtreding van deze regeling geven vergunningen voor het gebruik van frequentieruimte ten dienste van het doen van onderzoekingen in de categorie A of C, recht op het gebruik van de in de bijlage bij artikel 6 van de Regeling aanvraag en toelating vergunningen voor het gebruik van frequentieruimte voor de vergunningcategorie F aangegeven frequentiebanden, met inachtneming van de daarbij aangegeven gebruiksvoorschriften.
