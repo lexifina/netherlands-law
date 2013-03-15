@@ -40,7 +40,7 @@ c. de artikelen 167, derde lid, en 179, derde lid
 d. artikel 261, voor zover het betreft de weigering om een besluit te nemen en het niet tijdig nemen van een besluit
 Reconstructiewet Midden-Delfland: de artikelen 36, eerste lid, 37, 44, eerste lid, 45 en 70, voor zover die wet nog van toepassing is op grond van artikel VIII, tweede lid, van de Wet van 12 november 2009 tot aanpassing van LNV-wetgeving in verband met de Kaderwet zelfstandige bestuursorganen (Stb. 2009, 550)
 Rijkswet Onderzoeksraad voor veiligheid, met uitzondering van beslissingen ten aanzien van de algemeen secretaris en de medewerkers van het bureau
-Telecommunicatiewet: de artikelen 3.4, eerste lid, onderdeel b, voor zover het betreft een aanwijzing, 3.10 en 18.9, eerste en tweede lid
+Telecommunicatiewet: de artikelen 3.5, 3.22 en 18.9, eerste en tweede lid
 Tracéwet: de artikelen 2, eerste lid, 4, eerste lid, onderdeel c, en 23, eerste lid
 Uitleveringswet
 Waterschapswet: artikel 156, eerste lid, voor zover het betreft de weigering om een vernietiging te bevorderen en het niet tijdig nemen van een besluit tot vernietiging
