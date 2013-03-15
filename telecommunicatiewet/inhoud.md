@@ -1,11 +1,15 @@
 # Inhoud
 ## Hoofdstuk 1. Algemene bepalingen
 ## Hoofdstuk 2. Mededeling en registratie
-## Hoofdstuk 3. Frequentiebeleid en frequentiebeheer
-### § 3.1. Frequentieplan en frequentieregister
-### § 3.2. Vergunningverlening voor het gebruik van frequentieruimte
-### § 3.3. Bijzonder gebruik van frequentieruimte
-### § 3.4. Antenne-opstelpunten, antennesystemen en antennes
+## Hoofdstuk 3. Frequenties
+### § 3.1. Frequentieplan, behoefte-onderbouwingsplan en frequentieregister
+### § 3.2. Toewijzing van frequentieruimte voor publieke taken
+### § 3.3. Vergunningen voor de publieke mediadienst
+### § 3.4. Gebruik van frequentieruimte zonder vergunning
+### § 3.5. Overige vergunningen voor het gebruik van frequentieruimte
+### § 3.6. Algemene bepalingen inzake vergunningen
+### § 3.7. Bijzonder gebruik van frequentieruimte
+### § 3.8. Antenne-opstelpunten, antennesystemen en antennes
 ## Hoofdstuk 4. Nummerbeleid en nummerbeheer
 ## Hoofdstuk 5. Aanleg, instandhouding en opruiming van kabels
 ### § 5.1. De gedoogplicht
