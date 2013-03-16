@@ -1,0 +1,2 @@
+# Artikel IV
+Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met Onze Minister van Veiligheid en Justitie en Onze Minister van Financiën zendt binnen drie jaar na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van de door deze wet gewijzigde en toegevoegde artikelen van Boek 7 van het Burgerlijk Wetboek en de Uitvoeringswet huurprijzen woonruimte.
