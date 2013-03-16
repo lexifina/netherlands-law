@@ -1,0 +1,2 @@
+# Artikel IV
+Onze Minister voor Wonen en Rijksdienst in overeenstemming met Onze Ministers van Veiligheid en Justitie en van Financiën zendt binnen drie jaar na het tijdstip van inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van de door deze wet gewijzigde en toegevoegde artikelen van Boek 7 van het Burgerlijk Wetboek en de Uitvoeringswet huurprijzen woonruimte.
