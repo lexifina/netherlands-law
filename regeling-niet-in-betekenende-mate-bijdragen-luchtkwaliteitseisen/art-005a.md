@@ -1,0 +1,2 @@
+# Artikel 5a
+Aangewezen krachtens artikel 2, tweede lid, van het Besluit wordt de uitoefening van bevoegdheden ten aanzien van inrichtingen waarin landbouwhuisdieren worden gehouden en waarvan de emissie van zwevende deeltjes (PM10) vanuit de tot die inrichtingen behorende huisvestingssystemen, als bedoeld in artikel 1, eerste lid, van de Wet ammoniak en veehouderij, meer bedraagt dan 800 kg per jaar en die gelegen zijn in de in bijlage 5 opgenomen gebieden.
