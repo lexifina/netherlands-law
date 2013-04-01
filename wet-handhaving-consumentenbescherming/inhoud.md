@@ -1,6 +1,6 @@
 # Inhoud
 ## Hoofdstuk 1. Definities
-## Hoofdstuk 2. De consumentenautoriteit
+## Hoofdstuk 2. De Autoriteit Consument en Markt
 ### § 1. Aanwijzing en taken
 ### § 2. Privaatrechtelijke handhaving
 ### § 3. Bestuursrechtelijke handhaving

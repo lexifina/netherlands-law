@@ -44,7 +44,7 @@
 ## Hoofdstuk 11a. Continuïteit
 ## Hoofdstuk 12. Geschillen
 ### § 12.1. Geschilbeslechting door geschillencommissie
-### § 12.2. Geschilbeslechting door het college
+### § 12.2. Geschilbeslechting door de Autoriteit Consument en Markt
 #### § 12.2.1. Geschillen tussen marktpartijen
 #### § 12.2.2. Geschillen tussen consumenten en aanbieders of ondernemingen
 ### § 12.3. Geschilbeslechting door minister

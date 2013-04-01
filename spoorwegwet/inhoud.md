@@ -25,7 +25,7 @@
 ## Hoofdstuk 5. Toegang tot bijkomende diensten en voorzieningen
 ## Hoofdstuk 6. Toezicht, handhaving en overige bepalingen
 ### § 1. Toezicht
-### § 2. De Nederlandse Mededingingsautoriteit
+### § 2. De Autoriteit Consument en Markt
 ### § 3. Bestuursrechtelijke handhaving
 ### § 4. Strafrechtelijke handhaving
 ### § 6. Heffingen
