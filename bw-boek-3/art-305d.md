@@ -1,6 +1,6 @@
 # Artikel 305d
 1. Het gerechtshof Den Haag kan op verzoek van:
-a. de Consumentenautoriteit;
+a. de Autoriteit Consument en Markt;
 b. de Stichting Autoriteit Financiële Markten, of
 c. een stichting of vereniging met volledige rechtsbevoegdheid, die krachtens haar statuten tot taak heeft de bescherming van gelijksoortige belangen van andere personen,
 bevelen dat degene die een overtreding als bedoeld in artikel 1.1 onder k van de Wet handhaving consumentenbescherming pleegt van de wettelijke bepalingen, bedoeld in onderdeel a van de bijlage bij de Wet handhaving consumentenbescherming, die overtreding staakt.

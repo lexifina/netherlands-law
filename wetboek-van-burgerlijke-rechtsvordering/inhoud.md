@@ -6,7 +6,7 @@
 #### afdeling Derde. Algemene voorschriften voor procedures
 #### afdeling Vierde. Wraking en verschoning van rechters
 #### afdeling Vijfde. Het openbaar ministerie en de procureur-generaal bij de Hoge Raad
-#### afdeling Vijfde A. De raad van bestuur van de Nederlandse Mededingingsautoriteit en de commissie van de Europese gemeenschappen
+#### afdeling Vijfde A. De Autoriteit Consument en Markt en de commissie van de Europese gemeenschappen
 #### afdeling Zesde. Exploten
 #### afdeling Zevende. Inlichtingen over buitenlands recht en communautair mededingingsrecht
 #### afdeling Achtste. Herstel van verkeerd inleiden van een procedure, verwijzing door of naar de kantonrechter en verwijzing bij absolute onbevoegdheid
