@@ -1,8 +1,0 @@
-# Artikel 74c
-1. Bij algemene maatregel van bestuur kan aan daartoe aan te wijzen opsporingsambtenaren in bij die algemene maatregel van bestuur aangewezen zaken betreffende overtredingen, begaan door personen die de leeftijd van twaalf jaren hebben bereikt, tot wederopzeggens de bevoegdheid worden verleend die bij artikel 74, eerste lid, aan de officier van justitie is toegekend.
-2. De te stellen voorwaarde bestaat in de betaling van een bepaalde geldsom. Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven omtrent de plaats en wijze van betaling en de termijn waarbinnen de betaling moet zijn geschied.
-3. Het eerste en het tweede lid zijn van overeenkomstige toepassing op zaken betreffende misdrijven, als bedoeld in artikel 74, eerste lid, van eenvoudige aard, welke zijn begaan door personen die de leeftijd van achttien jaren hebben bereikt, met dien verstande dat de te betalen geldsom ten hoogste € 350 bedraagt.
-4. De ambtenaren bekleed met de bevoegdheid, bedoeld in het eerste lid, maken hiervan gebruik volgens richtlijnen, vast te stellen door het College van procureurs-generaal.
-5. Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven met betrekking tot de aanwijzing van de in het eerste lid bedoelde opsporingsambtenaren, het toezicht op de wijze waarop zij van de hun verleende bevoegdheid gebruik maken en de intrekking van de aanwijzing van een opsporingsambtenaar.
-6. Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven inzake de verantwoording van ingevolge het tweede en derde lid betaalde geldbedragen.
-7. Bij het stellen van voorwaarden door opsporingsambtenaren zijn de artikelen 74, derde lid, en 74b van overeenkomstige toepassing.
