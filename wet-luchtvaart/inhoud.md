@@ -124,6 +124,6 @@
 #### § 11.2.2. Bestuursrechtelijke handhaving door Minister van Defensie
 #### § 11.2.2a. Bestuursrechtelijke handhaving door Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
 #### § 11.2.3. Bestuursrechtelijke boete door gedeputeerde staten
-#### § 11.2.4. Bestuursrechtelijke handhaving door Nederlandse Mededingingsautoriteit
+#### § 11.2.4. Bestuursrechtelijke handhaving door de Autoriteit Consument en Markt
 ### Titel 11.3. Uitzonderingen
 ## Hoofdstuk 12. Overgangs- en slotbepalingen
