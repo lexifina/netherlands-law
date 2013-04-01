@@ -1,0 +1,2 @@
+# Artikel 4c.3
+De schipper van een vaartuig dat is uitgerust met een automatisch identificatiesysteem is verplicht dat systeem te allen tijde operationeel te houden in overeenstemming met voorschrift V/19.2.4.7 van het op 1 november 1974 te Londen tot stand gekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen, tenzij dit in uitzonderlijke omstandigheden naar het oordeel van de schipper gevaar oplevert voor de veiligheid of de beveiliging van het vissersvaartuig.
