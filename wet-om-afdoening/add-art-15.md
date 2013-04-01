@@ -1,0 +1,2 @@
+# Artikel XV
+In de gevallen waarin de wet bepaalt dat een bestuursorgaan geen bestuurlijke boete oplegt indien voor hetzelfde feit het recht tot strafvordering is vervallen doordat is voldaan aan de voorwaarden die krachtens een wettelijk voorschrift zijn gesteld ter voorkoming van strafvervolging, legt dit bestuursorgaan tevens geen bestuurlijke boete op indien ter zake van dat feit een strafbeschikking is uitgevaardigd.

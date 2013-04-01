@@ -1,0 +1,2 @@
+# Artikel XII
+Artikel 3.14, eerste lid, onderdeel e, van de Wet inkomstenbelasting 2001 alsmede artikel 15b, eerste lid, onderdeel o, van de Wet op de loonbelasting 1964, zoals zij luidden voor het in werking treden van de artikelen VIII en IX van deze wet, blijven van toepassing in gevallen waarin vergoedingen zijn verstrekt ter zake van het voldoen aan gestelde voorwaarden ter voorkoming van strafvervolging in Nederland.
