@@ -1,5 +1,6 @@
 # Artikel 7. Beroep bij de rechtbank Rotterdam
 Tegen een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan beroep worden ingesteld bij de rechtbank Rotterdam.
+Aanbestedingswet 2012, artikel 4.21
 Aanbestedingswet op defensie- en veiligheidsgebied, artikel 3.8
 Bankwet 1998: artikel 6a
 Burgerlijk Wetboek:
@@ -18,7 +19,7 @@ Tabakswet
 Telecommunicatiewet, met uitzondering van:
 a. artikel 3.4, eerste lid, onderdeel b, voor zover het betreft een aanwijzing
 b. de artikelen 3.10 en 18.9, eerste en tweede lid
-c. alsmede, voor zover het betreft een besluit van het college, genoemd in artikel 2 van de Wet Onafhankelijke post- en telecommunicatieautoriteit:
+c. alsmede, voor zover het betreft een besluit van de Autoriteit Consument en Markt:
 1. hoofdstuk 6, tenzij beroep kon worden ingesteld voor de inwerkingtreding van de Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002
 2. de hoofdstukken 6A, 6B en 12
 3. hoofdstuk 15, met uitzondering van de artikelen 15.2a en 15.4
@@ -31,7 +32,6 @@ Wet geneesmiddelenprijzen: artikel 11
 Wet gewasbeschermingsmiddelen en biociden: artikel 90
 Wet handhaving consumentenbescherming
 Wet implementatie EU-richtlijnen energie-efficiëntie: de artikelen 21 en 22
-Wet implementatie rechtsbeschermingsrichtlijnen aanbesteden: artikel 14
 Wet inzake de geldtransactiekantoren, voor zover die wet nog van toepassing is op grond van artikel IX van de Wijzigingswet financiële markten 2012
 Wet luchtvaart, de artikelen 8.25f, eerste lid, en 8.25g, eerste lid
 Wet marktordening gezondheidszorg, voor zover het betreft beschikkingen van de Nederlandse Zorgautoriteit als bedoeld in paragraaf 4 van hoofdstuk 6

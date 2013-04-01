@@ -1,5 +1,6 @@
 # Artikel 11. Hoger beroep bij het College van Beroep voor het bedrijfsleven
 Tegen een uitspraak van de rechtbank of van de voorzieningenrechter omtrent een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan hoger beroep worden ingesteld bij het College van Beroep voor het bedrijfsleven.
+Aanbestedingswet 2012, artikel 4.21
 Aanbestedingswet op defensie- en veiligheidsgebied, artikel 3.8
 Bankwet 1998: artikel 6a
 Burgerlijk Wetboek: de artikelen 63d, tweede lid, 156 en 266 van Boek 2
@@ -18,7 +19,7 @@ Tabakswet
 Telecommunicatiewet, met uitzondering van:
 a. artikel 3.4, eerste lid, onderdeel b, voor zover het betreft een aanwijzing
 b. de artikelen 3.10 en 18.9, eerste en tweede lid
-c. alsmede, voor zover het betreft een besluit van het college, genoemd in artikel 2 van de Wet Onafhankelijke post- en telecommunicatieautoriteit:
+c. alsmede, voor zover het betreft een besluit van de Autoriteit Consument en Markt:
 1. hoofdstuk 6, tenzij beroep kon worden ingesteld voor de inwerkingtreding van de Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002
 2. de hoofdstukken 6A, 6B, en 12
 3. hoofdstuk 15, met uitzondering van een besluit op grond van de artikelen 15.2a en 15.4
@@ -30,7 +31,6 @@ Wet geneesmiddelenprijzen: artikel 11
 Wet gewasbeschermingsmiddelen en biociden: artikel 90
 Wet handhaving consumentenbescherming
 Wet implementatie EU-richtlijnen energie-efficiëntie: de artikelen 21 en 22
-Wet implementatie rechtsbeschermingsrichtlijnen aanbesteden: artikelen 14 tot en met 16
 Wet inzake de geldtransactiekantoren,voor zover die wet nog van toepassing is op grond van artikel IX van de Wijzigingswet financiële markten 2012
 Wet luchtvaart: de artikelen 8.25f, eerste lid, en 8.25g, eerste lid
 Wet marktordening gezondheidszorg, voor zover het betreft een besluit van de Nederlandse Zorgautoriteit als bedoeld in hoofdstuk 6, paragraaf 4

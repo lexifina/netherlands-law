@@ -17,8 +17,8 @@ e. de artikelen 179, tweede lid, en 235, tweede lid, voor zover het betreft een 
 f. artikel 266, voor zover het betreft:
 1. een besluit tot weigering, wijziging of intrekking van de ontheffing
 2. een besluit tot verlening van de ontheffing voor zover daaraan voorschriften zijn verbonden dan wel daarbij beperkingen zijn opgelegd
-Elektriciteitswet 1998, met inbegrip van een besluit van de raad van bestuur van de Nederlandse Mededingingsautoriteit, genomen op grond van de artikelen 36, 37, 41, 41c, 55, 56, tweede lid, en 57, derde en vierde lid, dat kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in artikel 8:3, eerste lid, van de Algemene wet bestuursrecht en met uitzondering van een besluit op grond van de artikelen 9b, vierde lid, 9c, derde lid, 9d, tweede en derde lid, 9e, vijfde lid, 9f, zesde lid, 20a, derde lid, 20b, derde lid, 20c, tweede en derde lid, 77h en 77i
-Gaswet, met inbegrip van een besluit van de raad van bestuur van de Nederlandse Mededingingsautoriteit, genomen op grond van de artikelen 12f, 12g, 23, 24, tweede lid, 25, derde en vierde lid, 81, 81c en 82, dat kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in artikel 8:3, eerste lid, van de Algemene wet bestuursrecht en met uitzondering van een besluit op grond van de artikelen 16, 39b, derde lid, 39c, derde lid, 39d, tweede en derde lid, 60ac en 60ad
+Elektriciteitswet 1998, met inbegrip van een besluit van de Autoriteit Consument en Markt, genomen op grond van de artikelen 36, 37, 41, 41c, 55, 56, tweede lid, en 57, derde en vierde lid, dat kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in artikel 8:3, eerste lid, van de Algemene wet bestuursrecht en met uitzondering van een besluit op grond van de artikelen 9b, vierde lid, 9c, derde lid, 9d, tweede en derde lid, 9e, vijfde lid, 9f, zesde lid, 20a, derde lid, 20b, derde lid, 20c, tweede en derde lid, 77h en 77i
+Gaswet, met inbegrip van een besluit van de Autoriteit Consument en Markt, genomen op grond van de artikelen 12f, 12g, 23, 24, tweede lid, 25, derde en vierde lid, 81, 81c en 82, dat kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in artikel 8:3, eerste lid, van de Algemene wet bestuursrecht en met uitzondering van een besluit op grond van de artikelen 16, 39b, derde lid, 39c, derde lid, 39d, tweede en derde lid, 60ac en 60ad
 Gemeentewet: artikel 125, voor zover het betreft een besluit dat betrekking heeft op de handhaving van het bepaalde bij of krachtens de Winkeltijdenwet
 Gezondheids- en welzijnswet voor dieren, met uitzondering van artikel 120b, eerste lid
 Hamsterwet
@@ -35,7 +35,7 @@ Plantenziektenwet
 Prijzennoodwet
 Prijzenwet
 Sanctiewet 1977: artikel 9, derde lid
-Telecommunicatiewet, voor zover het betreft een besluit van het college, genoemd in artikel 2 van de Wet Onafhankelijke post- en telecommunicatieautoriteit, genomen op grond van:
+Telecommunicatiewet, voor zover het betreft een besluit van de Autoriteit Consument en Markt, genomen op grond van:
 a. hoofdstuk 6, tenzij beroep kon worden ingesteld voor de inwerkingtreding van de Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002
 b. de hoofdstukken 6A, 6B en 12
 c. hoofdstuk 15, met uitzondering van de artikelen 15.2a en 15.4
@@ -70,10 +70,7 @@ Wet verbod pelsdierhouderij
 Wet van 22 juni 1994 tot wijziging van het Burgerlijk Wetboek, het Wetboek van Burgerlijke Rechtsvordering, het Wetboek van Koophandel en de Wet nationaliteit zeeschepen in rompbevrachting (wijziging voorwaarden nationaliteitsverlening en registratie zeeschepen) (Stb. 1994, 507): een verklaring als bedoeld in artikel V, eerste lid
 Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen: een besluit genomen door een van de in artikel 30, eerste lid, genoemde bestuursorganen
 Wet vervoer over zee
-Wet voorraadvorming aardolieproducten 2001:
-a. hoofdstuk 2, met uitzondering van artikel 21
-b. een besluit dat is genomen op grond van een bilateraal akkoord en betrekking heeft op het niet in Nederland aanhouden van een wettelijke voorraad
-c. een besluit op grond van een bilateraal akkoord als bedoeld in artikel 25 inzake het in Nederland aanhouden van een wettelijke voorraad ten behoeve van een andere staat dan Nederland of een onderdaan van die staat
+Wet voorraadvorming aardolieproducten 2012, met uitzondering van artikel 26 en met inbegrip van een besluit van Onze Minister van Economische Zaken, Landbouw en Innovatie dat is genomen op grond van een bilateraal akkoord en betrekking heeft op het niet in Nederland aanhouden van een wettelijke voorraad
 Wet wegvervoer goederen
 Wetboek van Koophandel: artikel 311a
 Winkeltijdenwet, met inbegrip van een besluit inzake de verlening van een vrijstelling op grond van artikel 3, derde lid, onder a, dat kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in artikel 8:3, eerste lid, van de Algemene wet bestuursrecht
