@@ -1,0 +1,2 @@
+# Artikel XIV. (overgangsrecht i.v.m. verzet, beroep, hoger beroep enz.)
+Voor de toepassing van bepalingen inzake de behandeling van geschillen ter zake van beslissingen van de rechtbank Oost-Nederland die vóór het tijdstip van inwerkingtreding van artikel I zijn genomen, tot kennisneming waarvan de rechtbank Gelderland onderscheidenlijk de rechtbank Overijssel bevoegd is, worden deze beslissingen aangemerkt als beslissingen van de rechtbank Gelderland onderscheidenlijk de rechtbank Overijssel.

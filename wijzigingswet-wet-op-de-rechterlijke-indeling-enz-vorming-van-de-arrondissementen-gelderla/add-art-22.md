@@ -1,0 +1,2 @@
+# Artikel XXII. (overgangsrecht zaaksverdelingsreglement)
+Het zaaksverdelingsreglement van de rechtbank Oost-Nederland, bedoeld in artikel 21 van de Wet op de rechterlijke organisatie, zoals dit luidt op de dag voor de datum van inwerkingtreding van artikel I, en voor zover betrekking hebbend op de zittingsplaatsen in de provincies Gelderland onderscheidenlijk Overijssel, heeft te gelden als het zaaksverdelingsreglement van de rechtbank Gelderland onderscheidenlijk de rechtbank Overijssel.
