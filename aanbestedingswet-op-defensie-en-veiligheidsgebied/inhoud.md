@@ -65,6 +65,7 @@
 ## Deel 3. Overige bepalingen
 ### Hoofdstuk 3.1. Overige bepalingen
 #### Afdeling 3.1.1. Nadere regels ter uitvoering van richtlijn nr. 2009/81/eg
+#### Afdeling 3.1.2. Het elektronisch systeem voor aanbesteden
 ### Hoofdstuk 3.2. Vernietigbaarheid en boete
 #### Afdeling 3.2.1. Vernietigbaarheid
 #### Afdeling 3.2.2. Boete
