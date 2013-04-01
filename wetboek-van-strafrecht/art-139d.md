@@ -3,4 +3,4 @@
 2. Met dezelfde straf wordt gestraft hij die, met het oogmerk dat daarmee een misdrijf als bedoeld in artikel 138ab, eerste lid, 138b of 139c wordt gepleegd:
 a. een technisch hulpmiddel dat hoofdzakelijk geschikt gemaakt of ontworpen is tot het plegen van een zodanig misdrijf, vervaardigt, verkoopt, verwerft, invoert, verspreidt of anderszins ter beschikking stelt of voorhanden heeft, of
 b. een computerwachtwoord, toegangscode of daarmee vergelijkbaar gegeven waardoor toegang kan worden gekregen tot een geautomatiseerd werk of een deel daarvan, verkoopt, verwerft, verspreidt of anderszins ter beschikking stelt of voorhanden heeft.
-3. Met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie wordt gestraft hij die het in het tweede lid bedoelde feit pleegt terwijl zijn oogmerk is gericht op een misdrijf als bedoeld in artikel 138a, tweede of derde lid.
+3. Met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie wordt gestraft hij die het in het tweede lid bedoelde feit pleegt terwijl zijn oogmerk is gericht op een misdrijf als bedoeld in artikel 138ab, tweede of derde lid.
