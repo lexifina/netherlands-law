@@ -1,2 +1,0 @@
-# Artikel 31a
-Indien richtlijn 68/414/EEG wordt ingetrokken en wordt vervangen door een codificatie van die richtlijn, worden voor zover nodig bij besluit van Onze Minister de verwijzingen in de artikel 1, onderdelen a en c, en artikel 9, eerste en tweede lid, naar de artikelen van richtlijn 68/414/EEG alsmede de aanduiding van de richtlijn in artikel 1, onderdeel f, in overeenstemming gebracht met de corresponderende artikelen en aanduiding van de gecodificeerde richtlijn. Van dit besluit wordt mededeling gedaan in de Staatscourant.
