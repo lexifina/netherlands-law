@@ -1,0 +1,12 @@
+# Artikel 47a
+1. Voor een aanvullende officiële controle na vaststelling van niet-naleving als bedoeld in artikel 28 van verordening (EG) nr. 882/2004, waarbij de aanvullende officiële controle geschiedt in aanvulling op werkzaamheden van de NVWA waarvoor op grond van deze regeling een vergoeding verschuldigd is, is de exploitant van de onderneming ten aanzien waarvan de aanvullende officiële controle wordt verricht een bedrag verschuldigd, bestaande uit:
+a. een starttarief dat gelijk is aan het starttarief dat de exploitant op grond van deze regeling verschuldigd is ten aanzien van de werkzaamheden van de NVWA waarop de In de aanhef bedoelde controle een aanvulling vormt, en
+b. een bedrag per kwartier dat aan de aanvullende officiële controle is besteed, welk bedrag gelijk is aan het bedrag per kwartier dat de exploitant op grond van deze regeling verschuldigd is ten aanzien van de werkzaamheden van de NVWA waarop de in de aanhef bedoelde controle een aanvulling vormt.
+2. In afwijking van het eerste lid is de exploitant voor een aanvullende officiële controle na vaststelling van niet-naleving in het kader van een controle als bedoeld in de artikelen 3, eerste en derde lid, 5 en 7, een bedrag verschuldigd, bestaande uit:
+a. een starttarief van € 43,83, en
+b. een bedrag van € 27,52 per kwartier dat aan de aanvullende officiële controle is besteed.
+3. In afwijking van het eerste lid is de exploitant voor een aanvullende officiële controle na vaststelling van niet-naleving in het kader van keuringswerkzaamheden als bedoeld in artikel 15, onderdeel c, en artikel 17, een bedrag verschuldigd, bestaande uit:
+a. een starttarief van € 76,29, en
+b. een bedrag van € 29,06 per kwartier dat aan de aanvullende officiële controle is besteed.
+4. Voor zover in het kader van de in het eerste, tweede of derde lid bedoelde aanvullende officiële controle laboratoriumonderzoek is verricht van chemische en microbiologische monsters die ten behoeve van die controle zijn genomen, is de exploitant, naast de in het eerste, onderscheidenlijk tweede of derde lid bedoelde vergoeding, een bedrag voor dit laboratoriumonderzoek verschuldigd.
+5. Het in het vierde lid bedoelde bedrag bedraagt de door de Minister te berekenen werkelijke kosten verbonden aan de onderzoeken, waaronder in welk geval zijn begrepen de kosten voor het verbruik van chemicaliën, hulpmiddelen en materialen, alsmede personeelskosten en huisvestingskosten.
