@@ -47,6 +47,10 @@ Spoedwet wegverbreding
 Tijdelijke wet aanwijzing bèta-opleidingen: artikel 2, eerste lid
 Tracéwet
 Verordening (EG) nr. 1013/2006 van het Europees Parlement en de Raad van 14 juni 2006 betreffende de overbrenging van afvalstoffen (PbEU 2006, L 190)
+Verordening (EU) nr. 600/2012 van de Commissie van 21 juni 2012 inzake de verificatie van broeikasgasemissie- en tonkilometerverslagen en de accreditatie van verificateurs krachtens Richtlijn 2003/87/EG van het Europees Parlement en de Raad (PbEU 2012, L181):
+artikel 31, eerste lid, voor zover het besluiten betreft van de Nederlandse emissieautoriteit, genoemd in artikel 2.1 van de Wet milieubeheer
+Verordening (EU) nr. 601/2012 van de Commissie van 21 juni 2012 inzake de monitoring en rapportage van de emissies van broeikasgassen overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad (PbEU 2012, L181):
+voor zover het besluiten betreft van de Nederlandse emissieautoriteit, genoemd in artikel 2.1 van de Wet milieubeheer
 Vreemdelingenwet 2000: de artikelen 43 en 45, vierde lid
 Waterschapswet:
 a. een besluit van Onze Minister van Infrastructuur en Milieu inzake de goedkeuring van een besluit als bedoeld in artikel 5
