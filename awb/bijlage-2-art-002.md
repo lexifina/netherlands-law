@@ -83,9 +83,7 @@ c. de toewijzing van eigendom, beheer en onderhoud van voorzieningen van openbaa
 d. de aanduiding van wegen met de daartoe behorende kunstwerken, bedoeld in artikel 33, eerste lid
 e. de opname van wegen met de daartoe behorende kunstwerken als openbare weg, bedoeld in artikel 33, tweede lid
 Wet inzake de luchtverontreiniging
-Wet luchtvaart: de artikelen 8.25, tweede lid, 8.25b, 8.25c, 8.43, eerste lid, 8.64, eerste lid, artikel 8.70, eerste en zesde lid, 8.77, eerste lid, 8a.50a, 8a.54, 10.15, eerste lid, en 10.39, ook voor zover het besluit kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in artikel 8:3, eerste lid, van de Algemene wet bestuursrecht, maar met uitzondering van een besluit op grond van:
-a. artikel 8.70, eerste lid, in geval op een luchthaven sprake is van een samenwerking bij de verdeling van luchthavenluchtverkeer met de luchthaven Schiphol
-b. artikel 10.15, eerste lid, voor zover het betreft de grenswaarden en regels die gelden voor het burgerluchtverkeer vastgesteld op grond van artikel 10.28, eerste lid, en voor burgerluchthavenluchtverkeer sprake is van een samenwerking bij de verdeling van luchthavenluchtverkeer met de luchthaven Schiphol
+Wet luchtvaart: de artikelen 8.25, tweede lid, 8.25b, 8.25c, 8.43, eerste lid, 8.64, eerste lid, 8.70, eerste en zesde lid, 8.77, eerste lid, 8a.50a, 10.15, eerste lid, en 10.39, ook voor zover het besluit kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in artikel 8:3, eerste lid, van de Algemene wet bestuursrecht, maar met uitzondering van een besluit op grond van de artikelen 8.70, eerste lid, en 10.15, eerste lid, voor zover het betreft de luchthavens Lelystad, Rotterdam en Eindhoven.
 Wet milieubeheer, met inbegrip van een besluit dat betrekking heeft op handhaving, doch met uitzondering van:
 a. de artikelen 1.3, eerste lid, 8.40a en 8.42
 b. een besluit dat betrekking heeft op de handhaving van het bepaalde krachtens artikel 8.40

@@ -59,8 +59,8 @@ Wet gewasbeschermingsmiddelen en biociden: artikel 108
 Wet investeren in jongeren: de artikelen 37, 57 en 91, voor zover het besluiten betreft van de voorzitter van gedeputeerde staten
 Wet luchtvaart:
 a. de artikelen 8.4 en 8.15
-b. artikel 8.70, eerste lid, in geval op een luchthaven sprake is van een samenwerking bij de verdeling van luchthavenluchtverkeer met de luchthaven Schiphol
-c. artikel 10.15, eerste lid, voor zover het betreft de grenswaarden en regels die gelden voor het burgerluchtverkeer vastgesteld op grond van artikel 10.28, eerste lid, en voor burgerluchthavenluchtverkeer sprake is van een samenwerking bij de verdeling van luchthavenluchtverkeer met de luchthaven Schiphol
+b. de artikelen 8.70, eerste lid, en 10.15, eerste lid, voor zover het betreft de luchthavens Lelystad, Rotterdam en Eindhoven
+c. artikel 10.27, eerste lid, voor zover het betreft een vergunning voor burgermedegebruik door tussenkomst van een burgerexploitant voor de luchthaven Eindhoven.
 Wet melding collectief ontslag
 Wet milieubeheer:
 a. de artikelen 4.3, 4.6, 4.9, 4.12, 4.15a, 4.16, 4.19, 5.12, eerste lid, 5.12, dertiende lid, 5.13, eerste lid, 5.23, eerste lid, 10.3, 11A.2, derde lid, onderdelen b en c, 11.5, 11.18
