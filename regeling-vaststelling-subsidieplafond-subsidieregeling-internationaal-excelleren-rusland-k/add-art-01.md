@@ -1,0 +1,2 @@
+# Artikel I
+Voor de periode vanaf 1 mei 2013 tot en met 31 december 2013 kunnen subsidieaanvragen worden ingediend ten laste van de artikelen 3.1, 4.1 en 5.19 van de Subsidieregeling internationaal excelleren (demonstratieprojecten, haalbaarheidsstudies en kennisverwerving) met betrekking tot de landen Rusland, Koeweit, Bahrein, Qatar, Verenigde Arabische Emiraten, Oman, Saudi-Arabië, Singapore en Zuid-Korea. Als subsidieplafond voor het verstrekken van subsidies als bedoeld in de eerste volzin geldt een bedrag van € 500.000.
