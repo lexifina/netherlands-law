@@ -1,0 +1,3 @@
+# Artikel 38c
+1. Onze Minister wijst voor elk gebied waarin een regionale eenheid de politietaak uitvoert voor een periode van vier jaren een regioburgemeester aan. De burgemeesters van de gemeenten in dat gebied worden in de gelegenheid gesteld een gezamenlijke aanbeveling voor de aanwijzing te doen. Onze Minister volgt bij de aanwijzing in beginsel de aanbeveling, tenzij zwaarwegende gronden aanleiding tot afwijking geven. Onze Minister motiveert een afwijking.
+2. De burgemeesters van de gemeenten in het gebied waarin de regionale eenheid de politietaak uitvoert, kunnen Onze Minister gezamenlijk verzoeken de regioburgemeester van zijn functie te ontheffen. De derde en vierde volzin van het eerste lid zijn van overeenkomstige toepassing.
