@@ -1,0 +1,2 @@
+# Aanhef
+Voor de toepassing van de BSBm in Drenthe is een toetsingskader gemaakt waarin de kaders vermeld staan die gelden voor de toepassing van de Bestuurlijke Strafbeschikking milieu. De te hanteren kaders en voorwaarden worden in dit toepassingskader toegelicht. De kennisgevingen voor de bestuurlijke strafbeschikking zullen door de provincie Drenthe getoetst worden aan de hand van dit toepassingskader en de feitenlijst BSBm.
