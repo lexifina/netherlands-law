@@ -159,6 +159,7 @@
 ## Hoofdstuk 17. Maatregelen in bijzondere omstandigheden
 ### Titel 17.1. Maatregelen bij een ongewoon voorval
 ### Titel 17.1A. Maatregelen betreffende afvalvoorzieningen
+### Titel 17.1B. Maatregelen in geval van niet-naleving
 ### Titel 17.2. Maatregelen bij milieuschade of een onmiddellijke dreiging daarvan
 ### Titel 17.3. Maatregelen bij gevaar door stoffen, preparaten of genetisch gemodificeerde organismen
 ## Hoofdstuk 18. Handhaving
