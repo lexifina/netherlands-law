@@ -1,0 +1,3 @@
+# Artikel III
+1. Dit besluit blijft buiten toepassing op ambtshalve verlening van de vergunning, bedoeld in artikel 3.56 (oud) in geval de aanvraag tot een verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28 van de Wet voor inwerkingtreding van dit besluit is ingediend tenzij het recht dat geldt op het tijdstip waarop de beschikking wordt gegeven voor de vreemdeling gunstiger is.
+2. Dit besluit blijft buiten toepassing ten aanzien van vreemdelingen die ten tijde van de inwerkingtreding van dit besluit een vergunning op grond van artikel 3.56 (oud) bezitten, dan wel na inwerkingtreding van dit besluit deze vergunning verleend krijgen, tenzij het recht dat geldt op het tijdstip waarop de beschikking wordt gegeven voor de vreemdeling gunstiger is.
