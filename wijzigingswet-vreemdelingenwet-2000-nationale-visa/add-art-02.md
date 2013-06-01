@@ -1,0 +1,5 @@
+# Artikel II
+1. Op de behandeling van aanvragen om een machtiging tot voorlopig verblijf dan wel terugkeervisum die zijn ingediend voor het tijdstip van inwerkingtreding van artikel I, onderdeel C, van deze wet blijft het recht dat gold voor dat tijdstip van toepassing.
+2. Ten aanzien van de mogelijkheid om bezwaar te maken en beroep in te stellen tegen een besluit op een aanvraag als bedoeld in het eerste lid blijft het recht dat gold voor het tijdstip van inwerkingtreding van artikel I, onderdeel C, van deze wet van toepassing.
+3. Op de behandeling van een aanvraag als bedoeld in artikel 25, ingediend voor het tijdstip van inwerkingtreding van artikel I, onderdeel C, van deze wet, blijft het recht zoals dat gold voor dat tijdstip van toepassing.
+4. Op de behandeling van een bezwaarschrift tegen een besluit dat is bekendgemaakt voor het tijdstip van inwerkingtreding van artikel I, onderdeel C, van deze wet, gegeven op een aanvraag als bedoeld in het derde lid, blijft het recht zoals dat gold voor dat tijdstip van toepassing.
