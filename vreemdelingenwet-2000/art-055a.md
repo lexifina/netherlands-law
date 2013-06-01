@@ -1,0 +1,4 @@
+# Artikel 55a
+1. Onze Minister kan bij een overtreding van de verplichtingen neergelegd in artikelen 2a, tweede lid, onder b, 2t, tweede en derde lid, 24a, tweede en derde lid, 54, eerste lid, onder a tot en met e en g, en tweede lid, een bestuurlijke boete opleggen van ten hoogste € 3000 voor ondernemingen, rechtspersonen en andere organisaties en € 1500 voor natuurlijke personen. Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de hoogte van de bestuurlijke boete.
+2. Het rapport vermeldt in ieder geval de bij het beboetbare feit betrokken persoon of personen.
+3. Onze Minister kan de bestuurlijke boete verhogen met 50%, indien op de dag van het constateren van de overtreding nog geen 24 maanden zijn verstreken nadat een eerdere overtreding van eenzelfde wettelijke verplichting is geconstateerd.

@@ -1,0 +1,3 @@
+# Artikel 47a
+1. Met het toezicht op de naleving van de wettelijke voorschriften met betrekking tot referenten zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
+2. Bij algemene maatregel van bestuur op voordracht van Onze Minister en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan worden bepaald dat met het toezicht op de naleving van de wettelijke voorschriften met betrekking tot referenten tevens zijn belast de ambtenaren van politie, bedoeld in artikel 2, onder a, c en d, van de Politiewet 2012, die zijn aangesteld voor de uitvoering van de politietaak, in welk geval artikel 47, tweede lid, van overeenkomstige toepassing is.

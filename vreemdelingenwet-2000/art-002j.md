@@ -1,0 +1,2 @@
+# Artikel 2j
+Een ten behoeve van de toegang tot Nederland door Onze Minister verleend visum waarvan de geldigheidsduur niet is verstreken, dan wel een door een bevoegde autoriteit van een andere staat verleend visum, dat krachtens verdrag of bindend besluit van een volkenrechtelijke organisatie daaraan is gelijkgesteld, geldt als het ingevolge artikel 3, eerste lid, onderdeel a, voor de toegang tot Nederland benodigde visum, onverminderd het overigens bij of krachtens dit hoofdstuk bepaalde.
