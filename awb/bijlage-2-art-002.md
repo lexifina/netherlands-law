@@ -44,6 +44,7 @@ d. artikel 261, eerste lid
 Reconstructiewet concentratiegebieden, voor zover het betreft een besluit tot vaststelling, wijziging of uitwerking van het reconstructieplan, alsmede een besluit dat is genomen met toepassing van de artikelen 40 tot en met 43
 Reconstructiewet Midden-Delfland: artikel 72, eerste tot en met derde lid, voor zover die wet nog van toepassing is op grond van artikel VIII, tweede lid, van de Wet van 12 november 2009 tot aanpassing van LNV-wetgeving in verband met de Kaderwet zelfstandige bestuursorganen (Stb. 2009, 550)
 Spoedwet wegverbreding
+Tijdelijke experimentenwet stembiljetten en centrale stemopneming: artikelen 4
 Tijdelijke wet aanwijzing bèta-opleidingen: artikel 2, eerste lid
 Tracéwet
 Verordening (EG) nr. 1013/2006 van het Europees Parlement en de Raad van 14 juni 2006 betreffende de overbrenging van afvalstoffen (PbEU 2006, L 190)
