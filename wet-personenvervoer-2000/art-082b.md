@@ -3,7 +3,7 @@
 2. Het in het eerste lid bedoelde organisatorische verband heeft een verbetering van de kwaliteit van taxivervoer ten doel.
 3. Bij of krachtens een in het eerste lid bedoelde gemeentelijke verordening worden regels gesteld over de eisen aan en verplichtingen van het organisatorisch verband en de eisen aan en de verplichtingen van de vervoerders en de bestuurders van de in het eerste lid bedoelde auto's die daar deel van uitmaken alsmede de regels die nodig zijn voor een goede uitvoering van de in het eerste lid bedoelde bevoegdheid.
 4. De in het eerste lid bedoelde gemeentelijke verordening stelt regels over het minimum aantal binnen de gemeente betrokken organisatorische verbanden.
-5. De in het derde lid bedoelde regels kunnen mede betrekking hebben op verlening van vergunningen aan de in dit artikel bedoelde organisatorische verbanden en degenen die daarvan deel uitmaken, alsmede op de intrekking, wijziging en schorsing van die vergunningen. De artikelen 6, vierde en vijfde lid, en 99, eerste lid, onderdeel c, en tweede lid, zijn van overeenkomstige toepassing.
+5. De in het derde lid bedoelde regels kunnen mede betrekking hebben op verlening van vergunningen aan de in dit artikel bedoelde organisatorische verbanden en degenen die daarvan deel uitmaken, alsmede op de intrekking, wijziging en schorsing van die vergunningen. De artikelen 76a, derde lid, en 99, eerste lid, onderdeel c, en tweede lid, zijn van overeenkomstige toepassing.
 6. De in het derde lid bedoelde eisen en verplichtingen hebben in elk geval betrekking op de volgende onderwerpen:
 a. het bestuur en de organisatie van het verband;
 b. de juridische verhouding tussen het bestuur van het verband en de vervoerders en bestuurders van auto's die daar deel van uitmaken;

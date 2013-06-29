@@ -2,7 +2,7 @@
 ## Hoofdstuk I. Algemene bepalingen
 ### § 1. Definities
 ### § 2. Werkingssfeer
-### § 3. Vergunningen
+### § 3. Uitvoering verordening 1071/2009/EG en verordening 1073/2009/EG
 ### § 4. Algemene verplichtingen
 ### § 5. Taken van de Autoriteit Consument en Markt
 ## Hoofdstuk II. Concessies voor openbaar vervoer

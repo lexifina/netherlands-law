@@ -1,3 +1,7 @@
 # Artikel 5a
-1. De vervoerder die openbaar vervoer of besloten busvervoer verricht, alsmede de bestuurder van een bus of auto waarmee openbaar vervoer of besloten busvervoer wordt verricht, draagt er zorg voor dat in de bus of auto waarmee dat vervoer wordt verricht een geldig vergunningbewijs aanwezig is.
-2. Vergunningbewijzen kunnen op aanvraag door Onze Minister worden verstrekt aan de vergunninghouder.
+1. Onze Minister verklaart in afwijking van artikel 5, eerste lid, een vervoerder die niet voldoet aan onderdelen b of c van dat artikellid, toch als betrouwbaar, indien het verlies van de betrouwbaarheid een onevenredig strenge sanctie is.
+2. Onze Minister verklaart, in afwijking van artikel 5, tweede lid, een vervoersmanager, die niet voldoet aan onderdelen b, c of e van dat artikellid, toch als betrouwbaar, indien het verlies van de betrouwbaarheid een onevenredig strenge sanctie is.
+3. De bekendmaking van een beschikking inhoudende het verlies van de betrouwbaarheid van een vervoerder geschiedt in één geschrift met de bekendmaking van het daarmee samenhangende besluit tot schorsing of intrekking van de communautaire vergunning.
+4. De bekendmaking van een beschikking inhoudende het verlies van de betrouwbaarheid van een vervoersmanager geschiedt in één geschrift met de bekendmaking van het daarmee samenhangende besluit tot ongeschiktverklaring van de vervoersmanager.
+5. Bij of krachtens algemene maatregel van bestuur worden regels gegeven voor de toepassing van het eerste en tweede lid waarbij wordt aangegeven wanneer het verlies van betrouwbaarheid in ieder geval een onevenredig strenge sanctie is.
+6. De voordracht voor een algemene maatregel van bestuur als bedoeld in het vijfde lid wordt niet eerder gedaan dan vier weken nadat het ontwerp daarvoor aan beide kamers der Staten-Generaal is overgelegd.

@@ -1,0 +1,10 @@
+# Artikel 76b
+1. Een vergunning vervalt van rechtswege:
+a. zes maanden na het overlijden of het intreden van wettelijke onbekwaamheid van degene aan wie de vergunning is verleend;
+b. zodra de rechtspersoon waaraan de vergunning is verleend, heeft opgehouden te bestaan;
+c. zodra de overeenkomst van de vennootschap zonder rechtspersoonlijkheid of de maatschap waaraan de vergunning is verleend, is ontbonden, of
+d. zodra degene aan wie de vergunning is verleend, zijn activiteiten als vervoerder heeft beëindigd.
+2. Belanghebbenden kunnen binnen zes maanden na het overlijden of na het intreden van de wettelijke onbekwaamheid bij Onze Minister een aanvraag indienen om de vergunning te stellen op naam van de erfgenaam of, indien er meer erfgenamen zijn, op naam van de gezamenlijke erven, dan wel op naam van één of meer door de belanghebbenden aangewezen vertegenwoordigers.
+3. Onze Minister beslist binnen drie maanden op de aanvraag, bedoeld in het tweede lid. Indien Onze Minister de aanvraag inwilligt, geschiedt dat voor een periode van ten hoogste één jaar na het verstrijken van de in het eerste lid, onderdeel a, bedoelde periode.
+4. De in het derde lid bedoelde periode van één jaar kan door Onze Minister eenmaal met ten hoogste een half jaar worden verlengd.
+5. Het eerste lid vindt geen toepassing zolang Onze Minister nog niet onherroepelijk op de in het tweede lid bedoelde aanvraag heeft beslist.
