@@ -1,0 +1,2 @@
+# Artikel V
+Op een beperkingenbesluit als bedoeld in artikel 1, onderdeel b, onder 2°, van de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken, blijft de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken van toepassing zoals die vóór het tijdstip van inwerkingtreding van artikel II van deze wet luidde, voor zover de uit dat beperkingenbesluit voortvloeiende publiekrechtelijke beperking onmiddellijk voor dat tijdstip nog van kracht was.
