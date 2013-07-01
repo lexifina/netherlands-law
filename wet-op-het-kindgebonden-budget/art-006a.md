@@ -1,0 +1,2 @@
+# Artikel 6a. Overgangsbepaling aanspraak kindgebonden budget
+Artikel 2, eerste lid, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van artikel IV, onderdeel A, onder 1, van de Wet vereenvoudiging regelingen SVB, blijft van toepassing op een ouder voor het kind voor wie de ouder op de datum van die inwerkingtreding op grond van artikel 7a van de Algemene kinderbijslagwet geen recht op kinderbijslag heeft.
