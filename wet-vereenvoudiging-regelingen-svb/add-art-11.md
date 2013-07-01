@@ -1,0 +1,3 @@
+# Artikel XI. Inwerkingtreding
+1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+2. Bij het vaststellen van het in het eerste lid genoemde tijdstip van inwerkingtreding van artikel II wordt in acht genomen dat dat artikel voor personen die voor de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst recht hebben op een halfwezenuitkering niet eerder in werking treedt dan zes maanden na die datum van uitgifte.
