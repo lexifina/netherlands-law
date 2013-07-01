@@ -1,0 +1,3 @@
+# Artikel II
+1. Op de inrichting van de begroting, de begrotingswijzigingen, de meerjarenraming, de jaarrekening, het jaarverslag en de productenrealisatie van een openbaar lichaam of een gemeenschappelijk orgaan als bedoeld in artikel 8 van de Wet gemeenschappelijke regelingen is artikel I van dit besluit van toepassing met ingang van het begrotingsjaar 2015.
+2. Op de inrichting van de begroting, de begrotingswijzigingen, de meerjarenraming, de jaarrekening, het jaarverslag en de productenrealisatie van provincies en gemeenten is artikel I van dit besluit van toepassing met ingang van het begrotingsjaar 2014.
