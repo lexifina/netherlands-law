@@ -263,6 +263,7 @@
 ##### § 4.3.1.5. Verzekeringen
 ##### § 4.3.1.6. Premiepensioenvorderingen
 ##### § 4.3.1.7. Provisie
+##### § 4.3.1.8. Basisbankrekening
 #### Afdeling 4.3.3. Bemiddelen
 ##### § 4.3.3.2. Krediet
 ##### § 4.3.3.3. Verzekeringen
