@@ -26,7 +26,7 @@
 ### Afdeling 1. Vermindering van belasting (kleine ondernemers)
 ### Afdeling 2. Voldoening naar ontvangsten
 ### Afdeling 3. Landbouwregeling
-### Afdeling 4. Tabaksprodukten en accijnsgoederen, andere dan tabaksprodukten
+### Afdeling 4. Accijnsgoederen, andere dan tabaksproducten
 ### Afdeling 5. Regeling voor gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten
 ### Afdeling 6. Regeling voor beleggingsgoud
 ### Afdeling 7. Regeling voor niet in de Gemeenschap gevestigde ondernemers die elektronische diensten verrichten aan andere dan ondernemers
