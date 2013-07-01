@@ -7,4 +7,4 @@ b. werkzaamheden, waarbij de werkgever, bij wie de proefplaatsing geschiedt, een
 c. werkzaamheden, die de werknemer niet reeds eerder onbeloond op een proefplaats bij die werkgever of diens rechtsvoorganger heeft verricht; en
 d. werkzaamheden, waarbij er, naar het oordeel van het UWV, een reëel uitzicht is op een op de onbeloonde werkzaamheden aansluitende dienstbetrekking van dezelfde of grotere omvang voor ten minste 6 maanden.
 4. Indien de werkzaamheden, bedoeld in het eerste lid, wegens ziekte worden onderbroken, wordt de periode waarin een uitkering bij ziekte wordt ontvangen, voor de toepassing van dat lid buiten beschouwing gelaten.
-5. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de uitvoering van het eerste tot en met het vijfde lid.
+5. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de uitvoering van het eerste tot en met vierde lid.
