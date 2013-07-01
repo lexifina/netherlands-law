@@ -1,0 +1,4 @@
+# Artikel 552ggg
+1. Belanghebbenden kunnen zich schriftelijk beklagen over het uitvaardigen van het Europees bewijsverkrijgingsbevel. De artikelen 552a en 552d, eerste lid, zijn van overeenkomstige toepassing, met dien verstande dat het klaagschrift wordt ingediend bij de griffie van de rechtbank in het arrondissement, binnen hetwelk de officier van justitie of rechter-commissaris het bevel heeft uitgevaardigd.
+2. Indien de rechter het beklag gegrond acht, trekt de officier van justitie of rechter-commissaris het Europees bewijsverkrijgingsbevel onmiddellijk in en stelt deze de autoriteiten van de uitvoerende lidstaat hiervan onverwijld in kennis.
+3. Indien een belanghebbende zich beklaagt over de erkenning en tenuitvoerlegging van het Europees bewijsverkrijgingsbevel in de uitvoerende lidstaat, kan de officier van justitie of rechter-commissaris de autoriteiten van die lidstaat de nodige inlichtingen omtrent het bevel verschaffen.

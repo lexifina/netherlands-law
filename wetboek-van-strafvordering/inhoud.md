@@ -151,9 +151,13 @@
 ##### § 2. Overname van strafvervolging door Onze Minister van Justitie
 ##### § 2a. Overname van strafvervolging door de officier van justitie
 ##### § 2b. Overname van strafvervolging van een internationaal gerecht
-### Titel XI. Wederzijdse erkenning en tenuitvoerlegging van strafvorderlijke bevelen
-#### afdeling Eerste. Erkenning en tenuitvoerlegging van buitenlandse strafvorderlijke bevelen
-#### afdeling Tweede. Erkenning en tenuitvoerlegging van Nederlandse strafvorderlijke bevelen
+### Titel XI. Wederzijdse erkenning
+#### afdeling Eerste. Bevriezingsbevel
+##### § 1. Bevelen uitgevaardigd door een andere lidstaat van de Europese Unie
+##### § 2. Bevelen uitgevaardigd door Nederland
+#### afdeling Tweede. Europees bewijsverkrijgingsbevel
+##### § 1. Europees bewijsverkrijgingsbevel uitgevaardigd door een andere lidstaat van de Europese Unie
+##### § 2. Europees bewijsverkrijgingsbevel uitgevaardigd door Nederland
 ## Boek Vijfde. Tenuitvoerlegging en kosten
 ### Titel I. Tenuitvoerlegging
 #### afdeeling Eerste. Algemeene bepalingen
