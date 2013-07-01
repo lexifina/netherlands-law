@@ -1,0 +1,3 @@
+# Artikel 71a
+1. In afwijking van artikel 8:89, tweede lid, van de Algemene wet bestuursrecht is de bestuursrechter bij uitsluiting bevoegd tot behandeling van een verzoek als bedoeld in artikel 8:88, eerste lid, van die wet tot vergoeding van schade die een vreemdeling lijdt als gevolg van een onrechtmatig besluit ten aanzien van deze vreemdeling als zodanig.
+2. In afwijking van artikel 8:94, eerste lid, van de Algemene wet bestuursrecht is artikel 8:10a, eerste tot en met derde lid, van die wet niet van overeenkomstige toepassing indien het verzoek wordt behandeld door de Afdeling bestuursrechtspraak van de Raad van State.
