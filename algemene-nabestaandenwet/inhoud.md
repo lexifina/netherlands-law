@@ -5,15 +5,13 @@
 ### Afdeling I. Het recht op en de hoogte van de uitkering
 #### § 1. De nabestaandenuitkering
 #### § 2. De hoogte van de nabestaandenuitkering
-#### § 3. De halfwezenuitkering
-#### § 4. De hoogte van de halfwezenuitkering
 #### § 5. De wezenuitkering
 #### § 6. De hoogte van de wezenuitkering
-#### § 6a. Tegemoetkoming in aanvulling op de nabestaandenuitkering, de halfwezenuitkering en de wezenuitkering
+#### § 6a. Tegemoetkoming in aanvulling op de nabestaandenuitkering en de wezenuitkering
 #### § 7. De vakantie-uitkering
 #### § 8. De hoogte van de vakantie-uitkering
-#### § 9. Geen recht op nabestaandenuitkering, halfwezenuitkering en wezenuitkering buiten Nederland
-#### § 10. Geen recht op nabestaandenuitkering, halfwezenuitkering en wezenuitkering tijdens vrijheidsontneming en onttrekking aan vrijheidsontneming
+#### § 9. Geen recht op nabestaandenuitkering en wezenuitkering buiten Nederland
+#### § 10. Geen recht op nabestaandenuitkering en wezenuitkering tijdens vrijheidsontneming en onttrekking aan vrijheidsontneming
 ### Afdeling II. Het geldend maken van het recht op uitkering
 ### Afdeling III. De betaling van de uitkering
 ## Hoofdstuk 4. De invloed van de verzekering op het burgerlijk recht
