@@ -1,2 +1,2 @@
 # Artikel 21a. Premieplicht WIA tijdens levensloopverlof
-Voor de toepassing van dit hoofdstuk wordt in afwijking in zoverre van artikel 8, derde lid, van de Wet werk en inkomen naar arbeidsvermogen mede als werknemer in de zin van de Wet werk en inkomen beschouwd degene die levensloopverlof geniet in het kader van de toepassing van de levensloopregeling, bedoeld in artikel 19g van de Wet op de loonbelasting 1964.
+Voor de toepassing van dit hoofdstuk wordt in afwijking in zoverre van artikel 8, derde lid, van de Wet werk en inkomen naar arbeidsvermogen mede als werknemer in de zin van de Wet werk en inkomen beschouwd degene die levensloopverlof geniet in het kader van de toepassing van de levensloopregeling, bedoeld in artikel 39d van de Wet op de loonbelasting 1964.

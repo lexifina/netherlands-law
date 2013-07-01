@@ -1,5 +1,5 @@
 # Artikel 82a. Innovatie
-1. Bij algemene maatregel van bestuur kan bij wijze van experiment, met het oog op het onderzoeken van mogelijkheden om deze wet, de Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen, de Wet inkomensvoorziening oudere werklozen, de Werkloosheidswet, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Wet werk en arbeidsondersteuning jonggehandicapten en de Toeslagenwet doeltreffender uit te voeren, worden afgeweken van het bepaalde bij of krachtens:
+1. Bij algemene maatregel van bestuur kan bij wijze van experiment, met het oog op het onderzoeken van mogelijkheden om deze wet, de Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen, de Wet inkomensvoorziening oudere werklozen, de Werkloosheidswet, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Wet werk en arbeidsondersteuning jonggehandicapten, de Ziektewet en de Toeslagenwet doeltreffender uit te voeren, worden afgeweken van het bepaalde bij of krachtens:
 a. de artikelen 9, 10, 30 en 30a van deze wet;
 b. de artikelen 7, 8, 9, 10 en 55 van de Wet werk en bijstand;
 c. de artikelen 34 tot en met 37 van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers;
@@ -9,10 +9,11 @@ f. paragraaf 4.2 en artikel 39 van de Wet werk en inkomen naar arbeidsvermogen;
 g. hoofdstuk IIB van de Wet op de arbeidsongeschiktheidsverzekering;
 h. afdeling 5 van hoofdstuk 2, afdeling 5 van hoofdstuk 3 en hoofdstuk 5 van de Wet werk en arbeidsondersteuning jonggehandicapten;
 i. hoofdstuk 7 van de Wet financiering sociale verzekeringen;
-j. artikel 13 en de artikelen 19 tot en met 21 van de Wet inkomensvoorziening oudere werklozen.
+j. artikel 13 en de artikelen 19 tot en met 21 van de Wet inkomensvoorziening oudere werklozen;
+k. de artikelen 29b en 29d en hoofdstuk IIA van de Tweede Afdeling van de Ziektewet.
 2. Bij een algemene maatregel van bestuur als bedoeld in het eerste lid wordt geregeld op welke wijze van welke artikelen wordt afgeweken en kunnen alleen regels worden gesteld:
 a. ter verbetering van de samenwerking tussen de uitvoeringsorganisaties van de in het eerste lid genoemde wetten;
-b. met betrekking tot de inzet van re-integratie-instrumenten en de financiering daarvan;
+b. met betrekking tot de inzet van re-integratie-instrumenten, de financiering daarvan en de verantwoordelijkheidsverdeling tussen werkgevers en de bij onderdeel a bedoelde uitvoeringsorganisaties;
 c. over de verantwoording van de uitgaven ten laste van de fondsen, de uitkeringen, bedoeld in artikel 69 van de Wet werk en bijstand, en rijksbijdragen;
 d. het verstrekken van inlichtingen over de resultaten van de experimenten.
 3. Een algemene maatregel van bestuur als bedoeld in het eerste lid vervalt vijf jaar na de inwerkingtreding, tenzij:
