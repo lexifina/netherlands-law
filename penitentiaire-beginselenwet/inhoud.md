@@ -14,6 +14,7 @@
 ## Hoofdstuk VII. Contact met de buitenwereld
 ## Hoofdstuk VIII. Verzorging, arbeid en andere activiteiten
 ### Paragraaf 1. Verzorging
+### Paragraaf 1a. Verblijf in een bijzondere afdeling in verband met de geestelijke gezondheidstoestand
 ### Paragraaf 2. Arbeid en andere activiteiten
 ## Hoofdstuk IX. Disciplinaire straffen
 ## Hoofdstuk X. Informatie, hoor- en mededelingsplicht en dossier
