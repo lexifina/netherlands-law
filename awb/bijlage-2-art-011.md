@@ -24,7 +24,9 @@ c. alsmede, voor zover het betreft een besluit van de Autoriteit Consument en Ma
 2. de hoofdstukken 6A, 6B, en 12
 3. hoofdstuk 15, met uitzondering van een besluit op grond van de artikelen 15.2a en 15.4
 Warenwet
+Wet aanwijzing nationale accreditatie-instantie: hoofdstuk 3
 Wet bekostiging financieel toezicht
+Wet bestuurlijke boete meldingsplichten door ministers verstrekte subsidies, voor zover de boete is opgelegd ter zake van het niet voldoen aan een bijzondere meldingsplicht die is verbonden aan een krachtens de Kaderwet EZ-subsidies verstrekte subsidie
 Wet dieren: artikel 8.7
 Wet financiële betrekkingen buitenland 1994
 Wet geneesmiddelenprijzen: artikel 11
@@ -46,6 +48,7 @@ Wet ter voorkoming van witwassen en financieren van terrorisme
 Wet toezicht accountantsorganisaties
 Wet toezicht financiële verslaggeving
 Wet toezicht trustkantoren
-Wet van ... tot wijziging van de Elektriciteitswet 1998 en van de Gaswet (implementatie van richtlijnen en verordeningen op het gebied van elektriciteit en gas) (Stb. ..., ...): artikel XX
+Wet van 12 juli 2012 tot wijziging van de Elektriciteitswet 1998 en van de Gaswet (implementatie van richtlijnen en verordeningen op het gebied van elektriciteit en gas) (Stb. 2012, 334): artikel XX
+Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen: een besluit genomen door een van de in artikel 30, eerste lid, genoemde bestuursorganen, waarin toepassing of mede toepassing is gegeven aan artikel 26
 Wet verplichte beroepspensioenregeling
 Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000

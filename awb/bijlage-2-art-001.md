@@ -1,5 +1,11 @@
 # Artikel 1. Geen beroep
-Tegen een besluit, genomen op grond van een in dit artikel genoemd voorschrift, kan geen beroep worden ingesteld.
+Tegen een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan geen beroep worden ingesteld.
+Ambtenarenwet:
+a. artikel 126, eerste lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
+b. artikel 126, tweede lid, betreffende de toepassing van hoofdstuk XVIII van de Provinciewet, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging en voor zover het betreft de weigering om een voordracht tot vernietiging te doen
+Archiefwet 1995:
+a. artikel 38, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep niet wordt ingesteld door gedeputeerde staten
+b. artikel 38, betreffende de toepassing van hoofdstuk XVII van de Gemeentewet, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging en voor zover het betreft de weigering om een voordracht tot vernietiging te doen
 Buitengewoon Besluit Arbeidsverhoudingen 1945: artikel 6
 Burgerlijk Wetboek, voor zover de aanvraag is toegewezen:
 a. Boek 1:
@@ -15,16 +21,18 @@ a. artikel 49
 b. artikel 124, voor zover het beroep niet wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester
 c. artikel 124a, voor zover het beroep niet wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
 d. de artikelen 169, derde lid, 180, derde lid, en 234, tweede lid, onderdeel a
-e. artikel 273, voor zover het betreft de weigering om een besluit te nemen en het niet tijdig nemen van een besluit
+e. artikel 268, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging
+f. artikel 278, voor zover het betreft de weigering om een voordracht tot vernietiging te doen
+g. de artikelen 278a, vierde lid, en 281, tweede lid, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep niet wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep niet wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
 Geneesmiddelenwet: artikel 17
 Gerechtsdeurwaarderswet: artikel 3a, tweede lid
-Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën: de artikelen 20, 21, 22, 72, eerste lid, 75, en 101, derde lid, voor zover die wet nog van toepassing is op grond van artikel VIII, eerste lid, van de Wet van 12 november 2009 tot aanpassing van LNV-wetgeving in verband met de Kaderwet zelfstandige bestuursorganen (Stb. 2009, 550)
+Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën: de artikelen 20, 21, 22, 72, eerste lid, 75, en 101, derde lid
 Invorderingswet 1990, met uitzondering van de artikelen 30, 49 en 62a
 Kostenwet invordering rijksbelastingen, met uitzondering van artikel 7
 Leegstandwet:
 a. artikel 15, eerste lid, voor zover het betreft een weigering van de vergunning
-b. artikel 15, vijfde lid, voor zover het betreft een afwijzing van het verzoek tot verlenging
-c. artikel 16, negende lid, eerste volzin
+b. artikel 15, zesde lid, voor zover het betreft een afwijzing van het verzoek tot verlenging
+c. artikel 16, tiende lid, eerste volzin, en elfde lid, eerste volzin
 Mededingingswet:
 a. artikel 49a, eerste lid, voor zover de aanvraag is afgewezen
 b. artikel 49c, tweede lid, voor zover de intrekking of wijziging geschiedt op de gronden, bedoeld in het eerste lid, onderdelen b of c, van dat artikel
@@ -37,24 +45,34 @@ Provinciewet:
 a. artikel 49
 b. artikel 121, voor zover het beroep niet wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
 c. de artikelen 167, derde lid, en 179, derde lid
-d. artikel 261, voor zover het betreft de weigering om een besluit te nemen en het niet tijdig nemen van een besluit
-Reconstructiewet Midden-Delfland: de artikelen 36, eerste lid, 37, 44, eerste lid, 45 en 70, voor zover die wet nog van toepassing is op grond van artikel VIII, tweede lid, van de Wet van 12 november 2009 tot aanpassing van LNV-wetgeving in verband met de Kaderwet zelfstandige bestuursorganen (Stb. 2009, 550)
+d. [vervallen]
+e. artikel 261, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging
+f. artikel 271, voor zover het betreft de weigering om een voordracht tot vernietiging te doen
+g. de artikelen 271a, vierde lid, en 274, tweede lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep niet wordt ingesteld door provinciale staten, gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
+Reconstructiewet Midden-Delfland: de artikelen 36, eerste lid, 37, 44, eerste lid, 45 en 70
+Richtlijn 2008/50/EG van het Europees Parlement en de Raad van 21 mei 2008 betreffende de luchtkwaliteit en schonere lucht voor Europa (PbEU 2008, L 152): een kennisgeving als bedoeld in artikel 22, vierde lid
 Rijkswet Onderzoeksraad voor veiligheid, met uitzondering van beslissingen ten aanzien van de algemeen secretaris en de medewerkers van het bureau
 Telecommunicatiewet: de artikelen 3.5, 3.22 en 18.9, eerste en tweede lid
 Tijdelijke experimentenwet stembiljetten en centrale stemopneming: artikel 2
 Tracéwet: de artikelen 2, eerste lid, 4, eerste lid, onderdeel c, en 23, eerste lid
 Uitleveringswet
 Waterschapswet: artikel 156, eerste lid, voor zover het betreft de weigering om een vernietiging te bevorderen en het niet tijdig nemen van een besluit tot vernietiging
+Waterwet: artikel 3.13, derde lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
 Waterwet: de artikelen 4.1, 4.4 en 6.28
 Wegenverkeerswet 1994: de artikelen 132c, vijfde lid, en 132d, tweede lid
 Wet administratiefrechtelijke handhaving verkeersvoorschriften
 Wet algemene bepalingen omgevingsrecht:
 a. de artikelen 2.27, eerste lid, en 2.34, eerste lid, met uitzondering van beroep dat wordt ingesteld door het gezag dat bevoegd is ten aanzien van de beschikking waarop de verklaring, onderscheidenlijk de aanwijzing betrekking heeft
-b. artikel 5.8, eerste lid, laatste volzin
+b. artikel 5.2a, eerste lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
+c. artikel 5.2a, tweede lid, betreffende de toepassing van artikel 124 van de Gemeentewet, voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap, en betreffende de toepassing van artikel 124a van de Gemeentewet, voor zover het beroep niet wordt ingesteld door gedeputeerde staten
+d. artikel 5.2a, derde lid, betreffende de toepassing van hoofdstuk XVIII van de Provinciewet, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging en voor zover het betreft de weigering om een voordracht tot vernietiging te doen
+e. artikel 5.2a, vierde lid, betreffende de toepassing van hoofdstuk XVII van de Gemeentewet, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging en voor zover het betreft de weigering om een voordracht tot vernietiging te doen
+f. artikel 5.8, eerste lid, laatste volzin
 Wet bekostiging financieel toezicht: de artikelen 2, 5, 6 en 13, derde lid
 Wet bijzondere opneming in psychiatrische ziekenhuizen
 Wet bodembescherming: artikel 43, voor zover het betreft de afwijzing van een verzoek
 Wet College voor de rechten van de mens, met uitzondering van de artikelen 14 tot en met 18
+Wet gemeenschappelijke regelingen: artikel 116, eerste lid, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep niet wordt ingesteld door het bestuur van de plusregio, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep niet wordt ingesteld door gedeputeerde staten
 Wet geurhinder en veehouderij: artikel 7
 Wet gewasbeschermingsmiddelen en biociden: artikel 108
 Wet investeren in jongeren: de artikelen 37, 57 en 91, voor zover het besluiten betreft van de voorzitter van gedeputeerde staten
@@ -64,9 +82,9 @@ b. de artikelen 8.70, eerste lid, en 10.15, eerste lid, voor zover het betreft d
 c. artikel 10.27, eerste lid, voor zover het betreft een vergunning voor burgermedegebruik door tussenkomst van een burgerexploitant voor de luchthaven Eindhoven.
 Wet melding collectief ontslag
 Wet milieubeheer:
-a. de artikelen 4.3, 4.6, 4.9, 4.12, 4.15a, 4.16, 4.19, 5.12, eerste lid, 5.12, dertiende lid, 5.13, eerste lid, 5.23, eerste lid, 10.3, 11A.2, derde lid, onderdelen b en c, 11.5, 11.18
+a. de artikelen 4.3, 4.6, 4.9, 4.12, 4.15a, 4.16, 4.19, 5.12, eerste lid, 5.12, dertiende lid, 5.13, eerste lid, 10.3, 11A.2, derde lid, onderdelen b en c, 11.5, 11.18 en 15.51, derde lid
 b. artikel 16.24, eerste lid, met uitzondering van een besluit houdende toewijzing van broeikasgasemissierechten voor een afzonderlijke inrichting
-c. artikel 17.5, eerste lid
+c. artikel 17.15, tweede lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
 Wet Naleving Europese regelgeving publieke entiteiten:
 a. artikel 2, eerste lid, voor zover het betreft de weigering om een aanwijzing te geven
 b. artikel 3, voor zover het betreft de weigering om een aanwijzing te geven

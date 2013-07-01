@@ -11,7 +11,7 @@ Toeslagregeling pensioenen Suriname en Nederlandse Antillen
 Toeslagwet Indonesische pensioenen 1956
 Uitkeringswet gewezen militairen
 Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen
-Vreemdelingenwet 2000, met uitzondering van de artikelen 43 en 45, vierde lid, en met dien verstande dat de rechtbank Den Haag beroepen tegen besluiten als bedoeld in artikel 71 van die wet kan behandelen in alle zittingsplaatsen van alle rechtbanken, bedoeld in artikel 21b, eerste en tweede lid, van de Wet op de rechterlijke organisatie
+Vreemdelingenwet 2000, met uitzondering van de artikelen 43 en 45, vierde lid, en met dien verstande dat de rechtbank Den Haag het beroep kan behandelen in alle zittingsplaatsen van alle rechtbanken, bedoeld in artikel 21b, eerste en tweede lid, van de Wet op de rechterlijke organisatie
 Wet arbeid vreemdelingen, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete, en met dien verstande dat de rechtbank Den Haag beroepen tegen besluiten als bedoeld in die wet kan behandelen in alle zittingsplaatsen van alle rechtbanken, bedoeld in artikel 21b, eerste en tweede lid, van de Wet op de rechterlijke organisatie
 Wet arbeidsongeschiktheidsvoorziening militairen
 Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukten, voor zover het betreft een besluit van het bureau, bedoeld in artikel 1, omtrent de inschrijving van een depot op grond van die wet

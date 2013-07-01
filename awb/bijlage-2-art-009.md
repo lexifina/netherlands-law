@@ -5,9 +5,9 @@ Algemene nabestaandenwet
 Algemene Ouderdomswet
 Algemene Wet Bijzondere Ziektekosten,met uitzondering van een besluit van Onze Minister van Volksgezondheid, Welzijn en Sport of van het College zorgverzekeringen
 Besluit administratieve bepalingen inzake het wegverkeer: hoofdstuk IV
-Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair onderwijs, voor zover het betreft een besluit van Onze Minister van Onderwijs, Cultuur en Wetenschap, dan wel Onze Minister van Economische Zaken, Landbouw en Innovatie
-Besluit Werkloosheid onderwijs- en onderzoekpersoneel, voor zover het betreft een besluit van Onze Minister van Onderwijs, Cultuur en Wetenschap, dan wel Onze Minister van Economische Zaken, Landbouw en Innovatie
-Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair onderwijs, voor zover het besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap, dan wel Onze Minister van Economische Zaken, Landbouw en Innovatie
+Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair onderwijs, voor zover het betreft een besluit van Onze Minister van Onderwijs, Cultuur en Wetenschap, dan wel Onze Minister van Economische Zaken
+Besluit Werkloosheid onderwijs- en onderzoekpersoneel, voor zover het betreft een besluit van Onze Minister van Onderwijs, Cultuur en Wetenschap, dan wel Onze Minister van Economische Zaken
+Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair onderwijs, voor zover het betreft een besluit van Onze Minister van Onderwijs, Cultuur en Wetenschap, dan wel Onze Minister van Economische Zaken
 Kaderwet SZW-subsidies, voor zover het betreft een ministeriële regeling op grond van artikel 9
 Liquidatiewet Ongevallenwetten,met uitzondering van artikel 24, eerste lid
 Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria
@@ -27,6 +27,7 @@ Wet milieubeheer: artikel 15.50
 Wet op de arbeidsongeschiktheidsverzekering
 Wet overheidspersoneel onder de werknemersverzekeringen
 Wet overige OCW-subsidies: artikel 19a
+Wet participatiebudget
 Wet sociale werkvoorziening
 Wet structuur uitvoeringsorganisatie werk en inkomen
 Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen

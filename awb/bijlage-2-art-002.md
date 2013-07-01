@@ -1,16 +1,22 @@
 # Artikel 2. Beroep bij de Afdeling bestuursrechtspraak van de Raad van State
 Tegen een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.
 Algemene wet bestuursrecht: artikel 5:32, voor zover het besluit betrekking heeft op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, van de Wet milieubeheer bedoelde wetten of wettelijke bepalingen dan wel de Ontgrondingenwet
-Algemene wet bijzondere ziektekosten, voor zover het betreft een besluit van Onze Minister van Volksgezondheid, Welzijn en Sport of van het College zorgverzekeringen
-Belemmeringenwet Privaatrecht: de artikelen 2, vijfde lid, en 3, tweede lid, voor zover de verplichting noodzakelijk is voor de uitvoering van werken als bedoeld in artikel 2.3, tweede lid, onderdelen b en c, van de Crisis- en herstelwet of voor de uitvoering van een of meer besluiten als bedoeld in:
+Algemene Wet Bijzondere Ziektekosten, voor zover het betreft een besluit van Onze Minister van Volksgezondheid, Welzijn en Sport of van het College zorgverzekeringen
+Ambtenarenwet:
+a. artikel 126, eerste lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
+b. artikel 126, tweede lid, betreffende de toepassing van hoofdstuk XVIII van de Provinciewet
+Archiefwet 1995: artikel 38, betreffende de toepassing van:
+a. artikel 124 van de Gemeentewet, voor zover het beroep wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap;
+b. artikel 124a van de Gemeentewet, voor zover het beroep wordt ingesteld door gedeputeerde staten, en
+c. hoofdstuk XVII van de Gemeentewet
+Belemmeringenwet Privaatrecht: de artikelen 2, vijfde lid, en 3, tweede lid, voor zover de verplichting noodzakelijk is voor de uitvoering van werken als bedoeld in artikel 2.3, tweede lid, onderdelen a en b, van de Crisis- en herstelwet of voor de uitvoering van een of meer besluiten als bedoeld in:
 a. artikel 3, eerste lid, van de Wet bereikbaarheid en mobiliteit
 b. artikel 21, tweede lid, van de Tracéwet
 c. de artikelen 3.30, eerste lid, onder a, 3.33, eerste lid, onder a, en 3.35, eerste lid, onder b, van de Wet ruimtelijke ordening
 d. artikel 15, tweede lid, van de Spoedwet wegverbreding: de verlegging van kabels en leidingen, verband houdende met de uitvoering van een wegaanpassingsbesluit
 Crisis- en herstelwet:
-a. artikel 2.3, voor zover het betreft een besluit tot vaststelling van een gebiedsontwikkelingsplan
+a. artikel 2.3, voor zover het betreft een besluit tot vaststelling van een bestemmingsplan
 b. artikel 2.10, eerste lid
-Dienstenwet: een aanwijzing op grond van artikel 59a of een besluit op grond van artikel 59c
 Experimentenwet onderwijs
 Flora- en faunawet: artikel 75a, eerste lid, voor zover de ontheffing is verleend
 Gemeentewet:
@@ -20,7 +26,8 @@ c. artikel 124, voor zover het beroep wordt ingesteld door de raad, het college 
 d. artikel 124a, voor zover het beroep wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
 e. artikel 125, voor zover het besluit betrekking heeft op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, van de Wet milieubeheer, bedoelde wetten of wettelijke bepalingen dan wel de Ontgrondingenwet
 f. artikel 268, eerste lid
-Herinrichtingswet Oost-Groningen en de Gronings-Drentse veenkoloniën: de artikelen 13, eerste lid, en 74, eerste, tweede, derde en vijfde lid, voor zover die wet nog van toepassing is op grond van artikel VIII, eerste lid, van de Wet van 12 november 2009 tot aanpassing van LNV-wetgeving in verband met de Kaderwet zelfstandige bestuursorganen (Stb. 2009, 550)
+g. de artikelen 278a, vierde lid, en 281, tweede lid, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
+Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën: de artikelen 13, eerste lid, en 74, eerste, tweede, derde en vijfde lid
 Huisvestingswet: artikel 40, eerste lid
 Interimwet stad-en-milieubenadering:
 a. de artikelen 2 en 3
@@ -41,8 +48,9 @@ a. artikel 83, tweede lid
 b. artikel 121, voor zover het beroep wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
 c. artikel 122, voor zover het besluit betrekking heeft op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, van de Wet milieubeheer, bedoelde wetten of wettelijke bepalingen dan wel de Ontgrondingenwet
 d. artikel 261, eerste lid
+e. de artikelen 271a, vierde lid, en 274, tweede lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep wordt ingesteld door provinciale staten, gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
 Reconstructiewet concentratiegebieden, voor zover het betreft een besluit tot vaststelling, wijziging of uitwerking van het reconstructieplan, alsmede een besluit dat is genomen met toepassing van de artikelen 40 tot en met 43
-Reconstructiewet Midden-Delfland: artikel 72, eerste tot en met derde lid, voor zover die wet nog van toepassing is op grond van artikel VIII, tweede lid, van de Wet van 12 november 2009 tot aanpassing van LNV-wetgeving in verband met de Kaderwet zelfstandige bestuursorganen (Stb. 2009, 550)
+Reconstructiewet Midden-Delfland: artikel 72, eerste tot en met derde lid
 Spoedwet wegverbreding
 Tijdelijke experimentenwet stembiljetten en centrale stemopneming: artikelen 4
 Tijdelijke wet aanwijzing bèta-opleidingen: artikel 2, eerste lid
@@ -55,11 +63,19 @@ voor zover het besluiten betreft van de Nederlandse emissieautoriteit, genoemd i
 Vreemdelingenwet 2000: de artikelen 43 en 45, vierde lid
 Waterschapswet:
 a. een besluit van Onze Minister van Infrastructuur en Milieu inzake de goedkeuring van een besluit als bedoeld in artikel 5
-b. artikel 61, voor zover het besluit betrekking heeft op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, van de Wet milieubeheer, bedoelde wetten of wettelijke bepalingen dan wel de Ontgrondingenwet
-c. artikel 156, eerste lid
+b. artikel 21, eerste lid
+c. artikel 61, voor zover het besluit betrekking heeft op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, van de Wet milieubeheer, bedoelde wetten of wettelijke bepalingen dan wel de Ontgrondingenwet
+d. artikel 156, eerste lid
 Waterwet:
-a. de artikelen 5.7, eerste lid, en 5.8, eerste lid
-b. een besluit dat met toepassing van artikel 6.27, tweede lid, gecoördineerd is voorbereid met een besluit krachtens de Kernenergiewet
+a. artikel 3.13, derde lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
+b. de artikelen 5.7, eerste lid, en 5.8, eerste lid
+c. een besluit dat met toepassing van artikel 6.27, tweede lid, gecoördineerd is voorbereid met een besluit krachtens de Kernenergiewet
+Wet aanvullende regels veiligheid wegtunnels: artikel 8, eerste lid, voor zover het een vergunning betreft voor een tunnel die deel uitmaakt van een tracébesluit als bedoeld in artikel 9 van de Tracéwet
+Wet algemene bepalingen omgevingsrecht:
+a. artikel 5.2a, eerste lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
+b. artikel 5.2a, tweede lid, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep wordt ingesteld door gedeputeerde staten
+c. artikel 5.2a, derde lid, betreffende de toepassing van hoofdstuk XVIII van de Provinciewet
+d. artikel 5.2a, vierde lid, betreffende de toepassing van hoofdstuk XVII van de Gemeentewet
 Wet ammoniak en veehouderij:
 a. artikel 2, eerste lid
 b. een besluit tot wijziging van een besluit als bedoeld in artikel 2, eerste lid
@@ -73,7 +89,9 @@ b. artikel 2.5.10, voor zover het de overeenkomstige toepassing betreft van arti
 c. de artikelen 6.1.3 tot en met 6.1.6, 6.2.1 tot en met 6.2.3, 6.2.3b, 6.3.1 tot en met 6.3.3, 6.4.2, 6.4.4, 6a.1.2, 6a.1.3 en 11.1
 Wet financiering sociale verzekeringen: artikel 91
 Wet geluidhinder
-Wet gemeenschappelijke regelingen: de artikelen 99, eerste lid, 100, eerste lid, 102, vierde lid, 103, eerste lid, 103b, 103c, eerste lid, 114, 116, eerste lid, en 117, tweede lid
+Wet gemeenschappelijke regelingen:
+a. de artikelen 99, eerste lid, 100, eerste lid, 103b, 103c, eerste lid, en 114
+b. artikel 116, eerste lid, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep wordt ingesteld door het bestuur van de plusregio, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep wordt ingesteld door gedeputeerde staten
 Wet gewetensbezwaren militaire dienst:
 a. hoofdstuk II, met uitzondering van artikel 4, tweede lid
 b. de artikelen 15 en 16
@@ -84,11 +102,12 @@ c. de toewijzing van eigendom, beheer en onderhoud van voorzieningen van openbaa
 d. de aanduiding van wegen met de daartoe behorende kunstwerken, bedoeld in artikel 33, eerste lid
 e. de opname van wegen met de daartoe behorende kunstwerken als openbare weg, bedoeld in artikel 33, tweede lid
 Wet inzake de luchtverontreiniging
-Wet luchtvaart: de artikelen 8.25, tweede lid, 8.25b, 8.25c, 8.43, eerste lid, 8.64, eerste lid, 8.70, eerste en zesde lid, 8.77, eerste lid, 8a.50a, 10.15, eerste lid, en 10.39, ook voor zover het besluit kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in artikel 8:3, eerste lid, van de Algemene wet bestuursrecht, maar met uitzondering van een besluit op grond van de artikelen 8.70, eerste lid, en 10.15, eerste lid, voor zover het betreft de luchthavens Lelystad, Rotterdam en Eindhoven.
+Wet luchtvaart: de artikelen 8.25, tweede lid, 8.25b, 8.25c, 8.43, eerste lid, 8.64, eerste lid, 8.70, eerste en zesde lid, 8.77, eerste lid, 8a.50a, 8a.54, 10.15, eerste lid, en 10.39, ook voor zover het besluit kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in artikel 8:3, eerste lid, van de Algemene wet bestuursrecht, maar met uitzondering van een besluit op grond van de artikelen 8.70, eerste lid, en 10.15, eerste lid, voor zover het betreft de luchthavens Lelystad, Rotterdam en Eindhoven.
 Wet milieubeheer, met inbegrip van een besluit dat betrekking heeft op handhaving, doch met uitzondering van:
 a. de artikelen 1.3, eerste lid, 8.40a en 8.42
 b. een besluit dat betrekking heeft op de handhaving van het bepaalde krachtens artikel 8.40
 c. artikel 15.50
+d. artikel 17.15, tweede lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
 Wet Naleving Europese regelgeving publieke entiteiten: de artikelen 2, eerste lid, 3 en 5
 Wet op de expertisecentra:
 a. titel IV: de afdelingen 2 en 8, een goedkeuring van rechtswege daaronder begrepen
@@ -112,6 +131,7 @@ e. de artikelen 3.30, eerste lid, onder a of b, 3.33, eerste lid, onder a of b, 
 f. de artikelen 4.2, eerste lid, en 4.4, eerste lid, voor zover het besluit betrekking heeft op een daarbij concreet aangegeven locatie waarvan geen afwijking mogelijk is
 g. de artikelen 6.8, eerste lid, en 6.9
 h. een besluit omtrent vaststelling van een exploitatieplan voor gronden, begrepen in een gelijktijdig bekendgemaakt bestemmingsplan, inpassingsplan of wijzigingsplan als bedoeld in artikel 3.6, eerste lid, alsmede herzieningen van het desbetreffende exploitatieplan en besluiten omtrent de afrekening en herberekende exploitatiebijdragen van het desbetreffende exploitatieplan
+i. een ontheffing als bedoeld in artikel 4.1a of 4.3a, voor zover die ontheffing betrekking heeft op een bestemmingsplan of een provinciaal inpassingsplan
 Wet toelating zorginstellingen
 Woningwet: artikel 70, voor zover het betreft de intrekking van een toelating
 Zorgverzekeringswet: voor zover het betreft een besluit van Onze Minister van Volksgezondheid, Welzijn en Sport of van het College zorgverzekeringen, met uitzondering van:

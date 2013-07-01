@@ -5,6 +5,7 @@ a. een besluit op grond van de Wet openbaarheid van bestuur
 b. een besluit ten aanzien van een ambtenaar als bedoeld in artikel 1 van de Ambtenarenwet als zodanig, zijn nagelaten betrekkingen of zijn rechtverkrijgenden
 Algemene douanewet: een beschikking ter zake van landbouwrestituties
 Algemene wet bestuursrecht: artikel 5:32, voor zover het betreft een besluit dat betrekking heeft op de handhaving van het bepaalde bij of krachtens de Winkeltijdenwet
+Bankwet 1998: artikel 12, vierde lid, voor zover het een schorsing of ontheffing van een directeur betreft
 Boswet: afdeling II
 Burgerlijk Wetboek, Boek 2, voor zover het besluit is bekendgemaakt voor 1 juli 2011:
 a. artikel 64, derde lid, tweede volzin, voor zover het betreft een weigering om de in de eerste volzin bedoelde termijn te verlengen
@@ -34,7 +35,6 @@ Noodwet voedselvoorziening: de artikelen 6 tot en met 10 en 29, behoudens in gev
 Plantenziektenwet
 Prijzennoodwet
 Prijzenwet
-Sanctiewet 1977: artikel 9, derde lid
 Telecommunicatiewet, voor zover het betreft een besluit van de Autoriteit Consument en Markt, genomen op grond van:
 a. hoofdstuk 6, tenzij beroep kon worden ingesteld voor de inwerkingtreding van de Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002
 b. de hoofdstukken 6A, 6B en 12
@@ -53,7 +53,7 @@ Wet dieren, met uitzondering van een besluit op grond van artikel 8.7
 Wet geneesmiddelenprijzen, met uitzondering van artikel 11 en met inbegrip van een besluit tot vaststelling van een maximumprijs
 Wet gewasbeschermingsmiddelen en biociden, met uitzondering van de artikelen 90 en 108
 Wet implementatie EU-richtlijnen energie-efficiëntie, met uitzondering van de artikelen 21 en 22
-Wet inkomstenbelasting 2001: de artikelen 3.37, eerste lid, en 3.42, eerste lid, voor zover het betreft een verklaring van Onze Minister van Economische Zaken, Landbouw en Innovatie en artikel 3.52a voor zover het betreft een RDA-beschikking of correctie-RDA-beschikking
+Wet inkomstenbelasting 2001: de artikelen 3.37, eerste lid, en 3.42, eerste lid, voor zover het betreft een verklaring van Onze Minister van Economische Zaken en artikel 3.52a voor zover het betreft een RDA-beschikking of correctie-RDA-beschikking
 Wet luchtvaart: artikel 8.25f, tweede lid
 Wet marktordening gezondheidszorg, met uitzondering van beschikkingen van de Nederlandse Zorgautoriteit als bedoeld in paragraaf 4 van hoofdstuk 6
 Wet medewerking verdedigingsvoorbereiding
@@ -61,18 +61,18 @@ Wet nationaliteit zeeschepen in rompbevrachting
 Wet op de architectentitel, met inbegrip van een besluit inzake een aanwijzing als bedoeld in de artikelen 9, eerste lid, onderdeel j, 10, eerste lid, onderdeel f, 11, eerste lid, onderdeel f, en 12, eerste lid, onderdeel f, dat kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in artikel 8:3, eerste lid, van de Algemene wet bestuursrecht, tenzij het betreft een besluit als bedoeld in artikel 8:4, derde lid, onderdeel b, van de Algemene wet bestuursrecht
 Wet op het accountantsberoep
 Wet op het financieel toezicht:
-a. hoofdstuk 5.1 en de artikelen 5:77, eerste lid, en 5:81, derde lid
+a. artikel 1:26, eerste en tweede lid, hoofdstuk 5.1 en de artikelen 5:77, eerste lid, en 5:81, derde lid
 b. een besluit terzake van het ingevolge artikel 5:76, tweede lid, of 5:80b, vijfde lid, bepaalde, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in artikel 1:80
 Wet personenvervoer 2000, met uitzondering van de artikelen 56, eerste lid, 59, eerste lid, 94, eerste lid, en 96, eerste lid
 Wet privatisering FVP
 Wet uitvoering Internationaal Energieprogramma
 Wet verbod pelsdierhouderij
 Wet van 22 juni 1994 tot wijziging van het Burgerlijk Wetboek, het Wetboek van Burgerlijke Rechtsvordering, het Wetboek van Koophandel en de Wet nationaliteit zeeschepen in rompbevrachting (wijziging voorwaarden nationaliteitsverlening en registratie zeeschepen) (Stb. 1994, 507): een verklaring als bedoeld in artikel V, eerste lid
-Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen: een besluit genomen door een van de in artikel 30, eerste lid, genoemde bestuursorganen
+Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen: een besluit genomen door een van de in artikel 30, eerste lid, genoemde bestuursorganen, tenzij toepassing of mede toepassing is gegeven aan artikel 26
 Wet vervoer over zee
 Wet voorraadvorming aardolieproducten 2012, met uitzondering van artikel 26 en met inbegrip van een besluit van Onze Minister van Economische Zaken, Landbouw en Innovatie dat is genomen op grond van een bilateraal akkoord en betrekking heeft op het niet in Nederland aanhouden van een wettelijke voorraad
 Wet wegvervoer goederen
 Wetboek van Koophandel: artikel 311a
-Winkeltijdenwet, met inbegrip van een besluit inzake de verlening van een vrijstelling op grond van artikel 3, derde lid, onder a, dat kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in artikel 8:3, eerste lid, van de Algemene wet bestuursrecht
+Winkeltijdenwet
 Zaaizaad- en plantgoedwet 2005
 Zorgverzekeringswet: artikel 122a
