@@ -1,0 +1,2 @@
+# Artikel III
+De artikelen 5, 6 en 7 van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000 en de artikelen 46 en 47 van de Wet verplichte beroepspensioenregeling, zoals deze luidden voor inwerkingtreding van de artikelen of onderdelen daarvan van deze wet, blijven van toepassing op gedragingen, feiten en omstandigheden die zich hebben voorgedaan voor inwerkingtreding van de artikelen of onderdelen daarvan van deze wet.
