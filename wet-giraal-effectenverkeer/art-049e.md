@@ -1,0 +1,3 @@
+# Artikel 49e
+1. Indien een verzoek als bedoeld in artikel 49b, eerste lid, onderdeel a, b of d, geheel of gedeeltelijk niet wordt beantwoord, kan de rechtbank binnen wiens arrondissement de uitgevende instelling die het verzoek heeft gedaan is gevestigd, op vordering van die uitgevende instelling of een derde aan wie de uitgevende instelling een volmacht heeft verleend degene tot wie het verzoek is gericht bevelen het gedane verzoek na te komen.
+2. De bevoegdheid om de vordering in te stellen vervalt door verloop van drie maanden vanaf de dag waarop de uitgevende instelling van de niet-beantwoording kennis heeft genomen of heeft kunnen nemen.

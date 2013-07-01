@@ -9,4 +9,5 @@
 ### Titel 1. Algemeen
 ### Titel 2. Vervreemding en bezwaring
 ### Titel 3. Uitlevering en verdeling
+## Hoofdstuk 3a. Identificatie van investeerders
 ## Hoofdstuk 4. Overgangs- en slotbepalingen
