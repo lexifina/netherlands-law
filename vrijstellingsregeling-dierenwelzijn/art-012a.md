@@ -1,0 +1,2 @@
+# Artikel 12a
+Van het verbod, gesteld in artikel 66, eerste lid, van de Gezondheids- en welzijnswet voor dieren, wordt vrijstelling verleend voor zover de in dat artikel bedoelde wijzigingen of toe te passen biotechnologische technieken onderdeel uitmaken van een dierproef als bedoeld in de Wet op de dierproeven ten behoeve van biomedisch onderzoek ofwel worden verricht ten behoeve van biomedisch onderzoek op ongewervelde dieren of embryo's van dieren.
