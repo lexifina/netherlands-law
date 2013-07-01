@@ -1,0 +1,2 @@
+# Artikel XXXII
+[Vervallen]
