@@ -1,0 +1,3 @@
+# ARTIKEL IX
+1. Indien deze wet vóór 1 augustus 1996 in het Staatsblad wordt geplaatst, treedt deze wet, met uitzondering van artikel I, onderdeel F, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met dien verstande dat de artikelen III en IV terugwerken tot en met 1 augustus 1995 en treedt artikel I, onderdeel F, in werking met ingang van 1 augustus 1996.
+2. Indien deze wet op of na 1 augustus 1996 in het Staatsblad wordt geplaatst, treedt deze wet in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met dien verstande dat artikel I, onderdeel F, terugwerkt tot en met 1 augustus 1996 en de artikelen III en IV terugwerken tot en met 1 augustus 1995.
