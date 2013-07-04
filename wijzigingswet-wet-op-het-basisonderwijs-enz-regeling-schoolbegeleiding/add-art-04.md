@@ -1,0 +1,2 @@
+# ARTIKEL IV. WIJZIGING VAN DE WET PRIVATISERING ABP
+[Wijzigt de Wet privatisering ABP.]
