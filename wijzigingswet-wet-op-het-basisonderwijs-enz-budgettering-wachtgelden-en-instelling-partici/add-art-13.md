@@ -1,0 +1,2 @@
+# Artikel XIII. Inwerkingtreding
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met uitzondering van artikel III, onderdeel K, artikel IV, onderdeel N wat betreft de invoeging van "96f.4," en onderdeel O, en artikel V, onderdelen A en B, die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en terugwerken tot en met 1 augustus 1994.
