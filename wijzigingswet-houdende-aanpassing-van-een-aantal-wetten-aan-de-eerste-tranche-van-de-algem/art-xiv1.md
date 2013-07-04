@@ -1,0 +1,2 @@
+# Artikel XIV1
+Bij het verslag dat krachtens artikel 9:1 van de Algemene wet bestuursrecht binnen drie jaar na haar inwerkingtreding moet worden uitgebracht over de wijze waarop zij is toegepast, wordt tevens de vraag betrokken of artikel 25, vierde lid, van de Algemene wet inzake rijksbelastingen kan vervallen. Gelijktijdig met de aanbieding van het verslag wordt alsdan bij de Staten-Generaal een voorstel van wet ingediend, dat daarin voorziet.
