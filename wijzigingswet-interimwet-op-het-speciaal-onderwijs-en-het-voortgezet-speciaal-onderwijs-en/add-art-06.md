@@ -1,0 +1,3 @@
+# Artikel VI. Inwerkingtreding
+1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
+2. Artikel I, onderdelen G en H, en artikel I, onderdeel I, eerste lid voor zover het betreft de vervanging van "Tot een school mogen", en tweede lid voor zover het betreft de laatste volzin van artikel 33, tweede lid, hebben voor wat betreft de toelating van leerlingen voor het eerst betrekking op leerlingen die na 31 december 1995 worden toegelaten tot een school voor speciaal onderwijs of een school voor speciaal en voortgezet speciaal onderwijs.
