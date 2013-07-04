@@ -1,0 +1,2 @@
+# ARTIKEL VIII. WIJZIGING WET VAN 15 DECEMBER 1993 (STB. 716)
+[Wijzigt de Wet van 15 december 1993 (Stb. 716).]

@@ -1,0 +1,2 @@
+# ARTIKEL VII. WIJZIGING WET VAN 27 FEBRUARI 1992, (STB. 112)
+[Wijzigt de Wet van 27 februari 1992 (Stb. 112).]
