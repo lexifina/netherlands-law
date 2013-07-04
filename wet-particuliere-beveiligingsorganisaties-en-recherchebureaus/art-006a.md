@@ -1,0 +1,2 @@
+# Artikel 6a
+Onze Minister legt voor het medisch attest, bedoeld in artikel 5, eerste lid, onderdeel b, van de verordening, bij ministeriële regeling eisen vast op het punt van de medische geschiktheid, het doel van de keuring, de vragen welke ten aanzien van de gezondheid zullen worden gesteld en de medische onderzoeken die mogen worden verricht. De Wet op de medische keuringen is van toepassing.

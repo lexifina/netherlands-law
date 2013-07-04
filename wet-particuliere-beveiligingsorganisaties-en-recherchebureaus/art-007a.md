@@ -1,0 +1,3 @@
+# Artikel 7a
+1. Bij ministeriële regeling wordt de autoriteit, bedoeld in artikel 12, tweede lid, van de verordening, aangewezen.
+2. Indien een lid van het bewakingspersoneel van een onderneming als bedoeld in artikel 5, eerste lid, van de verordening niet beschikt over de betrouwbaarheid die nodig is voor het te verrichten werk, bedoeld in artikel 5, eerste lid, onder a, van de verordening, wordt daarvan melding gedaan door Onze Minister aan de bevoegde autoriteit in de lidstaat van herkomst die is belast met de screening van het bewakingspersoneel, bedoeld in artikel 11, derde lid, van de verordening.
