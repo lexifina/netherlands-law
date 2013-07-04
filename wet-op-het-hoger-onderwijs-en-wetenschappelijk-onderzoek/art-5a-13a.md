@@ -1,2 +1,2 @@
 # Artikel 5a.13a. Instellingstoets kwaliteitszorg
-Een instelling voor hoger onderwijs kan een instellingstoets kwaliteitszorg aanvragen.
+Het bestuur van een instelling voor hoger onderwijs kan een instellingstoets kwaliteitszorg aanvragen.

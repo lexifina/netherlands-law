@@ -6,7 +6,7 @@ b. de datum van in- of uitschrijving;
 c. de soort onderwijs;
 d. de schoolsoort;
 e. het leerjaar of de groep;
-f. indien van toepassing de aanduiding dat het betreft een leerling met een niet-Nederlandse culturele achtergrond als bedoeld in artikel 1 van het Formatiebesluit WEC;
+f. indien van toepassing de aanduiding dat het betreft een leerling met een niet-Nederlandse culturele achtergrond als bedoeld in artikel 1 van het Besluit bekostiging WEC;
 g. het registratienummer van de school of, indien sprake is van een nevenvestiging, het registratienummer daarvan;
 h. bekostigingsindicatie;
 i. de onderwijssoort dan wel het cluster, bedoeld in artikel 2, vierde lid, onder d, de begindatum van de periode waarvoor de leerling toelaatbaar is verklaard door een commissie voor de indicatiestelling als bedoeld in artikel 28c, het registratienummer van het regionaal expertisecentrum dat de indicatiestelling heeft verricht en,

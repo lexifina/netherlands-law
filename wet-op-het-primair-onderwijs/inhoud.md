@@ -42,4 +42,6 @@
 #### Afdeling 11B. Experimenten
 #### Afdeling 12. Overige bepalingen
 ## Hoofdstuk II. Andere vormen van basisonderwijs
-## Hoofdstuk III. Slotbepalingen
+## Hoofdstuk III. Bevoegdheden t.a.v. de rechtspersoon, bedoeld in artikel 183 en 184 en evaluatie
+## Hoofdstuk IV. Overgangsbepalingen
+## Hoofdstuk V. Slotbepalingen
