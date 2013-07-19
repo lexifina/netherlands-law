@@ -10,6 +10,6 @@
 ## Hoofdstuk VA. De medezeggenschap in kleine ondernemingen
 ## Hoofdstuk VI. De algemene geschillenregeling
 ## Hoofdstuk VII. De bedrijfscommissies
-## Hoofdstuk VIIA. Heffingen ter bevordering van de scholing en vorming van ondernemingsraadleden
+## Hoofdstuk VIIA. Bijzondere taak Sociaal-Economische Raad
 ## Hoofdstuk VII B. Bijzondere bepalingen voor ondernemingsraden bij de overheid
 ## Hoofdstuk VIII. Overgangs- en slotbepalingen

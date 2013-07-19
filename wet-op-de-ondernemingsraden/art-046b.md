@@ -1,6 +1,0 @@
-# Artikel 46b
-1. De Raad kan uit de opbrengst van de in artikel 46a bedoelde heffingen subsidies verstrekken aan rechtspersonen die zich ten doel stellen de werkzaamheden van andere rechtspersonen op het gebied van de scholing en vorming van ondernemingsraadleden te begeleiden en te ondersteunen. De Raad kan bij verordening regels stellen inzake het verstrekken van deze subsidies en daarbij een subsidieplafond vaststellen.
-2. Aan de subsidie worden in ieder geval de volgende verplichtingen verbonden:
-a. dat de betrokken rechtspersoon jaarlijks een begroting en een rekening van de met zijn in het eerste lid bedoelde taak verband houdende inkomsten en uitgaven opstelt en ter goedkeuring aan de Raad voorlegt;
-b. dat de onder a bedoelde rekening door of vanwege de Raad kan worden gecontroleerd;
-c. dat de betrokken rechtspersoon erop toeziet, dat de werkzaamheden op het gebied van de scholing en vorming van ondernemingsraadleden, waarvoor door hem geldelijke ondersteuning wordt verleend, wat de kwaliteit betreft tenminste voldoen aan de voorwaarden die gelden voor de subsidiëring van vormings- en ontwikkelingswerk voor volwassenen door het Rijk, en dat deze werkzaamheden voorts passen in de algemene opzet van het vormings- en ontwikkelingswerk voor volwassenen in Nederland, als aangegeven door de rijksoverheid.
