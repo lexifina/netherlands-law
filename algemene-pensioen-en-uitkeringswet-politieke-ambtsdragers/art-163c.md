@@ -1,3 +1,0 @@
-# Artikel 163c
-1. In afwijking van artikel 138b, derde lid, informeert gedeputeerde staten het gewezen lid van gedeputeerde staten van wie de uitkeringsduur, bedoeld in artikel 132, eerste of tweede lid, is geëindigd in de periode gelegen tussen 31 december 2007 en de dag van inwerkingtreding van de Wet aanpassing Appa en enkele andere wetten 2011, binnen vier maanden na inwerkingtreding van de Wet aanpassing Appa en enkele andere wetten 2011 over de mogelijkheid, bedoeld in artikel 138b, eerste lid.
-2. Het gewezen lid van gedeputeerde staten kan tot een jaar na de inwerkingtreding van de Wet aanpassing Appa en enkele andere wetten 2011 gedeputeerde staten verzoeken tot omzetting van eigen pensioen in nabestaandenpensioen als bedoeld in artikel 138b.

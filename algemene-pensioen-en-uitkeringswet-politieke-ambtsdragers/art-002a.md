@@ -5,7 +5,7 @@ b. zich bij een notarieel verleden samenlevingscontract tegenover elkaar hebben 
 c. beiden ongehuwd zijn;
 d. beiden ten tijde van de aanmelding achttien jaar of ouder zijn en
 e. geen bloed- of aanverwanten in de rechte lijn zijn.
-2. Een gewezen politieke ambtsdrager als bedoeld in het eerste lid kan, voordat hij de leeftijd van 65 jaar heeft bereikt, eveneens een aanmelding doen als bedoeld in dat lid.
+2. Een gewezen politieke ambtsdrager als bedoeld in het eerste lid kan, voordat hij de pensioengerechtigde leeftijd heeft bereikt, eveneens een aanmelding doen als bedoeld in dat lid.
 3. Degene die een aanmelding doet, voegt daarbij een gewaarmerkt afschrift van de benodigde gegevens uit de gemeentelijke basisadministratie persoonsgegevens waaruit blijkt dat is voldaan aan de voorwaarde, gesteld in het eerste lid, onder a, alsmede een afschrift van het contract, bedoeld in het eerste lid, onder b, dan wel een uittreksel daaruit of een verklaring van een notaris dienaangaande, waaruit de wederzijdse onderhoudsplichtigheid blijkt.
 4. Indien aan de voorwaarden voor aanmelding, gesteld in het eerste lid, niet wordt voldaan, weigert Onze Minister de aanmelding.
 5. Onze Minister kan regels stellen omtrent de aanmelding door degene die niet als ingezetene in de gemeentelijke basisadministratie persoonsgegevens is ingeschreven.

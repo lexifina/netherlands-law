@@ -1,4 +1,5 @@
-# Artikel 84a
-1. De artikelen 52, vierde lid, en 52a tot en met 52c zijn niet van toepassing ter zake van een ontslag of aftreden dat is ingegaan vóór de datum van inwerkingtreding van die bepalingen. In dat geval wordt in artikel 52, eerste lid, voor «vier jaren» gelezen «zes jaren» en in artikel 52, derde lid, wordt voor «55 jaar» gelezen: 50 jaar.
-2. Ten aanzien van de belanghebbende die op het tijdstip van inwerkingtreding van artikel 52, vierde lid, lid is van de Tweede Kamer van de Staten-Generaal en na de eerstvolgende verkiezing voor de leden van de Tweede Kamer niet wordt herbenoemd, dan wel bij herbenoeming onmiddellijk na de eerstvolgende verkiezing de leeftijd van 50 jaar heeft bereikt, wordt in artikel 52, eerste lid, voor «vier jaren» gelezen «zes jaren» en in artikel 52, derde lid, voor «55 jaar» gelezen: 50 jaar.
-3. Ten aanzien van de belanghebbende die op het tijdstip van inwerkingtreding van de artikelen 52a tot en met 52c lid is van de Tweede Kamer van de Staten-Generaal en na de eerstvolgende verkiezing voor de leden van de Tweede Kamer niet wordt herbenoemd, zijn de artikelen 52a tot en met 52c niet van toepassing.
+# Artikel 84a. (behoort bij hoofdstuk 10)
+1. De artikelen 52, vierde lid, en 52a tot en met 52c zijn niet van toepassing ter zake van een aftreden dat is ingegaan vóór 24 maart 2010.
+2. De artikelen 52a tot en met 52c zijn niet van toepassing ten aanzien van het eerste aftreden vanaf 24 maart 2010 van de betrokkene die:
+a. lid was van de Tweede Kamer op die datum en
+b. onmiddellijk na de verkiezingen voor de Tweede Kamer van 9 juni 2010 niet is herbenoemd.

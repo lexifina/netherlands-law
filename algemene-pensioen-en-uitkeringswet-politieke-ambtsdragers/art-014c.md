@@ -1,4 +1,0 @@
-# Artikel 14c. Verstrekken van inlichtingen
-1. Indien in het bedrag van het ouderdomspensioen, waaronder medebegrepen een eventuele toeslag en de vakantie-uitkering, ingevolge de Algemene Ouderdomswet een wijziging wordt aangebracht op grond van persoonlijke omstandigheden, is degene aan wie een pensioen krachtens dit hoofdstuk is toegekend over diensttijd vóór 1 januari 1995, gehouden daarvan onverwijld kennis te geven aan Onze Minister.
-2. Indien de in het eerste lid bedoelde wijziging leidt tot verhoging van het pensioen krachtens dit hoofdstuk, gaat die verhoging niet vroeger in dan een jaar voor de eerste dag van de maand waarin de daarbedoelde kennisgeving werd gedaan of waarin die verhoging ambtshalve plaatsvond.
-3. In bijzondere gevallen kan Onze Minister het tweede lid buiten toepassing laten.

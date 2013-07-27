@@ -3,7 +3,7 @@
 2. De toeslag bedraagt jaarlijks voor elk voor de berekening van het nabestaandenpensioen tellend jaar na 31 december 1985 2,5 procent van het verschil tussen 75 procent van het tot een jaarbedrag herleide bedrag van de nabestaandenuitkering en de vakantie-uitkering ingevolge de Algemene nabestaandenwet zonder vermindering en het verminderde bedrag. De toeslag bedraagt niet meer dan 75 procent van het in de eerste volzin eerstbedoelde bedrag.
 De toeslag wordt vanaf 1 januari 1998 vastgesteld met inachtneming van de vanaf die datum geldende bedragen krachtens de Algemene nabestaandenwet en wordt vervolgens nader vastgesteld met ingang van 1 januari en 1 juli aan de hand van de ontwikkeling van die bedragen.
 3. Het recht op de toeslag vervalt:
-a. met ingang van de dag waarop de nabestaande de 65-jarige leeftijd bereikt;
+a. met ingang van de dag waarop de nabestaande de pensioengerechtigde leeftijd bereikt;
 b. met ingang van de maand volgend op die waarin de nabestaande trouwt of partij is bij een aanmelding;
 c. met ingang van de eerste dag van de maand waarin de vermindering van de nabestaandenuitkering, bedoeld in het eerste lid, ongedaan wordt gemaakt.
 4. Artikel 22a, vierde lid, is van overeenkomstige toepassing. Artikel 22b is niet van toepassing.
