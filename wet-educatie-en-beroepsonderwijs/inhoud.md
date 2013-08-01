@@ -28,6 +28,7 @@
 #### § 2. Kenniscentra beroepsonderwijs bedrijfsleven
 ### TITEL 6. SCHOLENGEMEENSCHAP ROC OF AOC MET SCHOOL VOOR VOORTGEZET ONDERWIJS; VOORSCHRIFTEN T.A.V. VBO IN AOC
 ### Titel 6a. Samenwerking met VO-scholen ter bevordering van doelmatig en doeltreffend onderwijs
+### Titel 6b. Examinering VSO-leerlingen
 ### Titel 7. Stimuleringsmiddelen voor educatie en beroepsonderwijs en voor afstemming onderwijs-arbeidsmarkt
 ### TITEL 8. WAARBORGFONDS EN INVESTERINGEN IN GEBOUWEN EN TERREINEN
 ## Hoofdstuk 4. Personeel
@@ -61,6 +62,7 @@
 ### Titel 2. Vooropleidingseisen
 ### Titel 3. Bestrijding voortijdig schoolverlaten niet-leerplichtigen
 ### Titel 4. Samenwerking in verband met leer-werktrajecten vmbo en assistentopleiding in het vmbo
+### Titel 5. Samenwerking in verband met leer-werktrajecten VSO en de assistentopleiding in het VSO
 ## Hoofdstuk 8a. Medezeggenschap van deelnemers en ouders; landelijke geschillencommissie medezeggenschap
 ### Titel 1. Algemene bepalingen
 ### Titel 2. Bevoegdheden van de deelnemersraad
@@ -81,4 +83,5 @@
 ### Titel 2. Voorzieningen voor onbepaalde tijd
 ### Titel 3. Invoering van de wet
 ### Titel 4. Bepalingen met betrekking tot leerlinggebonden financiering
+### Titel 4a. Beroepsopleidingen oude stijl
 ### Titel 5. Evaluatie, inwerkingtreding en citeertitel
