@@ -5,14 +5,28 @@
 3a. [Dit lid is nog niet in werking getreden.]
 4. De bevoegde gezagsorganen van de scholen, bedoeld in het tweede lid, geven het samenwerkingsverband vorm door het oprichten van een rechtspersoon met volledige rechtsbevoegdheid zonder winstoogmerk, waarin uitsluitend deze bevoegde gezagsorganen deelnemen, behoudens deelname van een bevoegd gezag op grond van het vijfde lid. De statuten van de rechtspersoon bevatten een voorziening voor de beslechting van geschillen.
 5. Indien het bevoegd gezag van een school voor speciaal onderwijs of een school voor speciaal en voortgezet speciaal onderwijs, behorend tot cluster 3 en 4, bedoeld in de Wet op de expertisecentra, waarvan de vestiging of vestigingen zijn gelegen buiten het gebied van een samenwerkingsverband, wenst deel te nemen aan dit samenwerkingsverband, wordt dit bevoegd gezag niet uitgesloten van deelname aan het samenwerkingsverband.
-6. [Dit lid is nog niet in werking getreden.]
-7. [Dit lid is nog niet in werking getreden.]
-8. [Dit lid is nog niet in werking getreden.]
-9. [Dit lid is nog niet in werking getreden.]
-10. [Dit lid is nog niet in werking getreden.]
+6. Het samenwerkingsverband heeft in elk geval tot taak:
+a. het vaststellen van een ondersteuningsplan,
+b. [dit onderdeel is nog niet in werking getreden,]
+c. [dit onderdeel is nog niet in werking getreden,]
+d. [dit onderdeel is nog niet in werking getreden.]
+7. Het samenwerkingsverband stelt ten minste eenmaal in de 4 jaar een ondersteuningsplan vast. Bij het vaststellen van het ondersteuningsplan kunnen door het samenwerkingsverband slechts beperkingen worden gesteld aan de door de school gewenste invulling van het schoolondersteuningsprofiel, indien dat voor het samenwerkingsverband met het oog op de beschikbare ondersteuningsmiddelen en ondersteuningsvoorzieningen een onevenredige belasting zou vormen.
+8. Het ondersteuningsplan omvat in elk geval:
+a. de wijze waarop wordt voldaan aan het tweede lid, tweede volzin, waaronder tevens zijn begrepen de basisondersteuningsvoorzieningen die op alle vestigingen van scholen in het samenwerkingsverband aanwezig zijn,
+b. de procedure en criteria voor de verdeling, besteding en toewijzing van ondersteuningsmiddelen en ondersteuningsvoorzieningen aan de scholen, bedoeld in het tweede lid, mede bezien in het perspectief van een meerjarenbegroting,
+c. de procedure en criteria voor de plaatsing van leerlingen op speciale scholen voor basisonderwijs in het samenwerkingsverband en op scholen voor speciaal onderwijs en speciaal en voortgezet speciaal onderwijs,
+d. de procedure en het beleid met betrekking tot de terugplaatsing of overplaatsing naar het basisonderwijs van leerlingen van scholen voor speciaal onderwijs en speciaal en voortgezet speciaal onderwijs voor wie de periode waarop de toelaatbaarheidsverklaring, bedoeld in artikel 40, tiende lid, van de Wet op de expertisecentra betrekking heeft, is verstreken,
+e. de beoogde en bereikte kwalitatieve en kwantitatieve resultaten van het onderwijs aan leerlingen die extra ondersteuning behoeven en de daarmee samenhangende bekostiging,
+f. de wijze waarop aan de ouders informatie wordt verstrekt over de ondersteuningsvoorzieningen en over de onafhankelijke ondersteuningsmogelijkheden voor ouders,
+g. de wijze waarop wordt bepaald of de situaties, bedoeld in de artikelen 118, vierde lid, en 124, zich voordoen, waaronder de vaststelling van de in artikel 124, eerste en tweede lid, bedoelde peildatum, die is gelegen in de periode van 2 oktober tot en met 31 juli daaropvolgend,
+h. de wijze waarop wordt vastgesteld wat het aandeel van de onderscheiden scholen is in de overdracht van de bekostiging voor materiële instandhouding in een situatie als bedoeld in artikel 124, zevende lid, of artikel 125, zesde lid,
+i. de wijze waarop wordt bepaald of de situaties, bedoeld in artikel 125b zich voordoen, waaronder de vaststelling van de in artikel 125b, eerste lid, bedoelde peildatum, die is gelegen in de periode van 2 oktober tot en met 31 juli daaropvolgend, en
+j. de wijze waarop wordt vastgesteld wat het aandeel van de onderscheiden scholen, bedoeld in het tweede lid, is in de overdracht van de bekostiging personeelskosten in een situatie als bedoeld in artikel 125b, derde lid.
+9. Het ondersteuningsplan wordt niet vastgesteld voordat over een concept van het plan op overeenstemming gericht overleg heeft plaatsgevonden met burgemeester en wethouders van de desbetreffende gemeente of gemeenten en overleg heeft plaatsgevonden met het samenwerkingsverband, bedoeld in artikel 17a, tweede lid, van de Wet op het voortgezet onderwijs, waarvan het gebied geheel of gedeeltelijk samenvalt met het gebied van het samenwerkingsverband. Het overleg met burgemeester en wethouders vindt plaats overeenkomstig een procedure, vastgesteld door het samenwerkingsverband en burgemeester en wethouders van die gemeente of gemeenten. De procedure bevat een voorziening voor het beslechten van geschillen.
+10. Het ondersteuningsplan wordt voor 1 mei voorafgaand aan het eerste schooljaar van de periode waarop het plan betrekking heeft, toegezonden aan de inspectie.
 11. [Dit lid is nog niet in werking getreden.]
 12. [Dit lid is nog niet in werking getreden.]
 13. [Dit lid is nog niet in werking getreden.]
 14. [Dit lid is nog niet in werking getreden.]
 15. Bevoegde gezagsorganen van tot dezelfde richting behorende scholen en scholen als bedoeld in de Wet op de expertisecentra waaraan speciaal onderwijs behorend tot cluster 3 en 4 wordt verzorgd, kunnen een landelijk samenwerkingsverband oprichten. Een landelijk samenwerkingsverband omvat alle in Nederland gelegen en tot dezelfde richting behorende scholen als bedoeld in de eerste volzin. Op een landelijk samenwerkingsverband zijn het tweede tot en met veertiende lid, met uitzondering van het derde en vijfde lid, en het zestiende lid van overeenkomstige toepassing. Indien een bevoegd gezag scholen heeft met meer dan een richting bepaalt het bevoegd gezag eenmalig op basis van welke richting de aansluiting bij het samenwerkingsverband plaatsvindt.
-16. [Dit lid is nog niet in werking getreden.]
+16. Bij algemene maatregel van bestuur kunnen nadere voorschriften worden vastgesteld met betrekking tot de samenwerkingsverbanden.
