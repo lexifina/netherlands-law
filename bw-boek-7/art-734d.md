@@ -1,0 +1,7 @@
+# Artikel 734d
+1. De zeevarende, bedoeld in artikel 734, die niet is verzekerd ingevolge de Ziektewet en op wie niet een daarmee overeenkomende wettelijke regeling van een lidstaat van de Europese Unie van toepassing is, heeft, zolang hij niet is hersteld en ongeacht het voortduren van de zee-arbeidsovereenkomst, gedurende ten hoogste 52 weken, recht op 80 procent van het naar tijdruimte in geld vastgestelde loon, dat hij genoot toen hij ziek werd, verhoogd met de bij algemene maatregel van bestuur vast te stellen geldswaarde van andere loonbestanddelen.
+2. De in lid 1 bedoelde termijn van 52 weken gaat in:
+a. als de zeevarende ziek wordt, terwijl hij niet aan boord van een zeeschip in dienst is, op de dag, waarop hij ziek wordt;
+b. als hij ziek wordt, terwijl hij aan boord van een zeeschip in dienst is, op de dag, waarop hij aan de wal ter verpleging wordt achtergelaten of waarop hij, nog niet hersteld, met het zeeschip terugkomt. Wordt hij ter verpleging achtergelaten buiten het land waar hij zijn woonplaats of gewone verblijfplaats heeft, dan wordt de uitkering van 80 procent gedurende de eerste 12 weken verhoogd tot 100 procent.
+3. De uitkering, bedoeld in de laatste zin van het tweede lid, eindigt zodra de zeevarende passende arbeid kan verkrijgen en verrichten dan wel is teruggekeerd of had kunnen terugkeren naar het land waar hij zijn woonplaats of gewone verblijfplaats heeft.
+4. Indien de ziekte een gevolg is van opzet van de zeevarende, kan de loonaanspraak worden verbeurd of verminderd.

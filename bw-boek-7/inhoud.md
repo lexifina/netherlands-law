@@ -84,6 +84,18 @@
 #### Afdeling 9. Einde van de arbeidsovereenkomst
 #### Afdeling 10. Bijzondere bepalingen voor handelsvertegenwoordigers
 #### Afdeling 11. Bijzondere bepalingen ter zake van de uitzendovereenkomst
+#### Afdeling 12. Bijzondere bepalingen terzake van de zee-arbeidsovereenkomst
+##### Algemene bepalingen
+##### Loon
+##### Vakantie
+##### Repatriëring
+##### Vergoeding in geval van schipbreuk of andere ramp aan het zeeschip en in geval van overlijden van de zeevarende
+##### Einde van de zee-arbeidsovereenkomst
+##### De zieke zeevarende
+##### De tijdelijk aan boord van een zeeschip werkzame werknemer
+##### De arbeidsovereenkomst naar buitenlands recht
+##### Verplichtingen van de scheepsbeheerder
+#### Afdeling 12A. De zeevarende in de visserij
 ### Titel 12. Aanneming van werk
 #### Afdeling 1. Aanneming van werk in het algemeen
 #### Afdeling 2. Bijzondere bepalingen voor de bouw van een woning in opdracht van een natuurlijk persoon die niet handelt in de uitoefening van een beroep of bedrijf

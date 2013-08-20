@@ -1,0 +1,2 @@
+# Artikel 734j
+Onder loon van de zeevarende wordt voor de toepassing van de artikelen 734f en 734h verstaan het naar tijdruimte in geld vastgestelde loon, dat hij genoot tot het ongeval, bedoeld in artikel 734e, plaatsvond, verhoogd met de bij algemene maatregel van bestuur vast te stellen geldswaarde van andere loonbestanddelen. Hetgeen het naar tijdruimte in geld vastgestelde loon meer bedraagt dan een bij algemene maatregel van bestuur te bepalen bedrag, wordt daarbij niet in aanmerking genomen.

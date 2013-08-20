@@ -1,3 +1,0 @@
-# Artikel 450c
-1. Bij overeenkomst kunnen partijen niet afwijken van het bepaalde in de artikelen 398-401, 407, 408, 413, 416-419, 421-426, 428, 439, eerste en tweede lid, 445, 448 en 449, noch ook ten nadeele van den schepeling van het bepaalde in de artikelen 402, 414, 415 - 415h, 420, 427, 432-434, 438, 439, laatste lid, 440-443, 447, 450, 450a en 450aa.
-2. Zij mogen in de arbeidsovereenkomst geen bepalingen opnemen, welke afwijken van de wettelijke regels betreffende de bevoegdheid des rechters kennis te nemen van geschillen betrekkelijk deze overeenkomst, onverminderd de mogelijkheid zich te verbinden om geschillen aan de uitspraak van scheidslieden te onderwerpen.

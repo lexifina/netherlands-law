@@ -1,0 +1,3 @@
+# Artikel 734b
+1. De zeevarende, bedoeld in artikel 734, die verzekerd is ingevolge de Ziektewet of op wie enige daarmee overeenkomende wettelijke regeling van een lidstaat van de Europese Unie van toepassing is, heeft, in afwijking van artikel 629 lid 1, voor een tijdvak van twaalf weken recht op 100 procent van het loon, bedoeld in artikel 629 lid 1, als hij ter verpleging is achtergelaten buiten het land waar hij zijn woonplaats of gewone verblijfplaats heeft.
+2. Het recht op betaling van 100 procent van het loon eindigt zodra de zeevarende passende arbeid kan verkrijgen en verrichten dan wel is teruggekeerd of heeft kunnen terugkeren naar het land waar hij zijn woonplaats of gewone verblijfplaats heeft.
