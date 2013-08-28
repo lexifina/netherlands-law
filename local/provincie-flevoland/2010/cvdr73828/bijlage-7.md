@@ -1,21 +1,13 @@
 # Bijlage 7
 ## Bijlage 7 Voorwaarden toeslagen
 Onderdeel A:
-Voorschriften toeslag schapenbeheer (artikel 3.6, eerste lid, onderdeel c)
-1. Gedurende elk kalenderjaar van de periode, bedoeld in artikel 3.2, waarvoor de toeslag wordt verstrekt, wordt gebruik gemaakt van één of meerdere door een herder geleide schaapskuddes bij het in stand houden van het op het natuurterrein aanwezige natuurbeheertype.
+Voorschriften toeslag schapenbeheer (artikel 3.1.6, eerste lid, onderdeel b)
+1. Gedurende elk kalenderjaar van de periode, bedoeld in artikel 3.1.2, waarvoor de toeslag wordt verstrekt, wordt gebruik gemaakt van één of meerdere door een herder geleide schaapskuddes bij het in stand houden van het op het natuurterrein aanwezige natuurbeheertype.
 2. Het gebruik van één of meerdere door een herder geleide schaapskuddes strekt zich gedurende elk kalenderjaar van de in het vorige punt bedoelde periode uit over de gehele oppervlakte waarvoor de toeslag door Gedeputeerde Staten wordt verstrekt.
+Laag tarief: schaapskudde wordt ingezet op natuurterreinen waarop een natuurbeheertype met de aanduiding N06.03, N09.01, N11.01 of N12.01 in stand wordt gehouden;
+Hoog tarief: schaapskudde wordt ingezet op natuurterreinen waarop een natuurbeheertype met de aanduiding N06.04, N07.01, N07.02, N08.02 of N08.04 in stand wordt gehouden.
 Onderdeel B:
-Voorschriften toeslag ruige stalmest (artikel 4.1.1.6, eerste lid, onderdeel b)
-1. Op de beheereenheid wordt een agrarisch beheerpakket uitgevoerd dat in bijlage 3, onderdeel B.1, is opgenomen onder de aanduiding A01.01.01, A01.01.02, A01.01.04a of A01.01.05.
-2. Op de beheereenheid wordt in een kalenderjaar ten minste 10 en maximaal 20 ton ruige stalmest per hectare uitgereden.
-3. De ruige stalmest wordt in één keer in één van de onderstaande periodes op een beheereenheid uitgereden:
-a. tussen 1 februari en de begindatum van de rustperiode van het betreffende agrarische beheerpakket, óf
-b. vanaf de dag volgend op de einddatum van de rustperiode van het betreffende agrarische beheerpakket tot 1 september.
-4. In afwijking van punt 3, onderdeel b, mag gedurende de tijd dat de rustperiode overeenkomstig onderdeel C, subonderdeel 1, van de onderhavige bijlage is verlengd, geen ruige stalmest uitgereden worden.
-5. Indien de ruige stalmest wordt uitgereden op een beheereenheid waarop het agrarisch beheerpakket met de aanduiding A01.01.04a wordt uitgevoerd, dan wordt de ruige stalmest in één keer in één van de onderstaande periodes uitgereden:
-a. tussen 1 februari en 1 april, óf
-b. tussen 1 juli en 1 september.
-6. Van het uitrijden van de ruige stalmest wordt binnen twee weken na dat uitrijden melding gedaan met gebruikmaking van een daartoe door of vanwege Gedeputeerde Staten vastgesteld formulier. De melding gaat vergezeld van een kaart met een topografische ondergrond waarop de beheereenheid is, dan wel beheereenheden zijn, aangegeven waarop de ruige stalmest is uitgereden.
+[vervallen]
 Onderdeel C:
 Voorschriften aanvullende toeslag collectief agrarisch natuurbeheer (artikel 4.1.2.4, eerste lid)
 Subonderdeel 1 (verlengen rustperiode)
@@ -37,3 +29,13 @@ In dat geval kunnen Gedeputeerde Staten, op basis van het in artikel 4.1.2.4, tw
 6. Halverwege de in punt 4 bedoelde strook worden, op een onderlinge afstand van ten minste 4 tot 5 meter en uiterlijk op 1 mei, minimaal 5 en maximaal 10 vlotjes in de sloot uitgelegd als nestgelegenheid voor de Zwarte stern. De vlotjes voldoen aan de eisen zoals geformuleerd door de werkgroep van de Agrarische Natuurvereniging "De Utrechtse Venen.
 7. De vlotjes worden, voor zover zij niet langer door de Zwarte stern gebruikt worden, uiterlijk op 1 september uit het water gehaald, schoongemaakt, gedroogd en opgeslagen.
 8. De begunstigde houdt bij op hoeveel vlotjes gebroed wordt en hoeveel jongen er uit komen. Deze gegevens worden door de begunstigde na afloop van het broedseizoen ter beschikking gesteld aan de werkgroep, bedoeld in punt 6.
+Subonderdeel 4 (ruige stalmest)
+1. Op de beheereenheid wordt een agrarisch beheerpakket uitgevoerd dat in bijlage 3, onderdeel B.1, is opgenomen onder de aanduiding A01.01.01, A01.01.02, of A01.01.05.
+2. Op de beheereenheid wordt in een kalenderjaar ten minste 10 en maximaal 20 ton ruige stalmest per hectare uitgereden.
+3. De ruige stalmest wordt in één keer in één van de onderstaande periodes op een beheereenheid uitgereden:
+a. tussen 1 februari en de begindatum van de rustperiode van het betreffende agrarische beheerpakket, óf
+b. vanaf de dag volgend op de einddatum van de rustperiode van het betreffende agrarische beheerpakket tot 1 september; waarbij per beheerjaar slechts één melding als bedoeld in punt 5 gedaan mag worden.
+4. In afwijking van punt 3, onderdeel b, mag gedurende de tijd dat de rustperiode overeenkomstig onderdeel C, subonderdeel 1, van de onderhavige bijlage is verlengd, geen ruige stalmest uitgereden worden.
+5. Van het uitrijden van de ruige stalmest wordt binnen twee weken na dat uitrijden
+melding gedaan bij de gebiedscoördinator. De melding gaat vergezeld van een kaart met een topografische ondergrond waarop de beheereenheid is, dan wel beheereenheden zijn, aangegeven waarop de ruige stalmest is uitgereden.
+6. In afwijking van punt 5, eerste volzin, dient een subsidieontvanger die niet in het kader van collectief agrarisch natuurbeheer een in punt 1 bedoeld agrarisch beheerpakket uitvoert, de in punt 5 bedoelde melding in bij Gedeputeerde Staten met gebruikmaking van een daartoe door of namens Gedeputeerde Staten vastgesteld formulier.

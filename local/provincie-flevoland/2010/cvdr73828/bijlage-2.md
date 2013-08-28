@@ -1,8 +1,8 @@
 # Bijlage 2
 ## Bijlage 2 Recreatiepakket
-Voorschriften recreatiepakket (artikel 3.6, eerste lid, onderdeel b):
-1. Het natuurterrein is niet ingevolge het natuurbeheerplan of artikel 3.6, vierde lid, vrijgesteld van de openstellingsplicht.
-2. Voor openstelling van het natuurterrein is geen ontheffing verkregen als bedoeld in artikel 3.6, zesde lid.
+Voorschriften recreatiepakket (artikel 3.1.6, eerste lid, onderdeel b):
+1. Het natuurterrein is niet ingevolge het natuurbeheerplan of artikel 3.1.6, derde lid, vrijgesteld van de openstellingsplicht.
+2. Voor openstelling van het natuurterrein is geen ontheffing verkregen als bedoeld in artikel 3.1.6, vijfde lid.
 3. Het natuurterrein is voldoende toegankelijk en bevat voldoende wegen, vaarwegen en paden, die recreatief gebruik mogelijk maken.
 4. De ontvanger van de subsidie onderhoudt de onder punt 3 genoemde wegen, vaarwegen en paden.
 5. De ontvanger van de subsidie verleent – indien van toepassing – medewerking aan de aanleg, markering en het beheer van doorgaande routes voor wandelen en fietsen in het kader van de lange afstandwandelpaden (LAW's) en landelijke fietsroutes (LF).

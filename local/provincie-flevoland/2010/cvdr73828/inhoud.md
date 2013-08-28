@@ -2,13 +2,17 @@
 ## Hoofdstuk 1 Algemene bepalingen
 ## Hoofdstuk 2 Natuurbeheerplan
 ## Hoofdstuk 3 Natuurbeheer
+### Afdeling 3.1 Algemene bepalingen inzake subsidie natuurbeheer
+### Afdeling 3.2 Bijzondere bepalingen inzake subsidie natuurbeheer voor gecertificeerde begunstigden
 ## Hoofdstuk 4 Agrarisch natuurbeheer
 ### Paragraaf 4.1 Subsidie agrarisch natuurbeheer
 ### Paragraaf 4.2 Probleemgebiedensubsidie
 ## Hoofdstuk 5 Landschapsbeheer
 ### Afdeling 5.1.1 Algemene bepalingen inzake subsidies landschapsbeheer
-### Afdeling 5.1.2 Subsidie landschapsbeheer binnen natuurterreinen
-### Afdeling 5.1.3 Subsidie landschapsbeheer buiten natuurterreinen
+### Afdeling 5.1.2 Algemene bepalingen inzake subsidie landschapsbeheer binnen natuurterreinen
+### Afdeling 5.1.2a Bijzondere bepalingen inzake subsidie landschapsbeheer binnen natuurterreinen voor gecertificeerde begunstigden
+### Afdeling 5.1.3 Algemene bepalingen inzake subsidie landschapsbeheer buiten natuurterreinen
+### Afdeling 5.1.4 Bijzondere bepalingen inzake collectief landschapsbeheer
 ## Hoofdstuk 6 Subsidie organisatiekosten
 ## Hoofdstuk 7 Wijziging en intrekking
 ## Hoofdstuk 8 Certificering
