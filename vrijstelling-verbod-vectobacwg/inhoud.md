@@ -1,2 +1,0 @@
-# Inhoud
-## Voorschriften voor gebruik
