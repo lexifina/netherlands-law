@@ -1,0 +1,2 @@
+# Artikel 1a
+Op verzoek van één of beide echtgenoten of (geregistreerde) partners wordt door de griffier in het register aangetekend dat het verzoek of de overeenkomst, bedoeld in artikel 99, derde lid, eerste zin, van Boek 1 van het Burgerlijk Wetboek, niet meer tot het daar bedoelde gevolg kan leiden. Het verzoek, voorzien van datum en tijdstip, is behalve door de echtgenoot of echtgenoten dan wel (geregistreerde) partner of partners ondertekend door een advocaat of notaris.
