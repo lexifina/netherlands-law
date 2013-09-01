@@ -38,7 +38,8 @@
 #### Paragraaf 1. Vooropleidingseisen bacheloropleidingen
 #### Paragraaf 2. Toelatingseisen masteropleidingen
 ### Titel 3. Studenten en extraneï
-#### Paragraaf 1. Inschrijving
+#### Paragraaf 1. Aanmelding, studiekeuzeactiviteiten en studiekeuzeadvies
+#### Paragraaf 1a. Inschrijving
 #### Paragraaf 2. Eigen bijdragen
 #### Paragraaf 3. Centraal register inschrijving hoger onderwijs
 #### Paragraaf 4. Bijzondere bepalingen inschrijving
@@ -129,4 +130,5 @@
 ### Titel 12. Wet van 8 juli 2011 (Stb. 369)
 ### Titel 13. Wet van.... 2011 (Stb...)
 ### Titel 14. Wet van 28 januari 2013 (Stb. 70)
+### Titel 15. Wet van 10 juli 2013 (Stb. 298)
 ## Hoofdstuk 19. Slotbepalingen
