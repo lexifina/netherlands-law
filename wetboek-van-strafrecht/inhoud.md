@@ -49,6 +49,7 @@
 ### Titel XXIX. Scheepvaart- en luchtvaartmisdrijven
 ### Titel XXX. Begunstiging
 ### Titel XXXA. Witwassen
+### Titel XXXI. Financieren van terrorisme
 ## Boek Derde. Overtredingen
 ### Titel I. Overtredingen betreffende de algemene veiligheid van personen en goederen
 ### Titel II. Overtredingen betreffende de openbare orde
