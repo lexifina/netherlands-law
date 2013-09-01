@@ -1,2 +1,0 @@
-# Artikel 5a
-Een ondernemer is tot en met 31 december 2013 verplicht tot het melden van het toepassen van een anders dan een niet-kerende grondbewerking op een perceel met een hellinglengte van meer dan 50 meter en een hellingspercentage van 2% of meer in geval van de teelt van een niet-erosiebevorderend gewas. De ondernemer doet uiterlijk zeven dagen na toepassing hiervan mededeling aan de secretaris.
