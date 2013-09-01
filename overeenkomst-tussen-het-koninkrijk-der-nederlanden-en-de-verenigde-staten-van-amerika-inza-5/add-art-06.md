@@ -1,0 +1,2 @@
+# Artikel VI. Uniformen en wapens
+Personeel van de Verenigde Staten is bevoegd tijdens het uitoefenen van officiële taken een uniform te dragen en tijdens de dienst wapens te dragen indien het daartoe op grond van orders bevoegd is. Het dragen van wapens door personeel van de strijdkrachten van de Verenigde Staten is beperkt tot de militaire faciliteiten van de Verenigde Staten, aangewezen gebieden naast vaartuigen en andere gebieden die de bevoegde autoriteiten van de partijen overeenkomen.

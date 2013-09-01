@@ -1,0 +1,3 @@
+# Artikel XII. Telecommunicatie
+1. Het is het ministerie van Defensie van de Verenigde Staten toegestaan zijn eigen telecommunicatiesystemen te exploiteren (telecommunicatie zoals omschreven in het Statuut en Verdrag van de Internationale Unie voor Telecommunicatie, ondertekend te Genève op 22 december 1992). Hieronder wordt mede verstaan het recht de middelen en diensten te gebruiken die vereist zijn om de volledige operationele beschikbaarheid van telecommunicatiesystemen te waarborgen en het recht voor dit doel gebruik te maken van het radiospectrum. De Verenigde Staten houden rekening met de frequenties die door lokale operateurs worden gebruikt.
+2. Gebruik van het radiospectrum is kosteloos voor de Verenigde Staten.

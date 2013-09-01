@@ -1,0 +1,3 @@
+# Artikel V. Vergunningen
+1. Professionele vergunningen die voldoen aan de eisen voor de uitoefening van een beroep en zijn afgegeven door de bevoegde autoriteiten in de Verenigde Staten aan personeel van de Verenigde Staten of aan contractanten van de Verenigde Staten voor de levering van diensten aan bevoegd personeel, worden als geldig aanvaard.
+2. Geldige rijbewijzen of -bevoegdheden afgegeven door de bevoegde autoriteiten in de Verenigde Staten aan personeel van de Verenigde Staten of aan contractanten van de Verenigde Staten voor het besturen van voertuigen worden als geldig aanvaard zonder een vergoeding of rijexamen te vereisen.

@@ -1,0 +1,2 @@
+# Artikel XV. Beslechting van geschillen
+Geschillen worden beslecht door middel van overleg tussen de partijen. Geschillen en andere kwesties waarover uit hoofde van deze Overeenkomst overleg dient te worden gevoerd worden niet ter beslechting doorverwezen naar een rechter in de Verenigde Staten of in het Koninkrijk of naar een internationaal hof, tribunaal of soortgelijk lichaam of naar een andere derde, tenzij onderling anders is overeengekomen.
