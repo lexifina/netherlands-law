@@ -1,0 +1,2 @@
+# 27a. Met betrekking tot artikel 29:
+Niettegenstaande de bepalingen van paragraaf 1, zal artikel 29 met betrekking tot belastingen die worden geheven ten behoeve van de staatkundige onderdelen of plaatselijke publiekrechtelijke lichamen, voor zover deze niet door de verdragsluitende Staten zelf worden geheven, voor de beide verdragsluitende Staten pas van toepassing zijn vanaf de datum waarop België Nederland langs diplomatieke weg op de hoogte heeft gesteld van zijn instemming met deze toepassing.
