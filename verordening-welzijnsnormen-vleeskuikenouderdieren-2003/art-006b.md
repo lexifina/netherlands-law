@@ -1,0 +1,4 @@
+# Artikel 6b
+1. De controle-instantie als bedoeld in artikel 6a, eerste lid, kan op aanvraag worden erkend door de voorzitter.
+2. De te erkennen controle-instantie voldoet aan de criteria voor erkenning zoals deze door het bestuur bij besluit zijn vastgesteld.
+3. Aan een erkenning kunnen nadere voorschriften of voorwaarden worden verbonden. De erkenning kan door de voorzitter worden ingetrokken indien is vastgesteld dat niet langer aan de criteria voor erkenning of de aan de erkenning verbonden nadere voorschriften of voorwaarden wordt voldaan.
