@@ -1,0 +1,3 @@
+# Artikel XIII
+1. De onderdelen MMM en WWW, subonderdeel 3, van artikel I van dit besluit blijven buiten toepassing ten aanzien van de vreemdeling wiens verblijf op grond van het recht zoals dat gold voor de inwerkingtreding van dit besluit niet kon worden beëindigd, tenzij die vreemdeling wegens een na inwerkingtreding van die onderdelen van dit besluit gepleegd misdrijf waartegen een gevangenisstraf van twee jaar of meer is bedreigd bij onherroepelijk geworden rechterlijk vonnis is veroordeeld, dan wel hem terzake van een zodanig misdrijf bij onherroepelijke beschikking een taakstraf is opgelegd.
+2. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de invoering van de Wet modern migratiebeleid en dit besluit.
