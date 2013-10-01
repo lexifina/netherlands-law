@@ -1,5 +1,5 @@
 # Artikel 370a
-1. Aan de verdachte die is aangehouden voor een strafbaar feit dat voor de politierechter wordt vervolgd, kan een verkorte dagvaarding worden uitgereikt.
+1. Aan de verdachte die is aangehouden voor een strafbaar feit dat voor de politierechter wordt vervolgd, kan een verkorte dagvaarding worden uitgereikt. Artikel 260, vijfde lid, is van overeenkomstige toepassing.
 2. De verkorte dagvaarding bevat:
 a. een oproeping om een bepaalde dag en uur op de terechtzitting voor de politierechter te verschijnen terzake van een kort omschreven feit;
 b. de mededeling van de rechten en bevoegdheden, op welke de verdachte ingevolge artikel 260, derde lid, opmerkzaam moet worden gemaakt;

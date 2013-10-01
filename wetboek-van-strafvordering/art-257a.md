@@ -22,3 +22,4 @@ d. de opgelegde straffen, maatregelen en aanwijzingen;
 e. de dag waarop zij is uitgevaardigd;
 f. de wijze waarop verzet kan worden ingesteld;
 g. de wijze van tenuitvoerlegging.
+7. Indien blijkt dat de verdachte de Nederlandse taal niet of onvoldoende beheerst en de strafbeschikking is uitgevaardigd wegens een misdrijf, wordt de strafbeschikking of in ieder geval de in het zesde lid bedoelde onderdelen daarvan vertaald in een voor de verdachte begrijpelijke taal. De verdachte die de Nederlandse taal niet of onvoldoende beheerst, kan verzoeken dat de strafbeschikking in een voor hem begrijpelijke taal wordt vertaald.

@@ -1,3 +1,4 @@
 # Artikel 29a
-1. In alle gevallen waarin de verdachte wordt gehoord of een verhoor bijwoont, stelt de rechterlijk ambtenaar de identiteit van de verdachte vast op de wijze, bedoeld in artikel 27a, eerste lid, eerste volzin. De rechterlijk ambtenaar is tevens bevoegd de identiteit van de verdachte vast te stellen op de wijze, bedoeld in artikel 27a, tweede lid, indien over zijn identiteit twijfel bestaat.
-2. De verdachte is verplicht op bevel van een rechterlijk ambtenaar een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage aan te bieden en zijn medewerking te verlenen aan het nemen van zijn vingerafdrukken.
+1. In alle gevallen waarin een verdachte die de Nederlandse taal niet of onvoldoende beheerst wordt gehoord, wordt de bijstand van een tolk ingeroepen.
+2. De tolk wordt opgeroepen door de verhorende ambtenaar, tenzij anders bij wet bepaald. Tijdens het voorbereidende onderzoek kan de tolk mondeling worden opgeroepen. In alle andere gevallen geschiedt de oproeping schriftelijk.
+3. Van de bijstand van een tolk wordt mededeling gedaan in het proces-verbaal.
