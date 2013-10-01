@@ -1,0 +1,4 @@
+# Artikel 482d
+1. De rechter-commissaris beslist zo spoedig mogelijk over de in artikel 482c, tweede lid, bedoelde vordering. De beschikking is met redenen omkleed en wordt schriftelijk ter kennis gebracht van de officier van justitie en betekend aan de gewezen verdachte, met vermelding van de termijn waarbinnen en de wijze waarop het rechtsmiddel, dat tegen de beschikking openstaat, moet worden ingesteld. Indien het belang van het onderzoek dit dringend vordert kan de rechter-commissaris betekening van de beschikking aan de gewezen verdachte uitstellen.
+2. Voor de officier van justitie staat binnen veertien dagen na de beschikking en voor de gewezen verdachte binnen veertien dagen na de betekening van die beschikking hoger beroep open bij de rechtbank.
+3. De rechtbank beslist zo spoedig mogelijk.

@@ -116,6 +116,8 @@
 ### B. Buitengewone rechtsmiddelen
 #### Titel VII. Cassatie "in het belang der wet"
 #### Titel VIII. Herziening van arresten en vonnissen
+##### Afdeling Eerste. Herziening ten voordele van de gewezen verdachte
+##### Afdeling Tweede. Herziening ten nadele van de gewezen verdachte
 ## Boek Vierde. Eenige rechtsplegingen van bijzonderen aard
 ### Titel I. Strafvordering ter zake van strafbare feiten waarvan de Hooge Raad in eersten aanleg kennis neemt
 ### Titel II. Strafvordering in zaken betreffende jeugdige personen
