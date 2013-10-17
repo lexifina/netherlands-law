@@ -35,7 +35,7 @@ b. een besluit omtrent goedkeuring van een besluit als bedoeld in artikel 9
 Kaderwet dienstplicht: de artikelen 10, eerste lid, 11 en 13
 Kernenergiewet
 Kieswet:
-a. de artikelen D 3, achtste lid, D 6, D 8, G 1 tot en met G 4, I 4, K 8, L 11, M 4, Q 6, S 2, X 4, derde lid, X 5, derde lid, X 7, vierde lid, en X 8, vierde lid
+a. de artikelen D 3b, vierde lid, D 6, D 8, G 1 tot en met G 4, I 4, K 8, L 11, M 4, Q 6, S 2, X 4, derde lid, X 5, derde lid, X 7, vierde lid, en X 8, vierde lid
 b. artikel Y 2 in samenhang met artikel D 3, achtste lid, D 6, D 8, G 1, G 4, I 4, K 8, L 11 of M 4
 c. de artikelen Y 32 en Y 33
 Mijnbouwwet:
