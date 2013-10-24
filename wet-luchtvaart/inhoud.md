@@ -1,5 +1,7 @@
 # Inhoud
-## Hoofdstuk 1. Algemene bepalingen
+## Hoofdstuk 1. Inleidende bepalingen
+### Titel 1.1. Algemene bepalingen
+### Titel 1.2. EASA
 ## Hoofdstuk 2. Personeel
 ### Titel 2.1. Bewijzen van bevoegdheid
 ### TITEL 2.2. ALGEMENE GEZONDHEIDSTOESTAND; VERBOD GEBRUIK ALCOHOL, DRUGS EN PSYCHOTROPE GENEESMIDDELEN
@@ -33,6 +35,7 @@
 ### Titel 7.2. Slotallocatie
 ### Titel 7.3. Verzekering
 ### Titel 7.4. Exploitatieverbod
+### Titel 7.5. Vergoedingen ter uitvoering van internationale verplichtingen
 ## Hoofdstuk 8. Luchthavens
 ### Titel 8.1. Algemeen
 ### Titel 8.2. De luchthaven Schiphol
