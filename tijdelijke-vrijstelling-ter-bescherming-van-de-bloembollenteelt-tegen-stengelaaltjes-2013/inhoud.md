@@ -1,4 +1,0 @@
-# Inhoud
-## Gebruiksaanwijzing
-### Algemeen
-### Toepassingen
