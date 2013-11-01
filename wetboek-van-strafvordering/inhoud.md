@@ -160,7 +160,14 @@
 #### afdeling Tweede. Europees bewijsverkrijgingsbevel
 ##### § 1. Europees bewijsverkrijgingsbevel uitgevaardigd door een andere lidstaat van de Europese Unie
 ##### § 2. Europees bewijsverkrijgingsbevel uitgevaardigd door Nederland
-## Boek Vijfde. Tenuitvoerlegging en kosten
+## Boek Vijfde. Internationale en Europese strafvorderlijke samenwerking
+### Titel 1
+### Titel 2
+### Titel 3. Wederzijdse erkenning en tenuitvoerlegging van bevelen betreffende de voorlopige hechtenis tussen de lidstaten van de Europese Unie
+#### afdeling Eerste. Algemene bepalingen
+#### afdeling Tweede. Erkenning en tenuitvoerlegging van buitenlandse toezichtbeslissingen in Nederland
+#### afdeling Derde. Erkenning en tenuitvoerlegging van Nederlandse bevelen tot schorsing van de voorlopige hechtenis in het buitenland
+## Boek Zesde. Tenuitvoerlegging en kosten
 ### Titel I. Tenuitvoerlegging
 #### afdeeling Eerste. Algemeene bepalingen
 #### afdeeling Tweede. Uitvoerbaarheid van beslissingen
