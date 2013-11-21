@@ -9,7 +9,7 @@ de Waterwet, de artikelen 6.2, 6.3, 6.4, 6.5, 6.6, eerste en tweede lid, 6.7, 6.
 de Wet algemene bepalingen omgevingsrecht, artikel 2.1, eerste lid, aanhef en onder e, en artikel 2.3, aanhef en onder a;
 de Wet bestrijding ongevallen Noordzee, de artikelen 4, eerste, tweede, derde en vierde lid, en 15;
 de Wet bodembescherming, de artikelen 6 tot en met 13, 38 en 94;
-de Wet gewasbeschermingsmiddelen en biociden: de artikelen 2a, 19, 20, eerste lid, 21, 22, 28, tweede lid, 37, derde lid, 38, derde lid, 39, 42, 43, 43a, 64, tweede, vierde, vijfde, zesde en achtste lid, 65, derde en vierde lid, 67, eerste en tweede lid, 74, 79 tot en met 81, 87, zesde lid, en 118;
+de Wet gewasbeschermingsmiddelen en biociden: de artikelen 2a, 19, 20, eerste lid, 21, 22, 28, tweede lid, 37, derde lid, 38, derde lid, 39, 43, 74, 79 tot en met 81, 87, zesde lid, en 118;
 de Wet inzake de luchtverontreiniging, de artikelen 91, 92, onder a, in verband met artikel 48, en 92, onder b;
 de Wet luchtvaart, de artikelen 6.51, eerste lid, 6.54, vierde lid, 6.55, eerste lid en 6.58, tweede lid, alsmede - voorzover aangeduid als strafbare feiten - overtredingen van voorschriften krachtens titel 6.5 van die wet gegeven;
 de Wet milieubeheer, artikel 1.2, eerste lid, – voor zover aangeduid als strafbare feiten –, en de artikelen 1.3a, vierde lid, 2.5, 8.40, eerste lid, 9.2.1.2, 9.2.1.5, 9.2.2.1, 9.2.2.6, 9.2.2.6a, 9.3.1, 9.3.3, eerste lid, 9.3a.3, eerste lid, 10.1, 10.2, eerste lid, 10.37, eerste lid, 10.39, eerste lid, 10.45, eerste lid, onderdeel b, 10.47, eerste lid, 10.54, eerste lid, 10.54a, eerste en derde lid, 10.56, eerste en tweede lid, 10.57, 10.60, eerste, tweede, derde en vierde lid, 16.5, eerste lid, 16.5, eerste lid, in verbinding met artikel 16.5, tweede lid, 16.13, 16.13 in verbinding met artikel 16.39h, 16.13a, 16.14, 16.19, 16.19 in verbinding met artikel 16.49, tweede lid, 16.20c, tweede en derde lid, 16.21, 16.21 in verbinding met artikel 16.39h, 16.21 in verbinding met artikel 16.49, tweede lid, artikel 16.34, 16.49, eerste lid, 17.1, 17.3, eerste lid, 17.4, eerste lid, 17.12, eerste lid, 17.13, eerste lid, 17.5b, 17.5c, tweede lid, en 17.5d in verbinding met 17.5b en 17.5c, tweede lid, 18.5, eerste lid, 18.6, eerste lid, en 17.19, vijfde lid, en 18.18;
@@ -41,7 +41,7 @@ de Visserijwet 1963, de artikelen 2a, 3 en 3a, voor zover de overtreding van die
 de Waterwet, artikel 6.24, tweede lid, tenzij de desbetreffende vergunning uitsluitend berust op een verordening van een waterschap;
 de Wet algemene bepalingen omgevingsrecht, artikel 2.2 en artikel 2.3, aanhef en onder c;
 de Wet bescherming Antarctica, de artikelen 19, tweede lid, en 33;
-de Wet gewasbeschermingsmiddelen en biociden: de artikelen 20, tweede lid, 28, eerste lid, onderdeel e, 29, 71, 72, 73, 75, 76, 77, 78, tweede lid, en 115;
+de Wet gewasbeschermingsmiddelen en biociden: de artikelen 20, tweede lid, 28, eerste lid, onderdeel e, 29, 45, 71, 72, 73, 75, 76, 77, 78, tweede lid, en 115;
 de Wet inzake de luchtverontreiniging, artikel 92, onder a tot en met c;
 de Wet luchtvaart, de artikelen 6.60, eerste lid, 6.61, tweede lid, 6.61a, en 6.62, tweede lid;
 de Wet milieubeheer, de artikelen 10.23 – voor zover aangeduid als strafbare feiten –, 10.60, zesde lid, onder a en onder b, in verbinding met onderdeel a, en zevende lid, onder a, onder b, in verbinding met onderdeel a, en onder c en artikel 12.14, eerste en tweede lid;
