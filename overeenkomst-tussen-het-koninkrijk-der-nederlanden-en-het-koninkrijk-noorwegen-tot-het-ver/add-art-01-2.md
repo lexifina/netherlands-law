@@ -1,0 +1,3 @@
+# I
+1. Indien ingevolge de bepalingen van de Overeenkomst een inwoner van Nederland is vrijgesteld van of recht heeft op vermindering van Noorse belasting, is een soortgelijke vrijstelling of vermindering van toepassing ten aanzien van onverdeelde nalatenschappen van overleden personen voor zover een of meer van de begunstigden inwoner van Nederland is.
+2. Voor zover voordelen of inkomsten van een onverdeelde nalatenschap van een overleden persoon ingevolge de bepalingen van de Overeenkomst onderworpen zijn aan Noorse belasting en toekomen aan een begunstigde die inwoner van Nederland is, verleent Nederland een vermindering op de voet van artikel 23, tweede lid, van de Overeenkomst.

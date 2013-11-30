@@ -1,0 +1,2 @@
+# IB. Ad artikelen 1 en 26
+Indien vragen rijzen over de toepassing van de bepalingen van deze Overeenkomst met betrekking tot bestanddelen van het inkomen, winst of voordelen verkregen door of door tussenkomst van een persoon die fiscaal transparant is ingevolge de wetgeving van een van de Staten, stellen de bevoegde autoriteiten van de Staten in onderling overleg vast hoe dubbele belasting of dubbele vrijstelling van die bestanddelen van het inkomen, winst of voordelen wordt vermeden.

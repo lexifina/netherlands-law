@@ -1,0 +1,2 @@
+# IB. Ad Articles 1 and 26
+If questions arise regarding the application of the provisions of this Convention with respect to items of income, profits or gains derived by or through a person that is fiscally transparent under the laws of either State, then the competent authorities of the States shall in mutual agreement decide how double taxation or double exemption of such items of income, profits or gains will be avoided.

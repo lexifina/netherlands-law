@@ -1,0 +1,3 @@
+# XIV. Ad artikel 27
+1. De bepalingen van artikel 27 zijn van overeenkomstige toepassing op informatie die van belang is voor de uitvoering van inkomensgerelateerde voorschriften krachtens de wetgeving van een van de Staten door de autoriteiten van die Staat die belast zijn met de implementatie, toepassing of handhaving van deze inkomensgerelateerde voorschriften.
+2. Alle informatie die uit hoofde van het eerste lid juncto artikel 27 van deze Overeenkomst wordt ontvangen, wordt uitsluitend gebruikt ten behoeve van de vaststelling en heffing van de bijdragen en de vaststelling en toewijzing van de voordelen uit hoofde van de inkomensgerelateerde voorschriften bedoeld in het eerste lid.

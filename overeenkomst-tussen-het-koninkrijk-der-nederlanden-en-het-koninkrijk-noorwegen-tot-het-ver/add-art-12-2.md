@@ -1,0 +1,2 @@
+# XII. Ad Artikel 25
+Voor de toepassing van artikel 25, derde lid, zijn interest, royalty's en andere uitgaven, die door een onderneming van een van de Staten zijn gedaan en die kunnen worden toegerekend aan een vaste inrichting welke die onderneming in de andere Staat heeft, voor de berekening van de belastbare winst van die vaste inrichting onder dezelfde voorwaarden aftrekbaar als wanneer die vaste inrichting onder dezelfde voorwaarden aftrekbaar als wanneer die vaste inrichting een onderneming van die andere Staat zou zijn;

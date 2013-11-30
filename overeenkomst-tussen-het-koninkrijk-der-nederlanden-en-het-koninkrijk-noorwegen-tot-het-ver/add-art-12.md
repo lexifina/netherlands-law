@@ -1,0 +1,2 @@
+# XII. Ad Article 25
+For the purposes of the application of paragraph 3 of Article 25 interest, royalties and other expenses incurred by an enterprise of one of the States and attributable to a permanent establishment, which it has in the other State, are deductible for the computation of the taxable profits of such permanent establishment on the same conditions as if it were an enterprise of that other State.

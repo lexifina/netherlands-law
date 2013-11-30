@@ -1,0 +1,3 @@
+# I
+1. Where under the provisions of the Convention a resident of the Netherlands is exempt or entitled to relief from Norwegian tax, similar exemption or relief shall be applied to the undivided estates of deceased persons in so far as one or more of the beneficiaries is a resident of the Netherlands.
+2. In so fas as the income of an undivided estate of a deceased person under the provisions of the Convention is liable to Norwegian tax and accrues to a beneficiary who is a resident of the Netherlands, the Netherlands shall allow a reduction or deduction in conformity with the provisions of paragraph 2 of Article 23 of the Convention.
