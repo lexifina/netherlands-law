@@ -5,6 +5,8 @@
 ### § 1. Algemeen
 ### § 2. Verplichtingen van de fabrikant
 ### § 3. Verplichtingen van de groothandelaar
+## Hoofdstuk 3a. Fabrikanten en groothandelaars van werkzame stoffen
+## Hoofdstuk 3b. Bemiddelaars
 ## Hoofdstuk 4. De handelsvergunning voor geneesmiddelen
 ### § 1. De handelsvergunning
 ### § 2. Verplichtingen van de houder van een door het College verleende handelsvergunning
