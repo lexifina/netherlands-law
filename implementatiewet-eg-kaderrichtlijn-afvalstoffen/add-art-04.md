@@ -1,0 +1,3 @@
+# Artikel IV
+1. Het bij de inwerkingtreding van deze wet geldende afvalbeheersplan blijft gelden tot een nieuw afvalbeheerplan als bedoeld in artikel 10.3 van de Wet milieubeheer is vastgesteld, doch uiterlijk tot de dag waarop na de vaststelling van het geldende afvalbeheersplan een termijn van zes jaar is verstreken.
+2. Voor zover bij de inwerkingtreding van deze wet reeds geldende omgevingsvergunningen als bedoeld in artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht als gevolg van deze wet met betrekking tot het beheer van afvalstoffen wijziging behoeven, vindt deze wijziging bij de eerstvolgende wijziging van de vergunning plaats, doch uiterlijk drie jaar na de inwerkingtreding van deze wet.
