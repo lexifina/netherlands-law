@@ -1,0 +1,4 @@
+# Artikel 2a
+1. Openbare lichamen kunnen geldleningen slechts aangaan en verstrekken, dan wel de nakoming van uit geldleningen voortvloeiende verplichtingen ten aanzien van de betaling van rente en aflossing slechts garanderen, indien de geldleningen voldoen aan de daarvoor bij algemene maatregel van bestuur te stellen regels.
+2. Openbare lichamen kunnen derivaten hanteren of de ingevolge artikel 2, vierde lid, uitgezonderde middelen uitzetten indien deze derivaten of uitzettingen een prudent karakter hebben en niet zijn gericht op het genereren van inkomen door het lopen van overmatig risico. Bij regeling van Onze Ministers worden ter zake van de uitvoering van dit lid nadere regels gesteld.
+3. Openbare lichamen sluiten ten gunste van personeel of politieke ambtsdragers geen contracten met betrekking tot hypothecaire leningen of garanties op de verstrekking van hypothecaire leningen door financiële instellingen.
