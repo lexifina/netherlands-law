@@ -14,7 +14,7 @@
 ### Titel VI. Van de geldmiddelen
 #### § 1. Van de begroting
 #### § 2. Van het beheer en de rekening en verantwoording
-#### § 3. Van de inkomsten
+#### § 3. Middelen
 ### Titel VII. Van het toezicht op de Raad
 ## hoofdstuk Tweede. Van de bedrijfslichamen
 ### Titel I. Van de instelling en de taak
