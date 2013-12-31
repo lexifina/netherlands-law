@@ -1,0 +1,3 @@
+# Artikel 5a. Begrotingsvoorwaarde
+1) Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht.
+2) In geval van het niet vervullen van de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht, worden de verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting van het Ministerie van Onderwijs, Cultuur en Wetenschap ter beschikking staat, een en ander naar rato zoals vermeld in artikel 4.
