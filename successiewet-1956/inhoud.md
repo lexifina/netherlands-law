@@ -13,4 +13,4 @@
 ## Hoofdstuk X. Verjaring
 ## Hoofdstuk XI. Kwijtschelding
 ## Hoofdstuk XII. Bijzondere bepalingen
-## Hoofdstuk XIII. Slotbepalingen
+## Hoofdstuk XIII. Overgangs- en slotbepalingen
