@@ -20,6 +20,7 @@
 ### § 3. Bestuurlijke boete
 ### § 4. Strafrechtelijke handhaving
 ### § 6. Gidsen voor goede praktijken
+### § 7. Overig
 ## Hoofdstuk 9. Financiën
 ### § 1. Retributies
 ## Hoofdstuk 10. Overig

@@ -1,0 +1,2 @@
+# Artikel 75a
+Ingeval bij of krachtens deze wet regels worden gesteld ter uitvoering van het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109), kan overtreding van die regels ook als strafbaar feit worden aangemerkt dan wel worden bestraft met een bestuurlijke sanctie indien deze regels in de Engelse taal zijn gesteld en bekend gemaakt.

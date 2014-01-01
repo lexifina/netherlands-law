@@ -1,0 +1,2 @@
+# Artikel 13b
+Ingeval bij of krachtens deze wet wordt verwezen naar door de Voedsel- en Landbouworganisatie en de Wereldgezondheidsorganisatie tot stand gebrachte voedselstandaarden, codes voor goede praktijken of richtsnoeren, kan overtreding daarvan ook als strafbaar feit worden aangemerkt dan wel worden bestraft met een bestuurlijke sanctie indien deze voedselstandaarden, codes voor goede praktijken of richtsnoeren in de Engelse taal zijn gesteld en bekend gemaakt.
