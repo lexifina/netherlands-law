@@ -1,0 +1,4 @@
+# Artikel 67cc
+1. Indien het aan opzet van de belastingplichtige is te wijten dat in een verzoek om het vaststellen van een voorlopige aanslag of in een verzoek om herziening als bedoeld in artikel 9.5 van de Wet inkomstenbelasting 2001 en artikel 27 van de Wet op de vennootschapsbelasting 1969 onjuiste of onvolledige gegevens of inlichtingen zijn verstrekt, vormt dit een vergrijp ter zake waarvan de inspecteur hem een bestuurlijke boete kan opleggen van ten hoogste 100 percent van de in het tweede lid omschreven grondslag voor de boete.
+2. De grondslag voor de boete wordt gevormd door het bedrag aan belasting dat als gevolg van de onjuiste of onvolledige gegevens of inlichtingen ten onrechte is of zou zijn teruggegeven of ten onrechte niet is of zou zijn betaald.
+3. De bevoegdheid tot het opleggen van de boete, bedoeld in het eerste lid, vervalt vijf jaren na het tijdstip waarop het verzoek is gedaan.
