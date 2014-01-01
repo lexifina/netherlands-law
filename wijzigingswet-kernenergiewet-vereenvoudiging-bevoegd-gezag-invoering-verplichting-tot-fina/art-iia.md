@@ -1,0 +1,2 @@
+# Artikel IIa
+Artikel 1a, onder 1°, van de Wet op de economische delicten is voor wat betreft de zinsnede met betrekking tot artikel 15f, eerste en zesde lid, van de Kernenergiewet niet van toepassing op de houder van een vergunning als bedoeld in artikel 15, onder b, van de Kernenergiewet voor het buiten gebruik stellen van een inrichting waarin kernenergie kon worden vrijgemaakt, indien de inrichting op het tijdstip van inwerkingtreding van deze wet reeds buiten gebruik is gesteld.
