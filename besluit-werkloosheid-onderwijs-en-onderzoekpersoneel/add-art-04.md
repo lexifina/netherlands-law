@@ -1,5 +1,0 @@
-# Artikel IV. Het volgen van scholing
-De betrokkene die recht heeft op een ontslaguitkering als bedoeld in hoofdstuk I-H van het Rechtspositiebesluit onderwijspersoneel, het Rechtspositiebesluit KO/LO, het Rechtspositiebesluit WVO, de Rechtspositieregeling Vormingswerk voor jeugdigen, het B3-reglement onderwijs, hoofdstuk H van het Rechtspositiebesluit WLW, het Rijkswachtgeldbesluit en de Uitkeringsregeling, zal niet worden gekort op zijn uitkering wegens prijsgegeven inkomsten, zoals bedoeld in voornoemde regelingen in verband met ontslag op eigen verzoek uit een korttijdelijke betrekking waarvan de duur minder bedraagt dan 3 maanden of waarvan nog een duur resteert van minder dan 3 maanden, wegens het volgen van een opleiding of scholing, indien:
-a. de opleiding of scholing plaatsvindt op initiatief van de Arbeidsvoorzieningsorganisatie;
-b. de Arbeidsvoorzieningsorganisatie schriftelijk heeft verklaard dat de opleiding of scholing een reële kans op een nieuwe betrekking biedt;
-c. de opleiding of scholing niet langer duurt dan één kalenderjaar. Onze minister bepaalt in welke gevallen de termijn van één jaar wordt verlengd.

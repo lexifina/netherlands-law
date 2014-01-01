@@ -1,3 +1,0 @@
-# Artikel IId. Overgangsrecht bij samenloop van uitkeringen op grond van dit besluit
-1. Voor de betrokkene die op 31 december 1995 recht heeft op een uitkering op grond van artikel II, eerste lid, en daarnaast recht heeft op een werkloosheidsuitkering op grond van dit besluit, waarvan de uitkering op grond van artikel II, eerste lid, met ingang van 1 januari 1996 zou moeten worden beëindigd op grond van artikel 6, wordt desgevraagd artikel 1 van de ministeriële regeling op grond van artikel 6, zesde lid buiten toepassing gelaten.
-2. Een verzoek dient schriftelijk te worden ingediend bij de uitvoeringsorganisatie.

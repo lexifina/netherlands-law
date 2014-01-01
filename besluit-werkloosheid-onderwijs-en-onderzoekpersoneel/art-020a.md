@@ -1,2 +1,0 @@
-# Artikel 20a. Korting inkomsten uit of in verband met scholing
-Indien de betrokkene deelneemt aan een voor hem naar het oordeel van Onze minister noodzakelijke opleiding of scholing en het recht op uitkering op grond van artikel 35 blijft bestaan, worden op de uitkering 70% van de inkomsten uit of in verband met de opleiding of scholing in mindering gebracht, voor zover deze inkomsten meer bedragen dan een nader door Onze minister vast te stellen bedrag.

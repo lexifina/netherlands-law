@@ -1,2 +1,0 @@
-# Artikel IIb. Overgangsrecht termijn waarbinnen het recht op uitkering kan herleven
-In afwijking van het bepaalde in artikel 7, vierde lid, begint de termijn van anderhalf jaar op 1 januari 1996 voor de betrokkene die op 31 december 1995 reeds werkzaam was in de uitoefening van een bedrijf dan wel de zelfstandige uitoefening van een beroep. Voor de betrokkene, bedoeld in de vorige volzin, voor wie dit tot een gunstiger resultaat leidt herleeft de BWOO-uitkering binnen vier jaar na de aanvang van zijn uitkeringsrecht, doch uiterlijk op 31 december 1997.
