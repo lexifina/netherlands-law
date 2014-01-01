@@ -1,6 +1,0 @@
-# Artikel 11a
-1. In het geval het zich voor de inwerkingtredingsdatum van deze verordening laat aanzien dat op 1 januari 2013 het aantal vervulde vacatures van de Raad onvoldoende is om tot bevoegde besluitvorming te kunnen komen, wordt de Raad in afwijking van artikel 3 tijdelijk gevormd door:
-– de leden van het College Kwaliteitsonderzoek welke op grond van de Verordening Kwaliteitsonderzoek, zoals deze luidde voorafgaand aan de inwerkingtreding van deze verordening, tot lid van het College Kwaliteitsonderzoek waren benoemd; en
-– de leden van de Raad van Toezicht Beroepsuitoefening AA's welke op grond van de Verordening op de Raad voor Toezicht Beroepsuitoefening AA's, zoals deze luidde voorafgaand aan de inwerkingtreding van deze verordening, tot lid van de Raad van Toezicht Beroepsuitoefening AA's waren benoemd.
-2. In het geval van de toepassing van het eerste lid, is de Raad voor zover deze tijdelijk wordt gevormd door de leden van het College Kwaliteitsonderzoek uitsluitend belast met de uitvoering van de Verordening op de Kwaliteitstoetsing NIVRA.
-3. De leden van het College Kwaliteitsonderzoek worden op grond van het eerste lid afzonderlijk benoemd tot tijdelijk lid van de Raad.
