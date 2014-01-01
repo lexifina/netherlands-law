@@ -9,4 +9,8 @@ c. de wijze van beoordeling, toetsing en examinering van de studenten,
 d. de kwaliteit en kwantiteit van het ingezette personeel alsmede het personeelsbeleid dat van invloed is op de kwaliteit van de opleiding,
 e. de opleidingsspecifieke voorzieningen alsmede de instellingsbrede voorzieningen die van invloed zijn op de kwaliteit van de opleiding daaronder mede begrepen voldoende studiebegeleiding en voorzieningen die de toegankelijkheid en studeerbaarheid voor studenten met een functiebeperking bevorderen, en
 f. de opzet en organisatie van de interne kwaliteitszorg gericht op de systematische verbetering van de opleiding.
-3. Onverminderd het tweede lid, legt het accreditatieorgaan zijn werkwijze vast voor de toets nieuwe opleiding van de eerste opleiding die wordt verzorgd door een rechtspersoon die geaccrediteerde opleidingen wil verzorgen overeenkomstig de kaders, bedoeld in artikel 5a.8, eerste lid, en op grond van artikel 5a.9, derde lid.
+3. [Dit lid is nog niet in werking getreden.]
+4. Indien de toets nieuwe opleiding is aangevraagd voor een opleiding waaraan op het moment van de aanvraag nog geen feitelijk onderwijs wordt verzorgd en de opleiding wordt verzorgd door een instelling die niet beschikt over een instellingstoets kwaliteitszorg of een instellingstoets kwaliteitszorg onder voorwaarden, worden drie jaar nadat de toets nieuwe opleiding is verleend, de volgende aspecten van kwaliteit beoordeeld:
+a. het gerealiseerde niveau, gelet op hetgeen internationaal gewenst en gangbaar is, en
+b. de deugdelijkheid van beoordeling, toetsing en examinering van de studenten.
+5. Onverminderd het tweede lid, legt het accreditatieorgaan zijn werkwijze vast voor de toets nieuwe opleiding van de eerste opleiding die wordt verzorgd door een rechtspersoon die geaccrediteerde opleidingen wil verzorgen overeenkomstig de kaders, bedoeld in artikel 5a.8, eerste lid.
