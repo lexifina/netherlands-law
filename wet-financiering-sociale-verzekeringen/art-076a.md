@@ -1,3 +1,3 @@
 # Artikel 76a. Hoogte premie vrijwillige WIA verzekering
 1. De premie voor de vrijwillige verzekering op grond van de Wet werk en inkomen naar arbeidsvermogen wordt berekend over het dagloon, bedoeld in artikel 21, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen.
-2. De premie bedraagt een door het UWV te bepalen percentage van het in het eerste lid bedoelde dagloon, met dien verstande dat de premie niet meer bedraagt dan de in artikel 36 bedoelde basispremie, vermeerderd met een premieopslag die wordt berekend op grond van het in artikel 38, eerste lid, onderdeel a, bedoelde percentage.
+2. De premie bedraagt een door het UWV te bepalen percentage van het in het eerste lid bedoelde dagloon, met dien verstande dat de premie niet meer bedraagt dan de in artikel 36 bedoelde basispremie, vermeerderd met een premieopslag die wordt berekend op grond van het in artikel 38, tweede lid, onderdeel a, bedoelde percentage.

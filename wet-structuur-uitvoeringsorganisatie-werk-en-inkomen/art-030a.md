@@ -7,7 +7,7 @@ c. personen die ingezetene zijn als bedoeld in artikel 1:2 van de Wet werk en ar
 3. Het Uitvoeringsinstituut werknemersverzekeringen heeft de taak, bedoeld in het eerste lid, niet:
 a. ten aanzien van personen, bedoeld in het eerste lid, indien het Uitvoeringsinstituut werknemersverzekeringen met een college van burgemeester en wethouders overeenkomen dat het college verantwoordelijk is voor het ondersteunen van die personen bij arbeidsinschakeling als bedoeld in artikel 7, eerste lid, aanhef en onderdeel a, van de Wet werk en bijstand;
 b. ten aanzien van personen die een arbeidsongeschiktheidsuitkering ontvangen op grond van hoofdstuk 6 van de Wet werk en inkomen naar arbeidsvermogen;
-c. ten aanzien van de verzekerde, bedoeld in artikel 82, eerste en tweede lid, van de Wet werk en inkomen naar arbeidsvermogen, tenzij de artikelen 72, derde lid, of 84, tweede lid, van die wet van toepassing zijn;
+c. ten aanzien van de verzekerde, bedoeld in artikel 82, eerste en tweede lid, van de Wet werk en inkomen naar arbeidsvermogen, tenzij de artikelen 72, derde lid, of 84, tweede of achtste lid, van die wet van toepassing zijn en ten aanzien van de personen, bedoeld in artikel 63a van de Ziektewet, voor de betaling van het ziekengeld aan wie de eigenrisicodrager in de zin van de Ziektewet het risico draagt;
 d. indien artikel 72a van de Werkloosheidswet van toepassing is;
 e. ten aanzien van de werknemer, bedoeld in artikel 29b en artikel 29d van de Ziektewet;
 f. ten aanzien van de jonggehandicapte die volledig en duurzaam arbeidsongeschikt is in de zin van hoofdstuk 2 van de Wet werk en arbeidsondersteuning jonggehandicapten.
