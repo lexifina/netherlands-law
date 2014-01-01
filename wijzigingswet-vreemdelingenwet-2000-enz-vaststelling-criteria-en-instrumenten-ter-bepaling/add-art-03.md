@@ -1,0 +1,3 @@
+# Artikel III
+1. Vreemdelingen die onmiddellijk voorafgaande aan de inwerkingtreding van deze wet houder waren van een verblijfsrecht onder artikel 8, onderdeel m van de Vreemdelingenwet 2000, worden vanaf het tijdstip van inwerkingtreding van deze wet geacht houder te zijn van een verblijfsrecht onder artikel 8, onderdeel f van de Vreemdelingenwet 2000.
+2. Vreemdelingen die onder de reikwijdte van de Dublinverordening vallen en onmiddellijk voorafgaande aan de inwerkingtreding van deze wet in bewaring waren gesteld op grond van artikel 59, worden vanaf het tijdstip van inwerkingtreding van deze wet geacht in bewaring te zijn gesteld op grond van artikel 59a, tenzij de inbewaringstelling niet kan worden voortgezet wegens strijd met artikel 28 van de Dublinverordening.
