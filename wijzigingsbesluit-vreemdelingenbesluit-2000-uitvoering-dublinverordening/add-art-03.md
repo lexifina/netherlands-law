@@ -1,0 +1,3 @@
+# Artikel III
+1. Dit besluit treedt in werking met ingang van 1 januari 2014.
+2. De wet van 11 december 2013 tot wijziging van de Vreemdelingenwet 2000 en de Algemene wet bestuursrecht ter uitvoering van de verordening (EU) nr. 604/2013 van het Europees Parlement en de Raad van 26 juni 2013 tot vaststelling van de criteria en instrumenten om te bepalen welke lidstaat verantwoordelijk is voor de behandeling van een verzoek om internationale bescherming dat door een onderdaan van een derde land of een staatloze bij een van de lidstaten wordt ingediend (PbEU 2013, L 180) (Stb. 2013, 550) treedt in werking met ingang van 1 januari 2014.
