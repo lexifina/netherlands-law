@@ -1,0 +1,2 @@
+# Artikel 93a
+Een ieder die uit hoofde van de toepassing van artikel 45 van de Wet marktordening gezondheidszorg gegevens of inlichtingen ontvangt ten behoeve van de tijdige signalering van risico's voor het kunnen voldoen aan de verplichting, bedoeld in artikel 11, eerste lid, onderdeel a, is verplicht tot geheimhouding van deze gegevens, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht.
