@@ -1,2 +1,0 @@
-# Artikel 46c
-Indien de aanvrager door ernstige nalatigheid of opzettelijk onjuiste gegevens heeft ingediend bij de aanvraag tot subsidieverlening of subsidievaststelling of ernstig nalatig of opzettelijk anderszins onjuiste gegevens heeft verstrekt op grond van een andere regeling gebaseerd op titel II, hoofdstuk IX van de verordening (EG) nr. 1257/99 wordt de beschikking tot subsidievaststelling gewijzigd of ingetrokken op een zodanige wijze dat voor het betreffende kalenderjaar geen recht op een bijdrage bestaat.
