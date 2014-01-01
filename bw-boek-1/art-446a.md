@@ -1,0 +1,2 @@
+# Artikel 446a
+De bewindvoerder doet telkens na verloop van vijf jaren, of zo veel eerder als de kantonrechter bepaalt, aan deze verslag van het verloop van het bewind. Hij laat zich daarbij met name uit over de vraag of het bewind dient voort te duren dan wel of een minder ver, of een verder strekkende voorziening aangewezen is. Feiten die voor het bewind en het voortduren daarvan van betekenis zijn, deelt hij terstond aan de kantonrechter mede.
