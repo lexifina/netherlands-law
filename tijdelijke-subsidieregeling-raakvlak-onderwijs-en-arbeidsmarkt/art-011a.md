@@ -1,2 +1,0 @@
-# Artikel 11a. Algemene wet bestuursrecht/Algemene Regeling SZW-subsidies
-Afdeling 4.2.8 van de Algemene wet bestuursrecht en de Algemene regeling SZW-subsidies zijn niet van toepassing.
