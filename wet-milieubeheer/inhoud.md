@@ -148,14 +148,6 @@
 #### Afdeling 16.2.3. De overgang van broeikasgasemissierechten en andere eenheden
 #### Afdeling 16.2.4. Registratie van broeikasgasemissierechten en andere eenheden
 #### Afdeling 16.2.5. Instemming met deelname aan projectactiviteiten
-### Titel 16.3. Stikstofoxiden en NOx-emissierechten
-#### Afdeling 16.3.1. Algemeen
-#### Afdeling 16.3.2. Vergunning
-#### Afdeling 16.3.3. Het ontstaan van NOx-emissierechten
-#### Afdeling 16.3.4. De inlevering van NOx-emissierechten, het compenseren van emissies in een ander kalenderjaar en de geldigheid van NOx-emissierechten
-#### Afdeling 16.3.5. De overgang van NOx-emissierechten
-#### Afdeling 16.3.6. Registratie van NOx-emissierechten
-#### Afdeling 16.3.7. Overige bepalingen
 ## Hoofdstuk 17. Maatregelen in bijzondere omstandigheden
 ### Titel 17.1. Maatregelen bij een ongewoon voorval
 ### Titel 17.1A. Maatregelen betreffende afvalvoorzieningen
