@@ -11,6 +11,7 @@
 ### § 2a. Vakantie-uitkering
 ## Hoofdstuk IIA. Garantieregeling voor oudere arbeidsongeschikten, samenloop, verstrekkingen die onvervreemdbaar zijn en verstrekkingen die niet vatbaar zijn voor beslag
 ## Hoofdstuk IIB. Reïntegratie-instrumenten
+## Hoofdstuk IIC. Tegemoetkoming arbeidsongeschikten
 ## Hoofdstuk III. De uitvoering der verzekering
 ### § 1. Het Uitvoeringsinstituut werknemersverzekeringen
 ## Hoofdstuk V. Het verstrekken van inlichtingen
