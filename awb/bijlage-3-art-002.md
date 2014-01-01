@@ -10,7 +10,7 @@ a. de Wet op de dividendbelasting 1965
 b. de Wet op de omzetbelasting 1968
 c. de Wet op de belasting van personenauto's en motorrijwielen 1992
 d. de Wet op de accijns
-e. de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten
+e. de Wet op de verbruiksbelasting van alcoholvrije dranken
 f. de Wet belastingen op milieugrondslag
 Besluit administratieve bepalingen inzake het wegverkeer: hoofdstuk IV
 Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair onderwijs, voor zover het betreft besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap, dan wel Onze Minister van Economische Zaken

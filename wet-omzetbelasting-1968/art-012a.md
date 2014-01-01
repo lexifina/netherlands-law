@@ -1,2 +1,0 @@
-# Artikel 12a
-Indien ten onrechte gebruik is gemaakt van de uitzondering van artikel 11, eerste lid, onderdeel a, onder 2°, omdat degene aan wie de levering is verricht de onroerende zaak niet gebruikt voor doeleinden waarvoor een volledig of nagenoeg volledig recht op aftrek van belasting op de voet van artikel 15 bestaat, wordt de belasting die in verband met die levering door degene die de levering heeft verricht op de voet van artikel 15 in aftrek is gebracht, nageheven van degene aan wie de levering is verricht.
