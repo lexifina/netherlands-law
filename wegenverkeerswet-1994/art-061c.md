@@ -1,0 +1,4 @@
+# Artikel 61c
+1. Met het toezicht op de naleving van de uit de erkenning voortvloeiende verplichtingen zijn belast de bij besluit van de Dienst Wegverkeer aangewezen ambtenaren. Een zodanig besluit wordt bekend gemaakt door plaatsing in de Staatscourant.
+2. Degene aan wie een erkenning is verleend, is gehouden tot betaling, op de door de Dienst Wegverkeer vastgestelde wijze, van het door deze dienst ter zake van de kosten van het toezicht vastgestelde tarief.
+3. Bij ministeriële regeling worden nadere regels vastgesteld betreffende de wijze waarop het toezicht wordt gehouden en de verplichting tot medewerking daaraan van degene aan wie een erkenning is verleend. Deze regels kunnen inhouden dat een verscherpt toezicht wordt gehouden indien blijkt dat wordt gehandeld in strijd met een of meer uit de erkenning voortvloeiende verplichtingen.

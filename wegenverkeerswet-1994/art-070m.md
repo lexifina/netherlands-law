@@ -1,0 +1,2 @@
+# Artikel 70m
+Het is eenieder verboden om de tellerstand van bij algemene maatregel van bestuur vastgestelde categorieën motorrijtuigen die dienen te zijn ingeschreven en tenaamgesteld zodanig te wijzigen of te doen wijzigen of de werking van de kilometerteller zodanig te beïnvloeden of te doen beïnvloeden dat de op de teller aangegeven afstand niet overeenkomt met de door dat motorrijtuig werkelijk afgelegde afstand.
