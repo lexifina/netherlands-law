@@ -1,0 +1,4 @@
+# Artikel 36a
+1. Aan een geschrift als bedoeld in artikel 36, tweede lid, onder c, d, of e, dan wel artikel 36, derde lid, worden geen gegevens ontleend over het huwelijk of het geregistreerd partnerschap dat is gesloten tussen echtgenoten dan wel geregistreerde partners van wie ten minste één vreemdeling is, voordat het college van burgemeester en wethouders zich een door de korpschef in de zin van de Vreemdelingenwet 2000 afgegeven verklaring heeft doen overleggen.
+2. De verklaring, bedoeld in het eerste lid, is niet vereist indien voldaan is aan de eisen genoemd in artikel 25, vierde lid, onder b, c of d, van Boek 1 van het Burgerlijk Wetboek.
+3. Op de verklaring, bedoeld in het eerste lid, zijn de regels in en krachtens artikel 44, eerste lid, onder k, en derde lid, van Boek 1 van het Burgerlijk Wetboek van overeenkomstige toepassing.
