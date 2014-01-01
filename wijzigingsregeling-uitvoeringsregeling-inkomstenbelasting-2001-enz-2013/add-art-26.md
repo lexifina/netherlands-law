@@ -1,0 +1,2 @@
+# Artikel XXVI
+Op een verzoek om teruggaaf gedaan op de voet van artikel XXXIII, eerste lid, van Overige fiscale maatregelen 2013 zijn de artikelen 89, vierde lid, en 91 van de Wet belastingen op milieugrondslag zoals deze luidden op 31 december 2012 van toepassing. Voor de toepassing van artikel 87b, tweede lid, van de Wet belastingen op milieugrondslag zoals dit luidde op 31 december 2012 wordt het eerste kwartaal van het kalenderjaar 2013 aangemerkt als het betreffende tijdvak.
