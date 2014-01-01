@@ -6,12 +6,12 @@
 #### Paragraaf 1.2.2. Beschikkingen
 #### Paragraaf 1.2.3. Kosten ambtelijke werkzaamheden
 #### Paragraaf 1.2.4. Overige bepalingen inzake douanetoezicht en douanecontrole
-## Hoofdstuk 2. Bepalingen die op de in het douanegebied van de Gemeenschap binnengebrachte goederen van toepassing zijn tot deze een douanebestemming hebben gekregen
+## Hoofdstuk 2. Bepalingen die op de in het douanegebied van de Unie binnengebrachte goederen van toepassing zijn tot deze een douanebestemming hebben gekregen
 ### Afdeling 2.1. Formaliteiten met betrekking tot goederen en goederenverkeer
 ### Afdeling 2.2. Overige bepalingen
 ## Hoofdstuk 3. Verboden en beperkingen
 ## Hoofdstuk 4. Vrije zones en vrije entrepots
-## Hoofdstuk 5. Goederen die het douanegebied van de Gemeenschap verlaten
+## Hoofdstuk 5. Goederen die het douanegebied van de Unie verlaten
 ## Hoofdstuk 6. De begunstigde verrichtingen
 ## Hoofdstuk 7. Douaneschuld
 ### Afdeling 7.1. Zekerheidstelling voor het bedrag van de douaneschuld
