@@ -29,6 +29,7 @@
 ### Afdeling 4. De betaling van de uitkering
 ### Afdeling 5. Reïntegratie-instrumenten
 ### Afdeling 6. Het verstrekken van inlichtingen
+## Hoofdstuk 3A. Tegemoetkoming arbeidsongeschikten
 ## Hoofdstuk 4. De invloed van de verzekering op het burgerlijk recht
 ## Hoofdstuk 5. Financiering
 ## Hoofdstuk 6. Bepalingen in verband met de Algemene wet bestuursrecht en het beroep in cassatie
