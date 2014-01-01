@@ -44,9 +44,9 @@
 #### Paragraaf 3. Maatregelen van toezicht
 ### Afdeling 3. Bestuurlijke boete
 ## Hoofdstuk 5. Vrijheidsbeperkende en vrijheidsontnemende maatregelen
-## Hoofdstuk 6. Vertrek, uitzetting, inreisverbod en ongewenstverklaring
+## Hoofdstuk 6. Vertrek, uitzetting en overdracht, inreisverbod en ongewenstverklaring
 ### Afdeling 1. Vertrek
-### Afdeling 2. Uitzetting
+### Afdeling 2. Uitzetting en overdracht
 ### Afdeling 3. Inreisverbod
 ### Afdeling 4. Ongewenstverklaring
 ## Hoofdstuk 7. Rechtsmiddelen
