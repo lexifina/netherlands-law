@@ -1,0 +1,2 @@
+# Artikel III
+De verplichting tot het openbaar maken van informatie, bedoeld in artikel 1a, eerste lid, onderdeel j, van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994, is voor kerkgenootschappen alsmede hun zelfstandige onderdelen en lichamen waarin zij zijn verenigd die op grond van artikel 5b, zesde lid, derde volzin, van de Algemene wet inzake rijksbelastingen als algemeen nut beogende instelling worden aangemerkt, eerst van toepassing met ingang van 1 januari 2016.
