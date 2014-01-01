@@ -1,7 +1,7 @@
 # Artikel 84a. Verzelfstandiging van een vestiging
 1. Onze minister kan onder door hem te stellen voorwaarden een nevenvestiging, of een deel van een school of nevenvestiging dat zich op een andere locatie bevindt dan de plaats van vestiging van die school of nevenvestiging, als school voor bekostiging in aanmerking brengen.
 2. Een verzoek om een besluit als bedoeld in het eerste lid is met redenen omkleed en gaat vergezeld van:
-a. voor zover het betreft de nieuwe school, de gegevens, bedoeld in artikel 75, eerste lid, juncto artikel 75, derde lid, of de gegevens, bedoeld in artikel 76, tweede lid,
+a. voor zover het betreft de nieuwe school, de gegevens, bedoeld in artikel 75, eerste lid, juncto artikel 75, vijfde lid, of de gegevens, bedoeld in artikel 76, tweede lid,
 b. een prognose van het te verwachten aantal leerlingen op het overblijvende deel van de school met uitzondering van nevenvestigingen, of, indien van toepassing, op het overblijvende deel van de nevenvestiging, en
 c. een opgave van het aantal leerlingen dat op de teldatum voorafgaand aan het verzoek daadwerkelijk onderwijs volgde op het deel van de school waarop het verzoek betrekking heeft.
 3. Bij de berekening van het aantal leerlingen dat de nieuwe school zal bezoeken, wordt artikel 78 niet toegepast, voor zover het plaatsruimte betreft op de nieuwe school.
