@@ -1,5 +1,5 @@
 # Artikel 44a
-1. De burgemeester kan een bestuurlijke boete opleggen ter zake van overtreding binnen zijn gemeente van het bij of krachtens de artikelen 3, 4, 9, derde, vierde en vijfde lid, 12 tot en met 19, 20, eerste tot en met vijfde lid, 22, eerste en tweede lid, 24, 25, behoudens het derde lid, 25a tot en met 25d, 29, derde lid, 35, tweede en vierde lid, of 38 gestelde.
+1. De burgemeester kan een bestuurlijke boete opleggen ter zake van overtreding binnen zijn gemeente van het bij of krachtens de artikelen 3, 4, 9, derde, vierde en vijfde lid, 12 tot en met 19, 20, eerste tot en met vierde lid, 22, eerste en tweede lid, 24, 25, behoudens het derde lid, 25a tot en met 25d, 29, derde lid, 35, tweede en vierde lid, of 38 gestelde.
 2. De hoogte van de bestuurlijke boete wordt bepaald op de wijze als voorzien in de bijlage, met dien verstande dat de wegens een afzonderlijke overtreding te betalen geldsom ten hoogste € 100 000 bedraagt.
 3. Overtredingen kunnen, in afwijking van het eerste lid, niet met een bestuurlijke boete worden afgedaan, indien:
 a. de overtreding een direct gevaar voor de gezondheid of veiligheid van de mens tot gevolg heeft;
