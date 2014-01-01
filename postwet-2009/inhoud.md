@@ -6,6 +6,7 @@
 ### § 2.2. Klachtbehandeling door postvervoerbedrijven
 ### § 2.3. Arbeidsvoorwaarden
 ## Hoofdstuk 3. Onderlinge dienstverlening
+## Hoofdstuk 3a. Verplichtingen voor een postvervoerbedrijf dat beschikt over aanmerkelijke marktmacht
 ## Hoofdstuk 4. Universele postdienst
 ### § 4.1. Algemeen
 ### § 4.2. Aanwijzing verlener van universele postdienst

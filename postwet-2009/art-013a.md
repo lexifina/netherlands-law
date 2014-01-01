@@ -1,0 +1,2 @@
+# Artikel 13a
+Onder een postvervoerbedrijf dat beschikt over aanmerkelijke marktmacht wordt verstaan een postvervoerbedrijf dat alleen of tezamen met andere ondernemingen beschikt over een economische kracht op een in overeenstemming met de beginselen van het algemene Europese mededingingsrecht afgebakende markt voor postvervoerdiensten die het in staat stelt zich op deze markt in belangrijke mate onafhankelijk van zijn concurrenten, klanten en uiteindelijk consumenten te gedragen.

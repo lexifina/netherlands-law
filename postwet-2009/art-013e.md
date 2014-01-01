@@ -1,0 +1,5 @@
+# Artikel 13e
+1. De Autoriteit Consument en Markt kan de verplichting opleggen om te voldoen aan redelijke verzoeken tot door haar te bepalen vormen van toegang.
+2. Indien de Autoriteit Consument en Markt de verplichting, bedoeld in het eerste lid, oplegt, verleent het desbetreffende postvervoerbedrijf toegang onder gelijke omstandigheden onder gelijke voorwaarden, met dien verstande dat het postvervoerbedrijf in ieder geval gelijke voorwaarden toepast als die welke onder gelijke omstandigheden gelden voor haarzelf, haar dochterondernemingen of haar partnerondernemingen.
+3. De Autoriteit Consument en Markt kan aan de verplichting, bedoeld in het eerste lid, voorschriften verbinden betreffende billijkheid, redelijkheid en opportuniteit.
+4. Indien dit nodig is om toegang mogelijk te maken, kan de Autoriteit Consument en Markt technische of operationele voorschriften vaststellen die een postvervoerbedrijf dat toegang moet verlenen of een postvervoerbedrijf dat toegang heeft gekregen, in acht neemt.
