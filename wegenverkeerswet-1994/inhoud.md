@@ -33,12 +33,15 @@
 ### § 1. Kentekenplicht
 ### § 2. Kentekens
 ### § 3. Registratie van kentekens
-### § 4. Kentekenbewijzen
+### § 4a. Inschrijving in het kentekenregister en tenaamstelling
+### § 4b. Kentekenbewijzen
+### § 4c. Erkenningsregeling tenaamstelling
 ### § 5. Erkenningsregeling bedrijfsvoorraad
 ### § 5a. Erkenningsregeling exportdienstverlening
 ### § 6. Schorsing
 ### § 7. Kentekenplaten
 ## Hoofdstuk IVA. Registratie van fietsen en andere mobiele objecten
+## Hoofdstuk IVB. Tellerstanden
 ## Hoofdstuk V. Gebruik van voertuigen op de weg
 ### § 1. Algemene bepalingen
 ### § 2. Periodieke keuringsplicht
@@ -46,9 +49,10 @@
 ### § 4. Geldigheid keuringsbewijzen
 ### § 5. Erkenningsregeling periodieke keuring en regeling bevoegdheid tot keuren
 ### § 6. Herkeuring en deskundigenonderzoek
+### § 6a. Erkenningsregeling systemen, onderdelen, technische eenheden, uitrustingstukken en voorzieningen ter bescherming van weggebruikers en passagiers die niet dienen te zijn goedgekeurd voor de toelating tot het verkeer op de weg
 ### § 7. Wijziging in de constructie van voertuigen
 ### § 8. Erkenningsregeling wijziging constructie voertuigen
-### § 9. Keuring na ongeldigverklaring of invordering kentekenbewijs
+### § 9. Keuring na verval tenaamstelling
 ### § 9a. Erkenningsregeling keuring van schadevoertuigen
 ## Hoofdstuk VI. Rijvaardigheid en rijbevoegdheid
 ### Afdeling 1. Rijbewijsplicht
