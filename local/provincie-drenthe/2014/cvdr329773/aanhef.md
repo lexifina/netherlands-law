@@ -1,0 +1,37 @@
+# Aanhef
+1. Subsidies algemeen
+1.1. Subsidiekader
+1.2. Algemene criteria
+1.3. Europa
+2. SUBSIDIES VOOR NATUUR
+2.1. Realisatie natuur
+2.1.a. Subsidieregeling grondaankoop EHS
+2.1.b. Verplaatsingsregeling grondgebonden agrarische bedrijven
+2.1.c. Verplaatsingsregeling Drentse bedrijven
+2.1.d. Subsidieregeling kwaliteitsimpuls natuur en landschap
+2.2. Biodiversiteit
+2.3. Behoud, beheer en ontwikkeling van nationale parken
+2.4. Milieukwaliteit EHS, VHR en Natuurbeschermingsgebieden
+2.4.a. Verbetering van de waterkwaliteit in watergangen
+2.4.b. Herstel en behoud van bodemkwaliteit met betrekking tot verzuring en vermesting
+2.4.c. Herstel verdroogd gebied
+2.5. Instandhouding schaapskuddes
+3. SUBSIDIES VOOR LANDBOUW
+3.1. Grondgebonden landbouw
+3.1.a. Landinrichtingsafspraken
+3.1.b. Kavelruilfaciliteiten
+4. SUBSIDIES VOOR LANDSCHAP
+4.1. Nationaal Landschap
+4.1.a. Realisatie uitvoeringsprogramma Drentsche Aa
+4.2. Landschapsbehoud en ontwikkeling buiten het kader van het Uitvoeringsprogramma Nationaal Landschap
+4.2.a. Bosaanleg en landgoederen
+5. SUBSIDIES VOOR WATER
+5.1. Water bergen en vasthouden
+5.2. Synergieprojecten (KRW en WB21)
+5.3. Grondwater
+6. SUBSIDIES VOOR RECREATIE EN TOERISME EN DUURZAAM ONDERNEMEN
+6.1. Landelijke routenetwerken en toeristische infrastructuur
+6.2. Versterken toeristische voorzieningen
+6.3. Innovatie en samenwerking landbouw
+7. BIJLAGEN
+7.1. Subsidieregeling kwaliteitsimpuls natuur en landschap
