@@ -1,3 +1,3 @@
 # Artikel 63k
-1. De Autoriteit Financiële Markten kan ten behoeve van de samenwerking, bedoeld in artikel 63j, van een ieder inlichtingen vorderen, indien dat voor de vervulling van de taak van een toezichthoudende instantie in een staat die geen lidstaat is, nodig is.
-2. De artikelen 5:13 en 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.
+1. De Autoriteit Financiële Markten kan ten behoeve van de samenwerking, bedoeld in artikel 63j, van een ieder inlichtingen vorderen, indien dat voor de vervulling van de taak van een toezichthoudende instantie in een staat die geen lidstaat is, nodig is. De artikelen 5:13 en 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.
+2. Ten behoeve van de in het eerste lid bedoelde samenwerking beschikken de personen, bedoeld in artikel 49, eerste lid, over de bevoegdheden, genoemd in de artikelen 5:15, 5:16, 5:16a en 5:17 van de Algemene wet bestuursrecht. De artikelen 5:12, 5:13 en 5:20 van die wet zijn van overeenkomstige toepassing.
