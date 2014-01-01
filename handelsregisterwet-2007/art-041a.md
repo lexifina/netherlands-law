@@ -1,5 +1,5 @@
 # Artikel 41a
-1. De kamers stellen gezamenlijk een protocol op, dat betrekking heeft op:
+1. De Kamer stelt een protocol op, dat betrekking heeft op:
 a. de beschikbaarheid, werking en beveiliging van het handelsregister, bedoeld in artikel 4, tweede lid;
 b. de juistheid, actualiteit en volledigheid van het handelsregister, bedoeld in artikel 40, eerste lid;
 c. de controle, bedoeld in artikel 41, eerste lid;
