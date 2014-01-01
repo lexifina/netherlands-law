@@ -1,6 +1,6 @@
 # Artikel 18b
-1. Een op een eindloonstelsel gebaseerd partnerpensioen bedraagt per dienstjaar of ontbrekend dienstjaar niet meer dan 1,4 percent van het pensioengevend loon of bereikbare pensioengevend loon.
-2. Een op een middelloonstelsel gebaseerd partnerpensioen bedraagt per dienstjaar of ontbrekend dienstjaar niet meer dan 1,58 percent van het pensioengevend loon of bereikbaar pensioengevend loon.
+1. Een op een eindloonstelsel gebaseerd partnerpensioen bedraagt per dienstjaar of ontbrekend dienstjaar niet meer dan 1,33 percent van het pensioengevend loon of bereikbare pensioengevend loon.
+2. Een op een middelloonstelsel gebaseerd partnerpensioen bedraagt per dienstjaar of ontbrekend dienstjaar niet meer dan 1,51 percent van het pensioengevend loon of bereikbaar pensioengevend loon.
 3. Voor een op een beschikbare-premiestelsel gebaseerd partnerpensioen is artikel 18a, derde lid, van overeenkomstige toepassing.
 4. Ingeval in de pensioenregeling is rekening gehouden met:
 1°. een bepaalde partner, wordt gerekend met de feitelijke gegevens van die partner;
