@@ -1,0 +1,2 @@
+# Artikel 2a. Gelijkwaardigheidsbepaling
+Aan een norm als bedoeld in artikel 1, onderdelen f, j, of m, die is opgenomen in een voorschrift voor archiefbescheiden dat is gesteld in de hoofdstukken 2 of 3, behoeft niet te worden voldaan voor zover voor archiefbescheiden anders dan door toepassing van die norm tenminste dezelfde mate van duurzaamheid of geordende en toegankelijke staat wordt bereikt als is beoogd met het voorschrift waarin die norm is opgenomen.
