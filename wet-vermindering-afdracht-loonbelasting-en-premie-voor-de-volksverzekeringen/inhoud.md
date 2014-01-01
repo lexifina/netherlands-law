@@ -1,7 +1,6 @@
 # Inhoud
 ## Hoofdstuk I. Algemeen
 ## Hoofdstuk II. Verminderingen af te dragen loonbelasting en premie voor de volksverzekeringen
-## Hoofdstuk V. Afdrachtvermindering onderwijs
 ## Hoofdstuk VII. Afdrachtvermindering zeevaart
 ## Hoofdstuk VIII. S&O-afdrachtvermindering
 ## Hoofdstuk X. Bijzondere bepalingen inzake beroep en bevoegdheden
