@@ -1,6 +1,0 @@
-# Artikel 5a
-1. De voorzitter en de overige leden van het College wordt een vaste vergoeding per maand als bedoeld in artikel 2 eerste lid, van de Wet vergoedingen adviescolleges en commissies toegekend. De beloning bedraagt:
-a. 20,1% van de jaarwedde van het maximum van salarisschaal 18 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 voor de voorzitter;
-b. 12,9% van de jaarwedde van het maximum van salarisschaal 18 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 voor de overige leden.
-2. Indien de taakbelasting van een andere persoon die werkzaamheden voor het College verricht daartoe aanleiding geeft, kan aan deze persoon de vaste beloning als bedoeld in het eerste lid, onderdeel b, worden toegekend.
-3. De voorzitter, de overige leden van het College en andere personen die werkzaamheden voor het College verrichten, hebben recht op vergoeding wegens reis- en verblijfskosten. Het Reisbesluit binnenland is van overeenkomstige toepassing.
