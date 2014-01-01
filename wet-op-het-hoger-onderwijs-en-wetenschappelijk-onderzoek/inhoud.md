@@ -41,7 +41,7 @@
 #### Paragraaf 1. Aanmelding, studiekeuzeactiviteiten en studiekeuzeadvies
 #### Paragraaf 1a. Inschrijving
 #### Paragraaf 2. Eigen bijdragen
-#### Paragraaf 3. Centraal register inschrijving hoger onderwijs
+#### Paragraaf 3. Gebruik van persoonsgebonden nummer
 #### Paragraaf 4. Bijzondere bepalingen inschrijving
 #### Paragraaf 4a. Regels voor de selectie van studenten voor opleidingen met een toelatingsbeperking
 #### Paragraaf 5. Overige bepalingen

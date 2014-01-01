@@ -3,4 +3,4 @@
 a. het beoogde eindniveau, gelet op hetgeen internationaal gewenst of gangbaar is,
 b. de inhoud en opzet van het onderwijsprogramma, de kwaliteit en kwantiteit van het in te zetten personeel en de opleidingsspecifieke voorzieningen, en
 c. de wijze van beoordeling, toetsing en examinering van de studenten.
-2. De artikelen 5a.10a, eerste lid, 5a.11 en 5a.12, vijfde lid, zijn van overeenkomstige toepassing met dien verstande dat met de criteria worden bedoeld de criteria op grond van dit artikel.
+2. De artikelen 5a.10a, tweede lid, 5a.11 en 5a.12, vijfde lid, zijn van overeenkomstige toepassing met dien verstande dat met de criteria worden bedoeld de criteria op grond van dit artikel.
