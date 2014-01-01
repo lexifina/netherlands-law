@@ -2,7 +2,7 @@
 Tegen een uitspraak van de rechtbank of van de voorzieningenrechter omtrent een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan hoger beroep worden ingesteld bij het College van Beroep voor het bedrijfsleven.
 Aanbestedingswet 2012, artikel 4.21
 Aanbestedingswet op defensie- en veiligheidsgebied, artikel 3.8
-Bankwet 1998: artikel 6a
+Bankwet 1998: artikel 9c, eerste en tweede lid
 Burgerlijk Wetboek: de artikelen 63d, tweede lid, 156 en 266 van Boek 2
 Elektriciteitswet 1998: de artikelen 77h en 77i
 Gaswet: de artikelen 16, 60ac en 60ad
@@ -11,9 +11,10 @@ Invoerings- en aanpassingswet Pensioenwet
 Loodsenwet, met uitzondering van artikel 27f
 Mededingingswet, met uitzondering van artikel 49a, eerste lid, voor zover de aanvraag is afgewezen, en artikel 49c, tweede lid, voor zover de intrekking of wijziging geschiedt op de gronden, bedoeld in het eerste lid, onderdeel b of c, van dat artikel
 Meststoffenwet: artikel 51
+Muntwet 2002: artikel 11, eerste en tweede lid
 Overgangswet elektriciteitsproductiesector
 Pensioenwet
-Postwet 2009
+Postwet 2009, met uitzondering van hoofdstuk 3a
 Spoorwegwet
 Tabakswet
 Telecommunicatiewet, met uitzondering van:
@@ -24,6 +25,7 @@ c. alsmede, voor zover het betreft een besluit van de Autoriteit Consument en Ma
 2. de hoofdstukken 6A, 6B, en 12
 3. hoofdstuk 15, met uitzondering van een besluit op grond van de artikelen 15.2a en 15.4
 Warenwet
+Warmtewet: artikel 18
 Wet aanwijzing nationale accreditatie-instantie: hoofdstuk 3
 Wet bekostiging financieel toezicht
 Wet bestuurlijke boete meldingsplichten door ministers verstrekte subsidies, voor zover de boete is opgelegd ter zake van het niet voldoen aan een bijzondere meldingsplicht die is verbonden aan een krachtens de Kaderwet EZ-subsidies verstrekte subsidie

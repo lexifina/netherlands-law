@@ -1,5 +1,5 @@
 # Artikel 213ag
-1. De rechtbank spreekt het faillissement uit indien summierlijk blijkt dat zich een situatie, als bedoeld in artikel 213aa, eerste lid, voordoet.
+1. De rechtbank spreekt het faillissement uit indien summierlijk blijkt dat zich een situatie, als bedoeld in artikel 213a bis, eerste lid, voordoet.
 2. Ingeval De Nederlandsche Bank N.V. een overdrachtsplan als bedoeld in artikel 213ac heeft overgelegd, keurt de rechtbank het overdrachtsplan goed, tenzij de in het overdrachtsplan genoemde prijs of wijze waarop de prijs die de overnemer bereid is te betalen wordt vastgesteld, gegeven de omstandigheden van het geval, niet een redelijke prijs of wijze is. Bij het vaststellen of de prijs of wijze redelijk is wordt uitgegaan van het te verwachten toekomstperspectief van de verzekeraar in de situatie dat het overdrachtsplan niet wordt goedgekeurd.
 3. Onverminderd het tweede lid, keurt de rechtbank het plan met betrekking tot de overdracht van activa of passiva goed, tenzij schuldeisers daardoor zouden worden benadeeld.
 4. Bij het uitspreken van het faillissement benoemt de rechtbank een van haar leden tot rechter-commissaris en benoemt zij een of meer curatoren. De Nederlandsche Bank N.V. kan voor de benoeming van curatoren voordrachten doen.

@@ -2,7 +2,7 @@
 Tegen een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan beroep worden ingesteld bij de rechtbank Rotterdam.
 Aanbestedingswet 2012, artikel 4.21
 Aanbestedingswet op defensie- en veiligheidsgebied, artikel 3.8
-Bankwet 1998: artikel 6a
+Bankwet 1998: artikel 9c, eerste en tweede lid
 Burgerlijk Wetboek:
 a. Boek 2: de artikelen 63d, tweede lid, 156 en 266
 b. Boek 8: titel 6, afdeling 5
@@ -12,8 +12,9 @@ Gezondheids- en welzijnswet voor dieren: artikel 120b, eerste lid
 Invoerings- en aanpassingswet Pensioenwet
 Loodsenwet, met uitzondering van artikel 27f
 Mededingingswet, met uitzondering van artikel 49a, eerste lid, voor zover de aanvraag is afgewezen, en artikel 49c, tweede lid, voor zover de intrekking of wijziging geschiedt op de gronden, bedoeld in het eerste lid, onderdelen b of c, van dat artikel
+Muntwet 2002: artikel 11, eerste en tweede lid
 Pensioenwet
-Postwet 2009
+Postwet 2009, met uitzondering van hoofdstuk 3a
 Spoorwegwet, met uitzondering van artikel 19 en 21
 Tabakswet
 Telecommunicatiewet, met uitzondering van:
@@ -24,6 +25,7 @@ c. alsmede, voor zover het betreft een besluit van de Autoriteit Consument en Ma
 2. de hoofdstukken 6A, 6B en 12
 3. hoofdstuk 15, met uitzondering van de artikelen 15.2a en 15.4
 Warenwet
+Warmtewet: artikel 18
 Wet bekostiging financieel toezicht
 Wet bestrijding ongevallen Noordzee, voor zover het betreft een beschikking van Onze Minister, genomen op een verzoek om een tegemoetkoming als bedoeld in artikel 13, eerste lid
 Wet dieren: artikel 8.7

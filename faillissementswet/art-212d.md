@@ -8,7 +8,7 @@ a. de deelnemers het Nederlandse recht hebben gekozen als het recht dat op die o
 b. ten minste een van de deelnemers zijn hoofdvestiging in Nederland heeft.
 3. Een tussen interoperabele systemen gesloten overeenkomst vormt geen systeem.
 4. Aan de beschikking tot aanwijzing als systeem en aan de beschikking tot aanwijzing als systeemexploitant kan de Minister van Financiën voorschriften verbinden.
-5. De systeemexploitant stelt de Minister van Financiën in kennis van de instellingen die direct of indirect deelnemen aan het systeem, alsmede van elke aanvang of beëindiging van deelname door een instelling aan het systeem.
+5. De systeemexploitant stelt De Nederlandsche Bank N.V. in kennis van de instellingen die direct of indirect deelnemen aan het systeem, alsmede van elke aanvang of beëindiging van deelname door een instelling aan het systeem. De Nederlandsche Bank N.V. ontvangt de informatie namens de Minister van Financiën.
 6. Van een beschikking als bedoeld in het eerste lid wordt in de Staatscourant mededeling gedaan.
 7. De Minister van Financiën meldt de aangewezen systemen aan bij de Europese autoriteit voor effecten en markten.
 8. Een instelling deelt desgevraagd een ieder die een gerechtvaardigd belang heeft mee aan welke systemen de instelling deelneemt en verstrekt informatie over de belangrijkste regels die gelden voor de werking van die systemen.

@@ -1,6 +1,6 @@
 # Artikel 4. Beroep bij het College van Beroep voor het bedrijfsleven
 Tegen een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan beroep worden ingesteld bij het College van Beroep voor het bedrijfsleven.
-Een besluit van een bij of krachtens de Wet op de bedrijfsorganisatie ingesteld bestuursorgaan of van een kamer als bedoeld in artikel 1 van de Wet op de Kamers van koophandel en fabrieken 1997, met uitzondering van:
+Een besluit van een bij of krachtens de Wet op de bedrijfsorganisatie ingesteld bestuursorgaan of van de Kamer van Koophandel, genoemd in artikel 2 van de Wet op de Kamer van Koophandel, met uitzondering van:
 a. een besluit op grond van de Wet openbaarheid van bestuur
 b. een besluit ten aanzien van een ambtenaar als bedoeld in artikel 1 van de Ambtenarenwet als zodanig, zijn nagelaten betrekkingen of zijn rechtverkrijgenden
 Algemene douanewet: een beschikking ter zake van landbouwrestituties
@@ -24,7 +24,6 @@ Gemeentewet: artikel 125, voor zover het betreft een besluit dat betrekking heef
 Gezondheids- en welzijnswet voor dieren, met uitzondering van artikel 120b, eerste lid
 Hamsterwet
 Kaderwet EZ-subsidies
-Kaderwet LNV-subsidies
 Landbouwkwaliteitswet
 Landbouwwet: de artikelen 13, 15, 17 tot en met 22 en 26
 Loodsenwet: artikel 27f
@@ -33,6 +32,7 @@ Meststoffenwet, met uitzondering van artikel 51
 Metrologiewet
 Noodwet voedselvoorziening: de artikelen 6 tot en met 10 en 29, behoudens in geval van toepassing van artikel 18
 Plantenziektenwet
+Postwet 2009: hoofdstuk 3a
 Prijzennoodwet
 Prijzenwet
 Telecommunicatiewet, voor zover het betreft een besluit van de Autoriteit Consument en Markt, genomen op grond van:
@@ -44,6 +44,7 @@ Uitvoeringswet verordening Europese vennootschap: het verzet, bedoeld in de arti
 Verordening (EG) nr. 1435/2003 van de Raad van 22 juli 2003 betreffende het statuut voor een Europese Coöperatieve Vennootschap (SCE) (PbEU 2003, L 207): artikel 7, veertiende lid, tweede alinea
 Verordening (EG) nr. 2157/2001 van de Raad van 8 oktober 2001 betreffende het statuut van de Europese vennootschap (SE) (PbEG 2001, L 294): artikel 8, veertiende lid, tweede alinea
 Waarborgwet 1986
+Warmtewet, met inbegrip van een op grond van artikel 5, eerste lid, genomen besluit tot vaststelling van een maximumprijs, en met uitzondering van artikel 18
 Wedervergeldingswet zeescheepvaart:
 a. een verlening of weigering van een vergunning of een ontheffing
 b. een intrekking van een vergunning of een ontheffing krachtens artikel 7
