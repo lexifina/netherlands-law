@@ -22,6 +22,7 @@
 ## Hoofdstuk 7. Uitkering in verband met werkhervatting gedeeltelijk arbeidsgeschikten
 ### § 7.1. Bepalingen in verband met het recht op een WGA-uitkering
 ### § 7.2. De duur en hoogte van de WGA-uitkering
+## Hoofdstuk 7a. Tegemoetkoming arbeidsongeschikten
 ## Hoofdstuk 8. De aanvraag van de uitkering en de betaling van de uitkering door het UWV
 ### § 8.1. De aanvraag van de uitkering
 ### § 8.2. De betaling van de uitkering door het UWV
