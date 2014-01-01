@@ -13,6 +13,7 @@
 #### § 3. Maatregelen en bestuurlijke boeten
 ### Afdeling 3. De betaling van de uitkering
 ## Hoofdstuk 3A. Reïntegratie-instrumenten
+## Hoofdstuk 3B. Tegemoetkoming arbeidsongeschikten
 ## Hoofdstuk 4. De invloed van de verzekering op het burgerlijk recht
 ## Hoofdstuk 5. Het verstrekken van inlichtingen
 ## Hoofdstuk 7. Uitvoering
