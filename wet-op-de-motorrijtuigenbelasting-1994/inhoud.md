@@ -35,4 +35,5 @@
 ## Hoofdstuk VIII. Vrijstellingen
 ## Hoofdstuk IX. Controle
 ## Hoofdstuk X. Bijzondere bepalingen
+## Hoofdstuk Xa. Overgangsrecht oudere motorrijtuigen
 ## Hoofdstuk XI. Slotbepalingen

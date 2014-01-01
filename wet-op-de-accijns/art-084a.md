@@ -8,4 +8,4 @@ b. waarvoor een vrijstelling van accijns geldt.
 4. De accijns, bedoeld in het eerste lid, wordt geheven van de eigenaar van de in een opslagplaats voorhanden minerale oliën en moet op aangifte worden voldaan.
 5. In afwijking van artikel 10, tweede lid, van de Algemene wet inzake rijksbelastingen, wordt uiterlijk de vijfde werkdag na het ingaan van de verhoging aangifte gedaan van de hoeveelheden van de aan de accijns, bedoeld in het eerste lid, onderworpen onderscheiden minerale oliën.
 6. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de aangifte.
-7. De heffing van accijns als bedoeld in het eerste lid blijft achterwege indien de te heffen accijns niet meer bedraagt dan € 91.
+7. De heffing van accijns als bedoeld in het eerste lid blijft achterwege indien de te heffen accijns niet meer bedraagt dan € 250.
