@@ -1,10 +1,10 @@
 # Inhoud
 ## Hoofdstuk 1. Energiebesparing
 ### § 1. Begripsbepalingen
-### § 2. Meetinrichtingen voor levering van warmte of koude
-### § 3. Verbruiks- en indicatief kostenoverzicht van warmte en koude
+### § 2. Meetinrichtingen voor levering van koude
+### § 3. Verbruiks- en indicatief kosten overzicht van koude
 ### § 4. Informatieverstrekking over energie
-### § 5. Meetinrichtingen voor levering van elektriciteit en gas, facturering van en informatieverstrekking over elektriciteit en gas
+### § 5. Meetinrichtingen voor levering van elektriciteit, gas en warmte, facturering van en informatieverstrekking over elektriciteit en gas
 ### § 6. Monitoring
 ## Hoofdstuk 2. Energiebesparing energiegerelateerde producten
 ### § 1. Energiegerelateerde producten
