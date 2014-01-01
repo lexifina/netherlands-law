@@ -1,0 +1,7 @@
+# Artikel 6l
+Ten behoeve van de uitvoering van artikel 19a van de wet en deze paragraaf biedt de SVB aan de minister aan:
+a. voor 1 oktober voorafgaand aan enig kalenderjaar een op het aantal te verwachten indicaties gebaseerde begroting van de in artikel 6k bedoelde uitgaven en kosten, alsmede van de te verwachten ontvangsten. De begroting behoeft goedkeuring van de minister;
+b. voor 1 oktober van het jaar voorafgaand aan het kalenderjaar een aanvraag om een voorschot ten behoeve van komend kalenderjaar. De minister stelt de hoogte van het voorschot vast;
+c. voor 1 maart van het lopende kalenderjaar een tussentijdse rapportage over het lopende kalenderjaar over de in artikel 6k, eerste en tweede lid, gerealiseerde uitgaven en kosten ten opzichte van de verstrekte voorschotten;
+d. voor 15 juli een jaarrekening, een activiteitenverslag en een aanvraag tot vaststelling, bestaande uit een financiële verantwoording van de in artikel 6k bedoelde uitgaven, kosten en ontvangsten van het vorige kalenderjaar. De minister stelt de hoogte van het definitieve bedrag van de uitkeringen en uitvoeringskosten vast;
+e. voor 15 juli van het jaar volgend op het kalenderjaar een verklaring van de accountant van de SVB overeenkomstig een door de minister vastgestelde modelverklaring. Ten behoeve van de accountantscontrole van de rechtmatigheid, met inbegrip van de getrouwheid, stelt de minister een controleprotocol vast.
