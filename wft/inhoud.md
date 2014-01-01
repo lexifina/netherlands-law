@@ -4,7 +4,7 @@
 #### Afdeling 1.1.1. Definities
 #### Afdeling 1.1.2. Reikwijdte met betrekking tot financiële ondernemingen
 ##### § 1.1.2.1. Algemeen
-##### § 1.1.2.2. Betaaldienstverleners, clearinginstellingen, elektronischgeldinstellingen en banken
+##### § 1.1.2.2. Afwikkelondernemingen, betaaldienstverleners, clearinginstellingen, elektronischgeldinstellingen en banken
 ##### § 1.1.2.2a. Betaaldiensten
 ##### § 1.1.2.3. Verzekeraars
 ##### § 1.1.2.4. Beleggingsinstellingen en icbe's
@@ -42,10 +42,14 @@
 #### Afdeling 1.6.1. Vergunningen
 #### Afdeling 1.6.1a. Verklaringen van geen bezwaar als bedoeld in artikel 3:95 en 3:96
 #### Afdeling 1.6.2. Registratie
+### Hoofdstuk 1.7. Overeenkomstige toepassing bevoegdheden aanpassing en terugvordering bonussen bij financiële ondernemingen
 ### Hoofdstuk 1.8. Beloningen van dagelijks beleidsbepalers bij steunmaatregelen
 ## 2. Deel Markttoegang Financiële Ondernemingen
 ### Hoofdstuk 2.1. Inleidende bepalingen
 ### Hoofdstuk 2.2. Toegang tot de Nederlandse financiële markten
+#### Afdeling 2.2.a1. Uitoefenen van bedrijf van afwikkelonderneming
+##### § 2.2.a1.1. Vergunningplicht en -eisen voor afwikkelondernemingen met zetel in Nederland
+##### § 2.2.a1.2. Bijkantoor en verrichten van diensten door afwikkelondernemingen met zetel buiten Nederland
 #### Afdeling 2.2.0. Uitoefenen van bedrijf van betaaldienstverlener
 ##### § 2.2.0.1. Vergunningplicht en -eisen voor betaaldienstverleners met zetel in Nederland
 ##### § 2.2.0.2. Vrijstelling
@@ -55,7 +59,7 @@
 ##### § 2.2.1.1. Vergunningplicht en -eisen voor clearinginstellingen met zetel in Nederland
 ##### § 2.2.1.2. Bijkantoor en verrichten van diensten door clearinginstellingen met zetel buiten Nederland
 #### Afdeling 2.2.1.a. Uitoefenen van bedrijf van elektronischgeldinstelling
-##### § 2.2.1a.1. Vergunningplicht en eisen voor elektronischgeldinstellingen met zetel in Nederland
+##### § 2.2.1a.1. Vergunningplicht en -eisen voor elektronischgeldinstellingen met zetel in Nederland
 ##### § 2.2.1a.2. Vrijstelling
 ##### § 2.2.1a.3. Bijkantoren en agenten van en verrichten van diensten door elektronischgeldinstellingen met zetel in een andere lidstaat
 ##### § 2.2.1a.4. Elektronischgeldinstellingen met zetel in een staat die geen lidstaat is
@@ -117,6 +121,8 @@
 ##### § 2.2.12.3. Vrijstelling
 #### Afdeling 2.2.13. Bijzondere bepalingen
 ### Hoofdstuk 2.3. Toegang tot de buitenlandse financiële markten
+#### Afdeling 2.3a.1. Uitoefenen van het bedrijf van afwikkelonderneming bijkantoor buiten Nederland
+##### § 2.3a.1.1. Bijkantoor buiten Nederland
 #### Afdeling 2.3.0. Uitoefenen van bedrijf van betaaldienstverlener
 ##### § 2.3.0.1. Bijkantoor en verrichten van diensten door een betaalinstelling naar een andere lidstaat
 #### Afdeling 2.3.1. Uitoefenen van bedrijf van clearinginstelling
@@ -175,6 +181,8 @@
 ##### § 3.3.6.1. Financiële ondernemingen met zetel in Nederland
 ##### § 3.3.6.2. Financiële ondernemingen met zetel in een staat die geen lidstaat is
 ##### § 3.3.6.3. Financiële ondernemingen met zetel in een niet-aangewezen staat
+#### Afdeling 3.3.6a. Kapitaalbuffer
+##### § 3.3.6a.1. Financiële ondernemingen met zetel in Nederland
 #### Afdeling 3.3.7. Liquiditeit
 ##### § 3.3.7.1. Financiële ondernemingen met zetel in Nederland
 ##### § 3.3.7.2. Financiële ondernemingen met zetel in een andere lidstaat
@@ -189,6 +197,7 @@
 ##### § 3.3.9.2. Financiële ondernemingen met zetel in een andere lidstaat
 ##### § 3.3.9.3. Financiële ondernemingen met zetel in een staat die geen lidstaat is
 ##### § 3.3.9.4. Financiële ondernemingen met zetel in een niet-aangewezen staat
+##### § 3.3.9.5. Financiële ondernemingen met zetel buiten Nederland
 #### Afdeling 3.3.10. Meldingsplichten van de accountant en de actuaris
 ##### § 3.3.10.1. Financiële ondernemingen met zetel in Nederland
 ##### § 3.3.10.2. Financiële ondernemingen met zetel in een andere lidstaat
@@ -232,8 +241,10 @@
 #### Afdeling 3.5.6. Beleggerscompensatiestelsel en depositogarantiestelsel
 ##### § 3.5.6.1. Financiële ondernemingen met zetel in Nederland
 ##### § 3.5.6.1a. Uitvoering van de vangnetregeling in de noodregeling
+##### § 3.5.6.1b. Van rechtswege verrekening van bankspaardeposito's eigen woning
 ##### § 3.5.6.2. Financiële ondernemingen met zetel in een andere lidstaat
 ##### § 3.5.6.3. Financiële ondernemingen met zetel in een staat die geen lidstaat is
+#### Afdeling 3.5.6a. Beleggingsbeginselen en beleggingsbeleid van afwikkelondernemingen
 #### Afdeling 3.5.7. Beleggingsbeginselen en beleggingsbeleid van premiepensioeninstellingen
 #### Afdeling 3.5.8. Rechten wederpartij na een gebeurtenis
 ### Hoofdstuk 3.6. Aanvullende bepalingen ten aanzien van financiele groepen
@@ -242,9 +253,8 @@
 #### Afdeling 3.6.2. Geconsolideerd toezicht op banken, beleggingsondernemingen, betaalinstellingen en elektronischgeldinstellingen
 #### Afdeling 3.6.3. Aanvullend toezicht op herverzekeraars, levensverzekeraars en schadeverzekeraars in een verzekeringsgroep
 #### Afdeling 3.6.4. Prudentieel toezicht op financiële conglomeraten
-##### § 3.6.4.1. Inleidende bepalingen
-##### § 3.6.4.2. De coördinator, samenwerking en handhaving
-##### § 3.6.4.3. Regels voor het werkzaam zijn als financieel conglomeraat
+##### § 3.6.4.1. Regels betreffende het toezicht op financiële conglomeraten
+##### § 3.6.4.2. Regels voor het werkzaam zijn als financieel conglomeraat
 ## 4. Deel Gedragstoezicht financiële ondernemingen
 ### Hoofdstuk 4.1. Inleidende bepalingen
 #### Afdeling 4.1.1. Reikwijdte
@@ -255,6 +265,7 @@
 #### Afdeling 4.2.2. Structurering en inrichting
 #### Afdeling 4.2.3. Zorgvuldige dienstverlening
 #### Afdeling 4.2.4. Meldingsplichten
+#### Afdeling 4.2.4a. Instemmingvereiste
 #### Afdeling 4.2.5. Overeenkomsten op afstand
 ### Hoofdstuk 4.3. Aanvullende regels voor het werkzaam zijn op de financiële markten betreffende bepaalde financiële diensten
 #### Afdeling 4.3.1. Aanbieden
@@ -274,6 +285,7 @@
 ##### § 4.3.3.2. Krediet
 ##### § 4.3.3.3. Verzekeringen
 #### Afdeling 4.3.4. Herverzekeringsbemiddelen
+#### Afdeling 4.3.4a. Verlenen van afwikkeldiensten
 #### Afdeling 4.3.5. Optreden als clearinginstelling
 #### Afdeling 4.3.6. Optreden als gevolmachtigde agent of ondergevolmachtigde agent
 #### Afdeling 4.3.7. Verlenen van beleggingsdiensten, verrichten van beleggingsactiviteiten en systematische interne afhandeling
