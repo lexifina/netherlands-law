@@ -1,0 +1,2 @@
+# Artikel 4a
+Voorlichting- en afzetbevorderingsacties voor landbouwproducten, de productiewijze daarvan, en voedingsmiddelen als bedoeld in Verordening (EG) nr. 3/2008 van de Raad van 17 december 2007 inzake voorlichtings- en afzetbevorderingsacties voor landbouwproducten op de binnenmarkt en in derde landen (PbEU nr. L 3), geschieden overeenkomstig het bepaalde in die verordening en alsmede overeenkomstig ter uitvoering daarvan door de Raad van Ministers van de Europese Unie vastgestelde of vast te stellen verordeningen.
