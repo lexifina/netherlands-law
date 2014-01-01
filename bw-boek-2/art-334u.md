@@ -10,6 +10,6 @@ d. wegens het niet naleven van artikel 334m lid 5.
 a. indien het verzuim binnen een door de rechter te bepalen termijn is hersteld;
 b. indien de reeds ingetreden gevolgen van de splitsing bezwaarlijk ongedaan kunnen worden gemaakt.
 5. Heeft de eiser tot vernietiging van de splitsing schade geleden door een verzuim dat tot vernietiging had kunnen leiden, en vernietigt de rechter de splitsing niet, dan kan de rechter de verkrijgende rechtspersonen en de voortbestaande gesplitste rechtspersoon veroordelen tot vergoeding van de schade. De rechtspersonen hebben daarvoor verhaal op de schuldigen aan het verzuim en, tot ten hoogste het genoten voordeel, op degenen die door het verzuim zijn bevoordeeld.
-6. De vernietiging wordt, door de zorg van de griffier van het gerecht waar de vordering laatstelijk aanhangig was, ingeschreven in het handelsregister waarin de splitsing ingevolge artikel 334n lid 3 moet zijn ingeschreven.
+6. De vernietiging wordt, door de zorg van de griffier van het gerecht waar de vordering laatstelijk aanhangig was, ingeschreven in het handelsregister.
 7. De gesplitste rechtspersoon is naast de betrokken verkrijgende rechtspersoon hoofdelijk verbonden tot nakoming van verbintenissen die ten laste van de verkrijgende rechtspersonen zijn ontstaan na de splitsing en voordat de vernietiging in de registers is ingeschreven.
 8. De onherroepelijke uitspraak tot vernietiging van een splitsing is voor een ieder bindend. Verzet door derden en herroeping zijn niet toegestaan.
