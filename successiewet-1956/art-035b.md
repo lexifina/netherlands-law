@@ -1,10 +1,10 @@
 # Artikel 35b
 1. Indien tot de verkrijging ondernemingsvermogen behoort als bedoeld in artikel 35c, dat wordt verkregen in het kader van een bedrijfsopvolging als bedoeld in het vijfde lid, wordt op verzoek van de verkrijger een voorwaardelijke vrijstelling verleend van:
-a. indien de totale waarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft € 1 028 132 niet te boven gaat: 100%;
+a. indien de totale waarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft € 1.045.611 niet te boven gaat: 100%;
 b. in alle overige gevallen:
 1°. indien de liquidatiewaarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft hoger is dan de waarde going concern: 100 percent van het verschil tussen liquidatiewaarde en lagere waarde going concern;
-2°. voor zover de totale waarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft, na toepassing van hetgeen is bepaald onder 1°, € 1 028 132 niet te boven gaat: 100%, en
-3°. voor zover de totale waarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft, na toepassing van hetgeen is bepaald onder 1°, € 1 028 132 te boven gaat: 83%.
+2°. voor zover de totale waarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft, na toepassing van hetgeen is bepaald onder 1°, € 1.045.611 niet te boven gaat: 100%, en
+3°. voor zover de totale waarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft, na toepassing van hetgeen is bepaald onder 1°, € 1.045.611 te boven gaat: 83%.
 Bij ministeriële regeling worden regels gesteld met betrekking tot hetgeen voor de toepassing van dit artikel wordt verstaan onder een objectieve onderneming. Daarbij kan worden bepaald in hoeverre tot die objectieve onderneming tevens worden gerekend vermogensbestanddelen die worden ter beschikking gesteld aan een samenwerkingsverband en vermogensbestanddelen als bedoeld in artikel 35c, eerste lid, onderdeel d.
 2. Op verzoek van de verkrijger wordt voorts de waarde van het verkregen ondernemingsvermogen na aftrek van het bedrag van de voorwaardelijke vrijstelling aangemerkt als geconserveerde waarde, dit met het oog op de toepassing van artikel 25, twaalfde lid, van de Invorderingswet 1990.
 3. De belasting over de geconserveerde waarde wordt bepaald op het verschil tussen de belasting over de belaste verkrijging en de belasting over de belaste verkrijging verminderd met deze geconserveerde waarde.
