@@ -1,2 +1,0 @@
-# Artikel 5a
-De medisch adviseur scheepvaart van Onze Minister of diens plaatsvervanger kan ontheffing verlenen van de eis dat de registerloods voldoet aan de medische eisen betreffende het gezichtsorgaan, vastgesteld krachtens artikel 106, eerste lid, van het Besluit zeevarenden handelsvaart en zeilvaart, indien bijzondere omstandigheden hiertoe noodzaken en een veilige dienstverlening door de registerloods gewaarborgd is. Aan deze ontheffing kunnen voorschriften en beperkingen worden verbonden.

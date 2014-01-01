@@ -1,2 +1,0 @@
-# Artikel III
-Artikel 8, eerste lid, onder f, van het Besluit certificaatloodsen, zoals dit onderdeel luidde voor de inwerkingtreding van dit besluit, blijft van toepassing ten aanzien van degene aan wie voor de datum van inwerkingtreding van dit besluit een A- of B-certificaat is afgegeven, alsmede ten aanzien degene die voor de datum van inwerkingtreding van dit besluit een aanvraag heeft gedaan voor het afleggen van een examen als certificaatloods.
