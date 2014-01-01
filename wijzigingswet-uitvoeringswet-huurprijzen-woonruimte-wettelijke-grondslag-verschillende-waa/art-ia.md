@@ -1,0 +1,2 @@
+# Artikel Ia
+De op het tijdstip van inwerkingtreding van artikel I, onderdeel Aa, van deze wet bij de huurcommissie aanhangige verzoeken als bedoeld in artikel 9a, eerste lid, van de Uitvoeringswet huurprijzen woonruimte, zoals dat lid laatstelijk luidde voor de inwerkingtreding van artikel I, onderdeel Aa, van deze wet, worden behandeld met toepassing van dat lid, zoals dat laatstelijk luidde voor de inwerkingtreding van artikel I, onderdeel Aa, van deze wet.

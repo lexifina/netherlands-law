@@ -1,0 +1,2 @@
+# Artikel If
+Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zendt binnen drie jaar na de datum, genoemd in artikel IE, en vervolgens telkens na drie jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van de op grond van artikel 10, eerste lid, van de Uitvoeringswet huurprijzen woonruimte gegeven regels omtrent de energieprestatie van de woonruimte, zoals die komen te luiden na de inwerkingtreding van deze wet.
