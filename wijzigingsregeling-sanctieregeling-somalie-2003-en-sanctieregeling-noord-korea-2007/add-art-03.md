@@ -1,0 +1,2 @@
+# Artikel III
+Het verbod, bedoeld in artikel 1b van de Sanctieregeling Noord-Korea 2007, zoals gewijzigd bij deze regeling, geldt niet voor het aanbieden van kennis als bedoeld in dat artikel aan de student die op het tijdstip van inwerkingtreding van deze regeling reeds bij de desbetreffende instelling voor hoger onderwijs was ingeschreven met het oog op het volgen van onderwijs of het verrichten van onderzoek op een kennisgebied waarop de bijlage bij die regeling betrekking heeft.
