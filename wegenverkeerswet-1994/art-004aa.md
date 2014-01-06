@@ -8,7 +8,7 @@ e. het opleggen en uitvoeren van het alcoholslotprogramma;
 f. het schorsen van de geldigheid van rijbewijzen;
 g. het ongeldig verklaren van rijbewijzen;
 h. het verlenen van ontheffingen als bedoeld in artikel 149, tweede lid;
-i. het afgeven van gehandicaptenparkeerkaarten aan aanvragers die niet zijn ingeschreven in de basisadministratie persoonsgegevens van een gemeente;
+i. het afgeven van gehandicaptenparkeerkaarten aan aanvragers die niet als ingezetene zijn ingeschreven in de basisregistratie personen;
 j. het beoordelen van de vakbekwaamheid van bestuurders in het goederen- en personenvervoer over de weg;
 k. het erkennen van opleidingscentra voor het verrichten van nascholing en het certificeren van cursussen met betrekking tot vakbekwaamheid bestuurders goederen- en personenvervoer over de weg en het registreren van nascholing;
 l. het houden van toezicht op de naleving van de verplichtingen die voortvloeien uit de in onderdeel k bedoelde erkenningen;
