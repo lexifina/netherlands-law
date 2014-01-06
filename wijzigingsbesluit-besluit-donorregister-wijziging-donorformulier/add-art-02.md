@@ -1,0 +1,2 @@
+# Artikel II
+Vóór de datum van inwerkingtreding van dit besluit aan de ingezetenen, bedoeld in Wet gemeentelijke basisadministratie persoonsgegevens, zoals deze luidde op de dag voorafgaand aan de inwerkingtreding van de Wet basisregistratie personen, toegezonden donorformulieren en donorformulieren die vóór deze datum in omloop zijn, kunnen ook na inwerkingtreding van dit besluit worden gebruikt om in het donorregister aantekening te maken van de wilsbeschikking omtrent orgaandonatie van betrokkene.
