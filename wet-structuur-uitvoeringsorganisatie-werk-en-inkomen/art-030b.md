@@ -10,4 +10,3 @@ d. vreemdelingen die behoren tot een bij algemene maatregel van bestuur aangewez
 a. op verzoek van de betrokkene;
 b. indien een termijn als bedoeld in het derde lid is verstreken zonder dat de betrokkene een verzoek tot verlenging van de termijn heeft gedaan.
 5. Iedere werkgever heeft het recht bij het Uitvoeringsinstituut werknemersverzekeringen vacatures te laten registreren. Het Uitvoeringsinstituut werknemersverzekeringen stelt regels met betrekking tot deze registratie.
-6. Het Uitvoeringsinstituut werknemersverzekeringen neemt in de in dit artikel bedoelde registratie het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van de geregistreerde werkzoekende op.

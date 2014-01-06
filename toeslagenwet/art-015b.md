@@ -1,5 +1,5 @@
 # Artikel 15b
-1. Het Uitvoeringsinstituut werknemersverzekeringen schort de betaling van de toeslag op, indien blijkt dat het door de toeslaggerechtigde verstrekte adres van hemzelf, van zijn echtgenoot of van een kind afwijkt van het adres waaronder de betrokkene in de gemeentelijke basisadministratie persoonsgegevens staat ingeschreven.
+1. Het Uitvoeringsinstituut werknemersverzekeringen schort de betaling van de toeslag op, indien blijkt dat het door de toeslaggerechtigde verstrekte adres van hemzelf, van zijn echtgenoot of van een kind afwijkt van het adres waaronder de betrokkene in de basisregistratie personen staat ingeschreven.
 2. Geen opschorting vindt plaats:
 a. indien de afwijking redelijkerwijs geen gevolgen kan hebben voor het recht op of de hoogte van de uitkering;
 b. indien de toeslaggerechtigde van de afwijking redelijkerwijs geen verwijt kan worden gemaakt.
