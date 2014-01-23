@@ -1,0 +1,2 @@
+# Artikel X
+De Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 3 maart 2013, nr. VO/488391, tot wijziging van de Regeling regionaal zorgbudget, subsidie regionale verwijzingscommissies voortgezet onderwijs en reboundvoorzieningen in verband met de vaststelling van het regionaal zorgbudget en de subsidie voor RVC's voor 2013, en tot vaststelling van de aanvullende bekostiging van reboundvoorzieningen voor 2013 (Stcrt. 2013, 6587) vervalt met ingang van 1 januari 2015.
