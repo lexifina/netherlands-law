@@ -34,6 +34,7 @@ Wet geneesmiddelenprijzen: artikel 11
 Wet gewasbeschermingsmiddelen en biociden: artikel 90
 Wet handhaving consumentenbescherming
 Wet implementatie EU-richtlijnen energie-efficiëntie: de artikelen 21 en 22
+Wet inkomstenbelasting 2001: een boetebesluit als bedoeld in artikel 3.52a, elfde lid, en een daarmee samenhangende correctie-RDA-beschikking als bedoeld in het tweede lid van dit artikel
 Wet inzake de geldtransactiekantoren, voor zover die wet nog van toepassing is op grond van artikel IX van de Wijzigingswet financiële markten 2012
 Wet luchtvaart, de artikelen 8.25f, eerste lid, en 8.25g, eerste lid
 Wet marktordening gezondheidszorg, voor zover het betreft beschikkingen van de Nederlandse Zorgautoriteit als bedoeld in paragraaf 4 van hoofdstuk 6

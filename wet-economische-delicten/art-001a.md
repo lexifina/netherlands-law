@@ -41,6 +41,7 @@ de Visserijwet 1963, de artikelen 2a, 3 en 3a, voor zover de overtreding van die
 de Waterwet, artikel 6.24, tweede lid, tenzij de desbetreffende vergunning uitsluitend berust op een verordening van een waterschap;
 de Wet algemene bepalingen omgevingsrecht, artikel 2.2 en artikel 2.3, aanhef en onder c;
 de Wet bescherming Antarctica, de artikelen 19, tweede lid, en 33;
+de Wet dieren, artikelen 3.3 tot en met 3.6, al dan niet in samenhang met artikel 6.2, eerste lid, artikel 6.4, eerste lid, of artikel 7.5, derde lid;
 de Wet gewasbeschermingsmiddelen en biociden: de artikelen 20, tweede lid, 28, eerste lid, onderdeel e, 29, 45, 71, 72, 73, 75, 76, 77, 78, tweede lid, en 115;
 de Wet inzake de luchtverontreiniging, artikel 92, onder a tot en met c;
 de Wet luchtvaart, de artikelen 6.60, eerste lid, 6.61, tweede lid, 6.61a, en 6.62, tweede lid;

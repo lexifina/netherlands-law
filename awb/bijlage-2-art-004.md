@@ -54,7 +54,9 @@ Wet dieren, met uitzondering van een besluit op grond van artikel 8.7
 Wet geneesmiddelenprijzen, met uitzondering van artikel 11 en met inbegrip van een besluit tot vaststelling van een maximumprijs
 Wet gewasbeschermingsmiddelen en biociden, met uitzondering van de artikelen 90 en 108
 Wet implementatie EU-richtlijnen energie-efficiëntie, met uitzondering van de artikelen 21 en 22
-Wet inkomstenbelasting 2001: de artikelen 3.37, eerste lid, en 3.42, eerste lid, voor zover het betreft een verklaring van Onze Minister van Economische Zaken en artikel 3.52a voor zover het betreft een RDA-beschikking of correctie-RDA-beschikking
+Wet inkomstenbelasting 2001:
+a. de artikelen 3.37, eerste lid, en 3.42, eerste lid, voor zover het betreft een besluit van Onze Minister van Economische Zaken, en
+b. artikel 3.52a, eerste, tweede en elfde lid, voor zover het betreft een besluit van Onze Minister van Economische Zaken, met uitzondering van een boetebesluit als bedoeld in het elfde lid en een daarmee samenhangende correctie-RDA-beschikking als bedoeld in het tweede lid
 Wet luchtvaart: artikel 8.25f, tweede lid
 Wet marktordening gezondheidszorg, met uitzondering van beschikkingen van de Nederlandse Zorgautoriteit als bedoeld in paragraaf 4 van hoofdstuk 6
 Wet medewerking verdedigingsvoorbereiding
