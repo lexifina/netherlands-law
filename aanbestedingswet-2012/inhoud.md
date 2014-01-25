@@ -100,14 +100,15 @@
 ##### § 3.3.3.2. Onderaanneming, bijzondere voorwaarden, voorbehouden opdracht en varianten
 #### Afdeling 3.3.4. Eigen verklaring
 #### Afdeling 3.3.5. Selectie
-### Hoofdstuk 3.5. Erkenningsregeling
-#### Afdeling 3.3.6. Mededeling van uitsluiting en afwijzing
-#### Afdeling 3.3.7. Gunningsfase
-##### § 3.3.7.1. Inschrijving
-##### § 3.3.7.2. Gunningcriteria, abnormaal lage inschrijving en elektronische veiling
-##### § 3.3.7.3. Gunningsbeslissing
-##### § 3.3.7.4. Verslaglegging en bekendmaking
-### Hoofdstuk 3.4. Overige voorschriften voor de procedures met betrekking tot de raamovereenkomst, het dynamisch aankoopsysteem en de prijsvraag
+### Hoofdstuk 3.4. Erkenningsregeling
+#### Afdeling 3.4.1. Deelname en toepassing
+#### Afdeling 3.4.2. Mededeling van uitsluiting en afwijzing
+#### Afdeling 3.4.3. Gunningsfase
+##### § 3.4.3.1. Inschrijving
+##### § 3.4.3.2. Gunningcriteria, abnormaal lage inschrijving en elektronische veiling
+##### § 3.4.3.3. Gunningsbeslissing
+##### § 3.4.3.4. Verslaglegging en bekendmaking
+### Hoofdstuk 3.5. Overige voorschriften voor de procedures met betrekking tot de raamovereenkomst, het dynamisch aankoopsysteem en de prijsvraag
 ## Deel 4. Overige bepalingen
 ### Hoofdstuk 4.1. Gedragsverklaring aanbesteden
 #### Afdeling 4.1.1. Algemene bepalingen
