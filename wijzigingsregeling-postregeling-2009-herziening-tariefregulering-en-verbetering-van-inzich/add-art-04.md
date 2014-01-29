@@ -1,0 +1,3 @@
+# Artikel IV
+1. Indien deze regeling in werking treedt na 31 januari 2014 kan de verlener van de universele postdienst in afwijking van artikel 13a van de Postregeling 2009, uiterlijk op 1 april 2014 de informatie over het kostentoerekeningsysteem overleggen.
+2. De Autoriteit Consument en Markt kan in afwijking van de artikelen 14a, eerste lid, en 14b, eerste lid, van de Postregeling 2009 uiterlijk op 1 oktober 2014 de basis tariefruimte en de aanvullende tariefruimte bepalen, indien de verlener van de universele dienst op grond van het eerste lid, de informatie over het kostentoerekeningsysteem overlegt na 1 maart 2014.
