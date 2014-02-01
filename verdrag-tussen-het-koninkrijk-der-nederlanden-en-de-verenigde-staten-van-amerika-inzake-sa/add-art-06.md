@@ -1,0 +1,2 @@
+# Article VI
+Each Party and its Implementing Authorities may at any time request consultations relating to this Agreement with the other Party or its Implementing Authorities. Such consultations shall begin at the earliest possible date, but not later than 60 days from the date the other Implementing Authority or Party receives the request unless otherwise agreed. Requests for consultations shall be forwarded through diplomatic channels.

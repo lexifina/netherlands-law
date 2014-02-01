@@ -1,0 +1,2 @@
+# Article III
+Any activities undertaken pursuant to this Agreement shall be subject to the availability of funds and resources of the Implementing Authorities of the Parties. Any contractual agreements or other arrangements referred to in Article I.3, shall specify that all activities implementing this Agreement shall be subject to the availability of funds and resources of the Implementing Authorities.

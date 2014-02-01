@@ -1,0 +1,3 @@
+# Article VIII
+1. Any disagreement concerning the interpretation or application of this Agreement shall be resolved by consultation between the Parties and shall not be referred to any international tribunal, arbitration, or third party for settlement.
+2. The Parties shall ensure that any disagreement concerning the interpretation or application of the contractual agreements or arrangements referred to in Article I.3 shall be resolved by consultation between the appropriate authorities of the Parties and shall not be referred to any international tribunal, arbitration, or third party for settlement.
