@@ -1,0 +1,2 @@
+# Article XV
+The Director-General of the Food and Agriculture Organization of the United Nations shall inform all Governments referred to in paragraph 1 of Article XIV and all the organizations referred to in paragraph 4 of the same Article of deposits of instruments of ratification, approval, formal confirmation on adherence, the entry into force of this Convention, proposals for amendment, notifications of acceptance of amendments, entry into force of amendments, and notifications of withdrawal.

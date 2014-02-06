@@ -1,0 +1,6 @@
+# Artikel IX
+1. De verdragsluitende partijen komen overeen alle nodige maatregelen te treffen om de handhaving van dit Verdrag te waarborgen. Elke verdragsluitende partij zendt de Commissie om de twee jaar, of telkens wanneer de Commissie daarom verzoekt, een verslag over de daartoe getroffen maatregelen.
+2. De verdragsluitende partijen komen overeen dat:
+a. zij de Commissie desgevraagd alle beschikbare statistische, biologische en andere wetenschappelijke gegevens verstrekken die de Commissie nodig heeft voor de doelstellingen van dit Verdrag;
+b. indien hun officiële organen de bedoelde gegevens niet zelf kunnen verkrijgen en verstrekken, zij de Commissie toestaan de bedoelde inlichtingen via de verdragsluitende partijen, rechtstreeks bij ondernemingen en individuele vissers in te winnen op vrijwillige basis.
+3. De verdragsluitende partijen verbinden zich ertoe met elkaar samen te werken om gepaste adequate maatregelen vast te stellen om de toepassing van de bepalingen van dit Verdrag te waarborgen en met name een internationaal controlesysteem in te stellen voor toepassing in het verdragsgebied, met uitzondering van de territoriale zee en eventuele andere wateren waar een staat op grond van het internationaal recht rechtsmacht over de visserij mag uitoefenen.

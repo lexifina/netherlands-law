@@ -1,0 +1,2 @@
+# Artikel XV
+De Directeur-Generaal van de Voedsel- en Landbouworganisatie van de Verenigde Naties stelt alle regeringen bedoeld in artikel XIV, eerste lid, alsmede de organisaties bedoeld in artikel XIV, vierde lid, in kennis van de nederlegging van akten van bekrachtiging, goedkeuring en formele bevestiging van toetreding, alsmede van de inwerkingtreding van het Verdrag, de voorstellen voor wijziging, de kennisgevingen van aanvaarding van de wijzigingen, de inwerkingtreding van de wijzigingen en de kennisgevingen van terugtrekking.
