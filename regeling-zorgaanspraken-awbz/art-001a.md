@@ -1,0 +1,5 @@
+# Artikel 1a
+1. De verzekerde die is aangewezen op verblijf als bedoeld in artikel 9, eerste en tweede lid, van het Besluit of op voortgezet verblijf als bedoeld in artikel 13, tweede lid, van het Besluit heeft aanspraak op zorg die is opgenomen in het zorgzwaartepakket, behorend bij het cliëntprofiel waarin hij het best past.
+2. De verzekerde heeft aanspraak op meer zorg dan waarop hij op grond van het eerste lid aanspraak heeft, voor zover naar het oordeel van de zorgverzekeraar meer zorg nodig is om te voorzien in zijn behoefte aan zorg en:
+a. de verzekerde die is aangewezen op zorgzwaartepakket VG-5, VG-7, VG-8, LG-5, LG-7, ZG-3 auditief, ZG-5 visueel, LVG-4, LVG-5 of SGLVG een behoefte aan zorg heeft die minimaal 25% hoger is dan de in dat zorgzwaartepakket opgenomen zorg, of
+b. de behoefte aan zorg tevens bestaat uit gespecialiseerde epilepsiezorg, chronische invasieve beademing, non-invasieve beademing, klinische intensieve behandeling of niet-strafrechtelijke forensische psychiatrie.
