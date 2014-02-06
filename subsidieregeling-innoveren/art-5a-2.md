@@ -1,0 +1,9 @@
+# Artikel 5a.2
+1. De minister verstrekt op aanvraag een grote innovatievoucher aan een MKB-ondernemer die een kennisoverdrachtproject wil laten uitvoeren waarvan de resultaten ten goede komen aan de activiteiten die de ondernemer in Nederland verricht.
+2. Per MKB-ondernemer kan per kalenderjaar één grote innovatievoucher worden verstrekt.
+3. Geen grote innovatievoucher wordt verstrekt aan een MKB-ondernemer:
+a. aan wie door een of meer bestuursorganen in de drie aan de aanvraag voorafgaande jaren reeds tot een hoger bedrag subsidie is verstrekt zonder goedkeuring van de Commissie van de Europese Gemeenschappen dan voor de sector waartoe de betrokken onderneming behoort is vastgesteld in een de-minimis verordening;
+b. die failliet is verklaard, aan wie surseance van betaling is verleend, ten aanzien van wie de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, of voor wie een verzoek daartoe bij de rechtbank is ingediend;
+c. die reeds eerder een aanvraag om verstrekking van een grote of kleine innovatievoucher op grond van dit hoofdstuk of hoofdstuk 5 heeft gedaan waarop de minister nog geen beschikking heeft afgegeven;
+d. aan wie in hetzelfde kalenderjaar een grote innovatievoucher op grond van hoofdstuk 5 is verstrekt.
+4. Indien het voor de betrokken ondernemer geldende de-minimisplafond, bedoeld in het derde lid, onderdeel a, niet al is bereikt door andere subsidies, wordt het bedrag dat gelet op dat plafond ten hoogste met inzet van de voucher kan worden vergoed, op de voucher vermeld.
