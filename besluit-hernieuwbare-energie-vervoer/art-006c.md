@@ -1,0 +1,6 @@
+# Artikel 6c
+1. Een ieder die in het kader van beroep of bedrijf een hoeveelheid biokerosine levert aan luchtvaartuigen in Nederland kan een rekening als bedoeld in artikel 5, eerste lid, openen in het register, waarop die hoeveelheid biokerosine wordt ingeboekt. De rekening wordt geopend voor de duur van ten minste één kalenderjaar en kan worden opgezegd tegen 1 januari van enig jaar.
+2. Door het openen van een rekening als bedoeld in het eerste lid verplicht de betreffende geregistreerde zich tot het aantoonbaar leveren van biokerosine in Nederland, die voldoet aan de eisen, bedoeld in artikel 3, derde lid, in ten minste de in artikel 3, eerste lid, onderdelen a tot en met d, genoemde percentages van de totale hoeveelheid door hem geleverde biokerosine in Nederland.
+3. De hoeveelheid biokerosine, bedoeld in het tweede lid, kan na aftrek van het in dat lid bedoelde percentage in de vorm van biotickets in eigendom worden overgedragen aan registratieplichtigen.
+4. Voor de toepassing van dit artikel wordt biokerosine die wordt meegeteld voor de jaarvracht van een luchtvaartmaatschappij, bedoeld in artikel 16.39f van de Wet milieubeheer, buiten beschouwing gelaten. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het in de eerste volzin bepaalde.
+5. Dit artikel vervalt met ingang van 1 januari 2020.
