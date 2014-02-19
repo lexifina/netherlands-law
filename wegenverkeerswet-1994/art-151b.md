@@ -9,4 +9,5 @@ d. getuigschrift van vakbekwaamheid: document dat dient als bewijs dat de houder
 e. nascholing: periodiek opleidingstraject dat in de richtlijn vakbekwaamheid bestuurders aangewezen onderwerpen en praktische vaardigheden omvat;
 f. getuigschrift van nascholing: document dat dient als bewijs dat de houder de nascholing met goed gevolg heeft voltooid;
 g. erkend opleidingscentrum: opleidingscentrum als bedoeld in artikel 151f, tweede lid;
-h. gewone verblijfplaats: de verblijfplaats zoals omschreven in artikel 14, derde lid, van verordening (EEG) nr. 3821/85 van de Raad van de Europese Gemeenschappen van 20 december 1985 betreffende het controleapparaat in het wegvervoer (PbEG L 370).
+h. gewone verblijfplaats: de verblijfplaats zoals omschreven in artikel 14, derde lid, van verordening (EEG) nr. 3821/85 van de Raad van de Europese Gemeenschappen van 20 december 1985 betreffende het controleapparaat in het wegvervoer (PbEG L 370);
+j. verordening (EU) nr. 181/2011: Verordening (EU) nr. 181/2011 van het Europees Parlement en de Raad van 16 februari 2011 betreffende de rechten van autobus- en touringcarpassagiers en tot wijziging van Verordening (EG) nr. 2006/2004 (PbEU 2011, L 55).
