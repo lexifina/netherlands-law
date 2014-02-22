@@ -1,0 +1,4 @@
+# Artikel 11c
+1. Het is verboden materiaal van in bijlage III opgenomen waardplanten met een doorsnede groter dan 2,5 centimeter, afkomstig van in het in bijlage IV beschreven buffergebied Anoplophora glabripennis (Motschulsky) te vervoeren of te bewerken, tenzij met voorafgaande toestemming van de Minister met het oog op de vernietiging van het materiaal.
+2. Het is verboden materiaal van in bijlage III opgenomen waardplanten met een doorsnede groter dan 2,5 centimeter, afkomstig van in het in bijlage V beschreven buffergebied Anoplophora glabripennis (Motschulsky) te vervoeren of te bewerken, tenzij met voorafgaande toestemming van de Minister met het oog op de vernietiging van het materiaal.
+3. De Minister kan voorwaarden verbinden aan de in het eerste en tweede lid bedoelde toestemming.
