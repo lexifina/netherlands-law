@@ -1,0 +1,3 @@
+# Artikel IX
+1. Dit besluit treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan of voor verschillende categorieën van inrichtingen verschillend kan worden vastgesteld.
+2. Artikel III, aanhef en onderdelen 4 en 5, werkt terug tot en met 1 januari 2014, met dien verstande dat deze onderdelen van kracht worden op het tijdstip onmiddellijk volgend op de inwerkingtreding van artikel I, onderdelen D en E van het Besluit van 20 september 2013 tot wijziging van het Waterbesluit (informatieplicht waterschapsbesturen; subsidiëring HWBP-2 projecten) (Stb. 373).
