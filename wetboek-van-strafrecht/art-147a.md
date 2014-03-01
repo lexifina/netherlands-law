@@ -1,3 +1,0 @@
-# Artikel 147a
-1. Hij die een geschrift of afbeelding waarin uitlatingen voorkomen die, als smalende godslasteringen, voor godsdienstige gevoelens krenkend zijn, verspreidt, openlijk tentoonstelt of aanslaat of, om verspreid, openlijk tentoongesteld of aangeslagen te worden, in voorraad heeft, wordt, indien hij weet of ernstige reden heeft om te vermoeden dat in het geschrift of de afbeelding zodanige uitlatingen voorkomen, gestraft met gevangenisstraf van ten hoogste twee maanden of geldboete van de tweede categorie.
-2. Met dezelfde straf wordt gestraft hij die, met gelijke wetenschap of een gelijke reden tot vermoeden, de inhoud van een zodanig geschrift openlijk ten gehore brengt.
