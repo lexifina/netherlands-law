@@ -42,7 +42,7 @@
 #### Paragraaf 1. Aanwijzing
 #### Paragraaf 2. Bevoegdheden
 #### Paragraaf 3. Maatregelen van toezicht
-### Afdeling 3. Bestuurlijke boete
+### Afdeling 2. Bestuurlijke boete
 ## Hoofdstuk 5. Vrijheidsbeperkende en vrijheidsontnemende maatregelen
 ## Hoofdstuk 6. Vertrek, uitzetting en overdracht, inreisverbod en ongewenstverklaring
 ### Afdeling 1. Vertrek
@@ -62,7 +62,8 @@
 ### Afdeling 4. Hoger beroep
 ### Afdeling 5. Bijzondere rechtsmiddelen
 ## Hoofdstuk 8. Algemene en strafbepalingen
-### Paragraaf 1. Gegevensverstrekking
+### Paragraaf 1. Biometrie
+### Paragraaf 1a. Gegevensverstrekking en -verwerking
 ### Paragraaf 2. Strafbepalingen
 ### Paragraaf 3. Afwijkingen
 ### Paragraaf 4. Verblijf op grond van internationale verplichtingen
