@@ -1,0 +1,3 @@
+# Artikel VIII
+1. Een gemeentelijke belastingverordening of een eilandverordening ter zake van het heffen van rechten als bedoeld in artikel 7, tweede lid, van de Paspoortwet, zoals dat luidde voor de inwerkingtreding van artikel I, onderdeel D, van deze wet, voor het verrichten van handelingen ten behoeve van de aanvraag van een reisdocument, berust vanaf de dag van inwerkingtreding van artikel I, onderdeel D, van deze wet op artikel 7, tweede lid, van de Paspoortwet.
+2. Het eerste lid is van overeenkomstige toepassing op het heffen van rechten als bedoeld in artikel 1 van de Wet van 13 oktober 2011, houdende regeling van een grondslag voor de heffing van rechten voor de Nederlandse identiteitskaart (Stb. 2011, 440).
