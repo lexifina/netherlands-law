@@ -15,8 +15,6 @@
 #### Paragraaf 3. De gemeentelijke ombudscommissie
 #### Paragraaf 4. De gezamenlijke ombudsman en de gezamenlijke ombudscommissie
 ### Hoofdstuk V. De commissies
-#### Paragraaf 1. Commissies
-#### Paragraaf 2. Deelgemeenten
 ### Hoofdstuk VI. Geldelijke voorzieningen ten behoeve van de leden van de raad en de commissies
 ### Hoofdstuk VII. De secretaris en de griffier
 #### Paragraaf 1. Algemene bepalingen
