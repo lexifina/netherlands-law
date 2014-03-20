@@ -1,2 +1,0 @@
-# Artikel 2a
-De fabrikant van vervangingskatalysatoren die voor 31 oktober 2002 voor het eerst te koop zijn aangeboden, verstrekt uiterlijk op 30 juni 2004 op het verkooppunt of bij de distributeur van die katalysatoren aanvullende informatie die voldoet aan bijlage XIII, punt 7, bij richtlijn 70/220, zoals deze laatstelijk is gewijzigd bij richtlijn nr. 2002/80 van de Commissie van de Europese Gemeenschappen van 3 oktober 2002 (PbEG L 291).
