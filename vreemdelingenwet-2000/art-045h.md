@@ -1,0 +1,3 @@
+# Artikel 45h
+1. De EU-verblijfsvergunning voor langdurig ingezetenen wordt verleend met ingang van de datum waarop de vreemdeling heeft aangetoond dat hij aan alle voorwaarden voldoet.
+2. Indien de vreemdeling de aanvraag tot verlening van de EU-verblijfsvergunning voor langdurig ingezetenen dan wel de gegevens waaruit blijkt dat aan de voorwaarden wordt voldaan, niet tijdig heeft ingediend en hem dit niet is toe te rekenen, wordt de EU-verblijfsvergunning voor langdurig ingezetenen verleend met ingang van de dag na die waarop de geldigheidsduur van de verblijfsvergunning, bedoeld in artikel 14 dan wel artikel 28 afloopt.

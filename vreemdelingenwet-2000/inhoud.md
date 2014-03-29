@@ -37,6 +37,11 @@
 #### Paragraaf 4. De beschikking op de aanvraag
 #### Paragraaf 5. De inwilliging van de aanvraag
 #### Paragraaf 6. De afwijzing van de aanvraag
+### Afdeling 5. De status van langdurig ingezetene
+#### Paragraaf 1. De EU-verblijfsvergunning voor langdurig ingezetenen
+#### Paragraaf 2. Procedurele bepalingen
+#### Paragraaf 3. De beschikking op de aanvraag
+#### Paragraaf 4. De inwilliging van de aanvraag
 ## Hoofdstuk 4. Handhaving
 ### Afdeling 1. Toezicht op de naleving
 #### Paragraaf 1. Aanwijzing
