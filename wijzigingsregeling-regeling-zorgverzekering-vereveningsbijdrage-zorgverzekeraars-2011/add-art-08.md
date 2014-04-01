@@ -1,0 +1,4 @@
+# Artikel VIII
+In afwijking van hetgeen daarover in artikel 3.11 van de Regeling zorgverzekering zoals dat met betrekking tot het jaar 2008 gold, was geregeld, worden de kosten van geneeskundige geestelijke gezondheidszorg ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2008 als volgt herberekend:
+1. Het Zorginstituut merkt de vaste bedragen ter verrekening van de in 2008 gerealiseerde opbrengsresultaten van gebudgetteerde instellingen voor geneeskundige geestelijke gezondheidszorg voor 100 procent aan als kosten voor geneeskundige geestelijke gezondheidszorg.
+2. Het Zorginstituut calculeert 100 procent na op het verschil tussen de werkelijk gemaakte kosten voor geneeskundige geestelijke gezondheidszorg en de normatieve bijdrage geneeskundige geestelijke gezondheidszorg.
