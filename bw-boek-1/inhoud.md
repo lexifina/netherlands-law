@@ -47,9 +47,10 @@
 #### Afdeling 2. Ontbinding van het huwelijk na scheiding van tafel en bed
 ### Titel 11. Afstamming
 #### Afdeling 1. Algemeen
-#### Afdeling 2. Ontkenning van het door huwelijk ontstane vaderschap
+#### Afdeling 2. Ontkenning van het door huwelijk of geregistreerd partnerschap ontstane vaderschap
+#### Afdeling 2a. Ontkenning van het door huwelijk of geregistreerd partnerschap ontstane moederschap
 #### Afdeling 3. Erkenning
-#### Afdeling 4. Gerechtelijke vaststelling van het vaderschap
+#### Afdeling 4. Gerechtelijke vaststelling van het ouderschap
 #### Afdeling 5. Inroeping of betwisting van staat
 #### Afdeling 6. De bijzondere curator
 ### Titel 12. Adoptie
