@@ -1,5 +1,5 @@
 # Artikel 12b
-Een tewerkstellingsvergunning kan worden ingetrokken indien de werkgever binnen een periode van vijf jaar voorafgaand aan het moment waarop de vergunning wordt ingetrokken:
+Onze Minister kan voorts een tewerkstellingsvergunning intrekken of Onze Minister van Veiligheid en Justitie kan voorts een gecombineerde vergunning intrekken indien de werkgever binnen een periode van vijf jaar voorafgaand aan het moment waarop de vergunning wordt ingetrokken:
 a. een bestuurlijke boete is opgelegd op grond van:
 1°. artikel 10:1 van de Arbeidstijdenwet;
 2°. artikel 33 van de Arbeidsomstandighedenwet;
