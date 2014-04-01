@@ -1,0 +1,2 @@
+# Artikel III
+Op aankleding die voor het tijdstip van inwerkingtreding van dit besluit is aangebracht in een besloten ruimte van een lichte industriefunctie voor het bedrijfsmatig houden van dieren als bedoeld in artikel 1.1, derde lid, van het Bouwbesluit 2012, maar niet direct op de vloer, trap of hellingbaan, is artikel 7.4, eerste lid, van het Bouwbesluit 2012 van toepassing, zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit.
