@@ -1,0 +1,3 @@
+# Artikel 202b
+1. Overlijdt de moeder, bedoeld in artikel 198, eerste lid, onder a of onder b, voor de afloop van de in artikel 202a, derde lid, gestelde termijn, dan kan een afstammeling van deze moeder in de eerste graad of, bij gebreke van zodanige afstammeling, een ouder van deze moeder, de rechtbank verzoeken de ontkenning van het moederschap gegrond te verklaren. Het verzoek wordt gedaan binnen een jaar na de dag van overlijden of nadat het overlijden ter kennis van verzoeker is gekomen.
+2. Op de ontkenning van het moederschap zijn de artikelen 201, tweede lid, en 202 van overeenkomstige toepassing.
