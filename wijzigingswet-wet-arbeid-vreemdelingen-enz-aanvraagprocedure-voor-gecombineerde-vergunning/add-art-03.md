@@ -1,0 +1,2 @@
+# Artikel III
+Op aanvragen voor een tewerkstellingsvergunning of aanvragen voor een verblijfsvergunning regulier voor bepaalde tijd onder de beperking «arbeid in loondienst» of «lerend werken» die zijn ingediend voor 25 december 2013 en waarop op het tijdstip van inwerkingtreding nog niet is beslist, is het recht en het bijbehorende legesbedrag van toepassing zoals dat gold op de dag voorafgaand aan het tijdstip van inwerkingtreding van deze wet.
