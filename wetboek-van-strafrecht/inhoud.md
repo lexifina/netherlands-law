@@ -14,7 +14,7 @@
 ### Titel VI. Samenloop van strafbare feiten
 ### Titel VII. Indiening en intrekking van de klacht bij misdrijven alleen op klacht vervolgbaar
 ### Titel VIII. Verval van het recht tot strafvordering en van de straf
-### Titel VIII A. Bijzondere bepalingen voor jeugdige personen
+### Titel VIII A. Bijzondere bepalingen voor jeugdigen en jongvolwassenen
 ### Titel IX. Betekenis van sommige in het wetboek voorkomende uitdrukkingen
 ### Slotbepaling
 ## Boek Tweede. Misdrijven
