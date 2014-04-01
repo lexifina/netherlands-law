@@ -79,3 +79,4 @@ Wetboek van Koophandel: artikel 311a
 Winkeltijdenwet
 Zaaizaad- en plantgoedwet 2005
 Zorgverzekeringswet: artikel 122a
+Zorgverzekeringswet, voor zover het betreft beschikkingen van de Nederlandse Zorgautoriteit, bedoeld in artikel 66d

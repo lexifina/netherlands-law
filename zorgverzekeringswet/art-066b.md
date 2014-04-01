@@ -1,0 +1,4 @@
+# Artikel 66b
+1. Het Zorginstituut houdt een openbaar register bij waarin op voordracht van organisaties van cliënten, zorgaanbieders en zorgverzekeraars gezamenlijk dan wel van de Adviescommissie Kwaliteit een professionele standaard of een meetinstrument wordt opgenomen.
+2. Het Zorginstituut stelt een beleidsregel vast op basis waarvan wordt beoordeeld of een professionele standaard kan worden aangemerkt als een verantwoorde beschrijving van de kwaliteit van een specifiek zorgproces en een meetinstrument kan worden aangemerkt als een verantwoord middel om te meten of goede zorg is geleverd.
+3. Het Zorginstituut neemt een overeenkomstig het eerste lid voorgedragen professionele standaard of meetinstrument niet op in het openbaar register indien deze niet voldoet aan de beleidsregel, bedoeld in het tweede lid.
