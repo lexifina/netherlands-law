@@ -1,0 +1,2 @@
+# Artikel VI
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen en onderdelen afzonderlijk kan worden vastgesteld.
