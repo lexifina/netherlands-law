@@ -1,0 +1,3 @@
+# Artikel III
+1. Artikel 3.6 van het Vreemdelingenbesluit 2000 is niet van toepassing op een aanvraag tot het verlenen of verlengen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14 van de Vreemdelingenwet 2000, die is ingediend voor het tijdstip van inwerkingtreding van deze regeling.
+2. Artikel 6.1d, eerste en tweede lid, van het Vreemdelingenbesluit 2000 is niet van toepassing op een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14 van de Vreemdelingenwet 2000, die is ingediend voor het tijdstip van inwerkingtreding van deze regeling.
