@@ -1,0 +1,2 @@
+# Artikel 16a
+Het indicatieorgaan draagt er zorg voor dat gedurende de geldigheid van het indicatiebesluit de gegevens die aan het indicatiebesluit ten grondslag hebben gelegen, worden bewaard en houdt de gegevens die voor een mogelijk nieuw indicatiebesluit van belang zijn, zoals naam, adres, woonplaats of verblijfplaats, burgerlijke staat en wettelijke vertegenwoordiging, zo veel mogelijk actueel.
