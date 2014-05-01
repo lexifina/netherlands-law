@@ -28,7 +28,7 @@
 ### Titel IX. Meineed
 ### Titel X. Valsheid in muntspeciën en munt- en bankbiljetten
 ### Titel XI. Valsheid in zegels en merken
-### Titel XII. Valsheid in geschriften, opgave van onware gegevens en schending van de verplichting gegevens te verstrekken
+### Titel XII. Valsheid met geschriften, gegevens en biometrische kenmerken
 ### Titel XIII. Misdrijven tegen de burgerlijke staat
 ### Titel XIV. Misdrijven tegen de zeden
 ### Titel XV. Verlating van hulpbehoevenden
