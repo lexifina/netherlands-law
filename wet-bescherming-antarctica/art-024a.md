@@ -1,0 +1,2 @@
+# Artikel 24a
+Levende organismen, met inbegrip van daaruit voortgekomen nageslacht, die zonder een vergunning binnen het Antarctisch gebied zijn gebracht, worden, waar mogelijk, door de organisator van de activiteit verwijderd uit het gebied of vernietigd, tenzij verwijdering of vernietiging grotere schadelijke gevolgen zou hebben voor het milieu. De organisator van de activiteit neemt alle redelijke maatregelen in acht om de gevolgen van het binnenbrengen te beheersen en schade aan de inheemse flora en fauna te voorkomen.
