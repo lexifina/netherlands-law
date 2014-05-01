@@ -9,4 +9,4 @@ f. het dragen van bepaalde kleding of bepaalde attributen ten behoeve van een co
 g. plaatsing in een observatiecel;
 h. onderzoek naar schotresten op het lichaam.
 2. De in het eerste lid genoemde maatregelen kunnen alleen worden bevolen in geval van verdenking van een misdrijf als omschreven in artikel 67, eerste lid.
-3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de toepassing van maatregelen in het belang van het onderzoek.
+3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de uitvoering van de maatregelen in het belang van het onderzoek en voor het verwerken van de resultaten daarvan.
