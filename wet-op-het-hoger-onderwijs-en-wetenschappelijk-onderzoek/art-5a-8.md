@@ -7,7 +7,8 @@ d. de voorwaarden voor het verlenen van de oordelen onvoldoende, voldoende, goed
 2. Bij de beoordeling van de aanvraag om accreditatie wordt aandacht geschonken aan de aspecten van kwaliteit die betrekking hebben op de opleiding, waarbij ten minste worden beoordeeld:
 a. het beoogde eindniveau van de opleiding, gelet op hetgeen internationaal gewenst en gangbaar is,
 b. de inhoud en opzet van het onderwijsprogramma,
-c. het gerealiseerde eindniveau, gelet op hetgeen internationaal gewenst en gangbaar is, alsmede de deugdelijkheid van beoordeling, toetsing en examinering van de studenten,
-d. de kwaliteit en kwantiteit van het ingezette personeel alsmede het personeelsbeleid dat van invloed is op de kwaliteit van de opleiding,
-e. de opleidingsspecifieke voorzieningen alsmede de instellingsbrede voorzieningen die van invloed zijn op de kwaliteit van de opleiding daaronder mede begrepen voldoende studiebegeleiding en voorzieningen die de toegankelijkheid en studeerbaarheid voor studenten met een functiebeperking bevorderen, en
-f. de opzet en organisatie van de interne kwaliteitszorg gericht op de systematische verbetering van de opleiding.
+c. het gerealiseerde eindniveau, gelet op hetgeen internationaal gewenst en gangbaar is,
+d. de deugdelijkheid van beoordeling, toetsing en examinering van de studenten,
+e. de kwaliteit en kwantiteit van het ingezette personeel alsmede het personeelsbeleid dat van invloed is op de kwaliteit van de opleiding,
+f. de opleidingsspecifieke voorzieningen alsmede de instellingsbrede voorzieningen die van invloed zijn op de kwaliteit van de opleiding daaronder mede begrepen voldoende studiebegeleiding en voorzieningen die de toegankelijkheid en studeerbaarheid voor studenten met een functiebeperking bevorderen, en
+g. de opzet en organisatie van de interne kwaliteitszorg gericht op de systematische verbetering van de opleiding.
