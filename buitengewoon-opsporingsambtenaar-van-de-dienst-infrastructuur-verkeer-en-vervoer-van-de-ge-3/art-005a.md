@@ -1,2 +1,0 @@
-# Artikel 5a
-De op naam gestelde akten van opsporingsbevoegdheid en beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het besluit van 3 juni 2009, nr. 5557979/Justis/08, worden geacht mede te zijn afgegeven op basis van het onderhavige besluit.
