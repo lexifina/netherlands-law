@@ -12,13 +12,15 @@ Artikel 1.2 Stimuleren Natuurbeleving/centra
 1 Subsidievoorwaarden a. Subsidie kan worden verstrekt voor activiteiten waarvoor maatregelfiche 313 "Bevordering toeristische activiteiten" van het plattelandsontwikkelingsprogramma voor van toepassing is. b. Subsidie dient bij te dragen aan de natuurbeleving van recreanten en inwoners. c. Subsidie dient bij te dragen aan de versterking van de economische positie van recreatie en toerisme, versterking van de directe en indirecte werkgelegenheid en verbetering van de toegankelijkheid van het platteland.
 2 Eindbegunstigden Subsidie wordt verstrekt aan overheden en alle natuurlijke personen of rechtspersonen, niet zijnde leden van een landbouwhuishouden.
 3 Hoogte van de subsidie Maximaal 100 % van de subsidiabele kosten.
-4 Communautair toetsingskader Plattelandsontwikkelingsprogramma 2007-2013, maatregelfiche 313 'Bevorderen toeristische activiteiten'. De de-minimis (verordening (EG) nr 1998/2006) is voor investeringen ten gunste van ondernemingen van toepassing. Artikel 1.3 Soortenbeleid
+4 Communautair toetsingskader Plattelandsontwikkelingsprogramma 2007-2013, maatregelfiche 313 'Bevorderen toeristische activiteiten'. De de-minimis (verordening (EG) nr 1998/2006) is voor investeringen ten gunste van ondernemingen van toepassing.
+Artikel 1.3 Soortenbeleid
 1 Subsidievoorwaarden a. De aanvraag van subsidie dient aantoonbaar een relatie te hebben met provinciaal en nationaal soortenbeleid. b. De soort komt in ieder geval voor op de voor Flevoland relevante soortenlijst conform de beleidsstrategie 2007. Indien deze nog niet is vastgesteld dan geldt het Meerjarenprogramma 2000 – 2004. c. Staatsbosbeheer dient bij een aanvraag aan te tonen dat de te subsidiëren activiteiten niet behoren bij de afspraken die SBB met het Rijk heeft gemaakt.
 2 Uitgesloten van subsidie is Niet van toepassing.
 3 Eindbegunstigden Subsidie wordt verstrekt aan de Stichting Het Flevo-Landschap, de Vereniging tot Behoud van Natuurmonumenten en Staatsbosbeheer, stichtingen en verenigingen die volgens hun statuten actief zijn op het gebied van soortenbescherming, gemeenten, waterschappen en alle natuurlijke personen of rechtspersonen, niet zijnde leden van een landbouwhuishouden.
 4 Hoogte van de subsidie Maximaal 100% van de subsidiabele kosten.
 5 Uitgesloten van subsidie zijn: Activiteiten die kunnen worden gesubsidieerd via SAN/SN/SNL regelingen.
-6 Communautair toetsingskader Indien een subsidie op grond van dit artikel leidt tot het verstrekken van staatssteun in de zin van artikel 87, eerste lid, EG-verdrag, wordt slechts subsidie verstrekt overeenkomstig de de-minimis-verordening. Artikel 1.4 Milieutekorten 1 Subsidievoorwaarden a. Subsidie kan worden verstrekt voor activiteiten waarvoor maatregelfiche 216 'Niet-productieve investeringen' van het plattelandsontwikkelingsprogramma voor van toepassing is. b. Subsidie dient bij te dragen aan de verdrogingsbestrijding of verbeteren van de waterkwaliteit, beheer van waterkwantiteit / Biodiversiteit / Klimaatverandering.
+6 Communautair toetsingskader Indien een subsidie op grond van dit artikel leidt tot het verstrekken van staatssteun in de zin van artikel 87, eerste lid, EG-verdrag, wordt slechts subsidie verstrekt overeenkomstig de de-minimis-verordening. Plattelandsontwikkelingsprogramma 2007-2013, maatregelfiche 323 en 323b 'Instandhouding en opwaardering van het landelijk erfgoed'.
+Artikel 1.4 Milieutekorten 1 Subsidievoorwaarden a. Subsidie kan worden verstrekt voor activiteiten waarvoor maatregelfiche 216 'Niet-productieve investeringen' van het plattelandsontwikkelingsprogramma voor van toepassing is. b. Subsidie dient bij te dragen aan de verdrogingsbestrijding of verbeteren van de waterkwaliteit, beheer van waterkwantiteit / Biodiversiteit / Klimaatverandering.
 2 Uitgesloten van subsidie is Niet van toepassing.
 3 Eindbegunstigden Subsidie wordt verstrekt aan overheden en landbouwers.
 4 Hoogte van de subsidie Maximaal 100 % van de subsidiabele kosten.
@@ -39,11 +41,13 @@ Artikel 2.3 Wandelen over boerenland
 2 Uitgesloten van subsidie is Niet van toepassing.
 3 Eindbegunstigden Subsidie wordt verstrekt aan Landschapsbeheer Flevoland.
 4 Hoogte van de subsidie Voor realisatie en beheer van wandelpaden over boerenland wordt een bedrag van 0,45 euro per meter per jaar gehanteerd.
-5 Communautair toetsingskader Niet van toepassing. 3 Landschap Artikel 3.1 Versterken landschappelijke kwaliteit
+5 Communautair toetsingskader Niet van toepassing. 3 Landschap
+Artikel 3.1 Versterken landschappelijke kwaliteit
 1 Subsidievoorwaarden Subsidie kan worden verstrekt voor activiteiten die passen binnen maatregelfiche 323 'Instandhouding en opwaardering van het landelijk erfgoed' van het plattelandsontwikkelingsprogramma.
 2 Eindbegunstigden Subsidie wordt verstrekt aan overheden en alle natuurlijke personen of rechtspersonen, niet zijnde leden van een landbouwhuishouden.
 3 Hoogte van de subsidie Maximaal 100 % van de subsidiabele kosten.
-4 Communautair toetsingskader Plattelandsontwikkelingsprogramma 2007-2013, maatregelfiche 323 'Instandhouding en opwaardering van het landelijk erfgoed'. 4 Landbouw Artikel 4.1 Verbeterde ruimtelijke structuur
+4 Communautair toetsingskader Plattelandsontwikkelingsprogramma 2007-2013, maatregelfiche 323 en 323b 'Instandhouding en opwaardering van het landelijk erfgoed'. 4 Landbouw
+Artikel 4.1 Verbeterde ruimtelijke structuur
 1 Subsidievoorwaarden Subsidie kan worden verstrekt voor activiteiten die passen binnen maatregelfiche 125 'Infrastructuur voor de ontwikkeling/aanpassing van land- en bosbouw' van het plattelandsontwikkelingsprogramma.
 2 Eindbegunstigden Subsidie wordt verstrekt aan agrarische ondernemingen en samenwerkingsverbanden daarvan, stichtingen voor kavelruil, landbouworganisaties, bestuurscommissies, provincies, waterschappen en gemeenten, samenwerkingsverbanden van gemeenten en natuur- en landschapsorganisaties.
 3 Hoogte van de subsidie Maximaal 100% van de subsidiabele kosten.
