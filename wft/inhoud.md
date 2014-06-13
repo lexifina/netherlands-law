@@ -266,7 +266,6 @@
 #### Afdeling 4.2.3. Zorgvuldige dienstverlening
 #### Afdeling 4.2.4. Meldingsplichten
 #### Afdeling 4.2.4a. Instemmingvereiste
-#### Afdeling 4.2.5. Overeenkomsten op afstand
 ### Hoofdstuk 4.3. Aanvullende regels voor het werkzaam zijn op de financiële markten betreffende bepaalde financiële diensten
 #### Afdeling 4.3.1. Aanbieden
 ##### § 4.3.1.1. Beleggingsobjecten
