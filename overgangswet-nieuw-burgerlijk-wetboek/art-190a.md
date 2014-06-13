@@ -1,0 +1,2 @@
+# Artikel 190a
+Afdeling 2B van titel 5 van Boek 6 en de daarmee samenhangende wijzigingen of invoegingen van de artikelen 5, 6, 7, 9, 11, 13, 19a en 67 van Boek 7 door de Implementatiewet richtlijn consumentenrechten (Stb. 2014, 140) zijn niet van toepassing op overeenkomsten die voor het tijdstip van het in werking treden van deze wet zijn gesloten. Op deze overeenkomsten blijft de tevoren geldende afdeling 9A van titel 1 van Boek 7 van het Burgerlijk Wetboek van toepassing.
