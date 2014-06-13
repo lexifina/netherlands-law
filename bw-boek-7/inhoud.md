@@ -10,7 +10,6 @@
 #### Afdeling 7. Schadevergoeding
 #### Afdeling 8. Recht van reclame
 #### Afdeling 9. Koop op proef
-#### Afdeling 9A. Overeenkomsten op afstand
 #### Afdeling 10. Koop van vermogensrechten
 #### Afdeling 12. Ruil
 ### Titel 1a. Overeenkomsten betreffende het gebruik in deeltijd, vakantieproducten van lange duur, bijstand en uitwisseling

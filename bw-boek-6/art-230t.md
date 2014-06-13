@@ -1,0 +1,8 @@
+# Artikel 230t
+1. Bij de overeenkomst buiten de verkoopruimte verstrekt de handelaar de in artikel 230m lid 1 genoemde informatie in duidelijke en begrijpelijke taal en in leesbare vorm aan de consument op papier of, indien de consument hiermee instemt, op een andere duurzame gegevensdrager.
+2. De handelaar verstrekt aan de consument op papier, of, indien de consument hiermee instemt, op een andere duurzame gegevensdrager, een afschrift van de ondertekende overeenkomst of de bevestiging van de overeenkomst, met inbegrip van de bevestiging van de uitdrukkelijke voorafgaande toestemming en de verklaring van de consument waarmee hij afstand doet van zijn recht van ontbinding overeenkomstig artikel 230p onderdeel g, voor zover van toepassing.
+3. Nakoming van een overeenkomst tot het verrichten van diensten of voor de levering van water, gas of elektriciteit, die niet voor verkoop gereed zijn gemaakt in een beperkt volume of in een bepaalde hoeveelheid, of van stadsverwarming, geschiedt tijdens de ontbindingstermijn slechts op uitdrukkelijk verzoek van de consument, door middel van een daartoe strekkende schriftelijke verklaring op een duurzame gegevensdrager.
+4. Bij ontbinding overeenkomstig artikel 230o haalt de handelaar op zijn kosten de aan de consument geleverde zaak af wanneer deze:
+a. bij het sluiten van de overeenkomst bij de consument thuis is geleverd; en
+b. de zaak naar zijn aard niet met de gewone post kan worden teruggezonden.
+5. Behalve in het in artikel 230s lid 4 bedoelde geval, kan pas na het verstrijken van de ontbindingstermijn nakoming worden gevorderd van de uit de overeenkomst voortvloeiende verbintenis van de consument tot betaling.

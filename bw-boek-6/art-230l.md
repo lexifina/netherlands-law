@@ -1,0 +1,10 @@
+# Artikel 230l
+Voordat de consument door enige andere overeenkomst dan een overeenkomst op afstand of buiten de verkoopruimte, dan wel een daartoe strekkend aanbod, is gebonden, verstrekt de handelaar de consument op duidelijke en begrijpelijke wijze de volgende informatie, voor zover deze niet reeds duidelijk uit de context blijkt:
+a. de voornaamste kenmerken van de zaken of de diensten, in de mate waarin dit gezien de gebruikte drager en de zaken of diensten passend is;
+b. de identiteit van de handelaar, zoals zijn handelsnaam, het geografische adres waar hij gevestigd is en zijn telefoonnummer;
+c. de totale prijs van de zaken of diensten, met inbegrip van alle belastingen, of, als door de aard van de zaak of de dienst de prijs redelijkerwijs niet vooraf kan worden berekend, de manier waarop de prijs moet worden berekend, en, voor zover van toepassing, alle extra vracht-, leverings- of portokosten of, indien deze kosten redelijkerwijs niet vooraf kunnen worden berekend, in ieder geval het feit dat er eventueel dergelijke extra kosten verschuldigd kunnen zijn;
+d. voor zover van toepassing, de wijze van betaling, levering, nakoming, de termijn waarbinnen de handelaar zich verbindt de zaak te leveren of de dienst te verlenen, en het beleid van de handelaar inzake klachtenbehandeling;
+e. naast een herinnering aan het bestaan van de wettelijke regeling om een zaak te leveren die beantwoordt aan de overeenkomst, het bestaan en de voorwaarden van diensten na verkoop en van commerciële garanties, voor zover van toepassing;
+f. voor zover van toepassing, de duur van de overeenkomst, of, wanneer de overeenkomst van onbepaalde duur is of automatisch verlengd wordt, de voorwaarden voor het opzeggen van de overeenkomst;
+g. voor zover van toepassing, de functionaliteit van digitale inhoud, met inbegrip van toepasselijke technische beveiligingsvoorzieningen;
+h. voor zover van toepassing, de relevante interoperabiliteit van digitale inhoud met hardware en software waarvan de handelaar op de hoogte is of redelijkerwijs kan worden verondersteld op de hoogte te zijn.
