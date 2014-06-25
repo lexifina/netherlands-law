@@ -1,0 +1,7 @@
+# Tekst
+## Inhoud
+Besluit vanGedeputeerde Staten van Drenthe van 17 juni 2014, kenmerk 3.2/2014000329,team Bodem, Milieu en Energie, tot bekendmaking van de inwerkingtreding van de beleidsregels voor de uitvoering van bodemsanering
+Gedeputeerde Staten van Drenthe maken bekenddat zij in hun vergadering van 17 juni 2014 hebben besloten om, voor de uitvoering van de bodemsaneringstaak en als toetsingskader voor hun besluiten, beleidsregels vast te stellen. Deze zijn bedoeld voor diegenen die in de praktijk te maken hebben met bodemsanering in Drenthe: zowel binnen de provincie als extern: medewerkers van gemeenten en waterschappen, bedrijven, particulieren en bodemintermediairs. Per 1 januari 2014 heeft de provincie haar wettelijke taakWet bodembescherming (Wbb) gemandateerd aan de RUD. Voor de RUD vormen deze beleidsregels de leidraad bij de uitvoering van zijn werkzaamheden. De beleidsregels zijn een nadere invulling van de artikelen uit de Wbb. De Bodemnota is een toetsingskader. De beleidsregels gelden als toetsingskader voor het afgeven van besluiten op grond van de Wbb, onder andere voor het beoordelen van onderzoek en sanering.
+De beleidsregels zijn opgenomen in de Bodemnota "Werk maken van eigen bodem" 2014-2019.
+De Bodemnota "Werk maken van eigen bodem"2014-2019 kunt u inzien bij de provincie Drenthe, Team Communicatie, Westerbrink 1 te Assen, op werkdagen van 8.30 tot 17.00 uur.
+De Bodemnota "Werk maken van eigen bodem"is ook te vinden op onze website http://www.provincie.drenthe.nl/.
