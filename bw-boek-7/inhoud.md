@@ -21,6 +21,7 @@
 #### Afdeling 4. Jaarlijks kostenpercentage
 #### Afdeling 5. Kredietgevers en kredietbemiddelaars
 #### Afdeling 6. Slotbepalingen
+### Titel 2d. Overeenkomst van pandbelening
 ### Titel 3. Schenking
 ### Titel 4. Huur
 #### Afdeling 1. Algemene bepalingen
