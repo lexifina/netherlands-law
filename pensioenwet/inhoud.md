@@ -19,7 +19,7 @@
 ### § 4.5. Overige bepalingen
 ## Hoofdstuk 5. Algemene bepalingen met betrekking tot pensioenfondsen
 ### § 5.1. Pensioenfondsen algemeen
-### § 5.2. Deelnemersraad
+### § 5.2. Verantwoordingsorgaan en belanghebbendenorgaan
 ### § 5.3. Taakafbakening
 ## Hoofdstuk 6. Financieel toetsingskader inzake pensioenfondsen
 ## Hoofdstuk 7. Toezicht, handhaving en overige taken toezichthouder

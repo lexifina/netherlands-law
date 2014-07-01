@@ -1,2 +1,17 @@
-# Artikel 110a. Tijdsbeslag
-Bestuurders en leden van de raad van toezicht van een beroepspensioenfonds hebben voldoende tijd beschikbaar om hun functie naar behoren uit te oefenen. Bij algemene maatregel van bestuur worden nadere regels gesteld. De artikelen 132a, 142a, 242a, 252a, 297a en 297b van Boek 2 van het Burgerlijk Wetboek zijn niet van toepassing.
+# Artikel 110a. Samenstelling en taken raad van toezicht en visitatiecommissie
+1. De raad van toezicht of de visitatiecommissie bestaat uit ten minste drie natuurlijke personen. De leden van de raad van toezicht of de visitatiecommissie zijn onafhankelijk en laten dit tot uiting komen in het toezicht.
+2. De raad van toezicht heeft tot taak toezicht te houden op het beleid van het bestuur en op de algemene gang van zaken in het beroepspensioenfonds. De raad van toezicht is ten minste belast met het toezien op adequate risicobeheersing en evenwichtige belangenafweging door het bestuur en legt verantwoording af over de uitvoering van de taken en de uitoefening van de bevoegdheden aan het verantwoordingsorgaan en in het jaarverslag. De raad van toezicht staat het bestuur met raad ter zijde. Artikel 9 van Boek 2 van het Burgerlijk Wetboek is van overeenkomstige toepassing op de leden van de raad van toezicht.
+3. Aan de goedkeuring van de raad van toezicht zijn onderworpen de besluiten van het bestuur tot vaststelling van:
+a. het jaarverslag en de jaarrekening;
+b. de profielschets voor bestuurders;
+c. het beleid inzake beloningen, met uitzondering van de beloning van de raad van toezicht;
+d. gehele of gedeeltelijke overdracht van de verplichtingen van het beroepspensioenfonds of de overname van verplichtingen door het beroepspensioenfonds;
+e. liquidatie, fusie of splitsing van het beroepspensioenfonds; en
+f. het omzetten van het beroepspensioenfonds in een andere rechtsvorm, bedoeld in artikel 18 van Boek 2 van het Burgerlijk Wetboek.
+4. De statuten voorzien in een regeling voor geschillen over goedkeuring van besluiten door de raad van toezicht. Het ontbreken van de goedkeuring van de raad van toezicht op een besluit als bedoeld in het derde lid tast de vertegenwoordigingsbevoegdheid van bestuur of bestuurders niet aan.
+5. De raad van toezicht meldt disfunctioneren van het bestuur aan het verantwoordingsorgaan en aan de partij die bevoegd is tot benoeming van het bestuur. Indien de partij die bevoegd is tot benoeming van het bestuur naar aanleiding van de melding niet binnen een redelijke termijn, naar tevredenheid van de raad van toezicht, handelt, meldt de raad van toezicht het disfunctioneren van het bestuur aan De Nederlandsche Bank N.V.
+6. De raad van toezicht stelt een profielschets op voor leden van de raad van toezicht.
+7. Het bestuur van het beroepspensioenfonds en de raad van toezicht komen ten minste tweemaal per kalenderjaar in vergadering bijeen.
+8. De visitatiecommissie heeft tot taak toezicht te houden op het beleid van het bestuur en op de algemene gang van zaken in het beroepspensioenfonds. De visitatiecommissie is ten minste belast met het toezien op adequate risicobeheersing en evenwichtige belangenafweging door het bestuur en legt verantwoording af over de uitvoering van de taken aan het verantwoordingsorgaan en in het jaarverslag.
+9. Het beroepspensioenfonds verstrekt desgevraagd aan de raad van toezicht of de visitatiecommissie tijdig alle inlichtingen en gegevens, die deze voor de vervulling van zijn taak redelijkerwijs nodig heeft. De inlichtingen worden desgevraagd schriftelijk verstrekt.
+10. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld inzake dit artikel.

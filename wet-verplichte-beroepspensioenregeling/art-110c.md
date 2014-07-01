@@ -1,0 +1,11 @@
+# Artikel 110c. Geschiktheid en betrouwbaarheid
+1. Het beleid van een beroepspensioenfonds wordt bepaald of mede bepaald door personen die geschikt zijn in verband met de uitoefening van het bedrijf van het beroepspensioenfonds.
+2. Het intern toezicht van een beroepspensioenfonds door een visitatiecommissie wordt uitgeoefend door personen die geschikt zijn voor de uitoefening van dit toezicht.
+3. Het beleid van een beroepspensioenfonds wordt bepaald of mede bepaald door personen wier betrouwbaarheid buiten twijfel staat. Het intern toezicht van een beroepspensioenfonds door een visitatiecommissie wordt uitgeoefend door personen wier betrouwbaarheid buiten twijfel staat.
+4. Het bestuur van het beroepspensioenfonds meldt elke wijziging in de samenstelling van de personen die het beleid van het beroepspensioenfonds bepalen of mede bepalen vooraf aan de toezichthouder.
+5. Een wijziging als bedoeld in het vierde lid wordt niet doorgevoerd indien:
+a. de toezichthouder binnen zes weken na ontvangst van de melding van de wijziging aan het beroepspensioenfonds bekend maakt dat hij niet met de voorgenomen wijziging instemt; of
+b. de toezichthouder om nadere gegevens of inlichtingen heeft verzocht en binnen zes weken na ontvangst van die gegevens of inlichtingen aan het beroepspensioenfonds bekend maakt dat hij niet met de voorgenomen wijziging instemt.
+6. Indien zich een wijziging voordoet van de antecedenten die van invloed is op de betrouwbaarheid van de personen die het beleid van het beroepspensioenfonds bepalen of mede bepalen stelt het beroepspensioenfonds de toezichthouder daarvan onverwijld schriftelijk in kennis.
+7. De betrouwbaarheid van een persoon staat buiten twijfel wanneer dat eenmaal door de toezichthouder voor de toepassing van deze wet is vastgesteld, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling.
+8. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot dit artikel. Die regels hebben onder meer betrekking op de misdrijven die, indien begaan door een persoon als bedoeld in het derde lid, met het oog op de belangen die de wet beoogt te beschermen, tot de vaststelling leiden dat de betrouwbaarheid van die persoon niet buiten twijfel staat.
