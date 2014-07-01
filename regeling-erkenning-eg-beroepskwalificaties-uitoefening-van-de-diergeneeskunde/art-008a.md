@@ -1,4 +1,0 @@
-# Artikel 8a
-Tot de uitoefening van de diergeneeskunde, bedoeld in artikel 3, eerste lid, van de wet, zijn toegelaten personen die in het bezit zijn van een opleidingstitel van dierenarts die is afgegeven door het voormalige Joegoslavië of ter verwerving waarvan de opleiding in Kroatië is aangevangen vóór 8 oktober 1991, mits die opleidingstitel vergezeld gaat van een officieel gewaarmerkte verklaring, waarin door de Kroatische autoriteiten wordt bevestigd dat:
-a. de opleidingstitel, wat betreft de toegang tot de uitoefening van het betreffende beroep, op het grondgebied van Kroatië dezelfde rechtsgeldigheid heeft als de Kroatische opleidingstitels van dierenarts, en
-b. de bezitter van de opleidingstitel de werkzaamheden van dierenarts gedurende ten minste drie opeenvolgende jaren tijdens de vijf jaren voorafgaande aan de afgifte van de verklaring daadwerkelijk en op wettige wijze heeft uitgeoefend.
