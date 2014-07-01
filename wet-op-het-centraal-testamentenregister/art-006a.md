@@ -1,2 +1,2 @@
 # Artikel 6a
-Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
+De artikelen 18, 19, 20, 23, 26, 27, 34, 35 en 41 van de Kaderwet zelfstandige bestuursorganen zijn van overeenkomstige toepassing op uitoefening van de taak, bedoeld in artikel 1, derde lid.
