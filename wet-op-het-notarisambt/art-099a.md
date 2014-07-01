@@ -1,6 +1,6 @@
 # Artikel 99a
 1. De voorzitter van de kamer voor het notariaat kan naar aanleiding van een klacht een vooronderzoek gelasten naar een notaris, toegevoegd notaris of kandidaat-notaris, na afloop waarvan verslag wordt uitgebracht aan de kamer. Het Bureau ontvangt een afschrift van het verslag en alle daarbij behorende stukken.
-2. De voorzitter kan het verrichten van het vooronderzoek opdragen aan een of meer leden of plaatsvervangende leden van de kamer, aan de secretaris of plaatsvervangend secretaris, alsmede aan personen die werkzaam zijn bij het Bureau of andere deskundigen.
+2. De voorzitter kan het verrichten van het vooronderzoek opdragen aan de plaatsvervangend voorzitter, een of meer leden of plaatsvervangende leden van de kamer, aan de secretaris of plaatsvervangend secretaris, alsmede aan personen die werkzaam zijn bij het Bureau of andere deskundigen.
 3. De voorzitter bepaalt de omvang van het vooronderzoek. Het vooronderzoek kan zich mede uitstrekken tot andere dan de in de klacht vermelde feiten. De voorzitter van de kamer kan de vooronderzoeker aanwijzingen geven.
 4. Op het vooronderzoek en de in het tweede lid bedoelde personen zijn artikel 111a, tweede lid, alsmede de artikelen 5:13 tot en met 5:18 en 5:20, eerste lid, van de Algemene wet bestuursrecht van overeenkomstige toepassing.
 5. Ten behoeve van het verrichten van het vooronderzoek door de aangewezen personen, bedoeld in het tweede lid, zijn de notaris en de onder zijn verantwoordelijkheid werkzame personen ten opzichte van de aangewezen personen niet gehouden aan de geheimhoudingsplicht, bedoeld in artikel 22.
@@ -8,5 +8,5 @@
 7. De vooronderzoeker stelt de klager en de betrokken notaris, toegevoegd notaris of kandidaat-notaris in de gelegenheid te worden gehoord.
 8. De betrokkene is niet verplicht ten behoeve van het vooronderzoek verklaringen omtrent zijn onderzochte handelen of nalaten af te leggen. Voor het horen wordt aan de betrokkene medegedeeld dat hij niet verplicht is tot antwoorden.
 9. Indien de klacht is ingediend door het Bureau, wordt het vooronderzoek niet opgedragen aan degenen die betrokken waren bij de uitoefening van het toezicht dat aanleiding gaf tot de indiening van de klacht.
-10. Een lid of plaatsvervangend lid van de kamer dat vooronderzoek in een zaak heeft verricht, neemt op straffe van nietigheid van de beslissing van de kamer geen deel aan de behandeling van die zaak door de kamer.
+10. De plaatsvervangend voorzitter, een lid of plaatsvervangend lid van de kamer dat vooronderzoek in een zaak heeft verricht, neemt op straffe van nietigheid van de beslissing van de kamer geen deel aan de behandeling van die zaak door de kamer.
 11. De voorzitter kan het vooronderzoek te allen tijde opschorten of beëindigen.
