@@ -1,0 +1,5 @@
+# Artikel 8b
+1. De Nederlandse strafwet is toepasselijk op een ieder tegen wie de strafvervolging door Nederland van een vreemde staat is overgenomen op grond van een verdrag waaruit de bevoegdheid tot strafvervolging voor Nederland volgt.
+2. De Nederlandse strafwet is toepasselijk op een ieder tegen wie de strafvervolging door het Nederlands openbaar ministerie is overgenomen op grond van een daartoe strekkend verzoek van het openbaar ministerie van Bonaire, Sint Eustatius en Saba.
+3. De Nederlandse strafwet is voorts toepasselijk op een ieder wiens uitlevering ter zake van een terroristisch misdrijf dan wel een misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf ontoelaatbaar is verklaard, afgewezen of geweigerd.
+4. De Nederlandse strafwet is voorts toepasselijk op een ieder tegen wie de strafvervolging door Nederland is overgenomen op verzoek van een krachtens verdrag of besluit van een door een volkenrechtelijke organisatie ingesteld internationaal gerecht.
