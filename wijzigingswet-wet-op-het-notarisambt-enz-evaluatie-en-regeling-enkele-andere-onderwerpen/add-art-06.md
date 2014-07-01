@@ -1,0 +1,2 @@
+# Artikel VI
+Bij regeling van Onze Minister van Justitie kunnen nadere regels worden gesteld over de indiening en behandeling van verzoeken als bedoeld in artikel 30b, eerste lid, van de Wet op het notarisambt tot een in die regeling te bepalen tijdstip, dat niet langer dan vijf jaar na inwerkingtreding van artikel I, onderdeel W, ligt. In de regeling kan worden afgeweken van de op grond van artikel 30c, tweede lid, juncto artikel 8, vijfde lid, geldende beslistermijn.
