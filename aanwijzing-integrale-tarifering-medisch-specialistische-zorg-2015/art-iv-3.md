@@ -1,0 +1,6 @@
+# Artikel IV.3. individuele grenzen
+1. De zorgautoriteit stelt ambtshalve per individuele zorgverlener die zorg verleend als bedoeld in artikel IV.1 jaarlijks een individuele bovengrens als bedoeld in artikel 50, tweede lid, aanhef en onder c, van de wet vast.
+2. De individuele grens is, indien de macrogrens niet is overschreden, gelijk aan de door die zorgverlener in het desbetreffende jaar gerealiseerde omzet.
+3. De individuele grens is, indien de macrogrens is overschreden, gelijk aan het procentuele aandeel van de gerealiseerde omzet van die zorgverlener in de totale omzet van dat jaar van alle zorgverleners gezamenlijk, vermenigvuldigd met de macrogrens.
+4. Tot de omzet van een individuele zorgverlener worden niet gerekend bedragen die zijn toegekend op basis van de toepassing van de beleidsregels van de zorgautoriteit ter uitwerking van de aanwijzing overgangsregeling kapitaallasten of van de aanwijzingen met betrekking tot beschikbaarheidbijdragen.
+5. Onder omzet van de zorgverlener wordt in dit artikel verstaan de opbrengt die de zorgverlener zou kunnen hebben uit tarieven die door de zorgaanbieder in rekening zijn gebracht of hadden kunnen worden gebracht voor zorg verleend aan eigen patiënten.

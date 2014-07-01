@@ -1,0 +1,4 @@
+# Artikel IV.4. individuele aanwijzing tot afdracht
+1. In geval van overschrijding van de individuele grens, bedoeld in artikel IV.3, eerste lid, geeft de zorgautoriteit individuele zorgverleners een aanwijzing in de zin van artikel 76, tweede lid, van de wet, tot de afdracht aan het Zorgverzekeringsfonds.
+2. De zorgautoriteit stelt de afdracht, bedoeld in het eerste lid, vast op basis van het door de minister te verstrekken bedrag dat de zorgautoriteit als basis dient te nemen voor handhaving van de macrogrens.
+3. Indien de kosten van de afdracht en inning van dit bedrag bij een zorgverlener naar het oordeel van de zorgautoriteit niet in verhouding staan met baten, kan de zorgautoriteit de aanwijzing, bedoeld in het eerste lid, onder voorwaarden, voorschriften of beperkingen bij die zorgverlener achterwege laten.

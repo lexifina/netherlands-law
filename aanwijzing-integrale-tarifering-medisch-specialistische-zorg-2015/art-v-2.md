@@ -1,0 +1,4 @@
+# Artikel V.2. garantie kapitaallasten na macrobeheersmodel
+1. De zorgautoriteit past de overgangsregeling kapitaallasten in verband met de invoering van integrale tarifering zodanig aan dat de materiële effecten van de overgangsregeling ongewijzigd blijven ten opzichte van de oorspronkelijke overgangsregeling kapitaallasten.
+2. De op grond van het eerste lid aangepaste overgangsregeling kapitaallasten wordt separaat van het integraal macrobeheersmodel als omschreven in het voorgaande hoofdstuk toegepast.
+3. De zorgautoriteit voert de op grond van het eerste lid aangepaste overgangsregeling kapitaallasten uit met inachtneming van de berekening van de vergoeding voor kapitaallasten die instellingen als bedoeld in de artikelen 3 en 5 van de Aanwijzing kapitaallasten transitiemodel behouden na de toepassing van het integraal macrobeheersmodel.
