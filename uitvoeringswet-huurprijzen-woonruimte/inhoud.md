@@ -13,9 +13,9 @@
 ### § 4. Verlaging van de huurprijs
 ### § 5. Verhoging van de huurprijs na de totstandkoming van voorzieningen, veranderingen of toevoegingen
 ### § 6. De in rekening te brengen huurprijs bij vermindering van het woongenot als gevolg van een gebrek
-### § 7. De huurprijs en het voorschotbedrag aan servicekosten indien tussen partijen slechts een prijs en niet een huurprijs is overeengekomen
-### § 8. De betalingsverplichting met betrekking tot de servicekosten
-### § 9. Het voorschotbedrag van de servicekosten
+### § 7. De huurprijs en het voorschotbedrag aan kosten voor nutsvoorzieningen met een individuele meter en servicekosten indien tussen partijen slechts een prijs en niet een huurprijs is overeengekomen
+### § 8. De betalingsverplichting met betrekking tot de kosten voor nutsvoorzieningen met een individuele meter en servicekosten
+### § 9. Het voorschotbedrag van de kosten voor nutsvoorzieningen met een individuele meter
 ### § 10. Geschillen die voortvloeien uit de Wet op het overleg huurders verhuurder
 ## Hoofdstuk IIIa. Bescherming van persoonsgegevens
 ## Hoofdstuk IV. Voorzittersuitspraken
