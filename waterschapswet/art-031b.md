@@ -1,0 +1,2 @@
+# Artikel 31b
+Ter vervulling van een tussentijds opengevallen plaats is niet benoembaar tot lid van het algemeen bestuur hij die na de laatstgehouden periodieke verkiezing van de leden in het algemeen bestuur, behorende bij de categorie van belanghebbenden, bedoeld in artikel 12, tweede lid, onderdeel a, wegens handelen in strijd met artikel 33 van het lidmaatschap van het algemeen bestuur is vervallen verklaard.
