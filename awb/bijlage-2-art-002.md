@@ -35,7 +35,7 @@ b. een besluit omtrent goedkeuring van een besluit als bedoeld in artikel 9
 Kaderwet dienstplicht: de artikelen 10, eerste lid, 11 en 13
 Kernenergiewet
 Kieswet:
-a. de artikelen D 3b, vierde lid, D 6, D 8, G 1 tot en met G 4, I 4, K 8, L 11, M 4, Q 6, S 2, X 4, derde lid, X 5, derde lid, X 7, vierde lid, en X 8, vierde lid
+a. de artikelen D 3b, vierde lid, D 6, D 8, G 1 tot en met G 4, I 4, K 8, L 11, M 4, Q 6, S 2, X 4, derde lid, X 4a, derde lidX 5, derde lid, X 7, vierde lid, X 7a, vierde lid, en X 8, vierde lid
 b. artikel Y 2 in samenhang met artikel D 3, achtste lid, D 6, D 8, G 1, G 4, I 4, K 8, L 11 of M 4
 c. de artikelen Y 32 en Y 33
 Mijnbouwwet:
@@ -64,8 +64,10 @@ Uitvoeringswet verordening Europees burgerinitiatief: artikel 2, aanhef en onder
 Vreemdelingenwet 2000: de artikelen 43 en 45, vierde lid
 Waterschapswet:
 a. een besluit van Onze Minister van Infrastructuur en Milieu inzake de goedkeuring van een besluit als bedoeld in artikel 5
-b. artikel 21, eerste lid
-c. artikel 61, voor zover het besluit betrekking heeft op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, van de Wet milieubeheer, bedoelde wetten of wettelijke bepalingen dan wel de Ontgrondingenwet
+b. een besluit van het algemeen bestuur van een waterschap als bedoeld in artikel 31, derde lid
+c. een besluit van het algemeen bestuur van een waterschap als bedoeld in artikel 33, vierde lid
+d. artikel 21, eerste lid
+e. artikel 61, voor zover het besluit betrekking heeft op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, van de Wet milieubeheer, bedoelde wetten of wettelijke bepalingen dan wel de Ontgrondingenwet
 d. artikel 156, eerste lid
 Waterwet:
 a. artikel 3.13, derde lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap

@@ -56,9 +56,10 @@ Telecommunicatiewet: de artikelen 3.5, 3.22 en 18.9, eerste en tweede lid
 Tijdelijke experimentenwet stembiljetten en centrale stemopneming: artikel 2
 Tracéwet: de artikelen 2, eerste lid, 4, eerste lid, onderdeel c, en 23, eerste lid
 Uitleveringswet
+Uitvoeringswet huurprijzen woonruimte: de artikelen 7, tweede, derde, vijfde, achtste en negende lid, en 7a, derde lid
 Waterschapswet: artikel 156, eerste lid, voor zover het betreft de weigering om een vernietiging te bevorderen en het niet tijdig nemen van een besluit tot vernietiging
 Waterwet: artikel 3.13, derde lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
-Waterwet: de artikelen 4.1, 4.4 en 6.28
+Waterwet: de artikelen: 4.1; 4.4; 4.6; 5.1, behoudens voor zover daarbij de ligging van een waterbergingsgebied of beschermingszone als bedoeld in die wet wordt vastgesteld of gewijzigd; 5.5; 6.17, tweede lid, 6.28;
 Wegenverkeerswet 1994: de artikelen 132c, vijfde lid, en 132d, tweede lid
 Wet administratiefrechtelijke handhaving verkeersvoorschriften
 Wet algemene bepalingen omgevingsrecht:
