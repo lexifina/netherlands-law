@@ -1,0 +1,5 @@
+# Article VII. Signature, ratification, acceptance, approval and accession
+1. The present Convention shall be open for signature until 15 January 1973 at the Office of the United Nations at Geneva and subsequently from 1 February 1973 until 31 December 1973 inclusive at the Headquarters of the Organization at London by all States Members of the United Nations or Members of any of the Specialized Agencies or of the International Atomic Energy Agency or Parties to the Statute of the International Court of Justice, and by any other State invited by the General Assembly of the United Nations to become a Party to the present Convention.
+2. The present Convention is subject to ratification, acceptance or approval by States which have signed it.
+3. The present Convention shall remain open for accession by any State referred to in paragraph 1.
+4. Instruments of ratification, acceptance, approval or accession shall be deposited with the Secretary-General of the Organization (hereinafter referred to as "the Secretary-General").
