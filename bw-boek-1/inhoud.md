@@ -16,7 +16,7 @@
 #### Afdeling 10. Inschrijving van buitenlandse akten en de rechterlijke last tot het opmaken van een vervangende akte van geboorte
 #### Afdeling 11. De verklaring voor recht omtrent de rechtsgeldigheid in Nederland van een buitenlandse akte of uitspraak
 #### Afdeling 12. Voorziening tegen de weigering tot het opmaken van een akte van de burgerlijke stand of tot een andere verrichting
-#### Afdeling 13. De rechterlijke last tot wijziging van de vermelding van het geslacht in de akte van geboorte
+#### Afdeling 13. Wijziging van de vermelding van het geslacht in de akte van geboorte
 #### Afdeling 14. De Commissie van advies voor de zaken betreffende de burgerlijke staat en de nationaliteit
 ### Titel 5. Het huwelijk
 #### Algemene bepaling

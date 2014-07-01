@@ -1,3 +1,4 @@
 # Artikel 28b
-1. Het verzoek wordt toegewezen indien de rechtbank van oordeel is dat voldoende is komen vast te staan dat de verzoeker de overtuiging heeft tot het andere geslacht te behoren dan in de akte van geboorte is vermeld en dat deze overtuiging als van blijvende aard kan worden beschouwd en de verzoeker voldoet aan de in het eerste lid van artikel 28 gestelde voorwaarden.
-2. Indien de rechtbank het verzoek om wijziging van de vermelding van het geslacht inwilligt, kan zij desverzocht tevens de wijziging van de voornamen van de verzoeker gelasten.
+1. Indien aan artikel 28a is voldaan voegt de ambtenaar van de burgerlijke stand aan de akte van geboorte een latere vermelding toe van wijziging van het geslacht. Artikel 27 is van overeenkomstige toepassing.
+2. In het in de eerste zin van het eerste lid bedoelde geval kan de ambtenaar van de burgerlijke stand desverzocht tevens overgaan tot wijziging van de voornamen van degene op wie de aangifte betrekking heeft.
+3. In het geval bedoeld in artikel 28, eerste lid, tweede zin, schrijft de ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage de akte van geboorte tevens in het register van geboorten van die gemeente in.
