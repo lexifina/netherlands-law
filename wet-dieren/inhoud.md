@@ -5,10 +5,12 @@
 ### § 1. Handelingen met dieren
 ### § 2. Regels over diervoeders
 ### § 3. Regels over diergeneesmiddelen
+### § 4. Biotechnologie
 ### § 5. Overig
 ## Hoofdstuk 3. Dierlijke producten
 ### § 1. Algemene regels over dierlijke producten
 ### § 2. Aanvullende regels over dierlijke bijproducten
+## Hoofdstuk 4. Toelating beroepen in de uitoefening van de diergeneeskunde
 ## Hoofdstuk 5. Maatregelen
 ### § 1. Algemeen
 ### § 3. Bestuurlijke maatregelen
@@ -19,6 +21,7 @@
 ### § 2. Herstelmaatregelen
 ### § 3. Bestuurlijke boete
 ### § 4. Strafrechtelijke handhaving
+### § 5. Veterinair tuchtrecht
 ### § 6. Gidsen voor goede praktijken
 ### § 7. Overig
 ## Hoofdstuk 9. Financiën
