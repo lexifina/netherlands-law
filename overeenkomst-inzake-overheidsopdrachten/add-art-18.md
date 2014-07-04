@@ -1,0 +1,19 @@
+# Article XVIII. Domestic Review Procedures
+1. Each Party shall provide a timely, effective, transparent and non-discriminatory administrative or judicial review procedure through which a supplier may challenge:
+a) a breach of the Agreement; or
+b) where the supplier does not have a right to challenge directly a breach of the Agreement under the domestic law of a Party, a failure to comply with a Party's measures implementing this Agreement,
+arising in the context of a covered procurement, in which the supplier has, or has had, an interest. The procedural rules for all challenges shall be in writing and made generally available.
+2. In the event of a complaint by a supplier, arising in the context of covered procurement in which the supplier has, or has had, an interest, that there has been a breach or a failure as referred to in paragraph 1, the Party of the procuring entity conducting the procurement shall encourage the entity and the supplier to seek resolution of the complaint through consultations. The entity shall accord impartial and timely consideration to any such complaint in a manner that is not prejudicial to the supplier's participation in ongoing or future procurement or its right to seek corrective measures under the administrative or judicial review procedure.
+3. Each supplier shall be allowed a sufficient period of time to prepare and submit a challenge, which in no case shall be less than 10 days from the time when the basis of the challenge became known or reasonably should have become known to the supplier.
+4. Each Party shall establish or designate at least one impartial administrative or judicial authority that is independent of its procuring entities to receive and review a challenge by a supplier arising in the context of a covered procurement.
+5. Where a body other than an authority referred to in paragraph 4 initially reviews a challenge, the Party shall ensure that the supplier may appeal the initial decision to an impartial administrative or judicial authority that is independent of the procuring entity whose procurement is the subject of the challenge.
+6. Each Party shall ensure that a review body that is not a court shall have its decision subject to judicial review or have procedures that provide that:
+a) the procuring entity shall respond in writing to the challenge and disclose all relevant documents to the review body;
+b) the participants to the proceedings (hereinafter referred to as "participants") shall have the right to be heard prior to a decision of the review body being made on the challenge;
+c) the participants shall have the right to be represented and accompanied;
+d) the participants shall have access to all proceedings;
+e) the participants shall have the right to request that the proceedings take place in public and that witnesses may be presented; and
+f) the review body shall make its decisions or recommendations in a timely fashion, in writing, and shall include an explanation of the basis for each decision or recommendation.
+7. Each Party shall adopt or maintain procedures that provide for:
+a) rapid interim measures to preserve the supplier's opportunity to participate in the procurement. Such interim measures may result in suspension of the procurement process. The procedures may provide that overriding adverse consequences for the interests concerned, including the public interest, may be taken into account when deciding whether such measures should be applied. Just cause for not acting shall be provided in writing; and
+b) where a review body has determined that there has been a breach or a failure as referred to in paragraph 1, corrective action or compensation for the loss or damages suffered, which may be limited to either the costs for the preparation of the tender or the costs relating to the challenge, or both.

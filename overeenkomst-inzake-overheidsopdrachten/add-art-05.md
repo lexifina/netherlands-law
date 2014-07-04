@@ -1,0 +1,23 @@
+# Article V. Developing Countries
+1. In negotiations on accession to, and in the implementation and administration of, this Agreement, the Parties shall give special consideration to the development, financial and trade needs and circumstances of developing countries and least developed countries (collectively referred to hereinafter as "developing countries", unless specifically identified otherwise), recognizing that these may differ significantly from country to country. As provided for in this Article and on request, the Parties shall accord special and differential treatment to:
+a) least developed countries; and
+b) any other developing country, where and to the extent that this special and differential treatment meets its development needs.
+2. Upon accession by a developing country to this Agreement, each Party shall provide immediately to the goods, services and suppliers of that country the most favourable coverage that the Party provides under its annexes to Appendix I to any other Party to this Agreement, subject to any terms negotiated between the Party and the developing country in order to maintain an appropriate balance of opportunities under this Agreement.
+3. Based on its development needs, and with the agreement of the Parties, a developing country may adopt or maintain one or more of the following transitional measures, during a transition period and in accordance with a schedule, set out in its relevant annexes to Appendix I, and applied in a manner that does not discriminate among the other Parties:
+a) a price preference programme, provided that the programme:
+(i) provides a preference only for the part of the tender incorporating goods or services originating in the developing country applying the preference or goods or services originating in other developing countries in respect of which the developing country applying the preference has an obligation to provide national treatment under a preferential agreement, provided that where the other developing country is a Party to this Agreement, such treatment would be subject to any conditions set by the Committee; and
+(ii) is transparent, and the preference and its application in the procurement are clearly described in the notice of intended procurement;
+b) an offset, provided that any requirement for, or consideration of, the imposition of the offset is clearly stated in the notice of intended procurement;
+c) the phased-in addition of specific entities or sectors; and
+d) a threshold that is higher than its permanent threshold.
+4. In negotiations on accession to this Agreement, the Parties may agree to the delayed application of any specific obligation in this Agreement, other than Article IV:1(b), by the acceding developing country while that country implements the obligation. The implementation period shall be:
+a) for a least developed country, five years after its accession to this Agreement; and
+b) for any other developing country, only the period necessary to implement the specific obligation and not to exceed three years.
+5. Any developing country that has negotiated an implementation period for an obligation under paragraph 4 shall list in its Annex 7 to Appendix I the agreed implementation period, the specific obligation subject to the implementation period and any interim obligation with which it has agreed to comply during the implementation period.
+6. After this Agreement has entered into force for a developing country, the Committee, on request of the developing country, may:
+a) extend the transition period for a measure adopted or maintained under paragraph 3 or any implementation period negotiated under paragraph 4; or
+b) approve the adoption of a new transitional measure under paragraph 3, in special circumstances that were unforeseen during the accession process.
+7. A developing country that has negotiated a transitional measure under paragraph 3 or 6, an implementation period under paragraph 4 or any extension under paragraph 6 shall take such steps during the transition period or implementation period as may be necessary to ensure that it is in compliance with this Agreement at the end of any such period. The developing country shall promptly notify the Committee of each step.
+8. The Parties shall give due consideration to any request by a developing country for technical cooperation and capacity building in relation to that country's accession to, or implementation of, this Agreement.
+9. The Committee may develop procedures for the implementation of this Article. Such procedures may include provisions for voting on decisions relating to requests under paragraph 6.
+10. The Committee shall review the operation and effectiveness of this Article every five years.
