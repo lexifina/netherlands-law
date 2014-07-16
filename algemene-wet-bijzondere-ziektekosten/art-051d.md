@@ -1,0 +1,9 @@
+# Artikel 51d
+Bij ministeriële regeling kunnen regels worden gesteld over:
+a. de inhoud en inrichting van het werkprogramma, bedoeld in artikel 51, eerste lid;
+b. de inhoud en inrichting van de begroting, bedoeld in artikel 26 van de Kaderwet zelfstandige bestuursorganen;
+c. de inhoud en inrichting van het jaarverslag en de jaarrekening, bedoeld in de artikelen 18 en 34 van de Kaderwet zelfstandige bestuursorganen;
+d. de accountantscontrole van de jaarrekening;
+e. de omvang van de door het CAK te vormen egalisatiereserve, bedoeld in artikel 33 van de Kaderwet zelfstandige bestuursorganen;
+f. de wijze waarop en de voorwaarden waaronder het budget, bedoeld in artikel 51a, wordt vastgesteld;
+g. de gegevens die worden verstrekt ten behoeve van de vaststelling van het budget.
