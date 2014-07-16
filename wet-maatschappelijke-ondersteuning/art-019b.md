@@ -1,0 +1,2 @@
+# Artikel 19b
+De Stichting Centrum Indicatiestelling Zorg en een stichting als bedoeld in artikel 4 van de Wet op de jeugdzorg verstrekken aan Onze Minister of in geval van toepassing van artikel 19a, derde lid, aan het bestuursorgaan, bedoeld in artikel 19a, derde lid, de persoonsgegevens die voor Onze Minister, respectievelijk het bestuursorgaan, noodzakelijk zijn voor de uitvoering van artikel 19a.
