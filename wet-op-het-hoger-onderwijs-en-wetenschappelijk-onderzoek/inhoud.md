@@ -41,6 +41,8 @@
 #### Paragraaf 1. Aanmelding, studiekeuzeactiviteiten en studiekeuzeadvies
 #### Paragraaf 1a. Inschrijving
 #### Paragraaf 2. Eigen bijdragen
+#### Paragraaf 2a. Profileringsfonds
+#### Paragraaf 2b. Financiële ondersteuning door Onze minister
 #### Paragraaf 3. Gebruik van persoonsgebonden nummer
 #### Paragraaf 4. Bijzondere bepalingen inschrijving
 #### Paragraaf 4a. Regels voor de selectie van studenten voor opleidingen met een toelatingsbeperking
@@ -93,7 +95,7 @@
 ### Titel 3. Overige bepalingen
 ## Hoofdstuk 14. Beroep bij de bestuursrechter
 ## Hoofdstuk 15. Inhouding bekostiging, schadevergoeding en strafbepalingen
-## Hoofdstuk 16. Overgangsvoorzieningen bij invoering van de wet en enkele andere overgangsvoorzieningen
+## Hoofdstuk 16. Overgangsvoorzieningen onder meer in verband met de invoering van de wet en voorschriften in verband met fusie, omzetting, splitsing, verplaatsing en bestuursoverdracht
 ### Paragraaf 1. Onderwijsbevoegdheden en rechtspositie
 ### Paragraaf 2. Onderwijs en vooropleidingseisen
 ### Paragraaf 3. Getuigschriften en titulatuur
