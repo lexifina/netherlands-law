@@ -1,0 +1,2 @@
+# Artikel II
+Op de inrichting van de jaarrekening, het jaarverslag en de productenrealisatie van provincies, gemeenten en andere openbare lichamen of gemeenschappelijke organen als bedoeld in artikel 8 van de Wet gemeenschappelijke regelingen met betrekking tot het jaar 2013 is het Besluit begroting en verantwoording provincies en gemeenten van toepassing zoals dat luidde voor de inwerkingtreding van dit besluit.
