@@ -1,0 +1,8 @@
+# Artikel 8ll
+1. In afwijking van artikel 2:41 van de Regeling LNV-subsidies bedraagt de subsidie 25% van de subsidiabele kosten.
+2. De subsidie bedraagt ten minste € 5.000 en ten hoogste € 50.000.
+3. In afwijking van het tweede lid bedraagt een subsidie voor de in bijlage 2, hoofdstuk 7, punt A, categorie 7, eerste lid, van de Regeling LNV-subsidies opgesomde apparatuur, installaties of machines ten hoogste:
+a. € 187.500 voor onderdeel c;
+b. € 125.000 voor onderdeel d;
+c. € 150.000 voor onderdeel e;
+d. € 225.000 voor onderdeel g.

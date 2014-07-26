@@ -1,0 +1,2 @@
+# Artikel 8gg
+De extra kosten, bedoeld in bijlage 2, hoofdstuk 4, punt C, bij de Regeling LNV-subsidies betreffen de kosten die worden gemaakt naast de norminvesteringen met betrekking tot dierenwelzijn en, voor zover van toepassing met betrekking tot milieu of diergezondheid, in een gangbare stal, als bedoeld in de kwantitatieve informatie veehouderij.

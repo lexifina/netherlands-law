@@ -1,0 +1,4 @@
+# Artikel 8y
+Het subsidieplafond bedraagt:
+a. € 250.000 voor innovatieprojecten met betrekking tot stalmaatregelen;
+b. € 250.000 voor innovatieprojecten met betrekking tot voer- en managementmaatregelen.

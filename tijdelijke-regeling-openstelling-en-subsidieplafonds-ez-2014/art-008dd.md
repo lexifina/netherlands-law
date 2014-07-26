@@ -1,0 +1,2 @@
+# Artikel 8dd
+In afwijking van artikel 2:41 van de Regeling LNV-subsidies, bedraagt de subsidie 40% van de subsidiabele kosten, met dien verstande dat de subsidie ten hoogste € 250.000 bedraagt.
