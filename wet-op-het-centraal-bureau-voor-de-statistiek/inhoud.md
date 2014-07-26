@@ -19,6 +19,7 @@
 ### Paragraaf 2a. Uitvoering van verordening 638/2004
 ### Paragraaf 3. Verstrekking van gegevens
 ### Paragraaf 4. Bestuurlijke boete en last onder dwangsom
+## Hoofdstuk 5a. Het verlenen van bijstand bij inspecties
 ## Hoofdstuk 6. Informatievoorziening
 ## Hoofdstuk 7. Financieel toezicht
 ### Paragraaf 1. Begroting

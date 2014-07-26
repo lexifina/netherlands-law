@@ -1,0 +1,3 @@
+# Artikel 52b
+1. De directeur-generaal wijst, in geval van een verzoek om bijstand als bedoeld in artikel 52a, bij besluit de ambtenaren aan die zijn belast met het verlenen van deze bijstand.
+2. De ambtenaren, bedoeld in het eerste lid, hebben de bevoegdheden, genoemd in artikel 5, eerste lid, onderdelen a tot en met e, van Gedelegeerd besluit 2012/678/EU van de Commissie van 29 juni 2012 betreffende onderzoeken en boeten in verband met de manipulatie van statistieken als bedoeld in Verordening (EU) nr. 1173/2011 van het Europees Parlement en de Raad inzake de effectieve handhaving van het begrotingstoezicht in het eurogebied (Pb EU 2012, L 306).
