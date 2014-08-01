@@ -7,12 +7,13 @@ c. de groep;
 d. indien van toepassing het gewicht ten behoeve van de toekenning van aanvullende bekostiging voor personeelskosten voor de bestrijding van onderwijsachterstanden, indien het betreft een leerling die is ingeschreven op een basisschool;
 e. indien van toepassing de aanduiding dat het betreft een leerling met een niet-Nederlandse culturele achtergrond, indien het betreft een leerling die is ingeschreven op een speciale school voor basisonderwijs, dan wel de aanduiding dat het betreft een leerling met een niet-Nederlandse culturele achtergrond met uitzondering van leerlingen van wie ten minste een van de ouders of voogden afkomstig is uit Suriname, de Nederlandse Antillen of Aruba, indien het betreft een leerling die is ingeschreven op een basisschool;
 f. indien van toepassing voor- en vroegschoolse educatie;
-g. indien van toepassing de uitslag van een onder verantwoordelijkheid van de school afgenomen onafhankelijke eindtoets basisonderwijs;
-h. het advies omtrent het volgen van aansluitend voortgezet onderwijs bij het verlaten van de school, zoals opgenomen in het onderwijskundig rapport, bedoeld in artikel 42;
+g. indien van toepassing de uitslag van de centrale eindtoets of andere eindtoets, bedoeld in artikel 9b, het niveau waarop de centrale eindtoets of andere eindtoets is afgelegd en indien geen centrale eindtoets of andere eindtoets is afgelegd de reden daarvan;
+h. het schooladvies, bedoeld in artikel 42, tweede lid;
 i. het registratienummer van de school of, indien sprake is van een nevenvestiging, het registratienummer daarvan;
-j. indien van toepassing de onderwijssoort dan wel het cluster, bedoeld in artikel 2, vierde lid onder d, van de Wet op de expertisecentra, de begindatum van de periode waarvoor de leerling toelaatbaar is verklaard door een commissie voor de indicatiestelling als bedoeld in artikel 28c van de Wet op de expertisecentra en het registratienummer van het regionaal expertisecentrum dat de indicatiestelling heeft verricht en van de school bedoeld in de Wet op de expertisecentra die de leerling begeleidt;
-k. indien van toepassing de aanduiding visueel gehandicapte leerling en de instelling die deze leerling begeleidt; en
-l. bekostigingsindicatie.
+j. [vervallen;]
+k. indien van toepassing de aanduiding visueel gehandicapte leerling en de instelling die deze leerling begeleidt;
+l. bekostigingsindicatie; en
+m. indien van toepassing de aanduiding dat het betreft een leerling van een afdeling als bedoeld in artikel 85a.
 3. Bij ministeriële regeling kan een nadere specificatie worden gegeven van de gegevens, bedoeld in het tweede en zevende lid, en kan worden bepaald welke van de gegevens, bedoeld in het tweede en zevende lid, niet langer behoeven te worden verstrekt. Bij ministeriële regeling kunnen voorts regels worden gesteld omtrent de tijdstippen en de wijze van verstrekking van de gegevens, bedoeld in het tweede en zevende lid.
 4. Het bevoegd gezag kan het persoonsgebonden nummer van een leerling, al dan niet tezamen met een of meer van de gegevens, bedoeld in het tweede en zevende lid, gebruiken in het verkeer met Onze minister ten behoeve van de vaststelling van de bekostiging van de school.
 5. Het bevoegd gezag en het hoofd, bedoeld in artikel 1, onder d, van de Leerplichtwet 1969, gebruiken het persoonsgebonden nummer van een leerling in contacten met een gemeente in het kader van de Leerplichtwet 1969, tezamen met de gegevens die noodzakelijk zijn voor het toezicht op de naleving van die wet door de gemeente.
