@@ -1,0 +1,4 @@
+# Artikel II. Overgangsbepalingen
+1. Artikel I is niet van toepassing op leerlingen die op 1 augustus 2014 zijn toegelaten tot het vijfde of zesde leerjaar vwo.
+2. In het schooljaar 2016–2017 wordt voor de eerste maal de gelegenheid geboden tot het afleggen van de examens Latijnse taal en cultuur en Griekse taal en cultuur op basis van de examenprogramma's, zoals beschreven in de bij deze regeling behorende bijlage 2, en wordt voor de laatste maal de gelegenheid geboden tot het afleggen van de examens Latijnse taal en literatuur en Griekse taal en literatuur en KCV op basis van de examenprogramma's, zoals deze luidden voor inwerkingtreding van deze regeling.
+3. Leerlingen die examen hebben gedaan in KCV en Latijnse taal en literatuur of Griekse taal en literatuur en na 2017 een vwo-diploma behalen, zijn vrijgesteld van het afleggen van het examen Latijnse taal en cultuur en/of Griekse taal en cultuur.

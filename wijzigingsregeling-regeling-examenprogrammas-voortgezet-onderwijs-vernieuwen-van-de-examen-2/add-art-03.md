@@ -1,0 +1,2 @@
+# Artikel III. Inwerkingtreding
+Deze regeling treedt in werking op het tijdstip waarop de Wijziging van de Wet op het voortgezet onderwijs en de Wet voortgezet onderwijs BES in verband met het vervangen van de maatschappelijke stage door een facultatief programmaonderdeel, het invoeren van de vakbenaming Latijnse taal en cultuur en Griekse taal en cultuur en het schrappen van het verplichte vak algemene natuurwetenschappen uit het gemeenschappelijke deel van de vwo-profielen in werking treedt. Dit is voorzien voor 1 augustus 2014.
