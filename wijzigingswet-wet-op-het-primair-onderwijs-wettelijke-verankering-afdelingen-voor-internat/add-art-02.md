@@ -1,0 +1,4 @@
+# Artikel II. Invoeringsbepaling
+1. De afdelingen voor internationaal georiënteerd basisonderwijs die op de dag voorafgaand aan de inwerkingtreding van deze wet door Onze minister werden bekostigd, worden aangemerkt als afdelingen als bedoeld in artikel 85a van de Wet op het primair onderwijs.
+2. Artikel 40, vijfde lid, van de Wet op het primair onderwijs is niet van toepassing ten aanzien van de leerlingen die op de dag voorafgaand aan de inwerkingtreding van deze wet onderwijs volgden op de afdeling als bedoeld in het eerste lid.
+3. Indien deze wet in werking treedt tijdens een periode van 5 jaar als bedoeld in artikel 113, eerste lid, van de Wet op het primair onderwijs ontvangen de scholen met een afdeling voor internationaal georiënteerd basisonderwijs als bedoeld in artikel 85a van genoemde wet voor de resterende duur van die periode een afzonderlijke bekostiging voor de materiële instandhouding van de afdeling.
