@@ -1,0 +1,2 @@
+# Artikel 44e
+Indien voor de inwerkingtreding van artikel 12n van de Instellingswet Autoriteit Consument en Markt een overtreding is begaan en beëindigd, blijft met betrekking tot de hoogte van de boete die ten hoogste kan worden opgelegd aan een in artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht bedoelde overtreder het recht gelden zoals dat luidde onmiddellijk voor het tijdstip van inwerkingtreding van genoemd artikel 12n.

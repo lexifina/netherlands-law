@@ -16,5 +16,5 @@ j. toegang verschaffen tot bijbehorende diensten.
 a. een onderneming waarvoor een verplichting geldt als bedoeld in het eerste lid bij het verlenen van toegang in acht neemt, of
 b. een onderneming die toegang heeft gekregen op basis van een verzoek als bedoeld in het eerste lid, in acht neemt.
 5. Artikel 6.4 is van overeenkomstige toepassing met betrekking tot voorschriften als bedoeld in het vierde lid.
-6. Voor zover dat op grond van de notificatierichtlijn noodzakelijk is, stelt de Autoriteit Consument en Markt de voorschriften niet vast dan nadat de voorschriften aan de Commissie van de Europese Gemeenschappen in ontwerp zijn medegedeeld en de van toepassing zijnde termijnen, bedoeld in artikel 9 van de notificatierichtlijn, zijn verstreken.
+6. Voor zover dat op grond van de notificatierichtlijn noodzakelijk is, stelt de Autoriteit Consument en Markt de voorschriften niet vast dan nadat de voorschriften aan de Europese Commissie in ontwerp zijn medegedeeld en de van toepassing zijnde termijnen, bedoeld in artikel 9 van de notificatierichtlijn, zijn verstreken.
 7. Voor zover de voorschriften technische normen of specificaties bevatten, stroken deze met de normen, bedoeld in artikel 17, eerste of tweede lid, van richtlijn nr. 2002/21/EG.

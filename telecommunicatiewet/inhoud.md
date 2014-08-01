@@ -23,7 +23,7 @@
 ### § 6a.1. Vaststellen van aanmerkelijke marktmacht
 ### § 6a.2. Met toegang verband houdende verplichtingen
 ### § 6a.3. Verplichtingen op eindgebruikersniveau
-### § 6a.6. Verticaal geïntegreerde openbare ondernemingen die beschikken over een economische machtspositie als bedoeld in artikel 82 van het EG-verdrag
+### § 6a.6. Verticaal geïntegreerde openbare ondernemingen die beschikken over een economische machtspositie als bedoeld in artikel 102 van het Verdrag betreffende de werking van de Europese Unie
 ### § 6a.7. Verplichtingen voor aanbieders van programmadiensten die beschikken over een aanmerkelijke marktmacht
 ## Hoofdstuk 6b. Consultatie
 ## Hoofdstuk 7. Eindgebruikersbelangen
@@ -55,7 +55,6 @@
 ### § 15.2. Bestuurlijke boete en last onder dwangsom
 ### § 15.3. Uit de handel nemen van uitrusting
 ## Hoofdstuk 16. Vergoedingen
-## Hoofdstuk 17. Beroep
 ## Hoofdstuk 18. Verdere bepalingen
 ## Hoofdstuk 19. Overgangsrecht in verband met de implementatie van het Europese geharmoniseerde regelgevende kader voor de elektronische communicatiesector 2002
 ## Hoofdstuk 20. Algemene overgangs- en slotbepalingen

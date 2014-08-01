@@ -1,0 +1,3 @@
+# Artikel 12p
+1. De werking van een beschikking van de Autoriteit Consument en Markt tot oplegging van een bestuurlijke boete wordt opgeschort totdat de termijn voor het indienen van een bezwaarschrift tegen die beschikking, is verstreken.
+2. Indien binnen de in het eerste lid bedoelde termijn een bezwaarschrift is ingediend, wordt, in afwijking van het eerste lid, de werking van de beschikking opgeschort met 24 weken gerekend met ingang van de dag na die waarop het besluit op de voorgeschreven wijze aan de overtreder is bekendgemaakt of, indien dat eerder is, tot de dag na die waarop de beslissing op bezwaar op de voorgeschreven wijze aan de overtreder is bekendgemaakt.

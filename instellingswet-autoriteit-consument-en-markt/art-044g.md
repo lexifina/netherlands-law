@@ -1,0 +1,2 @@
+# Artikel 44g
+Indien voor de inwerkingtreding van artikel 12s van de Instellingswet Autoriteit Consument en Markt van een overtreding een rapport als bedoeld in artikel 5:48, eerste lid, van de Algemene wet bestuursrecht is opgemaakt ter zake van een overtreding, begaan door een marktorganisatie als bedoeld in artikel 1, onder 2°, van de Instellingswet Autoriteit Consument en Markt, blijft met betrekking tot de invordering vanwege insolventie van die marktorganisatie, het recht gelden zoals dat luidde onmiddellijk voor inwerkingtreding van genoemd artikel 12s.

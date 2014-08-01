@@ -1,0 +1,2 @@
+# Artikel 44b
+Een besluit als bedoeld in artikel 49a, eerste lid, van de Mededingingswet tot het bindend verklaren van een toezegging en de aanvraag tot het nemen van een dergelijk besluit worden na de inwerkingtreding van artikel 12h van de Instellingswet Autoriteit Consument en Markt aangemerkt als een besluit onderscheidenlijk aanvraag als bedoeld in artikel 12h, eerste lid, van de Instellingswet Autoriteit Consument en Markt.

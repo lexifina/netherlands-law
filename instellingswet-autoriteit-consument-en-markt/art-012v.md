@@ -1,0 +1,7 @@
+# Artikel 12v
+1. De Autoriteit Consument en Markt maakt een door haar genomen beschikking tot het opleggen van een bestuurlijke sanctie of een bindende aanwijzing openbaar indien voor de desbetreffende overtreding bij wettelijk voorschrift is bepaald dat een bestuurlijke boete kan worden opgelegd van ten hoogste 10% van de omzet van de overtreder en met dien verstande dat:
+a. gegevens als bedoeld in artikel 10, eerste lid, onderdeel c, van de Wet openbaarheid van bestuur niet openbaar worden gemaakt;
+b. namen van betrokken natuurlijke personen niet openbaar worden gemaakt, indien het belang van openbaarmaking naar het oordeel van de Autoriteit Consument en Markt niet opweegt tegen het belang, bedoeld in artikel 10, tweede lid, onderdeel e of g, van de Wet openbaarheid van bestuur;
+c. de naam van de overtredende marktorganisatie altijd openbaar wordt gemaakt, ook indien de naam van een natuurlijke persoon van die naam deel uitmaakt.
+2. Artikel 12u, tweede tot en met vierde lid, zijn van toepassing.
+3. Het eerste lid is mede van toepassing op een door de Autoriteit Consument en Markt genomen beslissing op bezwaar strekkend tot het opleggen van een bestuurlijke sanctie of bindende aanwijzing. Artikel 12u, tweede tot en met vierde lid, is van toepassing.

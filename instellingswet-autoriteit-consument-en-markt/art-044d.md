@@ -1,0 +1,2 @@
+# Artikel 44d
+Indien een overtreding van een zelfstandige last of van artikel 5:20 van de Algemene wet bestuursrecht is begaan en beëindigd voor de inwerkingtreding van artikel 12m, eerste en derde lid, van de Instellingswet Autoriteit Consument en Markt, is artikel 12m, eerste en derde lid, niet van toepassing indien de Autoriteit Consument en Markt voor die overtredingen onmiddellijk voor het tijdstip van inwerkingtreding van artikel 12m, eerste en derde lid, geen bestuurlijke sanctie kon opleggen.
