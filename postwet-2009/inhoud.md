@@ -24,7 +24,6 @@
 ### § 7.4. Bestuursdwang
 ### § 7.5. Bestuurlijke boete
 ## Hoofdstuk 8. Geschillenbeslechting
-## Hoofdstuk 9. Kosten werkzaamheden Autoriteit Consument en Markt
 ## Hoofdstuk 10. Implementatie van Europese richtlijnen en verordeningen
 ## Hoofdstuk 11. Buitengewone omstandigheden
 ## Hoofdstuk 13. Wijziging in andere wetten
