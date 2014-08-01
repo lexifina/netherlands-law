@@ -17,7 +17,7 @@
 ### Titel Ib. Fusietoets
 ### Titel 2. Bekostiging beroepsonderwijs
 #### § 1. Bekostiging
-#### § 2. Leerlinggebonden financiering
+#### § 2. Grondslag vermindering bekostiging vbo-groen in een AOC in verband met passend onderwijs
 ### Titel 2a. Bekostiging voortgezet algemeen volwassenenonderwijs
 ### Titel 3. Uitkering educatie met uitzondering van opleidingen voortgezet algemeen volwassenenonderwijs; informatie en gegevensverstrekking educatie
 ### Titel 4. Bekostiging van kenniscentra beroepsonderwijs bedrijfsleven
@@ -57,12 +57,12 @@
 #### § 2. Opleidingen voortgezet algemeen volwassenenonderwijs en opleidingen Nederlands als tweede taal I en II
 ### Titel 5. Commissie van beroep voor de examens
 ### Titel 7. Practicumplaatsen voor studenten in opleiding
-## Hoofdstuk 8. Inschrijving, vooropleidingseisen, voortijdig schoolverlaten
+## Hoofdstuk 8. Inschrijving, toelating, bindend studieadvies, vooropleidingseisen, voortijdig schoolverlaten, samenwerking
 ### Titel 1. Inschrijving
 ### Titel 2. Vooropleidingseisen
 ### Titel 3. Bestrijding voortijdig schoolverlaten niet-leerplichtigen
-### Titel 4. Samenwerking in verband met leer-werktrajecten vmbo en assistentopleiding in het vmbo
-### Titel 5. Samenwerking in verband met leer-werktrajecten VSO en de assistentopleiding in het VSO
+### Titel 4. Samenwerking in verband met leer-werktrajecten vmbo en entreeopleiding in het vmbo
+### Titel 5. Samenwerking in verband met leer-werktrajecten VSO en de entreeopleiding in het VSO
 ## Hoofdstuk 8a. Medezeggenschap van deelnemers en ouders; landelijke geschillencommissie medezeggenschap
 ### Titel 1. Algemene bepalingen
 ### Titel 2. Bevoegdheden van de deelnemersraad
@@ -82,6 +82,6 @@
 ### Titel 1. Overgangsbepalingen experiment leergang vm2
 ### Titel 2. Voorzieningen voor onbepaalde tijd
 ### Titel 3. Invoering van de wet
-### Titel 4. Bepalingen met betrekking tot leerlinggebonden financiering
+### Titel 4. Bepalingen met betrekking tot passend onderwijs
 ### Titel 4a. Beroepsopleidingen oude stijl
 ### Titel 5. Evaluatie, inwerkingtreding en citeertitel

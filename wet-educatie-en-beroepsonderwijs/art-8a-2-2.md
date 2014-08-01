@@ -15,7 +15,8 @@ h. de model-praktijkovereenkomst;
 i. het beleid met betrekking tot toelating, schorsing en verwijdering van deelnemers;
 j. de wijze van vastleggen van studievorderingen van deelnemers en in dat verband het beleid met betrekking tot bescherming van de privacy van deelnemers;
 k. de regels op het gebied van veiligheid, gezondheid en welzijn voor zover deze de deelnemers betreffen;
-l. het reglement voor de deelnemersraad, met inachtneming van artikel 8a.3.1, derde lid.
+l. het reglement voor de deelnemersraad, met inachtneming van artikel 8a.3.1, derde lid;
+m. het onderwijsprogramma indien dit minder uren als bedoeld in artikel 7.2.7, derde of vierde lid, omvat.
 4. De deelnemersraad heeft adviesbevoegdheid met betrekking tot voorgenomen besluiten van het bevoegd gezag ten aanzien van:
 a. besluiten van het bevoegd gezag over inkrimping, uitbreiding, fusie en overdracht van de instelling, beëindiging van opleidingen en samenwerking met andere instellingen bij de uitvoering van opleidingen;
 b. verandering van de grondslag van de instelling;
