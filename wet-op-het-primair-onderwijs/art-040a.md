@@ -1,4 +1,6 @@
-# Artikel 40a. Handelingsplan
-1. Het bevoegd gezag van een school waar een visueel gehandicapte leerling is ingeschreven of een leerling voor wie een leerlinggebonden budget beschikbaar is, stelt in overeenstemming met de ouders voor elk schooljaar een handelingsplan op. Indien de inschrijving van de in de eerste volzin bedoelde leerling plaatsvindt op of na 1 augustus wordt het handelingsplan zo spoedig mogelijk doch uiterlijk een maand na die inschrijving opgesteld.
-2. In het handelingsplan dat betrekking heeft op het laatste schooljaar van de periode gedurende welke voor de leerling een leerlinggebonden budget beschikbaar is, wordt aangegeven dat de voortzetting van de voorzieningen die voor de leerling zijn getroffen op basis van het leerlinggebonden budget, afhankelijk is van een nieuwe beoordeling door een zodanige commissie voor de indicatiestelling.
-3. Het handelingsplan wordt jaarlijks met de ouders geëvalueerd.
+# Artikel 40a. Ontwikkelingsperspectief
+1. Voor een leerling die extra ondersteuning behoeft, stelt het bevoegd gezag nadat op overeenstemming gericht overleg is gevoerd met de ouders een ontwikkelingsperspectief vast.
+2. Het ontwikkelingsperspectief wordt zo spoedig mogelijk, doch uiterlijk binnen zes weken na de inschrijving van de leerling vastgesteld. Indien het betreft een inschrijving op grond van artikel 40, zevende lid, wordt het ontwikkelingsperspectief uiterlijk binnen zes weken na de definitieve plaatsing van de leerling vastgesteld.
+3. Het ontwikkelingsperspectief wordt ten minste één keer per schooljaar met de ouders geëvalueerd.
+4. Nadat op overeenstemming gericht overleg is gevoerd met de ouders kan het bevoegd gezag het ontwikkelingsperspectief bijstellen.
+5. Het ontwikkelingsperspectief bevat een omschrijving van de begeleiding, bedoeld in artikel 8, vierde lid. Indien bij de inrichting van het onderwijs wordt afgeweken van één of meer onderdelen van het onderwijsprogramma, wordt dat in het ontwikkelingsperspectief vermeld. Bij algemene maatregel van bestuur worden nadere voorschriften over de inhoud van het ontwikkelingsperspectief vastgesteld.

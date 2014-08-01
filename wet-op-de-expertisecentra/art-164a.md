@@ -9,10 +9,11 @@ e. het leerjaar of de groep;
 f. indien van toepassing de aanduiding dat het betreft een leerling met een niet-Nederlandse culturele achtergrond als bedoeld in artikel 1 van het Besluit bekostiging WEC;
 g. het registratienummer van de school of, indien sprake is van een nevenvestiging, het registratienummer daarvan;
 h. bekostigingsindicatie;
-i. de onderwijssoort dan wel het cluster, bedoeld in artikel 2, vierde lid, onder d, de begindatum van de periode waarvoor de leerling toelaatbaar is verklaard door een commissie voor de indicatiestelling als bedoeld in artikel 28c, het registratienummer van het regionaal expertisecentrum dat de indicatiestelling heeft verricht en,
-1°. indien het een leerling betreft als bedoeld in artikel 8a, eerste lid, het registratienummer van de school, bedoeld in de Wet op het primair onderwijs, de Wet op het voortgezet onderwijs of de Wet educatie en beroepsonderwijs, waar de leerling is ingeschreven en de begin- en einddatum van de ondersteuning, bedoeld in artikel 8a, eerste lid;
-2°. indien het een leerling betreft als bedoeld in artikel 8a, derde lid, onderdeel b, het registratienummer van de school, bedoeld in de Wet op het primair onderwijs, de Wet op het voortgezet onderwijs of de Wet educatie en beroepsonderwijs, waar de leerling is ingeschreven na afloop van de periode gedurende welke de leerling door een commissie voor de indicatiestelling toelaatbaar is verklaard tot een bepaalde onderwijssoort;
+i. de onderwijssoort dan wel het cluster, bedoeld in artikel 2, vierde lid, onder d;
 j. indien een leerling is toegelaten met toepassing van artikel 40, derde lid, tweede volzin, de indicatie voor het soort verblijf;
+k. indien een leerling is ingeschreven op een school niet zijnde een instelling: het registratienummer van het samenwerkingsverband, bedoeld in de Wet op het primair onderwijs dan wel de Wet op het voortgezet onderwijs, dat de leerling toelaatbaar heeft verklaard tot het speciaal dan wel voortgezet speciaal onderwijs en het volgnummer van de toelaatbaarheidsverklaring, bedoeld in artikel 40, tiende en twaalfde lid;
+l. de begin- en einddatum van de periode waarvoor de leerling toelaatbaar is verklaard tot het speciaal dan wel voortgezet speciaal onderwijs; en
+m. de bekostigingscategorie, bedoeld in de artikelen 118, tiende lid, en 132, vierde lid, van de Wet op het primair onderwijs en de artikelen 85b, derde lid, en 89a, derde lid, van de Wet op het voortgezet onderwijs;
 k. indien van toepassing de leerweg, sector, afdeling of profiel van het onderwijs, bedoeld in artikel 14a;
 l. het behaalde diploma ingevolge artikel 14a, eerste lid, onderdeel b, of artikel 14b; en
 m. de vakken waarin examen is afgelegd, de cijfers van het schoolexamen en het centraal examen, de eindcijfers, de uitslag van het eindexamen of deeleindexamen ingevolge artikel 14a, eerste lid, onderdeel b, of artikel 14b, en de datum waarop deze uitslag is bepaald.

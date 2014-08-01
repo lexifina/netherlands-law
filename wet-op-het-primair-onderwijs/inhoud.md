@@ -4,7 +4,7 @@
 ### Titel II. Openbaar en uit de openbare kassen bekostigd bijzonder onderwijs
 #### Afdeling 1. Regelen voor het openbaar onderwijs, tevens voorwaarden voor bekostiging van het bijzonder onderwijs
 ##### § 1. Onderwijs
-##### § 2. Zorgstructuur
+##### § 2. Ondersteuningsstructuur
 ##### § 3. Personeel
 ##### § 4. Leerlingen
 ##### § 5. Ouders
@@ -23,7 +23,7 @@
 #### Afdeling 4. Materiële instandhouding
 #### Afdeling 5. Grondslag bekostiging personeelskosten
 #### Afdeling 6. Budget voor personeels- en arbeidsmarktbeleid
-#### Afdeling 7. Gezamenlijke personeelsbekostiging voor zorgvoorzieningen basisscholen
+#### Afdeling 7. Personeelsbekostiging samenwerkingsverbanden
 #### Afdeling 8. Wijze van bekostiging
 ##### § 1. Huisvesting
 ##### § 2. Materiële instandhouding
