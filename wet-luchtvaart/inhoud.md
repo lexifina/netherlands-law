@@ -123,7 +123,7 @@
 ## Hoofdstuk 11. Toezicht en handhaving
 ### Titel 11.1. Toezicht en strafrechtelijke handhaving
 ### Titel 11.2. Bestuursrechtelijke handhaving
-#### § 11.2.1. Bestuursrechtelijke handhaving door Minister van Verkeer en Waterstaat
+#### § 11.2.1. Bestuursrechtelijke handhaving door Minister van Infrastructuur en Milieu
 #### § 11.2.2. Bestuursrechtelijke handhaving door Minister van Defensie
 #### § 11.2.2a. Bestuursrechtelijke handhaving door Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
 #### § 11.2.3. Bestuursrechtelijke boete door gedeputeerde staten
