@@ -7,15 +7,16 @@ Burgerlijk Wetboek: de artikelen 63d, tweede lid, 156 en 266 van Boek 2
 Elektriciteitswet 1998: de artikelen 77h en 77i
 Gaswet: de artikelen 16, 60ac en 60ad
 Gezondheids- en welzijnswet voor dieren: artikel 120b, eerste lid
+Instellingswet Autoriteit Consument en Markt
 Invoerings- en aanpassingswet Pensioenwet
-Loodsenwet, met uitzondering van artikel 27f
-Mededingingswet, met uitzondering van artikel 49a, eerste lid, voor zover de aanvraag is afgewezen, en artikel 49c, tweede lid, voor zover de intrekking of wijziging geschiedt op de gronden, bedoeld in het eerste lid, onderdeel b of c, van dat artikel
+Loodsenwet, met uitzondering van de artikelen 21, derde lid, 27b, vierde lid, 27d, 27e, 27f, 27h en 27l
+Mededingingswet
 Meststoffenwet: artikel 51
 Muntwet 2002: artikel 11, eerste en tweede lid
 Overgangswet elektriciteitsproductiesector
 Pensioenwet
-Postwet 2009, met uitzondering van hoofdstuk 3a
-Spoorwegwet
+Postwet 2009, met uitzondering van hoofdstuk 3A en artikel 58
+Spoorwegwet, met uitzondering van de artikelen 19, 21 en 71, derde lid
 Tabakswet
 Telecommunicatiewet, met uitzondering van:
 a. artikel 3.4, eerste lid, onderdeel b, voor zover het betreft een aanwijzing
@@ -23,7 +24,7 @@ b. de artikelen 3.10 en 18.9, eerste en tweede lid
 c. alsmede, voor zover het betreft een besluit van de Autoriteit Consument en Markt:
 1. hoofdstuk 6, tenzij beroep kon worden ingesteld voor de inwerkingtreding van de Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002
 2. de hoofdstukken 6A, 6B, en 12
-3. hoofdstuk 15, met uitzondering van een besluit op grond van de artikelen 15.2a en 15.4
+3. hoofdstuk 15, met uitzondering van de artikelen 15.2, 15.2a en 15.4
 Warenwet
 Warmtewet: artikel 18
 Wet aanwijzing nationale accreditatie-instantie: hoofdstuk 3
@@ -37,7 +38,7 @@ Wet handhaving consumentenbescherming
 Wet implementatie EU-richtlijnen energie-efficiëntie: de artikelen 21 en 22
 Wet inkomstenbelasting 2001: een boetebesluit als bedoeld in artikel 3.52a, elfde lid, en een daarmee samenhangende correctie-RDA-beschikking als bedoeld in het tweede lid van dit artikel
 Wet inzake de geldtransactiekantoren,voor zover die wet nog van toepassing is op grond van artikel IX van de Wijzigingswet financiële markten 2012
-Wet luchtvaart: de artikelen 8.25f, eerste lid, en 8.25g, eerste lid
+Wet luchtvaart: artikel 11.24
 Wet marktordening gezondheidszorg, voor zover het betreft een besluit van de Nederlandse Zorgautoriteit als bedoeld in hoofdstuk 6, paragraaf 4
 Wet op het financieel toezicht, met uitzondering van:
 a. hoofdstuk 5.1 en de artikelen 5:77, eerste lid, en 5:81, derde lid
@@ -52,6 +53,7 @@ Wet toezicht accountantsorganisaties
 Wet toezicht financiële verslaggeving
 Wet toezicht trustkantoren
 Wet van 12 juli 2012 tot wijziging van de Elektriciteitswet 1998 en van de Gaswet (implementatie van richtlijnen en verordeningen op het gebied van elektriciteit en gas) (Stb. 2012, 334): artikel XX
+Wet van 23 november 2006 tot wijziging van de Elektriciteitswet 1998 en van de Gaswet in verband met nadere regels omtrent een onafhankelijk netbeheer ( Stb. 2006, 614 )
 Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen: een besluit genomen door een van de in artikel 30, eerste lid, genoemde bestuursorganen, waarin toepassing of mede toepassing is gegeven aan artikel 26
 Wet verplichte beroepspensioenregeling
 Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000

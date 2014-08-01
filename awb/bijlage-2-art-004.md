@@ -26,19 +26,21 @@ Hamsterwet
 Kaderwet EZ-subsidies
 Landbouwkwaliteitswet
 Landbouwwet: de artikelen 13, 15, 17 tot en met 22 en 26
-Loodsenwet: artikel 27f
+Loodsenwet: de artikelen 21, derde lid, 27b, vierde lid, 27d, 27e, 27f, 27h en 27l
 Marktverordening voor het wegvervoer
 Meststoffenwet, met uitzondering van artikel 51
 Metrologiewet
 Noodwet voedselvoorziening: de artikelen 6 tot en met 10 en 29, behoudens in geval van toepassing van artikel 18
 Plantenziektenwet
-Postwet 2009: hoofdstuk 3a
+Postwet 2009: hoofdstuk 3A en artikel 58
 Prijzennoodwet
 Prijzenwet
+Scheepvaartverkeerswet: de artikelen 14a, tweede lid, eerste volzin, en 15ba, eerste lid
+Spoorwegwet: artikel 71, derde lid
 Telecommunicatiewet, voor zover het betreft een besluit van de Autoriteit Consument en Markt, genomen op grond van:
 a. hoofdstuk 6, tenzij beroep kon worden ingesteld voor de inwerkingtreding van de Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002
 b. de hoofdstukken 6A, 6B en 12
-c. hoofdstuk 15, met uitzondering van de artikelen 15.2a en 15.4
+c. hoofdstuk 15, met uitzondering van de artikelen 15.2, 15.2a en 15.4
 Uitvoeringswet verordening Europese coöperatieve vennootschap: het verzet, bedoeld in de artikelen 6, eerste lid, en 9
 Uitvoeringswet verordening Europese vennootschap: het verzet, bedoeld in de artikelen 5, eerste lid, en 7
 Verordening (EG) nr. 1435/2003 van de Raad van 22 juli 2003 betreffende het statuut voor een Europese Coöperatieve Vennootschap (SCE) (PbEU 2003, L 207): artikel 7, veertiende lid, tweede alinea
@@ -57,7 +59,7 @@ Wet implementatie EU-richtlijnen energie-efficiëntie, met uitzondering van de a
 Wet inkomstenbelasting 2001:
 a. de artikelen 3.37, eerste lid, en 3.42, eerste lid, voor zover het betreft een besluit van Onze Minister van Economische Zaken, en
 b. artikel 3.52a, eerste, tweede en elfde lid, voor zover het betreft een besluit van Onze Minister van Economische Zaken, met uitzondering van een boetebesluit als bedoeld in het elfde lid en een daarmee samenhangende correctie-RDA-beschikking als bedoeld in het tweede lid
-Wet luchtvaart: artikel 8.25f, tweede lid
+Wet luchtvaart: de artikelen 8.25ea, vierde lid, 8.25f, tweede, vierde en vijfde lid, en 8.25g, eerste lid
 Wet marktordening gezondheidszorg, met uitzondering van beschikkingen van de Nederlandse Zorgautoriteit als bedoeld in paragraaf 4 van hoofdstuk 6
 Wet medewerking verdedigingsvoorbereiding
 Wet nationaliteit zeeschepen in rompbevrachting

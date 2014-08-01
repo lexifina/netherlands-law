@@ -27,15 +27,13 @@ g. de artikelen 278a, vierde lid, en 281, tweede lid, betreffende de toepassing 
 Geneesmiddelenwet: artikel 17
 Gerechtsdeurwaarderswet: artikel 3a, tweede lid
 Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën: de artikelen 20, 21, 22, 72, eerste lid, 75, en 101, derde lid
+Instellingswet Autoriteit Consument en Markt: artikel 12h, eerste lid, voor zover de aanvraag is afgewezen
 Invorderingswet 1990, met uitzondering van de artikelen 30, 49 en 62a
 Kostenwet invordering rijksbelastingen, met uitzondering van artikel 7
 Leegstandwet:
 a. artikel 15, eerste lid, voor zover het betreft een weigering van de vergunning
 b. artikel 15, zesde lid, voor zover het betreft een afwijzing van het verzoek tot verlenging
 c. artikel 16, tiende lid, eerste volzin, en elfde lid, eerste volzin
-Mededingingswet:
-a. artikel 49a, eerste lid, voor zover de aanvraag is afgewezen
-b. artikel 49c, tweede lid, voor zover de intrekking of wijziging geschiedt op de gronden, bedoeld in het eerste lid, onderdelen b of c, van dat artikel
 Mijnbouwwet: de artikelen 141a, derde lid, 141b, derde lid, en 141c, tweede en derde lid
 Natuurbeschermingswet 1998: de artikelen 17, 19kg en 23
 Onteigeningswet
