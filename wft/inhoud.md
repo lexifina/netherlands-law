@@ -188,6 +188,7 @@
 ##### § 3.3.7.2. Financiële ondernemingen met zetel in een andere lidstaat
 ##### § 3.3.7.3. Financiële ondernemingen met zetel in een staat die geen lidstaat is
 ##### § 3.3.7.4. Financiële ondernemingen met zetel in een niet-aangewezen staat
+#### Afdeling 3.3.7a. Tijdelijke maatregelen bij verhoogd risico in het financiële stelsel
 #### Afdeling 3.3.8. Technische voorzieningen
 ##### § 3.3.8.1. Verzekeraars met zetel in Nederland
 ##### § 3.3.8.2. Levensverzekeraars en schadeverzekeraars met zetel in een staat die geen lidstaat is
@@ -232,6 +233,7 @@
 #### Afdeling 3.5.4a. Overdracht
 ##### § 3.5.4a.1. Banken en verzekeraars met zetel in Nederland
 ##### § 3.5.4a.2. Banken en verzekeraars met zetel in een staat die geen lidstaat is
+#### Afdeling 3.5.4b. Afwikkelingsplannen voor banken en voor beleggingsondernemingen in de zin van de verordening kapitaalvereisten
 #### Afdeling 3.5.5. Noodregeling en saneringsmaatregelen en liquidatieprocedures naar buitenlands recht
 ##### § 3.5.5.1. Financiële ondernemingen met zetel in Nederland
 ##### § 3.5.5.2. Financiële ondernemingen met zetel in een andere lidstaat
@@ -249,7 +251,6 @@
 #### Afdeling 3.5.8. Rechten wederpartij na een gebeurtenis
 ### Hoofdstuk 3.6. Aanvullende bepalingen ten aanzien van financiele groepen
 #### Afdeling 3.6.1. Definities en algemeen
-#### Afdeling 3.6.1a. Betaalinstellingen en elektronischgeldinstellingen in een groep
 #### Afdeling 3.6.2. Geconsolideerd toezicht op banken, beleggingsondernemingen, betaalinstellingen en elektronischgeldinstellingen
 #### Afdeling 3.6.3. Aanvullend toezicht op herverzekeraars, levensverzekeraars en schadeverzekeraars in een verzekeringsgroep
 #### Afdeling 3.6.4. Prudentieel toezicht op financiële conglomeraten
