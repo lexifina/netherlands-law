@@ -1,0 +1,7 @@
+# Artikel 6a. Aanvragen door Wajong georiënteerde werkgevers
+1. Een wajong georiënteerde werkgever is een werkgever die een arbeidsovereenkomst heeft met ten minste 6 personen als bedoeld in artikel 1 onder d.
+2. Een werkgever als bedoeld in het eerste lid kan voor een subsidie in aanmerking komen indien hij voor al zijn werknemers, voor wie persoonlijke ondersteuning noodzakelijk is, kiest voor deelname aan het onderzoek zoals bedoeld in artikel 1 onderdeel b en de werknemers in staat zijn ten minste 30% van het wettelijk minimumloon te verdienen.
+3. De subsidie kan uitsluitend worden ingezet voor een collectieve vorm van persoonlijke ondersteuning.
+4. De arbeidsdeskundige van UWV stelt per werknemer vast of hij in aanmerking komt voor persoonlijke ondersteuning en stelt daarbij tevens het begeleidingsregime vast. Indien drie begeleidingsjaren zijn verstreken, beoordeelt de arbeidsdeskundige of de werknemer in aanmerking komt voor voortzetting van persoonlijke ondersteuning. Indien de werknemer na drie begeleidingsjaren in aanmerking komt voor voortzetting wordt uitgegaan van persoonlijke ondersteuning volgens het laagste regime.
+5. De arbeidsdeskundige van UWV beoordeelt bij de toekenning van de aanvragen of de interne begeleider, gelet op de bijzonderheden van de werknemers, in staat is collectieve jobcoaching te bieden.
+6. In afwijking van artikel 6, tweede lid wordt de verantwoording op groepsniveau verricht door de werkgever.
