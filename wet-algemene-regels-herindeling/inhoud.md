@@ -14,6 +14,9 @@
 ## Hoofdstuk V. Rechtskracht voorschriften en uitoefening bevoegdheden
 ## Hoofdstuk VI. Overgang rechten en verplichtingen
 ## Hoofdstuk VII. Verkiezing vertegenwoordigend lichaam
+### Paragraaf 1. Algemene bepalingen
+### Paragraaf 2. Wijziging van de zittingsduur gemeenteraad voorafgaand aan de datum van herindeling
+### Paragraaf 3. Wijziging zittingsduur gemeenteraad na de datum van herindeling
 ## Hoofdstuk VIII. Rechtspositie van personeel
 ## Hoofdstuk IX. Voorzieningen in verband met de toepassing van enkele wetten
 ## Hoofdstuk X. Voorbereiding van de overgang
