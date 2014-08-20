@@ -1,2 +1,0 @@
-# Artikel 8o
-Aanvragen tot verlening van een subsidie voor de uitvoering van activiteiten als bedoeld in artikel 2:3, eerste lid, van de Regeling LNV-subsidies kunnen worden ingediend in de periode van 11 augustus 2014 tot en met 25 augustus 2014.

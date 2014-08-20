@@ -1,2 +1,0 @@
-# Artikel 8hh
-Aanvragen tot verlening van een subsidie voor een investering als bedoeld in bijlage 2, hoofdstuk 7, punt A, categorie 7, van de Regeling LNV-subsidies kunnen worden ingediend in de periode van 14 juli 2014 tot en met 8 augustus 2014.
