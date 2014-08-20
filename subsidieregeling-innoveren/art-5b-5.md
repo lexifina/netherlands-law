@@ -1,4 +1,0 @@
-# Artikel 5b.5
-1. Er zijn 1000 Wajong adviesvouchers beschikbaar.
-2. De minister van SZW verdeelt de beschikbare Wajong adviesvouchers in de volgorde van ontvangst van de aanvragen, met dien verstande dat indien een aanvrager niet heeft voldaan aan enig voorschrift voor het in behandeling nemen van de aanvraag en met toepassing van artikel 4:5 van de Algemene wet bestuursrecht de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag voldoet aan de voorschriften met betrekking tot de verdeling als datum van ontvangst geldt.
-3. Indien honorering van alle aanvragen die op één dag zijn ontvangen ertoe zou leiden dat het beschikbare aantal Wajong adviesvouchers zou worden overschreden en de volgorde van die aanvragen niet kan worden vastgesteld, stelt de minister van SZW de onderlinge rangschikking van deze aanvragen vast door middel van loting.

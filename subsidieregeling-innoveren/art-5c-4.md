@@ -1,3 +1,0 @@
-# Artikel 5c.4
-1. Bij ministeriële regeling wordt bepaald gedurende welke periodes innovatievouchers elektrische mobiliteit kunnen worden aangevraagd en wordt per periode bepaald hoeveel innovatievouchers elektrische mobiliteit voor binnen dezelfde periode ingediende aanvragen beschikbaar zijn.
-2. De minister verdeelt de beschikbare innovatievouchers elektrische mobiliteit in de volgorde van ontvangst van de aanvragen. Indien honorering van alle aanvragen die op één dag zijn ontvangen ertoe zou leiden dat het beschikbare aantal innovatievouchers elektrische mobiliteit zou worden overschreden, stelt de minister de onderlinge rangschikking van deze aanvragen vast door middel van loting.

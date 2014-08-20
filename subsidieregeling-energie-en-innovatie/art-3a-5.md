@@ -1,5 +1,0 @@
-# Artikel 3a.5
-In aanvulling op artikel 3A.4 wordt:
-a. de hoogte van het subsidiebedrag dat overeenstemt met de referentie-output gehalveerd wanneer het productieniveau van het product waarvoor een efficiëntie benchmark voor elektriciteitsverbruik is vastgesteld in het kalenderjaar voorafgaand aan het jaar waarin de subsidie wordt aangevraagd 50 tot 75 procent daalt ten opzichte van de referentie-output;
-b. de hoogte van het subsidiebedrag dat overeenstemt met de referentie-output met 75 procent verminderd wanneer het productieniveau van het product waarvoor een efficiëntiebenchmark voor elektriciteitsverbruik is vastgesteld in het kalenderjaar voorafgaand aan het jaar waarin de subsidie wordt aangevraagd 75 tot 90 procent daalt ten opzichte van de referentie-output;
-c. de subsidie op nihil vastgesteld wanneer het productieniveau van het product waarvoor een efficiëntiebenchmark voor elektriciteitsverbruik is vastgesteld in het kalenderjaar voorafgaand aan het jaar waarin de subsidie wordt aangevraagd 90 procent of meer daalt ten opzichte van de referentie-output.
