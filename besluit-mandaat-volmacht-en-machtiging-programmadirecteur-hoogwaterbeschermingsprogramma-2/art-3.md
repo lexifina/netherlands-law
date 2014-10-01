@@ -1,0 +1,2 @@
+# Artikel 3:. Verlening volmacht en machtiging
+De aan de directeur-generaal verleende volmacht en machtiging worden, met inachtneming van de artikelen 3 en 12 van het Besluit mandaat, volmacht en machtiging Rijkswaterstaat 2013, eveneens verleend aan de programmadirecteur Hoogwaterbeschermingsprogramma 2 (HWBP2).
