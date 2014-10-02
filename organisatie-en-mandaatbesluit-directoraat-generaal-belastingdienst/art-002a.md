@@ -1,3 +1,0 @@
-# Artikel 2a. : Managementteam Belastingdienst
-1. Het Managementteam van de Belastingdienst (MTBD) wordt gevormd door 12 MT-leden. Dat wil zeggen de algemene leiding van DGBel, de algemeen directeur Belastingen, de algemeen directeur Douane, de directeur FIOD, de directeur Toeslagen, de directeur Belastingdienst Centrale Administratie (B/CA) en de directeur Belastingtelefoon (BelTel).
-2. De directeuren B/CKC en B/CFD worden vertegenwoordigd door respectievelijk de CHRO/CCO en de CFO. De directeuren B/CAO en B/CIE worden vertegenwoordigd door de CIO. Indien dit wenselijk is, kan een vertegenwoordigde directeur ook aan de MT-vergadering deelnemen.
