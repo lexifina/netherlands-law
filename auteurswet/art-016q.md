@@ -1,0 +1,2 @@
+# Artikel 16q
+Het gebruik van een werk van letterkunde, wetenschap of kunst overeenkomstig artikel 16o, eerste lid, wordt beëindigd indien een rechthebbende met betrekking tot de rechten waar hij over beschikt, gebruik maakt van de mogelijkheid om de status van verweesd werk te beëindigen. De organisaties bedoeld in artikel 16o, eerste lid, zijn aan de rechthebbende een billijke vergoeding verschuldigd voor het gebruik dat op grond van artikel 16o van het werk is gemaakt.

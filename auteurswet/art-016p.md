@@ -1,0 +1,12 @@
+# Artikel 16p
+1. Het zorgvuldig onderzoek naar de rechthebbende, als bedoeld in artikel 16o, eerste lid, onder b, wordt uitgevoerd door voor ieder werk als bedoeld in artikel 16o, eerste lid, en voor ieder daarin opgenomen werk van letterkunde, wetenschap of kunst de voor de desbetreffende categorie van werken geschikte bronnen voor het opsporen van rechthebbenden te raadplegen. Op voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap worden bij algemene maatregel van bestuur regels gegeven ten aanzien van de bij het onderzoek te raadplegen bronnen.
+2. Het onderzoek vindt plaats in de lidstaat waarin het werk voor het eerst is openbaar gemaakt. Voor filmwerken vindt het onderzoek plaats in de lidstaat waar de producent zijn zetel of gewone woonplaats heeft.
+3. Voor een werk als bedoeld in artikel 16o, derde lid, vindt het onderzoek plaats in de lidstaat waar de organisatie die het werk met toestemming van de rechthebbende in de eigen verzameling heeft opgenomen, is gevestigd.
+4. Indien er aanwijzingen zijn dat informatie over de rechthebbende aanwezig is in een andere lidstaat, worden ook de in die lidstaat voor een zorgvuldig onderzoek voorgeschreven bronnen geraadpleegd.
+5. De organisaties, bedoeld in artikel 16o, eerste lid, houden bij welke bronnen in het kader van het onderzoek zijn geraadpleegd en welke informatie hieruit is voortgekomen. De organisaties verstrekken de volgende gegevens aan een op voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap bij of krachtens algemene maatregel van bestuur aan te wijzen instantie, ten behoeve van doorgeleiding aan het Harmonisatiebureau voor de Interne Markt:
+a. de resultaten van het zorgvuldig onderzoek dat door de organisaties is verricht en dat tot de conclusie heeft geleid dat het werk verweesd is;
+b. de wijze waarop het werk zal worden gebruikt;
+c. de contactgegevens van de organisaties; en
+d. voor zover van toepassing, iedere wijziging in de status van het werk.
+Op voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap worden bij of krachtens algemene maatregel van bestuur nadere regels gesteld over de aan te leveren gegevens en de wijze van aanleveren.
+6. Voor verweesde werken opgenomen in de databank van het Harmonisatiebureau, genoemd in het vijfde lid, is voor de reproductie en beschikbaarstelling als bedoeld in artikel 16o, eerste lid, een zorgvuldig onderzoek als bedoeld in artikel 16o, eerste lid, onder b, niet noodzakelijk.
