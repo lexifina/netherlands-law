@@ -1,0 +1,9 @@
+# Artikel 2z
+1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
+a. het opnemen, wijzigen en verwijderen van gegevens in, onderscheidenlijk uit, de in artikel 2y bedoelde autorisatielijst van jeugdzorgaanbieders;
+b. het beheer van de autorisatielijst, in ieder geval wat betreft de beveiliging van persoonsgegevens;
+c. het toezicht op het functioneren van de autorisatielijst.
+2. Bij de maatregel, bedoeld in het eerste lid, kunnen bijdragen van zorgaanbieders worden verlangd in de kosten van de autorisatielijst.
+3. De beheerder van de autorisatielijst, bedoeld in artikel 2y, verschaft aan een in de autorisatielijst opgenomen zorgaanbieder op diens verzoek een middel waarmee deze ten behoeve van de raadpleging, bedoeld in artikel 2u, toegang kan krijgen tot het nummerregister en de voorzieningen, bedoeld in artikel 3, eerste lid, onder b en d, van de Wet algemene bepalingen burgerservicenummer.
+4. De beheerder kan voor het middel een vergoeding verlangen.
+5. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de kenmerken, de aanvraag, de procedure, de verstrekking, het beheer, de beveiliging, het gebruik en de intrekking van het middel, bedoeld in het derde lid.

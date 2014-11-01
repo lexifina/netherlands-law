@@ -1,0 +1,5 @@
+# Artikel 2e
+1. Onze Minister van Volksgezondheid, Welzijn en Sport draagt zorg voor de inrichting en het beheer van de verwijsindex.
+2. Onze Minister van Volksgezondheid, Welzijn en Sport is de verantwoordelijke in de zin van artikel 1, onder d, van de Wet bescherming persoonsgegevens voor de verwijsindex.
+3. In afwijking van het tweede lid, is voor de toepassing van de artikelen 34 tot en met 40 en 43 van de Wet bescherming persoonsgegevens de verantwoordelijke het college van burgemeester en wethouders van de gemeente die afspraken als bedoeld in artikel 2g heeft gemaakt met de instantie waarvoor de meldingsbevoegde die de jeugdige heeft gemeld werkzaam is of, indien die niet werkzaam is voor een instantie, de meldingsbevoegde.
+4. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de inrichting en het beheer van de verwijsindex. Daartoe behoren in elk geval regels omtrent de beveiliging van persoonsgegevens en de beschikbaarheid van de voorzieningen, bedoeld in artikel 2f.

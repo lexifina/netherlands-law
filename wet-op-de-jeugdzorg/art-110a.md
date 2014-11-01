@@ -1,0 +1,3 @@
+# Artikel 110a
+1. Onverminderd artikel 2v stelt de zorgaanbieder het burgerservicenummer van een persoon die op de datum van inwerkingtreding van hoofdstuk 1b reeds een cliënt van de zorgaanbieder is, vast binnen 12 weken na laatstgenoemde datum, tenzij redelijkerwijs niet te verwachten is dat de betrokken cliënt op 1 januari 2015 nog aanspraak zal hebben op jeugdzorg.
+2. Onverminderd de artikelen 2r, tweede lid, en 2v stelt de stichting het burgerservicenummer van een persoon die beschikt over een door de stichting afgegeven indicatiebesluit als bedoeld in artikel 5, vast binnen 12 weken na de datum van inwerkingtreding van hoofdstuk 1b, tenzij redelijkerwijs niet te verwachten is dat betrokkene op 1 januari 2015 nog aanspraak zal hebben op jeugdzorg.

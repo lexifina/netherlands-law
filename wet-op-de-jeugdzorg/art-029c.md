@@ -1,0 +1,6 @@
+# Artikel 29c
+1. De kinderrechter kan, indien een machtiging niet kan worden afgewacht, op verzoek een voorlopige machtiging verlenen om een jeugdige, met inachtneming van artikel 29b, tweede lid, in een accommodatie te doen opnemen en te doen verblijven, ongeacht of hij daarmee instemt.
+2. Een voorlopige machtiging, kan slechts worden verleend indien naar het oordeel van de kinderrechter onmiddellijke verlening van jeugdzorg noodzakelijk is in verband met ernstige opgroei- of opvoedingsproblemen van de jeugdige die zijn ontwikkeling naar volwassenheid ernstig belemmeren of een ernstig vermoeden daarvan, en die maken dat de opneming en het verblijf noodzakelijk zijn om te voorkomen dat de jeugdige zich aan de zorg die hij nodig heeft zal onttrekken of daaraan door anderen zal worden onttrokken.
+3. Een voorlopige machtiging kan slechts worden verleend indien de betrokken stichting heeft verklaard dat zich een geval als bedoeld in het tweede lid, voordoet.
+4. De verklaring, bedoeld in het derde lid, behoeft de instemming van een gedragswetenschapper behorende tot een bij regeling van Onze Ministers aangewezen categorie, die de jeugdige met het oog daarop kort tevoren heeft onderzocht, tenzij onderzoek feitelijk onmogelijk is.
+5. Artikel 29b, zesde tot en met negende lid, is van overeenkomstige toepassing.
