@@ -39,3 +39,11 @@ b. vanaf de dag volgend op de einddatum van de rustperiode van het betreffende a
 5. Van het uitrijden van de ruige stalmest wordt binnen twee weken na dat uitrijden
 melding gedaan bij de gebiedscoördinator. De melding gaat vergezeld van een kaart met een topografische ondergrond waarop de beheereenheid is, dan wel beheereenheden zijn, aangegeven waarop de ruige stalmest is uitgereden.
 6. In afwijking van punt 5, eerste volzin, dient een subsidieontvanger die niet in het kader van collectief agrarisch natuurbeheer een in punt 1 bedoeld agrarisch beheerpakket uitvoert, de in punt 5 bedoelde melding in bij Gedeputeerde Staten met gebruikmaking van een daartoe door of namens Gedeputeerde Staten vastgesteld formulier.
+Subonderdeel 5 (Toeslag hoog waterpeil)
+1. Op de beheereenheid wordt een agrarisch beheerpakket uitgevoerd dat in bijlage 3, onderdeel B.1, is opgenomen onder de aanduiding A01.01.01, A01.01.02, A01.01.05 of A01.01.06.
+2. De beheereenheid bestaat uit grasland.
+3. De beheereenheid is ten minste 0,5 ha groot.
+4. Onder hoog waterpeil wordt verstaan het slootpeil ten opzichte van de gemiddelde maaiveldhoogte, waarbij. het vastgelegde peilniveau in de vergunning/ontheffing van een waterschap leidend is.
+5. De toeslag is van toepassing indien:
+a. op de beheereenheid in de periode 1 februari tot 15 juni een hoog waterpeil aanwezig is dat maximaal 40 cm onder het gemiddelde maaiveld, doch niet hoger dan 20 cm onder het gemiddelde maaiveld ligt, of
+b. op de beheereenheid in de periode 1 februari tot minimaal 15 juni een hoog waterpeil aanwezig is dat maximaal 20 cm onder het gemiddelde maaiveld ligt.
