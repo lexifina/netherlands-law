@@ -1,0 +1,2 @@
+# Artikel 77a
+Gedurende een periode van een jaar na het tijdstip van inwerkingtreding van de artikelen 23a, eerste tot en met derde lid, en 29, derde tot en met vijfde lid, zijn die bepalingen niet van toepassing op werktoedelingen waarvan de zorgaanbieder onderscheidenlijk de stichting, aannemelijk kan maken dat die toedeling plaatsvindt aan een beroepsbeoefenaar die reeds op dat tijdstip van inwerkingtreding binnen de betreffende organisatie werkzaam was.

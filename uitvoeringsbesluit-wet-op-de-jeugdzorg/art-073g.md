@@ -1,0 +1,3 @@
+# Artikel 73g
+1. Een aanvraag van de uitkering bureau jeugdzorg en van de uitkering zorgaanbod voor het eerstvolgende jaar wordt gedaan door de toezending van het ontwerp van het uitvoeringsprogramma, bedoeld in artikel 32, eerste lid, tweede volzin, van de wet.
+2. Bij regeling van Onze Ministers kunnen nadere regels worden gesteld omtrent de bij de aanvraag te voegen gegevens en de wijze waarop deze worden verstrekt.

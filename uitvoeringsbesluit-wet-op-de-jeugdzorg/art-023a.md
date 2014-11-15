@@ -1,0 +1,5 @@
+# Artikel 23a
+1. Indien toepassing is gegeven aan artikel 68a, eerste lid, worden de taken waarmee de zorgaanbieder bij of krachtens de wet is belast, verricht door of onder verantwoordelijkheid van een geregistreerde jeugdprofessional. De zorgaanbieder houdt bij de toedeling van taken rekening met de specifieke kennis en vaardigheden op basis waarvan de geregistreerde jeugdprofessional is ingeschreven in het kwaliteitsregister jeugd.
+2. In afwijking van het eerste lid kan de zorgaanbieder anderen dan geregistreerde jeugdprofessionals met de uitvoering van taken belasten indien hij aannemelijk kan maken dat de kwaliteit van de zorgverlening daardoor niet nadelig wordt beïnvloed. De zorgaanbieder belast anderen met die taken indien dit noodzakelijk is voor de kwaliteit van de zorgverlening.
+3. De zorgaanbieder draagt er zorg voor dat geregistreerde jeugdprofessionals hun taken kunnen verrichten met inachtneming van de professionele standaarden waaraan zij door de inschrijving in het kwaliteitsregister jeugd zijn gebonden.
+4. Dit artikel is niet van toepassing op zorgaanbieders als bedoeld in artikel 18, tweede lid, van de wet.

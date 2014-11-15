@@ -1,0 +1,2 @@
+# Artikel 68l
+De registerstichting regelt dat het register voor een ieder kosteloos raadpleegbaar is. Zij regelt voorts dat maatregelen als bedoeld in artikel 68j, tweede lid, gedurende een door haar vast te stellen periode voor het publiek kenbaar zijn. Zij houdt daarbij rekening met de aard van de maatregelen, de verwijtbaarheid van het handelen en met het belang van degenen die daarvan kennis kunnen nemen.

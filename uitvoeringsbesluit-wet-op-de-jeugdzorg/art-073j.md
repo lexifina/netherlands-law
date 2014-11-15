@@ -1,0 +1,2 @@
+# Artikel 73j
+De artikelen 4:49, 4:56 en 4:57 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.
