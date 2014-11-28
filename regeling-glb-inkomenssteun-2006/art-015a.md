@@ -1,0 +1,3 @@
+# Artikel 15a
+1. Op grond van deze paragraaf verhoogde toeslagrechten, of toegewezen toeslagrechten, overschrijden niet de waarde van € 5.000 per toeslagrecht.
+2. Voor de uitvoering van de artikelen 12 tot en met 15 wordt geen rekening gehouden met rechtshandelingen waarvan op grond van bepaalde feiten en omstandigheden kan worden aangenomen dat zij geen wezenlijke verandering van feitelijke verhoudingen ten doel hebben gehad, of dat die rechtshandelingen achterwege zouden zijn gebleven indien daarmee niet een kleiner aantal toeslagrechten zou zijn verkregen als bedoeld in artikel 64, tweede lid, van verordening 73/2009.

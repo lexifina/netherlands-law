@@ -1,0 +1,4 @@
+# Artikel 70d
+1. Indien komt vast te staan dat de landbouwer de voorwaarden voor betaling van steun als bedoeld in artikel 24, eerste lid, artikel 29, eerste lid, artikel 38i, eerste lid, respectievelijk artikel 38u, niet heeft nageleefd, stelt de minister de steun vast op nihil.
+2. Indien komt vast te staan dat de overeenkomst, bedoeld in artikel 41, onder a, gedurende de looptijd van het onderzoek, zoals beschreven in het in Bijlage 8B opgenomen model van de overeenkomst, is ontbonden wordt de in artikel 40, eerste lid tot en met derde lid, bedoelde steun vastgesteld op nihil en worden eventuele reeds gedane betalingen teruggevorderd.
+3. Indien komt vast te staan dat de vleeskalverhouder de voorwaarden voor steun als bedoeld in artikel 41, onderdelen b tot en met p, niet heeft nageleefd wordt een korting opgelegd van 3% per niet nageleefde steunvoorwaarde.
