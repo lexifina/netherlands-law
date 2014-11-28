@@ -1,0 +1,7 @@
+# Artikel 9a
+1. Artikel 9 is van overeenkomstige toepassing op de bevoegdheden van het hoofd van de afdeling Bedrijfsvoering, secretariaat en begroting-P&I, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de eigen afdeling.
+2. In afwijking van het eerste lid wordt aan het hoofd van de afdeling Bedrijfsvoering, secretariaat en begroting-P&I mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de directeur-generaal, de directeuren en het bureauhoofd.
+3. In afwijking van het eerste lid wordt aan het hoofd van de afdeling Bedrijfsvoering, secretariaat en begroting-P&I volmacht verleend met betrekking tot het verrichten van de volgende privaatrechtelijke rechtshandelingen, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de directeur-generaal, de directeuren en het bureauhoofd:
+a. het aangaan van overeenkomsten met betrekking tot de levering van goederen en diensten die voortvloeien uit een door de directie Bedrijfsvoering afgesloten raamovereenkomst;
+b. het afsluiten van koop-, huur- en leaseovereenkomsten met een waarde van ten hoogste € 15.000,– per overeenkomst.
+4. De directeuren en het bureauhoofd blijven te allen tijde bevoegd de bevoegdheden, genoemd in het tweede en derde lid, voor zover zij verband houden met de eigen directie dan wel bureau, zelf uit te oefenen.
