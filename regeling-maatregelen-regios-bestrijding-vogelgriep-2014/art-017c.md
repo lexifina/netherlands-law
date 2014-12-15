@@ -1,4 +1,0 @@
-# Artikel 17c. Vervoer andere dieren
-1. Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van commercieel gehouden dieren, anders dan gevogelte, afkomstig van of naar een bedrijf met commercieel gehouden gevogelte, is verboden.
-2. In afwijking van het eerste lid is het vervoer van commercieel gehouden dieren, anders dan gevogelte, afkomstig van een bedrijf met commercieel gehouden gevogelte toegestaan, indien de dieren rechtstreeks worden vervoerd naar een locatie anders dan een bedrijf met commercieel gehouden gevogelte.
-3. In afwijking van het eerste lid is het vervoer van commercieel gehouden dieren, anders dan gevogelte, naar een bedrijf met commercieel gehouden gevogelte toegestaan, indien de dieren afkomstig zijn van een locatie anders dan een bedrijf met commercieel gehouden gevogelte.
