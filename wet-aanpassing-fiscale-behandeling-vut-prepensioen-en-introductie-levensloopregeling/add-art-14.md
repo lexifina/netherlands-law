@@ -1,0 +1,2 @@
+# Artikel XIV
+Onze Minister van Sociale Zaken en Werkgelegenheid zendt in overeenstemming met Onze Minister van Financiën binnen vier jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van de levensloopregeling, bedoeld in artikel 19g van de Wet op de loonbelasting 1964, en de ouderschapsverlofkorting, bedoeld in artikel 8.14b van de Wet inkomstenbelasting 2001.
