@@ -18,12 +18,13 @@ Financiële-verhoudingswet: artikel 9
 Gaswet: de artikelen 39b, derde lid, 39c, derde lid, en 39d, tweede en derde lid
 Gemeentewet:
 a. artikel 49
-b. artikel 124, voor zover het beroep niet wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester
-c. artikel 124a, voor zover het beroep niet wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
-d. de artikelen 169, derde lid, 180, derde lid, en 234, tweede lid, onderdeel a
-e. artikel 268, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging
-f. artikel 278, voor zover het betreft de weigering om een voordracht tot vernietiging te doen
-g. de artikelen 278a, vierde lid, en 281, tweede lid, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep niet wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep niet wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
+b. artikel 85, tweede lid, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging
+c. artikel 124, voor zover het beroep niet wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester
+d. artikel 124a, voor zover het beroep niet wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
+e. de artikelen 169, derde lid, 180, derde lid, en 234, tweede lid, onderdeel a
+f. artikel 268, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging
+g. artikel 278, voor zover het betreft de weigering om een voordracht tot vernietiging te doen
+h. de artikelen 278a, vierde lid, en 281, tweede lid, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep niet wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep niet wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
 Geneesmiddelenwet: artikel 17
 Gerechtsdeurwaarderswet: artikel 3a, tweede lid
 Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën: de artikelen 20, 21, 22, 72, eerste lid, 75, en 101, derde lid

@@ -21,12 +21,11 @@ Experimentenwet onderwijs
 Flora- en faunawet: artikel 75a, eerste lid, voor zover de ontheffing is verleend
 Gemeentewet:
 a. artikel 85, tweede lid
-b. artikel 87a, eerste lid
-c. artikel 124, voor zover het beroep wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester
-d. artikel 124a, voor zover het beroep wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
-e. artikel 125, voor zover het besluit betrekking heeft op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, van de Wet milieubeheer, bedoelde wetten of wettelijke bepalingen dan wel de Ontgrondingenwet
-f. artikel 268, eerste lid
-g. de artikelen 278a, vierde lid, en 281, tweede lid, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
+b. artikel 124, voor zover het beroep wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester
+c. artikel 124a, voor zover het beroep wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
+d. artikel 125, voor zover het besluit betrekking heeft op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, van de Wet milieubeheer, bedoelde wetten of wettelijke bepalingen dan wel de Ontgrondingenwet
+e. artikel 268, eerste lid
+f. de artikelen 278a, vierde lid, en 281, tweede lid, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
 Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën: de artikelen 13, eerste lid, en 74, eerste, tweede, derde en vijfde lid
 Huisvestingswet: artikel 40, eerste lid
 Interimwet stad-en-milieubenadering:
