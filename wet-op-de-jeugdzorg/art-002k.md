@@ -1,6 +1,0 @@
-# Artikel 2k
-1. Een melding wordt in de verwijsindex gekoppeld aan het burgerservicenummer van de jeugdige, met als doel te waarborgen dat de melding betrekking heeft op die jeugdige.
-2. Indien de melding afkomstig is van een meldingsbevoegde die op grond van een wettelijke bepaling reeds bevoegd is het burgerservicenummer van de jeugdige te gebruiken, biedt hij de melding met dat nummer aan de verwijsindex aan.
-3. In andere gevallen biedt de meldingsbevoegde de melding aan de verwijsindex aan met behulp van de voorzieningen, bedoeld in artikel 2f, eerste lid, onder a, zonder dat hij kennis kan nemen van het burgerservicenummer van de betrokken jeugdige.
-4. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over het aanbieden van een melding aan de verwijsindex, bedoeld in het tweede en derde lid, en overigens over de wijze van melding.
-5. Bij algemene maatregel van bestuur worden een persoonsidentificerend nummer en andere identificerende gegevens aangewezen die gebruikt worden om jeugdigen die niet beschikken over een burgerservicenummer te melden aan de verwijsindex. Bij of krachtens de maatregel worden voorts regels gesteld over de wijze waarop deze gegevens worden aangeboden aan de verwijsindex.

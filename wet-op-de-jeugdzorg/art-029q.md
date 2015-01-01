@@ -1,5 +1,0 @@
-# Artikel 29q
-1. Het hulpverleningsplan kan ten aanzien van een met een machtiging opgenomen jeugdige, onverminderd de huisregels, als bedoeld in artikel 29n, tweede lid, beperkingen van het brief- en telefoonverkeer of het gebruik van andere communicatiemiddelen bevatten.
-2. Het hulpverleningsplan kan ten aanzien van een met een machtiging opgenomen jeugdige, onverminderd de huisregels, als bedoeld in artikel 29n, tweede lid, beperkingen van bezoek bevatten of bepalen dat bezoek slechts onder toezicht kan plaatsvinden.
-3. De beperkingen, bedoeld in het eerste en tweede lid, kunnen, onverminderd artikel 263a van Boek 1 van het Burgerlijk Wetboek, tegen de wil van de jeugdige of van degene die het gezag over hem uitoefent, worden toegepast voor zover dit nodig is om te voorkomen dat het met het verblijf beoogde doel wordt tegengewerkt.
-4. Op de beperkingen, bedoeld in het tweede lid, is artikel 42, eerste en tweede lid, en 43, zevende lid, van de Beginselenwet justitiële jeugdinrichtingen van overeenkomstige toepassing.

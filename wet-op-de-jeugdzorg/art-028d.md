@@ -1,3 +1,0 @@
-# Artikel 28d
-1. De stichting en de zorgaanbieder die pleegzorg biedt, verstrekken aan de pleegouder in het belang van de verzorging en de opvoeding van de jeugdige, zo nodig zonder toestemming en zo mogelijk voorafgaand aan de plaatsing, inlichtingen inzake feiten en omstandigheden die de persoon van een jeugdige of diens verzorging of opvoeding betreffen en die noodzakelijk zijn voor de uitoefening van de taak van de pleegouder. Deze inlichtingen kunnen mede omvatten persoonsgegevens betreffende de gezondheid als bedoeld in artikel 21 van de Wet bescherming persoonsgegevens.
-2. Bij regeling van Onze Minister van Volksgezondheid, Welzijn en Sport kunnen regels worden gesteld met betrekking tot de uitvoering van het eerste lid.

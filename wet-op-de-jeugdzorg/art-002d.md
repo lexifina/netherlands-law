@@ -1,4 +1,0 @@
-# Artikel 2d
-1. Er is een verwijsindex risicojongeren, zijnde een landelijk elektronisch systeem, waarin persoonsgegevens in de zin van artikel 1, onder a, van de Wet bescherming persoonsgegevens alsmede andere gegevens worden verwerkt.
-2. De verwijsindex heeft tot doel vroegtijdige en onderlinge afstemming tussen meldingsbevoegden te bewerkstelligen, opdat zij jeugdigen tijdig passende hulp, zorg of bijsturing kunnen verlenen om daadwerkelijke bedreigingen van de noodzakelijke condities voor een gezonde en veilige ontwikkeling naar volwassenheid te voorkomen, te beperken of weg te nemen.
-3. De verwijsindex wordt uitsluitend gebruikt voor het in het tweede lid aangegeven doel.

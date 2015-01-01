@@ -1,2 +1,0 @@
-# Artikel 2m
-Ten behoeve van de doeleinden, bedoeld in artikel 2d, worden persoonsgegevens betreffende de gezondheid, alsmede strafrechtelijke persoonsgegevens als bedoeld in artikel 16 van de Wet bescherming persoonsgegevens verwerkt. De verwerking van deze gegevens vindt uitsluitend plaats teneinde meldingsbevoegden uit de domeinen jeugdgezondheidszorg, gezondheidszorg en politie en justitie in staat te stellen een jeugdige aan de verwijsindex te melden alsmede andere meldingsbevoegden in staat te stellen van deze melding kennis te nemen.

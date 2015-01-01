@@ -1,4 +1,0 @@
-# Artikel 29u
-1. Degene die de beslissing heeft genomen tot toepassing van de artikelen 29o tot en met 29r of van artikel 29t, draagt er zorg voor dat de toepassing zo spoedig mogelijk in het dossier betreffende de jeugdige wordt vastgelegd, onder vermelding van de omstandigheden die daartoe aanleiding gaven.
-2. De zorgaanbieder draagt er zorg voor dat de toepassing van een of meer van de in de artikelen 29fa, eerste lid, of 29ta, eerste lid, genoemde maatregelen zo spoedig mogelijk in het dossier betreffende de jeugdige wordt vastgelegd, onder vermelding van de omstandigheden die daartoe aanleiding gaven.
-3. De zorgaanbieder verstrekt aan de stichting alsmede aan de ouders indien de jeugdige niet onder toezicht is gesteld, elk half jaar een rapportage over de toepassingen, als bedoeld in het eerste en tweede lid.

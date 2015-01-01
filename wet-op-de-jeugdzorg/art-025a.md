@@ -1,4 +1,0 @@
-# Artikel 25a
-1. De zorgaanbieder stelt voor zijn medewerkers een meldcode vast waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.
-2. De zorgaanbieder bevordert de kennis en het gebruik van die meldcode.
-3. Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.

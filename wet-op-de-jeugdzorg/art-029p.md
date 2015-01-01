@@ -1,6 +1,0 @@
-# Artikel 29p
-1. Het hulpverleningsplan kan ten aanzien van een met een machtiging opgenomen jeugdige hulpverleningsprogramma's bevatten aan de toepassing waarvan hij moet meewerken.
-2. De hulpverleningsprogramma's die in het hulpverleningsplan zijn opgenomen, kunnen tegen de wil van de jeugdige of van degene die het gezag over hem uitoefent, worden toegepast voor zover dit nodig is om het met het verblijf beoogde doel te bereiken.
-3. Het hulpverleningsplan kan ten aanzien van een met een machtiging opgenomen jeugdige geneeskundige behandelingsmethoden, waaronder het toedienen van medicijnen, bevatten die hij moet gedogen.
-4. De geneeskundige behandelingsmethoden die in het hulpverleningsplan zijn opgenomen, kunnen tegen de wil van de jeugdige of van degene die het gezag over hem uitoefent, worden toegepast voor zover dit nodig is om het met het verblijf beoogde doel te bereiken of voor zover dit nodig is voor de veiligheid van de jeugdige of anderen.
-5. De zorgaanbieder meldt de toepassing van het tweede of vierde lid aan de stichting alsmede aan de ouders indien de jeugdige niet onder toezicht is gesteld. Indien de geneeskundige behandelingsmethode wordt toegepast ter behandeling van een stoornis van de geestvermogens, wordt tevens melding gedaan aan het Staatstoezicht op de volksgezondheid.

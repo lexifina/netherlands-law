@@ -1,3 +1,0 @@
-# Artikel 29a
-1. Dit hoofdstuk is van toepassing op minderjarige jeugdigen alsmede op jeugdigen die de leeftijd van 21 jaar nog niet hebben bereikt, ten aanzien van wie op het tijdstip waarop zij meerderjarig werden, een machtiging gold. Laatstbedoelde jeugdigen worden voor de toepassing van dit hoofdstuk, in afwijking van artikel 233 van Boek 1 van het Burgerlijk Wetboek, als minderjarigen behandeld.
-2. In zaken betrekking hebbende op de toepassing van dit hoofdstuk is een minderjarige die de leeftijd van twaalf jaren heeft bereikt, bekwaam in rechte op te treden. Hetzelfde geldt indien de minderjarige de leeftijd van twaalf jaren nog niet heeft bereikt, maar in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake.
