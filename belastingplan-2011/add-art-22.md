@@ -1,0 +1,2 @@
+# Artikel XXII
+In afwijking van artikel 13, eerste lid, van de Wet op belastingen van rechtsverkeer wordt in geval van verkrijging van een woning binnen twaalf maanden na een vorige verkrijging in 2011 van dezelfde woning door een ander, de waarde verminderd met het bedrag waarover ter zake van de vorige verkrijging was verschuldigd hetzij overdrachtsbelasting welke niet in mindering heeft gestrekt van schenk- of erfbelasting, hetzij omzetbelasting welke in het geheel niet op grond van artikel 15 van de Wet op de omzetbelasting 1968 in aftrek kon worden gebracht.

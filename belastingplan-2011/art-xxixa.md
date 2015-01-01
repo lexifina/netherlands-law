@@ -1,0 +1,2 @@
+# Artikel XXIXa
+Voor het verlenen van toegang tot muziekuitvoeringen en toneeluitvoeringen, daaronder begrepen opera's, operettes, dansen, pantomimes, revues, musicals en cabarets, alsmede lezingen, en optredens door uitvoerende kunstenaars die op of na 1 januari 2011 plaatsvinden en ter zake waarvan vóór deze datum de vergoeding is ontvangen, blijven post 14, onderdeel d, onderscheidenlijk post 17, van Tabel I, onderdeel b, van de Wet op de omzetbelasting 1968, zoals deze bepalingen luidden op 31 december 2010, van toepassing.
