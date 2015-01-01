@@ -1,3 +1,0 @@
-# Artikel 76a
-1. De voordracht tot het vaststellen van een algemene maatregel van bestuur als bedoeld in de artikel 5, derde en vierde lid, en artikel 6, wordt gedaan door Onze Minister in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid.
-2. Indien een algemene maatregel van bestuur, bedoeld in artikel 6, geen zodanige invloed heeft op de geldelijke omvang van de verstrekkingen dat zulks verhoging of verlaging van de in artikel 11, derde lid, van de Wet financiering sociale verzekeringen bedoelde premies tot gevolg heeft, zal, in afwijking van het eerste lid, een voordracht tot het vaststellen daarvan worden gedaan door Onze Minister.

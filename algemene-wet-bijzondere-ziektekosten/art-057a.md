@@ -1,7 +1,0 @@
-# Artikel 57a
-1. Een zorgverzekeraar maakt voor de verstrekking of ontvangst van gegevens aan of van personen, aan te wijzen door het Zorginstituut, gebruik van een elektronische infrastructuur.
-2. Het Zorginstituut kan met betrekking tot het eerste lid regels stellen over:
-a. de aard en omvang van de gegevens en de voorschriften waaraan de verstrekking of ontvangst ten minste moet voldoen;
-b. de wijze waarop de verstrekking of ontvangst van gegevens plaatsvindt, waaronder begrepen de aansluiting van zorgverzekeraars op de infrastructuur;
-c. de wijze waarop het gebruik van de infrastructuur wordt georganiseerd en beheerd, waaronder begrepen de inrichting en instandhouding van een gemeenschappelijke database;
-d. de financiering van het gebruik van de infrastructuur en de wijze waarop de kosten ervan worden verdeeld.
