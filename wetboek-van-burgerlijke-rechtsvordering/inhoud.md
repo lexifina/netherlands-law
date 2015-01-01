@@ -148,9 +148,12 @@
 ### Titel 18. Van rechtspleging in zaken betreffende een arbeidsovereenkomst op grond waarvan de werknemer arbeid verricht op het continentaal plat
 ## Boek Vierde. Arbitrage
 ### titel Eerste. Arbitrage in Nederland
-#### afdeling Eerste. De overeenkomst tot arbitrage en de benoeming tot arbiter
+#### afdeling Eerste. De overeenkomst tot arbitrage
+#### afdeling Eerste A. De overeenkomst tot arbitrage en de bevoegdheid van de gewone rechter
+#### afdeling Eerste B. Het scheidsgerecht
 #### afdeling Tweede. Het arbitraal geding
 #### afdeling Derde. Het arbitraal vonnis
+#### afdeling Derde A. Arbitraal hoger beroep
 #### afdeling Vierde. De tenuitvoerlegging van het arbitraal vonnis
 #### afdeling Vijfde. De vernietiging en de herroeping van het arbitraal vonnis
 #### afdeling Zesde. Het arbitraal vonnis, houdende een vergelijk tussen de partijen
