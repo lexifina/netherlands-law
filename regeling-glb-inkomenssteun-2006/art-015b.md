@@ -1,6 +1,0 @@
-# Artikel 15b
-1. Landbouwers kunnen met een beroep op artikel 31 van verordening 73/2009 verzoeken om de verhoging van de waarde van toeslagrechten, of de toewijzing van nieuwe toeslagrechten, op grond van deze paragraaf op alternatieve wijze te berekenen.
-2. Een verzoek, bedoeld in het eerste lid, kan alleen worden gedaan indien:
-a. de productie van de landbouwer rechtstreeks is getroffen door overmacht of uitzonderlijke omstandigheden, en
-b. de directe betaling in enig jaar dat relevant is voor de van toepassing zijnde berekening, bedoeld in bijlage 9, daardoor verminderde met meer dan € 500.
-3. De alternatieve berekening, bedoeld in het eerste lid, geschiedt in eerste instantie op basis van één of meerdere jaren, die relevant zijn voor de van toepassing zijnde berekening, bedoeld in bijlage 9, waarin de productie van de landbouwer niet is beïnvloed door overmacht of uitzonderlijke omstandigheden. Indien door overmacht of uitzonderlijke omstandigheden de productie is beïnvloed in alle relevante jaren voor de van toepassing zijnde berekening, bedoeld in bijlage 9, geschiedt de berekening op basis van het door de minister te bepalen meest recente jaar dat niet door deze omstandigheden is getroffen.

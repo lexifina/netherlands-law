@@ -1,4 +1,0 @@
-# Artikel 38f
-1. De minister verstrekt specifieke steun aan landbouwers in de vorm van een vaarvergoeding van € 500 per hectare per jaar voor vaarpercelen.
-2. Indien voor het desbetreffende perceel reeds subsidie voor het uitrijden van ruige mest uit hoofde van de Subsidieverordening natuur- en landschapsbeheer van de onderscheiden provincies, de Subsidieregeling agrarisch natuurbeheer of de Subsidieregeling agrarisch natuurbeheer van de onderscheiden provincies wordt toegekend, wordt de steun, bedoeld in het eerste lid, verlaagd met het bedrag dat per hectare voor het desbetreffende perceel wordt ontvangen aan subsidie voor het uitrijden van ruige mest.
-3. De vaarvergoeding wordt evenredig verlaagd voor alle voor vaarvergoeding in aanmerking te nemen aanvragen indien het totaal van de voor steun in aanmerking te nemen aanvragen het bedrag van € 1.100.000 per kalenderjaar overstijgt.

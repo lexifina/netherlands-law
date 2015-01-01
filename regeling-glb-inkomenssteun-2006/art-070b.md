@@ -1,2 +1,0 @@
-# Artikel 70b
-Voor de toepassing van de artikelen 8, 23 en 28 van verordening 73/2009 en artikel 55 van verordening 1122/2009, gelden aanvragen voor betalingen op grond van artikel 36, eerste lid, artikel 37, eerste lid en artikel 38b, eerste lid, als ingediend in de periode van 1 tot en met 31 december van het jaar waarin de steun is verleend, respectievelijk als ingediend in de periode van 1 tot en met 31 december van het jaar dat volgt op het jaar waarin de aanvraag tot steunverlening is ingediend.

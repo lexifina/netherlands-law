@@ -1,3 +1,0 @@
-# Artikel 70a
-1. Aanvragen, bedoeld in artikel 55d, tweede lid, onderdeel a, respectievelijk derde lid, onderdeel a, komen niet voor steunverlening in aanmerking indien de landbouwer deze verstrekt na de in die leden vastgestelde termijn.
-2. De steun, bedoeld in artikel 24, eerste lid, artikel 29, eerste lid, artikel 37a, eerste lid, artikel 38i, eerste lid, respectievelijk artikel 38u wordt verlaagd overeenkomstig de omschreven systematiek in artikel 23, eerste lid, van verordening 1122/2009, indien de landbouwer de in artikel 55d, tweede lid, onderdeel b, derde lid onderdeel b, vierde lid, respectievelijk artikel 43, vierde lid, omschreven aanvragen of gegevens verstrekt na de daarin bepaalde termijn.

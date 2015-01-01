@@ -1,4 +1,0 @@
-# Artikel 70e
-1. Behoudens wijzigingen in de beschikking tot steunverlening als bedoeld in artikel 35 stelt de minister de steun, bedoeld in artikel 29, eerste lid, vast op nihil als de aanvrager afwijkt van de realisatie van een integraal duurzame stal of houderijsysteem waarvoor de minister aan de aanvrager steun heeft verleend.
-2. Indien komt vast te staan dat de aanvrager in de documenten, bedoeld in artikel 37, derde lid en artikel 38b, tweede lid, opzettelijk een foutieve weergave heeft gegeven van de werkelijk gemaakte kosten en de door aanvrager opgegeven kosten hoger zijn dan de werkelijke kosten, stelt de minister de steun vast op nihil.
-3. Indien in het geval, bedoeld in het tweede lid, de door aanvrager opgegeven kosten meer dan 20% hoger zijn dan de werkelijk gemaakte kosten, wordt de aanvrager voor het kalenderjaar volgend op het laatste jaar waarvoor de steun is verleend, uitgesloten van verlening van steun als bedoeld in artikel 29, eerste lid.
