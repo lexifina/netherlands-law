@@ -1,5 +1,0 @@
-# Artikel 3a
-1. De voorzitter verleent op aanvraag van de ondernemer een subsidie aan de ondernemer die een koppel leghennen of opfokleghennen laat ruimen, waarbij overeenkomstig het bepaalde bij of krachtens artikel 8, tweede lid, van de verordening een besmetting met Salmonella enteritidis of Salmonella typhimurium is vastgesteld.
-2. De subsidie bedraagt:
-a. voor opfokleghennen het met de leeftijd en het huisvestingssysteem van het dier corresponderende bedrag genoemd in Bijlage V, VI en VII, met een maximum van € 3,00 per geruimd dier;
-b. voor leghennen niet ouder dan 28 weken het met de leeftijd en het huisvestingssysteem van het dier corresponderende bedrag genoemd in Bijlage V, VI en VII, met een maximum van € 3,00 per geruimd dier.

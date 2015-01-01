@@ -1,9 +1,0 @@
-# Inhoud
-## 1. Begripsbepalingen
-## 2. Algemene voorwaarden voor verlenging van de tegemoetkoming
-## 3. Hoogte tegemoetkoming en hoogte plafond
-## 4. De aanvraag
-## 5. De vaststelling
-## 6. Uitvoeringsovereenkomst
-## 7. Intrekking en wijziging tegemoetkoming
-## 8. Slotbepalingen

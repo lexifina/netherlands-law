@@ -1,4 +1,0 @@
-# Artikel 2a
-1. Het is de ondernemer verboden om plantuien te telen, indien de ondernemer niet beschikt over één of meerdere beoordelingsrapporten over het te gebruiken dan wel gebruikte uitgangsmateriaal, afgegeven door een keuringsdienst, waaruit blijkt dat bij visuele keuring van het uitgangsmateriaal te velde, vlak voor de oogst, geen valse meeldauw is geconstateerd dan wel waaruit bij nacontrole van het uitgangsmateriaal blijkt dat het uitgangsmateriaal vrij van valse meeldauw is.
-2. De ondernemer bedoeld in het eerste lid is verplicht het beoordelingsrapport dan wel de beoordelingsrapporten op eerste vordering van de daartoe bevoegde toezichthouder aan deze te tonen.
-3. De ondernemer bedoeld in het eerste lid is verplicht het beoordelingsrapport dan wel de beoordelingsrapporten gedurende een jaar na afgifte te bewaren.
