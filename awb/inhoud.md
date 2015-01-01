@@ -1,7 +1,7 @@
 # Inhoud
 ## Hoofdstuk 1. Inleidende bepalingen
 ### Titel 1.1. Definities en reikwijdte
-### Titel 1.2. Uitvoering van bindende besluiten van organen van de Europese Gemeenschappen
+### Titel 1.2. Uitvoering van bindende besluiten van organen van de Europese Unie
 ## Hoofdstuk 2. Verkeer tussen burgers en bestuursorganen
 ### Afdeling 2.1. Algemene bepalingen
 ### Afdeling 2.2. Gebruik van de taal in het bestuurlijk verkeer

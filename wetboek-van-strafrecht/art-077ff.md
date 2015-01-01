@@ -6,3 +6,4 @@ a. projecten als bedoeld in de artikelen 77e en 77f, eerste lid, onder b,
 b. taakstraffen als bedoeld in artikel 77h, tweede lid, en
 c. maatregelen betreffende het gedrag van de jeugdige als bedoeld in artikel 77h, vierde lid, onderdeel b.
 4. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de inhoud van de taakstraf, de tenuitvoerlegging van de taakstraf en de rechten en plichten van de tot een taakstraf veroordeelde. Daarbij kan van het aantal uren dat een leerproject kan duren, genoemd in artikel 77m, vierde lid, worden afgeweken indien de aard van het leerproject daartoe aanleiding geeft.
+5. Bij algemene maatregel van bestuur worden nadere regels gesteld over de tenuitvoerlegging van een straf of maatregel waarvan de rechter heeft gelast dat deze geheel of gedeeltelijk niet ten uitvoer wordt gelegd.
