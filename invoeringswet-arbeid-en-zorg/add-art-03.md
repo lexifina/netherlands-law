@@ -1,3 +1,0 @@
-# Artikel III
-1. Indien de datum van ingang van het verlof in verband met adoptie, bedoeld in artikel 3:2, tweede lid, van de Wet arbeid en zorg is gelegen in het tijdvak van drie weken vanaf het tijdstip van inwerkingtreding van die wet, meldt de werknemer, in afwijking van artikel 3:3, tweede lid, van die wet, het verlof binnen dat tijdvak van drie weken.
-2. Indien de datum van ingang van het verlof respectievelijk de gewenste datum van ingang van de uitkering, bedoeld in de artikelen 3:11, tweede lid, 3:12, tweede lid, en 3:22, tweede lid, van de Wet arbeid en zorg, gelegen is in het tijdvak van twee weken vanaf het tijdstip van inwerkingtreding van die wet, doet de werknemer, in afwijking van die artikelen, de aanvraag binnen dat tijdvak van twee weken.
