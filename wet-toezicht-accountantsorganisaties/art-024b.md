@@ -1,2 +1,9 @@
 # Artikel 24b
-De accountantsorganisatie die wettelijke controles verricht bij een organisatie van openbaar belang, verricht naast controlediensten geen andere werkzaamheden voor die organisatie.
+1. Een accountantsorganisatie die wettelijke controles verricht bij een organisatie van openbaar belang, verricht naast controlediensten geen andere werkzaamheden voor die organisatie en aan die organisatie gelieerde entiteiten.
+2. Een accountantsorganisatie die onderdeel uitmaakt van een netwerk, verricht geen wettelijke controles bij een organisatie van openbaar belang indien:
+a. een ander onderdeel van het netwerk dat in Nederland is gevestigd andere werkzaamheden als bedoeld in het eerste lid verricht voor die organisatie van openbaar belang of een aan die organisatie gelieerde entiteit; of
+b. een ander onderdeel van het netwerk dat niet in Nederland is gevestigd andere werkzaamheden als bedoeld in het eerste lid verricht voor die organisatie van openbaar belang of een aan die organisatie gelieerde entiteit die in Nederland is gevestigd.
+3. Voor de toepassing van het eerste en tweede lid wordt onder gelieerde entiteit verstaan:
+a. de rechtspersoon of vennootschap die, alleen of samen met een andere groepsmaatschappij, aan het hoofd staat van de groep of het groepsdeel waar de organisatie van openbaar belang deel van uitmaakt alsmede een rechtspersoon of vennootschap die overheersende zeggenschap kan uitoefenen op of centrale leiding heeft over een organisatie van openbaar belang; en
+b. iedere dochtermaatschappij van een organisatie van openbaar belang, andere groepsmaatschappij die onder de organisatie van openbaar belang valt, of andere rechtspersoon of vennootschap waarop een organisatie van openbaar belang overheersende zeggenschap kan uitoefenen of waarover zij de centrale leiding heeft.
+4. De Staat der Nederlanden is geen gelieerde entiteit als bedoeld in het derde lid.

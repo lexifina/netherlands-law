@@ -1,0 +1,3 @@
+# Artikel 9g
+1. De Bank is bevoegd tot oplegging van een last onder dwangsom ter handhaving van artikel 9d, derde lid, indien de in het eerste lid, onderdeel b, van dat artikel bedoelde rechtspersonen en de in het tweede lid van dat artikel bedoelde ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen de in die artikelleden bedoelde gegevens niet, niet tijdig of niet volledig verstrekken.
+2. De Bank is tevens bevoegd tot oplegging van een bestuurlijke boete ter zake van overtreding van artikel 9d, derde lid. Artikel 9c, derde en vierde lid, is van overeenkomstige toepassing, met dien verstande dat de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste € 10.000 bedraagt.

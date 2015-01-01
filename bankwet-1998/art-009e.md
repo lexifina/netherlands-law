@@ -1,0 +1,4 @@
+# Artikel 9e
+1. De door de Bank op grond van artikel 9d ontvangen gegevens worden, behoudens het tweede lid, uitsluitend gebruikt voor statistische doeleinden en economische analyses.
+2. Het organisatieonderdeel van de Bank dat is belast met de in artikel 4, eerste lid, onderdeel c of d, bedoelde taak kan de in het eerste lid bedoelde gegevens verstrekken aan organisatieonderdelen van de Bank die belast zijn met een andere taak, voor zover die gegevens, al dan niet rechtstreeks, afkomstig zijn van financiële instellingen waarop de Bank toezicht uitoefent op de voet van de daarvoor geldende wettelijke regelingen.
+3. De in het eerste lid bedoelde gegevens worden slechts zodanig openbaar gemaakt dat daaraan geen herkenbare gegevens over een afzonderlijke onderneming, vrije beroepsbeoefenaar, instelling of rechtspersoon kunnen worden ontleend.
