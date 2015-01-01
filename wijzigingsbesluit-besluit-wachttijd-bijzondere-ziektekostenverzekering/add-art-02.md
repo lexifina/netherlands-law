@@ -1,2 +1,0 @@
-# Artikel II
-Met betrekking tot onderdanen van lidstaten van de Europese Unie die zich voorafgaand aan de inwerkingtreding van dit besluit in Nederland hebben gevestigd, wordt artikel 3 van het Besluit wachttijd bijzondere ziektekosten"Besluit wachttijd bijzondere ziektekosten" moet zijn "Besluit wachttijd bijzondere ziektekostenverzekering"., zoals dat luidde voor de inwerkingtreding van dit besluit, toegepast.

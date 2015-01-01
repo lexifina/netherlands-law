@@ -1,2 +1,0 @@
-# Artikel IV
-De vreemdeling die rechtmatig in Nederland verblijf heeft als bedoeld in artikel 8, onder b, van de Vreemdelingenwet 2000 en voor de inwerkingtreding van dit besluit zorg ontving als bedoeld in Hoofdstuk II van het Besluit zorgaanspraken AWBZ of een vergoeding daarvoor ingevolge artikel 20 van dat Besluit, heeft na de inwerkingtreding van dit besluit aanspraak op voortzetting van deze zorg gedurende het resterende aantal maanden van de wachttijd als bedoeld in artikel 2 van het Besluit wachttijd bijzondere ziektekostenverzekering.

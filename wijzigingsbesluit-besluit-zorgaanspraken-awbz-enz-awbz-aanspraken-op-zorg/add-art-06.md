@@ -1,7 +1,0 @@
-# Artikel VI
-1. De artikelen 4, 6, 7 en 8 van het Besluit zorgaanspraken AWBZ zoals deze luidden onmiddellijk voorafgaande aan de inwerkingtreding van dit besluit blijven van toepassing op verzekerden die onmiddellijk voorafgaande aan het tijdstip waarop dit besluit in werking treedt, daartoe een indicatiebesluit op grond van het Zorgindicatiebesluit hadden of die uiterlijk op dat tijdstip een indicatiebesluit hadden aangevraagd.
-2. Het eerste lid geldt voor de geldigheidsduur van het daar bedoelde indicatiebesluit, doch uiterlijk tot 1 januari 2010.
-3. Nadat de aanspraak op zorg als omschreven in de artikelen 6 en 7 van het Besluit zorgaanspraken AWBZ zoals deze luidden onmiddellijk voorafgaande aan de inwerkingtreding van dit besluit, op grond van het eerste juncto tweede lid geëindigd is, heeft de verzekerde nog gedurende een gewenningsperiode van:
-a. zes maanden volgende op die eindigingsdatum recht op de direct voorgaande aan die datum genoten zorg als zou zijn aanspraak niet geëindigd zijn, indien sprake is van een eindigingsdatum uiterlijk op 30 juni 2009;
-b. drie maanden volgende op die eindigingsdatum, maar uiterlijk tot 1 januari 2010, recht op de direct voorgaande aan die datum genoten zorg als zou zijn aanspraak niet geëindigd zijn, indien sprake is van een eindigingsdatum die ligt na 30 juni 2009.
-4. Het derde lid geldt niet voor verzekerden die zorg genoten in verband met psychosociale problemen.
