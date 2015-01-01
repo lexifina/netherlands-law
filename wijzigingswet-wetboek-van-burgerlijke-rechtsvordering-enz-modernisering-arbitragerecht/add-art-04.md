@@ -1,0 +1,5 @@
+# Artikel IV
+1. Deze wet is van toepassing op arbitrages die aanhangig zijn geworden op of na de datum van inwerkingtreding van deze wet.
+2. Op arbitrages die aanhangig zijn of waren voor de datum van inwerkingtreding van deze wet, blijft het Vierde Boek van het Wetboek van Burgerlijke Rechtsvordering van toepassing, zoals dat voor de datum van inwerkingtreding van deze wet gold.
+3. Deze wet is van toepassing op zaken die bij de rechter aanhangig zijn gemaakt door het uitbrengen van een inleidende dagvaarding of door het indienen van een inleidend verzoekschrift indien en voorzover het arbitrages betreft als bedoeld in het eerste lid.
+4. Deze wet is niet van toepassing op zaken die bij de rechter aanhangig zijn gemaakt of waren door het uitbrengen van een inleidende dagvaarding of door het indienen van een inleidend verzoekschrift indien en voorzover het arbitrages betreft als bedoeld in het tweede lid. Op die zaken blijft het Vierde Boek van het Wetboek van Burgerlijke Rechtsvordering van toepassing, zoals dat voor de datum van inwerkingtreding van deze wet gold.
