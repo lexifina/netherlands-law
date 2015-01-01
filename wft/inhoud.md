@@ -169,6 +169,7 @@
 ##### § 3.3.3.2a. Financiële ondernemingen met zetel in een aangewezen staat
 ##### § 3.3.3.3. Financiële ondernemingen met zetel in een niet-aangewezen staat
 #### Afdeling 3.3.4. Overige bepalingen
+##### § 3.3.4.0. Kennisgevingsverplichtingen
 ##### § 3.3.4.1. Financiële ondernemingen met zetel in Nederland
 ##### § 3.3.4.2. Financiële ondernemingen met zetel in een andere lidstaat
 ##### § 3.3.4.3. Financiële ondernemingen met zetel in een staat die geen lidstaat is
@@ -183,6 +184,7 @@
 ##### § 3.3.6.3. Financiële ondernemingen met zetel in een niet-aangewezen staat
 #### Afdeling 3.3.6a. Kapitaalbuffer
 ##### § 3.3.6a.1. Financiële ondernemingen met zetel in Nederland
+#### Afdeling 3.3.6b. Reclameverbod systeemrelevantiestatus
 #### Afdeling 3.3.7. Liquiditeit
 ##### § 3.3.7.1. Financiële ondernemingen met zetel in Nederland
 ##### § 3.3.7.2. Financiële ondernemingen met zetel in een andere lidstaat
@@ -266,7 +268,7 @@
 #### Afdeling 4.2.2. Structurering en inrichting
 #### Afdeling 4.2.3. Zorgvuldige dienstverlening
 #### Afdeling 4.2.4. Meldingsplichten
-#### Afdeling 4.2.4a. Instemmingvereiste
+#### Afdeling 4.2.4a. Kennisgevingsverplichtingen
 ### Hoofdstuk 4.3. Aanvullende regels voor het werkzaam zijn op de financiële markten betreffende bepaalde financiële diensten
 #### Afdeling 4.3.1. Aanbieden
 ##### § 4.3.1.1. Beleggingsobjecten
