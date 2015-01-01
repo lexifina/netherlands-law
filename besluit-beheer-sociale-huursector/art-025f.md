@@ -1,0 +1,3 @@
+# Artikel 25f
+1. De toegelaten instellingen zenden de in artikel 25b bedoelde samenvatting voor 1 februari volgend op de in artikel 25c bedoelde datum aan Onze Minister.
+2. Indien een toegelaten instelling in een overleg als bedoeld in artikel 25e, eerste lid, afspraken met een of meer colleges van burgemeester en wethouders van de betrokken in artikel 25c bedoelde gemeenten heeft gemaakt over haar activiteiten in het betrokken kalenderjaar, vermeldt zij die afspraken, alsmede de wijzigingen in haar voorgenomen activiteiten, in de ingevolge het eerste lid aan Onze Minister te zenden samenvatting.

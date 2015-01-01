@@ -1,0 +1,6 @@
+# Artikel 39a
+1. Ten behoeve van het toezicht verstrekt de toegelaten instelling jaarlijks voor 1 juli aan Onze Minister de gegevens, bedoeld in bijlage IV bij dit besluit, welke bijlage bij ministeriële regeling kan worden gewijzigd, alsmede de mededeling, bedoeld in het tweede lid.
+2. De toegelaten instelling verzoekt aan een daartoe als openbaar optredende accountant als bedoeld in artikel 27, eerste lid, of aan een organisatie waarin zodanige accountants samenwerken, om overeenkomstig bijlage III bij dit besluit een mededeling op te stellen omtrent de gegevens, bedoeld in het eerste lid.
+3. Onze Minister bevestigt binnen vier weken de ontvangst van de krachtens het eerste lid gezonden bescheiden.
+4. Indien een toegelaten instelling de bescheiden op 1 juli van een jaar niet aan Onze Minister heeft doen toekomen, stelt hij onverwijld een termijn van ten hoogste vier weken binnen welke de bescheiden alsnog moeten worden verstrekt en doet daarvan mededeling aan die toegelaten instelling.
+5. Indien de toegelaten instelling de bescheiden niet binnen de krachtens het vierde lid gestelde termijn verstrekt, kan Onze Minister bepalen, dat zij, totdat zij de bescheiden alsnog verstrekt, de door hem aangegeven rechtshandelingen slechts kan verrichten na zijn instemming.
