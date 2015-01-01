@@ -2,8 +2,6 @@
 ## Hoofdstuk I. Inleidende bepalingen
 ### Belastbaar feit
 ## Hoofdstuk II. Definities van de goederen en tarieven
-### Afdeling 1. Alcoholvrije dranken
-### Afdeling 2. Pruimtabak en snuiftabak
 ## Hoofdstuk III. Uitslag
 ### Afdeling 1. Inrichting
 ### Afdeling 2. Vergunning
@@ -16,7 +14,6 @@
 ### Afdeling 1. Vrijstellingen
 ### Afdeling 2. Teruggaven
 ## Hoofdstuk VI. Bijzondere bepalingen
-### Afdeling 1. Belastingzegels
 ### Afdeling 2. Controlebepalingen
 ### Afdeling 3. Overige bepalingen
 ## Hoofdstuk VII. Verbodsbepalingen en strafbepalingen
