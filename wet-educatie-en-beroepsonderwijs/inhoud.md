@@ -19,7 +19,7 @@
 #### § 1. Bekostiging
 #### § 2. Grondslag vermindering bekostiging vbo-groen in een AOC in verband met passend onderwijs
 ### Titel 2a. Bekostiging voortgezet algemeen volwassenenonderwijs
-### Titel 3. Uitkering educatie met uitzondering van opleidingen voortgezet algemeen volwassenenonderwijs; informatie en gegevensverstrekking educatie
+### Titel 3. Aanbod en uitkering educatie met uitzondering van opleidingen voortgezet algemeen volwassenenonderwijs; informatie en gegevensverstrekking educatie
 ### Titel 4. Bekostiging van kenniscentra beroepsonderwijs bedrijfsleven
 #### § 1. Bekostiging
 ### Titel 5. Begroting, verslaglegging en gegevensverstrekking
