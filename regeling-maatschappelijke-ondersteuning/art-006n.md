@@ -1,2 +1,0 @@
-# Artikel 6n
-Ten behoeve van de controle van de in artikel 6k bedoelde uitgaven, kosten en ontvangsten verschaft de SVB desgevraagd aan de door de minister daartoe aangewezen ambtenaren van de accountantsdienst, bedoeld in artikel 66, eerste lid, van de Comptabiliteitswet 2001, de voor deze controle benodigde informatie en verleent desgevraagd aan deze ambtenaren toegang tot en inzage in alle gegevens die bij de controle op enigerlei wijze een rol spelen.
