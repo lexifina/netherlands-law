@@ -1,0 +1,3 @@
+# Artikel 49e
+1. Onze Minister stelt voor ieder kalenderjaar het bedrag vast dat in dat kalenderjaar beschikbaar is voor het verlenen van zorg als bedoeld in de artikelen 3.3.1, 3.3.2 en 3.3.3 van de Wet langdurige zorg.
+2. Ten behoeve van het voor zorg in natura vaststellen van tarieven als bedoeld in artikel 50, eerste lid, en van bedragen als bedoeld in artikel 56b, alsmede ten behoeve van het verstrekken van persoonsgebonden budgetten als bedoeld in de Wet langdurig zorg, verdeelt de zorgautoriteit het bedrag, bedoeld in het eerste lid, over de regio's, bedoeld in artikel 4.2.4, tweede lid, van laatstgenoemde wet.

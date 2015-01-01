@@ -56,7 +56,7 @@
 ### Afdeling 1. Algemeen
 ### Afdeling 2. Volksverzekeringen
 #### § 1. Algemene Ouderdomswet en Algemene nabestaandenwet
-#### § 2. Algemene Wet Bijzondere Ziektekosten
+#### § 2. Wet langdurige zorg
 ### Afdeling 3. Werknemersverzekeringen
 #### § 1. Algemeen Werkloosheidsfonds, sectorfondsen en Uitvoeringsfonds voor de overheid
 #### § 2. Arbeidsongeschiktheidsfonds, Arbeidsongeschiktheidskas en Werkhervattingskas

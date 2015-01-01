@@ -6,7 +6,7 @@
 ## Hoofdstuk 3. Taken en bevoegdheden Nederlandse Zorgautoriteit
 ### Paragraaf 3.1. Algemeen
 ### Paragraaf 3.2. Toezicht Zorgverzekeringswet
-### Paragraaf 3.3. Toezicht Algemene Wet Bijzondere Ziektekosten
+### Paragraaf 3.3. Toezicht Wet langdurige zorg
 ## Hoofdstuk 4. Marktontwikkeling en -ordening
 ### Paragraaf 4.1. Marktonderzoek
 ### Paragraaf 4.2. Algemene verplichtingen van zorgaanbieders en ziektekostenverzekeraars
