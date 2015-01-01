@@ -1,3 +1,5 @@
 # Artikel 1a
 1. De eigenaar van een bouwwerk, open erf of terrein of degene die uit anderen hoofde bevoegd is tot het daaraan treffen van voorzieningen draagt er zorg voor dat als gevolg van de staat van dat bouwwerk, open erf of terrein geen gevaar voor de gezondheid of veiligheid ontstaat dan wel voortduurt.
 2. Een ieder die een bouwwerk bouwt, gebruikt, laat gebruiken of sloopt, dan wel een open erf of terrein gebruikt of laat gebruiken, draagt er, voor zover dat in diens vermogen ligt, zorg voor dat als gevolg van dat bouwen, gebruik of slopen geen gevaar voor de gezondheid of veiligheid ontstaat dan wel voortduurt.
+3. De eigenaar van een bouwwerk of degene die uit anderen hoofde bevoegd is tot het daaraan treffen van voorzieningen onderzoekt, of laat onderzoek uitvoeren naar, de staat van dat bouwwerk, voor zover dat bouwwerk behoort tot bij ministeriële regeling vast te stellen categorieën bouwwerken waarvan is vast komen te staan dat die een gevaar voor de gezondheid of de veiligheid kunnen opleveren.
+Bij ministeriële regeling worden voorschriften gegeven omtrent het onderzoek.
