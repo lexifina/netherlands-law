@@ -1,2 +1,0 @@
-# Artikel II
-Tot 1 september 1995 mogen belastingzegels die voldoen aan het gestelde in de artikelen 27, 28, 29 en 30 van de Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten zoals die luidden op de dag voorafgaande aan de datum van inwerkingtreding van deze regeling, worden vervaardigd en worden aangebracht op verpakkingen van snuiftabak en pruimtabak mits deze vóór 1 september 1995 worden uitgeslagen of ingevoerd.
