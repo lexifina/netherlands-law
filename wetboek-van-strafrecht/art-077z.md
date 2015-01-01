@@ -21,4 +21,4 @@ b. de veroordeelde, voor zover aan de toepassing van artikel 77x bijzondere voor
 14°. het volgen van onderwijs, gedurende een bepaalde termijn, ten hoogste gelijk aan de proeftijd;
 15°. andere voorwaarden, het gedrag van de veroordeelde betreffende.
 3. Aan een bijzondere voorwaarde kan elektronisch toezicht worden verbonden.
-4. De voorwaarden in het tweede lid, onderdelen 10°, 11° of 15° en de gedragsinterventie, bedoeld in het tweede lid, onderdeel 13°, kunnen geheel of ten dele bestaan uit een vorm van zorg als bedoeld in artikel 5, tweede lid, onderdelen a en b, van de Wet op de jeugdzorg, indien de stichting, bedoeld in artikel 1 van die wet ten aanzien van de veroordeelde een besluit heeft genomen waaruit blijkt dat deze op deze vorm van zorg is aangewezen.
+4. De voorwaarden in het tweede lid, onderdelen 10°, 11° of 15° en de gedragsinterventie, bedoeld in het tweede lid, onderdeel 13°, kunnen geheel of ten dele bestaan uit van jeugdhulp als bedoeld in artikel 1.1 van de Jeugdwet.
