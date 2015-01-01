@@ -1,6 +1,6 @@
 # Inhoud
 ## Hoofdstuk 1. Algemene bepalingen
-### Algemene begrippen
+### De begrippen werkgever en werknemer
 ### Het begrip loon
 ### Overige begrippen
 ### Gelijkstelling met een collectieve arbeidsovereenkomst
@@ -31,7 +31,7 @@
 ##### Financiering
 ##### Van overeenkomstige toepassing zijnde artikelen
 #### § 2. De zelfstandige en de beroepsbeoefenaar op arbeidsovereenkomst
-##### Recht op uitkering voor de zelfstandige en de beroepsbeoefenaar op arbeidsovereenkomst
+##### Recht op uitkering voor de zelfstandige, de beroepsbeoefenaar op arbeidsovereenkomst en de partner, bedoeld in artikel 3:1a, tweede lid
 ##### Uitkering terzake van vervanging
 ##### Aanvraag van uitkering
 ##### De hoogte van de uitkering
@@ -43,6 +43,7 @@
 ##### Controlevoorschriften
 ##### Samenloop
 ##### Overgangsrecht zelfstandigen en beroepsbeoefenaren op arbeidsovereenkomst
+##### Overgangsrecht in verband met zwangerschap- en bevallingsverlof en de uitkering van anderen dan de vrouwelijke werknemer
 ## Hoofdstuk 4. Calamiteiten- en ander kort verzuimverlof
 ### § 1. Verlofvormen
 #### Calamiteiten- en ander kort verzuimverlof
@@ -72,7 +73,7 @@
 ### Afdeling 2. Langdurend zorgverlof
 #### § 1. Verlofvorm
 ##### Langdurend zorgverlof
-##### Omvang, duur en invulling verlof
+##### Omvang verlof
 #### § 2. Verlening, ingang en einde van verlof, informatie
 ##### Verzoek, zwaarwegend bedrijfs- of dienstbelang
 ##### Ingang van het verlof
@@ -84,8 +85,7 @@
 ## Hoofdstuk 6. Ouderschapsverlof
 ### § 1. Verlofvorm
 #### Ouderschapsverlof
-#### Omvang, duur en invulling verlof
-#### Diensttijd
+#### Omvang verlof
 #### Leeftijd kind
 ### § 2. Melding
 #### Meldingsverplichting
@@ -95,6 +95,7 @@
 ### § 4. Mate van gebondenheid
 #### Recht met afwijkingsmogelijkheden
 #### Dwingend recht
+### § 4*. Overgangsrecht
 ## Hoofdstuk 7. Levensloopregeling
 ### Begrippen
 ### Recht op deelname
