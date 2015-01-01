@@ -14,7 +14,7 @@
 #### § 2. Toezicht op de naleving van voorwaarden
 ##### a. overneming van het toezicht
 ##### b. toepassing van buitenlandse voorwaardelijke beslissingen
-#### § 3. Onmiddellijke tenuitvoerlegging
+#### § 3. Voortgezette tenuitvoerlegging
 ### Afdeling E. Tenuitvoerlegging van bij verstek gewezen beslissingen
 ### Afdeling F. Bijzondere vormen van tenuitvoerlegging
 ## Hoofdstuk IV. Overdracht van de tenuitvoerlegging van Nederlandse rechterlijke beslissingen

@@ -1,0 +1,5 @@
+# Artikel 43a
+1. Tenzij Onze Minister, met inachtneming van het toepasselijke verdrag, reeds aanstonds van oordeel is dat het verzoek om tenuitvoerlegging moet worden afgewezen, doet hij het verzoek met de daarbij behorende stukken toekomen aan de advocaat-generaal.
+2. Indien de door de vreemde staat overgelegde stukken naar het oordeel van Onze Minister onvoldoende zijn om op het verzoek een beslissing te nemen, biedt hij de autoriteiten van de verzoekende staat de gelegenheid binnen een door hem te stellen redelijke termijn aanvullende stukken of inlichtingen te verschaffen.
+3. De advocaat-generaal legt het verzoek met de daarbij behorende stukken onverwijld voor aan de bijzondere kamer van het gerechtshof Arnhem-Leeuwarden, bedoeld in artikel 67 van de Wet op de rechterlijke organisatie. De advocaat-generaal dient eventuele opmerkingen bij voornoemde stukken in binnen een termijn van veertien dagen nadat hij de stukken heeft voorgelegd aan de bijzondere kamer van het gerechtshof.
+4. Hangende de beslissing op het verzoek tot tenuitvoerlegging, kan de veroordeelde voorlopig worden aangehouden met toepassing van de artikelen 8 tot en met 12.

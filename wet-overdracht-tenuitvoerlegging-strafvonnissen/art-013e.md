@@ -5,4 +5,4 @@ b. die uitspraak betreft de geldigheid, de nietigheid of de ontbinding van in Ne
 c. die uitspraak is gedaan, zonder dat de belanghebbende, tegen wie verstek werd verleend, zo tijdig tevoren als met het oog op zijn verdediging redelijkerwijs nodig was van het geding officieel in kennis was gesteld;
 d. die uitspraak onverenigbaar is met een ter zake eerder in Nederland gewezen rechterlijke beslissing;
 e. erkenning van die uitspraak onverenigbaar zou zijn met de Nederlandse openbare orde.
-2. Indien en zolang ter zake van de rechten van een belanghebbende een procedure voor de rechter van de vezoekende vreemde Staat aanhangig is, is deze in zijn klaagschrift of vordering niet ontvankelijk.
+2. Indien en zolang ter zake van de rechten van een belanghebbende een procedure voor de rechter van de vezoekende vreemde staat aanhangig is, is deze in zijn klaagschrift of vordering niet ontvankelijk.
