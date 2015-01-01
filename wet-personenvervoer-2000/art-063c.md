@@ -20,4 +20,4 @@ b. voldoet aan de in onderdeel 5 van de bijlage bij verordening (EG) 1370/2007 g
 Deze verklaring ligt voor eenieder ter inzage op alle kantoren van de vervoerder.
 11. Dit artikel is van overeenkomstige toepassing op een vervoerder
 a. die op grond van de artikelen 3 of 19, tweede lid, openbaar vervoer verricht op een andere grondslag dan op grond van een concessie;
-b. die vervoerder verricht waarop bij algemene maatregel van bestuur als bedoeld in artikel 2, tweede of vierde lid, dit artikel of leden daarvan, van toepassing is verklaard, zonder dat voor het in de onderdelen a of b bedoelde vervoer een aanbesteding is gehouden en waarbij voor dat vervoer een subsidie als bedoeld in artikel 22, eerste lid, is verstrekt.
+b. die vervoer verricht waarop bij algemene maatregel van bestuur als bedoeld in artikel 2, tweede of vierde lid, dit artikel of leden daarvan, van toepassing is verklaard, zonder dat voor het in onderdeel a bedoelde vervoer een aanbesteding is gehouden en waarbij voor dat vervoer een subsidie als bedoeld in artikel 22, eerste lid, is verstrekt.
