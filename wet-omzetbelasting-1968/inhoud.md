@@ -29,8 +29,9 @@
 ### Afdeling 4. Accijnsgoederen, andere dan tabaksproducten
 ### Afdeling 5. Regeling voor gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten
 ### Afdeling 6. Regeling voor beleggingsgoud
-### Afdeling 7. Regeling voor niet in de Unie gevestigde ondernemers die elektronische diensten verrichten aan andere dan ondernemers
-### Afdeling 8. Regeling voor vis
+### Afdeling 7. Regeling voor niet in de Unie gevestigde ondernemers die telecommunicatie diensten, omroepdiensten of elektronische diensten verrichten voor andere dan ondernemers
+### Afdeling 8. Regeling voor niet in de lidstaat van verbruik gevestigde ondernemers die telecommunicatie diensten, omroepdiensten of elektronische diensten verrichten voor andere dan ondernemers
+### Afdeling 9. Regeling voor vis
 ### Afdeling 10. Regeling voor reisbureaus
 ## Hoofdstuk VI. Diverse bepalingen
 ### Afdeling 1. Teruggaaf van belasting
