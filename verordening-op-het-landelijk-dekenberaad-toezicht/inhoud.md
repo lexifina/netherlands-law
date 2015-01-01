@@ -1,2 +1,0 @@
-# Inhoud
-## Artikel I
