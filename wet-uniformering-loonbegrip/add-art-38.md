@@ -1,0 +1,6 @@
+# Artikel XXXVIII
+Tijdelijke heffingskorting met betrekking tot de inkomstenbelasting
+1. In de eerste drie kalenderjaren dat deze wet in werking is, geldt een heffingskorting met betrekking tot de inkomstenbelasting voor de belastingplichtige die bij het einde van het kalenderjaar, of indien de belastingplicht in de loop van het kalenderjaar is geëindigd, bij het einde van de belastingplicht, de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, nog niet heeft bereikt en die een uitkering geniet ingevolge een pensioenregeling of regeling voor vervroegde uittreding als bedoeld in de Wet op de loonbelasting 1964 waarop de inkomensafhankelijke bijdrage, bedoeld in artikel 43 van de Zorgverzekeringswet wordt ingehouden.
+2. In het jaar van inwerkingtreding van deze wet bedraagt de heffingskorting 1% van de in het eerste lid bedoelde uitkeringen, met een maximum van € 182.
+3. In het jaar volgend op het jaar van inwerkingtreding van deze wet bedraagt de heffingskorting 0,67% van de in het eerste lid bedoelde uitkeringen, met een maximum van € 121.
+4. In het tweede jaar volgend op het jaar van inwerkingtreding van deze wet bedraagt de heffingskorting 0,33% van de in het eerste lid bedoelde uitkeringen, met een maximum van € 61.
