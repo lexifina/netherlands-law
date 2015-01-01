@@ -1,5 +1,5 @@
 # Artikel 2b
-1. Indien de advocaat gedurende ten minste drie jaar daadwerkelijk en regelmatig in Nederland als advocaat werkzaam is geweest, doch gedurende kortere tijd in het Nederlandse recht, kan de raad van toezicht het document, bedoeld in het eerste lid van artikel 2a, afgeven als de advocaat voldoende bekwaam is om de werkzaamheden in het Nederlandse recht, met inbegrip van het gemeenschapsrecht voort te zetten. Hierbij houdt de raad van toezicht rekening met:
+1. Indien de advocaat gedurende ten minste drie jaar daadwerkelijk en regelmatig in Nederland als advocaat werkzaam is geweest, doch gedurende kortere tijd in het Nederlandse recht, kan de raad van de orde in het arrondissement waarin de advocaat kantoor kan houden het document, bedoeld in het eerste lid van artikel 2a, afgeven als de advocaat voldoende bekwaam is om de werkzaamheden in het Nederlandse recht, met inbegrip van het gemeenschapsrecht voort te zetten. Hierbij houdt de raad rekening met:
 a. de periode gedurende welke de betrokken advocaat daadwerkelijk en regelmatig werkzaamheden heeft verricht in Nederland,
 b. de kennis en beroepservaring op het gebied van het Nederlandse recht,
 c. de deelname aan cursussen of seminars met betrekking tot het Nederlandse recht en

@@ -1,0 +1,5 @@
+# Artikel 46k
+1. De voorzitter van de raad van discipline kan de betrokken advocaat in de gelegenheid stellen om binnen vier weken na de dag van verzending van het afschrift van het klaagschrift overeenkomstig artikel 46fb, eerste lid, een verweerschrift in te dienen. De griffier van de raad zendt een afschrift van het verweerschrift aan de klager en de deken.
+2. Indien toepassing is gegeven aan het eerste lid, kan de voorzitter de klager in de gelegenheid stellen te repliceren binnen vier weken na verzending van een afschrift van het verweerschrift. De griffier zendt een afschrift van het repliek aan de advocaat, alsmede aan de deken, voor zover deze niet de klager is.
+3. Indien toepassing wordt gegeven aan het tweede lid, stelt de voorzitter de betrokken advocaat in de gelegenheid te dupliceren binnen een termijn van vier weken na verzending van een afschrift van het repliek. De griffier zendt een afschrift van het dupliek aan de klager en de deken.
+4. De voorzitter kan de in het eerste tot en met derde lid genoemde termijnen verlengen of deze termijnen op een ander moment laten aanvangen, indien hem blijkt dat daartoe in redelijkheid aanleiding bestaat.

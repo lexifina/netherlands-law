@@ -1,0 +1,8 @@
+# Artikel 46m
+1. De voorzitter van de raad van discipline kan de vooronderzoeker aanwijzingen geven.
+2. Op het vooronderzoek en de vooronderzoeker zijn de artikelen 5:13 tot en met 5:17 en 5:20, eerste lid, van de Algemene wet bestuursrecht van overeenkomstige toepassing. Bij het opdragen van een vooronderzoek bepaalt de voorzitter welke bevoegdheden de vooronderzoeker namens de raad kan uitoefenen.
+3. Ten behoeve van het verrichten van vooronderzoek door de vooronderzoeker zijn de betrokken advocaat, zijn medewerkers en personeel, alsmede andere personen die betrokken zijn bij de beroepsuitoefening, niet gehouden aan de geheimhoudingsplicht, bedoeld in artikel 11a. In dat geval geldt voor de betrokken vooronderzoeker een geheimhoudingsplicht, gelijk aan die in bedoeld in artikel 11a, en is artikel 218 van het Wetboek van Strafvordering van overeenkomstige toepassing.
+4. Bij het verrichten van het vooronderzoek wordt een afschrift van de last tot het verrichten van het onderzoek zo mogelijk aan de betrokken advocaat getoond.
+5. De vooronderzoeker stelt de klager en de betrokken advocaat in de gelegenheid te worden gehoord.
+6. Een lid of plaatsvervangend lid van de raad dat een vooronderzoek in een zaak heeft verricht, neemt op straffe van nietigheid van de beslissing van de raad in die zaak geen deel aan de behandeling van die zaak ter zitting.
+7. Indien de klacht is ingediend door de deken, wordt het vooronderzoek niet aan hem opgedragen. In dat geval draagt de voorzitter het vooronderzoek op aan één van de personen, bedoeld in artikel 46l, tweede lid, onderdeel a tot en met d.

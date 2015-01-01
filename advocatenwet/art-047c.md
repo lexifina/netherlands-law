@@ -1,0 +1,3 @@
+# Artikel 47c
+1. Indien aan een advocaat een maatregel als bedoeld in artikel 48, eerste lid, onderdelen d of e, is opgelegd dan wel op grond van artikel 60ab, eerste lid, is geschorst in de uitoefening van de praktijk of tegen hem een voorlopige voorziening met betrekking tot de praktijkuitoefening is getroffen, blijft betrokkene onderworpen aan tuchtrechtspraak ter zake van enig handelen of nalaten gedurende de tijd dat hij werkzaam was in de uitoefening van het beroep.
+2. Advocaten die niet meer als zodanig zijn ingeschreven overeenkomstig artikel 1, eerste lid, blijven onderworpen aan tuchtrechtspraak ter zake van enig handelen of nalaten gedurende de tijd dat zij ingeschreven waren.

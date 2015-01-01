@@ -6,7 +6,9 @@
 ## § 2b. De bevoegdheden en verplichtingen van de advocaat uit een andere lidstaat die onder zijn oorspronkelijke beroepstitel als advocaat werkzaam wil zijn
 ## § 3. Van de Nederlandse orde van advocaten, van de orden in de arrondissementen, en van haar organen
 ### Afdeling 1. Van de samenstelling en de bevoegdheid
+### Afdeling 1a. Het college van toezicht
 ### Afdeling 2. Van de vergaderingen
+## § 3a. Toezicht
 ## § 4. Van de tuchtrechtspraak
 ## § 4a. De procedure inzake het spoedshalve schorsen of treffen van een voorlopige voorziening
 ## § 4b. De procedure inzake de onbehoorlijke praktijkuitoefening

@@ -1,2 +1,2 @@
 # Artikel 9a
-Tot het voeren van de titel van advocaat is uitsluitend gerechtigd hij die als advocaat binnen Nederland is ingeschreven en hij die buiten Nederland tot het voeren van een overeenkomstige titel bevoegd is.
+Tot het voeren van de titel van advocaat is uitsluitend gerechtigd degene die als advocaat is ingeschreven op grond van artikel 1, eerste lid, of 2a, eerste lid.
