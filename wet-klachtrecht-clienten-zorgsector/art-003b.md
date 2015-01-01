@@ -1,0 +1,3 @@
+# Artikel 3b
+1. Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 6 700,– op te leggen ter zake van een gedraging die in strijd is met een krachtens artikel 3 gegeven aanwijzing, voor zover deze betreft het niet of in onvoldoende mate of op onjuiste wijze naleven van artikel 2, zevende lid.
+2. Onze Minister is bevoegd een last onder dwangsom op te leggen ter zake van een gedraging die in strijd is met een krachtens artikel 3 gegeven aanwijzing, voor zover deze betreft het niet of in onvoldoende mate of op onjuiste wijze naleven van artikel 2, eerste tot en met derde en vijfde lid.
