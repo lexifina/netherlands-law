@@ -1,0 +1,2 @@
+# Artikel XVIb. Wet van 9 juli 2014 tot wijziging van de wet gemeenschappelijke regelingen en een aantal andere wetten in verband met de dualisering van het gemeente- en provinciebestuur en de invoering van een bedrijfsvoeringsorganisatie met rechtspersoonlijkheid, alsmede regeling van diverse andere onderwerpen (Stb. 2014, 306)
+[Wijzigt de Wijzigingswet Wet gemeenschappelijke regelingen, enz. (dualisering gemeente- en provinciebestuur, enz.).]
