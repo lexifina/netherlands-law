@@ -1,0 +1,3 @@
+# Artikel VII
+1. Deze wet treedt met uitzondering van artikel I, onderdelen DDa, DDb, WWb en ZZa, in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+2. Artikel I, onderdelen DDa, DDb, WWb en ZZa, treedt in werking met ingang van 1 januari 2013. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 2012, treedt de bepaling, bedoeld in de eerste volzin, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.

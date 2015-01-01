@@ -1,0 +1,2 @@
+# Artikel V
+In afwijking van artikel 2.5 van de Mediawet 2008 kan de raad van toezicht van de Stichting Nederlandse Publieke Omroep tot 1 januari 2016 bestaan uit een voorzitter en ten hoogste zes andere leden. Als de periode van vijf jaar waarvoor een of meer leden zijn benoemd of herbenoemd, is verlopen dan wel een of meer leden al dan niet op hun verzoek zijn ontslagen, blijft de benoeming van een of meer leden achterwege, voor zover als gevolg van die benoeming of benoemingen het aantal van een voorzitter en vier andere leden zou worden overschreden.
