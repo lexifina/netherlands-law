@@ -1,0 +1,3 @@
+# Artikel 942a
+1. In de gevallen, waarin voor het berekenen der legitieme portie rekening moet worden gehouden met erfgenamen, die wel zijn erfgenamen bij versterf, doch niet zijn legitimarissen, zullen, wanneer aan anderen dan bedoelde erfgenamen, hetzij bij akte onder de levenden, hetzij bij uiterste wil, meer is geschonken dan het aandeel bedraagt, waarover men zou mogen beschikken, indien zodanige erfgenamen niet aanwezig waren, bedoelde giften of schenkingen kunnen worden verminderd tot genoemd bedrag, zulks op de vordering en ten bate van de legitimarissen en van derzelver erfgenamen of rechthebbenden.
+2. De artikelen 946–955 vinden overeenkomstige toepassing.
