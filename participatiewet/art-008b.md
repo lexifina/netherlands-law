@@ -1,2 +1,2 @@
-# Artikel 8b. Gemeenschappelijke regelingen
-Indien bij een gemeenschappelijke regeling als bedoeld in de Wet gemeenschappelijke regelingen de uitvoering van deze wet volledig is overgedragen aan het bestuur van een openbaar lichaam als bedoeld in artikel 8 van die wet, treedt dat bestuur voor de toepassing van deze wet, met uitzondering van paragrafen 7.1 en 7.3, in de plaats van de betrokken colleges.
+# Artikel 8b. Regels bestrijding misbruik
+De gemeenteraad stelt in het kader van het financiële beheer bij verordening regels voor de bestrijding van het ten onrechte ontvangen van bijstand alsmede van misbruik en oneigenlijk gebruik van de wet.
