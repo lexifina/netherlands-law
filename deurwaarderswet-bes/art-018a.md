@@ -1,0 +1,11 @@
+# Artikel 18a
+1. De aanwijzing tot toegevoegd-adspirant-deurwaarder geschiedt door de deurwaarder, te wiens kantore de toegevoegd-adspirant-deurwaarder werkzaam zal zijn. De deurwaarder dient echter reeds vijf jaren als deurwaarder benoemd te zijn. De aanwijzing behoeft de goedkeuring van Onze Ministervan Justitie na advies van de President van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba. De goedkeuring kan worden ingetrokken.
+2. Het verzoek om goedkeuring moet worden ingediend door de deurwaarder en de toegevoegd-adspirant-deurwaarder gezamenlijk en moet inhouden:
+a. naam en voornamen, jaar, dag en plaats van geboorte, opleidingen en ervaringen van de toegevoegd-adspirant-deurwaarder.
+b. naam en voornamen en standplaats van de deurwaarder, te wiens kantore de toegevoegd-adspirant-deurwaarder werkzaam is.
+3. a. Binnen een week nadat een toegevoegd-adspirant-deurwaarder zijn werkzaamheden als zodanig ten kantore van een deurwaarder heeft beëindigd, geeft de laatste hiervan schriftelijk kennis aan Onze Minister van Justitie en de President van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba.
+b. De aanwijzing van de toegevoegd-adspirant-deurwaarder vervalt van rechtswege tegelijk met het defungeren van de deurwaarder die de aanwijzing heeft gedaan.
+4. a. De toegevoegd-adspirant-deurwaarder is bevoegd alle ambtshandelingen en diensten te verrichten namens en onder verantwoordelijkheid van de deurwaarder te wiens kantore hij werkzaam is.
+b. De toegevoegd-adspirant-deurwaarder vermeldt naast zijn naam, voornamen en hoedanigheid van toegevoegd-adspirant-deurwaarder, de naam, voornamen en standplaats van de deurwaarder, op wiens kantore hij werkzaam is.
+c. Onverminderd het bepaalde onder a van dit lid gelden voor de toegevoegd-adspirant-deurwaarder alle rechten en verplichtingen van de deurwaarder, met dien verstande dat de toegevoegd-adspirant-deurwaarder geen bezoldiging van de Overheid ontvangt en dat de toegevoegd-adspirant-deurwaarder gelijke eed of belofte aflegt als de adspirant-deurwaarder.
+5. De leden drie en vier van artikel 5 zijn van overeenkomstige toepassing.
