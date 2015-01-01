@@ -1,0 +1,2 @@
+# Artikel 122l. Overgangsbepaling premiekorting oudere werknemer
+Artikel 47, eerste lid, aanhef en onderdeel b, zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van artikel IXA van de Wet verlaging maximumopbouw- en premiepercentages pensioen en maximering pensioengevend inkomen, blijft van toepassing voor zover de desbetreffende premiekorting op die dag werd toegepast voor werknemers, die bij indiensttreding 50 jaar of ouder, maar jonger dan 56 jaar waren.
