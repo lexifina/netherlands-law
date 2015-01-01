@@ -1,2 +1,0 @@
-# Artikel XVIII
-Indien voor het tijdstip waarop deze wet in werking treedt, een aanvraag om een vergunning krachtens artikel 8.1 van de Wet milieubeheer is ingediend bij het dagelijks bestuur van een regionaal openbaar lichaam als bedoeld in de Kaderwet bestuur in verandering en op die aanvraag nog niet is beslist, wordt op de aanvraag beslist door burgemeester en wethouders van de gemeente waarin de inrichting geheel of in hoofdzaak zal zijn of is gelegen. De behandeling van de aanvraag wordt door burgemeester en wethouders voortgezet in de staat waarin zij zich bevindt.
