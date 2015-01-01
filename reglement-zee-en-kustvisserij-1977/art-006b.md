@@ -1,0 +1,9 @@
+# Artikel 6b
+1. Aan de ondernemer kan een naar billijkheid te bepalen schadevergoeding worden toegekend in het geval dat:
+a. het in de licentie vermelde motorvermogen hoger is dan 1471 kW en de licentie voor dat gedeelte niet meer geldig is op grond van artikel 7a, aanhef en onderdeel b, van de Beschikking visserijlicentie (Stcrt. 1984, 253), voor zover dat gedeelte vóór 25 februari 1987 door aankoop is verkregen, ten hoogste tot het aankoopbedrag daarvan;
+b. de ondernemer als rechtstreeks gevolg van het verbod van artikel 3 een met een scheepswerf aangegane investeringsverplichting voor de bouw van een vissersvaartuig met een motorvermogen van meer dan 1471 kW, en waarvan:
+1°. de kiel op 25 september 1987 nog niet is gelegd of
+2°. de aanbouw, herkenbaar als behorend tot een bepaald vissersvaartuig op 25 september 1987 nog niet is aangevangen en op deze datum nog niet is aangevangen met de samenbouw die ten minste 50.000 kg omvat of één percent van de geschatte massa van al het bouwmateriaal, welke van deze twee waarden de laagste is,
+wijzigt en daardoor voor hem jegens die scheepswerf een rechtens afdwingbare verplichting ontstaat.
+2. Om voor een schadevergoeding in aanmerking te komen in het geval bedoeld in het eerste lid, onderdeel a, dient de ondernemer een daartoe strekkend schriftelijk verzoek bij de minister in, binnen twee maanden nadat de licentie op grond van artikel 7a, aanhef en onderdeel b, van de Beschikking visserijlicentie gedeeltelijk niet meer geldig is, onder overlegging van de aankoopbewijzen of eventuele andere bewijsstukken.
+3. Om voor een schadevergoeding in aanmerking te komen in het geval bedoeld in het eerste lid, onderdeel b, dient de ondernemer een daartoe strekkend verzoek, onder overlegging van bewijsstukken, bij de minister vóór 25 november 1987 te hebben ingediend.
