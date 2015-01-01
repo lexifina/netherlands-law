@@ -1,0 +1,2 @@
+# Artikel V
+Curatoren als bedoeld in artikel 383, zevende lid, bewindvoerders als bedoeld in artikel 435, zevende lid, en mentoren als bedoeld in artikel 452, zevende lid, van Boek 1 van het Burgerlijk Wetboek, die voor het tijdstip van inwerkingtreding van artikel I, onderdelen E, P en AA, zijn benoemd, hebben tot twee jaar na dat tijdstip de gelegenheid om aan de in genoemde bepaling bedoelde kwaliteitseisen te voldoen.
