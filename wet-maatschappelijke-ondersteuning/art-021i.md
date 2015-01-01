@@ -1,2 +1,0 @@
-# Artikel 21i
-Onverminderd artikel 21j bewaart het steunpunt huiselijk geweld bescheiden die deze met betrekking tot een betrokkene onder zich heeft gedurende vijftien jaren, te rekenen van het tijdstip van ontvangst of waarop zij door het steunpunt huiselijk geweld zijn vervaardigd, of zoveel langer als redelijkerwijs in verband met een zorgvuldige uitvoering van de taken, bedoeld in artikel 21b, tweede lid, noodzakelijk is.
