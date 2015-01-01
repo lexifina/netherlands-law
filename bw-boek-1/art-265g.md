@@ -1,0 +1,4 @@
+# Artikel 265g
+1. Voor de duur van de ondertoezichtstelling kan de kinderrechter op verzoek van de gecertificeerde instelling een verdeling van de zorg- en opvoedingstaken of een regeling inzake de uitoefening van het recht op omgang vaststellen of wijzigen voor zover dit in het belang van de minderjarige noodzakelijk is.
+2. Op het verzoek van een met het gezag belaste ouder, een omgangsgerechtigde, de minderjarige van twaalf jaar of ouder en de gecertificeerde instelling kan de kinderrechter de in het eerste lid genoemde beslissing wijzigen op grond dat nadien de omstandigheden zijn gewijzigd, of dat bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan.
+3. Zodra de ondertoezichtstelling is geëindigd, geldt de op grond van het eerste lid vastgestelde regeling als een regeling als bedoeld in artikel 253a, tweede lid, onder a, dan wel artikel 377a, tweede lid.

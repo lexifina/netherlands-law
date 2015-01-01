@@ -1,3 +1,3 @@
 # Artikel 395b
 1. Heeft de rechter het bedrag bepaald, dat een ouder of stiefouder dan wel, overeenkomstig artikel 394, de verwekker of de persoon die in artikel 394 daarmee gelijk is gesteld ter zake van de verzorging en opvoeding van zijn minderjarig kind of stiefkind moet betalen en is deze verplichting tot aan het meerderjarig worden van het kind van kracht geweest, dan geldt met ingang van dit tijdstip de rechterlijke beslissing als een tot bepaling van het bedrag ter zake van levensonderhoud en studie als in artikel 395a van dit boek bedoeld.
-2. Hetzelfde geldt, indien met toepassing van Hoofdstuk XIII van de Wet op de jeugdzorg het bedrag is vastgesteld dat de ouder of stiefouder ter bestrijding van de kosten van de in artikel 69, eerste lid van die wet bedoelde maatregelen aan het Landelijk Bureau Inning Onderhoudsbijdragen moet uitkeren.
+2. Hetzelfde geldt, indien met toepassing van paragraaf 8.2 van de Jeugdwet een ouderbijdrage is vastgesteld.
