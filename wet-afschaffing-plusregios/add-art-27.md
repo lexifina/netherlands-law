@@ -1,0 +1,2 @@
+# Artikel XXVII
+Regionale verkeer- en vervoerplannen die door de plusregio's zijn vastgesteld op grond van artikel 16 van de Planwet verkeer en vervoer, zoals dit artikel luidde op de dag voorafgaand aan de datum van inwerkingtreding van deze wet worden geacht te zijn vastgesteld door gedeputeerde staten of, indien van toepassing, door het dagelijks bestuur van een openbaar lichaam als bedoeld in artikel 20, derde lid, van de Wet personenvervoer 2000.

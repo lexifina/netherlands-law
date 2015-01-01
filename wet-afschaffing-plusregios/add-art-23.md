@@ -1,0 +1,4 @@
+# Artikel XXIII
+1. De huisvestingsverordeningen, bedoeld in artikel 2, derde lid, van de Huisvestingswet, die op het tijdstip van inwerkingtreding van deze wet van kracht zijn in plusregio's als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen, blijven in de dienovereenkomstige gebieden van kracht tot het moment waarop de gemeenschappelijke regeling waarbij de plusregio is ingesteld, krachtens artikel XVII, eerste lid, is beëindigd met dien verstande dat de verordeningen uiterlijk een jaar na inwerkingtreding van deze wet vervallen.
+2. De vervaltermijn, bedoeld in het eerste lid, treedt in voorkomende gevallen in de plaats van de termijnen waarop de verordeningen zouden zijn vervallen, indien de plusregio zou hebben voortbestaan.
+3. Gedurende de periode dat de huisvestingsverordeningen van kracht zijn, kan het algemeen bestuur van een voormalige plusregio deze wijzigen of intrekken.

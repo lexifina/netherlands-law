@@ -1,0 +1,2 @@
+# Artikel XXVI
+Concessies die door de dagelijkse besturen van de plusregio's zijn verleend op grond van artikel 20, tweede of derde lid, van de Wet personenvervoer 2000, zoals dit luidde op de dag voorafgaand aan de datum van inwerkingtreding van deze wet, worden met ingang van de datum van inwerkingtreding van deze wet geacht te zijn verleend door de krachtens artikel 20, tweede, derde of vierde lid, van de Wet personenvervoer 2000 bevoegde concessieverleners.
