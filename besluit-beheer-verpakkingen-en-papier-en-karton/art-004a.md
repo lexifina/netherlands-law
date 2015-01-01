@@ -1,4 +1,0 @@
-# Artikel 4a
-1. De producenten en importeurs kunnen gezamenlijk uitvoering geven aan de verplichtingen, bedoeld in de artikelen 2, eerste lid en tweede lid, 3, aanhef en onderdeel d, 4, eerste en tweede lid, en 7, eerste lid.
-2. De in het eerste lid bedoelde verplichtingen, met uitzondering van artikel 3, aanhef en onderdeel d, zijn niet van toepassing op een producent of importeur die een afvalbeheersbijdrage als bedoeld in de op grond van artikel 15.36, eerste lid, van de Wet milieubeheer, algemeen verbindend verklaarde overeenkomst inzake verpakkingen, afdraagt aan een daarbij genoemde rechtspersoon.
-3. In gevallen waarin het tweede lid van toepassing is, berusten de verplichtingen, bedoeld in het eerste lid, met uitzondering van artikel 3, aanhef en onderdeel d, op de rechtspersoon aan wie de in het tweede lid bedoelde afvalbeheersbijdrage is afgedragen.
