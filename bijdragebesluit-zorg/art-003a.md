@@ -1,3 +1,0 @@
-# Artikel 3a
-1. De eigen bijdrage, bedoeld in artikel 2, wordt vastgesteld uiterlijk 24 maanden na het tijdstip waarop het CAK ervan in kennis is gesteld dat ten aanzien van de verzekerde zorg als bedoeld bij of krachtens de wet wordt verleend.
-2. Indien het CAK heeft verzuimd de eigen bijdrage vast te stellen binnen de in het eerste lid bedoelde periode, kan op een later tijdstip alsnog de eigen bijdrage worden vastgesteld, met dien verstande dat de ingangsdatum van de periode waarover de eigen bijdrage door de verzekerde moet worden betaald niet kan worden gesteld op een datum die is gelegen meer dan 24 maanden voor de dag waarop het besluit waarin de eigen bijdrage wordt vastgesteld, aan de verzekerde is verzonden.
