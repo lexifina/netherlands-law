@@ -1,7 +1,6 @@
 # Inhoud
 ## Hoofdstuk I. Algemene bepalingen
 ### § 1. Begripsomschrijvingen
-### § 2. De medewerking van bedrijfslichamen
 ### § 3. Minimummaten, gesloten tijden, welzijnsregels en andere maatregelen in het belang van de visserij
 ## Hoofdstuk II. De registratie van vissersvaartuigen
 ## Hoofdstuk IIA. Naleving internationale verplichtingen
