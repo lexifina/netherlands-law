@@ -1,6 +1,0 @@
-# Artikel 92a
-1. Met het oog op het waarborgen van een goed bestuur draagt een bedrijfslichaam zorg voor een zodanige organisatie en werkwijze, dat voldoende aandacht is geschonken aan democratische besluitvorming, transparante onderbouwing van vergoedingen en heffingen, integer handelen, publieke en transparante verantwoording, toegankelijke klachtenbehandeling en adequaat toezicht.
-2. Bij algemene maatregel van bestuur op voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen nadere regels worden gesteld met het oog op het waarborgen van een goed bestuur van een bedrijfslichaam.
-3. Bij algemene maatregel van bestuur op voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid wordt bepaald dat een goed bestuur van een bedrijfslichaam als bedoeld in het eerste lid in ieder geval is gewaarborgd als wordt voldaan aan bij die algemene maatregel van bestuur aan te wijzen principes van een goed bestuur.
-4. De Raad houdt toezicht op de uitvoering van het eerste lid door de bedrijfslichamen en kan over de wijze waarop het toezicht wordt uitgeoefend bij verordening regels stellen.
-5. De voordracht voor een krachtens het tweede en derde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.

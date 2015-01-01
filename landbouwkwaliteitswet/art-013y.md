@@ -1,0 +1,4 @@
+# Artikel 13y
+1. De controle-instelling brengt binnen twee weken na het onherroepelijk worden van de uitspraak van het tuchtgerecht of van het College ter kennis van de betrokkene, binnen welke termijn hij de opgelegde geldboete, of de kosten van openbaarmaking van de uitspraak moet voldoen. Deze termijn kan op ten hoogste twee maanden worden gesteld en kan telkens worden verlengd, maar mag ook na verlenging niet langer zijn dan twee jaren.
+2. Bij gebreke van volledige betaling binnen de in het eerste lid bedoelde termijn wordt het niet betaalde bedrag ingevorderd op dezelfde wijze als de tarieven, bedoeld in artikel 11, eerste lid.
+3. Het eerste en het tweede lid zijn van overeenkomstige toepassing op de kosten van de verscherpte controle, bedoeld in artikel 13, eerste lid, onderdeel c, met dien verstande dat de termijn voor de kennisgeving van de betalingstermijn eerst aanvangt nadat de kosten zijn gemaakt.

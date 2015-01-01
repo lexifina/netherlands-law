@@ -5,6 +5,7 @@
 ## Hoofdstuk 4. Het rassenregister
 ## Hoofdstuk 5. Toelating van rassen en opstanden
 ## Hoofdstuk 6. In de handel brengen van teeltmateriaal
+## Hoofdstuk 6a. Teelt
 ## Hoofdstuk 7. Kwekersrecht
 ### Paragraaf 1. De aanspraak op verlening van kwekersrecht
 ### Paragraaf 2. De verlening van kwekersrecht
