@@ -1,0 +1,3 @@
+# Artikel IX
+1. In afwijking van artikel 2.175, eerste lid, van de Mediawet 2008 is het een regionale publieke media-instelling die op 31 december 2013 overeenkomstig artikel 2.61 van die wet was aangewezen, toegestaan het totaal van de gereserveerde gelden waarover deze instelling op die datum beschikte, te reserveren als gelden voor de verzorging van media-aanbod en andere wettelijke doeleinden met dien verstande dat die gelden niet toenemen.
+2. Als de gelden, bedoeld in het eerste lid, minder bedragen dan tien procent van de uitgaven van de regionale publieke media-instelling in een kalenderjaar, is artikel 2.175, tweede lid, van de Mediawet 2008 van toepassing.
