@@ -1,0 +1,2 @@
+# Artikel 55a
+Indien degene, die recht op toekenning van arbeidsongeschiktheidsuitkering ontleent aan deze wet, lid of gepensioneerd lid is van de pensioenkas van het Algemeen Mijnwerkersfonds van de Steenkolenmijnen in Limburg of van de pensioenkas van het Beambtenfonds voor het Mijnbedrijf, geschiedt de toekenning van de arbeidsongeschiktheidsuitkering, zo nodig in afwijking van het bepaalde in de artikelen 53, 54 en 55, door het Uitvoeringsinstituut werknemersverzekeringen.
