@@ -1,0 +1,2 @@
+# Artikel IV
+Een instelling die op grond van artikel 5, eerste lid, van de Wet toelating zorginstellingen uiterlijk op 31 december 2014 is toegelaten voor persoonlijke verzorging als bedoeld in artikel 1.2, onderdeel 17, van het Uitvoeringsbesluit WTZi of voor verpleging als bedoeld in artikel 1.2, onderdeel 18, van dat besluit, is met ingang van 1 januari 2015 toegelaten voor verpleging en verzorging als bedoeld in artikel 2.10 van het Besluit zorgverzekering.
