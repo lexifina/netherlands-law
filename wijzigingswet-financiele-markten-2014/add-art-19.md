@@ -1,0 +1,6 @@
+# Artikel XIX
+1. Een afwikkelonderneming met zetel in een niet-aangewezen staat die op het tijdstip van inwerkingtreding van artikel I, onderdeel V, haar bedrijf uitoefent vanuit een in Nederland gelegen bijkantoor jegens betaaldienstverleners met wie zij niet in een groep is verbonden, beschikt vanaf dat tijdstip van rechtswege over een vergunning als bedoeld in artikel 2:3.0g, eerste lid, van de Wet op het financieel toezicht, met dien verstande dat de vergunning uitsluitend betrekking heeft op de werkzaamheden die zij op dat tijdstip verricht.
+2. De afwikkelonderneming toont binnen drie maanden na inwerkingtreding van artikel I, onderdeel V, van deze wet aan dat zal worden voldaan aan de artikelen, genoemd in artikel 2:3.0i, eerste lid, van de Wet op het financieel toezicht.
+3. De afwikkelonderneming vermeldt met betrekking tot welke werkzaamheden, onderscheiden in de artikel 1:1 van de Wet op het financieel toezicht opgenomen definitie van afwikkelonderneming, zij beoogt aan te tonen dat zij voldoet aan de in het tweede lid bedoelde artikelen.
+4. Het aantonen geschiedt door middel van een opgave van de gegevens, bedoeld in artikel 3:2.0i, derde lid, van de Wet op het financieel toezicht.
+5. Indien de afwikkelonderneming niet voldoet aan het tweede lid, kan de Nederlandsche Bank de vergunning intrekken.
