@@ -12,7 +12,6 @@
 ### § 4.1. Algemeen
 ### § 4.2. Het nationale milieubeleidsplan
 ### § 4.4. Het provinciale milieubeleidsplan
-### § 4.5a. Het regionale milieubeleidsplan
 ### § 4.6. Het gemeentelijke milieubeleidsplan
 ### § 4.8. Het gemeentelijke rioleringsplan
 ## Hoofdstuk 5. Milieukwaliteitseisen
@@ -53,6 +52,13 @@
 ### Titel 9.4. De EG-richtlijn ecologisch ontwerp energiegerelateerde producten
 ### Titel 9.5. Overige bepalingen met betrekking tot stoffen, preparaten en producten
 ### Titel 9.6. De EG-richtlijn ter bevordering van schone en energiezuinige wegvoertuigen
+### Titel 9.7. Hernieuwbare energie vervoer
+#### § 9.7.1. Algemeen
+#### § 9.7.2. Jaarverplichting hernieuwbare energie vervoer
+#### § 9.7.3. Hernieuwbare brandstofeenheden
+#### § 9.7.4. Inboeken hernieuwbare energie vervoer
+#### § 9.7.5. Register hernieuwbare energie vervoer
+#### § 9.7.6. Overgangsbepalingen hernieuwbare energie vervoer
 ## Hoofdstuk 10. Afvalstoffen
 ### Titel 10.1. Algemeen
 ### Titel 10.2. Het afvalbeheerplan
@@ -100,7 +106,6 @@
 #### § 12.3.3. PRTR
 #### § 12.3.4. Aanvullende rapportageverplichtingen
 #### § 12.3.5. Slotbepalingen
-### Titel 12.4. Registratie gegevens brandstoffen en elektriciteit uit hernieuwbare bronnen ten behoeve van vervoer
 ## Hoofdstuk 13. Procedures voor vergunningen en ontheffingen
 ### Afdeling 13.1. Algemeen
 ### Afdeling 13.2. Bijzondere bepalingen
