@@ -1,0 +1,7 @@
+# Artikel 18a
+1. Het tuchtgerecht doet schriftelijk uitspraak.
+2. De uitspraak houdt in de beslissing omtrent het opleggen van de tuchtrechtelijke maatregel, de gronden en de voorschriften waarop zij berust.
+3. Het tuchtgerecht spreekt de beslissing, bedoeld in het tweede lid, in het openbaar uit.
+4. In afwijking van het eerste lid kan het tuchtgerecht na sluiting van het onderzoek ter zitting onmiddellijk mondeling uitspraak doen.
+5. Van de mondelinge uitspraak wordt door de secretaris een proces-verbaal opgemaakt.
+6. De uitspraak wordt onverwijld aan de betrokkene en aan de controle-instelling gezonden.
