@@ -33,6 +33,5 @@
 ### Afdeling 11. Overige bepalingen
 ## Titel V. Experimenten
 ## Titel VI. Bevoegdheden t.a.v. de rechtspersoon, bedoeld in artikel 169
-## Titel VIa. Overgangs- en invoeringsbepalingen
 ## Titel VII. Overgangsbepalingen
 ## Titel VIII. Slotbepalingen
