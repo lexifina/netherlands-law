@@ -1,0 +1,3 @@
+# Artikel 27a
+1. Indien degene die recht heeft op een pensioen, ingevolge het bepaalde bij of krachtens de Wet langdurige zorg een bijdrage verschuldigd is in de kosten van zorg, is Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties bevoegd het pensioen en de daarop verleende toeslagen tot ten hoogste het bedrag van die bijdrage in de plaats van aan de rechthebbende zonder diens machtiging uit te betalen aan het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet.
+2. Artikel 10 van de wet van 25 mei 1962 (Stb. 196) is niet van toepassing op een ingevolge het vorige lid genomen beslissing.
