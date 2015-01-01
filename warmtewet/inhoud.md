@@ -8,5 +8,6 @@
 ## Hoofdstuk 4. Handhaving
 ## Hoofdstuk 5. Bijdragen
 ## Hoofdstuk 7. Beroep
+## Hoofdstuk 8. Garanties van oorsprong
 ## Hoofdstuk 9. Wijziging van andere wetten
 ## Hoofdstuk 10. Overgangs- en slotbepalingen
