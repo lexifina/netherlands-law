@@ -1,0 +1,2 @@
+# Artikel V
+Voor de toepassing van artikel 122ca, tweede lid, van de Wet financiering sociale verzekeringen wordt niet in aanmerking genomen de door het Uitvoeringsinstituut werknemersverzekeringen aangegeven basispremie, bedoeld in artikel 34, eerste lid, van die wet, die het Uitvoeringsinstituut werknemersverzekeringen is verschuldigd over op grond van de Ziektewet, de Wet arbeid en zorg, de Werkloosheidswet, de Wet op de arbeidsongeschiktheidsverzekering en de Wet werk en inkomen naar arbeidsvermogen verstrekte uitkeringen.
