@@ -1,8 +1,0 @@
-# Artikel 12a
-1. Uiterlijk vier maanden na afloop van het kalenderjaar legt de producent, niet zijnde een producent als bedoeld in artikel 1b, derde lid, een assurancerapport van een externe accountant over aan de garantiebeheerinstantie dat betrekking heeft op dat kalenderjaar en dat is opgesteld met inachtneming van het onderzoeksprotocol assurancerapport biomassa, opgenomen in de bij deze regeling behorende bijlage 5.
-2. Uit het assurancerapport blijkt eenduidig:
-a. per kalendermaand wat de aard en de verhouding van de in de productie-installatie verwerkte brandstoffen is in honderdste van procenten nauwkeurig;
-b. of de door de producent op grond van artikel 11, eerste lid, meegedeelde percentages overeenstemmen met de verhouding van de onder a bedoelde brandstoffen;
-c. of uit de administratie van de producent of uit andere de accountant ter beschikking staande gegevens volgt dat er gedurende het afgelopen jaar in overeenstemming is gehandeld met de overgelegde verklaring, bedoeld in artikel 11, derde lid.
-3. Ten behoeve van het bepalen van de gegevens, bedoeld in het tweede lid, gaat de accountant na of een juiste toepassing is gegeven aan de geëigende methode, bedoeld in de artikelen 8 tot en met 10.
-4. Indien in de productie-installatie naar zijn aard zuiver biogas wordt verwerkt en de producent subsidie ontvangt op grond van artikel 2 van het Besluit stimulering duurzame energieproductie, rapporteert de subsidie-ontvanger gelijktijdig met de overlegging van het assurancerapport over de ingezette biomassa middels het formulier dat is opgenomen in de bij deze regeling behorende bijlage 5.
