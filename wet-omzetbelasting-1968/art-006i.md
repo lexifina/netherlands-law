@@ -7,8 +7,5 @@ d. de verplichting om een beroepsactiviteit of een in dit artikel vermeld recht 
 e. bank-, financiële en verzekeringsverrichtingen met inbegrip van herverzekeringsverrichtingen en met uitzondering van de verhuur van safeloketten;
 f. het beschikbaar stellen van personeel;
 g. de verhuur van roerende lichamelijke zaken, met uitzondering van alle vervoermiddelen;
-h. het bieden van toegang tot een op het grondgebied van de Unie gesitueerd aardgassysteem of een op een dergelijk systeem aangesloten net, tot warmte- of koudenetten of tot het elektriciteitssysteem, alsmede het verrichten van transmissie- of distributiediensten via deze systemen of netten en het verrichten van andere daarmee rechtstreeks verbonden diensten;
-i. telecommunicatiediensten;
-j. radio- en televisieomroepdiensten;
-k. elektronische diensten.
+h. het bieden van toegang tot een op het grondgebied van de Unie gesitueerd aardgassysteem of een op een dergelijk systeem aangesloten net, tot warmte- of koudenetten of tot het elektriciteitssysteem, alsmede het verrichten van transmissie- of distributiediensten via deze systemen of netten en het verrichten van andere daarmee rechtstreeks verbonden diensten.
 2. Het feit dat de dienstverrichter en de afnemer langs elektronische weg berichten uitwisselen, betekent op zich niet dat de verrichte dienst een elektronische dienst is.
