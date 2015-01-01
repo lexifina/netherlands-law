@@ -1,3 +1,2 @@
 # Artikel 50e
-1. Ten aanzien van de bevoegdheden van het bestuur van het openbaar lichaam of die van het gemeenschappelijk orgaan zijn van overeenkomstige toepassing de regels, in de ruimste zin, welke bij of krachtens de wet zijn gesteld ten aanzien van de verdeling van de bevoegdheden van de deelnemende waterschappen over hun bestuursorganen, voor de uitoefening van die bevoegdheden, alsmede voor het toezicht daarop. Dit geldt niet voor zover daarvan bij of krachtens deze wet is afgeweken.
-2. De besturen van de deelnemende waterschappen kunnen bij de regeling beperkingen aanbrengen in de bevoegdheden die door het bestuur van het openbaar lichaam, onderscheidenlijk het gemeenschappelijk orgaan zouden kunnen worden ontleend aan de regelen, bedoeld in het eerste lid.
+De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algemeen bestuur, tenzij bij wet of in de regeling anders is bepaald.

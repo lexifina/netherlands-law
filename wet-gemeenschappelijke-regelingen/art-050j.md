@@ -1,2 +1,2 @@
 # Artikel 50j
-De in artikel 50i bedoelde goedkeuring treedt in de plaats van de goedkeuring door gedeputeerde staten, bedoeld in artikel 50h.
+In afwijking van artikel 8:4, eerste lid, onderdeel d, van de Algemene wet bestuursrecht kan een belanghebbende tegen een besluit van gedeputeerde staten als bedoeld in artikel 50h, eerste lid, beroep instellen.

@@ -1,0 +1,5 @@
+# Artikel 62a
+1. Het gemeentebestuur dat daartoe bij de regeling is aangewezen dan wel, indien bij de regeling een openbaar lichaam, een bedrijfsvoeringsorganisatie of een gemeenschappelijk orgaan wordt ingesteld, het bestuur van de gemeente van de plaats van vestiging, zendt de regeling aan gedeputeerde staten van de provincie of de provincies waarin de deelnemende gemeenten en waterschappen zijn gelegen.
+2. Het gemeentebestuur dat daartoe bij de regeling is aangewezen onderscheidenlijk het bestuur van de gemeente van de plaats van vestiging maakt de regeling tijdig in alle deelnemende gemeenten en waterschappen bekend door kennisgeving van de inhoud daarvan in de Staatscourant. Artikel 140 van de Gemeentewet is van overeenkomstige toepassing.
+3. De regeling treedt in werking op de in de regeling aangewezen dag. De regeling treedt niet in werking voordat zij is bekendgemaakt.
+4. Het eerste, tweede en derde lid zijn van toepassing op besluiten tot wijziging, verlenging of opheffing van de regeling, alsmede op besluiten tot toetreding en uittreding.

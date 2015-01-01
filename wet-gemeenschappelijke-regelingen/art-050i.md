@@ -1,2 +1,2 @@
 # Artikel 50i
-Een regeling waaraan in verschillende provincies gelegen waterschappen deelnemen behoeft, indien gebruik is gemaakt van een bevoegdheid als bedoeld in de artikelen 50a juncto 8, de goedkeuring van gedeputeerde staten van de provincie, waarin de plaats van vestiging is gelegen, de andere betrokken colleges van gedeputeerde staten gehoord.
+Indien een bekendgemaakt besluit is vernietigd of indien het niet is vernietigd binnen de tijd waarvoor het is geschorst, wordt hiervan door het bestuur van het openbaar lichaam of van de bedrijfsvoeringsorganisatie onderscheidenlijk het gemeenschappelijk orgaan openbaar kennis gegeven. Artikel 50db is van overeenkomstige toepassing, met dien verstande dat de terinzagelegging geschiedt voor de tijd van vier weken.

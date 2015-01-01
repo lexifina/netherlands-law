@@ -1,44 +1,96 @@
 # Inhoud
 ## Hoofdstuk I. Regelingen tussen gemeenten
-### § 1. Bevoegdheid tot het treffen van een regeling
-### § 2. Algemene bepalingen
-### § 3. Bevoegdheden bij regelingen tussen gemeenten
+### Afdeling 1. Bevoegdheid tot het treffen van een regeling
+### Afdeling 2. Algemene bepalingen
+#### § 1. Inhoud van de regeling
+#### § 2. Inrichting en samenstelling van het bestuur van het openbaar lichaam en de bedrijfsvoeringsorganisatie en van het gemeenschappelijk orgaan
+#### § 3. De commissies
+#### § 4. Bekendmaking en inwerkingtreding van een gemeenschappelijke regeling
+#### § 5. Provinciegrensoverschrijdende samenwerking
+### Afdeling 3. Bevoegdheden
+#### § 1. De bevoegdheid van het bestuur van het openbaar lichaam en de bedrijfsvoeringsorganisatie en van het gemeenschappelijk orgaan
+#### § 2. Bijzondere voorzieningen
+#### § 3. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
+#### § 4. De bevoegdheid van het algemeen bestuur
+#### § 5. De bevoegdheid van het dagelijks bestuur
+#### § 6. De bevoegdheid van de voorzitter
+#### § 7. Financiën
+### Afdeling 4. Schorsing en vernietiging
 ## Hoofdstuk II. Regelingen tussen provincies
-### § 1. Bevoegdheid tot het treffen van een regeling
-### § 2. Algemene bepalingen
-### § 3. Bevoegdheden van openbare lichamen en gemeenschappelijke organen
+### Afdeling 1. Bevoegdheid tot het treffen van een regeling
+### Afdeling 2. Algemene bepalingen
+### Afdeling 3. Bevoegdheden
+#### § 1. De bevoegdheid van het bestuur van het openbaar lichaam en de bedrijfsvoeringsorganisatie en van het gemeenschappelijk orgaan
+#### § 2. Bijzondere voorzieningen
+#### § 3. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
+#### § 4. De bevoegdheid van het algemeen bestuur
+#### § 5. De bevoegdheid van het dagelijks bestuur
+#### § 6. De bevoegdheid van de voorzitter
+#### § 7. Financiën
+### Afdeling 4. Schorsing en vernietiging
 ## Hoofdstuk III. Regelingen tussen waterschappen
-### § 1. Bevoegdheid tot het treffen van een regeling
-### § 2. Algemene bepalingen
-### § 3. Bevoegdheden van openbare lichamen en gemeenschappelijke organen
-### § 4. Goedkeuring van regelingen
+### Afdeling 1. Bevoegdheid tot het treffen van een regeling
+### Afdeling 2. Algemene bepalingen
+### Afdeling 3. Bevoegdheden
+#### § 1. De bevoegdheid van het bestuur van het openbaar lichaam en de bedrijfsvoeringsorganisatie en van het gemeenschappelijk orgaan
+#### § 2. Bijzondere voorzieningen
+#### § 3. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
+#### § 4. De bevoegdheid van het algemeen bestuur
+#### § 5. De bevoegdheid van het dagelijks bestuur
+#### § 6. De bevoegdheid van de voorzitter
+#### § 7. Financiën
+### Afdeling 4. Schorsing en vernietiging
 ## Hoofdstuk IV. Regelingen tussen gemeenten en provincies
-### § 1. Bevoegdheid tot het treffen van een regeling
-### § 2. Algemene bepalingen
-### § 3. Bevoegdheden van openbare lichamen en gemeenschappelijke organen
+### Afdeling 1. Bevoegdheid tot het treffen van een regeling
+### Afdeling 2. Algemene bepalingen
+### Afdeling 3. Bevoegdheden
+#### § 1. De bevoegdheid van het bestuur van het openbaar lichaam en de bedrijfsvoeringsorganisatie en van het gemeenschappelijk orgaan
+#### § 2. Bijzondere voorzieningen
+#### § 3. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
+#### § 4. De bevoegdheid van het algemeen bestuur
+#### § 5. De bevoegdheid van het dagelijks bestuur
+#### § 6. De bevoegdheid van de voorzitter
+#### § 7. Financiën
+### Afdeling 4. Schorsing en vernietiging
 ## Hoofdstuk V. Regelingen tussen gemeenten en waterschappen
-### § 1. Bevoegdheid tot het treffen van een regeling
-### § 2. Algemene bepalingen
-### § 3. Bevoegdheden van openbare lichamen en gemeenschappelijke organen
+### Afdeling 1. Bevoegdheid tot het treffen van een regeling
+### Afdeling 2. Algemene bepalingen
+### Afdeling 3. Bevoegdheden
+#### § 1. De bevoegdheid van het bestuur van het openbaar lichaam en de bedrijfsvoeringsorganisatie en van het gemeenschappelijk orgaan
+#### § 2. Bijzondere voorzieningen
+#### § 3. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
+#### § 4. De bevoegdheid van het algemeen bestuur
+#### § 5. De bevoegdheid van het dagelijks bestuur
+#### § 6. De bevoegdheid van de voorzitter
+#### § 7. Financiën
+### Afdeling 4. Schorsing en vernietiging
 ## Hoofdstuk VI. Regelingen tussen gemeenten, provincies en waterschappen
-### § 1. Bevoegdheid tot het treffen van een regeling
-### § 2. Algemene bepalingen
-### § 3. Bevoegdheden van openbare lichamen en gemeenschappelijke organen
+### Afdeling 1. Bevoegdheid tot het treffen van een regeling
+### Afdeling 2. Algemene bepalingen
+### Afdeling 3. Bevoegdheden
+#### § 1. De bevoegdheid van het bestuur van het openbaar lichaam en de bedrijfsvoeringsorganisatie en van het gemeenschappelijk orgaan
+#### § 2. Bijzondere voorzieningen
+#### § 3. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
+#### § 4. De bevoegdheid van het algemeen bestuur
+#### § 5. De bevoegdheid van het dagelijks bestuur
+#### § 6. De bevoegdheid van de voorzitter
+#### § 7. Financiën
+### Afdeling 4. Schorsing en vernietiging
 ## Hoofdstuk VII. Regelingen tussen provincies en waterschappen
-### § 1. Bevoegdheid tot het treffen van een regeling
-### § 2. Algemene bepalingen
-### § 3. Bevoegdheden van openbare lichamen en gemeenschappelijke organen
+### Afdeling 1. Bevoegdheid tot het treffen van een regeling
+### Afdeling 2. Algemene bepalingen
+### Afdeling 3. Bevoegdheden
+#### § 1. De bevoegdheid van het bestuur van het openbaar lichaam en de bedrijfsvoeringsorganisatie en van het gemeenschappelijk orgaan
+#### § 2. Bijzondere voorzieningen
+#### § 3. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
+#### § 4. De bevoegdheid van het algemeen bestuur
+#### § 5. De bevoegdheid van het dagelijks bestuur
+#### § 6. De bevoegdheid van de voorzitter
+#### § 7. Financiën
+### Afdeling 4. Schorsing en vernietiging
 ## Hoofdstuk VIII. Het deelnemen aan een regeling door andere openbare lichamen en rechtspersonen
 ## Hoofdstuk IX. Regelingen tussen één gemeente, provincie of waterschap en een of meer andere openbare lichamen en rechtspersonen
 ## Hoofdstuk X. Verplichte samenwerking
-## Hoofdstuk XI. Plusregio's
-### § 1. Begripsbepaling
-### § 2. Totstandkoming, wijziging en opheffing
-### § 3. Bestuur en commissies
-### § 4. Het opleggen van een regeling
-### § 5. Verplichte uitvoering
-### § 6. Taken en bevoegdheden
-### § 7. Geschillen
 ## Hoofdstuk XIa. Regelingen tussen de openbare lichamen Bonaire, Sint Eustatius en Saba
 ### § 1. Bevoegdheid tot treffen van een regeling
 ### § 2. Algemene bepalingen

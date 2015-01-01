@@ -1,2 +1,3 @@
 # Artikel 50h
-Een regeling behoeft de goedkeuring van gedeputeerde staten indien gebruik is gemaakt van een bevoegdheid als bedoeld in de artikelen 50a juncto 8, danwel indien één der voor de deelnemende waterschappen geldende reglementen dat voorschrijft.
+1. Een besluit dan wel een niet-schriftelijke beslissing gericht op enig rechtsgevolg van het bestuur van het openbaar lichaam of van de bedrijfsvoeringsorganisatie onderscheidenlijk het gemeenschappelijk orgaan kan door gedeputeerde staten worden vernietigd.
+2. Ten aanzien van de vernietiging van een niet-schriftelijke beslissing gericht op enig rechtsgevolg zijn de afdelingen 10.2.2 en 10.2.3 van de Algemene wet bestuursrecht van overeenkomstige toepassing.

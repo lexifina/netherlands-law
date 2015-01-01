@@ -1,0 +1,2 @@
+# Artikel 32j
+Bij algemene maatregel van bestuur, op voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, kunnen regels worden gesteld over de verstrekking van systematische informatie aan het provinciebestuur of, in het geval artikel 32d, eerste lid, van toepassing is, aan Onze Minister die het aangaat, betreffende de uitvoering door het orgaan waaraan een bevoegdheid is overgedragen van de andere wet dan de Gemeentewet. Bij ministeriële regeling of bij provinciale verordening kunnen nadere regels worden gesteld omtrent de toepassing.

@@ -1,0 +1,3 @@
+# Artikel 39e
+1. Het bestuur van het openbaar lichaam of van de bedrijfsvoeringsorganisatie onderscheidenlijk het gemeenschappelijk orgaan neemt opnieuw een besluit omtrent het onderwerp van het vernietigde besluit, waarbij met het koninklijk besluit wordt rekening gehouden, tenzij in het koninklijk besluit toepassing is gegeven aan artikel 39c, tweede of derde lid.
+2. In het koninklijk besluit kan een termijn worden gesteld waarbinnen toepassing wordt gegeven aan het eerste lid. De artikelen 32b tot en met 32j zijn van overeenkomstige toepassing ingeval niet binnen de termijn toepassingen is gegeven aan het eerste lid.

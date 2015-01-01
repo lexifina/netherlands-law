@@ -1,0 +1,6 @@
+# Artikel 39c
+1. In het koninklijk besluit kan een voorziening worden getroffen voor de periode tussen de inwerkingtreding en het tijdstip dat het op grond van artikel 39e genomen besluit in werking is getreden.
+2. Indien, gelet op het koninklijk besluit, het bestuur van het openbaar lichaam of van de bedrijfsvoeringsorganisatie onderscheidenlijk het gemeenschappelijk orgaan bij de toepassing van artikel 39e niet over beleidsvrijheid beschikt, kan het koninklijk besluit bepalen dat het in de plaats treedt van het vernietigde besluit.
+3. In het koninklijk besluit kan worden bepaald dat ter zake van het vernietigde besluit geen nieuw besluit wordt genomen.
+4. In het koninklijk besluit kan het bestuur van het openbaar lichaam of van de bedrijfsvoeringsorganisatie onderscheidenlijk het gemeenschappelijk orgaan een aanwijzing worden gegeven over de uitvoering van het koninklijk besluit. De artikelen 32b tot en met 32j zijn van overeenkomstige toepassing ingeval de aanwijzing niet wordt opgevolgd.
+5. Indien het koninklijk besluit betrekking heeft op de vernietiging van een algemeen verbindend voorschrift of een ander besluit van algemene strekking, kan worden bepaald dat de vernietiging tevens betrekking heeft op besluiten die zijn genomen op grond van of ter uitvoering van het algemeen verbindend voorschrift of het andere besluit van algemene strekking.
