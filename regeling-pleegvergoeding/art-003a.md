@@ -1,2 +1,0 @@
-# Artikel 3a
-Aan de pleegouder die tevens belast is met voogdij als bedoeld in boek 1 Burgerlijk Wetboek, wordt een door de pleegzorgaanbieder vast te stellen toeslag verleend ten behoeve van voor het pleegkind noodzakelijk te maken bijzondere kosten, waarvan de pleegouder aantoont dat deze niet kunnen worden voldaan uit het basisbedrag, bedoeld in artikel 2, dan wel uit de toeslagen, bedoeld in artikel 3, en waarvoor geen uitkering op grond van een andere regeling kan worden verstrekt.
