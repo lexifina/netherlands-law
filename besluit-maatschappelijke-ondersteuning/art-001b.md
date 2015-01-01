@@ -1,4 +1,0 @@
-# Artikel 1b
-1. Het college van burgemeester en wethouders houdt bij het verlenen van een opdracht voor het leveren van individuele voorzieningen rekening met de mate waarin de aanbieder zorg draagt voor continuïteit in de hulpverlening tussen de persoon die aanspraak heeft op de individuele voorziening en de betrokken hulpverlener.
-2. Het college van burgemeester en wethouders neemt in een overeenkomst met betrekking tot het leveren van individuele voorzieningen op, dat de aanbieder in overleg treedt met de aanbieder of aanbieders die laatstelijk voor hem dan wel na hem in opdracht van het college die individuele voorzieningen hebben verleend dan wel gaan verlenen, over de overname van de betrokken hulpverleners.
-3. Het college van burgemeester en wethouders verleent een opdracht voor het leveren van individuele voorzieningen ten minste drie maanden voor de ingangsdatum van die opdracht.
