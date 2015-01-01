@@ -1,8 +1,0 @@
-# Artikel 13c
-1. Behoudens het bepaalde in het tweede lid, wordt geen onderscheid naar economische of maatschappelijke binding gemaakt ten aanzien van woningzoekenden:
-a. waarvan redelijkerwijs niet of niet meer verwacht kan worden dat zij door het duurzaam verrichten van arbeid in hun bestaan voorzien, zoals gepensioneerden, ernstig invaliden en langdurig werklozen;
-b. die als remigrant wensen terug te keren naar Nederland of zijn teruggekeerd, doch nog niet over passende huisvesting beschikken;
-c. aan wie op grond van een asielverzoek of ambtshalve een van de verblijfsvergunningen, bedoeld in artikel 8, onderdelen a tot en met d, van de Vreemdelingenwet 2000 is verleend, indien zij na die verlening voor de eerste maal woonruimte zoeken;
-d. die na echtscheiding, scheiding van tafel en bed of ontbinding van het huwelijk na scheiding van tafel en bed, in verband met die omstandigheid dringend woonruimte behoeven, of
-e. die een procedure tot echtscheiding, scheiding van tafel en bed of ontbinding van het huwelijk na scheiding van tafel en bed aanhangig hebben gemaakt en een voorlopige voorziening als bedoeld in artikel 822 en 823 van het Wetboek van Burgerlijke Rechtsvordering hebben verkregen, indien zij in verband met die omstandigheid dringend woonruimte behoeven.
-2. Voor zover dat in het belang van een evenwichtige en rechtvaardige verdeling van woonruimte noodzakelijk is in verband met uit bovengemeentelijk ruimtelijk beleid voortvloeiende geringe mogelijkheden tot uitbreiding van de woonruimtevoorraad in de gemeente of in een of meer kernen, behorend tot de gemeente, kan de gemeenteraad afwijken van het bepaalde in het eerste lid, onder a, b, d en e.

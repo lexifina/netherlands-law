@@ -1,2 +1,0 @@
-# Artikel 13a
-De gemeenteraad kan voor zover dit noodzakelijk is met het oog op een evenwichtige en rechtvaardige verdeling van woonruimte in de huisvestingsverordening criteria vaststellen voor de verlening van huisvestingsvergunningen, waarbij onderscheid kan worden gemaakt tussen woningzoekenden die al of niet een economische of maatschappelijke binding hebben aan een in die verordening aangeduide regio.
