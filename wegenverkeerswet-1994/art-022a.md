@@ -1,3 +1,3 @@
 # Artikel 22a
 1. Ter uitvoering van verdragen of van besluiten van volkenrechtelijke organisaties of van één of meer instellingen van de Europese Unie, al dan niet gezamenlijk, verleent de Dienst Wegverkeer op aanvraag en tegen betaling, op de door de Dienst Wegverkeer vastgestelde wijze, van het daarvoor door deze dienst vastgestelde tarief, een typegoedkeuring indien het voertuig, het systeem, het onderdeel, de technische eenheid, het uitrustingstuk of de voorziening ter bescherming van weggebruikers en passagiers, waarvoor de goedkeuring wordt gevraagd, bij een door de dienst verrichte keuring heeft voldaan aan de eisen van het bij ministeriële regeling bekendgemaakte besluit.
-2. De artikelen 22, derde lid, 23, 24 en 25 zijn van overeenkomstige toepassing.
+2. De artikelen 22, vierde lid, 23, 24 en 25 zijn van overeenkomstige toepassing.

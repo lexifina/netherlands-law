@@ -30,6 +30,11 @@ Gerechtsdeurwaarderswet: artikel 3a, tweede lid
 Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën: de artikelen 20, 21, 22, 72, eerste lid, 75, en 101, derde lid
 Instellingswet Autoriteit Consument en Markt: artikel 12h, eerste lid, voor zover de aanvraag is afgewezen
 Invorderingswet 1990, met uitzondering van de artikelen 30, 49 en 62a
+Jeugdwet:
+a. artikel 2.3, eerste lid, voor zover in het besluit wordt bepaald dat een voorziening op het gebied van jeugdhulp en verblijf niet zijnde verblijf bij een pleegouder nodig is, als bedoeld in artikel 6.1.2, vijfde lid
+b. artikel 3.5, eerste lid
+c. de artikelen 6.1.5, 6.1.6, tweede en derde lid, 6.1.12, vijfde lid, 6.3.1 tot en met 6.3.5, 6.3.7 en 6.4.1
+Kaderwet zelfstandige bestuursorganen: artikel 21a, eerste en tweede lid
 Kostenwet invordering rijksbelastingen, met uitzondering van artikel 7
 Leegstandwet:
 a. artikel 15, eerste lid, voor zover het betreft een weigering van de vergunning
@@ -39,12 +44,13 @@ Mijnbouwwet: de artikelen 141a, derde lid, 141b, derde lid, en 141c, tweede en d
 Natuurbeschermingswet 1998: de artikelen 17, 19kg en 23
 Onteigeningswet
 Ontgrondingenwet: mededeling als bedoeld in artikel 10, tweede en derde lid
+Participatiewet: de artikelen 52 en 81 en paragraaf 6.5
 Politiewet 2012: de artikelen 18, 20, 34, 35, 37, eerste lid, 39, derde en vijfde lid, en 52
 Provinciewet:
 a. artikel 49
-b. artikel 121, voor zover het beroep niet wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
-c. de artikelen 167, derde lid, en 179, derde lid
-d. [vervallen]
+b. artikel 83, tweede lid, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging
+c. artikel 121, voor zover het beroep niet wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
+d. de artikelen 167, derde lid, en 179, derde lid
 e. artikel 261, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging
 f. artikel 271, voor zover het betreft de weigering om een voordracht tot vernietiging te doen
 g. de artikelen 271a, vierde lid, en 274, tweede lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep niet wordt ingesteld door provinciale staten, gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
@@ -68,11 +74,18 @@ c. artikel 5.2a, tweede lid, betreffende de toepassing van artikel 124 van de Ge
 d. artikel 5.2a, derde lid, betreffende de toepassing van hoofdstuk XVIII van de Provinciewet, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging en voor zover het betreft de weigering om een voordracht tot vernietiging te doen
 e. artikel 5.2a, vierde lid, betreffende de toepassing van hoofdstuk XVII van de Gemeentewet, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging en voor zover het betreft de weigering om een voordracht tot vernietiging te doen
 f. artikel 5.8, eerste lid, laatste volzin
-Wet bekostiging financieel toezicht: de artikelen 2, 5, 6 en 13, derde lid
+Wet bekostiging financieel toezicht:
+a. een besluit omtrent de goedkeuring als bedoeld in de artikelen 3 en 6
+b. een besluit als bedoeld in artikel 13, derde lid
 Wet bijzondere opneming in psychiatrische ziekenhuizen
 Wet bodembescherming: artikel 43, voor zover het betreft de afwijzing van een verzoek
 Wet College voor de rechten van de mens, met uitzondering van de artikelen 14 tot en met 18
-Wet gemeenschappelijke regelingen: artikel 116, eerste lid, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep niet wordt ingesteld door het bestuur van de plusregio, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep niet wordt ingesteld door gedeputeerde staten
+Wet gemeenschappelijke regelingen:
+a. de artikelen 32b en 45a gelezen in samenhang met artikel 32b, voor zover het beroep niet wordt ingesteld door het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan
+b. artikel 32c, voor zover het beroep niet wordt ingesteld door gedeputeerde staten
+c. de artikelen 36, eerste lid, 49 gelezen in samenhang met artikel 36, eerste lid, en 50h, eerste lid, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging
+d. de artikelen 39b en 49 gelezen in samenhang met artikel 39b, voor zover het betreft de weigering om een voordracht tot vernietiging te doen
+e. de artikelen 39c, vierde lid en 39e, tweede lid, betreffende de toepassing van artikel 32b voor zover het beroep niet wordt ingesteld door het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan, en betreffende de toepassing van artikel 32c, voor zover het beroep niet wordt ingesteld door gedeputeerde staten, en artikel 49 gelezen in samenhang met dit onderdeel
 Wet geurhinder en veehouderij: artikel 7
 Wet gewasbeschermingsmiddelen en biociden: artikel 108
 Wet investeren in jongeren: de artikelen 37, 57 en 91, voor zover het besluiten betreft van de voorzitter van gedeputeerde staten
@@ -82,20 +95,16 @@ b. de artikelen 8.70, eerste lid, en 10.15, eerste lid, voor zover het betreft d
 c. artikel 10.27, eerste lid, voor zover het betreft een vergunning voor burgermedegebruik door tussenkomst van een burgerexploitant voor de luchthaven Eindhoven.
 Wet melding collectief ontslag
 Wet milieubeheer:
-a. de artikelen 4.3, 4.6, 4.9, 4.12, 4.15a, 4.16, 4.19, 5.12, eerste lid, 5.12, dertiende lid, 5.13, eerste lid, 10.3, 11A.2, derde lid, onderdelen b en c, 11.5, 11.18 en 15.51, derde lid
-b. artikel 16.24, eerste lid, met uitzondering van een besluit houdende toewijzing van broeikasgasemissierechten voor een afzonderlijke inrichting
-c. artikel 17.15, tweede lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
+a. de artikelen 4.3, 4.6, 4.9, 4.12, 4.15a, 4.16 en 4.19
+b. een besluit inzake een programma als bedoeld in artikel 5.12, eerste lid, of 5.13, eerste lid, of inzake een instemming als bedoeld in artikel 5.12, dertiende lid
+c. de artikelen 10.3, 11A.2, derde lid, onderdelen b en c, 11.5, 11.18 en 15.51, derde lid
+d. artikel 16.24, eerste lid, met uitzondering van een besluit houdende toewijzing van broeikasgasemissierechten voor een afzonderlijke inrichting
+e. artikel 17.15, tweede lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
 Wet Naleving Europese regelgeving publieke entiteiten:
 a. artikel 2, eerste lid, voor zover het betreft de weigering om een aanwijzing te geven
 b. artikel 3, voor zover het betreft de weigering om een aanwijzing te geven
 c. artikel 5, voor zover het betreft de weigering om een besluit te nemen
 Wet op de expertisecentra: artikel 134, vierde lid, zolang de gemeenteraad de aanvulling nog niet heeft bekrachtigd
-Wet op de jeugdzorg:
-a. artikel 3, vierde lid
-b. artikel 6, eerste lid, voor zover het betreft een besluit ter uitvoering van de taak, bedoeld in:
-1. artikel 10, eerste lid, onderdeel b
-2. artikel 10, eerste lid, onderdeel c, met uitzondering van de daarin bedoelde nazorg en de daarin bedoelde begeleiding als bedoeld in artikel 77hh van het Wetboek van Strafrecht
-3. de artikelen 29o tot en met 29r, 29t en 29v
 Wet op de rechterlijke organisatie: de artikelen 46a, eerste lid, 62a, eerste lid, en 100
 Wet opheffing particuliere banken van leening: artikel 2
 Wet op het financieel toezicht:
@@ -122,7 +131,6 @@ h. artikel 6.15, eerste lid, voor zover de herziening uitsluitend betrekking hee
 Wet toezicht financiële verslaggeving: de artikelen 2, eerste lid, 3, eerste en tweede lid, 4, 9, 12 en 30
 Wet van 18 december 2008 tot wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens) (Stb. 2008, 561): artikel X
 Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen: artikel 30, tweede lid
-Wet werk en bijstand: de artikelen 52 en 81 en paragraaf 6.5
 Wet werk en inkomen kunstenaars: artikel 14
 Zorgverzekeringswet:
 a. artikel 9a

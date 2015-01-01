@@ -1,7 +1,6 @@
 # Artikel 2. Beroep bij de Afdeling bestuursrechtspraak van de Raad van State
 Tegen een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.
 Algemene wet bestuursrecht: artikel 5:32, voor zover het besluit betrekking heeft op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, van de Wet milieubeheer bedoelde wetten of wettelijke bepalingen dan wel de Ontgrondingenwet
-Algemene Wet Bijzondere Ziektekosten, voor zover het betreft een besluit van Onze Minister van Volksgezondheid, Welzijn en Sport of van het College zorgverzekeringen
 Ambtenarenwet:
 a. artikel 126, eerste lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
 b. artikel 126, tweede lid, betreffende de toepassing van hoofdstuk XVIII van de Provinciewet
@@ -27,7 +26,6 @@ d. artikel 125, voor zover het besluit betrekking heeft op de handhaving van het
 e. artikel 268, eerste lid
 f. de artikelen 278a, vierde lid, en 281, tweede lid, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
 Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën: de artikelen 13, eerste lid, en 74, eerste, tweede, derde en vijfde lid
-Huisvestingswet: artikel 40, eerste lid
 Interimwet stad-en-milieubenadering:
 a. de artikelen 2 en 3
 b. een besluit omtrent goedkeuring van een besluit als bedoeld in artikel 9
@@ -92,8 +90,12 @@ c. de artikelen 6.1.3 tot en met 6.1.6, 6.2.1 tot en met 6.2.3, 6.2.3b, 6.3.1 to
 Wet financiering sociale verzekeringen: artikel 91
 Wet geluidhinder
 Wet gemeenschappelijke regelingen:
-a. de artikelen 99, eerste lid, 100, eerste lid, 103b, 103c, eerste lid, en 114
-b. artikel 116, eerste lid, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep wordt ingesteld door het bestuur van de plusregio, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep wordt ingesteld door gedeputeerde staten
+a. artikel 25, achtste lid
+b. de artikelen 32b en 45a gelezen in samenhang met artikel 32b, voor zover het beroep wordt ingesteld door het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan
+c. artikel 32c, voor zover het beroep wordt ingesteld door gedeputeerde staten
+d. de artikelen 36, eerste lid, 49 gelezen in samenhang met artikel 36, eerste lid, en 50h, eerste lid
+e. de artikelen 39c, vierde lid en 39e, tweede lid, betreffende de toepassing van artikel 32b voor zover het beroep wordt ingesteld door het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan, en betreffende de toepassing van artikel 32c, voor zover het beroep wordt ingesteld door gedeputeerde staten, en artikel 49 gelezen in samenhang met dit onderdeel
+f. de artikelen 99, eerste lid, 100, eerste lid, 103b, en 103c, eerste lid
 Wet gewetensbezwaren militaire dienst:
 a. hoofdstuk II, met uitzondering van artikel 4, tweede lid
 b. de artikelen 15 en 16
@@ -104,7 +106,9 @@ c. de toewijzing van eigendom, beheer en onderhoud van voorzieningen van openbaa
 d. de aanduiding van wegen met de daartoe behorende kunstwerken, bedoeld in artikel 33, eerste lid
 e. de opname van wegen met de daartoe behorende kunstwerken als openbare weg, bedoeld in artikel 33, tweede lid
 Wet inzake de luchtverontreiniging
+Wet langdurige zorg, voor zover het betreft een besluit van Onze Minister van Volksgezondheid, Welzijn en Sport, met uitzondering van hoofdstuk 10, § 4
 Wet luchtvaart: de artikelen 8.25, tweede lid, 8.25b, 8.25c, 8.43, eerste lid, 8.64, eerste lid, 8.70, eerste en zesde lid, 8.77, eerste lid, 8a.50a, 8a.54, 10.15, eerste lid, en 10.39, ook voor zover het besluit kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in artikel 8:3, eerste lid, van de Algemene wet bestuursrecht, maar met uitzondering van een besluit op grond van de artikelen 8.70, eerste lid, en 10.15, eerste lid, voor zover het betreft de luchthavens Lelystad, Rotterdam en Eindhoven.
+Wet maatschappelijke ondersteuning 2015: artikel 2.6.8
 Wet milieubeheer, met inbegrip van een besluit dat betrekking heeft op handhaving, doch met uitzondering van:
 a. de artikelen 1.3, eerste lid, 8.40a en 8.42
 b. een besluit dat betrekking heeft op de handhaving van het bepaalde krachtens artikel 8.40

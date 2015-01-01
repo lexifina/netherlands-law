@@ -16,7 +16,9 @@ m. het uitreiken van Nederlandse omwisselingscertificaten en deelcertificaten va
 n. het ongeldig verklaren van getuigschriften van vakbekwaamheid, getuigschriften van nascholing en Nederlandse omwisselingscertificaten;
 o. het verwerken van gegevens, waaronder mede begrepen gegevens betreffende iemands gezondheid, voor zover dit noodzakelijk is voor de uitvoering van de taken waarmee het CBR bij of krachtens deze wet is belast, alsmede van de taken waarmee het CBR bij of krachtens andere wetten is belast;
 p. het met inachtneming van artikel 4am vaststellen van de tarieven, alsmede het vaststellen van de wijze van betaling van deze tarieven, voor het verrichten van taken waarvoor het CBR bij of krachtens deze wet bevoegd is, alsmede voor de bij of krachtens andere wetten opgedragen taken;
-q. het verstrekken van gegevens voor zover dit noodzakelijk is voor de uitvoering van de taken waarmee het CBR dan wel andere organisaties bij of krachtens deze wet zijn belast.
+q. het verstrekken van gegevens voor zover dit noodzakelijk is voor de uitvoering van de taken waarmee het CBR dan wel andere organisaties bij of krachtens deze wet zijn belast;
+r. het in stand houden en beheren van een systeem waarin rijscholen kunnen worden ingeschreven, franchiserelaties tussen rijscholen en overdrachten van rijscholen kunnen worden geregistreerd en waarmee rijscholen examens bij het CBR kunnen reserveren;
+s. het informeren van rijscholen over relevante ontwikkelingen voor hun taakuitvoering.
 2. Bij de toepassing van de taken, bedoeld in het eerste lid, onderdeel a, neemt het CBR de bij ministeriële regeling aangewezen richtlijn of de aangewezen onderdelen daarvan, in acht.
 3. Voor de toepassing van het eerste lid, onderdelen c tot en met g, wordt onder rijbewijzen mede verstaan rijbewijzen, afgegeven door het daartoe bevoegde gezag buiten Nederland, waarvan de houder in Nederland woonachtig is.
 4. Voorts is het CBR belast met:

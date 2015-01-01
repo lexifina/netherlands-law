@@ -4,6 +4,7 @@ Aanbestedingswet 2012, artikel 4.21
 Aanbestedingswet op defensie- en veiligheidsgebied, artikel 3.8
 Bankwet 1998: artikel 9c, eerste en tweede lid
 Burgerlijk Wetboek: de artikelen 63d, tweede lid, 156 en 266 van Boek 2
+Drinkwaterwet: artikel 50, derde lid, in samenhang met artikel 70a van de Mededingingswet
 Elektriciteitswet 1998: de artikelen 77h en 77i
 Gaswet: de artikelen 16, 60ac en 60ad
 Gezondheids- en welzijnswet voor dieren: artikel 120b, eerste lid
@@ -16,6 +17,7 @@ Muntwet 2002: artikel 11, eerste en tweede lid
 Overgangswet elektriciteitsproductiesector
 Pensioenwet
 Postwet 2009, met uitzondering van hoofdstuk 3A en artikel 58
+Sanctiewet 1977
 Spoorwegwet, met uitzondering van de artikelen 19, 21 en 71, derde lid
 Tabakswet
 Telecommunicatiewet, met uitzondering van:

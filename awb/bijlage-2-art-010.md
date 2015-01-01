@@ -5,6 +5,7 @@ Besluit van 20 juni 1984, houdende vaststelling van een algemene maatregel van b
 Garantiewet Burgerlijk Overheidspersoneel Indonesië, met uitzondering van een besluit op grond van de Algemene oorlogsongevallenregeling
 Garantiewet militairen K.N.I.L.
 Garantiewet Surinaamse pensioenen
+Jeugdwet: artikel 2.3 en paragraaf 8.1
 Noodwet Arbeidsvoorziening
 Noodwet Geneeskundigen
 de reglementen van de Stichting Maror-gelden Overheid, de Stichting Joods Humanitair Fonds, de Stichting Rechtsherstel Sinti en Roma en de Stichting Het Gebaar
@@ -16,9 +17,8 @@ Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen
 Wet allocatie arbeidskrachten door intermediairs
 Wet educatie en beroepsonderwijs, voor zover het betreft een algemene maatregel van bestuur als bedoeld in de artikelen 4.1.2 en 4.3.2, voor zover het besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap betreft
 Wet financiële voorzieningen privatisering ABP
-Wet maatschappelijke ondersteuning
+Wet maatschappelijke ondersteuning 2015, met uitzondering van artikel 2.6.8
 Wet op de expertisecentra, voor zover het betreft een algemene maatregel van bestuur als bedoeld in de artikelen 33, tweede lid, en 55, voor zover het besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap betreft
-Wet op de jeugdzorg: de artikelen 5, tweede lid, en 6, vierde lid
 Wet op de Nederlandse organisatie voor Wetenschappelijk Onderzoek, voor zover het betreft een algemene maatregel van bestuur als bedoeld in artikel 14, voor zover het besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap betreft
 Wet op het hoger onderwijs en wetenschappelijk onderzoek, voor zover het betreft een algemene maatregel van bestuur als bedoeld in artikel 4.5, voor zover het besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap betreft
 Wet op het primair onderwijs, voor zover het betreft een algemene maatregel van bestuur als bedoeld in de artikelen 33, tweede lid, en 52, voor zover het besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap betreft

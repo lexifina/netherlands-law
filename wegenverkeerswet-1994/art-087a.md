@@ -4,3 +4,4 @@
 a. niet meer voldoet aan de voor de bevoegdheid voertuigen aan een keuring te onderwerpen gestelde eisen,
 b. in strijd met de regels, bedoeld in artikel 76, derde lid, een voertuig aan een onderzoek onderwerpt,
 c. handelt in strijd met een of meer andere uit de bevoegdheid voertuigen aan een keuring te onderwerpen voortvloeiende verplichtingen.
+3. De Dienst Wegverkeer kan in de gevallen, bedoeld in het tweede lid, onderdelen a en c, de bevoegdheid voertuigen aan een keuring te onderwerpen schorsen voor een door deze dienst daarbij vast te stellen termijn die ten hoogste twaalf weken bedraagt.
