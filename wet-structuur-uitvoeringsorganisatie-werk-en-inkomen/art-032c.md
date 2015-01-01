@@ -1,0 +1,6 @@
+# Artikel 32c. Scholing personen met ernstige scholingsbelemmeringen
+1. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot door het Uitvoeringsinstituut werknemersverzekeringen te verstrekken subsidie aan een rechtspersoon die in het kader van de uitoefening van beroep of bedrijf door scholing de inschakeling in de arbeid bevordert van personen:
+a. voor wier ondersteuning bij arbeidsinschakeling het college van burgemeester en wethouders zorg draagt op grond van artikel 7, eerste lid, onderdeel a, van de Participatiewet;
+b. die als gevolg van psychische, verstandelijke of lichamelijke beperkingen niet in staat zijn tot het verdienen van het minimumloon, bedoeld in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag of, indien het een persoon jonger dan 23 jaar betreft, het voor zijn leeftijd geldende minimumloon per maand, bedoeld in artikel 7, derde lid, en artikel 8, derde lid, van die wet; en
+c. die ernstige scholingsbelemmeringen hebben.
+2. Bij de subsidieverlening, bedoeld in het eerste lid, kunnen aan de subsidie-ontvanger verplichtingen worden opgelegd omtrent het hanteren van een registratiesysteem waaruit blijkt of het doel van de subsidie is bereikt.

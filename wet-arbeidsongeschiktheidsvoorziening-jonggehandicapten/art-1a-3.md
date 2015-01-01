@@ -1,0 +1,3 @@
+# Artikel 1a:3. Later ontstaan recht op arbeidsongeschiktheidsuitkering
+1. Indien is vastgesteld dat de ingezetene geen jonggehandicapte is, heeft de ingezetene die alsnog wordt aangemerkt als jonggehandicapte op grond van artikel 1a:1, tweede lid, niet eerder dan twaalf maanden na de dag waarop voor het laatst werd vastgesteld dat de ingezetene geen jonggehandicapte was recht op arbeidsongeschiktheidsuitkering.
+2. Indien geen recht op arbeidsongeschiktheidsuitkering ontstaat, omdat op de jonggehandicapte een of meer uitsluitingsgronden, als bedoeld in artikel 1a:6, eerste lid, van toepassing zijn, heeft de jonggehandicapte alsnog recht op arbeidsongeschiktheidsuitkering vanaf de dag dat zich geen van deze uitsluitingsgronden meer voordoet.

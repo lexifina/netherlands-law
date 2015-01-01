@@ -1,0 +1,2 @@
+# Artikel 1a:5. Verhoging bij hulpbehoevendheid
+Indien de jonggehandicapte verkeert in een blijvende of voorlopig blijvende toestand van hulpbehoevendheid die geregeld oppassing en verzorging nodig maakt, wordt de arbeidsongeschiktheidsuitkering voor de duur van die hulpbehoevendheid verhoogd tot ten hoogste de grondslag. De eerste zin vindt geen toepassing, indien de jonggehandicapte in een inrichting is opgenomen en de kosten van verblijf ten laste van een zorgverzekering of een verzekering inzake ziektekosten komen.

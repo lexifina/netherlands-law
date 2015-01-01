@@ -1,6 +1,9 @@
 # Inhoud
 ## Hoofdstuk 1. Algemene bepalingen
-## Hoofdstuk 2. Werk en arbeidsondersteuning
+## Hoofdstuk 1a. Arbeidsongeschiktheidsvoorziening voor jonggehandicapten
+### § 1. Jonggehandicapte
+### § 2. Recht op arbeidsongeschiktheidsuitkering
+## Hoofdstuk 2. Arbeidsongeschiktheidsvoorziening voor jonggehandicapten ingestroomd van 2010 tot en met 2014
 ### Afdeling 1. Algemene bepalingen
 ### Afdeling 2. Algemene plichten jonggehandicapten
 ### Afdeling 3. Uitsluitingsgronden voor het recht op arbeidsondersteuning
@@ -17,7 +20,7 @@
 #### § 1. De aanvraag van arbeidsondersteuning
 #### § 2. Betaling
 ### Afdeling 9. Sancties
-## Hoofdstuk 3. Arbeidsongeschiktheidsvoorziening
+## Hoofdstuk 3. Arbeidsongeschiktheidsvoorziening voor jonggehandicapten ingestroomd voor 2010
 ### Afdeling 1. Algemeen
 ### Afdeling 2. Het recht op en de hoogte van de uitkering
 #### § 1. De arbeidsongeschiktheidsuitkering
