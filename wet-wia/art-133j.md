@@ -1,0 +1,2 @@
+# Artikel 133j. Overgangsrecht in verband met overgang voorzieningen en subsidie
+In afwijking van artikel 7 van de Participatiewet blijven de artikelen 34a, 35 en 36 zoals die artikelen luidden voor de datum van inwerkingtreding van artikel VII van de Invoeringswet Participatiewet, van toepassing op de voorziening die op grond van artikel 34a of 35 is toegekend en op de subsidie die op grond van artikel 36 is verstrekt voor die datum.

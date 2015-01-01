@@ -1,7 +1,7 @@
 # Artikel 18a
-1. Een op een eindloonstelsel gebaseerd ouderdomspensioen bedraagt per dienstjaar niet meer dan 1,9 percent van het pensioengevend loon.
-2. Een op een middelloonstelsel gebaseerd ouderdomspensioen bedraagt per dienstjaar niet meer dan 2,15 percent van het pensioengevend loon.
-3. Een op een beschikbare-premiestelsel gebaseerd ouderdomspensioen wordt tijdsevenredig opgebouwd en is gericht op een pensioen dat na 37 jaren opbouw niet meer bedraagt dan 70 percent van het pensioengevend loon op dat tijdstip. De beschikbare premie wordt ten hoogste bepaald met inachtneming van de volgende uitgangspunten:
+1. Een op een eindloonstelsel gebaseerd ouderdomspensioen bedraagt per dienstjaar niet meer dan 1,657 percent van het pensioengevend loon.
+2. Een op een middelloonstelsel gebaseerd ouderdomspensioen bedraagt per dienstjaar niet meer dan 1,875 percent van het pensioengevend loon.
+3. Een op een beschikbare-premiestelsel gebaseerd ouderdomspensioen wordt tijdsevenredig opgebouwd en is gericht op een pensioen dat na 40 jaren opbouw niet meer bedraagt dan 75 percent van het gemiddelde pensioengevend loon tot dat tijdstip. De beschikbare premie wordt ten hoogste bepaald met inachtneming van de volgende uitgangspunten:
 a. de beschikbare premie wordt actuarieel vastgesteld per leeftijdsklasse van ten hoogste vijf jaren en wordt afgestemd op de gemiddelde leeftijd in de klasse;
 b. als loopbaanontwikkeling wordt gerekend met een loonstijging van drie percent per jaar gedurende de jaren voor het bereiken van de 35-jarige leeftijd, van twee percent per jaar gedurende de tien daaropvolgende jaren, van een percent per jaar gedurende de tien daaropvolgende jaren en van nihil gedurende de overige jaren;
 c. bij de berekening wordt een rekenrente in aanmerking genomen van ten minste vier percent en wordt de te verwachten inflatie op nihil gesteld.
@@ -27,3 +27,4 @@ L staat voor de geraamde macro gemiddelde resterende levensverwachting voor de N
 P staat voor de geldende pensioenrichtleeftijd in het kalenderjaar voorafgaande aan het kalenderjaar van wijziging.
 Indien V negatief is of vóór afronding minder dan 1 beloopt, wordt deze gesteld op 0. Indien V vóór afronding 1 of meer beloopt, wordt deze gesteld op 1. Een wijziging ingevolge de eerste volzin van de pensioenrichtleeftijd wordt bekendgemaakt ten minste een jaar voordat deze toepassing vindt.
 12. De ramingen van de macro gemiddelde resterende levensverwachting, bedoeld in het elfde lid, worden uitgevoerd en bekendgemaakt door het Centraal Bureau voor de Statistiek.
+13. In afwijking in zoverre van het vierde lid hoeft een ouderdomspensioen niet eerder in te gaan dan op de eerste dag van de maand volgend op het tijdstip waarop de werknemer de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt, zolang het pensioen blijft binnen de in artikel 66, eerste lid, van de Pensioenwet opgenomen begrenzing.

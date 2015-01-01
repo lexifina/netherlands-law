@@ -9,6 +9,7 @@
 a. de bestuurlijke boete verlagen indien sprake is van verminderde verwijtbaarheid;
 b. afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende redenen aanwezig zijn.
 8. Degene aan wie een bestuurlijke boete is opgelegd, is verplicht desgevraagd aan de Sociale verzekeringsbank de inlichtingen te verstrekken die voor de tenuitvoerlegging van de bestuurlijke boete van belang zijn.
-9. Bij algemene maatregel van bestuur worden nadere regels gesteld over de hoogte van de bestuurlijke boete.
-10. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze van tenuitvoerlegging van de beschikking waarbij de bestuurlijke boete is opgelegd.
-11. In afwijking van artikel 8:69 van de Algemene wet bestuursrecht kan de rechter in beroep of hoger beroep het bedrag waarop de bestuurlijke boete is vastgesteld ook ten nadele van de belanghebbende wijzigen.
+9. Indien bijstand aan een gezin wordt verleend, berust de verplichting tot betaling van de bestuurlijke boete bij alle gezinsleden en zijn deze gezinsleden hoofdelijk aansprakelijk voor de nakoming van deze verplichting.
+10. Bij algemene maatregel van bestuur worden nadere regels gesteld over de hoogte van de bestuurlijke boete.
+11. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze van tenuitvoerlegging van de beschikking waarbij de bestuurlijke boete is opgelegd.
+12. In afwijking van artikel 8:69 van de Algemene wet bestuursrecht kan de rechter in beroep of hoger beroep het bedrag waarop de bestuurlijke boete is vastgesteld ook ten nadele van de belanghebbende wijzigen.
