@@ -1,0 +1,4 @@
+# Artikel VII
+1. Indien op het tijdstip van inwerkingtreding van artikel I, onderdeel K, geen opleiding kan worden gevolgd als bedoeld in artikel 12, eerste lid, onderdeel a, b of c, van de Wet op de architectentitel kan een persoon op verzoek in het register worden ingeschreven als interieurarchitect indien hij na dat tijdstip is begonnen met een opleiding voor een getuigschrift als bedoeld in artikel 29, derde lid, onderdelen a en b, en dat tijdstip valt binnen een door Onze Minister en Onze Minister van Onderwijs, Cultuur en Wetenschap te bepalen periode.
+2. Artikel 12d, eerste en derde lid, van de Wet op de architectentitel is van overeenkomstige toepassing op een persoon als bedoeld in het eerste lid.
+3. Artikel 13, eerste en tweede lid, van de Wet op de architectentitel is van toepassing op een verzoek als bedoeld in het eerste en tweede lid.

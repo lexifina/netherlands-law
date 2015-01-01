@@ -1,0 +1,3 @@
+# Artikel VI
+1. In wettelijke procedures en rechtsgedingen waarbij de Stichting bureau architectenregister is betrokken, treedt met ingang van het tijdstip van inwerkingtreding van artikel I, onderdelen A tot en met E, het bureau in de plaats van de Stichting bureau architectenregister.
+2. In zaken waarin voor het tijdstip van inwerkingtreding van artikel I, onderdelen A tot en met E, op grond van artikel 12 van de Wet Nationale ombudsman aan de Nationale ombudsman is verzocht een onderzoek te doen of de Nationale ombudsman op grond van artikel 15 van die wet een onderzoek heeft ingesteld naar een gedraging die kan worden toegerekend aan de Stichting bureau architectenregister, treedt het bureau op dat tijdstip in de plaats van de Stichting bureau architectenregister.
