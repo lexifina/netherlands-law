@@ -73,7 +73,7 @@
 ##### Paragraaf 2. Het gezamenlijk gezag van een ouder tezamen met een ander dan een ouder krachtens rechterlijke beslissing
 ##### Paragraaf 3. Gemeenschappelijke bepalingen inzake het gezamenlijk gezag van een ouder tezamen met een ander dan een ouder
 #### Afdeling 4. Ondertoezichtstelling van minderjarigen
-#### Afdeling 5. Ontheffing en ontzetting van het ouderlijk gezag
+#### Afdeling 5. Beëindiging van het ouderlijk gezag
 #### Afdeling 6. Voogdij
 ##### § 1. Voogdij in het algemeen
 ##### § 2. Voogdij door een der ouders opgedragen
@@ -82,7 +82,7 @@
 ##### § 5. Ontslag van de voogdij
 ##### § 6. Onbevoegdheid tot de voogdij
 ##### § 7. Ondertoezichtstelling van onder voogdij staande minderjarigen
-##### § 8. Ontzetting van voogdij
+##### § 8. Beëindiging van voogdij
 ##### § 9. Het toezicht van de voogd over de persoon van de minderjarige
 ##### § 10. Het bewind van de voogd
 ##### § 11. De rekening en verantwoording bij het einde van de voogdij
