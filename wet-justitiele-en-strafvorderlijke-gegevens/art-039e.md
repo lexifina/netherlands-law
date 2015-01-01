@@ -1,6 +1,6 @@
 # Artikel 39e
 1. Voorzover dit noodzakelijk is met het oog op een zwaarwegend algemeen belang, kan het College van procureurs-generaal aan de volgende personen of instanties strafvorderlijke gegevens verstrekken:
-a. Nederlandse rechterlijke ambtenaren en rechterlijke ambtenaren van Aruba en de Nederlandse Antillen;
+a. Nederlandse rechterlijke ambtenaren en rechterlijke ambtenaren van Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba;
 b. Onze Minister;
 c. lichamen of personen aan wie krachtens artikel 257ba van het Wetboek van Strafvordering de bevoegdheid is toegekend een strafbeschikking uit te vaardigen;
 d. ambtenaren van politie als bedoeld in artikel 2, onder a, van de Politiewet 2012 en ambtenaren van politie als bedoeld in artikel 2, onder c en d, voor zover zij zijn aangesteld voor de uitvoering van de politietaak;
