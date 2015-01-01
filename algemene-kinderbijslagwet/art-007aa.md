@@ -1,0 +1,3 @@
+# Artikel 7aa
+1. De verzekerde heeft geen recht op kinderbijslag overeenkomstig de bepalingen van deze wet voor een kind, indien dat kind op de eerste dag van een kalenderkwartaal recht heeft op studiefinanciering op grond van de Wet studiefinanciering 2000.
+2. Ook bestaat geen recht op kinderbijslag zolang op een verzoek tot het treffen van een voorlopige voorziening als bedoeld in titel 8.3 van de Algemene wet bestuursrecht, ingediend door degene die studiefinanciering op grond van de Wet studiefinanciering 2000 heeft aangevraagd, geen uitspraak is gedaan.
