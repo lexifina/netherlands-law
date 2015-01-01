@@ -1,0 +1,6 @@
+# Artikel XVII
+1. Dit besluit treedt in werking met ingang van 1 januari 2015, met dien verstande dat:
+a. artikel V terugwerkt tot en met 1 januari 2013;
+b. artikel IX, onderdeel A, terugwerkt tot en met 1 januari 2014.
+2. In afwijking van het eerste lid treedt artikel IX, onderdeel C, in werking op hetzelfde tijdstip waarop het bij koninklijke boodschap van 8 februari 2012 ingediende voorstel van wet tot wijziging van de Wet cliëntenrechten zorg en enkele andere wetten om het mogelijk te maken dat aanbieders van medisch specialistische zorg, mits zij aan een aantal voorwaarden voldoen, winst uitkeren (voorwaarden voor winstuitkering aanbieders medisch-specialistische zorg) (Kamerstukken 33 168) tot wet is of wordt verheven en artikel III, onderdeel F, van die wet in werking treedt.
+3. In afwijking van het eerste lid treedt artikel X in werking op het tijdstip waarop het bij koninklijke boodschap van 3 april 2014 ingediende voorstel van wet tot wijziging van de Wet op de bedrijfsorganisatie en andere wetten in verband met de opheffing van de bedrijfslichamen (Wet opheffing bedrijfslichamen) (Kamerstukken 33 910) tot wet is of wordt verheven en artikel II van die wet in werking treedt.
