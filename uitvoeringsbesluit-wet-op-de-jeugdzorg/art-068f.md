@@ -1,7 +1,0 @@
-# Artikel 68f
-1. De statuten van de registerstichting voorzien in een raad van advies, bestaande uit leden die in ieder geval organisaties van werkgevers en cliënten vertegenwoordigen.
-2. De raad van advies heeft in ieder geval het recht advies uit te brengen over:
-a. de voorwaarden voor registratie en herregistratie;
-b. een aanwijzing als bedoeld in artikel 68d, tweede lid;
-c. de samenstelling van de raad van advies.
-3. De statuten voorzien erin dat van een door de raad van advies uitgebracht advies slechts schriftelijk en gemotiveerd kan worden afgeweken nadat over het advies een op overeenstemming gericht overleg heeft plaatsgevonden.

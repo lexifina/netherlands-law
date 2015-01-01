@@ -1,2 +1,0 @@
-# Artikel 24g
-Onze Minister kan op aanvraag middelen verschaffen waarmee de geautoriseerde toegang kan verkrijgen tot de SBV-Z. De artikelen 18 tot en met 25 en 33 van het Besluit gebruik burgerservicenummer in de zorg zijn van overeenkomstige toepassing op de aanvraag, het overleggen van gegevens en bescheiden, de verstrekking, de vergoeding, het gebruik, de intrekking, geldigheidsduur en eigendom van toegangsmiddelen, met dien verstande dat daarbij onder «geregistreerde» verstaan wordt: geautoriseerde.

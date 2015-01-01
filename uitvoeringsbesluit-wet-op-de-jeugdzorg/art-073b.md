@@ -1,5 +1,0 @@
-# Artikel 73b
-1. De uitkering bureau jeugdzorg bestaat uit de som van de volgende bedragen:
-a. een bedrag voor de uitvoering van de jeugdbeschermings- en reclasseringstaken, op basis van het aantal minderjarigen voor wie de stichting deze taken heeft uitgevoerd in het jaar voorafgaand aan het jaar waarvoor de uitkering wordt verstrekt en de daartoe vastgestelde normbedragen, en
-b. een bedrag voor de uitvoering van de overige wettelijke taken, dat overeenkomt met het verschil tussen het bedrag dat de provinciebesturen ontvingen in het jaar voorafgaande aan het jaar waarin de uitkering wordt verstrekt en het bedrag bedoeld in artikel 73e, vermeerderd met een door Onze Ministers vast te stellen bedrag, dat is gerelateerd aan de uitvoering door de stichting van de taak, bedoeld in artikel 5, tweede lid, onder b, van de wet, en de uitvoering door de stichting van de taak, bedoeld in artikel 5 van de wet.
-2. De normbedragen, bedoeld in het eerste lid, onder a, worden per onderscheiden taak vastgesteld bij regeling van Onze Ministers.

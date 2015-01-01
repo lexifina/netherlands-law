@@ -1,4 +1,0 @@
-# Artikel 1i
-1. Indien voor een melding aan de verwijsindex gebruik wordt gemaakt van een gemeentelijk signaleringssysteem, draagt het college van burgemeester en wethouders zorg voor een zorgvuldige en veilige aansluiting daarvan op de verwijsindex.
-2. Indien voor een melding aan de verwijsindex gebruik wordt gemaakt van een ander digitaal systeem dan een gemeentelijk signaleringssysteem, draagt de daarvoor verantwoordelijke in de zin van de Wet bescherming persoonsgegevens zorg voor een zorgvuldige en veilige aansluiting daarvan op de verwijsindex.
-3. Een aansluiting als bedoeld in het eerste of tweede lid wordt vermoed voldoende zorgvuldig en veilig te zijn als het voldoet aan de eisen zoals deze zijn uitgegeven door het Nederlands Normalisatie-instituut in de NTA 8023, Maatschappelijke zorg – Informatiearchitectuur in de jeugdsector – Deel 1: Landelijke verwijsindex risicojongeren.

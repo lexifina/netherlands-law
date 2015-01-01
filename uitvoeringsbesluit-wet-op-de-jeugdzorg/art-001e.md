@@ -1,4 +1,0 @@
-# Artikel 1e
-1. Als categorieën van instanties als bedoeld in artikel 2b, eerste lid, onder a, van de wet in het domein maatschappelijke ondersteuning worden aangewezen de instanties voor maatschappelijke ondersteuning als bedoeld in artikel 1, eerste lid, onder g, onder 2°, 3°, 6°, 7° en 9°, van de Wet maatschappelijke ondersteuning.
-2. Een functionaris die werkzaam is voor een instantie als bedoeld in het eerste lid, kan door die instantie slechts worden aangewezen als meldingsbevoegde indien zijn beroep hoofdzakelijk bestaat uit het verlenen van hulp, zorg of bijsturing aan jeugdigen.
-3. Als categorie van instanties als bedoeld in artikel 2b, eerste lid, onder a, van de wet in het domein maatschappelijke ondersteuning worden tevens gemeenten voor zover het betreft de coördinatie van doelgroepenbeleid voor jeugdigen aangewezen.
