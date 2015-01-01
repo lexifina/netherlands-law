@@ -1,5 +1,0 @@
-# Artikel 10b. Betaling voorschot
-1. De Minister van SZW stort op de rekening-courant, bedoeld in artikel 5.16, onderdeel a, van de Regeling Wfsv, een periodiek voorschot op het bedrag, bedoeld in artikel 10a, van:
-a. geraamde uitkeringslasten met als valutadatum de eerste dag van elke maand, en
-b. 1/12de deel van de geraamde uitvoeringskosten met als valutadatum de vijftiende dag van elke maand.
-2. De Minister van SZW kan, na overleg met de SVB, van de in het eerste lid, onderdelen a en b, bedoelde bedragen afwijken.

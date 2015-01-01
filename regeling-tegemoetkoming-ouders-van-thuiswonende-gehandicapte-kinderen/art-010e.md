@@ -1,3 +1,0 @@
-# Artikel 10e. Afrekening
-1. In de jaarrekening, bedoeld in artikel 49 van de Wet SUWI, worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in artikel 10b, eerste lid, uitgesplitst naar tegemoetkomingen als bedoeld in artikel 5, en extra tegemoetkomingen als bedoeld in artikel 5a en uitvoeringskosten, met betrekking tot deze regeling opgenomen.
-2. Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen, rekent de Minister van SZW de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.
