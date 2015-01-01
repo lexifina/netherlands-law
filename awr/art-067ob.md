@@ -1,0 +1,3 @@
+# Artikel 67ob
+1. De bevoegdheid om aan een ander dan de belastingplichtige of inhoudingsplichtige een bestuurlijke boete als bedoeld in de artikelen 67a, eerste lid, en 67d, eerste lid, op te leggen vervalt door verloop van drie jaren na het einde van het kalenderjaar waarin de overtreding heeft plaatsgevonden.
+2. De bevoegdheid om aan een ander dan de belastingplichtige of inhoudingsplichtige een bestuurlijke boete als bedoeld in de artikelen 67c, tweede lid, 67e, eerste lid, en 67f, derde lid, op te leggen vervalt door verloop van vijf jaren na het einde van het kalenderjaar waarin de overtreding heeft plaatsgevonden.

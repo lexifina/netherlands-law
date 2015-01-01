@@ -1,9 +1,9 @@
 # Artikel 20b
 1. In afwijking van artikel 20a, eerste lid, wordt indien de werknemer vóór 1 januari 1946 is geboren, de belasting over een loontijdvak van een jaar bepaald aan de hand van de volgende tabel (tarieftabel voor werknemers geboren vóór 1 januari 1946).
-Bij een belastbaar loon van meer dan | maar niet meer dan | bedraagt de belasting het in kolom III vermelde bedrag, vermeerderd met het bedrag dat wordt berekend door het in kolom IV vermelde percentage te nemen van het gedeelte van de het belastbare loon dat het in kolom I vermelde bedrag te boven gaat
+Bij een belastbaar loon van meer dan | maar niet meer dan | bedraagt de belasting het in kolom III vermelde bedrag, vermeerderd met het bedrag dat wordt berekend door het in kolom IV vermelde percentage te nemen van het gedeelte van het belastbare loon dat het in kolom I vermelde bedrag te boven gaat
 I | II | III | IV
-– | € 19.645 | – | 5,10%
-€ 19.645 | € 33.555 | € 1.001 | 10,85%
-€ 33.555 | € 56.531 | € 2.510 | 42%
-€ 56.531 | – | € 12.159 | 52%
+– | € 19.822 | – | 8,35%
+€ 19.822 | € 33.857 | € 1.655 | 13,85%
+€ 33.857 | € 57.585 | € 3.598 | 42,00%
+€ 57.585 | – | € 13.563 | 52,00%
 2. De in het eerste lid vermelde bedragen worden bij het begin van het kalenderjaar van rechtswege vervangen door de bedragen die krachtens artikel 10.1 van de Wet inkomstenbelasting 2001 worden vastgesteld ter vervanging van de in artikel 2.10a, eerste lid, van die wet vermelde bedragen.

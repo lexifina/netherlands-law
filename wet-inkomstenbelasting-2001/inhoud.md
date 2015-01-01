@@ -56,11 +56,12 @@
 ### Afdeling 5.1. Belastbaar inkomen uit sparen en beleggen
 ### Afdeling 5.2. Vrijstellingen
 ### Afdeling 5.3. Groene beleggingen
+### Afdeling 5.3A. Vrijstelling nettolijfrenten
+### Afdeling 5.3B. Vrijstelling nettopensioen
 ### Afdeling 5.4. Waardering
 ## Hoofdstuk 6. Persoonsgebonden aftrek
 ### Afdeling 6.1. Persoonsgebonden aftrek
 ### Afdeling 6.2. Onderhoudsverplichtingen
-### Afdeling 6.4. Uitgaven voor levensonderhoud van kinderen
 ### Afdeling 6.5. Uitgaven voor specifieke zorgkosten
 ### Afdeling 6.6. Weekenduitgaven voor gehandicapten
 ### Afdeling 6.7. Scholingsuitgaven
@@ -72,6 +73,7 @@
 ### Afdeling 7.2. Belastbaar inkomen uit werk en woning
 ### Afdeling 7.3. Belastbaar inkomen uit aanmerkelijk belang
 ### Afdeling 7.4. Belastbaar inkomen uit sparen en beleggen
+### Afdeling 7.5. Kwalificerende buitenlandse belastingplichtigen
 ## Hoofdstuk 8. Heffingskorting
 ### Afdeling 8.1. Aansluiting belasting- en premieheffing
 ### Afdeling 8.2. Elementen van de standaardheffingskorting
