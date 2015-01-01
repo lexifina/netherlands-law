@@ -9,7 +9,7 @@
 ## Hoofdstuk 3. Algemene bijstand
 ### § 3.1. Algemeen
 ### § 3.2. Normen
-### § 3.3. Verhoging en verlaging
+### § 3.3. Verlaging
 ### § 3.4. Middelen
 ## Hoofdstuk 4. Aanvullende inkomensondersteuning en aanpassing bedragen
 ### § 4.1. Bijzondere bijstand
