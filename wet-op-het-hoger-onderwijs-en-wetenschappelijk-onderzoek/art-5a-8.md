@@ -12,3 +12,4 @@ d. de deugdelijkheid van beoordeling, toetsing en examinering van de studenten,
 e. de kwaliteit en kwantiteit van het ingezette personeel alsmede het personeelsbeleid dat van invloed is op de kwaliteit van de opleiding,
 f. de opleidingsspecifieke voorzieningen alsmede de instellingsbrede voorzieningen die van invloed zijn op de kwaliteit van de opleiding daaronder mede begrepen voldoende studiebegeleiding en voorzieningen die de toegankelijkheid en studeerbaarheid voor studenten met een functiebeperking bevorderen, en
 g. de opzet en organisatie van de interne kwaliteitszorg gericht op de systematische verbetering van de opleiding.
+3. De beoordeling van de aanvraag om accreditatie verricht het accreditatieorgaan gezamenlijk en in dezelfde periode voor alle opleidingen die tot een visitatiegroep behoren en waarvoor de termijn van een verleende accreditatie binnen één jaar verstrijkt of waarvoor een besluit toets nieuwe opleiding binnen één jaar vervalt.
