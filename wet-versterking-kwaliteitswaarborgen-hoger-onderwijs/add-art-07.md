@@ -1,0 +1,2 @@
+# Artikel VII. Inwerkingtreding
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat artikel I, onderdelen A, Q1, Q2, en Y, en artikel III, onderdelen H tot en met J, geheel of gedeeltelijk kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip.
