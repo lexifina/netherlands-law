@@ -1,0 +1,7 @@
+# Artikel 21a
+1. Onze Minister verleent aan een landbouwer, die in het kalenderjaar 2013 melkvee hield een melkveefosfaatreferentie, uitgedrukt in kilogrammen fosfaat. De melkveefosfaatreferentie vermeldt het bedrijf waarvoor de melkveefosfaatreferentie wordt afgegeven.
+2. De melkveefosfaatreferentie wordt berekend door de forfaitaire productie van dierlijke meststoffen door melkvee in het kalenderjaar 2013 op het bedrijf te verminderen met de fosfaatruimte van dat bedrijf in 2013. Bij de berekening volgens de eerste volzin wordt elk resultaat dat negatief is, op nul gesteld.
+3. Indien een landbouwer aantoont dat door bedrijfsoverdrachten tussen 1 januari 2013 en 1 november 2014, een lagere melkveefosfaatreferentie wordt afgegeven dan wanneer deze bedrijfsoverdrachten zouden zijn betrokken bij de berekening, bedoeld in het eerste lid, wordt de melkveefosfaatreferentie met inachtneming van deze bedrijfsoverdrachten vastgesteld.
+4. De forfaitaire productie van dierlijke meststoffen door melkvee wordt vastgesteld overeenkomstig de regels, bedoeld in artikel 35.
+5. De melkveefosfaatreferentie kan worden overgedragen aan een landbouwer waarmee bloed- of aanverwantschap in de eerste, tweede of derde graad bestaat voor het bedrijf waarvoor de melkveefosfaatreferentie is afgegeven.
+6. De melkveefosfaatreferentie gaat over aan degene die het bedrijf waarvoor deze melkveefosfaatreferentie is afgegeven bij erfopvolging verkrijgt.
