@@ -1,0 +1,2 @@
+# Artikel VIII
+Op een regeling die op het tijdstip van inwerkingtreding van artikel I, onderdeel F, van deze wet bepaalt dat het bestuur van het openbaar lichaam onderscheidenlijk het gemeenschappelijk orgaan kan besluiten tot uitbreiding van de overgedragen bevoegdheden, blijft artikel 10, tweede lid, tweede volzin, zoals dat luidde voor inwerkingtreding van artikel I, onderdeel F, tot uiterlijk een jaar na inwerkingtreding van toepassing.

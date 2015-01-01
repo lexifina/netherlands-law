@@ -1,0 +1,2 @@
+# Artikel IX
+Op een algemeen bestuur dat op het tijdstip van inwerkingtreding van artikel I, onderdeel I, van deze wet niet voldoet aan artikel 13, eerste lid, eerste en tweede volzin, zoals dat luidt na inwerkingtreding van artikel I, onder I, blijft artikel 13, eerste lid, eerste volzin, zoals dat luidde voor inwerkingtreding van artikel I, onderdel I, tot uiterlijk een jaar na inwerkingtreding van toepassing.
