@@ -1,0 +1,2 @@
+# I. Inleiding
+De wettelijke taak van het CAK is het vaststellen en innen van de eigen bijdrage (artikel 49 AWBZ en artikel 16 Wmo). Per 1 januari 2013 volgt uit het Bijdragebesluit zorg (Bbz, artt. 3a, 11a en 16c) en uit het Besluit maatschappelijke ondersteuning (Bmo, artt. 4.1b en 4.4a), dat indien het CAK de eigen bijdrage vaststelt of herziet binnen 24 maanden nadat de voor die actie benodigde gegevens zijn ontvangen, er geen begrenzing is aan de periode waarover de (herziene) eigen bijdrage kan worden vastgesteld of herzien.

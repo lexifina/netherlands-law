@@ -1,0 +1,2 @@
+# III. Inhoud van de beleidsregel
+Indien u een eigen bijdrage verschuldigd bent en het CAK deze binnen de wettelijke termijn van 24 maanden na ontvangst van uw gegevens vaststelt of herziet, stelt het CAK de ingangsdatum van de periode waarover de eigen bijdrage moet worden betaald niet op een datum die is gelegen meer dan 36 maanden voor de dag waarop het besluit, waarin de bijdrage wordt vastgesteld, aan u is verzonden.

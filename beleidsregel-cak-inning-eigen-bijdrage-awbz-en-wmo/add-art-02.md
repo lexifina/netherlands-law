@@ -1,0 +1,2 @@
+# II. Doelstelling van de beleidsregel
+Het CAK vindt het, in verband met de rechtszekerheid van degene die zorg of ondersteuning ontvangt, onwenselijk dat degene die de eigen bijdrage verschuldigd is, als gevolg van een late aanlevering van gegevens, over een periode langer dan 3 zorgjaren een eigen bijdrage dient te betalen. Daarom wordt er door middel van deze beleidsregel voorzien in een inperking van terugwerkende kracht van de innings- of invorderingtermijn die daarbij door het CAK wordt gehanteerd.
