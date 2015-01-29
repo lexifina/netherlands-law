@@ -1,0 +1,4 @@
+# Artikel 25i
+1. De bevoegdheid tot het instellen van kostenverhaal, bedoeld in artikel 25c, eerste lid, verjaart door verloop van een periode van drie jaar na de dag waarop de bestrijdingsacties zijn aangevangen of na de dag waarop de partij die de vordering instelt op de hoogte was of redelijkerwijze geacht kon worden op de hoogte te zijn van de identiteit van organisator, naar gelang welke datum later valt.
+2. In geen geval wordt een vordering, bedoeld in het eerste lid, later ingesteld dan vijftien jaar na aanvang van de bestrijdingsacties.
+3. De bevoegdheid tot het instellen van een vordering, bedoeld in artikel 25c, tweede lid, of artikel 25h verjaart door verloop van een periode van vijftien jaar na de dag waarop de partij, bedoeld in artikel 25c, tweede lid, of artikel 25h op de hoogte was van de milieubedreigende noodsituatie.

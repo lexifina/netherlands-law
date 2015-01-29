@@ -1,0 +1,2 @@
+# Artikel 25h
+Indien een andere partij heeft vastgesteld dat een natuurlijke of rechtspersoon, die in het Antarctisch gebied een activiteit uitvoert of organiseert, aansprakelijk is voor een bedrag als bedoeld in artikel 25c, tweede lid, kunnen Onze Ministers op verzoek van die partij ten behoeve van het fonds betaling daarvan vorderen, mits die natuurlijke of rechtspersoon in Nederland is gevestigd of er zijn voornaamste plaats van bedrijfsuitoefening of zijn gewone verblijfplaats heeft. Artikel 25c is van overeenkomstige toepassing.

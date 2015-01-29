@@ -1,0 +1,4 @@
+# Artikel 7a
+1. De organisator stelt voorafgaand aan elke activiteit een rampenplan op.
+2. Bij het opstellen en tenuitvoerleggen van een rampenplan, bedoeld in het eerste lid, werkt de organisator zoveel mogelijk samen met elke partij of andere natuurlijke of rechtspersoon die in het desbetreffende gebied een activiteit organiseert of uitvoert. Voor de uitvoering van het rampenplan, bedoeld in het eerste lid, is de organisator niet afhankelijk van de ondersteuning door partijen of andere organisatoren, tenzij hij aantoont dat deze zich daartoe in een schriftelijke overeenkomst hebben verbonden.
+3. Voor zover de activiteit plaatsvindt aan boord van een schip of een luchtvaartuig, kan de organisator volstaan met het aantonen dat het rampenplan, bedoeld in het eerste lid, door een ander dan de organisator is opgesteld.
