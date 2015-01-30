@@ -1,0 +1,3 @@
+# Artikel II
+1. Binnen dertig dagen nadat deze wet in werking is getreden, verstrekken burgemeester en wethouders van 's-Gravenhage aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties de gegevens van het bestand, bedoeld in artikel D 3a, eerste lid, van de Kieswet, zoals dat lid luidde voordat deze wet in werking treedt, voor zover het de registratie betreft van ingezetenen van Aruba, Curaçao en Sint Maarten.
+2. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties neemt de gegevens, bedoeld in het eerste lid, op in het bestand, bedoeld in artikel D 3c, tweede lid, van de Kieswet.
