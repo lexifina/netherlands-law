@@ -1,3 +1,0 @@
-# Artikel 7d. Afrekening
-1. In de jaarrekening, bedoeld in artikel 49 van de Wet SUWI, worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in artikel 7c, eerste lid, uitgesplitst naar lasten inkomensondersteuning en uitvoeringskosten van de toekenning van inkomensondersteuning opgenomen.
-2. Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen, rekent de Minister de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.
