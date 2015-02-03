@@ -1,0 +1,2 @@
+# Artikel II
+Ten aanzien van bezwaarschriften en beroepschriften die voor inwerkingtreding van dit besluit zijn ingediend in het kader van de Regeling ammoniak en veehouderij heeft de directeur-generaal Rijksdienst voor Ondernemend Nederland van het ministerie van Economische Zaken na inwerkingtreding van dit besluit geen bevoegdheid die bezwaarschriften te behandelen of een procedure naar aanleiding van die beroepschriften bij de rechter te voeren.
