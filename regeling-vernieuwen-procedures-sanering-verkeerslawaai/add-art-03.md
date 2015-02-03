@@ -1,0 +1,4 @@
+# Artikel III
+1. Indien aan een subsidieaanvrager subsidie is verleend op grond van artikel 7 van de Subsidieregeling sanering verkeerslawaai zoals genoemde regeling luidde tot het tijdstip van inwerkingtreding van deze regeling, wordt die subsidie vastgesteld op grond van artikel 25, eerste lid, van de Subsidieregeling sanering verkeerslawaai, zoals deze luidt na de onderhavige wijziging, indien het overeenkomstig dit artikel berekende subsidiebedrag 18% of meer van het bedrag van de subsidieverlening voor de maatregelen bedraagt.
+2. Deze regeling treedt in werking met ingang van de dag dat deze in de Staatscourant wordt geplaatst en werkt met betrekking tot artikel I terug tot en met 1 januari 2015.
+Dit besluit wordt aangehaald als: Regeling vernieuwen procedures sanering verkeerslawaai.
