@@ -42,8 +42,15 @@
 #### Afdeling 1.6.1. Vergunningen
 #### Afdeling 1.6.1a. Verklaringen van geen bezwaar als bedoeld in artikel 3:95 en 3:96
 #### Afdeling 1.6.2. Registratie
-### Hoofdstuk 1.7. Overeenkomstige toepassing bevoegdheden aanpassing en terugvordering bonussen bij financiële ondernemingen
-### Hoofdstuk 1.8. Beloningen van dagelijks beleidsbepalers bij steunmaatregelen
+### Hoofdstuk 1.7. Beloningsbeleid
+#### Afdeling 1.7.1. Definities en reikwijdte
+#### Afdeling 1.7.2. Beheerst beloningsbeleid
+#### Afdeling 1.7.3. Publicatie- en informatieverplichtingen
+#### Afdeling 1.7.4. Maximale variabele beloning
+#### Afdeling 1.7.5. Verbod op gegarandeerde variabele beloningen
+#### Afdeling 1.7.6. Maximale vertrekvergoeding
+#### Afdeling 1.7.7. Terugvordering en aanpassing van variabele beloningen
+#### Afdeling 1.7.8. Verbod op variabele beloning bij staatssteun
 ## 2. Deel Markttoegang Financiële Ondernemingen
 ### Hoofdstuk 2.1. Inleidende bepalingen
 ### Hoofdstuk 2.2. Toegang tot de Nederlandse financiële markten
