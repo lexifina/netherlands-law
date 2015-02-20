@@ -1,0 +1,2 @@
+# Artikel 6a.3
+De artikelen 4.1, derde lid, 4.2, 4.5, 6a.1 en 6a.2 zijn niet van toepassing indien de overeenkomst tussen de payrollwerkgever en de opdrachtgever op initiatief van de payrollwerkgever wordt beëindigd, omdat de opdrachtgever de financiële verplichtingen die voortvloeien uit de overeenkomst gedurende een periode van ten minste drie maanden in het geheel niet is nagekomen en de payrollwerkgever in voldoende mate heeft getracht nakoming van de overeenkomst af te dwingen.
