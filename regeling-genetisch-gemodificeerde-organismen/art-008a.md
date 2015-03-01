@@ -1,5 +1,0 @@
-# Artikel 8a
-1. Degene die een inrichting drijft als bedoeld in bijlage I, onder C, onder 21.1, van het Besluit omgevingsrecht voldoet aan de voorschriften die zijn opgenomen in bijlage 4 bij deze regeling. Voor de toepassing van die bijlage geldt, in plaats van een voor het tijdstip waarop dit besluit in werking is getreden, in de vergunning aangegeven categorie van fysische inperking, de daarbij in bijlage 4a aangegeven categorie, tenzij door het bevoegd gezag in het kader van de Wet milieubeheer – met ingang van of na dat tijdstip – in de vergunning een andere categorie is aangegeven.
-2. De Minister kan nadere eisen stellen met betrekking tot de in bijlage 4 geregelde onderwerpen.
-3. De nadere eisen gelden voor een ieder die de inrichting drijft. Deze draagt er zorg voor dat de nadere eisen worden nageleefd.
-4. De Minister kan de nadere eisen wijzigen of aanvullen in het belang van de bescherming van het milieu, of wijzigen of intrekken, indien het belang van de bescherming van het milieu zich daartegen niet verzet.

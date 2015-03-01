@@ -1,5 +1,0 @@
-# Artikel 4a
-1. De vergunninghouder voorziet in de aanwijzing van een verantwoordelijk medewerker per groep van activiteiten waarvan kennisgeving is gedaan of waarvoor een vergunning is verleend, en per samenhangende groep van activiteiten van categorie A.
-2. De vergunninghouder belast de verantwoordelijk medewerker, bedoeld in het eerste lid met de dagelijkse leiding van de activiteiten, bedoeld in het eerste lid en het opstellen van werkprotocollen, en draagt zorg voor de uitvoering daarvan.
-3. De vergunninghouder voorziet, voor zover deze regeling daarin niet voorziet, in een verdeling van taken en verantwoordelijkheden tussen de biologische-veiligheidsfunctionaris en de verantwoordelijk medewerker, bedoeld in het eerste lid en, indien van toepassing, tussen de biologische-veiligheidsfunctionarissen onderling.
-4. De vergunninghouder zorgt dat medewerkers activiteiten met genetisch gemodificeerde organismen uitvoeren overeenkomstig de wettelijke bepalingen en daarop gebaseerde interne procedures en voorschriften en geeft de verantwoordelijk medewerker, bedoeld in het eerste lid de hiervoor benodigde instructies.
