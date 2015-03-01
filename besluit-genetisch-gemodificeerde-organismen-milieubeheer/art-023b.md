@@ -1,2 +1,0 @@
-# Artikel 23b
-Zodra Onze Minister op de hoogte is van de introductie in het milieu van genetisch gemodificeerde organismen zonder een vergunning, geeft hij daarvan kennis in een van overheidswege uitgegeven blad, in een of meer dag-, nieuws- of huis-aan-huis-bladen of op andere geschikte wijze, alsmede aan de Commissie van de Europese Gemeenschappen en aan de andere lidstaten van de Europese Unie.
