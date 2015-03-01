@@ -167,6 +167,10 @@
 #### afdeling Eerste. Algemene bepalingen
 #### afdeling Tweede. Erkenning en tenuitvoerlegging van buitenlandse toezichtbeslissingen in Nederland
 #### afdeling Derde. Erkenning en tenuitvoerlegging van Nederlandse bevelen tot schorsing van de voorlopige hechtenis in het buitenland
+### Titel 4. Europees beschermingsbevel
+#### afdeling Eerste. Algemene bepalingen
+#### afdeling Tweede. Europees beschermingsbevel uitgevaardigd door de bevoegde autoriteit van een andere lidstaat van de Europese Unie
+#### afdeling Derde. Europees beschermingsbevel uitgevaardigd door de bevoegde autoriteit van Nederland
 ## Boek Zesde. Tenuitvoerlegging en kosten
 ### Titel I. Tenuitvoerlegging
 #### afdeeling Eerste. Algemeene bepalingen
