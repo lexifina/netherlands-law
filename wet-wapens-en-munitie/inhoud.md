@@ -3,6 +3,7 @@
 ## § 2. Erkenning
 ## § 3. Bepalingen voor wapens van categorie I
 ## § 4. Binnenkomen en uitgaan van wapens en munitie van de categorieën II en III
+## § 4a. Uitvoer van vuurwapens en munitie opgenomen in bijlage I van verordening (EU) nr. 258/2012
 ## § 5. Vervoer van wapens en munitie van de categorieën II en III
 ## § 6. Voorhanden hebben en dragen van wapens en munitie van de categorieën II, III en IV
 ## § 7. Overdracht en verkrijging van wapens en munitie van de categorieën II, III en IV
