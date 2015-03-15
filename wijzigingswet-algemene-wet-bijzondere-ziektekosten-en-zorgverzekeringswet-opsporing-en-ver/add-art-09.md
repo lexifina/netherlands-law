@@ -1,0 +1,4 @@
+# Artikel IX
+1. Indien een meerderjarige verzekeringsplichtige op de datum van inwerkingtreding van dit artikel krachtens meer dan een zorgverzekering verzekerd is, eindigen deze zorgverzekeringen, met uitzondering van de eerstgesloten verzekering, met ingang van die datum.
+2. Indien een minderjarige verzekeringsplichtige op de datum van inwerkingtreding van dit artikel krachtens meer dan een zorgverzekering verzekerd is, eindigen deze zorgverzekeringen, met uitzondering van een door degene of degenen die het gezag over de minderjarige uitoefent of gezamenlijk uitoefenen aangewezen zorgverzekering, met ingang van die datum.
+3. Indien het gezag over een minderjarige door meer dan één persoon gezamenlijk wordt uitgeoefend en deze personen niet tot een aanwijzing als bedoeld in het tweede lid komen, bepaalt de persoon tot wiens huishouden het kind behoort, welke zorgverzekering als enige voor de minderjarige blijft voortbestaan.
