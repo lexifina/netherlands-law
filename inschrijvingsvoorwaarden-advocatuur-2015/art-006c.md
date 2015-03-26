@@ -1,0 +1,16 @@
+# Artikel 6c. Deskundigheidsvereisten voor de rechtsbijstandverlening aan psychiatrische patiënten
+De vereisten voor toevoegingen op het rechtsgebied psychiatrisch patiëntenrecht zijn:
+1. het voltooid hebben van de stage, en
+2. het met succes gevolgd hebben van een door de Raad goedgekeurde opleiding op het gebied van het psychiatrische patiëntenrecht, en
+3. onder begeleiding van een minimaal drie jaar op het terrein van het psychiatrische patiëntenrecht ingeschreven rechtsbijstandverlener behandeld hebben van 4 zaken, waarvan tenminste 1 maal een inbewaringstelling en 1 maal een rechterlijke machtiging en het meelopen met een patiëntenvertrouwenspersoon van 1 maal een beklagzaak op grond van artikel 41 Wet BOPZ. Het aantal van 4 zaken moet zijn meegelopen met minimaal 2 verschillende (aan het BOPZ piketrooster deelnemende) advocaten.
+De vereisten voor de voortgezette inschrijving op het rechtsgebied psychiatrisch patiëntenrecht zijn:
+1. de behandeling van tenminste 15 zaken in het afgelopen jaar op basis van een toevoeging, en
+2. het desgevraagd kunnen overleggen van certificaten van het behalen van tenminste 6 studiepunten per twee jaar op het gebied van het psychiatrische patiëntenrecht, en
+3. actieve deelname aan de landelijke werkgroep of regionale werkgroepen betreffende het psychiatrische patiëntenrecht. Jaarlijks dient tenminste de helft van het aantal bijeenkomsten te worden gevolgd, met een minimum van twee.
+4. te handelen naar de eisen van zorgvuldige en doelmatige rechtsbijstandverlening. In dat kader volgt de advocaat in zijn praktijkvoering de eisen die voortvloeien uit minimumnormen. Minimumnormen zijn opgenomen in de Best Practice Guide Gedwongen opname en behandeling van psychiatrische patiënten/cliënten.
+5. Medewerking te verlenen aan het begeleiden van rechtsbijstandverleners die zich in wensen te schrijven voor dit rechtsgebied.
+De advocaat die ingeschreven staat voor de verlening van rechtsbijstand aan psychiatrisch patiënten stemt ermee in dat, indien zijn deelname op dit terrein eindigt, de Raad nieuwe zaken van zijn stam cliënten verdeelt over andere ingeschreven advocaten. De advocaat behoort geen afspraken te maken op basis waarvan nieuwe zaken van deze cliënten toe zouden vallen aan specifieke advocaten.
+De extra vereisten voor deelname aan het psychiatrische patiëntenpiket zijn:
+1. dat wordt voldaan aan de vereisten voor de toelating en de voortgezette inschrijving, en
+2. dat minimaal 1 maal per jaar aan het piket wordt deelgenomen en bij voorkeur 2 maal per jaar.
+In verband met het noodzakelijke onderhouden van de ervaring wordt waar nodig een wachtlijst voor deelname gehanteerd. Belangstellenden voor toelating tot het psychiatrische patiëntenpiket worden op datum van aanmelding geregistreerd. Nieuwe toelating vindt pas plaats als het aantal zaken per deelnemende rechtsbijstandverlener in een jaar gemiddeld niet onder 15 toevoegingen daalt. Mogelijke toelating wordt door de Raad aangekondigd als het volgen van een cursus, die vereist is voor de toelating, mogelijk is. Om zich te laten registreren op de wachtlijst behoeft de rechtsbijstandverlener nog niet aan de gestelde inschrijvingsvereisten te voldoen. Wel moet de rechtsbijstandverlener de stage voltooid hebben.
