@@ -131,6 +131,7 @@ h. artikel 6.15, eerste lid, voor zover de herziening uitsluitend betrekking hee
 Wet toezicht financiële verslaggeving: de artikelen 2, eerste lid, 3, eerste en tweede lid, 4, 9, 12 en 30
 Wet van 18 december 2008 tot wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens) (Stb. 2008, 561): artikel X
 Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen: artikel 30, tweede lid
+Wet vervoer gevaarlijke stoffen: de artikelen 13, eerste lid, en 14, eerste, tweede en vierde lid
 Wet werk en inkomen kunstenaars: artikel 14
 Zorgverzekeringswet:
 a. artikel 9a
