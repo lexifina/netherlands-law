@@ -1,6 +1,0 @@
-# Artikel 10b
-1. Een gemeente, stadsdeel/deelgemeente of samenwerkingsverband, die nog geen voucher heeft ontvangen, kan een aanvraag voor een voucher als bedoeld in de artikelen 2 en 3 indienen in de periode die aanvangt op het tijdstip waarop dit artikel in werking treedt en eindigt op 31 december 2013. In dezelfde periode kan een gemeente, stadsdeel/deelgemeente of samenwerkingsverband, die al een voucher heeft ontvangen als bedoeld in artikel 2, alsnog een aanvraag indienen voor een voucher als bedoeld in artikel 3.
-2. In de in het eerste lid genoemde periode kan een aanvraag voor een voucher als bedoeld in de artikelen 2 en 3 worden ingediend door een provincie, waterschap en ieder samenwerkingsverband als bedoeld in de Wet gemeenschappelijke regelingen.
-3. Het verstrekkingsplafond als bedoeld in artikel 10, eerste lid, bedraagt voor vouchers, aangevraagd in de in het eerste lid genoemde periode: € 300.000,–.
-4. Een verzoek om uitbetaling van de tegenwaarde van een voucher als bedoeld in artikel 8, vierde lid, dient uiterlijk op 31 december 2014 te zijn ontvangen; de minister beslist afwijzend op een verzoek om uitbetaling van de voucher indien deze na 31 december 2014 is ontvangen.
-5. De bepalingen van deze regeling waarvan niet in dit artikel is afgeweken, zijn van overeenkomstige toepassing.
