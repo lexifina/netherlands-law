@@ -1,0 +1,2 @@
+# Article 32 bis
+This Convention shall not prevent the application of greater facilities which Contracting Parties grant or may wish to grant, either by unilateral provisions or in virtue of bilateral or multilateral agreements, provided that such facilities do not impede the application of the provisions of this Convention. The Contracting Parties are recommended to waive the request for temporary importation papers and guarantees.
