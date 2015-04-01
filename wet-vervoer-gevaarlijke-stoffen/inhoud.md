@@ -3,12 +3,11 @@
 ### § 1. Begripsbepalingen
 ### § 2. Reikwijdte
 ## Hoofdstuk II. Algemene bepalingen
-## Hoofdstuk III. Routering
-### § 1. Algemeen
-### § 2. Aanwijzing van stoffen
-### § 3. Aanwijzing van wegen
-### § 4. Aanwijzing van vaarwegen
-### § 5. Aanwijzing van spoorwegen
+## Hoofdstuk III. Het basisnet
+### Paragraaf 1. Algemene bepalingen
+### Paragraaf 2. Normen voor het basisnet
+### Paragraaf 3. Beheersing van het risico
+## Hoofdstuk IIIa. Routering
 ## Hoofdstuk IV. Handhaving
 ### § 1. Toezicht
 ### § 2. Opsporing
