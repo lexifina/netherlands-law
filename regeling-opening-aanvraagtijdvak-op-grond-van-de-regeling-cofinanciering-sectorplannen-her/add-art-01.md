@@ -1,0 +1,2 @@
+# Artikel I
+Voor de periode van 1 april 2015 tot 15 september 2015 wordt een aanvraagtijdvak geopend voor een plan ten behoeve van de gemeentelijke sociale werkvoorziening. Voor dit plan is € 30 miljoen beschikbaar, uit te keren als decentralisatie-uitkering als bedoeld in artikel 5 van de Financiële-verhoudingswet, aan centrumgemeenten als genoemd in bijlage 1 bij de Regeling cofinanciering sectorplannen. Op deze decentralisatie-uitkering zijn de bepalingen uit hoofdstuk 2, 4 en 5 van de Regeling cofinanciering sectorplannen niet van toepassing.
