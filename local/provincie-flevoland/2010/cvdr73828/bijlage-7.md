@@ -30,7 +30,7 @@ In dat geval kunnen Gedeputeerde Staten, op basis van het in artikel 4.1.2.4, tw
 7. De vlotjes worden, voor zover zij niet langer door de Zwarte stern gebruikt worden, uiterlijk op 1 september uit het water gehaald, schoongemaakt, gedroogd en opgeslagen.
 8. De begunstigde houdt bij op hoeveel vlotjes gebroed wordt en hoeveel jongen er uit komen. Deze gegevens worden door de begunstigde na afloop van het broedseizoen ter beschikking gesteld aan de werkgroep, bedoeld in punt 6.
 Subonderdeel 4 (ruige stalmest)
-1. Op de beheereenheid wordt een agrarisch beheerpakket uitgevoerd dat in bijlage 3, onderdeel B.1, is opgenomen onder de aanduiding A01.01.01, A01.01.02, of A01.01.05.
+1. Op de beheereenheid wordt in het betreffende beheerjaar een agrarisch beheerpakket uitgevoerd dat in bijlage 3, onderdeel B.1, is opgenomen onder de aanduiding A01.01.01, A01.01.02, A01.01.04 voor zover dat beheerpakket op grasland wordt uitgevoerd, A01 .01.05 of A01.01.06
 2. Op de beheereenheid wordt in een kalenderjaar ten minste 10 en maximaal 20 ton ruige stalmest per hectare uitgereden.
 3. De ruige stalmest wordt in één keer in één van de onderstaande periodes op een beheereenheid uitgereden:
 a. tussen 1 februari en de begindatum van de rustperiode van het betreffende agrarische beheerpakket, óf
