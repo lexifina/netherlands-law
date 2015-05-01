@@ -23,9 +23,10 @@
 ### Afdeling 3. Uitvoeringsfonds voor de overheid
 ### Afdeling 4. Arbeidsongeschiktheidsfonds en Werkhervattingskas
 #### § 1. Premies en rijksbijdragen ten gunste van de fondsen
-#### § 2. Premieplicht werkgever
+#### § 2. Premieplicht en quotumheffing werkgever
 #### § 3. Maatstaf
 #### § 4. Tarief
+#### § 4a. Quotumheffing
 #### § 5. Rijksbijdrage
 ### Afdeling 5. Eigenrisicodragen
 ### Afdeling 6. Premiekortingen en premievrijstelling

@@ -1,0 +1,2 @@
+# Artikel 122o. Beëindiging uitsluiting dwangsomregeling
+Artikel 38h, achtste lid, vervalt met ingang van 1 januari van het vierde kalenderjaar na het kalenderjaar waarin de quotumheffing op grond van artikel 122n, eerste lid, is geactiveerd, tenzij voor die datum een voorstel van wet bij de Tweede Kamer der Staten-Generaal is ingediend, dat een vergelijkbare regeling bevat voor de uitsluiting van de dwangsomregeling, bedoeld in artikel 38h, achtste lid.

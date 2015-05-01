@@ -1,0 +1,12 @@
+# Artikel 38g. Bepaling van het quotumtekort
+1. Ten behoeve van de vaststelling van de quotumheffing, bedoeld in artikel 38h, wordt het quotumtekort per werkgever bepaald overeenkomstig de berekeningsformule, bedoeld in het derde lid.
+2. Voor de toepassing van dit artikel wordt niet als werknemer en niet als arbeidsbeperkte beschouwd de persoon die arbeid verricht in een dienstbetrekking in de zin van artikel 2 van de Wet sociale werkvoorziening, tenzij deze persoon op grond van het vierde lid is aangewezen en aan de werkgever ter beschikking is gesteld.
+3. Het quotumtekort wordt berekend overeenkomstig de volgende formule:
+waarbij:
+A = totaal verloonde uren van werknemers bij de werkgever in het kalenderjaar waarover het quotumtekort wordt vastgesteld
+B = het quotumpercentage dat op grond van artikel 38f, eerste lid, is vastgesteld voor het kalenderjaar in de sector overheid onderscheidenlijk de sector niet-overheid waartoe de werkgever behoort
+C = aantal verloonde uren bij de werkgever van arbeidsbeperkten in het kalenderjaar waarover het quotumtekort wordt vastgesteld
+D = het gemiddeld aantal verloonde uren van arbeidsbeperkten op jaarbasis in de sector overheid en de sector niet-overheid tezamen.
+4. Bij algemene maatregel van bestuur worden categorieën arbeidsbeperkten die aan de werkgever ter beschikking zijn gesteld om voor hem onder zijn toezicht en leiding arbeid te verrichten aangewezen, die overeenkomstig bij of krachtens die maatregel te stellen regels worden beschouwd als werknemers en arbeidsbeperkten waarop het derde lid van toepassing is. Deze categorieën arbeidsbeperkten worden voor de toepassing van het derde lid niet geacht in dienstbetrekking te staan tot de werkgever die deze arbeidsbeperkten ter beschikking heeft gesteld. Bij of krachtens deze maatregel worden in verband met dit lid nadere regels gesteld voor de toepassing van het derde lid.
+5. Bij of krachtens algemene maatregel van bestuur kunnen categorieën werknemers worden aangewezen ten aanzien waarvan de verloonde uren in mindering worden gebracht op het totaal aantal verloonde uren, bedoeld in het derde lid, met betrekking tot variabele A.
+6. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de wijze waarop een quotumtekort wordt bepaald.

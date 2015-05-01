@@ -1,0 +1,15 @@
+# Artikel 38f. Vaststelling quotumpercentages
+1. Bij regeling van Onze Minister wordt in het kalenderjaar voorafgaand aan het kalenderjaar waarover het quotumtekort, bedoeld in artikel 38g, wordt bepaald, ten behoeve van de bepaling van het quotumtekort, bedoeld in artikel 38g, voor het desbetreffende kalenderjaar een quotumpercentage voor de sector overheid onderscheidenlijk de sector niet-overheid vastgesteld overeenkomstig de berekeningsformule, bedoeld in het tweede lid. Bij deze regeling worden de berekeningen op grond van het tweede lid die tot dit percentage hebben geleid, gepubliceerd. Het percentage wordt naar beneden afgerond op twee cijfers achter de komma.
+2. De quotumpercentages worden berekend overeenkomstig de volgende formule:
+waarbij:
+A = totaal aantal banen bij werkgevers die op grond van artikel 34, derde en vierde lid, quotumheffing zijn verschuldigd, die worden vervuld door arbeidsbeperkten op grond van de nulmeting op 1 januari 2013 in de sector overheid onderscheidenlijk de sector niet-overheid
+B = het aantal extra banen voor arbeidsbeperkten bij werkgevers dat dient te worden gerealiseerd vanaf het kalenderjaar 2015 overeenkomstig het sociaal akkoord voor de sector overheid onderscheidenlijk de sector niet-overheid
+C = het gemiddeld aantal verloonde uren van arbeidsbeperkten in de sector overheid en de sector niet-overheid tezamen
+D = het totaal aantal banen bij werkgevers in de sector overheid onderscheidenlijk de sector niet-overheid die op grond van artikel 34, derde en vierde lid, quotumheffing zijn verschuldigd
+E = het gemiddeld aantal verloonde uren van een werknemer bij werkgevers in de sector overheid en de sector niet-overheid tezamen die op grond van artikel 34, derde en vierde lid, quotumheffing zijn verschuldigd
+F = het aantal arbeidsbeperkten, bedoeld in artikel 38b, tweede lid, in de sector overheid onderscheidenlijk de sector niet-overheid
+G = het gemiddeld aantal verloonde uren van arbeidsbeperkten als bedoeld in artikel 38b, tweede lid, in de sector overheid onderscheidenlijk de sector niet-overheid.
+3. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de variabelen A tot en met E van de formule, bedoeld in het tweede lid. Hierbij kunnen categorieën werknemers worden aangewezen waarvan de banen in mindering worden gebracht op het totaal aantal banen, bedoeld in het tweede lid met betrekking tot variabele D.
+4. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de variabelen F en G van de formule, bedoeld in het tweede lid. De voordracht voor een krachtens de vorige volzin vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+5. Bij regeling van Onze Minister kunnen werknemers in bepaalde soorten dienstbetrekkingen voor de toepassing van het eerste en tweede lid en artikel 122n, eerste lid, worden gelijkgesteld met arbeidsbeperkten.
+6. Ten aanzien van de werknemers, bedoeld in het vijfde lid, is deze afdeling van overeenkomstige toepassing.
