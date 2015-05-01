@@ -18,7 +18,7 @@
 ### § 4a. Uitzonderingen op de aanbesteding van concessies
 ### § 4b. Bepalingen inzake reciprociteit, gescheiden boekhouding en prestatievergelijking
 ### § 5. Bijzondere bepalingen inzake door Onze Minister te verlenen concessies
-## Hoofdstuk IV. Bepalingen voor de reiziger
+## Hoofdstuk IV. Bepalingen voor gebruikers van voorzieningen van het openbaar vervoer
 ## Hoofdstuk V. Taxivervoer
 ### § 1. Vergunning
 ### § 2. Geschillen en klachten
