@@ -1,2 +1,0 @@
-# Artikel 9b
-In aanvulling op artikel 9, derde lid, wordt aan de directeur van de directie Inkomensverzekeringen en -voorzieningen mandaat verleend tot het verlenen van subsidies en rijksvergoedingen ter zake van wetten en regelingen waarvan de uitvoering is opgedragen aan de Sociale Verzekeringsbank en het Uitvoeringsinstituut Werknemersverzekeringen, voor zover het wetten en regelingen betreft op het werkterrein van de directie Re-integratie en Participatie en de directie Integratie en Samenleving.
