@@ -43,10 +43,10 @@
 ### Paragraaf 8.3
 ## Hoofdstuk 9. Stoffen en produkten
 ### Titel 9.1. Algemeen
-### Titel 9.2. Stoffen, preparaten en genetisch gemodificeerde organismen
+### Titel 9.2. Stoffen, mengsels en genetisch gemodificeerde organismen
 #### § 9.2.1. Algemeen
 #### § 9.2.2. Maatregelen
-#### § 9.2.3. Verpakking, aanduiding en aanbeveling
+#### Paragraaf 9.2.3. Verpakking en aanduiding
 ### Titel 9.3. De EG-verordening registratie, evaluatie en autorisatie van chemische stoffen
 ### Titel 9.3a. De EG-verordening indeling, etikettering en verpakking van stoffen en mengsels
 ### Titel 9.4. De EG-richtlijn ecologisch ontwerp energiegerelateerde producten
@@ -158,7 +158,7 @@
 ### Titel 17.1A. Maatregelen betreffende afvalvoorzieningen
 ### Titel 17.1B. Maatregelen in geval van niet-naleving
 ### Titel 17.2. Maatregelen bij milieuschade of een onmiddellijke dreiging daarvan
-### Titel 17.3. Maatregelen bij gevaar door stoffen, preparaten of genetisch gemodificeerde organismen
+### Titel 17.3. Maatregelen bij gevaar door stoffen, mengsels of genetisch gemodificeerde organismen
 ## Hoofdstuk 18. Handhaving
 ## Hoofdstuk 19. Openbaarheid van milieu-informatie
 ## Hoofdstuk 20. Inwerkingtreding en rechtsbescherming
