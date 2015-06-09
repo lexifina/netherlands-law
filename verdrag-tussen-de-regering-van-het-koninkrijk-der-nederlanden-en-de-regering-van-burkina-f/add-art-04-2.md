@@ -1,0 +1,5 @@
+# Artikel IV. Invoer en uitvoer
+1. Uitrusting, materialen, voorraden en overige goederen die de zendstaat in verband met de tenuitvoerlegging van dit Verdrag in de ontvangende staat invoert of daaruit uitvoert zijn vrijgesteld van alle douanerechten en -heffingen. Deze vrijstelling geldt tevens voor onderdelen die nodig zijn voor het onderhoud van uitrusting en materialen.
+2. Bagage, persoonlijke eigendommen, producten en overige goederen die uitsluitend worden ingevoerd of uitgevoerd voor persoonlijk gebruik van het personeel van de zendstaat zijn vrijgesteld van alle rechten en heffingen.
+3. Vervreemding op Burkinees grondgebied, hetzij om niet hetzij tegen betaling, van goederen die met vrijstelling van rechten en heffingen zijn verworven of ingevoerd, dient vooraf door de douanediensten te worden goedgekeurd.
+4. Onder „rechten en heffingen" worden douanerechten begrepen alsmede alle andere rechten en heffingen die, naargelang van het geval, betrekking hebben op de invoer of uitvoer, met uitzondering van rechten en heffingen die een terugbetaling vormen van kosten voor verleende diensten.
