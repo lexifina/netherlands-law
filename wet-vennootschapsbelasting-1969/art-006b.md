@@ -1,0 +1,5 @@
+# Artikel 6b
+1. Van de belasting zijn vrijgesteld lichamen die uitsluitend of nagenoeg uitsluitend:
+a. als academisch ziekenhuis activiteiten verrichten als genoemd in artikel 1.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, of
+b. onderwijs geven of onderzoek verrichten, mits dat onderwijs en dat onderzoek hoofdzakelijk worden bekostigd uit publieke middelen, uit wettelijk collegegeld of instellingscollegegeld als bedoeld in hoofdstuk 7, titel 3, paragraaf 2, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, uit lesgelden als bedoeld in artikel 3 van de Les- en cursusgeldwet, uit buitenlandse bijdragen die naar aard en strekking overeenkomen met genoemde college- of lesgelden of uit bijdragen van algemeen nut beogende instellingen waarvoor geen contractuele tegenprestatie wordt gevraagd.
+2. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld voor de toepassing van het eerste lid op lichamen als bedoeld in artikel 2, eerste lid, onderdelen a, b en e, en artikel 3, eerste lid, niet zijnde een lichaam als bedoeld in artikel 3, derde lid.
