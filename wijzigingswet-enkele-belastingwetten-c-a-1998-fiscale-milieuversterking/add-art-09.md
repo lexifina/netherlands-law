@@ -1,0 +1,2 @@
+# ARTIKEL IX
+Indien met betrekking tot gebruikte personenauto's en motorrijwielen het tijdstip waarop overeenkomstig artikel 6 van de Wet op de belasting van personenauto's en motorrijwielen 1992 de aangifte wordt gedaan, is gelegen vóór het tijdstip waarop de onderdelen B en C van artikel IV in werking treden, terwijl het tijdstip van registratie is gelegen na die datum, wordt de vermindering van de belasting vastgesteld overeenkomstig artikel 10 van die wet zoals dat luidt ten tijde van het doen van die aangifte.
