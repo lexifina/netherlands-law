@@ -9,7 +9,7 @@
 #### § 4. Overige voorschriften
 ### Titel 4. Niet uit 's Rijks kas bekostigde instellingen werkzaam op het gebied van het beroepsonderwijs
 ### Titel 4a. Andere instellingen die een opleiding educatie verzorgen
-### Titel 5. Kenniscentra beroepsonderwijs bedrijfsleven
+### Titel 5. Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven
 ### Titel 6. De exameninstellingen
 ### Titel 7. Contractactiviteiten
 ## Hoofdstuk 2. Planning en bekostiging
