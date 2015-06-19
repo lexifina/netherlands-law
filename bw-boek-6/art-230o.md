@@ -1,5 +1,5 @@
 # Artikel 230o
-1. De consument kan een overeenkomst op afstand of een overeenkomst buiten de verkoopruimte zonder opgave van redenen ontbinden tot een termijn van veertien dagen is verstreken, vanaf:
+1. De consument kan een overeenkomst op afstand of een overeenkomst buiten de verkoopruimte zonder opgave van redenen ontbinden tot een termijn van veertien dagen is verstreken, na:
 a. bij een overeenkomst tot het verrichten van diensten: de dag waarop de overeenkomst wordt gesloten;
 b. bij een consumentenkoop:
 1°. de dag waarop de consument of een door de consument aangewezen derde, die niet de vervoerder is, de zaak heeft ontvangen;
