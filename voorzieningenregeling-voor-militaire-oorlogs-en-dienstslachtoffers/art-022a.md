@@ -1,0 +1,3 @@
+# Artikel 22a
+1. De betrokkene heeft vanaf 1 januari 1995 tot en met 31 december 1996 aanspraak op een voorziening als bedoeld in artikel 10a met overeenkomstige toepassing van de bepalingen van deze regeling.
+2. Aan de in het eerste lid bedoelde betrokkene, aan wie voor 1 januari 1995 een volledige vergoeding van de kosten van orthopedische schoenen alsmede de tengevolge van de orthopedische schoenen noodzakelijke steunzolen is verstrekt, wordt voor de periode genoemd in het eerste lid alsmede vanaf 1 januari 1997 de in artikel 10a, onderdeel a, onder 1, bedoelde financiële vergoeding van de kosten van orthopedische schoenen alsmede de tengevolge van de orthopedische schoenen noodzakelijke steunzolen toegekend, ook al is er geen sprake van extra slijtage.

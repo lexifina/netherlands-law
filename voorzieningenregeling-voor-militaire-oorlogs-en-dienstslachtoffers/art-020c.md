@@ -1,0 +1,2 @@
+# Artikel 20c
+De in de artikelen 16,, 18, 20,, 20a en 20b genoemde bedragen aan financiële tegemoetkomingen worden per 1 januari van elk kalenderjaar geïndexeerd aan de hand van het consumentenprijsindexcijfer. De geïndexeerde bedragen worden afgerond naar boven op gehele bedragen met uitzondering van de tegemoetkoming voor de veteranen hulphond. De tegemoetkoming veteranen hulphond van art. 20b lid 3 volgt de hoogte van het bedrag zoals dat jaarlijks vanuit SZVK-polis /Reglement Hulpmiddelen kan worden toegekend voor onderhoudskosten van ADL- en blindengeleidehonden.
