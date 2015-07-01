@@ -1,0 +1,2 @@
+# Artikel 54a
+Onze Minister kan, met inachtneming van artikel 2, derde lid, van richtlijn 2007/59/EG, ontheffing of vrijstelling verlenen van bepalingen van paragraaf 5 van dit hoofdstuk. De ontheffing of vrijstelling kan onder beperkingen worden verleend. Aan de ontheffing of vrijstelling kunnen voorschriften worden verbonden. Bij ministeriële regeling kunnen regels worden gesteld over op welke hoofdspoorwegen en voor welke spoorvoertuigen deze ontheffing of vrijstelling mogelijk is.

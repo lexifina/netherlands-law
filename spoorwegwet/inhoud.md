@@ -4,7 +4,7 @@
 ### § 1. Algemeen
 ### § 2. De eigenschappen van hoofdspoorweginfrastructuur
 ### § 3. De interoperabiliteit van de hoofdspoorweginfrastructuur
-### § 4. Beheer van hoofdspoorwegen
+### § 4. Beheer van hoofdspoorweginfrastructuur
 ### § 5. Bepalingen inzake stations en laad- en losplaatsen
 ## Hoofdstuk 3. Het spoorwegbedrijf
 ### § 1. Algemeen
@@ -13,7 +13,7 @@
 ### § 4. Gebruik, compatibiliteit en interoperabiliteit van spoorvoertuigen en interoperabiliteitsonderdelen
 ### § 5. Personeel
 ### § 6. De verzekeringsplicht
-## Hoofdstuk 4. Het gebruik van hoofdspoorwegen
+## Hoofdstuk 4. Het gebruik van hoofdspoorweginfrastructuur
 ### § 1. Algemene bepalingen
 ### § 2. Netverklaring
 ### § 3. Toegangsovereenkomst
@@ -26,11 +26,12 @@
 ## Hoofdstuk 6. Toezicht, handhaving en overige bepalingen
 ### § 1. Toezicht
 ### § 2. De Autoriteit Consument en Markt
+### § 2a. Vrijstelling, ontheffing of vergunning
 ### § 3. Bestuursrechtelijke handhaving
 ### § 4. Strafrechtelijke handhaving
 ### § 6. Heffingen
 ### § 7. Toepasselijkheid nieuwe Europese regelgeving
-### § 8. Aanwijzing van keuringsinstanties
+### § 8. Erkenning van keuringsinstanties
 ### § 10. Informatieplicht van spoorwegondernemingen en de beheerder
 ### § 11. De verwerking van persoonsgegevens
 ## Hoofdstuk 8. Aanpassing en intrekking van andere wetten
