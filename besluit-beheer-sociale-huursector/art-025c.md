@@ -1,2 +1,0 @@
-# Artikel 25c
-De toegelaten instellingen dragen er zorg voor dat de colleges van burgemeester en wethouders van de gemeenten waar zij feitelijk werkzaam zijn en, voor zover van toepassing, bovendien die van de gemeenten waar zij hun woonplaats hebben, op 1 november van elk jaar beschikken over de in de artikelen 25a en 25b bedoelde bescheiden die op het op die datum eerstvolgende jaar van toepassing zijn.

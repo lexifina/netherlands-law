@@ -1,3 +1,0 @@
-# Artikel 25e
-1. De toegelaten instellingen verzoeken jaarlijks, tegelijk met de toezending van de in artikel 25b bedoelde samenvatting, om een overleg met de betrokken colleges van burgemeester en wethouders over het volkshuisvestingsbeleid in het op de in artikel 25c bedoelde datum eerstvolgende kalenderjaar.
-2. Het eerste lid is niet van toepassing, indien een toegelaten instelling op de in artikel 25c bedoelde datum niet beschikt over bescheiden waarin de gemeente op hoofdlijnen een toegelicht inzicht verschaft in haar voorgenomen volkshuisvestingsbeleid voor het kalenderjaar, bedoeld in het eerste lid, waarover de gemeente overleg heeft gevoerd met de haar omringende gemeenten.

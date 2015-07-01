@@ -1,4 +1,0 @@
-# Artikel 25d
-1. Het college van burgemeester en wethouders bevestigt binnen vier weken de ontvangst van aan dat college gezonden bescheiden als bedoeld in de artikelen 25a en 25b.
-2. Indien op 1 november van enig jaar de in de artikelen 25a en 25b bedoelde bescheiden niet in het bezit zijn van het college van burgemeester en wethouders, stelt Onze Minister op een daartoe strekkende aanvraag van dat college onverwijld een termijn van ten hoogste vier weken binnen welke de ontbrekende bescheiden moeten worden verstrekt en doet daarvan mededeling aan de betrokken toegelaten instelling.
-3. Indien de toegelaten instelling de ontbrekende bescheiden niet binnen de krachtens het tweede lid gestelde termijn verstrekt, kan Onze Minister op een daartoe strekkende aanvraag van het college van burgemeester en wethouders bepalen dat zij, totdat zij die bescheiden alsnog verstrekt, de door hem aangegeven rechtshandelingen slechts kan verrichten na zijn instemming.
