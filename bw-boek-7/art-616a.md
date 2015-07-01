@@ -1,0 +1,4 @@
+# Artikel 616a
+1. Indien arbeid wordt verricht in dienst van de werkgever ter uitvoering van een overeenkomst van opdracht of van aanneming van werk zijn de werkgever en diens opdrachtgever hoofdelijk aansprakelijk voor de voldoening van het aan de werknemer verschuldigde loon.
+2. In afwijking van lid 1 is de opdrachtgever, bedoeld in lid 1, niet aansprakelijk indien hij in rechte aannemelijk maakt dat hem, gelet op de omstandigheden van het geval, niet kan worden verweten dat het loon, bedoeld in lid 1, niet is voldaan.
+3. Dit artikel is niet van toepassing op een natuurlijke persoon die niet handelt in de uitoefening van een beroep of bedrijf.

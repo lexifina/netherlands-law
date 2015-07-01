@@ -1,0 +1,5 @@
+# Artikel 616e
+1. Met het oog op het instellen van een vordering als bedoeld in artikel 616a of artikel 616b verstrekt iedere opdrachtgever, opdrachtnemer, aannemer of werkgever aan de werknemer desgevraagd schriftelijk of elektronisch de gegevens die betrekking hebben op de naam, woonplaats of het werkelijk verblijf van:
+a. de opdrachtgever, opdrachtnemer, aannemer of werkgever, met wie de opdrachtgever, opdrachtnemer, aannemer of werkgever, bedoeld in de aanhef, een overeenkomst van opdracht of aanneming van werk heeft gesloten; en
+b. de opdrachtgever, die niet handelt in opdracht van een andere opdrachtgever.
+2. Indien de opdrachtgever, opdrachtnemer of aannemer, niet tevens zijnde de werkgever, de gegevens, bedoeld in lid 1, niet binnen twee weken na het verzoek van de werknemer verstrekt, kan de werknemer die opdrachtgever, opdrachtnemer of aannemer, in afwijking van de volgorde op grond van artikel 616b lid 2, aansprakelijk stellen op grond van artikel 616b.

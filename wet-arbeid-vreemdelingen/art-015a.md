@@ -1,0 +1,2 @@
+# Artikel 15a
+De werkgever is verplicht om binnen 48 uren na een daartoe strekkende vordering van de toezichthouder de identiteit vast te stellen van een persoon van wie op grond van feiten en omstandigheden het vermoeden bestaat dat hij arbeid voor hem verricht of heeft verricht, aan de hand van een document als bedoeld in artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht en de toezichthouder te informeren door een afschrift van dit document te verstrekken.
