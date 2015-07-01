@@ -1,0 +1,5 @@
+# Artikel 429d
+1. Het verzoekschrift vermeldt de voornamen, naam en woonplaats of, bij gebreke van een woonplaats hier te lande, het werkelijk verblijf van de verzoeker, alsmede een duidelijke omschrijving van het verzoek en de gronden waarop het berust. In zaken betreffende een nalatenschap vermeldt het verzoekschrift tevens de laatste woonplaats van de overledene of de reden waarom deze vermelding niet mogelijk is.
+2. Het verzoekschrift wordt ondertekend en ter griffie ingediend. De griffier tekent op het verzoekschrift en op de afschriften de dag van ontvangst aan. Bij de indiening van het verzoekschrift worden, voor zover nodig, overgelegd de bescheiden die kunnen dienen tot bewijs van de gestelde feiten. Eveneens worden de nodige afschriften van het verzoekschrift en de bescheiden overgelegd.
+3. Indien een advocaat of zaakwaarnemer het verzoekschrift indient, geldt zijn kantoor als gekozen woonplaats van de verzoeker.
+4. De artikelen 110, tweede lid, en 112 zijn van overeenkomstige toepassing.

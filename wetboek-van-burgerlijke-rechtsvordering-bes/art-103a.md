@@ -1,0 +1,8 @@
+# Artikel 103a
+1. Hebben partijen bij overeenkomst een rechter in eerste aanleg aangewezen voor de kennisneming van geschillen die zijn ontstaan of zullen ontstaan naar aanleiding van een bepaalde rechtsbetrekking die tot hun vrije bepaling staat, dan is die rechter bevoegd van de zaak kennis te nemen. Iedere andere rechter in eerste aanleg voor wie de zaak is gebracht, verklaart zich onbevoegd, mits de gedaagde zich op de onbevoegdheid beroept.
+2. Beloopt de vordering evenwel minder dan NAF. 10.000, USD 5.600, onderscheidenlijk Afl. 10.000, of betreft het een zaak als bedoeld in artikel 97, dan heeft een overeenkomst als bedoeld in het eerste lid geen gevolg, tenzij:
+a. zij is aangegaan na het ontstaan van het geschil, of
+b. de partij die niet handelt in de uitoefening van beroep of bedrijf zich tot de aangewezen rechter wendt.
+3. Een overeenkomst tot aanwijzing van een bevoegde rechter in eerste aanleg wordt bewezen door een geschrift. Daarvoor is voldoende een geschrift dat een dergelijk beding bevat of dat verwijst naar algemene voorwaarden die een dergelijk beding bevatten, mits dat geschrift door of namens de wederpartij uitdrukkelijk of stilzwijgend is aanvaard.
+4. Een overeenkomst tot aanwijzing van een bevoegde rechter in eerste aanleg dient als een afzonderlijke overeenkomst te worden beschouwd en beoordeeld. De aangewezen rechter is bevoegd te oordelen over de rechtsgeldigheid van de hoofdovereenkomst waarvan een overeenkomst tot aanwijzing van een bevoegde rechter deel uitmaakt of waarop zij betrekking heeft.
+5. Bij algemene maatregel van bestuur kan het bedrag, genoemd in het tweede lid, worden aangepast aan de geldontwaarding.

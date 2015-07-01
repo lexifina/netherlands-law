@@ -1,0 +1,3 @@
+# Artikel 63b
+1. De rechter kan bedragen die geacht kunnen worden te zijn bedongen ter vergoeding van proceskosten of van buitengerechtelijke kosten als bedoeld in artikel 96, tweede lid, onderdelen b en c, van Boek 6 van het Burgerlijk Wetboek BES, ambtshalve matigen, doch niet tot onder het bedrag van de krachtens de wet te begroten proceskosten, onderscheidenlijk het bedrag van de buitengerechtelijke kosten die, gelet op de tarieven volgens welke zodanige kosten aan de opdrachtgevers gewoonlijk in rekening worden gebracht, jegens de wederpartij redelijk zijn.
+2. Het eerste lid is niet van toepassing indien een overeenkomst is gesloten die strekt tot regeling van een reeds gerezen geschil.
