@@ -3,7 +3,7 @@
 a. artikel 7a, eerste lid;
 b. artikel 2, eerste lid, of 15 van de Wet arbeid vreemdelingen;
 c. artikel 5:20 van de Algemene wet bestuursrecht; of
-d. artikel 7, 15 of 18b, tweede lid, van de Wet minimumloon en minimumvakantiebijslag.
+d. artikel 7, 7a, 13, 15 of 18b, tweede lid, van de Wet minimumloon en minimumvakantiebijslag.
 2. De rijksbelastingdienst meldt kosteloos aan een erkende certificerende instelling:
 a. de omstandigheid dat niet tijdig aangifte is gedaan door een onderneming of rechtspersoon als bedoeld in artikel 7a, eerste lid, voor de omzetbelasting, de loonbelasting, de premie voor de volksverzekeringen, de premies voor de werknemersverzekeringen of de inkomensafhankelijke bijdrage voor de Zorgverzekeringswet;
 b. de omstandigheid dat een onderneming of rechtspersoon als bedoeld in artikel 7a, eerste lid, niet tijdig de aangegeven omzetbelasting, loonbelasting, premie voor de volksverzekeringen, premies voor de werknemersverzekeringen of inkomensafhankelijke bijdrage voor de Zorgverzekeringswet heeft voldaan of afgedragen;
