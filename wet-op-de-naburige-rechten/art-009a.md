@@ -1,7 +1,4 @@
 # Artikel 9a
-1. Indien de producent van een fonogram na verloop van 50 jaar nadat dat fonogram is openbaar gemaakt dan wel op rechtmatige wijze in het verkeer is gebracht, dat fonogram niet of niet langer in voldoende mate exploiteert, kan de uitvoerende kunstenaar de overeenkomst houdende overdracht van zijn rechten op de vastlegging van zijn uitvoering aan die producent geheel of gedeeltelijk ontbinden.
-2. Indien de door deze wet verleende rechten toekomen aan meerdere uitvoerende kunstenaars, kan de in het eerste lid bedoelde ontbinding slechts plaatsvinden indien de andere uitvoerende kunstenaars daarmee instemmen. Indien een uitvoerende kunstenaar zijn instemming onthoudt, kan de ontbinding van de overeenkomst slechts door de rechter geschieden indien de overige uitvoerende kunstenaars door het onthouden van de toestemming onevenredig worden benadeeld.
-3. De in het eerste lid bedoelde bevoegdheid tot ontbinding ontstaat eerst nadat de producent van het fonogram door de uitvoerende kunstenaar schriftelijk van zijn voornemen tot ontbinding in kennis is gesteld en sindsdien minimaal één jaar is verstreken waarin exploitatie is uitgebleven.
-4. Op verzoek van de uitvoerende kunstenaar verstrekt de producent van het fonogram hem voor het verstrijken van de in het derde lid bedoelde termijn een schriftelijke opgave van de exploitatie.
-5. Van het in het eerste lid genoemde recht tot ontbinding kan de uitvoerende kunstenaar geen afstand doen.
-6. Een ontbinding op grond van het eerste lid heeft tot gevolg dat de rechten van de producent van het fonogram overgaan op de uitvoerende kunstenaar.
+De in artikel 25e, derde lid van de Auteurswet genoemde termijn bedraagt ten minste één jaar indien:
+a. de in artikel 9, eerste lid bedoelde overdracht behelst een overdracht door een uitvoerende kunstenaar van zijn rechten op de uitvoering van een muziekwerk aan de producent van een fonogram, en
+b. sinds het fonogram is openbaar gemaakt dan wel op rechtmatige wijze in het verkeer is gebracht ten minste 50 jaar zijn verstreken.
