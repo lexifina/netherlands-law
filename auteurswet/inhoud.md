@@ -6,6 +6,7 @@
 ### § 4. Het openbaar maken
 ### § 5. Het verveelvoudigen
 ### § 6. De beperkingen van het auteursrecht
+## Hoofdstuk Ia. De exploitatieovereenkomst
 ## Hoofdstuk II. De uitoefening en de handhaving van het auteursrecht en bepalingen van strafrecht
 ## Hoofdstuk III. De duur van het auteursrecht
 ## Hoofdstuk IV. Bijzondere bepalingen betreffende het volgrecht
