@@ -71,7 +71,6 @@
 #### § 4. Goedkeuring van het alcoholslot
 #### § 5. Erkenningsregelingen alcoholsloten
 #### § 6. Onderzoeken naar de rijvaardigheid of geschiktheid
-### Afdeling 10. Bromfietscertificaat
 ## Hoofdstuk VIA. Interoperabiliteit van elektronische heffingssystemen
 ### § 1. Algemene bepalingen
 ### § 2. Technologische eisen
