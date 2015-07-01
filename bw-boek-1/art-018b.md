@@ -1,4 +1,7 @@
 # Artikel 18b
-1. Blijft een partij bij een akte van de burgerlijke stand of een belanghebbende partij in gebreke de in artikel 18, tweede lid, bedoelde bescheiden over te leggen, of acht de ambtenaar van de burgerlijke stand de overgelegde bescheiden ongenoegzaam, dan weigert deze tot het opmaken van de akte over te gaan.
-2. De ambtenaar van de burgerlijke stand weigert eveneens tot het opmaken van de akte over te gaan, indien hij van oordeel is dat de Nederlandse openbare orde zich hiertegen verzet.
-3. Van een weigering als bedoeld in het eerste of het tweede lid doet de ambtenaar van de burgerlijke stand een schriftelijke, met redenen omklede mededeling aan de partijen bij de akte en de belanghebbende partijen toekomen, onder vermelding van de tegen die weigering openstaande voorziening van afdeling 12 van deze titel. Een afschrift van deze mededeling doet hij aan de korpschef toekomen.
+1. Voor de betrouwbaarheid en vertrouwelijkheid van de elektronische aangifte alsmede het opmaken en de opslag van een akte in elektronische vorm wordt een systeem van gegevensverwerking gebruikt dat:
+a. de ambtenaar van de burgerlijke stand in staat stelt de juistheid van de identiteit van de aangever vast te stellen;
+b. de vertrouwelijkheid van de door de aangever verstrekte gegevens waarborgt;
+c. waarborgt dat elektronische akten als bedoeld in artikel 18, vierde lid, zodanig blijven opgeslagen dat de inhoud toegankelijk is voor toekomstig gebruik en een ongewijzigde reproductie van de inhoud van de akten gewaarborgd is;
+d. waarborgt dat een bericht, elektronisch afschrift of uittreksel volledig is en niet onbevoegdelijk is of kan worden gewijzigd.
+2. Bij algemene maatregel van bestuur kunnen over het in het eerste lid bepaalde nadere regels worden gesteld.
