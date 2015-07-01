@@ -122,7 +122,6 @@
 #### § 15.2.4. Teruggaafregeling
 #### § 15.2.5. Tarief
 #### § 15.2.6. Heffing en invordering
-### Titel 15.3. Voorschriften omtrent het verstrekken van subsidies
 ### Titel 15.4. Vergoeding van kosten en schade
 ### Titel 15.5. Fonds Luchtverontreiniging
 ### Titel 15.6. Regulerende verbruiksbelastingen
