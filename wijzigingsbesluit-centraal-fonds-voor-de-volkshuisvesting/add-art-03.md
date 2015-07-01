@@ -1,2 +1,0 @@
-# ARTIKEL III
-De toegelaten instellingen, bedoeld in artikel 70, eerste lid, van de Woningwet, die op 1 april 1996 als zodanig bestonden, dienen de aangifte van de over 1996 door hen aan het Centraal Fonds voor de Volkshuisvesting verschuldigde bijdrage in voor 15 september 1996, volgens het Besluit Centraal Fonds voor de Volkshuisvesting als laatstelijk luidend voor die datum en ten aanzien van de datum van indiening van die aangifte in afwijking van artikel 12, eerste lid, van dat aldus luidende besluit.
