@@ -1,6 +1,0 @@
-# Artikel 10a
-1. De directie Financieel-Economische Zaken (DFEZ) is belast met de advisering van de departementsleiding over financiële en macro-economische aspecten van beleid, bedrijfsvoering en uitvoering als bedoeld in artikel 27, eerste en tweede lid, van de Comptabiliteitswet 2001 en de daaruit voortvloeiende regelgeving.
-2. De directie bestaat uit:
-a. de afdeling Begroting en Kaderstelling;
-b. de afdeling Financiële Infrastructuur & Concernadministratie;
-c. de afdeling Financieel-Economische Advisering & Control.

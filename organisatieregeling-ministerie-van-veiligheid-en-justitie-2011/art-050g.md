@@ -1,2 +1,0 @@
-# Artikel 50g
-De Immigratie- en Naturalisatiedienst (IND) is een baten-lastendienst die belast is met de uitvoering van de vreemdelingenwetgeving en van de Rijkswet op het Nederlanderschap.
