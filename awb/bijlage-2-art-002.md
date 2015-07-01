@@ -79,7 +79,6 @@ d. artikel 5.2a, vierde lid, betreffende de toepassing van hoofdstuk XVII van de
 Wet ammoniak en veehouderij:
 a. artikel 2, eerste lid
 b. een besluit tot wijziging van een besluit als bedoeld in artikel 2, eerste lid
-Wet balansverkorting geldelijke steun volkshuisvesting, voor zover het betreft een beschikking
 Wet bereikbaarheid en mobiliteit: artikel 3, eerste lid
 Wet bescherming Antarctica
 Wet bodembescherming, met uitzondering van artikel 43, voor zover het betreft de afwijzing van een verzoek
@@ -128,6 +127,7 @@ d. artikel 185, tweede lid, tweede volzin, voor zover het betreft een besluit op
 Wet op het voortgezet onderwijs:
 a. titel III: de afdelingen I, met uitzondering van artikel 74, en III
 b. de artikelen 85a, 89 en 104
+Wet raadgevend referendum: de artikelen 6, 14, 21b, derde lid, 22 juncto D 6 respectievelijk D 8 van de Kieswet, 32, eerste lid, 44, eerste lid, 60 juncto K 8 van de Kieswet, 61 juncto L 11 van de Kieswet, 62 juncto M 4 van de Kieswet, 79, 80, 81 en 90, tweede lid
 Wet ruimtelijke ordening:
 a. een besluit omtrent vaststelling van een bestemmingsplan, een inpassingsplan of een rijksbestemmingsplan als bedoeld in artikel 10.3, eerste lid
 b. artikel 3.1, derde lid
@@ -139,7 +139,8 @@ g. de artikelen 6.8, eerste lid, en 6.9
 h. een besluit omtrent vaststelling van een exploitatieplan voor gronden, begrepen in een gelijktijdig bekendgemaakt bestemmingsplan, inpassingsplan of wijzigingsplan als bedoeld in artikel 3.6, eerste lid, alsmede herzieningen van het desbetreffende exploitatieplan en besluiten omtrent de afrekening en herberekende exploitatiebijdragen van het desbetreffende exploitatieplan
 i. een ontheffing als bedoeld in artikel 4.1a of 4.3a, voor zover die ontheffing betrekking heeft op een bestemmingsplan of een provinciaal inpassingsplan
 Wet toelating zorginstellingen
-Woningwet: artikel 70, voor zover het betreft de intrekking van een toelating
+Wet windenergie op zee: artikelen 3, eerste lid en 11, eerste lid
+Woningwet: artikel 19, voor zover het betreft de intrekking van een toelating
 Zorgverzekeringswet: voor zover het betreft een besluit van Onze Minister van Volksgezondheid, Welzijn en Sport of van het College zorgverzekeringen, met uitzondering van:
 a. een beschikking op grond van artikel 9b, 9c, 18d tot en met 18g, 69 of 70
 b. een beschikking op grond van artikel 122a

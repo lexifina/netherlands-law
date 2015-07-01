@@ -6,12 +6,12 @@ b. artikel 126, tweede lid, betreffende de toepassing van hoofdstuk XVIII van de
 Archiefwet 1995:
 a. artikel 38, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep niet wordt ingesteld door gedeputeerde staten
 b. artikel 38, betreffende de toepassing van hoofdstuk XVII van de Gemeentewet, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging en voor zover het betreft de weigering om een voordracht tot vernietiging te doen
-Buitengewoon Besluit Arbeidsverhoudingen 1945: artikel 6
-Burgerlijk Wetboek, voor zover de aanvraag is toegewezen:
+Burgerlijk Wetboek:
 a. Boek 1:
-1. artikel 7, eerste en tweede lid
-2. titel 14, afdeling 4
-b. Boek 2: de artikelen 63d, tweede lid, 156 en 266
+1. artikel 7, eerste en tweede lid, voor zover de aanvraag is toegewezen
+2. titel 14, afdeling 4, voor zover de aanvraag is toegewezen
+b. Boek 2: de artikelen 63d, tweede lid, 156 en 266, voor zover de aanvraag is toegewezen
+c. Boek 7: artikel 671a.
 Elektriciteitswet 1998: de artikelen 9b, vierde lid, 9c, derde lid, 9d, tweede en derde lid, 9f, zesde lid, 20a, derde lid, 20b, derde lid, en 20c, tweede en derde lid
 Faillissementswet: artikel 285
 Financiële-verhoudingswet: artikel 9
@@ -41,7 +41,7 @@ a. artikel 15, eerste lid, voor zover het betreft een weigering van de vergunnin
 b. artikel 15, negende lid, voor zover het betreft een afwijzing van het verzoek tot verlenging
 c. artikel 16, tiende lid, eerste volzin, en elfde lid, eerste volzin
 Mijnbouwwet: de artikelen 141a, derde lid, 141b, derde lid, en 141c, tweede en derde lid
-Natuurbeschermingswet 1998: de artikelen 17, 19kg en 23
+Natuurbeschermingswet 1998: de artikelen 17 en 23
 Onteigeningswet
 Ontgrondingenwet: mededeling als bedoeld in artikel 10, tweede en derde lid
 Participatiewet: de artikelen 52 en 81 en paragraaf 6.5
@@ -133,6 +133,7 @@ Wet van 18 december 2008 tot wijziging van de Wet luchtvaart inzake vernieuwing 
 Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen: artikel 30, tweede lid
 Wet vervoer gevaarlijke stoffen: de artikelen 13, eerste lid, en 14, eerste, tweede en vierde lid
 Wet werk en inkomen kunstenaars: artikel 14
+Wet windenergie op zee: artikel 9, eerste lid
 Zorgverzekeringswet:
 a. artikel 9a
 b. artikel 18f, eerste lid, in samenhang met artikel 18d of 18e, voor zover een besluit wordt genomen over de verschuldigdheid van de bestuursrechtelijke premie of de hoogte daarvan

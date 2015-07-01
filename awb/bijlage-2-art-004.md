@@ -77,6 +77,7 @@ Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen: ee
 Wet vervoer over zee
 Wet voorraadvorming aardolieproducten 2012, met uitzondering van artikel 26 en met inbegrip van een besluit van Onze Minister van Economische Zaken, Landbouw en Innovatie dat is genomen op grond van een bilateraal akkoord en betrekking heeft op het niet in Nederland aanhouden van een wettelijke voorraad
 Wet wegvervoer goederen
+Wet windenergie op zee: artikelen 15, vierde lid, 16, 17, 21, tweede lid, en 25
 Wetboek van Koophandel: artikel 311a
 Winkeltijdenwet
 Zaaizaad- en plantgoedwet 2005

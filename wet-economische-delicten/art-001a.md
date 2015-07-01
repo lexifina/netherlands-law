@@ -17,13 +17,14 @@ de Wet van 2 juli 1992, Stb. 415, tot uitbreiding en wijziging van de Wet algeme
 de Wet veiligheidsregio's, – voor zover aangeduid als strafbare feiten – de artikelen 48, eerste en zesde lid, en 50, tweede en derde lid;
 de Wet vervoer gevaarlijke stoffen, de artikelen 4, 5, 10, 19, 26, eerste lid, 27, zesde lid, 28 en 29, vierde lid;
 de Wet voorkoming verontreiniging door schepen, de artikelen 5, eerste lid, 12, eerste lid, tweede lid, onderdelen a en b, vierde, zesde, zevende en achtste lid, 12b, eerste lid, 12c, eerste en tweede lid, 12e, eerste lid, 13, 13a, eerste, tweede, derde en vierde lid, 23, eerste, tweede en vierde lid, 35, derde lid, 35a, derde lid en 36a, eerste lid;
+de Wet windenergie op zee, de artikelen 4, 7, 9, 12 en 15;
 2°. overtredingen van voorschriften, gesteld bij of krachtens:
 de Boswet, de artikelen 2, derde lid, 3, eerste en tweede lid, en 13, eerste lid;
 de Crisis- en herstelwet, artikel 2.16;
 de Flora- en faunawet, de artikelen 8, 9, 11, 12, 12a, 14, eerste, tweede en derde lid, 15, eerste en tweede lid, 15a, 15b, 17, 18, eerste lid, 26, derde en vijfde lid, 47, 73, 75e en 79, tweede lid;
 de Kernenergiewet, de artikelen 14, 22, eerste lid, 26, tweede lid, 28, 33, eerste lid, 37, eerste lid, 39, 67, eerste en vierde lid, 68 en 76, derde lid;
 de Monumentenwet 1988, de artikelen 11, 45, eerste lid, 53, eerste lid, en 56;
-de Natuurbeschermingswet 1998, de artikelen 16, 17, vierde lid, 19c, vierde lid, 19d, eerste lid, 19ke, vijfde lid, 19ia, eerste lid, in samenhang met 16, 19ia, derde lid, in samenhang met 19c, vierde lid, en 19kc, eerste lid, 19l, eerste lid, 20, derde lid, 21, tweede lid, 22, tweede lid, 46d, 47d, en 66;
+de Natuurbeschermingswet 1998, de artikelen 16, 17, vierde lid, 19c, vierde lid, 19d, eerste lid, 19ia, eerste lid, in samenhang met 16, 19ia, derde lid, in samenhang met 19c, vierde lid, en 19kc, eerste lid, 19kp, vijfde lid, 19koa, eerste lid, 19l, eerste lid, 20, derde lid, 21, tweede lid, 22, tweede lid, 46d, 47d, en 66;
 de Ontgrondingenwet, de artikelen 3, eerste en tweede lid, 3a, 7 en 12, eerste en tweede lid;
 de Waterwet, artikel 6.9;
 de Wet algemene bepalingen omgevingsrecht, de artikelen 2.1, eerste lid, aanhef en onder a, b, c, d, f, g, h en i, 2.3, aanhef en onder b, 2.3a, 2.24, eerste lid, en 2.25, tweede lid;
