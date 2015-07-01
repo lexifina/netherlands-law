@@ -1,0 +1,3 @@
+# Artikel 350c
+1. Hij die opzettelijk enig geautomatiseerd werk of enig werk voor telecommunicatie vernielt, beschadigt of onbruikbaar maakt, stoornis in de gang of in de werking van zodanig werk veroorzaakt, of een ten opzichte van zodanig werk genomen veiligheidsmaatregel verijdelt, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie, indien daardoor wederrechtelijk verhindering of bemoeilijking van de opslag, verwerking of overdracht van gegevens of stoornis in een telecommunicatienetwerk of in de uitvoering van een telecommunicatiedienst, ontstaat.
+2. Artikel 138b, tweede en derde lid, is van overeenkomstige toepassing.
