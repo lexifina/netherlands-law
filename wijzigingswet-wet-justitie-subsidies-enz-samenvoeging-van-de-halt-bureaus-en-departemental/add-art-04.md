@@ -1,0 +1,2 @@
+# Artikel IV
+Ministeriële regelingen die voor het tijdstip van inwerkingtreding van deze wet een grondslag vonden in bepalingen, gesteld bij of krachtens artikel 3 en 4 van de Wet overige BZK-subsidies, berusten, voor zover zij voorzien in subsidies binnen het toepassingsgebied van hoofdstuk 4A van de Wet Justitie-subsidies, vanaf het tijdstip van inwerkingtreding van deze wet op artikel 48a van de Wet Justitie-subsidies of mede op dat artikel.
