@@ -1,3 +1,0 @@
-# Artikel 6a
-1. De toegelaten instelling gebruikt de gegevens die overeenkomstig artikel 4bis worden verstrekt, uitsluitend voor het toepassing geven aan artikel 4, eerste lid. Zij bewaart die gegevens niet langer dan totdat de gevolgen van het door de minister ten aanzien van het kalenderjaar waarin de overeenkomst van huur en verhuur is aangegaan toepassing geven aan artikel 7, eerste volzin, onherroepelijk zijn geworden.
-2. Een ieder die kennis neemt van de gegevens die overeenkomstig artikel 4bis worden verstrekt, is verplicht tot geheimhouding van die gegevens, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn taak de noodzaak tot mededeling voortvloeit.
