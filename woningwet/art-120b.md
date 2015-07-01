@@ -1,2 +1,3 @@
 # Artikel 120b
-Onze Minister is belast met de bestuursrechtelijke handhaving van het verbod, bedoeld in artikel 120, tweede lid, en beschikt daartoe over de bevoegdheid tot oplegging van een last onder bestuursdwang.
+1. Onze Minister kan een last onder bestuursdwang of een bestuurlijke boete opleggen ter zake van een overtreding van het verbod, bedoeld in artikel 120, tweede lid.
+2. Voor een overtreding, begaan door een natuurlijke persoon, bedraagt de bestuurlijke boete ten hoogste het bedrag dat is vastgesteld voor de eerste categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht. Ten aanzien van een overtreding, begaan door een rechtspersoon, is artikel 105, derde lid, eerste volzin, van overeenkomstige toepassing.

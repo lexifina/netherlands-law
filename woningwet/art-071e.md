@@ -1,4 +1,0 @@
-# Artikel 71e
-1. De middelen van het fonds worden gevormd door de bijdragen, bedoeld in het tweede lid, en andere inkomsten.
-2. Elke toegelaten instelling die op 1 januari van een kalenderjaar als zodanig bestaat, is over dat kalenderjaar een bijdrage aan het fonds verschuldigd. Het fonds bepaalt de hoogte van de bijdrage volgens bij of krachtens algemene maatregel van bestuur te geven voorschriften. Het besluit tot bepaling van de hoogte van de bijdrage behoeft de instemming van Onze Minister.
-3. Onze Minister kan, indien hij van oordeel is dat het fonds op de in het tweede lid bedoelde datum over voldoende financiële middelen zal beschikken om zonder storting van een bijdrage als bedoeld in dat lid ten minste een jaar uitvoering te geven aan artikel 71a, eerste lid, voor die datum bepalen dat een zodanige bijdrage niet verschuldigd is over het jaar waarin die datum valt.

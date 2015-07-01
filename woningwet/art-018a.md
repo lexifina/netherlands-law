@@ -1,0 +1,5 @@
+# Artikel 18a
+1. Een wooncoöperatie is een vereniging met volledige rechtsbevoegdheid die zich ten doel stelt om haar leden in staat te stellen zelfstandig te voorzien in het beheer en onderhoud van de door hen bewoonde woongelegenheden en de direct daaraan grenzende omgeving. Indien die woongelegenheden zijn gesplitst in appartementsrechten in de zin van artikel 106 van Boek 5 van het Burgerlijk Wetboek, betreft dat beheer en onderhoud uitsluitend die gedeelten van die woongelegenheden, welke zijn bestemd om door de leden van de wooncoöperatie als afzonderlijk geheel te worden gebruikt, onverminderd een regeling als bedoeld in artikel 112 lid 4 van dat boek.
+2. Eigenaren of huurders van ten minste vijf in elkaars nabijheid gelegen woongelegenheden die financieel, administratief, bouwtechnisch, stedenbouwkundig of anderszins een eenheid vormen, kunnen een wooncoöperatie oprichten.
+3. Een wooncoöperatie treft een regeling voor de behandeling van klachten en geschillen.
+4. Bij algemene maatregel van bestuur worden nadere voorschriften gegeven omtrent wooncoöperaties.

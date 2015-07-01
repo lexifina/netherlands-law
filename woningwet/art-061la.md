@@ -1,0 +1,2 @@
+# Artikel 61la
+De Algemene Rekenkamer is bevoegd, voor zover zij dit nodig acht voor het uitoefenen van haar taak, bij alle toegelaten instellingen en dochtermaatschappijen alle goederen, administraties, documenten, en andere informatiedragers op een door haar aan te geven wijze te onderzoeken. Het onderzoek bij een toegelaten instelling kan mede betrekking hebben op een samenwerkingsvennootschap waarin zij volledig aansprakelijke vennote is. Artikel 87, tweede lid, van de Comptabiliteitswet 2001 is van overeenkomstige toepassing.

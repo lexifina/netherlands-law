@@ -1,0 +1,3 @@
+# Artikel 104a
+1. Onze Minister kan een toegelaten instelling aan welke compensatie niet volledig toekomt, verplichten tot betaling van een geldsom ten laste van die compensatie. Artikel 61d, eerste lid, tweede volzin, is ten aanzien van een samenwerkingsvennootschap als bedoeld in die volzin van overeenkomstige toepassing.
+2. Bij algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven omtrent de toepassing van het eerste lid.
