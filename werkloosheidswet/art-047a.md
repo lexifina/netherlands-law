@@ -1,0 +1,2 @@
+# Artikel 47a
+Indien de werknemer deelneemt aan een voor hem naar het oordeel van het UWV noodzakelijke opleiding of scholing en het recht op uitkering op grond van artikel 76 blijft bestaan, wordt op de uitkering geheel in mindering gebracht het inkomen uit of in verband met de opleiding of scholing voor zover dat meer bedraagt dan een nader bij ministeriële regeling door Onze Minister vast te stellen bedrag.

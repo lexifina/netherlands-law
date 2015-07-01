@@ -1,0 +1,3 @@
+# Artikel 47b
+1. Indien de werknemer toestemming van het UWV heeft verkregen om werkzaamheden als bedoeld in artikel 77a, eerste lid, te verrichten, wordt de uitkering voor de duur van die toestemming verminderd met 29% van de uitkering, dan wel met een lager, bij algemene maatregel van bestuur te bepalen, percentage van de uitkering.
+2. Met ingang van de dag waarop de werknemer die toestemming van het UWV heeft verkregen om werkzaamheden als bedoeld in artikel 77a, eerste lid, te verrichten, handelt in strijd met artikel 77a, eerste lid, onderdeel d, wordt de uitkering voor de resterende duur van die toestemming verminderd met 100% van de uitkering.

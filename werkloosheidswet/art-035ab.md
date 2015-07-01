@@ -1,4 +1,0 @@
-# Artikel 35ab
-1. Indien de werknemer toestemming van het UWV heeft verkregen om werkzaamheden als bedoeld in artikel 77a, eerste lid, te verrichten, wordt de uitkering voor de duur van die toestemming verminderd met 29% van de uitkering, dan wel met een lager, bij algemene maatregel van bestuur te bepalen, percentage van de uitkering.
-2. Indien artikel 20, zesde lid, onderdeel b, of negende lid, van toepassing is, wordt het eerste lid toegepast nadat de inkomsten uit arbeid op grond van artikel 35aa, eerste lid, in mindering zijn gebracht op de uitkering.
-3. Met ingang van de dag waarop de werknemer die toestemming van het UWV heeft verkregen om werkzaamheden als bedoeld in artikel 77a, eerste lid, te verrichten, handelt in strijd met artikel 77a, eerste lid, onderdeel d, wordt de uitkering voor de resterende duur van die toestemming verminderd met 100% van de uitkering.

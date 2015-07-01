@@ -1,0 +1,3 @@
+# Artikel 130cc
+1. De Werkloosheidswet en de daarop berustende bepalingen zoals deze luidden op de dag voor de datum waarop artikel XXVI, onderdeel S, van de Wet werk en zekerheid inwerking is getreden, blijven van toepassing op een recht op uitkering op grond van hoofdstuk IV van de Werkloosheidswet dat is ontstaan voor de inwerkingtreding van artikel XXVI, onderdelen V, X en Y, van de Wet werk en zekerheid.
+2. Dit artikel vervalt op een bij koninklijk besluit te bepalen tijdstip.
