@@ -1,0 +1,2 @@
+# Artikel 7a
+De in artikel 2, eerste lid, van de wet vervatte verboden gelden niet ten aanzien van een winkel in een aan een autosnelweg gelegen onderneming waarin de functie van een benzinestation als bedoeld in artikel 6 en van een restaurant als bedoeld in artikel 7, wordt gecombineerd, mits in die winkel of in relatie tot die winkel de omzet grotendeels wordt behaald uit het totaal van de verkoop van goederen als bedoeld in artikel 6 alsmede het verstrekken van eet- en drinkwaren en het aanbieden van logiesaccommodatie als bedoeld in artikel 7.
