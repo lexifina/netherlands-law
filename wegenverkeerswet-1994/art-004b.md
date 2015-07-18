@@ -33,3 +33,4 @@ r. het voldoen aan de verplichting tot het opstellen van een gids betreffende he
 a. de bij of krachtens andere wetten opgedragen taken, en
 b. andere door Onze Minister opgedragen taken.
 3. Met inachtneming van artikel 4q worden de op grond van het tweede lid aan de Dienst Wegverkeer opgedragen taken, verstrekkingen of dienstverleningen die voortvloeien uit de uitvoering van deze taken, verricht tegen betaling op een door deze dienst vastgestelde wijze van door deze dienst vastgestelde tarieven.
+4. Artikel 9, derde lid, van de Wet hergebruik van overheidsinformatie is van toepassing op de tarieven, bedoeld in het eerste lid, onderdeel n.
