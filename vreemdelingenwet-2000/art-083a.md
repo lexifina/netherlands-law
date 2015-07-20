@@ -1,7 +1,2 @@
 # Artikel 83a
-1. Op het hoger beroep zijn de titels 8.1 tot en met 8.3 van de Algemene wet bestuursrecht van overeenkomstige toepassing, met uitzondering van de artikelen 8:1 tot en met 8:5, 8:6, eerste lid, 8:7 tot en met 8:9, 8:10a, eerste tot en met derde lid, 8:13, 8:41, tweede lid, 8:54, tweede lid, 8:55, en 8:74, voor zover in deze wet niet anders is bepaald.
-2. Artikel 8:108, eerste en derde lid, van de Algemene wet bestuursrecht is niet van toepassing.
-3. Deze afdeling, met uitzondering van artikel 86, is van overeenkomstige toepassing op het incidenteel hoger beroep. Voor zover nodig in afwijking van artikel 8:110 van de Algemene wet bestuursrecht zijn de termijnen voor het instellen van incidenteel hoger beroep als bedoeld in het tweede lid van dat artikel en voor het naar voren brengen van de zienswijze, bedoeld in het derde lid van dat artikel, gelijk aan de termijn voor het instellen van hoger beroep.
-4. De artikelen 8:110 tot en met 8:112 van de Algemene wet bestuursrecht zijn niet van toepassing op een hoger beroep:
-a. als bedoeld in artikel 95, eerste lid;
-b. inzake een terugkeerbesluit of een inreisverbod, tenzij dat besluit of verbod deel uitmaakt van of wordt opgelegd tegelijk met het besluit op een aanvraag om een verblijfsvergunning als bedoeld in artikel 14, 20, 28 of 33, dan wel ingevolge artikel 6:19 van de Algemene wet bestuursrecht wordt betrokken bij het hoger beroep tegen een dergelijk besluit.
+De toetsing van de rechtbank omvat een volledig en ex nunc onderzoek naar zowel de feitelijke als de juridische gronden, met inbegrip van, indien van toepassing, een onderzoek naar de behoefte aan internationale bescherming.
