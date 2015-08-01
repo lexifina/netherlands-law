@@ -1,0 +1,2 @@
+# Artikel II. Vereisten in verband met binnenkomst en vertrek
+De autoriteiten van de ontvangende staat verlenen het personeel van de zendstaat en de hun ten laste komende personen de vrije binnenkomst in en het vrije vertrek uit het grondgebied van de ontvangende staat in overeenstemming met de nationale wetgeving en de verplichtingen die voortvloeien uit de internationale verdragen van de ontvangende staat.

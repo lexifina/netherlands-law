@@ -1,0 +1,7 @@
+# Article VII. Demande d'indemnités
+1. Chaque Partie renonce à tout recours qu'elle pourrait avoir contre l'autre Partie ou un membre du personnel de cette Partie pour les dommages causés à ses biens ou à son personnel, y compris ceux ayant entraîné la mort, en raison d'actes ou de négligences dans l'exercice des fonctions officielles qui découlent du présent Accord.
+2. Les dispositions précédentes ne s'appliquent pas en cas de faute lourde ou intentionnelle. Par faute lourde, il convient d'entendre l'erreur grossière ou la négligence grave. Par faute intentionnelle, il convient d'entendre la faute commise avec l'intention délibérée de son auteur de causer un préjudice.
+3. Pour les dommages causés aux biens ou à la personne d'un tiers par les forces ou un membre du personnel de l'État d'envoi en service, l'État hôte se substitue dans l'instance à l'État d'envoi. Les Parties prennent conjointement en charge les indemnités versées pour la réparation des dommages causés aux tiers, selon la répartition suivante:
+– lorsque le dommage est imputable à une seule des Parties, cette Partie assure le règlement total du montant de l'indemnité;
+– lorsque le dommage est imputable aux deux Parties, ou qu'il ne peut être précisément attribué à l'une ou l'autre des Parties, le montant des indemnités est réparti à parts égales entre les Parties;
+– l'imputabilité du dommage et le montant subséquent de l'indemnisation sont déterminés d'un commun accord entre les Parties.

@@ -1,0 +1,4 @@
+# Artikel IX. Overlijden
+1. De autoriteiten van de zendstaat die aanwezig zijn in de ontvangende staat zijn bevoegd zorg te dragen voor de repatriëring van het stoffelijk overschot van een overleden lid van het personeel van de zendstaat of van een ten laste komende persoon, alsmede van zijn persoonlijke bezittingen, en mogen daartoe passende maatregelen nemen.
+2. Autopsie op het stoffelijk overschot van een overleden lid van het personeel van de zendstaat of van een ten laste komende persoon mag uitsluitend worden uitgevoerd na toestemming van de autoriteiten van de zendstaat en in aanwezigheid van een vertegenwoordiger daarvan.
+3. De ontvangende staat en de zendstaat werken zo veel mogelijk samen om de repatriëring van het stoffelijk overschot van een overleden lid van het personeel van de zendstaat of van een ten laste komende persoon op zo kort mogelijke termijn te waarborgen.
