@@ -1,0 +1,3 @@
+# Inhoud
+## Toepassingsvoorwaarden
+### Resistentiemanagement
