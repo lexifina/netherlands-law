@@ -20,12 +20,10 @@
 #### § 2. Grondslag vermindering bekostiging vbo-groen in een AOC in verband met passend onderwijs
 ### Titel 2a. Bekostiging voortgezet algemeen volwassenenonderwijs
 ### Titel 3. Aanbod en uitkering educatie met uitzondering van opleidingen voortgezet algemeen volwassenenonderwijs; informatie en gegevensverstrekking educatie
-### Titel 4. Bekostiging van kenniscentra beroepsonderwijs bedrijfsleven
-#### § 1. Bekostiging
+### Titel 4. Subsidie Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven
 ### Titel 5. Begroting, verslaglegging en gegevensverstrekking
 #### § 1. Instellingen voor beroepsonderwijs en educatie
 #### § 1a. Verantwoording middelen voortgezet algemeen volwassenenonderwijs
-#### § 2. Kenniscentra beroepsonderwijs bedrijfsleven
 ### TITEL 6. SCHOLENGEMEENSCHAP ROC OF AOC MET SCHOOL VOOR VOORTGEZET ONDERWIJS; VOORSCHRIFTEN T.A.V. VBO IN AOC
 ### Titel 6a. Samenwerking met VO-scholen ter bevordering van doelmatig en doeltreffend onderwijs
 ### Titel 6b. Examinering VSO-leerlingen
@@ -36,7 +34,7 @@
 #### § 1. Formatie; rechtspositie
 ### Titel 2. Vereisten benoeming of tewerkstelling
 ### Titel 2a. Benoembaarheidsvereiste voor overig personeel van instellingen
-### Titel 3. Personeel van kenniscentra beroepsonderwijs bedrijfsleven
+### Titel 3. Personeel van de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven
 ## Hoofdstuk 6. Het onderwijsaanbod beroepsopleidingen
 ### Titel 1. Het beroepsonderwijs, verzorgd door uit 's Rijks kas bekostigde instellingen
 ### Titel 2. Het beroepsonderwijs, verzorgd door niet uit 's Rijks kas bekostigde instellingen
@@ -72,7 +70,7 @@
 ### Titel 1. De instellingen voor educatie en beroepsonderwijs
 #### § 1. Bevoegd gezag; bestuursoverdracht
 #### § 2. Bestuur en inrichting van de instellingen
-### Titel 2. De kenniscentra beroepsonderwijs bedrijfsleven
+### Titel 2. De Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven
 ## Hoofdstuk 10. Beroep bij de bestuursrechter
 ## Hoofdstuk 11. Sancties
 ### Paragraaf 1. Inhouden en opschorten bekostiging; strafbepaling
