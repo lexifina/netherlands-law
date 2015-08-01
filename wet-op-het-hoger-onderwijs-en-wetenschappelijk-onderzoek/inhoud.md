@@ -14,7 +14,7 @@
 ### Titel 1. Planning
 ### Titel 2. Bekostiging
 ### Titel 3. Inrichting verslag en aanwijzing branchecode
-### Titel 4. Bijzondere bepalingen in verband met investeringen en leningen
+### Titel 4. Bijzondere bepalingen in verband met het financieel beheer
 ### Titel 5. Subsidiëring academische ziekenhuizen ten behoeve van de educatieve voorziening
 ## Hoofdstuk 3. Overleg
 ## Hoofdstuk 4. Het personeel
