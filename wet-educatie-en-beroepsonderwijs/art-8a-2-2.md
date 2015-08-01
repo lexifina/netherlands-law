@@ -22,7 +22,8 @@ a. besluiten van het bevoegd gezag over inkrimping, uitbreiding, fusie en overdr
 b. verandering van de grondslag van de instelling;
 c. werkomstandigheden en voorzieningen voor deelnemers binnen de instelling;
 d. het beleid met betrekking tot intake- en assessmentprocedures;
-e. de rol van deelnemers bij de interne kwaliteitszorg en zelfevaluatie.
+e. de rol van deelnemers bij de interne kwaliteitszorg en zelfevaluatie;
+f. de te verstrekken informatie aan aspirant-deelnemers van beroepsopleidingen, bedoeld in artikel 6.1.3a.
 5. In het reglement kunnen andere, nader te omschrijven onderwerpen worden opgenomen ten aanzien waarvan een van de bijzondere bevoegdheden aan de deelnemersraad wordt toegekend.
 6. De deelnemersraad heeft adviesbevoegdheid met betrekking tot een voorgenomen besluit van de raad van toezicht ten aanzien van de profielen, bedoeld in artikel 9.1.4, vijfde lid.
 7. Alvorens de raad van toezicht tot benoeming of ontslag van een lid van het college van bestuur overgaat, wordt de deelnemersraad vertrouwelijk gehoord over het voorgenomen besluit tot benoeming of ontslag. Het horen geschiedt op een zodanig tijdstip dat het van wezenlijke invloed kan zijn op de besluitvorming.
