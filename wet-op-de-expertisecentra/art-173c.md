@@ -1,0 +1,2 @@
+# Artikel 173c. Evaluatie zorgplicht veiligheid op school
+Onze Minister zendt binnen vijf jaar na de inwerkingtreding van artikel II van de Wet van 4 juni 2015 tot wijziging van enige onderwijswetten in verband met het invoeren van de verplichting voor scholen om zorg te dragen voor de veiligheid op school (Stb. 238) aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van de artikelen 5a en 22, eerste lid, onderdeel k, in de praktijk.
