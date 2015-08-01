@@ -2,16 +2,11 @@
 ## Hoofdstuk 1. Algemene bepalingen
 ## Hoofdstuk 2. Werkingssfeer
 ### Paragraaf 2.1. Algemeen
-### Paragraaf 2.2. Onderwijssoorten in de zin van hoofdstuk 3
 ### Paragraaf 2.3. Onderwijssoorten in de zin van hoofdstuk 4
 ### Paragraaf 2.4. Onderwijssoorten in de zin van hoofdstuk 5
 ### Paragraaf 2.5. Aanspraak
 ### Paragraaf 2.6. Overige bepalingen
 ### Paragraaf 2.7. Inkomen
-## Hoofdstuk 3. Leerlingen tot 18 jaar in niet bekostigd voortgezet onderwijs en beroepsonderwijs
-### Paragraaf 3.1. Reikwijdte
-### Paragraaf 3.2. Tegemoetkoming
-### Paragraaf 3.3. Toekenning
 ## Hoofdstuk 4. Leerlingen van 18 jaar en ouder in voortgezet onderwijs en vavo
 ### Paragraaf 4.1. Reikwijdte
 ### Paragraaf 4.2. Tegemoetkoming
