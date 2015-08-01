@@ -10,9 +10,9 @@ f. indien van toepassing voor- en vroegschoolse educatie;
 g. indien van toepassing de uitslag van de centrale eindtoets of andere eindtoets, bedoeld in artikel 9b, het niveau waarop de centrale eindtoets of andere eindtoets is afgelegd en indien geen centrale eindtoets of andere eindtoets is afgelegd de reden daarvan;
 h. het schooladvies, bedoeld in artikel 42, tweede lid;
 i. het registratienummer van de school of, indien sprake is van een nevenvestiging, het registratienummer daarvan;
-j. [vervallen;]
-k. indien van toepassing de aanduiding visueel gehandicapte leerling en de instelling die deze leerling begeleidt;
-l. bekostigingsindicatie; en
+j. bekostigingsindicatie; en
+k. tot een bij koninklijk besluit te bepalen tijdstip en indien van toepassing de begin- en de einddatum van de periode waarvoor er voor de leerling van een basisschool een ontwikkelingsperspectief als bedoeld in artikel 40a, is vastgesteld;
+l. [vervallen door verlettering;]
 m. indien van toepassing de aanduiding dat het betreft een leerling van een afdeling als bedoeld in artikel 85a.
 3. Bij ministeriële regeling kan een nadere specificatie worden gegeven van de gegevens, bedoeld in het tweede en zevende lid, en kan worden bepaald welke van de gegevens, bedoeld in het tweede en zevende lid, niet langer behoeven te worden verstrekt. Bij ministeriële regeling kunnen voorts regels worden gesteld omtrent de tijdstippen en de wijze van verstrekking van de gegevens, bedoeld in het tweede en zevende lid.
 4. Het bevoegd gezag kan het persoonsgebonden nummer van een leerling, al dan niet tezamen met een of meer van de gegevens, bedoeld in het tweede en zevende lid, gebruiken in het verkeer met Onze minister ten behoeve van de vaststelling van de bekostiging van de school.
