@@ -1,0 +1,2 @@
+# Artikel II
+Voor de beroepsopleidingen opgenomen in bijlage 2 en 3 behorende bij deze regeling wordt de prijsfactor van de kwalificatiedossiers 2011–2012 die op grond van artikel V van de Wet van 7 november 2011 tot wijziging van onder meer de Wet educatie en beroepsonderwijs inzake de beroepsgerichte kwalificatiestructuur van toepassing zijn gebleven, gewijzigd overeenkomstig bijlage 2 en 3 behorende bij deze regeling.
