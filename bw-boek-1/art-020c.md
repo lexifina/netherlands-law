@@ -1,2 +1,2 @@
 # Artikel 20c
-De artikelen 18 en 18b zijn van overeenkomstige toepassing.
+De artikelen 18 en 18c zijn van overeenkomstige toepassing.
