@@ -1,2 +1,7 @@
 # Artikel 13b
-Ingeval bij of krachtens deze wet wordt verwezen naar door de Voedsel- en Landbouworganisatie en de Wereldgezondheidsorganisatie tot stand gebrachte voedselstandaarden, codes voor goede praktijken of richtsnoeren, kan overtreding daarvan ook als strafbaar feit worden aangemerkt dan wel worden bestraft met een bestuurlijke sanctie indien deze voedselstandaarden, codes voor goede praktijken of richtsnoeren in de Engelse taal zijn gesteld en bekend gemaakt.
+1. Aan de aanvrager of de houder van de aanwijzing of erkenning, dan wel aan degene ten behoeve van wie de werkzaamheden worden verricht, kunnen de kosten ten laste worden gebracht, die samenhangen met:
+a. het in behandeling nemen en verlenen van een aanwijzing als bedoeld in artikel 13a, eerste lid;
+b. keuring of controle van waren indien die worden voorgeschreven door een bindend besluit van de Europese Unie inclusief de controle van daarbij voorgeschreven documenten, en van overeenstemming tussen deze documenten en de desbetreffende waren;
+c. de behandeling van een aanvraag tot of verlenging van een erkenning van een inrichting of een inschrijving van een inrichting in een register;
+d. vooraf aangekondigde en vastgestelde controles of nog aan de eisen gesteld voor de aanwijzing of erkenning wordt voldaan die nodig zijn ter uitvoering van een bindend besluit van de Europese Unie.
+2. De bedragen ter vergoeding van de kosten worden bij ministeriële regeling vastgesteld.

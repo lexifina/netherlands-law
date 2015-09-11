@@ -1,0 +1,2 @@
+# Artikel 13c
+Indien in een krachtens deze wet vastgesteld wettelijk voorschrift verwezen wordt naar een EU-richtlijn, gaat een wijziging van die EU-richtlijn voor de toepassing van dat voorschrift, gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
