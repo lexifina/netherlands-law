@@ -1,2 +1,0 @@
-# Artikel II
-De op naam gestelde akten van opsporingsbevoegdheid en beëdiging en de overige benoemingsbescheiden van de buitengewoon opsporingsambtenaren die in dienst zijn van de NV PWN Waterleidingbedrijf Noord-Holland, worden voor de duur van hun geldigheid of tot daarover nader zal zijn beslist, geacht te zijn akten en overige benoemingsbescheiden afgegeven mede op basis van het onderhavige besluit.
