@@ -1,9 +1,5 @@
 # Inhoud
 ## Inhoud
-### § 1 Algemene bepalingen
-### § 2 Natuur- en landschapsbeheer
-### § 3 Agrarisch natuur- en landschapsbeheer
-### § 4 Slotbepalingen
 ## Bijlage I
 Leeswijzer 3
 L01 Groenblauwe landschapselementen. 4
@@ -137,3 +133,5 @@ N17.01 Vochtig hakhout en middenbos. 93
 N17.02 Droog hakhout 94
 N17.03 Park- en stinzenbos. Fout! Bladwijzer niet gedefinieerd.
 N17.04 Eendenkooi Fout! Bladwijzer niet gedefinieerd.
+## Bijlage 3
+De koppeltabel zoals bedoeld in artikel 1.1, onderdeel f, is geplaatst op http://www.portaalnatuurenlandschap.nl/assets/Koppeltabel_08_04_2014-nationaal-def.pdf.
