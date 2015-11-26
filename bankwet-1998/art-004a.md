@@ -1,0 +1,2 @@
+# Artikel 4a
+De Bank neemt bij de uitoefening van haar taak, bedoeld in artikel 4, eerste lid, onderdeel e, tot uitgangspunt dat een beroep op de publieke middelen wordt vermeden. Indien met het oog op de afwikkelingsdoelstellingen, bedoeld in artikel 14 van de verordening gemeenschappelijk afwikkelingsmechanisme, een beroep op buitengewone openbare financiële steun onvermijdelijk is, wordt dat beroep beperkt tot hetgeen noodzakelijk is ter verwezenlijking van die doelstellingen.
