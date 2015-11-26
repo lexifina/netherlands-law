@@ -21,6 +21,7 @@
 ### Afdeling 11AA. Van het faillissement van een bank
 #### § 1. In Nederland gevestigde bank en buiten de Europese Economische Ruimte gevestigde bank met bijkantoor in Nederland
 #### § 2. Bepalingen van internationaal privaatrecht
+### Afdeling 11AB. Van het faillissement van een beleggingsonderneming als bedoeld in artikel 3a:2, onderdeel b, van de Wet op het financieel toezicht
 ### Afdeling 11B. Van het faillissement van een verzekeraar
 #### § 1. Definities
 #### § 2. Verzekeraars met zetel in Nederland, verzekeraars zonder vergunning met zetel in een andere lidstaat dan Nederland en verzekeraars met zetel buiten de Europese Unie met bijkantoor in Nederland

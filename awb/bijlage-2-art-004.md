@@ -45,6 +45,7 @@ Uitvoeringswet verordening Europese coöperatieve vennootschap: het verzet, bedo
 Uitvoeringswet verordening Europese vennootschap: het verzet, bedoeld in de artikelen 5, eerste lid, en 7
 Verordening (EG) nr. 1435/2003 van de Raad van 22 juli 2003 betreffende het statuut voor een Europese Coöperatieve Vennootschap (SCE) (PbEU 2003, L 207): artikel 7, veertiende lid, tweede alinea
 Verordening (EG) nr. 2157/2001 van de Raad van 8 oktober 2001 betreffende het statuut van de Europese vennootschap (SE) (PbEG 2001, L 294): artikel 8, veertiende lid, tweede alinea
+Verordening (EU) nr. 806/2014 van het Europees parlement en de Raad van 15 juli 2014 tot vaststelling van eenvormige regels en een eenvormige procedure voor de afwikkeling van kredietinstellingen en bepaalde beleggingsondernemingen in het kader van een gemeenschappelijk afwikkelingsmechanisme en een gemeenschappelijk bankenafwikkelingsfonds en tot wijziging van Verordening (EU) nr. 1093/2010 van het Europees parlement en de Raad (PbEU 2014, L 225): de artikelen 16, 18 en 21
 Waarborgwet 1986
 Warmtewet, met inbegrip van een op grond van artikel 5, eerste lid, genomen besluit tot vaststelling van een maximumprijs, en met uitzondering van artikel 18
 Wedervergeldingswet zeescheepvaart:
@@ -66,7 +67,7 @@ Wet nationaliteit zeeschepen in rompbevrachting
 Wet op de architectentitel, met inbegrip van een besluit inzake een aanwijzing als bedoeld in de artikelen 9, eerste lid, onderdeel j, 10, eerste lid, onderdeel f, 11, eerste lid, onderdeel f, en 12, eerste lid, onderdeel f, dat kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in artikel 8:3, eerste lid, van de Algemene wet bestuursrecht, tenzij het betreft een besluit als bedoeld in artikel 8:4, derde lid, onderdeel b, van de Algemene wet bestuursrecht
 Wet op het accountantsberoep
 Wet op het financieel toezicht:
-a. artikel 1:26, eerste en tweede lid, hoofdstuk 5.1 en de artikelen 5:77, eerste lid, en 5:81, derde lid
+a. artikel 1:26, eerste en tweede lid, de artikelen 3A:17 tot en met 3A:19, hoofdstuk 5.1 en de artikelen 5:77, eerste lid, en 5:81, derde lid
 b. een besluit terzake van het ingevolge artikel 5:76, tweede lid, of 5:80b, vijfde lid, bepaalde, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in artikel 1:80
 Wet personenvervoer 2000, met uitzondering van de artikelen 56, eerste lid, 59, eerste lid, 94, eerste lid, en 96, eerste lid
 Wet privatisering FVP

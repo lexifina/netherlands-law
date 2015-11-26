@@ -110,7 +110,8 @@ Wet opheffing particuliere banken van leening: artikel 2
 Wet op het financieel toezicht:
 a. de artikelen 1:49, eerste en tweede lid, 3:159h, eerste lid, en 3:159u
 b. de artikelen 1:75, eerste en tweede lid, 1:76, eerste en derde lid, en 3:159d, tweede lid, indien de Nederlandsche Bank een mededeling als bedoeld in artikel 3:159d, eerste lid, heeft gedaan, met dien verstande dat de mogelijkheid van beroep na verloop van twee maanden, gerekend vanaf de dag waarop de mededeling is gedaan, herleeft, indien de Nederlandsche Bank binnen die twee maanden geen verzoek als bedoeld in artikel 3:159u, eerste lid, of 3:160, eerste lid, of een verzoek als bedoeld in artikel 212ha, eerste lid, of 213aa, eerste lid, van de Faillissementswet, noch een nieuwe mededeling als bedoeld in artikel 3:159d, eerste lid, heeft gedaan
-c. de artikelen 6:1 en 6:2, voor zover het betreft een weigering om een besluit te nemen of het niet tijdig nemen van een besluit
+c. artikel 3A:56
+d. de artikelen 6:1 en 6:2, voor zover het betreft een weigering om een besluit te nemen of het niet tijdig nemen van een besluit
 Wet op het hoger onderwijs en wetenschappelijk onderzoek: artikel 7.61
 Wet op het primair onderwijs: artikel 140, vierde lid, zolang de gemeenteraad de aanvulling nog niet heeft bekrachtigd
 Wet op het voortgezet onderwijs: artikel 96g, vierde lid, zolang de gemeenteraad de aanvulling nog niet heeft bekrachtigd

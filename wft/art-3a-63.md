@@ -1,0 +1,2 @@
+# Artikel 3a:63. Verwerking persoonsgegevens
+Bij algemene maatregel van bestuur kunnen regels worden gesteld over het in het belang van de afwikkeling verwerken van persoonsgegevens. Bij die maatregel kan worden bepaald dat bij de verwerking van persoonsgegevens het burgerservicenummer kan worden gebruikt.

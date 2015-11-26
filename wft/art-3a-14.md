@@ -1,0 +1,4 @@
+# Artikel 3a:14. MREL beleggingsonderneming buiten SRM
+1. Een beleggingsonderneming die niet valt onder de werking van de verordening gemeenschappelijk afwikkelingsmechanisme, voldoet aan een minimumvereiste voor eigen vermogen en in aanmerking komende passiva.
+2. De Nederlandsche Bank stelt het minimumvereiste voor eigen vermogen en in aanmerking komende passiva vast. Artikel 12, vierde, zesde tot en met negende, elfde, twaalfde, zestiende en zeventiende lid, van de verordening gemeenschappelijk afwikkelingsmechanisme is van overeenkomstige toepassing.
+3. De Nederlandsche Bank kan aan een beleggingsonderneming die als EU-moederinstelling of dochteronderneming onderdeel uitmaakt van een grensoverschrijdende groep, ontheffing verlenen van het eerste lid, indien aan de voorwaarden, bedoeld in artikel 45, elfde onderscheidenlijk twaalfde lid, van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen is voldaan.

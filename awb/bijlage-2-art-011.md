@@ -27,6 +27,7 @@ c. alsmede, voor zover het betreft een besluit van de Autoriteit Consument en Ma
 1. hoofdstuk 6, tenzij beroep kon worden ingesteld voor de inwerkingtreding van de Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002
 2. de hoofdstukken 6A, 6B, en 12
 3. hoofdstuk 15, met uitzondering van de artikelen 15.2, 15.2a en 15.4
+Verordening (EU) nr. 806/2014 van het Europees parlement en de Raad van 15 juli 2014 tot vaststelling van eenvormige regels en een eenvormige procedure voor de afwikkeling van kredietinstellingen en bepaalde beleggingsondernemingen in het kader van een gemeenschappelijk afwikkelingsmechanisme en een gemeenschappelijk bankenafwikkelingsfonds en tot wijziging van Verordening (EU) nr. 1093/2010 van het Europees parlement en de Raad (PbEU 2014, L 225), met uitzondering van de artikelen 16, 18 en 21
 Warenwet
 Warmtewet: artikel 18
 Wet aanwijzing nationale accreditatie-instantie: hoofdstuk 3
@@ -43,9 +44,10 @@ Wet inzake de geldtransactiekantoren,voor zover die wet nog van toepassing is op
 Wet luchtvaart: artikel 11.24
 Wet marktordening gezondheidszorg, voor zover het betreft een besluit van de Nederlandse Zorgautoriteit als bedoeld in hoofdstuk 6, paragraaf 4
 Wet op het financieel toezicht, met uitzondering van:
-a. hoofdstuk 5.1 en de artikelen 5:77, eerste lid, en 5:81, derde lid
-b. een besluit terzake van het ingevolge artikel 5:76, tweede lid, of 5:80b, vijfde lid, bepaalde, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in artikel 1:80
-c. de artikelen 6:1 en 6:2
+a. de artikelen 3A:17 tot en met 3A:19
+b. hoofdstuk 5.1 en de artikelen 5:77, eerste lid, en 5:81, derde lid
+c. een besluit terzake van het ingevolge artikel 5:76, tweede lid, of 5:80b, vijfde lid, bepaalde, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in artikel 1:80
+d. de artikelen 6:1 en 6:2
 Wet op het notarisambt, voor zover het de toepassing of overeenkomstige toepassing van de Wet verplichte beroepspensioenregeling betreft op grond van artikel 113c
 Wet personenvervoer 2000: de artikelen 56, eerste lid, 59, eerste lid, 94, eerste lid, en 96, eerste lid
 Wet privatisering APB, voor zover het de overeenkomstige toepassing van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000 betreft op grond van artikel 21, vierde lid

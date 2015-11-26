@@ -1,0 +1,2 @@
+# Artikel 3a:57. Uitsluiting contractuele voorwaarden
+Artikel 1:76b is van overeenkomstige toepassing op de uitoefening van een bevoegdheid op grond van dit hoofdstuk of de verordening gemeenschappelijk afwikkelingsmechanisme, een besluit van een afwikkelingsautoriteit van een andere lidstaat of een derde land, dat erkend is ingevolge de artikelen 3A:4 onderscheidenlijk 3A:5, of een gebeurtenis die daarmee rechtstreeks verband houdt.

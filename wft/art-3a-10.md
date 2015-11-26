@@ -1,0 +1,2 @@
+# Artikel 3a:10. Beoordeling afwikkelbaarheid buiten SRM
+De Nederlandsche Bank beoordeelt bij het opstellen van een afwikkelingsplan ingevolge artikel 3A:9 de mate waarin de betrokken entiteit of groep afwikkelbaar is. Artikel 10, eerste tot en met zesde lid, van de verordening gemeenschappelijk afwikkelingsmechanisme is van overeenkomstige toepassing.

@@ -1,0 +1,6 @@
+# Artikel 3a:75. Financiering van groepsafwikkeling
+1. Bij de afwikkeling van een groep die niet valt onder de werking van de verordening gemeenschappelijk afwikkelingsmechanisme en waarvan een entiteit met zetel in Nederland deel uitmaakt, draagt het afwikkelingsfonds bij aan de financiering van de groepsafwikkeling.
+2. Indien de Nederlandsche Bank groepsafwikkelingsautoriteit is, stelt zij, voor de toepassing van het eerste lid, met inachtneming van artikel 107 van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen een groepsfinancieringsplan op. Artikel 3A:9, tweede lid, is van overeenkomstige toepassing.
+3. Indien de Nederlandsche Bank groepsafwikkelingsautoriteit is, wijst zij opbrengsten van de groepsafwikkeling toe aan financieringsregelingen als bedoeld in artikel 100, eerste lid, van die richtlijn in andere lidstaten en aan het afwikkelingsfonds naar rato van hun bijdragen aan de financiering van de afwikkeling.
+4. Het afwikkelingsfonds kan ten behoeve van de financiering van de afwikkeling van een groep als bedoeld in het eerste lid overeenkomsten aangaan tot het verkrijgen van financiële middelen van derden.
+5. Het afwikkelingsfonds kan een garantie afgeven met betrekking tot leningen aangegaan door een groepsfinancieringsregeling waaraan uit het afwikkelingsfonds wordt bijgedragen.

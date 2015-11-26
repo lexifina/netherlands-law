@@ -1,0 +1,3 @@
+# Artikel 3a:42. De entiteit voor activa- en passivabeheer
+1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de oprichting en beëindiging, de taak, de financiering, de inrichting, het bestuur en de werkwijze van een entiteit voor activa- en passivabeheer of van een rechtspersoon die tot taak heeft het eigendom in een entiteit voor activa- en passivabeheer te houden.
+2. De Nederlandsche Bank kan een entiteit voor activa- en passivabeheer of rechtspersoon als bedoeld in het eerste lid een aanwijzing geven met betrekking tot de taakuitoefening.

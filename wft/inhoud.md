@@ -240,9 +240,8 @@
 ##### § 3.5.4.1. Levensverzekeraars met zetel in Nederland
 ##### § 3.5.4.2. Levensverzekeraars met zetel in een staat die geen lidstaat is
 #### Afdeling 3.5.4a. Overdracht
-##### § 3.5.4a.1. Banken en verzekeraars met zetel in Nederland
-##### § 3.5.4a.2. Banken en verzekeraars met zetel in een staat die geen lidstaat is
-#### Afdeling 3.5.4b. Afwikkelingsplannen voor banken en voor beleggingsondernemingen in de zin van de verordening kapitaalvereisten
+##### § 3.5.4a.1. Verzekeraars met zetel in Nederland
+##### § 3.5.4a.2. Verzekeraars met zetel in een staat die geen lidstaat is
 #### Afdeling 3.5.5. Noodregeling en saneringsmaatregelen en liquidatieprocedures naar buitenlands recht
 ##### § 3.5.5.1. Financiële ondernemingen met zetel in Nederland
 ##### § 3.5.5.2. Financiële ondernemingen met zetel in een andere lidstaat
@@ -253,11 +252,12 @@
 ##### § 3.5.6.1. Financiële ondernemingen met zetel in Nederland
 ##### § 3.5.6.1a. Uitvoering van de vangnetregeling in de noodregeling
 ##### § 3.5.6.1b. Van rechtswege verrekening van bankspaardeposito's eigen woning
+##### § 3.5.6.1c. Uitvoering van het depositogarantiestelsel bij afwikkeling
 ##### § 3.5.6.2. Financiële ondernemingen met zetel in een andere lidstaat
 ##### § 3.5.6.3. Financiële ondernemingen met zetel in een staat die geen lidstaat is
 #### Afdeling 3.5.6a. Beleggingsbeginselen en beleggingsbeleid van afwikkelondernemingen
 #### Afdeling 3.5.7. Beleggingsbeginselen en beleggingsbeleid van premiepensioeninstellingen
-#### Afdeling 3.5.8. Rechten wederpartij na een gebeurtenis
+#### Afdeling 3.5.8. Rechten wederpartij na een gebeurtenis met betrekking tot een verzekeraar
 ### Hoofdstuk 3.6. Aanvullende bepalingen ten aanzien van financiele groepen
 #### Afdeling 3.6.1. Definities en algemeen
 #### Afdeling 3.6.2. Geconsolideerd toezicht op banken, beleggingsondernemingen, betaalinstellingen en elektronischgeldinstellingen
@@ -265,6 +265,27 @@
 #### Afdeling 3.6.4. Prudentieel toezicht op financiële conglomeraten
 ##### § 3.6.4.1. Regels betreffende het toezicht op financiële conglomeraten
 ##### § 3.6.4.2. Regels voor het werkzaam zijn als financieel conglomeraat
+#### Afdeling 3.6.5. Overeenkomsten voor financiële steun binnen een groep
+## 3a. Deel Bijzondere maatregelen en voorzieningen betreffende financiële ondernemingen
+### Hoofdstuk 3a.1. Inleidende bepalingen
+### Hoofdstuk 3a.2. Afwikkeling van banken en bepaalde beleggingsondernemingen
+#### Afdeling 3a.2.1. Algemene bepalingen
+#### Afdeling 3a.2.2. Voorbereiding van afwikkeling
+#### Afdeling 3a.2.3. Besluit tot afwikkeling of tot afschrijving en omzetting kapitaalinstrumenten
+#### Afdeling 3a.2.4. Afschrijving en omzetting van kapitaalinstrumenten
+#### Afdeling 3a.2.5. Afwikkeling
+##### § 3a.2.5.1. Het instrument van overgang van de onderneming
+##### § 3a.2.5.2. Het instrument van de overbruggingsinstelling
+##### § 3a.2.5.3. Het instrument van afsplitsing van activa of passiva
+##### § 3a.2.5.4. Het instrument van bail-in
+##### § 3a.2.5.5. Bijzondere bevoegdheden
+##### § 3a.2.5.6. Gevolgen van afwikkeling
+##### § 3a.2.5.7. Waarborgen
+##### § 3a.2.5.8. Overige bepalingen
+#### Afdeling 3a.2.6. Rechtsbescherming
+#### Afdeling 3a.2.7. Financiering van afwikkeling
+##### § 3a.2.7.1. Het Nederlandse afwikkelingsfonds
+##### § 3a.2.7.2. Bijdragen aan het gemeenschappelijk afwikkelingsfonds
 ## 4. Deel Gedragstoezicht financiële ondernemingen
 ### Hoofdstuk 4.1. Inleidende bepalingen
 #### Afdeling 4.1.1. Reikwijdte
@@ -365,11 +386,13 @@
 ### Algemeen deel
 ### Deel Markttoegang financiële ondernemingen
 ### Deel Prudentieel toezicht financiële ondernemingen
+### Deel Bijzondere maatregelen en voorzieningen betreffende financiële ondernemingen
 ### Deel Gedragstoezicht financiële ondernemingen
 ### Deel Gedragstoezicht financiële markten
 ## Overtreding van voorschriften, gesteld bij of krachtens artikel:
 ### Algemeen deel
 ### Deel Markttoegang financiële ondernemingen
 ### Deel Prudentieel toezicht financiële ondernemingen
+### Deel Bijzondere maatregelen en voorzieningen betreffende financiële ondernemingen
 ### Deel Gedragstoezicht financiële ondernemingen
 ### Deel Gedragstoezicht financiële markten

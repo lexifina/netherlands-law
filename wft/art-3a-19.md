@@ -1,0 +1,3 @@
+# Artikel 3a:19. Afwikkelingsmaatregel bijkantoren derde landen
+1. De Nederlandse Bank kan besluiten tot het toepassen van een afwikkelingsmaatregel ten aanzien van een bijkantoor van een bank of beleggingsonderneming met zetel in een staat die geen lidstaat is, indien wordt voldaan aan de voorwaarden, bedoeld in artikel 96 van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen.
+2. Ter voorbereiding van een besluit als bedoeld in het eerste lid, wordt een waardering verricht van de activa en passiva waarop de voorgenomen afwikkelingsmaatregel ziet. Artikel 20, eerste tot en met vijftiende lid, van de verordening gemeenschappelijk afwikkelingsmechanisme is van overeenkomstige toepassing.

@@ -1,0 +1,5 @@
+# Artikel 3a:25. Volledige afschrijving
+1. Indien de Nederlandsche Bank ingevolge artikel 3A:21, eerste lid, de hoofdsom of het uitstaande verschuldigde bedrag van een verplichting van een entiteit tot nihil vermindert, worden de verplichting en eventuele verplichtingen of vorderingen die daaruit voortvloeien en die niet opeisbaar waren op het moment waarop de bevoegdheid werd uitgeoefend, als voldaan beschouwd.
+2. Indien de Nederlandsche Bank de hoofdsom of het uitstaande verschuldigde bedrag van een verplichting van een entiteit vermindert, maar niet tot nihil reduceert:
+a. wordt de verplichting als voldaan beschouwd ter hoogte van het verminderde bedrag; en
+b. blijven de voorwaarden van het betrokken instrument of de betrokken overeenkomst waarop de oorspronkelijke verplichting is gebaseerd, van toepassing op het resterende gedeelte van de hoofdsom of het uitstaande verschuldigde bedrag van de verplichting, met uitzondering van een eventuele wijziging van het verschuldigde rentebedrag om de vermindering van het bedrag van de hoofdsom weer te geven, en onverminderd de toepassing van artikel 3A:51, eerste en derde lid.

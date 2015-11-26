@@ -1,0 +1,4 @@
+# Artikel 3a:45. Uitgifte kernkapitaal- of eigendomsinstrumenten
+1. De Nederlandsche Bank kan voorschrijven dat een entiteit kernkapitaalinstrumenten of eigendomsinstrumenten uitgeeft aan de houders van de rechten, verkregen ingevolge de toepassing van artikel 3A:44, eerste lid, dan wel medewerking verleent aan de uitgifte daarvan. De Nederlandsche Bank kan aan de uitoefening van die rechten een termijn verbinden. Bij de uitgifte kunnen geen andere rechten worden uitgeoefend dan de rechten, bedoeld in artikel 3A:44, eerste lid.
+2. Bij de uitgifte ingevolge het eerste lid zijn de voorwaarden, bedoeld in artikel 60, derde lid, onderdelen a tot en met d, van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen van overeenkomstige toepassing.
+3. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het eerste lid.

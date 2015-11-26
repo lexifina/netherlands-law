@@ -1,0 +1,3 @@
+# Artikel 3a:30. Verzoek tot faillissement
+1. Indien de Nederlandsche Bank besluit tot overgang van gedeelten van de activa of passiva van een entiteit in afwikkeling, verzoekt zij de rechtbank Amsterdam binnen een redelijke termijn het faillissement van de entiteit uit te spreken.
+2. Bij de beslissing op het verzoek wordt rekening gehouden met het mogelijke belang van het voortbestaan van het overgebleven deel van de entiteit om de afwikkelingsdoelstellingen te verwezenlijken of om aan de beginselen te voldoen, bedoeld in artikel 14 onderscheidenlijk artikel 15, eerste lid, van de verordening gemeenschappelijk afwikkelingsmechanisme.

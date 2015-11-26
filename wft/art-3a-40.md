@@ -1,0 +1,3 @@
+# Artikel 3a:40. Vergunning overbruggingsinstelling
+1. De overbruggingsinstelling beschikt, voor zover nodig voor de uitoefening van haar werkzaamheden, van rechtswege over een vergunning als bedoeld in de artikelen 2:11 of 2:96.
+2. Op verzoek van de Nederlandsche Bank kan de Europese Centrale Bank onderscheidenlijk de Autoriteit Financiële Markten, met het oog op de verwezenlijking van een of meer van de in artikel 14 van de verordening gemeenschappelijk afwikkelingsmechanisme bedoelde afwikkelingsdoelstellingen, tijdelijk ontheffing verlenen van een of meer van de vereisten, bedoeld in artikel 2:12, eerste lid, onderscheidenlijk artikel 2:99, eerste lid.

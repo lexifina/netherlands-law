@@ -1,0 +1,4 @@
+# Artikel 3a:51. Beëindiging of wijziging overeenkomst
+1. De Nederlandsche Bank kan een overeenkomst waarbij de entiteit in afwikkeling partij is, beëindigen of wijzigen, alsmede de verkrijger in de plaats stellen van de entiteit in afwikkeling als partij bij een overeenkomst.
+2. Voor de toepassing van het eerste lid wordt onder overeenkomst mede verstaan: activa als bedoeld in artikel 63, eerste lid, onderdeel j, van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen, met uitzondering van door zekerheid gedekte passiva als bedoeld in artikel 44, tweede lid, van die richtlijn.
+3. De Nederlandsche Bank kan bij de toepassing van een afwikkelingsmaatregel bepalen dat eigendomsinstrumenten, activa of passiva vrij van enige bezwaring of aansprakelijkheid overgaan.

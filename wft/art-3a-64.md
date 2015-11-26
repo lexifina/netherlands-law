@@ -1,0 +1,7 @@
+# Artikel 3a:64. Bijzondere procedureregels
+1. In afwijking van artikel 6:7 van de Algemene wet bestuursrecht, bedraagt de termijn voor het indienen van een beroepschrift tegen een besluit van de Nederlandsche Bank op grond van de artikelen 3A:17 tot en met 3A:19 of 16, 18 en 21 van de verordening gemeenschappelijk afwikkelingsmechanisme, tien dagen.
+2. In afwijking van artikel 6:6 van de Algemene wet bestuursrecht, is het beroep niet-ontvankelijk indien niet is voldaan aan artikel 6:5, eerste lid, onderdeel d, van die wet.
+3. Na afloop van de termijn voor het instellen van beroep kunnen geen beroepsgronden meer worden aangevoerd.
+4. In afwijking van artikel 8:41, vijfde lid, van de Algemene wet bestuursrecht, bedraagt de termijn binnen welke de bijschrijving of storting van het verschuldigde griffierecht dient plaats te vinden, twee weken.
+5. De bestuursrechter behandelt de zaak op versnelde wijze overeenkomstig artikel 8:52, tweede lid, onderdelen b tot en met f, en derde lid, van de Algemene wet bestuursrecht. Afdeling 8.2.4 van die wet blijft buiten toepassing.
+6. De bestuursrechter doet uitspraak uiterlijk op de veertiende dag nadat het beroepschrift is ontvangen. Indien met toepassing van artikel 8:14, eerste lid, van de Algemene wet bestuursrecht twee of meer zaken gevoegd worden behandeld, doet de bestuursrechter uitspraak uiterlijk op de veertiende dag na ontvangst van het laatst ontvangen beroepschrift.

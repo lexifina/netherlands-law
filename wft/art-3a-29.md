@@ -1,0 +1,3 @@
+# Artikel 3a:29. Voorwaarden voor overgang
+1. Voor de toepassing van het instrument van overgang van de onderneming besluit de Nederlandsche Bank tot overgang van eigendomsinstrumenten, activa of passiva van de entiteit in afwikkeling met inachtneming van de voorwaarden voor overgang ingevolge artikel 39, tweede en derde lid, van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen.
+2. De overgang vindt plaats onder commerciële voorwaarden, die in overeenstemming zijn met de waardering ingevolge artikel 3A:17, vierde lid, artikel 3A:18, vijfde lid, of artikel 20, eerste tot en met vijftiende lid, van de verordening gemeenschappelijk afwikkelingsmechanisme.
