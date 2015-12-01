@@ -41,6 +41,7 @@ Wet handhaving consumentenbescherming
 Wet implementatie EU-richtlijnen energie-efficiëntie: de artikelen 21 en 22
 Wet inkomstenbelasting 2001: een boetebesluit als bedoeld in artikel 3.52a, elfde lid, en een daarmee samenhangende correctie-RDA-beschikking als bedoeld in het tweede lid van dit artikel
 Wet inzake de geldtransactiekantoren,voor zover die wet nog van toepassing is op grond van artikel IX van de Wijzigingswet financiële markten 2012
+Wet lokaal spoor, met uitzondering van artikel 12
 Wet luchtvaart: artikel 11.24
 Wet marktordening gezondheidszorg, voor zover het betreft een besluit van de Nederlandse Zorgautoriteit als bedoeld in hoofdstuk 6, paragraaf 4
 Wet op het financieel toezicht, met uitzondering van:
