@@ -1,3 +1,0 @@
-# Artikel 33a
-1. Met betrekking tot door Onze Minister van Verkeer en Waterstaat aangewezen spoorwegen of gedeelten daarvan, aangelegd door of langs bos-, veen- of heidegronden of gronden met andere licht brandbare gewassen begroeid, zorgen bestuurders van de spoorwegdienst dat het terrein van de spoorweg, door het graven van sloten, het omspitten of het bedekken met onbrandbare stoffen van een doorgaande strook gronds of door enig ander middel, van de aangrenzende eigendommen wordt afgescheiden, aldus, dat bij het ontstaan van brand op het terrein van de spoorweg, de brand zich niet op de aangrenzende eigendommen uitbreidt.
-2. Op het maken en instandhouden van deze voorzieningen zijn artikel 13, het eerste lid van artikel 14 en artikel 15 van toepassing.

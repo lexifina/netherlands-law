@@ -1,5 +1,0 @@
-# Artikel 4a
-1. Op stadsspoorwegen zijn van de in artikel 4 aangehaalde wet hoofdstuk III en artikel 35 niet van toepassing. Het bij of krachtens de artikelen 27 en 52 bepaalde inzake goederen is op deze spoorwegen niet van toepassing.
-2. Bij algemene maatregel van bestuur kunnen omtrent de dienst op, alsmede de afsluiting van stadsspoorwegen bepalingen worden vastgesteld, waarbij wordt afgeweken van de artikelen 26 en 34 van de in artikel 4 aangehaalde wet.
-3. Bij algemene maatregel van bestuur kan ten aanzien van stadsspoorwegdiensten onder beheer van een publiekrechtelijk lichaam worden bepaald, dat voor de naleving van die algemene maatregel van bestuur zij als bestuurders worden aangemerkt, die door dit publiekrechtelijk lichaam aan het hoofd van die stadsspoorwegdienst zijn gesteld.
-4. Indien het gezag, gesteld boven de bestuurders, in het vorige lid bedoeld, deze de middelen onthoudt, welke nodig zijn hen in staat te stellen de verplichtingen na te komen, welke bij of krachtens de in het vorige lid bedoelde algemene maatregel van bestuur op hen zijn gelegd, wordt echter dat gezag als bestuurder aangemerkt.
