@@ -32,6 +32,7 @@
 ### § 6. Heffingen
 ### § 7. Toepasselijkheid nieuwe Europese regelgeving
 ### § 8. Erkenning van keuringsinstanties
+### § 9. Bepalingen inzake bijzondere spoorwegen
 ### § 10. Informatieplicht van spoorwegondernemingen en de beheerder
 ### § 11. De verwerking van persoonsgegevens
 ## Hoofdstuk 8. Aanpassing en intrekking van andere wetten
