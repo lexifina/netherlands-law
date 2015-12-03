@@ -1,0 +1,3 @@
+# Artikel 14a
+1. De verboden op het vervoeren en onder zich hebben, bedoeld in artikel 13, eerste lid, van de wet, gelden niet ten aanzien van keutels, braakballen, losse veren, haarballen, sterrenschot en afgeworpen geweien afkomstig van dieren, behorende tot een beschermde inheemse diersoort.
+2. Voorzover de in het eerste lid bedoelde producten van dieren afkomstig zijn van of producten bevatten van vogelsoorten als bedoeld in artikel 4, eerste lid, van de wet of van diersoorten, genoemd in bijlage IV van de Habitatrichtlijn of in bijlage 1 bij dit besluit, geldt de vrijstelling, bedoeld in het eerste lid, slechts als het vervoer of het onder zich hebben geschiedt met het oog op gebruik van deze producten bij onderzoek en onderwijs.
