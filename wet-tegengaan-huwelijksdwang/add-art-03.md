@@ -1,0 +1,3 @@
+# Artikel III
+A. Artikel 31 van Boek 1 van het Burgerlijk Wetboek zoals het gold voor het tijdstip van inwerkingtreding van deze wet, is ook na dit tijdstip van toepassing indien de aangifte of aankondiging van het huwelijksvoornemen bij de ambtenaar van de burgerlijke stand voor dit tijdstip heeft plaatsgehad.
+B. Artikel 233 van Boek 1 van het Burgerlijk Wetboek is niet van toepassing op hen die voor de inwerkingtreding van deze wet als gevolg van het sluiten van een huwelijk of geregistreerd partnerschap meerderjarig zijn geworden. Voor deze personen blijft het recht van toepassing zoals dat gold onmiddellijk voorafgaande aan het tijdstip van inwerkingtreding van deze wet.
