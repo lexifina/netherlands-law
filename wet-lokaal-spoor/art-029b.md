@@ -1,0 +1,4 @@
+# Artikel 29b
+1. Indien een vervoerder onder de directe of indirecte zeggenschap staat van een onderneming of een andere entiteit die andere spoorvervoerdiensten dan stads-, voorstads- en regionale diensten verricht of integreert, worden de winst-en-verliesrekeningen en balansen gescheiden opgesteld en gepubliceerd voor zover het betreft enerzijds activiteiten met betrekking tot de levering van vervoerdiensten door die vervoerder en anderzijds activiteiten met betrekking tot de levering van vervoerdiensten door die onderneming of andere entiteit.
+2. Financiële middelen die door een bestuursorgaan zijn verstrekt met het oog op een van de in het eerste lid bedoelde activiteiten worden niet overgedragen naar de andere activiteit.
+3. De wijze waarop de boekhoudingen van de verschillende bedoelde activiteiten worden gevoerd, maakt het mogelijk toe te zien op het verbod op de overdracht van openbare financiële middelen van het ene activiteitengebied naar het andere.

@@ -1,0 +1,4 @@
+# Artikel 68a
+1. Exploitanten van dienstvoorzieningen verstrekken aan de beheerder informatie over de voorwaarden voor toegang en voor verlening van diensten, bedoeld in artikel 67, en informatie over de vergoedingen, bedoeld in artikel 68, of verwijzen de beheerder naar een website waarop deze informatie kosteloos in elektronische vorm wordt aangeboden.
+2. Onverminderd het eerste lid, verstrekken exploitanten van dienstvoorzieningen als bedoeld in bijlage II, punt 2, onderdelen a, f en i, van richtlijn 2012/34/EU, onverwijld informatie over de voorwaarden voor toegang als bedoeld in artikel 67, eerste lid, onderdeel b, of voor verlening van diensten als bedoeld in artikel 67, eerste lid, onderdeel c, alsmede informatie over vergoedingen als bedoeld in artikel 68, eerste lid, aan spoorwegondernemingen die daarom verzoeken.
+3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld ter uitvoering van het eerste lid.
