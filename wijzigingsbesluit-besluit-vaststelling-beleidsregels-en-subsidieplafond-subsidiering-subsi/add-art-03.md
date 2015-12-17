@@ -1,0 +1,2 @@
+# Artikel III
+Dit besluit treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
