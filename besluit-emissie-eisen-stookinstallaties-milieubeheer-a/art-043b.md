@@ -1,2 +1,0 @@
-# Artikel 43b
-Met ingang van 1 januari 2005 wordt jaarlijks een raming opgesteld van de warmte-inhoud van de totale hoeveelheid brandstof die in het daaraan voorafgaande kalenderjaar in een stookinstallatie met een thermisch vermogen van 50 MW of meer is verbrand. Deze warmte-inhoud wordt gespecificeerd voor de volgende categorieën brandstoffen: biomassa, overige vaste brandstoffen, vloeibare brandstoffen, aardgas en overige gasvormige brandstoffen.

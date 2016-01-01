@@ -1,3 +1,0 @@
-# Artikel 42a
-1. Indien een zuigermotor waarin uitsluitend aardgas wordt gestookt, behoort tot een type dat blijkens keuring door een door Onze Minister aan te wijzen instantie met betrekking tot de uitworp van stikstofoxiden voldoet aan de in artikel 23 gestelde eis voor de categorie waartoe dat type behoort en de zuigermotor wordt gedreven conform de bedrijfsvoorschriften van de leverancier voor dat type, is aan het bepaalde in artikel 23 voldaan en blijft artikel 39, derde lid, buiten toepassing.
-2. De juiste afstelling van de motor voor de wijze van drijven, bedoeld in het eerste lid, dient bij onderhoudsbeurten te worden gecontroleerd, hetgeen dient te blijken uit een verslag van de uitgevoerde onderhoudsbeurten.

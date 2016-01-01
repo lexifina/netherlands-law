@@ -1,5 +1,0 @@
-# Artikel 7a
-1. Indien bij een stookinstallatie met een thermisch vermogen van 50 MW of meer de apparatuur die de emissiereductie bewerkstelligt, is uitgevallen, en deze apparatuur niet binnen 24 uur normaal functioneert, wordt de stookinstallatie geheel of gedeeltelijk buiten gebruik gesteld of met een weinig vervuilende brandstof in bedrijf gehouden.
-2. Een stookinstallatie met een thermisch vermogen van 50 MW of meer mag als gevolg van een storing als bedoeld in het eerste lid gedurende ten hoogste 120 uur per 12 maanden in bedrijf zijn zonder dat de apparatuur die de emissiereductie bewerkstelligt, functioneert.
-3. Het bevoegd gezag kan de in het eerste en tweede lid genoemde periodes van 24 en 120 uur verlengen, indien dit absoluut noodzakelijk is om de energievoorziening in stand te houden of indien de betreffende stookinstallatie in die gevallen voor een beperkte tijd vervangen zou worden door een stookinstallatie die over het geheel genomen hogere emissies zou veroorzaken.
-4. Storingen als bedoeld in het eerste lid worden binnen 48 uur gemeld aan het bevoegd gezag.

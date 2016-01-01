@@ -1,2 +1,0 @@
-# Artikel 10c
-Bij een stookinstallatie met een thermisch vermogen van 50 MW of meer waarvoor op of na 27 november 2002 vergunning is verleend en bij een stookinstallatie met een thermisch vermogen van 50 MW of meer waarop artikel 10a, tweede lid, van toepassing is, wordt de technische en economische haalbaarheid van warmtekrachtkoppeling onderzocht. Indien die haalbaarheid wordt bevestigd, wordt warmtekrachtkoppeling toegepast.

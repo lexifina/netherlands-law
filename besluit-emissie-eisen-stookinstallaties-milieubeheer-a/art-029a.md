@@ -1,3 +1,0 @@
-# Artikel 29a
-1. Het bevoegd gezag beoordeelt op basis van het in artikel 10d bedoelde onderzoek, het in artikel 10d, tweede lid, bedoelde document en andere beschikbare informatie of het afvangen en comprimeren van CO2 en het transporteren daarvan naar een geschikte opslaglocatie in technisch en economisch opzicht haalbaar zijn. Bij die beoordeling worden de belangen van de bescherming van het milieu en de volksgezondheid in acht genomen.
-2. Indien het bevoegd gezag van oordeel is dat het afvangen, comprimeren en transporteren van CO2 haalbaar is, verbindt het aan de vergunning het voorschrift dat binnen de inrichting geschikte ruimte wordt vrijgemaakt of vrijgehouden om CO2 af te vangen, te comprimeren en te transporteren.

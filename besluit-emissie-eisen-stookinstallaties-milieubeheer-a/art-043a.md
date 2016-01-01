@@ -1,3 +1,0 @@
-# Artikel 43a
-1. Indien continue meting van de concentratie aan zwaveldioxide, stikstofoxiden of stof in rookgas van een stookinstallatie plaatsvindt, dient de per dag uitgeworpen massahoeveelheid zwaveldioxide, onderscheidenlijk stikstofoxiden, onderscheidenlijk stof dagelijks te worden vastgesteld en opgeteld bij de hoeveelheid die in de voorafgaande dagen van het kalenderjaar is uitgeworpen. De vaststelling geschiedt mede op basis van het rookgasdebiet.
-2. Indien de concentratie aan zwaveldioxide, stikstofoxiden of stof in rookgas van een stookinstallatie niet continu wordt gemeten, dient na afloop van elk kalenderjaar een raming van de totale uitgeworpen massahoeveelheid aan zwaveldioxide, onderscheidenlijk stikstofoxiden, onderscheidenlijk stof te worden opgesteld.

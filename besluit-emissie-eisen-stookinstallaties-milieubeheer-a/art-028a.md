@@ -1,2 +1,0 @@
-# Artikel 28a
-In afwijking van de artikelen 27 en 28 stelt het bevoegd gezag, indien tot de inrichting een IPPC-installatie behoort, voor een tot die IPPC-installatie behorende stookinstallatie strengere emissie-eisen dan de in dit besluit voor die installatie gestelde emissie-eisen, indien met laatstbedoelde eisen niet wordt voldaan aan het bepaalde bij of krachtens de artikelen 2.14 en 2.22 van de Wet algemene bepalingen omgevingsrecht.
