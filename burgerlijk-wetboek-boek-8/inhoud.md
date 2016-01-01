@@ -32,6 +32,7 @@
 ###### Paragraaf 1. algemene bepalingen en toepassingsgebied
 ###### Paragraaf 2. aansprakelijkheid van de scheepseigenaar
 ###### Paragraaf 3. verplichte verzekering
+##### Afdeling 6. Aansprakelijkheid voor de kosten van het lokaliseren, markeren en opruimen van een wrak
 #### Titel 7. Beperking van aansprakelijkheid voor maritieme vorderingen
 ### III. Binnenvaartrecht
 #### Titel 8. Het binnenschip en de zaken aan boord daarvan
@@ -95,5 +96,6 @@
 ##### Afdeling 10. Hulpverlening
 ##### Afdeling 11. Avarij-grosse
 ##### Afdeling 12. Gevaarlijke stoffen aan boord van een zeeschip, een binnenschip, een voertuig en een spoorvoertuig
+##### Afdeling 12a. Vorderingen ter zake van kosten van het lokaliseren, markeren en opruimen van een wrak
 ##### Afdeling 13. Luchtrecht
 #### Algemene Slotbepaling
