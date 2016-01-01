@@ -1,9 +1,9 @@
 # Artikel 10bis.6. Vrijstelling kapitaalverzekering eigen woning
-1. Tot het voordeel uit kapitaalverzekering eigen woning behoort niet de rente begrepen in de uitkering uit een kapitaalverzekering eigen woning voor zover de uitkering niet meer bedraagt dan € 161.500 indien:
+1. Tot het voordeel uit kapitaalverzekering eigen woning behoort niet de rente begrepen in de uitkering uit een kapitaalverzekering eigen woning voor zover de uitkering niet meer bedraagt dan € 162.000 indien:
 a. de uitkering heeft gediend als aflossing van de eigenwoningschuld;
 b. ter zake van de verzekering ten minste 20 jaar, of, indien de verzekering tot uitkering komt door eerder overlijden, tot het overlijden, jaarlijks premies zijn voldaan en
 c. de hoogste premie niet meer heeft bedragen dan het tienvoud van de laagste.
-In afwijking in zoverre van de eerste volzin, aanhef en onderdeel b, wordt de rente die is begrepen in de uitkering uit een kapitaalverzekering eigen woning, voor zover deze uitkering niet meer bedraagt dan € 36.600, niet als voordeel uit kapitaalverzekering aangemerkt indien ter zake van de verzekering ten minste 15 jaar jaarlijks premies zijn voldaan.
+In afwijking in zoverre van de eerste volzin, aanhef en onderdeel b, wordt de rente die is begrepen in de uitkering uit een kapitaalverzekering eigen woning, voor zover deze uitkering niet meer bedraagt dan € 36.800, niet als voordeel uit kapitaalverzekering aangemerkt indien ter zake van de verzekering ten minste 15 jaar jaarlijks premies zijn voldaan.
 2. De in het eerste lid, onderdelen a en b, genoemde voorwaarden gelden niet indien:
 a. de verzekeringnemer of zijn partner geen eigen woning meer ter beschikking staat en ter zake daarvan de verzekering tot uitkering is gekomen of wordt geacht tot uitkering te zijn gekomen of
 b. de verzekering wordt geacht tot uitkering te zijn gekomen door het ophouden binnenlands belastingplichtig te zijn als bedoeld in artikel 10bis.4, vierde lid.
