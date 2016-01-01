@@ -11,7 +11,7 @@ a. instelling:
 8°. degene die een vergunning heeft verkregen ingevolge artikel 3:4 van de Wet op het financieel toezicht.
 b. systeem:
 1°. een door de Minister van Financiën op grond van artikel 212d aangewezen systeem;
-2°. een formele overeenkomst waarop het recht van een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte van toepassing is en die door een andere lidstaat van de Europese Unie als systeem in de zin van richtlijn nr. 98/26/EG van het Europees Parlement en de Raad van de Europese Unie van 19 mei 1998 (PbEG L 166) is aangemeld bij de Commissie van de Europese Gemeenschappen;
+2°. een formele overeenkomst waarop het recht van een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte van toepassing is en die door een andere lidstaat van de Europese Unie als systeem in de zin van richtlijn nr. 98/26/EG van het Europees Parlement en de Raad van de Europese Unie van 19 mei 1998 (PbEG L 166) is aangemeld bij de Europese Autoriteit voor effecten en markten;
 c. centrale tegenpartij: een lichaam dat tussen de instellingen die deelnemen aan een systeem, in staat en dat optreedt als de exclusieve tegenpartij van deze instellingen met betrekking tot hun overboekingsopdrachten;
 d. afwikkelende instantie: een lichaam dat aan instellingen of centrale tegenpartijen die deelnemen aan systemen, afwikkelingsrekeningen beschikbaar stelt via welke overboekingsopdrachten binnen die systemen worden afgewikkeld;
 e. verrekeningsinstituut: een lichaam dat verantwoordelijk is voor de berekening van de netto posities van de instellingen, een eventuele centrale tegenpartij of een eventuele afwikkelende instantie;
