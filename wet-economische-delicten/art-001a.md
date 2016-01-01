@@ -7,7 +7,7 @@ de Meststoffenwet, de artikelen 7, 14, eerste lid, 19, eerste of tweede lid, 20,
 de Visserijwet 1963, de artikelen 3a, voor zover de overtreding van die voorschriften in de EU-verordening ter uitvoering waarvan zij strekken als ernstige inbreuk wordt aangemerkt, 5, 7, voor zover wordt gevist anders dan met de hengel of de peur, en 21, voor zover wordt gevist anders dan met de hengel of de peur, dan wel overtreding van voorschriften verbonden aan op grond van het bepaalde bij of krachtens de artikelen 7 en 21 van de Visserijwet 1963 verleende schriftelijke toestemmingen en huurovereenkomsten;
 de Waterwet, de artikelen 6.2, 6.3, 6.4, 6.5, 6.6, eerste en tweede lid, 6.8, 6.10, eerste lid, 6.20, derde lid, tenzij de desbetreffende vergunning uitsluitend berust op een verordening van een waterschap, en 10.1;
 de Wet algemene bepalingen omgevingsrecht, artikel 2.1, eerste lid, aanhef en onder e, en artikel 2.3, aanhef en onder a;
-de Wet bestrijding ongevallen Noordzee, de artikelen 4, eerste, tweede, derde en vierde lid, en 15;
+de Wet bestrijding maritieme ongevallen, de artikelen 5, eerste, tweede en derde lid, 6, 9, eerste lid, onder a en b, 15, 17, eerste en tweede lid, 26, 32, eerste en tweede lid, en 35, tweede lid;
 de Wet bodembescherming, de artikelen 6 tot en met 13, 38 en 94;
 de Wet gewasbeschermingsmiddelen en biociden: de artikelen 2a, 19, 20, eerste lid, 21, 22, 28, tweede lid, 37, derde lid, 38, derde lid, 39, 43, 74, 79 tot en met 81, 87, zesde lid, en 118;
 de Wet inzake de luchtverontreiniging, de artikelen 91, 92, onder a, in verband met artikel 48, en 92, onder b;
