@@ -1,0 +1,5 @@
+# Artikel IV
+1. Ten aanzien van de mogelijkheid om bezwaar te maken tegen een besluit van de Autoriteit Consument en Markt op grond van de artikelen 15.2 en 15.4 van de Telecommunicatiewet terzake van overtreding van het bepaalde bij of krachtens artikel 11.3a van de Telecommunicatiewet dat is bekendgemaakt voor het tijdstip van inwerkingtreding van deze wet, blijft het oude recht van toepassing.
+2. Op de behandeling van een bezwaarschrift tegen een besluit als bedoeld in het eerste lid, blijft het oude recht van toepassing.
+3. Ten aanzien van de mogelijkheid om beroep of hoger beroep in te stellen tegen een besluit van de Autoriteit Consument en Markt op grond van de artikelen 15.2 en 15.4 van de Telecommunicatiewet terzake van overtreding van het bepaalde bij of krachtens artikel 11.3a van de Telecommunicatiewet dat is bekendgemaakt voor het tijdstip van inwerkingtreding van deze wet, blijft het oude recht van toepassing.
+4. Op de behandeling van het beroep en hoger beroep tegen een besluit als bedoeld in het eerste lid, blijft het oude recht van toepassing.
