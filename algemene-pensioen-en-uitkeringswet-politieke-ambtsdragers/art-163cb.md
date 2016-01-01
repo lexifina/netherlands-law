@@ -1,0 +1,5 @@
+# Artikel 163cb
+1. Een belanghebbende die op de datum van inwerkingtreding van de Wet verkorting duur voortgezette uitkering Appa, lid van gedeputeerde staten, wethouder of lid van het dagelijks bestuur van een waterschap is en in dit ambt wordt herbenoemd na de eerstvolgende verkiezingen voor provinciale staten, de raad of het algemeen bestuur van het waterschap na die datum, wordt bij aftreden een uitkering verstrekt overeenkomstig de regels zoals die golden op de dag voor die datum, indien hij tevens op de datum van zijn herbenoeming:
+a. negen jaar en zeven maanden of minder verwijderd is van de pensioengerechtigde leeftijd die is vastgesteld voor het kalenderjaar vijf jaren na het ontslag of aftreden, en
+b. in het tijdvak van twaalf jaren dat aan de datum van herbenoeming voorafgaat ten minste tien jaren een functie heeft bekleed als genoemd in artikel 2, tweede lid.
+2. Het eerste lid is van overeenkomstige toepassing bij een herbenoeming van een commissaris van de Koning, een burgemeester en een voorzitter van een waterschap.
