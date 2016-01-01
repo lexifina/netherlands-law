@@ -22,7 +22,7 @@ Spoorwegwet, met uitzondering van de artikelen 19, 21 en hoofdstuk 5, paragraaf 
 Tabakswet
 Telecommunicatiewet, met uitzondering van:
 a. artikel 3.4, eerste lid, onderdeel b, voor zover het betreft een aanwijzing
-b. de artikelen 3.10 en 18.9, eerste en tweede lid
+b. de artikelen 3.10, 15.2, derde lid, 15.4, vierde lid en 18.9, eerste en tweede lid
 c. alsmede, voor zover het betreft een besluit van de Autoriteit Consument en Markt:
 1. hoofdstuk 6, tenzij beroep kon worden ingesteld voor de inwerkingtreding van de Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002
 2. de hoofdstukken 6A, 6B, en 12
@@ -32,6 +32,7 @@ Warenwet
 Warmtewet: artikel 18
 Wet aanwijzing nationale accreditatie-instantie: hoofdstuk 3
 Wet bekostiging financieel toezicht
+Wet bestrijding maritieme ongevallen
 Wet bestuurlijke boete meldingsplichten door ministers verstrekte subsidies, voor zover de boete is opgelegd ter zake van het niet voldoen aan een bijzondere meldingsplicht die is verbonden aan een krachtens de Kaderwet EZ-subsidies verstrekte subsidie
 Wet dieren: artikel 8.7
 Wet financiële betrekkingen buitenland 1994

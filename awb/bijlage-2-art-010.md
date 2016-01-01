@@ -27,7 +27,6 @@ Wet pensioenvoorzieningen K.N.I.L.
 Wet privatisering ABP
 Wet rechtspositionele voorzieningen rampbestrijders
 Wet studiefinanciering 2000
-Wet tegemoetkoming chronisch zieken en gehandicapten: artikel 2
 Wet tegemoetkoming onderwijsbijdrage en schoolkosten
 Wet van 21 december 1951, houdende een onderstandsregeling ingevolge artikel 2 Garantiewet Burgerlijk Overheidspersoneel Indonesië (Stb. 1951, 592)
 Wet van 25 mei 1962, houdende instelling van een Bijstandkorps van burgerlijke rijksambtenaren, dat bestemd is voor dienst in Nederlands-Nieuw-Guinea (Stb. 1962, 196)

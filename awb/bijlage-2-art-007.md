@@ -22,7 +22,7 @@ Spoorwegwet, met uitzondering van de artikelen 19 en hoofdstuk 5, paragraaf 2, e
 Tabakswet
 Telecommunicatiewet, met uitzondering van:
 a. artikel 3.4, eerste lid, onderdeel b, voor zover het betreft een aanwijzing
-b. de artikelen 3.10 en 18.9, eerste en tweede lid
+b. de artikelen 3.10, 15.2, derde lid, 15.4, vierde lid en 18.9, eerste en tweede lid
 c. alsmede, voor zover het betreft een besluit van de Autoriteit Consument en Markt:
 1. hoofdstuk 6, tenzij beroep kon worden ingesteld voor de inwerkingtreding van de Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002
 2. de hoofdstukken 6A, 6B en 12
@@ -31,6 +31,7 @@ Verordening (EU) nr. 806/2014 van het Europees parlement en de Raad van 15 juli 
 Warenwet
 Warmtewet: artikel 18
 Wet bekostiging financieel toezicht
+Wet bestrijding maritieme ongevallen
 Wet bestrijding ongevallen Noordzee, voor zover het betreft een beschikking van Onze Minister, genomen op een verzoek om een tegemoetkoming als bedoeld in artikel 13, eerste lid
 Wet dieren: artikel 8.7
 Wet financiële betrekkingen buitenland 1994
@@ -40,6 +41,7 @@ Wet handhaving consumentenbescherming
 Wet implementatie EU-richtlijnen energie-efficiëntie: de artikelen 21 en 22
 Wet inkomstenbelasting 2001: een boetebesluit als bedoeld in artikel 3.52a, elfde lid, en een daarmee samenhangende correctie-RDA-beschikking als bedoeld in het tweede lid van dit artikel
 Wet inzake de geldtransactiekantoren, voor zover die wet nog van toepassing is op grond van artikel IX van de Wijzigingswet financiële markten 2012
+Wet kwaliteit, klachten en geschillen zorg: Hoofdstuk 4
 Wet langdurige zorg: hoofdstuk 10, § 4
 Wet lokaal spoor, met uitzondering van artikel 12
 Wet luchtvaart: artikel 11.24
