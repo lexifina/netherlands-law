@@ -9,7 +9,7 @@
 ### Paragraaf 1. Algemene bepalingen
 ### Paragraaf 2. Tegemoetkoming
 ### Paragraaf 3. Uitbetaling en terugvordering
-### Paragraaf 4. Bezwaar en beroep
+### Paragraaf 4. Bezwaar, beroep en hoger beroep
 ### Paragraaf 5. Informatieverstrekking en informatie-uitwisseling
 ### Paragraaf 6. Bestuurlijke boete
 ## Hoofdstuk 3. Toezicht en opsporing

@@ -1,0 +1,2 @@
+# Artikel 37a. Schorsende werking hoger beroep
+De werking van een uitspraak van de rechtbank of van de voorzieningenrechter wordt opgeschort totdat de termijn voor het instellen van hoger beroep is verstreken of, indien hoger beroep is ingesteld, op het hoger beroep onherroepelijk is beslist. De eerste volzin geldt niet indien de uitspraak een beroep tegen het niet tijdig nemen van een besluit betreft.
