@@ -8,7 +8,8 @@ e. ter zake van de grondslag van de uitkering: artikel 3:7, derde en vierde lid;
 f. ter zake van de tegemoetkoming in aanvulling op de arbeidsongeschiktheidsuitkering: de artikelen 3:10 en 3:53;
 g. ter zake van de vakantie-uitkering: de artikelen 3:24, 3:25, eerste, derde en vierde lid, 3:26, 3:32 en 3:52;
 h. ter zake van de overlijdensuitkering: artikel 3:54;
-i. ter zake van de betaling van de uitkering: de artikelen 3:45, eerste tot en met vierde lid, 3:47 en 3:55;
-j. ter zake van terugvordering: de artikelen 3:56, 3:57, 3:58, 3:59 en 3:60;
-k. ter zake van vervreemding, verpanding en volmacht tot ontvangst: de artikelen 3:61 en 3:62.
+i. ter zake van de betaling van de uitkering: de artikelen 3:45, eerste tot en met vierde lid, 3:47, 3:47a en 3:55;
+j. ter zake van herziening of intrekking: artikel 3:18;
+k. ter zake van terugvordering: de artikelen 3:56, 3:57, 3:58, 3:59 en 3:60;
+l. ter zake van vervreemding, verpanding en volmacht tot ontvangst: de artikelen 3:61 en 3:62.
 2. De strafbepaling van artikel 84, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen is van overeenkomstige toepassing.
