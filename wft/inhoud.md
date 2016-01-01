@@ -29,7 +29,7 @@
 ##### § 1.3.2.2. Samenwerking in het kader van toezicht op de naleving
 ##### § 1.3.2.3. Samenwerking in het kader van handhaving
 ##### § 1.3.2.4. Raadplegen in het kader van overige procedures en kennis geven van bepaalde besluiten
-##### § 1.3.2.5. Informatieverstrekking door de Nederlandsche Bank aan toezichthoudende instanties van andere lidstaten in verband met herverzekeraars met zetel in een staat die geen lidstaat is
+##### § 1.3.2.5. Informatieverstrekking door de Nederlandsche Bank aan toezichthoudende instanties van andere lidstaten in verband met herverzekeraars, levensverzekeraars of schadeverzekeraars met zetel in een staat die geen lidstaat is
 #### Afdeling 1.3.3. Samenwerking met toezichthoudende instanties van staten die geen lidstaat zijn
 #### Afdeling 1.3.4. Samenwerking en uitwisseling van gegevens en inlichtingen met Europese instanties
 ### Hoofdstuk 1.4. Toezicht en handhaving
@@ -40,7 +40,7 @@
 #### Afdeling 1.5.2. Publicatiemogelijkheden van de toezichthouders
 ### Hoofdstuk 1.6. Procedures
 #### Afdeling 1.6.1. Vergunningen
-#### Afdeling 1.6.1a. Verklaringen van geen bezwaar als bedoeld in artikel 3:95 en 3:96
+#### Afdeling 1.6.1a. Verklaringen van geen bezwaar als bedoeld in de artikelen 3:95 tot en met 3:97
 #### Afdeling 1.6.2. Registratie
 ### Hoofdstuk 1.7. Beloningsbeleid
 #### Afdeling 1.7.1. Definities en reikwijdte
@@ -80,12 +80,15 @@
 ##### § 2.2.2a.2. Bijkantoren van en verrichting van diensten door herverzekeraars met zetel in een andere lidstaat
 ##### § 2.2.2a.3. Bijkantoor en verrichten van diensten door herverzekeraars met zetel in een staat die geen lidstaat is
 #### Afdeling 2.2.3. Uitoefenen van bedrijf van levensverzekeraar en schadeverzekeraar
-##### § 2.2.3.1. Vergunningplicht en -eisen voor levensverzekeraars en schadeverzekeraars met zetel in Nederland
+##### § 2.2.3.1. Algemeen
+##### § 2.2.3.1a. Vergunningplicht en -eisen voor levensverzekeraars en schadeverzekeraars met zetel in Nederland
 ##### § 2.2.3.2. Bijkantoor en verrichten van diensten door levensverzekeraars en schadeverzekeraars met zetel in een andere lidstaat
 ##### § 2.2.3.3. Bijkantoor en verrichten van diensten door levensverzekeraars of schadeverzekeraars met zetel in een staat die geen lidstaat is
-#### Afdeling 2.2.4. Uitoefenen van bedrijf van natura-uitvaartverzekeraar
+#### Afdeling 2.2.4. Uitoefenen van bedrijf van verzekeraar met beperkte risico-omvang
 ##### § 2.2.4.1. Vergunningplicht en -eisen voor natura-uitvaartverzekeraars met zetel in Nederland
-##### § 2.2.4.2. Vergunningplicht en -eisen voor natura-uitvaartverzekeraars met zetel buiten Nederland
+##### § 2.2.4.1a. Vrijstelling
+##### § 2.2.4.2. Vergunningplicht en -eisen voor verzekeraars met beperkte risico-omvang met zetel buiten Nederland
+##### § 2.2.4.2a. Vrijstelling
 #### Afdeling 2.2.4a. Uitoefenen van bedrijf van entiteit voor risico-acceptatie
 ##### § 2.2.4a.1. Vergunningplicht en -eisen voor entiteiten voor risico-acceptatie met zetel in Nederland
 ##### § 2.2.4a.2. Bijkantoren van en verrichten van diensten door entiteiten voor risico-acceptatie met zetel in een andere lidstaat
@@ -96,6 +99,9 @@
 ##### § 2.2.4c.1. Vergunningplicht en -eisen voor wisselinstellingen met zetel in Nederland
 ##### § 2.2.4c.2. Vrijstelling
 ##### § 2.2.4c.3. Bijkantoren van wisselinstellingen met zetel buiten Nederland
+#### Afdeling 2.2.4d. Uitoefenen van bedrijf van kredietunie
+##### § 2.2.4d.1. Vergunningplicht en -eisen voor kredietunies met zetel in Nederland
+##### § 2.2.4d.2. Vrijstelling
 #### Afdeling 2.2.5. Aanbieden van beleggingsobjecten
 ##### § 2.2.5.1. Vergunningplicht en -eisen
 ##### § 2.2.5.2. Vrijstelling
@@ -143,7 +149,7 @@
 #### Afdeling 2.3.3. Uitoefenen van bedrijf van levensverzekeraar en schadeverzekeraar
 ##### § 2.3.3.1. Bijkantoor en verrichten van diensten naar een andere lidstaat
 ##### § 2.3.3.2. Bijkantoor in een staat die geen lidstaat is
-#### Afdeling 2.3.4. Uitoefenen van bedrijf van natura-uitvaartverzekeraar
+#### Afdeling 2.3.4. Uitoefenen van bedrijf van verzekeraar met beperkte risico-omvang
 ##### § 2.3.4.1. Bijkantoor buiten Nederland
 #### Afdeling 2.3.4a. Uitoefenen van bedrijf van premiepensioeninstelling
 ##### § 2.3.4a.1. Bijkantoor en verrichten van diensten naar een andere staat
@@ -185,7 +191,7 @@
 ##### § 3.3.5.1. Financiële ondernemingen met zetel in Nederland
 ##### § 3.3.5.2. Financiële ondernemingen met zetel in een staat die geen lidstaat is
 ##### § 3.3.5.3. Financiële ondernemingen met zetel in een niet-aangewezen staat
-#### Afdeling 3.3.6. Solvabiliteit
+#### Afdeling 3.3.6. Solvabiliteit en financiële positie
 ##### § 3.3.6.1. Financiële ondernemingen met zetel in Nederland
 ##### § 3.3.6.2. Financiële ondernemingen met zetel in een staat die geen lidstaat is
 ##### § 3.3.6.3. Financiële ondernemingen met zetel in een niet-aangewezen staat
@@ -201,8 +207,8 @@
 #### Afdeling 3.3.8. Technische voorzieningen
 ##### § 3.3.8.1. Verzekeraars met zetel in Nederland
 ##### § 3.3.8.2. Levensverzekeraars en schadeverzekeraars met zetel in een staat die geen lidstaat is
-##### § 3.3.8.3. Herverzekeraars met zetel in een niet-aangewezen staat en natura-uitvaartverzekeraars met zetel in een niet-aangewezen staat
-#### Afdeling 3.3.9. Boekhouding en rapportage
+##### § 3.3.8.3. Herverzekeraars en verzekeraars met beperkte risico-omvang met zetel in een niet-aangewezen staat
+#### Afdeling 3.3.9. Waardering, boekhouding en rapportage
 ##### § 3.3.9.1. Financiële ondernemingen met zetel in Nederland
 ##### § 3.3.9.2. Financiële ondernemingen met zetel in een andere lidstaat
 ##### § 3.3.9.3. Financiële ondernemingen met zetel in een staat die geen lidstaat is
@@ -223,30 +229,33 @@
 ### Hoofdstuk 3.5. Bijzondere regels en maatregelen ten aanzien van financiële ondernemingen werkzaam op de financiële markten
 #### Afdeling 3.5.1. Bijzondere maatregelen ten aanzien van banken, beleggingsondernemingen, betaalinstellingen en elektronischgeldinstellingen
 #### Afdeling 3.5.1a. Portefeuilleoverdracht
+##### § 3.5.1a.0. Inleidende bepalingen
 ##### § 3.5.1a.1. Verzekeraars met zetel in Nederland
 ##### § 3.5.1a.2. Levensverzekeraars en schadeverzekeraars met zetel in een andere lidstaat
 ##### § 3.5.1a.3. Levensverzekeraars en schadeverzekeraars met zetel in een staat die geen lidstaat is
-##### § 3.5.1a.4. Natura-uitvaartverzekeraars met zetel in een niet-aangewezen staat
-#### Afdeling 3.5.2. Herstelplan
+##### § 3.5.1a.4. Verzekeraars met beperkte risico-omvang met zetel in een niet-aangewezen staat
+#### Afdeling 3.5.2. Kapitaalopslag
 ##### § 3.5.2.1. Verzekeraars met zetel in Nederland
 ##### § 3.5.2.2. Levensverzekeraars en schadeverzekeraars met zetel in een staat die geen lidstaat is
-##### § 3.5.2.3. Herverzekeraars met zetel in een niet-aangewezen staat en natura-uitvaartverzekeraars met zetel in een niet-aangewezen staat
-#### Afdeling 3.5.3. Beperking van de beschikkingsbevoegdheid, saneringsplan en financieringsplan
+##### § 3.5.2.3. Herverzekeraars met zetel in een niet-aangewezen staat
+#### Afdeling 3.5.3. Herstelplan, financieel kortetermijnplan en beperking van de beschikkingsbevoegdheid
 ##### § 3.5.3.1. Verzekeraars met zetel in Nederland
 ##### § 3.5.3.2. Levensverzekeraars en schadeverzekeraars met zetel in een andere lidstaat
 ##### § 3.5.3.3. Levensverzekeraars en schadeverzekeraars met zetel in een staat die geen lidstaat is
-##### § 3.5.3.4. Herverzekeraars met zetel in een niet-aangewezen staat en natura-uitvaartverzekeraars met zetel in een niet-aangewezen staat
+##### § 3.5.3.4. Herverzekeraars met zetel in een niet-aangewezen staat en verzekeraars met beperkte risico-omvang met zetel in een niet-aangewezen staat
 #### Afdeling 3.5.4. Opvangregeling voor levensverzekeraars
 ##### § 3.5.4.1. Levensverzekeraars met zetel in Nederland
 ##### § 3.5.4.2. Levensverzekeraars met zetel in een staat die geen lidstaat is
+##### § 3.5.4.3. Levensverzekeraars met beperkte risico-omvang met zetel in een niet-aangewezen staat
 #### Afdeling 3.5.4a. Overdracht
 ##### § 3.5.4a.1. Verzekeraars met zetel in Nederland
 ##### § 3.5.4a.2. Verzekeraars met zetel in een staat die geen lidstaat is
+##### § 3.5.4a.3. Verzekeraars met beperkte risico-omvang met zetel in een niet-aangewezen staat
 #### Afdeling 3.5.5. Noodregeling en saneringsmaatregelen en liquidatieprocedures naar buitenlands recht
 ##### § 3.5.5.1. Financiële ondernemingen met zetel in Nederland
 ##### § 3.5.5.2. Financiële ondernemingen met zetel in een andere lidstaat
 ##### § 3.5.5.3. Financiële ondernemingen met zetel in een staat die geen lidstaat is en met een in Nederland gelegen bijkantoor
-##### § 3.5.5.4. Entiteiten voor risico-acceptatie, herverzekeraars en natura-uitvaartverzekeraars met zetel buiten Nederland en met een in Nederland gelegen bijkantoor
+##### § 3.5.5.4. Entiteiten voor risico-acceptatie, herverzekeraars en verzekeraars met beperkte risico-omvang met zetel buiten Nederland en met een in Nederland gelegen bijkantoor
 ##### § 3.5.5.5. Bepalingen van internationaal privaatrecht
 #### Afdeling 3.5.6. Beleggerscompensatiestelsel en depositogarantiestelsel
 ##### § 3.5.6.1. Financiële ondernemingen met zetel in Nederland
@@ -258,10 +267,16 @@
 #### Afdeling 3.5.6a. Beleggingsbeginselen en beleggingsbeleid van afwikkelondernemingen
 #### Afdeling 3.5.7. Beleggingsbeginselen en beleggingsbeleid van premiepensioeninstellingen
 #### Afdeling 3.5.8. Rechten wederpartij na een gebeurtenis met betrekking tot een verzekeraar
-### Hoofdstuk 3.6. Aanvullende bepalingen ten aanzien van financiele groepen
-#### Afdeling 3.6.1. Definities en algemeen
+#### Afdeling 3.5.9. Beleggingsbeleid van entiteiten voor risico-acceptatie en verzekeraars
+### Hoofdstuk 3.6. Bepalingen ten aanzien van richtlijngroepen
+#### Afdeling 3.6.1. Algemeen
 #### Afdeling 3.6.2. Geconsolideerd toezicht op banken, beleggingsondernemingen, betaalinstellingen en elektronischgeldinstellingen
-#### Afdeling 3.6.3. Aanvullend toezicht op herverzekeraars, levensverzekeraars en schadeverzekeraars in een verzekeringsgroep
+#### Afdeling 3.6.3. Toezicht op verzekeraars met beperkte risico-omvang in een richtlijngroep en op herverzekeraars, levensverzekeraars en schadeverzekeraars in een verzekeringsrichtlijngroep
+##### § 3.6.3.0. Toezicht op verzekeraars met beperkte risico-omvang in een richtlijngroep
+##### § 3.6.3.1. Toepassing verzekeringsrichtlijngroepstoezicht
+##### § 3.6.3.2. Financiële positie
+##### § 3.6.3.3. Rapport over de solvabiliteit en financiële toestand verzekeringsrichtlijngroep
+##### § 3.6.3.4. Regels met betrekking tot moederondernemingen met zetel in een staat die geen lidstaat is en equivalentie
 #### Afdeling 3.6.4. Prudentieel toezicht op financiële conglomeraten
 ##### § 3.6.4.1. Regels betreffende het toezicht op financiële conglomeraten
 ##### § 3.6.4.2. Regels voor het werkzaam zijn als financieel conglomeraat
