@@ -9,7 +9,7 @@
 ## Hoofdstuk 5. Verboden
 ### Paragraaf 1. Verboden
 ## Hoofdstuk 6. Toezicht en maatregelen
-### Paragraaf 1. Toezichthoudende instantie
+### Paragraaf 1. Toezicht
 ### Paragraaf 2. Maatregelen
 ## Hoofdstuk 7. Rechtsbescherming
 ## Hoofdstuk 8. Overige bepalingen
