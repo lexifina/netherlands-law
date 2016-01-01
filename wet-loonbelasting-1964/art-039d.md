@@ -4,5 +4,6 @@ a. bij de toepassing van artikel 22ca, tweede lid, zoals dat artikel op 31 decem
 b. de op artikel 19g, zoals dat artikel op 31 december 2011 luidde, gebaseerde bepalingen van toepassing blijven met inachtneming van de omstandigheid dat artikel 19g, tweede lid, zoals dat op 31 december 2011 luidde, niet meer van toepassing is.
 2. Bij toepassing van dit artikel wordt artikel 19g, achtste lid, zoals dat luidde op 31 december 2011, vanaf 1 januari 2013 als volgt gelezen:
 8. De ingevolge de levensloopregeling opgebouwde voorziening wordt op de dag voorafgaand aan de dag waarop de werknemer de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt, maar uiterlijk op de dag voorafgaand aan het ingaan van het ouderdomspensioen aangemerkt als loon uit een vroegere dienstbetrekking van de werknemer.
-3. Het eerste lid is voor de werknemer niet van toepassing ingeval het tweede lid, zoals dat op 31 december 2013 luidde, is toegepast.
-4. In afwijking in zoverre van het eerste lid wordt, indien de werknemer ineens beschikt over de opgebouwde aanspraak, bedoeld in het eerste lid, en voor zover het ingevolge het eerste lid als loon in aanmerking te nemen bedrag niet hoger is dan de waarde in het economisch verkeer van die aanspraak op 31 december 2013, 80 percent van het ingevolge het eerste lid als loon in aanmerking te nemen bedrag in aanmerking genomen. Na toepassing van de eerste volzin, is op de werknemer het eerste lid niet meer van toepassing.
+3. Het eerste lid is voor de werknemer niet van toepassing ingeval:
+a. het tweede lid, zoals dat op 31 december 2013 luidde, is toegepast; of
+b. het vierde lid, zoals dat op 31 december 2015 luidde, is toegepast.

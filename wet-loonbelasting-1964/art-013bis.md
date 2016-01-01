@@ -3,10 +3,10 @@
 a. 25% van de waarde van de auto indien de auto niet meer dan 15 jaar geleden voor het eerst in gebruik is genomen;
 b. 35% van de waarde van de auto indien de auto meer dan 15 jaar geleden voor het eerst in gebruik is genomen.
 De auto wordt in ieder geval geacht ook voor privé-doeleinden ter beschikking te zijn gesteld tenzij blijkt dat de auto op kalenderjaarbasis voor niet meer dan 500 kilometer voor privé-doeleinden wordt gebruikt.
-2. Het voordeel, bedoeld in het eerste lid, eerste volzin, wordt op jaarbasis verlaagd met:
-a. 11% van de waarde van de auto indien de CO2-uitstoot niet hoger is dan 82 gram per kilometer;
-b. 5% van de waarde van de auto indien de CO2-uitstoot hoger is dan 82 gram per kilometer, maar niet hoger dan 110 gram per kilometer.
-In afwijking van de eerste volzin wordt het voordeel, bedoeld in het eerste lid, eerste volzin, tot 1 januari 2016 op kalenderjaarbasis verlaagd met 21% van de waarde van de auto indien de CO2-uitstoot 0 gram per kilometer is en met 18% van de waarde van de auto indien de CO2-uitstoot hoger is dan 0 gram per kilometer, maar niet hoger is dan 50 gram per kilometer.
+2. Het voordeel, bedoeld in het eerste lid, eerste volzin, wordt op kalenderjaarbasis verlaagd met:
+a. 21% van de waarde van de auto indien de CO2-uitstoot 0 gram per kilometer is;
+b. 10% van de waarde van de auto indien de CO2-uitstoot hoger is dan 0 gram per kilometer, maar niet hoger is dan 50 gram per kilometer, en
+c. 4% van de waarde van de auto indien de CO2-uitstoot hoger is dan 50 gram per kilometer, maar niet hoger is dan 106 gram per kilometer.
 3. Indien uit een rittenregistratie of anderszins blijkt dat de auto op kalenderjaarbasis voor niet meer dan 500 kilometer voor privé-doeleinden wordt gebruikt, wordt het voordeel gesteld op nihil.
 4. Voor de toepassing van dit artikel en de daarop berustende bepalingen wordt onder auto verstaan een personenauto of bestelauto als bedoeld in artikel 3 van de Wet op de belasting van personenauto's en motorrijwielen 1992, met uitzondering van de bestelauto die door aard of inrichting uitsluitend of nagenoeg uitsluitend geschikt blijkt te zijn voor vervoer van goederen en met uitzondering van de bestelauto die buiten de werktijd niet gebruikt kan worden of de bestelauto waarvoor een verbod op privé-gebruik geldt. Van een dergelijk verbod op privé-gebruik is sprake indien:
 a. het verbod schriftelijk is vastgelegd;
