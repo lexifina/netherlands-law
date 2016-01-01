@@ -14,7 +14,6 @@
 ### § 4.4. Verplichtingen voor de universele postdienstverlener
 ### § 4.5. Voorwaarden en tarieven voor de universele postdienst
 ### § 4.6. Aansprakelijkheid verlener van de universele postdienst
-### § 4.7. Financiering van de universele postdienst
 ## Hoofdstuk 5. Wereldpostunie
 ## Hoofdstuk 6. Overige bepalingen
 ## Hoofdstuk 7. Toezicht en handhaving
