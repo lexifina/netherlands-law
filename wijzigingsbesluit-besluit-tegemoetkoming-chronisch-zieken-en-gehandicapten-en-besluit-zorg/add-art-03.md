@@ -1,3 +1,0 @@
-# Artikel III
-1. Een rechthebbende wordt voor de tegemoetkoming, bedoeld in artikel 2, eerste lid, van de Wet tegemoetkoming chronisch zieken en gehandicapten, over het tegemoetkomingsjaar 2009 voor wat betreft de geneeskundige zorg, bedoeld in artikel 10 van de Zorgverzekeringswet, die hij in een andere lidstaat van de Europese Unie heeft ontvangen, ingedeeld in de diagnose kostengroep met de chronische aandoening, die te identificeren is op grond van uitgevoerde diagnose behandeling combinaties die naar aard en strekking met die geneeskundige zorg overeenkomen.
-2. Voor de toepassing van dit artikel wordt met een lidstaat van de Europese Unie gelijkgesteld, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.
