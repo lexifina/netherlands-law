@@ -12,3 +12,5 @@ Indien het een dienstbetrekking als bedoeld in artikel 10b, eerste lid, betreft,
 6. Het eerste tot en met vijfde lid zijn niet langer op een persoon van toepassing, vanaf het moment dat is vastgesteld dat die persoon niet tot de doelgroep loonkostensubsidie behoort.
 7. Indien het college loonkostensubsidie als bedoeld in dit artikel verleent, verleent het ten aanzien van dezelfde dienstbetrekking geen andere subsidie voor de loonkosten.
 8. Indien een persoon in een dienstbetrekking waarbij loonkostensubsidie als bedoeld in dit artikel wordt verleend zijn woonplaats verplaatst naar een andere gemeente, wordt gedurende die dienstbetrekking onder college in dit artikel verstaan het college dat op grond van het eerste lid bij het tot stand komen van de dienstbetrekking de loonkostensubsidie verleende.
+9. [Dit lid is nog niet in werking getreden.]
+10. Het college verstrekt geen loonkostensubsidie met betrekking tot perioden waarin recht bestaat op ziekengeld op grond van artikel 29b van de Ziektewet.
