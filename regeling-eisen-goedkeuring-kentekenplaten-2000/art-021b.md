@@ -1,0 +1,2 @@
+# Artikel 21b
+In afwijking van artikel 19, derde lid, mag bij kentekenplaten volgens model 18.2 van de bijlage bij de Regeling kentekens en kentekenplaten zoals deze bijlage luidde voor het tijdstip van inwerkingtreding van de wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee (Stb. 281, indien de ruimte boven de tweede streep onvoldoende is, het keurmerk onder de tweede streep zijn aangebracht.

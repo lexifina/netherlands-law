@@ -1,0 +1,2 @@
+# Artikel 21a
+Artikel 12, tiende lid, is van overeenkomstige toepassing op kentekenplaten volgens model 18.2 van de bijlage bij de Regeling kentekens en kentekenplaten zoals deze bijlage luidde voor het tijdstip van inwerkingtreding van de wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee (Stb. 281), die zijn afgegeven na 31 augustus 2002 doch voor 1 september 2005.
