@@ -1,3 +1,4 @@
 # Artikel 475h
 1. Een vervreemding, bezwaring, afstand of onderbewindstelling van een door het beslag getroffen vordering, tot stand gekomen nadat het beslag is gelegd, kan niet tegen de beslaglegger worden ingeroepen. Hetzelfde geldt voor een in weerwil van het beslag gedane betaling of afgifte, tenzij de derde heeft gedaan wat redelijkerwijs van hem kon worden gevergd om de betaling of afgifte te voorkomen.
 2. Op door het beslag getroffen zaken is artikel 453a van overeenkomstige toepassing.
+3. In afwijking van het eerste lid kan een in weerwil van het beslag gedane betaling aan de notaris ten behoeve van de overdracht van een onroerende zaak tegen de beslaglegger worden ingeroepen, indien dit beslag is gelegd nadat de koop van de zaak is ingeschreven in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek, op de wijze die is voorgeschreven in artikel 3 van Boek 7 van het Burgerlijk Wetboek.
