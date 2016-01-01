@@ -1,0 +1,2 @@
+# Artikel XXI
+Met betrekking tot een belastingaanslag inkomstenbelasting over het kalenderjaar 2014 waarvan het aanslagbiljet een dagtekening heeft die ligt in de periode die aanvangt op 1 mei 2015 en eindigt op 30 juni 2016 wordt geen invorderingsrente in rekening gebracht voor zover de betaling plaatsvindt uiterlijk 4 maanden na het verstrijken van de voor deze belastingaanslag geldende betalingstermijn.

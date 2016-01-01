@@ -1,0 +1,2 @@
+# Artikel XIX
+Tot 1 januari 2016 wordt de maximale aanspraak op het kindgebonden budget, bedoeld in artikel 15, eerste lid, onderdeel g, van de Uitvoeringsregeling Invorderingswet 1990, voor de alleenstaande ouder op wie het overgangsrecht, bedoeld in artikel XII, tweede lid, van de Wet hervorming kindregelingen, van toepassing is, vermeerderd met de verhoging van het kindgebonden budget, bedoeld in artikel 2, zesde lid, van de Wet op het kindgebonden budget.
