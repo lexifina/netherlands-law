@@ -13,11 +13,13 @@
 ### Afdeling 4. Handhaving
 #### Paragraaf 1. Toezicht op de naleving
 #### Paragraaf 2. Gemeentelijk ingrijpen
-#### Paragraaf 2a. Informatieverstrekking aan de GGD
+#### Paragraaf 2a. Geschillen
+#### Paragraaf 2b. Informatieverstrekking aan de GGD
 #### Paragraaf 3. Informatie aan minister door colleges
 ### Afdeling 5. Opsporing en sancties
 #### Paragraaf 1. Opsporing
 #### Paragraaf 2. Bestuurlijke boeten
+#### Paragraaf 3. Vermelding handhaving
 ### Afdeling 6. Experimenten
 ## Hoofdstuk 2. Kwaliteitseisen peuterspeelzalen
 ### Afdeling 1. Algemene bepalingen
@@ -28,8 +30,10 @@
 ### Afdeling 3. Handhaving
 #### Paragraaf 1. Toezicht op de naleving
 #### Paragraaf 2. Gemeentelijk ingrijpen
+#### Paragraaf 2a. Geschillen
 #### Paragraaf 3. Informatie aan minister door colleges
 ### Afdeling 4. Sancties
+### Paragraaf 4a. Vermelding handhaving
 ### Afdeling 5. Experimenten
 ## Hoofdstuk 3. Overgangs- en slotbepalingen
 ### Paragraaf 1. Overgangsbepalingen
