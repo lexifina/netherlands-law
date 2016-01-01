@@ -1,0 +1,3 @@
+# Artikel IIIb
+1. Ter voorbereiding op de invoering van richtlijn 2009/138/EG van het Europees Parlement en de Raad van 25 november 2009 betreffende de toegang tot en uitoefening van het verzekerings- en het herverzekeringsbedrijf (Solvabiliteit II) (herschikking) (PbEU 2009, L 335) kan de Nederlandsche Bank de besluiten, bedoeld in artikel 308 bis, eerste lid, onderdelen a tot en met i en k en l, tweede en derde lid, van de richtlijn solvabiliteit II nemen.
+2. Besluiten van de Nederlandsche Bank als bedoeld in artikel 308 bis, vierde lid, van de richtlijn solvabiliteit II treden niet in werking voor 1 januari 2016.
