@@ -1,6 +1,6 @@
 # Artikel 4q
 1. De hoogte van de tarieven, bedoeld in artikel 4b, eerste lid, onderdeel n, dient te worden gerelateerd aan de met de uitoefening van de taak gemoeide kosten.
-2. Het tarief, bedoeld in artikel 48, eerste lid, voor de aanvraag van een inschrijving en tenaamstelling in het kentekenregister omvat mede een bij ministeriële regeling vastgesteld bedrag dat strekt ter dekking van de kosten van:
+2. Het tarief, bedoeld in artikel 48, eerste lid, voor de aanvraag van een inschrijving en tenaamstelling in het kentekenregister omvat mede een door de Dienst Wegverkeer vastgesteld bedrag dat strekt ter dekking van de kosten van:
 a. het registreren van keuringsrapporten,
 b. het ongeldig verklaren van kentekenbewijzen, tenzij de Dienst Wegverkeer ingevolge artikel 52c, tweede lid, een tarief voor de ongeldigheid heeft vastgesteld,
 c. het verstrekken van gegevens uit het kentekenregister als bedoeld in artikel 43, eerste en tweede lid, en bij algemene maatregel van bestuur te bepalen verstrekkingen,
