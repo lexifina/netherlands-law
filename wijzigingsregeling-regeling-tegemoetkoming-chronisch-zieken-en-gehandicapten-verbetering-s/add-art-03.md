@@ -1,2 +1,0 @@
-# Artikel III
-Voor het beantwoorden van de vraag of onderdeel A van Artikel II (artikel 1a van de Regeling tegemoetkoming chronisch zieken en gehandicapten) op een rechthebbende van toepassing is, geldt, zo nodig in afwijking van dat artikel, het jaar 2009 als eerste jaar waarover wordt nagegaan of de rechthebbende voor rekening van zijn zorgverzekeraar een in dat artikel aangewezen hulpmiddel heeft verkregen of heeft laten repareren.
