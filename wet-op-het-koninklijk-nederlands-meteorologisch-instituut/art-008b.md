@@ -1,2 +1,0 @@
-# Artikel 8b
-De hoofddirecteur stelt de luchtvaartmeteorologische inlichtingen op een bij regeling van Onze Minister in overeenstemming met Onze Minister van Defensie te bepalen wijze beschikbaar. In die regeling worden tevens regels gesteld inzake de inhoud van deze inlichtingen, de luchtvaartterreinen waarop de beschikbaarstelling betrekking heeft, de perioden van beschikbaarstelling en de categorieën van gebruikers.
