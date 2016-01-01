@@ -6,7 +6,10 @@
 ## Hoofdstuk IVA. Basisregistratie inkomen
 ## Hoofdstuk V. Bezwaar en beroep
 ### Afdeling 1. Bezwaar
-### Afdeling 2. Beroep en hoger beroep
+### Afdeling 1a. Massaal bezwaar
+### Afdeling 2. Beroep
+### Afdeling 2a. Prejudiciële vragen aan de Hoge Raad
+### Afdeling 3. Hoger beroep
 ### Afdeling 4. Beroep in cassatie bij de Hoge Raad
 ## Hoofdstuk VA. Belastingrente en revisierente
 ## Hoofdstuk VI. Bevordering van de richtige heffing

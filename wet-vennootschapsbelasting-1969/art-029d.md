@@ -1,0 +1,3 @@
+# Artikel 29d
+1. Een groepsentiteit van een multinationale groep die fiscaal inwoner is van Nederland, bericht de inspecteur uiterlijk op de laatste dag van het verslagjaar van die multinationale groep of zij de uiteindelijkemoederentiteit of de surrogaatmoederentiteit is.
+2. Indien een groepsentiteit van een multinationale groep die fiscaal inwoner is van Nederland noch de uiteindelijkemoederentiteit, noch de surrogaatmoederentiteit is, bericht deze de inspecteur uiterlijk op de laatste dag van het verslagjaar van die multinationale groep over de identiteit en de fiscale vestigingsplaats van de rapporterende entiteit.

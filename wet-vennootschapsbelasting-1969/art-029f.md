@@ -1,0 +1,2 @@
+# Artikel 29f
+De inspecteur gebruikt het landenrapport voor het beoordelen van substantiële verrekenprijsrisico's en van andere risico's voor Nederland die verband houden met uitholling van de belastinggrondslag en winstverschuivingen, daaronder begrepen het risico van het niet naleven van de van toepassing zijnde verrekenprijsregels door leden van de multinationale groep, en, waar nodig, voor het maken van economische en statistische analyses. Een aanpassing van verrekenprijzen door de inspecteur wordt niet gebaseerd op het landenrapport.

@@ -1,0 +1,7 @@
+# Artikel 27ga
+1. De rechtbank kan in de procedure op verzoek van een partij of ambtshalve de Hoge Raad een rechtsvraag voorleggen ter beantwoording bij wijze van prejudiciële beslissing, indien een antwoord op deze vraag nodig is om op het beroep te beslissen.
+2. Alvorens de Hoge Raad een vraag voor te leggen, stelt de rechtbank partijen in de gelegenheid zich uit te laten over het voornemen om de Hoge Raad een vraag voor te leggen, alsmede over de inhoud van de voor te leggen vraag.
+3. De beslissing waarbij de Hoge Raad een vraag wordt voorgelegd, vermeldt het onderwerp van geschil, de door de rechtbank vastgestelde feiten en de door partijen ingenomen standpunten.
+4. De griffier zendt onverwijld een afschrift van de beslissing aan de Hoge Raad. De griffier zendt afschriften van de andere op de zaak betrekking hebbende stukken op diens verzoek aan de griffier van de Hoge Raad.
+5. De beslissing om een vraag ter beantwoording aan de Hoge Raad voor te leggen, schorst de behandeling van de zaak totdat een afschrift van de beslissing van de Hoge Raad is ontvangen.
+6. Indien in een andere lopende procedure het antwoord op een vraag rechtstreeks van belang is om in die procedure te beslissen, kan de rechtbank op verzoek van een partij of ambtshalve de behandeling van de zaak schorsen totdat de Hoge Raad uitspraak heeft gedaan. Alvorens te beslissen als bedoeld in de eerste volzin, stelt de rechtbank partijen in de gelegenheid zich daarover uit te laten.

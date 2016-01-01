@@ -1,0 +1,21 @@
+# Artikel 29b
+Voor de toepassing van dit hoofdstuk wordt verstaan onder:
+a. groep: een eenheid waarin lichamen door bezit, eigendom of zeggenschap zodanig zijn verbonden dat ze ofwel op grond van de van toepassing zijnde regels een geconsolideerde jaarrekening moeten opmaken voor de financiële verslaggeving, ofwel dit zouden moeten doen indien aandelenbelangen in een van de lichamen worden verhandeld op een openbare effectenbeurs;
+b. multinationale groep: een groep die:
+1°. twee of meer lichamen omvat die hun fiscale vestigingsplaats in een verschillende staat hebben; of
+2°. een lichaam omvat dat fiscaal inwoner is van de ene staat en in een andere staat aan belasting onderworpen is met betrekking tot voordelen verkregen uit een onderneming die of het gedeelte van een onderneming dat wordt gedreven met behulp van een vaste inrichting in die staat;
+c. groepsentiteit:
+1°. een lichaam van een multinationale groep dat is opgenomen in de geconsolideerde jaarrekening van de multinationale groep voor de financiële verslaggeving, of dat daarin zou worden opgenomen indien aandelenbelangen in een lichaam van de multinationale groep op een openbare effectenbeurs worden verhandeld;
+2°. een lichaam van een multinationale groep dat enkel op grond van omvang of materieel belang niet is opgenomen in de geconsolideerde jaarrekening van de multinationale groep; of
+3°. een vaste inrichting van een lichaam van een multinationale groep als bedoeld onder 1° of 2°, indien het lichaam voor de vaste inrichting een afzonderlijke jaarrekening opmaakt met het oog op de financiële verslaggeving, het naleven van regelgeving, het voldoen aan fiscale verplichtingen of de interne beheerscontrole;
+d. rapporterende entiteit: de groepsentiteit die, in de staat waarvan zij fiscaal inwoner is, gehouden is namens de multinationale groep een landenrapport in te dienen dat voldoet aan de voorwaarden van artikel 29e, zijnde:
+1°. de uiteindelijkemoederentiteit;
+2°. de surrogaatmoederentiteit; of
+3°. enige andere groepsentiteit als bedoeld in artikel 29c, tweede of derde lid;
+e. uiteindelijkemoederentiteit: een groepsentiteit van een multinationale groep:
+1°. die middellijk of onmiddellijk een belang bezit in een of meer andere groepsentiteiten van die multinationale groep dat voldoende is om verplicht te zijn een geconsolideerde jaarrekening op te maken op grond van de verslagleggingsregels die algemeen van toepassing zijn in de staat waar de entiteit haar fiscale vestigingsplaats heeft, of om dit verplicht te zijn indien haar aandelenbelangen in de staat waar ze haar fiscale vestigingsplaats heeft, worden verhandeld op een openbare effectenbeurs; en
+2°. waarin geen andere groepsentiteit van die multinationale groep middellijk of onmiddellijk een belang bezit dat aan de voorwaarde, bedoeld onder 1°, voldoet;
+f. surrogaatmoederentiteit: een groepsentiteit van een multinationale groep die door die multinationale groep wordt aangewezen als enige plaatsvervanger voor de uiteindelijkemoederentiteit om namens die multinationale groep het landenrapport, bedoeld in artikel 29e, in te dienen in de staat waarvan die groepsentiteit fiscaal inwoner is, indien aan een of meer van de voorwaarden, bedoeld in artikel 29c, tweede lid, onderdelen a, b en c, wordt voldaan;
+g. verslagjaar: een jaarlijkse verslagleggingsperiode waarover de uiteindelijkemoederentiteit van de multinationale groep haar jaarrekening opmaakt;
+h. geconsolideerde jaarrekening: de jaarrekening van een multinationale groep waarin de activa, de passiva, de inkomsten, de uitgaven en de kasstromen van de uiteindelijkemoederentiteit en van de groepsentiteiten zijn weergegeven als die van een enkele economische entiteit;
+i. systematische nalatigheid in relatie tot een staat: het door een staat die een in werking zijnde overeenkomst met Nederland heeft die voorziet in de automatische uitwisseling van landenrapporten, om andere redenen dan die welke in overeenstemming zijn met de bepalingen van die overeenkomst, opschorten van die automatische uitwisseling, dan wel het anderszins stelselmatig nalaten door die staat om aan Nederland automatisch de landenrapporten te verstrekken die die staat in zijn bezit heeft en die multinationale groepen betreffen met groepsentiteiten in Nederland.

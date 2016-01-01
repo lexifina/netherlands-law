@@ -6,7 +6,7 @@
 ### Afdeling 2.3. Innovatiebox
 ### Afdeling 2.5. Deelnemingen
 ### Afdeling 2.6. Bedrijfsfusie
-### Afdeling 2.7. Splitsing en juridische fusie
+### Afdeling 2.7. Splitsing, juridische fusie en bestuurlijke herindeling of herschikking
 ### Afdeling 2.8. Geruisloze terugkeer uit BV
 ### Afdeling 2.9. Fiscale eenheid
 ### Afdeling 2.10. Eindafrekening
@@ -18,4 +18,5 @@
 ## Hoofdstuk Va. Deelnemingsverrekening en verrekening bij buitenlandse ondernemingswinsten
 ## Hoofdstuk VI. Wijze van heffing
 ## Hoofdstuk VII. Aanvullende regelingen
+## Hoofdstuk VIIa. Aanvullende documentatieverplichtingen verrekenprijzen
 ## Hoofdstuk VIII. Overgangs- en slotbepalingen

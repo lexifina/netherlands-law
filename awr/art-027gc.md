@@ -1,0 +1,16 @@
+# Artikel 27gc
+1. Tenzij de Hoge Raad, gehoord de procureur-generaal, aanstonds beslist overeenkomstig het achtste lid, stelt hij partijen in de gelegenheid om binnen een door de Hoge Raad te bepalen termijn schriftelijk opmerkingen te maken.
+2. De Hoge Raad kan bepalen dat ook anderen dan partijen binnen een door de Hoge Raad te bepalen termijn in de gelegenheid worden gesteld om schriftelijke opmerkingen als bedoeld in het eerste lid te maken. De aankondiging hiervan geschiedt op een door de Hoge Raad te bepalen wijze.
+3. Schriftelijke opmerkingen worden ter griffie van de Hoge Raad ingediend.
+4. Indien het belang van de zaak dit geraden doet voorkomen, kan de Hoge Raad, hetzij ambtshalve, hetzij op een daartoe strekkend verzoek, een termijn bepalen voor mondelinge of schriftelijke toelichting door partijen. De Hoge Raad kan, indien hij een mondelinge toelichting heeft bevolen, degenen die ingevolge het tweede lid schriftelijke opmerkingen hebben gemaakt, uitnodigen ter zitting aanwezig te zijn teneinde over hun opmerkingen te worden gehoord. Artikel 29c, eerste, derde en vierde lid, is van overeenkomstige toepassing.
+5. Een schriftelijke toelichting wordt door de partij getekend en ter griffie van de Hoge Raad ingediend.
+6. Nadat de toelichtingen zijn gehouden of ontvangen of, indien deze niet zijn verzocht, na het verstrijken van de termijn voor het maken van schriftelijke opmerkingen, stelt de griffier, indien de procureur-generaal bij de Hoge Raad de wens te kennen heeft gegeven om te worden gehoord, alle stukken in diens handen. De procureur-generaal brengt zijn schriftelijke conclusie ter kennis van de Hoge Raad. Partijen kunnen binnen twee weken na verzending van het afschrift van de conclusie hun schriftelijk commentaar daarop doen toekomen aan de Hoge Raad.
+7. De uitspraak van de Hoge Raad wordt schriftelijk gedaan. De Hoge Raad kan de vraag, bedoeld in artikel 27ga, herformuleren. Tenzij de herformulering van ondergeschikte betekenis is, stelt de Hoge Raad partijen in de gelegenheid om binnen een door de Hoge Raad te bepalen termijn schriftelijke opmerkingen te maken.
+8. De Hoge Raad ziet af van beantwoording van de vraag, bedoeld in artikel 27ga, indien hij, gehoord de procureur-generaal, oordeelt dat de vraag zich niet voor beantwoording bij wijze van prejudiciële beslissing leent of dat de vraag van onvoldoende gewicht is om beantwoording te rechtvaardigen. De Hoge Raad kan zich bij de vermelding van de gronden van zijn beslissing beperken tot dit oordeel.
+9. Indien het antwoord op de vraag, bedoeld in artikel 27ga, nadat deze is gesteld, niet meer nodig is om in de procedure, bedoeld in artikel 27ga, te beslissen, kan de Hoge Raad, indien hem dat geraden voorkomt, de vraag desondanks beantwoorden.
+10. De griffier zendt onverwijld een afschrift van de beslissing aan de rechtbank die de vraag, bedoeld in artikel 27ga, heeft voorgelegd en aan partijen. De griffier zendt daarbij aan de rechtbank die de vraag heeft voorgelegd tevens een afschrift van:
+a. de schriftelijke opmerkingen, bedoeld in het derde lid;
+b. de schriftelijke toelichtingen, bedoeld in het vierde lid;
+c. de conclusie van de procureur-generaal, bedoeld in het zesde lid; en
+d. het schriftelijke commentaar, bedoeld in het zesde lid.
+Artikel 30 is van overeenkomstige toepassing.
