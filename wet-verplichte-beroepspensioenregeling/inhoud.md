@@ -1,5 +1,5 @@
 # Inhoud
-## Hoofdstuk 1. Definities
+## Hoofdstuk 1. Definities en toepassingsgebied
 ## Hoofdstuk 2. De verplichtstelling
 ## Hoofdstuk 3. Eisen met betrekking tot de inhoud en uitvoering van de beroepspensioenregeling
 ### § 1. Algemene eisen aan de beroepspensioenregeling

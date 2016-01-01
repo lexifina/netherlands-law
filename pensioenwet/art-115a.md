@@ -10,9 +10,8 @@ e. het vaststellen en wijzigen van het communicatie- en voorlichtingsbeleid;
 f. gehele of gedeeltelijke overdracht van de verplichtingen van het pensioenfonds of de overname van verplichtingen door het pensioenfonds;
 g. liquidatie, fusie of splitsing van het pensioenfonds;
 h. het sluiten, wijzigen of beëindigen van een uitvoeringsovereenkomst;
-i. het omzetten van het pensioenfonds in een andere rechtsvorm, bedoeld in artikel 18 van Boek 2 van het Burgerlijk Wetboek;
-j. samenvoeging van pensioenfondsen als bedoeld in de definitie van ondernemingspensioenfonds in artikel 1; en
-k. de samenstelling van de feitelijke premie en de hoogte van de premiecomponenten.
+i. het omzetten van het pensioenfonds in een andere rechtsvorm, bedoeld in artikel 18 van Boek 2 van het Burgerlijk Wetboek; en
+j. de samenstelling van de feitelijke premie en de hoogte van de premiecomponenten.
 4. Het verantwoordingsorgaan adviseert het bestuur naar aanleiding van de melding van disfunctioneren van het bestuur, bedoeld in artikel 104, vijfde lid.
 5. Het advies van het verantwoordingsorgaan wordt op een zodanig tijdstip gevraagd dat het van wezenlijke invloed kan zijn op de in het derde lid bedoelde besluiten.
 6. Bij het vragen van advies wordt aan het verantwoordingsorgaan een overzicht verstrekt van de beweegredenen voor het besluit en van de gevolgen die het besluit naar verwachting voor de deelnemers, gewezen deelnemers en pensioengerechtigden zal hebben.

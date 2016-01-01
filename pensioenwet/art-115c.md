@@ -21,7 +21,7 @@ j. het vaststellen en wijzigen van het communicatie- en voorlichtingsbeleid.
 a. gehele of gedeeltelijke overdracht van de verplichtingen van het pensioenfonds of de overname van verplichtingen door het pensioenfonds;
 b. liquidatie, fusie of splitsing van het pensioenfonds;
 c. het omzetten van het pensioenfonds in een andere rechtsvorm, bedoeld in artikel 18 van Boek 2 van het Burgerlijk Wetboek;
-d. samenvoeging van pensioenfondsen als bedoeld in de definitie van ondernemingspensioenfonds in artikel 1;
+d. wijziging van de collectiviteitkring;
 e. het strategische beleggingsbeleid;
 f. de premie, waaronder mede wordt begrepen de samenstelling van de feitelijke premie en de hoogte van de premiecomponenten;
 g. het vaststellen en wijzigen van het toeslagbeleid;
