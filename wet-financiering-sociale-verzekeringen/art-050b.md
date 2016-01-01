@@ -1,4 +1,5 @@
-# Artikel 50b. Vaststelling bedrag bonussen
-1. Het bedrag van de korting, bedoeld in artikel 48 en 50, wordt naar evenredigheid verminderd, indien de met die werknemer overeengekomen gemiddelde arbeidsduur per week in het tijdvak waarover premie wordt betaald korter is dan de volledige arbeidsduur, die op 36 uur per week wordt gesteld en indien geen vaste arbeidsduur is overeengekomen.
-2. Voor een werknemer zonder vast overeengekomen arbeidsduur wordt de vermindering van het bedrag van de korting, bedoeld in artikel 48 en 50, bepaald aan de hand van het aantal uren waarover de werkgever loon is verschuldigd in het tijdvak waarover premie wordt betaald herleid naar weken.
-3. Indien de toepassing van artikel 48 en 50 ertoe zou leiden dat een negatieve premie wordt geheven, wordt de premie op nihil gesteld.
+# Artikel 50b. Uitzondering premiekorting
+1. De artikelen 47 en 49 zijn niet van toepassing, indien de werknemer:
+a. arbeid verricht in een dienstbetrekking als bedoeld in artikel 2 van de Wet sociale werkvoorziening of in de zin van artikel 10b, derde lid, van de Participatiewet, of
+b. de pensioengerechtigde leeftijd, bedoeld in artikel 7, onderdeel a, van de Algemene Ouderdomswet, heeft bereikt, met ingang van de eerste dag van de maand waarin deze leeftijd is bereikt.
+2. Artikel 47 is niet van toepassing bij een dienstbetrekking met een werknemer, indien de werkgever met betrekking tot een dienstbetrekking met diezelfde werknemer artikel 49 kan toepassen dan wel heeft toegepast.

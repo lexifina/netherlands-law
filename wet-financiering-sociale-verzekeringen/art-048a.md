@@ -1,6 +1,6 @@
 # Artikel 48a. Premiekorting jongere werknemer
 1. De werkgever past een korting toe op het totaal van de door hem op grond van de afdelingen 2, 3 en 4 verschuldigde premies bij een dienstbetrekking met een werknemer die:
-a. onmiddellijk voorafgaand aan de aanvang van de dienstbetrekking recht heeft op een uitkering op grond van de Werkloosheidswet of de Wet werk en bijstand;
+a. onmiddellijk voorafgaand aan de aanvang van de dienstbetrekking recht heeft op een uitkering op grond van de Werkloosheidswet of de Participatiewet;
 b. op of na 1 januari 2014 bij die werkgever in dienst is getreden maar vóór 1 januari 2016;
 c. op het moment van in dienst treden bij die werkgever 18 jaar of ouder is maar nog niet de leeftijd heeft bereikt van 27 jaar, en
 d. een dienstbetrekking heeft met een overeengekomen duur van minimaal zes maanden en met een arbeidsduur van ten minste 32 uren per week en bij een dienstbetrekking die is aangevangen op of na 1 juli 2015, een arbeidsduur van ten minste 24 uren per week.
@@ -14,4 +14,3 @@ a. de schriftelijke arbeidsovereenkomst met of de schriftelijke publiekrechtelij
 b. een verklaring van het Uitvoeringsinstituut werknemersverzekeringen of het college van burgemeester en wethouders dat de werknemer, bedoeld in het eerste lid, voorafgaande aan de datum van aanvang van de dienstbetrekking recht had op een uitkering als bedoeld in het eerste lid, onderdeel a.
 5. De werkgever bewaart de arbeidsovereenkomst of de publiekrechtelijke aanstelling en de verklaring, bedoeld in het vierde lid, bij de loonadministratie.
 6. Artikel 50a is van overeenkomstige toepassing.
-7. Dit artikel is niet van toepassing, indien de werkgever in verband met de dienstbetrekking met die werknemer een loonkostensubsidie ontvangt als bedoeld in artikel 10d van de Participatiewet. In dat geval bewaart de werkgever bij de loonadministratie de beschikking van het college van burgemeester en wethouders tot verlening van de loonkostensubsidie.
