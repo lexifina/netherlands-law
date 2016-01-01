@@ -1,0 +1,2 @@
+# Artikel XXXXIX
+In wettelijke procedures en rechtsgedingen met betrekking tot activiteiten die zijn vermeld op een door Onze Minister en ZON vastgestelde lijst en waarbij het Ministerie van Volksgezondheid, Welzijn en Sport of ZON is betrokken gaan met ingang van de datum van de inwerkingtreding van deze wet over op het Zorginstituut Nederland, en treedt het Zorginstituut Nederland in plaats van Onze Minister onderscheidenlijk ZON.
