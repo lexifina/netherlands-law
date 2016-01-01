@@ -1,2 +1,0 @@
-# Artikel III
-Artikel II, onderdeel K, voorzover daarbij in artikel 4A.01 een marifooninstallatie wordt voorgeschreven waarmee gelijktijdig op twee kanalen moet kunnen worden uitgeluisterd, geldt tot 1 januari 1998 uitsluitend voor een alleenvarend motorschip, voor een duwstel of voor een gekoppeld samenstel waarvan de lengte meer bedraagt dan 110 m, alsmede voor een schip dat bepaalde gevaarlijke stoffen vervoert, bedoeld in ADNR, Bijlage B1 Rn 10 500 en Bijlage B2 Aanhangsel 4 (Stoffenlijst).
