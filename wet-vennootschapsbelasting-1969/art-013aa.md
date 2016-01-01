@@ -7,4 +7,7 @@
 6. Ingeval in een jaar het bedrag van de gezamenlijke gebruteerde voordelen uit hoofde van beleggingsdeelnemingen niet zijnde kwalificerende beleggingsdeelnemingen negatief is, wordt de winst van dat jaar verminderd met een bedrag ter grootte van 5/H deel van dat bedrag. Daarbij staat H voor het percentage van het hoogste tarief, bedoeld in artikel 22, geldend aan het einde van het jaar.
 7. Dit artikel vindt geen toepassing:
 a. ingeval het lichaam waarin de belastingplichtige een deelneming heeft, is vrijgesteld van een belasting naar de winst, of is onderworpen aan een belasting naar de winst die niet resulteert in een daadwerkelijke heffing;
-b. ten aanzien van een belastingplichtige die als beleggingsinstelling is aangemerkt.
+b. ten aanzien van een belastingplichtige die als beleggingsinstelling is aangemerkt;
+c. ten aanzien van voordelen voor zover deze bestaan uit vergoedingen van of betalingen door het lichaam waarin de deelneming wordt gehouden voor zover deze rechtens dan wel in feite direct of indirect in aftrek kunnen worden gebracht op de grondslag van een naar de winst geheven belasting;
+d. op hetgeen wordt ontvangen ter vervanging van gederfde of te derven vergoedingen of betalingen als bedoeld in onderdeel c.
+Indien een vergoeding of betaling als bedoeld in de eerste volzin, onderdeel c, op de kostprijs van een deelneming wordt afgeboekt, wordt een bedrag ter grootte van die vergoeding, onderscheidenlijk betaling, tot de winst van de belastingplichtige gerekend.
