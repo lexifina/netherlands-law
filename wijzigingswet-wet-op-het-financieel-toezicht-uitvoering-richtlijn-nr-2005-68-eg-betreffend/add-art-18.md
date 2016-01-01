@@ -1,0 +1,2 @@
+# Artikel XVIII
+De wet, met uitzondering van het Algemeen Deel, de hoofdstukken 5.1, 5.3 en 5.5 en afdeling 5.4.2, is niet van toepassing op herverzekeraars met zetel in Nederland of herverzekeraars met zetel in een niet-aangewezen staat die op het tijdstip van inwerkingtreding van deze wet niet langer herverzekeringen sluiten en uitsluitend hun bestaande portefeuille beheren met het oog op de beëindiging van de uitoefening van het bedrijf van herverzekeraar.
