@@ -1,2 +1,0 @@
-# Artikel 8c
-Ten aanzien van het vervaardigen, invoeren, in voorraad hebben, te koop aanbieden, afleveren of vervoeren houden een goedkeuring als bedoeld in artikel 3, onder a, en een certificaat als bedoeld in artikel 3, onder b, van het Besluit geluidproduktie motorvoertuigen, waaraan de voorschriften van Richtlijn 87/56 ten grondslag hebben gelegen, met ingang van 18 december 2000 op te gelden.
