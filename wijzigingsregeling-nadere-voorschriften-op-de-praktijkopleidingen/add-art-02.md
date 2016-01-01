@@ -1,0 +1,2 @@
+# Artikel II
+Op een trainee die voor 1 januari 2016 een opzet als bedoeld in artikel 65, eerste lid van de Nadere voorschriften op de praktijkopleidingen heeft ingediend en voor 1 juli 2016 een verzoek als bedoeld in artikel 70, eerste lid van de Nadere voorschriften op de praktijkopleidingen heeft gedaan, blijven de bepalingen van de Nadere voorschriften op de praktijkopleidingen van toepassing zoals deze luidden voor 1 januari 2016.
