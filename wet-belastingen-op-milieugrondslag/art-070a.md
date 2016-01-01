@@ -1,0 +1,5 @@
+# Artikel 70a
+1. Onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen wordt op verzoek teruggaaf van belasting verleend voor aardgas dat wordt gebruikt als brandstof voor vaartuigen op communautaire wateren, met inbegrip van de visserij.
+2. De teruggaaf, bedoeld in het eerste lid, wordt niet verleend voor aardgas dat wordt gebruikt als brandstof voor particuliere pleziervaartuigen.
+3. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt onder een particulier pleziervaartuig verstaan een vaartuig dat wordt gebruikt door de eigenaar daarvan of door de natuurlijke of rechtspersoon die het gebruik daarvan geniet door huur of anderszins, voor andere dan commerciële doeleinden en met name voor andere doeleinden dan voor het vervoer van personen of goederen of voor het verrichten van diensten onder bezwarende titel, dan wel ten behoeve van overheidsinstanties.
+4. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
