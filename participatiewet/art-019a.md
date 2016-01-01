@@ -1,0 +1,11 @@
+# Artikel 19a. Kostendelende medebewoner
+1. In deze paragraaf wordt onder kostendelende medebewoner verstaan de persoon van 21 jaar of ouder die in dezelfde woning als de belanghebbende zijn hoofdverblijf heeft en niet:
+a. de echtgenoot van belanghebbende is;
+b. op basis van een schriftelijke overeenkomst met de belanghebbende, waarbij een commerciële prijs is overeengekomen, als verhuurder, huurder, onderverhuurder, onderhuurder, kostgever of kostganger, niet zijnde een bloed- of aanverwant in de eerste of tweede graad van de belanghebbende, in dezelfde woning als de belanghebbende zijn hoofdverblijf heeft;
+c. op basis van een schriftelijke overeenkomst met een derde, waarbij een commerciële prijs is overeengekomen, als huurder, onderhuurder of kostganger in dezelfde woning als de belanghebbende zijn hoofdverblijf heeft, mits hij de overeenkomst heeft met dezelfde persoon als met wie de belanghebbende een schriftelijke overeenkomst heeft, waarbij een commerciële prijs is overeengekomen, als huurder, onderhuurder of kostganger; of
+d. een persoon is die:
+1°. onderwijs volgt waarvoor aanspraak op studiefinanciering als bedoeld in artikel 3.1, eerste of tweede lid, van de Wet studiefinanciering 2000 kan bestaan en op enig moment tijdens dat onderwijs gelet op zijn leeftijd in aanmerking kan komen voor die studiefinanciering;
+2°. onderwijs volgt waarvoor aanspraak kan bestaan op een tegemoetkoming op grond van hoofdstuk 4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten en op enig moment tijdens dat onderwijs gelet op zijn leeftijd in aanmerking kan komen voor die tegemoetkoming;
+3°. een beroepsopleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen a tot en met e, van de Wet educatie en beroepsonderwijs in de beroepsbegeleidende leerweg volgt;
+4°. een vergelijkbaar soort onderwijs of beroepsopleiding als bedoeld onder 1° tot en met 3° volgt buiten Nederland, waarbij voor onder 1° en 2° geldt dat hij op enig moment tijdens dat onderwijs jonger dan 30 jaar is of in de maand van aanvang de leeftijd van 30 jaren heeft bereikt.
+2. Voor de toepassing van het eerste lid, onderdelen b en c, legt de belanghebbende op verzoek van het college de schriftelijke overeenkomst over en toont hij de betaling van de commerciële prijs aan door het overleggen van de bewijzen van betaling.

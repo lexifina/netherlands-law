@@ -12,7 +12,7 @@
 ### § 3.3. Verlaging
 ### § 3.4. Middelen
 ## Hoofdstuk 4. Aanvullende inkomensondersteuning en aanpassing bedragen
-### § 4.1. Bijzondere bijstand
+### § 4.1. Aanvullende inkomensondersteuning
 ### § 4.2. Aanpassing bedragen
 ## Hoofdstuk 5. Uitvoering
 ### § 5.1. De aanvraag

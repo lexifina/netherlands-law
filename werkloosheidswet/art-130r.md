@@ -1,0 +1,4 @@
+# Artikel 130r
+1. Artikel 64, vierde, zevende en negende lid, is niet van toepassing op het loon, bedoeld in dat artikel, over de weken die liggen voor de dag waarop de onderdelen V, X en Y van artikel XXVI van de Wet werk en zekerheid in werking zijn getreden.
+2. Artikel 64, vijfde, zesde en achtste lid, is niet van toepassing op het vakantiegeld en de vakantiebijslag, voor zover het deel van het jaar bedoeld in artikel 64, eerste lid, onderdeel c, ligt voor de dag waarop de onderdelen V, X en Y van artikel XXVI van de Wet werk en zekerheid in werking zijn getreden.
+3. Voor zover de uitkering, bedoeld in artikel 61a, betrekking heeft op de periode voorafgaand aan de dag van inwerkingtreding van de onderdelen V, X en Y van artikel XXVI van Wet werk en zekerheid, heeft de maximering, bedoeld in artikel 61a, eerste lid, geen plaats.
