@@ -26,7 +26,7 @@
 #### § 1. Definities
 #### § 2. Verzekeraars met zetel in Nederland, verzekeraars zonder vergunning met zetel in een andere lidstaat dan Nederland en verzekeraars met zetel buiten de Europese Unie met bijkantoor in Nederland
 #### § 3. Bepalingen van internationaal privaatrecht
-#### § 4. Natura-uitvaartzekeraars
+#### § 4. Verzekeraars met beperkte risico-omvang
 ## Titel II. Van surseance van betaling
 ### afdeling Eerste. Van de verlening van surseance van betaling en haar gevolgen
 ### afdeling Tweede. Van het akkoord
