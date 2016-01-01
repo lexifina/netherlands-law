@@ -1,0 +1,4 @@
+# Artikel XVII
+1. Artikel I, artikel II, onderdelen B, C, onder 1, en F, artikel III, onderdeel A, onder 1, artikel IIIA, artikel V, onderdeel A, de artikelen VI tot en met XII, artikel XIV, tweede lid, en artikel XV treden in werking met ingang van 1 januari 2014. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 2013, treden de hiervoor genoemde artikelen en onderdelen daarvan, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, en werken deze terug tot en met 1 januari 2014.
+2. Artikel II, onderdelen A, C, onder 2 en 3, D, E en G, artikel V, onderdeel B, artikel XIV, eerste lid, en artikel XVI, derde en vijfde lid, treden in werking met ingang van 1 januari 2015.
+3. Artikel III, onderdeel A, onder 2 en 3, artikel XIII, artikel XIV, derde lid, en artikel XVI, eerste, tweede en vierde lid, treden in werking met ingang van 1 januari 2016.

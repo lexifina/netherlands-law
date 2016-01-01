@@ -1,0 +1,2 @@
+# Artikel X
+Onze Minister van Sociale Zaken en Werkgelegenheid kan de bedragen, genoemd in de artikelen VI tot en met IX, na het tijdstip van inwerkingtreding van die artikelen eenmalig per 1 januari 2014 vervangen door een ander bedrag. Dat bedrag wordt berekend door het te vervangen bedrag te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in artikel 10.2 van de Wet inkomstenbelasting 2001, en de uitkomst vervolgens naar boven af te ronden op hele getallen.
