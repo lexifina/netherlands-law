@@ -1,0 +1,3 @@
+# Artikel 444b
+1. De door een verzekeringsmaatschappij aan te houden voorziening voor levensverzekeringen wordt berekend op basis van een voldoende voorzichtige prospectieve actuariële methode, rekening houdend met de in de toekomst te ontvangen premies en met alle toekomstige verplichtingen volgens de voor iedere lopende levensverzekering gestelde voorwaarden.
+2. In afwijking van het eerste lid kan een retrospectieve methode worden toegepast indien de op grond van die methode berekende technische voorzieningen niet lager zijn dan de voorzieningen bij toepassing van een prospectieve methode of indien het gebruik van een prospectieve methode vanwege de aard van het betrokken type levensverzekering niet mogelijk is.

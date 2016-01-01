@@ -1,0 +1,2 @@
+# Artikel 444d
+De voorziening voor winstdeling en kortingen van een verzekeringsmaatschappij omvat de bedragen die in de vorm van winstdeling bestemd zijn voor de verzekeringnemers, verzekerden of gerechtigden op uitkeringen, voor zover deze niet hebben geleid tot verhoging van de voorziening voor levensverzekering, alsmede de bedragen die een gedeeltelijke terugbetaling van premies op grond van het resultaat van de verzekeringen vertegenwoordigen, voor zover deze niet tot verhoging van de ledenrekening hebben geleid.
