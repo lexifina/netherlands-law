@@ -1,0 +1,5 @@
+# Article III. Territorial Application
+1. The United Nations in cases where they are the administering authority for a territory or any Contracting Party responsible for the international relations of a territory may at any time by notification in writing to the Secretary-General of the Organization (hereinafter referred to as "the Secretary-General"), extend the application of this Convention to such a territory.
+2. The present Convention shall, upon the date of receipt of the notification or from such other date as may be specified in the notification, extend to the territory named therein.
+3. Any notification made in accordance with paragraph 1 of this Article may be withdrawn in respect of any territory mentioned in that notification and the extension of this Convention to that territory shall cease to apply after one year or such longer period as may be specified at the time of the withdrawal.
+4. The Secretary-General shall inform all Contracting Parties of the notification of any extension or withdrawal of any extension communicated under this Article.

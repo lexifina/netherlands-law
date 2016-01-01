@@ -1,0 +1,5 @@
+# Artikel III. Gebieden waarop het Verdrag van toepassing is
+1. De Verenigde Naties, in gevallen waarin zij het besturend lichaam voor een gebied zijn, of een Verdragsluitende Partij die verantwoordelijk is voor de buitenlandse betrekkingen van een gebied, kunnen te allen tijde de Secretaris-Generaal van de Organisatie (hierna te noemen „de Secretaris-Generaal") schriftelijk mededelen dat dit Verdrag ook op dat gebied van toepassing zal zijn.
+2. Van de datum van ontvangst van de kennisgeving af, of van een zodanige andere datum af als in de kennisgeving mocht zijn vermeld, zal dit Verdrag van toepassing zijn op het daarin genoemde gebied.
+3. Elke kennisgeving gedaan overeenkomstig het eerste lid van dit artikel kan ten aanzien van een in die kennisgeving genoemd gebied worden ingetrokken en dit Verdrag zal niet langer op dat gebied van toepassing zijn na één jaar of op een zodanig later tijdstip als mocht zijn aangegeven op het tijdstip van de intrekking.
+4. De Secretaris-Generaal doet alle Verdragsluitende Partijen mededeling van elke kennisgeving van toepassing of elke intrekking daarvan, gedaan overeenkomstig dit artikel.

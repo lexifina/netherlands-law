@@ -1,0 +1,8 @@
+# Artikel IV. Inwerkingtreding
+1. (a) Dit Verdrag treedt in werking twaalf maanden na de datum waarop ten minste 15 Staten wier totale koopvaardijvloot te zamen niet minder dan 65% - hetzij in aantal hetzij naar tonnage - omvat van de wereldvloot van schepen met een bruto inhoud van 100 ton en meer, Partij bij het Verdrag zijn geworden, daarbij in aanmerking nemende aan welke van de twee voorwaarden het eerst is voldaan.
+(b) Onverminderd het bepaalde onder (a) van dit lid treedt dit Verdrag niet in werking vóór 1 januari 1976.
+2. De inwerkingtreding ten aanzien van Staten die dit Verdrag bekrachtigen, aanvaarden, goedkeuren of daartoe toetreden overeenkomstig artikel II nadat is voldaan aan de voorwaarden voorgeschreven in het eerste lid, onder (a) en voordat het Verdrag in werking is getreden, vindt plaats op de datum van inwerkingtreding van het Verdrag.
+3. De inwerkingtreding ten aanzien van Staten die dit Verdrag bekrachtigen, aanvaarden, goedkeuren of daartoe toetreden na de datum waarop het Verdrag in werking is getreden, vindt plaats op de datum van nederlegging van een akte overeenkomstig artikel II.
+4. Na de inwerkingtreding van een wijziging van dit Verdrag overeenkomstig artikel VI, vierde lid, geldt bekrachtiging, aanvaarding, goedkeuring of toetreding voor het gewijzigde Verdrag.
+5. Op de datum van inwerkingtreding van dit Verdrag worden de Internationale Bepalingen ter Voorkoming van Aanvaringen op Zee, 1960, door de onderhavige Bepalingen vervangen en buiten werking gesteld.
+6. De Secretaris-Generaal stelt de Regeringen van de Staten die dit Verdrag hebben ondertekend of daartoe zijn toegetreden in kennis van de datum van zijn inwerkingtreding.
