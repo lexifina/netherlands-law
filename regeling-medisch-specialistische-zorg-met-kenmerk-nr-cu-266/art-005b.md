@@ -1,0 +1,3 @@
+# Artikel 5b. Openen zorgtraject bij multidisciplinaire behandeling (met subtraject ZT11)
+1. Er is sprake van multidisciplinaire behandeling indien er sprake is van één zorgvraag waarbij meerdere poortspecialismen als hoofdbehandelaar een eigen behandeling uitvoeren. In dat geval opent elk (poort)specialisme een eigen zorgtraject.
+2. Er is géén sprake van multidisciplinaire behandeling indien binnen een zorgtraject zowel een poortspecialist als een SEH-arts KNMG, arts-assistent, verpleegkundig specialist en/of physician assistant een deel van de prestaties in het kader van één zorgvraag uitvoeren. In dat geval wordt er één zorgtraject geopend.
