@@ -8,5 +8,5 @@
 a. € 98,50 tot het jaar 2010;
 b. € 40,– vanaf het jaar 2010, met dien verstande dat deze verhoging met ingang van elk daaropvolgend kalenderjaar wordt verhoogd met € 1,25.
 7. Het tarief van de in het eerste lid, tweede volzin, bedoelde heffing bedraagt € 0,50 per ton van de maximale toegelaten startmassa van het luchtvaartuig.
-8. Onze Minister van Verkeer en Waterstaat kan bij de toepassing van het eerste lid een deel van de kosten buiten toepassing laten indien toepassing, gelet op het belang van de burgerluchtvaart, zal leiden tot een onbillijkheid van overwegende aard.
-9. De eigenaar of houder van een luchtvaartuig dient de ter bepaling van de geluidsheffing noodzakelijke gegevens ter beschikking van Onze Minister van Verkeer en Waterstaat te stellen overeenkomstig door hem te geven regels.
+8. Onze Minister van Infrastructuur en Milieu kan bij de toepassing van het eerste lid een deel van de kosten buiten toepassing laten indien toepassing, gelet op het belang van de burgerluchtvaart, zal leiden tot een onbillijkheid van overwegende aard.
+9. De eigenaar of houder van een luchtvaartuig dient de ter bepaling van de geluidsheffing noodzakelijke gegevens ter beschikking van Onze Minister van Infrastructuur en Milieu te stellen overeenkomstig door hem te geven regels.
