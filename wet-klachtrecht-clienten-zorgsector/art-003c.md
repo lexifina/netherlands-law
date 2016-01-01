@@ -1,3 +1,0 @@
-# Artikel 3c
-1. De artikelen 3, 3a en 3b zijn niet van toepassing ten aanzien van een instelling als bedoeld in artikel 1, onder b, onder 3°.
-2. Met het toezicht op de naleving van deze wet ten aanzien van een instelling als bedoeld in artikel 1, onder b, onder 3°, zijn belast de op grond van de artikelen 1.61, eerste lid, en 2.19, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen door het college van burgemeester en wethouders bij besluit aangewezen ambtenaren. Het bepaalde bij of krachtens hoofdstuk 1, afdelingen 4 en 5 en hoofdstuk 2, afdelingen 3 en 4, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen is van overeenkomstige toepassing.
