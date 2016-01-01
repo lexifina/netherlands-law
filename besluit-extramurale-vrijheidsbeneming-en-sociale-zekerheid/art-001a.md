@@ -1,0 +1,2 @@
+# Artikel 1a
+Dit besluit berust mede op de artikelen 13, derde lid, van de Participatiewet, artikel 6, vierde lid, van de Wet inkomensvoorziening oudere werklozen, 8b, vijfde lid, van de Algemene Ouderdomswet, 2.17, derde lid, van de Wet studiefinanciering 2000, 1a:7, tweede lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, 19, tiende lid, van de Werkloosheidswet en 2.22a, derde lid, van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
