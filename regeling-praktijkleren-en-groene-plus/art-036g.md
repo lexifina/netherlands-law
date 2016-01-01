@@ -1,8 +1,0 @@
-# Artikel 36g
-1. Stoas Hogeschool, de instellingen en afdelingen besteden de subsidie voor de groene opleidingsschool uitsluitend ten behoeve van het doel genoemd in artikel 36a.
-2. Indien een deel van de ontvangen subsidie in enig schooljaar niet is besteed aan het doel, bedoeld in artikel 36a, dan mogen deze middelen binnen dit doel worden besteed tot en met het schooljaar 2014–2015.
-3. Stoas Hogeschool verantwoordt de bestemming en de besteding van de subsidie voor de groene opleidingsschool in en bij de jaarrekening. Zij geeft daarbij aan welk deel van de subsidie zij als penvoerder heeft doorgegeven aan instellingen en afdelingen, en welke de besteding hiervan is. De verklaring van de accountant bij de jaarrekening omvat tevens een oordeel over de rechtmatige besteding van de subsidie en de rechtmatigheid van de gegevens, waaronder de aantallen studenten.
-4. Bij de jaarrekening voegt Stoas Hogeschool een activiteitenverslag van de Groene opleidingsschool, waarin ook de activiteiten van de instellingen en afdelingen, waar in het afgelopen schooljaar studenten zijn opgeleid, zijn opgenomen. Dit activiteitenverslag omvat tenminste:
-i. een overzicht van de werkzaamheden waarvoor de verstrekte subsidie is ingezet en de daarmee bereikte resultaten, waarin de werkzaamheden en resultaten van Stoas Hogeschool en van de instellingen en afdelingen onderscheiden zichtbaar zijn;
-ii. een verantwoording van het aantal studenten dat in het verstreken schooljaar is opgeleid en een prognose van het aantal studenten dat in het lopende schooljaar zal worden opgeleid;
-iii. voor zover van toepassing, een analyse van de verschillen tussen de voorgenomen en gerealiseerde activiteiten en de beoogde en feitelijk gerealiseerde resultaten.

@@ -1,5 +1,0 @@
-# Artikel 35c
-1. De minister verstrekt voor het jaar 2015 aan Aequor jaarlijks subsidie voor de verdere ontwikkeling en in stand houding van arbeidsmarktinformatie betreffende de sectoren Landbouw, Natuurlijke omgeving en Voedsel en voor de beschikbaar stelling van arbeidsinformatie voor in ieder geval de instellingen, bedrijven en organisaties in deze sectoren en voor onderwijsvragenden.
-2. Het subsidieplafond voor deze subsidie is € 300.000 per jaar.
-3. Het subsidiebedrag wordt vastgesteld op basis van een uitvoeringsplan en de begroting daarbij, die voor 1 april 2015 aan de Minister ter goedkeuring worden voorgelegd. Het uitvoeringsplan wordt opgesteld in afstemming met de Groene Tafel, op grond van de Strategische Ontwikkelagenda, en met organisaties van het bedrijfsleven. De resultaten van deze afstemming zijn in het uitvoeringsplan vermeld. Bij het uitvoeringsplan voegt Aequor een plan toe voor voortzetting van de activiteiten na 2015.
-4. Aequor verantwoordt voor 1 juli 2016 de besteding en bestemming van het bedrag, bedoeld in het eerste lid, vergezeld van een financieel verslag en een verslag van de uitgevoerde activiteiten en bereikte resultaten.
