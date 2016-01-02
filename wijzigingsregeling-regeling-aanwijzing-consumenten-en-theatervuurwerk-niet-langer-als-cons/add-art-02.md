@@ -1,0 +1,4 @@
+# Artikel II
+1. Tot 2 januari 2016 worden, voor zover het regels over tot ontbranding brengen betreft, Romeinse kaarsen die voldoen aan de eisen van de Regeling aanwijzing consumenten- en theatervuurwerk, zoals deze luidde op 1 december 2015, beschouwd als consumentenvuurwerk.
+2. Tot 1 juni 2016 worden, voor zover het regels over voorhanden hebben betreft, Romeinse kaarsen die voldoen aan de eisen van de Regeling aanwijzing consumenten- en theatervuurwerk, zoals deze luidde op 1 december 2015, beschouwd als consumentenvuurwerk.
+3. Tot 1 juni 2016 worden, voor zover het regels over het opslaan binnen een inrichting betreft, Romeinse kaarsen en minivuurpijlen, die voldoen aan de eisen van de Regeling aanwijzing consumenten- en theatervuurwerk, zoals deze luidde op 1 december 2015, beschouwd als consumentenvuurwerk.
