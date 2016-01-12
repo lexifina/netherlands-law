@@ -128,11 +128,10 @@ t. | Inrichtingen voor het recreatievissen of het kweken van siervis of consumpt
 u. | Inrichtingen voor het gebruiken van bromfietsen, motorvoertuigen of andere gemotoriseerde voertuigen of vaartuigen in wedstrijdverband of voor recreatieve doeleinden in de open lucht.
 ## BIJLAGE II BIJ DE POV DRENTHE
 Lijsten A en B als bedoeld in artikel 10.6, onder a en b
-Lijst A: Vaarwegen in beheer bij de provincie Drenthe
 Vaarweg | Beheerder | Functionaliteit | Kilometer / opmerking
 CEMT/specificatie diepgang | BRTN | Doorvaart- hoogte obv kanaalpeil
 Noord-Willemskanaal voor zover in Drenthe | Provincie Drenthe | II 1,90m – kp 2,50m – kp | BM | 5,30 m + kp 5.40 m + kp | 0,0 – 6,7 6,7 – 19,6
-Drentsche Hoofdvaart | Provincie Drenthe | - 1,55m – kp IV 2,50m – NAP | BM | 5,30 m + kp Geen beperking | 2,4 – 43,7 43,7 – 44,2 klasse IV *
+Drentsche Hoofdvaart | Provincie Drenthe | - 1,55m – kp IV 2,50m – NAP | BM | 5,30 m + kp IV 2,50m - NAP | 2,4 – 43,7 43,7 – 44,2 klasse IV *
 Meppelerdiep voor zover in Drenthe | Provincie Drenthe | Va 3,25m – NAP 2,75m – NAP | BM | Geen beperking Geen beperking | 9,2 – 10,5 * 10,5 – 11 ,2 *deels gemandateerd aan Meppel: zie Prov. Blad 27/2010
 Hoogeveensche Vaart | Provincie Drenthe | II 2,50m – NAP 2,20m – kp | BM | 5,80 m + kp 5,20 m + kp | 0,0 – 9,5 9,5 – 28,4
 Verlengde Hoogeveensche Vaart tot aan Klazienaveen | Provincie Drenthe | I 1,50m – kp 1,90m – kp 1,90m – kp 1,10m – kp | BM | 5,10 m + kp 5,30 m + kp 5,30 m + kp 4,20 m + kp | 28,4 – 51,8 51,8 – 56,5 56,5 – 60,9 60,9 – 62,0,
