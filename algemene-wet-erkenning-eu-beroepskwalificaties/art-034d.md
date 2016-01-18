@@ -1,0 +1,2 @@
+# Artikel 34d. Assistentiecentrum
+Onze minister van Onderwijs, Cultuur en Wetenschap wijst een assistentiecentrum aan als bedoeld in artikel 57 ter van de richtlijn en kan daarbij de taken en bevoegdheden van het assistentiecentrum nader bepalen, waaronder taken en bevoegdheden inzake de verwerking van persoonsgegevens, waarbij de artikelen 34, eerste tot en met vierde lid en zesde lid, 34a en 34b van overeenkomstige toepassing kunnen worden verklaard.

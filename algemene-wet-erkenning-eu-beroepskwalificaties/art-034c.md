@@ -1,0 +1,3 @@
+# Artikel 34c. Elektronische procedures
+1. De procedures in het kader van erkenning van beroepskwalificaties als bedoeld in hoofdstuk 2, tijdelijke en incidentele dienstverrichting als bedoeld in hoofdstuk 3 en de Europese beroepskaart als bedoeld in hoofdstuk 3a, zijn beschikbaar langs elektronische weg, via het centraal loket als bedoeld in artikel 5 van de Dienstenwet, of via Onze minister die het aangaat.
+2. Het eerste lid is niet van toepassing op het uitvoeren van een aanpassingsstage als bedoeld in artikel 11, eerste lid, of een proeve van bekwaamheid als bedoeld in artikel 11, eerste lid of artikel 27, derde lid.
