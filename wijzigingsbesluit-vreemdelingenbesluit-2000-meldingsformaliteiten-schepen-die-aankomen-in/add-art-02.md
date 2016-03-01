@@ -1,2 +1,0 @@
-# Artikel II
-Tot 1 juni 2015 kan de informatieverstrekking, bedoeld in artikel 4.11, eerste lid, van het Vreemdelingenbesluit 2000, nog plaatsvinden door middel van papieren lijsten op de wijze bepaald in de artikelen 4.11 tot en met 4.13 van het Vreemdelingenbesluit 2000, zoals deze luidden direct voorafgaand aan de datum van inwerkingtreding van dit besluit, met inachtneming van de termijnen, bedoeld in onderdeel 3.1.2 van bijlage VI van de Schengengrenscode. Artikel 4.11, tweede lid, van het Vreemdelingenbesluit 2000 is van overeenkomstige toepassing.

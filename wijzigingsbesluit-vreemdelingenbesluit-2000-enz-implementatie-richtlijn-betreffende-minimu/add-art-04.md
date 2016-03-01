@@ -1,2 +1,0 @@
-# Artikel IV
-Dit besluit treedt in werking op het tijdstip waarop de wet tot wijziging van de Vreemdelingenwet 2000 ter implementatie van richtlijn 2004/83/EG van de Raad van 29 april 2004 betreffende minimumnormen voor de erkenning en de status van onderdanen van derde landen en staatlozen als vluchteling of als persoon die anderszins internationale bescherming behoeft, en de inhoud van de verleende bescherming (Pb EU L 304) in werking treedt.

@@ -1,2 +1,0 @@
-# Artikel II
-Ten aanzien van de vreemdeling wiens verblijf op grond van het recht zoals dat gold voor inwerkingtreding van dit besluit niet kon worden beëindigd, blijft artikel 3.86 van het Vreemdelingenbesluit 2000 van toepassing, zoals dat gold voor inwerkingtreding van dit besluit, tenzij die vreemdeling wegens een na inwerkingtreding van dit besluit gepleegd misdrijf bij onherroepelijk geworden rechterlijk vonnis is veroordeeld tot jeugddetentie of een maatregel als bedoeld in artikel 38m of 77h, vierde lid, onder a, van het Wetboek van Strafrecht.

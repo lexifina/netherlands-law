@@ -1,2 +1,0 @@
-# Artikel II
-De vervoerder, bedoeld in artikel 4, eerste lid, van de Vreemdelingenwet 2000, die op het tijdstip waarop dit besluit in werking treedt nog niet in staat is de in artikel 2.2a, derde lid, onderdeel c, onder 3° en 4°, van het Vreemdelingenbesluit 2000 bedoelde gegevens te verstrekken, kan in afwijking van artikel 2.2a, derde lid, van het Vreemdelingenbesluit 2000 het verstrekken van die gegevens achterwege laten tot uiterlijk 1 april 2013.
