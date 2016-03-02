@@ -1,6 +1,7 @@
 # Inhoud
 ## Inhoud
-### HOOFDSTUK 1, ALGEMEEN
-### HOOFDSTUK 2, MAATREGELEN
-### HOOFDSTUK 3, LEADER
-### HOOFDSTUK 4, SLOTBEPALINGEN
+### Hoofdstuk 1, Algemeen
+### Hoofdstuk 2, Maatregelen
+### Hoofdstuk 3, LEADER
+### Toelichting
+bij de Verordening subsidies Plattelandsontwikkelingsprogramma 2014-2020
