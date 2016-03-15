@@ -9,10 +9,9 @@ a. artikel 124 van de Gemeentewet, voor zover het beroep wordt ingesteld door he
 b. artikel 124a van de Gemeentewet, voor zover het beroep wordt ingesteld door gedeputeerde staten, en
 c. hoofdstuk XVII van de Gemeentewet
 Belemmeringenwet Privaatrecht: de artikelen 2, vijfde lid, en 3, tweede lid, voor zover de verplichting noodzakelijk is voor de uitvoering van werken als bedoeld in artikel 2.3, tweede lid, onderdelen a en b, van de Crisis- en herstelwet of voor de uitvoering van een of meer besluiten als bedoeld in:
-a. artikel 3, eerste lid, van de Wet bereikbaarheid en mobiliteit
-b. artikel 21, tweede lid, van de Tracéwet
-c. de artikelen 3.30, eerste lid, onder a, 3.33, eerste lid, onder a, en 3.35, eerste lid, onder b, van de Wet ruimtelijke ordening
-d. artikel 15, tweede lid, van de Spoedwet wegverbreding: de verlegging van kabels en leidingen, verband houdende met de uitvoering van een wegaanpassingsbesluit
+a. artikel 21, tweede lid, van de Tracéwet
+b. de artikelen 3.30, eerste lid, onder a, 3.33, eerste lid, onder a, en 3.35, eerste lid, onder b, van de Wet ruimtelijke ordening
+c. artikel 15, tweede lid, van de Spoedwet wegverbreding: de verlegging van kabels en leidingen, verband houdende met de uitvoering van een wegaanpassingsbesluit
 Crisis- en herstelwet:
 a. artikel 2.3, voor zover het betreft een besluit tot vaststelling van een bestemmingsplan
 b. artikel 2.10, eerste lid
@@ -79,7 +78,6 @@ d. artikel 5.2a, vierde lid, betreffende de toepassing van hoofdstuk XVII van de
 Wet ammoniak en veehouderij:
 a. artikel 2, eerste lid
 b. een besluit tot wijziging van een besluit als bedoeld in artikel 2, eerste lid
-Wet bereikbaarheid en mobiliteit: artikel 3, eerste lid
 Wet bescherming Antarctica
 Wet bodembescherming, met uitzondering van artikel 43, voor zover het betreft de afwijzing van een verzoek
 Wet educatie en beroepsonderwijs:
@@ -138,6 +136,7 @@ f. de artikelen 4.2, eerste lid, en 4.4, eerste lid, voor zover het besluit betr
 g. de artikelen 6.8, eerste lid, en 6.9
 h. een besluit omtrent vaststelling van een exploitatieplan voor gronden, begrepen in een gelijktijdig bekendgemaakt bestemmingsplan, inpassingsplan of wijzigingsplan als bedoeld in artikel 3.6, eerste lid, alsmede herzieningen van het desbetreffende exploitatieplan en besluiten omtrent de afrekening en herberekende exploitatiebijdragen van het desbetreffende exploitatieplan
 i. een ontheffing als bedoeld in artikel 4.1a of 4.3a, voor zover die ontheffing betrekking heeft op een bestemmingsplan of een provinciaal inpassingsplan
+Wet tijdelijke tolheffing Blankenburgverbinding en ViA15: artikel 2, eerste lid
 Wet toelating zorginstellingen
 Wet windenergie op zee: artikelen 3, eerste lid en 11, eerste lid
 Woningwet: artikel 19, voor zover het betreft de intrekking van een toelating
