@@ -62,6 +62,8 @@
 ##### § 2.2.0.2. Vrijstelling
 ##### § 2.2.0.3. Bijkantoren en betaaldienstagenten van en verrichten van diensten door betaaldienstverleners met zetel in een andere lidstaat
 ##### § 2.2.0.4. Betaaldienstverleners met zetel in een staat die geen lidstaat is
+#### Afdeling 2.2.0a. Uitoefenen van het bedrijf van bewaarder
+##### § 2.2.0a.1. Vergunningplicht en -eisen voor bewaarders met zetel in Nederland en zetel buiten Nederland
 #### Afdeling 2.2.1. Uitoefenen van bedrijf van clearinginstelling
 ##### § 2.2.1.1. Vergunningplicht en -eisen voor clearinginstellingen met zetel in Nederland
 ##### § 2.2.1.2. Bijkantoor en verrichten van diensten door clearinginstellingen met zetel buiten Nederland
@@ -322,6 +324,7 @@
 ##### § 4.3.1.4.b. Informatieverplichtingen voor beheerders van beleggingsinstellingen betreffende controle in uitgevende instellingen
 ##### § 4.3.1.4.c. Rechten van deelneming in een icbe
 ##### § 4.3.1.4d. Fusie tussen icbe's
+##### § 4.3.1.4e. Bewaarders
 ##### § 4.3.1.5. Verzekeringen
 ##### § 4.3.1.6. Premiepensioenvorderingen
 ##### § 4.3.1.7. Provisie
