@@ -1,0 +1,3 @@
+# Artikel II
+1. Een voorschrift dat is verbonden aan een omgevingsvergunning voor een inrichting, en dat toepassing geeft aan artikel 4, eerste lid, van het Besluit stortplaatsen en stortverboden afvalstoffen, zoals dat luidde onmiddellijk voorafgaande aan het tijdstip waarop dit besluit in werking treedt en daarmee in strijd is, blijft van kracht tot drie maanden na dat tijdstip.
+2. Indien in de periode, bedoeld in het eerste lid, een aanvraag is gedaan tot wijziging van het voorschrift overeenkomstig artikel 8 van het Besluit stortplaatsen en stortverboden afvalstoffen, blijft dit voorschrift, in afwijking van het eerste lid, van kracht tot de beschikking op die aanvraag van kracht is geworden.
