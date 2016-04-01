@@ -12,7 +12,7 @@ a. Boek 1:
 2. titel 14, afdeling 4, voor zover de aanvraag is toegewezen
 b. Boek 2: de artikelen 63d, tweede lid, 156 en 266, voor zover de aanvraag is toegewezen
 c. Boek 7: artikel 671a.
-Elektriciteitswet 1998: de artikelen 9b, vierde lid, 9c, derde lid, 9d, tweede en derde lid, 9f, zesde lid, 20a, derde lid, 20b, derde lid, en 20c, tweede en derde lid
+Elektriciteitswet 1998: de artikelen 9b, vierde lid, 9c, derde lid, 9d, tweede en derde lid, 9f, zesde lid, 20a, derde lid, 20b, derde lid, artikel 20c, tweede en derde lid en artikel 20ca
 Faillissementswet: artikel 285
 Financiële-verhoudingswet: artikel 9
 Gaswet: de artikelen 39b, derde lid, 39c, derde lid, en 39d, tweede en derde lid
@@ -74,9 +74,7 @@ c. artikel 5.2a, tweede lid, betreffende de toepassing van artikel 124 van de Ge
 d. artikel 5.2a, derde lid, betreffende de toepassing van hoofdstuk XVIII van de Provinciewet, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging en voor zover het betreft de weigering om een voordracht tot vernietiging te doen
 e. artikel 5.2a, vierde lid, betreffende de toepassing van hoofdstuk XVII van de Gemeentewet, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging en voor zover het betreft de weigering om een voordracht tot vernietiging te doen
 f. artikel 5.8, eerste lid, laatste volzin
-Wet bekostiging financieel toezicht:
-a. een besluit omtrent de goedkeuring als bedoeld in de artikelen 3 en 6
-b. een besluit als bedoeld in artikel 13, derde lid
+Wet bekostiging financieel toezicht: een besluit omtrent de goedkeuring als bedoeld in de artikelen 3 en 6
 Wet bijzondere opneming in psychiatrische ziekenhuizen
 Wet bodembescherming: artikel 43, voor zover het betreft de afwijzing van een verzoek
 Wet College voor de rechten van de mens, met uitzondering van de artikelen 14 tot en met 18

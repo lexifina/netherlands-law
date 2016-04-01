@@ -17,7 +17,7 @@ Mededingingswet
 Muntwet 2002: artikel 11, eerste en tweede lid
 Pensioenwet
 Postwet 2009, met uitzondering van hoofdstuk 3A en artikel 58
-Sanctiewet 1977
+Sanctiewet 1977: de artikelen 10ba tot en met 10d
 Spoorwegwet, met uitzondering van de artikelen 19 en hoofdstuk 5, paragraaf 2, en artikel 71, tweede lid
 Tabakswet
 Telecommunicatiewet, met uitzondering van:
