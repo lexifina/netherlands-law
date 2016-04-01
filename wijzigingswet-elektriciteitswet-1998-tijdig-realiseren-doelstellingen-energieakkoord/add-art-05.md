@@ -1,0 +1,2 @@
+# Artikel V
+In afwijking van artikel 21, tweede lid, van de Elektriciteitswet 1998 dient degene die op grond van artikel III in samenhang met de artikelen 15a, 10, tweede en derde lid en 10a, vierde lid, wenst te worden aangewezen als netbeheerder van het net op zee, het document, bedoeld in artikel 21, tweede lid, van de Elektriciteitswet 1998 voor de eerste keer in binnen één maand na het indienen van het verzoek op grond van artikel 15a, tweede lid, in samenhang met artikel 10, derde lid, van de Elektriciteitswet 1998.
