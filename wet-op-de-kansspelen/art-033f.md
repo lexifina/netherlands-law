@@ -5,8 +5,8 @@ b. € 10 000, indien de nominale waarde van de verkochte deelnamebewijzen hoger
 c. € 50 000, indien de nominale waarde van de verkochte deelnamebewijzen hoger is dan € 20 000 000 doch niet hoger is dan € 50 000 000;
 d. € 50 000 vermeerderd met één vijfhonderste deel van het bedrag waarmee het drempelbedrag overstegen wordt, indien de nominale waarde van de verkochte deelnamebewijzen het drempelbedrag van € 50 000 000 overstijgt.
 2. Het tarief van de heffing bedoeld in artikel 33e, tweede lid, onder b, bedraagt:
-a. voor tafelspelen in een speelcasino: € 160 per speeltafel en € 120 per aangekoppelde spelersterminal;
-b. voor kansspelautomaten bestemd voor opstelling in een speelcasino: € 120 per spelersplaats;
+a. voor tafelspelen in een speelcasino: € 164 per speeltafel en € 123 per aangekoppelde spelersterminal;
+b. voor kansspelautomaten bestemd voor opstelling in een speelcasino: € 123 per spelersplaats;
 c. voor kansspelautomaten bestemd voor opstelling in een speelautomatenhal: € 80 per spelersplaats;
 d. voor kansspelautomaten bestemd voor opstelling in een hoogdrempelige inrichting: € 40 per spelersplaats;
 3. Overeenkomstig bij regeling van Onze Minister van Veiligheid en Justitie te stellen regels verstrekt de vergunninghouder op de daarbij vastgestelde wijze en binnen de daarbij vastgestelde termijn de gegevens en bescheiden die voor de vaststelling van de heffing van belang kunnen zijn en verstrekt hij op verzoek van de kansspelautoriteit de nadere gegevens en bescheiden die de kansspelautoriteit voor de vaststelling van de kansspelheffing behoeft.
