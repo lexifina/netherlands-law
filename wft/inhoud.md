@@ -215,7 +215,6 @@
 ##### § 3.3.9.2. Financiële ondernemingen met zetel in een andere lidstaat
 ##### § 3.3.9.3. Financiële ondernemingen met zetel in een staat die geen lidstaat is
 ##### § 3.3.9.4. Financiële ondernemingen met zetel in een niet-aangewezen staat
-##### § 3.3.9.5. Financiële ondernemingen met zetel buiten Nederland
 #### Afdeling 3.3.10. Meldingsplichten van de accountant en de actuaris
 ##### § 3.3.10.1. Financiële ondernemingen met zetel in Nederland
 ##### § 3.3.10.2. Financiële ondernemingen met zetel in een andere lidstaat
@@ -267,6 +266,8 @@
 ##### § 3.5.6.2. Financiële ondernemingen met zetel in een andere lidstaat
 ##### § 3.5.6.3. Financiële ondernemingen met zetel in een staat die geen lidstaat is
 #### Afdeling 3.5.6a. Beleggingsbeginselen en beleggingsbeleid van afwikkelondernemingen
+##### § 3.5.6a.1. Afwikkelondernemingen met zetel in Nederland
+##### § 3.5.6a.2. Afwikkelondernemingen met zetel in een niet-aangewezen staat
 #### Afdeling 3.5.7. Beleggingsbeginselen en beleggingsbeleid van premiepensioeninstellingen
 #### Afdeling 3.5.8. Rechten wederpartij na een gebeurtenis met betrekking tot een verzekeraar
 #### Afdeling 3.5.9. Beleggingsbeleid van entiteiten voor risico-acceptatie en verzekeraars
