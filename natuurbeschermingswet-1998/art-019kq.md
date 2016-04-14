@@ -1,0 +1,4 @@
+# Artikel 19kq
+1. Een ministeriële regeling als bedoeld in artikel 19kh, vijfde of zevende lid, 19kk, 19kn, eerste of vierde lid, 19ko, vijfde lid, of 19koa, eerste lid, wordt vastgesteld door de Minister van Economische Zaken en de Minister van Infrastructuur en Milieu.
+2. Een ministeriële regeling als bedoeld in artikel 19kh, vijfde of zevende lid, 19kk, 19kn, vierde lid, 19ko, vijfde lid, of 19koa, eerste lid, wordt vastgesteld na overleg met de bestuursorganen, bedoeld in artikel 19kg, derde lid.
+3. Een ministeriële regeling als bedoeld in artikel 19kn, eerste lid, wordt vastgesteld in overeenstemming met de bestuursorganen die het beheerplan, bedoeld in artikel 19a of 19b, vaststellen voor de in het programma opgenomen Natura 2000-gebieden waarin de stikstofdepositie die de in artikel 19kn, eerste lid, bedoelde projecten of andere handelingen veroorzaken hoofdzakelijk plaatsvindt.

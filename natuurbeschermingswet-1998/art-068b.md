@@ -1,0 +1,2 @@
+# Artikel 68b
+De Nederlandse strafwet is van toepassing op een ieder die zich in de exclusieve economische zone schuldig maakt aan overtreding van regels gesteld bij of krachtens de artikelen 19c, vierde lid, 19d, eerste lid, 19ia, eerste lid, in samenhang met 16, 19ia, derde lid, in samenhang met 19c, vierde lid, 19kc, eerste lid, 19ke, vijfde lid, 19l, eerste lid, 20, derde lid, 21, tweede lid, en 22, tweede lid.
