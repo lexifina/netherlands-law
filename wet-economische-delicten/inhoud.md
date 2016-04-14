@@ -10,5 +10,6 @@
 ## Titel IX. Van het hoger beroep
 ## Titel X
 ## Titel XI. Van de contactambtenaren
+## Titel XIa. Van de samenwerking
 ## Titel XII. Overgangsbepalingen
 ## Titel XIII. Slotbepalingen
