@@ -1,0 +1,4 @@
+# Artikel 75d
+1. Een omgevingsvergunning die betrekking heeft op handelingen als bedoeld in artikel 75b, eerste lid, wordt niet verleend dan nadat Onze Minister heeft verklaard dat hij daartegen geen bedenkingen heeft als bedoeld in artikel 2.27, eerste lid, van de Wet algemene bepalingen omgevingsrecht.
+2. Artikel 75, vierde tot en met zesde lid, is van overeenkomstige toepassing met betrekking tot de verklaring, bedoeld in het eerste lid.
+3. Onze Minister kan een verzoek als bedoeld in artikel 2.29, eerste lid, tweede volzin, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht slechts doen indien de omstandigheden sinds het tijdstip waarop de verklaring is gegeven zodanig zijn gewijzigd, dat deze niet zou zijn gegeven of niet zonder daarbij te bepalen dat aan de omgevingsvergunning daarbij aangegeven voorschriften worden verbonden, indien deze omstandigheden op het bedoelde tijdstip zouden hebben bestaan.
