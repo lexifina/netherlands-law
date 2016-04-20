@@ -1,0 +1,2 @@
+# Artikel 3a
+Het merkteken, bedoeld in artikel 22, eerste lid, van het Besluit meetinstrumenten en marktdeelnemers wordt duidelijk zichtbaar, gemakkelijk leesbaar en duurzaam op het meetinstrument aangebracht. Wanneer een meetinstrument te klein of te gevoelig is om de markering daarop aan te brengen wordt de markering aangebracht op de eventuele verpakking en op de documenten die bij het meetinstrument zijn gevoegd.
