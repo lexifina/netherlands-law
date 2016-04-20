@@ -1,2 +1,0 @@
-# Artikel 28d
-De artikelen 5 en 8 zijn niet van toepassing op liften die tussen 16 augustus 1991 en 1 juli 1997 in bedrijf zijn gesteld, indien voor de levering daarvan opdracht is gegeven vóór 16 augustus 1991, mits zij voldoen aan artikel 28c, eerste lid, onderdeel c en tevens aan het tweede lid van dat artikel, dan wel in het geval van een lift met elektrische aandrijving aan artikel 28c, eerste lid, onderdeel d.
