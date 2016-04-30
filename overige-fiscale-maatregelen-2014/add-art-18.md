@@ -1,0 +1,3 @@
+# Artikel XVIII
+1. De in artikel 30h van de Algemene wet inzake rijksbelastingen opgenomen regeling van de belastingrente is met betrekking tot naheffingsaanslagen ter zake van verbruiksbelasting van alcoholvrije dranken slechts van toepassing voor zover deze betrekking hebben op belastingschulden die zijn ontstaan in tijdvakken die zijn aangevangen op of na 1 januari 2013.
+2. De in artikel 30ha van de Algemene wet inzake rijksbelastingen opgenomen regeling van de belastingrente is met betrekking tot teruggaafbeschikkingen verbruiksbelasting van alcoholvrije dranken slechts van toepassing voor zover deze betrekking hebben op belastingschulden die zijn ontstaan in tijdvakken die zijn aangevangen op of na 1 januari 2013.
