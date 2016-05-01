@@ -1,0 +1,2 @@
+# Artikel 27bis
+Indien een bedrag aan rechten bij invoer of rechten bij uitvoer geheel of gedeeltelijk wordt terugbetaald of kwijtgescholden en ter zake van dat bedrag kredietrente of vertragingsrente in rekening was gebracht, wordt het deel van de kredietrente of vertragingsrente dat betrekking heeft op het terug te betalen of kwijt te schelden bedrag eveneens terugbetaald, onderscheidenlijk kwijtgescholden.
