@@ -31,7 +31,6 @@
 ### Afdeling 3.12. Tijdstip genieten en aftrek
 ### Afdeling 3.13. Verliesverrekening
 ### Afdeling 3.14. Middeling
-### Afdeling 3.15. Zekerheid omtrent de aard van de voordelen uit een arbeidsrelatie
 ## Hoofdstuk 4. Heffingsgrondslag bij aanmerkelijk belang
 ### Afdeling 4.1. Belastbaar inkomen uit aanmerkelijk belang
 ### Afdeling 4.2. Gelijkstellingen
