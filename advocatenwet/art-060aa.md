@@ -1,5 +1,5 @@
 # Artikel 60aa
-1. De artikelen 46 tot en met 46d, 46g tot en met 48 en 48b tot en met 60 alsmede de artikelen 60b tot en met 60g zijn van overeenkomstige toepassing op de advocaten die hun werkzaamheden uitoefenen onder hun oorspronkelijke beroepstitel als bedoeld in artikel 16h.
+1. De artikelen 46 tot en met 46f, 46fb tot en met 60 alsmede de artikelen 60b tot en met 60g zijn van overeenkomstige toepassing op de advocaten die hun werkzaamheden uitoefenen onder hun oorspronkelijke beroepstitel als bedoeld in artikel 16h.
 2. In afwijking van artikel 48, tweede lid, onderdeel d, kan als maatregel worden opgelegd de schorsing gedurende ten hoogste één jaar in de bevoegdheid om in Nederland de in artikel 16h bedoelde werkzaamheden uit te oefenen.
 3. Het in artikel 48, vijfde lid, bepaalde omtrent openbaarmaking is mede van toepassing op de in het tweede lid genoemde maatregel.
 4. De bevoegde autoriteit van de staat van herkomst wordt in de gevallen, bedoeld in de artikelen 46h, vierde lid, 48f, 49, 56, vijfde lid, 57, eerste lid, 60b, eerste en zevende lid en 60c, derde en vierde lid in de gelegenheid gesteld haar mening kenbaar te maken.
