@@ -19,7 +19,7 @@ Pensioenwet
 Postwet 2009, met uitzondering van hoofdstuk 3A en artikel 58
 Sanctiewet 1977: de artikelen 10ba tot en met 10d
 Spoorwegwet, met uitzondering van de artikelen 19, 21 en hoofdstuk 5, paragraaf 2, en artikel 71, tweede lid
-Tabakswet
+Tabaks- en rookwarenwet
 Telecommunicatiewet, met uitzondering van:
 a. artikel 3.4, eerste lid, onderdeel b, voor zover het betreft een aanwijzing
 b. de artikelen 3.10, 15.2, derde lid, 15.4, vierde lid en 18.9, eerste en tweede lid
