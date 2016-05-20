@@ -1,2 +1,3 @@
 # Artikel 3e
-Met ingang van 30 september 2003 is het verboden op de verpakking van tabaksproducten teksten, namen, handelsmerken en figuratieve of andere tekens te gebruiken, die de suggestie wekken dat een bepaald tabaksproduct minder schadelijk is dan een ander tabaksproduct.
+1. Producenten, importeurs en distributeurs van elektronische sigaretten en navulverpakkingen zetten een systeem op voor het vergaren van informatie over alle vermoedelijke schadelijke effecten van deze producten op de menselijke gezondheid. De producenten, importeurs en distributeurs van deze producten houden dit systeem bij.
+2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het eerste lid.
