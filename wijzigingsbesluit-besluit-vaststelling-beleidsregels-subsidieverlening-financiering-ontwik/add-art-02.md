@@ -1,0 +1,2 @@
+# Artikel II
+Tot en met 31 december 2016 kunnen in het kader van het Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 3 juni 2015, nr. MINBUZA-2015.284090, tot vaststelling van beleidsregels voor subsidieverlening met het oog op de financiering van ontwikkelingsrelevante infrastructuurprojecten in ontwikkelingslanden (DRIVE) aanvragen worden ingediend met betrekking tot Albanië, Bosnië-Herzegovina, Macedonië, de Maldiven en Thailand.
