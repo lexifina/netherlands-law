@@ -1,4 +1,0 @@
-# Artikel 11a
-1. De gevoelige planten, van oorsprong uit de afgebakende gebieden in de Europese Unie, mogen alleen binnen de Europese Unie worden vervoerd indien zij voldoen aan de voorwaarden zoals gesteld in punt 1 van sectie 2 van bijlage I van uitvoeringsbesluit nr. 2012/138/EU.
-2. Gevoelige planten die niet zijn geteeld in afgebakende gebieden, maar in een afgebakend gebied zijn binnengebracht, mogen alleen binnen de Europese Unie worden vervoerd indien zij voldoen aan de voorwaarden zoals gesteld in punt 2 van sectie 2 van bijlage I van uitvoeringsbesluit nr. 2012/138/EU.
-3. De gevoelige planten, ingevoerd overeenkomstig artikel 12i van de Regeling invoer, uitvoer en verkeer van planten afkomstig uit derde landen waarvan bekend is dat het schadelijke organisme er voorkomt, mogen alleen binnen de Europese Unie worden vervoerd indien zij voldoen aan de voorwaarden van punt 3 van sectie 2 van bijlage I van uitvoeringsbesluit nr. 2012/138/EU.
