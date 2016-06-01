@@ -1,0 +1,3 @@
+# Artikel III
+1. De handpalmafdrukken die voor de inwerkingtreding van dit besluit zijn verwerkt, worden vernietigd overeenkomstig de termijnen die voor de inwerkingtreding van dit besluit golden.
+2. Indien tegen een verdachte na de inwerkingtreding van dit besluit een einduitspraak als bedoeld in de artikelen 351 en 352, tweede lid, van het Wetboek van Strafvordering in verband met een ander misdrijf is gedaan of een strafbeschikking in verband met een ander misdrijf is uitgevaardigd dan het misdrijf in het kader waarvan de handpalmafdrukken voor de inwerkingtreding van dit besluit zijn verwerkt, is artikel 4d, tweede lid, van het Besluit toepassing maatregelen in het belang van het onderzoek van overeenkomstige toepassing.
