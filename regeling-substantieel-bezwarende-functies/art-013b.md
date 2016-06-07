@@ -1,0 +1,7 @@
+# Artikel 13b
+1. De betrokkene aan wie op grond van artikel 94b, tweede lid, van het Algemeen Rijksambtenarenreglement in de periode van 1 oktober 2014 tot en met 30 juni 2015 ontslag is verleend, heeft recht op een compensatie.
+2. De compensatie wordt berekend door het aantal maanden dat de pensioengerechtigde leeftijd voor betrokkene ligt na de pensioengerechtigde leeftijd, bedoeld in artikel 7a van de Algemene Ouderdomswet, zoals dat luidde op 31 mei 2015, te vermenigvuldigen met 70% van het bedrag van het minimumloon, bedoeld in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag.
+3. Het aantal maanden, bedoeld in het tweede lid, bedraagt niet meer dan het aantal maanden dat de pensioengerechtigde leeftijd voor betrokkene later ligt dan de dag waarop het recht op uitkering eindigt.
+4. De betrokkene aan wie op grond van artikel 94b, vierde lid, van het Algemeen Rijksambtenarenreglement voor een gedeelte van de voor hem geldende arbeidsduur ontslag is verleend, heeft recht op compensatie naar rato van het gedeelte van de arbeidsduur waarvoor hem ontslag is verleend.
+5. Aan de betrokkene van wie de uitkering na 1 juni 2016 wordt beëindigd, wordt de compensatie uitbetaald bij de uitbetaling van de laatste uitkering.
+6. Aan de betrokkene van wie de uitkering voor 1 juni 2016 is beëindigd, wordt de compensatie op aanvraag verstrekt, indien de aanvraag voor 1 januari 2017 is ingediend.
