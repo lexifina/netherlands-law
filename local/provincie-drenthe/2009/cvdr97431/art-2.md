@@ -1,3 +1,0 @@
-# Artikel 2,. Toekenning en uitreiking
-1. De prijs wordt toegekend door gedeputeerde staten, op advies van de in artikel 3 bedoelde commissie.
-2. De uitreiking van de prijs geschiedt door of namens het college van gedeputeerde staten.

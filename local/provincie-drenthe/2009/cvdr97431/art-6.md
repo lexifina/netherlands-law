@@ -1,3 +1,0 @@
-# Artikel 6,. Wijze van uitreiking
-1. Het college van gedeputeerde staten bepaalt de wijze waarop de prijs wordt uitgereikt.
-2. De commissie kan het college in deze gevraagd of ongevraagd adviseren.
