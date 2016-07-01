@@ -1,0 +1,2 @@
+# Artikel 208ha
+Op huurovereenkomsten die zijn gesloten voor de inwerkingtreding van de artikelen 271, 274, 274a tot en met 274f, 275 en 277 van Boek 7, zoals deze door de Wet doorstroming huurmarkt 2015 zijn komen te luiden, blijven de bepalingen van titel 4, afdeling 5, onderafdeling 4 van boek 7 van het Burgerlijk Wetboek van toepassing zoals die luidden op de dag voor inwerkingtreding van de genoemde artikelen.
