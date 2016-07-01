@@ -1,0 +1,6 @@
+# Artikel 274e
+1. Onder eigen gebruik in de zin van artikel 274 lid 1 onder c wordt mede begrepen het verstrekken van woonruimte aan een promovendus, indien aan de in de volgende leden vermelde voorwaarden is voldaan.
+2. Onder promovendus wordt in dit artikel verstaan degene die zich voorbereidt op een promotie als bedoeld in artikel 7.18 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
+3. De woonruimte moet krachtens de huurovereenkomst bestemd zijn voor promovendi.
+4. De huurder, tegen wie de in artikel 274 lid 1 bedoelde vordering is ingesteld, moet hebben nagelaten te voldoen aan een schriftelijk verzoek van de verhuurder, dat deze jaarlijks kan doen, om binnen drie maanden een verklaring van de betreffende onderwijsinstelling waaruit de voorbereiding op een promotie als bedoeld in artikel 7.18 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek blijkt, over te leggen.
+5. In de huurovereenkomst met de huurder tegen wie de in artikel 274 lid 1 bedoelde vordering is ingesteld, moet zijn bepaald dat die woonruimte na beëindiging van de huurovereenkomst opnieuw aan een promovendus zal worden verhuurd. Voor de toepassing van de eerste volzin worden met een promovendus gelijkgesteld een jongere als bedoeld in artikel 274c lid 2 en een student als bedoeld in artikel 274d lid 2.
