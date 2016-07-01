@@ -1,0 +1,3 @@
+# Artikel 2a.4
+1. Een aanbestedende dienst of speciale-sectorbedrijf plaatst een concessieopdracht die betrekking heeft op een combinatie van werken of diensten waarop deel 2a van deze wet van toepassing is, overeenkomstig de bepalingen die gelden voor het hoofdvoorwerp van de desbetreffende opdracht.
+2. In het geval van een gemengde concessieopdracht als bedoeld in het eerste lid, die ten dele betrekking heeft op sociale en andere specifieke diensten, genoemd in bijlage IV bij richtlijn 2014/23/EU en ten dele op andere diensten, wordt het hoofdvoorwerp bepaald door de hoogst geraamde waarde van de desbetreffende diensten.

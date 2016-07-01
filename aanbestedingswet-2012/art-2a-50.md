@@ -1,0 +1,11 @@
+# Artikel 2a.50
+1. Aanbestedende diensten en speciale-sectorbedrijven gunnen een concessieopdracht op basis van objectieve criteria en bewerkstelligen dat de inschrijvingen onder voorwaarden van daadwerkelijke mededinging worden beoordeeld waardoor een algeheel economisch voordeel voor de aanbestedende dienst of het speciale-sectorbedrijf kan worden vastgesteld.
+2. Aanbestedende diensten en speciale-sectorbedrijven stellen gunningscriteria vast die verband houden met het voorwerp van de opdracht.
+3. De gunningscriteria kunnen onder meer sociale, innovatiegerelateerde of milieucriteria omvatten.
+4. De gunningscriteria gaan vergezeld van eisen die het mogelijk maken de door de inschrijvers verstrekte informatie daadwerkelijk te controleren.
+5. De aanbestedende dienst of het speciale-sectorbedrijf somt de gunningscriteria op in afnemende volgorde van belangrijkheid.
+6. De aanbestedende dienst of het speciale-sectorbedrijf gaat na of de inschrijvingen daadwerkelijk voldoen aan de gunningscriteria.
+7. In afwijking van het vijfde lid kan de aanbestedende dienst of het speciale-sectorbedrijf, indien hij of zij een offerte ontvangt waarin een innovatieve oplossing met een uitzonderlijk hoog functioneel prestatieniveau wordt voorgesteld dat door een zorgvuldig handelende aanbestedende dienst of speciale-sectorbedrijf niet kon worden voorzien, bij wijze van uitzondering de volgorde van de gunningscriteria wijzigen, zodat rekening kan worden gehouden met de nieuwe mogelijkheden die door de innovatieve oplossing worden geboden.
+8. In het in het zevende lid bedoelde geval stelt de aanbestedende dienst of het speciale-sectorbedrijf alle inschrijvers op de hoogte van de wijziging van de volgorde van de gunningscriteria en doet een nieuwe oproep tot het indienen van inschrijvingen, met inachtneming van de in artikel 2a.37 bedoelde termijnen.
+9. Indien de gunningscriteria zijn bekendgemaakt op het tijdstip van de bekendmaking van de concessieaankondiging, maakt de aanbestedende dienst of het speciale-sectorbedrijf bij toepassing van het achtste lid, een nieuwe concessieaankondiging bekend met inachtneming van de in artikel 2a.36, vermelde termijn.
+10. Wijziging van de volgorde van de gunningscriteria mag niet leiden tot discriminatie.

@@ -1,0 +1,4 @@
+# Artikel 2a.52
+1. De aanbestedende dienst die of het speciale-sectorbedrijf dat een concessieopdracht heeft gegund maakt de aankondiging van de gegunde concessieopdracht bekend met behulp van het elektronische systeem voor aanbestedingen binnen 48 dagen na de gunning van die concessieopdracht.
+2. De aanbestedende dienst of het speciale-sectorbedrijf gebruikt voor de mededeling van het resultaat van de procedure het daartoe door middel van het elektronische systeem voor aanbestedingen beschikbaar gestelde formulier.
+3. Een aanbestedende dienst of speciale-sectorbedrijf kan de resultaten, bedoeld in het eerste lid, die gegunde concessieopdrachten voor sociale en andere specifieke diensten als bedoeld in bijlage IV bij richtlijn 2014/23/EU betreffen, per kwartaal bundelen. Indien de aanbestedende dienst of het speciale-sectorbedrijf daarvoor kiest, zendt hij de gebundelde resultaten binnen 48 dagen na het einde van elk kwartaal toe.

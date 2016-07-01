@@ -1,0 +1,3 @@
+# Artikel 2a.10
+1. De waarde van een concessieopdracht wordt geraamd naar de waarde op het tijdstip van verzending van de aankondiging van die concessieopdracht of, indien een aankondiging niet is vereist, naar de waarde op het tijdstip waarop de procedure voor de gunning door de aanbestedende dienst of het speciale-sectorbedrijf wordt ingeleid.
+2. De aanbestedende dienst of het speciale-sectorbedrijf baseert de berekening van de geraamde waarde van een concessieopdracht op de tijdens de looptijd van de overeenkomst te behalen omzet van de concessiehouder, exclusief omzetbelasting, als tegenprestatie voor de werken of diensten die het voorwerp uitmaken van de opdracht met inbegrip van de bijkomende leveringen die in het kader van deze werken en diensten worden verricht.

@@ -1,0 +1,3 @@
+# Artikel 2a.35
+1. Indien het verzoek tot deelneming of de inschrijving slechts na een bezichtiging ter plaatse, of na inzage ter plaatse van de documenten die ter ondersteuning dienen van de stukken voor de gunning van de concessieopdracht kan worden gedaan, verlengt de aanbestedende dienst of het speciale-sectorbedrijf de termijn voor het indienen van de verzoeken tot deelneming of de inschrijvingen zodanig dat alle betrokken ondernemers van alle nodige informatie voor de opstelling van de verzoeken tot deelneming of inschrijvingen kennis kunnen nemen.
+2. In de in het eerste lid bedoelde gevallen zijn de termijnen in elk geval langer dan in de artikelen 2a.36 en 2a.37 genoemde termijnen.

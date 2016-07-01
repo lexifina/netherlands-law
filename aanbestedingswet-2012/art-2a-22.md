@@ -1,0 +1,4 @@
+# Artikel 2a.22
+Onverminderd het bepaalde in artikel 2a.25 en mits de gemeenschappelijke onderneming is opgericht om de betrokken activiteit gedurende een periode van ten minste drie jaar uit te oefenen en het instrument tot oprichting van die gemeenschappelijke onderneming bepaalt dat de speciale-sectorbedrijven waaruit zij bestaat, daar deel van uitmaken voor ten minste dezelfde termijn, is het bepaalde bij of krachtens deel 2a van deze wet niet van toepassing op het plaatsen van concessieopdrachten die:
+a. door een gemeenschappelijke onderneming, uitsluitend bestaande uit speciale-sectorbedrijven voor de uitoefening van de in bijlage II van richtlijn 2014/23 EU bedoelde activiteiten, zijn gegund aan een van deze speciale-sectorbedrijven;
+b. door een speciale-sectorbedrijf zijn gegund aan een gemeenschappelijke onderneming waarvan zij zelf deel uitmaakt.

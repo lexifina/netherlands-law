@@ -9,25 +9,28 @@
 ### Hoofdstuk 1.3. Administratieve voorschriften bij aanbestedingen
 ### Hoofdstuk 1.4. Voorschriften voor het aanbesteden van werken door aanbestedende diensten
 ### Hoofdstuk 1.5. Voorwaarden in verband met in het kader van de Wereldhandelsorganisatie gesloten overeenkomsten
-## Deel 2. Overheidsopdrachten, prijsvragen voor overheidsopdrachten en concessieovereenkomsten voor openbare werken
+## Deel 2. Overheidsopdrachten en prijsvragen voor overheidsopdrachten
 ### Hoofdstuk 2.1. Reikwijdte
 #### Afdeling 2.1.1. Toepassingsbereik
 ##### § 2.1.1.1. Toepassingsbereik overheidsopdrachten
-##### § 2.1.1.2. Afbakening overheidsopdrachten en speciale sectoropdrachten
+##### § 2.1.1.1a. Aankoopcentrales en gezamenlijke aanbestedingen
+##### § 2.1.1.2. Afbakening samengestelde opdrachten
 #### Afdeling 2.1.2. Raming van de waarde
 ##### § 2.1.2.1. Algemene bepalingen
 ##### § 2.1.2.2. De raming van overheidsopdrachten
-##### § 2.1.2.3. De raming van concessieovereenkomsten voor openbare werken, dynamisch aankoopsystemen en prijsvragen
-#### Afdeling 2.1.3. Uitgezonderde overheidsopdrachten, concessieovereenkomsten voor openbare werken en prijsvragen
+##### § 2.1.2.3. De raming van dynamische aankoopsystemen, innovatiepartnerschappen en prijsvragen
+#### Afdeling 2.1.3. Uitgezonderde overheidsopdrachten en prijsvragen
 ### Hoofdstuk 2.2. Procedures voor het plaatsen van opdrachten voor aanbestedende diensten
-#### Afdeling 2.2.1. Openbare en niet-openbare procedure
-#### Afdeling 2.2.2. Uitzonderingen op de toepassing van de openbare en de niet-openbare procedure
-##### § 2.2.2.1. Procedure van de concurrentiegerichte dialoog
-##### § 2.2.2.2. Onderhandelingsprocedure met aankondiging
-##### § 2.2.2.3. Onderhandelingsprocedure zonder aankondiging
-##### § 2.2.2.4. Bijzondere voorschriften betreffende het plaatsen van overheidsopdrachten voor B-diensten
+#### Afdeling 2.2.1. Algemene procedures
+##### § 2.2.1.1. Algemeen
+##### § 2.2.1.2. Openbare procedure
+##### § 2.2.1.3. Niet-openbare procedure
+##### § 2.2.1.4. Procedure van de concurrentiegerichte dialoog
+##### § 2.2.1.5. Mededingingsprocedure met onderhandeling
+##### § 2.2.1.6. Procedure van het innovatiepartnerschap
+##### § 2.2.1.7. Onderhandelingsprocedure zonder aankondiging
+##### § 2.2.1.8. Bijzondere voorschriften betreffende het plaatsen van overheidsopdrachten voor sociale en andere specifieke diensten
 #### Afdeling 2.2.3. Bijzondere procedures
-##### § 2.2.3.1. Procedure voor een concessieovereenkomst voor openbare werken
 ##### § 2.2.3.2. Procedure van een prijsvraag
 ##### § 2.2.3.3. Procedure voor het sluiten van een raamovereenkomst
 ##### § 2.2.3.4. Procedure voor een dynamisch aankoopsysteem
@@ -58,33 +61,75 @@
 #### Afdeling 2.3.8. Gunningsfase
 ##### § 2.3.8.1. Uitnodiging tot inschrijving
 ##### § 2.3.8.2. Inschrijving
-##### § 2.3.8.3. Dialoog
+##### § 2.3.8.2a. Elektronische catalogus
+##### § 2.3.8.3. Concurrentiegerichte dialoog
 ##### § 2.3.8.4. Gunningscriteria
 ##### § 2.3.8.5. Abnormaal lage inschrijvingen
 ##### § 2.3.8.6. Elektronische veiling
-##### § 2.3.8.7. Onderhandelingen
+##### § 2.3.8.7. Mededingingsprocedure met onderhandeling
+##### § 2.3.8.7a. Innovatiepartnerschap
 ##### § 2.3.8.8. Gunningsbeslissing
 ##### § 2.3.8.9. Verslaglegging en bekendmaking
+##### § 2.3.8.10. Bewaarplicht gedurende de looptijd van de overheidsopdracht
 ### Hoofdstuk 2.4. Voorschriften voor de bijzondere procedures
 #### Afdeling 2.4.1. Bijzondere voorschriften bij het plaatsen van een overheidsopdracht via een raamovereenkomst
 #### Afdeling 2.4.2. Bijzondere voorschriften voor het plaatsen van een overheidsopdracht via een dynamisch aankoopsysteem
-#### Afdeling 2.4.3. Bijzondere voorschriften betreffende de bouw van een complex sociale woningen
-#### Afdeling 2.4.4. Bijzondere voorschriften voor concessieovereenkomsten voor openbare werken
 #### Afdeling 2.4.5. Voorschriften betreffende de procedure van een prijsvraag
+### Hoofdstuk 2.5. Wijziging van overheidsopdrachten
+## Deel 2a. Concessieopdrachten
+### Hoofdstuk 2a.1. Reikwijdte
+#### Afdeling 2a.1.1. Toepassingsgebied
+#### Afdeling 2a.1.2. Toepassingsbereik
+##### § 2a.1.2.1. Toepassingsbereik concessieopdrachten
+##### § 2a.1.2.2. Afbakening samengestelde opdrachten
+#### Afdeling 2a.1.3. Raming van de waarde
+##### § 2a.1.3.1. Algemene bepalingen
+##### § 2a.1.3.2. De raming van concessieopdrachten
+#### Afdeling 2a.1.4. Uitgezonderde concessieopdrachten
+### Hoofdstuk 2a.2. Procedures voor het plaatsen van concessieopdrachten
+#### Afdeling 2a.2.1. Algemeen
+#### Afdeling 2a.2.2. Sociale en andere specifieke diensten
+### Hoofdstuk 2a.3. Regels voor concessieopdrachten inzake aankondiging, uitsluiting, selectie en gunning
+#### Afdeling 2a.3.1. Algemeen
+#### Afdeling 2a.3.2. Aankondigingen
+##### § 2a.3.2.1. Aankondiging
+##### § 2a.3.2.2. Termijnen
+#### Afdeling 2a.3.3. Bestek
+##### § 2a.3.3.1. Technische specificaties
+##### § 2a.3.3.2. Onderaanneming, bijzondere voorwaarden, voorbehouden opdrachten
+#### Afdeling 2a.3.4. Eigen verklaring
+#### Afdeling 2a.3.5. Uitsluiting
+### Hoofdstuk 2a.4. Geschiktheidseisen en selectiecriteria
+#### Afdeling 2a.4.1. Geschiktheidseisen
+#### Afdeling 2a.4.2. Mededeling van uitsluiting en afwijzing
+#### Afdeling 2a.4.3. Gunningsfase
+##### § 2a.4.3.1. Inschrijving
+##### § 2a.4.3.2. Gunningscriteria, abnormaal lage inschrijvingen en elektronische veiling
+##### § 2a.4.3.4. Gunningsbeslissing
+##### § 2a.4.3.5. Verslaglegging en bekendmaking
+### Hoofdstuk 2a.5. Wijziging van concessieopdrachten
 ## Deel 3. Speciale-sectoropdrachten en prijsvragen voor speciale-sectoropdrachten
 ### Hoofdstuk 3.1. Reikwijdte
 #### Afdeling 3.1.1. Toepassingsgebied
 #### Afdeling 3.1.2. Toepassingsbereik
+##### § 3.1.2.1. Toepassingsbereik speciale-sectoropdrachten
+##### § 3.1.2.2. Aankoopcentrales en gezamenlijke aanbestedingen
+##### § 3.1.2.3. Afbakening samenstelling speciale-sectoropdrachten
 #### Afdeling 3.1.3. Raming van de waarde
 ##### § 3.1.3.1. Algemene bepalingen
 ##### § 3.1.3.2. De raming van speciale-sectoropdrachten
-##### § 3.1.3.3. De raming van dynamisch aankoopsystemen en prijsvragen
+##### § 3.1.3.3. De raming van dynamische aankoopsystemen, innovatiepartnerschappen en prijsvragen
 #### Afdeling 3.1.4. Uitgezonderde speciale-sectoropdrachten en prijsvragen
 ### Hoofdstuk 3.2. Procedures voor het plaatsen van speciale-sectoropdrachten
-#### Afdeling 3.2.1. Openbare en niet-openbare procedure en onderhandelingsprocedure met aankondiging
-#### Afdeling 3.2.2. Uitzonderingen op de toepassing van de openbare en niet openbare procedure en de onderhandelingsprocedure met aankondiging
-##### § 3.2.2.1. Onderhandelingsprocedure zonder aankondiging
-##### § 3.2.2.2. Bijzondere voorschriften betreffende het plaatsen van speciale-sectoropdrachten voor B-diensten
+#### Afdeling 3.2.1. Algemene procedures
+##### § 3.2.1.1. Algemeen
+##### § 3.2.1.2. Openbare procedure
+##### § 3.2.1.3. Niet-openbare procedure
+##### § 3.2.1.4. Concurrentiegerichte dialoog
+##### § 3.2.1.5. Onderhandelingsprocedure met aankondiging
+##### § 3.2.1.6. Procedure van het innovatiepartnerschap
+##### § 3.2.1.7. Onderhandelingsprocedure zonder aankondiging
+##### § 3.2.1.8. Bijzondere voorschriften betreffende het plaatsen van speciale-sectoropdrachten voor sociale en andere specifieke diensten
 #### Afdeling 3.2.3. Bijzondere procedures
 ##### § 3.2.3.1. Procedure van een prijsvraag
 ##### § 3.2.3.2. Procedure voor het sluiten van een raamovereenkomst
@@ -99,16 +144,19 @@
 ##### § 3.3.3.1. Technische specificaties
 ##### § 3.3.3.2. Onderaanneming, bijzondere voorwaarden, voorbehouden opdracht en varianten
 #### Afdeling 3.3.4. Eigen verklaring
-#### Afdeling 3.3.5. Selectie
+#### Afdeling 3.3.5. Uitsluiting en selectie
 ### Hoofdstuk 3.4. Erkenningsregeling
 #### Afdeling 3.4.1. Deelname en toepassing
 #### Afdeling 3.4.2. Mededeling van uitsluiting en afwijzing
 #### Afdeling 3.4.3. Gunningsfase
 ##### § 3.4.3.1. Inschrijving
-##### § 3.4.3.2. Gunningcriteria, abnormaal lage inschrijving en elektronische veiling
+##### § 3.4.3.1a. Concurrentiegerichte dialoog en elektronische catalogus
+##### § 3.4.3.2. Gunningscriteria, abnormaal lage inschrijving, elektronische veiling en innovatiepartnerschap
 ##### § 3.4.3.3. Gunningsbeslissing
 ##### § 3.4.3.4. Verslaglegging en bekendmaking
+##### § 3.4.3.5. Bewaarplicht gedurende de looptijd van de speciale-sectoropdracht
 ### Hoofdstuk 3.5. Overige voorschriften voor de procedures met betrekking tot de raamovereenkomst, het dynamisch aankoopsysteem en de prijsvraag
+### Hoofdstuk 3.6. Wijziging van speciale-sectoropdrachten
 ## Deel 4. Overige bepalingen
 ### Hoofdstuk 4.1. Gedragsverklaring aanbesteden
 #### Afdeling 4.1.1. Algemene bepalingen

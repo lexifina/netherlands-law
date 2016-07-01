@@ -1,0 +1,15 @@
+# Artikel 2a.33
+1. De aanbestedende dienst die of het speciale-sectorbedrijf dat voornemens is een concessieopdracht te gunnen maakt hiertoe een aankondiging van de concessieopdracht bekend.
+2. De aanbestedende dienst die of het speciale-sectorbedrijf dat voornemens is een concessieopdracht voor sociale en andere specifieke diensten, bedoeld in bijlage IV van richtlijn 2014/23/EU, te plaatsen, maakt zijn of haar voornemen bekend door middel van de bekendmaking van een vooraankondiging.
+3. De bekendmaking van een aankondiging als bedoeld in het eerste lid en van een vooraankondiging als bedoeld in het tweede lid, geschiedt langs elektronische weg met gebruikmaking van het elektronische systeem voor aanbestedingen.
+4. De aanbestedende dienst of het speciale-sectorbedrijf gebruikt voor de bekendmaking van de concessieaankondiging of de concessievooraankondiging het daartoe door middel van het elektronische systeem voor aanbestedingen beschikbaar gestelde formulier.
+5. Het eerste lid is niet van toepassing indien het werk of de dienst alleen door een bepaalde ondernemer kan worden verricht omdat:
+a. de concessieopdracht als doel heeft het vervaardigen of verwerven van een uniek kunstwerk of een unieke artistieke prestatie,
+b. mededinging om technische redenen ontbreekt, of
+c. uitsluitende rechten, met inbegrip van intellectuele-eigendomsrechten, moeten worden beschermd.
+6. Het vijfde lid, onderdelen b en c, is uitsluitend van toepassing indien er geen redelijk alternatief of substituut bestaat en het ontbreken van mededinging niet het gevolg is van een kunstmatige beperking van de voorwaarden van de concessiegunning.
+7. In afwijking van het eerste lid behoeft de aanbestedende dienst of het speciale-sectorbedrijf niet een nieuwe aankondiging bekend te maken indien er als reactie op een eerdere aanbestedingsprocedure geen verzoeken tot deelneming, inschrijvingen, geschikte verzoeken tot deelneming of geschikte inschrijvingen zijn ingediend, mits de initiële voorwaarden van de concessieopdracht niet wezenlijk worden gewijzigd en aan de Europese Commissie een verslag wordt toegezonden indien zij daarom verzoekt.
+8. Voor de toepassing van het zevende lid wordt een inschrijving ongeschikt bevonden indien zij niet relevant is voor de concessieopdracht, omdat zij, zonder ingrijpende wijzigingen, klaarblijkelijk niet voorziet in de behoeften en eisen van de aanbestedende dienst of het speciale-sectorbedrijf, zoals omschreven in de aanbestedingsstukken.
+9. Voor de toepassing van het zevende lid wordt een verzoek tot deelneming ongeschikt bevonden indien:
+a. de betrokken gegadigde overeenkomstig de artikelen 2a.43, eerste en derde lid, 2a.44, eerste en tweede lid, en 2a.45, kan of moet worden uitgesloten, of niet voldoet aan de uit hoofde van artikel 2a.46, door de aanbestedende dienst of het speciale-sectorbedrijf bepaalde geschiktheidseisen en selectiecriteria;
+b. het verzoek tot deelneming een inschrijving bevat die ongeschikt is in de zin van het achtste lid.
