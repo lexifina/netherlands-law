@@ -1,0 +1,4 @@
+# Artikel 12a
+1. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties overlegt jaarlijks vóór de in artikel 12, vierde lid, genoemde datum met de Kamers der Staten-Generaal over de door de Kamers opgestelde ramingen van de uitgaven, de verplichtingen en de ontvangsten die als basis dienen voor de ontwerp-begroting van de Staten-Generaal.
+2. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties neemt de ramingen, zoals opgesteld door de Kamers, op in het voorstel van wet tot vaststelling van de begroting van de Staten-Generaal, tenzij een evident zwaarwegende reden zich hiertegen verzet.
+3. Indien Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties ramingen wegens evident zwaarwegende redenen niet of niet geheel opneemt, dan licht hij dit gemotiveerd toe in de memorie van toelichting bij het voorstel van wet.
