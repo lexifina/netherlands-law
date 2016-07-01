@@ -1,0 +1,2 @@
+# Artikel XIV
+[vervallen]
