@@ -1,0 +1,3 @@
+# Artikel 10a
+1. Het ingevolge artikel 8 bevoegde bestuursorgaan bevordert een gecoördineerde voorbereiding van de voor de ontgronding benodigde besluiten wanneer de aanvrager daarom verzoekt.
+2. Indien een plaats die is bestemd voor de winning van vaste stoffen door middel van ontgronding is vastgesteld in een inpassings- of bestemmingsplan als bedoeld in artikel 3.26 of 3.1 van de Wet ruimtelijke ordening of in een beheersverordening als bedoeld in artikel 3.38 van die wet, heeft de coördinatie betrekking op alle verder voor de ontgronding benodigde besluiten. In de andere gevallen heeft de coördinatie geen betrekking op de in artikel 3 bedoelde vergunning, tenzij de aanvrager daarom verzoekt.

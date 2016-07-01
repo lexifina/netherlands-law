@@ -1,0 +1,3 @@
+# Artikel 21g
+1. Indien Onze Minister in verband met de toepassing van deze wet onderzoek ter plaatse nodig oordeelt, is hij bevoegd de rechthebbenden ten aanzien van gronden of wateren waar dat onderzoek wordt ingesteld de verplichting op te leggen het verrichten van dat onderzoek, alsmede het aanbrengen, het aanwezig zijn, het onderhoud, het gebruik en het verwijderen van de voor dat onderzoek nodige middelen te gedogen, onverminderd het recht van deze rechthebbenden op schadevergoeding. Gelijke bevoegdheid als bedoeld in de vorige volzin komt toe aan gedeputeerde staten.
+2. Een beschikking tot oplegging van een gedoogplicht wordt tenminste twee weken voor de aanvang van het onderzoek bekendgemaakt aan de rechthebbenden.
