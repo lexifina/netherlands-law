@@ -10,5 +10,3 @@ b. het uitzonderen van vormen van zorg of overige diensten van het Zvw-pgb;
 c. het met een Zvw-pgb vergoeden van andere vormen van zorg of overige diensten die onmiddellijk samenhangen met verpleging en verzorging die niet gepaard gaat met verblijf in verband met geneeskundige zorg;
 d. de mate van vergoeding die de zorgverzekeraar de verzekerde ten minste moet of ten hoogste mag bieden.
 7. De zorgverzekeraar wijst de verzekerde bij de aanvraag op het recht op cliëntondersteuning, bedoeld in artikel 2.2.4, eerste lid, onder a, van de Wet maatschappelijke ondersteuning 2015.
-8. Bij ministeriële regeling kan een publiekrechtelijke rechtspersoon worden aangewezen die de verzekerde met een Zvw-pgb op diens verzoek ondersteunt bij het verkrijgen van de vergoeding van zijn zorgverzekeraar voor en zijn werkgeverstaken of opdrachtgeverschap in verband met de door verzekerde betrokken zorg of diensten.
-9. In de ministeriële regeling, bedoeld in het achtste lid, kunnen regels worden gesteld over de uitvoering van de ondersteuning en over de verstrekking van een jaarlijkse rijksbijdrage voor de uitvoering van de ondersteuning.
