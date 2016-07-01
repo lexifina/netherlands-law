@@ -1,0 +1,2 @@
+# Artikel XIV
+Op een overtreding waarvoor op grond van de wet zoals die luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze wet of van het betreffende onderdeel daarvan, een bestuurlijke boete kon worden opgelegd en die is begonnen voor het tijdstip waarop deze wet of het betreffende onderdeel daarvan in werking is getreden en is beëindigd na dat tijdstip, blijft het recht van toepassing zoals dat gold onmiddellijk voorafgaand aan dat tijdstip.
