@@ -5,6 +5,7 @@
 ### § 3.1. Frequentieplan, behoefte-onderbouwingsplan en frequentieregister
 ### § 3.2. Toewijzing van frequentieruimte voor publieke taken
 ### § 3.3. Vergunningen voor de publieke mediadienst
+### § 3.3a. Transitievergunning
 ### § 3.4. Gebruik van frequentieruimte zonder vergunning
 ### § 3.5. Overige vergunningen voor het gebruik van frequentieruimte
 ### § 3.6. Algemene bepalingen inzake vergunningen
