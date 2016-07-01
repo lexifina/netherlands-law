@@ -1,5 +1,5 @@
 # Artikel 87a
-1. Om vast te stellen of de bezitter bij de verkrijging van een cultuurgoed als bedoeld in artikel 86a lid 1 of in artikel 1 onder d van de Uitvoeringswet UNESCO-verdrag 1970 inzake onrechtmatige invoer, uitvoer of eigendomsoverdracht van cultuurgoederen de nodige zorgvuldigheid heeft betracht, wordt rekening gehouden met alle omstandigheden van de verwerving, in het bijzonder
+1. Om vast te stellen of de bezitter bij de verkrijging van een cultuurgoed als bedoeld in artikel 86a lid 1 of in artikel 6.1, onder c, van de Erfgoedwet de nodige zorgvuldigheid heeft betracht, wordt rekening gehouden met alle omstandigheden van de verwerving, in het bijzonder
 a. de documentatie over de herkomst van het goed;
 b. de volgens het recht van de verzoekende lidstaat dan wel het recht van de verdragsstaat waaruit het goed afkomstig is, vereiste vergunningen om het goed buiten het grondgebied van die lidstaat of die verdragsstaat te brengen;
 c. de hoedanigheid van de partijen;
