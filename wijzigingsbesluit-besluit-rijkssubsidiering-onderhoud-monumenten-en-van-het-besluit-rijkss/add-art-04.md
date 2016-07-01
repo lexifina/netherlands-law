@@ -1,3 +1,0 @@
-# ARTIKEL IV
-1. In afwijking van het ingevolge artikel I, onderdeel D, ingevoegde artikel 2b van het Besluit rijkssubsidiëring onderhoud monumenten verleent Onze minister bij de verdeling van de voor de verstrekking van subsidie als bedoeld in artikel 11 beschikbare bedragen voorrang aan de aanvragen met betrekking tot die kerkgebouwen waarvoor reeds eerder een dergelijke subsidie is aangevraagd, maar waarvoor om budgettaire redenen uitsluitend subsidie is verleend in de kosten van het bij die eerdere aanvraag gevoegde onderhoudsplan.
-2. Onze minister verdeelt de voor de verstrekking van subsidie als bedoeld in het eerste lid beschikbare bedragen in de volgorde van ontvangst van de in het eerste lid bedoelde eerdere aanvragen.
