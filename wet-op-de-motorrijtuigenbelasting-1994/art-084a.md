@@ -15,5 +15,5 @@ e. het bedrag aan belasting, bedoeld in het tweede lid, is betaald bij de aanvan
 a. indien deze wordt gedaan door degene die bij aanvang van het tijdvak het motorrijtuig houdt, voor het lopende tijdvak;
 b. indien deze wordt gedaan door een andere houder dan als bedoeld in onderdeel a, voor de tijdvakken die aanvangen na het lopende tijdvak dat is bepaald zonder toepassing van dit hoofdstuk.
 9. Bij constatering van het feit dat met betrekking tot een motorrijtuig waarvoor de belasting is betaald op de voet van dit artikel, niet wordt voldaan aan de bij of krachtens dit artikel gestelde voorwaarden, kan de belasting die zonder toepassing van dit artikel over het gehele kalenderjaar verschuldigd zou zijn geweest, worden nageheven met overeenkomstige toepassing van artikel 76. Artikel 67c van de Algemene wet inzake rijksbelastingen is van toepassing.
-10. Voor de toepassing van dit hoofdstuk blijven de artikelen 11, 12, 13, 15, derde lid, 16, 17, vierde lid, 18, 19, 20, 21, 27, 30, 33, tweede, derde en vierde lid, en 36 buiten toepassing.
+10. Voor de toepassing van dit hoofdstuk blijven de artikelen 11, 12, 13, 15, derde lid, 17, vierde lid, 18, 19, 20, 21, 27, 30, 33, tweede, derde en vierde lid, en 36 buiten toepassing.
 11. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit hoofdstuk.
