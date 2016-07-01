@@ -1,0 +1,8 @@
+# Artikel 25b
+1. Het verzoek om goedkeuring van de toevoeging van een kandidaat-gerechtsdeurwaarder, bedoeld in artikel 25, derde lid, wordt gedaan door de gerechtsdeurwaarder en de beoogd kandidaat-gerechtsdeurwaarder gezamenlijk en bevat:
+a. de naam, voornamen en datum van geboorte van de beoogd kandidaat-gerechtsdeurwaarder;
+b. de naam, voornamen en plaats van vestiging van de gerechtsdeurwaarder;
+c. indien de beoogd kandidaat-gerechtsdeurwaarder reeds eerder als kandidaat-gerechtsdeurwaarder werkzaam was: het tijdvak van deze werkzaamheden en de naam en de plaats van vestiging van de gerechtsdeurwaarder aan wie hij laatst was toegevoegd;
+d. een verklaring van het bestuur van de KBvG, waaruit blijkt of aan de beoogd kandidaat-gerechtsdeurwaarder, respectievelijk de gerechtsdeurwaarder aan wie wordt toegevoegd, dan wel eerder was toegevoegd, een maatregel als bedoeld in de artikelen 43 of 49 is opgelegd, en zo ja, welke.
+2. Een kandidaat-gerechtsdeurwaarder kan slechts als zodanig worden aangewezen indien hij in het bezit is van een verklaring omtrent het gedrag, afgegeven volgens de Wet justitiële en strafvorderlijke gegevens en die niet ouder is dan drie maanden, dan wel indien betrokkene niet de Nederlandse nationaliteit bezit, een met een verklaring omtrent het gedrag gelijk te stellen verklaring afgegeven door het daartoe bevoegde gezag in de staat van herkomst. Artikel 5, onderdeel d, is van overeenkomstige toepassing.
+3. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot het aantal kandidaat-gerechtsdeurwaarders dat gelijktijdig onder verantwoordelijkheid van één gerechtsdeurwaarder werkzaam kan zijn.

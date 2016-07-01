@@ -7,9 +7,9 @@
 ### Paragraaf 4. Administratie en boekhouding
 ### Paragraaf 5. Nevenwerkzaamheden
 ### Paragraaf 6. De declaratie
-## Hoofdstuk III. Waarnemend gerechtsdeurwaarders, kandidaat-gerechtsdeurwaarders en toegevoegd kandidaat-gerechtsdeurwaarders
+## Hoofdstuk III. Waarnemend gerechtsdeurwaarders, kandidaat-gerechtsdeurwaarders en toegevoegd gerechtsdeurwaarders
 ### Paragraaf 1. De waarnemend gerechtsdeurwaarder
-### Paragraaf 2. De kandidaat-gerechtsdeurwaarder en de toegevoegd kandidaat-gerechtsdeurwaarder
+### Paragraaf 2. De kandidaat-gerechtsdeurwaarder en de toegevoegd gerechtsdeurwaarder
 ## Hoofdstuk IV. Toezicht en tuchtrechtspraak
 ### Paragraaf 1. Toezicht
 ### Paragraaf 2. Tuchtrechtspraak
