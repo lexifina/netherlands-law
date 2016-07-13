@@ -1,2 +1,0 @@
-# Artikel Xa
-Aan de medewerker in de functie van teamleider Wet beëdigde tolken en vertalers wordt mandaat verleend tot het nemen van beslissingen op bezwaar tegen besluiten die zijn genomen door medewerkers van het Bureau beëdigde tolken en vertalers. Indien het besluit waartegen het bezwaar zich richt door de teamleider zelf is genomen, beslist het bestuur op het bezwaarschrift. Bij afwezigheid van de teamleider kan de beslissing op bezwaar worden genomen door de Teamleider Wet schuldsanering natuurlijke personen.
