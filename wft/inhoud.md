@@ -159,6 +159,8 @@
 ##### § 2.3.4b.1. Grensoverschrijdend beheren en aanbieden
 #### Afdeling 2.3.5. Aanbieden van rechten van deelneming in instellingen voor collectieve belegging in effecten
 ##### § 2.3.5.1. Bijkantoor en verrichten van diensten naar een andere lidstaat
+#### Afdeling 2.3.5a. Bemiddelen in hypothecair krediet
+##### § 2.3.5a.1. Bijkantoor en verrichten van diensten naar andere lidstaat
 #### Afdeling 2.3.6. Bemiddelen in verzekeringen
 ##### § 2.3.6.1. Bijkantoor en verrichten van diensten naar een andere lidstaat
 #### Afdeling 2.3.7. Herverzekeringsbemiddelen

@@ -21,6 +21,12 @@
 #### Afdeling 4. Jaarlijks kostenpercentage
 #### Afdeling 5. Kredietgevers en kredietbemiddelaars
 #### Afdeling 6. Slotbepalingen
+### Titel 2b. Consumentenkredietovereenkomsten betreffende voor bewoning bestemde onroerende zaken
+#### Afdeling 1. Algemene bepalingen
+#### Afdeling 2. Informatieverstrekking en handelingen voorafgaand aan het sluiten van de kredietovereenkomst
+#### Afdeling 3. Jaarlijks kostenpercentage
+#### Afdeling 4. Informatie en rechten betreffende kredietovereenkomsten
+#### Afdeling 5. Slotbepalingen
 ### Titel 2d. Overeenkomst van pandbelening
 ### Titel 3. Schenking
 ### Titel 4. Huur
