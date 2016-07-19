@@ -1,2 +1,0 @@
-# Artikel 18a. Inhoud verklaringen en goedkeuringen
-Met uitzondering van de verklaring van EG-typeonderzoek, de verklaring van EG-ontwerponderzoek, de EG-verklaring van overeenstemming en de goedkeuring van het kwaliteitssysteem als bedoeld in bijlage III bij de richtlijn, kunnen bij ministeriële regeling ten aanzien van de inhoud en geldigheidsduur van verklaringen en goedkeuringen nadere regels worden gesteld.
