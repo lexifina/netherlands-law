@@ -11,9 +11,8 @@ g. indien van toepassing de uitslag van de centrale eindtoets of andere eindtoet
 h. het schooladvies, bedoeld in artikel 42, tweede lid;
 i. het registratienummer van de school of, indien sprake is van een nevenvestiging, het registratienummer daarvan;
 j. bekostigingsindicatie; en
-k. tot een bij koninklijk besluit te bepalen tijdstip en indien van toepassing de begin- en de einddatum van de periode waarvoor er voor de leerling van een basisschool een ontwikkelingsperspectief als bedoeld in artikel 40a, is vastgesteld;
-l. [vervallen door verlettering;]
-m. indien van toepassing de aanduiding dat het betreft een leerling van een afdeling als bedoeld in artikel 85a.
+k. tot een bij koninklijk besluit te bepalen tijdstip en indien van toepassing de begin- en de einddatum van de periode waarvoor er voor de leerling van een basisschool een ontwikkelingsperspectief als bedoeld in artikel 40a, is vastgesteld; en
+l. indien van toepassing de begin- en einddatum van de periode waarvoor een leerling geplaatst is op een orthopedagogisch-didactisch centrum als bedoeld in artikel 18a, lid 10a, en het registratienummer van het orthopedagogisch-didactisch centrum.
 3. Bij ministeriële regeling kan een nadere specificatie worden gegeven van de gegevens, bedoeld in het tweede en zevende lid, en kan worden bepaald welke van de gegevens, bedoeld in het tweede en zevende lid, niet langer behoeven te worden verstrekt. Bij ministeriële regeling kunnen voorts regels worden gesteld omtrent de tijdstippen en de wijze van verstrekking van de gegevens, bedoeld in het tweede en zevende lid.
 4. Het bevoegd gezag kan het persoonsgebonden nummer van een leerling, al dan niet tezamen met een of meer van de gegevens, bedoeld in het tweede en zevende lid, gebruiken in het verkeer met Onze minister ten behoeve van de vaststelling van de bekostiging van de school.
 5. Het bevoegd gezag en het hoofd, bedoeld in artikel 1, onder d, van de Leerplichtwet 1969, gebruiken het persoonsgebonden nummer van een leerling in contacten met een gemeente in het kader van de Leerplichtwet 1969, tezamen met de gegevens die noodzakelijk zijn voor het toezicht op de naleving van die wet door de gemeente.
