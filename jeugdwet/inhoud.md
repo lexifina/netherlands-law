@@ -24,7 +24,7 @@
 #### § 7.1.5. Informatieverstrekking aan en rechten van de betrokkene
 ### § 7.2. Burgerservicenummer
 ### § 7.3. Toestemming, dossier en privacy
-### § 7.4. Gegevensverwerking ten behoeve van de beleidsinformatie en de toegang
+### § 7.4. Gegevensverwerking ten behoeve van de uitvoering van de wet en ten behoeve van beleidsinformatie
 ## Hoofdstuk 8. Financiën en verantwoording
 ### § 8.1. Algemeen
 ### § 8.2. Ouderbijdrage
