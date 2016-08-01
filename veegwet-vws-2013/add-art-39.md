@@ -1,0 +1,2 @@
+# Artikel XXXIX
+De Wet van 23 oktober 1957, houdende gedeeltelijke compensatie voor de ingevolge de Algemene Ouderdomswet geheven premie over een pensioen, toegekend krachtens de Wet buitengewoon pensioen 1940–1945 (Stb. 1947, H 313) en de Wet van 23 oktober 1957, houdende gedeeltelijke compensatie voor de ingevolge de Algemene Ouderdomswet geheven premie over een pensioen, toegekend krachtens de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers (Stb. 1947, H 420) worden ingetrokken.
