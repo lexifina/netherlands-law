@@ -1,0 +1,4 @@
+# ARTIKEL III. (SO)VSO-LOM-SCHOLEN: SPECIAAL VOORTGEZET ONDERWIJS
+1. Met ingang van 1 augustus 1998 worden scholen voor voortgezet speciaal onderwijs aan kinderen met leer- en opvoedingsmoeilijkheden, bedoeld in deel II van de Wet op het voortgezet onderwijs, aangeduid als scholen voor speciaal voortgezet onderwijs.
+2. Met ingang van 1 augustus 1998 worden afdelingen voor voortgezet speciaal onderwijs aan kinderen met leer- en opvoedingsmoeilijkheden, verbonden aan speciale scholen voor basisonderwijs als bedoeld in artikel XXXVII van de Wet van 2 april 1998 (Stb. 228), aangeduid als afdelingen voor speciaal voortgezet onderwijs.
+3. Op de in het eerste en tweede lid bedoelde scholen en afdelingen zijn ter zake van de toelating van leerlingen de voorwaarden voor toelating van de artikelen 10g en 27 van de Wet op het voortgezet onderwijs van overeenkomstige toepassing.
