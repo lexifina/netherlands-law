@@ -1,0 +1,4 @@
+# Artikel 20a
+1. Het algemeen bestuur stelt de begroting vast in het jaar voorafgaande aan dat waarvoor zij dient. De begroting wordt vastgesteld bij unanimiteit.
+2. Nadat deze is vastgesteld, zendt het algemeen bestuur, zo nodig, de begroting aan de raden van de gemeenten en de Minister, die ter zake bij gedeputeerde staten van de provincie hun zienswijze naar voren kunnen brengen.
+3. Het dagelijks bestuur zendt de begroting binnen twee weken na de vaststelling, doch in ieder geval vóór 1 augustus van het jaar voorafgaande aan dat waarvoor de begroting dient, aan gedeputeerde staten van de provincie.
