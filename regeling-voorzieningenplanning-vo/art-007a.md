@@ -1,0 +1,2 @@
+# Artikel 7a. Omzetting bijzondere school in een openbare school
+Het bevoegd gezag meldt voor 1 april van enig kalenderjaar schriftelijk aan de Minister het voornemen van de omzetting van een bijzondere school in een openbare school per 1 augustus van dat kalenderjaar. Bij de melding toont het bevoegd gezag aan dat het overleg heeft gevoerd met burgemeester en wethouders van de betreffende gemeente.
