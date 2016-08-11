@@ -383,13 +383,7 @@
 #### Afdeling 5.3.5. Meldingen door bestuurders en commissarissen betreffende zeggenschap en kapitaalbelang
 #### Afdeling 5.3.6. Registratie van meldingen
 #### Afdeling 5.3.7. Overige regels
-### Hoofdstuk 5.4. Regels ter voorkoming van marktmisbruik en voor het optreden op markten in financiële instrumenten
-#### Afdeling 5.4.1. Inleidende bepaling
-#### Afdeling 5.4.2. Regels ter voorkoming van marktmisbruik
-##### § 5.4.2.1. Verbodsbepalingen
-##### § 5.4.2.2. Openbaarmakings- en meldingsverplichtingen
-##### § 5.4.2.3. Aanvullende toezichtbevoegdheden
-#### Afdeling 5.4.3. Optreden op markten in financiële instrumenten
+### Hoofdstuk 5.4. Regels voor het optreden op markten in financiële instrumenten
 ### Hoofdstuk 5.5. Openbaar bod op effecten
 #### Afdeling 5.5.1. Regels omtrent verplichte biedingen
 #### Afdeling 5.5.2. Uitbrengen van een openbaar bod en de bevoegdheid tot goedkeuren van een biedingsbericht
