@@ -1,0 +1,4 @@
+# Artikel VI
+1. Op overtredingen van de bij of krachtens de Wet op het financieel toezicht gestelde regels, die plaatsvonden voor het tijdstip van inwerkingtreding van artikel I, onderdeel E, zijn de artikelen 1:81 tot en met 1:83 niet van toepassing. Op die overtredingen blijft artikel 1:81 van de Wet op het financieel toezicht van toepassing zoals dat artikel luidde voor dat tijdstip.
+2. Op besluiten tot het opleggen van een bestuurlijke sanctie wegens overtreding van bij of krachtens de Wet op het financieel toezicht gestelde regels, die zijn genomen voor het tijdstip van inwerkingtreding van artikel I, onderdeel J, blijven de artikelen 1:97 tot en met 1:101 van de Wet op het financieel toezicht zoals die artikelen voor dat tijdstip luidden van toepassing.
+3. Artikel 1:88 van de Wet op het financieel toezicht is niet van toepassing op overtredingen die plaatsvonden voor het tijdstip van inwerkingtreding van artikel I, onderdeel H.
