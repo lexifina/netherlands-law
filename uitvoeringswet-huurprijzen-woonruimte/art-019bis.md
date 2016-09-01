@@ -1,0 +1,4 @@
+# Artikel 19bis
+1. In geval van een verzoek als bedoeld in artikel 7:261a van het Burgerlijk Wetboek doet de huurcommissie uitspraak omtrent de redelijkheid van de betalingsverplichting van de huurder ter zake van de energieprestatievergoeding. De huurcommissie toetst daarbij aan de in de leden 2 en 3 bedoelde regels.
+2. De energieprestatievergoeding is gebaseerd op een door de verhuurder gegarandeerde minimale productie van duurzaam opgewekte finale energie op basis van een gegarandeerde maximale netto warmtevraag en bedraagt ten hoogste een bij of krachtens algemene maatregel van bestuur vastgesteld bedrag.
+3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gegeven met betrekking tot de gevallen waarin en de voorwaarden waaronder de energieprestatievergoeding kan worden overeengekomen.

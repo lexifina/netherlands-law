@@ -16,6 +16,7 @@
 ### § 7. De huurprijs en het voorschotbedrag aan kosten voor nutsvoorzieningen met een individuele meter en servicekosten indien tussen partijen slechts een prijs en niet een huurprijs is overeengekomen
 ### § 8. De betalingsverplichting met betrekking tot de kosten voor nutsvoorzieningen met een individuele meter en servicekosten
 ### § 9. Het voorschotbedrag van de kosten voor nutsvoorzieningen met een individuele meter
+### § 9a. De energieprestatievergoeding
 ### § 10. Geschillen die voortvloeien uit de Wet op het overleg huurders verhuurder
 ## Hoofdstuk IIIa. Bescherming van persoonsgegevens
 ## Hoofdstuk IV. Voorzittersuitspraken
