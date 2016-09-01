@@ -1,0 +1,2 @@
+# Artikel 63c. Uitvoering variabele uitkering
+De toezichthouder kan een pensioenuitvoerder die een variabele uitkering uitvoert de verplichting opleggen om binnen een door de toezichthouder te stellen termijn over te gaan tot verzekering bij een verzekeraar, overdracht aan een verzekeraar of onderbrenging bij een pensioenfonds indien dit naar het oordeel van de toezichthouder noodzakelijk is in verband met de actuariële en bedrijfstechnische risico's met betrekking tot deze variabele uitkering.
