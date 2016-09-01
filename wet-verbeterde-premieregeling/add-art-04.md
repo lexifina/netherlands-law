@@ -1,0 +1,2 @@
+# Artikel IV
+In afwijking van artikel I, onderdelen G en Ib, voor zover het betreft artikel 63b van de Pensioenwet en artikel II, onderdelen G en K, voor zover het betreft artikel 75b van de Wet verplichte beroepspensioenregeling, geldt de verplichting om de opgaven en indicaties, bedoeld in de artikelen 44a en 63b van de Pensioenwet en de artikelen 55a en 75b van de Wet verplichte beroepspensioenregeling, weer te geven op basis van een pessimistisch scenario, een verwacht scenario en een optimistisch scenario, niet tot een bij koninklijk besluit te bepalen tijdstip.
