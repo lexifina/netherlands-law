@@ -1,0 +1,2 @@
+# Artikel 2a
+Het verbod, bedoeld in artikel 2, geldt niet voor draagbare blustoestellen voor zover deze bestemd zijn voor plaatsing aan boord van schepen waarop richtlijn nr. 2014/90/EU van het Europese Parlement en de Raad van 23 juli 2014 inzake uitrusting van zeeschepen en tot intrekking van richtlijn 96/98/EG van de Raad (PbEU L 257) van toepassing is en zijn voorzien van een stuurwielmarkering als bedoeld in artikel 1 van de Wet scheepsuitrusting 2016.
