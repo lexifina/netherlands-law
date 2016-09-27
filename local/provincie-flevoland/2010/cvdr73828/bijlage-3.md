@@ -7,7 +7,7 @@ A02 Agrarische floragebieden | A02.01 Botanisch waardevol grasland A02.02 Botani
 Onderdeel B Onderdeel B.1. Agrarische beheertypen en bijbehorende agrarische beheerpakketten die zijn toegestaan in de gebieden zoals aangewezen in het plattelandsontwikkelingsprogramma 2007-2013 in het kader van maatregel 214 van het plattelandsontwikkelingsprogramma 2007-2013
 Agrarische beheertypen | Agrarische beheerpakketten
 A01.01 Weidevogelgebied
- | A01.01.01 Weidevogelgrasland met rustperiode A01.01.02 Weidevogelgrasland met voorweiden A01.01.03 Plas-dras en Greppel plas-dras A01.01.04 Legselbeheer op grasland A01.01.04a1 Legselbeheer op grasland met 35 broedparen per hectare A01.01.04a2 Legselbeheer op grasland met 50 broedparen per hectare A01.01.04a3 Legselbeheer op grasland met 75 broedparen per hectare A01.01.04a4 Legselbeheer op grasland met 100 broedparen per hectare A01.01.04b Legselbeheer op bouw- of grasland. A01.01.05 Kruidenrijk weidevogelgrasland A01.01.06 Extensief beweid weidevogelgrasland
+ | A01.01.01 Weidevogelgrasland met rustperiode A01.01.02 Weidevogelgrasland met voorweiden A01.01.03 Plas-dras A01.01.04 Legselbeheer op grasland A01.01.04a1 Legselbeheer op grasland met 35 broedparen per hectare A01.01.04a2 Legselbeheer op grasland met 50 broedparen per hectare A01.01.04a3 Legselbeheer op grasland met 75 broedparen per hectare A01.01.04a4 Legselbeheer op grasland met 100 broedparen per hectare A01.01.04b Legselbeheer op bouw- of grasland. A01.01.05 Kruidenrijk weidevogelgrasland A01.01.06 Extensief beweid weidevogelgrasland
 A01.02 Akkerfaunagebied
  | A01.02.01 Bouwland met broedende akkervogels A01.02.02 Bouwland met doortrekkende en overwinterende akkervogels A01.02.02a Bouwland met doortrekkende en overwinterende akkervogels op kleigrond; A01.02.02b Bouwland met doortrekkende en overwinterende akkervogels op zandgrond; A01.02.03 Bouwland voor hamsters
 A01.03 Ganzenfoerageergebied
@@ -17,6 +17,20 @@ A02.01 Botanisch waardevol grasland
 A02.02 Botanisch waardevol akkerland
  | A02.02.01 Akker met waardevolle flora A02.02.02 Chemie en kunstmestvrij land A02.02.03 Akkerflora randen
 Onderdeel B.2. Agrarische beheertypen en bijbehorende regionale agrarische beheerpakketten
+A01.01.03 Plas-dras
+Algemene beschrijving
+Plas-dras biedt een aantrekkelijke biotoop voor weidevogels om te rusten en te foerageren. Op plas-draspercelen kunnen soms honderden weidevogels worden aangetroffen. De aantrekkingskracht is daarmee erg groot en gehoopt wordt dat een deel van deze weidevogels zal besluiten in het gebied te blijven om te broeden. Daarnaast bieden plas-draspercelen ook foerageer- en rustmogelijkheden buiten het directe broedseizoen, bijvoorbeeld voor al uitgevlogen jonge vogels en doortrekkers. Het plas-draspakket bestaat uit een grotendeels onder water staand graslandperceel. De periode waarin het perceel onder water staat kan variëren van 2 maanden tot bijna een half jaar. In deze periode staat op het perceel steeds minimaal op 60% van de oppervlakte een waterlaag van minimaal 5 cm. Aan het eind van de plas-drasperiode zal het perceel weer droogvallen, waarna het perceel zich kan herstellen, of weer ingezaaid moet worden.
+Afbakening
+• De beheereenheid bestaat uit grasland.
+• Cumulatie met alle beheerpakketten uitgesloten, uitgezonderd A01.03.01
+Subsidieverplichtingen
+Het agrarisch beheerpakket kent een aantal beheereisen die moeten worden nageleefd in verband met Europese cofinanciering.
+Beheereisen
+• De beheereenheid is jaarlijks geïnundeerd. De inundatieperiode staat hieronder gedefinieerd.
+• Plas-dras: In de inundatieperiode staat op tenminste 60% van de beheereenheid het waterpeil ten minste 5 en ten hoogste 20 cm boven het maaiveld.
+Beheerpakketten
+Plas-dras:
+A01.01.03a De inundatieperiode loopt van 15 februari tot 15 april; A01.01.03b De inundatieperiode loopt van 15 februari tot 15 mei; A01.01.03c De inundatieperiode loopt van 15 februari tot 15 juni; A01.01.03d De inundatieperiode loopt van 15 februari tot 1 augustus.
 Agrarisch beheerpakket A01.01.04c.Ut: Legselbeheer met hoge dichtheid weidevogels
 Instapeisen:
 1. De beheereenheid is gelegen in een door Gedeputeerde Staten van Utrecht in het natuurbeheerplan aangewezen gebied.
@@ -46,6 +60,20 @@ A01.05 Bever foerageergebied |
  | A01.05.01 Foerageerrand bever
 A02.01 Botanisch waardevol grasland
 A02.02 Botanisch waardevol akkerland
+A01.02.01 Bouwland met broedende akkervogels
+Beheereisen
+• Tussen 1 mei en het moment van grondbewerking moet op de beheereenheid één van de volgende gewassen aanwezig zijn: grassen, granen (niet zijnde maïs of graanstoppel), kruiden of een mengsel van deze. Onder het moment van grondbewerking wordt verstaan de periode waarin de in het betreffende pakket beschreven handelingen uitgevoerd mogen worden.
+• Het gewas wordt ingezaaid, waarbij in het natuurbeheerplan bepaald wordt welke zaaimengsels en welke zaaidichtheden gebruikt mogen worden. Voor pakket A01.02.01b geldt dat het gewas ook door spontane ontwikkeling aanwezig mag zijn.
+• 20-70% van de beheereenheid dient jaarlijks ten minste twee maal te worden gemaaid tussen 1 maart en 15 september. Delen die opnieuw zijn ingezaaid hoeven in hetzelfde voorjaar niet te worden gemaaid. Het beheer wordt strooksgewijs uitgevoerd volgens onderstaande pakketten. Het toegestane maairegime wordt verder gedifferentieerd in het natuurbeheerplan.
+• Mechanische en chemische onkruidbestrijding zijn niet toegestaan, met uitzondering van pleksgewijze bestrijding van akkerdistel, ridderzuring, haagwinde, heermoes of kleefkruid.
+• De beheereenheid mag niet worden beweid of bemest.
+• In elk pakket mag de beheereenheid in de periode van 1 september tot 15 april geploegd worden
+• Daar waar ploegen is toegestaan, mag ook een andere diepe grondbewerking worden toegepast.
+A01.02.02 Bouwland met doortrekkende en overwinterende akkervogels
+Beheereisen
+• Op de beheereenheid moet tussen 1 mei en 15 maart een graanmengsel staan van tenminste 50% zomertarwe, aangevuld met rogge, haver of een zaadragend gewas niet zijnde graan of maïs. De beheereenheid mag niet worden geoogst.
+• De beheereenheid dient jaarlijks tussen 16 maart en 30 april te worden ingezaaid met een gangbare zaaidichtheid.
+• Mechanische en chemische onkruidbestrijding zijn niet toegestaan, met uitzondering van pleksgewijze bestrijding van akkerdistel, ridderzuring, haagwinde, heermoes, of kleefkruid.
 Beschrijving regionale agrarische beheerpakketten
 Agrarisch beheerpakket A01.03.02.Lb: Opvang overzomerende Grauwe ganzen Maasplassen. Instapeisen:
 1. De beheereenheid is een perceel grond, welk minimaal 0,5 hectare groot is en gelegen binnen de begrenzing van de aangegeven zoekgebieden in het beheerplan voor de overzomerende Grauwe gans in Limburg.

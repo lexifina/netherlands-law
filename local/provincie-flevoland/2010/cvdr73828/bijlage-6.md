@@ -92,6 +92,12 @@ L01.15 Natuurvriendelijke oever |
 L04 Recreatieve landschapselementen | 
 L04.01 Wandelpad over boerenland | 
  | L04.01.01 Wandelpad over boerenland
+L01.04 Bossingel en bosje
+Afbakening:
+• Een bossingel is een vrijliggend lijnvormig en aaneengesloten landschapselement met een opgaande begroeiing van inheemse bomen en struiken.
+• Een bossingel is minimaal 25 meter lang en maximaal 20 meter breed.
+• Een bosje is een vrijliggend vlakvormig en aaneengesloten landschapselement met een opgaande begroeiing van inheemse bomen en struiken.
+• Een bosje is minimaal 2,0 are en maximaal 1 hectare groot.
 Onderdeel B.2. Provinciale landschapsbeheertypen en bijbehorende regionale beheerpakketten landschap
 Landschapsbeheertype | Beheerpakket landschap
 L01 Groenblauwe beheerpakketten landschap | 
