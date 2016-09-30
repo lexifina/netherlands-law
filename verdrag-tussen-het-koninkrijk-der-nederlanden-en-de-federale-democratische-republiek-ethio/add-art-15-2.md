@@ -1,0 +1,3 @@
+# XV. Ad artikel 25
+1. De bepalingen van artikel 25 zijn dienovereenkomstig van toepassing op informatie die relevant is voor de tenuitvoerlegging van inkomstengerelateerde voorschriften krachtens de Nederlandse wetgeving door de Nederlandse belastingautoriteiten die belast zijn met de implementatie, toepassing of handhaving van deze inkomstengerelateerde voorschriften.
+2. Alle informatie die uit hoofde van het eerste lid juncto artikel 25 wordt ontvangen, wordt uitsluitend gebruikt ten behoeve van de vaststelling en heffing van de bijdragen en de vaststelling en toewijzing van de voordelen uit hoofde van de inkomstengerelateerde voorschriften bedoeld in het eerste lid.

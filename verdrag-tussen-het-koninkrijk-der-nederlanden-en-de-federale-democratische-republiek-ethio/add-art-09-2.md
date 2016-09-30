@@ -1,0 +1,3 @@
+# IX. Ad artikelen 8, 13, 15 en 21
+1. Voor de toepassing van de artikelen 8, 13, 15 en 21 wordt de plaats van de werkelijke leiding van de onderneming van Koninklijke Luchtvaartmaatschappij N.V. (KLM N.V.) geacht in Nederland te zijn gelegen, zolang Nederland de uitsluitende heffingsbevoegdheid heeft ter zake van de onderneming van KLM N.V. uit hoofde van het tussen Nederland en Frankrijk gesloten belastingverdrag.
+2. Het bepaalde in het eerste lid is eveneens van toepassing indien de luchtvervoeractiviteiten van de huidige KLM N.V. geheel of grotendeels zouden worden voortgezet door een andere persoon. Voor de toepassing van dit Verdrag wordt deze persoon aangemerkt als inwoner van Nederland.

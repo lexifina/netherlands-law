@@ -1,0 +1,2 @@
+# VII. Ad Article 7
+In respect of paragraphs 1 and 2 of Article 7, where an enterprise of a Contracting State sells goods or merchandise or carries on business in the other Contracting State through a permanent establishment situated therein, the profits of that permanent establishment shall not be determined on the basis of the total amount received by the enterprise, but shall be determined only on the basis of that portion of the income of the enterprise that is attributable to the actual activity of the permanent establishment in respect of such sales or business.

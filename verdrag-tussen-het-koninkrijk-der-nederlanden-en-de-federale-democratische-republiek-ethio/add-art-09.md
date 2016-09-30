@@ -1,0 +1,3 @@
+# IX. Ad Articles 8, 13, 15 and 21
+1. For the purposes of Articles 8, 13, 15 and 21, the place of effective management of the enterprise of Koninklijke Luchtvaartmaatschappij N.V. (KLM N.V.) shall be deemed to be situated in the Netherlands, as long as the Netherlands has an exclusive taxing right with respect to the enterprise of KLM N.V. under the tax convention concluded between the Netherlands and France.
+2. The provision of paragraph 1 shall also apply in any situation where the air transport activities of the existing KLM N.V. would be continued fully or substantially by another person. This person shall be considered to be a resident of the Netherlands for the purposes of this Convention.
