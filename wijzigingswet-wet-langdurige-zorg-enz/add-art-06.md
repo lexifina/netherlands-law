@@ -1,0 +1,2 @@
+# Artikel VI
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, waarbij de artikelen I, onderdelen A, C, E, G, H en I, en II, onderdelen A en C, kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip. In dat besluit wordt zo nodig toepassing gegeven aan artikel 12, eerste lid, van de Wet raadgevend referendum.
