@@ -45,7 +45,6 @@
 #### Paragraaf 2b. Financiële ondersteuning door Onze minister
 #### Paragraaf 3. Gebruik van persoonsgebonden nummer
 #### Paragraaf 4. Bijzondere bepalingen inschrijving
-#### Paragraaf 4a. Regels voor de selectie van studenten voor opleidingen met een toelatingsbeperking
 #### Paragraaf 5. Overige bepalingen
 ### Titel 4. Rechtsbescherming van studenten en extraneï
 #### Paragraaf 1. Toegankelijke faciliteit; klachten
