@@ -1,0 +1,2 @@
+# Artikel II
+Een tewerkstellingsvergunning of een gecombineerde vergunning als bedoeld in artikel 1 van de Wet arbeid vreemdelingen, verleend op basis van paragraaf 19a van de Regeling uitvoering Wet arbeid vreemdelingen 2014, zoals deze paragraaf luidde op 30 september 2016 geldt, met inachtneming van het bepaalde bij of krachtens de Wet arbeid vreemdelingen, gedurende maximaal een jaar na de datum van afgifte van de vergunning.
