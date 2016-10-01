@@ -1,0 +1,2 @@
+# Artikel XXXIII
+Uiterlijk zes maanden na de inwerkingtreding van deze wet worden de archiefbescheiden van het College bouw zorginstellingen, bedoeld in de Wet toelating zorginstellingen, zoals die wet luidde onmiddellijk voor het tijdstip van inwerkingtreding van deze wet, behoudens voor zover die, nadat is voldaan aan de artikelen 3 en 5 van de Archiefwet 1995, worden overgebracht naar de algemene rijksarchiefbewaarplaats, overgedragen aan Onze Minister van Volksgezondheid, Welzijn en Sport.
