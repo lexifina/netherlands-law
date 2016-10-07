@@ -1,0 +1,4 @@
+# Artikel 14a
+1. Indien de aanvraag tot inschrijving van een licentie als bedoeld in artikel 56, vierde lid, van de wet en de daarbij overlegde documenten niet in het Nederlands of het Engels zijn gesteld, kan het bureau een vertaling in het Nederlands of het Engels verlangen.
+2. Indien het bureau redelijke grond voor twijfel heeft over de juistheid van een aanvraag of daarbij overgelegd document, kan het ter zake bewijs of nader bewijs verlangen.
+3. Bij ministeriële rijksregeling worden nadere regels gesteld over een aanvraag tot inschrijving van een licentie als bedoeld in artikel 56, vierde lid, van de wet. Deze regels hebben in elk geval betrekking op naam en adres van de licentiegever en die van de licentienemer, het nummer van het octrooi en vermelding of de licentie een exclusieve of niet-exclusieve licentie betreft.

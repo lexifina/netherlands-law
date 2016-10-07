@@ -1,0 +1,2 @@
+# Artikel 14b
+Indien het bureau met betrekking tot een beschikking of een in kracht van gewijsde gegane rechterlijke uitspraak als bedoeld in artikel 57, eerste lid, onderscheidenlijk artikel 58, eerste lid, van de wet tot inschrijving van een licentie als bedoeld in de artikelen 57 en 58 redelijke grond voor twijfel heeft over de juistheid van de daarin opgenomen gegevens als bedoeld in artikel 24, kan het bureau ter zake bewijs of nader bewijs verlangen.

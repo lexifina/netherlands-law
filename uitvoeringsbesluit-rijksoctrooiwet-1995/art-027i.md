@@ -1,0 +1,9 @@
+# Artikel 27i
+1. Het bureau schrijft de aanvrager in in het register van octrooigemachtigden nadat de termijn, bedoeld in artikel 27f, vijfde lid, is verstreken zonder dat van de raad van toezicht een afwijzend oordeel is ontvangen, dan wel na ontvangst van:
+a. een instemmend oordeel van de raad van toezicht op het verzoek tot inschrijving,
+b. een met het verzoek tot inschrijving instemmende beslissing op bezwaar tegen een afwijzend oordeel van de raad van toezicht, of
+c. een beslissing van het gerechtshof waarbij het beroep tegen een afwijzend oordeel van de raad van toezicht gegrond wordt verklaard.
+2. Het bureau schrijft de aanvrager niet in in het register als de raad van toezicht binnen de termijn, bedoeld in artikel 27f, vijfde lid, of na ingesteld bezwaar een afwijzend oordeel op het verzoek tot inschrijving heeft gegeven dan wel, in het geval de aanvrager beroep tegen een afwijzende beslissing op bezwaar heeft ingesteld, als het gerechtshof het beroep tegen een afwijzend oordeel van de raad van toezicht ongegrond heeft verklaard.
+3. De inschrijving geschiedt nadat de aanvrager ten overstaan van de directeur van het bureau de volgende eed of belofte heeft afgelegd:
+«Ik zweer (Ik beloof) dat ik het beroep van octrooigemachtigde nauwgezet zal vervullen met inachtneming van de daarop betrekking hebbende wettelijke voorschriften, dat ik de mij in die hoedanigheid toevertrouwde belangen met ijver en eerlijkheid zal behartigen en dat ik geheimhouding zal bewaren omtrent alle aangelegenheden, die mij in mijn hoedanigheid van octrooigemachtigde ter kennis komen en waarvan ik het vertrouwelijke karakter ken of redelijkerwijs moet vermoeden. Zo waarlijk helpe mij God almachtig (Dat beloof ik).»
+4. Het bureau doet mededeling van de inschrijving aan degene die is ingeschreven en aan de secretaris van de orde.
