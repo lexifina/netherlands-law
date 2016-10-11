@@ -1,0 +1,2 @@
+# Artikel VI
+Onze Minister kan besluiten dat de Regeling doelmatigheid geluidmaatregelen Wet geluidhinder, zoals deze luidde onmiddellijk voor de inwerkingtreding van deze regeling, wordt toegepast op het vaststellen van een tracébesluit als bedoeld in artikel 10, tweede of derde lid, van de Tracéwet, waarvan het ontwerp ter inzage is gelegd vóór de eerste dag van de derde kalendermaand volgend op het tijdstip van inwerkingtreding van deze regeling, totdat dit tracébesluit onherroepelijk is geworden.

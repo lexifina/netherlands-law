@@ -1,0 +1,2 @@
+# Artikel VII
+Onze Minister kan besluiten dat de Regeling geluid milieubeheer of de Regeling doelmatigheid geluidmaatregelen Wet geluidhinder, zoals deze luidden onmiddellijk voor de inwerkingtreding van deze regeling, wordt toegepast op de vaststelling van een besluit of het doorlopen van een procedure op grond van hoofdstuk 11 van de Wet milieubeheer, de Wet geluidhinder of de Tracéwet ten behoeve van de projecten genoemd in bijlage II, totdat deze besluiten onherroepelijk zijn geworden, respectievelijk deze procedures zijn afgerond.

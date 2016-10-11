@@ -1,0 +1,4 @@
+# Artikel V
+De Regeling doelmatigheid geluidmaatregelen Wet geluidhinder, zoals deze luidde onmiddellijk voor de inwerkingtreding van deze regeling, blijft van toepassing op de onderstaande besluiten of handelingen, totdat deze onherroepelijk zijn geworden:
+a. het opstellen van een programma van maatregelen als bedoeld in artikel 89, eerste lid, van de Wet geluidhinder of artikel 4.18, eerste lid, van het Besluit geluidhinder waarvoor een subsidie voor de voorbereiding, begeleiding en toezicht als bedoeld in artikel 7, eerste lid, van de Subsidieregeling sanering verkeerslawaai is verleend vóór 31 december 2015;
+b. het vaststellen van de ten hoogste toelaatbare waarde van de geluidsbelasting en van maatregelen als bedoeld in artikel 90, tweede en vijfde lid, van de Wet geluidhinder of artikel 4.23, tweede en derde lid, van het Besluit geluidhinder met betrekking tot een in onderdeel a bedoeld programma van maatregelen.
