@@ -1,0 +1,4 @@
+# Artikel 2f
+De fabrikant die van mening is of redenen heeft om aan te nemen dat een door hem in de handel gebracht explosief niet in overeenstemming is met de eisen gesteld bij of krachtens deze wet:
+a. neemt onmiddellijk de corrigerende maatregelen die nodig zijn om het explosief in overeenstemming te brengen met deze eisen of zo nodig uit de handel te nemen of terug te roepen; en
+b. brengt, indien het explosief een risico vormt, de bevoegde autoriteiten van de lidstaten waar hij de explosieven op de markt heeft aangeboden hiervan onmiddellijk op de hoogte. Indien de fabrikant het explosief in Nederland op de markt heeft aangeboden, brengt hij Onze Minister hiervan onmiddellijk op de hoogte. Bij het op de hoogte brengen van Onze Minister beschrijft de fabrikant uitvoerig de non-conformiteit en alle genomen corrigerende maatregelen.

@@ -1,0 +1,2 @@
+# Artikel 2c
+De fabrikant zorgt ervoor dat hij beschikt over procedures om de conformiteit van zijn serieproductie met richtlijn 2014/28/EU blijvend te waarborgen. Er wordt in die procedures terdege rekening gehouden met veranderingen in het ontwerp of in de kenmerken van het explosief en met veranderingen in de geharmoniseerde normen of andere technische specificaties waarnaar in de EU-conformiteitsverklaring van het explosief wordt verwezen.

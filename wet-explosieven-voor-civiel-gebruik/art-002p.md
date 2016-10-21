@@ -1,0 +1,4 @@
+# Artikel 2p
+De importeur die van mening is of redenen heeft aan te nemen dat een door hem in de handel gebracht explosief niet in overeenstemming is met de eisen gesteld bij of krachtens deze wet:
+a. neemt onmiddellijk de corrigerende maatregelen die nodig zijn om het explosief in overeenstemming te brengen met deze eisen of zo nodig uit de handel te nemen of terug te roepen; en
+b. brengt, indien het explosief een risico vormt, de bevoegde autoriteiten van de lidstaten waar hij het explosief op de markt heeft aangeboden hiervan onmiddellijk op de hoogte. Indien de importeur het explosief in Nederland op de markt heeft aangeboden, brengt hij Onze Minister hiervan onmiddellijk op de hoogte. Bij het op de hoogte brengen van de bevoegde autoriteiten van de lidstaten waar hij het explosief op de markt heeft aangeboden of Onze Minister beschrijft de importeur uitvoerig de non-conformiteit en alle genomen corrigerende maatregelen.

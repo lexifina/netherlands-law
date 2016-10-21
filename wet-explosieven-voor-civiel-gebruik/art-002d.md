@@ -1,0 +1,5 @@
+# Artikel 2d
+1. De fabrikant zorgt ervoor dat op explosieven die hij in de handel heeft gebracht een unieke identificatie is aangebracht overeenkomstig de bij of krachtens deze wet gestelde eisen ten aanzien van de identificatie en traceerbaarheid van explosieven.
+2. Voor bijzondere explosieven die de fabrikant in de handel brengt:
+a. zorgt hij ervoor dat op de bijzondere explosieven een type-, partij- of serienummer, dan wel een ander identificatiemiddel is aangebracht of, wanneer dit vanwege de geringe omvang, vorm of het ontwerp van het explosief niet mogelijk is, dat de vereiste informatie op de verpakking of in een bij het explosief gevoegd document is vermeld; en
+b. vermeldt hij op de bijzondere explosieven of, wanneer dit niet mogelijk is, op de verpakking of in een bij de explosieven gevoegd document, zijn naam, geregistreerde handelsnaam of geregistreerd handelsmerk en het postadres waarop contact met hem kan worden opgenomen. Deze contactgegevens worden gesteld in de Nederlandse of Engelse taal.
