@@ -20,13 +20,12 @@ Postwet 2009, met uitzondering van hoofdstuk 3A en artikel 58
 Sanctiewet 1977: de artikelen 10ba tot en met 10d
 Spoorwegwet, met uitzondering van de artikelen 19, 21 en hoofdstuk 5, paragraaf 2, en artikel 71, tweede lid
 Tabaks- en rookwarenwet
-Telecommunicatiewet, met uitzondering van:
-a. artikel 3.4, eerste lid, onderdeel b, voor zover het betreft een aanwijzing
-b. de artikelen 3.10, 15.2, derde lid, 15.4, vierde lid en 18.9, eerste en tweede lid
-c. alsmede, voor zover het betreft een besluit van de Autoriteit Consument en Markt:
+Telecommunicatiewet, met inbegrip van de verordeningen genoemd in artikel 18.2a, met uitzondering van:
+a. de artikelen 3.5, 3.5a, 3.5b, 3.22, 15.2, derde lid, 15.4, vierde lid, en 18.9, eerste en tweede lid
+b. alsmede, voor zover het betreft een besluit van de Autoriteit Consument en Markt:
 1. hoofdstuk 6, tenzij beroep kon worden ingesteld voor de inwerkingtreding van de Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002
-2. de hoofdstukken 6A, 6B, en 12
-3. hoofdstuk 15, met uitzondering van de artikelen 15.2, 15.2a en 15.4
+2. de hoofdstukken 6A, 6B en 12
+3. hoofdstuk 15, met uitzondering van de artikelen 15.2, 15.2a en 15.4.
 Verordening (EU) nr. 806/2014 van het Europees parlement en de Raad van 15 juli 2014 tot vaststelling van eenvormige regels en een eenvormige procedure voor de afwikkeling van kredietinstellingen en bepaalde beleggingsondernemingen in het kader van een gemeenschappelijk afwikkelingsmechanisme en een gemeenschappelijk bankenafwikkelingsfonds en tot wijziging van Verordening (EU) nr. 1093/2010 van het Europees parlement en de Raad (PbEU 2014, L 225), met uitzondering van de artikelen 16, 18 en 21
 Warenwet
 Warmtewet: artikel 18
