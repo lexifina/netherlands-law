@@ -1,0 +1,2 @@
+# Article XXII
+Upon expiration of a period of five years after its entry into force, this Convention may be denounced by any Contracting Party by giving at least one year's notice, in a notification addressed to the Depositary. The denunciation shall take effect upon 1 January next following the expiration of the notice and shall involve the abandonment by the State concerned of all rights and benefits of membership in the Organization.

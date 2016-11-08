@@ -1,0 +1,3 @@
+# Artikel XX
+a. Dit Verdrag staat open voor toetreding door elke Staat die lid is van de Verenigde Naties. Het Verdrag treedt voor die Staat in werking op de datum waarop hij zijn akte van toetreding nederlegt bij de Depositaris, die de Secretaris-Generaal en alle Lidstaten daarvan in kennis stelt.
+b. Een Staat die geen lid is van de Verenigde Naties kan uitsluitend tot dit Verdrag toetreden na een verzoek aan de Depositaris en op voorwaarde dat zijn verzoek door twee derde van de Lidstaten wordt goedgekeurd. Het Verdrag treedt voor die Staat in werking op de datum waarop hij zijn akte van toetreding nederlegt bij de Depositaris, die de Secretaris-Generaal en alle Lidstaten daarvan in kennis stelt.

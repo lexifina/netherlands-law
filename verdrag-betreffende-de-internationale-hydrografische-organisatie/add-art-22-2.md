@@ -1,0 +1,2 @@
+# Artikel XXII
+Na het verstrijken van een tijdvak van vijf jaar te rekenen vanaf de datum van inwerkingtreding, kan dit Verdrag door elke Verdragsluitende Partij door middel van een kennisgeving aan de Depositaris worden opgezegd met inachtneming van een opzegtermijn van ten minste een jaar. De opzegging wordt van kracht op 1 januari na het verstrijken van de opzegtermijn en behelst dat de Staat afstand doet van alle rechten en voorrechten van het lidmaatschap van de Organisatie.

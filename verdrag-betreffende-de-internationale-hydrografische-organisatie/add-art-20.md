@@ -1,0 +1,3 @@
+# Article XX
+(a) This Convention shall be open for accession by any State that is a member of the United Nations. The Convention shall enter into force for such a State on the date on which it has deposited its instrument of accession with the Depositary, which shall inform the Secretary-General and all Member States.
+(b) A State that is not a member of the United Nations may only accede to this Convention by applying to the Depositary, and by having its application approved by two-thirds of the Member States. The Convention shall enter into force for such a State on the date on which it has deposited its instrument of accession with the Depositary, which shall inform the Secretary-General and all Member States.
