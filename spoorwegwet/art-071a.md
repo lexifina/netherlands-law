@@ -1,0 +1,4 @@
+# Artikel 71a
+1. Bij de werving, selectie en benoeming van de leden van de Autoriteit Consument en Markt draagt Onze Minister van Economische Zaken er zorg voor dat onder de leden passende beroepsbekwaamheid en relevante ervaring bij voorkeur op het gebied van spoorwegen of andere netwerkindustrieën zijn vertegenwoordigd.
+2. Een lid van de Autoriteit Consument en Markt neemt geen deel aan de behandeling van en de besluitvorming over aangelegenheden die een onderneming uit de spoorwegsector betreffen waarmee hij gedurende het jaar voorafgaand aan de start van een procedure een directe of indirecte band onderhield.
+3. Een lid van de Autoriteit Consument en Markt bekleedt gedurende een periode van ten minste een jaar na de datum waarop zijn benoeming bij die autoriteit is beëindigd, geen beroepsfunctie of beroepsverantwoordelijkheid bij een onderneming of instantie uit de spoorwegsector.
