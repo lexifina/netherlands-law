@@ -1,0 +1,7 @@
+# Artikel 2b
+1. Het College van Toezicht ziet erop toe dat de lidmaatschapsregels van een collectieve beheersorganisatie voldoen aan in het tweede tot en met het zesde lid bepaalde.
+2. Een collectieve beheersorganisatie aanvaardt rechthebbenden en organisaties die rechthebbenden vertegenwoordigen, waaronder andere collectieve beheersorganisaties en verenigingen van rechthebbenden, als leden, wanneer zij voldoen aan de door de collectieve beheersorganisatie gestelde vereisten voor lidmaatschap die gebaseerd zijn op non-discriminatoire, objectieve en transparante criteria. De lidmaatschapsvereisten worden opgenomen in de statuten of de lidmaatschapsreglementen van de collectieve beheersorganisatie.
+3. Een collectieve beheersorganisatie verschaft aan een rechthebbende duidelijke uitleg over de gronden waarop zij de beslissing heeft genomen om een aanvraag tot lidmaatschap van een rechthebbende te weigeren.
+4. De statuten van een collectieve beheersorganisatie regelen passende en doeltreffende mechanismen voor deelname van de leden aan het besluitvormingsproces van de collectieve beheersorganisatie. De vertegenwoordiging van de verschillende categorieën leden in het besluitvormingsproces is billijk en evenwichtig.
+5. Een collectieve beheersorganisatie stelt zijn leden in de gelegenheid op elektronische wijze met haar te communiceren.
+6. De collectieve beheersorganisatie houdt een ledenregister bij en actualiseert dat regelmatig.

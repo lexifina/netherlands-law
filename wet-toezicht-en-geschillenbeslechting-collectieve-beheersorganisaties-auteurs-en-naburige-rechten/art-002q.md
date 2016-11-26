@@ -1,0 +1,6 @@
+# Artikel 2q
+1. Het College van Toezicht ziet erop toe dat een collectieve beheersorganisatie uiterlijk acht maanden na afloop van een boekjaar een transparantieverslag van dat boekjaar opstelt en openbaar maakt op zijn internetpagina.
+2. De collectieve beheersorganisatie houdt het jaarlijkse transparantieverslag op zijn internetpagina algemeen beschikbaar voor het publiek voor een periode van ten minste vijf jaar.
+3. Het jaarlijkse transparantieverslag bevat een jaarrekening en jaarverslag, die worden opgesteld en openbaar gemaakt overeenkomstig Titel 9 van Boek van het Burgerlijk Wetboek, en eveneens de bij algemene maatregel van bestuur voorgeschreven informatie.
+4. Onderdeel van het jaarlijkse transparantieverslag is een speciaal verslag, betreffende het gebruik van de ingehouden bedragen ten behoeve van sociale, culturele, en educatieve diensten, waarin de bij algemene maatregel van bestuur voorgeschreven informatie is opgenomen.
+5. De in het jaarlijks transparantieverslag opgenomen boekhoudkundige informatie wordt gecontroleerd door één of meer accountants als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek. Het auditverslag, met inbegrip van alle voorbehouden, wordt volledig opgenomen in het jaarlijks transparantieverslag.
