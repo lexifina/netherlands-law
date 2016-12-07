@@ -1,3 +1,0 @@
-# Artikel III
-1. Voor zover er ter zake van de subsidieverstrekking op grond van de Regeling Stimuleringssubsidies 2 na het moment, bedoeld in artikel 42 van die regeling nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van, bezwaar- en beroepsprocedures, vindt deze plaats overeenkomstig de Regeling Stimuleringssubsidies 2 zoals die luidt onmiddellijk voorafgaand aan het moment, bedoeld in artikel 42 van die regeling.
-2. Bestaande aanspraken en verplichtingen bij, of op grond of in het kader van de Regeling Stimuleringssubsidies 2, zoals die luidt onmiddellijk voorafgaand aan het moment, bedoeld in artikel 42 van die regeling, blijven in stand.
