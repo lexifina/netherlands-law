@@ -9,7 +9,7 @@ d. een redelijke beslistermijn.
 4. De beslissing op het verzoek, bedoeld in lid 1 of lid 2, wordt gelijktijdig schriftelijk uitgebracht aan de werkgever en de werknemer onder vermelding van de datum waarop het volledige verzoek, bedoeld in lid 1 of lid 2, is ontvangen.
 5. De toestemming om een arbeidsovereenkomst voor onbepaalde tijd op te zeggen op grond van artikel 669, lid 3, onderdeel a, wordt slechts verleend, indien de werkgever:
 a. de arbeidsrelatie met personen die niet op grond van een arbeidsovereenkomst voor onbepaalde tijd op de arbeidsplaatsen die vervallen werkzaam zijn, heeft beëindigd;
-b. de arbeidsrelatie met personen die op grond van een arbeidsovereenkomst als bedoeld in artikel 628a op de arbeidsplaatsen die vervallen werkzaam zijn, heeft beëindigd;
+b. de arbeidsrelatie met personen die op grond van een arbeidsovereenkomst waarin de omvang van de arbeid niet is vastgelegd op de arbeidsplaatsen die vervallen werkzaam zijn, heeft beëindigd;
 c. de overeenkomsten met betrekking tot ingeleende personen die op de arbeidsplaatsen die vervallen werkzaam zijn, heeft beëindigd; en
 d. de arbeidsrelatie met personen die op basis van een arbeidsovereenkomst op de arbeidsplaatsen die vervallen werkzaam zijn en de in artikel 7, onderdeel a, van de Algemene Ouderdomswet bedoelde leeftijd hebben bereikt, heeft beëindigd.
 6. De toestemming voor opzegging is geldig gedurende vier weken na de dagtekening van de beslissing op het verzoek, bedoeld in lid 1 of lid 2. De werkgever zegt schriftelijk op onder vermelding van de reden voor de opzegging.

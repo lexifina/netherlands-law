@@ -1,9 +1,9 @@
 # Artikel 686a
-1. Over het bedrag van de vergoeding, bedoeld in de artikelen 672, lid 9, en 677, leden 2 en 4, is de wettelijke rente verschuldigd, te rekenen vanaf de dag waarop de arbeidsovereenkomst is geëindigd. Over het bedrag van de transitievergoeding, bedoeld in de artikelen 673, 673a en 673c, is de wettelijke rente verschuldigd, te rekenen vanaf een maand na de dag waarop de arbeidsovereenkomst is geëindigd.
+1. Over het bedrag van de vergoeding, bedoeld in de artikelen 672, lid 10, en 677, leden 2 en 4, is de wettelijke rente verschuldigd, te rekenen vanaf de dag waarop de arbeidsovereenkomst is geëindigd. Over het bedrag van de transitievergoeding, bedoeld in de artikelen 673, 673a en 673c, is de wettelijke rente verschuldigd, te rekenen vanaf een maand na de dag waarop de arbeidsovereenkomst is geëindigd.
 2. De gedingen die op het in, bij of krachtens deze afdeling bepaalde zijn gebaseerd, worden ingeleid met een verzoekschrift.
 3. In gedingen die op het in, bij of krachtens deze afdeling bepaalde zijn gebaseerd, kunnen daarmee verband houdende andere vorderingen worden ingediend met een verzoekschrift.
 4. De bevoegdheid om een verzoekschrift bij de kantonrechter in te dienen vervalt:
-a. twee maanden na de dag waarop de arbeidsovereenkomst is geëindigd, indien het een verzoek op grond van de artikelen 672, lid 9, 677, 681, lid 1, onderdelen a, b en c, en 682, leden 1, 2 en 3, betreft;
+a. twee maanden na de dag waarop de arbeidsovereenkomst is geëindigd, indien het een verzoek op grond van de artikelen 672, lid 10, 677, 681, lid 1, onderdelen a, b en c, en 682, leden 1, 2 en 3, betreft;
 b. drie maanden na de dag waarop de arbeidsovereenkomst is geëindigd, indien het een verzoek op grond van de artikelen 673, 673a, 673b, 673c en 673d betreft;
 c. twee maanden na de dag waarop de werknemer op de hoogte is of redelijkerwijs had kunnen zijn van de situatie, bedoeld in de artikelen 681, lid 1, onderdelen d en e, en 682, leden 4 en 5, maar ten laatste twee maanden na de dag waarop de termijn van 26 weken, bedoeld in die leden of onderdelen, is verstreken;
 d. twee maanden na de dag waarop de toestemming, bedoeld in artikel 671a, is geweigerd, indien het een verzoek op grond van artikel 671b, lid 1, onderdeel b, betreft;
