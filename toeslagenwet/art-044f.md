@@ -1,5 +1,5 @@
 # Artikel 44f
-1. In afwijking van artikel 8, derde lid, wordt voor de persoon, bedoeld in artikel 2, zesde lid, de toeslag zodanig vastgesteld dat deze gelijk is aan het verschil tussen
+1. In afwijking van artikel 8, derde lid, wordt voor de persoon, bedoeld in artikel 2, zevende lid, de toeslag zodanig vastgesteld dat deze gelijk is aan het verschil tussen
 a. van 1 juli 2016 tot en met 31 december 2016
 1°. indien hij 23 jaar of ouder is: € 48,30
 2°. indien hij 22 jaar is: € 38,32

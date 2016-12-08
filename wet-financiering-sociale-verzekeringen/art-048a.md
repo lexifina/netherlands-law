@@ -13,4 +13,4 @@ c. dat de korting niet langer wordt toegepast dan tot en met het aangiftetijdvak
 a. de schriftelijke arbeidsovereenkomst met of de schriftelijke publiekrechtelijke aanstelling van de werknemer waaruit blijkt dat wordt voldaan aan het eerste lid, onderdeel d;
 b. een verklaring van het Uitvoeringsinstituut werknemersverzekeringen of het college van burgemeester en wethouders dat de werknemer, bedoeld in het eerste lid, voorafgaande aan de datum van aanvang van de dienstbetrekking recht had op een uitkering als bedoeld in het eerste lid, onderdeel a.
 5. De werkgever bewaart de arbeidsovereenkomst of de publiekrechtelijke aanstelling en de verklaring, bedoeld in het vierde lid, bij de loonadministratie.
-6. Artikel 50a is van overeenkomstige toepassing.
+6. Artikel 50b is van overeenkomstige toepassing.
