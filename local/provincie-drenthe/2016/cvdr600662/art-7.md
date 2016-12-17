@@ -1,0 +1,3 @@
+# Artikel 7.. Berekeningsgrondslag
+1. De berekeningsgrondslag voor een gratificatie is de onbelaste bezoldiging, bedoeld in artikel A.1 van de CAP, die voor de ambtenaar op de datum van het ambtsjubileum geldt, met dien verstande dat het salaris wordt vermenigvuldigd met de gewogen gemiddelde aanstellingsomvang van de diensttijd in de tien jaar voorafgaand aan de datum van het ambtsjubileum, vermeerderd met de daarop betrekking hebbende belaste voorzieningen als bedoeld in artikel C.17, lid 1, sub a en b, van de CAP.
+2. In zoverre de bezoldiging niet in een vast bedrag per maand kan worden uitgedrukt, wordt gerekend met het bedrag dat de ambtenaar over de drie kalendermaanden voorafgaande aan zijn ambtsjubileum gemiddeld per maand heeft genoten.

@@ -1,0 +1,2 @@
+# Artikel 11.. Aanvraag gratificatie
+Het aanvragen van de in deze regeling bedoelde gratificatie geschiedt op de door de salarisadministratie voorgeschreven wijze.

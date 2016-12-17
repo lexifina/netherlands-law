@@ -1,0 +1,3 @@
+# Artikel 2.. Toekenning
+1. Aan de ambtenaar wordt bij een ambtsjubileum een gratificatie toegekend.
+2. Het bepaalde in het eerste lid geldt voor iedere functie waarin de ambtenaar als zodanig werkzaam is.
