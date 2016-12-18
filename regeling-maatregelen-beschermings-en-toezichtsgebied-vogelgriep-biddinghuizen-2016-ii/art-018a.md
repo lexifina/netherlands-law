@@ -1,0 +1,8 @@
+# Artikel 18a. Verbod jagen en doden van wild
+1. In afwijking van artikel 31 van de Flora- en faunawet is het verboden te jagen op eenden of te jagen in gebieden waar dit watervogels kan verstoren.
+2. Het is verboden in het wild levende dieren te vangen of te doden voor zover dit watervogels betreft of watervogels kan verstoren. Daartoe zijn alle bestaande aanwijzingen, toestemmingen, vrijstellingen en ontheffingen op grond van de artikelen 65, 67, 68, 72 en 75 van de Flora- en faunawet opgeschort.
+3. In afwijking van het eerste en tweede lid is het jagen, vangen en doden van dieren toegestaan indien dit geschiedt:
+a. ter bescherming van de veiligheid van het luchtverkeer;
+b. ter bestrijding van muskusratten;
+c. ter voorkoming van schade door konijnen op industrieterreinen; of
+d. in het kader van wetenschappelijk onderzoek.
