@@ -32,10 +32,8 @@
 ### § 8.1. Verplichtingen in verband met het uitzenden van programma's
 ### § 8.2. Systemen voor voorwaardelijke toegang, applicatieprogramma-interfaces, elektronische programmagidsen en toegang tot programma-aanbod
 ## Hoofdstuk 9. Universele dienstverlening
-## Hoofdstuk 10. Uitrusting
-### § 10.1. Europese bepalingen voor uitrusting
-#### § 10.1.1. Conformiteiteisen en wederzijdse erkenning van conformiteit
-#### § 10.1.2. Digitale televisie
+## Hoofdstuk 10. Uitrusting en radioapparaten
+### § 10.1. Europese bepalingen voor uitrusting en radioapparaten
 ### § 10.2. Bepalingen van nationale oorsprong
 ## Hoofdstuk 11. Bescherming van persoonsgegevens en de persoonlijke levenssfeer
 ### § 11.1. Algemene bepalingen
