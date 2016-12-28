@@ -1,2 +1,0 @@
-# Artikel 23a
-Bij ministeriële regeling worden regels gesteld om verstoringen te voorkomen in frequentiebanden die ingevolge het frequentieplan als bedoeld in artikel 3.1 van de wet zijn bestemd voor omroep.
