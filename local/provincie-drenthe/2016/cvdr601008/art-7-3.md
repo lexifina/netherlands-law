@@ -1,0 +1,2 @@
+# Artikel 7.3,. Intrekking Heffingverordening ontgrondingen Drenthe 2000
+De Heffingverordening ontgrondingen Drenthe 2000, zoals vastgesteld bij besluit van 31 mei 2000 en zoals nadien gewijzigd, wordt ingetrokken met ingang van de in artikel 8.2 genoemde datum van ingang van de heffing, met dien verstande dat zij van toepassing blijft op de belastbare feiten die zich voor die datum hebben voorgedaan.
