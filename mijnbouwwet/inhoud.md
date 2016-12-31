@@ -12,6 +12,11 @@
 ## Hoofdstuk 3a. Gebiedsverkleining
 ## Hoofdstuk 4. De zorg voor een goede uitvoering van activiteiten
 ### § 4.1. Algemene verplichtingen
+### § 4.1a. Verplichtingen bij de opsporing en winning van koolwaterstoffen
+#### § 4.1a.1.1. Rapport inzake grote gevaren voor een productie-installatie
+#### § 4.1a.1.2. Rapport inzake grote gevaren voor een niet-productie-installatie
+#### § 4.1a.1.3. Overige documenten
+#### § 4.1a.2. Kennisgevingen
 ### § 4.2. Financiële zekerheid
 ### § 4.3. Verdere regels
 ## Hoofdstuk 5. Financiële bepalingen
@@ -38,6 +43,7 @@
 ### § 8.1. Het Staatstoezicht op de mijnen
 ### § 8.2. Toezicht in bepaalde gevallen
 ### § 8.3. Handhaving
+### § 8.4. Retributie
 ## Hoofdstuk 9. Waarborgfonds mijnbouwschade
 ### § 9.1. Algemene bepalingen
 ### § 9.2. Schadevergoeding bij insolventie
