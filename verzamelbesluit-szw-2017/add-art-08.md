@@ -1,0 +1,2 @@
+# Artikel VIII. Inwerkingtreding
+Dit besluit treedt in werking met ingang van 1 januari 2017, met dien verstande dat artikel II terug werkt tot en met 1 juli 2016, artikel III terug werkt tot en met 1 april 2015, artikel IV, inwerking treedt op de dag na de datum van uitgifte in het Staatsblad waarin dit besluit wordt geplaatst, met dien verstande dat onderdeel A terug werkt tot en met 1 januari 2008 en onderdeel C, terug werkt tot en met 1 juli 2015 en artikel V, onderdeel B, en artikel VII terug werken tot en met 28 oktober 2016.
