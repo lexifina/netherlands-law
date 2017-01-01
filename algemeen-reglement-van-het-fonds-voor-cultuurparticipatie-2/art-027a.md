@@ -1,6 +1,0 @@
-# Artikel 27a
-1. Indien de subsidie € 25.000 of meer bedraagt, toont de subsidieontvanger aan de hand van een activiteitenverslag aan dat de activiteiten waarvoor de subsidie is verstrekt, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
-2. Het activiteitenverslag bevat een overzicht van de werkzaamheden waarvoor subsidie is verstrekt en van de daarmee bereikte resultaten.
-3. De inrichting van het verslag komt overeen met de inrichting van het activiteitenplan.
-4. Het verslag bevat, voor zover van toepassing, een analyse van verschillen tussen de voorgenomen activiteiten en beoogde resultaten, vermeld in het activiteitenplan, en de feitelijke realisatie.
-5. Bij regeling of bij beschikking kan worden bepaald dat de subsidieontvanger op een andere wijze aantoont dat de activiteiten waarvoor de subsidie is verstrekt, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
