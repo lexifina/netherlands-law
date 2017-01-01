@@ -15,18 +15,26 @@
 ### Titel 1a. Overeenkomsten betreffende het gebruik in deeltijd, vakantieproducten van lange duur, bijstand en uitwisseling
 ### Titel 2. Financiëlezekerheidsovereenkomsten
 ### Titel 2a. Consumentenkredietovereenkomsten
-#### Afdeling 1. Algemene bepalingen
-#### Afdeling 2. Informatieverstrekking en handelingen voorafgaand aan het sluiten van de kredietovereenkomst
-#### Afdeling 3. Informatie en rechten betreffende kredietovereenkomsten
-#### Afdeling 4. Jaarlijks kostenpercentage
-#### Afdeling 5. Kredietgevers en kredietbemiddelaars
-#### Afdeling 6. Slotbepalingen
-### Titel 2b. Consumentenkredietovereenkomsten betreffende voor bewoning bestemde onroerende zaken
-#### Afdeling 1. Algemene bepalingen
-#### Afdeling 2. Informatieverstrekking en handelingen voorafgaand aan het sluiten van de kredietovereenkomst
-#### Afdeling 3. Jaarlijks kostenpercentage
-#### Afdeling 4. Informatie en rechten betreffende kredietovereenkomsten
-#### Afdeling 5. Slotbepalingen
+#### Afdeling 1. Bepalingen ter uitvoering van richtlijn nr. 2008/48/EG van 23 april 2008 inzake kredietovereenkomsten voor consumenten
+##### Onderafdeling 1. Algemene bepalingen
+##### Onderafdeling 2. Informatieverstrekking en handelingen voorafgaand aan het sluiten van de kredietovereenkomst
+##### Onderafdeling 3. Informatie en rechten betreffende kredietovereenkomsten
+##### Onderafdeling 4. Jaarlijks kostenpercentage
+##### Onderafdeling 5. Kredietgevers en kredietbemiddelaars
+##### Onderafdeling 6. Slotbepalingen
+#### Afdeling 2. Overige bepalingen betreffende consumentenkredietovereenkomsten
+### Titel 2b. Goederenkrediet
+#### Afdeling 1. Goederenkrediet betreffende roerende zaken, niet-registergoederen
+#### Afdeling 2. Huurkoop onroerende zaken
+##### Onderafdeling 1. Algemene bepalingen
+##### Onderafdeling 2. Huurkoop van woonruimte
+#### Afdeling 3. Consumentenkredietovereenkomsten betreffende voor bewoning bestemde onroerende zaken
+##### Onderafdeling 1. Algemene bepalingen
+##### Onderafdeling 2. Informatieverstrekking en handelingen voorafgaand aan het sluiten van de kredietovereenkomst
+##### Onderafdeling 3. Jaarlijks kostenpercentage
+##### Onderafdeling 4. Informatie en rechten betreffende kredietovereenkomsten
+##### Onderafdeling 5. Slotbepalingen
+### Titel 2c. Geldlening
 ### Titel 2d. Overeenkomst van pandbelening
 ### Titel 3. Schenking
 ### Titel 4. Huur
