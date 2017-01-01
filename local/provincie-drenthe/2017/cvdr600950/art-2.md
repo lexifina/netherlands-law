@@ -1,0 +1,2 @@
+# Artikel 2.. Belangen
+Het belang ter behartiging waarvan deze regeling is aangegaan, is het instellen van een gemeenschappelijke rekenkamer als bedoeld in artikel 79L van de Provinciewet.

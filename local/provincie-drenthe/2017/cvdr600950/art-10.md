@@ -1,0 +1,2 @@
+# Artikel 10.. Vergoeding en tegemoetkoming in de kosten
+De leden van de Noordelijke Rekenkamer ontvangen voor hun werkzaamheden een vergoeding. Voor de voorzitter en de leden bedraagt deze vergoeding per maand respectievelijk 20% en 10% van het maximum van salarisschaal 18 volgens de cao voor de provincies. Daarnaast kunnen zij gemaakte reis- en verblijfkosten declareren volgens het Reiskostenbesluit provincie Drenthe.

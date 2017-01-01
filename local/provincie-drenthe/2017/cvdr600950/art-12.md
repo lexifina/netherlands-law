@@ -1,0 +1,2 @@
+# Artikel 12.. Vergaderingen
+Het college vergadert jaarlijks ten minste 4 keer en voorts zo dikwijls als de voorzitter dat nodig oordeelt, dan wel een lid daartoe schriftelijk onder opgave van redenen verzoekt.

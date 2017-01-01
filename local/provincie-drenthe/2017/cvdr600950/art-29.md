@@ -1,0 +1,2 @@
+# Artikel 29.. Wijziging
+Deze regeling kan worden gewijzigd bij gelijkluidend besluit van provinciale staten van de deelnemende provincies.
