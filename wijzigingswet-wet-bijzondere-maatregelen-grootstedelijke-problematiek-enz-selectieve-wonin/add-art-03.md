@@ -1,0 +1,2 @@
+# Artikel III
+In gebieden die door Onze Minister op grond van artikel 5 van de Wet bijzondere maatregelen grootstedelijke problematiek voor de inwerkingtreding van deze wet zijn aangewezen voor de toepassing van de maatregelen uit hoofdstuk 3 van de Wet bijzondere maatregelen grootstedelijke problematiek, kunnen voor de periode van de aanwijzing de maatregelen uit de artikelen 8 en 9 van die Wet worden toegepast.
