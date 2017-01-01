@@ -1,0 +1,4 @@
+# Artikel IV
+1. De artikelen I en II van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met uitzondering van artikel I, onderdeel 0A, dat in werking treedt met ingang van 1 januari 2017.
+2. Artikel III van deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 augustus 2014.
+3. Artikel IIIa van deze wet treedt in werking met ingang van 1 januari 2015. Indien het Staatsblad waarin deze wet wordt geplaatst wordt uitgegeven na 31 december 2014, treedt artikel IIIa van deze wet in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt het terug tot en met 1 januari 2015.
