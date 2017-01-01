@@ -1,0 +1,6 @@
+# Artikel 4:. Instructies en informatieverplichting
+1. De gemandateerde oefent zijn bevoegdheid niet uit indien hij bij het te nemen besluit een persoonlijk belang heeft als bedoeld in artikel 2:4, tweede lid, van de Algemene wet bestuursrecht.
+2. De gemandateerde stelt de provincie in kennis van krachtens mandaat te nemen of reeds genomen besluiten, waarvan hij moet aannemen dat kennisneming door de ambtenaar belast met heffing van provinciale belastingen gewenst is. Hiervan is in ieder geval sprake als de maatschappelijke, beleidsmatige, politieke, juridische of financiële omstandigheden daartoe aanleiding geven.
+3. De uitoefening van de gemandateerde bevoegdheden geschiedt binnen de grenzen en met inachtneming van artikel 10:3 van de Algemene wet bestuursrecht, alsmede de geldende beleids- en uitvoeringsregels.
+4. De directeur neemt bij de uitoefening van de gemandateerde bevoegdheden instructies van de ambtenaar belast met heffing van provinciale belastingen in acht. Partijen lichten elkaar over en weer in over de uitvoering van een instructie op een zodanig tijdstip dat de inachtneming of tijdige verdaging van beslistermijnen gewaarborgd wordt.
+5. De directeur informeert de ambtenaar belast met heffing van provinciale belastingen over de uitvoering van de gemandateerde bevoegdheden via de planning-en-controlcyclus van BIJ12.
