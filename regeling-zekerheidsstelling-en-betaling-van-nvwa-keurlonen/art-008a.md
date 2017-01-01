@@ -1,2 +1,0 @@
-# Artikel 8a
-Op een zekerheid, die op grond van artikel 3, eerste lid, ter voldoening van een retributie als bedoeld in de Regeling VWA retributies veterinaire en hygiënische aangelegenheden, de Regeling retributies veterinaire en hygiënische aangelegenheden, de Regeling retributies veterinaire en hygiënische aangelegenheden I en hoofdstuk 5 van de Regeling diervoeders 2012 werd gesteld voor 1 maart 2014, is met ingang van 1 maart 2014 deze regeling van toepassing.
