@@ -1,0 +1,5 @@
+# Artikel IX
+Indien artikel 10.1 van de Wet inkomstenbelasting 2001 bij het begin van het kalenderjaar 2015, bij het begin van het kalenderjaar 2016, onderscheidenlijk bij het begin van het kalenderjaar 2017, wordt toegepast, worden, met overeenkomstige toepassing van dat artikel, bij ministeriële regeling eveneens gewijzigd:
+a. bij het begin van het kalenderjaar 2015: de in artikel II, onderdeel K, artikel III, onderdeel D, artikel VI, onderdeel D, en artikel VII, onderdeel D, eerstvermelde bedragen en de in artikel II, onderdeel J, artikel III, onderdeel C, artikel IV, onderdelen A en B, artikel VI, onderdeel C, artikel VII, onderdeel C, en artikel VIII, onderdelen A en B, vermelde bedragen;
+b. bij het begin van het kalenderjaar 2016: de in artikel III, onderdeel D, en artikel VII, onderdeel D, eerstvermelde bedragen en de in artikel III, onderdeel C, artikel IV, onderdelen A en B, artikel VII, onderdeel C, en artikel VIII, onderdelen A en B, vermelde bedragen;
+c. bij het begin van het kalenderjaar 2017: de in artikel IV en artikel VIII vermelde bedragen.

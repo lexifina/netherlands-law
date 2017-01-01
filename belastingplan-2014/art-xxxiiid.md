@@ -1,0 +1,3 @@
+# Artikel XXXIIId
+1. Bij algemene maatregel van bestuur worden regels gesteld over door de rijksbelastingdienst te verstrekken tegemoetkomingen specifieke zorgkosten aan belastingplichtigen met uitgaven voor specifieke zorgkosten als bedoeld in afdeling 6.5 van de Wet inkomstenbelasting 2001.
+2. De uitbetaling en terugvordering van verstrekte tegemoetkomingen specifieke zorgkosten geschieden overeenkomstig de regels die gelden voor de invordering van inkomstenbelasting, met dien verstande dat bij de overeenkomstige toepassing van artikel 24 van de Invorderingswet 1990 een uit te betalen tegemoetkoming specifieke zorgkosten uitsluitend kan worden verrekend met een terugvordering van een tegemoetkoming specifieke zorgkosten.
