@@ -1,0 +1,2 @@
+# Artikel II
+De regels van de Beschikking bestrijding bacterievuur 1984 zoals die luidden voor het tijdstip van inwerkingtreding van deze regeling, blijven van toepassing op de Crataegus-soorten die zijn geplant voor inwerkingtreding van deze regeling in gebieden van bijzondere landschappelijke waarde als bedoeld in artikel 1 van het Besluit bestrijding bacterievuur 1984 zoals dat luidde voor het tijdstip van inwerkingtreding van deze regeling.
