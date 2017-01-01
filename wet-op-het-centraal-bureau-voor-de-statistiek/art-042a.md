@@ -8,4 +8,4 @@ d. het onderzoek niet zonder de desbetreffende gegevens kan worden uitgevoerd;
 e. het onderzoek overigens voldoet aan daaraan redelijkerwijs te stellen eisen.
 3. De directeur-generaal kan nadere voorwaarden verbinden aan een verstrekking krachtens het eerste lid.
 4. De artikelen 41, tweede lid, en 42 zijn van overeenkomstige toepassing.
-5. Onze Minister stelt, in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport, gehoord de CCS en het College bescherming persoonsgegevens, nadere regels met betrekking tot de in het eerste lid bedoelde bevoegdheid.
+5. Onze Minister stelt, in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport, gehoord het College bescherming persoonsgegevens, nadere regels met betrekking tot de in het eerste lid bedoelde bevoegdheid.

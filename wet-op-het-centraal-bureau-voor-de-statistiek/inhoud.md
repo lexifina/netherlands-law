@@ -2,16 +2,8 @@
 ## Hoofdstuk 1. Begripsomschrijvingen
 ## Hoofdstuk 2. Centraal bureau voor de statistiek
 ### Paragraaf 1. Instelling en taak
-### Paragraaf 2. Bestuursorganen
-### Paragraaf 3. Personeel
-## Hoofdstuk 3. Directeur-generaal van de statistiek
-### Paragraaf 1. Instelling en samenstelling
-### Paragraaf 2. Benoeming, schorsing en ontslag
-### Paragraaf 3. Taken, bevoegdheden en werkwijze
-## Hoofdstuk 4. Centrale commissie voor de statistiek
-### Paragraaf 1. Instelling en samenstelling
-### Paragraaf 2. Benoeming
-### Paragraaf 3. Taken, bevoegdheden en werkwijze
+### Paragraaf 2. Werkwijze
+## Hoofdstuk 4. Raad van advies
 ## Hoofdstuk 4a. Bonaire, Sint Eustatius en Saba
 ## Hoofdstuk 5. Verwerving, gebruik en verstrekking van gegevens
 ### Paragraaf 1. Verwerving
