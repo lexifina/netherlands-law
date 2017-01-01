@@ -1,2 +1,0 @@
-# Artikel 13a. Desgevraagd verantwoorden bij subsidies minder dan € 25.000
-Indien de subsidie minder dan € 25.000 bedraagt, toont de subsidieontvanger op verzoek van het bestuur aan dat de activiteiten waarvoor de subsidie is verstrekt, zijn verricht en dat is voldaan aan de verplichtingen die aan de subsidie zijn verbonden. Bij deelregeling of bij beschikking wordt aangegeven op welke wijze dit wordt aangetoond.
