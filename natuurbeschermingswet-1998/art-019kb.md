@@ -1,3 +1,0 @@
-# Artikel 19kb
-1. Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop wordt vastgesteld of projecten, andere handelingen of plannen een verslechterend of significant verstorend effect kunnen hebben als bedoeld in artikel 19d, eerste lid, of artikel 19j, eerste lid, alsmede over de wijze waarop wordt bepaald of projecten of plannen significante gevolgen kunnen hebben als bedoeld in artikel 19a, tiende lid, artikel 19f, eerste lid, of artikel 19j, tweede lid.
-2. De regels, bedoeld in het eerste lid, kunnen onder meer betrekking hebben op rekenmodellen, onderzoeksmethoden of meetmethoden waarmee effecten of gevolgen als bedoeld in het eerste lid kunnen worden bepaald.

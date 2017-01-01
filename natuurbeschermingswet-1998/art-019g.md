@@ -1,7 +1,0 @@
-# Artikel 19g
-1. Indien een passende beoordeling is voorgeschreven op grond van artikel 19f, eerste lid, kan een vergunning als bedoeld in artikel 19d, eerste lid, slechts worden verleend indien gedeputeerde staten zich op grond van de passende beoordeling ervan hebben verzekerd dat de natuurlijke kenmerken van het gebied niet zullen worden aangetast.
-2. In afwijking van het eerste lid kunnen bij ontstentenis van alternatieve oplossingen voor een project gedeputeerde staten ten aanzien van Natura 2000-gebieden waar geen prioritair type natuurlijke habitat of prioritaire soort voorkomt, een vergunning als bedoeld in artikel 19d, eerste lid, voor het realiseren van het desbetreffende project, slechts verlenen om dwingende redenen van groot openbaar belang met inbegrip van redenen van sociale of economische aard.
-3. Ten aanzien van Natura 2000-gebieden waar een prioritair type natuurlijke habitat of een prioritaire soort voorkomt, kunnen gedeputeerde staten bij ontstentenis van alternatieve oplossingen voor een project of andere handeling, in afwijking van het eerste lid, een vergunning als bedoeld in artikel 19d, eerste lid, voor het realiseren van het desbetreffende project, slechts verlenen:
-a. op argumenten die verband houden met de menselijke gezondheid, de openbare veiligheid of voor het milieu wezenlijke gunstige effecten of
-b. na advies van de Commissie van de Europese Gemeenschappen om andere dwingende redenen van groot openbaar belang.
-4. Een advies als bedoeld in het derde lid, onderdeel b, wordt door Onze Minister gevraagd.

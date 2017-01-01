@@ -1,4 +1,0 @@
-# Artikel 9b
-1. Onze Minister wijst, tezamen met – voor zover het hem aangaat – Onze Minister van Infrastructuur en Milieu, overheidsinstellingen aan, die door het Planbureau voor de Leefomgeving in ieder geval worden betrokken bij het opstellen van de in artikel 9a bedoelde rapporten.
-2. Onze Minister kan, tezamen met – voor zover het hem aangaat – Onze Minister van Infrastructuur en Milieu, regels stellen ten aanzien van de wijze waarop de krachtens het eerste lid aangewezen overheidsinstellingen bij het opstellen van de rapporten worden betrokken.
-3. Het Planbureau voor de Leefomgeving en de op grond van het eerste lid aangewezen instellingen verschaffen elkaar desgevraagd alle inlichtingen en gegevens waarover zij kunnen beschikken voorzover dat voor het opstellen van de rapporten, bedoeld in artikel 9a, eerste en tweede lid, redelijkerwijs noodzakelijk is.

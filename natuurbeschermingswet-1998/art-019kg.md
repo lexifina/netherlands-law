@@ -1,8 +1,0 @@
-# Artikel 19kg
-1. Onze Minister en Onze Minister van Infrastructuur en Milieu stellen een programma vast voor de daarin opgenomen Natura 2000-gebieden ter vermindering van de stikstofdepositie in die gebieden en ter verwezenlijking van de instandhoudingsdoelstellingen voor de voor stikstof gevoelige habitats in die gebieden binnen afzienbare termijn.
-2. Het programma beoogt een ambitieuze en realistische vermindering van de stikstofdepositie, afkomstig van in Nederland aanwezige bronnen.
-3. Het programma wordt vastgesteld in overeenstemming met de bestuursorganen die voor de daarin opgenomen Natura 2000-gebieden het beheerplan, bedoeld in artikel 19a of 19b, vaststellen en de ingevolge artikel 2, vierde lid, medebetrokken bestuursorganen.
-4. Na de vaststelling van het programma kunnen Onze Minister en Onze Minister van Infrastructuur en Milieu daarin een Natura 2000-gebied opnemen in overeenstemming met de bestuursorganen die voor dat gebied het beheerplan, bedoeld in artikel 19a of 19b, vaststellen en de ingevolge artikel 2, vierde lid, medebetrokken bestuursorganen.
-5. Het programma wordt ten minste eenmaal in de zes jaar vastgesteld en geldt voor een tijdvak van zes jaar.
-6. Op de voorbereiding van de vaststelling of wijziging van een programma, uitgezonderd een wijziging als bedoeld in artikel 19ki, eerste lid, is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.
-7. Onverminderd artikel 3:42, eerste lid, van de Algemene wet bestuursrecht maakt Onze Minister het programma of een wijziging van het programma als bedoeld in het vierde lid of in artikel 19ki, eerste lid, op elektronische wijze bekend.

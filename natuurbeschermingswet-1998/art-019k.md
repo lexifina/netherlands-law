@@ -1,4 +1,0 @@
-# Artikel 19k
-1. Gedeputeerde staten stellen Onze Minister in kennis van projecten als bedoeld in artikel 19f, eerste lid, en zenden een afschrift van vergunningen als bedoeld in artikel 19d, eerste lid, die met toepassing van artikel 19g zijn genomen naar Onze Minister en brengen Onze Minister op de hoogte van de genomen compenserende maatregelen, bedoeld in artikel 19h.
-2. Een bestuursorgaan dat een plan vaststelt als bedoeld in artikel 19j, tweede lid, dat met toepassing van artikel 19g is genomen zendt een afschrift van het besluit tot vaststelling van het plan naar Onze Minister en brengt Onze Minister op de hoogte van de genomen compenserende maatregelen, bedoeld in artikel 19h.
-3. Onze Minister stelt de Commissie van de Europese Gemeenschappen op de hoogte van de genomen compenserende maatregelen, bedoeld in het eerste en tweede lid.

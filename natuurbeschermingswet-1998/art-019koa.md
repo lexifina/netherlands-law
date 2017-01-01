@@ -1,3 +1,0 @@
-# Artikel 19koa
-1. Bij ministeriële regeling kan aan degenen die projecten realiseren of andere handelingen verrichten waarop artikel 19kh, zevende of negende lid, van toepassing is, een verplichting worden opgelegd tot het melden van het project of de andere handeling bij het bij die regeling aan te wijzen bestuursorgaan, indien het project of de andere handeling behoort tot een bij die regeling aangewezen categorie van projecten, onderscheidenlijk andere handelingen.
-2. Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop een melding als bedoeld in het eerste lid wordt gedaan en over de bij de melding te verstrekken gegevens.

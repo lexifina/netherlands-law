@@ -1,3 +1,0 @@
-# Artikel 15b
-1. Onze Minister zendt een voorstel voor een lijst van gebieden, geheel of gedeeltelijk gelegen in de exclusieve economische zone, of een voorstel tot aanpassing daarvan, als bedoeld in artikel 4, eerste lid, van richtlijn 92/43/EEG, niet eerder aan de Europese Commissie toe dan vier weken nadat het ontwerp van dat voorstel aan beide kamers der Staten-Generaal is overgelegd.
-2. Het eerste lid is niet van toepassing op voorstellen die op het tijdstip van inwerkingtreding van de wet tot wijziging van de Natuurbeschermingswet 1998 en de Flora en faunawet in verband met de uitbreiding van de werkingssfeer van beide wetten naar de exclusieve zone aan de Europese Commissie zijn toegezonden.
