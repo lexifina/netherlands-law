@@ -27,7 +27,7 @@ Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werkn
 Wet inkomensvoorziening oudere werklozen
 Wet investeren in jongeren, met uitzondering van de artikelen 37, 57 en artikel 91, voor zover het besluiten betreft van de voorzitter van gedeputeerde staten
 Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen: een besluit van het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 2.3
-Wet langdurige zorg, met uitzondering van een besluit van Onze Minister van Volksgezondheid, Welzijn en Sport
+Wet langdurige zorg, met uitzondering van een Besluit van Onze Minister van Volksgezondheid, Welzijn en Sport en een beschikking op grond van artikel 11.4.1 of 11.4.2
 Wet milieubeheer: artikel 15.50
 Wet op de arbeidsongeschiktheidsverzekering
 Wet overheidspersoneel onder de werknemersverzekeringen

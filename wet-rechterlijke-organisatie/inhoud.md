@@ -25,5 +25,5 @@
 ### Afdeling 1. Taken en bevoegdheden
 ### Afdeling 2. Inrichting
 ### Afdeling 3. Overige bepalingen
-## Hoofdstuk 5. Rechterlijke ambtenaren in opleiding
+## Hoofdstuk 5. De opleiding van rechterlijke ambtenaren
 ## Hoofdstuk 6. Overgangs- en slotbepalingen

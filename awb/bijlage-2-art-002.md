@@ -16,7 +16,6 @@ Crisis- en herstelwet:
 a. artikel 2.3, voor zover het betreft een besluit tot vaststelling van een bestemmingsplan
 b. artikel 2.10, eerste lid
 Experimentenwet onderwijs
-Flora- en faunawet: artikel 75a, eerste lid, voor zover de ontheffing is verleend
 Gemeentewet:
 a. artikel 85, tweede lid
 b. artikel 124, voor zover het beroep wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester
@@ -37,7 +36,6 @@ c. de artikelen Y 32 en Y 33
 Mijnbouwwet:
 a. een besluit dat van toepassing is op het continentaal plat, met uitzondering van een besluit krachtens de afdelingen 5.1.1, 5.1.2, 5.3, 5.4 of 5.5
 b. een besluit omtrent een mijnbouwmilieuvergunning krachtens artikel 40 en instemming met een winningsplan krachtens artikel 34 dan wel een winningsplan of een opslagplan krachtens de artikelen 34 en 39, eerste lid
-Natuurbeschermingswet 1998, met uitzondering van de artikelen 17, 19kg en 23
 Ontgrondingenwet: hoofdstuk II en de artikelen 26a, eerste lid, 27 en 29a, eerste lid
 Provinciewet:
 a. artikel 83, tweede lid
@@ -140,7 +138,4 @@ Wet tijdelijke tolheffing Blankenburgverbinding en ViA15: artikel 2, eerste lid
 Wet toelating zorginstellingen
 Wet windenergie op zee: artikelen 3, eerste lid en 11, eerste lid
 Woningwet: artikel 19, voor zover het betreft de intrekking van een toelating
-Zorgverzekeringswet: voor zover het betreft een besluit van Onze Minister van Volksgezondheid, Welzijn en Sport of van het College zorgverzekeringen, met uitzondering van:
-a. een beschikking op grond van artikel 9b, 9c, 18d tot en met 18g, 69 of 70
-b. een beschikking op grond van artikel 122a
-c. een beschikking jegens een persoon die behoort tot het personeel van het College zorgverzekeringen
+Zorgverzekeringswet: voor zover het betreft een beschikking op grond van artikel 34a of een besluit van Onze Minister van Volksgezondheid, Welzijn en Sport of van het Zorginstituut Nederland met uitzondering van een beschikking jegens een persoon die behoort tot het personeel van het Zorginstituut Nederland

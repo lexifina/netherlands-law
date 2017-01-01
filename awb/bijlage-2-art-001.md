@@ -41,11 +41,10 @@ a. artikel 15, eerste lid, voor zover het betreft een weigering van de vergunnin
 b. artikel 15, negende lid, voor zover het betreft een afwijzing van het verzoek tot verlenging
 c. artikel 16, tiende lid, eerste volzin, en elfde lid, eerste volzin
 Mijnbouwwet: de artikelen 141a, derde lid, 141b, derde lid, en 141c, tweede en derde lid
-Natuurbeschermingswet 1998: de artikelen 17 en 23
 Onteigeningswet
 Ontgrondingenwet: mededeling als bedoeld in artikel 10, tweede en derde lid
 Participatiewet: de artikelen 52 en 81 en paragraaf 6.5
-Politiewet 2012: de artikelen 18, 20, 34, 35, 37, eerste lid, 39, derde en vijfde lid, en 52
+Politiewet 2012: de artikelen 18, 20, 34, 35, 36, eerste lid, 37, eerste lid, 39, derde en vijfde lid, en 52
 Provinciewet:
 a. artikel 49
 b. artikel 83, tweede lid, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging
@@ -102,6 +101,7 @@ Wet Naleving Europese regelgeving publieke entiteiten:
 a. artikel 2, eerste lid, voor zover het betreft de weigering om een aanwijzing te geven
 b. artikel 3, voor zover het betreft de weigering om een aanwijzing te geven
 c. artikel 5, voor zover het betreft de weigering om een besluit te nemen
+Wet natuurbescherming: de artikelen 3.28 en 5.4, vierde lid, ingeval de jachtakte is geweigerd of ingetrokken of mede is geweigerd of ingetrokken om redenen als bedoeld in artikel 3.28, derde lid, onderdeel a, of artikel 5.4, vierde lid, onderdeel c,
 Wet op de expertisecentra: artikel 134, vierde lid, zolang de gemeenteraad de aanvulling nog niet heeft bekrachtigd
 Wet op de rechterlijke organisatie: de artikelen 46a, eerste lid, 62a, eerste lid, en 100
 Wet opheffing particuliere banken van leening: artikel 2

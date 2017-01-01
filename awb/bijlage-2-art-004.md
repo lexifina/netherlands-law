@@ -6,7 +6,6 @@ b. een besluit ten aanzien van een ambtenaar als bedoeld in artikel 1 van de Amb
 Algemene douanewet: een beschikking ter zake van landbouwrestituties
 Algemene wet bestuursrecht: artikel 5:32, voor zover het betreft een besluit dat betrekking heeft op de handhaving van het bepaalde bij of krachtens de Winkeltijdenwet
 Bankwet 1998: artikel 12, vierde lid, voor zover het een schorsing of ontheffing van een directeur betreft
-Boswet: afdeling II
 Burgerlijk Wetboek, Boek 2, voor zover het besluit is bekendgemaakt voor 1 juli 2011:
 a. artikel 64, derde lid, tweede volzin, voor zover het betreft een weigering om de in de eerste volzin bedoelde termijn te verlengen
 b. de artikelen 68, tweede lid, en 125, tweede lid, voor zover het betreft een weigering van een verklaring
@@ -60,6 +59,7 @@ Wet implementatie EU-richtlijnen energie-efficiëntie, met uitzondering van de a
 Wet inkomstenbelasting 2001:
 a. de artikelen 3.37, eerste lid, en 3.42, eerste lid, voor zover het betreft een besluit van Onze Minister van Economische Zaken, en
 b. artikel 3.52a, eerste, tweede en elfde lid, voor zover het betreft een besluit van Onze Minister van Economische Zaken, met uitzondering van een boetebesluit als bedoeld in het elfde lid en een daarmee samenhangende correctie-RDA-beschikking als bedoeld in het tweede lid
+Wet langdurige zorg: artikel 11.4.1 en artikel 11.4.2
 Wet luchtvaart: de artikelen 8.25ea, vierde lid, 8.25f, tweede, vierde en vijfde lid, en 8.25g, eerste lid
 Wet marktordening gezondheidszorg, met uitzondering van beschikkingen van de Nederlandse Zorgautoriteit als bedoeld in paragraaf 4 van hoofdstuk 6
 Wet medewerking verdedigingsvoorbereiding

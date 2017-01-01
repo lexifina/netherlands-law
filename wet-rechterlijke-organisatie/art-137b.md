@@ -11,7 +11,7 @@ g. andere ambtenaren.
 a. senior officieren van justitie A;
 b. senior officieren van justitie;
 c. substituut-officieren van justitie;
-d. rechterlijke ambtenaren in opleiding.
+d. officieren in opleiding.
 3. Aan het hoofd van het parket centrale verwerking openbaar ministerie staat de hoofdofficier van justitie met de titel hoofd van het parket centrale verwerking openbaar ministerie. Hij kan algemene en bijzondere aanwijzingen geven aan de bij zijn parket werkzame ambtenaren betreffende de uitoefening van de taken en bevoegdheden van het parket.
 4. In geval van afwezigheid, belet of ontstentenis van het hoofd van het parket centrale verwerking openbaar ministerie, wordt hij vervangen door de plaatsvervangend hoofdofficier van justitie.
 5. De hoofdofficier van justitie, plaatsvervangend hoofdofficier van justitie, senior officieren van justitie A, senior officieren van justitie, officieren van justitie, substituut-officieren van justitie en plaatsvervangende officieren van justitie onderscheidenlijk officieren enkelvoudige zittingen en plaatsvervangende officieren enkelvoudige zittingen zijn van rechtswege plaatsvervangend officier van justitie onderscheidenlijk plaatsvervangend officier enkelvoudige zittingen bij de arrondissementsparketten, bij het landelijk parket, bij het functioneel parket en bij het parket-generaal.
