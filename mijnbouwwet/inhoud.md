@@ -39,7 +39,7 @@
 ### § 6.1. De Mijnraad
 ### § 6.2. De Technische commissie bodembeweging
 ## Hoofdstuk 7. Rapportage
-## Hoofdstuk 8. Toezicht en handhaving
+## Hoofdstuk 8. Toezicht, handhaving en retributies
 ### § 8.1. Het Staatstoezicht op de mijnen
 ### § 8.2. Toezicht in bepaalde gevallen
 ### § 8.3. Handhaving

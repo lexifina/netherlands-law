@@ -1,0 +1,6 @@
+# Artikel 167a
+1. De wijziging van de artikelen 18 en 21 van deze wet bij wet van 21 december 2016, houdende wijziging van de Mijnbouwwet (versterking veiligheidsbelang mijnbouw en regie opsporings-, winnings- en opslagvergunningen) (Stb. 2016, 554), heeft geen gevolgen voor de houder van een winningsvergunning of een opslagvergunning, aan wie een instemming met het winningsplan als bedoeld in artikel 34, derde lid, respectievelijk een plan als bedoeld in artikel 39, eerste lid, is verleend voor de datum van inwerkingtreding van die wijziging.
+2. In afwijking van het eerste lid kan Onze Minister een instemming met het winningsplan geheel of gedeeltelijk intrekken of wijzigen na de datum van inwerkingtreding van dit artikel, indien dit wordt gerechtvaardigd door veranderde omstandigheden of gewijzigde inzichten om reden van het belang van:
+1°. de veiligheid voor omwonenden of het voorkomen van schade aan gebouwen of infrastructurele werken of de functionaliteit daarvan of
+2°. het planmatig gebruik of beheer van delfstoffen, aardwarmte, andere natuurlijke rijkdommen, waaronder grondwater met het oog op de winning van drinkwater, of mogelijkheden tot het opslaan van stoffen.
+3. Indien toepassing is gegeven aan het tweede lid, geldt het eerste lid niet.

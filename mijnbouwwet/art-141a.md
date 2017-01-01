@@ -1,6 +1,6 @@
 # Artikel 141a
 1. De procedure, bedoeld in artikel 3.35, eerste lid, aanhef en onderdeel c, van de Wet ruimtelijke ordening, is van toepassing op de aanleg of de uitbreiding van:
-a. een mijnbouwwerk ten behoeve van de opsporing of winning van koolwaterstoffen in of onder een gebied dat is aangewezen op grond van de artikelen 10 of 10a van de Natuurbeschermingswet 1998;
+a. een mijnbouwwerk ten behoeve van de opsporing of winning van koolwaterstoffen in of onder een Natura 2000-gebied of een bijzonder nationaal natuurgebied als bedoeld in de Wet natuurbescherming;
 b. een mijnbouwwerk ten behoeve van de opslag van stoffen;
 c. pijpleidingen die uitsluitend of in hoofdzaak zijn bestemd voor het vervoer van delfstoffen respectievelijk het vervoer van stoffen in verband met het opsporen of winnen van delfstoffen respectievelijk het opslaan van stoffen met behulp van een mijnbouwwerk als bedoeld in onderdeel a respectievelijk onderdeel b;
 d. een mijnbouwwerk of pijpleidingen, voor zover het een project betreft voor olie of koolstofdioxide dat is opgenomen op de Unielijst van projecten van gemeenschappelijk belang, bedoeld in artikel 3, vierde lid, Verordening (EU) nr. 347/2013 van het Europees Parlement en de Raad van 17 april 2013 betreffende richtsnoeren voor de trans-Europese energie-infrastructuur en tot intrekking van Beschikking nr. 1364/2006/EG en tot wijziging van de Verordeningen (EG) nr. 713/2009, (EG) nr. 714/2009 en (EG) nr. 715/2009 (PbEU 2013, L 115).
@@ -10,3 +10,9 @@ a. geen van de procedures, bedoeld in artikel 3.35, eerste lid,
 b. uitsluitend de procedure, bedoeld in artikel 3.35, eerste lid, aanhef en onderdeel a,
 c. uitsluitend de procedure, bedoeld in artikel 3.35, eerste lid, aanhef en onderdeel b, of
 d. de procedure, bedoeld in artikel 3.35, eerste lid, aanhef en onderdeel a, gevolgd door de procedure, bedoeld in artikel 3.35, eerste lid, aanhef en onderdeel b, van de Wet ruimtelijke ordening, van toepassing zijn of is op de aanleg of de uitbreiding van dat werk of die leiding. Onze Minister hoort de mijnbouwondernemer en de betrokken bestuursorganen over een voornemen toepassing te geven aan de bevoegdheid, bedoeld in de eerste volzin.
+4. Onze Minister kan in overeenstemming met de Minister van Infrastructuur en Milieu besluiten tot toepassing van de procedure, bedoeld in het eerste lid, aanhef, voor de aanleg of de uitbreiding van een mijnbouwwerk ten behoeve van de opsporing of winning van koolwaterstoffen in of onder andere gebieden dan bedoeld in het eerste lid, onderdeel a, indien:
+a. een gebied niet geheel is uitgesloten van de opsporing of winning van koolwaterstoffen bij of krachtens een algemene maatregel van bestuur als bedoeld in artikel 9, eerste lid, onderdeel e,
+b. een belang als bedoeld in artikel 9, eerste lid, onderdeel f, zich niet tegen aanleg of uitbreiding in dat gebied verzet,
+c. het desbetreffende gebied niet geheel of ten dele is gelegen binnen de op grond van artikel 1.1, eerste lid, van de Wet natuurbescherming aangewezen Natura 2000-gebieden Waddenzee en Noordzeekustzone,
+d. het desbetreffende gebied niet geheel of ten dele is gelegen binnen de Waddenzee als aangewezen krachtens de Wet ruimtelijke ordening of op de Waddeneilanden, en
+e. het desbetreffende gebied niet geheel of ten dele is gelegen binnen het gebied dat op grond van de Overeenkomst inzake de bescherming van het cultureel en natuurlijk erfgoed van de wereld (Trb. 1973, 155) is aangewezen als werelderfgoedgebied Waddenzee.
