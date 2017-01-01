@@ -1,0 +1,2 @@
+# Artikel 78cc
+Artikel 6, onderdeel g, zoals dat luidde op de dag voor de datum van inwerkingtreding van artikel I, onderdeel A, van de Wet van 17 november 2016 tot wijziging van de Participatiewet, de Wet tegemoetkomingen loondomein, de Wet financiering sociale verzekeringen en de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten in verband met stroomlijning van de loonkostensubsidie op grond van de Participatiewet en enkele andere wijzigingen blijft van toepassing op de verstrekking van loonkostensubsidies over perioden die gelegen zijn voor 1 januari 2017.
