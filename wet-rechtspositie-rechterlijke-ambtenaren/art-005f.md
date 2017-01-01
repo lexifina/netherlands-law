@@ -1,5 +1,5 @@
 # Artikel 5f
-1. Een rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding vervult het ambt waarin hij wordt benoemd op basis van een aanstelling voor een gemiddeld aantal uren per week.
+1. Een rechterlijk ambtenaar vervult het ambt waarin hij wordt benoemd op basis van een aanstelling voor een gemiddeld aantal uren per week.
 2. In afwijking van het eerste lid worden raadsheren in buitengewone dienst, raadsheren-plaatsvervangers, rechters-plaatsvervangers, advocaten-generaal in buitengewone dienst, plaatsvervangende advocaten-generaal, plaatsvervangende officieren van justitie en plaatsvervangende officieren enkelvoudige zittingen niet aangesteld, maar kunnen zij voor het verrichten van werkzaamheden door de functionele autoriteit worden opgeroepen.
 3. Met uitzondering van raadsheren in buitengewone dienst van en advocaten-generaal in buitengewone dienst bij de Hoge Raad kunnen de in het tweede lid bedoelde rechterlijke ambtenaren hun ambt ook vervullen op basis van een aanwijzing voor een gemiddeld aantal uren per week.
-4. Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de aanstelling van rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding en de aanwijzing van rechterlijke ambtenaren.
+4. Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de aanstelling van rechterlijke ambtenaren en de aanwijzing van rechterlijke ambtenaren.

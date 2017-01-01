@@ -5,4 +5,3 @@ a. de benoeming tot president van of procureur-generaal bij de Hoge Raad betreft
 b. de benoeming van een gerechtsauditeur, niet tevens zijnde raadsheer-plaatsvervanger of rechter-plaatsvervanger, of de griffier van de Hoge Raad betreft.
 3. Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de beëdiging van rechterlijke ambtenaren.
 4. In afwijking van het eerste lid worden niet als zodanig beëdigd de plaatsvervangers van rechtswege alsmede de door het College van procureurs-generaal benoemde plaatsvervangers.
-5. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de beëdiging van rechterlijke ambtenaren in opleiding.
