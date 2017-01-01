@@ -1,2 +1,0 @@
-# Slotformulering
-Voorzitter en secretaris.
