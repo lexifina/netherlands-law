@@ -21,4 +21,10 @@
 ### § 5.3. Bijstand aan de Koninklijke marechaussee
 ## Hoofdstuk 6. Toezicht
 ## Hoofdstuk 7. De behandeling van klachten
-## Hoofdstuk 8. Slotbepalingen
+## Hoofdstuk 8. De Politieacademie en de politieonderwijsraad
+### § 1. Algemeen
+### § 2. Politieonderwijsraad
+### § 3. Politieonderwijs
+### § 4. Onderzoek
+### § 5. Beheer, planning en bekostiging
+## Hoofdstuk 9. Slotbepalingen
