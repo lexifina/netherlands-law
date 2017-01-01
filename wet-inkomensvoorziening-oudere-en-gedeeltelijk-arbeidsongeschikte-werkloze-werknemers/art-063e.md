@@ -1,10 +1,10 @@
 # Artikel 63e
 1. In afwijking van artikel 5, derde lid, onderdeel b, wordt de grondslag voor de alleenstaande werkloze werknemer zodanig vastgesteld dat de netto grondslag per maand gelijk is aan:
 a. [vervallen;]
-b. in 2016 € 907,35;
-c. in 2017 € 837,56 en
-d. in 2018 € 767,76.
-2. Artikel 5, elfde lid, is van overeenkomstige toepassing op de bedragen, genoemd in het eerste lid.
+b. [vervallen;]
+c. in 2017 € 842,39 en
+d. in 2018 € 772,19.
+2. Artikel 5, tiende lid, is van overeenkomstige toepassing op de bedragen, genoemd in het eerste lid.
 3. Het eerste lid, onderdeel a, vervalt met ingang van 1 januari 2016.
 4. Het eerste lid, onderdeel b, vervalt met ingang van 1 januari 2017.
 5. Het eerste lid, onderdeel c, vervalt met ingang van 1 januari 2018.

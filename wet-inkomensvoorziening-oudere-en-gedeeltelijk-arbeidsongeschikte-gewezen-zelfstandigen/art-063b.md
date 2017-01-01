@@ -1,9 +1,9 @@
 # Artikel 63b
 1. In afwijking van artikel 5, vierde lid, onderdeel c, wordt de grondslag voor de alleenstaande gewezen zelfstandige zodanig vastgesteld dat de netto grondslag per maand gelijk is aan:
 a. [vervallen;]
-b. in 2016 € 907,35;
-c. in 2017 € 837,56 en
-d. in 2018 € 767,76.
+b. [vervallen;]
+c. in 2017 € 842,39 en
+d. in 2018 € 772,19.
 2. Artikel 5, zesde lid, is van overeenkomstige toepassing op de bedragen, genoemd in het eerste lid.
 3. Het eerste lid, onderdeel a, vervalt met ingang van 1 januari 2016.
 4. Het eerste lid, onderdeel b, vervalt met ingang van 1 januari 2017.
