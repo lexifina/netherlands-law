@@ -1,2 +1,0 @@
-# Artikel 16g
-De verboden op het onder zich hebben en vervoeren, bedoeld in artikel 13, eerste lid, van de wet, gelden niet ten aanzien van de afvoer van planten en producten van planten, behorende tot een beschermde inheemse plantensoort, in verband met werkzaamheden als bedoeld in artikel 16b, eerste lid, die verricht worden in overeenstemming met artikel 16b en de nadere regels die op grond van artikel 16d zijn gesteld.
