@@ -23,9 +23,9 @@
 ### Paragraaf 5.3. De heffing en invordering van de inkomensafhankelijke bijdrage
 ### Paragraaf 5.4. De rijksbijdragen aan het Zorgverzekeringsfonds
 ### Paragraaf 5.5. De bijdragevervangende belasting gemoedsbezwaarden
-## Hoofdstuk 6. Het Zorginstituut
+## Hoofdstuk 6. Zorginstituut en overige taken en bevoegdheden van het CAK
 ### Paragraaf 6.1. Algemene bepalingen
-### Paragraaf 6.2. Taken en bevoegdheden, voor zover niet elders geregeld
+### Paragraaf 6.2. Taken en bevoegdheden van het Zorginstituut, voor zover niet elders geregeld en overige taken en bevoegdheden van het CAK
 ### Paragraaf 6.3. Planning, verslaglegging en financiering
 ## Hoofdstuk 7. Gegevensverstrekking
 ## Hoofdstuk 8. Rechtsbescherming
