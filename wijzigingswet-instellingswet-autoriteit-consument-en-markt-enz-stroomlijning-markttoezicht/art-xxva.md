@@ -1,0 +1,2 @@
+# Artikel XXVa
+Op een verzoekschrift dat is ingediend overeenkomstig de artikelen 2.5 van de Wet handhaving consumentenbescherming en 305d van Boek 3 van het Burgerlijk Wetboek, zoals die luidden onmiddellijk voor inwerkingtreding van de artikelen V, VI, en XVI, onderdeel F, van deze wet, blijven de bepalingen van de Wet handhaving consumentenbescherming van toepassing zoals die luidden onmiddellijk voor inwerkingtreding van de genoemde artikelen V, VI en XVI, onderdeel F.
