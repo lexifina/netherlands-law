@@ -1,0 +1,2 @@
+# Artikel VIII. Wet tot wijziging van de Participatiewet, de Ziektewet, de Wet werk en inkomen naar arbeidsvermogen en de Wet financiering sociale verzekeringen in verband met harmonisatie van instrumenten ter bevordering van arbeidsdeelname van arbeidsbeperkten
+[Wijzigt de wet tot wijziging van de Participatiewet, de Ziektewet, de Wet werk en inkomen naar arbeidsvermogen en de Wet financiering sociale verzekeringen in verband met harmonisatie van instrumenten ter bevordering van arbeidsdeelname van arbeidsbeperkten.]
