@@ -2,4 +2,4 @@
 1. Voor een personenauto, niet zijnde een personenauto in de zin van artikel 23a bedraagt de belasting in afwijking van artikel 23:
 a. voor een personenauto met een CO2-uitstoot van 0 gram per kilometer: nihil, en
 b. voor een personenauto met een CO2-uitstoot van meer dan 0 gram per kilometer maar niet meer dan 50 gram per kilometer: de helft van de ingevolge dat artikel verschuldigde belasting.
-2. Artikel 9, tiende lid, van de Wet op de belasting van personenauto's en motorrijwielen 1992 is van overeenkomstige toepassing.
+2. Artikel 9, elfde en twaalfde lid, van de Wet op de belasting van personenauto's en motorrijwielen 1992 is van overeenkomstige toepassing.
