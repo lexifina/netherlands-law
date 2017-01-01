@@ -1,5 +1,0 @@
-# Artikel 3a
-1. Indien in hetzelfde jaar voor dezelfde periode, lopend van 1 april tot 1 april van het daarop volgende kalenderjaar, meer dan één akte wordt aangevraagd, dan zijn de bijdragen, bedoeld in artikel 3, derde en vierde lid, slechts één maal verschuldigd.
-2. In afwijking van artikel 3, zevende lid, kan een verzoek tot restitutie van te veel betaalde bedragen worden ingediend bij de Minister van Landbouw, Natuur en Voedselkwaliteit.
-3. Een verzoek tot restitutie wordt slechts behandeld indien het verzoek niet later dan zes maanden na betaling van het te veel betaalde bedrag door de Minister van Landbouw, Natuur en Voedselkwaliteit is ontvangen en bewijs wordt overgelegd dat de bijdragen, bedoeld in artikel 3, derde en vierde lid, reeds ten minste één maal zijn afgedragen.
-4. In afwijking van het derde lid, kunnen aktehouders, aan wie sinds 1 april 2002 reeds meer dan één akte is verleend, een verzoek tot restitutie indienen binnen drie maanden na publicatie van deze regeling in de Staatscourant, onder overlegging van het bewijs, bedoeld in het derde lid.
