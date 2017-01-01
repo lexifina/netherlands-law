@@ -1,0 +1,3 @@
+# Article VI. Support Services and exercices
+1. For the purpose of implementing this Agreement, the Parties shall, within their means and capabilities, provide each other with support services. These support services, as well as the conditions for providing such services shall be stipulated in detail in technical arrangements, to be concluded by the respective Ministers of Defence.
+2. The Parties undertake to conduct regular cross-border exercises to maintain the necessary level of readiness to contribute to AAC Rotation. Details shall be stipulated in technical arrangements to be concluded by the respective Ministers of Defence.

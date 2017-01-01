@@ -1,0 +1,3 @@
+# Artikel XIV. Inwerkingtreding en beëindiging
+1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand volgend op de datum waarop de partijen de depositaris in kennis hebben gesteld van de voltooiing van de noodzakelijke nationale procedures voor de inwerkingtreding van dit Verdrag.
+2. Dit Verdrag blijft van kracht totdat het wordt opgezegd met wederzijdse schriftelijke instemming van de partijen of door een schriftelijke kennisgeving aan de depositaris van een partij inzake haar voornemen tot opzegging met een opzegtermijn van ten minste 180 dagen. De beëindiging van dit Verdrag laat alle betalingsverplichtingen van een partij uit hoofde van de bepalingen van dit Verdrag onverlet totdat deze zijn voldaan.

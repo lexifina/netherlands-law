@@ -1,0 +1,3 @@
+# Artikel VI. Ondersteunende diensten en oefeningen
+1. Ten behoeve van de uitvoering van dit Verdrag voorzien de partijen elkaar binnen hun middelen en mogelijkheden van ondersteunende diensten. Deze ondersteunende diensten alsmede de voorwaarden voor het verstrekken ervan worden nader geregeld in technical arrangements die dienen te worden gesloten door de onderscheiden ministers van Defensie.
+2. De partijen verplichten zich regelmatig grensoverschrijdende oefeningen uit te voeren teneinde de benodigde staat van paraatheid te waarborgen om bij te dragen aan de AAC-Rotation. Nadere regelingen worden vastgelegd in technical arrangements die dienen te worden gesloten door de onderscheiden ministers van Defensie.
