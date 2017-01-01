@@ -1,0 +1,2 @@
+# Artikel 11,. Niet-subsidiabele kosten
+In ieder geval niet subsidiabel is omzetbelasting in de zin van de Wet op de omzetbelasting 1968 en vergelijkbare belasting van andere staten.
