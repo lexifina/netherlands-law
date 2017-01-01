@@ -1,0 +1,2 @@
+# Artikel IIA
+In afwijking van artikel I, onderdelen J, K en O en artikel II, onderdelen I, J en N, geldt de verplichting om de opgaven, indicaties en gegevens, bedoeld in de artikelen 45, 46 en 51 van de Pensioenwet en de artikelen 56, 57 en 62 van de Wet verplichte beroepspensioenregeling, weer te geven op basis van een pessimistisch scenario, een verwacht scenario en een optimistisch scenario, niet tot een bij koninklijk besluit te bepalen tijdstip.
