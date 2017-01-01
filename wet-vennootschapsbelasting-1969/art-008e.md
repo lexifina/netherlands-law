@@ -22,3 +22,6 @@ b. uitsluitend die publiekrechtelijke rechtspersoon of een of meer lichamen als 
 a. activiteiten als bedoeld in artikel 6b, en
 b. het produceren, transporteren of leveren van gas, elektriciteit of warmte en het aanleggen of beheren van netten of leidingen ten behoeve van het transport van gas, elektriciteit of warmte.
 8. Het eerste lid, onderdeel a, vindt bij lichamen als bedoeld in artikel 2, tweede lid, toepassing op activiteiten verricht voor de Staat of voor een privaatrechtelijk overheidslichaam van de Staat.
+9. Het eerste lid, onderdeel a, onder 2°, is niet van toepassing voor zover:
+a. de activiteiten, bedoeld in dat onderdeel, bestaan uit het ter beschikking stellen van vermogensbestanddelen; en
+b. die vermogensbestanddelen bij het privaatrechtelijke overheidslichaam waaraan die ter beschikking worden gesteld, worden aangewend ten behoeve van activiteiten waarvan de voordelen in aanmerking worden genomen bij het bepalen van de winst.
