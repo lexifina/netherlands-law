@@ -13,4 +13,5 @@
 ## Hoofdstuk VIA
 ## Hoofdstuk VII. Belastingheffing van artiesten en beroepssporters
 ## Hoofdstuk VIIA. Belastingheffing van buitenlandse gezelschappen
+## Hoofdstuk VIIB. Horizonbepaling
 ## Hoofdstuk VIII. Overgangs- en slotbepalingen
