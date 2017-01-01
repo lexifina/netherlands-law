@@ -1,0 +1,3 @@
+# Artikel 70a
+1. Bij ministeriële regeling kan worden bepaald dat het Zorginstituut een subsidie verstrekt aan zorgaanbieders ten behoeve van kosten van geneeskundige zorg zoals medisch-specialisten en klinisch-psychologen die plegen te bieden voor zover het gaat om kortdurende generalistische behandeling van een persoon met lichte tot matig ernstige psychische problematiek, inclusief de daarbij behorende diagnostiek of toegeleiding naar die zorg, die niet in rekening te brengen zijn bij de zorgverzekeraar of de individuele verzekerde, omdat de identiteit van de verzekerde niet kan worden vastgesteld.
+2. In de regeling, bedoeld in het eerste lid, kunnen voorwaarden opgenomen worden ten aanzien van de subsidie en kan jaarlijks een subsidieplafond worden vastgesteld.
