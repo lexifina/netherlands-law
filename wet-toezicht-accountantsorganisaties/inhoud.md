@@ -5,6 +5,7 @@
 ### Afdeling 2.2. Verval en intrekking van de vergunning
 ### Afdeling 2.3. Het register
 ### Afdeling 2.4. Auditorganisaties van een derde land en auditors van een derde land
+### Afdeling 2.5. Auditkantoren uit andere lidstaten
 ## Hoofdstuk 3. De accountantsorganisatie en de externe accountant
 ### Afdeling 3.1. De accountantsorganisatie
 #### Paragraaf 3.1.1. Toepassingsbereik
@@ -20,6 +21,7 @@
 ## Hoofdstuk 5c. Samenwerking internationaal
 ### Afdeling 5c.1. Samenwerking met toezichthoudende instanties van andere lidstaten
 ### Afdeling 5c.2. Samenwerking met toezichthoudende instanties van staten die geen lidstaat zijn
+### Afdeling 5c.3. Samenwerking en uitwisseling van gegevens met Europese instanties
 ## Hoofdstuk 6. Openbare waarschuwing en publicatie van handhavingsmaatregelen
 ## Hoofdstuk 7. Wijzigingen andere wetten
 ### Paragraaf 7.1. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties

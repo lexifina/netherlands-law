@@ -8,8 +8,11 @@ b. die toezichthoudende instantie voldoet aan eisen die de Europese Commissie ov
 c. de overdracht van persoonsgegevens geschiedt overeenkomstig de Wet bescherming persoonsgegevens; en
 d. zij met die toezichthoudende instantie op basis van wederkerigheid een overeenkomst heeft gesloten met betrekking tot gegevensverstrekking als bedoeld in dit artikel.
 3. De Autoriteit Financiële Markten voldoet niet aan het in het eerste lid bedoelde verzoek, indien:
-a. de verstrekking van de gegevens of inlichtingen gevaar zou kunnen opleveren voor de soevereiniteit, nationale veiligheid of openbare orde van Nederland of andere lidstaten; of
-b. met betrekking tot dezelfde handelingen tegen dezelfde accountantsorganisaties reeds in Nederland een strafrechtelijke procedure is ingesteld;
-c. door de dezelfde accountantsorganisatie een beroep is ingesteld tegen een beschikking als bedoeld in artikel 58 ten aanzien van dezelfde handelingen ingesteld; of
-d. met betrekking tot dezelfde handelingen en dezelfde accountantsorganisaties of auditkantoren een onherroepelijk besluit is genomen.
+a. de verstrekking van de gegevens of inlichtingen gevaar zou kunnen opleveren voor de soevereiniteit, nationale veiligheid of openbare orde van Nederland of andere lidstaten;
+b. met de verstrekking van de gegevens en inlichtingen de bescherming van de commerciële belangen van de controlecliënt, met inbegrip van zijn intellectuele eigendomsrechten, in het gedrang komt;
+c. met betrekking tot dezelfde handelingen tegen een accountantsorganisatie of andere personen reeds in Nederland een strafrechtelijke procedure is ingesteld;
+d. door dezelfde accountantsorganisatie of andere personen een beroep is ingesteld tegen een bestuurlijke boete ten aanzien van dezelfde handelingen;
+e. met betrekking tot dezelfde handelingen en dezelfde accountantsorganisaties of auditkantoren een onherroepelijk besluit is genomen; of
+f. met betrekking tot dezelfde handeling tegen dezelfde accountant, voor zover het een accountant betreft als bedoeld in artikel 1, van de Wet op het accountantsberoep, een klacht is ingediend bij de accountantskamer overeenkomstig artikel 22, eerste lid, van de Wet tuchtrechtspraak accountants.
 4. De Autoriteit Financiële Markten zendt onverwijld nadat met een toezichthoudende instantie van een staat die geen lidstaat is een overeenkomst is gesloten als bedoeld in het eerste lid, een afschrift van die overeenkomst aan Onze Minister.
+5. Het eerste tot en met vierde lid, met uitzondering van het tweede lid, onderdeel c, is niet van toepassing op de uitwisseling van gegevens en inlichtingen als bedoeld in artikel 36 van de EU-verordening.
