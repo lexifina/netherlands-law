@@ -7,7 +7,7 @@ c. het totale aantal verloonde uren bij de werkgever in het kalenderjaar waarove
 d. het aantal van die verloonde uren dat wordt ingevuld door arbeidsbeperkten;
 e. de berekening van het quotumtekort, bedoeld in artikel 38g, derde lid;
 f. het bedrag van de quotumheffing.
-3. De vaststelling van de quotumheffing vindt plaats vóór 1 augustus volgend op het kalenderjaar waarover het quotumtekort wordt vastgesteld.
+3. De vaststelling van de quotumheffing vindt plaats vóór 1 november volgend op het kalenderjaar waarover het quotumtekort wordt vastgesteld.
 4. De quotumheffing bedraagt het quotumtekort vermenigvuldigd met € 5.000.
 5. De inspecteur is bevoegd tot herziening van een beschikking op grond van dit artikel indien enig feit grond oplevert voor het vermoeden dat de beschikking is gegeven op grond van onjuiste of onvolledige gegevens. Een herziening ten nadele van de werkgever is uitsluitend mogelijk indien deze tekortkoming een gevolg is van een feit dat aan de werkgever of de gewezen werkgever kan worden toegerekend of redelijkerwijs kenbaar had kunnen zijn. De inspecteur stelt de herziening vast bij voor bezwaar vatbare beschikking. De bevoegdheid tot herziening vervalt door verloop van 5 jaren na het einde van het kalenderjaar waarop de beschikking betrekking heeft.
 6. Beschikkingen van de inspecteur op grond van dit artikel worden genomen gehoord het UWV en in overeenstemming met het UWV.

@@ -1,0 +1,2 @@
+# Artikel 63k
+Op de persoon die op de dag voor inwerkingtreding van artikel XXI, onderdeel A, van de Verzamelwet SZW 2017 recht heeft op een uitkering op grond van deze wet en toepassing van dat artikel tot een lagere uitkering leidt, blijft artikel 6, tweede lid, tweede zin, zoals dat luidde op die dag voor inwerkingtreding, van toepassing gedurende zes maanden na de dag van inwerkingtreding van artikel XXI, onderdeel A, van de Verzamelwet SZW 2017.
