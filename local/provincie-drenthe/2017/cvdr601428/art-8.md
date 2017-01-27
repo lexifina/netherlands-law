@@ -1,0 +1,2 @@
+# Artikel 8.. Vergoeding
+De voorzitter en leden komen in aanmerking voor een vergoeding overeenkomstig de artikelen 34 en 35 van de Verordening rechtspositie gedeputeerden, staten- en commissieleden provincie Drenthe.
