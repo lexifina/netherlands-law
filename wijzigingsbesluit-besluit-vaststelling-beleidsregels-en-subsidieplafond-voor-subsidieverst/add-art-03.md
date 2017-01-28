@@ -1,0 +1,2 @@
+# Artikel III
+De minister verdeelt de beschikbare middelen per categorie, genoemd in artikel 1, in volgorde van ontvangst van de aanvragen. Indien honorering van alle aanvragen die op één dag zijn ontvangen ertoe zou leiden dat het plafond zou worden overschreden, stelt de minister de volgorde van verstrekking vast door middel van loting. Aanvragen die in 2016 zijn ingediend en waarop voor 1 januari 2017 niet is beslist, gelden als aanvragen voor subsidieverstrekking ten laste van het subsidieplafond, vastgesteld in artikel 1.
