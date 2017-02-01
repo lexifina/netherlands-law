@@ -1,0 +1,2 @@
+# Artikel V. Overgangsbepaling inzake bezwaar en beroep
+Bezwaar en beroep tegen besluiten van het Commissariaat voor de Media naar aanleiding van overtreding van het bepaalde in paragraaf 6.3.1.3 van de Mediawet 2008, zoals die paragraaf voor het tijdstip van inwerkingtreding van deze wet luidde, worden voor zover tijdig ingesteld afgehandeld overeenkomstig het bepaalde in de Mediawet 2008, zoals die wet voor het tijdstip van inwerkingtreding van deze wet luidde.
