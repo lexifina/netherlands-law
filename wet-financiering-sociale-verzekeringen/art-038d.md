@@ -10,7 +10,7 @@
 9. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld, in ieder geval met betrekking tot:
 a. de inrichting, de gegevensset en de wijze van verkrijging van de gegevens ten behoeve van de registratie, bedoeld in het eerste lid,
 b. de geldigheidsduur van de registratie van de persoon en het vervallen van de registratie van de persoon, en
-c. de vaststelling, bedoeld in artikel 38b, eerste lid, onderdeel a, ten eerste, ten behoeve van de opname van personen in de registratie, bedoeld in het eerste lid.
+c. de vaststelling, bedoeld in artikel 38b, eerste lid, onderdelen a en e, ten behoeve van de opname van personen in de registratie, bedoeld in het eerste lid.
 10. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot:
 a. de ambtshalve verstrekking door het UWV van gegevens uit de registratie, bedoeld in het eerste lid, aan werkgevers als bedoeld in het zevende lid;
 b. de verstrekking van gegevens aan het UWV door werkgevers als bedoeld in het zevende lid in verband met het verrichten van arbeid door arbeidsbeperkten als bedoeld in artikel 38g, tweede en vierde lid.
