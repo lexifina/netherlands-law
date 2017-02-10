@@ -1,0 +1,5 @@
+# Artikel 193o
+1. Na een schikking wordt de vordering tot schadevergoeding van de bij de schikking betrokken benadeelde verminderd met het aandeel dat de bij de schikking betrokken inbreukpleger heeft gehad in de schade die de benadeelde door de inbreuk op het mededingingsrecht heeft geleden.
+2. Een bij een schikking betrokken benadeelde kan alleen een niet bij de schikking betrokken inbreukpleger aanspreken voor de vergoeding van de na de schikking resterende vordering tot schadevergoeding. De niet bij de schikking betrokken inbreukpleger kan met betrekking tot deze vordering tot schadevergoeding geen bijdrage vorderen van de bij de schikking betrokken inbreukpleger.
+3. Indien niet bij een schikking betrokken inbreukplegers na een schikking niet bij machte zijn om de met de resterende vordering tot schadevergoeding overeenstemmende schade van een bij de schikking betrokken benadeelde te vergoeden, is de bij de schikking betrokken inbreukpleger ook aansprakelijk voor deze schade.
+4. Lid 3 mist toepassing indien uitdrukkelijk anders is bepaald in de voorwaarden van de schikking.

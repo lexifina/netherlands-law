@@ -1,0 +1,2 @@
+# Artikel 193n
+De bijdrage van een ontvanger van immuniteit in de onderlinge verhouding met de andere bij de inbreuk betrokken inbreukplegers aan de vergoeding van de schade van hun directe en indirecte afnemers en leveranciers, bedraagt ten hoogste de vergoeding van de schade van zijn directe en indirecte afnemers en leveranciers, in evenredigheid met de mate waarin de aan hem toe te rekenen omstandigheden tot de schade hebben bijgedragen.

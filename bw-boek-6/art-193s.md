@@ -1,0 +1,2 @@
+# Artikel 193s
+Een rechtsvordering tot vergoeding van schade door een inbreuk op het mededingingsrecht verjaart door verloop van vijf jaren na de aanvang van de dag, volgende op die waarop de inbreuk is stopgezet en de benadeelde met de inbreuk, de schade die hij dientengevolge lijdt en de daarvoor aansprakelijke persoon bekend is geworden of redelijkerwijs bekend kan worden geacht, en in ieder geval door verloop van twintig jaren na de aanvang van de dag volgende op die waarop de inbreuk is stopgezet.

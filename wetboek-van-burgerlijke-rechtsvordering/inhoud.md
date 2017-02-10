@@ -134,6 +134,7 @@
 ##### § 4. Ontbinding van een geregistreerd partnerschap
 ### titel Zevende. Enige bijzondere rechtsplegingen
 #### afdeling Eerste. Afschrift, uittreksel en inzage van akten en andere bewijsmiddelen
+#### Afdeling 1A. Toegang tot bescheiden in zaken betreffende schending van mededingingsrecht
 #### afdeling Tweede. Van gerechtelijke bewaring
 ### titel Negende. Van de formaliteiten, vereist voor de tenuitvoerlegging van in vreemde Staten tot stand gekomen executoriale titels
 #### afdeling Eerste. Algemene bepalingen

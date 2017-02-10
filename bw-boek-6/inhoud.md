@@ -27,6 +27,7 @@
 #### Afdeling 2. Aansprakelijkheid voor personen en zaken
 #### Afdeling 3. Produktenaansprakelijkheid
 #### Afdeling 3A. Oneerlijke handelspraktijken
+#### Afdeling 3B. Schending van mededingingsrecht
 #### Afdeling 4. Misleidende en vergelijkende reclame
 #### Afdeling 4A. Aansprakelijkheid bij elektronisch rechtsverkeer
 #### Afdeling 5. Tijdelijke regeling verhaalsrechten
