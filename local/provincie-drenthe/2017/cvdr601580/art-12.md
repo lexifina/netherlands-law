@@ -1,0 +1,3 @@
+# Artikel 12,. Ter inzage leggen van stukken
+1. Stukken die ter toelichting van de onderwerpen of de voorstellen op de agenda dienen, worden gelijktijdig met het verzenden van de oproep voor een ieder bij de Statengriffie ter inzage gelegd. Indien na het verzenden van de oproep aanvullend stukken ter inzage worden gelegd, wordt hiervan mededeling gedaan aan de leden van Provinciale Staten.
+2. Indien omtrent stukken op grond van artikel 25, eerste of tweede lid, van de Provinciewet geheimhouding is opgelegd, blijven deze stukken, in afwijking van het eerste lid, onder berusting van de griffier en verleent de griffier de leden van Provinciale Staten inzage.

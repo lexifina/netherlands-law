@@ -1,0 +1,7 @@
+# Artikel 41,. Schriftelijke vragen
+1. De schriftelijke vragen worden kort en duidelijk geformuleerd. De vragen kunnen van een toelichting worden voorzien.
+2. De vragen worden bij de voorzitter van Provinciale Staten ingediend. Deze draagt er zorg voor dat de vragen zo spoedig mogelijk ter kennis van de overige leden van Provinciale Staten en Gedeputeerde Staten worden gebracht. Hierna worden de vragen op de website van Provinciale Staten gepubliceerd.
+3. Schriftelijke beantwoording vindt zo spoedig mogelijk plaats, in ieder geval binnen dertig dagen, nadat de vragen zijn binnengekomen. Indien beantwoording niet binnen deze termijnen kan plaatsvinden, stelt de commissaris van de Koning of het verantwoordelijk lid van Gedeputeerde Staten de vragensteller hiervan gemotiveerd in kennis, waarbij de termijn aangegeven wordt, waarbinnen beantwoording zal plaatsvinden. Dit bericht wordt behandeld als een antwoord.
+4. De schriftelijke antwoorden worden door het verantwoordelijk lid van Gedeputeerde Staten aan de leden van Provinciale Staten toegezonden en op de Lijst van ingekomen stukken geplaatst.
+5. De vragen en de antwoorden worden gelijktijdig met de stukken, als bedoeld in artikel 20, aan de leden van Provinciale Staten toegezonden.
+6. De vragensteller kan na de schriftelijke beantwoording, in de eerstvolgende Statenvergadering omtrent het door de commissaris van de Koning of door Gedeputeerde Staten gegeven antwoord. een verhelderende vraag stellen.

@@ -1,0 +1,9 @@
+# Artikel 30,. Stemming over zaken
+1. De voorzitter vraagt of stemming wordt verlangd. Indien geen stemming wordt gevraagd en ook de voorzitter dit niet verlangt, stelt de voorzitter vast dat het voorstel is aangenomen. Indien door één of meer leden stemming wordt gevraagd, doet de voorzitter daarvan mededeling, onder toevoeging van de wijze van stemmen (elektronisch, bij hand op steken of hoofdelijk).
+2. In de vergadering aanwezige leden kunnen aantekening in de besluitenlijst vragen, dat zij geacht willen worden te hebben tegengestemd of zich van stemming te hebben onthouden.
+3. Ten behoeve van de gevraagde hoofdelijke stemming roept de griffier de leden van Provinciale Staten bij naam op, om hun stem uit te brengen.
+4. De stemming begint bij het lid van wie de naam door de voorzitter bij loting wordt aangewezen. Vervolgens geschiedt de oproeping naar de volgorde van de presentielijst.
+5. Bij hoofdelijke stemming is ieder ter vergadering aanwezig lid dat zich niet op grond van de Provinciewet van deelneming aan de stemming moet onthouden, verplicht zijn stem uit te brengen.
+6. Bij hoofdelijke stemming brengen de leden hun stem uit door het woord 'voor' of 'tegen' uit te spreken, zonder enige toevoeging.
+7. Heeft een lid zich bij het uitbrengen van zijn stem vergist, dan kan hij deze vergissing nog herstellen voordat het volgende lid gestemd heeft. Bemerkt het lid zijn vergissing pas later, dan kan hij nadat de voorzitter de uitslag van de stemming bekend heeft gemaakt wel aantekening vragen dat hij zich heeft vergist; in de uitslag van de stemming brengt dit echter geen verandering.
+8. De voorzitter deelt de uitslag na afloop van de stemming mede, met vermelding van het aantal voor en tegen uitgebrachte stemmen. Hij doet daarbij tevens mededeling van het genomen besluit.

@@ -1,0 +1,4 @@
+# Artikel 9,. Oproep
+1. De voorzitter zendt ten minste acht dagen voor een vergadering de leden van Provinciale Staten een digitale oproep onder vermelding van dag, tijdstip en plaats van de vergadering en voorzien van de voorlopige agenda van de vergadering.
+2. De bijbehorende stukken, met uitzondering van de in artikel 25, eerste en tweede lid, van de Provinciewet bedoelde stukken worden tegelijkertijd bekend gemaakt via het stateninformatiesysteem.
+3. Indien een aanvullende agenda wordt vastgesteld als bedoeld in artikel 10, tweede lid, worden deze agenda en de daarbij behorende stukken, met uitzondering van de in artikel 25, eerste en tweede lid, van de Provinciewet bedoelde stukken zo spoedig mogelijk, doch uiterlijk 48 uur voor aanvang van de vergadering bekend gemaakt via het stateninformatiesysteem.
