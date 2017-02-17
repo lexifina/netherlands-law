@@ -1,0 +1,3 @@
+# Artikel 17a,. Rondvraag
+Commissieleden kunnen gebruikmaken van de rondvraag voor het stellen van vragen over actuele onderwerpen die niet direct een behandeling als agendapunt behoeven. Is dit laatste wel het geval dan zal de voorzitter de beraadslaging afbreken met het verzoek het punt te agenderen voor een volgende vergadering.
+Voorafgaand aan de vergadering moet aan de voorzitter gemeld worden dat van de rondvraag gebruik gemaakt gaat worden en wat het onderwerp is. De voorzitter bepaalt vervolgens, indien er meer verzoeken liggen, de volgorde van de onderwerpen. Tevens stelt hij de desbetreffende gedeputeerde en de leden van de commissie, met het oog op een zorgvuldige voorbereiding, voorafgaand aan de vergadering op de hoogte van de vraag.

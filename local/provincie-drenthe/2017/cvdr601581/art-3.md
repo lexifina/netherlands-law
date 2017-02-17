@@ -1,0 +1,5 @@
+# Artikel 3,. Taken
+Een Statencommissie heeft de volgende taken.
+• Het uitbrengen van advies aan Provinciale Staten over een voorstel of onderwerp dat betrekking heeft op de in artikel 2, tweede en derde lid, genoemde onderwerpen.
+• Het uitbrengen van advies aan Provinciale Staten uit eigener beweging.
+• Het voeren van overleg met het college of de commissaris van de Koning over in ieder geval door het college of de commissaris van de Koning verstrekte inlichtingen en het gevoerde bestuur ten aanzien van de in artikel 2, tweede en derde lid, genoemde onderwerpen.
