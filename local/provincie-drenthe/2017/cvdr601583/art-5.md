@@ -1,0 +1,5 @@
+# Artikel 5.. Aanvraag
+1. Onverminderd het bepaalde in artikel 1.7 van de Verordening bevat de aanvraag om subsidie een omschrijving van de organisatie waaruit blijkt dat de organisatie beschikt over voldoende gekwalificeerd en getraind personeel om de activiteit uit te voeren, de curricula vitae van het personeel dat de kennisoverdrachtsdiensten en voorlichtingsdiensten aan gaat bieden, waaronder minimaal van de aanvrager zelf of van een medewerker, bij de aanvrager in loondienst.
+2. Indien het voornemen is om voor deelname aan een kennisoverdrachtsactiviteit bij de deelnemers een bijdrage in rekening te brengen, dient dit inzichtelijk gemaakt te worden bij de subsidieaanvraag.
+3. Een subsidieaanvraag kan worden ingediend bij Gedeputeerde Staten via het Samenwerkingsverband Noord-Nederland (SNN) door middel van een daarvoor ontwikkeld webportaal dat bereikbaar is via www.snn.eu/pop3.
+4. Een aanvraag voor subsidie wordt ingediend met gebruikmaking van een door het SNN opgesteld volledig ingevuld format projectplan, vergezeld van de van toepassing zijnde bijlagen. Hiervoor dienen door het SNN verstrekte vaste formats te worden gebruikt.
