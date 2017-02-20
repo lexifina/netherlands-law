@@ -1,0 +1,4 @@
+# Artikel 7,. Aanvraag
+Een aanvraag voor subsidie wordt ingediend door middel van het overleggen van de volgende bescheiden:
+• factuur van het onderzoeksbureau voor de voortoets
+• rapportage van het onderzoeksbureau (voortoets).

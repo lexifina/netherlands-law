@@ -1,0 +1,2 @@
+# Artikel 2,. Doel
+Deze regeling heeft als doel om agrariërs die drainagebuizen of beregeningsputten willen aanleggen in de omgeving van een Natura 2000-gebied, zoals aangegeven op de als onderzoeks- en bufferzones aangewezen gebieden op de bijbehorende geografische kaart, financieel te ondersteunen door middel van een financiële vergoeding voor de verplichte voortoets. Een en ander conform de notitie Drainage en beregening Natura 2000-gebieden, zoals gepubliceerd in Provinciaal Blad 543 van 2016.

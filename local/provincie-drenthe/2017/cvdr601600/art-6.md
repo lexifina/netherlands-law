@@ -1,0 +1,2 @@
+# Artikel 6,. Aanvraagperiode
+Een aanvraag voor subsidie kan worden ingediend tot 31 december 2019.

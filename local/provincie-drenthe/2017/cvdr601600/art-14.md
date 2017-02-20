@@ -1,0 +1,3 @@
+# Artikel 14,. Bevoorschotting en betaling
+1. Gedeputeerde Staten verstrekken geen voorschot.
+2. Betaling vindt plaats op basis van de vereisten zoals opgenomen in artikel 7 van deze regeling.
