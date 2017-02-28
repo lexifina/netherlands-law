@@ -27,7 +27,6 @@
 ### § 7.4. Gegevensverwerking ten behoeve van de uitvoering van de wet en ten behoeve van beleidsinformatie
 ## Hoofdstuk 8. Financiën en verantwoording
 ### § 8.1. Algemeen
-### § 8.2. Ouderbijdrage
 ### § 8.3. Financiële verantwoording
 ### § 8.4. Verwerking van persoonsgegevens
 ## Hoofdstuk 9. Toezicht en handhaving
