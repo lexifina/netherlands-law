@@ -7,5 +7,6 @@
 ### Afdeling C. Beslissing op het verzoek tot uitlevering
 ### Afdeling D. Voortgezette vrijheidsbeneming en verwijdering uit Nederland
 ### Afdeling E. Verkorte procedure
+### Afdeling F. Recht op rechtsbijstand
 ## Hoofdstuk IV. Andere vormen van rechtshulp
 ## Hoofdstuk V. Slotbepalingen
