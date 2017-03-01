@@ -1,0 +1,3 @@
+# Artikel 1,. onder dd en gg
+Het werkingsgebied omvat de gemeenten Coevorden, Emmen en Hoogeveen. De gemeenten Coevorden, Hoogeveen en een deel van Emmen behoren tot de zogenaamde steungebieden (zie bijlage 4). Steun aan ondernemingen die projecten uitvoeren in deze steungebieden dient in overeenstemming te zijn met de artikelen 13 en 14 van de AGVV.
+De steun aan ondernemingen die projecten uitvoeren in het overige deel van het werkingsgebied, zijnde het deel van het werkingsgebied dat niet is aangewezen als steungebied (zie bijlage 4), dient in overeenstemming te zijn met artikel 17 van de AGVV. Dit artikel bepaalt tevens dat grootbedrijven uit deze buurten, zijnde niet behorende tot het steungebied, niet in aanmerking komen voor subsidie.
