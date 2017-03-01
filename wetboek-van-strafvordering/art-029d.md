@@ -1,0 +1,2 @@
+# Artikel 29d
+De taken en bevoegdheden die in deze titel aan de hulpofficier van justitie zijn toegekend, kunnen ook door de officier van justitie worden uitgeoefend.

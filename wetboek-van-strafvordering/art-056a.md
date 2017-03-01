@@ -1,0 +1,6 @@
+# Artikel 56a
+1. Nadat de aangehouden verdachte aan de hulpofficier van justitie of de officier van justitie is voorgeleid, kan deze bevelen dat de verdachte wordt opgehouden voor onderzoek dan wel in vrijheid wordt gesteld. De hulpofficier van justitie kan voorts beslissen om de verdachte onverwijld voor te geleiden aan de officier van justitie.
+2. De verdachte van een misdrijf waarvoor voorlopige hechtenis is toegelaten kan ten hoogste negen uur worden opgehouden voor onderzoek; de verdachte van een strafbaar feit waarvoor voorlopige hechtenis niet is toegelaten ten hoogste zes uur. De tijd tussen middernacht en negen uur 's morgens wordt voor de berekening van deze termijnen niet meegerekend. De ophouding vindt plaats in het belang van het onderzoek.
+3. Voor het einde van de periode, bedoeld in het tweede lid, of zoveel eerder als het onderzoek dat toelaat, wordt de verdachte in vrijheid gesteld of in verzekering gesteld.
+4. Het onderzoek, bedoeld in het eerste lid, omvat mede de identificatie van de verdachte, de voorbereidingen voor het verhoor, het verhoor en het uitreiken van mededelingen in persoon over het vervolg van de strafzaak.
+5. Tijdens het ophouden voor onderzoek wordt de verdachte verhoord op de wijze bepaald in de artikelen 29 en 29a.

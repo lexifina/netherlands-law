@@ -1,0 +1,4 @@
+# Artikel 56b
+1. Indien de identificatie van de aangehouden verdachte van een strafbaar feit waarvoor voorlopige hechtenis niet is toegelaten, niet binnen de in artikel 56a, tweede lid, bedoelde termijn kan worden afgerond, kan die termijn op bevel van de hulpofficier van justitie of de officier van justitie voor wie de verdachte is geleid eenmaal met ten hoogste zes uur worden verlengd.
+2. Het bevel tot verlenging op grond van het eerste lid is gedagtekend en ondertekend. Het bevat een korte omschrijving van het strafbare feit ten aanzien waarvan een verdenking bestaat en de feiten of omstandigheden waarop de verdenking is gegrond.
+3. De verdachte wordt in het bevel met name of, wanneer zijn naam onbekend is, zo duidelijk mogelijk aangewezen. Een afschrift van het bevel wordt hem onverwijld uitgereikt. Indien de verdachte de Nederlandse taal niet of onvoldoende beheerst, wordt hem de inhoud van het bevel mondeling in een voor hem begrijpelijke taal medegedeeld.

@@ -9,10 +9,8 @@
 #### afdeeling Zesde. Behandeling door de raadkamer
 ### Titel II. De verdachte
 ### Titel III. De raadsman
-#### Algemeene bepaling
-#### afdeeling Eerste. Keuze van een raadsman
-#### afdeeling Tweede. Toevoeging van een raadsman
-#### afdeeling Derde. Bevoegdheden van den raadsman betreffende het verkeer met den verdachte en de kennisneming van processtukken
+#### afdeling Eerste. Optreden raadsman
+#### afdeling Tweede. Bevoegdheden van de raadsman betreffende het verkeer met de verdachte en de kennisneming van processtukken
 ### Titel IIIA. Het slachtoffer
 #### afdeling Eerste. Rechten van het slachtoffer
 #### afdeling Tweede. Schadevergoeding

@@ -1,2 +1,2 @@
 # Artikel 187a
-Aan de verdachte die geen raadsman heeft wordt op last van de rechter-commissaris onverwijld een raadsman toegevoegd, indien die raadsman krachtens het bepaalde in artikel 186a, eerste lid, of 187 bevoegd zou zijn enig verhoor bij te wonen.
+Voor de verdachte die geen raadsman heeft, wordt op last van de rechter-commissaris door het bestuur van de raad voor rechtsbijstand een raadsman aangewezen, indien die raadsman op grond van artikel 186a, eerste lid, of 187 bevoegd zou zijn enig verhoor bij te wonen.
