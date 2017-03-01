@@ -8,6 +8,8 @@ c. het bepaalde in artikel 29, tweede lid;
 d. het recht op kennisneming van de processtukken op de wijze bepaald in de artikelen 30 tot en met 34;
 e. de termijn waarbinnen de verdachte, voor zover hij niet in vrijheid is gesteld, krachtens dit wetboek voor de rechter-commissaris wordt geleid;
 f. de mogelijkheden om krachtens dit wetboek om opheffing of schorsing van de voorlopige hechtenis te verzoeken;
-g. de bij algemene maatregel van bestuur aangewezen rechten.
+g. het recht om een persoon in kennis te doen stellen van zijn vrijheidsbeneming, bedoeld in artikel 27e, eerste lid;
+h. het recht om de consulaire post in kennis te doen stellen van zijn vrijheidsbeneming, bedoeld in artikel 27e, tweede lid;
+i. de bij algemene maatregel van bestuur aangewezen rechten.
 4. Aan een verdachte die de Nederlandse taal niet of onvoldoende beheerst, wordt de mededeling van rechten in een voor hem begrijpelijke taal gedaan.
 5. In het proces-verbaal wordt melding gemaakt van de mededeling van rechten.
