@@ -4,6 +4,7 @@
 #### afdeling Eerste. Rechtsmacht van de Nederlandse rechter
 #### afdeling Tweede. Enkelvoudige en meervoudige kamers
 #### afdeling Derde. Algemene voorschriften voor procedures
+#### afdeling Derde A. Algemene voorschriften voor procedures
 #### afdeling Vierde. Wraking en verschoning van rechters
 #### afdeling Vijfde. Het openbaar ministerie en de procureur-generaal bij de Hoge Raad
 #### afdeling Vijfde A. De Autoriteit Consument en Markt en de commissie van de Europese gemeenschappen
@@ -41,7 +42,7 @@
 ##### § 1. Algemeen
 ##### § 2. Kosten
 #### afdeling Dertiende. Afbreking van de instantie
-##### § 1. Doorhaling op de rol
+##### § 1. Doorhaling ter griffie
 ##### § 2. Afstand van instantie
 ##### § 3. Verval van instantie
 #### afdeling Veertiende. Het kort geding
@@ -61,14 +62,14 @@
 ### titel Achtste
 ### titel Negende. Verzet door derden
 ### titel Tiende. Herroeping
-#### afdeling Eerste. Herroeping van vonnissen
+#### afdeling Eerste. Herroeping van vonnissen en arresten
 #### afdeling Tweede. Herroeping van beschikkingen
 ### titel Tiende A. Prejudiciële vragen aan de Hoge Raad
 ### titel Elfde. Cassatie
-#### afdeling Eerste. Van de zaken aan cassatie onderworpen
-#### afdeling Tweede. Van de termijn van beroep en van deszelfs schorsende kracht
-#### afdeling Derde. Van de rechtspleging in cassatie
-#### afdeling Vierde. Van de uitspraak in cassatie
+#### afdeling Eerste. Vorderingsprocedures aan cassatie onderworpen
+#### afdeling Tweede. De termijn van beroep in cassatie in vorderingsprocedures en de schorsende kracht daarvan
+#### afdeling Derde. Van de rechtspleging in cassatie in vorderingsprocedures
+#### afdeling Vierde. Uitspraak in cassatie in vorderingsprocedures
 #### afdeling Vijfde. Van beroep in cassatie tegen beschikkingen op rekest
 ## Boek Tweede. Van de gerechtelijke tenuitvoerlegging van vonnissen, beschikkingen en authentieke akten
 ### titel Eerste. Algemene regels
