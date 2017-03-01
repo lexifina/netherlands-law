@@ -7,9 +7,11 @@
 ### Afdeling 2. Procedure voor overlevering
 #### § A. Voorlopige aanhouding
 #### § B. Aanhouding
+#### § Ba. Advocaat in uitvaardigende lidstaat
 #### § C. Beslissing over de overlevering
 #### § D. Voortgezette vrijheidsbeneming en feitelijke overlevering
 #### § E. Verkorte procedure
+#### § F. Recht op rechtsbijstand
 ## Hoofdstuk III. Overlevering aan Nederland
 ## Hoofdstuk IV. Andere vormen van rechtshulp
 ### Afdeling 1. Op verzoek van het buitenland

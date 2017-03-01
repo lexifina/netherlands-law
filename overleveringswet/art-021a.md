@@ -1,0 +1,2 @@
+# Artikel 21a
+De opgeëiste persoon die is aangehouden, kan verzoeken een advocaat in de uitvaardigende lidstaat aan te wijzen met het oog op het, door het verstrekken van informatie en advies, verlenen van bijstand aan zijn raadsman in Nederland ten behoeve van de procedure voor overlevering in Nederland. De officier van justitie stelt na ontvangst van het verzoek de uitvaardigende justitiële autoriteit terstond van het verzoek in kennis; de termijnen voor de behandeling van het Europees aanhoudingsbevel gelden onverkort.
