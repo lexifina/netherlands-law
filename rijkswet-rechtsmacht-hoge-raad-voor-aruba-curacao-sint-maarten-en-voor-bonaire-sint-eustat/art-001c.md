@@ -1,0 +1,2 @@
+# Artikel 1c
+De Hoge Raad neemt ten aanzien van belastingzaken in Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba, voor zover in deze rijkswet niet anders is bepaald, in overeenkomstige gevallen, op overeenkomstige wijze en met overeenkomstige rechtsgevolgen als ten aanzien van belastingzaken in het Europese deel van het Koninkrijk, kennis van een gestelde prejudiciële vraag.

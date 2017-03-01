@@ -1,0 +1,2 @@
+# Artikel 1a
+De Hoge Raad neemt in belastingzaken met betrekking tot Aruba, Curaçao, Sint Maarten en de openbare lichamen Bonaire, Sint Eustatius en Saba kennis van een beroep in cassatie, ingesteld hetzij door de belanghebbende of door Onze Minister van Financiën van onderscheidenlijk Aruba, Curaçao, Sint Maarten of Nederland, hetzij «in het belang der wet» door de procureur-generaal bij de Hoge Raad.
