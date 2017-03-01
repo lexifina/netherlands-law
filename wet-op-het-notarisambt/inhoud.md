@@ -18,5 +18,5 @@
 ## Titel IX. De tuchtrechtspraak en het toezicht
 ### Afdeling 1. De tuchtrechtspraak
 ### Afdeling 2. Het toezicht
-## Titel IXa. Het Notarieel Pensioenfonds
+## Titel IXa. Het pensioen
 ## Titel X. Overgangs- en slotbepalingen
