@@ -1,0 +1,3 @@
+# Artikel 30l
+1. Tijdens de mondelinge behandeling ondervraagt de rechter partijen. Partijen kunnen elkaar vragen stellen, behoudens de bevoegdheid van de rechter om te beletten dat aan een bepaalde vraag gevolg wordt gegeven.
+2. Een verklaring omtrent door haar te bewijzen feiten kan in het voordeel van de partij die haar aflegde geen bewijs opleveren. Overigens kan de rechter uit de afgelegde verklaringen, uit een niet-verschijnen op de mondelinge behandeling of uit een weigering om te antwoorden of het proces-verbaal te ondertekenen de gevolgtrekking maken die hij geraden acht, behoudens artikel 154.
