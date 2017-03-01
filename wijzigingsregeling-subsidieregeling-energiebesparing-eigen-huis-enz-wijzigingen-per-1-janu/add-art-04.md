@@ -1,0 +1,2 @@
+# Artikel IV
+Op een aanvraag om subsidieverlening op grond van artikel 7, eerste lid, of artikel 11, eerste lid, van de Subsidieregeling energiebesparing eigen huis, ingediend voor 1 maart 2017, alsmede met betrekking tot enig bezwaar of beroep, ingesteld tegen een beslissing over een dergelijke aanvraag, blijft artikel 14, eerste lid, onderdelen b, c, h (oud) en l (oud), van de Subsidieregeling energiebesparing eigen huis van toepassing zoals die voor die datum luidde.
