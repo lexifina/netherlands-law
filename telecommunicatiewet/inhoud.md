@@ -1,6 +1,8 @@
 # Inhoud
 ## Hoofdstuk 1. Algemene bepalingen
 ## Hoofdstuk 2. Mededeling en registratie
+### § 2.1. Aanleg of aanbieden openbare elektronische communicatienetwerken of -diensten
+### § 2.2. Het verlenen van vertrouwensdiensten
 ## Hoofdstuk 3. Frequenties
 ### § 3.1. Frequentieplan, behoefte-onderbouwingsplan en frequentieregister
 ### § 3.2. Toewijzing van frequentieruimte voor publieke taken
