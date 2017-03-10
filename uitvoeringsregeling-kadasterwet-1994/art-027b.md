@@ -1,0 +1,5 @@
+# Artikel 27b
+1. Indien het verzoek, bedoeld in artikel 26, overeenkomstig artikel 26c in elektronische vorm is ingediend, stelt de bewaarder het complexnummer of het nummer van het netwerk vast en voorziet het verzoek en het afschrift van de tekening van een gedagtekende verklaring, waarin het complexnummer of het nummer van het netwerk wordt vermeld. De bewaarder voorziet de verklaring van een elektronische handtekening.
+2. Indien het afschrift van de tekening uit meerdere deeltekeningen bestaat, worden de overzichtstekening en alle deeltekeningen voorzien van de verklaring, bedoeld in het eerste lid.
+3. Nadat de bewaarder het complexnummer of het nummer van het netwerk heeft vastgesteld, vervaardigt hij een elektronisch afschrift van het verzoek, bedoeld in artikel 26. De bewaarder zendt het afschrift van het verzoek, voorzien van de verklaring, bedoeld in het eerste lid, en zijn elektronische handtekening terug aan de notaris. Een exemplaar van het verzoek en het elektronische afschrift van de tekening blijven bij de Dienst berusten.
+4. De elektronische handtekening van de bewaarder, bedoeld in het eerste en derde lid, voldoet aan artikel 7e van de wet.

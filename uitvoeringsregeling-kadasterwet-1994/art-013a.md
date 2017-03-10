@@ -1,0 +1,2 @@
+# Artikel 13a
+Indien in een in te schrijven stuk de kadastrale aanduiding moet worden vermeld van een onroerende zaak, die bestaat uit één of meer gedeelten van een kadastraal perceel, geschiedt zulks, naast vermelding van de kadastrale aanduiding, door een tekening naar genoegen van de bewaarder mee in te schrijven waarop de ligging van de betreffende gedeelten is weergegeven op de kadastrale kaart.
