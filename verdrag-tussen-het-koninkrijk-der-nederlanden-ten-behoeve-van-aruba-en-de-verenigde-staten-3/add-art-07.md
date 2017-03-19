@@ -1,0 +1,14 @@
+# Article VII. Passenger screening methods at the preclearance airport
+The Competent Authorities shall establish, and DCA shall ensure implementation of, mutually acceptable procedures to ensure that passengers and other persons at the Preclearance Airport are prevented from carrying prohibited items into the Sterile Area or onboard an aircraft, and that such mutually acceptable procedures shall be comparable to the passenger Screening procedures required in the United States, and, at a minimum, shall ensure the following:
+A. All persons desiring to pass beyond the Passenger Screening Checkpoint or board an airplane shall be screened for prohibited items.
+B. Any person who refuses to be screened shall be denied passage beyond the Passenger Screening Checkpoint.
+C. Prior to an individual being permitted to pass beyond the Passenger Screening Checkpoint, Screening shall:
+1. Normally be accomplished through the use of metal detectors. Where metal detectors are not available, a physical body search shall be conducted using procedures comparable to those employed in the United States;
+2. Satisfactorily resolve all indications of unaccounted for metal on an individual's person.
+D. Other equipment or methods for Screening individuals may be used, as mutually agreed to, by the Competent Authorities in writing.
+E. Any person who cannot be cleared by using any combination of applicable Screening procedures shall be referred to a LEO.
+F. DCA shall ensure implementation of specific mutually acceptable procedures for the use of walk-through metal detectors ("WTMD"), hand-held metal detectors ("HHMD"), a physical body search, and other Screening methods, including alarm resolution protocols.
+G. Specific mutually acceptable procedures to screen the following passengers shall be established, and DCA shall ensure their implementation: diplomats; individuals exempted from Screening; individuals with disabilities; infants, toddlers, and young children; animals; armed LEOs; individuals in the custody of armed LEOs; individuals under protective escort of armed LEOs; emergency personnel; armed security guards; and aircraft operator flight crews.
+H. Secondary Screening of persons identified by an airline as Selectees pursuant to DHS/TSA's Selectee List shall be conducted using mutually acceptable procedures.
+I. Random secondary Screening of a mutually acceptable specified percentage of persons who enter the Passenger Screening Checkpoint at the Preclearance Airport shall be conducted.
+J. When contraband or a security threat involving a passenger subject to Preclearance is detected at a Passenger Screening Checkpoint or otherwise during the passenger Screening process at the Preclearance Airport, U.S. Customs and Border Protection personnel, such as the Port Director or on-duty shift supervisor, will be immediately notified of the event.

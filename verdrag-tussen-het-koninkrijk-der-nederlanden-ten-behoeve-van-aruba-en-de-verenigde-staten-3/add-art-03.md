@@ -1,0 +1,5 @@
+# Article III. Implementation
+A. Annexes to this Agreement are legally binding and constitute an integral part of this Agreement.
+B. The duly authorized representatives of DHS/TSA and MT, in accordance with the terms and conditions of this Agreement, may develop and conclude project arrangements, to be documented as non-legally binding appendices to this Agreement ("Appendices"), delineating their cooperative activities. The Appendices shall contain a description of the type of cooperation to be performed, the personnel and other resources required to accomplish the tasks, the estimated costs, implementation plans, the type of equipment to be used or loaned (if any), and duration, as appropriate. Any activity conducted under an Appendix shall be consistent with and subject to the terms of this Agreement.
+C. The designated official within the DHS/TSA for the coordination and management of this Agreement is the Assistant Administrator of the Office of Global Strategies or his/her designee.
+D. For Aruba DCA is responsible for the coordination and management of this Agreement.

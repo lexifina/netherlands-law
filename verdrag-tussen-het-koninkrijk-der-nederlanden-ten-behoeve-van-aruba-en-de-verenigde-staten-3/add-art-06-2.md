@@ -1,0 +1,9 @@
+# Artikel VI. Normen voor screeners op de voorinspectieluchthaven
+A. De bevoegde autoriteiten stellen voor alle personen die de screening van passagiers en handbagage op de voorinspectieluchthaven verrichten normen vast die vergelijkbaar zijn met de normen voor screeners in de Verenigde Staten en DCA waarborgt de implementatie ervan. Met deze normen dient bijgevolg te worden gewaarborgd dat screeners op de voorinspectieluchthaven:
+1. fysiek en qua opleiding voldoen aan minimumeisen;
+2. met goed gevolg een antecedentenonderzoek ondergaan dat vergelijkbaar is met het onderzoek dat wordt verricht naar screeners op de luchthavens in de Verenigde Staten;
+3. formele theoretische training, training op de werkvloer, nascholing en, zo nodig, remedial training afronden die vergelijkbaar is met het niveau van de trainingen voor screeners op de luchthavens in de Verenigde Staten. De training omvat ten minste instructie in deugdelijke screeningtechnieken, fysieke inspectie, gebruik van metaaldetectoren, gebruik van röntgensystemen en Threat Image Projection training of een vergelijkbaar alternatief;
+4. worden onderworpen aan een programma waarbij hun functioneren wordt getest door onaangekondigde evaluatie van hun vaardigheden ten aanzien van het ontdekken en behandelen van personen en goederen die niet mogen worden toegelaten tot de steriele zone in overeenstemming met het Arubaanse recht; en
+5. worden onderworpen aan een programma van jaarlijkse hercertificering van screeningvaardigheden met gebruikmaking van zowel schriftelijke examens als praktische toepassingen.
+De normen kunnen nader worden omschreven in een aanhangsel bij dit Verdrag.
+B. DCA waarborgt de implementatie op de voorinspectieluchthaven door te zorgen voor voldoende personeel en toezicht om de configuratie bij ieder screening checkpoint voor passagiers te ondersteunen.
