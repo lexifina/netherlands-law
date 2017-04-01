@@ -1,0 +1,4 @@
+# Artikel 11 bis. Bestrijding van terrorisme
+De partijen uiten opnieuw hun krachtige veroordeling van alle daden van terrorisme en verbinden zich ertoe het terrorisme te bestrijden door internationale samenwerking overeenkomstig het Handvest van de Verenigde Naties en het internationale recht, de desbetreffende verdragen en instrumenten en met name de volledige tenuitvoerlegging van de resoluties 1373 en 1456 van de Veiligheidsraad van de Verenigde Naties en andere relevante VN-resoluties. De partijen komen hiertoe overeen:
+– informatie uit te wisselen over terroristische groeperingen en de hen ondersteunende netwerken;
+– inzichten uit te wisselen over middelen en methoden om daden van terrorisme te bestrijden, onder meer op technisch gebied en wat opleiding betreft, en ervaringen uit te wisselen met betrekking tot het voorkomen van terrorisme.

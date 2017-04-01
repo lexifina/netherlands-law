@@ -1,0 +1,2 @@
+# Artikel 19 ter. Aanbestedingen met een schorsingsclausule
+Om te zorgen dat projecten snel van start kunnen gaan, kunnen de ACS-staten of de bevoegde organisatie of instantie op regionaal of intra-ACS-niveau in alle gevallen waarin dit gerechtvaardigd is, in overleg met de Commissie, zodra het onderzoek van het project afgerond is en voordat het financieringsbesluit is genomen, voor alle typen opdrachten aanbestedingen uitschrijven waarin een schorsingsclausule is opgenomen. Deze bepaling moet worden vermeld in het financieringsvoorstel.

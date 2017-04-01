@@ -1,0 +1,2 @@
+# Artikel 6 bis. Jaarlijkse rapportage over de Investeringsfaciliteit
+Vertegenwoordigers van de lidstaten van de Europese Unie die verantwoordelijkheid dragen voor de Investeringsfaciliteit en vertegenwoordigers van de ACS-staten, alsmede de Europese Investeringsbank, de Commissie, het secretariaat van de Raad van de Europese Unie en het ACS-secretariaat komen jaarlijks bijeen om het functioneren en de prestaties van en beleidskwesties betreffende de Investeringsfaciliteit te bespreken.
