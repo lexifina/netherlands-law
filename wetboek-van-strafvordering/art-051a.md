@@ -1,6 +1,11 @@
 # Artikel 51a
-1. Als slachtoffer wordt aangemerkt degene die als rechtstreeks gevolg van een strafbaar feit vermogensschade of ander nadeel heeft ondervonden. Met het slachtoffer wordt gelijkgesteld de rechtspersoon die als rechtstreeks gevolg van een strafbaar feit vermogensschade of ander nadeel heeft ondervonden.
-2. De officier van justitie draagt zorg voor een correcte bejegening van het slachtoffer.
-3. Aan het slachtoffer dat daarom verzoekt, wordt door de politie en de officier van justitie mededeling gedaan van de aanvang en voortgang in de zaak tegen de verdachte. In het bijzonder wordt ten minste door de politie schriftelijk mededeling gedaan van het afzien van opsporing of het inzenden van een proces-verbaal tegen een verdachte. De officier van justitie doet schriftelijk mededeling van de aanvang en de voortzetting van de vervolging, van de datum en het tijdstip van de terechtzitting en van de einduitspraak in de strafzaak tegen de verdachte. In daartoe aangewezen gevallen en in ieder geval indien sprake is van een misdrijf als bedoeld in artikel 51e, eerste lid, doet hij desgevraagd tevens mededeling van de invrijheidstelling van de verdachte of veroordeelde.
-4. Op verzoek van het slachtoffer wordt tevens mededeling gedaan van de mogelijkheden volgens welke hij schadevergoeding kan verkrijgen.
-5. Waar deze wet voorziet in een verzoek van een slachtoffer, kan een schriftelijk verzoek langs elektronische weg worden overgedragen met behulp van een bij algemene maatregel van bestuur aangewezen elektronische voorziening.
+1. In deze titel wordt verstaan onder:
+a. Slachtoffer:
+1°. degene die als rechtstreeks gevolg van een strafbaar feit vermogensschade of ander nadeel heeft ondervonden. Met het slachtoffer wordt gelijkgesteld de rechtspersoon die als rechtstreeks gevolg van een strafbaar feit vermogensschade of ander nadeel heeft ondervonden;
+2°. nabestaande: familieleden van een persoon wiens overlijden rechtstreeks veroorzaakt is door een strafbaar feit.
+b. Familieleden: de echtgenoot, de geregistreerde partner dan wel een andere levensgezel van het slachtoffer, de bloedverwanten in rechte lijn de bloedverwanten in de zijlijn tot en met de vierde graad en de personen die van het slachtoffer afhankelijk zijn;
+c. Minderjarig slachtoffer: elk slachtoffer dat jonger is dan achttien jaar;
+d. Herstelrecht: het in staat stellen van het slachtoffer en de verdachte of de veroordeelde, indien zij er vrijwillig mee instemmen, actief deel te nemen aan een proces dat gericht is op het oplossen van de gevolgen van het strafbare feit, met de hulp van een onpartijdige derde.
+2. Bij algemene maatregel van bestuur kunnen in het belang van een goede procesorde regels worden gesteld betreffende:
+a. het beperken van het aantal familieleden, dat aanspraak kan maken op de in deze titel opgenomen rechten, daarbij telkens rekening houdend met de specifieke omstandigheden, en
+b. het bepalen welke nabestaanden voorrang krijgen bij de uitoefening van de in deze titel opgenomen rechten.

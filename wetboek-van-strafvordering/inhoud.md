@@ -12,8 +12,9 @@
 #### afdeling Eerste. Optreden raadsman
 #### afdeling Tweede. Bevoegdheden van de raadsman betreffende het verkeer met de verdachte en de kennisneming van processtukken
 ### Titel IIIA. Het slachtoffer
-#### afdeling Eerste. Rechten van het slachtoffer
-#### afdeling Tweede. Schadevergoeding
+#### afdeling Eerste. Definities
+#### afdeling Tweede. Rechten van het slachtoffer
+#### afdeling Derde. Schadevergoeding
 ### Titel IIIC. : De deskundige
 ### Titel IV. Eenige bijzondere dwangmiddelen
 #### afdeeling Eerste. Aanhouding en inverzekeringstelling
