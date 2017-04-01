@@ -1,0 +1,2 @@
+# Artikel XIX
+Onder toepassing van artikel 12 van de Wet raadgevend referendum treedt deze wet in werking met ingang van de eerste dag van de eerste kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met dien verstande dat artikel I, onderdelen A, B, C, onder 1, eerste volzin, en onder 2, E, G tot en met M, O en Q, artikel III, onderdelen A tot en met F, M tot en met O en Q, artikel VII, onderdeel C, artikel IX, artikel X, onderdelen A en C, en de artikelen XII tot en met XVII terugwerken tot en met 1 januari 2017.
