@@ -1,0 +1,4 @@
+# Artikel 70cb
+Indien een aanspraak ingevolge een pensioenregeling als bedoeld in artikel 38n, eerste lid, van de Wet op de loonbelasting 1964 ingevolge artikel 38n, tweede lid, van die wet gedeeltelijk wordt prijsgegeven en voor het overige wordt omgezet in een aanspraak ingevolge een oudedagsverplichting als bedoeld in artikel 38p van die wet, wordt:
+a. in afwijking van artikel 25, vijfde lid, het verleende uitstel van betaling voor de belastingaanslag alleen beëindigd, voor zover de belasting en de revisierente waarvoor uitstel van betaling is verleend niet toerekenbaar is aan het gedeelte van de aanspraak dat wordt omgezet in een aanspraak ingevolge een oudedagsverplichting als bedoeld in artikel 38p van de Wet op de loonbelasting 1964;
+b. volgens bij ministeriële regeling te stellen regels kwijtschelding verleend voor het bedrag waarvoor het uitstel van betaling op grond van onderdeel a wordt beëindigd.
