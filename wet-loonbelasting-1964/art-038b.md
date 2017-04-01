@@ -1,2 +1,2 @@
 # Artikel 38b
-Voor bestaande aanspraken ingevolge een pensioenregeling als bedoeld in deze wet blijven de op het moment van ontstaan van deze aanspraken in deze wet opgenomen bepalingen die verband houden met deze aanspraken, van toepassing. In afwijking in zoverre van de eerste volzin is met betrekking tot de in de eerste volzin bedoelde aanspraken artikel 10, vierde lid, eveneens van toepassing.
+Een wijziging van de begrenzingen, bedoeld in artikel 18, derde lid, is niet van toepassing op aanspraken die vóór de datum van inwerkingtreding van die wijziging zijn ontstaan, voor zover die wijziging niet ten gunste van de werknemer of gewezen werknemer is.

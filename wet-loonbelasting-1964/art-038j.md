@@ -1,2 +1,0 @@
-# Artikel 38j
-Met betrekking tot een pensioentoezegging als bedoeld in artikel 19 van de Invoerings- en aanpassingswet Pensioenwet kan als verzekeraar blijven optreden een verzekeraar als bedoeld in artikel 19a, eerste lid, onderdelen d en e, zoals dat artikel luidde op de peildatum als bedoeld in artikel 1 van de Invoerings- en aanpassingswet Pensioenwet, en wordt onder een overgang als bedoeld in artikel 19b, tweede lid, eerste volzin, mede verstaan herverzekering bij een andere verzekeraar dan bedoeld in artikel 19a, eerste lid, onderdelen a, b, d, e en f.
