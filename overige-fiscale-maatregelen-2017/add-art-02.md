@@ -1,0 +1,2 @@
+# Artikel II
+Indien vóór 1 januari 2017 een eigen woning als bedoeld in artikel 3.111 van de Wet inkomstenbelasting 2001 is vervreemd waarbij het bedrag van de eigenwoningschuld onmiddellijk na vervreemding van die eigen woning lager was dan het bedrag van de eigenwoningschuld van die woning onmiddellijk voorafgaande aan die vervreemding, is artikel 10bis.6, vierde lid, tweede volzin, van die wet van overeenkomstige toepassing indien de uitkering vóór 1 juli 2017 plaatsvindt.

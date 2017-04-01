@@ -1,0 +1,2 @@
+# Artikel XVIIIA
+Wanneer de rechtshandelingen, bedoeld in artikel 9, twaalfde lid, van de Wet op de belasting van personenauto's en motorrijwielen 1992, door de Europese Commissie zijn vastgesteld en zijn gepubliceerd in het Publicatieblad van de Europese Unie, wordt dat artikel bij ministeriële regeling gewijzigd in die zin dat in dat artikel wordt verwezen naar die rechtshandelingen. Die ministeriële regeling kan voor zover nodig terugwerken tot en met de dag waarop die rechtshandelingen in werking zijn getreden.
