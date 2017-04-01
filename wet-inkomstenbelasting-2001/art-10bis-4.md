@@ -2,7 +2,7 @@
 1. Het voordeel uit kapitaalverzekering eigen woning is de rente die is begrepen in een kapitaalsuitkering uit levensverzekering die dient ter aflossing van de eigenwoningschuld.
 2. Van een kapitaalverzekering eigen woning is sprake zolang de verzekeringnemer of zijn partner een eigen woning heeft en:
 a. in de overeenkomst is bepaald dat de begunstigde de uitkering zal aanwenden ter aflossing van de eigenwoningschuld;
-b. in de overeenkomst is bepaald dat ten minste 15 jaar, of tot het overlijden van de verzekerde, jaarlijks premies ter zake van de verzekering worden voldaan waarbij de hoogste premie niet meer bedraagt dan het tienvoud van de laagste premie;
+b. in de overeenkomst is bepaald dat jaarlijks premies ter zake van de verzekering worden voldaan waarbij de hoogste premie niet meer bedraagt dan het tienvoud van de laagste premie;
 c. de verzekering recht geeft op een eenmalige kapitaalsuitkering bij leven of overlijden;
 d. de premies voor de verzekering verschuldigd zijn aan een levensverzekeraar als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.
 3. Een kapitaalverzekering eigen woning wordt geacht geheel tot uitkering te zijn gekomen bij de verzekeringnemer of, in geval van onherroepelijke begunstiging, bij de begunstigde, indien:
