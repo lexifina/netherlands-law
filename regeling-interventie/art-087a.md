@@ -1,2 +1,0 @@
-# Artikel 87a
-Zodra de Commissie van de Europese Unie daartoe een specifieke uitvoeringshandeling heeft vastgesteld, kan de Minister op aanvraag steun verlenen voor de particuliere opslag van mageremelkpoeder. Hij doet zulks in overeenstemming met de op de particuliere opslag van mageremelkpoeder van toepassing zijnde artikelen in Deel II, Titel I, Hoofdstuk I, Afdelingen 1, 3 en 4, van Verordening 1308/2013, in overeenstemming met Verordening 826/2008 en met inachtneming van de in de eerste volzin bedoelde specifieke uitvoeringshandeling.

@@ -1,2 +1,0 @@
-# Artikel 87i
-De uitslag bedraagt ten minste 1.000 kilogram per opslagpartij met dien verstande dat wanneer van een opslagpartij minder dan 1.000 kilogram in opslag is, de uitslag van de totale resterende hoeveelheid in een keer is toegestaan.

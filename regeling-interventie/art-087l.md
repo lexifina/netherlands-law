@@ -1,4 +1,0 @@
-# Artikel 87l
-1. De Minister is bevoegd tot verlening van een voorschot op grond van het bepaalde in artikel 31 van Verordening 826/2008.
-2. De contractant dient een verzoek om een voorschot in bij de Minister conform een bij de Minister op te vragen formulier.
-3. Het voorschot wordt berekend over alle opslagpartijen waarvan de contractuele opslag in één kalendermaand aanvangt.
