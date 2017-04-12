@@ -1,0 +1,2 @@
+# Artikel 7d
+Indien een Wlz-uitvoerder zijn overige taken, bedoeld in artikel 4.4, tweede lid, van het Besluit Wfsv, geheel of gedeeltelijk uitbesteedt, betaalt hij aan het zorgkantoor waaraan hij deze taken uitbesteedt per verzekerde een bedrag van 3,2694983 euro als vergoeding in de beheerskosten.
