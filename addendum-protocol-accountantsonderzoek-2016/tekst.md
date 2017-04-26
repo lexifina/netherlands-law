@@ -1,0 +1,164 @@
+# Tekst
+## 1 Addendum Protocol Accountantsonderzoek
+## 1.1 Algemeen
+Dit document is een addendum op het op 20 september 2016 door de raad van bestuur van de Nederlandse Zorgautoriteit (NZa) en het op 19 januari 2017 door het Ministerie van Volksgezondheid, Welzijn en Sport (VWS), vastgestelde Protocol Accountantsonderzoek 2016 CAK. Dit protocol is gepubliceerd in de Staatscourant en te raadplegen op de website van de NZa (www.nza.nl).
+## 1.2 Waarderingsgrondslagen
+De hierna opgenomen waarderingsgrondslagen voor de jaarrekening 2016 en de bestuurlijke verantwoording 2016 vervangen de betreffende waarderingsgrondslagen voor de jaarrekening 2016 en de bestuurlijke verantwoording 2016 in het Protocol Accountantsonderzoek 2016 CAK.
+## 1.2.1 Jaarrekening
+De jaarrekening 2016 wordt zoveel mogelijk ingericht conform Titel 9 van Boek 2 van het Burgerlijk Wetboek en de Richtlijnen voor de Jaarverslaggeving, die uitgegeven zijn door de Raad voor de Jaarverslaggeving. Indien het CAK ervoor kiest om af te wijken van Titel 9 van Boek 2 van het Burgerlijk Wetboek en de Richtlijnen voor de Jaarverslaggeving (met andere woorden kiest voor eigen grondslagen) wordt dit door het CAK expliciet toegelicht in zijn jaarrekening.
+## 1.2.2 Bestuurlijke verantwoording
+Het in de bestuurlijke verantwoording 2016 opgenomen overzicht van activa en passiva van de geldstromen van de door het CAK uitgevoerde wettelijke taken, de matrix bestuurlijke verantwoording VWS en de matrix bestuurlijke verantwoording NZa worden opgesteld op kasbasis. Indien het CAK ervoor kiest om hiervan af te wijken wordt dit door het CAK expliciet toegelicht in de bestuurlijke verantwoording.
+## 1.3 Controleverklaringen
+Door de Koninklijke Nederlandse Beroepsorganisatie van Accountants (NBA) is een nieuw stelsel van controleverklaringen opgesteld. In januari 2017 zijn deze controleverklaringen van toepassing verklaard voor de verantwoordingsjaren 2016 van publieke organisaties.
+De hierna opgenomen controleverklaringen voor de jaarrekening 2016 en de rechtmatigheidsverantwoording over de beheerskosten 2016 en de bestuurlijke verantwoording 2016 vervangen de betreffende controleverklaringen in het Protocol Accountantsonderzoek 2016 CAK.
+De strekking van het oordeel kan behalve goedkeurend ook met beperking, met oordeelonthouding of afkeurend zijn. Hiervoor wordt verwezen naar de dienovereenkomstige modellen van de NBA.
+## 1.3.1 Goedkeurende controleverklaring bij de jaarrekening en de rechtmatigheidsverantwoording
+Hierna is een voorbeeldtekst opgenomen voor een goedkeurende controleverklaring bij de jaarrekening en de rechtmatigheids-verantwoording over de beheerskosten van het CAK.
+Controleverklaring van de onafhankelijke accountant betreffende de in het financieel verslag van het CAK opgenomen jaarrekening 2016 en de rechtmatigheidsverantwoording over de beheerskosten 2016
+Aan: De raad van bestuur van het CAK te Den Haag
+A. Verklaring over de in het financieel verslag van het CAK opgenomen jaarrekening 2016 en de rechtmatigheidsverantwoording over de beheerskosten 2016
+Ons oordeel
+Wij hebben de in het financieel verslag op de pagina's … t/m … opgenomen jaarrekening 2016 en de op de pagina's … t/m … opgenomen rechtmatigheidsverantwoording over de beheerskosten 2016 van het CAK te Den Haag gecontroleerd.
+Naar ons oordeel is de jaarrekening 2016 van het CAK in alle van materieel belang zijnde aspecten opgesteld in overeenstemming met de door het CAK gekozen en beschreven grondslagen, zoals uiteengezet in xxxx van de toelichting van de jaarrekening, en met het Model Jaarverslaggeving 2016 CAK en het addendum op het Model Jaarverslaggeving 2016 CAK.
+Naar ons oordeel geeft de rechtmatigheidsverantwoording over de beheerskosten 2016 van het CAK een getrouw beeld van de financiële rechtmatigheid van de beheerskosten 2016 van het CAK in overeenstemming met de voor het CAK relevante wet- en regelgeving, zoals vastgelegd in de Kaderwet zelfstandige bestuursorganen, de Regeling bezoldiging en beheerskosten bestuursorganen volksgezondheid 2011 als uitwerking van de Kaderwet zelfstandige bestuursorganen, de bepalingen van en krachtens de Wet Normering bezoldiging Topfunctionarissen publieke en semipublieke sector (WNT) 2016, de rechtmatigheidscriteria van het Model Jaarverslaggeving 2016 CAK en het addendum op het Model Jaarverslaggeving 2016 CAK.
+De jaarrekening 2016 bestaat uit:
+1. een algemene toelichting op de balans en staat van baten en lasten;
+2. de balans per 31 december 2016, voorzien van een toelichting;
+3. de staat van baten en lasten over 2016, voorzien van een toelichting.
+De rechtmatigheidsverantwoording over de beheerskosten 2016, opgenomen in het directieverslag bestaat uit:
+1. de verantwoording over de financiële rechtmatigheid;
+2. de gehanteerde randvoorwaarden.
+De basis voor ons oordeel
+Wij hebben onze controle uitgevoerd volgens het Nederlands recht, waaronder ook de Nederlandse controlestandaarden, de Regeling Controleprotocol WNT 2016, het Protocol Accountantsonderzoek CAK 2016 en het addendum op het Protocol Accountantsonderzoek 2016 CAK vallen. Onze verantwoordelijkheden op grond hiervan zijn beschreven in de sectie 'Onze verantwoordelijkheden voor de controle van de jaarrekening en de rechtmatigheidsverantwoording over de beheerskosten'.
+Wij zijn onafhankelijk van het CAK zoals vereist in de Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten (ViO) en andere voor de opdracht relevante onafhankelijkheidsregels in Nederland. Verder hebben wij voldaan aan de Verordening gedrags- en beroepsregels accountants (VGBA).
+Wij vinden dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel.
+OPTIONELE TEKST
+Benadrukking van de basis voor financiële verslaggeving en beperking in gebruik en verspreidingskring
+Wij vestigen de aandacht op punt ... in de toelichting van de jaarrekening waarin de basis voor financiële verslaggeving uiteen is gezet. De basis voor de financiële verslaggeving betreft de door het CAK gekozen en beschreven grondslagen. De jaarrekening 2016 en de rechtmatigheidsverantwoording over de beheerskosten 2016 van het CAK en onze controleverklaring zijn derhalve uitsluitend bestemd voor de raad van bestuur van het CAK en het Ministerie van Volksgezondheid, Welzijn en Sport, de Nederlandse Zorgautoriteit en Zorginstituut Nederland en dient niet te worden verspreid aan of te worden gebruikt door anderen.
+B. Verklaring over de in het financieel verslag opgenomen andere informatie
+Naast de jaarrekening en de rechtmatigheidsverantwoording over de beheerskosten en onze controleverklaring daarbij, omvat het financieel verslag andere informatie, die bestaat uit:
+− het uitvoeringsverslag, verder aangeduid als het directieverslag:
+− het profiel, de organisatiestructuur en het gevoerde en voorgenomen beleid bij de uitvoering van de wettelijke taken, pagina's ... t/m ...;
+− de verantwoording over de ordelijkheid en controleerbaarheid van het gevoerde financiële beheer, pagina's ... t/m ...;
+− de verantwoording over of het beheer en de organisatie van het CAK voldoen aan de eisen van doelmatigheid, pagina's ... t/m ...;
+− de verantwoording over de resultaten van het door het CAK gevoerde beleid ter uitvoering van zijn wettelijke taken, pagina's ... t/m ...;
+− een overzicht met de kwantificering van het totaal van de aangegane inkoopcontracten in het verslagjaar, pagina's ... t/m ...;
+− de bestuursverklaring, pagina's ... t/m ...;
+− de verantwoording over de exploitatiekosten 2016;
+− overige gegevens, pagina's ... t/m ....
+Op grond van de hierna opgenomen werkzaamheden zijn wij van mening dat de andere informatie:
+− met de jaarrekening 2016 en de rechtmatigheidsverantwoording over de beheerskosten 2016 verenigbaar is en geen materiële afwijkingen bevat;
+− voldoet aan de inrichtingseisen zoals deze zijn opgenomen in het Model Jaarverslaggeving 2016 CAK en het addendum op het Model Jaarverslaggeving 2016 CAK.
+Wij hebben de andere informatie gelezen en hebben op basis van onze kennis en ons begrip, verkregen vanuit de controle van de jaarrekening 2016 en de rechtmatigheidsverantwoording over de beheerskosten 2016 of anderszins, overwogen of de andere informatie materiële afwijkingen bevat.
+Met onze werkzaamheden hebben wij voldaan aan de vereisten van het Protocol Accountantsonderzoek 2016 CAK, het addendum op het Protocol Accountantsonderzoek 2016 CAK en de Nederlandse Standaard 720. Deze werkzaamheden hebben niet dezelfde diepgang als onze controlewerkzaamheden bij de jaarrekening en de rechtmatigheidsverantwoording over de beheerskosten.
+De raad van bestuur is verantwoordelijk voor het opstellen van de andere informatie in overeenstemming met het Model Jaarverslaggeving 2016 CAK en het addendum op het Model Jaarverslaggeving 2016 CAK.
+C. Beschrijving van verantwoordelijkheden met betrekking tot de jaarrekening en de rechtmatigheidsverantwoording over de beheerskosten
+Verantwoordelijkheden van de raad van bestuur voor de jaarrekening en de rechtmatigheidsverantwoording over de beheerskosten
+De raad van bestuur is verantwoordelijk voor het opstellen van de jaarrekening in overeenstemming met de door het CAK gekozen en beschreven grondslagen, zoals uiteengezet in xxxx van de toelichting van de jaarrekening, en met het Model Jaarverslaggeving 2016 CAK en het addendum op het Model Jaarverslaggeving 2016 CAK.
+Ook is de raad van bestuur verantwoordelijk voor het opmaken van de rechtmatigheidsverantwoording over de beheerskosten als onderdeel van het directieverslag, die de financiële rechtmatigheid van de beheerskosten van het CAK getrouw dient weer te geven in overeenstemming met de voor het CAK geldende relevante wet- en regelgeving, zoals vastgelegd in de Kaderwet zelfstandige bestuursorganen, de Regeling bezoldiging en beheerskosten bestuursorganen volksgezondheid 2011 als uitwerking van de Kaderwet zelfstandige bestuursorganen, de bepalingen van en krachtens de WNT 2016 en de rechtmatigheidscriteria van het Model Jaarverslaggeving 2016 CAK en het addendum op het Model Jaarverslaggeving 2016 CAK.
+In dit kader is de raad van bestuur verantwoordelijk voor een zodanige interne beheersing die de raad van bestuur noodzakelijk acht om het opmaken van de jaarrekening en de rechtmatigheidsverantwoording over de beheerskosten mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fouten of fraude.
+Bij het opstellen van de jaarrekening en de rechtmatigheids-verantwoording over de beheerskosten moet de raad van bestuur afwegen of het CAK in staat is om haar werkzaamheden in continuïteit voort te zetten. Op grond van genoemd verslaggevingsstelsel moet de raad van bestuur de jaarrekening en de rechtmatigheidsverantwoording over de beheerskosten opstellen op basis van de continuïteitsveronderstelling, tenzij de raad van bestuur het voornemen heeft om het CAK te liquideren of de activiteiten te beëindigen of als beëindiging het enige realistische alternatief is. De raad van bestuur moet gebeurtenissen en omstandigheden waardoor gerede twijfel zou kunnen bestaan of het CAK haar activiteiten in continuïteit kan voortzetten, toelichten in de jaarrekening en de rechtmatigheidsverantwoording over de beheerskosten.
+Onze verantwoordelijkheden voor de controle van de jaarrekening en de rechtmatigheidsverantwoording over de beheerskosten
+Onze verantwoordelijkheid is het zodanig plannen en uitvoeren van een controleopdracht dat wij daarmee voldoende en geschikte controle-informatie verkrijgen voor het door ons af te geven oordeel.
+Onze controle is uitgevoerd met een hoge mate maar geen absolute mate van zekerheid waardoor het mogelijk is dat wij tijdens onze controle niet alle materiële fouten en fraude ontdekken.
+Afwijkingen kunnen ontstaan als gevolg van fouten of fraude en zijn materieel indien redelijkerwijs kan worden verwacht dat deze, afzonderlijk of gezamenlijk, van invloed kunnen zijn op de economische beslissingen die gebruikers op basis van deze jaarrekening en de rechtmatigheidsverantwoording over de beheerskosten nemen. De materialiteit beïnvloedt de aard, timing en omvang van onze controlewerkzaamheden en de evaluatie van het effect van onderkende afwijkingen op ons oordeel.
+Wij hebben deze accountantscontrole professioneel kritisch uitgevoerd en hebben waar relevant professionele oordeelsvorming toegepast in overeenstemming met de Nederlandse controlestandaarden, het Protocol Accountantsonderzoek 2016 CAK, het addendum op het Protocol Accountantsonderzoek 2016 CAK, de Regeling Controleprotocol WNT 2016, ethische voorschriften en de onafhankelijkheidseisen.
+Onze controle bestond onder andere uit:
+− het identificeren en inschatten van de risico's dat de jaarrekening en de rechtmatigheidsverantwoording over de beheerskosten afwijkingen van materieel belang bevatten als gevolg van fouten of fraude dan wel het niet rechtmatig tot stand komen van beheerskosten, het in reactie op deze risico's bepalen en uitvoeren van controlewerkzaamheden en het verkrijgen van controle-informatie die voldoende en geschikt is als basis voor ons oordeel. Bij fraude is het risico dat een afwijking van materieel belang niet ontdekt wordt groter dan bij fouten. Bij fraude kan sprake zijn van samenspanning, valsheid in geschrifte, het opzettelijk nalaten transacties vast te leggen, het opzettelijk verkeerd voorstellen van zaken of het doorbreken van de interne beheersing;
+− het verkrijgen van inzicht in de interne beheersing die relevant is voor de controle met als doel controlewerkzaamheden te selecteren die passend zijn in de omstandigheden. Deze werkzaamheden hebben niet als doel om een oordeel uit te spreken over de effectiviteit van de interne beheersing van de organisatie;
+− het evalueren van de geschiktheid van de gebruikte grondslagen voor financiële verslaggeving, de gebruikte financiële rechtmatigheidscriteria en het evalueren van de redelijkheid van schattingen door de raad van bestuur en de toelichtingen die daarover in de jaarrekening en de rechtmatigheidsverantwoording over de beheerskosten staan;
+− het vaststellen dat de door de raad van bestuur gehanteerde continuïteitsveronderstelling aanvaardbaar is. Tevens het op basis van de verkregen controle-informatie vaststellen of er gebeurtenissen en omstandigheden zijn waardoor gerede twijfel zou kunnen bestaan of de organisatie haar activiteiten in continuïteit kan voortzetten. Als wij concluderen dat er een onzekerheid van materieel belang bestaat, zijn wij verplicht om aandacht in onze controleverklaring te vestigen op de relevante gerelateerde toelichtingen in de jaarrekening en de rechtmatigheidsverantwoording over de beheerskosten. Als de toelichtingen inadequaat zijn, moeten wij onze verklaring aanpassen. Onze conclusies zijn gebaseerd op de controle-informatie die verkregen is tot de datum van onze controleverklaring. Toekomstige gebeurtenissen of omstandigheden kunnen er echter toe leiden dat een organisatie haar continuïteit niet langer kan handhaven;
+− het evalueren van de presentatie, structuur en inhoud van de jaarrekening en de rechtmatigheidsverantwoording over de beheerskosten en de daarin opgenomen toelichtingen;
+− het evalueren of de jaarrekening de onderliggende transacties en gebeurtenissen zonder materiële afwijkingen weergeeft; en
+− het evalueren of de rechtmatigheidsverantwoording over de beheerskosten een getrouw beeld geeft van de onderliggende transacties en gebeurtenissen.
+Wij communiceren met de raad van bestuur onder andere over de geplande reikwijdte en timing van de controle en over de significante bevindingen die uit onze controle naar voren zijn gekomen, waaronder eventuele significante tekortkomingen in de interne beheersing.
+Plaats en datum
+... (naam accountantspraktijk)
+... (naam accountant)
+## 1.3.2 Goedkeurende controleverklaring bij de bestuurlijke verantwoording
+Hieronder is een voorbeeldtekst opgenomen voor een goedkeurende controleverklaring bij de bestuurlijke verantwoording 2016 ten behoeve van het ministerie van Volksgezondheid, Welzijn en Sport, de Nederlandse Zorgautoriteit en Zorginstituut Nederland.
+CONTROLEVERKLARING VAN DE ONAFHANKELIJKE ACCOUNTANT BETREFFENDE DE BESTUURLIJKE VERANTWOORDING 2016
+Afgegeven ten behoeve van het Ministerie van Volksgezondheid, Welzijn en Sport, de Nederlandse Zorgautoriteit en Zorginstituut Nederland.
+Aan: De raad van bestuur van het CAK te Den Haag
+A. Verklaring over het in de bestuurlijke verantwoording van het CAK opgenomen financiële overzicht op 31 december 2016 en de matrices bestuurlijke verantwoording 2016
+Ons oordeel
+Wij hebben het in de bestuurlijke verantwoording van het CAK op de pagina's ... t/m ... opgenomen financiële overzicht op 31 december 2016 en de op de pagina's ... t/m ... opgenomen matrices bestuurlijke verantwoording 2016 gecontroleerd.
+Naar ons oordeel is het financiële overzicht op 31 december 2016 in alle van materieel belang zijnde aspecten juist en volledig opgesteld in overeenstemming met het Model Jaarverslaggeving 2016 CAK en het Addendum Model Jaarverslaggeving 2016 CAK.
+Voorts zijn wij van oordeel dat de in de matrices bestuurlijke verantwoording 2016 ten behoeve van het ministerie van Volksgezondheid, Welzijn en Sport, de Nederlandse Zorgautoriteit en Zorginstituut Nederland verantwoorde geldstromen 2016 inzake:
+− uitbetaalde tegemoetkomingen Wet tegemoetkoming chronisch zieken en gehandicapten (Wtcg);
+− afdracht ouderbijdragen op basis van de Jeugdwet;
+− betalingen van zorgaanspraken Algemene Wet Bijzondere Ziektekosten;
+− betalingen van zorgaanspraken Wet langdurige zorg (Wlz);
+− betalingen subsidieregeling extramurale behandeling;
+− betalingen subsidieregeling eerstelijns verblijf;
+− afdracht eigen bijdragen Zorg zonder Verblijf Algemene Wet Bijzondere Ziektekosten;
+− afdracht eigen bijdragen Zorg met Verblijf Algemene Wet Bijzondere Ziektekosten (AWBZ);
+− afdracht eigen bijdragen Wet langdurige zorg (Wlz);
+− afdracht eigen bijdragen Wet maatschappelijke ondersteuning;
+− ontvangen broninhouding Wet maatschappelijke ondersteuning (beschermd wonen) via Zorginstituut Nederland;
+− interest geldmiddelen Algemeen Fonds Bijzondere Ziektekosten (AFBZ), Fonds langdurige zorg (Flz) en Wet maatschappelijke ondersteuning (Wmo);
+− uitbetaalde uitkeringen Compensatieregeling Eigen Risico (CER);
+− interest geldmiddelen Zorgverzekeringsfonds (Zvf);
+in alle van materieel belang zijnde aspecten voldoen aan de eisen van financiële rechtmatigheid. Dit houdt in dat deze bedragen in alle van materieel belang zijnde aspecten tot stand gekomen zijn in overeenstemming met de specifiek voor het CAK van toepassing zijnde wet- en regelgeving zoals vastgelegd in het Model Jaarverslaggeving 2016 CAK en het addendum Model Jaarverslaggeving 2016 CAK.
+Het financiële overzicht op 31 december 2016, opgenomen op de pagina's ... t/m ..., bestaat uit:
+1. een algemene toelichting op de activa en passiva van de geldstromen van de door het CAK uitgevoerde wettelijke taken in het verantwoordingsjaar;
+2. een overzicht van de activa en passiva van de geldstromen van de door het CAK uitgevoerde wettelijke taken per 31 december 2016 (inclusief vergelijkende cijfers), voorzien van een toelichting;
+3. verloopoverzichten van de geldstromen van de door het CAK uitgevoerde wettelijke taken in 2016, voorzien van een toelichting.
+De matrices bestuurlijke verantwoording 2016, opgenomen op de pagina's ... t/m ..., bestaan uit:
+1. de matrix bestuurlijke verantwoording 2016 – toezichthouder VWS, opgenomen op de pagina's ... t/m ..., bestaat uit:
+− uitbetaalde tegemoetkomingen Wtcg;
+− afdracht ouderbijdragen op basis van de Jeugdwet;
+2. de matrix bestuurlijke verantwoording 2016 – toezichthouder NZa, opgenomen op de pagina's ... t/m ..., bestaat uit:
+− betalingen van zorgaanspraken AWBZ;
+− betalingen van zorgaanspraken Wlz;
+− betalingen subsidieregeling extramurale behandeling;
+− betalingen subsidieregeling eerstelijns verblijf;
+− afdracht eigen bijdragen Zorg zonder verblijf AWBZ;
+− afdracht eigen bijdragen Zorg met verblijf AWBZ;
+− afdracht eigen bijdragen Wlz;
+− afdracht eigen bijdragen Wmo;
+− ontvangen broninhouding Wmo (beschermd wonen) via Zorginstituut Nederland;
+− interest geldmiddelen AFBZ, Flz en Wmo;
+− uitbetaalde uitkeringen CER;
+− interest geldmiddelen Zvf.
+De basis van ons oordeel
+Wij hebben onze controle uitgevoerd volgens het Nederlands recht, waaronder ook de Nederlandse controlestandaarden, het Protocol Accountantsonderzoek 2016 CAK en het addendum Protocol Accountantsonderzoek 2016 CAK vallen. Onze verantwoordelijkheden op grond hiervan zijn beschreven in de sectie 'Onze verantwoordelijkheden voor de controle van het financiële overzicht en de matrices bestuurlijke verantwoording'.
+Wij zijn onafhankelijk van het CAK zoals vereist in de Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten (ViO) en andere voor de opdracht relevante onafhankelijkheidsregels in Nederland. Verder hebben wij voldaan aan de Verordening gedrags- en beroepsregels accountants (VGBA).
+Wij vinden dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel.
+Beperking in gebruik en verspreidingskring
+De bestuurlijke verantwoording 2016 is opgesteld voor de bestuursvoorzitter CAK en het Ministerie van Volksgezondheid, Welzijn en Sport, de Nederlandse Zorgautoriteit en Zorginstituut Nederland, met als doel het CAK in staat te stellen te voldoen aan de vereiste om verantwoording af te leggen aan het Ministerie van Volksgezondheid, Welzijn en Sport, de Nederlandse Zorgautoriteit en Zorginstituut Nederland. Hierdoor is de bestuurlijke verantwoording niet geschikt voor andere doeleinden. Onze controleverklaring is derhalve uitsluitend bestemd voor de raad van bestuur van het CAK en het Ministerie van Volksgezondheid, Welzijn en Sport, de Nederlandse Zorgautoriteit en Zorginstituut Nederland en dient niet te worden verspreid aan of te worden gebruikt door anderen.
+B. Verklaring over de in de bestuurlijke verantwoording opgenomen andere informatie
+Naast het financiële overzicht op 31 december 2016 en de matrices bestuurlijke verantwoording 2016 en onze controleverklaring daarbij omvat de bestuurlijke verantwoording ook andere informatie, die bestaat uit:
+− de kengetallen en prestatie-indicatoren, pagina's ... t/m ...;
+− de verantwoording over de ordelijkheid en controleerbaarheid van het gevoerde financiële beheer van de wettelijke taken, pagina's ... t/m ...;
+− de verantwoording over de borging van de rechtmatigheid van de geldstromen die in de bestuurlijke verantwoording zijn opgenomen, pagina's ... t/m ...;
+− de verantwoording over hoeveel Schengen- en Engelstalige verklaringen zijn afgegeven in het verantwoordingsjaar inclusief een prognose van het verwachte aantal aanvragen voor het volgende jaar, pagina's ... t/m ...;
+− de bestuursverklaring, pagina's ... t/m ....
+Op grond van de hierna opgenomen werkzaamheden zijn wij van mening dat de andere informatie:
+− met het financiële overzicht op 31 december 2016 en de matrices bestuurlijke verantwoording 2016 verenigbaar is en geen materiële afwijkingen bevat;
+− alle informatie bevat die op grond van het Model Jaarverslaggeving 2016 CAK en het addendum Model Jaarverslaggeving 2016 CAK vereist is.
+Wij hebben de andere informatie gelezen en hebben op basis van onze kennis en ons begrip, verkregen vanuit de controle van het financiële overzicht op 31 december 2016 en de matrices bestuurlijke verantwoording 2016 of anderszins, overwogen of de andere informatie materiële afwijkingen bevat.
+Met onze werkzaamheden hebben wij voldaan aan de vereisten in het Protocol Accountantsonderzoek 2016 CAK, het addendum op het Protocol Accountantsonderzoek 2016 CAK en de Nederlandse Standaard 720. Deze werkzaamheden hebben niet dezelfde diepgang als onze controlewerkzaamheden bij het financiële overzicht op 31 december 2016 en de matrices bestuurlijke verantwoording 2016.
+De raad van bestuur is verantwoordelijk voor het opstellen van de andere informatie in overeenstemming met het Model Jaarverslaggeving 2016 CAK en het addendum op het Model Jaarverslaggeving 2016 CAK.
+C. Beschrijving van verantwoordelijkheden met betrekking tot het financiële overzicht en de matrices bestuurlijke verantwoording
+Verantwoordelijkheid van de raad van bestuur voor het financiële overzicht en de matrices bestuurlijke verantwoording
+De raad van bestuur is verantwoordelijk voor het opmaken van het financiële overzicht op 31 december 2016 en de matrices bestuurlijke verantwoording 2016, in overeenstemming met het Model Jaarverslaggeving 2016 CAK en het addendum op het Model Jaarverslaggeving 2016 CAK.
+Ook is de raad van bestuur verantwoordelijk voor de juistheid en volledigheid van het financiële overzicht en de financiële rechtmatigheid van de matrices bestuurlijke verantwoording, in overeenstemming met de specifiek voor het CAK van toepassing zijnde wet- en regelgeving zoals vastgelegd in het Model Jaarverslaggeving 2016 CAK en het addendum Model Jaarverslaggeving 2016 CAK.
+In dit kader is de raad van bestuur tevens verantwoordelijk voor een zodanige interne beheersing die de raad van bestuur noodzakelijk acht om het opmaken van het financiële overzicht en de matrices bestuurlijke verantwoording mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fouten of fraude.
+Bij het opmaken van het financiële overzicht en de matrices bestuurlijke verantwoording moet de raad van bestuur afwegen of het CAK in staat is om haar werkzaamheden in continuïteit voort te zetten. Op grond van genoemd verslaggevingsstelsel moet de raad van bestuur het financiële overzicht en de matrices bestuurlijke verantwoording opmaken op basis van de continuïteitsveronderstelling, tenzij de raad van bestuur het voornemen heeft om het CAK te liquideren of de activiteiten te beëindigen of als beëindiging het enige realistische alternatief is. De raad van bestuur moet gebeurtenissen en omstandigheden waardoor gerede twijfel zou kunnen bestaan of het CAK haar activiteiten in continuïteit kan voortzetten, toelichten in de bestuurlijke verantwoording.
+Onze verantwoordelijkheden voor de controle van het financiële overzicht en de matrices bestuurlijke verantwoording
+Onze verantwoordelijkheid is het zodanig plannen en uitvoeren van een controleopdracht dat wij daarmee voldoende en geschikte controle-informatie verkrijgen voor het door ons af te geven oordeel.
+Onze controle is uitgevoerd met een hoge mate maar geen absolute mate van zekerheid waardoor het mogelijk is dat wij tijdens onze controle niet alle materiële fouten en fraude ontdekken.
+Afwijkingen kunnen ontstaan als gevolg van fouten of fraude en zijn materieel indien redelijkerwijs kan worden verwacht dat deze, afzonderlijk of gezamenlijk, van invloed kunnen zijn op de economische beslissingen die gebruikers op basis van het financiële overzicht en de matrices bestuurlijke verantwoording nemen. De materialiteit beïnvloedt de aard, timing en omvang van onze controlewerkzaamheden en de evaluatie van het effect van onderkende afwijkingen op ons oordeel.
+Wij hebben deze accountantscontrole professioneel kritisch uitgevoerd en hebben waar relevant professionele oordeelsvorming toegepast in overeenstemming met de Nederlandse controlestandaarden, het Protocol Accountantsonderzoek 2016 CAK, het addendum op het Protocol Accountantsonderzoek 2016 CAK, ethische voorschriften en de onafhankelijkheidseisen.
+Onze controle bestond onder andere uit:
+− het identificeren en inschatten van de risico's dat het financiële overzicht en de matrices bestuurlijke verantwoording afwijkingen van materieel belang bevat als gevolg van fouten of fraude dan wel het niet rechtmatig tot stand komen van de verantwoorde geldstromen, het in reactie op deze risico's bepalen en uitvoeren van controlewerkzaamheden en het verkrijgen van controle-informatie die voldoende en geschikt is als basis voor ons oordeel. Bij fraude is het risico dat een afwijking van materieel belang niet ontdekt wordt groter dan bij fouten. Bij fraude kan sprake zijn van samenspanning, valsheid in geschrifte, het opzettelijk nalaten transacties vast te leggen, het opzettelijk verkeerd voorstellen van zaken of het doorbreken van de interne beheersing;
+− het verkrijgen van inzicht in de interne beheersing die relevant is voor de controle met als doel controlewerkzaamheden te selecteren die passend zijn in de omstandigheden. Deze werkzaamheden hebben niet als doel om een oordeel uit te spreken over de effectiviteit van de interne beheersing van de organisatie;
+− het evalueren van de geschiktheid van de gebruikte grondslagen voor financiële verslaggeving, de gebruikte financiële rechtmatigheidscriteria en het evalueren van de redelijkheid van schattingen door de raad van bestuur en de toelichtingen die daarover in het financiële overzicht en de matrices bestuurlijke verantwoording staan;
+− het vaststellen dat de door de raad van bestuur gehanteerde continuïteitsveronderstelling aanvaardbaar is. Tevens het op basis van de verkregen controle-informatie vaststellen of er gebeurtenissen en omstandigheden zijn waardoor gerede twijfel zou kunnen bestaan of de organisatie haar activiteiten in continuïteit kan voortzetten. Als wij concluderen dat er een onzekerheid van materieel belang bestaat, zijn wij verplicht om aandacht in onze controleverklaring te vestigen op de relevante gerelateerde toelichtingen in het financiële overzicht en de matrices bestuurlijke verantwoording. Als de toelichtingen inadequaat zijn, moeten wij onze verklaring aanpassen. Onze conclusies zijn gebaseerd op de controle-informatie die verkregen is tot de datum van onze controleverklaring. Toekomstige gebeurtenissen of omstandigheden kunnen er echter toe leiden dat een organisatie haar continuïteit niet langer kan handhaven;
+− het evalueren van de presentatie, structuur en inhoud van het financiële overzicht en de matrices bestuurlijke verantwoording; en
+− het evalueren of het financiële overzicht en de matrices bestuurlijke verantwoording, de onderliggende transacties en gebeurtenissen in alle van materieel belang zijnde aspecten voldoen aan de eisen van financiële rechtmatigheid, juistheid en volledigheid.
+Wij communiceren met de raad van bestuur onder andere over de geplande reikwijdte en timing van de controle en over de significante bevindingen die uit onze controle naar voren zijn gekomen, waaronder eventuele significante tekortkomingen in de interne beheersing.
+Plaats en datum
+... (naam accountantspraktijk)
+... (naam accountant)
