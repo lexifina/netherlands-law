@@ -89,9 +89,9 @@
 ##### § 11.3.3.2. Procedures voor vaststelling of wijziging van geluidproductieplafonds
 ##### § 11.3.3.3. De binnenwaarde
 ##### § 11.3.3.4. Verdere bepalingen omtrent vaststelling en wijziging van geluidproductieplafonds
-#### Afdeling 11.3.4. Geluidproductieplafonds voor op «datum van inwerkingtreding van deze wet» bestaande of geprojecteerde wegen en spoorwegen
+#### Afdeling 11.3.4. Geluidproductieplafonds voor op 1 juli 2012 bestaande of geprojecteerde wegen en spoorwegen
 ##### § 11.3.4.1. Het tot stand komen van de geluidproductieplafonds
-##### § 11.3.4.2. Bijzondere bepalingen met betrekking tot het wijzigen van geluidproductieplafonds die tot stand zijn gekomen met toepassing van artikel 11.45, eerste lid
+##### § 11.3.4.2. Bijzondere bepalingen met betrekking tot het wijzigen van geluidproductieplafonds die tot stand zijn gekomen met toepassing van artikel 11.45
 #### Afdeling 11.3.5. Overschrijding van de maximale waarde
 #### Afdeling 11.3.6. Sanering
 #### Afdeling 11.3.7. Overige bepalingen
