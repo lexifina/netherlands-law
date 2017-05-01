@@ -1,0 +1,2 @@
+# Artikel 110g
+Onze Minister stelt regels op grond waarvan telkens voor een bepaalde periode, al naar gelang de geluidproductie van motorvoertuigen in de betrokken periode hoger ligt dan voor de toekomst redelijkerwijs is te verwachten, bij de berekening en meting van de geluidsbelasting van de gevel van woningen of van andere geluidsgevoelige gebouwen of aan de grens van geluidsgevoelige terreinen op het resultaat een door hem bepaalde aftrek van niet meer dan 5 dB wordt toegepast.

@@ -1,0 +1,16 @@
+# Artikel 1b
+1. In afwijking van artikel 1 kan bij algemene maatregel van bestuur worden bepaald dat bij de bepaling van de geluidsbelasting vanwege een industrieterrein, vanwege een weg of vanwege een spoorweg, van de gevel van bij de maatregel aangegeven categorieën van andere geluidsgevoelige gebouwen, de waarde van de geluidsbelasting over de periode 19.00–23.00 uur (avond) of de periode 23.00–07.00 uur (nacht) buiten beschouwing wordt gelaten voor zover genoemde gebouwen in de betrokken periode niet overeenkomstig hun bestemming worden gebruikt.
+2. In afwijking van artikel 1 wordt in deze wet en de daarop berustende bepalingen bij de bepaling van de geluidsbelasting in dB(A) vanwege een industrieterrein buiten beschouwing gelaten:
+a. het geluid van windturbines welke duurzame energie opwekken;
+b. het geluid vanwege een internationaal racecircuit gedurende ten hoogste 12 dagen per kalenderjaar.
+3. In deze wet en de daarop berustende bepalingen is de geluidsbelasting Lnight vanwege een industrieterrein, vanwege een weg en vanwege een spoorweg, niet van toepassing ten aanzien van de gevel van bij algemene maatregel van bestuur aangegeven categorieën van andere geluidsgevoelige gebouwen, voor zover genoemde gebouwen in de betrokken periode niet overeenkomstig hun bestemming worden gebruikt.
+4. In afwijking van artikel 1 wordt onder een gevel in de zin van deze wet en de daarop berustende bepalingen niet verstaan:
+a. een bouwkundige constructie waarin geen te openen delen aanwezig zijn en met een in NEN 5077 bedoelde karakteristieke geluidwering die ten minste gelijk is aan het verschil tussen de geluidsbelasting van die constructie en 33 dB onderscheidenlijk 35 dB(A), alsmede
+b. een bouwkundige constructie waarin alleen bij uitzondering te openen delen aanwezig zijn, mits de delen niet direct grenzen aan een geluidsgevoelige ruimte.
+5. In afwijking van artikel 1 wordt onder een wijziging op of aan een weg in deze wet en de daarop berustende bepalingen niet verstaan een wijziging die slechts bestaat uit:
+a. een snelheidsverlaging;
+b. de vervanging van een wegdeklaag door een wegdeklaag met dezelfde of een grotere geluidsreducerende werking, of
+c. een snelheidsverhoging tot ten hoogste de maximumsnelheid, zoals die gold vóór een tijdelijke snelheidsverlaging die als maatregel is opgenomen in een programma als bedoeld in artikel 5.12 van de Wet milieubeheer.
+6. In het geval van een tijdelijke snelheidsverlaging als bedoeld in het vijfde lid, onder c, wordt als heersende waarde aangemerkt de waarde van de geluidsbelasting, zoals die zou zijn zonder de tijdelijke snelheidsverlaging.
+7. Bij algemene maatregel van bestuur kan worden bepaald dat daarbij aangegeven categorieën van gebouwen niet worden aangemerkt als woning in de zin van deze wet.
+8. De artikelen 89, 90, tweede tot en met vijfde lid, 100, 100a en 100b, alsmede artikel 104a voor zover sprake is van reconstructie als bedoeld in dat artikel, zijn niet van toepassing op een woning ten aanzien waarvan met toepassing van artikel 2.12, eerste lid, onder a, onder 2° of 3°, van de Wet algemene bepalingen omgevingsrecht een omgevingsvergunning is verleend waarbij voor de duur van ten hoogste tien jaar is afgeweken van het bestemmingsplan.
