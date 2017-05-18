@@ -1,0 +1,2 @@
+# Artikel 4a
+Een meettaak ten behoeve van een specifieke toepassing als bedoeld in artikel 5, eerste lid, van de wet is het op grond van hoofdstuk VI, deel A, voorschrift 2, vierde lid, onderdeel 1, van de bijlage van het SOLAS-verdrag ten behoeve van de openbare veiligheid bepalen van de massa van een beladen container op grond van de werking van de zwaartekracht op een bewegend motorvoertuig, zonder tussenkomst van een bedienaar en volgens een vooraf bepaald programma van automatische processen.
