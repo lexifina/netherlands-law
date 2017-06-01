@@ -1,0 +1,2 @@
+# Artikel II
+Het recht zoals dat gold voor het tijdstip van inwerkingtreding van dit besluit blijft van toepassing op een overeenkomst, voor het leveren van een voorziening door een aanbieder, die voor dat tijdstip is gesloten of die is gesloten naar aanleiding van een aankondiging van een overheidsopdracht als bedoeld in de Aanbestedingswet 2012, die voor dat tijdstip is bekendgemaakt, tenzij deze overeenkomst na dat tijdstip door het college of de aanbieder wordt verlengd.
