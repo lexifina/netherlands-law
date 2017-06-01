@@ -1,0 +1,2 @@
+# Artikel III
+Indien in de periode van 1 augustus 2016 tot het tijdstip van inwerkingtreding van dit besluit bij de vastlegging van de wijze van vaststelling van de hersendood gebruik is gemaakt van een verklaring waarvan het model overeenkomt met het in artikel I opgenomen model, wordt dat gebruik gelijkgesteld met gebruikmaking van het bij Besluit van 21 maart 2016, houdende vervanging van de bijlage bij het Besluit hersendoodprotocol (Stb. 2016, 170) vastgestelde model.
