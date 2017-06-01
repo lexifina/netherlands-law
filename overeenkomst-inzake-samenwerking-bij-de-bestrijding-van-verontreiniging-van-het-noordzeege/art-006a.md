@@ -1,0 +1,2 @@
+# Article 6A
+Surveillance shall be carried out, as appropriate, by the Contracting Parties in their zone of responsibility or zones of joint responsibility referred to in Article 6 of this Agreement. The Contracting Parties may bilaterally or multilaterally conclude agreements on or make arrangements for co-operation in the organisation of surveillance in the whole or part of the zones of the Parties concerned.
