@@ -73,6 +73,7 @@
 #### Afdeling 8.1.4. Wraking en verschoning van rechters
 #### Afdeling 8.1.5. Partijen
 #### Afdeling 8.1.6. Getuigen, deskundigen en tolken
+#### Afdeling 8.1.6a. Verkeer langs elektronische weg met de bestuursrechter
 #### Afdeling 8.1.7. Verzending van stukken
 ### Titel 8.2. Behandeling van het beroep in eerste aanleg
 #### Afdeling 8.2.1. Griffierecht
