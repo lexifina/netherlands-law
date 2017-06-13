@@ -1,0 +1,2 @@
+# Artikel 1a
+Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de Uitvoeringsregeling strategische goederen 2012, dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen of uit te voeren naar entiteiten of personen in de Democratische Volksrepubliek Korea, of voor gebruik in de Democratische Volksrepubliek Korea, ongeacht of de goederen afkomstig zijn uit de lidstaten van de Europese Unie.
