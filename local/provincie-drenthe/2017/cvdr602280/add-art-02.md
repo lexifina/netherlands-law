@@ -1,0 +1,13 @@
+# Artikel II
+A. SUBSIDIEPLAFONDS
+Voor de Subsidieverordening Natuur- en Landschapsbeheer 2015 (SVNL) worden voor het begrotingsjaar 2017 de volgende subsidieplafonds vastgesteld:
+(Collectief) agrarisch natuur- en landschapsbeheer
+€ 294.506,-- voor subsidies als bedoeld in:
+• artikel 4.1.1.1. ten behoeve van de agrarische beheertypen A01.01, A01.02, A02.01 en A02.02 die op grond van artikel 2.1, vierde lid, zijn aangewezen voor collectief agrarisch natuurbeheer, (agrarisch natuurbeheer in het kader van collectief agrarisch natuurbeheer);
+• artikel 4.1.2.4, eerste lid (toeslag collectief agrarisch natuurbeheer);
+• artikel 5.1.1.1, eerste lid, onderdeel b, ten behoeve van de landschapstypen met de aanduiding L01.01, L01.02, L01.03, L01.04, L01.05, L01.06, L01.08, L01.11 en L01.13 die op grond van artikel 2.1, vierde lid, zijn aangewezen voor collectief landschapsbeheer (collectief landschapsbeheer buiten natuurterreinen).
+Dit subsidieplafond is alleen beschikbaar voor het uitdienen van de in 2018 nog van kracht zijnde subsidiebeschikkingen op grond van de SVNL Drenthe voor (collectief) agrarisch natuur- en landschapsbeheer. Voor aanvragen zoals bedoeld in artikel 7.5 van de SVNL is geen budget beschikbaar.
+B. TARIEVEN BEGROTINGSJAAR 2018
+1. De jaarvergoeding voor de agrarische beheerpakketten, opgenomen in bijlage 3, onderdelen B.1 en B.2, van de SVNL, worden voor dit begrotingsjaar conform de bij dit besluit gevoegde bijlage 1, in euro's per eenheid vastgesteld;
+2. De jaarvergoeding voor de beheerpakketten landschap buiten natuurterreinen, opgenomen in bijlage 6, onderdelen B.1 en B.2 van de SVNL, worden voor dit begrotingsjaar conform de bij dit besluit gevoegde bijlage 1, in euro's per eenheid vastgesteld;
+3. De jaarvergoeding voor de toeslag, bedoeld in artikel II, onder A, van dit besluit, wordt voor dit begrotingsjaar conform de bij dit besluit gevoegde bijlage 1, in euro's per eenheid vastgesteld.
