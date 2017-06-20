@@ -17,7 +17,7 @@ L01.03.00 | Elzensingel - gemiddeld
 L01.03.01a | Bedekking elzensingel 30-50%
 L01.03.01b | Bedekking elzensingel 50%-75%
 L01.03.01c | Bedekking elzensingel > 75%
-L01.04 | Bossingel en bosje
+L01.04 | Bossingel en bosje (vervallen)
 L01.04.01 | Bossingel en bosje
 L01.05 | Knip- of scheerheg
 L01.05.00 | Knip- of scheerheg - gemiddeld
@@ -53,6 +53,7 @@ L01.14.01a | Smalle rietzoom (< 5 meter)
 L01.14.01b | Brede rietzoom (> 5 meter) en klein rietperceel
 L01.15 | Natuurvriendelijke oever
 L01.15.01 | Natuurvriendelijke oever
+L01.16 | Bossingel (nieuw per 1-1-2017)
 L02 | Historische gebouwen en omgeving
 L02.01 | Fortterrein
 L02.02 | Historisch bouwwerk en erf
@@ -96,7 +97,7 @@ Dit natuurtype omvat de volgende beheertypen.
 - L01.01 Poel en klein historisch water
 - L01.02 Houtwal en houtsingel
 - L01.03 Elzensingel
-- L01.04 Bossingel en bosje
+- L01.04 Bossingel en bosje (vervallen)
 - L01.05 Knip- en scheerheg
 - L01.06 Struweelhaag
 - L01.07 Laan
@@ -108,6 +109,7 @@ Dit natuurtype omvat de volgende beheertypen.
 - L01.13 Bomenrij en solitaire boom
 - L01.14 Rietzoom en klein rietperceel
 - L01.15 Natuurvriendelijke oever
+- L01.16 Bossingel (nieuw per 1-1-2017)
 L01.01, POEL EN KLEIN HISTORISCH WATER
 Algemene beschrijving
 Poelen zijn natuurlijke of gegraven laagtes, gemaakt om over water voor vee te kunnen beschikken. Andere al dan niet gegraven kleine wateren met een historische betekenis zijn bijvoorbeeld voorraadbassins voor bluswater, visvijvers, schapenwasplaatsen, pingoruïnes en veenputten. Vaak vervulden poelen meerdere functies. De mens heeft altijd water nodig gehad en daarvoor zijn zowel bestaande natuurlijke wateren als zelf gegraven laagtes gebruikt. Ook uit de middeleeuwen zijn putten en kuilen bekend. Tot op de dag van vandaag worden poelen gegraven en gebruikt. Poelen en kleine wateren in het landschap kunnen dus al eeuwen oud zijn, alhoewel sommige van zeer recente datum zijn, denk aan nieuw gegraven amfibieënpoelen. Het beheertype Poel en klein historisch water is te vinden in heel Nederland. Er zijn diverse vormen bekend.
@@ -193,29 +195,7 @@ L01.03.00 Elzensingel - gemiddeld
 L01.03.01a Bedekking elzensingel 30-50%
 L01.03.01b Bedekking elzensingel 50%-75%
 L01.03.01c Bedekking elzensingel > 75%
-L01.04, BOSSINGEL EN BOSJE
-Algemene beschrijving
-Een bossingel of een bosje zijn houtopstanden die vroeger vaak aangeplant en beheerd werden als hakhout, maar doorgeschoten zijn. Ze komen in veel gebieden in Nederland voor. Ook de meer recentere landinrichtingsbosjes en kleine bosjes die geen hakhoutbeheer gekend hebben behoren tot dit type.
-Afbakening
-- Een bossingel is een vrijliggend lijnvormig en aaneengesloten landschapselement met een opgaande begroeiing van inheemse bomen en struiken.
-- Een bossingel heeft een breedte van minimaal 2 en maximaal 20 meter en een minimale oppervlakte van 1,0 are.
-- Een bosje is een vrijliggend vlakvormig en aaneengesloten landschapselement met een opgaande begroeiing van inheemse bomen en struiken.
-- Een bosje is minimaal 2,0 are en maximaal 1 hectare groot.
-Subsidieverplichtingen
-1. Op natuurterrein: De beheerder dient het landschapselement in stand te houden. De wijze waarop hij deze instandhoudingsverplichting invult, is aan de beheerder zelf.
-2. Op landbouwgrond: Het beheerpakket landschap kent een aantal beheereisen die moeten worden nageleefd.
-Beheereisen
-- Het element wordt als bos met hoog opgaande bomen beheerd.
-- Het element wordt periodiek gedund en overhangende takken kunnen het gehele jaar worden gesnoeid.
-- Randen van het element kunnen als hakhout beheerd worden.
-- Snoeihout mag op stapels of rillen in het element verwerkt worden voor zover het de ondergroei en/of de stoven niet schaadt.
-- Er mag geen snoeihout verbrand worden in of in de directe omgeving van het element, en als snoeihout versnipperd wordt mogen de snippers niet verwerkt worden in het element.
-- Er mogen geen gewasbeschermingsmiddelen, behalve bij bestrijding van ongewenste houtsoorten (Amerikaanse vogelkers, Amerikaanse eik, Robinia en Ratelpopulier) door middel van een stobbenbehandeling en meststoffen in het element gebruikt worden.
-- Het element mag niet betreden en/of beschadigd worden door vee. Indien het element is uitgerasterd moet het raster op een zodanige afstand staan dat vraat aan stammen wordt voorkomen.
-- Slootmaaisel of bagger mag niet verwerkt worden in het element.
-- Dunningswerkzaamheden en het eventueel terugzetten van hakhout worden alleen verricht in de periode tussen 1 oktober en 15 maart.
-Beheerpakket
-L01.04.01 Bossingel en bosje
+L01.04, BOSSINGEL EN BOSJE [vervallen]
 L01.05, KNIP- OF SCHEERHEG
 Algemene beschrijving
 Heggen zijn al eeuwen te vinden in het Nederlandse cultuurlandschap. Waar in natte delen van Nederland sloten als eigendoms- of perceelscheiding dienden, werden in drogere delen veelal heggen gebruikt. De doornige meidoorn kon daarnaast ook nog een veekerende functie hebben. Ook op landgoederen en forten is het gebruik van meidoornhagen bekend. De introductie van het prikkeldraad rond 1900 heeft gezorgd voor het verdwijnen van veel heggen. Heggen komen in heel Nederland voor, maar zijn vooral te vinden rondom dorpen en boerderijen. In Zuid-Limburg is de knip- en scheerheg ook een karakteristiek landschapselement in het landelijke gebied.
@@ -463,6 +443,25 @@ Beheereisen
 - Maaiwerkzaamheden worden verricht in de periode tussen 15 juli en 1 maart.
 Beheerpakket
 L01.15.01 Natuurvriendelijke oever
+L01.16, BOSSINGEL (nieuw per 1 januari 2017)
+Algemene beschrijving
+Een bossingel is een houtopstand die vroeger vaak werd aangeplant en beheerd werd als hakhout, maar doorgeschoten is. Ze komen in veel gebieden in Nederland voor.
+Afbakening
+- Een bossingel is een vrijliggend lijnvormig en aaneengesloten landschapselement met een opgaande begroeiing van inheemse bomen en struiken.
+- Een bossingel heeft een breedte van minimaal 2 en maximaal 20 meter en een minimale oppervlakte van 1,0 are.
+Subsidieverplichtingen
+1. Op natuurterrein: De beheerder dient het landschapselement in stand te houden. De wijze waarop hij deze instandhoudingsverplichting invult, is aan de beheerder zelf.
+Beheereisen
+- Het element wordt periodiek gedund en overhangende takken kunnen het gehele jaar worden gesnoeid.
+- Randen van het element kunnen als hakhout beheerd worden.
+- Snoeihout mag op stapels of rillen in het element verwerkt worden voor zover het de ondergroei en/of de stoven niet schaadt.
+- Er mag geen snoeihout verbrand worden in of in de directe omgeving van het element, en als snoeihout versnipperd wordt mogen de snippers niet verwerkt worden in het element.
+- Er mogen geen gewasbeschermingsmiddelen, behalve bij bestrijding van ongewenste houtsoorten (Amerikaanse vogelkers, Amerikaanse eik, Robinia en Ratelpopulier) door middel van een stobbenbehandeling, en meststoffen in het element gebruikt worden.
+- Het element mag niet betreden en/of beschadigd worden door vee. Indien het element is uitgerasterd moet het raster op een zodanige afstand staan dat vraat aan stammen wordt voorkomen.
+- Slootmaaisel of bagger mag niet verwerkt worden in het element.
+- Dunningswerkzaamheden en het eventueel terugzetten van hakhout worden alleen verricht in de periode tussen 1 oktober en 15 maart.
+Beheerpakket
+L01.16.01, Bossingel
 L02, HISTORISCHE GEBOUWEN EN OMGEVING
 Algemene beschrijving
 Vanaf de (late) middeleeuwen nam de bouw van grote, ruim opgezette bouwwerken een grote sprong voorwaarts. Er werd veel geïnvesteerd in grote verdedigingswerken die het land en haar inwoners diende te beschermen. Maar daarnaast nam ook het aantal luxueuze buitenverblijven toe. De adel en andere welvarende burgers vestigden zich in het buitengebied in een veelal ruim opgezette indeling van gebouwen en bijbehorende gronden. Ook het aantal kloosters nam toe sinds de middeleeuwen sterk toe. De nog resterende gebouwen van die tijd kennen naast hun cultuurhistorische waarde vaak ook een grote natuurwaarde. Kenmerkend voor deze landschappen zijn de muurplanten die op de, met kalkrijke mortel aangelegde, muren groeien en de vleermuizen die in de kelders en de vele holtes die vaak in een dergelijke omgeving aanwezig zijn, zeer geschikte verblijfplaatsen vinden.
@@ -625,13 +624,17 @@ N15 | Droge bossen
 N15.01 | Duinbos
 N15.02 | Dennen-, eiken- en beukenbos
 N16 | Bossen met productiefunctie
-N16.01 | Droog bos met productie
-N16.02 | Vochtig bos met productie
+N16.01 | Droog bos met productie (vervallen)
+N16.02 | Vochtig bos met productie (vervallen)
+N16.03 | Droog bos met productie (nieuw per 1-1-2018)
+N16.04 | Vochtig bos met productie (nieuw per 1-1-2018)
 N17 | Cultuurhistorische bossen
-N17.01 | Vochtig hakhout en middenbos
+N17.01 | Vochtig hakhout en middenbos (vervallen)
 N17.02 | Droog hakhout
 N17.03 | Park- en stinzenbos
 N17.04 | Eendenkooi
+N17.05 | Wilgengriend (nieuw m.i.v. 1-1-2017)
+N17.06 | Vochtig en hellinghakhout (nieuw m.i.v. 1-1-2017)
 LEESWIJZER
 Ten aanzien van versie 0.5
 De versie 0.5 van het onderdeel natuurbeheertypen van de index natuur- en landschap betreft een versie met beschrijvingen van de beheertypen waar net als in versie 0.3 de landschapselementen zijn uitgehaald en elders in een apart onderdeel Landschapselementen zijn ondergebracht en ten opzichte van versie 0.4. enkele kleine aanpassingen aan de tekst van de beheertypen zijn gedaan ter verdere verduidelijking van de afbakening van de beheertypen, naar aanleiding van gebleken onduidelijkheden tijdens het omzettingsproces vanuit oude typologieën begin 2009.
@@ -1458,15 +1461,19 @@ Het bostype komt voor op veel bodemtypen, variërend van tamelijk voedselarm tot
 De productiefunctie is niet gebaat bij zeer voedselarme en natte omstandigheden. Onder dergelijke omstandigheden heeft het weinig zin om deze omstandigheden kunstmatig aan te passen, omdat dan de natuurfunctie al gauw in het gedrang komt.
 Beheertypen
 Op basis van de vochttoestand van de bodem worden twee beheertypen onderscheiden.
-- N16.01, Droog bos met productie
-- N16.02, Vochtig bos met productie
-N16.01, DROOG BOS MET PRODUCTIE
+- N16.01, Droog bos met productie (vervallen)
+- N16.02, Vochtig bos met productie (vervallen)
+- N16.03, Droog bos met productie (nieuw per 1-1-2018)
+- N16.04, Vochtig bos met productie (nieuw per 1-1-2018)
+N16.01, DROOG BOS MET PRODUCTIE [vervallen]
+N16.02, VOCHTIG BOS MET PRODUCTIE [vervallen]
+N16.03, DROOG BOS MET PRODUCTIE (nieuw per 1 januari 2018)
 1.1, Algemene beschrijving
 Droog bos met productie bestaat uit verschillende, veelal van oorsprong aangeplante, bosopstanden van den, (winter)eik, beuk, Douglas, lariks of fijnspar. De voedselarmere delen worden grotendeels gedomineerd door den, eik en beuk, op de wat rijkere bodems is er een hogere groei van beuk, Douglas, lariks en spar, met betere mengingsmogelijkheden. Dit bostype is de productievariant van het bostype dennen-, eiken- en beukenbos (zonder productie; 15.02).
 Het bostype komt voor op een voedselarme tot lemige, zandige, zure ondergrond van het Droge Zandlandschap zoals op de Veluwe, delen van Drenthe en Brabant. Lokaal is het bostype te vinden in het Heuvellandschap, kalkarme duinen en strandwallen. Het bostype is veelal uit hakhout, heide- en stuifzandterreinen ontstaan, maar kan ook aangelegd zijn op voormalige landbouwgronden waardoor de bovengrond verrijkt is.
 Het is het omvangrijkste bostype en combineert een redelijk tot goede groei met een ruime variatie aan, en mengingsmogelijkheden van, loof- en naaldboomsoorten, vooral op de wat lemigere bosgroeiplaatsen. Het maakt dit type tot het belangrijkste type voor de houtproductie. De diversiteit is (nog) relatief laag. Dit wordt onder andere veroorzaakt door de uniforme aanleg en beheer in het verleden, door de jonge leeftijd van de bossen en onvoldoende abiotische kwaliteit als gevolg van verzuring en vermesting. Oudere bossen en bossen op of grenzend aan oude bosgroeiplaatsen, hebben een relatief hoge natuurpotentie vooral wanneer deze een gevarieerde structuur met substantieel aandeel zware bomen en dood hout hebben. De betekenis voor de biodiversiteit bestaat vooral uit (vaak bedreigde) paddenstoelen, korst- en bladmossen, enkele vaatplanten, insecten en broedvogels.
 Droog bos met productie kan bestaan uit meer lichtere bossen door (mengingen van) den, lariks, eik en berk en/of meer donkere bossen (door mengingen) met beuk, Douglas en fijnspar. De armere delen blijven bij spontane ontwikkeling hoofdzakelijk een door dennen-, eiken en beuken gedomineerd bos. Op de wat rijkere delen leidt spontane ontwikkeling tot een bos waarin (combinaties van) beuk, Douglas, lariks of spar zullen gaan overheersen, vaak ten koste van den en eik. Het bostype combineert productieve soorten en een substantieel aandeel kwaliteitsbomen, met mede door het beheer beïnvloede, verschillende ontwikkelingsfasen, een gevarieerde bosstructuur, menging van boomsoorten en dood hout.
-Spontane ontwikkelingen leiden (de komende decennia) vaak naar een dichter, vrij eenvormig bos met natuurlijke verjonging van beperkte samenstelling en matige productiepotentie. Natuurlijke verstoringen zoals windworp hebben (vooralsnog) een beperkt effect hierop. De bedekking, samenstelling en doorgroeiperspectieven van loofbomen, struiken en struwelen worden sterk beperkt door de mate waarin herbivoren aanwezig zijn (edelhert, ree). Vaak is menselijk beheer, zoals kap, begrazingsbeheer en inbreng van strooiselverrijkende soorten (zie Droge bos variant zonder productie; 15.02), nodig om dynamiek, variatie en vestigingsmilieus te bevorderen. Hiermee kan tegelijkertijd gestuurd worden op verjonging die voldoende potentie heeft om de productie in kwalitatieve en kwantitatieve zin te waarborgen.
+Spontane ontwikkelingen leiden (de komende decennia) vaak naar een dichter, vrij eenvormig bos met natuurlijke verjonging van beperkte samenstelling en matige productiepotentie. Natuurlijke verstoringen zoals windworp hebben (vooralsnog) een beperkt effect hierop. De bedekking, samenstelling en doorgroeiperspectieven van loofbomen, struiken en struwelen worden sterk beperkt door de mate waarin herbivoren aanwezig zijn (edelhert, ree). Vaak is menselijk beheer, zoals kap, begrazingsbeheer en inbreng van strooiselverrijkende soorten (zie Droge bos variant zonder productie; 15.02), nodig om dynamiek, variatie en vestigingsmilieus te bevorderen. Met aanvullende bosverjongingsactiviteiten met primair lokaal gewenste inheemse boom- en struiksoorten wordt een nieuwe gewenste bosgeneratie van voldoende ecologische kwaliteit gerealiseerd.
 1.2, Afbakening
 - Droog bos met productie omvat bossen op de voedselarme tot lemige zandgronden gedomineerd door loofbomen en (meereisende) naaldboomsoorten.
 - Houtoogst is een doel en vindt periodiek plaats met een hogere intensiteit dan in de droge bossen beheertypen zonder productie, of boomsoorten die oorspronkelijk van buiten Europa zijn ingevoerd zijn dominant over meer dan 20% van het areaal van het betreffende bosgebied, ook als er geen productiedoelstelling is.
@@ -1474,12 +1481,12 @@ Subsidieverplichtingen
 De beheerder dient het beheertype in stand te houden. De wijze waarop hij deze instandhoudingsverplichting invult, is aan de beheerder zelf.
 Voorbeeldgebieden
 Staphorst, Noord-Bargerbos, Kootwijk, Speulderbos, Mastbos, Gieten-Borger en Emmerdennen.
-N16.02, VOCHTIG BOS MET PRODUCTIE
+N16.04, VOCHTIG BOS MET PRODUCTIE (nieuw per 1 januari 2018)
 1.1, Algemene beschrijving
 Vochtig bos met productie bestaat uit loofbossen die gedomineerd worden door diverse boomsoorten zoals populier, es, esdoorn, beuk, haagbeuk, eik, iep en els. Het is een grotendeels gesloten bos met een weelderige ondergroei. Dit bostype is de productievariant van delen van het haagbeuken- en essenbos en beek- en rivierbegeleidend bos.
-Het komt voor op matig nat tot matig droge, vrij voedselrijke kleiige tot zandige bodems, waaronder overstromingsdelen van beken. Het bostype kan gevonden worden in het rivierengebied op oeverwallen en hoge uiterwaarden, lokaal op lemige zandgronden in het oosten, op kleibodems zoals in de Flevopolders maar ook in de kustgebieden en lemige/kleiige kalkhellingen in Zuid-Limburg.
+Het komt voor op matig nat tot matig droge, vrij voedselrijke kleiige tot zandige bodems, waaronder overstromingsdelen van beken. Het bostype kan gevonden worden in het rivierengebied op oeverwallen en hoge uiterwaarden, lokaal op lemige zandgronden in het oosten, op kleibodems zoals in de Flevopolders maar ook in de kustgebieden, en lemige/kleiige kalkhellingen in Zuid-Limburg.
 Dit bostype levert een belangrijke bijdrage aan de houtvoorziening door de goede groei van diverse gewilde (hardhout) loofboomsoorten. In potentie kan dit bostype de meeste houtige soorten bevatten. De diversiteit is laag tot matig hoog. Vooral soorten van oudere, meer ontwikkelde bosgroeiplaatsen ontbreken vaak nog, terwijl makkelijk koloniserende sporenplanten en vogels al aanwezig zijn. Door snelle groei en sterfte kan binnen afzienbare tijd een gevarieerde bosstructuur ontstaan, met veel dood hout en een weelderige struiklaag en bodemvegetatie.
-Populier kan een belangrijke bijdrage leveren aan snelle bosontwikkeling en de productie van aanzienlijke hoeveelheid zaaghout en (dik) dood hout. De ondergroei bij populier wordt echter vaak (nog) gedomineerd door ruigtekruiden zoals grote brandnetel. Ook in door andere boomsoorten gedomineerde bossen treedt regelmatig verruiging op in grotere open plekken. Dit kan de verjonging van gewenste boom- en struiksoorten belemmeren. Kleinschalige kap en aanplant wanneer zaadbronnen van gewenste soorten nog ontbreken kan de (kwalitatieve en kwantitatieve) productie en samenstelling bevorderen.
+Populier kan een belangrijke bijdrage leveren aan snelle bosontwikkeling en de productie van aanzienlijke hoeveelheid zaaghout en (dik) dood hout. De ondergroei bij populier wordt echter vaak (nog) gedomineerd door ruigtekruiden zoals grote brandnetel. Ook in door andere boomsoorten gedomineerde bossen treedt regelmatig verruiging op in grotere open plekken. Dit kan de verjonging van gewenste boom- en struiksoorten belemmeren. Kleinschalige kap en aanplant wanneer zaadbronnen van gewenste soorten nog ontbreken kan de (kwalitatieve en kwantitatieve) productie en samenstelling bevorderen. Door deze aanvullende bosverjongingsactiviteiten met primair lokaal gewenste inheemse boom- en struiksoorten wordt versneld een nieuwe gewenste bosgeneratie van voldoende ecologische kwaliteit gerealiseerd.
 1.2, Afbakening
 - Het beheertype Vochtig bos met productie omvat bossen op basenrijke bodems gedomineerd door (meereisende) loofboomsoorten.
 - Houtoogst is een doel en vindt periodiek plaats met een hogere intensiteit dan in de Vochtige bossen beheertypen zonder productie, of boomsoorten die oorspronkelijk van buiten Europa zijn ingevoerd zijn dominant over meer dan 20% van het areaal van het betreffende bosgebied, ook als er geen productiedoelstelling is.
@@ -1496,24 +1503,14 @@ Ontstaansgeschiedenis
 Zoals de term eigenlijk al zegt, zijn cultuurhistorische bossen lang geleden aangelegd en hebben ze sindsdien een specifiek beheer gehad. De voorgeschiedenis kan erg verschillen. Sommige bossen groeien op intacte bodems en bestaan uit boomsoorten die van nature ter plaatse thuishoren, op andere plaatsen is de aanleg gepaard gegaan met intensieve grondbewerking en hydrologische ingrepen en zijn soorten van elders geïmporteerd.
 Cultuurhistorische bossen zijn in het verleden lange tijd het meest voorkomende bostype in Nederland geweest. Ze kunnen het best voortbestaan op de nu nog bestaande plaatsen en onder de condities waarbij ze zich hebben ontwikkeld.
 Beheertypen
-Dit natuurtype omvat de volgende vier beheertypen.
-- N17.01, Vochtig hakhout en middenbos
+Dit natuurtype omvat de volgende beheertypen.
+- N17.01, Vochtig hakhout en middenbos (vervallen)
 - N17.02, Droog hakhout
 - N17.03, Park- en stinzenbos
 - N17.04, Eendenkooi
-N17.01, VOCHTIG HAKHOUT EN MIDDENBOS
-1.1, Algemene beschrijving
-Vochtig hakhout zijn loofbossen die bestaan uit houtgewas dat men niet hoog laat opschieten, maar dicht bij de grond afzet om de stronken weer te laten ontspruiten en de gevormde opslag te kunnen oogsten. Middenbos bestaat uit hakhout met overstaanders (doorgegroeide hakhouttelgen) of bovenstaander (aanplant).
-Hakhout en middenbos komen al eeuwen voor in Nederland. Door hakhoutbeheer kan een voortdurende houtopbrengst gewaarborgd worden. Door het dicht bij de grond afzetten van de bomen ontstonden de kenmerkende stobben of stoven, die vele eeuwen oud kunnen zijn. Verschillende boomsoorten zorgden voor hout voor verschillende doeleinden: brandhout, gebruikshout voor bijvoorbeeld gereedschapsstelen, schors voor de leerlooierij.
-In verschillende vormen komt dit type door het gehele land voor. De variatie is groot: van grienden met wilgen in het rivierengebied tot elzenhakhout in Zeeland. Globaal geldt, dat in het rivierengebied essen- en wilgenhakhout voorkomt in de uiterwaarden, maar ook in beekdalen en op de overgang van veen naar klei in het laagveengebied. Vochtige eikenhakhoutbossen komen op de zandgronden voor. De hellingbossen in Zuid-Limburg, waar nog middenbos voorkomt, worden ook tot dit type gerekend. Het beheertype Vochtig hakhout en middenbos betreft hakhoutcomplexen die niet of nauwelijks machinaal te bewerken zijn doordat ze vochtig zijn, op een helling liggen of de stoven op rabatten staan.
-In West-Nederland en het rivierengebied zijn hakhoutbossen vaak opvallende elementen in het open landschap. Denk bijvoorbeeld aan grienden in de rivieruiterwaarden en elzenhakhout of geriefhoutbosjes in het veenweidegebied.. Overal in de natte zandgebieden komen (eiken)hakhoutbossen voor, vaak eertijds gelegen in open gebieden, maar nu dikwijls omgeven door jonger bos en daardoor landschappelijk minder herkenbaar. Met name oud hakhout en middenbos herbergt met de oude groeiplaats, het dunne strooiseldek en het hakhoutbeheer samenhangende zeldzame bosplanten van vochtige standplaatsen en aan oude hakhoutstoven gebonden mossen en insecten.
-1.2, Afbakening
-- Vochtig hakhout en middenbos wordt periodiek afgezet.
-- Kenmerkend voor het beheertype is de aanwezigheid van hakhoutstoven. Bij dit vochtige type kan gedacht worden aan boomsoorten van rijke groeiplaatsen als wilg, els, es, hazelaar, haagbeuk maar ook eiken op rabatten. De cyclus verschilt per vorm en boomsoort, maar meestal dient om de 3 tot 10 jaar gehakt te worden.
-Subsidieverplichtingen
-De beheerder dient het beheertype in stand te houden. De wijze waarop hij deze instandhoudingsverplichting invult, is aan de beheerder zelf.
-Voorbeeldgebieden
-@
+- N17.05, Wilgengriend (nieuw m.i.v. 1-1-2017)
+- N17.06, Vochtig en hellinghakhout (nieuw m.i.v. 1-1-2017)
+N17.01, VOCHTIG HAKHOUT EN MIDDENBOS [vervallen]
 N17.02, DROOG HAKHOUT
 1.1, Algemene beschrijving
 Droog hakhout is een loofbos bestaande uit houtgewas dat men niet hoog laat opschieten, maar dicht bij de grond afzet om de stronken weer te laten ontspruiten en de gevormde opslag te kunnen oogsten. Hakhoutbossen komen al eeuwen voor in Nederland. Door hakhoutbeheer kan een voortdurende houtopbrengst gewaarborgd worden. Door het dicht bij de grond afzetten van de bomen ontstonden de kenmerkende stobben of stoven, die vele eeuwen oud kunnen zijn. Verschillende boomsoorten zorgden voor hout voor verschillende doeleinden: brandhout, gebruikshout voor bijvoorbeeld gereedschapsstelen, schors voor de leerlooierij.
@@ -1521,11 +1518,71 @@ Droog hakhout komt met name voor op de hogere en drogere zandgronden van Nederla
 Overal in de zandgebieden komen (eiken)hakhoutbossen voor, vaak omgeven door wallen en hierdoor afgeschermd van heide en ander open terrein, maar nu dikwijls omgeven door jonger bos en daardoor landschappelijk minder herkenbaar. Met name oud hakhout kan aan oude groeiplaats, dunne strooisellaag en hakhoutbeheer samenhangende bosplanten van droge standplaatsen herbergen zoals bijvoorbeeld fraai hertshooi en aan oude stoven gebonden mossen en insecten.
 1.2, Afbakening
 - Droog hakhout wordt periodiek afgezet (vrijwel alle bomen)
-- Het beheertype bestaat uit een perceel hakhout van enige omvang op droge gronden. Kenmerkend is de aanwezigheid van hakhoutstoven. Het bestaat uit boomsoorten zoals zomereik, beuk en winterlinde. De cyclus verschilt per vorm en boomsoort, maar meestal dient om de 4 tot 15 jaar gehakt te worden.
+- Het beheertype bestaat uit een perceel hakhout of middenbos van enige omvang op droge en vlakke gronden. Kenmerkend is de aanwezigheid van hakhoutstoven. Het bestaat uit boomsoorten zoals zomereik, beuk en winterlinde. De cyclus verschilt per vorm en boomsoort, maar meestal dient om de 10 tot 20 jaar gehakt te worden. Bij middenbos is een deel overstaanders die in een veel lagere cyclus gehakt worden.
 Subsidieverplichtingen
 De beheerder dient het beheertype in stand te houden. De wijze waarop hij deze instandhoudingsverplichting invult, is aan de beheerder zelf.
 Voorbeeldgebieden
 @
+N17.03, PARK- EN STINZENBOS
+1.1, Algemene beschrijving
+Parkbossen zijn alle vormen van bos die vallen binnen een historisch park- of tuinaanleg. Stinzenbossen bestaan veelal uit oude bossen bij landgoederen met een karakteristieke stinzenflora, vaak bolgewassen en kruidachtige overblijvende gewassen, in de ondergroei. Sinds het ontstaan van landhuizen en landgoederen in Nederland vanaf de late middeleeuwen is er ook aandacht voor de omgeving van het huis. In de zeventiende en achttiende eeuw ontwikkelen zich tuinstijlen, maar worden ook de omliggende bossen meegenomen in de aanleg. In de landschappelijke parkstijl hebben parkbossen een nadrukkelijke rol. Sommige van deze parkbossen krijgen een rijke struiklaag en veel kruiden, die vooral in het voorjaar bloeien. Deze planten zijn oorspronkelijk aangeplant, maar inmiddels verwilderd en inheems geworden. Ook zijn in dit bostype veel uitheemse bomen te vinden, door landgoedeigenaren aangeplant ter verfraaiing van het bos. De naam van dit type, Stinzenbos, komt van het woord stins, de Friese benaming voor kasteel/landhuis.
+Beheer is gericht op het behouden van de bijzondere (uitheemse) bomen en het handhaven van de karakteristieke struiklaag en kruiden. Dit kan betekenen het vrijstellen van bijzondere bomen, het vrijhouden van opslag van delen waar de bijzondere stinzenflora voorkomt en het behouden van de struiklaag. In sommige bossen gaat het om bollen of kruiden van de stinzenflora, maar het kan ook gaan ook om bloeiende struiken zoals azalea en rododendron.
+Landgoederen komen voor in geheel Nederland, maar vooral voor in het zand-, rivieren-, zeeklei- en duingebied. Park- en stinzenbos komt voornamelijk voor op min of meer kalkrijke zand-, zavel- en kleigronden op oeverwallen langs rivieren, op Friese stinzen en in de binnenduinrand.
+Dit beheertype hangt steeds samen met een cultuurhistorisch waardevol landgoed. Vaak is de samenhang groot met andere landgoedelementen zoals een huis, tuin, lanen en overige bossen op het landgoed. Stinzenbossen kennen een bijzondere aan actief beheer gekoppelde stinzenplantenflora. Park- en stinzenbossen kennen tegenwoordig vaak een actief beheer gericht op het in stand houden van oude bomen en boomholten en de daaraan gekoppelde aanwezigheid van broedvogels en vleermuizen.
+1.2, Afbakening
+- Het beheertype Park- en stinzenbos bestaat uit opgaand bos, als onderdeel van een (voormalig) landgoed, met meestal een rijke struiklaag en veel kruiden die vooral in het voorjaar bloeien.
+- In de kruidlaag van Stinzenbossen komen veel planten voor die oorspronkelijk zijn aangeplant en nu zijn verwilderd. Het betreft deels inheemse planten (zoals daslook en wilde narcis), maar met name ook van oorsprong uitheemse planten (veel soorten bol- en knolgewassen, zoals hyacinten, sneeuwklokjes en krokussen maar bijvoorbeeld ook hartbladzonnebloem, Italiaanse aronskelk of azalea). Daarnaast komen ook geïntroduceerde uitheemse boomsoorten voor met een hoge sierwaarde.
+- Park- en stinzenbos kent een actief beheer dat gericht is op het behoud van de bijzondere flora en fauna. De bomen, struiken en kruiden van Park- en Stinse bos staan in een verband dat een bedacht, esthetisch doel dient.
+- Ornamentele boomgroepen, ook wel clumps genoemd, vallen buiten dit type en behoren in beheertype Historische tuin.
+- Bomen en struiken die langs lanen geplant zijn, worden niet tot dit beheertype gerekend, maar worden gerekend tot een beheertype uit de Index Landschap.
+- Stadsparken behoren niet tot dit beheertype.
+Subsidieverplichtingen
+De beheerder dient het beheertype in stand te houden. De wijze waarop hij deze instandhoudingsverplichting invult, is aan de beheerder zelf.
+Voorbeeldgebieden
+……………………….
+N17.04, EENDENKOOI
+1.1, Algemene beschrijving
+Een eendenkooi bestaat uit een waterplas met vangpijpen. De vorm is per streek en per kooi sterk verschillend. Eendenkooien kennen een aantal onderdelen: allereerst de kooiplas, een centraal stuk open water. Aan de kooiplas zitten drie of meerdere vangpijpen; sloten, voorzien van rietschermen, waar de eenden in gelokt kunnen worden. Complex van kooiplas en vangpijpen is omgeven door het kooibos. Vaak zijn in deze bossen hakhout en knotbomen te vinden. Eendenkooien zijn vaak omgeven door een sloot en soms is er nog een kooikerhuisje aanwezig.
+Eendenkooien zijn typisch Nederlandse elementen, ontstaan in de late middeleeuwen. De kooien werden in voorgaande eeuwen aangelegd om wilde eenden te vangen voor consumptie. Er wordt onderscheid gemaakt tussen levende kooien en rustende kooien. De zogenaamde levende kooien kennen speciale rechten (afpalingsrecht) en moeten vangklaar zijn. Dat wil zeggen dat minimaal één vangarm bedrijfsklaar moet zijn. Rustende kooien kennen deze rechten niet en hier is geen minimumeis aan de staat van onderhoud. Een kooirelict tenslotte is een overblijfsel van een eendenkooi, vaak is dan nog slechts de structuur van de kooi herkenbaar.
+Waarschijnlijk zijn er in Nederland ruim 1.000 eendenkooien geweest: nu resteren nog 118 geregistreerde kooien (levende kooien). Eendenkooien komen voor in grote delen van Nederland, alleen Drenthe, Limburg en Flevoland kennen geen eendenkooien (meer).
+Eendenkooien komen voor in diverse landschapstypen. De kooi ligt op een rustige plek in waterrijk gebied en is omzoomd door bos en struweel. Hierdoor zijn kooien in verder open landschap opvallende elementen. Eendenkooien vormen vaak rustgebieden in het landschap voor vogels en zoogdieren en kennen door de afwisseling van water en bos een rijke broedvogelbevolking.
+1.2, Afbakening
+- Onder het beheertype Eendenkooi vallen de geregistreerde eendenkooien en die kooien die aan de voorwaarden van geregistreerde kooien voldoen.
+- De Eendenkooi omvat de kooiplas met omringend kooibos, tot een maximale grootte van 4 ha.
+- Het beheer bestaat ui het openhouden van kooiplas en vangarmen, onderhoud in het kooibos met afzetten van hakhout en knotten van de knotbomen en het vangklaar houden van minimaal één van de vangarmen.
+Subsidieverplichtingen
+De beheerder dient het beheertype in stand te houden. De wijze waarop hij deze instandhoudingsverplichting invult, is aan de beheerder zelf.
+Voorbeeldgebieden
+……………………….
+N17.05, WILGENGRIEND (nieuw met ingang van 1 januari 2017)
+1.1, Algemene beschrijving
+Een wilgengriend is een perceel waarop wilgen geplant zijn, die periodiek kort boven de grond worden afgezet. Het betreft natte bossen van smalbladige wilgen die aan een zeer intensief hakhoutbeheer zijn onderworpen. De grienden komen zowel binnendijks als buitendijks voor, buitendijks vooral als getijdegriend. Als grienden periodiek door rivierwater overstroomd worden en niet meer regelmatig onderhouden vallen ze ook onder zachthoutooibossen. Wilgengrienden vormen van oudsher een karakteristiek onderdeel van het rivieren- en zoetwatergetijdenlandschap. In een traditioneel beheerde griend wordt de hergroei op de hakhoutstoven doorgaans elke 3 tot 5 (hooguit 10) jaar afgezet. Nog intensiever beheerde grienden hebben een 1- of 2-jarige kapcyclus. Buitendijks werden met name de zwaardere en langere wilgensoorten gekweekt die geschikt zijn als hakgriend. Binnendijks werd voornamelijk jaarlijks geoogst snijgriend gekweekt, maar tegenwoordig vaak hakgriend. De grienden hebben over het algemeen een weelderige ondergroei onder anderen van mossen en levermossen, en zijn rijk aan vogels en insecten.
+Getijdegrienden kennen door de getijde beweging dagelijks grote verschillen in waterstanden. In getijdegrienden kunnen bijzondere soorten als zomerklokje en spindotterbloem aanwezig zijn.
+De wilgenteelt in de natte griendbossen vereist een goede beheersing van de waterhuishouding. Greppels en duikers in de grienden dienen vooral voor de afwatering, kaden om het water binnen de griend vast te houden.
+In getijdegrienden bepalen eb en vloed het tijdstip waarop beheeractiviteiten kunnen worden uitgevoerd.
+1.2, Afbakening
+- Wilgengrienden worden periodiek laag bij de grond afgezet, lager dan 1,5 m.
+- Kenmerkend voor het beheertype is de aanwezigheid van hakhoutstoven van smalbladige wilgensoorten. Meestal dient om de 2 tot 5 jaar gehakt te worden.
+- Wilgengrienden staan op natte bodem en kunnen zowel binnen- als buitendijks voorkomen.
+Subsidieverplichtingen
+De beheerder dient het beheertype in stand te houden. De wijze waarop hij deze instandhoudingsverplichting invult, is aan de beheerder zelf.
+Voorbeeldgebieden
+langs de Nieuwe Merwede, de Rhoonse grienden, delen van de Biesbosch, Bommelerwaard, Polder Achthoven, Het Beesdse veld, Autena en Bolgarijen
+N17.06, VOCHTIG EN HELLINGHAKHOUT (nieuw met ingang van 1 januari 2017)
+1.1, Algemene beschrijving
+Vochtig en hellinghakhout zijn loofbossen die bestaan uit houtgewas dat men niet hoog laat opschieten, maar dicht bij de grond afzet om de stronken weer te laten ontspruiten en de gevormde opslag te kunnen oogsten. Middenbos bestaat uit hakhout met overstaanders (doorgegroeide hakhouttelgen) of bovenstaanders (aangeplante bomen).
+Hakhout en middenbos komen al eeuwen voor in Nederland. Door hakhoutbeheer kan een voortdurende houtopbrengst gewaarborgd worden. Door het dicht bij de grond afzetten van de bomen ontstonden de kenmerkende stobben of stoven, die vele eeuwen oud kunnen zijn. Verschillende boomsoorten zorgden voor hout voor verschillende doeleinden: brandhout, gebruikshout voor bijvoorbeeld gereedschapsstelen, schors voor de leerlooierij.
+In verschillende vormen komt dit type door het gehele land voor. De variatie is groot: van hellinghakhout in Zuid-limburg tot elzenhakhout in Zeeland. Essen- en elzenhakhout komt voor in het rivierengebied, maar soms ook in beekdalen en op de overgang van kleigronden- naar zandgebieden. Vochtige eikenhakhout komt voor op de zandgronden. De hakhouthellingbossen in Zuid-Limburg, waar het vaak in de vorm van middenbos voorkomt, worden ook tot dit type gerekend. Het beheertype Vochtig en hellinghakhout betreft hakhoutcomplexen die niet of nauwelijks machinaal te bewerken zijn doordat ze vochtig zijn, op een helling liggen of de stoven op rabatten staan.
+In West-Nederland en het rivierengebied zijn hakhoutbossen vaak opvallende elementen in het open landschap. Denk bijvoorbeeld aan elzenhakhout in het veenweidegebied. Overal in de natte zandgebieden komen vochtige hakhoutbossen voor, vaak eertijds gelegen in open gebieden, maar nu dikwijls omgeven door jonger bos en daardoor landschappelijk minder herkenbaar. Met name oud hakhout en middenbos herbergt met de oude groeiplaats, het dunne strooiseldek, vochtige microklimaat en het hakhoutbeheer samenhangende zeldzame bosplanten van vochtige standplaatsen en aan oude hakhoutstoven gebonden mossen en insecten. Het vochtige microklimaat in het essenhakhout wordt bedreigt door essentaksterfte, een agressieve schimmel die juist de jonge takken na het afzetten van de stoven aantast.
+1.2, Afbakening
+- Vochtig en hellinghakhout wordt periodiek afgezet.
+- Het betreft hakhout of middenbos op vochtige bodem of steile hellingen.
+- Kenmerkend voor het beheertype is de aanwezigheid van hakhoutstoven. Bij dit vochtige type kan gedacht worden aan boomsoorten van rijke groeiplaatsen als els, es, hazelaar, haagbeuk maar ook eiken op rabatten. De cyclus verschilt per vorm en boomsoort, maar meestal dient om de 5 tot 20 jaar afgezet te worden. Bij middenbos is een deel overstaanders die in een veel lagere cyclus gekapt worden.
+- Wilgengrienden vallen onder beheertype N17.05 Wilgengriend.
+Subsidieverplichtingen
+De beheerder dient het beheertype in stand te houden. De wijze waarop hij deze instandhoudingsverplichting invult, is aan de beheerder zelf.
+Voorbeeldgebieden
+……………………….
 ## Bijlage 3
-De koppeltabel zoals bedoeld in artikel 1.1, onderdeel f, is geplaatst op http://www.portaalnatuurenlandschap.nl/assets/Koppeltabel_08_04_2014-nationaal-def.pdf.
+De koppeltabel zoals bedoeld in artikel 1.1, onderdeel f, is geplaatst op http://www.portaalnatuurenlandschap.nl.
 ## Bijlage 4
