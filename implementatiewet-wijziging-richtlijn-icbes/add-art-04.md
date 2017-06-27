@@ -1,0 +1,2 @@
+# Artikel IV
+Op bewaarders die voor 18 maart 2016 zijn aangesteld door een beheerder van een beleggingsinstelling of icbe blijft, in uitzondering op het bepaalde bij of krachtens de artikelen 2:3g, 3:53 en 4:14, tweede lid, aanhef en onderdeel a, van de Wet op het financieel toezicht, tot en met 17 maart 2018 van toepassing het bepaalde bij of krachtens de artikelen 3:53 en 4:14, tweede lid, aanhef en onderdeel a, van die wet, zoals die artikelen luidden op 17 maart 2016.
