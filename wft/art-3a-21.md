@@ -2,7 +2,7 @@
 1. De Nederlandsche Bank kan ter uitvoering van een besluit op grond van artikel 21 van de verordening gemeenschappelijk afwikkelingsmechanisme of artikel 3A:17:
 a. kernkapitaalbestanddelen als bedoeld in artikel 26, eerste lid, onderdeel b tot en met f, van de verordening kapitaalvereisten, verminderen;
 b. de hoofdsom van de door of met medewerking van een entiteit uitgegeven kernkapitaalinstrumenten of eigendomsinstrumenten verminderen, of deze instrumenten intrekken; en
-c. de hoofdsom van de door of met medewerking van een entiteit uitgegeven relevante kapitaalinstrumenten verminderen, of geheel of gedeeltelijk omzetten in rechten op nieuw uit te geven kernkapitaalinstrumenten of eigendomsinstrumenten.
+c. de hoofdsom van de door of met medewerking van een entiteit uitgegeven relevante kapitaalinstrumenten verminderen, of geheel of gedeeltelijk omzetten in rechten op nieuw uit te geven kernkapitaalinstrumenten of eigendomsinstrumenten van die entiteit, van een moederonderneming van die entiteit die zelf een entiteit is als bedoeld in artikel 3A:2, onderdelen a tot en met e, of van een overbruggingsinstelling waaraan activa of passiva van die entiteit worden overgedragen.
 2. De Nederlandsche Bank:
 a. trekt kernkapitaalinstrumenten of eigendomsinstrumenten in, indien de nettowaarde van de entiteit blijkens de ingevolge artikel 3A:17, vierde lid, verrichte waardering negatief is; of
 b. zet relevante kapitaalinstrumenten om, indien de nettowaarde van de entiteit blijkens de ingevolge artikel 3A:17, vierde lid, verrichte waardering positief is.

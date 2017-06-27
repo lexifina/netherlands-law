@@ -1,4 +1,4 @@
 # Artikel 3a:35. Rechtsopvolging toegangsrechten
 1. Het lidmaatschap van of het recht op toegang tot betalings-, clearing- en afwikkelingssystemen, gereglementeerde markten, het beleggerscompensatiestelsel of het depositogarantiestelsel van de entiteit in afwikkeling, gaat van rechtswege over op de verkrijger.
 2. De verkrijger kan de aan het lidmaatschap verbonden rechten of het recht op toegang uitoefenen indien hij voldoet aan de daaraan verbonden voorwaarden, met uitzondering van de voorwaarde om te beschikken over een vereiste kredietbeoordeling door een kredietbeoordelingsbureau.
-3. De Nederlandsche Bank kan bepalen dat de verkrijger voor de duur van ten hoogste twee jaar niet hoeft te voldoen aan de voorwaarden voor lidmaatschap en toegang, bedoeld in het tweede lid. De Nederlandsche Bank kan op aanvraag besluiten tot verlenging met telkens ten hoogste twee jaar.
+3. De Nederlandsche Bank kan bepalen dat de verkrijger voor de duur van ten hoogste twee jaar niet hoeft te voldoen aan de voorwaarden voor lidmaatschap of toegang, bedoeld in het tweede lid. De Nederlandsche Bank kan op aanvraag besluiten tot verlenging met telkens ten hoogste twee jaar.

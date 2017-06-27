@@ -1,5 +1,5 @@
 # Artikel 3a:69. Aanwending financiële middelen
-1. De Nederlandsche Bank besluit over de aanwending van financiële middelen van het afwikkelingsfonds.
+1. De Nederlandsche Bank besluit over de aanwending van financiële middelen van het Afwikkelingsfonds.
 2. De financiële middelen kunnen worden aangewend voor de volgende doeleinden:
 a. het uitvoeren van de maatregelen, bedoeld in artikel 101 van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen; of
 b. het bijdragen aan de financiering van een groepsafwikkeling, waaronder het garanderen van leningen die zijn aangegaan door groepsfinancieringsregelingen overeenkomstig artikel 107, zevende lid, van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen aangegane leningen.

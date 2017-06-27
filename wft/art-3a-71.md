@@ -1,5 +1,5 @@
 # Artikel 3a:71. Periodieke bijdragen
-1. Ten behoeve van het afwikkelingsfonds kunnen ten minste eenmaal per jaar bijdragen worden geheven van:
+1. Ten behoeve van het Afwikkelingsfonds kunnen ten minste eenmaal per jaar bijdragen worden geheven van:
 a. beleggingsondernemingen die niet vallen onder de werking van de verordening gemeenschappelijk afwikkelingsmechanisme;
 b. banken met zetel in een staat die geen lidstaat is en hun bedrijf uitoefenen vanuit een in Nederland gelegen bijkantoor; en
 c. beleggingsondernemingen met zetel in een staat die geen lidstaat is en hun bedrijf uitoefenen vanuit een in Nederland gelegen bijkantoor.

@@ -87,7 +87,7 @@
 ##### § 2.2.3.2. Bijkantoor en verrichten van diensten door levensverzekeraars en schadeverzekeraars met zetel in een andere lidstaat
 ##### § 2.2.3.3. Bijkantoor en verrichten van diensten door levensverzekeraars of schadeverzekeraars met zetel in een staat die geen lidstaat is
 #### Afdeling 2.2.4. Uitoefenen van bedrijf van verzekeraar met beperkte risico-omvang
-##### § 2.2.4.1. Vergunningplicht en -eisen voor natura-uitvaartverzekeraars met zetel in Nederland
+##### § 2.2.4.1. Vergunningplicht en -eisen voor verzekeraars met beperkte risico-omvang met zetel in Nederland
 ##### § 2.2.4.1a. Vrijstelling
 ##### § 2.2.4.2. Vergunningplicht en -eisen voor verzekeraars met beperkte risico-omvang met zetel buiten Nederland
 ##### § 2.2.4.2a. Vrijstelling
@@ -304,7 +304,7 @@
 ##### § 3a.2.5.8. Overige bepalingen
 #### Afdeling 3a.2.6. Rechtsbescherming
 #### Afdeling 3a.2.7. Financiering van afwikkeling
-##### § 3a.2.7.1. Het Nederlandse afwikkelingsfonds
+##### § 3a.2.7.1. Het Nederlandse Afwikkelingsfonds
 ##### § 3a.2.7.2. Bijdragen aan het gemeenschappelijk afwikkelingsfonds
 ## 4. Deel Gedragstoezicht financiële ondernemingen
 ### Hoofdstuk 4.1. Inleidende bepalingen

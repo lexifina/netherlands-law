@@ -1,8 +1,7 @@
 # Artikel 212d
-1. De Minister van Financiën kan, De Nederlandsche Bank N.V. gehoord, als systeemexploitant en het onderscheiden systeem aanwijzen een formele overeenkomst tussen drie of meer deelnemers, de systeemexploitant, een afwikkelende instantie, een centrale tegenpartij, een verrekeningsinstituut of een indirecte deelnemer niet meegerekend, met gemeenschappelijke regels en standaardprocedures voor de clearing of het uitvoeren van overboekingsopdrachten tussen de deelnemers, mits:
+1. De Minister van Financiën kan, De Nederlandsche Bank N.V. gehoord, als systeem aanwijzen een formele overeenkomst tussen drie of meer deelnemers, de systeemexploitant, een afwikkelende instantie, een centrale tegenpartij, een verrekeningsinstituut of een indirecte deelnemer niet meegerekend, met gemeenschappelijke regels en standaardprocedures voor de clearing of het uitvoeren van overboekingsopdrachten tussen de deelnemers, mits:
 a. de deelnemers het Nederlandse recht hebben gekozen als het recht dat op die overeenkomst van toepassing is; en
 b. ten minste een van de deelnemers zijn hoofdvestiging in Nederland heeft.
-Als systeemexploitant kan worden aangewezen een entiteit of entiteiten die wettelijk aansprakelijk is of zijn voor de werking van een systeem.
 2. Indien dit noodzakelijk is met het oog op het vermijden van systeemrisico's, kan de Minister van Financiën, De Nederlandsche Bank N.V. gehoord, als systeem aanwijzen een formele overeenkomst tussen twee deelnemers, een afwikkelende instantie, een centrale tegenpartij, een verrekeningsinstituut of een indirecte deelnemer niet meegerekend, met gemeenschappelijke regels en standaardprocedures voor het uitvoeren van overboekingsopdrachten tussen de deelnemers, mits:
 a. de deelnemers het Nederlandse recht hebben gekozen als het recht dat op die overeenkomst van toepassing is; en
 b. ten minste een van de deelnemers zijn hoofdvestiging in Nederland heeft.
