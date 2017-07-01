@@ -1,0 +1,2 @@
+# Artikel 19a. Zeer zwak onderwijs
+De kwaliteit van het onderwijs is zeer zwak indien de school tekortschiet in de naleving van twee of meer bij of krachtens deze wet gegeven voorschriften en de school dientengevolge tekortschiet in het zorg dragen voor de veiligheid op school, bedoeld in artikel 5a, of het zodanig inrichten van het onderwijs dat leerlingen een ononderbroken ontwikkelingsproces kunnen doorlopen dan wel het afstemmen van het onderwijs op de ontwikkelingsmogelijkheden van de leerlingen, bedoeld in artikel 11, eerste lid.
