@@ -4,4 +4,6 @@ a. het in behandeling nemen en verlenen van een aanwijzing als bedoeld in artike
 b. keuring of controle van waren indien die worden voorgeschreven door een bindend besluit van de Europese Unie inclusief de controle van daarbij voorgeschreven documenten, en van overeenstemming tussen deze documenten en de desbetreffende waren;
 c. de behandeling van een aanvraag tot of verlenging van een erkenning van een inrichting of een inschrijving van een inrichting in een register;
 d. vooraf aangekondigde en vastgestelde controles of nog aan de eisen gesteld voor de aanwijzing of erkenning wordt voldaan die nodig zijn ter uitvoering van een bindend besluit van de Europese Unie.
-2. De bedragen ter vergoeding van de kosten worden bij ministeriële regeling vastgesteld.
+2. De bedragen ter vergoeding van de kosten worden bij ministeriële regeling vastgesteld. Bij ministeriële regeling kan worden bepaald dat:
+1° de in het eerste lid bedoelde werkzaamheden slechts worden uitgevoerd nadat het daarvoor vastgestelde bedrag is voldaan of daarvoor zekerheid is gesteld; en
+2° geen werkzaamheden worden verricht indien de betalingsplichtige niet binnen de gegeven betalingstermijn de kosten verschuldigd voor eerdere werkzaamheden op grond van deze wet heeft voldaan.
