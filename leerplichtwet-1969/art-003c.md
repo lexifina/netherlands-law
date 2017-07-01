@@ -1,5 +1,5 @@
 # Artikel 3c. Kennisgeving vervangende leerplicht
-1. Indien burgemeester en wethouders besluiten tot instemming met het verzoek, bedoeld in het artikel 3a, eerste lid, of artikel 3b, eerste lid, verstrekken zij aan Onze Minister de volgende gegevens van de jongere:
+1. Indien burgemeester en wethouders besluiten tot instemming met de aanvraag, bedoeld in het artikel 3a, eerste lid, of artikel 3b, eerste lid, verstrekken zij aan Onze Minister de volgende gegevens van de jongere:
 a. het persoonsgebonden nummer, de postcode van de woonplaats;
 b. het gegeven dat het een vervangende leerplicht betreft;
 c. de begin- en einddatum van de vervangende leerplicht;
