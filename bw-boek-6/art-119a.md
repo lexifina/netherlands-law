@@ -13,6 +13,7 @@ c. elke aanmerkelijke afwijking van goede handelspraktijken.
 a. de vraag of de schuldenaar objectieve redenen heeft om af te wijken van de 60 dagen termijn;
 b. de aard van de prestatie; en
 c. elke aanmerkelijke afwijking van goede handelspraktijken.
-6. Geen wettelijke rente is verschuldigd wanneer de schuldeiser zelf in verzuim is.
-7. De wettelijke rente is verschuldigd behalve voor zover de vertraging niet aan de schuldenaar kan worden toegerekend.
-8. Voor de toepassing van dit artikel wordt met de wettelijke rente gelijkgesteld een andere overeengekomen rente.
+6. In afwijking van lid 5 kunnen partijen geen uiterste dag van betaling overeenkomen van meer dan zestig dagen indien de schuldenaar een rechtspersoon is die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, niet heeft voldaan aan ten minste twee van de vereisten, bedoeld in artikel 397, leden 1 en 2 van Boek 2, en de schuldeiser een natuurlijk persoon is die handelt in de uitoefening van een beroep of bedrijf of een rechtspersoon, die gedurende die periode aan ten minste twee van die vereisten heeft voldaan. Een beding in een overeenkomst in strijd met de vorige zin is nietig.
+7. Geen wettelijke rente is verschuldigd wanneer de schuldeiser zelf in verzuim is.
+8. De wettelijke rente is verschuldigd behalve voor zover de vertraging niet aan de schuldenaar kan worden toegerekend.
+9. Voor de toepassing van dit artikel wordt met de wettelijke rente gelijkgesteld een andere overeengekomen rente.
