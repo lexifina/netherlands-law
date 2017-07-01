@@ -1,2 +1,2 @@
 # Artikel 21f
-Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden gegeven omtrent de wijze waarop de borgingsvoorziening in compensatie voorziet en de governance van de borgingsvoorziening, alsmede omtrent toezicht door Onze Minister op de naleving van die voorschriften.
+Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden gegeven omtrent de wijze waarop de borgingsvoorziening in compensatie als bedoeld in artikel 1, eerste lid, begripsomschrijving van compensatie, onderdeel a, voorziet en de governance van de borgingsvoorziening, alsmede omtrent toezicht door Onze Minister op de naleving van die voorschriften.

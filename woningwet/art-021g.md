@@ -1,0 +1,2 @@
+# Artikel 21g
+De rijksbelastingdienst verstrekt Onze Minister op zijn verzoek de gegevens die naar zijn oordeel noodzakelijk zijn om de geschiktheid en de betrouwbaarheid, bedoeld in de artikelen 25, tweede lid en 30, derde lid, te beoordelen, alsmede de gegevens die naar zijn oordeel noodzakelijk zijn ten behoeve van het toezicht op de governance en de integriteit, bedoeld in artikel 61, tweede lid, onderdeel b. Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden gegeven omtrent de toepassing van dit artikel.

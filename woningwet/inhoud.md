@@ -11,7 +11,7 @@
 ### Afdeling 2. Rechtsvorm en organisatie
 #### § 1. Rechtsvorm
 #### § 2. Het bestuur
-#### § 3. De raad van toezicht
+#### § 3. De raad van commissarissen
 #### § 4. De jaarrekening, het jaarverslag en het volkshuisvestingsverslag
 #### § 5. Verdere bepalingen
 ### Afdeling 3. Werkzaamheden
