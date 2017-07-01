@@ -1,4 +1,0 @@
-# Artikel 10a
-1. Dadelijk nadat hem het in artikel 10, eerste lid, bedoelde resultaat is medegedeeld, kan de verdachte de wens kenbaar maken dat tevens een onderzoek wordt verricht als bedoeld in artikel 8, tweede lid, onderdeel b, en derde lid, onderdeel b, van de Wegenverkeerswet 1994, artikel 27, tweede lid, onderdeel b, van de Scheepvaartverkeerswet, artikel 2.12, derde lid, onderdeel b, van de Wet luchtvaart, artikel 4, tweede lid, onderdeel b, van de Spoorwegwet of artikel 41, tweede lid, onderdeel b, van de Wet lokaal spoor.
-2. Indien de verdachte dit wenst en het onderzoek daardoor niet wordt vertraagd, geschiedt het afnemen van bloed of het opvangen van urine door dan wel onder toezicht van een daartoe door hem aan te wijzen arts.
-3. Het onderzoek geschiedt voor rekening van de verdachte.
