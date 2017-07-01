@@ -1,0 +1,2 @@
+# Artikel X
+Indien op de dag voor het tijdstip van inwerkingtreding van artikel II, onderdeel E, artikel 692 lid 2 van Boek 7 van het Burgerlijk Wetboek van toepassing is op de derde, bedoeld in titel 10, afdeling 11 van Boek 7 van het Burgerlijk Wetboek, blijven de artikelen 692 en 696 van Boek 7 van het Burgerlijk Wetboek en de daarop berustende bepalingen zoals deze luidden voor het tijdstip van inwerkingtreding van artikel II, onderdeel E, tot zes maanden na die inwerkingtreding van toepassing.
