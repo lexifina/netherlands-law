@@ -1,0 +1,4 @@
+# Artikel 105b
+1. Derden met inbegrip van accountantsorganisaties en een externe accountant, die in de uitoefening van hun beroep of bedrijf, op welke wijze dan ook, de administratie van de gefailleerde geheel of gedeeltelijk onder zich hebben, stellen die administratie en de daartoe behorende boeken, bescheiden en andere gegevensdragers desgevraagd volledig en ongeschonden aan de curator ter beschikking, zo nodig met inbegrip van de middelen om de inhoud binnen redelijke tijd leesbaar te maken.
+2. In afwijking van artikel 60 kunnen derden geen beroep op een retentierecht doen ten aanzien van de administratie van de gefailleerde die zij in de uitoefening van hun beroep of bedrijf, op welke wijze dan ook, onder zich hebben als de curator die administratie op grond van het eerste lid heeft opgevraagd.
+3. Elk beding dat strijdig is met het bepaalde in het eerste of tweede lid is nietig.
