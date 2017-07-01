@@ -2,6 +2,6 @@
 1. Indien de bijstand bij de taken, bedoeld in artikel 14, eerste lid, niet is georganiseerd met toepassing van artikel 14, negende lid, wordt deze bijstand georganiseerd met inachtneming van dit artikel.
 2. De werkgever laat zich met betrekking tot de taken, bedoeld in artikel 14, eerste lid, bijstaan door een arbodienst, ten behoeve waarvan overeenkomstig artikel 20 een certificaat is afgegeven en die deel uitmaakt van de organisatie van het bedrijf of de inrichting.
 3. Voorzover de mogelijkheden onvoldoende zijn om de bijstand binnen het bedrijf of de inrichting te organiseren, wordt de bijstand verleend door een andere arbodienst ten behoeve waarvan, overeenkomstig artikel 20, een certificaat is afgegeven.
-4. De deskundige werknemers en andere deskundige personen, bedoeld in artikel 13, en de werknemers van een arbodienst, werken bij het verlenen van bijstand aan een werkgever samen.
+4. De werknemers van een arbodienst werken nauw samen met en adviseren en verlenen medewerking aan de in artikel 13, eerste lid, genoemde deskundige personen, de ondernemingsraad of de personeelsvertegenwoordiging, of, bij het ontbreken daarvan, de belanghebbende werknemers, inzake te nemen, genomen en uit te voeren maatregelen gericht op een zo goed mogelijk arbeidsomstandighedenbeleid. Het niet naleven van deze verplichting door de werknemers van een arbodienst wordt aangemerkt als een overtreding.
 5. Artikel 13, vijfde en zesde lid, is van overeenkomstige toepassing.
-6. Artikel 14, derde tot en met zesde lid, twaalfde tot en met veertiende lid, is van toepassing.
+6. Artikel 14, tweede lid, onder a en onder d tot en met j, derde tot en met zevende lid en twaalfde tot en met vijftiende lid, is van toepassing.
