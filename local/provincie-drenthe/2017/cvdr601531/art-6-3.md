@@ -1,2 +1,0 @@
-# Artikel 6,. sub e
-Op basis van artikel 1, vierde lid, onderdeel c, van de Algemene groepsvrijstellingsverordening dient een onderneming niet in moeilijkheden te verkeren. Een onderneming die minder dan drie jaar bestaat, is gevrijwaard van deze eis en is per definitie niet in moeilijkheden. Artikel 2, lid 18, sub a tot en met e, van de Algemene groepsvrijstellingsverordening geeft aan wanneer er sprake is van moeilijkheden.

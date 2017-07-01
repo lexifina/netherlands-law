@@ -1,9 +1,0 @@
-# Artikel 10,. Subsidiabele kosten
-Als subsidiabele kosten komen de volgende, in redelijkheid ten behoeve van de activiteit zoals opgenomen in artikel 3, tweede lid, te maken, kosten in aanmerking:
-a. het inschakelen van een onafhankelijke organisatie, die is ingeschreven in een handelsregister;
-b. materialen die onderdeel zijn van een prototype;
-c. de loonkosten van werknemers en bijdrage eigen uren van de onderzoekers, technici en ander ondersteunend personeel voor zover zij zich met de activiteit bezighouden;
-Loonkosten of de bijdrage in eigen uren worden berekend door het aantal aan het project bestede uren te vermenigvuldigen met een volgens één van de volgende methodieken berekend tarief. Deze zijn:
-1. een per medewerker bepaald individueel uurtarief, berekend op basis van brutojaarloon, vermeerderd met een opslag van 32% voor werkgeverslasten, waarna over dat bedrag 15% aan overheadkosten wordt berekend en dat bedrag vervolgens door 1.720 uur op basis van een 40-urige werkweek wordt gedeeld. Het brutojaarloon wordt berekend exclusief vakantiegeld, exclusief (overige) vergoedingen, bijzondere beloningen, winst- of prestatieafhankelijke uitkeringen;
-2. eigen arbeid. Indien er geen sprake is van een dienstverband, wordt er geacht geen sprake te zijn van loonkosten als hiervoor bedoeld onder sub c, onder 1°. Er is in dat geval sprake van eigen arbeid, die gezien moet worden als een bijdrage in natura, waarvoor een uurtarief van € 39,-- geldt. De betaalde overheidssteun aan een project die bijdragen in natura bevat, mag aan het einde van het project niet hoger zijn dan de totale subsidiabele uitgaven exclusief de bijdragen in natura.
-d. huurkosten van apparatuur en uitrusting voor zover en zolang zij worden gebruikt voor het project.
