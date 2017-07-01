@@ -87,7 +87,7 @@ Wet geurhinder en veehouderij: artikel 7
 Wet gewasbeschermingsmiddelen en biociden: artikel 108
 Wet investeren in jongeren: de artikelen 37, 57 en 91, voor zover het besluiten betreft van de voorzitter van gedeputeerde staten
 Wet luchtvaart:
-a. de artikelen 8.4 en 8.15
+a. de artikelen 8.4, 8.15 en 8.25fa
 b. de artikelen 8.70, eerste lid, en 10.15, eerste lid, voor zover het betreft de luchthavens Lelystad, Rotterdam en Eindhoven
 c. artikel 10.27, eerste lid, voor zover het betreft een vergunning voor burgermedegebruik door tussenkomst van een burgerexploitant voor de luchthaven Eindhoven.
 Wet melding collectief ontslag
