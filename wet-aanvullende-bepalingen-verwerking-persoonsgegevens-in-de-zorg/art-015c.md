@@ -1,0 +1,3 @@
+# Artikel 15c
+1. De zorgaanbieder geeft de cliënt informatie over zijn rechten bij elektronische gegevensuitwisseling, de wijze waarop hij zijn rechten kan uitoefenen en over de werking van het elektronisch uitwisselingssysteem dat voor de gegevensuitwisseling wordt gebruikt. Indien nieuwe categorieën van zorgaanbieders aansluiten bij het elektronisch uitwisselingssysteem, of de werking van het elektronisch uitwisselingssysteem anderszins substantieel wordt gewijzigd, informeert de zorgaanbieder de cliënt over deze wijziging alsmede over de mogelijkheid om de gegeven toestemming, bedoeld in artikel 15a, aan te passen of in te trekken.
+2. [Dit lid is nog niet in werking getreden.]
