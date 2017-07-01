@@ -1,0 +1,3 @@
+# Artikel V
+1. Rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding die op 1 september 2015 en in juni 2014 als rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding waren benoemd en in de maand juni 2014 geen tegemoetkoming in de reiskosten voor hun woon-werkverkeer hebben ontvangen, hebben recht op een eenmalige uitkering van € 50.
+2. In afwijking van het eerste lid wordt de uitkering niet verstrekt indien geen tegemoetkoming in de reiskosten voor woon-werkverkeer is ontvangen wegens het ter beschikking hebben van een dienstauto die is aangemerkt als vervoer van de werkgever.
