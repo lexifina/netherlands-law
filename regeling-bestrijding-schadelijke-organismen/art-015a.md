@@ -1,0 +1,4 @@
+# Artikel 15a
+1. Besluiten, genomen door het bestuur, de voorzitter of de secretaris van het Productschap Akkerbouw en het Productschap Tuinbouw op grond van bevoegdheden in verordeningen die na inwerkingtreding van deze regeling aan de minister zijn toegekend, worden met ingang van het tijdstip van inwerkingtreding van deze regeling aangemerkt als besluiten van de minister.
+2. De op het tijdstip van inwerkingtreding van deze regeling aanhangige aanvragen en verzoeken tot het nemen van besluiten als bedoeld in het eerste lid zijn met ingang van dat tijdstip van rechtswege aanhangig bij de minister.
+3. Voor zover aan een besluit, genomen op grond van bevoegdheden die na inwerkingtreding van deze regeling aan de minister zijn toegekend, voorschriften zijn verbonden en in deze voorschriften het bevoegd gezag wordt vermeld, wordt de minister vanaf het tijdstip van inwerkingtreding van deze regeling aangemerkt als het bevoegd gezag.

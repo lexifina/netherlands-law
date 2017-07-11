@@ -1,0 +1,4 @@
+# Artikel 4b
+1. Het is degene die een terrein of perceel in gebruik heeft verboden hierop boomkwekerijgewassen en vaste planten te telen, tenzij het gebruikte teeltmateriaal afkomstig is van en geteeld wordt op een terrein of perceel waarvoor een onderzoeksverklaring AM is afgegeven of op een terrein of perceel waarop de laatste twaalf jaar geen aardappelen of andere, in bijlage I onder punt 1 van richtlijn 2007/33/EG vermelde waardplanten zijn geteeld.
+2. Het is verboden boomkwekerijgewassen en vaste planten in het verkeer te brengen tenzij het gebruikte teeltmateriaal afkomstig is van en geteeld wordt op een terrein of perceel waarvoor een onderzoeksverklaring AM is afgegeven of op een terrein of perceel waarop de laatste twaalf jaar geen aardappelen of andere, in bijlage I onder punt 1 van richtlijn 2007/33/EG vermelde waardplanten zijn geteeld.
+3. De verklaring wordt bewaard gedurende 12 maanden nadat de planten op het terrein of perceel zijn geoogst.
