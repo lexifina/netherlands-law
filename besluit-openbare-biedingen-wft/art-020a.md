@@ -1,0 +1,2 @@
+# Artikel 20a
+Indien een partieel bod is uitgebracht op een doelvennootschap met zetel buiten Nederland en de Autoriteit Financiële Markten ingevolge artikel 5:74, tweede lid, van de wet bevoegd is tot goedkeuring van het biedingsbericht, stelt de doelvennootschap uiterlijk tien werkdagen voor het einde van de aanmeldingstermijn een bericht voor haar aandeelhouders algemeen verkrijgbaar dat ten minste de in bijlage G bedoelde informatie inhoudt. Artikel 18, derde en vierde lid, zijn van overeenkomstige toepassing.

@@ -1,0 +1,2 @@
+# Artikel 9a
+Indien de Autoriteit Financiële Markten het biedingsbericht heeft goedgekeurd, maar de bieder geen bod uitbrengt overeenkomstig artikel 10, eerste lid, is het hem en personen met wie hij in onderling overleg handelt gedurende 6 maanden na de openbare mededeling, bedoeld in artikel 5:78 van de wet, niet toegestaan een openbaar bod aan te kondigen of uit te brengen op effecten van dezelfde uitgevende instelling Artikel 2a, vierde lid, is van overeenkomstige toepassing.
