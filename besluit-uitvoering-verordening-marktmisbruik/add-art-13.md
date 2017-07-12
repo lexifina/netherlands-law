@@ -1,0 +1,2 @@
+# Artikel XIII
+Indien de toezichthouder naar aanleiding van een bezwaar- of beroepprocedure een nieuw besluit neemt over het opleggen van een bestuurlijke boete als bedoeld in artikel 1:80 van de Wet op het financieel toezicht, die is opgelegd voor inwerkingtreding van dit besluit, zijn op dat nieuwe besluit de regels over openbaarmaking van toepassing die golden op het tijdstip dat het bestreden besluit werd genomen.
