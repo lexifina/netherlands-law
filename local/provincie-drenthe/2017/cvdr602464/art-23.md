@@ -1,0 +1,3 @@
+# Artikel 23,. Subsidiabele kosten
+1. De brutoloonkosten van de medewerker zijn subsidiabel, voor zover de aanvrager voldoet aan de voorwaarden van de de-minimisverordening.
+2. Subsidiabel zijn de loonkosten van de begeleider, voor zover de aanvrager voldoet aan de voorwaarden van artikel 28 lid 4 van de AGVV. De kosten worden berekend door de begeleidingsuren te vermenigvuldigen met het uurtarief van de begeleider van de organisatie waar de medewerker wordt geplaatst.

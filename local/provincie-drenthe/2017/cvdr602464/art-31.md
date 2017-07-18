@@ -1,0 +1,4 @@
+# Artikel 31,. Toetsingscriteria
+1. De promovendus is werkzaam bij een vestiging van de aanvrager in de provincies Drenthe, Fryslân of Groningen.
+2. De promovendus dient minimaal 12 uren per week ingezet te worden.
+3. Het gedetacheerd hebben of het in dienst hebben van een promovendus geldt voor een duur van minimaal 3 maanden en maximaal 48 maanden.

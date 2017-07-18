@@ -1,0 +1,2 @@
+# Artikel 13,. Bedrag vaststelling
+Het subsidiebedrag wordt vastgesteld op basis van de subsidiabele kosten die door de subsidieontvanger zijn gemaakt en betaald ten behoeve van de subsidiabele activiteiten.

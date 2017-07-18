@@ -1,0 +1,4 @@
+# Artikel 8,. Maximum subsidie per onderneming
+Het maximum aan totaal te ontvangen subsidie op basis van deze subsidieregeling bedraagt voor één onderneming € 200.000,--, waarbij voor de toepassing van dit artikel één onderneming alle rechtspersonen omvat die de volgende band met elkaar onderhouden:
+i. de meerderheid van de stemrechten van de aandeelhouders; of
+ii. de meerderheid van vennoten van een andere onderneming.

@@ -1,0 +1,2 @@
+# Artikel 22,. Subsidiabele activiteiten
+Voor subsidie komt in aanmerking kennisontwikkeling middels het tijdelijk plaatsen van een medewerker van de aanvrager, met een relevante HBO of WO diploma of aantoonbare relevante werkervaring op vergelijkbaar niveau, bij een andere organisatie in de Europese Unie inclusief het begeleiden van deze medewerker door de andere organisatie. De kennisontwikkeling is gericht op technologische innovatie, organisatie-innovatie of marktinnovatie en komt ten goede aan de aanvrager.
