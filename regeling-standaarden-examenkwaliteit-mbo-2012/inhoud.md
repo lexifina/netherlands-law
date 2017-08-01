@@ -1,3 +1,0 @@
-# Inhoud
-## Inleiding
-## De normering
