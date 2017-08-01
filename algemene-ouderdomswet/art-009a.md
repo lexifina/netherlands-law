@@ -5,6 +5,9 @@
 a. de pensioengerechtigde, bedoeld in artikel 9, eerste lid, onderdeel a, die werkzaamheden verricht in het algemeen belang en niet in Nederland woont;
 b. de pensioengerechtigde, bedoeld in artikel 9, eerste lid, onderdeel a, die in Aruba, Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius en Saba woont; of
 c. de gezinsleden van de in de onderdelen a of b bedoelde pensioengerechtigde.
-4. Onze Minister deelt mede in welke landen op grond van een verdrag of een besluit van een volkenrechtelijke organisatie recht op ouderdomspensioen bestaat alsof de pensioengerechtigde in Nederland woont. In deze mededeling wordt tevens opgenomen:
+4. Recht op ouderdomspensioen alsof hij in Nederland woont, heeft de pensioengerechtigde die niet in Nederland woont en recht heeft op:
+a. een buitengewoon pensioen, garantietoeslag, uitkering, periodieke uitkering, garantie-uitkering, vergoeding of tegemoetkoming als bedoeld in de Wet buitengewoon pensioen 1940–1945, de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers, de Wet buitengewoon pensioen Indisch verzet, de Wet uitkeringen vervolgingsslachtoffers 1940–1945, de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945 of de Algemene Oorlogsongevallenregeling Indonesië met inbegrip van het besluit van de Luitenant-Gouverneur-Generaal van Nederlands-Indië van 5 november 1946 (Indisch Staatsblad, 1946, 118); of
+b. een pensioen, toeslag, uitkering, vergoeding of tegemoetkoming, vergelijkbaar met een pensioen, toeslag, uitkering, vergoeding of tegemoetkoming als bedoeld in onderdeel a, op grond van een buitenlandse wettelijke regeling die vergelijkbaar is met de wettelijke regelingen, genoemd in onderdeel a.
+5. Onze Minister deelt mede in welke landen op grond van een verdrag of een besluit van een volkenrechtelijke organisatie recht op ouderdomspensioen bestaat alsof de pensioengerechtigde in Nederland woont. In deze mededeling wordt tevens opgenomen:
 a. de vindplaats van het desbetreffende verdrag of besluit, en
 b. de eventueel in dat verdrag of besluit aanwezige beperkingen.
