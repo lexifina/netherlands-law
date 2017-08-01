@@ -4,6 +4,8 @@
 ### Afdeling 1. Regelen voor het openbaar onderwijs, tevens voorwaarden voor bekostiging van het bijzonder onderwijs
 #### § 1. Onderwijs
 #### § 2. Personeel
+#### § 2a. Lerarenregister
+#### § 2b. Registervoorportaal
 #### § 3. Leerlingen
 #### § 4. Ouders
 ### Afdeling 2. Overige regelen voor het openbaar onderwijs

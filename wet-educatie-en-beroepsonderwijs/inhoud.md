@@ -32,9 +32,13 @@
 ## Hoofdstuk 4. Personeel
 ### Titel 1. Personeel van instellingen voor educatie en beroepsonderwijs
 #### § 1. Formatie; rechtspositie
+### Titel 1a. Het beroep docent
 ### Titel 2. Vereisten benoeming of tewerkstelling
 ### Titel 2a. Benoembaarheidsvereiste voor overig personeel van instellingen
 ### Titel 3. Personeel van de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven
+### Titel 4. Lerarenregister en registervoorportaal
+#### Paragraaf 1. Het lerarenregister
+#### Paragraaf 2. Het registervoorportaal
 ## Hoofdstuk 6. Het onderwijsaanbod beroepsopleidingen
 ### Titel 1. Het beroepsonderwijs, verzorgd door uit 's Rijks kas bekostigde instellingen
 ### Titel 2. Het beroepsonderwijs, verzorgd door niet uit 's Rijks kas bekostigde instellingen
@@ -55,6 +59,7 @@
 ### Titel 5. Commissie van beroep voor de examens
 ### Titel 7. Practicumplaatsen voor studenten in opleiding
 ## Hoofdstuk 8. Inschrijving, toelating, bindend studieadvies, vooropleidingseisen, voortijdig schoolverlaten, samenwerking
+### Titel 0. Aanmelding
 ### Titel 1. Inschrijving
 ### Titel 2. Vooropleidingseisen
 ### Titel 3. Bestrijding voortijdig schoolverlaten niet-leerplichtigen
@@ -81,4 +86,5 @@
 ### Titel 3. Invoering van de wet
 ### Titel 4. Bepalingen met betrekking tot passend onderwijs
 ### Titel 4a. Beroepsopleidingen oude stijl
+### Titel 4b. Invoering van de Wet aanscherping eisen examencommissies in het middelbaar beroepsonderwijs
 ### Titel 5. Evaluatie, inwerkingtreding en citeertitel

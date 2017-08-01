@@ -6,6 +6,8 @@
 ##### § 1. Onderwijs
 ##### § 2. Ondersteuningsstructuur
 ##### § 3. Personeel
+##### § 3a. Lerarenregister
+##### § 3b. Registervoorportaal
 ##### § 4. Leerlingen
 ##### § 5. Ouders
 #### Afdeling 2. Overige regelen voor het openbaar onderwijs
