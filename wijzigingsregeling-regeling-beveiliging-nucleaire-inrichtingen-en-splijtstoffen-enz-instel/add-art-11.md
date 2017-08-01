@@ -1,0 +1,7 @@
+# Artikel XI
+1. Besluiten genomen vòòr het tijdstip van inwerkingtreding van deze regeling waarvoor op grond van deze regeling de bevoegdheid aan de Autoriteit is toegekend, worden vanaf het tijdstip van inwerkingtreding van deze regeling aangemerkt als besluiten van de Autoriteit.
+2. De op het tijdstip van inwerkingtreding van deze regeling aanhangige aanvragen om beschikkingen waarvan de bevoegdheid met ingang van de inwerkingtreding van deze regeling aan de Autoriteit is toegekend, worden vanaf dat tijdstip aanhangig bij de Autoriteit.
+3. Bezwaren tegen besluiten als bedoeld in het eerste lid zijn met ingang van dat tijdstip van rechtswege aanhangig bij de Autoriteit.
+4. In bestuursrechtelijke rechtsgedingen inzake besluiten als bedoeld in het eerste lid treedt met ingang van het tijdstip van inwerkingtreding van deze regeling de Autoriteit in de plaats van de Minister van Infrastructuur en Milieu.
+5. Voor zover aan een beschikking genomen op grond van bevoegdheden die na het tijdstip van inwerkingtreding van deze regeling aan de Autoriteit zijn toegekend, voorschriften zijn verbonden en in deze voorschriften het bevoegd gezag wordt vermeld, wordt de Autoriteit met ingang van dat tijdstip aangemerkt als het bevoegd gezag.
+6. Verplichtingen jegens de Minister van Infrastructuur en Milieu die op het tijdstip van inwerkingtreding van deze regeling volledig zijn vervuld en die met ingang van dat tijdstip jegens de Autoriteit moeten worden vervuld, worden met ingang van dat tijdstip aangemerkt als verplichtingen, vervuld jegens de Autoriteit.
