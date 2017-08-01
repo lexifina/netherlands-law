@@ -1,0 +1,3 @@
+# Artikel 42b. Gegevensverstrekking leerlingen die naar verwachting overstappen naar het middelbaar beroepsonderwijs
+1. [Dit lid is nog niet in werking getreden.]
+2. Bij ministeriële regeling worden ter uitvoering van het eerste lid regels vastgesteld. Deze betreffen in ieder geval een specificatie van de bij de opgave te leveren gegevens, het tijdstip en de wijze waarop deze gegevens worden geleverd.
