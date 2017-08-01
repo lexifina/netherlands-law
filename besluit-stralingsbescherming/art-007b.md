@@ -1,0 +1,4 @@
+# Artikel 7b
+1. De ingevolge dit besluit door een algemeen coördinerend deskundige of coördinerend deskundige te verrichten taken worden slechts uitgevoerd door een persoon die als een zodanige deskundige voor de uitvoering van de betrokken taak is ingeschreven in het register, bedoeld in artikel 69, tweede lid, van de wet.
+2. Bij regeling van Onze Ministers worden eisen vastgesteld met betrekking tot de kennis, vaardigheden en bekwaamheden waaraan moet worden voldaan om als algemeen coördinerend deskundige of coördinerend deskundige in het register, bedoeld in het eerste lid, te worden ingeschreven. De eisen kunnen verschillend worden vastgesteld voor de verschillende taken.
+3. Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op de aanvraag tot inschrijving als bedoeld in het eerste lid.

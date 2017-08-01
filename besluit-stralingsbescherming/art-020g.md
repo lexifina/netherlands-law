@@ -1,0 +1,2 @@
+# Artikel 20g
+De vergunninghouder stelt de kosten die hij in rekening brengt voor het in werking houden van een inrichting waarin splijtstoffen worden opgeslagen als bedoeld in artikel 15, onder b, van de wet, die op grond van artikel 37, achtste lid, door de Autoriteit is aangewezen, vast op een transparante, objectieve en niet-discriminerende wijze. Tot de kosten behoren ook de kosten die de vergunninghouder maakt voor onderzoek en ontwikkeling voor het beheer van radioactieve afvalstoffen, zoals dit in het nationaal programma, bedoeld in artikel 20h, is opgenomen.
