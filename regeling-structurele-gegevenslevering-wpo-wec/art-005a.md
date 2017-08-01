@@ -1,0 +1,3 @@
+# Artikel 5a. Beschrijving gegevens lerarenregister en registervoorportaal; wijze van levering
+1. De gegevens die worden geleverd en verwerkt voor het lerarenregister en het registervoorportaal worden gedefinieerd en geordend volgens de voorschriften vermeld in bijlage 6 bij deze regeling.
+2. De levering van gegevens voor het lerarenregister en het registervoorportaal en de wijze waarop een leraar die niet is benoemd of tewerkgesteld zonder benoeming ten behoeve van opname in het lerarenregister kan aantonen aan de bekwaamheidseisen te voldoen geschiedt overeenkomstig bijlage 6 bij deze regeling.
