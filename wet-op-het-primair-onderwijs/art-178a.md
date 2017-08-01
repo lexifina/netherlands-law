@@ -7,7 +7,7 @@ c. de groep;
 d. indien van toepassing het gewicht ten behoeve van de toekenning van aanvullende bekostiging voor personeelskosten voor de bestrijding van onderwijsachterstanden, indien het betreft een leerling die is ingeschreven op een basisschool;
 e. indien van toepassing de aanduiding dat het betreft een leerling met een niet-Nederlandse culturele achtergrond, indien het betreft een leerling die is ingeschreven op een speciale school voor basisonderwijs, dan wel de aanduiding dat het betreft een leerling met een niet-Nederlandse culturele achtergrond met uitzondering van leerlingen van wie ten minste een van de ouders of voogden afkomstig is uit Suriname, de Nederlandse Antillen of Aruba, indien het betreft een leerling die is ingeschreven op een basisschool;
 f. indien van toepassing voor- en vroegschoolse educatie;
-g. indien van toepassing de uitslag van de centrale eindtoets of andere eindtoets, bedoeld in artikel 9b, het niveau waarop de centrale eindtoets of andere eindtoets is afgelegd en indien geen centrale eindtoets of andere eindtoets is afgelegd de reden daarvan;
+g. indien van toepassing de uitslag van de centrale eindtoets of andere eindtoets, bedoeld in artikel 9b, en indien geen centrale eindtoets of andere eindtoets is afgelegd de reden daarvan;
 h. het schooladvies, bedoeld in artikel 42, tweede lid;
 i. het registratienummer van de school of, indien sprake is van een nevenvestiging, het registratienummer daarvan;
 j. bekostigingsindicatie; en
