@@ -1,0 +1,3 @@
+# Artikel II. Overgangsbepaling
+1. De wijziging die artikel I aanbrengt in bijlage 1 van de Regeling examenprogramma's voortgezet onderwijs, is in het schooljaar 2017–2018 van toepassing op leerlingen die met ingang van 1 augustus 2017 zijn toegelaten tot het vierde of vijfde leerjaar van het havo, of tot het vierde, vijfde of zesde leerjaar van het vwo.
+2. De verplichting die deze wijziging aanbrengt in bijlage 1 om de tijdvakken 1 tot en met 4 van Domein B op te nemen in het schoolexamen, is niet van toepassing op leerlingen die met ingang van 1 augustus 2017 zijn toegelaten tot het vijfde leerjaar van het havo.
