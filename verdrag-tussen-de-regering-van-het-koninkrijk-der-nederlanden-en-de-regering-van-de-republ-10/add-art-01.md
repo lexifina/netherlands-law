@@ -1,0 +1,2 @@
+# I. With reference to subparagraph e of paragraph 1 of Article 3
+In case an entity that is treated as a body corporate for tax purposes is liable as such to tax in a State, but the income of that entity is taxed in the other State respectively as income of the participants in that entity, the competent authorities shall take such measures that on the one hand no double taxation remains, but on the other hand it is prevented that merely as a result of application of the Agreement income is (partly) not subject to tax.

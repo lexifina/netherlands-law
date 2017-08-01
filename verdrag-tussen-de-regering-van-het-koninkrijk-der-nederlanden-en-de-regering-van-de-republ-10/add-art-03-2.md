@@ -1,0 +1,2 @@
+# III. Ad artikel 5, derde lid
+Het is wel verstaan dat vertegenwoordigingen die in Indonesië werkzaam zijn op grond van een vergunning die is afgegeven door het Indonesische Ministerie van Financiën of het Indonesische Ministerie van Handel, geen vaste inrichting vormen, tenzij zij andere zakelijke werkzaamheden uitoefenen dan die welke van voorbereidende aard zijn of het karakter van hulpwerkzaamheid hebben.

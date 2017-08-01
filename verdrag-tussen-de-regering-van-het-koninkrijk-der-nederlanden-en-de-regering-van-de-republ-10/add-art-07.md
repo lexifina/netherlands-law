@@ -1,0 +1,2 @@
+# VII. With reference to paragraph 3 subparagraph (iii) of Article 11
+A financial institution as mentioned in paragraph 3 subparagraph (iii) of Article 11, includes especially: the Netherlands Development Finance Company (Nederlandse Financierings-Maatschappij voor Ontwikkelingslanden N.V.), and the Netherlands Investment Bank for Developing Countries (Nederlandse Investeringsbank voor Ontwikkelingslanden N.V.).

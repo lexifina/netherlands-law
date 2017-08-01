@@ -1,0 +1,2 @@
+# I. Ad artikel 3, eerste lid, letter e
+In geval een lichaam dat in een Staat voor de belastingheffing als een rechtspersoon wordt behandeld en als zodanig aan belasting wordt onderworpen, doch het inkomen van dat lichaam in de andere Staat als inkomen van de gerechtigden tot dat lichaam wordt belast, nemen de bevoegde autoriteiten zodanige maatregelen dat aan de ene kant geen dubbele belasting resteert, doch aan de andere kant voorkomen wordt dat slechts als een gevolg van de toepassing van het Verdrag inkomsten (deels) niet aan belasting worden onderworpen.

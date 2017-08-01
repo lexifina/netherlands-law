@@ -1,0 +1,2 @@
+# XI. With reference to Article 28
+The provisions of Article 28 shall also apply accordingly to information that is foreseeable relevant for carrying out income-related regulations if the Netherlands tax administration is in charge of implementing and enforcing such income-related regulations. Information received under this Protocol shall be used only for the purpose of levying the contributions, granting the benefits or determining the extent of these contributions and benefits derived from income-related regulations.
