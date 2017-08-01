@@ -1,0 +1,2 @@
+# Artikel VI
+Bij regeling van Onze Minister van Infrastructuur en Milieu worden regels gesteld met betrekking tot de gevolgen van de inwerkingtreding van deze wet voor zover de artikelen IV en V daarin niet voorzien. Deze regels gelden uiterlijk tot en met 31 december van het kalenderjaar na dat waarin zij in werking zijn getreden. Van het vaststellen van deze regels wordt kennis gegeven aan de beide kamers der Staten-Generaal.

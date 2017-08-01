@@ -1,0 +1,5 @@
+# Artikel IV
+1. Besluiten genomen op grond van bevoegdheden die na inwerkingtreding van deze wet aan de Autoriteit zijn toegekend, worden vanaf het tijdstip van inwerkingtreding van deze wet aangemerkt als besluiten van de Autoriteit.
+2. De op het tijdstip van inwerkingtreding van deze wet aanhangige aanvragen van en bezwaren tegen besluiten als bedoeld in het eerste lid zijn met ingang van dat tijdstip van rechtswege aanhangig bij de Autoriteit.
+3. In bestuursrechtelijke rechtsgedingen inzake besluiten als bedoeld in het eerste lid treedt vanaf het tijdstip van inwerkingtreding van deze wet de Autoriteit in de plaats van Onze Minister van Infrastructuur en Milieu.
+4. Voor zover aan een beschikking genomen op grond van bevoegdheden die na inwerkingtreding van deze wet aan de Autoriteit zijn toegekend, voorschriften zijn verbonden en in deze voorschriften het bevoegd gezag wordt vermeld, wordt de Autoriteit vanaf het tijdstip van inwerkingtreding van deze wet aangemerkt als het bevoegd gezag.
