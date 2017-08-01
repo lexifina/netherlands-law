@@ -1,6 +1,6 @@
 # Inhoud
 ## Hoofdstuk I. Begripsbepalingen en werkingssfeer
-## Hoofdstuk II. De Commissie Reactorveiligheid
+## Hoofdstuk II. De autoriteit nucleaire veiligheid en stralingsbescherming
 ## Hoofdstuk III. Splijtstoffen, ertsen en inrichtingen
 ### Afdeling 1. Registratie van splijtstoffen en ertsen
 ### Afdeling 2. Vergunningen
