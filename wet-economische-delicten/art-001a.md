@@ -34,7 +34,7 @@ de Wet ruimtelijke ordening, artikel 7.2;
 de Wet voorkoming verontreiniging door schepen, de artikelen 6, tweede lid, 10, eerste lid, 11, eerste en tweede lid, 12a, eerste tot en met vierde lid, 12d, eerste lid, en 12e, tweede lid;
 de Woningwet, de artikelen 1a, 1b, 7b, 14a, 16, 103 en 120, tweede lid;
 3°. overtredingen van voorschriften, gesteld bij of krachtens:
-de Kernenergiewet, de artikelen 36, eerste lid, en - voor zover aangeduid als strafbare feiten - 73;
+de Kernenergiewet, de artikelen 4, eerste lid, 36, eerste lid, en – voor zover aangeduid als strafbare feiten – 73;
 de Meststoffenwet, de artikelen 4, 5, 6, 9, tweede en derde lid, 11, vijfde lid, 13, vierde lid, 15, 16, 34, 35, 36, 37, 38, derde lid, en 40;
 de Visserijwet 1963, de artikelen 2a, 3 en 3a, voor zover de overtreding van die voorschriften in de EU- verordening ter uitvoering waarvan zij strekken niet als ernstige inbreuk wordt aangemerkt, 4, 7, voor zover wordt gevist met meer dan twee hengels of de peur, 9, 16 en 21, voor zover wordt gevist met de hengel of de peur, dan wel overtreding van voorschriften, verbonden aan op grond van het bepaalde bij of krachtens de artikelen 7 en 21 van de Visserijwet 1963 verleende schriftelijke toestemmingen en huurovereenkomsten;
 de Waterwet, artikel 6.24, tweede lid, tenzij de desbetreffende vergunning uitsluitend berust op een verordening van een waterschap;
