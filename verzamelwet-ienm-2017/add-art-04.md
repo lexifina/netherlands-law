@@ -1,0 +1,4 @@
+# Artikel IV
+1. Het recht zoals dat gold voor het tijdstip van inwerkingtreding van deze wet blijft van toepassing ten aanzien van een luchthavenregeling als bedoeld in artikel 8.64 van de Wet luchtvaart waarvoor een aanvraag is ingediend voor dat tijdstip.
+2. Een luchthavenregeling die bij verordening van provinciale staten is vastgesteld op grond van artikel 8.64 van de Wet luchtvaart zoals dat luidde voor het tijdstip van inwerkingtreding van deze wet, wordt aangemerkt als een luchthavenregeling vastgesteld bij besluit van gedeputeerde staten op grond van artikel 8.64 van de Wet luchtvaart, zoals dat komt te luiden na inwerkingtreding van deze wet.
+3. Uiterlijk op 31 december 2017 worden alle bestaande veiligheidscertificaten met een looptijd van vijf jaar vervangen door een veiligheidscertificaat voor onbepaalde tijd als bedoeld in artikel 8a.4 van de Wet luchtvaart. Aan de vervanging bedoeld in de eerste volzin zijn geen kosten verbonden.
