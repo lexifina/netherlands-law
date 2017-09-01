@@ -1,0 +1,3 @@
+# Artikel 22a
+1. De rechter kan, indien de vrees bestaat dat kennisneming van stukken door een partij haar lichamelijke of geestelijke gezondheid zou schaden, bepalen dat deze kennisneming is voorbehouden aan een gemachtigde die advocaat of arts is dan wel daarvoor van de rechter bijzondere toestemming heeft gekregen.
+2. De rechter kan, indien kennisneming van stukken door een partij de persoonlijke levenssfeer van een ander onevenredig zou schaden, bepalen dat deze kennisneming is voorbehouden aan een gemachtigde die advocaat of arts is dan wel daarvoor van de rechter bijzondere toestemming heeft gekregen.
