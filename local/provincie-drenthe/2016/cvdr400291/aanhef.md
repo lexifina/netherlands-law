@@ -17,6 +17,7 @@ Artikel 3 Duur van de aanvullende voorzieningen
 - |  | duur WW- uitkering | in maanden
 - | 24 maanden |  |  |  | 42 maanden | 
 3. De nawettelijke uitkering van de oud-ambtenaar die bij zijn ontslag 59 jaar of ouder is, wordt verlengd tot de dag waarop hij de AOW-gerechtigde leeftijd heeft bereikt, als hij direct voorafgaand aan zijn ontslag zonder onderbreking van meer dan twee maanden vijf jaar in dienst is geweest van een of meer provincies.
+4. De minimale duur van de WW-uitkering en de aanvullende uitkering gezamenlijk is nooit minder dan één maand per volledig jaar arbeidsverleden van de ambtenaar dat meetelt voor de opbouw van zijn WW. Deze minimale duur is maximaal 38 maanden.
 Artikel 4 Voorwaarden recht op aanvullende voorzieningen
 De oud-ambtenaar heeft recht op aanvullende voorzieningen voor de uren dat hem reorganisatieontslag of ontslag in verband met ziekte en arbeidsongeschiktheid is verleend vanuit de provinciale dienst en voor zover op grond daarvan recht is ontstaan op een WW-uitkering.
 Paragraaf 2 Aanvullende uitkering op de WW
