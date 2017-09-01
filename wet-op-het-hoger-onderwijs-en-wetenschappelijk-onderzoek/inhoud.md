@@ -5,7 +5,7 @@
 ### Titel 2. De instellingen
 #### Paragraaf 1. Bekostigde instellingen voor hoger onderwijs
 #### Paragraaf 2. Rechtspersonen met geaccrediteerd initieel onderwijs.
-#### Paragraaf 2a. Instellingen of rechtspersonen met geaccrediteerd postinitieel onderwijs
+#### Paragraaf 2a. Graadverlening postinitiële masteropleidingen
 #### Paragraaf 3. Academische ziekenhuizen
 #### Paragraaf 4. Instellingen voor wetenschappelijk onderzoek
 ### Titel 3. Kwaliteitszorg
@@ -73,6 +73,7 @@
 ## Hoofdstuk 10. Het bestuur en de inrichting van de hogescholen
 ### Titel 1. Het bestuur en de inrichting van hogescholen
 #### Paragraaf 1. Het bestuur en de inrichting van de hogeschool
+#### Paragraaf 1a. Onderwijsbeoefening
 #### Paragraaf 2. Geschillenregeling
 #### Paragraaf 4. Bijzondere bepalingen betreffende het bestuur van een bijzondere hogeschool
 ### Titel 3. Medezeggenschap

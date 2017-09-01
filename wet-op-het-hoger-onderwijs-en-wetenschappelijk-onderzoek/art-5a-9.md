@@ -1,4 +1,4 @@
-# Artikel 5a.9
+# Artikel 5a.9. Verlenen van accreditatie
 1. Accreditatie wordt verleend op aanvraag van het instellingsbestuur.
 2. Een aanvraag om accreditatie wordt voor een door het accreditatieorgaan te bepalen datum bij het accreditatieorgaan ingediend. De datum kan per visitatiegroep verschillen.
 3. Het besluit op de aanvraag om accreditatie wordt gebaseerd op de beoordeling, bedoeld in artikel 1.18, derde lid.
