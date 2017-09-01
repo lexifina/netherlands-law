@@ -31,6 +31,7 @@
 ### Paragraaf 5.8. Tenietgaan rente
 ## Hoofdstuk 6. Opbouw en terugbetaling studieschuld
 ### Paragraaf 6.1. Algemeen
+### Paragraaf 6.2. Terugbetaling levenlanglerenkrediet
 ## Hoofdstuk 7. Herziening
 ## Hoofdstuk 8. Uitbetaling, verrekening en invordering
 ## Hoofdstuk 9. Toezicht en sancties
