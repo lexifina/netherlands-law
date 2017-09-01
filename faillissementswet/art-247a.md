@@ -1,6 +1,6 @@
 # Artikel 247a
 1. Uiterlijk op de achtste dag voorafgaande aan de dag bepaald overeenkomstig artikel 215, tweede lid, doch in ieder geval niet later dan twee maanden na de dag waarop de surseance voorlopig is verleend, kan de rechtbank op verzoek van de schuldenaar, zijnde een natuurlijke persoon, de hem voorlopig verleende surseance intrekken onder het gelijktijdig uitspreken van de toepassing van de schuldsaneringsregeling bedoeld in titel III.
-2. De schuldenaar zal zich daartoe bij een verzoekschrift als bedoeld in artikel 284 wenden tot de rechtbank die de surseance voorlopig heeft verleend.
+2. De schuldenaar zal zich daartoe met een verzoek als bedoeld in artikel 284 wenden tot de rechtbank die de surseance voorlopig heeft verleend.
 3. Alvorens te beslissen kan de rechtbank de schuldenaar, de rechter-commissaris en de bewindvoerder oproepen om te worden gehoord.
 4. Artikel 6, tweede lid, is van toepassing.
 5. Bij toewijzing van het verzoek, spreekt de rechtbank de definitieve toepassing van de schuldsaneringsregeling uit.

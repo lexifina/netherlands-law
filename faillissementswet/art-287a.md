@@ -1,8 +1,8 @@
 # Artikel 287a
 1. De schuldenaar kan in het verzoekschrift, bedoeld in artikel 284, eerste lid, de rechtbank verzoeken één of meer schuldeisers die weigert of weigeren mee te werken aan een vóór indiening van het verzoekschrift aangeboden schuldregeling, te bevelen in te stemmen met deze schuldregeling.
 2. De rechtbank stelt terstond dag, uur en plaats vast waarop zij de schuldenaar en schuldeiser of schuldeisers op wie het verzoek betrekking heeft, zal horen, onverminderd artikel 287, tweede lid.
-3. De griffier roept de schuldenaar op bij brief en roept de schuldeiser of schuldeisers op bij aangetekende brief, tenzij de rechter anders bepaalt.
-4. De rechtbank doet op de dag van de zitting of anders uiterlijk op de achtste dag daarna uitspraak op het verzoekschrift. De uitspraak geschiedt bij vonnis.
+3. De oproeping van de schuldenaar en de schuldeiser of schuldeisers geschiedt schriftelijk door de griffier. De rechter kan nader bepalen hoe deze oproeping geschiedt.
+4. De rechtbank doet op de dag van de zitting of anders uiterlijk op de achtste dag daarna uitspraak op het verzoek. De uitspraak geschiedt bij vonnis.
 5. De rechtbank wijst het verzoek toe indien de schuldeiser in redelijkheid niet tot weigering van instemming met de schuldregeling heeft kunnen komen, in aanmerking genomen de onevenredigheid tussen het belang dat hij heeft bij uitoefening van de bevoegdheid tot weigering en de belangen van de schuldenaar of van de overige schuldeisers die door die weigering worden geschaad. Artikel 300, lid 1, van Boek 3 van het Burgerlijk Wetboek is van toepassing.
 6. Indien de rechtbank het verzoek toewijst, veroordeelt de rechtbank de schuldeiser die instemming met de schuldregeling heeft geweigerd, in de kosten.
 7. Indien de rechtbank het verzoek afwijst, beslist zij op het verzoek tot toepassing van de schuldsaneringsregeling, indien de schuldenaar het verzoek daartoe handhaaft.
