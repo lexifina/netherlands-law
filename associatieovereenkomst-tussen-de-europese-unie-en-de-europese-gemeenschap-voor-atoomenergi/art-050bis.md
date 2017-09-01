@@ -1,0 +1,4 @@
+# Artikel 50 bis. Overleg
+1. Een partij biedt de andere partij, op verzoek daarvan, de gelegenheid tot het voeren van overleg over specifieke aangelegenheden die zich met betrekking tot de toepassing van de handelsmaatregelen kunnen voordoen. Deze aangelegenheden kunnen met name, doch niet uitsluitend, betrekking hebben op de gevolgde methodologie om dumpingmarges te berekenen, met inbegrip van verschillende correcties, op het gebruik van statistieken, de ontwikkeling van de invoer, de vaststelling van schade en de toepassing van de regel van het laagste recht.
+2. Overleg vindt zo spoedig mogelijk plaats, doch normaal gesproken binnen 21 dagen na het verzoek.
+3. Overleg in het kader van deze afdeling wordt gevoerd onverminderd en met volledige eerbiediging van de artikelen 41 en 47 van deze overeenkomst.
