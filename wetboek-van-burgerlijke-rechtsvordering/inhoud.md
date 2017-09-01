@@ -3,22 +3,21 @@
 ### titel Eerste. Algemene bepalingen
 #### afdeling Eerste. Rechtsmacht van de Nederlandse rechter
 #### afdeling Tweede. Enkelvoudige en meervoudige kamers
-#### afdeling Derde. Algemene voorschriften voor procedures
+#### afdeling Derde. Algemene beginselen voor procedures
 #### afdeling Derde A. Algemene voorschriften voor procedures
 #### afdeling Vierde. Wraking en verschoning van rechters
 #### afdeling Vijfde. Het openbaar ministerie en de procureur-generaal bij de Hoge Raad
-#### afdeling Vijfde A. De Autoriteit Consument en Markt en de commissie van de Europese gemeenschappen
+#### afdeling Vijfde A. De Autoriteit Consument en Markt en de Europese Commissie
 #### afdeling Zesde. Exploten
 #### afdeling Zevende. Inlichtingen over buitenlands recht en communautair mededingingsrecht
-#### afdeling Achtste. Herstel van verkeerd inleiden van een procedure, verwijzing door of naar de kantonrechter en verwijzing bij absolute onbevoegdheid
+#### afdeling Achtste. Verbeteren of aanvullen van de procesinleiding en verwijzing
 #### afdeling Negende. Slotbepaling
-### titel Tweede. De dagvaardingsprocedure in eerste aanleg
+### titel Tweede. De vorderingsprocedure in eerste aanleg
 #### afdeling Eerste. Algemene bepalingen
 #### afdeling Tweede. Kantonzaken
 #### afdeling Derde. Relatieve bevoegdheid
-#### afdeling Vierde. Dagvaarding
-#### afdeling Vijfde. Verloop van het geding
-#### afdeling Zesde. Reconventie
+#### afdeling Vierde. Oproeping
+#### afdeling Vijfde. Verloop van de procedure
 #### afdeling Zevende. Verstek
 #### afdeling Achtste. Verzet
 #### afdeling Negende. Bewijs
