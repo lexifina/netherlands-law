@@ -15,7 +15,7 @@
 ### Titel 2. Vereisten met betrekking tot in te schrijven stukken
 #### Afdeling 1. Algemene vereisten waaraan in te schrijven stukken moeten voldoen
 #### Afdeling 2. Vereisten waaraan ter inschrijving aangeboden stukken moeten voldoen in verband met de aard van het in te schrijven feit
-#### Afdeling 3. Vereisten waaraan stukken moeten voldoen, aangeboden ter inschrijving van het instellen van een rechtsvordering, van het indienen van een verzoekschrift, van tegen rechterlijke uitspraken ingestelde rechtsmiddelen of van de waardeloosheid van zodanige inschrijvingen
+#### Afdeling 3. Vereisten waaraan stukken moeten voldoen, aangeboden ter inschrijving van het instellen van een rechtsvordering, van het indienen van een verzoek, van tegen rechterlijke uitspraken ingestelde rechtsmiddelen of van de waardeloosheid van zodanige inschrijvingen
 #### Afdeling 4. Overige bepalingen betreffende inschrijvingen
 ### Titel 3. Inschrijfbaarheid van andere stukken en van verandering van woonplaats
 ## Hoofdstuk 3. Basisregistratie kadaster en net van coördinaatpunten
