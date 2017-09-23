@@ -1,0 +1,2 @@
+# Artikel 1g
+De statuten moeten bepalen dat de reglementen, alsmede de in de statuten en reglementen aangebrachte wijzigingen niet in werking zullen treden alvorens een volledig exemplaar van die stukken onderscheidenlijk van de wijzigingen daarin, door het bestuur ondertekend, voor een ieder ter inzage is neergelegd ter griffie van de rechtbank in het arrondissement waarin het fonds is gevestigd.
