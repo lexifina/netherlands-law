@@ -1,0 +1,4 @@
+# Artikel 47d
+1. De persoon, wiens arbeidsongeschiktheidsuitkering op grond van artikel 43, negende lid, is ingetrokken, heeft vanaf de dag dat niet langer het gegronde vermoeden bestaat dat hij zich buiten Nederland bevindt met het doel zich aan te sluiten bij een organisatie als bedoeld in artikel 1, eerste lid, onderdeel o, met inachtneming van de bepalingen van deze wet aanspraak op heropening van de arbeidsongeschiktheidsuitkering, indien hij op die dag arbeidsongeschikt is.
+2. Aanspraak op heropening van de arbeidsongeschiktheidsuitkering heeft eveneens de persoon, bedoeld in het eerste lid, die op de in dat lid bedoelde dag niet arbeidsongeschikt is, doch ten aanzien van wie dit wel het geval is binnen vier weken na afloop van dat tijdvak.
+3. De artikelen 19, vierde lid, 35, en 47, negende lid, zijn van overeenkomstige toepassing met betrekking tot de aanspraak op heropening van de arbeidsongeschiktheidsuitkering, bedoeld in dit artikel.

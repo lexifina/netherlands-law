@@ -11,7 +11,7 @@
 #### § 7. De vakantie-uitkering
 #### § 8. De hoogte van de vakantie-uitkering
 #### § 9. Geen recht op nabestaandenuitkering en wezenuitkering buiten Nederland
-#### § 10. Geen recht op nabestaandenuitkering en wezenuitkering tijdens vrijheidsontneming en onttrekking aan vrijheidsontneming
+#### § 10. Geen recht op nabestaandenuitkering en wezenuitkering tijdens vrijheidsontneming, onttrekking aan vrijheidsontneming en deelname aan een terroristische organisatie in het buitenland
 ### Afdeling II. Het geldend maken van het recht op uitkering
 ### Afdeling III. De betaling van de uitkering
 ## Hoofdstuk 4. De invloed van de verzekering op het burgerlijk recht

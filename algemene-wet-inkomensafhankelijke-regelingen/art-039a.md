@@ -1,0 +1,2 @@
+# Artikel 39a. Verwerking persoonsgegevens uitreizigers
+Voor de toepassing van de artikelen 9a, 16, zevende lid, eerste volzin, aanhef en onderdeel c, 23, eerste lid, aanhef en onderdeel c en 24a, aanhef en onderdeel c, kan de Belastingdienst/Toeslagen persoonsgegevens als bedoeld in artikel 16 van de Wet bescherming persoonsgegevens verwerken die onderdeel zijn van een melding als bedoeld in artikel 2, eerste lid, onderdeel q.

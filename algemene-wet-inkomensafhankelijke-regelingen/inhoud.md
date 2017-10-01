@@ -3,7 +3,7 @@
 ### Paragraaf 1. Toepassingsgebied
 ### Paragraaf 2. Begrippen
 ### Paragraaf 3. Bepaling draagkracht
-### Paragraaf 4. Afwijkende rechten bij vreemdelingen
+### Paragraaf 4. Afwijkende rechten bij vreemdelingen en uitreizigers
 ### Paragraaf 5. Uitoefening rechten door minderjarigen
 ## Hoofdstuk 2. Procedure bij uitvoering door belastingdienst/toeslagen
 ### Paragraaf 1. Algemene bepalingen
