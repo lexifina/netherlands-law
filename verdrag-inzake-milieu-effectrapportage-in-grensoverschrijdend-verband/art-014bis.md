@@ -1,0 +1,3 @@
+# Article 14 bis. Review of compliance
+1. The Parties shall review compliance with the provisions of this Convention on the basis of the compliance procedure, as a nonadversarial and assistance-oriented procedure adopted by the Meeting of the Parties. The review shall be based on, but not limited to, regular reporting by the Parties. The Meeting of Parties shall decide on the frequency of regular reporting required by the Parties and the information to be included in those regular reports.
+2. The compliance procedure shall be available for application to any protocol adopted under this Convention.
