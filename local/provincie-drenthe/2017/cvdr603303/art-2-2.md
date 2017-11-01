@@ -1,0 +1,2 @@
+# Artikel 2.2,. onder a
+Bij een haalbaarheidsonderzoek dient uit het onderzoek te blijken of het wel of niet haalbaar is om producten of diensten te gaan exporteren. De haalbaarheid spitst zich toe op de ondernemer en de bedrijfsvoering en organisatie en een globale externe analyse van de internationale marktkansen. Het is de bedoeling dat de aanvragende onderneming op basis van de uitkomsten van het onderzoek voldoende onderbouwing heeft om een go of no-go besluit te nemen.
