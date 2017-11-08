@@ -1,0 +1,67 @@
+# Tekst
+## Nr. I
+PERMANENT MISSION OF THE KINGDOM OF THE NETHERLANDS TO THE NORTH ATLANTIC TREATY ORGANIZATION
+Brussels, 31 May 2017
+BRN/PA/17-023
+The Permanent Mission of the Kingdom of the Netherlands to the North Atlantic Treaty Organisation presents its compliments to the North Atlantic Treaty Organisation (NATO) and, with reference to the Agreement between the Kingdom of the Netherlands and the North Atlantic Treaty Organisation concerning privileges and immunities of the staff of NC3A and their family members of 29 September 2006 and to the Exchange of Letters constituting an Agreement supplementing the Agreement between the Kingdom of the Netherlands and the North Atlantic Treaty Organization concerning the privileges and immunities of the NATO Consultation, Command and Control Agency (NC3A) of 24 September 2013, as well as to the consultations between the Ministry and the NATO Communications and Information Agency, legal successor of NC3A, (NCI Agency) regarding the registration of interns who have been accepted by NCI Agency into its internship programme in the Netherlands, has the honour to propose the following Agreement:
+1. For the purpose of this Agreement, the following definition of an intern shall apply: Students and recent graduates (degree obtained within the last twelve (12) months) who have been accepted by NCI Agency into the internship programme of NCI Agency and who, on that basis, perform certain tasks for NCI Agency for which he/she will receive a student allowance towards the costs of living by reason of his/her internship with NCI Agency. An intern shall in no case fall under the definition of an official of NCI Agency.
+2. Within eight (8) days after first arrival of an intern in the Netherlands, NCI Agency shall request the Ministry of Foreign Affairs to register the intern in accordance with paragraph 3.
+3. Without prejudice to the applicable immigration legislation, the Ministry of Foreign Affairs shall register an intern for the purpose of his/her internship with NCI Agency for a maximum period of six (6) months, provided that NCI Agency supplies the Ministry of Foreign Affairs with a declaration signed by the intern, accompanied by adequate proof provided by the intern, to the effect that:
+a) The intern entered the Netherlands in accordance with the applicable immigration procedures;
+b) The intern has sufficient financial means for living expenses and for repatriation, as well as sufficient medical insurance (including coverage of costs of hospitalization for at least the duration of the internship plus one (1) month) and third party liability insurance, and shall not be a charge on the public purse of the Netherlands;
+c) The intern shall not engage in gainful employment in the Netherlands during his or her internship otherwise than as an intern for NCI Agency;
+d) The intern shall not bring any family members to reside with him/her in the Netherlands other than in accordance with the applicable immigration procedures;
+e) The intern shall leave the Netherlands within fourteen (14) days after the end of the internship unless he/she is otherwise entitled to stay in the Netherlands in accordance with the applicable immigration legislation.
+4. Upon registration of the intern in accordance with paragraph 3, the Ministry of Foreign Affairs shall issue an identity card to the intern.
+5. NCI Agency shall not incur liability for damage resulting from non-fulfilment, by interns registered in accordance with paragraph 3, of the conditions of the declaration referred to in that paragraph.
+6. In exceptional circumstances, the maximum period of six (6) months mentioned in paragraph 3 may be extended once by a maximum of six (6) months.
+7. NCI Agency shall notify the Ministry of Foreign Affairs of the final departure of the intern from the Netherlands within eight (8) days after such departure, and shall at the same time return the intern's identity card.
+8. All disputes arising out of the interpretation or application of this Agreement shall be exclusively settled by consultation, negotiation or any further mode of settlement agreed by both parties to the present Agreement.
+9. Nothing in this Agreement amends, revisits or changes in any other manner the provisions of the Agreement on the Status of the North Atlantic Treaty Organisation, National Representatives and International Staff, done in Ottawa on 20 September 1951, or can be interpreted or construed as amending, revisiting or changing in any other manner the provisions of that Agreement.
+If this proposal is acceptable to NATO, the Permanent Mission of the Kingdom of the Netherlands suggests that this Note and NATO's affirmative reply to it shall together constitute an Agreement between the Kingdom of the Netherlands and NATO on interns, and that this Agreement shall be applied provisionally as from the date of such reply and shall enter into force on the day the Kingdom of the Netherlands has notified NATO in writing that the legal requirements for entry into force of the Agreement have been complied with.
+The Permanent Mission of the Kingdom of the Netherlands to the North Atlantic Treaty Organisation avails itself of this opportunity to renew to NATO the assurances of its highest consideration.
+North Atlantic Treaty Organization
+Brussels
+## Nr. II
+NORTH ATLANTIC TREATY ORGANIZATION
+Brussels, 7 June 2017
+OLA(2017)119
+The North Atlantic Treaty Organization (NATO), presents its compliments to the Permanent Mission of the Kingdom of the Netherlands to NATO and has the honour to acknowledge receipt of the Permanent Mission's Note Verbale of 31 May 2017, reference BRN/PA/17-023, which reads as follows:
+[(Zoals in Nr. I)]
+NATO has the honour to inform the Permanent Mission of the Kingdom of the Netherlands that the proposal above is acceptable to NATO. NATO accordingly agrees that the Permanent Mission's Note and this reply shall constitute an Agreement between NATO and the Kingdom of the Netherlands and that this Agreement shall be applied provisionally as from the date of this reply and shall enter into force on the day the Kingdom of the Netherlands has notified NATO in writing that the legal requirements for entry into force have been complied with.
+NATO avails itself of this opportunity to renew to the Permanent Mission of the Kingdom of the Netherlands to NATO the assurances of its highest consideration.
+Permanent Mission of the Kingdom of the Netherlands to the North Atlantic Treaty Organization
+Brussels
+## Nr. I
+PERMANENTE VERTEGENWOORDIGING VAN HET KONINKRIJK DER NEDERLANDEN BIJ DE NOORD-ATLANTISCHE VERDRAGSORGANISATIE
+Brussel, 31 mei 2017
+BRN/PA/17-023
+De Permanente Vertegenwoordiging van het Koninkrijk der Nederlanden bij de Noord-Atlantische Verdragsorganisatie biedt de Noord-Atlantische Verdragsorganisatie (NAVO) haar complimenten aan en heeft de eer, onder verwijzing naar het Verdrag tussen het Koninkrijk der Nederlanden en de Noord-Atlantische Verdragsorganisatie (NAVO) betreffende de privileges en immuniteiten van het personeel van het NATO Consultation, Command and Control Agency (NC3A) en hun gezinsleden van 29 september 2006, en de Briefwisseling houdende een verdrag tot aanvulling van het Verdrag tussen het Koninkrijk der Nederlanden en de Noord-Atlantische Verdragsorganisatie inzake de voorrechten en immuniteiten van NATO Consultation, Command and Control Agency (NC3A) van 24 september 2013, alsmede naar de gesprekken tussen het Ministerie en het NATO Communications and Information Agency, de rechtsopvolger van NC3A (NCI Agency), inzake de registratie van stagiairs die NCI Agency heeft toegelaten tot zijn stageprogramma in Nederland, het volgende Verdrag voor te stellen:
+1. Voor de toepassing van dit Verdrag wordt verstaan onder "stagiair": studenten en pas afgestudeerden (diploma in de afgelopen twaalf (12) maanden behaald) die door NCI Agency zijn toegelaten tot het stageprogramma van NCI Agency en op die grond bepaalde taken voor NCI Agency vervullen waarvoor zij een vergoeding ontvangen voor de kosten van levensonderhoud uit hoofde van hun stage bij NCI Agency. Een stagiair valt in geen geval onder de begripsomschrijving van een functionaris van NCI Agency.
+2. Binnen acht (8) dagen na de eerste aankomst van een stagiair in Nederland verzoekt NCI Agency het Ministerie van Buitenlandse Zaken de stagiair te registreren in overeenstemming met het derde lid.
+3. Onverminderd de van toepassing zijnde immigratieregelgeving registreert het Ministerie van Buitenlandse Zaken een stagiair ten behoeve van zijn of haar stage bij NCI Agency voor een tijdvak van ten hoogste zes (6) maanden, mits NCI Agency het Ministerie van Buitenlandse Zaken een door de stagiair ondertekende verklaring doet toekomen, vergezeld van voldoende bewijs, waaruit blijkt dat:
+a. de stagiair Nederland is binnengekomen in overeenstemming met de van toepassing zijnde immigratieprocedures;
+b. de stagiair over voldoende financiële middelen beschikt om in zijn of haar levensonderhoud te voorzien alsmede voor zijn of haar terugkeer, en voldoende verzekerd is tegen ziektekosten (met inbegrip van een dekking voor kosten van ziekenhuisopname voor ten minste de duur van de stage plus een (1) maand) en een wettelijkeaansprakelijkheidsverzekering heeft, en niet ten laste zal komen van de openbare middelen van Nederland;
+c. de stagiair gedurende zijn of haar stage uitsluitend werkzaam zal zijn als stagiair bij NCI Agency en in Nederland geen betaalde werkzaamheden zal verrichten;
+d. de stagiair geen familieleden meebrengt die bij hem of haar in Nederland zullen wonen, tenzij in overeenstemming met de desbetreffende immigratieprocedures;
+e. de stagiair Nederland verlaat binnen veertien (14) dagen na het einde van zijn of haar stage, tenzij hij of zij op andere gronden gerechtigd is in Nederland te verblijven in overeenstemming met de desbetreffende immigratieregelgeving.
+4. Na registratie van de stagiair in overeenstemming met het derde lid, geeft het Ministerie van Buitenlandse Zaken aan de stagiair een identiteitskaart af.
+5. NCI Agency is niet aansprakelijk voor schade voortvloeiend uit niet-naleving door in overeenstemming met het derde lid geregistreerde stagiairs, van de voorwaarden van de in dat lid bedoelde verklaring.
+6. In uitzonderlijke omstandigheden kan het maximumtijdvak van zes (6) maanden genoemd in het derde lid eenmaal worden verlengd met ten hoogste zes (6) maanden.
+7. NCI Agency stelt het Ministerie van Buitenlandse Zaken binnen acht (8) dagen na het definitieve vertrek van de stagiair uit Nederland daarvan in kennis en retourneert daarbij de identiteitskaart van de stagiair.
+8. Alle geschillen die voortvloeien uit de interpretatie of toepassing van dit Verdrag worden uitsluitend beslecht door middel van overleg, onderhandeling of een andere wijze van beslechting die beide verdragspartijen overeenkomen.
+9. Door niets in dit Verdrag worden de bepalingen van het Verdrag nopens de rechtspositie van de Noord-Atlantische Verdragsorganisatie, van de nationale vertegenwoordigers bij haar organen en van haar internationale staf, gedaan te Ottawa op 20 september 1951, gewijzigd, herzien of veranderd en niets in dit Verdrag kan worden geïnterpreteerd of uitgelegd als zijnde een wijziging, herziening of enige andere verandering van de bepalingen van dat Verdrag.
+Indien het voorstel aanvaardbaar is voor de NAVO, heeft de Permanente Vertegenwoordiging van het Koninkrijk der Nederlanden de eer voor te stellen dat deze nota en de bevestigende antwoordnota van de NAVO tezamen een Verdrag inzake stagiairs zullen vormen tussen het Koninkrijk der Nederlanden en de NAVO, en dat dit Verdrag voorlopig zal worden toegepast vanaf de datum van dat antwoord en in werking zal treden op de datum waarop het Koninkrijk der Nederlanden de NAVO ervan in kennis heeft gesteld dat aan de wettelijke vereisten voor de inwerkingtreding is voldaan.
+De Permanente Vertegenwoordiging van het Koninkrijk der Nederlanden bij de Noord-Atlantische Verdragsorganisatie maakt van deze gelegenheid gebruik om de NAVO opnieuw te verzekeren van haar zeer bijzondere hoogachting.
+Noord-Atlantische Verdragsorganisatie
+Brussel
+## Nr. II
+NOORD-ATLANTISCHE VERDRAGSORGANISATIE
+Brussel, 7 juni 2017
+OLA(2017)119
+De Noord-Atlantische Verdragsorganisatie (NAVO) biedt haar complimenten aan de Permanente Vertegenwoordiging van het Koninkrijk der Nederlanden bij de NAVO aan en heeft de eer de ontvangst te bevestigen van de Note Verbale van de Permanente Vertegenwoordiging van 31 mei 2017, referentie BRN/PA/17-023, die luidt als volgt:
+[(Zoals in Nr. I)]
+De NAVO heeft de eer de Permanente Vertegenwoordiging van het Koninkrijk der Nederlanden ervan in kennis te stellen dat het bovenstaande voorstel aanvaardbaar is voor de NAVO. De NAVO stemt er dienovereenkomstig mee in dat de nota van de Permanente Vertegenwoordiging en dit antwoord een Verdrag zullen vormen tussen de NAVO en het Koninkrijk der Nederlanden en dat dit Verdrag voorlopig zal worden toegepast vanaf de datum van dat antwoord en in werking zal treden op de datum waarop het Koninkrijk der Nederlanden de NAVO ervan in kennis heeft gesteld dat aan de wettelijke vereisten voor de inwerkingtreding is voldaan.
+De NAVO maakt van deze gelegenheid gebruik om de Permanente Vertegenwoordiging van het Koninkrijk der Nederlanden bij de NAVO opnieuw te verzekeren van haar zeer bijzondere hoogachting.
+Permanente Vertegenwoordiging van het Koninkrijk der Nederlanden bij de Noord-Atlantische Verdragsorganisatie
+Brussel
