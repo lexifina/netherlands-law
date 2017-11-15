@@ -1,0 +1,2 @@
+# Artikel 8,. onder c
+Asbestinventarisaties zijn verplicht bij de renovatie of sloop van gebouwen en objecten van vóór 1994. Zowel het Asbestverwijderingsbesluit 2005 (Avb) als de Arbowet schrijft een totale asbestinventarisatie voor, ofwel visuele inspectie met monsterneming (type A), plus uitbreiding met een destructief onderzoek (type B) als er gesloopt gaat worden. Inventarisaties zijn drie jaar geldig, daarna moeten ze worden geactualiseerd.
