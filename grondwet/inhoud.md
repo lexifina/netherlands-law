@@ -11,6 +11,6 @@
 ### § 1. Wetten en andere voorschriften
 ### § 2. Overige bepalingen
 ## Hoofdstuk 6. Rechtspraak
-## Hoofdstuk 7. Provincies, gemeenten, waterschappen en andere openbare lichamen
+## Hoofdstuk 7. Provincies, gemeenten, Caribische openbare lichamen, waterschappen en andere openbare lichamen
 ## Hoofdstuk 8. Herziening van de Grondwet
 ## Additionele artikelen
