@@ -1,5 +1,0 @@
-# Artikel 1b
-1. Het is verboden om gespecialiseerde kennis die rechtstreeks of middellijk bijdraagt of kan bijdragen aan proliferatiegevoelige activiteiten van Noord-Korea of aan de ontwikkeling van systemen voor de overbrenging van kernwapens in Noord-Korea aan te bieden aan personen die niet beschikken over een ontheffing van de Minister van Onderwijs, Cultuur en Wetenschap.
-2. Het verbod, bedoeld in het eerste lid, strekt zich niet uit tot de verstrekking van kennis in het kader van bacheloropleidingen als bedoeld in artikel 7.3a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
-3. In de bij deze regeling behorende bijlage wordt vermeld op welke gebieden van onderwijs en onderzoek het verbod, bedoeld in het eerste lid, in elk geval betrekking heeft.
-4. De Minister van Onderwijs, Cultuur en Wetenschap verleent de gevraagde ontheffing tenzij hij het risico onaanvaardbaar groot acht dat het aanbieden van de bedoelde kennis aan de persoon voor wie de ontheffing is gevraagd, zal bijdragen aan proliferatiegevoelige activiteiten van Noord-Korea of aan de ontwikkeling van systemen voor de overbrenging van kernwapens in Noord-Korea.
