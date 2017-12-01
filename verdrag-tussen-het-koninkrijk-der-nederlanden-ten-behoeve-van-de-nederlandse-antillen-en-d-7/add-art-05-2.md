@@ -1,0 +1,2 @@
+# V
+Dit Protocol vormt een integrerend onderdeel van het Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en de Caymaneilanden zoals gemachtigd krachtens de volmacht van 1 september 2009 van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de uitwisseling van informatie betreffende belastingen en treedt in werking op dezelfde datum als het Verdrag.

@@ -1,0 +1,6 @@
+# III. Ad artikel 12
+Indien een partij, gebaseerd op schadelijke fiscale praktijken, nadelige of beperkende maatregelen toepast op inwoners of onderdanen van de andere partij, kan de andere partij onverwijld een procedure voor onderling overleg starten ten behoeve van een oplossing. Een nadelige of beperkende maatregel gebaseerd op schadelijke fiscale praktijken is een maatregel die de ene partij toepast op inwoners of onderdanen van de andere partij waarbij het volgende geldt:
+a. de andere partij neemt geen deel aan een doeltreffende uitwisseling van informatie;
+b. er is sprake van een gebrek aan transparantie bij de uitvoering van haar wet- of regelgeving of bestuursrechtelijke praktijken; of
+c. de maatregel wordt zonder belastinggrondslag of op grond van minieme belastingen genomen.
+Zonder het algemene karakter van de uitdrukking te beperken is de uitdrukking „nadelige of beperkende maatregel" niet alleen beperkt tot fiscale aangelegenheden en omvat zij mede het weigeren van aftrek, verrekening of vrijstelling, het opleggen van een belasting of heffing, of bijzondere rapportagevereisten; zij omvat niet de algemeen toepasselijke maatregelen die door een van de partijen in het algemeen worden opgelegd aan onder meer leden van de OESO.
