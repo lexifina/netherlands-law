@@ -1,2 +1,0 @@
-# Artikel 23b
-De retributie voor laboratoriumonderzoeken van chemische of microbiologische monsters die zijn genomen in het kader van werkzaamheden als bedoeld in de artikelen 2, 2a, 3, 4, 5, 5a, 6, 9, 12 en 14, komt overeen met de werkelijke kosten van deze onderzoeken, waaronder de kosten voor het verbruik van chemicaliën, hulpmiddelen en materialen, alsmede personeelskosten en huisvestingskosten.
