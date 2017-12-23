@@ -1,0 +1,3 @@
+# Artikel 215a
+1. Elke schuldeiser heeft tegen de voorlopige verlening van surseance recht van verzet gedurende acht dagen na de dag waarop de surseance voorlopig is verleend op grond van het ontbreken van internationale bevoegdheid bedoeld in artikel 5, eerste lid, van de verordening, genoemd in artikel 5, derde lid.
+2. De rechter, die een voorlopige verlening van surseance intrekt, stelt tevens het bedrag vast van de kosten van de surseance van betaling en van het salaris van de bewindvoerder. Hij brengt dit bedrag ten laste van de schuldenaar. Tegen deze beslissing staat geen rechtsmiddel open. Een bevelschrift van tenuitvoerlegging zal daarvan worden uitgegeven ten behoeve van de bewindvoerder.
