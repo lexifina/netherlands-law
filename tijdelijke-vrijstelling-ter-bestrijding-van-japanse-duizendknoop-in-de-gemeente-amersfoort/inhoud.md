@@ -1,2 +1,0 @@
-# Inhoud
-## Wettelijk Gebruiksvoorschrift
