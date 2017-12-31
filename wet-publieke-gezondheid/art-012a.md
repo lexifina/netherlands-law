@@ -1,0 +1,4 @@
+# Artikel 12a
+1. Onze Minister draagt via het RIVM zorg voor de regie op en de coördinatie van de uitvoering, alsmede de registratie, bewaking en evaluatie van het bij algemene maatregel van bestuur aangewezen bevolkingsonderzoek, waaronder de neonatale hielprikscreening. Voor de openbare lichamen Bonaire, Sint Eustatius en Saba kan een afwijkend aanbod worden opgenomen.
+2. Bij de uitvoering van de neonatale hielprikscreening kan de betrokken opvolgend kinderarts, indien dit noodzakelijk is vanwege de urgentie van de aansluitende zorg door deze arts, de gegevens betreffende een kind tot de leeftijd van zes maanden raadplegen zonder daarvoor toestemming te vragen. De toestemming wordt alsnog gevraagd zodra daartoe gelegenheid is.
+3. Bij regeling van Onze Minister kunnen regels worden gesteld over de uitvoering van het bevolkingsonderzoek, bedoeld in het eerste lid.

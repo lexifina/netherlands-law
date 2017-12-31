@@ -5,6 +5,7 @@
 ### § 2. Jeugdgezondheidszorg
 ### § 3. Ouderengezondheidszorg
 ### § 4. Infectieziektebestrijding
+### § 5. Bevolkingsonderzoek
 ## Hoofdstuk III. Landelijke en gemeentelijke nota gezondheidsbeleid
 ## Hoofdstuk IV. Gemeentelijke gezondheidsdiensten
 ## Hoofdstuk V. Bijzondere bepalingen infectieziektebestrijding

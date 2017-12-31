@@ -1,0 +1,2 @@
+# Artikel 90*
+De verboden, bedoeld in de artikelen 85, 88, onder d, en 89, onder g, gelden niet voor publieksreclame ter bevordering van deelname aan een vaccinatieprogramma als bedoeld in artikel 6b van de Wet publieke gezondheid.
