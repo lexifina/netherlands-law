@@ -1,0 +1,2 @@
+# VII. Ad Article 10
+Notwithstanding the provisions of subparagraph a) of paragraph 2 of Article 10 of the Convention, as long as, under the provisions of the Netherlands Company Tax Act and the future amendments thereto, a company which is a resident of the Netherlands is not charged to Netherlands company tax with respect to dividends the company receives from a company which is a resident of Uzbekistan, the percentage provided for in that subparagraph shall be reduced to zero per cent.

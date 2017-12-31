@@ -1,0 +1,2 @@
+# IV. Ad Articles 5, 6, 7, 13 and 26
+It is understood that exploration and exploitation rights of natural resources shall be regarded as immovable property situated in the Contracting State the sea bed and sub-soil of which they are related to, and that these rights shall be deemed to pertain to the property of a permanent establishment in that State. Furthermore, it is understood that the afore-mentioned rights include rights to interests in, or to the benefits of, assets to be produced by such exploration or exploitation.
