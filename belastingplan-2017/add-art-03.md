@@ -1,0 +1,2 @@
+# Artikel III
+Onze Minister van Financiën zendt binnen vier jaar na de inwerkingtreding van deze wet aan de Staten Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van artikel 12a, derde en vierde lid, van de Wet op de loonbelasting 1964, onderscheidenlijk een verslag over de doeltreffendheid en de effecten in de praktijk van artikel 10a, negende en tiende lid, van die wet.
