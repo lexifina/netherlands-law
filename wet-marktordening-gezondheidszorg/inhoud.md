@@ -7,6 +7,7 @@
 ### Paragraaf 3.1. Algemeen
 ### Paragraaf 3.2. Toezicht Zorgverzekeringswet
 ### Paragraaf 3.3. Toezicht Wet langdurige zorg
+### Paragraaf 3.4. Toezicht socialezekerheidsverordening
 ## Hoofdstuk 4. Marktontwikkeling en -ordening
 ### Paragraaf 4.1. Marktonderzoek
 ### Paragraaf 4.2. Algemene verplichtingen van zorgaanbieders en ziektekostenverzekeraars

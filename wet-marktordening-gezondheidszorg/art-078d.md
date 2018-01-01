@@ -1,0 +1,2 @@
+# Artikel 78d
+De zorgautoriteit kan uit hoofde van haar taak, bedoeld in artikel 16, onder k, een aanwijzing geven aan een orgaan van de woonplaats of een orgaan van de verblijfplaats, die niet voldoet aan het bepaalde bij of krachtens artikel 123 van de Zorgverzekeringswet alsmede, voor zover het zorg betreft, de socialezekerheidsverordening, de toepassingsverordening of de verdragen inzake sociale zekerheid waarbij Nederland partij is.

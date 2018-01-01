@@ -1,0 +1,2 @@
+# Artikel 70a
+Een ieder verstrekt op verzoek aan Onze Minister of aan een door Onze Minister aangewezen persoon kosteloos alle inlichtingen en gegevens, niet zijnde persoonsgegevens als bedoeld in de Wet bescherming persoonsgegevens, die noodzakelijk zijn voor de uitvoering van artikel 91 van de toepassingsverordening en artikel 20 van Richtlijn 2011/24/EU van het Europees Parlement en de Raad van 9 maart 2011 betreffende de toepassing van de rechten van patiënten bij grensoverschrijdende gezondheidszorg (PbEU 2011, L 88).
