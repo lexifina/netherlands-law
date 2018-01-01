@@ -25,7 +25,6 @@
 ## Hoofdstuk V. Bijzondere regelingen
 ### Afdeling 1. Vermindering van belasting (kleine ondernemers)
 ### Afdeling 2. Voldoening naar ontvangsten
-### Afdeling 3. Landbouwregeling
 ### Afdeling 4. Accijnsgoederen, andere dan tabaksproducten
 ### Afdeling 5. Regeling voor gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten
 ### Afdeling 6. Regeling voor beleggingsgoud
