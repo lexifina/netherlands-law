@@ -1,4 +1,4 @@
-# Artikel 30a*. Europese beroepskaart gereglementeerd beroep
+# Artikel 30a1. Europese beroepskaart gereglementeerd beroep
 1. Bij of krachtens algemene maatregel van bestuur worden regels vastgesteld voor een Europese beroepskaart als bedoeld in de richtlijn voor een beroep dat in Nederland gereglementeerd is.
 2. De regels betreffen onder meer:
 a. de procedures voor de aanvraag en afgifte van een Europese beroepskaart;

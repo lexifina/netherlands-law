@@ -3,4 +3,4 @@
 2. De regels kunnen onder meer betreffen:
 a. in hoeverre en op welke wijze artikelen van deze wet van overeenkomstige toepassing zijn; en
 b. de aanwijzing van een bevoegde autoriteit als bedoeld in artikel 3, eerste lid, onderdeel d, van de richtlijn.
-3. Het tweede en derde lid van artikel 30a zijn van overeenkomstige toepassing.
+3. Het tweede en derde lid van artikel 30a1 zijn van overeenkomstige toepassing.

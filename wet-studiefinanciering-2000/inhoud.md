@@ -44,5 +44,6 @@
 ## Hoofdstuk 12. Overgangsbepalingen
 ### Paragraaf 12.1. Overgangs- en invoeringsbepalingen wijzigingswetten tot en met augustus 2015
 ### Paragraaf 12.2. Overgangsbepalingen in verband met de Wet studievoorschot hoger onderwijs
+### Paragraaf 12.3. Overgangsbepalingen in verband met de omvorming van Ad-programma tot associate degree-opleiding
 ## Hoofdstuk 13. Horizonbepalingen
 ## Hoofdstuk 14. Slotbepalingen
