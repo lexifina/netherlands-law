@@ -1,0 +1,2 @@
+# Artikel III
+De artikelen 3.3.1.7, tweede lid, van het Besluit langdurige zorg of 3.7, tweede lid, van het Uitvoeringsbesluit Wmo 2015, voor zover die betrekking hebben op de bedragen genoemd in de artikelen 3.3.2.3, eerste lid, onderdeel b, onder 4°, en 3.3.2.4a, eerste lid, van het Besluit langdurige zorg en 3.9a, eerste lid, 3.13, eerste lid, onderdeel b, onder 4°, en 3.14a, eerste lid, van het Uitvoeringsbesluit Wmo 2015, blijven buiten toepassing voor het jaar 2018.
