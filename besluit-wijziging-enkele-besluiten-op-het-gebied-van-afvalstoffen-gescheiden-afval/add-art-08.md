@@ -1,0 +1,2 @@
+# Artikel VIII
+Een beschikking tot vermelding op de lijst van inzamelaars, bedoeld in artikel 10.45, eerste lid, onderdeel a, van de Wet milieubeheer, die is afgegeven binnen vijf jaar voor het tijdstip van inwerkingtreding van dit besluit, wordt wat betreft de geldigheidsduur ervan gelijkgesteld met een beschikking tot vermelding op de lijst van inzamelaars die heeft plaatsgevonden na inwerkingtreding van dit besluit.
