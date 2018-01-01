@@ -1,5 +1,5 @@
 # Artikel 66b. Aanvraag en fusie-effectrapportage
-1. De rechtspersoon dient dan wel de rechtspersonen gezamenlijk dienen een aanvraag in bij Onze minister voor het verkrijgen van de goedkeuring, bedoeld in artikel 66a. De aanvraag gaat vergezeld van:
+1. De rechtspersoon dient dan wel de rechtspersonen gezamenlijk dienen een aanvraag in bij Onze minister voor het verkrijgen van de goedkeuring, bedoeld in artikel 66a, eerste lid. De aanvraag gaat vergezeld van:
 a. een door de rechtspersoon dan wel rechtspersonen opgestelde fusie-effectrapportage, en
 b. een schriftelijke verklaring van instemming met de fusie door de medezeggenschapsraden dan wel de gemeenschappelijke medezeggenschapsraden, dan wel
 c. de bindende uitspraak van de geschillencommissie, bedoeld in artikel 32, derde lid, van de Wet medezeggenschap op scholen, dan wel de bindende uitspraak van de ondernemingskamer, bedoeld in artikel 36, derde lid, van de Wet medezeggenschap op scholen.
