@@ -1,0 +1,2 @@
+# Artikel 10bis
+Een staat die partij is die redenen heeft te veronderstellen dat een van de strafbare feiten bedoeld in artikel 1 zal worden gepleegd, brengt, overeenkomstig zijn nationale recht, alle relevante informatie in zijn bezit ter kennis van die staten die partij zijn die naar zijn mening de in artikel 4, eerste en tweede lid, bedoelde staten zijn.

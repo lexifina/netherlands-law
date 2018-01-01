@@ -1,0 +1,2 @@
+# Article 7 bis
+Any person who is taken into custody, or regarding whom any other measures are taken or proceedings are being carried out pursuant to this Convention, shall be guaranteed fair treatment, including enjoyment of all rights and guarantees in conformity with the law of the State in the territory of which that person is present and applicable provisions of international law, including international human rights law.

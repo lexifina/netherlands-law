@@ -1,0 +1,4 @@
+# Article 3 bis
+1. Nothing in this Convention shall affect other rights, obligations and responsibilities of States and individuals under international law, in particular the purposes and principles of the Charter of the United Nations, the Convention on International Civil Aviation and international humanitarian law.
+2. The activities of armed forces during an armed conflict, as those terms are understood under international humanitarian law, which are governed by that law are not governed by this Convention, and the activities undertaken by military forces of a State in the exercise of their official duties, inasmuch as they are governed by other rules of international law, are not governed by this Convention.
+3. The provisions of paragraph 2 of this Article shall not be interpreted as condoning or making lawful otherwise unlawful acts, or precluding prosecution under other laws.
