@@ -1,0 +1,2 @@
+# Artikel XX
+Dit Protocol staat open voor ondertekening te Beijing op 10 september 2010 door staten die hebben deelgenomen aan de Diplomatieke Conferentie inzake veiligheid van de luchtvaart, gehouden te Beijing van 30 augustus tot 10 september 2010. Na 27 september 2010 staat het Protocol open voor ondertekening door alle staten op het hoofdkwartier van de Internationale Burgerluchtvaartorganisatie te Montreal totdat het in overeenstemming met artikel XXIII in werking treedt.
