@@ -1,0 +1,7 @@
+# Artikel 38ac
+1. De termijn van de maatregel kan telkens, op vordering van het openbaar ministerie, door de rechter als bedoeld in artikel 38aa, eerste lid, met twee, drie, vier of vijf jaren worden verlengd:
+a. indien er ernstig rekening mee moet worden gehouden dat de veroordeelde wederom een misdrijf zal begaan waarvoor de rechter een maatregel strekkende tot gedragsbeïnvloeding of vrijheidsbeperking als bedoeld in artikel 38z, eerste lid, kan opleggen, of
+b. indien verlenging noodzakelijk is ter voorkoming van ernstig belastend gedrag jegens slachtoffers of getuigen.
+2. De vordering, bedoeld in het eerste lid, dient uiterlijk dertig dagen vóór het tijdstip waarop de maatregel door tijdsverloop zal eindigen te zijn ontvangen op de griffie van de rechtbank. Het openbaar ministerie is in een later ingediende vordering niettemin ontvankelijk indien het aannemelijk maakt dat de grond bedoeld in het eerste lid zich eerst nadien heeft voorgedaan.
+3. Bij de vordering tot verlenging van de maatregel legt de officier van justitie een recent opgemaakt, met redenen omkleed en ondertekend advies over van een reclasseringsinstelling. Indien de gevorderde voorwaarde betrekking heeft op behandeling of opname in een zorginstelling, wordt tevens een medische verklaring overlegd, waaruit de noodzaak van die behandeling of opname blijkt.
+4. De termijn loopt niet gedurende de tijd dat de veroordeelde rechtens zijn vrijheid is ontnomen en gedurende de tijd dat hij uit zodanige vrijheidsontneming ongeoorloofd afwezig was.
