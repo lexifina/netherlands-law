@@ -1,0 +1,2 @@
+# Artikel 33Aa
+Bij algemene maatregel van bestuur kunnen regels worden gesteld over het omzetten door Onze Minister van een productierecht in een varkensrecht, pluimveerecht of fosfaatrecht met dien verstande dat de landbouwer op wiens bedrijf het om te zetten productierecht rust met omzetting instemt en de omzetting geen toename veroorzaakt van de hoeveelheid geproduceerde stikstofverbindingen, fosfaat en fijnstof.

@@ -1,0 +1,4 @@
+# Artikel 38a
+1. Indien geen afbreuk wordt gedaan aan de naleving van een verplichting op grond van een voor Nederland verbindend verdrag of besluit van een volkenrechtelijke organisatie wordt, onder bij ministeriële regeling te stellen voorwaarden, vrijstelling of ontheffing verleend van het verbod, bedoeld in artikel 21b, eerste lid, ter bevordering van de grondgebondenheid of het stimuleren van jonge landbouwers in Nederland.
+2. Een vrijstelling of ontheffing, bedoeld in het eerste lid, wordt uitsluitend gegeven voor milieudoelstellingen die verder gaan dan die welke op grond van de voor de betrokken ondernemingen verplichte Unie-normen zouden zijn bereikt.
+3. De ministeriële regeling, bedoeld in het eerste lid, wordt niet eerder vastgesteld dan vier weken nadat het ontwerp ervan aan beide kamers der Staten Generaal is overgelegd.
