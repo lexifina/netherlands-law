@@ -1,0 +1,2 @@
+# Artikel 1a.2
+Een vertrouwenspersoon is bevoegd tot het verwerken van persoonsgegevens van de persoon die hij in het kader van deze wet ondersteunt, waaronder persoonsgegevens betreffende de gezondheid en strafrechtelijke persoonsgegevens, alsmede tot het zonder toestemming van degene die het betreft verwerken van persoonsgegevens van personen die werkzaam zijn voor het college, de jeugdhulpaanbieder of de gecertificeerde instelling, voor zover deze noodzakelijk zijn voor de ondersteuning die hij als vertrouwenspersoon dient te leveren.
