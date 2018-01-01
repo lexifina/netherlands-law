@@ -29,10 +29,6 @@
 #### § 4a. Quotumheffing
 #### § 5. Rijksbijdrage
 ### Afdeling 5. Eigenrisicodragen
-### Afdeling 6. Premiekortingen en premievrijstelling
-#### § 1. bonussen in de vorm van premiekortingen
-#### § 2. Algemene bepalingen en nadere regels premiekorting
-#### § 3. Premievrijstelling bij marginale arbeid
 ### Afdeling 7. Dienstplichtigen
 ## Hoofdstuk 4. De heffing en invordering van premies
 ### § 1. Heffing

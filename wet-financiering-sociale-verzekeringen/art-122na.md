@@ -1,0 +1,3 @@
+# Artikel 122na. Opschorting quotumheffing tot 2022
+1. Nadat bij regeling van Onze Minister op grond van artikel 122n, eerste lid, tot invoering van de quotumheffing voor de betreffende sector is besloten, wordt de quotumheffing, in afwijking van de artikelen 38e, eerste lid, en 122n, eerste lid, niet uitgevoerd met betrekking tot kalenderjaren die zijn gelegen vóór 1 januari 2022.
+2. Ten aanzien van een kalenderjaar waarover de quotumheffing op grond van het eerste lid niet wordt uitgevoerd, wordt met overeenkomstige toepassing van artikel 38f een quotumpercentage vastgesteld voor de sector overheid, onderscheidenlijk voor de sector niet-overheid.
