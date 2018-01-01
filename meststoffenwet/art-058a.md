@@ -1,2 +1,2 @@
 # Artikel 58a
-In geval van overtreding van artikel 21, eerste lid, bedraagt de bestuurlijke boete € 11 per kilogram fosfaat ten aanzien waarvan de landbouwer niet heeft gehandeld overeenkomstig artikel 21, tweede lid, onderdeel d.
+In geval van overtreding van artikel 21, eerste lid, bedraagt de bestuurlijke boete € 11 per kilogram fosfaat ten aanzien waarvan de landbouwer de beperking als bedoeld in artikel 21, derde lid, niet in acht heeft genomen. De boete wordt vermeerderd met € 11 per kilogram fosfaat ten aanzien waarvan de landbouwer niet heeft gehandeld overeenkomstig artikel 21, tweede lid, onderdeel d, voor zover het kilogrammen fosfaat betreft die niet reeds als gevolg van de eerste volzin voor de bepaling van de boeteomvang in aanmerking zijn genomen.
