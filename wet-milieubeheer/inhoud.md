@@ -59,6 +59,12 @@
 #### § 9.7.4. Inboeken hernieuwbare energie vervoer
 #### § 9.7.5. Register hernieuwbare energie vervoer
 #### § 9.7.6. Overgangsbepalingen hernieuwbare energie vervoer
+### Titel 9.8. Rapportage- en reductieverplichting vervoersemissies
+#### § 9.8.1. Algemeen
+#### § 9.8.2. Rapportage- en reductieverplichting
+#### § 9.8.3. Exploitatiereductie-eenheden en hernieuwbare brandstofeenheden
+#### § 9.8.4. Register rapportage- en reductieverplichting vervoersemissies
+#### § 9.8.5. Overgangsbepalingen
 ## Hoofdstuk 10. Afvalstoffen
 ### Titel 10.1. Algemeen
 ### Titel 10.2. Het afvalbeheerplan
