@@ -1,0 +1,2 @@
+# Artikel 167d
+Betalingen gedaan op grond van de tussen de Staat en de houder van de winningsvergunning Groningen op 28 september 2018 gesloten overeenkomst, die gelijk zijn aan de heffingen die de houder van de winningsvergunning Groningen verschuldigd is op grond van paragrafen 5.1.1.2 tot en met 5.1.1.4 van deze wet worden gezien als betalingen gedaan op grond van deze paragrafen. Afdeling 5.1.1. van deze wet is van overeenkomstige toepassing op deze betalingen.
