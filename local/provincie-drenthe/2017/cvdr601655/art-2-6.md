@@ -1,2 +1,0 @@
-# Artikel 2.6,. algemeen
-Dit artikel bepaalt hoe de subsidiabele kosten, derhalve de kosten waarover de subsidie door middel van het subsidiepercentage wordt berekend, worden vastgesteld. Daartoe wordt op de in de artikelen 2.4 en 2.5 beschreven projectkosten een vermindering toegepast, indien zich een geval als bedoeld in het tweede of derde lid (van artikel 2.6) voordoet. In het vierde tot en met zevende lid is bepaald hoe de vermindering wordt berekend.

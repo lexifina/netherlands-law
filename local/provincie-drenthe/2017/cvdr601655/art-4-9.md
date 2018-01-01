@@ -1,2 +1,0 @@
-# Artikel 4.9,. algemeen
-Dit artikel vormt, tezamen met artikel 4.1, de kern van de deelregeling. Het gaat er bij de betreffende subsidiëring om dat de bedrijfsgebouwen, duurzame bedrijfsuitrusting en loonkosten die met de lening zijn gefinancierd waarvoor rentesubsidie is verstrekt ook daadwerkelijk in gebruik zijn genomen. Alleen dan kan het doel van de regeling, de ontwikkeling van de regionale economie, worden gerealiseerd.
