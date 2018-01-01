@@ -1,5 +1,5 @@
 # Artikel 12bb
-1. De kwalificerende voordelen uit hoofde van een kwalificerend immaterieel activum, bedoeld in artikel 12b, worden gesteld op K/T gedeelte, maar niet meer dan het geheel, van de voordelen uit hoofde van een kwalificerend immaterieel activum, na vermindering, doch niet verder dan tot nihil, van deze voordelen met de drempel, bedoeld in artikel 12bc, waarbij wordt verstaan onder:
+1. De kwalificerende voordelen uit hoofde van een kwalificerend immaterieel activum, bedoeld in artikel 12b, worden gesteld op K/T gedeelte, maar niet meer dan het geheel, van de voordelen uit hoofde van een kwalificerend immaterieel activum, na vermindering van deze voordelen met de drempel, bedoeld in artikel 12bc, waarbij wordt verstaan onder:
 K: de kwalificerende uitgaven in het jaar zelf en in alle voorgaande jaren ten behoeve van het voortbrengen van het kwalificerende immateriële activum vermenigvuldigd met 1,3;
 T: de totale uitgaven in het jaar zelf en in alle voorafgaande jaren ten behoeve van het voortbrengen van het kwalificerende immateriële activum.
 2. De voordelen uit hoofde van een kwalificerend immaterieel activum, de drempel en de breuk, bedoeld in het eerste lid, worden bepaald op de meest passende wijze gezien de aard van de onderneming en van het speur- en ontwikkelingswerk dat heeft geleid tot het kwalificerende immateriële activum.

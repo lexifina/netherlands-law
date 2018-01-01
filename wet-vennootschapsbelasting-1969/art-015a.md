@@ -15,4 +15,4 @@ e. de door Onze Minister nader te stellen voorwaarden zijn vervuld.
 a. centrale maatschappij: een in Nederland gevestigde coöperatie waarvan de leden uitsluitend zijn in Nederland gevestigde coöperaties;
 b. ledenmaatschappijen: de leden van een centrale maatschappij.
 9. Dit artikel is op overeenkomstige wijze van toepassing op onderlinge waarborgmaatschappijen.
-10. Het bepaalde in artikel 15ac, vijfde en zesde lid, is van overeenkomstige toepassing.
+10. Het bepaalde in artikel 15ac, vijfde lid, is van overeenkomstige toepassing.
