@@ -1,0 +1,6 @@
+# Artikel 12e. Voortgangsrapportages
+1. Indien de Minister, ter uitvoering van artikel 11, vijfde lid, tussentijdse rapportages verlangt over de voortgang van de gesubsidieerde activiteiten of over de besteding van de projectsubsidie, dienen deze rapportages uiterlijk één maand na het verstrijken van de daarbij aangegeven periode te worden verstrekt.
+2. De rapportages over de voortgang van de activiteiten sluiten aan bij het door de Minister goedgekeurde projectplan, bedoeld in artikel 4, tweede lid, onder a. Belangrijke verschillen tussen de rapportages en het goedgekeurde projectplan worden toegelicht.
+3. De rapportages over de besteding van de subsidie sluiten aan op de ingediende begroting, bedoeld in artikel 4, tweede lid, onder b. Belangrijke verschillen tussen de rapportages en de begroting worden toegelicht.
+4. De subsidieontvanger geeft aan de Auditdienst van het Ministerie van Onderwijs, Cultuur en Wetenschap op verzoek inzage van de in artikel 12d bedoelde administratie en verstrekt alle inlichtingen die redelijkerwijs noodzakelijk zijn om een juist inzicht te verkrijgen in de uitvoering van het projectplan en de besteding van de subsidie.
+5. Dit artikel is niet van toepassing op de ontvanger van een projectsubsidie als bedoeld in artikel 5, onder b.
