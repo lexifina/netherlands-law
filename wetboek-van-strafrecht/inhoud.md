@@ -6,7 +6,7 @@
 #### afdeling Eerste. Onttrekking aan het verkeer, ontneming van het wederrechtelijk verkregen voordeel en schadevergoeding
 #### afdeling Tweede. Plaatsing in een psychiatrisch ziekenhuis en terbeschikkingstelling
 #### afdeling Derde. Plaatsing in een inrichting voor stelselmatige daders
-#### afdeling Vierde. Oplegging vrijheidsbeperkende maatregel
+#### afdeling Vierde. Gedragsbeïnvloedende en vrijheidsbeperkende maatregelen
 ### Titel III. Uitsluiting en verhoging van strafbaarheid
 ### Titel IIIa. Gronden voor vermindering van straf
 ### Titel IV. Poging en voorbereiding
