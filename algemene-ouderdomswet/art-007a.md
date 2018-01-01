@@ -18,5 +18,6 @@ V staat voor de periode waarmee de pensioengerechtigde leeftijd respectievelijk 
 L staat voor de geraamde macro gemiddelde resterende levensverwachting op 65-jarige leeftijd in het kalenderjaar van verhoging;
 P staat voor de pensioengerechtigde leeftijd in het kalenderjaar voorafgaande aan het kalenderjaar van verhoging.
 Indien V negatief is of minder dan 0,25 bedraagt, wordt deze gesteld op 0. Indien V 0,25 of meer bedraagt, wordt deze gesteld op drie maanden.
+De volgens de formule vastgestelde verdere verhoging van de pensioengerechtigde leeftijd en de aanvangsleeftijd wordt door of namens Onze Minister bekendgemaakt in de Staatscourant.
 3. De verhoging, bedoeld in het tweede lid, treedt telkens in werking vijf jaar na de uiterste datum van vaststelling, bedoeld in het tweede lid, voor de eerste maal met ingang van 1 januari 2022.
 4. De ramingen van de macro gemiddelde resterende levensverwachting, bedoeld in het tweede lid, worden uitgevoerd en bekendgemaakt door het CBS.
