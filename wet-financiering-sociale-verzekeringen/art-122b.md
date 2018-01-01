@@ -1,2 +1,0 @@
-# Artikel 122b. Overgangsrecht wijzigingen premiekortingen
-De artikelen 47 en 48a, zoals deze luiden op de dag voorafgaande aan de inwerkingtreding van artikel XVII, onderdelen C en D, van de Verzamelwet SZW 2015 blijven van toepassing voor zover de desbetreffende premiekorting op die dag werd toegepast voor het in dienst hebben van een werknemer als bedoeld in artikel 47, eerste en tweede lid, of artikel 48a, eerste lid.

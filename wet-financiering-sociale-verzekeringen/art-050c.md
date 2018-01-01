@@ -1,4 +1,0 @@
-# Artikel 50c. Vaststelling bedrag bonussen
-1. Het bedrag van de korting, bedoeld in artikel 48, 50 en 50a, tweede lid, wordt naar evenredigheid verminderd, indien de met die werknemer overeengekomen gemiddelde arbeidsduur per week in het tijdvak waarover premie wordt betaald korter is dan de volledige arbeidsduur, die op 36 uur per week wordt gesteld en indien geen vaste arbeidsduur is overeengekomen.
-2. Voor een werknemer zonder vast overeengekomen arbeidsduur wordt de vermindering van het bedrag van de korting, bedoeld in artikel 48, 50 en 50a, tweede lid, bepaald aan de hand van het aantal uren waarover de werkgever loon is verschuldigd in het tijdvak waarover premie wordt betaald herleid naar weken.
-3. Indien de toepassing van artikel 48, 50 en 50a, tweede lid ertoe zou leiden dat een negatieve premie wordt geheven, wordt de premie op nihil gesteld.

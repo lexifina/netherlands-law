@@ -1,4 +1,0 @@
-# Artikel 50a. Premiekorting bevordering duurzame arbeidsparticipatie
-1. Bij algemene maatregel van bestuur kan worden bepaald dat de werkgever een korting toepast op de door hem op grond van de afdelingen 2, 3 of 4 verschuldigde premies bij een dienstbetrekking met een werknemer, indien die werkgever maatregelen heeft getroffen gericht op bevordering van de duurzame arbeidsparticipatie van die werknemer.
-2. Bij of krachtens de algemene maatregel van bestuur, bedoeld in het eerste lid, worden de maatregelen aangewezen die geacht worden de duurzame arbeidsparticipatie te bevorderen en wordt de hoogte van de korting afhankelijk gesteld van de mate waarin de werkgever die maatregelen heeft getroffen ten aanzien van de werknemer.
-3. Bij ministeriële regeling kunnen regels worden gesteld voor de gegevens die de werkgever bij de loonadministratie bewaart waaruit de mate van inzet van de getroffen maatregelen, bedoeld in het eerste en tweede lid, blijkt.
