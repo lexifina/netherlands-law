@@ -1,0 +1,2 @@
+# Artikel III
+Deze regeling treedt in werking met ingang van 1 januari 2018 nadat het in artikel I van de Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 9 december 2016 houdende wijziging van de Regeling zorgverzekering in verband met de wanbetalersbijdrage ten behoeve van zorgverzekeraars (Stcrt. 2016, 69126) opgenomen artikel 6.5.4, derde lid, onderdelen e en f, en tiende lid, van de Regeling zorgverzekering in werking is getreden.
