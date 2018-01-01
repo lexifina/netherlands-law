@@ -35,7 +35,7 @@
 #### Paragraaf 3. De promoties
 #### Paragraaf 4. Graden en titulatuur
 ### Titel 2. Vooropleidingseisen en toelatingseisen
-#### Paragraaf 1. Vooropleidingseisen bacheloropleidingen
+#### Paragraaf 1. Vooropleidingseisen associate degree-opleidingen en bacheloropleidingen
 #### Paragraaf 2. Toelatingseisen masteropleidingen
 ### Titel 3. Studenten en extraneï
 #### Paragraaf 1. Aanmelding, studiekeuzeactiviteiten en studiekeuzeadvies
@@ -132,4 +132,5 @@
 ### Titel 13. Wet van.... 2011 (Stb...)
 ### Titel 14. Wet van 28 januari 2013 (Stb. 70)
 ### Titel 15. Wet van 10 juli 2013 (Stb. 298)
+### Titel 16. Wet invoering associate degree-opleiding
 ## Hoofdstuk 19. Slotbepalingen
