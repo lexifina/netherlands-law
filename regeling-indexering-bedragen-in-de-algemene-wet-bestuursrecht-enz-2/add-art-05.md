@@ -1,0 +1,6 @@
+# Artikel V
+Het griffierecht in burgerlijke zaken zoals het gold vóór 1 januari 2018 blijft van toepassing:
+a. voor de eiser of verzoeker die dit griffierecht voor die datum verschuldigd is geworden;
+b. voor de gedaagde die verschijnt in een dagvaardingsprocedure waarin het exploot van dagvaarding voor die datum is betekend en in dat exploot een rechtsgeldige mededeling en verwijzing inzake griffierechten als bedoeld in artikel 111, tweede lid, onder k, van het Wetboek van Burgerlijke Rechtsvordering is opgenomen;
+c. voor de belanghebbende die schriftelijk verweer voert in een verzoekschriftprocedure, waarvoor de oproeping is gedagtekend voor die datum en in die oproeping een rechtsgeldige mededeling en verwijzing inzake griffierechten is opgenomen als bedoeld in artikel 276, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering;
+d. voor de verweerder die verschijnt in een vorderingsprocedure als bedoeld in artikel 30a, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering (nieuw), waarvoor het oproepingsbericht is gedagtekend voor die datum en in dat oproepingsbericht een rechtsgeldige mededeling en verwijzing inzake griffierechten is opgenomen als bedoeld in artikel 111, tweede lid, onder g, van het Wetboek van Burgerlijke Rechtsvordering (nieuw).
