@@ -1,0 +1,2 @@
+# Artikel VIII
+Een beleggingsonderneming met een zetel in een staat die geen lidstaat is die op het tijdstip van inwerkingtreding van deze wet beschikt over een vergunning om in Nederland beleggingsdiensten te verlenen of beleggingsactiviteiten te verrichten en geen bijkantoor in Nederland heeft, behoeft tot 1 januari 2019 niet te voldoen aan artikel 2:99a, eerste lid, aanhef en onderdeel a, van de Wet op het financieel toezicht.
