@@ -134,6 +134,9 @@
 ##### § 2.2.12.1. Vergunningplicht en -eisen
 ##### § 2.2.12.2. Bijkantoor en verrichten van diensten
 ##### § 2.2.12.3. Vrijstelling
+#### Afdeling 2.2.12a. Verlenen van datarapporteringsdiensten
+##### §. 2.2.12a.1. Vergunningplicht en -eisen
+##### § 2.2.12a.2. Verrichten van diensten
 #### Afdeling 2.2.13. Bijzondere bepalingen
 ### Hoofdstuk 2.3. Toegang tot de buitenlandse financiële markten
 #### Afdeling 2.3a.1. Uitoefenen van het bedrijf van afwikkelonderneming bijkantoor buiten Nederland
@@ -341,9 +344,11 @@
 #### Afdeling 4.3.6. Optreden als gevolmachtigde agent of ondergevolmachtigde agent
 #### Afdeling 4.3.7. Verlenen van beleggingsdiensten, verrichten van beleggingsactiviteiten en systematische interne afhandeling
 ##### § 4.3.7.1. Algemeen
-##### § 4.3.7.2. Exploiteren van een multilaterale handelsfaciliteit
+##### § 4.3.7.2. Exploiteren van een georganiseerde handelsfaciliteit of een multilaterale handelsfaciliteit
+##### § 4.3.7.2a. Mkb-groeimarkt
 ##### § 4.3.7.3. Systematische interne afhandeling
 ##### § 4.3.7.4. Overige bepaling informatie na de handel door beleggingsondernemingen
+##### § 4.3.7.5. Algoritmische handel, directe elektronische toegang en het optreden als clearinginstelling
 #### Afdeling 4.3.8. Onderlinge verhouding financiële ondernemingen
 ##### § 4.3.8.1. Verhouding tussen aanbieder, (onder)bemiddelaar en (onder-)gevolmachtigde agent
 ##### § 4.3.8.2. Verhouding tussen beleggingsondernemingen onderling en tussen beleggingsondernemingen en verbonden agenten
@@ -392,6 +397,11 @@
 ### Hoofdstuk 5.6. Regels over het toepassen van een gedragscode door institutionele beleggers
 ### Hoofdstuk 5.7. Regels voor de toegang tot betalingssystemen
 ### Hoofdstuk 5.8. Toezicht op ratingbureaus
+### Hoofdstuk 5.9. Positielimieten en positiebeheerscontroles voor grondstoffenderivaten
+#### Afdeling 5.9.1. Positielimieten
+#### Afdeling 5.9.2. Positiebeheerscontroles
+#### Afdeling 5.9.3. Rapportages
+#### Afdeling 5.9.4. Aanvullende toezichtbevoegdheden
 ## 6. Deel bijzondere maatregelen betreffende de stabiliteit van het financiële stelsel
 ### Hoofdstuk 6.1. Algemeen
 ### Hoofdstuk 6.2. Rechtsbescherming
