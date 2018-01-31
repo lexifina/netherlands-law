@@ -1,0 +1,4 @@
+# Artikel 4c
+1. Het vrij in te zetten productvolume van 2.000 ton, bedoeld in artikel 2, eerste lid, tweede volzin, van verordening 2017/1165, wordt voor aanvragen als bedoeld in artikel 2, tweede lid, aangewend ten behoeve van meldingen voor producten als bedoeld in artikel 1, tweede lid, onderdelen c en i, van verordening 2017/1165.
+2. Het vrij in te zetten productvolume, bedoeld in het eerste lid, wordt in aanvulling op de aanwending, bedoeld in het eerste lid, aangewend ten behoeve van meldingen inzake het uit de markt nemen voor gratis verstrekking van producten als bedoeld in artikel 1, tweede lid, onderdelen a en b, indien de aan deze producten toegewezen maximumhoeveelheid in bijlage I van Verordening 2017/1165 is overschreden.
+3. Het volume van alle meldingen van elke afzonderlijk product als bedoeld in het eerste en tweede lid, bedraagt ten hoogste 50% van het vrij in te zetten productievolume, bedoeld in het eerste lid.
