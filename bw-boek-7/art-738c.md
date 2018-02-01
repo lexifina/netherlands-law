@@ -1,0 +1,6 @@
+# Artikel 738c
+De verzekeringsovereenkomst, bedoeld in artikel 738a, lid 4, voldoet aan het volgende:
+a. de overeenkomst is aangegaan met een verzekeraar van wie Onze Minister van Infrastructuur en Milieu, na overleg met Onze Minister van Financiën, de financiële draagkracht tot het geven van dekking uit hoofde van artikel 738a voldoende oordeelt;
+b. de gelden uit de overeenkomst kunnen, indien de verzekeraar buiten Nederland is gevestigd, feitelijk in een land naar keuze van de zeevarende ter beschikking komen;
+c. uit de overeenkomst blijkt dat de zeevarende in overeenstemming met artikel 738b, lid 1, zijn vordering rechtstreeks tegen de verzekeraar kan instellen. Indien de overeenkomst een beding inhoudt dat de scheepsbeheerder zelf voor een deel in de uitkering zal bijdragen, blijkt uit de overeenkomst dat de verzekeraar niettemin jegens de zeevarende gehouden blijft tot betaling van ook dat deel;
+d. uit de overeenkomst blijkt dat de verzekeraar deze slechts tussentijds kan opzeggen, indien hij daarvan tenminste dertig dagen van te voren schriftelijk of elektronisch mededeling heeft gedaan aan de door Onze Minister van Infrastructuur en Milieu aangewezen autoriteit, bedoeld in artikel 738a, lid 6.

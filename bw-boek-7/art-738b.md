@@ -1,0 +1,4 @@
+# Artikel 738b
+1. Vorderingen, die krachtens artikel 738a door een verzekering worden gedekt, kunnen rechtstreeks door de zeevarende worden ingesteld tegen de verzekeraar.
+2. De verzekeraar komen alle verweermiddelen toe die de scheepsbeheerder tegen de vorderingen zou hebben kunnen aanvoeren, doch hij kan geen beroep doen op de omstandigheid dat de scheepsbeheerder surseance van betaling is verleend, dat ten aanzien van de scheepsbeheerder de schuldsaneringsregeling natuurlijke personen van toepassing is of dat de scheepsbeheerder zich in staat van faillissement of vereffening bevindt. Verweermiddelen, die hij zou hebben kunnen aanvoeren tegen een door de scheepsbeheerder tegen hem ingestelde vordering, komen de verzekeraar niet toe.
+3. De verzekeraar kan de scheepsbeheerder steeds in het geding roepen.
