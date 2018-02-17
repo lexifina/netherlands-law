@@ -1,0 +1,3 @@
+# Artikel III
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van artikel I, onderdeel E, artikelen 11b en 11c, eerste lid, voor zover dat betrekking heeft op een malus als bedoeld in artikel 7 van uitvoeringsverordening (EU) 2015/429, en derde lid, die in werking treden op een bij koninklijk besluit te bepalen tijdstip dat voor die artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+2. Artikel 11c van het Besluit implementatie richtlijn 2012/34/EU tot instelling van één Europese spoorwegruimte vervalt met ingang van 1 januari 2022.
