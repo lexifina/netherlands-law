@@ -1,4 +1,0 @@
-# Artikel 11a
-1. De volmacht ten aanzien van het sluiten van operationele overeenkomsten (Letters of Agreement) op het gebied van overdracht van luchtverkeersdienstverlening, wordt verleend aan de general manager Procedures.
-2. In afwijking van het bepaalde onder lid 1 wordt de volmacht ten aanzien van het sluiten van operationele overeenkomsten (Letters of Agreement) op het gebied van overdracht van luchtverkeersdienstverlening vanuit de Regional Unit, verleend aan de general manager Regional Unit.
-3. De volmacht ten aanzien van het sluiten van overige operationele overeenkomsten die een direct verband houden met het verlenen van luchtverkeersdiensten, wordt verleend aan de general manager Procedures en aan de general manager Regional Unit voor zover deze overeenkomsten betrekking hebben op luchtverkeersdiensten op de regionale luchthavens.
