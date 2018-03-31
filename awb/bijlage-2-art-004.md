@@ -38,7 +38,7 @@ Scheepvaartverkeerswet: de artikelen 14a, tweede lid, eerste volzin, en 15ba, ee
 Spoorwegwet: hoofdstuk 5, paragraaf 2, en artikel 71, tweede lid
 Telecommunicatiewet, voor zover het betreft een besluit van de Autoriteit Consument en Markt, genomen op grond van:
 a. hoofdstuk 6, tenzij beroep kon worden ingesteld voor de inwerkingtreding van de Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002
-b. de hoofdstukken 6A, 6B en 12
+b. de hoofdstukken 5a, 6a, 6b en 12
 c. hoofdstuk 15, met uitzondering van de artikelen 15.2, 15.2a en 15.4
 Uitvoeringswet verordening Europese coöperatieve vennootschap: het verzet, bedoeld in de artikelen 6, eerste lid, en 9
 Uitvoeringswet verordening Europese vennootschap: het verzet, bedoeld in de artikelen 5, eerste lid, en 7

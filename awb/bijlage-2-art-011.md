@@ -24,7 +24,7 @@ Telecommunicatiewet, met inbegrip van de verordeningen genoemd in artikel 18.2a,
 a. de artikelen 3.5, 3.5a, 3.5b, 3.22, 15.2, derde lid, 15.4, vierde lid, en 18.9, eerste en tweede lid
 b. alsmede, voor zover het betreft een besluit van de Autoriteit Consument en Markt:
 1. hoofdstuk 6, tenzij beroep kon worden ingesteld voor de inwerkingtreding van de Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002
-2. de hoofdstukken 6A, 6B en 12
+2. de hoofdstukken 5a, 6a, 6b en 12
 3. hoofdstuk 15, met uitzondering van de artikelen 15.2, 15.2a en 15.4.
 Verordening (EU) nr. 806/2014 van het Europees parlement en de Raad van 15 juli 2014 tot vaststelling van eenvormige regels en een eenvormige procedure voor de afwikkeling van kredietinstellingen en bepaalde beleggingsondernemingen in het kader van een gemeenschappelijk afwikkelingsmechanisme en een gemeenschappelijk bankenafwikkelingsfonds en tot wijziging van Verordening (EU) nr. 1093/2010 van het Europees parlement en de Raad (PbEU 2014, L 225), met uitzondering van de artikelen 16, 18 en 21
 Warenwet
@@ -39,6 +39,7 @@ Wet geneesmiddelenprijzen: artikel 11
 Wet gewasbeschermingsmiddelen en biociden: artikel 90
 Wet handhaving consumentenbescherming
 Wet implementatie EU-richtlijnen energie-efficiëntie: de artikelen 21 en 22
+Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken
 Wet inkomstenbelasting 2001: een boetebesluit als bedoeld in artikel 3.52a, elfde lid, en een daarmee samenhangende correctie-RDA-beschikking als bedoeld in het tweede lid van dit artikel
 Wet inzake de geldtransactiekantoren,voor zover die wet nog van toepassing is op grond van artikel IX van de Wijzigingswet financiële markten 2012
 Wet lokaal spoor, met uitzondering van artikel 12
