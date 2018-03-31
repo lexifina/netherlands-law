@@ -1,0 +1,6 @@
+# Artikel 5a.14
+1. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de procedure van een verzoek tot medegebruik of coördinatie. Daarbij kan onder meer worden bepaald op welke wijze en binnen welke termijn een verzoek wordt ingediend dan wel behandeld, alsmede welke gegevens bij een verzoek moeten worden overgelegd.
+2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent omstandigheden, eisen en voorwaarden als bedoeld in de artikelen 5a.4, eerste lid, 5a.5 en 5a.11, alsmede over de procedure om tot overeenstemming te komen over die omstandigheden, eisen en voorwaarden.
+3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels gesteld worden aan de procedure van een verzoek om inspectie en aan de maatregelen die een netwerkexploitant, of een onderneming als bedoeld in artikel 5a.3, tweede en derde lid, tijdens of voorafgaand aan de inspectie stelt.
+4. Bij of krachtens algemene maatregel van bestuur kunnen voorts nadere regels gesteld worden met betrekking tot de vergoeding aan een derde als bedoeld in artikel 5a.7.
+5. In de in het eerste tot en met vierde lid bedoelde nadere regels kunnen aan de Autoriteit Consument en Markt taken worden opgedragen en bevoegdheden worden verleend.

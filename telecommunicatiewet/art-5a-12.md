@@ -1,0 +1,2 @@
+# Artikel 5a.12
+De bij medegebruik of coördinatie betrokken partijen gebruiken informatie die in het kader van medegebruik van fysieke infrastructuur of coördinatie van civiele werken wordt verstrekt, alsmede informatie die gedurende het medegebruik of de coördinatie is verkregen uitsluitend voor het doel waarvoor deze informatie is verstrekt of verkregen. Alle informatie wordt vertrouwelijk behandeld.

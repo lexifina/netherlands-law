@@ -21,6 +21,12 @@
 #### § 5.1.3. Ernstige belemmeringen en storingen
 ### § 5.2. Schadevergoeding in verband met gedoogplicht
 ### § 5.3. Overige bepalingen
+## Hoofdstuk 5a. Medegebruik voorzieningen en coördinatie van civiele werken
+### § 1. Algemene bepalingen
+### § 2. Medegebruik
+### § 3. Coördinatie van de uitvoering van civiele werken
+### § 4. Wederzijdse verantwoordelijkheden bij medegebruik of coördinatie
+### § 5. Grondslag voor nadere regels
 ## Hoofdstuk 6. Interoperabiliteit van diensten en vertrouwelijkheid van informatie
 ## Hoofdstuk 6a. Verplichtingen voor ondernemingen die beschikken over een aanmerkelijke marktmacht
 ### § 6a.1. Vaststellen van aanmerkelijke marktmacht
