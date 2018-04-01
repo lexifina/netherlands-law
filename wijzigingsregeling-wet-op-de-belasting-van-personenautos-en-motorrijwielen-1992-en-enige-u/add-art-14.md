@@ -1,0 +1,2 @@
+# Artikel XIV
+Een wijze van vermenging van overige alcoholhoudende producten als bedoeld in bijlage A.2, onderdeel c, tweede aandachtstreepje, van de Uitvoeringsregeling accijns zoals die bijlage luidde op 31 december 2017, die in overeenstemming met de algemeen directeur Douane, genoemd in artikel 4, derde lid, van de Uitvoeringsregeling Belastingdienst 2003, is vastgesteld komt te vervallen met ingang van 1 juli 2018.
