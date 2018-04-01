@@ -1,0 +1,2 @@
+# Artikel XXIX. Wet van 31 mei 2017 tot wijziging van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen in verband met de herijking en harmonisatie van enige kwaliteitseisen voor kindercentra en peuterspeelzalen, de innovatie van die kwaliteitseisen en het aanpassen van enige eisen aan de kwaliteit van voorschoolse educatie (Wet innovatie en kwaliteit kinderopvang) (Stb. 2017, 251)
+[Wijzigt de Wet innovatie en kwaliteit kinderopvang.]
