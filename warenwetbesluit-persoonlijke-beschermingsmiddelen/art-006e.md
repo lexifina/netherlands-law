@@ -1,5 +1,0 @@
-# Artikel 6e. De aanvraag tot aanwijzing
-1. De instelling, bedoeld in artikel 6d, dient de aanvraag tot aanwijzing in bij Onze Minister.
-2. De instelling doet de aanvraag vergezellen van een beoordeling door de Stichting Raad voor Accreditatie te Utrecht, waaruit blijkt dat zij voldoet aan de criteria, genoemd in artikel 6d, eerste lid, en van het bewijs dat is voldaan aan de voorwaarden, genoemd in artikel 6d, tweede lid.
-3. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de indiening van de aanvraag, de beoordeling, het bewijs, bedoeld in het tweede lid, en de afhandeling van de aanvraag.
-4. De kosten van de beoordeling en het bewijs, bedoeld in het tweede lid, zijn voor rekening van de aanvragende instelling.
