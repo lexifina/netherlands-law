@@ -3,13 +3,13 @@
 2. Het bevel is schriftelijk en vermeldt:
 a. een omschrijving van het georganiseerd verband;
 b. de feiten en omstandigheden waaruit blijkt dat de voorwaarden, bedoeld in het eerste lid, zijn vervuld;
-c. zo mogelijk het nummer waarmee de individuele gebruiker van de communicatiedienst wordt geïdentificeerd alsmede, voor zover bekend, de naam en het adres van de gebruiker;
+c. het nummer of een andere aanduiding waarmee de individuele gebruiker van de communicatiedienst wordt geïdentificeerd of de naam en, voor zover bekend, het adres van de gebruiker;
 d. de naam van de persoon, genoemd in het eerste lid, wanneer deze niet de houder is;
 e. de geldigheidsduur van het bevel; en
 f. een aanduiding van de aard van het technisch hulpmiddel of de technische hulpmiddelen waarmee de communicatie wordt opgenomen.
 3. Indien het bevel betrekking heeft op communicatie die plaatsvindt via een openbaar telecommunicatienetwerk of met gebruikmaking van een openbare telecommunicatiedienst in de zin van de Telecommunicatiewet, wordt – tenzij zulks niet mogelijk is of het belang van strafvordering zich daartegen verzet – het bevel ten uitvoer gelegd met medewerking van de aanbieder van het openbare telecommunicatienetwerk of de openbare telecommunicatiedienst en gaat het bevel vergezeld van een vordering aan de aanbieder om medewerking te verlenen.
 4. Indien het bevel betrekking heeft op andere communicatie dan bedoeld in het derde lid, wordt – tenzij zulks niet mogelijk is of het belang van strafvordering zich daartegen verzet – de aanbieder in de gelegenheid gesteld medewerking te verlenen bij de tenuitvoerlegging van het bevel.
-5. Het bevel, bedoeld in het eerste lid, kan slechts worden gegeven na schriftelijke machtiging, op vordering van de officier van justitie te verlenen door de rechter-commissaris. Artikel 126s, vijfde tot en met achtste lid, is van overeenkomstige toepassing.
+5. Het bevel, bedoeld in het eerste lid, kan slechts worden gegeven na schriftelijke machtiging, op vordering van de officier van justitie te verlenen door de rechter-commissaris. De rechter-commissaris kan, op vordering van de officier van justitie, in zijn machtiging bepalen dat deze geldt voor alle nummers of andere aanduidingen als bedoeld in het tweede lid, onder c, die gedurende de geldigheidsduur van de machtiging bij de gebruiker in gebruik zijn. Artikel 126l, vijfde tot en met achtste lid, is van overeenkomstige toepassing.
 6. Voor zover het belang van het onderzoek dit bepaaldelijk vordert, kan bij of terstond na de toepassing van het eerste lid tot degene van wie redelijkerwijs kan worden vermoed dat hij kennis draagt van de wijze van versleuteling van de communicatie, de vordering worden gericht medewerking te verlenen aan het ontsleutelen van de gegevens door hetzij deze kennis ter beschikking te stellen, hetzij de versleuteling ongedaan te maken.
 7. De in het zesde lid bedoelde vordering wordt niet gericht tot de verdachte.
 8. Op de in het zesde lid bedoelde vordering zijn artikel 96a, derde lid, en artikel 126s, vierde, zesde en zevende lid, van overeenkomstige toepassing.

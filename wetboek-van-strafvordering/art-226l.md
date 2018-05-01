@@ -1,3 +1,8 @@
 # Artikel 226l
 1. Onze Minister van Veiligheid en Justitie kan op bij algemene maatregel van bestuur te bepalen wijze specifieke maatregelen treffen voor de feitelijke bescherming van getuigen, bedoeld in de artikelen 226a, 226g, 226k en 226m.
 2. Het eerste lid is van overeenkomstige toepassing op een persoon die medewerking heeft verleend aan de met opsporing en vervolging van strafbare feiten belaste autoriteiten, voor zover daartoe een dringende noodzaak is ontstaan als gevolg van die medewerking en daarmee verband houdend overheidsoptreden.
+3. Onze Minister van Veiligheid en Justitie kan ambtenaren belast met de opsporing van strafbare feiten aanwijzen. Die ambtenaren zijn, ter uitvoering van het krachtens het eerste en tweede lid bepaalde, bevoegd zich voor medewerking bij de te verlenen feitelijke bescherming te wenden tot een ieder.
+4. Indien de in het derde lid bedoelde medewerking niet wordt verleend, kan de officier van justitie in het belang van de feitelijke bescherming van de getuige, deze medewerking vorderen.
+5. De geldende wettelijke voorschriften ter zake van de in het derde en vierde lid bedoelde medewerking blijven, voor zover deze in de weg staan aan het verlenen van de medewerking, buiten toepassing.
+6. Degene tot wie een verzoek tot medewerking als bedoeld in het derde lid of een vordering als bedoeld in het vierde lid is gericht, neemt in belang van de feitelijke bescherming van de getuige geheimhouding in acht over al hetgeen hem bekend is ten aanzien van het verzoek tot medewerking of de vordering.
+7. Een vordering als bedoeld in het vierde lid kan niet worden gericht tot de verdachte. Artikel 96a, derde lid, is van overeenkomstige toepassing.
