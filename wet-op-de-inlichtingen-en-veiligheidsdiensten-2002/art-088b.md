@@ -1,2 +1,0 @@
-# Artikel 88b
-Voor de toepassing van deze wet in de openbare lichamen Bonaire, Sint Eustatius en Saba is de Algemene wet op het binnentreden van toepassing.
