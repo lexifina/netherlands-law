@@ -1,3 +1,0 @@
-# Artikel II
-1. Onderdeel a van artikel 2.2 van de Regeling zorgverzekering, zoals dit onderdeel luidde onmiddellijk voorafgaande aan de inwerkingtreding van deze regeling, blijft tot 1 januari 2016 van toepassing op verzekerden die onmiddellijk voorafgaande aan het tijdstip waarop deze regeling in werking treedt overeenkomstig dit onderdeel de daarin genoemde zorg ontvangen.
-2. De onderdelen b en c van artikel 2.2 van de Regeling zorgverzekering, zoals deze onderdelen luidden onmiddellijk voorafgaande aan de inwerkingtreding van deze regeling, blijven tot 1 januari 2017 van toepassing op verzekerden die onmiddellijk voorafgaande aan het tijdstip waarop deze regeling in werking treedt overeenkomstig die onderdelen de daarin genoemde zorg ontvangen.
