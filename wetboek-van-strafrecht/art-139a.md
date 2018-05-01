@@ -5,4 +5,4 @@
 2. Het eerste lid is niet van toepassing op het opnemen:
 1°. van gegevens die worden verwerkt of overgedragen door middel van telecommunicatie of door middel van een geautomatiseerd werk;
 2°. behoudens in geval van kennelijk misbruik, met een technisch hulpmiddel dat op gezag van degene bij wie de woning, het lokaal of het erf in gebruik is, niet heimelijk aanwezig is;
-3°. ter uitvoering van de Wet op de inlichtingen- en veiligheidsdiensten 2002.
+3°. ter uitvoering van de Wet op de inlichtingen- en veiligheidsdiensten 2017.
