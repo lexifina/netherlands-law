@@ -55,7 +55,7 @@
 #### § 12.2.1. Geschillen tussen marktpartijen
 #### § 12.2.2. Geschillen tussen consumenten en aanbieders of ondernemingen
 ### § 12.3. Geschilbeslechting door minister
-## Hoofdstuk 13. Bevoegd aftappen en toepassing van andere bevoegdheden op grond van het Wetboek van Strafvordering en de Wet op de inlichtingen- en veiligheidsdiensten 2002 in verband met telecommunicatie
+## Hoofdstuk 13. Bevoegd aftappen en toepassing van andere bevoegdheden op grond van het Wetboek van Strafvordering en de Wet op de inlichtingen- en veiligheidsdiensten 2017 in verband met telecommunicatie
 ## Hoofdstuk 14. Buitengewone omstandigheden
 ## Hoofdstuk 15. Handhaving
 ### § 15.1. Algemeen
