@@ -46,6 +46,7 @@ Wet langdurige zorg: hoofdstuk 10, § 4
 Wet lokaal spoor, met uitzondering van artikel 12
 Wet luchtvaart: artikel 11.24
 Wet marktordening gezondheidszorg, voor zover het betreft beschikkingen van de Nederlandse Zorgautoriteit als bedoeld in paragraaf 4 van hoofdstuk 6
+Wet op de inlichtingen- en veiligheidsdiensten 2017: artikel 53, zevende lid
 Wet op het financieel toezicht, met uitzondering van:
 a. hoofdstuk 5.1 en de artikelen 5:77, eerste lid, en 5:81, derde lid
 b. een besluit terzake van het ingevolge artikel 5:76, tweede lid, of 5:80b, vijfde lid, bepaalde, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in artikel 1:80

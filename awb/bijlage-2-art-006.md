@@ -18,7 +18,7 @@ Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukten, voor zo
 Wet Centraal Orgaan opvang asielzoekers: de in artikel 5, eerste en tweede lid, bedoelde besluiten en handelingen, met dien verstande dat de rechtbank Den Haag de beroepen kan behandelen in alle zittingsplaatsen van alle rechtbanken, bedoeld in artikel 21b, eerste en tweede lid, van de Wet op de rechterlijke organisatie
 Wet financiële voorzieningen privatisering ABP
 Wet milieubeheer: artikel 18.16a, eerste, tweede of vijfde lid
-Wet op de inlichtingen- en veiligheidsdiensten 2002: hoofdstuk 4
+Wet op de inlichtingen- en veiligheidsdiensten 2017: hoofdstuk 5
 Wet pensioenvoorzieningen K.N.I.L.
 Wet rechtspositionele voorzieningen rampbestrijders
 Wet van 16 juli 2001 tot het stellen van nadere regels in verband met de introductie van een toeslagregeling ter compensatie van het gemis aan overhevelingstoeslag per 1 januari 2001 ten aanzien van de Toeslagwet Indonesische pensioenen 1956 en enkele andere overzeese pensioenwetten alsmede het actualiseren van die wetten in verband met de inwerkingtreding van de Algemene nabestaandenwet (Stb. 2001, 377)
