@@ -1,0 +1,2 @@
+# Artikel III
+Deze regeling treedt in werking op het moment waarop de Wijziging van het Vreemdelingenbesluit 2000 en enige andere besluiten in verband met de implementatie van richtlijn (EU) 2016/801 van het Europees Parlement en de Raad van 11 mei 2016 betreffende de voorwaarden voor toegang en verblijf van derdelanders met het oog op onderzoek, studie, stages, vrijwilligerswerk, scholierenuitwisseling, educatieve projecten of au-pairactiviteiten (herschikking) (PbEU 2016, L 132) in werking treedt.
