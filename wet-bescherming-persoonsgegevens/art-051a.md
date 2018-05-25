@@ -1,3 +1,0 @@
-# Artikel 51a
-1. Het College is bevoegd om in het belang van een efficiënt en effectief toezicht op de verwerking van persoonsgegevens afspraken te maken met andere toezichthouders en daartoe gezamenlijk met deze toezichthouders samenwerkingsprotocollen vast te stellen. Een samenwerkingsprotocol wordt bekendgemaakt in de Staatscourant.
-2. Het College en de toezichthouders, bedoeld in het eerste lid, zijn bevoegd uit eigen beweging en desgevraagd verplicht aan elkaar de gegevens betreffende de verwerking van persoonsgegevens te verstrekken die noodzakelijk zijn voor de uitvoering van hun taak.
