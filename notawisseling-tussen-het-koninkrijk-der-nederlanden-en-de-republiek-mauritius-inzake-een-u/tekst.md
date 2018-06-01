@@ -1,0 +1,72 @@
+# Tekst
+## Nr. I
+EMBASSY OF THE KINGDOM OF THE NETHERLANDS
+Dar es Salaam, March, 3, 2014
+Note: DAR/CDP/LS/041A/2014
+The Embassy of the Kingdom of the Netherlands presents its compliments to the Ministry of Foreign Affairs, Regional Integration and International Trade of the Republic of Mauritius and has the honour to refer to the Agreement between the Kingdom of the Netherlands and the Republic of Mauritius on mutual administrative assistance in customs matters, signed at Port Louis on 13 March 2008 (hereinafter referred to as "the Agreement of 2008").
+The Government of the Kingdom of the Netherlands proposes that, in accordance with Article 22, paragraphs 2 and 3, of the Agreement of 2008, the application of the Agreement of 2008 shall be extended to Aruba, Curaçao, Sint Maarten and the Caribbean part of the Netherlands (Bonaire, Sint Eustatius and Saba), subject to the following:
+1. For the Kingdom of the Netherlands, as regards Aruba, Curaçao, Sint Maarten and the Caribbean part of the Netherlands (Bonaire, Sint Eustatius and Saba), the term "customs administration" in Article 1 of the Agreement of 2008, shall mean the central administration responsible for the implementation of customs laws, including the assessment of customs duties, charges and other taxes.
+2. The second sentence of Article 2, paragraph 4, of the Agreement of 2008 shall apply only to Aruba, Curaçao, Sint Maarten and the Caribbean part of the Netherlands (Bonaire, Sint Eustatius and Saba) insofar as the bilateral and multilateral treaties referred to therein apply to these parts of the Kingdom of the Netherlands.
+3. The requirements of national law in the sense of Article 18 and the Annex to the Agreement of 2008, as regards Aruba, Curaçao and Sint Maarten, shall fall under the scope of the applicable laws of Aruba, Curaçao and Sint Maarten respectively.
+4. The Caribbean part of the Netherlands (Bonaire, Sint Eustatius and Saba) shall fall, as regards the requirements of national law in the sense of Article 18 and the Annex to the Agreement of 2008, under the scope of the applicable law of Bonaire, Sint Eustatius and Saba.
+If the foregoing is acceptable to the Government of the Republic of Mauritius, the Embassy has the further honour to propose that this Note and the Ministry's Note in reply shall constitute an Agreement between the Kingdom of the Netherlands and the Republic of Mauritius which shall enter into force on the first day of the second month following the date of receipt of the later notification in which one Party informs the other Party that the formalities required for the entry into force of this Agreement have been complied with.
+The Embassy of the Kingdom of the Netherlands avails itself of this opportunity to renew to the Ministry of Foreign Affairs and Regional Integration and International Trade of the Republic of Mauritius the assurance of its highest consideration.
+Ministry of Foreign Affairs, Regional Integration and
+International Trade of Mauritius
+Port Louis
+## Nr. II
+REPUBLIC OF MAURITIUS
+MINISTRY OF FOREIGN AFFAIRS, REGIONAL INTEGRATION AND INTERNATIONAL TRADE
+Port Louis, 23 June 2017
+Note No: 6/2017 (1130/25/4/1)
+The Ministry of Foreign Affairs, Regional Integration and International Trade presents its compliments to the Embassy of the Kingdom of Netherlands in Tanzania and acknowledges receipt of Note Verbale: DAR/CDP/LS/041A/2014 dated 03 March 2014 from the Embassy of the Kingdom of the Netherlands regarding the Agreement between the Republic of Mauritius and the Kingdom of the Netherlands on mutual administrative assistance in customs matters, signed in Port Louis on 13 March 2008. The text of the aforesaid Note Verbale reads as follows:
+"The Embassy of the Kingdom of the Netherlands presents its compliments to the Ministry of Foreign Affairs, Regional Integration and International Trade of the Republic of Mauritius and has the honour to refer to the Agreement between the Kingdom of the Netherlands and the Republic of Mauritius on mutual administrative assistance in customs matters, signed at Port Louis on 13 March 2008 (hereinafter referred to as "the Agreement of 2008").
+The Government of the Kingdom of the Netherlands proposes that, in accordance with Article 22, paragraphs 2 and 3, of the Agreement of 2008, the application of the Agreement of 2008 shall be extended to Aruba, Curaçao, Sint Maarten and the Caribbean part of the Netherlands (Bonaire, Sint Eustatius and Saba), subject to the following:
+1. For the Kingdom of the Netherlands, as regards Aruba, Curaçao, Sint Maarten and the Caribbean part of the Netherlands (Bonaire, Sint Eustatius and Saba), the term "customs administration" in Article 1 of the Agreement of 2008 shall mean, the central administration responsible for the implementation of customs laws, including the assessment of customs duties, charges and other taxes.
+2. The second sentence of Article 2, paragraph 4, of the Agreement of 2008 shall apply only to Aruba, Curaçao, Sint Maarten and the Caribbean part of the Netherlands (Bonaire, Sint Eustatius and Saba), insofar as the bilateral and multilateral treaties referred to therein apply to these parts of the Kingdom of the Netherlands.
+3. The requirements of national law in the sense of Article 18 and the Annex to the Agreement of 2008, as regards Aruba, Curaçao and the Sint Maarten, shall fall under the scope of the applicable laws of Aruba, Curaçao and the Sint Maarten respectively.
+4. The Caribbean part of the Netherlands (Bonaire, Sint Eustatius and Saba) shall fall, as regards the requirements of national law in the sense of Article 18 and the Annex to the Agreement of 2008, under the scope of the applicable law of Bonaire, Sint Eustatius and Saba.
+If the foregoing is acceptable to the Government of the Republic of Mauritius, the Embassy has the further honour to propose that this Note and the Ministry's Note in reply shall constitute an Agreement between the Kingdom of the Netherlands and the Republic of Mauritius which shall enter into force on the first day of the second month following the date of receipt of the later notification in which one Party informs the other Party that the formalities required for the entry into force of this Agreement have been complied with."
+The Ministry confirms that the above proposal is acceptable to the Government of the Republic of Mauritius and that the Embassy's Note and this Note in reply shall constitute an Agreement between the Republic of Mauritius and the Kingdom of the Netherlands which shall enter into force on the first day of the second month following the date of receipt of the later notification in which one Party informs the other party that the formalities required for the entry into force have been complied with.
+The Ministry of Foreign Affairs, Regional Integration and International Trade of the Republic of Mauritius avails itself of this opportunity to renew to the Embassy of the Kingdom of the Netherlands the assurances of its highest consideration.
+Embassy of the Kingdom of the Netherlands
+Umoa House, 4th Floor
+Garden Avenue
+PO Box 9534,
+Dar es Salaam
+Tanzania
+## Nr. I
+AMBASSADE VAN HET KONINKRIJK DER NEDERLANDEN
+Dar es Salaam, 3 maart 2014
+Nota: DAR/CDP/LS/041A/2014
+De Ambassade van het Koninkrijk der Nederlanden biedt het Ministerie van Buitenlandse Zaken, Regionale Integratie en Internationale Handel van de Republiek Mauritius haar complimenten aan en heeft de eer te verwijzen naar het Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Mauritius inzake wederzijdse administratieve bijstand in douanezaken, ondertekend te Port Louis op 13 maart 2008 (hierna te noemen „het Verdrag van 2008").
+De Regering van het Koninkrijk der Nederlanden stelt voor dat, in overeenstemming met artikel 22, tweede en derde lid, van het Verdrag van 2008, de toepassing van het Verdrag van 2008 wordt uitgebreid tot Aruba, Curaçao, Sint Maarten en het Caribische deel van Nederland (Bonaire, Sint Eustatius en Saba), met inachtneming van het volgende:
+1. Voor het Koninkrijk der Nederlanden wordt, wat Aruba, Curaçao, Sint Maarten en het Caribische deel van Nederland (Bonaire, Sint Eustatius en Saba) betreft, onder de uitdrukking „douaneadministratie" in artikel 1 van het Verdrag van 2008 verstaan, de centrale administratie die verantwoordelijk is voor de toepassing van de douanewetgeving, met inbegrip van de juiste vaststelling van de douanerechten, heffingen en overige belastingen.
+2. De tweede zin van artikel 2, vierde lid, van het Verdrag van 2008 is uitsluitend van toepassing op Aruba, Curaçao, Sint Maarten en het Caribische deel van Nederland (Bonaire, Sint Eustatius en Saba), voor zover de daarin bedoelde bilaterale en multilaterale verdragen van toepassing zijn op deze delen van het Koninkrijk der Nederlanden.
+3. De vereisten van de nationale wetgeving in de zin van artikel 18 en de Bijlage bij het Verdrag van 2008 vallen wat Aruba, Curaçao en Sint Maarten betreft, onder het bereik van de toepasselijke wetgeving van respectievelijk Aruba, Curaçao en Sint Maarten.
+4. Het Caribische deel van Nederland (Bonaire, Sint Eustatius en Saba) valt, wat betreft de vereisten van de nationale wetgeving in de zin van artikel 18 en de Bijlage bij het Verdrag van 2008, onder bereik van de toepasselijke wetgeving van Bonaire, Sint Eustatius en Saba.
+Indien het voorgaande aanvaardbaar is voor de Regering van de Republiek Mauritius, heeft de Ambassade voorts de eer voor te stellen dat deze nota en de antwoordnota van het Ministerie een verdrag zullen vormen tussen het Koninkrijk der Nederlanden en de Republiek Mauritius dat in werking zal treden op eerste dag van de tweede maand die volgt op de datum van ontvangst van de laatste kennisgeving waarin één van de partijen aan de andere partij mededeelt dat aan de benodigde formaliteiten voor de inwerkingtreding is voldaan.
+De Ambassade van het Koninkrijk der Nederlanden maakt van deze gelegenheid gebruik om het Ministerie van Buitenlandse Zaken, Regionale Integratie en Internationale Handel van de Republiek Mauritius opnieuw te verzekeren van haar zeer bijzondere hoogachting.
+Ministerie van Buitenlandse Zaken, Regionale Integratie en
+Internationale Handel van Mauritius
+Port Louis
+## Nr. II
+REPUBLIEK MAURITIUS MINISTERIE VAN BUITENLANDSE ZAKEN, REGIONALE INTEGRATIE EN INTERNATIONALE HANDEL
+Port Louis, 23 juni 2017
+Nota no.: 6/2017 (1130/25/4/1)
+Het Ministerie van Buitenlandse Zaken, Regionale Integratie en Internationale Handel biedt de Ambassade van het Koninkrijk der Nederlanden in Tanzania zijn complimenten aan en bevestigt de ontvangst van nota verbale: DAR/CDP/LS/041A/2014 d.d. 3 maart 2014 van de Ambassade van het Koninkrijk der Nederlanden met betrekking tot het Verdrag tussen de Republiek Mauritius en het Koninkrijk der Nederlanden inzake wederzijdse administratieve bijstand in douanezaken, ondertekend te Port Louis op 13 maart 2008. De tekst van voornoemde nota verbale luidt als volgt:
+„De Ambassade van het Koninkrijk der Nederlanden biedt het Ministerie van Buitenlandse Zaken, Regionale Integratie en Internationale Handel van de Republiek Mauritius haar complimenten aan en heeft de eer te verwijzen naar het Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Mauritius inzake wederzijdse administratieve bijstand in douanezaken, ondertekend te Port Louis op 13 maart 2008 (hierna te noemen „het Verdrag van 2008").
+De Regering van het Koninkrijk der Nederlanden stelt voor dat, in overeenstemming met artikel 22, tweede en derde lid, van het Verdrag van 2008, de toepassing van het Verdrag van 2008 wordt uitgebreid tot Aruba, Curaçao, Sint Maarten en het Caribische deel van Nederland (Bonaire, Sint Eustatius en Saba), met inachtneming van het volgende:
+1. Voor het Koninkrijk der Nederlanden wordt, wat Aruba, Curaçao, Sint Maarten en het Caribische deel van Nederland (Bonaire, Sint Eustatius en Saba) betreft, onder de uitdrukking „douaneadministratie" in artikel 1 van het Verdrag van 2008 verstaan, de centrale administratie die verantwoordelijk is voor de toepassing van de douanewetgeving, met inbegrip van de juiste vaststelling van de douanerechten, heffingen en overige belastingen.
+2. De tweede zin van artikel 2, vierde lid, van het Verdrag van 2008 is uitsluitend van toepassing op Aruba, Curaçao, Sint Maarten en het Caribische deel van Nederland (Bonaire, Sint Eustatius en Saba), voor zover de daarin bedoelde bilaterale en multilaterale verdragen van toepassing zijn op deze delen van het Koninkrijk der Nederlanden.
+3. De vereisten van de nationale wetgeving in de zin van artikel 18 en de Bijlage bij het Verdrag van 2008 vallen wat Aruba, Curaçao en Sint Maarten betreft, onder het bereik van de toepasselijke wetgeving van respectievelijk Aruba, Curaçao en Sint Maarten.
+4. Het Caribische deel van Nederland (Bonaire, Sint Eustatius en Saba) valt, wat betreft de vereisten van de nationale wetgeving in de zin van artikel 18 en de Bijlage bij het Verdrag van 2008, onder bereik van de toepasselijke wetgeving van Bonaire, Sint Eustatius en Saba.
+Indien het voorgaande aanvaardbaar is voor de Regering van de Republiek Mauritius, heeft de Ambassade voorts de eer voor te stellen dat deze nota en de antwoordnota van het Ministerie een verdrag zullen vormen tussen het Koninkrijk der Nederlanden en de Republiek Mauritius dat in werking zal treden op eerste dag van de tweede maand die volgt op de datum van ontvangst van de laatste kennisgeving waarin één van de partijen aan de andere partij mededeelt dat aan de benodigde formaliteiten voor de inwerkingtreding is voldaan."
+Het Ministerie bevestigt dat het bovengenoemde voorstel voor de Regering van de Republiek Mauritius aanvaardbaar is en dat de nota van de Ambassade en deze antwoordnota een verdrag zullen vormen tussen de Republiek Mauritius en het Koninkrijk der Nederlanden dat in werking zal treden op de eerste dag van de tweede maand die volgt op de datum van ontvangst van de laatste kennisgeving waarin één van de partijen aan de andere partij mededeelt dat aan de benodigde formaliteiten voor de inwerkingtreding van dit Verdrag is voldaan.
+Het Ministerie van Buitenlandse Zaken, Regionale Integratie en Internationale Handel van de Republiek Mauritius maakt van deze gelegenheid gebruik om de Ambassade van het Koninkrijk der Nederlanden opnieuw te verzekeren van zijn zeer bijzondere hoogachting.
+Ambassade van het Koninkrijk der Nederlanden
+Umoa House, 4th Floor
+Garden Avenue
+PO Box 9534,
+Dar es Salaam
+Tanzania
