@@ -1,0 +1,2 @@
+# Artikel 3.2,. lid 1, onder b
+Deze passage is toegevoegd om te voorkomen dat er niet op één locatie arbeidsplaatsen vervallen die op een andere locatie worden ingevuld.
