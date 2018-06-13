@@ -1,14 +1,14 @@
 # Inhoud
-## Hoofdstuk I. Algemene Bepalingen
+## Hoofdstuk I. Algemene bepalingen
 ## Hoofdstuk II. Wijziging van de gemeentelijke indeling en grenscorrecties
 ### Paragraaf 1. Algemene bepalingen
 ### Paragraaf 2. Voorbereidingen door gemeenten
 ### Paragraaf 3. Voorbereidingen door provincies
-### Paragraaf 4. Voorbereidingen door de minister
+### Paragraaf 4. Voorbereidingen door Onze Minister
 ## Hoofdstuk III. Wijziging van de provinciale indeling
 ### Paragraaf 1. Algemene bepalingen
 ### Paragraaf 2. Voorbereidingen door provincies
-### Paragraaf 3. Voorbereidingen door de minister
+### Paragraaf 3. Voorbereidingen door Onze Minister
 ### Paragraaf 4. Slotbepaling
 ## Hoofdstuk IV. Financieel toezicht
 ## Hoofdstuk V. Rechtskracht voorschriften en uitoefening bevoegdheden
