@@ -38,7 +38,7 @@ Kaderwet zelfstandige bestuursorganen: artikel 21a, eerste en tweede lid
 Kostenwet invordering rijksbelastingen, met uitzondering van artikel 7
 Leegstandwet:
 a. artikel 15, eerste lid, voor zover het betreft een weigering van de vergunning
-b. artikel 15, negende lid, voor zover het betreft een afwijzing van het verzoek tot verlenging
+b. artikel 15, zesde lid, voor zover het betreft een afwijzing van het verzoek tot verlenging
 c. artikel 16, tiende lid, eerste volzin, en elfde lid, eerste volzin
 Mijnbouwwet: de artikelen 141a, derde lid, 141b, derde lid, en 141c, tweede en derde lid
 Onteigeningswet
