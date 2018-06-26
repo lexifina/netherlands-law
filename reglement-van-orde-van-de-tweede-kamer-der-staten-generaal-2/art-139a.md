@@ -1,0 +1,6 @@
+# Artikel 139a. Aanwijzing van kabinets(in)formateur(s)
+1. Onverwijld na de installatie van een nieuw verkozen Tweede Kamer, maar uiterlijk een week na de installatie, beraadslaagt de Kamer in plenaire zitting over de verkiezingsuitslag. Het doel van de beraadslaging is een of meer informateurs onderscheidenlijk formateurs aan te wijzen en de door hen uit te voeren opdracht vast te stellen. Indien dat doel niet in de desbetreffende vergadering kan worden bereikt, besluit de Kamer daarover in een volgende vergadering, zo spoedig als dat mogelijk is.
+2. Indien een informatieopdracht wordt afgerond, formuleert de Kamer in beginsel binnen een week na de dag van afronding een formatieopdracht, en wijst zij voor de uitvoering daarvan een of meer formateurs aan.
+3. Indien de aangewezen informateurs of formateurs hun opdracht teruggeven, formuleert de Kamer in beginsel binnen een week na de dag van teruggave een nieuwe opdracht, en wijst zij voor de uitvoering daarvan een of meer informateurs onderscheidenlijk formateurs aan.
+4. Na een tussentijdse val van het kabinet kan de Kamer beraadslagen over de wenselijkheid of richting van een nieuwe kabinetsformatie. Het eerste tot en met het derde lid zijn van overeenkomstige toepassing.
+5. De aanwijzing van een informateur dan wel formateur geschiedt onder toepassing van de artikelen 69 tot en met 73.

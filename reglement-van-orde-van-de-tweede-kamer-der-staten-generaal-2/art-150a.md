@@ -1,0 +1,6 @@
+# Artikel 150a. Registers
+1. Ter griffie wordt een register bijgehouden waarin de leden hun nevenactiviteiten en de (te verwachten) inkomsten uit hun nevenactiviteiten vermelden, uiterlijk één week na aanvaarding daarvan, alsmede belangen die redelijkerwijs als relevant kunnen worden beschouwd. Onder inkomsten wordt verstaan: loon in de zin van artikel 9 van de Wet op de loonbelasting 1964, verminderd met de eindheffingsbestanddelen, bedoeld in artikel 31 van die wet of winst uit onderneming in de zin van afdeling 3.2 van de Wet op de inkomstenbelasting 2001. Op uiterlijk 1 april na ieder kalenderjaar waarin de inkomsten zijn genoten vermelden de leden opnieuw hun inkomsten over dat kalenderjaar.
+2. Ter griffie wordt een register bijgehouden waarin de leden hun buitenlandse reizen waarvan vervoers- en verblijfskosten geheel of gedeeltelijk door derden worden betaald vermelden, uiterlijk één week na terugkeer in Nederland.
+3. Ter griffie wordt een register bijgehouden waarin de leden de door hen ontvangen geschenken en voordelen met een hogere waarde dan 50 euro vermelden, uiterlijk één week na ontvangst van het geschenk of het voordeel.
+4. De drie registers liggen voor een ieder ter inzage.
+5. De Griffier is belast met de publicatie, twee maal per jaar, van de opgaven in het register voor de nevenfuncties en belangen.
