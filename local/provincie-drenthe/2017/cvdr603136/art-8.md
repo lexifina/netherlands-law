@@ -1,2 +1,0 @@
-# Artikel 8,. onder j en k
-De aanvrager dient ingeschreven te staan bij de KvK. Ook moet de Belastingdienst hebben aangegeven dat de aanvrager btw-plichtig is voor haar activiteiten. Het maakt daarbij niet uit of de aanvrager ook als ondernemer wordt gezien volgens de inkomstenbelasting. Hiermee wordt erin voorzien dat ook startende ondernemers in aanmerking komen voor de subsidie uit deze regeling. Om aan te tonen dat de aanvrager btw-plichtig is, moet de aanvrager in de aanvraag zowel het KvK-nummer als het btw-nummer opgeven.
