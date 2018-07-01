@@ -1,0 +1,5 @@
+# Artikel 37x
+1. Het is verboden een risicovlucht te doen landen op een niet overeenkomstig het derde lid aangewezen luchtvaartterrein.
+2. Onze Minister van Justitie en Veiligheid kan in overeenstemming met Onze Minister van Infrastructuur en Waterstaat verkeersvluchten, afkomstig uit een derde land, aanwijzen als risicovlucht, indien een sterk verhoogd risico bestaat dat vluchten uit dat land gebruikt zullen worden voor het binnen het grondgebied van Nederland brengen van middelen, als bedoeld in artikel 2 en 3 van de Opiumwet.
+3. Indien toepassing wordt gegeven aan het tweede lid, wijst Onze Minister van Veiligheid en Justitie in overeenstemming met Onze Minister van Infrastructuur en Milieu, in het belang van een doelmatige rechtshandhaving, een of meer luchtvaartterreinen aan die zijn bestemd voor de landing van risicovluchten.
+4. Het eerste lid is niet van toepassing, indien het luchtvaartuig waarmee de risicovlucht wordt uitgevoerd, wordt omgeleid naar een bestemmingsuitwijkhaven.

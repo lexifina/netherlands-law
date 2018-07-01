@@ -15,10 +15,7 @@
 #### § 3. Controle van personen en bagage
 #### § 4. Controle van vracht
 #### § 5. Handhaving
-### Afdeling 4. Verbod van belemmeringen op terreinen rondom luchtvaartterreinen
-#### § 1. Oplegging van het verbod
-#### § 2. Schadeloosstelling
-### Afdeling 5. Militaire werken
+## Hoofdstuk IVa. Risicovluchten
 ## Hoofdstuk V. Buitengewone omstandigheden
 ## Hoofdstuk VI. Strafbepalingen
 ## Hoofdstuk VII. Slotbepalingen
