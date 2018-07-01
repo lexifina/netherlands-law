@@ -13,6 +13,7 @@
 ### Afdeling 2. Formele bepalingen
 ### Afdeling 3. Bijzondere verhaalsregelingen voor aansprakelijken
 ## Hoofdstuk VII. Verplichtingen ten behoeve van de invordering
+## Hoofdstuk VIIbis. Terugvordering en invordering van teruggevorderde staatssteun
 ## Hoofdstuk VIIa. Bestuurlijke boeten
 ## Hoofdstuk VIII. Strafrechtelijke bepalingen
 ## Hoofdstuk IX. Aanvullende regelingen
