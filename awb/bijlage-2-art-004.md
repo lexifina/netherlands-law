@@ -70,6 +70,7 @@ Wet op het financieel toezicht:
 a. artikel 1:26, eerste en tweede lid, de artikelen 3A:17 tot en met 3A:19, hoofdstuk 5.1 en de artikelen 5:77, eerste lid, en 5:81, derde lid
 b. een besluit terzake van het ingevolge artikel 5:76, tweede lid, of 5:80b, vijfde lid, bepaalde, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in artikel 1:80
 Wet personenvervoer 2000, met uitzondering van de artikelen 56, eerste lid, 59, eerste lid, 94, eerste lid, en 96, eerste lid
+Wet terugvordering staatssteun: artikel 3
 Wet uitvoering Internationaal Energieprogramma
 Wet verbod pelsdierhouderij
 Wet van 22 juni 1994 tot wijziging van het Burgerlijk Wetboek, het Wetboek van Burgerlijke Rechtsvordering, het Wetboek van Koophandel en de Wet nationaliteit zeeschepen in rompbevrachting (wijziging voorwaarden nationaliteitsverlening en registratie zeeschepen) (Stb. 1994, 507): een verklaring als bedoeld in artikel V, eerste lid
