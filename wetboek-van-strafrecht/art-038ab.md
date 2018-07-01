@@ -22,3 +22,4 @@ n. de plicht te verhuizen uit een bepaald gebied.
 5. De tenuitvoerlegging van de maatregel geschiedt onder de algemene voorwaarden dat de veroordeelde:
 a. ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage aanbiedt; en
 b. medewerking verleent aan het reclasseringstoezicht, bedoeld in artikel 38ad, tweede lid, de medewerking aan huisbezoeken daaronder begrepen.
+6. Bij de tenuitvoerlegging van de maatregel zijn de artikelen 38w, 38x en 38ij van overeenkomstige toepassing.
