@@ -3,7 +3,7 @@
 a. [vervallen;]
 b. [vervallen;]
 c. [vervallen;]
-d. in 2018 € 779,53.
+d. in 2018 € 783,01.
 2. Artikel 5, tiende lid, is van overeenkomstige toepassing op de bedragen, genoemd in het eerste lid.
 3. Het eerste lid, onderdeel a, vervalt met ingang van 1 januari 2016.
 4. Het eerste lid, onderdeel b, vervalt met ingang van 1 januari 2017.

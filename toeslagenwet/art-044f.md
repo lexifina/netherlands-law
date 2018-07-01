@@ -3,8 +3,8 @@
 a. [vervallen.]
 b. [vervallen.]
 c. in 2018
-1°. indien hij 22 jaar of ouder is: € 39,60
-2°. indien hij 21 jaar is: € 31,95
+1°. indien hij 22 jaar of ouder is: € 39,82
+2°. indien hij 21 jaar is: € 32,31
 en het inkomen per dag.
 2. Het eerste lid, onderdeel a, vervalt met ingang van 1 januari 2017.
 3. Het eerste lid, onderdeel b, vervalt met ingang van 1 januari 2018.
