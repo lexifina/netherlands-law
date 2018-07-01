@@ -14,6 +14,7 @@
 ### Afdeling 4. De algemene ledenvergadering
 ### Afdeling 5. De ringen
 ### Afdeling 6. De geldmiddelen van de KNB
+### Afdeling 6a. Fonds
 ### Afdeling 7. De verordeningen en andere besluiten van de KNB
 ## Titel IX. De tuchtrechtspraak en het toezicht
 ### Afdeling 1. De tuchtrechtspraak
