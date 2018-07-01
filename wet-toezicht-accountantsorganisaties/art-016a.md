@@ -1,5 +1,2 @@
 # Artikel 16a
-De meerderheid van de stemrechten in een accountantsorganisatie wordt gehouden door:
-a. accountantsorganisaties;
-b. auditkantoren; of
-c. natuurlijke personen die voldoen aan de krachtens artikel 25 te stellen regels inzake vakbekwaamheid van externe accountants of aan regels die daaraan gelijkwaardig zijn.
+Natuurlijke personen die het dagelijks beleid bepalen van een accountantsorganisatie met een vergunning die mede strekt tot het verrichten van wettelijke controles bij organisaties van openbaar belang, verrichten geen andere werkzaamheden dan die van dagelijks beleidsbepaler van de accountantsorganisatie, tenzij hiervoor voorafgaande goedkeuring is verleend door het orgaan, bedoeld in artikel 22a, derde lid.
