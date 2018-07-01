@@ -1,6 +1,0 @@
-# Artikel 552pp
-1. Het beslag duurt ten minste voort totdat een beslissing is genomen op het verzoek, bedoeld in artikel 552kk, tweede lid, en deze beslissing is uitgevoerd, tenzij
-a. het beslag reeds is beëindigd als gevolg van een door de rechter gegeven last;
-b. de autoriteiten van de uitvaardigende lidstaat hebben aangegeven het bevel in te trekken.
-2. In het geval van het eerste lid, onderdeel b, gelast de officier van justitie onverwijld de teruggave van het in beslag genomen voorwerp.
-3. Na overleg met de autoriteiten van de uitvaardigende lidstaat, kan de officier van justitie voorwaarden stellen teneinde de duur van het beslag te beperken. Alvorens hij het beslag overeenkomstig de gestelde voorwaarden beëindigt, stelt hij de autoriteiten van de uitvaardigende lidstaat in de gelegenheid over dit voornemen opmerkingen te maken.

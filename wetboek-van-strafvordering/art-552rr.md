@@ -1,2 +1,0 @@
-# Artikel 552rr
-De officier van justitie kan een bevel uitvaardigen strekkende tot inbeslagneming als bedoeld in artikel 94, eerste of tweede lid, of artikel 94a, tweede lid, van voorwerpen welke zich bevinden op het grondgebied van een andere lidstaat van de Europese Unie, en dit bevel zenden aan de autoriteiten van die andere lidstaat met het oog op de erkenning en tenuitvoerlegging ervan in die lidstaat.

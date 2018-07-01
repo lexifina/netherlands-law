@@ -1,3 +1,0 @@
-# Artikel 552gg
-1. De stukken betreffende ambtshandelingen terzake van opsporing en vervolging, die de autoriteiten van de staat waarvan het verzoek tot strafvervolging is uitgegaan naar aanleiding van hun verzoek overleggen, hebben de bewijskracht die toekomt aan stukken betreffende overeenkomstige door Nederlandse ambtenaren verrichte handelingen, met dien verstande dat hun bewijskracht niet uitgaat boven die welke zij in de vreemde staat hebben.
-2. In geval van inwilliging van een verzoek als bedoeld in het tweede lid van artikel 552y, kan een strafrechtelijk financieel onderzoek worden ingesteld, overeenkomstig het bepaalde in de negende afdeling van Titel IV van Boek I.

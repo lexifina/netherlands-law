@@ -1,4 +1,0 @@
-# Artikel 552u
-1. Zo spoedig mogelijk na de ontvangst van een voorstel als bedoeld in het vorige artikel beslist Onze Minister van Veiligheid en Justitie omtrent het daaraan te geven gevolg. Daarbij neemt hij, indien het verzoek tot strafvervolging aan de autoriteiten van de vreemde staat op een verdrag kan worden gegrond, de bepalingen van dat verdrag in acht.
-2. Behoudens de gevallen waarin een toepasselijk verdrag anders bepaalt, wordt een verzoek tot strafvervolging aan de autoriteiten van een vreemde staat door tussenkomst van de Minister van Buitenlandse Zaken gedaan.
-3. Een aan de autoriteiten van een vreemde staat gedaan verzoek tot strafvervolging kan uiterlijk tot de ontvangst van een kennisgeving omtrent de daarop in die staat genomen beslissing worden ingetrokken. Een dergelijk verzoek wordt ingetrokken wanneer het gerechtshof ingevolge het vijfde lid van artikel 552t beveelt dat de vervolging in Nederland zal worden voortgezet.

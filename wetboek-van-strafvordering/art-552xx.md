@@ -1,4 +1,0 @@
-# Artikel 552xx
-1. Een voor erkenning en tenuitvoerlegging vatbaar Europees bewijsverkrijgingsbevel wordt door de officier van justitie erkend en ten uitvoer gelegd overeenkomstig het bepaalde in artikel 552aaa, tenzij de tenuitvoerlegging wordt geweigerd op grond van artikel 552yy.
-2. Indien het bevel onvolledig of kennelijk onjuist is of in het geval, bedoeld in artikel 552ww, tweede lid, tweede volzin, niet door een justitiële autoriteit is bekrachtigd, stelt de officier van justitie de autoriteiten van de uitvaardigende lidstaat in de gelegenheid binnen een door hem te stellen redelijke termijn het bevel alsnog aan te vullen, te verbeteren of door een justitiële autoriteit te laten bekrachtigen.
-3. Het bevel wordt, zo dit niet aan een officier van justitie is gezonden, door de geadresseerde onverwijld doorgezonden aan de officier van justitie. De geadresseerde stelt de autoriteiten van de uitvaardigende lidstaat schriftelijk in kennis van de doorzending.

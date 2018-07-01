@@ -7,4 +7,5 @@
 6. Het klaagschrift van de belanghebbenden, anderen dan de verdachte, gewezen verdachte of veroordeelde, kan langs elektronische weg worden overgedragen met behulp van een bij algemene maatregel van bestuur aangewezen elektronische voorziening.
 7. De behandeling van het klaagschrift of het verzoek door de raadkamer vindt plaats in het openbaar.
 8. Indien het klaagschrift is ingediend door een persoon met de bevoegdheid tot verschoning als bedoeld in artikel 218 beslist het gerecht binnen dertig dagen na ontvangst van het klaagschrift.
-9. Acht het gerecht het beklag of het verzoek gegrond, dan geeft het de daarmede overeenkomende last.
+9. Indien het beklag, bedoeld in het eerste lid, betrekking heeft op de uitvoering van een verzoek om rechtshulp van een vreemde staat, beslist het gerecht binnen dertig dagen na ontvangst van het klaagschrift.
+10. Acht het gerecht het beklag of het verzoek gegrond, dan geeft het de daarmede overeenkomende last.

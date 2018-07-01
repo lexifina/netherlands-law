@@ -159,17 +159,33 @@
 #### afdeling Tweede. Europees bewijsverkrijgingsbevel
 ##### § 1. Europees bewijsverkrijgingsbevel uitgevaardigd door een andere lidstaat van de Europese Unie
 ##### § 2. Europees bewijsverkrijgingsbevel uitgevaardigd door Nederland
-## Boek Vijfde. Internationale en Europese strafvorderlijke samenwerking
-### Titel 1
-### Titel 2
-### Titel 3. Wederzijdse erkenning en tenuitvoerlegging van bevelen betreffende de voorlopige hechtenis tussen de lidstaten van de Europese Unie
-#### afdeling Eerste. Algemene bepalingen
-#### afdeling Tweede. Erkenning en tenuitvoerlegging van buitenlandse toezichtbeslissingen in Nederland
-#### afdeling Derde. Erkenning en tenuitvoerlegging van Nederlandse bevelen tot schorsing van de voorlopige hechtenis in het buitenland
+## Boek Vijfde. Internationale en Europese strafrechtelijke samenwerking
+### Titel 1. Internationale rechtshulp in strafzaken
+#### afdeling Eerste. Verzoeken om internationale rechtshulp in strafzaken
+#### afdeling Tweede. Verzoeken tot rechtshulp gericht aan het buitenland
+#### afdeling Derde. Verzoeken tot rechtshulp gericht aan Nederland
+#### afdeling Vierde. Feiten begaan aan boord van luchtvaartuigen
+### Titel 2. Internationale gemeenschappelijke onderzoeksteams
+### Titel 3. Overdracht en overname van strafvervolging
+#### afdeling Eerste. Overdracht van strafvervolging
+##### § 1. Overdracht van strafvervolging door Onze Minister van Veiligheid en Justitie
+##### § 2. Overdracht van strafvervolging door de officier van justitie
+#### afdeling Tweede. Overname van strafvervolging
+##### § 1. Overname van strafvervolging door Onze Minister van Veiligheid en Justitie
+##### § 2. Overname van strafvervolging door de officier van justitie
+##### § 3. Overname van strafvervolging van een internationaal gerecht
 ### Titel 4. Europees onderzoeksbevel
 #### afdeling Eerste. Het Europees onderzoeksbevel
 #### afdeling Derde. Nadere regeling van de uitvoering van enkele onderzoeksbevoegdheden
 #### afdeling Vierde. Uitvaardiging van een Europees onderzoeksbevel
+### Titel 5. Europees bevriezingsbevel
+#### afdeling Eerste. Bevelen uitgevaardigd door een andere lidstaat van de Europese Unie
+#### afdeling Tweede. Bevelen uitgevaardigd door Nederland
+### Titel 6
+### Titel 7. Wederzijdse erkenning en tenuitvoerlegging van bevelen betreffende de voorlopige hechtenis tussen de lidstaten van de Europese Unie
+#### afdeling Eerste. Algemene bepalingen
+#### afdeling Tweede. Erkenning en tenuitvoerlegging van buitenlandse toezichtbeslissingen in Nederland
+#### afdeling Derde. Erkenning en tenuitvoerlegging van Nederlandse bevelen tot schorsing van de voorlopige hechtenis in het buitenland
 ### Titel 8. Europees beschermingsbevel
 #### afdeling Eerste. Algemene bepalingen
 #### afdeling Tweede. Europees beschermingsbevel uitgevaardigd door de bevoegde autoriteit van een andere lidstaat van de Europese Unie
