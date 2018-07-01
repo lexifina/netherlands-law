@@ -1,0 +1,3 @@
+# Artikel IV
+1. De verplichtingen bij of krachtens titel 9.7 van de Wet milieubeheer, zoals deze luidde onmiddellijk voor de inwerkingtreding van deze wet, blijven van toepassing voor het direct aan de datum van inwerkingtreding van deze wet voorafgaande kalenderjaar.
+2. Indien na toepassing van artikel 9.7.5.6 van de Wet milieubeheer, zoals dit luidde onmiddellijk voor inwerkingtreding van deze wet, een aantal hernieuwbare brandstofeenheden is gespaard, schrijft het bestuur van de emissieautoriteit deze hernieuwbare brandstofeenheden bij op de rekening van de leverancier tot eindverbruik als hernieuwbare brandstofeenheden conventioneel als bedoeld in artikel 9.7.4.6, eerste lid, onderdeel a.
