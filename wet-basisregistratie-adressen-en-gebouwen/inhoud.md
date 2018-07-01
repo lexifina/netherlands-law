@@ -1,10 +1,9 @@
 # Inhoud
 ## Hoofdstuk 1. Algemene bepalingen
-## Hoofdstuk 2. De registers
-## Hoofdstuk 3. De registraties
+## Hoofdstuk 2. Brondocumenten
+## Hoofdstuk 3. De basisregistratie
 ### § 1. Algemeen
-### § 2. De adressenregistratie
-### § 3. De gebouwenregistratie
+### § 2. De inhoud van de basisregistratie
 ## Hoofdstuk 4. De landelijke voorziening
 ### § 1. Algemeen
 ### § 2. Overleg
