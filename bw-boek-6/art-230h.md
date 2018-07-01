@@ -8,7 +8,7 @@ d. betreffende gezondheidszorg zoals omschreven in artikel 3 onderdeel a van Ric
 e. betreffende gokactiviteiten waarbij bij kansspelen een inzet met een waarde in geld wordt gedaan, met inbegrip van loterijen, casinospelen en weddenschappen;
 f. over het doen ontstaan, het verkrijgen of het overdragen van onroerende zaken of rechten op onroerende zaken;
 g. betreffende de constructie van nieuwe gebouwen, de ingrijpende verbouwing van bestaande gebouwen en de verhuur van woonruimte;
-h. betreffende reizen, als bedoeld in artikel 500 van Boek 7 van het Burgerlijk Wetboek;
+h. betreffende pakketreizen, als bedoeld in artikel 500 van Boek 7 van het Burgerlijk Wetboek, met uitzondering van de artikelen 230j, 230k en 230v lid 2, 3 en 6 van Boek 6 van het Burgerlijk Wetboek;
 i. betreffende gebruik in deeltijd, een vakantieproduct van lange duur, en betreffende bijstand bij verhandelen en uitwisseling, als bedoeld in artikel 50a van Boek 7 van het Burgerlijk Wetboek;
 j. waarbij de wet voor de totstandkoming van de overeenkomst de tussenkomst van een notaris voorschrijft;
 k. betreffende de levering van zaken die bestemd zijn voor dagelijkse huishoudelijke consumptie en die fysiek door een handelaar op basis van frequente en regelmatige rondes bij de woon- of verblijfplaats dan wel de arbeidsplaats van de consument worden afgeleverd;

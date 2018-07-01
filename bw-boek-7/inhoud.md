@@ -76,7 +76,14 @@
 #### Afdeling 3. Bemiddelingsovereenkomst
 #### Afdeling 4. Agentuurovereenkomst
 #### Afdeling 5. De overeenkomst inzake geneeskundige behandeling
-### Titel 7A. Reisovereenkomst
+### Titel 7A. Pakketreisovereenkomst en gekoppeld reisarrangement
+#### Afdeling 1. Definities en toepassingsgebied
+#### Afdeling 2. Informatieverplichtingen en inhoud van de pakketreisovereenkomst
+#### Afdeling 3. Wijziging van de pakketreisovereenkomst vóór het begin van de pakketreis
+#### Afdeling 4. Uitvoering van de pakketreis
+#### Afdeling 5. Bescherming bij insolventie
+#### Afdeling 6. Gekoppelde reisarrangementen
+#### Afdeling 7. Slotbepalingen
 ### Titel 7b. Betalingstransactie
 #### Afdeling 1. Algemene bepalingen
 #### Afdeling 2. Instemming met de betaalopdracht
