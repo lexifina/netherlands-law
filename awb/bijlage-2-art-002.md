@@ -123,7 +123,6 @@ d. artikel 185, tweede lid, tweede volzin, voor zover het betreft een besluit op
 Wet op het voortgezet onderwijs:
 a. titel III: de afdelingen I, met uitzondering van artikel 74, en III
 b. de artikelen 85a, 89 en 104
-Wet raadgevend referendum: de artikelen 6, 14, 21b, derde lid, 22 juncto D 6 respectievelijk D 8 van de Kieswet, 32, eerste lid, 44, eerste lid, 60 juncto K 8 van de Kieswet, 61 juncto L 11 van de Kieswet, 62 juncto M 4 van de Kieswet, 79, 80, 81 en 90, tweede lid
 Wet ruimtelijke ordening:
 a. een besluit omtrent vaststelling van een bestemmingsplan, een inpassingsplan of een rijksbestemmingsplan als bedoeld in artikel 10.3, eerste lid
 b. artikel 3.1, derde lid
