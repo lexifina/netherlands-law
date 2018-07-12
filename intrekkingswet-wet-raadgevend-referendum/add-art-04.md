@@ -1,0 +1,2 @@
+# Artikel IV
+De Wet raadgevend referendum, de Algemene wet bestuursrecht en de Tijdelijke experimentenwet stembiljetten en centrale stemopneming zoals die luidden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze wet, blijven van toepassing op wetten en stilzwijgende goedkeuringen van verdragen ten aanzien waarvan voorafgaand aan de dag waarop deze wet in werking is getreden de termijn voor het afleggen van ondersteuningsverklaringen ten behoeve van het definitieve verzoek tot het houden van een referendum, is verlopen.
