@@ -1,0 +1,3 @@
+# Artikel 13.
+De beheerder(s) draagt/dragen zorg voor het opstellen van procedures, waarmee de registratie van documenten en hun afdoeningstermijnen worden bewaakt.
+Ordening en toegankelijkheid van documenten

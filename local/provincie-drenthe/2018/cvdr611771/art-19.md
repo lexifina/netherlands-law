@@ -1,0 +1,4 @@
+# Artikel 19.
+1. Plannen betreffende bouw, verbouw, inrichting, verandering of ingebruikneming van archiefruimten behoeven de goedkeuring van Gedeputeerde Staten, de provinciearchivaris gehoord.
+2. Plannen voor ingebruikneming of wijziging van informatiesystemen zoals genoemd in artikel 1, onder h, van de archiefverordening (bijv. vak applicaties) worden door de beheerder(s) om advies voorgelegd aan de provinciearchivaris.
+Raadpleging en beveiliging van documenten

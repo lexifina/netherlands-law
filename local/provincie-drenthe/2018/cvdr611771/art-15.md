@@ -1,0 +1,4 @@
+# Artikel 15.
+1. De beheerder(s) draagt/dragen er zorg voor, dat uit ieder document, dan wel uit daarbij behorende informatie, blijkt wanneer het document is ontvangen of opgemaakt, wie de afzender of vervaardiger is, op welke taak het document betrekking heeft, wat de status en het ontwikkelingsstadium van het document zijn, en wanneer en aan wie een exemplaar ervan is verzonden.
+2. Het vorige lid is niet van toepassing op documenten, die niet benodigd zijn in het kader van uitvoering van taken en de verantwoording daarover, of die niet in verband met enig wettelijk voorschrift worden opgemaakt, ontvangen of bewaard, dan wel geen verband houden met de communicatie met de burger.
+3. De beheerder(s) ziet/zien toe op tijdige signalering van de noodzaak tot conversie of migratie van documenten en informatiebestanden bedoeld in het eerste lid en is verantwoordelijk voor de tijdige en daadwerkelijke uitvoering ervan.

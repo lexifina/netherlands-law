@@ -1,0 +1,3 @@
+# Artikel 23.
+Het is verboden documenten te verwijderen, tenzij dit gebeurt op grond van wettelijke voorschriften.
+Vervreemding, vervanging, selectie en vernietiging van documenten
