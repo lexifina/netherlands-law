@@ -3,8 +3,8 @@ SUBSIDIEPLAFONDS
 Voor de Subsidieverordening Natuur- en Landschapsbeheer provincie Drenthe 2016 (SVNL2016) worden voor het begrotingsjaar 2019 de volgende subsidieplafonds vastgesteld:
 Agrarisch natuur- en landschapsbeheer
 Voor subsidies als bedoeld in artikel 3.13, tweede lid onder a, b, c en d voor het leefgebied met de aanduiding:
-a. Open Akkerland: € 58.000,-- jaarlijks; totaal voor drie jaar € 174.000,--;
-b. Droge Dooradering: € 70.000,-- jaarlijks; totaal voor drie jaar € 210.000,--;
+a. Open Akkerland: € 558.000,-- jaarlijks; totaal voor drie jaar € 1.674.000,--;
+b. Droge Dooradering: € 220.000,-- jaarlijks; totaal voor drie jaar € 660.000,--;
 c. Natte Dooradering: € 10.000,-- jaarlijks; totaal voor drie jaar € 30.000,--;
 d. voor subsidies als bedoeld in artikel 3.13, tweede lid onder a en b, c en d voor het leefgebied met de aanduiding Water:
 • in deelgebied Hunze en Aas: € 40.000,-- jaarlijks; totaal voor drie jaar €120.000,--;
