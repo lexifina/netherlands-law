@@ -1,0 +1,3 @@
+# Artikel 10d
+1. In verband met de hulpverlening in Nederlands militair verband bij de leniging van de nood van slachtoffers van de tsunami in Azië en Afrika in de periode december 2004 tot en met december 2005 wordt de gesp «Tsunami 2004» ingesteld.
+2. In afwijking van artikel 2 wordt de herinneringsmedaille tevens toegekend aan de leden van het Rampen Identificatie Team van het Korps landelijke politiediensten die hier te lande daadwerkelijk aan de hulpverlening, bedoeld in het eerste lid, hebben deelgenomen en daarbij in alle opzichten een goede plichtsbetrachting en een goed gedrag hebben betoond.
