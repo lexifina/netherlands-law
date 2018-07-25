@@ -1,0 +1,3 @@
+# Artikel 13c
+1. De Financiële inlichtingen eenheid werkt bij de toepassing van geavanceerde technologieën samen met de financiële inlichtingen eenheden van andere lidstaten. Deze technologieën stellen de Financiële inlichtingen eenheid in staat om, onder de voorwaarden gesteld in de artikelen 13a en 13b, anoniem verbanden te leggen tussen de eigen gegevens en de gegevens van andere financiële inlichtingen eenheden, zodat personen die in verband worden gebracht met witwassen en het financieren van terrorisme kunnen worden opgespoord en hun opbrengsten en geldmiddelen kunnen worden geïdentificeerd.
+2. De Financiële inlichtingen eenheid maakt voor de contacten met de financiële inlichtingen eenheden van de andere lidstaten gebruik van beschermde kanalen.

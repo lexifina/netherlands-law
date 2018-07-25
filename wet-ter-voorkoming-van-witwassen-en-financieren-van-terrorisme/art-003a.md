@@ -1,0 +1,6 @@
+# Artikel 3a
+1. In aanvulling op artikel 3, tweede tot en met vierde lid, stelt het cliëntenonderzoek een bank of andere financiële onderneming in staat om onverwijld nadat een begunstigde van een levensverzekering is geïdentificeerd of aangewezen:
+a. de naam van de persoon vast te leggen, indien de begunstigde als met name genoemde natuurlijke persoon of rechtspersoon of juridische constructie is geïdentificeerd;
+b. voldoende informatie in te winnen betreffende de begunstigde om ervan overtuigd te zijn dat op het tijdstip van uitbetaling de identiteit van de begunstigde kan worden vastgesteld, indien de begunstigde door middel van kenmerken of naar categorie of anderszins is aangewezen.
+2. Verificatie van de identiteit van de begunstigde, bedoeld in het eerste lid, vindt plaats op het tijdstip van uitbetaling van de levensverzekering.
+3. Indien een levensverzekering aan een derde wordt overgedragen, identificeert een bank of andere financiële onderneming die op de hoogte is van de overdracht de uiteindelijk belanghebbende op het tijdstip van de overdracht aan de natuurlijke persoon, rechtspersoon of juridische constructie die de waarde van de overgedragen polis te eigen voordele ontvangt.

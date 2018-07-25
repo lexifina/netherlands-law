@@ -1,0 +1,9 @@
+# Artikel 32g
+1. Openbaarmaking op grond van artikel 32f wordt uitgesteld of geschiedt in zodanige vorm dat de openbaar te maken gegevens niet herleidbaar zijn tot afzonderlijke personen voor zover:
+a. die gegevens herleidbaar zijn tot een natuurlijke persoon en bekendmaking van zijn persoonsgegevens onevenredig zou zijn;
+b. betrokken partijen in onevenredige mate schade zou worden berokkend;
+c. een lopend strafrechtelijk onderzoek of een lopend onderzoek door de personen, bedoeld in artikel 24, naar mogelijke overtredingen zou worden ondermijnd; of
+d. de stabiliteit van het financiële stelsel in gevaar zou worden gebracht.
+2. Openbaarmaking op grond van artikel 32f blijft achterwege, indien openbaarmaking overeenkomstig het eerste lid:
+a. onevenredig zou zijn gezien de geringe ernst van de overtreding, tenzij het een besluit tot het opleggen van een bestuurlijke boete betreft; of
+b. de stabiliteit van het financiële stelsel in gevaar zou brengen.

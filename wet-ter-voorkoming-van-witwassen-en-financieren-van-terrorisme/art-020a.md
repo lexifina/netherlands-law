@@ -1,0 +1,2 @@
+# Artikel 20a
+Een instellingen beschikt over adequate voorzieningen, die passend zijn bij de aard en omvang van de instelling en die het hun werknemers of personen in een vergelijkbare positie mogelijk maken om een overtreding van de bij of krachtens deze wet gestelde regels intern en op anonieme wijze te melden via een specifiek, onafhankelijk kanaal, dat passend is ten opzichte van de aard en omvang van de instelling.

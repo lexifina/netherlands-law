@@ -1,0 +1,4 @@
+# Artikel 14a
+1. In het kader van haar taak op grond van artikel 13, onderdeel g, kan de Financiële inlichtingen eenheid op verzoek informatie verstrekken aan de in dat onderdeel bedoelde personen, indien het verzoek betrekking heeft op aangelegenheden die verband houden met witwassen, daarmee verband houdende basisdelicten, of financieren van terrorisme.
+2. De Financiële inlichtingen eenheid kan een verzoek om informatie als bedoeld in het eerste lid weigeren indien zwaarwegende belangen zich tegen het verstrekken van informatie verzetten.
+3. De toezichthoudende autoriteit en de personen, bedoeld in artikel 13, onderdeel g, informeren de Financiële inlichtingen eenheid over de wijze waarop gebruik is gemaakt van de overeenkomstig dit artikel verstrekte informatie en over het resultaat van de op grond van deze informatie uitgevoerde onderzoeken of inspecties.

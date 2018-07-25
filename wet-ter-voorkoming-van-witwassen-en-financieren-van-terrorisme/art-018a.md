@@ -1,0 +1,2 @@
+# Artikel 18a
+Ten behoeve van de naleving van de in de artikelen 16 en 17 opgenomen verplichtingen, zijn de instellingen, bedoeld in artikel 1a, vierde lid, onderdeel c, niet gehouden aan de geheimhoudingsplicht, bedoeld in artikel 11a van de Advocatenwet en zijn de instellingen, bedoeld in artikel 1a, vierde lid, onderdeel d, niet gehouden aan de geheimhoudingsplicht in artikel 22 van de Wet op het notarisambt.

@@ -1,0 +1,4 @@
+# Artikel 2e
+1. Een instelling als bedoeld in artikel 1a, derde lid, onderdeel b of e, met hoofdkantoor in een andere lidstaat en met vestigingen niet zijnde bijkantoren in Nederland, wijst in Nederland op verzoek van de toezichthoudende autoriteit een centraal contactpunt aan met het oog op de naleving van de bij of krachtens deze wet gestelde regels.
+2. Het centraal contactpunt bewerkstelligt namens de instelling en met inachtneming van het bepaalde op grond van artikel 45, elfde lid, van de vierde anti-witwasrichtlijn, de naleving van de bij of krachtens deze wet gestelde regels en draagt zorg voor het aanleveren van de door de toezichthoudende autoriteit op grond van deze wet verzochte informatie.
+3. De toezichthoudende autoriteit kan een instelling verzoeken een centraal contactpunt als bedoeld in het eerste lid aan te wijzen in de op grond van artikel 45, elfde lid, van de vierde anti-witwasrichtlijn aangewezen gevallen.

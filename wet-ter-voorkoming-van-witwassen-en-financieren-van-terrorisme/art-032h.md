@@ -1,0 +1,3 @@
+# Artikel 32h
+1. Alvorens over te gaan tot openbaarmaking van gegevens die tot afzonderlijke personen herleidbaar zijn op grond van deze paragraaf, neemt de toezichthoudende autoriteit een besluit tot openbaarmaking. Dit besluit bevat de openbaar te maken gegevens en de wijze en termijn waarop de openbaarmaking zal plaatsvinden.
+2. Onverminderd artikel 4:11 van de Algemene wet bestuursrecht kan de toezichthoudende autoriteit bij het nemen van een besluit op grond van artikel 32e de toepassing van artikel 4:8 van de Algemene wet bestuursrecht achterwege laten, indien van de betrokken persoon geen adres bekend is en het adres ook niet met een redelijke inspanning kan worden verkregen.

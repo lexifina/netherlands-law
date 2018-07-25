@@ -1,5 +1,8 @@
 # Inhoud
 ## Hoofdstuk 1. Inleidende bepalingen
+### § 1.1. Begrips- en reikwijdtebepalingen
+### § 1.2. Risicomanagement
+### § 1.3. Groepen
 ## Hoofdstuk 2. Bepalingen betreffende cliëntenonderzoek
 ### § 2.1. Cliëntenonderzoek
 ### § 2.2. Vereenvoudigd cliëntenonderzoek
@@ -12,9 +15,12 @@
 ### § 3.3. Vrijwaring
 ### § 3.4. De Commissie inzake de meldingsplicht ongebruikelijke transacties
 ### § 3.5. Geheimhouding
-## Hoofdstuk 4. Bepalingen betreffende toezicht en handhaving
+## Hoofdstuk 4. Toezicht en handhaving
+### § 4.1. Toezicht op de naleving en samenwerking
+### § 4.2. Handhavingsbevoegdheden
+### § 4.3. Publicatiebevoegdheden toezichthoudende autoriteit
 ## Hoofdstuk 5. Bepalingen met betrekking tot het bewaren van bewijsstukken en training
-### § 5.1. Gegevens met betrekking tot cliëntenonderzoek
-### § 5.2. Gegevens met betrekking tot een ongebruikelijke transactie
-### § 5.3. Opleiding
+### § 5.1. Het bewaren van bewijsstukken
+### § 5.2. Gegevensbescherming
+### § 5.3. Opleiding en kwalificaties
 ## Hoofdstuk 6. Overgangs- en slotbepalingen

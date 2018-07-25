@@ -1,0 +1,2 @@
+# Artikel 20b
+Een instelling mag een persoon die voor haar werkzaam is en die te goeder trouw en naar behoren namens de instelling aan de Financiële inlichtingen eenheid een melding doet als bedoeld in artikel 16, eerste lid, aan de Financiële inlichtingen eenheid gegevens of inlichtingen verstrekt als bedoeld in artikel 17, eerste lid, of intern binnen de instelling een overtreding van het in deze wet bepaalde meldt als bedoeld in artikel 20a, niet benadelen.

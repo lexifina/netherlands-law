@@ -1,0 +1,5 @@
+# Artikel 2d
+1. Indien het dagelijks beleid van een instelling wordt bepaald door twee of meer personen, wijst een instelling één van de personen die het dagelijks beleid van de instelling bepalen aan die is belast met de verantwoordelijkheid voor de naleving door de instelling van het bij of krachtens deze wet bepaalde.
+2. Voor zover passend bij de aard en omvang van de instelling, beschikt een instelling over een onafhankelijke en effectieve compliancefunctie.
+3. De compliancefunctie is gericht op het controleren van de naleving van wettelijke regels en interne regels die de instelling zelf heeft opgesteld en omvat onder meer de taak die strekt tot het verstrekken van de gegevens, bedoeld in artikel 16, aan de Financiële inlichtingen eenheid.
+4. Indien van toepassing en voor zover passend bij de aard en de omvang van de instelling, draagt een instelling er zorg voor dat op onafhankelijke wijze een auditfunctie wordt uitgeoefend ten aanzien van haar werkzaamheden. De auditfunctie controleert de naleving door een instelling van de bij of krachtens deze wet gestelde regels en de uitoefening van de compliancefunctie.

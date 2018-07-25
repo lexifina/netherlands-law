@@ -1,0 +1,7 @@
+# Artikel 1c
+1. Onze Minister van Financiën kan, in bij algemene maatregel van bestuur te bepalen gevallen, ontheffing verlenen van de bij of krachtens deze wet gestelde regels aan instellingen die incidenteel of in zeer beperkte mate financiële werkzaamheden verrichten, indien er een bewezen laag risico op witwassen of financieren van terrorisme bestaat. Aan een ontheffing kunnen voorschriften of beperkingen worden verbonden.
+2. Onze Minister van Financiën kan een op grond van het eerste lid verleende ontheffing wijzigen, geheel of gedeeltelijk intrekken of beperken, dan wel daaraan nadere voorschriften verbinden, indien:
+a. is gebleken dat bij de aanvraag van de ontheffing onjuiste of onvolledige gegevens zijn verstrekt en kennis omtrent de juiste en volledige gegevens tot een andere beslissing zou hebben geleid;
+b. de houder van een ontheffing omstandigheden of feiten heeft verzwegen op grond waarvan, zo zij voor het tijdstip waarop de ontheffing werd verleend zich hadden voorgedaan of bekend waren geweest, de ontheffing zou zijn geweigerd;
+c. de houder van een ontheffing niet langer voldoet aan de bij of krachtens deze wet gestelde regels, dan wel niet meer voldoet aan de aan de ontheffing verbonden voorschriften of de gestelde beperkingen niet naleeft.
+3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het verlenen, wijzigen, intrekken of beperken van een ontheffing.
