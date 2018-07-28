@@ -8,8 +8,7 @@ c. gegevens betreffende de school waaraan hij is benoemd of tewerkgesteld zonder
 a. wordt de wijze waarop de gegevens van een leraar worden verstrekt vastgesteld;
 b. [dit onderdeel is nog niet in werking getreden;]
 c. kunnen de gegevens, bedoeld in het eerste lid en tweede lid, nader worden gespecificeerd.
-4. Uit het registervoorportaal kunnen aan de leraar het burgerservicenummer en de andere gegevens worden verstrekt.
-5. De leraar heeft toegang tot de gegevens die worden bewaard op grond van artikel 38s, derde lid.
-6. Uit het registervoorportaal worden aan Onze Minister gegevens verstrekt ten behoeve van de beleidsvorming.
-7. Uit het registervoorportaal worden aan de inspectie gegevens verstrekt voor zover de verwerking van die gegevens noodzakelijk is voor de goede vervulling van haar publieke taak.
-8. De gegevens, bedoeld in het zesde en zevende lid, worden op een zodanige wijze verstrekt, dat degenen op wie zij betrekking hebben niet geïdentificeerd of identificeerbaar zijn.
+4. De leraar heeft toegang tot de gegevens die worden bewaard op grond van artikel 38s, derde lid.
+5. Uit het registervoorportaal worden aan Onze Minister gegevens verstrekt ten behoeve van de beleidsvorming.
+6. Uit het registervoorportaal worden aan de inspectie gegevens verstrekt voor zover de verwerking van die gegevens noodzakelijk is voor de goede vervulling van haar publieke taak.
+7. Bij de verstrekking, bedoeld in het vijfde en zesde lid, kunnen persoonsgegevens worden verwerkt, indien dat noodzakelijk is voor de in het vijfde of zesde lid genoemde doelen, onverminderd de verplichting voor de verwerkingsverantwoordelijke om passende technische en organisatorische maatregelen te treffen als bedoeld in artikel 25 van de Algemene verordening gegevensbescherming.
