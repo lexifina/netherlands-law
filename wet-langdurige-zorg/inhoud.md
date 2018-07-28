@@ -25,7 +25,7 @@
 ### § 2. Planning, financiering en verslaglegging
 ## Hoofdstuk 8. Zeggenschap van de verzekerde over zijn leven
 ## Hoofdstuk 9. Informatiebepalingen
-### § 1. Verwerking van gegevens, waaronder bijzondere persoonsgegevens
+### § 1. Verwerking van gegevens, waaronder bijzondere categorieën van persoonsgegevens
 ### § 2. Beleidsinformatie
 ## Hoofdstuk 10. Overige bepalingen
 ### § 1. Innovatie, zorg voor bedreigde personen en ADL-assistentie
