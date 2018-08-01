@@ -7,4 +7,4 @@ c. als gevolg van de concentratie de continuïteit van bij algemene maatregel va
 d. het rapport als bedoeld in artikel 49b, eerste lid, onvoldoende inzicht biedt in de verwachte effecten van de beoogde concentratie aan de hand van de eisen, bedoeld in artikel 49b, tweede en derde lid.
 3. De zorgautoriteit kan aan de goedkeuring voorwaarden, voorschriften of beperkingen verbinden.
 4. In geval de zorgautoriteit haar goedkeuring verleent aan de concentratie, maakt zij het rapport als bedoeld in artikel 49b openbaar. Gegevens die ingevolge artikel 10 van de Wet openbaarheid van bestuur niet voor verstrekking in aanmerking komen, worden niet openbaar gemaakt.
-5. De zorgautoriteit geeft de mededingingsautoriteit inzicht in de gevolgen die de concentratie zal hebben voor de betaalbaarheid, toegankelijkheid en, volgens de bevindingen van de ambtenaren van het staatstoezicht, voor de kwaliteit van zorg.
+5. De zorgautoriteit geeft de mededingingsautoriteit inzicht in de gevolgen die de concentratie zal hebben voor de betaalbaarheid, toegankelijkheid en, volgens de bevindingen van de ambtenaren van de Inspectie gezondheidszorg en jeugd, voor de kwaliteit van zorg.

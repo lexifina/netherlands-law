@@ -1,3 +1,3 @@
 # Artikel 81b
 1. Het College kan zijn geneesmiddelenbewakingstaken op grond van dit hoofdstuk aan maximaal één bevoegde autoriteit van een andere lidstaat delegeren of de geneesmiddelenbewakingstaken van maximaal één bevoegde autoriteit van een andere lidstaat overnemen, mits die bevoegde autoriteit hier schriftelijk mee instemt.
-2. Indien delegatie als bedoeld in het eerste lid plaatsvindt, stelt het College het Staatstoezicht op de volksgezondheid, de Commissie, het Bureau en alle andere lidstaten hiervan schriftelijk in kennis. Het College maakt deze informatie tevens voor het publiek toegankelijk.
+2. Indien delegatie als bedoeld in het eerste lid plaatsvindt, stelt het College de Inspectie gezondheidszorg en jeugd, de Commissie, het Bureau en alle andere lidstaten hiervan schriftelijk in kennis. Het College maakt deze informatie tevens voor het publiek toegankelijk.
