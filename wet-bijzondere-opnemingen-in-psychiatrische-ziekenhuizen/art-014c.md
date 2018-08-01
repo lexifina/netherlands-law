@@ -1,0 +1,8 @@
+# Artikel 14c
+1. Een voorwaardelijke machtiging heeft een geldigheidsduur van ten hoogste zes maanden na haar dagtekening, onverminderd de artikelen 14f en 14g.
+2. De rechter kan op verzoek van de officier van justitie telkens een nieuwe voorwaardelijke machtiging verlenen met een geldigheidsduur van ten hoogste een jaar, onverminderd de artikelen 14f en 14g.
+3. Een nieuwe voorwaardelijke machtiging wordt slechts verleend indien naar het oordeel van de rechter de stoornis van de geestvermogens van de betrokkene ook na het verloop van de geldigheidsduur van de lopende machtiging aanwezig zal zijn en deze stoornis de betrokkene ook dan gevaar zal doen veroorzaken en het afwenden van het gevaar een nieuwe voorwaardelijke machtiging vereist.
+4. De personen, bedoeld in artikel 4, eerste lid, alsmede de behandelaar kunnen de officier van justitie in het arrondissement waarin de rechtbank is gelegen die de voorwaardelijke machtiging heeft afgegeven, schriftelijk verzoeken een verzoek te doen tot het verlenen van een nieuwe voorwaardelijke machtiging.
+5. Bij het verzoek moet worden overgelegd een verklaring van een psychiater die betrokkene met het oog daarop kort tevoren heeft onderzocht, maar niet bij diens behandeling betrokken was, waaruit blijkt dat het geval, bedoeld in het derde lid, zich voordoet. Tevens wordt door de behandelaar een beschrijving overgelegd van de geestelijke en lichamelijke toestand van de betrokkene, van de op hem toegepaste behandeling en de effecten daarvan.
+6. Het verzoekschrift tot verlening van een nieuwe voorwaardelijke machtiging wordt ingediend tijdens de zesde of de vijfde week voor het einde van de geldigheidsduur van de lopende machtiging.
+7. De artikelen 14a en 14b zijn van overeenkomstige toepassing.

@@ -1,0 +1,5 @@
+# Artikel 14e
+1. Met betrekking tot de beslissing van de geneesheer-directeur tot opneming staat voor de betrokkene en voor ieder van de in artikel 4, eerste lid, bedoelde personen de mogelijkheid open de officier van justitie te verzoeken de beslissing van de rechter te verzoeken. Het verzoek van een van deze personen wordt schriftelijk gedaan; bij het verzoek wordt gevoegd een afschrift van de beslissing van de geneesheer-directeur. Artikel 49, zesde lid, is van overeenkomstige toepassing.
+2. De inspecteur geeft desgevraagd of eigener beweging aan de officier van justitie schriftelijk zijn oordeel over de beslissing van de geneesheer-directeur.
+3. De officier van justitie verzoekt na ontvangst van het verzoek met de bijbehorende stukken zo spoedig mogelijk de beslissing van de rechter. Aan de verzoeker wordt schriftelijk medegedeeld dat het verzoekschrift is ingediend.
+4. Artikel 49, zevende en negende lid, is van overeenkomstige toepassing, met uitzondering van het voorschrift dat het verzoek wordt behandeld door de meervoudige kamer van de rechtbank.
