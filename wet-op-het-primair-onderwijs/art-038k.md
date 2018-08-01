@@ -1,0 +1,5 @@
+# Artikel 38k. Correctie op verzoek
+1. Indien een of meer van de basisgegevens van een leraar in het lerarenregister afwijken van de betreffende basisgegevens behorende bij de benoeming of tewerkstelling zonder benoeming van deze leraar, kan de betrokkene Onze Minister elektronisch verzoeken deze gegevens te verbeteren. Onze Minister verzoekt het bevoegd gezag om hem overeenkomstig artikel 38h, eerste lid, de juiste gegevens te verstrekken.
+2. Indien het bevoegd gezag na het verzoek van Onze Minister constateert dat de basisgegevens van de leraar in het lerarenregister overeenkomen met de betreffende basisgegevens behorende bij de benoeming of tewerkstelling zonder benoeming van deze leraar, deelt hij dit elektronisch mee aan Onze Minister en deelt Onze Minister dit elektronisch mee aan de betrokkene.
+3. Het eerste en tweede lid zijn niet van toepassing op de gegevens die op grond van artikel 38i zijn overgenomen uit de basisregistratie personen.
+4. Een beslissing op een verzoek als bedoeld in het eerste lid, eerste volzin, geldt als een besluit in de zin van de Algemene wet bestuursrecht.
