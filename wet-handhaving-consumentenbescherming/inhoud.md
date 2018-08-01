@@ -6,7 +6,7 @@
 ### § 3. Openbaarmaking
 ## Hoofdstuk 3. Andere bevoegde autoriteiten
 ### § 1. Stichting Autoriteit Financiële Markten
-### § 2. Het Staatstoezicht op de volksgezondheid
+### § 2. De Inspectie gezondheidszorg en jeugd
 ### § 3. Het Commissariaat voor de Media
 ### § 4. Inspectie Leefomgeving en Transport
 ### § 5. Nederlandse Voedsel- en Warenautoriteit
