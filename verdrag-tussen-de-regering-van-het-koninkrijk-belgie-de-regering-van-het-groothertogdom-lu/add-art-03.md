@@ -1,0 +1,3 @@
+# Artikel III. Reikwijdte
+1. Dit Verdrag is van toepassing op alle militaire middelen van de partijen die betrokken zijn bij luchtverdedigingsmissies, nodig voor de toepassing van de maatregelen inzake luchtvaartbeveiliging zoals omschreven in artikel I, derde en vierde lid, en binnen het kader van operaties gericht op het bestrijden van niet-militaire luchtdreigingen in het gemeenschappelijke interessegebied omschreven in artikel I, eerste lid.
+2. In het kader van dit Verdrag zullen militaire luchtvaartuigen van de Franse partij niet het luchtruim van het Koninkrijk der Nederlanden binnengaan.
