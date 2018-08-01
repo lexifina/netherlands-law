@@ -65,6 +65,7 @@
 ### Titel 3. Bestrijding voortijdig schoolverlaten niet-leerplichtigen
 ### Titel 4. Samenwerking in verband met leer-werktrajecten vmbo en entreeopleiding in het vmbo
 ### Titel 5. Samenwerking in verband met leer-werktrajecten VSO en de entreeopleiding in het VSO
+### Titel 6. Samenwerking tussen uit 's Rijks kas bekostigde instellingen
 ## Hoofdstuk 8a. Medezeggenschap van deelnemers en ouders; landelijke geschillencommissie medezeggenschap
 ### Titel 1. Algemene bepalingen
 ### Titel 2. Bevoegdheden van de deelnemersraad
