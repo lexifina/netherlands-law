@@ -1,0 +1,3 @@
+# Artikel 10b
+1. De krachtens artikel 10 aangewezen instellingen verstrekken desgevraagd kosteloos aan Onze Minister de voor de uitoefening van zijn taak benodigde inlichtingen. Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
+2. De krachtens artikel 10 aangewezen instellingen zenden Onze Minister jaarlijks een verslag betreffende de door de instelling krachtens de aanwijzing verrichte werkzaamheden en de rechtmatigheid en doeltreffendheid van die werkzaamheden en werkwijze in het afgelopen jaar. Onze Minister kan met betrekking tot dit verslag nadere regels stellen.
