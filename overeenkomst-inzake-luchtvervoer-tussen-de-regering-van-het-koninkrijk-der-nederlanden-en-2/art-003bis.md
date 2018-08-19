@@ -1,0 +1,16 @@
+# Article 3bis
+1. Each Contracting Party shall have the right to withhold, revoke, suspend or limit the operating authorizations of an airline designated by the other Contracting Party where:
+a) in the case of the airline(s) designated by the Kingdom of the Netherlands:
+(i) it is not established in the territory of the Kingdom of the Netherlands under the Treaty on European Union and the Treaty on the Functioning of the European Union or does not have a valid operating license issued by a European Union Member State in accordance with European Union law, or
+(ii) effective regulatory control of the airline is not exercised or not maintained by the European Union Member State responsible for issuing its air operator's certificate or the relevant aeronautical authority is not clearly identified in the designation, or
+(iii) the airline does not have its principal place of business in the territory of the European Union Member State from which it has received its valid operating license, or
+(iv) the airline is not owned, directly or through majority ownership, or is not effectively controlled by Member States of the European Union and/or the European Free Trade Association and/or by nationals of such States, or
+(v) the airline is already authorized to operate under a bilateral agreement between the Republic of Korea and another European Union Member State and the Republic of Korea can demonstrate that, by exercising traffic rights under this Agreement on a route that includes a point in that other European Union Member State, it would be circumventing restrictions on traffic rights imposed by that other agreement, or
+(vi) the airline holds an air operator's certificate issued by a European Union Member State and there is no bilateral air services agreement between the Republic of Korea and that European Union Member State, and that European Union Member State has denied traffic rights to the airline designated by the Republic of Korea; and
+b) in the case of the airline(s) designated by the Republic of Korea:
+(i) it is not established in the territory of the Republic of Korea or has no valid operating license in accordance with the applicable laws and regulations of the Republic of Korea, or
+(ii) effective regulatory control of the airline is not exercised or not maintained by the Republic of Korea or the relevant aeronautical authority is not clearly identified in the designation, or
+(iii) the airline is not owned, directly or through majority ownership, or is not effectively controlled by the Republic of Korea and/or by nationals of the Republic of Korea; or
+c) the Contracting Party is not maintaining or not administering the standards set forth in Article 11bis on aviation safety and Article 11ter on aviation security of this Agreement; or
+d) the airline failed to comply with the laws and regulations normally and reasonably applied to the operations of international air services by the Contracting Party granting the rights.
+2. Unless immediate action is essential to prevent further non-compliance with paragraph 1 of this Article, the rights established by this Article shall be exercised only after consultation with the other Contracting Party. Unless otherwise agreed by the Contracting Parties, such consultation shall begin within a period of thirty (30) days from the date of receipt of the request.
