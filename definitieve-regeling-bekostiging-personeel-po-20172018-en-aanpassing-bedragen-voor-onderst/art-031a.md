@@ -1,0 +1,21 @@
+# Artikel 31a. Onderwijs aan asielzoekers gedurende het tweede jaar in Nederland
+1. Voor de toepassing van dit artikel wordt verstaan onder:
+a. asielzoeker: vreemdeling als bedoeld in de Vreemdelingenwet 2000, die ingeschreven staat op een basisschool, die door de Minister van Justitie en Veiligheid in het bezit is gesteld van een document of schriftelijke verklaring als bedoeld in artikel 9 van de Vreemdelingenwet 2000 en deze heeft verkregen op grond van artikel 8, onderdelen c, d, f, g, h of j van die wet, onderscheidenlijk van wie ten minste één van de ouders of voogden door de Minister van Justitie en Veiligheid in het bezit is gesteld van een document of schriftelijke verklaring als bedoeld in artikel 9 van de Vreemdelingenwet 2000 en deze heeft verkregen op grond van artikel 8, onderdelen c, d, f, g, h of j van die wet en die aantoonbaar één jaar of langer en korter dan twee jaar woonachtig is in Nederland;
+b. BRP: basisregistratie personen.
+2. Het bevoegd gezag van een basisschool waar onderwijs wordt verzorgd voor asielzoekers waaraan niet het gewicht 1,2 is toegekend, ontvangt op aanvraag bijzondere bekostiging voor personeel en aanvullende bekostiging voor materiële instandhouding.
+3. De bijzondere en de aanvullende bekostiging heeft betrekking op een periode van drie maanden, met als peildata:
+a. de eerste schooldag, voor de periode augustus tot en met oktober;
+b. 1 november, voor de periode november tot en met januari;
+c. 1 februari, voor de periode februari tot en met april;
+d. 1 mei, voor de periode mei tot en met juli.
+Het bevoegd gezag dient ter verkrijging van de bijzondere en de aanvullende bekostiging een aanvraag in die indien de peildatum de eerste schooldag betreft door DUO moet zijn ontvangen voor 30 september 2017 en indien de peildatum niet de eerste schooldag betreft binnen vier weken na de peildatum. De aanvraag wordt in ieder geval afgewezen indien het een aanvraag betreft welke is ontvangen na deze termijn.
+4. De aanvraag voor de bijzondere en de aanvullende bekostiging wordt ingediend bij DUO door middel van het formulier, nummer DUO 60102, te downloaden via www.duo.nl of het elektronisch formulier dat beschikbaar is na inloggen op het zakelijk portaal, onder instellingsinformatie, en gaat vergezeld van de volgende gegevens:
+a. naam, BRIN-nummer, postcode en plaats van de basisschool;
+b. het aantal ingeschreven asielzoekers volgens dit artikel op de peildatum uitgesplitst naar asielzoekers zonder een toegekend gewicht dan wel met het toegekende gewicht 0,3;
+5. Het bevoegd gezag verklaart door indiening van de aanvraag dat in de leerlingenadministratie voor ieder van de in de aanvraag opgenomen asielzoekers kopieën aanwezig zijn van de in het eerste lid genoemde documenten, schriftelijke verklaringen, paspoorten of identiteitsbewijzen die als voorwaarde gelden voor de toekenning van bijzondere en de aanvullende bekostiging op basis van dit artikel. Van alle asielzoekers die meetellen voor de in de aanvraag opgegeven aantallen leerlingen dienen de gegevens uit de BRP, zoals geregistreerd in het basisregister onderwijs, als uitgangspunt. In het geval de registratie in de BRP ontbreekt of afwijkt van de door het bevoegd gezag van de basisschool aan de Minister van Onderwijs, Cultuur en Wetenschap aangeleverde gegevens, verklaart het bevoegd gezag door de indiening van de aanvraag tevens dat een kopie van één of meer documenten uit onderstaande limitatieve lijst, waarmee de opgegeven datum van binnenkomst in Nederland kan worden aangetoond, in de administratie van de basisschool aanwezig is:
+– een datumstempel in het paspoort bij binnenkomst in Nederland,
+– een beschikking van de Minister van Justitie en Veiligheid op grond van artikel 9 van de Vreemdelingenwet 2000,
+– een rapportage van de Immigratie- en Naturalisatiedienst,
+– een registratieformulier van het Centraal Orgaan Opvang Asielzoekers.
+6. Het bevoegd gezag ontvangt de beschikking uiterlijk vier maanden na ontvangst van de aanvraag.
+7. De in het tweede lid bedoelde bekostiging bedraagt per asielzoeker zonder een toegekend gewicht € 3.229 vermenigvuldigd met 3/12 en per asielzoeker met een toegekend gewicht van 0,3 bedraagt de bekostiging € 2.583 vermenigvuldigd met 3/12.
