@@ -1,5 +1,0 @@
-# Artikel 17a. Aanvullende bepaling jaarrekening CAK
-1. In de jaarrekening van het CAK wordt onderscheid gemaakt tussen tegemoetkomingen op grond van het eerste en het tweede lid van artikel 2, van het Besluit tegemoetkoming chronisch zieken en gehandicapten alsmede tussen de in deze leden genoemde bedragen.
-2. Het CAK baseert in de jaarrekening, bedoeld in artikel 51, vierde lid, van Algemene Wet Bijzondere Ziektekosten, de rechtmatigheid van de verstrekkingen van tegemoetkomingen als bedoeld in artikel 2, eerste lid, van de Wet tegemoetkoming chronisch zieken en gehandicapten op de in het derde lid genoemde beoordeling.
-3. De Minister van Volksgezondheid, Welzijn en Sport beoordeelt de rechtmatigheid, bedoeld in het tweede lid, op basis van de resultaten van een door hem uitgevoerde statistische steekproef.
-4. Bij het onderzoek dat aan de verklaring omtrent de getrouwheid en het verslag van bevindingen ten grondslag ligt, wordt de in het derde lid bedoelde beoordeling als gegeven beschouwd.

@@ -1,2 +1,0 @@
-# Artikel 17b. Aanvullende bepaling jaarrekening CIZ
-In de jaarrekening van het CIZ wordt onderscheid gemaakt tussen de kosten verbonden aan het nemen van indicatiebesluiten als bedoeld in artikel 3.2.3 van de Wet langdurige zorg, de kosten verbonden aan het nemen van indicatiebesluiten als bedoeld in artikel 5.2.1 en het nemen van besluiten als bedoeld in artikel 5.2.2 van het Besluit langdurige zorg, en de kosten verbonden aan de uitvoering van het Besluit uitvoering kinderbijslag.
