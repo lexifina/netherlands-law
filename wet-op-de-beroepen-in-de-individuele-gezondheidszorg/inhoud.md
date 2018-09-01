@@ -13,6 +13,7 @@
 #### § 6. Fysiotherapeuten
 #### § 7. Verloskundigen
 #### § 8. Verpleegkundigen
+#### § 9. Physician assistants
 ### Afdeling 2. Beroepen waarop het stelsel van opleidingstitelbescherming van toepassing is
 ## Hoofdstuk IV. Voorbehouden handelingen
 ## Hoofdstuk V. Kwaliteit van de beroepsuitoefening

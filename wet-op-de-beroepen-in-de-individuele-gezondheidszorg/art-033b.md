@@ -1,0 +1,2 @@
+# Artikel 33b
+Tot het gebied van deskundigheid van de physician assistant wordt gerekend het verrichten van bij algemene maatregel van bestuur te omschrijven handelingen op het deelgebied van de geneeskunst waarbinnen de physician assistant is opgeleid, een en ander met inachtneming van de beperkingen, bij de maatregel te stellen. Deze handelingen omvatten het onderzoeken, behandelen en begeleiden van patiënten met veel voorkomende aandoeningen binnen dat deelgebied van de geneeskunst.
