@@ -1,0 +1,2 @@
+# 3.1d.4a
+Een vergunninghouder meldt, voor het geval hem, op grond van artikel 2, zesde lid, van het Besluit leveringszekerheid Elektriciteitswet 1998, de levering aan kleinverbruikers wordt toegewezen, aan de netbeheerder van het landelijk hoogspanningsnet welke programmaverantwoordelijke met volledige erkenning voor de desbetreffende kleinverbruikers programmaverantwoordelijk met volledige erkenning dient te worden. De verwerkingstermijn van een dergelijk verzoek bedraagt maximaal twee weken.

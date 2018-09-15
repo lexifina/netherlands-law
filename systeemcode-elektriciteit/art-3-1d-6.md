@@ -1,0 +1,2 @@
+# 3.1d.6
+In de in 3.1d.4 bedoelde situatie wordt de aangeslotene geacht een leveringscontract te hebben met de programmaverantwoordelijke met volledige erkenning die in de plaats van de leverancier treedt. De grootverbruiker heeft twee maanden het recht het leveringscontract zonder opzegtermijn te beëindigen. Tevens kan de programmaverantwoordelijke met volledige erkenning, voor zover niet reeds overeengekomen, redelijke afspraken maken ten aanzien van programmaverantwoordelijkheid voor de aansluiting.

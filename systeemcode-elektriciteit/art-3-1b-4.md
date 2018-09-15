@@ -1,0 +1,2 @@
+# 3.1b.4
+Indien en voor zover op grond van deze paragraaf of van 3.1c de programmaverantwoordelijkheid van groepen aangeslotenen wijzigt als gevolg van de intrekking van de erkenning van de aanvankelijke programmaverantwoordelijke met volledige erkenning, verkoop of doorstart van de onderneming van de aanvankelijke programmaverantwoordelijke met volledige erkenning of anderszins, zorgt de netbeheerder die het aangaat ervoor dat de wisseling van programmaverantwoordelijkheid met volledige erkenning binnen één werkdag in het aansluitingenregister is verwerkt.

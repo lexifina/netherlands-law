@@ -1,0 +1,2 @@
+# 3.8a.1
+Op basis van de volgens 6.3.5.6 en 6.3.6.3 van de Informatiecode elektriciteit en gas ontvangen gegevens vergelijkt de netbeheerder van het landelijk hoogspanningsnet de som van de invoedingen in elk deelnet, waarvan het spanningsniveau gelijk is aan of hoger is dan 110 kV, met de som van het verbruik in dat deelnet. Bij een geconstateerde afwijking groter dan 1000 kWh per dag wordt een melding gemaakt naar de desbetreffende netbeheerder en wordt deze netbeheerder verzocht de gegevens te (doen) corrigeren.

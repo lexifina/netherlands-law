@@ -1,0 +1,2 @@
+# 3.1f.3
+De in 3.1f.1 bedoelde programmaverantwoordelijke met volledige erkenning die in de plaats van de leverancier treedt, mag aan de aangeslotene, niet zijnde kleinverbruikers, een tarief voor de geleverde energie in rekening brengen dat overeenkomt met de uurlijkse day ahead prijs op de dag zelf tot stand gekomen op de aangewezen beurs, tenzij de aangeslotene met deze programmaverantwoordelijke anders is overeengekomen.
