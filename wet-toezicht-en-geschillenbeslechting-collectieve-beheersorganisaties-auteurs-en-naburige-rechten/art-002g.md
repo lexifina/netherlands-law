@@ -1,5 +1,5 @@
 # Artikel 2g
-1. Het College van Toezicht ziet erop toe dat collectieve beheersorganisaties voldoet aan het bepaalde in het tweede tot en met vijfde lid met betrekking tot het beheer van rechteninkomsten.
+1. Het College van Toezicht ziet erop toe dat een collectieve beheersorganisatie voldoet aan het bepaalde in het tweede tot en met vijfde lid met betrekking tot het beheer van rechteninkomsten.
 2. Een collectieve beheersorganisatie int en beheert rechteninkomsten zorgvuldig.
 3. Een collectieve beheersorganisatie administreert in zijn boekhouding gescheiden:
 a) rechteninkomsten en inkomsten uit de belegging van rechteninkomsten; en
