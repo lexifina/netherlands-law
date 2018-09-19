@@ -87,7 +87,7 @@
 #### Titel 20. Verjaring en verval
 ##### Afdeling 1. Algemene bepalingen
 ##### Afdeling 2. Goederenvervoer
-##### Afdeling 3. Bijzondere exploitatie-overeenkomsten
+##### Afdeling 3. Bijzondere exploitatieovereenkomsten
 ##### Afdeling 4. Overeenkomst tot het doen vervoeren van goederen
 ##### Afdeling 5. Vervoer van personen
 ##### Afdeling 7. Rederij
