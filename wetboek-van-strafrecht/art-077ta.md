@@ -1,5 +1,5 @@
 # Artikel 77ta
-1. Indien de maatregel voorwaardelijk eindigt als bedoeld in artikel 77s, zevende lid, en artikel 77t, tweede lid, geschiedt dit onder de algemene voorwaarde dat:
+1. Indien de maatregel voorwaardelijk eindigt als bedoeld in artikel 77s, zevende lid, en artikel 77t, tweede lid, zijn daaraan van rechtswege de voorwaarden verbonden dat:
 a. de veroordeelde zich ten tijde van de voorwaardelijke beëindiging niet schuldig maakt aan een strafbaar feit;
 b. de veroordeelde ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage aanbiedt en medewerking verleent aan het toezicht door de gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet dan wel van een reclasseringsinstelling als bedoeld in artikel 14d, tweede lid.
 2. Met het toezicht op de naleving van de voorwaarden is het openbaar ministerie belast. Over de wijze waarop de veroordeelde aan de voorwaarden voldoet, wordt het openbaar ministerie door de gecertificeerde instelling, de reclasseringsinstelling of reclasseringsambtenaar als bedoeld in het eerste lid, onderdeel b, ingelicht.

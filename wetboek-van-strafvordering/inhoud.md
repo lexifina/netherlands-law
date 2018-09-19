@@ -176,6 +176,7 @@
 ##### § 3. Overname van strafvervolging van een internationaal gerecht
 ### Titel 4. Europees onderzoeksbevel
 #### afdeling Eerste. Het Europees onderzoeksbevel
+#### afdeling Tweede. Uitvoering van een Europees onderzoeksbevel
 #### afdeling Derde. Nadere regeling van de uitvoering van enkele onderzoeksbevoegdheden
 #### afdeling Vierde. Uitvaardiging van een Europees onderzoeksbevel
 ### Titel 5. Europees bevriezingsbevel

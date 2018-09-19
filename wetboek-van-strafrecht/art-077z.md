@@ -1,9 +1,5 @@
 # Artikel 77z
-1. Toepassing van artikel 77x geschiedt onder de algemene voorwaarde dat:
-a. de veroordeelde zich voor het einde van de proeftijd niet schuldig maakt aan een strafbaar feit, en
-b. de veroordeelde, voor zover aan de toepassing van artikel 77x bijzondere voorwaarden als bedoeld in het tweede lid zijn gesteld:
-1°. ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage aanbiedt; en
-2°. medewerking verleent aan het reclasseringstoezicht, bedoeld in artikel 77aa, eerste tot en met het vierde lid, de medewerking aan huisbezoeken daaronder begrepen.
+1. Toepassing van artikel 77x geschiedt onder de algemene voorwaarde dat de veroordeelde zich voor het einde van de proeftijd niet schuldig maakt aan een strafbaar feit.
 2. Bij toepassing van artikel 77x kunnen voorts de volgende bijzondere voorwaarden worden gesteld, waaraan de veroordeelde gedurende de proeftijd, of een bij de veroordeling te bepalen gedeelte daarvan, dan wel binnen een door de rechter te bepalen termijn, ten hoogste gelijk aan de proeftijd, heeft te voldoen:
 1°. gehele of gedeeltelijke vergoeding van de door het strafbare feit veroorzaakte schade;
 2°. geheel of gedeeltelijk herstel van de door het strafbare feit veroorzaakte schade;
@@ -20,5 +16,8 @@ b. de veroordeelde, voor zover aan de toepassing van artikel 77x bijzondere voor
 13°. het deelnemen aan een gedragsinterventie;
 14°. het volgen van onderwijs, gedurende een bepaalde termijn, ten hoogste gelijk aan de proeftijd;
 15°. andere voorwaarden, het gedrag van de veroordeelde betreffende.
-3. Aan een bijzondere voorwaarde kan elektronisch toezicht worden verbonden.
-4. De voorwaarden in het tweede lid, onderdelen 10°, 11° of 15° en de gedragsinterventie, bedoeld in het tweede lid, onderdeel 13°, kunnen geheel of ten dele bestaan uit van jeugdhulp als bedoeld in artikel 1.1 van de Jeugdwet.
+3. Indien bij de toepassing van artikel 77x een bijzondere voorwaarde is gesteld, zijn daaraan van rechtswege de voorwaarden verbonden dat de veroordeelde:
+a. ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage aanbiedt; en
+b. medewerking verleent aan het reclasseringstoezicht, bedoeld in artikel 77aa, eerste tot en met het vierde lid, de medewerking aan huisbezoeken daaronder begrepen.
+4. Aan een bijzondere voorwaarde kan elektronisch toezicht worden verbonden.
+5. De voorwaarden in het tweede lid, onderdelen 10°, 11° of 15° en de gedragsinterventie, bedoeld in het tweede lid, onderdeel 13°, kunnen geheel of ten dele bestaan uit van jeugdhulp als bedoeld in artikel 1.1 van de Jeugdwet.

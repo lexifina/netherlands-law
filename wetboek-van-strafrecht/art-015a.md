@@ -1,10 +1,8 @@
 # Artikel 15a
-1. De voorwaardelijke invrijheidstelling geschiedt onder de algemene voorwaarden dat:
-a. de veroordeelde zich voor het einde van de proeftijd niet schuldig maakt aan een strafbaar feit, en
-b. de veroordeelde, voor zover aan de voorwaardelijke invrijheidstelling bijzondere voorwaarden als bedoeld in het tweede lid worden gesteld:
-1°. ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage aanbiedt; en
-2°. medewerking verleent aan het reclasseringstoezicht, bedoeld in artikel 15b, tweede lid, de medewerking aan huisbezoeken daaronder begrepen.
-2. Aan de voorwaardelijke invrijheidstelling kunnen daarnaast bijzondere voorwaarden betreffende het gedrag van de veroordeelde worden gesteld.
+1. De voorwaardelijke invrijheidstelling geschiedt onder de algemene voorwaarde dat de veroordeelde zich voor het einde van de proeftijd niet schuldig maakt aan een strafbaar feit.
+2. Aan de voorwaardelijke invrijheidstelling kunnen daarnaast bijzondere voorwaarden betreffende het gedrag van de veroordeelde worden gesteld. Indien aan de voorwaardelijke invrijheidstelling een bijzondere voorwaarde is gesteld, zijn daaraan van rechtswege de voorwaarden verbonden dat de veroordeelde:
+a. ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage aanbiedt; en
+b. medewerking verleent aan het reclasseringstoezicht, bedoeld in artikel 15b, tweede lid, de medewerking aan huisbezoeken daaronder begrepen.
 3. De bijzondere voorwaarden kunnen inhouden:
 1°. een verbod contact te leggen of te laten leggen met bepaalde personen of instellingen;
 2°. een verbod zich op of in de directe omgeving van een bepaalde locatie te bevinden;

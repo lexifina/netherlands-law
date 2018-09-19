@@ -23,7 +23,6 @@ c. artikel 124a, voor zover het beroep wordt ingesteld door gedeputeerde staten,
 d. artikel 125, voor zover het besluit betrekking heeft op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, van de Wet milieubeheer, bedoelde wetten of wettelijke bepalingen dan wel de Ontgrondingenwet
 e. artikel 268, eerste lid
 f. de artikelen 278a, vierde lid, en 281, tweede lid, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
-Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën: de artikelen 13, eerste lid, en 74, eerste, tweede, derde en vijfde lid
 Interimwet stad-en-milieubenadering:
 a. de artikelen 2 en 3
 b. een besluit omtrent goedkeuring van een besluit als bedoeld in artikel 9
@@ -37,6 +36,7 @@ Mijnbouwwet:
 a. een besluit dat van toepassing is op het continentaal plat, met uitzondering van een besluit krachtens de afdelingen 5.1.1, 5.1.2, 5.3, 5.4 of 5.5
 b. een besluit omtrent een mijnbouwmilieuvergunning krachtens artikel 40 en instemming met een winningsplan krachtens artikel 34 dan wel een winningsplan of een opslagplan krachtens de artikelen 34 en 39, eerste lid
 Ontgrondingenwet: hoofdstuk II en de artikelen 26a, eerste lid, 27 en 29a, eerste lid
+Participatiewet: artikel 76, eerste en tweede lid
 Provinciewet:
 a. artikel 83, tweede lid
 b. artikel 121, voor zover het beroep wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
@@ -44,7 +44,6 @@ c. artikel 122, voor zover het besluit betrekking heeft op de handhaving van het
 d. artikel 261, eerste lid
 e. de artikelen 271a, vierde lid, en 274, tweede lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep wordt ingesteld door provinciale staten, gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
 Reconstructiewet concentratiegebieden, voor zover het betreft een besluit tot vaststelling, wijziging of uitwerking van het reconstructieplan, alsmede een besluit dat is genomen met toepassing van de artikelen 40 tot en met 43
-Reconstructiewet Midden-Delfland: artikel 72, eerste tot en met derde lid
 Spoedwet wegverbreding
 Tijdelijke experimentenwet stembiljetten en centrale stemopneming: artikelen 4
 Tijdelijke wet aanwijzing bèta-opleidingen: artikel 2, eerste lid
@@ -133,6 +132,7 @@ f. de artikelen 4.2, eerste lid, en 4.4, eerste lid, voor zover het besluit betr
 g. de artikelen 6.8, eerste lid, en 6.9
 h. een besluit omtrent vaststelling van een exploitatieplan voor gronden, begrepen in een gelijktijdig bekendgemaakt bestemmingsplan, inpassingsplan of wijzigingsplan als bedoeld in artikel 3.6, eerste lid, alsmede herzieningen van het desbetreffende exploitatieplan en besluiten omtrent de afrekening en herberekende exploitatiebijdragen van het desbetreffende exploitatieplan
 i. een ontheffing als bedoeld in artikel 4.1a of 4.3a, voor zover die ontheffing betrekking heeft op een bestemmingsplan of een provinciaal inpassingsplan
+Wet structuur uitvoeringsorganisatie werk en inkomen: artikel 9, vijfde lid
 Wet tijdelijke tolheffing Blankenburgverbinding en ViA15: artikel 2, eerste lid
 Wet toelating zorginstellingen
 Wet windenergie op zee: artikelen 3, eerste lid en 11, eerste lid

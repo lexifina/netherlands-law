@@ -17,9 +17,9 @@ k. een verplichting zich op bepaalde tijdstippen te melden bij een bepaalde inst
 l. een beperking van het recht om Nederland te verlaten;
 m. een verbod zich te vestigen in een bepaald gebied;
 n. de plicht te verhuizen uit een bepaald gebied.
-3. Aan de voorwaarden als bedoeld in het tweede lid kan elektronisch toezicht worden verbonden.
-4. De rechter als bedoeld in artikel 38aa, eerste lid, kan de tenuitvoerlegging van de maatregel gelasten voor een periode van twee, drie, vier of vijf jaren. De termijn van de maatregel vangt aan op de dag waarop de rechter de tenuitvoerlegging van die maatregel heeft gelast.
-5. De tenuitvoerlegging van de maatregel geschiedt onder de algemene voorwaarden dat de veroordeelde:
+3. Indien de rechter een bijzondere voorwaarde opneemt, zijn daaraan van rechtswege de voorwaarden verbonden dat de veroordeelde:
 a. ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage aanbiedt; en
 b. medewerking verleent aan het reclasseringstoezicht, bedoeld in artikel 38ad, tweede lid, de medewerking aan huisbezoeken daaronder begrepen.
+4. Aan de voorwaarden als bedoeld in het tweede lid kan elektronisch toezicht worden verbonden.
+5. De rechter als bedoeld in artikel 38aa, eerste lid, kan de tenuitvoerlegging van de maatregel gelasten voor een periode van twee, drie, vier of vijf jaren. De termijn van de maatregel vangt aan op de dag waarop de rechter de tenuitvoerlegging van die maatregel heeft gelast.
 6. Bij de tenuitvoerlegging van de maatregel zijn de artikelen 38w, 38x en 38ij van overeenkomstige toepassing.

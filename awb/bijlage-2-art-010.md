@@ -14,7 +14,7 @@ Toeslagregeling pensioenen Suriname en Nederlandse Antillen
 Toeslagwet Indonesische pensioenen 1956
 Uitkeringswet gewezen militairen
 Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen
-Wet allocatie arbeidskrachten door intermediairs
+Wet allocatie arbeidskrachten door intermediairs, met uitzondering van artikel 15b en hoofdstuk 5
 Wet educatie en beroepsonderwijs, voor zover het betreft een algemene maatregel van bestuur als bedoeld in de artikelen 4.1.2 en 4.3.2, voor zover het besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap betreft
 Wet financiële voorzieningen privatisering ABP
 Wet maatschappelijke ondersteuning 2015, met uitzondering van artikel 2.6.8

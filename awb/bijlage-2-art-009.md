@@ -12,7 +12,7 @@ Besluit Werkloosheid onderwijs- en onderzoekpersoneel, voor zover het betreft ee
 Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair onderwijs, voor zover het betreft een besluit van Onze Minister van Onderwijs, Cultuur en Wetenschap, dan wel Onze Minister van Economische Zaken
 Kaderwet SZW-subsidies, voor zover het betreft een ministeriële regeling op grond van artikel 9
 Liquidatiewet Ongevallenwetten,met uitzondering van artikel 24, eerste lid
-Participatiewet: met uitzondering van de artikelen 52 en 81 en paragraaf 6.5
+Participatiewet, met uitzondering van de artikelen 52, 76, eerste en tweede lid, en 81 en paragraaf 6.5
 Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria
 Tijdelijke wet pilot loondispensatie
 Toeslagenwet
@@ -25,7 +25,6 @@ Wet financiering sociale verzekeringen, voor zover het betreft een besluit van d
 Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen
 Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers
 Wet inkomensvoorziening oudere werklozen
-Wet investeren in jongeren, met uitzondering van de artikelen 37, 57 en artikel 91, voor zover het besluiten betreft van de voorzitter van gedeputeerde staten
 Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen: een besluit van het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 2.3
 Wet langdurige zorg, met uitzondering van een Besluit van Onze Minister van Volksgezondheid, Welzijn en Sport en een beschikking op grond van artikel 11.4.1 of 11.4.2
 Wet milieubeheer: artikel 15.50
@@ -33,9 +32,8 @@ Wet op de arbeidsongeschiktheidsverzekering
 Wet overheidspersoneel onder de werknemersverzekeringen
 Wet overige OCW-subsidies: artikel 19a
 Wet sociale werkvoorziening
-Wet structuur uitvoeringsorganisatie werk en inkomen
+Wet structuur uitvoeringsorganisatie werk en inkomen, met uitzondering van artikel 9, vijfde lid
 Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen
 Wet werk en inkomen naar arbeidsvermogen
-Wet werk en inkomen kunstenaars, met uitzondering van artikel 14
 Ziektewet
 Zorgverzekeringswet: de artikelen 9b, 9c, 18f, 18g, 69 en 70, behalve voor zover op grond van artikel 18f, eerste lid, in samenhang met artikel 18d of 18e, een besluit is genomen over de verschuldigdheid van de bestuursrechtelijke premie of de hoogte daarvan

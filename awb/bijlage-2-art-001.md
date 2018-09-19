@@ -8,8 +8,8 @@ a. artikel 38, betreffende de toepassing van artikel 124 van de Gemeentewet voor
 b. artikel 38, betreffende de toepassing van hoofdstuk XVII van de Gemeentewet, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging en voor zover het betreft de weigering om een voordracht tot vernietiging te doen
 Burgerlijk Wetboek:
 a. Boek 1:
-1. artikel 7, eerste en tweede lid, voor zover de aanvraag is toegewezen
-2. titel 14, afdeling 4, voor zover de aanvraag is toegewezen
+1. artikel 7, eerste en tweede lid
+2. titel 14, afdeling 4
 b. Boek 2: de artikelen 63d, tweede lid, 156 en 266, voor zover de aanvraag is toegewezen
 c. Boek 7: artikel 671a.
 Elektriciteitswet 1998: de artikelen 9b, vierde lid, 9c, derde lid, 9d, tweede en derde lid, 9f, zesde lid, 20a, derde lid, 20b, derde lid, artikel 20c, tweede en derde lid en artikel 20ca
@@ -27,7 +27,6 @@ g. artikel 278, voor zover het betreft de weigering om een voordracht tot vernie
 h. de artikelen 278a, vierde lid, en 281, tweede lid, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep niet wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep niet wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
 Geneesmiddelenwet: artikel 17
 Gerechtsdeurwaarderswet: artikel 3a, tweede lid
-Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën: de artikelen 20, 21, 22, 72, eerste lid, 75, en 101, derde lid
 Instellingswet Autoriteit Consument en Markt: artikel 12h, eerste lid, voor zover de aanvraag is afgewezen
 Invorderingswet 1990, met uitzondering van de artikelen 30, 49 en 62a
 Jeugdwet:
@@ -53,7 +52,6 @@ d. de artikelen 167, derde lid, en 179, derde lid
 e. artikel 261, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging
 f. artikel 271, voor zover het betreft de weigering om een voordracht tot vernietiging te doen
 g. de artikelen 271a, vierde lid, en 274, tweede lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep niet wordt ingesteld door provinciale staten, gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
-Reconstructiewet Midden-Delfland: de artikelen 36, eerste lid, 37, 44, eerste lid, 45 en 70
 Richtlijn 2008/50/EG van het Europees Parlement en de Raad van 21 mei 2008 betreffende de luchtkwaliteit en schonere lucht voor Europa (PbEU 2008, L 152): een kennisgeving als bedoeld in artikel 22, vierde lid
 Rijkswet Onderzoeksraad voor veiligheid, met uitzondering van beslissingen ten aanzien van de algemeen secretaris en de medewerkers van het bureau
 Telecommunicatiewet: de artikelen 3.5, 3.5a, 3.5b, 3.22 en 18.9, eerste en tweede lid
@@ -85,7 +83,6 @@ d. de artikelen 39b en 49 gelezen in samenhang met artikel 39b, voor zover het b
 e. de artikelen 39c, vierde lid en 39e, tweede lid, betreffende de toepassing van artikel 32b voor zover het beroep niet wordt ingesteld door het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan, en betreffende de toepassing van artikel 32c, voor zover het beroep niet wordt ingesteld door gedeputeerde staten, en artikel 49 gelezen in samenhang met dit onderdeel
 Wet geurhinder en veehouderij: artikel 7
 Wet gewasbeschermingsmiddelen en biociden: artikel 108
-Wet investeren in jongeren: de artikelen 37, 57 en 91, voor zover het besluiten betreft van de voorzitter van gedeputeerde staten
 Wet luchtvaart:
 a. de artikelen 8.4, 8.15 en 8.25fa
 b. de artikelen 8.70, eerste lid, en 10.15, eerste lid, voor zover het betreft de luchthavens Lelystad, Rotterdam en Eindhoven
@@ -101,7 +98,6 @@ Wet Naleving Europese regelgeving publieke entiteiten:
 a. artikel 2, eerste lid, voor zover het betreft de weigering om een aanwijzing te geven
 b. artikel 3, voor zover het betreft de weigering om een aanwijzing te geven
 c. artikel 5, voor zover het betreft de weigering om een besluit te nemen
-Wet natuurbescherming: de artikelen 3.28 en 5.4, vierde lid, ingeval de jachtakte is geweigerd of ingetrokken of mede is geweigerd of ingetrokken om redenen als bedoeld in artikel 3.28, derde lid, onderdeel a, of artikel 5.4, vierde lid, onderdeel c,
 Wet op de expertisecentra: artikel 134, vierde lid, zolang de gemeenteraad de aanvulling nog niet heeft bekrachtigd
 Wet op de rechterlijke organisatie: de artikelen 46a, eerste lid, 62a, eerste lid, en 100
 Wet opheffing particuliere banken van leening: artikel 2
@@ -133,7 +129,6 @@ Wet toezicht financiële verslaggeving: de artikelen 2, eerste lid, 3, eerste en
 Wet van 18 december 2008 tot wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens) (Stb. 2008, 561): artikel X
 Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen: artikel 30, tweede lid
 Wet vervoer gevaarlijke stoffen: de artikelen 13, eerste lid, en 14, eerste, tweede en vierde lid
-Wet werk en inkomen kunstenaars: artikel 14
 Wet windenergie op zee: artikel 9, eerste lid
 Zorgverzekeringswet:
 a. artikel 9a
