@@ -349,6 +349,7 @@
 ##### § 4.3.7.3. Systematische interne afhandeling
 ##### § 4.3.7.4. Overige bepaling informatie na de handel door beleggingsondernemingen
 ##### § 4.3.7.5. Algoritmische handel, directe elektronische toegang en het optreden als clearinginstelling
+#### Afdeling 4.3.7a. Verzekeringen met een beleggingscomponent
 #### Afdeling 4.3.8. Onderlinge verhouding financiële ondernemingen
 ##### § 4.3.8.1. Verhouding tussen aanbieder, (onder)bemiddelaar en (onder-)gevolmachtigde agent
 ##### § 4.3.8.2. Verhouding tussen beleggingsondernemingen onderling en tussen beleggingsondernemingen en verbonden agenten
