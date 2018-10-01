@@ -1,0 +1,2 @@
+# Artikel VII
+Dit besluit treedt in werking op het tijdstip waarop de Wet implementatie richtlijn verzekeringsdistributie in werking treedt. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven op of na het tijdstip van inwerkingtreding van de Wet implementatie richtlijn verzekeringsdistributie, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
