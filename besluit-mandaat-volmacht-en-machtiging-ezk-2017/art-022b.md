@@ -1,0 +1,2 @@
+# Artikel 22b
+Aan de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Landbouw, Natuur en Voedselkwaliteit wordt mandaat, volmacht en machtiging verleend voor het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en feitelijke handelingen die nodig zijn om uitvoering te geven aan hetgeen in de Verordening (EU) nr. 2017/1369 is bepaald ten aanzien van de handhavende maatregelen op het terrein van energie-etikettering.
