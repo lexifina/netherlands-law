@@ -1,0 +1,2 @@
+# Artikel 14a
+Aan de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeur-generaal van Bedrijfsleven en Innovatie en de directeur-generaal van Energie, Telecom en Mededinging van het Ministerie van Economische Zaken en Klimaat wordt, ieder voor zich, mandaat en machtiging verleend voor het afnemen van de eed of de belofte bij de indiensttreding van een medewerker bij het kernministerie, bedoeld in artikel 51, eerste lid, van het Algemeen Rijksambtenarenreglement.
