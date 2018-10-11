@@ -1,0 +1,11 @@
+# Artikel 15m
+Voor de toepassing van de artikelen 15j, 15k en 15l wordt verstaan onder:
+a. leesgehandicapte: een persoon
+1°. die blind is;
+2°. met een visuele handicap die niet zodanig kan worden verbeterd dat de persoon het gezichtsvermogen krijgt dat wezenlijk gelijkwaardig is aan dat van een persoon zonder een dergelijke handicap en waardoor de persoon niet in staat is in wezenlijk dezelfde mate als een persoon zonder een dergelijke handicap gedrukte werken te lezen;
+3°. met een waarnemings- of andere leeshandicap waardoor de persoon niet in staat is in wezenlijk dezelfde mate als een persoon zonder een dergelijke handicap gedrukte werken te lezen; of
+4°. die anderszins, ten gevolge van een fysieke handicap, niet in staat is een boek vast te houden of te hanteren, dan wel scherp te zien of zijn ogen te bewegen in een mate die gewoonlijk voor het lezen noodzakelijk wordt geacht;
+b. gepubliceerd geschrift: een werk van letterkunde, wetenschap of kunst in de vorm van een boek, dagblad, krant, tijdschrift of ander soort geschrift, notaties met inbegrip van bladmuziek en daarmee samenhangende illustraties, op om het even welke drager, met inbegrip van audioformaten, dat wordt beschermd door het auteursrecht en dat is openbaar gemaakt;
+c. omgezet werk: een werk dat in een alternatieve vorm is omgezet waarmee dat werk voor een leesgehandicapte toegankelijk wordt, onder meer om de toegang tot het werk voor die leesgehandicapte even eenvoudig en gemakkelijk te maken als voor personen zonder leeshandicap;
+d. toegelaten entiteit: een entiteit die door een lidstaat is gemachtigd of erkend om zonder winstoogmerk onderwijs, opleiding, aangepast lezen of toegang tot informatie aan leesgehandicapten te bieden. Hieronder wordt mede verstaan openbare instellingen of organisaties zonder winstoogmerk die leesgehandicapten dezelfde diensten aanbieden als een van hun hoofdactiviteiten, institutionele verplichtingen of in het kader van hun taken van openbaar belang;
+e. Leesgehandicaptenverdrag: het op 27 juni 2013 te Marrakesh tot stand gekomen Verdrag van Marrakesh tot bevordering van de toegang tot gepubliceerde werken voor personen die blind zijn, visueel gehandicapt of anderszins een leeshandicap hebben.
