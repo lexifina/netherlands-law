@@ -2,67 +2,68 @@
 ## Inhoud
 ## Bijlage I
 BIJLAGE 1, INDEX LANDSCHAP
-Leeswijzer
-L01 | Groenblauwe landschapselementen
-L01.01 | Poel en klein historisch water
-L01.01.00 | Poel en klein historisch water - gemiddeld
-L01.01.01a | Oppervlakte poel < 175 m2
-L01.01.01b | Oppervlakte poel > 175 m2
-L01.02.00 | Houtwal en houtsingel - gemiddeld
-L01.02.01 | Houtsingel en houtwal
-L01.02.02 | Hoge houtwal
-L01.02.03 | Holle weg en graft
-L01.03 | Elzensingel
-L01.03.00 | Elzensingel - gemiddeld
-L01.03.01a | Bedekking elzensingel 30-50%
-L01.03.01b | Bedekking elzensingel 50%-75%
-L01.03.01c | Bedekking elzensingel > 75%
-L01.04 | Bossingel en bosje (vervallen)
-L01.04.01 | Bossingel en bosje
-L01.05 | Knip- of scheerheg
-L01.05.00 | Knip- of scheerheg - gemiddeld
-L01.05.01a | Knip- en scheerheg; jaarlijks scheren of knippen
-L01.05.01b | Knip- en scheerheg; eenmaal per 2-3 jaar scheren of knippen
-L01.06 | Struweelhaag
-L01.06.00 | Struweelhaag - gemiddeld
-L01.06.01a | Struweelhaag snoeicyclus 5-7 jaar
-L01.06.01b | Struweelhaag snoeicyclus > 12 jaar
-L01.07 | Laan
-L01.07.00 | Laan- gemiddeld
-L01.07.01a | Gemiddelde stamdiameter bomen < 20 cm
-L01.07.01b | Gemiddelde stamdiameter bomen 20-60 cm
-L01.07.01c | Gemiddelde stamdiameter bomen > 60 cm
-L01.08 | Knotboom
-L01.08.00 | Knotboom - gemiddeld
-L01.08.01a | Gemiddelde stamdiameter knotboom < 20 cm
-L01.08.01b | Gemiddelde stamdiameter knotboom 20-60 cm
-L01.08.01c | Gemiddelde stamdiameter knotboom > 60 cm
-L01.09 | Hoogstamboomgaard
-L01.09.01 | Hoogstamboomgaard
-L01.10 | Struweelrand
-L01.10.01 | Struweelrand
-L01.11 | Hakhoutbosje
-L01.11.01a | Droog hakhoutbosje (zomereik, wintereik, berk en haagbeuk dominant)
-L01.11.01b | Vochtig en nat hakhoutbosje (zwarte els en/of gewone es dominant)
-L01.12 | Griendje
-L01.12.01 | Griendje
-L01.13 | Bomenrij en solitaire boom
-L01.13.01 | Bomenrij en solitaire boom
-L01.14 | Rietzoom en klein rietperceel
-L01.14.01a | Smalle rietzoom (< 5 meter)
-L01.14.01b | Brede rietzoom (> 5 meter) en klein rietperceel
-L01.15 | Natuurvriendelijke oever
-L01.15.01 | Natuurvriendelijke oever
-L01.16 | Bossingel (nieuw per 1-1-2017)
-L02 | Historische gebouwen en omgeving
-L02.01 | Fortterrein
-L02.02 | Historisch bouwwerk en erf
-L02.03 | Historische tuin
-L03 | Aardwerken
-L03.01 | Aardwerk en groeve
-L04 | Recreatieve landschapselementen
-L04.01 | Wandelpad over boerenland
-L04.01.01 | Wandelpad over boerenland
+ | Leeswijzer | 20
+L01 | Groenblauwe landschapselementen | 21
+L01.01 | Poel en klein historisch water | 21
+L01.01.00 | Poel en klein historisch water - gemiddeld | 23
+L01.01.01a | Oppervlakte poel < 175 m2 | 23
+L01.01.01b | Oppervlakte poel > 175 m2 | 23
+L01.02 | Houtwal en houtsingel | 25
+L01.02.00 | Houtwal en houtsingel - gemiddeld | 25
+L01.02.01 | Houtsingel en houtwal | 25
+L01.02.02 | Hoge houtwal | 25
+L01.02.03 | Holle weg en graft | 25
+L01.03 | Elzensingel | 26
+L01.03.00 | Elzensingel - gemiddeld | 26
+L01.03.01a | Bedekking elzensingel 30-50% | 26
+L01.03.01b | Bedekking elzensingel 50%-75% | 26
+L01.03.01c | Bedekking elzensingel > 75% | 26
+L01.04 | Bossingel en bosje (vervallen) | 27
+L01.04.01 | Bossingel en bosje | 27
+L01.05 | Knip- of scheerheg | 27
+L01.05.00 | Knip- of scheerheg - gemiddeld | 28
+L01.05.01a | Knip- en scheerheg; jaarlijks scheren of knippen | 28
+L01.05.01b | Knip- en scheerheg; eenmaal per 2-3 jaar scheren of knippen | 28
+L01.06 | Struweelhaag | 29
+L01.06.00 | Struweelhaag - gemiddeld | 30
+L01.06.01a | Struweelhaag snoeicyclus 5-7 jaar | 30
+L01.06.01b | Struweelhaag snoeicyclus > 12 jaar | 30
+L01.07 | Laan | 31
+L01.07.00 | Laan- gemiddeld | 32
+L01.07.01a | Gemiddelde stamdiameter bomen < 20 cm | 32
+L01.07.01b | Gemiddelde stamdiameter bomen 20-60 cm | 32
+L01.07.01c | Gemiddelde stamdiameter bomen > 60 cm | 32
+L01.08 | Knotboom | 33
+L01.08.00 | Knotboom - gemiddeld | 34
+L01.08.01a | Gemiddelde stamdiameter knotboom < 20 cm | 34
+L01.08.01b | Gemiddelde stamdiameter knotboom 20-60 cm | 34
+L01.08.01c | Gemiddelde stamdiameter knotboom > 60 cm | 34
+L01.09 | Hoogstamboomgaard | 35
+L01.09.01 | Hoogstamboomgaard | 36
+L01.10 | Struweelrand | 37
+L01.10.01 | Struweelrand | 38
+L01.11 | Hakhoutbosje | 39
+L01.11.01a | Droog hakhoutbosje (zomereik, wintereik, berk en haagbeuk dominant) | 40
+L01.11.01b | Vochtig en nat hakhoutbosje (zwarte els en/of gewone es dominant) | 40
+L01.12 | Griendje | 41
+L01.12.01 | Griendje | 41
+L01.13 | Bomenrij en solitaire boom | 42
+L01.13.01 | Bomenrij en solitaire boom | 43
+L01.14 | Rietzoom en klein rietperceel | 44
+L01.14.01a | Smalle rietzoom (< 5 meter) | 44
+L01.14.01b | Brede rietzoom (> 5 meter) en klein rietperceel | 44
+L01.15 | Natuurvriendelijke oever | 45
+L01.15.01 | Natuurvriendelijke oever | 45
+L01.16 | Bossingel (nieuw per 1-1-2017) | 46
+L02 | Historische gebouwen en omgeving | 47
+L02.01 | Fortterrein | 48
+L02.02 | Historisch bouwwerk en erf | 50
+L02.03 | Historische tuin | 51
+L03 | Aardwerken | 53
+L03.01 | Aardwerk en groeve | 53
+L04 | Recreatieve landschapselementen | 54
+L04.01 | Wandelpad over boerenland | 54
+L04.01.01 | Wandelpad over boerenland | 54
 LEESWIJZER
 Systematiek
 In het kader van de vereenvoudiging en transparantie van het Stelsel Natuur- en Landschapsbeheer (SNL) is een systematiek ontwikkeld die aansluit op de systematiek van de onderdelen Natuur en Agrarisch:
@@ -563,78 +564,79 @@ L04.01.01 Wandelpad over boerenland
 ## Bijlage 2 Index Natuur en Landschap, Onderdeel natuurbeheertypen
 BIJLAGE 2, INDEX NATUUR EN LANDSCHAP
 Onderdeel natuurbeheertypen
-Versie 0.5, 21 januari 2013
+Versie 0.6, 28 april 2016
 Red. P. Schipper en H. Siebel
 Leeswijzer
-00.01 | Nog om te vormen naar natuur
-N01 | Grootschalige, dynamische natuur
-N01.01 | Zee en wad
-N01.02 | Duin- en kwelderlandschap
-N01.03 | Rivier- en moeraslandschap
-N01.04 | Zand- en kalklandschap
-N02 | Rivieren
-N02.01 | Rivier
-N03 | Beken en bronnen
-N03.01 | Beek en bron
-N04 | Stilstaande wateren
-N04.01 | Kranswierwater
-N04.02 | Zoete plas
-N04.03 | Brak water
-N04.04 | Afgesloten zeearm
-N05 | Moerassen
-N05.01 | Moeras
-N05.02 | Gemaaid rietland
-N06 | Voedselarme venen en vochtige heiden
-N06.01 | Veenmosrietland en moerasheide
-N06.02 | Trilveen
-N06.03 | Hoogveen
-N06.04 | Vochtige heide
-N06.05 | Zwakgebufferd ven
-N06.06 | Zuur ven of hoogveenven
-N07 | Droge heiden
-N07.01 | Droge heide
-N07.02 | Zandverstuiving
-N08 | Open duinen
-N08.01 | Strand en embryonaal duin
-N08.02 | Open duin
-N08.03 | Vochtige duinvallei
-N08.04 | Duinheide
-N09 | Schorren of kwelders
-N09.01 | Schor of kwelder
-N10 | Vochtige schraallanden
-N10.01 | Nat schraalland
-N10.02 | Vochtig hooiland
-N11 | Droge schraallanden
-N11.01 | Droog schraalland
-N12 | Rijke graslanden en akkers
-N12.01 | Bloemdijk
-N12.02 | Kruiden- en faunarijk grasland
-N12.03 | Glanshaverhooiland
-N12.04 | Zilt- en overstromingsgrasland
-N12.05 | Kruiden- en faunarijke akker
-N12.06 | Ruigteveld
-N13 | Vogelgraslanden
-N13.01 | Vochtig weidevogelgrasland
-N13.02 | Wintergastenweide
-N14 | Vochtige bossen
-N14.01 | Rivier- en beekbegeleidend bos
-N14.02 | Hoog- en laagveenbos
-N14.03 | Haagbeuken- en essenbos
-N15 | Droge bossen
-N15.01 | Duinbos
-N15.02 | Dennen-, eiken- en beukenbos
-N16 | Bossen met productiefunctie
-N16.01 | Droog bos met productie (vervallen)
-N16.02 | Vochtig bos met productie (vervallen)
-N16.03 | Droog bos met productie (nieuw per 1-1-2018)
-N16.04 | Vochtig bos met productie (nieuw per 1-1-2018)
-N17 | Cultuurhistorische bossen
-N17.01 | Vochtig hakhout en middenbos (vervallen)
-N17.02 | Droog hakhout
-N17.03 | Park- en stinzenbos
-N17.04 | Eendenkooi
-N17.05 | Wilgengriend (nieuw m.i.v. 1-1-2017)
-N17.06 | Vochtig en hellinghakhout (nieuw m.i.v. 1-1-2017)
+ | Leeswijzer | 55
+N00.01 | Nog om te vormen naar natuur | 58
+N01 | Grootschalige, dynamische natuur | 59
+N01.01 | Zee en wad | 61
+N01.02 | Duin- en kwelderlandschap | 62
+N01.03 | Rivier- en moeraslandschap | 63
+N01.04 | Zand- en kalklandschap | 64
+N02 | Rivieren | 65
+N02.01 | Rivier | 66
+N03 | Beken en bronnen | 67
+N03.01 | Beek en bron | 69
+N04 | Stilstaande wateren | 71
+N04.01 | Kranswierwater | 72
+N04.02 | Zoete plas | 74
+N04.03 | Brak water | 77
+N04.04 | Afgesloten zeearm | 78
+N05 | Moerassen | 80
+N05.01 | Moeras | 81
+N05.02 | Gemaaid rietland | 83
+N06 | Voedselarme venen en vochtige heiden | 84
+N06.01 | Veenmosrietland en moerasheide | 85
+N06.02 | Trilveen | 86
+N06.03 | Hoogveen | 87
+N06.04 | Vochtige heide | 89
+N06.05 | Zwakgebufferd ven | 90
+N06.06 | Zuur ven of hoogveenven | 91
+N07 | Droge heiden | 93
+N07.01 | Droge heide | 94
+N07.02 | Zandverstuiving | 96
+N08 | Open duinen | 97
+N08.01 | Strand en embryonaal duin | 98
+N08.02 | Open duin | 99
+N08.03 | Vochtige duinvallei | 101
+N08.04 | Duinheide | 103
+N09 | Schorren of kwelders | 104
+N09.01 | Schor of kwelder | 105
+N10 | Vochtige schraallanden | 107
+N10.01 | Nat schraalland | 108
+N10.02 | Vochtig hooiland | 110
+N11 | Droge schraallanden | 112
+N11.01 | Droog schraalland | 113
+N12 | Rijke graslanden en akkers | 114
+N12.01 | Bloemdijk | 115
+N12.02 | Kruiden- en faunarijk grasland | 116
+N12.03 | Glanshaverhooiland | 117
+N12.04 | Zilt- en overstromingsgrasland | 119
+N12.05 | Kruiden- en faunarijke akker | 121
+N12.06 | Ruigteveld | 123
+N13 | Vogelgraslanden | 124
+N13.01 | Vochtig weidevogelgrasland | 125
+N13.02 | Wintergastenweide | 126
+N14 | Vochtige bossen | 127
+N14.01 | Rivier- en beekbegeleidend bos | 128
+N14.02 | Hoog- en laagveenbos | 130
+N14.03 | Haagbeuken- en essenbos | 131
+N15 | Droge bossen | 132
+N15.01 | Duinbos | 133
+N15.02 | Dennen-, eiken- en beukenbos | 134
+N16 | Bossen met productiefunctie | 135
+N16.01 | Droog bos met productie (vervallen) | 137
+N16.02 | Vochtig bos met productie (vervallen) | 139
+N16.03 | Droog bos met productie (nieuw per 1-1-2018) | 140
+N16.04 | Vochtig bos met productie (nieuw per 1-1-2018) | 142
+N17 | Cultuurhistorische bossen | 143
+N17.01 | Vochtig hakhout en middenbos (vervallen) | 144
+N17.02 | Droog hakhout | 145
+N17.03 | Park- en stinzenbos | 146
+N17.04 | Eendenkooi | 148
+N17.05 | Wilgengriend (nieuw m.i.v. 1-1-2017) | 149
+N17.06 | Vochtig en hellinghakhout (nieuw m.i.v. 1-1-2017) | 150
 LEESWIJZER
 Ten aanzien van versie 0.5
 De versie 0.5 van het onderdeel natuurbeheertypen van de index natuur- en landschap betreft een versie met beschrijvingen van de beheertypen waar net als in versie 0.3 de landschapselementen zijn uitgehaald en elders in een apart onderdeel Landschapselementen zijn ondergebracht en ten opzichte van versie 0.4. enkele kleine aanpassingen aan de tekst van de beheertypen zijn gedaan ter verdere verduidelijking van de afbakening van de beheertypen, naar aanleiding van gebleken onduidelijkheden tijdens het omzettingsproces vanuit oude typologieën begin 2009.
@@ -1584,5 +1586,5 @@ De beheerder dient het beheertype in stand te houden. De wijze waarop hij deze i
 Voorbeeldgebieden
 ……………………….
 ## Bijlage 3
-De koppeltabel zoals bedoeld in artikel 1.1, onderdeel f, is geplaatst op http://www.portaalnatuurenlandschap.nl.
+De koppeltabel zoals bedoeld in artikel 1.1, onderdeel f, is geplaatst op http://www.bij12.nl/onderwerpen/natuur-en-landschap/subsidiestelstel-natuur-en-landschap
 ## Bijlage 4
