@@ -5,4 +5,5 @@
 4. Indien een van de feiten, omschreven in het eerste en tweede lid, wordt begaan door een persoon die daarvan een beroep of gewoonte maakt of in vereniging wordt begaan door meerdere personen, wordt gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie opgelegd.
 5. Indien een van de feiten, omschreven in het eerste en tweede lid, zwaar lichamelijk letsel ten gevolge heeft of daarvan levensgevaar voor een ander te duchten is, wordt gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie opgelegd.
 6. Indien een van de feiten, omschreven in het eerste en tweede lid, de dood ten gevolge heeft, wordt een gevangenisstraf van ten hoogste achttien jaren of geldboete van de vijfde categorie opgelegd.
-7. Voor de toepassing van dit artikel wordt onder Nederland mede verstaan de openbare lichamen Bonaire, Sint Eustatius en Saba.
+7. Indien een van de feiten, omschreven in het eerste en tweede lid, wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
+8. Voor de toepassing van dit artikel wordt onder Nederland mede verstaan de openbare lichamen Bonaire, Sint Eustatius en Saba.
