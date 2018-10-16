@@ -55,6 +55,7 @@
 #### afdeling Derde. Opnemen en onderzoek communicatie
 #### Derde afdeling A. Vorderen van gegevens
 #### afdeling Vierde. Onderzoek van voorwerpen, vervoermiddelen en kleding
+#### afdeling Vijfde. Onderzoek aan het lichaam en DNA-onderzoek
 ### Titel VC. Bijstand aan opsporing van terroristische misdrijven door burgers
 ### Titel VD. Algemene regels betreffende de bevoegdheden in de titels IVA tot en met VC
 #### afdeling Eerste. Voeging bij de processtukken
