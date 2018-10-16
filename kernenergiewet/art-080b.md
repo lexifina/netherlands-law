@@ -1,0 +1,2 @@
+# Artikel 80b
+Bij veroordeling wegens een der misdrijven omschreven in de artikelen 79 en 80, derde lid, alsmede bij veroordeling wegens een der misdrijven omschreven in artikel 80, tweede lid, begaan met een terroristisch oogmerk als bedoeld in artikel 83a van het Wetboek van Strafrecht, kan ontzetting van het in artikel 28, eerste lid, onder 3°, van het Wetboek van Strafrecht vermelde recht worden uitgesproken.
