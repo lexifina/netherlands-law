@@ -1,0 +1,7 @@
+# Bijlage 4
+## Bijlage 1.4 Voorbeelden toepassing waarderingsvormen
+Voorbeeld 1
+Een medewerker heeft in een bepaalde periode zodanig veel gewerkt dat hij in die periode een substantieel deel van zijn privétijd in het werk gestoken heeft. In die periode is daarover (vanzelfsprekend) wel gesproken tussen deze medewerker en zijn leidinggevende. Daaruit bleek dat het 'thuisfront' daar soms over mopperde. Op basis daarvan stelt de leidinggevende voor om de medewerker een arrangement te bieden waarin hij met zijn partner een weekendje weg kan. Dit arrangement kan eventueel worden voorzien van een extra vrije vrijdag en maandag zodat deze medewerker daar ook geen vrije dagen voor op hoeft te nemen.
+Voorbeeld 2
+Een medewerker heeft door haar bijdrage een aantal excellente resultaten opgeleverd. Zodanig dat haar leidinggevende haar daarvoor bewust wil waarderen. Deze resultaten zijn behaald in een project waarin ook een externe deskundige werkzaam was. Deze deskundige werkt voor een gerenommeerd bureau. In de gesprekken die gedurende dat project door de leidinggevende met haar zijn gevoerd, sprak zij weleens voorzichtig uit dat zij een dergelijk bureau zeer interessant vindt. De leidinggevende biedt haar in het kader van het bewust waarderen aan dat zij een week mee kan lopen met een aantal medewerkers van dat bureau.
+N.B.; Het kan gebeuren dat het aanbod niet aansluit bij de behoefte van de medewerker. Er wordt dan in gezamenlijkheid gezocht naar een passende vorm van waardering.
