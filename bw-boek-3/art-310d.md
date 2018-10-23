@@ -1,0 +1,2 @@
+# Artikel 310d
+Een rechtsvordering tot bescherming van een bedrijfsgeheim als bedoeld in artikel 5, 6 en 9 van de Wet bescherming bedrijfsgeheimen verjaart door verloop van vijf jaren na de aanvang van de dag, volgende op die waarop de houder van het bedrijfsgeheim bekend is geworden met de inbreuk op het bedrijfsgeheim, en in ieder geval door verloop van twintig jaren na de aanvang van de dag dat de inbreuk is begonnen.

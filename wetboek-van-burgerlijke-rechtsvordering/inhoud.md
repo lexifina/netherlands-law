@@ -144,6 +144,7 @@
 ### Titel 13. Van rechtspleging in zaken betreffende de teruggave van cultuurgoederen
 ### Titel 14. Van rechtspleging in zaken betreffende de verbindendverklaring van overeenkomsten strekkende tot collectieve schadeafwikkeling
 ### Titel 15. Van rechtspleging in zaken betreffende rechten van intellectuele eigendom
+### Titel 15a. Van rechtspleging in zaken betreffende bescherming van bedrijfsgeheimen
 ### Titel 16. Van rechtspleging in pachtzaken
 ### Titel 17. Van rechtspleging in deelgeschillen betreffende letsel- en overlijdensschade
 ### Titel 18. Van rechtspleging in zaken betreffende een arbeidsovereenkomst op grond waarvan de werknemer arbeid verricht op het continentaal plat

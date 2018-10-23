@@ -1,0 +1,2 @@
+# Artikel 1019ie
+Voor zover nodig in afwijking van de tweede paragraaf van de twaalfde afdeling van de tweede titel van het eerste Boek en in afwijking van artikel 843a, eerste lid, kan de rechter de in het ongelijk gestelde partij desgevorderd veroordelen in redelijke en evenredige gerechtskosten en andere kosten die de in het gelijk gestelde partij heeft gemaakt, tenzij de billijkheid zich daartegen verzet.
