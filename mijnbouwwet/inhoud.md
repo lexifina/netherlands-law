@@ -19,6 +19,7 @@
 #### § 4.1a.2. Kennisgevingen
 ### § 4.2. Financiële zekerheid
 ### § 4.3. Verdere regels
+## Hoofdstuk 4a. Bijzondere regels voor het Groningenveld
 ## Hoofdstuk 5. Financiële bepalingen
 ### Afdeling 5.1.1. Afdrachten in verband met het opsporen en winnen van koolwaterstoffen
 #### § 5.1.1.1. Algemeen
