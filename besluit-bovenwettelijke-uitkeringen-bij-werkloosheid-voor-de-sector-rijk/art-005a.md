@@ -1,0 +1,8 @@
+# Artikel 5a
+1. De uitkering krachtens de Wet arbeid en zorg die betrokkene heeft, wordt
+a. in verband met haar zwangerschap en bevalling gedurende ten minste 16 weken aangevuld tot 100% van het voor haar geldende dagloon, en wel voor de periode
+1°. die aanvangt zes weken voor de dag na de vermoedelijke datum van bevalling, zoals aangegeven in een schriftelijke verklaring van een arts of verloskundige, tot en met de dag van de bevalling. Indien de betrokkene dat wenst, vangt het recht op uitkering in verband met zwangerschap aan op een later tijdstip, doch uiterlijk vier weken voor de dag na de vermoedelijk datum van bevalling; en
+2°. Het bevallingsverlof gaat in op de dag na de bevalling en bedraagt tien aaneengesloten weken vermeerderd met het aantal dagen dat het zwangerschapsverlof tot en met de vermoedelijke datum van bevalling, dan wel, indien eerder gelegen, tot en met de werkelijke datum van bevalling, minder dan zes weken heeft bedragen;
+b. in verband met adoptie gedurende ten hoogste vier aaneengesloten weken vanaf twee weken vóór de eerste dag dat de feitelijke opneming ter adoptie een aanvang heeft genomen of zal nemen, aangevuld tot 100% van het voor betrokkene geldende dagloon; of
+c. in verband met het opnemen van een pleegkind gedurende ten hoogste vier aaneengesloten weken vanaf twee weken vóór de eerste dag dat de feitelijke opneming van het pleegkind een aanvang heeft genomen of zal nemen, aangevuld tot 100% van het voor betrokkene geldende dagloon.
+2. Voor de toepassing van dit artikel wordt de uitkering krachtens de Wet arbeid en zorg steeds geacht onverminderd door betrokkene te zijn genoten.
