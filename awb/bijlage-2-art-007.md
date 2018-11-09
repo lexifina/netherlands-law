@@ -32,6 +32,7 @@ Warmtewet: artikel 18
 Wet bekostiging financieel toezicht
 Wet bestrijding maritieme ongevallen
 Wet bestrijding ongevallen Noordzee, voor zover het betreft een beschikking van Onze Minister, genomen op een verzoek om een tegemoetkoming als bedoeld in artikel 13, eerste lid
+Wet beveiliging netwerk- en informatiesystemen, voor zover het een besluit betreft dat betrekking heeft op een aanbieder van een essentiële dienst in de sectoren energie, digitale infrastructuur, bankwezen, infrastructuur voor de financiële markt, gezondheidszorg en spoor of op een digitaledienstverlener
 Wet dieren: artikel 8.7
 Wet financiële betrekkingen buitenland 1994
 Wet geneesmiddelenprijzen: artikel 11
