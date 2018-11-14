@@ -1,0 +1,2 @@
+# Artikel 3a. Recht op uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen
+Voor de verzekerde, bedoeld in artikel 45, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen, of zijn in hetzelfde land wonende gezinslid ontstaat of herleeft het recht op een uitkering op grond van die wet dan wel eindigt een dergelijke uitkering niet, indien de verzekerde werkzaamheden in het algemeen belang verricht.

@@ -1,0 +1,2 @@
+# Artikel 9a. Recht op uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen
+Voor de verzekerde, bedoeld in artikel 45, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen, ontstaat of herleeft het recht op een uitkering op grond van die wet dan wel eindigt een dergelijke uitkering niet, indien de verzekerde in Curaçao, Sint Maarten, Aruba of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont.
