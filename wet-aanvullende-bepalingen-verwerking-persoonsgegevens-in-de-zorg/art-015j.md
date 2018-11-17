@@ -1,0 +1,3 @@
+# Artikel 15j
+1. Bij algemene maatregel van bestuur kunnen regels worden gesteld over de functionele, technische en organisatorische maatregelen voor het beheer, de beveiliging en het gebruik van een zorginformatiesysteem of een elektronisch uitwisselingssysteem.
+2. De voordracht voor een algemene maatregel van bestuur als bedoeld in het eerste lid, wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd. Indien een der kamers der Staten-Generaal besluit niet in te stemmen met het ontwerp, wordt er geen voordracht gedaan en kan niet eerder dan zes weken na het besluit van die kamer der Staten-Generaal een nieuw ontwerp aan beide kamers der Staten-Generaal worden overgelegd.

@@ -4,3 +4,4 @@
 3. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de gronden waarop de in het eerste lid bedoelde aanwijzing kan worden gegeven, geschorst, ingetrokken dan wel gewijzigd.
 4. Aan een aanwijzing krachtens het eerste lid kunnen voorschriften worden verbonden.
 5. Onze Minister kan voor de uitvoering van de in het eerste en tweede lid bedoelde werkzaamheden maximumtarieven vaststellen.
+6. Op de ingevolge het eerste lid aangewezen instellingen is de Kaderwet zelfstandige bestuursorganen niet van toepassing, tenzij bij algemene maatregel van bestuur anders is bepaald.

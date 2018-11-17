@@ -4,3 +4,4 @@ a. de beoordeling van waren; of
 b. daarmee samenhangende werkzaamheden.
 2. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de gronden waarop de in het eerste lid bedoelde aanwijzing kan worden gegeven, geschorst, ingetrokken dan wel gewijzigd.
 3. Aan een aanwijzing krachtens het eerste lid kunnen voorschriften worden verbonden.
+4. Op de ingevolge het eerste lid aangewezen instantie is de Kaderwet zelfstandige bestuursorganen niet van toepassing, tenzij bij algemene maatregel van bestuur anders is bepaald.
