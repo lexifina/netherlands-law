@@ -10,7 +10,7 @@ g. «samenwerkingsverband van registerloodsen»: een loods als bedoeld in artike
 h. «lijk»: een lijk als bedoeld in de Begrafeniswet BES;
 i. «goed»: tastbaar product, met inbegrip van planten en met uitzondering van dieren, vervoermiddelen en lijken als bedoeld in de Begrafeniswet BES;
 j. «waar»: waar alsmede eet- en drinkwaar als bedoeld in artikel 1, onderdelen b en c, van de Warenwet BES;
-k. «last onder bestuursdwang»: bestuursdwang als bedoeld in artikel 58j, eerste lid;
+k. «last onder bestuursdwang»: bestuursdwang als bedoeld in artikel 68j, eerste lid;
 l. «burgerservicenummer»: het nummer van een geldig identiteitsdocument als bedoeld in artikel 2 van de Wet identificatieplicht BES;
 m. «ziekenhuis»: zorginstelling als bedoeld in artikel 1, onder k, van de Wet zorginstellingen BES;
 n. «verweerschrift als bedoeld in artikel 282, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering»: een verweerschrift als bedoeld in artikel 429h, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering BES;
