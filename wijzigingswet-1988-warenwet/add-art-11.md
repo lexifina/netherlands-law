@@ -1,0 +1,2 @@
+# Artikel XI
+De artikelen van deze wet treden in werking op een door Ons te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.

@@ -1,0 +1,2 @@
+# Artikel IX
+De tekst van de Warenwet wordt door Onze Minister van Volksgezondheid Volksgezondheid en Cultuur overgebracht in de wettelijke spelling, van een doorlopende nummering voorzien en door Onze Minister van Justitie in het Staatsblad geplaatst. De in de wetten genoemd in de artikelen III, IV, V, VI, VII, en VIII opgenomen verwijzingen naar de op grond van de eerste volzin vernummerde Warenwet, worden voorts door Onze Minister in overeenstemming gebracht met bedoelde vernummering.
