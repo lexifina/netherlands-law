@@ -1,0 +1,5 @@
+# Artikel 11a. Volledige schadevergoeding
+1. De nabestaanden van de militair, die op of na 1 juli 2007 overleden is, die als gevolg van dat overlijden aanspraak hebben op een voortdurend partner- of wezenpensioen als bedoeld in artikel 6, eerste lid, hebben recht op een volledige vergoeding van hun schade indien er verband bestaat tussen het overlijden van de militair en de verwonding, ziekten of gebreken die tot het recht op invaliditeitspensioen zouden hebben geleid.
+2. De aanspraak van de nabestaanden van de militair op een volledige schadevergoeding vervalt als aan de militair zelf reeds een volledige schadevergoeding als bedoeld in de artikelen 8a en 11 a van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen is toegekend.
+3. Bij de vaststelling van de omvang van de in het eerste lid bedoelde schadevergoeding wordt rekening gehouden met het totaal van de aanspraken van en uitkeringen aan de nabestaanden ingevolge het overlijden van de militair.
+4. Onze Minister kan nadere voorschriften geven ten aanzien van de uitvoering van dit artikel.
