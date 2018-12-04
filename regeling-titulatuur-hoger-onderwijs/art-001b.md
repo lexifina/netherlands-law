@@ -1,0 +1,2 @@
+# Artikel 1b. Vaststelling referentielijst internationale herkenbaarheid titulatuur hoger beroepsonderwijs
+De referentielijst internationale herkenbaarheid titulatuur hoger beroepsonderwijs, bedoeld in artikel 5a.2, lid 2a, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, en de graden met toevoegingen, bedoeld in artikel 7.19a, lid 3a, van deze wet, worden vastgesteld overeenkomstig de bijlage bij deze regeling.
