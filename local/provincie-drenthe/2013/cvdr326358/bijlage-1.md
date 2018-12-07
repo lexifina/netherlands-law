@@ -1,0 +1,19 @@
+# Bijlage 1
+## Bijlage Toelaatbare scheepsafmetingen
+Toegestane afmetingen van schepen op de provinciale vaarwegen in Drenthe
+Vaarweg | Kilometer | Toegestane lengte/breedte | Toegestane diepgang (dg) | Minste hoogte | Max. afmetingen van schepen bij overschrijding toegestane afmetingen | Enkele bijzondere voorwaarden waaronder ontheffing kan worden verleend
+1 Noord Willemskanaal | 0,0 - 6,7 6,7 - 19,6 | 65,00 x 6.60 m 65,00 x 7,30 m | 1,90 m - kp 2,50 m - kp | 5,30 m + kp 5,40 m + kp | Geen overschrijding mogelijk (i.v.m. sluisafmetingen) Geen overschrijding mogelijk (i.v.m. sluisafmetingen) | 
+2 Drentsche Hoofdvaart | 2,4 - 43,7 43,7 - 44,2 | 26,76 x 5,80 m 90,00 x 9,50 m | 1,55 + kp 2,50 m - NAP | 5,30 m + kp | Geen overschrijding mogelijk (i.v.m. sluisafmetingen) 100,0 x 10,50m; dg: 2,30m - NAP | Meldingsplicht Kaapbrug gemeente Meppel, actieve kopbesturing, eenrichtingsverkeer
+3 Witte Wijk | 52,9 - 55,0 | 28,00 x 5,00 m | 1,50 m - kp | 5,30 m + kp ** | Geen overschrijding mogelijk | 
+4 Meppelerdiep | 9,2 - 10,5 10,5 - 11,2 | 110,00 x 12,00 m 110,00 x 11,50 m | 3,25 m - NAP 2,75 m - NAP |  | Geen overschrijding mogelijk | Overeenkomstig "Binnenvaartpolitiereglement" bijlage 13 Meldingsplicht Kaapbrug gem. Meppel, actieve kopbesturing, eenrichtingsverkeer, max. 2 schepen 110,00 x 11,50 x 2,75 - NAP
+5 Hoogeveensche Vaart | 0,0 - 9,5 9,5 - 28,4 | 65,00 x 7,30 m 65,00 x 6,70 m | 2,50 m - NAP* 2,20 m - kp | 5,80 m + kp 5,20 m + kp | Geen overschrijding mogelijk (i.v.m. sluisafmetingen) 65,00 x 7.30 m; dg: 2,00 m - kp | Meldingsplicht Rogatsluis en Nieuwe Brugsluis, actieve kopbesturing, eenrichtingsverkeer
+6 Verlengde Hoogeveensche vaart | 28,4 - 51,8 51,8 - 56,5 56,5 - 60,9 60,9 - 62,0 | 40,00 x 5,85 m 40,00 x 5,85 m 40,00 x 5,85 m 40,00 x 5,85 m | 1,50 m - kp 1,90 m - kp 1,90 m - kp 1,10 m - kp | 5,10 m + kp 5,30 m + kp 4,20 m + kp 4,20 m + kp | Geen overschrijding mogelijk (i.v.m. sluisafmetingen) 50,00 x 6,60 m; dg: 1,75 m - kp Geen overschrijding mogelijk (i.v.m. sluisafmetingen) Geen overschrijding mogelijk (i.v.m. sluisafmetingen) | Meldingsplicht Stieltjeskanaalsluis of Oranjesluis/Ericasluis, actieve kopbesturing, eenrichtingsverkeer
+7 Bladderswijk | 0,0 - 4,4 | 40,00 x 5,85 m | 1,90 m - kp | 4,20 m + kp | Geen overschrijding mogelijk (i.v.m. sluisafmetingen) | 
+8 Vaartraject Erica - Ter Apel |  | 27,00 x 4,80 m 22,00 x 4,80 m | 1,50 m *** 1,30 m **** | 3,50 m + kp 3,50 m + kp | Geen overschrijding mogelijk Geen overschrijding mogelijk | 
+9 Zijtak van het Stieltjeskanaal | 41,0 - 43,0 | 40,00 x 5,80 m | 1,50 m + kp | 2,50 m + kp | Geen overschrijding toegestaan (doodlopend) | 
+10 Stieltjeskanaal | 0,0 - 12,9 | 40,00 x 5,85 m | 1,90 m + kp | 5,40 m + kp | 55,00 x 6,60 m; dg: 1,75 m - kp | Meldingsplicht Stieltjeskanaalsluit, actieve kopbesturing, eenrichtingsverkeer
+11 Coevorden - Vechtkanaal | 31,7 - 36,3 nieuw* | 63,00 x 6,60 m 55,00 x 6,60 m | 2,50 m - kp 2,10 m - kp | 6,00 m + kp ** 6,00 m + kp | Geen overschrijding toegestaan (knelpunten Overijsssel) | Meldingsplicht Moniersbrug, actieve kopbesturing, eenrichtingsverkeer
+12 Binnengracht (westelijk ged.) Coevorden | 0,0 - 0,8 nieuwe* | 40,00 x 5,85 m 55,00 x 6,60 m | 1,90 m - kp 2,00 m - kp | 6,00 m + kp ** 6,00 m + kp | 55,00x 6,60 m; dg: 1,75 m - kp vanaf 1 december 2013 | Meldingsplicht Moniersbrug, actieve kopbesturing, eenrichtingsverkeer
+13 Afwateringskanaal Coevorden | 0,0 - 1,4 nieuw * | 40,00 x 5,85 m 55,00 x 6,60 m | 1,90 m - kp 2,00 m - kp | 6,00 m + kp ** 6,00 m + kp | 55,00x 6,60 m; dg: 1,75 m - kp vanaf 1 december 2013 | Meldingsplicht Moniersbrug, actieve kopbesturing, eenrichtingsverkeer
+* Voor de Hoogeveense Vaart boven sluit Rogat geldt een diepgang van 2,50 m t.o.v. kanaalpeil (tot loswal ter hoogte van km 9,500)
+** Hoogte bepaald door aansluitend vaarwater
