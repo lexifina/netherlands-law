@@ -1,0 +1,2 @@
+# Artikel I
+Met inachtneming van artikel 4, zesde lid, van de Regeling subsidie zij-instroom wordt een bedrag van € 1.000.000 toegevoegd en naar evenredigheid verdeeld over de subsidieplafonds voor het kalenderjaar 2018, bedoeld in artikel 4, eerste lid, van de Regeling subsidie zij-instroom, zoals bekend gemaakt in de Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 2 maart 2018 (Stcrt. 2018, 11700), zoals gewijzigd bij de Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 12 oktober 2018 (Stcrt. 2018, 58330).
