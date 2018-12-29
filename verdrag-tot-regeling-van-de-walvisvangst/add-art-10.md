@@ -1,0 +1,6 @@
+# Article X
+1. This Convention shall be ratified and the instruments of ratification shall be deposited with the Government of the United States of America.
+2. Any Government which has not signed this Convention may adhere thereto after it enters into force by a notification in writing to the Government of the United States of America.
+3. The Government of the United States of America shall inform all other signatory Governments and all adhering Governments of all ratifications deposited and adherences received.
+4. This Convention shall, when instruments of ratification have been deposited by at least six signatory Governments, which shall include the Governments of the Netherlands, Norway, the Union of Soviet Socialist Republics, the United Kingdom of Great Britain and Northern Ireland, and the United States of America, enter into force with respect to those Governments and shall enter into force with respect to each Government which subsequently ratifies or adheres on the date of the deposit of its instrument of ratification or the receipt of its notification of adherence.
+5. The provisions of the Schedule shall not apply prior to 1st July, 1948. Amendments to the Schedule adopted pursuant to Article V shall not apply prior to 1st July, 1949.

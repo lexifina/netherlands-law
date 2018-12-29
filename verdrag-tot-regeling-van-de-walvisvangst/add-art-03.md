@@ -1,0 +1,9 @@
+# Article III
+1. The Contracting Governments agree to establish an International Whaling Commission, hereinafter referred to as the Commission, to be composed of one member from each Contracting Government. Each member shall have one vote and may be accompanied by one or more experts and advisers.
+2. The Commission shall elect from its own members a Chairman and Vice-Chairman and shall determine its own Rules of Procedure. Decisions of the Commission shall be taken by a simple majority of those members voting except that a three-fourths majority of those members voting shall be required for action in pursuance of Article V. The Rules of Procedure may provide for decisions otherwise than at meetings of the Commission.
+3. The Commission may appoint its own Secretary and staff.
+4. The Commission may set up, from among its own members and experts or advisers, such committees as it considers desirable to perform such functions as it may authorize.
+5. The expenses of each member of the Commission and of his experts and advisers shall be determined and paid by his own Government.
+6. Recognizing that specialized agencies related to the United Nations will be concerned with the conservation and development of whale fisheries and the products arising therefrom and desiring to avoid duplication of functions, the Contracting Governments will consult among themselves within two years after the coming into force of this Convention to decide whether the Commission shall be brought within the framework of a specialized agency related to the United Nations.
+7. In the meantime the Government of the United Kingdom of Great Britain and Northern Ireland shall arrange, in consultation with the other Contracting Governments, to convene the first meeting of the Commission, and shall initiate the consultation referred to in paragraph 6 above.
+8. Subsequent meetings of the Commission shall be convened as the Commission may determine.

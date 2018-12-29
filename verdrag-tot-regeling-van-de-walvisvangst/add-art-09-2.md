@@ -1,0 +1,5 @@
+# Artikel IX
+1. Iedere verdragsluitende Regering neemt de geëigende maatregelen om de toepassing van de bepalingen van dit Verdrag en de bestraffing van overtredingen van genoemde bepalingen te waarborgen gedurende de werkzaamheden, verricht door personen of schepen, die onder haar rechtsbevoegdheid vallen.
+2. Er mag geen premie of andere beloning, berekend naar de resultaten van hun werk, betaald worden aan harpoeniers of bemanningen van de jagers, voor walvissen, die op grond van dit Verdrag niet mogen worden gevangen.
+3. Bij inbreuk op of overtreding van dit Verdrag, wordt gerechtelijke vervolging ingesteld door de Regering, die hierover rechtsbevoegdheid heeft.
+4. Elke verdragsluitende Regering verstrekt aan de Commissie volledige bijzonderheden overeenkomstig de rapporten van haar inspecteurs omtrent iedere inbreuk op de bepalingen van dit Verdrag, gepleegd door personen of schepen, die onder de rechtsbevoegdheid van de betrokken Regering vallen. Deze gegevens moeten een verklaring inhouden betreffende de ten aanzien van de gepleegde inbreuk genomen maatregelen, alsmede de opgelegde straffen.
