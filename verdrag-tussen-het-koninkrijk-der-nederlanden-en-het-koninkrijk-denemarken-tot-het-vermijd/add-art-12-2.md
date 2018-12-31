@@ -1,0 +1,2 @@
+# XII. Ad artikel 24
+Het is wel verstaan dat de uitdrukking „werkzaamheden buitengaats" werkzaamheden omvat die worden verricht in een gebied waar exploratie of exploitatie plaatsvindt dat zich uitstrekt van een plaats buitengaats gelegen in die andere staat tot het gebied binnengaats van die staat, mits de binnengaats uitgevoerde activiteiten van bijkomstige aard zijn ten opzichte van de werkzaamheden buitengaats.
