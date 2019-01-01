@@ -18,4 +18,4 @@ Ingeval onderdeel a van toepassing is, kan de toevoeging van een belaste compart
 6. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld voor het geval waarin de belastingplichtige een belang heeft in een lichaam waarop artikel 13aa:
 a. op enig moment van toepassing wordt terwijl dat artikel tot dat moment niet van toepassing was op dit belang of een gedeelte daarvan, of
 b. op enig moment niet meer van toepassing is terwijl dat artikel tot dat moment wel van toepassing was op dit belang of een gedeelte daarvan.
-7. Het eerste tot en met zesde lid zijn niet van toepassing op voordelen als bedoeld in artikel 13, zeventiende lid.
+7. Het eerste tot en met zesde lid zijn niet van toepassing op voordelen als bedoeld in artikel 13, zeventiende en negentiende lid.
