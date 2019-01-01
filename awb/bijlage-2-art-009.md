@@ -7,9 +7,9 @@ c. een besluit over een gehandicaptenparkeerplaats voor een bepaald voertuig
 Algemene Kinderbijslagwet
 Algemene nabestaandenwet
 Algemene Ouderdomswet
-Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair onderwijs, voor zover het betreft een besluit van Onze Minister van Onderwijs, Cultuur en Wetenschap, dan wel Onze Minister van Economische Zaken
-Besluit Werkloosheid onderwijs- en onderzoekpersoneel, voor zover het betreft een besluit van Onze Minister van Onderwijs, Cultuur en Wetenschap, dan wel Onze Minister van Economische Zaken
-Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair onderwijs, voor zover het betreft een besluit van Onze Minister van Onderwijs, Cultuur en Wetenschap, dan wel Onze Minister van Economische Zaken
+Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair onderwijs, voor zover het betreft een besluit van Onze Minister van Onderwijs, Cultuur en Wetenschap
+Besluit Werkloosheid onderwijs- en onderzoekpersoneel, voor zover het betreft een besluit van Onze Minister van Onderwijs, Cultuur en Wetenschap
+Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair onderwijs, voor zover het betreft een besluit van Onze Minister van Onderwijs, Cultuur en Wetenschap
 Kaderwet SZW-subsidies, voor zover het betreft een ministeriële regeling op grond van artikel 9
 Liquidatiewet Ongevallenwetten,met uitzondering van artikel 24, eerste lid
 Participatiewet, met uitzondering van de artikelen 52, 76, eerste en tweede lid, en 81 en paragraaf 6.5

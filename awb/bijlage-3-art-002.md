@@ -16,10 +16,10 @@ c. de Wet op de belasting van personenauto's en motorrijwielen 1992
 d. de Wet op de accijns
 e. de Wet op de verbruiksbelasting van alcoholvrije dranken
 f. de Wet belastingen op milieugrondslag
-Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair onderwijs, voor zover het betreft besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap, dan wel Onze Minister van Economische Zaken
+Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair onderwijs, voor zover het betreft besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap
 Besluit van 20 juni 1984, houdende vaststelling van een algemene maatregel van bestuur regelende de vergoeding van motorrijtuigenbelasting voor oorlogsgetroffenen (Stb. 1984, 364)
-Besluit Werkloosheid onderwijs- en onderzoekpersoneel, voor zover het betreft besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap, dan wel Onze Minister van Economische Zaken
-Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair onderwijs, voor zover het betreft besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap, dan wel Onze Minister van Economische Zaken
+Besluit Werkloosheid onderwijs- en onderzoekpersoneel, voor zover het betreft besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap
+Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair onderwijs, voor zover het betreft besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap
 Garantiewet Burgerlijk Overheidspersoneel Indonesië, met inbegrip van een besluit op grond van de Algemene oorlogsongevallenregeling
 Garantiewet Militairen K.N.I.L.
 Garantiewet Surinaamse pensioenen

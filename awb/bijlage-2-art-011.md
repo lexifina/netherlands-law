@@ -48,7 +48,7 @@ Wet luchtvaart: artikel 11.24
 Wet marktordening gezondheidszorg, voor zover het betreft een besluit van de Nederlandse Zorgautoriteit als bedoeld in hoofdstuk 6, paragraaf 4
 Wet op de inlichtingen- en veiligheidsdiensten 2017: artikel 53, zevende lid
 Wet op het financieel toezicht, met uitzondering van:
-a. de artikelen 3A:17 tot en met 3A:19
+a. de artikelen 3A:17 tot en met 3A:19, 3A:85 en 3A:86
 b. hoofdstuk 5.1 en de artikelen 5:77, eerste lid, en 5:81, derde lid
 c. een besluit terzake van het ingevolge artikel 5:76, tweede lid, of 5:80b, vijfde lid, bepaalde, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in artikel 1:80
 d. de artikelen 6:1 en 6:2
@@ -59,7 +59,7 @@ Wet schadefonds olietankschepen
 Wet ter voorkoming van witwassen en financieren van terrorisme
 Wet toezicht accountantsorganisaties
 Wet toezicht financiële verslaggeving
-Wet toezicht trustkantoren
+Wet toezicht trustkantoren 2018
 Wet van 12 juli 2012 tot wijziging van de Elektriciteitswet 1998 en van de Gaswet (implementatie van richtlijnen en verordeningen op het gebied van elektriciteit en gas) (Stb. 2012, 334): artikel XX
 Wet van 23 november 2006 tot wijziging van de Elektriciteitswet 1998 en van de Gaswet in verband met nadere regels omtrent een onafhankelijk netbeheer ( Stb. 2006, 614 )
 Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen: een besluit genomen door een van de in artikel 30, eerste lid, genoemde bestuursorganen, waarin toepassing of mede toepassing is gegeven aan artikel 26

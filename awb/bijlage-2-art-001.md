@@ -25,7 +25,7 @@ e. de artikelen 169, derde lid, 180, derde lid, en 234, tweede lid, onderdeel a
 f. artikel 268, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging
 g. artikel 278, voor zover het betreft de weigering om een voordracht tot vernietiging te doen
 h. de artikelen 278a, vierde lid, en 281, tweede lid, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep niet wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep niet wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
-Geneesmiddelenwet: artikel 17
+Geneesmiddelenwet: artikel 17, onderdeel a
 Gerechtsdeurwaarderswet: artikel 3a, tweede lid
 Instellingswet Autoriteit Consument en Markt: artikel 12h, eerste lid, voor zover de aanvraag is afgewezen
 Invorderingswet 1990, met uitzondering van de artikelen 30, 49 en 62a
@@ -71,7 +71,7 @@ c. artikel 5.2a, tweede lid, betreffende de toepassing van artikel 124 van de Ge
 d. artikel 5.2a, derde lid, betreffende de toepassing van hoofdstuk XVIII van de Provinciewet, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging en voor zover het betreft de weigering om een voordracht tot vernietiging te doen
 e. artikel 5.2a, vierde lid, betreffende de toepassing van hoofdstuk XVII van de Gemeentewet, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging en voor zover het betreft de weigering om een voordracht tot vernietiging te doen
 f. artikel 5.8, eerste lid, laatste volzin
-Wet bekostiging financieel toezicht: een besluit omtrent de goedkeuring als bedoeld in de artikelen 3 en 6
+Wet bekostiging financieel toezicht 2019: een besluit omtrent de goedkeuring als bedoeld in de artikelen 6 en 9
 Wet bijzondere opneming in psychiatrische ziekenhuizen
 Wet bodembescherming: artikel 43, voor zover het betreft de afwijzing van een verzoek
 Wet College voor de rechten van de mens, met uitzondering van de artikelen 14 tot en met 18
@@ -103,9 +103,9 @@ Wet op de rechterlijke organisatie: de artikelen 46a, eerste lid, 62a, eerste li
 Wet opheffing particuliere banken van leening: artikel 2
 Wet op het financieel toezicht:
 a. een bindende aanbeveling van een toezichthouder aan de andere toezichthouder
-b. de artikelen 1:75, eerste en tweede lid, 1:76, eerste en derde lid, en 3:159d, tweede lid, indien de Nederlandsche Bank een mededeling als bedoeld in artikel 3:159d, eerste lid, heeft gedaan, met dien verstande dat de mogelijkheid van beroep na verloop van twee maanden, gerekend vanaf de dag waarop de mededeling is gedaan, herleeft, indien de Nederlandsche Bank binnen die twee maanden geen verzoek als bedoeld in artikel 3:159u, eerste lid, of 3:160, eerste lid, of een verzoek als bedoeld in artikel 212ha, eerste lid, of 213aa, eerste lid, van de Faillissementswet, noch een nieuwe mededeling als bedoeld in artikel 3:159d, eerste lid, heeft gedaan
-c. artikel 3:159u
-d. artikel 3A:56
+b. de artikelen 1:75, eerste en tweede lid, en 1:76, eerste en derde lid
+c. artikel 3A:56
+d. artikel 3A:127
 e. de artikelen 6:1 en 6:2, voor zover het betreft een weigering om een besluit te nemen of het niet tijdig nemen van een besluit
 Wet op het hoger onderwijs en wetenschappelijk onderzoek: artikel 7.61
 Wet op het primair onderwijs: artikel 140, vierde lid, zolang de gemeenteraad de aanvulling nog niet heeft bekrachtigd

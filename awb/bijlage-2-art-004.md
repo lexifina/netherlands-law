@@ -57,8 +57,8 @@ Wet geneesmiddelenprijzen, met uitzondering van artikel 11 en met inbegrip van e
 Wet gewasbeschermingsmiddelen en biociden, met uitzondering van de artikelen 90 en 108
 Wet implementatie EU-richtlijnen energie-efficiëntie, met uitzondering van de artikelen 21 en 22
 Wet inkomstenbelasting 2001:
-a. de artikelen 3.37, eerste lid, en 3.42, eerste lid, voor zover het betreft een besluit van Onze Minister van Economische Zaken, en
-b. artikel 3.52a, eerste, tweede en elfde lid, voor zover het betreft een besluit van Onze Minister van Economische Zaken, met uitzondering van een boetebesluit als bedoeld in het elfde lid en een daarmee samenhangende correctie-RDA-beschikking als bedoeld in het tweede lid
+a. de artikelen 3.37, eerste lid, en 3.42, eerste lid, voor zover het betreft een besluit van Onze Minister van Economische Zaken en Klimaat, en
+b. artikel 3.52a, eerste, tweede en elfde lid, voor zover het betreft een besluit van Onze Minister van Economische Zaken en Klimaat, met uitzondering van een boetebesluit als bedoeld in het elfde lid en een daarmee samenhangende correctie-RDA-beschikking als bedoeld in het tweede lid
 Wet langdurige zorg: artikel 11.4.1 en artikel 11.4.2
 Wet luchtvaart: de artikelen 8.25ea, vierde lid, 8.25f, tweede, vierde en vijfde lid, en 8.25g, eerste lid
 Wet marktordening gezondheidszorg, met uitzondering van beschikkingen van de Nederlandse Zorgautoriteit als bedoeld in paragraaf 4 van hoofdstuk 6
@@ -67,7 +67,7 @@ Wet nationaliteit zeeschepen in rompbevrachting
 Wet op de architectentitel, met inbegrip van een besluit inzake een aanwijzing als bedoeld in de artikelen 9, eerste lid, onderdeel j, 10, eerste lid, onderdeel f, 11, eerste lid, onderdeel f, en 12, eerste lid, onderdeel f, dat kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in artikel 8:3, eerste lid, van de Algemene wet bestuursrecht, tenzij het betreft een besluit als bedoeld in artikel 8:4, derde lid, onderdeel b, van de Algemene wet bestuursrecht
 Wet op het accountantsberoep
 Wet op het financieel toezicht:
-a. artikel 1:26, eerste en tweede lid, de artikelen 3A:17 tot en met 3A:19, hoofdstuk 5.1 en de artikelen 5:77, eerste lid, en 5:81, derde lid
+a. artikel 1:26, eerste en tweede lid, de artikelen 3A:17 tot en met 3A:19, 3A:85 en 3A:86hoofdstuk 5.1 en de artikelen 5:77, eerste lid, en 5:81, derde lid
 b. een besluit terzake van het ingevolge artikel 5:76, tweede lid, of 5:80b, vijfde lid, bepaalde, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in artikel 1:80
 Wet personenvervoer 2000, met uitzondering van de artikelen 56, eerste lid, 59, eerste lid, 94, eerste lid, en 96, eerste lid
 Wet terugvordering staatssteun: artikel 3
@@ -76,7 +76,7 @@ Wet verbod pelsdierhouderij
 Wet van 22 juni 1994 tot wijziging van het Burgerlijk Wetboek, het Wetboek van Burgerlijke Rechtsvordering, het Wetboek van Koophandel en de Wet nationaliteit zeeschepen in rompbevrachting (wijziging voorwaarden nationaliteitsverlening en registratie zeeschepen) (Stb. 1994, 507): een verklaring als bedoeld in artikel V, eerste lid
 Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen: een besluit genomen door een van de in artikel 30, eerste lid, genoemde bestuursorganen, tenzij toepassing of mede toepassing is gegeven aan artikel 26
 Wet vervoer over zee
-Wet voorraadvorming aardolieproducten 2012, met uitzondering van artikel 26 en met inbegrip van een besluit van Onze Minister van Economische Zaken, Landbouw en Innovatie dat is genomen op grond van een bilateraal akkoord en betrekking heeft op het niet in Nederland aanhouden van een wettelijke voorraad
+Wet voorraadvorming aardolieproducten 2012, met uitzondering van artikel 26 en met inbegrip van een besluit van Onze Minister van Economische Zaken en Klimaat dat is genomen op grond van een bilateraal akkoord en betrekking heeft op het niet in Nederland aanhouden van een wettelijke voorraad
 Wet wegvervoer goederen
 Wet windenergie op zee: artikelen 15, vierde lid, 16, 17, 21, tweede lid, en 25
 Wetboek van Koophandel: artikel 311a
