@@ -1,0 +1,3 @@
+# Artikel 11a
+1. De ambtenaar die op 1 september 2015 en in de maand juni 2014 in dienst was en in de maand juni 2014 geen tegemoetkoming in de kosten van het dagelijks reizen tussen de woning en de plaats van tewerkstelling als bedoeld in artikel 12a of 12b van het Verplaatingskostenbesluit 1989 ontving, heeft aanspraak op een eenmalige tegemoetkoming van € 50.
+2. Geen aanspraak op de eenmalige tegemoetkoming bestaat voor de ambtenaar die geen tegemoetkoming in de kosten van het dagelijks reizen tussen de woning en de plaats van tewerkstelling ontving omdat hem een dienstauto als bedoeld in artikel 1, onderdeel d, van het Besluit betaling emolumenten burgerlijk rijkspersoneel, ter beschikking was gesteld.
