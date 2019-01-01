@@ -1,0 +1,3 @@
+# Artikel XII. Inwerkingtreding
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van artikel IX.
+2. Indien artikel I, onderdelen B en D, van de Wet van 6 december 2017 tot wijziging van het Wetboek van Strafvordering en de Wet op de economische delicten strekkende tot aanpassing van enkele bepalingen betreffende de uitvoering van bijzondere opsporingsbevoegdheden en tot regeling van enkele bijzondere procedures van strafvorderlijke aard en aanverwante onderwerpen met het oog op een doeltreffende uitvoeringspraktijk in werking treedt of is getreden, treedt artikel IX van dit besluit in werking.
