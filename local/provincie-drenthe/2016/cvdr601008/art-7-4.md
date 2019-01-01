@@ -1,2 +1,0 @@
-# Artikel 7.4,. Intrekking Verordening nazorgheffing stortplaatsen provincie Drenthe
-De Verordening nazorgheffing stortplaatsen provincie Drenthe, zoals vastgesteld bij besluit van 30 maart 1990 en zoals nadien gewijzigd, wordt ingetrokken met ingang van de in artikel 8.2 genoemde datum van ingang van de heffing, met dien verstande dat zij van toepassing blijft op de belastbare feiten die zich voor die datum hebben voorgedaan.

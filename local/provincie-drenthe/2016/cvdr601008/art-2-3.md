@@ -1,2 +1,0 @@
-# Artikel 2.3,. Belastingplicht
-Belastingplichtig is de houder van een inrichting die meldingplichtig dan wel vergunningplichtig is.

@@ -1,2 +1,0 @@
-# Artikel 7.2,. Intrekking Verordening Heffing Lijst der Geldelijke Regelingen
-De Verordening Heffing Lijst der Geldelijke Regelingen, zoals vastgesteld bij besluit van 11 maart 2015 en zoals nadien gewijzigd, wordt ingetrokken met ingang van de in artikel 8.2 genoemde datum van ingang van de heffing, met dien verstande dat zij van toepassing blijft op de belastbare feiten die zich voor die datum hebben voorgedaan.
