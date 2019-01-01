@@ -6,7 +6,7 @@
 ## Hoofdstuk 6A. Disciplinaire maatregelen, schorsing en ontslag
 ### § 6A.1. Algemeen
 ### § 6A.2. Disciplinaire maatregelen
-### § 6A.3. Schorsing
+### § 6A.3. Schorsing als ordemaatregel
 ### § 6A.4. Ontslag en herplaatsing
 ### § 6A.5. Procedure bij de Hoge Raad
 ## Hoofdstuk 7. Beroep

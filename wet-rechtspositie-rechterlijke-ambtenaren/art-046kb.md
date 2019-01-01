@@ -1,0 +1,2 @@
+# Artikel 46kb
+Ten aanzien van een rechterlijk ambtenaar kan, bij wijze van ordemaatregel en om redenen van zwaarwegend organisatorisch belang van het gerecht waar de rechterlijk ambtenaar op dat moment is geplaatst, door de Hoge Raad, op voorstel van de functionele autoriteit in een verzoek als bedoeld in artikel 46o, tweede lid, de vaststelling, bedoeld in artikel 5b, eerste lid, van het gerechtshof of de rechtbank waar het ambt bij wordt vervuld, worden gewijzigd.

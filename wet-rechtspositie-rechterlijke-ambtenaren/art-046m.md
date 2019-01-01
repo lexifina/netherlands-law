@@ -1,5 +1,6 @@
 # Artikel 46m
 De rechterlijk ambtenaar kan door de Hoge Raad worden ontslagen, indien hij:
 a. bij onherroepelijk geworden rechterlijke uitspraak wegens misdrijf is veroordeeld dan wel hem bij een dergelijke uitspraak een maatregel is opgelegd die vrijheidsbeneming tot gevolg heeft;
-b. bij onherroepelijk geworden rechterlijke uitspraak onder curatele is gesteld, in staat van faillissement is verklaard, ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, hij surséance van betaling heeft verkregen, dan wel wegens schulden is gegijzeld;
-c. als raadsheer- of rechter-plaatsvervanger gedurende een termijn van twee jaar niet is opgeroepen voor het verrichten van werkzaamheden als bedoeld in artikel 5f, tweede lid, en gedurende die termijn evenmin aangesteld is geweest of tijdelijk is aangewezen als bedoeld in artikel 5f, eerste of derde lid.
+b. een onherroepelijke strafbeschikking opgelegd heeft gekregen wegens het plegen van een misdrijf;
+c. bij onherroepelijk geworden rechterlijke uitspraak onder curatele is gesteld, in staat van faillissement is verklaard, ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, hij surseance van betaling heeft verkregen, dan wel wegens schulden is gegijzeld;
+d. als raadsheer- of rechter-plaatsvervanger gedurende een termijn van twee jaar niet is opgeroepen voor het verrichten van werkzaamheden als bedoeld in artikel 5f, tweede lid, en gedurende die termijn evenmin aangesteld is geweest of tijdelijk is aangewezen als bedoeld in artikel 5f, eerste of derde lid.
