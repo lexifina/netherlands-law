@@ -1,0 +1,3 @@
+# Artikel 3a
+1. Degene die planten, behorende tot door Onze Minister aangewezen soorten of groepen, bedrijfsmatig teelt is verplicht jaarlijks overeenkomstig door Onze Minister te stellen regelen opgave te doen van door hem met die planten te betelen terreinen en plaatsen.
+2. Degene die planten, behorende tot door Onze Minister aangewezen soorten of groepen, al dan niet bedrijfsmatig verhandelt is verplicht jaarlijks overeenkomstig door Onze Minister te stellen regelen opgave te doen van de terreinen en gebouwen welke hij gebruikt voor opslag, bewerking en het ter verzending gereedmaken van die planten.
