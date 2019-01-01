@@ -1,0 +1,2 @@
+# Artikel 8b
+Bij ministeriële regeling kunnen ten aanzien van de verboden, bedoeld in artikel 11, eerste lid, van het SPAW-protocol, vrijstellingen worden verleend als bedoeld in artikel 11, tweede lid, en artikel 14 van dat protocol, nadat de Wetenschappelijke en Technische Raadgevende Commissie in evengenoemd artikel 11, tweede lid, de gegrondheid van de te verlenen vrijstellingen positief heeft beoordeeld.
