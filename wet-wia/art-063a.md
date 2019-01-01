@@ -1,7 +1,7 @@
 # Artikel 63a. Tegemoetkoming arbeidsongeschikten
 1. De persoon die op 1 juli van het kalenderjaar recht heeft op een arbeidsongeschiktheidsuitkering of een WGA-uitkering, heeft recht op een tegemoetkoming.
-2. De persoon, bedoeld in het eerste lid, ontvangt per kalenderjaar een tegemoetkoming van € 177,68.
-3. Het bedrag, genoemd in het tweede lid, wordt jaarlijks per 1 januari gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in artikel 10.2 van de Wet inkomstenbelasting 2001. Het gewijzigde bedrag wordt door of namens Onze Minister bekend gemaakt in de Staatscourant.
+2. De persoon, bedoeld in het eerste lid, ontvangt per kalenderjaar een tegemoetkoming van € 179,81.
+3. Het bedrag, genoemd in het tweede lid, wordt jaarlijks per 1 januari gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in artikel 10.2 van de Wet inkomstenbelasting 2001. Het gewijzigde bedrag wordt door of namens Onze Minister medegedeeld in de Staatscourant.
 4. In afwijking van het derde lid kan het bedrag, genoemd in het tweede lid, bij algemene maatregel van bestuur met ingang van een bij die maatregel aan te geven datum worden vervangen door een ander bedrag.
 5. Het UWV verstrekt de tegemoetkoming ambtshalve in het derde kwartaal van het kalenderjaar.
 6. De tegemoetkoming is niet vatbaar voor beslag.
