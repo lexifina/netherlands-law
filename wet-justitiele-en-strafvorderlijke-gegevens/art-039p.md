@@ -1,3 +1,3 @@
 # Artikel 39p
-1. Het College van procureurs-generaal kan voor een mededeling als bedoeld in de artikelen 39i, eerste lid, en 39j, tweede lid, een kostenvergoeding verlangen die niet hoger is dan een bij of krachtens algemene maatregel van bestuur vast te stellen bedrag. Daarbij wordt tevens de wijze van betaling bepaald.
-2. De vergoeding wordt teruggegeven ingeval het College van procureurs-generaal op verzoek van betrokkene, op aanbeveling van het College bescherming persoonsgegevens of op bevel van de rechter, tot verbetering, aanvulling, verwijdering of afscherming is overgegaan of het verzoek wordt geweigerd ingevolge artikel 39l.
+1. De verstrekking van de informatie, bedoeld in de artikelen 39i, eerste lid, en 39m, eerste lid, geschiedt kosteloos.
+2. In het geval van een kennelijk ongegrond of buitensporig verzoek, met name vanwege de geringe tussenpozen tussen opéénvolgende verzoeken, kan het College van procureurs-generaal voor de verstrekking van de informatie, bedoeld in het eerste lid, weigeren gevolg te geven aan het verzoek.

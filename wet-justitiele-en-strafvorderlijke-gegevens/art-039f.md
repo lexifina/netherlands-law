@@ -10,4 +10,4 @@ g. het verrichten van een privaatrechtelijke rechtshandeling door een persoon of
 2. Het College van procureurs-generaal kan slechts strafvorderlijke gegevens aan personen of instanties als bedoeld in het eerste lid verstrekken, voorzover die gegevens voor die personen of instanties:
 a. noodzakelijk zijn met het oog op een zwaarwegend algemeen belang of de vaststelling, de uitoefening of de verdediging van een recht in rechte, en
 b. in zodanige vorm worden verstrekt dat herleiding tot andere personen dan betrokkene, redelijkerwijs wordt voorkomen.
-3. De artikelen 8, vierde lid, en 9, eerste lid, tweede volzin, zijn van overeenkomstige toepassing.
+3. Artikel 9, eerste lid, tweede volzin, is van overeenkomstige toepassing.

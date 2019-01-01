@@ -1,0 +1,7 @@
+# Artikel 26a
+1. Onverminderd bestaande rechtsmiddelen heeft iedere betrokkene het recht een klacht in te dienen bij de Autoriteit persoonsgegevens, indien de betrokkene van mening is dat de verwerking van hem betreffende justitiële gegevens niet in overeenstemming is met het bij of krachtens deze wet bepaalde.
+2. Indien de Autoriteit persoonsgegevens niet bevoegd is op grond van artikel 27, eerste lid, zendt zij de klacht zonder onnodige vertraging door aan de autoriteit in een andere lidstaat van de Europese Unie die bevoegd is tot het uitoefenen van het toezicht. De betrokkene wordt van de doorzending in kennis gesteld.
+3. Op verzoek van de betrokkene verleent de Autoriteit persoonsgegevens verdere bijstand.
+4. De Autoriteit persoonsgegevens faciliteert het indienen van klachten door maatregelen te nemen, zoals het ter beschikking stellen van een klachtformulier dat ook elektronisch kan worden ingevuld, zonder dat andere communicatiemiddelen worden uitgesloten.
+5. De Autoriteit persoonsgegevens neemt binnen drie maanden een beslissing op een klacht als bedoeld in het eerste lid. Een beslissing op een klacht geldt als een besluit in de zin van de Algemene wet bestuursrecht.
+6. In het geval van een kennelijk ongegronde of buitensporige klacht, met name vanwege de geringe tussenpozen tussen opéénvolgende klachten, kan de Autoriteit persoonsgegevens weigeren gevolg te geven aan de klacht.

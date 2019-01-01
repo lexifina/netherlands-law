@@ -1,0 +1,4 @@
+# Artikel 51a
+1. Onze Minister dan wel het College van procureurs-generaal verwerkt tenuitvoerleggingsgegevens, indien dit noodzakelijk is voor een goede vervulling van een wettelijke taak of het nakomen van een andere wettelijke verplichting.
+2. De directeur van een penitentiaire inrichting of afdeling, het hoofd van een inrichting voor verpleging van ter beschikking gestelden of de directeur van een justitiële jeugdinrichting, voert het beheer over de tenuitvoerleggingsgegevens inzake vrijheidsbenemende straffen of maatregelen bij de uitvoering waarvan hij betrokken is.
+3. Het hoofd van een arrondissementsparket, het landelijk parket, het functioneel parket, het parket centrale verwerking openbaar ministerie of het ressortsparket voert het beheer over de tenuitvoerleggingsgegevens waarvoor het College van procureurs-generaal verwerkingsverantwoordelijke is.
