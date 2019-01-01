@@ -1,6 +1,6 @@
 # Artikel 32bb
 1. In afwijking in zoverre van het overigens bij of krachtens deze wet bepaalde, wordt een door een inhoudingsplichtige aan een werknemer toegekende vertrekvergoeding als bedoeld in het vierde lid voor zover die vergoeding meer bedraagt dan het toetsloon, bedoeld in het derde lid, van de werknemer, aangemerkt als loon dat als een eindheffingsbestanddeel wordt belast naar een tarief van 75%.
-2. Dit artikel is niet van toepassing ingeval het toetsloon van de werknemer niet meer bedraagt dan € 544.000.
+2. Dit artikel is niet van toepassing ingeval het toetsloon van de werknemer niet meer bedraagt dan € 551.000.
 3. Voor de toepassing van dit artikel wordt onder het toetsloon van een werknemer verstaan:
 a. ingeval de dienstbetrekking is aangevangen vóór of met het begin van het tweede kalenderjaar voorafgaande aan het kalenderjaar waarin de dienstbetrekking is beëindigd: het loon dat de werknemer in dat tweede voorafgaande kalenderjaar heeft genoten van de inhoudingsplichtige;
 b. ingeval de dienstbetrekking is aangevangen in het tweede kalenderjaar voorafgaande aan het kalenderjaar waarin de dienstbetrekking is beëindigd: het tot een jaarloon herleide bedrag van het loon dat de werknemer in dat tweede voorafgaande kalenderjaar heeft genoten van de inhoudingsplichtige;
