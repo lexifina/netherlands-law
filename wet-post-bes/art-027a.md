@@ -1,0 +1,3 @@
+# Artikel 27a
+1. Een concessie die is verleend krachtens artikel 2, eerste lid, van Postlandsverordening 1998, wordt gelijkgesteld met een concessie verleend krachtens artikel 2, eerste lid, en heeft een geldigheidsduur tot 31 december 2012. Indien het belang van de continuïteit van de postvoorziening dat vordert kan de concessie eenmaal met een periode van maximaal 3 jaar worden verlengd. Aan de verlenging kunnen voorwaarden worden verbonden.
+2. Voor de houder van een concessie als bedoeld in het eerste lid blijft het bepaalde bij of krachtens de artikelen 3 en 5 van Postlandsverordening 1998 van toepassing met dien verstande dat nieuwe concessievoorwaarden kunnen worden gegeven en bestaande voorwaarden kunnen worden gewijzigd.
