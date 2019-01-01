@@ -1,0 +1,2 @@
+# Artikel VIIIa
+Artikel 9, eerste lid, onderdeel h, en derde lid, van de Wet op de vennootschapsbelasting 1969 en de daarop berustende bepalingen, zoals dat artikel en die bepalingen luidden op 31 december 2006, blijven tot en met 31 december 2009 van toepassing met betrekking tot vóór 24 mei 2006 aan personeel toegekende rechten om aandelen of winstbewijzen te verwerven en daarmee gelijk te stellen rechten.

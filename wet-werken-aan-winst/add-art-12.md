@@ -1,0 +1,2 @@
+# Artikel XII
+Ingeval ten aanzien van een belastingplichtige voor de inwerkingtreding van deze wet een beschikking is vastgesteld krachtens artikel 14, tweede lid, artikel 14a, derde lid, of artikel 14b, derde lid, van de Wet op de vennootschapsbelasting 1969, zoals die artikelen luidden op 31 december 2006, worden de in die beschikking gestelde voorwaarden voor zover die betrekking hebben op de wettelijke termijnen voor verliesverrekening geacht te zijn vervangen door de wettelijke termijnen voor verliesverrekening zoals die gelden na inwerkingtreding van deze wet.
