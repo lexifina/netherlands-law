@@ -1,7 +1,7 @@
 # Artikel 19a. Onderwijsvoorzieningen voor jongeren met een handicap
 1. Het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in artikel 1 van de Wet structuur uitvoeringsorganisatie werk en inkomen, heeft tot taak te bevorderen dat belemmeringen worden weggenomen die de ingezetene, bedoeld in artikel 1:2 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, vanwege ziekte of gebrek ondervindt bij het volgen van onderwijs, indien het een persoon betreft die:
 a. jonger is dan 17 jaar;
-b. studerende is als bedoeld in artikel 1:4 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;
+b. studerende is als bedoeld in artikel 1:4 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, met dien verstande dat een jonggehandicapte als bedoeld in de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten die een levenlanglerenkrediet ontvangt als bedoeld in de Wet studiefinanciering 2000 voor de toepassing van deze wet eveneens als studerende wordt aangemerkt;
 c. jonger is dan 30 jaar en uitsluitend vanwege zijn ziekte of gebrek niet kan worden aangemerkt als studerende bedoeld in artikel 1:4 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
 2. Het Uitvoeringsinstituut werknemersverzekeringen kan op aanvraag van degene, bedoeld in het eerste lid, toekennen:
 a. voorzieningen die hem in staat stellen onderwijs te volgen, en
