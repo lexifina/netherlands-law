@@ -4,5 +4,5 @@ a. dit volgt uit een verdrag als bedoeld in artikel 93 van de richtlijn herstel 
 b. dit volgt uit een verdrag waarbij Nederland en de betreffende staat partij zijn;
 c. dit volgt uit een besluit van een Europees afwikkelingscollege als bedoeld in artikel 94, tweede lid, van die richtlijn, tenzij de Nederlandsche Bank overeenkomstig artikel 95 van die richtlijn anders beslist; of
 d. dit volgt uit een besluit van de Nederlandsche Bank overeenkomstig artikel 94, derde lid, van die richtlijn.
-2. Voor zover noodzakelijk voor de tenuitvoerlegging van een besluit als bedoeld in het eerste lid, beschikt de Nederlandsche Bank over de bevoegdheden in de afdelingen 3A.2.3 tot en met 3A.2.8.
+2. Voor zover noodzakelijk voor de tenuitvoerlegging van een besluit als bedoeld in het eerste lid, beschikt de Nederlandsche Bank over de bevoegdheden in de afdelingen 3A.1.3 tot en met 3A.1.8.
 3. Het eerste en tweede lid laten toepassing van de titels I en II van de Faillissementswet en van afdeling 3.5.5 van deze wet onverlet.

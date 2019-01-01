@@ -1,5 +1,5 @@
 # Artikel 3a:1. Definities
-In dit deel en de daarop berustende bepalingen wordt verstaan onder:
+In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 a. het instrument van overgang van de onderneming als bedoeld in artikel 3A:28;
 b. het instrument van de overbruggingsinstelling als bedoeld in artikel 3A:37;
 c. het instrument van afsplitsing van activa en passiva als bedoeld in artikel 3A:41; en

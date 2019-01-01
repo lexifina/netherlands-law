@@ -1,0 +1,4 @@
+# Artikel 212hgc
+1. Zodra de overgang van rechten en verplichtingen heeft plaatsgevonden, maakt de curator de overgang en, ingeval de overeenkomst is gewijzigd, de wijzigingen bekend door plaatsing in de Staatscourant en in ten minste drie dagbladen die door de rechtbank kunnen zijn aangewezen. Ingeval de rechtbank geen dagbladen heeft aangewezen, kan de curator de overgang en de wijzigingen ook op andere wijze bekendmaken.
+2. De overdracht en de wijzigingen worden ten aanzien van alle andere belanghebbenden dan de bank en de derde van kracht met ingang van de tweede dag, volgende op die van de dagtekening van de Staatscourant waarin de bekendmaking is geplaatst.
+3. De Nederlandsche Bank N.V. deelt de overdracht en de wijzigingen mede aan de toezichthoudende instanties waar een bijkantoor van de bank is gelegen of waarnaar hij diensten verricht vanuit zijn vestigingen in lidstaten.

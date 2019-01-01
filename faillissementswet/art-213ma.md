@@ -1,0 +1,11 @@
+# Artikel 213ma
+1. De curator vraagt de rechter-commissaris toestemming voor het doen van tussentijdse periodieke uitkeringen onderscheidenlijk een eenmalige uitkering voorafgaand aan de slotuitdeling, op opeisbare vorderingen:
+a. betreffende uitkeringen, ontstaan krachtens overeenkomsten van levensverzekering;
+b. ontstaan krachtens overeenkomsten van schadeverzekering betreffende uitkeringen ter zake van letsel, ziekte of overlijden van natuurlijke personen;
+c. betreffende reeds vervallen termijnen ter zake van pensioenen, toegezegd aan werknemers of gewezen werknemers van de verzekeraar of aan hun nabestaanden;
+d. ontstaan krachtens overeenkomsten van verzekering anders dan die, bedoeld in de onderdelen a tot en met c, indien deze het bedrag van € 12.500 te boven gaan, en indien het verzekerde risico zich heeft verwezenlijkt voorafgaand aan de negentigste dag na de faillietverklaring.
+2. Onder een vordering als bedoeld in het eerste lid wordt mede verstaan een vordering die een begunstigde heeft doordat hij voorafgaand aan de faillietverklaring gebruik heeft gemaakt van zijn recht de verzekering of het pensioen geheel of gedeeltelijk door de verzekeraar te doen afkopen.
+3. De curator doet het verzoek, bedoeld in het eerste lid, met betrekking tot vorderingen die reeds voor de dag van de faillietverklaring opeisbaar zijn geworden, uiterlijk op de negentigste dag na de faillietverklaring.
+4. De curator vraagt de rechter-commissaris op verzoek van de begunstigde of de verzekeringnemer tevens toestemming voor het doen van een tussentijdse uitkering voorafgaand aan de slotuitdeling op een vordering die een schuldeiser heeft doordat degene die het recht heeft de verzekering of het pensioen geheel of gedeeltelijk door de verzekeraar af te doen kopen van dat recht na de faillietverklaring gebruik heeft gemaakt, indien het eerst na de verificatievergadering doen van een uitkering naar maatstaven van redelijkheid en billijkheid onaanvaardbare gevolgen zou hebben.
+5. Indien het risico zich na de faillietverklaring heeft verwezenlijkt, vraagt de curator slechts toestemming indien de vordering ter verificatie is ingediend.
+6. De curator vraagt tevens toestemming met betrekking tot de hoogte, en, in geval van periodieke uitkeringen, de frequentie daarvan.

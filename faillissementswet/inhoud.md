@@ -5,7 +5,7 @@
 ### afdeling Derde. Van het bestuur over de failliete boedel
 #### § 1. Van de rechter-commissaris
 #### § 2. Van de curator
-#### § 3. Van de commissie uit de schuldeisers
+#### § 3. Van de schuldeiserscommissie
 #### § 4. Van de vergaderingen der schuldeisers
 #### § 5. Van de rechterlijke beschikkingen
 ### afdeling Vierde. Van de voorzieningen na de faillietverklaring en van het beheer des curators

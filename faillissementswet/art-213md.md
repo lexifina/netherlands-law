@@ -1,0 +1,3 @@
+# Artikel 213md
+1. De curator doet de tussentijdse uitkeringen waarvoor de rechter-commissaris toestemming heeft gegeven.
+2. In afwijking van het eerste lid doet de curator, indien tot aan de faillietverklaring op vorderingen, bedoeld in artikel 213ma, eerste lid, aanhef en onderdeel a tot en met d, een of meer periodieke uitkeringen zijn gedaan, zonder toestemming van de rechter-commissaris tussentijdse uitkeringen totdat de rechter-commissaris heeft beslist op een verzoek om toestemming dat is gedaan gedurende de eerste negentig dagen na de dag van de faillietverklaring, per periode voor hetzelfde bedrag als het bedrag dat de schuldeiser voorafgaand aan de faillietverklaring in eenzelfde periode ontving.

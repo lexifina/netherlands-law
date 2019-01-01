@@ -1,0 +1,4 @@
+# Artikel 3a:87. Afwikkeling bijkantoren derde landen
+De Nederlandsche Bank kan besluiten tot afwikkeling van een bijkantoor in Nederland van een verzekeraar met zetel in een staat die geen lidstaat is, indien door dat bijkantoor dan wel de verzekeraar wordt voldaan aan de voorwaarden, bedoeld in artikel 3A:85, eerste lid, en:
+a. het bijkantoor of de verzekeraar niet voldoet of waarschijnlijk niet zal voldoen aan ingevolge deze wet gestelde prudentiële eisen en er geen aanwijzingen zijn dat er ten aanzien van die verzekeraar binnen een afzienbare termijn een met afwikkeling vergelijkbare procedure of insolventieprocedure zal worden geopend; of
+b. de bevoegde autoriteit van de staat van de zetel van de verzekeraar ten aanzien van de verzekeraar een met afwikkeling vergelijkbare procedure heeft geopend of de Nederlandsche Bank in kennis heeft gesteld van haar voornemen om een dergelijke procedure te openen.

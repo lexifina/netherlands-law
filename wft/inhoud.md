@@ -133,10 +133,10 @@
 #### Afdeling 2.2.12. Verlenen van beleggingsdiensten, verrichten van beleggingsactiviteiten en systematische internalisatie
 ##### § 2.2.12.1. Vergunningplicht en -eisen
 ##### § 2.2.12.2. Bijkantoor en verrichten van diensten
+##### § 2.2.12.2a. Verlenen van datarapporteringsdiensten
+###### § 2.2.12.2a.1. Vergunningplicht en -eisen
+###### § 2.2.12.2a.2. Verrichten van diensten
 ##### § 2.2.12.3. Vrijstelling
-#### Afdeling 2.2.12a. Verlenen van datarapporteringsdiensten
-##### §. 2.2.12a.1. Vergunningplicht en -eisen
-##### § 2.2.12a.2. Verrichten van diensten
 #### Afdeling 2.2.13. Bijzondere bepalingen
 ### Hoofdstuk 2.3. Toegang tot de buitenlandse financiële markten
 #### Afdeling 2.3a.1. Uitoefenen van het bedrijf van afwikkelonderneming bijkantoor buiten Nederland
@@ -249,23 +249,9 @@
 ##### § 3.5.3.2. Levensverzekeraars en schadeverzekeraars met zetel in een andere lidstaat
 ##### § 3.5.3.3. Levensverzekeraars en schadeverzekeraars met zetel in een staat die geen lidstaat is
 ##### § 3.5.3.4. Herverzekeraars met zetel in een niet-aangewezen staat en verzekeraars met beperkte risico-omvang met zetel in een niet-aangewezen staat
-#### Afdeling 3.5.4. Opvangregeling voor levensverzekeraars
-##### § 3.5.4.1. Levensverzekeraars met zetel in Nederland
-##### § 3.5.4.2. Levensverzekeraars met zetel in een staat die geen lidstaat is
-##### § 3.5.4.3. Levensverzekeraars met beperkte risico-omvang met zetel in een niet-aangewezen staat
-#### Afdeling 3.5.4a. Overdracht
-##### § 3.5.4a.1. Verzekeraars met zetel in Nederland
-##### § 3.5.4a.2. Verzekeraars met zetel in een staat die geen lidstaat is
-##### § 3.5.4a.3. Verzekeraars met beperkte risico-omvang met zetel in een niet-aangewezen staat
-#### Afdeling 3.5.5. Noodregeling en saneringsmaatregelen en liquidatieprocedures naar buitenlands recht
-##### § 3.5.5.1. Financiële ondernemingen met zetel in Nederland
-##### § 3.5.5.2. Financiële ondernemingen met zetel in een andere lidstaat
-##### § 3.5.5.3. Financiële ondernemingen met zetel in een staat die geen lidstaat is en met een in Nederland gelegen bijkantoor
-##### § 3.5.5.4. Entiteiten voor risico-acceptatie, herverzekeraars en verzekeraars met beperkte risico-omvang met zetel buiten Nederland en met een in Nederland gelegen bijkantoor
-##### § 3.5.5.5. Bepalingen van internationaal privaatrecht
+#### Afdeling 3.5.5. Bepalingen van internationaal privaatrecht
 #### Afdeling 3.5.6. Beleggerscompensatiestelsel en depositogarantiestelsel
 ##### § 3.5.6.1. Financiële ondernemingen met zetel in Nederland
-##### § 3.5.6.1a. Uitvoering van de vangnetregeling in de noodregeling
 ##### § 3.5.6.1b. Van rechtswege verrekening van bankspaardeposito's eigen woning
 ##### § 3.5.6.1c. Uitvoering van het depositogarantiestelsel bij afwikkeling
 ##### § 3.5.6.2. Financiële ondernemingen met zetel in een andere lidstaat
@@ -274,7 +260,6 @@
 ##### § 3.5.6a.1. Afwikkelondernemingen met zetel in Nederland
 ##### § 3.5.6a.2. Afwikkelondernemingen met zetel in een niet-aangewezen staat
 #### Afdeling 3.5.7. Beleggingsbeginselen en beleggingsbeleid van premiepensioeninstellingen
-#### Afdeling 3.5.8. Rechten wederpartij na een gebeurtenis met betrekking tot een verzekeraar
 #### Afdeling 3.5.9. Beleggingsbeleid van entiteiten voor risico-acceptatie en verzekeraars
 ### Hoofdstuk 3.6. Bepalingen ten aanzien van richtlijngroepen
 #### Afdeling 3.6.1. Algemeen
@@ -284,31 +269,46 @@
 ##### § 3.6.3.1. Toepassing verzekeringsrichtlijngroepstoezicht
 ##### § 3.6.3.2. Financiële positie
 ##### § 3.6.3.3. Rapport over de solvabiliteit en financiële toestand verzekeringsrichtlijngroep
+##### § 3.6.3.3a. Voorbereidend crisisplan
 ##### § 3.6.3.4. Regels met betrekking tot moederondernemingen met zetel in een staat die geen lidstaat is en equivalentie
 #### Afdeling 3.6.4. Prudentieel toezicht op financiële conglomeraten
 ##### § 3.6.4.1. Regels betreffende het toezicht op financiële conglomeraten
 ##### § 3.6.4.2. Regels voor het werkzaam zijn als financieel conglomeraat
 #### Afdeling 3.6.5. Overeenkomsten voor financiële steun binnen een groep
 ## 3a. Deel Bijzondere maatregelen en voorzieningen betreffende financiële ondernemingen
-### Hoofdstuk 3a.1. Inleidende bepalingen
-### Hoofdstuk 3a.2. Afwikkeling van banken en bepaalde beleggingsondernemingen
+### Hoofdstuk 3a.1. Afwikkeling van banken en bepaalde beleggingsondernemingen
+#### Afdeling 3a.1.1. Algemene bepalingen
+#### Afdeling 3a.1.2. Voorbereiding van afwikkeling
+#### Afdeling 3a.1.3. Besluit tot afwikkeling of tot afschrijving en omzetting kapitaalinstrumenten
+#### Afdeling 3a.1.4. Afschrijving en omzetting van kapitaalinstrumenten
+#### Afdeling 3a.1.5. Afwikkeling
+##### § 3a.1.5.1. Het instrument van overgang van de onderneming
+##### § 3a.1.5.2. Het instrument van de overbruggingsinstelling
+##### § 3a.1.5.3. Het instrument van afsplitsing van activa of passiva
+##### § 3a.1.5.4. Het instrument van bail-in
+##### § 3a.1.5.5. Bijzondere bevoegdheden
+##### § 3a.1.5.6. Gevolgen van afwikkeling
+##### § 3a.1.5.7. Waarborgen
+##### § 3a.1.5.8. Overige bepalingen
+#### Afdeling 3a.1.6. Rechtsbescherming
+#### Afdeling 3a.1.7. Financiering van afwikkeling
+##### § 3a.1.7.1. Het Nederlandse Afwikkelingsfonds
+##### § 3a.1.7.2. Bijdragen aan het gemeenschappelijk afwikkelingsfonds
+### Hoofdstuk 3a.2. Afwikkeling van verzekeraars
 #### Afdeling 3a.2.1. Algemene bepalingen
 #### Afdeling 3a.2.2. Voorbereiding van afwikkeling
-#### Afdeling 3a.2.3. Besluit tot afwikkeling of tot afschrijving en omzetting kapitaalinstrumenten
-#### Afdeling 3a.2.4. Afschrijving en omzetting van kapitaalinstrumenten
-#### Afdeling 3a.2.5. Afwikkeling
-##### § 3a.2.5.1. Het instrument van overgang van de onderneming
-##### § 3a.2.5.2. Het instrument van de overbruggingsinstelling
-##### § 3a.2.5.3. Het instrument van afsplitsing van activa of passiva
-##### § 3a.2.5.4. Het instrument van bail-in
-##### § 3a.2.5.5. Bijzondere bevoegdheden
-##### § 3a.2.5.6. Gevolgen van afwikkeling
-##### § 3a.2.5.7. Waarborgen
-##### § 3a.2.5.8. Overige bepalingen
-#### Afdeling 3a.2.6. Rechtsbescherming
-#### Afdeling 3a.2.7. Financiering van afwikkeling
-##### § 3a.2.7.1. Het Nederlandse Afwikkelingsfonds
-##### § 3a.2.7.2. Bijdragen aan het gemeenschappelijk afwikkelingsfonds
+#### Afdeling 3a.2.3. Besluit tot afwikkeling
+#### Afdeling 3a.2.4. Afwikkeling
+##### § 3a.2.4.1. Het instrument van bail-in
+##### § 3a.2.4.2. Het instrument van overgang van de onderneming
+##### § 3a.2.4.3. Het instrument van de overbruggingsinstelling
+##### § 3a.2.4.4. Het instrument van afsplitsing van activa of passiva
+##### § 3a.2.4.5. Bijzondere bevoegdheden
+##### § 3a.2.4.6. Gevolgen van afwikkeling
+##### § 3a.2.4.7. Waarborgen
+##### § 3a.2.4.8. Overige bepalingen
+#### Afdeling 3a.2.5. Rechtsbescherming
+#### Afdeling 3a.2.6. Financiering
 ## 4. Deel Gedragstoezicht financiële ondernemingen
 ### Hoofdstuk 4.1. Inleidende bepalingen
 #### Afdeling 4.1.1. Reikwijdte
@@ -347,7 +347,6 @@
 ##### § 4.3.7.2. Exploiteren van een georganiseerde handelsfaciliteit of een multilaterale handelsfaciliteit
 ##### § 4.3.7.2a. Mkb-groeimarkt
 ##### § 4.3.7.3. Systematische interne afhandeling
-##### § 4.3.7.4. Overige bepaling informatie na de handel door beleggingsondernemingen
 ##### § 4.3.7.5. Algoritmische handel, directe elektronische toegang en het optreden als clearinginstelling
 #### Afdeling 4.3.7a. Verzekeringen met een beleggingscomponent
 #### Afdeling 4.3.8. Onderlinge verhouding financiële ondernemingen

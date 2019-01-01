@@ -1,0 +1,2 @@
+# Artikel 3a:96. Uitgifte eigendomsinstrumenten
+De Nederlandsche Bank kan voorschrijven dat een entiteit eigendomsinstrumenten uitgeeft aan de houders van de rechten, verkregen ingevolge de toepassing van artikel 3A:93, eerste lid, dan wel medewerking verleent aan de uitgifte daarvan. De Nederlandsche Bank kan aan de uitoefening van die rechten een termijn verbinden. Bij de uitgifte kunnen geen andere rechten worden uitgeoefend dan de rechten, bedoeld in artikel 3A:93, eerste lid.
