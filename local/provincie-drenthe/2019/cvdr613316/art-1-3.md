@@ -1,0 +1,2 @@
+# Artikel 1.3,. Kwijtschelding
+Bij de invordering van deze belastingen en rechten wordt geen kwijtschelding verleend.

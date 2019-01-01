@@ -1,0 +1,2 @@
+# Artikel 7.1,. Intrekking
+De Belastingverordening provincie Drenthe 2017, zoals vastgesteld bij besluit van Provinciale Staten van 14 december 2016, kenmerk FPO/2016005197, Provinciaal blad 2016-7016, laatstelijk gewijzigd bij besluit van Provinciale Staten van 13 december 2017, kenmerk 2017003556, Provinciaal blad 2017-6078, wordt ingetrokken, met dien verstande dat zij van toepassing blijft op de belastbare feiten die zich voor 1 januari 2019 hebben voorgedaan.

@@ -1,0 +1,6 @@
+# Artikel 4.2,. Begripsomschrijving
+In dit hoofdstuk wordt verstaan onder:
+a. de wet: de Ontgrondingenwet;
+b. vergunning: vergunning als bedoeld in de wet;
+c. machtiging: machtiging als bedoeld in de wet;
+d. hoeveelheid stoffen: de hoeveelheid vaste stoffen in kubieke meter (m3), gemeten in profiel van ontgraving. Hieronder zijn begrepen alle stoffen die op basis van een vergunning of machtiging ontgrond kunnen worden, zowel de verhandelbare als de onverhandelbare.
