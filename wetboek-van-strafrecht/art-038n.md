@@ -1,3 +1,3 @@
 # Artikel 38n
 1. De maatregel geldt voor de tijd van ten hoogste twee jaren, te rekenen van de dag waarop de rechterlijke uitspraak waarbij hij is opgelegd, onherroepelijk is geworden.
-2. Bij het bepalen van de duur van de maatregel kan de rechter rekening houden met de tijd die door de veroordeelde vóór de tenuitvoerlegging van de uitspraak in verzekering, in voorlopige hechtenis, in een psychiatrisch ziekenhuis of een inrichting voor klinische observatie bestemd ingevolge een bevel tot observatie, is doorgebracht.
+2. Bij het bepalen van de duur van de maatregel kan de rechter rekening houden met de tijd die door de veroordeelde vóór de tenuitvoerlegging van de uitspraak in verzekering, in voorlopige hechtenis, in een psychiatrisch ziekenhuis of een instelling voor klinische observatie bestemd ingevolge een bevel tot observatie, is doorgebracht.
