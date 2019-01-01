@@ -1,0 +1,4 @@
+# Artikel 7a
+1. Voor wat betreft de beslissing over verzoeken om informatie als bedoeld in artikel 6, tweede en derde lid, van deze regeling, worden de leden van het directieteam Belastingdienst van het DG Belastingdienst als gemachtigde ambtenaren aangewezen.
+2. De leden van het directieteam Belastingdienst van het DG Belastingdienst zijn gemachtigd tot de behandeling van procedures bij de rechtbanken inzake verzoeken om informatie als bedoeld in artikel 6, tweede en derde lid, van deze regeling en tot de behandeling van procedures bij de Afdeling Bestuursrecht van de Raad van State inzake verzoeken om informatie als bedoeld in artikel 6 van deze regeling.
+3. De leden van het directieteam Belastingdienst van het DG Belastingdienst zijn bevoegd aan onder hen ressorterende ambtenaren ondermachtiging te verlenen tot de behandeling van procedures bij de rechtbanken en de Afdeling Bestuursrecht van de Raad van State.
