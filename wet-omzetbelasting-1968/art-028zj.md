@@ -1,0 +1,2 @@
+# Artikel 28zj
+Onverminderd het bepaalde in artikel 8, eerste en tweede lid, is de maatstaf van heffing voor de met betrekking tot een voucher voor meervoudig gebruik verrichte goederenlevering of dienst gelijk aan de tegenprestatie die betaald is voor de voucher of, bij ontstentenis van informatie over die tegenprestatie, de op de voucher voor meervoudig gebruik zelf of in de bijbehorende documentatie vermelde monetaire waarde, verminderd met het belastingbedrag over de geleverde goederen of de verrichte diensten.

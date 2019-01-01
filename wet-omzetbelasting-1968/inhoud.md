@@ -32,6 +32,7 @@
 ### Afdeling 8. Regeling voor niet in de lidstaat van verbruik gevestigde ondernemers die telecommunicatie diensten, omroepdiensten of elektronische diensten verrichten voor andere dan ondernemers
 ### Afdeling 9. Regeling voor vis
 ### Afdeling 10. Regeling voor reisbureaus
+### Afdeling 11. Regeling voor vouchers
 ## Hoofdstuk VI. Diverse bepalingen
 ### Afdeling 1. Teruggaaf van belasting
 ### Afdeling 2. Teruggaaf aan ondernemers die niet in de lidstaat van teruggaaf maar in een andere lidstaat gevestigd zijn

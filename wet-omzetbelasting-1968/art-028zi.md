@@ -1,0 +1,3 @@
+# Artikel 28zi
+1. De feitelijke overhandiging van de goederen of de feitelijke verrichting van de diensten in ruil voor een door de verrichter van de goederenlevering of dienst als volledige of gedeeltelijke tegenprestatie aanvaarde voucher voor meervoudig gebruik, is aan de belasting onderworpen, terwijl iedere voorafgaande overdracht van deze voucher voor meervoudig gebruik niet aan belasting is onderworpen.
+2. Indien de voucher voor meervoudig gebruik wordt overgedragen door een ondernemer die niet de ondernemer is die overeenkomstig het vorige lid de aan belasting onderworpen handeling verricht, zijn alle vormen van dienstverrichting, zoals distributie- of promotiediensten, onderworpen aan belasting.
