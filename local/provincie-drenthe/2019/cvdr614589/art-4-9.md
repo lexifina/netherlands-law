@@ -1,0 +1,5 @@
+# Artikel 4.9,. Termijnen van betaling
+1. In afwijking van artikel 9, eerste lid, van de Invorderingswet 1990 moeten de aanslagen worden betaald in één termijn die vervalt vier weken na dagtekening van het aanslagbiljet.
+2. Indien de verschuldigde heffing meer bedraagt dan € 113.000,00, staat de door Gedeputeerde Staten aangewezen provincieambtenaar bedoeld in artikel 227a, tweede lid, onderdeel c, van de Provinciewet, op verzoek van de belastingplichtige toe dat het meerdere in een of meerdere termijnen wordt betaald na het verstrijken van de termijn als bedoeld in het eerste lid. Genoemde invorderingsambtenaar stelt in dat geval het aantal termijnen en het tijdstip waarop deze moeten worden voldaan, vast.
+3. Het tweede lid is van overeenkomstige toepassing wanneer binnen één jaar na het verlenen van een machtiging, voor dezelfde ontgronding, vergunning wordt verleend en de gezamenlijke heffing het bedrag genoemd in het tweede lid overschrijdt.
+4. De Algemene Termijnenwet is niet van toepassing op de in de voorgaande leden gestelde termijnen.
