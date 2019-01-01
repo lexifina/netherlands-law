@@ -1,2 +1,0 @@
-# Artikel 22a
-Aan de secretaris-generaal, de directeur Transitie en aansturing bedrijfsvoering, de directeur-generaal van Agro en de directeur-generaal van Natuur, Visserij en Landelijk Gebied van het Ministerie van Landbouw, Natuur en Voedselkwaliteit wordt, ieder voor zich, mandaat en machtiging verleend voor het afnemen van de eed of de belofte bij de indiensttreding van een medewerker bij het kernministerie, bedoeld in artikel 51, eerste lid, van het Algemeen Rijksambtenarenreglement.
