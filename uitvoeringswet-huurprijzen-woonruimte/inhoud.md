@@ -19,6 +19,7 @@
 ### § 9. Het voorschotbedrag van de kosten voor nutsvoorzieningen met een individuele meter
 ### § 9a. De energieprestatievergoeding
 ### § 10. Geschillen die voortvloeien uit de Wet op het overleg huurders verhuurder
+### § 11. Geschillen die voortvloeien uit klachten
 ## Hoofdstuk IIIa. Bescherming van persoonsgegevens
 ## Hoofdstuk IV. Voorzittersuitspraken
 ## Hoofdstuk V. Werkwijze van de huurcommissie
