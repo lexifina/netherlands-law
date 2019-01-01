@@ -1,6 +1,6 @@
 # Artikel 15d
 1. Voorwaardelijke invrijheidstelling kan worden uitgesteld of achterwege blijven indien:
-a. de veroordeelde op grond van de gebrekkige ontwikkeling of ziekelijke stoornis van zijn geestvermogens is geplaatst in een inrichting voor verpleging van ter beschikking gestelden en zijn verpleging voortzetting behoeft;
+a. de veroordeelde op grond van de gebrekkige ontwikkeling of ziekelijke stoornis van zijn geestvermogens is geplaatst in een instelling voor verpleging van ter beschikking gestelden en zijn verpleging voortzetting behoeft;
 b. is gebleken dat de veroordeelde zich na de aanvang van de tenuitvoerlegging van zijn straf ernstig heeft misdragen, welke misdraging kan blijken uit:
 1°. ernstige bezwaren of een veroordeling terzake van een misdrijf;
 2°. gedrag dat tijdens de tenuitvoerlegging van de straf meermalen heeft geleid tot het opleggen van een disciplinaire straf;
