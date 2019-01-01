@@ -64,6 +64,7 @@
 #### afdeling Vierde. Technische hulpmiddelen
 #### afdeling Vijfde. Verbod op doorlaten
 ### Titel VE. Verkennend onderzoek
+### Titel VF. Vastleggen en bewaren van kentekengegevens
 ### Titel VI. Beteekenis van sommige in het wetboek voorkomende uitdrukkingen
 ## Boek Tweede. Strafvordering in eersten aanleg
 ### Titel I. Het opsporingsonderzoek
