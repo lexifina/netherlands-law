@@ -1,9 +1,0 @@
-# Artikel 16,. Citeertitel, inwerkingtreding
-1. Deze regeling kan worden aangehaald als Uitvoeringsregeling aanleg breedband Drenthe 2017.
-2. Deze regeling treedt in werking op de eerste dag na de bekendmaking ervan in het Provinciaal Blad.
-3. De Uitvoeringsregeling aanleg breedband Drenthe 2015 wordt ingetrokken.
-TOELICHTING ALGEMEEN
-Vanaf 1 juli 2014 hoeven decentrale overheden (niet marktconforme) steun aan breedbandinfrastructuur niet meer ter goedkeuring bij de Europese Commissie aan te melden wanneer er gebruik wordt gemaakt van de AGVV. Artikel 52 van de AGVV bevat een vrijstelling voor steun voor breedbandinfra-structuur. Om steun onder de AGVV te kunnen plaatsen, moet aan een aantal voorwaarden worden voldaan. Zo dient bijvoorbeeld niet marktconforme steun plaats te vinden in gebieden waar er geen breedbandinfrastructuur voorhanden is van dezelfde categorie (basisbreedband- of NGA-netwerk) en waar dit soort infrastructuur in de komende drie jaar waarschijnlijk niet door de markt zal worden uitgerold, de zogenaamde witte gebieden. Een lichte kennisgevingsprocedure, waarbij de Europese Commissie moet worden geïnformeerd, volstaat. In grijze gebieden kan alleen marktconform worden gefinancierd.
-Decentrale overheden kunnen daarnaast onder de algemene de-minimisverordening ondernemingen tot € 200.000,-- aan steun verlenen zonder dat er sprake is van staatssteun. Dit bedrag geldt per onderneming over een periode van drie belastingjaren. Steunmaatregelen die onder de de-minimisverordening vallen, worden geacht geen effect te hebben op het handelsverkeer tussen lidstaten. Zulke maatregelen voldoen hierdoor niet aan alle cumulatieve criteria van het staatssteunverbod (artikel 107, eerste lid, VWEU) en leveren dus geen staatssteun op.
-De provincie Drenthe heeft de subsidieregeling zo ingericht dat steun aan breedbandinitiatieven altijd voldoet aan de hiervoor geschetste staatssteunkaders.
-TOELICHTING ARTIKELSGEWIJS
