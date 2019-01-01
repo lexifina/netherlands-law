@@ -1,3 +1,3 @@
 # Artikel 31a
 1. De zorgautoriteit maakt, onverminderd haar bevoegdheid tot eigen onderzoek, bij de uitoefening van haar taak, bedoeld in artikel 16, onder k, zoveel mogelijk gebruik van de resultaten van door anderen verrichte controles.
-2. De organen van de woonplaats en van de verblijfplaats verstrekken desgevraagd aan de zorgautoriteit de informatie over de uitgevoerde werkzaamheden van hen die met de controle zijn belast en lichten haar volledig in over de resultaten van de controle door overlegging van rapporten of op andere door de zorgautoriteit aan te geven wijze.
+2. De organen van de woonplaats en van de verblijfplaats en het bevoegd orgaan verstrekken desgevraagd aan de zorgautoriteit de informatie over de uitgevoerde werkzaamheden van hen die met de controle zijn belast en lichten haar volledig in over de resultaten van de controle door overlegging van rapporten of op andere door de zorgautoriteit aan te geven wijze.
