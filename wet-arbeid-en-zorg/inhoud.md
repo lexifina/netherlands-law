@@ -44,10 +44,9 @@
 ##### Samenloop
 ##### Overgangsrecht zelfstandigen en beroepsbeoefenaren op arbeidsovereenkomst
 ##### Overgangsrecht in verband met zwangerschap- en bevallingsverlof en de uitkering van anderen dan de vrouwelijke werknemer
-## Hoofdstuk 4. Calamiteiten- en ander kort verzuimverlof
+## Hoofdstuk 4. Kort verzuimverlof en geboorteverlof
 ### § 1. Verlofvormen
 #### Calamiteiten- en ander kort verzuimverlof
-#### Kraamverlof
 ### § 2. Melding en informatie
 #### Meldingsverplichting
 #### Informatieverplichting
@@ -95,7 +94,7 @@
 ### § 4. Mate van gebondenheid
 #### Recht met afwijkingsmogelijkheden
 #### Dwingend recht
-### § 4*. Overgangsrecht
+### § 5. Overgangsrecht
 ## Hoofdstuk 7. Levensloopregeling
 ### Begrippen
 ### Recht op deelname
