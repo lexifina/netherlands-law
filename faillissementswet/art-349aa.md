@@ -1,0 +1,5 @@
+# Artikel 349aa
+1. De schuldeiser van wie de vordering niet of voor een te laag bedrag is geverifieerd, ook al was dit overeenkomstig zijn opgave, kan bij de overeenkomstige toepassing van artikel 184 in verzet komen. De schuldeiser dient daartoe een bezwaarschrift in met het verzoek om geverifieerd te worden uiterlijk twee dagen vóór die waarop het verzet ter openbare zitting zal behandeld worden. Voorts dient de schuldeiser de vordering of het niet-geverifieerde deel van de vordering in bij de curator en voegt een afschrift daarvan bij het bezwaarschrift.
+2. De verificatie, bedoeld in het vorige lid, vindt plaats zoals bepaald bij artikel 119 en volgende, ter openbare zitting, bestemd voor de behandeling van het verzet en voordat met de behandeling van het verzet een aanvang wordt gemaakt.
+3. Indien dit verzet alleen verificatie als schuldeiser tot doel heeft, en niet tevens door anderen verzet is gedaan, komen de kosten van het verzet ten laste van deze schuldeiser.
+4. Door een schuldeiser bedoeld in artikel 110, derde lid, kan niet het in het eerste lid bedoelde verzet worden gedaan.
