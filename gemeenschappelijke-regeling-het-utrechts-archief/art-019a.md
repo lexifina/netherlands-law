@@ -1,0 +1,4 @@
+# Artikel 19a
+1. Het algemeen bestuur stelt de begroting vast in het jaar voorafgaande aan dat waarvoor zij dient. De begroting wordt vastgesteld bij unanimiteit.
+2. Nadat deze is vastgesteld, zendt het algemeen bestuur de begroting aan provinciale staten van de provincie, de raad van de gemeente en de Minister, die ter zake bij de Minister van Binnenlandse Zaken en Koninkrijksrelaties hun zienswijze naar voren kunnen brengen.
+3. Het dagelijks bestuur zendt de begroting binnen twee weken na de vaststelling, doch in ieder geval vóór 1 augustus van het jaar voorafgaande aan dat waarvoor de begroting dient, aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
