@@ -16,6 +16,7 @@
 ### Afdeling 5*. Vrijstelling
 ### Afdeling 6*. Teruggaaf
 ### Afdeling 7*. Verplichting ten dienste van de belastingheffing
+### Afdeling 8. Overgangsregeling
 ## Hoofdstuk V. Kolenbelasting
 ### Afdeling 1. Begripsbepalingen
 ### Afdeling 2. Grondslag, belastingplicht en verschuldigdheid
