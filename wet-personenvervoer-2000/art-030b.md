@@ -1,0 +1,2 @@
+# Artikel 30b
+Bij of krachtens algemene maatregel van bestuur kan de concessiehouders worden opgedragen gezamenlijk een systeem van betaaldienstverlening in het openbaar vervoer in stand te houden, waarbij functionele eisen met betrekking tot het betaalsysteem kunnen worden gesteld, indien de situatie ontstaat of dreigt te ontstaan dat er een niet alle vervoersconcessies omvattend minimaal aanbod van betaaldiensten is.
