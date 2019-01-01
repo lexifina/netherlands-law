@@ -1,0 +1,10 @@
+# Artikel 4a. (gegevensbescherming door beveiliging en ontwerp)
+1. De verwerkingsverantwoordelijke en de verwerker treffen passende technische en organisatorische maatregelen om:
+a. te waarborgen en te kunnen aantonen dat de verwerking van politiegegevens wordt verricht in overeenstemming met hetgeen bij of krachtens deze wet is bepaald;
+b. het gegevensbeschermingsbeleid en de gegevensbeschermingsbeginselen op een doeltreffende manier uit te voeren respectievelijk toe te passen;
+c. bij de bepaling van de verwerkingsmiddelen en de verwerking zelf de nodige waarborgen, zoals pseudonimisering, in de verwerking in te bouwen ter naleving van hetgeen bij of krachtens deze wet is bepaald en ter bescherming van de rechten van de betrokkenen.
+2. De verwerkingsverantwoordelijke en de verwerker treffen passende technische en organisatorische maatregelen om een beveiligingsniveau te waarborgen dat op het risico is afgestemd, met name met betrekking tot de verwerking van de bijzondere categorieën van politiegegevens, bedoeld in artikel 5, en op een zodanige manier dat de politiegegevens beschermd zijn tegen ongeoorloofde of onrechtmatige verwerking en tegen opzettelijk verlies, vernietiging of beschadiging.
+3. Bij het treffen van de maatregelen, bedoeld in het eerste en tweede lid, houden de verwerkingsverantwoordelijke en de verwerker rekening met de aard, de reikwijdte, de context en de doeleinden van de verwerking, alsmede met de qua waarschijnlijkheid en ernst uiteenlopende risico's voor de rechten en vrijheden van natuurlijke personen.
+4. In aanvulling op het derde lid houden de verwerkingsverantwoordelijke en de verwerker ten aanzien van het eerste lid, onder c, en het tweede lid, rekening met de stand van de techniek en de uitvoeringskosten.
+5. De maatregelen, bedoeld in het eerste en tweede lid, worden periodiek geëvalueerd en zo nodig geactualiseerd.
+6. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de maatregelen, bedoeld in het eerste en tweede lid.

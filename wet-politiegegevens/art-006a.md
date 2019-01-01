@@ -1,0 +1,4 @@
+# Artikel 6a. (toegang tot politiegegevens)
+1. De verwerkingsverantwoordelijke heeft toegang tot de politiegegevens die onder zijn beheer worden verwerkt ten behoeve van het toezicht op de naleving van het bij of krachtens deze wet bepaalde.
+2. De verwerkingsverantwoordelijke verleent de ambtenaren van politie die onder zijn beheer vallen en die zijn belast met de taken, bedoeld in artikel 1, onderdeel a, toegang tot de politiegegevens die onder zijn beheer worden verwerkt, voor zover nodig voor de uitvoering van hun taak.
+3. De verwerkingsverantwoordelijke verleent de verwerker, bedoeld in artikel 6c, eerste lid, alsmede degenen die belast zijn met de controle en het toezicht, bedoeld in de artikelen 33, 34, 35 en 36, alsmede degenen die in zijn opdracht technische werkzaamheden verrichten, toegang tot de politiegegevens die onder zijn beheer worden verwerkt, voor zover zij deze behoeven voor de uitvoering van hun taak.

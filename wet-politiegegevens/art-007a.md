@@ -1,0 +1,4 @@
+# Artikel 7a. (geautomatiseerde individuele besluitvorming)
+1. Een besluit dat uitsluitend op geautomatiseerde verwerking is gebaseerd, met inbegrip van profilering, dat voor de betrokkene nadelige rechtsgevolgen heeft of hem in aanmerkelijke mate treft, is verboden, tenzij wordt voorzien in voorafgaande menselijke tussenkomst door of namens de verwerkingsverantwoordelijke en in specifieke voorlichting aan de betrokkene.
+2. Een besluit, bedoeld in het eerste lid, wordt niet gebaseerd op de categorieën van politiegegevens, bedoeld in artikel 5, tenzij de Autoriteit persoonsgegevens over de voorgenomen verwerking is geraadpleegd, overeenkomstig artikel 33b, eerste lid.
+3. Profilering die leidt tot discriminatie van personen op grond van de in artikel 5 bedoelde categorieën van politiegegevens is verboden.

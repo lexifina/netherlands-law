@@ -1,0 +1,15 @@
+# Artikel 35b. (taken Autoriteit persoonsgegevens)
+1. De Autoriteit persoonsgegevens heeft tot taak:
+a. het toezien op de verwerking van persoonsgegevens overeenkomstig het bij of krachtens deze wet bepaalde en het handhaven daarvan;
+b. het geven van advies over voorstellen van wet en ontwerpen van algemene maatregelen van bestuur die geheel of voor een belangrijk deel betrekking hebben op de verwerking van persoonsgegevens;
+c. het beter bekend maken van het brede publiek met, en verschaffen van meer inzicht in de risico's, de regels, de waarborgen en de rechten in verband met de verwerking van persoonsgegevens;
+d. het beter bekend maken van de verwerkingsverantwoordelijken en de verwerkers met hun verplichtingen uit hoofde van het bij of krachtens deze wet bepaalde;
+e. het desgevraagd verstrekken van informatie aan iedere betrokkene over de uitoefening van zijn rechten uit hoofde van het bij of krachtens deze wet bepaalde en het, in voorkomend geval, daartoe samenwerken met de autoriteiten in andere lidstaten, bedoeld in artikel 35d, eerste lid, die zijn belast met het toezicht;
+f. het behandelen van klachten van betrokkenen, of van organen, organisaties of verenigingen die de betrokkene vertegenwoordigen, het onderzoeken van de inhoud van de klacht en de klager binnen een redelijke termijn in kennis stellen van de voortgang en het resultaat van het onderzoek, met name indien verder onderzoek of coördinatie met een andere toezichthoudende autoriteit nodig is;
+g. het naar aanleiding van een klacht, bedoeld in artikel 31a, eerste lid, controleren van de rechtmatigheid van de verwerking en de betrokkene binnen een redelijke termijn informeren over het resultaat van de controle of van de redenen waarom de controle niet is verricht;
+h. het samenwerken met andere autoriteiten die zijn belast met het toezicht, bedoeld in artikel 35d, eerste lid, teneinde voor de samenhang in de toepassing en de handhaving van het bij of krachtens deze wet bepaalde te zorgen, onder meer door informatie te delen en wederzijdse bijstand aan te bieden;
+i. het verrichten van onderzoeken naar de naleving van het bij of krachtens deze wet bepaalde, ook op basis van informatie die de Autoriteit persoonsgegevens ontvangt van een andere autoriteit die is belast met het toezicht, bedoeld in artikel 35, eerste lid, of een andere overheidsinstantie;
+j. het volgen van de relevante ontwikkelingen voor zover deze de bescherming van persoonsgegevens beïnvloeden, met name de ontwikkeling van de informatie- en communicatietechnologieën;
+k. het verstrekken van advies naar aanleiding van een voorafgaande raadpleging, bedoeld in artikel 33b, eerste lid, en
+l. het leveren van een bijdrage aan de activiteiten van het Comité, opgericht bij Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG.
+2. De Autoriteit persoonsgegevens verricht haar taken kosteloos voor de betrokkene en voor de functionaris voor gegevensbescherming.

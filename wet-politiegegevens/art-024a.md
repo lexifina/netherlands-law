@@ -1,0 +1,6 @@
+# Artikel 24a. (informatie aan de betrokkene)
+1. De verwerkingsverantwoordelijke verstrekt aan de betrokkene informatie over de verwerking van politiegegevens in een beknopte en toegankelijke vorm en in duidelijke en eenvoudige taal. De informatie wordt met passende middelen, waaronder elektronische, verstrekt en in het algemeen in dezelfde vorm als de vorm van het verzoek.
+2. Indien de betrokkene verzoekt om inzage, op grond van artikel 25, eerste lid, of rectificatie, bedoeld in artikel 28, eerste lid, wordt hij schriftelijk en zonder onnodige vertraging in kennis gesteld van de ontvangst van het verzoek, de termijn voor uitsluitsel en de mogelijkheid om naar aanleiding daarvan een klacht in te dienen bij de Autoriteit persoonsgegevens.
+3. De verstrekking van de informatie, bedoeld in de artikelen 7a, 24b, 25, eerste lid, 28, 33a, vijfde lid, geschiedt kosteloos.
+4. In het geval van een kennelijk ongegrond of buitensporig verzoek, met name vanwege de geringe tussenpozen tussen opeenvolgende verzoeken, kan de verwerkingsverantwoordelijke weigeren gevolg te geven aan het verzoek.
+5. De verstrekking van informatie, bedoeld in de artikelen 24b, 25, eerste lid, en 28, vindt plaats overeenkomstig de artikelen 30 tot en met 34 van het Wetboek van Strafvordering als de gegevens in een processtuk worden verwerkt.
