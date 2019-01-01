@@ -1,2 +1,0 @@
-# Artikel 46f
-Indien de gewezen burgemeester die de extra uitkering, bedoeld in artikel 46e, ontvangt met de waarneming van het ambt van burgemeester wordt belast, vervalt tijdelijk de aanspraak op de extra uitkering voor de duur van het waarnemerschap. Indien hij uit het waarnemerschap wordt ontheven, ontleent hij geen nieuwe aanspraken aan artikel 46e en bij toepassing van artikel 46h of 47a worden reeds toegekende bedragen van de extra uitkering in mindering gebracht op de eenmalige uitkering, bedoeld in die artikelen.

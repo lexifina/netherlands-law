@@ -1,2 +1,0 @@
-# Artikel 23a
-Indien aan de wethouder een dienstauto ter beschikking is gesteld en hij voor het gebruik van deze dienstauto loon- en inkomstenbelasting is verschuldigd, kan het college van burgemeester en wethouders bepalen dat deze belastingheffing door de gemeente aan de wethouder wordt vergoed. De vergoeding betreft ten hoogste de verschuldigde loon- en inkomstenbelasting voor het gebruik van de dienstauto.

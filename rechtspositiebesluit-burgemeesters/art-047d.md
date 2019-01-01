@@ -1,3 +1,0 @@
-# Artikel 47d
-1. De kosten in verband met de extra uitkeringen en eenmalige extra uitkeringen, bedoeld in de artikelen 46c, 46e, 46f, 47a en 47b, worden op jaarbasis door de Stichting Pensioenfonds ABP in rekening gebracht bij de gemeenten.
-2. Onze Minister stelt regels over de berekening van de kosten, de verdeling van de kosten over de gemeenten en de wijze van betaling van de bijdragen in deze kosten. Grondslag voor de verdeling van de kosten over de gemeenten is dat deze plaatsvindt naar rato van de voor iedere gemeente geldende maximale bezoldiging overeenkomstig bijlage l bij dit besluit.

@@ -1,2 +1,0 @@
-# Artikel 32a
-Indien aan de burgemeester een dienstauto ter beschikking is gesteld en hij voor het gebruik van deze dienstauto loon- en inkomstenbelasting is verschuldigd, kan het college van burgemeester en wethouders bepalen dat deze belastingheffing door de gemeente aan de burgemeester wordt vergoed. De vergoeding betreft ten hoogste de verschuldigde loon- en inkomstenbelasting voor het gebruik van de dienstauto.

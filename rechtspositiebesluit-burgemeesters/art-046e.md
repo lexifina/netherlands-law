@@ -1,7 +1,0 @@
-# Artikel 46e
-1. De burgemeester aan wie ontslag is verleend met het oog op een FPU-uitkering en die tenminste 1 jaar het ambt van burgemeester heeft uitgeoefend, ontvangt tot aan de pensioengerechtigde leeftijd naast de FPU-uitkering een extra uitkering ten laste van de gemeenten gezamenlijk.
-2. De extra uitkering bedraagt maandelijks het bedrag dat resulteert uit de vermenigvuldiging van 0,5833 procent van de grondslag, die geldt voor de vaststelling van de FPU-uitkering, met het aantal maanden dat de burgemeester het ambt van burgemeester heeft uitgeoefend, gedeeld door het totaal aantal maanden gelegen tussen de datum van ingang van de FPU-uitkering en de datum van ingang van het ouderdomspensioen. Voor deze berekening wordt voor het aantal maanden dat de burgemeester het ambt heeft uitgeoefend, ten hoogste van 120 maanden uitgegaan.
-3. De extra uitkering wordt slechts toegekend voorzover de extra uitkering en de FPU-uitkering tezamen niet meer bedragen dan de grondslag, die geldt voor de vaststelling van de FPU-uitkering, met dien verstande dat voor deze berekening buiten beschouwing blijft:
-a. een verlaging van de FPU-uitkering, omdat aanspraken niet worden opgenomen met de bedoeling deze om te zetten in recht op ouderdomspensioen of nabestaandenpensioen;
-b. een verlaging van de FPU-uitkering, omdat het bedrag van de aanspraak wordt verminderd in verband met inkomsten naast de FPU-uitkering;
-c. een verhoging van de FPU-uitkering, als gevolg van een individuele aanvullende regeling.

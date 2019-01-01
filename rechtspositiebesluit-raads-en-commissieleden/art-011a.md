@@ -1,2 +1,0 @@
-# Artikel 11a
-Ten aanzien van individuele gevallen kan het college van burgemeester en wethouders artikel 11, eerste lid, buiten toepassing laten of daarvan afwijken voor zover toepassing van de in het Correctiebesluit in verband met het schrappen van de tegemoetkoming ziektekostenverzekering commissieleden (Stb. 2014, 431) aan dit artikellid verleende terugwerkende kracht, zal leiden tot een onbillijkheid van overwegende aard.

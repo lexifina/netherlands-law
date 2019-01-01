@@ -1,4 +1,0 @@
-# Artikel 46g
-1. Bij overlijden van de gewezen burgemeester die de extra uitkering, bedoeld in artikel 46e, ontvangt, wordt aan de nabestaanden, bedoeld in artikel 47, een eenmalige extra uitkering toegekend ten laste van de gemeenten gezamenlijk.
-2. De eenmalige uitkering bedraagt het bedrag dat resulteert uit de vermenigvuldiging van 57,14% van de maandelijkse extra uitkering, betaald in de maand voorafgaand aan het overlijden van betrokkene, met het aantal maanden gelegen tussen de datum van overlijden en de datum dat het ouderdomspensioen zou zijn ingegaan.
-3. Indien de aanspraak op de extra uitkering op grond van artikel 46f tijdelijk is vervallen, wordt voor de toepassing van dit artikel uitgegaan van de extra uitkering die zou zijn toegekend indien de uitkering niet in verband met het waarnemerschap was vervallen.
