@@ -1,0 +1,2 @@
+# Artikel 120j
+De bestuurlijke boete bedraagt ten hoogste het bedrag dat is bepaald voor de vijfde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, per overtreding begaan door een natuurlijke persoon, en ten hoogste het bedrag dat is bepaald voor de zesde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht per overtreding, begaan door een rechtspersoon of een vennootschap.
