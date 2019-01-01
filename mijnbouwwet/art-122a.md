@@ -1,0 +1,2 @@
+# Artikel 122a
+Onze Minister vraagt TNO, genoemd in artikel 1, onderdeel c, van de TNO-wet, te adviseren of de voorgestelde operationele strategie of strategieën, bedoeld in artikel 52c, tweede lid, gelet op de winning van de hoeveelheid gas die ten hoogste uit het Groningenveld benodigd is om eindafnemers van de hoeveelheid laagcalorisch gas te voorzien, de gevolgen van de winning uit het Groningenveld voor omwonenden, gebouwen of infrastructurele werken of de functionaliteit daarvan zoveel mogelijk beperkt.

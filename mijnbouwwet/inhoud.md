@@ -39,6 +39,7 @@
 ## Hoofdstuk 6. Adviseurs
 ### § 6.1. De Mijnraad
 ### § 6.2. De Technische commissie bodembeweging
+### § 6.3. Overige adviseurs
 ## Hoofdstuk 7. Rapportage
 ## Hoofdstuk 8. Toezicht, handhaving en retributies
 ### § 8.1. Het Staatstoezicht op de mijnen
