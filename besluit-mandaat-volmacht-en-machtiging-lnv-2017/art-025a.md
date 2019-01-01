@@ -1,2 +1,0 @@
-# Artikel 25a
-Besluiten, privaatrechtelijke rechtshandelingen en feitelijke handelingen genomen of verricht krachtens artikel 15, tussen 15 mei 2018 en de dag na de datum van uitgifte van de Staatscourant waarin het Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit, nr. WJZ/18074188, houdende wijziging van het Besluit mandaat, volmacht en machtiging LNV 2017 (Stcr. 2018,…) is gepubliceerd, worden geacht te zijn genomen of verricht krachtens artikel 4a.
