@@ -1,2 +1,0 @@
-# Artikel 3c
-Vrijstelling van het in artikel 2, eerste lid, van de Wet toezicht trustkantoren genoemde verbod wordt verleend aan rechtspersonen, vennootschappen of natuurlijke personen die in hoofdzaak of uitsluitend diensten, genoemd in artikel 1, onderdeel d, van de Wet toezicht trustkantoren, verlenen aan verenigingen van eigenaars als bedoeld in Boek 5, titel 9, afdeling 2, van het Burgerlijk Wetboek.
