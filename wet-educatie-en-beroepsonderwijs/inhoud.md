@@ -62,7 +62,7 @@
 ### Titel 0. Aanmelding
 ### Titel 1. Inschrijving
 ### Titel 2. Vooropleidingseisen
-### Titel 3. Bestrijding voortijdig schoolverlaten niet-leerplichtigen
+### Titel 3. Bestrijden voortijdig schoolverlaten en volgen van jongeren in een kwetsbare positie
 ### Titel 4. Samenwerking in verband met leer-werktrajecten vmbo en entreeopleiding in het vmbo
 ### Titel 5. Samenwerking in verband met leer-werktrajecten VSO en de entreeopleiding in het VSO
 ### Titel 6. Samenwerking tussen uit 's Rijks kas bekostigde instellingen

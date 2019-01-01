@@ -30,7 +30,7 @@
 #### § 7. Betaling van de bekostiging
 ### Afdeling 8. Aanwijzing en maatregelen
 ### Afdeling 10. Verslaglegging en informatieverstrekking
-### Afdeling 10A. Bestrijding voortijdig schoolverlaten niet-leerplichtigen
+### Afdeling 10A. Bestrijden voortijdig schoolverlaten en volgen van jongeren in een kwetsbare positie
 ### Afdeling 10B. Zij-instroom in het beroep
 ### Afdeling 11. Overige bepalingen
 ## Titel V. Experimenten
