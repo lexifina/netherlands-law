@@ -16,6 +16,6 @@ C voor het dagloon waarnaar de uitkering zou zijn berekend indien dat niet gemax
 D voor het gemiddeld aantal arbeidsuren, bedoeld in artikel 16, tweede en zesde lid, gedeeld door 5.
 6. Bij algemene maatregel van bestuur worden, onder meer voor artikel 18, ten aanzien van de vaststelling van het dagloon, bedoeld in het eerste lid, en de herziening ervan nadere en zo nodig afwijkende regels gesteld.
 7. Het dagloon berekend op grond van dit artikel en de daarop berustende bepalingen wordt herzien met ingang van de dag waarop en in de mate waarin het bedrag genoemd in artikel 8, eerste lid, onder c, van de Wet minimumloon en minimumvakantiebijslag wordt herzien.
-8. Onze Minister maakt in de Staatscourant bekend met ingang van welke dag en met welk percentage een herziening als bedoeld in het zevende lid plaatsvindt.
+8. Door of namens Onze Minister wordt in de Staatscourant medegedeeld met ingang van welke dag en met welk percentage een herziening als bedoeld in het zevende lid plaatsvindt.
 9. Een herziening van de uitkering als gevolg van een herziening van het dagloon vindt plaats zonder dat dit bij beschikking is vastgesteld.
 10. Bij algemene maatregel van bestuur wordt tevens bepaald wat onder inkomen als bedoeld in dit artikel wordt verstaan. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.

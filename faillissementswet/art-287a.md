@@ -5,4 +5,5 @@
 4. De rechtbank doet op de dag van de zitting of anders uiterlijk op de achtste dag daarna uitspraak op het verzoek. De uitspraak geschiedt bij vonnis.
 5. De rechtbank wijst het verzoek toe indien de schuldeiser in redelijkheid niet tot weigering van instemming met de schuldregeling heeft kunnen komen, in aanmerking genomen de onevenredigheid tussen het belang dat hij heeft bij uitoefening van de bevoegdheid tot weigering en de belangen van de schuldenaar of van de overige schuldeisers die door die weigering worden geschaad. Artikel 300, lid 1, van Boek 3 van het Burgerlijk Wetboek is van toepassing.
 6. Indien de rechtbank het verzoek toewijst, veroordeelt de rechtbank de schuldeiser die instemming met de schuldregeling heeft geweigerd, in de kosten.
-7. Indien de rechtbank het verzoek afwijst, beslist zij op het verzoek tot toepassing van de schuldsaneringsregeling, indien de schuldenaar het verzoek daartoe handhaaft.
+7. De rechtbank wijst het verzoek af indien de schuldbemiddeling niet wordt uitgevoerd door een persoon of instelling als bedoeld in artikel 48, eerste lid, van de Wet op het consumentenkrediet.
+8. Indien de rechtbank het verzoek afwijst, beslist zij op het verzoek tot toepassing van de schuldsaneringsregeling, indien de schuldenaar het verzoek daartoe handhaaft.
