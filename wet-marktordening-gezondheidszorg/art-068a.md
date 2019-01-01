@@ -7,7 +7,7 @@ a. tot welke gegevens en tot welke categorie van ziektekostenverzekeraars als be
 b. op welke wijze gegevens, bedoeld in het eerste of tweede lid, worden verwerkt;
 c. volgens welke technische standaarden gegevensverwerking plaatsvindt;
 d. aan welke beveiligingseisen gegevensverwerking voldoet;
-e. in welke gevallen gegevens, bedoeld in het eerste of tweede lid, verder worden verwerkt met het oog op de uitvoering van ziektekostenverzekeringen, voor zover deze gegevens niet worden gebruikt voor het beoordelen en accepteren van een aspirant-verzekerde door een ziektekostenverzekeraar als bedoeld in artikel 1, onderdeel f, onder 3°, en bovendien noodzakelijk zijn voor:
+e. in welke gevallen gegevens, bedoeld in het eerste of tweede lid, verder worden verwerkt met het oog op de uitvoering van ziektekostenverzekeringen, voor zover deze gegevens niet worden gebruikt voor het beoordelen en accepteren van een aspirant-verzekerde door een ziektekostenverzekeraar als bedoeld in artikel 1, eerste lid, onderdeel f, onder 3°, en bovendien noodzakelijk zijn voor:
 1°. de betaling aan een zorgaanbieder of de vergoeding van zorgkosten aan een verzekerde,
 2°. de vaststelling van eigen bijdragen, nog openstaand eigen risico of een no-claimteruggave aan de verzekerde,
 3°. het uitoefenen van het verhaalsrecht, of
