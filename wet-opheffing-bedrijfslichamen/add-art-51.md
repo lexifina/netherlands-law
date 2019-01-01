@@ -1,0 +1,2 @@
+# Artikel LI
+Dwangsommen als bedoeld in artikel 4:17 van de Algemene wet bestuursrecht, waarvoor Onze Minister binnen zes weken na het tijdstip van inwerkingtreding van artikel II, onderdeel D, van deze wet een ingebrekestelling ontvangt, komen ten laste van het vermogen van het bedrijfslichaam indien op het tijdstip van inwerkingtreding van artikel II, onderdeel D, van deze wet de beschikking door het bedrijfslichaam niet tijdig was gegeven en het verbeuren van de dwangsom aan het bedrijfslichaam te wijten is.

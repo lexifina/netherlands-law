@@ -1,0 +1,9 @@
+# Artikel XLVI
+1. Onze Minister beëindigt de vereffening van het vermogen van een bedrijfslichaam indien de hem bekende vorderingen op dat bedrijfslichaam zijn voldaan en hem geen mogelijke toekomstige vorderingen meer bekend zijn.
+2. Een vereffening wordt niet eerder beëindigd dan nadat twee jaren na het tijdstip van inwerkingtreding van artikel II, onderdeel D, van deze wet zijn verstreken.
+3. Met het oog op de beëindiging van de vereffening stelt Onze Minister een rekening en verantwoording op van de vereffening van het vermogen van het bedrijfslichaam.
+4. Onze Minister legt het ontwerp van de rekening en verantwoording gedurende acht weken ter inzage op het Ministerie van Landbouw, Natuur en Voedselkwaliteit en doet daarvan mededeling in de Staatscourant.
+5. Binnen acht weken nadat het ontwerp van de rekening en verantwoording ter inzage is gelegd en daarvan mededeling is gedaan kan iedere schuldeiser tegen dat ontwerp bezwaren inbrengen bij Onze Minister.
+6. Indien de in het vijfde lid bedoelde bezwaren naar het oordeel van Onze Minister gegrond zijn, zet Onze Minister de vereffening voort en stelt zo nodig een nieuwe rekening en verantwoording op. Het vierde lid is van toepassing.
+7. Tegen een ontwerp van een nieuwe rekening en verantwoording als bedoeld in het zesde lid kan iedere schuldeiser binnen acht weken nadat dit ontwerp ter inzage is gelegd en daarvan mededeling is gedaan bezwaren inbrengen bij Onze Minister voor zover die bezwaren betrekking hebben op onderdelen van de rekening en verantwoording die zijn gewijzigd ten opzichte van de eerder ter inzage gelegde rekening en verantwoording. Het zesde lid is van overeenkomstige toepassing.
+8. Onze Minister zendt de vastgestelde rekening en verantwoording van de vereffening van het vermogen van een bedrijfslichaam aan de beide Kamers der Staten-Generaal.

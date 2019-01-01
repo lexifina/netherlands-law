@@ -1,0 +1,4 @@
+# Artikel XLIX
+1. In wettelijke procedures en rechtsgedingen, waarbij een bedrijfslichaam is betrokken, treedt op het tijdstip van inwerkingtreding van artikel II, onderdeel D, van deze wet Onze Minister in de plaats van het bedrijfslichaam.
+2. Onze Minister treedt voorts in de plaats van de bedrijfslichamen in wettelijke procedures en rechtsgedingen die aanvangen na het tijdstip van inwerkingtreding van artikel II, onderdeel D, van deze wet.
+3. In zaken waarin voor het tijdstip van inwerkingtreding van artikel II, onderdeel D, van deze wet aan de Nationale ombudsman is verzocht een onderzoek te doen dan wel de Nationale ombudsman een onderzoek heeft ingesteld naar een gedraging die kan worden toegerekend aan een bedrijfslichaam, treedt Onze Minister op dat tijdstip als bestuursorgaan in de zin van de Wet Nationale ombudsman in de plaats van het bedrijfslichaam.
