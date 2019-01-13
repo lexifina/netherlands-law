@@ -1,0 +1,8 @@
+# Artikel 138a. Sleutelfuncties
+1. Een beroepspensioenfonds beschikt over een risicobeheerfunctie, interne auditfunctie en actuariële functie.
+2. De houders van de risicobeheerfunctie, interne auditfunctie of actuariële functie rapporteren materiële bevindingen en aanbevelingen op het gebied dat onder hun verantwoordelijkheid valt aan het bestuur van het beroepspensioenfonds. Indien de houder van de risicobeheerfunctie, interne auditfunctie of actuariële functie tevens bestuurder is van het beroepspensioenfonds worden de materiële bevindingen en aanbevelingen ook gerapporteerd aan de raad van toezicht of de visitatiecommissie.
+3. De houders van de risicobeheerfunctie, interne auditfunctie of actuariële functie melden het de toezichthouder zo spoedig mogelijk indien het bestuur van het beroepspensioenfonds niet tijdig passende corrigerende maatregelen treft, nadat het bestuur op grond van het tweede lid op de hoogte is gesteld van:
+a. een substantieel risico dat het beroepspensioenfonds niet aan een bij of krachtens de wet gesteld vereiste van significante betekenis zal voldoen en dit ernstige gevolgen kan hebben voor de belangen van deelnemers, gewezen deelnemers, andere aanspraakgerechtigden of pensioengerechtigden; of
+b. een significante inbreuk op de voor het beroepspensioenfonds en haar activiteiten geldende bij of krachtens de wet gestelde vereisten.
+4. Het beroepspensioenfonds draagt er zorg voor dat de houder van de risicobeheerfunctie, interne auditfunctie of actuariële functie die op grond van het derde lid te goeder trouw en naar behoren een melding heeft gedaan bij de toezichthouder als gevolg van deze melding niet wordt benadeeld.
+5. Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot dit artikel.
