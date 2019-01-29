@@ -5,13 +5,13 @@
 ### Titel 3. Het huwelijk
 #### Afdeling 1. Voltrekking en erkenning van de geldigheid van huwelijken
 #### Afdeling 2. Rechtsbetrekkingen tussen de echtgenoten
-#### Afdeling 3. Het huwelijksvermogensregime
+#### Afdeling 3. Enkele bepalingen inzake het huwelijksvermogensregime
 #### Afdeling 4. Ontbinding van het huwelijk en scheiding van tafel en bed
 ### Titel 4. Het geregistreerd partnerschap
 #### Afdeling 1. Het aangaan van een geregistreerd partnerschap in Nederland
 #### Afdeling 2. De erkenning van een buiten Nederland aangegaan geregistreerd partnerschap
 #### Afdeling 3. Rechtsbetrekkingen tussen de geregistreerde partners
-#### Afdeling 4. Het partnerschapsvermogensregime
+#### Afdeling 4. Enkele bepalingen inzake het partnerschapsvermogensregime
 #### Afdeling 5. Beëindiging in Nederland van een geregistreerd partnerschap
 #### Afdeling 6. Erkenning van een buiten Nederland tot stand gekomen beëindiging van een geregistreerd partnerschap
 #### Afdeling 7. Levensonderhoud
