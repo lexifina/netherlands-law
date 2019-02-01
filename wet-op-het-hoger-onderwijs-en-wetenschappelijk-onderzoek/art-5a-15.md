@@ -1,2 +1,0 @@
-# Artikel 5a.15. Gevolgen vernietiging van besluiten
-Onze minister kan bij toepassing van de bevoegdheid, bedoeld in artikel 22, eerste lid, van de Kaderwet zelfstandige bestuursorganen, bepalen dat een instelling gedurende een door Onze minister te bepalen termijn aanspraak behoudt op bekostiging als bedoeld in artikel 1.9, eerste lid, dat aan de examens een graad als bedoeld in artikel 7.10a of 7.10b blijft verbonden en dat de registratie in het Centraal register opleidingen hoger onderwijs, bedoeld in artikel 6.13, niet wordt beëindigd.

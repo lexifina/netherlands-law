@@ -18,11 +18,14 @@
 ### Titel 5. Subsidiëring academische ziekenhuizen ten behoeve van de educatieve voorziening
 ## Hoofdstuk 3. Overleg
 ## Hoofdstuk 4. Het personeel
-## Hoofdstuk 5a. Accreditatie in het hoger onderwijs
+## Hoofdstuk 5. Accreditatie in het hoger onderwijs
 ### Titel 1. Accreditatieorgaan
-### Titel 2. Accreditatie en toets nieuwe opleiding
-### Titel 2a. Instellingstoets kwaliteitszorg
-### Titel 3. Overige bepalingen
+### Titel 2. Toets nieuwe opleiding en accreditatie nieuwe opleiding
+### Titel 3. Accreditatie bestaande opleiding, commissie van deskundigen en visitatie
+### Titel 4. Intrekking van accreditatie en de gevolgen van intrekking
+### Titel 5
+### Titel 6. Instellingstoets kwaliteitszorg en erkenning ITK
+### Titel 7. Overige bepalingen
 ## Hoofdstuk 6. Onderwijsaanbod
 ### Titel 1. Opleidingen bekostigde instellingen voor hoger onderwijs
 ### Titel 2. Opleidingen rechtspersonen voor hoger onderwijs
@@ -133,4 +136,5 @@
 ### Titel 14. Wet van 28 januari 2013 (Stb. 70)
 ### Titel 15. Wet van 10 juli 2013 (Stb. 298)
 ### Titel 16. Wet invoering associate degree-opleiding
+### Titel 17. Wet accreditatie op maat
 ## Hoofdstuk 19. Slotbepalingen

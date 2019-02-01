@@ -1,4 +1,0 @@
-# Artikel 5a.12b. Intrekken accreditatie en toets nieuwe opleiding
-1. Onze minister kan, na advies van het accreditatieorgaan, een besluit tot het verlenen van accreditatie of toets nieuwe opleiding intrekken, indien de beoordeling van de aspecten van kwaliteit van de opleiding, bedoeld in artikel 5a.8, tweede lid, 5a.10a, tweede lid, 5a.13f, eerste lid, of 5a.13g, eerste lid, zodanig is gewijzigd dat deze beoordeling van die aspecten tot een afwijzing van de aanvraag om accreditatie of toets nieuwe opleiding zou leiden.
-2. Alvorens een besluit als bedoeld in het eerste lid te nemen, hoort Onze minister het instellingsbestuur.
-3. Na intrekking van het besluit tot het verlenen van accreditatie of toets nieuwe opleiding is artikel 5a.12, eerste tot en met vijfde lid, op de opleiding van overeenkomstige toepassing.
