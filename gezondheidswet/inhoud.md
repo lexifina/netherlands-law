@@ -5,6 +5,7 @@
 ### § 1. Taken van het Staatstoezicht op de Volksgezondheid in het Europese deel van Nederland
 ### § 2. Taken van het Staatstoezicht op de Volksgezondheid in de openbare lichamen Bonaire, Sint Eustatius en Saba
 ### § 3. Overige bepalingen omtrent het Staatstoezicht op de Volksgezondheid in het Europese deel van Nederland
+## Hoofdstuk IV a. Openbaarmaking van informatie inzake het toezicht en de uitvoering van regelgeving
 ## Hoofdstuk V. De Provinciale Raden voor de Volksgezondheid
 ### § 1. Van de zetel en de taak
 ### § 2. Van de samenstelling
