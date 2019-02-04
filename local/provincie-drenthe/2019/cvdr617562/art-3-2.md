@@ -1,0 +1,3 @@
+# Artikel 3,. sub a Strategisch HR beleidsplan
+Het strategisch HR-beleidsplan is toegespitst op de strategische ontwikkelingen binnen het bedrijf, die gericht zijn op de lange termijn. Daarbij is er bijvoorbeeld aandacht voor de benodigde kennis en vaardigheden bij (toekomstige) werknemers gekoppeld aan scholing en ontwikkeling. Daarnaast kan het gaan over functievorming, belonen en beoordelen van personeel en werving/selectie
+Onder strategisch HR wordt verstaan ontwikkelingen gericht op (middel)lange termijn. Daarbij is er bijvoorbeeld aandacht voor de benodigde kennis en vaardigheden bij (toekomstige) werknemers gekoppeld aan scholing en ontwikkeling. Daarnaast kan het gaan over functievorming, belonen en beoordelen van personeel en werving/selectie.
