@@ -86,7 +86,7 @@
 #### Afdeling 7. Slotbepalingen
 ### Titel 7b. Betalingstransactie
 #### Afdeling 1. Algemene bepalingen
-#### Afdeling 2. Instemming met de betaalopdracht
+#### Afdeling 2. Toestaan van betalingstransacties
 #### Afdeling 3. Uitvoering van de betalingstransactie
 ##### Paragraaf 1. Betaalopdrachten, kosten en overgemaakte bedragen
 ##### Paragraaf 2. Uitvoeringstermijn en valutadatum
