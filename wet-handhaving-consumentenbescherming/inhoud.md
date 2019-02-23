@@ -14,6 +14,7 @@
 ## Hoofdstuk 4. Andere overheidsinstanties
 ## Hoofdstuk 5. Samenwerkingsprotocollen
 ## Hoofdstuk 6. Consumentenorganisaties en instanties met een rechtmatig belang
+## Hoofdstuk 6a. Instantie voor bijstand aan consumenten
 ## Hoofdstuk 7. Rechtsbescherming
 ## Hoofdstuk 8. Consumentenbescherming
 ## Hoofdstuk 9. Wijziging in andere wetten
