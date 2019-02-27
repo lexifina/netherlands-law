@@ -1,0 +1,4 @@
+# Artikel 50a
+1. De ambtenaren belast met de grensbewaking en de ambtenaren belast met het toezicht op vreemdelingen, zijn bevoegd een vreemdeling die rechtmatig verblijf heeft als bedoeld in artikel 8, aanhef en onder f tot en met h en m staande te houden, over te brengen naar een plaats bestemd voor verhoor en aldaar op te houden, indien dit nodig is voor de voorbereiding van een besluit omtrent inbewaringstelling van de vreemdeling op grond van artikel 59, eerste lid, aanhef en onder b, 59a of 59b. De ophouding duurt ten hoogste zes uren, met dien verstande dat de tijd tussen middernacht en negen uur voormiddags niet wordt meegerekend.
+2. De in het eerste lid bedoelde ambtenaren zijn bevoegd de opgehouden persoon aan diens kleding of lichaam te onderzoeken, alsmede zaken van deze persoon te doorzoeken.
+3. Bij algemene maatregel van bestuur worden nadere regelen gegeven omtrent de toepassing van de voorgaande leden van dit artikel.
