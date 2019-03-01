@@ -6,3 +6,4 @@ a. de verdachte;
 b. de verwerkingsverantwoordelijke voor de gegevens;
 c. de rechthebbende van een plaats waar een doorzoeking heeft plaatsgevonden.
 4. Indien de betrokkene de verdachte is, kan mededeling achterwege blijven, indien hij door opneming in de processtukken van de vastlegging van gegevens en van de aard van de vastgelegde gegevens op de hoogte komt.
+5. Degene tot wie een bevel, als bedoeld in artikel 125k, eerste lid, is gericht neemt in het belang van het onderzoek geheimhouding in acht omtrent al hetgeen hem terzake van de vordering bekend is.

@@ -1,5 +1,5 @@
 # Artikel 126zg
-1. In geval van aanwijzingen van een terroristisch misdrijf kan de officier van justitie, indien het onderzoek dit dringend vordert, aan een opsporingsambtenaar bevelen dat met een technisch hulpmiddel niet voor het publiek bestemde communicatie die plaatsvindt met gebruikmaking van diensten van een aanbieder van een communicatie in de zin van artikel 126la, wordt opgenomen.
+1. In geval van aanwijzingen van een terroristisch misdrijf kan de officier van justitie, indien het onderzoek dit dringend vordert, aan een opsporingsambtenaar bevelen dat met een technisch hulpmiddel niet voor het publiek bestemde communicatie die plaatsvindt met gebruikmaking van diensten van een aanbieder van een communicatie in de zin van artikel 138g, wordt opgenomen.
 2. Het bevel vermeldt, behalve de gegevens, bedoeld in artikel 126za, tevens:
 a. het nummer of een andere aanduiding waarmee de individuele gebruiker van de communicatiedienst wordt geïdentificeerd of de naam en, voor zover bekend, het adres van de gebruiker;
 b. de geldigheidsduur van het bevel; en

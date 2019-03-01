@@ -2,7 +2,7 @@
 1. Ten behoeve van het onderzoek naar het vermogen van de veroordeelde is de opsporingsambtenaar bevoegd, bij bevel daartoe van de officier van justitie, in het belang van het onderzoek:
 a. van eenieder te vorderen op te geven of, en zo ja welke, vermogensbestanddelen hij onder zich heeft of heeft gehad, die toebehoren of hebben toebehoord aan degene tegen wie het onderzoek is gericht;
 b. van degene die daarvoor redelijkerwijs in aanmerking komt en die anders dan ten behoeve van persoonlijk gebruik gegevens verwerkt, te vorderen bepaalde opgeslagen of vastgelegde identificerende gegevens, in de zin van artikel 126nc, tweede lid, van een persoon te verstrekken;
-c. aan iedere aanbieder van een communicatiedienst een vordering te doen gegevens te verstrekken terzake van naam, adres, postcode, woonplaats, nummer en soort dienst van een gebruik van een communicatiedienst in de zin van artikel 126la;
+c. aan iedere aanbieder van een communicatiedienst een vordering te doen gegevens te verstrekken terzake van naam, adres, postcode, woonplaats, nummer en soort dienst van een gebruik van een communicatiedienst in de zin van artikel 138g;
 d. een persoon stelselmatig te volgen of stelselmatig de aanwezigheid of het gedrag van een persoon waar te nemen;
 e. zonder toestemming van de rechthebbende een besloten plaats, niet zijnde een woning, te betreden dan wel een technisch hulpmiddel aan te wenden teneinde die plaats op te nemen, aldaar sporen veilig te stellen of aldaar een technisch hulpmiddel te plaatsen teneinde de aanwezigheid of verplaatsing van een goed vast te kunnen stellen.
 2. Op de vordering bedoeld in het eerste lid, onderdeel a, is artikel 126a, derde en vijfde lid van overeenkomstige toepassing.

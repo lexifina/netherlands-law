@@ -1,5 +1,5 @@
 # Artikel 577bf
-1. De officier van justitie kan in het belang van het onderzoek aan een opsporingsambtenaar bevelen dat met een technisch hulpmiddel niet voor het publiek bestemde communicatie die plaatsvindt met gebruikmaking van de diensten van een aanbieder van een communicatiedienst, in de zin van artikel 126la, wordt opgenomen.
+1. De officier van justitie kan in het belang van het onderzoek aan een opsporingsambtenaar bevelen dat met een technisch hulpmiddel niet voor het publiek bestemde communicatie die plaatsvindt met gebruikmaking van de diensten van een aanbieder van een communicatiedienst, in de zin van artikel 138g, wordt opgenomen.
 2. Het bevel, bedoeld in het eerste lid, kan slechts worden gegeven na voorafgaande schriftelijke machtiging van de rechter-commissaris. De artikelen 126m, derde en vierde lid, en 126ma zijn van overeenkomstige toepassing.
 3. Het bevel wordt gegeven voor een duur van ten hoogste vier weken. Naast de gegevens bedoeld in artikel 577bc, derde lid, vermeldt het bevel:
 a. zo mogelijk het nummer of een andere aanduiding waarmee de individuele gebruiker van de communicatiedienst wordt geïdentificeerd, en:

@@ -1,0 +1,26 @@
+# Artikel 126nba
+1. In geval van verdenking van een misdrijf als omschreven in artikel 67, eerste lid, dat gezien zijn aard of de samenhang met andere door de verdachte begane misdrijven een ernstige inbreuk op de rechtsorde oplevert, kan de officier van justitie, indien het onderzoek dit dringend vordert, bevelen dat een daartoe aangewezen opsporingsambtenaar binnendringt in een geautomatiseerd werk dat bij de verdachte in gebruik is en, al dan niet met een technisch hulpmiddel, onderzoek doet met het oog op:
+a. de vaststelling van bepaalde kenmerken van het geautomatiseerde werk of de gebruiker, zoals de identiteit of locatie, en de vastlegging daarvan;
+b. de uitvoering van een bevel als bedoeld in de artikelen 126l of 126m;
+c. de uitvoering van een bevel als bedoeld in artikel 126g, waarbij de officier van justitie kan bepalen dat ter uitvoering van het bevel een technisch hulpmiddel op een persoon wordt bevestigd;
+en, ingeval van een misdrijf, waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld, dan wel een misdrijf dat bij algemene maatregel van bestuur is aangewezen;
+d. de vastlegging van gegevens die in het geautomatiseerde werk zijn opgeslagen, of die eerst na het tijdstip van afgifte van het bevel worden opgeslagen, voor zover redelijkerwijs nodig om de waarheid aan de dag te brengen;
+e. de ontoegankelijkmaking van gegevens, bedoeld in artikel 126cc, vijfde lid. Artikel 11.7a van de Telecommunicatiewet is niet van toepassing op handelingen ter uitvoering van een bevel als bedoeld in de eerste volzin.
+2. Het bevel, bedoeld in het eerste lid, is schriftelijk en vermeldt:
+a. het misdrijf en indien bekend de naam of anders een zo nauwkeurig mogelijke aanduiding van de verdachte;
+b. zo mogelijk een nummer of een andere aanduiding waarmee het geautomatiseerde werk kan worden geïdentificeerd en, indien bekend, dat de gegevens niet in Nederland zijn opgeslagen;
+c. de feiten of omstandigheden waaruit blijkt dat de voorwaarden, bedoeld in het eerste lid, zijn vervuld;
+d. een aanduiding van de aard en functionaliteit van het technische hulpmiddel, bedoeld in het eerste lid, dat wordt gebruikt voor de uitvoering van het bevel;
+e. het onderdeel of de onderdelen, genoemd in het eerste lid, met het oog waarop het bevel wordt gegeven en, als dit het onderdeel a, d of e betreft, een duidelijke omschrijving van de te verrichten handelingen;
+f. ten aanzien van welk deel van het geautomatiseerde werk en welke categorie van gegevens aan het bevel uitvoering wordt gegeven;
+g. het tijdstip waarop, of de periode waarbinnen aan het bevel uitvoering wordt gegeven;
+h. in het geval het een bevel, bedoeld in het eerste lid, onderdeel c, betreft, een melding van het voornemen om een technisch hulpmiddel op een persoon te bevestigen.
+3. Het bevel, bedoeld in het eerste lid, wordt gegeven voor een periode van ten hoogste vier weken. Het kan telkens voor een periode van ten hoogste vier weken worden verlengd.
+4. Het bevel, bedoeld in het eerste lid, kan slechts worden gegeven na schriftelijke machtiging op vordering van de officier van justitie te verlenen door de rechter-commissaris. De machtiging vermeldt de onderdelen van het bevel en de periode waarvoor de machtiging van kracht is.
+5. Het bevel, bedoeld in het eerste lid, kan schriftelijk en met redenen omkleed worden gewijzigd, aangevuld, verlengd of beëindigd, met dien verstande dat de officier van justitie voor wijziging, aanvulling of verlenging een machtiging van de rechter-commissaris behoeft. Bij dringende noodzaak kunnen de beslissing van de officier van justitie en de machtiging van de rechter-commissaris mondeling worden gegeven. De officier van justitie en de rechter-commissaris stellen deze in dat geval binnen drie dagen op schrift.
+6. Nadat het onderzoek is beëindigd wordt het technische hulpmiddel verwijderd. Indien het technische hulpmiddel niet of niet volledig kan worden verwijderd en dit risico's oplevert voor het functioneren van het geautomatiseerde werk stelt de officier van justitie de beheerder van het geautomatiseerde werk daarvan in kennis en stelt de nodige informatie ter beschikking ten behoeve van de volledige verwijdering. Het bepaalde in artikel 126cc, eerste lid, is van overeenkomstige toepassing.
+7. Het toezicht op de uitvoering van het bevel, bedoeld in het eerste lid, door de ambtenaren, bedoeld in artikel 141, onderdeel d, en de personen, bedoeld in artikel 142, eerste lid, onderdeel b, wordt uitgeoefend door de inspectie, bedoeld in artikel 65 van de Politiewet 2012, overeenkomstig het bepaalde in hoofdstuk 6 van de Politiewet 2012.
+8. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent:
+a. de autorisatie en deskundigheid van de opsporingsambtenaren die kunnen worden belast met het binnendringen en het onderzoek, bedoeld in het eerste lid, en de samenwerking met andere opsporingsambtenaren;
+b. de geautomatiseerde vastlegging van gegevens over de uitvoering van het bevel, bedoeld in het eerste lid.
+9. Bij algemene maatregel van bestuur kunnen regels worden gesteld over de toepassing van de bevoegdheid, bedoeld in het eerste lid, in de gevallen waarin niet bekend is waar de gegevens zijn opgeslagen.

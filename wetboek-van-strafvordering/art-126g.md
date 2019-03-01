@@ -1,7 +1,7 @@
 # Artikel 126g
 1. In geval van verdenking van een misdrijf, kan de officier van justitie in het belang van het onderzoek bevelen dat een opsporingsambtenaar stelselmatig een persoon volgt of stelselmatig diens aanwezigheid of gedrag waarneemt.
 2. Indien de verdenking een misdrijf betreft als omschreven in artikel 67, eerste lid, dat gezien zijn aard of de samenhang met andere door de verdachte begane misdrijven een ernstige inbreuk op de rechtsorde oplevert, kan de officier van justitie in het belang van het onderzoek bepalen dat ter uitvoering van het bevel een besloten plaats, niet zijnde een woning, wordt betreden zonder toestemming van de rechthebbende.
-3. De officier van justitie kan bepalen dat ter uitvoering van het bevel een technisch hulpmiddel wordt aangewend, voor zover daarmee geen vertrouwelijke communicatie wordt opgenomen. Een technisch hulpmiddel wordt niet op een persoon bevestigd, tenzij met diens toestemming.
+3. De officier van justitie kan bepalen dat ter uitvoering van het bevel een technisch hulpmiddel wordt aangewend, voor zover daarmee geen vertrouwelijke communicatie wordt opgenomen. Een technisch hulpmiddel wordt niet op een persoon bevestigd, tenzij met diens toestemming dan wel in het geval, bedoeld in artikel 126nba, eerste lid, onder c.
 4. Het bevel wordt gegeven voor een periode van ten hoogste drie maanden. Het kan telkens voor een termijn van ten hoogste drie maanden worden verlengd.
 5. Het bevel tot observatie is schriftelijk en vermeldt:
 a. het misdrijf en indien bekend de naam of anders een zo nauwkeurig mogelijke aanduiding van de verdachte;

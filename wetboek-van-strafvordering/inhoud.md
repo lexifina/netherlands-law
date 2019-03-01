@@ -43,7 +43,8 @@
 #### afdeling Vijfde. Bevoegdheden in een besloten plaats
 #### afdeling Zesde. Opnemen van vertrouwelijke communicatie met een technisch hulpmiddel
 #### afdeling Zevende. Onderzoek van communicatie door middel van geautomatiseerde werken
-#### afdeling Achtste. Vorderen van gegevens
+#### afdeling Achtste. Onderzoek in een geautomatiseerd werk
+#### afdeling Negende. Vorderen van gegevens
 ### Titel V. Bijzondere bevoegdheden tot opsporing voor het onderzoek naar het beramen of plegen van ernstige misdrijven in georganiseerd verband
 ### Titel VA. Bijstand aan opsporing door burgers
 #### afdeling Eerste. Verzoek informatie in te winnen
@@ -54,15 +55,17 @@
 #### afdeling Tweede. Stelselmatige observatie, pseudo-koop of -dienstverlening, stelselmatige inwinning van informatie, bevoegdheden in een besloten plaats en infiltratie
 #### afdeling Derde. Opnemen en onderzoek communicatie
 #### Derde afdeling A. Vorderen van gegevens
+#### Derde afdeling B. Onderzoek in een geautomatiseerd werk
 #### afdeling Vierde. Onderzoek van voorwerpen, vervoermiddelen en kleding
 #### afdeling Vijfde. Onderzoek aan het lichaam en DNA-onderzoek
 ### Titel VC. Bijstand aan opsporing van terroristische misdrijven door burgers
 ### Titel VD. Algemene regels betreffende de bevoegdheden in de titels IVA tot en met VC
 #### afdeling Eerste. Voeging bij de processtukken
 #### afdeling Tweede. Kennisgeving aan betrokkene
-#### afdeling Derde. De bewaring en de vernietiging van processen-verbaal en andere voorwerpen en het gebruik van gegevens voor een ander doel
+#### afdeling Derde. De bewaring en de vernietiging van processen-verbaal en andere voorwerpen, het gebruik van gegevens voor een ander doel en de ontoegankelijkmaking en vernietiging van gegevens
 #### afdeling Vierde. Technische hulpmiddelen
 #### afdeling Vijfde. Verbod op doorlaten
+#### afdeling Zesde. Uitstel melding onbekende kwetsbaarheden
 ### Titel VE. Verkennend onderzoek
 ### Titel VF. Vastleggen en bewaren van kentekengegevens
 ### Titel VI. Beteekenis van sommige in het wetboek voorkomende uitdrukkingen
