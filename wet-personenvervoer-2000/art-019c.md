@@ -1,2 +1,6 @@
 # Artikel 19c
-Bij een internationale passagiersvervoerdienst hebben de desbetreffende spoorwegondernemingen het recht om op het internationale traject passagiers te laten instappen op elk station en hen te laten uitstappen op een ander station, ook wanneer die in Nederland zijn gelegen.
+1. Een concessieverlener als bedoeld in artikel 20, eerste en vierde lid, kan aan spoorwegondernemingen een heffing opleggen voor de exploitatie van een passagiersvervoerdienst op onder zijn concessiebevoegdheid vallende trajecten tussen twee stations in Nederland.
+2. Indien een spoorwegonderneming recht heeft op toegang als bedoeld in artikel 19a, eerste lid, kan Onze Minister aan deze spoorwegonderneming een heffing opleggen voor de exploitatie van een passagiersvervoersdienst op de relevante trajecten tussen twee stations in Nederland.
+3. De heffing, bedoeld in het eerste en tweede lid, voldoet aan de voorwaarden van artikel 12 van richtlijn 2012/34/EU.
+4. De in het eerste lid bedoelde concessieverleners en Onze Minister indien er sprake is van een recht op toegang als bedoeld in artikel 19a, eerste lid, houden de informatie, bedoeld in artikel 12, vierde lid, van richtlijn 2012/34/EU bij. Een concessieverlener als bedoeld in artikel 20, eerste en vierde lid, verstrekt die gegevens desgevraagd aan Onze Minister voor zover Onze Minister die nodig heeft om te kunnen voldoen aan een verzoek van de Europese Commissie.
+5. Bij ministeriële regeling kunnen nadere regels worden gesteld over de heffing, bedoeld in het eerste en tweede lid.
