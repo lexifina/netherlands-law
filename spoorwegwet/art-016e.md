@@ -1,0 +1,2 @@
+# Artikel 16e
+Ten aanzien van een verticaal geïntegreerde onderneming als bedoeld in artikel 3, onderdeel 31, van richtlijn 2012/34/EU kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld ter uitvoering van de artikelen 7, eerste lid, tweede volzin, tweede lid, derde lid, onderdeel d, vierde en vijfde lid, 7 bis, tweede lid, onderdeel b, 7 quater, eerste lid, onderdeel a, en 7 quinquies, eerste lid, en vierde tot en met tiende lid, van richtlijn 2012/34/EU.
