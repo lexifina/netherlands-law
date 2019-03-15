@@ -1,0 +1,2 @@
+# Article IV. Security
+The authorities of Curaçao and the United States Government shall consult and take such steps as may be necessary to ensure the security of United States personnel, Implementing Partners, and Facilities in Curaçao. The authorities of Curaçao retain overall responsibility for the physical security of the designated Facilities under this Agreement. The authorities of Curaçao and the United States shall exchange any information relevant for this purpose.
