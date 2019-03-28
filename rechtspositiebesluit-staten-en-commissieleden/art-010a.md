@@ -1,2 +1,0 @@
-# Artikel 10a
-Ten aanzien van individuele gevallen kunnen gedeputeerde staten artikel 10, eerste lid, buiten toepassing laten of daarvan afwijken voor zover toepassing van de in het Correctiebesluit in verband met het schrappen van de tegemoetkoming ziektekostenverzekering voor commissieleden (Stb. 2014, 431) aan dit artikellid verleende terugwerkende kracht, zal leiden tot een onbillijkheid van overwegende aard.

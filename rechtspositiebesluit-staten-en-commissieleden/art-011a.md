@@ -1,3 +1,0 @@
-# Artikel 11a
-1. Gedeputeerde staten kennen een lid van provinciale staten dat naar het oordeel van een arts een structurele functionele beperking heeft, ten laste van de provincie op aanvraag een tegemoetkoming toe voor de bekostiging van een voorziening als bedoeld in artikel 35, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen.
-2. Het gestelde bij of krachtens artikel 35, vijfde lid, van de Wet werk en inkomen naar arbeidsvermogen is van overeenkomstige toepassing, met dien verstande dat uitsluitend een financiële tegemoetkoming wordt verstrekt.

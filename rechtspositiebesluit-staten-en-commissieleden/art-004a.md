@@ -1,3 +1,0 @@
-# Artikel 4a
-1. Aan een lid van provinciale staten dat lid is van de vertrouwenscommissie, bedoeld in artikel 61, derde lid, van de Provinciewet dan wel de rekenkamerfunctie, bedoeld in artikel 79p van de Provinciewet, uitoefent dan wel lid is van de onderzoekscommissie als bedoeld in artikel 151a, derde lid, van de Provinciewet, wordt voor de duur van het lidmaatschap van de commissie dan wel de duur van de activiteiten per jaar ten laste van de provincie een toelage verleend van 5% van de vergoeding voor de werkzaamheden op jaarbasis.
-2. Voor de toepassing van het eerste lid stelt de commissaris de duur van het lidmaatschap van de commissie dan wel de duur van de activiteiten vast.

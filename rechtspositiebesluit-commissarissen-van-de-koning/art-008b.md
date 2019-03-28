@@ -1,2 +1,0 @@
-# Artikel 8b
-Indien aan de commissaris van de Koning een dienstauto ter beschikking is gesteld en hij voor het gebruik van deze dienstauto loon- en inkomstenbelasting is verschuldigd, kunnen gedeputeerde staten bepalen dat deze belastingheffing door de provincie aan de commissaris van de Koning wordt vergoed. De vergoeding betreft ten hoogste de verschuldigde loon- en inkomstenbelasting voor het gebruik van de dienstauto.
