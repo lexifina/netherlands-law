@@ -1,0 +1,2 @@
+# Artikel IV
+Indien en voor zover het naasten betreft als bedoeld in artikel 20, tweede lid, in samenhang met artikel 3, is artikel 20 van toepassing indien het geweldsmisdrijf is gepleegd op of na de datum van inwerkingtreding van de wet van 11 april 2018 tot wijziging van het Burgerlijk Wetboek, het Wetboek van Strafvordering en het Wetboek van Strafrecht teneinde de vergoeding van affectieschade mogelijk te maken en het verhaal daarvan alsmede het verhaal van verplaatste schade door derden in het strafproces te bevorderen (Staatsblad 2018, 132).
