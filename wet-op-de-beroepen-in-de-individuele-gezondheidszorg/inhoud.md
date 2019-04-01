@@ -29,6 +29,7 @@
 ### § 5. Procedure in beroep
 ### § 6. Verdere bepalingen
 ## Hoofdstuk VIII. Maatregelen wegens ongeschiktheid
+## Hoofdstuk VIIIA. Last tot onmiddellijke onthouding van de beroepsactiviteiten
 ## Hoofdstuk IX. Verdere bepalingen
 ## Hoofdstuk X. Strafbepalingen
 ## Hoofdstuk XI. Overgangs- en slotbepalingen

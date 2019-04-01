@@ -1,0 +1,3 @@
+# Artikel 68a
+1. Indien naar aanleiding van het vooronderzoek of de behandeling ter terechtzitting van een klacht als bedoeld in artikel 47 een vermoeden is gerezen dat een beklaagde mogelijk ongeschikt is om zijn beroep uit te oefenen als bedoeld in artikel 79, stelt de voorzitter de inspecteur daarvan op de hoogte. De voorzitter zendt de stukken waarop het vermoeden van de mogelijke ongeschiktheid van de beroepsbeoefenaar is gebaseerd aan de inspecteur.
+2. De voorzitter die een vermoeden als bedoeld in het eerste lid heeft geuit, neemt geen deel aan de behandeling van een zaak tegen die beroepsbeoefenaar, als bedoeld in artikel 79.
