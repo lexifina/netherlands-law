@@ -1,0 +1,3 @@
+# Artikel 8b
+1. Onze Minister kan voor 1 januari 2019 reeds besluiten op aanvragen tot inschrijving in het tijdelijk register voor bachelor medisch hulpverleners. Onze Minister besluit daarbij op grond van de eisen zoals geformuleerd in artikel 3, in samenhang met artikelen 4 en 5, zoals die artikelen komen te luiden op 1 januari 2019. Indien Onze Minister in dat geval besluit tot inschrijving, wordt de inschrijving van kracht met ingang van 1 januari 2019.
+2. Indien het besluit tot inschrijving op een aanvraag, bedoeld in het eerste lid, wordt genomen op een tijdstip na 1 januari 2019, vindt de inschrijving in afwijking van het eerste lid plaats op het tijdstip van het nemen van het besluit.
