@@ -7,7 +7,7 @@ c. beschikt over een geldige beoordeling van Onze Minister waaruit blijkt dat hi
 3. Onze Minister houdt een register van machinistenvergunningen.
 4. Degene onder wiens gezag de veiligheidsfunctie van machinist met volledige bevoegdheid of van machinist met beperkte bevoegdheid wordt uitgeoefend, verstrekt aan een machinist een bevoegdheidsbewijs indien deze:
 a. voldoet aan de krachtens artikel 49, tweede lid, vastgestelde eisen inzake taalbeheersing;
-b. beschikt over een geldige beoordeling van Onze Minister waaruit blijkt dat hij voldoet aan de krachtens artikel 49, tweede lid, vastgestelde eisen inzake specifieke vakkennis van de spoorvoertuigen en de hoofdspoorweginfrastructuur waarop het bevoegdheidsbewijs betrekking moet hebben, en
+b. beschikt over een geldige beoordeling van degene onder wiens gezag de veiligheidsfunctie, bedoeld in de aanhef, wordt uitgeoefend waaruit blijkt dat hij voldoet aan de krachtens artikel 49, tweede lid, vastgestelde eisen inzake specifieke vakkennis van de spoorvoertuigen en de hoofdspoorweginfrastructuur waarop het bevoegdheidsbewijs betrekking moet hebben, en
 c. beschikt over de voor de uitoefening van die functie vereiste bedrijfsgebonden kennis en bekwaamheid.
 5. Degene die een of meer bevoegdheidsbewijzen heeft verstrekt houdt een register van bevoegdheidsbewijzen.
 6. Degene onder wiens gezag de veiligheidsfunctie van machinist met volledige bevoegdheid of van machinist met beperkte bevoegdheid wordt uitgeoefend onderzoekt periodiek of de machinist voldoet aan:
