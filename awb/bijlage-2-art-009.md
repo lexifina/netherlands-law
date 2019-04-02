@@ -26,7 +26,10 @@ Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfst
 Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers
 Wet inkomensvoorziening oudere werklozen
 Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen: een besluit van het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 2.3
-Wet langdurige zorg, met uitzondering van een Besluit van Onze Minister van Volksgezondheid, Welzijn en Sport en een beschikking op grond van artikel 11.4.1 of 11.4.2
+Wet langdurige zorg, met uitzondering van:
+a. besluiten van Onze Minister van Volksgezondheid, Welzijn en Sport;
+b. van een met het toezicht belaste ambtenaar, en
+c. een beschikking op grond van artikel 11.4.1 of 11.4.2.
 Wet milieubeheer: artikel 15.50
 Wet op de arbeidsongeschiktheidsverzekering
 Wet overheidspersoneel onder de werknemersverzekeringen
