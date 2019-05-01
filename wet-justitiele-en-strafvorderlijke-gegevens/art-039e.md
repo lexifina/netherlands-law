@@ -10,4 +10,5 @@ g. instanties die belast zijn met de tenuitvoerlegging van rechterlijke beslissi
 h. verwerkingsverantwoordelijken voor de verwerking van politiegegevens als bedoeld in artikel 1, eerste lid, onderdeel f, van de Wet politiegegevens;
 i. bewaarders als bedoeld in artikel 118, eerste en tweede lid, van het Wetboek van Strafvordering.
 2. Het College van procureurs-generaal verstrekt aan de ambtenaren die werkzaam zijn ten behoeve van de justitiële documentatie strafvorderlijke gegevens.
-3. Artikel 9, eerste lid, tweede volzin is van overeenkomstige toepassing.
+3. Het College van procureurs-generaal kan strafvorderlijke gegevens verstrekken aan Onze Minister van Buitenlandse Zaken ten behoeve van het versturen van notificaties als bedoeld in artikel 5c van de Wet administratiefrechtelijke handhaving verkeersvoorschriften.
+4. Artikel 9, eerste lid, tweede volzin is van overeenkomstige toepassing.
