@@ -5,8 +5,8 @@
 a. de verwerkingsverantwoordelijke of de verwerker te waarschuwen dat met de voorgenomen verwerkingen waarschijnlijk een inbreuk wordt gemaakt op het bij of krachtens deze wet bepaalde;
 b. een last onder bestuursdwang op te leggen ter handhaving van het bij of krachtens deze wet bepaalde;
 c. een bestuurlijke boete op te leggen indien de verwerkingsverantwoordelijke handelt in strijd met hetgeen is bepaald bij of krachtens:
-– de artikelen 39c, eerste lid, voor wat betreft de overeenkomstige toepassing van de artikelen 7, 7a, 7b en 7d in dat lid, en 39r, eerste lid, voor wat betreft de overeenkomstige toepassing van de artikelen 26c, 26g en 26h, van ten hoogste het bedrag van de geldboete van de vijfde categorie van artikel 23, vierde lid, van het Wetboek van Strafrecht;
-– de artikelen 39c, eerste lid, voor wat betreft de overeenkomstige toepassing van artikel 7e in dat lid, 17a, 17b, 18, 22 en 24, van ten hoogste het bedrag van de geldboete van de zesde categorie van artikel 23, vierde lid, van het Wetboek van Strafrecht;
+– de artikelen 39c, eerste lid, voor wat betreft de overeenkomstige toepassing van de artikelen 7, 7a, 7b en 7d in dat lid, en 39r, eerste lid, voor wat betreft de overeenkomstige toepassing van de artikelen 26c, 26f, 26g en 26h, in dat lid van ten hoogste het bedrag van de geldboete van de vijfde categorie van artikel 23, vierde lid, van het Wetboek van Strafrecht;
+– de artikelen 39c, eerste lid, voor wat betreft de overeenkomstige toepassing van artikel 7e in dat lid, 39ha, eerste en tweede lid, 39i, 39m en 39o, van ten hoogste het bedrag van de geldboete van de zesde categorie van artikel 23, vierde lid, van het Wetboek van Strafrecht;
 d. een advies te verstrekken aan de verwerkingsverantwoordelijke naar aanleiding van een voorafgaande raadpleging, bedoeld in artikel 26h;
 e. de verwerkingsverantwoordelijke te verplichten een inbreuk in verband met persoonsgegevens te melden aan de betrokkene.
 4. Artikel 27, vijfde lid, is van overeenkomstige toepassing.

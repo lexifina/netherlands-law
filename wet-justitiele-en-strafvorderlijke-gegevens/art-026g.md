@@ -10,7 +10,7 @@ d. een beschrijving van de voorgestelde of uitgevoerde maatregelen om de inbreuk
 5. De verwerkingsverantwoordelijke deelt een inbreuk op de beveiliging mede aan de betrokkene als deze inbreuk waarschijnlijk een hoog risico voor de rechten en vrijheden van personen met zich meebrengt. De mededeling bevat een omschrijving van de aard van de inbreuk op de beveiliging en ten minste de informatie, bedoeld in het tweede lid, onderdelen b, c en d.
 6. De mededeling aan de betrokkene, bedoeld in het vijfde lid, is niet vereist wanneer:
 a. de verwerkingsverantwoordelijke passende technische en organisatorische beschermingsmaatregelen heeft getroffen en deze maatregelen zijn toegepast op de justitiële gegevens waarop de inbreuk, bedoeld in het eerste lid, betrekking heeft;
-b. de verwerkingsverantwoordelijke maatregelen heeft getroffen om ervoor te zorgen dat het hoge risico, bedoeld in het eerste lid, zich waarschijnlijk niet meer zal voordoen, of
+b. de verwerkingsverantwoordelijke maatregelen heeft getroffen om ervoor te zorgen dat het hoge risico, bedoeld in het vijfde lid, zich waarschijnlijk niet meer zal voordoen, of
 c. de mededeling een onevenredige inspanning zou vergen. In dat geval volgt een openbare mededeling of vergelijkbare maatregel waarmee de betrokkenen even doeltreffend worden geïnformeerd.
 7. De mededeling aan de betrokkene kan worden uitgesteld, beperkt of achterwege gelaten vanwege de gronden, bedoeld in artikel 21, tweede lid.
 8. De melding door een verwerkingsverantwoordelijke aan een betrokkene van een inbreuk op de beveiliging, geschiedt kosteloos.
