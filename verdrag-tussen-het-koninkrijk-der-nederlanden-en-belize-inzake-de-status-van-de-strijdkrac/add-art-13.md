@@ -1,0 +1,2 @@
+# Article XIII. Telecommunications
+Subject to the prior concurrence of the Government of Belize, the sending Party may use any radio frequencies, powers and bandwidths for radio services (including radar) in Belize, which are necessary for the operation of the Personnel of the sending Party in Belize. All radio communications shall comply at all times with the provisions of the International Telecommunications Convention (Treaty Series No 104 (1975), Cmnd 6219).

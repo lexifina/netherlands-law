@@ -1,0 +1,3 @@
+# Artikel XVI. Overmaking van gelden
+1. Overmaking van gelden tussen Belize en het Koninkrijk der Nederlanden is vrijelijk toegestaan wat betreft gelden die het personeel van de zendende partij in verband met de uitoefening van zijn officiële taken heeft verkregen. Dergelijke overmakingen vinden plaats via het ministerie van Defensie.
+2. Overmaking van gelden van Belize naar het Koninkrijk der Nederlanden is vrijelijk toegestaan wat betreft gelden afkomstig van de verkoop van persoonlijke bezittingen, meubilair, motorvoertuigen en overige zaken die het personeel van de zendende partij heeft gebruikt tijdens zijn aanwezigheid in Belize en waarvan afstand wordt gedaan in afwachting van vertrek uit Belize.

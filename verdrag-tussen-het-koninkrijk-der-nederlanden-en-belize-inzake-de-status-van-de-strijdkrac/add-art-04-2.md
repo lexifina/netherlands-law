@@ -1,0 +1,4 @@
+# Artikel IV. Invoer en uitvoer
+1. De ontvangende partij doet afstand van het recht in- en uitvoerrechten, heffingen, accijnzen en andere belastingen te heffen die in de ontvangende partij gewoonlijk geheven worden op uitrusting, materialen, voorraden en andere eigendommen die door de zendende partij in verband met dit Verdrag worden ingevoerd in de ontvangende partij.
+2. Uitrusting, materialen, voorraden en overige eigendommen die de zendende partij in de ontvangende partij invoert, zijn vrijgesteld van inspectie.
+3. Bagage, persoonlijke bezittingen, producten en overige eigendommen die voor persoonlijk gebruik van het personeel van de zendende partij in de ontvangende partij worden ingevoerd, zijn vrijgesteld van in- en uitvoerrechten, heffingen, accijnzen en andere belastingen die gewoonlijk in de ontvangende partij worden geheven.

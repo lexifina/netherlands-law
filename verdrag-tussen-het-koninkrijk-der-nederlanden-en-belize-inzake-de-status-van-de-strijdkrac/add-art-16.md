@@ -1,0 +1,3 @@
+# Article XVI. Remittance of funds
+1. Remittance of funds between Belize and the Kingdom of the Netherlands shall be freely permitted in respect of funds derived by the Personnel of the sending Party in connection with their official duties. Such remittances shall be made through the Ministry of Defence.
+2. Remittance of funds from Belize to the Kingdom of the Netherlands shall be freely permitted in respect of funds derived from the proceeds of sale of personal effects, furniture, motor vehicles and other property used by the Personnel of the sending Party while serving in Belize, which are disposed of in anticipation of their departure from Belize.
