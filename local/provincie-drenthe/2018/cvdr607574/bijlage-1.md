@@ -1,7 +1,7 @@
 # Bijlage 1
 ## Bijlage 1 Salarisgebouw provincies
 Minimum - en maximumsalaris per salarisschaal per 1 januari 2018
-[afbeelding: Tabel1ib62991e0-66ce-4b9d-8cf3-915104146052.jpg]
+[afbeelding: Tabel1i840d93d9-df78-4c39-8d00-93c7c523020d.jpg]
 Bijlage 2 Regeling melden vermoedens van een misstand
 Deze regeling is de uitwerking van de wettelijke verplichting uit de Wet Huis voor Klokkenluiders. De definities uit deze wet zijn dus ook van toepassing in deze regeling.
 Artikel 1 Definities
