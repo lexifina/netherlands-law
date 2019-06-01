@@ -1,3 +1,7 @@
 # Artikel 488b
-1. In afwijking van artikel 27e, eerste lid, geeft de hulpofficier van justitie die bij de voorgeleiding beveelt dat de verdachte wordt opgehouden voor onderzoek, zo spoedig mogelijk kennis van de vrijheidsbeneming en van de redenen daarvan aan de ouders of voogd.
-2. Indien de in het eerste lid bedoelde kennisgeving met toepassing van artikel 27e, derde lid, wordt uitgesteld, geeft de hulpofficier van justitie kennis van de vrijheidsbeneming van de verdachte aan de Raad voor de kinderbescherming.
+1. In afwijking van artikel 27e, eerste lid, geeft de hulpofficier van justitie die bij de voorgeleiding beveelt dat de verdachte wordt opgehouden voor onderzoek, zo spoedig mogelijk kennis van de vrijheidsbeneming en van de redenen daarvan aan de ouders of voogd. De ouders of voogd ontvangen daarbij zo spoedig mogelijk een mededeling van rechten als bedoeld in artikel 488aa.
+2. De mededeling van rechten, bedoeld in het eerste lid, blijft achterwege wanneer:
+a. deze in strijd is met de belangen van de verdachte;
+b. de mededeling niet mogelijk is omdat de ouders of voogd na redelijke inspanning niet kunnen worden bereikt of onbekend zijn.
+3. In het geval, bedoeld in het tweede lid, wordt de mededeling gedaan aan een vertrouwenspersoon. Wanneer de verdachte geen vertrouwenspersoon heeft aangewezen, wordt de mededeling gedaan aan de raad voor de kinderbescherming.
+4. Indien de omstandigheden, bedoeld in het tweede lid, ophouden te bestaan, ontvangen de ouders of voogd de mededeling alsnog.
