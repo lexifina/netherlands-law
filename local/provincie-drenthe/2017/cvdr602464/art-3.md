@@ -1,2 +1,0 @@
-# Artikel 3,. Aanvraagperiode
-Subsidie kan worden aangevraagd van 1 juli 2017 tot en met 31 december 2018.

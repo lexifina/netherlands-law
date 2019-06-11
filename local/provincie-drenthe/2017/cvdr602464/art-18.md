@@ -1,4 +1,0 @@
-# Artikel 18,. Weigeringsgronden
-De subsidie wordt, onverminderd het bepaalde in artikel 2.4 van de ASV SNN 2016, en in aanvulling op artikel 5 van deze regeling, in ieder geval geweigerd indien:
-a. een personeelslid van de aanvrager door de gedetacheerde vervangen wordt;
-b. de mkb-onderneming, de grote onderneming of kennisinstelling waar het hooggekwalificeerd vanuit gedetacheerd wordt, niet onafhankelijk is ten opzichte van de aanvrager.

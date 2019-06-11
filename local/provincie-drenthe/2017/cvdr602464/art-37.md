@@ -1,4 +1,0 @@
-# Artikel 37,. Citeertitel
-Deze subsidieregeling wordt aangehaald als: KEI 2018.
-Toelichting
-Deze subsidieregeling wordt medegefinancierd door het Europees Fonds voor Regionale Ontwikkeling.
