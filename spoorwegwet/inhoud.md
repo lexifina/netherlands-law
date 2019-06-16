@@ -3,14 +3,23 @@
 ## Hoofdstuk 2. Hoofdspoorweginfrastructuur
 ### § 1. Algemeen
 ### § 2. De eigenschappen van hoofdspoorweginfrastructuur
-### § 3. De interoperabiliteit van de hoofdspoorweginfrastructuur
 ### § 4. Beheer van hoofdspoorweginfrastructuur
 ### § 5. Bepalingen inzake stations en laad- en losplaatsen
+## Hoofdstuk 2a. Interoperabiliteit van het hoofdspoorwegsysteem
+### § 1. Interoperabiliteitsonderdelen
+### § 2. Subsystemen
+### § 3. Ontheffing van toepassen TSI's of nationale voorschriften
+### § 4. Vergunning voor het in dienst stellen van subsystemen die deel uitmaken van hoofdspoorweginfrastructuur
+### § 5. Voertuigvergunning
+### § 6. Gebruik van een spoorvoertuig op de hoofdspoorweginfrastructuur
+### § 7. Conformiteitsbeoordelingsinstanties
+### § 8. Registers
+### § 9. Termijnen
 ## Hoofdstuk 3. Het spoorwegbedrijf
 ### § 1. Algemeen
 ### § 2. De bedrijfsvergunning voor spoorwegondernemingen
 ### § 3. Het veiligheidscertificaat
-### § 4. Gebruik, compatibiliteit en interoperabiliteit van spoorvoertuigen en interoperabiliteitsonderdelen
+### § 4. Onderhoud van spoorvoertuigen
 ### § 5. Personeel
 ### § 6. De verzekeringsplicht
 ## Hoofdstuk 4. Het gebruik van hoofdspoorweginfrastructuur
@@ -34,7 +43,6 @@
 ### § 4. Strafrechtelijke handhaving
 ### § 6. Heffingen
 ### § 7. Toepasselijkheid nieuwe Europese regelgeving
-### § 8. Erkenning van keuringsinstanties
 ### § 9. Bepalingen inzake bijzondere spoorwegen
 ### § 10. Informatieplicht
 ### § 11. De verwerking van persoonsgegevens

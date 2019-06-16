@@ -1,0 +1,4 @@
+# Artikel 26x
+1. Indien is gebleken dat een door Onze Minister aangemelde of een aangewezen instantie niet meer voldoet aan de eisen om te worden aangemeld of aangewezen of de voor die instantie geldende verplichtingen, bedoeld in artikel 26w, niet naleeft, kan Onze Minister, afhankelijk van de ernst van het niet voldoen aan de eisen of het niet nakomen van de verplichtingen, de aanmelding of aanwijzing beperken, schorsen of intrekken.
+2. Onze Minister draagt zorg voor een goede overdracht van de dossiers die in behandeling waren bij of in bezit zijn van een aangemelde of aangewezen instantie waarvan de aanmelding of aanwijzing is beperkt, geschorst of ingetrokken of die haar activiteiten heeft gestaakt.
+3. Onze Minister kan vorderen dat een aangemelde of aangewezen instantie als bedoeld in het tweede lid de dossiers aan hem overdraagt.

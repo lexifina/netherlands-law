@@ -1,0 +1,7 @@
+# Artikel 26aa
+1. Onze Minister houdt een voertuigregister en draagt, op aanvraag, zorg voor de inschrijving in dit register van spoorvoertuigen waarvoor een voertuigvergunning is verleend met een gebruiksgebied dat de hoofdspoorweginfrastructuur betreft, tenzij het desbetreffende spoorvoertuig reeds in een register van een andere lidstaat of het Europees voertuigregister is ingeschreven.
+2. Spoorvoertuigen waarvoor Onze Minister de voertuigvergunning heeft verleend, worden in ieder geval in het door hem gehouden voertuigregister ingeschreven, tot het moment dat het Europees voertuigregister operationeel is.
+3. Onze Minister kent aan een spoorvoertuig dat wordt ingeschreven in het door Onze Minister gehouden voertuigregister een Europees voertuignummer toe. De houder van het spoorvoertuig brengt het Europees voertuignummer aan op het spoorvoertuig.
+4. Onze Minister kan een inschrijving in het door hem gehouden voertuigregister wijzigen of schrappen.
+5. De houder van een spoorvoertuig dat staat ingeschreven in het door Onze Minister gehouden voertuigregister meldt informatie die kan leiden tot wijziging of schrapping van de inschrijving van dat spoorvoertuig in dat voertuigregister onverwijld aan Onze Minister.
+6. Onze Minister kan aan de instanties, bedoeld in artikel 47, eerste lid, onderdeel c, van de interoperabiliteitsrichtlijn inzage verlenen in het register, bedoeld in het eerste lid.
