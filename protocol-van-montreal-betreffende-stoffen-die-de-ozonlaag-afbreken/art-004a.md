@@ -1,0 +1,3 @@
+# Article 4A. : Control of trade with Parties
+1. Where, after the phase-out date applicable to it for a controlled substance, a Party is unable, despite having taken all practicable steps to comply with its obligation under the Protocol, to cease production of that substance for domestic consumption, other than for uses agreed by the Parties to be essential, it shall ban the export of used, recycled and reclaimed quantities of that substance, other than for the purpose of destruction.
+2. Paragraph 1 of this Article shall apply without prejudice to the operation of Article 11 of the Convention and the non-compliance procedure developed under Article 8 of the Protocol.
