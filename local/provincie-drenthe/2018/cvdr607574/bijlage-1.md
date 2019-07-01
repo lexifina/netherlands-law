@@ -1,7 +1,26 @@
 # Bijlage 1
 ## Bijlage 1 Salarisgebouw provincies
-Minimum - en maximumsalaris per salarisschaal per 1 januari 2018
-[afbeelding: Tabel1i840d93d9-df78-4c39-8d00-93c7c523020d.jpg]
+Minimum - en maximumsalaris per salarisschaal per 1 juli 2019
+salarisschaal | minimumsalaris | maximumsalaris
+A | 100% van het wettelijk minimumloon | 120% van het wettelijk minimumloon
+1 | € 1.666,71 | € 1.983,39
+2 | € 1.683,39 | € 2.116,32
+3 | € 1.700,04 | € 2.309,80
+4 | € 1.716,73 | € 2.435,18
+5 | € 1.792,49 | € 2.560,71
+6 | € 1.877,87 | € 2.682,69
+7 | € 2.071,73 | € 2.959,62
+8 | € 2.346,31 | € 3.351,85
+9 | € 2.655,03 | € 3.792,89
+10 | € 2.911,07 | € 4.158,69
+11 | € 3.403,49 | € 4.862,16
+12 | € 3.879,07 | € 5.541,52
+13 | € 4.212,32 | € 6.017,59
+14 | € 4.772,95 | € 6.818,50
+15 | € 5.249,48 | € 7.499,28
+16 | € 5.774,37 | € 8.249,11
+17 | € 6.351,20 | € 9.073,15
+18 | € 6.986,06 | € 9.980,12
 Bijlage 2 Regeling melden vermoedens van een misstand
 Deze regeling is de uitwerking van de wettelijke verplichting uit de Wet Huis voor Klokkenluiders. De definities uit deze wet zijn dus ook van toepassing in deze regeling.
 Artikel 1 Definities

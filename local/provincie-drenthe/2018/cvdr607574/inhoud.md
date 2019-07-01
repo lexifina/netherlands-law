@@ -13,6 +13,7 @@
 ### Paragraaf 3.3. Salaristoelagen
 ### Paragraaf 3.4. Overige uitkeringen
 ### Paragraaf 3.5. Individueel keuzebudget (IKB)
+### Paragraaf 3.6 Overgangsrecht invoering harmonisatie toelagen
 ## Hoofdstuk 4. Tijd: arbeidsduur en werktijden
 ## Hoofdstuk 5. Verlof
 ## Hoofdstuk 6. Wijzigingen in aanstelling
