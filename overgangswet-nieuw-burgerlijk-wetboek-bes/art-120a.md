@@ -1,0 +1,5 @@
+# Artikel 120a
+1. Voorzover de bepalingen van een akte van splitsing in appartementen op het tijdstip van inwerkingtreding van artikel 113, eerste lid, eerste volzin, van Boek 5 afwijkt van deze volzin, is deze volzin gedurende drie jaren na dat tijdstip niet van toepassing.
+2. Op een splitsing die heeft plaatsgevonden voor het tijdstip van inwerkingtreding van artikel 118a van Boek 5, is dit artikel gedurende drie jaren na dat tijdstip niet van toepassing.
+3. Op verenigingen van eigenaars die op het tijdstip van inwerkingtreding van artikel 126, eerste lid, tweede volzin, van Boek 5, niet het in deze volzin bedoelde reservefonds in stand houden, is deze volzin gedurende drie jaren na dat tijdstip niet van toepassing.
+4. Op een splitsing die heeft plaatsgevonden voor het tijdstip van inwerkingtreding van het eerste tot en met derde lid van artikel 139 van Boek 5, zoals deze leden zijn komen te luiden bij de Landsverordening regeling gebruik in deeltijd van onroerende zaken en aanpassing appartementsrecht, zijn deze leden gedurende drie jaren na dat tijdstip niet van toepassing.

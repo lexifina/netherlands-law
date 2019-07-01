@@ -1,0 +1,2 @@
+# Artikel 37y
+Zolang de op 19 november 2002 aan de Staten aangeboden ontwerplandsverordening houdende vaststelling van een Nieuw wetboek van Burgerlijk Rechtsvordering (Zitting 2002-2003-2709 (E-110)) niet tot landsverordening is verheven en in werking is getreden, worden aandelen op naam in een naamloze vennootschap of besloten vennootschap geacht zich onder de vennootschap te bevinden, ongeacht of aandeelbewijzen zijn uitgegeven.

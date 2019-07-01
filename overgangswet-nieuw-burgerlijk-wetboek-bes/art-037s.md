@@ -1,0 +1,3 @@
+# Artikel 37s
+1. Bepalingen waarin wordt verwezen naar het begrip «maatschappelijk kapitaal» worden met ingang van het in werking treden van Boek 2 in zoverre voor niet geschreven gehouden.
+2. De term «geplaatst kapitaal» in statuten van een naamloze vennootschap of besloten vennootschap wordt met ingang van het in werking treden van Boek 2 gelezen als «nominaal kapitaal».Waar sprake is van niet gestort kapitaal worden de bepalingen van Boek 2 aangaande de bijstortingsplicht zoveel mogelijk toegepast. Het bepaalde in de vorige zin geldt voor de vennootschap waarvan aandelen op een effectenbeurs worden verhandeld eerst nadat twee jaren zijn verstreken sinds het in werking treden van Boek 2.

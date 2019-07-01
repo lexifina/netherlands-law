@@ -1,0 +1,2 @@
+# Artikel 37q
+De in de statuten als coöperatieve vereniging aangeduide rechtspersoon heeft vanaf het in werking treden van Boek 2 als coöperatie te gelden. Is bij een coöperatieve vereniging, die bij het in werking treden van Boek 2 in staat van vereffening verkeert, aansprakelijkheid ontstaan op grond van artikel 7, aanhef en ten 3e, in verbinding met artikel 19 van de Verordening van de 13de februari 1920 tot regeling der coöperatieve verenigingen (P.B. 1920, no. 9), dan komt deze aansprakelijkheid door het in werking treden van Boek 2 niet te vervallen.
