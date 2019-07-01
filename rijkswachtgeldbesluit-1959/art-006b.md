@@ -1,0 +1,10 @@
+# Artikel 6b
+1. De betrokkene, die het einde van de wachtgeldduur, bedoeld in artikel 6, tweede lid, heeft bereikt, heeft in aansluiting op dat wachtgeld recht op een vervolgwachtgeld.
+2. De betrokkene die
+a. het einde van de wachtgeldduur bedoeld in artikel 6, eerste lid, heeft bereikt en
+b. voldoet aan de voorwaarde, bedoeld in artikel 6, tweede lid, onderdeel a of b, doch uitsluitend wegens zijn arbeidsverleden geen recht heeft op verlenging van de wachtgeldduur, heeft recht op een vervolgwachtgeld.
+3. Behoudens het gestelde in de volgende leden is de duur van het vervolgwachtgeld een jaar.
+4. De duur van het vervolgwachtgeld voor de betrokkene die op de dag van zijn ontslag 57,5 jaar of ouder is, bedraagt drie en een half jaar.
+5. De betrokkene aan wie uitsluitend ingevolge het eerste en tweede lid van artikel 6a een wachtgeld is toegekend en die voldoet aan de voorwaarde, bedoeld in artikel 6, tweede lid, onderdeel a of b, heeft aansluitend recht op een vervolgwachtgeld indien het toegekende wachtgeld eindigt op een tijdstip gelegen binnen een jaar na de datum waarop zijn wachtgeld zou zijn beëindigd, wanneer dit zou zijn toegekend ingevolge artikel 6. Het vervolgwachtgeld eindigt op het tijdstip gelegen een jaar na de in de vorige volzin bedoelde datum.
+6. De betrokkene die op de dag van zijn ontslag 57,5 jaar of ouder is, aan wie uitsluitend ingevolge het eerste en tweede lid van artikel 6a een wachtgeld is toegekend en die voldoet aan de voorwaarde, bedoeld in artikel 6, tweede lid, onderdeel a of b, heeft aansluitend recht op een vervolgwachtgeld indien het toegekende wachtgeld eindigt op een tijdstip gelegen binnen drie en een half jaar na de datum waarop zijn wachtgeld zou zijn beëindigd, wanneer dit zou zijn toegekend ingevolge artikel 6. Het vervolgwachtgeld eindigt op het tijdstip gelegen drie en een half jaar na de in de vorige volzin bedoelde datum.
+7. Tenzij uitdrukkelijk anders is bepaald, zijn bepalingen van het wachtgeld van overeenkomstige toepassing op het vervolgwachtgeld.

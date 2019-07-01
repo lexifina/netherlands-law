@@ -1,0 +1,3 @@
+# Artikel 7a
+1. Het bedrag van het vervolgwachtgeld is gelijk aan het minimumloon, met dien verstande dat dit bedrag nooit meer kan bedragen dan 70% van de bezoldiging.
+2. Voor de toepassing van dit artikel wordt onder minimumloon verstaan het maandbedrag van het minimumloon bedoeld in artikel 8, eerste lid, onder a, van de Wet minimumloon en minimumvakantiebijslag, of, indien het een betrokkene jonger dan 21 jaar betreft, het voor zijn leeftijd geldende minimumloon bedoeld in artikel 7, derde lid, en artikel 8, derde lid, van genoemde wet, beide vermeerderd met de daarvoor berekende vakantiebijslag, bedoeld in artikel 15 van die wet.
