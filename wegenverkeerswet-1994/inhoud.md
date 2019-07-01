@@ -77,7 +77,7 @@
 ### § 3. Europese elektronische tolheffingsdienst
 ### § 4. Nadere regelgeving
 ## Hoofdstuk VIB. Intelligente vervoerssystemen op het gebied van wegvervoer
-## Hoofdstuk VII. Vrijstelling en ontheffing
+## Hoofdstuk VII. Vrijstelling, ontheffing en vergunning
 ## Hoofdstuk VIIA. Vakbekwaamheid bestuurders goederen- en personenvervoer over de weg
 ### § 1. Algemene bepalingen
 ### § 2. Getuigschrift van vakbekwaamheid en getuigschrift van nascholing
