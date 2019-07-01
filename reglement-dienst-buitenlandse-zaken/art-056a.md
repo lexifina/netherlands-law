@@ -1,0 +1,3 @@
+# Artikel 56a. Vergoeding van ziektekosten bij dienstongeval en beroepsziekte
+1. Indien de ziekte, uit hoofde waarvan de ambtenaar of de gewezen ambtenaar ongeschikt is zijn arbeid te verrichten, voortvloeit uit een dienstongeval of een door het verrichten van zijn arbeid opgelopen beroepsziekte, worden hem vergoed de naar het oordeel van Onze Minister noodzakelijk gemaakte kosten van geneeskundige behandeling of verzorging die voor rekening van de ambtenaar blijven.
+2. Door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties krachtens artikel 48, tweede lid, van het ARAR gestelde nadere regels zijn van overeenkomstige toepassing.

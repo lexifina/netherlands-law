@@ -1,0 +1,26 @@
+# Artikel 54b
+1. De gewezen ambtenaar die wegens ziekte, ontstaan voor het tijdstip van ingang van zijn ontslag, na zijn ontslag anders dan op grond van artikel 104, eerste lid, onderdeel e, nog ongeschikt is een naar aard en omvang soortgelijke functie te vervullen, heeft:
+a. zolang hij ongeschikt tot werken is wegens ziekte, maar niet langer dan een tijdvak van 52 weken, recht op doorbetaling van zijn laatstelijk genoten bezoldiging vermeerderd met de vakantie-uitkering en de eindejaarsuitkering;
+b. zolang hij na afloop van het tijdvak, bedoeld in onderdeel a, nog ongeschikt is tot het verrichten van arbeid wegens ziekte, gedurende maximaal 26 weken recht op doorbetaling van 70% van zijn laatstelijk genoten bezoldiging vermeerderd met de vakantie-uitkering en de eindejaarsuitkering.
+2. De gewezen ambtenaar die binnen vier weken na het tijdstip van zijn ontslag wegens ziekte ongeschikt wordt een naar aard en omvang soortgelijke functie te vervullen, heeft, zolang hij ongeschikt is tot werken wegens ziekte, gedurende maximaal 52 weken recht op doorbetaling van zijn laatstelijk genoten bezoldiging indien hij gedurende ten minste twee maanden onmiddellijk aan het ontslag voorafgaande in dienst is geweest.
+3. De gewezen ambtenaren, bedoeld in het eerste en tweede lid, hebben gedurende een tijdvak van 104 weken als bedoeld in artikel 23 van de WIA, recht op doorbetaling van hun laatstelijk genoten bezoldiging vermeerderd met de vakantie-uitkering en de eindejaarsuitkering indien hun arbeidsongeschiktheid wordt veroorzaakt door een beroepsincident.
+4. Het tijdvak gedurende welke de gewezen ambtenaar recht heeft op doorbetaling van zijn laatstelijk genoten bezoldiging vangt aan op de eerste dag waarop wegens ziekte geheel of gedeeltelijk niet is of zou zijn gewerkt of het werken wegens ziekte geheel of gedeeltelijk is of zou zijn gestaakt. Indien de gewezen ambtenaar onmiddellijk voorafgaand aan het ontslag buitengewoon verlof zonder behoud van bezoldiging genoot, vangt het tijdvak, bedoeld in het eerste lid, onderdeel a, aan op de dag waarop het ontslag is ingegaan.
+5. Voor het bepalen van het einde van het tijdvak van 52 weken, bedoeld in het eerste en tweede lid, worden perioden van ongeschiktheid tot werken wegens ziekte samengeteld, indien:
+a. zij elkaar met een onderbreking van minder dan vier weken opvolgen, of
+b. zij direct voorafgaan aan of aansluiten op een periode waarin zwangerschap- of bevallingsverlof wordt genoten overeenkomstig artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg, of een uitkering op grond van artikel 3:8 of 3:10, eerste lid, van die wet, tenzij de ongeschiktheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak.
+6. De doorbetaling van de laatstelijk genoten bezoldiging, bedoeld in het eerste, tweede en derde lid, eindigt in ieder geval:
+a. met ingang van de dag waarop de gewezen ambtenaar de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt; of
+b. met ingang van de dag volgende op die waarop de gewezen ambtenaar is overleden.
+7. De gewezen ambtenaar die recht heeft op een WIA-uitkering ter zake van de dienstbetrekking die hij voor zijn ontslag vervulde, heeft recht op een aanvullende uitkering indien de arbeidsongeschiktheid is veroorzaakt door een beroepsincident.
+8. De aanvullende uitkering, bedoeld in het zevende lid, is gelijk aan het verschil tussen:
+a. een percentage van de laatstelijk genoten bezoldiging vermeerderd met de vakantie-uitkering en de eindejaarsuitkering, in het jaar voorafgaande aan zijn ontslag; en
+b. de aan de gewezen ambtenaar toegekende WIA-uitkering, in voorkomend geval vermeerderd met een hem toegekende AAOP-uitkering.
+9. Het percentage, bedoeld in het achtste lid, onderdeel a, is afhankelijk van de mate van arbeidsongeschiktheid en bedraagt bij een arbeidsongeschiktheid van:
+80% of meer: | 90,02%;
+65 tot 80%: | 65,26%;
+55 tot 65%: | 54,01%;
+45 tot 55%: | 45,01%;
+35 tot 45%: | 36,01%.
+10. De aanvullende uitkering, bedoeld in het zevende lid, eindigt:
+a. met ingang van de dag waarop de gewezen ambtenaar de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt; of
+b. met ingang van de dag volgende op die waarop de gewezen ambtenaar is overleden.

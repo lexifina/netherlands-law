@@ -1,0 +1,6 @@
+# Artikel 54e. Geen aanspraak op doorbetaling van bezoldiging
+1. De ambtenaar en de gewezen ambtenaar hebben geen aanspraak op doorbetaling van de bezoldiging:
+a. indien de ziekte is voorgewend, althans zodanig overdreven wordt voorgesteld, dat ongeschiktheid tot het verrichten van arbeid wegens ziekte niet kan worden aangenomen;
+b. indien de ambtenaar de ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte opzettelijk heeft veroorzaakt, tenzij hem daarvan op grond van zijn psychische toestand geen verwijt kan worden gemaakt, of
+c. indien de ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte zich voordoet binnen een half jaar na het geneeskundig onderzoek, bedoeld in artikel 23, vierde lid, onderdeel b, en blijkt dat de ambtenaar onjuiste informatie omtrent zijn gezondheidstoestand heeft verstrekt of gegevens heeft verzwegen, ten gevolge waarvan de verklaring van geschiktheid ten onrechte is afgegeven, tenzij de ambtenaar aannemelijk maakt dat hij te goeder trouw heeft gehandeld.
+2. De gewezen ambtenaar heeft geen aanspraak op doorbetaling van zijn laatstelijk genoten bezoldiging, indien hij op grond van een aanvaarde andere betrekking aanspraak kan maken op betaling van loon of bezoldiging, dan wel aanspraak kan maken op een ZW-uitkering.
