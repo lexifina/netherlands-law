@@ -1,0 +1,4 @@
+# Artikel VII
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+2. De artikelen II, onderdelen A en B, onderdeel C voor zover het betreft het nieuwe artikel 3a.1.2 van de Wet maatschappelijke ondersteuning 2015, en onderdeel E, artikel III en artikel V werken terug tot en met 1 januari 2018. In afwijking van de vorige zin werkt artikel II, onderdeel B, voor de colleges van burgemeester en wethouders van de gemeenten Amsterdam, Berkelland, 's-Gravenhage, Lansingerland, Pijnacker-Nootdorp, Rotterdam, Utrecht en Zoetermeer terug tot en met 1 januari 2019.
+3. In afwijking van artikel 3a.1.2 van de Wet maatschappelijke ondersteuning 2015 kan tot 1 januari 2019 voor een telefonisch gesprek als bedoeld in artikel 3a.1.2 van de Wmo 2015, een bijdrage per gespreksminuut worden gevraagd.
