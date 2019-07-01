@@ -3,5 +3,6 @@
 2. De zorgverzekeraar sluit de verzekering niet zolang het verstrekte adres van de persoon of personen, bedoeld in het eerste lid, niet in de basisregistratie personen voorkomt of afwijkt van het adres waaronder deze persoon of personen in die administratie als ingezetene staat of staan ingeschreven.
 3. In afwijking van het tweede lid wordt de te verzekeren persoon ingeschreven:
 a. indien degene die de zorgverzekering wenst te sluiten een verklaring van de werkgever of een salarisafschrift heeft overgelegd, waaruit blijkt dat de te verzekeren persoon, onder vermelding van de ingangsdatum van de dienstbetrekking, ter zake van in Nederland of op het continentaal plat als bedoeld in artikel 1.1.1 van de Wet langdurige zorg, in dienstbetrekking verrichte arbeid aan de loonbelasting is onderworpen, mits die verklaring of het salarisafschrift niet ouder zijn dan één maand;
-b. indien degene die de zorgverzekering wenst te sluiten een verklaring van de Sociale Verzekeringsbank heeft overgelegd waaruit blijkt dat de te verzekeren persoon verzekerd is ingevolge de Wet langdurige zorg; of
+b. indien degene die de zorgverzekering wenst te sluiten een verklaring van de Sociale verzekeringsbank heeft overgelegd waaruit blijkt dat de te verzekeren persoon verzekerd is ingevolge de Wet langdurige zorg; of
 c. indien de persoon of de personen, bedoeld in het tweede lid, van de afwijking redelijkerwijs geen verwijt kan worden gemaakt.
+4. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot het derde lid.
