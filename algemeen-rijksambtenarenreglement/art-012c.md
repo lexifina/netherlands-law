@@ -1,0 +1,5 @@
+# Artikel 12c
+1. De ambtenaar wordt bij zijn aanstelling schriftelijk op de hoogte gesteld van de hoofdlijnen van zijn rechtspositie.
+2. Regelingen waarin zijn rechtspositie is neergelegd worden op een voor de ambtenaar gemakkelijk toegankelijke plaats ter inzage gelegd. Van deze regelingen kan hij kosteloos afschriften maken voor zover dat redelijkerwijs nodig is.
+3. De schriftelijk vastgestelde en voor hem geldende regelingen en instructies, welke hij bij de vervulling van zijn dienst heeft na te leven, worden eveneens op een voor de ambtenaar gemakkelijk toegankelijke plaats ter inzage gelegd. In het geval vermelde regelingen en instructies niet schriftelijk zijn vastgesteld, worden deze behoorlijk te zijner kennis gebracht.
+4. Over belangrijke wijzigingen in regelingen betreffende zijn rechtspositie wordt de ambtenaar periodiek op de hoogte gesteld.

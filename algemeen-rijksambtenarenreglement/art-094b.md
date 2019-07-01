@@ -1,0 +1,10 @@
+# Artikel 94b
+1. Bij regeling van Onze Minister voor Wonen en Rijksdienst worden functies aangewezen die uit hoofde van de aard van de aan die functies verbonden werkzaamheden als substantieel bezwarend worden aangemerkt.
+2. Aan de ambtenaar die is belast met een functie die is aangemerkt als substantieel bezwarend wordt op zijn verzoek eervol ontslag verleend met het oog op een uitkering op grond van het achtste lid, indien onmiddellijk voorafgaand aan het ontslag een aaneengesloten diensttijd van ten minste vijf jaar is doorgebracht in een of meer substantieel bezwarende functies.
+3. Het ontslag, bedoeld in het tweede lid, kan niet eerder ingaan dan met ingang van de eerst mogelijke datum waarop het ouderdomspensioen op grond van de overeenkomst, bedoeld in artikel 4, eerste lid, van de Wet privatisering ABP, in kan gaan.
+4. Op aanvraag van de ambtenaar kan het ontslag voor een gedeelte van de voor hem geldende arbeidsduur worden verleend. Dit gedeelte bedraagt ten minste 10% en ten hoogste 50% van de omvang van de voor hem geldende arbeidsduur.
+5. Het vierde lid is niet van toepassing indien de werktijd van de ambtenaar is teruggebracht op grond van artikel 21a, eerste lid.
+6. Na het ontslag, bedoeld in het vierde lid, kan op aanvraag van de ambtenaar ontslag worden verleend voor de resterende arbeidsduur.
+7. Ontslag uit een substantieel bezwarende functie wordt uiterlijk verleend op de dag waarop de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, is bereikt.
+8. De ambtenaar, aan wie op grond van het tweede, vierde of zesde lid voor het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet ontslag is verleend, heeft recht op een uitkering. Onze Minister voor Wonen en Rijksdienst stelt regels over de uitkering.
+9. Het tweede tot en met achtste lid zijn niet van toepassing op de ambtenaar die gebruik heeft gemaakt van de op grond van artikel 60, door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties vastgestelde regeling.

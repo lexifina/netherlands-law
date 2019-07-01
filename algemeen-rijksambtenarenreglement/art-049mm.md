@@ -1,0 +1,2 @@
+# Artikel 49mm. Flexibel werken
+Het bevoegd gezag draagt er zorg voor dat de VWNW-kandidaat desgewenst na plaatsing in een functie binnen de sector Rijk minimaal 20% van zijn werktijd flexibel kan werken indien het aanvaarden van die functie hierdoor wordt bevorderd, tenzij de aard van de werkzaamheden zich daartegen verzet. De flexibiliteit heeft betrekking op de werktijden en de plaats waar gewerkt wordt.

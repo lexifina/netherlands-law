@@ -1,0 +1,2 @@
+# Artikel 49aa. Passende functie
+Van een passende functie is sprake indien de VWNW-kandidaat naar het oordeel van het bevoegd gezag beschikt over de kennis en kunde die noodzakelijk worden geacht om de functie naar behoren te kunnen uitoefenen, dan wel indien de VWNW-kandidaat naar het oordeel van het bevoegd gezag binnen redelijke termijn om-, her- of bijgeschoold kan worden, en deze functie hem in verband met zijn persoonlijkheid, zijn omstandigheden en de voor hem bestaande vooruitzichten, redelijkerwijs kan worden opgedragen.

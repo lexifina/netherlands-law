@@ -1,0 +1,4 @@
+# Artikel 49u. Afzien van de voorbereidende fase
+1. In afwijking van artikel 49s, kan het bevoegd gezag afzien van een voorbereidende fase indien de omstandigheden daartoe aanleiding geven, nadat het bevoegd gezag de centrales van verenigingen van ambtenaren in de gelegenheid heeft gesteld daarover advies uit te brengen.
+2. Een geschil tussen het bevoegd gezag en de centrales van verenigingen van ambtenaren naar aanleiding van het advies, bedoeld in het eerste lid, wordt door of namens Onze Minister voor Wonen en Rijksdienst voorgelegd aan de Sectorcommissie overleg rijkspersoneel, bedoeld in artikel 105.
+3. Het geschil, bedoeld in het tweede lid, wordt door of namens Onze Minister voor Wonen en Rijksdienst of door de Sectorcommissie overleg rijkspersoneel voorgelegd aan de Advies- en Arbitragecommissie, bedoeld in artikel 110g, indien hierover in het overleg geen overeenstemming is bereikt.

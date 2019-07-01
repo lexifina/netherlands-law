@@ -1,0 +1,3 @@
+# Artikel 38a
+1. De ambtenaar die ongeschikt is zijn arbeid te verrichten wegens een dienstongeval of een beroepsziekte doch niet door een beroepsincident, wordt op zijn aanvraag voor de toepassing van dit hoofdstuk gelijkgesteld met de ambtenaar die ongeschikt is zijn arbeid te verrichten wegens een beroepsincident.
+2. De gewezen ambtenaar van wie de arbeidsongeschiktheid wordt veroorzaakt door een dienstongeval of een beroepsziekte doch niet door een beroepsincident, wordt op zijn aanvraag voor de toepassing van dit hoofdstuk gelijkgesteld met de gewezen ambtenaar van wie de arbeidsongeschiktheid wordt veroorzaakt door een beroepsincident.

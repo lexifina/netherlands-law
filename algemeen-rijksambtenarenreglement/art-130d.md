@@ -1,0 +1,2 @@
+# Artikel 130d
+De ambtenaar die op 1 januari 2017 reeds werkzaam is in een functie genoemd in artikel 1, onder b, van de regeling, bedoeld in artikel 7, vierde lid, wordt met ingang van die datum geacht te zijn aangesteld overeenkomstig artikel 7, derde lid, en in die functie te zijn benoemd voor een periode van zeven jaar verminderd met de tijd dat hij de functie voor 1 januari 2017 heeft vervuld, doch voor een periode van ten minste drie jaar na die datum.
