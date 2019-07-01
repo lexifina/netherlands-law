@@ -1,0 +1,3 @@
+# Artikel 5a
+1. In afwijking van artikel 2, derde lid, onderdeel a, onder 1°, kunnen een leverancier en een verbruiker overeenkomen dat aan de verbruiker een prijs in rekening wordt gebracht voor de levering van warmte die afwijkt van de maximumprijs, bedoeld in artikel 5, eerste lid, indien de leverancier de verbruiker aantoonbaar een aanbod voor levering van warmte heeft gedaan dat in ieder geval de mogelijkheid bevat om warmte geleverd te krijgen tegen ten hoogste de maximumprijs, bedoeld in artikel 5, eerste lid.
+2. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld waaraan het aanbod, bedoeld in het eerste lid, moet voldoen.
