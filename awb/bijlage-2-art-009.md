@@ -30,6 +30,7 @@ Wet langdurige zorg, met uitzondering van:
 a. besluiten van Onze Minister van Volksgezondheid, Welzijn en Sport;
 b. van een met het toezicht belaste ambtenaar, en
 c. een beschikking op grond van artikel 11.4.1 of 11.4.2.
+Wet maatschappelijke ondersteuning 2015: artikel 3a.1.1
 Wet milieubeheer: artikel 15.50
 Wet op de arbeidsongeschiktheidsverzekering
 Wet overheidspersoneel onder de werknemersverzekeringen

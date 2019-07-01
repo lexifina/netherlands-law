@@ -17,7 +17,7 @@ Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen
 Wet allocatie arbeidskrachten door intermediairs, met uitzondering van artikel 15b en hoofdstuk 5
 Wet educatie en beroepsonderwijs, voor zover het betreft een algemene maatregel van bestuur als bedoeld in de artikelen 4.1.2 en 4.3.2, voor zover het besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap betreft
 Wet financiële voorzieningen privatisering ABP
-Wet maatschappelijke ondersteuning 2015, met uitzondering van artikel 2.6.8
+Wet maatschappelijke ondersteuning 2015, met uitzondering van de artikelen 2.6.8 en 3a.1.1
 Wet op de expertisecentra, voor zover het betreft een algemene maatregel van bestuur als bedoeld in de artikelen 33, tweede lid, en 55, voor zover het besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap betreft
 Wet op de Nederlandse organisatie voor Wetenschappelijk Onderzoek, voor zover het betreft een algemene maatregel van bestuur als bedoeld in artikel 14, voor zover het besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap betreft
 Wet op het hoger onderwijs en wetenschappelijk onderzoek, voor zover het betreft een algemene maatregel van bestuur als bedoeld in artikel 4.5, voor zover het besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap betreft
