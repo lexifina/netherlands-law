@@ -49,7 +49,7 @@ Wet marktordening gezondheidszorg, voor zover het betreft een besluit van de Ned
 Wet op de inlichtingen- en veiligheidsdiensten 2017: artikel 53, zevende lid
 Wet op het financieel toezicht, met uitzondering van:
 a. de artikelen 3A:17 tot en met 3A:19, 3A:85 en 3A:86
-b. hoofdstuk 5.1 en de artikelen 5:77, eerste lid, en 5:81, derde lid
+b. de artikelen 5:77, eerste lid, en 5:81, derde lid
 c. een besluit terzake van het ingevolge artikel 5:76, tweede lid, of 5:80b, vijfde lid, bepaalde, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in artikel 1:80
 d. de artikelen 6:1 en 6:2
 Wet op het notarisambt, voor zover het de toepassing of overeenkomstige toepassing van de Wet verplichte beroepspensioenregeling betreft op grond van artikel 113c

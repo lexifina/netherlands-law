@@ -355,16 +355,6 @@
 ##### § 4.3.8.3. Verhouding tussen financiële ondernemingen bij financiële diensten met betrekking tot verzekeringen
 ## 5. Deel Gedragstoezicht financiële markten
 ### Hoofdstuk 5.1. Regels voor het aanbieden van effecten
-#### Afdeling 5.1.1. Inleidende bepaling
-#### Afdeling 5.1.2. Verbod en uitzonderingen
-#### Afdeling 5.1.3. Aanbieden van effecten aan het publiek en het toelaten van effecten op een gereglementeerde markt
-##### § 5.1.3.1. Goedkeuringsbevoegdheid
-##### § 5.1.3.2. Goedkeuring van het prospectus
-##### § 5.1.3.3. Reikwijdte van een in een andere lidstaat goedgekeurd prospectus
-##### § 5.1.3.4. Procedure inzake het opstellen van het prospectus en de in het prospectus op te nemen gegevens
-##### § 5.1.3.5. Reclame-uitingen, algemeenverkrijgbaarstelling van het prospectus en geldigheidsduur van het prospectus
-##### § 5.1.3.6. Informatieverplichtingen na goedkeuring van het prospectus
-##### § 5.1.3.7. Aanvullende bevoegdheden voor de Autoriteit Financiële Markten bij aanbieden van effecten
 ### Hoofdstuk 5.1a. Regels voor informatievoorziening door uitgevende instellingen
 #### Afdeling 5.1a.1. Afdeling 5.1a.1 Informatieverplichtingen voor uitgevende instellingen waarvan effecten zijn toegelaten tot de handel op een gereglementeerde markt en waarvan Nederland lidstaat van herkomst is
 ##### § 5.1a.1.1. Inleidende bepalingen

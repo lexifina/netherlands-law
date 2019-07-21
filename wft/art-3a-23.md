@@ -5,4 +5,4 @@ a. wijziging van relevante registers;
 b. toelating tot de handel op een gereglementeerde markt van nieuwe kernkapitaalinstrumenten of eigendomsinstrumenten;
 c. hernieuwde toelating tot de handel van schuldinstrumenten waarvan de hoofdsom is verlaagd; of
 d. wijziging van de statuten in geval van vermindering van het bedrag van de aandelen.
-3. Bij de toepassing van het tweede lid, onderdelen b en c, is artikel 5:2 niet van toepassing.
+3. Bij de toepassing van het tweede lid, onderdelen b en c, is artikel 3, eerste en tweede lid, van de prospectusverordening niet van toepassing.
