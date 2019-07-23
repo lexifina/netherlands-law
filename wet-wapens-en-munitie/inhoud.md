@@ -10,6 +10,7 @@
 ## § 7a. Markering van vuurwapens en munitie
 ## § 8. Veiligheidseisen
 ## § 9. Beroep
+## § 9a. Registratie ter uitvoering van Richtlijnverplichtingen
 ## § 10. Bepalingen over de uitvoering van de wet
 ## § 11. Toezicht op de naleving
 ## § 11a. Opsporing
