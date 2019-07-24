@@ -47,5 +47,6 @@
 ### Paragraaf 12.3. Overgangsbepalingen in verband met de omvorming van Ad-programma tot associate degree-opleiding
 ### Paragraaf 12.4. Overgangsbepaling in verband met invoering verlaagd wettelijk collegegeld
 ### Paragraaf 12.5. Overgangsbepaling in verband met de Wet tot wijziging van de Wet studiefinanciering 2000 met het oog op het verminderen van het aantal OV-boetes
+### Paragraaf 12.6. Overgangsbepaling in verband met een wijziging van de criteria voor de toekenning van meeneembare studiefinanciering
 ## Hoofdstuk 13. Horizonbepalingen
 ## Hoofdstuk 14. Slotbepalingen
