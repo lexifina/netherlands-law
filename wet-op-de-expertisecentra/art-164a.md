@@ -12,8 +12,10 @@ h. bekostigingsindicatie;
 i. de onderwijssoort dan wel het cluster, bedoeld in artikel 2, vierde lid, onder d;
 j. indien een leerling is toegelaten met toepassing van artikel 40, derde lid, tweede volzin, de indicatie voor het soort verblijf;
 k. indien een leerling is ingeschreven op een school niet zijnde een instelling: het registratienummer van het samenwerkingsverband, bedoeld in de Wet op het primair onderwijs dan wel de Wet op het voortgezet onderwijs, dat de leerling toelaatbaar heeft verklaard tot het speciaal dan wel voortgezet speciaal onderwijs en het volgnummer van de toelaatbaarheidsverklaring, bedoeld in artikel 40, tiende en twaalfde lid;
-l. de begin- en einddatum van de periode waarvoor de leerling toelaatbaar is verklaard tot het speciaal dan wel voortgezet speciaal onderwijs; en
+l. de begin- en einddatum van de periode waarvoor de leerling toelaatbaar is verklaard tot het speciaal dan wel voortgezet speciaal onderwijs;
 m. de bekostigingscategorie, bedoeld in de artikelen 118, tiende lid, en 132, vierde lid, van de Wet op het primair onderwijs en de artikelen 85b, derde lid, en 89a, derde lid, van de Wet op het voortgezet onderwijs;
+n. indien van toepassing de uitslag van de centrale eindtoets of andere eindtoets, bedoeld in artikel 18b, het niveau waarop de centrale eindtoets of andere eindtoets is afgelegd en indien geen centrale eindtoets of andere eindtoets is afgelegd de reden daarvan; en
+o. het schooladvies, bedoeld in artikel 43, tweede lid;
 n. indien van toepassing de leerweg of het profiel van het onderwijs, bedoeld in artikel 14a;
 o. het behaalde diploma ingevolge artikel 14a, eerste lid, onderdeel b, of artikel 14b; en
 p. de vakken waarin examen is afgelegd, de cijfers van het schoolexamen en het centraal examen, de eindcijfers, de uitslag van het eindexamen of deeleindexamen ingevolge artikel 14a, eerste lid, onderdeel b, of artikel 14b, en de datum waarop deze uitslag is bepaald.
