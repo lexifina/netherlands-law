@@ -1,0 +1,3 @@
+# Artikel IV. Wijziging Regeling intra- en intersectorale programma's
+1. De Regeling intra- en intersectorale programma's v.m.b.o. vervalt, met dien verstande dat deze in schooljaar 2016–2017 van toepassing blijft ten aanzien van het onderwijs aan leerlingen die in het vierde leerjaar van het vmbo zitten.
+2. Indien het bevoegd gezag van de school toepassing heeft gegeven aan artikel 118aa, eerste lid, van de Wet op het voortgezet onderwijs of artikel 214d, eerste lid, van de Wet voortgezet onderwijs BES, blijft de Regeling intra- en intersectorale programma's v.m.b.o. eveneens van toepassing ten aanzien van het onderwijs aan leerlingen die in schooljaar 2016–2017 in het derde leerjaar en in schooljaar 2017–2018 in het vierde leerjaar van het vmbo zitten.
