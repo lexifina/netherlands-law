@@ -1,0 +1,24 @@
+# Artikel 5a
+1. Het directoraat-generaal Koninkrijksrelaties staat onder leiding van een directeur-generaal.
+2. Het directoraat-generaal heeft de volgende taken:
+a. het zorg dragen voor een toekomstbeeld, scenario's en handvatten om het Koninkrijk nader vorm en inhoud te geven, door beleidsvorming, beleidsvaststelling en uitvoering;
+b. het onderhouden van goede relaties met en het coördineren van de samenwerking met de openbare lichamen van Caribisch Nederland en met Curaçao, Aruba en Sint Maarten;
+c. het met andere partners binnen en buiten het departement zorg dragen voor het opstellen en verwezenlijken van het beleid van het ministerie voor de openbare lichamen van Caribisch Nederland;
+d. het met andere partners binnen en buiten het departement zorg dragen voor de coördinatie van het algemene beleid van de Rijksoverheid op dit terrein, met de speerpunten die samen met de openbare lichamen van Caribisch Nederland en de departementen worden bepaald;
+e. het beheersmatig aansturen van de kabinetten van de gouverneur en de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba;
+f. het ter beschikking stellen van mensen en middelen aan het College Financieel Toezicht Curaçao en Sint Maarten, het College Financieel Toezicht Bonaire, Sint Eustatius en Saba, en het College Aruba Financieel Toezicht;
+g. het aansturen van de Rijksdienst Caribisch Nederland (RCN);
+h. het ondersteunen van de Vertegenwoordiger bij het uitvoeren van zijn taken en opdracht zoals vastgelegd in het Koninklijk Besluit van 4 maart 2013 (Stcrt. 2013, nr. 8486);
+i. het uitvoeren van de taken van de Vertegenwoordiging van Nederland bij Curaçao, Aruba en Sint Maarten te weten:
+1°. het adviseren van en rapporteren aan de bewindspersonen en desgewenst aan de overige ministers over het beleid voor Curaçao, Aruba, en Sint Maarten;
+2°. het begeleiden van officiële bezoeken van Nederlandse ministers, staatssecretarissen en delegaties;
+3°. het uitvoeren van Kieswettaken voor de Tweede Kamerverkiezingen en de Europese verkiezingen;
+4°. het verwijzen van Nederlanders die niet weten bij welke lokale instanties ze moeten zijn;
+5°. het bieden van hulp aan Nederlanders die in de problemen zijn geraakt;
+6°. het verlenen van gedetineerdenzorg aan Nederlanders die in Aruba, Curaçao en Sint Maarten zijn aangehouden;
+7°. het geven van informatie over Nederlandse rijbewijzen en paspoorten;
+j. het bijdragen aan de wederopbouw van de Nederlandse Bovenwindse eilanden Sint Maarten, Saba en Sint Eustatius.
+3. Het directoraat-generaal bestaat uit de volgende organisatieonderdelen:
+a. de directie Koninkrijksrelaties (DKR);
+b. de projectdirectie Wederopbouw Bovenwindse Eilanden (PDWBE);
+c. de Rijksdienst Caribisch Nederland (RCN).
