@@ -3,4 +3,4 @@
 a. Gedeputeerde Staten aan de directeur mandaat hebben verleend tot het beslissen op de desbetreffende aanvraag;
 b. voor het in behandeling nemen van de aanvraag leges verschuldigd zijn op grond van de Belastingverordening Drenthe.
 2. Het mandaat, bedoeld in het eerste lid, ziet tevens op de ondertekening van namens de ambtenaar belast met heffing van provinciale belastingen genomen besluiten.
-3. Het mandaat, bedoeld in het eerste lid, ziet niet op de bevoegdheid tot het beslissen op bezwaarschriften als bedoeld in artikel 6:4 van de Algemene wet bestuursrecht.
+3. Het mandaat, bedoeld in het eerste lid, ziet tevens op de bevoegdheid tot het beslissen op bezwaarschriften als bedoeld in artikel 6:4 van de Algemene wet bestuursrecht.
