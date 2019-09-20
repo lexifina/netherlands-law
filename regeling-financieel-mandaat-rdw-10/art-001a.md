@@ -1,6 +1,0 @@
-# Artikel 1a
-De aan de Directie bij artikel 4g, eerste lid, van de Wegenverkeerswet 1994 verleende bevoegdheid wordt ten aanzien van het aangaan van financiële verplichtingen – voor zover ze een geldelijk belang van € 250.000,– exclusief BTW niet te boven gaan – gemandateerd en volmacht verleend aan:
-a. de Divisiemanager Toezicht en Beoordeling;
-b. de Divisiemanager Voertuig Regelgeving Toelating;
-c. de Divisiemanager Registratie en Informatie;
-d. de Manager ICT Bedrijf (Informatie en Communicatie Technologie).
