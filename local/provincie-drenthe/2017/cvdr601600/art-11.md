@@ -1,3 +1,3 @@
-# Artikel 11,. Subsidiehoogte
-1. Voor de hydrologische toets bedraagt de maximale subsidie € 3.000,--.
-2. Voor de hydrologische en ecologische toets bedraagt de maximale subsidie € 5.000,--.
+# Artikel 11,. Verdeelsystematiek
+1. Subsidie wordt verdeeld op volgorde van datum van binnenkomst van de subsidieaanvragen.
+2. Voor zover door verstrekking van subsidie voor aanvragen die op dezelfde dag zijn ontvangen het subsidieplafond wordt overschreden, wordt de onderlinge rangschikking van die aanvragen vastgesteld door middel van loting.
