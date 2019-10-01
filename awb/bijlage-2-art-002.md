@@ -34,7 +34,7 @@ b. artikel Y 2 in samenhang met artikel D 7, G 1, G 4, I 4, K 8, L 11 of M 4
 c. de artikelen Y 32 en Y 33
 Mijnbouwwet:
 a. een besluit dat van toepassing is op het continentaal plat, met uitzondering van een besluit krachtens de afdelingen 5.1.1, 5.1.2, 5.3, 5.4 of 5.5
-b. een besluit omtrent een mijnbouwmilieuvergunning krachtens artikel 40 en instemming met een winningsplan krachtens artikel 34 dan wel een winningsplan of een opslagplan krachtens de artikelen 34 en 39, eerste lid
+b. een besluit omtrent een mijnbouwmilieuvergunning krachtens artikel 40, instemming met een winningsplan krachtens artikel 34, instemming met een winningsplan of een opslagplan krachtens 39, eerste lid, en de vaststelling van een operationele strategie krachtens artikel 52d
 Ontgrondingenwet: hoofdstuk II en de artikelen 26a, eerste lid, 27 en 29a, eerste lid
 Participatiewet: artikel 76, eerste en tweede lid
 Provinciewet:
