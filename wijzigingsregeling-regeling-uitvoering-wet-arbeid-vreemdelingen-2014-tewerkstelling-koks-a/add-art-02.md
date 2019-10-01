@@ -1,0 +1,3 @@
+# Artikel II
+1. De voorschriften die op grond van paragraaf 19a zoals dat luidt na de inwerkingtreding van deze regeling worden verbonden aan tewerkstellingsvergunningen of gecombineerde vergunningen, zijn van toepassing op tewerkstellingsvergunningen of gecombineerde vergunningen die zijn verleend op grond van paragraaf 19a zoals die paragraaf luidde op de dag voor de inwerkingtreding van deze regeling.
+2. Ten aanzien van aanvragen die zijn ingediend voor 1 november 2019, is de verplichting om de beschikbaarheid van een arbeidsplaats ten minste drie weken voor het indienen van de aanvraag aan het Uitvoeringsinstituut werknemersverzekeringen te melden niet van toepassing.
