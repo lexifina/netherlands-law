@@ -1,0 +1,9 @@
+# Artikel 6a
+1. Ontheffingen op grond van artikel 4, erkenningen op grond van artikel 9 en verloven op grond van de artikelen 28, 29 en 32 worden, onverminderd het bepaalde in de artikelen 6 en 7, slechts verleend indien:
+a. de aanvraag door de aanvrager in persoon is gedaan, onder overlegging van een geldig identiteitsbewijs;
+b. de aanvrager heeft meegewerkt aan een door Onze Minister aangewezen onderzoek op grond waarvan kan worden beoordeeld of er verhoogde kans is op de situatie bedoeld in artikel 7, eerste lid, onderdeel c;
+c. de aanvrager ten minste drie referenten heeft opgegeven, onder verstrekking van hun contactgegevens, bij wie navraag kan worden gedaan naar de aanvrager, en
+d. de aanvrager in persoon aanwezig is geweest bij de controle door de korpschef van de op het adres van de aanvrager getroffen voorzieningen voor de opslag van wapens en munitie.
+2. Het eerste lid, met uitzondering van onderdeel a, is niet van toepassing op de aanvraag van een persoon die reeds in het bezit is van een in het eerste lid genoemde ontheffing, erkenning of verlof waarvan de geldigheidsduur nog niet is verstreken, tenzij de toepassing van de onderdelen b, c of d, naar het oordeel van de korpschef of Onze Minister, noodzakelijk is voor een deugdelijke beoordeling van het bepaalde in artikel 7, eerste lid, onderdeel c.
+3. De in het eerste lid genoemde ontheffingen, erkenningen en verloven worden aan degene aan wie zij worden verleend, in persoon uitgereikt.
+4. Bij ministeriële regeling kunnen regels worden gegeven over het bepaalde in het eerste lid. Deze regels kunnen in elk geval betrekking hebben op het door Onze Minister aangewezen onderzoek, bedoeld in het eerste lid, onderdeel b, en de selectie van referenten als bedoeld in het eerste lid, onderdeel c. Ook kan de plaats waar de aanvraag moet worden gedaan worden bepaald.
