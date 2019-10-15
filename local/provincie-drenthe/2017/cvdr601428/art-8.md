@@ -1,2 +1,3 @@
 # Artikel 8.. Vergoeding
-De voorzitter en leden komen in aanmerking voor een vergoeding overeenkomstig de artikelen 34 en 35 van de Verordening rechtspositie gedeputeerden, staten- en commissieleden provincie Drenthe.
+1. De voorzitter en de leden ontvangen een vergoeding voor het bijwonen van de vergaderingen van de commissie ter hoogte van het bedrag genoemd in artikel 2.4.1. van het Rechtspositiebesluit decentrale politieke ambtsdragers.
+2. De voorzitter en de leden ontvangen reis- en verblijfskostenvergoeding overeenkomstig het Rechtspositiebesluit decentrale politieke ambtsdragers en de Regeling rechtspositie decentrale politieke ambtsdragers.
