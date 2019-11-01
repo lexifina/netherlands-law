@@ -1,0 +1,3 @@
+# Artikel 429a
+1. Hij die voorwerpen binnen een inrichting, een instelling of een afdeling daarvan waarop de Penitentiaire beginselenwet, de Beginselenwet verpleging ter beschikking gestelden dan wel de Beginselenwet justitiële jeugdinrichtingen van toepassing is, brengt of tracht te brengen waarvan het bezit binnen die inrichting, instelling of afdeling verboden is, wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.
+2. Met dezelfde straf wordt gestraft hij die niet overeenkomstig de daarvoor geldende regels voorwerpen binnen een inrichting, instelling of afdeling als bedoeld in het eerste lid brengt of tracht te brengen.
