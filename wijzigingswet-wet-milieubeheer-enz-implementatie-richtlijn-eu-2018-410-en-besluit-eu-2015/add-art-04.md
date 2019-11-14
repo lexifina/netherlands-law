@@ -1,0 +1,2 @@
+# Artikel IV
+Het recht zoals dat luidde op de dag vóór de datum van inwerkingtreding van artikel I, onderdelen A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, AA, BB, CC, DD, EE, FF, GG, HH, II, JJ, KK, LL, MM, NN en OO, blijft van toepassing op emissies van broeikasgassen in de periode tot 1 januari 2021 en op broeikasgasemissierechten als bedoeld in artikel 1.1, eerste lid, van de Wet milieubeheer die zijn toegewezen en verleend of geveild voor de periode tot 1 januari 2021.
