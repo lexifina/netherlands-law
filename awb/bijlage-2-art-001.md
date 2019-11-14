@@ -92,7 +92,7 @@ Wet milieubeheer:
 a. de artikelen 4.3, 4.6, 4.9, 4.12, 4.15a, 4.16 en 4.19
 b. een besluit inzake een programma als bedoeld in artikel 5.12, eerste lid, of 5.13, eerste lid, of inzake een instemming als bedoeld in artikel 5.12, dertiende lid
 c. de artikelen 10.3, 11A.2, derde lid, onderdelen b en c, 11.5, 11.18 en 15.51, derde lid
-d. artikel 16.24, eerste lid, met uitzondering van een besluit houdende toewijzing van broeikasgasemissierechten voor een afzonderlijke inrichting
+d. artikel 16.24, eerste lid, met uitzondering van een besluit houdende toewijzing van broeikasgasemissierechten voor een afzonderlijke broeikasgasinstallatie
 e. artikel 17.15, tweede lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
 Wet Naleving Europese regelgeving publieke entiteiten:
 a. artikel 2, eerste lid, voor zover het betreft de weigering om een aanwijzing te geven

@@ -142,7 +142,7 @@
 ## Hoofdstuk 16. Handel in emissierechten
 ### Titel 16.1. Algemeen
 ### Titel 16.2. Broeikasgassen en broeikasgasemissierechten
-#### Afdeling 16.2.1. Inrichtingen
+#### Afdeling 16.2.1. Broeikasgasinstallaties
 ##### Paragraaf 16.2.1.1. Algemeen
 ##### Paragraaf 16.2.1.2. Vergunning
 ##### Paragraaf 16.2.1.3. Het toewijzen en verlenen van broeikasgasemissierechten
