@@ -1,0 +1,3 @@
+# Artikel XII. Overgangsbepalingen
+1. Het bepaalde bij en krachtens artikel 407 van het Wetboek van Koophandel alsmede artikel 470a van het Wetboek van Strafrecht blijven na het tijdstip van inwerkingtreding van de artikelen IX, onderdeel G, en XI, onderdeel B, van toepassing met betrekking tot vissersvaartuigen.
+2. Het bepaalde bij en krachtens artikel 407, eerste en derde tot en met zevende lid, van het Wetboek van Koophandel ten aanzien van de verblijven van de schepeling aan boord, alsmede kombuizen en andere ruimten voor de voeding, blijft na het tijdstip van inwerkingtreding van artikel IX, onderdeel G, van toepassing met betrekking tot schepen waarvan de kiel is gelegd of de bouw zich in een soortgelijk stadium bevond voor dat tijdstip.
