@@ -54,7 +54,6 @@
 #### § 3. Van de monsterrol en het monsterboekje
 #### § 4. Van de schepelingen ter visscherij
 #### § 5. Van de schepelingen ter zeevisserij die een arbeidsovereenkomst met de zeewerkgever hebben gesloten
-#### § 6. Van de kapitein en de schepelingen ter zeevisserij die een maatschapsovereenkomst hebben gesloten
 ### titel Vijfde. Van vervrachting en bevrachting van schepen
 #### § 1. Algemeene bepalingen
 #### § 2. Tijd-bevrachting
