@@ -1,0 +1,2 @@
+# Artikel 125m
+Bewijzen hotelpersoneel passagiersschepen en bewijzen hotelpersoneel ro-ro passagiersschepen die zijn afgegeven op grond van de artikelen 76 of 81 van dit besluit, zoals die luidden voor het tijdstip waarop artikel I, onderdeel O, van het in artikel 125a, eerste lid, bedoelde besluit in werking treedt, behouden hun geldigheid en worden voor de toepassing van dit besluit gelijkgesteld aan het in artikel 36, tweede lid, genoemde schriftelijk bewijs geoefend zijn in dienstverlening aan passagiers.

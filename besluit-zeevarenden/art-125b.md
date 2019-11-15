@@ -1,0 +1,10 @@
+# Artikel 125b
+1. Houders van een vaarbevoegdheidsbewijs als bedoeld in artikel 70, eerste lid, van de wet voor de functie kapitein alle schepen, kapitein kleine schepen, eerste stuurman alle schepen, eerste stuurman kleine schepen, of wachtstuurman alle schepen, overleggen een bekwaamheidsbewijs of een schriftelijk bewijs waaruit blijkt dat zij zijn geschoold of bijgeschoold op het gebied van:
+a. ECDIS (Electronic Chart Display Information Sytems) en daaromtrent voldoen aan de toepasselijke eisen van sectie A-II/1 of sectie A-II/2 van de STCW-Code; en
+b. radarnavigatie.
+2. Houders van een vaarbevoegdheidsbewijs als bedoeld in artikel 70, eerste lid, van de wet voor de functie hoofdwerktuigkundige alle schepen, hoofdwerktuigkundige kleine schepen, tweede werktuigkundige alle schepen, tweede werktuigkundige kleine schepen of wachtwerktuigkundige alle schepen, overleggen een bekwaamheidsbewijs of een schriftelijk bewijs waaruit blijkt dat zij zijn geschoold of bijgeschoold op het gebied van hoogspanning en daaromtrent voldoen aan de toepasselijke eisen van sectie A-III/1 of sectie A-III/2 van de STCW-Code.
+3. Houders van een vaarbevoegdheidsbewijs als bedoeld in artikel 70, eerste lid, van de wet voor de functie eerste maritiem officier alle schepen, eerste maritiem officier kleine schepen, maritiem officier of maritiem officier kleine schepen, overleggen een bekwaamheidsbewijs of een schriftelijk bewijs waaruit blijkt dat zij zijn geschoold of bijgeschoold op het gebied van:
+a. ECDIS (Electronic Chart Display Information Sytems) en daaromtrent voldoen aan de toepasselijke eisen van sectie A-II/1 of sectie A-II/2 van de STCW-Code;
+b. hoogspanning en daaromtrent voldoen aan de toepasselijke eisen van sectie A-III/1 of sectie A-III/2 van de STCW-Code; en
+c. radarnavigatie.
+4. Voor de toepassing van het eerste en het derde lid wordt onder radarnavigatie verstaan de training voor het certificaat radarnavigator, bedoeld in artikel 70 van dit besluit, zoals dat luidde voor het tijdstip waarop artikel I, onderdeel O, van het in artikel 125a, eerste lid, bedoelde besluit in werking is getreden.

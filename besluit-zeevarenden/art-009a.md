@@ -1,0 +1,3 @@
+# Artikel 9a
+1. Onze Minister kan een vaarbevoegdheidsbewijs of een bekwaamheidsbewijs dat is afgegeven door een bevoegde autoriteit van een staat die partij is bij het STCW F-verdrag erkennen, indien gewaarborgd is dat volledig wordt voldaan aan de vereisten van bekwaamheid, afgifte en erkenning van het STCW F-verdrag.
+2. Onze Minister is bevoegd aan de tot het verstrekken en ontvangen van informatie bevoegde autoriteit van een lidstaat van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of het STCW F-verdrag, informatie te verstrekken en van deze te ontvangen omtrent de verlening van een vaarbevoegdheidsbewijs op grond van het STCW F-verdrag.

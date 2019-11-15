@@ -1,0 +1,2 @@
+# Artikel 125j
+Certificaten scheepsmanagement-N en scheepsmanagement-W die zijn afgegeven op grond van de artikelen 68 of 69 van dit besluit, zoals die luidden voor het tijdstip waarop artikel I, onderdeel O, van het in artikel 125a, eerste lid, bedoelde besluit in werking treedt, behouden hun geldigheid en worden voor de toepassing van dit besluit gelijkgesteld aan het in hoofdstuk 3, paragraaf 2, genoemde certificaat scheepsmanagement-N respectievelijk scheepsmanagement-W.

@@ -1,0 +1,2 @@
+# Artikel 125t
+Certificaten sloepsgast die zijn afgegeven op grond van artikel 88 van dit besluit, zoals dat luidde voor het tijdstip waarop artikel I, onderdeel O, van het in artikel 125a, eerste lid, bedoelde besluit in werking treedt, behouden hun geldigheid en worden voor de toepassing van dit besluit gelijkgesteld aan het in de artikelen 40, tweede lid, en 117, eerste en tweede lid, genoemde certificaat reddingmiddelen.

@@ -1,0 +1,2 @@
+# Artikel 125q
+Type rating certificaten die zijn afgegeven op grond van artikel 85 van dit besluit, zoals dat luidde voor het tijdstip waarop artikel I, onderdeel O, van het in artikel 125a, eerste lid, bedoelde besluit in werking treedt, behouden hun geldigheid overeenkomstig de daarop aangegeven einddatum en worden voor de toepassing van dit besluit gelijkgesteld aan het in artikel 37, eerste lid, genoemde certificaat type rating HSC.

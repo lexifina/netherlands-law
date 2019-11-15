@@ -1,0 +1,2 @@
+# Artikel 125hh
+Een certificaat medische eerste hulp aan boord of een certificaat medische zorg aan boord als bedoeld in artikel 47 van het Besluit zeevisvaartbemanning dat onmiddellijk voor het in artikel 125ee bedoelde tijdstip geldig was, wordt voor de op grond van dat besluit op dat tijdstip resterende geldigheidsduur, gelijkgesteld met een certificaat medische eerste hulp aan boord onderscheidenlijk medische zorg aan boord als bedoeld in artikel 42, eerste lid.
