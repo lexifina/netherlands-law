@@ -1,2 +1,0 @@
-# Artikel 452t
-Van overeenkomstige toepassing zijn de artikelen 405, 407, eerste-zesde lid, voorzover het de verblijven, de kombuis en andere ruimten voor de voeding betreft, met dien verstande dat in artikel 407, eerste lid, voor "zeewerkgever" wordt gelezen: eigenaar, de artikelen 411, 412 en 416, met dien verstande dat in het laatstgenoemde artikel voor "in dienst van de zeewerkgever" moet worden gelezen: deel uitmakend van de maatschap, en voor "zeewerkgever": maatschap.

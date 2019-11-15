@@ -116,7 +116,9 @@
 ##### De tijdelijk aan boord van een zeeschip werkzame werknemer
 ##### De arbeidsovereenkomst naar buitenlands recht
 ##### Verplichtingen van de scheepsbeheerder
-#### Afdeling 12A. De zeevarende in de visserij
+#### Afdeling 12A. Bijzondere bepalingen ter zake van de zee-arbeidsovereenkomst in de zeevisserij
+##### Verplichtingen van de scheepsbeheerder
+#### Afdeling 12B. De maatschapsovereenkomst in de zeevisserij
 ### Titel 12. Aanneming van werk
 #### Afdeling 1. Aanneming van werk in het algemeen
 #### Afdeling 2. Bijzondere bepalingen voor de bouw van een woning in opdracht van een natuurlijk persoon die niet handelt in de uitoefening van een beroep of bedrijf
