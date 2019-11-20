@@ -1,0 +1,2 @@
+# Artikel 3a
+Artikel 2, tweede tot en met vierde lid, is niet van toepassing op personen en organisaties die zijn vermeld in de lijst, bedoeld in artikel 2, derde lid, van Verordening (EG) nr. 2580/2001 van de Raad van de Europese Unie van 27 december 2001 (PbEG L 344) of in bijlage I van Verordening (EG) nr. 881/2002 van de Raad van de Europese Unie van 27 mei 2002 (PbEG L 193) of waarop Sanctieregeling terrorisme 2002-II van toepassing is.
