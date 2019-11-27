@@ -36,6 +36,7 @@
 ### Titel 7.3. Verzekering
 ### Titel 7.4. Exploitatieverbod
 ### Titel 7.5. Vergoedingen ter uitvoering van internationale verplichtingen
+### Titel 7.6. Overdracht toezicht
 ## Hoofdstuk 8. Luchthavens
 ### Titel 8.1. Algemeen
 ### Titel 8.2. De luchthaven Schiphol
