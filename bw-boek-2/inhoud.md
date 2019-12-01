@@ -13,6 +13,7 @@
 #### Afdeling 5. Het bestuur van de naamloze vennootschap en het toezicht op het bestuur
 #### Afdeling 6. De raad van commissarissen bij de grote naamloze vennootschap
 #### Afdeling 7. Evenwichtige verdeling van de zetels over vrouwen en mannen
+#### Afdeling 8. Transacties met verbonden partijen
 ### Titel 5. Besloten vennootschappen met beperkte aansprakelijkheid
 #### Afdeling 1. Algemene bepalingen
 #### Afdeling 2. De aandelen

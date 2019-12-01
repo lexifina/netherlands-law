@@ -385,6 +385,10 @@
 #### Afdeling 5.5.3. Voorschriften indien de Autoriteit Financiële Markten bevoegd is het biedingsbericht goed te keuren
 #### Afdeling 5.5.4. Aanvullende voorschriften, vrijstelling en ontheffing
 ### Hoofdstuk 5.6. Regels over het toepassen van een gedragscode door institutionele beleggers
+### Hoofdstuk 5.6a. Transparantieregels ter bevordering van langetermijnbetrokkenheid aandeelhouders
+#### Afdeling 5.6a.1. Inleidende bepalingen
+#### Afdeling 5.6a.2. Betrokkenheidsbeleid van institutionele beleggers en vermogensbeheerders, beleggingsstrategie van institutionele beleggers en overeenkomsten met vermogensbeheerders
+#### Afdeling 5.6a.3. Transparantie vermogensbeheerders en stemadviseurs
 ### Hoofdstuk 5.7. Regels voor de toegang tot betalingssystemen
 ### Hoofdstuk 5.8. Toezicht op ratingbureaus
 ### Hoofdstuk 5.9. Positielimieten en positiebeheerscontroles voor grondstoffenderivaten
