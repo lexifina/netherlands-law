@@ -43,7 +43,6 @@
 ##### Controlevoorschriften
 ##### Samenloop
 ##### Overgangsrecht zelfstandigen en beroepsbeoefenaren op arbeidsovereenkomst
-##### Overgangsrecht in verband met zwangerschap- en bevallingsverlof en de uitkering van anderen dan de vrouwelijke werknemer
 ## Hoofdstuk 4. Kort verzuimverlof en geboorteverlof
 ### § 1. Verlofvormen
 #### Calamiteiten- en ander kort verzuimverlof
