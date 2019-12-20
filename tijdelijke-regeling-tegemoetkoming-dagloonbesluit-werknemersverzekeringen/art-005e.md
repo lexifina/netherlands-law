@@ -1,0 +1,8 @@
+# Artikel 5e. Matiging van de eenmalige tegemoetkoming
+1. De eenmalige tegemoetkoming, berekend op grond van artikel 5a, 5b, 5c of 5d kan worden gematigd. Matiging vindt enkel plaats indien;
+a. er aan de werknemer meerdere keren een eenmalige tegemoetkoming op grond van artikel 3, 4, 5, 5a, 5b, 5c of 5d is of wordt uitgekeerd; en
+b. er door het verstrekken van de verschillende eenmalige tegemoetkomingen een bedrag aan de werknemer zou worden verstrekt dat er toe leidt dat het totaalbedrag aan verkregen WW-uitkering en eenmalige tegemoetkomingen niet in redelijke verhouding staat tot het totaalbedrag aan WW-uitkering dat de werknemer zou hebben gekregen indien het Dagloonbesluit werknemersverzekeringen, zoals dat luidt op 1 januari 2018, reeds op 1 juli 2015 van toepassing zou zijn geweest.
+2. De eenmalige tegemoetkoming, berekend op grond van artikel 5ca of 5cb, kan worden gematigd. Matiging vindt enkel plaats indien:
+a. er aan de werknemer meerdere keren een eenmalige tegemoetkoming op grond van artikel 3, 4, 5, 5a, 5b, 5c, 5ca, 5cb of 5d is of wordt uitgekeerd; en
+b. er door het verstrekken van de verschillende eenmalige tegemoetkomingen een bedrag aan de werknemer zou worden verstrekt dat er toe leidt dat het totaalbedrag aan verkregen WW-uitkering en eenmalige tegemoetkomingen niet in redelijke verhouding staat tot het totaalbedrag aan WW-uitkering dat de werknemer zou hebben gekregen indien het Dagloonbesluit werknemersverzekeringen, zoals dat luidt op 1 juli 2018, reeds op 1 juli 2015 van toepassing zou zijn geweest.
+3. Bij de matiging wordt de verhouding, genoemd in het eerste lid, onderdeel b, en tweede lid, onderdeel b, in acht genomen.
