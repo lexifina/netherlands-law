@@ -1,0 +1,2 @@
+# Artikel II
+Met ingang van 1 januari 2021 kan geen gebruik meer worden gemaakt van de mogelijkheid tot garantieverlening, vermeld in paragraaf 2.2 van de bijlage bij het Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 3 juni 2015, nr. MINBUZA-2015.284090, tot vaststelling van beleidsregels voor subsidieverlening met het oog op de financiering van ontwikkelingsrelevante infrastructuurprojecten in ontwikkelingslanden (DRIVE).
