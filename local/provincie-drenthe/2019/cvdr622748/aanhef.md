@@ -1,5 +1,4 @@
 # Aanhef
-Dit Provinciaal Blad komt in de plaats van het op 22 maart 2019 gepubliceerde Provinciaal Blad 2140 van 2019
 Besluit van Gedeputeerde Staten van Drenthe van 14 maart 2019, kenmerk P&O/2019000739, team Personeel en Organisatie, tot bekendmaking van het besluit van Provinciale Staten tot vaststelling van de Verordening rechtspositie decentrale politieke ambtsdragers provincie Drenthe
 Gedeputeerde Staten van Drenthe maken bekend dat door Provinciale Staten in hun vergadering van 13 maart 2019 is vastgesteld hetgeen volgt.
 Besluit G-5;
