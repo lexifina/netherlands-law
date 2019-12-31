@@ -1,2 +1,0 @@
-# Artikel 124c
-Nadat een concessieverlener als bedoeld in artikel 63a besluit dat een aan het desbetreffende gemeentelijk vervoerbedrijf verleende concessie voor het openbaar vervoer per bus wordt verleend nadat daarvoor een aanbesteding is gehouden, mag dat vervoerbedrijf meedingen naar een concessie voor openbaar vervoer die wordt verleend door middel van een aanbesteding en wordt dat vervoerbedrijf om reden van dat besluit niet uitgesloten van deelname aan aanbestedingen.
