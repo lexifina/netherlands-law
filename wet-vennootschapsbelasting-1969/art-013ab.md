@@ -30,4 +30,4 @@ b. een lichaam dat of een natuurlijk persoon die een belang heeft in de belastin
 a. ten minste 25% bedraagt van de aandelen in het nominaal gestorte kapitaal van het lichaam;
 b. ten minste 25% vertegenwoordigt van de statutaire stemrechten in het lichaam; of
 c. recht geeft op ten minste 25% van de winst van het lichaam.
-11. Bij ministeriële regeling worden regels gesteld voor de bepaling van hetgeen onder een wezenlijke economische activiteit als bedoeld in het vijfde lid wordt verstaan.
+11. Indien aan bij ministeriële regeling te stellen voorwaarden wordt voldaan, wordt voor de toepassing van het vijfde lid een gecontroleerd lichaam geacht een wezenlijke economische activiteit uit te oefenen, tenzij de inspecteur aannemelijk maakt dat slechts aan die voorwaarden wordt voldaan met als hoofddoel of een van de hoofddoelen om in aanmerking te komen voor de uitzondering op de voet van het vijfde lid. Indien niet aan de voorwaarden, bedoeld in de eerste zin, wordt voldaan, dient de belastingplichtige aannemelijk te maken dat een gecontroleerd lichaam een wezenlijke economische activiteit uitoefent.
