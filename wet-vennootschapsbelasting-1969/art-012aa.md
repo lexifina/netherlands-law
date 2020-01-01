@@ -1,0 +1,18 @@
+# Artikel 12aa
+1. Bij het bepalen van de winst komen mede niet in aftrek:
+a. vergoedingen of betalingen uit hoofde van een financieel instrument voor zover die leiden tot een aftrek zonder betrekking in de heffing binnen een redelijke termijn als gevolg van verschillen in de kwalificatie van het instrument of de betalingen uit hoofde ervan;
+b. vergoedingen of betalingen aan een hybride lichaam voor zover die leiden tot een aftrek zonder betrekking in de heffing als gevolg van verschillen in de toerekening van die vergoedingen of betalingen aan dat lichaam bij of krachtens de wet van de staat naar wiens recht dat lichaam is opgericht of waarin dat lichaam is gevestigd of geregistreerd en bij of krachtens de wet van de staat naar wiens recht een lichaam is opgericht, of waarin een lichaam is gevestigd of geregistreerd, dat een participatie heeft in het hybride lichaam of waarvan een natuurlijk persoon die een participatie heeft in dat lichaam fiscaal inwoner is;
+c. vergoedingen of betalingen aan een lichaam met een of meer vaste inrichtingen voor zover die leiden tot een aftrek zonder betrekking in de heffing als gevolg van verschillen in de toerekening van die vergoedingen of betalingen tussen hoofdhuis en vaste inrichting van dat lichaam of tussen twee of meer vaste inrichtingen van dat lichaam;
+d. vergoedingen of betalingen aan een buiten beschouwing blijvende vaste inrichting voor zover die leiden tot een aftrek zonder betrekking in de heffing;
+e. vergoedingen of betalingen door een hybride lichaam voor zover die leiden tot een aftrek zonder betrekking in de heffing doordat de vergoedingen of betalingen bij of krachtens de wet van de staat van de ontvanger buiten beschouwing blijven;
+f. veronderstelde betalingen tussen hoofdhuis en vaste inrichting of tussen twee of meer vaste inrichtingen voor zover die leiden tot een aftrek zonder betrekking in de heffing doordat die veronderstelde betalingen bij of krachtens de wet van de staat van de ontvanger buiten beschouwing blijven;
+g. vergoedingen, betalingen, lasten of verliezen voor zover die leiden tot een dubbele aftrek.
+2. Het eerste lid is slechts van toepassing indien de aftrek zonder betrekking in de heffing of de dubbele aftrek ontstaat:
+a. tussen de belastingplichtige en een aan hem gelieerd lichaam;
+b. tussen hoofdhuis en vaste inrichting;
+c. tussen twee of meer vaste inrichtingen van hetzelfde lichaam; of
+d. uit hoofde van een gestructureerde regeling.
+3. Het eerste lid, onderdelen e, f en g, is niet van toepassing voor zover de aftrek in mindering komt op een bedrag dat dubbel in aanmerking genomen inkomen is.
+4. Indien Nederland de staat van de betaler is, is het eerste lid, onderdeel g, niet van toepassing voor zover de aftrek van de vergoedingen, betalingen, lasten of verliezen door een andere staat wordt geweigerd.
+5. Het eerste lid, onderdeel a, is slechts van toepassing voor zover bij of krachtens de wet van de staat van de ontvanger met betrekking tot de vergoedingen of betalingen geen met artikel 13, zeventiende lid, vergelijkbare bepaling wordt toegepast.
+6. Het eerste lid, onderdeel d, is slechts van toepassing voor zover bij of krachtens de wet van de staat van de ontvanger met betrekking tot de vergoedingen of betalingen geen met artikel 15e, negende lid, vergelijkbare bepaling wordt toegepast.

@@ -1,0 +1,3 @@
+# Artikel 12ad
+1. Bij het bepalen van de winst komen mede niet in aftrek vergoedingen of betalingen voor zover die rechtens dan wel in feite direct of indirect door middel van een transactie of reeks transacties tussen aan de belastingplichtige gelieerde lichamen of in het kader van een gestructureerde regeling dienen ter financiering van aftrek van kosten waarop in Nederland artikel 12aa van toepassing zou zijn, indien Nederland de staat van de betaler was geweest.
+2. Het eerste lid is niet van toepassing voor zover in een van de bij de transactie of reeks transacties betrokken staten met betrekking tot vergoedingen of betalingen een met het eerste lid vergelijkbare bepaling wordt toegepast of een met de artikelen 12aa of 12ab vergelijkbare bepaling wordt toegepast.
