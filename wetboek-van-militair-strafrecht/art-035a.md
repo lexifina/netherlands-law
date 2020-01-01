@@ -1,0 +1,2 @@
+# Artikel 35a
+Indien een persoon genoemd in artikel 2 van de Wet militaire strafrechtspraak naar aanleiding van een strafbaar feit begaan in of met betrekking tot Aruba, Curaçao en Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba, is ontzet uit een van de rechten vermeld in artikel 28, eerste lid, onderdelen 1° tot en met 5°, van het Wetboek van Strafrecht, heeft deze ontzetting ook betrekking op de uitoefening van die rechten in de betrokken rijksdelen en openbare lichamen.

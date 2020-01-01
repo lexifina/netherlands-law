@@ -1,0 +1,2 @@
+# Artikel 5b
+Indien de Nederlandse strafwet op feiten door in artikel 2 van de Wet militaire strafrechtspraak genoemde personen begaan in of met betrekking tot Aruba, Curaçao of Sint Maarten of in of met betrekking tot de openbare lichamen Bonaire, Sint Eustatius of Saba, een lagere vrijheidsstraf of geldboete stelt dan de strafwet van Aruba, Curaçao of Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba, kan een vrijheidsstraf of geldboete worden opgelegd van ten hoogste de tijd dan wel het bedrag, gesteld bij laatstbedoelde strafwet.

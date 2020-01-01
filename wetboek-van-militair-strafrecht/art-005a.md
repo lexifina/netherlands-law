@@ -1,0 +1,3 @@
+# Artikel 5a
+1. Op feiten door in artikel 2 van de Wet militaire strafrechtspraak genoemde personen begaan in of met betrekking tot Aruba, Curaçao of Sint Maarten of in of met betrekking tot de openbare lichamen Bonaire, Sint Eustatius en Saba, is het aldaar geldende strafrecht toepasselijk, indien de Nederlandse strafwet tegen zodanige feiten geen straf bedreigt.
+2. Indien het strafrecht van een der in het vorige lid genoemde Rijksdelen wordt toegepast, kunnen tevens worden toegepast de bepalingen van de Nederlandse strafwet, die betrekking hebben op de voorwaardelijke veroordeling en op de terbeschikkingstelling wegens psychische stoornis of verstandelijke beperking.
