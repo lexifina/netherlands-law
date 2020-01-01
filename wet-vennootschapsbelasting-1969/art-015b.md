@@ -2,7 +2,7 @@
 1. Bij het bepalen van de in een jaar genoten winst komt het saldo aan renten niet in aftrek voor zover dat meer bedraagt dan het hoogste van de volgende bedragen:
 a. 30% van de gecorrigeerde winst;
 b. € 1.000.000.
-2. Het saldo aan renten is het bedrag aan rentelasten ter zake van geldleningen verminderd met het bedrag aan rentebaten ter zake van geldleningen, welke rentelasten en rentebaten zonder toepassing van dit artikel in aanmerking worden genomen bij het bepalen van de in een jaar genoten winst. Het saldo aan renten bedraagt ten minste nihil.
+2. Het saldo aan renten is het bedrag aan rentelasten ter zake van geldleningen verminderd met het bedrag aan rentebaten ter zake van geldleningen, welke rentelasten en rentebaten zonder toepassing van dit artikel en vóór toepassing van de artikelen 15be en 15bf in aanmerking worden genomen bij het bepalen van de in een jaar genoten winst. Het saldo aan renten bedraagt ten minste nihil.
 3. De gecorrigeerde winst, bedoeld in het eerste lid, is de winst zoals die zonder toepassing van het eerste lid wordt bepaald:
 a. vermeerderd met het bedrag van de afschrijvingen op een bedrijfsmiddel van het jaar zoals dat zonder toepassing van het zevende lid wordt bepaald;
 b. vermeerderd met het bedrag van de afwaarderingen tot lagere bedrijfswaarde van een bedrijfsmiddel van het jaar en verminderd met het bedrag van de terugnamen van afwaarderingen tot lagere bedrijfswaarde van een bedrijfsmiddel van het jaar; en

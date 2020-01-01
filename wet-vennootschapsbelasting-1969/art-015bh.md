@@ -1,0 +1,2 @@
+# Artikel 15bh
+Voor zover door de toepassing van artikel 15b bij het bepalen van de in een jaar genoten winst een saldo aan renten niet in aftrek komt, wordt voor de toepassing van de artikelen 15be en 15bf het gedeelte van de renten ter zake van geldleningen zoals dat op grond van die artikelen zonder toepassing van dit artikel niet in aftrek komt bij het bepalen van de in dat jaar genoten winst met dat saldo verminderd, doch niet verder dan tot nihil.

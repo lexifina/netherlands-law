@@ -2,8 +2,12 @@
 1. Bij het bepalen van de winst van een lichaam als bedoeld in artikel 2, eerste lid, onderdeel g, of tweede lid, dan wel artikel 3, derde lid, blijven buiten aanmerking voordelen uit:
 a. activiteiten verricht voor:
 1°. het lichaam zelf;
-2°. een privaatrechtelijk overheidslichaam van het lichaam, of
-3°. een publiekrechtelijke rechtspersoon of een privaatrechtelijk overheidslichaam in het kader van een dienstverleningsovereenkomst, indien de voordelen uit deze activiteiten bij die publiekrechtelijke rechtspersoon of dat privaatrechtelijke overheidslichaam bij het bepalen van de winst buiten aanmerking zouden blijven indien deze activiteiten door die rechtspersoon of dat lichaam zelf zouden zijn verricht en bij die publiekrechtelijke rechtspersoon of dat privaatrechtelijke overheidslichaam sprake zou zijn van activiteiten als bedoeld in onderdeel b;
+2°. een privaatrechtelijk overheidslichaam van het lichaam;
+3°. een publiekrechtelijke rechtspersoon van de Staat, indien de activiteiten worden verricht door de Staat;
+4°. de Staat, indien de activiteiten worden verricht door een publiekrechtelijke rechtspersoon van de Staat;
+5°. een publiekrechtelijke rechtspersoon van de Staat, indien de activiteiten worden verricht door een andere publiekrechtelijke rechtspersoon van de Staat;
+6°. een privaatrechtelijk overheidslichaam van een publiekrechtelijke rechtspersoon zijnde de Staat, indien de activiteiten worden verricht door een publiekrechtelijke rechtspersoon van de Staat; of
+7°. een publiekrechtelijke rechtspersoon of een privaatrechtelijk overheidslichaam in het kader van een dienstverleningsovereenkomst, indien de voordelen uit deze activiteiten bij die publiekrechtelijke rechtspersoon of dat privaatrechtelijke overheidslichaam bij het bepalen van de winst buiten aanmerking zouden blijven indien deze activiteiten door die rechtspersoon of dat lichaam zelf zouden zijn verricht en bij die publiekrechtelijke rechtspersoon of dat privaatrechtelijke overheidslichaam sprake zou zijn van activiteiten als bedoeld in onderdeel b;
 b. activiteiten verricht in verband met de uitoefening van een overheidstaak of van een publiekrechtelijke bevoegdheid van de publiekrechtelijke rechtspersoon, tenzij met die activiteiten in concurrentie wordt getreden met ondernemingen gedreven door natuurlijke personen dan wel door lichamen als bedoeld in artikel 2, eerste lid, onderdelen a, b, c, d en e;
 c. activiteiten verricht in het kader van een samenwerkingsverband tussen publiekrechtelijke rechtspersonen of privaatrechtelijke overheidslichamen, mits:
 1°. de activiteiten worden verricht voor de onmiddellijk of middellijk in het samenwerkingsverband deelnemende publiekrechtelijke rechtspersonen en privaatrechtelijke overheidslichamen, of voor privaatrechtelijke overheidslichamen van genoemde publiekrechtelijke rechtspersonen;
@@ -18,10 +22,11 @@ b. een lichaam waarvan uitsluitend publiekrechtelijke rechtspersonen of lichamen
 6. Onder een privaatrechtelijk overheidslichaam van een publiekrechtelijke rechtspersoon wordt voor de toepassing van deze wet verstaan een privaatrechtelijk overheidslichaam waarvan:
 a. de bestuurders uitsluitend, onmiddellijk of middellijk, door die publiekrechtelijke rechtspersoon worden benoemd en ontslagen en waarvan het vermogen bij liquidatie uitsluitend toekomt aan die publiekrechtelijke rechtspersoon, of
 b. uitsluitend die publiekrechtelijke rechtspersoon of een of meer lichamen als bedoeld in onderdeel a onmiddellijk of middellijk aandeelhouder, vennoot, deelgerechtigde of lid is, onderscheidenlijk zijn.
-7. Het eerste lid is niet van toepassing op:
+7. Onder een publiekrechtelijke rechtspersoon van de Staat wordt voor de toepassing van deze wet verstaan een publiekrechtelijke rechtspersoon waarvan de bestuurders uitsluitend, onmiddellijk of middellijk, door de Staat of Onze Minister die het aangaat of bij koninklijk besluit worden benoemd en ontslagen.
+8. Het eerste lid is niet van toepassing op:
 a. activiteiten als bedoeld in artikel 6b, en
 b. het produceren, transporteren of leveren van gas, elektriciteit of warmte en het aanleggen of beheren van netten of leidingen ten behoeve van het transport van gas, elektriciteit of warmte.
-8. Het eerste lid, onderdeel a, vindt bij lichamen als bedoeld in artikel 2, tweede lid, toepassing op activiteiten verricht voor de Staat of voor een privaatrechtelijk overheidslichaam van de Staat.
-9. Het eerste lid, onderdeel a, onder 2°, is niet van toepassing voor zover:
+9. Het eerste lid, onderdeel a, vindt bij lichamen als bedoeld in artikel 2, tweede lid, toepassing op activiteiten verricht voor de Staat of voor een privaatrechtelijk overheidslichaam van de Staat.
+10. Het eerste lid, onderdeel a, onder 2°, is niet van toepassing voor zover:
 a. de activiteiten, bedoeld in dat onderdeel, bestaan uit het ter beschikking stellen van vermogensbestanddelen; en
 b. die vermogensbestanddelen bij het privaatrechtelijke overheidslichaam waaraan die ter beschikking worden gesteld, worden aangewend ten behoeve van activiteiten waarvan de voordelen in aanmerking worden genomen bij het bepalen van de winst.
