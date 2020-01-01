@@ -1,0 +1,3 @@
+# Artikel 458b
+1. Indien op grond van artikel 458a, lid 1, onderdeel c, om inzage in of afschrift van gegevens uit het dossier van een overleden patiënt wordt gevraagd vanwege een vermoeden van een medische fout en de hulpverlener de gevraagde inzage of het gevraagde afschrift niet verstrekt, verstrekt de hulpverlener op verzoek van degene die om de inzage of het afschrift heeft gevraagd inzage in of afschrift van de gegevens aan een door de verzoeker aangewezen onafhankelijke arts.
+2. De arts, bedoeld in lid 1, beoordeelt of het niet verstrekken van de inzage of het afschrift gerechtvaardigd is. Indien de arts van oordeel is dat het niet verstrekken niet gerechtvaardigd is, verstrekt de hulpverlener alsnog inzage of afschrift aan de verzoeker.

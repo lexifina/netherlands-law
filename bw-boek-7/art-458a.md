@@ -1,0 +1,8 @@
+# Artikel 458a
+1. In afwijking van het bepaalde in artikel 457 lid 1 verstrekt de hulpverlener desgevraagd inzage in of afschrift van gegevens uit het dossier van een overleden patiënt aan:
+a. een persoon ten behoeve van wie de patiënt bij leven toestemming heeft gegeven indien die toestemming schriftelijk of elektronisch is vastgelegd;
+b. een nabestaande als bedoeld in artikel 1 van de Wet kwaliteit, klachten en geschillen zorg, of een persoon als bedoeld in artikel 465 lid 3, indien die nabestaande of die persoon een mededeling over een incident op grond van artikel 10, derde lid, van de Wet kwaliteit, klachten en geschillen zorg heeft gekregen;
+c. een ieder die een zwaarwegend belang heeft en aannemelijk maakt dat dit belang mogelijk wordt geschaad en dat inzage in of afschrift van gegevens uit het dossier noodzakelijk is voor de behartiging van dit belang.
+2. In afwijking van het bepaalde in artikel 457 lid 1 verstrekt de hulpverlener aan degene of de instelling die het gezag uitoefende over een patiënt die op het moment van overlijden de leeftijd van zestien jaren nog niet had bereikt, desgevraagd inzage in of afschrift van gegevens uit het dossier van deze patiënt, tenzij dit in strijd is met de zorg van een goed hulpverlener.
+3. Op grond van dit artikel worden uitsluitend gegevens verstrekt voor zover deze betrekking hebben op de grond waarvoor inzage wordt verleend.
+4. Op grond van dit artikel worden geen gegevens verstrekt voor zover schriftelijk of elektronisch is vastgelegd dat de overleden patiënt die de leeftijd van twaalf jaar had bereikt en tot een redelijke waardering van zijn belangen ter zake in staat was, deze inzage niet wenst, of daarbij de persoonlijke levenssfeer van een ander wordt geschaad.
