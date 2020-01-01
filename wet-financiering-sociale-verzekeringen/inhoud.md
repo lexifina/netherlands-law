@@ -14,8 +14,8 @@
 #### § 2. Inhouding en verbod van verhaal
 #### § 3. Uitzondering en uitbreiding premieplicht
 #### § 4. Premiewijziging anders dan per 1 januari
-### Afdeling 2. Algemeen Werkloosheidsfonds en sectorfondsen
-#### § 1. Premies ten gunste van de fondsen
+### Afdeling 2. Algemeen Werkloosheidsfonds
+#### § 1. Premie ten gunste van het Algemeen Werkloosheidsfonds
 #### § 2. Uitzondering overheid
 #### § 3. Premieplicht
 #### § 4. Maatstaf
@@ -55,7 +55,7 @@
 #### § 1. Algemene Ouderdomswet en Algemene nabestaandenwet
 #### § 2. Wet langdurige zorg
 ### Afdeling 3. Werknemersverzekeringen
-#### § 1. Algemeen Werkloosheidsfonds, sectorfondsen en Uitvoeringsfonds voor de overheid
+#### § 1. Algemeen Werkloosheidsfonds, Uitvoeringsfonds voor de overheid en sectorindeling
 #### § 2. Arbeidsongeschiktheidsfonds, Arbeidsongeschiktheidskas en Werkhervattingskas
 ### Afdeling 4. Geïntegreerd middelenbeheer
 ## Hoofdstuk 7a. Overgangsbepalingen
