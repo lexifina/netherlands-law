@@ -12,6 +12,7 @@
 #### § 2. Bedrag van het pensioen
 ### Hoofdstuk 6. Verval van pensioen
 ### Hoofdstuk 7. Samenloop van pensioenen
+### Hoofdstuk 7a. Beslag, terugvordering, verrekening en korting
 ### Hoofdstuk 8. Overgangsbepalingen
 ## afdeling Derde. Leden van de Tweede Kamer der Staten-Generaal
 ### Hoofdstuk 9. Algemeen gedeelte
@@ -58,6 +59,7 @@
 ### Hoofdstuk 26. Aanpassing der pensioenen aan algemene bezoldigingswijzigingen
 ### Hoofdstuk 27. Bepalingen van administratieve aard
 ### Hoofdstuk 28. Algemene bepalingen
+### Hoofdstuk 28a. Beslag, terugvordering, verrekening en korting
 ### Hoofdstuk 29. Overgangsbepalingen
 ## afdeling Zesde
 ### Hoofdstuk 30. Slotbepalingen

@@ -1,0 +1,4 @@
+# Artikel 162d
+1. Op uitkeringen en pensioenen op grond van dit hoofdstuk kan ten behoeve van een schuldeiser van de gewezen of gepensioneerde politieke ambtsdrager of zijn nagelaten betrekkingen een korting worden toegepast, mits de gewezen of gepensioneerde politieke ambtsdrager onderscheidenlijk zijn nagelaten betrekkingen de vordering van de schuldeiser erkent of erkennen dan wel het bestaan van de vordering blijkt uit een in kracht van gewijsde gegane rechterlijke uitspraak dan wel uit een authentieke akte.
+2. Korting is slechts in zoverre geldig als een beslag op die uitkeringen en pensioenen geldig zou zijn.
+3. Beslag, faillissement, surseance van betaling en toepassing ten aanzien van de gewezen of gepensioneerde politieke ambtsdrager of zijn nagelaten betrekkingen van de schuldsaneringsregeling natuurlijke personen sluiten korting uit.

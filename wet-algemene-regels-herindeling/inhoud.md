@@ -17,7 +17,7 @@
 ### Paragraaf 1. Algemene bepalingen
 ### Paragraaf 2. Wijziging van de zittingsduur gemeenteraad voorafgaand aan de datum van herindeling
 ### Paragraaf 3. Wijziging zittingsduur gemeenteraad na de datum van herindeling
-## Hoofdstuk VIII. Rechtspositie van personeel
+## Hoofdstuk VIII. Rechtspositie van het personeel
 ## Hoofdstuk IX. Voorzieningen in verband met de toepassing van enkele wetten
 ## Hoofdstuk X. Voorbereiding van de overgang
 ## Hoofdstuk XI. Kernbepalingen met betrekking tot wijziging van de gemeentelijke indeling en grenscorrectie

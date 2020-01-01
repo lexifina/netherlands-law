@@ -2,6 +2,7 @@
 ## Hoofdstuk 1. Algemeen
 ## Hoofdstuk 2. Benoeming, plaatsing en beëdiging
 ## Hoofdstuk 3. Salaris en andere financiële arbeidsvoorwaarden
+## Hoofdstuk 3A. Beslag, terugvordering, verrekening en korting
 ## Hoofdstuk 6. Overige rechten en plichten
 ## Hoofdstuk 6A. Disciplinaire maatregelen, schorsing en ontslag
 ### § 6A.1. Algemeen
