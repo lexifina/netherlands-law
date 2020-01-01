@@ -1,0 +1,3 @@
+# Artikel 22a
+1. Het Bureau Financieel Toezicht is in afwijking van artikel 22, eerste lid, bevoegd gegevens of inlichtingen verkregen bij de vervulling van zijn ingevolge deze wet opgedragen taak ten aanzien van een instelling als bedoeld in artikel 1a, vierde lid, onderdeel a of b, te verstrekken aan de Stichting Autoriteit Financiële Markten, voor zover de gegevens of inlichtingen dienstig zijn voor de uitoefening van taken van de Stichting Autoriteit Financiële Markten op grond van de Wet toezicht accountantsorganisaties.
+2. Artikel 22, tweede tot en met vierde lid, is van overeenkomstige toepassing.
