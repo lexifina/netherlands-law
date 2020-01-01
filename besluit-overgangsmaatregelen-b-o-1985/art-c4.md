@@ -1,3 +1,0 @@
-# Artikel C4. Afgifte verklaring
-1. De belanghebbende ontvangt binnen twee jaar na 1 augustus 1985, doch uiterlijk op de datum waarop hij wordt ontslagen, een door het bevoegd gezag opgestelde en door Onze minister gewaarmerkte verklaring waarin het volgens dit hoofdstuk vastgestelde uitzicht gedetailleerd is aangegeven. De hier bedoelde verklaring wordt slechts eenmaal verstrekt.
-2. De belanghebbende die op 1 augustus 1985 in dienst is van een ander bevoegd gezag dan op 31 juli 1985, ontvangt de in het eerste lid bedoelde verklaring van het bevoegd gezag waarbij hij op 31 juli 1985 in dienst was.

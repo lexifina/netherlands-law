@@ -1,2 +1,0 @@
-# Artikel C2. Schaalkeuze voor bepaling van uitzicht
-Voor de belanghebbende voor wie op 31 juli 1985 bij één b.u.o.-school het salaris werd berekend aan de hand van verschillende schalen of verschillende verhoogde schaalsalarissen als bedoeld in artikel B3, wordt voor de toepassing van het bepaalde in artikel C1 de hoogste schaal of het hoogste schaalsalaris dat voor hem op 31 juli 1985 van toepassing was, in aanmerking genomen.

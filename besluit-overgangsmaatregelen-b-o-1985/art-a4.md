@@ -1,2 +1,0 @@
-# Artikel A4. Verlof
-Indien de belanghebbende op 31 juli 1985 verlof genoot volgens het bepaalde in een of meer van de hoofdstukken I-C, I-D of I-E dan wel een taakvermindering als bedoeld in hoofdstuk I-U van het Rechtspositiebesluit KO/LO worden uitsluitend voor de toepassing van dit besluit dit verlof of deze taakvermindering alsmede de daarmee eventueel samenhangende vermindering van de bezoldiging buiten beschouwing gelaten.

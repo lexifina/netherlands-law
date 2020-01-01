@@ -1,3 +1,0 @@
-# Artikel A2. Scholen of afdelingen voor woonwagenkinderen
-1. Ten aanzien van de belanghebbende die op 31 juli 1985 verbonden was aan een school als bedoeld in artikel 2, tweede lid, onder b, dan wel een afdeling voor woonwagenkinderen als bedoeld in artikel 169 van het Besluit buitengewoon onderwijs 1967 zoals dat op 31 juli 1985 luidde, is het bepaalde in het Besluit overgangsmaatregelen s.o. 1985 van overeenkomstige toepassing.
-2. Het bepaalde in de artikelen A3, A4 en A5 en in de hoofdstukken B, C en D van dit besluit is niet van toepassing voor de belanghebbende bedoeld in het eerste lid.
