@@ -1,3 +1,4 @@
 # Artikel 10a.9. Overgangsbepaling verliezen op beleggingen in durfkapitaal in verband met het vervallen van afdeling 6.3 per 1 januari 2011
 1. Artikel 3.139, onderdeel b, zoals dat onderdeel luidde op 31 december 2010, blijft van toepassing met betrekking tot hetgeen wordt ontvangen als nagekomen schuldaflossing op een geldlening ter zake waarvan verliezen op grond van afdeling 6.3, zoals die afdeling op 31 december 2010 luidde, of op grond van het tweede lid in aanmerking zijn genomen.
 2. Afdeling 6.3, zoals die afdeling op 31 december 2010 luidde, blijft van toepassing op verliezen op vóór 1 januari 2011 verstrekte geldleningen als bedoeld in artikel 6.8, eerste lid, zoals dat lid op 31 december 2010 luidde.
+3. De artikelen 2.10, tweede en derde lid, en 2.10a, tweede en derde lid, zijn van overeenkomstige toepassing op verliezen als bedoeld in het tweede lid.
