@@ -1,6 +1,0 @@
-# Artikel 14b
-1. Het behandelingsplan kan, nadat de voorwaardelijke machtiging is verleend, slechts met instemming van de betrokkene door de behandelaar worden gewijzigd. Afschrift van een gewijzigd behandelingsplan wordt terstond gezonden aan de griffier van de rechtbank die de voorwaardelijke machtiging heeft verleend, en aan de officier van justitie bij die rechtbank.
-2. Het bij de artikelen 37, eerste lid, derde volzin, en 56, eerste lid, onderdelen a tot en met c, tweede lid, onderdelen b en c, derde en vijfde lid, alsmede het krachtens artikel 37, vierde lid, en artikel 56, vierde lid, omtrent het patiëntendossier bepaalde is van overeenkomstige toepassing.
-3. De betrokkene of de behandelaar kan de officier van justitie verzoeken de beslissing van de rechter omtrent het wijzigen van de voorwaarden of het aanwijzen van een andere behandelaar te verzoeken. Het verzoek van de betrokkene of de behandelaar wordt schriftelijk gedaan.
-4. De officier van justitie verzoekt na ontvangst zo spoedig mogelijk de beslissing van de rechter.
-5. De rechter kan op verzoek van de officier van justitie de voorwaarden wijzigen of een andere behandelaar aanwijzen. De artikelen 8 en 14a, zesde tot en met achtste lid, zijn van overeenkomstige toepassing.

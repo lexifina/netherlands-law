@@ -1,2 +1,0 @@
-# Artikel 40a
-De patiënt ten aanzien van wie een beslissing wordt genomen waartegen op grond van artikel 41, eerste lid, een klacht kan worden ingediend, wordt door de zorg van de geneesheer-directeur schriftelijk geïnformeerd over de gronden waarop de beslissing berust, over de mogelijkheid de patiëntenvertrouwenspersoon in te schakelen en over de mogelijkheid gebruik te maken van de artikelen 41 tot en met 41b.
