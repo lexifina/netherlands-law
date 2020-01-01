@@ -1,2 +1,0 @@
-# Artikel VII
-[Wijzigt de Wet rechtspositie ministers en staatssecretarissen.]

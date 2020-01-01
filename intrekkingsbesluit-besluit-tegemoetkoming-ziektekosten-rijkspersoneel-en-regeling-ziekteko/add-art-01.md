@@ -1,3 +1,0 @@
-# Artikel I. Intrekking Besluit tegemoetkoming ziektekosten rijkspersoneel
-1. In afwijking van artikel 6, eerste lid, eerste volzin, van het Besluit tegemoetkoming ziektekosten rijkspersoneel worden de tegemoetkomingen die betrekking hebben op de maanden oktober 2005 tot en met december 2005, uitbetaald in december 2005.
-2. Het Besluit tegemoetkoming ziektekosten rijkspersoneel wordt ingetrokken met dien verstande dat de artikelen 6, tweede en derde lid, 7 en 8, zoals deze artikelleden, respectievelijk deze artikelen luidden op 31 december 2005, tot 1 januari 2007 van toepassing blijven op tegemoetkomingen als bedoeld in het eerste lid.

@@ -1,2 +1,0 @@
-# ARTIKEL IX
-In afwijking van artikel 8c, tweede lid, van de Uitkeringsregeling 1966 bedraagt voor de betrokkene die voor of op 1 juli 1997 in tijdelijke dienst is aangesteld en die tot de datum van ontslag, die ligt op of na 1 januari 1999, onafgebroken in tijdelijke dienst is geweest, de uitkering gedurende de eerste twaalf maanden 80%, gedurende de daaropvolgende zes maanden 75% en vervolgens 70% van de bezoldiging.

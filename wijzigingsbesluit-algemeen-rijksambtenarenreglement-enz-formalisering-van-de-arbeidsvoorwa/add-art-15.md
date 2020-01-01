@@ -1,2 +1,0 @@
-# Artikel XV
-In afwijking van de artikelen 6, 7, 8 en 10 van de Regeling ziektekostenvoorziening rijkspersoneel is, indien het tijdvak, bedoeld in artikel 7, eerste lid, van de Regeling ziektekostenvoorziening rijkspersoneel is aangevangen voor de datum van inwerkingtreding van dit besluit, met betrekking tot de periode van dat tijdvak liggende voor deze datum, de Regeling ziektekostenvoorziening rijkspersoneel, zoals deze luidde voor de datum van inwerkingtreding van dit besluit, van toepassing.

@@ -1,2 +1,0 @@
-# ARTIKEL X
-[Wijzigt Wet bezoldiging Raad van State en Algemene Rekenkamer.]

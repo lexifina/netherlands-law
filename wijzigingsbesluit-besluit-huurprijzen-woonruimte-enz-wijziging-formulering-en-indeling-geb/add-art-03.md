@@ -1,2 +1,0 @@
-# Artikel III
-In de gevallen waarin de overgangsregeling, zoals opgenomen in artikel III, derde lid, van het besluit van 2 september 1996 tot wijziging van het Besluit huurprijzen woonruimte (bodemsanering, verkeerslawaai) en het Besluit verschuldigde vergoeding huurcommissie bij geliberaliseerde huurovereenkomsten (Stb. 459), op het tijdstip waarop dit besluit in werking treedt, wordt toegepast, blijft deze ook na de inwerkingtreding van dit besluit van kracht.

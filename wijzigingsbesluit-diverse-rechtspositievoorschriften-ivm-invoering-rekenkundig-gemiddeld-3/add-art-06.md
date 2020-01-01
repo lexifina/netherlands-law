@@ -1,3 +1,0 @@
-# ARTIKEL VI
-1. Het bevoegd gezag stelt voor de ambtenaren in de zin van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 die reeds voor de inwerkingtreding van dit besluit regelmatig of vrij regelmatig op zaterdag arbeid verrichtten een afbouwregeling vast, indien als gevolg van de wijziging bij artikel IV, onderdeel B, onder 1, een niet geringe inkomensachteruitgang plaatsvindt.
-2. Het bevoegd gezag kan als gevolg van de wijziging bij artikel IV, onderdeel D, voor de ambtenaren in de zin van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 die reeds voor de inwerkingtreding van dit besluit, meer dan incidenteel een vergoeding voor overwerk plegen te ontvangen, een gewenningsregeling vaststellen.

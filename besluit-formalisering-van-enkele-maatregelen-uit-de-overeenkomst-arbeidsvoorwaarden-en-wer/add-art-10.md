@@ -1,2 +1,0 @@
-# Artikel X
-In afwijking van artikel 20a van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 bedraagt de eindejaarsuitkering in 1995 0,3% van het salaris dat de ambtenaar geniet in de maanden januari tot en met september 1995 vermeerderd met 2,3% van het salaris dat de ambtenaar geniet in de maanden oktober tot en met december 1995 en in 1996 0,8% van het salaris dat de ambtenaar geniet in het jaar 1996.

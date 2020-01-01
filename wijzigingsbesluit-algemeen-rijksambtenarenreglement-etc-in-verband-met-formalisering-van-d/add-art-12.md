@@ -1,2 +1,0 @@
-# ARTIKEL XII
-Een toelage die is toegekend krachtens artikel 12b, 18b of 19 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 zoals dat luidde voor de inwerkingtreding van dit besluit, blijft ook na 31 december 1997 gelden tot het moment waarop krachtens het besluit tot toekenning de toelage vervalt dan wel tot het moment dat het bevoegd gezag met betrekking tot die toelage een nadere beslissing heeft genomen, maar niet langer dan tot 1 januari 2000.

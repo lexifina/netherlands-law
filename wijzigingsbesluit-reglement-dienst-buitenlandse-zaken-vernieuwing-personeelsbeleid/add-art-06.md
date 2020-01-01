@@ -1,2 +1,0 @@
-# Artikel VI. Aanvullende overgangsbepaling voor honoraire consulaire ambtenaren
-Voor degenen die op de dag van inwerkingtreding van dit besluit benoemd waren tot honorair consulair ambtenaar als bedoeld in artikel 133 van het Reglement Dienst Buitenlandse Zaken, eindigt de in het eerste lid, eerste volzin, van dat artikel bedoelde benoemingsperiode op de eerstvolgende dag waarop tien jaren, dan wel een ander veelvoud van vijf jaren, sedert hun benoeming zijn verstreken, maar niet eerder dan vijf jaren na de inwerkingtreding van dit besluit.

@@ -1,3 +1,0 @@
-# Artikel IX
-1. Een toelage toegekend op grond van artikel 12b, eerste lid, van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 zoals dat luidde vóór de inwerkingtreding van dit besluit, blijft ook na 31 december 1996 gelden tot het moment waarop krachtens het besluit tot toekenning de toelage vervalt.
-2. Een toelage toegekend op grond van artikel 12b, tweede lid, van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 zoals dat luidde vóór de inwerkingtreding van dit besluit, blijft ook na 31 december 1996 gelden tot het moment dat het bevoegd gezag met betrekking tot die toelage een nadere beslissing heeft genomen doch uiterlijk tot 1 januari 2000.

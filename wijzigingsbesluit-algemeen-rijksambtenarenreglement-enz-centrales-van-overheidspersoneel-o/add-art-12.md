@@ -1,2 +1,0 @@
-# Artikel XII
-Ambtenaren voor wie een salarisschaal geldt behorend tot hoofdgroep V of VI van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984, alsmede ambtenaren die een ambt bekleden vermeld in bijlage A van genoemd besluit, die bij de inwerkingtreding van artikel I, onderdelen E en P van dit besluit nog niet in algemene dienst van het rijk zijn aangesteld, zijn met ingang van de inwerkingtreding van dit besluit in algemene dienst van het rijk aangesteld, met uitzondering van de ambtenaren werkzaam bij een Hoog College van Staat.

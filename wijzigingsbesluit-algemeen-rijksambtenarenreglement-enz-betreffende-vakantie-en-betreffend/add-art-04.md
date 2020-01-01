@@ -1,2 +1,0 @@
-# Artikel IV
-De toepassing van artikel 23, achtste lid, van het Algemeen Rijksambtenarenreglement, van artikel 22, achtste lid, van het Arbeidsovereenkomstenbesluit en van artikel 36, achtste lid, van het Ambtenarenreglement Staten-Generaal vindt ten aanzien van op 31 december 1991 nog niet genoten vakantie eerst plaats met ingang van 31 december 1994, welke datum in bijzondere individuele gevallen door het bevoegde gezag op een latere datum kan worden gesteld.

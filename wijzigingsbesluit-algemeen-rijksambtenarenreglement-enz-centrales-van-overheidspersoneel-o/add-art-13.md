@@ -1,2 +1,0 @@
-# Artikel XIII
-Toelagen voor de datum van inwerkingtreding van dit besluit toegekend op grond van de artikelen 12b of 18b van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 blijven gedurende de periode waarvoor zij zijn toegekend, doch ten hoogste voor een periode van drie jaren na de inwerkingtreding van artikel IV onderdeel C en F van dit besluit, gehandhaafd onder de voorwaarden waaronder zij waren toegekend, zolang en voor zover zij niet reeds eerder worden ingetrokken.

@@ -1,2 +1,0 @@
-# Artikel XIV
-Voor overheidspersoneel wiens rechtspositie niet wordt beheerst door het Algemeen Rijksambtenarenreglement, het Ambtenarenreglement Staten-Generaal, het Arbeidsovereenkomstenbesluit of het Reglement Dienst Buitenlandse Zaken (Stb. 1986, 611) blijven de voorschriften, bedoeld in de artikelen IV, VI en VIII van kracht zoals deze luidden direct voorafgaande aan de inwerkingtreding van dit besluit.

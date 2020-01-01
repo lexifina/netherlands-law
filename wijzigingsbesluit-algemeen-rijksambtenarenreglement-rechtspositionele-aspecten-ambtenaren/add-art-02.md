@@ -1,2 +1,0 @@
-# ARTIKEL II
-Op ambtenaren die voorafgaand aan de inwerkingtreding van dit besluit in vaste of tijdelijke dienst zijn aangesteld in een functie waarvoor salarisschaal 17 of hoger van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 geldt dan wel in een ambt vermeld in bijlage A van genoemd besluit, is artikel I, onderdelen B, C, D en E met ingang van de inwerkingtreding van dit besluit van overeenkomstige toepassing.

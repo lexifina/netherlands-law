@@ -1,2 +1,0 @@
-# ARTIKEL X
-In afwijking van artikel 8c van de Uitkeringsregeling 1966 en artikel IX worden de daarin genoemde percentages van 80, 75 en 70 gesteld op respectievelijk 77, 72 en 67 zolang de Wet van 20 december 1984, houdende aanpassing van uitkeringspercentages van ontslaguitkerings- en arbeidsongeschiktheidsregelingen voor overheidspersoneel, onderwijspersoneel en daarmee gelijk te stellen personeel (Stb. 657) voor het burgerlijk Rijkspersoneel nog niet is ingetrokken.

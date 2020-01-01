@@ -1,2 +1,0 @@
-# Artikel II
-De salarisnummers, als bedoeld in het koninklijk besluit van 14 februari 1985 (Stb. 1985, 106), zoals die luidden op 31 december 1988, beginnend met de letter U, worden vernummerd naar de salarisnummers beginnend met de letter U, zoals bedoeld in artikel I van dit besluit, met dezelfde salarisschaal en hetzelfde salaris, die voor de ambtenaar ingevolge dit besluit gelden op 1 januari 1989.

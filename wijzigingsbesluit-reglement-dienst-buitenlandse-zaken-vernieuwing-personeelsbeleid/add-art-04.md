@@ -1,7 +1,0 @@
-# Artikel IV. Aanvullende overgangsbepaling voor niet-overplaatsbare ambtenaren van de DBZ
-1. Voor degenen die op de dag van inwerkingtreding van dit besluit waren aangesteld als niet-overplaatsbaar ambtenaar van de DBZ, bedoeld in artikel 17, eerste lid, onder b, van het Reglement Dienst Buitenlandse Zaken zoals dat voor de inwerkingtreding van dit besluit luidde, gelden de in het tweede en derde lid genoemde aanvullende overgangsbepalingen.
-2. Voor de in het eerste lid bedoelden wordt, tenzij op hen reeds een plaatsingsduur van toepassing is, in afwijking van artikel 26:
-a. een plaatsingsduur pas vastgesteld, en
-b. de plaatsing in de functie die zij op de dag van inwerkingtreding van dit besluit vervullen, als gevolg van de vaststelling van de plaatsingsduur pas beëindigd,
-zodra zij op hun aanvraag in een andere functie zijn geplaatst, dan wel, op hun aanvraag of met hun instemming, op een eerder tijdstip.
-3. De in het eerste lid bedoelden kunnen, indien op hen nog geen plaatsingsduur van toepassing is, een aanvraag indienen om hun arbeidsduur te vermeerderen of te verminderen voor een periode die eindigt met ingang van de datum waarop zij op hun aanvraag of met hun instemming in een andere functie zijn geplaatst, maar niet later dan na vier jaar. De ambtenaar vermeldt daarbij zijn wensen met betrekking tot de omvang van de aanpassing van zijn arbeidsduur en de spreiding van de te werken uren over de week. Een aanvraag wordt toegewezen, tenzij het dienstbelang zich daartegen verzet.

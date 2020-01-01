@@ -1,2 +1,0 @@
-# ARTIKEL III
-De ambtenaar, die op de datum van inwerkingtreding van dit besluit, reeds werkzaam is in een functie, genoemd in artikel 7, vierde lid, van het Algemeen Rijksambtenarenreglement, wordt met ingang van de inwerkingtreding van dit besluit geacht te zijn aangesteld overeenkomstig artikel 7, eerste lid, onder a, van het Algemeen Rijksambtenarenreglement en in die functie te zijn benoemd voor een periode van zeven jaar, verminderd met de tijd dat hij de functie voor de datum van inwerkingtreding van dit besluit heeft vervuld, doch ten minste tot 1 januari 2003.

@@ -1,2 +1,0 @@
-# Artikel III
-Artikel I en II vinden geen toepassing indien aanspraak op wachtgeld of uitkering op grond van de Regeling wachtgeld en uitkering bij privatisering respectievelijk op grond van het Wachtgeld- en uitkeringsbesluit burgerlijke ambtenaren defensie bij privatisering, en een uitkering ingevolge de Wet op de arbeidsongeschiktheidsverzekering is ontstaan vóór het tijdstip van inwerkingtreding van dit besluit.

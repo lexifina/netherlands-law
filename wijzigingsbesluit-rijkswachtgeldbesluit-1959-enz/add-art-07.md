@@ -1,2 +1,0 @@
-# Artikel VII
-Dit besluit treedt in werking met ingang van 1 januari 1996 en werkt voor wat betreft artikel IV terug tot en met 1 oktober 1995. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 1995, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt terug tot en met 1 januari 1996.

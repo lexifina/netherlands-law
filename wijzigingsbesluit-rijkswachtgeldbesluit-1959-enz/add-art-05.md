@@ -1,2 +1,0 @@
-# Artikel V
-In afwijking van artikel 7, eerste en tweede lid, van het Rijkswachtgeldbesluit 1959 en artikel 8c van de Uitkeringsregeling 1966, artikel III en artikel IV worden de daarin genoemde percentages van 93, 83, 80, 75 en 70 gesteld op respectievelijk 90, 80, 77, 72 en 67 zolang de Wet van 20 december 1984, houdende aanpassing van uitkeringspercentages van ontslaguitkerings- en arbeidsongeschiktheidsregelingen voor overheidspersoneel, onderwijspersoneel en daarmee gelijk te stellen personeel (Stb. 657) voor het burgerlijk rijkspersoneel nog niet is ingetrokken.

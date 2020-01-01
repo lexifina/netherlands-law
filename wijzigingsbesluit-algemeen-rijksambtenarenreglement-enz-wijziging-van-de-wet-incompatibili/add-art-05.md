@@ -1,2 +1,0 @@
-# Artikel V
-De ambtenaar die tussen 21 augustus 1998 en het tijdstip van inwerkingtreding van dit besluit is benoemd of verkozen tot lid van de Tweede Kamer der Staten-Generaal of het Europees Parlement wordt geacht een verzoek tot ontheffing te hebben gedaan als bedoeld in artikel 3, zesde lid, van de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement en op grond daarvan uit zijn ambtelijke functie te zijn ontheven.

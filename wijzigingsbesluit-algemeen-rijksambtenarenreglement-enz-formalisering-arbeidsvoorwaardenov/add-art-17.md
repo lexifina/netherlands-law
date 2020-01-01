@@ -1,3 +1,0 @@
-# ARTIKEL XVII
-1. De ministeriële regeling betreffende het opmaken en vaststellen van beoordelingen, bedoeld in artikel 83, vierde lid, van het Reglement Dienst Buitenlandse Zaken zoals dat luidde voor de inwerkingtreding van dit besluit, wordt geacht te zijn vastgesteld krachtens artikel 83a, tweede lid, van het Reglement Dienst Buitenlandse Zaken.
-2. De beleidsregels betreffende functioneringsgesprekken, bedoeld in artikel 83, vijfde lid, van het Reglement Dienst Buitenlandse Zaken zoals dat luidde voor de inwerkingtreding van dit besluit, worden geacht te zijn vastgesteld krachtens artikel 83 van het Reglement Dienst Buitenlandse Zaken.

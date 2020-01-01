@@ -1,2 +1,0 @@
-# Artikel III
-In afwijking van artikel 7, eerste en tweede lid, van het Rijkswachtgeldbesluit 1959 bedraagt voor de betrokkene die ontslagen is met ingang van een datum die ligt op of na 1 januari 1996 en voor 1 januari 1998 en op het moment van ontslag 55 jaar of ouder is en een voor pensioengeldige diensttijd heeft van ten minste 10 jaren, het wachtgeld gedurende de eerste twaalf maanden 80% en vervolgens 75% van de bezoldiging.

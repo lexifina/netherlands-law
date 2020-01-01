@@ -1,3 +1,0 @@
-# Artikel VI
-A. Aan de ambtenaar die voor 1 januari 1996 is aangewezen als herplaatsingskandidaat, kan ook na inwerkingtreding van dit besluit eervol ontslag worden verleend op de voet van artikel 96 van het Algemeen Rijksambtenarenreglement zoals dat voor de inwerkingtreding van dit besluit gold.
-B. De ambtenaar die een aanspraak heeft op een tegemoetkoming in de rente- of huurkosten op grond van het Verplaatsingskostenbesluit 1989, wordt ook na inwerkingtreding van dit besluit op de voet van de artikelen 12c en 12d van het Verplaatsingskostenbesluit 1989 de tegemoetkoming in de rente of huurkosten toegekend.
