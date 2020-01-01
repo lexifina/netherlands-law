@@ -3,6 +3,7 @@
 ## Hoofdstuk II. Voorwerp van de belasting bij binnenlandse belastingplichtigen
 ### Afdeling 2.1. Belastbaar bedrag
 ### Afdeling 2.2. Algemene artikelen inzake bepaling van de winst
+### Afdeling 2.2a. Hybridemismatches
 ### Afdeling 2.3. Innovatiebox
 ### Afdeling 2.5. Deelnemingen
 ### Afdeling 2.6. Bedrijfsfusie
@@ -10,6 +11,7 @@
 ### Afdeling 2.8. Geruisloze terugkeer uit BV
 ### Afdeling 2.9. Fiscale eenheid
 ### Afdeling 2.9a. Generieke renteaftrekbeperking
+### Afdeling 2.9b. Minimumkapitaalregel voor banken en verzekeraars
 ### Afdeling 2.10. Eindafrekening
 ### Afdeling 2.10a. Objectvrijstelling voor buitenlandse ondernemingswinsten
 ### Afdeling 2.11. Aftrekbare giften

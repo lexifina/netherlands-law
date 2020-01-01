@@ -27,6 +27,7 @@
 #### Paragraaf 1. Verzuimboeten
 #### Paragraaf 2. Vergrijpboeten
 ### Afdeling 2. Aanvullende voorschriften inzake het opleggen van bestuurlijke boeten
+### Afdeling 3. Openbaarmaking van de boetebeschikking
 ## Hoofdstuk IX. Strafrechtelijke bepalingen
 ### Afdeling 1. Strafbare feiten
 ### Afdeling 1A. Strafbare feiten in algemene maatregelen van bestuur en ministeriële regelingen
