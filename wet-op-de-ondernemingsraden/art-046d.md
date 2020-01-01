@@ -1,5 +1,5 @@
 # Artikel 46d
-Ten aanzien van een onderneming, waarin uitsluitend of nagenoeg uitsluitend krachtens publiekrechtelijke aanstelling arbeid wordt verricht, gelden de volgende bijzondere bepalingen:
+Ten aanzien van een onderneming, waarin uitsluitend of nagenoeg uitsluitend krachtens publiekrechtelijke aanstelling arbeid wordt verricht en ten aanzien van een onderneming die overheidswerkgever is in de zin van de Ambtenarenwet 2017 gelden de volgende bijzondere bepalingen:
 a. Voor de toepassing van deze wet wordt als bestuurder in de zin van deze wet niet aangemerkt
 1°. bij een ministerie: de minister of een staatssecretaris;
 2°. bij een provincie: de commissaris van de Koning, een lid van gedeputeerde staten of een lid van provinciale staten;
