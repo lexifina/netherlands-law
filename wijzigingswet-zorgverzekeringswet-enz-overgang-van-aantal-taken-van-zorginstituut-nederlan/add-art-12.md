@@ -1,0 +1,3 @@
+# Artikel XII
+1. Het CAK, genoemd in artikel 6.1.1, eerste lid, van de Wet langdurige zorg, stelt een persoon, die op het tijdstip van inwerkingtreding van deze wet als ambtenaar in de zin van artikel 1 van de Ambtenarenwet bij het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet in dienst is, en in verband met die inwerkingtreding naar het CAK overgaat, aan als ambtenaar in de zin van artikel 1 van de Ambtenarenwet.
+2. In afwijking van artikel 6.1.1., zevende lid, van de Wet langdurige zorg is artikel 15 van de Kaderwet zelfstandige bestuursorganen van toepassing op een persoon als bedoeld in het eerste lid.
