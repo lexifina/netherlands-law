@@ -1,4 +1,4 @@
 # Artikel 90sexies
 Onder psychiatrisch ziekenhuis wordt verstaan:
-1°. een krachtens artikel 5 van de Wet toelating zorginstellingen als ziekenhuis, verpleeginrichting of zwakzinnigeninrichting toegelaten instelling, voor zover die instelling blijkens de toelating gericht is op de behandeling van psychiatrische patiënten;
-2°. een psychiatrische afdeling van een academisch ziekenhuis.
+1o. een accommodatie als bedoeld in artikel 1:1, eerste lid, onderdeel b, van de Wet verplichte geestelijke gezondheidszorg;
+2o. een accommodatie als bedoeld in artikel 1, eerste lid, onderdeel b, van de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten.

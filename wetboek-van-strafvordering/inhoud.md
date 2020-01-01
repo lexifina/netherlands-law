@@ -8,6 +8,8 @@
 #### afdeeling Vijfde. Schorsing der vervolging
 #### afdeeling Zesde. Behandeling door de raadkamer
 ### Titel II. De verdachte
+### Titel IIa. Kennisneming van processtukken
+### Titel IIb. Kennisgeving van gerechtelijke mededelingen
 ### Titel III. De raadsman
 #### afdeling Eerste. Optreden raadsman
 #### afdeling Tweede. Bevoegdheden van de raadsman betreffende het verkeer met de verdachte en de kennisneming van processtukken
@@ -23,7 +25,6 @@
 ##### § 2. Het hooren van den in voorloopige hechtenis gestelden verdachte
 ##### § 3. Inhoud der bevelen en hunne beteekening
 ##### § 4. Schorsing der voorloopige hechtenis
-#### Tweede afdeling A. Schadevergoeding
 #### afdeeling Derde. Inbeslagneming
 ##### § 1. Algemene bepalingen
 ##### § 2. Inbeslagneming door opsporingsambtenaren of bijzondere personen
@@ -100,8 +101,7 @@
 #### afdeling Vierde. Uitreiken en toezenden van de strafbeschikking
 #### afdeling Vijfde. Het doen van verzet
 #### afdeling Zesde. De behandeling van het verzet
-#### afdeling Zevende. De tenuitvoerlegging
-#### afdeling Achtste. Openbaarheid
+#### afdeling Zevende. Openbaarheid
 ### Titel V. Aanhangig maken der zaak ter terechtzitting
 ### Titel VI. Behandeling van de zaak door de rechtbank
 #### afdeling Eerste. Onderzoek op de terechtzitting
@@ -127,20 +127,17 @@
 ### Titel II. Strafvordering in zaken betreffende jeugdige personen
 #### afdeling Eerste. Algemene bepalingen
 #### afdeling Tweede. Strafvordering in zaken betreffende personen die de leeftijd van achttien jaren nog niet hebben bereikt
-### Titel IIA. Berechting van verdachten bij wie een gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens wordt vermoed
+### Titel IIA. Berechting van verdachten bij wie een psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap wordt vermoed
 ### Titel IIB. Rechtsplegingen in verband met de terbeschikkingstelling en de plaatsing in een psychiatrisch ziekenhuis
 #### afdeling Eerste. Inleidende bepalingen
-#### afdeling Tweede. Toepassing van de artikelen 38b, 38c, 38i, 38k of 38la, zesde lid, van het Wetboek van Strafrecht
-#### afdeling Derde. Verlenging van de terbeschikkingstelling
-#### afdeling Vierde. Beroep
-### TITEL IIC. Rechtsplegingen in verband met de plaatsing in een inrichting voor stelselmatige daders
 ### Titel IID. Gedragsaanwijzing ter beëindiging van ernstige overlast
 ### Titel III. Vervolging en berechting van rechterlijke ambtenaren
 ### Titel IIIb. Strafvordering ter zake van ontneming van wederrechtelijk verkregen voordeel
 ### Titel IV. Wraking en verschoning van rechters
 ### Titel V. Geschillen over rechtsmacht
 ### Titel VI. Vervolging en berechting van rechtspersonen
-### Titel VIA. Strafvordering buiten het rechtsgebied van een rechtbank
+### Titel VIa. Schadevergoeding en andere bijzondere kosten
+### Titel VIb. Strafvordering buiten het rechtsgebied van een rechtbank
 #### afdeling Eerste. Algemeen
 #### afdeling Tweede. Toepassing van enige bijzondere dwangmiddelen
 #### afdeling Derde. Verplichtingen van de schipper
@@ -196,13 +193,32 @@
 #### afdeling Eerste. Algemene bepalingen
 #### afdeling Tweede. Europees beschermingsbevel uitgevaardigd door de bevoegde autoriteit van een andere lidstaat van de Europese Unie
 #### afdeling Derde. Europees beschermingsbevel uitgevaardigd door de bevoegde autoriteit van Nederland
-## Boek Zesde. Tenuitvoerlegging en kosten
-### Titel I. Tenuitvoerlegging
-#### afdeeling Eerste. Algemeene bepalingen
-#### afdeeling Tweede. Uitvoerbaarheid van beslissingen
-#### afdeeling Derde. Tenuitvoerlegging van strafbeschikkingen, bevelen tot vrijheidsbeneming en veroordeelende vonnissen of arresten
-#### Derde afdeling A. Gijzeling
-#### afdeeling Vierde. Rechtsgeding tot herkenning van veroordeelden of van andere gevonniste personen
-#### afdeeling Vijfde. Wijze van kennisgeving van gerechtelijke mededelingen aan natuurlijke personen
-### Titel II. Kosten
-#### Algemene bepaling
+## Boek 6. Tenuitvoerlegging
+### Hoofdstuk 1. Algemene bepalingen
+#### titel Eerste. Taken en bevoegdheden
+#### titel Tweede. Aanvang, schorsing, beëindiging en tenuitvoerleggingstermijn
+#### titel Derde. Toezicht op de tenuitvoerlegging
+### Hoofdstuk 2. Vrijheidsbenemende straffen en maatregelen
+#### titel Eerste. Opneming, aanvang, onderbreking en invrijheidstelling
+#### titel Tweede. Voorwaardelijke invrijheidstelling
+#### titel Derde. Verpleging van overheidswege en terbeschikkingstelling
+#### titel Vierde. Inrichting voor stelselmatige daders
+#### titel Vijfde. Maatregel van plaatsing in een inrichting voor jeugdigen
+### Hoofdstuk 3. Vrijheidsbeperkende straffen, maatregelen en voorwaarden
+#### titel Eerste. Taakstraffen
+#### titel Tweede. Gedragsaanwijzingen
+#### titel Derde. Jeugd – taakstraf en gedragsbeïnvloedende maatregel
+#### titel Vierde. Toezicht en aanhouding
+### Hoofdstuk 4. Geldelijke straffen en maatregelen
+#### titel Eerste. Inning van geldboetes en schadevergoedingsmaatregelen
+#### titel Tweede. Ontneming van wederrechtelijk verkregen voordeel
+#### titel Derde. Bevel gijzeling
+#### titel Vierde. Storting waarborgsom
+### Hoofdstuk 5. Bijkomende straffen
+### Hoofdstuk 6. Rechterlijke beslissingen inzake de tenuitvoerlegging
+#### titel Eerste. Algemeen
+#### titel Tweede. Vrijheidsbenemende straffen en maatregelen
+#### titel Derde. Vrijheidsbeperkende straffen, maatregelen en voorwaarden
+#### titel Vierde. Geldelijke straffen en maatregelen
+#### titel Vijfde. Jeugd
+### Hoofdstuk 7. Gratie

@@ -32,6 +32,7 @@
 ### § 2. De invloed van de verzekering op het burgerlijk recht
 ### § 3. Bezwaar en beroep
 ### § 4. Toezicht en handhaving
+### § 5. Gedwongen verblijf in een instelling
 ## Hoofdstuk 11. Invoeringsbepalingen en overgangsrecht
 ### § 1. Overgangsrecht verzekerden
 ### § 2. Overgangsrecht uitvoerders en afwikkeling Algemene Wet Bijzondere Ziektekosten
