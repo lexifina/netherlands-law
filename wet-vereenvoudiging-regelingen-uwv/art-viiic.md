@@ -1,0 +1,2 @@
+# Artikel VIIIc. Wijziging van de Wet tot wijziging van een aantal wetten op het terrein van het ministerie van Sociale Zaken en Werkgelegenheid teneinde deze in overeenstemming te brengen met de motie van het voormalige eerstekamerlid Jurgens c.s. (33 133)
+[Wijzigt de Wijzigingswet aantal wetten met betrekking tot het ministerie van Sociale Zaken en Werkgelegenheid (motie voormalige eerstekamerlid Jurgens)(Stb. 2012/657).]
