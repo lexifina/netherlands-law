@@ -1,2 +1,0 @@
-# Artikel 77u
-Een beslissing op grond van de artikelen 77t, 77tb, 77wc, zesde lid, en 77wd wordt bij beschikking genomen, nadat de veroordeelde en indien deze minderjarig is, ook degenen die het gezag over hem uitoefenen, zijn gehoord of behoorlijk opgeroepen. De artikelen 14h, eerste lid, eerste en derde volzin, en tweede tot en met vijfde lid, 14i, tweede tot en met zesde lid, en 14j van dit wetboek alsmede artikel 495b van het Wetboek van Strafvordering zijn van overeenkomstige toepassing, onverminderd de artikelen 502 en 503 van het Wetboek van Strafvordering.

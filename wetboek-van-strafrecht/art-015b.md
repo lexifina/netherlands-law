@@ -1,4 +1,0 @@
-# Artikel 15b
-1. Met het toezicht op de naleving van de voorwaarden is het openbaar ministerie belast.
-2. Het openbaar ministerie kan aan een krachtens algemene maatregel van bestuur aangewezen reclasseringsinstelling opdracht geven toezicht te houden op de naleving van de voorwaarden en de veroordeelde ten behoeve daarvan te begeleiden. Bij het houden van toezicht op de naleving van de voorwaarden stelt de reclasseringsinstelling de identiteit van de veroordeelde vast op de wijze, bedoeld in artikel 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van Strafvordering. Indien een voorwaarde niet wordt nageleefd, doet de reclasseringsinstelling daarvan onverwijld melding aan het openbaar ministerie.
-3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent het uit te oefenen toezicht.

@@ -1,3 +1,0 @@
-# Artikel 257g
-1. De tenuitvoerlegging van de strafbeschikking kan eerst geschieden veertien dagen na de uitreiking in persoon of toezending van het afschrift van de strafbeschikking, tenzij afstand wordt gedaan van de bevoegdheid verzet te doen.
-2. Door verzet tegen de strafbeschikking wordt de tenuitvoerlegging geschorst of opgeschort, tenzij naar het oordeel van het openbaar ministerie vaststaat dat het verzet na het verstrijken van de daarvoor gestelde termijn is gedaan. Bij de behandeling van het verzet kan de rechter op verzoek van de verdachte bepalen dat de tenuitvoerlegging van de strafbeschikking dient te worden geschorst of opgeschort. De schorsing of opschorting van de tenuitvoerlegging neemt een einde indien het verzet niet ontvankelijk wordt verklaard.

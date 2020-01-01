@@ -1,3 +1,0 @@
-# Artikel 509cc
-1. Zowel het openbaar ministerie als de veroordeelde en diens advocaat zijn bevoegd getuigen en deskundigen te doen dagvaarden of schriftelijk te doen oproepen. De voorzitter kan voorts de dagvaarding of oproeping van getuigen en deskundigen vanwege het openbaar ministerie bevelen. Andere personen kunnen op zijn last door de griffier worden uitgenodigd om bij het onderzoek tegenwoordig te zijn.
-2. De veroordeelde en de reclasseringswerker kunnen, voor de aanvang van het onderzoek, ter griffie kennisnemen van de stukken. Het bepaalde bij en krachtens artikel 32 is van toepassing.

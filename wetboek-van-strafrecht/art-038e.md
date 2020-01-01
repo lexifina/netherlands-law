@@ -1,4 +1,4 @@
 # Artikel 38e
 1. De totale duur van de maatregel van terbeschikkingstelling met bevel tot verpleging van overheidswege gaat een periode van vier jaar niet te boven, tenzij de terbeschikkingstelling met bevel tot verpleging van overheidswege is opgelegd ter zake van een misdrijf dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam van een of meer personen.
-2. Behoudens de gevallen waarin een bevel als bedoeld in artikel 37b of artikel 38c is gegeven, gaat de totale duur van de maatregel van terbeschikkingstelling een periode van negen jaar niet te boven.
+2. Behoudens de gevallen waarin een bevel als bedoeld in artikel 37b, of artikel 6:6:10, eerste lid, onder e, van het Wetboek van Strafvordering is gegeven, gaat de totale duur van de maatregel van terbeschikkingstelling een periode van negen jaar niet te boven.
 3. Indien de totale duur van de terbeschikkingstelling niet in tijd is beperkt, kan de termijn van de terbeschikkingstelling telkens worden verlengd, wanneer de veiligheid van anderen, dan wel de algemene veiligheid van personen die verlenging eist.

@@ -1,2 +1,0 @@
-# Artikel 77k
-De straf van jeugddetentie kan door de rechter op vordering van het openbaar ministerie of op verzoek van de veroordeelde geheel of gedeeltelijk worden vervangen door een van de straffen genoemd in artikel 9, eerste lid, indien de tenuitvoerlegging van de opgelegde straf geheel of gedeeltelijk zou moeten plaatsvinden nadat de veroordeelde de leeftijd van achttien jaren heeft bereikt en deze naar het oordeel van de rechter niet meer voor een zodanige straf in aanmerking komt.

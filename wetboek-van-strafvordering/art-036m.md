@@ -1,0 +1,2 @@
+# Artikel 36m
+Op de kennisgeving van gerechtelijke mededelingen aan een rechtspersoon, maatschap of vennootschap zonder rechtspersoonlijkheid, een doelvermogen of rederij zijn de artikelen 36b, 36c, 36d, 36e, tweede en vierde lid, 36f, 36g, 36h, eerste, derde en vijfde lid, 36i, 36n, eerste en derde lid, van overeenkomstige toepassing.

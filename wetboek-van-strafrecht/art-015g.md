@@ -1,2 +1,0 @@
-# Artikel 15g
-Voorwaardelijke invrijheidstelling kan geheel of gedeeltelijk worden herroepen indien de veroordeelde een daaraan verbonden voorwaarde niet heeft nageleefd. Indien de voorwaardelijke invrijheidstelling gedeeltelijk is herroepen, wordt de veroordeelde, nadat hij het alsnog ten uitvoer te leggen gedeelte van de vrijheidsstraf heeft ondergaan, opnieuw voorwaardelijk in vrijheid gesteld.
