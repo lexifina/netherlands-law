@@ -1,0 +1,2 @@
+# Artikel 16g
+In afwijking van artikel 15 neemt het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba kennis van de misdrijven omschreven in deze wet, voor zover het feit is begaan binnen het rechtsgebied van Bonaire, Sint Eustatius en Saba, en behoudens de bevoegdheid van de rechter, aangewezen bij de Wet militaire strafrechtspraak. De behandeling vindt plaats door een meervoudige kamer, bestaande uit een lid van het Gemeenschappelijk Hof en twee rechters in de rechtbank Den Haag.
