@@ -1,2 +1,0 @@
-# Artikel 1.2,. Nadere regels
-Gedeputeerde Staten kunnen nadere regels stellen met betrekking tot de heffing en invordering van de belastingen en rechten die op grond van deze verordening worden geheven.

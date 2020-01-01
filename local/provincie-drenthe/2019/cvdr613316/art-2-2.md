@@ -1,4 +1,0 @@
-# Artikel 2.2,. Begripsomschrijving
-In dit hoofdstuk wordt verstaan onder:
-a. de wet: de Waterwet
-b. inrichting: een inrichting of werk, bestemd tot het onttrekken van grondwater.

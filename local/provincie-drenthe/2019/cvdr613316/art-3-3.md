@@ -1,2 +1,0 @@
-# Artikel 3.3,. Belastingplicht
-De heffing Lijst der Geldelijke Regelingen wordt geheven van iedere eigenaar die schuldplichtig is voor de over hem omgeslagen kosten zoals bepaald in de Lijst der Geldelijke Regelingen.

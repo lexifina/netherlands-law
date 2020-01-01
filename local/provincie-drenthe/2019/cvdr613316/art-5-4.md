@@ -1,2 +1,0 @@
-# Artikel 5.4,. Wijze van heffing
-De belastingen en rechten worden bij wege van aanslag geheven.

@@ -1,2 +1,0 @@
-# Artikel 2.8,. Ontstaan van de belastingschuld
-De heffing wordt verschuldigd op het moment waarop het grondwater wordt onttrokken.

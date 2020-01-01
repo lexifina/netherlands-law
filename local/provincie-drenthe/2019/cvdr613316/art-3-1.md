@@ -1,2 +1,0 @@
-# Artikel 3.1,. Aard van de heffing
-Onder de naam 'heffing Lijst der Geldelijke Regelingen' wordt een directe provinciale belasting geheven als bedoeld in de artikelen 89 tot en met 91 van de Wet inrichting landelijk gebied, ter afrekening van de omgeslagen kosten van landinrichting uit hoofde van de Wet inrichting landelijk gebied.
