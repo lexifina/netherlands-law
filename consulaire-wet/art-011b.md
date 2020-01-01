@@ -1,0 +1,2 @@
+# Artikel 11b
+Alle uitspraken en akten, uit kracht van de wet door consulaire ambtenaren opgemaakt of verleden zijn geldig, ook wanneer de bij de Nederlandse wetten of in voorkomend geval de bij de Nederlandse, Arubaanse, Curaçaose of Sint Maartense wettelijke bepalingen voorgeschreven formaliteiten daarbij niet in acht zijn genomen, mits in dit geval in het stuk de redenen vermeld zijn waarom het verzuim der voorgeschreven formaliteiten onvermijdelijk was.
