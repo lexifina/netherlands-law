@@ -1,3 +1,0 @@
-# Artikel 4a
-1. De jeugdreclassering dan wel de reclassering, belast met de begeleiding en het toezicht, bedoeld in artikel 10, tweede lid, van het Reglement justitiële jeugdinrichtingen, kan aan de directeur van de inrichting een voorstel doen tot wijziging of opheffing van de voorwaarden, verbonden aan de deelname aan het scholings- en trainingsprogramma.
-2. De jeugdreclassering dan wel de reclassering, belast met de begeleiding en het toezicht, bedoeld in artikel 10, tweede lid, van het Reglement justitiële jeugdinrichtingen, dient desgevraagd de directeur van de inrichting en Onze Minister van advies.
