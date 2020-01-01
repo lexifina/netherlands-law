@@ -14,6 +14,9 @@
 ### Afdeling 3.3a. Bovenlokale afstemming
 ### Afdeling 3.4. De landelijke eenheden
 ### Afdeling 3.5. Rechtspositie
+#### § 3.5.1. Algemeen
+#### § 3.5.2. Beslag, terugvordering, verrekening en korting
+#### § 3.5.3. Bepalingen voor ambtenaren van politie die de AOW-gerechtigde leeftijd hebben bereikt
 ## Hoofdstuk 4. De rijksrecherche
 ## Hoofdstuk 5. Bijstand
 ### § 5.1. Bijstand aan de politie

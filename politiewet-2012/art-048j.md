@@ -1,0 +1,5 @@
+# Artikel 48j
+1. Voor de ambtenaar van politie die de in artikel 7, onderdeel a, van de Algemene Ouderdomswet bedoelde leeftijd heeft bereikt en die is aangesteld in tijdelijke dienst wordt bij voorschriften of regels op grond van artikel 47, eerste lid, bepaald dat die aanstelling als een aanstelling in vaste dienst geldt vanaf de dag waarop:
+a. de door hetzelfde bevoegd gezag verleende aanstellingen in tijdelijke dienst elkaar met tussenpozen van niet meer dan zes maanden hebben opgevolgd en een periode van 48 maanden, deze tussenpozen inbegrepen, hebben overschreden;
+b. meer dan zes door hetzelfde bevoegd gezag verleende aanstellingen in tijdelijke dienst elkaar hebben opgevolgd met tussenpozen van niet meer dan zes maanden.
+2. Voor de vaststelling of de in het eerste lid bedoelde periode of het aantal opvolgende aanstellingen is overschreden, wordt bij de in het eerste lid genoemde voorschriften of regels bepaald dat slechts de aanstellingen in tijdelijke dienst in aanmerking worden genomen die zijn aangegaan na het bereiken van de in het eerste lid bedoelde leeftijd.

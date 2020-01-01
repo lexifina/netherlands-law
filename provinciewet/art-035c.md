@@ -13,11 +13,11 @@ j. lid van de raad van een gemeente;
 k. burgemeester;
 l. wethouder;
 m. lid van de rekenkamer van een in de betrokken provincie gelegen gemeente;
-n. ambtenaar, door of vanwege het provinciebestuur aangesteld of daaraan ondergeschikt;
-o. ambtenaar, door of vanwege het gemeentebestuur van een in de provincie gelegen gemeente aangesteld of daaraan ondergeschikt;
+n. ambtenaar, in dienst van die provincie of uit anderen hoofde aan het provinciebestuur ondergeschikt;
+o. ambtenaar, in dienst van een in die provincie gelegen gemeente of uit anderen hoofde aan het bestuur van een dergelijke gemeente ondergeschikt;
 p. voorzitter van of lid van het bestuur van of ambtenaar in dienst van een in de provincie gelegen waterschap;
 q. ambtenaar in dienst van een bij gemeenschappelijke regeling ingesteld lichaam waarvan een orgaan aan toezicht van gedeputeerde staten is onderworpen;
-r. ambtenaar, door of vanwege het Rijk aangesteld, tot wiens taak behoort het verrichten van werkzaamheden in het kader van het toezicht op de provincie;
+r. ambtenaar, in dienst van de Staat, tot wiens taak behoort het verrichten van werkzaamheden in het kader van het toezicht op de provincie;
 s. functionaris, krachtens wet of algemene maatregel van bestuur geroepen om het provinciebestuur van advies te dienen.
 2. In afwijking van het eerste lid, aanhef en onder h, kan een gedeputeerde tevens lid van provinciale staten zijn van de provincie waar hij gedeputeerde is gedurende het tijdvak dat:
 a. aanvangt op de dag van de stemming van de verkiezing van de leden van provinciale staten en eindigt op het tijdstip waarop de gedeputeerden ingevolge artikel 41, eerste lid, aftreden, of

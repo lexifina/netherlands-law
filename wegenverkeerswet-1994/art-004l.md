@@ -3,7 +3,7 @@
 2. Goedkeuring door de raad van toezicht behoeven in ieder geval de besluiten van de directie betreffende:
 a. de reglementen, bedoeld in de artikelen 4o en 4r;
 b. investeringen die een door de raad van toezicht vast te stellen bedrag te boven gaan;
-c. wijzigingen in de rechtspositie van het personeel;
+c. wijzigingen in de arbeidsvoorwaarden van het personeel;
 d. de bij of krachtens deze wet aan Onze Minister uit te brengen rapportages.
 3. Onze Minister kan bepalen dat de directie de voorafgaande instemming behoeft van de raad van toezicht voor een beslissing als bedoeld in artikel 32 van de Kaderwet zelfstandige bestuursorganen of dat de directie, ingeval Onze Minister een beslissing als bedoeld in dat artikel aan zijn voorafgaande instemming heeft onderworpen, die beslissing pas aan hem kan voorleggen nadat de raad van toezicht heeft verklaard tegen die beslissing geen bedenkingen te hebben.
 4. De directie behoeft in elk geval de voorafgaande instemming van de raad van toezicht voor de besluiten betreffende:

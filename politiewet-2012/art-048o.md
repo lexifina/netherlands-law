@@ -1,0 +1,5 @@
+# Artikel 48o
+1. De op grond van artikel 47, eerste lid, vastgestelde voorschriften of regels, voor zover het de daarin opgenomen bepalingen betreffende ontslag op grond van ongeschiktheid voor zijn arbeid wegens ziekte of gebrek betreft, zoals deze bepalingen luidden voor het tijdstip van inwerkingtreding van artikel II van de Wet werken na de AOW-gerechtigde leeftijd, blijven gedurende zes maanden na dat tijdstip van inwerkingtreding van toepassing op de ambtenaar van politie:
+a. die op de dag voor het tijdstip van inwerkingtreding ten minste de in artikel 7, onderdeel a, van de Algemene Ouderdomswet bedoelde leeftijd heeft, dan wel binnen zes maanden na dat tijdstip deze leeftijd bereikt, en
+b. die voor het tijdstip van inwerkingtreding en tevens, al dan niet na een onderbreking gedurende minder dan vier weken, na dat tijdstip verhinderd is om de dienst te verrichten of het ambt te vervullen wegens ongeschiktheid als gevolg van ziekte.
+2. Na afloop van de in het eerste lid genoemde termijn van zes maanden, geldt de in artikel 48n, eerste lid, genoemde termijn van dertien weken, voor zover het totale tijdvak niet meer bedraagt dan 104 weken.
