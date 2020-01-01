@@ -1,0 +1,3 @@
+# Artikel IX. Overgangsbepalingen
+1. De aktes van aanstelling als bedoeld in artikel 53 van de Wet op het primair onderwijs, artikel 56 van de Wet op de expertisecentra en 43a van de Wet op het voortgezet onderwijs zoals die luidden op de dag voor inwerkingtreding van deze wet worden van rechtswege omgezet in een arbeidsovereenkomst naar burgerlijk recht.
+2. De aktes van benoeming als bedoeld in artikel 59 van de Wet op het primair onderwijs, artikel 62 van de Wet op de expertisecentra en 51 van de Wet op het voortgezet onderwijs zoals die luidden op de dag voor inwerkingtreding van deze wet worden van rechtswege aangemerkt als een arbeidsovereenkomst naar burgerlijk recht.
