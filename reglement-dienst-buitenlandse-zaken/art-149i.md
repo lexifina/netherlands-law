@@ -1,3 +1,0 @@
-# Artikel 149i
-1. Artikel 45b, achtste lid, zoals dat luidde op 31 augustus 2018, blijft gelden voor ambtenaren die voor 1 september 2018 de sector Rijk wegens ontslag hebben verlaten.
-2. Artikel 45b, zoals dat luidde op 30 juni 2019, blijft gelden voor ambtenaren waarvan het ouderschapsverlof op grond van artikel 33g is ingegaan voor 1 juli 2019.

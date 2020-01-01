@@ -1,3 +1,0 @@
-# Artikel 43b. Buitengewoon verlof van korte duur voor bijwonen van vergaderingen van publiekrechtelijke colleges waarin men is verkozen
-1. Indien de ambtenaar een vaste vergoeding ontvangt uit de functie waarvoor hem het in artikel 125c, tweede lid, van de Ambtenarenwet bedoelde verlof wordt verleend, wordt op zijn bezoldiging een inhouding toegepast over de tijd dat hij het verlof geniet. Deze inhouding gaat hetgeen hij geacht kan worden te ontvangen als vaste vergoeding voor de met het verlof overeenkomende tijd in de bedoelde functie niet te boven.
-2. Door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties krachtens artikel 33a van het ARAR gestelde nadere regels zijn van overeenkomstige toepassing.

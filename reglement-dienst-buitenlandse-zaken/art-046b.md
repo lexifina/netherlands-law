@@ -1,2 +1,0 @@
-# Artikel 46b. Buitengewoon verlof; doorbetalen toelage voor onregelmatige diensten of voor consignatie
-Voor zover op grond van deze paragraaf buitengewoon verlof met gehele of gedeeltelijke bezoldiging wordt verleend, wordt, indien de ambtenaar in het genot is van een toelage als bedoeld in artikel 17, 18 en 18a van het BBRA 1984, dit bezoldigingsdeel vastgesteld met overeenkomstige toepassing van de in artikel 57, tweede tot en met vierde lid, vermelde berekeningswijze.

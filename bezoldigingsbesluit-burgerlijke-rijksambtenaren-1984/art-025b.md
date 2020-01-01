@@ -1,2 +1,0 @@
-# Artikel 25b
-In afwijking van artikel 20a, eerste en tweede lid, heeft de ambtenaar die is aangesteld bij de Rijksschoonmaakorganisatie en wiens functie is genoemd in bijlage C, recht op een eindejaarsuitkering van 2,85% van het door hem genoten bruto salaris over twaalf maanden die wordt betaald in november. Voorts wordt 6,5% van het genoten bruto salaris maandelijks uitgekeerd boven op het salaris.

@@ -1,2 +1,0 @@
-# Artikel 25d
-Indien vanaf 1 januari 2019 de som van het salaris, de vakantie-uitkering en de eindejaarsuitkering van ambtenaren na de overkomst netto lager is dan de som van het salaris, de vakantie-uitkering en de eindejaarsuitkering die zij bij een schoonmaakbedrijf ontvingen vóór de overkomst, draagt het bevoegd gezag er zorg voor dat zij een toeslag op basis van artikel 22a ontvangen, die dit verschil wegneemt.
