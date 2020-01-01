@@ -1,3 +1,0 @@
-# Artikel 49oo. Voorziening bij verlies functie buiten de sector Rijk
-1. Een VWNW-kandiaat met een aanstelling in vaste dienst die buiten de sector Rijk een dienstverband voor onbepaalde tijd heeft aanvaard en die buiten zijn schuld of toedoen binnen de eerste twaalf maanden daarvan wordt ontslagen, wordt ondersteund door zijn voormalig bevoegd gezag bij het vinden van ander werk.
-2. Een VWNW-kandidaat met een aanstelling in vaste dienst die buiten de sector Rijk een dienstverband voor bepaalde tijd heeft aanvaard met uitzicht op een dienstverband voor onbepaalde tijd en die buiten zijn schuld of toedoen wordt ontslagen, wordt ondersteund door zijn voormalig bevoegd gezag bij het vinden van ander werk.

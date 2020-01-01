@@ -1,2 +1,0 @@
-# Artikel 49ff. Bovenwettelijke uitkering bij werkloosheid
-De VWNW-kandidaat in vaste dienst aan wie op zijn aanvraag eervol ontslag wordt verleend in verband met de aanvaarding van een functie buiten de overheid heeft, indien hij binnen twee jaar na zijn indiensttreding buiten de overheid buiten zijn schuld of toedoen wordt ontslagen, op grond van zijn ontslag als ambtenaar aanspraak op een uitkering overeenkomstig het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk.

@@ -1,2 +1,0 @@
-# Artikel 98a
-Indien aan de ambtenaar gedurende de tijd, dat hij recht heeft op wachtgeld een voor hem passend geachte betrekking is aangeboden en die betrekking binnen een periode van uiterlijk één jaar, nadat hij haar is gaan vervullen, niet passend voor hem blijkt te zijn, kan hem binnen die periode op zijn aanvraag eervol ontslag uit die betrekking worden verleend, welk ontslag ten aanzien van zijn aanspraken op een wachtgeld wordt geacht niet door eigen toedoen te zijn verleend.

@@ -1,4 +1,0 @@
-# Artikel 49hh. Duur en omvang van de aflopende toelage
-1. In afwijking van artikel 18b, eerste en derde lid, van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 bedraagt de aflopende toelage, bedoeld in het eerste lid van dat artikel, voor VWNW-kandidaten gedurende het eerste en tweede jaar 100%, het derde jaar 75%, het vierde jaar 50% en het vijfde jaar 25% van de berekeningsbasis, bedoeld in het tweede lid van dat artikel, indien zijn bezoldiging als gevolg van de toepassing van de bepalingen van dit hoofdstuk een blijvende verlaging ondergaat.
-2. Bij de aanvaarding van een functie buiten de sector Rijk wordt de volledige aanspraak op de aflopende toelage, bedoeld in het eerste lid, eenmalig uitgekeerd.
-3. Bij regeling van Onze Minister voor Wonen en Rijksdienst kunnen nadere regels worden gesteld over de toepassing van dit artikel.

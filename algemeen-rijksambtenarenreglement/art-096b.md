@@ -1,4 +1,0 @@
-# Artikel 96b
-1. Aan de ambtenaar die in verband met de aanvaarding van een functie in een publiekrechtelijk college, waarin hij is benoemd of verkozen, tijdelijk is ontheven van de waarneming van zijn ambt, wordt, indien hij ophoudt zodanige functie te bekleden en hij naar het oordeel van het bevoegd gezag niet in actieve dienst kan worden hersteld, eervol ontslag verleend.
-2. Tenzij artikel 34e, eerste lid, van toepassing is, wordt eervol ontslag eveneens verleend aan de ambtenaar, die na afloop van het verlof, verleend met toepassing van artikel 34, uitgezonderd het vierde en vijfde lid en in verband met het vervullen van een functie bij een internationale volkenrechtelijke organisatie, naar het oordeel van het bevoegd gezag niet in actieve dienst kan worden hersteld.
-3. Het eerste lid vindt eveneens toepassing voor de ambtenaar die ophoudt de functie te bekleden, bedoeld in artikel 16, derde lid.

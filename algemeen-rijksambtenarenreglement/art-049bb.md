@@ -1,8 +1,0 @@
-# Artikel 49bb. Periode van begeleidingstraject van werk naar werk
-1. Het begeleidingstraject bestaat uit drie elkaar opvolgende perioden van elk zes maanden, met dien verstande dat bij een aanstelling in tijdelijke dienst het begeleidingstraject bestaat uit maximaal de resterende periode van die aanstelling.
-2. De eerste periode van het begeleidingstraject vangt voor de verplichte VWNW-kandidaat aan met ingang van de datum van vaststelling van het VWNW-plan, met dien verstande dat voor de verplichte VWNW-kandidaat, bedoeld in artikel 49r, onderdeel e, onder 1° en 2°, het begeleidingstraject niet eerder aanvangt dan nadat hij niet meer met zijn functie wordt belast.
-3. Voor de ambtenaar, die deel uitmaakt van een aangewezen groep als bedoeld in artikel 49s, tweede lid, vangt het begeleidingstraject aan vanaf de datum waarop hij aanvangt met de uitvoering van het plan.
-4. De vrijwillige VWNW-kandidaat kan nadat de voorbereidende fase is geëindigd, gebruik blijven maken van het begeleidingstraject en de voorzieningen, bedoeld in paragraaf 3 van dit hoofdstuk.
-5. De perioden, bedoeld in het eerste lid, worden slechts opgeschort indien de VWNW-kandidaat op verzoek van het bevoegd gezag andere werkzaamheden verricht die de uitvoering van het VWNW-plan ophouden.
-6. Voor de vrijwillige VWNW-kandidaat die verplichte VWNW-kandidaat wordt, vangt een nieuw begeleidingstraject aan, onverminderd de reeds genoten begeleiding als vrijwillige VWNW-kandidaat.
-7. Het bevoegd gezag kan een periode als bedoeld in het eerste lid, verlengen indien ernstige persoonlijke omstandigheden bij de VWNW-kandidaat of het begeleidingstraject hiertoe aanleiding geven.

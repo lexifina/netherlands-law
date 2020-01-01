@@ -1,2 +1,0 @@
-# Artikel 49wa. Plaatsingsbereik niet-VWNW-kandidaat
-Bij plaatsing van een ambtenaar wiens functie niet is opgeheven en die niet als overtollig is aangewezen en geen vrijwillige VWNW-kandidaat is in een functie als bedoeld in artikel 57, tweede lid, geldt dat deze functie passend is, indien het maximumsalaris van de salarisschaal in de nieuwe functie ten minste gelijk is aan het maximumsalaris van de salarisschaal die behoort bij de laatstelijk door de ambtenaar vervulde functie. Met instemming van de ambtenaar kan het bevoegd gezag afwijken van de eerste volzin.

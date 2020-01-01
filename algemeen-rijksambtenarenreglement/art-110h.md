@@ -1,5 +1,0 @@
-# Artikel 110h
-1. De Advies- en Arbitragecommissie treedt in geval van advies op in een samenstelling van drie leden, onder wie de voorzitter, een van de twee leden bedoeld in het derde lid onder a van het vorige artikel en een van de twee leden bedoeld in het derde lid onder b van dat artikel. De overige twee leden treden te zamen met de voorzitter op in geval van arbitrage. Bij verhindering van een der leden treedt diens plaatsvervanger op.
-2. Indien het verzoek om arbitrage naar het oordeel van de voorzitter een zelfde geschil betreft als waarover door de Advies- en Arbitragecommissie reeds advies is uitgebracht, treedt voor een lid die bij het uitbrengen van dat advies betrokken was, diens plaatsvervanger op.
-3. De voorzitter draagt er zorg voor dat het advies of de uitspraak binnen vier weken, nadat de kennisgeving bedoeld in artikel 110f, is ontvangen, aan de deelnemers aan het overleg ter kennis wordt gebracht.
-4. De Advies- en Arbitragecommissie stelt nadere regels vast met betrekking tot haar werkwijze.
