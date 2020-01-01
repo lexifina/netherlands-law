@@ -1,3 +1,0 @@
-# Artikel 127b
-1. Voor zover in verband met een reorganisatie arbeidsplaatsen vervallen, wordt de ambtenaar die de in artikel 127, eerste lid, bedoelde leeftijd heeft bereikt het eerst voor ontslag in aanmerking gebracht. In deze leeftijdsgroep worden vervolgens de ambtenaren met het kortste dienstverband het eerst voor ontslag in aanmerking gebracht.
-2. Bij voorschriften of regels op grond van artikel 125, eerste en tweede lid, van de Ambtenarenwet of van artikel 47, eerste lid, van de Politiewet 2012 wordt bepaald welke diensttijd wordt meegeteld voor de berekening van de duur van het dienstverband, bedoeld in de tweede volzin van het eerste lid.
