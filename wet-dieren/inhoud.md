@@ -10,6 +10,7 @@
 ## Hoofdstuk 3. Dierlijke producten
 ### § 1. Algemene regels over dierlijke producten
 ### § 2. Aanvullende regels over dierlijke bijproducten
+### § 3. Aanvullende regels over dierlijke producten in relatie tot het milieu
 ## Hoofdstuk 4. Toelating beroepen in de uitoefening van de diergeneeskunde
 ## Hoofdstuk 5. Maatregelen
 ### § 1. Algemeen
