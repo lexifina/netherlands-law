@@ -1,8 +1,5 @@
 # Artikel 1. Geen beroep
 Tegen een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan geen beroep worden ingesteld.
-Ambtenarenwet:
-a. artikel 126, eerste lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
-b. artikel 126, tweede lid, betreffende de toepassing van hoofdstuk XVIII van de Provinciewet, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging en voor zover het betreft de weigering om een voordracht tot vernietiging te doen
 Archiefwet 1995:
 a. artikel 38, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep niet wordt ingesteld door gedeputeerde staten
 b. artikel 38, betreffende de toepassing van hoofdstuk XVII van de Gemeentewet, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging en voor zover het betreft de weigering om een voordracht tot vernietiging te doen
@@ -72,7 +69,6 @@ d. artikel 5.2a, derde lid, betreffende de toepassing van hoofdstuk XVIII van de
 e. artikel 5.2a, vierde lid, betreffende de toepassing van hoofdstuk XVII van de Gemeentewet, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging en voor zover het betreft de weigering om een voordracht tot vernietiging te doen
 f. artikel 5.8, eerste lid, laatste volzin
 Wet bekostiging financieel toezicht 2019: een besluit omtrent de goedkeuring als bedoeld in de artikelen 6 en 9
-Wet bijzondere opneming in psychiatrische ziekenhuizen
 Wet bodembescherming: artikel 43, voor zover het betreft de afwijzing van een verzoek
 Wet College voor de rechten van de mens, met uitzondering van de artikelen 14 tot en met 18
 Wet gemeenschappelijke regelingen:
@@ -128,8 +124,10 @@ Wet tijdelijke tolheffing Blankenburgverbinding en ViA15: artikel 4, eerste lid,
 Wet toezicht financiële verslaggeving: de artikelen 2, eerste lid, 3, eerste en tweede lid, 4, 9, 12 en 30
 Wet van 18 december 2008 tot wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens) (Stb. 2008, 561): artikel X
 Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen: artikel 30, tweede lid
+Wet verplichte geestelijke gezondheidszorg, met uitzondering van de artikelen 5:2 en 13:4
 Wet vervoer gevaarlijke stoffen: de artikelen 13, eerste lid, en 14, eerste, tweede en vierde lid
 Wet windenergie op zee: artikel 9, eerste lid
+Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten, met uitzondering van artikel 61
 Zorgverzekeringswet:
 a. artikel 9a
 b. artikel 18f, eerste lid, in samenhang met artikel 18d of 18e, voor zover een besluit wordt genomen over de verschuldigdheid van de bestuursrechtelijke premie of de hoogte daarvan

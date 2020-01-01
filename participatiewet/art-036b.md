@@ -3,5 +3,5 @@
 a. 18 jaar of ouder is;
 b. recht heeft op studiefinanciering op grond van de Wet studiefinanciering 2000 of recht heeft op een tegemoetkoming op grond van hoofdstuk 4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten;
 c. geen in aanmerking te nemen vermogen als bedoeld in artikel 34 heeft; en
-d. een persoon is van wie is vastgesteld dat hij niet in staat is tot het verdienen van het wettelijk minimumloon, doch wel mogelijkheden tot arbeidsparticipatie heeft.
+d. door een structurele medische beperking tijdens de studie geen inkomsten kan verwerven.
 2. De artikelen 12, 43, 49 en 52 zijn niet van toepassing.

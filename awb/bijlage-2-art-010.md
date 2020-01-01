@@ -1,6 +1,6 @@
 # Artikel 10. Hoger beroep bij de Centrale Raad van Beroep, zonder schorsende werking
 Tegen een uitspraak van de rechtbank of van de voorzieningenrechter omtrent een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan eveneens hoger beroep worden ingesteld bij de Centrale Raad van Beroep.
-Een besluit waarbij een ambtenaar als bedoeld in artikel 1 van de Ambtenarenwet als zodanig, een militair ambtenaar als bedoeld in artikel 1 van de Militaire Ambtenarenwet 1931 als zodanig, een lid van het personeel van een zelfstandig bestuursorgaan waarop ingevolge artikel 15 van de Kaderwet zelfstandige bestuursorganen de ambtelijke rechtspositieregels van overeenkomstige toepassing zijn als zodanig, een dienstplichtige als bedoeld in hoofdstuk 2 van de Kaderwet dienstplicht als zodanig, hun nagelaten betrekkingen of hun rechtverkrijgenden belanghebbende zijn
+Een besluit waarbij een persoon met betrekking tot diens in artikel 3 van de Ambtenarenwet 2017 bedoelde hoedanigheid, zijn nagelaten betrekkingen of zijn rechtverkrijgenden belanghebbende zijn.
 Besluit van 20 juni 1984, houdende vaststelling van een algemene maatregel van bestuur regelende de vergoeding van motorrijtuigenbelasting voor oorlogsgetroffenen (Stb. 1984, 364)
 Garantiewet Burgerlijk Overheidspersoneel Indonesië, met uitzondering van een besluit op grond van de Algemene oorlogsongevallenregeling
 Garantiewet militairen K.N.I.L.

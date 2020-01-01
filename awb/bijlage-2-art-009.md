@@ -17,7 +17,7 @@ Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria
 Tijdelijke wet pilot loondispensatie
 Toeslagenwet
 Werkloosheidswet
-Wet arbeid en zorg: hoofdstuk 3, afdeling 2
+Wet arbeid en zorg: hoofdstuk 3, afdeling 2, en artikel 4:2b
 Wet arbeidsongeschiktheidsvoorziening jonggehandicapten
 Wet arbeidsongeschiktheidsvoorziening militairen
 Wet arbeidsongeschiktheidsverzekering zelfstandigen

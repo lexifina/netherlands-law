@@ -4,7 +4,7 @@ Besluit van 20 juni 1984, houdende vaststelling van een algemene maatregel van b
 Garantiewet Burgerlijk Overheidspersoneel Indonesië, met uitzondering van een besluit op grond van de Algemene oorlogsongevallenregeling
 Garantiewet militairen K.N.I.L.
 Garantiewet Surinaamse pensioenen
-Militaire ambtenarenwet 1931
+Wet ambtenaren defensie
 de reglementen van de Stichting Maror-gelden Overheid, de Stichting Joods Humanitair Fonds, de Stichting Rechtsherstel Sinti en Roma en de Stichting Het Gebaar
 Samenloopregeling Indonesische pensioenen 1960
 Toeslagregeling pensioenen Suriname en Nederlandse Antillen

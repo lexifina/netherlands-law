@@ -1,9 +1,6 @@
 # Artikel 2. Beroep bij de Afdeling bestuursrechtspraak van de Raad van State
 Tegen een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.
 Algemene wet bestuursrecht: artikel 5:32, voor zover het besluit betrekking heeft op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, van de Wet milieubeheer bedoelde wetten of wettelijke bepalingen dan wel de Ontgrondingenwet
-Ambtenarenwet:
-a. artikel 126, eerste lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
-b. artikel 126, tweede lid, betreffende de toepassing van hoofdstuk XVIII van de Provinciewet
 Archiefwet 1995: artikel 38, betreffende de toepassing van:
 a. artikel 124 van de Gemeentewet, voor zover het beroep wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap;
 b. artikel 124a van de Gemeentewet, voor zover het beroep wordt ingesteld door gedeputeerde staten, en

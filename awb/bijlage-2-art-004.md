@@ -2,7 +2,7 @@
 Tegen een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan beroep worden ingesteld bij het College van Beroep voor het bedrijfsleven.
 Een besluit van de Sociaal-Economische Raad of van de Kamer van Koophandel, genoemd in artikel 2 van de Wet op de Kamer van Koophandel, met uitzondering van:
 a. een besluit op grond van de Wet openbaarheid van bestuur
-b. een besluit ten aanzien van een ambtenaar als bedoeld in artikel 1 van de Ambtenarenwet als zodanig, zijn nagelaten betrekkingen of zijn rechtverkrijgenden
+b. een besluit ten aanzien van een persoon met betrekking tot diens in artikel 3 van de Ambtenarenwet 2017 bedoelde hoedanigheid
 Algemene douanewet: een beschikking ter zake van landbouwrestituties
 Algemene wet bestuursrecht: artikel 5:32, voor zover het betreft een besluit dat betrekking heeft op de handhaving van het bepaalde bij of krachtens de Winkeltijdenwet
 Bankwet 1998: artikel 12, vierde lid, voor zover het een schorsing of ontheffing van een directeur betreft

@@ -38,7 +38,7 @@ Toeslagregeling pensioenen Suriname en Nederlandse Antillen
 Toeslagwet Indonesische pensioenen 1956
 Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen
 Werkloosheidswet
-Wet arbeid en zorg: hoofdstuk 3, afdeling 2
+Wet arbeid en zorg: hoofdstuk 3, afdeling 2, en artikel 4:2b
 Wet arbeidsongeschiktheidsvoorziening jonggehandicapten
 Wet arbeidsongeschiktheidsvoorziening militairen
 Wet arbeidsongeschiktheidsverzekering zelfstandigen
