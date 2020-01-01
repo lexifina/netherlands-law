@@ -1,8 +1,0 @@
-# Artikel 77wd
-1. Indien het gedrag van de veroordeelde daartoe aanleiding geeft en verlenging in het belang is van de ontwikkeling van de veroordeelde, kan de rechter de termijn van de maatregel, op vordering van het openbaar ministerie, eenmaal verlengen voor ten hoogste dezelfde tijd als waarvoor de maatregel was opgelegd. Niet eerder dan twee maanden en niet later dan een maand voor het tijdstip waarop de maatregel door tijdsverloop zal eindigen, kan het openbaar ministerie een vordering indienen tot verlenging van de maatregel.
-2. Een vordering als bedoeld in het eerste lid, die later dan een maand voor het tijdstip waarop de maatregel door tijdsverloop zal eindigen, doch binnen een redelijke termijn is ingediend, is niettemin ontvankelijk, indien er bijzondere omstandigheden zijn waardoor de verdere ontwikkeling van de jeugdige de verlenging van de maatregel eist.
-3. Bij de vordering worden overgelegd:
-a. een recent opgemaakt, met redenen omkleed advies, afkomstig van de raad voor de kinderbescherming;
-b. een afschrift van de aantekeningen omtrent het gedrag van de veroordeelde, afkomstig van de instelling of organisatie die belast is met de uitvoering van de maatregel.
-4. In de beslissing omtrent de verlenging geeft de rechter aan waaruit de verlenging van de maatregel bestaat. De verlenging kan inhouden dat het programma waaraan de veroordeelde deelneemt wordt verlengd. De verlenging kan ook inhouden dat de veroordeelde deelneemt aan een door de rechter aan te wijzen programma in een daarbij aan te wijzen inrichting of dat de veroordeelde een door de rechter aan te wijzen ambulant programma zal volgen onder begeleiding van een in de beslissing aangewezen organisatie.
-5. De artikelen 77wa, 77wb en 77wc zijn van overeenkomstige toepassing.

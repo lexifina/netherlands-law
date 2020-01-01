@@ -1,3 +1,0 @@
-# Artikel 37c
-1. Bij of krachtens de wet worden regels gesteld ten aanzien van de verpleging van overheidswege en de rechtspositie van de ter beschikking gestelden.
-2. De Minister van Veiligheid en Justitie ziet erop toe, dat de ter beschikking gestelde die van overheidswege wordt verpleegd de nodige behandeling krijgt; de veiligheid van de samenleving in acht wordt genomen en de belangen van slachtoffers worden gediend. Hij kan met betrekking tot bepaalde verpleegden aan het hoofd van de inrichting bijzondere aanwijzingen geven in het belang van de veiligheid van anderen of de algemene veiligheid van personen of goederen of het belang van de slachtoffers.

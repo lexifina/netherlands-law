@@ -4,4 +4,3 @@
 a. indien een kennisgeving als bedoeld in artikel 366a, eerste en tweede lid, van het Wetboek van Strafvordering is uitgereikt of toegezonden, op de vijftiende dag nadat de einduitspraak is gedaan, tenzij door de tijdige aanwending van een rechtsmiddel het vonnis of arrest niet onherroepelijk is geworden;
 b. indien een kennisgeving als bedoeld in artikel 366a, derde lid, van het Wetboek van Strafvordering moet worden betekend, op de vijftiende dag na die betekening, tenzij door de tijdige aanwending van een rechtsmiddel het vonnis of arrest niet onherroepelijk is geworden;
 c. indien de rechter een bevel als bedoeld in artikel 77za, eerste lid, heeft gegeven, op de dag van de einduitspraak.
-3. De proeftijd loopt niet gedurende de tijd dat de veroordeelde rechtens zijn vrijheid is ontnomen of de veroordeelde uit zodanige vrijheidsontneming ongeoorloofd afwezig is.

@@ -1,6 +1,0 @@
-# Artikel 77j
-1. In bijzondere gevallen kan Onze Minister van Justitie bepalen dat de tenuitvoerlegging van de jeugddetentie gedurende een tijdvak van ten hoogste drie maanden wordt onderbroken.
-2. Onze Minister van Justitie kan nadere regels stellen aangaande het onderbreken van de tenuitvoerlegging, bedoeld in het eerste lid. Deze betreffen in elk geval de criteria waaraan de betrokkene moet voldoen om voor strafonderbreking in aanmerking te komen, de bevoegdheid tot en de wijze van verlening alsmede de voorwaarden die hieraan kunnen worden verbonden.
-3. Ten aanzien van de beslissingen omtrent de onderbreking van de tenuitvoerlegging als bedoeld in het eerste lid is Hoofdstuk XV van de Beginselenwet justitiële jeugdinrichtingen van toepassing.
-4. De rechter die de straf heeft opgelegd kan te allen tijde de jeugdige aan wie een jeugddetentie is opgelegd, voorwaardelijk in vrijheid stellen.
-5. In geval van een voorwaardelijke invrijheidstelling wordt een proeftijd bepaald van ten hoogste twee jaren. De duur van de proeftijd en de gestelde voorwaarden worden de veroordeelde in persoon betekend. De artikelen 77y, derde lid, 77z, 77aa en 77cc tot en met 77ee zijn van overeenkomstige toepassing.

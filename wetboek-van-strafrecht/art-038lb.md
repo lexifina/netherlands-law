@@ -1,2 +1,0 @@
-# Artikel 38lb
-De rechter kan, ambtshalve dan wel op vordering van het openbaar ministerie, ten aanzien van een vreemdeling die geen rechtmatig verblijf heeft in Nederland in de zin van artikel 8 van de Vreemdelingenwet 2000, de terbeschikkingstelling met verpleging van overheidswege beëindigen onder de voorwaarde dat de vreemdeling niet naar Nederland terugkeert. Artikel 38la, zesde en zevende lid, is van overeenkomstige toepassing.

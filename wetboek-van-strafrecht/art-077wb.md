@@ -1,4 +1,0 @@
-# Artikel 77wb
-1. Indien het gedrag van de veroordeelde daartoe aanleiding geeft of wijziging van de maatregel in het belang is van de ontwikkeling van de veroordeelde, kan de rechter, op vordering van het openbaar ministerie, beslissen dat de maatregel een andere invulling krijgt.
-2. De rechter beslist slechts tot een andere invulling van de maatregel, nadat hij zich een met redenen omkleed, gedagtekend en ondertekend advies heeft doen overleggen van de raad voor de kinderbescherming.
-3. Artikel 77w, tweede lid, eerste volzin, derde tot en met negende lid, is van overeenkomstige toepassing op de beslissing tot wijziging van de maatregel, met dien verstande dat in het in artikel 77w, tweede lid, derde volzin, bedoelde geval, voor de andere invulling van de maatregel advies wordt gevraagd van een gedragsdeskundige of van de reclasseringsinstelling die met de uitvoering van de maatregel is belast.

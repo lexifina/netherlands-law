@@ -17,6 +17,8 @@
 14°. andere voorwaarden, het gedrag van de veroordeelde betreffende.
 3. Indien bij de toepassing van artikel 14a een bijzondere voorwaarde is gesteld, zijn daaraan van rechtswege de voorwaarden verbonden dat de veroordeelde:
 a. ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage aanbiedt; en
-b. medewerking verleent aan het reclasseringstoezicht, bedoeld in artikel 14d, tweede lid, de medewerking aan huisbezoeken daaronder begrepen.
+b. medewerking verleent aan het reclasseringstoezicht, bedoeld in het zesde lid, daaronder begrepen de medewerking aan huisbezoeken en het zich melden bij de reclasseringsinstelling zo vaak en zolang als de reclasseringsinstelling dit noodzakelijk acht.
 4. Aan een bijzondere voorwaarde kan elektronisch toezicht worden verbonden.
 5. Bij het stellen van één van de bijzondere voorwaarden genoemd in het tweede lid, onder 3° en 4°, vinden de artikelen 23, eerste en tweede lid, en 24 overeenkomstige toepassing.
+6. De rechter kan opdracht geven dat de reclassering toezicht houdt op de naleving van de voorwaarden en de veroordeelde ten behoeve daarvan begeleidt.
+7. Gedurende de proeftijd of gedurende de tijd dat deze is geschorst kan de rechter in de gestelde bijzondere voorwaarden of in de termijn waartoe deze voorwaarden in hun werking binnen de proeftijd zijn beperkt wijziging brengen, deze voorwaarden opheffen, alsnog bijzondere voorwaarden stellen en een opdracht als bedoeld in het zesde lid, geven, wijzigen of opheffen.
