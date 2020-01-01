@@ -1,0 +1,3 @@
+# Artikel 3a
+1. De zorgdrager ten aanzien van de archiefbewaarplaats die is bestemd of mede is bestemd voor de bewaring van de archiefbescheiden van de zorgdrager, bedoeld in artikel 3, benoemt de deskundige, bedoeld in artikel 3, eerste lid, onderdeel d, op voordracht van de personen, bedoeld in artikel 3, eerste lid, onderdelen a tot en met c.
+2. De deskundige verricht anders dan uit hoofde van zijn benoeming geen werkzaamheden voor de zorgdrager, bedoeld in artikel 3, noch verricht hij werkzaamheden voor de zorgdrager die hem heeft benoemd, noch heeft hij anderszins belangen of functies waardoor de onafhankelijkheid van zijn inbreng of het vertrouwen in die onafhankelijkheid in het geding kan zijn.
