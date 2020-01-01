@@ -1,0 +1,2 @@
+# Artikel 4c
+Onze Minister stelt nadere regels vast ter uitvoering van het in de artikelen 4a en 4b bedoelde onderzoek naar de betrouwbaarheid en geschiktheid voor zover ten behoeve van dat onderzoek wordt gevraagd om verstrekking van justitiële gegevens als bedoeld in artikel 23 van het Besluit justitiële gegevens en om verstrekking van gegevens als bedoeld in artikel 4:3 van het Besluit politiegegevens. Deze nadere regels bevatten in ieder geval waarborgen omtrent een voldoende bescherming van de persoonlijke levenssfeer van betrokkene.
