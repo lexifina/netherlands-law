@@ -1,2 +1,0 @@
-# Artikel 5.3,. Belastingplicht
-De nazorgheffing wordt geheven van degene die een stortplaats drijft.

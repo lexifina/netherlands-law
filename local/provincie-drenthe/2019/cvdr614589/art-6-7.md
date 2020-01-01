@@ -1,6 +1,0 @@
-# Artikel 6.7,. Termijnen van betaling
-1. De leges moeten worden betaald ingeval de kennisgeving als bedoeld in artikel 6:
-a. mondeling wordt gedaan: op het moment van het doen van de kennisgeving;
-b. schriftelijk wordt gedaan: op het moment van het uitreiken van de kennisgeving;
-c. wordt toegezonden: binnen twee weken na de dagtekening van de kennisgeving.
-2. De Algemene Termijnenwet is niet van toepassing op de in de voorgaande leden gestelde termijnen.

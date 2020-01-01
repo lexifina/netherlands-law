@@ -1,2 +1,0 @@
-# Artikel 3.5,. Maatstaf van heffing
-De hoogte van de schuldplichtigheid van de eigenaren volgt uit de Lijst der Geldelijke Regelingen, waarop door Gedeputeerde Staten een correctiefactor is toegepast als bedoeld in artikel 90, vierde lid, van de Wet inrichting landelijk gebied.
