@@ -15,13 +15,12 @@ l. lid van de raad van een gemeente;
 m. burgemeester;
 n. lid van de rekenkamer;
 o. ombudsman of lid van de ombudscommissie als bedoeld in artikel 81p, eerste lid;
-p. ambtenaar, door of vanwege het gemeentebestuur aangesteld of daaraan ondergeschikt;
-q. ambtenaar, door of vanwege het Rijk of de provincie aangesteld, tot wiens taak behoort het verrichten van werkzaamheden in het kader van het toezicht op de gemeente;
+p. ambtenaar, in dienst van die gemeente of uit anderen hoofde aan het gemeentebestuur ondergeschikt;
+q. ambtenaar, in dienst van de Staat of de provincie, tot wiens taak behoort het verrichten van werkzaamheden in het kader van het toezicht op de gemeente;
 r. functionaris die krachtens de wet of een algemene maatregel van bestuur het gemeentebestuur van advies dient.
 2. In afwijking van het eerste lid, aanhef en onder l, kan een wethouder tevens lid zijn van de raad van de gemeente waar hij wethouder is gedurende het tijdvak dat:
 a. aanvangt op de dag van de stemming voor de verkiezing van de leden van de raad en eindigt op het tijdstip waarop de wethouders ingevolge artikel 42, eerste lid, aftreden, of
 b. aanvangt op het tijdstip van zijn benoeming tot wethouder en eindigt op het tijdstip waarop de goedkeuring van de geloofsbrief van zijn opvolger als lid van de raad onherroepelijk is geworden of waarop het centraal stembureau heeft beslist dat geen opvolger kan worden benoemd. Hij wordt geacht ontslag te nemen als lid van de raad met ingang van het tijdstip waarop hij zijn benoeming tot wethouder aanvaardt. Artikel X 6 van de Kieswet is van overeenkomstige toepassing.
 3. In afwijking van het eerste lid, aanhef en onder p, kan een wethouder tevens zijn:
 a. ambtenaar van de burgerlijke stand;
-b. vrijwilliger of ander persoon die uit hoofde van een wettelijke verplichting niet bij wijze van beroep hulpdiensten verricht;
-c. ambtenaar werkzaam voor een school voor openbaar onderwijs.
+b. vrijwilliger of ander persoon die uit hoofde van een wettelijke verplichting niet bij wijze van beroep hulpdiensten verricht.
