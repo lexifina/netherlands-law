@@ -1,2 +1,0 @@
-# Artikel III. Overgangsregeling
-Ten aanzien van de betrokkene aan wie uiterlijk op de dag voor de datum van inwerkingtreding van dit besluit een uitkering op grond van hoofdstuk 3 van het Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair en voortgezet onderwijs is toegekend, blijft artikel 25, vijfde lid, zoals het luidde op de dag voor de datum van inwerkingtreding van dit besluit, van toepassing.

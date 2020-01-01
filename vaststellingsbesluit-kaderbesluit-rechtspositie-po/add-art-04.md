@@ -1,2 +1,0 @@
-# Artikel IV. Wijziging in andere besluiten dan het Rechtspositiebesluit WPO/WEC
-[Wijzigt het Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair en voortgezet onderwijs, het Besluit trekkende bevolking WPO, het Besluit Werkloosheid onderwijs- en onderzoekpersoneel, het Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair en voortgezet onderwijs en het Overlegbesluit onderwijspersoneel.]

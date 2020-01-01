@@ -1,2 +1,0 @@
-# ARTIKEL V. OMZETTING BETREKKINGSOMVANG
-De omzetting op 1 augustus 1998 van de betrekkingsomvang uitgedrukt in uren naar een betrekkingsomvang uitgedrukt in een werktijdfactor geschiedt door het aantal uren van de betrekkingsomvang die voor betrokkene gold op 31 juli 1998 te delen door 38. De uitkomst van de berekening, bedoeld in de eerste volzin, wordt rekenkundig afgerond op 4 cijfers achter de komma.

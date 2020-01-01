@@ -1,4 +1,0 @@
-# Artikel V
-1. De regelingen voor uitkeringen wegens werkloosheid, ziekte en arbeidsongeschiktheid die bij of krachtens dit besluit komen te vervallen voor het personeel van een instelling, blijven op uitkeringen die zijn ingegaan of hadden moeten ingaan voordat het bevoegd gezag van de instelling op het desbetreffende gebied regels heeft vastgesteld en deze regels in werking treden, van toepassing voor de duur van de uitkering.
-2. De niet in het eerste lid genoemde regelingen die bij of krachtens dit besluit komen te vervallen voor het personeel van een instelling, blijven van toepassing totdat het bevoegd gezag van de instelling op het desbetreffende gebied regels heeft vastgesteld en deze regels in werking treden.
-3. De aanspraken op grond van de in het eerste en tweede lid gehandhaafde regelingen gelden vanaf de datum van inwerkingtreding van dit besluit, of zoveel later als een aanspraak ontstaat jegens het bevoegd gezag van de instelling.

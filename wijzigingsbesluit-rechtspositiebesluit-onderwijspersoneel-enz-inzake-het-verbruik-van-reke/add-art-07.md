@@ -1,2 +1,0 @@
-# Artikel VII
-Het verbruik van formatierekeneenheden voor zover betrekking hebbend op de artikelen I-R205a, eerste lid, en I-R305a, eerste lid, van het Rechtspositiebesluit onderwijspersoneel in gevallen dat, voorafgaand aan het tijdstip van inwerkingtreding van dit besluit, het ontslag van leden van de directie wegens opheffing van de betrekking is ingegaan, wordt berekend volgens het recht dat van toepassing was op het tijdstip van het ontslag.

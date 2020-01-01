@@ -1,3 +1,0 @@
-# ARTIKEL IX
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van de artikelen II en III.
-2. De artikelen II en III van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip. Laatstbedoeld besluit wordt niet genomen voordat vier weken zijn verstreken nadat het onderhavige besluit is overgelegd aan de Tweede Kamer der Staten-Generaal, en evenmin indien binnen die termijn door of namens de Tweede Kamer de wens te kennen wordt gegeven dat het in de artikelen II en III van dit besluit geregelde onderwerp bij wet wordt geregeld.

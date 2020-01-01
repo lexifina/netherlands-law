@@ -1,8 +1,0 @@
-# Artikel V. Overgangsrechtelijke bepalingen
-1. In de periode van 1 januari 2006 tot en met 31 juli 2006 heeft het bevoegd gezag van een school voor praktijkonderwijs als bedoeld in artikel 9 van het Besluit RVC's, regionaal zorgbudget en praktijkscholen met declaratiebekostiging aanspraak op 7/12 van de materiële bekostiging die voor het kalenderjaar 2006 voor de desbetreffende school op grond van artikel 28 van dat besluit is vastgesteld.
-2. Hoofdstuk 4 van het Besluit RVC's, regionaal zorgbudget en praktijkscholen met declaratiebekostiging en de ter uitvoering daarvan vastgestelde voorschriften, zoals deze luidden op 31 juli 2006, blijven van toepassing op:
-a. aanvragen die op grond van die voorschriften binnen de daarvoor gestelde termijn zijn ingediend en betrekking hebben op de periode voor 1 augustus 2006,
-b. bezwaarschriften en beroepschriften die binnen de daarvoor gestelde termijn zijn ingediend met betrekking tot toepassing van die voorschriften en betrekking hebben op de periode voor 1 augustus 2006, en
-c. de afrekening van bekostiging op grond van die voorschriften voor de periode voor 1 augustus 2006.
-3. In de periode van 1 augustus 2006 tot en met 31 december 2006 heeft het bevoegd gezag van een in het eerste lid bedoelde school aanspraak op 32% van de personele bekostiging en 5/12 van de materiële bekostiging die voor het kalenderjaar 2006 voor de desbetreffende school op grond van de artikelen 84 en 85 respectievelijk 86 van de Wet op het voortgezet onderwijs wordt vastgesteld.
-4. Bij ministeriële regeling worden regels gesteld over de afrekening na 31 juli 2006 van de personele bekostiging van de in het eerste lid bedoelde scholen.
