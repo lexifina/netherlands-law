@@ -1,4 +1,0 @@
-# Artikel XVI
-De artikelen van de in dit besluit gewijzigde regelingen en besluiten, zoals deze luidden op 31 juli 1993 blijven van toepassing op de ambtenaar of militair in de zin van die regelingen en besluiten voor zover die ambtenaar of militair verkeert in een overeenkomstige situatie, als de situaties omschreven in Hoofdstuk III van de Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen, met dien verstande dat:
-a. de aanspraken ingevolge het Besluit aanvulling arbeidsongeschiktheidsuitkering militairen en ingevolge artikel 8, tweede lid, van de Premieregeling en aanvullende voorzieningen beroepsmilitairen van de krijgsmacht 1982 die op 31 juli 1993 bestonden, bij die inwerkingtreding vervallen en worden vervangen door de aanspraken die voortvloeien uit de wijzigingen ingevolge dit besluit;
-b. rechten ontstaan als gevolg van de werking van het Cohortenbesluit niet eerder ingaan dan de datum, bedoeld in artikel 1 van dat besluit.
