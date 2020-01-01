@@ -1,0 +1,4 @@
+# Artikel V
+1. De artikelen 157 en 401, zoals deze artikelen luidden voor het tijdstip van inwerkingtreding van deze wet, blijven van toepassing op een uitkering tot levensonderhoud, die voor dat tijdstip door de rechter is vastgesteld of tussen partijen is overeengekomen.
+2. De artikelen 157 en 401, zoals deze artikelen luidden voor het tijdstip van inwerkingtreding van deze wet, blijven van toepassing op een verzoek tot vaststelling of wijziging van een uitkering tot levensonderhoud, indien het inleidende verzoekschrift is ingediend voor dat tijdstip.
+3. Op een uitkering tot levensonderhoud die vóór 1 juli 1994 door de rechter is vastgesteld of door partijen is overeengekomen, is artikel II van de Wet van 28 april 1994 tot wijziging van enige bepalingen van de Wet van 28 april 1994, Stb. 324, houdende wijziging van bepalingen in het Burgerlijk Wetboek in verband met de regeling van de limitering van alimentatie na scheiding (Stb. 325), van toepassing.
