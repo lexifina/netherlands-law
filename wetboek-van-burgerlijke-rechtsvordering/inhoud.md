@@ -143,6 +143,7 @@
 ### titel Twaalfde. Van rechtspleging in zaken betreffende onredelijk bezwarende bedingen in algemene voorwaarden
 ### Titel 13. Van rechtspleging in zaken betreffende de teruggave van cultuurgoederen
 ### Titel 14. Van rechtspleging in zaken betreffende de verbindendverklaring van overeenkomsten strekkende tot collectieve schadeafwikkeling
+### Titel 14a. Van rechtspleging in zaken betreffende een collectieve actie en collectieve schadeafwikkeling
 ### Titel 15. Van rechtspleging in zaken betreffende rechten van intellectuele eigendom
 ### Titel 15a. Van rechtspleging in zaken betreffende bescherming van bedrijfsgeheimen
 ### Titel 16. Van rechtspleging in pachtzaken

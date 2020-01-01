@@ -3,6 +3,6 @@
 a. bevelen dat degene die een overtreding pleegt van de wettelijke bepalingen, bedoeld in onderdeel a van de bijlage bij de Wet handhaving consumentenbescherming, die overtreding staakt;
 b. bevelen dat een gedragscode die een handelen in strijd met de artikelen 193a tot en met 193i van Boek 6 bevordert door de houder van die gedragscode, bedoeld in artikel 193a, onder i, van Boek 6, wordt aangepast;
 c. de houder van de gedragscode die het handelen in strijd met de artikelen 193a tot en met 193i van Boek 6 bevordert, veroordelen tot het openbaar maken of openbaar laten maken van de beschikking, bedoeld in de onderdelen a en b. Indien er sprake is van een misleidende handelspraktijk als bedoeld in de artikelen 193c tot en met 193g van Boek 6, kan het gerechtshof op verzoek van de handelaar tevens veroordelen tot rectificatie van de informatie. De openbaarmaking of rectificatie geschiedt op een door het gerechtshof te bepalen wijze en op kosten van de door het gerechtshof aan te geven partij of partijen.
-2. Artikel 305a lid 2 is van overeenkomstige toepassing op een verzoek als bedoeld in het eerste lid.
+2. Artikel 305a lid 3, onderdeel (c), is van overeenkomstige toepassing op een verzoek als bedoeld in het eerste lid.
 3. Het gerechtshof behandelt het verzoek onverwijld.
 4. Geschillen ter zake van de tenuitvoerlegging van de in lid 1 bedoelde veroordelingen, alsmede van de veroordeling tot betaling van een dwangsom, zo deze is opgelegd, worden bij uitsluiting door het gerechtshof Den Haag beslist.
