@@ -1,7 +1,0 @@
-# Artikel 4a
-1. Het gedeelte van de in de artikelen 2, 3 en 4 genoemde vergoeding dat uitgaat boven het bedrag per kilometer dat maximaal belastingvrij mag worden vergoed, strekt mede tot vergoeding van kilometers die al dan niet op grond van het Reisbesluit binnenland, het Reisbesluit buitenland, het Verplaatsingskostenbesluit 1989 en daarvan afgeleide regelingen nog aanvullend belastingvrij kunnen worden vergoed.
-2. De toepassing van het eerste lid geschiedt per kalenderjaar.
-3. Bij tussentijdse beëindiging van de dienstbetrekking in de loop van een kalenderjaar dient de na toepassing van het eerste lid eventueel verschuldigde loonheffing te worden ingehouden uiterlijk in de kalendermaand volgende op de kalendermaand waarin de dienstbetrekking eindigt.
-4. Bij de toepassing van het eerste en tweede lid worden de vergoedingen, genoemd in de artikelen 2, 3 en 4 toegekend als voorschot.
-5. Na afloop van het desbetreffende kalenderjaar worden de in het vierde lid bedoelde vergoedingen definitief vastgesteld.
-6. Voor de berekening van de loonheffing over het bovenmatig deel van de in het desbetreffende kalenderjaar uitbetaalde vergoedingen dient te worden uitgegaan van alle daadwerkelijk afgelegde dienstreiskilometers, vermeerderd met de overeenkomstig de artikelen 11, vierde lid, 12 en 13 van de Verplaatsingskostenregeling 1989 berekende woon-werkverkeerkilometers waarvoor een tegemoetkoming is toegekend.
