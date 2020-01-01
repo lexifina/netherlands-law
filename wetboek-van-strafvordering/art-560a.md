@@ -1,2 +1,0 @@
-# Artikel 560a
-Verzoeken strekkende tot vermindering, verandering of kwijtschelding van andere door de Nederlandse strafrechter opgelegde maatregelen dan genoemd in artikel 558, derde lid, worden in handen gesteld van de autoriteit, die wettelijk bevoegd is de tenuitvoerlegging van die maatregelen te beëindigen of de daarbij opgelegde verplichtingen te wijzigen of te niet te doen, ten einde daarop te beslissen.

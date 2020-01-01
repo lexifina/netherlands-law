@@ -1,9 +1,0 @@
-# Artikel 577be
-1. De officier van justitie kan in het belang van het onderzoek een vordering doen gegevens te verstrekken over een gebruiker van een communicatiedienst en het communicatieverkeer met betrekking tot die gebruiker in de zin van artikel 138h.
-2. Artikel 126n, eerste lid, tweede volzin, tweede en derde lid, is van overeenkomstige toepassing.
-3. De officier van justitie doet van de vordering, bedoeld in het eerste lid, proces-verbaal opmaken, waarin worden vermeld:
-a. de naam van de veroordeelde;
-b. indien bekend, de naam of anders een zo nauwkeurig mogelijke aanduiding van de persoon omtrent wie gegevens worden gevorderd;
-c. de gegevens die worden gevorderd;
-d. indien de vordering betrekking heeft op gegevens die na het tijdstip van de vordering worden verwerkt, de periode waarover de vordering zich uitstrekt.
-4. Artikel 126n, zesde lid, is van overeenkomstige toepassing.
