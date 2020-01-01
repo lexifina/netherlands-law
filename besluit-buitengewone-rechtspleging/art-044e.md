@@ -1,0 +1,5 @@
+# Artikel 44e
+1. De raadsheer geeft de beschikking niet alvorens den verdachte te hebben gehoord. Hij doet den verdachte, die in verzekerde bewaring is, voor zich verschijnen. Indien de verdachte in vrijheid is, beveelt hij diens dagvaarding; indien de verdachte niet op de dagvaarding verschijnt, doet hij hem andermaal dagvaarden; hij kan daarbij diens medebrenging bevelen of zoodanig bevel later uitvaardigen.
+2. De president van het Bijzondere Gerechtshof voegt den verdachte, die geen raadsman heeft, uiterlijk den tienden dag vóór dien, waarop het verhoor zal plaats vinden, een raadsman toe. Van deze toevoeging benevens van den datum van het verhoor wordt onverwijld schriftelijk kennis gegeven aan den raadsman en aan den verdachte.
+3. De raadsheer stelt den verdachte en diens raadsman desverlangd in de gelegenheid van de stukken kennis te nemen.
+4. De procureur-fiscaal en de raadsman van den verdachte zijn bevoegd het verhoor bij te wonen. In dat geval worden zij in de gelegenheid gesteld het woord te voeren.

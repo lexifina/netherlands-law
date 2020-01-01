@@ -1,0 +1,2 @@
+# Artikel 32b
+In afwijking van het bepaalde in artikel 319, laatste lid, van het Wetboek van Strafvordering kunnen ook zonder toestemming van den verdachte bepaalde getuigen, deskundigen en tolken worden aangewezen, wier tegenwoordigheid bij de nadere behandeling niet meer wordt vereischt, indien redelijkerwijze moet worden aangenomen, dat de verdachte hierdoor in zijn verdediging niet wordt benadeeld.

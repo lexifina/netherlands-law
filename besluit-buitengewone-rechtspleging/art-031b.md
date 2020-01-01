@@ -1,0 +1,2 @@
+# Artikel 31b
+In afwijking van het bepaalde in artikel 282 van het Wetboek van Strafvordering kan van het verhoor van een op de lijst voorkomenden getuige, die niet is verschenen, ook zonder toestemming van den procureur-fiscaal, onderscheidenlijk den verdachte worden afgezien, indien redelijkerwijze moet worden aangenomen, dat hierdoor de procureur-fiscaal niet in zijn vervolging of de verdachte niet in zijn verdediging wordt benadeeld.

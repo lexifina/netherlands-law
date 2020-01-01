@@ -1,0 +1,2 @@
+# Artikel 31a
+In afwijking van het bepaalde in artikel 263 van het Wetboek van Strafvordering moeten de getuigen en deskundigen steeds ten minste vier dagen vóór de terechtzitting ten parkette worden opgegeven en kan de procureur-fiscaal hun dagvaarding achterwege laten, zoolang niet ten genoegen van den procureur-fiscaal bij dezen een voldoend bedrag is gestort ter nadere verrekening met de aan hen uit te betalen vergoedingen.

@@ -1,0 +1,5 @@
+# Artikel 44d
+1. Indien de raadsheer op grond van de stukken en het verhoor van den verdachte de overtuiging heeft bekomen, dat deze een misdrijf, waarop de bepalingen van het Besluit Buitengewoon Strafrecht van toepassing zijn, heeft begaan en strafbaar is kan hij den verdachte deswege straf opleggen. De raadsheer is niet bevoegd tot oplegging van andere hoofdstraffen dan gevangenisstraf van ten hoogste zes jaren, hechtenis en geldboete.
+2. Indien de raadsheer niet de overtuiging heeft bekomen, dat de verdachte een bepaald feit, in de stukken vermeld, heeft begaan, kan hij hem ter zake van dat feit vrijspreken.
+3. Indien de raadsheer de overtuiging heeft bekomen, dat de verdachte een bepaald feit, in de stukken vermeld, heeft begaan, doch van oordeel is, dat dit niet is een misdrijf, waarop de bepalingen van het Besluit Buitengewoon Strafrecht van toepassing zijn, of dat de verdachte deswege niet strafbaar is, kan hij hem ter zake van dat feit van alle rechtsvervolging ontslaan.
+4. De raadsheer geeft de beslissingen, in dit artikel bedoeld, bij schriftelijke beschikking.

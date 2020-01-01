@@ -1,0 +1,5 @@
+# Artikel 34a
+1. Indien de zaak naar het oordeel van het Bijzondere Gerechtshof van eenvoudigen aard is, bepaaldelijk ook ten aanzien van het bewijs en de toepassing der wet, kan het Bijzondere Gerechtshof op het ingevolge artikel 345 van het Wetboek van Strafvordering bepaalde tijdstip in plaats van een uitspraak bij monde van den voorzitter of een der raden een mondelinge sententie wijzen, tenzij vóór de sluiting van het onderzoek ter terechtzitting de procureur-fiscaal vordert of de verdachte verzoekt, dat een schriftelijke sententie zal worden gewezen.
+2. De mondelinge sententie wordt in het proces-verbaal der terechtzitting, waarop de sententie wordt gewezen, aangeteekend op de wijze, door Onzen Minister van Justitie te bepalen.
+3. Zoodra het proces-verbaal der terechtzitting, waarin de sententie is aangeteekend, is geteekend, kunnen de verdachte en zijn raadsman daarvan en van het proces-verbaal van het onderzoek kennis nemen.
+4. Artikel 381 van het Wetboek van Strafvordering is van overeenkomstige toepassing.
