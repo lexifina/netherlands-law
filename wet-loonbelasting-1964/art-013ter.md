@@ -1,0 +1,5 @@
+# Artikel 13ter
+1. Indien ook voor privédoeleinden een fiets ter beschikking is gesteld, wordt het voordeel op kalenderjaarbasis gesteld op 7% van de waarde van de fiets. De fiets wordt in ieder geval geacht ook voor privédoeleinden ter beschikking te zijn gesteld indien de fiets ook voor woon-werkverkeer ter beschikking is gesteld.
+2. Het voordeel wordt in aanmerking genomen voor zover het uitgaat boven de vergoeding die de werknemer voor het gebruik voor privédoeleinden is verschuldigd.
+3. Voor de toepassing van dit artikel wordt onder een fiets mede verstaan een bromfiets als bedoeld in artikel 1, eerste lid, onderdeel e, van de Wegenverkeerswet 1994, indien deze mede door menselijke spierkracht wordt aangedreven en is uitgerust met een elektromotor.
+4. Voor de toepassing van dit artikel wordt onder de waarde van de fiets verstaan de in Nederland door de fabrikant of importeur publiekelijk kenbaar gemaakte consumentenadviesprijs van de fiets. Indien voor de fiets geen consumentenadviesprijs beschikbaar is, wordt aangesloten bij de consumentenadviesprijs van de meest vergelijkbare fiets.
