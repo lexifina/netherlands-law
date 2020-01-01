@@ -1,0 +1,3 @@
+# Artikel VI
+1. De Kaderregeling subsidies OCW, SZW en VWS, zoals die luidde op 31 december 2019, blijft van toepassing op subsidies die vóór de inwerkingtreding van deze regeling zijn verleend en waarop de Kaderregeling subsidies OCW, SZW en VWS van toepassing is.
+2. Indien de minister wie het aangaat te kennen geeft daaraan geen behoefte te hebben, hoeft de ontvanger van een subsidie als bedoeld in het eerste lid die daarover mede aan de hand van een financieel verslag rekening en verantwoording aflegt, het financieel verslag niet vergezeld te doen gaan van een rapport van feitelijke bevindingen omtrent de naleving van de aan de verleende subsidie verbonden verplichtingen door de subsidieontvanger.
