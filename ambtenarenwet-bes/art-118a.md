@@ -1,0 +1,2 @@
+# Artikel 118a
+Tenzij in bijzondere wetgeving anders is bepaald, verjaren rechtsvorderingen ter zake van bezoldiging, pensioenen en andere geldelijke aanspraken, verschuldigd krachtens een rechtsverhouding waarop dit hoofdstuk van toepassing of van overeenkomstige toepassing is, door verloop van vijf jaren na de aanvang van de dag, volgend op die waarop de vordering opeisbaar is geworden. De artikelen 316 tot en met 323 van Boek 3 van het Burgerlijk Wetboek BES zijn van toepassing.

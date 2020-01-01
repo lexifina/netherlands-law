@@ -1,0 +1,2 @@
+# Artikel 124b
+Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot voor het tijdstip van inwerkingtreding van artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen door ambtenaren in hun hoedanigheid van ambtenaar in de zin van de Landsverordening Materieel Ambtenarenrecht opgebouwde of verworven rechten en aanspraken.
