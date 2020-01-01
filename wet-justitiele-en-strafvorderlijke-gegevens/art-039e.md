@@ -11,4 +11,6 @@ h. verwerkingsverantwoordelijken voor de verwerking van politiegegevens als bedo
 i. bewaarders als bedoeld in artikel 118, eerste en tweede lid, van het Wetboek van Strafvordering.
 2. Het College van procureurs-generaal verstrekt aan de ambtenaren die werkzaam zijn ten behoeve van de justitiële documentatie strafvorderlijke gegevens.
 3. Het College van procureurs-generaal kan strafvorderlijke gegevens verstrekken aan Onze Minister van Buitenlandse Zaken ten behoeve van het versturen van notificaties als bedoeld in artikel 5c van de Wet administratiefrechtelijke handhaving verkeersvoorschriften.
-4. Artikel 9, eerste lid, tweede volzin is van overeenkomstige toepassing.
+4. Het College van procureurs-generaal verstrekt strafvorderlijke gegevens aan de geneesheer-directeur en de psychiater, bedoeld in de artikelen 5:4, 7:1, 7:11 en 8:19 van de Wet verplichte geestelijke gezondheidszorg, voor zover dit voortvloeit uit de verplichtingen van de officier van justitie op grond van die artikelen.
+5. Het College van procureurs-generaal verstrekt strafvorderlijke gegevens aan het CIZ, genoemd in artikel 28a, eerste lid, van de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten, en aan de arts die de medische verklaring, bedoeld in artikel 28a, tweede lid, onderdeel b, van die wet, vaststelt, voor zover dit voortvloeit uit de in dat artikel bedoelde verplichtingen van de officier van justitie.
+6. Artikel 9, eerste lid, tweede volzin is van overeenkomstige toepassing.
