@@ -23,7 +23,7 @@
 ### Afdeling 4. Wijze van heffing
 ## Hoofdstuk IV. Uitvoer van goederen
 ## Hoofdstuk V. Bijzondere regelingen
-### Afdeling 1. Vermindering van belasting (kleine ondernemers)
+### Afdeling 1. Vrijstelling van belasting (kleine ondernemers)
 ### Afdeling 2. Voldoening naar ontvangsten
 ### Afdeling 4. Accijnsgoederen, andere dan tabaksproducten
 ### Afdeling 5. Regeling voor gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten
