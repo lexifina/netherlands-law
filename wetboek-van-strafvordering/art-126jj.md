@@ -3,7 +3,7 @@
 2. Het kenteken, de locatie en het tijdstip van vastlegging, en de foto-opname van het voertuig worden vier weken na de datum van vastlegging vernietigd.
 3. De gegevens, bedoeld in het tweede lid, kunnen, bij bevel daartoe van de officier van justitie, door een daartoe door Onze Minister van Veiligheid en Justitie geautoriseerde opsporingsambtenaar worden geraadpleegd uitsluitend:
 a. in geval van verdenking van een misdrijf als omschreven in artikel 67, eerste lid, ten behoeve van de opsporing van dat misdrijf of
-b. in geval van een voortvluchtige persoon als bedoeld in artikel 564 ter aanhouding van deze persoon.
+b. in geval van een voortvluchtige persoon als bedoeld in artikel 6:1:6 ter aanhouding van deze persoon.
 De raadpleging vindt slechts plaats door politiegegevens die voor één van deze doelen worden verwerkt, geautomatiseerd te vergelijken met de gegevens, bedoeld in het tweede lid, teneinde vast te stellen of de gegevens overeenkomen. Als de gegevens overeenkomen kunnen ze voor het desbetreffende doel verder worden verwerkt.
 4. Het bevel is schriftelijk en vermeldt:
 a. het doel waarvoor de gegevens worden geraadpleegd;
