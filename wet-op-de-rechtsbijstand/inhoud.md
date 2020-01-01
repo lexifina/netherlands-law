@@ -6,7 +6,6 @@
 #### § 2. Het bestuur
 #### § 3. De raad van advies
 ### Afdeling 2. Taak en werkwijze van het bestuur
-### Afdeling 3. Personeelsleden van de raad
 ## Hoofdstuk III. De verlening van rechtsbijstand
 ### Afdeling 1. Algemeen
 ### Afdeling 2. De inschrijving van advocaten door het bestuur
