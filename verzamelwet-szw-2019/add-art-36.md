@@ -1,0 +1,2 @@
+# Artikel XXXVI. Inwerkingtreding
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, waarbij de artikelen I, onderdeel A, VII, onderdeel C, onder 2, onderdelen c en d, XIIA, XVII, onderdeel A, en XXX, onderdelen aA en Aa, kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip.
