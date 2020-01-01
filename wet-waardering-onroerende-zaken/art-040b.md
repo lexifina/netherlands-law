@@ -1,0 +1,3 @@
+# Artikel 40b
+1. Eenieder kan op verzoek het waardegegeven van een bepaalde onroerende zaak die in hoofdzaak tot woning dient, inzien of verstrekt krijgen bij het loket voor openbare WOZ-waarden.
+2. Bij algemene maatregel van bestuur wordt bepaald in welke gevallen, onder welke voorwaarden en tegen welk tarief een verzameling van waardegegevens betreffende onroerende zaken die in hoofdzaak tot woning dienen verstrekt kan worden via het loket voor openbare WOZ-waarden in een zodanige vorm dat daarop rechtstreeks een geautomatiseerde verwerking mogelijk is ten aanzien van een op voorhand onbepaalde groep van woningen of personen.
