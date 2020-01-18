@@ -1,0 +1,2 @@
+# Artikel 19a
+Bij het vaststellen van de identiteit van de bij het verlijden van een akte voor de eerste maal voor de notaris verschijnende personen, controleert de notaris het hem getoonde document als bedoeld in artikel 1 van de Wet op de identificatieplicht op diefstal, vermissing, geldigheid en echtheid. De notaris maakt hierbij voor zover mogelijk gebruik van hiervoor geschikte, door het bestuur aangewezen apparatuur, programmatuur, applicaties en systemen.
