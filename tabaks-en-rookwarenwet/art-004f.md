@@ -1,0 +1,2 @@
+# Artikel 4f
+Onze Minister wijst de bevoegde autoriteiten, de nationale beheerders en degene die meldingen ontvangt aan, bedoeld in de artikelen 7, tweede en vijfde lid, 8, vierde lid, tweede alinea, 15, vierde lid, 17, vierde lid, 19, vierde lid, 25, eerste lid, onderdelen f, k en l, 26, zesde lid, 27 en 35, vijfde en zevende lid, van de uitvoeringsverordening traceringssysteem. De bevoegde autoriteiten en nationale beheerders nemen die uitvoeringsverordening in acht.

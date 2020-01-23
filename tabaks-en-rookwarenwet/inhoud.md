@@ -1,6 +1,7 @@
 # Inhoud
 ## § 1. Begripsbepalingen
 ## § 2. Aanduiding, samenstelling, verbod en informatieverstrekking tabaksproducten en aanverwante producten
+## § 2a. Volg- en traceersysteem en veiligheidskenmerk
 ## § 3. Reclame- en sponsoringbeperkingen
 ## § 4. Verkoopbeperkingen
 ## § 5. Rookverboden
