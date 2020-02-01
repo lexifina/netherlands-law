@@ -1,0 +1,7 @@
+# Artikel 6ea
+1. De afgifte van een certificaat van goedkeuring, als bedoeld in artikel 6e, wordt geweigerd indien de verzoeker niet heeft voldaan aan de bij of krachtens dit besluit met betrekking tot het certificaat gestelde eisen.
+2. Een certificaat van goedkeuring kan worden geschorst, ten nadele van de certificaathouder worden gewijzigd of ingetrokken:
+a. op grond van feiten of omstandigheden waarvan de deskundige, bedoeld in artikel 6d, derde lid, eerste zin, Onze Minister of, indien Onze Minister een NL-conformiteitsbeoordelingsinstantie heeft aangewezen, deze instelling, bij het afgeven van het certificaat redelijkerwijs niet op de hoogte kon zijn en op grond waarvan hij respectievelijk zij het certificaat niet of alleen met voorschriften, bedoeld in artikel 7a, vierde lid, van de wet, zou hebben gegeven;
+b. op grond van door de certificaathouder verstrekte onjuiste inlichtingen over feiten en omstandigheden, mits de onjuistheid daarvan aan de houder bekend was of kon zijn;
+c. indien de certificaathouder niet meer voldoet aan de bij of krachtens dit besluit met betrekking tot het certificaat gestelde eisen of zijn wettelijke verplichtingen niet meer naar behoren nakomt; of
+d. indien de certificaathouder met zijn werkzaamheden, voor zover die door het certificaat worden gereguleerd, of door de wijze waarop hij die werkzaamheden verricht, ernstig gevaar veroorzaakt of kan veroorzaken voor personen.

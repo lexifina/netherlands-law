@@ -1,0 +1,6 @@
+# Artikel 6ga. Uitbesteden taken door EU-conformiteitsbeoordelingsinstanties
+1. Indien een EU-conformiteitsbeoordelingsinstantie conformiteitsbeoordelingstaken uitbesteedt of door een dochteronderneming laat uitvoeren, waarborgt zij dat de onderaannemer of dochteronderneming aan de eisen, bedoeld in artikel 6g, eerste lid, voldoet, en brengt zij Onze Minister hiervan op de hoogte.
+2. Een EU-conformiteitsbeoordelingsinstantie neemt de volledige verantwoordelijkheid op zich voor de conformiteitsbeoordelingstaken die worden verricht door een onderaannemer of dochteronderneming.
+3. Een EU-conformiteitsbeoordelingsinstantie zorgt ervoor dat de activiteiten van een onderaannemer of dochteronderneming geen afbreuk doen aan de vertrouwelijkheid, objectiviteit en onpartijdigheid van de door haarzelf te verrichten conformiteitsbeoordelingstaken.
+4. Conformiteitsbeoordelingstaken mogen uitsluitend met instemming van de opdrachtgever uitbesteed of door een dochteronderneming worden verricht.
+5. Een EU-conformiteitsbeoordelingsinstantie houdt alle relevante documenten betreffende de beoordeling van de kwalificaties van een onderaannemer of dochteronderneming en betreffende de door een onderaannemer of dochteronderneming uit hoofde van dit besluit verrichte conformiteitsbeoordelingstaken ter beschikking van Onze Minister.

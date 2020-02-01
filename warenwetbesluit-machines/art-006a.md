@@ -1,0 +1,3 @@
+# Artikel 6a
+1. Indien een EU-conformiteitsbeoordelingsinstantie vaststelt dat de fabrikant niet of niet langer aan de toepasselijke eisen van dit besluit voldoet of dat geen verklaring van EG-typeonderzoek of goedkeuring van het kwaliteitsborgingssysteem verleend had mogen worden, schort zij de verleende verklaring of goedkeuring op, dan wel trekt zij deze in of verbindt zij daar beperkingen aan, tenzij de naleving van de eisen is gewaarborgd door de toepassing van passende corrigerende maatregelen van de fabrikant.
+2. Indien de verklaring of goedkeuring wordt opgeschort, beperkt of ingetrokken of indien het nodig kan zijn dat Onze Minister maatregelen neemt, stelt de EU-conformiteitsbeoordelingsinstantie Onze Minister daarvan onverwijld in kennis.

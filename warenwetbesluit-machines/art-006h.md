@@ -1,0 +1,17 @@
+# Artikel 6h. Criteria voor aanwijzing als NL-conformiteitsbeoordelingsinstantie
+1. Als NL-conformiteitsbeoordelingsinstantie kunnen worden aangewezen de instellingen die voldoen aan de volgende eisen:
+a. eisen, genoemd in artikel 6g, eerste lid, a tot en met n;
+b. zij beschikken over een registratiesysteem waarin de gegevens die samenhangen met en betrekking hebben op het verrichten van de conformiteitsbeoordelingstaken waarvoor zij aangewezen willen worden, naar behoren worden vastgelegd; en
+c. zij hebben een schemabeheerder voor het ontwikkelen, onderhouden en publiekelijk en kosteloos toegankelijk maken van een schema, dat onverkort door hen wordt gebruikt. Deze schemabeheerder houdt naar behoren rekening met de belangen van alle partijen die belang hebben bij het schema, zonder dat één van de belangen de overhand heeft.
+2. Indien er meerdere NL-conformiteitsbeoordelingsinstanties zijn aangewezen:
+a. nemen zij deel aan het door hen gezamenlijk te organiseren overleg ten einde te komen tot het geharmoniseerd verrichten van de conformiteitsbeoordelingstaken waarvoor zij zijn aangewezen;
+b. wijzen zij een schemabeheerder aan voor het opstellen, onderhouden en publiekelijk en kosteloos toegankelijk maken van een gezamenlijk schema, dat onverkort door hen wordt gebruikt;
+c. hanteren zij de in het overleg genomen administratieve beslissingen en opgestelde documenten als algemene richtsnoeren; en
+d. zorgen zij ervoor dat hun medewerkers die de conformiteitsbeoordelingstaken verrichten, op de hoogte zijn van de activiteiten, administratieve beslissingen en opgestelde documenten van het overleg.
+3. NL-conformiteitsbeoordelingsinstanties brengen Onze Minister op de hoogte van:
+a. elke weigering, beperking, schorsing of intrekking van goedkeuringen;
+b. omstandigheden die van invloed zijn op de werkingssfeer van of de voorwaarden voor aanwijzing;
+c. informatieverzoeken over conformiteitsbeoordelingsactiviteiten die zij van Onze Minister ontvangen; en
+d. op verzoek, de binnen de werkingssfeer van hun aanwijzing verrichte conformiteitsbeoordelingsactiviteiten en andere activiteiten waaronder uitbesteding.
+4. NL-conformiteitsbeoordelingsinstanties verstrekken de andere uit hoofde van dit besluit aangewezen NL-conformiteitsbeoordelingsinstanties die soortgelijke conformiteitsbeoordelingsactiviteiten voor machines verrichten, relevante informatie over negatieve conformiteitsbeoordelingsresultaten, en, op verzoek, over positieve conformiteitsbeoordelingsresultaten.
+5. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot dit artikel.

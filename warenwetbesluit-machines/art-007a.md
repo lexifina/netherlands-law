@@ -1,0 +1,2 @@
+# Artikel 7a. Certificaat van goedkeuring
+Een certificaat van goedkeuring, afgegeven op grond van de wet, en geldend op dag, voorafgaand aan de datum van inwerkingtreding van het besluit van 7 september 2009, Stb. 395 wordt geacht te zijn afgegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, zoals die luiden met ingang van de datum van inwerkingtreding van evengenoemd besluit, onverminderd het bepaalde bij of krachtens de artikelen 6d en 6ea.
