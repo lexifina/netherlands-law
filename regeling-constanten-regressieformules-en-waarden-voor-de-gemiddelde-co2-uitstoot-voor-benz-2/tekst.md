@@ -1,0 +1,29 @@
+# Tekst
+De directie van de Dienst Wegverkeer,
+Gelet op artikel 8 van het Besluit etikettering energiegebruik personenauto' s van 3 november 2000 en de Regeling relatieve zuinigheid personenauto's van 31 oktober 2012;
+Besluit:
+De constanten voor de in de Regeling relatieve zuinigheid personenauto's opgenomen regressieformules en de daarbij behorende waarden van de gemiddelde CO2-uitstoot voor personenauto's met benzine als brandstof alsmede voor personenauto's met diesel als brandstof voor de kalenderjaren 2020 en 2021 als volgt vast te stellen:
+Constanten en waarden voor 2020 en 2021
+WLTP definitief
+1. Constanten voertuiglengte:
+C1lengte | –9,971
+C2lengte | 11,6417
+C3lengte | –2,0367
+2. Constanten benzineauto's:
+C1benzine | 280,0667
+C2benzine2 | –57,4968
+C3benzine3 | 5,1393
+3. Constanten dieselauto's:
+C1diesel | 565,3687
+C2diesel | –123,477
+C3diesel | 8,6611
+4. Waarden gemiddelde CO2-uitstoot:
+CO2benzine | 143,9546
+CO2diesel | 129,0316
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+Zoetermeer
+11 februari 2020
+De directie van de RDW,
+A. van
+Ravestein
+Algemeen Directeur
