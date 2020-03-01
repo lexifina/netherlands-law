@@ -1,0 +1,2 @@
+# Artikel IV
+De artikelen 29 tot en met 40 van de Wet tarieven in burgerlijke zaken en artikel 38, vierde lid, van de Wet op de rechtsbijstand, zoals deze luidden vóór de inwerkingtreding van deze wet, blijven van toepassing op geschillen over het door de advocaat aan de cliënt berekende salaris, in gevallen waarin de rekening van de advocaat is begroot door de raad van toezicht vóór het tijdstip waarop deze wet in werking treedt.
