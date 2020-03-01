@@ -1,0 +1,2 @@
+# Artikel 54 bis. Vervoer over de weg, per spoor, over de binnenwateren en door de lucht
+Met het oog op een gecoördineerde ontwikkeling van het vervoer tussen de partijen in overeenstemming met hun respectieve commerciële behoeften, kunnen de voorwaarden voor de wederzijdse toegang tot elkaars markten voor het vervoer over de weg, per spoor en over de binnenwateren, en eventueel het luchtvervoer, worden vastgelegd in eventuele specifieke overeenkomsten, waarover in voorkomend geval tussen de partijen wordt onderhandeld nadat deze overeenkomst in werking is getreden.
