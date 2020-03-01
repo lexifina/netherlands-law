@@ -5,4 +5,4 @@
 4. Indien toepassing wordt gegeven aan artikel 46n, tweede lid, kan als onderdeel van de minnelijke schikking door partijen worden bepaald dat het door klager betaalde griffierecht wordt vergoed door de advocaat.
 5. Indien de klacht geheel of gedeeltelijk gegrond wordt verklaard, wordt het door de klager betaalde griffierecht vergoed door de betrokken advocaat.
 6. In afwijking van het eerste lid wordt geen griffierecht geheven indien de klacht afkomstig is van de deken.
-7. Onze Minister van Veiligheid en Justitie kan het in het eerste lid bedoelde bedrag wijzigen voor zover de consumentenprijsindex daartoe aanleiding geeft.
+7. Onze Minister voor Rechtsbescherming kan het in het eerste lid bedoelde bedrag wijzigen voor zover de consumentenprijsindex daartoe aanleiding geeft.
