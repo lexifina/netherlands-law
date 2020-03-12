@@ -1,0 +1,2 @@
+# Artikel 7g. Bevoegdheden Com. Eskadron Hoog Risico Beveiliging
+Aan de Commandant van het Eskadron Hoog Risico Beveiliging (HRB), dan wel bij diens afwezigheid zijn plaatsvervanger, wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van handelingen ter uitvoering van de taken die ingevolge artikel 10g van het Subtaakbesluit KMar 2019 tot zijn werkterrein behoren.

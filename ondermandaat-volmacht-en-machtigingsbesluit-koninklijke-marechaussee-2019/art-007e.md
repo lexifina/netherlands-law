@@ -1,0 +1,2 @@
+# Artikel 7e. Bevoegdheden BC Operationele Service en Support
+Aan de Brigadecommandant van de Brigade Operationele Service en Support (BOSS), dan wel bij diens afwezigheid zijn plaatsvervanger, wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van handelingen ter uitvoering van de taken die ingevolge artikel 10e van het Subtaakbesluit KMar 2019 tot zijn werkterrein behoren.
