@@ -1,0 +1,5 @@
+# Artikel 10a. Brigade Toezicht Beveiliging Burgerluchtvaart (LTC)
+De Brigade Toezicht Beveiliging Burgerluchtvaart staat onder leiding van de brigadecommandant BTBB die belast is met de volgende taken:
+a. het houden van eerstelijns toezicht op de effectiviteit en efficiëntie van beveiligingsmaatregelen, procedures, beveiligingsuitrusting en opleidingen d.m.v. inspecties, testen en audits op de luchthaven Schiphol, de regionale vliegvelden en overige locaties in Nederland en in de onder Nederlands bestuur vallende overzeese gemeenten;
+b. het invulling geven aan het accorderen, valideren en registreren van erkende luchtvrachtagenten, erkende leveranciers van vluchtbenodigheden en bekende afzenders en het houden van eerstelijns toezicht op de aan de luchtvracht en erkende leveranciers gerelateerde beveiligingsmaatregelen, beveiligingsuitrusting en procedures d.m.v. inspecties en audits;
+c. het adviseren van de Minister van Justitie & Veiligheid m.b.t. beveiligingsplannen, procedures, werkinstructies en opleidingsprogramma's voor de beveiliging van de burgerluchtvaart.
