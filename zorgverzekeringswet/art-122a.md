@@ -6,7 +6,7 @@ b. vreemdelingen als bedoeld in artikel 10 van de Vreemdelingenwet 2000.
 3. Geen bijdrage wordt verstrekt voor zover de kosten voor de verleende zorg:
 a. op de vreemdeling of een verzekeraar van de vreemdeling kunnen worden verhaald,
 b. op grond van een andere wettelijke bepaling kunnen worden vergoed, of
-c. hoger zijn dan in de Nederlandse marktomstandigheden in redelijkheid passend is.
+c. hoger zijn dan de kosten die voor vergoeding in aanmerking komen bij overeenkomstige toepassing van artikel 11, met dien verstande dat geen aftrek plaatsvindt van het deel van de kosten dat voor rekening van de verzekerde zou komen.
 4. Indien zorg is verleend die aan verzekerden doorgaans zonder verwijzing of recept wordt verleend, bedraagt de bijdrage:
 a. 100% van de kosten die verband houden met zwangerschap en bevalling, en
 b. 80% van de kosten in de overige gevallen,

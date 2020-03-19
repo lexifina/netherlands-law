@@ -10,6 +10,6 @@ c. de kwaliteitseisen van tolken.
 a. het na een eerdere herziening, intrekking of weigering van een toekenning op grond van het vierde lid, heeft vastgesteld dat:
 1°. de persoon, bedoeld in het tweede lid, onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van juiste of volledige gegevens tot een andere beslissing zou hebben geleid,
 2°. de persoon niet voldoet aan de aan de tolkvoorziening verbonden voorwaarden, of
-3°. de cliënt de tolkvoorzieningen niet of voor een ander doel gebruikt;
+3°. de persoon de tolkvoorzieningen niet of voor een ander doel gebruikt;
 b. de persoon, bedoeld in het tweede lid, aanspraak kan maken op tolkvoorzieningen die zijn getroffen op grond van de Participatiewet, de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, de Wet werk en inkomen naar arbeidsvermogen en de Wet overige OCW-subsidies of in verband met werkzaamheden als werknemer in de zin van de Wet sociale werkvoorziening en die aanspraak op ondersteuning bij de deelname aan onderwijs of arbeidsinschakeling of -ondersteuning betreft.
 6. Bij ministeriële regeling kunnen regels worden gesteld over de vergoeding van de tolk.

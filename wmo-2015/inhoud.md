@@ -11,7 +11,7 @@
 ### § 6. Overige bepalingen
 ## Hoofdstuk 3. Kwaliteit
 ## Hoofdstuk 3a. Overige voorzieningen voor maatschappelijke ondersteuning
-### § 1. Voorzieningen maatschappelijke ondersteuning van de Minister van Volksgezondheid, Welzijn en Sport
+### § 1. Voorzieningen maatschappelijke ondersteuning van de centrale overheid
 ### § 2. Toezicht en handhaving
 ### § 3. Bekostiging voorzieningen
 ## Hoofdstuk 4. Advies- en meldpunt huiselijk geweld en kindermishandeling
