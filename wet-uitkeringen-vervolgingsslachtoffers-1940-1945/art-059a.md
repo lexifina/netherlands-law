@@ -1,6 +1,6 @@
 # Artikel 59a
 1. Op aanvraag van de uitkeringsgerechtigde wordt de uitkering, met uitzondering van de op grond van artikel 8 vastgestelde grondslag, opnieuw vastgesteld:
-a. indien de vast te stellen uitkering ten minste 1% van de op de datum van deze aanvraag geldende grondslag hoger is dan de laatst vastgestelde of aangepaste uitkering, mits dit niet uitsluitend het gevolg is van de koersomrekening van inkomsten die door de uitkeringsgerechtigde of zijn echtgenoot worden ontvangen, of;
+a. indien de vast te stellen uitkering op de datum van deze aanvraag hoger is dan de laatst vastgestelde of aangepaste uitkering, mits dit niet uitsluitend het gevolg is van de koersomrekening van inkomsten die door de uitkeringsgerechtigde of zijn echtgenoot worden ontvangen, of;
 b. indien het vermogen van de uitkeringsgerechtigde en zijn echtgenoot door oorzaken gelegen in factoren waarop de uitkeringsgerechtigde geen invloed heeft kunnen uitoefenen, zodanig is verminderd, dat het niet herzien van de laatst vastgestelde inkomsten uit vermogen, bedoeld in artikel 19, eerste lid, onder c, tot een klaarblijkelijke hardheid zou leiden. Bij de beoordeling hiervan wordt rekening gehouden met de totale vermogens- en inkomstenpositie van de uitkeringsgerechtigde en zijn echtgenoot.
 2. Indien toepassing is gegeven aan het eerste lid gaat de opnieuw vastgestelde uitkering in op de eerste dag van de maand waarin de aanvraag is ingediend.
 3. Op een beschikking, voortvloeiende uit de toepassing van het eerste lid, is artikel 32, vierde lid, van overeenkomstige toepassing.
