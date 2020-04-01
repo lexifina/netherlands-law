@@ -1,0 +1,3 @@
+# Artikel 1*. Toelating tot een hogere bevoegdheid
+1. Voor toelating tot de bevoegdheden genoemd in artikel 9, derde lid, onderdeel f en artikel 9, vijfde lid, onderdeel e van de Verordening heeft de registerloods met goed gevolg het examen van de door het bestuur vastgestelde opleiding voor die betreffende bevoegdheid afgelegd.
+2. Voor toelating tot de bevoegdheid genoemd in artikel 9, vijfde lid, onderdeel c van de Verordening heeft de registerloods met goed gevolg het examen van de door het bestuur vastgestelde opleiding voor die betreffende bevoegdheid afgelegd, waarbij de registerloods bij aanvang van de opleiding ten minste 24 maanden beschikt over de specialisatie Geul Europoort, genoemd in artikel 9, tiende lid, van de Verordening.
