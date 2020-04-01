@@ -45,7 +45,7 @@
 #### Paragraaf 1a. Inschrijving
 #### Paragraaf 2. Eigen bijdragen
 #### Paragraaf 2a. Profileringsfonds
-#### Paragraaf 2b. Financiële ondersteuning door Onze minister
+#### Paragraaf 2b. Financiële ondersteuning door Onze Minister
 #### Paragraaf 3. Gebruik van persoonsgebonden nummer
 #### Paragraaf 4. Bijzondere bepalingen inschrijving
 #### Paragraaf 5. Overige bepalingen
@@ -131,7 +131,6 @@
 ### Titel 7. Wet van 24 juni 2004 (Stb. 321)
 ### Titel 10. Wet van 14 juni 2007 (Stb. 254)
 ### Titel 11. Wet van 4 februari 2010 (Stb. 119)
-### Titel 12. Wet van 8 juli 2011 (Stb. 369)
 ### Titel 13. Wet van 8 juli 2011 (Stb 368)
 ### Titel 14. Wet van 28 januari 2013 (Stb. 70)
 ### Titel 15. Wet van 10 juli 2013 (Stb. 298)
