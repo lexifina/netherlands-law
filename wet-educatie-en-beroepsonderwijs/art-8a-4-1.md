@@ -1,6 +1,6 @@
 # Artikel 8a.4.1. Landelijke geschillencommissie medezeggenschap
 1. Er is een landelijke geschillencommissie medezeggenschap, waarbij elke instelling is aangesloten. De commissie bestaat uit drie leden, waaronder de voorzitter, en drie plaatsvervangende leden.
-2. Onze Minister van Onderwijs, Cultuur en Wetenschap, in overeenstemming met Onze Minister van Economische Zaken, benoemt de leden en plaatsvervangende leden voor vier jaar. Zij zijn een keer herbenoembaar.
+2. Onze Minister benoemt de leden en plaatsvervangende leden voor vier jaar. Zij zijn een keer herbenoembaar.
 3. Een lid en een plaatsvervangend lid worden benoemd op bindende voordracht van vertegenwoordigers van de gezamenlijke bevoegde gezagsorganen van de instellingen en een lid en een plaatsvervangend lid op bindende voordracht van vertegenwoordigers van de deelnemersraden van de instellingen. Deze twee leden doen een bindende voordracht voor het derde lid, tevens voorzitter, en diens plaatsvervanger.
 4. Indien sprake is van een geschil als bedoeld in artikel 8a.4.2, onderdeel a, voor zover het betreft het ontbreken van de vereiste instemming van de ondernemingsraad met het medezeggenschapsstatuut, wordt voor de duur van behandeling van dat geschil een lid benoemd op bindende voordracht van vertegenwoordigers van de ondernemingsraden van de instellingen.
 5. De leden en de plaatsvervangende leden mogen geen deel uitmaken van het bevoegd gezag of van de deelnemersraad van een instelling.

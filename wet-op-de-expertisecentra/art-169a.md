@@ -2,7 +2,7 @@
 1. De rechtspersoon, bedoeld in artikel 169, kan het burgerservicenummer van het personeelslid dat bij afwezigheid wordt vervangen, en van degene die het personeelslid tijdelijk vervangt, uitsluitend in het kader van het doel, bedoeld in artikel 169, eerste lid, onderdeel a, gebruiken in het verkeer met:
 a. het personeelslid onderscheidenlijk degene die het personeelslid tijdelijk vervangt,
 b. het bevoegd gezag van de school dan wel de centrale dienst waar de in onderdeel a bedoelde personen werkzaam zijn,
-c. Onze minister,
+c. Onze Minister,
 d. de instantie, bedoeld in artikel 170, vijfde lid, of
 e. het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen.
 2. Het burgerservicenummer wordt op een daartoe strekkend verzoek van de in het eerste lid bedoelde rechtspersoon aan die rechtspersoon verstrekt door het bevoegd gezag van de school dan wel de centrale dienst waar het personeelslid dat bij afwezigheid wordt vervangen, werkzaam is.

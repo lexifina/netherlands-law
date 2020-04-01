@@ -1,0 +1,2 @@
+# Artikel 32c. Overgangsrecht bekwaamheidseisen voor werkzaamheden van leidinggevende aard
+Totdat de bekwaamheidseisen voor werkzaamheden van leidinggevende aard, bedoeld in artikel 32a, tweede lid, in werking treden, blijven ten aanzien van de benoeming of tewerkstelling als directeur of adjunct-directeur de bij of krachtens deze wet vastgestelde voorschriften, zoals luidend op 31 juli 2006, van toepassing.

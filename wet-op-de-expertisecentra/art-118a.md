@@ -1,0 +1,2 @@
+# Artikel 118a. Aanspraken op grond van artikel E 16, E 17 of E 18 Overgangswet ISOVSO
+De Overgangswet ISOVSO zoals die luidde op 31 juli 1998 blijft van toepassing op aanspraken die op die datum op grond van artikel E 16, E 17 of E 18 van die wet bestaan, met dien verstande dat in artikel E 18 van die wet onder «een school voor speciaal onderwijs» tevens wordt begrepen: een speciale school voor basisonderwijs als bedoeld in de Wet op het primair onderwijs.
