@@ -1,0 +1,2 @@
+# Artikel 8c
+Indien in een geval als bedoeld in artikel 7 de rekenmethodiek Bevi vanwege specifieke omstandigheden niet passend is, kan Onze Minister op verzoek van het bevoegd gezag besluiten dat een andere, passende rekenmethodiek mag worden toegepast. De toe te passen rekenmethodiek is transparant en reproduceerbaar. Voordat Onze Minister een besluit als bedoeld in de eerste volzin neemt, wint hij advies in bij het Rijksinstituut voor Volksgezondheid en Milieu.
