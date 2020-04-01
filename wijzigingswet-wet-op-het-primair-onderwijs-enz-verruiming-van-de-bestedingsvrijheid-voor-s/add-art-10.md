@@ -1,3 +1,0 @@
-# Artikel X
-1. Onder toepassing van artikel 16 van de Tijdelijke referendumwet treedt deze wet in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met dien verstande dat de artikelen I tot en met III, met uitzondering van de artikelen I, onderdeel B, en II, onderdeel B, terugwerken tot en met 1 augustus 2001 en met dien verstande dat artikel VII terugwerkt tot en met 1 september 2002.
-2. In afwijking van het eerste lid, treden artikel I, onderdelen I voor zover betrekking hebbend op artikel 148, eerste lid, Ia en J, zesde lid, en artikel II, onderdelen I voor zover betrekking hebbend op artikel 143, eerste lid, Ia en J, zesde lid, en artikel IV, onderdeel C, in werking met ingang van 1 augustus 2004.

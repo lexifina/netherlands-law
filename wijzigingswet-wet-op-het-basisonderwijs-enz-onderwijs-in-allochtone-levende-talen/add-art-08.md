@@ -1,2 +1,0 @@
-# Artikel VIII. Eerste vaststelling plan inzake onderwijs in allochtone levende talen
-Het plan inzake onderwijs in allochtone levende talen of een besluit omtrent de verdeling van middelen indien wordt afgezien van vaststelling van het plan, bedoeld in de artikelen 110g van de Wet op het basisonderwijs en 106f van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs, wordt voor de eerste maal vastgesteld vóór 1 augustus volgend op de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.

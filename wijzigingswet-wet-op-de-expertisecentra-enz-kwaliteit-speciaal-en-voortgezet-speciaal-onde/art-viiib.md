@@ -1,2 +1,0 @@
-# Artikel VIIIb. Invoeringsrecht artikel 59a WVO
-Onze Minister van Onderwijs, Cultuur en Wetenschap kan voorafgaande aan het tijdstip van inwerkingtreding van artikel II, onderdeel A, een school als bedoeld in artikel 1 van de Wet op de expertisecentra waar voortgezet speciaal onderwijs wordt verzorgd aanwijzen overeenkomstig artikel II, onderdeel A. Die aanwijzing heeft geen betrekking op de periode voorafgaande aan dat tijdstip, en geldt met ingang van dat tijdstip als aanwijzing op grond van artikel 59a van de Wet op het voortgezet onderwijs.

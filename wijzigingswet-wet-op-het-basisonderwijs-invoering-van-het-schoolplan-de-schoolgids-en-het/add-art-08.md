@@ -1,2 +1,0 @@
-# ARTIKEL VIII
-Voor zolang de aanspraak op bekostiging van een school voor middelbaar beroepsonderwijs op grond van artikel 12.3.2, derde lid, van de Wet educatie en beroepsonderwijs in stand blijft, kan de uitvoering van een deel van een schoolplan op een school voor ander onderwijs als bedoeld in artikel 19c van de Wet op de expertisecentra en artikel 19c van deel II van de Wet op het voortgezet onderwijs, eveneens plaatsvinden op die school voor middelbaar beroepsonderwijs.

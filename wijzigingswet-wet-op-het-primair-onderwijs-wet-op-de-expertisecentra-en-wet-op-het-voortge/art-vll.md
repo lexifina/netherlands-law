@@ -1,3 +1,0 @@
-# Artikel Vll. Overgangsbepaling niet-duale opleidingen
-1. Tot 1 september 2003 zijn de voorschriften zoals na inwerkingtreding van dit wetsvoorstel opgenomen in artikel 3, zesde lid, van de Wet op het primair onderwijs, artikel 3, achtste lid, van de Wet op de expertisecentra en de artikelen 33, negende lid, en 126, achtste lid, van de Wet op het voortgezet onderwijs van overeenkomstige toepassing op studenten die de voltijdse dan wel deeltijdse vorm volgen van de in die desbetreffende artikelen bedoelde opleidingen.
-2. Op studenten waarvoor het eerste lid is toegepast voor 1 september 2003 blijven de in dat lid genoemde artikelen indien nodig ook na die datum van overeenkomstige toepassing.
