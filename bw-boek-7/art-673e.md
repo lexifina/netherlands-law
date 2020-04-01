@@ -1,0 +1,12 @@
+# Artikel 673e
+1. Het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen, verstrekt op verzoek van de werkgever die op grond van artikel 673 een transitievergoeding verschuldigd was, een vergoeding, indien de arbeidsovereenkomst:
+a. na de periode, bedoeld in artikel 670, lid 1, onderdeel a, en lid 11:
+1°. is beëindigd omdat de werknemer wegens ziekte of gebreken niet meer in staat was de bedongen arbeid te verrichten; of
+2°. van rechtswege is geëindigd en de werknemer op het tijdstip waarop de arbeidsovereenkomst is geëindigd, wegens ziekte of gebreken niet in staat was de bedongen arbeid te verrichten;
+b. [dit onderdeel is nog niet in werking getreden.]
+2. De vergoeding, bedoeld in lid 1, is gelijk aan de vergoeding die de werkgever in verband met het eindigen of niet voortzetten van de arbeidsovereenkomst aan de werknemer heeft verstrekt, verhoogd met de kosten die op grond van artikel 673, lid 6, op de transitievergoeding in mindering mogen worden gebracht, met dien verstande dat de vergoeding, bedoeld in lid 1, onderdeel a, niet meer bedraagt dan het bedrag aan transitievergoeding dat, voor aftrek van de kosten, bedoeld in artikel 673, lid 6, verschuldigd zou zijn bij het beëindigen of niet voortzetten van de arbeidsovereenkomst op de dag na het verstrijken van de termijn van twee jaar, bedoeld in artikel 670, lid 1, onderdeel a. Artikel 670, eerste lid, laatste zin, is van overeenkomstige toepassing op de termijn, bedoeld in de vorige zin.
+3. Lid 1 is van overeenkomstige toepassing, indien de werkgever op grond van artikel 673 een transitievergoeding verschuldigd zou zijn als de arbeidsovereenkomst, die bij overeenkomst is beëindigd, door opzegging of door ontbinding zou zijn beëindigd.
+4. [Dit lid is nog niet in werking getreden.]
+5. Het Uitvoeringsinstituut werknemersverzekeringen herziet het besluit tot toekennen van de vergoeding, indien de vergoeding ten onrechte of tot een te hoog bedrag is toegekend. De onverschuldigd betaalde vergoeding wordt teruggevorderd.
+6. In afwijking van artikel 7:10, eerste lid, van de Algemene wet bestuursrecht beslist het Uitvoeringsinstituut werknemersverzekeringen binnen dertien weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.
+7. Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid worden regels gesteld met betrekking tot de aanvraag van de vergoeding, bedoeld in dit artikel.
