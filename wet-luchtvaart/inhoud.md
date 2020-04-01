@@ -32,7 +32,6 @@
 ### Titel 6.6. Vervoer van dieren
 ## Hoofdstuk 7. Diverse bepalingen inzake luchtvaart
 ### Titel 7.1. Melding van voorvallen
-### Titel 7.2. Slotallocatie
 ### Titel 7.3. Verzekering
 ### Titel 7.4. Exploitatieverbod
 ### Titel 7.5. Vergoedingen ter uitvoering van internationale verplichtingen
@@ -96,6 +95,7 @@
 #### § 8a.6.1. Het besluit beperkingengebied buitenlandse luchthaven
 #### § 8a.6.2. Financiële aspecten
 #### § 8a.6.3. Commissie regionaal overleg luchthaven
+### Titel 8A.7. Taken, inrichting en financiering van ACNL
 ## Hoofdstuk 9. Bijzondere of buitengewone omstandigheden
 ## Hoofdstuk 10. Militaire luchtvaart
 ### Titel 10.1. Personeel en luchtvaartuigen
