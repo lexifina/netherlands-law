@@ -110,7 +110,7 @@ Wet op de expertisecentra:
 a. titel IV: de afdelingen 2 en 8, een goedkeuring van rechtswege daaronder begrepen
 b. de artikelen 120, tweede lid, 129 en 170
 Wet op het financieel toezicht: de artikelen 6:1 en 6:2
-Wet op het hoger onderwijs en wetenschappelijk onderzoek: de artikelen 2.9, derde lid, 5a.9, 5a.11, 5a.12b, 5.13d, 5a.13e, tweede en zesde lid, 5a.13f, 5a.13g, 6.5 en 15.1, eerste lid
+Wet op het hoger onderwijs en wetenschappelijk onderzoek: de artikelen 2.9, derde lid, 5.8, eerste lid, 5.9, eerste en tweede lid, 5.16, eerste en derde lid, 5.17, 5.18, 5.19, eerste, tweede en derde lid, 5.20, eerste lid, 5.26, eerste lid, 5.27, eerste en tweede lid, 5.29, eerste lid, 6.5 en 15.1, eerste lid
 Wet op het primair onderwijs:
 a. artikel 22, vijfde lid
 b. titel IV: de afdelingen 2 en 9, een goedkeuring van rechtswege daaronder begrepen
