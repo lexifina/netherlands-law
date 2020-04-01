@@ -1,0 +1,8 @@
+# ARTIKEL V. INTREKKING OWBO; OVERGANGSBEPALING
+1. [Vervallen.]
+2. [Vervallen.]
+3. Met ingang van het jaar 1986 ontvangt het bevoegd gezag van een bijzondere basisschool gevestigd in gebouwen en lokalen bedoeld in de artikelen 62, 126 en 127 van de Kleuteronderwijswet en de artikelen 84, 205 en 205bis van de Lager-onderwijswet 1920 jaarlijks van de gemeente een vergoeding.
+4. Burgemeester en wethouders kunnen de jaarlijkse vergoeding bedoeld in het derde lid, vervangen door een uitkering ineens, indien het bevoegd gezag dat eigenaar is van de voor vergoeding in aanmerking komende gebouwen, dit verzoekt.
+5. Bij algemene maatregel van bestuur worden nadere voorschriften gegeven omtrent de uitvoering van het derde lid. Deze algemene maatregel van bestuur bepaalt tevens de verplichtingen van het bevoegd gezag ten opzichte van de gemeente, indien de gebouwen en lokalen bedoeld in artikel 126 van de Kleuteronderwijswet en artikel 205 van de Lager-onderwijswet 1920, niet meer voor het basisonderwijs worden gebruikt.
+6. De algemene maatregel van bestuur bedoeld in het vijfde lid, wordt aan de Tweede Kamer der Staten-Generaal overgelegd. De maatregel treedt niet in werking dan nadat 30 dagen na de overlegging zijn verstreken en gedurende die termijn niet door of namens de Kamer de wens te kennen wordt gegeven dat het in die maatregel geregelde onderwerp bij de wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsontwerp zo spoedig mogelijk ingediend.
+7. De algemene maatregel van bestuur die op grond van artikel E 35, vierde lid, van de Overgangswet WBO tot stand is gekomen, geldt met ingang van 1 augustus 1998 als algemene maatregel van bestuur, gebaseerd op het vijfde lid.
