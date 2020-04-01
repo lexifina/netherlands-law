@@ -29,11 +29,6 @@
 ### Paragraaf 9.2. Verstrekken van inlichtingen
 ### Paragraaf 9.3. Administratieve sanctie
 ### Paragraaf 9.4. Strafbepalingen
-## Hoofdstuk 10. Onderwijs bedoeld in voorheen Hoofdstuk IV WTS
-### Paragraaf 10.1. Algemene bepaling
-### Paragraaf 10.2. Onderwijssoorten
-### Paragraaf 10.3. Inkomen
-### Paragraaf 10.4. Tegemoetkoming
 ## Hoofdstuk 11. Overige bepalingen
 ## Hoofdstuk 12. Overgangsbepalingen
 ## Hoofdstuk 13. Wijzigingen in andere wetten
