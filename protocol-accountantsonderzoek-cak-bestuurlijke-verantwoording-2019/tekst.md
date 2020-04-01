@@ -1,0 +1,552 @@
+# Tekst
+Bestuurlijke verantwoording 2019
+Vastgesteld op 3 maart 2020
+## 1 Inleiding
+Het ministerie van Volksgezondheid, Welzijn en Sport (VWS) en de Nederlandse Zorgautoriteit (NZa) hebben in het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019 voorschriften opgenomen voor de inrichting van de bestuurlijke verantwoording 2019 van het CAK. Het model bevat modellen waarmee het CAK zijn bestuurlijke verantwoording moet inrichten.
+De regels voor het accountantsonderzoek en voor de inhoud en inrichting van het accountantsverslag hebben VWS en de NZa vastgelegd in dit Protocol Accountantsonderzoek CAK Bestuurlijke verantwoording 2019 (protocol).
+Dit protocol geeft richtlijnen voor het door de externe accountant uit te voeren onderzoek naar de:
+− Wet tegemoetkoming chronisch zieken en gehandicapten (Wtcg);
+− Jeugdwet (ouderbijdragen);
+− afgifte van Schengen- en Engelstalige verklaringen;
+− Algemene Wet Bijzondere Ziektekosten (AWBZ);
+− Wet langdurige zorg (Wlz);
+− Wet maatschappelijke ondersteuning (Wmo);
+− Compensatieregeling Eigen Risico (CER) (als onderdeel van de Zvw).
+Het doel van dit protocol is niet om de aanpak van het onderzoek voor te schrijven, maar om de kaders aan te geven waarbinnen het onderzoek moet plaatsvinden. De accountant is zelfstandig verantwoordelijk voor het uitvoeren van zijn werkzaamheden ter verkrijging van voldoende en geschikte controle-informatie als basis voor zijn oordeel.
+De accountant hanteert het protocol als kader voor zijn werkzaamheden. Daarnaast laat hij zich leiden door de geldende beroepsvoorschriften, in het bijzonder de Verordening gedrags- en beroepsregels accountants (VGBA), de Verordening inzake onafhankelijkheid van de accountant bij assurance opdrachten (VIO) en de Nadere Voorschriften Controle- en Overige Standaarden (NV COS).
+De externe accountant geeft de uitkomst van zijn onderzoek weer in:
+– een controleverklaring bij de bestuurlijke verantwoording over de rechtmatigheid van de in de bestuurlijke verantwoording opgenomen financiële stromen in de matrices en de juistheid en volledigheid van de overzichten van de activa en passiva van de wettelijke taken van het CAK en de hierbij horende verloopoverzichten en toelichtingen;
+– een accountantsrapport.
+Het CAK moet de verantwoordingsdocumenten vergezeld van de accountantsproducten vóór 1 juli van het jaar volgende op het verslagjaar toezenden aan VWS en de NZa.
+VWS en de NZa maken bij hun toezicht zoveel mogelijk gebruik van de verantwoordingsdocumenten van het CAK en van de hierbij horende accountantsproducten. Daarbij beoordelen VWS en de NZa de toereikendheid van de door de externe accountant uitgevoerde werkzaamheden en stellen op basis van hun bevindingen hun eigen onderzoekswerkzaamheden vast.
+Op grond van de verzamelde informatie vormen VWS en de NZa zich een oordeel over de rechtmatige en doelmatige uitvoering door het CAK en over de rechtmatigheid van de daarmee samenhangende ontvangsten en uitgaven, van de:
+– Wtcg;
+– Jeugdwet (ouderbijdragen);
+– afgifte van Schengen- en Engelstalige verklaringen;
+– AWBZ;
+– Wlz;
+– Wmo;
+– CER.
+VWS kan de Auditdienst Rijk (ADR) inschakelen om de werkzaamheden van de externe accountant van het CAK te beoordelen. De ADR brengt in dat geval hiervan verslag uit aan VWS. De ADR brengt verslag uit aan VWS van de bevindingen over de:
+– tegemoetkomingen Wtcg;
+– ouderbijdragen op basis van de Jeugdwet;
+– afgifte van Schengen- en Engelstalige verklaringen.
+VWS neemt het oordeel van de ADR mee bij de vaststelling van de financiële stroom Wtcg van het CAK over het boekjaar. De bevindingen van de ADR over de ouderbijdragen op basis van de Jeugdwet en de afgifte van Schengen- en Engelstalige verklaringen worden aan VWS ter beschikking gesteld ten behoeve van de invulling van de systeemverantwoordelijkheid van het departement voor deze taken.
+De NZa brengt verslag uit van haar bevindingen over de uitvoering van de AWBZ, Wlz, Wmo en de CER door het CAK via een rapport.
+## 1.1 Publicatie in Staatscourant
+De raad van bestuur van de NZa heeft op 3 maart 2020 dit 'Protocol Accountantsonderzoek CAK Bestuurlijke verantwoording 2019' vastgesteld. Dit protocol treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin dit protocol is geplaatst en werkt terug tot en met 1 januari 2019. U kunt dit protocol en alle andere in dit protocol genoemde documenten raadplegen via www.nza.nl.
+## 2 Doel van het accountantsonderzoek
+Het accountantsonderzoek bij het CAK bestaat uit een onderzoek naar de rechtmatigheid van de in de bestuurlijke verantwoording opgenomen financiële stromen in de matrices en de juistheid en volledigheid van de overzichten van de activa en passiva van de wettelijke taken van het CAK (op kasbasis en op basis van het toerekeningsbeginsel) en de hierbij horende verloopoverzichten en toelichtingen. Dit is inclusief een onderzoek naar de naleving van de inrichtingsvoorschriften van de bestuurlijke verantwoording. Dit onderzoek maakt deel uit van een 'assurance-opdracht'.
+De externe accountant rapporteert over de bevindingen en conclusies van zijn onderzoek in:
+– Een controleverklaring over of:
+– het financiële overzicht activa en passiva van de financiële stromen van de wettelijke taken op kasbasis en het financiële overzicht activa en passiva van de financiële stromen van de wettelijke taken op basis van het toerekeningsbeginsel op 31 december 2019, in alle van materieel belang zijnde aspecten juist en volledig in overeenstemming met het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019 zijn;
+– de in de matrices bestuurlijke verantwoording 2019 verantwoorde financiële stromen in alle van materieel belang zijnde aspecten rechtmatig zijn in overeenstemming met de specifiek voor het CAK van toepassing zijnde wet- en regelgeving zoals vastgelegd in het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019.
+– Een accountantsrapport.
+De controleverklaring en het accountantsrapport zijn alleen bestemd voor de bestuursvoorzitter van het CAK, VWS, de NZa en Zorginstituut Nederland (Zorginstituut).
+Tekst verklaring
+Voor de tekst van de controleverklaring maakt de externe accountant gebruik van het model dat in hoofdstuk 5 van dit protocol is opgenomen.
+Accountantsrapport
+In het accountantsrapport brengt de externe accountant verslag uit over zijn onderzoek naar:
+– of het financiële overzicht activa en passiva van de financiële stromen van de wettelijke taken op kasbasis en het financiële overzicht activa en passiva van de financiële stromen van de wettelijke taken op basis van het toerekeningsbeginsel op 31 december 2019, in alle van materieel belang zijnde aspecten juist en volledig in overeenstemming met het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019 zijn;
+– of de in de matrices bestuurlijke verantwoording 2019 verantwoorde financiële stromen in alle van materieel belang zijnde aspecten rechtmatig zijn in overeenstemming met de specifiek voor het CAK van toepassing zijnde wet- en regelgeving zoals vastgelegd in het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019;
+– de naleving van de inrichtingsvoorschriften van de bestuurlijke verantwoording.
+Dit deel valt aan te merken als de uitkomst van een assurance opdracht.
+In hoofdstuk 6 wordt de inhoud van het accountantsrapport verder uitgewerkt.
+## 3 Procedure onderzoek
+De procedure van het onderzoek in het verslagjaar kan als volgt worden weergegeven.
+Opdracht
+Het CAK geeft de externe accountant opdracht om een onderzoek uit te voeren naar of:
+– het financiële overzicht activa en passiva van de financiële stromen van de wettelijke taken op kasbasis en het financiële overzicht activa en passiva van de financiële stromen van de wettelijke taken op basis van het toerekeningsbeginsel op 31 december 2019, in alle van materieel belang zijnde aspecten juist en volledig in overeenstemming met het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019 zijn;
+– de in de matrices bestuurlijke verantwoording 2019 verantwoorde financiële stromen in alle van materieel belang zijnde aspecten rechtmatig zijn in overeenstemming met de specifiek voor het CAK van toepassing zijnde wet- en regelgeving zoals vastgelegd in het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019.
+– Dit is inclusief een onderzoek naar de naleving van de inrichtingsvoorschriften van de bestuurlijke verantwoording.
+Bij deze opdracht vormen het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019 en dit protocol het uitgangspunt. VWS en de NZa voorzien het CAK en de externe accountant van een exemplaar van het model en het protocol.
+Uitgangspunten onderzoek
+– Het CAK en de externe accountant maken voor de uitvoering van het onderzoek afspraken over de werkverdeling. De externe accountant maakt bij zijn onderzoek voor zover mogelijk, gebruik van de interne controlemaatregelen van het CAK.
+– De externe accountant voert zijn onderzoek uit volgens dit protocol. De externe accountant rapporteert aan het CAK door middel van een controleverklaring en een accountantsrapport over de uitkomsten van zijn onderzoek naar de bestuurlijke verantwoording.
+– Het CAK stuurt vóór 1 juli van het jaar volgend op het verslagjaar aan VWS, Zorginstituut Nederland en aan de NZa de door de externe accountant gecontroleerde bestuurlijke verantwoording, de controleverklaring en het accountantsrapport.
+– De NZa en de ADR kunnen zonder verdere tussenkomst van elkaar en het CAK contact opnemen met de externe accountant over eventueel aanvullend te verstrekken informatie en over vaktechnische aangelegenheden. VWS is op basis van de Comptabiliteitswet en de NZa is op basis van de Wmg wettelijk bevoegd om stukken uit het accountantsdossier te kopiëren en/of digitaal op te vragen.
+– De ADR en de NZa maken bij hun onderzoek zoveel mogelijk gebruik van de werkzaamheden van de externe accountant. Op basis hiervan stellen zij hun eigen onderzoekswerkzaamheden vast.
+– De ADR en de NZa koppelen onafhankelijk van elkaar, indien nodig, hun bevindingen betreffende de werkzaamheden van de externe accountant schriftelijk terug aan de betreffende externe accountant.
+– Na verwerking van de reactie van de externe accountant op deze bevindingen rapporteert de ADR over zijn bevindingen aan het ministerie van VWS.
+– VWS neemt het oordeel van de ADR mee in de vaststelling van de financiële stroom Wtcg.
+– De bevindingen van de ADR over de ouderbijdragen op basis van de Jeugdwet en de afgifte van Schengen- en Engelstalige verklaringen worden door de ADR aan VWS ter beschikking gesteld ten behoeve van de invulling van de systeemverantwoordelijkheid van het departement voor deze taken.
+– De NZa rapporteert over haar bevindingen in een conceptrapport. In dit conceptrapport neemt de NZa de bevindingen en conclusies op over de uitvoering van de taken in het kader van de AWBZ, de Wlz, de Zvw (voor het onderdeel CER) en de Wmo in het verslagjaar door het CAK. De NZa bespreekt het conceptrapport met het CAK. Het CAK kan in een formele hoorprocedure reageren op de bevindingen en de opgenomen conclusies in het rapport.
+– De raad van bestuur van de NZa stelt de definitieve versie van het rapport vast. De NZa stuurt deze versie toe aan het CAK. De NZa stuurt het rapport ook toe aan VWS en aan het Zorginstituut.
+## 4 Inhoud van het accountantsonderzoek
+## 4.1 Object van het onderzoek
+Het CAK moet op grond van de Wlz jaarlijks de volgende verslagen opstellen:
+– financieel verslag (inclusief een bestuurlijke verantwoording);
+– uitvoeringsverslag.
+– In de hierna opgenomen paragrafen zijn deze onderdelen nader uitgewerkt.
+## 4.1.1 Financieel verslag
+Het financieel verslag van het CAK bevat de financiële verantwoording over de uitvoering van de wet volgens het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019.
+Het financieel verslag bestaat uit:
+− Een financiële verantwoording (hierna aangeduid als: jaarrekening).
+− Een financiële verantwoording over de uitvoering van de subsidieregeling 'medisch noodzakelijke zorg aan onverzekerden'.
+− Een bestuurlijke verantwoording.
+– In deze bestuurlijke verantwoording wordt verantwoording afgelegd over het financieel beheer en de rechtmatigheid van de financiële stromen van de door het CAK uitgevoerde wettelijke taken.
+Hierna wordt uitsluitend ingegaan op de bestuurlijke verantwoording (exclusief de verantwoording over de burgerregelingen). In het Model Jaarverslaggeving CAK Bestuurlijke verantwoording Burgerregelingen 2019 is de verantwoording over de burgerregelingen beschreven. De nadere eisen die worden gesteld aan de jaarrekening zijn opgenomen in het Model Jaarverslaggeving 2019 – CAK Jaarrekening 2019. De nadere eisen voor de financiële verantwoording over de uitvoering van de subsidieregeling 'medisch noodzakelijke zorg aan onverzekerden' zijn opgesteld door VWS.
+## 4.1.2 Bestuurlijke verantwoording
+In de bestuurlijke verantwoording legt het CAK, volgens het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019 verantwoording af. De te hanteren sjablonen en modellen die gebruikt worden in de bestuurlijke verantwoording worden vooraf met partijen afgestemd. De te hanteren uitgangspunten en waarderingsgrondslagen zijn opgenomen in bijlage 1 'Waarderingsgrondslagen' van het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019.
+Minimaal legt het CAK verantwoording af over:
+Vallend onder onderdeel A. 'Verklaring over de in de bestuurlijke verantwoording van het CAK opgenomen financiële overzichten op 31 december 2019 en de matrices bestuurlijke verantwoording 2019' van de controleverklaring
+Overzichten van activa en passiva
+In de bestuurlijke verantwoording worden overzichten opgenomen
+inclusief toelichtingen van de activa en passiva van de financiële stromen van de door het CAK uitgevoerde wettelijke taken in het verantwoordingsjaar (inclusief vergelijkende cijfers) zowel op kasbasis als op basis van het toerekeningsbeginsel. Van deze activa en passiva worden ook verloopoverzichten en toelichtingen opgenomen van vorderingen en schulden (minimaal verloopoverzichten van de rekening-courantposities en de openstaande vorderingen inclusief een uitsplitsing van deze openstaande vorderingen naar ouderdom voor de posten die betrekking hebben op de Wlz, AWBZ en Wmo).
+Analyse debiteuren
+Het CAK neemt in zijn bestuurlijke verantwoording een analyse op van de debiteurenpositie die voldoet aan de informatiebehoefte van de fondsbeheerder of indien gewenst de gemeenten om de voorziening voor oninbaarheid te kunnen bepalen.
+Matrices
+In de bestuurlijke verantwoording wordt gebruik gemaakt van de matrix bestuurlijke verantwoording VWS en NZa (zie paragraaf 4.2.4 van het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019). In deze matrix legt het CAK verantwoording af over de financiële stromen:
+− uitbetaalde tegemoetkomingen Wtcg;
+− afdracht ouderbijdragen op basis van de Jeugdwet;
+− betalingen van zorgaanspraken AWBZ;
+− betalingen van zorgaanspraken Wlz;
+− betalingen subsidieregeling extramurale behandeling;
+− betalingen subsidieregeling eerstelijnsverblijf
+− afdracht eigen bijdragen Zorg zonder Verblijf AWBZ;
+− afdracht eigen bijdragen Zorg met Verblijf AWBZ;
+− afdracht eigen bijdragen Wlz;
+− afdracht eigen bijdragen Wmo;
+− interest geldmiddelen Algemeen Fonds Bijzondere Ziektekosten (AFBZ), Fonds langdurige zorg (Flz) en Wmo;
+− uitbetaalde uitkeringen CER;
+− interest geldmiddelen Zvf.
+Vallend onder onderdeel B. 'Verklaring over de in de bestuurlijke verantwoording opgenomen andere informatie' van de controleverklaring
+Minimaal neemt het CAK de volgende andere informatie op in de bestuurlijke verantwoording:
+– de verantwoording over de ordelijkheid en controleerbaarheid van het gevoerde financiële beheer van de wettelijke taken;
+– de verantwoording over de borging van de rechtmatigheid en doelmatigheid van de financiële stromen die in de bestuurlijke verantwoording zijn opgenomen;
+– de verantwoording over hoeveel Schengen- en Engelstalige verklaringen zijn afgegeven in het verantwoordingsjaar inclusief een prognose van het verwachte aantal aanvragen voor het volgende jaar;
+– de kengetallen en prestatie-indicatoren;
+– de verantwoording over klachten en bezwaar.
+Bestuursverklaring
+Aan de bestuurlijke verantwoording wordt een bestuursverklaring toegevoegd waarin de Raad van Bestuur van het CAK aangeeft dat de gevraagde en aangeleverde gegevens in de bestuurlijke verantwoording een getrouw beeld geven.
+## 4.1.3 Controleverklaring
+De bestuurlijke verantwoording wordt vergezeld van een controleverklaring over de rechtmatigheid van de in de bestuurlijke verantwoording opgenomen financiële stromen in de matrices en de juistheid en volledigheid van de overzichten van de activa en passiva van de wettelijke taken van het CAK en de hierbij horende verloopoverzichten en toelichtingen.
+## 4.1.4 Uitvoeringsverslag
+De eisen die gesteld worden aan het uitvoeringsverslag zijn nader uitgewerkt in het Model Jaarverslaggeving 2019 – CAK Jaarrekening 2019.
+## 4.2 Toetsingscriteria
+## 4.2.1 Het begrippenkader
+Het onderzoek naar de bestuurlijke verantwoording is gericht op het vaststellen of:
+– het financiële overzicht activa en passiva van de financiële stromen van de wettelijke taken op kasbasis en het financiële overzicht activa en passiva van de financiële stromen van de wettelijke taken op basis van het toerekeningsbeginsel op 31 december 2019, in alle van materieel belang zijnde aspecten juist en volledig in overeenstemming met het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019 zijn;
+– de in de matrices bestuurlijke verantwoording 2019 verantwoorde financiële stromen in alle van materieel belang zijnde aspecten rechtmatig zijn in overeenstemming met de specifiek voor het CAK van toepassing zijnde wet- en regelgeving zoals vastgelegd in het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019.
+Dit is inclusief een onderzoek naar de naleving van de inrichtingsvoorschriften van de bestuurlijke verantwoording.
+Rechtmatigheid
+Voor het onderzoek naar de rechtmatigheid is de invulling van het rechtmatigheidsbegrip van belang. In het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019 is het rechtmatigheidsbegrip in detail uitgewerkt. Hierbij wordt onderscheid gemaakt tussen financiële en procedurele rechtmatigheid en tussen directe en gebruikersverantwoordelijkheid. Het model geeft ook aan welke randvoorwaarden bij de invulling van het rechtmatigheidsbegrip van toepassing zijn. De externe accountant hanteert de begripsomschrijvingen uit het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019 als uitgangspunt voor het rechtmatigheidsonderzoek dat hij uitvoert.
+Het rechtmatigheidsbegrip bij het CAK is gekoppeld aan de specifieke taken en verantwoordelijkheden van het CAK. Het CAK verantwoordt zich uitsluitend over taken waarvoor het CAK verantwoordelijk is en waarbij het CAK de mogelijkheid heeft om zaken te beïnvloeden of bij te sturen. Als het CAK deze taken in overeenstemming met de voorschriften van de geldende wet- en regelgeving uitvoert, dan zijn de processen die daaraan zijn gekoppeld en de financiële stromen die daaruit voortvloeien rechtmatig.
+In het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019 zijn de taken van het CAK beschreven.
+De volgende taken en bijbehorende financiële stromen kunnen worden onderscheiden:
+– uitbetaalde tegemoetkomingen Wtcg;
+– afdracht ouderbijdragen op basis van de Jeugdwet;
+– afgifte van Schengen- en Engelstalige verklaringen;
+– betalingen van zorgaanspraken AWBZ;
+– betalingen van zorgaanspraken Wlz;
+– betalingen subsidieregeling extramurale behandeling;
+– betalingen subsidieregeling eerstelijns verblijf;
+– afdracht eigen bijdragen Zorg zonder Verblijf AWBZ;
+– afdracht eigen bijdragen Zorg met Verblijf AWBZ;
+– afdracht eigen bijdragen Wlz;
+– afdracht eigen bijdragen Wmo;
+– interest geldmiddelen AFBZ, Flz en Wmo;
+– uitbetaalde uitkeringen CER;
+– interest geldmiddelen Zvf.
+Goedkeuringstoleranties
+De in hoofdstuk 4 opgenomen goedkeuringstoleranties betreffen de goedkeuringstoleranties die zijn opgenomen in het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019 in het kader van het oordeel over de rechtmatigheid van de financiële stromen. De genoemde toleranties betreffen die voor fouten. Indien sprake is van onzekerheden gelden de percentages zoals genoemd in tabel 2. 'Materialiteitstabel'.
+Ten aanzien van de goedkeuringstolerantie voor het oordeel over de juistheid en volledigheid van de overzichten van activa en passiva wordt verwacht dat de externe accountant deze bepaalt rekening houdend met de voor hem geldende beroepsvoorschriften (in het bijzonder de NV COS), zijn eigen professional judgement en het doel van de opdracht.
+In de volgende paragrafen zijn de accountantswerkzaamheden met betrekking tot elk van de taken en financiële stromen opgenomen.
+## 4.2.2 Wet- en regelgeving
+Specifiek moet de externe accountant aandacht besteden aan (gewijzigde) wet- en regelgeving en de implementatie hiervan binnen het CAK zoals vastgelegd in het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019.
+## 4.2.3 Taken onder toezicht van VWS
+## 4.2.3.1 Uitbetaalde tegemoetkomingen Wtcg
+Normenkader
+De externe accountant hanteert voor zijn onderzoek naar de vaststelling en betaling van aanspraken tegemoetkomingen Wtcg en de hiermee samenhangende posten in de overzichten van activa en passiva het normenkader zoals uiteengezet in het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019.
+In artikel 3, eerste en tweede lid, van de Wtcg (niet meer in werking vanaf 1 januari 2016) is vastgelegd dat het CAK de tegemoetkoming aan rechthebbenden moet vaststellen en voor het einde van het kalenderjaar, volgend op het jaar waarop de tegemoetkoming betrekking heeft, moet uitbetalen.
+Met ingang van 2014 is de tegemoetkoming op basis van de Wtcg afgeschaft. Gedurende het kalenderjaar 2015 is het CAK nog wettelijk bevoegd geweest om beschikkingen af te geven over 2013. Met ingang van 1 januari 2016 mag het CAK geen nieuwe beschikkingen meer afgeven. Het CAK moet nog wel betalingen op al geslagen beschikkingen uitvoeren. Ook kunnen met ingang van 2016 geen nieuwe aanvragen meer worden ingediend. De secundaire processen en bezwaar en beroep komen voort uit het algemeen bestuursrecht en lopen nog wel door in 2016 en verder.
+De concrete invulling van het begrip rechtmatigheid voor deze taak is weergegeven in hoofdstuk 4 van het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019.
+De externe accountant stelt vast dat het CAK de aanspraken op de tegemoetkoming Wtcg volledig, juist en tijdig heeft uitbetaald, gegeven zijn verantwoordelijkheid zoals vastgelegd in het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019. Hierbij moet de externe accountant vaststellen dat de in het boekjaar 2019 uitbetaalde tegemoetkomingen voorkomen in de werkvoorraad betalingen tegemoetkomingen per 1 januari 2016.
+Rapportage externe accountant
+De externe accountant stelt vast of geconstateerde onrechtmatigheden en onzekerheden invloed hebben op de strekking van zijn controleverklaring. Hij stelt vast of de in de bestuurlijke verantwoording opgenomen informatie een juist beeld geeft van de uitbetaling van de aanspraken tegemoetkomingen Wtcg. De externe accountant neemt zijn bevindingen op in het accountantsrapport.
+Goedkeuringstolerantie
+Voor de goedkeuringstolerantie gaat de externe accountant uit van de mutatiestroom. Als grens geldt hierbij 1% van het totaal aan mutaties (Wtcg-betalingen) in de rekening-courant in het verslagjaar.
+## 4.2.3.2 Afdracht ouderbijdragen op basis van de Jeugdwet
+Sinds 1 januari 2015 voert het CAK de ouderbijdragen uit op grond van artikel 8.2.3, eerste lid, van de Jeugdwet en het Besluit aanwijzing CAK als bestuursorgaan (vaststelling en inning ouderbijdragen in het kader van de Jeugdwet). Het CAK verantwoordt zich over de rechtmatige uitvoering van de ouderbijdrage Jeugdwet in de bestuurlijke verantwoording.
+De ouderbijdrage op basis van de Jeugdwet is gedurende 2015 onderwerp van een politiek-maatschappelijke discussie geweest. In opdracht van het ministerie van VWS is onderzoek gedaan naar de uitvoeringspraktijk van de ouderbijdrage. Het onderzoeksrapport is voor de Staatssecretaris aanleiding geweest om medio november 2015 aan de Tweede Kamer voor te stellen de ouderbijdrage per 2016 te schrappen (Kamerstuk 31 839 nummer 495). Door middel van een publicatie in het Staatsblad (2016 191) zijn de parameters voor de ouderbijdrage met ingang van 2016 op nihil gesteld. De wijziging van de Jeugdwet en het Besluit Jeugdwet dat het afschaffen van de ouderbijdrage voor jeugdhulp regelt heeft plaatsgevonden door middel van het Staatsblad 2017 nr. 64 en werkt terug tot en met 1 januari 2016.
+De ouderbijdrage is met ingang van 1 januari 2016 afgeschaft. Het CAK zal zich in 2019 bezighouden met de afwikkeling van de taak met betrekking tot de vaststelling en inning van de ouderbijdrage. Hierbij zal het CAK op verzoek van VWS:
+− De werkwijze van gemeenten om geen gegevens aan te leveren dan wel in te trekken ongemoeid laten.
+− De gerechtelijke invordering over 2015 achterwege laten.
+− De afhandeling van openstaande vorderingen laten plaatsvinden conform de met VWS gemaakte afspraken zoals opgenomen in het 'Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019'.
+In het kader van de afwikkeling van de ouderbijdragen Jeugdwet 2015 is bij het CAK in 2019 sprake van de volgende financiële stromen:
+− terugbetalingen ouderbijdragen 2015 van het CAK aan ouders;
+− terugbetalingen van gemeenten aan het CAK van door het CAK aan ouders terugbetaalde ouderbijdragen 2015;
+− ontvangen ouderbijdragen Jeugdwet 2015 die ontvangen zijn van ouders op basis van een door het CAK uitgevoerd minnelijk traject;
+− ontvangen ouderbijdragen Jeugdwet 2015 die ontvangen zijn op basis van lopende betalingsregelingen en schuldsaneringen;
+− inzake het aan gemeenten afgedragen bedrag door het CAK van de van ouders ontvangen ouderbijdragen Jeugdwet 2015.
+Normenkader
+De externe accountant hanteert voor zijn onderzoek naar de ouderbijdragen op basis van de Jeugdwet en de hiermee samenhangende posten in de overzichten van activa en passiva het normenkader zoals uiteengezet in het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019.
+Gebruikersverantwoordelijkheid
+Voor de gegevens van de gemeenten geldt gebruikers-verantwoordelijkheid. De directe verantwoordelijkheid ligt niet bij het CAK. Dit valt buiten het rechtmatigheidsbegrip. Als voorwaarde hierbij geldt, dat de aanleverprocedures van het CAK (technisch) goed functioneren. De externe accountant besteedt in zijn rapportage aandacht aan problemen in het verslagjaar.
+Rapportage externe accountant
+De externe accountant stelt vast of geconstateerde onrechtmatigheden en onzekerheden invloed hebben op de strekking van zijn controleverklaring. Hij stelt vast of de in de bestuurlijke verantwoording opgenomen informatie een juist beeld geeft van de ouderbijdragen op basis van de Jeugdwet. De externe accountant neemt zijn bevindingen op in het accountantsrapport.
+Goedkeuringstolerantie
+Voor de goedkeuringstolerantie wordt uitgegaan van de mutatiestroom.
+Als grens geldt hierbij 1% van het totaal van alle hiervoor genoemde financiële stromen in het verslagjaar die betrekking hebben op de Ouderbijdrage Jeugdwet (niet gesaldeerd).
+## 4.2.3.3 Afgifte van Schengen- en Engelstalige verklaringen
+Vanaf 1 januari 2015 geeft het CAK de Schengenverklaringen en, voor buiten het Schengengebied, Engelstalige medische verklaringen af. Het CAK verantwoordt zich over deze werkzaamheden in de bestuurlijke verantwoording.
+De externe accountant stelt vast dat de vermelde aantallen die zijn afgegeven in het verantwoordingsjaar aansluiten op de onderliggende administratie en dat de prognose van de verwachte aantal aanvragen onderbouwd is door interne documentatie. Dit onderdeel valt onder onderdeel B. 'Verklaring over de in de bestuurlijke verantwoording opgenomen andere informatie' van de controleverklaring.
+## 4.2.4 Taken onder toezicht van de NZa
+Overgangsrecht en afwikkeling AWBZ
+Met ingang van 1 januari 2015 is de Wlz in werking getreden. Tot 1 januari 2015 gold de AWBZ. In paragraaf 2 van hoofdstuk 11 van de Wlz is het overgangsrecht voor de uitvoerders en de afwikkeling van de AWBZ geregeld. Met ketenpartijen vindt op dit moment nader overleg plaats over de afwikkeling van het Algemeen Fonds Bijzondere Ziektekosten (AFBZ). Voor de verantwoording over 2019 van het CAK heeft dit nader overleg geen gevolgen.
+## 4.2.4.1 Betalingen van zorgaanspraken AWBZ
+Normenkader
+De externe accountant hanteert voor zijn onderzoek naar de betalingen van zorgaanspraken AWBZ en de hiermee samenhangende posten in de overzichten van activa en passiva het normenkader zoals uiteengezet in het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019.
+De externe accountant controleert de volledigheid, juistheid en tijdigheid van de betalingen in opdracht van en namens de Wlz-uitvoerders/zorgkantoren of het Zorginstituut en de daartegenover staande afrekeningen met het AFBZ.
+Volledigheid
+Volledigheid betekent dat het CAK alle binnengekomen betaalopdrachten moet afwikkelen.
+Juistheid
+Juistheid houdt in dat het CAK de binnengekomen opdrachten moet afwikkelen volgens de betaalinstructies van de Wlz-uitvoerders/zorgkantoren of het Zorginstituut.
+Tijdigheid
+Tijdigheid houdt in dat het CAK de binnengekomen opdrachten binnen vastgestelde termijnen moet afwikkelen. Als norm voor tijdigheid van voorschotbetalingen geldt een betalingstermijn van maximaal vijf weken na ontvangst van de betaalopdracht. Als norm voor tijdigheid van eenmalige betalingsopdrachten geldt een betalingstermijn van maximaal drie weken na ontvangst van de betaalopdracht door het CAK.
+Gebruikersverantwoordelijkheid
+Voor de gegevens van de Wlz-uitvoerders/zorgkantoren en het Zorginstituut geldt gebruikersverantwoordelijkheid. De directe verantwoordelijkheid voor de volledige, juiste en tijdige aanlevering of inhoud van de opdracht ligt niet bij het CAK. Dit valt buiten het rechtmatigheidsbegrip. Als voorwaarde hierbij geldt, dat de aanleverprocedures van het CAK (technisch) goed functioneren. De externe accountant besteedt in zijn rapportage aandacht aan eventuele problemen in het verslagjaar.
+Rapportage externe accountant
+De externe accountant stelt vast of geconstateerde onrechtmatigheden en onzekerheden invloed hebben op de strekking van zijn controleverklaring. Hij stelt vast of de in de bestuurlijke verantwoording opgenomen informatie een juist beeld geeft van het rechtmatig betalen van zorgaanspraken AWBZ. De externe accountant neemt zijn bevindingen op in het accountantsrapport.
+Goedkeuringstolerantie
+Voor de goedkeuringstolerantie gaat de externe accountant uit van de mutatiestroom. Als grens geldt hierbij 1% van het totaal van de AWBZ-betalingen in het verslagjaar.
+## 4.2.4.2 Betalingen van zorgaanspraken Wlz
+Het CAK heeft per 1 januari 2015 als taak het namens de Wlz-uitvoerders/zorgkantoren of het Zorginstituut verrichten van betalingen aan zorgaanbieders.
+Normenkader
+De externe accountant hanteert voor zijn onderzoek naar de betalingen van zorgaanspraken Wlz en de hiermee samenhangende posten in de overzichten van activa en passiva het normenkader zoals uiteengezet in het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019.
+De externe accountant controleert de volledigheid, juistheid en tijdigheid van de betalingen in opdracht van en namens de Wlz-uitvoerders/zorgkantoren of het Zorginstituut en de daartegenover staande afrekeningen met het Flz.
+Volledigheid
+Volledigheid betekent dat het CAK alle binnengekomen opdrachten moet afwikkelen.
+Juistheid
+Juistheid houdt in dat het CAK de binnengekomen opdrachten moet afwikkelen volgens de betaalinstructies van de Wlz-uitvoerders/zorgkantoren of het Zorginstituut.
+Tijdigheid
+Tijdigheid houdt in dat het CAK de binnengekomen opdrachten binnen vastgestelde termijnen moet afwikkelen. Als norm voor tijdigheid van voorschotbetalingen geldt een betalingstermijn van maximaal vijf weken na ontvangst van de betaalopdracht. Als norm voor tijdigheid van eenmalige betalingsopdrachten geldt een betalingstermijn van maximaal drie weken na ontvangst van de betaalopdracht door het CAK.
+Gebruikersverantwoordelijkheid
+Voor de gegevens van de Wlz-uitvoerders/zorgkantoren en het Zorginstituut geldt gebruikersverantwoordelijkheid. De directe verantwoordelijkheid voor de volledige, juiste en tijdige aanlevering of inhoud van de opdracht ligt niet bij het CAK. Dit valt buiten het rechtmatigheidsbegrip. Als voorwaarde hierbij geldt, dat de aanleverprocedures van het CAK (technisch) goed functioneren. De externe accountant besteedt in zijn rapportage aandacht aan eventuele problemen in het verslagjaar.
+Rapportage externe accountant
+De externe accountant stelt vast of geconstateerde onrechtmatigheden en onzekerheden invloed hebben op de strekking van zijn controleverklaring. Hij stelt vast of de in de bestuurlijke verantwoording opgenomen informatie een juist beeld geeft van het rechtmatig betalen van zorgaanspraken Wlz. De externe accountant neemt zijn bevindingen op in het accountantsrapport.
+Goedkeuringstolerantie
+Voor de goedkeuringstolerantie gaat de externe accountant uit van de mutatiestroom. Als grens geldt hierbij 1% van het totaal van de Wlz-betalingen in het verslagjaar.
+## 4.2.4.3 Betalingen subsidieregeling extramurale behandeling
+Het CAK heeft per 1 januari 2015 als taak het namens de Wlz-uitvoerders/zorgkantoren of het Zorginstituut verrichten van betalingen aan zorgaanbieders in het kader van de tijdelijke subsidieregeling extramurale behandeling.
+Normenkader
+De externe accountant hanteert voor zijn onderzoek naar de betalingen in het kader van de subsidieregeling extramurale behandeling en de hiermee samenhangende posten in de overzichten van activa en passiva het normenkader zoals uiteengezet in het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019.
+De externe accountant controleert de volledigheid, juistheid en tijdigheid van de betalingen in opdracht van en namens de Wlz-uitvoerders/zorgkantoren of het Zorginstituut en de daartegenover staande afrekeningen met het Flz.
+Volledigheid
+Volledigheid betekent dat het CAK alle binnengekomen opdrachten moet afwikkelen.
+Juistheid
+Juistheid houdt in dat het CAK de binnengekomen opdrachten moet afwikkelen volgens de betaalinstructies van de Wlz-uitvoerders/zorgkantoren of het Zorginstituut.
+Tijdigheid
+Tijdigheid houdt in dat het CAK de binnengekomen opdrachten binnen vastgestelde termijnen moet afwikkelen. Als norm voor tijdigheid van voorschotbetalingen geldt een betalingstermijn van maximaal vijf weken na ontvangst van de betaalopdracht door het CAK. Als norm voor tijdigheid van eenmalige betalingsopdrachten geldt een betalingstermijn van maximaal drie weken na ontvangst van de betaalopdracht door het CAK.
+Gebruikersverantwoordelijkheid
+Voor de gegevens van de Wlz-uitvoerders/zorgkantoren en het Zorginstituut geldt gebruikersverantwoordelijkheid. De directe verantwoordelijkheid voor de volledige, juiste en tijdige aanlevering of inhoud van de opdracht ligt niet bij het CAK. Dit valt buiten het rechtmatigheidsbegrip. Als voorwaarde hierbij geldt, dat de opvraagprocedures van het CAK (technisch) goed functioneren, zodat de opvraagprocedures geen problemen veroorzaken. De externe accountant besteedt in zijn rapportage wel aandacht aan eventuele problemen in het verslagjaar.
+Rapportage externe accountant
+De externe accountant stelt vast of geconstateerde onrechtmatigheden en onzekerheden invloed hebben op de strekking van zijn controleverklaring. Hij stelt vast of de in de bestuurlijke verantwoording opgenomen informatie een juist beeld geeft van het rechtmatig betalen in het kader van de subsidieregeling extramurale behandeling. De externe accountant neemt zijn bevindingen op in het accountantsrapport.
+Goedkeuringstolerantie
+Voor de goedkeuringstolerantie gaat de externe accountant uit van de mutatiestroom. Als grens geldt hierbij 1% van het totaal van de betalingen in het kader van de subsidieregeling extramurale behandeling in het verslagjaar.
+## 4.2.4.4 Betalingen subsidieregeling eerstelijns verblijf
+Het CAK heeft per 1 januari 2015 als taak het namens de Wlz-uitvoerders/zorgkantoren of het Zorginstituut verrichten van betalingen aan zorgaanbieders in het kader van de subsidieregeling eerstelijns verblijf. Per 1 januari 2017 is deze subsidieregeling vervallen.
+Normenkader
+De externe accountant hanteert voor zijn onderzoek naar de betalingen in het kader van de subsidieregeling eerstelijns verblijf en de hiermee samenhangende posten in de overzichten van activa en passiva het normenkader zoals uiteengezet in het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019.
+De externe accountant controleert de volledigheid, juistheid en tijdigheid van de betalingen in opdracht van en namens de Wlz-uitvoerders/zorgkantoren of het Zorginstituut en de daartegenover staande afrekeningen met het Flz.
+Volledigheid
+Volledigheid betekent dat het CAK alle binnengekomen opdrachten moet afwikkelen.
+Juistheid
+Juistheid houdt in dat het CAK de binnengekomen opdrachten moet afwikkelen volgens de betaalinstructies van de Wlz-uitvoerders/zorgkantoren of het Zorginstituut.
+Tijdigheid
+Tijdigheid houdt in dat het CAK de binnengekomen opdrachten binnen vastgestelde termijnen moet afwikkelen. Als norm voor tijdigheid van voorschotbetalingen geldt een betalingstermijn van maximaal vijf weken na ontvangst van de betaalopdracht door het CAK. Als norm voor tijdigheid van eenmalige betalingsopdrachten geldt een betalingstermijn van maximaal drie weken na ontvangst van de betaalopdracht door het CAK.
+Gebruikersverantwoordelijkheid
+Voor de gegevens van de Wlz-uitvoerders/zorgkantoren en het Zorginstituut geldt gebruikersverantwoordelijkheid. De directe verantwoordelijkheid voor de volledige, juiste en tijdige aanlevering of inhoud van de opdracht ligt niet bij het CAK. Dit valt buiten het rechtmatigheidsbegrip. Als voorwaarde hierbij geldt, dat de aanleverprocedures van het CAK (technisch) goed functioneren. De externe accountant besteedt in zijn rapportage aandacht aan eventuele problemen in het verslagjaar.
+Rapportage externe accountant
+De externe accountant stelt vast of geconstateerde onrechtmatigheden en onzekerheden invloed hebben op de strekking van zijn controleverklaring. Hij stelt vast of de in de bestuurlijke verantwoording opgenomen informatie een juist beeld geeft van het rechtmatig betalen in het kader van de subsidieregeling eerstelijns verblijf. De externe accountant neemt zijn bevindingen op in het accountantsrapport.
+Goedkeuringstolerantie
+Voor de goedkeuringstolerantie gaat de externe accountant uit van de mutatiestroom. Als grens geldt hierbij 1% van het totaal van de betalingen in het kader van de subsidieregeling eerstelijns verblijf in het verslagjaar.
+## 4.2.4.5 Afdracht eigen bijdragen Zorg zonder Verblijf AWBZ
+Normenkader
+De externe accountant hanteert voor zijn onderzoek naar de eigen bijdragen Zorg zonder Verblijf AWBZ en de hiermee samenhangende posten in de overzichten van activa en passiva het normenkader zoals uiteengezet in het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019.
+De externe accountant stelt vast dat het CAK de eigen bijdragen Zorg zonder Verblijf AWBZ volledig, juist en tijdig heeft vastgesteld, opgelegd en geïnd.
+Volledigheid
+Volledigheid betekent dat het CAK alle binnengekomen gegevens in zijn geheel heeft afgewikkeld tot opgelegde eigen bijdragen.
+Juistheid
+Juistheid heeft als norm het juist opleggen van de eigen bijdrage volgens het Bijdragebesluit Zorg (in werking tot en met 31 december 2014) en de specifieke circulaires van het Zorginstituut. Vanaf 1 januari 2015 zijn de Wlz en het bijbehorend Besluit langdurige zorg van toepassing. Het begrip juistheid heeft ook betrekking op de juiste toepassing van het anti-cumulatiebeding.
+Tijdigheid
+Het CAK hanteert als norm dat de factuur moet zijn verzonden binnen maximaal acht weken nadat alle benodigde gegevens aanwezig zijn. Deze acht weken termijn is opgebouwd uit zes weken voor facturering en twee weken voor het versturen van facturen.
+Gebruikersverantwoordelijkheid
+Voor de gegevens van de zorgaanbieders, de Basisregistratie Personen (BRP) en de Belastingdienst geldt gebruikersverantwoordelijkheid. De directe verantwoordelijkheid voor de volledige, juiste en tijdige aanlevering of inhoud van de opdracht ligt niet bij het CAK. Dit valt buiten het rechtmatigheidsbegrip. Als voorwaarde hierbij geldt, dat de aanleverprocedures van het CAK (technisch) goed functioneren. De externe accountant besteedt in zijn rapportage aandacht aan eventuele problemen in het verslagjaar.
+Inning eigen bijdragen Zorg zonder Verblijf AWBZ
+De externe accountant stelt vast dat het CAK de eigen bijdragen Zorg zonder Verblijf AWBZ volledig, juist en tijdig heeft geïnd in overeenstemming met het protocol 'oninbaar verklaren & matigen vorderingen'. Hij rapporteert hierover in het accountantsrapport.
+Rapportage externe accountant
+De externe accountant stelt vast of geconstateerde onrechtmatigheden en onzekerheden invloed hebben op de strekking van zijn controleverklaring. Hij stelt vast of de in de bestuurlijke verantwoording opgenomen informatie een juist beeld geeft van de rechtmatige vaststelling, oplegging en inning van de eigen bijdragen Zorg zonder Verblijf AWBZ. De externe accountant neemt zijn bevindingen op in het accountantsrapport.
+Goedkeuringstolerantie
+In de matrix mogen de eigen bijdragen regelingen AWBZ vanaf het verantwoordingsjaar 2017 samengevoegd worden. Voor de goedkeuringstolerantie van de samengevoegde eigen bijdragen regelingen AWBZ wordt uitgegaan van de balansposten. Als grens geldt hierbij 1% van de som van de balansposten eigen bijdragen AWBZ (totaal van de activa en passiva van de eigen bijdragen regelingen AWBZ).
+## 4.2.4.6 Afdracht eigen bijdragen Zorg met Verblijf AWBZ
+De externe accountant hanteert voor zijn onderzoek naar de eigen bijdragen Zorg met Verblijf AWBZ en de hiermee samenhangende posten in de overzichten van activa en passiva het normenkader zoals uiteengezet in het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019.
+De externe accountant stelt vast dat het CAK de eigen bijdragen Zorg met Verblijf AWBZ volledig, juist en tijdig heeft vastgesteld, opgelegd en geïnd.
+Volledigheid
+Volledigheid betekent dat het CAK alle binnengekomen gegevens in zijn geheel heeft afgewikkeld tot opgelegde eigen bijdragen.
+Juistheid
+Juistheid heeft als norm het juist opleggen van de eigen bijdrage volgens het Bijdragebesluit Zorg (in werking tot en met 31 december 2014) en de specifieke circulaires van het Zorginstituut. Vanaf 1 januari 2015 zijn de Wlz en het bijbehorende Besluit langdurige zorg van toepassing.
+Tijdigheid
+Het CAK hanteert als norm dat de factuur moet zijn verzonden binnen maximaal acht weken nadat alle benodigde gegevens aanwezig zijn. Deze acht weken termijn is opgebouwd uit zes weken voor facturering en twee weken voor het versturen van facturen.
+Gebruikersverantwoordelijkheid
+Voor de gegevens van de Wlz-uitvoerders/zorgkantoren, de BRP, het Uitvoeringsinstituut Werknemersverzekeringen (UWV), de Sociale Verzekeringsbank (SVB) en de Belastingdienst geldt gebruikersverantwoordelijkheid. De directe verantwoordelijkheid voor de volledige, juiste en tijdige aanlevering of inhoud van de opdracht ligt niet bij het CAK. Dit valt buiten het rechtmatigheidsbegrip. Als voorwaarde hierbij geldt dat de aanleverprocedures van het CAK (technisch) goed functioneren. De externe accountant besteedt in zijn rapportage aandacht aan eventuele problemen in het verslagjaar.
+Inning eigen bijdragen Zorg met Verblijf AWBZ
+De externe accountant stelt vast dat het CAK de eigen bijdragen Zorg met Verblijf AWBZ volledig, juist en tijdig heeft geïnd in overeenstemming met het protocol 'oninbaar verklaren & matigen vorderingen'. Hij rapporteert hierover in het accountantsrapport.
+Rapportage externe accountant
+De externe accountant stelt vast of geconstateerde onrechtmatigheden en onzekerheden invloed hebben op de strekking van zijn controleverklaring. Hij stelt vast of de in de bestuurlijke verantwoording opgenomen informatie een juist beeld geeft van de rechtmatige vaststelling, oplegging en inning van de eigen bijdragen Zorg met Verblijf AWBZ. De externe accountant neemt zijn bevindingen op in het accountantsrapport.
+Goedkeuringstolerantie
+In de matrix mogen de eigen bijdragen regelingen AWBZ vanaf het verantwoordingsjaar 2017 samengevoegd worden. Voor de goedkeuringstolerantie van de samengevoegde eigen bijdragen regelingen AWBZ wordt uitgegaan van de balansposten. Als grens geldt hierbij 1% van de som van de balansposten eigen bijdragen AWBZ (totaal van de activa en passiva van de eigen bijdragen regelingen AWBZ).
+## 4.2.4.7 Afdracht eigen bijdragen Wlz
+Het CAK heeft per 1 januari 2015 als taak het vaststellen, opleggen en innen van de eigen bijdragen voor de Wlz. Binnen de Wlz wordt een onderscheid gemaakt in de eigen bijdragen voor:
+– Zorg met Verblijf.
+– Volledig pakket thuis (vpt).
+– Persoonsgebonden budget (pgb).
+– Modulair pakket thuis (mpt).
+De systematiek voor de bepaling van de eigen bijdragen voor deze
+onderdelen is gelijk aan de bepaling van de eigen bijdragen voor Zorg
+met Verblijf zoals deze tot 1 januari 2015 gold onder de AWBZ.
+Normenkader
+De externe accountant hanteert voor zijn onderzoek naar de eigen bijdragen Wlz en de hiermee samenhangende posten in de overzichten van activa en passiva het normenkader zoals uiteengezet in het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019.
+De externe accountant stelt vast dat het CAK de eigen bijdragen Wlz volledig, juist en tijdig heeft vastgesteld, opgelegd en geïnd.
+Volledigheid
+Volledigheid betekent dat het CAK alle binnengekomen gegevens in zijn geheel heeft afgewikkeld tot opgelegde eigen bijdragen.
+Juistheid
+Juistheid heeft als norm het juist opleggen van de eigen bijdragen volgens het Besluit langdurige zorg en de specifieke circulaires van het Zorginstituut. Het begrip juistheid heeft ook betrekking op de juiste toepassing van het anti-cumulatiebeding.
+Tijdigheid
+Het CAK hanteert als norm dat de factuur moet zijn verzonden binnen maximaal acht weken nadat alle benodigde gegevens aanwezig zijn. Deze acht weken termijn is opgebouwd uit zes weken voor facturering en twee weken voor het versturen van facturen.
+Gebruikersverantwoordelijkheid
+Voor de gegevens van de zorgaanbieders, de Wlz-uitvoerders/zorgkantoren, de BRP, het UWV, de SVB en de Belastingdienst geldt gebruikersverantwoordelijkheid. De directe verantwoordelijkheid voor de volledige, juiste en tijdige aanlevering of inhoud van de opdracht ligt niet bij het CAK. Dit valt buiten het rechtmatigheidsbegrip. Als voorwaarde hierbij geldt, dat de aanleverprocedures van het CAK (technisch) goed functioneren. De externe accountant besteedt in zijn rapportage aandacht aan eventuele problemen in het verslagjaar.
+Inning eigen bijdragen Wlz
+De externe accountant stelt vast dat het CAK de eigen bijdragen Wlz volledig, juist en tijdig heeft geïnd in overeenstemming met het protocol 'oninbaar verklaren & matigen vorderingen'. Hij rapporteert hierover in het accountantsrapport.
+Rapportage externe accountant
+De externe accountant stelt vast of geconstateerde onrechtmatigheden en onzekerheden invloed hebben op de strekking van zijn controleverklaring. Hij stelt vast of de in de bestuurlijke verantwoording opgenomen informatie een juist beeld geeft van de rechtmatige vaststelling, oplegging en inning van de eigen bijdragen Wlz. De externe accountant neemt zijn bevindingen op in het accountantsrapport.
+Goedkeuringstolerantie
+Voor de goedkeuringstolerantie gaat de externe accountant uit van de mutatiestroom. Als grens geldt hierbij 1% van de in totaal opgelegde eigen bijdragen Wlz in het verslagjaar.
+## 4.2.4.8 Afdracht eigen bijdragen Wmo
+Het vaststellen, opleggen en innen van de eigen bijdragen voor de Wmo vormt sinds 1 januari 2007 een eigen taak van het CAK. Deze taak is per 1 januari 2015 opgenomen in de Wmo 2015. Het product 'Beschermd wonen en Kort Verblijf' is per 1 januari 2015 overgeheveld van de AWBZ naar de Wmo. Het CAK heeft per 1 januari 2015 ook als taak het vaststellen, opleggen en innen van de eigen bijdragen voor cliënten van beschermd wonen.
+Normenkader
+De externe accountant hanteert voor zijn onderzoek naar de eigen bijdragen Wmo en de hiermee samenhangende posten in de overzichten van activa en passiva het normenkader zoals uiteengezet in het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019.
+De externe accountant stelt vast dat het CAK de eigen bijdragen Wmo volledig, juist en tijdig heeft vastgesteld, opgelegd en geïnd.
+Volledigheid
+Volledigheid betekent dat het CAK alle binnengekomen gegevens in zijn geheel heeft afgewikkeld tot opgelegde eigen bijdragen.
+Juistheid
+Juistheid heeft als norm het juist opleggen van de eigen bijdragen volgens de door de gemeenten aangeleverde parameters en de door de zorgaanbieders en gemeenten aangeleverde zorg en hulpmiddelen. Het begrip juistheid heeft ook betrekking op de juiste toepassing van het anti-cumulatiebeding.
+Tijdigheid
+Het CAK hanteert als interne norm dat de factuur moet zijn verzonden binnen maximaal acht weken nadat alle benodigde gegevens aanwezig zijn. Deze acht weken termijn is opgebouwd uit zes weken voor facturering en twee weken voor het versturen van alle facturen.
+Gebruikersverantwoordelijkheid
+Voor de gegevens van de zorgaanbieders, de gemeenten, de BRP, het UWV, de SVB en de Belastingdienst geldt gebruikers-verantwoordelijkheid. De directe verantwoordelijkheid voor de volledige, juiste en tijdige aanlevering of inhoud van de opdracht ligt niet bij het CAK. Dit valt buiten het rechtmatigheidsbegrip. Als voorwaarde hierbij geldt, dat de opvraagprocedures van het CAK (technisch) goed functioneren, zodat de opvraagprocedures geen problemen veroorzaken. De externe accountant besteedt in zijn rapportage wel aandacht aan eventuele problemen in het verslagjaar.
+Inning eigen bijdragen Wmo
+De externe accountant stelt vast dat het CAK de eigen bijdragen Wmo volledig, juist en tijdig heeft geïnd in overeenstemming met het protocol 'oninbaar verklaren & matigen vorderingen'. Hij rapporteert hierover in het accountantsrapport.
+Rapportage externe accountant
+De externe accountant stelt vast of geconstateerde onrechtmatigheden en onzekerheden invloed hebben op de strekking van zijn controleverklaring. Hij stelt vast of de in de bestuurlijke verantwoording opgenomen informatie een juist beeld geeft van de rechtmatige vaststelling, oplegging en inning van de eigen bijdragen Wmo. De externe accountant neemt zijn bevindingen op in het accountantsrapport.
+Goedkeuringstolerantie
+Voor de goedkeuringstolerantie gaat de externe accountant uit van de mutatiestroom. Als grens geldt hierbij 1% van de in totaal opgelegde eigen bijdragen Wmo in het verslagjaar.
+## 4.2.4.9 Interest geldmiddelen AFBZ, Flz en Wmo
+Normenkader
+De externe accountant hanteert voor zijn onderzoek naar de interest geldmiddelen AFBZ, Flz en Wmo en de hiermee samenhangende posten in de overzichten van activa en passiva het normenkader zoals uiteengezet in het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019.
+De externe accountant beoordeelt of de interest geldmiddelen AFBZ, Flz en Wmo volledig is afgedragen of bij betaalde interest is ontvangen. Voor de verdeling van de geldmiddelen naar de drie financiële stromen (AFBZ, Flz en Wmo) moet de onderlinge afgesproken verdeling tussen het CAK en het Zorginstituut gehanteerd worden.
+Rapportage externe accountant
+De externe accountant stelt vast of geconstateerde onrechtmatigheden en onzekerheden invloed hebben op de strekking van zijn controleverklaring. Hij stelt vast of de in de bestuurlijke verantwoording opgenomen informatie een juist beeld geeft van de volledigheid van de verantwoording en de gedane afdracht van gelden. De externe accountant neemt zijn bevindingen op in het accountantsrapport.
+Goedkeuringstolerantie
+Voor de goedkeuringstolerantie gaat de externe accountant uit van de grens van 1% van het totaal van de verantwoorde interest geldmiddelen AFBZ, Flz en Wmo in het verslagjaar.
+## 4.2.4.10 Uitbetaalde uitkeringen CER
+Vanaf 1 januari 2015 is artikel 118a Zvw (CER) vervallen en is het CAK niet meer bevoegd om nieuwe beschikkingen af te geven. Wel moeten nog betalingen plaatsvinden op al verstrekte beschikkingen. Het CAK is gehouden om betalingen (na eventuele procedures) tot en met 11 februari 2020 af te handelen.
+Normenkader
+De externe accountant hanteert voor zijn onderzoek naar de uitkeringen CER en de hiermee samenhangende posten in de overzichten van activa en passiva het normenkader zoals uiteengezet in het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019.
+De externe accountant controleert de volledigheid, juistheid en tijdigheid van de uitkeringen CER in het verantwoordingsjaar. De externe accountant controleert ook of de afrekening van de verrichte betalingen met het Zvf volledig, juist en tijdig heeft plaatsgevonden.
+Volledigheid
+Volledigheid heeft de betekenis van het volledig afwikkelen van alle binnengekomen gegevens tot de volledige bepaling van rechthebbenden. Sinds het uitvoeringsjaar 2015 (per 1 januari 2015) mag het CAK geen nieuwe aanvragen meer in behandeling nemen. Alleen lopende aanvragen die uiterlijk op 31 december 2014 zijn ontvangen worden nog afgehandeld.
+Juistheid
+Juistheid heeft de betekenis van het toewijzen en het afwikkelen van de uitbetaling van het juiste bedrag aan de juiste rechthebbende volgens de betaalinstructies.
+Tijdigheid
+Tijdigheid houdt in dat het CAK de binnengekomen opdrachten binnen de vastgestelde termijnen moet afwikkelen. Hierbij wordt aansluiting gezocht bij specifieke voorschriften van het Zorginstituut en bij de door het CAK intern vastgestelde normen voor tijdige betaling.
+Ten aanzien van de afrekeningen met het Zvf worden dezelfde rechtmatigheidsnormen gehanteerd als bij de betalingen.
+Gebruikersverantwoordelijkheid
+De directe verantwoordelijkheid voor de volledige, juiste en tijdige aanlevering of inhoud van de opdracht ligt niet bij het CAK. Dit valt buiten het rechtmatigheidsbegrip. Als voorwaarde hierbij geldt, dat de aanleverprocedures van het CAK (technisch) goed functioneren. De externe accountant besteedt in zijn rapportage aandacht aan eventuele problemen in het verslagjaar.
+Rapportage externe accountant
+De externe accountant stelt vast of geconstateerde onrechtmatigheden en onzekerheden invloed hebben op de strekking van zijn controleverklaring. Hij stelt vast of de in de bestuurlijke verantwoording opgenomen informatie een juist beeld geeft van de rechtmatigheid van de CER-uitkeringen. De externe accountant neemt zijn bevindingen op in het accountantsrapport.
+Goedkeuringstolerantie
+Voor de goedkeuringstolerantie gaat de externe accountant uit van de mutatiestroom. Als grens geldt hierbij 1% van de totale CER-uitkeringen in het verslagjaar.
+## 4.2.4.11 Interest geldmiddelen Zvf
+Normenkader
+De externe accountant hanteert voor zijn onderzoek naar de interest geldmiddelen Zvf en de hiermee samenhangende posten in de overzichten van activa en passiva het normenkader zoals uiteengezet in het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019.
+De externe accountant beoordeelt of de interest geldmiddelen Zvf volledig is afgedragen aan het Zvf.
+Rapportage externe accountant
+De externe accountant stelt vast of geconstateerde onrechtmatigheden en onzekerheden invloed hebben op de strekking van zijn controleverklaring. Hij stelt vast of de in de bestuurlijke verantwoording opgenomen informatie een juist beeld geeft van de volledigheid van de verantwoording en de gedane afdracht van gelden aan het Zvf. De externe accountant neemt zijn bevindingen op in het accountantsrapport.
+Goedkeuringstolerantie
+Voor de goedkeuringstolerantie gaat de externe accountant uit van de grens van 1% van het totaal van de verantwoorde interest geldmiddelen Zvf in het verslagjaar.
+## 4.3 Analyse debiteurenpositie
+Het CAK neemt in het 'Financieel overzicht activa en passiva van de financiële stromen van de wettelijke taken op basis van het toerekeningsbeginsel', als onderdeel van de bestuurlijke verantwoording, debiteurenvorderingen op. Deze vorderingen worden gewaardeerd tegen nominale waarde. Er wordt in dit onderdeel van de bestuurlijke verantwoording geen voorziening voor oninbaarheid opgenomen voor de debiteurenvorderingen omdat het risico voor oninbaarheid voor rekening van het desbetreffende fonds of de desbetreffende gemeente is. Het CAK neemt wel in zijn bestuurlijke verantwoording een analyse op van de debiteurenpositie die voldoet aan de informatiebehoefte van de fondsbeheerder of indien gewenst de gemeenten om de voorziening voor oninbaarheid te kunnen bepalen. De analyse van de debiteurenpositie is onderdeel van de assurance-opdracht die is verstrekt aan de externe accountant.
+De externe accountant stelt vast dat de analyse van de debiteurenpositie is opgesteld conform de door partijen afgestemde en gemaakte afspraken, waaronder de gemaakte afspraken in het 'Overleg Verantwoording en Controle' waaraan het CAK, VWS, de ADR, Zorginstituut en de NZa deelnemen.
+## 4.4 Toetsingscriteria voor het onderzoek naar de rechtmatige uitvoering van taken
+Als het CAK alle taken in overeenstemming met de voorschriften van de geldende wet- en regelgeving uitvoert, kunnen de daaraan gekoppelde processen als rechtmatig worden aangemerkt. Er is dan sprake van een rechtmatige uitvoering van de taken in het kader van de:
+– Wtcg;
+– Jeugdwet (ouderbijdragen);
+– afgifte van Schengen- en Engelstalige verklaringen;
+– AWBZ;
+– Wlz;
+– Wmo;
+– CER.
+De externe accountant toetst de rechtmatige uitvoering van bovengenoemde taken tegelijk met het onderzoek dat hij in het kader van paragraaf 4.2 uitvoert.
+## 4.5 Materialiteit (betrouwbaarheid en nauwkeurigheid)
+Om te kunnen vaststellen of aan de financiële rechtmatigheidseisen is voldaan, moet de externe accountant uitgaan van de volgende goedkeuringstoleranties. De genoemde toleranties betreffen die voor fouten. Indien sprake is van onzekerheden gelden de percentages zoals genoemd in tabel 2. 'Materialiteitstabel':
+Tabel 1. Omvangsbasis
+Controledeelgebied | Tolerantie | Paragraaf
+Uitbetaalde tegemoetkomingen Wtcg | 1% van het totaal aan mutaties (Wtcg-betalingen) in de rekening-courant in het verslagjaar | 4.2.3.1
+Afdracht ouderbijdragen op basis van de Jeugdwet | 1% van het totaal van de in paragraaf 4.2.3.2 'Afdracht ouderbijdragen op basis van de Jeugdwet' genoemde financiële stromen in het verslagjaar die betrekking hebben op de Ouderbijdrage Jeugdwet (niet gesaldeerd) | 4.2.3.2
+Betalingen van zorgaanspraken AWBZ | 1% van het totaal van de AWBZ-betalingen in het verslagjaar | 4.2.4.1
+Betalingen van zorgaanspraken Wlz | 1% van het totaal van de Wlz-betalingen in het verslagjaar | 4.2.4.2
+Betalingen subsidieregeling extramurale behandeling | 1% van het totaal van de betalingen in het kader van de subsidieregeling extramurale behandeling in het verslagjaar | 4.2.4.3
+Betalingen subsidieregeling eerstelijns verblijf | 1% van het totaal van de betalingen in het kader van de subsidieregeling eerstelijns verblijf in het verslagjaar | 4.2.4.4
+Afdracht eigen bijdragen Zorg zonder Verblijf AWBZ, Afdracht eigen bijdragen Zorg met Verblijf AWBZ | 1% van de som van de balansposten eigen bijdragen AWBZ (totaal van de activa en passiva van de eigen bijdragen regelingen AWBZ) | 4.2.4.5 4.2.4.6
+Afdracht eigen bijdragen Wlz | 1% van de in totaal opgelegde eigen bijdragen Wlz in het verslagjaar | 4.2.4.7
+Afdracht eigen bijdragen Wmo | 1% van de in totaal opgelegde eigen bijdragen Wmo in het verslagjaar | 4.2.4.8
+Interest geldmiddelen AFBZ, Flz en Wmo | 1% van het totaal van de verantwoorde interest geldmiddelen AFBZ, Flz en Wmo in het verslagjaar | 4.2.4.9
+Uitbetaalde uitkeringen CER | 1% van de totale CER-uitkeringen in het verslagjaar | 4.2.4.10
+Interest geldmiddelen Zvf | 1% van het totaal van de verantwoorde interest geldmiddelen Zvf in het verslagjaar | 4.2.4.11
+Bron: VWS en NZa
+Ten aanzien van de goedkeuringstolerantie voor het oordeel over de juistheid en volledigheid van de overzichten van activa en passiva wordt verwacht dat de externe accountant deze bepaalt rekening houdend met de voor hem geldende beroepsvoorschriften (in het bijzonder de NV COS), zijn eigen professional judgement en het doel van de opdracht.
+Om de mate te kunnen bepalen waarin de rechtmatigheid is gewaarborgd, moet de externe accountant uitgaan van de hierna opgenomen normen. Deze normen zijn gebaseerd op de normen voor de Auditdienst Rijk tot en met het jaar 2016.
+Tabel 2. Materialiteitstabel
+ | Rechtmatigheid is gewaarborgd | Rechtmatigheid heeft een beperking | Geen oordeel over rechtmatigheid mogelijk | Rechtmatigheid is niet gewaarborgd
+Fouten in de verantwoording | ≤ 1% | > 1% | ≤ 3% | - | > 3%
+Onzekerheden in de controle | ≤ 3% | > 3% | ≤ 10% | > 10% | -
+Soort controleverklaring | Goedkeurend | Met beperking | Oordeelonthouding | Afkeurend
+Bron: NZa
+Indien de externe accountant zowel fouten in de verantwoording als onzekerheden in de controle aantreft, dan weegt hij deze bij zijn oordeelsvorming altijd in onderlinge samenhang.
+Van een fout in de verantwoording is sprake wanneer gebleken is dat − een gedeelte van − een post niet in overeenstemming is met één of meer aspecten van de wet- en regelgeving van de Wtcg, de ouderbijdragen op basis van de Jeugdwet, de AWBZ, de Wlz, de Wmo of de CER.
+Een onzekerheid in de controle doet zich voor als gebleken is dat onvoldoende controle-informatie beschikbaar is om een − gedeelte van een − post als rechtmatig of onrechtmatig aan te merken; kortom, als onzekerheid bestaat over de (on-)rechtmatigheid van de post.
+De rechtmatigheid van een post is gewaarborgd als met een betrouwbaarheid van 95% de bewering juist is dat de financiële verantwoording geen grotere fout bevat dan respectievelijk dat de onzekerheid in de controle niet groter is dan de in Tabel 2 genoemde toleranties.
+Voor zover het de rechtmatigheid betreft, worden fouten per financiële stroom in absolute zin opgevat. Saldering van fouten is niet toegestaan.
+Het CAK moet geconstateerde fouten in principe corrigeren in de bestuurlijke verantwoording. Onzekerheden in de bestuurlijke verantwoording moet het CAK zoveel mogelijk kwantificeren. Fouten waarvan het niet mogelijk is om ze te corrigeren en onzekerheden die betrekking hebben op de wettelijke taken moeten toegelicht worden in de bestuurlijke verantwoording. Het CAK geeft hierbij de verbeteracties aan die het CAK voornemens is te starten of heeft gestart om de geconstateerde (structurele) fouten in de toekomst te voorkomen.
+## 4.6 Foutentabel
+De externe accountant neemt in het accountantsrapport een foutentabel op. Geconstateerde fouten die niet gecorrigeerd zijn, moeten – ongeacht hun omvang – in de foutentabel worden vermeld.
+De externe accountant neemt fouten en/of onzekerheden beneden € 10.000 niet afzonderlijk op in de foutentabel, maar als één bedrag. In het accountantsdossier neemt hij deze fouten en onzekerheden wel gespecificeerd op.
+Tabel 3. Foutentabel (in € 1.000)
+ | Incidenteel | Structureel | Totaal
+Fouten in de verantwoording |  |  | 
+Onzekerheden in de controle |  |  | 
+Bron: VWS en NZa
+Bij de tabel geeft de externe accountant een toelichting waarin hij aangeeft wat de oorzaak van de fouten en onzekerheden is.
+Met het oog op een adequate onderbouwing van het oordeel over de rechtmatigheid en de juistheid en de volledigheid is het noodzakelijk dat de externe accountant fouten en onzekerheden zoveel mogelijk kwantificeert.
+VWS en de NZa verwachten dat het CAK fouten en onzekerheden analyseert en corrigeert in het eerstvolgende verslagjaar. VWS en de NZa verwachten van de externe accountant dat hij bij zijn accountantsonderzoek nagaat of het CAK geconstateerde fouten en onzekerheden heeft geanalyseerd en gecorrigeerd. De externe accountant rapporteert hierover in het accountantsrapport. Wanneer geen correctie plaatsvindt, moet het CAK dit duidelijk motiveren.
+## 5 Controleverklaring
+## 5.1 Inleiding
+In dit hoofdstuk is de voorbeeldtekst van de goedkeurende controleverklaring opgenomen. Deze voorbeeldtekst is gebaseerd op de modellen van de Nederlandse Beroepsorganisatie van Accountants (NBA).
+Het betreft de voorbeeldtekst van een goedkeurende controleverklaring bij de bestuurlijke verantwoording. De strekking van het oordeel kan behalve goedkeurend ook met beperking, met oordeelonthouding of afkeurend zijn. Hiervoor wordt verwezen naar de dienovereenkomstige NBA modellen. Mochten de modellen tussentijds wijzigen dan zal dit middels een addendum kenbaar gemaakt worden.
+## 5.2 Goedkeurende controleverklaring bij de bestuurlijke verantwoording
+Hieronder is een voorbeeldtekst opgenomen voor een goedkeurende controleverklaring bij de bestuurlijke verantwoording 2019 ten behoeve van het ministerie van Volksgezondheid, Welzijn en Sport, de Nederlandse Zorgautoriteit en Zorginstituut Nederland.
+CONTROLEVERKLARING VAN DE ONAFHANKELIJKE ACCOUNTANT
+Aan: Opdrachtgever
+A. Verklaring over de in de bestuurlijke verantwoording van het CAK opgenomen financiële overzichten op 31 december 2019 en de matrices bestuurlijke verantwoording 2019
+Wij hebben de in de bestuurlijke verantwoording van het CAK opgenomen financiële overzichten van activa en passiva van de financiële stromen van de wettelijke taken ('de financiële overzichten') op 31 december 2019 en de matrices bestuurlijke verantwoording 2019 gecontroleerd.
+Ons oordeel betreffende de financiële overzichten
+Naar ons oordeel zijn het in de bestuurlijke verantwoording van het CAK opgenomen financiële overzicht activa en passiva van de financiële stromen van de wettelijke taken op kasbasis en het financiële overzicht activa en passiva van de financiële stromen van de wettelijke taken op basis van het toerekeningsbeginsel op 31 december 2019, in alle van materieel belang zijnde aspecten juist en volledig in overeenstemming met het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019.
+Het financiële overzicht activa en passiva van de financiële stromen van de wettelijke taken op kasbasis per 31 december 2019 is opgenomen in hoofdstuk ... van de bestuurlijke verantwoording van het CAK op de pagina's ... tot en met ... en bestaat uit:
+− Een algemene toelichting op de activa en passiva van de financiële stromen van de door het CAK uitgevoerde wettelijke taken op kasbasis in het verantwoordingsjaar.
+− Een overzicht van de activa en passiva van de financiële stromen van de door het CAK uitgevoerde wettelijke taken op kasbasis per ultimo verantwoordingsjaar (inclusief vergelijkende cijfers), voorzien van een toelichting.
+− Verloopoverzichten van financiële stromen van de door het CAK uitgevoerde wettelijke taken in 2019, voorzien van een toelichting.
+Het financiële overzicht activa en passiva van de financiële stromen
+van de wettelijke taken op basis van het toerekeningsbeginsel per 31 december 2019 is opgenomen in hoofdstuk ... van de bestuurlijke verantwoording van het CAK op de pagina's ... tot en met ... en bestaat uit:
+− Een algemene toelichting op de activa en passiva van de financiële stromen van de door het CAK uitgevoerde wettelijke taken op basis van het toerekeningsbeginsel in het verantwoordingsjaar.
+− Een overzicht van de activa en passiva van de financiële stromen van de door het CAK uitgevoerde wettelijke taken op basis van het toerekeningsbeginsel per ultimo verantwoordingsjaar (inclusief vergelijkende cijfers), voorzien van een toelichting.
+− Verloopoverzichten van de activa en passiva op basis van het toerekeningsbeginsel in 2019 (inclusief vergelijkende cijfers) voorzien van een toelichting;
+− De analyse van de debiteurenpositie.
+Ons oordeel inzake financiële rechtmatigheid van de matrices bestuurlijke verantwoording 2019
+Naar ons oordeel zijn de in de matrices bestuurlijke verantwoording 2019 ten behoeve van het ministerie van Volksgezondheid, Welzijn en Sport, de Nederlandse Zorgautoriteit en Zorginstituut Nederland verantwoorde financiële stromen over 2019 inzake:
+– uitbetaalde tegemoetkomingen Wet tegemoetkoming chronisch zieken en gehandicapten (Wtcg);
+– afdracht ouderbijdragen op basis van de Jeugdwet;
+– betalingen van zorgaanspraken Algemene Wet Bijzondere Ziektekosten;
+– betalingen van zorgaanspraken Wet langdurige zorg;
+– betalingen subsidieregeling extramurale behandeling;
+– betalingen subsidieregeling eerstelijns verblijf;
+– afdracht eigen bijdragen Zorg zonder Verblijf Algemene Wet Bijzondere Ziektekosten;
+– afdracht eigen bijdragen Zorg met Verblijf Algemene Wet Bijzondere Ziektekosten (AWBZ);
+– afdracht eigen bijdragen Wet langdurige zorg (Wlz);
+– afdracht eigen bijdragen Wet maatschappelijke ondersteuning (Wmo);
+– interest geldmiddelen Algemeen Fonds Bijzondere Ziektekosten (AFBZ), Fonds langdurige zorg (Flz) en Wet maatschappelijke ondersteuning (Wmo);
+– uitbetaalde uitkeringen Compensatieregeling Eigen Risico (CER);
+– interest geldmiddelen Zorgverzekeringsfonds (Zvf);
+in alle van materieel belang zijnde aspecten rechtmatig in overeenstemming met de specifiek voor het CAK van toepassing zijnde wet- en regelgeving zoals vastgelegd in het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019.
+De matrices bestuurlijke verantwoording 2019 zijn opgenomen in hoofdstuk ... van de bestuurlijke verantwoording van het CAK en bestaan uit:
+1. de matrix bestuurlijke verantwoording 2019 – toezichthouder VWS, opgenomen in hoofdstuk ... van de bestuurlijke verantwoording van het CAK op de pagina's ... tot en met ... Deze bestaat uit:
+– uitbetaalde tegemoetkomingen Wtcg;
+– afdracht ouderbijdragen op basis van de Jeugdwet;
+De basis van ons oordeel
+2. de matrix bestuurlijke verantwoording 2019 – toezichthouder NZa, opgenomen in hoofdstuk ...van de bestuurlijke verantwoording van het CAK op de pagina's ... tot en met ... Deze bestaat uit:
+– betalingen van zorgaanspraken AWBZ;
+– betalingen van zorgaanspraken Wlz;
+– betalingen subsidieregeling extramurale behandeling;
+– betalingen subsidieregeling eerstelijns verblijf;
+– afdracht eigen bijdragen Zorg zonder verblijf AWBZ;
+– afdracht eigen bijdragen Zorg met verblijf AWBZ;
+– afdracht eigen bijdragen Wlz;
+– afdracht eigen bijdragen Wmo;
+– interest geldmiddelen AFBZ, Flz en Wmo;
+– uitbetaalde uitkeringen CER;
+– interest geldmiddelen Zvf.
+Wij hebben onze controle uitgevoerd volgens het Nederlands recht, waaronder ook de Nederlandse controlestandaarden vallen en het Protocol Accountantsonderzoek CAK Bestuurlijke verantwoording 2019. Onze verantwoordelijkheden op grond hiervan zijn beschreven in de sectie 'Onze verantwoordelijkheden voor de controle van de financiële overzichten activa en passiva van de financiële stromen van de wettelijke taken CAK en de matrices bestuurlijke verantwoording'.
+Wij zijn onafhankelijk van het CAK zoals vereist in de Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten (ViO) en andere voor de opdracht relevante onafhankelijkheidsregels in Nederland. Verder hebben wij voldaan aan de Verordening gedrags- en beroepsregels accountants (VGBA).
+Wij vinden dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel.
+Beperking in gebruik en verspreidingskring
+De bestuurlijke verantwoording 2019 is opgesteld voor de raad van bestuur van het CAK, het ministerie van Volksgezondheid, Welzijn en Sport, de Nederlandse Zorgautoriteit en Zorginstituut Nederland, met als doel het CAK in staat te stellen te voldoen aan de vereiste om verantwoording af te leggen aan het ministerie van Volksgezondheid, Welzijn en Sport, de Nederlandse Zorgautoriteit en Zorginstituut Nederland. Hierdoor is de bestuurlijke verantwoording niet geschikt voor andere doeleinden. Onze controleverklaring is derhalve uitsluitend bestemd voor de raad van bestuur van het CAK, het ministerie van Volksgezondheid, Welzijn en Sport, de Nederlandse Zorgautoriteit en Zorginstituut Nederland en dient niet te worden verspreid aan of te worden gebruikt door anderen.
+B. Verklaring over de in de bestuurlijke verantwoording opgenomen andere informatie
+Naast de financiële overzichten en de matrices bestuurlijke verantwoording en onze controleverklaring daarbij omvat de bestuurlijke verantwoording ook andere informatie, die bestaat uit:
+– de verantwoording over de ordelijkheid en controleerbaarheid van het gevoerde financiële beheer van de wettelijke taken, op pagina's ... t/m ...;
+– de verantwoording over de borging van de rechtmatigheid en doelmatigheid van de financiële stromen die in de bestuurlijke verantwoording zijn opgenomen, op pagina's ... t/m ...;
+– de verantwoording over hoeveel Schengen- en Engelstalige verklaringen zijn afgegeven in het verantwoordingsjaar inclusief een prognose van het verwachte aantal aanvragen voor het volgende jaar, op pagina's ... t/m ...;
+– de kengetallen en prestatie-indicatoren, op pagina's ... t/m ...;
+– de verantwoording over klachten en bezwaar, op pagina's ... t/m ...;
+– de bestuursverklaring, op pagina's ... t/m ....;
+– ....
+Wij zijn van mening dat de andere informatie:
+– met de financiële overzichten en de matrices bestuurlijke verantwoording verenigbaar is en geen materiële afwijkingen bevat;
+– alle informatie bevat die op grond van het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019 vereist is.
+– Wij zijn van mening dat de informatie over de Schengen- en Engelstalige verklaringen:
+– aansluit met de afgegeven aantallen Schengen- en Engelstalige verklaringen zoals opgenomen in de administratie van het CAK;
+– aansluit met de prognose van de verwachte aantallen zoals vastgesteld door de Raad van Bestuur van het CAK.
+Wij hebben de andere informatie gelezen en hebben op basis van onze kennis en ons begrip, verkregen vanuit de controle van de financiële overzichten en de matrices bestuurlijke verantwoording of anderszins, overwogen of de andere informatie materiële afwijkingen bevat.
+Met onze werkzaamheden hebben wij voldaan aan de vereisten in het Protocol Accountantsonderzoek CAK Bestuurlijke verantwoording 2019 en de Nederlandse Standaard 720. Deze werkzaamheden hebben niet dezelfde diepgang als onze controlewerkzaamheden bij de financiële overzichten en de matrices bestuurlijke verantwoording.
+De raad van bestuur is verantwoordelijk voor het opstellen van de andere informatie in overeenstemming met het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019.
+C. Beschrijving van verantwoordelijkheden met betrekking tot de financiële overzichten en de matrices bestuurlijke verantwoording
+Verantwoordelijkheid van de raad van bestuur voor de financiële overzichten en de matrices bestuurlijke verantwoording
+De raad van bestuur is verantwoordelijk voor het opmaken van de financiële overzichten en de matrices bestuurlijke verantwoording, in overeenstemming met het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019.
+Ook is de raad van bestuur verantwoordelijk voor de juistheid en volledigheid van de financiële overzichten en de financiële rechtmatigheid van de matrices bestuurlijke verantwoording, in overeenstemming met de specifiek voor het CAK van toepassing zijnde wet- en regelgeving zoals vastgelegd in het Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019.
+In dit kader is de raad van bestuur tevens verantwoordelijk voor een zodanige interne beheersing die de raad van bestuur noodzakelijk acht om het opmaken van de financiële overzichten en de matrices bestuurlijke verantwoording mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fouten of fraude.
+Bij het opmaken van de financiële overzichten en de matrices bestuurlijke verantwoording moet de raad van bestuur afwegen of het CAK in staat is om haar werkzaamheden in continuïteit voort te zetten. Op grond van genoemd verslaggevingsstelsel moet de raad van bestuur de financiële overzichten en de matrices bestuurlijke verantwoording opmaken op basis van de continuïteitsveronderstelling, tenzij de raad van bestuur het voornemen heeft om het CAK te liquideren of de activiteiten te beëindigen of als beëindiging het enige realistische alternatief is. De raad van bestuur moet gebeurtenissen en omstandigheden waardoor gerede twijfel zou kunnen bestaan of het CAK haar activiteiten in continuïteit kan voortzetten, toelichten in de bestuurlijke verantwoording.
+Onze verantwoordelijkheden voor de controle van de financiële overzichten en de matrices bestuurlijke verantwoording
+Onze verantwoordelijkheid is het zodanig plannen en uitvoeren van een controleopdracht dat wij daarmee voldoende en geschikte controle-informatie verkrijgen voor het door ons af te geven oordeel.
+Onze controle is uitgevoerd met een hoge mate maar geen absolute mate van zekerheid waardoor het mogelijk is dat wij tijdens onze controle niet alle materiële fouten en fraude ontdekken.
+Afwijkingen kunnen ontstaan als gevolg van fouten of fraude en zijn materieel indien redelijkerwijs kan worden verwacht dat deze, afzonderlijk of gezamenlijk, van invloed kunnen zijn op de economische beslissingen die gebruikers op basis van de financiële overzichten en de matrices bestuurlijke verantwoording nemen. De materialiteit beïnvloedt de aard, timing en omvang van onze controlewerkzaamheden en de evaluatie van het effect van onderkende afwijkingen op ons oordeel.
+Wij hebben deze accountantscontrole professioneel kritisch uitgevoerd en hebben waar relevant professionele oordeelsvorming toegepast in overeenstemming met de Nederlandse controlestandaarden, het Protocol Accountantsonderzoek CAK Bestuurlijke verantwoording 2019, ethische voorschriften en de onafhankelijkheidseisen.
+Onze controle bestond onder andere uit:
+– het identificeren en inschatten van de risico's:
+– dat de financiële overzichten en de matrices bestuurlijke verantwoording afwijkingen van materieel belang bevat als gevolg van fouten of fraude,
+– van het niet rechtmatig tot stand komen van de verantwoorde financiële stromen die van materieel belang zijn;
+– het in reactie op deze risico's bepalen en uitvoeren van controlewerkzaamheden en het verkrijgen van controle-informatie die voldoende en geschikt is als basis voor ons oordeel. Bij fraude is het risico dat een afwijking van materieel belang niet ontdekt wordt groter dan bij fouten. Bij fraude kan sprake zijn van samenspanning, valsheid in geschrifte, het opzettelijk nalaten transacties vast te leggen, het opzettelijk verkeerd voorstellen van zaken of het doorbreken van de interne beheersing;
+– het verkrijgen van inzicht in de interne beheersing die relevant is voor de controle met als doel controlewerkzaamheden te selecteren die passend zijn in de omstandigheden. Deze werkzaamheden hebben niet als doel om een oordeel uit te spreken over de effectiviteit van de interne beheersing van het CAK;
+– het evalueren van de geschiktheid van de gebruikte grondslagen voor financiële verslaggeving, de gebruikte financiële rechtmatigheidscriteria en het evalueren van de redelijkheid van schattingen door de raad van bestuur en de toelichtingen die daarover in de financiële overzichten en de matrices bestuurlijke verantwoording staan;
+– het vaststellen dat de door de raad van bestuur gehanteerde continuïteitsveronderstelling aanvaardbaar is. Tevens het op basis van de verkregen controle-informatie vaststellen of er gebeurtenissen en omstandigheden zijn waardoor gerede twijfel zou kunnen bestaan of het CAK haar activiteiten in continuïteit kan voortzetten. Als wij concluderen dat er een onzekerheid van materieel belang bestaat, zijn wij verplicht om aandacht in onze controleverklaring te vestigen op de relevante gerelateerde toelichtingen in de financiële overzichten en de matrices bestuurlijke verantwoording. Als de toelichtingen inadequaat zijn, moeten wij onze verklaring aanpassen. Onze conclusies zijn gebaseerd op de controle-informatie die verkregen is tot de datum van onze controleverklaring. Toekomstige gebeurtenissen of omstandigheden kunnen er echter toe leiden dat een organisatie haar continuïteit niet langer kan handhaven;
+– het evalueren van de presentatie, structuur en inhoud van de financiële overzichten en de matrices bestuurlijke verantwoording;
+– het evalueren of de financiële overzichten en de matrices bestuurlijke verantwoording, de onderliggende transacties en gebeurtenissen zonder materiële afwijkingen weergeven en of de verantwoorde financiële stromen in alle van materieel belang zijnde aspecten rechtmatig, juist en volledig zijn.
+Wij communiceren met de raad van bestuur onder andere over de geplande reikwijdte en timing van de controle en over de significante bevindingen die uit onze controle naar voren zijn gekomen, waaronder eventuele significante tekortkomingen in de interne beheersing.
+Plaats, datum
+Naam accountantsorganisatie
+Naam accountant
+## 6 Accountantsrapport
+## 6.1 Inleiding
+Naast de controleverklaring legt de externe accountant in een apart accountantsrapport zijn bevindingen uit de controleopdracht vast.
+## 6.2 Inhoud
+De externe accountant verwijst voor de uitkomsten van zijn onderzoek naar de bestuurlijke verantwoording naar zijn controleverklaring.
+In het accountantsrapport neemt de externe accountant de volgende onderdelen op:
+1. Onderbouwing oordeel van de controleverklaring bij de bestuurlijke verantwoording
+De externe accountant gaat in op de onderbouwing van zijn oordeel en rapporteert bijzonderheden. Hij rapporteert onder andere over:
+– Eventuele bijzonderheden van de in de bestuurlijke verantwoording opgenomen matrices en overzichten van activa en passiva inclusief verloopoverzichten en toelichtingen (van de financiële stromen van de door het CAK uitgevoerde wettelijke taken in het verantwoordingsjaar).
+– Onderbouwing oordeel over de naleving van de voorschriften van de bestuurlijke verantwoording.
+– De analyse van de debiteurenpositie zoals vermeld in paragraaf 4.3.
+2. Foutentabel
+De externe accountant neemt een foutentabel over het verslagjaar op. Bij de foutentabel neemt de externe accountant een toelichting op over de oorzaak van de fouten en onzekerheden.
+Ook rapporteert hij over de opvolging door het CAK van fouten en onzekerheden in voorgaande verslagjaren.
+Plaats, datum
+Naam accountantsorganisatie
+Naam accountant
