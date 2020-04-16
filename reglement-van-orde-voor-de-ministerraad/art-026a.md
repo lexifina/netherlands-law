@@ -1,0 +1,2 @@
+# Artikel 26a
+De minister-president kan, zo nodig en zo lang de continuïteit van de besluitvorming in het kader van de bestrijding van het coronavirus (covid-19) dit noodzakelijk maakt, beslissingen nemen, zo nodig in afwijking van het reglement, met betrekking tot de vergaderingen van de raad, zijn onderraden en commissies ten aanzien van de aanlevering van stukken, de aanwezigheid van anderen dan genoemd in de artikelen 2 en 3, de werkwijze, de geheimhouding en de verslaglegging.
