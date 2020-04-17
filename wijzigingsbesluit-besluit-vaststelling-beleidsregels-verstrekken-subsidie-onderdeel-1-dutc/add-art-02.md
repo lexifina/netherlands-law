@@ -1,0 +1,2 @@
+# Artikel II
+De bijlage bij het besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 24 augustus 2016 tot vaststelling van beleidsregels voor het verstrekken van subsidie in het kader van onderdeel 1 van het Dutch Trade and Investment Fund blijft van toepassing op de aanvragen die voor de inwerkingtreding van deze wijziging zijn ingediend en op financieringen die voor de inwerkingtreding van deze wijziging zijn verstrekt.
