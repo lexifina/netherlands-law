@@ -1,0 +1,3 @@
+# Artikel 4.. Voortgang
+Ten minste 75% van de projectperiode moet verstreken zijn en er moet echt sprake zijn van een achterstand, waarbij daarnaast 50% van de meetbare output moet zijn bereikt en/of 50% van de kosten moet zijn gemaakt. Van deze voorwaarden kan worden afgeweken indien door de aanvrager aannemelijk kan worden gemaakt dat binnen het oorspronkelijke projectplan het realisatieproces andere realisatie-parameters kent.
+Voor projecten die te kampen hebben met de PAS- (stikstof depositie), PFAS (bodemvervuiling met poly- en perfluoralkylstoffen) of de Coronacrisis problematiek gelden deze vereisten niet.

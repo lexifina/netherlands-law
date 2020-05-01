@@ -1,0 +1,2 @@
+# Artikel 5.. Kunnen voldoen aan eindtermijn betalingen POP3 regeling
+De Europese POP3 regelgeving kent een betaling eindtermijn. Deze is gesteld op N+3 vanaf het einde van de POP3 termijn op 31 december 2020. Een verzoek tot betaling zal derhalve nog op een zodanig tijdstip moeten worden ingediend dat op 31 december 2023 door de RVO de betalingsbeschikking kan zijn afgegeven. Op dit moment wordt daarvoor als richtlijn meegegeven dat een verzoek tot definitieve afrekening uiterlijk eind 2022 binnen moet zijn bij de SNN.
