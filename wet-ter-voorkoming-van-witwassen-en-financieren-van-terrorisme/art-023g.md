@@ -1,0 +1,4 @@
+# Artikel 23g
+1. Het is een ieder die in een derde land woonachtig of gevestigd is of zijn zetel heeft verboden beroeps- of bedrijfsmatig in Nederland diensten aan te bieden voor het wisselen tussen virtuele valuta en fiduciaire valuta.
+2. Het is een ieder die in een derde land woonachtig of gevestigd is of zijn zetel heeft verboden beroeps- of bedrijfsmatig in Nederland bewaarportemonnees aan te bieden.
+3. Het verbod in het eerste onderscheidenlijk het tweede lid is niet van toepassing op een aanbieder die in een door Onze Minister aangewezen derde land woonachtig of gevestigd is of zijn zetel heeft, waar toezicht op het uitoefenen van het beroep of bedrijf, bedoeld in het eerste onderscheidenlijk het tweede lid, wordt uitgeoefend dat in voldoende mate waarborgen biedt ten aanzien van de belangen die deze wet beoogt te beschermen en de aanbieder in het desbetreffende derde land onder toezicht staat.

@@ -9,9 +9,10 @@ a. het verzoek de relevante feiten en achtergrondinformatie bevat; en
 b. in het verzoek uiteen is gezet wat de redenen zijn voor het verzoek en hoe de gevraagde informatie zal worden gebruikt.
 5. Indien een verzoek als bedoeld in het tweede lid in behandeling wordt genomen, gebruikt de Financiële inlichtingen eenheid voor het vergaren van de verzochte informatie al haar bevoegdheden op grond van deze wet en verstrekt zij de verzochte informatie onverwijld aan de financiële inlichtingen eenheid van de andere lidstaat.
 6. Aan een verzoek als bedoeld in het tweede lid wordt niet voldaan indien het verstrekken van de gevraagde informatie zich niet zou verdragen met de Nederlandse wet.
-7. Indien een financiële inlichtingen eenheid van een andere lidstaat verzoekt om toestemming voor het delen van informatie afkomstig van de Financiële inlichtingen eenheid met bevoegde autoriteiten in een andere lidstaat, verstrekt de Financiële inlichtingen eenheid deze toestemming onverwijld en zo ruim mogelijk, tenzij het verlenen van toestemming:
+7. De Financiële inlichtingen eenheid wijst een centraal contactpunt aan dat verantwoordelijk is voor de ontvangst van de verzoeken bedoeld in het tweede lid.
+8. Indien een financiële inlichtingen eenheid van een andere lidstaat verzoekt om toestemming voor het delen van informatie afkomstig van de Financiële inlichtingen eenheid met bevoegde autoriteiten in een andere lidstaat, verstrekt de Financiële inlichtingen eenheid deze toestemming onverwijld en zo ruim mogelijk, tenzij het verlenen van toestemming:
 a. niet past binnen het kader van de wetgeving ter voorkoming van witwassen en financieren van terrorisme;
 b. strijdig is met wettelijke bepalingen;
 c. een strafrechtelijk onderzoek kan schaden; of
 d. de belangen van natuurlijke of rechtspersonen op wie de informatie betrekking heeft onevenredig kan schaden.
-8. Indien het verstrekken van informatie of het verlenen van toestemming op grond van het zesde lid, respectievelijk het zevende lid, wordt geweigerd, wordt dit gemotiveerd kenbaar gemaakt aan de financiële inlichtingen eenheid die om de informatie of toestemming heeft verzocht.
+9. Indien het verstrekken van informatie of het verlenen van toestemming op grond van het zesde lid, onderscheidenlijk het achtste lid, wordt geweigerd, wordt dit gemotiveerd kenbaar gemaakt aan de financiële inlichtingen eenheid die om de informatie of toestemming heeft verzocht.

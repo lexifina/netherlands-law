@@ -15,6 +15,7 @@
 ### § 3.3. Vrijwaring
 ### § 3.4. De Commissie inzake de meldingsplicht ongebruikelijke transacties
 ### § 3.5. Geheimhouding
+## Hoofdstuk 3A. Registratie van aanbieders van diensten voor het wisselen tussen virtuele valuta en fiduciaire valuta en aanbieders van bewaarportemonnees
 ## Hoofdstuk 4. Toezicht en handhaving
 ### § 4.1. Toezicht op de naleving en samenwerking
 ### § 4.2. Handhavingsbevoegdheden
