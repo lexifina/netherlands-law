@@ -1,0 +1,7 @@
+# Artikel 1b. Meer uren werken
+1. De rechterlijk ambtenaar kan een aanvraag indienen om in een bepaalde periode meer uren te werken dan de voor hem geldende arbeidsduur. Het aantal meer te werken uren is maximaal 200 uur per kalenderjaar. Bij een onvolledige arbeidsduur geldt een naar evenredigheid vastgesteld lager aantal hele uren als maximum. De uitkomst wordt zo nodig afgerond op hele uren naar boven. Het totaal van de arbeidsduur en het ingevolge dit lid toegewezen aantal meer te werken uren bedraagt niet meer dan gemiddeld 40 uur per week. Voor dezelfde periode kan niet een tweede aanvraag om nog meer uren te mogen werken worden ingediend.
+2. Per meer gewerkt uur ontvangt de rechterlijk ambtenaar een vergoeding. De vergoeding wordt uitbetaald vóór of bij aanvang van de periode waarin de rechterlijk ambtenaar meer uren werkt.
+3. Het eerste lid is niet van toepassing op de rechterlijk ambtenaar:
+a. wiens gemiddelde wekelijkse werktijd op grond van artikel 8d van het Besluit rechtspositie rechterlijke ambtenaren is teruggebracht;
+b. die op grond van artikel 33n van het Besluit rechtspositie rechterlijke ambtenaren ouderschapsverlof geniet;
+c. die buitengewoon verlof van lange duur geniet.

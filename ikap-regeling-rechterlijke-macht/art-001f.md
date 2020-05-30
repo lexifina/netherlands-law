@@ -1,0 +1,4 @@
+# Artikel 1f. Opschorting als gevolg van het niet verrichten van arbeid
+1. Zodra de rechterlijk ambtenaar in verband met ziekte gedurende een aaneengesloten periode van vier weken geheel of gedeeltelijk ongeschikt is zijn dienst te verrichten, wordt voor de verdere duur van de arbeidsongeschiktheid de uitbetaling van de maandelijkse vergoeding voor meer uren werken of de inhouding voor minder uren werken, stopgezet.
+2. Zodra de rechterlijk ambtenaar weer volledig arbeidsgeschikt is, besluit de functionele autoriteit, na overleg met de rechterlijk ambtenaar, of en op welke wijze de toegewezen IKAP-aanvraag wordt voortgezet.
+3. De voorgaande leden worden op overeenkomstige wijze toegepast zodra de rechterlijk ambtenaar om bijzondere redenen, anders dan vanwege arbeidsongeschiktheid wegens ziekte, vakantie of verlof, gedurende een aaneengesloten periode van tenminste vier weken geen arbeid verricht.
