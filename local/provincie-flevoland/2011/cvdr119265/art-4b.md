@@ -1,0 +1,3 @@
+# Artikel 4b.. Kaart Zoekgebied tijdelijk uitzonderlijk gebruik terreinen door luchtvaart
+1. De kaart voorziet in een zoekgebied waar medewerking kan worden verleend aan een verzoek om tijdelijk uitzonderlijk gebruik als bedoeld in voorgaande artikelen.
+2. Ter informatie is op de kaart als aanduiding de CTR ingetekend. In de CTR gelden, voor gebruikers van een verleende TUG, regels zoals dat de gebruiker bevoegd is om in een CTR te vliegen indien de gebruiker overleg voert via de radio met de LVNL, voor de vlucht een vliegplan wordt ingediend bij LVNL, het luchtvaarttuig is voorzien van een transponder en een radio die voldoet aan de geldende eisen.
