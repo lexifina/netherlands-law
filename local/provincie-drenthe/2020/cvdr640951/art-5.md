@@ -1,0 +1,6 @@
+# Artikel 5.. Taken voorzitter
+De voorzitter draagt in ieder geval zorg voor:
+a. het tijdig en periodiek bijeenroepen van de werkgeverscommissie;
+b. het leiden van de vergaderingen;
+c. het doen naleven van deze verordening;
+d. het ondertekenen van de stukken en de besluiten die van deze commissie uitgaan, alsmede het zorg dragen voor de uitvoering van de besluiten van de werkgeverscommissie.
