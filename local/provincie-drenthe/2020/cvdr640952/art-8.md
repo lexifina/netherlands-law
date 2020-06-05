@@ -1,0 +1,2 @@
+# Artikel 8.. Ondersteuning onderzoekscommissie
+Indien Provinciale Staten een onderzoekscommissie als bedoeld in artikel 151a van de Provinciewet instelt, ondersteunt de Statengriffier of de senior Statenadviseur/plaatsvervangend griffier deze commissie.

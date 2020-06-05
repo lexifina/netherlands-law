@@ -1,0 +1,3 @@
+# Artikel 5.. Bijstand statenvoorzitter
+1. De Statengriffier staat de voorzitter van Provinciale Staten ter zijde bij zijn zorg voor een goede voorbereiding en een goed verloop van de vergaderingen van Provinciale Staten.
+2. De senior Statenadviseurs of de Statengriffier staan de voorzitters van de Statencommissies ter zijde bij hun zorg voor een goede voorbereiding en een goed verloop van de vergaderingen van de Statencommissies.

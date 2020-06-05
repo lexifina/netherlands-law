@@ -1,0 +1,4 @@
+# Artikel 10.. Organisatie Statengriffie
+1. De Statengriffier geeft leiding aan de Statengriffie.
+2. De Statengriffier bewaakt de eenheid in de uitoefening van de taken van de Statengriffie.
+3. De senior Statenadviseur/plaatsvervangend griffier en de overige medewerkers van de Statengriffie handelen overeenkomstig de aanwijzingen van de Statengriffier.

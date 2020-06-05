@@ -1,0 +1,3 @@
+# Artikel 9.. Ambtelijke bijstand
+De Statengriffier draagt er, zo nodig in samenwerking met de provinciesecretaris, zorg voor dat de leden van Provinciale Staten desgevraagd ambtelijke bijstand verkrijgen.
+Voorschriften hierover worden gesteld bij de Verordening op de ambtelijke bijstand.

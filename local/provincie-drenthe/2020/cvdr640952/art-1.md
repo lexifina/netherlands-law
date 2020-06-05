@@ -1,0 +1,4 @@
+# Artikel 1.. Organisatie
+1. De Statengriffie bestaat uit een dienst onder leiding van de Statengriffier.
+2. De taken van de Statengriffie worden vastgesteld door Provinciale Staten.
+3. Voor toepassing van de Wet op de ondernemingsraden wordt de ambtelijke organisatie ten behoeve van Gedeputeerde Staten en de Statengriffie als één onderneming beschouwd.
