@@ -1,0 +1,2 @@
+# Artikel 20a
+Plant Research International BV, Business Unit Biointeracties, bijen@wur, te Wageningen voert de onderzoeken uit, te verrichten ingevolge artikel 7, vierde lid, van verordening (EU) nr. 206/2010 van de Commissie van 12 maart 2010 tot vaststelling van lijsten van derde landen en gebieden, of delen daarvan, waaruit bepaalde dieren en vers vlees in de Europese Unie mogen worden binnengebracht, en van de voorschriften inzake veterinaire certificering (PbEU L 73).
