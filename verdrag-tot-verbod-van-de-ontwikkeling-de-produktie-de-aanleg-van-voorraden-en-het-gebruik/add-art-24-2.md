@@ -1,0 +1,2 @@
+# Artikel XXIV. Authentieke teksten
+Dit Verdrag, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.

@@ -1,0 +1,2 @@
+# Article XXIV. Authentic texts
+This Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations.
