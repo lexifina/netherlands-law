@@ -1,2 +1,0 @@
-# Artikel 8b
-Indien een inspecteur heeft geconstateerd dat een luchtvaartmaatschappij één van de in de bijlage bij deze beleidsregel opgenomen boetecatalogus omschreven overtredingen heeft gepleegd niet zijnde een overtreding als bedoeld in de artikelen 8 of 8a, legt de Staatssecretaris van Infrastructuur en Milieu aan de desbetreffende luchtvaartmaatschappij een bestuurlijke boete van 1.000 € op.
