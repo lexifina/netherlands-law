@@ -4,7 +4,7 @@
 ## § 3. De veiligheidsregio
 ## § 4. De brandweer
 ## § 5. De GHOR
-## § 6. De meldkamer
+## § 6. De meldkamerfunctie
 ## § 7. Coördinerend functionaris
 ## § 8. Landelijke doelstellingen
 ## § 9. Bovenlokale rampen en crises
