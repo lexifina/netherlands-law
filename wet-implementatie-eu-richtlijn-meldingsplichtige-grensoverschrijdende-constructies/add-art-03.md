@@ -1,0 +1,4 @@
+# Artikel III
+In afwijking van artikel 10h, elfde lid, van de Wet op de internationale bijstandsverlening en de daarop gebaseerde bepalingen verstrekt degene die ingevolge artikel 10h van die wet bij de heffing van belastingen verplicht is de gegevens en inlichtingen, bedoeld in artikel 10h, tweede lid, van die wet, te verstrekken, aan Onze Minister van Financiën op een door hem voorgeschreven wijze die gegevens en inlichtingen ter zake van meldingsplichtige grensoverschrijdende constructies als bedoeld in artikel 2d, onderdeel b, van die wet:
+a. waarvan de eerste stap van de implementatie is gezet tussen 25 juni 2018 en 1 juli 2020: uiterlijk 31 augustus 2020;
+b. die tussen 25 juni 2018 en 1 juli 2020 gereed zijn voor implementatie en waarvan de eerste stap van de implementatie is gezet op of na 1 juli 2020: uiterlijk binnen dertig dagen te rekenen vanaf het ogenblik dat die eerste stap is gezet.
