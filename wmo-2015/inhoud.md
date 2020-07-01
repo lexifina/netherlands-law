@@ -14,8 +14,8 @@
 ### § 1. Voorzieningen maatschappelijke ondersteuning van de centrale overheid
 ### § 2. Toezicht en handhaving
 ### § 3. Bekostiging voorzieningen
-## Hoofdstuk 4. Advies- en meldpunt huiselijk geweld en kindermishandeling
-### § 1. Advies- en meldpunt huiselijk geweld en kindermishandeling
+## Hoofdstuk 4. Veilig Thuis
+### § 1. Taken
 ### § 2. Kwaliteit en rechtspositie
 ### § 3. Toezicht en handhaving
 ## Hoofdstuk 5. Gegevensverwerking
