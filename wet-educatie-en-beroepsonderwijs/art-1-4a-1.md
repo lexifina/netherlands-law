@@ -6,12 +6,9 @@
 5. Onze Minister besluit binnen drie maanden na ontvangst van een aanvraag als bedoeld in het eerste lid. Een begunstigende beschikking is voor het eerst van kracht ten aanzien van een opleiding educatie die aanvangt nadat die beschikking is bekend gemaakt.
 6. Het in het eerste lid bedoelde bevoegd gezag verstrekt Onze Minister jaarlijks voor 15 oktober een opgave van de opleidingen educatie, bedoeld in het eerste lid, die de instelling verzorgt in het lopende studiejaar, alsmede van de opleidingen educatie die de instelling heeft verzorgd in het daaraan voorafgaande studiejaar.
 7. Voor zover ten aanzien van een instelling die een opleiding educatie verzorgt, toepassing is gegeven aan het eerste lid, wordt die instelling voor de toepassing van deze wet wat deze opleiding betreft, aangemerkt als een andere instelling dan bedoeld in artikel 1.1.1, onder b.
-8. Voor een andere dan een in artikel 1.1.1, onderdeel b, bedoelde instelling of een instelling zijn voor zover het betreft een opleiding educatie als bedoeld in artikel 7.3.1, eerste lid, onderdeel a, ten aanzien waarvan toepassing is gegeven aan het eerste lid van overeenkomstige toepassing:
-a. artikel 2.3.6a, eerste, tweede, vierde, vijfde, en zevende tot en met negende lid, met dien verstande dat van de gegevens, bedoeld in artikel 2.3.6a, tweede lid, uitsluitend worden verstrekt de gegevens, bedoeld in de onderdelen a tot en met c, e tot en met i, en k tot en met m, waarbij onderdeel g wordt gelezen als: het uitstroomniveau of het behaalde diploma en de datum waarop het diploma is behaald;
-b. artikel 2.3.6b;
-c. artikel 2.3.6c, eerste en tweede lid, met dien verstande dat artikel 2.3.6c, eerste lid, onderdeel a, wordt gelezen als: Onze Minister voor zover deze gegevens noodzakelijk zijn voor de beleidsvoorbereiding;
-d. artikel 2.3.6d;
-e. de artikelen 8.1.1a, 8.1.8 en 8.1.8a; en
-f. de artikelen 8.3.1 tot en met 8.3.3.
-9. Voor een opleiding educatie als bedoeld in de aanhef van het achtste lid kan bij ministeriële regeling een nadere specificatie worden gegeven van de gegevens, bedoeld in artikel 2.3.6a, tweede lid, voor zover dat lid van overeenkomstige toepassing is verklaard in het achtste lid, onderdeel a, en worden bepaald welke van die gegevens niet langer behoeven te worden verstrekt. Bij ministeriële regeling kunnen voorts regels worden gesteld omtrent de tijdstippen en de wijze van verstrekking van die gegevens. Bij ministeriële regeling worden regels gesteld ter uitvoering van artikel 2.3.6c, eerste en tweede lid, voor zover die leden van overeenkomstige toepassing zijn verklaard in het achtste lid, onderdeel c, in ieder geval omtrent de inhoud en de samenstelling van die gegevens, de wijze waarop de gegevens uit het basisregister onderwijs worden verstrekt, de tijdstippen waarop de gegevens worden verstrekt, en de perioden waarop de gegevens betrekking hebben.
-10. Artikel 1.3.9 is van overeenkomstige toepassing op instellingen als bedoeld in het eerste lid.
+8. Voor een andere dan een in artikel 1.1.1, onderdeel b, bedoelde instelling of een instelling zijn voor zover het betreft een opleiding voortgezet algemeen volwassenenonderwijs ten aanzien waarvan toepassing is gegeven aan het eerste lid van overeenkomstige toepassing:
+a. artikel 2.3.6a, eerste, vierde en zevende tot en met negende lid;
+b. artikel 2.3.6d;
+c. de artikelen 8.1.1a, 8.1.8 en 8.1.8a; en
+d. de artikelen 8.3.1 tot en met 8.3.3.
+9. Artikel 1.3.9 is van overeenkomstige toepassing op instellingen als bedoeld in het eerste lid.

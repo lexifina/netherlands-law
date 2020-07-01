@@ -1,38 +1,14 @@
 # Artikel 164a. Gebruik persoonsgebonden nummer door bevoegd gezag
 1. Het bevoegd gezag kan het persoonsgebonden nummer van een leerling gebruiken in het verkeer met de leerling op wie het nummer betrekking heeft, of, indien de leerling minderjarig of handelingsonbekwaam is, met de ouders van deze leerling.
-2. Het bevoegd gezag verstrekt het persoonsgebonden nummer van iedere leerling aan Onze Minister, tezamen met de volgende gegevens van de leerling:
-a. geslacht, geboortedatum en postcode van de woonplaats;
-b. de datum van in- of uitschrijving;
-c. de soort onderwijs;
-d. de schoolsoort;
-e. het leerjaar of de groep;
-f. indien van toepassing de aanduiding dat het betreft een leerling met een niet-Nederlandse culturele achtergrond als bedoeld in artikel 1 van het Besluit bekostiging WEC;
-g. het registratienummer van de school of, indien sprake is van een nevenvestiging, het registratienummer daarvan;
-h. bekostigingsindicatie;
-i. de onderwijssoort dan wel het cluster, bedoeld in artikel 2, vierde lid, onder d;
-j. indien een leerling is toegelaten met toepassing van artikel 40, derde lid, tweede volzin, de indicatie voor het soort verblijf;
-k. indien een leerling is ingeschreven op een school niet zijnde een instelling: het registratienummer van het samenwerkingsverband, bedoeld in de Wet op het primair onderwijs dan wel de Wet op het voortgezet onderwijs, dat de leerling toelaatbaar heeft verklaard tot het speciaal dan wel voortgezet speciaal onderwijs en het volgnummer van de toelaatbaarheidsverklaring, bedoeld in artikel 40, tiende en twaalfde lid;
-l. de begin- en einddatum van de periode waarvoor de leerling toelaatbaar is verklaard tot het speciaal dan wel voortgezet speciaal onderwijs;
-m. de bekostigingscategorie, bedoeld in de artikelen 118, tiende lid, en 132, vierde lid, van de Wet op het primair onderwijs en de artikelen 85b, derde lid, en 89a, derde lid, van de Wet op het voortgezet onderwijs;
-n. indien van toepassing de uitslag van de centrale eindtoets of andere eindtoets, bedoeld in artikel 18b, het niveau waarop de centrale eindtoets of andere eindtoets is afgelegd en indien geen centrale eindtoets of andere eindtoets is afgelegd de reden daarvan; en
-o. het schooladvies, bedoeld in artikel 43, tweede lid;
-n. indien van toepassing de leerweg of het profiel van het onderwijs, bedoeld in artikel 14a;
-o. het behaalde diploma ingevolge artikel 14a, eerste lid, onderdeel b, of artikel 14b; en
-p. de vakken waarin examen is afgelegd, de cijfers van het schoolexamen en het centraal examen, de eindcijfers, de uitslag van het eindexamen of deeleindexamen ingevolge artikel 14a, eerste lid, onderdeel b, of artikel 14b, en de datum waarop deze uitslag is bepaald.
-2a. Het bevoegd gezag van een instelling verstrekt tot een bij koninklijk besluit te bepalen tijdstip en indien van toepassing aan Onze Minister het persoonsgebonden nummer van een leerling van een school als bedoeld in de Wet op het primair onderwijs, een leerling van een school als bedoeld in de Wet op de expertisecentra, een leerling van een school als bedoeld in de Wet op het voortgezet onderwijs of een deelnemer van een instelling als bedoeld in de Wet educatie en beroepsonderwijs, die conform de taakomschrijving, bedoeld in artikel 9, eerste lid, aanhef en onderdeel b, wordt begeleid door een aan de instelling verbonden leraar, tezamen met de volgende gegevens:
-a. geslacht, geboortedatum en postcode van de woonplaats van de leerling of deelnemer;
-b. het registratienummer van de school of instelling waar de leerling respectievelijk de deelnemer is ingeschreven of, indien sprake is van een nevenvestiging, het registratienummer daarvan; en
-c. de begin- en de einddatum van de periode waarvoor de leerling of deelnemer wordt begeleid.
-2b. Het bevoegd gezag van de scholen, genoemd in artikel XXIVA van de Wet van 11 oktober 2012 tot wijziging van enkele onderwijswetten in verband met een herziening van de organisatie en financiering van de ondersteuning van leerlingen in het basisonderwijs, speciaal en voortgezet speciaal onderwijs, voortgezet onderwijs en beroepsonderwijs (Stb. 2012, 533) verstrekt tot een bij koninklijk besluit te bepalen tijdstip en indien van toepassing aan Onze Minister het persoonsgebonden nummer van de leerling van een school als bedoeld in de Wet op het primair onderwijs, de leerling van een school als bedoeld in de Wet op de expertisecentra, de leerling van een school als bedoeld in de Wet op het voortgezet onderwijs of de deelnemer van een instelling als bedoeld in de Wet educatie en beroepsonderwijs, die wordt begeleid door een leraar verbonden aan een school die genoemd wordt in artikel XXIVA van de Wet van 11 oktober 2012 tot wijziging van enkele onderwijswetten in verband met een herziening van de organisatie en financiering van de ondersteuning van leerlingen in het basisonderwijs, speciaal en voortgezet speciaal onderwijs, voortgezet onderwijs en beroepsonderwijs (Stb. 2012, 533) tezamen met de volgende gegevens:
-a. geslacht, geboortedatum, en postcode van de woonplaats van de leerling of deelnemer;
-b. het registratienummer van de school of instelling waar de leerling respectievelijk de deelnemer is ingeschreven of, indien sprake is van een nevenvestiging, het registratienummer daarvan; en
-c. de begin- en de einddatum van de periode waarvoor de leerling of deelnemer wordt begeleid.
-3. Bij ministeriële regeling kan een nadere specificatie worden gegeven van de gegevens, bedoeld in het tweede en achtste lid, en kan worden bepaald welke van de gegevens, bedoeld in het tweede en achtste lid, niet langer behoeven te worden verstrekt. Bij ministeriële regeling kunnen voorts regels worden gesteld omtrent de tijdstippen en de wijze van verstrekking van de gegevens, bedoeld in het tweede en achtste lid.
-4. Het bevoegd gezag kan het persoonsgebonden nummer van een leerling, al dan niet tezamen met een of meer van de gegevens, bedoeld in het tweede en achtste lid, gebruiken in het verkeer met Onze Minister ten behoeve van de vaststelling van de bekostiging van de school. De vorige volzin is van overeenkomstige toepassing op het persoonsgebonden nummer van een leerling als bedoeld in artikel 8a, eerste lid, die is ingeschreven bij een school als bedoeld in de Wet op het primair onderwijs, de Wet op het voortgezet onderwijs of de Wet educatie en beroepsonderwijs.
+2. [Vervallen.]
+2a. [Vervallen.]
+2b. [Vervallen.]
+3. [Vervallen.]
+4. Het bevoegd gezag kan het persoonsgebonden nummer van een leerling, al dan niet tezamen met een of meer van de gegevens, bedoeld in artikel 12, eerste lid, van de Wet register onderwijsdeelnemers, gebruiken in het verkeer met Onze Minister ten behoeve van de vaststelling van de bekostiging van de school. De vorige volzin is van overeenkomstige toepassing op het persoonsgebonden nummer van een leerling als bedoeld in artikel 8a, eerste lid, die is ingeschreven bij een school als bedoeld in de Wet op het primair onderwijs, de Wet op het voortgezet onderwijs of de Wet educatie en beroepsonderwijs.
 5. Het bevoegd gezag en het hoofd, bedoeld in artikel 1, onder d, van de Leerplichtwet 1969, gebruiken het persoonsgebonden nummer van een leerling in contacten met een gemeente in het kader van de Leerplichtwet 1969, tezamen met de gegevens die noodzakelijk zijn voor het toezicht op de naleving van die wet door de gemeente.
 6. Het bevoegd gezag gebruikt bij de opgave aan burgemeester en wethouders, bedoeld in artikel 42b, eerste lid, en artikel 47a, eerste lid, het persoonsgebonden nummer van de betrokkene.
 7. Het bevoegd gezag gebruikt het persoonsgebonden nummer van een leerling in het contact met een andere school of een school of instelling voor ander onderwijs ten behoeve van de in- en uitschrijving van die leerling en bij het overleggen van het onderwijskundig rapport, bedoeld in artikel 43.
-8. Indien de gegevens over de nationaliteit van de leerling niet zijn opgenomen in de basisregistratie personen worden deze gegevens door het bevoegd gezag verstrekt aan Onze Minister.
+8. [Vervallen.]
 9. Het bevoegd gezag gebruikt het persoonsgebonden nummer van een leerling in het kader van de uitvoering van subsidieregelingen van het Europees Sociaal Fonds.
 10. Het bevoegd gezag verstrekt geen persoonsgebonden nummer van een leerling ter uitvoering van artikel 107, vijfde lid, van de Vreemdelingenwet 2000, anders dan ter nakoming van verplichtingen als referent in de zin van artikel 1 van die wet.
 11. Het bevoegd gezag gebruikt het persoonsgebonden nummer van een leerling in contacten met een school als bedoeld in de Wet op het primair onderwijs, de Wet op het voortgezet onderwijs of de Wet educatie en beroepsonderwijs in het kader van de ondersteuning van de school op grond van artikel 8a, eerste lid.
