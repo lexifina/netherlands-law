@@ -1,0 +1,5 @@
+# Artikel 7a.1
+1. Een partij gaffelantilopen, herten, muskusherten, dwergherten, giraffen, okapi's, eeltpotigen, nijlpaarden, pecari's, neushoorns, tapirs, olifanten en holhoornigen niet zijnde runderen, geiten en schapen is afkomstig uit een derde land dat voorkomt op een krachtens artikel 3, eerste lid, van richtlijn 2004/68/EG vastgestelde lijst.
+2. Het in het eerste lid bedoelde derde land biedt de in artikel 7 van richtlijn 2004/68/EG gegeven garanties en de partij dieren, bedoeld in het eerste lid, voldoet, voor zover van toepassing, aan de krachtens artikel 6, eerste lid, van richtlijn 2004/68/EG vastgestelde veterinairrechtelijke voorschriften, tenzij krachtens artikel 8 van richtlijn 2004/68/EG specifieke bepalingen zijn vastgesteld, in welk geval deze gelden.
+3. Een partij dieren als bedoeld in het eerste lid gaat vergezeld van een veterinair certificaat als bedoeld in artikel 11, eerste lid, van richtlijn 2004/68/EG.
+4. Een partij dieren als bedoeld in het eerste lid, voldoet, voor zover van toepassing, aan de krachtens artikel 13 van richtlijn 2004/68/EG vastgestelde uitvoeringsbepalingen.
