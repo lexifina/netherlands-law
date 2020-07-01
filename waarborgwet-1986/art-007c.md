@@ -1,7 +1,0 @@
-# Artikel 7c
-1. Een waarborginstelling legt jaarlijks vóór 1 november de vanaf 1 februari daarop volgend te berekenen tarieven voor het onderzoek van werken met het oog op het verkrijgen van stempelmerken als bedoeld in artikel 9, eerste lid, en voor het plaatsen van deze merken ter goedkeuring aan Onze Minister van Economische Zaken en Klimaat voor. Zij worden na goedkeuring door de waarborginstelling in de Staatscourant bekendgemaakt.
-2. Onverminderd artikel 17 van de Kaderwet zelfstandige bestuursorganen kan Onze Minister een goedkeuring als bedoeld in het eerste lid weigeren indien de tarieven hoger zijn dan, uitgaande van een redelijke toerekening van de aan het onderzoek en de stempeling van de desbetreffende werken verbonden kosten, noodzakelijk is.
-3. Het in het eerste lid, eerste volzin, bedoelde besluit omtrent goedkeuring wordt binnen 8 weken na de verzending ter goedkeuring bekendgemaakt.
-4. Indien de vanaf 1 februari te berekenen tarieven niet vóór 1 januari daaraan voorafgaand zijn goedgekeurd, kan Onze Minister deze tarieven zelf vaststellen.
-5. Van een besluit tot vaststelling van tarieven als bedoeld in het vierde lid wordt door Onze Minister mededeling gedaan door plaatsing in de Staatscourant.
-6. Een waarborginstelling kan de tarieven, bedoeld in het eerste lid, gedurende het jaar waarvoor zij gelden, wijzigen. Een wijziging van de tarieven wordt ter goedkeuring aan Onze Minister van Economische Zaken en Klimaat voorgelegd. Het eerste lid, tweede volzin, alsmede het tweede en derde lid zijn van toepassing.
