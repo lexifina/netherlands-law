@@ -46,7 +46,7 @@ Verordening (EG) nr. 1435/2003 van de Raad van 22 juli 2003 betreffende het stat
 Verordening (EG) nr. 2157/2001 van de Raad van 8 oktober 2001 betreffende het statuut van de Europese vennootschap (SE) (PbEG 2001, L 294): artikel 8, veertiende lid, tweede alinea
 Verordening (EU) nr. 806/2014 van het Europees parlement en de Raad van 15 juli 2014 tot vaststelling van eenvormige regels en een eenvormige procedure voor de afwikkeling van kredietinstellingen en bepaalde beleggingsondernemingen in het kader van een gemeenschappelijk afwikkelingsmechanisme en een gemeenschappelijk bankenafwikkelingsfonds en tot wijziging van Verordening (EU) nr. 1093/2010 van het Europees parlement en de Raad (PbEU 2014, L 225): de artikelen 16, 18 en 21
 Verordening (EU) nr. 2017/1129 van het Europees Parlement en de Raad van 14 juni 2017 betreffende het prospectus dat moet worden gepubliceerd wanneer effecten aan het publiek worden aangeboden of tot de handel op een gereglementeerde markt worden toegelaten en tot intrekking van Richtlijn 2003/71/EG (PbEU 2017, L 168): de artikelen 20, eerste en vijfde lid, en 23, eerste lid
-Waarborgwet 1986
+Waarborgwet 2019, met uitzondering van artikel 38
 Warmtewet, met inbegrip van een op grond van artikel 5, eerste lid, genomen besluit tot vaststelling van een maximumprijs, en met uitzondering van artikel 18
 Wedervergeldingswet zeescheepvaart:
 a. een verlening of weigering van een vergunning of een ontheffing
