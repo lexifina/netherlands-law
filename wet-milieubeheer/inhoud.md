@@ -135,7 +135,7 @@
 ### Titel 15.8. Statiegeld, retourpremies
 ### Titel 15.9. Heffingen op gemeentelijk en provinciaal niveau
 ### Titel 15.9A. Rechten
-### Titel 15.10. Afvalbeheersbijdragen
+### Titel 15.10. Afvalbeheerbijdragen
 ### Titel 15.11. Financiering van de zorg voor gesloten stortplaatsen
 ### Titel 15.12. Financiële tegemoetkomingen
 ### Titel 15.13. Kostenverevening reductie CO2-emissies glastuinbouw
