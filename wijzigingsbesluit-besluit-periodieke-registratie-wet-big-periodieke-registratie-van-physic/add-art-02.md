@@ -1,0 +1,3 @@
+# Artikel II
+1. Indien een ingeschrevene in het register als bedoeld in artikel 2, eerste lid, onder i, Besluit periodieke registratie Wet BIG in het bezit is van een getuigschrift, verklaring of erkenning als bedoeld in artikel 8, tweede lid, onder a, van de wet, welke is verkregen vóór de inwerkingtreding van dit besluit, geldt in afwijking van artikel 8, tweede lid, onder a, van de wet de datum van inwerkingtreding van dit besluit als aanvangsdatum van de eerste vijfjaarlijkse registratieperiode.
+2. Het eerste lid is van overeenkomstige toepassing op beroepsbeoefenaren die na de datum van inwerkingtreding van dit besluit zijn ingeschreven in het in dat lid bedoelde register, indien zij de aanvraag voor de inschrijving reeds voor die datum hebben ingediend.
