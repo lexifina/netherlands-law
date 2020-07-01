@@ -1,2 +1,0 @@
-# Artikel 11a. Overgangsrecht
-Deze regeling, zoals die luidde op de dag voor de datum van inwerkingtreding van de Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 17 december 2018, 2018-0000176437, tot wijziging van de Tijdelijke subsidieregeling ontwikkeladvies vijfenveertigplussers in verband met openstelling voor alle werkenden en verlenging van de looptijd (Stcrt. 2018, 72839), blijft, met uitzondering van artikel 4, van toepassing ten aanzien van ontwikkeladviestrajecten als bedoeld in artikel 2, die zijn aangevangen voor die datum.
