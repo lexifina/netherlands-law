@@ -1,0 +1,6 @@
+# Artikel 49e. Commissies
+1. Bij ministeriële regeling stelt Onze Minister commissies in met het oog op de uitvoering van de artikelen 49 tot en met 49b.
+2. De commissies hebben tot taak het dossier van een belanghebbende te voorzien van een oordeel of advies over de toepassing van artikel 49, 49a of 49b. De Belastingdienst/Toeslagen verstrekt daarvoor een afschrift van de op de zaak betrekking hebbende documenten, waaronder mede wordt begrepen die informatie die niet aan het dossier is toegevoegd, maar wel van invloed is geweest bij de beoordeling of behandeling ervan, aan de betreffende commissie.
+3. De Belastingdienst/Toeslagen zendt het besluit omtrent de toepassing van artikel 49, 49a of 49b aan de belanghebbende tezamen met het oordeel of advies van de betreffende commissie en de documenten die direct ten grondslag liggen aan het besluit. Indien het besluit ten nadeel van de belanghebbende afwijkt van het oordeel of het advies van de betreffende commissie, wordt het besluit extra gemotiveerd.
+4. De Belastingdienst/Toeslagen verstrekt desgevraagd tevens het onderzoeksdossier, inclusief die informatie die niet aan het dossier is toegevoegd, maar wel van invloed is geweest bij de beoordeling ervan, aan de belanghebbende.
+5. Bij ministeriële regeling kunnen nadere regels worden gesteld over de commissies.
