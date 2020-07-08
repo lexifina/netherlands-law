@@ -8,6 +8,7 @@
 ### § 2.2. Vereenvoudigd cliëntenonderzoek
 ### § 2.3. Verscherpt cliëntenonderzoek
 ### § 2.4. Uitbesteding van cliëntenonderzoek
+### § 2.4a. Informatie over uiteindelijk belanghebbenden
 ### § 2.5. Documenten die voor de verificatie van de identiteit gebruikt kunnen worden
 ## Hoofdstuk 3. Bepalingen betreffende het melden van ongebruikelijke transacties
 ### § 3.1. De Financiële inlichtingen eenheid
