@@ -18,6 +18,6 @@
 15°. andere voorwaarden, het gedrag van de veroordeelde betreffende.
 3. Indien bij de toepassing van artikel 77x een bijzondere voorwaarde is gesteld, zijn daaraan van rechtswege de voorwaarden verbonden dat de veroordeelde:
 a. ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage aanbiedt; en
-b. medewerking verleent aan het reclasseringstoezicht, bedoeld in artikel 77aa, eerste tot en met het vierde lid, de medewerking aan huisbezoeken daaronder begrepen.
+b. medewerking verleent aan het reclasseringstoezicht, bedoeld in artikel 77aa, eerste tot en met het vierde lid, daaronder begrepen de medewerking aan huisbezoeken en het zich melden bij de reclasseringsinstelling zo vaak en zolang als de reclasseringsinstelling dit noodzakelijk acht.
 4. Aan een bijzondere voorwaarde kan elektronisch toezicht worden verbonden.
 5. De voorwaarden in het tweede lid, onderdelen 10°, 11° of 15° en de gedragsinterventie, bedoeld in het tweede lid, onderdeel 13°, kunnen geheel of ten dele bestaan uit van jeugdhulp als bedoeld in artikel 1.1 van de Jeugdwet.
