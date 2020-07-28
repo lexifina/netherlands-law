@@ -1,0 +1,2 @@
+# Artikel II
+De bijlage bij het besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 26 februari 2019, Min-BuZa. 2019.2328-18, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Fonds Verantwoord Ondernemen 2019–2022) blijft van toepassing op de aanvragen die voor de inwerkingtreding van deze wijziging zijn ingediend en op subsidies die voor de inwerkingtreding van deze wijziging zijn verstrekt.
