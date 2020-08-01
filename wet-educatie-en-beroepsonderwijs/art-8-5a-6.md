@@ -1,0 +1,2 @@
+# Artikel 8.5a.6. Overeenkomst instelling en leerling
+Voordat een leerling van een school in een doorlopende leerroute voor de eerste keer een deel van het onderwijsprogramma volgt dat behoort tot de beroepsopleiding die deel uitmaakt van die doorlopende leerroute, sluiten het bevoegd gezag van de instelling en de leerling een overeenkomst waarop artikel 8.1.3, tweede en derde lid, van overeenkomstige toepassing is.

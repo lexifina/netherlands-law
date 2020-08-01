@@ -1,2 +1,2 @@
-# Artikel 143a. Beleggen en belenen
-Bij ministeriële regeling kunnen regels worden gesteld over het door het bevoegd gezag uitzetten van gelden, het aangaan van geldleningen en het aangaan van verbintenissen voor financiële producten.
+# Artikel 143a*. Overdracht bekostiging in het kader van een doorlopende leerroute vmbo-mbo
+In afwijking van artikel 143 kan het bevoegd gezag van de school met het bevoegd gezag van de instelling voor beroepsonderwijs waarmee het een samenwerkingsovereenkomst heeft gesloten als bedoeld in artikel 10b11, tweede lid, van de Wet op het voortgezet onderwijs overeenkomen om vanwege een doorlopende leerroute vmbo-mbo als bedoeld in artikel 10b10, tweede lid, van die wet of de geïntegreerde route vmbo-basisberoepsopleiding, bedoeld in artikel 10b21, tweede lid, van die wet een deel van de bekostiging over te dragen aan dat andere bevoegd gezag.
