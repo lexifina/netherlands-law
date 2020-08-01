@@ -2,7 +2,8 @@
 ## Hoofdstuk 1. Algemeen
 ### Paragraaf 1.1. Begripsbepalingen
 ### Paragraaf 1.2. Weigerings- en intrekkingsgrond inzake beschikkingen
-## Hoofdstuk 2. Aanbestedingen, vastgoedtransacties, subsidies, vergunningen en ontheffingen
+## Hoofdstuk 2. Overheidsopdrachten, vastgoedtransacties, subsidies, vergunningen en ontheffingen
+## Hoofdstuk 2a. Eigen onderzoek van het bestuursorgaan of de rechtspersoon met een overheidstaak
 ## Hoofdstuk 3. Het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur
 ### Paragraaf 3.1. Instelling en taak van het Bureau
 ### Paragraaf 3.2. Werkwijze van het Bureau
