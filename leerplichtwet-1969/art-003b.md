@@ -1,5 +1,5 @@
 # Artikel 3b. Vervangende leerplicht laatste schooljaar
-1. Op aanvraag van de in artikel 2, eerste lid, bedoelde personen kunnen burgemeester en wethouders van de gemeente waar de jongere als ingezetene met een adres in de basisregistratie personen is ingeschreven, toestaan dat de inschrijving van de jongere aan een school voor het laatste schooljaar, bedoeld in artikel 3, eerste lid, onder a of b, wordt vervangen door de inschrijving als leerling van een instelling als bedoeld in paragraaf 2a.
+1. Op aanvraag van de in artikel 2, eerste lid, bedoelde personen kunnen burgemeester en wethouders van de gemeente waar de jongere als ingezetene met een adres in de basisregistratie personen is ingeschreven, toestaan dat de inschrijving van de jongere aan een school voor het laatste schooljaar, bedoeld in artikel 3, eerste lid, onder a of b, wordt vervangen door de inschrijving als mbo-student of vavo-student van een instelling als bedoeld in paragraaf 2a.
 2. De aanvraag, bedoeld in het eerste lid, gaat vergezeld van gegevens van de jongere betreffende:
 a. het persoonsgebonden nummer;
 b. de naam, de geboortedatum, het geslacht, het adres en de woonplaats, de postcode van de woonplaats; en
