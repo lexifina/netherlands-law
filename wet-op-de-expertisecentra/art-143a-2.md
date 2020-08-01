@@ -1,0 +1,2 @@
+# Artikel 143a. Beleggen en belenen
+Bij ministeriële regeling kunnen regels worden gesteld over het door het bevoegd gezag uitzetten van gelden, het aangaan van geldleningen en het aangaan van verbintenissen voor financiële producten.
