@@ -1,0 +1,2 @@
+# Artikel 25a. Delen onderwijsprogramma praktijkonderwijs
+Praktijkonderwijs omvat ten minste Nederlandse taal, rekenen/wiskunde, informatiekunde en lichamelijke opvoeding, alsmede het onderwijs waarvan het bevoegd gezag, na overleg met het college van burgemeester en wethouders dat daarbij de werkgevers betrekt die werkzaam zijn op de regionale arbeidsmarkt, heeft vastgesteld dat dit van belang is voor het uitoefenen van functies binnen die arbeidsmarkt.

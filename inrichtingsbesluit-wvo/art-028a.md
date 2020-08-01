@@ -1,0 +1,2 @@
+# Artikel 28a. Toevoeging profiel dienstverlening en producten aan een agrarisch opleidingscentrum
+Het profiel dienstverlening en producten, bedoeld in artikel 10b, derde lid, onderdeel j, van de wet kan op grond van artikel 72, derde lid, onderdeel g, van de wet worden toegevoegd aan een agrarisch opleidingscentrum indien het onderwijs binnen dat profiel voorbereidend beroepsonderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel betreft.

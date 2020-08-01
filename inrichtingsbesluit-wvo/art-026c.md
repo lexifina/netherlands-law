@@ -1,0 +1,61 @@
+# Artikel 26c. Inrichting profielen havo
+1. Het gemeenschappelijk deel van elk profiel in het havo omvat de volgende vakken, met de daarbij vermelde normatieve studielast, uitgedrukt in uren:
+a. Nederlandse taal en literatuur: 400,
+b. Engelse taal en literatuur: 360,
+c. maatschappijleer: 120,
+d. culturele en kunstzinnige vorming: 120, en
+e. lichamelijke opvoeding: 120.
+2. Het profieldeel van het profiel natuur en techniek in het havo omvat de volgende vakken, met de daarbij vermelde normatieve studielast, uitgedrukt in uren:
+a. wiskunde B: 360,
+b. natuurkunde: 400,
+c. scheikunde: 320, en
+d. een van de volgende profielkeuzevakken, ter keuze van de leerling, voor zover het bevoegd gezag deze vakken aanbiedt:
+1°. natuur, leven en technologie: 320;
+2°. informatica: 320;
+3°. biologie: 400;
+4°. wiskunde D: 320.
+3. Het profieldeel van het profiel natuur en gezondheid in het havo omvat de volgende vakken, met de daarbij vermelde normatieve studielast, uitgedrukt in uren:
+a. wiskunde A: 320, met dien verstande dat de leerling het vak wiskunde A kan vervangen door wiskunde B, voor zover het bevoegd gezag dit vak als onderdeel van dit profiel aanbiedt,
+b. biologie: 400,
+c. scheikunde: 320, en
+d. een van de volgende profielkeuzevakken, ter keuze van de leerling, voor zover het bevoegd gezag deze vakken aanbiedt:
+1°. natuur, leven en technologie: 320;
+2°. aardrijkskunde: 320;
+3°. natuurkunde: 400.
+4. Het profieldeel van het profiel economie en maatschappij in het havo omvat de volgende vakken, met de daarbij vermelde normatieve studielast, uitgedrukt in uren:
+a. wiskunde A: 320, met dien verstande dat de leerling het vak wiskunde A kan vervangen door wiskunde B, voor zover het bevoegd gezag dit vak als onderdeel van dit profiel aanbiedt,
+b. economie: 400,
+c. geschiedenis: 320, en
+d. een van de volgende profielkeuzevakken, ter keuze van de leerling, voor zover het bevoegd gezag deze vakken aanbiedt:
+1°. bedrijfseconomie: 320;
+2°. aardrijkskunde: 320;
+3°. maatschappijwetenschappen: 320;
+4°. Franse taal en literatuur, Duitse taal en literatuur, Spaanse taal en literatuur, Russische taal en literatuur, Italiaanse taal en literatuur, Arabische taal en literatuur, Turkse taal en literatuur, of Friese taal en cultuur: 400.
+5. Het profieldeel van het profiel cultuur en maatschappij in het havo omvat de volgende vakken, met de daarbij vermelde normatieve studielast, uitgedrukt in uren:
+a. geschiedenis: 320,
+b. Franse taal en literatuur, Duitse taal en literatuur, Spaanse taal en literatuur, Russische taal en literatuur, Italiaanse taal en literatuur, Arabische taal en literatuur, Turkse taal en literatuur, of Friese taal en cultuur ter keuze van de leerling voor zover het bevoegd gezag deze vakken aanbiedt: 400,
+c. een van de volgende culturele profielkeuzevakken ter keuze van de leerling, voor zover het bevoegd gezag deze vakken aanbiedt:
+1°. kunst (beeldende vormgeving), kunst (muziek), kunst (drama), kunst (dans), muziek, tekenen, handvaardigheid of textiele vormgeving: 320;
+2°. filosofie: 320;
+3°. Franse taal en literatuur, Duitse taal en literatuur, Spaanse taal en literatuur, Russische taal en literatuur, Italiaanse taal en literatuur, Arabische taal en literatuur, Turkse taal en literatuur, of Friese taal en cultuur: 400,
+d. een van de volgende maatschappelijke profielkeuzevakken ter keuze van de leerling, voor zover het bevoegd gezag deze vakken aanbiedt:
+1°. aardrijkskunde: 320;
+2°. maatschappijwetenschappen: 320;
+3°. economie: 400.
+6. Het vrije deel van elk profiel in het havo kan omvatten:
+a. de vakken, genoemd in het eerste tot en met het vijfde lid, voor zover nog niet gekozen, met dien verstande dat:
+1°. van de vakken wiskunde A en wiskunde B er slechts één deel kan uitmaken van het profiel, dat wiskunde D uitsluitend kan worden gekozen indien ook wiskunde B deel uitmaakt van het profiel, en
+2°. kunst (beeldende vormgeving) niet gekozen kan worden in combinatie met tekenen, handvaardigheid of textiele vormgeving, dat kunst (muziek) niet gekozen kan worden in combinatie met muziek, en
+3°. van de vakken tekenen, handvaardigheid en textiele vormgeving er slechts één deel kan uitmaken van het profiel,
+b. de volgende vakken, met de daarbij vermelde normatieve studielast, uitgedrukt in uren, met dien verstande dat deze vakken slechts deel kunnen uitmaken van het vrije deel voor zover de desbetreffende taal niet reeds eerder is gevolgd of al deel uitmaakt van het profiel:
+1°. Spaanse taal en literatuur (elementair): 320,
+2°. Russische taal en literatuur (elementair): 320,
+3°. Italiaanse taal en literatuur (elementair): 320,
+4°. Arabische taal en literatuur (elementair): 320, en
+5°. Turkse taal en literatuur (elementair): 320,
+c. de volgende vakken, met de daarbij vermelde normatieve studielast in uren:
+1°. kunst (algemeen): 120,
+2°. algemene natuurwetenschappen: 120, en
+3°. bewegen, sport en maatschappij: 320, en
+d. door het bevoegd gezag vast te stellen vakken en andere programma-onderdelen.
+7. Het zesde lid, aanhef en onderdeel a, onder 1°, vindt toepassing onverminderd de mogelijkheid voor de leerling om een in dat onderdeel bedoeld wiskundevak dat het bevoegd gezag aanbiedt, te kiezen als extra vak, met dien verstande dat alleen is toegestaan de combinatie van wiskunde A en wiskunde B.
