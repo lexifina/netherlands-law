@@ -1,5 +1,5 @@
 # Artikel 8a.4.6. Geschillen instemmingsrecht hoofdlijnen begroting
 Deze titel is van overeenkomstige toepassing op geschillen die voortvloeien uit artikel 8a.1.6, met dien verstande dat:
-a. onder «deelnemersraad» wordt verstaan: de gezamenlijke vergadering;
+a. onder «studentenraad» wordt verstaan: de gezamenlijke vergadering;
 b. voor zover de geschillencommissie de behandeling van het geschil niet voor 1 januari van het jaar waarop de begroting betrekking heeft, heeft afgerond, het bevoegd gezag totdat de geschillencommissie een besluit heeft genomen, voor het doen van uitgaven in dat jaar kan beschikken over ten hoogste vier twaalfde gedeelten van de bedragen die in de overeenkomstige begrotingsonderdelen van het voorgaande jaar waren opgenomen;
 c. indien beroep is ingesteld tegen een uitspraak van de geschillencommissie en de ondernemingskamer op 1 januari van het jaar, waarop de begroting betrekking heeft, nog geen uitspraak heeft gedaan, het bevoegd gezag, totdat de ondernemingskamer uitspraak heeft gedaan of als de uitspraak van de ondernemingskamer leidt tot het opstellen van een nieuwe begroting, totdat een nieuwe begroting is vastgesteld, voor het doen van uitgaven kan beschikken over de bedragen die daarvoor zijn geraamd in de begroting waarover de ondernemingskamer oordeelt of heeft geoordeeld.

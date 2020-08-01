@@ -53,23 +53,24 @@
 #### § 1. Reikwijdte
 #### § 2. Beroepsopleidingen en kwalificatiestructuur
 ### Titel 3. De educatie
-### Titel 4. Examens, onderwijsprogramma en deelnemersstatuut
+### Titel 4. Examens, onderwijsprogramma en studentenstatuut
 #### § 1. Beroepsopleidingen en opleidingen educatie, met uitzondering van opleidingen voortgezet algemeen volwassenenonderwijs en opleidingen Nederlands als tweede taal I en II
 #### § 2. Opleidingen voortgezet algemeen volwassenenonderwijs en opleidingen Nederlands als tweede taal I en II
 ### Titel 5. Commissie van beroep voor de examens
-### Titel 7. Practicumplaatsen voor studenten in opleiding
+### Titel 7. Practicumplaatsen voor ho-studenten in opleiding
 ## Hoofdstuk 8. Inschrijving, toelating, bindend studieadvies, vooropleidingseisen, voortijdig schoolverlaten, samenwerking
 ### Titel 0. Aanmelding
 ### Titel 1. Inschrijving
 ### Titel 2. Vooropleidingseisen
 ### Titel 3. Bestrijden voortijdig schoolverlaten en volgen van jongeren in een kwetsbare positie
-### Titel 4. Samenwerking in verband met leer-werktrajecten vmbo en entreeopleiding in het vmbo
-### Titel 5. Samenwerking in verband met leer-werktrajecten VSO en de entreeopleiding in het VSO
+### Titel 4. Samenwerking in verband met leer-werktrajecten vmbo, entreeopleiding in het vmbo en geïntegreerde route vmbo-basisberoepsopleiding
+### Titel 5. Samenwerking in verband met leer-werktrajecten VSO, entreeopleiding in het VSO, geïntegreerde route VSO-basisberoepsopleiding en doorlopende leerroute VSO-mbo
+### Titel 5a. Doorlopende leerroute vmbo-mbo
 ### Titel 6. Samenwerking tussen uit 's Rijks kas bekostigde instellingen
-## Hoofdstuk 8a. Medezeggenschap van deelnemers en ouders; landelijke geschillencommissie medezeggenschap
+## Hoofdstuk 8a. Medezeggenschap en de landelijke geschillencommissie medezeggenschap
 ### Titel 1. Algemene bepalingen
-### Titel 2. Bevoegdheden van de deelnemersraad
-### Titel 3. Reglement deelnemersraad
+### Titel 2. Bevoegdheden van de studentenraad
+### Titel 3. Reglement studentenraad
 ### Titel 4. Geschillenregeling en procesbevoegdheid
 ### Titel 5. Afwijkingen
 ## Hoofdstuk 9. Het bestuur
@@ -83,6 +84,7 @@
 ## Hoofdstuk 11a. Experimenten
 ## Hoofdstuk 12. Overgangs-, invoerings- en slotbepalingen
 ### Titel 1. Overgangsbepalingen experiment leergang vm2
+### Titel 1a. Overgangsrecht wijziging van onder andere de Wet op het voortgezet onderwijs in verband met de afschaffing van de rekentoets in het voortgezet onderwijs (afschaffing rekentoets vo) (Stb. 2020, 233)
 ### Titel 2. Voorzieningen voor onbepaalde tijd
 ### Titel 3. Invoering van de wet
 ### Titel 4. Bepalingen met betrekking tot passend onderwijs
