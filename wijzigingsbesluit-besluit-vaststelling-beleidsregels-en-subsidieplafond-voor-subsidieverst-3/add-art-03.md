@@ -1,0 +1,2 @@
+# Artikel III
+De bijlage bij het besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 8 september 2016, tot vaststelling van beleidsregels en een subsidieplafond voor subsidieverstrekking voor activiteiten van MKB-ondernemingen gericht op de bevordering van duurzaam internationaal ondernemen (Vouchers internationaal ondernemen) zoals dat luidde voorafgaand aan de inwerkingtreding van dit wijzigingsbesluit blijft van toepassing op de aanvragen die voor de inwerkingtreding van deze wijziging zijn ingediend.
