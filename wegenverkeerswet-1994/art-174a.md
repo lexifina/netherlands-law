@@ -1,0 +1,3 @@
+# Artikel 174a
+1. Onze Minister kan in verband met de aanwijzing, bedoeld in artikel 20b, of een wijziging, schorsing of intrekking daarvan, aan degene die handelt in strijd met de in artikel 20g, derde lid, bedoelde verboden een bestuurlijke boete opleggen die overeenkomt met ten hoogste een boete van de vijfde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.
+2. De op te leggen bestuurlijke boete kan met maximaal 50% worden verhoogd, indien binnen een periode van 48 maanden tweemaal voor een zelfde feit, elk afzonderlijk in een periode van maximaal 24 maanden voorafgaand aan dat feit, een boete is opgelegd en onherroepelijk is geworden.

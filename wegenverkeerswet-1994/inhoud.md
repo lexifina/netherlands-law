@@ -20,15 +20,9 @@
 ### § 2. Verkeerstekens en maatregelen op of aan de weg
 ### § 3. Vaststelling bebouwde kom
 ## Hoofdstuk IIA. Aanwijzing bromfietsen waarvoor geen Europese typegoedkeuring vereist is
-## Hoofdstuk III. Toelating en goedkeuring
+## Hoofdstuk III. Goedkeuring van voertuigen en systemen, onderdelen, technische eenheden, voertuigdelen, uitrustingsstukken en voorzieningen voor dergelijke voertuigen en aanhangwagens daarvan en van voorzieningen die ter bescherming van inzittenden van voertuigen en kwetsbare weggebruikers zijn ontworpen en gebouwd
 ### § 1. Algemene bepalingen
-### § 2. Typegoedkeuring en goedkeuring productieprocessen van voertuigen en voertuigonderdelen
-### § 2a. Goedkeuring productieprocessen
-### § 3. Individuele goedkeuring
-### § 4. Keuringen ter uitvoering van andere wetten
-### § 4a. Toestemming onderdelen en uitrustingstukken
-### § 5. Verbodsbepalingen
-### § 6. Toepasselijkheid van dit hoofdstuk op de goedkeuring voor het gebruik buiten de weg
+### § 2. Verbodsbepalingen
 ## Hoofdstuk IV. Kentekens en kentekenbewijzen
 ### § 1. Kentekenplicht
 ### § 2. Kentekens
@@ -49,9 +43,9 @@
 ### § 4. Geldigheid keuringsbewijzen
 ### § 5. Erkenningsregeling periodieke keuring en regeling bevoegdheid tot keuren
 ### § 6. Herkeuring en deskundigenonderzoek
-### § 6a. Erkenningsregeling systemen, onderdelen, technische eenheden, uitrustingstukken en voorzieningen ter bescherming van weggebruikers en passagiers die niet dienen te zijn goedgekeurd voor de toelating tot het verkeer op de weg
-### § 7. Wijziging in de constructie van voertuigen
-### § 8. Erkenningsregeling wijziging constructie voertuigen
+### § 6a. Erkenningsregeling systemen, onderdelen, technische eenheden, voertuigdelen, uitrustingsstukken en voorzieningen voor voertuigen en aanhangwagens daarvan en voorzieningen ter bescherming van inzittenden van voertuigen en kwetsbare weggebruikers die op de markt mogen worden aangeboden, in de handel mogen worden gebracht of in gebruik mogen worden genomen, zonder te zijn goedgekeurd
+### § 7. Wijziging in de goedkeuring van voertuigen
+### § 8. Erkenningsregeling wijziging goedkeuring voertuigen
 ### § 9. Keuring na verval tenaamstelling
 ### § 9a. Erkenningsregeling keuring van schadevoertuigen
 ## Hoofdstuk VI. Rijvaardigheid en rijbevoegdheid
@@ -83,7 +77,9 @@
 ### § 2. Getuigschrift van vakbekwaamheid en getuigschrift van nascholing
 ## Hoofdstuk VIII. Kosten
 ## Hoofdstuk IX. Handhaving
-## Hoofdstuk X. Last onder bestuursdwang
+## Hoofdstuk X. Bestuurlijke handhaving
+### § 1. Last onder bestuursdwang
+### § 2. Bestuurlijke boete
 ## Hoofdstuk XI. Strafbepalingen
 ## Hoofdstuk XII. Civiele aansprakelijkheid
 ## Hoofdstuk XIII. Slotbepalingen

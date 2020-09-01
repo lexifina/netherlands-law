@@ -27,6 +27,7 @@ de Erfgoedwet, de artikelen 5.1, eerste lid, en 5.10, eerste lid;
 de Kernenergiewet, de artikelen 14, 22, eerste lid, 26, tweede lid, 28, 33, eerste lid, 37, eerste lid, 39, 67, eerste en vierde lid, 68 en 76, derde lid;
 de Ontgrondingenwet, de artikelen 3, eerste en tweede lid, 3a, 7 en 12, eerste en tweede lid;
 de Waterwet, artikel 6.9;
+de Wegenverkeerswet 1994, artikel 20g, de krachtens artikel 29 en 31 genoemde artikelen van een EU-verordening in verband met de goedkeuring van motorvoertuigen, en de artikelen 30 en 33;
 de Wet algemene bepalingen omgevingsrecht, de artikelen 2.1, eerste lid, aanhef en onder a, b, c, d, f, g, h en i, al dan niet in combinatie met artikel 2.1, eerste lid, aanhef en onder j of k, 2.3, aanhef en onder b, 2.3a, 2.24, eerste lid, en 2.25, tweede lid;
 de Wet bescherming Antarctica, de artikelen 3, eerste lid, 3a, eerste en vierde lid, 5, 6, eerste en tweede lid, 7a, eerste en tweede lid, 8, 24a, 25, eerste en tweede lid, 25b, eerste lid, 25c, tweede lid, 25f, eerste lid, 29 en 30;
 de Wet bodembescherming, de artikelen 20, 27, 28, 29, 30, tweede, derde en vierde lid, 31, 32, tweede lid, tweede volzin, 37, 39, eerste, tweede en vierde lid, 39a, 39b, derde lid, vierde lid, eerste volzin, en vijfde lid, eerste volzin, 39c, eerste en derde lid, 39d, eerste en vijfde lid, 39e, 43, eerste, derde en vierde lid, 45, vierde lid, 49 juncto 30, tweede, derde en vierde lid, 55ab, 55b, eerste lid, 63e, derde lid, tweede volzin, 63i, vijfde lid, tweede volzin, 63j, tweede lid, 70 en 72;

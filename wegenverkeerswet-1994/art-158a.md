@@ -1,0 +1,3 @@
+# Artikel 158a
+1. Onder toezicht bedoeld in artikel 158, eerste lid, wordt voor de toepassing van de artikelen 20g, 21, tweede lid, onderdelen b en c, derde lid, onderdeel b, en vierde lid, onderdelen b en c, 25, 27, de bij of krachtens artikel 29, genoemde artikelen van een EU-verordening in verband met de goedkeuring van motorvoertuigen, en artikel 30 tevens verstaan markttoezicht.
+2. Voor de toepassing van het markttoezicht op grond van de krachtens artikel 29, genoemde artikelen van een EU-verordening in verband met de goedkeuring van motorvoertuigen is titel 5.2 van de Algemene wet bestuursrecht van overeenkomstige toepassing voor zover dit noodzakelijk is voor een goede taakuitoefening in het kader van het markttoezicht.
