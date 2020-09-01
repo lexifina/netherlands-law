@@ -1,5 +1,0 @@
-# Artikel 4a
-1. Aanstelling als vrijwillige ambtenaar van politie in opleiding is slechts mogelijk, indien op grond van een ten aanzien van de betrokkene ingesteld onderzoek naar de betrouwbaarheid en geschiktheid geen bezwaar blijkt te bestaan tegen diens aanstelling.
-2. Ten behoeve van een onderzoek als bedoeld in het eerste lid, vraagt het bevoegde gezag om verstrekking van justitiële gegevens als bedoeld in artikel 23 van het Besluit justitiële gegevens en om verstrekking van gegevens als bedoeld in artikel 4:3 van het Besluit politiegegevens, tenzij het een functie betreft als bedoeld in artikel 1, eerste lid, onder a, van de Wet veiligheidsonderzoeken.
-3. Een onderzoek als bedoeld in het eerste lid, of een veiligheidsonderzoek wordt ingesteld nadat het bevoegde gezag de betrokkene overigens bekwaam en geschikt acht.
-4. Het eerste lid is niet van toepassing indien het een aanstelling betreft in een functie waarin technische, administratieve en andere taken ten dienste van de politie worden uitgevoerd.
