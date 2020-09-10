@@ -261,6 +261,7 @@
 ##### § 3.5.6a.2. Afwikkelondernemingen met zetel in een niet-aangewezen staat
 #### Afdeling 3.5.7. Beleggingsbeginselen en beleggingsbeleid van premiepensioeninstellingen
 #### Afdeling 3.5.9. Beleggingsbeleid van entiteiten voor risico-acceptatie en verzekeraars
+#### Afdeling 3.5.10. Verwijzingsportaal bankgegevens
 ### Hoofdstuk 3.6. Bepalingen ten aanzien van richtlijngroepen
 #### Afdeling 3.6.1. Algemeen
 #### Afdeling 3.6.2. Geconsolideerd toezicht op banken, beleggingsondernemingen, betaalinstellingen en elektronischgeldinstellingen
