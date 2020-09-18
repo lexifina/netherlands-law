@@ -1,0 +1,2 @@
+# Artikel II
+Deze regeling is van toepassing op alle aanvragen die op of na de datum van inwerkingtreding overeenkomstig artikel 3.108c, eerste lid, van het Vreemdelingenbesluit 2000 zijn ingediend. Op aanvragen die voor de datum van inwerkingtreding overeenkomstig artikel 3.108c, eerste lid, van het Vreemdelingenbesluit 2000 zijn ingediend is de regeling van toepassing zoals die luidde onmiddellijk voorafgaand aan het tijdstip waarop deze regeling in werking treedt.
