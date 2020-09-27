@@ -4,5 +4,5 @@ a. de beschikbaarheid, werking en beveiliging van het handelsregister, bedoeld i
 b. de juistheid, actualiteit en volledigheid van het handelsregister, bedoeld in artikel 40, eerste lid;
 c. de controle, bedoeld in artikel 41, eerste lid;
 d. de procedure voor de behandeling van klachten, bedoeld in artikel 48.
-2. Het protocol behoeft de goedkeuring van Onze Minister.
+2. Het protocol behoeft de goedkeuring van Onze Minister. Onze Minister handelt daarbij in overeenstemming met Onze Minister van Financiën en Onze Minister van Justitie en Veiligheid voor het deel van het handelsregister dat betrekking heeft op de gegevens en bescheiden omtrent uiteindelijk belanghebbenden.
 3. De goedkeuring kan worden onthouden wegens strijd met het recht of het algemeen belang.

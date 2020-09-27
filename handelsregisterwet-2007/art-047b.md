@@ -1,0 +1,3 @@
+# Artikel 47b
+1. Onze Minister van Financiën kan een bestuurlijke boete opleggen ter zake van overtreding van artikel 47, indien er sprake is van het handelen in strijd met artikel 19, eerste lid, voor zover de daartoe verplichte persoon niet de opgave doet die de Kamer nodig heeft om ervoor te zorgen dat de in artikel 15a, tweede en derde lid, bedoelde gegevens en bescheiden te allen tijde juist en volledig zijn ingeschreven in het handelsregister.
+2. De op grond van het eerste lid op te leggen bestuurlijke boete bedraagt ten hoogste het bedrag dat is vastgesteld voor de vierde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.

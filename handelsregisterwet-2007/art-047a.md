@@ -1,0 +1,2 @@
+# Artikel 47a
+Onze Minister van Financiën kan een last onder dwangsom opleggen ter zake van overtreding van artikel 47, indien er sprake is van het handelen in strijd met artikel 19, eerste lid, voor zover de daartoe verplichte persoon niet de opgave doet die de Kamer nodig heeft om ervoor te zorgen dat de in artikel 15a, tweede lid, bedoelde gegevens te allen tijde juist en volledig zijn ingeschreven in het handelsregister.

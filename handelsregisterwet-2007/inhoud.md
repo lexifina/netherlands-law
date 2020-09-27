@@ -9,8 +9,8 @@
 ### § 4.2. Publicatie inschrijvingen
 ### § 4.3. Derdenwerking
 ### § 4.4. Verplichte vermelding nummer
-## Hoofdstuk 5. Verstrekking van gegevens aan bestuursorganen en gebruik van gegevens door bestuursorganen
-### § 5.1. Verstrekking aan bestuursorganen
+## Hoofdstuk 5. Verstrekking van gegevens aan bestuursorganen en andere bevoegde autoriteiten en gebruik van gegevens door bestuursorganen
+### § 5.1. Verstrekking aan bestuursorganen en andere bevoegde autoriteiten
 ### § 5.2. Gebruik door bestuursorganen
 ### § 5.3. Eenmalige gegevensverstrekking
 ## Hoofdstuk 6. Wijziging van de in het handelsregister opgenomen gegevens
