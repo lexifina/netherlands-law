@@ -1,0 +1,5 @@
+# Artikel 10c
+1. Een instelling doet melding aan de Kamer van Koophandel van iedere discrepantie die zij aantreft tussen een gegeven omtrent een uiteindelijk belanghebbende dat zij verstrekt heeft gekregen uit het handelsregister, bedoeld in artikel 2 van de Handelsregisterwet 2007, en de informatie over die uiteindelijk belanghebbende waarover zij uit anderen hoofde beschikt.
+2. Op een melding als bedoeld in het eerste lid is het bepaalde bij of krachtens de artikelen 33, 34, tweede en derde lid, 35 en 36 van de Handelsregisterwet 2007 van toepassing.
+3. Het eerste lid is niet van toepassing indien een instelling op grond van artikel 16 een verrichte of voorgenomen ongebruikelijke transactie meldt aan de Financiële inlichtingen eenheid.
+4. Ten behoeve van de naleving van de verplichting, bedoeld in het eerste lid, zijn de instellingen, bedoeld in artikel 1a, vierde lid, onderdeel c, niet gehouden aan de geheimhoudingsplicht, bedoeld in artikel 11a van de Advocatenwet, en zijn de instellingen, bedoeld in artikel 1a, vierde lid, onderdeel d, niet gehouden aan de geheimhoudingsplicht in artikel 22 van de Wet op het notarisambt.
