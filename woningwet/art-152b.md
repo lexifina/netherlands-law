@@ -1,0 +1,2 @@
+# Artikel 152b
+Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zendt binnen drie jaar na de inwerkingtreding van de wet van 25 juni 2019 tot wijziging van de Woningwet in verband met de introductie van een stelsel van certificering voor werkzaamheden aan gasverbrandingsinstallaties aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de krachtens artikel 3, tweede en derde lid, gestelde regels.
