@@ -1,0 +1,2 @@
+# Artikel 9c
+Voor medische hulpmiddelen als bedoeld in artikel 9a, eerste lid, ten aanzien waarvan vóór 1 april 2004 een EG-onderzoekcertificaat voor het ontwerp of een verklaring van EG-typeonderzoek is afgegeven, is een aanvullend EG-onderzoekcertificaat voor het ontwerp of een aanvullende verklaring van EG-typeonderzoek verkregen waaruit blijkt dat aan de specificaties, opgenomen in de bijlage, onderdeel 1, van richtlijn 2003/32/EG, is voldaan.
