@@ -1,0 +1,4 @@
+# Artikel 41b. Tijdelijk maatwerk bij de zoektermijn
+1. In afwijking van artikel 41, vierde lid, kan een aanvraag worden ingediend voordat de termijn van vier weken als bedoeld in artikel 41, vierde lid, is verstreken en kan het college de aanvraag eerder in behandeling nemen indien naar het oordeel van het college de omstandigheden van de belanghebbende daartoe aanleiding geven.
+2. Dit artikel vervalt met ingang van 1 juli 2021. Het tijdstip waarop dit artikel vervalt kan bij koninklijk besluit worden bepaald op een ander tijdstip, met dien verstande dat dit tijdstip steeds ten hoogste drie maanden na het tijdstip ligt waarop dit artikel zou vervallen.
+3. De voordracht van een krachtens het tweede lid vast te stellen koninklijk besluit wordt niet eerder gedaan dan een week nadat het ontwerp aan beide Kamers van de Staten-Generaal is overgelegd.
