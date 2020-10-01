@@ -1,0 +1,2 @@
+# Artikel II
+Indien een werk of handeling op het tijdstip, direct voorafgaand aan de inwerkingtreding van dit besluit, niet strijdig was met daarvoor bij of krachtens de Waterwet geldende regels of voorschriften en daarvoor als gevolg van een wijziging krachtens dit besluit een watervergunning als bedoeld in artikel 1.1, eerste lid, van de Waterwet vereist zou worden, blijft die vergunningplicht buiten toepassing, totdat er een wijziging van dat werk of die handeling plaatsvindt waarvoor een watervergunning vereist is.
