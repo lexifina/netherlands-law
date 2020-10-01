@@ -1,0 +1,2 @@
+# Artikel 9ba
+Voor de toepasselijkheid van artikel 16, eerste lid, vierde volzin, van de Wet op de rechterlijke organisatie wordt onder de salarishoogte behorende bij de functie van voorzitter of ander rechterlijk lid van een gerechtsbestuur verstaan: de salarishoogte behorende bij de functie van voorzitter of ander rechterlijk lid van het bestuur van het gerecht die de betrokkene vervulde op de dag voorafgaand aan de datum waarop hij zijn werkzaamheden als voorzitter of ander rechterlijk lid van het bestuur van een gerecht beëindigt.
