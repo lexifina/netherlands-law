@@ -1,0 +1,4 @@
+# Artikel 5a
+1. De fabrikant die in Nederland zijn maatschappelijke zetel heeft en die onder eigen naam actieve implantaten in de handel brengt overeenkomstig de in artikel 9, tweede lid, van de richtlijn bedoelde procedure, meldt aan een door Onze Minister aangewezen instantie het adres van de maatschappelijke zetel en de beschrijving van de betrokken actieve implantaten.
+2. De fabrikant die in een lid-staat, anders dan in Nederland, zijn maatschappelijke zetel heeft en die onder eigen naam actieve implantaten in de handel brengt overeenkomstig de in artikel 9, tweede lid, van de richtlijn bedoelde procedure, meldt aan de bevoegde autoriteiten van die lid-staat het adres van de maatschappelijke zetel en de beschrijving van de betrokken actieve implantaten.
+3. De fabrikant die geen maatschappelijke zetel in een lid-staat heeft en die onder eigen naam actieve implantaten in de handel brengt, wijst één enkele gemachtigde aan in de Europese Unie.
