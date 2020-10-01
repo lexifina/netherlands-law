@@ -54,9 +54,9 @@
 ### titel Vijfde
 ### titel Zesde. Prorogatie van rechtspraak aan het gerechtshof
 ### titel Zevende. Hoger beroep
-#### afdeeling Eerste. Van de zaken aan hooger beroep onderworpen
-#### afdeeling Tweede. Van den termijn van beroep
-#### afdeeling Derde. Van de regtspleging in hooger beroep en de gevolgen van hetzelve
+#### afdeling Eerste. Van de zaken aan hooger beroep onderworpen
+#### afdeling Tweede. Van den termijn van beroep
+#### afdeling Derde. Van de regtspleging in hooger beroep en de gevolgen van hetzelve
 #### afdeling Vierde. Hoger beroep tegen beschikkingen
 ### titel Achtste
 ### titel Negende. Verzet door derden
@@ -94,13 +94,13 @@
 ### titel Vierde. Van de gerechtelijke tenuitvoerlegging van schepen en luchtvaartuigen
 #### afdeling Eerste. Van executoriaal beslag op en executie van schepen
 #### afdeling Tweede. Van executoriaal beslag op en executie van luchtvaartuigen
-### titel Vijfde. Van lijfsdwang en deszelfs tenuitvoerlegging en van dwangsom
+### titel Vijfde. Van lijfsdwang en de tenuitvoerlegging van lijfsdwang en van dwangsom
 #### afdeling Eerste. Lijfsdwang
 #### afdeling Tweede. Tenuitvoerlegging en ontslag
-#### afdeeling Derde. Van dwangsom
+#### afdeling Derde. Van dwangsom
 ### titel Zesde. Van het vereffenen van schadevergoeding
 ### titel Zevende. Van het stellen van zekerheid
-## Boek Derde. Van regtspleging van onderscheiden aard
+## Boek Derde. Van rechtspleging van onderscheiden aard
 ### titel Eerste. Van rechtspleging in zaken van verkeersmiddelen en vervoer
 #### Afdeling Eerste. Algemene bepalingen
 #### Afdeling Tweede. Van rechtspleging inzake beperking van aansprakelijkheid van scheepseigenaren
