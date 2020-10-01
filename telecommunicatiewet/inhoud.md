@@ -57,6 +57,7 @@
 ### § 12.3. Geschilbeslechting door minister
 ## Hoofdstuk 13. Bevoegd aftappen en toepassing van andere bevoegdheden op grond van het Wetboek van Strafvordering en de Wet op de inlichtingen- en veiligheidsdiensten 2017 in verband met telecommunicatie
 ## Hoofdstuk 14. Buitengewone omstandigheden
+## Hoofdstuk 14a. Ongewenste zeggenschap in telecommunicatiepartijen
 ## Hoofdstuk 15. Handhaving
 ### § 15.1. Algemeen
 ### § 15.2. Bestuurlijke boete en last onder dwangsom

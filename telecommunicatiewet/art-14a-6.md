@@ -1,0 +1,3 @@
+# Artikel 14a.6
+1. Indien de identiteit van de houder of houders van een aandelenbelang niet met zekerheid is vast te stellen, wordt voor de toepassing van artikel 14a.4, eerste lid, 14a.7, eerste lid, en 14a.10, eerste lid, geacht houder en eigenaar van het aandelenbelang en de daaraan verbonden zeggenschap in een beursgenoteerde betrokken partij te zijn, de persoon die op grond van het onderzoek, bedoeld in artikel 14a.5, eerste lid, onder b, of op een andere wijze, als laatste is geïdentificeerd als deelgenoot in een depot. Het bepaalde in de eerste volzin betreft het volledige aandelenbelang dat de betreffende persoon houdt in de betrokken partij.
+2. Indien het eerste lid wordt toegepast, wordt dit vermeld in het besluit op grond van artikel 14a.4, eerste lid.

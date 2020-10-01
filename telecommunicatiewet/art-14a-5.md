@@ -1,0 +1,11 @@
+# Artikel 14a.5
+1. Indien zich feiten of omstandigheden voordoen op grond waarvan Onze Minister weet of vermoedt dat sprake is van overwegende zeggenschap waardoor het publiek belang bedreigd kan worden of indien hij weet of vermoedt dat dergelijke zeggenschap zal ontstaan:
+a. verstrekt een telecommunicatiepartij aan Onze Minister op verzoek om niet een uittreksel uit het door de rechtspersoon gehouden register met betrekking tot een recht op een aandeel;
+b. stelt een telecommunicatiepartij op verzoek van Onze Minister een onderzoek in naar de identiteit van een houder van zeggenschap en de banden die deze heeft met derden.
+2. Op het onderzoek, bedoeld in het eerste lid, onder b, verricht door een beursgenoteerde telecommunicatiepartij zijn de artikelen 49a, 49b, eerste en vierde lid, 49d en 49e van de Wet giraal effectenverkeer van overeenkomstige toepassing, met dien verstande dat:
+a. in aanvulling op artikel 49a, onderdeel d, van de Wet giraal effectenverkeer onder een uitgevende instelling tevens wordt verstaan: een beursgenoteerde telecommunicatiepartij;
+b. in aanvulling op artikel 49b, eerste lid, onderdeel d, van de Wet giraal effectenverkeer een uitgevende instelling tevens een bewaarder van een beleggingsinstelling kan verzoeken informatie te verstrekken over de beheerder van een beleggingsfonds of een fonds voor collectieve beleggingen in effecten;
+c. in afwijking van artikel 49d van de Wet giraal effectenverkeer een beursgenoteerde telecommunicatiepartij de resultaten van het onderzoek meldt aan Onze Minister;
+d. artikel 49e van de Wet giraal effectenverkeer ook van toepassing is op een verzoek als bedoeld in artikel 49b, eerste lid, onderdeel c, van de Wet giraal effectenverkeer.
+3. Een aangesloten instelling, centraal instituut, intermediair, instelling in het buitenland, bewaarder van een beleggingsinstelling of buitenlandse instelling met een functie vergelijkbaar met die van het centraal instituut verleent medewerking aan een beursgenoteerde telecommunicatiepartij bij het onderzoek.
+4. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze waarop een verzoek op grond van artikel 49b, eerste lid, van de Wet giraal effectenverkeer gelezen in samenhang met het vorige lid, wordt gedaan en beantwoord.
