@@ -5,8 +5,9 @@
 ## § 3. Reclame- en sponsoringbeperkingen
 ## § 4. Verkoopbeperkingen
 ## § 5. Rookverboden
-## § 6. Bestuurlijke boeten
-## § 7. Verdere bepalingen
+## § 6. Voorschriften ter uitbanning van illegale handel
+## § 7. Bestuurlijke boeten
+## § 8. Verdere bepalingen
 ## Categorie A
 ## Categorie B
 ## Categorie C
