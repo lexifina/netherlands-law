@@ -1,0 +1,27 @@
+# Artikel 6d
+1. In het kader van de taak van Onze Minister, bedoeld in artikel 3, eerste lid en artikel 7, eerste lid, en voorts ter ondersteuning van de bron- en contactopsporing, bedoeld in artikel 6, eerste lid, onder c, ter bestrijding van de epidemie van covid-19, veroorzaakt door het virus SARS-CoV-2 kan een notificatieapplicatie worden ingezet waarmee vroegtijdig zicht kan worden verkregen op een mogelijke infectie met dat virus door bij te houden welke gebruikers in elkaars nabijheid zijn geweest en hen in voorkomende gevallen te waarschuwen over een mogelijke infectie met het virus. Voor zover noodzakelijk kunnen Onze Minister en de gemeentelijke gezondheidsdiensten bij het beheer en de toepassing van deze notificatieapplicatie persoonsgegevens verwerken, waaronder persoonsgegevens over de gezondheid als bedoeld in artikel 9 van de Algemene verordening gegevensbescherming.
+2. In het kader van de notificatieapplicatie worden uitsluitend de volgende gegevens verwerkt:
+1° gepseudonimiseerde codes waarmee de nabijheid van gebruikers wordt bijgehouden en gebruikers in voorkomende gevallen worden gewaarschuwd voor een mogelijke infectie met het virus;
+2° het pseudo mac-adres van gebruikers;
+3° de duur van de nabijheid van gebruikers;
+4° de afstand waarbinnen gebruikers in elkaars nabijheid waren;
+5° de weging van het risico dat de betreffende gebruiker mogelijk geïnfecteerd is met het virus;
+6° het ip-adres van gebruikers;
+7° de eerste dag waarop een met het virus geïnfecteerde gebruiker ziekteverschijnselen vertoonde, en
+8° een validatiecode die wordt uitgewisseld met de betreffende gemeentelijke gezondheidsdienst zodat wordt gewaarborgd dat alleen de notificatieapplicatie van een daadwerkelijk met het virus geïnfecteerde gebruiker andere gebruikers kan waarschuwen over een mogelijke infectie met het virus.
+3. De in het kader van de notificatieapplicatie verwerkte persoonsgegevens:
+a. worden niet langer bewaard dan noodzakelijk is om gebruikers in voorkomende gevallen te kunnen waarschuwen over een mogelijke infectie met het virus en worden vervolgens onmiddellijk vernietigd;
+b. zijn beveiligd tegen verlies en onrechtmatige verwerking, en
+c. worden niet voor andere doeleinden gebruikt dan de bestrijding van de epidemie van covid-19, veroorzaakt door het virus SARS-CoV-2.
+4. Onze Minister draagt zorg voor de inrichting en het beheer van de notificatieapplicatie.
+5. Onze Minister is verwerkingsverantwoordelijke in de zin van artikel 4 van de Algemene verordening gegevensbescherming voor de verwerking van persoonsgegevens in het kader van de notificatieapplicatie.
+6. In afwijking van het derde lid is voor de toepassing van de artikelen 12 tot en met 23 en 33 van de Algemene verordening gegevensbescherming de verwerkingsverantwoordelijke de gemeentelijke gezondheidsdienst van de verblijfplaats van betrokkene. De gemeentelijke gezondheidsdienst beslist binnen een maand op een verzoek van betrokkene betreffende de uitoefening van zijn rechten op grond van de Algemene verordening gegevensbescherming.
+7. Onze Minister maakt ten minste de volgende informatie toegankelijk voor de betrokkene:
+a. de wijze waarop betrokkene bij de gemeentelijke gezondheidsdienst van zijn verblijfplaats een beroep kan doen op zijn rechten op grond van de artikelen 12 tot en met 23 en 33 van de Algemene verordening gegevensbescherming;
+b. de contactgegevens van de gemeentelijke gezondheidsdienst van de verblijfplaats van betrokkene;
+c. de wijze waarop betrokkene een klacht kan indienen bij de Autoriteit Persoonsgegevens;
+d. de wijze van verwerking van gegevens in het kader van de notificatieapplicatie in beknopte en toegankelijke vorm en in duidelijke en eenvoudige taal.
+8. Het is verboden een ander te verplichten tot het gebruik van de notificatieapplicatie dan wel enig ander vergelijkbaar digitaal middel. Onder dit verbod valt in ieder geval het gebruik van de applicatie of het middel, het delen van informatie daarvan, of het meedelen van het al dan niet hebben ontvangen van notificaties daarvan, als voorwaarde te stellen voor de toegang tot een gebouw of voorziening, het uitoefenen van arbeid, het gebruik maken van een dienst, de deelname aan enige vorm van intermenselijk contact, of het verkrijgen van enig voordeel.
+9. De in het kader van de notificatieapplicatie verwerkte gegevens kunnen worden uitgewisseld met andere lidstaten van de Europese Unie die een vergelijkbare notificatieapplicatie gebruiken indien deze uitwisseling bijdraagt aan het doel vroegtijdig zicht te kunnen verkrijgen op een mogelijke infectie met het virus door bij te houden welke gebruikers in elkaars nabijheid zijn geweest en hen in voorkomende gevallen te waarschuwen over een mogelijke infectie met het virus.
+10. Bij algemene maatregel van bestuur wordt in ieder geval de verwerkingsverantwoordelijke aangewezen voor de te onderscheiden delen van de gegevensverwerking die met toepassing van het negende lid plaatsvindt. De voordracht voor deze algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers van de Staten-Generaal is overgelegd.
+11. Onze Minister draagt ervoor zorg dat het in het tweede lid, onderdeel 6, bedoelde ip-adres van gebruikers zo snel mogelijk wordt gescheiden van de overige gegevens. Teneinde herleidbaarheid uit te sluiten is het verboden dit gegeven voorts aan andere gegevens, waaronder de gegevens bedoeld in het tweede lid, te koppelen.
