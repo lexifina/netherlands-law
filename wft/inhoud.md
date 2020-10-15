@@ -220,7 +220,7 @@
 ##### § 3.3.9.2. Financiële ondernemingen met zetel in een andere lidstaat
 ##### § 3.3.9.3. Financiële ondernemingen met zetel in een staat die geen lidstaat is
 ##### § 3.3.9.4. Financiële ondernemingen met zetel in een niet-aangewezen staat
-#### Afdeling 3.3.10. Meldingsplichten van de accountant en de actuaris
+#### Afdeling 3.3.10. Meldingsplichten van de accountant
 ##### § 3.3.10.1. Financiële ondernemingen met zetel in Nederland
 ##### § 3.3.10.2. Financiële ondernemingen met zetel in een andere lidstaat
 ##### § 3.3.10.3. Financiële ondernemingen met zetel in een staat die geen lidstaat is
@@ -347,7 +347,6 @@
 ##### § 4.3.7.1. Algemeen
 ##### § 4.3.7.2. Exploiteren van een georganiseerde handelsfaciliteit of een multilaterale handelsfaciliteit
 ##### § 4.3.7.2a. Mkb-groeimarkt
-##### § 4.3.7.3. Systematische interne afhandeling
 ##### § 4.3.7.5. Algoritmische handel, directe elektronische toegang en het optreden als clearinginstelling
 #### Afdeling 4.3.7a. Verzekeringen met een beleggingscomponent
 #### Afdeling 4.3.8. Onderlinge verhouding financiële ondernemingen
