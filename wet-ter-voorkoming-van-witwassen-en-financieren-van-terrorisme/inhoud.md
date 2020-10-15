@@ -24,5 +24,5 @@
 ## Hoofdstuk 5. Bepalingen met betrekking tot het bewaren van bewijsstukken en training
 ### § 5.1. Het bewaren van bewijsstukken
 ### § 5.2. Gegevensbescherming
-### § 5.3. Opleiding en kwalificaties
+### § 5.3. Doorlichting, opleiding en kwalificaties
 ## Hoofdstuk 6. Overgangs- en slotbepalingen

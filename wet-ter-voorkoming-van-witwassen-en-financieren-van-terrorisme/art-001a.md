@@ -20,7 +20,7 @@ c. natuurlijke personen, rechtspersonen of vennootschappen die als advocaat:
 1°. zelfstandig onafhankelijk beroeps- of bedrijfsmatig advies geven of bijstand verlenen bij:
 i. het aan- of verkopen van registergoederen;
 ii. het beheren van geld, effecten, munten, muntbiljetten, edele metalen, edelstenen of andere waarden;
-iii. het oprichten of beheren van vennootschappen, rechtspersonen of soortgelijke lichamen als bedoeld in artikel 2, eerste lid, onderdeel b, van de Algemene wet inzake rijksbelastingen;
+iii. het oprichten of beheren van vennootschappen, rechtspersonen of soortgelijke lichamen als bedoeld in artikel 2, eerste lid, onderdeel b, van de Algemene wet inzake rijksbelastingen dan wel het organiseren van de inbreng die nodig is voor de oprichting, de exploitatie of het beheer daarvan;
 iv. het aan- of verkopen van aandelen in, of het geheel of gedeeltelijk aan- of verkopen dan wel overnemen van ondernemingen, vennootschappen, rechtspersonen of soortgelijke lichamen als bedoeld in artikel 2, eerste lid, onderdeel b, van de Algemene wet inzake rijksbelastingen;
 v. werkzaamheden op fiscaal gebied die vergelijkbaar zijn met de werkzaamheden van de in onderdeel a beschreven beroepsgroepen;
 vi. het vestigen van een recht van hypotheek op een registergoed; of
@@ -29,7 +29,7 @@ d. natuurlijke personen, rechtspersonen of vennootschappen die als notaris, toeg
 1°. zelfstandig onafhankelijk beroeps- of bedrijfsmatig advies geven of bijstand verlenen bij:
 i. het aan- of verkopen van registergoederen;
 ii. het beheren van geld, effecten, munten, muntbiljetten, edele metalen, edelstenen of andere waarden;
-iii. het oprichten of beheren van vennootschappen, rechtspersonen of soortgelijke lichamen als bedoeld in artikel 2, eerstel lid, onderdeel b, van de Algemene wet inzake rijksbelastingen;
+iii. het oprichten of beheren van vennootschappen, rechtspersonen of soortgelijke lichamen als bedoeld in artikel 2, eerste lid, onderdeel b, van de Algemene wet inzake rijksbelastingen dan wel het organiseren van de inbreng die nodig is voor de oprichting, de exploitatie of het beheer daarvan;
 iv. het aan- of verkopen van aandelen in, of het geheel of gedeeltelijk aan- of verkopen dan wel overnemen van ondernemingen, vennootschappen, rechtspersonen of soortgelijke lichamen als bedoeld in artikel 2, eerste lid, onderdeel b, van de Algemene wet inzake rijksbelastingen;
 v. werkzaamheden op fiscaal gebied die vergelijkbaar zijn met de werkzaamheden van de in onderdeel a beschreven beroepsgroepen;
 vi. het vestigen van een recht van hypotheek op een registergoed; of
