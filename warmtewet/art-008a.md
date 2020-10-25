@@ -2,7 +2,9 @@
 1. Indien de leverancier de aan de verbruiker in rekening te brengen kosten voor de levering van warmte niet baseert op een individuele warmtemeter als bedoeld in artikel 8, baseert hij, onverminderd artikel 8, tweede lid, de kosten met inachtneming van artikel 2, vierde lid, op individuele warmtekostenverdelers die het warmteverbruik van elke radiator meten, tenzij de installatie daarvan niet kostenefficiënt is.
 2. Indien de leverancier de aan de verbruiker in rekening te brengen kosten voor de levering van warmte niet baseert op een individuele warmtemeter of individuele warmtekostenverdelers, baseert hij de kosten met inachtneming van artikel 2, vierde lid, op een voor alle verbruikers inzichtelijke kostenverdeelsystematiek.
 3. De kostenverdeelsystematiek, bedoeld in het tweede lid, gaat uit van een binnen de technische en financiële mogelijkheden zo nauwkeurig mogelijke benadering van het werkelijke aandeel van het verbruik van de individuele verbruiker.
-4. In afwijking van het derde lid kunnen als onderdeel van de kostenverdeelsystematiek kosten van verbruik in het gemeenschappelijk belang en redelijke kosten voor uitvoering van de kostenverdeelsystematiek zelf aan individuele verbruikers worden toegerekend.
+4. In afwijking van het derde lid kunnen als onderdeel van de kostenverdeelsystematiek aan individuele verbruikers worden toegerekend:
+a. kosten van verbruik in het gemeenschappelijk belang;
+b. redelijke kosten voor de uitvoering van de kostenverdeelsystematiek zelf in een appartementengebouw of in een multifunctioneel gebouw indien dit door een ander dan de leverancier geschiedt.
 5. Indien een onroerende zaak, die is gebouwd voor inwerkingtreding van dit lid, bestaat uit meerdere woon -of bedrijfsruimten kan de leverancier het individueel warmtegebruik van de verbruiker, zoals gemeten op grond van artikel 8 of artikel 8a, eerste of tweede lid, corrigeren aan de hand van correctiefactoren die door de leverancier zijn vastgesteld met inachtname van de daarvoor gangbare technische normen voor:
 a. de ligging van woonruimten, en
 b. leidingverliezen voor transportleidingen.
@@ -12,3 +14,4 @@ b. leidingverliezen voor transportleidingen.
 9. Indien de verbruiker of verbruikers en de leverancier niet tot overeenstemming komen over de keuze van een voor beiden aanvaardbare deskundige dan kan de Autoriteit Consument en Markt worden gevraagd om deze aan te wijzen.
 10. De leverancier verleent aan het onderzoek de nodige medewerking.
 11. Indien bestaande technische voorzieningen als bedoeld in het zesde lid worden vervangen, zorgt de leverancier dat de nieuwe voorzieningen van een type zijn waarvan een onafhankelijke deskundige aan de hand van daarvoor gangbare technische normen de deugdelijkheid heeft vastgesteld.
+12. In dit artikel wordt onder een verbruiker mede verstaan een eindgebruiker als bedoeld in artikel 10bis, eerste lid, eerste alinea van richtlijn 2012/27/EU het Europees Parlement en de Raad van 25 oktober 2012 betreffende energie-efficiëntie, tot wijziging van Richtlijnen 2009/125/EG en 2010/30/EU en houdende intrekking van de Richtlijnen 2004/8/EG en 2006/32/EG (PbEU 2012, L315).
