@@ -94,23 +94,23 @@ Algemene beschrijving
 In de loop der eeuwen zijn in het Nederlandse landschap diverse landschapselementen verschenen. Sommige van deze landschapselementen zijn al eeuwen oud. De functie was vaak meerledig: zo dienden dergelijke landschapselementen als perceelscheiding, veekering of drinkwatervoorziening voor het vee maar ze leverden ook gebruikshout op. Door de komst van prikkeldraad, de schaalvergroting en ruilverkavelingen zijn vele kilometers en hectares van deze elementen verdwenen.
 Deze landschapselementen vertegenwoordigen vaak een hoge natuurwaarde, doordat veel dieren en planten er beschutting, dekking en voedsel vinden. De lijnvormige landschapselementen worden gebruikt als migratieroute door veel zoogdieren als vleermuizen en das. De blauwe landschapselementen dienen als voortplantingsplaats van amfibieën en insecten. Veel vogels vinden nestgelegenheid in de dichtte begroeiing of juist in de ontstane holtes als gevolg van het intensieve beheer dat bij deze landschapselementen plaatsvindt. Planten en insecten profiteren optimaal van de vele microklimaten die de landschapselementen bieden.
 Beheertypen
-Dit natuurtype omvat de volgende beheertypen.
-- L01.01 Poel en klein historisch water
-- L01.02 Houtwal en houtsingel
-- L01.03 Elzensingel
-- L01.04 Bossingel en bosje (vervallen)
-- L01.05 Knip- en scheerheg
-- L01.06 Struweelhaag
-- L01.07 Laan
-- L01.08 Knotboom
-- L01.09 Hoogstamboomgaard
-- L01.10 Struweelrand
-- L01.11 Hakhoutbosje
-- L01.12 Griendje
-- L01.13 Bomenrij en solitaire boom
-- L01.14 Rietzoom en klein rietperceel
-- L01.15 Natuurvriendelijke oever
-- L01.16 Bossingel (nieuw per 1-1-2017)
+Dit natuurtype omvat de volgende beheertypen:
+• L01.01 Poel en klein historisch water
+• L01.02 Houtwal en houtsingel
+• L01.03 Elzensingel
+• L01.04 Bossingel en bosje (vervallen)
+• L01.05 Knip- en scheerheg
+• L01.06 Struweelhaag
+• L01.07 Laan
+• L01.08 Knotboom
+• L01.09 Hoogstamboomgaard
+• L01.10 Struweelrand
+• L01.11 Hakhoutbosje
+• L01.12 Griendje
+• L01.13 Bomenrij en solitaire boom
+• L01.14 Rietzoom en klein rietperceel
+• L01.15 Natuurvriendelijke oever
+• L01.16 Bossingel (nieuw per 1-1-2017)
 L01.01, POEL EN KLEIN HISTORISCH WATER
 Algemene beschrijving
 Poelen zijn natuurlijke of gegraven laagtes, gemaakt om over water voor vee te kunnen beschikken. Andere al dan niet gegraven kleine wateren met een historische betekenis zijn bijvoorbeeld voorraadbassins voor bluswater, visvijvers, schapenwasplaatsen, pingoruïnes en veenputten. Vaak vervulden poelen meerdere functies. De mens heeft altijd water nodig gehad en daarvoor zijn zowel bestaande natuurlijke wateren als zelf gegraven laagtes gebruikt. Ook uit de middeleeuwen zijn putten en kuilen bekend. Tot op de dag van vandaag worden poelen gegraven en gebruikt. Poelen en kleine wateren in het landschap kunnen dus al eeuwen oud zijn, alhoewel sommige van zeer recente datum zijn, denk aan nieuw gegraven amfibieënpoelen. Het beheertype Poel en klein historisch water is te vinden in heel Nederland. Er zijn diverse vormen bekend.
@@ -564,7 +564,7 @@ L04.01.01 Wandelpad over boerenland
 ## Bijlage 2 Index Natuur en Landschap, Onderdeel natuurbeheertypen
 BIJLAGE 2, INDEX NATUUR EN LANDSCHAP
 Onderdeel natuurbeheertypen
-Versie 0.6, 28 april 2016
+Versie 0.7, 12 juni 2016
 Red. P. Schipper en H. Siebel
 Leeswijzer
  | Leeswijzer | 55
@@ -586,6 +586,8 @@ N04.04 | Afgesloten zeearm | 78
 N05 | Moerassen | 80
 N05.01 | Moeras | 81
 N05.02 | Gemaaid rietland | 83
+N05.03 | Veenmoeras | 
+N05.04 | Dynamisch moeras | 
 N06 | Voedselarme venen en vochtige heiden | 84
 N06.01 | Veenmosrietland en moerasheide | 85
 N06.02 | Trilveen | 86
@@ -639,14 +641,16 @@ N17.05 | Wilgengriend (nieuw m.i.v. 1-1-2017) | 149
 N17.06 | Vochtig en hellinghakhout (nieuw m.i.v. 1-1-2017) | 150
 LEESWIJZER
 Ten aanzien van versie 0.5
-De versie 0.5 van het onderdeel natuurbeheertypen van de index natuur- en landschap betreft een versie met beschrijvingen van de beheertypen waar net als in versie 0.3 de landschapselementen zijn uitgehaald en elders in een apart onderdeel Landschapselementen zijn ondergebracht en ten opzichte van versie 0.4. enkele kleine aanpassingen aan de tekst van de beheertypen zijn gedaan ter verdere verduidelijking van de afbakening van de beheertypen, naar aanleiding van gebleken onduidelijkheden tijdens het omzettingsproces vanuit oude typologieën begin 2009.
+De versie 0.5 van het onderdeel natuurbeheertypen van de index natuur- en landschap betreft een versie met beschrijvingen van de beheertypen waar net als in versie 0.3 de landschapselementen zijn uitgehaald en elders in een apart onderdeel Landschapselementen zijn ondergebracht en ten opzichte van versie 0.4 enkele kleine aanpassingen aan de tekst van de beheertypen zijn gedaan ter verdere verduidelijking van de afbakening van de beheertypen, naar aanleiding van gebleken onduidelijkheden tijdens het omzettingsproces vanuit oude typologieën begin 2009.
+Ten aanzien van versie 0.7
+In versie 0.7 zijn ten opzichte van versie 0.6 de natuurbeheertypen 05.03 (Veenmoeras) en 05.04 (Dynamisch moeras) toegevoegd. Het natuurbeheertype 05.01 (Moeras) vervalt per 1 januari 2021.
 Natuurbeheertypen
 De natuur- en beheertypen zijn in nauwe samenwerking met IPO en LNV en met uitgebreide consultatie ontwikkeld binnen het Project Waarborgen Natuurkwaliteit om de bestaande planning en evaluatiesystemen op het gebied van natuurbeheer te verbeteren. Het ging om de volgende doelen en wensen.
 - Samenvoegingen en vervanging van bestaande systemen.
 - Verbetering waar nodig, echter geen radicaal andere uitgangspunten.
 - Stroomlijning met doelen van N2000 en Kaderrichtlijn water.
 - Vereenvoudiging door reductie van het aantal typen.
-Binnen het onderdeel natuur zijn er nu 17 natuurtypen en daaronder 47 beheertypen. Uitgangspunten van de typologie zijn:
+Binnen het onderdeel natuur zijn er nu 17 natuurtypen en daaronder 49 beheertypen. Uitgangspunten van de typologie zijn:
 - Natuurtypen zijn bedoeld als sturingsinstrument op landelijk en regionaal niveau.
 - Natuurtypen zijn bruikbaar om afspraken op het gebied van natuurbeheer, ruimtelijke ontwikkeling en milieu op elkaar af te stemmen zodat de nagestreefde natuurkwaliteit gerealiseerd kan worden.
 - De indeling in natuurtypen is met name gebaseerd op abiotische condities (waterhuishouding en voedselrijkdom).
@@ -661,7 +665,7 @@ Binnen het onderdeel natuur zijn er nu 17 natuurtypen en daaronder 47 beheertype
 o ecosysteembenadering; processen, structuur en levensgemeenschappen
 o mate van natuurlijkheid
 o hanteren van kwaliteitsniveaus per type
-Naast deze 17 natuurtypen en 47 beheertypen van het onderdeel natuur is er nog het natuurtype N00, Nog om te vormen naar natuur en het beheertype N00.01, Nog om te vormen naar natuur om gronden die nog moeten worden ingericht of omgevormd naar andere beheertypen in omvang en ligging voor beleid en beheer inzichtelijk te maken.
+Naast deze 17 natuurtypen en 49 beheertypen van het onderdeel natuur is er nog het natuurtype N00, Nog om te vormen naar natuur en het beheertype N00.01, Nog om te vormen naar natuur om gronden die nog moeten worden ingericht of omgevormd naar andere beheertypen in omvang en ligging voor beleid en beheer inzichtelijk te maken.
 Van alle natuurbeheertypen is een algemene beschrijving en afbakening opgenomen. De algemene beschrijvingen geven een indruk van het voorkomen en geografische verspreiding van de beheertypen, de kenmerkende natuurwaarden en belangrijkste abiotische en ruimtelijke condities. Voor de afbakening van de beheertypen is een aantal uitgangspunten geformuleerd:
 - de afbakening is goed toepasbaar en helder voor deskundige (gecertificeerde) beheerders,
 - de indeling is eenduidig toe te passen, de typen sluiten elkaar onderling zoveel mogelijk uit.
@@ -885,11 +889,13 @@ Vooral in het vlakke, westelijk deel van Nederland zijn vroeger grote moerassen 
 Later zijn deze gebieden overal wel op een of andere manier ontgonnen. Ook nu ondervinden de overgebleven moerassen bijna overal nog de invloed van de mens, onder andere door verdroging als gevolg van ontwatering, ook als die moerassen het stempel natuur hebben.
 Dit heeft ertoe geleid dat bijvoorbeeld zoute en zoete kwel, inbraken vanuit de zee en toestroom van schoon beek- en rivierwater zijn verdwenen of afgezwakt. Deze processen waren voorheen de aanjagers voor een grote verscheidenheid aan ecotopen en soorten.
 Beheertypen
-Dit natuurtype omvat twee beheertypen.
-- N05.01, Moeras
+Dit natuurtype omvat vier beheertypen.
+- N05.01, Moeras (vervallen per 1 januari 2021)
 - N05.02, Gemaaid rietland
-In beide typen wordt riet gemaaid, maar met verschillende doelstellingen. In het eerste geval gebeurt dit vooral om de soortenrijkdom te bewaren, in het tweede geval ligt de nadruk op de oogst van riet.
-N05.01, MOERAS
+- N05.03, Veenmoeras (nieuw per 1 januari 2021)
+- N05.04, Dynamisch moeras (nieuw per 1 januari 2021)
+Bij alle typen wordt riet gemaaid, maar met verschillende doelstellingen. In geval van Moeras, Veenmoeras en Dynamisch moeras gebeurt dit vooral om de soortenrijkdom te bewaren, in het geval van Gemaaid rietland ligt de nadruk op de oogst van riet.
+N05.01, MOERAS (vervallen per 1 januari 2021)
 1.1, Algemene beschrijving
 Moerassen komen voor op de overgang van zoet water naar land. Het lage deel van Nederland is vrijwel volledig ontstaan als moeras. Het zwaartepunt van de verspreiding ligt in de laaggelegen veen- en kleigebieden van Nederland. Moeras ontstaat in stilstaand voedselrijk, zoet water achter de duinen, in overstromingsvlakten van rivieren en beken of in kwelgebieden langs de randen van de zandgronden en in beekdalen. De bodems zijn zeer nat, voedselrijk en matig zuur tot neutraal.
 Typische moerasplanten zijn hoge grassen als riet en rietgras, grote zeggen, biezen en galigaan. Moeras is van groot belang voor vogels, libellen, vissen, amfibieën en enkele zoogdieren als bever, otter, noordse woelmuis en waterspitsmuis. Moeras omvat open begroeiingen van riet, lisdodde en biezen in water; rietlanden en rietruigten. Hierin weerspiegelt zich de overgang van water naar land. Aan de waterkant vormen losgeslagen planten drijftillen met waterscheerling, zeggen, galigaan en slangenwortel. Het rietland kan vrij open zijn met poeltjes waarin waterplanten groeien, kruidenrijk met diverse orchideeën en blauwe knoop of mosrijk met blad- en levermossen of al ouder met hoog opgaand riet die geleidelijk overgaan in ruigten met moerasspirea of poelruit. Door de grote stapeling van organisch materiaal in oude rietlanden en ruigten kunnen deze vegetaties (tijdelijk) overgaan in een grasrijke vegetatie. De kruidenrijke of mosrijke fase met vrij open riet kan duiden op een wat lagere voedselrijkdom in combinatie met matig zure omstandigheden. In dit milieu kunnen veenmossen zich vestigen. Een deel van de rietlanden wordt gemaaid, maar niet jaarlijks (overjarig riet).
@@ -918,6 +924,45 @@ Subsidieverplichtingen
 De beheerder dient het beheertype in stand te houden. De wijze waarop hij deze instandhoudingsverplichting invult, is aan de beheerder zelf.
 Voorbeeldgebieden
 Wieden, Weerribben, Nieuwkoopse Plassen, Vechtplassen, Botshol, Naardermeer en oevers Zwarte Meer.
+N05.03 Veenmoeras (nieuw per 1 januari 2021)
+Algemene beschrijving
+Veenmoerassen komen voor op de overgang van water naar land. Ze zijn gelegen in historisch laag- en eventueel hoogveengebieden. Kenmerkend voor deze moerassen is dat ze in de huidige situatie zeer nat zijn, maar een geringe waterdynamiek kennen. Soms is er zelfs sprake van een omgekeerd peil. Hierdoor neemt de snelheid van verbossing en verzuring toe. Om het moeras in stand te houden is daarom intensief beheer nodig.
+Typische moerasplanten zijn hoge grassen als riet en rietgras, grote zeggen, biezen en galigaan. Veenmoeras is van groot belang voor vogels, libellen, vissen, amfibieën en enkele zoogdieren als otter, noordse woelmuis en waterspitsmuis. Goed ontwikkelde moerassen behoren tot de soortenrijkste levensgemeenschappen in Nederland, en zijn daarom van groot belang voor de Nederlandse natuur.
+Veenmoeras omvat open begroeiingen van riet, lisdodde en biezen in water; rietlanden en rietruigten. Hierin weerspiegelt zich de overgang van water naar land. Aan de waterkant vormen losgeslagen planten drijftillen met waterscheerling, zeggen, galigaan en slangenwortel. Het rietland kan vrij open zijn met poeltjes waarin waterplanten groeien, kruidenrijk met diverse orchideeën en blauwe knoop of mosrijk met blad- en levermossen of al ouder met hoog opgaand riet die geleidelijk overgaan in ruigten met moerasspirea of poelruit. Door de grote stapeling van organisch materiaal in oude rietlanden en ruigten kunnen deze vegetaties (tijdelijk) overgaan in een grasrijke vegetatie. De kruidenrijke of mosrijke fase met vrij open riet kan duiden op een wat lagere voedselrijkdom in combinatie met matig zure omstandigheden. In dit milieu kunnen veenmossen zich vestigen. Een deel van de rietlanden wordt gemaaid, maar niet jaarlijks (overjarig riet).
+De Nederlandse moerassen zijn vrijwel volledig ontgonnen of verveend geweest; de grote menselijke invloed is in de laagveenmoerassen te herkennen aan het verveningspatroon. Een groot deel wordt bedreigd door vermesting, verdroging en verbossing.
+Voor een goede kwaliteit en duurzame instandhouding is een fluctuerend waterpeil en een goede waterkwaliteit essentieel. Doordat deze factoren vaak ontbreken is veelal sprake van gebrek aan nieuwvorming en successie waardoor extra beheer nodig is om voldoende oppervlak en kwaliteit te behouden.
+Veenmoeras kan een voorstadium vormen voor Veenmosrietland en moerasheide en uiteindelijk overgaan in Hoogveen. Ruigte en bosvorming (afhankelijk van peilregime en aanwezigheid van grote herbivoren en beheer) kunnen na verloop van tijd de overhand nemen.
+Afbakening
+• Het beheertype Veenmoeras omvat verlandingsvegetaties zoals riet- en biezenvegetaties, natte ruigte en grote zeggenvegetaties.
+• Veenmoeras kan tot 20% uit open water bestaan en tot 10% uit struweel. De zomersituatie geldt hier als referentiepunt.
+• De gemiddelde grondwaterstand in het najaar zakt maximaal tot 40 cm. onder het maaiveld, behoudens eventuele periodieke droogteperioden.
+• Droge rietruigten vallen niet onder dit beheertype maar onder het beheertype Ruigteveld.
+• In de nattere delen varieert de grondwaterstand tussen 0 en -20 cm.
+• Gebieden waar de waterstanddynamiek groot is (meer dan 20 cm verschil tussen zomer en winter) en/of waar regelmatig (gemiddeld minimaal 1 keer jaar) overstroming met oppervlaktewater plaatsvindt, vallen onder het type N05.04 Dynamisch Moeras.
+• Gebieden die onderdeel uitmaken van het natuurtype Grootschalige dynamische natuur: N01.03 Rivier- en Moeraslandschap, vallen niet onder het type Veenmoeras.
+Subsidieverplichtingen
+Voor natuurbeheerders geldt een algemene beheerverplichting. Dit betekent dat de beheerder het beheertype in stand moet houden. De manier waarop hij deze instandhoudingsverplichting invult, is aan de beheerder zelf.
+Voorbeeldgebieden
+Onderdelen van Wieden, onderdelen van Weerribben, Rottige Meenthe, Naardermeer, Oostelijke vechtplassen, Botshol en delen van de Nieuwkoopse Plassen.
+N05.04 Dynamisch Moeras (nieuw per 1 januari 2021)
+Algemene beschrijving
+Dynamische moerassen zijn moerassen met een hoge waterstand en een dynamisch waterpeil. Ze worden periodiek overstroomd met oppervlaktewater. Hierdoor is er minder sprake van verzuring en verbossing, waardoor de beheerintensiteit in deze gebieden lager is dan in veenmoerassen. Deze moerassen' zijn gesitueerd langs grote wateren en rivieroevers, in oude rivierbeddingen, op (voormalige) buitendijkse gronden, en vaak ook op middels een natuurontwikkelingsproject omgevormde voormalige landbouwgronden, waar een dynamisch peilbeheer kan worden gerealiseerd.
+Dynamische Moerassen komen voor op de overgang van water naar land. Het lage deel van Nederland is vrijwel volledig ontstaan als moeras. Het zwaartepunt van de verspreiding ligt in de klei- en riviergebieden van Nederland. Dynamisch moeras ontstaat in voedselrijk water achter de duinen, in overstromingsvlakten van rivieren en beken. De bodems zijn zeer nat, voedselrijk en matig zuur tot neutraal.
+Typische moerasplanten zijn hoge grassen als riet en rietgras, grote zeggen en biezen. Dynamisch Moeras is van groot belang voor vogels, vissen, amfibieën en enkele zoogdieren als bever, otter, noordse woelmuis en waterspitsmuis. Moeras omvat open begroeiingen van riet, lisdodde en biezen in water; rietlanden en rietruigten. Hierin weerspiegelt zich de overgang van water naar land. Het rietland kan vrij open zijn met poeltjes waarin waterplanten groeien of al ouder met hoog opgaand riet die geleidelijk overgaan in ruigten met moerasspirea of poelruit. Een deel van de rietlanden wordt gemaaid, maar niet jaarlijks (overjarig riet).
+De Nederlandse moerassen zijn vrijwel volledig ontgonnen of verveend; het resterende deel wordt bedreigd door vermesting, verdroging en verbossing. Daarnaast zijn er ook recent moerassen aangelegd. Veel van deze moerassen komen slechts geïsoleerd op een kleine oppervlakte voor en staan onder grote menselijke invloed. Hierdoor zijn er toch beperkingen aan de voor dit type noodzakelijke dynamiek. Ze kunnen daarom geen onderdeel vormen van Grootschalig Rivier en Moeraslandschap (N01.03). In voedselrijke gebieden kunnen ruigte en bosvorming (afhankelijk van peilregime en aanwezigheid van grote herbivoren en beheer) na verloop van tijd de overhand nemen.
+Voor een goede kwaliteit en duurzame instandhouding is een natuurlijk fluctuerend waterpeil en een goede waterkwaliteit essentieel. Thans is er veelal sprake van gebrek aan nieuwvorming en versnelde successie waardoor extra beheer nodig is om voldoende oppervlak en kwaliteit te behouden.
+Afbakening
+• Het beheertype Dynamisch Moeras omvat verlandingsvegetaties zoals riet- en biezenvegetaties, natte ruigte en grote zeggenvegetaties.
+• Moeras kan tot 20% uit open water bestaan en tot 10% uit struweel. De zomersituatie geldt hier als referentiepunt.
+• De gemiddelde grondwaterstand in het najaar zakt maximaal tot 40 cm onder het maaiveld, behoudens eventuele periodieke droogteperioden.
+• Gebieden waar de waterstanddynamiek beperkt is (minder dan 20 cm verschil tussen zomer en winter) en/of waar niet regelmatig (minimaal 1 keer per jaar) overstroming met oppervlaktewater plaatsvindt, vallen onder het type N05.03 Veenmoeras.
+• Droge rietruigten vallen niet onder dit beheertype maar onder het beheertype Ruigteveld.
+• In de nattere delen varieert de grondwaterstand tussen 0 en -20 cm.
+• Gebieden die onderdeel uitmaken van het natuurtype Grootschalige dynamische natuur: N01.03 Rivier- en Moeraslandschap, vallen niet onder het type Dynamisch Moeras.
+Subsidieverplichtingen
+Voor natuurbeheerders geldt een algemene beheerverplichting. Dit betekent dat de beheerder het beheertype in stand moet houden. De manier waarop hij deze instandhoudingsverplichting invult, is aan de beheerder zelf.
+Voorbeeldgebieden
+Moeraslocaties in de Oude Rijnstrangen/Oevers van het Zwarte Meer, het Lauwersmeer, Harderbroek, De Groene Jonker (Nieuwkoopse Plassen), de Onlanden in Noord-Drenthe.
 N06, VOEDSELARME VENEN EN VOCHTIGE HEIDEN
 Algemene beschrijving
 Voedselarme venen en vochtige heiden zijn natte, voedselarme, open gebieden met lage begroeiingen die voor een groot deel de neiging hebben tot veenvorming. In de lage begroeiing komen onder andere heidesoorten, kruiden en/of veenmossen voor die zijn aangepast aan voedselarme omstandigheden. De combinatie van hoge waterstanden en geringe voedselrijkdom zorgt ervoor dat de plantenresten niet volledig vergaan, maar zich na verloop van tijd ophopen, waardoor een veenpakket kan ontstaan.
@@ -1586,5 +1631,5 @@ De beheerder dient het beheertype in stand te houden. De wijze waarop hij deze i
 Voorbeeldgebieden
 ……………………….
 ## Bijlage 3
-De koppeltabel zoals bedoeld in artikel 1.1, onderdeel f, is geplaatst op http://www.bij12.nl/onderwerpen/natuur-en-landschap/subsidiestelstel-natuur-en-landschap
+De koppeltabel zoals bedoeld in artikel 1.2, onderdeel g, is geplaatst op http://www.bij12.nl/onderwerpen/natuur-en-landschap/subsidiestelstel-natuur-en-landschap
 ## Bijlage 4
