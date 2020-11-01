@@ -1,0 +1,2 @@
+# Artikel XIII. Inwerkingtreding
+Dit Verdrag, met inbegrip van de Bijlage erbij, die een integrerend onderdeel uitmaakt van dit Verdrag, treedt in werking op de eerste dag van de tweede maand na de datum van ontvangst van de laatste nota die tussen de partijen langs diplomatieke weg wordt uitgewisseld en waarin staat vermeld dat hun onderscheiden interne procedures die nodig zijn voor de inwerkingtreding van dit Verdrag zijn afgerond.

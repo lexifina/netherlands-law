@@ -1,0 +1,2 @@
+# Article VII. Access and use of facilities
+The Government of the Kingdom of the Netherlands may provide to the Government of the United States of America, and representatives or agents of the United States Government as mutually determined, unimpeded access and use of facilities and areas in the Kingdom of the Netherlands, as mutually determined in MoUs or other written arrangements subject to this Agreement.

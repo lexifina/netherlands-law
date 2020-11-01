@@ -1,0 +1,2 @@
+# Artikel VII. Toegang tot en gebruik van faciliteiten
+De Regering van het Koninkrijk der Nederlanden kan de Regering van de Verenigde Staten van Amerika en vertegenwoordigers of agenten van de Regering van de Verenigde Staten zoals wederzijds overeengekomen, onbelemmerde toegang verlenen tot en onbelemmerd gebruik toestaan van de faciliteiten en gebieden in het Koninkrijk der Nederlanden, zoals wederzijds overeengekomen in MvO of andere schriftelijke regelingen waarop dit Verdrag van toepassing is.

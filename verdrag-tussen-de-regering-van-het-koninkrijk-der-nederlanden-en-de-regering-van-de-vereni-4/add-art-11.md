@@ -1,0 +1,3 @@
+# Article XI. Termination
+This Agreement shall remain in force until terminated by the Parties or by either Party by giving six months' notice through diplomatic channels of its intention to terminate it. However, the obligations of the Parties under this Agreement regarding liability and claims; protection of information, equipment, or material; lease or loan of equipment or material; payment for logistics support; and funding and disputes shall continue notwithstanding termination of this Agreement.
+In the event of termination of this Agreement, the Parties' national defense organizations shall consult regarding termination or continuation of any MoU or other written arrangement that is subject to this Agreement.

@@ -1,0 +1,2 @@
+# Article XII. Applicability of the agreement as regards the Kingdom of the Netherlands
+As regards the Kingdom of the Netherlands, this Agreement shall apply to the European part of the Netherlands. However, it may be extended to the Caribbean part of the Netherlands (the islands of Bonaire, Sint Eustatius, and Saba), Aruba, Curaçao, and Sint Maarten by amending the Agreement through an exchange of diplomatic notes.

@@ -1,0 +1,2 @@
+# Article IX. Financial
+The Parties shall meet all financial obligations as specified in the MoUs or other written arrangements subject to this Agreement. The obligations of the Parties shall be subject to the availability of funds for the purposes of this Agreement and those specified in the MoUs or other written arrangements subject to this Agreement, in accordance with the respective national laws and regulations of the Parties to this Agreement.

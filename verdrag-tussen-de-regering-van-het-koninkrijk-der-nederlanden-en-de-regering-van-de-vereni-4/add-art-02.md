@@ -1,0 +1,2 @@
+# Article II. Arrangements for defense cooperation activities
+Whenever the Parties' national defense organizations, within the limits of defense responsibilities and authorities as established by the respective Party, enter into memoranda of understanding (MoUs) or other written arrangements for defense cooperation activities, such MoUs or other written arrangements shall only be subject to this Agreement if this Agreement is explicitly invoked by such MoUs or other written arrangements.

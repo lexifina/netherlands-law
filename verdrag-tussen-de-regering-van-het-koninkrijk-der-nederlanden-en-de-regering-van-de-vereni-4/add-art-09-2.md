@@ -1,0 +1,2 @@
+# Artikel IX. Financiën
+De partijen voldoen aan alle financiële verplichtingen zoals vervat in de MvO of andere schriftelijke regelingen waarop dit Verdrag van toepassing is. De verplichtingen van de partijen zijn onderworpen aan de beschikbaarheid van middelen ten behoeve van de uitvoering van dit Verdrag en de middelen die nader zijn omschreven in de MvO of andere schriftelijke regelingen waarop dit Verdrag van toepassing is, in overeenstemming met de onderscheiden nationale wet- en regelgeving van de partijen bij dit Verdrag.
