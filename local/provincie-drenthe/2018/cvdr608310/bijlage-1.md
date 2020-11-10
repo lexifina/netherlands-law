@@ -1,3 +1,3 @@
 # Bijlage 1
 ## Bijlage 1: Kaart begrenzing openstellingsbesluit
-[afbeelding: plaatjeveenkolonienid77c115b-6434-40f9-8748-95938cc90dd0.png]
+[afbeelding: plaatjeveenkolonienia5b902a4-fc34-4a45-a0c6-b9e73812f515.png]
