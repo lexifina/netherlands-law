@@ -25,9 +25,9 @@ Leges
  | + 2,75 % van de bouwkosten | 
 1.3.1.2 | van € 200.000 tot € 500.000 | € 5.750,00
  | + 2,25% over de bouwkosten boven € 200.000 | 
-1.3.1.3 | van € 500.000 tot € 5.000.000 | € 2.500,00
+1.3.1.3 | van € 500.000 tot € 5.000.000 | € 12.500,00
  | + 1,75% over de bouwkosten boven € 500.000 | 
-1.3.1.4 | van € 5.000.000 tot € 15.000.000 | € 1.250,00
+1.3.1.4 | van € 5.000.000 tot € 15.000.000 | € 91.250,00
  | + 0,25% over de bouwkosten boven € 5.000.000 | 
 1.3.1.5 | Vanaf € 15.000.000 | € 116.250,00
  | + 0,1% over de bouwkosten boven € 15.000.000 | 
