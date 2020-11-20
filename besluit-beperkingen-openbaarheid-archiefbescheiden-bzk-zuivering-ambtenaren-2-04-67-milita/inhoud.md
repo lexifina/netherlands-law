@@ -1,0 +1,10 @@
+# Inhoud
+## Artikel 1. BZK Zuivering Ambtenaren (2.04.67)
+## Artikel 2. Militair Gezag (2.13.25)
+## Artikel 3. BRIOP (2.13.208)
+## Artikel 4. Defensie Collectie Zuiveringen (2.13.99)
+## Artikel 5. Financiën Bureau Zuivering (2.08.79)
+## Artikel 6. BZK Bureau Invordering (2.04.77)
+## Artikel 7. Justitie Afdeling Politie (2.09.107)
+## Artikel 8. Justitie RVD (2.09.45)
+## Artikel 9. NEFIS (2.10.62)
