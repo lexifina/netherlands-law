@@ -1,0 +1,2 @@
+# XIII. Ad artikelen 10, 11 en 12
+Verzoeken om vrijstelling aan de bron of teruggaaf van te veel betaalde belasting moeten worden ingediend bij de bevoegde autoriteit van de Staat die de belasting heft of heeft geheven, vergezeld van een officiële woonplaatsverklaring van de belastingautoriteiten van de andere Verdragsluitende Staat en in overeenstemming met de nationale wet- en regelgeving van de Staat die de belasting heft of heeft geheven.

@@ -1,0 +1,3 @@
+# IV. Ad artikel 4, eerste lid
+1. De uitdrukking „inwoner van een Verdragsluitende Staat" omvat een organisatie die uitsluitend voor religieuze, liefdadige, wetenschappelijke, culturele, sportieve of educatieve doeleinden (of voor meer dan een van deze doeleinden) is opgericht en wordt beheerd, en die een inwoner is van die Staat overeenkomstig de wetgeving daarvan, niettegenstaande het feit dat de inkomsten of voordelen geheel of gedeeltelijk zijn vrijgesteld van belasting ingevolge de nationale wetgeving van die Staat.
+2. De uitdrukking „inwoner van een Verdragsluitende Staat" omvat tevens een pensioenfonds.

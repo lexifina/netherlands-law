@@ -1,0 +1,12 @@
+# XVII. Ad Article 26
+a) It is understood that an exchange of information will only be requested once the requesting Contracting State has pursued all means available to obtain information available under the internal taxation procedure.
+b) It is understood that the tax authorities of the requesting State shall provide the following information to the tax authorities of the requested State when making a request for information under Article 26 of the Convention:
+(i) information sufficient to identify the person(s) under examination or investigation, in particular name, and, to the extent known, address, account number, and other particulars facilitating that persons identification, such as date of birth, marital status, tax identification number;
+(ii) the period of time for which the information is requested;
+(iii) a statement of the information sought including its nature and the form in which the requesting State wishes to receive the information from the requested State;
+(iv) the tax purpose for which the information is sought;
+(v) the name and, to the extent known, address of any person in possession of the requested information.
+c) The purpose of referring to information that may be foreseeable relevant is intended to provide for exchange of information in tax matters to the widest possible extent without allowing the Contracting States to engage in "fishing expeditions" or to request information that is unlikely to be relevant to the tax affairs of a given taxpayer. While paragraph b contains important procedural requirements that are intended to ensure that fishing expeditions do not occur, subparagraphs (i) through (v) nevertheless need to be interpreted with a view not to frustrate effective exchange of information.
+d) Although Article 26 of the Convention does not restrict the possible methods for exchanging information, it shall not commit a Contracting State to exchange information on an automatic or spontaneous basis. The Contracting States expect to provide information to one another necessary for carrying out the provisions of the Convention.
+e) It is understood that in case of an exchange of information, the administrative procedural rules regarding taxpayers' rights provided for in the requested Contracting State remain applicable before the information is transmitted to the requesting Contracting State.
+f) It is understood that the carrying out of the income-related regulations in the Netherlands is typically another purpose as meant in the last sentence of paragraph 2 of Article 26.

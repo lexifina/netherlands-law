@@ -1,0 +1,2 @@
+# XI. Ad artikel 10, zesde lid, en artikel 11, derde lid, en artikel 13
+Niettegenstaande de bepalingen van artikel 10, zesde lid, artikel 11, derde lid, en artikel 13, is het wel te verstaan dat betalingen in verband met een lening, met inbegrip van betalingen wegens waardeveranderingen van de lening, worden behandeld als dividend, voor zover deze betalingen krachtens de belastingwetgeving van de Verdragsluitende Staat waarvan het lichaam dat de betalingen doet inwoner is, worden behandeld als een uitdeling.

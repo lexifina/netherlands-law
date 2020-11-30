@@ -1,0 +1,2 @@
+# XI. Ad Article 10, paragraph 6, Article 11, paragraph 3, and Article 13
+Notwithstanding the provisions of paragraph 6 of Article 10, paragraph 3 of Article 11 and Article 13, it is understood that payments on a loan, including payments on value changes of the loan, shall be treated as a dividend insofar as these payments are treated as a distribution by the tax laws of the Contracting State of which the company making the payments is a resident.

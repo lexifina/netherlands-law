@@ -1,0 +1,3 @@
+# XIV. Ad artikelen 10 en 13
+1. Het is wel te verstaan dat inkomsten die worden ontvangen in verband met de (gedeeltelijke) liquidatie van een lichaam of een inkoop van eigen aandelen door een lichaam, worden behandeld als inkomsten uit aandelen en niet als vermogenswinsten. De verrekening van belasting geheven aan de bron wordt verleend voor het belastingtijdvak waarin de inkomsten zijn belast in de woonstaat.
+2. Het is wel te verstaan dat in geval van een aanslag als bedoeld in artikel 10, negende lid, en artikel 13, zesde lid, uitstel van betaling wordt verleend op voorwaarde dat een permanente zekerheid wordt gesteld.
