@@ -16,9 +16,15 @@
 ### § 5. Maatregelen gericht op gebouwen, goederen en vervoermiddelen
 ### § 6. Havens en luchthavens
 ### § 7. Certificaten van inenting
+## Hoofdstuk Va. Tijdelijke bepalingen bestrijding epidemie covid-19
+### § 1. Algemene bepalingen
+### § 2. Veilige afstand en andere gedragsvoorschriften
+### § 3. Sectorspecifieke bepalingen
+### § 4. Overige bepalingen
 ## Hoofdstuk VI. Financiële bepalingen
 ## Hoofdstuk VII. Handhaving
 ### § 1. Toezicht
+### § 1a. Opsporing
 ### § 2. Strafbepalingen
-## Hoofdstuk Va. Openbare lichamen Bonaire, Sint Eustatius en Saba
+## Hoofdstuk VIIa. Openbare lichamen Bonaire, Sint Eustatius en Saba
 ## Hoofdstuk VIII. Overige bepalingen

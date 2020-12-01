@@ -1,0 +1,2 @@
+# Artikel 58n. Maatregelen voor besloten plaatsen
+Indien door een gedraging of activiteit in of vanuit een besloten plaats, niet zijnde een woning, een ernstige vrees voor de onmiddellijke verspreiding van het virus SARS-CoV-2 ontstaat, kan de burgemeester de bevelen geven die nodig zijn voor de beëindiging van de gedraging of activiteit en de daar aanwezige personen bevelen zich onmiddellijk te verwijderen.

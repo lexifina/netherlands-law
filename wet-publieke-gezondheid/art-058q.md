@@ -1,0 +1,3 @@
+# Artikel 58q. Onderwijsinstellingen
+1. Bij ministeriële regeling kan worden bepaald dat het verrichten van onderwijsactiviteiten in onderwijsinstellingen geheel of gedeeltelijk verboden is en kunnen beperkingen of andere voorwaarden worden gesteld aan het verrichten van onderwijsactiviteiten in onderwijsinstellingen. Daarbij kan onderscheid worden gemaakt tussen onderwijsinstellingen of categorieën daarvan.
+2. Met het toezicht op de naleving van het bepaalde krachtens het eerste lid zijn belast de ambtenaren van de inspectie van het onderwijs die zijn belast met het toezicht op de naleving van bij of krachtens een onderwijswet als bedoeld in artikel 1, onderdeel d, onder 1, van de Wet op het onderwijstoezicht gegeven voorschriften.

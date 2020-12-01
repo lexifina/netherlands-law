@@ -1,0 +1,2 @@
+# Artikel 58m. Maatregelen voor openbare plaatsen
+Indien de burgemeester van oordeel is dat de omstandigheden op een openbare plaats zodanig zijn dat de daar aanwezige personen het bepaalde bij of krachtens de artikelen 58f tot en met 58j niet in acht kunnen nemen, of bij ernstige vrees voor het ontstaan daarvan, kan hij de bevelen geven die nodig zijn om de naleving van deze artikelen op een openbare plaats te verzekeren.
