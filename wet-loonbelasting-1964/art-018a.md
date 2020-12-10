@@ -11,11 +11,11 @@ c. bij de berekening wordt een rekenrente in aanmerking genomen van ten minste v
 7. a. De in deze wet met betrekking tot het desbetreffende pensioen opgenomen maxima worden voor het ouderdomspensioen opgevat met inbegrip van een bedrag dat ten minste wordt gesteld op per dienstjaar of ontbrekend dienstjaar een evenredig gedeelte van de voor dat jaar geldende uitkeringen voor gehuwde personen zonder toeslag als omschreven in artikel 9, eerste lid, onderdeel b, en vijfde lid, van de Algemene Ouderdomswet, vermeerderd met de vakantietoeslag. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat een lager bedrag in aanmerking kan worden genomen dan het in de eerste volzin bedoelde bedrag indien een lager percentage per dienstjaar wordt toegepast dan de in het eerste tot en met derde lid bedoelde percentages.
 b. Voor het partnerpensioen kan het in onderdeel a bedoelde bedrag voor 70% in aanmerking worden genomen.
 c. Voor het wezenpensioen kan het in onderdeel a bedoelde bedrag voor 14% en voor volle wezen voor 28% in aanmerking worden genomen.
-8. De in het zesde lid genoemde pensioenrichtleeftijd wordt jaarlijks bij algemene maatregel van bestuur gewijzigd. De wijziging vindt voor het eerst plaats per 1 januari 2015 en wordt berekend op basis van de volgende formule:
-V = (L – 18,26) – (P – 65)
+8. De in het zesde lid genoemde pensioenrichtleeftijd wordt bij algemene maatregel van bestuur bij het begin van het kalenderjaar gewijzigd. De wijziging wordt berekend op basis van de volgende formule:
+V = 2/3 * (L – 20,64) – (P – 67)
 waarbij:
 V staat voor het aantal jaren waarmee de pensioenrichtleeftijd wordt verhoogd;
 L staat voor de geraamde macro gemiddelde resterende levensverwachting voor de Nederlandse bevolking in jaren op 65-jarige leeftijd in het kalenderjaar dat is gelegen tien jaar na het kalenderjaar van wijziging;
 P staat voor de geldende pensioenrichtleeftijd in het kalenderjaar voorafgaande aan het kalenderjaar van wijziging.
-Indien V negatief is of vóór afronding minder dan 1 beloopt, wordt deze gesteld op 0. Indien V vóór afronding 1 of meer beloopt, wordt deze gesteld op 1. Een wijziging ingevolge de eerste volzin van de pensioenrichtleeftijd wordt bekendgemaakt ten minste een jaar voordat deze toepassing vindt.
+Indien V negatief is of vóór afronding minder dan 1 bedraagt, wordt deze gesteld op 0. Indien V vóór afronding 1 of meer bedraagt, wordt deze gesteld op 1. Een wijziging ingevolge de eerste volzin van de pensioenrichtleeftijd wordt bekendgemaakt ten minste een jaar voordat deze toepassing vindt.
 9. De ramingen van de macro gemiddelde resterende levensverwachting, bedoeld in het achtste lid, worden uitgevoerd en bekendgemaakt door het Centraal Bureau voor de Statistiek.
