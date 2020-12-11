@@ -1,0 +1,2 @@
+# Artikel 13.. Onvoorziene gevallen
+In alle gevallen waarin dit reglement niet voorziet, beslist de voorzitter.

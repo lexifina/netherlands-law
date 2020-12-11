@@ -1,0 +1,2 @@
+# Artikel 7.. Mondelinge informatieverschaffing door de aanvrager
+Indien de voorzitter en de ambtelijk secretaris dat, gelet op de aard van de in een vergadering te behandelen stukken, dienstig achten, kunnen zij de aanvrager van een subsidie of een door de aanvrager schriftelijk gemachtigd vertegenwoordiger uitnodigen om in die vergadering mondeling nadere informatie te verschaffen over de aanvraag.

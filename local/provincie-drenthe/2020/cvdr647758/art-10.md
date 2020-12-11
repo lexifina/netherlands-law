@@ -1,0 +1,3 @@
+# Artikel 10.. Vergoeding
+1. De voorzitter en de leden ontvangen voor het bijwonen van de vergaderingen van de adviescommissie een vergoeding op grond van artikel 11, eerste lid van de Verordening rechtspositie decentrale politieke ambtsdragers provincie Drenthe 2019. De voorzitter en de plaatsvervangend voorzitter ontvangen een hogere vergoeding. Deze hogere vergoeding is een percentage van de hiervoor genoemde vergoeding en bedraagt voor de voorzitter van de commissie 250% en voor de plaatsvervangend voorzitter 150%.
+2. De voorzitter en de leden ontvangen reis- en verblijfskostenvergoeding overeenkomstig artikel 12 van de Verordening rechtspositie decentrale politieke ambtsdragers provincie Drenthe 2019.
