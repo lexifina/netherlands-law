@@ -1,0 +1,2 @@
+# II. Uitkeringen voor gehandicapten
+De uitkeringen voor gehandicapten van de federale wet inzake de ouderdoms- en nabestaandenverzekering en de federale wet inzake de invaliditeitsverzekering zullen bij besluit van het gemengd comité in de tekst van bijlage II bij de Overeenkomst betreffende het vrije verkeer van personen en in bijlage II bis van Verordening nr. 1408/71 worden opgenomen na de inwerkingtreding van de herziening van deze wetten die bepaalt dat deze uitkeringen uitsluitend door de overheid worden gefinancierd.
