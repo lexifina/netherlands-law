@@ -184,6 +184,7 @@
 ### Titel 5. Europees bevriezingsbevel
 #### afdeling Eerste. Bevelen uitgevaardigd door een andere lidstaat van de Europese Unie
 #### afdeling Tweede. Bevelen uitgevaardigd door Nederland
+#### afdeling Derde. Bevriezingsbevelen op grond van Verordening 2018/1805
 ### Titel 6
 ### Titel 7. Wederzijdse erkenning en tenuitvoerlegging van bevelen betreffende de voorlopige hechtenis tussen de lidstaten van de Europese Unie
 #### afdeling Eerste. Algemene bepalingen
