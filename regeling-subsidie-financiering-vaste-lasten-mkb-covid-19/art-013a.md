@@ -1,0 +1,2 @@
+# Artikel 13a. (overgangsrecht)
+Op aanvragen om subsidie die zijn ingediend voor het tijdstip van inwerkingtreding van een wijziging van deze regeling en op subsidies die voor dat tijdstip zijn verstrekt, blijft deze regeling van toepassing zoals deze luidde voor dat tijdstip.
