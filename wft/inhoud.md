@@ -233,7 +233,7 @@
 ##### § 3.4.1.1. Financiële instellingen met zetel in Nederland
 #### Afdeling 3.4.2. Regime voor banken aangesloten bij een centrale kredietinstelling
 ### Hoofdstuk 3.5. Bijzondere regels en maatregelen ten aanzien van financiële ondernemingen werkzaam op de financiële markten
-#### Afdeling 3.5.1. Bijzondere maatregelen ten aanzien van banken, beleggingsondernemingen, betaalinstellingen en elektronischgeldinstellingen
+#### Afdeling 3.5.1. Bijzondere maatregelen ten aanzien van banken, beleggingsondernemingen, betaalinstellingen, elektronischgeldinstellingen, financiële holdings en gemengde financiële holdings
 #### Afdeling 3.5.1a. Portefeuilleoverdracht
 ##### § 3.5.1a.0. Inleidende bepalingen
 ##### § 3.5.1a.1. Verzekeraars met zetel in Nederland
@@ -264,7 +264,8 @@
 #### Afdeling 3.5.10. Verwijzingsportaal bankgegevens
 ### Hoofdstuk 3.6. Bepalingen ten aanzien van richtlijngroepen
 #### Afdeling 3.6.1. Algemeen
-#### Afdeling 3.6.2. Geconsolideerd toezicht op banken, beleggingsondernemingen, betaalinstellingen en elektronischgeldinstellingen
+#### Afdeling 3.6.1a. Groepen met financiële moederholdings of gemengde financiële moederholdings
+#### Afdeling 3.6.2. Geconsolideerd toezicht op banken, beleggingsondernemingen, financiële holdings en gemengde financiële holdings
 #### Afdeling 3.6.3. Toezicht op verzekeraars met beperkte risico-omvang in een richtlijngroep en op herverzekeraars, levensverzekeraars en schadeverzekeraars in een verzekeringsrichtlijngroep
 ##### § 3.6.3.0. Toezicht op verzekeraars met beperkte risico-omvang in een richtlijngroep
 ##### § 3.6.3.1. Toepassing verzekeringsrichtlijngroepstoezicht
@@ -276,6 +277,7 @@
 ##### § 3.6.4.1. Regels betreffende het toezicht op financiële conglomeraten
 ##### § 3.6.4.2. Regels voor het werkzaam zijn als financieel conglomeraat
 #### Afdeling 3.6.5. Overeenkomsten voor financiële steun binnen een groep
+#### Afdeling 3.6.6. Intermediaire EU-moederonderneming derdeland groepen
 ## 3a. Deel Bijzondere maatregelen en voorzieningen betreffende financiële ondernemingen
 ### Hoofdstuk 3a.1. Afwikkeling van banken en bepaalde beleggingsondernemingen
 #### Afdeling 3a.1.1. Algemene bepalingen
