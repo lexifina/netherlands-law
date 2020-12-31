@@ -1,0 +1,8 @@
+# Artikel 15aa. Zichtafstand, VFR-vlieghoogte en afstand tot mensenmenigten, bebouwing, spoorlijnen of wegen voor vluchten met RPA's van niet meer dan 4 kg
+1. Indien de organisatie die VFR-vluchten uitvoert met een RPA waarvan de totale massa niet meer dan 4 kg bedraagt, in plaats van over de in artikel 10, eerste lid, bedoelde documenten, beschikt over de in artikel 10a, tweede lid, bedoelde documenten, is het in afwijking van de artikelen 13, 14, eerste lid, en 15, eerste en derde lid, verboden de vlucht uit te voeren:
+a. buiten een afstand van 100 meter horizontaal van de bestuurder;
+b. hoger dan 40 meter (131 ft) boven de grond of het water binnen het deel van het luchtruim als bedoeld in artikel 10a, eerste lid, onderdeel b;
+c. hoger dan 50 meter (165 ft) boven de grond of het water in ander dan het in onderdeel b bedoelde deel van het luchtruim;
+d. binnen een afstand van 50 meter horizontaal van mensenmenigten, aaneengesloten bebouwing of kunstwerken, industrie- en havengebieden daaronder begrepen, in gebruik zijnde autosnelwegen en autowegen, in gebruik zijnde wegen waar een maximale snelheid van 80 kilometer per uur geldt, spoorlijnen, vaartuigen en voertuigen; en
+e. in ander luchtruim dan luchtruim met klasse G.
+2. Indien de organisatie die VFR-vluchten uitvoert met een RPA als bedoeld in het eerste lid, in plaats van over de in artikel 10, eerste lid, bedoelde documenten, beschikt over de in artikel 10a, tweede lid, bedoelde documenten, is artikel 2, onderdeel h, van de Regeling modelvliegen van overeenkomstige toepassing op deze vluchten, met dien verstande dat de vluchten plaatsvinden met inachtneming van artikel 15aa, eerste lid, aanhef en onderdelen b en c.

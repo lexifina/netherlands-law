@@ -1,0 +1,3 @@
+# Artikel 9a. Buitenlandse RPA's
+1. Dit artikel is van toepassing op RPA's die geregistreerd zijn in een andere lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst inzake de Europese Economische Ruimte.
+2. De Minister verleent op grond van artikel 3.21 van de Wet luchtvaart ontheffing van het verbod een vlucht uit te voeren met een RPA die niet is voorzien van een geldig bewijs van luchtwaardigheid, indien de RPA voldoet aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de in deze paragraaf gestelde eisen wordt nagestreefd.
