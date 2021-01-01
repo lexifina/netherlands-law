@@ -1,2 +1,3 @@
 # Artikel 475f
-Indien beslag is gelegd op een vordering tot weerkerende betalingen die niet in artikel 475c is omschreven en de schuldenaar onvoldoende andere middelen van bestaan heeft, kan hij de kantonrechter verzoeken de artikelen 475b en 475d mede op die vordering van toepassing te verklaren.
+1. Indien beslag is gelegd op een vordering tot weerkerende betalingen die niet in artikel 475c, eerste lid, is omschreven en de geëxecuteerde onvoldoende andere middelen van bestaan heeft, kan de geëxecuteerde de kantonrechter verzoeken de artikelen 475b en 475d tot en met 475e mede op die vordering van toepassing te verklaren.
+2. Indien bij toepassing van het eerste lid op een vordering tot weerkerende betalingen tevens beslag ligt of wordt gelegd op een vordering tot periodieke betaling als bedoeld in artikel 475c, eerste lid, is artikel 475c, vijfde lid, van overeenkomstige toepassing.

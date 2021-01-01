@@ -1,0 +1,2 @@
+# Artikel 475dc
+In afwijking van de artikelen 475da en 475db bedraagt de beslagvrije voet 95% van het maandelijkse inkomen dat de geëxecuteerde op basis van zijn vorderingen tot periodieke betaling, genoemd in artikel 475c, eerste lid, onderdelen a tot en met i, ontvangt, indien toepassing van de artikelen 475da en 475db leidt tot een beslagvrije voet die hoger is dan 95% van het maandelijkse inkomen.
