@@ -1,0 +1,2 @@
+# Artikel 39i
+Voor de toepassing van artikel 20, derde lid, worden onder werknemers die in een andere lidstaat van de Europese Unie wonen mede verstaan werknemers die in het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland wonen en die in het kalenderjaar de in de artikelen 24 en 25 van het Akkoord inzake de terugtrekking van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland uit de Europese Unie en de Europese Gemeenschap voor Atoomenergie (PbEU 2020, L 29) genoemde rechten genieten.
