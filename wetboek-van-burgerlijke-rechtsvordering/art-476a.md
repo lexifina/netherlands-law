@@ -7,3 +7,4 @@ c. een gespecificeerde opgave van de door het beslag getroffen zaken;
 d. een opgave van eventuele andere, onder de derde-beslagene ten laste van de geëxecuteerde liggende beslagen met vermelding van de deurwaarders die ze hebben gelegd en de tijdstippen waarop ze zijn gelegd;
 e. een opgave van de aan de derde-beslagene bekende pandrechten die op door het beslag getroffen goederen rusten, met vermelding van de pandhouders;
 f. de verdere gegevens die voor het vaststellen van de rechten van partijen dienstig mochten zijn.
+3. Bij algemene maatregel van bestuur worden regels gegeven aangaande de kosten die door de derde-beslagene kunnen worden gerekend voor het doen van de verklaring en de afwikkeling van het beslag.

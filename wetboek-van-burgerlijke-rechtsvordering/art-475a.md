@@ -1,4 +1,9 @@
 # Artikel 475a
 1. Het beslag strekt zich niet uit tot vorderingen of zaken die volgens de wet niet voor beslag vatbaar zijn, noch tot vorderingen die recht geven op een volgens de wet of naar haar aard niet voor beslag vatbare prestatie.
 2. Het beslag is niet geldig op het gedeelte van een vordering dat daarop wordt ingehouden krachtens de wet, uit hoofde van een ziektekostenverzekering of van een pensioenspaarregeling dan wel uit hoofde van een ondernemingsspaarregeling voor een oudedagsverzorging.
-3. Vorderingen die recht geven op iets anders dan betaling van een geldsom of dan levering van roerende zaken die geen registergoederen zijn, of van rechten aan toonder of order, vallen slechts onder het beslag, voor zover zij in het beslagexploot uitdrukkelijk zijn omschreven.
+3. Het beslag strekt zich niet uit tot onkostenvergoedingen, tenzij deze als fiscaal loon van de geëxecuteerde worden beschouwd.
+4. Vorderingen die recht geven op iets anders dan betaling van een geldsom of dan levering van roerende zaken die geen registergoederen zijn, of van rechten aan toonder of order, vallen slechts onder het beslag, voor zover zij in het beslagexploot uitdrukkelijk zijn omschreven.
+5. Een beslag als bedoeld in artikel 475, eerste lid, op geldmiddelen die een natuurlijk persoon aanhoudt bij een bank is slechts geldig voor zover het de bedragen genoemd in het eerste lid van artikel 475da gedurende een kalendermaand overtreft. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld inzake de uitvoering van dit beslag.
+6. Indien de geëxecuteerde op grond van de basisregistratie personen geen woonadres in Nederland heeft en hij onvoldoende andere middelen van bestaan heeft, kan de geëxecuteerde de kantonrechter verzoeken lid 5 van toepassing te verklaren.
+7. In dit artikel en in artikel 475aa worden onder geldmiddelen verstaan geldmiddelen als bedoeld in artikel 1:1 van de Wet op het financieel toezicht en onder bank wordt verstaan een bank als bedoeld in artikel 1:1 Wet op het financieel toezicht.
+8. Op ingevolge artikel 642c in de consignatiekas gestorte bedragen mag geen beslag worden gelegd.
