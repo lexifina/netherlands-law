@@ -1,0 +1,2 @@
+# Artikel III
+Indien een verzekerde ervoor kiest de zorg op grond van het indicatiebesluit als bedoeld in artikel II, tweede lid, tot gelding te brengen met verblijf in een instelling, en hij voor 1 januari 2021 reeds in een dergelijke instelling verblijft dan wel beschermd woont als bedoeld in artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015, spant de Wlz-uitvoerder zich ervoor in dat de verzekerde het verblijf bij die aanbieder kan voortzetten.
