@@ -13,7 +13,7 @@
 #### § 1. Verplichtingen van de jonggehandicapte die recht heeft op arbeidsondersteuning
 #### § 2. Bevoegdheden en plichten Uitvoeringsinstituut werknemersverzekeringen
 ### Afdeling 7. Inkomensvoorzieningen
-#### § 1. Inkomensondersteuning werkregeling
+#### § 1. Inkomensondersteuning
 #### § 3. Uitkering volledig en duurzaam arbeidsongeschikten
 ### Afdeling 8. Aanvraag en betaling
 #### § 1. De aanvraag van arbeidsondersteuning

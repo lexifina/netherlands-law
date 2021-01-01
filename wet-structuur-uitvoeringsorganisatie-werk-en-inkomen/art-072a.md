@@ -8,7 +8,7 @@ e. de artikelen 2b, eerste lid, onderdeel k, en 6aa, eerste lid, van de Remigrat
 f. artikel 2, elfde lid, van de Toeslagenwet;
 g. artikel 19, eerste lid, onderdeel n, van de Werkloosheidswet;
 h. de artikelen 7d, eerste lid, en 19, achtste lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen;
-i. de artikelen 1a:6, eerste lid, onderdeel g, 2:11, eerste lid, onderdeel f, 3:5b en 3:19, tiende lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;
+i. de artikelen 1a:6, eerste lid, onderdeel f, 2:11, eerste lid, onderdeel f, 3:5b en 3:19, elfde lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;
 j. artikel 6, tweede lid, onderdeel h, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen;
 k. artikel 6, eerste lid, onderdeel g, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers;
 l. artikel 6, eerste lid, onderdeel g, van de Wet inkomensvoorziening oudere werklozen;
