@@ -1,0 +1,2 @@
+# Artikel 78g
+De zorgautoriteit kan uit hoofde van haar taak, bedoeld in artikel 16, onderdeel o, een aanwijzing geven aan een Regionale Ambulancevoorziening als bedoeld in artikel 4, tweede lid, van de Wet ambulancezorgvoorzieningen, erop gericht dat aan de naleving van het in dat onderdeel genoemde artikel 13 en het bepaalde bij of krachtens artikel 19 van de Wet ambulancezorgvoorzieningen wordt voldaan.
