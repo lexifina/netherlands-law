@@ -1,0 +1,5 @@
+# Artikel 71p
+1. Het tarief bedraagt per ton kooldioxide-equivalent € 30,48.
+2. Bij aanvang van ieder kalenderjaar na het kalenderjaar 2021 tot en met kalenderjaar 2030 wordt, alvorens artikel 90 wordt toegepast, het tarief verhoogd met € 10,73.
+3. Voor een broeikasgasinstallatie wordt het tarief verminderd met de termijnkoers van het broeikasgasemissierecht. Het tarief is niet lager dan nihil. De termijnkoers van het broeikasgasemissierecht, bedoeld in het tweede lid, is voor een kalenderjaar het gewone gemiddelde, in euro, van de dagelijkse éénjaarstermijnkoersen van broeikasgasemissierechten (slotverkoopkoersen) voor levering in december van het jaar waarvoor het tarief wordt vastgesteld overeenkomstig het tweede lid, zoals waargenomen van 1 september tot en met 31 oktober voorafgaand aan dat jaar op de koolstofbeurs in de Europese Unie met het hoogste handelsvolume van broeikasgasemissierechten in die maanden.
+4. Het derde lid is niet van toepassing voor zover de grondslag hoger is door de overdracht van dispensatierechten, bedoeld in afdeling 16b.3.3, van de Wet milieubeheer.
