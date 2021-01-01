@@ -1,2 +1,0 @@
-# Artikel 10a
-Bij algemene maatregel van bestuur worden regels gesteld over de inschrijving in de registers, bedoeld in de Wet op de beroepen in de individuele gezondheidszorg, dan wel de diploma's of getuigschriften, waarover een ambulancezorgprofessional dient te beschikken. Hierbij kan onderscheid gemaakt worden voor verschillende categorieën ambulancezorg. De voordracht voor een krachtens dit artikel vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
