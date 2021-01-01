@@ -158,6 +158,15 @@
 #### Afdeling 16.2.3. De overgang van broeikasgasemissierechten en andere eenheden
 #### Afdeling 16.2.4. Registratie van broeikasgasemissierechten en andere eenheden
 #### Afdeling 16.2.5. Instemming met deelname aan projectactiviteiten
+## Hoofdstuk 16b. Emissie van broeikasgas door de industrie
+### Titel 16b.1. Algemeen
+### Titel 16b.2. Industriële jaarvracht
+#### Afdeling 16b.2.1. Industrieel emissieverslag
+#### Afdeling 16b.2.2. Industrieel monitoringsplan
+### Titel 16b.3. De dispensatierechten
+#### Afdeling 16b.3.1. Het register dispensatierechten industrie
+#### Afdeling 16b.3.2. Het ontstaan van dispensatierechten
+#### Afdeling 16b.3.3. Overdracht van dispensatierechten
 ## Hoofdstuk 17. Maatregelen in bijzondere omstandigheden
 ### Titel 17.1. Maatregelen bij een ongewoon voorval
 ### Titel 17.1A. Maatregelen betreffende afvalvoorzieningen

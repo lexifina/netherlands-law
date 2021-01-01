@@ -1,0 +1,2 @@
+# Artikel 16b.9
+Het bestuur van de emissieautoriteit weigert de goedkeuring van een industrieel monitoringsplan indien het industrieel monitoringsplan niet voldoet aan de eisen die daaraan gesteld zijn bij of krachtens dit hoofdstuk of indien het bestuur van de emissieautoriteit van oordeel is dat onvoldoende is gewaarborgd dat de aanvrager in staat is het industrieel monitoringsplan naar behoren uit te voeren.
