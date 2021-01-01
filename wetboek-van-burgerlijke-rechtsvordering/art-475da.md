@@ -1,0 +1,30 @@
+# Artikel 475da
+1. De beslagvrije voet bedraagt ten hoogste:
+a. voor een alleenstaande: € 1.486,37;
+b. voor een alleenstaande ouder: € 1.623,45;
+c. voor gehuwden zonder kinderen: € 1.956,90;
+d. voor gehuwden met een of meer kinderen: € 2.093,48.
+2. Met inachtneming van het eerste lid bedraagt de beslagvrije voet:
+a. voor een alleenstaande: (95% x A) + (((C – D) / 12) x E) + ((F x C2 + G x C) – J);
+b. voor een alleenstaande ouder: (95% x A) + (((C – D) / 12) x E) + ((H x C2 + I x C) – J) + (((C – D) / 12) x K);
+c. voor gehuwden zonder kinderen: (95% x B) + (((C – D) / 12) x E) + ((H x C2 + I x C) – J);
+d. voor gehuwden met een of meer kinderen: (95% x B) + (((C – D) / 12) x E) + ((H x C2 + I x C) – J) + (((C – (D+L)) / 12) x K).
+Hierbij staat:
+• A voor de norm, genoemd in artikel 21, onderdeel a, van de Participatiewet;
+• B voor de norm, genoemd in artikel 21, onderdeel b, van de Participatiewet;
+• C voor het tot een jaarinkomen herleide belastbaar inkomen zoals dit is vastgesteld op basis van artikel 475d, eerste lid, van de geëxecuteerde, en, indien van toepassing, zijn echtgenoot;
+• D voor het drempelbedrag, bedoeld in artikel 1, eerste lid, onderdeel f, van de Wet op de zorgtoeslag, dan wel C, indien C lager is dan dit drempelbedrag;
+• E voor het percentage van het toetsingsinkomen waarmee het drempelinkomen wordt vermeerderd, bedoeld in artikel 2, derde lid, van de Wet op de zorgtoeslag;
+• F voor de factor a voor een eenpersoonshuishouden, bedoeld in artikel 19, tweede lid, van de Wet op de huurtoeslag;
+• G voor de factor b voor een eenpersoonshuishouden, bedoeld in artikel 19, tweede lid, van de Wet op de huurtoeslag;
+• H voor de factor a voor een meerpersoonshuishouden, bedoeld in artikel 19, tweede lid, van de Wet op de huurtoeslag;
+• I voor de factor b voor een meerpersoonshuishouden, bedoeld in artikel 19, tweede lid, van de Wet op de huurtoeslag;
+• J voor de normhuur, bedoeld in artikel 17, tweede lid, van de Wet op de huurtoeslag, dan wel bij een eenpersoonshuishouden de uitkomst van (F x C2+ G x C), indien de uitkomst van (F x C2+ G x C) lager is dan de genoemde normhuur, dan wel bij een meerpersoonshuishouden de uitkomst van (H x C2+ I x C), indien de uitkomst van (H x C2 + I x C) lager is dan de genoemde normhuur;
+• K voor het percentage, bedoeld in artikel 2, zevende lid, van de Wet op het kindgebonden budget;
+• L voor het bedrag, waarmee het drempelinkomen van de ouder en zijn partner op basis van artikel 2, achtste lid, van de Wet op het kindgebonden budget wordt verhoogd.
+3. De uitkomst van het onderdeel (C – D) / 12) x E) in het tweede lid bedraagt ten hoogste een bedrag gelijk aan de standaardpremie, bedoeld in artikel 2, eerste lid, van de Wet op de zorgtoeslag herleid naar een maandbedrag onder aftrek van het bij de desbetreffende leefsituatie horende bedrag genoemd in artikel 23, tweede lid, van de Participatiewet.
+4. Indien de geëxecuteerde op grond van de basisregistratie personen geen woonadres in Nederland heeft, bedraagt de beslagvrije voet 47,5% van de norm, genoemd in artikel 21, onderdeel b, van de Participatiewet. Indien de geëxecuteerde buiten Nederland een vaste woon- of verblijfplaats heeft, wordt de beslagvrije voet vermenigvuldigd met een bij of krachtens algemene maatregel van bestuur vastgestelde factor.
+5. Indien de beslagvrije voet gelijk is aan het voor de desbetreffende leefsituatie in het eerste lid opgenomen bedrag en de geëxecuteerde woonkosten heeft die ten minste 10% meer bedragen dan de in artikel 13, eerste lid, onderdeel a, van de Wet op de huurtoeslag opgenomen rekenhuur, wordt de beslagvrije voet op verzoek van de geëxecuteerde voor de duur dat de geëxecuteerde deze woonkosten heeft, doch ten hoogste zes maanden, verhoogd met het bedrag waarmee de woonkosten de eerder genoemde rekenhuur vermeerderd met 10% ophoging overstijgen. Indien de geëxecuteerde gehuwd is, wordt dit verzoek gehonoreerd, voor zover de niet beslagen inkomsten van de echtgenoot onvoldoende zijn om de hogere woonkosten te betalen.
+6. Op verzoek van de geëxecuteerde kan de op grond van het vijfde lid verhoogde beslagvrije voet nogmaals voor ten hoogste zes maanden worden verlengd, indien binnen die termijn de vordering waarvoor het beslag is gelegd volledig kan worden voldaan.
+7. Indien de geëxecuteerde eigenaar is van een door hemzelf bewoonde woning en hij een belastbaar inkomen heeft dat lager is dan het voor hem geldende norminkomen, bedoeld in artikel 14, eerste lid, van de Wet op de huurtoeslag, wordt de beslagvrije voet op verzoek van de geëxecuteerde verhoogd met een bedrag waarvan de wijze van vaststelling bij of krachtens algemene maatregel van bestuur wordt vastgesteld. Indien de geëxecuteerde gehuwd is, wordt onder belastbaar inkomen als bedoeld in de vorige zin tevens verstaan het belastbaar inkomen van de echtgenoot.
+8. De bedragen, genoemd in het eerste lid, zijn gelijk aan de beslagvrije voet die bij de desbetreffende leefsituatie hoort, indien de uitkomst van (F x C2 + G x C) respectievelijk (H x C2 + I x C) gelijk is aan het bedrag, genoemd in artikel 13, eerste lid, onderdeel a, van de Wet op de huurtoeslag. De bedragen worden met ingang van 1 januari en 1 juli van ieder jaar gewijzigd en door of namens Onze Minister van Sociale Zaken en Werkgelegenheid medegedeeld in de Staatscourant.
