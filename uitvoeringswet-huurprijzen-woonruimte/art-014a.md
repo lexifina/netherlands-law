@@ -1,0 +1,2 @@
+# Artikel 14a
+In geval van een verzoek als bedoeld in artikel 54a, zesde lid, van de Woningwet spreekt de huurcommissie uit tot welke huurprijs toepassing van artikel 54a, eerste lid, van de Woningwet leidt en dat de verlaagde huurprijs ingaat op het tijdstip dat de verlaging blijkens het voorstel, bedoeld in artikel 54a, eerste lid, van de Woningwet had moeten ingaan of bij het ontbreken van een dergelijk voorstel op de eerste dag van de tweede kalendermaand na de datum van indiening van het verzoek.
