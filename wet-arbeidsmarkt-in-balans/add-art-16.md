@@ -1,0 +1,2 @@
+# Artikel XVI. Inwerkingtreding
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met uitzondering van artikel III, onderdelen J en K, dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en terugwerkt tot en met 29 juni 2018, 17.00 uur.
