@@ -1,7 +1,7 @@
 # Artikel 18b
 1. Als overtreding wordt aangemerkt:
 a. het door een werkgever niet of onvoldoende nakomen van de op hem rustende verplichting tot girale voldoening van het minimumloon, bedoeld in artikel 7 en 7a;
-b. het door een werkgever niet of onvoldoende nakomen van de op hem rustende verplichting tot voldoening van de minimumvakantiebijslag, bedoeld in artikel 15;
+b. het door een werkgever niet of onvoldoende nakomen van de op hem rustende verplichting tot voldoening van de minimumvakantiebijslag, bedoeld in de artikelen 15 of 16;
 c. het door een werkgever verrichten van inhouding op of verrekening met het minimumloon, in strijd met het bepaalde bij of krachtens artikel 13;
 d. het door een werkgever niet of onvoldoende nakomen van de op hem rustende verplichting de werkzaamheden schriftelijk overeen te komen op grond van artikel 12b; en
 e. het door een werkgever niet of onvoldoende nakomen van de op hem rustende verplichting de langere arbeidsduur geheel of gedeeltelijk in tijd te compenseren of te betalen, bedoeld in artikel 13a.
