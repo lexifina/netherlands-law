@@ -1,2 +1,0 @@
-# Artikel 4.4,. lid 2, onder a
-Het gaat om kredietverstrekkers met een Nederlandse bankvergunning, zoals gepubliceerd op de website van DNB (De Nederlandsche Bank).

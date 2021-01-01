@@ -1,2 +1,0 @@
-# Artikel 1,. algemeen
-Met de definities wordt aangesloten bij hogere regelgeving, zoals de ASV en Europese regelgeving.

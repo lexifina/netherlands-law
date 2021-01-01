@@ -1,2 +1,0 @@
-# Artikel 4.2,. lid 1
-Aanvragen die betrekking hebben op investeringsprojecten in grote elektriciteitscentrales zijn uitgesloten van subsidiëring. Bij deze investeringen speelt de omvang van het subsidiebedrag voor het bereiken van een level playing field bij concurrentie met het buitenland een ondergeschikte rol. Bovendien staat de omvang van het investeringsbedrag in geen redelijke verhouding tot het beschikbare subsidiebedrag.
