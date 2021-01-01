@@ -1,0 +1,3 @@
+# Artikel 26.. Invulling door Gedeputeerde Staten
+1. Gedeputeerde Staten zijn bevoegd om een nadere invulling aan de begroting te geven indien en voor zover deze wijzigingen betrekking hebben op specifieke doeluitkeringen of door derden geoormerkte bijdragen. Van deze invulling wordt melding gemaakt in tussentijdse rapportages en in de jaarstukken.
+2. In voorkomende gevallen waarbij dat naar het oordeel van Gedeputeerde Staten aan de orde is, zijn Gedeputeerde Staten bevoegd terstond naar bevind van zaken te handelen en in dat kader ook financiële verplichtingen aan te gaan. Deze handelwijze wordt aan Provinciale Staten gemeld. Dit geldt ook voor het onderliggende beleid dat bij deze Financiële Verordening behoort.
