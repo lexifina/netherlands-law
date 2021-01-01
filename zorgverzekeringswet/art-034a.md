@@ -1,7 +1,3 @@
 # Artikel 34a
 1. Het CAK verstrekt een zorgverzekeraar een bijdrage indien hij verzekerden voor wier zorgverzekering de bestuursrechtelijke premie verschuldigd is, onverminderd onder de dekking van de zorgverzekering heeft gehouden.
-2. De bijdrage wordt voor het verzekerd houden van wanbetalers slechts verstrekt indien de zorgverzekeraar:
-a. zich heeft gehouden aan zijn verplichtingen, bedoeld in artikel 18a, 18b en 18c, tweede en derde lid,
-b. voorafgaande aan de melding, bedoeld in artikel 18c, ook naast de op incasso gerichte inspanningen, bedoeld in de artikelen 18a en 18b, voldoende inspanningen tot inning van de premie heeft geleverd, en
-c. zich houdt aan zijn verplichting, bedoeld in artikel 18d, derde lid, en desgevraagd voldoende medewerking verleent aan activiteiten van de verzekeringnemer of derden, gericht op aflossing van de jegens de zorgverzekeraar bestaande, uit de zorgverzekering voortvloeiende schuld.
-3. Bij ministeriële regeling wordt bepaald wanneer sprake is van het verrichten van voldoende inspanningen en van voldoende medewerking als bedoeld in het tweede lid, onderdelen b en c, en worden de periode waarover de bijdrage wordt verstrekt, de hoogte ervan, alsmede de wijze waarop deze wordt verstrekt, bepaald.
+2. Bij ministeriële regeling worden regels gesteld over de periode waarvoor de bijdrage wordt verstrekt, de hoogte van de bijdrage, de wijze waarop de bijdrage wordt verstrekt, waaronder de door de zorgverzekeraar over te leggen gegevens en verantwoording, en de door de zorgverzekeraar te voeren administratie.
