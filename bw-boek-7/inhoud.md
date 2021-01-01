@@ -127,6 +127,7 @@
 #### Afdeling 2. Borgtocht, aangegaan buiten beroep of bedrijf
 #### Afdeling 3. De gevolgen van de borgtocht tussen de hoofdschuldenaar en de borg en tussen borgen en voor de verbintenis aansprakelijke niet-schuldenaren onderling
 ### Titel 15. Vaststellingsovereenkomst
+### Titel 16. Franchise
 ### Titel 17. Verzekering
 #### Afdeling 1. Algemene bepalingen
 #### Afdeling 2. Schadeverzekering
