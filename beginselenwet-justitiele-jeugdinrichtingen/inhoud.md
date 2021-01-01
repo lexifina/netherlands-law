@@ -8,6 +8,7 @@
 ## Hoofdstuk IV. Plaatsing en plaatsingsprocedure
 ### Paragraaf 1. Plaatsing en overplaatsing
 ### Paragraaf 2. Bezwaar- en verzoekschriftprocedure
+## Hoofdstuk IVa. Vervoer
 ## Hoofdstuk V. Perspectiefplan
 ## Hoofdstuk VI. Bewegingsvrijheid
 ### Paragraaf 1. Bewegingsvrijheid binnen de inrichting
@@ -23,7 +24,10 @@
 ## Hoofdstuk XI. Informatie, hoor- en mededelingsplicht en dossier
 ## Hoofdstuk XII. Bemiddeling
 ## Hoofdstuk XIII. Beklag
+## Hoofdstuk XIIIa. Beklag inzake vervoer
 ## Hoofdstuk XIV. Beroep tegen de uitspraak van de beklagcommissie
+## Hoofdstuk XIVa. Beroep inzake vervoer
+## Hoofdstuk XIVb. Beroep tegen medisch handelen
 ## Hoofdstuk XV. Beroep inzake plaatsing, overplaatsing, verlof, deelname aan een scholings- en trainingsprogramma en strafonderbreking
 ## Hoofdstuk XVI. Medezeggenschap en vertegenwoordiging
 ## Hoofdstuk XVIa. Experimenten
