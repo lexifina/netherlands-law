@@ -1,0 +1,2 @@
+# Artikel XX. Inwerkingtreding
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met uitzondering van de artikelen V, onderdelen A en C, XI, onderdeel D, en XVII, die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en terugwerken tot en met 1 juli 2019.
