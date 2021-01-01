@@ -1,0 +1,2 @@
+# Artikel 120bis
+Onze Minister draagt er zorg voor dat een bij of krachtens de algemene maatregel van bestuur, bedoeld in artikel 120, eerste lid, aan te vragen energieprestatiecertificaat als bedoeld in artikel 2 van de Richtlijn 2010/31/EU van het Europees Parlement en de Raad van 19 mei 2010 betreffende de energieprestatie van gebouwen (PbEU 2010, L 153), ook digitaal, al dan niet met ondersteuning door een energieadviseur op afstand, kan worden aangevraagd.
