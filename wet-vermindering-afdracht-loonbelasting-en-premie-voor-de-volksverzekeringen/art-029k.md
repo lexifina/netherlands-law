@@ -1,0 +1,3 @@
+# Artikel 29k
+1. De in de artikelen 47 tot en met 51, 53, eerste en vierde lid, 53a tot en met 56 van de Algemene wet inzake rijksbelastingen jegens de inspecteur opgelegde verplichtingen gelden mede jegens de door Onze Minister van Economische Zaken en Klimaat met betrekking tot de toepassing van in dit hoofdstuk aangewezen ambtenaren.
+2. De artikelen 68, 69 en 72 van de Algemene wet inzake rijksbelastingen zijn van overeenkomstige toepassing.
