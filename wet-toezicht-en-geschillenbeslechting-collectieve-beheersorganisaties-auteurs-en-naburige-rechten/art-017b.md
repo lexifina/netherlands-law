@@ -1,0 +1,14 @@
+# Artikel 17b
+1. Een collectieve beheersorganisatie of onafhankelijke beheersorganisatie is op verzoek van het College van Toezicht gehouden om onderzoek te laten uitvoeren naar de uitoefening van haar taken of om een verbeterplan in te dienen. De kosten van dit onderzoek of verbeterplan komen voor rekening van de collectieve beheersorganisatie of onafhankelijke beheersorganisatie.
+2. Het College van Toezicht kan een collectieve beheersorganisatie of onafhankelijke beheersorganisatie uitsluitend verzoeken een onderzoek te laten uitvoeren of verbeterplan in te dienen wanneer het College signalen ontvangt waaruit blijkt van gegronde redenen om te twijfelen aan een juist beleid van of juiste gang van zaken.
+3. De collectieve beheersorganisatie of onafhankelijke beheersorganisatie dient binnen zes weken na ontvangst van het verzoek van het College van Toezicht een onderzoeksopdracht of verbeterplan, voorzien van de goedkeuring van het orgaan dat de interne toezichtfunctie uitoefent, in bij het College van Toezicht.
+4. De onderzoeksopdracht en het verbeterplan behoeven de schriftelijke instemming van het College van Toezicht. Het College van Toezicht bericht binnen vier weken na ontvangst van de onderzoeksopdracht of het verbeterplan of het zijn instemming aan de onderzoeksopdracht of het verbeterplan verleent.
+5. De termijn, bedoeld in het vierde lid, wordt opgeschort:
+a. met ingang van de dag na die waarop het College van Toezicht de collectieve beheersorganisatie of onafhankelijke beheersorganisatie uitnodigt de onderzoeksopdracht of het verbeterplan aan te vullen, tot de dag waarop de onderzoeksopdracht of het verbeterplan is aangevuld of de daarvoor gestelde termijn ongebruikt is verstreken,
+b. gedurende de termijn waarvoor de collectieve beheersorganisatie of onafhankelijke beheersorganisatie schriftelijk met uitstel heeft ingestemd,
+c. zolang de vertraging aan de collectieve beheersorganisatie of onafhankelijke beheersorganisatie kan worden toegerekend, of
+d. zolang het College van Toezicht door overmacht niet in staat is instemming te verlenen.
+6. Het College van Toezicht bepaalt bij zijn instemming met het verbeterplan voor welke termijn het verbeterplan geldt. De termijn bedraagt ten hoogste zes maanden. Het College van Toezicht kan de termijn met ten hoogste zes maanden verlengen.
+7. Het College van Toezicht vermeldt zijn instemming met een onderzoeksopdracht of verbeterplan op zijn website.
+8. De collectieve beheersorganisatie of onafhankelijke beheersorganisatie is op verzoek van het College van Toezicht gehouden om de uitvoering van het verbeterplan te bespreken met het College van Toezicht.
+9. De collectieve beheersorganisatie of onafhankelijke beheersorganisatie brengt op verzoek van het College van Toezicht verslag uit over de uitvoering van het verbeterplan na het verstrijken van de termijn, bedoeld in het zesde lid.
