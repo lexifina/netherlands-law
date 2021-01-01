@@ -1,7 +1,7 @@
 # Artikel 2a
 1. De dienstverrichter als bedoeld in artikel 1, eerste lid, van de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie, waarborgt voor zijn gedetacheerde werknemers, wier arbeidsovereenkomst wordt beheerst door een ander recht dan het Nederlandse recht, de arbeidsvoorwaarden en -omstandigheden die zijn neergelegd in verbindend verklaarde bepalingen, of bij algemene maatregel van bestuur aangewezen bepalingen, die betrekking hebben op:
 a. maximale werktijden en minimale rusttijden;
-b. het minimale aantal vakantiedagen, gedurende welke de verplichting van de werkgever om loon te betalen bestaat;
+b. het minimale aantal vakantie- en verlofdagen, gedurende welke de verplichting van de werkgever om loon te betalen bestaat;
 c. beloning, waartoe in ieder geval behoren:
 1°. het geldende periodeloon in de schaal;
 2°. de van toepassing zijnde arbeidsduurverkorting per week, maand, jaar of periode;
