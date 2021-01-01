@@ -1,0 +1,2 @@
+# Artikel 6b. Elektronische communicatie
+De minister draagt zorg voor de noodzakelijke elektronische infrastructuur waarmee de aanvragen, bedoeld in artikel 1a, betrouwbaar en vertrouwelijk kunnen worden verzonden. Bij de verzending van de aanvragen, bedoeld in artikel 1a, wordt gebruik gemaakt van de door de minister ter beschikking gestelde elektronische formulieren en de door hem erkende methode van authenticatie.
