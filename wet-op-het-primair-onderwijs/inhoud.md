@@ -32,7 +32,7 @@
 ##### § 3. Personeel
 ##### § 4. Gemeentelijk beleid met betrekking tot personele en materiële voorzieningen
 ##### § 5. Overschrijdingsregeling
-##### § 6. Bestedingsmogelijkheden
+##### § 6. Bestedingsmogelijkheden en financieel beheer
 ##### § 7. Betaling van de bekostiging
 #### Afdeling 9. Beëindiging van de bekostiging
 ##### § 1. Basisscholen
