@@ -45,3 +45,8 @@
 ### afdeling Negende. Bijzondere bepalingen
 ### afdeling Tiende. Slotbepalingen
 ### Algemene slotbepaling
+## afdeling Tweede. Homologatie van een onderhands akkoord
+### § 1. Algemene bepalingen
+### § 2. De aanbieding van en stemming over een akkoord
+### § 3. De homologatie van het akkoord
+### § 4. De gevolgen van de homologatie van het akkoord

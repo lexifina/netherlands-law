@@ -1,0 +1,3 @@
+# Artikel 3d
+1. Als een eigen aangifte of een verzoek tot faillietverklaring en een verzoek tot aanwijzing van een herstructureringsdeskundige als bedoeld in artikel 371 gelijktijdig aanhangig zijn, komt eerst het laatste in behandeling.
+2. De behandeling van de eigen aangifte of het verzoek tot faillietverklaring wordt in ieder geval geschorst totdat de rechtbank heeft beslist op het verzoek tot aanwijzing van de herstructureringsdeskundige. Wijst de rechtbank het verzoek toe, dan kondigt zij daarbij tevens overeenkomstig artikel 376 een afkoelingsperiode af en blijft de schorsing tijdens die periode van kracht.

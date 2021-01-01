@@ -1,0 +1,4 @@
+# Artikel 42a
+Een rechtshandeling die is verricht nadat de schuldenaar ter griffie van rechtbank een verklaring heeft gedeponeerd als bedoeld in artikel 370, derde lid, of er overeenkomstig artikel 371 door de rechtbank een herstructureringsdeskundige is aangewezen, kan niet met een beroep op het vorige artikel worden vernietigd, als de rechter op verzoek van de schuldenaar voor die rechtshandeling een machtiging heeft afgegeven. De rechter honoreert dit verzoek als:
+a. het verrichten van de rechtshandeling noodzakelijk is om de door de schuldenaar gedreven onderneming tijdens de voorbereiding van een akkoord als bedoeld in de genoemde artikelen te kunnen blijven voortzetten, en
+b. op het moment dat de machtiging wordt verstrekt redelijkerwijs valt aan te nemen dat de belangen van de gezamenlijke schuldeisers van de schuldenaar bij deze rechtshandeling gediend zijn, terwijl geen van de individuele schuldeisers daardoor wezenlijk in zijn belangen wordt geschaad.
