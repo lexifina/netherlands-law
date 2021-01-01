@@ -1,0 +1,3 @@
+# Artikel XXIIIc. Regelgevende bevoegdheden voor de invoering
+1. In afwijking van de artikelen 475da tot en met 475dc van het Wetboek van Burgerlijke Rechtsvordering kunnen bij besluit van Onze Minister van Sociale Zaken en Werkgelegenheid beslagleggende partijen worden aangewezen waarop artikel 475d van het Wetboek van Burgerlijke Rechtsvordering, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van deze wet, van toepassing blijft tot en met 6 maanden na inwerkingtreding van dit artikel.
+2. De partijen genoemd in het eerste lid kunnen worden aangewezen bij besluit van Onze Minister van Sociale Zaken en Werkgelegenheid als zij een gemotiveerde opgave doen van de reden waarom zij gebruik willen maken van de overgangsperiode.
