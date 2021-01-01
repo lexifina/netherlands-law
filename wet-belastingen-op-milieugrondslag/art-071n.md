@@ -1,0 +1,3 @@
+# Artikel 71n
+1. Het aantal dispensatierechten is het aantal dispensatierechten dat de exploitant voor een industriële installatie op 1 september van het jaar na afloop van het belastingtijdvak op zijn rekening heeft als bedoeld in artikel 16b.16, eerste lid, van de Wet milieubeheer.
+2. Indien het bestuur van de Nederlandse emissieautoriteit op of na de datum, genoemd in het eerste lid, op de rekening dispensatierechten stort of afboekt als bedoeld in artikel 16b.16, vierde lid, van de Wet milieubeheer, is het aantal dispensatierechten het aantal dispensatierechten dat na die storting of afboeking op de rekening staat.

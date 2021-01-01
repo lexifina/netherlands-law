@@ -1,0 +1,14 @@
+# Artikel 71h
+Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
+a. afvalverbrandingsinstallatie: afvalverbrandingsinstallatie of afvalmeeverbrandingsinstallatie als bedoeld in artikel 3, veertigste, onderscheidenlijk eenenveertigste, lid, van Richtlijn 2010/75/EU van het Europees Parlement en de Raad van 24 november 2010 inzake industriële emissies (geïntegreerde preventie en bestrijding van verontreiniging) (PbEU 2010, L 334) waarin blijkens een op grond van de Wet algemene bepalingen omgevingsrecht afgegeven omgevingsvergunning huishoudelijke afvalstoffen, gemengde bedrijfsafvalstoffen of gemengd sorteerresidu mogen worden verbrand, en die geen broeikasinstallatie is;
+b. broeikasgas: broeikasgas als bedoeld in artikel 1.1, eerste lid, van de Wet milieubeheer;
+c. broeikasgasinstallatie: broeikasgasinstallatie als bedoeld in de artikelen 16.1, tweede lid, en 16.3 van de Wet milieubeheer;
+d. dispensatierecht: overdraagbaar recht om gedurende het kalenderjaar een emissie van één ton kooldioxide-equivalent in de lucht te veroorzaken in het kalenderjaar waarin die uitstoot plaatsvindt zonder dat de CO2-heffing industrie daarover wordt geheven;
+e. één ton kooldioxide-equivalent: één ton kooldioxide-equivalent als bedoeld in artikel 1.1, eerste lid, van de Wet milieubeheer;
+f. industrieel emissieverslag: industrieel emissieverslag als bedoeld in artikel 16b.1, eerste lid, van de Wet milieubeheer;
+g. industriële installatie: broeikasgasinstallatie, afvalverbrandingsinstallatie of lachgasinstallatie;
+h. industriële jaarvracht: aantal ton kooldioxide-equivalent van een industriële installatie in een kalenderjaar dat in de lucht is veroorzaakt en ter zake waarvan de CO2-heffing industrie wordt geheven;
+i. lachgasinstallatie: installatie die blijkens een op grond van de Wet algemene bepalingen omgevingsrecht afgegeven omgevingsvergunning bestemd is voor de productie van acrylonitril of caprolactam en die geen broeikasgasinstallatie is;
+j. meetbare warmte: meetbare warmte als bedoeld in artikel 2, zevende lid, van de Gedelegeerde Verordening (EU) 2019/331 van de Commissie van 19 december 2018 tot vaststelling van een voor de hele Unie geldende overgangsregeling voor de geharmoniseerde kosteloze toewijzing van emissierechten overeenkomstig artikel 10 bis van Richtlijn 2003/87/EG van het Europees Parlement en de Raad (PbEU 2019, L 59);
+k. Restgassen: afgas als bedoeld in artikel 2, elfde lid, van de Verordening kosteloze toewijzing van emissierechten;
+l. stadsverwarming: stadsverwarming als bedoeld in artikel 2, vierde lid, van de Gedelegeerde Verordening (EU) nr. 2019/331 van de Commissie van 19 december 2018 tot vaststelling van een voor de hele Unie geldende overgangsregeling voor de geharmoniseerde kosteloze toewijzing van emissierechten overeenkomstig artikel 10 bis van Richtlijn 2003/87/EG van het Europees Parlement en de Raad (PbEU 2019, L 59).
