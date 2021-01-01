@@ -1,0 +1,2 @@
+# Artikel IV
+Indien het bij koninklijke boodschap van 27 juni 2019 ingediende voorstel van wet tot wijziging van de Meststoffenwet in verband met de implementatie van het zesde actieprogramma Nitraatrichtlijn (Kamerstukken 35 233) tot wet is verheven en die wet in werking treedt, treedt deze regeling op hetzelfde moment in werking, met uitzondering van artikel II dat in werking treedt met ingang van 1 januari 2021.
