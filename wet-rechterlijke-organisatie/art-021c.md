@@ -1,0 +1,2 @@
+# Artikel 21c
+De zittingsplaatsen onderscheidenlijk overige zittingsplaatsen van de rechtbank Amsterdam, de rechtbank Oost-Brabant, de rechtbank Overijssel en de rechtbank Rotterdam zijn over en weer zittingsplaatsen onderscheidenlijk overige zittingsplaatsen van deze rechtbanken in zaken waarin deze rechtbanken bevoegd zijn op grond van artikel 2, eerste lid, voorlaatste en laatste volzin van het Wetboek van Strafvordering.
