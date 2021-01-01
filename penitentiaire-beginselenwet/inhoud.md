@@ -6,6 +6,7 @@
 ### Paragraaf 1. Plaatsing en overplaatsing
 ### Paragraaf 2. Bezwaar- en verzoekschriftprocedure
 ## Hoofdstuk IVA. Inrichtingen voor stelselmatige daders
+## Hoofdstuk IVb. Vervoer
 ## Hoofdstuk V. Bewegingsvrijheid
 ### Paragraaf 1. Mate van gemeenschap
 ### Paragraaf 2. Ordemaatregelen
@@ -18,10 +19,15 @@
 ### Paragraaf 2. Arbeid en andere activiteiten
 ## Hoofdstuk IX. Disciplinaire straffen
 ## Hoofdstuk X. Informatie, hoor- en mededelingsplicht en dossier
+## Hoofdstuk Xa. Bemiddeling
 ## Hoofdstuk XI. Beklag
+## Hoofdstuk XIa. Beklag inzake vervoer
 ## Hoofdstuk XII. Beroep tegen de uitspraak van de beklagcommissie
+## Hoofdstuk XIIa. Beroep inzake vervoer
+## Hoofdstuk XIIb. Beroep tegen medisch handelen
 ## Hoofdstuk XIII. Beroep inzake plaatsing, overplaatsing, deelname aan een penitentiair programma, verlof en strafonderbreking
 ## Hoofdstuk XIV. Overleg en vertegenwoordiging
 ## Hoofdstuk XV. Bijzondere bepalingen met betrekking tot veroordeelden ten aanzien van wie artikel 13 of 19 van het wetboek van strafrecht is toegepast
 ## Hoofdstuk XVI. Bijzondere bepalingen betreffende inrichtingen tot klinische observatie bestemd
+## Hoofdstuk XVIa. Experimenten
 ## Hoofdstuk XVII. Overgangs- en slotbepalingen
