@@ -75,7 +75,8 @@
 ### § 8.4. Controlemiddelen toezichthouders
 ### § 8.5. Gegevensuitwisseling
 ## Hoofdstuk 9. Zelfstandige bestuursorganen
-### Dienst Wegverkeer
+### § 9.1. Dienst Wegverkeer
+### § 9.2. Exameninstantie installateur en reparateur tachograaf
 ## Hoofdstuk 10. Bestuursrechtelijke handhaving
 ### § 10.1. Overtredingen
 #### Aanwijzing overtredingen

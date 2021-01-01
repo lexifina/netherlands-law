@@ -9,6 +9,6 @@ a. een goede en adequate uitvoering van deze wet, voor zover het gaat om de ontz
 b. de handhaving van bij of krachtens deze wet vastgestelde voorschriften, voor zover het gaat om ontzegging van de vaarbevoegdheid en de ongeldigverklaring van vaardocumenten, bedoeld in artikel 25, vijfde lid.
 3. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de inrichting en het beheer van het register. Deze regels betreffen in ieder geval:
 a. de periode gedurende welke de gegevens worden bewaard;
-c. de verbetering, aanvulling of verwijdering van gegevens, al dan niet op verzoek van betrokkene;
-d. de ontvangers of categorieën van ontvangers aan wie de gegevens kunnen worden verstrekt;
-e. de voorgenomen doorgiften van gegevens naar landen buiten de Europese Unie.
+b. de verbetering, aanvulling of verwijdering van gegevens, al dan niet op verzoek van betrokkene;
+c. de ontvangers of categorieën van ontvangers aan wie de gegevens kunnen worden verstrekt;
+d. de voorgenomen doorgiften van gegevens naar landen buiten de Europese Unie.

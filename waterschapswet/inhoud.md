@@ -11,6 +11,7 @@
 #### § 5. De inrichting
 ### Hoofdstuk V. Het dagelijks bestuur
 #### § 1. De samenstelling
+#### § 1a. De plaatsvervanging
 #### § 2. De inrichting
 ### Hoofdstuk VI. De voorzitter
 ### Hoofdstuk VIA. De ombudsman

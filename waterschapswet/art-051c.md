@@ -7,7 +7,7 @@ b. wanneer hij door ziekte of gebreken blijvend ongeschikt is zijn functie te ve
 c. bij de aanvaarding van een betrekking als bedoeld in artikel 51d, eerste lid;
 d. wanneer hij bij onherroepelijk geworden rechterlijke uitspraak wegens misdrijf is veroordeeld, dan wel hem bij zulk een uitspraak een maatregel is opgelegd die vrijheidsbeneming tot gevolg heeft;
 e. indien hij bij onherroepelijk geworden rechterlijke uitspraak onder curatele is gesteld, in staat van faillissement is verklaard, ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, hij surseance van betaling heeft verkregen of wegens schulden is gegijzeld;
-f. indien hij naar het oordeel van provinciale staten ernstig nadeel toebrengt aan het in hem gestelde vertrouwen.
+f. indien hij naar het oordeel van het algemeen bestuur ernstig nadeel toebrengt aan het in hem gestelde vertrouwen.
 4. Het algemeen bestuur stelt de ombudsman op non-activiteit indien hij:
 a. zich in voorlopige hechtenis bevindt;
 b. bij een nog niet onherroepelijk geworden rechterlijke uitspraak wegens misdrijf is veroordeeld, dan wel hem bij zulk een uitspraak een maatregel is opgelegd die vrijheidsbeneming tot gevolg heeft;
