@@ -1,7 +1,7 @@
 # Inhoud
 ## Hoofdstuk I. Grondslagen voor de objectieve en subjectieve belastingplicht
 ## Hoofdstuk II. Bepaling van het belastbaar bedrag
-## Hoofdstuk III. Tarief; berekening van het recht; vrijstellingen
+## Hoofdstuk III. Tarief; berekening van de belasting; vrijstellingen
 ## Hoofdstuk IIIA. Bedrijfsopvolging
 ## Hoofdstuk IIIb. Verkrijging blote eigendom van een eigen woning
 ## Hoofdstuk IV. Aangifte, aanslag en conserverende aanslag
