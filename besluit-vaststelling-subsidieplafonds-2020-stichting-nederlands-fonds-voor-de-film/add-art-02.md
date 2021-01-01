@@ -1,2 +1,0 @@
-# Artikel II
-Het subsidieplafond van het Reglement Stimuleringsmaatregel Filmproductie in Nederland voor de pilot voor High-End series voor het kalenderjaar 2020 is € 5.500.000,– (zegge: vijf miljoen en vijfhonderd duizend euro) plus de resterende vrijval uit 2019 van € 4.200.000,– (zegge: viermiljoen tweehonderdduizend euro). (€4.800.000,– (zegge: viermiljoen achthonderdduizend euro) per aanvraagronde in de eerste helft van het jaar, en daarna tot het budget volledig is besteed)
