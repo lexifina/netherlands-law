@@ -1,0 +1,2 @@
+# Artikel 3a. Uitvoering van deze wet en mandatering
+Het college kan de uitvoering van deze wet, behoudens de vaststelling van de rechten en plichten van de inwoner en de daarvoor noodzakelijke beoordeling van zijn omstandigheden, door derden laten verrichten. Het college kan bedoelde vaststelling en beoordeling mandateren aan een organisatie of instelling, die zich blijkens haar doelstelling of werkzaamheden richt op schuldhulpverlening.

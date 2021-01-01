@@ -1,0 +1,2 @@
+# Artikel 8c. Gebruik burgerservicenummer
+Het college gebruikt het burgerservicenummer, bedoeld in artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer van een inwoner bij het verwerken van persoonsgegevens als bedoeld in de artikelen 8a en 8b met het doel te waarborgen dat de in het kader van de uitvoering van deze wet te verwerken persoonsgegevens op die inwoner betrekking hebben.

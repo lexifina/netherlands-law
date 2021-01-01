@@ -1,0 +1,2 @@
+# Artikel 8a. Verwerking persoonsgegevens schuldhulpverlening
+Het college is bevoegd tot het verwerken van persoonsgegevens, waaronder persoonsgegevens over gezondheid als bedoeld in artikel 4, onderdeel 15, van de Algemene verordening gegevensbescherming en persoonsgegevens van strafrechtelijke aard voor zover noodzakelijk voor de uitvoering van de taak, bedoeld in artikel 3, eerste lid, onderdeel a.
