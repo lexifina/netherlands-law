@@ -1,2 +1,6 @@
 # Artikel 16a. Inspectie van het onderwijs
-Het toezicht op de naleving van deze wet door de hoofden is opgedragen aan de Inspectie van het onderwijs.
+1. Het toezicht op de naleving van deze wet door de hoofden is opgedragen aan de Inspectie van het onderwijs.
+2. Ten behoeve van het in het eerste lid bedoelde toezicht kan de Inspectie van het onderwijs ambtenaren als bedoeld in artikel 16 aanwijzen indien burgemeester en wethouders hierom verzoeken.
+3. Aan de aanwijzing, bedoeld in het tweede lid, ligt een samenwerkingsovereenkomst tussen de Inspectie van het onderwijs en burgemeester en wethouders ten grondslag, waarvan het model bij ministeriële regeling wordt vastgesteld en waarin in ieder geval de werkzaamheden zijn opgenomen die door deze ambtenaren worden verricht.
+4. Indien toepassing is gegeven aan het tweede lid, treffen burgemeester en wethouders maatregelen om te voorkomen dat de aangewezen ambtenaren taken verrichten ten behoeve van het toezicht, bedoeld in artikel 16, met betrekking tot de scholen of instellingen waarop hij als aangewezen ambtenaar toezicht houdt. De instructie, bedoeld in artikel 16, vierde lid, is niet van toepassing voor zover het de werkzaamheden van de aangewezen ambtenaren betreft.
+5. De ambtenaren, bedoeld in het tweede lid, zijn niet bevoegd om namens de minister een bestuurlijke boete op te leggen als bedoeld in artikel 27.
