@@ -1,0 +1,2 @@
+# Artikel 4a.6
+Een uitvalsituatie in een net met een spanningsniveau van 110 kV of hoger, is vrijgesteld van de norm in de aanhef van artikel 16, vierde lid, van de Elektriciteitswet 1998, indien de uitvalsituatie betrekking heeft op een netonderdeel waarvoor een ontheffing is aangevraagd als bedoeld in artikel 16, vierde lid, onderdeel b, van de wet, tot de dag na die waarop de beslissing op de aanvraag onherroepelijk is geworden.
