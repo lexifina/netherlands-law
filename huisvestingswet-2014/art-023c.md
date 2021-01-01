@@ -1,0 +1,5 @@
+# Artikel 23c
+1. Indien de gemeenteraad toepassing heeft gegeven aan artikel 23a, kan hij in die huisvestingsverordening tevens bepalen dat het verboden is een op basis van dat artikel aangewezen categorie van woonruimte die gelegen is in een in de verordening aangewezen gebied voor een in de verordening omschreven vorm van toeristische verhuur in gebruik te geven indien daarvoor geen vergunning is verleend door burgemeester en wethouders.
+2. De gemeenteraad kan in de huisvestingsverordening gevallen aanwijzen waarvoor een vrijstelling geldt of waarin een ontheffing kan worden verleend van het verbod, bedoeld in het eerste lid. Aan een vrijstelling of ontheffing kunnen voorschriften en beperkingen worden verbonden.
+3. Indien de gemeenteraad toepassing heeft gegeven aan het eerste lid, kan hij in de huisvestingsverordening bepalen dat een vergunning als bedoeld in dat lid, slechts wordt afgegeven voor een in die verordening aangegeven termijn.
+4. Een vergunning als bedoeld in het eerste lid, wordt aangevraagd door degene die de woonruimte in gebruik geeft voor toeristische verhuur.

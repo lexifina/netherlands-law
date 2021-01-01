@@ -1,0 +1,3 @@
+# Artikel 23a
+1. Het is verboden om een woonruimte, behorend tot een met het oog op het behoud of de samenstelling van de woonruimtevoorraad of het behoud van de leefbaarheid van de woonomgeving door de gemeenteraad in de huisvestingsverordening aangewezen categorie woonruimte en gelegen in een in die verordening aangewezen gebied, voor een in die verordening omschreven vorm van toeristische verhuur aan te bieden zonder het registratienummer van die woonruimte te vermelden bij iedere aanbieding van die woonruimte voor toeristische verhuur.
+2. Een registratienummer als bedoeld in het eerste lid, wordt aangevraagd door degene die een woonruimte aanbiedt voor toeristische verhuur.

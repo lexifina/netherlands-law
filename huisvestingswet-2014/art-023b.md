@@ -1,0 +1,4 @@
+# Artikel 23b
+1. Indien de gemeenteraad toepassing heeft gegeven aan artikel 23a, kan hij in die huisvestingsverordening tevens bepalen dat het verboden is een op basis van dat artikel aangewezen categorie van woonruimte die gelegen is in een in die verordening aangewezen gebied voor een in de verordening omschreven vorm van toeristische verhuur meer dan een in die verordening bepaald aantal nachten per jaar in gebruik te geven voor toeristische verhuur.
+2. Indien de gemeenteraad toepassing heeft gegeven aan het eerste lid, kan hij in de huisvestingsverordening bepalen dat het verboden is de woonruimte in gebruik te geven voor toeristische verhuur, zonder deze verhuring vooraf te melden bij burgemeester en wethouders.
+3. Een melding als bedoeld in het tweede lid, wordt gedaan door degene die de woonruimte in gebruik geeft voor toeristische verhuur.

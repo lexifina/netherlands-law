@@ -9,7 +9,8 @@
 ### § 3. Verlening en intrekking van de huisvestingsvergunning
 ## Hoofdstuk 3. Aanbieding van woonruimte
 ## Hoofdstuk 4. Wijzigingen in de woonruimtevoorraad
-### § 1. Aanwijzing vergunningplichtige woonruimte
+### § 1. Woonruimtevoorraadbeheer
+### § 1a. Toeristische verhuur van woonruimte
 ### § 2. Criteria voor verlening van de vergunning
 ### § 3. Verlening van de vergunning
 ### § 4. Inschrijving splitsingsakte
