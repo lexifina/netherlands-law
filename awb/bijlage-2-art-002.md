@@ -41,10 +41,12 @@ c. artikel 122, voor zover het besluit betrekking heeft op de handhaving van het
 d. artikel 261, eerste lid
 e. de artikelen 271a, vierde lid, en 274, tweede lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep wordt ingesteld door provinciale staten, gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
 Reconstructiewet concentratiegebieden, voor zover het betreft een besluit tot vaststelling, wijziging of uitwerking van het reconstructieplan, alsmede een besluit dat is genomen met toepassing van de artikelen 40 tot en met 43
-Spoedwet wegverbreding
+Spoedwet wegverbreding:
+a. een plan als bedoeld in artikel 6, vijfde lid
+b. de artikelen 7, eerste lid, 9, eerste lid, en 15, tweede lid, onder c
 Tijdelijke experimentenwet stembiljetten en centrale stemopneming: artikelen 4
 Tijdelijke wet aanwijzing bèta-opleidingen: artikel 2, eerste lid
-Tracéwet
+Tracéwet: de artikelen 9, eerste lid, 20, tweede lid, en 21, tweede lid, onder c
 Verordening (EG) nr. 1013/2006 van het Europees Parlement en de Raad van 14 juni 2006 betreffende de overbrenging van afvalstoffen (PbEU 2006, L 190)
 Verordening (EU) nr. 600/2012 van de Commissie van 21 juni 2012 inzake de verificatie van broeikasgasemissie- en tonkilometerverslagen en de accreditatie van verificateurs krachtens Richtlijn 2003/87/EG van het Europees Parlement en de Raad (PbEU 2012, L181):
 artikel 31, eerste lid, voor zover het besluiten betreft van de Nederlandse emissieautoriteit, genoemd in artikel 2.1 van de Wet milieubeheer
