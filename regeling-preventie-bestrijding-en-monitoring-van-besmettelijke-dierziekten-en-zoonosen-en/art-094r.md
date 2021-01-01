@@ -1,0 +1,4 @@
+# Artikel 94r
+1. Een houder bewaart de vaccinatieverklaring, bedoeld in artikel 94b, derde lid, en de resultaten van het onderzoek, bedoeld in artikel 94e, eerste lid, gedurende een periode van twee jaar.
+2. Een houder die vermeerderingdieren, leghennen of dieren die worden opgefokt tot vermeerderingsdier of leghen houdt, en deze dieren aan een andere houder overdraagt, doet deze houder een kopie van de vaccinatieverklaringen, bedoeld in artikel 94b, derde lid, en resultaten van het onderzoek, bedoeld in artikel 94e, eerste lid, toekomen.
+3. Een houder bewaart het plan van aanpak, bedoeld in artikel 94l, tweede lid, en het herziene plan van aanpak, bedoeld in artikel 94l, vierde lid, gedurende de periode dat er op grond van deze paragraaf verplichtingen tot vaccinatie gelden met betrekking tot de dieren waarop het plan van aanpak, dan wel het herziene plan van aanpak van toepassing is.
