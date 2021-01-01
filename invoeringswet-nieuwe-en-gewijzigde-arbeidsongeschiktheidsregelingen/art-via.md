@@ -1,0 +1,2 @@
+# ARTIKEL VIA. WIJZIGING GRONDSLAG AMVB EX WAO
+De algemene maatregel van bestuur, op grond van artikel 52 van de Wet op de arbeidsongeschiktheidsverzekering, zoals dat artikel luidde op de dag voorafgaande aan de inwerkingtreding van de Wet premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen, getroffen, berust na de inwerkingtreding van die wet op artikel 65, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering.

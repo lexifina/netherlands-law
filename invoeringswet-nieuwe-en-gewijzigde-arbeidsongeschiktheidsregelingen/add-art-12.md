@@ -1,0 +1,6 @@
+# ARTIKEL XII. PERSONENKRING WAZ
+1. De bepalingen van deze paragraaf zijn uitsluitend van toepassing op personen die op de dag voorafgaand aan de inwerkingtreding van deze wet waren verzekerd op grond van de Algemene Arbeidsongeschiktheidswet en op wie een omstandigheid als bedoeld in artikel XIII van toepassing is, welke omstandigheid rechtstreeks voortvloeit uit het hebben verworven van winst of inkomsten uit werkzaamheden verricht in het bedrijfs- en beroepsleven als:
+a. zelfstandige;
+b. meewerkende echtgenoot;
+c. verzekerde op grond van de Algemene Arbeidsongeschiktheidswet, zonder dat met betrekking tot deze werkzaamheden een andere wettelijke regeling inzake tegemoetkoming in de geldelijke gevolgen van langdurige arbeidsongeschiktheid op hem van toepassing was.
+2. Als zelfstandige dan wel als meewerkende echtgenoot wordt aangemerkt de persoon die op grond van de Algemene Arbeidsongeschiktheidswet winst geniet uit bedrijf of zelfstandig uitgeoefend beroep of twee personen die op grond van de Algemene Arbeidsongeschiktheidswet echtgenoten van elkaar zijn en samenwerken in de uitoefening van een bedrijf of in de zelfstandige uitoefening van een beroep, waarbij ieder van de echtgenoten een deel van de winst geniet.

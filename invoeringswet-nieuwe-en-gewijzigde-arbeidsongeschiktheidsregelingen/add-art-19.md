@@ -1,0 +1,2 @@
+# ARTIKEL XIX. UITZONDERING MELDINGSPLICHT
+Ten aanzien van de vrouw die vanaf de dag van inwerkingtreding van deze wet op grond van de Wet arbeidsongeschiktheidsverzekering zelfstandigen is verzekerd en wier bevalling blijkens een verklaring van een arts of verloskundige binnen drie maanden na de dag van inwerkingtreding van deze wet is te verwachten blijft artikel 34 van die wet buiten toepassing.

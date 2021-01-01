@@ -1,0 +1,2 @@
+# ARTIKEL XI. OVERGANGSBEPALING INZAKE ARTIKEL 29B ZW
+Voor de toepassing van artikel 29b, eerste lid, van de Ziektewet, zoals dit artikellid luidt na inwerkingtreding van deze wet, wordt een uitkering op grond van de Algemene Arbeidsongeschiktheidswet of de wachttijd van 52 weken, bedoeld in artikel 6 van de Algemene Arbeidsongeschiktheidswet, genoten of doorgemaakt voor de dag van inwerkingtreding van deze wet, aangemerkt als uitkering of wachttijd als bedoeld in een wet, genoemd in artikel 29b, eerste lid, van de Ziektewet.

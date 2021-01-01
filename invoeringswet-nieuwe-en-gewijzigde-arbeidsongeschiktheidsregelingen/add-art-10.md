@@ -1,0 +1,3 @@
+# ARTIKEL X. OVERGANGSBEPALING INZAKE ARTIKEL 17 WAJONG
+1. Artikel 17, eerste lid, onderdeel c, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten is niet van toepassing ten aanzien van de jonggehandicapte die op de dag vóór de inwerkingtreding van deze wet recht had op arbeidsongeschiktheidsuitkering op grond van de Algemene Arbeidsongeschiktheidswet en niet in Nederland woonde, zolang laatstgenoemde omstandigheid voortduurt.
+2. Het eerste lid is eveneens van toepassing ten aanzien van de in dat lid genoemde jonggehandicapte die na de inwerkingtreding van deze wet, maar voor 1 januari 2003, in Nederland is gaan wonen en vervolgens weer niet in Nederland is gaan wonen, zolang laatstgenoemde omstandigheid voorduurt.
