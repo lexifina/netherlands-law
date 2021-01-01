@@ -1,0 +1,2 @@
+# Artikel XVII. Wet van 27 mei 2020 tot wijziging van de wet arbeidsongeschiktheidsvoorziening jonggehandicapten en enkele andere wetten in verband met verdere activering van de participatie van jonggehandicapten en het harmoniseren van de verschillende regimes wajong (Stb. 2020, 173)
+[Wijzigt de Wet van 27 mei 2020 tot wijziging van de wet arbeidsongeschiktheidsvoorziening jonggehandicapten en enkele andere wetten in verband met verdere activering van de participatie van jonggehandicapten en het harmoniseren van de verschillende regimes wajong (Stb. 2020, 173).]
