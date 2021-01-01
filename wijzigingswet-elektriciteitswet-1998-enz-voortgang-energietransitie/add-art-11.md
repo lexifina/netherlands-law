@@ -1,0 +1,4 @@
+# Artikel XI
+1. Onder een aansluiting wordt in de Gaswet mede verstaan een aansluitpunt, dat bestaat uit een deel van de aansluiting van het gastransportnet tot en met de eerste afsluiter die is aangelegd voor inwerkingtreding van artikel II, onderdeel N.
+2. Indien sprake is van een aansluitpunt als bedoeld in de Gaswet zoals die luidde voor inwerkingtreding van deze wet, beperkt de taak, bedoeld in artikel 10, zesde lid, onderdeel c, van de Gaswet, zoals gewijzigd door artikel II, onderdeel N van deze wet en artikel III, onderdeel D, van de Verzamelwet EZK en LNV 2018, zich tot het beheer en onderhoud van dat aansluitpunt.
+3. De Autoriteit Consument en Markt betrekt in aanvulling op artikel 82 van de Gaswet de kosten die verband houden met de uitvoering van de taak, bedoeld in het tweede lid, bij het vaststellen van de tarieven.

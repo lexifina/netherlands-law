@@ -1,0 +1,2 @@
+# Artikel XV
+In aanvulling op het met artikel II, onderdeel Q, ingevoegde artikel 10d, tweede lid, van de Gaswet, kan een met een netbeheerder verbonden groepsmaatschappij als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek aandelen houden in een drinkwaterbedrijf als bedoeld in artikel 1, eerste lid, van de Drinkwaterwet, indien deze aandelen op het tijdstip van inwerkingtreding van dat onderdeel werden gehouden.

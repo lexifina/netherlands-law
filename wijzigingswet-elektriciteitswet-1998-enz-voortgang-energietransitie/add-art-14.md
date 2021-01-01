@@ -1,0 +1,2 @@
+# Artikel XIV
+In afwijking van artikel 10Aa, eerste lid, van de Gaswet zoals dat met artikel II, onderdeel O, komt te luiden, kan een netbeheerder tot een jaar na inwerkingtreding van dat onderdeel werkzaamheden verrichten die de bedrijfsvoering ondersteunen van een met een netbeheerder verbonden groepsmaatschappij als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek, voor zover die werkzaamheden door de netbeheerder werden verricht voor de inwerkingtreding van artikel II, onderdeel O.

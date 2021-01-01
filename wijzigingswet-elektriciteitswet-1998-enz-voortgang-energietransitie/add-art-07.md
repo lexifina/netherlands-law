@@ -1,0 +1,2 @@
+# Artikel VII
+In afwijking van artikel 17, eerste lid, van de Elektriciteitswet 1998, zoals dat met artikel I, onderdeel N, komt te luiden, kan een netbeheerder tot een jaar na inwerkingtreding van dat onderdeel werkzaamheden verrichten die de bedrijfsvoering ondersteunen van een met een netbeheerder verbonden groepsmaatschappij als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek, voor zover die werkzaamheden door de netbeheerder werden verricht voor de inwerkingtreding van artikel I, onderdeel N.

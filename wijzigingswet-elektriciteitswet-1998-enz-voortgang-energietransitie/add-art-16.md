@@ -1,0 +1,2 @@
+# Artikel XVI
+De Autoriteit Consument en Markt betrekt de kosten van een bijzondere uitbreidingsinvestering voor zover die doelmatig zijn en waarvan voorafgaand aan de inwerkingtreding van artikel II, onderdeel X, de noodzaak is vastgesteld op grond van artikel 39f, tweede of derde lid, van de Gaswet, zoals dat luidde voor inwerkingtreding van artikel II, onderdeel X, bij het vaststellen van de tarieven.

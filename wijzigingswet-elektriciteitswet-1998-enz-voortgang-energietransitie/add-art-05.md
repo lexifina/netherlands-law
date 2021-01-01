@@ -1,0 +1,3 @@
+# Artikel V
+1. Een ontheffing aan een eigenaar van een gesloten distributiesysteem op basis van artikel 15 van de Elektriciteitswet 1998 zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel I, onderdeel H, wordt gelijkgesteld met een ontheffing op basis van artikel 15 van de Elektriciteitswet 1998, zoals dat wordt gewijzigd door artikel I, onderdeel H.
+2. De artikelen V en VI van de Wet van 12 juli 2012 tot wijziging van de Elektriciteitswet 1998 en van de Gaswet (implementatie van richtlijnen en verordeningen op het gebied van elektriciteit en gas) (Stb. 2012, 334) blijven van toepassing.
