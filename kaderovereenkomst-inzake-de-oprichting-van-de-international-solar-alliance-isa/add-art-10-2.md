@@ -1,0 +1,4 @@
+# Artikel X. Status, voorrechten en immuniteiten van de ISA
+1. Het ISA-secretariaat bezit rechtspersoonlijkheid ingevolge het gastlandverdrag, de bevoegdheid om contracten af te sluiten, om roerende en onroerende goederen te verwerven en van de hand te doen en om juridische procedures in te leiden.
+2. Ingevolge hetzelfde gastlandverdrag geniet het ISA-secretariaat de privileges, toepasselijke belastingvoordelen en immuniteiten die op zijn hoofdkantoor nodig zijn voor de onafhankelijke uitvoering van zijn functies en programma's, zoals goedgekeurd door de Vergadering.
+3. Het ISA-Secretariaat geniet op het grondgebied van elk lid, met inachtneming van de nationale wetgeving en zo nodig overeenkomstig een afzonderlijke overeenkomst, de immuniteit en privileges die nodig zijn voor de onafhankelijke uitoefening van zijn functies en programma's.
