@@ -1,3 +1,12 @@
 # Artikel 58p. Personenvervoer
 1. Bij ministeriële regeling kan worden bepaald dat het aanbieden van bepaalde categorieën van personenvervoer geheel of gedeeltelijk verboden is.
-2. Bij ministeriële regeling kunnen regels worden gesteld over de toegang tot en het gebruik van voorzieningen voor personenvervoer. Hierbij kan worden afgeweken van artikel 58f, derde lid, onder a.
+2. Bij ministeriële regeling kunnen regels worden gesteld over het aanbieden van, de toegang tot en het gebruik van voorzieningen voor personenvervoer binnen Nederland of met een bestemming in Nederland. Hierbij kan onderscheid worden gemaakt tussen categorieën van personenvervoer, gebieden van waaruit de reiziger vertrekt en categorieën van personen voor wie de regels gelden en kan worden afgeweken van artikel 58f, derde lid, aanhef en onder a.
+3. Tot de in het tweede lid bedoelde regels kunnen behoren:
+a. een verplichting voor de aanbieder van personenvervoer ervoor zorg te dragen dat aan een reiziger die vertrekt vanuit een door Onze Minister aangewezen gebied in het buitenland of reist tussen het Europese deel van Nederland, Bonaire, Sint Eustatius of Saba, uitsluitend vervoer wordt aangeboden, toegang daartoe wordt verschaft en gebruik daarvan wordt toegestaan, indien de reiziger een testuitslag kan tonen aan de aanbieder van personenvervoer en een toezichthouder, waaruit blijkt dat hij op het moment van testen niet was geïnfecteerd met het virus SARS-CoV-2;
+b. een verplichting voor de reiziger die vertrekt vanuit een door Onze Minister aangewezen gebied in het buitenland of reist tussen het Europese deel van Nederland, Bonaire, Sint Eustatius of Saba om bij de toegang tot het vervoermiddel en tijdens het vervoer te beschikken over een testuitslag waaruit blijkt dat hij op het moment van testen niet was geïnfecteerd met het virus SARS-CoV-2, en een verplichting voor de reiziger deze op verzoek te tonen aan de aanbieder van personenvervoer en een toezichthouder.
+4. In een regeling als bedoeld in het derde lid worden eisen gesteld met betrekking tot de test, die in elk geval betrekking hebben op:
+a. de vaststelling van de identiteit van de geteste persoon;
+b. het type test dat is uitgevoerd;
+c. de wijze waarop de testuitslag wordt aangetoond;
+d. de termijn waarbinnen de test moet zijn uitgevoerd ten opzichte van het moment van binnenkomst in Nederland.
+5. Een regeling als bedoeld in het derde lid is niet van toepassing op degenen die het grondgebied van Nederland als het eigen land willen betreden en die niet kunnen beschikken over een testuitslag waaruit blijkt dat zij op het moment van testen niet waren geïnfecteerd met het virus SARS-CoV-2.
