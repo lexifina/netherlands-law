@@ -9,3 +9,4 @@
 a. er een wezenlijke verandering is opgetreden in de feiten waarop het besluit berust;
 b. het besluit berust op door de marktorganisatie verstrekte onvolledige, onjuiste of misleidende gegevens;
 c. de marktorganisatie in strijd met het vijfde lid handelt.
+8. Alvorens de Autoriteit Consument en Markt een besluit als bedoeld in het eerste lid neemt op het gebied van mededinging, informeert zij naar de standpunten van marktorganisaties die actief waren op de markt waar het handelen waarop de toezegging betrekking heeft, plaatsvond.
