@@ -5,3 +5,4 @@
 4. Een besluit als bedoeld in het tweede lid, derde zin, of derde lid, derde zin, kan worden genomen op voorstel van een derde van het grondwettelijk aantal leden van de Tweede Kamer.
 5. Artikel 1 van de Tijdelijke wet COVID-19 Justitie en Veiligheid is niet van toepassing.
 6. Indien naar het oordeel van Onze Ministers en Onze Minister die het mede aangaat een krachtens dit hoofdstuk vastgestelde ministeriële regeling of een onderdeel daarvan niet langer noodzakelijk is voor het in artikel 58b, eerste lid, genoemde doel, wordt die regeling daartoe zo spoedig mogelijk gewijzigd of ingetrokken.
+7. Een krachtens artikel 58j, eerste lid, onderdeel f, vastgestelde ministeriële regeling vervalt uiterlijk drie weken na de inwerkingtreding ervan.
