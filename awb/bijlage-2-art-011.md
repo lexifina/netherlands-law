@@ -26,6 +26,7 @@ b. alsmede, voor zover het betreft een besluit van de Autoriteit Consument en Ma
 1. hoofdstuk 6, tenzij beroep kon worden ingesteld voor de inwerkingtreding van de Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002
 2. de hoofdstukken 5a, 6a, 6b en 12
 3. hoofdstuk 15, met uitzondering van de artikelen 15.2, 15.2a en 15.4.
+Uitvoeringswet EU-zeehavenverordening: artikel 9, eerste lid
 Verordening (EU) nr. 806/2014 van het Europees parlement en de Raad van 15 juli 2014 tot vaststelling van eenvormige regels en een eenvormige procedure voor de afwikkeling van kredietinstellingen en bepaalde beleggingsondernemingen in het kader van een gemeenschappelijk afwikkelingsmechanisme en een gemeenschappelijk bankenafwikkelingsfonds en tot wijziging van Verordening (EU) nr. 1093/2010 van het Europees parlement en de Raad (PbEU 2014, L 225), met uitzondering van de artikelen 16, 18 en 21
 Waarborgwet 2019: artikel 38
 Warenwet
