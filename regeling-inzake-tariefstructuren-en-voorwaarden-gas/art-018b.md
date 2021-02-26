@@ -1,0 +1,5 @@
+# Artikel 18b
+1. De voorwaarden, bedoeld in artikel 12b, eerste lid, onderdeel a, bevatten regels met betrekking tot het bepalen van de technische en beschikbare landsgrensoverschrijdende capaciteit voor het transport van gas en de toedeling daarvan.
+2. De voorwaarden bepalen dat op termijn ten minste tien procent van de technische landsgrensoverschrijdende capaciteit voor het transport van gas wordt gereserveerd voor contracten met een looptijd van een jaar of korter.
+3. De voorwaarden bepalen met betrekking tot de toedeling van de op grond van het vorige lid gereserveerde landsgrensoverschrijdende capaciteit voor het transport van gas dat ten minste twintig procent daarvan als vaste capaciteit wordt gereserveerd voor contracten met een looptijd korter dan een jaar en wordt aangeboden via een veiling door of in opdracht van de beheerder van het desbetreffende gasnet.
+4. De voorwaarden kunnen met betrekking tot de veiling als bedoeld in het derde lid, tevens de termijn bepalen waarbinnen de gereserveerde capaciteit wordt geveild en de minimumprijzen vaststellen waaronder die capaciteit niet wordt geveild.

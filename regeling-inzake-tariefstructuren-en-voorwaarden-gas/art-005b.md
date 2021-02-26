@@ -1,0 +1,3 @@
+# Artikel 5b
+1. In de tariefstructuren, bedoeld in artikel 12a van de wet, voor aansluiting op het gastransportnet, bedoeld in artikel 10, zesde lid, van de wet, wordt opgenomen dat de kosten voor het verwijderen van een aansluiting als bedoeld in artikel 10, zesde lid, onderdeel d, worden opgenomen in een component van de vergoeding voor het beheren en onderhouden van een aansluiting als bedoeld in artikel 10, zesde lid, onderdeel c, van de wet.
+2. Het eerste lid is niet van toepassing op aansluitingen met een doorlaatwaarde groter dan 40m3(n) per uur als bedoeld in artikel 10, zesde lid, onderdeel b, van de wet.
