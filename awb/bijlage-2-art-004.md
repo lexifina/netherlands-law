@@ -30,7 +30,7 @@ Marktverordening voor het wegvervoer
 Meststoffenwet, met uitzondering van artikel 51
 Metrologiewet
 Noodwet voedselvoorziening: de artikelen 6 tot en met 10 en 29, behoudens in geval van toepassing van artikel 18
-Plantenziektenwet
+Plantgezondheidswet, met uitzondering van artikel 26
 Postwet 2009: hoofdstuk 3A en artikel 58
 Prijzennoodwet
 Prijzenwet
