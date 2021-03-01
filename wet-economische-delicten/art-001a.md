@@ -44,7 +44,7 @@ de Waterwet, artikel 6.24, tweede lid, tenzij de desbetreffende vergunning uitsl
 de Wet algemene bepalingen omgevingsrecht, artikel 2.2 en artikel 2.3, aanhef en onder c;
 de Wet bescherming Antarctica, de artikelen 19, tweede lid, en 33;
 de Wet dieren, artikelen 2.18a, 3.3 tot en met 3.7, al dan niet in samenhang met artikel 6.2, eerste lid, artikel 6.4, eerste lid, of artikel 7.5, derde lid;
-de Wet gewasbeschermingsmiddelen en biociden: de artikelen 20, tweede lid, 28, eerste lid, onderdeel e, 29, 45, 71, 72, 73, 75, 76, 77, 78, tweede lid, en 115;
+de Wet gewasbeschermingsmiddelen en biociden: de artikelen 20, tweede en derde, lid, 28, eerste lid, onderdeel e, 29, 45, 71, 72, 73, 75, 76, 77, 78, tweede lid, en 115;
 de Wet inzake de luchtverontreiniging, artikel 92, onder a tot en met c;
 de Wet luchtvaart, de artikelen 6.60, eerste lid, 6.61, tweede lid, 6.61a, en 6.62, tweede lid;
 de Wet milieubeheer, de artikelen 10.23 – voor zover aangeduid als strafbare feiten –, 10.60, zesde lid, onder a en onder b, in verbinding met onderdeel a, en zevende lid, onder a, onder b, in verbinding met onderdeel a, en onder c, 12.14, eerste en tweede lid en 15.53;
