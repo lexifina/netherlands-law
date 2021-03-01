@@ -1,4 +1,0 @@
-# Artikel 12b
-1. Het is verboden door Onze Minister aangewezen planten te telen of te bewaren op grond waarvoor de gebruiksgerechtigde niet in het bezit is van een door Onze Minister, na officieel onderzoek overeenkomstig Richtlijn 2007/33/EG van de Raad van de Europese Unie van 11 juni 2007 betreffende de bestrijding van het aardappelcysteaaltje en houdende intrekking van Richtlijn 69/465/EEG (PbEU L 156), afgegeven verklaring, waaruit blijkt dat het perceel vrij is of wordt geacht te zijn van besmetting met het aardappelcysteaaltje.
-2. Het eerste lid is niet van toepassing in bij ministeriële regeling te bepalen gevallen en onder bij ministeriële regeling te bepalen voorwaarden, indien geen aanwijsbaar risico bestaat op de aanwezigheid of verspreiding van het aardappelcysteaaltje.
-3. De verklaring kan onder beperkende voorwaarden worden verleend en te allen tijde worden ingetrokken.
