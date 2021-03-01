@@ -1,2 +1,0 @@
-# Artikel 14b
-Het is verboden zich te ontdoen van niet-uitgeplante uien of afval van uien, tenzij zodanige maatregelen zijn getroffen zonder welke zich aan deze niet-uitgeplante uien of afval van uien groene delen kunnen ontwikkelen en zonder welke deze niet-uitgeplante uien of afval van uien een bron kunnen zijn voor het verspreiden van koprot.
