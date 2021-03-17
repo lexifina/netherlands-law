@@ -81,11 +81,13 @@
 ##### § 2.2.2a.1. Vergunningplicht en -eisen voor herverzekeraars met zetel in Nederland
 ##### § 2.2.2a.2. Bijkantoren van en verrichting van diensten door herverzekeraars met zetel in een andere lidstaat
 ##### § 2.2.2a.3. Bijkantoor en verrichten van diensten door herverzekeraars met zetel in een staat die geen lidstaat is
+##### § 2.2.2a.4. Vrijstelling
 #### Afdeling 2.2.3. Uitoefenen van bedrijf van levensverzekeraar en schadeverzekeraar
 ##### § 2.2.3.1. Algemeen
 ##### § 2.2.3.1a. Vergunningplicht en -eisen voor levensverzekeraars en schadeverzekeraars met zetel in Nederland
 ##### § 2.2.3.2. Bijkantoor en verrichten van diensten door levensverzekeraars en schadeverzekeraars met zetel in een andere lidstaat
 ##### § 2.2.3.3. Bijkantoor en verrichten van diensten door levensverzekeraars of schadeverzekeraars met zetel in een staat die geen lidstaat is
+##### § 2.2.3.4. Vrijstelling
 #### Afdeling 2.2.4. Uitoefenen van bedrijf van verzekeraar met beperkte risico-omvang
 ##### § 2.2.4.1. Vergunningplicht en -eisen voor verzekeraars met beperkte risico-omvang met zetel in Nederland
 ##### § 2.2.4.1a. Vrijstelling
