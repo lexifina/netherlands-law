@@ -1,2 +1,0 @@
-# Artikel 130b. Uitspreken van de wens namens de Kamer door de Voorzitter
-De wens dat regeling bij wet plaats heeft kan namens de Kamer door de Voorzitter te kennen worden gegeven. Alvorens hiertoe te besluiten, raadpleegt hij zo mogelijk de daarvoor in aanmerking komende commissie of commissies. Hij doet van het te kennen geven van de wens onverwijld mededeling aan de Kamer, aan de desbetreffende minister en aan de Voorzitter van de Eerste Kamer.
