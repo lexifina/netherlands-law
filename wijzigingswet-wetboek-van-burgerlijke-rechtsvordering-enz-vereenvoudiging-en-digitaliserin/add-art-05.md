@@ -1,0 +1,3 @@
+# Artikel V
+1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, voor verschillende procedures, vorderingen, verzoeken en besluiten en voor de verschillende gerechten en verschillende bestuursrechters verschillend kan worden vastgesteld.
+2. Zolang de verplichting om langs elektronische weg te procederen nog niet bij alle gerechten en bestuursrechters voor alle zaken in werking is getreden, bepaalt de rechter naar wie een zaak wordt doorgestuurd, verwezen of teruggewezen, zo nodig op welke wijze die zaak wordt behandeld of voortgezet.

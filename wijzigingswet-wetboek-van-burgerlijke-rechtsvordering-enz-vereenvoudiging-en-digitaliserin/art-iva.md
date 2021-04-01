@@ -1,0 +1,2 @@
+# Artikel IVa
+Onze Minister van Veiligheid en Justitie zendt in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties binnen drie jaar na het tijdstip waarop de laatste fase van de invoering van de verplichting om langs elektronische weg te procederen, in werking is getreden, bedoeld in artikel V, eerste en tweede lid, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
