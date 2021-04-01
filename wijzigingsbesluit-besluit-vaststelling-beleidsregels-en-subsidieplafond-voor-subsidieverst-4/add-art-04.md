@@ -1,0 +1,2 @@
+# Artikel IV
+Het Besluit van de minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 5 maart 2021, Min-BuZa.2021.6609-8, tot wijziging van het Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 8 september 2016, tot vaststelling van beleidsregels en een subsidieplafond voor subsidieverstrekking voor activiteiten van MKB-ondernemingen gericht op de bevordering van duurzaam internationaal ondernemen (Wijziging Vouchers internationaal ondernemen) wordt ingetrokken.
