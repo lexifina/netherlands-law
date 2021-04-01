@@ -1,6 +1,6 @@
 # Artikel 30a
 1. De eiser of verzoeker stelt zijn vordering in of dient zijn verzoek in door middel van een procesinleiding.
-2. De procedures waarin een vordering wordt ingesteld, worden in dit wetboek aangeduid als vorderingsprocedures.
+2. De procedures waarin een vordering wordt ingesteld, worden in dit wetboek aangeduid als vorderingsprocedures. De procedures waarin een verzoek wordt ingediend, worden in dit wetboek aangeduid als verzoekprocedures.
 3. De procesinleiding vermeldt ten minste:
 a. de naam en in geval van een natuurlijke persoon tevens de voornamen van de eiser of verzoeker, de woonplaats van eiser en de door hem gekozen woonplaats in Nederland, respectievelijk de woonplaats of, bij gebreke daarvan, het werkelijk verblijf van de verzoeker,
 b. de naam en woonplaats van de verweerder bij de vordering, dan wel de bij de verzoeker bekende namen en woonplaats van belanghebbenden,
