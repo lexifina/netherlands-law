@@ -1,0 +1,7 @@
+# Artikel 4a
+1. Het deel van de bestemmingsheffing dat de raad van bestuur oplegt aan de houder van een op grond van artikel 27h, eerste lid, 30h, eerste lid, of 30z, eerste lid, van de wet verleende vergunning als bijdrage ter bestrijding van de kosten, bedoeld in artikel 33e, eerste lid, onder b, van de wet, bedraagt:
+a. voor tafelspelen in een speelcasino: het deeltarief van € 1.961 per speeltafel en € 96 per aangekoppelde speelterminal geheven uit de in artikel 33f, tweede lid, onder a, van de wet genoemde totaaltarieven;
+b. voor kansspelautomaten bestemd voor opstelling in een speelcasino: het deeltarief van € 96 per spelersplaats geheven uit het in artikel 33f, tweede lid, onder b, van de wet genoemde totaaltarief;
+c. voor kansspelautomaten bestemd voor opstelling in een speelautomatenhal: het deeltarief van € 39 per spelersplaats geheven uit het in artikel 33f, tweede lid, onder c, van de wet genoemde totaaltarief;
+d. voor kansspelautomaten bestemd voor opstelling in een hoogdrempelige inrichting: het deeltarief van € 39 per spelersplaats geheven uit het in artikel 33f, tweede lid, onder d, van de wet genoemde totaaltarief.
+2. Het deel van de bestemmingsheffing dat de raad van bestuur oplegt aan de houder van een op grond van artikel 31a, eerste lid, van de wet verleende vergunning als bijdrage ter bestrijding van de kosten, bedoeld in artikel 33e, eerste lid, onder b, van de wet, bedraagt het deelpercentage van 0,25% van de grondslag, bedoeld in artikel 33e, tweede lid, onder c, van de wet.
