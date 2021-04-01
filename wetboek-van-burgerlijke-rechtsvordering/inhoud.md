@@ -69,7 +69,7 @@
 #### afdeling Tweede. De termijn van beroep in cassatie in vorderingsprocedures en de schorsende kracht daarvan
 #### afdeling Derde. Van de rechtspleging in cassatie in vorderingsprocedures
 #### afdeling Vierde. Uitspraak in cassatie in vorderingsprocedures
-#### afdeling Vijfde. Van beroep in cassatie tegen beschikkingen op rekest
+#### afdeling Vijfde. Beroep in cassatie in verzoekprocedures
 ## Boek Tweede. Van de gerechtelijke tenuitvoerlegging van vonnissen, beschikkingen en authentieke akten
 ### titel Eerste. Algemene regels
 ### titel Tweede. Van de gerechtelijke tenuitvoerlegging op goederen die geen registergoederen zijn
