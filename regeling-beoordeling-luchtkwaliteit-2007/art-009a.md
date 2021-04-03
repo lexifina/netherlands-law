@@ -1,0 +1,2 @@
+# Artikel 9a
+Voor het meten van concentraties van verontreinigende stoffen in de buitenlucht wordt voor elke agglomeratie of zone ten minste het aantal vaste meetpunten vastgesteld dat voldoet aan de criteria die voor het vaststellen van het minimumaantal meetpunten zijn opgenomen in bijlage IX, onder A, bij richtlijn 2008/50/EG, met inbegrip van de tabel en de bijbehorende noten, zoals dat aantal overeenkomstig deze criteria is vermeld in de artikelen 10 tot en met 18.
