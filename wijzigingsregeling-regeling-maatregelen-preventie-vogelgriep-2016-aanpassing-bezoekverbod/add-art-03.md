@@ -1,2 +1,0 @@
-# Artikel III
-Deze regeling wordt bekendgemaakt op www.rijksoverheid.nl en treedt onmiddellijk na haar bekendmaking op het internet in werking.
