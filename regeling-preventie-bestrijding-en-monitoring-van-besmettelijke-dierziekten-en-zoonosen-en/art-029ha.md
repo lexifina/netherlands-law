@@ -1,3 +1,0 @@
-# Artikel 29ha. Clusters
-1. Indien sprake is van een cluster wordt dit bij de aanvraag, bedoeld in artikel 29b, eerste lid, of artikel 29e, gemeld met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld, waarbij wordt opgegeven de samenstelling van het cluster en de verdeling van het aantal afvoeradressen onder de C-bedrijven.
-2. De samenstelling van een cluster en de verdeling van het aantal afvoeradressen kunnen in een periode van twaalf maanden eenmaal worden gewijzigd. Een wijziging van de samenstelling van het cluster en de verdeling van het aantal afvoeradressen wordt voorafgaand aan de toepassing van de wijziging aan de minister gemeld met gebruikmaking van een middel, dat daartoe door de minister beschikbaar is gesteld.

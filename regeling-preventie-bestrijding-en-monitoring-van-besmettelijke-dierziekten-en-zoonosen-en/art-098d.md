@@ -1,3 +1,0 @@
-# Artikel 98d
-1. Onverminderd punt 2.1, onderdeel a, van de bijlage bij verordening (EU) nr. 200/2012 laat de exploitant van een levensmiddelenbedrijf, bedoeld in die verordening, eendagskuikens overeenkomstig artikel 98e bemonsteren bij de plaatsing van die dieren op het bedrijf en onderzoeken overeenkomstig de bijlage bij verordening (EU) nr. 200/2012.
-2. Onverminderd punt 2.1 van de bijlage bij verordening (EU) nr. 517/2011 laat de exploitant van een levensmiddelenbedrijf leghennen in de 3 weken voorafgaand aan het moment waarop die dieren worden geslacht overeenkomstig die bijlage bemonsteren en onderzoeken.

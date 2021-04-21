@@ -1,2 +1,0 @@
-# Artikel 50a
-In zoverre in afwijking van artikel 50, leden 2, 3 en 4, worden geiten of schapen toegelaten tot een tentoonstelling of keuring als de houder of eigenaar van de ten toon te stellen of te keuren geiten of schapen de dieren klinisch heeft laten onderzoeken door een dierenarts op het terrein van de tentoonstelling of keuring en de resultaten van het onderzoek geen belemmering vormen voor de tentoonstelling of keuring van de betrokken dieren.

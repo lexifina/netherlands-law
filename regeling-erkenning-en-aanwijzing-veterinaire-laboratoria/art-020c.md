@@ -1,2 +1,0 @@
-# Artikel 20c
-Wageningen Bioveterinary Research, te Lelystad wordt aangewezen als laboratorium, bedoeld in artikel 57, aanhef en onderdeel a, van Richtlijn nr. 2006/88/EG van de Raad van de Europese Gemeenschappen van 24 oktober 2006, betreffende veterinairrechtelijke voorschriften voor aquacultuurdieren en de producten daarvan en betreffende de preventie en bestrijding van bepaalde ziekten bij waterdieren (PbEG L 328).

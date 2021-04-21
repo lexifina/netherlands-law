@@ -1,4 +1,0 @@
-# Artikel 94k
-1. Wanneer uit het onderzoek, bedoeld in artikel 94e, eerste lid, blijkt dat de betreffende waarde, genoemd in bijlage 16, onderdeel 1, bij een koppel vermeerderingdieren, leghennen of dieren die worden opgefokt tot vermeerderingsdier of leghen niet wordt behaald, laat de houder de dieren terstond door een dierenarts vaccineren en worden de dieren binnen vier weken na vaccinatie overeenkomstig artikel 94e in samenhang met artikel 94f, aanhef of 94g, aanhef, onderzocht.
-2. Indien een koppel leghennen of dieren die worden opgefokt tot leghen niet overeenkomstig het eerste lid gevaccineerd is, dan wel zijn, laat de houder bij het eerstvolgende koppel in aanvulling op artikel 94g en binnen 40 tot 42 weken na het uitkomen overeenkomstig artikel 94e bloed afnemen en onderzoeken.
-3. De houder stuurt uiterlijk twee weken na de vaccinatie een kopie van de vaccinatieverklaring, bedoeld in artikel 94b, derde lid, aan de Gezondheidsdienst voor dieren.

@@ -1,2 +1,0 @@
-# Artikel 20e
-Innovative Modern Agriculture IMA - Wageningen B.V. wordt aangewezen als testlaboratorium als bedoeld in hoofdstuk IV, onderdeel 1, van beschikking nr. 2006/968/EG van de Commissie van de Europese Gemeenschappen van 15 december 2006 tot uitvoering van Verordening (EG) nr. 21/2004 van de Raad wat betreft richtsnoeren en procedures voor de elektronische identificatie van schapen en geiten (Pb L 401).
