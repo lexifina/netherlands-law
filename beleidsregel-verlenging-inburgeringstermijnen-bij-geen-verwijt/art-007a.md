@@ -1,0 +1,3 @@
+# Artikel 7a. Maatregelen coronavirus
+1. In verband met de getroffen maatregelen met betrekking tot de aanpak van het coronavirus tot sluiting van onderwijsinstellingen en de oproep tot sociale terughoudend van de regering, wordt de termijn van het participatieverklaringstraject en de termijn voor de overige onderdelen van het inburgeringsexamen verlengd met een periode van maximaal tien maanden.
+2. In afwijking van het eerste lid wordt de termijn van de inburgeringsplichtige die zich zes maanden voor het einde van de inburgeringstermijn bevindt steeds met vier maanden verlengd, in verband met de getroffen maatregelen met betrekking tot de aanpak van het coronavirus.
