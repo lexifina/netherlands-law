@@ -57,13 +57,9 @@
 ### Afdeling 6. Geldigheidsduur
 ### Afdeling 7. Verlies van geldigheid
 ### Afdeling 8. Registratie van gegevens met betrekking tot rijbewijzen
-### Afdeling 8a. Registratie van gegevens in verband met de oplegging van een alcoholslotprogramma
 ### Afdeling 9. Maatregelen rijvaardigheid en geschiktheid
 #### § 1. Algemeen
 #### § 2. Educatieve maatregelen ter bevordering van de rijvaardigheid of geschiktheid
-#### § 3. Alcoholslotprogramma algemeen
-#### § 4. Goedkeuring van het alcoholslot
-#### § 5. Erkenningsregelingen alcoholsloten
 #### § 6. Onderzoeken naar de rijvaardigheid of geschiktheid
 ## Hoofdstuk VIA. Interoperabiliteit van elektronische heffingssystemen
 ### § 1. Algemene bepalingen
