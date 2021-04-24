@@ -1,0 +1,3 @@
+# Artikel 9a
+1. In afwijking van artikel 9 voldoet de aanvrager die beschikt over een geldig certificaat als bedoeld in artikel 7, eerste lid, voor alleen de motorrijtuigcategorie B, ten behoeve van het verkrijgen van het certificaat voor de motorrijtuigcategorie T, bedoeld in artikel 13, onderdeel a, subonderdeel 3, aan bij of krachtens algemene maatregel van bestuur vastgestelde eisen.
+2. In afwijking van artikel 9 voldoet de aanvrager die beschikt over een geldig certificaat als bedoeld in artikel 7, eerste lid, voor alleen de motorrijtuigcategorie B, ten behoeve van het verkrijgen van het certificaat, bedoeld in artikel 13, onderdeel b, voor de motorrijtuigcategorie T, aan bij of krachtens algemene maatregel van bestuur vastgestelde eisen.
