@@ -1,6 +1,0 @@
-# Artikel 132f
-1. De Dienst Wegverkeer kan aan een natuurlijke persoon of rechtspersoon een erkenning verlenen waardoor deze gerechtigd is tot het in stand houden van een netwerk van werkplaatsen voor het inbouwen, het uitlezen, het testen, het kalibreren, het vervangen en het verwijderen van het door hem gevoerde alcoholslot, alsmede het verrichten van de daarmee samenhangende werkzaamheden. Bij de aanvraag van de in dit lid bedoelde erkenning kan in afwijking van de eisen gesteld in artikel 132g, tweede lid, onderdelen b en d, worden volstaan met:
-a. een alcoholslot dat overeenkomstig artikel 132e is goedgekeurd door de aangewezen keuringsinstelling en waarvoor de typegoedkeuring is aangevraagd of tegelijk met de aanvraag voor een erkenning als bedoeld in dit lid wordt aangevraagd, en
-b. een netwerk waarvan de vereiste landelijke dekking blijkt uit contracten afgesloten met natuurlijke personen of rechtspersonen die al een aanvraag voor een erkenning als bedoeld in artikel 132k, eerste lid, hebben ingediend, dan wel tegelijk met de aanvraag voor een erkenning als bedoeld in dit lid indienen.
-2. De erkenning kan worden verleend voor bepaalde of onbepaalde tijd.
-3. Bij ministeriële regeling kunnen voorschriften worden gesteld die aan een erkenning worden verbonden en kunnen met betrekking tot die voorschriften regels worden vastgesteld.

@@ -4,7 +4,7 @@ a. het beoordelen van de rijvaardigheid;
 b. het beoordelen van de lichamelijke en geestelijke geschiktheid tot het besturen van motorrijtuigen;
 c. het opleggen van onderzoeken naar de rijvaardigheid en de geschiktheid tot het besturen van motorrijtuigen van houders van rijbewijzen ten aanzien van wie een vermoeden van onvoldoende rijvaardigheid of geschiktheid bestaat;
 d. het opleggen van educatieve maatregelen ter bevordering van de rijvaardigheid of geschiktheid tot het besturen van motorrijtuigen;
-e. het opleggen en uitvoeren van het alcoholslotprogramma;
+e. [vervallen;]
 f. het schorsen van de geldigheid van rijbewijzen;
 g. het ongeldig verklaren van rijbewijzen;
 h. het verlenen van ontheffingen als bedoeld in artikel 149, tweede lid;

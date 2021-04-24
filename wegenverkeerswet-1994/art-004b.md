@@ -4,10 +4,10 @@ a. het verrichten van taken en handelingen en het nemen van besluiten die op gro
 a1. de nakoming van overige, niet in onderdeel a bedoelde verplichtingen die op grond van EU-verordeningen in verband met de goedkeuring van motorvoertuigen op een goedkeuringsinstantie rusten of daar onlosmakelijk mee zijn verbonden;
 b. het verrichten van taken en handelingen en het nemen van besluiten in verband met de nationale typegoedkeuring en -individuele goedkeuring en VN/ECE-goedkeuring;
 b1. [vervallen,]
-b2. het in verband met het alcoholslotprogramma verlenen van typegoedkeuringen voor alcoholsloten en voor de productieprocessen van die alcoholsloten ingevolge artikel 132e, eerste lid,
-b3. het ter uitvoering van verdragen of besluiten van volkenrechtelijke organisaties of van één of meer instellingen van de Europese Unie, al dan niet gezamenlijk, verlenen van typegoedkeuringen voor alcoholsloten en productieprocessen van die alcoholsloten,
-b4. het houden van toezicht op het overeenstemmen van de alcoholsloten met het type waarvoor de goedkeuring is verleend,
-b5. het verwerken van gegevens in verband met het alcoholslotprogramma,
+b2. [vervallen,]
+b3. [vervallen,]
+b4. [vervallen,]
+b5. [vervallen,]
 b6. het vaststellen en vastleggen van manipulatie van voertuigsystemen en het melden hiervan aan de bevoegde autoriteiten,
 c. het opgeven van kentekens voor motorrijtuigen en aanhangwagens, het ter zake van die opgaven inschrijven en tenaamstellen van motorrijtuigen en aanhangwagens in het kentekenregister, bedoeld in artikel 42, en het ter zake van die inschrijving afgeven van kentekenbewijzen, het beëindigen van de inschrijving en het doen vervallen van de tenaamstelling, het schorsen van de geldigheid van kentekenbewijzen, het ongeldig verklaren van kentekenbewijzen, het geldig verklaren van kentekenbewijzen, alsmede het houden van toezicht als bedoeld in artikel 37, vierde lid,
 d. het afgeven van keuringsrapporten voor motorrijtuigen en aanhangwagens,
@@ -18,7 +18,7 @@ g1. het afgeven van een verklaring in verband met de aanvraag van een rijbewijs,
 h. het verwerken van gegevens met betrekking tot opgegeven kentekens, afgegeven kentekenbewijzen, afgegeven keuringsrapporten, krachtens artikel 149a verleende ontheffingen, afgegeven rijbewijzen, fietsen, gebruik van motorrijtuigen en de mobiele objecten, bedoeld in artikel 70l, eerste lid, alsmede met betrekking tot rechterlijke uitspraken houdende ontzegging van de bevoegdheid tot het besturen van motorrijtuigen,
 i. het overeenkomstig de bij of krachtens deze wet vastgestelde bepalingen verstrekken van gegevens uit de in onderdeel h bedoelde registers alsmede het houden van toezicht als bedoeld in artikel 45a, eerste lid,
 i1. het overeenkomstig het bij of krachtens deze wet bepaalde doen van informatieverzoeken aan de daartoe bevoegde autoriteiten van een andere lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, ten behoeve van de beoordeling door de Dienst Wegverkeer of een andere rijbewijsafgevende autoriteit in Nederland van aanvragen tot afgifte van een rijbewijs;
-j. het verlenen van erkenningen als bedoeld in de artikelen 61a, 62, 66a, 70a, 83, 92, eerste lid, 101, 132f, eerste lid, en 132k, eerste lid, en het verlenen van de bevoegdheid voertuigen aan een keuring te onderwerpen als bedoeld in artikel 85a alsmede het schorsen, wijzigen en intrekken van erkenningen en van de bevoegdheid voertuigen aan een keuring te onderwerpen,
+j. het verlenen van erkenningen als bedoeld in de artikelen 61a, 62, 66a, 70a, 83, 92, eerste lid, en 101 en het verlenen van de bevoegdheid voertuigen aan een keuring te onderwerpen als bedoeld in artikel 85a alsmede het schorsen, wijzigen en intrekken van erkenningen en van de bevoegdheid voertuigen aan een keuring te onderwerpen,
 j1. het aanwijzen van een technische dienst voor het uitvoeren van bepaalde tests ten behoeve van het verlenen van typegoedkeuringen of individuele goedkeuringen, dan wel voor het uitvoeren van een periodieke herkwalificatie of voor het uitvoeren van bepaalde toezichtstaken voor zover deze taak niet voortvloeit uit de taak van goedkeuringsinstantie als bedoeld in onderdeel a,
 k. het houden van toezicht op de naleving van de verplichtingen die voortvloeien uit de in onderdeel j bedoelde erkenningen en van de bevoegdheid voertuigen aan een keuring te onderwerpen alsmede op de verplichtingen die voortvloeien uit de in onderdeel j1 bedoelde aanwijzing als technische dienst,
 l. het verlenen van ontheffingen als bedoeld in artikel 149a,

@@ -1,5 +1,0 @@
-# Artikel 132k
-1. De Dienst Wegverkeer kan aan een natuurlijke persoon of rechtspersoon een erkenning verlenen waardoor deze gerechtigd is tot het inbouwen, het uitlezen, het testen, het kalibreren, het onderhouden, het vervangen en het verwijderen van in artikel 132f, eerste lid, bedoelde alcoholsloten, alsmede de daarmee samenhangende werkzaamheden. Bij de aanvraag van de in dit lid bedoelde erkenning kan in afwijking van artikel 132l, tweede lid, onderdeel a, worden volstaan met een contract, dat is afgesloten met een natuurlijke persoon of rechtspersoon die een aanvraag als bedoeld in artikel 132g, eerste lid, heeft ingediend.
-2. Aan de erkenning kunnen bij ministeriële regeling aangewezen bevoegdheden worden verbonden. Een zodanige bevoegdheid maakt deel uit van de erkenning. Het in de artikelen 132l tot en met 132o ten aanzien van erkenningen bepaalde is van overeenkomstige toepassing op bedoelde bevoegdheden.
-3. De erkenning kan worden verleend voor bepaalde of onbepaalde tijd.
-4. Bij ministeriële regeling kunnen voorschriften worden gesteld die aan een erkenning worden verbonden en kunnen met betrekking tot die voorschriften regels worden vastgesteld.
