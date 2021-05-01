@@ -1,0 +1,3 @@
+# Article 6c
+1. Travelling personnel employed by an undertaking which, for hire or reward or on its own account, operates transport services and working in the territory of both Contracting Parties shall be subject to the legislation of the Contracting Party in whose territory the undertaking has its head office as if they were working in that territory.
+2. Persons who are employed on board a seagoing ship or vessel or an aircraft by an undertaking having its head office in the territory of a Contracting Party, shall be subject to the legislation of that Party as if they were working in that territory.
