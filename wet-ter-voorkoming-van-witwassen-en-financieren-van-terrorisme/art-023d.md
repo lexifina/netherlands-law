@@ -2,7 +2,8 @@
 1. De Nederlandsche Bank gaat niet over tot registratie van een aanbieder als bedoeld in artikel 23b indien:
 a. de gegevens bedoeld in artikel 23c, eerste lid, niet volledig zijn;
 b. zij na verificatie van de gegevens bedoeld in artikel 23c, eerste lid, niet overtuigd is van de juistheid van deze gegevens;
-c. een aanbieder als bedoeld in artikel 23b niet voldoet aan artikel 23h, eerste, tweede of vierde lid.
+c. een aanbieder als bedoeld in artikel 23b niet voldoet aan artikel 23h, eerste, tweede, derde of vierde lid;
+d. een uiteindelijk belanghebbende van een aanbieder als bedoeld in artikel 23b niet voldoet aan artikel 23h, derde lid.
 2. DNB stelt de aanbieder onverwijld op de hoogte indien zij op grond van het eerste lid niet over gaat tot registratie.
 3. De Nederlandsche Bank kan de registratie van een aanbieder als bedoeld in artikel 23b doorhalen indien:
 a. de aanbieder hierom verzoekt;
@@ -15,4 +16,5 @@ g. de aanbieder zijn dienstverlening heeft beëindigd, dan wel zijn dienstverlen
 h. de aanbieder de onderneming ten behoeve waarvan de registratie heeft plaatsgevonden, geheel of gedeeltelijk overdraagt;
 i. de aanbieder in staat van faillissement is komen te verkeren;
 j. doorhaling of beëindiging heeft plaatsgevonden van de inschrijving van de aanbieder in het handelsregister bedoeld in artikel 1, eerste lid, onderdeel h, van de Handelsregisterwet 2007;
-k. de aanbieder is opgehouden te bestaan.
+k. de aanbieder is opgehouden te bestaan;
+l. een uiteindelijk belanghebbende van een aanbieder als bedoeld in artikel 23b niet voldoet aan artikel 23h, derde lid.
