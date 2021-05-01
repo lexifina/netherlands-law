@@ -1,0 +1,4 @@
+# Artikel 255a
+1. Dit artikel is uitsluitend van toepassing op huurovereenkomsten als bedoeld in artikel 247.
+2. De huurprijs van woonruimte waarin of waaraan gedurende de huurtijd door of vanwege de verhuurder voorzieningen als bedoeld in artikel 255 lid 1 onder a of veranderingen of toevoegingen als bedoeld in artikel 255 lid 1 onder b zijn aangebracht, is de huurprijs, vermeerderd met een bedrag dat in redelijke verhouding staat tot de door de verhuurder gemaakte kosten van deze ingrepen, veranderingen of toevoegingen. Artikel 255 lid 3 is van overeenkomstige toepassing.
+3. Indien partijen geen overeenstemming hebben kunnen bereiken over het bedrag van de verhoging, kan ieder van hen binnen drie maanden na de totstandkoming van de ingrepen, veranderingen of toevoegingen de huurcommissie verzoeken daarover een uitspraak te doen.
