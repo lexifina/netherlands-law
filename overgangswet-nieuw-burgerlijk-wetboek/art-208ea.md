@@ -1,0 +1,4 @@
+# Artikel 208ea
+1. De artikelen 248 lid 3 en 4 en 255a van Boek 7 zijn met ingang van het tijdstip van inwerkingtreding van de Wet maximering huurprijsverhogingen geliberaliseerde huurovereenkomsten van toepassing op de op dat tijdstip bestaande huurovereenkomsten.
+2. Artikel 274 lid 1 onder d van Boek 7, zoals dat luidt met ingang van het tijdstip van inwerkingtreding van de Wet maximering huurprijsverhogingen geliberaliseerde huurovereenkomsten, is met ingang van dat tijdstip voor de duur van de werking van artikel 248 lid 3 van Boek 7 van toepassing op de op dat tijdstip bestaande huurovereenkomsten.
+3. Lid 1 geldt niet voor zover partijen voor inwerkingtreding van de Wet maximering huurprijsverhogingen geliberaliseerde huurovereenkomsten een verhoging van de huurprijs zijn overeengekomen in verband met voorzieningen, veranderingen of toevoegingen als bedoeld in artikel 255a van Boek 7.
