@@ -1,0 +1,2 @@
+# Article 3 bis
+If a Contracting State, exercising its jurisdiction under Article 3, has been notified or has otherwise learned that one or more other Contracting States are conducting an investigation, prosecution or judicial proceeding in respect of the same offences or acts, that Contracting State shall, as appropriate, consult those other Contracting States with a view to coordinating their actions. The obligations in this Article are without prejudice to the obligations of a Contracting State under Article 13.
