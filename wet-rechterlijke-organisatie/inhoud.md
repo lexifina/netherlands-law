@@ -25,5 +25,6 @@
 ### Afdeling 1. Taken en bevoegdheden
 ### Afdeling 2. Inrichting
 ### Afdeling 3. Overige bepalingen
+## Hoofdstuk 4a. Bepalingen ter uitvoering van de Verordening EOM
 ## Hoofdstuk 5. De opleiding van rechterlijke ambtenaren
 ## Hoofdstuk 6. Overgangs- en slotbepalingen
