@@ -1,0 +1,2 @@
+# Artikel II
+Op onderzoeksprotocollen die betrekking hebben op een onderwerp als bedoeld in artikel I, onder 2, van dit besluit en die op grond van artikel 2, tweede lid, onder a, van de Wet medisch-wetenschappelijk onderzoek met mensen vóór het tijdstip van inwerkingtreding van dit besluit zijn ingediend bij de bevoegde commissie, blijven de regels van toepassing die op het moment van indienen van de onderzoeksprotocollen golden.
