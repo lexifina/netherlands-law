@@ -1,3 +1,0 @@
-# Artikel V
-1. In afwijking van artikel 4 van het Besluit medische hulpmiddelen is het tot 21 maart 2010 niet verboden om medische hulpmiddelen voorhanden te hebben, af te leveren of toe te passen indien aan de eisen van het Besluit medische hulpmiddelen wordt voldaan zoals deze worden gewijzigd met het onderhavige besluit.
-2. In afwijking van artikel 2 van het Besluit actieve implantaten is het tot 21 maart 2010 niet verboden om actieve implantaten voorhanden te hebben, af te leveren of toe te passen indien aan de eisen van het Besluit actieve implantaten wordt voldaan zoals deze worden gewijzigd met het onderhavige besluit.
