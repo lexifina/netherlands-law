@@ -1,0 +1,6 @@
+# I. GENERAL
+If at any time after the signing of this Convention, a Contracting State:
+a) reduces the general statutory rate of its corporate income tax or company tax, respectively, that applies with respect to substantially all of the income of resident companies with the result that such rate falls below 9 per cent;
+b) provides an exemption from taxation to resident companies for substantially all foreign source income (including interest and royalties); or
+c) is placed on annex I of the EU list of non-cooperative tax jurisdictions in taxation matters,
+the Contracting States shall consult with a view to amending this Convention to restore an appropriate allocation of taxing rights between the Contracting States. If such consultations do not progress, the other State may notify the first-mentioned State through diplomatic channels that it shall cease to apply the provisions of Articles 10, 11, 12, paragraph 5 of Article 13 and Article 20. In such case, the provisions of such Articles shall cease to have effect in both Contracting States with respect to items of income derived by resident companies six months after the date that the other Contracting State issues a written public notification stating that it shall cease to apply the provisions of these Articles.

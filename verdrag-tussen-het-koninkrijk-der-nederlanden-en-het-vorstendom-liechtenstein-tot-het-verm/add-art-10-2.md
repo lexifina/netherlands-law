@@ -1,0 +1,2 @@
+# X. AD ARTIKEL 24
+De bevoegde autoriteiten van de verdragsluitende staten kunnen tevens overeenkomen dat ter zake van een overeengekomen regeling in het kader van een procedure voor onderling overleg als bedoeld in artikel 24, de verdragsluitende staat waarin ingevolge eerdergenoemde regeling sprake is van een additionele belastingheffing, geen belastingverhogingen, bestuurlijke boetes, interest en kosten zal opleggen met betrekking tot deze additionele belastingheffing.

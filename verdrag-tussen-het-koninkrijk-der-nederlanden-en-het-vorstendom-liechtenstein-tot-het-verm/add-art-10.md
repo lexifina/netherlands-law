@@ -1,0 +1,2 @@
+# X. AD ARTICLE 24
+The competent authorities of the Contracting States may also agree, with respect to any agreement reached as a result of a mutual agreement procedure as meant in Article 24 that the Contracting State in which there is an additional tax charge as a result of the aforementioned agreement shall not impose any increases, surcharges, interest and costs with respect to this additional tax charge.
