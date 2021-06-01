@@ -1,0 +1,5 @@
+# Artikel 6ba
+1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ter uitvoering van bindende onderdelen van EU-rechtshandelingen die direct of indirect zijn gebaseerd of mede zijn gebaseerd op artikel 21 van het Verdrag betreffende de werking van de Europese Unie en die het vrij verkeer van personen gedurende de epidemie van covid-19 betreffen.
+2. Bij algemene maatregel van bestuur kunnen ter uitvoering van de EU-rechtshandelingen, bedoeld in het eerste lid, één of meer personen of organisaties worden aangewezen om op bij of krachtens algemene maatregel van bestuur te bepalen wijze taken te vervullen die voortvloeien uit deze EU-rechtshandelingen.
+3. De voordracht voor een krachtens het eerste of tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan één week nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
+4. Onze Minister kan indien de onmiddellijke inwerkingtreding nodig is, de in het eerste en tweede lid bedoelde regels bij ministeriële regeling stellen voor een termijn van ten hoogste drie maanden.

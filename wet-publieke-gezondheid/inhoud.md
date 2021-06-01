@@ -20,6 +20,7 @@
 ### § 1. Algemene bepalingen
 ### § 2. Veilige afstand en andere gedragsvoorschriften
 ### § 3. Sectorspecifieke bepalingen
+### § 3a. Coronatoegangsbewijzen
 ### § 4. Overige bepalingen
 ## Hoofdstuk VI. Financiële bepalingen
 ## Hoofdstuk VII. Handhaving

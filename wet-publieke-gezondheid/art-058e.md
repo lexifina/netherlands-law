@@ -1,7 +1,7 @@
 # Artikel 58e. Differentiatie en lokaal maatwerk
 1. In een krachtens dit hoofdstuk vast te stellen ministeriële regeling kan in ieder geval onderscheid worden gemaakt:
 a. binnen en tussen gemeenten en met betrekking tot de openbare lichamen Bonaire, Sint Eustatius en Saba;
-b. tussen personen, op basis van leeftijd;
+b. tussen personen, op basis van leeftijd of, indien het een krachtens paragraaf 2 van dit hoofdstuk of artikel 58q vast te stellen ministeriële regeling betreft, op basis van een resultaat;
 c. tussen activiteiten;
 d. tussen openbare, publieke en besloten plaatsen, of gedeelten daarvan.
 2. De burgemeester kan met het oog op bijzondere omstandigheden ontheffing verlenen van:
