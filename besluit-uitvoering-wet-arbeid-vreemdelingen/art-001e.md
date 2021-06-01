@@ -1,0 +1,6 @@
+# Artikel 1e
+Het verbod, bedoeld in artikel 2, eerste lid, van de Wet arbeid vreemdelingen is niet van toepassing met betrekking tot een vreemdeling die in het kader van grensoverschrijdende dienstverlening tijdelijk in Nederland arbeid verricht in dienst van een werkgever die buiten Nederland is gevestigd in een andere lidstaat van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, mits:
+a. de vreemdeling voldoet aan alle voorschriften inzake verblijf, werkvergunning en sociale zekerheid om als werknemer van de werkgever arbeid te verrichten in het land waar de werkgever gevestigd is,
+b. de vreemdeling arbeid verricht die gelijksoortig is aan de arbeid waartoe de vreemdeling gerechtigd is in het land waar de werkgever gevestigd is,
+c. de vreemdeling slechts de vervanger is van een andere vreemdeling die gelijksoortige arbeid heeft verricht, indien de totale duur van de overeengekomen dienstverrichting niet wordt overschreden, en
+d. de werkgever daadwerkelijk substantiële activiteiten verricht als bedoeld in artikel 6, derde lid, onderdeel a, van de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie.

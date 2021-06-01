@@ -1,0 +1,7 @@
+# Artikel 1b
+1. Het verbod, bedoeld in artikel 2, eerste lid, van de Wet arbeid vreemdelingen, is niet van toepassing met betrekking tot een vreemdeling van wie de krachtens de Vreemdelingenwet 2000 afgegeven vergunning met daarop de aantekening, bedoeld in artikel 4, eerste lid, van de Wet arbeid vreemdelingen, is ingetrokken en die met instemming van Onze Minister van Veiligheid en Justitie in Nederland verblijft en beschikt over een geldige sticker in het paspoort met de aantekening «arbeid is vrij toegestaan».
+2. Het verbod, bedoeld in artikel 2, eerste lid, van de Wet arbeid vreemdelingen, is niet van toepassing met betrekking tot een vreemdeling:
+a. die in afwachting is van de beslissing op een aanvraag tot het verlengen van de geldigheidsduur van de gecombineerde vergunning voor dezelfde werkzaamheden bij dezelfde werkgever;
+b. van wie de aanvraag is ontvangen uiterlijk op de dag voor de dag waarop de geldigheidsduur van de gecombineerde vergunning verstrijkt, dan wel, indien deze later is ontvangen, indien de termijnoverschrijding de vreemdeling niet kan worden toegerekend;
+c. die dezelfde werkzaamheden verricht bij dezelfde werkgever als waarvoor de vreemdeling reeds voor de verlengingsaanvraag in het bezit is gesteld van een gecombineerde vergunning; en
+d. die beschikt over een door Onze Minister van Veiligheid en Justitie afgegeven geldige sticker in het paspoort met de aantekening «TWV niet vereist voor specifieke arbeid, andere arbeid toegestaan mits TWV is verleend».
