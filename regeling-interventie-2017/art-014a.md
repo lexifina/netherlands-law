@@ -1,0 +1,2 @@
+# Artikel 14a
+In afwijking van artikel 1, onderdeel e, is ter uitvoering van Verordening (EU) 2020/591 van de Commissie van 30 april 2020 tot opening van een tijdelijke buitengewone steunregeling voor de particuliere opslag van bepaalde soorten kaas en tot voorafgaande vaststelling van het steunbedrag, deze regeling mede van toepassing op particuliere opslag van kaas als bedoeld in artikel 1, eerste lid, van die verordening.
