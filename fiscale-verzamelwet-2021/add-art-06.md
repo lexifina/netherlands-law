@@ -1,0 +1,2 @@
+# Artikel VI
+De in artikel 1a, eerste lid, onderdeel d, van de Successiewet 1956 gestelde voorwaarde geldt voor het kalenderjaar 2015 niet voor een bloedverwant in de eerste graad die een uitkering als bedoeld in artikel 19a van de Wet maatschappelijke ondersteuning zoals dat artikel op 31 december 2014 luidde heeft genoten in verband met in het kalenderjaar 2014 aan de in het kalenderjaar 2015 overleden bloedverwant verleende zorg.

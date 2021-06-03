@@ -1,0 +1,2 @@
+# Artikel VIII
+De naleving en de controle daarop van het bepaalde bij of krachtens de artikelen 3:4 en 3:5 van de Algemene douanewet zullen uiterlijk in 2026 worden geëvalueerd en daarna om de vijf jaar. Hierbij wordt aangesloten bij de evaluatie, bedoeld in artikel 19 van Verordening (EU) 2018/1672 van het Europees Parlement en de Raad van 23 oktober 2018 betreffende de controle van liquide middelen die de Unie binnenkomen of verlaten en tot intrekking van Verordening (EG) nr. 1889/2005 (PbEU 2018, L 284).
