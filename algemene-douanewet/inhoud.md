@@ -10,6 +10,7 @@
 ### Afdeling 2.1. Formaliteiten met betrekking tot goederen en goederenverkeer
 ### Afdeling 2.2. Overige bepalingen
 ## Hoofdstuk 3. Verboden en beperkingen
+### Afdeling 3.1. Liquide middelen
 ## Hoofdstuk 5. Goederen die het douanegebied van de Unie verlaten
 ## Hoofdstuk 6. Vrijstellingen
 ## Hoofdstuk 7. Douaneschuld
