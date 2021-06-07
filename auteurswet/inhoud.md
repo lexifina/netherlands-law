@@ -10,6 +10,9 @@
 ## Hoofdstuk II. De uitoefening en de handhaving van het auteursrecht en bepalingen van strafrecht
 ## Hoofdstuk III. De duur van het auteursrecht
 ## Hoofdstuk IV. Bijzondere bepalingen betreffende het volgrecht
+## Hoofdstuk IVa. Bijzondere bepalingen betreffende verruimde licenties
+### § 1. Verruimde licenties met betrekking tot werken die niet in de handel verkrijgbaar zijn
+### § 2. Verruimde licenties in het algemeen
 ## Hoofdstuk V. Bijzondere bepalingen betreffende filmwerken
 ## Hoofdstuk VI. Bijzondere bepalingen betreffende computerprogramma's
 ## Hoofdstuk VII. Bescherming van na het verstrijken van de beschermingsduur openbaar gemaakte werken
