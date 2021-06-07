@@ -1,0 +1,3 @@
+# Artikel 47d
+1. Het gebruik van een werk van letterkunde, wetenschap of kunst dat uitsluitend dient ter toelichting bij het onderwijs op grond van de artikelen 12, vijfde lid, en 16 door middel van een beveiligde elektronische omgeving wordt geacht uitsluitend plaats te vinden in de lidstaat van de Europese Unie en de Europese Economische Ruimte waar de onderwijsinstelling is gevestigd.
+2. Het gebruik van een werk dat niet in de handel verkrijgbaar is door een cultureel erfgoedinstelling overeenkomstig het in artikel 18c bepaalde wordt geacht uitsluitend plaats te vinden in de lidstaat van de Europese Unie en de Europese Economische Ruimte waar die cultureel erfgoedinstelling is gevestigd.

@@ -1,8 +1,5 @@
 # Artikel 16n
-1. Als inbreuk op het auteursrecht op een werk van letterkunde, wetenschap of kunst wordt niet beschouwd de verveelvoudiging door voor het publiek toegankelijke bibliotheken, onderwijsinstellingen en musea of archieven die niet het behalen van een direct of indirect economisch of commercieel voordeel nastreven, indien die verveelvoudiging geschiedt met als enig doel:
-1°. het exemplaar van het werk te restaureren;
-2°. bij dreiging van verval van het exemplaar van het werk een verveelvoudiging daarvan te behouden voor de instelling;
-3°. het werk raadpleegbaar te houden als de technologie waarmee het toegankelijk gemaakt kan worden in onbruik raakt.
-2. De in het eerste lid bedoelde verveelvoudigingen zijn slechts geoorloofd indien:
-1°. de exemplaren van het werk deel uitmaken van de verzameling van de voor het publiek toegankelijke bibliotheken, onderwijsinstellingen en musea of archieven die een beroep op deze beperking doen; en
-2°. artikel 25 in acht wordt genomen.
+1. Als inbreuk op het auteursrecht op een werk van letterkunde, wetenschap of kunst wordt niet beschouwd de reproductie ervan door een cultureel erfgoedinstelling indien:
+1°. de reproductie geschiedt met als doel het behoud van het werk en de reproductie daarvoor noodzakelijk is; en
+2°. het werk permanent deel uitmaakt van de collectie van de cultureel erfgoedinstelling.
+2. Van het in het eerste lid bepaalde kan niet bij overeenkomst worden afgeweken.

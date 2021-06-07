@@ -1,2 +1,8 @@
 # Artikel 25a
-In deze paragraaf worden onder nabestaanden verstaan de ouders, de echtgenoot of de geregistreerde partner en de kinderen. De aan de nabestaanden toekomende bevoegdheden kunnen zelfstandig door ieder van hen worden uitgeoefend. Bij verschil van mening kan de rechter een voor hen bindende beslissing geven.
+1. In deze paragraaf worden onder nabestaanden verstaan de ouders, de echtgenoot of de geregistreerde partner en de kinderen. De aan de nabestaanden toekomende bevoegdheden kunnen zelfstandig door ieder van hen worden uitgeoefend. Bij verschil van mening kan de rechter een voor hen bindende beslissing geven.
+2. In deze paragraaf wordt onder onderzoeksorganisatie verstaan een universiteit, inclusief de bibliotheken ervan, een onderzoeksinstelling of een andere entiteit die hoofdzakelijk tot doel heeft wetenschappelijk onderzoek te verrichten of onderwijsactiviteiten te verrichten die ook de verrichting van wetenschappelijk onderzoek omvatten:
+1°. zonder winstoogmerk of door herinvestering van alle winst in haar wetenschappelijk onderzoek, of
+2°. op grond van een door een staat die partij is bij de Europese Unie of Europese Economische Ruimte, erkende taak van algemeen belang;
+op zodanige wijze dat de toegang tot de door zulk wetenschappelijk onderzoek voortgebrachte resultaten niet op preferentiële basis kan worden aangewend door een onderneming die een beslissende invloed heeft op dit soort organisatie.
+3. In deze paragraaf wordt onder tekst- en datamining verstaan een geautomatiseerde analysetechniek die gericht is op de ontleding van tekst en gegevens in digitale vorm om informatie te genereren zoals, maar niet uitsluitend, patronen, trends en onderlinge verbanden.
+4. In deze paragraaf wordt onder instelling voor cultureel erfgoed verstaan: een voor het publiek toegankelijke bibliotheek of een voor het publiek toegankelijk museum, een archief of een instelling voor cinematografisch of audio(visueel) erfgoed.
