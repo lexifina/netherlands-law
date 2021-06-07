@@ -1,0 +1,12 @@
+# Artikel 7b
+1. De uitgever van een perspublicatie heeft het uitsluitende recht om toestemming te verlenen voor een of meer van de volgende handelingen:
+a. het reproduceren van zijn perspublicatie voor online gebruik door een dienstverlener van de informatiemaatschappij; en
+b. het beschikbaar stellen voor het publiek van zijn perspublicatie voor online gebruik door een dienstverlener van de informatiemaatschappij.
+2. Het in het eerste lid bedoelde uitsluitende recht om toestemming te verlenen is niet van toepassing op een of meer van de volgende handelingen:
+a. het privé of niet commercieel gebruik van een perspublicatie door individuele gebruikers;
+b. het hyperlinken naar een perspublicatie;
+c. het gebruik van enkele woorden of heel korte fragmenten uit een perspublicatie; en
+d. het gebruik van een werk, een opname van een uitvoering of een reproductie daarvan, een fonogram of een reproductie daarvan, een opname van een programma of een reproductie daarvan, een film of een reproductie daarvan, een perspublicatie of een reproductie daarvan, of een databank waarvan de beschermingsduur is verstreken en die is opgenomen in een perspublicatie.
+3. Het in het eerste lid bedoelde recht om toestemming te verlenen kan niet worden ingeroepen tegen een maker, uitvoerende kunstenaar, producent van fonogrammen, omroeporganisatie, producent van eerste vastleggingen van films, en producent van een databank waarvan het werk, de opname van een uitvoering of een reproductie daarvan, het fonogram of een reproductie daarvan, de opname van een programma of een reproductie daarvan, de film of een reproductie daarvan, of databank is opgenomen in de perspublicatie.
+4. Wanneer een werk, een opname van een uitvoering of een reproductie daarvan, een fonogram of een reproductie daarvan, een opname van een programma of een reproductie daarvan, een film of een reproductie daarvan, een perspublicatie of een reproductie daarvan, of een databank is opgenomen in een perspublicatie op basis van een niet-exclusieve licentie, dan mag het in eerste lid bedoelde recht om toestemming te verlenen niet worden ingeroepen jegens een dienstverlener van de informatiemaatschappij die voor het gebruik van die prestaties ook toestemming heeft verkregen.
+5. De maker van een in een perspublicatie opgenomen werk van letterkunde, wetenschap of kunst krijgt een passend aandeel van de vergoeding die de uitgever ontvangt voor het gebruik van de perspublicatie door een dienstverlener van de informatiemaatschappij. Artikel 25g van de Auteurswet is van overeenkomstige toepassing.

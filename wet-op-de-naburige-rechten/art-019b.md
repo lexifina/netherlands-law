@@ -1,0 +1,2 @@
+# Artikel 19b
+Een aanbieder van een onlinedienst voor het delen van inhoud stelt de door de gebruikers van zijn dienst aangeboden opnames van uitvoeringen, fonogrammen, eerste vastleggingen van films, opnames van programma's, of reproducties daarvan, beschikbaar voor het publiek of maakt die op grond van deze wet beschermde prestaties anderszins openbaar. De artikelen 17d, 29c, eerste tot en met achtste lid, 29d en 29e van de Auteurswet zijn van overeenkomstige toepassing.
