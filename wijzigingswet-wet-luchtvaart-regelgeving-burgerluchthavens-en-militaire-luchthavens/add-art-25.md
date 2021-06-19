@@ -1,0 +1,2 @@
+# Artikel XXV. (Inwerkingtreding)
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat de voordracht voor de inwerkingtreding van de artikelen IA, IB, IC en IG niet eerder wordt gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.

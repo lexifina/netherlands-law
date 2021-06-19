@@ -1,0 +1,2 @@
+# Artikel XXIII. (Strafbare feiten)
+Ten aanzien van bij of krachtens de Luchtvaartwet met betrekking tot luchtvaartterreinen strafbaar gestelde feiten die zijn begaan vóór het tijdstip waarop voor het betrokken terrein een luchthavenbesluit of een luchthavenregeling in werking treedt, blijven de betrokken bij of krachtens de Luchtvaartwet vastgestelde voorschriften zoals die luidden vóór dat tijdstip, van kracht.

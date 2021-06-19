@@ -1,0 +1,2 @@
+# Artikel XXII. (Afhandeling oude aanvragen militaire luchtvaart)
+Aanvragen om besluiten, ingediend vóór het tijdstip waarop voor de luchthaven waarop de aanvraag betrekking heeft een luchthavenbesluit in werking is getreden, alsmede vóór bedoeld tijdstip bekend gemaakte ambtshalve te nemen besluiten, betrekking hebbend op Hoofdstuk IV, afdeling 1 tot en met 3, van de Luchtvaartwet, worden na dat tijdstip behandeld overeenkomstig de daarop betrekking hebbende voorschriften bij of krachtens de Wet luchtvaart.

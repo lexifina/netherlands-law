@@ -1,0 +1,5 @@
+# Artikel XV. (Overgang bignalbesluiten en ontheffingen burgerluchtvaart op grond van artikel 14 Luchtvaartwet waarvoor een luchthavenregeling kan worden vastgesteld)
+1. Binnen een jaar na inwerkingtreding van artikel I, onderdeel K, van deze wet wordt een luchthavenregeling als bedoeld in artikel 8.64, eerste lid, van de Wet luchtvaart, vastgesteld voor burgerluchthavens waarvoor een besluit is afgegeven op grond van het Besluit inrichting en gebruik niet aangewezen luchtvaartterreinen of die een ontheffing hebben gekregen op grond van artikel 14, tweede lid, onderdeel b, van de Luchtvaartwet en die:
+a. op grond van artikel 8.1, tweede lid, van de Wet luchtvaart burgerluchthavens van regionale betekenis zijn, en
+b. waarvoor op grond van artikel 8.1a, derde lid, van die wet vaststelling van een luchthavenbesluit niet is vereist.
+2. Artikel 8.49, eerste lid, van de Wet luchtvaart is niet van toepassing indien het aantal bewegingen dat op grond van de luchthavenregeling mogelijk is niet hoger is dan het aantal bewegingen dat op grond van het besluit of de ontheffing, bedoeld in het eerste lid, was toegestaan.

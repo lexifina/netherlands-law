@@ -1,0 +1,2 @@
+# Artikel XVIb. (Afhandeling aangevangen procedure burgerluchthaven Twenthe)
+Onze Minister van Verkeer en Waterstaat kan besluiten de procedure en de onderzoeken die zijn verricht om op grond van de Wet luchtvaart een burgerluchthaven van regionale betekenis te vestigen op de plaats van de militaire luchthaven Twenthe, geheel of gedeeltelijk aan te merken als de procedure en onderzoeken om een burgerluchthaven van nationale betekenis op die plaats te vestigen.
