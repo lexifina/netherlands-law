@@ -2,7 +2,7 @@
 1. In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 besloten plaats: een andere dan openbare of publieke plaats en een daarbij behorend erf, met inbegrip van gebouwen en plaatsen als bedoeld in artikel 6, tweede lid, van de Grondwet;
 beveiligingsmedewerker: een persoon belast met beveiligingswerkzaamheden als bedoeld in artikel 7, eerste, tweede en derde lid, van de Wet particuliere beveiligingsorganisaties en recherchebureaus alsmede een persoon in dienst van een bestuursorgaan als bedoeld in artikel 5, vijfde lid, van die wet;
-coronatoegangsbewijs: bewijs van een testuitslag, een bewijs van vaccinatie tegen SARS-CoV-2 of een bewijs van herstel van een infectie met het virus SARS-CoV-2;
+coronatoegangsbewijs: bewijs van een testuitslag, een bewijs van vaccinatie tegen het virus SARS-CoV-2 of een bewijs van herstel van een infectie met het virus SARS-CoV-2;
 epidemie: de epidemie van covid-19, veroorzaakt door het virus SARS-CoV-2;
 evenement: elke voor het publiek toegankelijke verrichting van vermaak, alsmede een herdenkingsplechtigheid, braderie, optocht op de weg, voorstelling of feest op een andere plaats dan in een woning of op een daarbij behorend erf of in een gebouw of op een plaats als bedoeld in artikel 6, tweede lid, van de Grondwet, wedstrijd, beurs of congres. Onder evenementen worden niet begrepen betogingen, vergaderingen en godsdienstige en levensbeschouwelijke samenkomsten als bedoeld in de Wet openbare manifestaties;
 groepsverband: een aantal min of meer bijeen horende personen, waarbij kennelijk sprake is van een zekere samenhang of omstandigheid waardoor die personen bij elkaar zijn;
@@ -18,7 +18,7 @@ opsporingsambtenaar: een persoon die bij of krachtens artikel 141 of 142 van het
 persoon met een handicap: een persoon als bedoeld in artikel 1, tweede zin, van het Verdrag inzake de rechten van personen met een handicap (Trb. 2007, 169, en 2014, 113);
 persoonlijke beschermingsmiddelen: uitrusting die bestemd is om te worden gedragen of vastgehouden teneinde de eigen of een andere persoon zoveel mogelijk te beschermen tegen overdracht van het virus SARS-CoV-2;
 publieke plaats: een voor het publiek openstaand gebouw als bedoeld in artikel 174, eerste lid, van de Gemeentewet of artikel 176, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba, en een daarbij behorend erf, of een voor het publiek openstaand lokaal, voertuig of vaartuig, met uitzondering van gebouwen en plaatsen als bedoeld in artikel 6, tweede lid, van de Grondwet;
-resultaat: testuitslag, vaccinatie tegen covid-19 of herstel van een infectie met het virus SARS-CoV-2;
+resultaat: testuitslag, vaccinatie tegen het virus SARS-CoV-2 of herstel van een infectie met het virus SARS-CoV-2;
 testuitslag: testuitslag waaruit blijkt of de geteste persoon op het moment van afname van de test was geïnfecteerd met het virus SARS-CoV-2;
 thuisquarantaine: de krachtens artikel 58nb of 58nh geldende verplichting voor een reiziger om op een bepaalde locatie te verblijven in verband met de bestrijding van de epidemie;
 veilige afstand: de afstand, bedoeld in artikel 58f, tweede lid;

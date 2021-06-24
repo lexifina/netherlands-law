@@ -5,9 +5,9 @@ b. evenementen;
 c. georganiseerde jeugdactiviteiten;
 d. horeca; of
 e. sport.
-2. Regels met betrekking tot het beschikken over vaccinatie tegen covid-19 of herstel van een infectie met het virus SARS-CoV-2 worden slechts gesteld indien:
-a. op basis van een bewijs van vaccinatie tegen covid-19 of een bewijs van herstel van een infectie met het virus SARS-CoV-2 kan worden vastgesteld dat een vergelijkbare kans op overdracht van het virus SARS-CoV-2 bestaat als bij een bewijs van een negatieve testuitslag; en
-b. de mogelijkheid wordt geboden in plaats van een bewijs van vaccinatie tegen covid-19 of een bewijs van herstel van een infectie met het virus SARS-CoV-2 gebruik te maken van een testuitslag.
+2. Regels met betrekking tot het beschikken over vaccinatie tegen het virus SARS-CoV-2 of herstel van een infectie met het virus SARS-CoV-2 worden slechts gesteld indien:
+a. op basis van een bewijs van vaccinatie tegen het virus SARS-CoV-2 of een bewijs van herstel van een infectie met het virus SARS-CoV-2 kan worden vastgesteld dat een vergelijkbare kans op overdracht van het virus SARS-CoV-2 bestaat als bij een bewijs van een negatieve testuitslag; en
+b. de mogelijkheid wordt geboden in plaats van een bewijs van vaccinatie tegen het virus SARS-CoV-2 of een bewijs van herstel van een infectie met het virus SARS-CoV-2 gebruik te maken van een bewijs van een testuitslag.
 3. Slechts voor zover dat bij of krachtens algemene maatregel van bestuur is bepaald, kunnen voorts in een krachtens paragraaf 2 van dit hoofdstuk of artikel 58q vast te stellen ministeriële regeling regels als bedoeld in het eerste lid worden gesteld op het terrein van beroepsonderwijs als bedoeld in artikel 1.1.1, onder h, van de Wet educatie en beroepsonderwijs of artikel 1.1.1 van de Wet educatie en beroepsonderwijs BES, of hoger onderwijs als bedoeld in artikel 1.1, onder b, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 4. Met betrekking tot een besluit tot vaststelling of wijziging van het beleid bij de toepassing van regels als bedoeld in het eerste lid, behoeft, voor zover deze regels betrekking hebben op:
 a. het beroepsonderwijs, bedoeld in artikel 1.1.1, onder h, van de Wet educatie en beroepsonderwijs, het bevoegd gezag voorafgaande instemming van:
