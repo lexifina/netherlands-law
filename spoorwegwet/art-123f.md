@@ -1,2 +1,2 @@
 # Artikel 123f
-Bijlagen IV, V, VII en IX bij richtlijn 2008/57/EG blijven na de inwerkingtreding van de Wet houdende implementatie van het vierde spoorwegpakket van toepassing in de bij ministeriële regeling op grond van de artikelen 26b, 26d, 26e, 26g, 26j en 26o van die wet bepaalde gevallen.
+Een onderhoudscertificaat als bedoeld in artikel 46 respectievelijk een erkenning als bedoeld in artikel 48 van de Spoorwegwet, zoals die artikelen luidden op de dag voorafgaand aan het tijdstip van inwerkingtreding van de Wet houdende implementatie van het vierde spoorwegpakket, berust met ingang van de dag waarop die wet in werking treedt op artikel 36 respectievelijk artikel 37.
