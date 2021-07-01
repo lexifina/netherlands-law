@@ -1,0 +1,3 @@
+# Artikel II
+A. Op de benoeming van de eerste raad van toezicht van de Stichting Etherreclame zijn de artikelen 2.99b en 2.99c Mediawet 2008 zoveel mogelijk van toepassing met dien verstande dat de voordracht van de raad van toezicht vervalt en de Minister van Onderwijs, Cultuur en Wetenschap zorgdraagt voor de procedure.
+B. Een toestemming voor een commerciële omroepdienst die uitsluitend bestaat uit het verzorgen van radioprogramma-aanbod via het open internet, die is afgegeven op grond van artikel 3.1 Mediawet 2008 zoals dat artikel luidde voor het moment van inwerkingtreding van artikel I, onder BB, wordt aangemerkt als een melding van het moment van de aanvang van die dienst als bedoeld in artikel 3.29b, eerste lid, Mediawet 2008.
