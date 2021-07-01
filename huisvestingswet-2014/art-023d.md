@@ -1,0 +1,2 @@
+# Artikel 23d
+Voor zover de gemeenteraad toepassing heeft gegeven aan artikel 23a, eerste lid, of artikel 23b, eerste of tweede lid, informeert degene die een dienst verleent gericht op het publiceren van aanbiedingen voor toeristische verhuur van woonruimte, degene die een woonruimte aanbiedt voor toeristische verhuur over de verboden, bedoeld in artikel 23a, eerste lid en artikel 23b, eerste en tweede lid.
