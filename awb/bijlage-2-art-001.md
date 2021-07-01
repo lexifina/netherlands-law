@@ -1,8 +1,9 @@
 # Artikel 1. Geen beroep
 Tegen een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan geen beroep worden ingesteld.
 Archiefwet 1995:
-a. artikel 38, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep niet wordt ingesteld door gedeputeerde staten
-b. artikel 38, betreffende de toepassing van hoofdstuk XVII van de Gemeentewet, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging en voor zover het betreft de weigering om een voordracht tot vernietiging te doen
+a. artikel 38, indien overeenkomstige toepassing is gegeven aan artikel 124 van de Gemeentewet voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap, en indien overeenkomstige toepassing is gegeven aan artikel 124a van de Gemeentewet voor zover het beroep niet wordt ingesteld door gedeputeerde staten
+b. artikel 38, indien overeenkomstige toepassing is gegeven aan hoofdstuk XVII van de Gemeentewet, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging en voor zover het betreft de weigering om een voordracht tot vernietiging te doen
+Bekendmakingswet: artikel 21, indien overeenkomstige toepassing is gegeven artikel 121 van de Provinciewet, voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
 Burgerlijk Wetboek:
 a. Boek 1:
 1. artikel 7, eerste en tweede lid
@@ -21,7 +22,7 @@ d. artikel 124a, voor zover het beroep niet wordt ingesteld door gedeputeerde st
 e. de artikelen 169, derde lid, 180, derde lid, en 234, tweede lid, onderdeel a
 f. artikel 268, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging
 g. artikel 278, voor zover het betreft de weigering om een voordracht tot vernietiging te doen
-h. de artikelen 278a, vierde lid, en 281, tweede lid, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep niet wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep niet wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
+h. de artikelen 278a, vierde lid, en 281, tweede lid, indien overeenkomstige toepassing is gegeven aan artikel 124 van de Gemeentewet voor zover het beroep niet wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester, en indien overeenkomstige toepassing is gegeven aan artikel 124a van de Gemeentewet voor zover het beroep niet wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
 Geneesmiddelenwet: artikel 17, onderdeel a
 Gerechtsdeurwaarderswet: artikel 3a, tweede lid
 Instellingswet Autoriteit Consument en Markt: artikel 12h, eerste lid, voor zover de aanvraag is afgewezen
@@ -48,7 +49,7 @@ c. artikel 121, voor zover het beroep niet wordt ingesteld door gedeputeerde sta
 d. de artikelen 167, derde lid, en 179, derde lid
 e. artikel 261, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging
 f. artikel 271, voor zover het betreft de weigering om een voordracht tot vernietiging te doen
-g. de artikelen 271a, vierde lid, en 274, tweede lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep niet wordt ingesteld door provinciale staten, gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
+g. de artikelen 271a, vierde lid, en 274, tweede lid, indien overeenkomstige toepassing is gegeven aan artikel 121 van de Provinciewet, voor zover het beroep niet wordt ingesteld door provinciale staten, gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
 Richtlijn 2008/50/EG van het Europees Parlement en de Raad van 21 mei 2008 betreffende de luchtkwaliteit en schonere lucht voor Europa (PbEU 2008, L 152): een kennisgeving als bedoeld in artikel 22, vierde lid
 Rijkswet Onderzoeksraad voor veiligheid, met uitzondering van beslissingen ten aanzien van de algemeen secretaris en de medewerkers van het bureau
 Telecommunicatiewet: de artikelen 3.5, 3.5a, 3.5b, 3.22 en 18.9, eerste en tweede lid
@@ -57,16 +58,16 @@ Tracéwet: de artikelen 2, eerste lid, 4, eerste lid, onderdeel c, en 23, eerste
 Uitleveringswet
 Uitvoeringswet huurprijzen woonruimte: de artikelen 7, tweede, derde, vijfde, achtste en negende lid, en 7a, derde lid
 Waterschapswet: artikel 156, eerste lid, voor zover het betreft de weigering om een vernietiging te bevorderen en het niet tijdig nemen van een besluit tot vernietiging
-Waterwet: artikel 3.13, derde lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
+Waterwet: artikel 3.13, derde lid, indien overeenkomstige toepassing is gegeven aan artikel 121 van de Provinciewet, voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
 Waterwet: de artikelen: 4.1; 4.4; 4.6; 5.1, behoudens voor zover daarbij de ligging van een waterbergingsgebied of beschermingszone als bedoeld in die wet wordt vastgesteld of gewijzigd; 5.5; 6.17, tweede lid, 6.28;
 Wegenverkeerswet 1994: de artikelen 132c, vijfde lid, en 132d, tweede lid
 Wet administratiefrechtelijke handhaving verkeersvoorschriften
 Wet algemene bepalingen omgevingsrecht:
 a. de artikelen 2.27, eerste lid, en 2.34, eerste lid, met uitzondering van beroep dat wordt ingesteld door het gezag dat bevoegd is ten aanzien van de beschikking waarop de verklaring, onderscheidenlijk de aanwijzing betrekking heeft
-b. artikel 5.2a, eerste lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
-c. artikel 5.2a, tweede lid, betreffende de toepassing van artikel 124 van de Gemeentewet, voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap, en betreffende de toepassing van artikel 124a van de Gemeentewet, voor zover het beroep niet wordt ingesteld door gedeputeerde staten
-d. artikel 5.2a, derde lid, betreffende de toepassing van hoofdstuk XVIII van de Provinciewet, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging en voor zover het betreft de weigering om een voordracht tot vernietiging te doen
-e. artikel 5.2a, vierde lid, betreffende de toepassing van hoofdstuk XVII van de Gemeentewet, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging en voor zover het betreft de weigering om een voordracht tot vernietiging te doen
+b. artikel 5.2a, eerste lid, indien overeenkomstige toepassing is gegeven aan artikel 121 van de Provinciewet, voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
+c. artikel 5.2a, tweede lid, indien overeenkomstige toepassing is gegeven aan artikel 124 van de Gemeentewet, voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap, en indien overeenkomstige toepassing is gegeven aan artikel 124a van de Gemeentewet, voor zover het beroep niet wordt ingesteld door gedeputeerde staten
+d. artikel 5.2a, derde lid, indien overeenkomstige toepassing is gegeven aan hoofdstuk XVIII van de Provinciewet, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging en voor zover het betreft de weigering om een voordracht tot vernietiging te doen
+e. artikel 5.2a, vierde lid, indien overeenkomstige toepassing is gegeven aan hoofdstuk XVII van de Gemeentewet, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging en voor zover het betreft de weigering om een voordracht tot vernietiging te doen
 f. artikel 5.8, eerste lid, laatste volzin
 Wet bekostiging financieel toezicht 2019: een besluit omtrent de goedkeuring als bedoeld in de artikelen 6 en 9
 Wet bodembescherming: artikel 43, voor zover het betreft de afwijzing van een verzoek
@@ -76,7 +77,7 @@ a. de artikelen 32b en 45a gelezen in samenhang met artikel 32b, voor zover het 
 b. artikel 32c, voor zover het beroep niet wordt ingesteld door gedeputeerde staten
 c. de artikelen 36, eerste lid, 49 gelezen in samenhang met artikel 36, eerste lid, en 50h, eerste lid, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging
 d. de artikelen 39b en 49 gelezen in samenhang met artikel 39b, voor zover het betreft de weigering om een voordracht tot vernietiging te doen
-e. de artikelen 39c, vierde lid en 39e, tweede lid, betreffende de toepassing van artikel 32b voor zover het beroep niet wordt ingesteld door het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan, en betreffende de toepassing van artikel 32c, voor zover het beroep niet wordt ingesteld door gedeputeerde staten, en artikel 49 gelezen in samenhang met dit onderdeel
+e. de artikelen 39c, vierde lid en 39e, tweede lid, indien overeenkomstige toepassing is gegeven aan artikel 32b voor zover het beroep niet wordt ingesteld door het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan, en indien overeenkomstige toepassing is gegeven aan artikel 32c, voor zover het beroep niet wordt ingesteld door gedeputeerde staten, en artikel 49 gelezen in samenhang met dit onderdeel
 Wet geurhinder en veehouderij: artikel 7
 Wet gewasbeschermingsmiddelen en biociden: artikel 108
 Wet luchtvaart:
@@ -89,7 +90,7 @@ a. de artikelen 4.3, 4.6, 4.9, 4.12, 4.15a, 4.16 en 4.19
 b. een besluit inzake een programma als bedoeld in artikel 5.12, eerste lid, of 5.13, eerste lid, of inzake een instemming als bedoeld in artikel 5.12, dertiende lid
 c. de artikelen 10.3, 11A.2, derde lid, onderdelen b en c, 11.5, 11.18 en 15.51, derde lid
 d. artikel 16.24, eerste lid, met uitzondering van een besluit houdende toewijzing van broeikasgasemissierechten voor een afzonderlijke broeikasgasinstallatie
-e. artikel 17.15, tweede lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
+e. artikel 17.15, tweede lid, indien overeenkomstige toepassing is gegeven aan artikel 121 van de Provinciewet, voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
 Wet Naleving Europese regelgeving publieke entiteiten:
 a. artikel 2, eerste lid, voor zover het betreft de weigering om een aanwijzing te geven
 b. artikel 3, voor zover het betreft de weigering om een aanwijzing te geven

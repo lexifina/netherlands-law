@@ -4,7 +4,6 @@ Een besluit van de Sociaal-Economische Raad of van de Kamer van Koophandel, geno
 a. een besluit op grond van de Wet openbaarheid van bestuur
 b. een besluit ten aanzien van een persoon met betrekking tot diens in artikel 3 van de Ambtenarenwet 2017 bedoelde hoedanigheid
 Algemene douanewet: een beschikking ter zake van landbouwrestituties
-Algemene wet bestuursrecht: artikel 5:32, voor zover het betreft een besluit dat betrekking heeft op de handhaving van het bepaalde bij of krachtens de Winkeltijdenwet
 Bankwet 1998: artikel 12, vierde lid, voor zover het een schorsing of ontheffing van een directeur betreft
 Burgerlijk Wetboek, Boek 2, voor zover het besluit is bekendgemaakt voor 1 juli 2011:
 a. artikel 64, derde lid, tweede volzin, voor zover het betreft een weigering om de in de eerste volzin bedoelde termijn te verlengen
@@ -85,4 +84,3 @@ Wetboek van Koophandel: artikel 311a
 Winkeltijdenwet
 Zaaizaad- en plantgoedwet 2005
 Zorgverzekeringswet: artikel 122a
-Zorgverzekeringswet, voor zover het betreft beschikkingen van de Nederlandse Zorgautoriteit, bedoeld in artikel 66d

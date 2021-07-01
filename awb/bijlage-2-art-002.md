@@ -1,10 +1,10 @@
 # Artikel 2. Beroep bij de Afdeling bestuursrechtspraak van de Raad van State
 Tegen een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.
-Algemene wet bestuursrecht: artikel 5:32, voor zover het besluit betrekking heeft op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, van de Wet milieubeheer bedoelde wetten of wettelijke bepalingen dan wel de Ontgrondingenwet
-Archiefwet 1995: artikel 38, betreffende de toepassing van:
+Archiefwet 1995: artikel 38, indien overeenkomstige toepassing is gegeven aan:
 a. artikel 124 van de Gemeentewet, voor zover het beroep wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap;
 b. artikel 124a van de Gemeentewet, voor zover het beroep wordt ingesteld door gedeputeerde staten, en
 c. hoofdstuk XVII van de Gemeentewet
+Bekendmakingswet: artikel 21, indien overeenkomstige toepassing is gegeven artikel 121 van de Provinciewet, voor zover het beroep wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
 Belemmeringenwet Privaatrecht: de artikelen 2, vijfde lid, en 3, tweede lid, voor zover de verplichting noodzakelijk is voor de uitvoering van werken als bedoeld in artikel 2.3, tweede lid, onderdelen a en b, van de Crisis- en herstelwet of voor de uitvoering van een of meer besluiten als bedoeld in:
 a. artikel 21, tweede lid, van de Tracéwet
 b. de artikelen 3.30, eerste lid, onder a, 3.33, eerste lid, onder a, en 3.35, eerste lid, onder b, van de Wet ruimtelijke ordening
@@ -19,7 +19,7 @@ b. artikel 124, voor zover het beroep wordt ingesteld door de raad, het college 
 c. artikel 124a, voor zover het beroep wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
 d. artikel 125, voor zover het besluit betrekking heeft op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, van de Wet milieubeheer, bedoelde wetten of wettelijke bepalingen dan wel de Ontgrondingenwet
 e. artikel 268, eerste lid
-f. de artikelen 278a, vierde lid, en 281, tweede lid, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
+f. de artikelen 278a, vierde lid, en 281, tweede lid, indien overeenkomstige toepassing is gegeven aan artikel 124 van de Gemeentewet voor zover het beroep wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester, en indien overeenkomstige toepassing is gegeven aan artikel 124a van de Gemeentewet voor zover het beroep wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
 Interimwet stad-en-milieubenadering:
 a. de artikelen 2 en 3
 b. een besluit omtrent goedkeuring van een besluit als bedoeld in artikel 9
@@ -39,7 +39,7 @@ a. artikel 83, tweede lid
 b. artikel 121, voor zover het beroep wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
 c. artikel 122, voor zover het besluit betrekking heeft op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, van de Wet milieubeheer, bedoelde wetten of wettelijke bepalingen dan wel de Ontgrondingenwet
 d. artikel 261, eerste lid
-e. de artikelen 271a, vierde lid, en 274, tweede lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep wordt ingesteld door provinciale staten, gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
+e. de artikelen 271a, vierde lid, en 274, tweede lid, indien overeenkomstige toepassing is gegeven aan artikel 121 van de Provinciewet, voor zover het beroep wordt ingesteld door provinciale staten, gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
 Reconstructiewet concentratiegebieden, voor zover het betreft een besluit tot vaststelling, wijziging of uitwerking van het reconstructieplan, alsmede een besluit dat is genomen met toepassing van de artikelen 40 tot en met 43
 Spoedwet wegverbreding:
 a. een plan als bedoeld in artikel 6, vijfde lid
@@ -62,15 +62,15 @@ d. artikel 21, eerste lid
 e. artikel 61, voor zover het besluit betrekking heeft op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, van de Wet milieubeheer, bedoelde wetten of wettelijke bepalingen dan wel de Ontgrondingenwet
 d. artikel 156, eerste lid
 Waterwet:
-a. artikel 3.13, derde lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
+a. artikel 3.13, derde lid, indien overeenkomstige toepassing is gegeven aan artikel 121 van de Provinciewet, voor zover het beroep wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
 b. de artikelen 5.7, eerste lid, en 5.8, eerste lid
 c. een besluit dat met toepassing van artikel 6.27, tweede lid, gecoördineerd is voorbereid met een besluit krachtens de Kernenergiewet
 Wet aanvullende regels veiligheid wegtunnels: artikel 8, eerste lid, voor zover het een vergunning betreft voor een tunnel die deel uitmaakt van een tracébesluit als bedoeld in artikel 9 van de Tracéwet
 Wet algemene bepalingen omgevingsrecht:
-a. artikel 5.2a, eerste lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
-b. artikel 5.2a, tweede lid, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep wordt ingesteld door gedeputeerde staten
-c. artikel 5.2a, derde lid, betreffende de toepassing van hoofdstuk XVIII van de Provinciewet
-d. artikel 5.2a, vierde lid, betreffende de toepassing van hoofdstuk XVII van de Gemeentewet
+a. artikel 5.2a, eerste lid, indien overeenkomstige toepassing is gegeven aan artikel 121 van de Provinciewet, voor zover het beroep wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
+b. artikel 5.2a, tweede lid, indien overeenkomstige toepassing is gegeven aan artikel 124 van de Gemeentewet voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap, en indien overeenkomstige toepassing is gegeven aan artikel 124a van de Gemeentewet voor zover het beroep wordt ingesteld door gedeputeerde staten
+c. artikel 5.2a, derde lid, indien overeenkomstige toepassing is gegeven aan hoofdstuk XVIII van de Provinciewet
+d. artikel 5.2a, vierde lid, indien overeenkomstige toepassing is gegeven aan hoofdstuk XVII van de Gemeentewet
 Wet ammoniak en veehouderij:
 a. artikel 2, eerste lid
 b. een besluit tot wijziging van een besluit als bedoeld in artikel 2, eerste lid
@@ -87,7 +87,7 @@ a. artikel 25, achtste lid
 b. de artikelen 32b en 45a gelezen in samenhang met artikel 32b, voor zover het beroep wordt ingesteld door het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan
 c. artikel 32c, voor zover het beroep wordt ingesteld door gedeputeerde staten
 d. de artikelen 36, eerste lid, 49 gelezen in samenhang met artikel 36, eerste lid, en 50h, eerste lid
-e. de artikelen 39c, vierde lid en 39e, tweede lid, betreffende de toepassing van artikel 32b voor zover het beroep wordt ingesteld door het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan, en betreffende de toepassing van artikel 32c, voor zover het beroep wordt ingesteld door gedeputeerde staten, en artikel 49 gelezen in samenhang met dit onderdeel
+e. de artikelen 39c, vierde lid en 39e, tweede lid, indien overeenkomstige toepassing is gegeven aan artikel 32b voor zover het beroep wordt ingesteld door het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan, en indien overeenkomstige toepassing is gegeven aan artikel 32c, voor zover het beroep wordt ingesteld door gedeputeerde staten, en artikel 49 gelezen in samenhang met dit onderdeel
 f. de artikelen 99, eerste lid, 100, eerste lid, 103b, en 103c, eerste lid
 Wet gewetensbezwaren militaire dienst:
 a. hoofdstuk II, met uitzondering van artikel 4, tweede lid
@@ -99,6 +99,7 @@ c. de toewijzing van eigendom, beheer en onderhoud van voorzieningen van openbaa
 d. de aanduiding van wegen met de daartoe behorende kunstwerken, bedoeld in artikel 33, eerste lid
 e. de opname van wegen met de daartoe behorende kunstwerken als openbare weg, bedoeld in artikel 33, tweede lid
 Wet inzake de luchtverontreiniging
+Wet kwaliteit, klachten en geschillen zorg: de artikelen 11c, eerste en derde lid, en 11d, eerste lid
 Wet langdurige zorg, voor zover het betreft een besluit van Onze Minister van Volksgezondheid, Welzijn en Sport, met uitzondering van hoofdstuk 10, § 4
 Wet luchtvaart: de artikelen 8.25, tweede lid, 8.25b, 8.25c, 8.43, eerste lid, 8.64, eerste lid, 8.70, eerste en zesde lid, 8.77, eerste lid, 8a.50a, 8a.54, 10.15, eerste lid, en 10.39, ook voor zover het besluit kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in artikel 8:3, eerste lid, van de Algemene wet bestuursrecht, maar met uitzondering van een besluit op grond van de artikelen 8.70, eerste lid, en 10.15, eerste lid, voor zover het betreft de luchthavens Lelystad, Rotterdam en Eindhoven.
 Wet maatschappelijke ondersteuning 2015: artikel 2.6.8
@@ -106,7 +107,7 @@ Wet milieubeheer, met inbegrip van een besluit dat betrekking heeft op handhavin
 a. de artikelen 1.3, eerste lid, 8.40a en 8.42
 b. een besluit dat betrekking heeft op de handhaving van het bepaalde krachtens artikel 8.40
 c. artikel 15.50
-d. artikel 17.15, tweede lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
+d. artikel 17.15, tweede lid, indien overeenkomstige toepassing is gegeven aan artikel 121 van de Provinciewet, voor zover het beroep wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
 Wet Naleving Europese regelgeving publieke entiteiten: de artikelen 2, eerste lid, 3 en 5
 Wet op de expertisecentra:
 a. titel IV: de afdelingen 2 en 8, een goedkeuring van rechtswege daaronder begrepen
