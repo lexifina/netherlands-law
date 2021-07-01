@@ -1,0 +1,2 @@
+# Artikel II
+De vrijstelling die op grond van artikel 2, eerste lid, onder c, van het Besluit vrijstellingen stortverbod buiten inrichtingen is verleend voor het buiten een inrichting op of in de bodem brengen van avi-bodemas, blijft voor avi-bodemas dat als IBC-bouwstof als bedoeld in artikel 1 van het Besluit bodemkwaliteit moet worden aangemerkt, van kracht tot 1 januari 2022, als het avi-bodemas zich op 1 juli 2021 in Nederland bevond en als bouwstof wordt gebruikt in een werk waarvan de aanleg voor die datum was aangevangen.
