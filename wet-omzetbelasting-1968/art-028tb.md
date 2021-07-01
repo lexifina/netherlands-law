@@ -1,0 +1,8 @@
+# Artikel 28tb
+1. De volgende ondernemers die afstandsverkopen van uit derdelandsgebieden of derde-landen ingevoerde goederen verrichten kunnen gebruik maken van de invoerregeling:
+a. elke in de Unie gevestigde ondernemer die afstandsverkopen van uit derdelandsgebieden of derde-landen ingevoerde goederen verricht;
+b. elke al dan niet in de Unie gevestigde ondernemer die afstandsverkopen van uit derdelandsgebieden of derde-landen ingevoerde goederen verricht, en die door een in de Unie gevestigde tussenpersoon is vertegenwoordigd;
+c. elke ondernemer die gevestigd is in een derde-land waarmee de Unie een overeenkomst betreffende wederzijds bijstand heeft gesloten waarvan het toepassingsgebied vergelijkbaar is met Richtlijn 2010/24/EU van de Raad van 16 maart 2010 betreffende de wederzijdse bijstand inzake de invordering van schuldvorderingen die voortvloeien uit belastingen, rechten en andere maatregelen (PbEU 2010, L 84) en Verordening (EU) nr. 904/2010 van de Raad van 7 oktober 2010 betreffende de administratieve samenwerking en de bestrijding van fraude op het gebied van de belasting over de toegevoegde waarde (PbEU 2010, L 268), en die afstandsverkopen van goederen vanuit dat derde-land verricht.
+2. De ondernemers passen de invoerregeling toe op al hun afstandsverkopen van uit derdelandsgebieden of derde-landen ingevoerde goederen.
+3. Voor de toepassing van het eerste lid, onderdeel b, kan een ondernemer slechts één tussenpersoon tegelijk aanwijzen.
+4. Bij algemene maatregel van bestuur kunnen, ter verzekering van de heffing en de invordering, regels worden gesteld met betrekking tot de tussenpersoon.

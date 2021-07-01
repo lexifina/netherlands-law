@@ -1,0 +1,3 @@
+# Artikel 3c
+1. Indien een ondernemer via het gebruik van een elektronische interface, zoals een marktplaats, platform, portaal of soortgelijk middel, afstandsverkopen van uit een derdelandsgebied of een derde-land ingevoerde goederen in zendingen met een intrinsieke waarde van niet meer dan € 150, faciliteert, wordt die ondernemer geacht die goederen zelf te hebben ontvangen en geleverd.
+2. Indien een ondernemer via het gebruik van een elektronische interface, zoals een marktplaats, platform, portaal of soortgelijk middel, de levering van goederen binnen de Unie door een niet in de Unie gevestigde ondernemer aan een andere dan ondernemer, faciliteert, wordt de ondernemer die de levering faciliteert geacht die goederen zelf te hebben ontvangen en geleverd.

@@ -1,0 +1,3 @@
+# Artikel 28th
+1. De ondernemer die van de invoerregeling gebruik maakt, of zijn tussenpersoon dient langs elektronische weg bij de lidstaat van identificatie een btw-melding in voor elke kalendermaand, ongeacht of al dan niet afstandsverkopen van uit derdelandsgebieden of derde-landen ingevoerde goederen zijn verricht. De btw-melding wordt uiterlijk ingediend voor het einde van de kalendermaand volgend op het verstrijken van het belastingtijdvak waarop de melding betrekking heeft.
+2. Wanneer de ondernemer voor Nederland als lidstaat van identificatie heeft gekozen dient hij of zijn tussenpersoon de in het eerste lid bedoelde btw-melding in bij de inspecteur.

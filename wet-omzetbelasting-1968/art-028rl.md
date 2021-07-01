@@ -1,0 +1,3 @@
+# Artikel 28rl
+1. De niet in de Unie gevestigde ondernemer voert van alle handelingen waarop de niet-Unieregeling van toepassing is, een boekhouding. Deze boekhouding moet voldoende gegevens bevatten om de belastingautoriteiten van de lidstaat van verbruik in staat te stellen de juistheid van de btw-melding te bepalen.
+2. Desgevraagd moet de in het eerste lid bedoelde boekhouding langs elektronische weg aan de lidstaat van identificatie en aan de lidstaat van verbruik beschikbaar worden gesteld. De boekhouding wordt bewaard gedurende tien jaar na afloop van het jaar waarin de handeling is verricht.

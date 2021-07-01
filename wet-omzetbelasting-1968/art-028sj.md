@@ -1,0 +1,3 @@
+# Artikel 28sj
+1. De ondernemer die van de Unieregeling gebruikmaakt, voert van alle onder de Unieregeling vallende handelingen een boekhouding. Deze boekhouding moet voldoende gegevens bevatten om de belastingautoriteiten van de lidstaat van verbruik in staat te stellen de juistheid van de btw-melding te bepalen.
+2. Desgevraagd moet de in het eerste lid bedoelde boekhouding langs elektronische weg aan de lidstaat van verbruik en aan de lidstaat van identificatie beschikbaar worden gesteld. De boekhouding wordt bewaard gedurende tien jaar na afloop van het jaar waarin de handeling is verricht.

@@ -1,0 +1,3 @@
+# Artikel 28ri
+1. De niet in de Unie gevestigde ondernemer voldoet de btw onder verwijzing naar de betreffende btw-melding, zulks op het moment dat de btw-melding wordt ingediend, doch uiterlijk bij het verstrijken van de termijn waarbinnen de btw-melding moet worden ingediend. De belasting wordt overgemaakt naar een door de lidstaat van identificatie opgegeven bankrekening in euro, dan wel naar een bankrekening in hun eigen valuta van lidstaten die de euro niet als munteenheid hebben aangenomen, indien die lidstaten dat eisen.
+2. De ondernemer die voor Nederland heeft gekozen als lidstaat van identificatie voldoet de btw bij de ontvanger.

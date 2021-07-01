@@ -1,0 +1,3 @@
+# Artikel 28tn
+1. De ondernemer die van de invoerregeling gebruikmaakt, voert van alle onder de invoerregeling vallende handelingen een boekhouding. Een tussenpersoon voert voor alle door hem vertegenwoordigde ondernemers een boekhouding. Deze boekhouding moet voldoende gegevens bevatten om de belastingautoriteiten van de lidstaat van verbruik in staat te stellen de juistheid van de aangifte te bepalen.
+2. Desgevraagd moet de boekhouding, bedoeld in het eerste lid, langs elektronische weg aan de lidstaat van verbruik en aan de lidstaat van identificatie beschikbaar worden gesteld. De boekhouding wordt bewaard gedurende tien jaren na afloop van het jaar waarin de handeling is verricht.

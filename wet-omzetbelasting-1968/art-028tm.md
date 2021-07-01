@@ -1,0 +1,2 @@
+# Artikel 28tm
+Indien de belasting die verschuldigd is over in Nederland geleverde goederen als bedoeld in deze paragraaf, ongeacht de keuze van de lidstaat van identificatie, geheel of gedeeltelijk niet is betaald, kan de inspecteur met toepassing van artikel 20 van de Algemene wet inzake rijksbelastingen de te weinig geheven belasting naheffen. De artikelen 30h, 30ha, 67c en 67f van die wet zijn van overeenkomstige toepassing.

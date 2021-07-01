@@ -7,6 +7,7 @@
 #### Paragraaf 1. Algemene bepalingen
 #### Paragraaf 2. Bijzondere bepalingen
 #### Paragraaf 3. Voorkoming van niet-heffing
+#### Paragraaf 4. Drempel voor ondernemers die onder artikel 5a, eerste lid, onderdeel a, vallende goederen leveren en onder artikel 6h vallende diensten verrichten
 ### Afdeling 1c. Ondernemer
 ### Afdeling 2. Maatstaf en tarief van heffing
 ### Afdeling 3. Vrijstellingen
@@ -28,8 +29,12 @@
 ### Afdeling 4. Accijnsgoederen, andere dan tabaksproducten
 ### Afdeling 5. Regeling voor gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten
 ### Afdeling 6. Regeling voor beleggingsgoud
-### Afdeling 7. Regeling voor niet in de Unie gevestigde ondernemers die telecommunicatie diensten, omroepdiensten of elektronische diensten verrichten voor andere dan ondernemers
-### Afdeling 8. Regeling voor niet in de lidstaat van verbruik gevestigde ondernemers die telecommunicatie diensten, omroepdiensten of elektronische diensten verrichten voor andere dan ondernemers
+### Afdeling 7. Bijzondere regelingen voor ondernemers die diensten verrichten voor andere dan ondernemers, of goederen op afstand verkopen, of bepaalde goederen binnenlands leveren
+#### Paragraaf 1. Algemene bepaling
+#### Paragraaf 2. Bijzondere regeling voor diensten verricht door niet in de Unie gevestigde ondernemers (niet-Unieregeling)
+#### Paragraaf 3. Bijzondere regeling voor intracommunautaire afstandsverkopen van goederen, voor leveringen van goederen binnen een lidstaat door elektronische interfaces die die leveringen faciliteren, en voor diensten verricht door in de Unie doch niet in de lidstaat van verbruik gevestigde ondernemers (Unieregeling)
+#### Paragraaf 4. Bijzondere regeling voor afstandsverkopen van uit derdelandsgebieden of derde-landen ingevoerde goederen (invoerregeling)
+### Afdeling 8. Bijzondere regeling voor de aangifte en de betaling van belasting bij invoer (regeling post- en koeriersdiensten)
 ### Afdeling 9. Regeling voor vis
 ### Afdeling 10. Regeling voor reisbureaus
 ### Afdeling 11. Regeling voor vouchers

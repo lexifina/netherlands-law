@@ -1,0 +1,3 @@
+# Artikel 28tk
+1. De ondernemer die van de invoerregeling gebruikmaakt, of zijn tussenpersoon, voldoet de btw onder verwijzing naar de betreffende btw-melding, uiterlijk bij het verstrijken van het moment waarop de btw-melding moet worden ingediend. De belasting wordt overgemaakt naar een door de lidstaat van identificatie opgegeven bankrekening in euro, dan wel naar een bankrekening in hun eigen valuta van lidstaten die de euro niet als munteenheid hebben aangenomen, indien die lidstaten dat eisen.
+2. De ondernemer die voor Nederland heeft gekozen als lidstaat van identificatie voldoet de btw bij de ontvanger.
