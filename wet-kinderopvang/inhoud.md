@@ -10,6 +10,7 @@
 #### Paragraaf 1. Aanvraag en registratie
 #### Paragraaf 2. Eisen
 #### Paragraaf 3. Oudercommissie
+#### Paragraaf 4. Ouderparticipatiecrèches
 ### Afdeling 4. Handhaving
 #### Paragraaf 1. Toezicht op de naleving
 #### Paragraaf 2. Gemeentelijk ingrijpen
