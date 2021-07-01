@@ -26,7 +26,6 @@
 #### § 2. Verhouding tot het Rijk
 #### § 3. Bijzondere voorzieningen
 #### § 4. Bestuursdwang
-#### § 5. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
 #### § 6. Termijnen
 ### Hoofdstuk IX. De bevoegdheid van provinciale staten
 ### Hoofdstuk X. De bevoegdheid van gedeputeerde staten
