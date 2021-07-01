@@ -1,2 +1,3 @@
 # Artikel 18b
-De directeur draagt zorg dat de tenuitvoerlegging overeenkomstig het verblijfsplan plaatsvindt.
+1. Wanneer het risico aanwezig wordt geacht dat een gedetineerde een ernstig gewelds- of zedenmisdrijf zal begaan, verstrekken de directeur van de inrichting, Onze Minister, Onze Minister van Justitie en Veiligheid, de burgemeester, de reclassering, het openbaar ministerie en de politie elkaar de daarop betrekking hebbende gegevens. De gegevens worden verstrekt indien dit ter bescherming van de veiligheid van anderen noodzakelijk is en dit hoort bij de uitoefening van ieders taak.
+2. Onze Minister, Onze Minister van Justitie en Veiligheid, de burgemeester, de reclassering, het openbaar ministerie en de politie stellen de directeur van de inrichting op de hoogte indien zij op grond van het eerste lid gegevens over een gedetineerde uitwisselen ten behoeve van de vastlegging hiervan in het penitentiair dossier van de gedetineerde.

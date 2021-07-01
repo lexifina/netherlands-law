@@ -1,5 +1,5 @@
 # Artikel 34a
-1. De directeur kan bepalen dat de gedetineerde die in een individueel regime als bedoeld in artikel 22 of in een extra beveiligde inrichting als bedoeld in artikel 13, eerste lid, onder e, is geplaatst, dag en nacht door middel van een camera wordt geobserveerd:
+1. De directeur kan bepalen dat de gedetineerde die in een individueel regime als bedoeld in artikel 21 of in een extra beveiligde inrichting als bedoeld in artikel 13, eerste lid, onder d, is geplaatst, dag en nacht door middel van een camera wordt geobserveerd:
 a. indien dit noodzakelijk is in het belang van de handhaving van de orde of de veiligheid in de inrichting;
 b. indien dit noodzakelijk is voor een ongestoorde tenuitvoerlegging van de vrijheidsbeneming;
 c. indien dit ter bescherming van de geestelijke of lichamelijke toestand van de gedetineerde noodzakelijk is;
