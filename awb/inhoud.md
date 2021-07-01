@@ -69,6 +69,7 @@
 #### Afdeling 8.1.1. Bevoegdheid
 #### Afdeling 8.1.2. Behandeling door een enkelvoudige, meervoudige of grote kamer
 #### Afdeling 8.1.2a. Conclusie
+#### Afdeling 8.1.2b. Opmerkingen door anderen dan partijen
 #### Afdeling 8.1.3. Verwijzing, voeging en splitsing
 #### Afdeling 8.1.4. Wraking en verschoning van rechters
 #### Afdeling 8.1.5. Partijen
