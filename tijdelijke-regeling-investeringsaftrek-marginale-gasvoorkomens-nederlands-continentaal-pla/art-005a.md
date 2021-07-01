@@ -1,0 +1,2 @@
+# Artikel 5a
+Deze regeling is van toepassing op een aanvraag tot aanwijzing van een voorkomen van gas als bedoeld in artikel 68a, eerste lid, tweede volzin, van de Mijnbouwwet, zoals deze bepaling luidde voor de inwerkingtreding van artikel I, onderdeel J, van de wet van 27 januari 2021 tot wijziging van de Mijnbouwwet (het verwijderen of hergebruiken van mijnbouwwerken en investeringsaftrek) (Stb. 2021, 92), voor zover deze aanvraag is ingediend in de jaren 2010 tot en met 2019.
