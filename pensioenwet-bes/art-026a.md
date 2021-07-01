@@ -1,0 +1,2 @@
+# Artikel 26a
+Onze Minister kan na overleg met de Bank vrijstelling verlenen van de in artikel 16a en 16b genoemde termijnen van 15 jaar respectievelijk drie en een jaar, indien er sprake is van een uitzonderlijke economische situatie waardoor de meeste pensioenfondsen niet kunnen voldoen aan de bij of krachtens deze wet gestelde vereisten inzake het vereiste eigen vermogen, de toereikende technische voorzieningen en de dekking daarvan door waarden.

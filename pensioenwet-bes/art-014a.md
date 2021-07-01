@@ -1,0 +1,3 @@
+# Artikel 14a
+1. Een pensioenfonds gaat geen leningen aan, tenzij de lening tijdelijk wordt aangegaan voor liquiditeitsdoelstellingen en treedt niet namens derde partijen op als garant.
+2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van het eerste lid met betrekking tot de tijdelijkheid van de lening en de liquiditeitsdoelstellingen.

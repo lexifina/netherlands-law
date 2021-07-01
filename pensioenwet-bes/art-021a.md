@@ -1,0 +1,3 @@
+# Artikel 21a
+1. De Bank kan een pensioenuitvoerder die niet voldoet aan hetgeen bij of krachtens deze wet is bepaald, door middel van het geven van een aanwijzing verplichten om binnen een door de Bank gestelde redelijke termijn ten aanzien van in de aanwijzingsbeschikking aangegeven punten een bepaalde gedragslijn te volgen.
+2. De Bank kan een aanwijzing als bedoeld in het eerste lid eveneens aan een pensioenfonds geven indien zij tekenen ontwaart van een ontwikkeling die het eigen vermogen, de solvabiliteit, de liquiditeit of de bedrijfsvoering van het pensioenfonds in gevaar kunnen brengen.

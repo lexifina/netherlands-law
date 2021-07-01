@@ -1,0 +1,7 @@
+# Artikel 13e
+1. Een pensioenfonds kan verworven pensioenaanspraken en pensioenrechten uitsluitend verminderen indien:
+a. de technische voorzieningen niet meer volledig door waarden zijn gedekt;
+b. het pensioenfonds niet in staat is binnen een redelijke termijn de technische voorzieningen door waarden te dekken zonder dat de belangen van deelnemers, gewezen deelnemers, pensioengerechtigden, andere aanspraakgerechtigden of de werkgever onevenredig worden geschaad; en
+c. alle overige beschikbare sturingsmiddelen, met uitzondering van het beleggingsbeleid, zijn ingezet zoals uitgewerkt in het kortetermijnherstelplan, bedoeld in artikel 16b.
+2. Een pensioenfonds informeert de deelnemers, gewezen deelnemers, pensioengerechtigden en de werkgever schriftelijk over het besluit tot vermindering van pensioenaanspraken en pensioenrechten.
+3. De vermindering, bedoeld in het eerste lid, kan op zijn vroegst een maand nadat de deelnemers, gewezen deelnemers, pensioengerechtigden, werkgever en Bank hierover geïnformeerd zijn, worden gerealiseerd.
