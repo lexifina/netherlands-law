@@ -1,0 +1,10 @@
+# Artikel 4a
+1. Het algemeen bestuur vergadert ten minste twee maal per jaar en voorts zo dikwijls als de voorzitter of het dagelijks bestuur dit nodig oordeelt, dan wel ten minste een vijfde van het aantal leden dit, onder opgaaf van redenen, schriftelijk verzoekt.
+2. De vergaderingen van het algemeen bestuur zijn openbaar. Indien de voorzitter dan wel een vijfde gedeelte van de aanwezige leden het nodig oordeelt, dient het algemeen bestuur te besluiten of zal worden vergaderd met gesloten deuren.
+3. Het algemeen bestuur stelt een reglement van orde voor zijn vergaderingen en andere werkzaamheden vast.
+4. De voorzitter roept de leden schriftelijk tot de vergadering op.
+5. Tegelijkertijd met de oproeping brengt de voorzitter dag, tijdstip en plaats van de vergadering ter openbare kennis. De agenda en de daarbij behorende voorstellen met uitzondering van de in artikel 23, tweede lid, van de Wet gemeenschappelijke regelingen bedoelde stukken worden tegelijkertijd met de oproeping en op een bij de openbare kennisgeving aan te geven wijze ter inzage gelegd.
+6. De vergadering wordt niet geopend voordat blijkens de presentielijst meer dan de helft van het aantal zitting hebbende leden tegenwoordig is en tevens elke deelnemer tegenwoordig is.
+7. Indien ingevolge het zesde lid de vergadering niet kan worden geopend, belegt de voorzitter, onder verwijzing naar dit artikel, opnieuw een vergadering tegen een tijdstip dat ten minste vierentwintig uur na het bezorgen van de oproeping is gelegen.
+8. Op de vergadering, bedoeld in het zevende lid, is het zesde lid niet van toepassing. Het algemeen bestuur kan echter over andere aangelegenheden dan die waarvoor de ingevolge het zesde lid niet geopende vergadering was belegd alleen beraadslagen of besluiten, indien blijkens de presentielijst meer dan de helft van het aantal zitting hebbende leden tegenwoordig is en tevens elke deelnemer tegenwoordig is.
+9. Andere personen kunnen worden uitgenodigd om als adviseur een bepaalde vergadering van het algemeen bestuur bij te wonen.
