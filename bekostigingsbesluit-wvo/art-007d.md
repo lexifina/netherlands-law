@@ -1,0 +1,3 @@
+# Artikel 7d. Leerlingentelling nieuwkomers
+1. In afwijking van artikel 7, eerste lid, worden nieuwkomers niet meegeteld voor het vaststellen van de bekostiging, bedoeld in artikel 96d, eerste en tweede lid, en voor de toepassing van de artikelen 85a en 89 van de wet en de daarop berustende bepalingen met uitzondering van de bepalingen die betrekking hebben op de bekostiging van nieuwkomers.
+2. Voor de toepassing van artikel 8, zesde lid, worden de nieuwkomers meegeteld die op 1 januari, 1 april, 1 juli of 1 oktober als werkelijk schoolgaand staan ingeschreven. Artikel 7, tweede tot en met vijfde lid, is van overeenkomstige toepassing.
