@@ -3,7 +3,7 @@
 2. De commissarissen worden, behoudens het bepaalde in lid 8, op voordracht van de raad van commissarissen benoemd door de algemene vergadering, voorzover de benoeming niet reeds is geschied bij de akte van oprichting of voordat dit artikel op de rechtspersoon van toepassing is geworden.
 3. De raad van commissarissen bestaat uit ten minste drie leden. Is het aantal commissarissen minder dan drie, dan bevordert de raad onverwijld maatregelen tot aanvulling van zijn ledental.
 4. De algemene vergadering, de ondernemingsraad en het bestuur kunnen aan de raad van commissarissen personen aanbevelen om als commissaris voor te dragen. De raad van commissarissen deelt hun daartoe tijdig mede, wanneer en ten gevolge waarvan in zijn midden een plaats moet worden vervuld.
-5. De raad van commissarissen geeft aan de algemene vergadering en de ondernemingsraad kennis van de naam van degene die hij voordraagt, met inachtneming van artikel 57a lid 2.
+5. De raad van commissarissen geeft aan de algemene vergadering en de ondernemingsraad kennis van de naam van degene die hij voordraagt, met inachtneming van artikel 47a lid 2.
 6. De algemene vergadering benoemt de voorgedragen persoon, tenzij de ondernemingsraad binnen twee maanden na de kennisgeving of de algemene vergadering zelf uiterlijk in de eerste vergadering na die twee maanden tegen de voordracht bezwaar maakt:
 a. op grond dat de voorschriften van lid 4, tweede volzin, of lid 5 niet behoorlijk zijn nageleefd;
 b. op grond van de verwachting dat de voorgedragen persoon ongeschikt zal zijn voor de vervulling van de taak van de commissaris; of
