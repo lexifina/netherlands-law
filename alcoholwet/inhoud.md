@@ -6,7 +6,6 @@
 ## § 4. Vergunningen
 ## § 5. Ontheffing
 ## § 6. Overige bepalingen
-## § 7. Toezicht
-## § 8. Bestuurlijke boete
-## § 8a. Bepaling van strafrechtelijke aard
+## § 7. Toezicht en handhaving
+## § 8. Bepalingen van strafrechtelijke aard
 ## § 9. Overgangs- en slotbepalingen

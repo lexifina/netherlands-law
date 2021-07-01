@@ -1,0 +1,2 @@
+# Artikel 25e
+Bij gemeentelijke verordening kan met inachtneming van artikel 3, eerste lid, van de Winkeltijdenwet vrijstelling worden verleend van het in artikel 3, eerste lid, ten aanzien van het horecabedrijf vervatte verbod en het in artikel 14, eerste lid, vervatte verbod ten behoeve van proeverijen in slijtlokaliteiten buiten de dagen en tijden dat de slijtlokaliteiten regulier zijn opengesteld. Bij algemene maatregel van bestuur worden regels gesteld waaraan een proeverij moet voldoen.
