@@ -10,7 +10,6 @@
 ### Afdeling 3. Bevoegdheden
 #### § 1. De bevoegdheid van het bestuur van het openbaar lichaam en de bedrijfsvoeringsorganisatie en van het gemeenschappelijk orgaan
 #### § 2. Bijzondere voorzieningen
-#### § 3. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
 #### § 4. De bevoegdheid van het algemeen bestuur
 #### § 5. De bevoegdheid van het dagelijks bestuur
 #### § 6. De bevoegdheid van de voorzitter
@@ -22,7 +21,6 @@
 ### Afdeling 3. Bevoegdheden
 #### § 1. De bevoegdheid van het bestuur van het openbaar lichaam en de bedrijfsvoeringsorganisatie en van het gemeenschappelijk orgaan
 #### § 2. Bijzondere voorzieningen
-#### § 3. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
 #### § 4. De bevoegdheid van het algemeen bestuur
 #### § 5. De bevoegdheid van het dagelijks bestuur
 #### § 6. De bevoegdheid van de voorzitter
@@ -34,7 +32,6 @@
 ### Afdeling 3. Bevoegdheden
 #### § 1. De bevoegdheid van het bestuur van het openbaar lichaam en de bedrijfsvoeringsorganisatie en van het gemeenschappelijk orgaan
 #### § 2. Bijzondere voorzieningen
-#### § 3. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
 #### § 4. De bevoegdheid van het algemeen bestuur
 #### § 5. De bevoegdheid van het dagelijks bestuur
 #### § 6. De bevoegdheid van de voorzitter
@@ -46,7 +43,6 @@
 ### Afdeling 3. Bevoegdheden
 #### § 1. De bevoegdheid van het bestuur van het openbaar lichaam en de bedrijfsvoeringsorganisatie en van het gemeenschappelijk orgaan
 #### § 2. Bijzondere voorzieningen
-#### § 3. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
 #### § 4. De bevoegdheid van het algemeen bestuur
 #### § 5. De bevoegdheid van het dagelijks bestuur
 #### § 6. De bevoegdheid van de voorzitter
@@ -58,7 +54,6 @@
 ### Afdeling 3. Bevoegdheden
 #### § 1. De bevoegdheid van het bestuur van het openbaar lichaam en de bedrijfsvoeringsorganisatie en van het gemeenschappelijk orgaan
 #### § 2. Bijzondere voorzieningen
-#### § 3. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
 #### § 4. De bevoegdheid van het algemeen bestuur
 #### § 5. De bevoegdheid van het dagelijks bestuur
 #### § 6. De bevoegdheid van de voorzitter
@@ -70,7 +65,6 @@
 ### Afdeling 3. Bevoegdheden
 #### § 1. De bevoegdheid van het bestuur van het openbaar lichaam en de bedrijfsvoeringsorganisatie en van het gemeenschappelijk orgaan
 #### § 2. Bijzondere voorzieningen
-#### § 3. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
 #### § 4. De bevoegdheid van het algemeen bestuur
 #### § 5. De bevoegdheid van het dagelijks bestuur
 #### § 6. De bevoegdheid van de voorzitter
@@ -82,7 +76,6 @@
 ### Afdeling 3. Bevoegdheden
 #### § 1. De bevoegdheid van het bestuur van het openbaar lichaam en de bedrijfsvoeringsorganisatie en van het gemeenschappelijk orgaan
 #### § 2. Bijzondere voorzieningen
-#### § 3. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
 #### § 4. De bevoegdheid van het algemeen bestuur
 #### § 5. De bevoegdheid van het dagelijks bestuur
 #### § 6. De bevoegdheid van de voorzitter

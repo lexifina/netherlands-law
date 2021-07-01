@@ -1,4 +1,0 @@
-# Artikel 56b
-1. Besluiten van het bestuur van het openbaar lichaam die algemeen verbindende voorschriften inhouden, verbinden niet dan wanneer zij door het dagelijks bestuur van het openbaar lichaam zijn bekendgemaakt in het provinciale blad van de deelnemende provincie of provincies en het gemeenteblad van de deelnemende gemeente of gemeenten.
-2. Indien het openbaar lichaam een publicatieblad als bedoeld in artikel 56aa heeft ingesteld, verbinden besluiten van het openbaar lichaam die algemeen verbindende voorschriften inhouden, in afwijking van het eerste lid niet dan wanneer zij zijn bekendgemaakt in dat publicatieblad.
-3. De artikelen 136, tweede tot en met vijfde lid, en 138 tot en met 140 van de Provinciewet en de artikelen 139, tweede tot en met vijfde lid, en 141 tot en met 144 van de Gemeentewet zijn van overeenkomstige toepassing.
