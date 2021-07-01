@@ -5,5 +5,5 @@
 4. De artikelen 22, 80, derde lid, en 91, eerste lid, zijn van overeenkomstige toepassing op een onderzoekscommissie.
 5. De onderzoekscommissie kan de bij deze wet verleende bevoegdheden uitsluitend uitoefenen, indien ten minste drie van haar leden aanwezig zijn.
 6. De bevoegdheden en werkzaamheden van een onderzoekscommissie worden niet geschorst door het aftreden van provinciale staten.
-7. Op het besluit tot instelling van een onderzoek en tot instelling van een onderzoekscommissie, alsmede het besluit tot wijziging van de omschrijving van het onderwerp van onderzoek zijn de artikelen 136, tweede lid, 137 en 138 van overeenkomstige toepassing.
+7. Op het besluit tot instelling van een onderzoek en tot instelling van een onderzoekscommissie, alsmede het besluit tot wijziging van de omschrijving van het onderwerp van onderzoek is artikel 19 van de Bekendmakingswet van overeenkomstige toepassing.
 8. Alvorens provinciale staten besluiten tot een onderzoek, stellen zij bij verordening nadere regels met betrekking tot deze onderzoeken. In elk geval worden daarin regels opgenomen over de wijze waarop ambtelijke bijstand wordt verleend aan de commissie.
