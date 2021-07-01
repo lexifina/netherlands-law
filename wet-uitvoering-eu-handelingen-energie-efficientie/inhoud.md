@@ -9,6 +9,7 @@
 ## Hoofdstuk 2. Energiebesparing energiegerelateerde producten
 ### § 1. Energiegerelateerde producten
 ### § 2. Overige bepalingen
+## Hoofdstuk 2a. Energiebesparing door grote ondernemingen
 ## Hoofdstuk 3. Handhaving energiebesparing
 ## Hoofdstuk 4. Handhaving energiebesparing energiegerelateerde producten
 ## Hoofdstuk 5. Overige bepalingen
