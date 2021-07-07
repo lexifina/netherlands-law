@@ -1,0 +1,9 @@
+# Artikel 37a. Bijzondere bekostiging voor de beloning van leraren die lesgeven aan leerlingen met het uitstroomprofiel vervolgonderwijs op een school waar voortgezet speciaal onderwijs wordt verzorgd
+1. Het bevoegd gezag van een school waar voortgezet speciaal onderwijs wordt verzorgd waar op 1 oktober 2019 ten minste 7 leerlingen met het uitstroomprofiel vervolgonderwijs waren ingeschreven en de gegevens van deze leerlingen uiterlijk op 1 december 2019 waren opgenomen in BRON, ontvangt op aanvraag bijzondere bekostiging voor personeel.
+2. Voor het indienen van een aanvraag wordt gebruikgemaakt van het daarvoor beschikbaar gestelde formulier op www.duo.nl en gaat vergezeld van de volgende gegevens: naam, BRIN-nummer, postcode en plaats van de school.
+3. De aanvraag dient uiterlijk op 1 oktober 2020 ontvangen te zijn. Aanvragen die na die datum worden ontvangen, worden afgewezen.
+4. De bekostiging bedraagt per in de aanvraag opgenomen ingeschreven leerling met het uitstroomprofiel vervolgonderwijs die voldoet aan de voorwaarden gesteld in het eerste lid maximaal € 900,00.
+5. Voor de bijzondere bekostiging op grond van dit artikel is voor schooljaar 2020–2021 een bedrag van maximaal € 16,5 miljoen beschikbaar.
+6. Indien het bekostigingsplafond, bedoeld in het vijfde lid, door toekenning van alle aanvragen dreigt te worden overschreden, wordt het bedrag per leerling, bedoeld in het vierde lid, verlaagd naar rato van het aantal leerlingen met het uitstroomprofiel vervolgonderwijs waarvoor de bekostiging wordt toegekend.
+7. In de verantwoording over kalenderjaar 2021 wordt aangegeven waar de bijzondere bekostiging voor de beloning van leraren die lesgeven aan leerlingen met het uitstroomprofiel vervolgonderwijs op een school waar voortgezet speciaal onderwijs wordt verzorgd aan besteed is, waarbij in ieder geval het aantal leraren dat een beloning heeft ontvangen wordt vermeld.
+8. De Minister beslist uiterlijk in december 2020 op de aanvraag.
