@@ -4,7 +4,7 @@ a. een rechterlijk ambtenaar als bedoeld in artikel 1, onderdeel b, van de Wet o
 b. een lid van de Centrale Raad van Beroep of het College van Beroep voor het bedrijfsleven met rechtspraak belast als zodanig
 c. een senior-gerechtsauditeur of gerechtsauditeur van de Centrale Raad van Beroep of het College van Beroep voor het bedrijfsleven als zodanig
 d. een gewezen ambtenaar als bedoeld in onderdeel a, b of c als zodanig
-Algemene pensioenwet politieke ambtsdragers
+Algemene pensioen- en uitkeringswet politieke ambtsdragers
 Garantiewet Burgerlijk Overheidspersoneel Indonesië, voor zover het betreft een besluit op grond van de Algemene oorlogsongevallenregeling
 Liquidatiewet ongevallenwetten: artikel 24, eerste lid
 Tijdelijke vergoedingsregeling psychotherapie na-oorlogse generatie
