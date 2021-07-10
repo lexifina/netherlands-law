@@ -17,7 +17,7 @@
 ### Titel 5.1. Luchtverkeer
 ### Titel 5.2. Bepalingen met betrekking tot het verlenen van luchtvaartnavigatiediensten
 #### § 5.2.1. Het verlenen van luchtvaartnavigatiediensten
-#### § 5.2.2. Vergoedingen
+#### § 5.2.2. Prestatie- en heffingsregeling
 ### Titel 5.3. De luchtverkeersbeveiligings-organisatie
 #### § 5.3.1. De LVNL
 #### § 5.3.2. Taken van de LVNL
