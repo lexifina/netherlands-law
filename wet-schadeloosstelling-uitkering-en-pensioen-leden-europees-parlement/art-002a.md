@@ -1,0 +1,4 @@
+# Artikel 2a
+1. Indien voor de ambtenaren die op grond van een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst een eenmalige uitkering is overeengekomen en daarbij is bepaald dat deze uitkering een algemeen karakter draagt, ontvangen de leden van het Europese Parlement een uitkering op gelijke voet.
+2. De leden ontvangen een eindejaarsuitkering van 8,3 procent, berekend over de schadeloosstelling, bedoeld in artikel 2, verminderd met het in artikel 2 van de Wet schadeloosstelling leden Tweede Kamer genoemde percentage.
+3. Indien de hoogte van een uitkering afhankelijk is van de hoogte van de schadeloosstelling, blijft bij de berekening van de hoogte van die uitkering de inhouding, bedoeld in artikel 2, tweede lid, buiten beschouwing.
