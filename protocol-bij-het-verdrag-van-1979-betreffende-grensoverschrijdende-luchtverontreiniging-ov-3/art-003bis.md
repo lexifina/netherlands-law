@@ -1,0 +1,8 @@
+# Article 3 bis. Flexible Transitional Arrangements
+1. Notwithstanding article 3, paragraphs 2, 3, 5 and 6, a Party to the Convention that becomes a Party to the present Protocol between January 1, 2013, and December 31, 2019, may apply flexible transitional arrangements for the implementation of limit values specified in annexes VI and/or VIII under the conditions specified in this article.
+2. Any Party electing to apply the flexible transitional arrangements under this article shall indicate in its instrument of ratification, acceptance or approval of or accession to the present Protocol the following:
+a) the specific provisions of annex VI and/or VIII for which the Party is electing to apply flexible transitional arrangements; and
+b) an implementation plan identifying a timetable for full implementation of the specified provisions.
+3. An implementation plan under paragraph 2 (b) shall, at a minimum, provide for implementation of the limit values for new and existing stationary sources specified in Tables 1 and 5 of annex VI and Tables 1, 2, 3, 13 and 14 of annex VIII no later than eight years after entry into force of the present Protocol for the Party, or December 31, 2022, whichever is sooner.
+4. In no case may a Party's implementation of any limit values for new and existing stationary sources specified in annex VI or annex VIII be postponed past December 31, 2030.
+5. A Party electing to apply the flexible transitional arrangements under this article shall provide the Executive Secretary of the Commission with a triennial report of its progress towards implementation of annex VI and/or annex VIII. The Executive Secretary of the Commission will make such triennial reports available to the Executive Body.
