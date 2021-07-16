@@ -1,0 +1,2 @@
+# Artikel 17a. Overgangsbepaling aanpassing verantwoordingsregime
+De minister neemt voor de subsidies die zijn verleend op grond van artikel 14, zoals dat luidde op het moment van subsidieverlening, uiterlijk op 1 april 2021 een beschikking tot directe subsidievaststelling onder toepassing van artikel 13. Deze beschikking tot vaststelling treedt daarbij in de plaats van de eerdere beschikking tot subsidieverlening.
