@@ -1,0 +1,3 @@
+# Artikel II
+1. Examenvoertuigen voor de categorieën C, E bij C, D en E bij D die voor wat betreft de eisen betreffende de lengte, de breedte, en de hoogte, alsmede de eisen betreffende de assen, op 30 juni 2021 voldoen aan de eisen gesteld aan een examenvoertuig van deze categorieën zoals die voor deze onderdelen golden tot dat tijdstip, kunnen tot en met 31 december 2028 als zodanig worden gebruikt.
+2. Examenvoertuigen voor de categorieën C en E bij C die voor wat betreft de eis betreffende de feitelijke totale massa op 30 juni 2021 voldoen aan de eis gesteld aan een examenvoertuig van deze categorieën zoals die voor dit onderdeel gold tot dat tijdstip, kunnen tot en met 31 december 2023 als zodanig worden gebruikt.
