@@ -1,0 +1,2 @@
+# Artikel I
+Het subsidieplafond van het Reglement Stimuleringsmaatregel Filmproductie in Nederland voor de pilot voor High-End series voor het kalenderjaar 2021 is € 10.000.000,- (zegge: tien miljoen euro), waarvan € 2.340.000,- (zegge: twee miljoen driehonderdveertigduizend euro) per aanvraagronde in de tweede helft van het jaar. Per aanvraagronde worden als eerste alle internationale coproducties gehonoreerd tot maximaal 70% van het budget.
