@@ -1,0 +1,4 @@
+# II. AD ARTIKELEN 1, 4, 10, 11, 12, 13 EN 21
+1. Een lichaam dat inwoner is van Nederland en voor de toepassing van de Nederlandse vennootschapsbelasting wordt behandeld als een „vrijgestelde beleggingsinstelling" is niet gerechtigd tot de voordelen van de artikelen 10, 11, 12, 13 en 21 en de daarmee verband houdende artikelen van het Protocol bij het Verdrag.
+2. Het is wel te verstaan dat artikel 10, derde lid, onderdeel a, niet van toepassing is op een persoon die inwoner is van Nederland en die voor de toepassing van de Nederlandse vennootschapsbelasting wordt behandeld als een „fiscale beleggingsinstelling".
+3. Niettegenstaande de bepalingen van het eerste en tweede lid en de bepalingen van artikel 1 en artikel 4 beslissen de bevoegde autoriteiten van de verdragsluitende staten in onderling overleg in hoeverre een andere inwoner van een verdragsluitende staat die onder een bijzondere regeling valt geen aanspraak kan maken op de voordelen van dit Verdrag.

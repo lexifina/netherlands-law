@@ -1,0 +1,2 @@
+# VII. AD ARTIKEL 7
+Indien Bulgarije in een toekomstig verdrag inzake dubbele belasting met een lid van de Organisatie voor Economische Samenwerking en Ontwikkeling instemt met de versie uit 2010 van artikel 7 van het OESO-modelverdrag met betrekking tot belastingen naar het inkomen en naar het vermogen, of een latere versie, begint Bulgarije onverwijld onderhandelingen met Nederland teneinde voornoemde versie van artikel 7 in het Verdrag op te nemen.

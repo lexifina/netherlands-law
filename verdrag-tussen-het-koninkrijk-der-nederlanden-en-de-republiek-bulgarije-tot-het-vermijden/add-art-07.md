@@ -1,0 +1,2 @@
+# VII. AD ARTICLE 7
+If in any future double taxation convention with any member of the Organisation for Economic Co-operation and Development Bulgaria agrees on the 2010 version of Article 7 of the OECD Model Tax Convention on Income and on Capital or a later version, Bulgaria shall without undue delay enter into negotiations with the Netherlands with a view to inserting the said version of Article 7 into the Convention.
