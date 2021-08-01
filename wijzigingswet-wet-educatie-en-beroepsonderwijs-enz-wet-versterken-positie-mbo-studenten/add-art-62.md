@@ -1,0 +1,2 @@
+# Artikel LXII
+[Wijzigt de Wet educatie en beroepsonderwijs BES, de Wijzigingswet Wet educatie en beroepsonderwijs, enz. (bevorderen van doelmatige leerwegen in het beroepsonderwijs en moderniseren van de bekostiging van het beroepsonderwijs) (Stb. 2013/288) en de Wet van 16 oktober 2013 tot aanpassing van een aantal OCW-wetten voor Bonaire, Sint Eustatius en Saba voornamelijk in verband met wijzigingen in de equivalente onderwijswetten voor Europees Nederland (Aanpassingswet OCW-wetten BES) (Stb. 2013/432).]
