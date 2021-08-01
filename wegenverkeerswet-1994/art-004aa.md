@@ -12,8 +12,8 @@ i. het afgeven van gehandicaptenparkeerkaarten aan aanvragers die niet als ingez
 j. het beoordelen van de vakbekwaamheid van bestuurders in het goederen- en personenvervoer over de weg;
 k. het erkennen van opleidingscentra voor het verrichten van nascholing en het certificeren van cursussen met betrekking tot vakbekwaamheid bestuurders goederen- en personenvervoer over de weg en het registreren van nascholing;
 l. het houden van toezicht op de naleving van de verplichtingen die voortvloeien uit de in onderdeel k bedoelde erkenningen;
-m. het uitreiken van Nederlandse omwisselingscertificaten en deelcertificaten vakbekwaamheid bestuurders goederen- en personenvervoer over de weg;
-n. het ongeldig verklaren van getuigschriften van vakbekwaamheid, getuigschriften van nascholing en Nederlandse omwisselingscertificaten;
+m. het uitreiken van certificaten die aantonen dat een bestuurder als bedoeld in artikel 151b, onderdeel b, een aantal uren nascholing heeft gevolgd, maar de nascholing nog niet met goed gevolg heeft voltooid;
+n. het ongeldig verklaren van getuigschriften van vakbekwaamheid en getuigschriften van nascholing als bedoeld in artikel 151b, onderdelen d en f;
 o. het verwerken van gegevens, waaronder mede begrepen gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15, van de Algemene verordening gegevensbescherming, voor zover dit noodzakelijk is voor de uitvoering van de taken waarmee het CBR bij of krachtens deze wet is belast, alsmede van de taken waarmee het CBR bij of krachtens andere wetten is belast;
 p. het met inachtneming van artikel 4am vaststellen van de tarieven, alsmede het vaststellen van de wijze van betaling van deze tarieven, voor het verrichten van taken waarvoor het CBR bij of krachtens deze wet bevoegd is, alsmede voor de bij of krachtens andere wetten opgedragen taken;
 q. het verstrekken van gegevens voor zover dit noodzakelijk is voor de uitvoering van de taken waarmee het CBR dan wel andere organisaties bij of krachtens deze wet zijn belast;

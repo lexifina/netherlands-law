@@ -1,0 +1,2 @@
+# Artikel 151ik
+Voor de toepassing van de artikelen 151ic, eerste en tweede lid, 151id, 151ig en 151ii, eerste lid, aanhef en onderdelen c en d, en derde tot en met vijfde lid, wordt onder kwalificatiekaart bestuurder mede verstaan een kwalificatiekaart bestuurder, afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, waarvan de houder in Nederland woonachtig is.

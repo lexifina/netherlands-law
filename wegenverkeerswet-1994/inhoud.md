@@ -71,6 +71,8 @@
 ## Hoofdstuk VIIA. Vakbekwaamheid bestuurders goederen- en personenvervoer over de weg
 ### § 1. Algemene bepalingen
 ### § 2. Getuigschrift van vakbekwaamheid en getuigschrift van nascholing
+### § 3. Kwalificatiekaart bestuurder
+### § 4. Overige bepalingen
 ## Hoofdstuk VIII. Kosten
 ## Hoofdstuk IX. Handhaving
 ## Hoofdstuk X. Bestuurlijke handhaving

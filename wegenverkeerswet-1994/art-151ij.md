@@ -1,0 +1,4 @@
+# Artikel 151ij
+1. Artikel 124a, eerste en tweede lid, is van overeenkomstige toepassing op een getuigschrift van vakbekwaamheid of getuigschrift van nascholing dat is vermeld op de kwalificatiekaart bestuurder overeenkomstig artikel 151g, vierde lid.
+2. Zodra de ongeldigverklaring van een getuigschrift van kracht is geworden, levert de houder van een kwalificatiekaart bestuurder die kaart in bij de Dienst Wegverkeer.
+3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de wijze van bekendmaking van de ongeldigverklaring van een getuigschrift, de wijze van inlevering van een kwalificatiekaart bestuurder met een ongeldig verklaard getuigschrift en de vernieuwing van kwalificatiekaarten bestuurder na ongeldigverklaring van het daarop vermelde getuigschrift.
