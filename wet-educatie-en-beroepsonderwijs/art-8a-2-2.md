@@ -17,7 +17,8 @@ j. de wijze van vastleggen van studievorderingen van studenten en vavo-studenten
 k. de regels op het gebied van veiligheid, gezondheid en welzijn voor zover deze de studenten en vavo-studenten betreffen;
 l. het reglement voor de studentenraad, met inachtneming van artikel 8a.3.1, derde lid;
 m. het onderwijsprogramma indien dit minder uren als bedoeld in artikel 7.2.7, derde of vierde lid, omvat;
-n. het beleid met betrekking tot het beperkt en beheersbaar houden van de middelen die van de studenten en vavo-studenten worden gevraagd voor schoolkosten die door het bevoegd gezag noodzakelijk worden bevonden.
+n. het beleid met betrekking tot het beperkt en beheersbaar houden van de middelen die van de studenten en vavo-studenten worden gevraagd voor schoolkosten die door het bevoegd gezag noodzakelijk worden bevonden;
+o. het beleid bij de toepassing van artikel 8.1.5.
 4. De studentenraad heeft adviesbevoegdheid met betrekking tot voorgenomen beslissingen van het bevoegd gezag ten aanzien van:
 a. inkrimping, uitbreiding, fusie en overdracht van de instelling, beëindiging van opleidingen en samenwerking met andere instellingen bij de uitvoering van opleidingen;
 b. verandering van de grondslag van de instelling;

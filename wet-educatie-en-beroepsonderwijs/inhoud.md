@@ -58,9 +58,9 @@
 #### § 2. Opleidingen voortgezet algemeen volwassenenonderwijs en opleidingen Nederlands als tweede taal I en II
 ### Titel 5. Commissie van beroep voor de examens
 ### Titel 7. Practicumplaatsen voor ho-studenten in opleiding
-## Hoofdstuk 8. Inschrijving, toelating, bindend studieadvies, vooropleidingseisen, voortijdig schoolverlaten, samenwerking
+## Hoofdstuk 8. Aanmelding, inschrijving, mbo-studentenfonds, toelating, bindend studieadvies, vooropleidingseisen, voortijdig schoolverlaten, samenwerking
 ### Titel 0. Aanmelding
-### Titel 1. Inschrijving
+### Titel 1. Inschrijving, toelating, mbo-studentenfonds en bindend studieadvies
 ### Titel 2. Vooropleidingseisen
 ### Titel 3. Bestrijden voortijdig schoolverlaten en volgen van jongeren in een kwetsbare positie
 ### Titel 4. Samenwerking in verband met leer-werktrajecten vmbo, entreeopleiding in het vmbo en geïntegreerde route vmbo-basisberoepsopleiding
