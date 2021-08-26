@@ -1,0 +1,10 @@
+# Artikel 27b
+1. Een dienstverrichter die niet in het register is ingeschreven, voert in Nederland uitsluitend de beroepstitel die hij voert in de betrokken staat waar hij is gevestigd in de officiële taal van die staat of in één van de officiële talen van die staat. Indien die titel in de betrokken staat waar hij is gevestigd niet bestaat treedt de dienstverrichter in Nederland op onder vermelding van de titel die bij zijn opleiding hoort in de officiële taal van de staat waar hij is gevestigd of in één van de officiële talen van die staat.
+2. Een dienstverrichter heeft het recht gebruik te maken van academische titels die hem zijn verleend in een andere betrokken staat, en eventueel van de afkorting daarvan, in de officiële taal van die staat of in één van de officiële talen van die staat. Artikel 24, tweede lid, is van overeenkomstige toepassing.
+3. Een dienstverrichter kan op verzoek voor de duur van de dienstverrichting onder vermelding van die hoedanigheid als architect, stedenbouwkundige, tuin- en landschapsarchitect of interieurarchitect worden ingeschreven in het register. De dienstverrichter doet bij zijn aanvraag de volgende stukken aan het bureau toekomen:
+a. een verklaring dat hij op wettige wijze in zijn staat is gevestigd om beroepsmatig werkzaamheden te verrichten op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur en dat hem op het moment van afgifte van de verklaring geen verbod tot beroepsuitoefening is opgelegd;
+b. een bewijs van nationaliteit;
+c. ingeval het beroep niet is gereglementeerd in zijn staat een bewijs dat hij het betreffende beroep ten minste een jaar heeft uitgeoefend tijdens de tien jaar voorafgaande aan de dienstverrichting.
+4. Een ingeschreven dienstverrichter kan zijn inschrijving als dienstverrichter telkens met een jaar verlengen.
+5. Het bureau beslist binnen vier weken na ontvangst van een verzoek als bedoeld in het derde lid.
+6. De inschrijving van een dienstverrichter of de verlenging van die inschrijving wordt geëffectueerd zodra het bureau de krachtens artikel 8, aanhef en onderdeel a of d, vastgestelde vergoeding heeft ontvangen.

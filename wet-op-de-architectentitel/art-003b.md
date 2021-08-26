@@ -1,0 +1,4 @@
+# Artikel 3b
+1. Voor de toepassing van de artikelen 32, eerste lid, 34, 35 en 36 van de Wet justitiële en strafvorderlijke gegevens wordt als aanvrager aangemerkt de persoon die krachtens artikel 13 is ingeschreven in het register of die op grond van dat artikel een verzoek tot inschrijving in het register heeft gedaan ten aanzien van wie de verklaring omtrent het gedrag wordt gevraagd.
+2. Onze Minister van Justitie stelt de persoon, bedoeld in het eerste lid, ten aanzien van wie de verklaring omtrent het gedrag wordt gevraagd in kennis van de aanvraag, bedoeld in artikel 3a, tweede lid, en vraagt zijn instemming met het in behandeling nemen van de aanvraag.
+3. Indien de persoon, bedoeld in het eerste lid, geen instemming verleent, bericht Onze Minister van Justitie dit aan de bevoegde autoriteit uit een andere betrokken staat die de verklaring omtrent het gedrag heeft aangevraagd.
