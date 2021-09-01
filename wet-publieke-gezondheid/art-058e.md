@@ -6,8 +6,7 @@ c. tussen activiteiten;
 d. tussen openbare, publieke en besloten plaatsen, of gedeelten daarvan.
 2. De burgemeester kan met het oog op bijzondere omstandigheden ontheffing verlenen van:
 a. het bepaalde bij of krachtens artikel 58g, eerste lid, 58h, eerste lid, of 58i;
-b. de krachtens artikel 58j, eerste lid, onder a tot en met e, gestelde regels, indien dat in die regels is bepaald;
-c. de krachtens artikel 58j, eerste lid, onder f, gestelde regels, indien dat in die regels is bepaald.
+b. de krachtens artikel 58j, eerste lid, onder a tot en met e, gestelde regels, indien dat in die regels is bepaald.
 Aan de ontheffing kunnen voorschriften en beperkingen worden verbonden.
 3. Voordat de burgemeester een beslissing neemt omtrent de verlening van een ontheffing als bedoeld in het tweede lid, onder a of b, vraagt hij advies aan de gemeentelijke gezondheidsdienst.
 4. De burgemeester verleent geen ontheffing, indien het belang van de bestrijding van de epidemie zich daartegen naar zijn oordeel verzet. Bij de afweging van de betrokken belangen betrekt de burgemeester in ieder geval:
