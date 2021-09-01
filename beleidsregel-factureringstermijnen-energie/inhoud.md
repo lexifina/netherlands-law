@@ -1,3 +1,0 @@
-# Inhoud
-## Definities
-## Slotbepalingen
