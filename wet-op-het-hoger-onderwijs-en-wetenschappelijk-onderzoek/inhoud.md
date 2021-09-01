@@ -40,6 +40,7 @@
 ### Titel 2. Vooropleidingseisen en toelatingseisen
 #### Paragraaf 1. Vooropleidingseisen associate degree-opleidingen en bacheloropleidingen
 #### Paragraaf 2. Toelatingseisen masteropleidingen
+#### Paragraaf 3. Gelijkwaardigheid buitenlandse getuigschriften
 ### Titel 3. Studenten en extraneï
 #### Paragraaf 1. Aanmelding, studiekeuzeactiviteiten en studiekeuzeadvies
 #### Paragraaf 1a. Inschrijving
@@ -137,4 +138,5 @@
 ### Titel 15. Wet van 10 juli 2013 (Stb. 298)
 ### Titel 16. Wet invoering associate degree-opleiding
 ### Titel 17. Wet accreditatie op maat
+### Titel 19. Variawet hoger onderwijs
 ## Hoofdstuk 19. Slotbepalingen
