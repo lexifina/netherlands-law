@@ -49,5 +49,5 @@
 ### Paragraaf 12.5. Overgangsbepaling in verband met de Wet tot wijziging van de Wet studiefinanciering 2000 met het oog op het verminderen van het aantal OV-boetes
 ### Paragraaf 12.6. Overgangsbepaling in verband met een wijziging van de criteria voor de toekenning van meeneembare studiefinanciering
 ### Paragraaf 12.7. Overgangsbepaling in verband met de Verzamelwet OCW 2020
-## Hoofdstuk 13. Tegemoetkoming voor studievertraging in verband met uitbraak COVID-19
+## Hoofdstuk 13. Maatregelen voor studenten in verband met uitbraak COVID-19
 ## Hoofdstuk 14. Slotbepalingen
