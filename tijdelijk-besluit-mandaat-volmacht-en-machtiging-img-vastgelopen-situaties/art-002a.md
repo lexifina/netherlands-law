@@ -1,0 +1,5 @@
+# Artikel 2a
+1. Het Instituut kan voor de aan hem op grond van dit besluit toekomende aangelegenheden ondermandaat, volmacht of machtiging verlenen aan afzonderlijke leden van het Instituut. De afzonderlijke leden van het Instituut kunnen in zulks geval voor deze aangelegenheden ondermandaat, volmacht of machtiging verlenen aan de ambtenaren, werkzaam voor de organisatie van het IMG.
+2. Het Instituut kan voorts voor de aan hem op grond van dit besluit toekomende aangelegenheden ondermandaat, volmacht of machtiging verlenen aan de ambtenaren, werkzaam voor zijn organisatie.
+3. Het verlenen van ondermandaat, volmacht en machtiging, alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
+4. Een afschrift van besluiten inzake ondermandaat, volmacht of machtiging als bedoeld in het vorige lid wordt gezonden aan de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat en aan degenen aan wie krachtens dit besluit ondermandaat is verleend.
