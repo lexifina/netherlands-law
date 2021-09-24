@@ -1,2 +1,0 @@
-# Artikel 16c. Verzamelen en verplaatsen van monsters
-Het is toegestaan om monsters als bedoeld in artikel 22, zevende lid, van verordening (EU) nr. 2020/687 van vogels te verzamelen en die te verplaatsen naar een laboratorium ten behoeve van onderzoek op de aanwezigheid van een andere dierziekten dan hoogpathogene aviaire influenza.
