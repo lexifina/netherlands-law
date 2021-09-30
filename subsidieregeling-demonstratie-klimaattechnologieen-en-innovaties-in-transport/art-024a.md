@@ -1,0 +1,5 @@
+# Artikel 24a. Wijziging subsidieverlening project learning by using
+1. Indien de subsidieontvanger minder emissiearme vervoermiddelen aanschaft dan waarvoor subsidie is verleend, wordt het verleende subsidiebedrag naar rato verlaagd.
+2. Indien de subsidieontvanger minder emissiearme vervoermiddelen aanschaft dan waarvoor subsidie is verleend en daardoor niet meer voldoet aan artikel 8a, eerste lid, onderdeel d, wordt het verleende subsidiebedrag naar rato verlaagd en wordt het totale verleende subsidiebedrag verlaagd met 10%.
+3. Indien niet is voldaan aan het bepaalde in artikel 24, derde lid, onderdeel b, wordt het verleende subsidiebedrag verlaagd waarbij het bedrag wordt bepaald door de subsidie te verminderen met 1/24evan het verstrekte subsidiebedrag vermenigvuldigd met het aantal volledige maanden waarin niet is voldaan aan de verplichting genoemd in artikel 24, derde lid, onderdeel b.
+4. In de gevallen bedoeld in het eerste, tweede of derde lid wordt de verleningsbeschikking dienovereenkomstig gewijzigd.
