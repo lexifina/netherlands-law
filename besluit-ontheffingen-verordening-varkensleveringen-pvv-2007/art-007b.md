@@ -1,2 +1,0 @@
-# Artikel 7b
-De voorzitter kan, op schriftelijk verzoek, namens het bestuur een ontheffing verlenen van het gestelde in artikel 9 en artikel 12, derde lid, artikel 13, vierde lid en artikel 14, vijfde lid, in het geval dat binnen twaalf maanden na wijziging van het adres waarvan de varkens worden aangevoerd, andermaal een ander adres wordt gekozen voor de aanlevering van de varkens, indien en voor zover dit laatste adres het oorspronkelijke adres is, waarvan de varkens werden aangevoerd.
