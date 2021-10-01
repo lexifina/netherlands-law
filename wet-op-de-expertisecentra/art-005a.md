@@ -10,3 +10,4 @@ c. er zorg voor draagt dat bij een persoon ten minste de volgende taken zijn bel
 a. de aandachtsgebieden die het instrument inzichtelijk maakt,
 b. de representativiteit van het instrument, en
 c. de frequentie waarmee het instrument wordt ingezet.
+4. Het bevoegd gezag zendt onverwijld de resultaten van de monitor, bedoeld in het eerste lid, onderdeel b, aan de inspectie.

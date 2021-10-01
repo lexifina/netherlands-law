@@ -1,2 +1,2 @@
 # Artikel 6a.1.4. Beëindiging diploma-erkenning van rechtswege van opleidingen educatie van instellingen, bedoeld in artikel 1.4a.1
-Indien het bevoegd gezag van een instelling als bedoeld in artikel 1.4a.1, langer dan een studiejaar een opleiding educatie niet heeft verzorgd, vervalt van rechtswege het recht om voor de desbetreffende opleiding een diploma of certificaat als bedoeld in artikel 1.4a.1, eerste lid, uit te reiken.
+Indien het bevoegd gezag van een instelling als bedoeld in artikel 1.4a.1, langer dan twee studiejaren een opleiding educatie niet heeft verzorgd, vervalt van rechtswege het recht om voor de desbetreffende opleiding een diploma of certificaat als bedoeld in artikel 1.4a.1, eerste lid, uit te reiken.

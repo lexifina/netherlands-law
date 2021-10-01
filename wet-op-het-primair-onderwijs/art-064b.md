@@ -13,5 +13,5 @@ f. de kosten en baten van de fusie,
 g. de gevolgen van de fusie voor het personeel en leerlingen, waaronder begrepen de gevolgen voor de voorzieningen,
 h. de wijze waarop over de fusie wordt gecommuniceerd,
 i. de wijze waarop de fusie wordt geëvalueerd, en
-j. een advies van burgemeester en wethouders van de betrokken gemeenten over de wenselijkheid van de voorgestelde fusie.
+j. een advies van het college van burgemeester en wethouders van de betrokken gemeenten over de wenselijkheid van de voorgestelde fusie.
 3. Bij ministeriële regeling wordt een modelformulier voor de fusie-effectrapportage vastgesteld.
