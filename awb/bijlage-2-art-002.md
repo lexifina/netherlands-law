@@ -121,7 +121,7 @@ c. de artikelen 123, tweede lid, 135 en 184
 d. artikel 185, tweede lid, tweede volzin, voor zover het betreft een besluit op grond van bepalingen die bij de algemene maatregel van bestuur ingevolge artikel 185, tweede lid, tweede volzin, van overeenkomstige toepassing zijn verklaard, alsmede een besluit op grond van bepalingen van de algemene maatregel van bestuur die daarmee overeenkomen
 Wet op het voortgezet onderwijs:
 a. titel III: de afdelingen I, met uitzondering van artikel 75a, en III
-b. de artikelen 85a, 89 en 104
+b. de artikelen 82, 83 en 104
 Wet ruimtelijke ordening:
 a. een besluit omtrent vaststelling van een bestemmingsplan, een inpassingsplan of een rijksbestemmingsplan als bedoeld in artikel 10.3, eerste lid
 b. artikel 3.1, derde lid
