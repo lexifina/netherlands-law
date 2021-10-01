@@ -1,2 +1,0 @@
-# Artikel X. Verhoging personele vergoeding i.v.m. omvang eerstegraads formatie
-Voor zover op grond van artikel 26, onderdeel b, van het Formatiebesluit scholen v.w.o.-a.v.o.-v.b.o. ook na 31 juli 1996 aanspraak zou hebben bestaan op extra formatierekeneenheden, blijft die aanspraak in stand volgens de desbetreffende op 31 juli 1996 geldende voorschriften, met dien verstande dat de aanspraak wordt uitgedrukt in een aantal formatieplaatsen. Bij ministeriële regeling worden voorschriften gegeven voor de toepassing van de eerste volzin.

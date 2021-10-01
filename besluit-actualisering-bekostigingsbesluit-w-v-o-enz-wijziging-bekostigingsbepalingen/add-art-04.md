@@ -1,2 +1,0 @@
-# Artikel IV. Overgangsbepaling aanvragen zorgbudget
-In afwijking van artikel 8 van het Besluit RVC's, regionaal zorgbudget en praktijkscholen met declaratiebekostiging geldt de aanvraag voor een zorgbudget die door of namens de bevoegde gezagsorganen van de scholen behorend tot een samenwerkingsverband is gedaan voor het schooljaar 2005/ 06 eveneens als aanvraag voor een zorgbudget voor het kalenderjaar 2006.

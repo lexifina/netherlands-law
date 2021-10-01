@@ -1,2 +1,0 @@
-# Artikel IX. Invoeringsregeling formatie schooljaar 2003–2004
-De formatie voor een school voor speciaal onderwijs, een school voor voortgezet speciaal onderwijs en een school voor speciaal en voortgezetspeciaal onderwijs, niet zijnde een instelling, voor het schooljaar 2003–2004, wordt ten minste vastgesteld op de omvang van de formatie die de school zou ontvangen op basis van de regelingen zoals die op de school van toepassing waren op 31 juli 2003 en gebaseerd op het leerlingenaantal dat daarvoor van toepassing was.

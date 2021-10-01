@@ -1,4 +1,0 @@
-# Artikel XII. Overgangsbepaling gewijzigde teldatum bekostigingsbesluit W.V.O.
-1. In afwijking van artikel 17 van het Bekostigingsbesluit W.V.O. worden bij de toepassing van dat artikel voor het jaar 1996 de kenmerken van het gebouw op 15 september 1995 in aanmerking genomen.
-2. In afwijking van artikel 39 van het Bekostigingsbesluit W.V.O. worden voor de periode van 1 januari 1996 tot en met 31 juli 1996 en het schooljaar 1996-1997 in aanmerking genomen het aantal leerlingen dat op 15 september 1995 als werkelijk schoolgaand is ingeschreven en de kenmerken van het gebouw op dat tijdstip.
-3. In afwijking van artikel 53, eerste lid, van het Bekostigingsbesluit W.V.O. worden voor de periode van 1 januari 1996 tot en met 31 juli 1996 en het schooljaar 1996-1997 in aanmerking genomen het aantal leerlingen dat op 15 september 1995 als werkelijk schoolgaand ls ingeschreven en de kenmerken van het gebouw op dat tijdstip.

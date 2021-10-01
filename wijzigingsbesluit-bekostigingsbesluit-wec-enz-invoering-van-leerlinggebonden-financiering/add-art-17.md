@@ -1,2 +1,0 @@
-# Artikel XVII. Invoeringsregeling scholen met formatie op grond van artikel 117, achtste lid, van de Wet op de expertisecentra
-Indien een school op 31 juli 2003 leerlingen ontvangt uit een residentiële instelling en de school om diezelfde reden met ingang van 1 augustus 2003 daarvoor formatie krijgt toegekend, op grond van artikel 117, achtste lid, van de Wet op de expertisecentra wordt het aantal leerlingen dat bepalend is voor de toekenning van die formatie, in mindering gebracht op het aantal leerlingen, bedoeld in artikel VIII.

@@ -1,2 +1,0 @@
-# Artikel VII. Invoeringsbepaling bekostiging REC
-Voor de toepassing van artikel 56a van het Bekostigingsbesluit WEC wordt voor de schooljaren 2003–2004 en 2004–2005 het aantal geïndiceerde leerlingen vastgesteld op de helft van de som van het aantal leerlingen dat op 1 oktober 2002 is ingeschreven bij de aan het regionaal expertisecentrum deelnemende scholen en het aantal door die scholen ambulant begeleide leerlingen op die datum.
