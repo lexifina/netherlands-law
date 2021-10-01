@@ -1,0 +1,3 @@
+# Artikel 9b
+1. De op het tijdstip van inwerkingtreding van dit artikel aanhangige meldingen, aanvragen of verzoeken die zijn ingediend op grond van de Verordening HPA suiker en isoglucose 2007 worden met ingang van 1 januari 2014 behandeld door de minister met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de melding, de aanvraag of het verzoek.
+2. Besluiten, niet inhoudende een algemeen verbindend voorschrift, genomen op grond van de Verordening HPA suiker en isoglucose 2007 door het Hoofdproductschap Akkerbouw, die golden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit artikel, worden met ingang van 1 januari 2014 geacht te zijn genomen door de minister op grond van deze regeling.
