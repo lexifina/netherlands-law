@@ -1,0 +1,3 @@
+# Artikel 17b. (Sluitingstermijn briefstemmen)
+1. In afwijking van artikel M 8, eerste lid, van de Kieswet moet de retourenveloppe, indien deze per post worden geretourneerd, uiterlijk op de vijfde dag na de dag van de stemming om twaalf uur in het bezit zijn van de burgemeester van 's-Gravenhage.
+2. In aanvulling op artikel M 8, tweede lid, van de Kieswet draagt de burgemeester van 's-Gravenhage er tevens zorg voor dat de binnen de termijn, bedoeld in het eerste lid, ontvangen retourenveloppen, die zijn gefrankeerd, zo spoedig mogelijk maar uiterlijk op de vijfde dag na de dag van de stemming om zestien uur ongeopend overhandigd worden aan de voorzitter van een briefstembureau.

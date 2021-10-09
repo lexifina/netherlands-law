@@ -1,0 +1,4 @@
+# Artikel 26a. (Gemeentelijk stembureau voor vervroegd stemmen en centrale stemopneming)
+1. Paragraaf 3.2 van het Tijdelijk experimentenbesluit stembiljetten en centrale stemopneming is niet van toepassing op een stembureau als bedoeld in artikel 2g, 3a of 4a.
+2. In afwijking van artikel 22e, vierde lid, tweede volzin, en vijfde lid voert het gemeentelijk stembureau voor vervroegd stemmen de werkzaamheden uit bedoeld in de artikelen 22 en 23 van het Tijdelijk experimentenbesluit stembiljetten en centrale stemopneming.
+3. In afwijking van artikel 22g, eerste lid, worden het proces-verbaal van het gemeentelijk stembureau voor vervroegd stemmen, de processen-verbaal van de stembureaus alsook de verzegelde pakken, bedoeld in de artikelen N 2 en N 9 van de Kieswet overgebracht naar het gemeentelijk stembureau bedoeld in artikel 20 van het Tijdelijk experimentenbesluit stembiljetten en centrale stemopneming.

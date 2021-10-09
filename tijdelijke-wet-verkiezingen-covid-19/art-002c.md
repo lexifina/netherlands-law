@@ -1,0 +1,4 @@
+# Artikel 2c. (Gedragsregels zitting kandidaatstelling)
+1. Het bepaalde bij of krachtens artikel 9, eerste lid, derde en vierde volzin, tweede tot en met vierde, zevende, negende en elfde lid, is van overeenkomstige toepassing op de locatie waar het centraal stembureau de in artikel I 4 van de Kieswet bedoelde zitting houdt en op daarbij aanwezige personen.
+2. Toepassing van artikel 9, derde lid, geschiedt met dien verstande dat de voorzitter de gezondheidscheck afneemt bij de andere leden van het centraal stembureau. De plaatsvervangend voorzitter neemt de gezondheidscheck af bij de voorzitter.
+3. Het centraal stembureau draagt er zorg voor dat in de ruimte waar de openbare zitting plaatsvindt alsook bij de ingang daarvan de aanwijzingen worden gegeven die nodig zijn om de naleving van artikel 58f, eerste lid, van de Wet publieke gezondheid of het bepaalde bij of krachtens artikel 9 door de bij de openbare zitting aanwezige personen te verzekeren.
