@@ -61,11 +61,6 @@
 #### § 1. Algemeen
 #### § 2. Educatieve maatregelen ter bevordering van de rijvaardigheid of geschiktheid
 #### § 6. Onderzoeken naar de rijvaardigheid of geschiktheid
-## Hoofdstuk VIA. Interoperabiliteit van elektronische heffingssystemen
-### § 1. Algemene bepalingen
-### § 2. Technologische eisen
-### § 3. Europese elektronische tolheffingsdienst
-### § 4. Nadere regelgeving
 ## Hoofdstuk VIB. Intelligente vervoerssystemen op het gebied van wegvervoer
 ## Hoofdstuk VII. Vrijstelling, ontheffing en vergunning
 ## Hoofdstuk VIIA. Vakbekwaamheid bestuurders goederen- en personenvervoer over de weg
