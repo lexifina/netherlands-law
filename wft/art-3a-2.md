@@ -1,7 +1,7 @@
 # Artikel 3a:2. Reikwijdte
 Dit hoofdstuk is van toepassing op de volgende entiteiten, met zetel in Nederland, tenzij anders is bepaald:
 a. banken;
-b. beleggingsondernemingen waarop artikel 28, tweede lid, van de richtlijn kapitaalvereisten van toepassing is;
+b. beleggingsondernemingen in de zin van artikel 4, eerste lid, punt 1, van de richtlijn markten voor financiële instrumenten 2014 waarop artikel 9, eerste lid, van de richtlijn prudentieel toezicht beleggingsondernemingen van toepassing is;
 c. financiële holdings in een groep met een bank of een beleggingsonderneming als bedoeld in onderdeel b;
 d. gemengde financiële holdings in een groep met een bank of een beleggingsonderneming als bedoeld in onderdeel b;
 e. gemengde holdings in een groep met een bank of een beleggingsonderneming als bedoeld in onderdeel b;
