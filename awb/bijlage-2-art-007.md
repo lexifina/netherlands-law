@@ -46,6 +46,7 @@ Wet inzake de geldtransactiekantoren, voor zover die wet nog van toepassing is o
 Wet lokaal spoor, met uitzondering van artikel 12
 Wet luchtvaart: artikel 11.24
 Wet marktordening gezondheidszorg, voor zover het betreft beschikkingen van de Nederlandse Zorgautoriteit als bedoeld in paragraaf 4 van hoofdstuk 6
+Wet oneerlijke handelspraktijken landbouw- en voedselvoorzieningsketen: artikel 9
 Wet op de inlichtingen- en veiligheidsdiensten 2017: artikel 53, zevende lid
 Wet op het financieel toezicht, met uitzondering van:
 a. de artikelen 5:77, eerste lid, en 5:81, derde lid
