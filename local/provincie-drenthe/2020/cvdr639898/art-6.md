@@ -1,3 +1,0 @@
-# Artikel 6.. Duur van het uitstel
-Met inachtneming van hierboven vermelde voorwaarde 5 dat aan de eindtermijn van betaalbeschikking op 31 december 2023 voldaan moet kunnen worden, kan indien een project vertraging oploopt door de PAS-problematiek (stikstof depositie), PFAS-problematiek (bodemvervuiling met poly- en perfluoralkylstoffen) of de Coronacrisis, uitstel worden verleend voor de duur van de periode die hiermee gemoeid is. In alle andere gevallen kan uitstel worden verleend voor maximaal 1 jaar.
-Mocht door overmacht een tweede uitstel nodig blijken dan wordt dat verzoek aan GS ter besluitvorming voorgelegd. Daarbij dient reëel zicht te zijn op het alsnog realiseren van het project binnen de in voorwaarde 5 genoemde termijn.
