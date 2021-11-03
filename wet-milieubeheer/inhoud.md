@@ -51,7 +51,7 @@
 ### Titel 9.3a. De EG-verordening indeling, etikettering en verpakking van stoffen en mengsels
 ### Titel 9.4. De EG-richtlijn ecologisch ontwerp energiegerelateerde producten
 ### Titel 9.5. Overige bepalingen met betrekking tot stoffen, preparaten en producten
-### Titel 9.6. De EG-richtlijn ter bevordering van schone en energiezuinige wegvoertuigen
+### Titel 9.6. De bijdrage van de vervoerssector aan milieu-, klimaat- en energiebeleid
 ### Titel 9.7. Hernieuwbare energie vervoer
 #### § 9.7.1. Algemeen
 #### § 9.7.2. Jaarverplichting hernieuwbare energie vervoer
