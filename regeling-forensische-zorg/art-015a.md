@@ -1,0 +1,3 @@
+# Artikel 15a
+1. Indien op grond van artikel 76, tweede lid, van de Penitentiaire beginselenwet, de termijn voor plaatsing van een gedetineerde in een instelling voor verpleging van ter beschikking gestelden wordt verlengd omdat plaatsing niet mogelijk is, wordt de gedetineerde in de gelegenheid gesteld te worden gehoord. De gedetineerde ontvangt onverwijld schriftelijk en zoveel mogelijk in een voor hem begrijpelijke taal een met redenen omklede, gedagtekende en ondertekende mededeling omtrent de beslissing.
+2. Zo nodig geschiedt het horen van de gedetineerde met bijstand van een tolk. Van het horen wordt aantekening gehouden.
