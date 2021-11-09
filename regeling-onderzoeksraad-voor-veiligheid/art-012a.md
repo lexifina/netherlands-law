@@ -1,0 +1,2 @@
+# Artikel 12a
+Indien de raad een onderzoek instelt naar een voorval, waarbij een spoorwegonderneming als bedoeld in artikel 3, aanhef en onder 3, van de spoorwegveiligheidsrichtlijn, met een vergunning van een andere lidstaat betrokken is of waarbij een in een andere lidstaat geregistreerd of onderhouden voertuig betrokken is, nodigt hij het onderzoeksorgaan, bedoeld in artikel 22 van de spoorwegveiligheidsrichtlijn, van die lidstaat uit deel te nemen aan het onderzoek.
