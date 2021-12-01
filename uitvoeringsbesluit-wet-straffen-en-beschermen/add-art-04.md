@@ -1,0 +1,2 @@
+# Artikel IV
+Artikel I, onderdelen D tot en met I, van dit besluit is niet van toepassing op vrijheidsstraffen en vrijheidsbenemende maatregelen waarop artikel IV, onderdelen 1 en 2, van de Wet straffen en beschermen van toepassing is. De artikelen 6, 7, 7a en 9 van de Penitentiaire maatregel, zoals deze luidden voor de inwerkingtreding van artikel I, onderdelen D tot en met I, van dit besluit blijven in deze gevallen van toepassing.
