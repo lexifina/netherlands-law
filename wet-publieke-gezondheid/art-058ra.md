@@ -3,8 +3,10 @@
 a. cultuur;
 b. evenementen;
 c. georganiseerde jeugdactiviteiten;
-d. horeca; of
-e. sport.
+d. horeca;
+e. sport;
+f. niet-essentiële detailhandel; en
+g. niet-essentiële dienstverlening op publieke plaatsen.
 2. Regels met betrekking tot het beschikken over vaccinatie tegen het virus SARS-CoV-2 of herstel van een infectie met het virus SARS-CoV-2 worden slechts gesteld indien:
 a. op basis van een bewijs van vaccinatie tegen het virus SARS-CoV-2 of een bewijs van herstel van een infectie met het virus SARS-CoV-2 kan worden vastgesteld dat een vergelijkbare kans op overdracht van het virus SARS-CoV-2 bestaat als bij een bewijs van een negatieve testuitslag; en
 b. de mogelijkheid wordt geboden in plaats van een bewijs van vaccinatie tegen het virus SARS-CoV-2 of een bewijs van herstel van een infectie met het virus SARS-CoV-2 gebruik te maken van een bewijs van een testuitslag.
@@ -23,3 +25,4 @@ b. de toegankelijkheid van het onderwijs waarborgt voor de student die niet over
 8. Ten aanzien van personen die beroeps- of bedrijfsmatig werkzaamheden verrichten worden geen regels als bedoeld in het eerste lid gesteld.
 9. Regels als bedoeld in het eerste lid gelden niet voor personen die vanwege een beperking of een ziekte geen test kunnen ondergaan of als gevolg van een test ernstig ontregeld raken. Bij ministeriële regeling worden nadere regels gesteld over de toepassing van de eerste volzin, in ieder geval met betrekking tot de vaststelling dat een persoon vanwege een beperking of ziekte geen test kan worden afgenomen en met betrekking tot de deelname aan of toegang tot activiteiten of voorzieningen voor deze personen.
 10. Het is verboden om voor deelname aan of toegang tot activiteiten of voorzieningen in openbare plaatsen of publieke plaatsen eisen te stellen met betrekking tot het beschikken over een resultaat, tenzij daarvoor regels als bedoeld in het eerste of derde lid zijn gesteld.
+11. Indien op het terrein bedoeld in het eerste lid, onderdeel f, regels worden gesteld als bedoeld in dat lid, kan, indien naar het oordeel van Onze Ministers gelet op het in artikel 58b, eerste lid, genoemde doel de krachtens artikel 58f, eerste lid, te bepalen veilige afstand een evenrediger maatregel is dan de regels bedoeld in het eerste lid, bij die regels worden bepaald dat voor het verkrijgen van toegang niet hoeft te worden beschikt over een resultaat, indien degene die bevoegd is tot het openstellen van die plaats voor publiek er zorg voor draagt dat de daar aanwezige personen een veilige afstand tot elkaar in acht kunnen nemen.

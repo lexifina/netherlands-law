@@ -10,6 +10,8 @@ hygiënemaatregelen: maatregelen betreffende de inrichting van ruimten of aldaar
 justitiële inrichting: een inrichting als bedoeld in artikel 1, onder b, van de Penitentiaire beginselenwet, inrichting als bedoeld in artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen, instelling als bedoeld in artikel 1, onder b, van de Beginselenwet verpleging ter beschikking gestelden of gesticht als bedoeld in artikel 2 van de Wet beginselen gevangeniswezen BES;
 kinderopvang: een kindercentrum of voorziening voor gastouderopvang als bedoeld in artikel 1.1, eerste lid, van de Wet kinderopvang;
 mantelzorger: een natuurlijke persoon die rechtstreeks voortvloeiend uit een tussen personen bestaande sociale relatie zorg of hulp verleent zonder dat dit beroeps- of bedrijfsmatig geschiedt;
+niet-essentiële detailhandel: het hoofdzakelijk verstrekken aan afnemers van producten die niet zijn gericht op de eerste levensbehoeften;
+niet-essentiële dienstverlening: het hoofdzakelijk verstrekken aan afnemers van diensten die niet zijn gericht op de eerste levensbehoeften;
 onderwijsinstelling: een school, instelling of exameninstelling in de zin van een onderwijswet als bedoeld in artikel 1, onder d, van de Wet op het onderwijstoezicht, daaronder begrepen een niet bekostigde instelling;
 Onze Ministers: Onze Minister, Onze Minister van Justitie en Veiligheid en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties gezamenlijk;
 openbare plaats: een openbare plaats als bedoeld in artikel 1, eerste lid, van de Wet openbare manifestaties;
