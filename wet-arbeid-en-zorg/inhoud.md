@@ -49,6 +49,7 @@
 ### § 2. Melding en informatie
 #### Meldingsverplichting
 #### Informatieverplichting
+#### Intrekking of wijziging melding aanvullend geboorteverlof
 ### § 3. Loonvoorschriften
 ### § 4. Nadere voorschriften
 #### Compensatie met vakantie-aanspraken
