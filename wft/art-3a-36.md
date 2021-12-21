@@ -1,2 +1,3 @@
-# Artikel 3a:36. Samenwerking met de verkrijger
-De Nederlandsche Bank kan, indien dit noodzakelijk is voor de toepassing van het instrument van overgang van de onderneming, verlangen dat de verkrijger, de entiteit in afwikkeling en de rechtspersonen die met de entiteit een groep vormen als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek, elkaar gegevens verstrekken en bijstand verlenen.
+# Artikel 3a:36. Samenwerking tussen de entiteit in afwikkeling, groepsentiteiten en de verkrijger
+1. De Nederlandsche Bank kan de entiteit in afwikkeling, de rechtspersonen die met de entiteit een groep vormen als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek en de verkrijger verplichten tot het aan elkaar verstrekken van gegevens en verlenen van bijstand.
+2. De Nederlandsche Bank kan de entiteit in afwikkeling en de rechtspersonen die met de entiteit een groep vormen als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek verplichten tot het verschaffen van diensten en faciliteiten die nodig zijn om de verkrijger in staat te stellen de op hem overgegane bedrijfsactiviteiten effectief uit te oefenen.

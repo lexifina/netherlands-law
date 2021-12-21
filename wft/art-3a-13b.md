@@ -1,0 +1,3 @@
+# Artikel 3a:13b. Niet-onuitvoerbaarheid verplichtingen
+1. Indien de Nederlandsche Bank van oordeel is dat het opnemen van de bepaling in de overeenkomst niet onuitvoerbaar is, verplicht zij de entiteit tot het alsnog binnen een door de Nederlandsche Bank gestelde redelijke termijn opnemen van de bepaling met betrekking tot de desbetreffende verplichting in de overeenkomst, rekening houdend met de noodzaak van afwikkelbaarheid van de entiteit.
+2. De Nederlandsche Bank kan de instelling door middel van het geven van een aanwijzing verplichten om ten aanzien van het opnemen van in artikel 3A:13, eerste lid, bedoelde bepalingen in overeenkomsten een bepaalde gedragslijn te volgen.

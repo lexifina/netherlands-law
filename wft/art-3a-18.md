@@ -1,7 +1,9 @@
 # Artikel 3a:18. Besluit tot afwikkeling buiten SRM
 1. De Nederlandsche Bank besluit tot afwikkeling van een beleggingsonderneming die geen onderdeel is van een groep, of van entiteiten van een groep die niet valt onder de werking van de verordening gemeenschappelijk afwikkelingsmechanisme, indien wordt voldaan aan de voorwaarden, bedoeld in de artikelen 16 en 18, eerste lid, van die verordening.
 2. De artikelen 14 en 18, derde tot en met zesde lid, van de verordening gemeenschappelijk afwikkelingsmechanisme zijn van overeenkomstige toepassing.
-3. Bij een besluit als bedoeld in het eerste lid met betrekking tot entiteiten van een groep als bedoeld in dat lid, waarvan een gemengde holding deel uitmaakt, wordt artikel 33, derde lid, van de richtlijn herstel en afwikkeling banken en beleggingsondernemingen in acht genomen.
+3. De Nederlandsche Bank neemt artikel 33, derde lid, van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen in acht:
+a. bij een besluit als bedoeld in het eerste lid met betrekking tot entiteiten van een groep als bedoeld in dat lid, waarvan een gemengde holding deel uitmaakt;
+b. ingeval een groep niet valt onder de werking van de verordening gemeenschappelijk afwikkelingsmechanisme en de dochterinstellingen van een gemengde holding met zetel in Nederland direct of indirect in handen zijn van een financiële tussenholding.
 4. De afwikkeling van een entiteit die onderdeel is van een groep als bedoeld in het eerste lid en waarvan de Nederlandsche Bank niet de groepsafwikkelingsautoriteit is, vindt plaats:
 a. met inachtneming van de procedurele vereisten in artikel 91, vierde en vijfde lid, van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen; en
 b. overeenkomstig de groepsafwikkelingsregeling, bedoeld in artikel 91, zesde lid, van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen, tenzij het een dochteronderneming betreft en de Nederlandsche Bank overeenkomstig artikel 91, achtste lid, of artikel 92, vierde lid, van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen anders beslist.

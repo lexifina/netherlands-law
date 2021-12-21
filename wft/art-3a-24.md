@@ -1,5 +1,5 @@
-# Artikel 3a:24. Vermindering hoofdsom kapitaalinstrument
-Bij vermindering van de hoofdsom van een relevant kapitaalinstrument ingevolge artikel 3A:21, eerste lid:
+# Artikel 3a:24. Vermindering hoofdsom kapitaalinstrumenten en in aanmerking komende passiva
+Bij vermindering van de hoofdsom van een relevant kapitaalinstrument of een in aanmerking komend passivum als bedoeld in het tweede lid van artikel 3A:21 ingevolge artikel 3A:21, eerste lid:
 a. is de vermindering van deze hoofdsom permanent, behoudens artikel 3A:25a;
-b. resteert voor de houder van het relevante kapitaalinstrument geen vordering in verband met het gedeelte van de hoofdsom dat is afgeschreven, met uitzondering van alle reeds opeisbare vorderingen en vorderingen die zijn ontstaan uit een beroep ingesteld ter betwisting van de rechtmatigheid van de uitoefening van de bevoegdheid tot afschrijving; en
-c. worden houders van de relevante kapitaalinstrumenten niet gecompenseerd, onverminderd de bevoegdheid, bedoeld in artikel 3A:21, eerste lid, om relevante kapitaalinstrumenten om te zetten in rechten op nieuw uit te geven kernkapitaalinstrumenten of eigendomsinstrumenten.
+b. resteert voor de houder van het relevante kapitaalinstrument of het in aanmerking komend passivum geen vordering in verband met het gedeelte van de hoofdsom dat is afgeschreven, met uitzondering van alle reeds opgebouwde vorderingen en vorderingen die, in voorkomend geval, ontstaan uit een beroep ingesteld ter betwisting van de rechtmatigheid van de uitoefening van de bevoegdheid tot afschrijving; en
+c. worden houders van de relevante kapitaalinstrumenten of in aanmerking komende passiva niet gecompenseerd, onverminderd de bevoegdheid, bedoeld in artikel 3A:21, eerste lid, om relevante kapitaalinstrumenten om te zetten in rechten op nieuw uit te geven kernkapitaalinstrumenten of eigendomsinstrumenten.

@@ -1,0 +1,9 @@
+# Artikel 3a:20b. Opschorting
+1. Indien wordt voldaan aan de voorwaarden, bedoeld in artikel 33 bis, eerste lid, van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen, kan de Nederlandsche Bank een betalingsverplichting of leveringsverplichting, uit hoofde van elke overeenkomst waarbij een entiteit partij is, opschorten.
+2. Indien de Nederlandsche Bank een betalingsverplichting of een leveringsverplichting opschort, worden ook de ingevolge die overeenkomst voor de wederpartij van de entiteit geldende betalingsverplichtingen en leveringsverplichtingen voor dezelfde periode opgeschort.
+3. Indien tijdens de periode van opschorting uitvoering moet worden gegeven aan een betalingsverplichting of leveringsverplichting, is de betaling of levering onmiddellijk na het verstrijken van die periode opeisbaar.
+4. Het eerste lid is niet van toepassing op betalingsverplichtingen en leveringsverplichtingen van een entiteit die reeds hebben geleid tot een gegeven overboekingsopdracht, opdracht tot verrekening of enige uit een dergelijke opdracht voortvloeiende betaling, levering, verrekening of andere rechtshandeling die benodigd is om de opdracht volledig uit te voeren, of tot rechten en verplichtingen die voor de entiteit in afwikkeling als deelnemer ingevolge of in verband met zijn deelname aan het systeem zijn ontstaan, welke betalingsverplichtingen of leveringsverplichtingen bestaan jegens een:
+a. systeem of systeemexploitant als bedoeld in artikel 212a, onderdeel b, onderscheidenlijk onderdeel p, van de Faillissementswet;
+b. centrale tegenpartij waaraan in een lidstaat een vergunning is verleend overeenkomstig artikel 14 van de EMIR-verordening;
+c. centrale tegenpartij uit een staat die geen lidstaat is die door de Europese Autoriteit voor effecten en markten is erkend overeenkomstig artikel 25 van de EMIR-verordening; of
+d. centrale bank.

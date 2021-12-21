@@ -7,7 +7,11 @@ c. met betrekking tot de entiteit in afwikkeling een besluit is of kan worden ge
 i. alle activa of passiva van de dochteronderneming in verband met die overeenkomst aan de verkrijger zijn of kunnen overgaan en door hem zijn of kunnen worden verkregen; of
 ii. de Nederlandsche Bank op een andere wijze passende bescherming biedt voor dergelijke verplichtingen.
 3. De opschorting, bedoeld in het eerste en tweede lid, werkt vanaf het tijdstip van de bekendmaking van het besluit tot 00.00 uur Nederlandse tijd aan het einde van de werkdag volgend op de bekendmaking onderscheidenlijk de tijd van de lidstaat waar de dochteronderneming is gevestigd.
-4. De opschorting werkt niet ten aanzien van een systeem of systeemexploitant als bedoeld in artikel 212a, onderdeel b, onderscheidenlijk onderdeel q, van de Faillissementswet, centrale tegenpartijen en centrale banken.
+4. De opschorting werkt niet ten aanzien van een:
+a. systeem of systeemexploitant als bedoeld in artikel 212a onderdeel b, onderscheidenlijk onderdeel p, van de Faillissementswet;
+b. centrale tegenpartij waaraan in een lidstaat een vergunning is verleend overeenkomstig artikel 14 van de EMIR-verordening;
+c. centrale tegenpartij uit een staat die geen lidstaat is die door de Europese Autoriteit voor effecten en markten is erkend overeenkomstig artikel 25 van de EMIR-verordening;
+d. centrale bank.
 5. Na het verstrijken van de opschortingstermijn, bedoeld in het derde lid, mogen de beëindigingsrechten overeenkomstig de voorwaarden van die overeenkomst als volgt worden uitgeoefend:
 a. indien de onder de overeenkomst vallende rechten en verplichtingen op een andere entiteit zijn overgegaan, kan een wederpartij de beëindigingsrechten slechts dan uitoefenen indien zich aan de zijde van de verkrijger een afdwingingsgrond blijft voordoen of zich later voordoet;
 b. indien de onder de overeenkomst vallende rechten en verplichtingen niet vallen onder de toepassing van een afwikkelingsinstrument, kan een wederpartij de beëindigingsrechten uitoefenen.

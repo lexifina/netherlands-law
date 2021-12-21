@@ -284,8 +284,11 @@
 ### Hoofdstuk 3a.1. Afwikkeling van banken en bepaalde beleggingsondernemingen
 #### Afdeling 3a.1.1. Algemene bepalingen
 #### Afdeling 3a.1.2. Voorbereiding van afwikkeling
-#### Afdeling 3a.1.3. Besluit tot afwikkeling of tot afschrijving en omzetting kapitaalinstrumenten
-#### Afdeling 3a.1.4. Afschrijving en omzetting van kapitaalinstrumenten
+#### Afdeling 3a.1.2a. MREL binnen SRM
+#### Afdeling 3a.1.3. Besluit tot afwikkeling of tot afschrijving en omzetting kapitaalinstrumenten en in aanmerking komende passiva
+##### § 3a.1.3.1. Voorwaarden besluit tot afwikkeling of tot afschrijving en omzetting van kapitaalinstrumenten en in aanmerking komende passiva
+##### § 3a.1.3.2. Opschorting betalings- of leveringsverplichting voorafgaand aan een eventuele afwikkelingsmaatregel
+#### Afdeling 3a.1.4. Afschrijving en omzetting van kapitaalinstrumenten en in aanmerking komende passiva
 #### Afdeling 3a.1.5. Afwikkeling
 ##### § 3a.1.5.1. Het instrument van overgang van de onderneming
 ##### § 3a.1.5.2. Het instrument van de overbruggingsinstelling

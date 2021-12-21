@@ -1,0 +1,2 @@
+# Artikel 3a:13e. Aanwijzing categorieën passiva
+De Nederlandsche Bank kan categorieën passiva aanwijzen ten aanzien waarvan een entiteit op grond van voorwaarden die zijn vastgesteld ingevolge artikel 55, zesde lid, van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen, tot de vaststelling kan komen dat het onuitvoerbaar is om het in artikel 3A:13, eerste lid, bedoelde beding op te nemen.

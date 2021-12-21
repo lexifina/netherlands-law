@@ -57,6 +57,7 @@ Tijdelijke experimentenwet stembiljetten en centrale stemopneming: artikel 2
 Tracéwet: de artikelen 2, eerste lid, 4, eerste lid, onderdeel c, en 23, eerste lid
 Uitleveringswet
 Uitvoeringswet huurprijzen woonruimte: de artikelen 7, tweede, derde, vijfde, achtste en negende lid, en 7a, derde lid
+Verordening (EU) nr. 806/2014 van het Europees Parlement en de Raad van 15 juli 2014 tot vaststelling van eenvormige regels en een eenvormige procedure voor de afwikkeling van kredietinstellingen en bepaalde beleggingsondernemingen in het kader van een gemeenschappelijk afwikkelingsmechanisme en een gemeenschappelijk bankenafwikkelingsfonds en tot wijziging van Verordening (EU) nr. 1093/2010 van het Europees Parlement en de Raad (PbEU 2014, L 225): de artikelen 16, 18 en 21, voor zover het betreft een weigering om een besluit te nemen of het niet tijdig nemen van een besluit;
 Waterschapswet: artikel 156, eerste lid, voor zover het betreft de weigering om een vernietiging te bevorderen en het niet tijdig nemen van een besluit tot vernietiging
 Waterwet: artikel 3.13, derde lid, indien overeenkomstige toepassing is gegeven aan artikel 121 van de Provinciewet, voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
 Waterwet: de artikelen: 4.1; 4.4; 4.6; 5.1, behoudens voor zover daarbij de ligging van een waterbergingsgebied of beschermingszone als bedoeld in die wet wordt vastgesteld of gewijzigd; 5.5; 6.17, tweede lid, 6.28;
@@ -101,7 +102,7 @@ Wet opheffing particuliere banken van leening: artikel 2
 Wet op het financieel toezicht:
 a. een bindende aanbeveling van een toezichthouder aan de andere toezichthouder
 b. de artikelen 1:75, eerste en tweede lid, en 1:76, eerste en derde lid
-c. artikel 3A:56
+c. de afdelingen 3A.1.3, 3A.1.4 en 3A.1.5 voor zover het betreft een weigering om een besluit te nemen of het niet tijdig nemen van een besluit
 d. artikel 3A:127
 e. de artikelen 6:1 en 6:2, voor zover het betreft een weigering om een besluit te nemen of het niet tijdig nemen van een besluit
 Wet op het hoger onderwijs en wetenschappelijk onderzoek: artikel 7.61

@@ -1,0 +1,3 @@
+# Artikel 3a:40a. Vergunning overbruggingsinstelling beleggingsonderneming
+1. De overbruggingsinstelling die een beleggingsonderneming is beschikt, voor zover nodig voor de uitoefening van haar werkzaamheden, van rechtswege over een vergunning als bedoeld in artikel 2:96.
+2. De Nederlandsche Bank kan de Autoriteit Financiële Markten met het oog op de verwezenlijking van een of meer van de in artikel 14 van de verordening gemeenschappelijk afwikkelingsmechanisme bedoelde afwikkelingsdoelstellingen verzoeken om tijdelijk ontheffing te verlenen van een of meer van de vereisten, bedoeld artikel 2:99, eerste lid.

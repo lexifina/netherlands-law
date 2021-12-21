@@ -1,0 +1,2 @@
+# Artikel 3a:18a. Afwikkeling centraal orgaan
+De Nederlandsche Bank kan besluiten tot afwikkeling van een centraal orgaan als bedoeld in artikel 32 bis van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen en alle blijvend aangesloten banken die deel uitmaken van dezelfde af te wikkelen groep indien de af te wikkelen groep als geheel voldoet aan de voorwaarden, bedoeld in artikel 18, eerste lid, eerste alinea, van de verordening gemeenschappelijk afwikkelingsmechanisme.

@@ -49,9 +49,10 @@ Wet marktordening gezondheidszorg, voor zover het betreft beschikkingen van de N
 Wet oneerlijke handelspraktijken landbouw- en voedselvoorzieningsketen: artikel 9
 Wet op de inlichtingen- en veiligheidsdiensten 2017: artikel 53, zevende lid
 Wet op het financieel toezicht, met uitzondering van:
-a. de artikelen 5:77, eerste lid, en 5:81, derde lid
-b. een besluit terzake van het ingevolge artikel 5:76, tweede lid, of 5:80b, vijfde lid, bepaalde, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in artikel 1:80
-c. de artikelen 6:1 en 6:2
+a. de afdelingen 3A.1.3, 3A.1.4 en 3A.1.5 en de artikelen 3A:85 en 3A:86
+b. de artikelen 5:77, eerste lid, en 5:81, derde lid
+c. een besluit terzake van het ingevolge artikel 5:76, tweede lid, of 5:80b, vijfde lid, bepaalde, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in artikel 1:80
+d. de artikelen 6:1 en 6:2
 Wet personenvervoer 2000: de artikelen 56, eerste lid, 59, eerste lid, 94, eerste lid, en 96, eerste lid
 Wet privatisering APB, voor zover het de overeenkomstige toepassing van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000 betreft op grond van artikel 21, vierde lid
 Wet schadefonds olietankschepen
