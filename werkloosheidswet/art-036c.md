@@ -5,7 +5,7 @@ b. redelijkerwijs te voorzien is dat een schuldregeling met betrekking tot alle 
 c. een naar het oordeel van het UWV betrouwbaar voorstel voor een schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in artikel 48 van de Wet op het consumentenkrediet;
 d. aannemelijk is dat medewerking aan een schuldregeling niet concurrentieverstorend werkt; en
 e. uitdeling in het kader van de schuldregeling plaatsvindt overeenkomstig artikel 349 van de Faillissementswet.
-2. Het eerste lid is niet van toepassing, indien een vordering is ontstaan door het niet nakomen door de werknemer van de verplichting, bedoeld in artikel 25, en hiervoor een boete als bedoeld in artikel 27a is opgelegd, dan wel met betrekking tot het niet naleven van die verplichting aangifte is gedaan op grond van het Wetboek van Strafrecht.
+2. Het eerste lid is niet van toepassing, indien een vordering is ontstaan door het opzettelijk of door grove schuld niet nakomen door de werknemer van de verplichting, bedoeld in artikel 25, en hiervoor een boete als bedoeld in artikel 27a is opgelegd, dan wel met betrekking tot het niet naleven van die verplichting aangifte is gedaan op grond van het Wetboek van Strafrecht.
 3. Het besluit tot afzien van terugvordering of verdere terugvordering wordt ingetrokken of ten nadele van de werknemer gewijzigd indien:
 a. niet binnen twaalf maanden nadat dat besluit is bekendgemaakt, een schuldregeling tot stand is gekomen die voldoet aan de eisen, bedoeld in het eerste lid;
 b. de werknemer zijn schuld aan het UWV niet overeenkomstig de schuldregeling voldoet; of
