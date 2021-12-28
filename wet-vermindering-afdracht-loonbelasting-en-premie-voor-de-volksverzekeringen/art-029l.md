@@ -1,2 +1,0 @@
-# Artikel 29l
-Teneinde zo veel mogelijk evenwicht te bereiken tussen de BIK-afdrachtvermindering en het hiervoor in de rijksbegroting opgenomen bedrag, kunnen bij regeling van Onze Minister van Economische Zaken en Klimaat, met ingang van 1 januari van enig jaar de in artikel 29c vermelde percentages worden verhoogd, verlaagd, dan wel op nihil gesteld. De nieuwe percentages gelden met betrekking tot BIK-verklaringen die betrekking hebben op een kalenderjaar dat aanvangt op of na de dag waarop de wijziging in werking treedt.
