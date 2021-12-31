@@ -1,0 +1,5 @@
+# X. Ad Artikelen 10, 11 en 12
+1. Dividenden, interest of royalty's afkomstig uit een verdragsluitende staat en betaald ter zake van aandelenbezit, een schuldvordering, het recht of de zaak tot het vermogen van een in de andere verdragsluitende staat gelegen vaste inrichting behoort, zijn belastbaar in de eerstbedoelde staat in overeenstemming met de bepalingen van onderscheidenlijk artikel 10, 11 of 12.
+2. De verdragsluitende staat waar de vaste inrichting is gelegen, vermijdt dubbele belastingheffing in overeenstemming met Artikel 21.
+3. De bepalingen van het eerste en het tweede lid zijn van toepassing, ongeacht waar het hoofdkantoor van de onderneming waartoe de vaste inrichting behoort is gelegen, mits een verdrag is gesloten tussen de staat waar het hoofdkantoor van de onderneming is gelegen en de verdragsluitende staat waaruit de dividenden, interest of royalty's afkomstig zijn, dat voorziet in een soortgelijke bepaling als artikel 24 van het Verdrag.
+4. De bepalingen van artikel 27 zijn van overeenkomstige toepassing.

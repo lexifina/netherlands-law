@@ -1,0 +1,2 @@
+# VI. Ad Artikel 7, derde lid, en artikel 9, tweede lid
+Het is wel te verstaan dat indien een verdragsluitende staat een aanpassing maakt, de andere verdragsluitende staat, voor zover nodig om dubbele belastingheffing te vermijden, een dienovereenkomstige aanpassing doorvoert indien hij instemt met de aanpassing gedaan door de eerstbedoelde staat; indien de andere verdragsluitende staat niet instemt met de aanpassing, sluiten de verdragsluitende staten in onderling overleg elke daaruit voortvloeiende dubbele belasting uit.
