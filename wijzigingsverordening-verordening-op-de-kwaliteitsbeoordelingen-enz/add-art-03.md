@@ -1,0 +1,4 @@
+# Artikel III
+1. Artikel 3, derde lid, van de Verordening op de kwaliteitsbeoordelingen zoals dat luidde tot inwerkingtreding van deze verordening blijft van toepassing op een toetsing of een hertoetsing waarvoor de datum waarop de toetsing of hertoetsing plaatsvindt is vastgesteld als bedoeld in artikel 11, eerste lid van de Verordening op de kwaliteitsbeoordelingen voor de inwerkingtreding van deze verordening.
+2. Het vijfde lid van Bijlage 1 bij de Verordening op de kosten kwaliteitsbeoordelingen zoals dat luidde tot inwerkingtreding van deze verordening blijft van toepassing op een toetsing of een hertoetsing waarbij een dossier met betrekking tot een wettelijke controle is beoordeeld.
+3. Het derde lid van Bijlage 2 bij de Verordening op de kosten kwaliteitsbeoordelingen zoals dat luidde tot inwerkingtreding van deze verordening blijft van toepassing op een toetsing of een hertoetsing waarbij een dossier met betrekking tot een wettelijke controle is beoordeeld.
