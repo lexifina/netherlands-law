@@ -1,5 +1,4 @@
 # Artikel 10c
-1. Ingeval voor een motorrijtuig waarvoor de belasting is verschuldigd ingevolge artikel 1, derde lid, de belasting al eerder is betaald, wordt, onder bij ministeriële regeling te stellen voorwaarden en beperkingen, de verschuldigde belasting verminderd met een bedrag ter zake van de eerder betaalde belasting.
-2. Indien een niet geregistreerd motorrijtuig zodanig wordt veranderd dat het de hoedanigheid verkrijgt van een personenauto, een motorrijwiel of een bestelauto, terwijl voor dat motorrijtuig de belasting al eerder is betaald, wordt, onder bij ministeriële regeling te stellen voorwaarden en beperkingen, de ingevolge artikel 1, zesde lid, voor dat motorrijtuig verschuldigde belasting verminderd met een bedrag ter zake van de eerder betaalde belasting.
-3. De vermindering, bedoeld in het eerste en tweede lid, bedraagt ten hoogste het bedrag van de verschuldigde belasting. De vermindering wordt voor een gebruikt motorrijtuig berekend met overeenkomstige toepassing van artikel 14a, vierde lid.
-4. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
+1. Ingeval voor een motorrijtuig waarvoor de belasting is verschuldigd de belasting al eerder is betaald, wordt, onder bij ministeriële regeling te stellen voorwaarden en beperkingen, de verschuldigde belasting verminderd met een bedrag ter zake van de eerder betaalde belasting.
+2. De vermindering bedraagt ten hoogste het bedrag van de verschuldigde belasting. De vermindering wordt voor een gebruikt motorrijtuig berekend met overeenkomstige toepassing van artikel 14a, vierde lid.
+3. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
