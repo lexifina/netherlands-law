@@ -1,0 +1,2 @@
+# Artikel II. Overgangsrecht
+Ten aanzien van het door een houder verzorgde aanbod van voorschoolse educatie aan kinderen die ten tijde van de inwerkingtreding van artikel I, onderdeel A, de leeftijd van tweeëneenhalf jaar al hebben bereikt, blijft artikel 2 van het Besluit basisvoorwaarden kwaliteit voorschoolse educatie gelden zoals dat luidde onmiddellijk voorafgaand aan de inwerkingtreding van artikel I, onderdeel A.
