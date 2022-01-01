@@ -4,6 +4,7 @@
 ## Hoofdstuk 2. Gemeente
 ## Hoofdstuk 3. Gecertificeerde instellingen
 ## Hoofdstuk 4. Eisen aan jeugdhulpaanbieders en gecertificeerde instellingen
+### § 4.0. Toetreding nieuwe jeugdhulpaanbieders
 ### § 4.1. Kwaliteit jeugdhulpaanbieders en gecertificeerde instellingen
 ### § 4.2. Rechtspositie jeugdigen en ouders
 #### § 4.2.a. Klachtrecht
@@ -28,6 +29,7 @@
 ### § 7.4. Gegevensverwerking ten behoeve van de uitvoering van de wet en ten behoeve van beleidsinformatie
 ## Hoofdstuk 8. Financiën en verantwoording
 ### § 8.1. Algemeen
+### § 8.2. Betaal-, onderzoeks- en informatieplicht
 ### § 8.3. Financiële verantwoording
 ### § 8.4. Verwerking van persoonsgegevens
 ## Hoofdstuk 9. Toezicht en handhaving
