@@ -1,10 +1,10 @@
 # Artikel 22a
 1. Voor de werknemer die loon uit tegenwoordige arbeid geniet, is de arbeidskorting van toepassing.
 2. De arbeidskorting wordt berekend over het loon uit tegenwoordige arbeid en bedraagt:
-a. 4,581% van dat loon met een maximum van € 463, vermeerderd met:
-b. 28,771% van dat loon voorzover dit bij een tijdvakloon op jaarbasis meer bedraagt dan € 10.108, waarbij de som van de bedragen berekend op de voet van de onderdelen a en b niet meer bedraagt dan € 3.837, alsmede vermeerderd met:
-c. 2,663% van het arbeidsinkomen voor zover dat meer bedraagt dan € 21.835, waarbij de som van de bedragen berekend op de voet van de onderdelen a, b en c niet meer bedraagt dan € 4.205, en verminderd, doch niet verder dan tot nihil, met:
-d. 6% van dat loon voorzover dit bij een tijdvakloon op jaarbasis meer bedraagt dan € 35.652.
+a. 4,541% van dat loon met een maximum van € 470, vermeerderd met:
+b. 28,461% van dat loon voorzover dit bij een tijdvakloon op jaarbasis meer bedraagt dan € 10.350, waarbij de som van de bedragen berekend op de voet van de onderdelen a en b niet meer bedraagt dan € 3.887, alsmede vermeerderd met:
+c. 2,610% van het arbeidsinkomen voor zover dat meer bedraagt dan € 22.356, waarbij de som van de bedragen berekend op de voet van de onderdelen a, b en c niet meer bedraagt dan € 4.260, en verminderd, doch niet verder dan tot nihil, met:
+d. 5,86% van dat loon voorzover dit bij een tijdvakloon op jaarbasis meer bedraagt dan € 36.649.
 3. Met loon uit tegenwoordige arbeid wordt gelijkgesteld:
 a. loon genoten wegens tijdelijke inactiviteit als bedoeld in artikel 628 van Boek 7 van het Burgerlijk Wetboek, alsmede hetgeen door de werknemer met een publiekrechtelijke dienstbetrekking wordt genoten op grond van naar aard en strekking overeenkomstige regelingen, voor een tijdvak van maximaal 104 weken;
 b. loon genoten als garantieloon als bedoeld in artikel 628a, eerste, derde en achtste lid, van Boek 7 van het Burgerlijk Wetboek;

@@ -1,5 +1,5 @@
 # Artikel 15aa
-1. Voor de toepassing van de artikelen 15ab tot en met 15aj wordt verstaan onder:
+1. Voor de toepassing van de artikelen 15ab tot en met 15al wordt verstaan onder:
 a. maatschappij: een belastingplichtige die deel uitmaakt van een fiscale eenheid;
 b. het voegingstijdstip: het tijdstip met ingang waarvan een belastingplichtige deel uitmaakt van een fiscale eenheid;
 c. het ontvoegingstijdstip: het tijdstip waarop een fiscale eenheid ten aanzien van een belastingplichtige anders dan door ontbinding en vereffening van een dochtermaatschappij wordt beëindigd.
