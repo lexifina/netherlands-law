@@ -1,3 +1,0 @@
-# Inhoud
-## Titel project
-## Activiteitenplan
