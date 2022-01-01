@@ -1,0 +1,2 @@
+# Artikel 22c
+Onze Minister van Justitie en Veiligheid is belast met de beveiliging van de burgerluchtvaart. De exploitant van een luchtvaartterrein, de luchtvaartmaatschappij en entiteiten zijn gehouden te voldoen aan door Onze Minister van Justitie en Veiligheid of namens deze door de commandant van de Koninklijke marechaussee gegeven aanwijzingen inzake de nakoming van een verplichting die op hen rust ingevolge de artikelen 22f, 22i, 22k, 22l, 22m, 22na, 22nc, 22o, 22p, 22q, 22s, 22u of 22va.

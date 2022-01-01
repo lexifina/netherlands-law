@@ -1,0 +1,3 @@
+# Artikel 22d
+1. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de uitvoering van de controle, bedoeld in artikel 22k, zevende lid, en in paragraaf 5 en paragraaf 6, alsmede voor de afhandeling van daarbij geconstateerde onregelmatigheden. De controle wordt verricht met inachtneming van de door Onze Minister van Justitie en Veiligheid gegeven algemene aanwijzingen.
+2. Onze Minister van Justitie en Veiligheid kan naar aanleiding van onvoorziene omstandigheden of bijzondere dreigingen bijzondere aanwijzingen geven voor de uitvoering van de controle, bedoeld in het eerste lid. In dat geval bepaalt Onze Minister van Justitie en Veiligheid dat de kosten worden vergoed die redelijkerwijs zijn gemaakt om de aanwijzing uit te voeren.

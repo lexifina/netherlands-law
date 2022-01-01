@@ -1,0 +1,4 @@
+# Artikel 61a
+1. Met het opsporen van de bij deze wet strafbaar gestelde feiten zijn, naast de in artikel 184 van het Wetboek van Strafvordering BES bedoelde personen, belast de daartoe bij ministeriële regeling aangewezen ambtenaren en personen.
+2. Bij het opsporen van een bij deze wet strafbaar gesteld feit hebben de in het eerste lid bedoelde ambtenaren en personen toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zij zijn bevoegd zich door bepaalde door hen aangewezen personen te laten vergezellen. Voor het betreden van woningen is artikel 155 van het Wetboek van Strafvordering BES onverkort van toepassing.
+3. Bij algemene maatregel van bestuur, kunnen regels worden gesteld met betrekking tot de vereisten waaraan de krachtens het eerste lid aangewezen ambtenaren en personen dienen te voldoen.

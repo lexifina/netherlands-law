@@ -1,0 +1,3 @@
+# Artikel 22r
+1. Een lid van het beveiligingspersoneel belast met de controle, dat de beschikking krijgt over gegevens waarvan hij het vertrouwelijk karakter kent of redelijkerwijze moet vermoeden, en voor wie niet reeds uit hoofde van ambt of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak de noodzaak tot bekendmaking voortvloeit.
+2. Een gelijke verplichting bestaat voor degene die anders dan bedoeld in het eerste lid ten behoeve van de beveiliging van de burgerluchtvaart een vertrouwensfunctie als bedoeld in artikel 3 van de Wet veiligheidsonderzoeken vervult.
