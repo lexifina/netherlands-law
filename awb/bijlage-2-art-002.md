@@ -77,9 +77,8 @@ b. een besluit tot wijziging van een besluit als bedoeld in artikel 2, eerste li
 Wet bescherming Antarctica
 Wet bodembescherming, met uitzondering van artikel 43, voor zover het betreft de afwijzing van een verzoek
 Wet educatie en beroepsonderwijs:
-a. de artikelen 1.4.1, 1.4a.1, 1.6.1, 2.1.1, eerste lid, 2.1.2, eerste lid, onderdeel b, 2.1.3, tweede en derde lid, 2.1.5, eerste lid, 2.1.6, 2.1.7, 2.2.3, eerste en derde lid, en 2.5.9
-b. artikel 2.5.10, voor zover het de overeenkomstige toepassing betreft van artikel 2.5.9
-c. de artikelen 6.1.3 tot en met 6.1.6, 6.2.1 tot en met 6.2.3, 6.2.3b, 6.3.1 tot en met 6.3.3, 6.4.2, 6.4.4, 6a.1.2, 6a.1.3 en 11.1
+a. de artikelen 1.4.1, 1.4a.1, 1.6.1, 2.1.1, eerste lid, 2.1.2, eerste lid, onderdeel b, 2.1.3, tweede lid, 2.2.3, eerste en derde lid, en 2.5.9
+b. de artikelen 6.1.3 tot en met 6.1.6, 6.2.1 tot en met 6.2.3, 6.2.3b, 6.3.1 tot en met 6.3.3, 6.4.4, 6a.1.2, 6a.1.3 en 11.1
 Wet financiering sociale verzekeringen: artikel 91
 Wet geluidhinder
 Wet gemeenschappelijke regelingen:

@@ -10,7 +10,7 @@ Gaswet: de artikelen 16, 60ac en 60ad
 Gezondheids- en welzijnswet voor dieren: artikel 120b, eerste lid
 Instellingswet Autoriteit Consument en Markt
 Invoerings- en aanpassingswet Pensioenwet
-Loodsenwet, met uitzondering van de artikelen 21, derde lid, 27b, vierde lid, 27d, 27e, 27f, 27h en 27l
+Loodsenwet, met uitzondering van de artikelen 21, derde lid, 27b, vierde lid, 27d, 27f, 27h en 27l
 Mededingingswet
 Meststoffenwet: artikel 51
 Muntwet 2002: artikel 11, eerste en tweede lid

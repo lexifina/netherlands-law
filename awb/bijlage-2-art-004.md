@@ -24,7 +24,7 @@ Hamsterwet
 Kaderwet EZ-subsidies
 Landbouwkwaliteitswet
 Landbouwwet: de artikelen 13, 15, 17 tot en met 22 en 26
-Loodsenwet: de artikelen 21, derde lid, 27b, vierde lid, 27d, 27e, 27f, 27h en 27l
+Loodsenwet: de artikelen 21, derde lid, 27b, vierde lid, 27d, 27f, 27h en 27l
 Marktverordening voor het wegvervoer
 Meststoffenwet, met uitzondering van artikel 51
 Metrologiewet
