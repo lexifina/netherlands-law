@@ -95,10 +95,7 @@
 #### Recht met afwijkingsmogelijkheden
 #### Dwingend recht
 ### § 5. Overgangsrecht
-## Hoofdstuk 7. Levensloopregeling
-### Begrippen
-### Recht op deelname
-### Mate van gebondenheid
+#### Overgangsrecht in verband met wijziging samenloop met loonkostensubsidie Participatiewet
 ## Hoofdstuk 8. Slotbepalingen
 ### Evaluatiebepaling
 ### Inwerkingtreding

@@ -1,4 +1,0 @@
-# Artikel 88a
-1. Stukken die medische gegevens bevatten worden door het Uitvoeringsinstituut werknemersverzekeringen niet aan de werkgever ter inzage of ter kennisname gegeven of toegezonden, tenzij de werknemer hiervoor schriftelijk toestemming heeft gegeven.
-2. De toestemming kan te allen tijde schriftelijk worden ingetrokken.
-3. Tijdens het horen in bezwaar kan de toestemming ook mondeling worden ingetrokken.

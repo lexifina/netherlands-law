@@ -1,0 +1,5 @@
+# Artikel 122r
+1. In afwijking van artikel 117b, derde lid, onderdeel c, komt een door UWV te betalen WGA-uitkering als bedoeld in dat onderdeel, niet ten laste van de Werkhervattingskas indien:
+a. op grond van de artikelen 38a, negende lid, of 38b, tweede lid, van de Ziektewet geen ziekengeld is of wordt toegekend; en
+b. voor het tijdstip van inwerkingtreding van artikel XIV, onderdeel D, van de Verzamelwet SZW 2022 bij UWV een aanvraag is gedaan om vast te stellen of de werknemer, aan wie de WGA-uitkering is toegekend, uit diezelfde dienstbetrekking recht had op ziekengeld als bedoeld in artikel 29, tweede lid, onderdeel d, e, f of g, van de Ziektewet of op ziekengeld als bedoeld in artikel 29, tweede lid, onderdelen a, b en c, van de Ziektewet, dat aan de werknemer is toegekend direct aansluitend op een dienstbetrekking waarin recht op ziekengeld als bedoeld in artikel 29, tweede lid, onderdeel e, f of g, van de Ziektewet bestond.
+2. Dit artikel vervalt met ingang van 1 januari 2032.
