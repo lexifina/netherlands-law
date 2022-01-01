@@ -1,0 +1,3 @@
+# Artikel 273g
+1. Hij die seksuele handelingen verricht met een ander, terwijl hij weet of ernstige reden heeft om te vermoeden dat die ander zich onder de in artikel 273f, eerste lid, onder 1°, bedoelde omstandigheden beschikbaar stelt tot het verrichten van seksuele handelingen met een derde tegen betaling, wordt gestraft met een gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
+2. De schuldige wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie indien degene ten aanzien van wie het in het eerste lid omschreven feit wordt gepleegd een persoon is die de leeftijd van achttien jaren nog niet heeft bereikt.
