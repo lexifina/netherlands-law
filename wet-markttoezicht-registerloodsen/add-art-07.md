@@ -1,3 +1,0 @@
-# Artikel VII
-1. Indien de algemene raad voor de eerste maal een voorstel als bedoeld in artikel 27c, derde lid, van de Loodsenwet doet, is de raming, bedoeld in artikel 27c, zesde lid, onder c, van de Loodsenwet, gebaseerd op de voor het jaar 2003 geldende hoogte, vermeerderd met de indexering, vastgesteld krachtens artikel 27d, tweede lid, van de Loodsenwet.
-2. De voor het jaar 2003 geldende hoogte wordt vastgesteld bij regeling van Onze Minister van Verkeer en Waterstaat. De algemene raad van de Nederlandse loodsencorporatie doet Onze Minister een voorstel voor deze regeling. Alvorens op dit voorstel te beslissen hoort Onze Minister de Autoriteit Consument en Markt.
