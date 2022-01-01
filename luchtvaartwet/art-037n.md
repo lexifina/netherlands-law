@@ -1,4 +1,3 @@
 # Artikel 37n
-1. De luchtvaartmaatschappij beschikt over een afsluitbare en beveiligde ruimte bestemd voor de ontvangst en bewaring van vracht.
-2. Zij stelt de identiteit van de aanbieders van vracht vast, indien deze personen niet zijn geregistreerd overeenkomstig artikel 37p, en registreert of doet registreren de naam en het adres van die personen en van de afzender.
-3. Onze Minister van Justitie kan, in overeenstemming met Onze Minister, bij ministeriële regeling nadere voorschriften geven aan de luchtvaartmaatschappij ter beveiliging van de burgerluchtvaart.
+1. Met inachtneming van EG-verordening 300/2008, kan Onze Minister van Justitie en Veiligheid, ten aanzien van bepaalde categorieën vracht of post vrijstelling verlenen van het beveiligingsonderzoek, bedoeld in artikel 37j, eerste lid. Onze Minister van Justitie en Veiligheid kan in dat geval aanwijzingen geven over vervangende maatregelen. Artikel 37ac, vijfde lid, is van overeenkomstige toepassing.
+2. Met inachtneming van EG-verordening 300/2008, kan Onze Minister van Justitie en Veiligheid in bijzondere gevallen ontheffing verlenen van het beveiligingsonderzoek, bedoeld in artikel 37j, eerste lid. Artikel 37ac, vijfde lid, is van overeenkomstige toepassing.

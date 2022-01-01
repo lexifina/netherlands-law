@@ -1,9 +1,5 @@
 # Artikel 37j
-1. De luchtvaartmaatschappij draagt zorg voor de controle van vracht op de aanwezigheid van gevaarlijke goederen.
-2. Het gestelde in het eerste lid kan, onverminderd het bepaalde bij of krachtens deze of andere wetten, achterwege blijven indien er sprake is van:
-a. vracht bestemd om te worden overgeladen van het ene vliegtuig op het andere, voor zover deze is voorzien van bescherming tegen bemoeienis door ongeautoriseerde personen;
-b. vervoer van stoffelijke overschotten;
-c. levende dieren;
-d. levensreddende materialen, voor zover de controle afbreuk kan doen aan de levensreddende kwaliteit van het materiaal;
-e. nucleair materiaal, of
-f. andere bij regeling van Onze Minister van Justitie aangewezen vracht, voor zover de controle afbreuk kan doen aan de kwaliteit van de vracht.
+1. Overeenkomstig punt 6.1.1 van bijlage I bij EG-verordening 300/2008, draagt de luchtvaartmaatschappij ervoor zorg dat alle vracht en post die in een door haar geëxploiteerd luchtvaartuig wordt geladen aan een beveiligingsonderzoek of de vereiste beveiligingscontroles is onderworpen.
+2. Overeenkomstig punt 6.2.1 en 6.2.2 van bijlage I bij EG-verordening 300/2008, draagt de luchtvaartmaatschappij ervoor zorg dat vracht en post die, nadat de vereiste beveiligingscontroles zijn uitgevoerd, niet afdoende is beschermd tegen manipulatie door onbevoegden of tekenen van manipulatie vertoont, aan een beveiligingsonderzoek is onderworpen alvorens in een door haar geëxploiteerd luchtvaartuig te worden geladen.
+3. Onverminderd artikel 6.51 van de Wet luchtvaart, worden samengestelde en explosieve en brandgevaarlijke apparaten die niet overeenkomstig bij regeling van Onze Minister van Justitie en Veiligheid vastgestelde veiligheidsvoorschriften worden vervoerd als verboden voorwerpen in vracht- en postzendingen beschouwd.
+4. Indien bij het beveiligingsonderzoek, bedoeld in het eerste of tweede lid, verboden voorwerpen worden aangetroffen, of de uitvoering van het beveiligingsonderzoek in gevaar komt, doet de luchtvaartmaatschappij of erkend agent daarvan onverwijld mededeling aan de commandant van de Koninklijke marechaussee.

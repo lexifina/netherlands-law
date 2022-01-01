@@ -1,0 +1,10 @@
+# Artikel 37rf
+1. Indien op grond van EG-verordening 300/2008 is vereist dat een persoon met succes een achtergrondcontrole heeft ondergaan, dient de betrokkene een verklaring omtrent het gedrag, als bedoeld in artikel 28 van de Wet justitiële en strafvorderlijke gegevens, te kunnen overleggen, tenzij de betrokkene beschikt over een verklaring waaruit blijkt dat diens betrouwbaarheid en geschiktheid reeds is vastgesteld op basis van een achtergrondcontrole anders dan op grond van artikel 28 van de Wet justitiële en strafvorderlijke gegevens die in ieder geval bestaat uit:
+a. het vaststellen van de identiteit van de betrokkene aan de hand van een geldig identiteitsbewijs, en
+b. een controle van de justitiële documentatie ten aanzien van de betrokkene over tenminste de afgelopen vijf jaar.
+2. De verklaring, bedoeld in het eerste lid, geldt voor een bij algemene maatregel van bestuur te bepalen termijn.
+3. Het eerste en tweede lid zijn niet van toepassing, indien de betrokkene een functie vervult die overeenkomstig artikel 3 van de Wet veiligheidsonderzoeken is aangewezen als vertrouwensfunctie. In dat geval dient ten behoeve van de betrokkene een verklaring als bedoeld in artikel 1, eerste lid, onder b, van de Wet veiligheidsonderzoeken te zijn afgegeven.
+4. De exploitant van een luchtvaartterrein, de luchtvaartmaatschappij en de entiteit dragen ervoor zorg dat personen ten aanzien waarvan op grond van EG-verordening 300/2008 een achtergrondcontrole is vereist, voor aanvang van hun werkzaamheden worden onderworpen aan een controle van hun opleiding en loopbaan in de afgelopen vijf jaar, alsmede eventuele onderbrekingen in deze opleiding en loopbaan.
+5. Bij of krachtens algemene maatregel van bestuur kunnen, met het oog op de goede uitvoering van EG-verordening 300/2008, nadere regels worden gesteld omtrent:
+a. de achtergrondcontrole, bedoeld in het eerste lid, en de periodieke herhaling daarvan;
+b. de controle van de opleiding en loopbaan, bedoeld in het vierde lid.

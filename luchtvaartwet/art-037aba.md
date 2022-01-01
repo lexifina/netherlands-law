@@ -1,0 +1,6 @@
+# Artikel 37aba
+1. De exploitant van een luchtvaartterrein houdt een beveiligingsprogramma als bedoeld in artikel 12 van EG-verordening 300/2008 in stand.
+2. Het beveiligingsprogramma, bedoeld in het eerste lid, alsmede de wijziging daarvan, behoeft instemming van Onze Minister van Justitie en Veiligheid in overeenstemming met Onze Minister. Het programma wordt op hun verzoek, onder het stellen van een redelijke termijn, aangepast.
+3. Met het oog op de afstemming met het crisisplan, bedoeld in artikel 16 van de Wet veiligheidsregio's, wordt het bestuur van de veiligheidsregio waarin het luchtvaartterrein is gelegen in de gelegenheid gesteld zijn zienswijze te geven over een ontwerp van een programma als bedoeld in het eerste lid of een wijziging van dat programma.
+4. De exploitant van een luchtvaartterrein informeert onverwijld en uit eigen beweging Onze Minister van Justitie en Veiligheid en Onze Minister indien het beveiligingsprogramma niet kan worden uitgevoerd. Hij verstrekt desgevraagd Onze Ministers informatie over de beveiliging van het luchtvaartterrein.
+5. Indien een onderdeel van het programma niet kan worden uitgevoerd, kan Onze Minister van Justitie en Veiligheid de exploitant van een luchtvaartterrein een aanwijzing geven die ertoe strekt zo veel mogelijk het oorspronkelijk in het programma aangegeven niveau van beveiliging te benaderen.

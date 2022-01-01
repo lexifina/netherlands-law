@@ -11,10 +11,11 @@
 ### Afdeling 3. Gebruik van luchtvaartterreinen
 ### Afdeling 3A. Beveiliging van de burgerluchtvaart
 #### § 1. Algemeen
-#### § 2. De verplichtingen van een exploitant van een luchtvaartterrein
-#### § 3. Controle van personen en bagage
-#### § 4. Controle van vracht
-#### § 5. Handhaving
+#### § 2. Beveiliging van luchtvaartterreinen en luchtvaartuigen
+#### § 3. Controle en bescherming van passagiers, handbagage en ruimbagage
+#### § 4. Controle en bescherming van vracht, post, bedrijfsmateriaal, bedrijfspost en vluchtbenodigdheden
+#### § 5. Werving en opleiding van personeel
+#### § 6. Handhaving
 ## Hoofdstuk IVa. Risicovluchten
 ## Hoofdstuk V. Buitengewone omstandigheden
 ## Hoofdstuk VI. Strafbepalingen

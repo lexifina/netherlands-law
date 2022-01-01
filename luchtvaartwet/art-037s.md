@@ -1,2 +1,0 @@
-# Artikel 37s
-In verband met de taakuitoefening, bedoeld in artikel 37p, eerste lid, kan de Commandant van de Koninklijke marechaussee onderzoek doen naar de betrouwbaarheid van de geregistreerde personen, bedoeld in artikel 37p. Hij kan daartoe inlichtingen en inzage van zakelijke gegevens en bescheiden vragen alsmede kopieën daarvan maken, alsmede politiegegevens raadplegen overeenkomstig het bepaalde bij of krachtens de Wet politiegegevens.
