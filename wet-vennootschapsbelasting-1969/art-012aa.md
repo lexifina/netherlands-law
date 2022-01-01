@@ -8,7 +8,7 @@ e. vergoedingen of betalingen door een hybride lichaam voor zover die leiden tot
 f. veronderstelde betalingen tussen hoofdhuis en vaste inrichting of tussen twee of meer vaste inrichtingen voor zover die leiden tot een aftrek zonder betrekking in de heffing doordat die veronderstelde betalingen bij of krachtens de wet van de staat van de ontvanger buiten beschouwing blijven;
 g. vergoedingen, betalingen, lasten of verliezen voor zover die leiden tot een dubbele aftrek.
 2. Het eerste lid is slechts van toepassing indien de aftrek zonder betrekking in de heffing of de dubbele aftrek ontstaat:
-a. tussen de belastingplichtige en een aan hem gelieerd lichaam;
+a. tussen de belastingplichtige en een aan hem gelieerd lichaam of gelieerde natuurlijk persoon;
 b. tussen hoofdhuis en vaste inrichting;
 c. tussen twee of meer vaste inrichtingen van hetzelfde lichaam; of
 d. uit hoofde van een gestructureerde regeling.
