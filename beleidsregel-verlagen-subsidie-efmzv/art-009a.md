@@ -1,0 +1,5 @@
+# Artikel 9a. Niet voldoen aan artikel 10, tweede lid, van verordening 508/2014
+1. Indien een subsidieontvanger niet voldoet aan de verplichting, bedoeld in artikel 3.1.6, eerste lid, van de Regeling Europese EZ-subsidies of de in een beschikking tot subsidieverlening opgenomen verplichting te voldoen aan artikel 10, tweede lid, van verordening 508/2014, wordt:
+a. indien de beschikking tot subsidievaststelling nog niet is gegeven, het subsidiebedrag verlaagd met 100%;
+b. indien de beschikking tot subsidievaststelling is gegeven, het subsidiebedrag verlaagd met een percentage dat wordt bepaald door het aantal dagen dat de overtreding van de verplichting duurt, te delen door het aantal dagen dat de verplichting van toepassing is, gerekend vanaf de dag na de datum van de beschikking tot subsidievaststelling, vermenigvuldigd met 100.
+2. De duur van de overtreding, bedoeld in het eerste lid, onderdeel b, wordt bepaald door als startdatum de datum aan te houden waarop de overtreding is geconstateerd en als einddatum de datum waarop de verplichting, bedoeld in het eerste lid, niet meer van toepassing is.
