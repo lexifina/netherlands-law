@@ -1,0 +1,3 @@
+# Artikel 59b
+1. De bestuurders en de commissarissen van de borgingsvoorziening zijn geschikt en betrouwbaar voor de uitoefening van hun werkzaamheden.
+2. Alvorens de raad van commissarissen een commissaris of bestuurder benoemt of herbenoemt, verzoekt deze Onze Minister om zijn zienswijze op de geschiktheid van de betrokken persoon voor het lidmaatschap van de raad van commissarissen respectievelijk voor het lidmaatschap van het bestuur en de betrouwbaarheid van die persoon aan haar kenbaar te maken. Een commissaris of bestuurder wordt niet benoemd of herbenoemd zonder dat Onze Minister daarover een positieve zienswijze heeft uitgebracht. Bij of krachtens algemene maatregel van bestuur worden nadere voorschriften gegeven omtrent de toepassing van dit lid.

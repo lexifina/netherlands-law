@@ -1,0 +1,2 @@
+# Artikel 59f
+Indien de borgingsvoorziening niet of niet volledig binnen de gestelde termijn voldoet aan een aanwijzing als bedoeld in artikel 59e, eerste lid, kan Onze Minister bepalen dat de borgingsvoorziening voor een door hem te bepalen tijdvak door hem aangegeven handelingen slechts mag verrichten na goedkeuring van een of meer door hem aangewezen personen of instanties, dan wel na zijn goedkeuring.

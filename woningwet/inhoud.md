@@ -21,7 +21,9 @@
 #### § 4. Administratieve scheiding en vermogensscheiding
 #### § 5. Juridische scheiding
 #### § 6. Verdere bepalingen
-### Afdeling 4. Sanering en projectsteun
+### Afdeling 4. Sanering, projectsteun en borgingsvoorziening
+#### § 1. Sanering en projectsteun
+#### § 2. Borgingsvoorziening
 ### Afdeling 5. Toezicht en bewind
 ### Afdeling 6. Algemeenverbindendverklaring van overeenkomsten met of tussen toegelaten instellingen
 ### Afdeling 7. Overige bepalingen

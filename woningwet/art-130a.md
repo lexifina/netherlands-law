@@ -1,0 +1,2 @@
+# Artikel 130a
+Een toestemming verleend door Onze Minister op basis van artikel 45a van deze wet, zoals dat luidde voor de inwerkingtreding van artikel I, onderdeel E, van de Wijziging van de Woningwet in verband met het tijdelijk uitbreiden van het werkgebied van toegelaten instellingen met het oog op het huisvesten van vergunninghouders, blijft onder de voorwaarden waaronder deze destijds is verleend gelden tot het moment dat de duur waarvoor deze is verleend is verlopen. Het bepaalde bij en krachtens artikel 45a blijft op de toestemming van Onze Minister van toepassing.

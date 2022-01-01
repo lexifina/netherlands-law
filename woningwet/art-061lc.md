@@ -1,0 +1,2 @@
+# Artikel 61lc
+Onze Minister betrekt bij het nemen van een besluit waartoe hij bij of krachtens deze wet bevoegd is, behalve de op grond van de bij of krachtens deze wet daarop betrekking hebbende voorschriften, de daarover uitgebrachte zienswijzen en adviezen en de uitkomsten van daarover gevoerd overleg. Onverminderd de in de eerste zin bedoelde voorschriften, kan hij bij die besluiten tevens het belang van de volkshuisvesting betrekken, indien dat naar zijn oordeel in het geding is.

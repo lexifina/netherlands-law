@@ -1,0 +1,4 @@
+# Artikel 59e
+1. Onze Minister kan in het belang van het voorzien in compensatie als bedoeld in artikel 1, eerste lid, begripsomschrijving van compensatie, onderdeel a, indien door het nalaten of handelen van de borgingsvoorziening het vertrouwen in de borgingsvoorziening dreigt geschaad te worden of indien de borgingsvoorziening handelt in strijd met het bepaalde in deze paragraaf, de borgingsvoorziening een aanwijzing geven om een of meer handelingen te verrichten of na te laten. De aanwijzing heeft geen betrekking op individuele borgingsbeslissingen.
+2. Een aanwijzing omvat de gevolgen die Onze Minister verbindt aan het niet voldoen aan die aanwijzing.
+3. In een aanwijzing als bedoeld in het eerste lid, wordt een termijn gesteld binnen welke de borgingsvoorziening daaraan dient te voldoen.
