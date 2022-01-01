@@ -1,0 +1,3 @@
+# Artikel III
+1. Tot de winst, bedoeld in artikel 3.8 van de Wet inkomstenbelasting 2001, behoort niet een subsidie aan een door de maatregelen ter bestrijding van de verdere verspreiding van COVID-19 getroffen startende MKB-onderneming die op aanvraag wordt verstrekt door Onze Minister van Economische Zaken en Klimaat, met als doel deze MKB-onderneming in staat te stellen in de periode van 1 januari 2021 tot en met 31 maart 2021 de vaste lasten te betalen.
+2. De winst, bedoeld in artikel 8, eerste lid, van de Wet op de vennootschapsbelasting 1969, wordt mede opgevat en bepaald op de voet van het eerste lid.

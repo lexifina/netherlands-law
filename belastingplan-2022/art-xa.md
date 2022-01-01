@@ -1,0 +1,2 @@
+# Artikel Xa
+Artikel 15a, eerste tot en met vierde lid, van de Wet op belastingen van rechtsverkeer zoals dat luidde op 31 december 2021 blijft tot en met 31 maart 2022 van toepassing wanneer een notaris niet beschikt over de juiste software om te voldoen aan de nieuwe vereisten die met ingang van 1 januari 2022 gelden voor de inhoud van het elektronische aangiftebericht als onderdeel van de aangifte overdrachtsbelasting.
