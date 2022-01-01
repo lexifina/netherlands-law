@@ -1,0 +1,2 @@
+# Artikel IV
+Een door Onze Minister van Justitie en Veiligheid, in overeenstemming met Onze Minister, voor de datum van de inwerkingtreding van deze wet verleende instemming aan het beveiligingsprogramma van een luchthaven, luchtvaartmaatschappij of entiteit, wordt met ingang van de datum van inwerkingtreding van deze wet aangemerkt als een instemming als bedoeld in artikel 37aba, tweede lid, 37abb, eerste, tweede of derde lid, of 37abc, tweede lid, van de Luchtvaartwet.
