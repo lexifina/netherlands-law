@@ -1,0 +1,4 @@
+# Artikel 23b
+1. De leden van de commissie van toezicht voor het vervoer hebben te allen tijde toegang tot de plaatsen waar en de vervoersmiddelen waarmee handelingen betreffende het vervoer worden uitgeoefend.
+2. De leden van de commissie van toezicht ontvangen van Onze Minister en de directeur van de inrichting alle door hen gewenste inlichtingen ten aanzien van het vervoer van jeugdigen en kunnen alle op het vervoer betreffende stukken inzien. Zij zijn tot geheimhouding verplicht, behoudens voor zover enig wettelijk voorschrift hen tot bekendmaking verplicht of uit de tenuitvoerlegging van hun taak de noodzaak tot bekendmaking voortvloeit.
+3. Onze Minister en de directeur van de inrichting brengen alle voor de uitoefening van de taak van de commissie van toezicht belangrijke feiten en omstandigheden ter kennis van de commissie van toezicht.

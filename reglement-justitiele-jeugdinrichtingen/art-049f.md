@@ -1,0 +1,2 @@
+# Artikel 49f
+De verantwoordelijke arts draagt zorg dat de melding van de toepassing van a-dwangbehandeling, b-dwangbehandeling, gedwongen geneeskundige handeling en voortzetting van a-dwangbehandeling en de resultaten van het overleg, bedoeld in artikel 48a, vierde lid, artikel 49a en artikel 49c, alsmede de adviezen die daarbij zijn gegeven en de afspraken die daarbij zijn gemaakt worden geregistreerd in het medische dossier.
