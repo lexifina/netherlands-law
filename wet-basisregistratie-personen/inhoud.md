@@ -35,4 +35,5 @@
 #### § 5. Het registreren van een vreemde nationaliteit naast het Nederlanderschap
 #### § 6. Invoering van het verwerken van gegevens over niet-ingezetenen
 #### § 7. De gefaseerde overgang van GBA naar basisregistratie personen
+### Afdeling 2a. Tijdelijke afwijking van de wet bij wege van experiment
 ### Afdeling 3. Straf- en slotbepalingen
