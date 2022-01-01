@@ -7,6 +7,7 @@
 ### § 2.2. De Commissie voor de milieueffectrapportage
 ### § 2.3. De Commissie genetische modificatie
 ### § 2.4. De provinciale milieucommissie
+### § 2.5. EU-milieukeur
 ## Hoofdstuk 3. Internationale zaken
 ## Hoofdstuk 4. Plannen
 ### § 4.1. Algemeen
@@ -54,17 +55,16 @@
 ### Titel 9.6. De bijdrage van de vervoerssector aan milieu-, klimaat- en energiebeleid
 ### Titel 9.7. Hernieuwbare energie vervoer
 #### § 9.7.1. Algemeen
-#### § 9.7.2. Jaarverplichting hernieuwbare energie vervoer
+#### § 9.7.2. Jaarverplichting hernieuwbare energie
 #### § 9.7.3. Hernieuwbare brandstofeenheden
-#### § 9.7.4. Inboeken hernieuwbare energie vervoer
-#### § 9.7.5. Register hernieuwbare energie vervoer
-#### § 9.7.6. Overgangsbepalingen hernieuwbare energie vervoer
+#### § 9.7.4. Inboeken hernieuwbare energie
+#### § 9.7.5. Register hernieuwbare energie
+#### § 9.7.6. Naleving van de duurzaamheids- en broeikasgasemissiereductiecriteria en broeikasgasemissiereductiedrempels
 ### Titel 9.8. Rapportage- en reductieverplichting vervoersemissies
 #### § 9.8.1. Algemeen
 #### § 9.8.2. Rapportage- en reductieverplichting
-#### § 9.8.3. Exploitatiereductie-eenheden en hernieuwbare brandstofeenheden
+#### § 9.8.3. Hernieuwbare brandstofeenheden
 #### § 9.8.4. Register rapportage- en reductieverplichting vervoersemissies
-#### § 9.8.5. Overgangsbepalingen
 ## Hoofdstuk 10. Afvalstoffen
 ### Titel 10.1. Algemeen
 ### Titel 10.2. Het afvalbeheerplan
