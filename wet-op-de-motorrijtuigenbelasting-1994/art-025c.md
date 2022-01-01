@@ -1,7 +1,7 @@
 # Artikel 25c
 1. Voor een autobus bedraagt de belasting:
 bij een eigen massa in kilogrammen van | over een tijdvak van drie maanden | vermeerderd met | per 100 kg eigen massa boven
-1.000 of minder | € 28,14 |  | 
-1.100 tot en met 2.600 | € 31,75 | € 3,63 | 1.100 kg
-2.700 en meer | € 89,03 | € 1,17 | 2.700 kg
+1.000 of minder | € 28,51 |  | 
+1.100 tot en met 2.600 | € 32,16 | € 3,68 | 1.100 kg
+2.700 en meer | € 90,19 | € 1,19 | 2.700 kg
 2. De belasting bedraagt nihil voor een autobus die hoofdzakelijk wordt gebruikt voor het openbaar vervoer, bedoeld in artikel 1, onderdeel h, van de Wet personenvervoer 2000, en die is bestemd om hoofdzakelijk te worden aangedreven door een kracht die wordt ontleend aan vloeibaar gemaakt petroleumgas als bedoeld in artikel 26, zesde lid, van de Wet op de accijns of aan aardgas.
