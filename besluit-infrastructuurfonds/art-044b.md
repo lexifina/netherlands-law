@@ -1,2 +1,0 @@
-# Artikel 44b
-Onze Minister kan bij de vaststelling van bijdragen, die zijn verleend krachtens paragraaf 2 of 3 van het Besluit Infrastructuurfonds, zoals die luidden vóór de inwerkingtreding van het onderhavige besluit, en waarbij is toegezegd dat de bijdrage op het punt van de vergoeding van de kosten van verlegging of vervanging van kabels of leidingen zal worden bijgesteld overeenkomstig een nieuwe regeling, de bijdrage voor de kosten van verlegging of vervanging vaststellen overeenkomstig artikel 9, tweede lid.

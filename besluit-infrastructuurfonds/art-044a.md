@@ -1,2 +1,0 @@
-# Artikel 44a
-Onze Minister kan bij de vaststelling van bijdragen, bedoeld in artikel 111, eerste en tweede lid, van het Besluit personenvervoer, die vóór 1 januari 1994 krachtens dat besluit zijn aangevraagd en die zijn verleend onder de toezegging dat de bijdrage op het punt van de vergoeding van de kosten van voorbereiding, administratie en toezicht zal worden bijgesteld overeenkomstig een nieuwe regeling, de kosten van voorbereiding, administratie en toezicht vergoeden overeenkomstig artikel 5, tweede lid.

@@ -1,5 +1,0 @@
-# Artikel 28a
-1. Onze Minister kan uit het fonds op aanvraag een bijzondere subsidie verlenen ten behoeve van een experiment of demonstratieproject dat naar zijn oordeel noodzakelijk is voor de kennisverwerving en de ontwikkeling van het beleid op nationaal niveau op het terrein van infrastructuur.
-2. De subsidie strekt met inachtneming van artikel 9, tweede lid, tot een gedeeltelijke tegemoetkoming in de kosten van het experiment of demonstratieproject. Tot de kosten worden gerekend de kosten, bedoeld in artikel 5, eerste lid, alsmede de kosten van begeleiding, evaluatie en monitoring.
-3. Onze Minister houdt bij het bepalen van het subsidiebedrag rekening met het karakter van het experiment of het demonstratieproject en met de kosten die redelijkerwijs ten laste van de subsidie-ontvanger behoren te komen. Hij kan de subsidie verlenen in de vorm van een vast subsidiebedrag.
-4. De artikelen 4, 5, 6, tweede en derde lid, 7, 8, 9, tweede lid, en 10 tot en met 14a zijn van overeenkomstige toepassing.

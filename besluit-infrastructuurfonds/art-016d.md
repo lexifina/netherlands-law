@@ -1,4 +1,0 @@
-# Artikel 16d
-1. Aanvragen om een subsidie voor overige projecten vinden plaats overeenkomstig artikel 4, eerste lid.
-2. Onze Minister beslist op een aanvraag als bedoeld in het eerste lid overeenkomstig de artikelen 6, 10, 11 en 12 met dien verstande dat in artikel 10 in plaats van 'groot project' moet worden gelezen: project, waarvan de geraamde kosten op grond van artikel 5 meer bedragen dan € 5 000 000.
-3. De artikelen 5, 7, 9, eerste lid, onderdelen a, c en d, tweede en derde lid, 13 tot en met 14a, en 16a tot en met 16b, zijn van overeenkomstige toepassing, met dien verstande dat, indien een subsidie als bedoeld in het eerste lid betrekking heeft op een projectgebonden onderzoek ten behoeve van de veiligheid van het wegverkeer de hoogte van de subsidie vijftig procent bedraagt van de kosten die overeenkomstig artikel 5 voor vergoeding in aanmerking komen.
