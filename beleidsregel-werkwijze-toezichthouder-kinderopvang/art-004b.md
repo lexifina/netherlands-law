@@ -1,0 +1,5 @@
+# Artikel 4b. Incidenteel onderzoek
+1. De werkzaamheden van de toezichthouder ter uitvoering van het onderzoek, bedoeld in artikel 1.62, vierde lid, van de wet bij het kindercentrum of het gastouderbureau bestaan in ieder geval uit de werkzaamheden, bedoeld in artikel 3, eerste lid.
+2. Onverminderd het eerste lid kunnen de werkzaamheden van de toezichthouder ter uitvoering van het onderzoek, bedoeld in artikel 1.62, vierde lid, van de wet bestaan uit het voeren van overleg met degenen als bedoeld in artikel 4, tweede lid, onder 1° tot en met 5°.
+3. De toezichthouder actualiseert het risicoprofiel van het kindercentrum of het gastouderbureau naar aanleiding van de resultaten van het onderzoek, bedoeld in het eerste lid.
+4. Dit artikel is ook van toepassing op een wijziging van de houder of het adres van een kindercentrum of voorziening voor gastouderopvang als bedoeld in artikel 7, derde of vierde lid, van het Besluit landelijk register kinderopvang en register buitenlandse kinderopvang.
