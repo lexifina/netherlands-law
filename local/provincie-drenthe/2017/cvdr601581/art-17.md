@@ -1,6 +1,0 @@
-# Artikel 17,. Ingekomen stukken
-1. De bij de Statencommissie ingekomen stukken, waaronder schriftelijke mededelingen van Gedeputeerde Staten aan de Statencommissie, worden op een lijst geplaatst. Deze lijst wordt aan de leden van de Statencommissie digitaal toegezonden en bij de agenda gevoegd. De betrokken documenten worden op de website van Provinciale Staten gepubliceerd.
-2. Het Presidium kan beslissen bij de Statencommissie ingekomen stukken niet op de lijst van ingekomen stukken te plaatsen. Dit geldt voor stukken waarvan duidelijk is dat deze ter kennisneming zijn gezonden en waarvan de commissieleden reeds kennis hebben kunnen nemen en voor stukken die onbegrijpelijk en/of beledigend zijn.
-3. Na de vaststelling van de samenvatting stelt de Statencommissie op voorstel van het Presidium de wijze van afdoening van de ingekomen stukken vast.
-4. Over een ingekomen stuk kan door een fractie een enkelvoudige vraag worden gesteld. De voorzitter is verantwoordelijk voor het in behandeling nemen van de (alle) enkelvoudige vragen. Dit doet hij naar redelijkheid en billijkheid.
-5. Voor inhoudelijke bespreking wordt een ingekomen stuk desgewenst voor een volgende vergadering geagendeerd.
