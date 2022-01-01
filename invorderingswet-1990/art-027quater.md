@@ -1,2 +1,4 @@
 # Artikel 27quater
-Dit hoofdstuk is niet van toepassing op te innen of terug te betalen bedragen aan rechten bij invoer, rechten bij uitvoer, kredietrente, vertragingsrente en rente op achterstallen en belastingen of heffingen waarop de wettelijke bepalingen, bedoeld in artikel 1:1, eerste en tweede lid, van de Algemene douanewet, van overeenkomstige toepassing zijn verklaard.
+1. Voor zover de ontvanger op grond van een beschikking van de inspecteur gehouden is rechten bij invoer of rechten bij uitvoer terug te betalen, omdat de desbetreffende rechten in strijd met het Unierecht zijn geheven, wordt aan de belastingschuldige een rente, gelijk aan de kredietrente, vergoed.
+2. De rente, bedoeld in het eerste lid, wordt enkelvoudig berekend vanaf de dag van betaling door belastingplichtige tot de dag van terugbetaling van het bedrag aan die belastingplichtige.
+3. Het te hanteren rentepercentage van de rente, bedoeld in het eerste lid, is niet lager dan 0%.
