@@ -1,0 +1,2 @@
+# Artikel XIII
+Wanneer een aanvraag als bedoeld in artikel 25a, eerste lid, van de Wet belastingen op milieugrondslag is ingediend voor 1 januari 2021, kan de kennisgever een melding doen als bedoeld in dat lid, indien toepassing van artikel 7 van het Uitvoeringsbesluit belastingen op milieugrondslag, zoals dat artikel luidt met ingang van 1 januari 2021, leidt tot een lager belastingbedrag als bedoeld in artikel 25, tweede lid, van de Wet belastingen op milieugrondslag dan het belastingbedrag wanneer de voor 1 januari 2021 ingediende aanvraag is dan wel zal worden gevolgd.
