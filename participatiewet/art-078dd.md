@@ -1,0 +1,3 @@
+# Artikel 78dd. Overgangsrecht in verband met de Verzamelwet SZW 2022
+1. Artikel 10d, twaalfde lid, zoals dat luidde voor het tijdstip van inwerkingtreding van artikel VI, onderdeel A, van de Verzamelwet SZW 2022, blijft van toepassing indien de ziekmelding, bedoeld in artikel 38a, derde lid, van de Ziektewet voor dat tijdstip is gedaan.
+2. De artikelen 5, onderdeel d, 35 en 36b, zoals deze luidden voor het tijdstip van inwerkingtreding van artikel VI, onderdeel Cb, van de Verzamelwet SZW 2022 blijven van toepassing op de persoon aan wie een individuele studietoeslag is verleend, indien het verleende bedrag tot een hoger bedrag aan individuele studietoeslag leidt dan een studietoeslag op grond van artikel 36b.

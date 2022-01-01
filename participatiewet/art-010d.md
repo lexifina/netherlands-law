@@ -16,4 +16,3 @@ stelt het college op diens aanvraag in aanvulling op artikel 7 de loonwaarde van
 9. Indien het college loonkostensubsidie als bedoeld in dit artikel verleent, verleent het ten aanzien van dezelfde dienstbetrekking geen andere subsidie voor de loonkosten.
 10. Indien een persoon in een dienstbetrekking waarbij loonkostensubsidie als bedoeld in dit artikel wordt verleend zijn woonplaats verplaatst naar een andere gemeente, wordt gedurende die dienstbetrekking onder college in dit artikel verstaan het college dat op grond van het eerste of tweede lid de loonkostensubsidie verleende.
 11. [Dit lid is nog niet in werking getreden.]
-12. Het college verstrekt geen loonkostensubsidie met betrekking tot perioden waarin recht bestaat op ziekengeld op grond van artikel 29b van de Ziektewet.

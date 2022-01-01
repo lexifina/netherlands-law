@@ -1,0 +1,5 @@
+# Artikel 133m
+1. In afwijking van artikel 82, zesde lid, draagt de eigenrisicodrager het risico van betaling van de WGA-uitkering aan de verzekerde niet indien:
+a. op grond van artikel 38a, negende lid, of artikel 38b, tweede lid, van de Ziektewet geen ziekengeld als bedoeld in artikel 82, zesde lid, is of wordt toegekend; en
+b. voor het tijdstip van inwerkingtreding van artikel XXXII, onderdeel E, van de Verzamelwet SZW 2022 bij UWV een aanvraag is gedaan om vast te stellen of de werknemer, aan wie de WGA-uitkering is toegekend, uit diezelfde dienstbetrekking recht had op ziekengeld als bedoeld in artikel 29, tweede lid, onderdeel d, e, f of g, van de Ziektewet of op ziekengeld als bedoeld in artikel 29, tweede lid, onderdelen a, b en c, van de Ziektewet, dat aan de werknemer is toegekend direct aansluitend op een dienstbetrekking waarin recht op ziekengeld als bedoeld in artikel 29, tweede lid, onderdeel e, f of g, van de Ziektewet bestond.
+2. Dit artikel vervalt met ingang van 1 januari 2032.
