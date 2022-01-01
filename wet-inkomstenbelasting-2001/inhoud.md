@@ -63,7 +63,6 @@
 ### Afdeling 6.2. Onderhoudsverplichtingen
 ### Afdeling 6.5. Uitgaven voor specifieke zorgkosten
 ### Afdeling 6.6. Weekenduitgaven voor gehandicapten
-### Afdeling 6.7. Scholingsuitgaven
 ### Afdeling 6.9. Aftrekbare giften
 ### Afdeling 6.10. Tijdstip aftrek
 ## Hoofdstuk 7. Belastingheffing van buitenlandse belastingplichtigen
