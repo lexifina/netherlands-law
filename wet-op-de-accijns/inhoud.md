@@ -5,12 +5,12 @@
 ## Hoofdstuk II. Definities van de accijnsgoederen en tarieven
 ### Afdeling 1. Bier
 ### Afdeling 2. Wijn
-### Afdeling 2a. Tussenprodukten
-### Afdeling 3. Overige alcoholhoudende produkten
+### Afdeling 2a. Tussenproducten
+### Afdeling 3. Overige alcoholhoudende producten
 ### Afdeling 4
 ### Afdeling 5
 ### Afdeling 6. Minerale oliën
-### Afdeling 7. Tabaksprodukten
+### Afdeling 7. Tabaksproducten
 ### Afdeling 8. Alcoholgehalte en volume
 ## Hoofdstuk III. Uitslag tot verbruik
 ### Afdeling 1. Accijnsgoederenplaats
@@ -26,6 +26,7 @@
 ### Afdeling 1. Vrijstellingen
 ### Afdeling 2. Teruggaven
 ## Hoofdstuk VI. Bijzondere bepalingen
+### Afdeling a1. Kleine producenten van alcoholhoudende dranken
 ### Afdeling 1. Accijnszegels
 ### Afdeling 2. Controlebepalingen
 ### Afdeling 2A. Wijziging van de accijns van minerale oliën

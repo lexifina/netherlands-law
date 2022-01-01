@@ -1,2 +1,2 @@
 # Artikel 11a
-Tussenprodukten worden onderscheiden in niet-mousserende tussenprodukten en mousserende tussenprodukten.
+Tussenproducten worden onderscheiden in niet-mousserende tussenproducten en mousserende tussenproducten.

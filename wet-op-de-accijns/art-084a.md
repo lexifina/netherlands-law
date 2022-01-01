@@ -4,7 +4,7 @@ Onder het voorhanden hebben wordt mede begrepen het vervoer naar een opslagplaat
 2. Aan de accijns, bedoeld in het eerste lid, zijn niet onderworpen minerale oliën:
 a. waarvoor het tijdstip waarop de accijns, bedoeld in artikel 27, eerste lid, verschuldigd wordt, is gelegen op of na het tijdstip van de in het eerste lid bedoelde verhoging;
 b. waarvoor een vrijstelling van accijns geldt.
-3. Onder opslagplaats wordt verstaan elk gebouw of terrein waar minerale oliën als bedoeld in het eerste lid voor commerciële doeleinden voorhanden zijn. Opslagplaatsen in gebruik bij een zelfde persoon worden te zamen als één opslagplaats beschouwd.
+3. Onder opslagplaats wordt verstaan elk gebouw of terrein waar minerale oliën als bedoeld in het eerste lid voor commerciële doeleinden voorhanden zijn. Opslagplaatsen in gebruik bij een zelfde persoon worden tezamen als één opslagplaats beschouwd.
 4. De accijns, bedoeld in het eerste lid, wordt geheven van de eigenaar van de in een opslagplaats voorhanden minerale oliën en moet op aangifte worden voldaan.
 5. In afwijking van artikel 10, tweede lid, van de Algemene wet inzake rijksbelastingen, wordt uiterlijk de vijfde werkdag na het ingaan van de verhoging aangifte gedaan van de hoeveelheden van de aan de accijns, bedoeld in het eerste lid, onderworpen onderscheiden minerale oliën.
 6. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de aangifte.
