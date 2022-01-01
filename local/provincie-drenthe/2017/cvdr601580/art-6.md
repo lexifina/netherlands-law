@@ -1,4 +1,0 @@
-# Artikel 6,. Onderzoek geloofsbrieven; beëdiging
-1. Bij aanvang van de Statenperiode benoemen Provinciale Staten de leden van de commissie voor de geloofsbrieven. Per fractie wordt maximaal één vertegenwoordiger voorgedragen en benoemd.
-2. Bij elke benoeming van nieuwe leden van Provinciale Staten onderzoekt een vertegenwoordiging van drie leden van de commissie, zoals genoemd in lid 1, voorafgaande aan de Statenvergadering waarin de eed of de verklaring en belofte door de benoemde (of benoemden) wordt afgelegd, tijdig de geloofsbrieven Daarbij gaan zij namens de commissie na, of de benoemde (of benoemden) aan de vereisten voor het lidmaatschap voldoet (of voldoen) en of er geen met het lidmaatschap onverenigbare betrekkingen worden vervuld.
-3. Hierover rapporteren zij namens de commissie aan Provinciale Staten, onder vermelding van eventuele minderheidsstandpunten, tijdens de vergadering als genoemd in lid 2.

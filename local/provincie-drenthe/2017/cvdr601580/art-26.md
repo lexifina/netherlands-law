@@ -1,3 +1,0 @@
-# Artikel 26,. Beraadslaging
-1. Provinciale Staten kunnen op voorstel van de voorzitter of een lid van Provinciale Staten beslissen om over één of meer onderdelen van een onderwerp of voorstel afzonderlijk te beraadslagen.
-2. Op verzoek van een lid van Provinciale Staten of op voorstel van de voorzitter kunnen Provinciale Staten besluiten de beraadslaging voor een door hem te bepalen tijd te schorsen teneinde het college of de leden de gelegenheid te geven tot onderling nader beraad. De beraadslagingen worden hervat nadat de schorsingsperiode is verstreken.
