@@ -1,9 +1,0 @@
-# Artikel III
-1. In het tweede tot en met achtste lid wordt verstaan onder fonds: Centraal Fonds voor de Volkshuisvesting, bedoeld in artikel 71 van de Woningwet zoals die laatstelijk luidde voor het tijdstip van inwerkingtreding van artikel I van deze wet.
-2. Het fonds wordt opgeheven.
-3. Met ingang van het tijdstip van inwerkingtreding van artikel I van deze wet zijn de bestuursleden van het fonds van rechtswege ontslagen.
-4. Met ingang van het tijdstip van inwerkingtreding van artikel I van deze wet gaan de vermogensbestanddelen van het fonds onder algemene titel over op Onze Minister, tegen de waarde die blijkt uit de laatstelijk voor dat tijdstip door het fonds vastgestelde baten- en lastenrekening.
-5. Indien krachtens het vierde lid registergoederen overgaan, doet Onze Minister een zodanige overgang onverwijld inschrijven in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek. Artikel 24, eerste lid, van dat boek is niet van toepassing.
-6. Op aanvragen om een subsidie als bedoeld in artikel 71a, eerste lid, onderdeel a, van de Woningwet zoals die laatstelijk luidde voor het tijdstip van inwerkingtreding van artikel I van deze wet, die op dat tijdstip bij het fonds in behandeling zijn, beslist Onze Minister met toepassing van het voor dat tijdstip geldende recht. Artikel 59, tweede lid, van de Woningwet is niet van toepassing op die aanvragen.
-7. In wettelijke procedures en rechtsgedingen waarbij het fonds is betrokken, treedt met ingang van het tijdstip van inwerkingtreding van artikel I van deze wet Onze Minister in de plaats van het fonds.
-8. Het fonds draagt archiefbescheiden betreffende zaken die op het tijdstip van inwerkingtreding van artikel I van deze wet nog niet zijn afgedaan, onverwijld over aan Onze Minister, voor zover zij niet overeenkomstig de Archiefwet 1995 naar een archiefbewaarplaats zijn overgebracht.

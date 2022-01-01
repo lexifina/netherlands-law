@@ -1,2 +1,0 @@
-# Artikel V
-Besluiten van het provinciaal bestuur tot overdracht van bevoegdheden van regeling en bestuur die aan de betrokken provincie krachtens artikel 81, derde lid, van de Woningwet zijn toegekend, en die zijn genomen voor het tijdstip waarop deze wet in werking treedt, zijn besluiten als bedoeld in artikel 108, eerste lid, van de Provinciewet (Stb. 1992, 550), indien is voldaan aan het tweede en derde lid van laatstgenoemd artikel.

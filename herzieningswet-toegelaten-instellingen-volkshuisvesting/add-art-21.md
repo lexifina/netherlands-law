@@ -1,2 +1,0 @@
-# Artikel XXI
-Onze Minister zendt binnen drie jaar na het tijdstip van inwerkingtreding van artikel I van deze wet aan beide kamers der Staten-Generaal een verslag over de doeltreffendheid en de effecten van het bij en krachtens de hoofdstukken IIIA en IV van de Woningwet bepaalde en van de artikelen II en III van deze wet in de praktijk. De wooncoöperaties, bedoeld in artikel 18a van de Woningwet, en de toegelaten instellingen, bedoeld in artikel 19 van die wet, verlenen Onze Minister alle medewerking daarbij.
