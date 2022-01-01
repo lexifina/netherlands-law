@@ -20,5 +20,12 @@
 ## Hoofdstuk 6. Handhaving en toezicht
 ### § 1. Bestuursrechtelijke handhaving
 ### § 2. Bestuurlijke boete
-## Hoofdstuk 7. Wijziging van enkele wetten
+## Hoofdstuk 7. Tijdelijke regeling inzake opkoopbescherming
+### § 1. Begripsbepalingen
+### § 2. Toepassing bevoegdheid
+### § 3. Aanwijzing vergunningplichtige woonruimte
+### § 4. Aanvraag van de vergunning
+### § 5. Weigering van de vergunning
+### § 6. Intrekking van de vergunning
+### § 7. Bestuurlijke boete
 ## Hoofdstuk 8. Overgangs- en slotbepalingen
