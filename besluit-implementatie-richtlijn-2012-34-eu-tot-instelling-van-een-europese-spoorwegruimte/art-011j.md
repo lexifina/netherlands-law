@@ -1,0 +1,4 @@
+# Artikel 11j. Heffing bij niet-gebruik toegewezen capaciteit
+1. Na overleg met de betreffende gerechtigde legt de beheerder aan die gerechtigde een heffing op als bedoeld in artikel 62, zesde lid, onderdeel g, van de wet indien die gerechtigde de aan haar toegewezen capaciteit voor paden als bedoeld in artikel 1 van het Besluit capaciteitsverdeling hoofdspoorweginfrastructuur of voor het opstellen van treinmaterieel annuleert, of bij herhaling geheel of gedeeltelijk niet gebruikt.
+2. De heffing kan gedifferentieerd worden al naar gelang het moment van annuleren, of de duur of frequentie van het geheel of gedeeltelijk niet gebruiken van de toegewezen capaciteit.
+3. De beheerder stelt in het belang van een efficiënt capaciteitsgebruik criteria vast voor de toepassing van de heffing en het vaststellen van de hoogte van de heffing.
