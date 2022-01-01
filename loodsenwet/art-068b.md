@@ -1,0 +1,2 @@
+# Artikel 68b
+Een samenwerkingsverband van registerloodsen, opgericht ter uitvoering van artikel 15, eerste lid, onderdeel b, dat berust op een maatschap als bedoeld in artikel 1655 van Boek 7a van het Burgerlijk Wetboek, kan in bijzondere gevallen bijeenkomen in een digitale omgeving door middel van een tweezijdig elektronisch communicatiemiddel, onder de voorwaarden dat alle in de maatschap verbonden personen aan de vergadering kunnen deelnemen, daarin het woord kunnen voeren en het stemrecht kunnen uitoefenen.

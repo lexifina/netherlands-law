@@ -1,0 +1,7 @@
+# Artikel 69a
+Hoofdstuk VIA van de Loodsenwet, zoals deze luidde voor het tijdstip van inwerkingtreding van de Wet actualisatie markttoezicht registerloodsen, blijft van kracht ten aanzien van:
+a. een toerekeningssysteem waarmee de Autoriteit Consument en Markt voor dat tijdstip heeft ingestemd, als bedoeld in artikel 27b, en een voor dat tijdstip ingediend voorstel als bedoeld in artikelen 27c, eerste lid,;
+b. de mogelijkheid om bezwaar te maken of beroep in te stellen tegen enig besluit op grond van dit hoofdstuk dat op het tijdstip van inwerkingtreding eerdergenoemde wet nog niet onherroepelijk is;
+c. de behandeling van het bezwaar of het beroep gericht tegen enig besluit op grond van dit hoofdstuk dat voor het tijdstip van inwerkingtreding van eerdergenoemde wet is gemaakt, onderscheidenlijk ingesteld;
+d. de behandeling van het bezwaar of het beroep dat op of na het tijdstip van inwerkingtreding van eerdergenoemde wet is gemaakt, onderscheidenlijk ingesteld en dat is gericht tegen enig besluit op grond van dit hoofdstuk waartegen voor dat tijdstip eveneens bezwaar is gemaakt, onderscheidenlijk beroep is ingesteld;
+e. een na het tijdstip van inwerkingtreding van de Wet actualisatie markttoezicht registerloodsen als gevolg van een onherroepelijk geworden rechterlijke uitspraak genomen besluit als bedoeld in artikel 27f, eerste lid of tweede lid, dat betrekking heeft op enig jaar gelegen voor het tijdstip van inwerkingtreding van eerdergenoemde wet.

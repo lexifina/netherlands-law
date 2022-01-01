@@ -1,0 +1,4 @@
+# Artikel 68a
+1. De voorzitter van de corporatie of een regionale corporatie kan bepalen dat leden in bijzondere gevallen geen toegang hebben tot de ledenvergadering, bedoeld in artikel 14, eerste lid, onderdeel a, respectievelijk b. In dat geval draagt de voorzitter er zorg voor dat de leden in een digitale omgeving door middel van een tweezijdig elektronisch communicatiemiddel aan de opgeroepen ledenvergadering kunnen deelnemen, daarin het woord kunnen voeren en het stemrecht kunnen uitoefenen. Daartoe is vereist dat de leden via het elektronisch communicatiemiddel kunnen worden geïdentificeerd.
+2. In een geval als bedoeld in het eerste lid wordt op de agenda en de mededeling van de opgeroepen ledenvergadering als de plaats van de vergadering het communicatiemiddel vermeld.
+3. In een geval als bedoeld in het eerste lid wordt ten aanzien van het vereiste dat een lid aanwezig is op de vergadering, gelezen dat een lid deelneemt aan de vergadering.
