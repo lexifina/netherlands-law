@@ -1,0 +1,2 @@
+# Artikel IV
+Na inwerkingtreding van deze wet berust de op de artikelen 3, zesde lid, 5, vijfde lid, 7, eerste lid, 8, tweede lid, 13, 17a, 20 en 23, vijfde lid, van de Handelsregisterwet 2009 BES gebaseerde algemene maatregel van bestuur op de artikelen 3, zesde lid, 5, vijfde lid, 7, eerste lid, 8, tweede lid, 13 en 20 van de Handelsregisterwet 2009 BES zoals die luiden na inwerkingtreding van deze wet.
