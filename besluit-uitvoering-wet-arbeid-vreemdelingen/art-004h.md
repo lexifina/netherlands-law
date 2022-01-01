@@ -1,5 +1,0 @@
-# Artikel 4h. Openbare gegevens omtrent opgelegde boetes en stilleggingen
-1. In aanvulling op artikel 4g, eerste lid, worden indien een onderzoek door de toezichthouder of de door Onze Minister aangewezen ambtenaren, bedoeld in de artikelen 14, eerste lid, en 19a, eerste lid, van de wet, wordt gevolgd door een besluit tot het opleggen van een bestuurlijke boete als bedoeld in artikel 19a, dan wel door een besluit tot bevel tot staken van de werkzaamheden als bedoeld in artikel 17b, tweede lid, van de wet, de volgende inspectiegegevens over dat besluit openbaar gemaakt:
-a. welk besluit is genomen, de artikelen van de wet die de grondslag daarvoor bieden en de datum van dat besluit; en
-b. welke rechtsmiddelen tegen het besluit zijn of kunnen worden aangewend en wat hiervan de uitkomst was, of dat het besluit onherroepelijk is geworden.
-2. Indien het besluit geheel of gedeeltelijk bestaat uit een bevel tot staken van de werkzaamheden, bedoeld in artikel 17b van de wet, bevat de openbaarmaking tevens de periode waarin de werkzaamheden zijn gestaakt.
