@@ -1,6 +1,6 @@
 # Artikel 252b
 1. Onverminderd het bepaalde in artikel 252a lid 6 kan een huurder ten aanzien van woonruimte die een zelfstandige woning vormt en ten aanzien waarvan een verhoging van de huurprijs op basis van artikel 252a lid 1 heeft plaatsgevonden, een voorstel als bedoeld in artikel 252 doen, strekkend tot verlaging van de huurprijs op de grond dat het huishoudinkomen, bedoeld in artikel 252a lid 2 onderdeel b, waarop een zodanige verhoging is gebaseerd, in het peiljaar is gedaald en daarmee:
 1°. gelijk is aan of lager is dan het in artikel 14 lid 1 van de Wet op de huurtoeslag betrokken genoemde bedrag, of
-2°. gelijk is aan of lager is dan het in artikel 10 lid 2 van de Uitvoeringswet huurprijzen woonruimte bedoelde bedrag.
+2°. gelijk is aan of lager is dan het op grond van artikel 10 lid 2 onder a onder 1 dan wel onder 3 van de Uitvoeringswet huurprijzen woonruimte voor zijn huishouden toepasselijke bedrag.
 2. Indien een voorstel als bedoeld in lid 1 wordt gedaan, verstrekt de huurder gegevens met betrekking tot de betrokken huishoudinkomens. Bij regeling van Onze Minister wordt bepaald welke gegevens de huurder verstrekt.
 3. Indien een overeenkomst tot wijziging van de huurprijs tot stand komt naar aanleiding van een voorstel daartoe, dat niet voldoet aan lid 2, is de verlaging van de huurprijs op basis van een voorstel als bedoeld in lid 1 niet mogelijk, tenzij blijkt dat de verhuurder niet door het verzuim is benadeeld.
