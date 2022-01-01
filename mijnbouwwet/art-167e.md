@@ -1,0 +1,3 @@
+# Artikel 167e
+1. Onverminderd een op 1 januari 2003 krachtens een overgangsrechtelijke bepaling geldende verplichting tot het verwijderen van mijnbouwwerken of het verwijderen dan wel schoon en veilig achterlaten van kabels en pijpleidingen zijn de artikelen 44 en 45 van toepassing op mijnbouwwerken, respectievelijk kabels en pijpleidingen, die op of na 1 januari 2003 buiten werking zijn gesteld.
+2. In afwijking van artikel 44, derde lid, kan Onze Minister gedurende vier jaar na de inwerkingtreding van dat artikel de termijn van een jaar, bedoeld in artikel 44, derde lid, verlengen met overeenkomstige toepassing van artikel 44b, derde lid, met dien verstande dat de termijn niet verder wordt verlengd dan tot vijf jaar na de inwerkingtreding van dat artikel.

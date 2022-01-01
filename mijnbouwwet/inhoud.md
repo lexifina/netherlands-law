@@ -32,6 +32,7 @@
 #### § 5.2.1. Algemeen
 #### § 5.2.2. Deelneming in opsporingswerkzaamheden
 #### § 5.2.3. Deelneming in mijnbouwwerkzaamheden
+#### § 5.2.4. Financiële zekerheid verwijderen of hergebruiken mijnbouwwerken
 ### Afdeling 5.3. Afdrachten in verband met andere vergunningen dan die tot het opsporen en het winnen van koolwaterstoffen
 ### Afdeling 5.4. Het stellen van zekerheid
 ### Afdeling 5.5. Uitvoeringsregels

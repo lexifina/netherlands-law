@@ -1,0 +1,5 @@
+# Artikel 44b
+1. Als een mijnbouwwerk in aanmerking komt voor geheel of gedeeltelijk hergebruik of verwijdering tezamen met andere mijnbouwwerken kan Onze Minister tijdelijk ontheffing verlenen van de verplichting tot het overleggen van een verwijderingsplan en de verplichting tot verwijderen van het mijnbouwwerk. De ontheffing kan onder beperkingen worden verleend en aan de ontheffing kunnen voorschriften worden verbonden.
+2. Als Onze Minister verwijdering van het mijnbouwwerk tezamen met andere mijnbouwwerken of geheel of gedeeltelijk hergebruik van het mijnbouwwerk met het oogmerk waarvoor de ontheffing is verleend niet meer doelmatig acht, kan Onze Minister de ontheffing wijzigen of intrekken.
+3. Als Onze Minister de ontheffing intrekt, stelt Onze Minister een termijn voor het overleggen van een verwijderingsplan en kan Onze Minister een termijn stellen voor het verwijderen van het mijnbouwwerk.
+4. Onder hergebruik als bedoeld in het eerste lid wordt mede verstaan het opnieuw gebruiken van het mijnbouwwerk voor het doel waarvoor het mijnbouwwerk is opgericht.

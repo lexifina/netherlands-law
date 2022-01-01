@@ -1,0 +1,7 @@
+# Artikel 97d
+1. Als één natuurlijke persoon of rechtspersoon een vergunning houdt, brengen deze persoon en de vennootschap een overeenkomst tot stand die strekt tot het begeleiden, bewaken en monitoren van de financiële zekerheid voor de nakoming van verplichtingen als bedoeld in de artikelen 44, tweede lid, en 45, tweede en vierde lid.
+2. Als twee of meer natuurlijke personen of rechtspersonen de vergunning gezamenlijk houden, brengen deze personen onderling een overeenkomst tot stand die strekt tot het stellen van financiële zekerheid voor de nakoming van ieders aandeel in de verplichtingen, bedoeld in de artikelen 44, tweede lid, en 45, tweede en vierde lid.
+3. De personen, bedoeld in het tweede lid, en de vennootschap brengen gezamenlijk een overeenkomst tot stand die strekt tot het begeleiden, bewaken en monitoren van de uitvoering van de overeenkomst, bedoeld in het tweede lid.
+4. Onze Minister kan bij ministeriële regeling regels stellen met betrekking tot de inhoud van overeenkomsten als bedoeld in het eerste, tweede en derde lid, en daarmee verband houdende overeenkomsten tot het stellen van zekerheden.
+5. Als personen een overeenkomst als bedoeld in het eerste, tweede of derde lid sluiten, die afwijkt van de regels, bedoeld in het vierde lid, behoeft de overeenkomst instemming van Onze Minister.
+6. Ontbinding van een overeenkomst komt niet tot stand dan na instemming van Onze Minister.
