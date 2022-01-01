@@ -2,7 +2,7 @@
 1. De belasting over een loontijdvak van een jaar wordt bepaald aan de hand van de navolgende tabel (tarieftabel).
 Bij een belastbaar loon van meer dan | maar niet meer dan | bedraagt de belasting het in kolom III vermelde bedrag, vermeerderd met het bedrag dat wordt berekend door het in kolom IV vermelde percentage te nemen van het gedeelte van het belastbare loon dat het in kolom I vermelde bedrag te boven gaat
 I | II | III | IV
-– | € 35.129 | – | 9,45%
-€ 35.129 | € 68.507 | € 3.319 | 37,10%
-€ 68.507 | – | € 15.702 | 49,50%
+– | € 35.472 | – | 9,42%
+€ 35.472 | € 69.398 | € 3.341 | 37,07%
+€ 69.398 | – | € 15.917 | 49,50%
 2. De in het eerste lid vermelde bedragen worden bij het begin van het kalenderjaar van rechtswege vervangen door de bedragen die krachtens artikel 10.1 van de Wet inkomstenbelasting 2001 worden vastgesteld ter vervanging van de in artikel 2.10, eerste lid, van die wet vermelde bedragen.
