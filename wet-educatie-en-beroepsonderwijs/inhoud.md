@@ -14,7 +14,8 @@
 ### Titel 7. Contractactiviteiten
 ## Hoofdstuk 2. Planning en bekostiging
 ### Titel 1. Planning
-### Titel Ib. Fusietoets
+#### § 1. Algemene bepalingen
+#### § 2. Fusietoetsprocedure
 ### Titel 2. Bekostiging beroepsonderwijs
 #### § 1. Bekostiging
 #### § 2. Grondslag vermindering bekostiging vbo-groen in een AOC in verband met passend onderwijs
@@ -24,11 +25,12 @@
 ### Titel 5. Begroting, verslaglegging en gegevensverstrekking
 #### § 1. Instellingen voor beroepsonderwijs en educatie
 #### § 1a. Verantwoording middelen voortgezet algemeen volwassenenonderwijs
-### TITEL 6. SCHOLENGEMEENSCHAP ROC OF AOC MET SCHOOL VOOR VOORTGEZET ONDERWIJS; VOORSCHRIFTEN T.A.V. VBO IN AOC
+### Titel 6. Verticale scholengemeenschap
 ### Titel 6a. Samenwerking met VO-scholen ter bevordering van doelmatig en doeltreffend onderwijs
 ### Titel 6b. Examinering VSO-leerlingen
 ### Titel 7. Stimuleringsmiddelen voor educatie en beroepsonderwijs en voor afstemming onderwijs-arbeidsmarkt
 ### TITEL 8. WAARBORGFONDS EN INVESTERINGEN IN GEBOUWEN EN TERREINEN
+## Hoofdstuk 3. Bestuur
 ## Hoofdstuk 4. Personeel
 ### Titel 1. Personeel van instellingen voor educatie en beroepsonderwijs
 #### § 1. Formatie; rechtspositie
@@ -73,11 +75,6 @@
 ### Titel 3. Reglement studentenraad
 ### Titel 4. Geschillenregeling en procesbevoegdheid
 ### Titel 5. Afwijkingen
-## Hoofdstuk 9. Het bestuur
-### Titel 1. De instellingen voor educatie en beroepsonderwijs
-#### § 1. Bevoegd gezag; bestuursoverdracht
-#### § 2. Bestuur en inrichting van de instellingen
-### Titel 2. De Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven
 ## Hoofdstuk 10. Beroep bij de bestuursrechter
 ## Hoofdstuk 11. Sancties
 ### Paragraaf 1. Inhouden en opschorten bekostiging; strafbepaling

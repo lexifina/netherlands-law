@@ -28,5 +28,3 @@ e. de rol van studenten en vavo-studenten bij de interne kwaliteitszorg en zelfe
 f. de te verstrekken informatie aan aspirant-studenten van beroepsopleidingen, bedoeld in artikel 6.1.3a;
 g. de regeling die het bevoegd gezag vaststelt voor de selectiecriteria en de selectieprocedure, bedoeld in artikel 8.2.2a.
 5. In het reglement kunnen andere, nader te omschrijven onderwerpen worden opgenomen ten aanzien waarvan een van de bijzondere bevoegdheden aan de studentenraad wordt toegekend.
-6. De studentenraad heeft adviesbevoegdheid met betrekking tot een voorgenomen beslissing van de raad van toezicht ten aanzien van de profielen, bedoeld in artikel 9.1.4, vijfde lid. De studentenraad heeft eveneens adviesbevoegdheid met betrekking tot benoeming of ontslag van de leden van het college van bestuur, bedoeld in artikel 9.1.4, derde lid, onderdeel a.
-7. Alvorens de raad van toezicht tot benoeming of ontslag van een lid van het college van bestuur overgaat, wordt de studentenraad vertrouwelijk gehoord over de voorgenomen beslissing tot benoeming of ontslag. Het horen geschiedt op een zodanig tijdstip dat het van wezenlijke invloed kan zijn op de besluitvorming.
