@@ -48,7 +48,7 @@ Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers
 Wet financiering sociale verzekeringen, voor zover het betreft een besluit van de Sociale verzekeringsbank of het Uitvoeringsinstituut werknemersverzekeringen
 Wet gemeentelijke schuldhulpverlening
 Wet gevolgen brutering uitkeringsregelingen
-Wet inburgering
+Wet inburgering 2021
 Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen
 Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers
 Wet inkomensvoorziening oudere werklozen

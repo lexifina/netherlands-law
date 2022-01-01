@@ -2,7 +2,7 @@
 1. Het college verlaagt de bijstand, overeenkomstig het negende, tiende en elfde lid, indien naar zijn oordeel een redelijk vermoeden bestaat dat belanghebbende niet of niet in voldoende mate de Nederlandse taal beheerst, noodzakelijk voor het naar vermogen verkrijgen, het aanvaarden en het behouden van algemeen geaccepteerde arbeid.
 2. Het college neemt een toets bij de belanghebbende af, indien belanghebbende:
 a. niet gedurende acht jaar Nederlandstalig onderwijs heeft gevolgd;
-b. geen inburgeringsdiploma als bedoeld in artikel 7, eerste lid, onderdeel a, van de Wet inburgering kan overleggen; en
+b. geen diploma voor het inburgeringsexamen dan wel de onderwijsroute, bedoeld in artikel 6, tweede lid, van de Wet inburgering 2021 kan overleggen; en
 c. geen ander document kan overleggen waaruit blijkt dat hij de vaardigheden in de Nederlandse taal beheerst.
 Indien de omstandigheden, bedoeld in de eerste zin, onderdelen a, b en c aanwezig zijn ten tijde van de aanvraag van bijstand, wordt na ontvangst van die aanvraag een toets afgenomen binnen een door het college te bepalen termijn die ten hoogste acht weken bedraagt.
 3. Indien uit de uitkomst van de toets, bedoeld in het tweede lid, blijkt dat belanghebbende niet of niet in voldoende mate de vaardigheden in de Nederlandse taal beheerst, wordt het redelijk vermoeden, bedoeld in het eerste lid, geacht aanwezig te zijn.

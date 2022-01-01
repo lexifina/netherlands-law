@@ -12,6 +12,7 @@ c. al of niet tezamen met de gezinsleden bij wie hij verblijft, niet zelfstandig
 d. bij onherroepelijk geworden rechterlijk vonnis is veroordeeld wegens een misdrijf waartegen een gevangenisstraf van drie jaren of meer is bedreigd, dan wel hem ter zake de maatregel, bedoeld in artikel 37a van het Wetboek van Strafrecht, is opgelegd;
 e. een gevaar vormt voor de nationale veiligheid;
 f. niet beschikt over een toereikende ziektekostenverzekering voor hemzelf en de te zijnen laste komende gezinsleden; of
-g. het examen, bedoeld in artikel 7, eerste lid, onderdeel a van de Wet inburgering, of een diploma, certificaat of ander document als bedoeld in artikel 5, eerste lid, onderdeel c, van die wet niet heeft behaald.
+g. niet heeft voldaan aan het bij of krachtens algemene maatregel van bestuur vast te stellen inburgeringsvereiste.
 3. Voor de berekening van de periode bedoeld in het tweede lid, onder a, wordt verblijf als bedoeld in het eerste lid en verblijf als bedoeld in het tweede lid, onder b, niet meegeteld, met uitzondering van verblijf voor studie of beroepsopleiding, dat voor de helft wordt meegeteld.
-4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de toepassing van het eerste en tweede lid.
+4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de toepassing van het eerste lid en het tweede lid, onderdelen a tot en met f.
+5. Bij of krachtens de algemene maatregel van bestuur, bedoeld in het tweede lid, onderdeel g, worden in ieder geval regels gesteld omtrent de inhoud van het inburgeringstraject en het te behalen niveau, alsmede omtrent de vrijstellingen en ontheffingen.
