@@ -101,7 +101,6 @@
 ## Hoofdstuk 15. Inhouding bekostiging, schadevergoeding en strafbepalingen
 ## Hoofdstuk 16. Overgangsvoorzieningen onder meer in verband met de invoering van de wet en voorschriften in verband met fusie, omzetting, splitsing, verplaatsing en bestuursoverdracht
 ### Paragraaf 1. Onderwijsbevoegdheden en rechtspositie
-### Paragraaf 2. Onderwijs en vooropleidingseisen
 ### Paragraaf 3. Getuigschriften en titulatuur
 ### Paragraaf 4. Doctoraten Internationaal Instituut voor Sociale Studiën
 ### Paragraaf 5. Fusies, omzetting, splitsing, verplaatsing en bestuursoverdracht hogescholen
