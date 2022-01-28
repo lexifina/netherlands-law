@@ -10,6 +10,7 @@ Drinkwaterwet: artikel 50, derde lid, in samenhang met artikel 70a van de Mededi
 Elektriciteitswet 1998: de artikelen 77h en 77i
 Gaswet: de artikelen 16, 60ac en 60ad
 Gezondheids- en welzijnswet voor dieren: artikel 120b, eerste lid
+Handelsregisterwet 2007: de artikelen 47a en 47b
 Instellingswet Autoriteit Consument en Markt
 Invoerings- en aanpassingswet Pensioenwet
 Loodsenwet, met uitzondering van de artikelen 21, derde lid, 27b, vierde lid, 27d, 27f, 27h en 27l
