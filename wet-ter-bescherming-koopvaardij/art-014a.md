@@ -1,0 +1,6 @@
+# Artikel 14a
+1. Gelet op artikel 10 van de Algemene verordening gegevensbescherming, kan Onze Minister persoonsgegevens van strafrechtelijke aard als bedoeld in paragraaf 3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming verwerken, voor zover die verwerking noodzakelijk is, in het kader van de betrouwbaarheidstoetsing van de onderneming bij het verlenen van een vergunning.
+2. Gelet op de artikelen 9, tweede lid, onder g, en 10 van de Algemene verordening gegevensbescherming, kan Onze Minister gezondheidsgegevens als bedoeld in artikel 4, onderdeel 15 van de Algemene verordening gegevensbescherming en persoonsgegevens van strafrechtelijke aard als bedoeld in paragraaf 3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming verwerken, voor zover die verwerking noodzakelijk is, in het kader van:
+a. het toezicht op de naleving en handhaving van de bij en krachtens deze wet gestelde regels en de aan de vergunning verbonden voorschriften;
+b. de samenwerking en uitwisseling van gegevens met buitenlandse instanties overeenkomstig artikel 17b.
+3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over het bewaren en vernietigen van de in het eerste en tweede lid bedoelde persoonsgegevens en over andere waarborgen.
