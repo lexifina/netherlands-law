@@ -1,0 +1,2 @@
+# Artikel 14k. Meldplicht
+Artikel 2.14 van de Regeling op het specifiek cultuurbeleid is van overeenkomstige toepassing. Onverminderd het derde lid van dat artikel, doet de subsidieontvanger in elk geval onverwijld een melding aan de minister, indien aan hem na subsidieverlening op grond van dit hoofdstuk tevens een coulancehalve subsidie als bedoeld in artikel 14i, tweede lid, door een fonds wordt verstrekt.

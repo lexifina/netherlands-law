@@ -1,0 +1,9 @@
+# Artikel 22d7. Verplichting: overeenkomstige toepassing voorschriften
+1. Bij de subsidieverstrekking ten laste van het budget dat op grond van deze paragraaf ter beschikking wordt gesteld, past het bestuur van een fonds in elk geval het navolgende overeenkomstig toe:
+a. de ambtshalve verstrekking, bedoeld in artikel 4;
+b. de rekenregel, bedoeld in artikel 14g9;
+c. de subsidievoorwaarde, bedoeld in artikel 14g10;
+d. ingeval van overschrijding van het in het kader van zijn subsidieverstrekking vast te stellen subsidieplafond, de methode van herverdeling, bedoeld in artikel 14g11, tweede lid; en
+e. de hardheidsclausule, bedoeld in artikel 28.
+2. Het bestuur van een fonds voorziet verder in een wijze van verantwoording door de fondsinstellingen die onder hem ressorteren, die zo veel mogelijk aansluit bij de voorschriften daaromtrent die van toepassing zijn op de lopende subsidie.
+3. Op subsidieverstrekking door het bestuur van Stichting Nederlands Fonds voor de Film aan productiemaatschappijen als bedoeld in artikel 1, eerste lid, onderdeel c, onder 2°, sub iii, is het eerste lid slechts van toepassing voor zover een en ander zich daarvoor leent.

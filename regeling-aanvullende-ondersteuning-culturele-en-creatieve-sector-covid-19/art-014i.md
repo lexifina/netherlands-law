@@ -1,0 +1,3 @@
+# Artikel 14i. Hoogte subsidiebedrag
+1. De subsidie bedraagt 50 procent van het jaarlijkse subsidiebedrag dat de instelling voor de periode 2021–2024 heeft aangevraagd op grond van artikel 4a van de Wet op het specifiek cultuurbeleid, onder overeenkomstige toepassing van de indexering, bedoeld in artikel 2.10, tweede lid, aanhef en onderdeel a, van de Regeling op het specifiek cultuurbeleid.
+2. Voor zover door het bestuur van een fonds aan een afgewezen BIS-aanvrager met een positieve beoordeling met het oog op subsidieterugval na 2020 bij wijze van tegemoetkoming coulancehalve een subsidie wordt verstrekt, wordt het bedrag daarvan in mindering gebracht op de subsidie die de instelling ontvangt op grond van dit hoofdstuk.
