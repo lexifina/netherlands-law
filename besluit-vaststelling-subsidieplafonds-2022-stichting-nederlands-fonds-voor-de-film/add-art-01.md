@@ -1,0 +1,2 @@
+# Artikel I
+Het subsidieplafond van het Reglement Stimuleringsmaatregel Filmproductie in Nederland voor filmproducties voor het kalenderjaar 2022 is € 21.930.000,– (zegge: eenentwintig miljoen negenhonderddertig duizend euro). (€ 5.480.000,– (zegge: vijf miljoen vierhonderdtachtigduizend euro) per aanvraagronde). Per aanvraagronde worden als eerste alle internationale coproducties gehonoreerd tot maximaal 70% van het budget.
