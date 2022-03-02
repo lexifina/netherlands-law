@@ -1,2 +1,2 @@
 # Artikel 38d
-Het in artikel 13, tweede lid, van verordening 638/2004 bedoelde verslag wordt opgesteld door het CBS.
+Het in artikel 17, vierde lid, van verordening 2019/2152 bedoelde verslag wordt opgesteld door het CBS.
