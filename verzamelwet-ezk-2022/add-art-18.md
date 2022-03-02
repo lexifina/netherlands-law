@@ -1,0 +1,2 @@
+# Artikel XVIII. (Wet van 26 juni 2019 tot wijziging van de Handelsregisterwet 2007 in verband met de evaluatie van die wet, alsmede regeling van enkele andere aan het Handelsregister gerelateerde onderwerpen in het Burgerlijk Wetboek, de Handelsregisterwet 2007 en de Wet op de Kamer van Koophandel (Stb. 2019, 280))
+[Wijzigt de Wijzigingswet Burgerlijk Wetboek Boek 2, enz. (evaluatie Handelsregisterwet 2007, alsmede regeling van enkele andere aan het handelsregister gerelateerde onderwerpen).]
