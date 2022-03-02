@@ -1,0 +1,4 @@
+# Artikel 6a.4f
+1. Indien de Autoriteit Consument en Markt afspraken als bedoeld in artikel 6a.4e bindend verklaart, onderzoekt de Autoriteit Consument en Markt of het passend is krachtens artikel 6a.2 verplichtingen op te leggen, in stand te houden of in te trekken.
+2. In afwijking van het eerste lid legt de Autoriteit Consument en Markt met betrekking tot de onder de afspraken vallende elementen van een netwerk met zeer hoge capaciteit geen verplichtingen op en trekt zij eerder opgelegde verplichtingen in, indien zij afspraken als bedoeld in artikel 6a.4e, eerste lid, onderdeel b, bindend heeft verklaard en met de onderneming een overeenkomst tot mede-investering als bedoeld in dat onderdeel is gesloten.
+3. In afwijking van het tweede lid kan de Autoriteit Consument en Markt verplichtingen als bedoeld in artikel 6a.2, eerste lid, onderdeel a, opleggen of in stand houden om mededingingsproblemen op de betreffende markten aan te pakken.

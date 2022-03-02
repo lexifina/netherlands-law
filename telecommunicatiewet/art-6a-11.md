@@ -4,7 +4,7 @@
 a. de omstandigheden die zich moeten voordoen alvorens deze verplichtingen kunnen worden opgelegd, en
 b. de aard van de verplichtingen.
 3. De Autoriteit Consument en Markt trekt een besluit als bedoeld in het eerste lid in, indien:
-a. het op grond van artikel 6a.3, eerste lid, heeft bepaald dat de desbetreffende relevante onderscheidenlijk transnationale markt daadwerkelijk concurrerend is;
+a. het op grond van artikel 6a.3, eerste lid, heeft bepaald dat de desbetreffende relevante onderscheidenlijk transnationale markt niet voldoet aan de criteria, bedoeld in artikel 6a.1, vijfde lid, onderdeel a;
 b. op grond artikel 6a.3, tweede lid, is gebleken dat de onderneming als bedoeld in het eerste lid geen aanmerkelijke marktmacht meer heeft.
 4. De Autoriteit Consument en Markt trekt een besluit als bedoeld in het eerste lid tevens in, indien:
 a. er geen sprake van uitzonderlijke omstandigheden meer is, of

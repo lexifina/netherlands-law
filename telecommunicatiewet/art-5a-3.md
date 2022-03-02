@@ -1,5 +1,5 @@
 # Artikel 5a.3
 1. Een netwerkexploitant stemt in met redelijke verzoeken van aanbieders van openbare elektronische communicatienetwerken tot medegebruik van zijn fysieke infrastructuur ten dienste van de aanleg van elementen van een openbaar elektronisch communicatienetwerk met hoge snelheid.
-2. De gebruikers van bij of krachtens algemene maatregel van bestuur aan te wijzen frequentieruimte, zijn over en weer verplicht te voldoen aan redelijke verzoeken tot medegebruik van antenne-opstelpunten.
+2. Gebruikers van bij of krachtens algemene maatregel van bestuur aan te wijzen frequentieruimte en aanbieders van bijbehorende faciliteiten voldoen aan redelijke verzoeken tot medegebruik van bijbehorende faciliteiten.
 3. Aanbieders van elektronische communicatienetwerken die bestaan uit radioapparaten die geschikt zijn voor het verspreiden van programma's, alsmede aanbieders van antenne-opstelpunten die bestemd zijn om genoemde netwerken te ondersteunen, voldoen aan redelijke verzoeken tot medegebruik van antenne-opstelpunten, antennesystemen of antennes.
 4. Aanbieders van openbare elektronische communicatienetwerken zijn over en weer verplicht te voldoen aan redelijke verzoeken tot medegebruik van de fysieke infrastructuur waarop de gedoogplicht, bedoeld in hoofdstuk 5, van toepassing is.

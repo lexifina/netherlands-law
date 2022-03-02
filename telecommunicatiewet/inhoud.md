@@ -13,6 +13,7 @@
 ### § 3.6. Algemene bepalingen inzake vergunningen
 ### § 3.7. Bijzonder gebruik van frequentieruimte
 ### § 3.8. Antenne-opstelpunten, antennesystemen en antennes
+### § 3.9. Elektromagnetische velden
 ## Hoofdstuk 4. Nummerbeleid en nummerbeheer
 ## Hoofdstuk 5. Aanleg, instandhouding en opruiming van kabels
 ### § 5.1. De gedoogplicht
@@ -27,7 +28,9 @@
 ### § 3. Coördinatie van de uitvoering van civiele werken
 ### § 4. Wederzijdse verantwoordelijkheden bij medegebruik of coördinatie
 ### § 5. Grondslag voor nadere regels
-## Hoofdstuk 6. Interoperabiliteit van diensten en vertrouwelijkheid van informatie
+## Hoofdstuk 5b. Colocatie en gedeeld gebruik
+## Hoofdstuk 5c. Medegebruik van voorzieningen ten behoeve van draadloze toegangspunten met klein bereik
+## Hoofdstuk 6. Interoperabiliteit, interconnectie en toegang
 ## Hoofdstuk 6a. Verplichtingen voor ondernemingen die beschikken over een aanmerkelijke marktmacht
 ### § 6a.1. Vaststellen van aanmerkelijke marktmacht
 ### § 6a.2. Met toegang verband houdende verplichtingen

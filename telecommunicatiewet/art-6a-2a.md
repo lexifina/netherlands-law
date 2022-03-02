@@ -1,0 +1,4 @@
+# Artikel 6a.2a
+1. Indien de Autoriteit Consument en Markt op grond van artikel 6a.2 heeft vastgesteld dat een onderneming beschikt over aanmerkelijke marktmacht op een relevante markt onderscheidenlijk een transnationale markt, kan de Autoriteit Consument en Markt deze onderneming ook aanwijzen als een onderneming met aanmerkelijke marktmacht op een nauw verwante markt als de koppeling tussen beide markten zodanig is dat de marktmacht op de relevante markt onderscheidenlijk transnationale markt zo gebruikt kan worden op de nauw verwante markt dat de marktmacht van die onderneming op de nauw verwante markt wordt vergroot.
+2. De Autoriteit Consument en Markt legt een onderneming als bedoeld in het eerste lid, voor zover passend, verplichtingen als bedoeld in de artikelen 6a.7 tot en met 6a.10 op.
+3. De artikelen 6a.2. eerste lid, onderdelen b en c, en derde lid, 6a.3, 6a.4 en 6a.5 zijn van overeenkomstige toepassing op een besluit als bedoeld in het tweede lid.

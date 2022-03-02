@@ -1,0 +1,6 @@
+# Artikel 6a.4d
+1. Een onderneming waarvan de Autoriteit Consument en Markt op grond van artikel 6a.2, eerste lid, heeft vastgesteld dat die beschikt over een aanmerkelijke marktmacht informeert de Autoriteit Consument tijdig voordat zij delen van het netwerk waarop verplichtingen op grond van de artikelen 6a.4a, 6a.4b, 6a.4c, 6a.4e, 6a.4f of 6a.6 tot en met 6a.11 rusten buiten bedrijf stelt of vervangt door nieuwe infrastructuur.
+2. De onderneming, bedoeld in het eerste lid, verstrekt in ieder geval informatie over de planning, waaronder de te hanteren overgangstermijn, en voorwaarden voor de overgang.
+3. De Autoriteit Consument en Markt kan verplichtingen als bedoeld in het eerste lid geheel of gedeeltelijk intrekken ten aanzien van netwerkelementen die buiten bedrijf worden gesteld of worden vervangen teneinde de concurrentie en de rechten van de eindgebruikers zeker te stellen, indien uit een marktanalyse blijkt dat de onderneming, bedoeld in het eerste lid:
+a. passende voorwaarden voor migratie tot stand heeft gebracht, onder meer door een alternatief toegangsproduct van ten minste vergelijkbare kwaliteit ter beschikking te stellen waarmee toegang vragende partijen dezelfde eindgebruikers kunnen bereiken als met de oorspronkelijke infrastructuur; en
+b. voldoet aan de planning en voorwaarden, bedoeld in het tweede lid.

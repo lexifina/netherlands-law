@@ -1,0 +1,4 @@
+# Artikel 5c.2
+1. Een publiekrechtelijke rechtspersoon stemt in met redelijke verzoeken van aanbieders van openbare elektronische communicatienetwerken en -diensten en van aanbieders van bijbehorende faciliteiten om medegebruik van onder haar zeggenschap staande publieke infrastructuur ten dienste van de aanleg en exploitatie van draadloze toegangspunten met klein bereik.
+2. Een publiekrechtelijke rechtspersoon kan voor het medegebruik van onder haar zeggenschap staande publieke infrastructuur een marktconforme vergoeding vragen.
+3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de fysieke en technische kenmerken van draadloze toegangspunten met klein bereik, bedoeld in het eerste lid, of over de hoogte van de vergoeding, bedoeld in het tweede lid.

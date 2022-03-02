@@ -1,8 +1,6 @@
 # Artikel 11a.2
-1. Aanbieders van openbare elektronische communicatienetwerken en openbare elektronische communicatiediensten stellen Onze Minister onverwijld in kennis van:
-a. een inbreuk op de veiligheid,
-b. een verlies van integriteit,
-waardoor de continuïteit van openbare elektronische communicatienetwerken en openbare elektronische communicatiediensten in belangrijke mate werd onderbroken.
-2. Aanbieders van openbare elektronische communicatienetwerken en openbare elektronische communicatiediensten verstrekken onze Minister op zijn verzoek alle informatie die nodig is om de veiligheid en integriteit van hun netwerken en diensten te beoordelen.
-3. Indien openbaarmaking in het algemeen belang is, kan Onze Minister een inbreuk op de veiligheid en een verlies van integriteit, bedoeld in het eerste lid, openbaar maken of de aanbieder verplichten tot openbaarmaking.
-4. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gegeven met betrekking tot de in het eerste lid bedoelde kennisgeving, het verstrekken van de in het tweede lid bedoelde informatie, en de in het derde lid bedoelde openbaarmaking, en kunnen inbreuken of verliezen als bedoeld in het eerste lid, onderdelen a en b, worden aangewezen waarvan Onze Minister in ieder geval in kennis gesteld moet worden.
+1. Aanbieders van openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten stellen Onze Minister onverwijld in kennis van beveiligingsincidenten met aanzienlijke gevolgen voor het functioneren van hun netwerken of diensten.
+2. Aanbieders van openbare elektronische communicatienetwerken en openbare elektronische communicatiediensten verstrekken onze Minister op zijn verzoek alle informatie die nodig is om de beveiliging van hun netwerken of diensten te beoordelen.
+3. Indien openbaarmaking in het algemeen belang is, kan Onze Minister een beveiligingsincident, bedoeld in het eerste lid, openbaar maken of de aanbieder verplichten tot openbaarmaking.
+4. In geval van een specifieke en aanzienlijke dreiging van een beveiligingsincident voor openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten informeert de betrokken aanbieder zijn gebruikers die de gevolgen van die dreiging kunnen ondervinden, over mogelijke beschermingsmaatregelen of oplossingen die de gebruikers kunnen toepassen. Waar passend informeert de aanbieder de gebruikers tevens over de dreiging zelf.
+5. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzien van het bepaalde in dit artikel.
