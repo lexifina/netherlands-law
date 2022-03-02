@@ -13,6 +13,7 @@ Crisis- en herstelwet:
 a. artikel 2.3, voor zover het betreft een besluit tot vaststelling van een bestemmingsplan
 b. artikel 2.10, eerste lid
 Experimentenwet onderwijs
+Gedelegeerde Verordening (EU) 2019/331 van de Commissie van 19 december 2018 tot vaststelling van een voor de hele Unie geldende overgangsregeling voor de geharmoniseerde kosteloze toewijzing van emissierechten overeenkomstig artikel 10bis van Richtlijn 2003/87/EG van het Europees Parlement en de Raad (PbEU 2019, L 59): voor zover het besluiten betreft van de Nederlandse emissieautoriteit, genoemd in artikel 2.1 van de Wet milieubeheer
 Gemeentewet:
 a. artikel 85, tweede lid
 b. artikel 124, voor zover het beroep wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester
@@ -47,9 +48,10 @@ b. de artikelen 7, eerste lid, 9, eerste lid, en 15, tweede lid, onder c
 Tijdelijke experimentenwet stembiljetten en centrale stemopneming: artikelen 4
 Tijdelijke wet aanwijzing bèta-opleidingen: artikel 2, eerste lid
 Tracéwet: de artikelen 9, eerste lid, 20, tweede lid, en 21, tweede lid, onder c
+Uitvoeringsverordening (EU) 2018/2066 van de Commissie van 19 december 2018 inzake de monitoring en rapportage van de emissies van broeikasgassen overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad (PbEU 2018, L 334): voor zover het besluiten betreft van de Nederlandse emissieautoriteit, genoemd in artikel 2.1 van de Wet milieubeheer
+Uitvoeringsverordening (EU) 2018/2067 van de Commissie van 19 december 2018 inzake de verificatie van gegevens en de accreditatie van verificateurs krachtens Richtlijn 2003/87/EG van het Europees Parlement en de Raad (PbEU 2018, L 334): voor zover het besluiten betreft van de Nederlandse emissieautoriteit, genoemd in artikel 2.1 van de Wet milieubeheer
+Uitvoeringsverordening (EU) 2019/1842 van de Commissie van 31 oktober 2019 tot vaststelling van bepalingen ter uitvoering van Richtlijn 2003/87/EG van het Europees Parlement en de Raad wat de verdere regelingen voor de aanpassingen van de kosteloze toewijzing van emissierechten als gevolg van veranderingen in het activiteitsniveau betreft (PbEU 2019, L 282): voor zover het besluiten betreft van de Nederlandse emissieautoriteit, genoemd in artikel 2.1 van de Wet milieubeheer
 Verordening (EG) nr. 1013/2006 van het Europees Parlement en de Raad van 14 juni 2006 betreffende de overbrenging van afvalstoffen (PbEU 2006, L 190)
-Verordening (EU) nr. 600/2012 van de Commissie van 21 juni 2012 inzake de verificatie van broeikasgasemissie- en tonkilometerverslagen en de accreditatie van verificateurs krachtens Richtlijn 2003/87/EG van het Europees Parlement en de Raad (PbEU 2012, L181):
-artikel 31, eerste lid, voor zover het besluiten betreft van de Nederlandse emissieautoriteit, genoemd in artikel 2.1 van de Wet milieubeheer
 Verordening (EU) nr. 601/2012 van de Commissie van 21 juni 2012 inzake de monitoring en rapportage van de emissies van broeikasgassen overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad (PbEU 2012, L181):
 voor zover het besluiten betreft van de Nederlandse emissieautoriteit, genoemd in artikel 2.1 van de Wet milieubeheer
 Uitvoeringswet verordening Europees burgerinitiatief: artikel 2, aanhef en onder c

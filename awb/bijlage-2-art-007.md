@@ -25,7 +25,7 @@ Telecommunicatiewet, met inbegrip van de verordeningen genoemd in artikel 18.2a,
 a. de artikelen 3.5, 3.5a, 3.5b, 3.22, 15.2, derde lid, 15.4, vierde lid, en 18.9, eerste en tweede lid
 b. alsmede, voor zover het betreft een besluit van de Autoriteit Consument en Markt:
 1. hoofdstuk 6, tenzij beroep kon worden ingesteld voor de inwerkingtreding van de Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002
-2. de hoofdstukken 5a, 6a, 6b en 12
+2. de hoofdstukken 5a, 5c, 6a, 6b en 12
 3. hoofdstuk 15, met uitzondering van de artikelen 15.2, 15.2a en 15.4.
 Uitvoeringswet EU-zeehavenverordening: artikel 9, eerste lid
 Verordening (EU) nr. 806/2014 van het Europees parlement en de Raad van 15 juli 2014 tot vaststelling van eenvormige regels en een eenvormige procedure voor de afwikkeling van kredietinstellingen en bepaalde beleggingsondernemingen in het kader van een gemeenschappelijk afwikkelingsmechanisme en een gemeenschappelijk bankenafwikkelingsfonds en tot wijziging van Verordening (EU) nr. 1093/2010 van het Europees parlement en de Raad (PbEU 2014, L 225), met uitzondering van de artikelen 16, 18 en 21

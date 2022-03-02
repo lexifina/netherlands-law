@@ -26,7 +26,7 @@ Telecommunicatiewet, met inbegrip van de verordeningen genoemd in artikel 18.2a,
 a. de artikelen 3.5, 3.5a, 3.5b, 3.22, 15.2, derde lid, 15.4, vierde lid, en 18.9, eerste en tweede lid
 b. alsmede, voor zover het betreft een besluit van de Autoriteit Consument en Markt:
 1. hoofdstuk 6, tenzij beroep kon worden ingesteld voor de inwerkingtreding van de Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002
-2. de hoofdstukken 5a, 6a, 6b en 12
+2. de hoofdstukken 5a, 5c, 6a, 6b en 12
 3. hoofdstuk 15, met uitzondering van de artikelen 15.2, 15.2a en 15.4.
 Uitvoeringswet EU-zeehavenverordening: artikel 9, eerste lid
 Verordening (EU) nr. 806/2014 van het Europees parlement en de Raad van 15 juli 2014 tot vaststelling van eenvormige regels en een eenvormige procedure voor de afwikkeling van kredietinstellingen en bepaalde beleggingsondernemingen in het kader van een gemeenschappelijk afwikkelingsmechanisme en een gemeenschappelijk bankenafwikkelingsfonds en tot wijziging van Verordening (EU) nr. 1093/2010 van het Europees parlement en de Raad (PbEU 2014, L 225), met uitzondering van de artikelen 16, 18 en 21
@@ -36,7 +36,7 @@ Warmtewet: artikel 18
 Wet aanwijzing nationale accreditatie-instantie: hoofdstuk 3
 Wet bekostiging financieel toezicht
 Wet bestrijding maritieme ongevallen
-Wet bestuurlijke boete meldingsplichten door ministers verstrekte subsidies, voor zover de boete is opgelegd ter zake van het niet voldoen aan een bijzondere meldingsplicht die is verbonden aan een krachtens de Kaderwet EZ-subsidies verstrekte subsidie
+Wet bestuurlijke boete meldingsplichten door ministers verstrekte subsidies, voor zover de boete is opgelegd ter zake van het niet voldoen aan een bijzondere meldingsplicht die is verbonden aan een krachtens de Kaderwet EZK- en LNV-subsidies verstrekte subsidie
 Wet beveiliging netwerk- en informatiesystemen, voor zover het een besluit betreft dat betrekking heeft op een aanbieder van een essentiële dienst in de sectoren energie, digitale infrastructuur, bankwezen, infrastructuur voor de financiële markt en spoor of op een digitaledienstverlener
 Wet dieren: artikel 8.7
 Wet financiële betrekkingen buitenland 1994

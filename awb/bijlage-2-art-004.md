@@ -3,6 +3,7 @@ Tegen een besluit, genomen op grond van een in dit artikel genoemd voorschrift o
 Een besluit van de Sociaal-Economische Raad of van de Kamer van Koophandel, genoemd in artikel 2 van de Wet op de Kamer van Koophandel, met uitzondering van:
 a. een besluit op grond van de Wet openbaarheid van bestuur
 b. een besluit ten aanzien van een persoon met betrekking tot diens in artikel 3 van de Ambtenarenwet 2017 bedoelde hoedanigheid
+c. een besluit op grond van de Algemene verordening gegevensbescherming
 Algemene douanewet: een beschikking ter zake van landbouwrestituties
 Bankwet 1998: artikel 12, vierde lid, voor zover het een schorsing of ontheffing van een directeur betreft
 Burgerlijk Wetboek, Boek 2, voor zover het besluit is bekendgemaakt voor 1 juli 2011:
@@ -21,7 +22,7 @@ Gaswet, met inbegrip van een besluit van de Autoriteit Consument en Markt, genom
 Gemeentewet: artikel 125, voor zover het betreft een besluit dat betrekking heeft op de handhaving van het bepaalde bij of krachtens de Winkeltijdenwet
 Gezondheids- en welzijnswet voor dieren, met uitzondering van artikel 120b, eerste lid
 Hamsterwet
-Kaderwet EZ-subsidies
+Kaderwet EZK- en LNV-subsidies
 Landbouwkwaliteitswet
 Landbouwwet: de artikelen 13, 15, 17 tot en met 22 en 26
 Loodsenwet: de artikelen 21, derde lid, 27b, vierde lid, 27d, 27f, 27h en 27l
@@ -37,7 +38,7 @@ Scheepvaartverkeerswet: de artikelen 14a, tweede lid, eerste volzin, en 15ba, ee
 Spoorwegwet: hoofdstuk 5, paragraaf 2, en artikel 71, tweede lid
 Telecommunicatiewet, voor zover het betreft een besluit van de Autoriteit Consument en Markt, genomen op grond van:
 a. hoofdstuk 6, tenzij beroep kon worden ingesteld voor de inwerkingtreding van de Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002
-b. de hoofdstukken 5a, 6a, 6b en 12
+b. de hoofdstukken 5a, 5c, 6a, 6b en 12
 c. hoofdstuk 15, met uitzondering van de artikelen 15.2, 15.2a en 15.4
 Uitvoeringswet EU-zeehavenverordening: artikel 7, voor zover het betreft een besluit van de Autoriteit Consument en Markt
 Uitvoeringswet verordening Europese coöperatieve vennootschap: het verzet, bedoeld in de artikelen 6, eerste lid, en 9
