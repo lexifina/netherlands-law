@@ -1,0 +1,2 @@
+# Artikel VIIa. Justitiële documentatie noodverordeningen covid-19
+In afwijking van artikel 6 van de Wet justitiële en strafvorderlijke gegevens worden justitiële gegevens betreffende zaken waarin een geldboete is opgelegd voor overtreding van artikel 443 van het Wetboek van Strafrecht, voor zover het een overtreding betreft in verband met maatregelen genomen ter bestrijding van de epidemie van covid-19, of een directe dreiging daarvan, zo snel mogelijk na de inwerkingtreding van deze wet vernietigd.

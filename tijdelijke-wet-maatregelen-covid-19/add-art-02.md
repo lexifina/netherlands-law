@@ -1,0 +1,2 @@
+# Artikel II. Overgangsbepaling bij verval artikel 1 Tijdelijke wet COVID-19 Justitie en Veiligheid
+Indien artikel 1 van de Tijdelijke wet COVID-19 Justitie en Veiligheid is vervallen op het tijdstip waarop deze wet in werking treedt of vervalt op een later tijdstip, blijft dat artikel vanaf dat tijdstip van toepassing op de procedure, bedoeld in artikel 58f, tweede lid, tweede zin, van de Wet publieke gezondheid.

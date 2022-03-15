@@ -1,0 +1,2 @@
+# Artikel VIIb. Tussentijdse verantwoording voorzitter veiligheidsregio
+Binnen een maand na inwerkingtreding van deze wet brengt de voorzitter van de veiligheidsregio een verslag uit als bedoeld in artikel 40, eerste lid, van de Wet veiligheidsregio's over het verloop van de gebeurtenissen en de besluiten die hij heeft genomen voor de bestrijding van de epidemie van covid-19, of een directe dreiging daarvan, tot het moment van die inwerkingtreding. Artikel 40, tweede tot en met zesde lid, van de Wet veiligheidsregio's is van overeenkomstige toepassing.

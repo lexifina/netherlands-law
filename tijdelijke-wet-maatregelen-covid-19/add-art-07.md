@@ -1,0 +1,2 @@
+# Artikel VII. Anterieure gemeentelijke verordeningen en eilandsverordeningen
+Artikel 122 van de Gemeentewet en artikel 216 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba zijn niet van toepassing op de bepalingen van gemeentelijke verordeningen onderscheidenlijk eilandsverordeningen die voorzien in bestrijding van de epidemie, bedoeld in hoofdstuk Va van de Wet publieke gezondheid, en niet met het bepaalde bij of krachtens dat hoofdstuk in strijd zijn.
