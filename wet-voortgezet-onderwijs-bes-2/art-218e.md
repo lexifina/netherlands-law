@@ -1,0 +1,2 @@
+# Artikel 218e. Evaluatie doorstroom naar havo en vwo
+Onze Minister zendt binnen vijf jaar na de inwerkingtreding van de Wet van 8 april 2020 tot wijziging van de Wet op het voortgezet onderwijs en de Wet voortgezet onderwijs BES in verband met het faciliteren van een gelijke kans op doorstroom naar het hoger algemeen voortgezet onderwijs en het voorbereidend wetenschappelijk onderwijs (Stb. 2020, 121) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van artikel 64a in de praktijk.

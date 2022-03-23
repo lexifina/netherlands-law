@@ -1,0 +1,2 @@
+# Artikel 214a. Continueren oude bepalingen voor zover de nieuwe nog niet in werking treden
+Tot een bij koninklijk besluit te bepalen tijdstip blijven de bepalingen van de Wet voortgezet onderwijs BES zoals die is komen te luiden op 10 oktober 2010, van kracht voor zover de regeling van de daarin opgenomen onderwerpen niet is vervangen door de inwerkingtreding van overeenkomstige onderwerpen in deze wet.
