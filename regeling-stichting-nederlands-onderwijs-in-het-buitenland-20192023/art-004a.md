@@ -1,0 +1,8 @@
+# Artikel 4a. Toekenning aanvullende leerlinggebonden subsidie
+1. In aanvulling op de leerlinggebonden subsidie, bedoeld in artikel 4, verstrekt de minister voor het kalenderjaar 2022 eenmalig een aanvullende subsidie aan rechtspersonen als bedoeld in artikel 4, eerste lid, als compensatie van de leerlingendaling bij tot de ondersteuning toegelaten onderwijsvoorzieningen als gevolg van de maatregelen ter bestrijding van COVID-19.
+2. De hoogte van de subsidie per onderwijsvoorziening wordt berekend op basis van het verschil in hoogte van de door de onderwijsvoorziening in totaal ontvangen leerlinggebonden subsidie in 2019 ten opzichte van de ontvangen leerlinggebonden subsidie in 2020. Het subsidiebedrag per onderwijsvoorziening is gelijk aan de uitkomst van de vermenigvuldiging van het aantal leerlingen dat op 1 oktober 2019 stond ingeschreven met een bedrag per leerling van € 305 minus de uitkomst van de vermenigvuldiging van het aantal leerlingen dat op 1 oktober 2020 stond ingeschreven met een bedrag per leerling van € 350.
+3. De subsidie wordt uitsluitend verstrekt, indien:
+a. bij de onderwijsvoorziening op de teldatum van 1 oktober 2020 sprake is van een daling van 20% of meer van de door de onderwijsvoorziening ontvangen leerlinggebonden financiering ten opzichte van 1 oktober 2019; en
+b. de onderwijsvoorziening op 1 september 2021 in stand is.
+4. De aanvullende subsidie bedraagt ten hoogste € 10.000 per onderwijsvoorziening.
+5. In aanvulling op het mandaat, bedoeld in artikel 4, tweede lid, wordt aan de directeur van de stichting voor het kalenderjaar 2022 tevens mandaat verleend voor het nemen van besluiten namens de minister inzake de aanvullende subsidie, bedoeld in dit artikel.
