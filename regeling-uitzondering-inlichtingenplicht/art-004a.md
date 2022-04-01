@@ -1,0 +1,7 @@
+# Artikel 4a. Inlichtingenplicht aan het UWV
+1. De inlichtingenplicht van degene die aanspraak maakt op toeslag, of zijn echtgenoot, bedoeld in artikel 12 van de Toeslagenwet, geldt niet ten aanzien van gegevens die in de basisregistratie personen zijn opgenomen ten aanzien van:
+a. een adreswijziging als bedoeld in artikel 2.39 van de Wet basisregistratie personen;
+b. gegevens in verband met het verblijfsrecht van de vreemdeling als bedoeld in artikel 2.7, eerste lid, aanhef en onderdeel a, onder 5°, van de Wet basisregistratie personen.
+2. De inlichtingenplicht, bedoeld in de artikelen 3:16, eerste lid, onder g, en 3:27, eerste lid, onder f van de Wet arbeid en zorg, artikel 70 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de artikelen 2:7, eerste lid en 3:74, eerste lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, artikel 80, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering, artikel 12 van de Wet inkomensvoorziening oudere werklozen, artikel 27, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen, artikel 25 van de Werkloosheidswet, en artikel 49 van de Ziektewet, geldt niet ten aanzien van gegevens die in de basisregistratie personen zijn opgenomen ten aanzien van:
+a. een adreswijziging als bedoeld in artikel 2.39 van de Wet basisregistratie personen;
+b. gegevens in verband met het verblijfsrecht van de vreemdeling als bedoeld in artikel 2.7, eerste lid, aanhef en onderdeel a, onder 5°, van de Wet basisregistratie personen.
