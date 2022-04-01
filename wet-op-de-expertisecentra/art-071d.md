@@ -1,2 +1,0 @@
-# Artikel 71d. Berekening aantal leerlingen instelling met nevenvestiging(en)
-Voor de toepassing van de wet en de ter uitvoering daarvan vastgestelde voorschriften wordt onder het aantal leerlingen van een instelling, bedoeld in het tweede lid van artikel 89, verstaan het aantal leerlingen van de hoofdvestiging en de nevenvestiging of nevenvestigingen van de instelling tezamen, tenzij in bedoelde voorschriften anders is bepaald.
