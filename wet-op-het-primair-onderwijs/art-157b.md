@@ -1,2 +1,0 @@
-# Artikel 157b. Instandhouding in bijzondere gevallen
-Indien de instandhouding van een openbare school of de bekostiging van een bijzondere school niet mogelijk is op grond van de artikelen 153 tot en met 157a, kan Onze Minister in bijzondere gevallen op aanvraag van het bevoegd gezag voor een door hem te bepalen tijd toestaan, dat een openbare school in stand wordt gehouden of een bijzondere school wordt bekostigd.

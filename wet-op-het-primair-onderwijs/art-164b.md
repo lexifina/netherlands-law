@@ -1,9 +1,0 @@
-# Artikel 164b. Beëindiging bekostiging/opheffing
-1. Indien sprake is van een situatie als bedoeld in artikel 10a, eerste lid, kan Onze Minister besluiten dat met ingang van een in dat besluit bepaalde datum een openbare school wordt opgeheven en de bekostiging van een bijzondere school wordt beëindigd.
-2. Alvorens Onze Minister toepassing geeft aan het eerste lid:
-a. heeft de inspectie een onderzoek als bedoeld in artikel 11, derde lid, van de Wet op het onderwijstoezicht verricht en heeft de inspectie Onze Minister meegedeeld dat het bevoegd gezag naar aanleiding van dit onderzoek niet bereid is afspraken te maken over verbeteringen dan wel dat uit het onderzoek naar de verbeteringen, bedoeld in artikel 11, vierde lid, van de Wet op het onderwijstoezicht blijkt dat sprake is van onvoldoende verbeteringen;
-b. heeft de inspectie daarover een inspectierapport als bedoeld in artikel 20, eerste lid, van de Wet op het onderwijstoezicht uitgebracht; en
-c. stelt Onze Minister het bevoegd gezag vervolgens vier weken in de gelegenheid zijn zienswijze met betrekking tot de voorgenomen opheffing of de voorgenomen beëindiging van de bekostiging naar voren te brengen.
-3. Op een basisschool die minder dan 2 jaar wordt bekostigd en waarvan de kwaliteit van het onderwijs in deze periode zeer zwak is als bedoeld in artikel 10a, zijn het eerste en tweede lid van overeenkomstige toepassing, indien het bevoegd gezag:
-a. tekortschiet in de naleving van drie of meer bij of krachtens deze wet gegeven voorschriften, en dientengevolge
-b. tekortschiet in het zorgdragen voor de veiligheid op de school als bedoeld in artikel 4c, of in het zodanig inrichten van het onderwijs dat leerlingen een ononderbroken ontwikkelingsproces kunnen doorlopen dan wel in het afstemmen van het onderwijs op de voortgang in de ontwikkeling van leerlingen als bedoeld in artikel 8, eerste lid.

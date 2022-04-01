@@ -1,8 +1,0 @@
-# Artikel 176g. Uitvoeren scholing, begeleiding en bekwaamheidsonderzoek
-1. Het instellingsbestuur van een instelling voor hoger onderwijs die opleidt voor het voldoen aan bekwaamheidseisen als bedoeld in artikel 32a, eerste lid, en die zich daartoe bij Onze Minister heeft gemeld, is na die melding en onder overlegging van een plan van aanpak, bevoegd tot:
-a. het verzorgen of doen verzorgen van de in artikel 176c, tweede lid, onder c, bedoelde scholing en begeleiding, voor zover deze verband houden met opleidingen die de instelling verzorgt, of
-b. het uitvoeren of onder zijn verantwoordelijkheid doen uitvoeren van bekwaamheidsonderzoek, voor zover de instelling opleidt voor het desbetreffende getuigschrift, dan wel
-c. zowel de onder a als de onder b bedoelde activiteiten.
-2. Het instellingsbestuur van een instelling voor hoger onderwijs die op grond van het eerste lid, onder b, bevoegd is tot het uitvoeren van het bekwaamheidsonderzoek, stelt de leraar die zich daartoe heeft gemeld en voor wie de scholing en begeleiding zijn afgerond overeenkomstig de in artikel 38a bedoelde overeenkomst, tijdig in de gelegenheid deel te nemen aan dat onderzoek.
-3. Het instellingsbestuur kan bepalen dat de aanvrager van het bekwaamheidsonderzoek aan dat bestuur een bijdrage is verschuldigd voor uitvoering van dat onderzoek. Bij ministeriële regeling kan voor deze bijdrage een maximum worden vastgesteld.
-4. Een melding, gedaan voor 1 augustus 2006 onder overlegging van een plan van aanpak als bedoeld in artikel 7, eerste lid, van de Interimwet zij-instroom leraren primair en voortgezet onderwijs, zoals dat artikel luidde op 31 juli 2006, geldt als te zijn gedaan op grond van het eerste lid.

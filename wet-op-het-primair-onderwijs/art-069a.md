@@ -1,4 +1,0 @@
-# Artikel 69a. Bekostiging koorscholen
-De op 31 juli 1998 uit de openbare kassen bekostigde scholen, uitgaande van de Stichting Muziekinstituut van de Kathedraal St. Bavo te Haarlem, onderscheidenlijk van de Stichting Nederlands Instituut voor Katholieke Kerkmuziek te Utrecht, ten behoeve waarvan op grond van artikel 3, tweede lid, van de Lager-onderwijswet 1920 vergunning is verleend dat deze scholen minder dan 6 achtereenvolgende leerjaren omvatten, worden bekostigd als basisscholen, waarbij:
-a. op deze scholen de bepalingen van deze wet waar mogelijk van overeenkomstige toepassing zijn, met dien verstande dat het onderwijs is bestemd voor kinderen vanaf de leeftijd van omstreeks acht jaar; en
-b. voor deze scholen voor de toepassing van artikel 153, eerste lid, als opheffingsnorm het getal 45 geldt.

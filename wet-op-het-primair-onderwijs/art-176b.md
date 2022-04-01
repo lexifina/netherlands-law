@@ -1,4 +1,0 @@
-# Artikel 176b. Geschiktheidsverklaring
-1. Aan degene die blijkens een geschiktheidsonderzoek als bedoeld in artikel 176c voldoende geschikt wordt geacht voor het beroep van leraar en in staat moet worden geacht binnen twee jaar na benoeming of tewerkstelling zonder benoeming tot leraar met goed gevolg deel te nemen aan het in artikel 176f bedoelde bekwaamheidsonderzoek, geeft het bestuur van een instelling die op grond van artikel 176e is erkend, een geschiktheidsverklaring af.
-2. Bij ministeriële regeling wordt een model voor de geschiktheidsverklaring vastgesteld.
-3. Op 31 juli 2006 nog geldige geschiktheidsverklaringen, afgegeven op grond van de Interimwet zij-instroom leraren primair en voortgezet onderwijs, gelden vanaf 1 augustus 2006 als te zijn afgegeven op grond van het eerste lid, indien deze verklaringen vanaf dat tijdstip geldig zouden zijn geweest.

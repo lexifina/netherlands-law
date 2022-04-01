@@ -1,4 +1,0 @@
-# Artikel 184b. Bekostiging godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs
-1. Onze Minister verstrekt bekostiging voor het geven van het onderwijs, bedoeld in artikel 50, eerste en tweede volzin, aan een rechtspersoon met volledige rechtsbevoegdheid die zich blijkens zijn statuten ten doel stelt het geven van onderwijs als bedoeld in artikel 50, eerste lid, eerste en tweede volzin, voor zover dit wordt gegeven door leraren als bedoeld in artikel 51.
-2. Bij of krachtens algemene maatregel van bestuur kunnen regels gegeven of voorwaarden worden gesteld voor de bekostiging van godsdienstonderwijs of levensbeschouwelijk onderwijs.
-3. De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
