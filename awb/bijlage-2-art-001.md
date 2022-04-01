@@ -96,7 +96,7 @@ Wet Naleving Europese regelgeving publieke entiteiten:
 a. artikel 2, eerste lid, voor zover het betreft de weigering om een aanwijzing te geven
 b. artikel 3, voor zover het betreft de weigering om een aanwijzing te geven
 c. artikel 5, voor zover het betreft de weigering om een besluit te nemen
-Wet op de expertisecentra: artikel 134, vierde lid, zolang de gemeenteraad de aanvulling nog niet heeft bekrachtigd
+Wet op de expertisecentra: artikel 123, vierde lid, zolang de gemeenteraad de aanvulling nog niet heeft bekrachtigd
 Wet op de rechterlijke organisatie: de artikelen 46a, eerste lid, 62a, eerste lid, en 100
 Wet opheffing particuliere banken van leening: artikel 2
 Wet op het financieel toezicht:
@@ -106,7 +106,7 @@ c. de afdelingen 3A.1.3, 3A.1.4 en 3A.1.5 voor zover het betreft een weigering o
 d. artikel 3A:127
 e. de artikelen 6:1 en 6:2, voor zover het betreft een weigering om een besluit te nemen of het niet tijdig nemen van een besluit
 Wet op het hoger onderwijs en wetenschappelijk onderzoek: artikel 7.61
-Wet op het primair onderwijs: artikel 140, vierde lid, zolang de gemeenteraad de aanvulling nog niet heeft bekrachtigd
+Wet op het primair onderwijs: artikel 128, vierde lid, zolang de gemeenteraad de aanvulling nog niet heeft bekrachtigd
 Wet op het voortgezet onderwijs: artikel 96g, vierde lid, zolang de gemeenteraad de aanvulling nog niet heeft bekrachtigd
 Wet publieke gezondheid: de artikelen 31 en 35
 Wet rechtspositie rechterlijke ambtenaren:

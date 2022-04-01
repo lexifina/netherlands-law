@@ -111,15 +111,15 @@ c. artikel 15.50
 d. artikel 17.15, tweede lid, indien overeenkomstige toepassing is gegeven aan artikel 121 van de Provinciewet, voor zover het beroep wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
 Wet Naleving Europese regelgeving publieke entiteiten: de artikelen 2, eerste lid, 3 en 5
 Wet op de expertisecentra:
-a. titel IV: de afdelingen 2 en 8, een goedkeuring van rechtswege daaronder begrepen
-b. de artikelen 120, tweede lid, 129 en 170
+a. titel IV: de afdelingen 2 en 7, een goedkeuring van rechtswege daaronder begrepen
+b. de artikelen 118 en 168
 Wet op het financieel toezicht: de artikelen 6:1 en 6:2
 Wet op het hoger onderwijs en wetenschappelijk onderzoek: de artikelen 2.9, derde lid, 5.8, eerste lid, 5.9, eerste en tweede lid, 5.16, eerste en derde lid, 5.17, 5.18, 5.19, eerste, tweede en derde lid, 5.20, eerste lid, 5.26, eerste lid, 5.27, eerste en tweede lid, 5.29, eerste lid, 6.5 en 15.1, eerste lid
 Wet op het primair onderwijs:
 a. artikel 22, vijfde lid
-b. titel IV: de afdelingen 2 en 9, een goedkeuring van rechtswege daaronder begrepen
-c. de artikelen 123, tweede lid, 135 en 184
-d. artikel 185, tweede lid, tweede volzin, voor zover het betreft een besluit op grond van bepalingen die bij de algemene maatregel van bestuur ingevolge artikel 185, tweede lid, tweede volzin, van overeenkomstige toepassing zijn verklaard, alsmede een besluit op grond van bepalingen van de algemene maatregel van bestuur die daarmee overeenkomen
+b. titel IV: de afdelingen 2 en 8, een goedkeuring van rechtswege daaronder begrepen
+c. de artikelen 120 en 189
+d. artikel 193, tweede lid, tweede volzin, voor zover het betreft een besluit op grond van bepalingen die bij de algemene maatregel van bestuur ingevolge artikel 193, tweede lid, tweede volzin, van overeenkomstige toepassing zijn verklaard, alsmede een besluit op grond van bepalingen van de algemene maatregel van bestuur die daarmee overeenkomen
 Wet op het voortgezet onderwijs:
 a. titel III: de afdelingen I, met uitzondering van artikel 75a, en III
 b. de artikelen 82, 83 en 104
