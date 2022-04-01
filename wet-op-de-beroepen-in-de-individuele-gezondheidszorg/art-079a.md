@@ -1,0 +1,4 @@
+# Artikel 79a
+1. Bevoegd tot het behandelen van een voordracht in eerste aanleg is het regionale tuchtcollege van het rechtsgebied waarin de beroepsbeoefenaar zijn woonplaats heeft.
+2. Indien de beroepsbeoefenaar geen woonplaats heeft in een rechtsgebied van een van de regionale tuchtcolleges, is het regionale tuchtcollege te Amsterdam bevoegd tot het behandelen van de voordracht.
+3. Indien een voordracht als bedoeld in artikel 79, eerste lid, wordt gedaan tegen een lid-beroepsgenoot of plaatsvervangend lid-beroepsgenoot dat tevens lid is van het regionale tuchtcollege waar de voordracht wordt gedaan, kan de voorzitter in het belang van een onafhankelijke behandeling, de zaak ter behandeling verwijzen naar een ander regionaal tuchtcollege. De zaak wordt in het behandelend regionale tuchtcollege behandeld door leden die daartoe door de voorzitter zijn aangewezen. Bij die aanwijzing draagt de voorzitter er zorg voor dat een onafhankelijke behandeling is gewaarborgd.
