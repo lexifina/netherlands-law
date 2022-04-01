@@ -1,0 +1,2 @@
+# Artikel II. Overgangsperiode
+Een melding op grond van artikel 2a van de Wet arbeid vreemdelingen, gedaan in het kader van een tewerkstelling van een vreemdeling op grond van de vrijstelling uit artikel 6.5 van het Besluit uitvoering Wet arbeid vreemdelingen 2022, die is ontvangen in de periode tot en met 15 april 2022, wordt beschouwd als een melding die ten minste twee werkdagen voor aanvang van de werkzaamheden is gedaan.

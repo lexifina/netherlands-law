@@ -1,0 +1,2 @@
+# Artikel III. Inwerkingtreding
+Deze regeling treedt in werking op het moment waarop het besluit tot wijziging van het Besluit uitvoering Wet arbeid vreemdelingen 2022 in verband met een tijdelijke vrijstelling van de tewerkstellingsvergunningsplicht, gelet op het Uitvoeringsbesluit van de Raad tot vaststelling van het bestaan van een massale toestroom van ontheemden uit Oekraïne in de zin van artikel 5 van Richtlijn 2001/55/EG van de Raad van 20 juli 2001, en tot invoering van tijdelijke bescherming naar aanleiding daarvan, in werking treedt.
