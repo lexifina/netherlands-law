@@ -1,0 +1,2 @@
+# Artikel IV. Aansprakelijkheid
+De Regering van de Republiek Suriname en de Regering van het Koninkrijk der Nederlanden zien er over en weer van af om een beroep te doen op de aansprakelijkheid van de ander bij schade welke tijdens het vervullen van hun officiële taken wordt toegebracht aan hun eigendommen of personeel, ook in geval van overlijden, behalve wanneer er sprake is van opzet of grove schuld.

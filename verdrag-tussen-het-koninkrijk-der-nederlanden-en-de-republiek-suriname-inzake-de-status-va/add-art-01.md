@@ -1,0 +1,3 @@
+# Artikel I. Voorrechten en immuniteiten
+1. Het militair en burgerpersoneel van het Ministerie van Defensie van Nederland dat in de Republiek Suriname aanwezig zal zijn in verband met opleiding en training (hierna te noemen het „Nederlandse personeel") zal de geldende wetten en gewoonten van de Republiek Suriname respecteren.
+2. Het Nederlandse personeel geniet dezelfde voorrechten en immuniteiten als die welke worden verleend aan het technische en administratieve personeel van diplomatieke posten, zoals beschreven in het verdrag inzake diplomatiek verkeer, ondertekend te Wenen op 18 april 1961.

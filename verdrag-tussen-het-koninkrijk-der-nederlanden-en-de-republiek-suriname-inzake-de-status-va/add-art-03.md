@@ -1,0 +1,3 @@
+# Artikel III. Voorwaarden inzake binnenkomst en vertrek
+1. Het Nederlandse personeel krijgt in het kader van de opleiding en training toestemming om het grondgebied van de Republiek Suriname te betreden op enkel vertoon van een militair identiteitsbewijs, dan wel een identiteitsbewijs van het Ministerie van Defensie van Nederland.
+2. Goederen die door het Koninkrijk der Nederlanden in verband met dit verdrag in de Republiek Suriname worden ingevoerd zijn vrijgesteld van douane-inspectie en douaneformaliteiten en van alle rechten, belastingen en andere heffingen bij binnenkomst en vertrek van het grondgebied van de Republiek Suriname.
