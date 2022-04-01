@@ -1,0 +1,3 @@
+# Artikel IV
+1. Indien ten gevolge van de inwerkingtreding van artikel III, tweede lid, onder a, of vierde lid, onder a, een persoon bij hetzelfde regionale tuchtcollege zowel in de hoedanigheid van lid als in de hoedanigheid van plaatsvervangend lid is benoemd, vervalt de benoeming van de hoedanigheid van plaatsvervangend lid.
+2. Indien ten gevolge van de inwerkingtreding van deze wet een lid van een regionaal tuchtcollege zowel op grond van artikel 55, zevende lid, van de Wet op de beroepen in de individuele gezondheidszorg als op grond van een benoeming plaatsvervangend lid is van een ander regionaal tuchtcollege, vervalt de benoeming tot plaatsvervangend lid in dat andere tuchtcollege.

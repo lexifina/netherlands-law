@@ -1,0 +1,10 @@
+# Artikel III
+1. Op het tijdstip van inwerkingtreding van artikel I, onderdeel D, wijzigt de benoeming van de voorzitter van het regionale tuchtcollege te Eindhoven in een benoeming tot voorzitter van het regionale tuchtcollege te 's-Hertogenbosch en vervallen de benoemingen van de voorzitters van de regionale tuchtcolleges te Groningen en Den Haag.
+2. Onverminderd het eerste lid, worden op het tijdstip van inwerkingtreding van artikel I, onderdeel D, de benoemingen van degenen die op dat het tijdstip zijn benoemd als:
+a. rechtsgeleerd lid, dan wel als rechtsgeleerd lid, tevens plaatsvervangend voorzitter, bij onderscheidenlijk het regionale tuchtcollege te Eindhoven, Groningen en Den Haag, gewijzigd in een gelijke benoeming bij onderscheidenlijk de regionale tuchtcolleges te 's-Hertogenbosch, Zwolle en Amsterdam;
+b. plaatsvervangend rechtsgeleerd lid, dan wel als plaatsvervangend rechtsgeleerd lid, tevens voorzitter, bij het regionale tuchtcolleges te Eindhoven, gewijzigd in een gelijke benoeming bij het regionale tuchtcollege te 's-Hertogenbosch.
+3. De benoemingen van degenen die op het tijdstip van inwerkingtreding van artikel I, onderdeel D, als plaatsvervangend rechtsgeleerd lid, zijn benoemd bij de regionale tuchtcolleges te Groningen en Den Haag vervallen.
+4. Benoemingen van degenen die op het tijdstip van inwerkingtreding van artikel I, onderdeel D, zijn benoemd als:
+a. lid-beroepsgenoot bij onderscheidenlijk het regionale tuchtcollege te Eindhoven, Groningen en Den Haag worden gewijzigd in een benoeming voor hetzelfde beroep tot lid-beroepsgenoot bij onderscheidenlijk het regionale tuchtcollege te 's-Hertogenbosch, Zwolle en Amsterdam;
+b. plaatsvervangend lid-beroepsgenoot bij het regionale tuchtcollege te Eindhoven, gewijzigd in een benoeming voor hetzelfde beroep bij het regionale tuchtcollege te 's-Hertogenbosch.
+5. De benoemingen van degenen die direct op het tijdstip van inwerkingtreding van artikel I, onderdeel D, als plaatsvervangend lid-beroepsgenoot zijn benoemd bij onderscheidenlijk de regionale tuchtcolleges te Groningen en Den Haag, vervallen.
