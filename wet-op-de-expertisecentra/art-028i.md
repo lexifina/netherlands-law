@@ -1,7 +1,7 @@
 # Artikel 28i. Inhoud intern toezicht
 1. De interne toezichthouder of het interne toezichthoudend orgaan houdt toezicht op de uitvoering van de taken en de uitoefening van de bevoegdheden door het bestuur en staat het bestuur met raad terzijde. De toezichthouder of het toezichthoudend orgaan is ten minste belast met:
 a. het goedkeuren van de begroting en het bestuursverslag en, indien van toepassing, het strategisch meerjarenplan van de school;
-b. het toezien op de naleving door het bestuur van wettelijke verplichtingen, de code voor goed bestuur, bedoeld in artikel 157, eerste lid, onderdeel a, en de afwijkingen van die code;
+b. het toezien op de naleving door het bestuur van wettelijke verplichtingen, de code voor goed bestuur, bedoeld in artikel 141, eerste lid, onderdeel a, en de afwijkingen van die code;
 c. het toezien op de rechtmatige verwerving en de doelmatige en rechtmatige bestemming en aanwending van de middelen van de school verkregen op grond van deze wet;
 d. het aanwijzen van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek die verslag uitbrengt aan de toezichthouder of het toezichthoudend orgaan, en
 e. het jaarlijks afleggen van verantwoording over de uitvoering van de taken en de uitoefening van de bevoegdheden, bedoeld onder a tot en met d, in het bestuursverslag.

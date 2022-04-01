@@ -22,28 +22,24 @@
 ##### § 2. Speciale scholen voor basisonderwijs
 ##### § 3. Nadere voorschriften voor de uitvoering van afdeling 2
 #### Afdeling 3. Voorziening in de huisvesting
-#### Afdeling 4. Materiële instandhouding
-#### Afdeling 5. Grondslag bekostiging personeelskosten
-#### Afdeling 6. Budget voor personeels- en arbeidsmarktbeleid
-#### Afdeling 7. Personeelsbekostiging samenwerkingsverbanden
-#### Afdeling 8. Wijze van bekostiging
-##### § 1. Huisvesting
-##### § 2. Materiële instandhouding
-##### § 3. Personeel
-##### § 4. Gemeentelijk beleid met betrekking tot personele en materiële voorzieningen
-##### § 5. Overschrijdingsregeling
-##### § 6. Bestedingsmogelijkheden en financieel beheer
-##### § 7. Betaling van de bekostiging
-#### Afdeling 9. Beëindiging van de bekostiging
+#### Afdeling 4. Grondslag bekostiging scholen
+#### Afdeling 5. Bekostiging samenwerkingsverbanden
+#### Afdeling 6. Lichamelijke oefening en gemeentelijk beleid
+##### § 1. Lichamelijke oefening
+##### § 2. Gemeentelijk beleid
+#### Afdeling 7. Overschrijding en betaling
+##### § 1. Overschrijdingsregeling
+##### § 2. Betaling
+#### Afdeling 8. Beëindiging bekostiging
 ##### § 1. Basisscholen
 ##### § 2. Speciale scholen voor basisonderwijs
 ##### § 3. Overige bepalingen
-#### Afdeling 10. Onderwijsachterstandenbeleid
-#### Afdeling 11. Verslaglegging en informatieverstrekking
-#### Afdeling 11A. Zij-instroom in het beroep
-#### Afdeling 11B. Experimenten
-#### Afdeling 12. Overige bepalingen
+#### Afdeling 9. Onderwijsachterstandenbeleid
+#### Afdeling 10. Verslaglegging en informatieverstrekking
+#### Afdeling 11. Zij-instroom in het beroep
+#### Afdeling 12. Experimenten
+#### Afdeling 13. Overige bepalingen
 ## Hoofdstuk II. Andere vormen van basisonderwijs
-## Hoofdstuk III. Bevoegdheden t.a.v. de rechtspersoon, bedoeld in artikel 183 en 184 en evaluatie
+## Hoofdstuk III. Bevoegdheden t.a.v. de rechtspersoon, bedoeld in de artikelen 188 en 190 en evaluatie
 ## Hoofdstuk IV. Overgangsbepalingen
 ## Hoofdstuk V. Slotbepalingen

@@ -17,23 +17,19 @@
 ### Afdeling 1. Algemeen
 ### Afdeling 2. Aanvang van de bekostiging
 ### Afdeling 3. Voorziening in de huisvesting
-### Afdeling 4. Materiële instandhouding
-### Afdeling 5. Grondslag bekostiging personeelskosten
-### Afdeling 6. Budget voor personeels- en arbeidsmarktbeleid
-### Afdeling 7. Wijze van bekostiging
-#### § 1. Huisvesting
-#### § 2. Materiële instandhouding
-#### § 3. Personeel
-#### § 4. Gemeentelijk beleid met betrekking tot personele en materiële voorzieningen
-#### § 5. Overschrijdingsregeling
-#### § 6. Bestedingsmogelijkheden en financieel beheer
-#### § 7. Betaling van de bekostiging
-### Afdeling 8. Aanwijzing en maatregelen
-### Afdeling 10. Verslaglegging en informatieverstrekking
-### Afdeling 10A. Bestrijden voortijdig schoolverlaten en volgen van jongeren in een kwetsbare positie
-### Afdeling 10B. Zij-instroom in het beroep
+### Afdeling 4. Grondslag bekostiging scholen
+### Afdeling 5. Lichamelijke oefening en gemeentelijk beleid
+#### § 1. Lichamelijke oefening
+#### § 2. Gemeentelijk beleid
+### Afdeling 6. Overschrijding en betaling
+#### § 1. Overschrijdingsregeling
+#### § 2. Betaling
+### Afdeling 7. Aanwijzing en maatregelen
+### Afdeling 8. Verslaglegging en informatieverstrekking
+### Afdeling 9. Bestrijden voortijdig schoolverlaten en volgen van jongeren in een kwetsbare positie
+### Afdeling 10. Zij-instroom in het beroep
 ### Afdeling 11. Overige bepalingen
 ## Titel V. Experimenten
-## Titel VI. Bevoegdheden t.a.v. de rechtspersoon, bedoeld in artikel 169
+## Titel VI. Bevoegdheden t.a.v. de rechtspersoon, bedoeld in artikel 167
 ## Titel VII. Overgangsbepalingen
 ## Titel VIII. Slotbepalingen
