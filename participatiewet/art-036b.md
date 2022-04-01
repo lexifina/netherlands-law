@@ -1,7 +1,9 @@
-# Artikel 36b. Individuele studietoeslag
-1. Op een daartoe strekkend verzoek van een persoon als bedoeld in artikel 7, eerste lid, onderdeel a, kan het college, gelet op de omstandigheden van die persoon, een individuele studietoeslag verlenen indien hij op de datum van de aanvraag:
-a. 18 jaar of ouder is;
-b. recht heeft op studiefinanciering op grond van de Wet studiefinanciering 2000 of recht heeft op een tegemoetkoming op grond van hoofdstuk 4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten;
-c. geen in aanmerking te nemen vermogen als bedoeld in artikel 34 heeft; en
-d. door een structurele medische beperking tijdens de studie geen inkomsten kan verwerven.
-2. De artikelen 12, 43, 49 en 52 zijn niet van toepassing.
+# Artikel 36b. Studietoeslag
+1. In aanvulling op artikel 7 verstrekt het college op verzoek van een belanghebbende die als rechtstreeks gevolg van een ziekte of gebrek structureel niet in staat is naast de studie inkomsten te verwerven, een studietoeslag waarvan de hoogte, die voor naar leeftijd te onderscheiden categorieën belanghebbenden verschillend kan zijn, bij algemene maatregel van bestuur wordt vastgesteld.
+2. Bij de beoordeling of recht bestaat op de studietoeslag vraagt het college een geneeskundig advies, tenzij zonder dit advies vastgesteld kan worden dat recht bestaat op de studietoeslag.
+3. Het verzoek kan worden gedaan door een belanghebbende die:
+a. studiefinanciering ontvangt op grond van de Wet studiefinanciering 2000, niet zijnde het levenlanglerenkrediet, of een tegemoetkoming krijgt op grond van hoofdstuk 4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten; en
+b. geen recht heeft op een uitkering op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
+4. De belanghebbende doet aan het college op verzoek of onverwijld uit eigen beweging mededeling van alle feiten en omstandigheden waarvan hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op de studietoeslag. Deze verplichting geldt niet als die feiten en omstandigheden door het college kunnen worden vastgesteld op grond van bij wettelijk voorschrift als authentiek aangemerkte gegevens of kunnen worden verkregen uit bij ministeriële regeling aan te wijzen administraties. Bij ministeriële regeling wordt bepaald voor welke gegevens de tweede zin van toepassing is.
+5. De belanghebbende die in het kader van zijn studie inkomsten uit een stage ontvangt, behoudt het recht op de studietoeslag, met dien verstande dat de hoogte van de studietoeslag wordt verminderd met het bedrag aan inkomsten uit de stage voor zover dat het een bij algemene maatregel van bestuur te bepalen bedrag te boven gaat.
+6. Artikel 40, eerste lid, en paragraaf 6.4, zijn van overeenkomstige toepassing, met dien verstande dat waar «bijstand» staat steeds gelezen wordt «studietoeslag».
