@@ -34,6 +34,11 @@
 ### Afdeling 5. Belastingvermindering en vrijstellingen
 ### Afdeling 6. Teruggaven
 ### Afdeling 7. Verplichtingen ten dienste van de belastingheffing
+## Hoofdstuk VIA. Minimum CO2-prijs elektriciteitsopwekking
+### Afdeling 1. Begripsbepalingen
+### Afdeling 2. Grondslag en belastingplicht
+### Afdeling 3. Maatstaf van heffing en verschuldigdheid
+### Afdeling 4. Tarief
 ## Hoofdstuk VIB. CO2-heffing industrie
 ### Afdeling 1. Algemeen
 ### Afdeling 2. Grondslag en belastingplicht
