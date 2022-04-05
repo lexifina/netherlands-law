@@ -1,0 +1,2 @@
+# Artikel 16a.4
+Het bestuur van de emissieautoriteit weigert de goedkeuring van een elektriciteitsmonitoringsplan indien het elektriciteitsmonitoringsplan niet voldoet aan de eisen die daaraan gesteld zijn bij of krachtens dit hoofdstuk of het bestuur van de emissieautoriteit van oordeel is dat onvoldoende is gewaarborgd dat de aanvrager in staat is het elektriciteitsmonitoringsplan naar behoren uit te voeren.

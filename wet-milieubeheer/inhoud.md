@@ -158,6 +158,7 @@
 #### Afdeling 16.2.3. De overgang van broeikasgasemissierechten en andere eenheden
 #### Afdeling 16.2.4. Registratie van broeikasgasemissierechten en andere eenheden
 #### Afdeling 16.2.5. Instemming met deelname aan projectactiviteiten
+## Hoofdstuk 16a. De emissie van broeikasgas bij elektriciteitsopwekking
 ## Hoofdstuk 16b. Emissie van broeikasgas door de industrie
 ### Titel 16b.1. Algemeen
 ### Titel 16b.2. Industriële jaarvracht
