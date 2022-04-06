@@ -1,0 +1,3 @@
+# Artikel 48b. Cijfer en recht op herkansing profielvak beroepsgerichte leerwegen en gemengde leerweg vmbo behaald in het schooljaar 2021–2022
+1. Het cijfer van het schoolexamen van het profielvak, bedoeld in artikel 47f, derde lid, zoals dat artikel luidde op 1 mei 2022, wordt betrokken bij de berekening van het rekenkundig gemiddelde, bedoeld in artikel 37, eerste lid, onderdeel a.
+2. De kandidaat, bedoeld in artikel 26 of artikel 47, die in het schooljaar 2021–2022 het eindexamen in het profielvak heeft afgerond, behoudt het recht op herkansing van het cspe bedoeld in artikel 38, eerste lid.
