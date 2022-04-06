@@ -1,0 +1,2 @@
+# Artikel 35c. Examendossier
+Het schoolexamen bestaat uit een examendossier. Het examendossier is het geheel van de onderdelen van het schoolexamen zoals gedocumenteerd in een door het bevoegd gezag gekozen vorm. Het examendossier voor het vmbo omvat tevens de resultaten die de leerling heeft behaald voor de vakken, bedoeld in artikel 26g, eerste lid, van het Inrichtingsbesluit WVO of artikel 26i, tweede lid, van dat besluit, voor zover in die vakken geen eindexamen is afgelegd.
