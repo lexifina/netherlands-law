@@ -1,0 +1,2 @@
+# Artikel 34a. Toepassingsbereik
+De bepalingen in dit hoofdstuk zijn van toepassing op de staatsexamens die worden afgenomen in het examenjaar 2022.
