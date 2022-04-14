@@ -1,0 +1,2 @@
+# Artikel 4a. Ondermandaat, -volmacht en -machtiging Directie Aansturen Operationele Gereedheid
+Aan de directeur van de Directie Aansturen Operationele Gereedheid, dan wel bij diens afwezigheid zijn plaatsvervanger, wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge artikel 4 tot zijn werkterrein behoren.

@@ -1,0 +1,2 @@
+# Artikel 9a. Ondermandaat, -volmacht en -machtiging Directie Operaties
+Aan de directeur van de Directie Operaties, dan wel bij diens afwezigheid zijn plaatsvervanger, wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge artikel 9 tot zijn werkterrein behoren.

@@ -1,0 +1,2 @@
+# Artikel 12a. Ondermandaat, -volmacht en -machtiging Transitieteam
+Aan de programmamanager van het Transitieteam, dan wel bij diens afwezigheid zijn plaatsvervanger, wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge artikel 12 tot zijn werkterrein behoren.
