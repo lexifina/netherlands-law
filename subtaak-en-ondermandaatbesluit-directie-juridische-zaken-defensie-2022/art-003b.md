@@ -1,0 +1,2 @@
+# Artikel 3b. Ondermandaat, -volmacht en -machtiging adjunct directeur
+Aan de adjunct directeur wordt mandaat, volmacht en machtiging verleend met betrekking tot de aangelegenheden die ingevolge artikel 3, onderdeel b, tot zijn werkterrein behoren, alsmede voor aangelegenheden voortvloeiende uit de plaatsvervanging van de Directeur Juridische Zaken en de plaatsvervangend Directeur Juridische Zaken bij beider afwezigheid, met uitzondering van de aangelegenheden genoemd in artikel 6, onderdelen b en c.
