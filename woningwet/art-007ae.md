@@ -1,0 +1,8 @@
+# Artikel 7ae
+1. De toelatingsorganisatie trekt de toelating van een instrument voor kwaliteitsborging in, indien de instrumentaanbieder daarom verzoekt.
+2. De toelatingsorganisatie kan de toelating van een instrument voor kwaliteitsborging intrekken, indien:
+a. de gegevens die met het oog op de toelating zijn verstrekt, zodanig onjuist of onvolledig blijken, dat op de aanvraag om toelating een andere beslissing zou zijn genomen, indien bij de beoordeling daarvan de juiste omstandigheden volledig bekend waren geweest;
+b. het toegelaten instrument voor kwaliteitsborging niet meer voldoet aan de bij of krachtens artikel 7ac, derde lid, gestelde regels;
+c. de instrumentaanbieder handelt in strijd met het bepaalde in artikel 7ac, tweede lid, of met een of meer andere uit de toelating van een instrument voor kwaliteitsborging voortvloeiende verplichtingen;
+d. de instrumentaanbieder failliet is verklaard.
+3. Indien de toelating van een instrument voor kwaliteitsborging wordt ingetrokken, blijft het instrument geldig gedurende zes maanden na de datum waarop de beschikking tot intrekking van de toelating is gegeven, in de gevallen waarin de kwaliteitsborging met toepassing van dat instrument voor die datum is aangevangen. De toelatingsorganisatie kan een kortere termijn vaststellen of bepalen dat de toepassing van het instrument voor kwaliteitsborging terstond wordt beëindigd, indien de kwaliteitsborging met toepassing van het betreffende instrument leidt tot strijdigheden met de voorschriften, die zijn gesteld bij of krachtens een algemene maatregel van bestuur als bedoeld in artikel 2, eerste lid, aanhef en onder a, en vierde lid, of artikel 120.
