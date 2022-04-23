@@ -1,0 +1,5 @@
+# Artikel 22ter. Procedure voor de wijziging van Aanhangsel 3
+1. Aanhangsel 3 bij de Bijlage bij deze Overeenkomst wordt gewijzigd in overeenstemming met de volgende procedure.
+2. Elk voorstel tot opneming in Aanhangsel 3 van modelformulieren overeenkomstig artikel 12bis van deze Overeenkomst of tot wijziging van bestaande formulieren wordt, ter aanneming, voorgelegd aan de Subcommissie voor het wegvervoer van de Economische Commissie voor Europa. Het voorstel wordt geacht te zijn aanvaard indien het wordt aangenomen door een meerderheid van de aanwezige Overeenkomstsluitende Partijen die hun stem uitbrengen.
+Het secretariaat van de Economische Commissie voor Europa stelt de bevoegde autoriteiten van alle Partijen bij deze Overeenkomst officieel op de hoogte van elke aldus aangenomen wijziging en deelt deze informatie tegelijkertijd mede aan de Secretaris-Generaal, vergezeld van een afschrift van de desbetreffende tekst.
+3. Elk aldus aangenomen modelformulier kan worden gebruikt vanaf drie maanden na de datum waarop de informatie aan de Partijen bij deze Overeenkomst is medegedeeld.
