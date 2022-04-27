@@ -1,0 +1,4 @@
+# Artikel 50ak
+1. Alle terugbetalingen die de handelaar aan de consument is verschuldigd op grond van artikel 50ai leden 4 en 5 of artikel 50aj lid 1 als gevolg van een prijsvermindering of de ontbinding van de overeenkomst, worden onverwijld verricht en in elk geval binnen 14 dagen vanaf de datum waarop de handelaar in kennis is gesteld van de beslissing van de consument om zich te beroepen op het recht van prijsvermindering dan wel op ontbinding van de overeenkomst.
+2. De handelaar gebruikt voor de terugbetaling hetzelfde betaalmiddel als waarmee de consument voor de digitale inhoud of digitale dienst heeft betaald, tenzij de consument uitdrukkelijk met het gebruik van een ander betaalmiddel instemt en op voorwaarde dat de consument als gevolg van deze terugbetaling geen aanvullende kosten hoeft te maken.
+3. De handelaar mag de consument geen vergoeding in rekening brengen voor de terugbetaling.

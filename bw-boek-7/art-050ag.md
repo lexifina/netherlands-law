@@ -1,0 +1,3 @@
+# Artikel 50ag
+1. De handelaar is aansprakelijk voor elk verzuim om de digitale inhoud of digitale dienst te leveren overeenkomstig artikel 50ac en voor een gebrek als bedoeld in de artikelen 50ad, 50ae en 50af lid 1.
+2. Rechtsvorderingen en verweren, gegrond op feiten die de stelling zouden rechtvaardigen dat de afgeleverde digitale inhoud of digitale dienst niet aan de overeenkomst beantwoordt, verjaren door verloop van twee jaren na de levering, tenzij de consument het gebrek niet kende of behoorde te kennen, met inachtneming van in elk geval de prijs of digitale weergave van waarde en de redelijke verwachtingen van de consument ten aanzien van de duur dat hij gebruik kan maken van de digitale inhoud of digitale dienst.

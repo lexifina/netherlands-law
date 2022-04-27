@@ -1,0 +1,4 @@
+# Artikel 50ao
+1. Na de ontbinding van de overeenkomst ziet de consument af van het gebruik van de digitale inhoud of digitale dienst en van de terbeschikkingstelling daarvan aan derden.
+2. Wanneer de digitale inhoud op een materiële gegevensdrager werd geleverd, geeft de consument deze op verzoek en op kosten van de handelaar onverwijld terug. Een verzoek om teruggave van de materiële gegevensdrager moet binnen 14 dagen worden gedaan, gerekend vanaf de dag waarop de handelaar in kennis is gesteld van de beslissing van de consument om de overeenkomst te ontbinden.
+3. De consument is niet gehouden te betalen voor het gebruik van de digitale inhoud of digitale dienst in de periode voor de ontbinding van de overeenkomst waarin de digitale inhoud of digitale dienst niet aan de overeenkomst heeft beantwoord.

@@ -2,8 +2,8 @@
 1. In deze afdeling wordt verstaan onder:
 a. consument: iedere natuurlijke persoon die handelt voor doeleinden die buiten zijn bedrijfs- of beroepsactiviteit vallen;
 b. handelaar: iedere natuurlijke of rechtspersoon die handelt in het kader van zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit, al dan niet mede via een andere persoon die namens hem of voor zijn rekening optreedt;
-c. consumentenkoop: de overeenkomst bedoeld in artikel 5 lid 1 van Boek 7;
-d. overeenkomst tot het verrichten van diensten: iedere andere overeenkomst dan een consumentenkoop, waarbij de handelaar zich jegens de consument verbindt een dienst te verrichten en de consument zich verbindt een prijs te betalen;
+c. consumentenkoop: de overeenkomst, bedoeld in artikel 5 lid 1, onderdeel a, van Boek 7;
+d. overeenkomst tot het verrichten van diensten: iedere andere overeenkomst dan een consumentenkoop, waarbij de handelaar zich jegens de consument verbindt een dienst te verrichten en de consument zich verbindt een prijs te betalen of indien van toepassing een digitale weergave van waarde, bedoeld in artikel 50aa, onderdeel f, van Boek 7;
 e. overeenkomst op afstand: de overeenkomst die tussen de handelaar en de consument wordt gesloten in het kader van een georganiseerd systeem voor verkoop of dienstverlening op afstand zonder gelijktijdige persoonlijke aanwezigheid van handelaar en consument en waarbij, tot en met het moment van het sluiten van de overeenkomst, uitsluitend gebruik wordt gemaakt van een of meer middelen voor communicatie op afstand;
 f. overeenkomst buiten de verkoopruimte: iedere overeenkomst tussen de handelaar en de consument, die:
 1°. wordt gesloten in gelijktijdige persoonlijke aanwezigheid van de handelaar en de consument op een andere plaats dan de verkoopruimte van de handelaar of waarvoor door de consument een aanbod is gedaan onder dezelfde omstandigheden;

@@ -1,0 +1,22 @@
+# Artikel 50aa
+Voor de toepassing van deze titel wordt verstaan onder:
+a. digitale inhoud: gegevens die in digitale vorm worden geproduceerd en geleverd;
+b. digitale dienst:
+i) een dienst die de consument in staat stelt gegevens in digitale vorm te creëren, te verwerken of op te slaan, of toegang tot die gegevens te krijgen, of
+ii) een dienst die voorziet in de mogelijkheid van het delen van gegevens of andere interactie met gegevens in digitale vorm die door de consument of door andere gebruikers van die dienst worden geüpload of gecreëerd;
+c. integratie: het koppelen van digitale inhoud of een digitale dienst aan de onderdelen van de digitale omgeving van de consument en het verwerken daarvan in die omgeving, zodat de digitale inhoud of digitale dienst overeenkomstig de in deze titel vastgelegde vereisten kan worden gebruikt;
+d. handelaar: iedere natuurlijke persoon of rechtspersoon die met betrekking tot onder deze titel vallende overeenkomsten handelt, al dan niet mede via een andere persoon die namens hem of voor zijn rekening optreedt, in het kader van zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit;
+e. consument: iedere natuurlijke persoon die bij onder deze titel vallende overeenkomsten handelt voor doeleinden die buiten zijn bedrijfs- of beroepsactiviteit vallen;
+f. digitale weergave van waarde: een digitale weergave van waarde, anders dan een prijs in geld, die verschuldigd is in ruil voor de levering van digitale inhoud of een digitale dienst;
+g. persoonsgegevens: persoonsgegevens als bedoeld in artikel 4, onderdeel 1, van verordening (EU) 2016/679;
+h. digitale omgeving: hardware, software en iedere netwerkverbinding die door de consument wordt gebruikt om toegang te krijgen tot of gebruik te maken van digitale inhoud of een digitale dienst;
+i. compatibiliteit: het vermogen van de digitale inhoud of digitale dienst om te functioneren met hardware of software waarmee digitale inhoud of digitale diensten van hetzelfde type gewoonlijk worden gebruikt, zonder dat die digitale inhoud of digitale dienst moeten worden omgezet;
+j. functionaliteit: het vermogen van de digitale inhoud of digitale dienst om zijn functies te vervullen met betrekking tot het doel ervan;
+k. interoperabiliteit: het vermogen van de digitale inhoud of digitale dienst om te functioneren met hardware of software die verschilt van die waarmee digitale inhoud of digitale diensten van hetzelfde type gewoonlijk worden gebruikt;
+l. duurzame gegevensdrager: ieder hulpmiddel dat de consument of de handelaar in staat stelt om persoonlijk aan hem gerichte informatie op te slaan op een wijze die deze informatie toegankelijk maakt voor toekomstig gebruik gedurende een periode die past bij het doel waarvoor de informatie is bestemd, en die een ongewijzigde weergave van de opgeslagen informatie mogelijk maakt;
+m. verordening (EU) 2016/679: Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (PbEU 1995, L 119);
+n. verordening (EU) 2015/2120: Verordening (EU) 2015/2120 van het Europees Parlement en de Raad van 25 november 2015 tot vaststelling van maatregelen betreffende open-internettoegang en tot wijziging van Richtlijn 2002/22/EG inzake de universele dienst en gebruiksrechten met betrekking tot elektronische communicatienetwerken en -diensten en Verordening (EU) nr. 531/2012 betreffende roaming op openbare mobielecommunicatienetwerken binnen de Unie (PbEU 2015, L 310);
+o. richtlijn (EU) 2018/1972: Richtlijn (EU) 2018/1972 van het Europees Parlement en de Raad van 11 december 2018 tot vaststelling van het Europees wetboek voor elektronische communicatie (PbEU 2018, L 321);
+p. richtlijn (EU) 2011/24: Richtlijn (EU) 2011/24 van het Europees Parlement en de Raad van 9 maart 2011 betreffende de toepassing van de rechten van patiënten bij grensoverschrijdende gezondheidszorg (PbEU 2011, L 88);
+q. richtlijn (EG) 2002/65: Richtlijn (EG) 2002/65 van het Europees Parlement en de Raad van 23 september 2002 betreffende de verkoop op afstand van financiële diensten aan consumenten en tot wijziging van Richtlijn 90/619/EEG van de Raad en de Richtlijnen 97/7/EG en 98/27/EG (PbEU 2002, L 271);
+r. richtlijn (EG) 2003/98: Richtlijn 2003/98/EG van het Europees Parlement en de Raad van 17 november 2003 inzake het hergebruik van overheidsinformatie (PbEU 2003, L 345).

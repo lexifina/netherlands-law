@@ -1,0 +1,5 @@
+# Artikel 18a
+1. In geval van een consumentenkoop wordt elk gebrek aan overeenstemming van de zaak met de overeenkomst als gevolg van een verkeerde installatie van de zaak beschouwd als het niet beantwoorden van het afgeleverde aan de overeenkomst, indien:
+a. de installatie deel uitmaakt van de koop en werd uitgevoerd door de verkoper of onder diens verantwoordelijkheid;
+b. de installatie door de koper werd gedaan en de verkeerde installatie te wijten was aan tekortkomingen in de installatie-instructies verstrekt door de verkoper, of door de verkoper of de leverancier van de digitale inhoud of digitale dienst in geval van een zaak met digitale elementen.
+2. Bij een consumentenkoop wordt vermoed dat de zaak of de zaak met digitale elementen bij aflevering niet aan de overeenkomst beantwoordt, indien de afwijking van hetgeen is overeengekomen zich binnen één jaar na aflevering openbaart, tenzij de verkoper anders aantoont of de aard van de zaak of de aard van de afwijking zich daartegen verzet.

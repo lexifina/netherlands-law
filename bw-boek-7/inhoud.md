@@ -12,6 +12,12 @@
 #### Afdeling 9. Koop op proef
 #### Afdeling 10. Koop van vermogensrechten
 #### Afdeling 12. Ruil
+### Titel 1aa. Overeenkomsten voor de levering van digitale inhoud en digitale diensten tussen handelaren en consumenten
+#### Afdeling 1. Algemene bepalingen
+#### Afdeling 2. Verplichtingen van de handelaar
+#### Afdeling 3. Bijzondere gevolgen van niet-nakoming van de verplichtingen van de handelaar
+#### Afdeling 4. Verplichtingen van de consument
+#### Afdeling 5. Slotbepaling
 ### Titel 1a. Overeenkomsten betreffende het gebruik in deeltijd, vakantieproducten van lange duur, bijstand en uitwisseling
 ### Titel 2. Financiëlezekerheidsovereenkomsten
 ### Titel 2a. Consumentenkredietovereenkomsten
