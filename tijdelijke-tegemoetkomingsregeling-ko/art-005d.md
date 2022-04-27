@@ -1,0 +1,3 @@
+# Artikel 5d. Peildatum
+1. De gegevens die bepalend zijn voor de hoogte van de tegemoetkoming, bedoeld in artikel 5c, eerste lid, zijn de gegevens zoals verwerkt bij de Belastingdienst/Toeslagen op 21 februari 2021.
+2. Voor de ouder aan wie na 21 februari 2021 over de periode van 16 december 2020 tot en met 7 februari 2021 voor het eerst of voor een of meer volgende kinderen kinderopvangtoeslag is toegekend, zijn in afwijking van het eerste lid de gegevens zoals verwerkt bij de Belastingdienst/Toeslagen op een bij ministeriële regeling vastgestelde datum bepalend voor de hoogte van de tegemoetkoming.
