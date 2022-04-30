@@ -1,7 +1,0 @@
-# Artikel 38hh
-1. De minister kan elektronische portalen aanwijzen door middel waarvan, bedoeld in artikel 32, of de registratie, bedoeld in artikel 38dd, eerste in samenhang met het tweede en derde lid, plaatsvindt.
-2. De gegevens worden verwerkt met als doel het ten behoeve van de bescherming van de dier- en volksgezondheid, het dierenwelzijn en het milieu verkrijgen van inzicht in de verplaatsingen van dieren waarop de verplichting tot melding of registratie van toepassing is en een effectief systeem van toezicht op en handhaving van de op deze dieren en de houders daarvan van toepassing zijnde regelgeving door de minister te bevorderen.
-3. De minister is verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens in het elektronisch portaal.
-4. Een beheerder van een elektronisch portaal is verwerker van de persoonsgegevens.
-5. De minister en de beheerder van een elektronisch portaal verstrekken elkaar over en weer alle benodigde informatie teneinde een goede naleving van de Algemene verordening gegevensbescherming en andere privacywetgeving mogelijk te maken. Op verzoek van de minister toont de beheerder aan dat de noodzakelijke maatregelen zijn genomen.
-6. De beheerder van het elektronisch portaal stelt de minister te allen tijde kosteloos in de gelegenheid alle benodigde controles, gericht op de uitvoering van deze paragraaf en de naleving van privacywetgeving zoals de Algemene verordening gegevensbescherming, uit te voeren of uit te doen voeren.
