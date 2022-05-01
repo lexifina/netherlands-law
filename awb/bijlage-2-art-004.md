@@ -1,7 +1,7 @@
 # Artikel 4. Beroep bij het College van Beroep voor het bedrijfsleven
 Tegen een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan beroep worden ingesteld bij het College van Beroep voor het bedrijfsleven.
 Een besluit van de Sociaal-Economische Raad of van de Kamer van Koophandel, genoemd in artikel 2 van de Wet op de Kamer van Koophandel, met uitzondering van:
-a. een besluit op grond van de Wet openbaarheid van bestuur
+a. een besluit op grond van de Wet open overheid
 b. een besluit ten aanzien van een persoon met betrekking tot diens in artikel 3 van de Ambtenarenwet 2017 bedoelde hoedanigheid
 c. een besluit op grond van de Algemene verordening gegevensbescherming
 Algemene douanewet: een beschikking ter zake van landbouwrestituties

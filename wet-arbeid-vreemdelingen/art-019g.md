@@ -1,6 +1,6 @@
 # Artikel 19g
 1. De toezichthouder of de door Onze Minister aangewezen ambtenaren, bedoeld in artikel 19a, eerste lid, maken het feit dat een bestuurlijke boete is opgelegd wegens overtreding van deze wet als bedoeld in artikel 18, dat een besluit is genomen als bedoeld in artikel 17b, tweede lid, of dat na een afgerond onderzoek geen overtreding is geconstateerd openbaar teneinde de naleving van deze wet te bevorderen en inzicht te geven in het uitvoeren van toezicht op grond van deze wet.
-2. Bij de openbaarmaking, bedoeld in het eerste lid, is artikel 10, eerste lid, onderdelen c en d, van de Wet openbaarheid van bestuur van overeenkomstige toepassing.
+2. Bij de openbaarmaking, bedoeld in het eerste lid, is artikel 5.1, eerste lid, onderdelen c, d en e, en tweede lid, onderdeel f, van de Wet open overheid van overeenkomstige toepassing.
 3. Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de openbaar te maken gegevens, waaronder de mogelijke reactie van een belanghebbende in verband met de openbaarmaking van zijn gegevens, de termijn waarop deze gegevens beschikbaar worden gesteld en de wijze waarop de openbaarmaking plaatsvindt.
 4. Indien geen overtreding is geconstateerd als bedoeld in het eerste lid, is op dat besluit tot openbaarmaking artikel 4:8 van de Algemene wet bestuursrecht niet van toepassing.
 5. De openbaarmaking, bedoeld in het eerste lid, geschiedt niet eerder dan nadat tien werkdagen zijn verstreken na de dag waarop het besluit aan belanghebbende bekend is gemaakt.
