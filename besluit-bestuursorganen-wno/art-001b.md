@@ -1,0 +1,2 @@
+# Artikel 1b
+Als bestuursorgaan als bedoeld in artikel 1a, eerste lid, onderdeel e, van de Wet Nationale ombudsman zijn uitgezonderd: regionale commissies voor de toetsing van meldingen van gevallen van levensbeëindiging op verzoek en hulp bij zelfdoding als bedoeld in artikel 3 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding, voor zover het betreft beoordelingen op grond van artikel 8, eerste lid, van die wet.
