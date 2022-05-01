@@ -1,0 +1,2 @@
+# Artikel 39a
+Degene die de bodem saneert, alsmede degene die de sanering feitelijk uitvoert, voeren de sanering uit overeenkomstig het saneringsplan waarmee door gedeputeerde staten is ingestemd, en overeenkomstig de voorschriften die aan de instemming zijn verbonden. Indien gedeputeerde staten aanwijzingen als bedoeld in artikel 39, vijfde lid, hebben gegeven, wordt bij de uitvoering van de sanering overeenkomstig die aanwijzingen gehandeld.

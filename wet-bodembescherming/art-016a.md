@@ -1,0 +1,3 @@
+# Artikel 16a
+1. Tot de krachtens de artikelen 6 tot en met 12 bij algemene maatregel van bestuur te geven regels kunnen behoren regels met betrekking tot voorwerpen die bij het verrichten van een werkzaamheid als in die artikelen bedoeld, op of in de bodem worden gebracht.
+2. De krachtens de artikelen 6 tot en met 12 bij algemene maatregel van bestuur te geven regels kunnen tevens de verplichting inhouden de bodem na beëindiging van een werkzaamheid als in die artikelen bedoeld, in een daarbij aan te geven toestand te brengen. Daarbij kunnen regels worden gegeven omtrent de wijze waarop die verplichting dient te worden nageleefd.
