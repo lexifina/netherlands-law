@@ -1,9 +1,0 @@
-# Artikel 58r. Kinderopvang
-1. Bij ministeriële regeling kan worden bepaald dat het verboden is kinderopvang geheel of gedeeltelijk geopend te hebben.
-2. In de ministeriële regeling kunnen in ieder geval kindercentra of voorzieningen voor gastouderopvang worden uitgezonderd die opvang bieden aan:
-a. kinderen van ouders die werken in bij ministeriële regeling aangewezen cruciale beroepen of vitale processen;
-b. kinderen in bij die regeling aangewezen leeftijdscategorieën; en
-c. kinderen voor wie vanwege bijzondere problematiek of een moeilijke thuissituatie maatwerk nodig is.
-3. In de ministeriële regeling kan de burgemeester worden opgedragen om locaties aan te wijzen, onderwijsinstellingen daaronder begrepen, die tot vierentwintig uur per dag en zeven dagen per week opvang bieden aan kinderen als bedoeld in het tweede lid. Op deze locaties zijn de eisen, genoemd in hoofdstuk 1, afdeling 3, paragraaf 2, van de Wet kinderopvang, van overeenkomstige toepassing. In de ministeriële regeling kunnen daarvan eisen worden uitgezonderd.
-4. In afwijking van artikel 58j, eerste lid, onder a, kunnen bij ministeriële regeling regels worden gesteld over hygiënemaatregelen en persoonlijke beschermingsmiddelen, met inbegrip van de verplichting tot toepassing of gebruik hiervan, voor zover een kindercentrum, een gastouderbureau of een voorziening voor gastouderopvang in een woning is gevestigd. Dit geldt tevens voor opvang in een woning die wordt geboden op grond van het derde lid.
-5. De artikelen 1.61, 1.62, vierde en vijfde lid,1.63 tot en met 1.66, 1.67a, 1.72 en 1.80 van de Wet kinderopvang zijn van overeenkomstige toepassing ten aanzien van de handhaving van de bij of krachtens dit hoofdstuk gestelde regels in de kinderopvang. Artikel 1.81 van die wet is van overeenkomstige toepassing, voor zover de houder reeds is geregistreerd in het landelijk register kinderopvang. Het tweede, derde en vierde lid van artikel 58l zijn niet van toepassing.

@@ -1,6 +1,0 @@
-# Artikel 58d. Bevoegdheid voorzitter van de veiligheidsregio
-1. Indien de uitoefening van die bevoegdheid leidt tot gevolgen van meer dan plaatselijke betekenis, of ernstige vrees voor het ontstaan daarvan, kan Onze Minister, al dan niet op aanbeveling van de voorzitter van de veiligheidsregio, besluiten dat de voorzitter van de veiligheidsregio in de betrokken gemeente bij uitsluiting bevoegd is toepassing te geven aan:
-a. een bij of krachtens dit hoofdstuk aan de burgemeester toegekende bevoegdheid;
-b. de in artikel 125, derde lid, van de Gemeentewet aan de burgemeester toegekende bevoegdheid, indien het de handhaving van bij of krachtens dit hoofdstuk gestelde regels betreft.
-2. Zodra een omstandigheid als bedoeld in het eerste lid zich niet langer voordoet, trekt Onze Minister zijn besluit in.
-3. In afwijking van artikel 39, eerste lid, van de Wet veiligheidsregio's is voor de bestrijding van de epidemie, of een directe dreiging daarvan, in plaats van de voorzitter van de veiligheidsregio, de burgemeester bevoegd toepassing te geven aan de in die bepaling genoemde artikelen, met uitzondering van de artikelen 5 en 7 van de Wet veiligheidsregio's en artikel 176 van de Gemeentewet. Het eerste lid, aanhef en onder b, en tweede lid zijn van overeenkomstige toepassing.

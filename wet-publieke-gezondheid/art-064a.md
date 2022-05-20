@@ -1,3 +1,0 @@
-# Artikel 64a. Grondslag voor aanwijzing andere toezichthouders dan IGJ en NVWA
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens hoofdstuk Va of onderdelen daarvan, met uitzondering van de artikelen 58q en 58r, zijn voorts belast de bij besluit van Onze Minister aangewezen ambtenaren. Indien de aanwijzing ambtenaren betreft, ressorterende onder een ander ministerie dan dat van Onze Minister, wordt het besluit genomen in overeenstemming met Onze Minister die het mede aangaat.
-2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
