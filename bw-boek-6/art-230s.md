@@ -12,3 +12,4 @@ b. de volledige of gedeeltelijke levering van digitale inhoud die niet op een ma
 2°. de verklaring van de consument als bedoeld in artikel 230p onderdeel g waarmee hij afstand doet van zijn recht van ontbinding ontbreekt; of
 3°. de handelaar heeft verzuimd om de consument overeenkomstig artikel 230t lid 2 respectievelijk artikel 230v lid 7 een afschrift van de bevestiging te verstrekken.
 6. De consument is niet aansprakelijk noch enige kosten verschuldigd door de uitoefening van zijn recht van ontbinding, onverminderd het bepaalde in lid 3, alsmede artikel 230r lid 3.
+7. Na de ontbinding van de overeenkomst ziet de consument af van het gebruik van de digitale inhoud of de digitale dienst en van de terbeschikkingstelling daarvan aan derden.

@@ -1,5 +1,7 @@
 # Artikel 230h
-1. Deze afdeling is van toepassing op overeenkomsten gesloten tussen een handelaar en een consument.
+1. Deze afdeling is van toepassing op overeenkomsten gesloten tussen een handelaar en een consument:
+a. waarbij de consument de prijs ervan betaalt of zich ertoe verbindt deze te betalen; of
+b. waarbij een handelaar digitale inhoud levert die niet wordt geleverd op een materiële drager of een digitale dienst verricht of zich ertoe verbindt deze te verrichten en de consument persoonsgegevens aan de handelaar verstrekt of zich ertoe verbindt deze te verstrekken, tenzij de door de consument verstrekte persoonsgegevens uitsluitend worden verwerkt door de handelaar voor het leveren van de digitale inhoud die niet op een materiële drager wordt geleverd of voor het verrichten van de digitale dienst of om de handelaar in staat te stellen te voldoen aan de op hem van toepassing zijnde wettelijke vereisten, en de handelaar die gegevens voor geen enkel ander doel verwerkt.
 2. Deze afdeling is niet van toepassing op een overeenkomst:
 a. buiten de verkoopruimte waarbij de verbintenis van de consument tot betaling ten hoogste 50 euro bedraagt;
 b. betreffende financiële producten, financiële diensten en fondsvorming als bedoeld in artikel 230w lid 1, onderdeel c, met uitzondering van de paragrafen 1 en 6 van deze afdeling;
@@ -16,4 +18,4 @@ l. die wordt gesloten door middel van verkoopautomaten of geautomatiseerde hande
 m. die wordt gesloten met telecommunicatie-exploitanten door middel van openbare betaaltelefoons met het oog op het gebruik ervan of die worden gesloten met het oog op het gebruik van één enkele internet-, telefoon- of faxverbinding gemaakt door de consument.
 3. Bij de toepassing van lid 2, onderdeel a, worden overeenkomsten buiten de verkoopruimte die gelijktijdig worden gesloten en aanverwante zaken of diensten betreffen in aanmerking genomen voor het aldaar genoemde drempelbedrag.
 4. Deze afdeling is niet van toepassing op zaken die executoriaal worden verkocht.
-5. Op de overeenkomst van personenvervoer zijn slechts de artikelen 230i lid 1, 230j, 230k lid 1 en 230v leden 2 en 3 van toepassing.
+5. Op de overeenkomst van personenvervoer zijn slechts de artikelen 230i lid 1, 230j, 230k en 230v leden 2 en 3 van toepassing.

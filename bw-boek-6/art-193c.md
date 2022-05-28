@@ -13,4 +13,5 @@ a. door de marketing van het product waaronder het gebruik van vergelijkende rec
 b. de handelaar een verplichting die is opgenomen in een gedragscode niet nakomt, voor zover:
 1°. de verplichting concreet en kenbaar is, en
 2°. de handelaar aangeeft dat hij aan die gedragscode gebonden is,
-waardoor de gemiddelde consument een besluit over een overeenkomst neemt of kan nemen, dat hij anders niet had genomen.
+waardoor de gemiddelde consument een besluit over een overeenkomst neemt of kan nemen, dat hij anders niet had genomen;
+c. sprake is van marketing van een goed in één lidstaat, waarbij het goed als identiek wordt voorgesteld aan een goed dat in een andere lidstaat op de markt is, terwijl de samenstelling of kenmerken van dat goed aanzienlijk verschillen en hiervoor geen rechtvaardiging bestaat op grond van legitieme en objectieve factoren.
