@@ -1,0 +1,2 @@
+# Artikel IV
+Op een overtreding van de artikelen 8.2a, 8.3, 8.4a, 8.5, 8.8, of 8.11 van de Wet handhaving consumentenbescherming, die is begonnen voor het tijdstip waarop deze wet of het betreffende onderdeel daarvan in werking is getreden en is beëindigd na dat tijdstip, blijft artikel 2.15 van de Wet handhaving consumentenbescherming van toepassing zoals dat gold onmiddellijk voorafgaand aan dat tijdstip.
