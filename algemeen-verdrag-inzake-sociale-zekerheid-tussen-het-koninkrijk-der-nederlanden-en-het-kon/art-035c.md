@@ -1,0 +1,4 @@
+# Article 35c
+a) Une personne qui a besoin de prestations en nature lors d'un séjour temporaire sur le territoire de l'autre Partie Contractante en vertu des dispositions des paragraphes 1 et 6 de l'article 11 et des paragraphes 5 et 6 de l'article 13 de la Convention générale bénéficie de ces prestations jusqu'au 31 décembre 2020.
+b) Une personne qui lors d'un séjour temporaire sur le territoire de l'autre Partie Contractante bénéficie des prestations en nature conformément au paragraphe a) au 31 décembre 2020, conserve ce droit pendant ce séjour jusqu'à la date de fin du traitement médical sans toutefois excéder une durée maximale d'un an.
+c) Les dispositions des articles 10, 11, 13 et 14 de la Convention générale applicables avant le 1er janvier 2021 restent applicables pour les cas prévus dans les paragraphes précédents du présent article.

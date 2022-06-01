@@ -1,0 +1,8 @@
+# Article 35b
+a) En dérogation au premier paragraphe de l'article 5 de la présente Convention, les allocations familiales dues en vertu de la législation néerlandaise pour les enfants qui résident habituellement au Maroc sont réduites pour les bénéficiaires selon le barème de réduction suivant:
+– pour les enfants dont le droit s'ouvre pendant la période du 2 octobre 2016 au 1er janvier 2017 sont réduites d'un taux fixe de 10% du montant servi aux Pays-Bas durant toute la période d'ouverture des droits;
+– pour les enfants dont le droit s'ouvre pendant la période du 2 janvier 2017 au 1er janvier 2018 sont réduites d'un taux fixe de 20% du montant servi aux Pays-Bas durant toute la période d'ouverture des droits;
+– pour les enfants dont le droit s'ouvre pendant la période du 2 janvier 2018 au 1er janvier 2019 sont réduites d'un taux fixe de 30% du montant servi aux Pays-Bas durant toute la période d'ouverture des droits;
+– pour les enfants dont le droit s'ouvre pendant la période du 2 janvier 2019 au 1er janvier 2021 inclus sont réduites d'un taux fixe de 40% du montant servi aux Pays-Bas durant toute la période d'ouverture des droits.
+b) Les dispositions du premier paragraphe ne s'appliquent pas à la personne qui est déjà bénéficiaire d'allocations familiales en date du 1er octobre 2016 inclus au plus tard en vertu de la loi néerlandaise, aussi longtemps que l'enfant continue de résider au Maroc et dans la mesure où le bénéficiaire et l'enfant continueront à répondre sans interruption aux autres conditions pour avoir droit aux allocations familiales en vertu de la loi néerlandaise.
+c) Les dispositions du paragraphe a) seront appliquées au bénéficiaire pour l'enfant dont la résidence habituelle a été transférée au Maroc après le 1er octobre 2016.
