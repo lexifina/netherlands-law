@@ -1,0 +1,5 @@
+# Article 8b
+1. Le travailleur bénéficiant des prestations en espèces en vertu de la législation néerlandaise et qui est autorisé par l'association professionnelle compétente à continuer à bénéficier de ces prestations après le transfert de sa résidence sur le territoire du Maroc, est tenu de s'adresser avant la date indiquée par l'association professionnelle à la CNSS, à laquelle il doit présenter la confirmation de l'autorisation de l'association professionnelle ainsi qu'un certificat médical, délivré par son médecin traitant.
+2. La CNSS fait établir un rapport sur l'état de santé du travailleur par un médecin désigné par elle. La CNSS transmet ce rapport sans délai à l'association professionnelle compétente.
+3. En ce qui concerne la détermination de l'incapacité de travail éventuelle après la date visée au paragraphe 1, les dispositions des paragraphes 3 et 6 de l'article 8 sont applicables par analogie.
+Les frais du voyage pour donner suite à la convocation mentionnée au paragraphe 3 de l'article 8, seront remboursés à l'intéressé sur présentation des documents justificatifs.
