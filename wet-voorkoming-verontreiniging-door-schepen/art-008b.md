@@ -6,4 +6,4 @@ b. een door Onze Minister af te geven certificaat of document.
 a. onderzoeken waaraan buitenlandse schepen worden onderworpen ter verkrijging van een certificaat of document of tijdens de geldingsduur daarvan, alsmede de inhoud van die onderzoeken en de wijze waarop ze moeten worden verricht;
 b. de aanvraag voor het verkrijgen van een certificaat of document als bedoeld in het eerste lid, onderdeel b, en de daarbij over te leggen bescheiden;
 c. de geldigheid van het certificaat of document en de verlenging van de geldigheidsduur daarvan.
-3. Met het verrichten van onderzoeken als bedoeld in het tweede lid, onderdeel a, zijn belast de ambtenaren van de Inspectie Verkeer en Waterstaat.
+3. Met het verrichten van onderzoeken als bedoeld in het tweede lid, onderdeel a, zijn belast de ambtenaren van de Inspectie Leefomgeving en Transport.

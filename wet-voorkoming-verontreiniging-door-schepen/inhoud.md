@@ -2,10 +2,13 @@
 ## Hoofdstuk I. Begripsomschrijvingen
 ## Hoofdstuk II. Toepassing
 ## Hoofdstuk III. Algemene bepalingen
-### § 1. Lozingsverbod en voorzieningen
-### § 2. Regelen voor schepen
-### § 3. Verplichtingen van de kapitein
-### § 4. Verlaten van een haven
+### § 1. Lozingsverbod
+### § 2. Havenontvangstvoorzieningen
+### § 3. Regelen voor schepen
+### § 4. Verplichtingen van de kapitein
+#### § 4a. Algemene verplichtingen
+#### § 4b. Verplichtingen met betrekking tot de afgifte aan havenontvangstvoorzieningen
+### § 5. Verlaten van een haven
 ## Hoofdstuk IV. Toezicht en aanhouding
 ### § 1. Toezicht
 ### § 2. Aanhouding

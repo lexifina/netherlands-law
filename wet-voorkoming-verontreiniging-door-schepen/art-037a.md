@@ -7,4 +7,4 @@ d. Handelingen als bedoeld in onderdeel b, die geen misdrijven zijn, zijn overtr
 2. Als bijkomende straf kan worden opgelegd:
 a. gehele of gedeeltelijke stillegging van de onderneming van de veroordeelde, waarin de overtreding is begaan voor een tijd van ten hoogste een jaar; of,
 b. verbeurdverklaring van de voorwerpen, genoemd in artikel 35 van het Wetboek van Strafvordering BES.
-3. Met het opsporen van de in het eerste en tweede lid strafbaar gestelde feiten zijn, onverminderd de bij of krachtens artikel 184 van het Wetboek van Strafvordering BES aangewezen ambtenaren, belast de door Onze Minister van Justitie, in overeenstemming met Onze Minister, aangewezen ambtenaren.
+3. Met het opsporen van de in het eerste en tweede lid strafbaar gestelde feiten zijn, onverminderd de bij of krachtens artikel 184 van het Wetboek van Strafvordering BES aangewezen ambtenaren, belast de door Onze Minister van Justitie en Veiligheid, in overeenstemming met Onze Minister, aangewezen ambtenaren.

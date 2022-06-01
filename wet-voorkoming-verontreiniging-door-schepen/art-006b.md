@@ -1,2 +1,5 @@
 # Artikel 6b
-Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de ontvangst en de behandeling van klachten over vermeende ontoereikendheid van havenontvangstvoorzieningen. Bij of krachtens deze maatregel kunnen taken aan de havenbeheerder en aan de inspecteur-generaal worden opgedragen.
+1. Iedere havenbeheerder of houder van een havenontvangstvoorziening verstrekt bij de afgifte van scheepsafvalstoffen door de kapitein van een schip een afvalontvangstbewijs aan de kapitein van het schip.
+2. De exploitant, agent of kapitein van een schip dat onder richtlijn monitoring- en informatiesysteem zeescheepvaart valt is verantwoordelijk dat de informatie van het afvalontvangstbewijs elektronisch wordt gemeld aan SafeSeaNet.
+3. Onze Minister kan een havenbeheerder of houder van een onbemande havenontvangstvoorziening ontheffing verlenen van de verplichting, bedoeld in het eerste lid.
+4. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het afvalontvangstbewijs, de melding aan SafeSeaNet en de ontheffing.
