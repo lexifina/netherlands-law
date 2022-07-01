@@ -1,6 +1,0 @@
-# Artikel 11a. (Opslag stembus, enveloppe en pakken)
-1. Indien het een stembureau betreft als bedoeld in de artikelen 2g, 3a, dan wel 4a van de Tijdelijke wet verkiezingen covid-19 draagt de burgemeester er zorg voor dat enerzijds de stembus en anderzijds de enveloppe en pakken na de dag van stemming, tot het moment dat zij kunnen worden overgedragen aan het gemeentelijk stembureau voor vervroegd stemmen ten behoeve van de stemopneming, gescheiden van elkaar worden vervoerd en gescheiden van elkaar worden opgeslagen in:
-a. een inbraakvertragende en brandwerende voorziening, waaronder in elk geval wordt begrepen een gesloten inbraakwerende waardekast of kluis; of
-b. een ruimte, uitgerust met een inbraakalarmeringssysteem dat in verbinding staat met een door de rijksoverheid toegelaten alarmcentrale; of
-c. een ruimte die onder permanente fysieke (24-uurs) bewaking staat.
-2. Indien het betreft een stembureau als bedoeld in de artikelen J 1, derde lid, of J 4a, eerste lid, van de Kieswet dan wel een stembureau als bedoeld in de artikelen 3 of 4 van de Tijdelijke wet verkiezingen covid-19 waarvan de stemming vóór 21.00 uur is geëindigd, is het eerste lid eveneens van toepassing, met dien verstande dat de verkiezingsbescheiden ten behoeve van de stemopneming worden overgedragen aan het stembureau.
