@@ -1,0 +1,4 @@
+# Artikel 13j. Waardeoverdracht klein pensioen
+1. Onze Minister kan de overdrachtswaarde van de pensioenaanspraken van een gewezen minister met overeenkomstige toepassing van de artikelen 70a en 220b van de Pensioenwet overdragen aan een pensioenuitvoerder als bedoeld in de Pensioenwet, met dien verstande dat voor deze overeenkomstige toepassing Onze Minister wordt beschouwd als de overdragende pensioenuitvoerder.
+2. Een pensioenuitvoerder als bedoeld in de Pensioenwet kan de pensioenaanspraken van een gewezen deelnemer als bedoeld in de Pensioenwet met overeenkomstige toepassing van artikel 70a van de Pensioenwet overdragen aan Onze Minister, met dien verstande dat voor deze overeenkomstige toepassing Onze Minister wordt beschouwd als de ontvangende pensioenuitvoerder.
+3. De krachtens de artikelen 70a, zesde lid, en 220b, vierde lid, onderdeel a, van de Pensioenwet gestelde regels zijn van overeenkomstige toepassing op de waardeoverdracht.

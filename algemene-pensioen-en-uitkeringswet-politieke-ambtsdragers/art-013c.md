@@ -1,6 +1,5 @@
 # Artikel 13c. Het opbouwpercentage
 1. Het opbouwpercentage, bedoeld in artikel 13a, dat voor enig dienstjaar wordt gehanteerd, is het percentage dat voor dat dienstjaar voor de opbouw van het ouderdomspensioen van overheidswerknemers wordt gehanteerd.
-2. Gedurende de jaren dat langer dan drie jaren en twee maanden een uitkering als bedoeld in hoofdstuk 3 wordt genoten, is het opbouwpercentage de helft van het in het eerste lid bedoelde percentage.
-3. In afwijking van het tweede lid wordt het opbouwpercentage niet gehalveerd gedurende de tijd dat de betrokkene voor 55 procent of meer algemeen invalide is.
-4. Gedurende de tijd waarin de uitkering is verminderd vanwege inkomsten als bedoeld in artikel 9, wordt het met toepassing van het eerste tot en met derde lid gevonden opbouwpercentage vermenigvuldigd met een factor die gelijk is aan de verminderde uitkering gedeeld door de uitkering zonder vermindering.
-5. Het opbouwpercentage is nul indien de betrokkene daarom verzoekt.
+2. Gedurende de periode dat een uitkering als bedoeld in hoofdstuk 3 wordt genoten, is het opbouwpercentage de helft van het percentage, bedoeld in het eerste lid. Gedurende de periode waarin de uitkering met toepassing van artikel 6, tweede lid, niet wordt uitbetaald, is het opbouwpercentage nihil.
+3. In afwijking van het tweede lid wordt het opbouwpercentage niet gehalveerd gedurende de tijd dat de betrokkene voor 55 procent of meer algemeen invalide is en de invaliditeit veroorzaakt is door een dienstongeval.
+4. Gedurende de tijd waarin de uitkering is verminderd vanwege toepassing van artikel 7c, eerste lid, of vanwege inkomsten als bedoeld in artikel 9, wordt het met toepassing van het eerste tot en met derde lid gevonden opbouwpercentage vermenigvuldigd met een factor die gelijk is aan de verminderde uitkering gedeeld door de uitkering zonder vermindering.
