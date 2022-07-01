@@ -1,0 +1,2 @@
+# Artikel 208ec
+Op overeenkomsten tot verhuur van ligplaatsen, die zijn gesloten voor het tijdstip van inwerkingtreding van de artikelen 236a, 247a, 268a en 270b van Boek 7 en van de tegelijk met die artikelen in werking getreden wijzigingen van de artikelen 226 lid 4, 231 lid 1, 233, 271 lid 1 en 275 lid 4 van dat boek, worden die artikelen en die wijzigingen twee jaar na dat tijdstip van toepassing.
