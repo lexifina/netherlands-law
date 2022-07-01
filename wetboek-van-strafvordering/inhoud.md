@@ -132,6 +132,7 @@
 #### afdeling Eerste. Inleidende bepalingen
 ### Titel IID. Gedragsaanwijzing ter beëindiging van ernstige overlast
 ### Titel III. Vervolging en berechting van rechterlijke ambtenaren
+### Titel IIIa. Onderzoek naar gebruik van geweld door ambtenaren
 ### Titel IIIb. Strafvordering ter zake van ontneming van wederrechtelijk verkregen voordeel
 ### Titel IV. Wraking en verschoning van rechters
 ### Titel V. Geschillen over rechtsmacht
@@ -215,6 +216,7 @@
 #### titel Tweede. Ontneming van wederrechtelijk verkregen voordeel
 #### titel Derde. Bevel gijzeling
 #### titel Vierde. Storting waarborgsom
+#### titel Vijfde. Onderzoek naar het vermogen van de veroordeelde
 ### Hoofdstuk 5. Bijkomende straffen
 ### Hoofdstuk 6. Rechterlijke beslissingen inzake de tenuitvoerlegging
 #### titel Eerste. Algemeen

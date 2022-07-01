@@ -1,0 +1,7 @@
+# Artikel 56a
+1. Op vordering van het openbaar ministerie kan de rechter bepalen dat aan degene die is veroordeeld wegens een feit strafbaar gesteld in de artikelen 54 of 55, de verplichting wordt opgelegd tot het vergoeden van de kosten die ten laste van de staat komen, in verband met de vernietiging van voorwerpen die ernstig gevaar opleveren voor de leefomgeving of voor de volksgezondheid en ten aanzien waarvan:
+a. de maatregel, bedoeld in artikel 36b, eerste lid, van het Wetboek van Strafrecht, wordt opgelegd
+b. de maatregel, bedoeld in artikel 36b, eerste lid, van het Wetboek van Strafrecht, had kunnen worden opgelegd maar waarvan door de veroordeelde afstand is gedaan op de wijze bedoeld in artikel 116, tweede lid, aanhef en onderdeel c, van het Wetboek van Strafvordering; of
+c. een machtiging tot vernietiging als bedoeld in artikel 117, eerste lid, van het Wetboek van Strafvordering is verleend, voor zover het voorwerpen betreft die van zodanige aard zijn dat het ongecontroleerde bezit daarvan in strijd is met de wet of het algemeen belang.
+2. De rechter kan het te betalen bedrag lager vaststellen dan de kosten, bedoeld in het eerste lid. Artikel 36e, vijfde lid, vijfde en zesde volzin, van het Wetboek van Strafrecht is van overeenkomstige toepassing.
+3. De tenuitvoerlegging van de maatregel, bedoeld in het eerste lid, geschiedt op de wijze van tenuitvoerlegging van de maatregel, bedoeld in artikel 36e van het Wetboek van Strafrecht.

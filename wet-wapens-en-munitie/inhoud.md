@@ -15,4 +15,5 @@
 ## § 11. Toezicht op de naleving
 ## § 11a. Opsporing
 ## § 12. Strafbepalingen
-## § 13. Slotbepalingen
+## § 13. Maatregelen
+## § 14. Slotbepalingen
