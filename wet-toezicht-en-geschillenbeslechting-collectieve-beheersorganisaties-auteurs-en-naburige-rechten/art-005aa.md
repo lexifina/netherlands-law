@@ -1,0 +1,4 @@
+# Artikel 5aa
+1. Het College van Toezicht kan vaststellen of de betrouwbaarheid en geschiktheid van een persoon die bij een collectieve beheersorganisatie is of wordt belast met taken als bedoeld in de artikelen 2e, eerste lid, of 2f, eerste lid, buiten twijfel staat, op basis van diens voornemens, handelingen en antecedenten, wanneer het geïnde bedrag aan vergoedingen van een collectieve beheersorganisatie in een bepaald kalenderjaar meer bedraagt dan € 50.000.000.
+2. Indien onderzoek benodigd is ten behoeve van de vaststelling, bedoeld in het eerste lid, komen de kosten van het onderzoek voor rekening van de collectieve beheersorganisatie.
+3. Bij algemene maatregel van bestuur worden nadere voorschriften vastgesteld over de wijze waarop de betrouwbaarheid en geschiktheid van een persoon, als bedoeld in het eerste lid, kan worden vastgesteld.
