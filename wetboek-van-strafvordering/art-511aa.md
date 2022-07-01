@@ -1,0 +1,7 @@
+# Artikel 511aa
+1. In het feitenonderzoek kan de officier van justitie, of, indien de artikelen de hulpofficier of de opsporingsambtenaar als bevoegd aanwijzen, deze ambtenaar, de in de artikelen 61a, eerste lid, onderdeel h, 96 tot en met 96c, 97, met uitzondering van het eerste lid, onderdeel b, 99, 124, 125, 125i, 126nc, 126nd, 150 en 151 bedoelde bevoegdheden uitoefenen en kan de rechter-commissaris op vordering van de officier van justitie de bevoegdheden van de artikelen 104 tot en met 110 uitoefenen. Artikel 94, eerste en derde lid, is van overeenkomstige toepassing, met dien verstande dat in het feitenonderzoek alleen vatbaar voor inbeslagneming zijn alle voorwerpen die kunnen dienen om de waarheid aan de dag te brengen.
+2. Een bevel als bedoeld in de artikelen 96a, eerste lid, 105, eerste lid, 126nc, eerste lid, en 126nd, eerste lid, wordt niet gericht aan de ambtenaar, bedoeld in artikel 511a, eerste lid.
+3. De in het eerste lid bedoelde bevoegdheden kunnen slechts worden uitgeoefend indien:
+a. het geweldgebruik, bedoeld in artikel 511a, eerste lid, lichamelijk letsel of de dood tot gevolg heeft gehad;
+b. de uitoefening van de desbetreffende bevoegdheid in redelijke verhouding staat tot de aard van het geweldgebruik ter beoordeling waarvan het feitenonderzoek is ingesteld;
+c. het vergaren van gegevens voor het feitenonderzoek door uitoefening van de desbetreffende bevoegdheid niet op een andere, minder ingrijpende wijze mogelijk is.
