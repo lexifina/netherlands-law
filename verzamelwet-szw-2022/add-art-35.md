@@ -1,0 +1,2 @@
+# Artikel XXXV. Inwerkingtreding
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, waarbij de artikelen IA, II, onderdeel B, III, onderdeel aA, VI, onderdeel E, VII, VIII, onderdeel Ba, X, onderdelen Ea en G, XA, XVIIIA, XVIIIB, XIX, XX, onderdeel A, XXIII, onderdeel Aa, XXXII, onderdeel Da, XXXIII, onderdeel Ba, kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip.
