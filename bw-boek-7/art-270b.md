@@ -1,0 +1,4 @@
+# Artikel 270b
+1. Indien de huurder van een ligplaats eigenaar is van het op die ligplaats afgemeerde voor bewoning bestemde drijvend object, kan die huurder bij verkoop van dat drijvend object vorderen dat de rechter hem zal machtigen om de koper in zijn plaats als huurder te stellen.
+2. De rechter beslist met inachtneming van de omstandigheden van het geval, met dien verstande dat hij de vordering slechts kan toewijzen indien de huurder een zwaarwichtig belang heeft bij de indeplaatsstelling en dat hij deze afwijst indien de voorgestelde huurder vanuit financieel oogpunt niet voldoende waarborg biedt voor een behoorlijke nakoming van de huur. De rechter kan aan de machtiging voorwaarden verbinden of daarbij een last opleggen.
+3. Van deze bepaling kan niet ten nadele van de huurder worden afgeweken.
