@@ -1,2 +1,3 @@
 # Artikel 14a
-Het bestuur van een bedrijfsvoeringsorganisatie bestaat uit leden die per deelnemende gemeente door het college uit zijn midden worden aangewezen. Artikel 13, tweede tot en met het vijfde lid, is van overeenkomstige toepassing.
+1. Het bestuur van een bedrijfsvoeringsorganisatie bestaat uit leden die per deelnemende gemeente door het college uit zijn midden worden aangewezen. Artikel 13, tweede tot en met het vijfde lid, is van overeenkomstige toepassing. Indien de regeling uitsluitend strekt tot behartiging van opleiding en vorming van ambtenaren, kan in de regeling worden bepaald, dat ook de gemeentesecretaris als lid van het bestuur kan worden aangewezen.
+2. Onverminderd artikel 13, tweede lid, eindigt het lidmaatschap van het bestuur zodra het betreffende lid ophoudt secretaris van de desbetreffende deelnemende gemeente te zijn.
