@@ -1,3 +1,0 @@
-# Artikel 22g. (Overdracht proces-verbaal gemeentelijk stembureau voor vervroegd stemmen)
-1. Het proces-verbaal van het gemeentelijk stembureau voor vervroegd stemmen wordt met de processen-verbaal, bedoeld in artikel 22a, derde lid, de verzegelde pakken, bedoeld in de artikelen N 2 en N 9 van de Kieswet, door ten minste twee leden van het gemeentelijk stembureau voor vervroegd stemmen naar de burgemeester overgebracht.
-2. De burgemeester voegt het proces-verbaal van het gemeentelijk stembureau voor vervroegd stemmen bij de processen-verbaal die hij ontvangt op grond van artikel N 11, eerste lid, van de Kieswet en vervolgt zijn handelingen overeenkomstig het bepaalde in artikel N 11, tweede lid, van de Kieswet.

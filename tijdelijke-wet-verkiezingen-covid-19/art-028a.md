@@ -1,3 +1,0 @@
-# Artikel 28a. (Openbaarmaking digitaal bestand gemeentelijk stembureau)
-1. Indien het gemeentelijk stembureau programmatuur heeft gebruikt ten behoeve van de vaststelling van de uitkomsten van de stemopneming, bedoeld in artikel 38 van het Tijdelijk experimentenbesluit stembiljetten en centrale stemopneming, maakt het gemeentelijk stembureau, onverminderd artikel 42, eerste lid, van het Tijdelijk experimentenbesluit stembiljetten en centrale stemopneming, het daarmee gegenereerde digitale bestand onverwijld op een algemeen toegankelijke wijze elektronisch openbaar.
-2. Bij ministeriële regeling kunnen nadere regels worden gesteld over de elektronische openbaarmaking van het proces-verbaal en de digitale bestanden.
