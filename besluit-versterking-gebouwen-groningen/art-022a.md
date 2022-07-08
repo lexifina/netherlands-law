@@ -1,0 +1,4 @@
+# Artikel 22a. Overgangsrecht
+Artikel 3 van het Besluit versterking gebouwen Groningen, zoals dat luidde voor inwerkingtreding van artikel I van de Beleidsregel van 9 februari 2021 tot wijziging van het Besluit versterking gebouwen Groningen in verband met de actualisatie van de technische beoordelingsmethoden (Stcrt. 2021, 6663), blijft van toepassing op:
+a. een normbesluit dat is vastgesteld voor inwerkingtreding van artikel I van de Beleidsregel van 9 februari 2021 tot wijziging van het Besluit versterking gebouwen Groningen in verband met de actualisatie van de technische beoordelingsmethoden (Stcrt. 2021, 6663);
+b. de beoordeling van huizen die al dusdanig ver in het proces bij ingenieursbureaus zitten dat het implementeren van de nieuwste inzichten zorgt voor disproportionele vertraging.

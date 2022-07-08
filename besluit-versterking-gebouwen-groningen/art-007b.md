@@ -1,0 +1,8 @@
+# Artikel 7b. Besluit inzake herbeoordeling en tegemoetkoming
+1. De uitvoeringsorganisatie besluit binnen acht weken na ontvangst van het verzoek, bedoeld in artikel 7a, eerste lid, of de verzoeker in aanmerking komt voor een herbeoordeling en een tegemoetkoming.
+2. De uitvoeringsorganisatie kan de termijn, bedoeld in het eerste lid, verlengen tot acht weken na het tijdstip waarop alle eigenaren van gebouwen die constructief verbonden zijn een verzoek als bedoeld in het eerste lid, hebben ingediend.
+3. Indien de uitvoeringsorganisatie besluit dat de verzoeker in aanmerking komt voor een herbeoordeling en een tegemoetkoming kan de verzoeker geen aanspraak meer maken op uitvoering van de versterkingsmaatregelen die gebaseerd zijn op een beoordeling die heeft plaatsgevonden volgens de NPR:9998:2018 tijdvak 2 of een eerdere versie van de NPR:9998.
+4. Indien de uitvoeringsorganisatie besluit dat de verzoeker in aanmerking komt voor een herbeoordeling en een tegemoetkoming en voor dat gebouw een normbesluit als bedoeld in artikel 8 of een versterkingsbesluit als bedoeld in artikel 9 is vastgesteld, trekt de uitvoeringsorganisatie dat norm- of versterkingsbesluit in en neemt zij een nieuw norm- of versterkingsbesluit op basis van de nieuwe beoordeling.
+5. De tegemoetkoming, bedoeld in het eerste lid, wordt uitgekeerd nadat het besluit, bedoeld in het eerste lid, onherroepelijk is geworden en bedraagt:
+a. bij een gebouw dat niet gesplitst is in appartementsrechten: € 13.000 per adres en wordt uitgekeerd aan de eigenaar.
+b. bij een gebouw dat is gesplitst in appartementsrechten: € 13.000 per adres dat op 6 november 2020 bestond, en wordt uitgekeerd aan de houder van de appartementsrechten van dat adres.

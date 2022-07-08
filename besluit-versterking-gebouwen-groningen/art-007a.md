@@ -1,0 +1,5 @@
+# Artikel 7a. Verzoek tot herbeoordeling
+1. Indien uit een beoordeling die heeft plaatsgevonden volgens de NPR:9998:2018 tijdvak 2 of een eerdere versie van de NPR:9998 blijkt dat een gebouw niet aan de veiligheidsnorm voldoet, kan de eigenaar van het gebouw de uitvoeringsorganisatie verzoeken om het gebouw te laten beoordelen volgens één van de in artikel 3 voorgeschreven methoden, tenzij voor de uitvoering van de versterkingsmaatregelen al een aannemingsovereenkomst of depotovereenkomst is overeengekomen.
+2. Indien een gebouw is gesplitst in appartementsrechten en de versterkingsmaatregelen uit het versterkingsadvies mede zien op de gemeenschappelijke delen wordt het verzoek, bedoeld in het eerste lid, gedaan door de vereniging van eigenaars.
+3. Een verzoek als bedoeld in het eerste lid wordt ingediend bij de uitvoeringsorganisatie door middel van een door de uitvoeringsorganisatie vastgesteld formulier.
+4. Een verzoek als bedoeld in het eerste lid kan worden gedaan tot en met het tijdstip dat vermeld is in de brief waarmee het formulier, bedoeld in het derde lid, aan de eigenaar wordt verstrekt. Dat tijdstip is zes maanden na dagtekening van die brief.
