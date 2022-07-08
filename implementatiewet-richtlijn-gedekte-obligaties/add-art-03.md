@@ -1,0 +1,6 @@
+# Artikel III
+1. Op geregistreerde gedekte obligaties als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, zoals dat gold voor de inwerkingtreding van deze wet, die zijn uitgegeven tot en met 7 juli 2022, zijn de artikelen 3:33a, eerste tot en met derde lid, en 3:33b, eerste en tweede lid, van de Wet op het financieel toezicht en artikel 212re Faillissementswet niet van toepassing.
+2. Op geregistreerde gedekte obligaties als bedoeld in het eerste lid zijn van toepassing:
+a. artikel 3:33ba van de Wet op het financieel toezicht;
+b. artikel 3:33a, tweede tot en met vierde lid, van de Wet op het financieel toezicht, zoals dat gold voor de inwerkingtreding van deze wet.
+3. Het eerste en tweede lid zijn tot en met 7 juli 2024 van overeenkomstige toepassing op geregistreerde gedekte obligaties als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, zoals dat gold voor de inwerkingtreding van deze wet, die voldoen aan de vereisten als bedoeld in artikel 30, tweede lid, van de richtlijn nr. 2019/2162/EU van het Europees Parlement en de Raad van 27 november betreffende de uitgifte van gedekte obligaties en het overheidstoezicht op gedekte obligaties en tot wijziging van de Richtlijnen 2009/65/EG en 2014/59/EU (PbEU 2019, L 328).
