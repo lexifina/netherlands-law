@@ -1,2 +1,0 @@
-# Artikel 18a. Overgangsbepaling kennisgeving in- en uitschrijving primair onderwijs en (voortgezet) speciaal onderwijs
-Tot een bij koninklijk besluit te bepalen tijdstip wordt in artikel 18, vijfde lid, voor «school als bedoeld in artikel 1, onderdeel b, subonderdelen 1 of 2» gelezen: dagschool voor voortgezet onderwijs als bedoeld in artikel 1, onderdeel b, subonderdeel 1, of een school als bedoeld in artikel 1, onderdeel b, subonderdeel 2.
