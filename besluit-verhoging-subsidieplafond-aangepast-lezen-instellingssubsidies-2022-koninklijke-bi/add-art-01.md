@@ -1,3 +1,0 @@
-# I
-Het bij besluit van 3 juni 2021, op grond van artikel 3, eerste lid, onder b, vermelde activiteiten 'productie en levering' voor 2022 vastgestelde deelsubsidieplafond voor de 'productie en levering' als bedoeld in artikel 7, derde lid, onder a van € 1.672.000,– te verhogen tot € 1.807.000,–. Het totale voor 2022 vastgestelde subsidieplafond voor de op grond van artikel 3, eerste lid, onder b, vermelde activiteiten wordt daarmee van € 9.610.000,–-verhoogd tot € 9.745.000,–.
-Bij de verdeling van het beschikbare budget wordt voorrang gegeven aan instellingen die voorafgaand aan de inwerkingtreding van de Tijdelijke subsidieregels Aangepast Lezen 2020–2022, de bibliotheekvoorziening Aangepast Lezen uitvoerden.
