@@ -1,0 +1,2 @@
+# Artikel 1a. Uitbreiding begrip deelnemer
+Als deelnemer wordt voor de toepassing van deze regeling en de wijzigingsmogelijkheid, bedoeld in artikel 21a, eveneens beschouwd de natuurlijk persoon die in een sector werkzaam is geweest, een band heeft met de Nederlandse arbeidsmarkt, achttien jaar of ouder is en de pensioengerechtigde leeftijd, bedoeld in artikel 7a van de Algemene Ouderdomswet of artikel 6 van de Wet algemene ouderdomsverzekering BES, nog niet heeft bereikt, die zijn dienstbetrekking of werkzaamheden anderszins heeft verloren en die werkzoekend is.
