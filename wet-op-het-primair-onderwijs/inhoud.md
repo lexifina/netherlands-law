@@ -37,7 +37,9 @@
 #### Afdeling 9. Onderwijsachterstandenbeleid
 #### Afdeling 10. Verslaglegging en informatieverstrekking
 #### Afdeling 11. Zij-instroom in het beroep
-#### Afdeling 12. Experimenten
+#### Afdeling 12. Experimenten en tijdelijke onderwijsvoorzieningen bij massale toestroom ontheemden
+##### § 1. Experimenten
+##### § 2. Tijdelijke onderwijsvoorzieningen bij massale toestroom van ontheemden
 #### Afdeling 13. Overige bepalingen
 ## Hoofdstuk II. Andere vormen van basisonderwijs
 ## Hoofdstuk III. Bevoegdheden t.a.v. de rechtspersoon, bedoeld in de artikelen 188 en 190 en evaluatie
