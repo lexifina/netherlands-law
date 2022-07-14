@@ -1,0 +1,2 @@
+# Artikel 11a. Algemene voorschriften eerste twee leerjaren
+Het onderwijs in de eerste twee leerjaren wordt zodanig ingericht dat met behoud van keuzevrijheid de doorstroming van leerlingen wordt bevorderd naar een van de profielen, bedoeld in de artikelen 10, 10b of 10d of naar het derde leerjaar voorbereidend wetenschappelijk onderwijs en hoger algemeen voortgezet onderwijs en vervolgens naar de periode van voorbereidend hoger onderwijs, bedoeld in artikel 12.

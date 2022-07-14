@@ -1,0 +1,3 @@
+# Artikel 6h. Meetellen onderwijstijd
+1. Indien een leerling gedurende een deel van het onderwijsprogramma onderwijs ontvangt op een school voor voortgezet speciaal onderwijs, op een school voor speciaal en voortgezet speciaal onderwijs, dan wel op een instelling voor speciaal en voortgezet speciaal onderwijs als bedoeld in de Wet op de expertisecentra, telt de tijd gedurende welke de leerling dit onderwijs ontvangt mee voor het aantal uren onderwijs dat de leerling ten minste moet ontvangen.
+2. Bij algemene maatregel van bestuur kunnen voorschriften worden gegeven omtrent de uitvoering van het eerste lid alsmede omtrent de aard en de eisen aan de scholen en instellingen, bedoeld in het eerste lid.

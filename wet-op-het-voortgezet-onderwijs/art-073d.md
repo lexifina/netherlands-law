@@ -1,0 +1,4 @@
+# Artikel 73d. Tijdelijke nevenvestiging
+1. Een tijdelijke nevenvestiging voorziet in de tijdelijke huisvestingsbehoefte van een hoofdvestiging of nevenvestiging en is gelegen op hemelsbreed gemeten een afstand van minder dan 3 kilometer van de hoofdvestiging of nevenvestiging.
+2. Onze Minister brengt een tijdelijke nevenvestiging voor bekostiging in aanmerking indien het bevoegd gezag heeft aangetoond dat het college van burgemeester en wethouders van de gemeente de benodigde huisvesting ter beschikking zal stellen. De verplichting in de eerste volzin is niet van toepassing op verticale scholengemeenschappen en op scholen waarvoor jaarlijks een bedrag voor huisvestingskosten wordt betaald op grond van artikel 76v.
+3. Op een tijdelijke nevenvestiging kan onderwijs worden verzorgd in dezelfde schoolsoorten, in dezelfde profielen als bedoeld in de artikelen 10b en 10d, en in dezelfde leerjaren als op de hoofdvestiging of nevenvestiging.

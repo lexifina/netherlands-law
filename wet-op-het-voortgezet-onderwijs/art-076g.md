@@ -1,0 +1,2 @@
+# Artikel 76g. Overzicht
+Burgemeester en wethouders stellen gelijktijdig met het programma, bedoeld in artikel 76f, ten behoeve van het onderwijs op het grondgebied van de gemeente voor een door hen te bepalen tijdstip een overzicht vast van die voorzieningen die zijn aangevraagd dan wel nodig zijn, die niet op het programma zijn opgenomen. Daarbij wordt aangegeven waarom de desbetreffende voorzieningen niet zijn opgenomen. Het overzicht wordt ter inzage gelegd. Het overzicht heeft betrekking op scholen als bedoeld in artikel 76d, eerste lid, onderdelen a tot en met e.

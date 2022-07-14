@@ -1,0 +1,3 @@
+# Artikel 10b7. Samenwerkingsovereenkomst met roc of aoc
+1. Leer-werktrajecten worden verzorgd op grondslag van een samenwerkingsovereenkomst tussen het bevoegd gezag van de school en het bevoegd gezag van een regionaal opleidingencentrum of een agrarisch opleidingscentrum voor zover aan die instelling een basisberoepsopleiding als bedoeld in artikel 7.2.2, eerste lid, onder b, van de Wet educatie en beroepsonderwijs wordt verzorgd.
+2. Een samenwerkingsovereenkomst als bedoeld in het eerste lid voorziet in elk geval in de inrichting van een doorlopende leerweg tot en met de basisberoepsopleiding, bedoeld in artikel 7.2.2, eerste lid, onder b, van de Wet educatie en beroepsonderwijs.

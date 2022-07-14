@@ -1,0 +1,2 @@
+# Artikel 76v. Jaarlijks bedrag voor huisvestingskosten van andere dan gemeentelijke scholen
+In afwijking van dit hoofdstuk kan de gemeenteraad besluiten dat jaarlijks een bedrag voor huisvestingskosten wordt betaald aan het bevoegd gezag van een andere dan een gemeentelijke school voor zover die op het grondgebied van die gemeente in stand wordt gehouden. De gemeenteraad neemt het besluit in overeenstemming met het bevoegd gezag.

@@ -1,0 +1,8 @@
+# Artikel 32c. Vaststelling managementstatuut
+1. Het bevoegd gezag stelt na overleg met de rector, de directeur, de conrector en de adjunct-directeur en indien toepassing is gegeven aan artikel 32a met de centrale directie, een managementstatuut vast. In het managementstatuut is ten minste een regeling opgenomen betreffende de bevoegdheden van de rector, de directeur, de conrector en de adjunct-directeur en indien toepassing is gegeven aan artikel 32a van de bevoegdheden van de centrale directie, met betrekking tot de toedeling, bestemming en aanwending van de bekostiging.
+2. Het managementstatuut bevat tevens de aanduiding van de andere aan het bevoegd gezag bij wettelijk voorschrift toegekende taken en bevoegdheden waarvan het bevoegd gezag heeft bepaald dat de rector, de directeur, de conrector, de adjunct-directeur of de centrale directie van de school deze in naam van het bevoegd gezag kan uitoefenen. Het managementstatuut bevat voorts instructies ten aanzien van deze taken en bevoegdheden.
+3. In het managementstatuut worden tevens vastgelegd:
+a. de taken en bevoegdheden die het bestuur overdraagt aan de centrale directie, de rector en de directeur van de school, indien toepassing is gegeven aan artikel 32b1, eerste lid;
+b. de taken en bevoegdheden die de centrale directie, de rector en de directeur van de school hebben overgedragen aan elkaar of aan de adjunct-directeur, indien toepassing is gegeven aan artikel 32b1, tweede lid; en
+c. de richtlijnen voor de uitoefening van de overgedragen taken en bevoegdheden.
+4. Het bevoegd gezag stelt het managementstatuut, alsmede elke wijziging daarvan, zo spoedig mogelijk na de vaststelling op een voor eenieder toegankelijke wijze beschikbaar.

@@ -1,0 +1,2 @@
+# Artikel 28a. Melding verzuim niet-leerplichtigen
+Indien degene die voldoet aan artikel 28, eerste lid, onderdelen a en b, het onderwijs aan de school gedurende een aaneengesloten periode van ten minste vier weken of een door het bevoegd gezag te bepalen kortere periode zonder geldige reden, waaronder in ieder geval de redenen, bedoeld in artikel 27a, negende lid, worden verstaan, niet meer volgt, ontstaat voor het bevoegd gezag de leveringsverplichting, bedoeld in artikel 12, derde lid, van de Wet register onderwijsdeelnemers.

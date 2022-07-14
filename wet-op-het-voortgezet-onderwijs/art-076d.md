@@ -1,0 +1,8 @@
+# Artikel 76d. Vaststelling door burgemeester en wethouders van bekostigingsplafond voor nieuwe voorzieningen in de huisvesting
+1. Burgemeester en wethouders stellen jaarlijks ten behoeve van het eerstvolgende jaar voor een door hem te bepalen tijdstip een bekostigingsplafond vast voor de bekostiging van de voorzieningen in de huisvesting voor:
+a. basisscholen als bedoeld in de Wet op het primair onderwijs,
+b. speciale scholen voor basisonderwijs als bedoeld in de Wet op het primair onderwijs,
+c. scholen voor speciaal onderwijs, scholen voor voortgezet speciaal onderwijs, scholen voor speciaal en voortgezet speciaal onderwijs dan wel instellingen voor speciaal en voortgezet speciaal onderwijs als bedoeld in de Wet op de expertisecentra,
+d. scholen voor voortgezet speciaal onderwijs als bedoeld in deze wet, en
+e. scholen voor voorbereidend wetenschappelijk onderwijs, voor hoger en middelbaar algemeen voortgezet onderwijs, voor voorbereidend beroepsonderwijs en voor praktijkonderwijs.
+2. Het bekostigingsplafond wordt zodanig vastgesteld dat redelijkerwijs kan worden voorzien in de huisvesting van de in het eerste lid bedoelde scholen op het grondgebied van de gemeente.

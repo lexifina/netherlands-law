@@ -1,0 +1,3 @@
+# Artikel 118q. Kwaliteitsbewaking; sancties
+1. Het in artikel 118n en het in artikel 118p bedoelde bestuur dragen zorg voor de kwaliteit van de werkzaamheden van de instelling.
+2. Onze Minister kan besluiten dat ten aanzien van een instelling een of meer van de in artikel 118n, of artikel 118p, eerste lid, bedoelde bevoegdheden worden ontnomen indien gebleken is dat de kwaliteit van de uitoefening daarvan tekortschiet, dan wel indien niet of niet meer wordt voldaan aan het terzake bij en krachtens deze wet bepaalde. Artikel 6.10, vierde lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek is van overeenkomstige toepassing ten aanzien van de ontneming.

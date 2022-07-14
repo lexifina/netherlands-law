@@ -1,0 +1,3 @@
+# Artikel 76j. Tijdstip aanvang bekostiging; vervallen aanspraak op bekostiging
+1. Burgemeester en wethouders beslissen bij beschikking met ingang van welk tijdstip in het jaar volgend op het jaar van vaststelling van het programma, bedoeld in artikel 76f, de bekostiging van een voorziening die in het programma is opgenomen, daadwerkelijk een aanvang kan nemen, onverminderd het bepaalde in artikel 76l.
+2. De aanspraak op bekostiging van een voorziening vervalt, indien niet binnen een in de verordening op basis van artikel 76m te bepalen termijn na de beschikking, bedoeld in het eerste lid, met betrekking tot de voorziening een bouwopdracht is gegeven dan wel een koop-, huur- of erfpachtovereenkomst is gesloten.

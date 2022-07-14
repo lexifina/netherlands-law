@@ -1,0 +1,2 @@
+# Artikel 23a. Kwaliteit onderwijs
+Het bevoegd gezag draagt zorg voor de kwaliteit van het onderwijs op de school. Onder zorg dragen voor de kwaliteit van het onderwijs wordt in elk geval verstaan het naleven van de bij of krachtens deze wet gegeven voorschriften en het uitvoeren van het stelsel van kwaliteitszorg, bedoeld in artikel 24, vierde lid.

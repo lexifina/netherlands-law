@@ -1,0 +1,4 @@
+# Artikel 76q. Onderhoudsplicht; verbod tot vervreemding en bezwaring
+1. Het bevoegd gezag is verplicht het gebouw en terrein, alsmede de roerende zaken waarvoor bekostiging wordt genoten, behoorlijk te gebruiken en te onderhouden.
+2. Vervreemding door het bevoegd gezag van een andere dan een gemeentelijke school anders dan op grond van de artikelen 42c en 50, van gebouwen, terreinen en roerende zaken waarvoor bekostiging wordt genoten, of bezwaren met een zakelijk recht door het bevoegd gezag van een andere dan een gemeentelijke school van zodanige gebouwen en terreinen is zonder toestemming van burgemeester en wethouders nietig.
+3. Het tweede lid is niet van toepassing ten aanzien van het recht van opstal ten behoeve van een door de gemeente te plaatsen tijdelijke voorziening in de huisvesting op grond die eigendom is van het bevoegd gezag van de betrokken school.

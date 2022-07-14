@@ -1,0 +1,4 @@
+# Artikel 76n. Bouwheerschap
+1. Het bevoegd gezag van een andere dan een gemeentelijke school geeft opdracht de voorziening in de huisvesting waartoe op grond van de artikelen 76f en 76i kan worden overgegaan, tot stand te brengen met daartoe door de gemeente beschikbaar te stellen gelden, tenzij het met burgemeester en wethouders overeenkomt dat de gemeente deze voorziening tot stand brengt.
+2. Indien de gemeente de voorziening in de huisvesting van een andere dan een gemeentelijke school tot stand heeft gebracht, worden gebouw en terrein aan het bevoegd gezag in eigendom overgedragen, tenzij burgemeester en wethouders en het bevoegd gezag anders overeenkomen.
+3. Indien de voorziening in de huisvesting, bedoeld in het tweede lid, niet voldoet aan de eisen voor eigendomsoverdracht, geven burgemeester en wethouders deze aan het bevoegd gezag in gebruik.

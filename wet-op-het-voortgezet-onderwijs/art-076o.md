@@ -1,0 +1,2 @@
+# Artikel 76o. Instemming met eigen bouwplannen voor een andere dan een gemeentelijke school
+Tenzij het bevoegd gezag van een andere dan een gemeentelijke school dat aanspraak heeft op bekostiging van een voorziening in de huisvesting, met burgemeester en wethouders overeenkomt dat de gemeente deze voorziening tot stand brengt, behoeven de bouwplannen en de desbetreffende begrotingen de instemming van burgemeester en wethouders.

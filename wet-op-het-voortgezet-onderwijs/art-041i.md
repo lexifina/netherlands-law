@@ -1,0 +1,2 @@
+# Artikel 41i. Opneming in het lerarenregister
+Nadat een leraar de gegevens, bedoeld in artikel 41g, tweede en derde lid, heeft verstrekt, neemt Onze Minister het burgerservicenummer en de andere gegevens die zijn geleverd op grond van artikel 41g en verkregen op grond van artikel 41h of 41r, tweede lid, op in het lerarenregister, met dien verstande dat hij de basisgegevens slechts opneemt voor zover deze niet kunnen worden verkregen uit de basisadministratie personen.
