@@ -1,0 +1,2 @@
+# Artikel III
+Aanvragen tot afgifte van het op grond van artikel 20, eerste lid, van de Arbeidsomstandighedenwet af te geven certificaat van vakbekwaamheid, bedoeld in artikel 9.36 van het Arbeidsomstandighedenbesluit zoals dat artikel luidde op de dag voorafgaande aan het tijdstip van inwerkingtreding van artikel I van deze wet die voor dat tijdstip zijn ingediend, worden behandeld overeenkomstig de bepalingen die tot dat tijdstip golden voor de afgifte van dat certificaat.
