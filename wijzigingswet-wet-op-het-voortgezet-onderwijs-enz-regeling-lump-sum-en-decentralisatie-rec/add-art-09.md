@@ -1,2 +1,0 @@
-# Artikel IX. Afhandeling bekostiging oude stijl
-Bij ministeriële regeling worden regels gegeven met betrekking tot de afrekening na 31 juli 1996 van de personeelskosten van de scholen voor voorbereidend wetenschappelijk onderwijs, voor hoger algemeen voortgezet onderwijs, voor middelbaar algemeen voortgezet onderwijs en voor voorbereidend beroepsonderwijs als bedoeld in de Wet op het voortgezet onderwijs, alsmede van de in artikel 89, eerste lid, onderdeel b, van die wet zoals luidend op 31 juli 1996, bedoelde aanvullende vergoeding voor exploitatiekosten.

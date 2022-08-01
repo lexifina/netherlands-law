@@ -1,2 +1,0 @@
-# Artikel III. Overgangsbepaling periode ABB
-Voor scholen waaraan voor de inwerkingtreding van deze wet bekostiging voor administratie, beheer en bestuur is toegekend als bedoeld in artikel 96g1 van de Wet op het voortgezet onderwijs, eindigt de in het eerste lid van dat artikel bedoelde periode met ingang van het kalenderjaar volgend op de ingang van het negende schooljaar na aanvang van die bekostiging.

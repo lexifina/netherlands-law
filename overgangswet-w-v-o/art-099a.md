@@ -1,2 +1,0 @@
-# Artikel 99a
-De op 31 juli 1968 geldende voorschriften ter uitvoering van de hoger-onderwijswet, de middelbaar-onderwijswet, de Lager-onderwijswet 1920, de Kleuteronderwijswet, de Kweekschoolwet en de besluiten ter uitvoering van de wet van 14 februari 1963, Stb. 74, kunnen gedurende de tijd waarin zij krachtens deze titel nog van kracht blijven, voor zover zij door Ons zijn vastgesteld, door Ons en, voor zover zij door Onze minister zijn vastgesteld, door hem worden gewijzigd.

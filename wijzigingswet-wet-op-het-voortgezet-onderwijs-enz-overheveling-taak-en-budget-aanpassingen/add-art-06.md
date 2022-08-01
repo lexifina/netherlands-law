@@ -1,2 +1,0 @@
-# Artikel VI. Inwerkingtreding
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In het koninklijk besluit wordt zo nodig toepassing gegeven aan artikel 16 van de Tijdelijke referendumwet dan wel aan artikel 16 van de Wet raadgevend correctief referendum.

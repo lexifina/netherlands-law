@@ -1,2 +1,0 @@
-# Artikel IIIe. Evaluatie
-Onze Minister van Onderwijs, Cultuur en Wetenschap zendt in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit binnen vijf jaar na de inwerkingtreding van de wijzigingen van artikel 33 van de Wet op het voortgezet onderwijs voor zover het betreft vakoverstijgende programmaonderdelen, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de artikelen I tot en met III van deze wet in de praktijk.

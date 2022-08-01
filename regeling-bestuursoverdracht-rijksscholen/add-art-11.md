@@ -1,3 +1,0 @@
-# Artikel XI. Inwerkingtreding
-1. Artikel I, onderdelen H en I, alsmede de artikelen III, V, VI en VIII tot en met XI van deze wet treden in werking met ingang van de tweede dag na de datum van de uitgifte van het Staatsblad waarin zij wordt geplaatst.
-2. De overige onderdelen van artikel I en de artikelen II, IV en VII treden in werking met ingang van 1 augustus 1995, indien het bij koninklijke boodschap van 29 juni 1988 ingediende voorstel van wet houdende wijziging van de Wet op het voortgezet onderwijs in verband met de herziening van het bekostigingsstelsel voor scholen voor v.w.o., a.v.o., l.b.o. en m.b.o. (Regeling herziening bekostigingsstelsel voortgezet onderwijs), tot wet is verheven en in werking is getreden.

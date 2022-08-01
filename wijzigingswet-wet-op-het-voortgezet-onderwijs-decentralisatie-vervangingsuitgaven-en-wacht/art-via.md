@@ -1,2 +1,0 @@
-# Artikel VIa. Financiële afwikkeling negatief getoetsten
-Artikel 96o, derde lid, van de Wet op het voortgezet onderwijs zoals luidend op de dag voor de inwerkingtreding van dit artikel blijft van kracht met betrekking tot de bekostiging, bedoeld in artikel 96m, eerste lid, van de Wet op het voortgezet onderwijs voor zover de inhoudingen op grond van eerstgenoemd artikellid betrekking hebben op de periode tot de inwerkingtreding van dit artikel.

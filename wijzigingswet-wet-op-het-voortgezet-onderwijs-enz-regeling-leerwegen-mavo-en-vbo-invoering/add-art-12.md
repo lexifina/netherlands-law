@@ -1,2 +1,0 @@
-# ARTIKEL XII. AANVRAAG EN AANSLUITING BIJ SAMENWERKINGSVERBAND
-Een aanvraag als bedoeld in artikel II, vijfde lid, artikel IV, eerste en derde lid, artikel V, eerste lid, en artikel VIII, eerste lid, kan het bevoegd gezag van de in die artikelen bedoelde scholen, niet doen voordat het bevoegd gezag is aangesloten bij een samenwerkingsverband als bedoeld in artikel 10h van de Wet op het voortgezet onderwijs zoals luidend ingevolge deze wet.

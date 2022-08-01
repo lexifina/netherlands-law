@@ -1,3 +1,0 @@
-# ARTIKEL XVIII
-1. Indien artikel 76u van de Wet op het voortgezet onderwijs toepassing vindt, vergoedt de gemeente, indien gedeelten van de gebouwen uit eigen middelen zijn bekostigd en hiervoor geen vergoeding is genoten, aan het bevoegd gezag van de desbetreffende school de restantboekwaarde van die gedeelten, voor zover het gaat om investeringen die hebben plaatsgevonden voor 1 januari 1997.
-2. De restantboekwaarde wordt vastgesteld op basis van de afschrijvingstermijn van een dertigjarige annuïtaire lening. Het bevoegd gezag dient de bekostiging uit eigen middelen aan te tonen door middel van een verklaring van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek.
