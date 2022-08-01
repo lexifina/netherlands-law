@@ -1,0 +1,2 @@
+# Artikel XXVIII. Intrekking van de Wet van 23 december 2004 (Stb. 2004, 713)
+De Wet van 23 december 2004 tot wijziging van de Wet op het voortgezet onderwijs vanwege overheveling taak en budget voor aanpassingen in onderwijshuisvesting van gemeente naar school, alsmede wijziging van die wet, de Wet op het primair onderwijs en de Wet op de expertisecentra met het oog op het jaarlijks bedrag voor huisvestingskosten van andere dan gemeentelijke of niet door de gemeente in stand gehouden scholen (Stb. 2004, 713) wordt ingetrokken.

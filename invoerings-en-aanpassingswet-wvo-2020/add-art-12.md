@@ -1,0 +1,2 @@
+# Artikel XII. Intrekking van de Wet van 27 mei 1992 (Stb. 1992, 270)
+De Wet van 27 mei 1992, houdende wijziging van onder meer de Wet op het voortgezet onderwijs en de Wet op het basisonderwijs in verband met de invoering van basisvorming in het voortgezet onderwijs, de invoering van kerndoelen in het basisonderwijs en het voortgezet onderwijs en de invoering van het voorbereidend beroepsonderwijs (Stb. 1992, 270) wordt ingetrokken.

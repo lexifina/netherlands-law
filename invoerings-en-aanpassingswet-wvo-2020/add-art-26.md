@@ -1,0 +1,2 @@
+# Artikel XXVI. Intrekking van de Wet van 18 maart 2004 (Stb. 2004, 139)
+De Wet van 18 maart 2004 tot wijziging van onder meer de Wet op het voortgezet onderwijs en de Wet educatie en beroepsonderwijs in verband met de huisvesting van verticale scholengemeenschappen alsmede wijziging van de Wet op het voortgezet onderwijs teneinde nevenvestigingen aan categoriale scholen mogelijk te maken (Stb. 2004, 139) wordt ingetrokken.

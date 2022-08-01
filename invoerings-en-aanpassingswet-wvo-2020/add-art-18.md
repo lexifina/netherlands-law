@@ -1,0 +1,2 @@
+# Artikel XVIII. Intrekking van de Wet van 3 april 1999 (Stb. 1999, 172)
+De Wet van 3 april 1999 tot wijziging van onder meer de Wet op het voortgezet onderwijs in verband met vervanging van de tijdelijke regeling van de vergoeding voor de exploitatiekosten door een in die wet zelf neergelegde regeling (regeling nieuw bekostigingsstelsel exploitatiekosten voortgezet onderwijs) (Stb. 1999, 172) wordt ingetrokken.

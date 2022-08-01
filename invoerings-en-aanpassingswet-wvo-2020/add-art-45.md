@@ -1,0 +1,2 @@
+# Artikel XLV. Intrekking van de Wet van 19 juni 2014 (Stb. 2014, 245)
+De Wet van 19 juni 2014 tot wijziging van de Wet op het voortgezet onderwijs en de Wet voortgezet onderwijs BES in verband met het vervangen van de verplichte maatschappelijke stage door een facultatief programmaonderdeel, het invoeren van de vakbenaming Latijnse en Griekse taal en cultuur en het schrappen van het verplichte vak algemene natuurwetenschappen uit het gemeenschappelijk deel van de vwo-profielen (Stb. 2014, 245) wordt ingetrokken.

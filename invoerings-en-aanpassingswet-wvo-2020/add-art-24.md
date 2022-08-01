@@ -1,0 +1,2 @@
+# Artikel XXIV. Intrekking van de Wet van 3 april 2003 (Stb. 2003, 187)
+De Wet van 3 april 2003 tot wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet op het voortgezet onderwijs, de Wet educatie en beroepsonderwijs en de Interimwet zij-instroom leraren primair en voortgezet onderwijs, in hoofdzaak in verband met uitzendkrachten in het onderwijs (regeling uitzendkrachten in het onderwijs) (Stb. 2003, 187) wordt ingetrokken.

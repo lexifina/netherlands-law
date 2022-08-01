@@ -1,0 +1,2 @@
+# Artikel XVII. Intrekking van de Wet van 25 mei 1998 (Stb. 1998, 337)
+De Wet van 25 mei 1998 tot wijziging van onder meer de Wet op het voortgezet onderwijs in verband met de invoering van leerwegen in de hogere leerjaren van het middelbaar algemeen voortgezet onderwijs en het voorbereidend beroepsonderwijs, alsmede van leerwegondersteunend en praktijkonderwijs (regeling leerwegen mavo en vbo; invoering leerwegondersteunend en praktijkonderwijs) (Stb. 1998, 337) wordt ingetrokken.
