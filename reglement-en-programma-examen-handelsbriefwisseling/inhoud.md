@@ -1,3 +1,0 @@
-# Inhoud
-## Reglement
-## Programma
