@@ -18,7 +18,7 @@
 #### § 2. Fusietoetsprocedure
 ### Titel 2. Bekostiging beroepsonderwijs
 #### § 1. Bekostiging
-#### § 2. Grondslag vermindering bekostiging vbo-groen in een AOC in verband met passend onderwijs
+#### § 2. Besteding
 ### Titel 2a. Bekostiging voortgezet algemeen volwassenenonderwijs
 ### Titel 3. Aanbod en uitkering educatie met uitzondering van opleidingen voortgezet algemeen volwassenenonderwijs; informatie en gegevensverstrekking educatie
 ### Titel 4. Subsidie Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven
@@ -29,7 +29,6 @@
 ### Titel 6a. Samenwerking met VO-scholen ter bevordering van doelmatig en doeltreffend onderwijs
 ### Titel 6b. Examinering VSO-leerlingen
 ### Titel 7. Stimuleringsmiddelen voor educatie en beroepsonderwijs en voor afstemming onderwijs-arbeidsmarkt
-### TITEL 8. WAARBORGFONDS EN INVESTERINGEN IN GEBOUWEN EN TERREINEN
 ## Hoofdstuk 3. Bestuur
 ## Hoofdstuk 4. Personeel
 ### Titel 1. Personeel van instellingen voor educatie en beroepsonderwijs
@@ -38,9 +37,6 @@
 ### Titel 2. Vereisten benoeming of tewerkstelling
 ### Titel 2a. Benoembaarheidsvereiste voor overig personeel van instellingen
 ### Titel 3. Personeel van de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven
-### Titel 4. Lerarenregister en registervoorportaal
-#### Paragraaf 1. Het lerarenregister
-#### Paragraaf 2. Het registervoorportaal
 ## Hoofdstuk 6. Het onderwijsaanbod beroepsopleidingen
 ### Titel 1. Het beroepsonderwijs, verzorgd door uit 's Rijks kas bekostigde instellingen
 ### Titel 2. Het beroepsonderwijs, verzorgd door niet uit 's Rijks kas bekostigde instellingen
@@ -71,7 +67,7 @@
 ### Titel 6. Samenwerking tussen uit 's Rijks kas bekostigde instellingen
 ## Hoofdstuk 8a. Medezeggenschap en de landelijke geschillencommissie medezeggenschap
 ### Titel 1. Algemene bepalingen
-### Titel 2. Bevoegdheden van de studentenraad
+### Titel 2. Bevoegdheden studentenraad en ouderraad
 ### Titel 3. Reglement studentenraad
 ### Titel 4. Geschillenregeling en procesbevoegdheid
 ### Titel 5. Afwijkingen
