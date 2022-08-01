@@ -1,3 +1,0 @@
-# Artikel III. Inwerkingtreding
-1. Dit besluit treedt, onverminderd het tweede lid, in werking op een bij koninklijk besluit te bepalen tijdstip. Het koninklijk besluit wordt niet genomen voordat vier weken zijn verstreken nadat het onderhavige besluit is overgelegd aan beide kamers der Staten-Generaal en gedurende die termijn niet door of namens een van beide kamers de wens wordt te kennen gegeven dat het in dit besluit geregelde onderwerp bij de wet wordt geregeld.
-2. Het Eindexamenbesluit VO zoals gewijzigd door artikel I van dit besluit, vindt toepassing met ingang van een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.

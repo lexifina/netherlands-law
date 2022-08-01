@@ -1,3 +1,0 @@
-# Artikel 20a
-1. In afwijking van artikel 20 volgen de leerlingen aan een afdeling arbeidsgericht onderwijs, onderwijs in ten minste de vakken Papiamentu, rekenen/wiskunde, informatica, lichamelijke opvoeding en mens en maatschappij. In afwijking van de eerste volzin volgen de leerlingen van een school in de openbare lichamen Saba en Sint Eustatius het vak Engelse taal in plaats van het vak Papiamentu.
-2. In afwijking van artikel 20, negende en tiende lid, omvat de stage voor leerlingen aan een afdeling arbeidsgericht onderwijs ten hoogste de helft van de som van de wekelijkse lessen, met dien verstande dat de stage van leerlingen die jonger zijn dan 16 jaar, ten hoogste vier vijfde deel van de som van de wekelijkse lessen vormt.
