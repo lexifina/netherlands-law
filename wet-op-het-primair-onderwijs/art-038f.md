@@ -1,2 +1,0 @@
-# Artikel 38f. Autorisatie
-Onze Minister stelt bij ministeriële regeling regels over de autorisatie van degenen die onder zijn gezag vallen voor verwerking van persoonsgegevens in het kader van het lerarenregister.
