@@ -40,6 +40,7 @@ Telecommunicatiewet, voor zover het betreft een besluit van de Autoriteit Consum
 a. hoofdstuk 6, tenzij beroep kon worden ingesteld voor de inwerkingtreding van de Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002
 b. de hoofdstukken 5a, 5c, 6a, 6b en 12
 c. hoofdstuk 15, met uitzondering van de artikelen 15.2, 15.2a en 15.4
+Tijdelijke wet Nationaal Groeifonds
 Uitvoeringswet EU-zeehavenverordening: artikel 7, voor zover het betreft een besluit van de Autoriteit Consument en Markt
 Uitvoeringswet verordening Europese coöperatieve vennootschap: het verzet, bedoeld in de artikelen 6, eerste lid, en 9
 Uitvoeringswet verordening Europese vennootschap: het verzet, bedoeld in de artikelen 5, eerste lid, en 7

@@ -107,7 +107,6 @@ d. artikel 3A:127
 e. de artikelen 6:1 en 6:2, voor zover het betreft een weigering om een besluit te nemen of het niet tijdig nemen van een besluit
 Wet op het hoger onderwijs en wetenschappelijk onderzoek: artikel 7.61
 Wet op het primair onderwijs: artikel 128, vierde lid, zolang de gemeenteraad de aanvulling nog niet heeft bekrachtigd
-Wet op het voortgezet onderwijs: artikel 96g, vierde lid, zolang de gemeenteraad de aanvulling nog niet heeft bekrachtigd
 Wet publieke gezondheid: de artikelen 31 en 35
 Wet rechtspositie rechterlijke ambtenaren:
 a. een besluit tot benoeming, plaatsing of aanwijzing als bedoeld in hoofdstuk 2, tenzij het beroep wordt ingesteld door een rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding als zodanig, zijn nagelaten betrekkingen of zijn rechtverkrijgenden
@@ -128,6 +127,7 @@ Wet van 18 december 2008 tot wijziging van de Wet luchtvaart inzake vernieuwing 
 Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen: artikel 30, tweede lid
 Wet verplichte geestelijke gezondheidszorg, met uitzondering van de artikelen 5:2 en 13:4
 Wet vervoer gevaarlijke stoffen: de artikelen 13, eerste lid, en 14, eerste, tweede en vierde lid
+Wet voortgezet onderwijs 2020: artikel 5.23, vierde lid, zolang de gemeenteraad de aanvulling nog niet heeft bekrachtigd
 Wet windenergie op zee: artikel 9, eerste lid
 Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten, met uitzondering van artikel 61
 Zorgverzekeringswet:

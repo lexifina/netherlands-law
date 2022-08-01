@@ -120,9 +120,6 @@ a. artikel 22, vijfde lid
 b. titel IV: de afdelingen 2 en 8, een goedkeuring van rechtswege daaronder begrepen
 c. de artikelen 120 en 189
 d. artikel 193, tweede lid, tweede volzin, voor zover het betreft een besluit op grond van bepalingen die bij de algemene maatregel van bestuur ingevolge artikel 193, tweede lid, tweede volzin, van overeenkomstige toepassing zijn verklaard, alsmede een besluit op grond van bepalingen van de algemene maatregel van bestuur die daarmee overeenkomen
-Wet op het voortgezet onderwijs:
-a. titel III: de afdelingen I, met uitzondering van artikel 75a, en III
-b. de artikelen 82, 83 en 104
 Wet ruimtelijke ordening:
 a. een besluit omtrent vaststelling van een bestemmingsplan, een inpassingsplan of een rijksbestemmingsplan als bedoeld in artikel 10.3, eerste lid
 b. artikel 3.1, derde lid
@@ -136,6 +133,9 @@ i. een ontheffing als bedoeld in artikel 4.1a of 4.3a, voor zover die ontheffing
 Wet structuur uitvoeringsorganisatie werk en inkomen: artikel 9, vijfde lid
 Wet tijdelijke tolheffing Blankenburgverbinding en ViA15: artikel 2, eerste lid
 Wet toelating zorginstellingen
+Wet voortgezet onderwijs 2020:
+a. de hoofdstukken 4 en 10
+b. de artikelen 2.95, 5.9 en 5.10
 Wet windenergie op zee: artikelen 3, eerste lid en 11, eerste lid
 Woningwet: artikel 19, voor zover het betreft de intrekking van een toelating
 Zorgverzekeringswet: voor zover het betreft een beschikking op grond van artikel 34a of een besluit van Onze Minister van Volksgezondheid, Welzijn en Sport of van het Zorginstituut Nederland met uitzondering van een beschikking jegens een persoon die behoort tot het personeel van het Zorginstituut Nederland
