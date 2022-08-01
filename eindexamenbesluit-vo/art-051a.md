@@ -1,2 +1,0 @@
-# Artikel 51a. Afleggen eindexamen in vak op oorspronkelijk niveau na eindexamen in zelfde vak op hoger niveau
-Indien een kandidaat gebruik heeft gemaakt van de mogelijkheid tot het afleggen van eindexamen in een vak op hoger niveau dan het niveau van de schoolsoort of leerweg van inschrijving, stelt de directeur de kandidaat in de gelegenheid in dat vak alsnog het eindexamen af te leggen van die schoolsoort of leerweg.

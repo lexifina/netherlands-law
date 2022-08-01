@@ -1,6 +1,0 @@
-# Artikel 47g. Extra herkansing
-1. In afwijking van artikel 38, eerste lid, heeft de kandidaat die in het schooljaar 2021–2022 het eindexamen afsluit en de kandidaat, bedoeld in artikel 47, eerste lid, het recht om voor twee vakken van het eindexamen waarin de kandidaat al centraal examen heeft afgelegd, in het tweede of derde tijdvak opnieuw deel te nemen aan het centraal examen.
-2. De kandidaat, bedoeld in artikel 26, die in het voorlaatste of direct daaraan voorafgaande schooljaar is toegelaten tot het eindexamen in één of meerdere vakken kan het recht, bedoeld in het eerste lid, ook toepassen op die vakken, met dien verstande dat de kandidaat:
-a. het recht bedoeld in het eerste lid niet kan gebruiken voor vakken waarvoor de kandidaat in het schooljaar 2019–2020 een resultaatsverbeteringstoets heeft gemaakt;
-b. in afwijking van het eerste lid, slechts het recht heeft om opnieuw deel te nemen aan het centraal examen van één vak indien hij in het schooljaar 2019–2020 voor twee andere vakken dan het profielvak een resultaatsverbeteringstoets heeft gemaakt.
-3. In afwijking van artikel 38, tweede lid, stelt de kandidaat de directeur op een door de directeur te bepalen wijze en voor een door de directeur te bepalen tijdstip in kennis van de vakken die hij in het tweede of derde tijdvak herkanst.

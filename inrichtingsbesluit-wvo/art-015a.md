@@ -1,3 +1,0 @@
-# Artikel 15a. Deskundigen samenwerkingsverband
-1. De deskundigen, bedoeld in artikel 17a, twaalfde lid, van de wet zijn een orthopedagoog of een psycholoog en afhankelijk van de leerling over wiens toelaatbaarheid wordt geadviseerd ten minste een tweede deskundige, te weten een kinder- of jeugdpsycholoog, een pedagoog, een kinderpsychiater, een maatschappelijk werker of een arts.
-2. Indien het samenwerkingsverband besluit of een leerling aangewezen is op het leerwegondersteunend onderwijs of toelaatbaar is tot het praktijkonderwijs kan de tweede deskundige, bedoeld in het eerste lid, ook een deskundige op het terrein van vbo, mavo, vmbo en praktijkonderwijs zijn.

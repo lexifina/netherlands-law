@@ -1,9 +1,0 @@
-# Artikel 15b. Tijdelijke landelijke geschillencommissie toelating en verwijdering
-1. De geschillencommissie, bedoeld in artikel 27c van de wet, bestaat uit ten minste 7 leden met verschillende deskundigheden. De leden worden benoemd op gezamenlijke bindende voordracht van de landelijke ouderorganisaties, de landelijke patiënten- en gehandicaptenorganisaties en de sectororganisaties.
-2. De leden worden benoemd en ontslagen door Onze Minister.
-3. De leden worden benoemd voor een periode van 4 jaar en kunnen ten hoogste 2 maal worden herbenoemd.
-4. De commissie is zodanig samengesteld dat zij beschikt over (ortho)pedagogische, psychologische, onderwijskundige, maatschappelijke, bestuurlijke, juridische en medische deskundigheid. Voor de behandeling van ieder ingediend geschil kiest de commissie uit haar leden één voorzitter en twee leden. De commissie bepaalt welke samenstelling bij de behandeling van het geschil het meest geschikt is.
-5. De leden worden ontslagen indien zij daarom verzoeken.
-6. De leden mogen niet deel uitmaken van het bevoegd gezag van een van de scholen die deelnemen aan het samenwerkingsverband of het bevoegd gezag van dat samenwerkingsverband dat betrokken is in het geschil en zij functioneren zonder last of ruggenspraak.
-7. De commissie zendt haar oordeel aan het bevoegd gezag en een afschrift van haar oordeel aan de ouders. Indien de beslissing van het bevoegd gezag van de school afwijkt van het oordeel van de commissie, wordt in de beslissing de reden voor die afwijking vermeld.
-8. Het bevoegd gezag van de school die het oordeel van de commissie heeft ontvangen, deelt schriftelijk aan de ouders en aan de commissie mee wat er met het oordeel wordt gedaan.

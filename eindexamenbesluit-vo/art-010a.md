@@ -1,2 +1,0 @@
-# Artikel 10a. Ontheffingsprocedure
-Een verzoek om ontheffing als bedoeld in artikel 10 wordt schriftelijk ingediend bij het College voor toetsen en examens, onder overlegging van een uittreksel uit het geboorte- of persoonsregister en een gewaarmerkte fotokopie van het diploma, getuigschrift, certificaat of andere bewijsstuk waarop het verzoek om ontheffing berust.

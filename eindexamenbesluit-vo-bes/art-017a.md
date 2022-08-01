@@ -1,2 +1,0 @@
-# Artikel 17a. Vrijstelling vmbo wegens vervangend of extra vak
-In afwijking van artikel 14, eerste lid, 15, eerste lid, 16, eerste lid, of 17, eerste lid, is de kandidaat die op grond van artikel 29, vierde, vijfde, zesde of zevende lid, van het Inrichtingsbesluit WVO BES is vrijgesteld van het volgen van onderwijs in een vak als daar bedoeld, eveneens bij het desbetreffende eindexamen vmbo vrijgesteld van dat vak.
