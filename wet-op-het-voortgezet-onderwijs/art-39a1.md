@@ -1,3 +1,0 @@
-# Artikel 39a1. Afschriften bewijsstukken
-1. Het bevoegd gezag draagt er zorg voor dat afschriften van de bewijsstukken waarmee de bekwaamheid wordt aangetoond, van de geschiktheidsverklaringen, van de verklaringen omtrent het gedrag en van de arbeidsovereenkomsten van het aan de school verbonden personeel worden bewaard.
-2. Het eerste lid is van overeenkomstige toepassing op personeel dat is tewerkgesteld zonder benoeming.

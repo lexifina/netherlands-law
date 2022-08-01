@@ -1,2 +1,0 @@
-# Artikel 47a. Referentieniveaus Nederlandse taal en rekenen
-Voor de vormen van onderwijs, bedoeld in artikel 6, onderdelen a tot en met d, wordt bij algemene maatregel van bestuur een samenhangend geheel van referentieniveaus taal en rekenen vastgesteld met dien verstande dat verschillende referentieniveaus kunnen worden vastgesteld voor en binnen de leerwegen, bedoeld in de artikelen 16, 18 en 29.

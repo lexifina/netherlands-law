@@ -1,2 +1,0 @@
-# Artikel 127e. Aanvullende middelen
-Onze Minister kan onder door hem nader te stellen voorwaarden aanvullende middelen ter beschikking stellen die niet strekken tot bekostiging van het onderwijs, bedoeld in deze wet, maar die direct of indirect dienstig zijn voor de uitvoering van het onderwijs of voor verhoging van de mogelijkheid tot deelname aan het onderwijs. Bij de toepassing van dit artikel zijn de titels 4.1 en 4.2 van de Algemene wet bestuursrecht en de artikelen 4, 5, 9 en 10 van de Wet overige OCW-subsidies van toepassing.

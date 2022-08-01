@@ -1,9 +1,0 @@
-# Artikel 76c. Voorzieningen in de huisvesting
-1. Voor de toepassing van dit hoofdstuk worden onder voorzieningen in de huisvesting begrepen:
-a. voor blijvend onderscheidenlijk voor tijdelijk gebruik bestemde voorzieningen, bestaande uit:
-1°. nieuwbouw, een bestaand gebouw of een gedeelte daarvan, verplaatsing van een bestaand gebouw of van een gedeelte daarvan, terreinen, alsmede eerste aanschaf van leer- en hulpmiddelen en meubilair,
-2°. uitbreiding van de onder 1° bedoelde voorzieningen, en
-3°. medegebruik van een ruimte die geschikt is voor het onderwijs;
-b. herstel van constructiefouten aan het gebouw of het terrein;
-c. herstel en vervanging in verband met schade aan gebouw, leer- en hulpmiddelen en meubilair in geval van bijzondere omstandigheden.
-2. Bij algemene maatregel van bestuur worden bruto vloeroppervlakten per gelijktijdig aanwezige leerling voorgeschreven die voorzieningen in de huisvesting ten minste dienen te bevatten. Deze oppervlakten kunnen per schoolsoort verschillend worden vastgesteld.

@@ -1,6 +1,0 @@
-# Artikel 103f. Gebruik persoonsgebonden nummer door gemeente
-Onverminderd het overigens bij of krachtens de wet bepaalde omtrent het gebruik van het burgerservicenummer door de gemeente, gebruikt de gemeente het persoonsgebonden nummer van een leerling of een voortijdige schoolverlater als bedoeld in artikel 118g uitsluitend ten behoeve van:
-a. een registratie van leerplichtige jongeren in het belang van het toezicht op de naleving van de Leerplichtwet 1969;
-b. de registratie van gegevens van voortijdige schoolverlaters, bedoeld in artikel 118h, eerste lid, eerste volzin;
-c. het systeem van doorverwijzing van voortijdige schoolverlaters naar onderwijs of arbeidsmarkt, bedoeld in artikel 118h, eerste lid, tweede en derde volzin;
-d. verwerking van de gegevens, bedoeld in artikel 21, eerste en derde lid, van de Wet register onderwijsdeelnemers, bij de registraties, bedoeld in de onderdelen a en b, en het systeem van doorverwijzing, bedoeld in onderdeel c.

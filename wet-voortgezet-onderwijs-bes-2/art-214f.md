@@ -1,2 +1,0 @@
-# Artikel 214f. Overgangsrecht modernisering bepalingen voorzieningenplanning
-Toepassing van artikel 125, eerste en tweede lid, zoals luidend ingevolge de Wet van 25 mei 2018 tot wijziging van onder meer de Wet op het voortgezet onderwijs en de Wet voortgezet onderwijs BES in verband met modernisering van de bepalingen over voorzieningenplanning (Stb. 2018, 156) leidt niet eerder dan 1 jaar na inwerkingtreding van het betrokken artikellid tot het vervallen van de aanspraak op bekostiging.

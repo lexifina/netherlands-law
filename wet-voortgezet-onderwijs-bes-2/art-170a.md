@@ -1,2 +1,0 @@
-# Artikel 170a. Overdracht bekostiging in het kader van een doorlopende leerroute vmbo-mbo
-In afwijking van artikel 172 kan het bevoegd gezag van de school met het bevoegd gezag van de instelling voor beroepsonderwijs waarmee het een samenwerkingsovereenkomst heeft gesloten als bedoeld in artikel 27b, tweede lid, overeenkomen om vanwege een doorlopende leerroute vmbo-mbo als bedoeld in artikel 27a, tweede lid, of de geïntegreerde route vmbo-basisberoepsopleiding, bedoeld in artikel 27l, tweede lid, een deel van de bekostiging over te dragen aan dat andere bevoegd gezag.

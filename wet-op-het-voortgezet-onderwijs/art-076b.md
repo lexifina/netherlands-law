@@ -1,3 +1,0 @@
-# Artikel 76b. Voorziening in huisvesting door de gemeente
-1. De gemeenteraad draagt onderscheidenlijk burgemeester en wethouders dragen ten behoeve van de gemeentelijke en van de andere dan gemeentelijke scholen zorg voor de voorzieningen in de huisvesting op het grondgebied van de gemeente overeenkomstig het bepaalde in dit hoofdstuk. Hij behandelt onderscheidenlijk zij behandelen daarbij de gemeentelijke en de andere dan gemeentelijke scholen op gelijke voet.
-2. Voor de toepassing van dit hoofdstuk wordt onder een andere dan een gemeentelijke school mede begrepen een op het grondgebied van de gemeente gelegen nevenvestiging van een school waarvan de hoofdvestiging op het grondgebied van een andere gemeente is gelegen.

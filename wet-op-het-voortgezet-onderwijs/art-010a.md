@@ -1,2 +1,0 @@
-# Artikel 10a. Voorbereidend beroepsonderwijs
-Voorbereidend beroepsonderwijs is het onderwijs dat is ingericht ter voorbereiding op aansluitend beroepsonderwijs, bedoeld in artikel 7.2.2, eerste lid, onderdelen b, c en d, van de Wet educatie en beroepsonderwijs en dat mede algemene vorming omvat. Het voorbereidend beroepsonderwijs wordt gegeven aan scholen met een cursusduur van vier jaren.

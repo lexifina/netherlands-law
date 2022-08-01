@@ -1,4 +1,0 @@
-# Artikel 118kk. Overgangsrecht afschaffing rekentoets staatsexamen
-1. Het staatsexamen, bedoeld in artikel 60, eerste lid, omvat voor kandidaten die geen staatsexamen in het vak wiskunde afleggen een college-examen rekenen. Bij de vaststelling van de opgaven van dit college-examen worden de referentieniveaus rekenen in acht genomen die voor de desbetreffende schoolsoorten of voor dan wel binnen leerwegen zijn vastgesteld op grond van artikel 2, tweede lid, aanhef en onderdeel c, van de Wet referentieniveaus Nederlandse taal en rekenen.
-2. Bij of krachtens algemene maatregel van bestuur worden omtrent dit college-examen nadere voorschriften vastgesteld.
-3. Dit artikel vervalt op een bij koninklijk besluit te bepalen tijdstip.

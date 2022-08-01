@@ -1,4 +1,0 @@
-# Artikel 76l. Toetsing i.v.m. wettelijke voorschriften en nieuwe feiten en omstandigheden
-Voorzieningen die in het programma, bedoeld in artikel 76f, zijn opgenomen, komen voor bekostiging in aanmerking, mits op het tijdstip dat daarvoor op grond van artikel 76j is vastgesteld,
-a. is voldaan aan de bij of krachtens de wet gestelde voorschriften, en
-b. de feiten en omstandigheden waarin de school verkeert, ten opzichte van de feiten en omstandigheden ten tijde van de vaststelling van het programma niet ingrijpend zijn gewijzigd.
