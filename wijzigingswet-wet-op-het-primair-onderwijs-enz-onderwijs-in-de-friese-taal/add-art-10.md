@@ -1,0 +1,2 @@
+# Artikel X. Overgangsrecht
+Tot het tijdstip waarop voor het eerst kerndoelen in werking treden die zijn vastgesteld door provinciale staten van Fryslân volgens de daartoe in artikel I, artikel III onderscheidenlijk artikel V opgenomen procedure, zijn in afwijking van die artikelen de kerndoelen Friese taal van toepassing op de te onderscheiden soorten onderwijs, zoals die kerndoelen luidden tot aan het tijdstip van inwerkingtreding van die artikelen.
