@@ -1,0 +1,2 @@
+# Artikel 5.a1. Omhangbepaling
+Dit besluit berust mede op de artikelen 7.10, eerste lid, 7.23, vierde lid en 7.24, tweede lid, van de Wet voortgezet onderwijs 2020.
