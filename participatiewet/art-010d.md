@@ -3,7 +3,7 @@
 a. met inachtneming van het vierde lid, nadat het college eerst de loonwaarde van die persoon heeft vastgesteld en de dienstbetrekking tot stand komt, dan wel
 b. met inachtneming van het vijfde lid, nadat het college in overleg met de werkgever heeft vastgesteld dat de vaststelling van de loonwaarde van die persoon achterwege kan blijven en de dienstbetrekking tot stand komt.
 2. Indien een werkgever reeds een dienstbetrekking is aangegaan met een persoon die met voltijdse arbeid niet in staat blijkt tot het verdienen van het wettelijk minimumloon doch wel mogelijkheden tot arbeidsparticipatie heeft en die in de periode van zes maanden voorafgaande aan de dienstbetrekking deelnam aan:
-a. het praktijkonderwijs, bedoeld in artikel 10f van de Wet op het voortgezet onderwijs,
+a. het praktijkonderwijs, bedoeld in artikel 2.8 van de Wet voortgezet onderwijs 2020,
 b. het voortgezet speciaal onderwijs, bedoeld in artikel 2 van de Wet op de expertisecentra, of
 c. de entreeopleiding, bedoeld in artikel 7.2.2., onderdeel a, van de Wet educatie en beroepsonderwijs,
 stelt het college op diens aanvraag in aanvulling op artikel 7 de loonwaarde van die persoon vast en verleent het college de loonkostensubsidie, met in achtneming van het vierde lid, aan de werkgever.
