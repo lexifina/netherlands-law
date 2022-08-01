@@ -6,8 +6,6 @@
 ##### § 1. Onderwijs
 ##### § 2. Ondersteuningsstructuur
 ##### § 3. Personeel
-##### § 3a. Lerarenregister
-##### § 3b. Registervoorportaal
 ##### § 4. Leerlingen
 ##### § 5. Ouders
 #### Afdeling 2. Overige regelen voor het openbaar onderwijs
@@ -42,6 +40,6 @@
 ##### § 2. Tijdelijke onderwijsvoorzieningen bij massale toestroom van ontheemden
 #### Afdeling 13. Overige bepalingen
 ## Hoofdstuk II. Andere vormen van basisonderwijs
-## Hoofdstuk III. Bevoegdheden t.a.v. de rechtspersoon, bedoeld in de artikelen 188 en 190 en evaluatie
+## Hoofdstuk III. Evaluatie
 ## Hoofdstuk IV. Overgangsbepalingen
 ## Hoofdstuk V. Slotbepalingen
