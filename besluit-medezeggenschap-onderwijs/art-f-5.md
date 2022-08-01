@@ -1,0 +1,2 @@
+# Artikel F-5
+Het bevoegd gezag kan in overeenstemming met de medezeggenschapsraden van de samen te voegen scholen besluiten, geen toepassing te geven aan het bepaalde in artikel F-2, F-3 onderscheidenlijk F-4. Alsdan wordt binnen drie maanden na de samenvoeging een voorlopige medezeggenschapsraad gekozen aan de nieuwe school en legt het bevoegd gezag onverwijld daarna een medezeggenschapsreglement als voorstel aan deze raad voor. Vervolgens spreekt de voorlopige raad zich, na overleg met het bevoegd gezag, binnen drie maanden over het voorstel uit.

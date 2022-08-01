@@ -1,0 +1,2 @@
+# Artikel I-1
+In afwijking van de wet voor wat betreft de artikelen 6, eerste lid, en 7, gelden de bepalingen van deze paragraaf in gevallen waarin aan een school besluiten worden genomen met betrekking tot het volgende schooljaar, terwijl dan een of meer andere scholen zullen zijn ontstaan ten gevolge van samenvoeging, splitsing of omzetting als bedoeld in de Paragrafen F tot en met H, of ten gevolge van de overgang van de school in een school van een nieuwe onderwijsvorm.

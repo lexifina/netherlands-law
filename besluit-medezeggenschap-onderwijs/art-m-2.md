@@ -1,0 +1,2 @@
+# Artikel M-2
+Het deel van de medezeggenschapsraad, bedoeld in artikel 3, derde lid onder b, van de wet wordt aan een school voor voortgezet speciaal onderwijs gekozen uit en door de ouders dan wel deels uit en door de leerlingen, en aan een school of instelling voor speciaal en voortgezet speciaal onderwijs uit en door de ouders dan wel deels uit en door de ouders en deels uit en door de leerlingen die zijn toegelaten tot het voortgezet speciaal onderwijs.

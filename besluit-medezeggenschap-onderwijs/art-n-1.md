@@ -1,0 +1,2 @@
+# Artikel N-1
+Ten aanzien van de aangewezen scholen, bedoeld in de Regeling m.b.o. 1990-1991 (kenmerk WJZ 90031766/3473, Uitleg OenW-Regelingen 1990, 18a extra van 4 juli 1990), geldt tot 1 augustus 1991 dat de bepalingen, opgenomen in het medezeggenschapsreglement ingevolge de toepassing van artikel 6, eerste lid, onderdeel a dan wel b, van de wet, niet van toepassing zijn voor zover het betreft aangelegenheden waarover overleg wordt gevoerd in het georganiseerd overleg op instellingsniveau als bedoeld in genoemde regeling.

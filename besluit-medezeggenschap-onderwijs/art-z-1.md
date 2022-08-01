@@ -1,0 +1,2 @@
+# Artikel Z-1
+Indien bijzondere omstandigheden een goede toepassing van een of meer van de onderdelen van dit besluit in een school of in een aantal scholen die door hetzelfde bevoegd gezag in stand worden gehouden, in de weg staan, kan Onze minister op verzoek van het bevoegd gezag toestaan, dat voor wat betreft een of meer onderdelen op door hem aangegeven wijze wordt afgeweken van het bepaalde in dit besluit.
