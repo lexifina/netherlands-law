@@ -1,0 +1,4 @@
+# Artikel VII. Handhaving erkenning leerbedrijven
+1. Bedrijven en organisaties die op de datum voorafgaande aan de datum van inwerkingtreding van artikel I, onderdeel N, beschikken over een gunstige beoordeling op grond van artikel 7.2.10, eerste lid, van de Wet educatie en beroepsonderwijs zoals luidend op eerstbedoelde datum, worden aangemerkt als leerbedrijven met een erkenning als bedoeld in artikel 7.2.10, tweede lid, eerste volzin, van de Wet educatie en beroepsonderwijs.
+2. [Vervallen.]
+3. Bedrijven en organisaties die beschikken over een gunstige beoordeling op grond van artikel VI, tweede lid, onderdeel b, juncto artikel 7.2.10, eerste lid, van de Wet educatie en beroepsonderwijs zoals luidend op 31 juli 2015, worden aangemerkt als leerbedrijven met een erkenning als bedoeld in artikel 7.2.10, tweede lid, eerste volzin, van de Wet educatie en beroepsonderwijs.
