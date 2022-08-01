@@ -1,0 +1,5 @@
+# Artikel 26b. Experiment educatieve module; deelname
+1. Een instelling voor hoger onderwijs als genoemd in de bijlage behorend bij artikel 2, tweede lid, van de Regeling verwantschapstabel educatieve minor, kan deelnemen aan één of beide fasen van het experiment educatieve module.
+2. Een instelling voor hoger onderwijs die het voornemen had deel te nemen aan het experiment educatieve module en dit voor 1 september 2016 aan Onze Minister heeft gemeld neemt deel aan de eerste en tweede fase van dit experiment.
+3. Een instelling voor hoger onderwijs die heeft deelgenomen aan de eerste fase van het experiment educatieve module, maar niet wenst deel te nemen aan de tweede fase van dit experiment meldt dat voor 1 januari 2020 aan Onze Minister.
+4. Een instelling voor hoger onderwijs, als bedoeld in het eerste lid, die niet heeft deelgenomen aan de eerste fase van het experiment educatieve module en die het voornemen heeft deel te nemen aan de tweede fase van dit experiment meldt dat voor 1 januari 2020 aan Onze Minister.
