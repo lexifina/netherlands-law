@@ -1,2 +1,0 @@
-# ARTIKEL XIII. ONTHEFFING WEGENS VERSNIPPERING SCHOOLJAAR 1996–1997
-Artikel XVII van het Besluit van 3 november 1995 (Stb. 571) is voor het schooljaar 1996–1997 van overeenkomstige toepassing, met dien verstande dat voor dat schooljaar het aantal formatie-eenheden als bedoeld aan het slot van het eerste lid van dat artikel, voor instellingen ressorterend onder het Uitvoeringsbesluit W.O.V. wordt gesteld op 3,5.
