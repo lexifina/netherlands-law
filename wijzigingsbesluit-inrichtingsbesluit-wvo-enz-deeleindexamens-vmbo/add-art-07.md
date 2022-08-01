@@ -1,0 +1,2 @@
+# Artikel VII. Overgangsrecht vakbenaming bedrijfseconomie, afsluiten vak culturele en kunstzinnige vorming, en vak algemene natuurwetenschappen
+Een voldoende eindcijfer voor het examen in het vak management en organisatie in het vwo of havo geldt voor de toepassing van het Uitvoeringsbesluit WVO 2020 als hetzelfde eindcijfer voor het examen in het vak bedrijfseconomie in het vwo onderscheidenlijk havo, indien dit eindcijfer voor het vak management en organisatie niet langer dan 10 jaar geleden is behaald.
