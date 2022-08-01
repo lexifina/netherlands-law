@@ -1,0 +1,2 @@
+# Artikel VA
+De artikelen I, II en IV van deze wet zijn van toepassing op procedures, authentieke akten en geregistreerde overeenkomsten als bedoeld in artikel 100, eerste lid, van de Verordening (EU) nr. 2019/1111 van de Raad van 25 juni 2019 betreffende de bevoegdheid, de erkenning en tenuitvoerlegging van beslissingen in huwelijkszaken en inzake de ouderlijke verantwoordelijkheid, en betreffende internationale kinderontvoering (PbEU L 178).
