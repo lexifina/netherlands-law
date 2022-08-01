@@ -1,5 +1,5 @@
 # Artikel 14f. Uitstroomprofiel dagbesteding
-1. Het onderwijs in het uitstroomprofiel dagbesteding bereidt leerlingen, van wie redelijkerwijs mag worden aangenomen dat het volgen van het onderwijs, bedoeld in artikel 14a en artikel 14c, niet leidt tot het behalen van een diploma of een getuigschrift als bedoeld in artikel 29 van de Wet op het voortgezet onderwijs respectievelijk tot het duurzaam bekleden van een functie op de arbeidsmarkt, voor op het zo zelfstandig mogelijk functioneren in vormen van dagbesteding.
+1. Het onderwijs in het uitstroomprofiel dagbesteding bereidt leerlingen, van wie redelijkerwijs mag worden aangenomen dat het volgen van het onderwijs, bedoeld in artikel 14a en artikel 14c, niet leidt tot het behalen van een diploma of een getuigschrift als bedoeld in artikel 2.58 van de Wet voortgezet onderwijs 2020 respectievelijk tot het duurzaam bekleden van een functie op de arbeidsmarkt, voor op het zo zelfstandig mogelijk functioneren in vormen van dagbesteding.
 2. Bij algemene maatregel van bestuur worden kerndoelen vastgesteld, waarbij aandacht wordt besteed aan aspecten van:
 a. algemene maatschappelijke voorbereiding en persoonlijke vorming,
 b. leergebieden, en

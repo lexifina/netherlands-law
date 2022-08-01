@@ -4,4 +4,4 @@
 a. te adviseren over het vaststellen en bijstellen van het ontwikkelingsperspectief, bedoeld in artikel 41a, eerste, tweede en vijfde lid,
 b. het ten minste één keer per jaar evalueren van het ontwikkelingsperspectief en hiervan verslag te doen aan het bevoegd gezag,
 c. te adviseren over terugplaatsing of overplaatsing van de leerling naar het basisonderwijs of het voortgezet onderwijs, en
-d. het samenwerkingsverband, bedoeld in artikel 1 van de Wet op het primair onderwijs en artikel 1 van de Wet op het voortgezet onderwijs, te adviseren over de begeleiding van leerlingen op scholen als bedoeld in die wetten.
+d. het samenwerkingsverband, bedoeld in artikel 1 van de Wet op het primair onderwijs en artikel 1.1 van de Wet voortgezet onderwijs 2020, te adviseren over de begeleiding van leerlingen op scholen als bedoeld in die wetten.
