@@ -5,6 +5,8 @@
 ### Overige begrippen
 ### Gelijkstelling met een collectieve arbeidsovereenkomst
 ### Werkingsduur, regeling bestuursorgaan of regeling met ondernemingsraad/personeelsvertegenwoordiging
+### Behoud van rechten, functie en arbeidsvoorwaarden
+### Bescherming tegen nadelige behandeling of gevolgen
 ## Hoofdstuk 2. Aanpassing arbeidsduur
 ### Gereserveerd
 ## Hoofdstuk 3. Zwangerschap, bevalling, adoptie en pleegzorg
@@ -85,6 +87,8 @@
 ### § 1. Verlofvorm
 #### Ouderschapsverlof
 #### Omvang verlof
+#### Recht op en hoogte van de uitkering tijdens een gedeelte van het ouderschapsverlof
+#### Aanvraag en verstrekking van de uitkering tijdens een gedeelte van het ouderschapsverlof
 #### Leeftijd kind
 ### § 2. Melding
 #### Meldingsverplichting
@@ -94,9 +98,11 @@
 ### § 4. Mate van gebondenheid
 #### Recht met afwijkingsmogelijkheden
 #### Dwingend recht
-### § 5. Overgangsrecht
+### § 5. Slot- en overgangsrecht
+#### Verhoging uitkering ouderschapsverlof
 #### Overgangsrecht in verband met wijziging samenloop met loonkostensubsidie Participatiewet
 ## Hoofdstuk 8. Slotbepalingen
 ### Evaluatiebepaling
+### Onderzoek College voor de rechten van de mens
 ### Inwerkingtreding
 ### Citeertitel
