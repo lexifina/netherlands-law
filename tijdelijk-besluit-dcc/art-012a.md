@@ -1,0 +1,2 @@
+# Artikel 12a
+Een certificaat wordt als ongeldig aangemerkt indien het is opgenomen in een door de Minister van Volksgezondheid, Welzijn en Sport aangelegde lijst van certificaten waarvan bij de Minister van Volksgezondheid, Welzijn en Sport het gegronde vermoeden bestaat dat handelingen zijn verricht met of met betrekking tot het certificaat, die het vertrouwen in het certificaat hebben geschaad of zullen schaden.
