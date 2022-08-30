@@ -1,0 +1,8 @@
+# Artikel 4.2.a
+1. De minister kan in 2022 op aanvraag een voorschot verlenen op de rechtstreekse betalingen van € 270 per in de verzamelaanvraag voor uitbetaling opgegeven subsidiabele hectare tot maximaal het aantal betalingsrechten waarover de landbouwer volgens de registratie bij RVO op 15 mei 2022 beschikt.
+2. Betalingsrechten die in 2022 zijn aangevraagd uit de nationale reserve worden bij de bepaling van het voorschotbedrag niet in aanmerking genomen.
+3. Het voorschot wordt slechts verleend voor zover de landbouwer bij de aanvraag op het voorschot een ingevulde verkorte de-minimisverklaring of een de-minimisverklaring als bedoeld in Verordening (EU) nr. 1408/2013 van de Commissie van 18 december 2013 inzake de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun in de landbouwsector (PbEU 2013, L 352) overlegt waaruit blijkt dat het totale bedrag van de-minimissteun dat wordt verleend niet hoger is dan € 20.000,– over een periode van drie belastingjaren.
+4. Geen voorschot wordt verleend indien het op het eerste lid gebaseerde voorschotbedrag lager is dan € 400.
+5. Op het voorschotbedrag worden openstaande vorderingen die met de rechtstreekse betalingen in 2022 moeten worden verrekend, in mindering gebracht.
+6. Indien het uitbetaalde voorschot hoger is dan het bedrag waarop de landbouwer na toetsing aan alle subsidiabiliteitscriteria recht heeft, wordt het teveel betaalde bedrag teruggevorderd.
+7. De aanvraag kan slechts worden ingediend na indiening van de verzamelaanvraag, in de periode van 7 tot en met 28 juni 2022 dan wel in de periode van 5 tot en met 26 september 2022, met een daartoe door de minister ter beschikking gesteld middel.
