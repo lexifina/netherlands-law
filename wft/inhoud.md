@@ -135,9 +135,6 @@
 #### Afdeling 2.2.12. Verlenen van beleggingsdiensten, verrichten van beleggingsactiviteiten en systematische internalisatie
 ##### § 2.2.12.1. Vergunningplicht en -eisen
 ##### § 2.2.12.2. Bijkantoor en verrichten van diensten
-##### § 2.2.12.2a. Verlenen van datarapporteringsdiensten
-###### § 2.2.12.2a.1. Vergunningplicht en -eisen
-###### § 2.2.12.2a.2. Verrichten van diensten
 ##### § 2.2.12.3. Vrijstelling
 #### Afdeling 2.2.13. Bijzondere bepalingen
 ### Hoofdstuk 2.3. Toegang tot de buitenlandse financiële markten
