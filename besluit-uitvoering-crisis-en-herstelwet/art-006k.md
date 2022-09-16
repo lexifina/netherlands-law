@@ -1,0 +1,2 @@
+# Artikel 6k
+Het in artikel 2.1, eerste lid, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht bedoelde verbod geldt in de gemeente Peel en Maas tot 24 september 2021 niet voor een bouwactiviteit bestaande uit de realisatie van een bouwwerk voor de ondergrondse opslag van uit energiewinning verkregen ijs bij woningen, met een maximale inhoud van 30 m3, mits dit bouwwerk niet onder een gebouw als bedoeld in artikel 1 van de Woningwet wordt aangelegd.

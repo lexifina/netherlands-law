@@ -1,0 +1,6 @@
+# Artikel 6c
+1. Dit artikel is tot 25 juli 2027 van toepassing op de bouw van gebouwen in het nieuwbouwproject Nieuwveense landen in de gemeente Meppel.
+2. In afwijking van artikel 5.3, tweede en derde lid, van het Bouwbesluit 2012 geldt voor een constructie als bedoeld in die leden een weerstand van ten minste 4,5 m2 • K/W, voor zover die waarde hoger is dan de waarde bedoeld in die leden.
+3. Het bevoegd gezag voor de omgevingsvergunning, bedoeld in artikel 2.1, eerste lid, onderdeel a, van de Wet algemene bepalingen omgevingsrecht kan de aanvrager verplichten om een ventilatieprestatiekeuring over te leggen. De ventilatieprestatiekeuring wordt opgesteld overeenkomstig BRL8010.
+4. In afwijking van artikel 5.3, zesde lid, van het Bouwbesluit 2012 geldt voor ramen, deuren, kozijnen en daarmee gelijk te stellen constructieonderdelen als bedoeld in dat lid een warmtecoëfficiënt van ten hoogste 2,0 W/m2 • K, voor zover die waarde lager is dan de waarde genoemd in dat lid. Voor vensterglas geldt een U-waarde van ten hoogste 0,9.
+5. Artikel 5.6 van het Bouwbesluit 2012 wordt als volgt gelezen: «Bij het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk zijn de voorschriften van artikel 5.2 niet van toepassing.»
