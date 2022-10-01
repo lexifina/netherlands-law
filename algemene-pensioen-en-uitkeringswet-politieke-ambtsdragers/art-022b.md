@@ -1,7 +1,0 @@
-# Artikel 22b
-1. De nabestaande die recht heeft op nabestaandenuitkering ingevolge de Algemene nabestaandenwet, waarop inkomen in mindering wordt gebracht, heeft recht op een toeslag op zijn volgens artikel 22 berekende pensioen, indien dat is berekend of mede berekend over diensttijd na 31 december 1985.
-2. Recht op toeslag heeft eveneens de nabestaande aan wie in het tijdvak van 1 juli 1996 tot 1 juli 1999 nabestaandenpensioen is toegekend en op wiens uitkering ingevolge de Algemene nabestaandenwet in dat tijdvak inkomen in mindering is gebracht, met ingang van die vermindering.
-3. De toeslag bedraagt jaarlijks voor elk voor de berekening van het nabestaandenpensioen tellend jaar na 31 december 1985 2,5 percent van het verschil tussen 75 percent van het tot een jaarbedrag herleide bedrag van de nabestaandenuitkering en de vakantie-uitkering ingevolge de Algemene nabestaandenwet, zoals die wet geldt op 1 januari van het jaar waarin recht op nabestaandenpensioen ontstaat, zonder de vermindering en het verminderde bedrag. De toeslag bedraagt niet meer dan 75 percent van het in de eerste volzin eerstbedoelde bedrag en kan niet negatief zijn. De toeslag wordt nader vastgesteld:
-a. met ingang van 1 januari van ieder jaar volgens de regels, bedoeld in artikel 105, eerste lid, vanaf 1 juli 1999;
-b. bij iedere nadere vaststelling van de verminderdering van een uitkering ingevolge de Algemene nabestaandenwet.
-4. Artikel 22a, vierde en vijfde lid, zijn mede van toepassing op de toeslag ingevolge dit artikel.
