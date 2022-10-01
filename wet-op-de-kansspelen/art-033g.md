@@ -3,7 +3,7 @@
 a. de uitvoering van deze wet;
 b. het toezicht op naleving van de bij of krachtens deze wet gestelde of aan de op grond van deze wet verleende vergunning verbonden voorschriften;
 c. de handhaving van de bij of krachtens deze wet gestelde of aan de op grond van deze wet verleende vergunning verbonden voorschriften, of
-d. administratieve samenwerking met andere instanties overeenkomstig artikel 34m.
+d. de administratieve samenwerking met andere instanties overeenkomstig artikel 34m.
 2. De raad van bestuur, bedoeld in artikel 33a, en de ambtenaren en personen, bedoeld in artikel 34, verstrekken elkaar de gegevens die deze behoeven ter uitvoering van hun wettelijke taken.
 3. Onze Minister van Veiligheid en Justitie, de rijksbelastingdienst, de Nederlandse Arbeidsinspectie en andere in het reglement, bedoeld in het zesde lid, aangewezen bestuursorganen en toezichthouders zijn bevoegd uit eigen beweging of verplicht desgevraagd de raad van bestuur, bedoeld in artikel 33a, en de ambtenaren en personen, bedoeld in artikel 34, de gegevens te verstrekken die noodzakelijk zijn voor de uitvoering van hun taken. Daarbij kan gebruik worden gemaakt van het burgerservicenummer, bedoeld in artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer, en van andere, bij regeling van Onze Minister van Veiligheid en Justitie aangewezen nummers.
 4. Onverminderd artikel 6 van de Algemene verordening gegevensbescherming mogen de gegevens, bedoeld in het eerste lid, slechts worden verwerkt mits de uitvoering van de taak met het oog waarop de gegevens zijn verstrekt, daartoe noodzaakt.
