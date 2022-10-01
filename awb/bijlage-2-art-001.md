@@ -53,6 +53,7 @@ g. de artikelen 271a, vierde lid, en 274, tweede lid, indien overeenkomstige toe
 Richtlijn 2008/50/EG van het Europees Parlement en de Raad van 21 mei 2008 betreffende de luchtkwaliteit en schonere lucht voor Europa (PbEU 2008, L 152): een kennisgeving als bedoeld in artikel 22, vierde lid
 Rijkswet Onderzoeksraad voor veiligheid, met uitzondering van beslissingen ten aanzien van de algemeen secretaris en de medewerkers van het bureau
 Telecommunicatiewet: de artikelen 3.5, 3.5a, 3.5b, 3.22 en 18.9, eerste en tweede lid
+Tijdelijke experimentenwet nieuwe stembiljetten: de artikelen 2 en 4
 Tijdelijke experimentenwet stembiljetten en centrale stemopneming: artikel 2
 Tracéwet: de artikelen 2, eerste lid, 4, eerste lid, onderdeel c, en 23, eerste lid
 Uitleveringswet

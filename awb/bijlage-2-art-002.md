@@ -45,6 +45,7 @@ Reconstructiewet concentratiegebieden, voor zover het betreft een besluit tot va
 Spoedwet wegverbreding:
 a. een plan als bedoeld in artikel 6, vijfde lid
 b. de artikelen 7, eerste lid, 9, eerste lid, en 15, tweede lid, onder c
+Tijdelijke experimentenwet nieuwe stembiljetten: de artikelen 5 tot en met 10
 Tijdelijke experimentenwet stembiljetten en centrale stemopneming: artikelen 4
 Tijdelijke wet aanwijzing bèta-opleidingen: artikel 2, eerste lid
 Tracéwet: de artikelen 9, eerste lid, 20, tweede lid, en 21, tweede lid, onder c
