@@ -145,16 +145,17 @@
 ### Titel VII. Rechterlijke bevelen tot handhaving der openbare orde
 ### Titel VIII. Bijzondere bepalingen omtrent opsporing van feiten, strafbaar gesteld bij het Wetboek van Strafrecht
 ### Titel IX. Beklag
-### Titel X. Internationale rechtshulp
-#### afdeling Eerste. Algemene bepalingen
-#### Eerste afdeling A. Internationale gemeenschappelijke onderzoeksteams
-#### afdeling Tweede. Feiten begaan aan boord van luchtvaartuigen
-#### afdeling Derde. Overdracht en overname van strafvervolging
-##### § 1. Overdracht van strafvervolging door Onze Minister van Justitie
-##### § 1a. Overdracht van strafvervolging door de officier van justitie
-##### § 2. Overname van strafvervolging door Onze Minister van Justitie
-##### § 2a. Overname van strafvervolging door de officier van justitie
-##### § 2b. Overname van strafvervolging van een internationaal gerecht
+### Titel X. Innovatie van verschillende onderwerpen
+#### afdeling Eerste. Prejudiciële procedure bij de Hoge Raad
+#### afdeling Tweede. Vastleggen en kennisnemen van gegevens na inbeslagneming
+#### afdeling Derde. Opnamen van beeld, geluid of beeld en geluid als onderdeel van de verslaglegging en als wettig bewijsmiddel
+##### § 1. Algemene bepaling
+##### § 2. Verslaglegging door opsporingsambtenaren
+##### § 3. Behandeling van de zaak door de rechtbank
+##### § 4. Behandeling van de zaak in hoger beroep door het gerechtshof
+#### afdeling Vierde. Bevoegdheden van de hulpofficier van justitie
+#### afdeling Vijfde. Mediation na aanvang van het onderzoek op de terechtzitting
+#### afdeling Zesde. Toepassing
 ### Titel XI. Wederzijdse erkenning
 #### afdeling Eerste. Bevriezingsbevel
 ##### § 1. Bevelen uitgevaardigd door een andere lidstaat van de Europese Unie
