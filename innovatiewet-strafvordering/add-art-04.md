@@ -1,0 +1,3 @@
+# Artikel IV
+1. Titel X van het Vierde Boek van het Wetboek van Strafvordering vervalt drie jaar na inwerkingtreding van deze wet of van het eerste onderdeel van deze wet, tenzij voor die datum een voorstel van wet bij de Tweede Kamer is ingediend waarbij ten aanzien van Titel X of van een of meer afdelingen of artikelen daarvan anders wordt bepaald.
+2. Indien een voorstel van wet als bedoeld in het eerste lid wordt ingetrokken of indien een van de Kamers van de Staten Generaal tot het niet-aannemen van het voorstel van wet besluit, vervalt Titel X van het Vierde Boek van het Wetboek van Strafvordering.
