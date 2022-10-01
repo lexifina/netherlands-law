@@ -1,0 +1,2 @@
+# Artikel 1a
+Deze regeling berust op de artikelen 1.7, tweede lid, 6.55, zesde lid, 6.58, zesde lid, 8.12, vijfde lid, 8a.4, vierde lid, 10.11, eerste lid, onderdeel b, en 11.2a, derde lid, van de Wet luchtvaart, de artikelen 8, derde lid, 13, tweede lid, 20, derde lid, en 30, derde lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart, artikel 22, tweede en derde lid, van het Besluit luchtvaartuigen 2008 en artikel 5 van het Besluit vluchtuitvoering.

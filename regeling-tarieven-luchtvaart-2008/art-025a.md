@@ -1,0 +1,2 @@
+# Artikel 25a
+Bij een aanvraag voor eerste afgifte of wijziging van de erkenning in verband met splitsing of fusie van erkende rechtspersonen, benoemd in de artikelen 8 (AeMC), 11 (ATO), 16 (MOA), 17 (AOC), 18 (CAMO), of een aanvraag voor eerste afgifte of wijziging na doorstart vanuit surseance of faillissement van een der voornoemde erkende rechtspersonen, is een uurtarief van € 160 verschuldigd. Het te betalen tarief voor een erkenning in geval van een doorstart vanuit surseance of faillissement zal het tarief voor de eerste afgifte niet te boven gaan.
