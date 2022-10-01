@@ -1,7 +1,7 @@
 # Inhoud
 ## Hoofdstuk 1. Inleidende bepalingen
 ### Afdeling 1. Definities
-### Afdeling 2. De Adviescommissie voor Vreemdelingenzaken
+### Afdeling 2. De Adviesraad Migratie
 ### Afdeling 3. De referent
 #### Paragraaf 1. Algemeen
 #### Paragraaf 2. Erkenning als referent

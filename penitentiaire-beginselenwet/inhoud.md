@@ -6,8 +6,8 @@
 ### Paragraaf 1. Plaatsing en overplaatsing
 ### Paragraaf 2. Bezwaar- en verzoekschriftprocedure
 ## Hoofdstuk IVa. Detentie- en re-integratieplan
-## Hoofdstuk IVb*. Inrichtingen voor stelselmatige daders
-## Hoofdstuk IVb. Vervoer
+## Hoofdstuk IVb. Inrichtingen voor stelselmatige daders
+## Hoofdstuk IVc. Vervoer
 ## Hoofdstuk V. Bewegingsvrijheid
 ### Paragraaf 1. Mate van gemeenschap
 ### Paragraaf 2. Ordemaatregelen

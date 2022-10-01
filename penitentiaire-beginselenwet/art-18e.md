@@ -1,6 +1,0 @@
-# Artikel 18e*
-1. De gedetineerde heeft recht op een periodieke evaluatie door de directeur van het verloop van de tenuitvoerlegging. Deze evaluatie vindt ten minste eens per zes maanden plaats.
-2. Indien de rechter bij het opleggen van de maatregel heeft bepaald dat het openbaar ministerie hem binnen een door hem vastgestelde termijn bericht over de wenselijkheid of de noodzakelijkheid van de voortzetting van de tenuitvoerlegging daarvan, vindt de eerste evaluatie in ieder geval plaats voor het verstrijken van die termijn.
-3. De directeur draagt zorg dat van iedere evaluatie een verslag wordt gemaakt en dat dit verslag zo spoedig mogelijk met de gedetineerde wordt besproken.
-4. Indien de gedetineerde van oordeel is dat het evaluatieverslag feitelijk onjuist of onvolledig is, heeft hij het recht op dit verslag schriftelijk commentaar te geven. Indien het evaluatieverslag niet overeenkomstig het commentaar wordt verbeterd of aangevuld, draagt de directeur zorg dat het commentaar aan het verslag wordt gehecht.
-5. Bij algemene maatregel van bestuur worden regels gesteld omtrent de procedure die met betrekking tot de evaluatie dient te worden gevolgd en de eisen die aan het verslag daarvan ten minste dienen te worden gesteld.

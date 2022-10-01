@@ -5,4 +5,4 @@
 4. Degene die de in het tweede lid bedoelde vergoeding verschuldigd is, is gehouden aan de collectieve beheersorganisaties bedoeld in het derde lid de bescheiden of andere informatiedragers ter inzage te geven, waarvan de kennisneming noodzakelijk is voor de vaststelling van de verschuldigdheid, de hoogte en de verdeling van de vergoeding.
 5. Bij algemene maatregel van bestuur kunnen nadere regels worden gegeven over de uitoefening van het recht bedoeld in het tweede lid.
 6. Het recht op een proportionele billijke vergoeding bedoeld in het tweede lid is niet van toepassing op een filmwerk waarvan de exploitatie als zodanig niet het doel is.
-7. Artikel 25d en artikel 25e zijn van overeenkomstige toepassing. Artikel 25c, tweede tot en met zesde lid, en artikel 25g zijn van overeenkomstige toepassing op de billijke vergoeding bedoeld in het eerste lid.
+7. De artikelen 25ca, 25d en 25e zijn van overeenkomstige toepassing. Artikel 25c, tweede tot en met zesde lid, en artikel 25g zijn van overeenkomstige toepassing op de billijke vergoeding bedoeld in het eerste lid.
