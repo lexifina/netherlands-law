@@ -10,7 +10,7 @@
 ### Paragraaf 3.3. De verwerking van gegevens door het Bureau
 ### Paragraaf 3.4. Beheer van het Bureau
 ## Hoofdstuk 4. Bevoegdheden, verplichtingen en procedurele bepalingen
-### Paragraaf 4.1. Bevoegdheid officier van justitie
+### Paragraaf 4.1. Tipbevoegdheid
 ### Paragraaf 4.2. Verplichting tot medewerking
 ### Paragraaf 4.3. Geheimhoudingsplicht
 ### Paragraaf 4.4. Overige bepalingen
