@@ -1,0 +1,2 @@
+# Artikel IIIa
+Voor zover uitvoerende kunstenaars of fonogrammenproducenten als bedoeld in het op 20 december 1996 te Genève gesloten Verdrag van de Wereldorganisatie voor de intellectuele eigendom inzake uitvoeringen en fonogrammen (Trb. 1998, 248) door de vervulling van de op hen toegesneden toepassingscriteria uit dat verdrag rechten kunnen ontlenen aan dat verdrag, kunnen zij aanspraak maken op de daarmee corresponderende rechten uit de Wet op de naburige rechten.
