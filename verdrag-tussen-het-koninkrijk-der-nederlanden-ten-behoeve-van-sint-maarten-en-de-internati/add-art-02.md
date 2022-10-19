@@ -1,0 +1,2 @@
+# Article II. Purpose of the Agreement
+This Agreement shall regulate matters relating to or arising out of the establishment and proper functioning of the Office of the World Bank Group Organizations in Sint Maarten including the privileges and immunities for the World Bank Group Organizations. It shall, inter alia, create conditions conducive to the stability and independence of the Office and facilitate its smooth and efficient functioning.

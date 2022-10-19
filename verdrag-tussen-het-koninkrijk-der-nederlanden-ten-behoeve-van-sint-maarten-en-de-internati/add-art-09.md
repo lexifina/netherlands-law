@@ -1,0 +1,2 @@
+# Article IX. Import and Export
+The World Bank Group Organizations may import and export goods necessary for the operations of their Office without restrictions and prohibitions imposed by the Government of Sint Maarten. It is understood that articles imported under this exemption shall not be sold in Sint Maarten. The foregoing restriction on sales does not apply to the World Bank Group Organizations' own products or goods. The publications of the World Bank Group Organizations shall be free of any prohibitions and restrictions on imports and exports.
