@@ -22,6 +22,7 @@ Gaswet, met inbegrip van een besluit van de Autoriteit Consument en Markt, genom
 Gemeentewet: artikel 125, voor zover het betreft een besluit dat betrekking heeft op de handhaving van het bepaalde bij of krachtens de Winkeltijdenwet
 Gezondheids- en welzijnswet voor dieren, met uitzondering van artikel 120b, eerste lid
 Hamsterwet
+Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies, met uitzondering van de artikelen 22 en 23
 Kaderwet EZK- en LNV-subsidies
 Landbouwkwaliteitswet
 Landbouwwet: de artikelen 13, 15, 17 tot en met 22 en 26
