@@ -314,6 +314,7 @@
 ##### § 3a.2.4.8. Overige bepalingen
 #### Afdeling 3a.2.5. Rechtsbescherming
 #### Afdeling 3a.2.6. Financiering
+### Hoofdstuk 3a.3. Afwikkeling van centrale tegenpartijen
 ## 4. Deel Gedragstoezicht financiële ondernemingen
 ### Hoofdstuk 4.1. Inleidende bepalingen
 #### Afdeling 4.1.1. Reikwijdte
