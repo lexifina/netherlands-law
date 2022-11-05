@@ -17,6 +17,7 @@ Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen
 Wet allocatie arbeidskrachten door intermediairs, met uitzondering van artikel 15b en hoofdstuk 5
 Wet educatie en beroepsonderwijs, voor zover het betreft een algemene maatregel van bestuur als bedoeld in de artikelen 4.1.2 en 4.3.2, voor zover het besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap betreft
 Wet financiële voorzieningen privatisering ABP
+Wet hersteloperatie toeslagen: Artikel 3.10 voor zover kwijtschelding ziet op vorderingen die verband houden met de inning van de eigen bijdrage als bedoeld in artikel 2.1.4b van de Wet maatschappelijke ondersteuning 2015 en artikel 3.12 voor zover kwijtschelding betrekking heeft op vorderingen die verband houden met de uitvoering van de Wet maatschappelijke ondersteuning 2015
 Wet maatschappelijke ondersteuning 2015, met uitzondering van de artikelen 2.6.8 en 3a.1.1
 Wet op de expertisecentra, voor zover het betreft een algemene maatregel van bestuur als bedoeld in de artikelen 33, tweede lid, en 55, voor zover het besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap betreft
 Wet op de Nederlandse organisatie voor Wetenschappelijk Onderzoek, voor zover het betreft een algemene maatregel van bestuur als bedoeld in artikel 14, voor zover het besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap betreft

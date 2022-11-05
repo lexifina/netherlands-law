@@ -23,6 +23,7 @@ Wet arbeidsongeschiktheidsvoorziening jonggehandicapten
 Wet arbeidsongeschiktheidsvoorziening militairen
 Wet arbeidsongeschiktheidsverzekering zelfstandigen
 Wet financiering sociale verzekeringen, voor zover het betreft een besluit van de Sociale verzekeringsbank of het Uitvoeringsinstituut werknemersverzekeringen
+Wet hersteloperatie toeslagen: Artikelen 3.6, 3.7, 3.8, 3.10 met uitzondering van kwijtschelding die ziet op vorderingen die verband houden met de inning van de eigen bijdrage als bedoeld in artikel 2.1.4b van de Wet maatschappelijke ondersteuning 2015 en artikel 3.11
 Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen
 Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers
 Wet inkomensvoorziening oudere werklozen

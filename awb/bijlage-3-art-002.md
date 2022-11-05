@@ -48,6 +48,7 @@ Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers
 Wet financiering sociale verzekeringen, voor zover het betreft een besluit van de Sociale verzekeringsbank of het Uitvoeringsinstituut werknemersverzekeringen
 Wet gemeentelijke schuldhulpverlening
 Wet gevolgen brutering uitkeringsregelingen
+Wet hersteloperatie toeslagen: Artikelen 3.6, 3.7, 3.8, 3.10 met uitzondering van kwijtschelding die ziet op vorderingen die verband houden met de inning van de eigen bijdrage als bedoeld in artikel 3.2.5 van de Wet langdurige zorg en artikel 3.12 voor zover kwijtschelding betrekking heeft op vorderingen die verband houden met de uitvoering van de Wet maatschappelijke ondersteuning 2015
 Wet inburgering 2021
 Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen
 Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers
