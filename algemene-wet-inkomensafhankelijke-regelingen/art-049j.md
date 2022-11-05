@@ -1,3 +1,0 @@
-# Artikel 49j. Registratie
-1. Een registratie aangaande een overeenkomst in een stelsel van kredietregistratie als bedoeld in artikel 4:32 van de Wet op het financieel toezicht met een belanghebbende of zijn partner als bedoeld in artikel 49i, eerste lid, eerste volzin, in verband met een achterstand die is komen te vervallen, wordt door degene die deze heeft geregistreerd per omgaande verwijderd uit het stelsel van kredietregistratie.
-2. De Belastingdienst/Toeslagen kan op diens verzoek en indien noodzakelijk ter ondersteuning van de uitvoering van het eerste lid aan het stelsel van kredietregistratie de naam en de geboortedatum, de adresgegevens van de belanghebbende of zijn partner verstrekken.
