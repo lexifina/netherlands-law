@@ -1,0 +1,3 @@
+# Artikel V. Uitgangspunten
+1. Het Instituut fungeert als een internationaal kennis- en informatiecentrum gericht op het ontwikkelen van deskundigheid op specifieke gebieden en het bieden van technische ondersteuning bij het onderzoek naar en de ontwikkeling van vaccins.
+2. De activiteiten van het Instituut worden afgestemd op die van andere openbare of particuliere, internationale en nationale instituten die soortgelijke doelstellingen hebben. De activiteiten worden, zo veel mogelijk, in samenwerking met deze instituten gepland en uitgevoerd. In het bijzonder werkt het Instituut nauw samen met de Wereldgezondheidsorganisatie (hierna te noemen „de WHO") bij het bepalen van de technische en andere aspecten van het programma die verband houden met het mandaat van de WHO.

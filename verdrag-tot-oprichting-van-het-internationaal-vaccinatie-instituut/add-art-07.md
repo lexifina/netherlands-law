@@ -1,0 +1,7 @@
+# Article VII. Settlement of disputes
+1. The Parties shall attempt to settle any dispute as to the interpretation or application of this Agreement by negotiations or by any other mutually agreed method.
+2. If the dispute is not settled in accordance with Paragraph 1, within a period of (90) days from the request by either Party to settle it, it shall, at the request of either Party, be referred to arbitration.
+3. The arbitral tribunal shall be composed of three arbitrators. Each Party shall choose one arbitrator and the third, who shall be the chairperson of the tribunal, to be chosen jointly by the Parties. If the tribunal is not constituted within (3) months of the request for arbitration, the appointment of the arbitrators not yet designated shall be made by the President of the International Court of Justice at the request of either Party.
+4. In the event of a vacancy in the presidency of the International Court of Justice or of the inability of the President to exercise the functions of the presidency, or in the event that the President should be a national of the Party to the dispute, the appointment herein provided for may be made by the vice-president of the court or, failing him, by the senior judge.
+5. Unless the parties decide otherwise, the tribunal shall determine its own procedure.
+6. The tribunal shall apply the principles and rules of international law and its award shall be final and binding on both Parties.

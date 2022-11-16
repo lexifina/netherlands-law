@@ -1,0 +1,2 @@
+# Artikel III. Depositaris
+De Secretaris-Generaal van de Verenigde Naties is depositaris van dit Verdrag.

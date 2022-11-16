@@ -1,0 +1,9 @@
+# Article VII. Capacity
+1. The Institute shall have the following capacity:
+(i) to receive, acquire or otherwise lawfully obtain from any governmental authority or from any corporation, company, association, person, firm, foundation or other entity whether international, regional or national, such charters, licenses rights, concessions or similar rights, and assistance – financial or otherwise – as are conducive to and necessary for the attainment of its aims;
+(ii) to receive, acquire or otherwise lawfully obtain from any governmental authority or from any corporation, company, association, person, firm, foundation or other entity, whether international, regional or national, by donation, grant, exchange, devise, bequest, purchase or lease, either absolutely or in trust, contributions consisting of such properties, real, personal, or mixed including funds and valuable effects or items, as may be useful or necessary to pursue the aims and activities of the Institute and to hold, operate, administer, use, sell, convey or dispose of the said properties;
+(iii) to enter into agreements and contracts;
+(iv) to employ persons according to its own regulations;
+(v) to institute, and defend in, legal proceedings; and
+(vi) to perform all acts and functions as may be found necessary, expedient, suitable or proper for the furtherance, accomplishment or attainment of and/or all of the purposes and activities herein stated, or which shall appear, at any time, as conducive to or necessary and useful for the aims and activities of the Institute.
+2. No part of the earnings of the Institute shall inure to the benefit of, or be distributable to, its trustees, officers, or other private persons, except that the Institute shall be authorized and empowered to pay reasonable compensation for services rendered and to make payments and distributions in furtherance of the aims set forth in Article IV hereof.

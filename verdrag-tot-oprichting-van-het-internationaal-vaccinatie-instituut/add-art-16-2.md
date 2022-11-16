@@ -1,0 +1,5 @@
+# Artikel XVI. Financiering
+1. Het budget van het Instituut wordt gevoed door gelden van de lidstaten, internationale organisaties en andere openbare en particuliere organisaties en instellingen, met inbegrip van de leden van het CVI, die een financiële en andere vrijwillige bijdrage willen leveren. Het Instituut is bevoegd bijdragen te ontvangen uit andere bronnen. Het Instituut kan ook bijdragen en giften aanvaarden ten behoeve van de vorming van een fonds.
+2. De financiële handelingen van het Instituut zijn onderworpen aan een door de Raad aan te nemen financieel reglement.
+3. De begroting van het Instituut moet jaarlijks door de Raad worden goedgekeurd.
+4. De jaarlijkse controle van de bedrijfsvoering van het Instituut wordt uitgevoerd door een onafhankelijke internationale accountantsfirma die wordt aangewezen door de Raad op voordracht van de Directeur. De resultaten van deze accountantsonderzoeken worden door de Directeur ter beoordeling aan de Raad voorgelegd. Na goedkeuring door de Raad wordt het accountantsrapport verspreid onder de partijen die bijdragen geven aan het Instituut.

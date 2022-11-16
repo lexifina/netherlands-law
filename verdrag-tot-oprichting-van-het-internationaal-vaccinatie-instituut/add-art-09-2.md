@@ -1,0 +1,12 @@
+# Article IX. Composition of the Board
+1. The Board shall consist of not less than nine members, selected as follows:
+(i) up to ten members-at-large elected by the Board. Regard shall be paid especially to proposed members' professional experience and qualifications, to appropriate geographical distribution, to agencies and countries which have concern for and provide substantial support to the Institute, or to countries where major facilities are located;
+(ii) two members appointed by the host country, Republic of Korea;
+(iii) one member appointed by WHO;
+(iv) members appointed by the Board upon recommendation of governments of the Parties to this Agreement. The Board shall establish appropriate procedures for appointing members from the governments of the Parties to this Agreement; and
+(v) the Director of the Institute as a member ex-officio.
+2. Members-at-large shall be appointed for terms of no more than three years as determined by the Board in advance of the appointment. In the case of vacancy of members-at-large by reason of their retirement, death, incapacity, or any other cause, the Board shall fill the vacancy in the same manner as the original appointment. A new member appointed to replace a member during the latter's term, may be appointed for the remaining term of the member being replaced. He/she is eligible to serve two additional terms.
+3. The members of the Board are eligible for reappointment to a second term, but shall not serve more than two successive terms, except that the member elected as a Chairperson, a Vice- Chairperson, a Secretary, or a Treasurer may have his/her term extended by the Board in order to coincide with his/her appointment as Chairperson, a Vice-Chairperson, a Secretary, or a Treasurer, as the case may be.
+4. The members of the Board, other than the members serving ex-officio, the members appointed by the host country, Republic of Korea and WHO, and the members elected upon recommendation of governments, shall serve in a personal capacity and are not considered, nor do they act, as official representatives of governments or organizations.
+5. The term of office and the selection of the members appointed by the Government of the host country, Republic of Korea (hereinafter referred to as the "Government") will be determined by the Government.
+6. The members of the Board elected upon recommendation of governments shall serve for a term of three years and be eligible for reelection.

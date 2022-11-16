@@ -1,0 +1,4 @@
+# Article IV. Aims
+The Institute shall carry out major scientific functions within the overall goals and framework of the CVI. Specifically, it will:
+1. undertake and promote study, research, development and dissemination of knowledge in the vaccine-relevant sciences and directly related areas of public health, management sciences and technology to generate affordable and effective means to prevent death and disability arising from infectious diseases and, thereby, to improve the health status and general welfare of children and low-income people in developing and developed countries, especially in Asia; and
+2. provide, in collaboration with relevant national and international institutions, facilities and training programmes aimed at strengthening expertise and capacity for developing and developed countries to conduct work in the areas of the Institute's interest and competence.

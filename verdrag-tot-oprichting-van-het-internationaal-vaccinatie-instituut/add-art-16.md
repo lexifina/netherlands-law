@@ -1,0 +1,5 @@
+# Article XVI. Financing
+1. The budget of the Institute shall be funded by member states, international organizations and other public or private agencies and institutions, including members of the CVI, who wish to make financial and other voluntary contributions to it. The Institute may receive contributions from other sources. It may also receive contributions and gifts towards the establishment of an endowment programme.
+2. The financial operations of the Institute shall be governed by financial regulations to be adopted by the Board.
+3. The budget of the Institute is approved annually by the Board.
+4. An annual audit of the operations of the Institute shall be conducted by an independent international accounting firm appointed by the Board upon recommendation of the Director. The results of such audits shall be made available by the Director to the Board for its consideration. Following the approval by the Board, the audit report shall be circulated to parties contributing to the Institute.

@@ -1,0 +1,7 @@
+# Artikel VII. Regeling van geschillen
+1. De Partijen streven ernaar geschillen over de uitlegging of de toepassing van dit Verdrag te regelen door middel van onderhandelingen of op elke andere onderling overeen te komen wijze.
+2. Indien het geschil niet binnen een termijn van negentig dagen nadat een der Partijen daarom heeft verzocht overeenkomstig het eerste lid is geregeld, wordt het op verzoek van een der Partijen voorgelegd aan een scheidsgerecht.
+3. Het scheidsgerecht wordt gevormd door drie scheidsmannen. Elke Partij kiest één scheidsman. De derde scheidsman, die voorzitter van het scheidsgerecht wordt, wordt door beide Partijen gezamenlijk gekozen. Indien het scheidsgerecht niet binnen drie maanden na het verzoek tot arbitrage is samengesteld, worden de nog niet aangewezen scheidsmannen benoemd door de President van het Internationale Hof van Justitie op verzoek van een der Partijen.
+4. Indien het presidentschap van het Internationale Hof van Justitie vacant is of de President op andere wijze niet in staat is zich van zijn taak te kwijten, of indien de President staatsburger is van een land dat Partij is bij het geschil, kan de bedoelde benoeming geschieden door de vice-president van het hof of, bij diens afwezigheid, door de rechter met de hoogste anciënniteit.
+5. Het scheidsgerecht bepaalt zijn eigen procedure tenzij de partijen anders overeenkomen.
+6. Het scheidsgerecht past de beginselen en regels van het internationale recht toe en zijn uitspraak is definitief en bindend voor beide Partijen.

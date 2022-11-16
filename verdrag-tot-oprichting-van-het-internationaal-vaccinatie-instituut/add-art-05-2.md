@@ -1,0 +1,3 @@
+# Article V. Guiding principles
+1. The Institute will serve as an international resource centre devoted to developing specific areas of expertise and providing technical assistance for research and development of vaccines.
+2. The Institute will complement its activities with those of other international and national institutions, public and private, that have similar aims. Its activities will, wherever appropriate, be planned and implemented in collaboration with such institutions. In particular, the Institute shall fully cooperate with the World Health Organization (hereinafter referred to as "WHO") in determining the technical and other aspects of its programme that relate to WHO's mandate.

@@ -1,0 +1,11 @@
+# Artikel XIV. Taken en bevoegdheden van de Directeur
+1. De Directeur is de Raad verantwoording verschuldigd over het functioneren en beheer van het Instituut en hij staat in voor een adequate ontwikkeling en uitvoering van programma's en doelstellingen van het Instituut. De Directeur vervult een voortrekkersrol bij de inzameling van gelden en de mobilisatie van middelen voor het Instituut. Hij/zij is de hoogste uitvoerende functionaris van het Instituut.
+2. De Directeur voert het door de Raad vastgestelde beleid uit, volgt de door de Raad vastgelegde richtlijnen voor het functioneren van het Instituut en voert de instructies van de Raad uit. De Directeur geeft, in overleg met de Raad, met name uitvoering aan de volgende activiteiten:
+i. het ontwikkelen van een plan van aanpak voor het functioneren van het Instituut ter bestudering en goedkeuring door de Raad, en het voortdurend aanpassen van dit plan;
+ii. programma's en begrotingen ontwerpen en het jaarverslag van het Instituut opstellen;
+iii. toezicht houden op de planning en het management van de onderzoeks-, ontwikkelings- en onderwijsactiviteiten van het Instituut teneinde de doelmatige uitvoering daarvan te garanderen;
+iv. het werven van en leiding geven aan hooggekwalificeerd personeel;
+v. het ter beschikking houden van het plan van aanpak, de programma's en de begrotingen, met het oog op regelmatige toetsing hiervan door de Raad;
+vi. de Voorzitter van de Raad op de hoogte houden van aangelegenheden die met betrekking tot het Instituut van belang zijn; en
+vii. alle overige taken verrichten die door de Raad aan hem/haar zijn gedelegeerd.
+3. De Directeur is de wettelijke vertegenwoordiger van het Instituut. Hij/zij ondertekent alle akten, contracten, overeenkomsten, verdragen en andere juridische stukken die nodig zijn voor het normale functioneren van het Instituut. De Raad kan beslissen in welke mate deze bevoegdheden aan de Directeur gedelegeerd worden. Contracten, overeenkomsten en verdragen die gevolg hebben voor bestuur, doelstellingen, locatie, uitbreiding of opheffing van het Instituut, of belangrijke aangelegenheden betreffende de betrekkingen met het gastland, zijn onderworpen aan de goedkeuring van de Raad.
