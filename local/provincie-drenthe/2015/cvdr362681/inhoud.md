@@ -1363,7 +1363,6 @@ Ruigtevelden kunnen rijk zijn aan insecten en bij een begrazingsbeheer soms ook 
 Subsidieverplichtingen
 De beheerder dient het beheertype in stand te houden. De wijze waarop hij deze instandhoudingsverplichting invult, is aan de beheerder zelf.
 Voorbeeldgebieden
-@
 N13, VOGELGRASLANDEN
 Algemene beschrijving
 Vogelgraslanden zijn grootschalige open gebieden waar graslanden worden beheerd ten behoeve van grote aantallen vogels. Het betreft hierbij voornamelijk weidevogels, zwanen, ganzen en eenden. De desbetreffende gebieden zijn vochtig tot nat. De eisen die de bedoelde soorten stellen, maakt dat vogelgraslanden niet (meer) passen in het reguliere agrarisch bedrijf. Daarom is het natuurtype beperkt tot reservaten en gebieden met bepaalde vormen van agrarisch natuurbeheer.
