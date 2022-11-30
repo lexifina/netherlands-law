@@ -1,0 +1,9 @@
+# V. Ad artikel 11, tweede lid, artikel 12, tweede lid, en artikel 13
+Indien Chili overeenkomt, in een belastingverdrag met een andere staat dat na de datum van inwerkingtreding van dit Verdrag in werking treedt;
+a. om de belasting die in Chili wordt geheven over uit Chili afkomstige interest te beperken tot een lager tarief dan gespecificeerd in het tweede lid van artikel 11 van dit Verdrag, of
+b. om de belasting die in Chili wordt geheven over uit Chili afkomstige royalty's te beperken tot een lager tarief dan gespecificeerd in het tweede lid van artikel 12 van dit Verdrag, of
+c. dat betalingen voor industriële, commerciële of wetenschappelijke uitrusting voor de toepassing van dat Verdrag niet als royalty's zullen worden behandeld, of
+d. voorwaarden aan te nemen die het recht van Chili om voordelen te belasten uit hoofde van artikel 13 van dit Verdrag verder beperken,
+plegen de verdragsluitende staten, op verzoek van Nederland, overleg met het oog op wijziging van het Verdrag teneinde deze lagere belastingen of beperkende voorwaarden in het Verdrag op te nemen.
+Ten behoeve van dit Verdrag is het wel te verstaan dat inkomen dat wordt ontvangen in verband met de (gedeeltelijke) liquidatie van een lichaam of een inkoop van eigen aandelen door een lichaam wordt behandeld als inkomen uit aandelen en niet als vermogenswinsten.
+Het is wel te verstaan dat de uitdrukking „moeilijkheden of twijfelpunten die mochten rijzen met betrekking tot de interpretatie of de toepassing van het Verdrag" in artikel 25, derde lid, van het Verdrag gevallen omvat waarin de bepalingen van het Verdrag worden gebruikt op een wijze die niet voorzien of niet bedoeld is om voordelen te verschaffen, rekening ermee houdend dat het voorwerp en doel van het Verdrag is het vermijden van internationale dubbele belasting en het voorkomen van het ontduiken en ontwijken van belasting.

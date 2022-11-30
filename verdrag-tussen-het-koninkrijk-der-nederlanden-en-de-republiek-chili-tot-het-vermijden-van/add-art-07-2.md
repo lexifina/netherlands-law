@@ -1,0 +1,2 @@
+# VII. Ad artikel 25, derde lid, van het Verdrag
+Het is wel te verstaan dat de uitdrukking „moeilijkheden of twijfelpunten die mochten rijzen met betrekking tot de interpretatie of de toepassing van het Verdrag" in artikel 25, derde lid, van het Verdrag gevallen omvat waarin de bepalingen van het Verdrag worden gebruikt op een wijze die niet voorzien of niet bedoeld is om voordelen te verschaffen, rekening ermee houdend dat het voorwerp en doel van het Verdrag is het vermijden van internationale dubbele belasting en het voorkomen van het ontduiken en ontwijken van belasting.

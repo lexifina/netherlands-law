@@ -1,0 +1,2 @@
+# VII. Ad paragraph 3 of article 25 of the Convention
+It is understood that the term "difficulties or doubts arising as to the interpretation or application of this Convention" in paragraph 3 of Article 25 of the Convention includes cases where the provisions of the Convention are used in a manner as to provide benefits not contemplated or not intended, considering that the object and purpose of the Convention is to avoid international double taxation and the prevention of tax evasion and avoidance.
