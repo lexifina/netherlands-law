@@ -1,0 +1,2 @@
+# Artikel 5a
+Bij de vaststelling van het nationale waterplan, het beheerplan voor de rijkswateren, een regionaal waterplan of een beheerplan voor de regionale wateren geldt dat het plan voor elk daarin opgenomen waterlichaam de volgende Europese milieukwaliteitseis voor water verwezenlijkt: de concentratie van een prioritaire stof die de neiging heeft te accumuleren in sediment of in biota is, bepaald overeenkomstig het monitoringsprogramma, aan het eind van de planperiode in sediment en biota niet significant toegenomen.
