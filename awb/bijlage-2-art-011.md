@@ -7,7 +7,6 @@ Burgerlijk Wetboek: de artikelen 63d, tweede lid, 156 en 266 van Boek 2
 Drinkwaterwet: artikel 50, derde lid, in samenhang met artikel 70a van de Mededingingswet
 Elektriciteitswet 1998: de artikelen 77h en 77i
 Gaswet: de artikelen 16, 60ac en 60ad
-Gezondheids- en welzijnswet voor dieren: artikel 120b, eerste lid
 Handelsregisterwet 2007: de artikelen 47a en 47b
 Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies: de artikelen 22 en 23
 Instellingswet Autoriteit Consument en Markt
