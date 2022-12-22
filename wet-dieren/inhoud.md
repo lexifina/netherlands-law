@@ -34,5 +34,4 @@
 ## Hoofdstuk 10. Overig
 ## Hoofdstuk 11. Wijzigingen andere wetten en overgangsrecht
 ### § 1. Overgangsrecht
-### § 2. Wijziging andere wetten
 ## Hoofdstuk 12. Slotbepalingen
