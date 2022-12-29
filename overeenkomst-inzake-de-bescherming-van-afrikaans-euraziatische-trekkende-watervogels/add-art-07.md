@@ -1,0 +1,14 @@
+# Article VII. Technical Committee
+1. The Technical Committee shall comprise:
+a) nine experts representing different regions of the Agreement Area, in accordance with a balanced geographical distribution;
+b) one representative from the International Union for Conservation of Nature and Natural Resources (IUCN), one from the International Waterfowl and Wetlands Research Bureau (IWRB) and one from the International Council for Game and Wildlife Conservation (CIC); and
+c) one expert from each of the following fields: rural economics, game management, and environmental law.
+The procedure for the appointment of the experts, the term of their appointment and the procedure for designation of the Chairman of the Technical Committee shall be determined by the Meeting of the Parties. The Chairman may admit a maximum of four observers from specialized international inter-governmental and non-governmental organizations.
+2. Unless the Meeting of the Parties decides otherwise, meetings of the Technical Committee shall be convened by the Agreement secretariat in conjunction with each ordinary session of the Meeting of the Parties and at least once between ordinary sessions of the Meeting of the Parties.
+3. The Technical Committee shall:
+a) provide scientific and technical advice and information to the Meeting of the Parties and, through the Agreement secretariat, to Parties;
+b) make recommendations to the Meeting of the Parties concerning the Action Plan, implementation of the Agreement and further research to be carried out;
+c) prepare for each ordinary session of the Meeting of the Parties a report on its activities, which shall be submitted to the Agreement secretariat not less than one hundred and twenty days before the session of the Meeting of the Parties, and copies shall be circulated forthwith by the Agreement secretariat to the Parties; and
+d) carry out any other tasks referred to it by the Meeting of the Parties.
+4. Where in the opinion of the Technical Committee there has arisen an emergency which requires the adoption of immediate measures to avoid deterioration of the conservation status of one or more migratory waterbird species, the Technical Committee may request the Agreement secretariat to convene urgently a meeting of the Parties concerned. These Parties shall meet as soon as possible thereafter to establish rapidly a mechanism to give protection to the species identified as being subject to particularly adverse threat. Where a recommendation has been adopted at such a meeting, the Parties concerned shall inform each other and the Agreement secretariat of measures they have taken to implement it, or of the reasons why the recommendation could not be implemented.
+5. The Technical Committee may establish such working groups as may be necessary to deal with specific tasks.
