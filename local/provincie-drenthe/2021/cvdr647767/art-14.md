@@ -12,7 +12,7 @@ Cultureel vermogen bestaat uit vier centrale bouwstenen: zie ook dit filmpje htt
 3. Culturele uitingsvormen ontwikkelen. Dit is jezelf leren uitdrukken in een expressieve discipline en ervaren hoe het is om met stijlen, verwachtingen en conventies te spelen.
 4. Samen nieuwe cultuur maken. Dit is kunnen deelnemen aan het culturele leven en samen met anderen de culturele omgeving actief vormgeven.
 Met deze regeling richt de provincie zich vooral op het faciliteren van de derde en vierde bouwsteen
-[afbeelding: plaatje1id61612f5-8b77-4113-aea1-7404a41c84ad.png]
+[afbeelding: plaatje1i37884df0-b8af-4e9d-9cc8-2f1745b4f5a6.png]
 Cultureel vermogen, participatie en inclusie
 Cultureel vermogen is een inclusief begrip, het geeft een bredere en meer samenhangende basis aan begrippen die de provincie eerder al hanteerde: (cultuur)participatie en inclusie.
 Cultureel vermogen is gericht op het verbinden en het verrijken van het culturele proces tussen mensen. Dat betekent dat er altijd aansluiting is bij een cultureel proces dat er bij die mensen al is. Zo biedt cultureel vermogen een referentiekader om te werken aan de verbreding en verdieping van de cultuurparticipatie van alle mensen.
