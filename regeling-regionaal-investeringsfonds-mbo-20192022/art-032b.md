@@ -1,0 +1,13 @@
+# Artikel 32b. Aanvullingen subsidieverplichtingen wegens COVID-19
+1. Indien de uitbraak van COVID-19 of de maatregelen ter bestrijding ervan grote invloed op de voortgang van het project heeft, beschrijft het bevoegd gezag van de aanvragende onderwijsinstelling in aanvulling op de onderdelen genoemd in artikel 27, eerste lid, in de voortgangsrapportage waaruit die invloed bestaat, welke maatregelen zijn of worden genomen om een goede voortgang desondanks zoveel mogelijk te waarborgen en eventueel welke onzekerheden er daarbij zijn. Het bevoegd gezag kan daarbij een verzoek doen als bedoeld in artikel 32a, eerste lid.
+2. De beoordelingscommissie kan in aanvulling op artikel 22, derde tot en met vijfde lid:
+a. de omstandigheden en maatregelen zoals die blijken uit de beschrijving, bedoeld in het eerste lid, meewegen in de beoordeling van de voortgangsrapportage;
+b. de mogelijkheden van de Minister, bedoeld in artikel 32a, eerste en derde lid, meewegen in de beoordeling van de voortgangsrapportage;
+c. de Minister adviseren het bevoegd gezag een termijn te geven waarbinnen de voortgangsrapportage moet worden aangepast of aangevuld of waarbinnen de Minister over de nadere ontwikkelingen rondom COVID-19 moet worden geïnformeerd; en
+d. de Minister adviseren gebruik te maken van de bevoegdheid als bedoeld in artikel 32a, vijfde lid.
+3. De Minister kan in aanvulling op artikel 28:
+a. de omstandigheden en maatregelen zoals die blijken uit de beschrijving, bedoeld in het eerste lid, meewegen in de tussentijdse beoordeling;
+b. de mogelijkheden bedoeld in artikel 32a, eerste en derde lid, meewegen in de tussentijdse beoordeling;
+c. het bevoegd gezag een termijn geven waarbinnen de voortgangsrapportage moet worden aangepast of aangevuld of waarbinnen de Minister over de nadere ontwikkelingen rondom COVID-19 moet worden geïnformeerd, en daarbij zo nodig artikel 28, vijfde lid, overeenkomstig toepassen; en
+d. in plaats van artikel 28, derde lid, gebruik maken van de bevoegdheid, bedoeld in artikel 32, vijfde lid, waarbij de Minister zo nodig kan afwijken van termijn, bedoeld in artikel 28, vierde lid.
+4. Indien de uitbraak van COVID-19 of de maatregelen ter bestrijding ervan grote invloed op de doelrealisatie van het project heeft gehad, beschrijft het bevoegd gezag van de onderwijsinstelling in aanvulling op de onderdelen genoemd in artikel 29, tweede en derde lid, in de eindrapportage waaruit die invloed heeft bestaan en welke maatregelen zijn genomen om een goede doelrealisatie desondanks zoveel mogelijk te waarborgen. Het bevoegd gezag kan daarbij een verzoek doen als bedoeld in artikel 32a, derde lid.
