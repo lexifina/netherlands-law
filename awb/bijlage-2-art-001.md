@@ -28,9 +28,8 @@ Gerechtsdeurwaarderswet: artikel 3a, tweede lid
 Instellingswet Autoriteit Consument en Markt: artikel 12h, eerste lid, voor zover de aanvraag is afgewezen
 Invorderingswet 1990, met uitzondering van de artikelen 30, 49 en 62a
 Jeugdwet:
-a. artikel 2.3, eerste lid, voor zover in het besluit wordt bepaald dat een voorziening op het gebied van jeugdhulp en verblijf niet zijnde verblijf bij een pleegouder nodig is, als bedoeld in artikel 6.1.2, vijfde lid
-b. artikel 3.5, eerste lid
-c. de artikelen 6.1.5, 6.1.6, tweede en derde lid, 6.1.12, vijfde lid, 6.3.1 tot en met 6.3.5, 6.3.7 en 6.4.1
+a. artikel 3.5, eerste lid
+b. de artikelen 6.1.5, 6.1.6, tweede en derde lid, 6.1.12, vijfde lid, 6.3.1 tot en met 6.3.5, 6.3.7 en 6.4.1
 Kaderwet zelfstandige bestuursorganen: artikel 21a, eerste en tweede lid
 Kostenwet invordering rijksbelastingen, met uitzondering van artikel 7
 Leegstandwet:
@@ -54,7 +53,6 @@ Richtlijn 2008/50/EG van het Europees Parlement en de Raad van 21 mei 2008 betre
 Rijkswet Onderzoeksraad voor veiligheid, met uitzondering van beslissingen ten aanzien van de algemeen secretaris en de medewerkers van het bureau
 Telecommunicatiewet: de artikelen 3.5, 3.5a, 3.5b, 3.22 en 18.9, eerste en tweede lid
 Tijdelijke experimentenwet nieuwe stembiljetten: de artikelen 2 en 4
-Tijdelijke experimentenwet stembiljetten en centrale stemopneming: artikel 2
 Tracéwet: de artikelen 2, eerste lid, 4, eerste lid, onderdeel c, en 23, eerste lid
 Uitleveringswet
 Uitvoeringswet huurprijzen woonruimte: de artikelen 7, tweede, derde, vijfde, achtste en negende lid, en 7a, derde lid
@@ -130,6 +128,7 @@ Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen: ar
 Wet verplichte geestelijke gezondheidszorg, met uitzondering van de artikelen 5:2 en 13:4
 Wet vervoer gevaarlijke stoffen: de artikelen 13, eerste lid, en 14, eerste, tweede en vierde lid
 Wet voortgezet onderwijs 2020: artikel 5.23, vierde lid, zolang de gemeenteraad de aanvulling nog niet heeft bekrachtigd
+Wet vrachtwagenheffing: de artikelen 8, tweede lid, 9, tweede lid, en 12, eerste lid
 Wet windenergie op zee: artikel 9, eerste lid
 Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten, met uitzondering van artikel 61
 Zorgverzekeringswet:

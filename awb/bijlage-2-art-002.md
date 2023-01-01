@@ -46,7 +46,6 @@ Spoedwet wegverbreding:
 a. een plan als bedoeld in artikel 6, vijfde lid
 b. de artikelen 7, eerste lid, 9, eerste lid, en 15, tweede lid, onder c
 Tijdelijke experimentenwet nieuwe stembiljetten: de artikelen 5 tot en met 10
-Tijdelijke experimentenwet stembiljetten en centrale stemopneming: artikelen 4
 Tijdelijke wet aanwijzing bèta-opleidingen: artikel 2, eerste lid
 Tracéwet: de artikelen 9, eerste lid, 20, tweede lid, en 21, tweede lid, onder c
 Uitvoeringsverordening (EU) 2018/2066 van de Commissie van 19 december 2018 inzake de monitoring en rapportage van de emissies van broeikasgassen overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad (PbEU 2018, L 334): voor zover het besluiten betreft van de Nederlandse emissieautoriteit, genoemd in artikel 2.1 van de Wet milieubeheer
@@ -115,7 +114,7 @@ Wet op de expertisecentra:
 a. titel IV: de afdelingen 2 en 7, een goedkeuring van rechtswege daaronder begrepen
 b. de artikelen 118 en 168
 Wet op het financieel toezicht: de artikelen 6:1 en 6:2
-Wet op het hoger onderwijs en wetenschappelijk onderzoek: de artikelen 2.9, derde lid, 5.8, eerste lid, 5.9, eerste en tweede lid, 5.16, eerste en derde lid, 5.17, 5.18, 5.19, eerste, tweede en derde lid, 5.20, eerste lid, 5.26, eerste lid, 5.27, eerste en tweede lid, 5.29, eerste lid, 6.5 en 15.1, eerste lid
+Wet op het hoger onderwijs en wetenschappelijk onderzoek: de artikelen 2.9, derde lid, 5.8, eerste lid, 5.9, eerste en tweede lid, 5.16, eerste en derde lid, 5.17, 5.18, 5.19, eerste, tweede en derde lid, 5.20, eerste lid, 5.26, eerste lid, 5.27, eerste en tweede lid, 5.29, eerste lid, 6.5, 7.64, eerste lid, en 15.1, eerste lid
 Wet op het primair onderwijs:
 a. artikel 22, vijfde lid
 b. titel IV: de afdelingen 2 en 8, een goedkeuring van rechtswege daaronder begrepen
