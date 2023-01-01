@@ -1,0 +1,2 @@
+# Artikel 57a
+Onder de naam afvalwaterheffing kan ter bestrijding van de kosten die voor het openbaar lichaam verbonden zijn aan het beheer van afvalwater een belasting worden geheven van degenen die, al dan niet krachtens een zakelijk of persoonlijk recht, feitelijk gebruik maken van een perceel ten aanzien waarvan krachtens artikel 4.25 van de Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES een verplichting geldt tot het beheer van afvalwater als bedoeld in die wet.

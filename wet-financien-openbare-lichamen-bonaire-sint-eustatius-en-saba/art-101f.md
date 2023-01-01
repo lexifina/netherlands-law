@@ -1,0 +1,3 @@
+# Artikel 101f
+1. In afwijking in zoverre van hetgeen daarover wordt bepaald in de verordeningen, genoemd in artikel 101b, treedt de Raad van Beroep voor belastingzaken, bedoeld in Hoofdstuk VIII van de Belastingwet BES, op het tijdstip van transitie in de plaats van de Raad van Beroep voor Belastingzaken, bedoeld in de Landsverordening op het beroep in belastingzaken 1940.
+2. Indien het tijdstip van transitie is gelegen voor het tijdstip van inwerkingtreding van titel 8 van hoofdstuk VIII van de Belastingwet BES wordt gedurende de overgangsperiode in het eerste lid voor «bedoeld in Hoofdstuk VIII van de Belastingwet BES» gelezen: bedoeld in paragraaf 2b van de Wet geldstelsel BES.
