@@ -1,2 +1,0 @@
-# Artikel 32.. Intrekking
-Deze regeling kan worden ingetrokken bij gelijkluidend besluit van provinciale staten van ten minste twee derde gedeelte van de deelnemende provincies. Het college is belast met de liquidatie van de Noordelijke Rekenkamer.

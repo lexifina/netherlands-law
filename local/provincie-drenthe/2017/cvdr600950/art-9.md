@@ -1,2 +1,0 @@
-# Artikel 9.. Eed
-De leden van de Noordelijke Rekenkamer leggen in de vergadering van provinciale staten van de provincie Drenthe de eed (verklaring en belofte) af als bedoeld in artikel 79g van de Provinciewet. Daarnaast bieden provinciale staten de leden van het college van de Noordelijke Rekenkamer de gelegenheid zich te presenteren in de vergadering van de provinciale staten van de overige deelnemende provincies.

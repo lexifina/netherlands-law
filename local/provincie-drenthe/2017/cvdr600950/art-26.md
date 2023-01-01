@@ -1,4 +1,0 @@
-# Artikel 26.. Begroting
-1. De Noordelijke Rekenkamer stelt elk jaar voor 15 april de algemeen financiële en beleidsmatige kaders voor de begroting van het daarop volgende jaar en de voorlopige jaarrekening vast. De Noordelijke Rekenkamer zendt deze documenten toe aan provinciale staten van de deelnemende provincies.
-2. De Noordelijke Rekenkamer stelt jaarlijks voor 15 juli de begroting voor het daarna volgende kalenderjaar vast met in achtneming van de bepalingen van artikel 48 van de Wet gemeenschappelijke regelingen.
-3. De bepalingen van artikel 48, eerste, derde en vierde lid van de Wet gemeenschappelijke regelingen zijn niet van toepassing op wijzigingen van de begroting indien deze wijzigingen niet leiden tot verhoging van de door de deelnemende provincies verschuldigde bijdrage in de kosten van het gemeenschappelijk orgaan.

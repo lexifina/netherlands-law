@@ -1,2 +1,0 @@
-# Artikel 14.. De voorzitter
-De voorzitter is belast met de leiding van de vergaderingen van het college. Hij bevordert een spoedige afhandeling van zaken. Hij tekent de stukken die van de Noordelijke Rekenkamer uitgaan.
