@@ -51,6 +51,7 @@
 #### Afdeling 1.7.6. Maximale vertrekvergoeding
 #### Afdeling 1.7.7. Terugvordering en aanpassing van variabele beloningen
 #### Afdeling 1.7.8. Verbod op variabele beloning bij staatssteun
+#### Afdeling 1.7.9. Retentieperiode van financiële instrumenten in vaste beloningen
 ## 2. Deel Markttoegang Financiële Ondernemingen
 ### Hoofdstuk 2.1. Inleidende bepalingen
 ### Hoofdstuk 2.2. Toegang tot de Nederlandse financiële markten
