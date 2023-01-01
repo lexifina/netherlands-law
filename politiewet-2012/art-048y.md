@@ -1,0 +1,5 @@
+# Artikel 48y
+1. De korpschef vraagt de ambtenaar van politie die beschikt over een verklaring omtrent het gedrag ter voldoening van artikel 48q, tweede lid, en de persoon die krachtens overeenkomst werkzaamheden verricht voor de politie en beschikt over een verklaring omtrent het gedrag ter voldoening van artikel 48q, derde lid, na het verstrijken van een bij algemene maatregel van bestuur te bepalen termijn opnieuw een verklaring omtrent het gedrag over te leggen.
+2. De korpschef kan, indien hem blijkt van feiten of omstandigheden die het overleggen van een verklaring omtrent het gedrag rechtvaardigen, de in het eerste lid bedoelde persoon vragen opnieuw een verklaring omtrent het gedrag over te leggen.
+3. Indien de persoon, bedoeld in het eerste of tweede lid, niet binnen een redelijke termijn een verklaring omtrent het gedrag overlegt, wordt niet langer voldaan aan het vereiste voor het verrichten van werkzaamheden als bedoeld in artikel 48q, tweede of derde lid.
+4. Artikel 48q, zevende lid, is van toepassing.
