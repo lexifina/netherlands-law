@@ -1,2 +1,0 @@
-# Artikel 3a
-De overige leden van de Kiesraad ontvangen een vergoeding van 2% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn, voor het deelnemen aan overige bijeenkomsten, niet zijnde vergaderingen als bedoeld in artikel 2, die direct verband houden met de taken genoemd in artikel A 3 van de Kieswet.

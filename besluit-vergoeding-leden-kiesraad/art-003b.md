@@ -1,2 +1,0 @@
-# Artikel 3b
-Gedurende het transitietraject van de Kiesraad ontvangen de overige leden van de Kiesraad een vergoeding van 2% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn, voor het bijwonen van de met de voorbereiding van de transitie samenhangende stuurgroep- en werkgroepvergaderingen en overige bijeenkomsten in het kader van de transitie.
