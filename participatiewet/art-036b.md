@@ -1,5 +1,5 @@
 # Artikel 36b. Studietoeslag
-1. In aanvulling op artikel 7 verstrekt het college op verzoek van een belanghebbende die als rechtstreeks gevolg van een ziekte of gebrek structureel niet in staat is naast de studie inkomsten te verwerven, een studietoeslag waarvan de hoogte, die voor naar leeftijd te onderscheiden categorieën belanghebbenden verschillend kan zijn, bij algemene maatregel van bestuur wordt vastgesteld.
+1. In aanvulling op artikel 7 verstrekt het college op verzoek van een belanghebbende die als rechtstreeks gevolg van een ziekte of gebrek structureel niet in staat is naast de studie inkomsten te verwerven, een studietoeslag waarvan de minimale hoogte, die voor naar leeftijd te onderscheiden categorieën belanghebbenden verschillend kan zijn, bij algemene maatregel van bestuur wordt vastgesteld.
 2. Bij de beoordeling of recht bestaat op de studietoeslag vraagt het college een geneeskundig advies, tenzij zonder dit advies vastgesteld kan worden dat recht bestaat op de studietoeslag.
 3. Het verzoek kan worden gedaan door een belanghebbende die:
 a. studiefinanciering ontvangt op grond van de Wet studiefinanciering 2000, niet zijnde het levenlanglerenkrediet, of een tegemoetkoming krijgt op grond van hoofdstuk 4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten; en
