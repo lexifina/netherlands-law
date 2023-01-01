@@ -1,7 +1,7 @@
 # Artikel 12a
 1. Ten behoeve van het woon-werkverkeer en dienstreizen van de voorzitter kan in plaats van de voorziening, bedoeld in artikel 7, eerste en tweede lid, een dienstauto ter beschikking worden gesteld.
 2. Op een daartoe strekkend advies van de Nationaal Coördinator Terrorismebestrijding en Veiligheid kan aan de voorzitter in plaats van de voorziening, bedoeld in artikel 7, eerste en tweede lid, voor de duur van het voorzitterschap een dienstauto met chauffeur ter beschikking worden gesteld voor zowel zakelijk als privégebruik.
-3. De prijs per kilometer van de dienstauto, bedoeld in het eerste of tweede lid, bedraagt niet meer dan € 0,66 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60 000 gereden kilometers per jaar.
+3. De prijs per kilometer van de dienstauto, bedoeld in het eerste of tweede lid, bedraagt niet meer dan € 0,69 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60 000 gereden kilometers per jaar.
 4. Het bedrag, genoemd in het derde lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van het prijsindexcijfer jaargemiddelde operationele autolease inclusief brandstof, zoals door het Centraal Bureau voor de Statistiek gepubliceerd, over het tweede kalenderjaar voorafgaand aan genoemde datum ten opzichte van hetzelfde indexcijfer over het jaar daaraan voorafgaand.
 5. De prijs per kilometer wordt berekend aan de hand van de formule
 (((n / (l/12)) + o + f + g + h + p) / m) + i,
