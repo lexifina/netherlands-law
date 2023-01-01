@@ -1,0 +1,7 @@
+# Artikel 4b
+1. Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd de persoon die niet in Nederland woont, voor zover niet reeds begrepen onder artikel 4a, en die uit hoofde van een privaatrechtelijke dienstbetrekking naar Nederlands recht met een overheidswerkgever als bedoeld in artikel 2 van de Ambtenarenwet 2017, dan wel een publiekrechtelijke dienstbetrekking met een bestuursorgaan dat daar deel van uitmaakt, buiten Nederland arbeid verricht ten behoeve van die overheidswerkgever of dat bestuursorgaan, tenzij hij:
+a. ten tijde van aanwerving niet in Nederland woonde;
+b. buiten Nederland arbeid verricht anders dan uit hoofde van de vorenbedoelde dienstbetrekking;
+c. een uitkering ontvangt op grond van een buitenlandse wettelijke regeling inzake sociale zekerheid; of
+d. werkzaam is bij een door Onze Minister, Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties aan te wijzen volkenrechtelijke organisatie en op hem een regeling inzake sociale zekerheid van die organisatie van toepassing is.
+2. In afwijking van het eerste lid, onderdeel b, wordt als werknemer in de zin van de werknemersverzekeringen beschouwd de Nederlander die in dienst is van een publiekrechtelijke rechtspersoon in Aruba, Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius of Saba mits hij door de Nederlandse overheid is uitgezonden.

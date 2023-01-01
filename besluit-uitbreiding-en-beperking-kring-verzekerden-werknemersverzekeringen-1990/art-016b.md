@@ -1,0 +1,2 @@
+# Artikel 16b
+Artikel 7, derde lid, is niet van toepassing ten aanzien van de particulier bediende, bedoeld in dat lid, indien deze persoon op de dag van inwerkingtreding van het besluit van 11 december 2014 tot wijziging van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999, het Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990 en het Besluit uitbreiding en beperking kring ingezetenen Wet Wajong (Stb. 514) werknemer was in de zin van de werknemersverzekeringen.
