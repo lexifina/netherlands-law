@@ -1,0 +1,2 @@
+# Artikel 432a
+Tijdens het beroep in cassatie worden processtukken ingediend en berichten tussen de Hoge Raad, de procureur-generaal bij de Hoge Raad, het openbaar ministerie, de raadsman van de verdachte en de advocaat van een andere procespartij overgedragen met behulp van een bij of krachtens algemene maatregel van bestuur aangewezen elektronische voorziening, tenzij de wet of de Hoge Raad anders bepaalt. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over het gebruik van de elektronische voorziening.
