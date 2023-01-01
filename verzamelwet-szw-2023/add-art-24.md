@@ -1,0 +1,3 @@
+# Artikel XXIV. Overgangsrecht artikel 1614ca van Boek 7a van het Burgerlijk Wetboek BES
+1. Indien de vrouwelijke arbeider op het tijdstip waarop artikel IV van de Verzamelwet SZW 2023 in werking treedt reeds met zwangerschaps- of bevallingsverlof is, blijft op dat verlof artikel 1614ca, tweede en derde lid, van Boek 7a van het Burgerlijk Wetboek BES van toepassing zoals deze leden luidden op de dag voorafgaande aan het tijdstip van inwerkingtreding van artikel IV van de Verzamelwet SZW 2023.
+2. Dit artikel vervalt één jaar na het tijdstip van inwerkingtreding van artikel IV van de Verzamelwet SZW 2023.

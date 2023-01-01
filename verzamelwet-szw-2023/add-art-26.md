@@ -1,0 +1,3 @@
+# Artikel XXVI. Inwerkingtreding
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In dat besluit kan worden bepaald dat de artikelen XV, XIX en XXII, onderdeel A, onderdeel 3, onderdeel b, terugwerken tot en met 1 januari 2022.
+2. Artikel V, onderdeel A, van deze wet treedt in werking met ingang van 1 januari 2023. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 2022, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werkt het terug tot en met 1 januari 2023.
