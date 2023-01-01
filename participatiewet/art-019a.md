@@ -1,5 +1,5 @@
 # Artikel 19a. Kostendelende medebewoner
-1. In deze paragraaf wordt onder kostendelende medebewoner verstaan de persoon van 21 jaar of ouder die in dezelfde woning als de belanghebbende zijn hoofdverblijf heeft en niet:
+1. In deze paragraaf wordt onder kostendelende medebewoner verstaan de persoon van 27 jaar of ouder die in dezelfde woning als de belanghebbende zijn hoofdverblijf heeft en niet:
 a. de echtgenoot van belanghebbende is;
 b. op basis van een schriftelijke overeenkomst met de belanghebbende, waarbij een commerciële prijs is overeengekomen, als verhuurder, huurder, onderverhuurder, onderhuurder, kostgever of kostganger, niet zijnde een bloed- of aanverwant in de eerste of tweede graad van de belanghebbende, in dezelfde woning als de belanghebbende zijn hoofdverblijf heeft;
 c. op basis van een schriftelijke overeenkomst met een derde, waarbij een commerciële prijs is overeengekomen, als huurder, onderhuurder of kostganger in dezelfde woning als de belanghebbende zijn hoofdverblijf heeft, mits hij de overeenkomst heeft met dezelfde persoon als met wie de belanghebbende een schriftelijke overeenkomst heeft, waarbij een commerciële prijs is overeengekomen, als huurder, onderhuurder of kostganger; of
