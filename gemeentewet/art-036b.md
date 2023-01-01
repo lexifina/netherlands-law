@@ -10,7 +10,7 @@ g. commissaris van de Koning;
 h. gedeputeerde;
 i. secretaris van de provincie;
 j. griffier van de provincie;
-k. lid van de rekenkamer van de provincie waarin de gemeente waar hij wethouder is, is gelegen;
+k. lid van de rekenkamer van de provincie;
 l. lid van de raad van een gemeente;
 m. burgemeester;
 n. lid van de rekenkamer;
