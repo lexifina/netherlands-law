@@ -1,0 +1,2 @@
+# Artikel 6a. Opheffen en creëren van vestigingen tussen de twee teldata
+Indien in de periode tussen de eerste teldatum en de daarop volgende teldatum, bedoeld in artikel 4, eerste lid, een school één of meer nieuwe vestigingen creëert of één of meer vestigingen opheft, dan worden voor de toepassing van artikel 4, eerste lid, leerlingen op de vestigingen alleen geteld op de eerste en tweede teldatum zoals de situatie op dat moment is.
