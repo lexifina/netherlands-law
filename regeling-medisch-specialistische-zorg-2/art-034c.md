@@ -1,2 +1,0 @@
-# Artikel 34c. Declaratiebepalingen voor overige zorgproducten uit de categorie paramedische behandeling en onderzoek
-Indien er sprake is van poliklinische fysiotherapie mogen de betreffende zorgactiviteiten, ook wanneer deze niet op verzoek van de eerste lijn worden uitgevoerd, naast de dbc-zorgproducten gedeclareerd worden. Deze uitzondering geldt niet voor revalidatiegeneeskunde en geriatrische revalidatiezorg.
