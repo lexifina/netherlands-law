@@ -2,7 +2,7 @@
 1. In het achtste schooljaar legt de leerling in een volledige week tussen 15 april en 15 mei een centrale eindtoets af.
 2. De centrale eindtoets meet kennis en vaardigheden van de leerling op het terrein van Nederlandse taal en rekenen en wiskunde, met inachtneming van de referentieniveaus Nederlandse taal en de referentieniveaus rekenen, bedoeld in artikel 2, tweede lid, aanhef en onderdeel a, van de Wet referentieniveaus Nederlandse taal en rekenen. Het bevoegd gezag kan bij een leerling tevens de toets voor de kennisgebieden, genoemd in artikel 9, tweede lid, onderdelen a, b en c, afnemen.
 3. Indien een leerling is verhinderd de centrale eindtoets af te leggen, wordt de toets op een later moment alsnog afgenomen, tenzij dit voor de leerling om medische redenen onmogelijk is.
-4. Het bevoegd gezag kan mede op basis van de toetsgegevens in het leerling- en onderwijsvolgsysteem, bedoeld in artikel 8, zesde lid, gemotiveerd bepalen dat geen centrale eindtoets wordt afgelegd door:
+4. Het bevoegd gezag kan mede op basis van de toetsgegevens in het leerling- en onderwijsvolgsysteem, bedoeld in artikel 8, zevende lid, gemotiveerd bepalen dat geen centrale eindtoets wordt afgelegd door:
 a. zeer moeilijk lerende leerlingen,
 b. meervoudig gehandicapte leerlingen voor wie het zeer moeilijk lerend zijn een van de handicaps is, en
 c. leerlingen die vier jaar of korter in Nederland zijn en om die reden de Nederlandse taal onvoldoende beheersen.
