@@ -1,0 +1,2 @@
+# Artikel 2a
+Na het verstrijken van de geldigheidsduur van de Arbeidsvoorwaardenovereenkomst sector Rijk 2018–2020 wordt de vergoeding, bedoeld in artikel 1 en artikel 2, eerste volzin, voortgezet alsof de geldigheidsduur niet verstreken is, met dien verstande dat bij het tot stand komen van een nieuwe Arbeidsvoorwaardenovereenkomst sector Rijk gedurende de werkingssfeer van dit besluit de vergoedingen overeenkomstig wordt aangepast.
