@@ -11,7 +11,6 @@
 ### Afdeling 3.2. Belastbare winst uit onderneming
 #### Paragraaf 3.2.1. Belastbare winst uit onderneming
 #### Paragraaf 3.2.2. Winst uit een onderneming
-#### Paragraaf 3.2.3. Oudedagsreserve
 #### Paragraaf 3.2.4. Ondernemersaftrek
 #### Paragraaf 3.2.5. MKB-winstvrijstelling
 ### Afdeling 3.3. Belastbaar loon
@@ -30,7 +29,6 @@
 ### Afdeling 3.11. Waardering niet in geld genoten inkomen
 ### Afdeling 3.12. Tijdstip genieten en aftrek
 ### Afdeling 3.13. Verliesverrekening
-### Afdeling 3.14. Middeling
 ## Hoofdstuk 4. Heffingsgrondslag bij aanmerkelijk belang
 ### Afdeling 4.1. Belastbaar inkomen uit aanmerkelijk belang
 ### Afdeling 4.2. Gelijkstellingen
@@ -58,6 +56,8 @@
 ### Afdeling 5.3A. Vrijstelling nettolijfrenten
 ### Afdeling 5.3B. Vrijstelling nettopensioen
 ### Afdeling 5.4. Waardering
+### Afdeling 5.5. Peildatumarbitrage
+### Afdeling 5.6. Tegenbewijsregeling
 ## Hoofdstuk 6. Persoonsgebonden aftrek
 ### Afdeling 6.1. Persoonsgebonden aftrek
 ### Afdeling 6.2. Onderhoudsverplichtingen
