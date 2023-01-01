@@ -3,4 +3,4 @@
 2. De maatregel kan worden opgelegd indien en voor zover de verdachte jegens het slachtoffer naar burgerlijk recht aansprakelijk is voor de schade die door het strafbare feit is toegebracht.
 3. De maatregel kan te zamen met straffen en andere maatregelen worden opgelegd.
 4. Artikel 24a is van overeenkomstige toepassing.
-5. De rechter bepaalt bij de oplegging van de maatregel de duur volgens welke met toepassing van artikel 6:4:20 van het Wetboek van Strafvordering gijzeling kan worden toegepast. Bij het bepalen van de duur wordt voor elke volle € 25 van het opgelegde bedrag niet meer dan één dag gerekend. De duur beloopt ten hoogste één jaar. Artikel 77l, tweede lid, en artikel 6:6:30, derde en vierde lid, van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.
+5. De rechter bepaalt bij de oplegging van de maatregel de duur volgens welke met toepassing van artikel 6:4:20 van het Wetboek van Strafvordering gijzeling kan worden toegepast. Bij het bepalen van de duur wordt voor elke volle € 25 van het opgelegde bedrag niet meer dan één dag gerekend. De duur beloopt ten hoogste één jaar.

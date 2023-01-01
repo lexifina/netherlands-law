@@ -1,7 +1,7 @@
 # Artikel 80c
 1. Het geregistreerd partnerschap eindigt:
 a. door de dood;
-b. indien de vermiste, die overeenkomstig de bepalingen van de tweede of derde afdeling van de achttiende titel van dit boek vermoedelijk overleden dan wel overleden is verklaard, nog in leven is op de dag waarop de achtergebleven geregistreerde partner een nieuw geregistreerd partnerschap of huwelijk is aangegaan: door de voltrekking van dit geregistreerd partnerschap of huwelijk;
+b. indien degene ten aanzien van wie, overeenkomstig de bepalingen van de tweede afdeling van de achttiende titel van dit boek de vermissing is vastgesteld, dan wel overeenkomstig de bepalingen van de derde afdeling van de achttiende titel van dit boek het overlijden is vastgesteld, nog in leven is op de dag waarop de achtergebleven geregistreerde partner een nieuw geregistreerd partnerschap of huwelijk is aangegaan: door de voltrekking van dit geregistreerd partnerschap of huwelijk;
 c. met wederzijds goedvinden door inschrijving door de ambtenaar van de burgerlijke stand van een door beide partners en een of meer advocaten of notarissen ondertekende en gedateerde verklaring waaruit blijkt dat en op welk tijdstip de partners omtrent de beëindiging van het geregistreerd partnerschap een overeenkomst hebben gesloten.
 d. door ontbinding op verzoek van de partners of een van hen;
 e. door omzetting van een geregistreerd partnerschap in een huwelijk.
