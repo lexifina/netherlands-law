@@ -1,2 +1,0 @@
-# Artikel 5a
-In afwijking van de artikelen 4 en 5 kan de minister de bekostiging meteen geheel inhouden indien het bevoegd gezag of de raad van toezicht niet voldoet aan een aanwijzing als bedoeld in artikel 153 van de Wet op het primair onderwijs, artikel 132 van de Wet op de expertisecentra, artikel 3.38 van de Wet voortgezet onderwijs 2020, artikel 3.1.5 van de Wet educatie en beroepsonderwijs of artikel 9.9a, 10.3e of 11.7a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
