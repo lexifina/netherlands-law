@@ -1,0 +1,4 @@
+# Artikel 843b
+1. Hij die een bewijsmiddel heeft verloren, kan van degene die de beschikking heeft over bescheiden die tot bewijs kunnen dienen van enig feit waarop het verloren bewijsmiddel betrekking had, of die zodanige bescheiden onder zijn berusting heeft, vorderen daarvan te zijnen behoeve op zijn kosten, voor zover nodig, inzage, afschrift, of uittreksel te verschaffen. Onder bescheiden worden mede verstaan: op een gegevensdrager aangebrachte gegevens.
+2. De rechter bepaalt zonodig de wijze waarop inzage, afschrift of uittreksel zal worden verschaft.
+3. Hij die uit hoofde van zijn ambt, beroep of betrekking tot geheimhouding verplicht is, is niet gehouden aan deze vordering te voldoen, indien de bescheiden uitsluitend uit dien hoofde te zijner beschikking staan of onder zijn berusting zijn.

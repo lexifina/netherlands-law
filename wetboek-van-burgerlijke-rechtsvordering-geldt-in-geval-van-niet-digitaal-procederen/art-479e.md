@@ -1,0 +1,4 @@
+# Artikel 479e
+1. Van de dag van het beslag af is de derde-beslagene verplicht om, zolang de executant dit verlangt, naar gelang hij loon of andere periodieke uitkeringen aan de geëxecuteerde verschuldigd is het door de executant aangegeven achterstallig bedrag en de termijnen van de uitkering, tot welker verhaal het beslag is gelegd, aan de executant te betalen, tenzij onder hem beslag gelegd mocht worden wegens vorderingen van hogere of gelijke rang.
+2. Verzet tegen het beslag door de geëxecuteerde schorst de verplichting tot betaling, behoudens de bevoegdheid van de voorzieningenrechter de voorlopige voortzetting van de betaling te bevelen.
+3. De derde die meer aan de executant heeft betaald dan waarop deze recht heeft, is jegens de geëxecuteerde bevrijd, voor zover dat voortvloeit uit artikel 34 van Boek 6 van het Burgerlijk Wetboek.

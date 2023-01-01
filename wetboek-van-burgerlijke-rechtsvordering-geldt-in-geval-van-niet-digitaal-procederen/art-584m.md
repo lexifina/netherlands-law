@@ -1,0 +1,4 @@
+# Artikel 584m
+1. De verkoop geschiedt bij opbod en vervolgens bij afmijning voor de rechter-commissaris met inachtneming van de veilingvoorwaarden zoals hiervan door de beslaglegger is kennisgegeven of zoals deze door de rechter-commissaris op verzoek van een belanghebbende nader zijn bepaald, en overigens op de door de rechter-commissaris na raadpleging van de executant te bepalen wijze.
+2. De rechter-commissaris beslist over de toewijzing. Toewijzing vindt niet plaats, wanneer niet alle vorderingen, welke op de door de rechter-commissaris vastgestelde lijst als bevoorrecht boven de vordering van hem, op wiens verzoek de verkoop geschiedt, voorkomen, uit de opbrengst worden voldaan of door de koper te zijnen laste worden genomen.
+3. In het in het vorige lid bedoelde geval blijven de kosten van uitwinning ten laste van hem, op wiens verzoek de verkoop geschiedt.
