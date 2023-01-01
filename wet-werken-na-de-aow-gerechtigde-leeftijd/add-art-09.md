@@ -1,0 +1,6 @@
+# Artikel IX. Overgangsrecht Burgerlijk Wetboek
+1. Het in artikel 629, lid 1, van Boek 7 van het Burgerlijk Wetboek genoemde tijdvak van 104 weken alsmede artikel 670, lid 1, onder a, van Boek 7 van het Burgerlijk Wetboek, zoals deze bepaling luidde voor het tijdstip van inwerkingtreding van artikel I, onderdeel F van de Wet werken na de AOW-gerechtigde leeftijd, blijven gedurende zes maanden na dat tijdstip van toepassing op de werknemer:
+a. die op de dag voor het tijdstip van inwerkingtreding van artikel I, onderdeel F, van de Wet werken na de AOW-gerechtigde leeftijd ten minste de in artikel 7, onderdeel a, van de Algemene Ouderdomswet bedoelde leeftijd heeft, dan wel binnen zes maanden na dat tijdstip deze leeftijd bereikt, en
+b. die voor het in onderdeel a bedoelde tijdstip en tevens, al dan niet na een onderbreking gedurende minder dan vier weken, na die dag verhinderd is de bedongen arbeid te verrichten in verband met ongeschiktheid ten gevolge van ziekte, en
+c. op wie op die dag het in artikel 629, lid 1, van Boek 7 van het Burgerlijk Wetboek genoemde tijdvak van 104 weken van toepassing is.
+2. Na afloop van de in lid 1 genoemde termijn van zes maanden, geldt de in artikel VIIIA genoemde termijn van dertien weken, voor zover het totale tijdvak niet meer bedraagt dan 104 weken.

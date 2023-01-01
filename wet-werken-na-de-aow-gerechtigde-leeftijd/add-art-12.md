@@ -1,0 +1,3 @@
+# Artikel XII. Inwerkingtreding
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+2. Indien het bij geleidende brief van 16 november 2005 ingediende voorstel van wet van de leden Dubbelboer, Duyvendak en Van der Ham, houdende regels inzake het raadgevend referendum (Wet raadgevend referendum) (Kamerstukken 30 372) tot wet is verheven en deze wet is bekrachtigd op of na de datum waarop de Wet raadgevend referendum in werking is getreden, wordt in het in het eerste lid bedoelde besluit zo nodig toepassing gegeven aan artikel 12 van de Wet raadgevend referendum.
