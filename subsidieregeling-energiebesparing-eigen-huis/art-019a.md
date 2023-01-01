@@ -1,3 +1,0 @@
-# Artikel 19a. Bekendmaking van gegevens over steunverlening
-1. De minister maakt binnen zes maanden na de datum van subsidieverlening overeenkomstig artikel 9, eerste lid, onderdeel c, van de algemene groepsvrijstellingsverordening, de gegevens openbaar, als de subsidie aan een aanvrager voor het aandeel huurwoningen binnen een of meerdere verenigingen meer bedraagt dan € 500.000,-.
-2. De gegevens, bedoeld in dit artikel, blijven voor ten minste tien jaar openbaar beschikbaar.

@@ -1,2 +1,0 @@
-# Artikel 11a. Tijdelijke uitzondering
-In afwijking van artikel 11, eerste lid, geldt dat de minister subsidie kan verstrekken aan een vereniging die reeds voor de datum van indiening van de subsidieaanvraag is begonnen met het door een bouwbedrijf laten uitvoeren van activiteiten als bedoeld in artikel 11, eerste lid, indien de aanvang van de uitvoering van die activiteiten heeft plaatsgevonden in het tijdvak van 3 februari 2021 tot 1 april 2021.
