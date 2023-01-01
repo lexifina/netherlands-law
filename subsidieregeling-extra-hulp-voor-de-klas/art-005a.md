@@ -1,5 +1,0 @@
-# Artikel 5a. Eisen aan de regio's in het po en vo voor Europees Nederland tweede aanvraagtijdvak
-1. De regio waarop de aanvraag voor het primair of voortgezet onderwijs voor het aanvraagtijdvak, bedoeld in artikel 6a, eerste lid, betrekking heeft, is gelijk aan de regio die op grond van artikel 5 is gevormd voor het aanvraagtijdvak, bedoeld in artikel 6, eerste lid.
-2. Voor het aanvraagtijdvak, bedoeld in artikel 6a, eerste lid, kunnen geen nieuwe regio's worden gevormd.
-3. Voor het aanvraagtijdvak, bedoeld in artikel 6a, eerste lid, kunnen geen wijzigingen van regio's plaatsvinden, behalve indien zo'n wijziging betrekking heeft op de toevoeging aan de regio van een vestiging die nog niet eerder heeft deelgenomen aan een regio als bedoeld in artikel 5.
-4. Indien een vestiging nog niet deelneemt aan een regio als bedoeld in het eerste lid, kan een vestiging zich tijdelijk bij deze regio aansluiten indien is voldaan aan een van de volgende voorwaarden van artikel 5, tweede lid, onder a, b, of c.
