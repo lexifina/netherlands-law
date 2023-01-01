@@ -8,6 +8,7 @@
 ##### § 3. Personeel
 ##### § 4. Leerlingen
 ##### § 5. Ouders
+##### § 6. Toetsing basisonderwijs en doorstroom voortgezet onderwijs
 #### Afdeling 2. Overige regelen voor het openbaar onderwijs
 #### Afdeling 3. Overige voorwaarden voor bekostiging uit de openbare kassen van het bijzonder onderwijs
 ### Titel III. Overige bepalingen met betrekking tot het uit de openbare kassen bekostigd onderwijs
