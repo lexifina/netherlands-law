@@ -1,2 +1,0 @@
-# Artikel 127i. Tarief praktijkexamen schipper
-Voor het afnemen van praktijktoets 4 van het praktijkexamen schipper binnenvaart, bedoeld in artikel 7.19a van de Binnenvaartregeling, is aan de exameninstantie een tarief verschuldigd dat is vastgesteld door het CBR overeenkomstig artikel 4am van de Wegenverkeerswet 1994 en artikel 17, eerste lid, van de Kaderwet zelfstandige bestuursorganen.

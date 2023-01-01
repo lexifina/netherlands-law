@@ -1,2 +1,0 @@
-# Artikel 127j. Tarief praktijkexamen matroos
-Voor de afgifte van een verklaring praktijkexamen matroos, bedoeld in artikel 2.9, zevende lid, onderdeel b, onder 2, van de Binnenvaartregeling is een tarief verschuldigd dat is vastgesteld door het CBR overeenkomstig artikel 4am van de Wegenverkeerswet 1994 en artikel 17, eerste lid, van de Kaderwet zelfstandige bestuursorganen.
