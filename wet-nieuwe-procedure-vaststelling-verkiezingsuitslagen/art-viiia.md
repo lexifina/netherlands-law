@@ -1,0 +1,2 @@
+# Artikel VIIIa
+Voor de plaatsing van deze wet in het Staatsblad stelt Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties de nummering van de paragrafen en artikelen in de hoofdstukken E, paragrafen 3, 4 en 5, N, paragrafen 3 en 4, Na en O, alsmede van de artikelen P 1b tot P 2 van de Kieswet, opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van deze artikelen met de nieuwe nummering in overeenstemming.
