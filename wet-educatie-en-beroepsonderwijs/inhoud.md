@@ -41,7 +41,7 @@
 ### Titel 1. Het beroepsonderwijs, verzorgd door uit 's Rijks kas bekostigde instellingen
 ### Titel 2. Het beroepsonderwijs, verzorgd door niet uit 's Rijks kas bekostigde instellingen
 ### Titel 3. De exameninstellingen
-### Titel 4. Het Centraal register beroepsonderwijs
+### Titel 4. De Registratie instellingen en opleidingen
 ## Hoofdstuk 6a. Het onderwijsaanbod educatie
 ### Titel 1. De educatie, verzorgd door instellingen als bedoeld in artikel 1.4a.1
 ### Titel 2. Ontneming recht op examinering educatie

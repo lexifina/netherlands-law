@@ -29,7 +29,7 @@
 ## Hoofdstuk 6. Onderwijsaanbod
 ### Titel 1. Opleidingen bekostigde instellingen voor hoger onderwijs
 ### Titel 2. Opleidingen rechtspersonen voor hoger onderwijs
-### Titel 3. Het Centraal register opleidingen hoger onderwijs
+### Titel 3. De Registratie instellingen en opleidingen
 ### Titel 4
 ## Hoofdstuk 7. Onderwijs
 ### Titel 1. Het onderwijs, de examens en de promoties
@@ -53,7 +53,7 @@
 ### Titel 4. Rechtsbescherming van studenten en extraneï
 #### Paragraaf 1. Toegankelijke faciliteit; klachten
 #### Paragraaf 2. College van beroep voor de examens; geschillenadviescommissie
-#### Paragraaf 3. College van beroep voor het hoger onderwijs
+#### Paragraaf 3. Beroep op de Afdeling bestuursrechtspraak van de Raad van State
 #### Paragraaf 4. Colleges van beroep bijzonder onderwijs
 ## Hoofdstuk 7a. Taken in het kader van de zij-instroom in het beroep van leraar en docent
 ## Hoofdstuk 8. Samenwerking bekostigde instellingen voor hoger onderwijs
@@ -138,4 +138,5 @@
 ### Titel 16. Wet invoering associate degree-opleiding
 ### Titel 17. Wet accreditatie op maat
 ### Titel 19. Variawet hoger onderwijs
+### Titel 20. Wet van [datum] (Stb. ...)
 ## Hoofdstuk 19. Slotbepalingen
