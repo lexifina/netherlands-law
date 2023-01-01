@@ -58,6 +58,7 @@ Wet langdurige zorg, met uitzondering van een besluit van Onze Minister van Volk
 Wet maatschappelijke ondersteuning 2015
 Wet op de arbeidsongeschiktheidsverzekering
 Wet op de rechtsbijstand: een besluit van de Raad voor rechtsbijstand, indien het beroep dan wel hoger beroep wordt ingesteld door een rechtzoekende als bedoeld in artikel 1, eerste lid
+Wet op het hoger onderwijs en wetenschappelijk onderzoek: artikel 7.64, eerste lid
 Wet overheidspersoneel onder de werknemersverzekeringen
 Wet pensioenvoorzieningen K.N.I.L.
 Wet sociale werkvoorziening
