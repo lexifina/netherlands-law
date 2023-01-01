@@ -1,0 +1,5 @@
+# Artikel 6c
+1. In aanvulling op artikel 6b, eerste lid, worden indien een onderzoek door de door Onze Minister aangewezen ambtenaren, bedoeld in artikel 18a, eerste en tweede lid, of artikel 18c, eerste lid, van de wet wordt gevolgd door een besluit tot het opleggen van een bestuurlijke boete als bedoeld in artikel 18c, of een besluit tot bevel tot staken van de werkzaamheden als bedoeld in artikel 18i, tweede lid, van de wet, de volgende gegevens met betrekking tot dat besluit openbaar gemaakt:
+a. welk besluit is genomen, de artikelen van de wet die de grondslag daarvoor bieden en de datum van dat besluit; en
+b. welke rechtsmiddelen tegen het besluit zijn of kunnen worden aangewend en wat hiervan de uitkomst was, of dat het besluit onherroepelijk is geworden.
+2. Indien het besluit, bedoeld in het eerste lid, geheel of gedeeltelijk bestaat uit een bevel tot staken van de werkzaamheden, bedoeld in artikel 18i van de wet, bevat de openbaarmaking tevens de periode waarin de werkzaamheden worden gestaakt.
