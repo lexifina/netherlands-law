@@ -1,6 +1,0 @@
-# Artikel 3d
-1. Voor de toepassing van artikel 2.17, eerste lid, van de Uitvoeringsregeling Rechtstreekse Betalingen GLB worden de elementen, bedoeld in de onderdelen a, e, g, h en i, als ecologisch aandachtsgebied beschouwd indien het element niet groter is dan maximaal de oppervlakte respectievelijk de breedte die mee mag tellen als ecologisch aandachtsgebied als bedoeld in artikel 45 van Verordening (EU) nr. 639/2014 vermenigvuldigd met de factor 3.
-2. Ten aanzien van aan elkaar grenzende elementen:
-a. worden elementen die door een duidelijke fysieke scheiding zoals een sloot, weg of kavelpad, van elkaar worden gescheiden beschouwd als afzonderlijke elementen, en
-b. worden elementen als afzonderlijke elementen beschouwd bij een combinatie van elementen e en h, waarbij element e grenst aan element h en element e maximaal 30 meter breed is. Indien element e breder is dan 30 meter, dan wordt het geheel van de elementen e en h voor de toepassing van dit artikel als één element h beschouwd.
-3. Indien meerdere landbouwers hetzelfde element sub h of sub i als ecologisch aandachtsgebied hebben aangegeven dan wordt de maximaal als ecologisch aandachtsgebied mee te tellen oppervlakte als bedoeld in artikel 45 van Verordening (EU) nr. 639/2014 naar rato van het aantal aanvragers toegekend aan de landbouwers, mits zij deze oppervlakte ook in beheer hebben.

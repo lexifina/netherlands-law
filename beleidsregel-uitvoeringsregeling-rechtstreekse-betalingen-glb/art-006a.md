@@ -1,2 +1,0 @@
-# Artikel 6a
-Voor de toepassing van de artikelen 2.22, derde lid, en 2.23, zevende lid, van de Uitvoeringsregeling rechtstreekse betalingen GLB worden de dieren ook als 'ononderbroken aanwezig op niet subsidiabele grond' aangemerkt indien door de aanvrager aangetoond kan worden dat de dieren zich kortstondig niet op niet subsidiabele grond bevinden in verband met een voor de bedrijfsvoering noodzakelijke handeling zoals het scheren of enten van de dieren, hoefverzorging, transport of het deelnemen aan educatieve programma's.
