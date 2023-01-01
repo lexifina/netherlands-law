@@ -1,0 +1,2 @@
+# Artikel 29a. Meerkosten covid-19
+Onder deze component kunnen RAV en representerende zorgverzekeraar(s) voor jaar (t) een bedrag overeenkomen voor de kosten die direct verband houden met het SARS-CoV-2 virus. De kosten kunnen alleen worden afgesproken onder deze post als er een schriftelijke afspraak is gemaakt tussen de RAV en representerende zorgverzekeraar(s). Opgegeven kosten worden voor definitieve vaststelling door NZa onderworpen aan een plausibiliteitstoets. Deze post kan niet worden gebruikt als compensatie voor de overige budgetparameters in deze beleidsregel.
