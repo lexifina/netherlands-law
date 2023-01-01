@@ -1,5 +1,5 @@
 # Artikel 71q
 1. Indien voor een industriële installatie het aantal dispensatierechten van een belastingtijdvak de industriële jaarvracht van dat belastingtijdvak overtreft, gebruikt de exploitant dat overschot aan dispensatierechten voor een herberekening van de belasting die is betaald voor die industriële installatie over de vijf belastingtijdvakken voorafgaand aan het eerstgenoemde belastingtijdvak.
 2. Het belastingtijdvak dat wordt herberekend, ligt in de periode 2021 tot en met 2029. De herberekening geschiedt in de volgorde beginnend met het oudste belastingtijdvak voorafgaand aan het meest recente belastingtijdvak.
-3. Voor de herberekening wordt het tarief gebruikt dat van toepassing was op het belastingtijdvak dat wordt herberekend.
+3. Voor de herberekening worden de tarieven gebruikt die van toepassing waren op het belastingtijdvak dat wordt herberekend.
 4. Indien uit de herberekening blijkt dat over een bepaald belastingtijdvak een teveel aan belasting is betaald, wordt dat bedrag aan teveel betaalde belasting in mindering gebracht op de belasting verschuldigd over het belastingtijdvak waarover aangifte wordt gedaan.
