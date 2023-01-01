@@ -8,7 +8,6 @@
 ### Hoofdstuk IVa. De rekenkamer
 #### Paragraaf 1. De gemeentelijke rekenkamer
 #### Paragraaf 2. De gemeenschappelijke rekenkamer
-### Hoofdstuk IVb. De rekenkamerfunctie
 ### Hoofdstuk IVc. De ombudsman
 #### Paragraaf 1. Algemene bepaling
 #### Paragraaf 2. De gemeentelijke ombudsman
