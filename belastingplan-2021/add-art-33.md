@@ -1,0 +1,4 @@
+# Artikel XXXIII
+Tot de opbrengst van onderneming en arbeid, bedoeld in artikel 6 van de Wet inkomstenbelasting BES, behoort niet:
+a. een tegemoetkoming voor ondernemers van getroffen sectoren die op aanvraag wordt verstrekt door Onze Minister van Economische Zaken en Klimaat in verband met een in de periode van 13 maart 2020 tot en met 12 juni 2020 verwacht omzetverlies als gevolg van de maatregelen ter bestrijding van de verdere verspreiding van COVID-19;
+b. een subsidie die aan een door de maatregelen ter bestrijding van de verdere verspreiding van COVID-19 getroffen onderneming op aanvraag wordt verstrekt door Onze Minister van Economische Zaken en Klimaat, met als doel deze onderneming in staat te stellen in de periode van 1 juni 2020 tot en met 30 september 2020 de vaste lasten te betalen.

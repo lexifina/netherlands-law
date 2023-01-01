@@ -1,0 +1,5 @@
+# Artikel XVII
+1. Tot de winst, bedoeld in artikel 3.8 van de Wet inkomstenbelasting 2001, behoort niet:
+a. een tegemoetkoming voor ondernemers van getroffen sectoren die op aanvraag wordt verstrekt door Onze Minister van Economische Zaken en Klimaat in verband met een in de periode van 16 maart 2020 tot en met 15 juni 2020 verwacht omzetverlies als gevolg van de maatregelen ter bestrijding van de verdere verspreiding van COVID-19;
+b. een subsidie aan een door de maatregelen ter bestrijding van de verdere verspreiding van COVID-19 getroffen onderneming die op aanvraag wordt verstrekt door Onze Minister van Economische Zaken en Klimaat, met als doel deze onderneming in staat te stellen in een bepaalde periode de vaste lasten te betalen, mits voor de toepassing van deze bepaling voor die periode goedkeuring van de Europese Commissie is verkregen.
+2. De winst, bedoeld in artikel 8, eerste lid, van de Wet op de vennootschapsbelasting 1969, wordt mede opgevat en bepaald op de voet van het eerste lid.
