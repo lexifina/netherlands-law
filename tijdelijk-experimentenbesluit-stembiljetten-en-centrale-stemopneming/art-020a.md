@@ -1,3 +1,0 @@
-# Artikel 20a
-1. Bij de gecombineerde stemming voor de verkiezing van de leden van provinciale staten en de leden van een algemeen bestuur, bedoeld in artikel A 1 van de Kieswet, stelt het college van burgemeester en wethouders een gemeentelijk stembureau voor de verkiezing van de leden van provinciale staten en een gemeentelijk stembureau voor de verkiezing van de leden van dat algemeen bestuur in.
-2. Indien een gemeente in het gebied van twee of meer waterschappen ligt, stelt het college van burgemeester en wethouders één of meer gemeentelijke stembureaus in die de stemopneming verrichten voor de verkiezing van één of meer waterschappen.
