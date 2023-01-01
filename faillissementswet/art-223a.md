@@ -1,2 +1,3 @@
 # Artikel 223a
-Bij het voorlopig verlenen der surseance of bij een latere beschikking kan de rechtbank een harer leden tot rechter-commissaris benoemen, teneinde de bewindvoerders op hun verzoek van advies te dienen.
+1. Bij het voorlopig verlenen van de surseance benoemt de rechtbank een of meer van haar leden tot rechter-commissaris, teneinde de bewindvoerders op hun verzoek van advies te dienen en toezicht te houden op de vervulling door de bewindvoerders van de door hen ingevolge deze titel te verrichten taken.
+2. Benoemt de rechtbank meerdere rechters-commissarissen, dan zijn zij zowel afzonderlijk als tezamen bevoegd om de in deze wet genoemde bevoegdheden uit te oefenen.
