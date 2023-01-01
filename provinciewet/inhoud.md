@@ -8,7 +8,6 @@
 ### Hoofdstuk IVA. De rekenkamer
 #### § 1. De provinciale rekenkamer
 #### § 2. De gemeenschappelijke rekenkamer
-### Hoofdstuk IVB. De rekenkamerfunctie
 ### Hoofdstuk IVC. De ombudsman
 #### § 1. Algemene bepaling
 #### § 2. De provinciale ombudsman
