@@ -17,6 +17,7 @@
 ### Afdeling 2. Vergunning voor een accijnsgoederenplaats
 ### Afdeling 2a. Geregistreerde geadresseerde en geregistreerde afzender
 ### Afdeling 2b. Verkopen op afstand
+### Afdeling 2c. Gecertificeerde geadresseerde en gecertificeerde afzender
 ### Afdeling 3. Wijze van heffing en voldoening
 ### Afdeling 4. Zekerheid
 ### Afdeling 5. Voorrang

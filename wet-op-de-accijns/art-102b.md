@@ -1,0 +1,2 @@
+# Artikel 102b
+Voor de overbrenging van accijnsgoederen die in een andere lidstaat tot verbruik zijn uitslagen en vanuit die andere lidstaat zijn overgebracht naar Nederland en worden geleverd aan anderen dan particulieren, of aan particulieren in het geval dat het geen overbrenging als bedoeld in artikel 2d of artikel 2f betreft, mag tot en met 31 december 2023 belanghebbende deze wet en de daarop berustende bepalingen toepassen zoals deze luidden op 12 februari 2023.
