@@ -1,0 +1,2 @@
+# Artikel 4e
+Het aanwenden van vaste mest of steekvast zuiveringsslib op bouwland of niet-beteelde grond is slechts toegestaan indien dit in maximaal twee direct opeenvolgende werkgangen op de grond wordt gebracht en ondergewerkt, op zodanige wijze dat de vaste mest of het steekvaste slib direct na op de grond te zijn gebracht zodanig met grond wordt afgedekt of intensief door de grond wordt vermengd, dat de vaste mest of het steekvaste zuiveringsslib als zodanig niet meer zichtbaar is.
