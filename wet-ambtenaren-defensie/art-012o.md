@@ -17,5 +17,5 @@ m. de wijze, waarop met de daarvoor in aanmerking komende vakorganisaties van ov
 n. de gevallen waarin berichten inzake de rechtspositie van de ambtenaar in afwijking van artikel 2:14, eerste lid, van de Algemene wet bestuursrecht uitsluitend elektronisch verzonden behoeven te worden en de voorwaarden die daarbij in acht worden genomen.
 3. De paragrafen 2, 3 en 4 van de Ambtenarenwet 2017 zijn, met uitzondering van artikel 6, tweede lid, van overeenkomstige toepassing op de ambtenaren, bedoeld in het eerste lid.
 4. Het is de ambtenaar in de zin van het eerste lid toegestaan deel te nemen aan een staking of andere vormen van collectieve actie, tenzij de deelname aan die staking of collectieve actie de operationele inzet van de krijgsmacht kan verstoren of belemmeren.
-5. De ambtenaar, bedoeld in het eerste lid, die te goeder trouw en naar behoren een vermoeden van een misstand als bedoeld in artikel 1, onderdeel d, van de Wet Huis voor klokkenluiders meldt, zal als gevolg daarvan geen nadelige gevolgen voor zijn rechtspositie ondervinden tijdens en na de behandeling van deze melding bij het bevoegd gezag of de daartoe bevoegde instantie.
+5. [Vervallen.]
 6. De artikelen 12b en 12c zijn van overeenkomstige toepassing op de ambtenaren, bedoeld in het eerste lid.
