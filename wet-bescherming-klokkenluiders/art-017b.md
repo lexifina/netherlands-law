@@ -1,0 +1,3 @@
+# Artikel 17b
+1. Ter bevordering van coördinatie en overleg kan het Huis samenwerkingsprotocollen afsluiten met bevoegde autoriteiten en andere bestuursorganen of diensten die zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens enig wettelijk voorschrift. Artikel 17a, derde lid, is van overeenkomstige toepassing.
+2. Het Huis, een bevoegde autoriteit en een bestuursorgaan of dienst als bedoeld in het eerste lid zijn bevoegd uit eigen beweging en desgevraagd aan elkaar persoonsgegevens te verstrekken indien dit noodzakelijk is voor de beoordeling of opvolging van een melding waar zij bij betrokken zijn.

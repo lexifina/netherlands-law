@@ -1,0 +1,2 @@
+# Artikel 4a
+De artikelen 5 tot en met 17 zijn van overeenkomstige toepassing op een verzoek als bedoeld in artikel 4, eerste lid, onderdeel b, met dien verstande dat in die artikelen voor «het vermoeden van een misstand» dan wel «de misstand» telkens wordt gelezen «de gedraging van de werkgever», en de artikelen 2d, 2e en artikel 5, eerste lid, aanhef en onderdeel a, voor zover het de indiening van het verzoek door een vertrouwenspersoon of een advocaat betreft, niet van toepassing zijn.

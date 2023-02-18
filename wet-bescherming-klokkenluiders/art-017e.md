@@ -1,0 +1,2 @@
+# Artikel 17e
+Een melder mag tijdens en na de behandeling van een melding van een vermoeden van een misstand niet worden benadeeld, onder de voorwaarde dat bij de melding aan de werkgever, een bevoegde autoriteit of een bestuursorgaan, dienst of andere bevoegde instantie als bedoeld in artikel 2j, de melder redelijke gronden heeft om aan te nemen dat de gemelde informatie over het vermoeden van een misstand op het moment van de melding juist is.

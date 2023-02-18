@@ -1,0 +1,5 @@
+# Artikel 3c
+1. De leden en de voorzitter van het Huis worden bij koninklijk besluit benoemd. Zij worden op eigen aanvraag door Onze Minister ontslagen. Zij kunnen voorts bij koninklijk besluit worden geschorst en ontslagen wegens ongeschiktheid of onbekwaamheid dan wel wegens andere zwaarwegende in de persoon van de betrokkene gelegen redenen. De voordracht voor schorsing of ontslag wordt niet gedaan dan nadat het Huis daarover is gehoord.
+2. De benoeming van de leden gebeurt op zodanige wijze dat alle relevante deskundigheid in het Huis aanwezig is ten behoeve van de uitvoering van de taken, bedoeld in artikel 3a.
+3. De leden worden voor een periode van ten hoogste vier jaar benoemd. De zittingsduur van het lid dat is benoemd op een tussentijds opengevallen plaats, is gelijk aan de duur van de resterende zittingsperiode van het lid in wiens plaats dit lid is benoemd. De leden kunnen twee maal worden herbenoemd.
+4. De voorzitter en de leden vervullen geen betrekkingen waarvan de uitoefening ongewenst is met het oog op een goede vervulling van zijn functie of op de handhaving van zijn onpartijdigheid en onafhankelijkheid of van het vertrouwen daarin.
