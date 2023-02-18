@@ -1,0 +1,2 @@
+# Artikel III
+Indien het bij koninklijke boodschap van 1 juni 2021 ingediende voorstel van wet tot wijziging van de Wet Huis voor klokkenluiders en enige andere wetten ter implementatie van Richtlijn (EU) 2019/1937 van het Europees Parlement en de Raad van 23 oktober 2019 (PbEU 2019, L 305) en enige andere wijzigingen (Kamerstukken 35 851) tot wet is of wordt verheven en die wet in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking.
