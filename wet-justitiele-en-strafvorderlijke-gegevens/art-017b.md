@@ -1,6 +1,6 @@
 # Artikel 17b
 1. Onze Minister verstrekt aan een betrokkene informatie over de verwerking van justitiële gegevens in een beknopte en toegankelijke vorm en in duidelijke en eenvoudige taal. De informatie wordt met passende middelen, waaronder elektronische, verstrekt en in het algemeen in dezelfde vorm als de vorm van het verzoek.
-2. Indien de betrokkene verzoekt om inzage, op grond van artikel 18, eerste lid, of rectificatie, bedoeld in artikel 22, eerste en tweede lid, wordt hij schriftelijk in kennis gesteld van de ontvangst van het verzoek, de termijn voor uitsluitsel en de mogelijkheid om naar aanleiding daarvan een klacht in te dienen bij de Autoriteit persoonsgegevens.
+2. Indien de betrokkene verzoekt om een overzicht, op grond van artikel 18, of rectificatie, bedoeld in artikel 22, eerste en tweede lid, wordt hij schriftelijk in kennis gesteld van de ontvangst van het verzoek, de termijn voor uitsluitsel en de mogelijkheid om naar aanleiding daarvan een klacht in te dienen bij de Autoriteit persoonsgegevens.
 3. In specifieke gevallen stelt Onze Minister de volgende informatie ter beschikking aan de betrokkene:
 a. de rechtsgrondslag van de verwerking;
 b. de bewaartermijn van de justitiële gegevens;

@@ -6,7 +6,7 @@ a. de verwerkingsverantwoordelijke of de verwerker te waarschuwen dat met de voo
 b. een last onder bestuursdwang op te leggen ter handhaving van het bij of krachtens deze wet bepaalde;
 c. een bestuurlijke boete op te leggen indien de verwerkingsverantwoordelijke handelt in strijd met:
 – de artikelen 51b, eerste lid, voor wat betreft de overeenkomstige toepassing van de artikelen 7, 7a, 7b en 7d in dat lid, en 51d, eerste lid, voor wat betreft de overeenkomstige toepassing van de artikelen 26c, 26f, 26g en 26h in dat lid, van ten hoogste het bedrag van de geldboete van de vijfde categorie van artikel 23, vierde lid, van het Wetboek van Strafrecht;
-– de artikelen 51b, eerste lid, voor wat betreft de overeenkomstige toepassing van de artikelen 7e, 17a, 17b, 22 en 24 in dat lid, en 51b, tweede lid, voor wat betreft de overeenkomstige toepassing van artikel 18, van ten hoogste het bedrag van de geldboete van de zesde categorie van artikel 23, vierde lid, van het Wetboek van Strafrecht;
+– de artikelen 51b, eerste lid, voor wat betreft de overeenkomstige toepassing van de artikelen 7e, 17a, 17b, 22 en 24 in dat lid, en 51b, tweede lid, met uitzondering van het verder bij wet bepaalde over kennisneming of inzage van tenuitvoerleggingsgegevens, van ten hoogste het bedrag van de geldboete van de zesde categorie van artikel 23, vierde lid, van het Wetboek van Strafrecht;
 d. een advies te verstrekken aan de verwerkingsverantwoordelijke naar aanleiding van een voorafgaande raadpleging, bedoeld in artikel 26h;
 e. de verwerkingsverantwoordelijke te verplichten een inbreuk in verband met persoonsgegevens te melden aan de betrokkene.
 4. Artikel 27, vijfde lid, is van overeenkomstige toepassing.
