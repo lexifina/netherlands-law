@@ -1,4 +1,0 @@
-# Inhoud
-## Boetecatalogus
-## Transportinspectie
-## Bedrijfsinspectie
