@@ -1,2 +1,0 @@
-# Artikel 4.
-Voor de toepassing van deze verordening wordt onder een Statenfractie verstaan een fractie als bedoeld in artikel 7 van het Reglement van Orde voor de vergaderingen en andere werkzaamheden van Provinciale Staten (PS).
