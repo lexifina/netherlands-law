@@ -14,6 +14,7 @@
 #### § 3. De provinciale ombudscommissie
 #### § 4. De gezamenlijke ombudsman en de gezamenlijke ombudscommissie
 ### Hoofdstuk V. De commissies
+### Hoofdstuk VA. Geheimhouding
 ### Hoofdstuk VI. Geldelijke voorzieningen ten behoeve van de leden van provinciale staten en de commissies
 ### Hoofdstuk VII. De secretaris en de griffier
 #### § 1. Algemene bepalingen
