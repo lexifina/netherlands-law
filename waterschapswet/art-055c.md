@@ -1,0 +1,6 @@
+# Artikel 55c
+1. Het algemeen bestuur kan informatie ten aanzien waarvan krachtens artikel 35, vierde lid, een verplichting tot geheimhouding geldt of hij een verplichting tot geheimhouding heeft opgelegd, verstrekken aan het dagelijks bestuur, de voorzitter en een commissie van het waterschap.
+2. Het dagelijks bestuur kan informatie ten aanzien waarvan hij een verplichting tot geheimhouding heeft opgelegd, verstrekken aan het algemeen bestuur en een commissie van het waterschap.
+3. De voorzitter kan informatie ten aanzien waarvan hij een verplichting tot geheimhouding heeft opgelegd, verstrekken aan het algemeen bestuur, het dagelijks bestuur en een commissie van het waterschap.
+4. Een commissie van het waterschap kan informatie ten aanzien waarvan hij een verplichting tot geheimhouding heeft opgelegd, verstrekken aan het algemeen bestuur, het dagelijks bestuur en de voorzitter.
+5. Indien het dagelijks bestuur, de voorzitter of een commissie overeenkomstig het tweede, derde of vierde lid informatie verstrekt aan het algemeen bestuur, kan het algemeen bestuur die informatie verstrekken aan anderen. Het algemeen bestuur kan regels stellen over het verstrekken van informatie ten aanzien waarvan een verplichting tot geheimhouding is opgelegd door het dagelijks bestuur, de voorzitter of een commissie en die tevens aan het algemeen bestuur is verstrekt.

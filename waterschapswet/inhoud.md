@@ -20,6 +20,7 @@
 #### § 3. De ombudscommissie voor het waterschap
 #### § 4. De gezamenlijke ombudsman en de gezamenlijke ombudscommissie
 ### Hoofdstuk VIII. De secretaris
+### Hoofdstuk VIIIa. Geheimhouding
 ## Titel III. De bevoegdheid van het waterschapsbestuur
 ### Hoofdstuk IX. Algemene bepalingen
 #### § 1. Inleidende bepaling
