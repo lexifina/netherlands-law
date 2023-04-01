@@ -12,7 +12,7 @@
 ### Paragraaf 3.4. Bijdrage student
 ### Paragraaf 3.5. Normbedragen
 ### Paragraaf 3.6. Toekenning
-### Paragraaf 3.7. Toekenning reisvoorziening
+### Paragraaf 3.7. Vorm, wijze van toekenning en voorwaarden reisvoorziening
 ## Hoofdstuk 4. Beroepsonderwijs
 ### Afdeling 4.1. Beroepsonderwijs in Nederland
 #### Paragraaf 4.1.1. Studiefinanciering in de vorm van gift of lening
