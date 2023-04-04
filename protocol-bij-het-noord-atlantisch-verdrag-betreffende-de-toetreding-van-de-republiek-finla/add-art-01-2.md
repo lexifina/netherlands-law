@@ -1,0 +1,2 @@
+# Artikel I
+Bij de inwerkingtreding van dit Protocol zal de Secretaris-Generaal van de Noord-Atlantische Verdragsorganisatie uit naam van alle Partijen aan de Regering van de Republiek Finland een uitnodiging doen toekomen tot het Noord-Atlantisch Verdrag toe te treden. In overeenstemming met artikel 10 van het Verdrag wordt de Republiek Finland Partij op de dag waarop het een akte van toetreding nederlegt bij de Regering van de Verenigde Staten van Amerika.
