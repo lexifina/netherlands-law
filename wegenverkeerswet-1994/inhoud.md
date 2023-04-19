@@ -23,6 +23,7 @@
 ## Hoofdstuk III. Goedkeuring van voertuigen en systemen, onderdelen, technische eenheden, voertuigdelen, uitrustingsstukken en voorzieningen voor dergelijke voertuigen en aanhangwagens daarvan en van voorzieningen die ter bescherming van inzittenden van voertuigen en kwetsbare weggebruikers zijn ontworpen en gebouwd
 ### § 1. Algemene bepalingen
 ### § 2. Verbodsbepalingen
+## Hoofdstuk IIIA. Aanvullende eisen voor het op de markt aanbieden of in de handel brengen van voertuigen en banden
 ## Hoofdstuk IV. Kentekens en kentekenbewijzen
 ### § 1. Kentekenplicht
 ### § 2. Kentekens

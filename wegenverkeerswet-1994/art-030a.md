@@ -1,0 +1,2 @@
+# Artikel 30a
+Het is verboden voertuigen, systemen, onderdelen, technische eenheden, voertuigdelen, uitrustingsstukken en voorzieningen die voor dergelijke voertuigen en aanhangwagens daarvan zijn ontworpen en gebouwd en voorzieningen die ter bescherming van inzittenden van voertuigen en kwetsbare weggebruikers zijn ontworpen en gebouwd, door het aanbrengen van een teken of tekens, het afgeven van een bewijs of bewijzen dan wel het doen van mededelingen te doen of laten doorgaan voor goedgekeurd.

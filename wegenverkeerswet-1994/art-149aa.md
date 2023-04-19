@@ -1,5 +1,5 @@
 # Artikel 149aa
-1. Voor het uitvoeren van een experiment op de weg met motorrijtuigen waarvoor op grond van de krachtens artikel 21 gestelde regels een voorlopige of tijdelijke goedkeuring is vereist en waarvan de bestuurder zich niet in het motorrijtuig bevindt, is een vergunning vereist van Onze Minister na overleg met Onze Minister van Justitie en Veiligheid.
+1. Voor het uitvoeren van een experiment op de weg met motorrijtuigen waarvoor een goedkeuring voor nieuwe technologieën of nieuwe concepten, als bedoeld in een EU-kaderverordening in verband met de goedkeuring van motorvoertuigen of krachtens artikel 21, tweede lid, onderdeel a, is vereist en waarvan de bestuurder zich niet in het motorrijtuig bevindt, is een vergunning vereist van Onze Minister na overleg met Onze Minister van Justitie en Veiligheid.
 2. Artikel 149a, tweede lid, is niet van toepassing.
 3. Bij de vergunning, bedoeld in het eerste lid, kan voor zover noodzakelijk voor het uitvoeren van een experiment ontheffing worden verleend van een of meer bepalingen van:
 a. deze wet, met uitzondering van de artikelen 5 en 6,
