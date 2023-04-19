@@ -1,9 +1,10 @@
 # Inhoud
 ## Hoofdstuk I. Algemeen
-## Hoofdstuk Ia. Verplichtingen van marktdeelnemers
+## Hoofdstuk Ia. Verplichtingen voor marktdeelnemers en aanbieders van diensten van de informatiemaatschappij
 ### § 1. Verplichtingen van de fabrikant en diens vertegenwoordiger
 ### § 2. Verplichtingen van de importeur
 ### § 3. Verplichtingen van de distributeur
+### § 4. Verplichtingen van marktdeelnemers en aanbieders van diensten van de informatiemaatschappij
 ## Hoofdstuk II. In de handel brengen van explosieven
 ### § 1. Algemeen
 ### § 2. Keuringsinstellingen

@@ -15,6 +15,7 @@
 #### § 1. Toezicht op de naleving
 #### § 2. Bestuursrechtelijke handhaving
 #### § 3. Civielrechtelijke handhaving
+#### § 4. Markttoezicht als bedoeld in verordening (EU) nr. 2019/1020
 ### Titel 2. Bestuurlijke boetes
 #### § 1. Bevoegdheid
 #### § 2. Hoogte bestuurlijke boete
