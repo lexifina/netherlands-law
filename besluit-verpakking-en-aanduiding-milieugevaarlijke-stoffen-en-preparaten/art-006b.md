@@ -1,6 +1,0 @@
-# Artikel 6b
-1. Voor de indeling van een preparaat in een categorie als bedoeld in artikel 9.2.3.1, tweede lid, onder f tot en met n, van de wet, is van toepassing de door Onze Ministers vast te stellen methode met bijbehorende criteria, die gebaseerd is op de eigenschappen van de stoffen waaruit het preparaat is samengesteld en de concentraties waarin die stoffen in het preparaat voorkomen.
-2. In afwijking van het eerste lid wordt een preparaat overeenkomstig de criteria van bijlage VI bij de stoffenrichtlijn, ingedeeld in één of meer van de categorieën bedoeld in artikel 9.2.3.1, tweede lid, onder f tot en met j, van de wet, indien met betrekking tot die indeling toxicologische gegevens beschikbaar zijn.
-3. Bij regeling van Onze Ministers worden regels gesteld over de wijze waarop de toxicologische gegevens bedoeld in het tweede lid worden bepaald.
-4. In de in het derde lid bedoelde regels kunnen tevens bijzondere omstandigheden worden aangewezen die van invloed zijn op de indeling van het preparaat.
-5. Onze Ministers bepalen in welke gevallen een wijziging in de samenstelling van een preparaat dat is ingedeeld in een categorie als bedoeld in artikel 9.2.3.1, tweede lid, onder f tot en met n, van de wet, leidt tot een nieuwe beoordeling van die indeling.

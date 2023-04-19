@@ -1,2 +1,0 @@
-# Artikel 6f
-Bij regeling van Onze Ministers kunnen preparaten worden aangewezen waarop de artikelen 1a en 9.2.3.1 tot en met 9.2.3.4 van de wet geheel of voor een daarbij te bepalen gedeelte niet van toepassing zijn indien deze preparaten in de vorm waarin ze in de handel zijn gebracht geen gevarenopleveren uit fysisch-chemische eigenschappen, noch gevaren opleveren voor gezondheid of voor het milieu.
