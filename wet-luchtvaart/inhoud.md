@@ -132,4 +132,5 @@
 #### § 11.2.3. Bestuursrechtelijke boete door gedeputeerde staten
 #### § 11.2.4. Bestuursrechtelijke handhaving door de Autoriteit Consument en Markt
 ### Titel 11.3. Uitzonderingen
+### Titel 11.4. Toezicht ter uitvoering van de verordening markttoezicht
 ## Hoofdstuk 12. Overgangs- en slotbepalingen
