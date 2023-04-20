@@ -37,8 +37,6 @@
 ### § 1. Overgangsrecht verzekerden
 ### § 2. Overgangsrecht uitvoerders en afwikkeling Algemene Wet Bijzondere Ziektekosten
 ### § 3. Invoeringsbepalingen met betrekking tot het CIZ
-### § 4. Tijdelijke subsidies voor zorginfrastructuur en kapitaallasten
-### § 5. Tijdelijke subsidie orthocommunicatieve behandeling
 ## Hoofdstuk 12. Wijziging van andere wetten
 ### § 1. Volksgezondheid, Welzijn en Sport
 ### § 2. Financiën
