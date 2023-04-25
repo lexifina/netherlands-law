@@ -1,0 +1,2 @@
+# Artikel 21b. Aanvullende subsidie schooljaar 2021–2022
+Elke opleidingsschool of aspirant-opleidingsschool in het derde en vierde leerjaar die in schooljaar 2021–2022 in aanmerking komt voor subsidie als bedoeld in artikel 9, ontvangt in aanvulling op die subsidie een bedrag van € 30.000,-. Dit aanvullende bedrag is bestemd voor het stimuleren van de groei van de studentaantallen binnen de opleidingsschool, onderscheidenlijk de aspirant-opleidingsschool in het derde en vierde schooljaar.
