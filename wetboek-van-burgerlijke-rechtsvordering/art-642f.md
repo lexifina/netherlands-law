@@ -1,6 +1,6 @@
 # Artikel 642f
 1. Indien aan de in artikel 642e gestelde vereisten is voldaan, worden procedures terzake van vorderingen waarvoor het fonds is gesteld, geschorst overeenkomstig artikel 225, tweede lid, eerste zin, ook al waren deze reeds in staat van wijzen.
-2. Behoudens de gevallen bedoeld in het derde lid wordt na schorsing van een hangende procedure het geding op verzoek van de meest gerede partij ter griffie doorgehaald, wanneer
+2. Behoudens de gevallen bedoeld in het derde lid wordt na schorsing van een hangende procedure het geding op verzoek van de meest gerede partij van de rol afgevoerd, wanneer
 a. het verzoek van de schuldeiser tot verificatie als bedoeld in artikel 642l is afgewezen of
 b. de staat van verdeling bedoeld in artikel 642v op de in dat artikel genoemde wijze is vastgesteld of
 c. de vordering van de schuldeiser ingevolge artikel 642w is tenietgegaan.
