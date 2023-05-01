@@ -1,5 +1,0 @@
-# Artikel 843a
-1. Hij die daarbij rechtmatig belang heeft, kan op zijn kosten inzage, afschrift of uittreksel vorderen van bepaalde bescheiden aangaande een rechtsbetrekking waarin hij of zijn rechtsvoorgangers partij zijn, van degene die deze bescheiden te zijner beschikking of onder zijn berusting heeft. Onder bescheiden worden mede verstaan: op een gegevensdrager aangebrachte gegevens.
-2. De rechter bepaalt zo nodig de wijze waarop inzage, afschrift of uittreksel zal worden verschaft.
-3. Hij die uit hoofde van zijn ambt, beroep of betrekking tot geheimhouding verplicht is, is niet gehouden aan deze vordering te voldoen, indien de bescheiden uitsluitend uit dien hoofde te zijner beschikking staan of onder zijn berusting zijn.
-4. Degene die de bescheiden te zijner beschikking of onder zijn berusting heeft, is niet gehouden aan deze vordering te voldoen, indien daarvoor gewichtige redenen zijn, alsmede indien redelijkerwijs aangenomen kan worden dat een behoorlijke rechtsbedeling ook zonder verschaffing van de gevraagde gegevens is gewaarborgd.
