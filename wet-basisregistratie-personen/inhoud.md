@@ -11,6 +11,7 @@
 #### § 2. De inschrijving
 #### § 3. De opneming van persoonsgegevens
 #### § 4. De verplichtingen van overheidsorganen
+#### § 4a. Ondersteuning bij het onderzoek of een persoon als ingezetene in de basisregistratie op een adres in de gemeente dient te worden ingeschreven alsmede naar de juistheid van de gegevens betreffende het adres van een ingezetene in de basisregistratie
 #### § 5. De verplichtingen van de burger
 #### § 6. De rechten van de burger
 ### Afdeling 2. Niet-ingezetenen
