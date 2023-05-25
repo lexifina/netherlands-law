@@ -1,3 +1,0 @@
-# Artikel 20a. Mandaat aan en ondermandaat door plaatsvervangend secretaris-generaal
-1. In afwijking van artikel 20, eerste lid, wordt aan de plaatsvervangend secretaris-generaal mandaat verleend voor alle bevoegdheden van de bewindspersoon ten aanzien van de bedrijfsvoering van het ministerie, die behoren bij de uitoefening van zijn taken genoemd in artikel 3a, een en ander tenzij bij wettelijk voorschrift anders is bepaald en onverminderd de artikelen 24 en 26, tweede lid.
-2. De plaatsvervangend secretaris-generaal kan de aan hem verleende bevoegdheden in ondermandaat verlenen aan functionarissen, niet zijnde diensthoofden en rechtstreeks onder de diensthoofden ressorterende functionarissen.

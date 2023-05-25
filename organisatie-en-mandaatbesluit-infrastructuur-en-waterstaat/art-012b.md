@@ -1,6 +1,0 @@
-# Artikel 12b. Concerndirectie Mens en Organisatie
-1. De concerndirectie Mens en Organisatie staat onder leiding van de concerndirecteur Mens en Organisatie.
-2. De concerndirectie Mens en Organisatie bestaat uit afdelingen die onder leiding staan van de concerndirecteur of een afdelingshoofd.
-3. Bij afwezigheid of verhindering van de concerndirecteur Mens en Organisatie zijn de afdelingshoofden binnen de directie bevoegd om als plaatsvervanger op te treden.
-4. Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de concerndirecteur Mens en Organisatie.
-5. De concerndirectie Mens en Organisatie heeft de volgende taken: de departementale kaderstelling en advisering van de secretaris-generaal op het terrein van mens en organisatie, de zorg inzake goed werkgeverschap, rechtspositionele aangelegenheden, overleg met bonden en de medezeggenschap, huisvesting en integriteit.
