@@ -1,0 +1,3 @@
+# Artikel 2a
+1. De dienstverrichter en de zelfstandige dragen er zorg voor dat de bescheiden, bedoeld in artikel 9, eerste en tweede lid, van de wet tot vijf jaar na de periode van detachering of de periode waarin de werkzaamheden worden verricht aan de aangewezen ambtenaren, bedoeld in artikel 5, eerste lid, van de wet kunnen worden verstrekt.
+2. De redelijke termijn, bedoeld in artikel 9, derde lid, van de wet bedraagt vier weken. Indien er naar het oordeel van de aangewezen ambtenaren, bedoeld in artikel 5, eerste lid, van de wet sprake is van bijzondere omstandigheden, kan deze termijn worden verlengd tot ten hoogste twaalf weken.
