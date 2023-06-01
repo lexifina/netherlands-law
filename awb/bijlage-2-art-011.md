@@ -69,6 +69,7 @@ Wet toezicht financiële verslaggeving
 Wet toezicht trustkantoren 2018
 Wet van 12 juli 2012 tot wijziging van de Elektriciteitswet 1998 en van de Gaswet (implementatie van richtlijnen en verordeningen op het gebied van elektriciteit en gas) (Stb. 2012, 334): artikel XX
 Wet van 23 november 2006 tot wijziging van de Elektriciteitswet 1998 en van de Gaswet in verband met nadere regels omtrent een onafhankelijk netbeheer ( Stb. 2006, 614 )
+Wet veiligheidstoets investeringen, fusies en overnames
 Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen: een besluit genomen door een van de in artikel 30, eerste lid, genoemde bestuursorganen, waarin toepassing of mede toepassing is gegeven aan artikel 26
 Wet verplichte beroepspensioenregeling
 Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000
