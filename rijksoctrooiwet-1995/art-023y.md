@@ -1,0 +1,7 @@
+# Artikel 23y
+1. Een belanghebbende kan bij de examencommissie bezwaar maken tegen een beslissing als bedoeld in artikel 23c, vijfde lid, tegen een beslissing hem of haar niet toe te laten tot het examen of de proeve van bekwaamheid en tegen de beoordeling van het examen of de proeve van bekwaamheid.
+2. Een belanghebbende kan bij de raad van toezicht bezwaar maken tegen een benoeming van een octrooigemachtigde als begeleider van een stagiaire als bedoeld in artikel 23h, derde lid.
+3. De hoofdstukken 6 en 7 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing op het bezwaar, bedoeld in het eerste of tweede lid.
+4. De curator kan de raad van toezicht verzoeken de schorsing, bedoeld in artikel 23m, eerste lid, op te heffen. De artikelen 23s, 23t en 23v, eerste lid, zijn van overeenkomstige toepassing op het verzoek tot opheffing van de schorsing. Indien de raad van toezicht de schorsing opheft, zendt de secretaris van de raad terstond een afschrift van de beslissing van de raad aan de curator, de betrokkene en het bureau.
+5. Een belanghebbende kan tegen een beslissing op bezwaar als bedoeld in het eerste of tweede lid of tegen een beslissing op het verzoek als bedoeld in het vierde lid beroep instellen bij het gerechtshof Den Haag.
+6. De artikelen 23s, 23t en 23v, eerste lid, en 23w, met uitzondering van het vijfde lid, zijn van overeenkomstige toepassing op het beroep.

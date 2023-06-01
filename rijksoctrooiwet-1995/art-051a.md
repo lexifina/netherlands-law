@@ -1,0 +1,6 @@
+# Artikel 51a
+1. Een Europees octrooi wordt geacht van de aanvang af niet de in de artikelen 53, 54, eerste lid, en 54a bedoelde rechtsgevolgen te hebben gehad, na de registratie van eenheidswerking van het octrooi in het register voor eenheidsoctrooibescherming, bedoeld in artikel 3, eerste lid, van verordening (EU) nr. 1257/2012 van het Europees Parlement en de Raad van 17 december 2012 tot het uitvoering geven aan nauwere samenwerking op het gebied van de instelling van eenheidsoctrooibescherming (PbEU 2012, L 361).
+2. Op een Europees octrooi waarvan registratie van eenheidswerking heeft plaatsgevonden, zijn in Curaçao en Sint Maarten en in Bonaire, Sint Eustatius en Saba de bepalingen van verordening (EU) nr. 1257/2012 en verordening (EU) nr. 1260/2012 die zien op een Europees octrooi met eenheidswerking van overeenkomstige toepassing, met dien verstande dat:
+a. voor «deelnemende lidstaten» telkens wordt gelezen «Curaçao, Sint Maarten en Bonaire, Sint Eustatius en Saba»; en
+b. in artikel 6 van verordening 1257/2012, voor «Unie» wordt gelezen «Unie, Curaçao en Sint Maarten en Bonaire, Sint Eustatius en Saba».
+3. Het bureau doet van de in het eerste lid bedoelde registratie en de rechtsgevolgen daarvan voor het Europees octrooi onverwijld aantekening in het octrooiregister.

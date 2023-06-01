@@ -1,0 +1,3 @@
+# Artikel 102b
+1. In afwijking van Hoofdstuk II, Afdeling II, van de die Rijkswet verleent de Octrooiraad octrooi op octrooiaanvragen ten aanzien waarvan de aanvraagafdeling of de afdeling van beroep van de Octrooiraad na de inwerkingtreding van dit artikel op grond van artikel 24 of 24A van die Rijkswet besluit tot gehele of gedeeltelijke openbaarmaking, door het plaatsen van een gedateerde aantekening op de aanvrage in de vorm zoals deze door de aanvraagafdeling of de afdeling van beroep geschikt is bevonden voor verlening.
+2. Het octrooi begint te werken met ingang van de datum van het besluit tot gehele of gedeeltelijke openbaarmaking.

@@ -1,0 +1,6 @@
+# Artikel 23n
+1. Een octrooigemachtigde die zich schuldig maakt aan enig handelen of nalaten dat in strijd is met de zorg die hij als octrooigemachtigde behoort te betrachten ten opzichte van degenen wier belangen hij als zodanig behartigt of behoort te behartigen, dat in strijd is met het huishoudelijk reglement of de verordeningen van de orde, of dat in strijd is met hetgeen een octrooigemachtigde betaamt, kan, onverminderd zijn aansprakelijkheid op grond van andere wettelijke voorschriften, worden onderworpen aan een van de maatregelen, genoemd in artikel 23u.
+2. Als enig handelen of nalaten in strijd met hetgeen een octrooigemachtigde betaamt, wordt in ieder geval aangemerkt het in octrooiaangelegenheden samenwerken of in dienst nemen van een persoon:
+a. van wie bekend is dat hem de inschrijving in het register, bedoeld in artikel 23a, is geweigerd omdat gegronde vrees bestaat dat hij zich schuldig zal maken aan enig handelen of nalaten als bedoeld in het eerste lid,
+b. die ontzet is uit het recht om als gemachtigde voor het bureau op te treden, of
+c. die, hoewel onbevoegd om als gemachtigde voor het bureau op te treden, er zijn gewoonte van maakt zich in Nederland, Curaçao of Sint Maarten voor te doen als een gemachtigde.

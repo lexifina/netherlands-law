@@ -1,0 +1,7 @@
+# Artikel 23q
+1. Tegen de beslissing van de voorzitter van de raad van toezicht tot afwijzing van een klacht kan de klager binnen veertien dagen na de dag van verzending van het afschrift van de beslissing schriftelijk verzet doen bij de raad van toezicht. Hij geeft daarbij gemotiveerd aan met welke overwegingen van de voorzitter van de raad hij zich niet kan verenigen en kan vragen over zijn verzet te worden gehoord.
+2. Indien overeenkomstig het eerste lid verzet is gedaan tegen de beslissing van de voorzitter van de raad, wijst deze een ander lid van de raad aan om hem bij de behandeling van het verzet te vervangen.
+3. Ten gevolge van het verzet vervalt de beslissing van de voorzitter van de raad, tenzij de raad het verzet niet-ontvankelijk of ongegrond verklaart.
+4. Indien de raad van oordeel is dat de klacht kennelijk niet-ontvankelijk, kennelijk ongegrond of van onvoldoende gewicht is, kan hij zonder nader onderzoek het verzet niet-ontvankelijk of ongegrond verklaren, echter niet dan na de klager die daarom vroeg, in de gelegenheid te hebben gesteld te worden gehoord.
+5. De beslissing tot niet-ontvankelijkverklaring of tot ongegrondverklaring van het verzet is met redenen omkleed. Daartegen staat geen rechtsmiddel open. De secretaris van de raad zendt aan de klager en de desbetreffende octrooigemachtigde onverwijld bij aangetekende brief een afschrift van de beslissing van de raad.
+6. Indien de raad van oordeel is dat het verzet gegrond is, wordt de zaak in verdere behandeling genomen.

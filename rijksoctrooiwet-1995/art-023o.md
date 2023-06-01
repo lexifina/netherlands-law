@@ -1,0 +1,5 @@
+# Artikel 23o
+1. De raad van toezicht neemt een tegen een octrooigemachtigde gerezen bedenking in behandeling op een met redenen omklede schriftelijke klacht, bij hem ingediend.
+2. Indien de voorzitter van het bestuur van de orde buiten het geval van een klacht op de hoogte is van een bedenking tegen een octrooigemachtigde of een advocaat, kan hij deze ter kennis van de raad van toezicht brengen. In dat geval behandelt de raad de bedenking als klacht en beschouwt hij de voorzitter van het bestuur van de orde als klager.
+3. Indien het de raad van toezicht bekend is dat een advocaat zich bij de behandeling van octrooiaangelegenheden heeft schuldig gemaakt aan gedragingen als bedoeld in artikel 46 van de Advocatenwet, stelt hij de raad van toezicht, bedoeld in artikel 22 van die wet, van het arrondissement waarin de desbetreffende advocaat zijn praktijk uitoefent, hiervan op de hoogte.
+4. De raad van toezicht neemt een klacht niet in behandeling indien het voorval waarop de klacht betrekking heeft, ten minste vijf jaar voor de indiening van de klacht heeft plaatsgevonden.

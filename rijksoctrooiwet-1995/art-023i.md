@@ -1,0 +1,5 @@
+# Artikel 23i
+1. Het huishoudelijk reglement, de gedragsregels voor octrooigemachtigden en de verordeningen, alsmede iedere wijziging daarvan, worden na vaststelling onverwijld ter goedkeuring gezonden aan Onze Minister.
+2. Onze Minister kan zijn goedkeuring onthouden aan het huishoudelijk reglement, de gedragsregels voor octrooigemachtigden en de verordeningen, alsmede een wijziging daarvan, indien zij bepalingen bevatten die in strijd zijn met het recht of het algemeen belang.
+3. Na goedkeuring door Onze Minister worden het huishoudelijk reglement, de gedragsregels voor octrooigemachtigden en de verordeningen, alsmede een wijziging daarvan, geplaatst in het blad, bedoeld in artikel 20. Zij treden in werking met ingang van de eerste dag van de tweede maand na de dagtekening van het blad waarin zij worden geplaatst of zoveel eerder als zij zelf bepalen.
+4. De octrooigemachtigden zijn gehouden het huishoudelijk reglement, de gedragsregels voor octrooigemachtigden en de verordeningen na te leven en de contributie die verschuldigd is vanwege het lidmaatschap van de orde binnen de daarvoor gestelde termijn te voldoen.
