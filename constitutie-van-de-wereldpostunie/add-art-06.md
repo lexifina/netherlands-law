@@ -1,0 +1,3 @@
+# ARTICLE VI. Assistance à l'Organisation des Nations Unies
+1. L'Union convient de coopérer avec l'Organisation des Nations Unies, ses organes principaux et subsidiaires, et de leur prêter son concours dans la mesure compatible avec les dispositions de la Convention postale universelle.
+2. En ce qui concerne les membres de l'Organisation des Nations Unies, l'Union reconnaît que, conformément aux dispositions de l'article 103 de la Charte, aucune disposition de la Convention postale universelle ou de ses Arrangements connexes ne peut être invoquée comme faisant obstacle ou apportant une limitation quelconque à l'observation par un Etat de ses obligations envers l'Organisation des Nations Unies.

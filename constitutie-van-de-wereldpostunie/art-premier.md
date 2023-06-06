@@ -1,0 +1,4 @@
+# Article PREMIER. Étendue et but de l'Union
+1. Les pays qui adoptent la présente Constitution forment, dans le cadre de l'organisation intergouvernementale dénommée «Union postale universelle», un seul territoire postal pour l'échange réciproque des envois postaux. La liberté de transit est garantie dans le territoire entier de l'Union, sous réserve des conditions prévues dans les Actes de l'Union et dans tout protocole additionnel à ces derniers (ci-après dénommés collectivement «Actes de l'Union»).
+2. L'Union a pour but d'assurer l'organisation et le perfectionnement des services postaux et de favoriser, dans ce domaine, le développement de la collaboration internationale.
+3. L'Union participe, dans la mesure de ses possibilités, à l'assistance technique postale demandée par ses Pays-membres.

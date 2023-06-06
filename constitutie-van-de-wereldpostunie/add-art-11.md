@@ -1,0 +1,2 @@
+# ARTICLE XI. Couverture des frais de services spéciaux
+Si l'Union avait à faire face à des dépenses extraordinaires importantes, en suite de rapports spéciaux, d'études ou d'informations demandées par l'Organisation des Nations Unies en vertu de l'article V ou de toute autre disposition du présent accord, un échange de vues aurait lieu pour déterminer la manière la plus équitable de couvrir ces dépenses.

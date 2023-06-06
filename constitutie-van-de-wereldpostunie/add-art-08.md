@@ -1,0 +1,4 @@
+# ARTICLE VIII. Services de statistiques
+1. L'Organisation des Nations Unies et l'Union conviennent de coopérer en vue d'assurer la plus grande efficacité et l'usage le plus étendu des informations et des données statistiques.
+2. L'Union reconnaît que l'Organisation des Nations Unies constitue l'organisme central chargé de recueillir, analyser, publier, unifier et améliorer les statistiques servant aux buts généraux des organisations internationales.
+3. L'Organisation des Nations Unies reconnaît que l'Union est l'organisme qualifié pour recueillir, analyser, publier, unifier et améliorer les statistiques relevant de son domaine propre, sans préjudice de l'intérêt que l'Organisation des Nations Unies peut avoir à ces statistiques, en tant qu'elles sont essentielles à la réalisation de son propre but et au développement des statistiques à travers le monde.
