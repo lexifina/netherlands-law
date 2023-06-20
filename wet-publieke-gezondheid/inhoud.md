@@ -16,9 +16,15 @@
 ### § 5. Maatregelen gericht op gebouwen, goederen en vervoermiddelen
 ### § 6. Havens en luchthavens
 ### § 7. Certificaten van inenting
+### § 8. Collectieve maatregelen
+#### § 8.1. Algemene bepalingen
+#### § 8.2. Maatregelen
+#### § 8.3. Maatregelen in verband met inreizen
+#### § 8.4. Overige bepalingen
 ## Hoofdstuk VI. Financiële bepalingen
 ## Hoofdstuk VII. Handhaving
 ### § 1. Toezicht
+### § 1a. Opsporing
 ### § 2. Strafbepalingen
 ## Hoofdstuk VIIa. Openbare lichamen Bonaire, Sint Eustatius en Saba
 ## Hoofdstuk VIII. Overige bepalingen

@@ -1,0 +1,2 @@
+# Artikel 58l. Bevelen voor besloten plaatsen
+Indien door een gedraging of activiteit in of vanuit een besloten plaats, niet zijnde een woning, een ernstige vrees voor de onmiddellijke verspreiding van de betreffende ziekteverwekker ontstaat, kan de burgemeester dan wel de voorzitter van de veiligheidsregio de bevelen geven die nodig zijn voor de beëindiging van de gedraging of activiteit en de daar aanwezige personen bevelen zich onmiddellijk te verwijderen.

@@ -1,0 +1,9 @@
+# Artikel 68bis. Strafbaarstellingen en strafsancties regels hoofdstuk V, paragraaf 8
+1. Met een hechtenis van ten hoogste zeven dagen of geldboete van de eerste categorie wordt gestraft degene die handelt in strijd met het bepaalde bij of krachtens:
+a. artikel 58e, tweede lid, laatste zin of 58s, tweede lid, tweede zin en 58x, derde lid, tweede zin;
+b. artikel 58d, eerste lid, 58g, 58h, eerste en tweede lid, 58i, 58j, tweede lid, 58k, tweede lid, 58n, derde lid, eerste zin en vierde lid, eerste zin, 58o, eerste en tweede lid, 58p, eerste en tweede lid, 58q, 58s, eerste lid, en 58u.
+2. Met een geldboete van ten hoogste vijfennegentig euro wordt gestraft degene die handelt in strijd met het bepaalde bij of krachtens artikel 58f, eerste lid, of in strijd met de voorwaarden of beperkingen, bedoeld in artikel 58f, derde lid, onder e.
+3. De in dit artikel strafbaar gestelde feiten zijn overtredingen.
+4. In afwijking van het bij en krachtens de Wet justitiële en strafvorderlijke gegevens en de Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES bepaalde worden de gegevens met betrekking tot geldboetes, opgelegd voor overtreding van artikel 58f, eerste lid, en derde lid, onder e, niet aangemerkt als justitiële gegevens.
+5. In afwijking van artikel 35 van de Wet justitiële en strafvorderlijke gegevens en artikel 22 van de Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES worden de in dit artikel strafbaar gestelde feiten niet betrokken bij het onderzoek naar het gedrag van een natuurlijke persoon of rechtspersoon als bedoeld in artikel 28 van de Wet justitiële en strafvorderlijke gegevens of artikel 15, derde lid, eerste zin, van de Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES.
+6. Dit artikel is niet van toepassing indien de overtreding wordt begaan op plaatsen in gebruik ten behoeve van een verkiezing.

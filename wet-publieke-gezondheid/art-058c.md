@@ -1,0 +1,5 @@
+# Artikel 58c. Reguliere procedure
+1. De vaststelling van een krachtens paragraaf 8 van dit hoofdstuk vast te stellen ministeriële regeling geschiedt door Onze Ministers in overeenstemming met Onze Minister die het mede aangaat en in overeenstemming met het gevoelen van de ministerraad.
+2. Een regeling als bedoeld in het eerste lid wordt niet eerder vastgesteld dan een week nadat deze aan beide Kamers der Staten-Generaal is overgelegd. Indien binnen die termijn de Tweede Kamer der Staten-Generaal besluit niet in te stemmen met de regeling, wordt deze niet vastgesteld.
+3. Een besluit als bedoeld in het tweede lid, tweede zin, kan worden genomen op voorstel van ten minste een derde van het grondwettelijk aantal leden van de Tweede Kamer der Staten-Generaal.
+4. Indien naar het oordeel van Onze Ministers en Onze Minister die het mede aangaat een krachtens paragraaf 8 van dit hoofdstuk vastgestelde ministeriële regeling of een onderdeel daarvan niet langer voldoet aan één van de onderdelen van artikel 58b, wordt die regeling zo spoedig mogelijk gewijzigd of ingetrokken.

@@ -1,0 +1,5 @@
+# Artikel 58u. Thuisquarantaineverklaring
+Bij ministeriële regeling kan worden bepaald dat op de in artikel 58r, eerste lid, bedoelde persoon een verplichting rust om:
+a. een papieren of digitale verklaring naar waarheid in te vullen, waarin hij verklaart dat hij na inreis onverwijld in thuisquarantaine zal gaan op zijn woonadres of het opgegeven adres van een verblijfplaats, dan wel dat sprake is van een uitzondering als bedoeld in artikel 58s, eerste lid, en om daarbij de in die regeling genoemde gegevens aan Onze Minister te verstrekken;
+b. bij inreis te beschikken over een papieren verklaring of een bevestiging van een digitaal ingevulde verklaring als bedoeld in onderdeel a, zo nodig vergezeld van het in die regeling voorgeschreven document indien het gaat om een persoon die verklaart dat sprake is van een uitzondering als bedoeld in artikel 58s, eerste lid, of
+c. de verklaring of bevestiging en het eventuele voorgeschreven document te bewaren gedurende een bij ministeriële regeling te bepalen termijn en deze op verzoek te tonen aan de toezichthouder.

@@ -1,0 +1,3 @@
+# Artikel 58o. Bedrijfsmatig personenvervoer
+1. Bij ministeriële regeling kan worden bepaald dat het aanbieden of verrichten van bepaalde categorieën van bedrijfsmatig personenvervoer geheel of gedeeltelijk verboden is.
+2. Bij ministeriële regeling kunnen regels worden gesteld over het aanbieden van, de toegang tot en het gebruik van voorzieningen voor bedrijfsmatig personenvervoer binnen Nederland of met een bestemming in Nederland. Hierbij kan onderscheid worden gemaakt tussen categorieën van bedrijfsmatig personenvervoer, gebieden van waaruit de reiziger vertrekt, waaronder het vertrek vanuit gebieden in het buitenland of het reizen tussen het Europese deel van Nederland, Bonaire, Sint Eustatius en Saba, of categorieën van personen voor wie de regels gelden.
