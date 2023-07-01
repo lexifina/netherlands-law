@@ -1,0 +1,5 @@
+# Artikel 63b. Risicohouding
+1. De pensioenuitvoerder, bedoeld in
+artikel 63a, baseert zijn beleggingsbeleid en de toedelingsregels voor het beleggingsrisico op de risicohouding van de deelnemers, gewezen deelnemers of pensioengerechtigden. Bij het vaststellen van de risicohouding wordt in ieder geval onderscheid gemaakt naar leeftijdscohorten en wordt per leeftijdscohort een risicohouding vastgesteld.
+2. De risicohouding wordt door de pensioenuitvoerder vastgesteld en periodiek getoetst, waarbij gebruik wordt gemaakt van onderzoek naar de risicopreferentie van de deelnemers, gewezen deelnemers of pensioengerechtigden, wetenschappelijke inzichten en deelnemerskenmerken. De resultaten hiervan worden door een beroepspensioenfonds beoordeeld na overleg met de andere organen van het beroepspensioenfonds. De toetsing van de risicohouding vindt plaats ten minste eenmaal in vijf jaar en bij een ingrijpende wijziging.
+3. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over dit artikel.

@@ -22,6 +22,15 @@
 ### § 5.2. Verantwoordingsorgaan en belanghebbendenorgaan
 ### § 5.3. Taakafbakening
 ## Hoofdstuk 6. Financieel toetsingskader inzake pensioenfondsen
+## Hoofdstuk 6a. Experimenteerbepaling zelfstandigen
+## Hoofdstuk 6b. Specifieke voorschriften tijdens transitieperiode
+### § 6b.1. Toepassingsgebied en vaststelling scenario's
+### § 6b.2. Mijlpalen
+### § 6b.3. Pensioenovereenkomst en transitieplan
+### § 6b.4. Taken en bevoegdheden pensioenuitvoerder en uitvoeringsovereenkomst
+### § 6b.5. Bevoegdheid pensioenfonds collectieve waardeoverdracht en aanwenden vermogen
+### § 6b.6. Financieel toetsingskader pensioenfondsen tijdens transitie
+### § 6b.7. Aanvullende maatregelen transitieperiode voor pensioenfondsen
 ## Hoofdstuk 7. Toezicht, handhaving en overige taken toezichthouder
 ### § 7.1. De toezichthouder
 ### § 7.3. Bevoegdheden Onze Minister

@@ -1,0 +1,14 @@
+# Artikel 10b. Flexibele premieovereenkomst
+1. Bij een flexibele premieovereenkomst wordt de premie belegd tot de pensioendatum. Het kapitaal voortvloeiend uit de premies wordt vanaf de pensioendatum gebruikt voor financiering van een vastgestelde of variabele uitkering.
+2. Een risicodelingsreserve kan onderdeel zijn van een flexibele premieovereenkomst.
+3. Bij de variabele uitkering worden financiële mee- of tegenvallers die het gevolg zijn van het beleggingsrisico verwerkt door middel van individuele toedeling of een collectief toedelingsmechanisme. De verwerking van financiële mee- of tegenvallers die het gevolg zijn van de ontwikkeling van de levensverwachting gebeurt door middel van individuele toedeling, een collectief toedelingsmechanisme of een risicodelingsreserve. De verwerking van financiële mee- of tegenvallers die het gevolg zijn van het sterfteresultaat gebeurt door middel van een collectief toedelingsmechanisme of een risicodelingsreserve.
+4. De vormgeving van het collectief toedelingsmechanisme voor het beleggingsrisico is zodanig dat er op voorhand geen herverdelingseffecten plaatsvinden. Van de eerste zin kan afgeweken worden voor zover dat nodig is om gelijke aanpassingen van de ingegane pensioenuitkeringen en van de opgebouwde aanspraak op nabestaandenpensioen van pensioengerechtigden te realiseren en alleen herverdelingseffecten optreden tussen de pensioengerechtigden onderling.
+5. Het kapitaal is niet negatief.
+6. De pensioenuitvoerder past een collectief toedelingsmechanisme toe op een toedelingskring die bestaat uit pensioengerechtigden.
+7. In afwijking van het zesde lid kunnen:
+a. deelnemers of gewezen deelnemers deel uitmaken van de toedelingskring in de laatste tien jaar voorafgaand aan de reglementaire pensioenleeftijd, waarbij de deelname van deelnemers of gewezen deelnemers aan de toedelingskring plaatsvindt door tijdsevenredige toetreding tot het collectief toedelingsmechanisme in deze periode; en
+b. alle deelnemers, gewezen deelnemers of andere aanspraakgerechtigden deel uitmaken van de toedelingskring voor het collectief toedelingsmechanisme voor verwerking van het sterfteresultaat.
+8. Bij uitvoering van een flexibele premieovereenkomst door een verplichtgesteld bedrijfstakpensioenfonds geldt, voor zover het basispensioenregelingen betreft die onder de verplichtstelling vallen, in afwijking van het tweede lid en het zevende lid, het volgende:
+a. een risicodelingsreserve is onderdeel van de flexibele premieovereenkomst; en
+b. de verwerking van het sterfteresultaat vindt plaats over alle deelnemers, gewezen deelnemers, andere aanspraakgerechtigden en pensioengerechtigden.
+9. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot dit artikel over onder meer de tarieven voor een vastgestelde uitkering.

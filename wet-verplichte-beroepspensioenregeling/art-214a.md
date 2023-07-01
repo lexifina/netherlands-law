@@ -1,5 +1,5 @@
 # Artikel 214a. Overgangsrecht Wet waardeoverdracht klein pensioen
-1. Artikel 66, zesde lid, is van toepassing indien de deelneming eindigt vanaf het tijdstip van inwerkingtreding van artikel II, onderdeel E, van de Wet waardeoverdracht klein pensioen.
+1. Artikel 66, vijfde lid, is van toepassing indien de deelneming eindigt vanaf het tijdstip van inwerkingtreding van artikel II, onderdeel E, van de Wet waardeoverdracht klein pensioen.
 2. Indien de deelneming is geëindigd voor het tijdstip van inwerkingtreding van artikel II, onderdeel E, van de Wet waardeoverdracht klein pensioen heeft de pensioenuitvoerder het recht om pensioenaanspraken van een gewezen deelnemer te laten vervallen indien op basis van de tot het tijdstip van beëindiging opgebouwde aanspraak op ouderdomspensioen de uitkering van het ouderdomspensioen op jaarbasis op de reguliere ingangsdatum niet meer zal bedragen dan € 2,– per jaar. De pensioenuitvoerder die gebruik maakt van het recht, bedoeld in de eerste zin, informeert de gewezen deelnemers hierover.
 3. Artikel 81a is van toepassing indien de deelneming is geëindigd of eindigt vanaf 1 januari 2018.
 4. Indien de deelneming is geëindigd voor 1 januari 2018:

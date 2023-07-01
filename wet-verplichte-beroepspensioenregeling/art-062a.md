@@ -1,0 +1,6 @@
+# Artikel 62a. Gebruikersorgaan pensioenregister
+1. De instelling, bedoeld in artikel 62, zesde lid, stelt een gebruikersorgaan in samengesteld uit gebruikers van het pensioenregister. Het gebruikersorgaan overlegt met en adviseert het bestuur van de instelling over voorgenomen besluitvorming over opzet, bestaan en werking van het pensioenregister, waaronder in ieder geval wordt verstaan de functionaliteiten en ontwikkeling van het pensioenregister alsmede de wijze waarop het pensioenregister invulling geeft aan haar wettelijke taak.
+2. De instelling stelt een regeling vast voor samenstelling, werkwijze, taken en bevoegdheden van het gebruikersorgaan.
+3. Het bestuur van de instelling en het gebruikersorgaan komen ten minste twee maal per kalenderjaar in vergadering bijeen. Tijdens deze vergaderingen worden de aangelegenheden aan de orde gesteld waarover het bestuur of het gebruikersorgaan overleg wenselijk acht.
+4. De instelling verstrekt desgevraagd aan het gebruikersorgaan tijdig alle inlichtingen en gegevens die deze redelijkerwijs nodig heeft voor de vervulling van de taak.
+5. De instelling deelt het gebruikersorgaan onderbouwd mee waarom het een advies niet of niet geheel volgt.

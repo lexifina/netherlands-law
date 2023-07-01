@@ -1,0 +1,2 @@
+# Artikel 39a. Overgangsrecht in verband met Wet toekomst pensioenen
+Artikel 8, zoals dat luidde op de dag voor het tijdstip van inwerkingtreding van de Wet toekomst pensioenen, blijft van toepassing tot het tijdstip dat het bedrijfstakpensioenfonds overgaat op uitvoering van een gewijzigde pensioenovereenkomst, maar uiterlijk 1 januari 2027. De artikelen 2, tweede lid, en 220h, tweede lid, van de Pensioenwet zijn van toepassing.

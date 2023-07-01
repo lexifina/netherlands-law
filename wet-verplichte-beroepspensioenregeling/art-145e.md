@@ -1,0 +1,7 @@
+# Artikel 145e. Afspraken compensatie beroepspensioenregeling
+1. Indien een beroepspensioenregeling afspraken bevat over compensatie in de vorm van het toekennen van extra pensioenaanspraken, wordt voldaan aan de volgende voorwaarden:
+a. de beroepsgenoot heeft recht op compensatie als voor het leeftijdscohort waartoe de beroepsgenoot behoort compensatie is overeengekomen in de beroepspensioenregeling, waarbij niet is vereist dat de beroepsgenoot bij aanvang van de compensatieperiode reeds werkzaam was als beroepsgenoot;
+b. de compensatie wordt tijdsevenredig aan de beroepsgenoot toegekend over de compensatieperiode, die aanvangt op de ingangsdatum van de gewijzigde beroepspensioenregeling en uiterlijk 31 december 2036 eindigt; en
+c. de compensatie is gefinancierd op het moment dat de compensatie onvoorwaardelijk wordt toegekend.
+2. In aanvulling op de artikelen 49, eerste lid, en 50, eerste lid, verstrekt de pensioenuitvoerder voor zover van toepassing de deelnemer jaarlijks en bij beëindiging van de deelneming informatie over de compensatieperiode en de mogelijke effecten voor compensatie bij beëindiging van de deelneming en het aangaan van een nieuwe beroepspensioenregeling. De pensioenuitvoerder stelt deze informatie tevens op zijn website beschikbaar voor de deelnemer.
+3. Het eerste lid is van overeenkomstige toepassing op de gewezen beroepsgenoot die op grond van de beroepspensioenregeling recht heeft op premievrije voortzetting.

@@ -1,0 +1,16 @@
+# Artikel 145o. Financieel overbruggingsplan tijdens transitie
+1. Een beroepspensioenfonds dat naar verwachting zal overgaan op een collectieve waardeoverdracht als bedoeld in artikel 145l, kan in de periode tot die collectieve waardeoverdracht plaatsvindt, in afwijking van de artikelen 133, 134, of 135, eerste en derde lid, afzien van het jaarlijks indienen van een herstelplan en kan in plaats daarvan jaarlijks een concreet en haalbaar overbruggingsplan indienen dat voldoet aan de daarvoor gestelde voorwaarden.
+2. In afwijking van het eerste lid kan een beroepspensioenfonds dat op 1 juli 2025 geen implementatieplan heeft ingediend bij de toezichthouder geen overbruggingsplan indienen voor de jaren 2025 en 2026.
+3. In het overbruggingsplan beschrijft het beroepspensioenfonds de financiële situatie van het beroepspensioenfonds in de periode tot het beroepspensioenfonds overgaat tot collectieve waardeoverdracht maar uiterlijk op 1 januari 2027. Het uitgangspunt voor de beschrijving is de dekkingsgraad van het beroepspensioenfonds op 31 december van enig jaar.
+4. Een beroepspensioenfonds:
+a. onderbouwt in het overbruggingsplan:
+1°. waarom het vanuit het belang van deelnemers, gewezen deelnemers, andere aanspraakgerechtigden en pensioengerechtigden een overbruggingsplan indient;
+2°. hoe de invaardekkingsgraad is vastgesteld;
+3°. hoe de premiedekkingsgraad bijdraagt aan de financiële positie van het beroepspensioenfonds;
+4°. hoe zal worden voldaan aan de vereisten van het minimaal vereist eigen vermogen en het vereist eigen vermogen indien het beroepspensioenfonds niet of niet meer gebruik maakt van de regeling voor overbruggingsplannen; en
+5°. hoe het rekening heeft gehouden met generatie-effecten in termen van netto-profijt die ontstaan door het indienen van een overbruggingsplan, waarbij deze onderbouwing alleen wordt opgenomen in het eerste overbruggingsplan dat wordt ingediend voor het implementatieplan is ingediend en vervolgens in het eerste overbruggingsplan nadat het implementatieplan is ingediend; en
+b. stelt informatie over het overbruggingsplan en de onderbouwing daarvan tijdig ter beschikking van de deelnemers, gewezen deelnemers, andere aanspraakgerechtigden en pensioengerechtigden of verstrekt deze informatie tijdig.
+5. Het beroepspensioenfonds stelt het verantwoordingsorgaan in de gelegenheid advies uit te brengen over de vaststelling van het overbruggingsplan. Ten aanzien van dit advies zijn de artikelen 110e, vijfde, zesde en zevende lid, en 211a van overeenkomstige toepassing.
+6. Voor de toepassing van artikel 135 telt de vaststelling van een beleidsdekkingsgraad in de periode dat op grond van dit artikel geen herstelplan wordt ingediend mee voor de bepaling hoe veel maal opeenvolgend sprake is van een beleidsdekkingsgraad onder het minimaal vereist eigen vermogen.
+7. Artikel 132, tweede lid, onderdeel a en b, is niet van toepassing zolang een beroepspensioenfonds een overbruggingsplan indient. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld voor de toeslagverlening in die situatie.
+8. Bij of krachtens algemene maatregel van bestuur worden regels worden gesteld met betrekking tot de overbruggingsplannen.

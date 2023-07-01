@@ -1,0 +1,14 @@
+# Artikel 145d. Berekenen transitie-effecten
+1. De transitie-effecten van de wijziging van de beroepspensioenregeling en de wijze waarop wordt omgegaan met opgebouwde pensioenaanspraken en pensioenrechten worden in ieder geval berekend door:
+a. het netto profijt van het ongewijzigd voortzetten van de beroepspensioenregeling af te zetten tegen het netto profijt van het wijzigen van de beroepspensioenregeling en de wijze waarop wordt omgegaan met opgebouwde pensioenaanspraken en pensioenrechten; en
+b. de pensioenverwachting bij ongewijzigd voortzetten van de beroepspensioenregeling te vergelijken met de pensioenverwachting bij wijziging van de beroepspensioenregeling en de wijze waarop wordt omgegaan met opgebouwde pensioenaanspraken en pensioenrechten, waarbij de pensioenverwachting, voor zover het ouderdomspensioen betreft, wordt weergegeven op basis van een pessimistisch scenario, een verwacht scenario en een optimistisch scenario.
+2. Het netto profijt is het verschil tussen de marktwaarde van de te verwachten pensioenuitkeringen en de marktwaarde van de toekomstige premie-inleg.
+3. In afwijking van het eerste lid, onderdeel a, worden de effecten van de wijziging van de beroepspensioenregeling en de wijze waarop wordt omgegaan met opgebouwde pensioenaanspraken en pensioenrechten berekend door het bruto profijt van het ongewijzigd voortzetten van de beroepspensioenregeling af te zetten tegen het bruto profijt van het wijzigen van de beroepspensioenregeling en de wijze waarop wordt omgegaan met opgebouwde pensioenaanspraken en pensioenrechten, indien:
+a. de beroepspensioenregeling voor de wijziging het karakter heeft van een premieregeling of een kapitaalregeling als bedoeld in artikel 1, eerste lid, zoals dat artikel luidde op de dag voorafgaand aan het tijdstip van inwerkingtreding van de Wet toekomst pensioenen;
+b. de beroepspensioenregeling na de wijziging het karakter heeft van een premie-uitkeringsregeling; en
+c. geen gebruik wordt gemaakt van het overgangsrecht, bedoeld in artikel 214d.
+4. Het bruto profijt is de contante waarde van de toekomstige premie-inleg.
+5. De pensioenuitvoerder stelt op de website een kwalitatieve toelichting op de transitie-effecten beschikbaar en verstrekt de deelnemer, gewezen deelnemer, gewezen partner en pensioengerechtigde op verzoek een berekening van de transitie-effecten per leeftijdscohort.
+6. Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot dit artikel.
+7. Bij algemene maatregel van bestuur kunnen kwantitatieve voorwaarden worden gesteld met betrekking tot de transitie-effecten, bedoeld in het eerste en derde lid.
+8. De voordracht voor een krachtens het zevende lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.

@@ -12,6 +12,14 @@
 ### § 5. Overige bepalingen
 ## Hoofdstuk 4. Beroepspensioenfonds
 ## Hoofdstuk 5. Financieel toetsingskader inzake beroepspensioenfondsen
+## Hoofdstuk 5a. Specifieke voorschriften tijdens transitieperiode
+### § 5a.1. Toepassingsgebied en vaststelling scenario's
+### § 5a.2. Mijlpalen
+### § 5a.3. Beroepspensioenregeling en transitieplan
+### § 5a.4. Taken en bevoegdheden pensioenuitvoerder en uitvoeringsovereenkomst
+### § 5a.5. Bevoegdheid beroepspensioenfonds collectieve waardeoverdracht en aanwenden vermogen
+### § 5a.6. Financieel toetsingskader beroepspensioenfondsen tijdens transitie
+### § 5a.7. Aanvullende maatregelen transitieperiode pensioenfondsen
 ## Hoofdstuk 6. Toezicht, handhaving en overige taken toezichthouder
 ### § 1. De toezichthouder
 ### § 3. Bevoegdheden Onze Minister

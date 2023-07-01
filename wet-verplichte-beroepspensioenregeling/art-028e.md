@@ -1,0 +1,7 @@
+# Artikel 28e. Risicodelingsreserve
+1. Een risicodelingsreserve heeft een maximale omvang van 15% van het geheel voor pensioen gereserveerde kapitaal inclusief de risicodelingsreserve. De risicodelingsreserve is niet negatief.
+2. Indien een risicodelingsreserve wordt gevuld uit premies of uit kapitaal bij toetreding tot het collectief toedelingsmechanisme voor de collectieve uitkeringsfase, bedraagt de inleg uit premie en de inleg uit kapitaal in totaal niet meer dan 10%.
+3. Door middel van de risicodelingsreserve worden financiële mee- of tegenvallers collectief gedeeld op een wijze die op voorhand leidt tot gemiddeld stabielere of hogere toekomstige en al ingegane pensioenuitkeringen voor alle generaties, ten opzichte van de situatie dat de risicodelingsreserve geen onderdeel van de beroepspensioenregeling is. De risicodelingsreserve wordt niet gebruikt voor deling van operationele kosten.
+4. Bij een flexibele premieregeling met beleggingsvrijheid worden financiële mee- of tegenvallers als gevolg van het beleggingsrisico niet gecompenseerd door de risicodelingsreserve.
+5. De pensioenuitvoerder stelt regels vast voor de doelstellingen van de risicodelingsreserve en het vullen en uitdelen uit de risicodelingsreserve. Deze regels zijn evenwichtig, transparant, onderling consistent en worden voor langere tijd vastgesteld.
+6. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot dit artikel.

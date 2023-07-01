@@ -1,0 +1,6 @@
+# Artikel 10d. Solidariteitsreserve
+1. Een solidariteitsreserve heeft een maximale omvang van 15% van het geheel voor pensioen gereserveerde vermogen inclusief de solidariteitsreserve. De solidariteitsreserve is niet negatief.
+2. Indien een solidariteitsreserve wordt gevuld uit premies of overrendement, bedraagt de inleg uit premie niet meer dan 10% van de premiesom per deelnemer per jaar en bedraagt de inleg uit overrendement niet meer dan 10% van het positieve collectieve overrendement per jaar.
+3. Door middel van de solidariteitsreserve worden financiële mee- of tegenvallers collectief gedeeld op een wijze die op voorhand leidt tot gemiddeld stabielere of hogere toekomstige en al ingegane pensioenuitkeringen voor alle generaties, ten opzichte van de aanname dat de solidariteitsreserve geen onderdeel van de pensioenregeling zou zijn. De solidariteitsreserve wordt niet gebruikt voor deling van operationele kosten.
+4. De pensioenuitvoerder stelt regels vast voor de doelstellingen van de solidariteitsreserve en het vullen en uitdelen uit de solidariteitsreserve. Deze regels zijn evenwichtig, transparant, onderling consistent en worden voor langere tijd vastgesteld.
+5. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot dit artikel.

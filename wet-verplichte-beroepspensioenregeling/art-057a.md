@@ -8,8 +8,9 @@ d. het bestuursverslag en de jaarrekening.
 a. informatie over de gevolgen van significante wijzigingen in de technische voorzieningen;
 b. informatie over het financieel crisisplan;
 c. informatie over het herstelplan of geactualiseerd herstelplan;
-d. het pensioenreglement; en
-e. de uitvoeringsovereenkomst.
+d. informatie over de beleggingen en het beleggingsbeleid;
+e. het pensioenreglement; en
+f. de uitvoeringsovereenkomst.
 3. Voor zover van toepassing stelt de pensioenuitvoerder op zijn website voor een ieder de verklaring inzake beleggingsbeginselen beschikbaar.
 4. In het bestuursverslag, bedoeld in het eerste lid, onderdeel d, neemt een beroepspensioenfonds informatie op over de haalbaarheidstoets en de reële dekkingsgraad. Een pensioenuitvoerder neemt in het bestuursverslag informatie op over de totale waarde en de bestemming van de pensioenaanspraken die vervallen, bedoeld in artikel 66, zesde lid.
 5. Indien de deelnemer, gewezen deelnemer, gewezen partner of pensioengerechtigde hierom verzoekt verstrekt de pensioenuitvoerder de in het eerste tot en met derde lid bedoelde informatie en stukken elektronisch of schriftelijk.
