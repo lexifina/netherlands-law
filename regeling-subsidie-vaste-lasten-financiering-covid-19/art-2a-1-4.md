@@ -1,9 +1,0 @@
-# Artikel 2a.1.4. (hoogte subsidie)
-1. De subsidie bedraagt ten hoogste € 100.000 en wordt berekend op de volgende wijze:
-A X B X C X D.
-2. In afwijking van het eerste lid bedraagt de subsidie ten hoogste € 30.000 indien de getroffen startende MKB-onderneming actief of mede actief is als onderneming in de visserij- en aquacultuursector, bedoeld in artikel 2, eerste lid, van de de-minimisverordening voor de visserijsector.
-3. In afwijking van het eerste en tweede lid bedraagt de subsidie ten hoogste € 20.000 indien de getroffen startende MKB-onderneming actief of mede actief is als onderneming in de primaire productie van landbouwproducten als bedoeld in artikel 2, eerste lid, van de de-minimisverordening voor de landbouwsector.
-4. De subsidie bedraagt € 1.500, indien de uitkomst van de berekening, bedoeld in het eerste lid, minder is dan € 1.500.
-5. Bij element C wordt het hoogste percentage gebruikt dat van toepassing is, indien de getroffen startende MKB-onderneming meer dan een hoofdactiviteit uitvoert.
-6. Indien ten genoegen van de minister blijkt dat een activiteit van een getroffen startende MKB-onderneming waarvan de code van de Standaard Bedrijfsindeling in de bijlage is opgenomen, in werkelijkheid op de peildatum de hoofdactiviteit van die onderneming vormde, wordt bij element C het percentage behorend bij deze code van de Standaard Bedrijfsindeling gebruikt.
-7. Voor ondernemingen die op de peildatum zijn ingeschreven in het handelsregister met een hoofdactiviteit onder de code 64.2, 64.30.3 of 70.10 van de Standaard Bedrijfsindeling en met een nevenactiviteit die in de bijlage is opgenomen, wordt bij element C het percentage gebruikt van de nevenactiviteit van de onderneming die in de bijlage is opgenomen. Indien de getroffen startende MKB-onderneming meer dan één nevenactiviteit uitvoert die in de bijlage is opgenomen, wordt het hoogste percentage gebruikt dat van toepassing is.

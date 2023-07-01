@@ -1,6 +1,0 @@
-# Artikel 2a.1.3. (bepaling omzetverlies)
-1. Het omzetverlies wordt berekend door het verschil tussen de omzet in de referentieperiode en de omzet in de subsidieperiode te bepalen en deze te delen door de omzet in de referentieperiode. De uitkomst van deze berekening wordt uitgedrukt in procenten.
-2. De omzet in de referentieperiode is de omzet in het derde kalenderkwartaal van 2021.
-3. De omzet in de subsidieperiode is de omzet in het vierde kalenderkwartaal van 2021.
-4. Als omzet van de getroffen startende MKB-onderneming wordt beschouwd het bedrag ten aanzien waarvan de getroffen startende MKB-onderneming aangifte doet voor de omzetbelasting, overeenkomstig het bepaalde bij en krachtens de Wet op de omzetbelasting 1968. Tevens wordt als omzet beschouwd omzet die niet in een aangifte omzetbelasting gerapporteerd wordt, maar op eenvoudige en duidelijke wijze blijkt uit de financiële administratie of uit een ander bewijsstuk van de getroffen MKB-onderneming.
-5. Tot de omzet in de referentieperiode en de omzet in de subsidieperiode worden voor de toepassing van deze regeling niet gerekend subsidies, tegemoetkomingen of steun in andere vorm die de getroffen startende MKB-onderneming heeft verkregen van een bestuursorgaan in verband met, of mede in verband met, de gevolgen van de bestrijding van de verspreiding van COVID-19.
