@@ -1,5 +1,0 @@
-# Artikel 5k. Peildatum
-1. De gegevens die bepalend zijn voor de hoogte van de tegemoetkoming, bedoeld in artikel 5j, eerste lid, zijn de gegevens zoals verwerkt bij de Belastingdienst/Toeslagen op 1 mei 2022.
-2. In afwijking van het eerste lid zijn de gegevens zoals uiterlijk op 1 juli 2022 verwerkt bij de Belastingdienst/Toeslagen of op grond van artikel 18 van de Algemene wet inkomensafhankelijke regelingen ambtshalve bepaald of ambtshalve herzien door de Belastingdienst/Toeslagen, bepalend voor de hoogte van de tegemoetkoming voor de ouder:
-a. die in de periode van 22 februari 2022 tot en met 30 april 2022 een wijziging aan de Belastingdienst/Toeslagen heeft doorgegeven van diens uren opvang of het krachtens artikel 1.8, tweede lid, van de Wet kinderopvang geldende toetsingsinkomen over de periode, bedoeld in artikel 5i, tweede lid, aanhef; en
-b. voor wie het bedrag van de eerste of hogere tegemoetkoming over die periode op basis van de gegevens, bedoeld in het eerste lid, ten minste € 500 bedraagt.

@@ -1,2 +1,0 @@
-# Artikel 5f. Recht op tegemoetkoming
-Recht op een tegemoetkoming op grond van deze paragraaf heeft de ouder die over de periode van 21 december 2021 tot en met 9 januari 2022 kinderopvangtoeslag heeft ontvangen voor buitenschoolse opvang als bedoeld in artikel 1.1 van de Wet kinderopvang en de eigen bijdrage in de kosten voor de kinderopvang aan de houder, bedoeld in artikel 1.1 van de Wet kinderopvang, heeft betaald.
