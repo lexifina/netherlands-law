@@ -1,2 +1,0 @@
-# Artikel 6a. Bevoorschotting
-In afwijking van artikel 6.1, tweede lid, van de Kaderregeling subsidies OCW, SZW en VWS wordt een voorschot van 50 procent betaald bij aanvang van de activiteiten waarvoor subsidie is verleend, dan wel op het moment van de subsidieverlening indien deze subsidieverlening na aanvang van de activiteiten heeft plaatsgevonden, en worden de resterende voorschotten gelijkmatig betaald over het aantal maanden waarvoor de subsidie wordt verleend.
