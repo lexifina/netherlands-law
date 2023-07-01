@@ -1,4 +1,0 @@
-# Artikel XI
-1. Voor de in artikel 1 van het Besluit eindejaarsuitkering, zoals dat op 31 december 2001 luidde, bedoelde rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding, die zijn aangesteld voor het vervullen van een volledige taak, wordt de eindejaarsuitkering over het jaar 2001 verhoogd met een bedrag van f 1165 bruto alsmede met een bedrag van f 564 bruto.
-2. Voor de in artikel 1 van het Besluit eindejaarsuitkering rechterlijke ambtenaren, zoals dat op 31 december 2001 luidde, bedoelde rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding, die zijn aangesteld voor het vervullen van minder dan een volledige taak, wordt de eindejaarsuitkering over het jaar 2001 verhoogd met een met hun werktijd overeenkomend deel van het in het eerste lid genoemde bedrag.
-3. De peildatum voor het vaststellen van de aanspraak op en de hoogte van de in dit artikel bedoelde verhogingen is 1 december 2001.

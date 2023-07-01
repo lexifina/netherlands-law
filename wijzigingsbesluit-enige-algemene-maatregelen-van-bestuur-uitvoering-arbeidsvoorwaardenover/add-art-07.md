@@ -1,2 +1,0 @@
-# Artikel VII
-In afwijking van artikel 7a van het Besluit onkostenvergoeding rechterlijke ambtenaren heeft de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding, die voor de inwerkingtreding van dit besluit ongeschikt was tot het verrichten van arbeid wegens ziekte, aanspraak op een onkostenvergoeding gedurende het kalenderjaar waarin dit besluit in werking is getreden en het kalenderjaar daarop volgend.

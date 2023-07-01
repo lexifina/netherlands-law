@@ -1,2 +1,0 @@
-# Artikel V
-Artikel XI van het Besluit van 9 december 1997, houdende wijziging van het Algemeen Rijksambtenarenreglement, het Ambtenarenreglement Staten-Generaal, het Reglement Dienst Buitenlandse Zaken en enige andere rechtspositionele regelingen, in verband met het onder de Wet op de arbeidsongeschiktheidsverzekering brengen van de overheidswerknemers in de sector Rijk (Stb. 1998, 5) is van overeenkomstige toepassing ten aanzien van de niet voor het leven benoemde rechterlijke ambtenaren en de rechterlijke ambtenaren in opleiding.

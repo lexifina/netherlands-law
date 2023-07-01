@@ -1,2 +1,0 @@
-# Artikel VIII
-In afwijking van artikel 9a van het Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak hebben de in dat artikel genoemde personen, die voor de inwerkingtreding van dit besluit ongeschikt waren tot het verrichten van arbeid wegens ziekte, aanspraak op een onkostenvergoeding en een representatievergoeding gedurende het kalenderjaar waarin dit besluit in werking is getreden en het kalenderjaar daarop volgend.

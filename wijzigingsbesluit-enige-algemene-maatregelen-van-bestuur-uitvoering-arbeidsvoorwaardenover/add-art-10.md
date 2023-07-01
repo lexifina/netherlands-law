@@ -1,5 +1,0 @@
-# Artikel X
-1. Over het jaar 2000 wordt de eindejaarsuitkering, bedoeld in artikel 1 van het Besluit eindejaarsuitkering rechterlijke ambtenaren, zoals dat op 31 december 2001 luidde, verhoogd met 0,7% van het in dat jaar genoten salaris.
-2. Voor de in artikel 1 van het Besluit eindejaarsuitkering rechterlijke ambtenaren, zoals dat op 31 december 2001 luidde, bedoelde rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding, die zijn aangesteld voor het vervullen van een volledige taak, wordt de eindejaarsuitkering over het jaar 2000 verhoogd met een bedrag van f 206 bruto.
-3. Voor de in artikel 1 van het Besluit eindejaarsuitkering rechterlijke ambtenaren, zoals dat op 31 december 2001 luidde, bedoelde rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding, die zijn aangesteld voor het vervullen van minder dan een volledige taak, wordt de eindejaarsuitkering over het jaar 2000 verhoogd met een met hun werktijd overeenkomend deel van het in het tweede lid genoemde bedrag.
-4. De peildatum voor het vaststellen van de aanspraak op en de hoogte van de in dit artikel bedoelde verhogingen is 1 december 2000.
