@@ -1,3 +1,3 @@
 # Artikel 3a:86. Groepsafwikkeling
 1. De Nederlandsche Bank besluit tot afwikkeling van een groep indien door de verzekeraar en de moederonderneming van de verzekeraar wordt voldaan aan de voorwaarden bedoeld, in artikel 3A:85, eerste lid.
-2. De Nederlandsche Bank kan eveneens besluiten tot afwikkeling van de groep indien de verzekeraar in een groep voldoet aan de voorwaarden, bedoeld in 3A:85, eerste lid, en het falen van die verzekeraar een bedreiging vormt voor een andere verzekeraar in de groep of de groep als geheel, terwijl door de moederonderneming niet wordt voldaan aan die voorwaarden.
+2. De Nederlandsche Bank kan eveneens besluiten tot afwikkeling van de groep indien de verzekeraar in een groep voldoet aan de voorwaarden, bedoeld in artikel 3A:85, eerste lid, en het falen van die verzekeraar een bedreiging vormt voor een andere verzekeraar in de groep of de groep als geheel, terwijl door de moederonderneming niet wordt voldaan aan die voorwaarden.
