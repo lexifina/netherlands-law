@@ -1,0 +1,2 @@
+# Artikel IV. Wijziging van de wet van 4 juni 2015 tot wijziging van de Algemene Ouderdomswet, de Wet op de loonbelasting 1964, de Wet verhoging AOW- en pensioenrichtleeftijd, de Pensioenwet, de Wet verplichte beroepspensioenregeling en overige fiscale maatregelen 2013 in verband met de versnelling van de stapsgewijze verhoging van de AOW-leeftijd (Stb. 2015, 218)
+[Wijzigt de Wijzigingswet Algemene Ouderdomswet, enz. (versnelling stapsgewijze verhoging AOW-leeftijd).]
