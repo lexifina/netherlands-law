@@ -1,6 +1,6 @@
 # Inhoud
 ## Hoofdstuk 1. Algemeen
-## Hoofdstuk 2. Benoeming, plaatsing en beëdiging
+## Hoofdstuk 2. Benoeming en beëdiging
 ## Hoofdstuk 3. Salaris en andere financiële arbeidsvoorwaarden
 ## Hoofdstuk 3A. Beslag, terugvordering, verrekening en korting
 ## Hoofdstuk 6. Overige rechten en plichten
@@ -11,5 +11,4 @@
 ### § 6A.4. Ontslag en herplaatsing
 ### § 6A.5. Procedure bij de Hoge Raad
 ## Hoofdstuk 7. Beroep
-## Hoofdstuk 8. Overleg
 ## Hoofdstuk 9. Slotbepalingen

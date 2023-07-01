@@ -1,3 +1,0 @@
-# Artikel 5d
-1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de benoeming in vaste of tijdelijke dienst in een ambt als bedoeld in artikel 2, tweede tot en met zevende lid.
-2. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de benoeming in een ambt als bedoeld in artikel 2, achtste lid, waaronder in elk geval regels betreffende de benoeming in tijdelijke of vaste dienst, en worden regels gesteld met betrekking tot de aanwijzing van het gerecht of het parket waarbij een ambt als bedoeld in artikel 2, achtste lid, wordt vervuld.
