@@ -1,0 +1,3 @@
+# Artikel 3a.1. Keuring verwarmingssysteem
+1. De keuring van een ruimteverwarmingssysteem of gecombineerd ruimteverwarmings- en ventilatiesysteem met een nominaal vermogen van meer dan 70 kW wordt verricht door een bedrijf met een geldig certificaat dat is afgegeven door een instantie die door een accreditatie-instantie is geaccrediteerd om uitvoering te kunnen geven aan de Deelregeling voor stookinstallaties, die deel uitmaakt van de Certificatieregeling voor het kwaliteitsmanagementsysteem ten behoeve van het uitvoeren van onderhoud en inspectie aan technische installaties, van de stichting SCIOS.
+2. Het bedrijf en de opdrachtgever bewaren het keuringsverslag ten minste zes jaar.
