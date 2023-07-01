@@ -1,0 +1,5 @@
+# Artikel 55s
+1. Het hoger beroep wordt ingesteld bij beroepschrift. Bij het beroepschrift wordt overgelegd een afschrift van de schriftelijke beslissing van het tuchtcollege, waartegen het hoger beroep is gericht.
+2. De griffier van het College van Beroep voor het bedrijfsleven zendt binnen een week na ontvangst van het beroepschrift een afschrift daarvan aan de betrokken kapitein of scheepsofficier, aan Onze Minister en aan de klager, voor zover het hoger beroep niet door hen is ingesteld, alsmede aan het tuchtcollege, en indien het tuchtcollege in zijn uitspraak een schorsing van de vaarbevoegdheid heeft opgelegd, tevens ter registratie aan het Centraal register bemanningsgegevens.
+3. Het tuchtcollege zendt binnen drie weken na ontvangst van het afschrift van het beroepschrift alle stukken die op de zaak betrekking hebben aan de griffier van het College van Beroep voor het bedrijfsleven.
+4. Het College van Beroep voor het bedrijfsleven behandelt de zaak opnieuw in volle omvang. Op de behandeling in hoger beroep zijn de artikelen 55j, eerste, tweede en derde lid, 55l, 55m, en 55n tot en met 55q van overeenkomstige toepassing.

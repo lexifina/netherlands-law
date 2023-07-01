@@ -1,0 +1,6 @@
+# Artikel 22a
+1. Onze Minister erkent een vaarbevoegdheidsbewijs of een bekwaamheidsbewijs dat is afgegeven door of onder de verantwoordelijkheid van de bevoegde autoriteit van een andere lidstaat van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland. De vorige volzin is niet van toepassing op vaarbevoegdheidsbewijzen of bekwaamheidsbewijzen voor het dienstdoen op vissersvaartuigen.
+2. Aan de houder van een vaarbevoegdheidsbewijs of een bekwaamheidsbewijs als bedoeld in het eerste lid, wordt, indien hij ook overigens voldoet aan de eisen gesteld ingevolge artikel 19, eerste lid, aanhef en onderdeel a, ten 1°, ten 2° en ten 3°, en hij dienst gaat doen op een Nederlands schip, een vaarbevoegdheidsbewijs afgegeven.
+3. Een ingevolge het tweede lid afgegeven vaarbevoegdheidsbewijs is beperkt tot de in het oorspronkelijke bewijs omschreven functies, taken en verantwoordelijkheidsniveaus en bevat een officiële verklaring dat het bewijs is afgegeven op grond van een erkend vaarbevoegdheidsbewijs.
+4. Bij ministeriële regeling wordt bepaald welke bescheiden worden overgelegd bij de aanvraag van een vaarbevoegdheidsbewijs.
+5. Het tweede lid is niet van toepassing op gezellen.

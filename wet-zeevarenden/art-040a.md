@@ -1,0 +1,2 @@
+# Artikel 40a
+Een geneeskundige verklaring waaruit blijkt dat een bemanningslid is gekeurd en medisch geschikt bevonden voor de zeevaart door een geneeskundige of medisch specialist die door de bevoegde autoriteit van een andere lidstaat van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland daartoe is aangewezen, wordt gelijkgesteld met een geneeskundige verklaring als bedoeld in artikel 40, eerste of tweede lid.

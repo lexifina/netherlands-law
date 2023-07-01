@@ -1,0 +1,7 @@
+# Artikel 69c
+1. De scheepsbeheerder draagt er zorg voor dat aan boord van het schip afschriften aanwezig zijn van de door de desbetreffende zeevarende en zijn werkgever ondertekende arbeidsovereenkomst, de toepasselijke collectieve arbeidsovereenkomst en informatie over andere op die arbeidsovereenkomst van toepassing zijnde arbeidsvoorwaarden en certificaten van verzekeringen als bedoeld in artikel 48c, eerste lid, onderdelen n en o.
+2. Het eerste lid is van overeenkomstige toepassing op iedere andere overeenkomst op basis waarvan de zeevarende aan boord werkzaam is.
+3. De scheepsbeheerder draagt er zorg voor dat aan boord van het schip op een duidelijk zichtbare en voor de bemanning toegankelijke plaats een afschrift aanwezig is van het certificaat maritieme arbeid en de verklaring naleving maritieme arbeid.
+4. De scheepsbeheerder draagt er zorg voor dat aan boord van het schip een exemplaar van de geldende tekst van het Maritiem Arbeidsverdrag aanwezig is.
+5. Alle in het eerste tot en met het vierde lid bedoelde documenten en de resultaten van onderzoeken als bedoeld in artikel 48c, derde lid, onderdeel a, zijn beschikbaar in het Nederlands of indien het originele document in een andere taal is opgesteld, in de desbetreffende taal, en het Engels en eenvoudig toegankelijk voor de zeevarenden. Indien het schip geen internationale reizen maakt, is geen Engelse vertaling vereist van de documenten die in het Nederlands beschikbaar zijn.
+6. Het bepaalde bij of krachtens dit artikel is niet van toepassing op vissersvaartuigen.

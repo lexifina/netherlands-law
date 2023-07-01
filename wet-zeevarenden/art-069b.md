@@ -1,0 +1,4 @@
+# Artikel 69b
+1. Elke zeevarende aan boord van een Nederlands schip kan een klacht betreffende de vermoedelijke schending van het Maritiem Arbeidsverdrag of een klacht betreffende een vermeend onrechtmatig bevel van de kapitein melden bij een daartoe aangewezen ambtenaar van de Inspectie Leefomgeving en Transport.
+2. Bij ministeriële regeling worden regels gesteld over de wijze waarop de in het eerste lid bedoelde klachten worden behandeld.
+3. Het eerste en tweede lid zijn van overeenkomstige toepassing op klachten betreffende een vermoedelijke schending van het Verdrag betreffende werk in de visserijsector met dien verstande dat een klacht kan worden ingediend door een visser, een vereniging van beroepsbeoefenaren of een andere belangenvereniging, een vakbond of, in het algemeen, door eenieder die belang heeft bij de veiligheid van het vaartuig of de gezondheid van vissers aan boord.
