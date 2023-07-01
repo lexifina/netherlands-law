@@ -1,0 +1,2 @@
+# Artikel XI
+Degene die op het tijdstip van inwerkingtreding van artikel I, onderdeel W, reeds houder is van een verklaring van geen bezwaar in de zin van artikel 3:95, eerste lid, van de Wet op het financieel toezicht, wordt vermoed te voldoen aan de in artikel 3:99a van die wet opgenomen geschiktheidseis, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling.
