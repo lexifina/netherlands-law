@@ -1,0 +1,2 @@
+# Artikel 167k
+Een winningsvergunning aardwarmte afgegeven na 1 januari 2020 waarvoor een instemming met een winningsplan aardwarmte is verleend, wordt met inbegrip van de instemming met het winningsplan en de daaraan verbonden voorwaarden en beperkingen met ingang van de datum van inwerkingtreding van hoofdstuk 2a beschouwd als een startvergunning aardwarmte. De resterende looptijd van de winningsvergunning aardwarmte of, indien dat korter is, de resterende looptijd van de instemming met het winningsplan, wordt geacht de looptijd van de startvergunning aardwarmte te zijn.

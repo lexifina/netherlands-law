@@ -1,0 +1,3 @@
+# Artikel 24c
+1. Dit hoofdstuk, met uitzondering van artikel 24b, is niet van toepassing op het opsporen of het winnen van aardwarmte in het kader van het verkrijgen van gegevens voor zuiver wetenschappelijk onderzoek of voor het door de centrale overheid te voeren beleid. Bij het nemen van een besluit omtrent een vergunning voor deze activiteiten sluit Onze Minister aan bij de bepalingen van dit hoofdstuk, voor zover dit met het bijzondere karakter van de vergunning te verenigen is.
+2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over het nemen van een besluit omtrent een vergunning, bedoeld in het eerste lid.

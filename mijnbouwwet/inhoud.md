@@ -1,11 +1,16 @@
 # Inhoud
 ## Hoofdstuk 1. Definities en algemene bepalingen
-## Hoofdstuk 2. Vergunningen voor opsporen en winnen van delfstoffen en aardwarmte
+## Hoofdstuk 2. Vergunningen voor opsporen en winnen van delfstoffen
 ### § 2.1. Algemene bepalingen
 ### § 2.2. Beperkingen en voorschriften
 ### § 2.3. Procedure
 ### § 2.4. Wijziging, overgang en intrekking
 ### § 2.5. Bijzondere bepalingen
+## Hoofdstuk 2a. Toewijzing zoekgebied aardwarmte, startvergunning aardwarmte en vervolgvergunning aardwarmte
+### Paragraaf 1. Algemeen
+### Paragraaf 2. Toewijzing zoekgebied aardwarmte
+### Paragraaf 3. Startvergunning aardwarmte
+### Paragraaf 4. Vervolgvergunning aardwarmte
 ## Hoofdstuk 3. Vergunningen voor het opslaan van stoffen en voor het opsporen van CO2-opslagcomplexen
 ### § 3.1. Algemene bepalingen
 ### § 3.2. Aanvullende bepalingen omtrent het permanent opslaan van CO2
@@ -28,12 +33,12 @@
 #### § 5.1.1.4. Winstaandeel
 #### § 5.1.1.5. Heffing en invordering
 ### Afdeling 5.1.2. Afdrachten aan de provincie
-### Afdeling 5.2. Deelneming in opsporing en winning van koolwaterstoffen en andere taken en activiteiten van de aangewezen vennootschap
+### Afdeling 5.2. Deelneming in opsporing en winning van koolwaterstoffen of aardwarmte en andere taken en activiteiten van de aangewezen vennootschap
 #### § 5.2.1. Algemeen
 #### § 5.2.2. Deelneming in opsporingswerkzaamheden
 #### § 5.2.3. Deelneming in mijnbouwwerkzaamheden
 #### § 5.2.4. Financiële zekerheid verwijderen of hergebruiken mijnbouwwerken
-### Afdeling 5.3. Afdrachten in verband met andere vergunningen dan die tot het opsporen en het winnen van koolwaterstoffen
+### Afdeling 5.3. Afdrachten in verband met andere vergunningen dan die tot het opsporen en het winnen van koolwaterstoffen of aardwarmte
 ### Afdeling 5.4. Het stellen van zekerheid
 ### Afdeling 5.5. Uitvoeringsregels
 ### Afdeling 5.6. Wetenschappelijk onderzoek

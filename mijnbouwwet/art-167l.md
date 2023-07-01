@@ -1,0 +1,2 @@
+# Artikel 167l
+Een aanvraag voor het nemen van een besluit omtrent een vergunning voor het opsporen of winnen van aardwarmte in het kader van het verkrijgen van gegevens voor zuiver wetenschappelijk onderzoek of voor het door de centrale overheid te voeren beleid als bedoeld in artikel 24, wordt met ingang van de datum van inwerkingtreding van hoofdstuk 2a beschouwd als een aanvraag voor het nemen van een besluit omtrent een vergunning als bedoeld in artikel 24c.
