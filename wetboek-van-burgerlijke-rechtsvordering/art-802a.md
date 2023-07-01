@@ -1,0 +1,2 @@
+# Artikel 802a
+In alle zaken betreffende een verzoek tot verlening van een machtiging als bedoeld in paragraaf 6.1 van de Jeugdwet, een verzoek op grond van Afdeling 4 van Titel 14 van Boek 1 of betreffende een voorziening in het gezag als bedoeld in artikel 241 van Boek 1 van het Burgerlijk Wetboek kan de rechter bepalen dat de zitting wordt gehouden in de gesloten accommodatie, bedoeld in de Jeugdwet, waarin de jeugdige verblijft.
