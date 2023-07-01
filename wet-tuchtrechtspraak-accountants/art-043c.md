@@ -1,0 +1,6 @@
+# Artikel 43c
+1. Als het hoger beroep kennelijk niet-ontvankelijk of kennelijk ongegrond is, kan het College of de president zonder nader onderzoek door het College uitspraak doen. De uitspraak wordt onverwijld aan betrokkene, de klager, de accountantskamer, de Autoriteit Financiële Markten en de beroepsorganisatie gezonden.
+2. Tegen de uitspraak, bedoeld in het eerste lid, kan betrokkene dan wel de klager of, indien de beroepsorganisatie partij is in het hoger beroep, de beroepsorganisatie binnen zes weken na de dag van verzending van de uitspraak verzet doen bij het College. Artikel 43a is van overeenkomstige toepassing.
+3. Het College verklaart het verzet niet-ontvankelijk, ongegrond of gegrond. Indien het verzet gegrond wordt verklaard, vervalt de uitspraak en wordt de behandeling van de zaak voortgezet. De laatste zin van het eerste lid is van toepassing.
+4. Als het hoger beroep kennelijk niet-ontvankelijk of ongegrond is, kan het College het verzet niet-ontvankelijk of ongegrond verklaren, echter niet dan na betrokkene dan wel de klager of, indien de beroepsorganisatie partij is in het hoger beroep, de beroepsorganisatie in de gelegenheid te hebben gesteld te worden gehoord.
+5. De uitspraak op het verzet wordt onverwijld aan betrokkene, de klager, de accountantskamer, de Autoriteit Financiële Markten en de beroepsorganisatie gezonden.
