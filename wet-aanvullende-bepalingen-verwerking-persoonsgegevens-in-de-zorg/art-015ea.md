@@ -1,0 +1,3 @@
+# Artikel 15ea
+1. In dit artikel wordt onder persoonlijke gezondheidsomgeving verstaan: een persoonlijke gezondheidsomgeving als bedoeld in artikel 1.1 van de Wet elektronische gegevensuitwisseling in de zorg.
+2. Een zorgaanbieder ziet er op toe dat op verzoek van de cliënt de onder hem ressorterende zorgverlener de relevante gegevens over de cliënt deelt met een persoonlijke gezondheidsomgeving, als de persoonlijke gezondheidsomgeving waar de cliënt gebruik van maakt, aantoonbaar voldoet aan de eisen die bij of krachtens artikel 1.4, zesde lid, van de Wet elektronische gegevensuitwisseling in de zorg zijn gesteld.
