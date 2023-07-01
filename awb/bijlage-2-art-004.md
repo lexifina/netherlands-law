@@ -35,7 +35,7 @@ Postwet 2009: hoofdstuk 3A en artikel 58
 Prijzennoodwet
 Prijzenwet
 Scheepvaartverkeerswet: de artikelen 14a, tweede lid, eerste volzin, en 15ba, eerste lid
-Spoorwegwet: hoofdstuk 5, paragraaf 2, en artikel 71, tweede lid
+Spoorwegwet: artikel 63, tweede lid, hoofdstuk 5, paragraaf 2, en artikel 71, tweede lid
 Telecommunicatiewet, voor zover het betreft een besluit van de Autoriteit Consument en Markt, genomen op grond van:
 a. hoofdstuk 6, tenzij beroep kon worden ingesteld voor de inwerkingtreding van de Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002
 b. de hoofdstukken 5a, 5c, 6a, 6b en 12

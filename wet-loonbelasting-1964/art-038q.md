@@ -1,0 +1,6 @@
+# Artikel 38q
+1. Voor een pensioenregeling als bedoeld in artikel 18 zoals dat luidde op de dag voorafgaand aan het tijdstip van inwerkingtreding van de Wet toekomst pensioenen die na de dag voorafgaand aan het tijdstip van inwerkingtreding van de Wet toekomst pensioenen niet voldoet aan hoofdstuk IIB, blijven de artikelen 18 tot en met 18ga en 19f alsmede de daarop gebaseerde bepalingen, zoals die luidden op de dag voorafgaand aan het tijdstip van inwerkingtreding van de Wet toekomst pensioenen, van toepassing.
+2. Bij de toepassing van het eerste lid wordt voor:
+a. het aantal deelnemingsjaren, bedoeld in de artikelen 18, tweede lid, onderdeel a, en 18e, eerste lid, onderdeel c zoals deze artikelen luidden op de dag voorafgaand aan het tijdstip van inwerkingtreding van de Wet toekomst pensioenen gelezen: 42 deelnemingsjaren;
+b. de leeftijd, bedoeld in artikel 18e, eerste lid, onderdeel b, tweede lid en derde lid zoals dit luidde op de dag voorafgaand aan het tijdstip van inwerkingtreding van de Wet toekomst pensioenen: 65-jarige leeftijd;
+c. de leeftijd, bedoeld in artikel 18e, vijfde lid, zoals dit luidde op de dag voorafgaand aan het tijdstip van inwerkingtreding van de Wet toekomst pensioenen gelezen: 67-jarige leeftijd.

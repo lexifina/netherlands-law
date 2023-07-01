@@ -40,6 +40,7 @@ Mijnbouwwet: de artikelen 141a, derde lid, 141b, derde lid, en 141c, tweede en d
 Onteigeningswet
 Ontgrondingenwet: mededeling als bedoeld in artikel 10, tweede en derde lid
 Participatiewet: de artikelen 52 en 81 en paragraaf 6.5
+Pensioenwet: de artikelen 150m, tweede lid, 150oa, eerste lid, en 150q, tweede lid, voor zover het beroep niet wordt ingesteld door het pensioenfonds
 Politiewet 2012: de artikelen 18, 20, 34, 35, 36, eerste lid, 37, eerste lid, 39, derde en vijfde lid, en 52
 Provinciewet:
 a. artikel 49
@@ -53,6 +54,9 @@ Richtlijn 2008/50/EG van het Europees Parlement en de Raad van 21 mei 2008 betre
 Rijkswet Onderzoeksraad voor veiligheid, met uitzondering van beslissingen ten aanzien van de algemeen secretaris en de medewerkers van het bureau
 Telecommunicatiewet: de artikelen 3.5, 3.5a, 3.5b, 3.22 en 18.9, eerste en tweede lid
 Tijdelijke experimentenwet nieuwe stembiljetten: de artikelen 2 en 4
+Tijdelijke wet Groningen:
+a. artikel 13e, eerste lid
+b. artikel 13g, eerste lid
 Tracéwet: de artikelen 2, eerste lid, 4, eerste lid, onderdeel c, en 23, eerste lid
 Uitleveringswet
 Uitvoeringswet huurprijzen woonruimte: de artikelen 7, tweede, derde, vijfde, achtste en negende lid, en 7a, derde lid
@@ -125,6 +129,7 @@ Wet tijdelijke tolheffing Blankenburgverbinding en ViA15: de artikelen 4, eerste
 Wet toezicht financiële verslaggeving: de artikelen 2, eerste lid, 3, eerste en tweede lid, 4, 9, 12 en 30
 Wet van 18 december 2008 tot wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens) (Stb. 2008, 561): artikel X
 Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen: artikel 30, tweede lid
+Wet verplichte beroepspensioenregeling: de artikelen 145l, tweede lid, 145na, eerste lid, en 145p, tweede lid, voor zover het beroep niet wordt ingesteld door het beroepspensioenfonds
 Wet verplichte geestelijke gezondheidszorg, met uitzondering van de artikelen 5:2 en 13:4
 Wet vervoer gevaarlijke stoffen: de artikelen 13, eerste lid, en 14, eerste, tweede en vierde lid
 Wet voortgezet onderwijs 2020: artikel 5.23, vierde lid, zolang de gemeenteraad de aanvulling nog niet heeft bekrachtigd

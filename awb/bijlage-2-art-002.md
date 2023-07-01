@@ -47,6 +47,10 @@ a. een plan als bedoeld in artikel 6, vijfde lid
 b. de artikelen 7, eerste lid, 9, eerste lid, en 15, tweede lid, onder c
 Tijdelijke experimentenwet nieuwe stembiljetten: de artikelen 5 tot en met 10
 Tijdelijke wet aanwijzing bèta-opleidingen: artikel 2, eerste lid
+Tijdelijke wet Groningen:
+a. artikel 13i, tweede en zesde lid
+b. artikel 13j, eerste lid
+c. artikel 13k, eerste en derde lid
 Tracéwet: de artikelen 9, eerste lid, 20, tweede lid, en 21, tweede lid, onder c
 Uitvoeringsverordening (EU) 2018/2066 van de Commissie van 19 december 2018 inzake de monitoring en rapportage van de emissies van broeikasgassen overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad (PbEU 2018, L 334): voor zover het besluiten betreft van de Nederlandse emissieautoriteit, genoemd in artikel 2.1 van de Wet milieubeheer
 Uitvoeringsverordening (EU) 2018/2067 van de Commissie van 19 december 2018 inzake de verificatie van gegevens en de accreditatie van verificateurs krachtens Richtlijn 2003/87/EG van het Europees Parlement en de Raad (PbEU 2018, L 334): voor zover het besluiten betreft van de Nederlandse emissieautoriteit, genoemd in artikel 2.1 van de Wet milieubeheer

@@ -80,6 +80,7 @@
 ## Hoofdstuk 10. Aanvullende regelingen
 ### Afdeling 10.1. Indexering
 ### Afdeling 10.2. Overige aanvullende regelingen
+### Afdeling 10.3. Experiment pensioenregeling zelfstandigen
 ## Hoofdstuk 10bis. Overgangsrecht ten gevolge van Wet herziening fiscale behandeling eigen woning
 ## Hoofdstuk 10A. Overig overgangsrecht ten gevolge van wijzigingswetten
 ## Hoofdstuk 10b. Horizonbepaling

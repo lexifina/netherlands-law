@@ -1,0 +1,3 @@
+# Artikel 38t
+1. De premie, genoemd in artikel 18a, eerste en tiende lid, dan wel artikel 38r, eerste en vierde lid, is niet van toepassing op dienstjaren die uiterlijk op de dag voorafgaand aan het tijdstip van inwerkingtreding van de Wet toekomst pensioenen eindigen.
+2. Het eerste lid is van overeenkomstige toepassing op dienstjaren die na de dag voorafgaand aan het tijdstip van inwerkingtreding van de Wet toekomst pensioenen eindigen en waarvoor met toepassing van artikel 38q opbouw van pensioen heeft plaatsgevonden volgens de normeringen en begrenzingen uit de artikelen 18 tot en met 18ga en 19f alsmede de daarop gebaseerde bepalingen zoals deze luidden op de dag voorafgaand aan het tijdstip van inwerkingtreding van de Wet toekomst pensioenen.
