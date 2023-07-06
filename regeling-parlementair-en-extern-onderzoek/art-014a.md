@@ -1,0 +1,7 @@
+# Artikel 14a
+1. Een enquêtecommissie kan op basis van de artikelen 5 en 6 van de Wet op de parlementaire enquête 2008:
+a. schriftelijke inlichtingen vorderen;
+b. afschriften van documenten vorderen;
+c. inzage in documenten vorderen, of
+d. kennisneming van documenten vorderen.
+2. Voor de toepassing van de artikelen in dit hoofdstuk worden onder afschriften van documenten tevens schriftelijke inlichtingen begrepen.
