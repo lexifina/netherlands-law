@@ -1,0 +1,3 @@
+# Artikel 2a.1
+1. Voor het bijhouden van een registratie met betrekking tot het in werking hebben van een gesloten bodemenergiesysteem overeenkomstig artikel 3a.8, eerste lid, onder a, van het besluit worden tijdens de bedrijfsvoering van het systeem momentane metingen uitgevoerd met een nauwkeurigheid van ten minste 0,3°C en een frequentie van ten minste eenmaal per 15 minuten.
+2. Voor het bijhouden en registreren van gegevens met betrekking tot een gesloten bodemenergiesysteem overeenkomstig artikel 3a.8, eerste lid, onder b, van het besluit worden tijdens de bedrijfsvoering van het systeem momentane metingen uitgevoerd met een nauwkeurigheid van ten minste 5 % en een frequentie van ten minste eenmaal per 15 minuten.
