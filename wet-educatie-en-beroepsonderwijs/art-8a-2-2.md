@@ -10,14 +10,14 @@ c. de beroeps- en klachtenregelingen voor studenten en vavo-studenten;
 d. de hoogte en de besteding van de vrijwillige ouder- of studentbijdrage, alsmede de wijze waarop deze bijdrage tussen student of vavo-student en bevoegd gezag wordt overeengekomen;
 e. de wijze waarop informatie wordt gegeven over de inhoud, planning en organisatie van het onderwijs en de examens;
 f. de besteding van stagefondsen;
-g. de model-onderwijsovereenkomst;
+g. [vervallen;]
 h. de model-praktijkovereenkomst;
-i. het beleid met betrekking tot toelating, schorsing en verwijdering van studenten en vavo-studenten;
+i. [vervallen;]
 j. de wijze van vastleggen van studievorderingen van studenten en vavo-studenten en in dat verband het beleid met betrekking tot bescherming van de privacy van studenten en vavo-studenten;
 k. de regels op het gebied van veiligheid, gezondheid en welzijn voor zover deze de studenten en vavo-studenten betreffen;
 l. het reglement voor de studentenraad, met inachtneming van artikel 8a.3.1, derde lid;
-m. het onderwijsprogramma indien dit minder uren als bedoeld in artikel 7.2.7, derde of vierde lid, omvat;
-n. het beleid met betrekking tot het beperkt en beheersbaar houden van de middelen die van de studenten en vavo-studenten worden gevraagd voor schoolkosten die door het bevoegd gezag noodzakelijk worden bevonden;
+m. het onderwijsprogramma indien dit minder uren als bedoeld in artikel 7.2.7, derde of vierde lid, omvat.
+n. [vervallen;]
 o. het beleid bij de toepassing van artikel 8.1.5;
 p. het vaststellen of wijzigen van een examenreglement voor een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in artikel 2.60 van de Wet op het voortgezet onderwijs 2020;
 q. het vaststellen of wijzigen van een programma van toetsing en afsluiting voor een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in de artikelen 2.60a tot en met 2.60c van de Wet op het voortgezet onderwijs 2020.

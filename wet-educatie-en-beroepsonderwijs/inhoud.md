@@ -54,7 +54,11 @@
 ### Titel 4. Examens, onderwijsprogramma en studentenstatuut
 #### § 1. Beroepsopleidingen en opleidingen educatie, met uitzondering van opleidingen voortgezet algemeen volwassenenonderwijs en opleidingen Nederlands als tweede taal I en II
 #### § 2. Opleidingen voortgezet algemeen volwassenenonderwijs en opleidingen Nederlands als tweede taal I en II
-### Titel 5. Commissie van beroep voor de examens
+### Titel 5. Rechtsbescherming van studenten, vavo-studenten, extraneï en deelnemers
+#### Paragraaf 1. Toegankelijke faciliteit; klachten
+#### Paragraaf 2. Commissie van beroep voor de examens; geschillenadviescommissie
+#### Paragraaf 3. Beroep op de Afdeling bestuursrechtspraak van de Raad van State
+#### Paragraaf 4. Colleges van beroep bijzonder onderwijs
 ### Titel 7. Practicumplaatsen voor ho-studenten in opleiding
 ## Hoofdstuk 8. Aanmelding, inschrijving, mbo-studentenfonds, toelating, bindend studieadvies, vooropleidingseisen, voortijdig schoolverlaten, samenwerking
 ### Titel 0. Aanmelding
