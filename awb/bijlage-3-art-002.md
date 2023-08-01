@@ -45,6 +45,7 @@ Wet arbeidsongeschiktheidsverzekering zelfstandigen
 Wet buitengewoon pensioen 1940–1945
 Wet buitengewoon pensioen Indisch verzet
 Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers
+Wet educatie en beroepsonderwijs: artikel 7.5.9, eerste lid
 Wet financiering sociale verzekeringen, voor zover het betreft een besluit van de Sociale verzekeringsbank of het Uitvoeringsinstituut werknemersverzekeringen
 Wet gemeentelijke schuldhulpverlening
 Wet gevolgen brutering uitkeringsregelingen
