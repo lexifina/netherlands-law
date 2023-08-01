@@ -1,0 +1,6 @@
+# Artikel 5b. Aanvullende voorwaarden vmbo
+1. Een erkend leerbedrijf voor het vmbo moet voldoen aan de voorwaarden voor erkenning als leerbedrijf zoals vermeld in artikel 5 van de regeling erkenning leerbedrijven.
+2. Aanvullend gelden voor het erkend leerbedrijf de voorwaarden van artikel 10b6 van de Wet op het voortgezet onderwijs, waaronder in ieder geval de volgende voorwaarden:
+a. op de leerwerkplek kunnen door een onderwijsinstelling vastgestelde praktijkopdrachten worden uitgevoerd, waarbij elke praktijkopdracht als zodanig in één bedrijf of organisatie kan worden uitgevoerd. Het bedrijf of de organisatie is bereid om de vmbo-leerling de vereiste praktijkopdrachten te laten uitvoeren en het werk en het stageverslag te bespreken en te beoordelen;
+b. het productie- of dienstverleningsproces is technisch en organisatorisch voldoende gevarieerd en kan vmbo-leerlingen goed praktijkmateriaal bieden en hen gedegen opleiden; de leerwerkplek past binnen de dagelijkse bedrijfsvoering;
+c. Het bedrijf of de organisatie is geschikt voor de betrokken leeftijdsgroep, onder meer waar het gaat om de ruimte om te leren of fouten te maken, en de praktijkopleider kan de vmbo-leerling zowel werkinhoudelijk als pedagogisch-didactisch begeleiden.
