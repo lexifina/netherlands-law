@@ -1,0 +1,4 @@
+# Artikel 335a
+1. De artikelen 18, 71, 72, 181, 182 en 183 zijn niet van toepassing bij een grensoverschrijdende omzetting.
+2. Een ontbonden naamloze of besloten vennootschap mag niet grensoverschrijdend worden omgezet, indien reeds uit hoofde van de vereffening een uitkering is gedaan.
+3. De grensoverschrijdende omzetting van een naamloze of besloten vennootschap is uitgesloten gedurende faillissement of surséance van betaling. De grensoverschrijdende omzetting van een kapitaalvennootschap naar het recht van een andere lidstaat van de Europese Unie of de Europese Economische Ruimte in een naamloze of besloten vennootschap is uitgesloten wanneer deze kapitaalvennootschap naar het recht van de andere lidstaat zich bevindt in een insolventieprocedure in de zin van de verordening (EU) 2015/848 van het Europees Parlement en de Raad van 20 mei 2015 betreffende insolventieprocedures (PbEU 2015, L 141).

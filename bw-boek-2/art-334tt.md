@@ -1,0 +1,2 @@
+# Artikel 334tt
+In afwijking van artikel 334t lid 2 is voor ondeelbare verbintenissen van de gesplitste vennootschap de verkrijgende vennootschap waarop de verbintenis is overgegaan of, zo de verbintenis niet op een verkrijgende vennootschap is overgegaan, de voortbestaande gesplitste vennootschap voor het geheel aansprakelijk. De aansprakelijkheid voor ondeelbare verbintenissen van de gesplitste vennootschap is voor elke andere vennootschap beperkt tot de waarde van het vermogen dat zij bij de splitsing heeft verkregen of behouden.

@@ -30,6 +30,8 @@
 #### Afdeling 3A. Bijzondere bepalingen voor grensoverschrijdende fusies
 #### Afdeling 4. Algemene bepalingen omtrent splitsingen
 #### Afdeling 5. Bijzondere bepalingen voor splitsingen waarbij een naamloze of besloten vennootschap wordt gesplitst of wordt opgericht
+#### Afdeling 6. Bijzondere bepalingen voor grensoverschrijdende splitsingen
+### Titel 7a. Bijzondere bepalingen voor grensoverschrijdende omzettingen
 ### Titel 8. Geschillenregeling en het recht van enquête
 #### Afdeling 1. Geschillenregeling
 #### Afdeling 2. Het recht van enquête

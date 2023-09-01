@@ -5,4 +5,5 @@
 a. de verkrijgende rechtspersonen bij de splitsing opgerichte naamloze of besloten vennootschappen zijn en de splitsende rechtspersoon daarvan bij de splitsing alle aandelen verkrijgt;
 b. ten aanzien van verkrijgende vennootschappen artikel 334cc of artikel 334ii wordt toegepast;
 c. krachtens de ruilverhouding van de aandelen zelfs geen recht bestaat op een enkel aandeel;
-d. artikel 334ee1 van toepassing is.
+d. artikel 334ee1 van toepassing is;
+e. artikel 334qq lid 1 van toepassing is.

@@ -1,0 +1,4 @@
+# Artikel 334jj
+1. Deze afdeling is van toepassing indien bij splitsing van een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid een of meer kapitaalvennootschappen worden opgericht naar het recht van een andere lidstaat van de Europese Unie of de Europese Economische Ruimte of indien een of meer naamloze vennootschappen of besloten vennootschappen met beperkte aansprakelijkheid als verkrijgende vennootschappen worden opgericht bij splitsing van een kapitaalvennootschap naar het recht van een andere lidstaat van de Europese Unie of de Europese Economische Ruimte.
+2. Deze afdeling is niet van toepassing op een vennootschap die een icbe is als bedoeld in de Wet op het financieel toezicht.
+3. Deze afdeling is niet van toepassing bij een splitsing naar bestaande vennootschappen.

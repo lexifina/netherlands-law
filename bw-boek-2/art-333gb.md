@@ -1,0 +1,3 @@
+# Artikel 333gb
+1. In afwijking van artikel 330 lid 1, eerste zin, is voor het besluit tot fusie van de algemene vergadering een meerderheid van ten minste twee derden vereist van de uitgebrachte stemmen.
+2. In het geval uit het bepaalde in de leden 3 en 4 van artikel 317 voortvloeit dat de vereiste meerderheid voor het besluit tot fusie meer bedraagt dan 90% van de uitgebrachte stemmen of vereist wordt dat in de vergadering meer dan 90% van het geplaatste kapitaal is vertegenwoordigd, wordt het besluit tot fusie genomen met 90% van de uitgebrachte stemmen of in een vergadering waar 90% van het geplaatste kapitaal is vertegenwoordigd.
