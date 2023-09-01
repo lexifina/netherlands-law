@@ -139,4 +139,5 @@
 ### Titel 17. Wet accreditatie op maat
 ### Titel 19. Variawet hoger onderwijs
 ### Titel 20. Wet van [datum] (Stb. ...)
+### Titel 21. Wet van (datum) (Stb. ...) [3 juni 2023 (Stb. 2023/192)]
 ## Hoofdstuk 19. Slotbepalingen
