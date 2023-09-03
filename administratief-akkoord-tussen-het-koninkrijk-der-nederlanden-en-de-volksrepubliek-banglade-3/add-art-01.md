@@ -1,0 +1,4 @@
+# Article I. (The Project)
+1. The two Parties shall jointly carry out a Project, entitled "Char Development and Settlement Project – Bridging (Additional Financing)", hereinafter referred to as "the Project".
+2. The aim of the Project is the preparation of future Char Development and Settlement Programmes, the development of permanent institutional framework for such programmes and the planning, execution, supervision and monitoring of activities in the field of water management, rural infrastructure, institutional development, land-settlement, agricultural value chains, social development and gender-inclusivity.
+3. The aforesaid co-operation between the two Parties is planned to last from 1 July 2019 to 30 June 2024, or shall expire on the date on which the Project has been completed in conformity with the provisions of the Administrative Arrangement and of the DPPs of the Project, whichever date is the later.

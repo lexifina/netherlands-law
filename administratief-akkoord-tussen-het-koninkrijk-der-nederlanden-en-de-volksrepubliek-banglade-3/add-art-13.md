@@ -1,0 +1,2 @@
+# Article XIII. (Entry into force and duration)
+This Administrative Arrangement shall enter into force on the day of signature by both Parties with retrospective effect to 1 July 2019, and shall expire at the end of the period mentioned in Article I, paragraph 3, of this Administrative Arrangement or on the date on which the Project has been completed in conformity with the provisions of this Administrative Arrangement and of the DPPs of the Project, whichever date is the later.
