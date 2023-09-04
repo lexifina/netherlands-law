@@ -1,0 +1,3 @@
+# Artikel II
+1. Scholingen die op de dag van inwerkingtreding van deze regeling geen scholing zijn als bedoeld in artikel 1 van de Subsidieregeling STAP-budget, worden met ingang van de dag van inwerkingtreding van deze regeling uitgesloten in het scholingsregister, genoemd in artikel 21 van de Subsidieregeling STAP-budget.
+2. Keurmerken en erkenningen die zijn toegelaten tot het scholingsregister op grond van artikel 23a van de Subsidieregeling STAP-budget, zoals dit artikel luidde voorafgaande aan de datum van inwerkingtreding van deze regeling, worden met ingang van de datum van inwerkingtreding van deze regeling deze toelating ontzegd.
