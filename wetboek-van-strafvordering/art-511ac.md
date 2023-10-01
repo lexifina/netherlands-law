@@ -1,0 +1,2 @@
+# Artikel 511ac
+Met een ambtenaar aan wie bij of krachtens artikel 7, eerste, achtste of negende lid, van de Politiewet 2012 of artikel 6, eerste lid, van de Wet op de bijzondere opsporingsdiensten de bevoegdheid geweld te gebruiken is toegekend, wordt ten aanzien van artikel 511a gelijkgesteld een persoon in de openbare dienst van een vreemde staat die in Nederland op door het volkenrecht toegelaten wijze zijn bediening uitoefent en aan wie de bevoegdheid geweld te gebruiken is toegekend.

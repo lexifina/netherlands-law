@@ -1,2 +1,4 @@
 # Artikel 90novies
-Onder geweldsinstructie wordt verstaan de bij of krachtens de Politiewet 2012 en de Wet op de bijzondere opsporingsdiensten gegeven algemeen verbindende voorschriften die tot de ambtenaar gerichte instructies bevatten omtrent het gebruik van geweld.
+1. Onder geweldsinstructie wordt verstaan de bij of krachtens de Politiewet 2012 en de Wet op de bijzondere opsporingsdiensten gegeven algemeen verbindende voorschriften die tot de ambtenaar gerichte instructies bevatten omtrent het gebruik van geweld.
+2. Met het eerste lid worden gelijkgesteld de voorschriften die tot de ambtenaar gerichte instructies bevatten omtrent het gebruik van geweld die gelden in het land waarin de ambtenaar op dat moment op door het volkenrecht toegelaten wijze zijn bediening uitoefent.
+3. Met het eerste lid worden gelijkgesteld de algemeen verbindende voorschriften die tot de persoon in de openbare dienst van een vreemde staat, die in Nederland op door het volkenrecht toegelaten wijze zijn bediening uitoefent, gerichte instructies bevatten omtrent het gebruik van geweld.
