@@ -1,0 +1,2 @@
+# Artikel 9b. Inzet uitkeerde middelen buiten het stedelijk focusgebied
+In afwijking van de artikelen 4, eerste lid, 5, eerste lid, 6, eerste lid en 9, eerste lid, kunnen de uitgekeerde middelen tevens worden besteed aan in die artikelen beschreven activiteiten die buiten het stedelijk focusgebied worden uitgevoerd indien deze activiteiten hoofdzakelijk ten goede komen aan de inwoners van het stedelijk focusgebied.
