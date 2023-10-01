@@ -1,0 +1,2 @@
+# Artikel 1a
+Aanvullend op de vergoeding per minuut dat via de bemiddelingsdienst een gesprek als bedoeld in artikel 1.1, onderdeel k, van het Besluit universele dienstverlening en eindgebruikersbelangen wordt gevoerd, wordt aan de aanbieder die is aangewezen als verzorger van de bemiddelingsdienst na afloop van ieder kalenderjaar waarin de bemiddelingsdienst wordt verzorgd een van het gebruik onafhankelijk bedrag van € 1.025.000 per jaar vergoed.
