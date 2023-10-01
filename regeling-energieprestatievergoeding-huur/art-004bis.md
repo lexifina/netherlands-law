@@ -1,3 +1,0 @@
-# Artikel 4bis
-1. In afwijking van de in artikel 2, eerste lid, van het besluit bedoelde systematiek kan voor woonruimte die aangesloten is op een warmtenet en waarbij de warmte niet volledig duurzaam is of de warmte niet volledig op de woning wordt opgewekt, een energieprestatievergoeding worden overeengekomen met inachtneming van de in de tabel in bijlage II vervatte systematiek en de daarbij gegeven toelichting.
-2. In de gevallen, bedoeld in het eerste lid, bedraagt de energieprestatievergoeding ten hoogste het bedrag genoemd bij de netto warmtevraag van de woonruimte in de tabel in bijlage II.
