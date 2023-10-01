@@ -1,0 +1,4 @@
+# Artikel 8h
+1. De Sociale verzekeringsbank verstrekt desgevraagd aan Onze Minister kosteloos de voor de uitoefening van zijn taak in verband met deze wet benodigde inlichtingen. Onze Minister kan toegang vorderen tot en inzage vorderen in gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak in verband met deze wet redelijkerwijs nodig is en voor zover deze gegevens en bescheiden niet herleidbaar zijn tot gegevens en bescheiden over individuele personen.
+2. Onze Minister stelt regels omtrent de inlichtingen, de gegevens en de bescheiden, bedoeld in het eerste lid, en omtrent de verstrekking ervan.
+3. Onze Minister is bevoegd de door de Sociale verzekeringsbank verstrekte inlichtingen en de informatie verkregen uit de inzage in gegevens en bescheiden, bedoeld in het eerste lid, te gebruiken, te bewerken en aan derden te verstrekken, voorzover deze niet tot gegevens van en inlichtingen over individuele personen herleidbaar zijn.
