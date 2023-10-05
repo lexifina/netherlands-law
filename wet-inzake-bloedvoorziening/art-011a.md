@@ -1,0 +1,6 @@
+# Artikel 11a
+1. Onze Minister van Defensie is bevoegd om bloedproducten en tussenproducten afgeleverd te krijgen, te bewaren, te verpakken, te etiketteren en te vervoeren ten behoeve van de militaire bloedvoorziening en ten behoeve van wetenschappelijk onderzoek in dat kader, alsmede bloedproducten en tussenproducten te bewerken ten behoeve van dit onderzoek.
+2. Onze Minister van Defensie is bevoegd om bloedproducten te bewerken tot tussenproducten met als doel deze producten te conserveren. Onze Minister van Defensie is tevens bevoegd om deze tussenproducten te bewerken tot bloedproducten.
+3. Onze Minister van Defensie is bevoegd om producten uit Nederland uit te voeren als deze bestemd zijn om gebruikt te worden in de militaire bloedvoorziening. Onze Minster van Defensie is tevens bevoegd om de eerder uitgevoerde producten in te voeren in Nederland.
+4. Onze Minister van Defensie is bevoegd om na voorafgaande toestemming van Onze Minister, bloedproducten of tussenproducten afgeleverd te krijgen van anderen dan de Bloedvoorzieningsorganisatie.
+5. Onze Minister van Defensie neemt bij het uitoefenen van de taken, bedoeld in dit artikel, de bij ministeriële regeling gestelde regels, ter uitvoering van besluiten van instellingen van de Europese Unie en andere besluiten van volkenrechtelijke organisaties, in acht.

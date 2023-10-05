@@ -1,0 +1,4 @@
+# Artikel 3d
+1. Met uitzondering van de situaties bedoeld in artikel 14 brengt de Bloedvoorzieningsorganisatie indien zij economische activiteiten verricht ten behoeve van andere rechtspersonen, die rechtspersonen ten minste de integrale kosten van dat product of die dienst in rekening.
+2. Artikel 25i, derde lid, van de Mededingingswet is van overeenkomstige toepassing alsmede de regels die krachtens artikel 25m, eerste lid, van de Mededingingswet zijn gesteld inzake de toepassing van artikel 25i van de Mededingingswet.
+3. De Bloedvoorzieningsorganisatie gebruikt de gegevens die zij heeft verkregen bij de uitvoering van de taken, bedoeld in artikel 3, eerste lid, alleen voor andere activiteiten dan bedoeld in artikel 3, eerste lid, indien deze gegevens onder dezelfde voorwaarden aan vergelijkbare categorieën derden beschikbaar kunnen worden gesteld.

@@ -1,0 +1,3 @@
+# Artikel 3c
+1. Onze Minister kan vanwege bijzondere omstandigheden in het belang van een doelmatige bloedvoorziening dan wel met oog op een algemeen belang dat buiten de bloedvoorziening ligt, op aanvraag van de Bloedvoorzieningsorganisatie met betrekking tot een andere activiteit dan de in artikel 3, eerste lid, bedoelde, ontheffing verlenen van de regels gesteld krachtens artikel 3, vierde lid. Aan de ontheffing kunnen voorwaarden worden verbonden.
+2. Onze Minister beslist binnen drie maanden op de aanvraag, bedoeld in het eerste lid. Van de beschikking wordt mededeling gedaan in de Staatscourant.
