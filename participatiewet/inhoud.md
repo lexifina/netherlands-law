@@ -31,4 +31,5 @@
 ### § 7.2. Aanwijzingsbevoegdheid en gemeentelijke toezichthouders
 ### § 7.3. Informatie
 ## Hoofdstuk 7a. Overgangsrecht
+## Hoofdstuk 7b. Tegemoetkoming door onze minister in verband met hoge energiekosten
 ## Hoofdstuk 8. Slotbepalingen
