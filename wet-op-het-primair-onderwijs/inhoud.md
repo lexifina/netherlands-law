@@ -41,6 +41,13 @@
 ##### § 2. Tijdelijke onderwijsvoorzieningen bij massale toestroom van ontheemden
 #### Afdeling 13. Overige bepalingen
 ## Hoofdstuk II. Andere vormen van basisonderwijs
+### Afdeling 1. Scholen voor kinderen trekkende bevolking
+### Afdeling 2. Nieuwkomersonderwijs
+#### § 1. Begripsbepalingen
+#### § 2. Garantiefunctie gemeenten nieuwkomersonderwijs
+#### § 3. Besluit minister en taak gemeente bij onvoldoende onderwijsplaatsen
+#### § 4. Tijdelijke nieuwkomersvoorzieningen
+#### § 5. Horizonbepaling tijdelijke nieuwkomersvoorzieningen
 ## Hoofdstuk III. Evaluatie
 ## Hoofdstuk IV. Overgangsbepalingen
 ## Hoofdstuk V. Slotbepalingen

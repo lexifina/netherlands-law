@@ -1,0 +1,7 @@
+# Artikel 193d. Verzoek inrichting tijdelijke nieuwkomersvoorziening
+1. Onze Minister kan op verzoek van het college van burgemeester en wethouders toestemming verlenen voor de inrichting van een tijdelijke nieuwkomersvoorziening door de bevoegde gezagen van de scholen in de gemeente.
+2. De toestemming wordt alleen verleend indien aannemelijk is dat:
+a. in de gemeente niet voor iedere nieuwkomer in basisonderwijs kan worden voorzien; of
+b. door de inrichting van een tijdelijke nieuwkomersvoorziening op doelmatigere wijze kan worden voorzien in het onderwijs aan nieuwkomers in een aangrenzende gemeente.
+3. De toestemming vervalt indien niet binnen acht weken melding is gemaakt van de inrichting van een tijdelijke nieuwkomersvoorziening.
+4. Onze Minister verbindt een termijn aan het bestaan van de tijdelijke nieuwkomersvoorziening. Onze Minister kan deze termijn verlengen. Het tweede lid is van overeenkomstige toepassing op het besluit tot verlenging.

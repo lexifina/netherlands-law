@@ -1,0 +1,4 @@
+# Artikel 193m. Horizonbepaling tijdelijke nieuwkomersvoorzieningen
+1. Hoofdstuk 2, afdeling 2, alsmede het opschrift van afdeling 1, vervallen vijf jaar na de inwerkingtreding van artikel I, onderdeel B, van de Tijdelijke wet tijdelijke nieuwkomersvoorzieningen in het onderwijs.
+2. Bij koninklijk besluit kan de in het eerste lid genoemde termijn van vijf jaar worden verlengd.
+3. De voordracht voor een koninklijk besluit als bedoeld in het tweede lid wordt niet eerder gedaan dan twee weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd. Indien een der Kamers der Staten-Generaal binnen die termijn besluit niet in te stemmen met het ontwerp, wordt ten aanzien van dat ontwerp geen voordracht gedaan. Een besluit als bedoeld in de vorige zin kan worden genomen op voorstel van een of meer leden van een der Kamers der Staten-Generaal.
