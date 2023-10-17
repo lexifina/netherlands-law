@@ -1,0 +1,2 @@
+# Artikel 3a. De-minimisverklaring
+Bij een aanvraag van subsidie als bedoeld in artikel 2 van het besluit kan de nertsenhouder een landbouw de-minimisverklaring overleggen als bedoeld in artikel 6 van verordening (EU) nr. 1408/2013 van de Commissie van 18 december 2013 inzake de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun in de landbouwsector (PbEU L 352).
