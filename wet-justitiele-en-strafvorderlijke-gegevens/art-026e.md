@@ -1,0 +1,3 @@
+# Artikel 26e
+1. De verwerkingsverantwoordelijke en de verwerker dragen zorg voor de vastlegging langs elektronische weg (logging) van ten minste de volgende verwerkingen van justitiële gegevens in geautomatiseerde systemen: het verzamelen, wijzigen, raadplegen, verstrekken onder meer in de vorm van doorgiften, combineren en vernietigen van justitiële gegevens.
+2. De vastgelegde gegevens, bedoeld in het eerste lid, worden uitsluitend gebruikt voor de controle van de rechtmatigheid van de gegevensverwerking, voor interne controles, ter waarborging van de integriteit en de beveiliging van de justitiële gegevens en voor strafrechtelijke procedures.
