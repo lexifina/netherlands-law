@@ -1,0 +1,2 @@
+# Artikel 3a. Nadere regeling elektronische handtekening of zegel
+Onder het in artikel 18.18, eerste lid, van de wet opgenomen verbod wordt mede verstaan de situatie waarin een elektronische handtekening of zegel wordt aangeboden als geavanceerde elektronische handtekening of geavanceerd elektronisch zegel, terwijl niet wordt voldaan aan de voor die handtekening onderscheidenlijk dat zegel in de eidas-verordening opgenomen eisen.
