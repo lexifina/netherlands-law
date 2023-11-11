@@ -1,2 +1,1 @@
-# Artikel 2.13a,. Verhoging tarieven en normbedragen per 2021
-Onverminderd de artikelen 2.6 en 2.13, derde tot en met vijfde lid, kunnen Gedeputeerde Staten met ingang van 1 januari 2021 de tarieven en normbedragen die van toepassing zijn op beschikkingen tot subsidieverlening waarvan het subsidietijdvak is ingegaan vóór 1 januari 2021, alsmede de daarop ingediende vergrotingen, verhogen tot maximaal het percentage zoals genoemd in het Europese goedkeuringsbesluit
+# Artikel 2.13a,. [vervallen]
