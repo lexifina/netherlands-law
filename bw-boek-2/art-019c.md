@@ -1,0 +1,7 @@
+# Artikel 19c
+1. In het geval een rechtspersoon is ontbonden overeenkomstig artikel 19 lid 1, onderdeel a of e, en gelijktijdig heeft opgehouden te bestaan als bedoeld in artikel 19 lid 4, terwijl een of meer schuldeisers geheel of gedeeltelijk onbetaald zijn gebleven, kan de rechtbank op verzoek van het openbaar ministerie een bestuursverbod opleggen aan de bestuurder, de gewezen bestuurder daaronder begrepen, indien:
+a. de bestuurder in geval van een ontbinding overeenkomstig artikel 19 lid 1, onderdeel a, niet heeft voldaan aan de verplichtingen uit artikel 19b lid 1; of
+b. de bestuurder doelbewust namens de rechtspersoon handelingen heeft verricht of nagelaten, waardoor één of meer schuldeisers aanmerkelijk zijn benadeeld; of
+c. in de twee daaraan voorafgaande jaren de bestuurder, hetzij als zodanig, hetzij als natuurlijke persoon handelend in de uitoefening van een beroep of bedrijf, ten minste tweemaal eerder betrokken was bij een faillissement van een rechtspersoon of bij een beëindiging van een rechtspersoon op een wijze als bedoeld in de aanhef, en hem daarvan een persoonlijk verwijt treft.
+2. De artikelen 106b, met uitzondering van het vijfde lid, 106c en 106d van de Faillissementswet zijn van overeenkomstige toepassing.
+3. Het eerste en tweede lid zijn niet van toepassing als het overlijden van de bestuurder als bedoeld in artikel 19a lid 1, onderdeel a, onder 1°, een omstandigheid is, op grond waarvan de rechtspersoon door een beschikking van de Kamer van Koophandel is ontbonden.
