@@ -1,0 +1,5 @@
+# Artikel VI
+1. Met uitzondering van artikel V, treedt deze wet in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+2. Artikel V treedt in werking twee jaar na het tijdstip van inwerkingtreding van artikel 19b van Boek 2 van het Burgerlijk Wetboek.
+3. Onze Minister voor Rechtsbescherming zendt ten minste drie maanden voor de inwerkingtreding van artikel V aan de Staten Generaal een verslag over de werking van deze wet in de praktijk alsmede een standpunt over het voornemen tot wetswijziging om de voorzieningen in deze wet permanent in te voeren.
+4. Indien het standpunt, bedoeld in het derde lid, een voornemen tot wetswijziging inhoudt, kan bij koninklijk besluit, in afwijking van het tweede lid, de inwerkingtreding van artikel V met maximaal twee jaar worden uitgesteld. Als binnen deze termijn een voorstel tot wetswijziging is ingediend bij de Tweede Kamer der Staten-Generaal, duurt dit uitstel voort totdat dat wetsvoorstel na tot wet te zijn verheven in werking is getreden of is verworpen dan wel ingetrokken.
