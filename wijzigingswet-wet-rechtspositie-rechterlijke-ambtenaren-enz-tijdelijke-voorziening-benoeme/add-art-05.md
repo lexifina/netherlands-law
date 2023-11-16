@@ -1,0 +1,2 @@
+# Artikel V. Overgangsrecht
+De benoemingen tot raadsheren-plaatsvervangers en rechters-plaatsvervangers die tot stand zijn gekomen op grond van artikel 3.3 van de Tweede Verzamelspoedwet COVID-19, zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van deze wet, worden met ingang van de datum van inwerkingtreding van deze wet geacht tot stand te zijn gekomen op grond van artikel 54a van de Wet rechtspositie rechterlijke ambtenaren, artikel 4a van de Beroepswet, of artikel 5a van de Wet bestuursrechtspraak bedrijfsorganisatie.
