@@ -1,0 +1,2 @@
+# Artikel III. Overgangsbepalingen
+De hoofdstukken 2 en 3 van de Regeling op het specifiek cultuurbeleid en hoofdstuk 3, paragraaf 2, van de Regeling beheer rijkscollectie en subsidiëring museale instellingen, zoals zij luidden op de dag voorafgaande aan het tijdstip van inwerkingtreding van deze regeling, blijven van toepassing op de subsidies verstrekt op grond van artikel 4a van de Wet op het specifiek cultuurbeleid voor de jaren 2021 tot en met 2024.
