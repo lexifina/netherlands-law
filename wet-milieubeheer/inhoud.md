@@ -2,7 +2,7 @@
 ## Hoofdstuk 1. Algemeen
 ### § 1.1. Algemeen
 ### § 1.2. De provinciale milieuverordening
-## Hoofdstuk 2. Zelfstandige bestuursorganen en adviesorganen
+## Hoofdstuk 2. Zelfstandige bestuursorganen, bevoegde autoriteiten en adviesorganen
 ### § 2.1. De Nederlandse emissieautoriteit
 ### § 2.2. De Commissie voor de milieueffectrapportage
 ### § 2.3. De Commissie genetische modificatie
@@ -168,6 +168,8 @@
 #### Afdeling 16b.3.1. Het register dispensatierechten industrie
 #### Afdeling 16b.3.2. Het ontstaan van dispensatierechten
 #### Afdeling 16b.3.3. Overdracht van dispensatierechten
+## Hoofdstuk 16c. Mechanisme voor koolstofcorrectie aan de grens
+### Titel 16c.1. Overgangsperiode
 ## Hoofdstuk 17. Maatregelen in bijzondere omstandigheden
 ### Titel 17.1. Maatregelen bij een ongewoon voorval
 ### Titel 17.1A. Maatregelen betreffende afvalvoorzieningen
