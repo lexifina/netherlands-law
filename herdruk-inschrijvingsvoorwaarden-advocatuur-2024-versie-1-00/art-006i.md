@@ -1,0 +1,9 @@
+# Artikel 6i. Deskundigheidsvereisten voor de rechtsbijstandverlening door bijzondere curatoren in afstammingszaken (artikel 1:212 BW zaken).
+De vereisten voor het verstrekken van toevoegingen aan bijzondere curatoren in afstammingszaken (artikel 1:212 BW zaken) zijn:
+1. het voltooid hebben van de stage en;
+2. het bij de Raad voor Rechtsbijstand onvoorwaardelijk ingeschreven staan voor de specialisatie personen- en familierecht en;
+3. het met goed gevolg hebben afgelegd van het door de Stichting Bijzondere Curator georganiseerd examen voor het kunnen behandelen van artikel 1:212 BW zaken. Voor het opgaan voor het examen geldt als aanbeveling dat de kandidaat een door de Raad erkende specialisatieopleiding bijzondere curator van tenminste 20 punten heeft voltooid.
+Om ingeschreven te blijven staan onderhoudt de bijzondere curator zijn deskundigheid door het jaarlijks behalen van tenminste vier opleidingspunten op dit specifieke gebied en behoort deze tevens te voldoen aan de in de inschrijvingsvoorwaarden gestelde deskundigheidseisen voor de voortzetting van de specialisatie personen- en familierecht.
+Opleidingspunten behaald op het terrein van de specialisatie bijzonder curator kunnen tevens tot een maximum van vier punten per jaar worden opgegeven voor voortzetting van de specialisatie personen- en familierecht bij de Raad.
+Indien de bijzondere curator niet meer voldoet aan de gestelde eisen, kan de Raad de bijzondere curator uitschrijven voor de specialisatie. Voordat de Raad hiertoe beslist zal betrokkene indien deze dat wenst worden gehoord.
+De bijzondere curator stemt in met de plicht van de klachtencommissie van de Stichting BCN om de uitkomst van klachten waarbij een onherroepelijke maatregel van onvoorwaardelijke schorsing of schrapping uit het register van de Stichting BCN aan bijzondere curatoren is opgelegd, te melden aan de Raad voor Rechtsbijstand.
