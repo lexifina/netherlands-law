@@ -1,0 +1,6 @@
+# Artikel 13b
+1. Als de ambtenaren van de Inspectie Leefomgeving en Transport de tekortkomingen die aan het licht komen bij een meer gedetailleerde inspectie aanzienlijk vinden of als deze betrekking hebben op een mogelijke klacht dat de leef- en werkomstandigheden van het schip niet in overeenstemming zijn met de normen van MLC 2006, brengen zij de tekortkomingen onder de aandacht van de betrokken Nederlandse organisaties van zeevarenden en reders.
+2. De ambtenaren van de Inspectie Leefomgeving en Transport kunnen in de in het eerste lid bedoelde gevallen tevens:
+a) een vertegenwoordiger van de vlaggenstaat in kennis stellen van de tekortkomingen;
+b) de relevante informatie verstrekken aan de bevoegde instanties van de volgende aanloophaven.
+3. Indien bevindingen in het inspectierapport betrekking hebben op het MLC 2006, kunnen de ambtenaren van de Inspectie Leefomgeving en Transport een afschrift van het inspectierapport, waarbij alle binnen de gestelde termijn ontvangen antwoorden van de bevoegde instanties zijn gevoegd, doen toekomen aan de directeur-generaal van het Internationaal Arbeidsbureau, met het oog op de maatregelen die passend of aangewezen worden geacht om ervoor te zorgen dat die informatie wordt opgeslagen en onder de aandacht wordt gebracht van partijen die mogelijk gebruik willen maken van de beroepsprocedures.

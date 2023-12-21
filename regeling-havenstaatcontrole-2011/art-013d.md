@@ -1,0 +1,3 @@
+# Artikel 13d
+1. De aanhouding van het schip of de stopzetting van een operatie ingevolge artikel 6 of 7 van de wet in verband met een inbreuk op de voorschriften van MLC 2006 wordt, onverminderd artikel 10 van de wet, pas opgeheven wanneer de tekortkomingen verholpen zijn of de ambtenaren van de Inspectie Leefomgeving en Transport een actieplan om de betrokken tekortkomingen te verhelpen, hebben aanvaard en zich ervan hebben vergewist dat het actieplan spoedig zal worden uitgevoerd.
+2. Alvorens een actieplan te aanvaarden, kunnen de ambtenaren van de Inspectie Leefomgeving en Transport de bevoegde instantie van de vlaggenstaat raadplegen.
