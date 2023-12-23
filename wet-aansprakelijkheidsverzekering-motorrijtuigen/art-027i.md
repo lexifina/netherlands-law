@@ -1,2 +1,2 @@
 # Artikel 27i
-Het Informatiecentrum werkt samen met de informatiecentra die in de andere lidstaten zijn aangewezen.
+Het Informatiecentrum werkt samen met de informatiecentra die in de andere lidstaten zijn aangewezen. Ten aanzien van motorrijtuigen die vanuit een lidstaat naar een andere lidstaat worden verzonden, werkt het Informatiecentrum samen met de informatiecentra die in andere lidstaten zijn aangewezen om ervoor te zorgen de in de artikelen 27f tot en met 27h bedoelde gegevens met betrekking tot deze motorrijtuigen beschikbaar zijn.
