@@ -1,0 +1,4 @@
+# Artikel VI
+1. Deze wet treedt in werking met ingang van de dag na de datum van de uitgifte van het Staatsblad waarin zij wordt geplaatst.
+2. Artikel I, onderdeel F en onderdeel 1 van onderdeel H zijn van toepassing op verslagen inzake de winstbelasting die zijn opgesteld over boekjaren die aanvangen op of na 22 juni 2024.
+3. Artikel II is van toepassing op het opnemen van informatie in het bestuursverslag, het opstellen en openbaar maken van een afzonderlijk jaarlijks verslag en het opstellen en openbaar maken van een of meer daarmee samenhangende verklaringen, die betrekking hebben op boekjaren die aanvangen op of na 22 juni 2024. Artikel 1, onder 4°, van de Wet op de economische delicten, zoals dat luidde voor inwerkingtreding van artikel II blijft van toepassing op verslagen over betalingen aan overheden die betrekking hebben op boekjaren die ten laatste zijn aangevangen vóór of op 21 juni 2024.
