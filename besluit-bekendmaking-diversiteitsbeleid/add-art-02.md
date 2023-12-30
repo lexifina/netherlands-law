@@ -1,2 +1,0 @@
-# Artikel II
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. Het besluit is van toepassing op bestuursverslagen die betrekking hebben op boekjaren die zijn aangevangen op of na 1 januari 2017.
