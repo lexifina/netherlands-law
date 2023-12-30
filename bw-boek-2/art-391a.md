@@ -1,0 +1,11 @@
+# Artikel 391a
+1. Bij algemene maatregel van bestuur kunnen nadere voorschriften worden gesteld omtrent de inhoud van het bestuursverslag.
+2. Bij algemene maatregel van bestuur kunnen ter uitvoering van bindende EU-rechtshandelingen regels worden gesteld omtrent de verplichtingen van bepaalde rechtspersonen en bijkantoren tot het opnemen van informatie in het bestuursverslag, tot het opstellen en openbaar maken van een afzonderlijk jaarlijks verslag en tot het opstellen en openbaar maken van een of meer daarmee samenhangende verklaringen. De regels kunnen met name betrekking hebben op:
+a. de inhoud van de informatie, het afzonderlijke jaarlijkse verslag en de verklaringen;
+b. de verantwoordelijkheid van het bestuur en de raad van commissarissen voor de naleving van de verplichtingen;
+c. het laten onderzoeken van de informatie, het afzonderlijke jaarlijkse verslag en de verklaringen door een accountant of accountantsorganisatie als bedoeld in artikel 393 of door een andere derde persoon of organisatie en op de openbaarmaking van de uitkomsten van dat onderzoek;
+d. de wijze van handhaving van de verplichtingen;
+e. de naleving van een bij de algemene maatregel van bestuur aan te wijzen gedragscode en op de inhoud, de openbaarmaking en het accountantsonderzoek van een verklaring inzake corporate governance.
+3. De voordracht voor een krachtens lid 1 vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
+4. Het ontwerp van een krachtens lid 2 vast te stellen algemene maatregel van bestuur wordt aan de beide Kamers der Staten-Generaal overgelegd. De voordracht voor de vast te stellen algemene maatregel van bestuur kan worden gedaan nadat vier weken na de overlegging zijn verstreken, tenzij binnen die termijn door of namens een der Kamers de wens te kennen wordt gegeven dat het onderwerp van de algemene maatregel van bestuur bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend.
+5. Bij regeling van Onze Minister die het aangaat kunnen ter uitvoering van bindende EU-rechtshandelingen, als bedoeld in het tweede lid, die regelmatig kunnen wijzigen, nadere regels worden gegeven.

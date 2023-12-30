@@ -46,9 +46,8 @@
 #### Afdeling 4. Voorschriften omtrent de winst- en verliesrekening en de toelichting daarop
 #### Afdeling 5. Bijzondere voorschriften omtrent de toelichting
 #### Afdeling 6. Voorschriften omtrent de grondslagen van waardering en van bepaling van het resultaat
-#### Afdeling 7. Bestuursverslag
+#### Afdeling 7. Bestuursverslag en afzonderlijke jaarlijkse verslagen en verklaringen
 #### Afdeling 8. Overige gegevens
-#### Afdeling 8a. Verslag over betalingen aan overheden
 #### Afdeling 9. Deskundigenonderzoek
 #### Afdeling 10. Openbaarmaking
 #### Afdeling 11. Vrijstellingen op grond van de omvang van het bedrijf van de rechtspersoon

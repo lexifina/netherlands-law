@@ -1,3 +1,0 @@
-# Artikel 392a
-1. Bij algemene maatregel van bestuur worden ter uitvoering van richtlijnen van het Europees Parlement en de Raad van de Europese Unie houdende regels inzake de jaarrekening, regels gesteld met betrekking tot de verplichting van rechtspersonen uit bepaalde sectoren tot het opstellen en openbaar maken van een verslag dan wel een geconsolideerd verslag over betalingen die zij doen aan overheden en worden nadere regels gesteld omtrent de inhoud van het verslag.
-2. De openbaarmaking van het verslag, bedoeld in lid 1, geschiedt binnen twaalf maanden na afloop van het boekjaar op de wijze als bedoeld in artikel 394 lid 1, tweede volzin.
