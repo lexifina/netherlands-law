@@ -1,5 +1,5 @@
 # Artikel 12a
-1. Bij ministeriële regeling kunnen op verzoek van de Stichting van de Arbeid specifieke werkzaamheden in een bedrijfstak worden aangewezen voor welke, in afwijking van artikel 12, zesde lid, voor de toepassing van het bij of krachtens deze wet bepaalde als arbeidsduur wordt aangemerkt, de tijd die redelijkerwijs met de uitvoering van de te verrichten arbeid is gemoeid, indien dat noodzakelijk wordt geacht, gelet op:
+1. Bij ministeriële regeling kunnen op verzoek van de Stichting van de Arbeid specifieke werkzaamheden in een bedrijfstak worden aangewezen voor welke, in afwijking van artikel 5a, tweede lid, voor de toepassing van het bij of krachtens deze wet bepaalde als arbeidsduur wordt aangemerkt, de tijd die redelijkerwijs met de uitvoering van de te verrichten arbeid is gemoeid, indien dat noodzakelijk wordt geacht, gelet op:
 a. de vrijheid van de werknemer bij de inrichting van de werkzaamheden; en
 b. de mogelijkheden voor de werkgever, of een derde aan wie de werknemer ter beschikking is gesteld voor het onder diens toezicht en leiding verrichten van arbeid, om op de uitvoering hiervan toezicht te houden.
 2. Onder de werkgever, bedoeld in het eerste lid, onderdeel b, wordt niet verstaan een werkgever die een werknemer ter beschikking stelt aan een derde voor het onder diens toezicht en leiding verrichten van arbeid.

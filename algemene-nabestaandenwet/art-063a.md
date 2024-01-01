@@ -16,7 +16,7 @@ e. de gewezen verzekerde, die op de dag waarop de verplichte verzekering is geë
 7°. pensioen op basis van arbeidsongeschiktheid op grond van de Algemene militaire pensioenwet, zoals die luidde voor 1 januari 1998;
 8°. ouderdomspensioen op grond van de Algemene Ouderdomswet; of
 9°. nabestaandenuitkering op grond van deze wet,
-mits die uitkering of dat pensioen ten minste gelijk is aan 35% van het in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag bedoelde bedrag; of
+mits die uitkering of dat pensioen ten minste gelijk is aan 35% van het in artikel 8, eerste lid, onderdeel b, van de Wet minimumloon en minimumvakantiebijslag bedoelde bedrag; of
 f. de gewezen verzekerde wiens recht op een uitkering als bedoeld in onderdeel e uitsluitend als gevolg van het bereiken van de pensioengerechtigde leeftijd is geëindigd;
 g. de gewezen verzekerde, bedoeld in artikel 63d, tweede lid.
 4. De periode van maximaal tien jaar, bedoeld in het eerste lid, is niet van toepassing op de echtgenoot van de in het derde lid genoemde gewezen verzekerde en de inwonende minderjarige kinderen met wie die gewezen verzekerde of die echtgenoot in familierechtelijke betrekking staat.
