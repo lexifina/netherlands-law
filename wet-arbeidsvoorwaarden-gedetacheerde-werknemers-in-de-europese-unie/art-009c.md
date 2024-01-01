@@ -1,0 +1,2 @@
+# Artikel 9c
+Voor de toepassing van artikel 2, tweede tot en met vierde lid, wordt de detachering van een gedetacheerde bestuurder geacht te zijn beëindigd wanneer hij bij het verrichten van het internationaal vervoer van goederen of personen Nederland verlaat. Deze detacheringsperiode wordt niet gecumuleerd met eerdere detacheringsperiodes in het kader van dergelijke internationale activiteiten van dezelfde bestuurder of van de bestuurder die hij vervangt.

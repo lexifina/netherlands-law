@@ -1,0 +1,4 @@
+# Artikel 9g
+In afwijking van artikel 9 draagt de dienstverrichter, die een bestuurder in Nederland arbeid in de wegvervoersector laat verrichten in de zin van onderdeel 1 van de begripsbepaling van transnationale dienstverrichting, zonder als gedetacheerde bestuurder te worden aangemerkt, er zorg voor dat de bestuurder schriftelijk of elektronisch beschikbaar heeft en ter beschikking stelt wanneer daar bij een wegcontrole om wordt verzocht:
+a. het bewijs van het betrokken internationaal vervoer, zoals een elektronische vrachtbrief of een bewijs als bedoeld in artikel 8, derde lid, van Verordening 1072/2009/EG; en
+b. de tachograafgegevens, met name de landsymbolen van de lidstaten waar de bestuurder zich bevond tijdens internationaal wegvervoer of cabotage, in overeenstemming met de registratievoorschriften in het kader van Verordening 561/2006/EG en Verordening 165/2014/EU.

@@ -1,0 +1,2 @@
+# Artikel 9h
+Voor de toepassing van dit hoofdstuk, van het bepaalde bij of krachtens de artikelen 2, 4, 6, 7, 12 en 14 van deze wet en van de artikelen 2a en 10a van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten, wordt degene die vanuit het Verenigd Koninkrijk een gedetacheerde bestuurder ter beschikking stelt om tijdelijk arbeid te verrichten in Nederland, bestaande in het vervoer van goederen over de weg, aangemerkt als dienstverrichter.
