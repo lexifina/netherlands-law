@@ -1,0 +1,4 @@
+# Artikel XX
+In de periode van 1 juli 2023 tot en met 17 januari 2024 is toegestaan dat halfzware olie of gasolie die wordt ingevoerd of uitgeslagen uit een accijnsgoederenplaats een mengsel bevat van Solvent Yellow 124 en ACCUTRACE™ PLUS met butoxybenzeen als herkenningsmiddelen als bedoeld in artikel 1a, derde lid, van de Wet op de accijns. De verhouding per 1.000 L is:
+– voor elke gram Solvent Yellow 124 minder dan de voorgeschreven hoeveelheid, genoemd in artikel 13 van de Uitvoeringsregeling accijns: ten minste 2,1 g ACCUTRACE™ PLUS waarbij geldt dat 2,1 g ACCUTRACE™ PLUS overeenkomt met ten minste 1,6 g butoxybenzeen; en
+– voor elke gram ACCUTRACE™ PLUS, waarbij geldt dat 1 g ACCUTRACE™ PLUS overeenkomt met ten minste 0,75 g butoxybenzeen, minder dan de voorgeschreven hoeveelheid, genoemd in artikel 13 van de Uitvoeringsregeling accijns: ten minste 0,5 g Solvent Yellow 124.
