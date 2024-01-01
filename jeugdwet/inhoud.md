@@ -14,9 +14,13 @@
 ## Hoofdstuk 6. Gesloten jeugdhulp bij ernstige opgroei- en opvoedingsproblemen
 ### § 6.1. Machtiging
 ### § 6.2. Tenuitvoerlegging van de machtiging
-### § 6.3. Vrijheidsbeperkende maatregelen
+### § 6.3. Toepassing vrijheidsbeperkende maatregelen
+#### § 6.3.1. Doelen en voorwaarden voor de toepassing van vrijheidsbeperkende maatregelen
+#### § 6.3.2. Vrijheidsbeperkende maatregelen
 ### § 6.4. Verlof
-### § 6.5. Klachtrecht bij vrijheidsbeperkende maatregelen
+### § 6.5. Klachtrecht en schadevergoeding bij vrijheidsbeperkende maatregelen
+### § 6.6. De vertrouwenspersoon
+### § 6.7. Gegevensverwerking bij gesloten jeugdhulp
 ## Hoofdstuk 7. Gegevensverwerking, privacy en toestemming
 ### § 7.1. Verwijsindex
 #### § 7.1.1. Algemene bepalingen
