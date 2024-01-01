@@ -2,6 +2,7 @@
 Tegen een uitspraak van de rechtbank of van de voorzieningenrechter omtrent een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan hoger beroep worden ingesteld bij het College van Beroep voor het bedrijfsleven.
 Aanbestedingswet 2012, artikel 4.21
 Aanbestedingswet op defensie- en veiligheidsgebied, artikel 3.8
+Algemene wet bestuursrecht: artikel 4:126, voor zover het besluit betrekking heeft op schade, veroorzaakt door een besluit op grond van een ander voorschrift, genoemd in artikel 11 van deze Bevoegdheidsregeling bestuursrechtspraak, of door een handeling ter uitvoering van een zodanig besluit
 Bankwet 1998: artikel 9c, eerste en tweede lid
 Burgerlijk Wetboek: de artikelen 63d, tweede lid, 156 en 266 van Boek 2
 Drinkwaterwet: artikel 50, derde lid, in samenhang met artikel 70a van de Mededingingswet
@@ -55,7 +56,7 @@ Wet marktordening gezondheidszorg, voor zover het betreft een besluit van de Ned
 Wet oneerlijke handelspraktijken landbouw- en voedselvoorzieningsketen: artikel 9
 Wet op de inlichtingen- en veiligheidsdiensten 2017: artikel 53, zevende lid
 Wet op het financieel toezicht, met uitzondering van:
-a. de afdelingen 3A.1.3, 3A.1.4 en 3A.1.5 en de artikelen 3A:85 en 3A:86
+a. de afdelingen 3A.1.3, 3A.1.4, 3A.1.5, 3A.2.3 en 3A.2.4
 b. de artikelen 5:77, eerste lid, en 5:81, derde lid
 c. een besluit terzake van het ingevolge artikel 5:76, tweede lid, of 5:80b, vijfde lid, bepaalde, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in artikel 1:80
 d. de artikelen 6:1 en 6:2

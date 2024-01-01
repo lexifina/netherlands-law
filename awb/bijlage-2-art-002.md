@@ -5,25 +5,15 @@ a. artikel 124 van de Gemeentewet, voor zover het beroep wordt ingesteld door he
 b. artikel 124a van de Gemeentewet, voor zover het beroep wordt ingesteld door gedeputeerde staten, en
 c. hoofdstuk XVII van de Gemeentewet
 Bekendmakingswet: artikel 21, indien overeenkomstige toepassing is gegeven artikel 121 van de Provinciewet, voor zover het beroep wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
-Belemmeringenwet Privaatrecht: de artikelen 2, vijfde lid, en 3, tweede lid, voor zover de verplichting noodzakelijk is voor de uitvoering van werken als bedoeld in artikel 2.3, tweede lid, onderdelen a en b, van de Crisis- en herstelwet of voor de uitvoering van een of meer besluiten als bedoeld in:
-a. artikel 21, tweede lid, van de Tracéwet
-b. de artikelen 3.30, eerste lid, onder a, 3.33, eerste lid, onder a, en 3.35, eerste lid, onder b, van de Wet ruimtelijke ordening
-c. artikel 15, tweede lid, van de Spoedwet wegverbreding: de verlegging van kabels en leidingen, verband houdende met de uitvoering van een wegaanpassingsbesluit
-Crisis- en herstelwet:
-a. artikel 2.3, voor zover het betreft een besluit tot vaststelling van een bestemmingsplan
-b. artikel 2.10, eerste lid
 Experimentenwet onderwijs
 Gedelegeerde Verordening (EU) 2019/331 van de Commissie van 19 december 2018 tot vaststelling van een voor de hele Unie geldende overgangsregeling voor de geharmoniseerde kosteloze toewijzing van emissierechten overeenkomstig artikel 10bis van Richtlijn 2003/87/EG van het Europees Parlement en de Raad (PbEU 2019, L 59): voor zover het besluiten betreft van de Nederlandse emissieautoriteit, genoemd in artikel 2.1 van de Wet milieubeheer
 Gemeentewet:
 a. artikel 85, tweede lid
 b. artikel 124, voor zover het beroep wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester
 c. artikel 124a, voor zover het beroep wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
-d. artikel 125, voor zover het besluit betrekking heeft op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, van de Wet milieubeheer, bedoelde wetten of wettelijke bepalingen dan wel de Ontgrondingenwet
+d. artikel 125, voor zover het besluit betrekking heeft op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, van de Wet milieubeheer, bedoelde wetten of wettelijke bepalingen
 e. artikel 268, eerste lid
 f. de artikelen 278a, vierde lid, en 281, tweede lid, indien overeenkomstige toepassing is gegeven aan artikel 124 van de Gemeentewet voor zover het beroep wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester, en indien overeenkomstige toepassing is gegeven aan artikel 124a van de Gemeentewet voor zover het beroep wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
-Interimwet stad-en-milieubenadering:
-a. de artikelen 2 en 3
-b. een besluit omtrent goedkeuring van een besluit als bedoeld in artikel 9
 Kaderwet dienstplicht: de artikelen 10, eerste lid, 11 en 13
 Kernenergiewet
 Kieswet:
@@ -32,26 +22,35 @@ b. artikel Y 2 in samenhang met artikel D 7, G 1, G 4, I 4, K 8, L 11 of M 4
 c. de artikelen Y 32 en Y 33
 Mijnbouwwet:
 a. een besluit dat van toepassing is op het continentaal plat, met uitzondering van een besluit krachtens de afdelingen 5.1.1, 5.1.2, 5.3, 5.4 of 5.5
-b. een besluit omtrent een mijnbouwmilieuvergunning krachtens artikel 40, instemming met een winningsplan krachtens artikel 34, instemming met een winningsplan of een opslagplan krachtens 39, eerste lid, en de vaststelling van een operationele strategie krachtens artikel 52d
-Ontgrondingenwet: hoofdstuk II en de artikelen 26a, eerste lid, 27 en 29a, eerste lid
+b. instemming met een winningsplan krachtens artikel 34, instemming met een winningsplan of een opslagplan krachtens 39, eerste lid, en de vaststelling van een operationele strategie krachtens artikel 52d
+Omgevingswet:
+a. artikel 2.4
+b. artikel 2.12a, eerste lid
+c. artikel 2.13a, eerste lid
+d. artikel 2.15, tweede lid
+e. artikel 2.32, voor zover het betreft de weigering om een ontheffing te verlenen van een regel die is gesteld over een besluit waartegen beroep kan worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State
+f. de artikelen 2.33 en 2.34, voor zover artikel 16.85 van de Omgevingswet niet van toepassing is
+g. afdeling 5.2
+h. een besluit ter uitvoering van een projectbesluit als bedoeld in afdeling 5.2
+i. een besluit ter uitvoering van een gemeentelijk project van publiek belang waarvoor toepassing is gegeven aan artikel 5.55
+j. artikel 12.7
+k. artikel 12.18
+l. artikel 16.21
+m. artikel 16.72
 Participatiewet: artikel 76, eerste en tweede lid
 Provinciewet:
 a. artikel 83, tweede lid
 b. artikel 121, voor zover het beroep wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
-c. artikel 122, voor zover het besluit betrekking heeft op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, van de Wet milieubeheer, bedoelde wetten of wettelijke bepalingen dan wel de Ontgrondingenwet
+c. artikel 122, voor zover het besluit betrekking heeft op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, van de Wet milieubeheer, bedoelde wetten of wettelijke bepalingen
 d. artikel 261, eerste lid
 e. de artikelen 271a, vierde lid, en 274, tweede lid, indien overeenkomstige toepassing is gegeven aan artikel 121 van de Provinciewet, voor zover het beroep wordt ingesteld door provinciale staten, gedeputeerde staten, onderscheidenlijk de commissaris van de Koning
 Reconstructiewet concentratiegebieden, voor zover het betreft een besluit tot vaststelling, wijziging of uitwerking van het reconstructieplan, alsmede een besluit dat is genomen met toepassing van de artikelen 40 tot en met 43
-Spoedwet wegverbreding:
-a. een plan als bedoeld in artikel 6, vijfde lid
-b. de artikelen 7, eerste lid, 9, eerste lid, en 15, tweede lid, onder c
 Tijdelijke experimentenwet nieuwe stembiljetten: de artikelen 5 tot en met 10
 Tijdelijke wet aanwijzing bèta-opleidingen: artikel 2, eerste lid
 Tijdelijke wet Groningen:
 a. artikel 13i, tweede en zesde lid
 b. artikel 13j, eerste lid
 c. artikel 13k, eerste en derde lid
-Tracéwet: de artikelen 9, eerste lid, 20, tweede lid, en 21, tweede lid, onder c
 Uitvoeringsverordening (EU) 2018/2066 van de Commissie van 19 december 2018 inzake de monitoring en rapportage van de emissies van broeikasgassen overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad (PbEU 2018, L 334): voor zover het besluiten betreft van de Nederlandse emissieautoriteit, genoemd in artikel 2.1 van de Wet milieubeheer
 Uitvoeringsverordening (EU) 2018/2067 van de Commissie van 19 december 2018 inzake de verificatie van gegevens en de accreditatie van verificateurs krachtens Richtlijn 2003/87/EG van het Europees Parlement en de Raad (PbEU 2018, L 334): voor zover het besluiten betreft van de Nederlandse emissieautoriteit, genoemd in artikel 2.1 van de Wet milieubeheer
 Uitvoeringsverordening (EU) 2019/1842 van de Commissie van 31 oktober 2019 tot vaststelling van bepalingen ter uitvoering van Richtlijn 2003/87/EG van het Europees Parlement en de Raad wat de verdere regelingen voor de aanpassingen van de kosteloze toewijzing van emissierechten als gevolg van veranderingen in het activiteitsniveau betreft (PbEU 2019, L 282): voor zover het besluiten betreft van de Nederlandse emissieautoriteit, genoemd in artikel 2.1 van de Wet milieubeheer
@@ -65,28 +64,14 @@ a. een besluit van Onze Minister van Infrastructuur en Milieu inzake de goedkeur
 b. een besluit van het algemeen bestuur van een waterschap als bedoeld in artikel 31, derde lid
 c. een besluit van het algemeen bestuur van een waterschap als bedoeld in artikel 33, vierde lid
 d. artikel 21, eerste lid
-e. artikel 61, voor zover het besluit betrekking heeft op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, van de Wet milieubeheer, bedoelde wetten of wettelijke bepalingen dan wel de Ontgrondingenwet
+e. artikel 61, voor zover het besluit betrekking heeft op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, van de Wet milieubeheer, bedoelde wetten of wettelijke bepalingen
 d. artikel 156, eerste lid
-Waterwet:
-a. artikel 3.13, derde lid, indien overeenkomstige toepassing is gegeven aan artikel 121 van de Provinciewet, voor zover het beroep wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
-b. de artikelen 5.7, eerste lid, en 5.8, eerste lid
-c. een besluit dat met toepassing van artikel 6.27, tweede lid, gecoördineerd is voorbereid met een besluit krachtens de Kernenergiewet
-Wet aanvullende regels veiligheid wegtunnels: artikel 8, eerste lid, voor zover het een vergunning betreft voor een tunnel die deel uitmaakt van een tracébesluit als bedoeld in artikel 9 van de Tracéwet
-Wet algemene bepalingen omgevingsrecht:
-a. artikel 5.2a, eerste lid, indien overeenkomstige toepassing is gegeven aan artikel 121 van de Provinciewet, voor zover het beroep wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
-b. artikel 5.2a, tweede lid, indien overeenkomstige toepassing is gegeven aan artikel 124 van de Gemeentewet voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap, en indien overeenkomstige toepassing is gegeven aan artikel 124a van de Gemeentewet voor zover het beroep wordt ingesteld door gedeputeerde staten
-c. artikel 5.2a, derde lid, indien overeenkomstige toepassing is gegeven aan hoofdstuk XVIII van de Provinciewet
-d. artikel 5.2a, vierde lid, indien overeenkomstige toepassing is gegeven aan hoofdstuk XVII van de Gemeentewet
-Wet ammoniak en veehouderij:
-a. artikel 2, eerste lid
-b. een besluit tot wijziging van een besluit als bedoeld in artikel 2, eerste lid
+Wet aanvullende regels veiligheid wegtunnels: artikel 8, eerste lid, voor zover het een vergunning betreft voor een tunnel die deel uitmaakt van een projectbesluit als bedoeld in afdeling 5.2 van de Omgevingswet
 Wet bescherming Antarctica
-Wet bodembescherming, met uitzondering van artikel 43, voor zover het betreft de afwijzing van een verzoek
 Wet educatie en beroepsonderwijs:
 a. de artikelen 1.4.1, 1.4a.1, 1.6.1, 2.1.1, eerste lid, 2.1.2, eerste lid, onderdeel b, 2.1.3, tweede lid, 2.2.3, eerste en derde lid, en 2.5.9
 b. de artikelen 6.1.3 tot en met 6.1.6, 6.2.1 tot en met 6.2.3, 6.2.3b, 6.3.1 tot en met 6.3.3, 6.4.4, 6a.1.2, 6a.1.3, 7.5.9, eerste lid, en 11.1
 Wet financiering sociale verzekeringen: artikel 91
-Wet geluidhinder
 Wet gemeenschappelijke regelingen:
 a. artikel 25, achtste lid
 b. de artikelen 32b en 45a gelezen in samenhang met artikel 32b, voor zover het beroep wordt ingesteld door het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan
@@ -97,22 +82,14 @@ f. de artikelen 99, eerste lid, 100, eerste lid, 103b, en 103c, eerste lid
 Wet gewetensbezwaren militaire dienst:
 a. hoofdstuk II, met uitzondering van artikel 4, tweede lid
 b. de artikelen 15 en 16
-Wet inrichting landelijk gebied:
-a. de vaststelling of wijziging van een inrichtingsplan, voor zover het betreft de begrenzing van de blokken, bedoeld in artikel 17, derde lid, onderdeel b
-b. de aanduiding van voorzieningen, bedoeld in artikel 17, tweede lid, onderdeel b, inhoudende de toepassing van een korting als bedoeld in artikel 56, eerste lid
-c. de toewijzing van eigendom, beheer en onderhoud van voorzieningen van openbaar nut, bedoeld in artikel 28
-d. de aanduiding van wegen met de daartoe behorende kunstwerken, bedoeld in artikel 33, eerste lid
-e. de opname van wegen met de daartoe behorende kunstwerken als openbare weg, bedoeld in artikel 33, tweede lid
-Wet inzake de luchtverontreiniging
 Wet kwaliteit, klachten en geschillen zorg: de artikelen 11c, eerste en derde lid, en 11d, eerste lid
 Wet langdurige zorg, voor zover het betreft een besluit van Onze Minister van Volksgezondheid, Welzijn en Sport, met uitzondering van hoofdstuk 10, § 4
 Wet luchtvaart: de artikelen 8.25, tweede lid, 8.25b, 8.25c, 8.43, eerste lid, 8.64, eerste lid, 8.70, eerste en zesde lid, 8.77, eerste lid, 8a.50a, 8a.54, 10.15, eerste lid, en 10.39, ook voor zover het besluit kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in artikel 8:3, eerste lid, van de Algemene wet bestuursrecht, maar met uitzondering van een besluit op grond van de artikelen 8.70, eerste lid, en 10.15, eerste lid, voor zover het betreft de luchthavens Lelystad, Rotterdam en Eindhoven.
 Wet maatschappelijke ondersteuning 2015: artikel 2.6.8
 Wet milieubeheer, met inbegrip van een besluit dat betrekking heeft op handhaving, doch met uitzondering van:
-a. de artikelen 1.3, eerste lid, 8.40a en 8.42
-b. een besluit dat betrekking heeft op de handhaving van het bepaalde krachtens artikel 8.40
-c. artikel 15.50
-d. artikel 17.15, tweede lid, indien overeenkomstige toepassing is gegeven aan artikel 121 van de Provinciewet, voor zover het beroep wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
+a. een besluit dat betrekking heeft op de handhaving van het bepaalde krachtens artikel 8.40
+b. artikel 15.50
+c. artikel 17.15, tweede lid, indien overeenkomstige toepassing is gegeven aan artikel 121 van de Provinciewet, voor zover het beroep wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
 Wet Naleving Europese regelgeving publieke entiteiten: de artikelen 2, eerste lid, 3 en 5
 Wet op de expertisecentra:
 a. titel IV: de afdelingen 2 en 7, een goedkeuring van rechtswege daaronder begrepen
@@ -124,16 +101,6 @@ a. artikel 22, vijfde lid
 b. titel IV: de afdelingen 2 en 8, een goedkeuring van rechtswege daaronder begrepen
 c. de artikelen 120 en 189
 d. artikel 193, tweede lid, tweede volzin, voor zover het betreft een besluit op grond van bepalingen die bij de algemene maatregel van bestuur ingevolge artikel 193, tweede lid, tweede volzin, van overeenkomstige toepassing zijn verklaard, alsmede een besluit op grond van bepalingen van de algemene maatregel van bestuur die daarmee overeenkomen
-Wet ruimtelijke ordening:
-a. een besluit omtrent vaststelling van een bestemmingsplan, een inpassingsplan of een rijksbestemmingsplan als bedoeld in artikel 10.3, eerste lid
-b. artikel 3.1, derde lid
-c. een besluit omtrent wijziging of uitwerking van een bestemmingsplan overeenkomstig artikel 3.6, eerste lid
-d. een aanwijzingsbesluit als bedoeld in artikel 3.8, zesde lid, of artikel 3.26, tweede lid, in samenhang met artikel 3.8, zesde lid
-e. de artikelen 3.30, eerste lid, onder a of b, 3.33, eerste lid, onder a of b, en 3.35, eerste lid
-f. de artikelen 4.2, eerste lid, en 4.4, eerste lid, voor zover het besluit betrekking heeft op een daarbij concreet aangegeven locatie waarvan geen afwijking mogelijk is
-g. de artikelen 6.8, eerste lid, en 6.9
-h. een besluit omtrent vaststelling van een exploitatieplan voor gronden, begrepen in een gelijktijdig bekendgemaakt bestemmingsplan, inpassingsplan of wijzigingsplan als bedoeld in artikel 3.6, eerste lid, alsmede herzieningen van het desbetreffende exploitatieplan en besluiten omtrent de afrekening en herberekende exploitatiebijdragen van het desbetreffende exploitatieplan
-i. een ontheffing als bedoeld in artikel 4.1a of 4.3a, voor zover die ontheffing betrekking heeft op een bestemmingsplan of een provinciaal inpassingsplan
 Wet structuur uitvoeringsorganisatie werk en inkomen: artikel 9, vijfde lid
 Wet tijdelijke tolheffing Blankenburgverbinding en ViA15: artikel 2, eerste lid
 Wet toelating zorginstellingen

@@ -71,7 +71,7 @@ Wet nationaliteit zeeschepen in rompbevrachting
 Wet op de architectentitel, met inbegrip van een besluit inzake een aanwijzing als bedoeld in de artikelen 9, eerste lid, onderdeel j, 10, eerste lid, onderdeel f, 11, eerste lid, onderdeel f, en 12, eerste lid, onderdeel f, dat kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in artikel 8:3, eerste lid, van de Algemene wet bestuursrecht, tenzij het betreft een besluit als bedoeld in artikel 8:4, derde lid, onderdeel b, van de Algemene wet bestuursrecht
 Wet op het accountantsberoep
 Wet op het financieel toezicht:
-a. artikel 1:26, eerste en tweede lid, de afdelingen 3A.1.3, 3A.1.4 en 3A.1.5 de artikelen 3A:85 en 3A:86 en de artikelen 5:77, eerste lid, en 5:81, derde lid
+a. artikel 1:26, eerste en tweede lid, de afdelingen 3A.1.3, 3A.1.4, 3A.1.5, 3A.2.3 en 3A.2.4 en de artikelen 5:77, eerste lid, en 5:81, derde lid
 b. een besluit terzake van het ingevolge artikel 5:76, tweede lid, of 5:80b, vijfde lid, bepaalde, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in artikel 1:80
 Wet personenvervoer 2000, met uitzondering van de artikelen 56, eerste lid, 59, eerste lid, 94, eerste lid, en 96, eerste lid
 Wet terugvordering staatssteun: artikel 3

@@ -1,7 +1,7 @@
 # Artikel 222c
 1. Ter zake van het hebben van voorwerpen onder, op of boven voor de openbare dienst bestemde grond van de provincie, kan een precariobelasting worden geheven.
 2. Geen belasting wordt geheven ter zake van:
-a. de infrastructuur, bedoeld in artikel 7, derde lid, van de Drinkwaterwet;
+a. de infrastructuur nodig voor de productie en distributie van drinkwater als bedoeld in artikel 7, eerste lid, onder b, in samenhang met artikel 1, eerste lid, van de Drinkwaterwet;
 b. een net als bedoeld in artikel 20, eerste lid, van de Elektriciteitswet 1998;
-c. een gastransportnet als bedoeld in artikel 39a van de Gaswet, of
+c. een gastransportnet als bedoeld in artikel 39a van de Gaswet; of
 d. werken als bedoeld in artikel 38 van de Warmtewet.
