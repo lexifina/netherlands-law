@@ -1,0 +1,2 @@
+# Artikel 1b
+Degene die een milieubelastende activiteit verricht met een vergunning krachtens artikel 15 of 29 van de wet voor het voorhanden hebben van radioactieve stoffen, splijtstoffen of ertsen, welke vergunning mede omvat het onvoorzien in ontvangst nemen van schroot met een verhoogd stralingsniveau waarbij de kans bestaat dat diegene in het bezit kan komen van radioactieve stoffen, splijtstoffen of ertsen, beschikt over een bedrijfsnoodplan als bedoeld in artikel 6.7 van het Besluit basisveiligheidsnormen stralingsbescherming.
