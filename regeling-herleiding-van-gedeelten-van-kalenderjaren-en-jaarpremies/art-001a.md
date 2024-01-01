@@ -1,0 +1,3 @@
+# Artikel 1a
+1. Gedeelten van kalenderjaren, gedurende welke de pensioengerechtigde na het bereiken van de aanvangsleeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, doch voor het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, verzekerd is geweest, worden voor de vaststelling of de pensioengerechtigde minimaal één kalenderjaar verzekerd is geweest als bedoeld in artikel 7, eerste lid, onderdeel b, van de Algemene Ouderdomswet samengesteld en herleid tot gehele kalenderjaren.
+2. Artikel 1, derde lid, is van overeenkomstige toepassing.
