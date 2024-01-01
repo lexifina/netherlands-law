@@ -1,3 +1,0 @@
-# Inhoud
-## Datavalidatie
-## Bewerking DIS
