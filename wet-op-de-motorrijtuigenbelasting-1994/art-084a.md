@@ -1,6 +1,6 @@
 # Artikel 84a
 1. Voor de toepassing van dit hoofdstuk is in afwijking van artikel 10 het tijdvak een kalenderjaar.
-2. Op verzoek bedraagt het toe te passen tarief over het tijdvak het bedrag aan belasting, genoemd in de artikelen 23, 24, 24a, 24b, 25, 25a of 25c, zoals deze artikelen luidden op 31 december voorafgaand aan het tijdvak. Het ingevolge de eerste volzin bepaalde bedrag aan belasting bedraagt, met inbegrip van de provinciale opcenten, bedoeld in artikel 222 van de Provinciewet, ten hoogste € 138,00.
+2. Op verzoek bedraagt het toe te passen tarief over het tijdvak het bedrag aan belasting, genoemd in de artikelen 23, 24, 24a, 24b, 25, 25a of 25c, zoals deze artikelen luidden op 31 december voorafgaand aan het tijdvak. Het ingevolge de eerste volzin bepaalde bedrag aan belasting bedraagt, met inbegrip van de provinciale opcenten, bedoeld in artikel 222 van de Provinciewet, ten hoogste € 152,00.
 3. Het tarief, bedoeld in het tweede lid, kan uitsluitend worden toegepast indien:
 a. het motorrijtuig vóór 1 januari 1988 voor het eerst in gebruik is genomen, maar het tijdstip van eerste ingebruikneming nog geen 40 jaar geleden is;
 b. het motorrijtuig, indien het een personenauto of bestelauto betreft, is bestemd om te worden aangedreven door een kracht die uitsluitend wordt ontleend aan benzine als bedoeld in artikel 22, eerste lid, onderdeel c;
