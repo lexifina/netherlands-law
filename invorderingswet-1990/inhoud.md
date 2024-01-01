@@ -7,7 +7,7 @@
 ### Afdeling 2. Verrekening
 ### Afdeling 3. Uitstel van betaling, kwijtschelding en verjaring
 ### Afdeling 4. Kredietrente, vertragingsrente en rente op achterstallen
-## Hoofdstuk V. Betalingskorting en invorderingsrente
+## Hoofdstuk V. Invorderingsrente
 ## Hoofdstuk VI. Aansprakelijkheid
 ### Afdeling 1. Aansprakelijkheid
 ### Afdeling 2. Formele bepalingen
