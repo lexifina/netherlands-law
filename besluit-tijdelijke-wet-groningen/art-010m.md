@@ -1,0 +1,3 @@
+# Artikel 10m
+1. Onze Minister voert op verzoek van de eigenaar van een gebouw waarbij sprake is van samenloop een totaalopname uit, door bij de opname van het gebouw op locatie, bedoeld in artikel 10f, vijfde lid, gelijktijdig ook schade aan het gebouw op te nemen, indien dit redelijkerwijs mogelijk is.
+2. Indien Onze Minister bij de opname van een gebouw, bedoeld in artikel 10f, vijfde lid, schade aan het gebouw constateert waarvoor de eigenaar van het gebouw nog geen aanvraag om schadevergoeding heeft gedaan, neemt hij op verzoek van de eigenaar gelijktijdig ook die schade op, indien dit redelijkerwijs mogelijk is.

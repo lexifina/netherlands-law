@@ -1,0 +1,6 @@
+# Artikel 10j
+1. Indien het Instituut een aanvraag om schadevergoeding ontvangt van een eigenaar van een gebouw dat in een programma is opgenomen, en een opname van het gebouw als bedoeld in artikel 10f, vierde lid, heeft plaatsgevonden:
+a. informeert het de eigenaar over de mogelijkheid om de afhandeling van zijn aanvraag om schadevergoeding en de versterking van zijn gebouw gecoördineerd te laten behandelen; en
+b. biedt het de eigenaar de keuze voor gecoördineerde behandeling aan, waarbij de eigenaar kan aangeven of hij coördinatie door Onze Minister of het Instituut wenst.
+2. Indien het Instituut een aanvraag om schadevergoeding ontvangt van een eigenaar van een gebouw waarbij sprake is van samenloop, en er een coördinator is aangewezen voor de afhandeling van de reeds in behandeling zijnde aanvraag om schadevergoeding, biedt het Instituut de eigenaar de mogelijkheid dat de reeds aangewezen coördinator ook de coördinatie voor de afhandeling van de nieuwe aanvraag om schadevergoeding op zich neemt.
+3. In een geval als bedoeld in het tweede lid worden voor de toepassing van de artikelen 10l, derde en vierde lid, 10m en 10o, de in het tweede lid bedoelde aanvraag om schadevergoeding betrokken, indien dit redelijkerwijs mogelijk is.

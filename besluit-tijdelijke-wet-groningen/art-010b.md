@@ -1,0 +1,8 @@
+# Artikel 10b
+1. Bij de vaststelling van de risicoprofielen van gebouwen, bedoeld in artikel 13e, eerste lid, van de wet, hanteert Onze Minister de volgende categorieën risicoprofielen:
+a. gebouw met een normaal risico: gebouw met een verwachtingswaarde die aangeeft dat het gebouw aan de veiligheidsnorm voldoet, en waarvan de berekeningen aangeven dat het gebouw in meer dan 90% van de gevallen aan de veiligheidsnorm voldoet;
+b. gebouw met een licht verhoogd risico: gebouw met een verwachtingswaarde die aangeeft dat het gebouw aan de veiligheidsnorm voldoet, en waarvan de berekeningen aangeven dat het gebouw in minder dan 90% van de gevallen aan de veiligheidsnorm voldoet;
+c. gebouw met een verhoogd risico: gebouw met een verwachtingswaarde die aangeeft dat het gebouw niet aan de veiligheidsnorm voldoet.
+2. Het vaststellen van een risicoprofiel van een gebouw vindt plaats door Onze Minister met gebruikmaking van een analyse van de verwachte bodembeweging op regioniveau en een analyse van de risico's van de verwachte bodembeweging voor omwonenden of gebouwen, die door een op grond van artikel 123, tweede lid, van de Mijnbouwwet aangewezen instelling zijn uitgevoerd.
+3. Indien de aard, locatie of staat van het gebouw daar aanleiding toe geeft, stelt Onze Minister het risicoprofiel van dat gebouw dat voortvloeit uit de analyses, bedoeld in het tweede lid, bij op basis van kennis van en ervaring met gelijksoortige gebouwen. Deze bijstelling kan er niet toe leiden dat een gebouw een lager risicoprofiel krijgt dan deze zou krijgen op basis van de uitkomsten van de analyses, bedoeld in het tweede lid.
+4. Bij ministeriële regeling kunnen nadere regels worden gesteld over de bijstelling, bedoeld in het derde lid.
