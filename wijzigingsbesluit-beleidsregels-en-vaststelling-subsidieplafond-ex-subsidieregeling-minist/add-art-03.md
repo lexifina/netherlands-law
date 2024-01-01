@@ -1,3 +1,0 @@
-# Artikel III
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
-2. Artikel II vervalt met ingang van 1 januari 2024.
