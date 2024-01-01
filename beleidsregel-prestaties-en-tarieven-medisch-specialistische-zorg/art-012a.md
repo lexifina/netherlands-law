@@ -1,6 +1,0 @@
-# Artikel 12a. Voorwaarden bij indiening van een aanvraag facultatieve prestatie msz
-1. Een aanvraag voor een facultatieve prestatie voldoet, naast de criteria genoemd in artikel 12b, eerste, tweede en zesde lid, aan de onderstaande cumulatieve voorwaarden:
-a. de aanvragers geven aan of de aanvraag betrekking heeft op een add-on facultatieve prestatie, of op een losse facultatieve prestatie als bedoeld in artikel 7, derde lid;
-b. de aanvragers geven aan of er bestaande prestaties (dbc-zorgproducten of overige zorgproducten) zijn die vanwege het risico op dubbele bekostiging niet in combinatie met de facultatieve prestatie in rekening kunnen worden gebracht en zo ja, welke prestaties dit zijn;
-c. de aanvragers geven aan of zij verwachten dat door de komst van de facultatieve prestatie een landelijke verschuiving plaatsvindt van (gedeclareerde) dbc-zorgproducten naar (gedeclareerde) ozp's. Zo ja, dan geven de aanvragers ook aan of zij verwachten dat de daarmee gemoeide geldbedragen op macroniveau (landelijk) meer dan € 1 miljoen op jaarbasis bedragen;
-d. de aanvragers verklaren dat declaraties van de beoogde facultatieve prestatie herleidbaar zijn tot het niveau van de individuele verzekerde.
