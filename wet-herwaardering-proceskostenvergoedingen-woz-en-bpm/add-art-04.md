@@ -1,0 +1,4 @@
+# Artikel IV
+Deze wet treedt in werking met ingang van 1 januari 2024, met dien verstande dat:
+a. artikel 30a, eerste en tweede lid, van de Wet waardering onroerende zaken, artikel 19a, eerste en tweede lid, van de Wet op de belasting van personenauto's en motorrijwielen 1992 en artikel 13a, tweede lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften voor het eerst toepassing vinden met betrekking tot een bezwaar tegen een na dat tijdstip bekendgemaakt besluit en een administratief beroep, beroep, hoger beroep, verzet, beroep in cassatie tegen of een verzoek om herziening van een na dat tijdstip bekendgemaakte beslissing of uitspraak;
+b. artikel 30a, derde lid, van de Wet waardering onroerende zaken en artikel 19a, derde lid, van de Wet op de belasting van personenauto's en motorrijwielen 1992 voor het eerst toepassing vinden op vergoedingen voor overschrijding van de redelijke termijn waarvan de termijn aanvangt na dat tijdstip.
