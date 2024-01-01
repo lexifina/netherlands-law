@@ -1,0 +1,4 @@
+# Artikel 76fbis
+[Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.]
+1. Door of op last van de burgemeesters kunnen, na algemene of bijzondere machtiging van Onze Minister van Binnenlandse Zaken, in de gemeente aanwezige verbruiksartikelen, bestemd voor bescherming en ontsmetting in het belang van de bestrijding van rampen en zware ongevallen, van de beperking van de onmiddellijke gevolgen daarvan alsmede van de voorbereiding op deze bestrijding en beperking, onmiddellijk in bezit worden genomen onder zo spoedig mogelijke afgifte van een schriftelijk bewijsstuk van de inbezitneming.
+2. De artikelen 76a ter, derde lid tot en met zesde lid, 76b, 76c, 76e en 76f vinden overeenkomstige toepassing.

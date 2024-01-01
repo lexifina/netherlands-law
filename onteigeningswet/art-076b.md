@@ -1,0 +1,3 @@
+# Artikel 76b
+[Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.]
+Indien degene, onder wien de burgemeester in het vorig artikel genoemde waren in bezit wil nemen, onmiddellijk ten genoegen van den burgemeester aanbiedt zelf op door dezen goedgekeurde wijze die waren ter beschikking te stellen tegen prijzen, die niet te boven gaan de daarvoor door Onzen voornoemden Minister bepaalde bedragen, kan de burgemeester de inbezitneming opschorten.
