@@ -47,7 +47,8 @@
 ### Afdeling 3. Fiscaal vertegenwoordiger
 ### Afdeling 4. Administratieve verplichtingen
 ### Afdeling 5. Bijzondere bepalingen
-## Hoofdstuk VII. Bestuurlijke boete
+### Afdeling 6. Algemene verplichtingen voor betalingsdienstaanbieders
+## Hoofdstuk VII. Bestuurlijke boetes
 ## Hoofdstuk VIII. Strafbepaling
 ## Hoofdstuk IX. Overgangs- en slotbepalingen
 ## Algemene aantekening
