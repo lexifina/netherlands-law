@@ -1,0 +1,2 @@
+# Artikel X
+Met betrekking tot bedragen die opeisbaar zijn geworden vóór 1 januari 2017 maar die op dat tijdstip niet of gedeeltelijk niet zijn ontvangen en ter zake waarvan vóór die datum nog geen recht op teruggaaf vanwege oninbaarheid van de vordering bestond ingevolge de vóór 1 januari 2017 geldende wetgeving, wordt de termijn van één jaar, bedoeld in artikel 92, tweede lid, van de Wet belastingen op milieugrondslag, geacht te zijn aangevangen met ingang van 1 januari 2017.
