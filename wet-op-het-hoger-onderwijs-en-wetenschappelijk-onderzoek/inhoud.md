@@ -89,7 +89,7 @@
 ### Titel 1. Het bestuur en de inrichting van de academische ziekenhuizen
 #### Paragraaf 1. Algemene bepalingen
 #### Paragraaf 2. De openbare academische ziekenhuizen
-#### Paragraaf 3. De academische ziekenhuizen bij de bijzondere universiteiten
+#### Paragraaf 3. De bijzondere academische ziekenhuizen
 ### Titel 2. Het gemeenschappelijk beleidsorgaan
 ### Titel 3. Het gemeenschappelijk uitvoeringsorgaan
 ### Titel 4. Overleg bestuur faculteit der geneeskunde en raad van bestuur
