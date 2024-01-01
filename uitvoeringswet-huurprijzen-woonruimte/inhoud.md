@@ -6,7 +6,6 @@
 ### § 1. Instelling, inrichting en samenstelling van de huurcommissie
 ### § 2. Taken van de huurcommissie
 ### § 3. Aan de Staat verschuldigde vergoeding
-## Hoofdstuk IIa
 ## Hoofdstuk III. Toetsingscriteria en uitspraken huurcommissie
 ### § 1. Algemeen
 ### § 2. Aanvangshuurprijs
