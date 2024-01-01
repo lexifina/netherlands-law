@@ -1,7 +1,7 @@
 # Artikel 154b
 1. De raad kan bij verordening bepalen dat een bestuurlijke boete kan worden opgelegd voor overtreding van:
 a. voorschriften uit zijn verordeningen betreffende gedragingen die kunnen leiden tot overlast in de openbare ruimte en die tevens krachtens artikel 154 strafbaar zijn gesteld, met uitzondering van de bij algemene maatregel van bestuur bepaalde voorschriften, en
-b. de bij algemene maatregel van bestuur bepaalde voorschriften die op grond van artikel 10.23 van de Wet milieubeheer zijn vastgesteld in een verordening en die strafbaar zijn gesteld.
+b. de bij algemene maatregel van bestuur bepaalde voorschriften die op grond van de artikelen 10.23 tot en met 10.26 en 10.28 van de Wet milieubeheer zijn gesteld en die strafbaar zijn gesteld.
 De voordracht voor een krachtens dit lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 2. De verordening, bedoeld in het eerste lid, is van toepassing op alle overtredingen, genoemd in het eerste lid.
 3. Een besluit van de raad tot intrekking van de verordening, bedoeld in het eerste lid, treedt niet eerder in werking dan na twaalf maanden na de bekendmaking van het besluit.

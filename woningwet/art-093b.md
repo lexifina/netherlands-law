@@ -1,5 +1,5 @@
 # Artikel 93b
-1. De toezichthoudende ambtenaren, bedoeld in artikel 93, tweede lid, zijn bevoegd om, ter uitvoering van verordening (EU) 2019/1020, onder verstrekking van onjuiste of onvolledige gegevens met betrekking tot hun identiteit en hoedanigheid, bouwproducten te verkrijgen en de hieraan gerelateerde handelingen te verrichten voor zover dat voor de vervulling van hun taak noodzakelijk is. Artikel 5:12, tweede lid, van de Algemene wet bestuursrecht is niet van toepassing.
+1. De toezichthoudende ambtenaren, bedoeld in artikel 93, derde lid, zijn bevoegd om, ter uitvoering van verordening (EU) 2019/1020, onder verstrekking van onjuiste of onvolledige gegevens met betrekking tot hun identiteit en hoedanigheid, bouwproducten te verkrijgen en de hieraan gerelateerde handelingen te verrichten voor zover dat voor de vervulling van hun taak noodzakelijk is. Artikel 5:12, tweede lid, van de Algemene wet bestuursrecht is niet van toepassing.
 2. De ambtenaar die gebruik heeft gemaakt van de bevoegdheid, bedoeld in het eerste lid, maakt daarvan een schriftelijk verslag op waarin hij vermeldt:
 a. zijn naam of nummer en hoedanigheid;
 b. de motivering van de noodzaak tot uitoefening van de bevoegdheid;

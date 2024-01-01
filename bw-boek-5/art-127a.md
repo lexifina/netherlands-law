@@ -1,5 +1,5 @@
 # Artikel 127a
-1. In geval van een ernstige dreiging van het ontstaan van een situatie waarin een gedeelte van het gebouw dat niet bestemd is voor gebruik als afzonderlijk geheel niet voldoet aan artikel 1a, eerste lid, of 1b, tweede lid, van de Woningwet, kan de gemeente op haar verzoek worden gemachtigd door de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen om:
+1. In geval van een ernstige dreiging van het ontstaan van een situatie waarin een gedeelte van het gebouw dat niet bestemd is voor gebruik als afzonderlijk geheel niet voldoet aan de op grond van artikel 4.3 van de Omgevingswet gestelde regels voor het in stand houden van bouwwerken, kan de gemeente op haar verzoek worden gemachtigd door de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen om:
 a. een vergadering van eigenaars bijeen te roepen op de wijze als in de statuten bepaald;
 b. de vergadering bij te wonen, daarin het woord te voeren en voorstellen te doen omtrent:
 – het beheer en het onderhoud van de onderscheiden gedeelten van het gebouw;

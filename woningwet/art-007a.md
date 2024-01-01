@@ -1,8 +1,0 @@
-# Artikel 7a
-1. Onze Minister kan met het oog op duurzaam bouwen in een bijzonder geval het bevoegd gezag toestaan door hem voorgestelde nadere voorschriften op te leggen ter voldoening aan de technische voorschriften omtrent bouwen, gegeven bij of krachtens een algemene maatregel van bestuur als bedoeld in artikel 2, eerste lid. Dit toestaan kan ook betrekking hebben op door het bevoegd gezag voorgestelde, uit het oogpunt van milieu op te leggen technische voorschriften omtrent bouwen, waarin een algemene maatregel van bestuur als bedoeld in artikel 2, eerste lid, niet voorziet. Een verzoek van het bevoegd gezag geschiedt mede aan de hand van een door Onze Minister ter beschikking gesteld formulier. Het verzoek, alsmede de daarbij voorgestelde op te leggen voorschriften zijn gemotiveerd en van een toelichting voorzien.
-2. Onze Minister beslist binnen acht weken na ontvangst van een verzoek om toestemming. Hij kan die beslissing eenmaal voor ten hoogste vier weken verdagen. Indien toestemming wordt verleend, geldt die toestemming alleen voor het geval waarop het verzoek betrekking heeft. Aan een toestemming kunnen voorschriften worden verbonden.
-3. De toestemming op een verzoek van het bevoegd gezag is van rechtswege verleend indien Onze Minister:
-a. niet binnen acht weken na ontvangst van het verzoek een beslissing op dat verzoek heeft genomen,
-b. niet binnen acht weken na ontvangst van het verzoek heeft besloten de beslissing op dat verzoek te verdagen, of
-c. niet binnen de termijn waarmee de beslissing op het verzoek is verdaagd, een beslissing op dat verzoek heeft genomen.
-Deze verlening van toestemming wordt aangemerkt als een besluit in de zin van artikel 1:3 van de Algemene wet bestuursrecht.

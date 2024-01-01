@@ -1,44 +1,10 @@
 # Inhoud
 ## Hoofdstuk 1. Algemeen
-### § 1.1. Algemeen
-### § 1.2. De provinciale milieuverordening
 ## Hoofdstuk 2. Zelfstandige bestuursorganen, bevoegde autoriteiten en adviesorganen
 ### § 2.1. De Nederlandse emissieautoriteit
-### § 2.2. De Commissie voor de milieueffectrapportage
 ### § 2.3. De Commissie genetische modificatie
-### § 2.4. De provinciale milieucommissie
 ### § 2.5. EU-milieukeur
-## Hoofdstuk 3. Internationale zaken
-## Hoofdstuk 4. Plannen
-### § 4.1. Algemeen
-### § 4.2. Het nationale milieubeleidsplan
-### § 4.4. Het provinciale milieubeleidsplan
-### § 4.6. Het gemeentelijke milieubeleidsplan
-### § 4.8. Het gemeentelijke rioleringsplan
-## Hoofdstuk 5. Milieukwaliteitseisen
-### Titel 5.1. Algemene bepalingen ten aanzien van milieukwaliteitseisen
-### Titel 5.2. Luchtkwaliteitseisen
-#### § 5.2.1. Algemene bepalingen
-#### § 5.2.2. Plannen
-#### § 5.2.3. Nationaal programma en overige programma's
-#### § 5.2.4. Uitoefening van bevoegdheden of toepassing van wettelijke voorschriften
-#### § 5.2.5. Beoordeling van de luchtkwaliteit
-#### § 5.2.6. Handhaving en internationale samenwerking
-## Hoofdstuk 6. Milieuzonering
-## Hoofdstuk 7. Milieueffectrapportage
-### § 7.1. Algemeen
-### § 7.2. Plannen en besluiten ten aanzien waarvan het maken van een milieueffectrapport verplicht is
-### § 7.3. Het milieueffectrapport dat betrekking heeft op een plan
-### § 7.4. De voorbereiding van een milieueffectrapport dat betrekking heeft op een plan
-### § 7.5. Het plan
-### § 7.6. Besluiten ten aanzien waarvan moet worden beoordeeld of een milieueffectrapport moet worden gemaakt
-### § 7.7. Het milieueffectrapport dat betrekking heeft op een besluit
-### § 7.8. De beperkte voorbereiding inzake het milieueffectrapport dat betrekking heeft op een besluit
-### § 7.9. De uitgebreide voorbereiding inzake het milieueffectrapport dat betrekking heeft op een besluit
-### § 7.10. Het besluit
-### § 7.11. Activiteiten met mogelijke grensoverschrijdende milieugevolgen
-### § 7.12. Evaluatie
-## Hoofdstuk 8. Inrichtingen
+## Hoofdstuk 8. Milieubelastende activiteiten, gesloten stortplaatsen en gesloten afvalvoorzieningen
 ### Paragraaf 8.1
 ### Paragraaf 8.2
 ### Paragraaf 8.3
@@ -79,46 +45,12 @@
 ### Titel 10.7. Het overbrengen van afvalstoffen binnen, naar en uit de Europese Gemeenschap
 ### Titel 10.8. Verdere bepalingen
 ## Hoofdstuk 11. Geluid
-### Titel 11.1. Algemeen
-### Titel 11.2. Geluidsbelastingkaarten en actieplannen
-#### § 11.2.1. Algemeen
-#### § 11.2.2. Geluidsbelastingkaarten
-#### § 11.2.3. Actieplannen
-#### § 11.2.4. Inlichtingen aan een andere lidstaat van de Europese Unie
-### Titel 11.3. Wegen en spoorwegen met geluidproductieplafonds
-#### Afdeling 11.3.1. Algemeen
-#### Afdeling 11.3.2. Naleving en registratie van geluidproductieplafonds
-##### § 11.3.2.1. Naleving van de geluidproductieplafonds
-##### § 11.3.2.2. Het geluidregister
-#### Afdeling 11.3.3. Vaststelling of wijziging van geluidproductieplafonds
-##### § 11.3.3.1. Algemeen
-##### § 11.3.3.2. Procedures voor vaststelling of wijziging van geluidproductieplafonds
-##### § 11.3.3.3. De binnenwaarde
-##### § 11.3.3.4. Verdere bepalingen omtrent vaststelling en wijziging van geluidproductieplafonds
-#### Afdeling 11.3.4. Geluidproductieplafonds voor op 1 juli 2012 bestaande of geprojecteerde wegen en spoorwegen
-##### § 11.3.4.1. Het tot stand komen van de geluidproductieplafonds
-##### § 11.3.4.2. Bijzondere bepalingen met betrekking tot het wijzigen van geluidproductieplafonds die tot stand zijn gekomen met toepassing van artikel 11.45
-#### Afdeling 11.3.5. Overschrijding van de maximale waarde
-#### Afdeling 11.3.6. Sanering
-#### Afdeling 11.3.7. Overige bepalingen
 ## Hoofdstuk 11a. Andere handelingen
 ### Titel 11a.1. Kwaliteit van werkzaamheden en integriteit van degenen die deze werkzaamheden uitvoeren
-## Hoofdstuk 12. Verslag-, registratie- en meetverplichtingen
-### Titel 12.1. Registers beschermde gebieden
-### Titel 12.2. Registratie gegevens externe veiligheid inrichtingen, transportroutes en buisleidingen
-### Titel 12.3. De EG-verordening PRTR en het PRTR-protocol
-#### § 12.3.1. Algemeen
-#### § 12.3.2. Rapportage door inrichtingen
-#### § 12.3.3. PRTR
-#### § 12.3.4. Aanvullende rapportageverplichtingen
-#### § 12.3.5. Slotbepalingen
 ## Hoofdstuk 13. Procedures voor vergunningen en ontheffingen
 ### Afdeling 13.1. Algemeen
 ### Afdeling 13.2. Bijzondere bepalingen
-### Afdeling 13.3. Afvalvoorzieningen categorie A met mogelijke grensoverschrijdende milieugevolgen
-## Hoofdstuk 14. Coördinatie
-### § 14.1. Coördinatie bij aanvragen om een beschikking
-### § 14.2. Coördinatie bij het maken van een milieueffectrapport
+### Afdeling 13.3. Winningsafvalvoorzieningen categorie A met mogelijke grensoverschrijdende milieugevolgen
 ## Hoofdstuk 15. Financiële bepalingen
 ### Titel 15.1
 ### Titel 15.2. Verbruiksbelastingen van brandstoffen
@@ -172,15 +104,12 @@
 ### Titel 16c.1. Overgangsperiode
 ## Hoofdstuk 17. Maatregelen in bijzondere omstandigheden
 ### Titel 17.1. Maatregelen bij een ongewoon voorval
-### Titel 17.1A. Maatregelen betreffende afvalvoorzieningen
-### Titel 17.1B. Maatregelen in geval van niet-naleving
+### Titel 17.1A. Maatregelen betreffende winningsafvalvoorzieningen
 ### Titel 17.2. Maatregelen bij milieuschade of een onmiddellijke dreiging daarvan
 ### Titel 17.3. Maatregelen bij gevaar door stoffen, mengsels of genetisch gemodificeerde organismen
 ## Hoofdstuk 18. Handhaving
 ## Hoofdstuk 19. Openbaarheid van milieu-informatie
 ## Hoofdstuk 20. Inwerkingtreding en rechtsbescherming
-### § 20.1. Algemeen
-### § 20.2. Advisering inzake beroepen milieubeheer
 ## Hoofdstuk 21. Verdere bepalingen
 ## Hoofdstuk 22. Slotbepalingen
 ## § 1. Grenswaarden en alarmdrempel voor zwaveldioxide

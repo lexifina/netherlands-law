@@ -1,2 +1,0 @@
-# Artikel 13a
-Indien niet wordt voldaan aan artikel 12, eerste lid, kan het bevoegd gezag, tenzij toepassing is gegeven aan het tweede lid van dat artikel, degene die als eigenaar van een bouwwerk dan wel uit anderen hoofde bevoegd is tot het treffen van voorzieningen daaraan, verplichten tot het binnen een door hem te bepalen termijn treffen van zodanige door hem daarbij aan te geven voorzieningen, dat nadien wordt voldaan aan artikel 12, eerste lid.
