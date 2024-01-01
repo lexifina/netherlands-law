@@ -1,12 +1,10 @@
 # Inhoud
 ## Hoofdstuk I. Algemene bepalingen
-## Hoofdstuk II. Voorschriften betreffende het bouwen, de staat van bestaande bouwwerken, het gebruik, het slopen en de welstand
+## Hoofdstuk II. Voorschriften betreffende het bouwen, bestaande bouwwerken en het gebruiken en slopen van bouwwerken
 ### Afdeling 1. Voorschriften betreffende het bouwen, de staat van bestaande bouwwerken, het gebruik en het slopen
 ### Afdeling 1a. Kwaliteitsborging voor het bouwen
 #### Paragraaf 1. Instrumenten voor kwaliteitsborging
 #### Paragraaf 2. Toelatingsorganisatie
-### Afdeling 2. De bouwverordening
-### Afdeling 3. De welstand
 ## Hoofdstuk III. Bijzondere bepalingen
 ## Hoofdstuk IIIa. Wooncoöperaties
 ## Hoofdstuk IV. Toegelaten instellingen
@@ -37,6 +35,5 @@
 ### Afdeling 4a. Stedelijke vernieuwing
 ### Afdeling 5. Verstrekking van geldelijke steun uit 's Rijks kas
 ## Hoofdstuk VI. Bestuursrechtelijke handhaving
-## Hoofdstuk VII. Voorzieningen in geval van buitengewone omstandigheden
 ## Hoofdstuk VIII. Dwang- en strafbepalingen
 ## Hoofdstuk IX. Slot- en overgangsbepalingen

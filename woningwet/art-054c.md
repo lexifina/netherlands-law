@@ -1,0 +1,3 @@
+# Artikel 54c
+1. Indien na overlijden van de huurder van de woning van een toegelaten instelling geen persoon de huur krachtens artikel 268 van Boek 7 van het Burgerlijk Wetboek voortzet, informeert de toegelaten instelling de andere bewoner die zijn hoofdverblijf heeft bij de overleden huurder op het moment van diens overlijden, ten minste over zijn contractuele rechten en plichten.
+2. De toegelaten instelling zendt de informatie, bedoeld in het eerste lid, bij aangetekende brief en niet eerder dan twee weken maar uiterlijk binnen een maand nadat het overlijden van de huurder ter kennis is gekomen van de toegelaten instelling.
