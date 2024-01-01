@@ -1,2 +1,0 @@
-# Artikel II
-Indien krachtens artikel I, onderdeel B, van dit besluit een bevoegdheid overgaat naar een ander bestuursorgaan, blijft het voor het tijdstip van inwerkingtreding van dit besluit geldende recht van toepassing ten aanzien van een beschikking die voor het tijdstip van inwerkingtreding van dit besluit is aangevraagd of die ambtshalve is genomen en bekendgemaakt voor het tijdstip van inwerkingtreding van dit besluit, tot het tijdstip waarop de beschikking op die aanvraag of de ambtshalve genomen beschikking in werking en onherroepelijk is.

@@ -1,3 +1,0 @@
-# Artikel IV
-1. Op een aanvraag om een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder f, van de Wet algemene bepalingen omgevingsrecht die betrekking heeft op een beschermd monument als bedoeld in die wet dat buiten de krachtens de Wegenverkeerswet 1994 vastgestelde bebouwde kom ligt en is ingediend voor het tijdstip van inwerkingtreding van artikel II van dit besluit, blijft het Besluit omgevingsrecht zoals dat luidde voor inwerkingtreding van artikel II van dit besluit van toepassing.
-2. Het eerste lid is niet van toepassing indien het een activiteit betreft als bedoeld in dat lid waarvoor met de inwerkingtreding van artikel II van dit besluit geen omgevingsvergunning meer is vereist.
