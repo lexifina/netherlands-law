@@ -1,5 +1,0 @@
-# Artikel 3b. Beëindiging verzorgen van beroepsopleidingen
-1. Bij de beëindiging van het verzorgen van beroepsopleidingen, bedoeld in artikel 7.1.2, tweede lid, van de wet door een instelling vormt het aantal studenten, bedoeld in de formule in artikel 5, vijfde lid, van de betreffende instelling de basis voor de toekenning aan één of meerdere instellingen.
-2. Indien er meerdere instellingen betrokken zijn bij de overname van de beroepsopleidingen, bedoeld in het eerste lid, treedt de minister in overleg.
-3. Bij de beëindiging van het verzorgen van beroepsopleidingen, bedoeld in het eerste en tweede lid, vormt het aantal studenten, bedoeld in het deel van de formule (DDRi * 0,3 + VDRi *1), bedoeld in artikel 5, vijfde lid, de basis voor de toekenning aan de overnemende instelling(en).
-4. Bij beschikking bepaalt de minister welk deel van het aantal studenten voor de berekening van de aanvullende bekostiging, bedoeld in het eerste en derde lid, wordt toegekend aan de betrokken instellingen.

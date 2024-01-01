@@ -1,3 +1,0 @@
-# Artikel 9a. Overgangsbepaling voor het vbo van voormalige agrarische opleidingscentra
-1. Voor de berekening van de aanvullende bekostiging bedoeld in artikel 2 voor scholen voor vbo die van rechtswege zijn ontstaan na de omzetting van agrarische opleidingscentra op grond van artikel 12.2.4 van de wet, wordt voor wat betreft het kalenderjaar waarin die omzetting plaatsvindt, gebruik gemaakt van de berekeningswijze op grond van deze regeling zoals deze luidde op 31 juli van dat kalenderjaar.
-2. De aanvullende personele bekostiging op grond van artikel 2 van de Regeling versterking functiemix vo-leraren in de Randstadregio's voor de scholen voor vbo bedoeld in het eerste lid, vindt voor het eerst toepassing over het kalenderjaar volgend op die omzetting.
