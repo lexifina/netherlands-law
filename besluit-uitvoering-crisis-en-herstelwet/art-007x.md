@@ -1,2 +1,0 @@
-# Artikel 7x
-In het gebied Oosterwold in de gemeenten Almere en Zeewolde, zoals aangegeven op de kaart in bijlage 37, kan het bevoegd gezag, in afwijking van artikel 3.12 van de Activiteitenregeling milieubeheer, in het bestemmingsplan als bedoeld in artikel 7c, zeventiende lid, onder a, van dit besluit, regels opnemen ter voorkoming of beperking van slagschaduw en lichtschittering ter plaatse van gevoelige objecten, als bedoeld in artikel 1 van het Activiteitenbesluit milieubeheer.

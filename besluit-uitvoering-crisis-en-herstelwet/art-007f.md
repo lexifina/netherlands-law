@@ -1,7 +1,0 @@
-# Artikel 7f
-1. Onverminderd artikel 7a geldt voor het bestemmingsplangebied voor het voormalige bedrijventerrein Cruquiusgebied in de gemeente Amsterdam, bedoeld in artikel 7a, vijfde lid, onder a, dat gedurende een periode van maximaal tien jaar:
-a. artikel 7c, negende lid, onderdelen c en d, en artikel 7d van overeenkomstige toepassing zijn;
-b. in afwijking van artikel 2.2, onderdeel c, van het Besluit geluidhinder de hogere waarde voor de ten hoogste toelaatbare geluidbelasting van het industrieterrein op ligplaatsen voor woonschepen die reeds aanwezig waren op 1 juli 2012 niet hoger mag worden vastgesteld dan 60 dB(A);
-c. in afwijking van artikel 2.4 van het Besluit geluidhinder of artikel 2.20, tweede lid, van het Activiteitenbesluit milieubeheer voor woningen en andere geluidsgevoelige gebouwen die reeds aanwezig waren op 1 juli 2012 niet voldaan hoeft te worden aan de in die artikelen opgenomen binnenwaarden zolang binnen de geluidsgevoelige ruimten respectievelijk verblijfsruimten een goed woon- en leefklimaat is gewaarborgd;
-d. in afwijking van artikel 2.17 van het Activiteitenbesluit milieubeheer de in de periode tussen 07.00 en 19.00 uur in tabel 2.17a opgenomen maximale geluidsniveaus worden verhoogd met maximaal 5 dB(A).
-2. Dit artikel is van toepassing op het in het eerste lid bedoelde bestemmingsplan, voor zover dit bestemmingsplan wordt vastgesteld vóór 1 juli 2018.

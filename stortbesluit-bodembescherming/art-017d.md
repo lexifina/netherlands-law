@@ -1,3 +1,0 @@
-# Artikel 17d
-1. Bij ministeriële regeling worden met betrekking tot de pilotstortplaatsen en de stortplaatsen of gedeelten daarvan, bedoeld in artikel 17c, eerste en tweede lid, regels gesteld in het belang van de bescherming van het milieu. De regels kunnen per stortplaats verschillend worden vastgesteld.
-2. De regels krachtens het eerste lid hebben in elk geval betrekking op de maatregelen en voorzieningen die moeten worden getroffen ten behoeve van de uitvoering van het experiment en de monitoring van het experiment ten behoeve van de evaluaties, bedoeld in artikel 17e, vierde en zevende lid.

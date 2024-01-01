@@ -1,6 +1,0 @@
-# Artikel 5a
-1. Het bevoegd gezag verbindt aan de vergunning voor een ondergrondse stortplaats de verplichting dat:
-a. voor zover van toepassing, de voorzieningen, bedoeld in bijlage A bij de bijlage bij de beschikking nr. 2003/33/EG van de Raad van de Europese Unie van 19 december 2002 tot vaststelling van criteria en procedures voor het aanvaarden van afvalstoffen op stortplaatsen overeenkomstig artikel 16 en bijlage II van Richtlijn 1999/31/EG betreffende het storten van afvalstoffen (Pb EG L 11), worden getroffen,
-b. de afvalstoffen in de diepe ondergrond worden gebracht in overeenstemming met het bepaalde in bijlage A, bedoeld onder a, en
-c. degene die een ondergrondse stortplaats drijft, er voor zorgdraagt dat op die stortplaats een rapport, inhoudende een veiligheidsbeoordeling, aanwezig is die voldoet aan onderdeel 2.5 van de bijlage bij de beschikking, bedoeld onder a.
-2. Een wijziging van de bijlage bij de beschikking, bedoeld in het eerste lid, gaat voor de toepassing van het eerste lid gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
