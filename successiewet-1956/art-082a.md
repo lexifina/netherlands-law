@@ -1,4 +1,3 @@
 # Artikel 82a
 1. De verhoogde vrijstelling, bedoeld in artikel 33, onderdeel 5°, is niet van toepassing indien voorafgaande aan 1 januari 2010 de verhoogde vrijstelling, bedoeld in artikel 33, eerste lid, onderdeel 5°, zoals dat luidde op 31 december 2009 door het kind is toegepast.
 2. De verhoogde vrijstelling, bedoeld in artikel 33, onderdeel 5°, is tevens niet van toepassing indien in een van de kalenderjaren 2010 tot en met 2016 de verhoogde vrijstelling, bedoeld in artikel 33, onderdelen 5° of 6°, zoals die luidden in die kalenderjaren, of artikel 33a, zoals dat luidde op 31 december 2014, door het kind is toegepast.
-3. De verhoogde vrijstelling, bedoeld in artikel 33, onderdeel 7°, is niet van toepassing indien ter zake van een verkrijging van dezelfde schenker of diens partner de vrijstelling, bedoeld in artikel 33a, zoals dat luidde op 31 december 2014, is toegepast.
