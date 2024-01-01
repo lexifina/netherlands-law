@@ -1,0 +1,3 @@
+# Artikel 14a. Extra reisvoorziening
+1. Een ho-student die in de periode maart tot en met december 2020 voor de duur van minimaal 1 kalendermaand aanspraak had op een reisvoorziening en voor wie in die periode voor een of meerdere maanden een vorm van reguliere studiefinanciering als bedoeld in hoofdstuk 3 van de Wsf 2000 is toegekend, komt in aanmerking voor een extra reisvoorziening, bestaande uit een verlenging van de duur van de aanspraak op een reisvoorziening, als bedoeld in artikel 5.2 van de Wsf 2000, met de duur van 12 kalendermaanden.
+2. De verlengde aanspraak op reisvoorziening wordt toegekend aansluitend aan de laatste maand van de reguliere aanspraak op reisvoorziening.
