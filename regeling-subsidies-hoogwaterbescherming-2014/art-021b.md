@@ -1,0 +1,10 @@
+# Artikel 21b. Subsidieverlening en subsidievaststelling
+Op de verlening onderscheidenlijk de vaststelling van een subsidie als bedoeld in artikel 21a zijn de artikelen 7, eerste lid, 8, onderdeel a, 9, 10, 16, 17 en 21 onderscheidenlijk 12 en 13 van overeenkomstige toepassing, met dien verstande dat:
+a. de beschikking tot verlening van de subsidie in aanvulling op artikel 8, onderdeel a:
+1°. een bepaling kan bevatten dat de omschrijving van de activiteiten waarvoor subsidie wordt verleend later kan worden uitgewerkt door de subsidieontvanger;
+2°. een bepaling kan bevatten dat de omschrijving van de verplichtingen, bedoeld in de artikelen 10 en 21, voor de subsidieontvanger later kan worden uitgewerkt door de Minister;
+3°. een bepaling bevat dat de subsidie wordt verleend onder de voorwaarde, bedoeld in artikel 4:34 van de Algemene wet bestuursrecht, indien deze wordt verleend ten laste van een begroting die nog niet is vastgesteld;
+b. een aanvraag als bedoeld in artikel 9, eerste lid, ter zake van het tweede of latere kalenderjaar niet in behandeling wordt genomen zolang het verantwoordingsverslag, bedoeld in artikel 21, eerste lid, niet is ingediend, uitgezonderd een experiment of demonstratieproject als bedoeld in artikel 21, tweede lid;
+c. de beheerder van een primaire waterkering in aanvulling op artikel 12, tweede lid:
+1°. een financiële eindverantwoording verstrekt over de uitvoering van het vooronderzoek bestaande uit een overzicht van de gemaakte kosten waarbij onderscheid wordt gemaakt naar de kostensoorten, bedoeld in artikel 21a, tweede lid, en
+2°. een verklaring verstrekt over de financiële eindverantwoording, afgegeven door een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek, waaruit blijkt of het vooronderzoek is uitgevoerd overeenkomstig de beschikking tot subsidieverlening en waaruit blijkt dat de onder 1° bedoelde kosten zijn gemaakt, overeenkomstig het daartoe door de Minister bekendgemaakte controleprotocol.
