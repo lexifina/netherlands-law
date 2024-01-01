@@ -1,2 +1,0 @@
-# Artikel 8c
-Indien er ter zake van een huurwoning meer dan één genothebbende krachtens eigendom, bezit of beperkt recht is, wordt voor de verhuurderbijdrage de huurwoning in aanmerking genomen bij degene aan wie de beschikking, bedoeld in artikel 22 van de Wet waardering onroerende zaken, ter zake van die huurwoning op de voet van artikel 24, derde en vierde lid, van die wet is bekendgemaakt.
