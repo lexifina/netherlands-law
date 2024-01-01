@@ -1,0 +1,2 @@
+# Artikel 8b
+De fabrikant zorgt ervoor dat hij beschikt over procedures om de conformiteit van zijn serieproductie met de EU-richtlijn pyrotechnische artikelen te blijven waarborgen. Er wordt in die procedures terdege rekening gehouden met veranderingen in het ontwerp of in de kenmerken van het pyrotechnische artikel en met veranderingen in de geharmoniseerde normen of andere technische specificaties waarnaar in de EU-conformiteitsverklaring van het pyrotechnische artikel is verwezen.

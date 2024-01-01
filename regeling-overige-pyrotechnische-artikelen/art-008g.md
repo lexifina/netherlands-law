@@ -1,0 +1,2 @@
+# Artikel 8g
+Indien een importeur of distributeur pyrotechnische artikelen onder zijn eigen naam of merknaam in de handel brengt, of reeds in de handel gebrachte pyrotechnische artikelen zodanig wijzigt dat de conformiteit met de essentiële veiligheidseisen in gedrang komt, wordt hij als fabrikant beschouwd en voldoet hij aan de verplichtingen die overeenkomstig deze regeling aan de fabrikant worden gesteld.

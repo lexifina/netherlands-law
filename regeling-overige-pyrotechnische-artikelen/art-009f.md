@@ -1,0 +1,4 @@
+# Artikel 9f
+Indien een importeur van mening is of redenen heeft om aan te nemen dat een door hem in de handel gebracht pyrotechnisch artikel niet in overeenstemming is met de eisen gesteld bij deze regeling:
+a. neemt hij onmiddellijk alle corrigerende maatregelen die nodig zijn om dat pyrotechnische artikel in overeenstemming te brengen met deze eisen of zo nodig uit de handel te nemen of terug te roepen; en
+b. brengt hij, indien het pyrotechnische artikel een risico vertoont de bevoegde autoriteiten van de lidstaten waar hij het artikel op de markt heeft aangeboden, hiervan onmiddellijk op de hoogte. Indien hij de artikelen in Nederland op de markt heeft aangeboden, brengt hij de bevoegde autoriteit onmiddellijk op de hoogte. Bij het op de hoogte brengen van deze autoriteiten beschrijft de importeur in het bijzonder uitvoerig de niet-conformiteit en alle genomen corrigerende maatregelen.

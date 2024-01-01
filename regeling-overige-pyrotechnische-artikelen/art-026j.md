@@ -1,0 +1,2 @@
+# Artikel 26j
+Een conformiteitsbeoordelingsinstantie die aantoont dat zij voldoet aan de criteria in de ter zaken doende geharmoniseerde normen of delen ervan, waarvan de referentienummers in het Publicatieblad van de Europese Unie zijn bekendgemaakt, wordt geacht aan de eisen, genoemd in de artikelen 26a tot en met 26i, te voldoen, op voorwaarde dat de van toepassing zijnde geharmoniseerde normen de eisen dekken.

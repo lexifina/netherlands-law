@@ -1,0 +1,2 @@
+# Artikel 27b
+De aangewezen instantie verleent geen conformiteitscertificaat indien zij vaststelt dat een fabrikant niet heeft voldaan aan de essentiële veiligheidseisen of aan de overeenkomstige geharmoniseerde normen of andere technische specificaties. Zij verlangt dat de fabrikant de passende corrigerende maatregelen neemt.
