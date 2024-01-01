@@ -1,0 +1,4 @@
+# Artikel 1a
+1. Onze Minister wijst ten behoeve van de openbare lichamen ten minste één psychiatrisch ziekenhuis aan.
+2. Indien en zodra noch door een openbaar lichaam noch van particuliere zijde een op de medische en verpleegkundige verzorging van psychiatrische patiënten uit de openbare lichamen gerichte instelling in stand wordt gehouden, voorziet de Rijksvertegenwoordiger ten laste van de openbare lichamen in de oprichting en het beheer van een psychiatrisch ziekenhuis, dat ten minste toegankelijk is voor die categorie of categorieën van patiënten, waaraan geen bestaand psychiatrisch ziekenhuis toegang verschaft.
+3. Bij of krachtens algemene maatregel van bestuur worden geregeld naast het algemene toezicht, bedoeld in artikel 6, het bijzondere toezicht op, het bestuur van, de voorwaarden voor de opneming en verpleging, waaronder de verpleeggelden, in een psychiatrisch ziekenhuis, bedoeld in het tweede lid.
