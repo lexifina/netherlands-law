@@ -1,3 +1,0 @@
-# Artikel 5b
-1. De adviezen van de commissie worden uitgebracht overeenkomstig het gevoelen van de meerderheid van de vergadering.
-2. Ter vergadering ingebrachte minderheidsstandpunten worden in of bij de adviezen vermeld.

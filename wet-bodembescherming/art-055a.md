@@ -1,2 +1,0 @@
-# Artikel 55a
-In deze paragraaf en de daarop berustende bepalingen wordt onder een bedrijfsterrein verstaan een perceel als bedoeld in artikel 1, eerste lid, van de Kadasterwet waarop bedrijfsactiviteiten worden verricht door een onderneming in de zin van de Wet op de inkomstenbelasting 2001 of de Wet op de vennootschapsbelasting 1969, niet behorend tot de landbouwsector, zoals opgenomen in de Communautaire richtsnoeren voor staatssteun in de landbouwsector van 1 februari 2000 (PbEG C 28) dan wel overeenkomstig daarvoor in de plaats tredende regelgeving.

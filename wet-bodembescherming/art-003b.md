@@ -1,4 +1,0 @@
-# Artikel 3b
-1. De commissie wijst uit haar midden een plaatsvervangend voorzitter aan.
-2. De plaatsvervangend voorzitter kan te allen tijde zijn functie neerleggen door een schriftelijke kennisgeving aan de voorzitter.
-3. In bijzondere gevallen kan de commissie de plaatsvervangend voorzitter in zijn functie schorsen en uit zijn functie ontslaan.

@@ -1,3 +1,0 @@
-# Artikel 39e
-1. De eigenaar, erfpachter of gebruiker van het grondgebied waar na de sanering een verontreiniging in de bodem aanwezig is gebleven, neemt de beperkingen in het gebruik van de bodem in acht die zijn beschreven in het schriftelijk verslag, bedoeld in artikel 39c, eerste lid, of het nazorgplan, bedoeld in artikel 39d, eerste lid.
-2. Met de uitvoering van de maatregelen die zijn beschreven in het nazorgplan, is belast degene die de bodem heeft gesaneerd, dan wel degene die daartoe is aangewezen in het nazorgplan, waarmee gedeputeerde staten hebben ingestemd. De uitvoering geschiedt overeenkomstig het nazorgplan waarmee door gedeputeerde staten is ingestemd, en overeenkomstig de voorschriften die aan de instemming zijn verbonden.

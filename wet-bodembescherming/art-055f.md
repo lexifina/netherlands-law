@@ -1,2 +1,0 @@
-# Artikel 55f
-Een plan dat niet door gedeputeerde staten is vastgesteld, behoeft de instemming van gedeputeerde staten. Gedeputeerde staten kunnen de instemming met het plan onthouden indien zij geen gebruik maken van hun bevoegdheid bedoeld in artikel 55c, eerste lid, of naar hun oordeel voldoende aannemelijk is dat de gebiedsgerichte aanpak niet zal voldoen aan de doelstellingen, genoemd in artikel 55c, tweede lid.
