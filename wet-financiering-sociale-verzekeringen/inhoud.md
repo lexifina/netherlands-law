@@ -33,7 +33,6 @@
 ## Hoofdstuk 4. De heffing en invordering van premies
 ### § 1. Heffing
 ### § 2. Invordering
-### § 3. Schuldige nalatigheid premie volksverzekeringen
 ### § 4. Aanvullende regeling
 ## Hoofdstuk 5. Gemoedsbezwaarden
 ## Hoofdstuk 6. De financiering van de vrijwillige sociale verzekeringen
