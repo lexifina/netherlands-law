@@ -1,0 +1,3 @@
+# Artikel 8a. Beoordelingsmethoden
+1. Het college hanteert in het kader van de beoordeling van gewasbeschermingsmiddelen, bedoeld in artikel 36, eerste lid, van verordening (EG) 1107/2009, slechts de in de artikelen 8c en 8e tot en met 8g en de in bijlage 1 bedoelde beoordelingsmethoden, voor zover een Europees richtsnoer dat is vastgesteld volgens de procedure, bedoeld in artikel 77 van die verordening, geen beoordelingsmethode over hetzelfde onderwerp bevat.
+2. Onze Minister van Economische Zaken doet mededeling in de Staatscourant van de vaststelling of wijziging van een in een Europees richtsnoer opgenomen beoordelingsmethode als bedoeld in het eerste lid.

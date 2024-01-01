@@ -1,0 +1,3 @@
+# Artikel 32b. Keuring van apparatuur
+1. Apparatuur voor de toepassing van gewasbeschermingsmiddelen wordt uitsluitend gebruikt indien zij voldoet aan de eisen van bijlage II bij richtlijn 2009/128/EG en daarvan blijkt door middel van een officieel goedkeuringsbewijs.
+2. Onze Minister kan bij ministeriële regeling regels stellen omtrent de keuring van in gebruik zijnde apparatuur voor de toepassing van gewasbeschermingsmiddelen, waaronder regels omtrent de keuringsfrequentie, de keuringseisen, de keuringsinstanties, het in rekening te brengen tarief voor de keuring en voor de afgifte van het officiële keuringsbewijs, alsmede de aanwijzing van apparatuur waarop het eerste lid niet van toepassing is, dan wel een afwijkende keuringsfrequentie van toepassing is.

@@ -1,0 +1,2 @@
+# Artikel 27a. Gebruik van prioritaire gevaarlijke stoffen
+Een gewasbeschermingsmiddel dat een prioritaire gevaarlijke stof bevat als bedoeld in artikel 16, derde lid, van richtlijn 2000/60/EG wordt niet gebruikt in de nabijheid van een oppervlaktewaterlichaam of in gebieden waarvoor in de omgevingsverordening regels zijn gesteld om de kwaliteit van het grondwater in grondwaterbeschermingsgebieden te beschermen in verband met de winning daarvan voor de bereiding van voor menselijke consumptie bestemd water, bedoeld in artikel 2.18, aanhef en onder c, van de Omgevingswet.

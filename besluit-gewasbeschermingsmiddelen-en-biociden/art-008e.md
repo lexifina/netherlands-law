@@ -1,0 +1,9 @@
+# Artikel 8e. Uitspoeling
+Het college komt bij de toepassing van het uniforme beginsel, bedoeld in uitvoeringsverordening (EU) 546/2011, bijlage, deel I, onderdeel C Besluitvorming, punt 2.5.1.2, tot het oordeel dat een gewasbeschermingsmiddel geen onaanvaardbaar effect op het milieu heeft als bedoeld in artikel 4, derde lid, onderdeel e, van verordening (EG) 1107/2009 indien bij de toepassing van dit beginsel wordt aangetoond dat:
+a. de concentratie van een werkzame stof, een relevant reactieproduct of een relevant afbraakproduct in het grondwater gelijk is aan of lager is dan 0,1 μg/liter bij toepassing van één van de volgende methoden van beoordelen van het gewasbeschermingsmiddel:
+1°. een berekening met het model PEARL voor het FOCUS Kremsmünster scenario, bedoeld in bijlage 1 onder 12.
+2°. een berekening met het model GeoPEARL, bedoeld in bijlage 1 onder 12.
+3°. een toetsing aan metingen van concentraties in het bovenste grondwater,
+4°. een berekening voor de verzadigde zone, bepaald volgens een rekenvoorschrift waarbij wordt uitgegaan van een afbraaksnelheid volgens de eerste orde kinetiek na 4 jaren op 10 meter diepte,
+5°. een toetsing aan metingen van concentraties in het diepere grondwater op minimaal 10 meter beneden het maaiveld, of
+b. bij het gebruik van een gewasbeschermingsmiddel in een grondwaterbeschermingsgebied de maximaal toelaatbare concentratie van een werkzame stof, een relevant reactieproduct of een relevant afbraakproduct van 0,01 μg/liter gebaseerd op een berekening of toetsing als bedoeld in onderdeel a, onder 1 tot en met 3 niet wordt overschreden, tenzij met nadere gegevens aan de hand van een berekening of toetsing als bedoeld in onderdeel a, onder 3, 4 of 5, wordt aangetoond dat in grondwaterbeschermingsgebieden de waarde van 0,1 μg/liter niet wordt overschreden.
