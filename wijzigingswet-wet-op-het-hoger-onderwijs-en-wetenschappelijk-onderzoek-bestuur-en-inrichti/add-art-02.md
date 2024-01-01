@@ -1,0 +1,3 @@
+# Artikel II
+1. Artikel 321 van Boek 2 van het Burgerlijk Wetboek is van overeenkomstige toepassing op de overdracht van de activa en de passiva van het openbare academische ziekenhuis bij de openbare universiteit te Amsterdam aan het bijzondere academisch ziekenhuis bij de bijzondere universiteit te Amsterdam, bedoeld in onderdeel j van de bijlage bij de wet, zoals deze bijlage luidde voor de inwerkingtreding van deze wet.
+2. Alle rechten en plichten van het openbare academische ziekenhuis bij de openbare universiteit te Amsterdam gaan, voor zover zij niet reeds eerder zijn overgedragen, van rechtswege over op het bijzondere academisch ziekenhuis te Amsterdam, bedoeld in onderdeel j van de bijlage bij de wet.
