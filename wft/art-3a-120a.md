@@ -1,0 +1,2 @@
+# Artikel 3a:120a. Ontslag en benoeming bestuur en raad van commissarissen
+De Nederlandsche Bank kan bij een entiteit in afwikkeling leden van het bestuur en het bestuur als geheel, alsook leden van de raad van commissarissen of leden van een orgaan dat een met die van de raad van commissarissen vergelijkbare taak heeft en de raad van commissarissen als geheel, of een orgaan als geheel dat een met die van de raad van commissarissen vergelijkbare taak heeft, ontslaan of benoemen.

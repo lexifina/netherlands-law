@@ -1,3 +1,6 @@
 # Artikel 213aga
 1. De rechtbank kan tegelijk met het uitspreken van het faillissement, of daarna op verzoek van de curator aan de curator een machtiging verlenen die strekt tot het doen overgaan aan een derde van rechten en verplichtingen krachtens overeenkomst van verzekering die de verzekeraar heeft gesloten.
 2. De toestemming of medewerking van een ander dan de derde is niet vereist.
+3. Ingeval de curator na het uitspreken van het faillissement het verzoek doet, behandelt de rechtbank het verzoek met de meeste spoed op een niet openbare zitting op de voet van rechtspleging in burgerlijke zaken. De Nederlandsche Bank N.V. wordt gehoord.
+4. Indien de rechtbank de machtiging verleent, bepaalt de rechtbank de duur van de machtiging op ten hoogste anderhalf jaar. Voor het verstrijken van de termijn kan de curator verlenging van de geldigheidsduur voor telkens ten hoogste anderhalf jaar verzoeken. Zolang bij het verstrijken van de geldigheidsduur van de machtiging op een verzoek tot verlenging niet is beschikt, wordt de machtiging gehandhaafd.
+5. Indien een curator voornemens is over te gaan tot overgang van rechten en verplichtingen krachtens overeenkomst van verzekering, vraagt hij daaromtrent advies van De Nederlandsche Bank N.V.. Indien de curator toestemming als bedoeld in artikel 176 vraagt, legt hij daarbij dit advies over.
