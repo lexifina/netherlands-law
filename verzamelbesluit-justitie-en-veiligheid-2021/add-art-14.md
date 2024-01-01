@@ -1,0 +1,2 @@
+# Artikel XIV. Overgangsrecht
+De artikelen 23a, eerste lid, van de Penitentiaire maatregel, 50a, eerste lid, van het Reglement justitiële jeugdinrichtingen en 35a, eerste lid, van het Reglement verpleging ter beschikking gestelden, zoals zij luidden voor inwerkingtreding van de artikelen VIII, X en XI van dit besluit, blijven van toepassing op telefoongesprekken die zijn opgenomen voor het moment van inwerkingtreding van dit besluit.
