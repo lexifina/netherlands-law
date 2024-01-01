@@ -1,0 +1,2 @@
+# Artikel 8b
+Herziening van een onherroepelijk geworden tuchtrechtelijke eindbeslissing waarbij een in artikel 7, eerste lid, omschreven maatregel werd opgelegd, is mogelijk, wanneer naderhand omstandigheden zijn gebleken die naar ernstig vermoeden tot een afwijkende beslissing zouden hebben geleid, indien zij tijdig bekend waren geworden. Bij algemene maatregel van bestuur worden hieromtrent nadere regels gesteld. De herziening zal niet kunnen leiden tot een wijziging in hetgeen voorheen was beslist, ten nadele van de betrokkene.

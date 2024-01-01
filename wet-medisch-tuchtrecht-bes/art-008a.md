@@ -1,0 +1,4 @@
+# Artikel 8a
+1. In gevallen waarin een der in artikel 7, eerste lid, onder f en g, omschreven maatregelen is opgelegd, kan, zo bijzondere omstandigheden zulks wettigen, bij koninklijk besluit worden bepaald dat de betrokkene in de hem ontzegde bevoegdheid wordt hersteld.
+2. In een besluit krachtens het eerste lid kunnen, al dan niet met een beperking tot een in dat besluit te bepalen proeftijd, voorwaarden worden gesteld, door de betrokkene in acht te nemen. Indien blijkt dat de betrokkene zich schuldig heeft gemaakt aan niet-naleving van een gestelde voorwaarde, kan, onder intrekking van dat besluit, bij koninklijk besluit worden bepaald dat de opgelegde maatregel opnieuw van kracht wordt.
+3. De voordracht tot een besluit krachtens het eerste of tweede lid, tweede volzin, wordt gedaan door Onze Minister. Alvorens zodanige voordracht wordt gedaan, wint Onze Minister het advies in van het college.
