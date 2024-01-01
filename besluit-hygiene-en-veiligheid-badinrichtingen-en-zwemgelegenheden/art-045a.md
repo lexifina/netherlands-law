@@ -1,2 +1,0 @@
-# Artikel 45a
-Gedeputeerde staten zijn bevoegd om een locatie die op grond van artikel 10b, eerste lid, van de wet is aangemerkt niet aan te wijzen indien voor die locatie toepassing is gegeven aan artikel 11, tweede lid, van de wet door onderscheidenlijk sluiting van de betrokken inrichting te gelasten, een zwemverbod in te stellen of een negatief zwemadvies uit te brengen indien de maatregelen teneinde ten minste te voldoen aan de klasse aanvaardbaar niet uitvoerbaar of onevenredig kostbaar zijn.

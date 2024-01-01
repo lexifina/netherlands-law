@@ -1,6 +1,0 @@
-# Artikel 44e
-1. Wanneer het zwemwaterprofiel, bedoeld in artikel 44c, wijst op een mogelijke proliferatie van cyanobacteriën of een neiging tot proliferatie van macroalgen of marien fytoplankton, voert het bevoegd bestuursorgaan met ingang van 2012 een passend onderzoek uit ten einde gezondheidsrisico's te kunnen vaststellen.
-2. Gedeputeerde staten beoordelen op grond van de resultaten van het onderzoek, genoemd in het eerste lid, de gezondheidsrisico's.
-3. Indien zich een proliferatie van cyanobacteriën voordoet en gedeputeerde staten een gezondheidsrisico vaststellen of vermoeden, nemen gedeputeerde staten en het bevoegd bestuursorgaan onmiddellijk passende beheersmaatregelen ter voorkoming van blootstelling. In ieder geval lichten gedeputeerde staten het publiek voor.
-4. Indien zich een proliferatie van macroalgen of marien fytoplankton voordoet en gedeputeerde staten een gezondheidsrisico vaststellen of vermoeden, nemen gedeputeerde staten en het bevoegd bestuursorgaan passende beheersmaatregelen. In ieder geval lichten gedeputeerde staten het publiek voor.
-5. De wijze waarop en de frequentie waarmee het onderzoek wordt uitgevoerd, kan bij ministeriële regeling nader worden geregeld.
