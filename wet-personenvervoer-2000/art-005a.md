@@ -1,6 +1,6 @@
 # Artikel 5a
-1. Onze Minister verklaart in afwijking van artikel 5, eerste lid, een vervoerder die niet voldoet aan onderdelen b of c van dat artikellid, toch als betrouwbaar, indien het verlies van de betrouwbaarheid een onevenredig strenge sanctie is.
-2. Onze Minister verklaart, in afwijking van artikel 5, tweede lid, een vervoersmanager, die niet voldoet aan onderdelen b, c of e van dat artikellid, toch als betrouwbaar, indien het verlies van de betrouwbaarheid een onevenredig strenge sanctie is.
+1. Onze Minister verklaart in afwijking van artikel 5, eerste lid, een vervoerder die niet voldoet aan onderdelen b, c, of d van dat artikellid, toch als betrouwbaar, indien het verlies van de betrouwbaarheid een onevenredig strenge sanctie is.
+2. Onze Minister verklaart, in afwijking van artikel 5, tweede lid, een vervoersmanager, die niet voldoet aan onderdelen b, c, d, of e van dat artikellid, toch als betrouwbaar, indien het verlies van de betrouwbaarheid een onevenredig strenge sanctie is.
 3. De bekendmaking van een beschikking inhoudende het verlies van de betrouwbaarheid van een vervoerder geschiedt in één geschrift met de bekendmaking van het daarmee samenhangende besluit tot schorsing of intrekking van de communautaire vergunning.
 4. De bekendmaking van een beschikking inhoudende het verlies van de betrouwbaarheid van een vervoersmanager geschiedt in één geschrift met de bekendmaking van het daarmee samenhangende besluit tot ongeschiktverklaring van de vervoersmanager.
 5. Bij of krachtens algemene maatregel van bestuur worden regels gegeven voor de toepassing van het eerste en tweede lid waarbij wordt aangegeven wanneer het verlies van betrouwbaarheid in ieder geval een onevenredig strenge sanctie is.
