@@ -38,7 +38,6 @@
 #### Afdeling 11. Zij-instroom in het beroep
 #### Afdeling 12. Experimenten en tijdelijke onderwijsvoorzieningen bij massale toestroom ontheemden
 ##### § 1. Experimenten
-##### § 2. Tijdelijke onderwijsvoorzieningen bij massale toestroom van ontheemden
 #### Afdeling 13. Overige bepalingen
 ## Hoofdstuk II. Andere vormen van basisonderwijs
 ### Afdeling 1. Scholen voor kinderen trekkende bevolking
