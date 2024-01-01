@@ -4,7 +4,7 @@
 3. Ingeval de aanslag is vastgesteld overeenkomstig de ingediende aangifte, eindigt het tijdvak waarover de belastingrente wordt berekend in afwijking in zoverre van het tweede lid, uiterlijk 19 weken na de datum van ontvangst van de aangifte.
 4. Geen belastingrente wordt in rekening gebracht ingeval de aanslag inkomstenbelasting of vennootschapsbelasting is vastgesteld overeenkomstig een ingediende aangifte die is ontvangen voor de eerste dag van de vijfde, onderscheidenlijk zesde, maand na afloop van het tijdvak waarover de belasting wordt geheven.
 5. Ingeval de navorderingsaanslag is vastgesteld naar aanleiding van een verzoek, eindigt het tijdvak waarover de belastingrente wordt berekend in afwijking in zoverre van het tweede lid, uiterlijk 12 weken na de datum van ontvangst van het verzoek.
-6. Dit artikel is niet van toepassing met betrekking tot inkomstenbelasting ter zake van te conserveren inkomen als bedoeld in artikel 2.8, tweede lid, van de Wet inkomstenbelasting 2001, uitgezonderd te conserveren inkomen dat is ontstaan door toepassing van artikel 3.58, eerste lid, of artikel 3.64, eerste lid, van die wet.
+6. Dit artikel is niet van toepassing met betrekking tot inkomstenbelasting ter zake van te conserveren inkomen als bedoeld in artikel 2.8, tweede en vierde tot en met zevende lid, van de Wet inkomstenbelasting 2001, uitgezonderd te conserveren inkomen dat is ontstaan door toepassing van artikel 3.58, eerste lid, of artikel 3.64, eerste lid, van die wet.
 7. Voor de toepassing van dit artikel geldt als het te betalen bedrag aan belasting: het bedrag na de verrekening ingevolge:
 a. artikel 15;
 b. de artikelen 3 152, zesde lid, en 4.51, zesde lid, van de Wet inkomstenbelasting 2001;
