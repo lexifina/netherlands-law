@@ -14,8 +14,8 @@ e. met betrekking tot de persoonlijke ondersteuning bij het verrichten van de aa
 1°. de duur en intensiteit van de persoonlijke ondersteuning en op welke wijze het college ervoor zorgdraagt dat die zowel in natura als door middel van subsidieverstrekking kan worden gerealiseerd;
 2°. welke kwaliteitseisen aan een persoon als bedoeld in artikel 10, derde lid, onderdeel a, worden gesteld en op welke wijze die eisen worden geborgd;
 f. op welke wijze het college welke voorzieningen als bedoeld in artikel 10, eerste lid, verstrekt die bestaan uit:
-1°. een vervoersvoorziening die ertoe strekt dat de persoon zijn werkplek, proefplaats of opleidingslocatie kan bereiken;
-2°. een noodzakelijke intermediaire activiteit in het geval er sprake is van een visuele of motorische handicap;
+1°. een vervoersvoorziening die ertoe strekt dat de persoon, met uitzondering van de persoon met een visuele beperking, zijn werkplek, proefplaats of opleidingslocatie kan bereiken;
+2°. een noodzakelijke intermediaire activiteit in het geval er sprake is van een motorische beperking;
 3°. een meeneembare voorziening voor de inrichting van de werkplek, de productie- en werkmethoden, de inrichting van de opleidingslocatie of de proefplaats en de bij het werk of opleiding te gebruiken hulpmiddelen;
 g. op welke wijze waar nodig voor een persoon als bedoeld in de artikelen 7, eerste lid, onderdeel a, of 10d, tweede lid, wordt voorzien in:
 1°. integrale ondersteuning, en
