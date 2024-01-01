@@ -1,0 +1,15 @@
+# Regel 21bis. Verklaring dat een wijziging in de eigendom geen rechtsgevolg heeft
+1. [Verklaring en het rechtsgevolg ervan]
+Het Bureau van een aangewezen Verdragsluitende Partij kan verklaren dat een wijziging in de eigendom aangetekend in het internationale register geen rechtsgevolg heeft in genoemde Verdragsluitende Partij. Het rechtsgevolg van deze verklaring is dat, ten aanzien van genoemde Verdragsluitende Partij, de betreffende internationale inschrijving op naam van de vervreemder blijft staan.
+2. [Inhoud van de verklaring]
+De in het eerste lid bedoelde verklaring vermeldt:
+a. de redenen waarom de wijziging in de eigendom geen rechtsgevolg heeft;
+b. de overeenkomstige essentiële bepalingen van de wet;
+c. indien de verklaring geen betrekking heeft op alle tekeningen of modellen van nijverheid die het onderwerp zijn van de wijziging in de eigendom, die tekeningen of modellen waarop de verklaring betrekking heeft; en
+d. het feit of de verklaring al dan niet in aanmerking komt voor herziening of beroep en, indien dat wel het geval is, de – gezien de omstandigheden – redelijke termijn om een verzoek tot herziening van of beroep tegen deze verklaring in te dienen, alsmede de autoriteit die bevoegd is tot kennisneming van dit verzoek tot herziening of van dit beroep, met vermelding, in voorkomend geval, van de verplichting het verzoek tot herziening of het beroep in te dienen door tussenkomst van een gemachtigde die zijn adres heeft op het grondgebied van de Verdragsluitende Partij waarvan het Bureau de verklaring heeft gedaan.
+3. [Termijn voor verklaring]
+De in het eerste lid bedoelde verklaring wordt naar het Internationaal Bureau verzonden binnen zes maanden na de datum van publicatie van genoemde wijziging in de eigendom of binnen de van toepassing zijnde termijn voor weigering in overeenstemming met artikel 12, tweede lid, van de Akte van 1999 of artikel 8, eerste lid, van de Akte van 1960, naargelang van welke termijn het laatst verstrijkt.
+4. [Aantekening en kennisgeving van de verklaring; eruit voortvloeiende wijziging van het internationale register]
+Het Internationaal Bureau tekent elke verklaring gedaan in overeenstemming met het derde lid aan in het internationale register en wijzigt het internationale register waarbij het deel van de internationale inschrijving dat het onderwerp van genoemde verklaring is wordt aangetekend als een afzonderlijke internationale inschrijving op naam van de vorige houder (vervreemder). Het Internationaal Bureau doet daarvan kennisgeving aan de vorige houder (vervreemder) en de nieuwe houder (verkrijger).
+5. [Intrekking van een verklaring]
+Elke verklaring gedaan in overeenstemming met het derde lid kan geheel of gedeeltelijk worden ingetrokken. Van de intrekking van de verklaring wordt kennisgeving gedaan aan het Internationaal Bureau, dat deze in het internationale register aantekent. Het Internationaal Bureau past het internationale register dienovereenkomstig aan en doet daarvan kennisgeving aan de vorige houder (vervreemder) en de nieuwe houder (verkrijger).
