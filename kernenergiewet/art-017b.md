@@ -1,0 +1,2 @@
+# Artikel 17b
+Het bestuursorgaan dat zorg draagt voor het beheer van het zuiveringtechnisch werk of het oppervlaktewaterlichaam waarop afvalwater vanuit een voorziening voor de inzameling en het transport van afvalwater wordt gebracht, is adviseur met betrekking tot een aanvraag om een vergunning die betrekking heeft op een activiteit als bedoeld in artikel 15, onder b, voor zover die aanvraag betrekking heeft op het brengen van afvalwater of andere afvalstoffen in die voorziening.
