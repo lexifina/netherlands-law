@@ -3,3 +3,4 @@
 2. De gemeenteraad kan in de huisvestingsverordening gevallen aanwijzen waarvoor een vrijstelling geldt of waarin een ontheffing kan worden verleend van het verbod, bedoeld in het eerste lid. Aan een vrijstelling of ontheffing kunnen voorschriften en beperkingen worden verbonden.
 3. Indien de gemeenteraad toepassing heeft gegeven aan het eerste lid, kan hij in de huisvestingsverordening bepalen dat een vergunning als bedoeld in dat lid, slechts wordt afgegeven voor een in die verordening aangegeven termijn.
 4. Een vergunning als bedoeld in het eerste lid, wordt aangevraagd door degene die de woonruimte in gebruik geeft voor toeristische verhuur.
+5. In het geval dat bij een aanvraag voor een vergunning als bedoeld in het eerste lid, ook een vergunning als bedoeld in artikel 21, eerste lid, onderdeel a, nodig is, wordt de aanvraag mede aangemerkt als een aanvraag om een vergunning als bedoeld in artikel 21, eerste lid, onderdeel a.

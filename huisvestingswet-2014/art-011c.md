@@ -1,0 +1,2 @@
+# Artikel 11c
+In de huisvestingsverordening bepaalt de gemeenteraad dat indien een huurder een huurovereenkomst is aangegaan voor een zelfstandige woning als bedoeld in artikel 234 van Boek 7 van het Burgerlijk Wetboek in een gebouw waarvoor een omgevingsvergunning als bedoeld in artikel 5.36, tweede lid, van de Omgevingswet is verleend met een termijn van maximaal vijftien jaren, de inschrijving van die huurder om in aanmerking te komen voor een woonruimte niet vervalt.
