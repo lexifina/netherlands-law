@@ -1,0 +1,8 @@
+# Artikel V. Inwerkingtreding
+1. Dit Protocol treedt in werking twaalf maanden na de datum waarop aan beide onderstaande voorwaarden is voldaan:
+a) ten minste vijftien Staten, waarvan de gecombineerde koopvaardijvloten ten minste vijftig procent van de bruto tonnage van de wereldkoopvaardijvloot vormen, overeenkomstig artikel IV, uitdrukking hebben gegeven aan hun instemming daardoor gebonden te zijn, en
+b) er is voldaan aan de voorwaarden voor de inwerkingtreding van het Protocol van 1988 bij het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974,
+met dien verstande dat dit Protocol niet voor 1 februari 1992 in werking zal treden.
+2. Voor Staten die een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding met betrekking tot dit Protocol hebben nedergelegd nadat aan de voorwaarden voor de inwerkingtreding ervan is voldaan, doch voor de datum van inwerkingtreding, wordt de bekrachtiging, aanvaarding, goedkeuring of toetreding van kracht met ingang van de datum van inwerkingtreding van dit Protocol of drie maanden na de datum van nederlegging van de akte, welke van beide data later valt.
+3. Akten van bekrachtiging, aanvaarding, goedkeuring of toetreding nedergelegd na de datum waarop dit Protocol in werking treedt, worden van kracht drie maanden na de datum van nederlegging.
+4. Een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding nedergelegd na de datum waarop een wijziging van dit Protocol of een wijziging van het Verdrag tussen de Partijen bij dit Protocol wordt geacht te zijn aanvaard overeenkomstig artikel VI, is van toepassing op dit Protocol of het Verdrag als gewijzigd.
