@@ -1,2 +1,0 @@
-# Artikel III
-Deze regeling treedt in werking met ingang van 1 januari 2022, met uitzondering van de in artikel I onderdeel B en C opgenomen kaarten met kaartnummers 34, 36, 126 en 127, die in werking treden op een bij ministerieel besluit te bepalen tijdstip. Bij ministerieel besluit kan een ander tijdstip worden vastgesteld waarop de in artikel I onderdeel B en C opgenomen kaarten met kaartnummers 34, 36, 126 en 127 in werking treden.
