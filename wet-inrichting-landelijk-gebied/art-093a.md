@@ -1,6 +1,0 @@
-# Artikel 93a
-In deze paragraaf wordt verstaan onder:
-– bestuursakkoord natuur: samenstel van de door het Rijk en de provincies jegens elkaar aangegane verplichtingen, neergelegd in het op 20 september 2011 gesloten onderhandelingsakkoord decentralisatie natuur (bijlage 131283 bij Kamerstukken II 2011/12, 30 825, nr. 107), de op 7 december 2011 gesloten aanvullende overeenkomst (bijlage 144712 bij Kamerstukken II 2011/12, 30 825, nr. 143) en de op 8 februari 2012 overeengekomen uitvoeringsafspraken (bijlage 153993 bij Kamerstukken II 2011/12, 30 825, nr. 153);
-– ILG-bestuursovereenkomst: bestuursovereenkomst voor het investeringstijdvak van 2007 tot en met 2013, gesloten op grond van artikel 7, eerste lid, zoals dat luidde onmiddellijk voorafgaande aan het tijdstip van inwerkingtreding van deze paragraaf;
-– investeringsbudget landelijk gebied: investeringsbudget voor het investeringstijdvak lopende van 2007 tot en met 2013, verleend op grond van artikel 8, eerste lid, zoals dat luidde onmiddellijk voorafgaande aan het tijdstip van inwerkingtreding van deze paragraaf;
-– voorschot: voorschot van het investeringsbudget landelijk gebied als bedoeld in artikel 8, tweede lid, zoals dat luidde onmiddellijk voorafgaande aan het tijdstip van inwerkingtreding van deze paragraaf.
