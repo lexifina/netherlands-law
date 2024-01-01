@@ -9,5 +9,4 @@ b. de accountantsverklaring en het verslag van bevindingen, bedoeld in artikel 2
 6. Dit artikel is niet van toepassing:
 a. indien de voorwaarden inzake het verstrekken van een Europese subsidie als bedoeld in artikel 1, onderdeel f, van de Wet Naleving Europese regelgeving publieke entiteiten anders verplichten, voor zover die subsidies worden verstrekt door tussenkomst van 's Rijks kas;
 b. indien de specifieke uitkering is verstrekt aan een gemeente in de hoedanigheid van bevoegd gezag van een openbare school;
-c. op het investeringsbudget, bedoeld in de Wet inrichting landelijk gebied;
-d. op cofinanciering door het Rijk als bedoeld in artikel 1, onderdeel g, van de Uitvoeringswet EFRO.
+c. op cofinanciering door het Rijk als bedoeld in artikel 1, onderdeel g, van de Uitvoeringswet EFRO.
