@@ -1,0 +1,4 @@
+# III. Bediening en controle van navigatielichten, lichtseinen en geluidsseinen
+1. Ter controle van de navigatielichten en de lichtseinen moeten controlelampen in de stuurstelling zijn ingebouwd. De schakelaars van de navigatielichten moeten in of vlakbij de daarbij behorende controlelampen zijn aangebracht en daar duidelijk bij behoren. De groepering en de kleur van de controlelampen van de navigatielichten en de lichtseinen moet overeenkomen met de werkelijke opstelling en de kleur van de ingeschakelde navigatielichten en lichtseinen.
+Het niet-functioneren van een navigatielicht of lichtsein moet het uitgaan van de overeenkomstige controlelamp tot gevolg hebben, dan wel op andere wijze door de betreffende controlelamp worden aangegeven.
+2. De bediening van de geluidsseinen dient met de voet te kunnen geschieden. Dit geldt niet voor het 'blijf weg'-sein.
