@@ -2,7 +2,7 @@
 ## Hoofdstuk 1. Inleidende bepalingen
 ### Titel 1.1. Definities en reikwijdte
 ### Titel 1.2. Uitvoering van bindende besluiten van organen van de Europese Unie
-## Hoofdstuk 2. Verkeer tussen burgers en bestuursorganen
+## Hoofdstuk 2. Verkeer met bestuursorganen
 ### Afdeling 2.1. Algemene bepalingen
 ### Afdeling 2.2. Gebruik van de taal in het bestuurlijk verkeer
 ### Afdeling 2.3. Verkeer langs elektronische weg
@@ -11,10 +11,8 @@
 ### Afdeling 3.2. Zorgvuldigheid en belangenafweging
 ### Afdeling 3.3. Advisering
 ### Afdeling 3.4. Uniforme openbare voorbereidingsprocedure
-### Afdeling 3.5. Samenhangende besluiten
-#### Paragraaf 3.5.1. Algemeen
-#### Paragraaf 3.5.2. Informatie
-#### Paragraaf 3.5.3. Coördinatie van besluitvorming en rechtsbescherming
+### Afdeling 3.4a. Informatie over samenhangende besluiten
+### Afdeling 3.5. Coördinatie van samenhangende besluiten
 ### Afdeling 3.6. Bekendmaking en mededeling
 ### Afdeling 3.7. Motivering
 ## Hoofdstuk 4. Bijzondere bepalingen over besluiten
@@ -48,6 +46,7 @@
 ##### Paragraaf 4.4.4.1. De aanmaning
 ##### Paragraaf 4.4.4.2. Invordering bij dwangbevel
 #### Afdeling 4.4.5. Bezwaar en beroep
+### Titel 4.5. Nadeelcompensatie
 ## Hoofdstuk 5. Handhaving
 ### Titel 5.1. Algemene bepalingen
 ### Titel 5.2. Toezicht op de naleving

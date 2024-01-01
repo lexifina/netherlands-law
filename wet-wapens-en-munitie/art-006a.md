@@ -1,5 +1,5 @@
 # Artikel 6a
-1. Ontheffingen op grond van artikel 4, erkenningen op grond van artikel 9 en verloven op grond van de artikelen 28, 29 en 32 worden, onverminderd het bepaalde in de artikelen 6 en 7, slechts verleend indien:
+1. Ontheffingen op grond van artikel 4, erkenningen op grond van artikel 9 en verloven op grond van de artikelen 28, 29 en 32 worden, onverminderd het bepaalde in de artikelen 6 en 7, en in afwijking van artikel 2:1, tweede en derde lid, van de Algemene wet bestuursrecht, slechts verleend indien:
 a. de aanvraag door de aanvrager in persoon is gedaan, onder overlegging van een geldig identiteitsbewijs;
 b. de aanvrager heeft meegewerkt aan een door Onze Minister aangewezen onderzoek op grond waarvan kan worden beoordeeld of er verhoogde kans is op de situatie bedoeld in artikel 7, eerste lid, onderdeel c;
 c. de aanvrager ten minste drie referenten heeft opgegeven, onder verstrekking van hun contactgegevens, bij wie navraag kan worden gedaan naar de aanvrager, en
