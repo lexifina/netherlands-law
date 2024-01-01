@@ -1,0 +1,3 @@
+# Artikel 1a
+1. Bij de beoordeling van het gecumuleerde geluid geven gedeputeerde staten slechts toepassing aan de artikelen 3, tweede en derde lid, 4, tweede lid, 5, tweede lid, of 6, tweede lid, voor zover de berekening en meting van de onderscheidene geluidsbelastingen na de correctie op grond van artikel 3.36, tweede lid, van het Besluit kwaliteit leefomgeving niet leiden tot een naar hun oordeel onaanvaardbare geluidsbelasting.
+2. Bij de beoordeling van het gecumuleerde geluid passen gedeputeerde staten artikel 7, eerste lid, zodanig toe dat de berekening en meting van de onderscheidene geluidsbelastingen niet leiden tot een naar hun oordeel onaanvaardbare geluidsbelasting.
