@@ -1,0 +1,4 @@
+# Artikel 37f
+1. De directeur kan bepalen dat een gedetineerde in het lichaam wordt onderzocht, indien dit noodzakelijk is ter afwending van ernstig gevaar voor de handhaving van de openbare orde of de veiligheid in het gesticht dan wel voor de gezondheid van de gedetineerde. Het onderzoek in het lichaam wordt verricht door een arts of, in diens opdracht, door een verpleegkundige.
+2. Een medewerker van het gesticht waar de gedetineerde verblijft, kan indien onverwijlde tenuitvoerlegging geboden is, een beslissing als bedoeld in het eerste lid nemen.
+3. Indien bij het onderzoek in het lichaam voorwerpen worden aangetroffen die niet in het bezit van de gedetineerde mogen zijn, en deze voorwerpen door de arts of de verpleegkundige uit het lichaam kunnen worden verwijderd, is de directeur bevoegd deze in beslag te nemen. Artikel 37c, derde lid, laatste volzin is van overeenkomstige toepassing.

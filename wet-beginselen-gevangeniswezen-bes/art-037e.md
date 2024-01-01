@@ -1,0 +1,3 @@
+# Artikel 37e
+1. De directeur kan, indien dit noodzakelijk is in het belang van de orde, veiligheid en goede gang van zaken in het gesticht dan wel in verband met de beslissing tot plaatsing of overplaatsing dan wel in verband met het verlenen van verlof, een gedetineerde verplichten urine af te staan ten behoeve van onderzoek van die urine op aanwezigheid van gedragbeïnvloedende middelen.
+2. Onze Minister stelt nadere regels omtrent de wijze van uitvoering van het urineonderzoek. Deze regels betreffen in elk geval het recht van de gedetineerde om de uitslag te vernemen en om voor eigen rekening een hernieuwd onderzoek van de afgestane urine te laten plaatsvinden. Artikel 37c, eerste lid, tweede volzin, is van overeenkomstige toepassing.
