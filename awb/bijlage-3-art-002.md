@@ -23,7 +23,7 @@ Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair onderwij
 Garantiewet Burgerlijk Overheidspersoneel Indonesië, met inbegrip van een besluit op grond van de Algemene oorlogsongevallenregeling
 Garantiewet Militairen K.N.I.L.
 Garantiewet Surinaamse pensioenen
-Kaderwet SZW-subsidies, voor zover het betreft een ministeriële regeling op grond van artikel 9
+Kaderwet SZW-subsidies, voor zover het betreft een algemene maatregel van bestuur of een ministeriële regeling op grond van artikel 9
 Liquidatiewet Ongevallenwetten
 Mijnbouwwet: de afdelingen 5.1.1, 5.1.2, 5.3, 5.4 en 5.5
 Participatiewet, met uitzondering van de artikelen 52, 76, eerste en tweede lid, en 81 en paragraaf 6.5
