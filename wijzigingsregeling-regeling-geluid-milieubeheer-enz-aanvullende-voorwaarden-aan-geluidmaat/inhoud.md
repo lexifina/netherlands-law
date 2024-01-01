@@ -1,2 +1,0 @@
-# Inhoud
-## Lijst van projecten

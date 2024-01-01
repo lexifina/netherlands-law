@@ -1,2 +1,0 @@
-# Artikel II
-Bijlage IV van Reken- en meetvoorschrift geluid 2012, zoals dat luidde voor het tijdstip van deze regeling, blijft van kracht voor de vaststelling van het besluit tot wijziging van geluidproductieplafonds vanwege het project Snelheidsverhoging Naarden – Bussum, de wijziging van het Tracébesluit Spoorvervoer viersporigheid Rijswijk – Delft Zuid en de Tracébesluiten PHS Nijmegen en PHS Alkmaar – Amsterdam, totdat deze besluiten onherroepelijk zijn geworden.
