@@ -1,3 +1,0 @@
-# Artikel 44h
-1. Het niet voldoen aan de in deze paragraaf opgenomen of andere voorschriften en beperkingen die worden opgenomen in de aanwijzing door de aanvrager of het niet meer voldoen van de aangewezen bijzondere bromfiets aan de doeleinden, genoemd in artikel 11, kan grond zijn voor een wijziging, schorsing of intrekking van de aanwijzing, afhankelijk van de ernst van het niet voldoen aan de voorschriften, beperkingen of doeleinden.
-2. Indien de aanwijzing wordt gewijzigd, geschorst of ingetrokken, wordt daarbij als voorschrift opgenomen dat de aanvrager zich inspant om de bij hem bekende afnemers en gebruikers van bijzondere bromfietsen hierover te informeren.
