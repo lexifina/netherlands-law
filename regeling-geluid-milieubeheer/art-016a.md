@@ -1,5 +1,0 @@
-# Artikel 16a
-Het gebied, bedoeld in artikel 11.36, derde lid, van de wet omvat:
-a. wanneer het een besluit tot vaststelling of wijziging van een geluidproductieplafond betreft, de referentiepunten die zijn gelegen langs het deel van de weg of spoorweg waar de maatregel wordt getroffen en de referentiepunten gelegen binnen 1,0 kilometer van het voornoemde deel;
-b. wanneer het een tracébesluit betreft, de referentiepunten die zijn gelegen langs de weg of spoorweg binnen de begrenzingen van het tracébesluit en de buiten deze begrenzingen gelegen referentiepunten waar de geluidproductieplafonds worden verlaagd;
-c. de referentiepunten die geen deel uitmaken van de referentiepunten, bedoeld in onderdeel a of b, en waarvoor de beheerder in het verzoek, bedoeld in artikel 11.31, eerste lid, van de wet, of in de inlichtingen en gegevens, bedoeld in artikel 11.34, van de wet, heeft onderbouwd dat de geluidproductieplafonds naar redelijke verwachting zullen worden overschreden als gevolg van de werkzaamheden aan de weg of spoorweg ter uitvoering van het besluit, bedoeld in onderdeel a of b.
