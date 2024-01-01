@@ -5,6 +5,7 @@
 ## Titel IIIa. De toegevoegd notaris
 ## Titel IV. De stage, de registratie van de werktijd en de beroepsopleiding van de kandidaat-notaris
 ## Titel V. De akten, minuten, grossen en afschriften
+## Titel VA. De elektronische notariële akte
 ## Titel VI. De kosten van de ambtelijke werkzaamheden
 ## Titel VII. De notariële archieven
 ## Titel VIII. De Koninklijke Notariële Beroepsorganisatie
