@@ -1,0 +1,5 @@
+# Regulation 2-1. Authorization of recognized organizations
+The Administration shall authorize organizations, including classification societies, referred to in article 13 of the Convention and regulation 1(2) in accordance with the provisions of the present Convention and with the Code for Recognized Organizations (RO Code), consisting of part 1 and part 2 (the provisions of which shall be treated as mandatory) and part 3 (the provisions of which shall be treated as recommendatory), as adopted by the Organization by resolution MSC.349(92), as may be amended by the Organization, provided that:
+(a) amendments to part 1 and part 2 of the RO Code are adopted, brought into force and take effect in accordance with the provisions of article VI of the present Protocol;
+(b) amendments to part 3 of the RO Code are adopted by the Maritime Safety Committee in accordance with its Rules of Procedure; and
+(c) any amendments adopted by the Maritime Safety Committee and the Marine Environment Protection Committee are identical and come into force or take effect at the same time, as appropriate.
