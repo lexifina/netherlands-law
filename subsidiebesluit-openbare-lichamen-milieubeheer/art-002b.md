@@ -1,0 +1,3 @@
+# Artikel 2b
+1. Onze Minister kan regels stellen omtrent het verstrekken van extra informatie indien hij zulks noodzakelijk acht vanwege onvoldoende herkenbaarheid van de toepassing en besteding van een subsidie als bedoeld in artikel 6a, eerste lid, in de informatie die gedeputeerde staten krachtens artikel 27, eerste lid van het Besluit financiële verhouding 2001, aan hem verstrekken.
+2. Onze Minister kan voorts een controleprotocol vaststellen ten behoeve van het onderzoek door overeenkomstig artikel 217, tweede lid, van de Provinciewet aangewezen accountants als bedoeld in artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek naar de bestedingen van de in het eerste lid bedoelde subsidie.
