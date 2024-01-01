@@ -1,0 +1,4 @@
+# Artikel IV
+1. Op schade, veroorzaakt door een besluit dat werd bekendgemaakt of een handeling die werd verricht voor het tijdstip waarop deze wet voor dat besluit of die handeling in werking is getreden, blijft het recht zoals dat gold voor dat tijdstip van toepassing.
+2. Op schade, veroorzaakt door een handeling ter uitvoering van een besluit dat werd bekendgemaakt voor het tijdstip waarop deze wet voor dat besluit in werking is getreden, blijft het recht zoals dat gold voor dat tijdstip van toepassing.
+3. Indien het eerste besluit tot uitvoering van een activiteit is genomen voor het tijdstip waarop deze wet voor dat besluit in werking is getreden, blijft het recht zoals dat gold voor dat tijdstip ook van toepassing op schade, veroorzaakt door latere besluiten of andere handelingen ter uitvoering van diezelfde activiteit.
