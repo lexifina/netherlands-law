@@ -1,2 +1,0 @@
-# Artikel 3c. Ondernemersrisico en tijdelijke omzetdaling of tijdelijke kostenverhoging door niet-normale infrastructurele maatregelen
-Als de schade ten gevolge van een niet-normale infrastructurele maatregel het bedrag, bedoeld in artikel 3, tweede lid, onderdelen c en d, overstijgt, kan door de minister ter bepaling van het normaal ondernemersrisico een kortingspercentage worden gehanteerd ten aanzien van het deel van de schade dat dat bedrag overstijgt.
