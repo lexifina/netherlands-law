@@ -5,7 +5,7 @@
 ### Paragraaf 3. Bepaling draagkracht
 ### Paragraaf 4. Afwijkende rechten bij vreemdelingen en uitreizigers
 ### Paragraaf 5. Uitoefening rechten door minderjarigen
-## Hoofdstuk 2. Procedure bij uitvoering door belastingdienst/toeslagen
+## Hoofdstuk 2. Procedure bij uitvoering door Dienst Toeslagen
 ### Paragraaf 1. Algemene bepalingen
 ### Paragraaf 2. Tegemoetkoming
 ### Paragraaf 3. Uitbetaling en terugvordering
