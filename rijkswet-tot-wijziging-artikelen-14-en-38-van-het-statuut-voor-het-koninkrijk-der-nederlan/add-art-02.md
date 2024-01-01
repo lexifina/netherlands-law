@@ -1,0 +1,2 @@
+# Artikel II
+Op het tijdstip van inwerkingtreding van deze rijkswet bestaande algemene maatregelen van rijksbestuur als bedoeld in artikel 14, eerste lid, of artikel 38, tweede lid, van het Statuut, die niet berusten op een rijkswet blijven voor de duur van ten hoogste vier jaren na de inwerkingtreding van deze rijkswet van kracht. In buitengewone gevallen kan bij koninklijk besluit worden bepaald dat een algemene maatregel van rijksbestuur langer van kracht blijft.
