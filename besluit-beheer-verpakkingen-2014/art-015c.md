@@ -1,0 +1,11 @@
+# Artikel 15c
+1. Het is met ingang van 3 juli 2024 verboden kunststof drankverpakkingen en samengestelde drankverpakkingen van ten hoogste 3 liter, voor eenmalig gebruik, inclusief doppen en deksels, in Nederland in de handel te brengen indien deze niet zijn voorzien van doppen en deksels die tijdens het beoogd gebruik bevestigd blijven aan de verpakking.
+2. Het eerste lid is niet van toepassing op:
+a. glazen of metalen drankverpakkingen met kunststoffen doppen en deksels;
+b. drankverpakkingen bestemd en gebruikt voor vloeibare voeding voor specifiek medisch gebruik zoals gedefinieerd in artikel 2, onder g, van verordening (EU) 609/2013; en
+c. metalen doppen en deksels met kunststofverzegeling.
+3. Drankverpakkingen die overeenstemmen met de in het Publicatieblad van de Europese Unie gepubliceerde geharmoniseerde normen als bedoeld in artikel 6, vierde lid, van de EU-richtlijn kunststofproducten voor eenmalig gebruik, worden vermoed te voldoen aan het eerste lid.
+4. De producent of importeur draagt er zorg voor dat door hem in Nederland in de handel gebrachte kunststof drankflessen voor eenmalig gebruik van ten hoogste 3 liter, inclusief doppen en deksels, met als hoofdbestanddeel polyethyleentereftalaat, niet zijnde drankverpakkingen als bedoeld in het tweede lid, onder a en b, met ingang van 2025 ten minste 25% gerecyclede kunststoffen bevatten.
+5. De producent of importeur draagt er zorg voor dat door hem in Nederland in de handel gebrachte kunststof drankflessen voor eenmalig gebruik van ten hoogste 3 liter, inclusief doppen en deksels, niet zijnde drankverpakkingen als bedoeld in het tweede lid, onder a en b, en vierde lid, met ingang van 2030 ten minste 30% gerecyclede kunststoffen bevatten.
+6. De producent of importeur van kunststof drankflessen als bedoeld in het vierde en vijfde lid levert aan Onze Minister de gegevens aan over het gehalte recyclaat in de kunststof drankflessen die door hem met ingang van het daarvoor vastgestelde kalenderjaar jaarlijks in Nederland in de handel zijn gebracht.
+7. Producenten of importeurs kunnen gezamenlijk uitvoering geven aan de verplichtingen, bedoeld in het vierde, vijfde en zesde lid, waarbij de percentages, genoemd in het vierde en vijfde lid, worden berekend als gemiddelde van alle drankflessen, bedoeld in die artikelen.
