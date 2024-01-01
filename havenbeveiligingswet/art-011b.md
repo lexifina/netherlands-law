@@ -1,0 +1,9 @@
+# Artikel 11b
+1. Een autoriteit voor havenveiligheid stelt voor de desbetreffende haven en voor het desbetreffende havengerelateerde gebied een havenveiligheidsplan op, indien de uitkomsten van een havenveiligheidsbeoordeling daar naar het oordeel van de autoriteit voor havenveiligheid aanleiding toe geven.
+2. Indien een haven of een havengerelateerd gebied zich over meerdere gemeenten uitstrekt, kunnen de autoriteiten voor havenveiligheid gezamenlijk een havenveiligheidsplan voor de desbetreffende haven en het havengerelateerde gebied opstellen.
+3. Een havenveiligheidsplan wordt opgesteld met inachtneming van artikel 7, eerste, tweede en derde lid, van de richtlijn.
+4. Een autoriteit voor havenveiligheid kan het opstellen van een havenveiligheidsplan opdragen aan een overeenkomstig artikel 4e aangewezen veiligheidsorganisatie.
+5. Het bestuur van de veiligheidsregio wordt in de gelegenheid gesteld zijn zienswijze te geven over een ontwerp van het havenveiligheidsplan of een wijziging van dat plan, voor zover dat van belang is in verband met het crisisplan, bedoeld in artikel 16 van de Wet veiligheidsregio's.
+6. Een havenveiligheidsplan of een wijziging daarvan behoeft de goedkeuring van Onze Minister.
+7. Een autoriteit voor havenveiligheid draagt er zorg voor dat de in een havenveiligheidsplan opgenomen veiligheidsmaatregelen in de desbetreffende haven en in het desbetreffende havengerelateerde gebied worden uitgevoerd en dat er ten minste eenmaal per kalenderjaar, met tussenpozen van niet meer dan 18 maanden, oefeningen worden gehouden als bedoeld in artikel 7, zevende lid, van de richtlijn.
+8. Een ieder met zeggenschap als bedoeld in artikel 11a, vijfde lid, voert de in een havenveiligheidsplan opgenomen maatregelen uit die op een werk, voorziening of havengerelateerd gebied als bedoeld in dat lid, betrekking hebben, op de wijze en binnen de periode als in het havenveiligheidsplan is aangegeven.
