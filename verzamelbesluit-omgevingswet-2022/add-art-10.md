@@ -1,0 +1,2 @@
+# Artikel X. (Besluit van 2 december 2021, houdende wijziging van het Besluit basisregistratie ondergrond en het Invoeringsbesluit Omgevingswet met betrekking tot het aanwijzen van registratieobjecten en een technische wijziging (vierde tranche))
+[Wijzigt het Besluit van 2 december 2021, houdende wijziging van het Besluit basisregistratie ondergrond en het Invoeringsbesluit Omgevingswet met betrekking tot het aanwijzen van registratieobjecten en een technische wijziging (vierde tranche).]
