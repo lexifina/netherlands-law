@@ -1,4 +1,3 @@
 # Artikel 14b
 1. De rechter die bepaalt dat een door hem opgelegde straf geheel of gedeeltelijk niet zal worden tenuitvoergelegd, stelt daarbij een proeftijd vast.
 2. De proeftijd bedraagt ten hoogste drie jaren. De proeftijd kan ten hoogste tien jaren bedragen indien er ernstig rekening mee moet worden gehouden dat de veroordeelde wederom een misdrijf zal begaan dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam van een of meer personen.
-3. De proeftijd kan eveneens ten hoogste tien jaren bedragen indien er ernstig rekening mee moet worden gehouden dat de veroordeelde wederom een misdrijf zal begaan dat de gezondheid of het welzijn van een of meer dieren benadeelt. Onder het benadelen van de gezondheid of het welzijn van een dier wordt voor de toepassing van dit artikel mede begrepen het misdrijf, bedoeld in de artikelen 254 en 254a.
