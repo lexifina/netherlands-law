@@ -1,0 +1,2 @@
+# Artikel XIV
+Op personen die krachtens de in artikelen III, VI, VIII, onderdelen C en E, en artikel XII genoemde artikelen zijn benoemd of herbenoemd voor het moment van inwerkingtreding van de artikelen III, VI, VIII onderdelen C en E, en artikel XII zijn de in de artikelen III, VI, VIII, onderdelen C en E, en artikel XII genoemde artikelen van toepassing zoals zij luidden voor dit moment van inwerkingtreding.
