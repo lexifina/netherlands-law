@@ -14,6 +14,9 @@
 #### § 1a. De plaatsvervanging
 #### § 2. De inrichting
 ### Hoofdstuk VI. De voorzitter
+### Hoofdstuk VI0a. De rekenkamer
+#### § 1. De rekenkamer van het waterschap
+#### § 2. De gemeenschappelijke rekenkamer
 ### Hoofdstuk VIA. De ombudsman
 #### § 1. Algemene bepaling
 #### § 2. De ombudsman voor het waterschap
@@ -30,6 +33,7 @@
 ### Hoofdstuk X. De bevoegdheid van het algemeen bestuur
 ### Hoofdstuk XI. De bevoegdheid van het dagelijks bestuur
 ### Hoofdstuk XII. De bevoegdheid van de voorzitter
+### Hoofdstuk XIIa. De bevoegdheid van de rekenkamer
 ## Titel IV. De financiën van het waterschap
 ### Hoofdstuk XIII. Algemene bepalingen
 ### Hoofdstuk XIV. De begroting en de jaarrekening
