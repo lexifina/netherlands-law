@@ -1,0 +1,2 @@
+# Artikel 214ca. Overgangsrecht toetredingsleeftijd
+Beroepsgenoten van 18 jaar of ouder die op het tijdstip van inwerkingtreding van artikel VII, onderdeel Fa, van de Wet toekomst pensioenen niet in de beroepspensioenregeling deelnemen, omdat zij jonger zijn dan de op basis van de pensioenregeling gehanteerde toetredingsleeftijd, verwerven pensioenaanspraken vanaf het tijdstip van inwerkingtreding van artikel VII, onderdeel Fa, van de Wet toekomst pensioenen.
