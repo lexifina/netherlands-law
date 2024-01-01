@@ -1,0 +1,11 @@
+# Artikel XXXII. Samenloop met het wetsvoorstel tot wijziging van onder meer de Wet op de expertisecentra in verband met de kwaliteit van het speciaal en voortgezet speciaal onderwijs
+1. [Wijzigt de Wijzigingswet Wet op de expertisecentra, enz. (kwaliteit van het speciaal en voortgezet speciaal onderwijs) (Kst. 32812).]
+2. [Wijzigt de Wijzigingswet Wet op de expertisecentra, enz. (kwaliteit van het speciaal en voortgezet speciaal onderwijs) (Kst. 32812).]
+3. [Wijzigt de Wijzigingswet Wet op de expertisecentra, enz. (kwaliteit van het speciaal en voortgezet speciaal onderwijs) (Kst. 32812).]
+4. [Wijzigt de Wijzigingswet Wet op de expertisecentra, enz. (kwaliteit van het speciaal en voortgezet speciaal onderwijs) (Kst. 32812).]
+5. [Wijzigt deze wet.]
+6. [Wijzigt de Wijzigingswet Wet op de expertisecentra, enz. (kwaliteit van het speciaal en voortgezet speciaal onderwijs) (Kst. 32812).]
+7. [Wijzigt deze wet.]
+8. [Wijzigt deze wet.]
+9. [Wijzigt deze wet.]
+10. [Wijzigt deze wet.]

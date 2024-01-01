@@ -1,0 +1,2 @@
+# Artikel XXIVa. Bekostiging van het landelijk werkverband epilepsie en onderwijs
+Onze minister verstrekt aan het bevoegd gezag van de school voor speciaal en voortgezet speciaal onderwijs «De Waterlelie» te Cruquius en het bevoegd gezag van de school voor speciaal en voortgezet speciaal onderwijs «De Berkenschutse» te Heeze bekostiging ten behoeve van ambulante begeleiding aan leerlingen met epilepsie. De bekostiging wordt jaarlijks vastgesteld bij beschikking van Onze minister.

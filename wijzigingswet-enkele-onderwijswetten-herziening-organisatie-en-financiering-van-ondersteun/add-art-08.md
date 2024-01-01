@@ -1,0 +1,2 @@
+# Artikel VIII. Wijziging Wet van 28 november 2002 tot wijziging van de Wet op de expertisecentra, de Wet op het primair onderwijs en de Wet op het voortgezet onderwijs in verband met de invoering van een leerlinggebonden financiering en de vorming van regionale expertisecentra (regeling leerlinggebonden financiering) (Stb. 2002, 631)
+[Wijzigt de Wijzigingswet Wet op de expertisecentra, enz. (invoering regeling leerlinggebonden financiering).]
