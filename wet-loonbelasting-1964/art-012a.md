@@ -2,7 +2,7 @@
 1. Ten aanzien van de werknemer die arbeid verricht ten behoeve van een lichaam waarin hij of zijn partner een aanmerkelijk belang heeft, wordt het in het kalenderjaar van dat lichaam genoten loon ten minste gesteld op het hoogste van de volgende bedragen:
 a. het loon uit de meest vergelijkbare dienstbetrekking;
 b. het hoogste loon van de werknemers die in dienst zijn van het lichaam, bedoeld in de aanhef, of met het lichaam verbonden lichamen;
-c. € 51.000.
+c. € 56.000.
 2. Indien de inhoudingsplichtige aannemelijk maakt dat het hoogste bedrag, bedoeld in het eerste lid, hoger is dan het loon uit de meest vergelijkbare dienstbetrekking, wordt het loon in afwijking van het eerste lid gesteld op het loon uit de meest vergelijkbare dienstbetrekking.
 3. Indien artikel 32d van toepassing is op het door een of meer lichamen verschuldigde loon, worden het eerste en tweede lid toegepast alsof de ten behoeve van deze andere lichamen verrichte arbeid is verricht ten behoeve van de inhoudingsplichtige die ingevolge artikel 32d geacht wordt het loon te verstrekken.
 4. Het eerste en tweede lid zijn niet van toepassing indien het bij toepassing van het eerste tot en met derde lid vast te stellen loon voor de arbeid in het lichaam, bedoeld in het eerste lid, en met het lichaam verbonden lichamen in het kalenderjaar niet hoger is dan € 5.000.
