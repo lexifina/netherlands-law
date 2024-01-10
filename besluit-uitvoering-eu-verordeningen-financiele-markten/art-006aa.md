@@ -1,0 +1,2 @@
+# Artikel 6aa
+De bevoegde autoriteit kan ter zake van overtreding van voorschriften gesteld ingevolge de in bijlage 3 genoemde artikelen aan de overtreder of, indien de overtreding is begaan door een rechtspersoon, de natuurlijke personen die tot de betrokken gedraging opdracht hebben gegeven of daaraan feitelijk leiding hebben gegeven, tijdelijk de bevoegdheid ontzeggen om de in die bijlage genoemde functies uit te oefenen bij andere ondernemingen dan die, genoemd in artikel 1:87, eerste lid, van de Wet op het financieel toezicht.

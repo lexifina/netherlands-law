@@ -1,0 +1,2 @@
+# Artikel 3a
+Als nationale afwikkelingsautoriteit in de zin van verordening (EU) nr. 806/2014 (gemeenschappelijk afwikkelingsmechanisme) en verordening (EU) nr. 2021/23 (herstel en afwikkeling centrale tegenpartijen), belast met de uitvoering en handhaving van de bij of krachtens die verordeningen gestelde regels, wordt aangewezen de Nederlandsche Bank. De artikelen 4 en 5 zijn van overeenkomstige toepassing.
