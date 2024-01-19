@@ -1,0 +1,4 @@
+# Artikel 8b
+1. Een kwaliteitsbepaler die zich bewust wordt van informatie als bedoeld in artikel 8a, bespreekt deze informatie met de leiding van het netwerkonderdeel of een hiërarchisch hoger netwerkonderdeel en dringt daarbij aan om zo spoedig mogelijk passende maatregelen te nemen.
+2. Indien niet tijdig passende maatregelen worden genomen door het netwerkonderdeel als bedoeld in het eerste lid, neemt de kwaliteitsbepaler zelf redelijkerwijs te nemen maatregelen of dringt er bij de leiding van het accountantskantoor op aan dit te doen.
+3. Indien de kwaliteitsbepaler vaststelt dat in een situatie als bedoeld in het eerste of tweede lid niet binnen een redelijke termijn passend zal worden gereageerd, informeert de kwaliteitsbepaler de andere accountants in de accountantseenheid en geeft de functie van kwaliteitsbepaler terug.
