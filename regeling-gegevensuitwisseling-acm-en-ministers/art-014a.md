@@ -1,0 +1,3 @@
+# Artikel 14a
+1. Onverminderd artikel 30 van de Kaderwet zelfstandige bestuursorganen informeert de ACM de Minister onverwijld ingeval er gedurende het jaar een verschil van 10% of meer ontstaat of dreigt te ontstaan tussen de werkelijke en de begrote ontvangsten en uitgaven.
+2. Ingeval de ACM gedurende een jaar nieuwe wettelijke taken gaat uitvoeren, verstrekt de ACM de Minister voor 1 februari van dat jaar een inschatting van de hiermee gepaard gaande kosten op basis van een uitvoeringstoets overeenkomstig artikel 6, waarbij onderscheid wordt gemaakt tussen de kosten die aan marktorganisaties worden doorberekend en de kosten die ten laste van de algemene middelen komen.
