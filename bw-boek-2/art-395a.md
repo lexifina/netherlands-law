@@ -1,7 +1,7 @@
 # Artikel 395a
 1. De leden 3 tot en met 6 gelden voor een rechtspersoon die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, heeft voldaan aan twee of drie van de volgende vereisten:
-a. de waarde van de activa volgens de balans met toelichting bedraagt, op de grondslag van verkrijgings- en vervaardigingsprijs, niet meer dan € 350.000;
-b. de netto-omzet over het boekjaar bedraagt niet meer dan € 700.000;
+a. de waarde van de activa volgens de balans met toelichting bedraagt, op de grondslag van verkrijgings- en vervaardigingsprijs, niet meer dan € 350.000 [per 13 maart 2024: € 450.000];
+b. de netto-omzet over het boekjaar bedraagt niet meer dan € 700.000 [per 13 maart 2024: € 900.000];
 c. het gemiddeld aantal werknemers over het boekjaar bedraagt minder dan 10.
 2. Voor de toepassing van lid 1 worden meegeteld de waarde van de activa, de netto-omzet en het getal der werknemers van groepsmaatschappijen, die in de consolidatie zouden moeten worden betrokken als de rechtspersoon een geconsolideerde jaarrekening zou moeten opmaken. Dit geldt niet, indien de rechtspersoon artikel 408 toepast.
 3. Het bepaalde in leden 3 en 4 van artikel 364 met betrekking tot de overlopende activa en passiva is niet van toepassing voor de overige bedrijfskosten bedoeld in artikel 377 lid 3 onder j. De rechtspersoon vermeldt het feit dat geen overlopende activa en passiva zijn opgenomen onderaan de balans.
