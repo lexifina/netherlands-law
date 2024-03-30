@@ -82,11 +82,17 @@
 ###### Subparagraaf 16.2.1.3.2. Wijziging van toewijzingsbesluiten
 ###### Subparagraaf 16.2.1.3.3. Het verlenen van broeikasgasemissierechten
 ##### Paragraaf 16.2.1.4. De geldigheid van broeikasgasemissierechten, het inleveren van broeikasgasemissierechten, het annuleren van broeikasgasemissierechten en het compenseren van emissies in een ander kalenderjaar
-#### Afdeling 16.2.2. Luchtvaartactiviteiten
+#### Afdeling 16.2.2. Luchtvaartactiviteiten en maritiem vervoer
 ##### Paragraaf 16.2.2.1. Algemeen
 ##### Paragraaf 16.2.2.2. Monitoring en verslaglegging
 ##### Paragraaf 16.2.2.3. Het toewijzen en verlenen van broeikasgasemissierechten
+##### Paragraaf 16.2.2.3a. Compensatievereisten CORSIA eenheden
 ##### Paragraaf 16.2.2.4. De geldigheid van broeikasgasemissierechten, het inleveren van broeikasgasemissierechten, het annuleren van broeikasgasemissierechten en het compenseren van emissies in een ander kalenderjaar
+#### Afdeling 16.2.2A. Levering van brandstoffen aan de gebouwensector, de wegvervoerssector en overige sectoren
+##### Paragraaf 16.2.2a.1. Algemeen
+##### Paragraaf 16.2.2a.2. Vergunning
+##### Paragraaf 16.2.2a.3. Monitoring van emissies
+##### Paragraaf 16.2.2a.4. Het veilen, verlenen en inleveren van broeikasgasemissierechten
 #### Afdeling 16.2.3. De overgang van broeikasgasemissierechten en andere eenheden
 #### Afdeling 16.2.4. Registratie van broeikasgasemissierechten en andere eenheden
 #### Afdeling 16.2.5. Instemming met deelname aan projectactiviteiten
