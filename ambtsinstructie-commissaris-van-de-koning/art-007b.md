@@ -1,0 +1,2 @@
+# Artikel 7b
+De commissaris informeert Onze Minister bij verstoorde bestuurlijke verhoudingen in een gemeente en wanneer de bestuurlijke integriteit van een gemeente in het geding is. Hij informeert Onze Minister daarbij tevens over de maatregelen die hij ter zake neemt, waaronder het bijwonen van vergaderingen van het gemeentebestuur en het kennisnemen van bescheiden waarover het gemeentebestuur beschikt als bedoeld in artikel 182, tweede lid, Provinciewet.
