@@ -1,0 +1,2 @@
+# Artikel 15a. Beveiliging van persoonsgegevens
+Teneinde de te verwerken persoonsgegevens te beveiligen en deze te beschermen tegen ongeoorloofde of onrechtmatige verwerking en opzettelijk verlies, vernietiging of beschadiging, neemt de in de artikelen 2 tot en met 15 bedoelde verwerker passende technische, organisatorische en personele maatregelen, waaronder inzake de juiste en veilige bediening en gebruik van informatiesystemen, de toegang tot en de beschikbaarheid en integriteit van informatiesystemen en het herkennen en herstellen van beveiligingsinbreuken.

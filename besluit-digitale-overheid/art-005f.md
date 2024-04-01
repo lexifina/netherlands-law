@@ -1,0 +1,5 @@
+# Artikel 5f. Persoonsgegevens misbruik en oneigenlijk gebruik
+Onze Minister kan de volgende gegevens verwerken, indien dit noodzakelijk is voor het waarborgen van de veilige toegang tot en de werking van de elektronische dienstverlening en het voorkomen van misbruik of oneigenlijk gebruik van de toegang tot elektronische dienstverlening:
+a. de gegevens, bedoeld in de artikelen 2 tot en met 5d, die verwerkt worden voor de inrichting, beschikbaarstelling, instandhouding, werking, beveiliging en betrouwbaarheid van de voorzieningen van de generieke digitale infrastructuur;
+b. de gegevens en inlichtingen, bedoeld in artikel 19 van de wet, die verstrekt worden door de bestuursorganen en aangewezen organisaties, aanbieders van een toegelaten identificatiemiddel en op grond van artikel 11 van de wet erkende middelenuitgevers en diensten;
+c. de uit onderzoek voortgekomen persoonsgegevens, met inbegrip van openbaar toegankelijke persoonsgegevens en persoonsgegevens die door derden aan Onze Minister verstrekt zijn.

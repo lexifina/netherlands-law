@@ -1,0 +1,13 @@
+# Artikel 3a. Persoonsgegevens bevoegdheidsverklaringsdienst
+Onze Minister verwerkt voor de inrichting, beschikbaarstelling, instandhouding, werking, beveiliging en betrouwbaarheid van de bevoegdheidsverklaringsdienst de volgende persoonsgegevens over:
+a. de beoogd vertegenwoordiger waarvoor een bevoegdheidsverklaring wordt gevraagd:
+1. de naam en de noodzakelijke gegevens om deze correct weer te geven;
+2. een nummer dat ter identificatie van een persoon kan worden gebruikt of tot een persoon kan worden herleid, waaronder het burgerservicenummer of een versleutelde of afgeleide vorm daarvan, of het door de Kamer van Koophandel bedoeld in artikel 2 van de Wet op de Kamer van Koophandel, uniek toegekende nummer aan een rechtspersoon of een onderneming die in Nederland is gevestigd en toebehoort aan een natuurlijke persoon;
+3. de gebruiksgegevens, waaronder het IP-adres en de kenmerken van de gebruikte software en hardware van het apparaat waarmee de beoogd vertegenwoordiger is ingelogd, handelingen van de beoogd vertegenwoordiger, het door die persoon gebruikte identificatiemiddel en betrouwbaarheidsniveau, de website van de organisatie waar de beoogd vertegenwoordiger een middel heeft aangevraagd of vanuit welke de authenticatie van de identiteit van deze persoon wordt uitgevoerd, sessiegegevens, waaronder cookies, en overige gegevens met betrekking tot het soort en tijdstip, kenmerken van het gebruik waaronder gegevens over toegang tot medische diensten waar mogelijk in versleutelde vorm;
+4. de dienst waar de beoogd vertegenwoordiger gebruik van wil maken en de naam van de afnemer van de bevoegdheidsverklaringsdienst;
+5. het gegeven dat de gebruiker voor een ander in wil loggen;
+6. de aard van de bevoegdheid van de beoogd vertegenwoordiger om te handelen namens de beoogd vertegenwoordigde;
+b. de beoogd vertegenwoordigde voor wie een bevoegdheidsverklaring wordt gevraagd:
+1. de naam en de noodzakelijke gegevens om deze correct weer te geven en de geboortegegevens of eventueel datum van overlijden;
+2. een nummer dat ter identificatie van de vertegenwoordigde kan worden gebruikt of tot de vertegenwoordigde kan worden herleid, waaronder het burgerservicenummer of een versleutelde of afgeleide vorm daarvan;
+c. afnemers van de bevoegdheidsverklaringsdienst: administratieve gegevens noodzakelijk in verband met het gebruik door de afnemer van de bevoegdheidsverklaringsdienst, waaronder, indien van toepassing, de naam van de bevoegde bestuurder van de rechtspersoon die gebruik maakt van de bevoegdheidsverklaringsdienst en de naam, de functie, het e-mailadres en het telefoonnummer van contactpersonen bij de betreffende afnemer.
