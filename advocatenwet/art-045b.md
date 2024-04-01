@@ -1,2 +1,2 @@
 # Artikel 45b
-De deken van de algemene raad kan aan de deken van de orde in het arrondissement, gehoord de overige leden van het college van toezicht, aanwijzingen geven met betrekking tot de uitoefening van de taken, bedoeld in artikel 45a, eerste lid, en artikel 24, tweede lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme.
+De deken van de algemene raad kan aan de deken van de orde in het arrondissement, gehoord de overige leden van het college van toezicht, aanwijzingen geven met betrekking tot de uitoefening van de taken, bedoeld in artikel 45a, eerste lid, artikel 24, tweede lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme en artikel 14, tweede lid, onderdeel b, van de Wet kwaliteit incassodienstverlening.
