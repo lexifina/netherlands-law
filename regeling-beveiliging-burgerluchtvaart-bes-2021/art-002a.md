@@ -1,0 +1,2 @@
+# Artikel 2a
+Tot de voorzieningen die zijn vereist ter beveiliging van de burgerluchtvaart, bedoeld in de artikelen 22l, derde lid, 22na, derde lid en 22nc, tweede lid, van de wet behoren tevens maatregelen die worden genomen ter bescherming van de voor de beveiliging van de burgerluchtvaart kritieke informatie- en communicatiesystemen. Aan het treffen van de maatregelen ligt een actuele risicoanalyse ten grondslag die door de exploitant van het luchtvaartterrein, de luchtvaartmaatschappij en de entiteit wordt uitgevoerd.

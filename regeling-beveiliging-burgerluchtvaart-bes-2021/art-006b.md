@@ -1,0 +1,2 @@
+# Artikel 6b
+Personen, anders dan passagiers, die aan een beveiligingscontrole zijn onderworpen, en tijdelijk de om beveiligingsredenen beperkt toegankelijke zones als bedoeld in artikel 22k, eerste lid, onder c, van de wet verlaten, worden vrijgesteld van een beveiligingscontrole bij hun terugkeer, indien deze personen onder constant toezicht hebben gestaan van beveiligingspersoneel en dit toezicht volstaat en redelijkerwijs kan worden aangenomen dat ze geen verboden voorwerpen in om beveiligingsredenen beperkt toegankelijke zones zullen binnenbrengen.
