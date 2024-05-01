@@ -1,0 +1,6 @@
+# Artikel 19b
+1. De persoon wiens voorlopige aanhouding of uitlevering vanwege een andere staat is verzocht kan, uiterlijk op de dag voorafgaande aan de dag welke is bepaald voor diens verhoor door het Hof van Justitie, verklaren dat wordt ingestemd met onmiddellijke uitlevering.
+2. De verklaring wordt afgelegd ten overstaan van een rechter-commissaris.
+3. De persoon wiens voorlopige aanhouding of uitlevering vanwege een andere staat is verzocht wordt, voordat diegene de verklaring aflegt, op de mogelijke gevolgen gewezen, daaronder begrepen dat artikel 7 niet van toepassing is. Van de verklaring wordt proces-verbaal opgemaakt.
+4. De persoon wiens voorlopige aanhouding of uitlevering vanwege een andere staat is verzocht kan zich bij het afleggen van de verklaring doen bijstaan door een raadsman. Indien de persoon zonder raadsman verschijnt, vestigt de rechter-commissaris de aandacht van de persoon op dat recht. Indien nodig wordt de persoon bijgestaan door een tolk.
+5. De rechter-commissaris ten overstaan van wie de verklaring, bedoeld in het eerste lid, is afgelegd, zendt het proces-verbaal daarvan aan de bij het verzoek tot voorlopige aanhouding of uitlevering betrokken procureur-generaal.
