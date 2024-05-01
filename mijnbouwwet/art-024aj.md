@@ -1,7 +1,7 @@
 # Artikel 24aj
 1. Een aanvraag om vervolgvergunning aardwarmte wordt geheel of gedeeltelijk afgewezen indien:
 a. de in de aanvraag beschreven winning onaanvaardbare risico's met zich brengt voor de veiligheid van omwonenden of onaanvaardbare schade kan veroorzaken aan gebouwen of infrastructurele werken of de functionaliteit daarvan;
-b. geen financiële zekerheid, anders dan bedoeld in de artikelen 46 en 47, kan worden gesteld ter dekking van de schade door verontreiniging van grondwater of bodem in verband met de opsporing en winning van aardwarmte indien de in de aanvraag aangegeven aardlagen zich geheel of gedeeltelijk bevinden onder een gebied dat is aangewezen voor de winning van drinkwater uit grondwater.
+b. geen financiële zekerheid, anders dan bedoeld in de artikelen 46 en 47, kan worden gesteld ter dekking van de aansprakelijkheid voor de schade door verontreiniging van grondwater of bodem in verband met de opsporing en winning van aardwarmte indien de in de aanvraag aangegeven aardlagen zich geheel of gedeeltelijk bevinden onder een gebied dat is aangewezen voor de winning van drinkwater uit grondwater.
 2. Een vervolgvergunning aardwarmte kan geheel of gedeeltelijk worden afgewezen:
 a. indien de in de aanvraag aangeduide wijze van winning niet geschikt wordt geacht om reden van de nadelige gevolgen voor het milieu;
 b. indien de invloedssfeer niet aansluit bij de door de aanvrager aangegeven aardlaag en de begrenzing ervan;

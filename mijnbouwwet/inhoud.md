@@ -42,10 +42,7 @@
 ### Afdeling 5.4. Het stellen van zekerheid
 ### Afdeling 5.5. Uitvoeringsregels
 ### Afdeling 5.6. Wetenschappelijk onderzoek
-## Hoofdstuk 6. Adviseurs
-### § 6.1. De Mijnraad
-### § 6.2. De Technische commissie bodembeweging
-### § 6.3. Overige adviseurs
+## Hoofdstuk 6. De Mijnraad
 ## Hoofdstuk 7. Rapportage
 ## Hoofdstuk 8. Toezicht, handhaving en retributies
 ### § 8.1. Het Staatstoezicht op de mijnen
@@ -55,7 +52,6 @@
 ## Hoofdstuk 9. Waarborgfonds mijnbouwschade
 ### § 9.1. Algemene bepalingen
 ### § 9.2. Schadevergoeding bij insolventie
-### § 9.3. Voorschotten
 ## Hoofdstuk 9a. Projectbesluit voor de aanleg of uitbreiding van mijnbouwwerken en pijpleidingen ten behoeve van de winning van koolwaterstoffen en de opslag van stoffen
 ## Hoofdstuk 10. Rechtsbescherming
 ## Hoofdstuk 11. Overgangsbepalingen

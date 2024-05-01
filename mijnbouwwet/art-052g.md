@@ -1,5 +1,9 @@
 # Artikel 52g
-1. De houder van de winningsvergunning Groningenveld voert de door Onze Minister vastgestelde operationele strategie en indien die is opgelegd, een tijdelijke maatregel als bedoeld in artikel 52e, tweede lid, op zodanige wijze uit dat de nadelige gevolgen van de gaswinning uit het Groningenveld zoveel mogelijk worden beperkt.
-2. De houder van de winningsvergunning Groningenveld neemt alle noodzakelijke maatregelen om de gevolgen van een zwaar ongeval voor mens en milieu te beperken.
-3. Na beëindiging van de winning uit het Groningenveld neemt de houder van de winningsvergunning Groningenveld dan wel, indien deze vergunning haar gelding heeft verloren, de laatste houder daarvan, alle maatregelen die redelijkerwijs van hem gevergd kunnen worden om nadelige gevolgen van de gaswinning uit het Groningenveld zoveel mogelijk te beperken.
-4. Bij ministeriële regeling worden nadere regels gesteld over het uitvoeren van de door Onze Minister vastgestelde operationele strategie.
+1. De houder van de winningsvergunning Groningenveld dan wel indien deze vergunning haar gelding heeft verloren, de laatste houder daarvan, neemt alle maatregelen die redelijkerwijs van hem kunnen worden gevergd om:
+a. na beëindiging van de gaswinning uit het Groningenveld de nadelige gevolgen van die winning zoveel mogelijk te voorkomen en te beperken;
+b. te voorkomen dat als gevolg van een mijnbouwwerk dat buiten werking is nadelige gevolgen voor mens en milieu worden veroorzaakt.
+2. [Dit lid is nog niet in werking getreden.]
+3. [Dit lid is nog niet in werking getreden.]
+4. [Dit lid is nog niet in werking getreden.]
+5. [Dit lid is nog niet in werking getreden.]
+6. [Dit lid is nog niet in werking getreden.]

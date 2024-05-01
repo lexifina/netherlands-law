@@ -1,0 +1,2 @@
+# Artikel 167o
+Het bepaalde bij of krachtens paragraaf 6.2 en artikel 139 eerste lid, zoals deze luidde voor de inwerkingtreding van artikel II, onderdeel H, van de Wet van 17 april 2024, houdende wijziging van de Gaswet en de Mijnbouwwet in verband met de beëindiging van de gaswinning uit het Groningenveld (Stb. 2024, 95), blijft van toepassing op adviezen die voorafgaand aan het moment van die inwerkingtreding aan de Technische commissie bodembeweging zijn gevraagd.
