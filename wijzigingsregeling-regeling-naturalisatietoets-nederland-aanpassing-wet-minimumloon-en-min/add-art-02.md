@@ -1,0 +1,2 @@
+# Artikel II
+Artikel 4, achtste lid, onderdeel c, onderdeel 2˚, zoals dat luidde onmiddellijk voor het tijdstip van de inwerkingtreding van deze regeling, blijft van toepassing op verzoeken van de verzoeker om verlening van het Nederlanderschap tot vrijstelling van het onderdeel van het inburgeringsexamen oriëntatie op de Nederlandse arbeidsmarkt, bedoeld in de artikelen 2.10, eerste lid, onderdeel b, en 3.9, derde lid, onderdeel b, van het Besluit inburgering die zijn ingediend voor de inwerkingtreding van deze regeling.
