@@ -1,0 +1,3 @@
+# Artikel IV
+1. Dit besluit, met uitzondering van artikel III, treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt voor artikel I, onderdelen D en G, terug tot en met 18 juli 2020 en werkt voor artikel I, onderdelen E, F, H, I, J en K, terug tot en met 27 maart 2021.
+2. Artikel III treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip en werkt terug tot het bij dat besluit te bepalen tijdstip, zijnde het tijdstip waarop de Europese Commissie conform artikel 4, tweede lid, van verordening 2020/1043, bericht dat de voorwaarden voor de toepassing van die verordening niet langer vervuld zijn.

@@ -1,0 +1,2 @@
+# Artikel II
+Na het tijdstip waarop artikel 3.1, derde lid, van het Besluit genetisch gemodificeerde organismen milieubeheer 2013 is vervallen, blijft het van toepassing op klinische proeven als bedoeld in artikel 2, eerste lid, van verordening 2020/1043, die na dat tijdstip worden voortgezet en waarvoor in de periode vanaf 18 juli 2020 toelating is verleend op grond van de Wet medisch-wetenschappelijk onderzoek met mensen.
