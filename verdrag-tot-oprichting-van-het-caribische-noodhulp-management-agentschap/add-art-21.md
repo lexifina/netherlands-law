@@ -1,0 +1,5 @@
+# Article XXI. Disciplined forces
+1. Where, in response to a request for assistance by any affected Participating State, members of the disciplined forces of another Participating State are despatched to any part of the territory of the requesting State, the Executive Director shall, subject to the express prior agreement of the competent authorities of the requesting State, designate a Special Coordinator from among the senior officers of such forces acting after consultation with the Chiefs of Staff or Commanding Officers of the disciplined forces concerned.
+2. The Special Coordinator shall be charged with responsibility for coordinating the disaster relief efforts of the disciplined forces in the affected Participating State.
+3. No member of the disciplined forces of a Participating State shall be despatched to the territory of an affected Participating State without the express prior consent of that State.
+4. In the absence of a contrary agreement between the requesting State and the sending State to that effect, members of the disciplined forces of the sending State shall be under the control and disciplinary authority of their commanding officer.

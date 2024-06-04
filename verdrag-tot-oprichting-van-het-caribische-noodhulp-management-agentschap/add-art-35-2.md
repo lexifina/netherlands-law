@@ -1,0 +1,3 @@
+# Artikel XXXV. Schorsing van rechten en voorrechten van het lidmaatschap
+1. Een deelnemende staat die achterstallig is met de betaling van zijn financiële bijdrage aan de administratieve begroting van CDEMA, kan in de raad of het MCC geen stemrecht uitoefenen indien het bedrag van de achterstallige betaling gelijk is aan of hoger dan dat van de bijdragen door hem verschuldigd over de twee voorgaande boekjaren.
+2. Een deelnemende staat die de verplichtingen die ingevolge dit Verdrag zijn aangegaan heeft geschonden kan door de raad worden geschorst in de uitoefening van de rechten en voorrechten van het lidmaatschap.

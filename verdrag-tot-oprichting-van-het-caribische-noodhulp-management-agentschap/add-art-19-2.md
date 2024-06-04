@@ -1,0 +1,21 @@
+# Artikel XIX. Verplichtingen van de deelnemende staten
+Onverminderd het vereiste om andere verplichtingen die uit hoofde van of in verband met dit Verdrag zijn aangegaan na te komen, verplichten de deelnemende staten zich ertoe:
+a. nationale hulporganisaties op te richten en in stand te houden, naargelang van het geval, die in staat zijn snel, effectief en op gecoördineerde wijze te reageren op rampen in de deelnemende staten;
+b. planningsgroepen voor noodsituaties op te richten en nationaal beleid en nationale prioriteiten vast te stellen wanneer zich een ramp voordoet;
+c. nationale agentschappen voor rampenbeheersing op te richten met voldoende ondersteuning, waaronder met name genoemde rampenbeheersingscoördinatoren, liaison officers binnen belangrijke ministeries, ondersteuningsdiensten en toegang tot nutsvoorzieningen;
+d. te waarborgen dat nationale agentschappen voor rampenbeheersing en hun coördinatoren specifieke functies en verantwoordelijkheden hebben om te verzekeren dat er voldoende capaciteit wordt opgebouwd om een adequate reactie te kunnen ondersteunen bij nationale rampen;
+e. de rol en taken vast te leggen van belangrijke instanties, zoals de veiligheids- en gezondheidsdiensten en openbare werken, bij rampenbeheersing in noodsituaties en een systeem op te zetten voor het regelmatig herzien van hun procedures teneinde een gecoördineerde reactie te waarborgen;
+f. een geschikt operationeel centrum op te zetten en uit te rusten waar telecommunicatie in noodsituaties kan worden afgehandeld en de hulpverlening van de relevante diensten kan worden gecoördineerd;
+g. een noodtelecommunicatiesysteem te ontwikkelen en te onderhouden gebaseerd op de meest geschikte technologie teneinde de coördinatie tussen de belanghebbenden van de noodoperaties te waarborgen;
+h. procedures in te stellen en te versterken voor het omgaan met de dreiging van ernstige rampen en toetsingsystemen in stand te houden voor het testen van procedures door middel van oefeningen en simulaties;
+i. juridische regelingen voor rampenmitigatie en noodmaatregelen te toetsen en te rationaliseren;
+j. eerdere rampen te evalueren en te catalogiseren en een lijst te maken van realistische manieren om op toekomstige rampen te reageren en gebieden met bijzondere problemen en kenmerken, zoals gebieden die een groter risico lopen op overstromingen of aardverschuivingen, te identificeren en in te kaart brengen;
+k. databases met belangrijke hulpmiddelen, zowel mensen als materieel, en een systeem om deze actueel te houden op te zetten en deze langs digitale weg op te nemen in geautomatiseerde informatiesystemen voor noodsituaties;
+l. in samenwerking met bevoegde overheidsinstanties, beleid en programma's voor noodopvang te ontwikkelen, waarbij lokale functionarissen uit gemeenschapsorganisaties volledig betrokken worden;
+m. een systeem te ontwikkelen en te toetsen voor deelname van de gemeenschap, lokale mobilisatie en maatregelen om rampen tegen te gaan in het geval van isolement;
+n. strategieën te ontwikkelen voor het beperken van verliezen in de publieke en private sector, waarbij de focus ligt op vitale economische activiteiten en vitale faciliteiten;
+o. een systeem en procedures voor schadebeoordeling te ontwikkelen om een snelle en effectieve evaluatie achteraf mogelijk te maken;
+p. een uitbreid programma voor bewustwording, informatie en educatie van het publiek op het gebied van rampen te ontwikkelen en te implementeren, waarbij mediaorganisaties, scholen, vrijwilligers en andere instellingen betrokken worden om deelname en betrokkenheid van burgers en de gemeenschap bij rampenbeheersing te verzekeren;
+q. geschikte trainingsprogramma's voor personen die betrokken zijn bij het rampenbeheersingsprogramma te ontwikkelen en te implementeren;
+r. deelnemers aan bilaterale en multilaterale programma's voor technische samenwerking gericht op het ontwikkelen van capaciteiten op het gebied van rampenbeheersing te identificeren en uit te nodigen;
+s. relevante materiële middelen en menselijke hulpbronnen te identificeren en in staat van paraatheid te houden, die op verzoek van de uitvoerend directeur onmiddellijk beschikbaar worden gesteld wanneer zich een ramp voordoet.

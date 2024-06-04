@@ -1,0 +1,6 @@
+# Artikel XXXVI. Arbitrage
+1. Elk geschil tussen een staat die partij is en CDEMA dat voortvloeit uit de interpretatie of toepassing van dit Verdrag en dat niet door onderhandeling of een andere overeengekomen wijze van geschillenbeslechting wordt geregeld, wordt op verzoek van een van de partijen ter definitieve beslissing verwezen naar een scheidsgerecht bestaande uit drie scheidsrechters.
+2. Elke partij is gerechtigd een scheidsrechter te benoemen binnen vijftien dagen volgend op het verzoek van de andere partij en de twee scheidsrechters benoemen binnen vijftien dagen volgend op de datum van hun benoeming een derde scheidsrechter die de voorzitter is van het scheidsgerecht.
+3. Wanneer een partij verzuimt een scheidsrechter te benoemen uit hoofde van het tweede lid, kan de andere partij de Secretaris-Generaal van de Caribische Gemeenschap verzoeken binnen tien dagen een scheidsrechter te benoemen.
+4. Wanneer de twee uit hoofde van het tweede lid benoemde scheidsrechters verzuimen een derde scheidsrechter te benoemen, kan elk van de partijen de Secretaris-Generaal van de Caribische Gemeenschap verzoeken binnen tien dagen een scheidsrechter te benoemen.
+5. Het scheidsgerecht stelt zijn eigen reglement van orde vast.

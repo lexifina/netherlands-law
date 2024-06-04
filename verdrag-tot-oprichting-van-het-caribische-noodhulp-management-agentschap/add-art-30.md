@@ -1,0 +1,4 @@
+# Article XXX. Priveleges and immunities of CDEMA
+1. CDEMA its property and assets wherever located and by whomsoever held shall enjoy immunity from every form of legal process except or in so far as in any particular case the Executive Director has expressly waived its immunity. Any waiver of immunity shall not extend to any measure of execution.
+2. Save as provided in paragraph 1 the property of CDEMA, wherever located or by whomsoever held, shall be immune from search, acquisition, confiscation, expropriation and any other form of interference, whether by executive, administrative or judicial action.
+3. This Article shall not be construed as preventing the Government of a Participating State from taking appropriate action in connection with the investigation of accidents involving motor vehicles belonging to or operated on behalf of CDEMA.
