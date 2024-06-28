@@ -1,0 +1,3 @@
+# Artikel II
+1. De artikelen I en IB treden in werking op een bij koninklijk besluit te bepalen tijdstip.
+2. Artikel IA treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin de Wet van 14 juni 2024 tot wijziging van de Wet verbod op kolen bij elektriciteitsproductie en de Wet van 7 juli 2021 tot wijziging van de Wet verbod op kolen bij elektriciteitsproductie in verband met beperking van de CO2-emissie (vroegtijdige intrekking productiebeperking, wijziging delegatiegrondslag kolenfonds en drie verbeteringen uitvoering productiebeperking) (Stb. 2024, 192) wordt geplaatst en werkt terug tot en met 21 juni 2022.
