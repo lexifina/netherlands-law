@@ -1,0 +1,2 @@
+# Artikel II
+Artikel 2.2 van de Regeling zorgverzekering zoals dat luidde op 30 juni 2024 blijft van toepassing voor verzekerden met ernstige COVID-19 die voor 1 juli 2024 al fysiotherapie, oefentherapie, logopedie,diëtetiek of ergotherapie als bedoeld in dat artikel ontvingen, met dien verstande dat na de inwerkingtreding van deze regeling geen nieuwe termijn als bedoeld in het derde lid, onderdeel b, van het artikel zoals dat op 30 juni 2024 luidde, kan aanvangen.
