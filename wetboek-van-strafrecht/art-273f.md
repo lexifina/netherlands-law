@@ -17,4 +17,4 @@
 4. Indien een van de in het eerste lid omschreven feiten zwaar lichamelijk letsel ten gevolge heeft of daarvan levensgevaar voor een ander te duchten is, wordt gevangenisstraf van ten hoogste achttien jaren of geldboete van de vijfde categorie opgelegd.
 5. Indien een van de in het eerste lid omschreven feiten de dood ten gevolge heeft, wordt levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie opgelegd.
 6. Onder kwetsbare positie wordt mede begrepen een situatie waarin een persoon geen andere werkelijke of aanvaardbare keuze heeft dan het misbruik te ondergaan.
-7. Artikel 251 is van overeenkomstige toepassing.
+7. Artikel 254a is van overeenkomstige toepassing.
