@@ -1,0 +1,2 @@
+# Artikel IV
+Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties zendt binnen vijf jaar na het tijdstip van inwerkingtreding van dit besluit aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit besluit in de praktijk. Vervolgens wordt telkens na vijf jaar een verslag gezonden aan de Staten-Generaal over de doeltreffendheid en de effecten van de hoogte van de liberalisatiegrens, bedoeld in artikel 2, eerste lid, van het Besluit huurprijzen woonruimte.
