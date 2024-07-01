@@ -1,0 +1,2 @@
+# Artikel XI
+Onze Minister van Financiën zendt binnen drie jaar na de inwerkingtreding van artikel I, onderdelen H, L en N, aan de Staten-Generaal een verslag over de doeltreffendheid en effecten in de praktijk van de artikelen 61, eerste lid, onderdelen e en f, 86d, eerste lid, onderdeel b, en 86i, eerste lid, onderdeel f, en derde lid, van het Besluit Gedragstoezicht financiële ondernemingen Wft, zoals gewijzigd bij dit besluit.
