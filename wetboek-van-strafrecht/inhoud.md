@@ -30,7 +30,7 @@
 ### Titel XI. Valsheid in zegels en merken
 ### Titel XII. Valsheid met geschriften, gegevens en biometrische kenmerken
 ### Titel XIII. Misdrijven tegen de burgerlijke staat
-### Titel XIV. Misdrijven tegen de zeden
+### Titel XIV. Seksuele misdrijven
 ### Titel XV. Verlating van hulpbehoevenden
 ### Titel XVI. Belediging
 ### Titel XVII. Schending van geheimen
@@ -56,7 +56,6 @@
 ### Titel III. Overtredingen betreffende het openbaar gezag
 ### Titel IV. Overtredingen betreffende de burgerlijke staat
 ### Titel V. Overtreding betreffende hulpbehoevenden
-### Titel VI. Overtredingen betreffende de zeden
 ### Titel VII. Overtredingen betreffende de veldpolitie
 ### Titel VIII. Ambtsovertredingen
 ### Titel IX. Scheepvaartovertredingen
