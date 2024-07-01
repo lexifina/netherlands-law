@@ -1,0 +1,7 @@
+# Artikel 7b
+1. In afwijking van artikel 7a, eerste lid, zullen op basis van een daartoe ingediend verzoek:
+a. financiële ondernemingen als bedoeld in de Wet op het financieel toezicht, voor zover zij als financiële dienstverlener een vergunning hebben bij De Nederlandsche Bank of van de Autoriteit Financiële Markten en toegang tot de permanente aansluiting nodig hebben ten behoeve van het verstrekken van hypotheken of geldleningen ten aanzien van registergoederen; en
+b. organisaties die voor de uitvoering van hun wettelijke taak of in het belang van de rechtszekerheid ten aanzien van registergoederen toegang tot de permanente aansluiting nodig hebben en meer dan 150 actieve gebruikers hebben;
+op een nader te bepalen moment gebruik gaan maken van een bedrijfs- en organisatiemiddel als bedoeld in artikel 7a, eerste lid, om toegang te krijgen tot de permanente aansluiting.
+2. Het verzoek dat de in het eerste lid, onderdeel a en b genoemde ondernemingen en organisaties kunnen indienen, bevat voldoende gemotiveerd de redenen voor het verzoek tot uitstel. De beslissing op een dergelijk verzoek wordt aangemerkt als een besluit in de zin van artikel 1:3 van de Algemene wet bestuursrecht.
+3. Het bestuur van de Dienst kan ten aanzien van een onderneming of organisatie artikel 7a voor bepaalde tijd buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat artikel 7a beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard. Het tweede lid is dan van overeenkomstige toepassing.

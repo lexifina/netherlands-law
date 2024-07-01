@@ -1,0 +1,3 @@
+# Artikel 7a
+1. De toegang tot de permanente aansluiting wordt verkregen door gebruik te maken van ten minste een bedrijfs- en organisatiemiddel dat ingevolge Verordening (EU) nr. 910/2014 bij de Europese Commissie is genotificeerd en voldoet aan het beveiligingsniveau 'substantieel'.
+2. Het eerste lid is niet van toepassing op een onderneming of rechtspersoon die niet in Nederland is gevestigd of in Nederland is vertegenwoordigd door een gevolmachtigde handelsagent, zolang in het land van vestiging nog geen bedrijfs- en organisatiemiddel voorhanden is dat ingevolge Verordening (EU) nr. 910/2014 bij de Europese Commissie is genotificeerd en ten minste voldoet aan het beveiligingsniveau 'substantieel'.
