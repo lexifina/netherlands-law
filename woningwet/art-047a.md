@@ -1,3 +1,0 @@
-# Artikel 47a
-1. De toegelaten instelling gaat, behoudens het bepaalde bij en krachtens de artikelen 49a, tweede en vierde lid, 50 en 50a, met betrekking tot haar woongelegenheden, bedoeld in artikel 47, eerste lid, onderdelen b en c, voor zover deze als zelfstandige woning, bedoeld in artikel 234 van Boek 7 van het Burgerlijk Wetboek, worden verhuurd geen overeenkomsten van huur en verhuur voor bepaalde tijd aan voor de duur van twee jaar of korter.
-2. Het eerste lid is niet van toepassing op personen die deel uitmaken van een bij ministeriële regeling te bepalen groep. Met die personen gaat de toegelaten instelling geen overeenkomst van huur en verhuur aan welke een gebruik van woonruimte betreft als bedoeld in artikel 232 lid 2 van Boek 7 van het Burgerlijk Wetboek.
