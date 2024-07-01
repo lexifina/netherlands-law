@@ -1,2 +1,0 @@
-# Artikel 248f
-Hij die door dwang, geweld of een andere feitelijkheid of door dreiging met geweld of een andere feitelijkheid, het plegen van ontucht door een persoon van wie hij weet of redelijkerwijs moet vermoeden dat deze de leeftijd van achttien jaren nog niet heeft bereikt, met een derde opzettelijk teweegbrengt of bevordert, wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
