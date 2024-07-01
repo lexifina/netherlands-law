@@ -1,2 +1,0 @@
-# Artikel 240a
-Met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie wordt gestraft hij die een afbeelding, een voorwerp of een gegevensdrager, bevattende een afbeelding waarvan de vertoning schadelijk is te achten voor personen beneden de leeftijd van zestien jaar, verstrekt, aanbiedt of vertoont aan een minderjarige van wie hij weet of redelijkerwijs moet vermoeden, dat deze jonger is dan zestien jaar.
