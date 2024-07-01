@@ -1,0 +1,2 @@
+# Artikel VIII
+De Algemene douanewet zoals die wet luidde op 30 juni 2024 blijft voor douaneschulden die zijn ontstaan vóór 1 juli 2021 van toepassing voor wat betreft de toepassing van artikel 103 van Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269) wanneer uit een douanecontrole in verband met een douaneschuld blijkt dat de betreffende boeking moet worden herzien.
