@@ -1,9 +1,9 @@
 # Artikel 475da
 1. De beslagvrije voet bedraagt ten hoogste:
-a. voor een alleenstaande: € 1.996,21;
-b. voor een alleenstaande ouder: € 2.162,60;
-c. voor gehuwden zonder kinderen: € 2.631,49;
-d. voor gehuwden met een of meer kinderen: € 2.747,09.
+a. voor een alleenstaande: € 2.019,60;
+b. voor een alleenstaande ouder: € 2.181,31;
+c. voor gehuwden zonder kinderen: € 2.664,91;
+d. voor gehuwden met een of meer kinderen: € 2.775,82.
 2. Met inachtneming van het eerste lid bedraagt de beslagvrije voet:
 a. voor een alleenstaande: (95% x A) + (((C – D) / 12) x E) + ((F x C2 + G x C) – J);
 b. voor een alleenstaande ouder: (95% x A) + (((C – D) / 12) x E) + ((H x C2 + I x C) – J) + (((C – D) / 12) x K);
