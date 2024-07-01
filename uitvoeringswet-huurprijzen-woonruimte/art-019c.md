@@ -1,0 +1,2 @@
+# Artikel 19c
+Onze Minister verstrekt ten behoeve van de heffing en inning van de verhuurderbijdrage jaarlijks aan het bestuur een overzicht van de toegelaten instellingen en de woongelegenheden waarvan zij op 31 december van het jaar voorafgaande aan het bijdragejaar krachtens eigendom, bezit of beperkt recht het genot hebben volgens het overzicht bedoeld in artikel 36a, vierde lid van de Woningwet.

@@ -1,0 +1,3 @@
+# Artikel 208e
+1. De artikelen 247, 247b en 248 lid 3 van Boek 7 zoals die door de Wet betaalbare huur zijn komen te luiden, zijn niet van toepassing op huurovereenkomsten die voor het in werking treden van die artikelen zijn gesloten.
+2. In afwijking van het eerste lid, is artikel 247 van Boek 7, zoals dat door de Wet betaalbare huur is komen te luiden, een jaar na het in werking treden van dat artikel van toepassing op voor het tijdstip van inwerkingtreding gesloten huurovereenkomsten die betrekking hebben op zelfstandige woonruimten met een krachtens artikel 10 van de Uitvoeringswet huurprijzen woonruimte geldende maximale huurprijs die lager is dan het bedrag, genoemd in artikel 13, eerste lid, onder a, van de Wet op de huurtoeslag.
