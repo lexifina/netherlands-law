@@ -1,0 +1,2 @@
+# Artikel 1ac
+Op grond van artikel 4f van de Wet op de dividendbelasting 1965 kan inhouding van dividendbelasting achterwege blijven, voor zover de opbrengstgerechtigde voor het tijdstip waarop de opbrengst ter beschikking wordt gesteld jegens de inhoudingsplichtige schriftelijk verklaart dat met betrekking tot dat dividend sprake is van een situatie als bedoeld in artikel 25, elfde lid, van de Invorderingswet 1990.

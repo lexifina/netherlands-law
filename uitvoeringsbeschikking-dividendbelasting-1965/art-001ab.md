@@ -1,0 +1,2 @@
+# Artikel 1ab
+Op grond van artikel 4e van de Wet op de dividendbelasting 1965 kan inhouding van dividendbelasting achterwege blijven, voor zover de opbrengstgerechtigde voor het tijdstip waarop de opbrengst ter beschikking wordt gesteld jegens de inhoudingsplichtige schriftelijk verklaart dat hij met betrekking tot dat dividend een verzoek zal doen om toepassing van artikel 4.12a van de Wet inkomstenbelasting 2001.

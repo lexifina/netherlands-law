@@ -1,0 +1,2 @@
+# Artikel 1c
+Voor de toepassing van de artikelen 4a, tweede lid, 10, derde lid, en 10a, tweede lid, van de Wet op de dividendbelasting 1965 wordt als in dat lid bedoelde staat aangewezen: elke staat, niet zijnde een lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, waarmee Nederland in lijn met de internationale standaard op het gebied van informatie-uitwisseling gegevens kan uitwisselen.
