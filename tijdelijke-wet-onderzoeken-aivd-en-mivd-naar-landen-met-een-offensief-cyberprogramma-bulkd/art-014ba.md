@@ -1,0 +1,13 @@
+# Artikel 14ba
+1. Onze betrokken Minister kan, bij afloop van de eindtermijn, bedoeld in artikel 14b, op een daartoe strekkend verzoek van het hoofd van de betrokken dienst, wanneer vanwege dringende redenen met het oog op de nationale veiligheid dit noodzakelijk wordt geacht, worden verzocht om te beoordelen of een nieuwe eindtermijn dient te worden vastgesteld voor het gebruik van een bulkdataset voor enig lopend onderzoek vallend onder de taken, bedoeld in artikel 8, tweede lid, onder a en d, onderscheidenlijk artikel 10, tweede lid, onder a, c en e, van de Wiv 2017.
+2. Een verzoek om toestemming als bedoeld in het eerste lid, bevat:
+a. een aanduiding van de bulkdataset dan wel, voor zover van toepassing, delen daarvan;
+b. een omschrijving van het onderzoek in welk kader de bulkdataset is verworven;
+c. de periode gedurende welke de bulkdataset reeds is bewaard;
+d. de reden waarom een nieuwe eindtermijn voor gebruik van de bulkdataset noodzakelijk is;
+e. de reden waarom een nieuwe eindtermijn voor gebruik van de bulkdataset vanuit de daarmee gepaard gaande beperking van het recht op bescherming van de persoonlijke levenssfeer van de personen wier gegevens in de bulkdataset zijn opgenomen proportioneel en subsidiair is;
+f. het gebruik van de bulkdataset in de afgelopen periode en daarmee het behaalde resultaat;
+g. de verwachte potentiële bijdrage van het gebruik van de bulkdataset aan enig lopend onderzoek vallend onder de taken, bedoeld in artikel 8, tweede lid, onder a en d, onderscheidenlijk artikel 10, tweede lid, onder a, c en e, van de Wiv 2017 in de verzochte nieuwe eindtermijn.
+3. Indien Onze betrokken Minister bij de beoordeling van een verzoek als bedoeld in het eerste lid tot het oordeel komt dat dringende redenen met het oog op de nationale veiligheid dit noodzakelijk maken, kan een nieuwe eindtermijn voor gebruik van de bulkdataset van ten hoogste een jaar door hem worden vastgesteld. Van de vaststelling van een nieuwe eindtermijn door Onze betrokken Minister wordt terstond mededeling gedaan aan de afdeling toezicht van de commissie van toezicht.
+4. Na afloop van de ingevolge het derde lid vastgestelde nieuwe eindtermijn kan in voorkomende gevallen een nieuw verzoek als bedoeld in het eerste lid bij Onze betrokken Minister worden ingediend, met dien verstande dat dan verzocht wordt om een nieuwe eindtermijn ten opzichte van de eerder op grond van het derde lid vastgestelde eindtermijn.
+5. Indien Onze betrokken Minister op een verzoek als bedoeld in het eerste lid afwijzend beslist, wordt de desbetreffende bulkdataset terstond na afloop van de geldende eindtermijn vernietigd. Van de vernietiging wordt terstond mededeling gedaan aan de afdeling toezicht van de commissie van toezicht.

@@ -1,0 +1,2 @@
+# Artikel 14a
+Op de uitvoering van de in artikel 8, tweede lid, onder a en d, onderscheidenlijk 10, tweede lid, onder a, c en e, van de Wiv 2017 aan de Algemene Inlichtingen- en Veiligheidsdienst onderscheidenlijk de Militaire Inlichtingen- en Veiligheidsdienst in het belang van de nationale veiligheid opgedragen taak, waaronder begrepen de taak, bedoeld in artikel 2, eerste lid, is het bepaalde in dit hoofdstuk van toepassing.

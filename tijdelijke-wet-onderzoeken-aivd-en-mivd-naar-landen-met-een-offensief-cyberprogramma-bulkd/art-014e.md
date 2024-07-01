@@ -1,0 +1,4 @@
+# Artikel 14e
+1. Dit artikel is van toepassing op de uitoefening van de bevoegdheid, bedoeld in artikel 55, eerste lid, van die wet voor zover deze betrekking heeft op gegevens over het communicatieverkeer met betrekking tot de gebruiker dat na het tijdstip van de opdracht zal plaatsvinden.
+2. Een door Onze betrokken Minister of namens deze door het hoofd van de betrokken dienst verleende schriftelijke toestemming voor de uitoefening van de bevoegdheid, bedoeld in het eerste lid, wordt voor een toets op rechtmatigheid aan de toetsingscommissie voorgelegd. Het oordeel van de toetsingscommissie is bindend. De artikelen 36 en 37 Wiv 2017 zijn van overeenkomstige toepassing.
+3. Artikel 59 van de Wiv 2017 is van overeenkomstige toepassing op de uitoefening van de bijzondere bevoegdheid als bedoeld in het eerste lid.
