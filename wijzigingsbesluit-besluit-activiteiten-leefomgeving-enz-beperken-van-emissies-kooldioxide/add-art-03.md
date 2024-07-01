@@ -1,0 +1,2 @@
+# Artikel III
+In 2025 kan worden volstaan met het verstrekken van gegevens als bedoeld in artikel 18.15, eerste lid, van het Besluit activiteiten leefomgeving over de periode van 1 juli 2024 tot en met 31 december 2024. In dat geval wordt in de artikelen 18.11, tweede lid, onder c en d, en 18.15, eerste lid, onder a, van dat besluit in plaats van «1 januari van het kalenderjaar, bedoeld in artikel 18.15, eerste lid,» gelezen «1 juli van het kalenderjaar, bedoeld in artikel 18.15, eerste lid,».
