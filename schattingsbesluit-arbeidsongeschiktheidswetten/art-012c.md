@@ -1,0 +1,2 @@
+# Artikel 12c. Overgangsrecht in verband met tijdelijke regels over het beoordelen van arbeidsongeschiktheid bij feitelijke arbeid
+Op de betrokkene van wie de mate van arbeidsongeschiktheid is vastgesteld met toepassing van artikel 9a, zoals dat luidde voorafgaand aan het tijdstip waarop dat artikel vervalt, blijft dat artikel van toepassing tot de eerste gelegenheid van beoordeling van de mate van arbeidsongeschiktheid die betrekking heeft op een datum gelegen na het tijdstip waarop dat artikel vervalt, ter zake waarvan een beschikking wordt afgegeven.
