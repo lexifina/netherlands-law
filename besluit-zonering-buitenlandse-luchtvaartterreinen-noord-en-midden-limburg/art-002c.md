@@ -1,2 +1,0 @@
-# Artikel 2c
-Bij het voorbereiden van de vaststelling of herziening van een omgevingsplan als bedoeld in artikel 2a, eerste lid, wordt vanwege burgemeester en wethouders een akoestisch onderzoek ingesteld naar de geluidsbelasting, die door de uitwendige scheidingsconstructie van geluidgevoelige gebouwen en door geluidgevoelige terreinen binnen de zone vanwege het luchtvaartterrein zou worden ondervonden.

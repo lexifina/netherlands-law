@@ -1,4 +1,0 @@
-# Artikel 13c
-1. De eigenaar of bewoner die het formulier, bedoeld in artikel 13, tweede lid, niet binnen de termijn van zes weken heeft teruggezonden wordt geacht geen toestemming te hebben verleend tot het uitvoeren van het akoestisch en bouwtechnisch onderzoek.
-2. De eigenaar of bewoner die het formulier, bedoeld in artikel 13b, tweede lid, niet binnen de termijn van zes weken heeft teruggezonden wordt geacht geen toestemming te hebben verleend tot het aanbrengen van de in artikel 13, vierde lid, onder b, bedoelde geluidwerende voorzieningen.
-3. Een woning die geen deel heeft uitgemaakt van een akoestisch en bouwtechnisch onderzoek vanwege de weigering van de eigenaar of bewoner onderscheidenlijk waaraan om dezelfde reden geen geluidwerende voorzieningen zijn aangebracht komt op grond van dit besluit niet langer in aanmerking voor het aanbrengen van geluidwerende voorzieningen.

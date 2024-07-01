@@ -1,3 +1,0 @@
-# Artikel 13a
-1. In gevallen waarin voor het handhaven van de bestemming de vaststelling van een hogere waarde voor de ten hoogste toelaatbare geluidsbelasting als bedoeld in artikel 4, tweede lid, en artikel 5, tweede lid, alsmede de vaststelling van een waarde als bedoeld in artikel 7, eerste lid, noodzakelijk is, verzoeken burgemeester en wethouders van Roermond, gehoord de burgemeester en wethouders van de betrokken gemeente, gedeputeerde staten om met inachtneming van de uitkomsten van het akoestisch en bouwtechnisch onderzoek te beslissen omtrent de vaststelling van vorenbedoelde hogere waarde, onderscheidenlijk waarde.
-2. Gedeputeerde staten beslissen uiterlijk binnen zes weken na ontvangst van het verzoek.
