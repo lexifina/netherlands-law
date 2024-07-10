@@ -1,0 +1,3 @@
+# Artikel III
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+2. In afwijking van het vorige lid treedt het in artikel I, onderdeel O, opgenomen artikel 26d van de Wet aansprakelijkheidsverzekering motorrijtuigen in werking met ingang van 23 juni 2023. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 22 juni 2023, treedt het in artikel I, onderdeel O, opgenomen artikel 26d van de Wet aansprakelijkheidsverzekering motorrijtuigen in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, en werkt dit artikel terug tot en met 23 juni 2023.
