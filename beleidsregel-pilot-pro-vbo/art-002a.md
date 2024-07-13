@@ -1,0 +1,3 @@
+# Artikel 2a. Pilotklassen
+1. De minister wijst op aanvraag ten hoogste dertig nieuwe combinaties van pro- en vbo-scholen aan die in de schooljaren 2021–2022, 2022–2023 en 2023–2024 mogen starten met een gemengde onderbouwklas in het pro en vbo. Elke scholencombinatie bestaat uit één pro-school en ten minste één school voor vbo.
+2. Een combinatie van één pro-school en één of meerdere vbo-scholen die op grond van deze beleidsregel voor een eerder schooljaar is aangewezen om deel te nemen aan de pilot, mag in de schooljaren 2021–2022 tot en met 2025–2026 opnieuw een gemengde onderbouwklas in het pro en vbo starten zonder opnieuw een aanvraag in te dienen.
