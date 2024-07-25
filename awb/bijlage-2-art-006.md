@@ -7,6 +7,7 @@ Garantiewet Surinaamse pensioenen
 Wet ambtenaren defensie
 de reglementen van de Stichting Maror-gelden Overheid, de Stichting Joods Humanitair Fonds, de Stichting Rechtsherstel Sinti en Roma en de Stichting Het Gebaar
 Samenloopregeling Indonesische pensioenen 1960
+Tijdelijke wet inframarginale elektriciteitsheffing: paragraaf 4.2
 Toeslagregeling pensioenen Suriname en Nederlandse Antillen
 Toeslagwet Indonesische pensioenen 1956
 Uitkeringswet gewezen militairen
