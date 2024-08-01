@@ -54,7 +54,7 @@
 ### Titel 4. Examens, onderwijsprogramma en studentenstatuut
 #### § 1. Beroepsopleidingen en opleidingen educatie, met uitzondering van opleidingen voortgezet algemeen volwassenenonderwijs en opleidingen Nederlands als tweede taal I en II
 #### § 2. Opleidingen voortgezet algemeen volwassenenonderwijs en opleidingen Nederlands als tweede taal I en II
-### Titel 5. Rechtsbescherming van studenten, vavo-studenten, extraneï en deelnemers
+### Titel 5. Rechtsbescherming van studenten, vavo-studenten en extranei
 #### Paragraaf 1. Toegankelijke faciliteit; klachten
 #### Paragraaf 2. Commissie van beroep voor de examens; geschillenadviescommissie
 #### Paragraaf 3. Beroep op de Afdeling bestuursrechtspraak van de Raad van State
@@ -82,6 +82,7 @@
 ## Hoofdstuk 12. Overgangs-, invoerings- en slotbepalingen
 ### Titel 1. Overgangsbepalingen experiment leergang vm2
 ### Titel 1a. Overgangsrecht wijziging van onder andere de Wet op het voortgezet onderwijs in verband met de afschaffing van de rekentoets in het voortgezet onderwijs (afschaffing rekentoets vo) (Stb. 2020, 233)
+### Titel 1b. Overgangsrecht rijksbijdrage 2025
 ### Titel 2. Voorzieningen voor onbepaalde tijd
 ### Titel 3. Invoering van de wet
 ### Titel 4. Bepalingen met betrekking tot passend onderwijs

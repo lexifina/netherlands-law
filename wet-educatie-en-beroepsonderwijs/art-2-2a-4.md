@@ -1,5 +1,5 @@
 # Artikel 2.2a.4. Bekendmaking, verstrekking en betaling rijksbijdrage voortgezet algemeen volwassenenonderwijs
-1. Onze Minister maakt aan elke instelling jaarlijks in september bekend welke rijksbijdrage voor het daarop volgende jaar wordt verstrekt. Hij deelt daarbij mee op welke wijze de rijksbijdrage is berekend en vermeldt daarbij afzonderlijk het bedrag voor gehandicapte vavo-studenten.
+1. Onze Minister maakt aan elke instelling jaarlijks in september bekend welke rijksbijdrage voor het daarop volgende jaar wordt verstrekt. Hij deelt daarbij mee op welke wijze de rijksbijdrage is berekend en vermeldt daarbij afzonderlijk het bedrag voor vavo-studenten met een handicap of chronische ziekte.
 2. De rijksbijdrage wordt betaald volgens een door Onze Minister te bepalen kasritme.
 3. Zolang de rijksbijdrage niet is vastgesteld of nader vastgesteld, wordt daarop door Onze Minister een voorschot betaald. Het tweede lid is van overeenkomstige toepassing.
 4. Bij of krachtens algemene maatregel van bestuur worden nadere voorschriften gegeven met betrekking tot de uitvoering van deze titel. Deze voorschriften hebben in elk geval betrekking op aard, inrichting en wijze van verstrekking van gegevens met betrekking tot de vavo-studenten.
