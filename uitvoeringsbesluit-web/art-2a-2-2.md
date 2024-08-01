@@ -1,0 +1,3 @@
+# Artikel 2a.2.2. Aangepaste berekening bij fusie van instellingen en splitsing van werkzaamheden
+1. In geval van fusie van instellingen betrekt Onze Minister bij de toepassing van paragraaf 2 de gegevens van de instellingen die in de gefuseerde instelling zijn opgegaan en berekent de bijdrage voor de gefuseerde instelling op basis van die gegevens.
+2. In geval van splitsing van instellingen betrekt Onze Minister bij de toepassing van paragraaf 2 de afspraken omtrent de toerekening van de gegevens aan elk van de instellingen die daarover door de betrokken bevoegde gezagsorganen zijn gemaakt, blijkend uit een door die bevoegde gezagsorganen aan Onze Minister overgelegde en ondertekende verklaring dienaangaande.
