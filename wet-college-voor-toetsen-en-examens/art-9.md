@@ -1,0 +1,2 @@
+# Artikel 9*
+Zolang een of meer van de in artikel 2, zesde lid, genoemde artikelen van de Wet op het primair onderwijs en de Wet op de expertisecentra niet in werking is of zijn getreden, hebben de in het zesde lid beschreven taken van het college en het werkprogramma, bedoeld in artikel 8, tweede lid, uitsluitend betrekking op de toetsen, bedoeld in de reeds in werking getreden artikelen van de Wet op het primair onderwijs en de Wet op de expertisecentra.
