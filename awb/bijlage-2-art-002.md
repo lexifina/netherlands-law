@@ -68,9 +68,7 @@ e. artikel 61, voor zover het besluit betrekking heeft op de handhaving van het 
 d. artikel 156, eerste lid
 Wet aanvullende regels veiligheid wegtunnels: artikel 8, eerste lid, voor zover het een vergunning betreft voor een tunnel die deel uitmaakt van een projectbesluit als bedoeld in afdeling 5.2 van de Omgevingswet
 Wet bescherming Antarctica
-Wet educatie en beroepsonderwijs:
-a. de artikelen 1.4.1, 1.4a.1, 1.6.1, 2.1.1, eerste lid, 2.1.2, eerste lid, onderdeel b, 2.1.3, tweede lid, 2.2.3, eerste en derde lid, en 2.5.9
-b. de artikelen 6.1.3 tot en met 6.1.6, 6.2.1 tot en met 6.2.3, 6.2.3b, 6.3.1 tot en met 6.3.3, 6.4.4, 6a.1.2, 6a.1.3, 7.5.9, eerste lid, en 11.1
+Wet educatie en beroepsonderwijs: de artikelen 1.4.1, 1.4a.1, 1.6.1, 2.1.2, eerste lid, onderdeel b, 2.1.3, tweede lid, 2.2.3, eerste en vierde lid, 2.5.9, 6.1.4, 6.1.5, 6.1.5a, 6.1.5b, 6.2.2, 6.2.3, 6.2.3b, 6.3.2, 6.3.3, 6.4.4, 6a.1.2, 6a.1.3 en 11.1
 Wet financiering sociale verzekeringen: artikel 91
 Wet gemeenschappelijke regelingen:
 a. artikel 25, achtste lid
@@ -93,13 +91,13 @@ c. artikel 17.15, tweede lid, indien overeenkomstige toepassing is gegeven aan a
 Wet Naleving Europese regelgeving publieke entiteiten: de artikelen 2, eerste lid, 3 en 5
 Wet op de expertisecentra:
 a. titel IV: de afdelingen 2 en 7, een goedkeuring van rechtswege daaronder begrepen
-b. de artikelen 118 en 168
+b. de artikelen 118 en 169
 Wet op het financieel toezicht: de artikelen 6:1 en 6:2
-Wet op het hoger onderwijs en wetenschappelijk onderzoek: de artikelen 2.9, derde lid, 5.8, eerste lid, 5.9, eerste en tweede lid, 5.16, eerste en derde lid, 5.17, 5.18, 5.19, eerste, tweede en derde lid, 5.20, eerste lid, 5.26, eerste lid, 5.27, eerste en tweede lid, 5.29, eerste lid, 6.5, 7.64, eerste lid, en 15.1, eerste lid
+Wet op het hoger onderwijs en wetenschappelijk onderzoek: de artikelen 2.9, derde lid, 5.8, eerste lid, 5.9, eerste en tweede lid, 5.16, eerste en derde lid, 5.17, 5.18, 5.19, eerste, tweede en derde lid, 5.20, eerste lid, 5.26, eerste lid, 5.27, eerste en tweede lid, 5.29, eerste lid, 6.5, 6.10, 7.64, eerste lid, en 15.1, eerste lid
 Wet op het primair onderwijs:
 a. artikel 22, vijfde lid
 b. titel IV: de afdelingen 2 en 8, een goedkeuring van rechtswege daaronder begrepen
-c. de artikelen 120 en 189
+c. de artikelen 120 en 190
 d. artikel 193, tweede lid, tweede volzin, voor zover het betreft een besluit op grond van bepalingen die bij de algemene maatregel van bestuur ingevolge artikel 193, tweede lid, tweede volzin, van overeenkomstige toepassing zijn verklaard, alsmede een besluit op grond van bepalingen van de algemene maatregel van bestuur die daarmee overeenkomen
 Wet structuur uitvoeringsorganisatie werk en inkomen: artikel 9, vijfde lid
 Wet tijdelijke tolheffing Blankenburgverbinding en ViA15: artikel 2, eerste lid

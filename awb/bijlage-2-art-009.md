@@ -7,9 +7,6 @@ c. een besluit over een gehandicaptenparkeerplaats voor een bepaald voertuig
 Algemene Kinderbijslagwet
 Algemene nabestaandenwet
 Algemene Ouderdomswet
-Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair onderwijs, voor zover het betreft een besluit van Onze Minister van Onderwijs, Cultuur en Wetenschap
-Besluit Werkloosheid onderwijs- en onderzoekpersoneel, voor zover het betreft een besluit van Onze Minister van Onderwijs, Cultuur en Wetenschap
-Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair onderwijs, voor zover het betreft een besluit van Onze Minister van Onderwijs, Cultuur en Wetenschap
 Burgerlijk Wetboek: Boek 7, artikel 673e
 Kaderwet SZW-subsidies, voor zover het betreft een algemene maatregel van bestuur of een ministeriële regeling op grond van artikel 9
 Liquidatiewet Ongevallenwetten,met uitzondering van artikel 24, eerste lid
