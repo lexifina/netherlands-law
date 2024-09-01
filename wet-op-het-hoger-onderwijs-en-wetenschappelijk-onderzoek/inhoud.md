@@ -45,7 +45,7 @@
 #### Paragraaf 1. Aanmelding, studiekeuzeactiviteiten en studiekeuzeadvies
 #### Paragraaf 1a. Inschrijving
 #### Paragraaf 2. Eigen bijdragen
-#### Paragraaf 2a. Profileringsfonds
+#### Paragraaf 2a. Studentenondersteuningsfonds
 #### Paragraaf 2b. Financiële ondersteuning door Onze Minister
 #### Paragraaf 3. Gebruik van persoonsgebonden nummer
 #### Paragraaf 4. Bijzondere bepalingen inschrijving
@@ -139,5 +139,5 @@
 ### Titel 17. Wet accreditatie op maat
 ### Titel 19. Variawet hoger onderwijs
 ### Titel 20. Wet van [datum] (Stb. ...)
-### Titel 21. Wet van (datum) (Stb. ...) [3 juni 2023 (Stb. 2023/192)]
+### Titel 21. Wet van 3 juni 2023 (Stb. 2023, 192)
 ## Hoofdstuk 19. Slotbepalingen
