@@ -113,7 +113,6 @@ b. de artikelen 1:75, eerste en tweede lid, en 1:76, eerste en derde lid
 c. de afdelingen 3A.1.3, 3A.1.4, 3A.1.5, 3A.2.3 en 3A.2.4 voor zover het betreft een weigering om een besluit te nemen of het niet tijdig nemen van een besluit
 d. artikel 3A:127
 e. de artikelen 6:1 en 6:2, voor zover het betreft een weigering om een besluit te nemen of het niet tijdig nemen van een besluit
-Wet op het hoger onderwijs en wetenschappelijk onderzoek: artikel 7.61
 Wet op het primair onderwijs: artikel 128, vierde lid, zolang de gemeenteraad de aanvulling nog niet heeft bekrachtigd
 Wet publieke gezondheid: de artikelen 31 en 35
 Wet rechtspositie rechterlijke ambtenaren:
