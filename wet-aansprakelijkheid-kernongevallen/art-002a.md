@@ -1,0 +1,2 @@
+# Artikel 2a
+Indien de exploitant van een in Nederland gelegen kerninstallatie aantoont dat de door een kernongeval veroorzaakte schade geheel of gedeeltelijk het gevolg is van hetzij grove nalatigheid van de persoon die de schade lijdt, hetzij een handelen of nalaten van die persoon met het opzet schade te veroorzaken, kan de bevoegde rechter de exploitant geheel of gedeeltelijk ontslaan van de verplichting schadevergoeding te betalen ter zake van de door die persoon geleden schade.

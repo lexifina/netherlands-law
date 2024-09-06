@@ -1,0 +1,2 @@
+# Artikel 17a
+De exploitant van een in Nederland gelegen kerninstallatie die nucleaire stoffen laat vervoeren naar of van een exploitant op het grondgebied van een Staat, partij bij het Gezamenlijk Protocol, doch geen partij bij het Verdrag van Parijs, is aansprakelijk voor schade tijdens dat vervoer, indien op dat vervoer het Verdrag van Brussel van toepassing zou zijn geweest in het geval de betrokken Staat geen partij was bij het Gezamenlijk Protocol.
