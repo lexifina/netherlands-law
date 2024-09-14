@@ -16,13 +16,14 @@ i. [vervallen;]
 j. de wijze van vastleggen van studievorderingen van studenten en vavo-studenten en in dat verband het beleid met betrekking tot bescherming van de privacy van studenten en vavo-studenten;
 k. de regels op het gebied van veiligheid, gezondheid en welzijn voor zover deze de studenten en vavo-studenten betreffen;
 l. het reglement voor de studentenraad, met inachtneming van artikel 8a.3.1, derde lid;
-m. het onderwijsprogramma indien dit minder uren als bedoeld in artikel 7.2.7, derde of vierde lid, omvat.
+m. het onderwijsprogramma indien dit minder uren als bedoeld in artikel 7.2.7, derde of vierde lid, omvat;
 n. [vervallen;]
 o. het beleid bij de toepassing van artikel 8.1.5;
-p. het vaststellen of wijzigen van een examenreglement voor een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in artikel 2.60 van de Wet op het voortgezet onderwijs 2020;
-q. het vaststellen of wijzigen van een programma van toetsing en afsluiting voor een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in de artikelen 2.60a tot en met 2.60c van de Wet op het voortgezet onderwijs 2020.
+p. het vaststellen of wijzigen van een examenreglement voor een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in artikel 2.60 van de Wet voortgezet onderwijs 2020;
+q. het vaststellen of wijzigen van een programma van toetsing en afsluiting voor een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in de artikelen 2.60a tot en met 2.60c van de Wet voortgezet onderwijs 2020;
+r. de vaststelling van de schoolgids, bedoeld in artikel 2.92 van de Wet voortgezet onderwijs 2020, voor een school die deel uitmaakt van een verticale scholengemeenschap.
 4. De studentenraad heeft adviesbevoegdheid met betrekking tot voorgenomen beslissingen van het bevoegd gezag ten aanzien van:
-a. inkrimping, uitbreiding, fusie en overdracht van de instelling, beëindiging van opleidingen en samenwerking met andere instellingen bij de uitvoering van opleidingen;
+a. inkrimping, uitbreiding, fusie en overdracht van de instelling, beëindiging van opleidingen, samenwerking met andere instellingen bij de uitvoering van opleidingen en vorming, wijziging of beëindiging van een verticale scholengemeenschap;
 b. verandering van de grondslag van de instelling;
 c. werkomstandigheden en voorzieningen voor studenten en vavo-studenten binnen de instelling;
 d. het beleid met betrekking tot intake- en assessmentprocedures;

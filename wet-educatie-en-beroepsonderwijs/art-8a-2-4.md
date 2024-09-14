@@ -2,7 +2,7 @@
 1. Een ouderraad van een verticale scholengemeenschap heeft instemmingsbevoegdheid met betrekking tot voorgenomen beslissingen van het bevoegd gezag ten aanzien van:
 a. de vaststelling van de schoolgids voor een school;
 b. de vaststelling of wijziging van de hoogte en de vaststelling of wijziging van de bestemming van de middelen die van de ouders wordt gevraagd zonder dat daartoe een wettelijke verplichting bestaat dan wel zijn ontvangen op grond van een overeenkomst die door de ouders is aangegaan;
-c. de vaststelling of wijziging van het beleid met betrekking tot het beheersbaar houden van de middelen die van de ouders worden gevraagd voor schoolkosten, met uitzondering van lesmateriaal als bedoeld in artikel 6 e, tweede lid, van de Wet op het voortgezet onderwijs, die door het bevoegd gezag noodzakelijk worden bevonden;
+c. de vaststelling of wijziging van het beleid met betrekking tot het beheersbaar houden van de middelen die van de ouders worden gevraagd voor schoolkosten, met uitzondering van lesmateriaal als bedoeld in artikel 2.110 van de Wet voortgezet onderwijs 2020, die door het bevoegd gezag noodzakelijk worden bevonden;
 d. vaststelling of wijziging van een regeling over het verwerken van en de bescherming van persoonsgegevens van ouders;
 e. vaststelling of wijziging van het beleid ten aanzien van de uitwisseling van informatie tussen het bevoegd gezag en ouders.
 2. De ouderraad van een verticale scholengemeenschap heeft adviesbevoegdheid met betrekking tot voorgenomen beslissingen van het bevoegd gezag ten aanzien van:
