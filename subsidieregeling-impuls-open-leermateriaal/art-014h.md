@@ -1,0 +1,4 @@
+# Artikel 14h. Subsidievaststelling, betaling en verantwoording
+1. Ten aanzien van de subsidievaststelling, de betaling of bevoorschotting van de subsidie en de verantwoording van de subsidie zijn de artikelen 12 tot en met 14 van overeenkomstige toepassing.
+2. In afwijking van artikel 12, eerste lid, wordt de subsidie aan een bevoegd gezag verleend binnen 22 weken na de sluiting van de in artikel 14c, eerste lid, bedoelde aanvraagperiode. De minister beslist ambtshalve over de vaststelling van de subsidie binnen 22 weken na het moment van indiening van de jaarverslaggeving over het laatste jaar van de activiteitenperiode.
+3. In afwijking van artikel 12, derde lid, toont de ontvanger van een subsidie als bedoeld in artikel 14a, tweede lid, aan de hand van een activiteitenverslag aan dat de activiteiten waarvoor de subsidie is verleend, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
