@@ -1,0 +1,2 @@
+# Artikel 7c
+Elk van de afdelingshoofden is bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van de afdeling, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal of de directeur Dienstverlening, Samenwerkingsverbanden en Uitvoering.
