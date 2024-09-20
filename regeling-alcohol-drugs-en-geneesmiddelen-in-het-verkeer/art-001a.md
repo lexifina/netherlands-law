@@ -1,0 +1,2 @@
+# Artikel 1a
+Als ambtenaren als bedoeld in artikel 163, vijfde en zevende lid, van de Wegenverkeerswet 1994, artikel 28a, zesde, negende en tiende lid, van de Scheepvaartverkeerswet, artikel 89, vijfde, achtste en negende lid, van de Spoorwegwet, artikel 48, vijfde, achtste en negende lid, van de Wet lokaal spoor en artikel 11.6, vijfde, achtste en negende lid, van de Wet luchtvaart worden aangewezen de ambtenaren van politie die in schaal 8 of hoger zijn benoemd.
