@@ -1,0 +1,12 @@
+# Article XI. Final provisions
+Section 1. Signature and acceptance
+(a) This Agreement shall be deposited with the Bank, where it shall remain open for signature by the representatives of the countries listed in Annex A until December 31, 1985 or such later date as shall be established by the Board of Executive Directors of the Corporation. In case this Agreement shall not have entered into force, a later date may be determined by the representatives of the signatory countries of the Final Act of the Negotiations on the Creation of the Inter-American Investment Corporation. Each signatory of this Agreement shall deposit with the Bank an instrument setting forth that it has accepted or ratified this Agreement in accordance with its own laws and has taken the steps necessary to enable it to fulfill all of its obligations under this Agreement.
+(b) The Bank shall send certified copies of this Agreement to its members and duly notify them of each signature and deposit of the instrument of acceptance or ratification made pursuant to the foregoing paragraph, as well as the date thereof.
+(c) On or after the date on which the Corporation commences operations, the Bank may receive the signature and the instrument of acceptance or ratification of this Agreement from any country whose membership has been approved in accordance with Article II, Section 1(b).
+Section 2. Entry into force
+(a) This Agreement shall enter into force when it has been signed and instruments of acceptance or ratification have been deposited, in accordance with Section 1 of this Article, by representatives of countries whose subscriptions comprise not less than two-thirds of the total subscriptions set forth in Annex A, which shall include:
+(i) the subscription of the member country with the largest number of shares, and
+(ii) subscriptions of regional developing member countries with a total of shares greater than all other subscriptions.
+(b) Countries whose instruments of acceptance or ratification were deposited prior to the date on which the agreement entered into force shall become members on that date. Other countries shall become members on the dates on which their instruments of acceptance or ratification are deposited.
+Section 3. Commencement of operations
+As soon as this Agreement enters into force under Section 2 of this Article, the President of the Bank shall call a meeting of the Board of Governors. The Corporation shall begin operations on the date when such meeting is held.

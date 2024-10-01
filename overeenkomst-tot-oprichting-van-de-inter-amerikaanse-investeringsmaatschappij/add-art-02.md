@@ -1,0 +1,31 @@
+# Article II. Members and capital
+Section 1. Members
+(a) The founding members of the Corporation shall be those member countries of the Bank that have signed this Agreement by the date specified in Article XI, Section l(a) and made the initial payment required in Section 3(b) of this Article.
+(b) The other member countries of the Bank may accede to this Agreement on such date and in accordance with such conditions as the Board of Governors of the Corporation may determine by a majority representing at least two-thirds of the votes of the members, which shall include two-thirds of the Governors.
+(c) The word "members" as used in this Agreement shall refer only to member countries of the Bank which are members of the Corporation.
+Section 2. Resources
+(a) The initial authorized capital stock of the Corporation shall be two hundred million dollars of the United States of America (US$200,000,000).
+(b) The authorized capital stock shall be divided into twenty thousand (20,000) shares having a par value of ten thousand dollars of the United States of America (US$10,000) each. Any shares not initially subscribed by the founding members in accordance with Section 3(a) of this Article shall be available for subsequent subscription in accordance with Section 3(d) hereof.
+(c) The Board of Governors may increase the authorized capital stock as follows:
+(i) by two-thirds of the votes of the members, when such increase is necessary for the purpose of issuing shares, at the time of initial subscription, to members of the Bank other than founding members, provided that the aggregate of any increases authorized pursuant to this subparagraph does not exceed 2,000 shares;
+(ii) in any other case, by a majority representing at least three-fourths of the votes of the members, which shall include two-thirds of the Governors.
+(d) In edition to the authorized capital referred to above, the Board of Governors may, after the date in which the initial authorized capital has been fully paid in, authorize the issue of callable capital and establish the terms and conditions for the subscription thereof, as follows:
+(i) Such decision shall be approved by a majority representing at least three-fourths of the votes of the members which shall include two-thirds of the Governors; and
+(ii) the callable capital shall be divided into shares with a par value of ten thousand dollars of the United States of America (US$ 10,000) each.
+(e) The callable capital shares shall be subject to call only when required to meet the obligations of the Corporation created under Article III, Section 7(a). In the event of such a call, payment may be made at the option of the member in United States dollars, or in the currency required to discharge the obligations of the Corporation for the purpose for which the call is made. Calls on the shares shall be uniform and proportionate for all shares. Obligations of the members to make payments on any such calls are independent of each other and failure of one or more members to make payments on any such calls shall not exuse any other member from its obligation to make payment. Successive calls may be made if necessary to meet the obligations of the Corporation.
+(f) The other resources of the Corporation shall consist of:
+(i) amounts accruing by way of dividends, commissions, interest, and other funds derived from the investments of the Corporation;
+(ii) amounts received upon the sale of investments or the repayment of loans;
+(iii) amounts raised by the Corporation by means of borrowings; and
+(iv) other contributions and funds entrusted to its administration.
+Section 3. Subscriptions
+(a) Each founding member shall subscribe the number of shares specified in Annex A.
+(b) The payment for capital stock, set forth in Annex A, by each founding member shall be made in four annual, equal and consecutive installments each of twenty-five percent of such amount. The first installment shall be paid by each member in full within three months after the date on which the Corporation begins operation pursuant to Article XI, Section 3 below, or the date on which such founding member accedes to this Agreement, or by such date or dates thereafter as the Board of Executive Directors of the Corporation specifies. The remaining three installments shall be paid on such dates as are determined by the Board of Executive Directors of the Corporation but not earlier than December 31, 1985, December 31, 1986, and December 31, 1987, respectively. The payment of each of the last three installments of capital subscribed by each of the member countries shall be subject to fulfillment of such legal requirements as may be appropriate in the respective countries. Payment shall be made in United States dollars. The Corporation shall specify the place or places of payment.
+(c) Shares initially subscribed by the founding members shall be issued at par.
+(d) The conditions governing the subscription of shares to be issued after the initial share subscription by the founding members which shall not have been subscribed under Article II, Section 2(b), as well as the dates of payment thereof, shall be determined by the Board of Executive Directors of the Corporation.
+Section 4. Restriction on transfers and pledge of shares
+Shares of the Corporation may not be pledged, encumbered or transferred in any manner whatever except to the Corporation, unless the Board of Governors of the Corporation approves a transfer between members by a majority of the Governors representing four-fifths of the votes of the members.
+Section 5. Preferential subscription right
+In case of an increase in capital, in accordance with Section 2(c) and (d) of this Article, each member shall be entitled, subject to such terms as may be established by the Corporation, to a percentage of the increased shares equivalent to the proportion which its shares heretofore subscribed bears to the total capital of the Corporation. However, no member shall be obligated to subscribe to any part of the increased capital.
+Section 6. Limitation on liability
+The liability of members on the shares subscribed by them shall be limited to the unpaid portion of their price at issuance. No member shall be liable, by reason of its membership, for obligations of the Corporation.
