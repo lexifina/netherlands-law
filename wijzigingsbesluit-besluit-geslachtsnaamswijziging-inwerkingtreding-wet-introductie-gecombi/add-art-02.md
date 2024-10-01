@@ -1,0 +1,2 @@
+# Artikel II
+In afwijking van artikel 5, tweede lid, van het Besluit geslachtsnaamswijziging wordt een verzoek als bedoeld in artikel 5, eerste lid, onder a, van dat besluit tot wijziging van zijn geslachtsnaam in een gecombineerde geslachtsnaam ingediend door een meerderjarige die in de periode van 1 januari 2024 tot 1 oktober 2024 de leeftijd van 21 jaar heeft bereikt, ingewilligd als het is ingediend voor 1 juli 2025.
