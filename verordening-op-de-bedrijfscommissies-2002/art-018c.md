@@ -1,6 +1,0 @@
-# Artikel 18c
-1. Een geschil als bedoeld in artikel 18a wordt schriftelijk aanhangig gemaakt. Onder schriftelijk wordt mede verstaan een langs elektronische weg toegezonden en reproduceerbaar bericht.
-2. De scholingskamer stelt de wederpartij in de gelegenheid zijn standpunt ten aanzien van het voorgelegde geschil kenbaar te maken.
-3. De scholingskamer brengt binnen drie weken na de indiening van het geschil schriftelijk haar verslag van bevindingen uit waarin opgenomen haar oordeel omtrent de beslechting van het geschil.
-4. In afwijking van het derde lid belegt de scholingskamer, indien zij van oordeel is dat voor de behandeling van het voorgelegde geschil een zitting nodig is in aanwezigheid van partijen, zo spoedig mogelijk doch niet later dan vier weken na indiening van het geschil een zitting, waartoe partijen worden uitgenodigd. Binnen twee weken na de zitting brengt de scholingskamer schriftelijk haar verslag van bevindingen uit waarin opgenomen haar oordeel omtrent de beslechting van het geschil.
-5. Met instemming van beide partijen kan de termijn voor het uitbrengen van het schriftelijke verslag van bevindingen als bedoeld in het derde en het vierde lid met maximaal drie weken worden verlengd.
