@@ -1,0 +1,3 @@
+# Artikel 6e
+1. De vergoeding voor het verzorgen van de opleiding tot MMP, alsmede bijscholing ten behoeve van het beroep aan registerloodsen door de daarvoor aangewezen registerloodsen wordt, bij minder dan acht effectieve lesuren per dag, naar evenredigheid verlaagd.
+2. Het aantal te vergoeden opleidingsdagen voor het verzorgen van opleidingen wordt door de algemene raad bepaald op basis van goedgekeurde opleidingsplannen, waaronder begrepen bijscholingsplannen aangaande of in het belang van het beroep van registerloods, van het betreffende jaar of op basis van een door de algemene raad vast te stellen forfaitaire basis.
