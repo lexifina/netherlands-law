@@ -1,0 +1,4 @@
+# Regel 23bis. Kennisgevingen van de Administraties van aangewezen overeenkomstsluitende Partijen die via het Internationale Bureau worden verzonden
+1. [Kennisgevingen die niet onder dit Reglement van uitvoering vallen] De Administratie van een aangewezen overeenkomstsluitende Partij kan het Internationale Bureau verzoeken kennisgevingen betreffende een internationale inschrijving namens haar aan de rechthebbende te doen toekomen.
+2. [Formaat van de kennisgeving] Het Internationale Bureau stelt het formaat vast waarin de in het eerste lid bedoelde kennisgeving door de Administratie wordt toegezonden.
+3. [Toezending aan de rechthebbende] Het Internationale Bureau zendt de in het eerste lid bedoelde kennisgeving in het door het Internationale Bureau vastgestelde formaat toe aan de rechthebbende zonder de inhoud ervan te onderzoeken of deze in het internationale register op te nemen.

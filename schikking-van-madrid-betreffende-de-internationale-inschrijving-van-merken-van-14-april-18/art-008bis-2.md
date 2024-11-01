@@ -1,0 +1,2 @@
+# Artikel 8bis
+De rechthebbende op de internationale inschrijving kan steeds afstand doen van de bescherming in een of meer der overeenkomstsluitende landen, door middel van een verklaring, afgegeven aan de Administratie van zijn land, ter mededeling aan het Internationale Bureau, dat hiervan kennis zal geven aan de landen, waarop deze afstand betrekking heeft. Deze afstand is niet aan enige taks onderworpen.

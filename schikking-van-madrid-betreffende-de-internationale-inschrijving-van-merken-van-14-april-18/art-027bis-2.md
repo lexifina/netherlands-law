@@ -1,0 +1,22 @@
+# Regel 27bis. Splitsing van een internationale inschrijving
+1. [Verzoek tot splitsing van een internationale inschrijving]
+a. Een verzoek tot splitsing van een internationale inschrijving door een rechthebbende ten aanzien van slechts een deel van de waren en diensten ten aanzien van een aangewezen overeenkomstsluitende Partij moet worden ingediend bij het Internationale Bureau op het officiële formulier dat daartoe is verstrekt door de Administratie van die aangewezen overeenkomstsluitende Partij, zodra deze zich ervan heeft vergewist dat de splitsing waarvoor inschrijving wordt aangevraagd, voldoet aan de vereisten van haar toepasselijke wetgeving, met inbegrip van die betreffende de taksen.
+b. In de aanvrage wordt vermeld:
+i. de overeenkomstsluitende Partij van de Administratie die de aanvrage indient,
+ii. de naam van de Administratie die de aanvrage indient,
+iii. het nummer van de internationale inschrijving,
+iv. de naam van de rechthebbende,
+v. de benamingen van de waren en diensten die moeten worden gescheiden, gegroepeerd overeenkomstig de desbetreffende klassen van de Internationale Classificatie van Waren en Diensten,
+vi. het bedrag van de betaalde taks en de wijze van betaling, of instructies om het vereiste bedrag van een bij het Internationale Bureau geopende rekening af te schrijven, en de identiteit van de persoon die de betaling verricht of de instructies geeft.
+c. De aanvrage wordt ondertekend door de Administratie die het verzoek indient en, indien dit een eis is van de Administratie, ook door de rechthebbende.
+d. Elk verzoek krachtens dit lid kan een overeenkomstig regel 18bis of 18ter verstuurde verklaring omvatten of vergezeld gaan van een dergelijke verklaring met betrekking tot de in het verzoek vermelde waren en diensten.
+2. [Taks] De splitsing van een internationale inschrijving geeft aanleiding tot betaling van de in punt 7.7 van het Reglement van taksen genoemde taks.
+3. [Onregelmatige aanvrage]
+Indien de aanvrage niet aan de vereisten van het eerste lid voldoet, verzoekt het Internationale Bureau de Administratie die de aanvrage heeft ingediend de onregelmatigheid te herstellen en stelt het tegelijkertijd de rechthebbende hiervan in kennis.
+b. Indien het bedrag van de ontvangen taks lager is dan het bedrag van de in tweede lid bedoelde taks, stelt het Internationale Bureau de rechthebbende hiervan in kennis en deelt het dit tegelijkertijd mee aan de Administratie die de aanvrage heeft ingediend.
+c. Indien de onregelmatigheid niet binnen drie maanden na de datum van de onder letter a of b bedoelde kennisgeving wordt opgeheven, wordt de aanvrage geacht te zijn geannuleerd, en stelt het Internationale Bureau de Administratie die de aanvrage heeft ingediend van dit feit in kennis, deelt het dit tegelijkertijd mee aan de rechthebbende en betaalt het de overeenkomstig het tweede lid betaalde taks terug, onder aftrek van een bedrag dat overeenkomt met de helft van die taks.
+4. [Inschrijving en kennisgeving]
+a. Indien de aanvrage aan de vereisten voldoet, legt het Internationale Bureau de splitsing vast, schrijft een afgesplitste internationale inschrijving in het internationale register in, stelt het de Administratie die de aanvrage heeft ingediend hiervan in kennis en stelt het tegelijkertijd de rechthebbende hiervan in kennis.
+b. De splitsing van een internationale inschrijving wordt ingeschreven tezamen met de datum van ontvangst van de aanvrage door het Internationale Bureau of, in voorkomend geval, de datum waarop de in derde lid bedoelde onregelmatigheid werd gerectificeerd.
+5. [Aanvrage niet als zodanig beschouwd] Een aanvrage om de splitsing van een internationale inschrijving met betrekking tot een aangewezen overeenkomstsluitende Partij die niet of niet langer is aangewezen voor de klassen van de Internationale Classificatie van Waren en Diensten die in de aanvrage worden genoemd, wordt niet als zodanig beschouwd.
+6. [Verklaring dat een overeenkomstsluitende Partij geen verzoek tot splitsing zal doen] Een overeenkomstsluitende Partij waarvan het recht niet voorziet in de splitsing van merkaanvragen of -inschrijvingen kan vóór de datum waarop deze regel in werking treedt of de datum waarop de genoemde overeenkomstsluitende Partij door het Protocol wordt gebonden, aan de Directeur-Generaal kennisgeving doen dat zij de in eerste lid bedoelde aanvrage niet bij het Internationale Bureau zal indienen. Deze verklaring kan te allen tijde worden ingetrokken
