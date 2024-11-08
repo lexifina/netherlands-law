@@ -58,6 +58,7 @@ c. een besluit terzake van het ingevolge artikel 5:76, tweede lid, of 5:80b, vij
 d. de artikelen 6:1 en 6:2
 Wet personenvervoer 2000: de artikelen 56, eerste lid, 59, eerste lid, 94, eerste lid, en 96, eerste lid
 Wet privatisering APB, voor zover het de overeenkomstige toepassing van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000 betreft op grond van artikel 21, vierde lid
+Wet publiek toezicht en handhaving verordening bevordering billijkheid en transparantie voor zakelijke gebruikers van onlinetussenhandelsdiensten
 Wet schadefonds olietankschepen
 Wet ter voorkoming van witwassen en financieren van terrorisme
 Wet toezicht accountantsorganisaties

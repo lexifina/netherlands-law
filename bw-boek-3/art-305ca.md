@@ -1,0 +1,2 @@
+# Artikel 305ca
+Op een rechtsvordering als bedoeld in artikel 14, eerste lid, van Verordening (EU) 2019/1150 van het Europees Parlement en de Raad van 20 juni 2019 ter bevordering van billijkheid en transparantie voor zakelijke gebruikers van onlinetussenhandelsdiensten (PbEU 2019, L 186), die strekt tot bescherming van gelijksoortige belangen van andere personen, is artikel 305a, lid 2, onderdelen c, d, aanhef en onder 7° en 8°, en e, lid 3, onderdelen b en c, en lid 4, van overeenkomstige toepassing.
