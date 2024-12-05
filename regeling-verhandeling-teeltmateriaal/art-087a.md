@@ -1,0 +1,3 @@
+# Artikel 87a
+1. Onverminderd de artikelen 86 en 87wordt teeltmateriaal van fruitgewassen dat bestaat uit een genetisch gemodificeerd organisme in de zin van de punten 1 en 2 van artikel 2 van richtlijn (EG) 2001/18 alleen in de handel gebracht indien het genetisch gemodificeerde organisme uit hoofde van die richtlijn is toegelaten.
+2. Teeltmateriaal van fruitgewassen waarvan afgeleide producten bestemd zijn om te worden gebruikt als levensmiddel of in levensmiddelen in de zin van artikel 3, of als diervoeder of in diervoeders in de zin van artikel 15 van verordening (EG) 1829/2003, wordt alleen in de handel gebracht indien de levensmiddelen of diervoeders uit hoofde van die verordening zijn toegelaten.
