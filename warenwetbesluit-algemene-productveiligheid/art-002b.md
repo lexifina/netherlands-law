@@ -1,9 +1,0 @@
-# Artikel 2b
-1. Voor de toepassing van de artikelen 21, 21a en 21b van de Warenwet wordt Onze Minister van Infrastructuur en Waterstaat aangewezen voor wat betreft:
-a. pleziervaartuigen als bedoeld in artikel 1 van de Wet pleziervaartuigen 2016;
-b. luchtvaartuigen als bedoeld in artikel 1.1, eerste lid, van de Wet luchtvaart, met uitzondering van de luchtvaartuigen, genoemd in artikel 1, derde lid, van het Besluit luchtvaartuigen.
-2. Voor de toepassing van de artikelen 21, 21a en 21b van de Warenwet wordt de Dienst Wegverkeer aangewezen voor wat betreft motorrijtuigen als bedoeld in artikel 1, eerste lid, onderdeel c, van de Wegenverkeerswet 1994, bestemd voor gebruik op voor het openbaar verkeer openstaande wegen of paden, aanhangwagens als bedoeld in artikel 1, onderdeel d, van die wet, onderdelen en uitrustingstukken van deze motorrijtuigen en aanhangwagens, alsmede voorzieningen ter bescherming van weggebruikers en passagiers, voor zover hieraan bij of krachtens de Wegenverkeerswet 1994 eisen worden gesteld.
-3. Voor de toepassing van de artikelen 21, 21a, 21b en 32a, van de Warenwet wordt Onze Minister van Economische Zaken en Klimaat aangewezen voor wat betreft eindapparaten als bedoeld in artikel 1, onderdeel a, van het Besluit eindapparaten en radioapparaten als bedoeld in artikel 1.1 van de Telecommunicatiewet.
-4. Met het toezicht op de naleving van het eerste lid, onderdelen a en b, en tweede lid, met betrekking tot de daar genoemde waren, zijn belast de bij besluit van Onze Minister van Infrastructuur en Waterstaat aangewezen ambtenaren.
-5. Met het toezicht op de naleving van het derde lid met betrekking tot de daar genoemde waren, zijn belast de bij besluit van Onze Minister van Economische Zaken en Klimaat aangewezen ambtenaren.
-6. Onze Minister stelt nadere regels voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens verordening (EG) nr. 765/2008 gestelde voorschriften.
