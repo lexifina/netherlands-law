@@ -1,0 +1,2 @@
+# Article XVI
+The English and French versions of the text of this Convention are equally authoritative.

@@ -1,0 +1,8 @@
+# Article V
+1. Each Member shall implement and enforce laws or regulations or other measures that it has adopted to fulfil its commitments under this Convention with respect to ships and seafarers under its jurisdiction.
+2. Each Member shall effectively exercise its jurisdiction and control over ships that fly its flag by establishing a system for ensuring compliance with the requirements of this Convention, including regular inspections, reporting, monitoring and legal proceedings under the applicable laws.
+3. Each Member shall ensure that ships that fly its flag carry a maritime labour certificate and a declaration of maritime labour compliance as required by this Convention.
+4. A ship to which this Convention applies may, in accordance with international law, be inspected by a Member other than the flag State, when the ship is in one of its ports, to determine whether the ship is in compliance with the requirements of this Convention.
+5. Each Member shall effectively exercise its jurisdiction and control over seafarer recruitment and placement services, if these are established in its territory.
+6. Each Member shall prohibit violations of the requirements of this Convention and shall, in accordance with international law, establish sanctions or require the adoption of corrective measures under its laws which are adequate to discourage such violations.
+7. Each Member shall implement its responsibilities under this Convention in such a way as to ensure that the ships that fly the flag of any State that has not ratified this Convention do not receive more favourable treatment than the ships that fly the flag of any State that has ratified it.

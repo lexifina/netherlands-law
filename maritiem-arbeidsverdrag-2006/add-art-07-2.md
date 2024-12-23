@@ -1,0 +1,2 @@
+# Artikel VII
+Ten aanzien van afwijkingen, uitzonderingen of andere flexibele toepassingen van dit Verdrag waarvoor het Verdrag overleg verlangt met organisaties van reders en zeevarenden mag, in de gevallen waarin binnen een Lid geen representatieve organisaties van reders of van zeevarenden bestaan, door dat Lid uitsluitend een besluit worden genomen door middel van overleg met het in artikel XIII bedoelde Comité.
