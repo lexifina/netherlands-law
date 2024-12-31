@@ -1,0 +1,2 @@
+# XII. On the assistance in the collection of taxes
+In the event that pursuant to an Agreement or Convention for the avoidance of Double Taxation concluded with another country after the date of the signature of this Convention, Andorra agrees to include an article similar to Article 27 of the OECD Model in such an Agreement or Convention, then the same provisions will apply to the assistance in the collection of Taxes between the Contracting States of this Convention.

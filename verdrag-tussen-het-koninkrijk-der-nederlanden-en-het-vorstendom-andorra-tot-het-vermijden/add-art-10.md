@@ -1,0 +1,2 @@
+# X. Ad Article 17
+In the case of annuities arising in the Netherlands, the term "annuity" means an annuity as mentioned in the Netherlands Income Tax Act 2001 ("Wet inkomstenbelasting 2001"), or any subsequent identical or substantially similar laws or regulations replacing this Act, the benefits of which are part of taxable income from employment and dwellings ("belastbaar inkomen uit werk en woning").

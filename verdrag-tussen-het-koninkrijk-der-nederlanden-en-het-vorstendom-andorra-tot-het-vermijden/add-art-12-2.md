@@ -1,0 +1,2 @@
+# XII. Inzake de bijstand bij de invordering van belastingen
+In het geval ingevolge een Overeenkomst of Verdrag tot het vermijden van dubbele belasting gesloten met een ander land na de datum van ondertekening van dit Verdrag, Andorra ermee instemt in een dergelijke overeenkomst of dergelijk verdrag een artikel op te nemen dat vergelijkbaar is met artikel 27 van het OESO-model, dan zullen dezelfde bepalingen van toepassing zijn op de bijstand bij de invordering van belastingen tussen de verdragsluitende staten van dit Verdrag.
