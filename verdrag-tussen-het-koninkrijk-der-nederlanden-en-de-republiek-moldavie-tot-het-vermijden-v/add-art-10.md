@@ -1,0 +1,2 @@
+# X. Ad Article 11
+Notwithstanding the provisions of paragraph 2 of Article 11 interest paid in respect of a contract of financing or of delay in payment relating to the sale on credit of any merchandise or industrial, commercial or scientific equipment or to the construction of industrial, commercial or scientific installations as well as of public works shall be taxable only in the Contracting State of which the beneficial owner thereof is a resident.

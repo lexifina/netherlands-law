@@ -1,0 +1,3 @@
+# III. Ad Artikel 4
+1. Een natuurlijke persoon die aan boord van een schip woont zonder een werkelijke woonplaats in een van de Verdragsluitende Staten te hebben, wordt geacht inwoner te zijn van de Verdragsluitende Staat waarin het schip zijn thuishaven heeft.
+2. Het is wel te verstaan dat een pensioenfonds, dat als zodanig is erkend in een Verdragsluitende Staat en waarvan het inkomen in het algemeen is vrijgesteld van belasting in die Staat, wordt beschouwd als inwoner van die Staat. Als een erkend pensioenfonds van een Verdragsluitende Staat wordt beschouwd elk pensioenfonds dat volgens wettelijke bepalingen van die Staat erkend is en onder toezicht staat.

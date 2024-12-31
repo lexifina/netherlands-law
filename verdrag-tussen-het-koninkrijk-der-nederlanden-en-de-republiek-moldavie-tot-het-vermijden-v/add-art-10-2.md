@@ -1,0 +1,2 @@
+# X. Ad Artikel 11
+Niettegenstaande de bepalingen van artikel 11, tweede lid, is interest die is betaald ter zake van een financieringsovereenkomst of uit hoofde van uitstel van betaling verband houdende met de verkoop op afbetaling van koopwaar of nijverheids- en handelsuitrusting of wetenschappelijke uitrusting of met de constructie van installaties voor nijverheids- en handelsdoeleinden of wetenschappelijke doeleinden dan wel met openbare werken slechts belastbaar in de Verdragsluitende Staat waarvan de uiteindelijk gerechtigde daartoe inwoner is.
