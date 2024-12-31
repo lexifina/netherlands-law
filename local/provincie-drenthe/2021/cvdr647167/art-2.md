@@ -1,2 +1,0 @@
-# Artikel 2.. Doel
-De subsidie heeft tot doel om de leefbaarheid te versterken door middel van cultuur op plekken waar dit niet vanzelfsprekend is. Door via culturele projecten aandacht te vragen voor een maatschappelijk thema, kunnen deelnemers meedoen aan de samenleving. Hierdoor kan de sociale cohesie in dorpen, buurten en wijken worden versterkt. Hierbij valt te denken aan bijvoorbeeld een oral history project, theaterstuk of beeldenroute.
