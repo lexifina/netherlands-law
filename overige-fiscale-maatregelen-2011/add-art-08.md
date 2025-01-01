@@ -1,0 +1,4 @@
+# Artikel VIII
+Het ingevolge artikel VII, onderdeel A, gewijzigde artikel 1a van de Successiewet 1956 vindt voor het eerst toepassing met betrekking tot belastbare feiten in de zin van de Successiewet 1956 die zich hebben voorgedaan op of na de datum van inwerkingtreding van deze wet, met dien verstande dat:
+a. de voorwaarde van het in artikel VII, onderdeel A, opgenomen artikel 1a, eerste lid, onderdeel c, van de Successiewet 1956 voor het eerst toepassing vindt met ingang van 1 januari 2012;
+b. indien een notarieel samenlevingscontract als bedoeld in het in artikel VII, onderdeel A, opgenomen artikel 1a, eerste lid, onderdeel c, van de Successiewet 1956 is verleden in de periode tot 1 januari 2012, geacht wordt te zijn voldaan aan de termijn, bedoeld in het in artikel VII, onderdeel A, opgenomen artikel 1a, tweede lid, onderdeel a, van de Successiewet 1956.

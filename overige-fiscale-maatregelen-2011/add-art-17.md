@@ -1,0 +1,2 @@
+# Artikel XVII
+De werkelijk door het reisbureau als bedoeld in hoofdstuk V, afdeling 10, van de Wet op de omzetbelasting 1968 gedragen kosten voor goederen en diensten van andere ondernemers die de reiziger rechtstreeks ten goede komen, maken geen deel uit van de winstmargeberekening van artikel 28zb van de Wet op de omzetbelasting 1968 ingeval de belasting ter zake in aftrek is gebracht of is teruggevraagd.
