@@ -46,6 +46,11 @@
 ### Afdeling 4. Tarief
 ### Afdeling 5. Herberekening
 ### Afdeling 6. Overig
+## Hoofdstuk VIC. Co2-heffing glastuinbouw
+### Afdeling 1. Algemeen
+### Afdeling 2. Grondslag en belastingplicht
+### Afdeling 3. Maatstaf van heffing, verschuldigdheid en tarief
+### Afdeling 4. Overig
 ## Hoofdstuk VII. Vliegbelasting
 ### Afdeling 1. Begripsbepalingen
 ### Afdeling 2. Grondslag en belastingplicht
