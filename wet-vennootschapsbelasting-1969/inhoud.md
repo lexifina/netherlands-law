@@ -22,4 +22,5 @@
 ## Hoofdstuk VI. Wijze van heffing
 ## Hoofdstuk VII. Aanvullende regelingen
 ## Hoofdstuk VIIa. Aanvullende documentatieverplichtingen verrekenprijzen
+## Hoofdstuk VIIb. Algemene antimisbruikbepaling
 ## Hoofdstuk VIII. Overgangs- en slotbepalingen
