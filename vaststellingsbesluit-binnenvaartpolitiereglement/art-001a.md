@@ -1,0 +1,2 @@
+# Artikel 1a
+Een wijziging van richtlijn nr. 2002/59/EG van het Europees Parlement en de Raad van de Europese Unie van 27 juni 2002 betreffende de invoering van een communautair monitoring- en informatiesysteem voor de zeescheepvaart en tot intrekking van richtlijn 93/75/EEG van de Raad (PbEG L 208), gaat voor de toepassing van het Binnenvaartpolitiereglement gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
