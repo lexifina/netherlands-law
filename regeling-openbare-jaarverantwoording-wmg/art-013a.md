@@ -1,0 +1,5 @@
+# Artikel 13a
+1. In afwijking van de artikelen 2, eerste en tweede lid, en 7 maakt een zorgaanbieder als bedoeld in artikel 2, eerste lid, onderdeel a, een beperkte balans, een bestuursverklaring en indien van toepassing de melding dat de jaarverantwoording in ernstige mate tekortschiet, openbaar en wordt het overige deel van de jaarverantwoording niet-openbaar gemaakt en aan het CIBG overgelegd.
+2. In afwijking van artikel 2, derde en vierde lid, wordt een bestuursverklaring en indien van toepassing de melding dat de jaarverantwoording in ernstige mate tekortschiet, openbaar gemaakt en wordt het overige deel van de jaarverantwoording niet-openbaar gemaakt en aan het CIBG overgelegd, indien het een zorgaanbieder betreft als bedoeld in:
+a. artikel 2, derde lid, onder a, die voldoet aan het bepaalde in artikel 40b, vijfde lid, van de wet, waarbij voor 'netto-omzet' wordt gelezen 'som der bedrijfsbaten'; en
+b. artikel 2, vierde lid, die voldoet aan het bepaalde in artikel 40b, vijfde lid, van de wet, waarbij voor 'netto-omzet' wordt gelezen 'som der bedrijfsbaten'.
