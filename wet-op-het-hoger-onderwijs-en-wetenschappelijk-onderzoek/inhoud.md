@@ -140,4 +140,5 @@
 ### Titel 19. Variawet hoger onderwijs
 ### Titel 20. Wet van [datum] (Stb. ...)
 ### Titel 21. Wet van 3 juni 2023 (Stb. 2023, 192)
+### Titel 22. Wet leeruitkomsten hoger onderwijs
 ## Hoofdstuk 19. Slotbepalingen
