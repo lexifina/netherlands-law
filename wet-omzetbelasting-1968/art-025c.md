@@ -1,0 +1,14 @@
+# Artikel 25c
+1. Een ondernemer die in Nederland is gevestigd, moet voor de toepassing van de vrijstelling, bedoeld in artikel 284, eerste lid, van de BTW-richtlijn 2006, in één of meer andere lidstaten ter zake van door de ondernemer in die lidstaten verrichte leveringen van goederen en diensten:
+a. een voorafgaande kennisgeving richten aan de inspecteur op een door de inspecteur voorgeschreven wijze; en
+b. in Nederland door de inspecteur zijn geïdentificeerd door een individueel nummer met het achtervoegsel «EX».
+2. De ondernemer stelt de inspecteur op een door de inspecteur voorgeschreven wijze, door middel van een actualisering van een voorafgaande kennisgeving, vooraf in kennis van iedere wijziging van de informatie in de kennisgeving. Deze actualisering is inclusief het voornemen de vrijstelling toe te passen in één of meer andere lidstaten dan aangegeven in de voorafgaande kennisgeving en de beslissing om de toepassing van de vrijstelling in één of meer andere lidstaten waar de ondernemer niet is gevestigd, te beëindigen.
+3. De vrijstelling geldt, ingeval van:
+a. een voorafgaande kennisgeving, vanaf de datum waarop de inspecteur het individuele nummer met het achtervoegsel «EX» aan de ondernemer mededeelt; of
+b. een actualisering van een voorafgaande kennisgeving, vanaf de datum waarop de inspecteur het individuele nummer met het achtervoegsel «EX» aan de ondernemer bevestigt naar aanleiding van de actualisering die deze heeft uitgevoerd.
+4. De beëindiging van de toepassing van de vrijstelling wordt van kracht op de eerste dag van het kalenderkwartaal volgend op de ontvangst van de informatie van de ondernemer of, indien die informatie in de laatste maand van een kalenderkwartaal wordt ontvangen, op de eerste dag van de tweede maand van het eerstvolgende kalenderkwartaal.
+5. De inspecteur deelt het individuele nummer met het achtervoegsel «EX» mede of bevestigt dit nummer aan de ondernemer binnen 35 werkdagen na ontvangst van de voorafgaande kennisgeving onderscheidenlijk de actualisering van de voorafgaande kennisgeving, tenzij:
+a. de jaaromzet in de Unie meer bedraagt dan € 100.000 in het voorafgaande kalenderjaar of tijdens het kalenderjaar tot aan de kennisgeving of de actualisering daarvan; of
+b. de lidstaat die de vrijstelling verleent aan de inspecteur meldt dat de omzetdrempel, bedoeld in artikel 284, tweede lid, onderdeel b, van de BTW-richtlijn 2006, tijdens het kalenderjaar tot aan de kennisgeving of de actualisering daarvan is overschreden, of dat niet is voldaan aan de voorwaarden, bedoeld in artikel 288 bis, eerste lid, van de BTW-richtlijn 2006.
+In geval onderdeel a toepassing vindt, beslist de inspecteur bij voor bezwaar vatbare beschikking.
+6. De termijn, bedoeld in het vijfde lid, is niet van toepassing in bijzondere gevallen waarin, met het oog op het voorkomen van belastingontduiking of -ontwijking, meer tijd nodig is om de noodzakelijke controles uit te voeren.

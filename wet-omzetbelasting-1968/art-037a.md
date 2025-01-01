@@ -1,5 +1,5 @@
 # Artikel 37a
-1. De ondernemer, uitgezonderd die bedoeld in artikel 7, zesde lid, of artikel 25, is verplicht uiterlijk de laatste dag van de maand volgend op een kalendermaand bij de inspecteur op de daartoe opengestelde wijze een formulier langs elektronische weg in te dienen met een lijst voor dat tijdvak waarop zijn vermeld de afnemers:
+1. De ondernemer, uitgezonderd die bedoeld in artikel 7, zesde lid, of artikel 25a, eerste lid, is verplicht uiterlijk de laatste dag van de maand volgend op een kalendermaand bij de inspecteur op de daartoe opengestelde wijze een formulier langs elektronische weg in te dienen met een lijst voor dat tijdvak waarop zijn vermeld de afnemers:
 a. aan wie goederen zijn geleverd met toepassing van de bij deze wet behorende Tabel II, onderdeel a, post 6;
 b. aan wie in een andere lidstaat goederen zijn geleverd in aansluiting op de ingevolge artikel 17b, derde lid, in die lidstaat door de ondernemer verrichte intracommunautaire verwervingen;
 c. voor wie hij diensten heeft verricht die met toepassing van artikel 6, eerste lid, niet belastbaar zijn in Nederland en waarover de belasting ingevolge artikel 196 van BTW-richtlijn 2006 in de lidstaat van de afnemer wordt geheven van de afnemer, tenzij het verrichten van die dienst in die lidstaat is vrijgesteld;

@@ -24,7 +24,10 @@
 ### Afdeling 4. Wijze van heffing
 ## Hoofdstuk IV. Uitvoer van goederen
 ## Hoofdstuk V. Bijzondere regelingen
-### Afdeling 1. Vrijstelling van belasting (kleine ondernemers)
+### Afdeling 1. Kleineondernemersregeling
+#### Paragraaf 1. Algemene bepaling
+#### Paragraaf 2. Toepassing kleineondernemersregeling in Nederland
+#### Paragraaf 3. Toepassing kleineondernemersregeling in een andere lidstaat door een ondernemer die in Nederland is gevestigd
 ### Afdeling 2. Voldoening naar ontvangsten
 ### Afdeling 4. Accijnsgoederen, andere dan tabaksproducten
 ### Afdeling 5. Regeling voor gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten

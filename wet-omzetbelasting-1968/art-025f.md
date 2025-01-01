@@ -1,0 +1,7 @@
+# Artikel 25f
+1. Voor de toepassing van artikel 25d, eerste lid, onderdelen c en d, en artikel 25e, eerste lid, geldt het volgende:
+a. voor zover de leveringen van goederen en diensten zijn verricht in Nederland, bestaat het totaal van de vergoedingen uit de vergoedingen, bedoeld in artikel 25, eerste lid, onderdeel a, met uitzondering van de vergoedingen, bedoeld in artikel 25, tweede lid;
+b. voor zover de leveringen van goederen en diensten zijn verricht in een andere lidstaat, bestaat het totaal van de vergoedingen uit de vergoedingen, bedoeld in artikel 288 van de BTW-richtlijn 2006;
+c. het totaal van de vergoedingen wordt uitgedrukt in euro's; en
+d. ingeval een andere lidstaat voor toepassing van de vrijstelling verschillende drempels hanteert als bedoeld in artikel 284, eerste lid, tweede alinea, van de BTW-richtlijn 2006, is de ondernemer verplicht met betrekking tot deze lidstaat het totaal van de vergoedingen ter zake van de leveringen van goederen en diensten voor elke drempel die van toepassing kan zijn, afzonderlijk te verstrekken.
+2. Indien een vergoeding ter zake van leveringen van goederen of diensten in een andere munteenheid dan de euro is uitgedrukt, hanteert de ondernemer de wisselkoers die gold op de eerste dag van het kalenderjaar. De omrekening geschiedt met toepassing van de wisselkoers die de Europese Centrale Bank voor die dag bekend heeft gemaakt of, indien die dag geen bekendmaking heeft plaatsgevonden, op de eerstvolgende dag van bekendmaking.

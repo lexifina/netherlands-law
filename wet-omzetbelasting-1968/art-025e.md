@@ -1,0 +1,6 @@
+# Artikel 25e
+1. Een ondernemer die in Nederland is gevestigd en de vrijstelling toepast in één of meer andere lidstaten, verstrekt aan de inspecteur op een door de inspecteur voorgeschreven wijze, onder vermelding van zijn individuele nummer met het achtervoegsel «EX», over ieder kalenderkwartaal de volgende informatie:
+a. het totaal van de vergoedingen ter zake van leveringen van goederen en diensten die tijdens het kalenderkwartaal zijn verricht in Nederland, of «0» indien geen leveringen van goederen of diensten zijn verricht; en
+b. het totaal van de vergoedingen ter zake van leveringen van goederen en diensten die tijdens het kalenderkwartaal zijn verricht in de andere lidstaten, of «0» indien geen leveringen van goederen of diensten zijn verricht.
+2. De ondernemer verstrekt de informatie binnen één maand te rekenen vanaf het einde van het kalenderkwartaal.
+3. Ingeval de jaaromzet in de Unie het bedrag van € 100.000 overschrijdt, stelt de ondernemer de inspecteur op een door de inspecteur voorgeschreven wijze binnen 15 werkdagen hiervan in kennis. Tegelijkertijd meldt de ondernemer het bedrag van de leveringen van goederen en diensten die zijn verricht vanaf het begin van het lopende kalenderkwartaal tot de datum waarop het bedrag van € 100.000 werd overschreden.
