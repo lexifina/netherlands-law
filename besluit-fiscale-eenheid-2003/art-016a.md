@@ -1,0 +1,4 @@
+# Artikel 16a. Toepassing innovatiebox en CFC-maatregel na ontvoeging
+1. Indien tot het vermogen van een ontvoegde dochtermaatschappij een immaterieel activum behoort of gaat behoren, treedt die dochtermaatschappij voor de toepassing van afdeling 2.3 van de wet met betrekking tot dat activum in de plaats van de fiscale eenheid.
+2. In afwijking van het eerste lid treedt een ontvoegde dochtermaatschappij voor de toepassing van afdeling 2.3 van de wet niet in de plaats van de fiscale eenheid met betrekking tot een immaterieel activum waarop artikel 15ai van de wet toepassing heeft gevonden.
+3. Voor zover een ontvoegde dochtermaatschappij een belang in een gecontroleerd lichaam heeft, treedt die dochtermaatschappij voor de toepassing van de artikelen 13ab, 15e, tiende en elfde lid, en 23e van de wet met betrekking tot dat lichaam in de plaats van de fiscale eenheid.

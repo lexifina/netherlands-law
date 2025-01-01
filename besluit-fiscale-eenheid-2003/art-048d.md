@@ -1,0 +1,2 @@
+# Artikel 48d. Verrekening bij buitenlandse ondernemingswinsten
+Bij de toepassing van artikel 23d van de wet bij een maatschappij die wordt gevoegd of ontvoegd zijn de artikelen 48a, 48b en 48c van overeenkomstige toepassing. Hierbij wordt voor de overeenkomstige toepassing van artikel 48b, tweede lid, uitgegaan van het gezamenlijke bedrag aan winst uit buitenlandse onderneming waarop ingevolge artikel 15e, zevende lid, van de wet de objectvrijstelling voor buitenlandse ondernemingswinsten geen toepassing vindt.
