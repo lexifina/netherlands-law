@@ -1,0 +1,4 @@
+# Artikel 24a
+1. De centrale commissie kan richtlijnen vaststellen over de taal waarin een aanvraag als bedoeld in artikel 70, eerste lid, van Verordening (EU) 2017/745, of een aanvraagdossier als bedoeld in artikel 5, eerste lid, van Verordening (EU) 536/2014 wordt gesteld.
+2. De centrale commissie kan informatie betreffende wetenschappelijk onderzoek in overeenstemming met het bij of krachtens Verordening (EU) 536/2014 bepaalde verstrekken aan de bevoegde autoriteiten van andere lidstaten voor zover zij die informatie behoeven voor de uitvoering van hun taak.
+3. Een commissie en de ambtenaren van de inspectie kunnen informatie betreffende wetenschappelijk onderzoek in overeenstemming met het bij of krachtens Verordening (EU) 536/2014, Verordening (EU) 2017/745 en Verordening (EU) 2017/746 bepaalde uitwisselen voor zover zij die informatie behoeven voor de uitvoering van hun taken.
