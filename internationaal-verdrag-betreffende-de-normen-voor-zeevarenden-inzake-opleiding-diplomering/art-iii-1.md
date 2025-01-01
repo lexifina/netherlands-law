@@ -1,0 +1,8 @@
+# Regulation III/1. Mandatory minimum requirements for certification of officers in charge of an engineering watch in a manned engine-room or designated duty engineers in a periodically unmanned engine-room
+1. Every officer in charge of an engineering watch in a manned engine-room or designated duty engineer officer in a periodically unmanned engine-room on a seagoing ship powered by main propulsion machinery of 750 kW propulsion power or more shall hold a certificate of competency.
+2. Every candidate for certification shall:
+.1 be not less than 18 years of age;
+.2 have completed combined workshop skills training and an approved seagoing service of not less than 12 months as part of an approved training programme which includes onboard training that meets the requirements of section A-III/1 of the STCW Code and is documented in an approved training record book, or otherwise have completed combined workshop skills training and an approved seagoing service of not less than 36 months of which not less than 30 months shall be seagoing service in the engine department;
+.3 have performed, during the required seagoing service, engine-room watchkeeping duties under the supervision of the chief engineer officer or a qualified engineer officer for a period of not less than six months;
+.4 have completed approved education and training and meet the standard of competence specified in section A-III/1 of the STCW Code; and
+.5 meet the standard of competence specified in section A-VI/1, paragraph 2, section A-VI/2, paragraphs 1 to 4, section A-VI/3, paragraphs 1 to 4 and section A-VI/4, paragraphs 1 to 3 of the STCW Code.

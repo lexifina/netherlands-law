@@ -1,0 +1,9 @@
+# Voorschrift I/14. Verantwoordelijkheid van maatschappijen
+1. Elke Administratie stelt in overeenstemming met de bepalingen van sectie A-I/14 maatschappijen verantwoordelijk voor de aanstelling van zeevarenden op hun schepen in overeenstemming met de bepalingen van dit Verdrag en verlangt van elk van deze maatschappijen dat zij waarborgt dat:
+.1 elke op een van haar schepen aangestelde zeevarende in het bezit is van het vereiste bewijs in overeenstemming met de bepalingen van het Verdrag en zoals vastgesteld door de Administratie;
+.2 haar schepen worden bemand in overeenstemming met van de toepassing zijnde vereisten inzake het veilig bemannen die de Administratie hanteert;
+.3 de op haar schepen aangestelde zeevarenden de herhalings- en bijscholingscursussen hebben gevolgd zoals vereist volgens het Verdrag;
+.4 documentatie en gegevens met betrekking tot alle zeevarenden die op haar schepen zijn tewerkgesteld, bijgehouden worden en direct beschikbaar zijn, alsmede documentatie en gegevens betreffende hun ervaring, opleiding, medische geschiktheid en bekwaamheid in de opgedragen taken, zonder overigens andere gegevens uit te sluiten;
+.5 zeevarenden na hun aanstelling op een van haar schepen vertrouwd worden gemaakt met hun specifieke taken en met alle regelingen, installaties, uitrusting, procedures en kenmerken van het schip die relevant zijn voor hun taken onder normale omstandigheden of in noodsituaties;
+.6 de voltallige bemanning van het schip in een noodsituatie en bij het vervullen van functies die van vitaal belang zijn voor de veiligheid, beveiliging of voor het voorkomen of verminderen van verontreiniging, haar werkzaamheden doeltreffend kan coördineren; en
+.7 er aan boord van haar schepen te allen tijde doeltreffende mondelinge communicatie mogelijk is in overeenstemming met hoofdstuk V, voorschrift 14, leden 3 en 4, van het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974 (SOLAS), zoals gewijzigd.

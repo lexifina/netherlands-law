@@ -1,0 +1,3 @@
+# Voorschrift VI/1. Verplichte minimumeisen inzake de bekendheid met de materie, basistraining en instructie op het gebied van veiligheid voor alle zeevarenden
+1. Zeevarenden dienen in overeenstemming met sectie A-VI/1 van de STCW-Code een basistraining of instructie te ontvangen op het gebied van en bekend te worden gemaakt met veiligheid en te voldoen aan de desbetreffende daarin omschreven eisen van bekwaamheid.
+2. Indien basistraining niet is opgenomen in de kwalificaties voor het af te geven bewijs, wordt een bewijs van bekwaamheid afgegeven waaruit blijkt dat de houder de basistraining heeft gevolgd.

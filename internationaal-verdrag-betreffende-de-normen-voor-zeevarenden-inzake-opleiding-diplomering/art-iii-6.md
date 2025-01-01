@@ -1,0 +1,10 @@
+# Regulation III/6. Mandatory minimum requirements for certification of electro-technical officers
+1. Every electro-technical officer serving on a seagoing ship powered by main propulsion machinery of 750 kW propulsion power or more shall hold a certificate of competency.
+2. Every candidate for certification shall:
+.1 be not less than 18 years of age;
+.2 have completed not less than 12 months of combined workshop skills training and approved seagoing service of which not less than 6 months shall be seagoing service as part of an approved training programme which meets the requirements of section A-III/6 of the STCW Code and is documented in an approved training record book, or otherwise not less than 36 months of combined workshop skills training and approved seagoing service of which not less than 30 months shall be seagoing service in the engine department;
+.3 have completed approved education and training and meet the standard of competence specified in section A-III/6 of the STCW Code; and
+.4 meet the standard of competence specified in section A-VI/1, paragraph 2, section A-VI/2, paragraphs 1 to 4, section A-VI/3, paragraphs 1 to 4 and section A-VI/4, paragraphs 1 to 3 of the STCW Code.
+3. Every Party shall compare the standard of competence which it required of electro-technical officers for certificates issued before 1 January 2012 with those specified for the certificate in section A-III/6 of the STCW Code, and shall determine the need for requiring those personnel to update their qualifications.
+4. Seafarers may be considered by the Party to have met the requirements of this regulation if they have served in a relevant capacity on board a ship for a period of not less than 12 months within the last 60 months preceding the entry into force of this regulation for that Party and meet the standard of competence specified in section A-III/6 of the STCW Code.
+5. Notwithstanding the above requirements of paragraph 1 to 4, a suitably qualified person may be considered by a Party to be able to perform certain functions of section A-III/6.

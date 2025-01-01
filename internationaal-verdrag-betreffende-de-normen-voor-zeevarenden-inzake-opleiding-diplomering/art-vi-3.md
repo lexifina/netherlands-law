@@ -1,0 +1,3 @@
+# Regulation VI/3. Mandatory minimum requirements for training in advanced fire fighting
+1. Seafarers designated to control fire-fighting operations shall have successfully completed advanced training in techniques for fighting fire, with particular emphasis on organization, tactics and command, in accordance with the provisions of section A-VI/3, paragraphs 1 to 4 of the STCW Code and shall meet the standard of competence specified therein.
+2. Where training in advanced fire fighting is not included in the qualifications for the certificate to be issued, a certificate of proficiency shall be issued indicating that the holder has attended a course of training in advanced fire fighting.

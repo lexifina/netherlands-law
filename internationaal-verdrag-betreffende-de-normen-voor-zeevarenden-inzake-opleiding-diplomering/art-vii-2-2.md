@@ -1,0 +1,2 @@
+# Voorschrift VII/2. Afgifte van bewijzen aan zeevarenden
+1. Zeevarenden die een taak of een reeks taken vervullen zoals omschreven in tabel A-II/1, A-II/2, A-II/3, A-II/4 of A-II/5 van hoofdstuk II of in tabel A-III/1, A-III/2, A-III/3, A-III/4 of A-III/5 van hoofdstuk III of A-IV/2 van hoofdstuk IV van de STCW-Code, dienen in het bezit te zijn van een vaarbevoegdheidsbewijs of een bewijs van bekwaamheid, al naargelang van toepassing is.

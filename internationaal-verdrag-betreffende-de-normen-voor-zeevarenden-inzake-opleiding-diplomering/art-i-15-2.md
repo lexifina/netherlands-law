@@ -1,0 +1,3 @@
+# Voorschrift I/15. Overgangsbepalingen
+1. Tot 1 januari 2017 mag een Partij in overeenstemming met de bepalingen van het Verdrag die onmiddellijk voorafgaande aan 1 januari 2012 van toepassing waren, aan zeevarenden die voor 1 juli 2013 zijn begonnen met hun goedgekeurde dienst buitengaats, een goedgekeurde opleiding of een goedgekeurde training, bewijzen blijven afgeven, erkennen en voorzien van een officiële verklaring.
+2. Tot 1 januari 2017 kan een Partij in overeenstemming met de bepalingen van het Verdrag die onmiddellijk voorafgaande aan 1 januari 2012 van toepassing waren, de geldigheid van bewijzen en officiële verklaringen blijven verlengen.

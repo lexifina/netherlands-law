@@ -1,0 +1,6 @@
+# Article XIV. Entry into Force
+(1) The Convention shall enter into force twelve months after the date on which not less than twenty-five States, the combined merchant fleets of which constitute not less than fifty per cent of the gross tonnage of the world's merchant shipping of ships of 100 gross register tons or more, have either signed it without reservation as to ratification, acceptance or approval or deposited the requisite instruments of ratification, acceptance, approval or accession in accordance with Article XIII.
+(2) The Secretary-General shall inform all States that have signed the Convention or acceded to it of the date on which it enters into force.
+(3) Any instrument of ratification, acceptance, approval or accession deposited during the twelve months referred to in paragraph (1) shall take effect on the coming into force of the Convention or three months after the deposit of such instrument, whichever is the later date.
+(4) Any instrument of ratification, acceptance, approval or accession deposited after the date on which the Convention enters into force shall take effect three months after the date of deposit.
+(5) After the date on which an amendment is deemed to have been accepted under Article XII, any instrument of ratification, acceptance, approval or accession deposited shall apply to the Convention as amended.

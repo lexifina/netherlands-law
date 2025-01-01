@@ -1,0 +1,3 @@
+# Article IX. Equivalents
+(1) The Convention shall not prevent an Administration from retaining or adopting other educational and training arrangements, including those involving sea-going service and shipboard organization especially adapted to technical developments and to special types of ships and trades, provided that the level of sea-going service, knowledge and efficiency as regards navigational and technical handling of ship and cargo ensures a degree of safety at sea and has a preventive effect as regards pollution at least equivalent to the requirements of the Convention.
+(2) Details of such arrangements shall be reported as early as practicable to the Secretary-General who shall circulate such particulars to all Parties.

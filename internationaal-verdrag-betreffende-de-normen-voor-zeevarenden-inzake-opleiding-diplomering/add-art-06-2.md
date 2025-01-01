@@ -1,0 +1,3 @@
+# Artikel VI. Diploma 's
+1. Aan de kandidaten die, ter beoordeling van de Administratie, voldoen aan de vereisten wat betreft diensttijd, leeftijd, lichamelijke geschiktheid uit medisch oogpunt, opleiding, bekwaamheid en examens overeenkomstig de desbetreffende bepalingen van de Bijlage bij het Verdrag, worden diploma's voor kapiteins, scheepsofficieren en scheepsgezellen afgegeven.
+2. Bij in overeenstemming met dit artikel afgegeven diploma's voor kapiteins en scheepsofficieren wordt door de Regering die het diploma afgeeft een officiële verklaring afgegeven als bepaald in Voorschrift I/2 van de Bijlage. Wanneer niet de Engelse taal wordt gebruikt, dient de officiële verklaring een vertaling in die taal te bevatten.

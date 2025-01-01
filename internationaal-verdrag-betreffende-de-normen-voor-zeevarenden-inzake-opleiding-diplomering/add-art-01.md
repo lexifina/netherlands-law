@@ -1,0 +1,3 @@
+# Article I. General Obligations under the Convention
+(1) The Parties undertake to give effect to the provisions of the Convention and the Annex thereto, which shall constitute an integral part of the Convention. Every reference to the Convention constitutes at the same time a reference to the Annex.
+(2) The Parties undertake to promulgate all laws, decrees, orders and regulations and to take all other steps which may be necessary to give the Convention full and complete effect, so as to ensure that, from the point of view of safety of life and property at sea and the protection of the marine environment, seafarers on board ships are qualified and fit for their duties.

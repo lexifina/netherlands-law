@@ -1,0 +1,4 @@
+# Voorschrift VI/4. Verplichte minimumeisen inzake eerste hulp en medische verzorging
+1. Zeevarenden die zijn aangewezen voor het verlenen van eerste hulp aan boord van schepen voldoen aan de eisen van bekwaamheid op het gebied van medische verzorging aan boord van schepen omschreven in sectie A-VI/4, eerste tot en met derde punt, van de STCW-Code.
+2. Zeevarenden die zijn aangewezen om de leiding te nemen bij de medische verzorging aan boord van schepen voldoen aan de eisen van bekwaamheid op het gebied van medische verzorging aan boord van schepen omschreven in sectie A-VI/4, vierde tot en met zesde punt, van de STCW-Code.
+3. Indien training op het gebied van eerste hulp of medische verzorging niet is opgenomen in de kwalificaties voor het af te geven bewijs, wordt een bewijs van bekwaamheid afgegeven, waaruit blijkt dat de houder een training op het gebied van eerste hulp of medische verzorging heeft gevolgd.

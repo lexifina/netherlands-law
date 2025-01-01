@@ -1,0 +1,8 @@
+# Regulation VI/6. Mandatory minimum requirements for security-related training and instruction for all seafarers
+1. Seafarers shall receive security-related familiarization and security-awareness training or instruction in accordance with section A-VI/6, paragraphs 1 to 4 of the STCW Code and shall meet the appropriate standard of competence specified therein.
+2. Where security awareness is not included in the qualification for the certificate to be issued, a certificate of proficiency shall be issued indicating that the holder has attended a course in security awareness training.
+3. Every Party shall compare the security-related training or instruction it requires of seafarers who hold or can document qualifications before the entry into force of this regulation with those specified in section A-VI/6, paragraph 4 of the STCW Code, and shall determine the need for requiring these seafarers to update their qualifications.
+Seafarers with designated security duties
+4. Seafarers with designated security duties shall meet the standard of competence specified in section A-VI/6, paragraphs 6 to 8 of the STCW Code.
+5. Where training in designated security duties is not included in the qualifications for the certificate to be issued, a certificate of proficiency shall be issued indicating that the holder has attended a course of training for designated security duties.
+6. Every Party shall compare the security training standards required of seafarers with designated security duties who hold or can document qualifications before the entry into force of this regulation with those specified in section A-VI/6, paragraph 8 of the STCW Code, and shall determine the need for requiring these seafarers to update their qualifications.

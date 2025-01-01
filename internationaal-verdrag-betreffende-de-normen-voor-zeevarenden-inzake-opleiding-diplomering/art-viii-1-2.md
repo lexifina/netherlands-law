@@ -1,0 +1,5 @@
+# Voorschrift VIII/1. Geschiktheid voor dienst
+1. De Administraties dienen teneinde vermoeidheid te voorkomen:
+.1 rustperioden voor personeelsleden die wachtdiensten draaien en degenen aan wie taken op het gebied van veiligheid, beveiliging en de preventie van verontreiniging in overeenstemming met de bepalingen van sectie A-VIII/1 van de STCW-Code in te stellen en toe te zien op de naleving ervan; en
+.2 te eisen dat de wachten zodanig geregeld zijn dat de doelmatigheid van alle personeelsleden die wachtdiensten draaien niet wordt geschaad door vermoeidheid en dat de taken zodanig zijn georganiseerd dat de eerste wacht bij de aanvang van een reis en de daarop volgende aflossingen voldoende rust hebben genoten en anderszins geschikt zijn voor hun dienst.
+2. De Administraties waarborgen, ter voorkoming van alcohol- en drugsmisbruik, dat adequate maatregelen worden getroffen in overeenstemming met de bepalingen van sectie A-VIII/1, waarbij rekening wordt gehouden met de richtlijnen van sectie B-VIII/1 van de STCW-Code.

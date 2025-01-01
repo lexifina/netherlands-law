@@ -1,0 +1,8 @@
+# Voorschrift I/7. Toezending van informatie
+1. Behalve de informatie die uit hoofde van artikel IV dient te worden verzonden, doet elke Partij de Secretaris-Generaal binnen de voorgeschreven termijnen en op de wijze beschreven in sectie A-I/7 van de STCW-Code, de overige informatie over andere genomen maatregelen toekomen die volgens de Code vereist kan zijn voor de volledige uitvoering van het Verdrag.
+2. Wanneer de volledige informatie zoals voorgeschreven in artikel IV en sectie A-1/7 van de STCW-Code is ontvangen en deze bevestigt dat volledige uitvoering is gegeven aan de bepalingen van het Verdrag, brengt de Secretaris-Generaal hiervan verslag uit aan de Maritieme Veiligheidscommissie.
+3. Na de hierop volgende bevestiging van de Maritieme Veiligheidscommissie in overeenstemming met de door de Commissie aangenomen procedures, dat uit de toegezonden informatie blijkt dat de bepalingen van het Verdrag volledig zijn uitgevoerd:
+.1 geeft de Maritieme Veiligheidscommissie aan welke Partijen het betreft;
+.2 toetst de lijst van Partijen die de informatie hebben verstrekt waaruit blijkt dat zij de desbetreffende bepalingen van het Verdrag volledig uitvoeren en handhaaft op deze lijst uitsluitend de desbetreffende Partijen; en
+.3 hebben andere Partijen in beginsel het recht, met inachtneming van de bepalingen van de voorschriften I/4 en I/10, te aanvaarden dat door of namens de in lid 3.1 bedoelde Partijen afgegeven bewijzen voldoen aan het Verdrag.
+4. Op wijzigingen van het Verdrag en de STCW-Code die later in werking treden dan de datum waarop de informatie in overeenstemming met de bepalingen van lid 1 is of zal worden verzonden aan de Secretaris-Generaal, zijn de bepalingen van sectie A-I/7, eerste en tweede punt, niet van toepassing.

@@ -1,0 +1,3 @@
+# Regulation IV/1. Application
+1. Except as provided in paragraph 2, the provisions of this chapter apply to radio operators on ships operating in the global maritime distress and safety system (GMDSS) as prescribed by the International Convention for the Safety of Life at Sea, 1974, as amended.
+2. Radio operators on ships not required to comply with the provisions of the GMDSS in chapter IV of the SOLAS Convention are not required to meet the provisions of this chapter. Radio operators on these ships are, nevertheless, required to comply with the Radio Regulations. The Administration shall ensure that the appropriate certificates as prescribed by the Radio Regulations are issued to or recognized in respect of such radio operators.

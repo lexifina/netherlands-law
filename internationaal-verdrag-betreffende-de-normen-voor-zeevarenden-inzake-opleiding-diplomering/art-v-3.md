@@ -1,0 +1,21 @@
+# Regulation V/3. Mandatory minimum requirements for the training and qualifications of masters, officers, ratings and other personnel on ships subject to the IGF Code
+1. This regulation applies to masters, officers and ratings and other personnel serving on board ships subject to the IGF Code.
+2. Prior to being assigned shipboard duties on board ships subject to the IGF Code, seafarers shall have completed the training required by paragraphs 4 to 9 below in accordance with their capacity, duties and responsibilities.
+3. All seafarers serving on board ships subject to the IGF Code shall, prior to being assigned shipboard duties, receive appropriate ship and equipment specific familiarization as specified in regulation I/14, paragraph 1.5.
+4. Seafarers responsible for designated safety duties associated with the care, use or in emergency response to the fuel on board ships subject to the IGF Code shall hold a certificate in basic training for service on ships subject to the IGF Code.
+5. Every candidate for a certificate in basic training for service on ships subject to the IGF Code shall have completed basic training in accordance with provisions of section A-V/3, paragraph 1 of the STCW Code.
+6. Seafarers responsible for designated safety duties associated with the care, use or in emergency response to the fuel on board ships subject to the IGF Code who have been qualified and certified according to regulation V/1-2, paragraphs 2 and 5, or regulation V/1-2, paragraphs 4 and 5 on liquefied gas tankers, are to be considered as having met the requirements specified in section A-V/3, paragraph 1 for basic training for service on ships subject to the IGF Code.
+7. Masters, engineer officers and all personnel with immediate responsibility for the care and use of fuels and fuel systems on ships subject to the IGF Code shall hold a certificate in advanced training for service on ships subject to the IGF Code.
+8. Every candidate for a certificate in advanced training for service on ships subject to the IGF Code shall, while holding the Certificate of Proficiency described in paragraph 4, have:
+.1 completed approved advanced training for service on ships subject to the IGF Code and meet the standard of competence as specified in section A-V/3, paragraph 2 of the STCW Code; and
+.2 completed at least one month of approved seagoing service that includes a minimum of three bunkering operations on board ships subject to the IGF Code. Two of the three bunkering operations may be replaced by approved simulator training on bunkering operations as part of the training in paragraph 8.1 above.
+9. Masters, engineer officers and any person with immediate responsibility for the care and use of fuels on ships subject to the IGF Code who have been qualified and certified according to the standards of competence specified in section A–V/1-2, paragraph 2 for service on liquefied gas tankers are to be considered as having met the requirements specified in section A-V/3, paragraph 2 for advanced training for ships subject to the IGF Code, provided they have also:
+.1 met the requirements of paragraph 6; and
+.2 met the bunkering requirements of paragraph 8.2 or have participated in conducting three cargo operations on board the liquefied gas tanker; and
+.3 have completed sea going service of three months in the previous five years on board:
+.1 ships subject to the IGF Code;
+.2 tankers carrying as cargo, fuels covered by the IGF Code; or
+.3 ships using gases or low flashpoint fuel as fuel.
+10. Every Party shall compare the standards of competence which it required of persons serving on gas-fuelled ships before 1 January 2017 with the standards of competence in Section A-V/3 of the STCW Code, and shall determine the need, if any, for requiring these personnel to update their qualifications.
+11. Administrations shall ensure that a Certificate of Proficiency is issued to seafarers, who are qualified in accordance with paragraphs 4 or 7, as appropriate.
+12. Seafarers holding Certificates of Proficiency in accordance with paragraph 4 or 7 above shall, at intervals not exceeding five years, undertake appropriate refresher training or be required to provide evidence of having achieved the required standard of competence within the previous five years.

@@ -1,0 +1,6 @@
+# Regulation I/8. Quality standards
+1. Each Party shall ensure that:
+.1 in accordance with the provisions of section A-I/8 of the STCW Code, all training, assessment of competence, certification, including medical certification, endorsement and revalidation activities carried out by non-governmental agencies or entities under its authority are continuously monitored through a quality standards system to ensure achievement of defined objectives, including those concerning the qualifications and experience of instructors and assessors; and
+.2 where governmental agencies or entities perform such activities, there shall be a quality standards system.
+2. Each Party shall also ensure that an evaluation is periodically undertaken, in accordance with the provisions of section A-I/8 of the STCW Code, by qualified persons who are not themselves involved in the activities concerned. This evaluation shall include all changes to national regulations and procedures in compliance with the amendments to the Convention and STCW Code, with dates of entry into force later than the date information was communicated to the Secretary-General.
+3. A report containing the results of the evaluation required by paragraph 2 shall be communicated to the Secretary-General in accordance with the format specified in section A-I/7 of the STCW Code.

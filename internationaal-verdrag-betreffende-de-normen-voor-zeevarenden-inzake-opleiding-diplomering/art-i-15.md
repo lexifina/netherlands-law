@@ -1,0 +1,3 @@
+# Regulation I/15. Transitional provisions
+1. Until 1 January 2017, a Party may continue to issue, recognize and endorse certificates in accordance with the provisions of the Convention which applied immediately prior to 1 January 2012 in respect of those seafarers who commenced approved seagoing service, an approved education and training programme or an approved training course before 1 July 2013.
+2. Until 1 January 2017, a Party may continue to renew and revalidate certificates and endorsements in accordance with the provisions of the Convention which applied immediately prior to 1 January 2012.

@@ -1,0 +1,3 @@
+# Article VI. Certificates
+(1) Certificates for masters, officers or ratings shall be issued to those candidates who, to the satisfaction of the Administration, meet the requirements for service, age, medical fitness, training, qualification and examinations in accordance with the appropriate provisions of the Annex to the Convention.
+(2) Certificates for masters and officers, issued in compliance with this Article, shall be endorsed by the issuing Administration in the form as prescribed in Regulation I/2 of the Annex. If the language used is not English, the endorsement shall include a translation into that language.

@@ -1,0 +1,7 @@
+# Artikel V. Andere verdragen en interpretatie
+1. Alle voorgaande verdragen, overeenkomsten en regelingen, betrekking hebbende op de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, die tussen de Partijen van kracht zijn, blijven gedurende de hiervoor vastgestelde tijd volledig van kracht, voor zover het betreft:
+(a) zeevarenden op wie dit Verdrag niet van toepassing is;
+(b) zeevarenden op wie dit Verdrag van toepassing is, ten aanzien van aangelegenheden waarin niet uitdrukkelijk in dit Verdrag is voorzien.
+2. Voor zover eerdergenoemde verdragen, overeenkomsten of regelingen echter in strijd zijn met de bepalingen van het Verdrag, onderwerpen de Partijen hun verbintenissen krachtens die verdragen, overeenkomsten en regelingen aan een onderzoek ten einde te verzekeren dat er geen strijdigheid bestaat tussen die verbintenissen en hun verplichtingen op grond van het Verdrag.
+3. Alle aangelegenheden waarin niet uitdrukkelijk is voorzien in dit Verdrag blijven onderworpen aan de wetgeving van de Partijen.
+4. Geen enkele bepaling van het Verdrag maakt inbreuk op de codificatie en de ontwikkeling van het zeerecht door de Conferentie van de Verenigde Naties inzake het zeerecht, bijeengeroepen krachtens Resolutie 2750 C (XXV) van de Algemene Vergadering van de Verenigde Naties, noch op de huidige of toekomstige aanspraken en juridische inzichten van enige Staat met betrekking tot het zeerecht en de aard en omvang van de rechtsbevoegdheid van de kuststaat en de Staat waarvan de vlag wordt gevoerd.
