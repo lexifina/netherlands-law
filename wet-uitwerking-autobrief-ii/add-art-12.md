@@ -1,0 +1,2 @@
+# Artikel XII
+In de Wet op de belasting van personenauto's en motorrijwielen 1992 worden in artikel 9, eerste en tweede lid, de bedragen, genoemd in de vierde kolom van de tabel, bij het begin van het kalenderjaar 2018 bij ministeriële regeling verlaagd met 4,41 percent. Vervolgens worden de bedragen, genoemd in de derde kolom van de tabel, echter met uitzondering van het eerstgenoemde bedrag, dienovereenkomstig aangepast.

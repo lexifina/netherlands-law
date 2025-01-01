@@ -1,0 +1,2 @@
+# Artikel XX
+In de Wet op de belasting van personenauto's 1992 worden met ingang van 1 januari 2019 in artikel 9 de bedragen, genoemd het eerste lid, in de vierde kolom van de tabel en de bedragen, genoemd in het tweede lid, in de vierde kolom van de tabel, bij ministeriële regeling verlaagd met 7,34 percent. Vervolgens worden de bedragen, genoemd in artikel 9, eerste en tweede lid, in de derde kolom van de tabel, echter met uitzondering van het eerste bedrag, van die wet, dienovereenkomstig aangepast.

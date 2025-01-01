@@ -1,0 +1,2 @@
+# Artikel IX
+De overeenkomstig artikel VIII gewijzigde bedragen, genoemd in artikel 9, eerste en tweede lid, in de vierde kolom van de tabel, van de Wet op de belasting van personenauto's en motorrijwielen 1992, worden bij ministeriële regeling verlaagd met 0,96 percent. Vervolgens worden de bedragen, genoemd in artikel 9, eerste en tweede lid, in de derde kolom van de tabel, echter met uitzondering van het eerstgenoemde bedrag, van die wet, dienovereenkomstig aangepast.

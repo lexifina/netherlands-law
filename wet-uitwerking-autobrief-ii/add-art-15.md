@@ -1,0 +1,2 @@
+# Artikel XV
+In artikel XIV, tweede lid, worden de bedragen, genoemd in de vierde kolom van die tabel, bij het begin van het kalenderjaar 2017 vervangen door andere. De artikelen 10.1 en 10.2 van de Wet inkomstenbelasting 2001 zijn van overeenkomstige toepassing met dien verstande dat de bij het begin van het kalenderjaar 2016 gebruikte tabelcorrectiefactor wordt toegepast. Vervolgens worden het tweede en derde bedrag, genoemd in de derde kolom van die tabel, dienovereenkomstig aangepast.

@@ -1,0 +1,2 @@
+# Artikel XXIII
+In de Wet op de belasting van personenauto's en motorrijwielen 1992 worden in artikel 9, eerste en tweede lid, de bedragen, genoemd in de vierde kolom van de tabel, bij het begin van het kalenderjaar 2020 bij ministeriële regeling verlaagd met 2,80 percent. Vervolgens worden de bedragen, genoemd in het eerste en tweede lid, in de derde kolom, echter met uitzondering van het eerstgenoemde bedrag, dienovereenkomstig aangepast.
