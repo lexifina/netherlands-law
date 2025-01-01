@@ -1,0 +1,2 @@
+# Artikel XIII
+Voor de werknemer die over het laatste loontijdvak van 2022 een vergoeding genoot waarop artikel 31a, achtste lid, van de Wet op de loonbelasting 1964 zoals dat op 31 december 2022 luidde van toepassing was, blijft artikel 31a, achtste lid, tweede, derde en vierde zin, van die wet buiten toepassing tot en met uiterlijk 31 december 2025. Indien de werknemer, bedoeld in de eerste zin, op enig moment na 31 december 2022 na een onderbreking opnieuw als ingekomen werknemer wordt aangemerkt, is de eerste zin slechts tot de onderbreking van toepassing.
