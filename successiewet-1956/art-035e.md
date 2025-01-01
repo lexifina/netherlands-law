@@ -1,5 +1,5 @@
 # Artikel 35e
-1. Een verkrijger voldoet aan het voortzettingsvereiste indien gedurende de periode van vijf jaren, bedoeld in artikel 35b, vijfde lid, zich geen van de hierna genoemde gebeurtenissen voordoet:
+1. Een verkrijger voldoet aan het voortzettingsvereiste indien gedurende de periode van drie jaren, bedoeld in artikel 35b, vijfde lid, zich geen van de hierna genoemde gebeurtenissen voordoet:
 a. indien het een verkrijging betreft als bedoeld in artikel 35c, eerste lid, onderdeel a: de verkrijger houdt op uit de onderneming, of een gedeelte daarvan, winst te genieten of gaat ter zake belastbare winst genieten in de zin van artikel 3.3 van de Wet inkomstenbelasting 2001;
 b. indien het een verkrijging betreft als bedoeld in artikel 35c, eerste lid, onderdeel b: de verkrijger houdt op uit de verkregen medegerechtigdheid, of een gedeelte daarvan, winst te genieten;
 c. indien het een verkrijging betreft van vermogensbestanddelen als bedoeld in artikel 35c, eerste lid, onderdeel c:
