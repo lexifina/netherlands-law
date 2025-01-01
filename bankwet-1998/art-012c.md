@@ -1,0 +1,3 @@
+# Artikel 12c
+1. Een beoordeling of sprake is van het falen of waarschijnlijk falen van een entiteit waarop deel 3A van de Wet op het financieel toezicht van toepassing is, kan in de directie ter besluitvorming worden ingebracht door de directeur verantwoordelijk voor het toezicht op de bewuste entiteit, of door de directeur, bedoeld in artikel 12b, eerste lid. Artikel 12b, tweede lid, is niet van toepassing.
+2. Indien de directie bij besluitvorming als bedoeld in het eerste lid niet vaststelt dat sprake is van falen of waarschijnlijk falen, terwijl de directeur, bedoeld in artikel 12b, eerste lid, van oordeel is dat daarvan wel sprake is, kan deze directeur het besluit opnieuw in stemming brengen. Artikel 12b, tweede lid, is van toepassing.
