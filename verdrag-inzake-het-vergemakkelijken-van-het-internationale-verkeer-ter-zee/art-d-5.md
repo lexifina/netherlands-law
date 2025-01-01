@@ -1,0 +1,3 @@
+# D. Cargo not discharged at the port of intended destination
+5.19. Standard. Where any cargo identified on the Cargo Declaration is not discharged at the port of intended destination, public authorities shall permit amendment of the Cargo Declaration and shall not impose penalties if satisfied that the cargo was not in fact loaded on the ship, or, if loaded, was landed or is to be landed at another port.
+5.20. Standard. When, by error or for another valid reason, any cargo is discharged at a port other than the port of intended destination, public authorities shall facilitate reloading or onward movement to its intended destination. This provision does not apply to prohibited or restricted cargo.

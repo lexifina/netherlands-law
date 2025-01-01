@@ -1,0 +1,5 @@
+# C. Special facilities for marine transport of elderly and disabled passengers
+3.16. Recommended Practice. Measures should be taken to ensure that all necessary information on transport and safety is readily available for passengers who have impaired hearing or vision.
+3.17. Recommended Practice. For elderly and disabled passengers being set down or picked up at a port terminal building, reserved points should be located as close as possible to main entrances. These should be clearly marked with appropriate signs. Access routes should be free of obstacles.
+3.18. Recommended Practice. Where access to public services is limited, every effort should be made to provide accessible and reasonably priced public transportation services by adapting current and planned services or by providing special arrangements for passengers who have impaired mobility.
+3.19. Recommended Practice. Provisions of suitable facilities should be made in port terminals and on ships, as appropriate, to allow safe embarkation and disembarkation for elderly and disabled passengers.

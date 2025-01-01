@@ -1,0 +1,4 @@
+# Artikel V
+1. Geen bepaling van dit Verdrag of de daarbij behorende Bijlage mag worden uitgelegd als zijnde een beletsel voor verdergaande faciliteiten die een Verdragsluitende Regering krachtens haar nationale wet of de bepalingen van enige andere internationale overeenkomst met betrekking tot het internationale verkeer ter zee verleent of in de toekomst kan verlenen.
+2. Geen bepaling van dit Verdrag of de daarbij behorende Bijlage mag worden uitgelegd als zijnde een belemmering voor een Verdragsluitende Regering tijdelijke maatregelen toe te passen, die door die Regering noodzakelijk worden geoordeeld ter handhaving van de openbare zeden, orde en veiligheid of ter voorkoming van het binnendringen of van de verbreiding van ziekten of plagen die schadelijk zijn voor de volksgezondheid, voor dieren of voor planten.
+3. Alle aangelegenheden waarin dit Verdrag niet uitdrukkelijk voorziet blijven onderworpen aan de wetten van de Verdragsluitende Regeringen.

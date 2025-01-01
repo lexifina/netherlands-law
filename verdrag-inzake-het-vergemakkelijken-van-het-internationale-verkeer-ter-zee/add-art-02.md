@@ -1,0 +1,4 @@
+# Article II
+1. The Contracting Governments undertake to co-operate, in accordance with the provisions of the present Convention, in the formulation and application of measures for the facilitation of the arrival, stay and departure of ships. Such measures shall be, to the fullest extent practicable, not less favourable than measures applied in respect of other means of international transport; however, these measures may differ according to particular requirements.
+2. The measures for the facilitation of international maritime traffic provided for under the present Convention and its annex apply equally to the ships of coastal and non-coastal States the Governments of which are Parties to the present Convention.
+3. The provisions of the present Convention do not apply to warships or pleasure yachts.

@@ -1,0 +1,5 @@
+# E. Completion of declarations
+2.15. Recommended Practice. Public authorities should, as far as possible, accept the declarations provided for in this Annex, except as regards Standard 3.7, irrespective of the language in which the required information is made available, provided that they may require a written or oral translation into one of the official languages of the Organization when they deem it necessary.
+2.16. Not in use.
+2.16.1. Standard. Public authorities shall accept a signature, when required, by any electronic means consistent with national laws.
+2.17. Standard. Public authorities of the country of any intended port of arrival, discharge or transit shall not require any declaration relating to the ship, its cargo, stores, passengers or crew, as mentioned in this section, to be legalized, verified, authenticated or previously dealt with by any of their representatives abroad. This shall not be deemed to preclude a requirement for the presentation of a passport or other identity document of a passenger or crew member for visa or similar purposes.

@@ -1,0 +1,8 @@
+# E. Special measures of facilitation for passengers in transit
+3.36. Standard. A passenger in transit who remains on board the ship on which he or she arrived and departs with it shall not normally be subjected to routine control by public authorities except in extraordinary circumstances determined by the public authorities concerned.
+3.37. Recommended Practice. A passenger in transit should be allowed to retain his or her passport or other identity document.
+3.38. Recommended Practice. A passenger in transit who remains on board the ship on which he or she arrived and departs with it should not be required to complete a disembarkation/ embarkation card.
+3.39. Recommended Practice. A passenger in transit who is continuing his or her journey from the same port in the same ship should normally be granted temporary permission to go ashore during the ship's stay in port if he or she so wishes subject to the public authorities' admissibility and visa requirements.
+3.40. Recommended Practice. A passenger in transit who is continuing his or her journey from the same port in the same ship and does not wish to go ashore should not be required to have a visa, except in special circumstances determined by the public authorities concerned.
+3.41. Recommended Practice. A passenger in transit who is continuing his or her journey from the same port in the same ship should not normally be required to give a written Customs Declaration.
+3.42. Recommended Practice. A passenger in transit who leaves the ship at one port and embarks in the same ship at a different port in the same country should enjoy the same facilities as a passenger who arrives and departs in the same ship at the same port.

@@ -1,0 +1,2 @@
+# Article IV
+With a view to achieving the ends set forth in the preceding articles of the present Convention, the Contracting Governments undertake to co-operate with each other or through the Inter-Governmental Maritime Consultative Organization(hereinafter called the "Organization") in matters relating to formalities, documentary requirements and procedures, as well as their application to international maritime traffic.

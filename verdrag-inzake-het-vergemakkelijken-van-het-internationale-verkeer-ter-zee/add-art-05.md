@@ -1,0 +1,4 @@
+# Article V
+1. Nothing in the present Convention or its annex shall be interpreted as preventing the application of any wider facilities which a Contracting Government grants or may grant in future in respect of international maritime traffic under its national laws or the provisions of any other international agreement.
+2. Nothing in the present Convention or its annex shall be interpreted as precluding a Contracting Government from applying temporary measures considered by that Government to be necessary to preserve public morality, order and security or to prevent the introduction or spread of diseases or pests affecting public health, animals or plants.
+3. All matters that are not expressly provided for in the present Convention remain subject to the legislation of the Contracting Governments.

@@ -1,0 +1,2 @@
+# D. Consecutive calls at two or more ports in the same State
+2.14. Standard. Taking into account the procedures carried out on the arrival of a ship at the first port of call in the territory of a State, shipowners shall only be obligated to declare required information once to the public authorities of a State. The formalities and documents required by the public authorities at any subsequent port of call in that country visited without intermediate call at a port in another country shall be kept to a minimum.

@@ -1,0 +1,2 @@
+# Article XI
+The present Convention shall enter into force 60 days after the date upon which the Governments of at least 10 States have either signed it without reservation as to acceptance or have deposited instruments of acceptance or accession. It shall enter into force for a Government, which subsequently accepts it or accedes to it 60 days after the deposit of the instrument of acceptance or accession.

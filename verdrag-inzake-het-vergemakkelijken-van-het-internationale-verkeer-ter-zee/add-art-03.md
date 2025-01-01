@@ -1,0 +1,2 @@
+# Article III
+The Contracting Governments undertake to co-operate in securing the highest practicable degree of uniformity in formalities, documentary requirements and procedures in all matters in which such uniformity will facilitate and improve international maritime traffic and keep to a minimum any alterations in formalities, documentary requirements and procedures necessary to meet special requirements of a domestic nature.

@@ -1,0 +1,2 @@
+# Artikel IV
+Teneinde de in de voorgaande artikelen van dit Verdrag vervatte doeleinden te verwezenlijken, nemen de Verdragsluitende Regeringen de verplichting op zich, hetzij onderling, hetzij door tussenkomst van de Intergouvernementele Maritieme Consultatieve Organisatie(hierna te noemen de „Organisatie"), samen te werken in aangelegenheden betrekking hebbende op formaliteiten, vereiste documenten en procedures, alsmede de toepassing daarvan op het internationale verkeer ter zee.

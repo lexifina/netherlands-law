@@ -1,0 +1,12 @@
+# C. Treatment of the stowaway while on board
+4.4. General principles - Humane treatment
+4.4.1. Standard. Stowaway incidents shall be dealt with in a manner consistent with humanitarian principles, including those mentioned in Standard 4.1. Due consideration must always be given to the operational safety and security of the ship and the safety and well-being of the crew, the stowaways and any other persons present on board.
+4.4.2. Standard. Contracting Governments shall require that shipowners and masters operating ships entitled to fly their flag take appropriate measures to ensure the security, general health, welfare and safety of the stowaway while he or she is on board, including providing him or her with adequate provisioning, accommodation, proper medical attention and sanitary facilities.
+4.5. Work on board
+4.5.1. Standard. Stowaways shall not be permitted to work on board the ship, except in emergency situations or in relation to the stowaway's accommodation and provisioning on board.
+4.6. Questioning and notification by the master
+4.6.1. Standard. Contracting Governments shall require masters to take practicable steps to establish the identity, including nationality/citizenship of the stowaway and the port of embarkation of the stowaway, and to notify the existence of the stowaway along with relevant details to the public authorities of the first planned port of call. This information shall also be provided to the shipowner, public authorities at the port of embarkation, the flag State and, if necessary, subsequent ports of call.
+4.6.2. Recommended Practice. When gathering relevant details for notification, masters should use the document as specified in Appendix 3.
+4.6.3. Standard. Contracting Governments shall instruct shipowners and masters operating ships entitled to fly their flag that when a stowaway declares himself or herself to be a refugee or an asylum seeker, this information shall be treated as confidential to the extent necessary for the security of the stowaway. When stowaways declare themselves to be a refugee or an asylum seeker, information regarding the declaration or intention of the stowaway shall not be shared with public authorities of the stowaway's country of origin or of habitual residence.
+4.7. Notification to the International Maritime Organization
+4.7.1. Standard. Contracting Governments shall report all stowaway incidents of which they become aware to the Secretary-General of the International Maritime Organization, taking into account the relevant guidelines of the Organization.

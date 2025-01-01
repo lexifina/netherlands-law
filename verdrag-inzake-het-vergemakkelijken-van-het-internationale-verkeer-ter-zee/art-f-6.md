@@ -1,0 +1,2 @@
+# F. Faciliterende maatregelen voor schepen die wetenschappelijke diensten uitvoeren
+3.43. Aanbevolen werkwijze. Een schip dat wetenschappelijke diensten uitvoert heeft tijdens de reis noodzakelijkerwijs personeel aan boord dat ten behoeve van deze wetenschappelijke diensten op het schip werkzaam is. Dergelijk personeel, indien als zodanig geïdentificeerd, zou van dezelfde voorzieningen gebruik moeten kunnen maken als die worden toegestaan aan de bemanningsleden van dat schip.

@@ -1,0 +1,2 @@
+# Artikel XI
+Dit Verdrag treedt in werking zestig dagen na de datum waarop de Regeringen van ten minste tien Staten het hebben ondertekend zonder voorbehoud ten aanzien van aanvaarding, of akten van aanvaarding of toetreding hebben nedergelegd. Voor een Regering die daarna tot aanvaarding of toetreding overgaat, treedt het in werking zestig dagen na nederlegging van de akte van aanvaarding of toetreding.

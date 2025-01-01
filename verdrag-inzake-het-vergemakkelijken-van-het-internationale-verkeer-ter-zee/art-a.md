@@ -1,0 +1,43 @@
+# A. Definitions
+For the purpose of the provisions of this Annex, the following meanings shall be attributed to the terms listed:
+Actual time of arrival (ATA). The date and time when a ship first comes to rest, whether at an anchorage or at a dock, in a port.
+Actual time of departure (ATD). The date and time when a ship departs from a location, whether from an anchorage or from a dock, in a port.
+Attempted stowaway. A person who is secreted on a ship, or in cargo which is subsequently loaded on the ship, without the consent of the shipowner or the master or any other responsible person, and who is detected on board the ship before it has departed from the port.
+Authenticate. To establish and verify a claimed identity of the information provider or to verify the authenticity of the exchanged message(s).
+Cargo. Any goods, wares, merchandise and articles of every kind whatsoever carried on a ship, other than mail, ship's stores, ship's spare parts, ship's equipment, cargo transport units not carried under a contract of carriage with a shipper, crew's effects and passengers' accompanied baggage.
+Cargo transport unit (CTU). A freight container, swap-body, vehicle, railway wagon or any other similar unit.
+Clearance. Accomplishment of customs and other formalities necessary to:
+a) permit goods to be imported, to be exported or to be placed under another customs procedure (so called customs clearance);
+b) permit persons to enter the territory of a State; or
+c) permit a ship to enter or depart a port within the territory of a State.
+Crew's effects. Clothing, personal items in everyday use and other articles, which may include currency, belonging to the crew and carried on the ship.
+Crew member. Any person employed for duties on board during a voyage in the working or service of a ship and included in the Crew List.
+Cruise ship. A ship on an international voyage carrying passengers accommodated aboard, for the purpose of making scheduled temporary tourist visits at one or more different ports, and which during the voyage does not normally:
+a) embark or disembark any other passengers;
+b) load or discharge any cargo.
+Declaration. Information provided by electronic means or, in exceptional circumstances, by non-electronic means to fulfil reporting requirements in accordance with Standard 2.1.
+Estimated time of arrival (ETA). The date and time when a ship is expected to arrive at a specific geographical position, e.g. a port, an anchorage or a pilot boarding area in the vicinity of the port.
+Estimated time of departure (ETD). The date and time when a ship is expected to depart from a specific geographical position, e.g. a port or an anchorage in the vicinity of the port.
+Freight container. An article of transport equipment that is of a permanent character and accordingly strong enough to be suitable for repeated use; specially designed to facilitate the transport of goods, by one or other modes of transport, without intermediate reloading: designed to be secured and/or readily handled, having fittings for these purposes, and approved in accordance with the International Convention for Safe Containers (CSC), 1972, as amended. The term "freight container" includes neither vehicle nor packaging; however, a freight container that is carried on a chassis is included.
+Manifest. Summary of various information from bills of lading and other transport documents issued for the carriage of goods on board ships.
+Master. The person having command of a ship.
+Passenger in transit. A passenger who arrives by ship from a foreign country for the purpose of continuing his or her journey by ship or some other means of transport to a foreign country.
+Passengers' accompanied baggage. Property, which may include currency, carried for a passenger on the same ship as the passenger, whether in his or her personal possession or not, so long as it is not carried under a contract of carriage of goods or other similar agreement.
+Port. Any port, terminal/facility, offshore terminal, ship and repair yard or roadstead which is normally used for the loading, unloading of cargo, embarkation and disembarkation of passengers, repair and anchoring of ships, or any other place at which a ship can call.
+Postal items. Letter-post and parcels, as described in the Acts of the Universal Postal Union currently in force, tendered to be carried by a ship for carriage by the designated operator of the country of origin and intended for delivery to the designated operator of the country of destination in the ship's ports of call.
+Public authorities. The agencies or officials in a State responsible for the application and enforcement of the laws and regulations of that State which relate to any aspect of the Standards and Recommended Practices contained in this Annex.
+Regulated article. Plant, animal product, food product or plant product, storage place, packaging, conveyance, container, soil and any other organism, object or material capable of harbouring or spreading pests or diseases, deemed to require sanitary or phytosanitary measures, particularly where international maritime transportation is involved.
+Release. Action taken by customs authorities to permit goods undergoing clearance to be placed at the disposal of the persons concerned.
+Security measures. Measures developed and implemented in accordance with international agreements and national regulations to improve security on board ships and in port areas and facilities, and of goods moving in the international supply chain to detect and prevent unlawful acts.
+Ship agent. The party representing the ship's owner and/or charterer (the Principal) in port. If so instructed, the agent is responsible to the Principal for arranging, together with the port, a berth, all relevant port and husbandry services, tending to the requirements of the master and crew, clearing the ship with the port and other authorities (including preparation and submission of appropriate documentation) along with releasing or receiving cargo on behalf of the Principal.
+Shipowner. The owner of the ship or any other organization or person such as the manager or the bareboat charterer who has assumed the responsibility for operation of the ship, and any person acting on its behalf, excluding the ship agent.
+Ship's documents. Certificates and other documents, including those in electronic form, which must be made available by a ship's master to demonstrate the ship's compliance with international or national regulations.
+Ship's equipment. Articles, other than ship's spare parts, on board a ship for use thereon which are removable but not of a consumable nature, including accessories such as lifeboats, life-saving devices, furniture, ship's apparel and similar items.
+Ship's spare parts. Articles of a repair or replacement nature for incorporation into the ship in which they are carried.
+Ship's stores. Goods for use in the ship, including consumable goods, goods carried for sale to passengers and crew members, fuel and lubricants, but excluding ship's equipment and ship's spare parts.
+Shipper. The party named on the bill of lading or waybill as shipper and/or who concludes a contract of carriage (or in whose name or on whose behalf a contract of carriage has been concluded) with a carrier. The shipper is known also as the sender.
+Shore leave. Permission for a crew member to be ashore during the ship's stay in port within such geographical or time limits, if any, as may be decided by the public authorities.
+Single window. An environment that allows for the submission or provision of standardized and harmonized information and declarations to a single entry point, typically by electronic means.
+Stowaway. A person who is secreted on a ship, or in cargo which is subsequently loaded on the ship, without the consent of the shipowner or the master or any other responsible person and who is detected on board the ship after it has departed from a port, or in the cargo while unloading it in the port of arrival.
+Temporary admission. The customs procedure under which certain goods can be brought into a customs territory conditionally relieved, totally or partially, from payment of import duties and taxes and without application of import prohibitions or restrictions of economic character; such goods must be imported for a specific purpose and must be intended for re-exportation within a specified period and without having undergone any change except normal depreciation owing to the use made of them.
+Transport document. Information evidencing a contract of carriage between a shipowner and a shipper, such as a sea waybill, a bill of lading or a multimodal transport document.

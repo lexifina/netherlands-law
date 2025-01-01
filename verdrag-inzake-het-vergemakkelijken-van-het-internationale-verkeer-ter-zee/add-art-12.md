@@ -1,0 +1,2 @@
+# Article XII
+Three years after entry into force of the present Convention with respect to a Contracting Government, such Government may denounce it by notification in writing addressed to the Secretary-General, who shall notify all Contracting Governments of the content and date of receipt of any such notification. Such denunciation shall take effect one year, or such longer period as may be specified in the notification, after its receipt by the Secretary-General.

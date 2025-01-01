@@ -1,0 +1,6 @@
+# B. General provisions
+In conjunction with paragraph 2 of Article V of the Convention, the provisions of this Annex shall not preclude public authorities from taking such appropriate measures, including calling for further information, as may be necessary in cases of suspected fraud, or to deal with special problems constituting a grave danger to public order (ordre public), public security or public health, such as unlawful acts against the safety of maritime traffic and illicit trafficking in narcotic drugs and psychotropic substances, or to prevent the introduction or spread of diseases and their vectors or pests affecting humans, animals or plants.
+1.1 Standard.In relation to the formalities, documentary requirements and procedures on the arrival, stay and departure of ships engaged in international voyages, public authorities shall require only the minimum necessary information.
+1.1.1 Not in use.
+1.2 Not in use.
+1.3 Recommended Practice. Measures and procedures imposed by Contracting Governments for the purposes of security or preventing the trafficking of narcotics should be efficient. Such measures and procedures (e.g. risk management and cross-checking of information) should be implemented in such a manner as to cause a minimum of interference with, and to prevent unnecessary delays to, ships, cargo and persons or property on board.

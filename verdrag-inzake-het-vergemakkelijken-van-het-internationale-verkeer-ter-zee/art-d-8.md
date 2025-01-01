@@ -1,0 +1,2 @@
+# D. Achtereenvolgens aandoen van twee of meer havens in dezelfde Staat
+2.14. Norm. Rekening houdend met de procedures die worden toegepast bij aankomst van een schip in de eerste aanloophaven op het grondgebied van een Staat, worden reders uitsluitend verplicht de gevraagde informatie één keer bij het openbaar gezag van een Staat te verklaren. De formaliteiten en documenten die door het openbaar gezag worden verlangd in elke volgende aanloophaven die in dat land wordt aangedaan zonder dat eerst een haven in een ander land wordt aangedaan, worden tot een minimum beperkt.
