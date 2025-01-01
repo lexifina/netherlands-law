@@ -32,4 +32,5 @@
 ### § 7.3. Informatie
 ## Hoofdstuk 7a. Overgangsrecht
 ## Hoofdstuk 7b. Tegemoetkoming door onze minister in verband met hoge energiekosten
+## Hoofdstuk 7c. Tegemoetkoming in verband met alleenverdienersproblematiek
 ## Hoofdstuk 8. Slotbepalingen
