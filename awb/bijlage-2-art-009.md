@@ -39,4 +39,4 @@ Wet structuur uitvoeringsorganisatie werk en inkomen, met uitzondering van artik
 Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen
 Wet werk en inkomen naar arbeidsvermogen
 Ziektewet
-Zorgverzekeringswet: de artikelen 9b, 9c, 18f, 18g, 69 en 70, behalve voor zover op grond van artikel 18f, eerste lid, in samenhang met artikel 18d of 18e, een besluit is genomen over de verschuldigdheid van de bestuursrechtelijke premie of de hoogte daarvan
+Zorgverzekeringswet: de artikelen 9b, 9c, 18f, 18g, 68b, 69 en 70, behalve voor zover op grond van artikel 18f, eerste lid, in samenhang met artikel 18d of 18e, een besluit is genomen over de verschuldigdheid van de bestuursrechtelijke premie of de hoogte daarvan

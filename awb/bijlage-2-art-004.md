@@ -61,8 +61,8 @@ Wet geneesmiddelenprijzen, met uitzondering van artikel 11 en met inbegrip van e
 Wet gewasbeschermingsmiddelen en biociden, met uitzondering van de artikelen 90 en 108
 Wet uitvoering EU-handelingen energie-efficiëntie, met uitzondering van de artikelen 21 en 22
 Wet inkomstenbelasting 2001:
-a. de artikelen 3.37, eerste lid, en 3.42, eerste lid, voor zover het betreft een besluit van Onze Minister van Economische Zaken en Klimaat, en
-b. artikel 3.52a, eerste, tweede en elfde lid, voor zover het betreft een besluit van Onze Minister van Economische Zaken en Klimaat, met uitzondering van een boetebesluit als bedoeld in het elfde lid en een daarmee samenhangende correctie-RDA-beschikking als bedoeld in het tweede lid
+a. de artikelen 3.31, eerste lid, en 3.42a, eerste lid, voor zover het betreft een besluit van Onze Minister van Infrastructuur en Waterstaat
+b. de artikelen 3.37, eerste lid, en 3.42, eerste lid, voor zover het betreft een besluit van Onze Minister van Economische Zaken en Klimaat
 Wet langdurige zorg: artikel 11.4.1 en artikel 11.4.2
 Wet luchtvaart: de artikelen 8.25ea, vierde lid, 8.25f, tweede, vierde en vijfde lid, 8.25g, eerste lid, 8.40f, vierde lid, en 8.40g, tweede, vierde en vijfde lid
 Wet marktordening gezondheidszorg, met uitzondering van beschikkingen van de Nederlandse Zorgautoriteit als bedoeld in paragraaf 4 van hoofdstuk 6
