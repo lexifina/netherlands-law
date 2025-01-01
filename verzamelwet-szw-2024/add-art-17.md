@@ -1,0 +1,2 @@
+# Artikel XVII
+[Vervallen.]
