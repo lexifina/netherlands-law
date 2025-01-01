@@ -1,3 +1,0 @@
-# Inhoud
-## Terugblik projectactiviteiten
-## Vooruitblik
