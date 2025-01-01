@@ -1,0 +1,3 @@
+# Artikel XXXV
+1. Bij de toekenning van een tegemoetkoming als bedoeld in artikel 14 van de Algemene wet inkomensafhankelijke regelingen blijft op verzoek van de belanghebbende het bestanddeel van het toetsingsinkomen buiten beschouwing dat het gevolg is van de verlening van bijstand aan zelfstandigen bij of krachtens artikel 78f van de Participatiewet die eerst in de vorm van een renteloze geldlening is verstrekt en daarna is omgezet in een bedrag om niet.
+2. Een verzoek als bedoeld in het eerste lid kan uitsluitend betrekking hebben op tegemoetkomingen over de berekeningsjaren 2014, 2015 of 2016 en kan worden gedaan tot en met 30 juni 2020.
