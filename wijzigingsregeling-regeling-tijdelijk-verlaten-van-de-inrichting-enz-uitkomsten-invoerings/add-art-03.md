@@ -1,0 +1,2 @@
+# Artikel III. Overgangsrecht
+Artikel I heeft geen gevolgen ten aanzien van beslissingen tot het verlenen van kortdurend re-integratieverlof of langdurend re-integratieverlof die zijn genomen voor 1 januari 2025 en die zien op verlof na 1 januari 2025. De Regeling tijdelijk verlaten van de inrichting zoals deze luidde voor de inwerkingtreding van deze wijziging, blijft in deze gevallen van toepassing.
