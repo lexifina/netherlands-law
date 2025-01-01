@@ -1,0 +1,3 @@
+# Artikel III
+1. Het recht zoals dat gold voor het tijdstip van inwerkingtreding van deze wet blijft van toepassing ten aanzien van zaken waarin een vordering als bedoeld in de artikelen 336 lid 1, 338 lid 1, 342 lid 1 en 343 lid 1 van Boek 2 van het Burgerlijk Wetboek is ingesteld en waarin het exploot van dagvaarding rechtsgeldig is betekend voor dat tijdstip.
+2. Het recht zoals dat gold voor het tijdstip van inwerkingtreding van deze wet blijft van toepassing ten aanzien van zaken waarin een verzoek als bedoeld in de artikelen 343c lid 1 en 345 lid 1 van Boek 2 van het Burgerlijk Wetboek is ingediend voor dat tijdstip.
