@@ -1,5 +1,0 @@
-# Artikel 37a
-Onze Minister weigert de subsidie voor het deel waarvoor:
-a. reeds eerder subsidie op grond van dit besluit is vastgesteld voor een sanering van hetzelfde geval van verontreiniging of, op grond van artikel 10, voor hetzelfde afzonderlijke gedeelte van het geval van verontreiniging;
-b. uit andere hoofde een overheidsbijdrage voor de bodemsaneringsactiviteiten is of zal worden verstrekt;
-c. op het moment van de beslissing omtrent verlening reeds een aanvang is gemaakt met de uitvoering van de sanering waarvoor subsidie is aangevraagd.
