@@ -1,4 +1,0 @@
-# Artikel 17n. Experiment flexstuderen; bevoegdheden van het instellingsbestuur
-1. Met inachtneming van dit besluit richt het bestuur van een deelnemende instelling het experiment flexstuderen naar eigen inzicht in.
-2. Het bestuur van een deelnemende instelling kan in verband met de uitvoering van het experiment flexstuderen afwijken van de verplichting jegens een deelnemende student tot het bieden van financiële ondersteuning, bedoeld in de artikelen 7.51 tot en met 7.51i van de wet, indien die ondersteuning in verband met de deelname van de student aan het experiment flexstuderen niet nodig is.
-3. Het bestuur van een deelnemende instelling kan in verband met de uitvoering van het experiment flexstuderen de wijze van betalen van het collegegeld, bedoeld in artikel 17b, derde lid, regelen.
