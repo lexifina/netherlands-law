@@ -1,0 +1,2 @@
+# Artikel 253a
+Degene die een voorwerp met een uiterlijke verschijningsvorm van een kind of van een lichaamsdeel van een kind dat de leeftijd van zestien jaren nog niet heeft bereikt, dat bestemd is om seksuele handelingen mee te verrichten, verspreidt, aanbiedt, openlijk tentoonstelt, vervaardigt, invoert, doorvoert, uitvoert, verwerft of in bezit heeft, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
