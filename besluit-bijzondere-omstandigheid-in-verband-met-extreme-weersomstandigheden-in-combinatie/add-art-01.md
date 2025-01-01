@@ -1,2 +1,0 @@
-# Artikel I. Verlenging uitrijdperiode drijfmest op grasland
-Vanwege extreme weersomstandigheden in combinatie met een landbouwkundige noodzaak en het zich daarom voordoen van een bijzondere omstandigheid als bedoeld in artikel 4.1188, derde lid, van het Besluit activiteiten leefomgeving en artikel 19.0 van de Omgevingswet, wordt in afwijking van genoemd artikel 4.1188, eerste en tweede lid, drijfmest op grasland in 2024 niet na 15 september op of in de bodem gebracht.
