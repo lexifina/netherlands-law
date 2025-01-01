@@ -1,0 +1,3 @@
+# Artikel 195a
+1. Als degene die over bepaalde gegevens beschikt, geen partij is bij de rechtsbetrekking waarop deze gegevens betrekking hebben, kan de rechter op verzoek van de partij die daar ingevolge artikel 194, eerste lid, eerste volzin, recht op heeft, deze derde veroordelen tot het verstrekken van inzage, afschrift of uittreksel van die gegevens. De artikelen 194, eerste lid, tweede volzin, tweede, derde en vierde lid, en artikel 195 zijn van overeenkomstige toepassing.
+2. Voordat de rechter beslist op het verzoek, bedoeld in het eerste lid, roept de rechter de verzoeker, de derde en de wederpartij van de verzoeker in de hoofdzaak op voor de mondelinge behandeling van het verzoek. Artikel 279, tweede lid, is op de oproeping van overeenkomstige toepassing.

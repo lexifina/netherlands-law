@@ -25,10 +25,11 @@
 ##### § 2. Akten en vonnissen
 ##### § 3. Openlegging van boeken, bescheiden en geschriften
 ##### § 4. Getuigen
-##### § 5. Voorlopig getuigenverhoor
-##### § 6. Deskundigen
-##### § 7. Plaatsopneming en bezichtiging
-##### § 8. Voorlopig bericht of verhoor van deskundigen, voorlopige plaatsopneming en bezichtiging
+##### § 5. Deskundigen
+##### § 6. Plaatsopneming en bezichtiging
+##### § 7. Inzage, afschrift of uittreksel van gegevens
+##### § 8. Voorlopige bewijsverrichtingen
+##### § 9. Maatregelen tot bescherming van bewijs
 #### afdeling Tiende. Incidentele vorderingen
 ##### § 1. Algemene bepalingen
 ##### § 2. Vrijwaring
@@ -134,8 +135,7 @@
 ##### § 3. Nevenvoorzieningen
 ##### § 4. Ontbinding van een geregistreerd partnerschap
 ### titel Zevende. Enige bijzondere rechtsplegingen
-#### afdeling Eerste. Afschrift, uittreksel en inzage van akten en andere bewijsmiddelen
-#### Afdeling 1A. Toegang tot bescheiden in zaken betreffende schending van mededingingsrecht
+#### afdeling Eerste. Toegang tot gegevens in zaken betreffende schending van mededingingsrecht
 #### afdeling Tweede. Van gerechtelijke bewaring
 ### titel Negende. Van de formaliteiten, vereist voor de tenuitvoerlegging van in vreemde Staten tot stand gekomen executoriale titels
 #### afdeling Eerste. Algemene bepalingen
