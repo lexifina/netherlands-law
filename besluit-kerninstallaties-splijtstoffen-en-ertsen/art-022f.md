@@ -1,0 +1,4 @@
+# Artikel 22f
+1. De houder van een vergunning voor een inrichting als bedoeld in artikel 15, onder b, van de wet, voert het evaluatieprogramma, bedoeld in artikel 22a, eerste lid, onder g, uit.
+2. De houder van een vergunning voor een inrichting als bedoeld in artikel 15, onder b, van de wet beoordeelt het beveiligingspakket jaarlijks op doeltreffendheid en meldt binnen een maand na die beoordeling de resultaten ervan aan de Autoriteit.
+3. De houder van een vergunning voor een inrichting als bedoeld in artikel 15, onder b, van de wet, wijzigt het beveiligingspakket voor zover de resultaten van de in het tweede lid bedoelde beoordeling daartoe aanleiding geven. Hij biedt de wijziging binnen een jaar na het ontstaan van de aanleiding tot wijziging ter goedkeuring aan de Autoriteit aan. Artikel 22c, derde lid, is van overeenkomstige toepassing.

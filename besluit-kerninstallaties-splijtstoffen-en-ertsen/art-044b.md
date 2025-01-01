@@ -1,0 +1,3 @@
+# Artikel 44b
+1. De houder van een vergunning voor het in werking brengen of het in werking houden van een inrichting als bedoeld in artikel 15, onder b, van de wet actualiseert de wijze waarop financiële zekerheid is gesteld nadat het ontmantelingsplan of een wijziging daarvan door de Autoriteit is goedgekeurd of wanneer Onze Minister of Onze Minister van Financiën dit nodig acht.
+2. De vergunninghouder, bedoeld in het eerste lid, dient binnen zes maanden na goedkeuring van het ontmantelingsplan onderscheidenlijk binnen zes maanden nadat Onze Minister of Onze Minister van Financiën kenbaar heeft gemaakt actualisatie van de wijze waarop financiële zekerheid is gesteld, nodig te achten, een aanvraag om goedkeuring van de geactualiseerde financiële zekerheid in.

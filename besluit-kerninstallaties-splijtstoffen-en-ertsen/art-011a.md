@@ -1,0 +1,4 @@
+# Artikel 11a
+In gevallen waarin de vergunning betrekking heeft op het oprichten of wijzigen van een inrichting als bedoeld in artikel 15, onder b, van de wet, dat tevens is aan te merken als een omgevingsplanactiviteit als bedoeld in artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet, bestaande uit een bouwactiviteit of het in stand houden van een bouwwerk, of een omgevingsvergunning voor een bouwactiviteit als bedoeld in artikel 5.1, tweede lid, aanhef en onder a, van de Omgevingswet, verstrekt de aanvrager:
+a. indien de aanvraag om die omgevingsvergunning tegelijk met de aanvraag om de vergunning krachtens de wet is ingediend, een afschrift van die aanvraag bij zijn aanvraag;
+b. indien de aanvraag om die omgevingsvergunning niet tegelijk met de aanvraag om de vergunning krachtens de wet is ingediend, een afschrift van die aanvraag aan het bevoegd gezag gelijktijdig met de indiening van die aanvraag.

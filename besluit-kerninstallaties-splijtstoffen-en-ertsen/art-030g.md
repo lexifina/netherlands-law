@@ -1,0 +1,2 @@
+# Artikel 30g
+De vergunninghouder stelt de kosten die hij in rekening brengt voor het in werking houden van een inrichting waarin splijtstoffen worden opgeslagen als bedoeld in artikel 15, onder b, van de wet, die op grond van artikel 42, derde lid, onderdeel e, door de Autoriteit is aangewezen, vast op een transparante, objectieve en niet-discriminerende wijze. Tot de kosten behoren ook kosten die de vergunninghouder maakt voor onderzoek en ontwikkeling voor het beheer van verbruikte splijtstoffen, zoals dit in het nationaal programma, bedoeld in artikel 40a, is opgenomen.

@@ -1,0 +1,3 @@
+# Artikel 44c
+1. Gelijktijdig met de aanvraag om een vergunning voor het buiten gebruik stellen en het ontmantelen van een inrichting als bedoeld in artikel 15, onder b, van de wet wordt een aanvraag ingediend om goedkeuring voor de wijze waarop financiële zekerheid wordt gesteld.
+2. Indien het eerste lid van toepassing is, wordt in afwijking van artikel 44a, tweede lid, onder a, bij het overzicht van de verschillende kostenposten voor de buitengebruikstelling en de ontmanteling uitgegaan van het ontmantelingsplan zoals dat is ingediend bij de aanvraag om een vergunning voor het buiten gebruik stellen en het ontmantelen van de inrichting.
