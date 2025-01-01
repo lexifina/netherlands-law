@@ -30,7 +30,6 @@
 ### Afdeling a1. Kleine producenten van alcoholhoudende dranken
 ### Afdeling 1. Accijnszegels
 ### Afdeling 2. Controlebepalingen
-### Afdeling 2A. Wijziging van de accijns van minerale oliën
 ### Afdeling 3. Overige bepalingen
 ## Hoofdstuk VII. Verbodsbepalingen en strafbepalingen
 ### Afdeling 1. Verbodsbepalingen
