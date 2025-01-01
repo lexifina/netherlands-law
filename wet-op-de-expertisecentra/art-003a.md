@@ -1,6 +1,6 @@
 # Artikel 3a. Bevoegdheid onderwijsondersteunende werkzaamheden
 1. Onderwijsondersteunende werkzaamheden als bedoeld in artikel 32a, derde lid, mogen slechts worden verricht door degene die:
-a. in het bezit is van een verklaring omtrent het gedrag, afgegeven ingevolge de Wet justitiële en strafvorderlijke gegevens,
+a. in het bezit is van een verklaring omtrent het gedrag,
 b. in het bezit is van een getuigschrift afgegeven krachtens de Wet op het hoger onderwijs en wetenschappelijk onderzoek of de Wet educatie en beroepsonderwijs, waaruit blijkt dat is voldaan aan de in artikel 32a, derde lid, bedoelde bekwaamheidseisen of
 c. in het bezit is van een erkenning van beroepskwalificaties als bedoeld in artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties, verleend ten aanzien van de door hem te verrichten werkzaamheden, of
 d. volgens bij algemene maatregel van bestuur te geven regels zijn bekwaamheid heeft aangetoond, en
