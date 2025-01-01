@@ -1,5 +1,5 @@
 # Artikel 6c
-1. Het RIVM heeft, onverminderd het bepaalde bij of krachtens andere wetten, tot taak om namens Onze Minister werkzaamheden te verrichten bij de bestrijding van infectieziekten.
+1. Het RIVM heeft, onverminderd het bepaalde bij of krachtens andere wetten, tot taak om namens Onze Minister werkzaamheden te verrichten bij de bestrijding van infectieziekten, waaronder het voeren van de landelijke regie en het laten verrichten van activiteiten, zo nodig onder bij regeling van Onze Minister te stellen eisen, op het terrein van de bestrijding van seksueel overdraagbare aandoeningen in samenhang met seksuele gezondheidszorg.
 2. Het RIVM verwerkt de persoonsgegevens waaronder gegevens over gezondheid als bedoeld in artikel 4, onderdeel 15 van de Algemene verordening gegevensbescherming die noodzakelijk zijn voor de uitvoering van de taak, bedoeld in het eerste lid.
 3. Het RIVM verwerkt op grond van het eerste lid slechts persoonsgegevens indien daarop pseudonimisering als bedoeld in artikel 4, onderdeel 5 van de Algemene verordening gegevensbescherming, is toegepast en vervolgens onafgebroken is gecontinueerd.
 4. Artikel 21, eerste lid, tweede volzin, van de Algemene verordening gegevensbescherming is bij de verwerking door het RIVM niet van toepassing.
