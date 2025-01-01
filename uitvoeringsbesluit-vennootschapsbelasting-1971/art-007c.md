@@ -1,0 +1,2 @@
+# Artikel 7c
+Ten aanzien van belastingplichtigen wier winst wordt bepaald over een niet met het kalenderjaar samenvallend boekjaar gelden de bedragen die ingevolge artikel 10.1 van de Wet inkomstenbelasting 2001 bij het begin van een kalenderjaar de in de artikelen 3.41, 3.42 en 3.47 van die wet vermelde bedragen vervangen, voor het eerst met betrekking tot het boekjaar dat met of in het kalenderjaar aanvangt.
