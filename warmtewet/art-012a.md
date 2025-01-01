@@ -1,6 +1,6 @@
 # Artikel 12a
 1. De vergunninghouder voert een afzonderlijke boekhouding met betrekking tot de levering van warmte en, indien van toepassing, voor de levering van koude.
-2. De vergunninghouder publiceert een jaarrekening en een bestuursverslag overeenkomstig titel 9 van Boek 2 van het Burgerlijk Wetboek.
+2. De vergunninghouder publiceert een jaarrekening en een bestuursverslag overeenkomstig titel 9 van Boek 2 van het Burgerlijk Wetboek, met uitzondering van de artikelen 395a, 396, 397 en 403 van deze titel.
 3. Het bestuursverslag, bedoeld in het tweede lid, bevat tevens betrouwbare en op een inzichtelijke wijze vorm gegeven informatie over:
 a. de door de vergunninghouder bij verbruikers in rekening gebrachte prijs;
 b. de integrale kosten en opbrengsten die verband houden met de levering van warmte, en
