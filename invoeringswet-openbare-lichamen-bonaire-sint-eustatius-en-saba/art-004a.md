@@ -1,0 +1,2 @@
+# Artikel 4a
+In wettelijke regelingen en voorschriften zoals deze van toepassing zijn in de openbare lichamen wordt geen onderscheid gemaakt ten aanzien van de publiekrechtelijke rechtsgevolgen van huwelijken of geregistreerd partnerschappen voltrokken op grond van het in het Europese deel van Nederland geldende Burgerlijk Wetboek, en huwelijken, gesloten op grond van Boek 1 van het Burgerlijk Wetboek BES in een van de openbare lichamen.
