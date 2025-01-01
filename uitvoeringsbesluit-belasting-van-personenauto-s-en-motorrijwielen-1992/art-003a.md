@@ -1,0 +1,9 @@
+# Artikel 3a
+1. Vrijstelling van belasting wordt verleend voor motorrijtuigen die zijn ingeschreven in het buitenland en die vanuit dat land voor een periode van ten hoogste twee weken in Nederland ter beschikking staan van een in Nederland wonende natuurlijke persoon en zijn inwonende gezinsleden, of van een in Nederland gevestigd lichaam.
+2. De vrijstelling wordt slechts verleend indien:
+a. de in het eerste lid bedoelde persoon en zijn inwonende gezinsleden, onderscheidenlijk het in het eerste lid bedoelde lichaam, met het motorrijtuig geen gebruik hebben, onderscheidenlijk heeft, gemaakt van de weg in de twaalf maanden voorafgaand aan de periode van terbeschikkingstelling in Nederland; en
+b. een beroep op de vrijstelling wordt gedaan vóór aanvang van het gebruik van de weg met het motorrijtuig, door middel van een elektronische melding.
+3. De vrijstelling wordt verleend aan de in het eerste lid bedoelde natuurlijke persoon onderscheidenlijk het in het eerste lid bedoelde lichaam.
+4. Indien voor een motorrijtuig waarvoor een beroep op de vrijstelling is gedaan niet of niet langer wordt voldaan aan een in het eerste of tweede lid genoemde voorwaarde, stelt degene aan wie de vrijstelling is verleend de inspecteur daarvan onverwijld in kennis.
+5. Indien de in Nederland wonende natuurlijke persoon of een inwonend gezinslid van deze persoon, onderscheidenlijk het in Nederland gevestigde lichaam, met het motorrijtuig opnieuw gebruikmaakt van de weg in de vijftig weken volgend op de periode van twee weken, bedoeld in het eerste lid, wordt de hernieuwde aanvang van het gebruik van de weg aangemerkt als de aanvang van het gebruik van de weg, bedoeld in artikel 1, zesde lid, van de wet.
+6. Indien het beroep op de vrijstelling, bedoeld in het tweede lid, onderdeel b, elektronisch wordt ingetrokken vóór de dag waarop volgens het elektronische beroep op de vrijstelling het gebruik van de weg aanvangt, geldt het beroep als niet gedaan.

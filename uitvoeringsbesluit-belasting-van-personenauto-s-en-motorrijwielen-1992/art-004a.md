@@ -1,0 +1,7 @@
+# Artikel 4a
+1. De in artikel 14a, eerste lid, van de wet bedoelde teruggaaf wordt slechts verleend indien:
+a. het motorrijtuig is gebracht naar de andere lidstaat van de Europese Unie, dan wel de staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, waar het motorrijtuig is ingeschreven en op het moment van het vervallen van de tenaamstelling in het kentekenregister blijkens dit register niet wordt aangemerkt als motorrijtuig bestemd voor sloop of motorrijtuig dat wacht op keuring;
+b. het motorrijtuig op het moment, bedoeld in onderdeel a, niet voldoet aan de definitie van schadevoertuig in de zin van de Regeling voertuigen en degene op wiens naam het motorrijtuig te naam was gesteld direct voorafgaand aan het vervallen van die tenaamstelling in het kentekenregister dit bij het verzoek, bedoeld in onderdeel c, verklaart;
+c. het verzoek om teruggaaf wordt gedaan binnen dertien weken na het vervallen van de tenaamstelling in het kentekenregister; en
+d. bij het verzoek bescheiden worden overgelegd waaruit blijkt dat het motorrijtuig is ingeschreven in een andere lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en, indien de inspecteur daarom verzoekt, bescheiden worden overgelegd waaruit blijkt dat het motorrijtuig naar die lidstaat, onderscheidenlijk die staat, is gebracht.
+2. De teruggaaf wordt door de inspecteur bij voor bezwaar vatbare beschikking verleend.
