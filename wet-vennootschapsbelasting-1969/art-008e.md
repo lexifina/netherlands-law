@@ -1,5 +1,5 @@
 # Artikel 8e
-1. Bij het bepalen van de winst van een lichaam als bedoeld in artikel 2, eerste lid, onderdeel g, of tweede lid, dan wel artikel 3, derde lid, blijven buiten aanmerking voordelen uit:
+1. Bij het bepalen van de winst van een lichaam als bedoeld in artikel 2, eerste lid, onderdeel g, of tweede lid, dan wel artikel 3, derde lid, onderdeel a, blijven buiten aanmerking voordelen uit:
 a. activiteiten verricht voor:
 1°. het lichaam zelf;
 2°. een privaatrechtelijk overheidslichaam van het lichaam;

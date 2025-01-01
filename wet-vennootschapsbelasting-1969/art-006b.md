@@ -8,4 +8,4 @@ b. onderwijs geven of onderzoek verrichten, mits dat onderwijs, onderscheidenlij
 4°. buitenlandse bijdragen die naar aard en strekking overeenkomen met de bijdragen, bedoeld onder 2° of 3°;
 5°. verplichte ouderbijdragen voor het volgen van onderwijs aan een afdeling als bedoeld in artikel 85a van de Wet op het primair onderwijs of voor het volgen van cursussen als bedoeld in artikel 4.28 van de Wet voortgezet onderwijs 2020; of
 6°. bijdragen van algemeen nut beogende instellingen waarvoor geen contractuele tegenprestatie wordt gevraagd.
-2. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld voor de toepassing van het eerste lid op lichamen als bedoeld in artikel 2, eerste lid, onderdelen a, b en e, en artikel 3, eerste lid, niet zijnde een lichaam als bedoeld in artikel 3, derde lid.
+2. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld voor de toepassing van het eerste lid op lichamen als bedoeld in artikel 2, eerste lid, onderdelen a, b en e, en artikel 3, eerste lid, niet zijnde een lichaam als bedoeld in artikel 3, derde lid, onderdeel a.
