@@ -1,0 +1,6 @@
+# Artikel 6c
+1. Het verbruik, bedoeld in artikel 2, negende lid, van de wet, van minerale oliën als brandstof voor het produceren of verwerken van minerale oliën, dient te blijken uit de administratie.
+2. Als verbruik als brandstof voor het produceren of verwerken van minerale oliën wordt aangemerkt het verbruik voor de energielevering aan bijeenbehorende productie-installaties waar, anders dan door vermenging, ten minste 30 percent van de geproduceerde of verwerkte producten minerale oliën zijn.
+3. De als brandstof voor de energielevering ingezette minerale oliën kunnen bij voorrang worden toegerekend aan de energie-afname van de in het tweede lid bedoelde bijeenbehorende productie-installaties.
+4. Voor de toerekening bij voorrang wordt uitgegaan van een energiebalans per maand per productielocatie. Een productielocatie kan zowel de minerale oliën afdeling als de petrochemische afdeling omvatten.
+5. In de energiebalans worden opgenomen de binnen de productielocatie opgewekte hoeveelheid energie en de hoeveelheid en de soort van de daartoe aangewende brandstoffen, alsmede de hoeveelheid afgegeven energie en alle productie-eenheden waaraan de energie is afgegeven, onderscheiden in die waarin in enigszins betekenende mate minerale oliën worden geproduceerd of verwerkt en andere productie-eenheden.

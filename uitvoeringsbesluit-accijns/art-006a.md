@@ -1,0 +1,8 @@
+# Artikel 6a
+1. De overbrenging, bedoeld in artikel 2e, eerste lid, van de wet, van reeds tot verbruik uitgeslagen accijnsgoederen vanuit een andere lidstaat naar Nederland geschiedt onder dekking van een e-VAD.
+2. De persoon die de accijnsgoederen vergezelt toont desgevraagd de VARC op ieder moment van de overbrenging aan de inspecteur.
+3. Bij ontvangst van de accijnsgoederen op de in het EMCS vastgelegde plaats van bestemming in Nederland zendt de gecertificeerde geadresseerde onverwijld en uiterlijk binnen vijf werkdagen na het eindigen van de overbrenging, bedoeld in artikel 2e, zevende lid, van de wet, een bericht van ontvangst via het EMCS aan de inspecteur. Het zenden van een bericht van ontvangst is niet nodig in ten genoegen van de inspecteur naar behoren gerechtvaardigde gevallen.
+4. Indien de gegevens in het bericht van ontvangst door de inspecteur niet in orde zijn bevonden, draagt de gecertificeerde geadresseerde zorg voor aanpassing van de gegevens en dient hij het bericht van ontvangst onverwijld opnieuw in.
+5. Indien de gegevens in het bericht van ontvangst door de inspecteur in orde zijn bevonden, ontvangt de gecertificeerde geadresseerde een bevestiging van de registratie van het bericht van ontvangst.
+6. Het in orde bevonden bericht van ontvangst geldt als afdoende bewijs dat de gecertificeerde geadresseerde alle noodzakelijke formaliteiten heeft vervuld en de verschuldigde accijns in Nederland op aangifte heeft voldaan, tenzij de accijnsgoederen zijn vrijgesteld van accijns.
+7. Het eerste tot en met zesde lid zijn niet van toepassing op het vervoer van andere minerale oliën dan bedoeld in artikel 5, vierde lid, van de wet.

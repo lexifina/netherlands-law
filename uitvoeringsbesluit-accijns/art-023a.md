@@ -1,0 +1,3 @@
+# Artikel 23a
+1. Teruggaaf van accijns voor minerale oliën die worden gebruikt voor het opwekken van elektriciteit in een installatie met een elektrisch vermogen van minimaal 60 kilowatt, wordt verleend aan degene die de minerale oliën overeenkomstig het vorenstaande heeft gebruikt.
+2. Het gebruik van de minerale oliën dient te blijken uit de administratie van de gebruiker. Uit deze administratie dient eveneens te blijken dat de opgewekte elektriciteit op een Nederlands net als bedoeld in artikel 69a, tweede lid, van de wet, is ingevoed dan wel, indien geen invoeding op een Nederlands net heeft plaatsgevonden, dat die elektriciteit overeenkomstig artikel 50, derde lid, van de Wet belastingen op milieugrondslag in de heffing van energiebelasting is betrokken.

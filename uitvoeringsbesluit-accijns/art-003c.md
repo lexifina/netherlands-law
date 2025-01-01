@@ -1,0 +1,13 @@
+# Artikel 3c
+1. In afwijking van artikel 2 en 3a kan de in artikel 2, eerste lid, bedoelde vergunninghouder van de accijnsgoederenplaats onderscheidenlijk de in artikel 3a, eerste lid, bedoelde geregistreerde afzender, hierna de afzender genoemd, wanneer het EMCS niet beschikbaar is in Nederland, een overbrenging van accijnsgoederen onder een accijnsschorsingsregeling aanvangen op voorwaarde dat:
+a. de accijnsgoederen vergezeld gaan van het nooddocument;
+b. hij de inspecteur informeert voordat de overbrenging aanvangt; en
+c. hij vóór de aanvang van de overbrenging een kopie van het in onderdeel a bedoelde document op verzoek overlegt aan de inspecteur.
+2. Indien het EMCS niet beschikbaar was om aan de afzender toe te schrijven redenen, worden die redenen afdoend vermeld.
+3. Wanneer het EMCS opnieuw beschikbaar komt, dient de afzender een voorlopig e-AD in overeenkomstig artikel 2, tweede lid, onderscheidenlijk artikel 3a, tweede lid.
+4. Zodra de gegevens in het voorlopig e-AD overeenkomstig artikel 2, vierde lid, onderscheidenlijk artikel 3a, tweede lid, in orde bevonden zijn, vervangt dit document het document, bedoeld in het eerste lid, onderdeel a.
+5. Zolang de gegevens in het e-AD niet in orde zijn bevonden, wordt de overbrenging geacht plaats te vinden onder een accijnsschorsingsregeling onder dekking van het document, bedoeld in het eerste lid, onderdeel a.
+6. Een kopie van het document, bedoeld in het eerste lid, onderdeel a, wordt door de afzender ter staving van zijn administratie bewaard.
+7. Indien het EMCS niet beschikbaar is in Nederland, verstrekt de afzender de in artikel 2, achtste lid, onderscheidenlijk artikel 3a, derde lid, bedoelde informatie met behulp van andere communicatiemiddelen. Hij informeert daartoe de inspecteur voordat de bestemming van de overbrenging wordt gewijzigd. De informatie wordt weergegeven in de vorm van gegevenselementen, die op dezelfde wijze als in het voorlopig bericht van bestemmingswijziging, worden uitgedrukt. Het derde tot en met zesde lid zijn van overeenkomstige toepassing.
+8. Indien het EMCS niet beschikbaar is in Nederland, verstrekt de afzender de in artikel 2, elfde lid, onderscheidenlijk artikel 3a, vierde lid, bedoelde informatie met behulp van andere communicatiemiddelen. Hij informeert daartoe de inspecteur voordat de overbrenging wordt gesplitst. De informatie wordt weergegeven in de vorm van gegevenselementen, die op dezelfde wijze als in het voorlopig bericht van splitsing worden uitgedrukt. Het derde tot en met zesde lid zijn van overeenkomstige toepassing.
+9. In de gevallen, bedoeld in artikel 2a, eerste lid, onderdelen d en f, van de wet, verstrekt de afzender een kopie van het nooddocument, bedoeld in het eerste lid, onderdeel a, aan de aangever.
