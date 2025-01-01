@@ -1,0 +1,2 @@
+# Artikel V
+Een verordening als bedoeld in artikel 150, eerste lid, van de Gemeentewet, 147, eerste lid, van de Provinciewet, 79, eerste lid, van de Waterschapswet of 154 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba die gold voorafgaand aan het tijdstip van inwerkingtreding van deze wet, behoudt haar rechtskracht tot uiterlijk twee jaar na dat tijdstip of bij eerdere intrekking van de verordening, tot de datum van intrekking.
