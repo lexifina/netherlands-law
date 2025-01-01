@@ -16,5 +16,6 @@ De voordracht voor die algemene maatregel van bestuur wordt niet eerder gedaan d
 a. artikel 1 van de Leerplichtwet 1969;
 b. artikel 1 de Les- en cursusgeldwet;
 c. artikel 1.1 van de Wet studiefinanciering 2000;
-d. artikel 1.1 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
+d. artikel 1.1 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten; en
+e. de hoofdstukken 1 tot en met 4 van de Wet NLQF.
 7. Dit artikel is van overeenkomstige toepassing op een samenwerkingsverband tussen een instelling en een school als bedoeld in de Wet voortgezet onderwijs 2020 of een instelling als bedoeld in de Wet op het hoger onderwijs en wetenschappelijk onderzoek. Bij samenwerking met een school als bedoeld in de Wet voortgezet onderwijs 2020 kan voor die school worden afgeweken van de Wet voortgezet onderwijs 2020, met uitzondering van hoofdstuk 3, paragrafen 7 en 10, en de hoofdstukken 4, 6 en 9 van die wet. Bij de algemene maatregel van bestuur, bedoeld in het tweede lid, wordt geregeld welke bij of krachtens de Wet voortgezet onderwijs 2020 onderscheidenlijk de Wet op het hoger onderwijs en wetenschappelijk onderzoek vastgestelde voorschriften van toepassing of van overeenkomstige toepassing zijn op de samenwerking.
