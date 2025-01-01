@@ -1,0 +1,2 @@
+# Artikel V
+Deze wet treedt in werking met ingang van 1 mei 2024 met uitzondering van artikel I dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, met uitzondering van artikel II, onderdeel B, dat in werking treedt met ingang van 1 juli 2024 en met uitzondering van artikel IV dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
