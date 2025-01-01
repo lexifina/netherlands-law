@@ -1,2 +1,0 @@
-# Artikel 1c
-Wanneer categorie I-materiaal, categorie II-materiaal of categorie III-materiaal niet onder persoonlijk toezicht staat, zijn de beveiligingsmaatregelen van een vergunninghouder 15, onder a, Kew zodanig dat elektronische detectie van een poging tot diefstal of misbruik plaatsvindt en dat vanaf dat moment maatregelen werkzaam zijn die leiden tot ten minste 10 minuten vertraging in de tijd die iemand nodig heeft om wederrechtelijk de beschikking te krijgen over dit materiaal.
