@@ -5,7 +5,6 @@
 ### § 1. Het recht op ouderdomspensioen en toeslag
 ### § 2. Toekenning, ingang, intrekking, herziening en betaling van het ouderdomspensioen
 ### § 3. Vakantie-uitkering
-### § 4. Inkomensondersteuning in aanvulling op het ouderdomspensioen
 ## Hoofdstuk IV. De vrijwillige verzekering
 ## Hoofdstuk V. Gemoedsbezwaren
 ## Hoofdstuk VI. Informatieverplichtingen
