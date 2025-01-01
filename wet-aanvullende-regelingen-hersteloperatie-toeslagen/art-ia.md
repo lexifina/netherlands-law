@@ -1,0 +1,3 @@
+# Artikel Ia
+1. Onze Minister zendt, in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid, Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister van Binnenlandse zaken, binnen één jaar na de inwerkingtreding van artikel I, onderdeel EEa, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van hoofdstuk 4a van de Wet hersteloperatie toeslagen in de praktijk.
+2. Naar aanleiding van de evaluatie van deze wet kan bij algemene maatregel van bestuur de kring van betrokkenen op wie hoofdstuk 4a van de Wet hersteloperatie toeslagen van toepassing is, worden uitgebreid.
