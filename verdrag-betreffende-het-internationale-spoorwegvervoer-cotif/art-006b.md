@@ -1,0 +1,2 @@
+# Article 6b. Reconnaissance des tests techniques et fonctionnels
+La Commission d'experts techniques peut adopter des règles destinées à être incluses dans une annexe aux présentes Règles uniformes et des spécifications destinées à être incluses dans une ou plusieurs PTU concernant les dispositions relatives aux inspections techniques, aux fichiers de maintenance des véhicules admis et aux tests fonctionnels tels que les essais de freinage de train, et leur reconnaissance mutuelle.
