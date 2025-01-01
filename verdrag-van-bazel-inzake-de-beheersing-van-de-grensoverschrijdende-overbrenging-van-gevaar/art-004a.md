@@ -1,0 +1,3 @@
+# Article 4A
+1. Each Party listed in Annex VII shall prohibit all transboundary movements of hazardous wastes which are destined for operations according to Annex IV A, to States not listed in Annex VII.
+2. Each Party listed in Annex VII shall phase out by 31 December 1997, and prohibit as of that date, all transboundary movements of hazardous wastes under Article 1, paragraph 1 (a) of the Convention which are destined for operations according to Annex IV B to States not listed in Annex VII. Such transboundary movements shall not be prohibited unless the wastes in question are characterized as hazardous under the Convention.
