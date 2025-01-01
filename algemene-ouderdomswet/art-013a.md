@@ -1,3 +1,3 @@
 # Artikel 13a
 1. Artikel 13, eerste lid, is niet van toepassing op de vrouwelijke pensioengerechtigde voor elk kalenderjaar dat zij in de periode van 1 januari 1957 tot 1 april 1985 niet verzekerd was, doordat zij in Nederland woonde en gehuwd dan wel gehuwd geweest was met een persoon, die in die periode niet verzekerd was.
-2. Artikel 13, eerste lid, is niet van toepassing op de pensioengerechtigde voor elk kalenderjaar dat zijn echtgenoot in de periode van 1 januari 1957 tot 1 april 1985 niet verzekerd was, doordat die echtgenoot in Nederland woonde en gehuwd dan wel gehuwd geweest was met een persoon, die in die periode niet verzekerd was.
+2. Artikel 13, tweede lid, is niet van toepassing op de pensioengerechtigde voor elk kalenderjaar dat zijn echtgenoot in de periode van 1 januari 1957 tot 1 april 1985 niet verzekerd was, doordat die echtgenoot in Nederland woonde en gehuwd dan wel gehuwd geweest was met een persoon, die in die periode niet verzekerd was.
