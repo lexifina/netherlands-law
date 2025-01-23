@@ -1,0 +1,2 @@
+# Artikel 8a. Vergoeding voor een risicoanalyse volgens de supplement toetsing 2024
+De minister verstrekt op aanvraag aan een bedrijf een vergoeding voor het beoordelen van installaties met gebruikmaking van de supplement toetsing 2024 volgens de Procesbeschrijving, als het bedrijf gelegen is op een locatie waar de piekgrondversnelling vanaf 1 oktober 2021 ten minste 0,05g is, berekend en vastgesteld bij een herhalingstijd van 475 jaar.
