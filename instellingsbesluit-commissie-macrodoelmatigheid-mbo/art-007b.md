@@ -1,0 +1,3 @@
+# Artikel 7b. Procedure vaststellen advies kleinschalige en unieke beroepsopleidingen
+1. Waar het gaat om de taken, bedoeld in artikel 2, tweede lid, onderdeel e, legt de commissie haar oordeel naar aanleiding van een onderzoek vast in een advies aan de minister.
+2. De commissie zendt uiterlijk 8 weken na ontvangst van het signaal, bedoeld in artikel 8 van de beleidsregel dit advies aan de minister. Indien het advies niet binnen 8 weken kan worden toegezonden, stelt de commissie de minister daarvan in kennis. De minister bepaalt in overleg met de commissie de termijn waarbinnen het rapport alsnog aan de minister wordt toegezonden.
