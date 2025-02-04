@@ -31,6 +31,7 @@ b. alsmede, voor zover het betreft een besluit van de Autoriteit Consument en Ma
 3. hoofdstuk 15, met uitzondering van de artikelen 15.2, 15.2a en 15.4.
 Uitvoeringswet cyberbeveiligingsverordening
 Uitvoeringswet datagovernanceverordening: artikel 8
+Uitvoeringswet digitaledienstenverordening: paragraaf 2.2
 Uitvoeringswet EU-zeehavenverordening: artikel 9, eerste lid
 Verordening (EU) nr. 806/2014 van het Europees parlement en de Raad van 15 juli 2014 tot vaststelling van eenvormige regels en een eenvormige procedure voor de afwikkeling van kredietinstellingen en bepaalde beleggingsondernemingen in het kader van een gemeenschappelijk afwikkelingsmechanisme en een gemeenschappelijk bankenafwikkelingsfonds en tot wijziging van Verordening (EU) nr. 1093/2010 van het Europees parlement en de Raad (PbEU 2014, L 225), met uitzondering van de artikelen 16, 18 en 21
 Verordening (EU) 2021/23 van het Europees Parlement en de Raad van 16 december 2020 betreffende een kader voor het herstel en de afwikkeling van centrale tegenpartijen en tot wijziging van de Verordeningen (EU) nr. 1095/2010, (EU) nr. 648/2012, (EU) nr. 600/2014, (EU) nr. 806/2014 en (EU) 2015/2365, en de Richtlijnen 2002/47/EG, 2004/25/EG, 2007/36/EG, 2014/59/EU en (EU) 2017/1132 (PbEU 2021, L 22), met uitzondering van de artikelen de artikelen 21 tot en met 58

@@ -1,5 +1,5 @@
 # Artikel 126na
 1. In geval van verdenking van een misdrijf kan de opsporingsambtenaar in het belang van het onderzoek een vordering doen gegevens te verstrekken terzake van naam, adres, postcode, woonplaats, nummer en soort dienst van een gebruiker van een communicatiedienst. Artikel 126n, tweede lid, is van toepassing.
 2. Indien de gegevens, bedoeld in het eerste lid, bij de aanbieder niet bekend zijn en zij nodig zijn voor de toepassing van artikel 126m of artikel 126n kan de officier van justitie in het belang van het onderzoek vorderen dat de aanbieder de gevorderde gegevens op bij algemene maatregel van bestuur te bepalen wijze achterhaalt en verstrekt.
-3. In geval van een vordering als bedoeld in het eerste of tweede lid is artikel 126n, vierde lid, onder a, b, c en d, van overeenkomstige toepassing en blijft artikel 126bb buiten toepassing.
+3. In geval van een vordering als bedoeld in het eerste of tweede lid is artikel 126n, vierde lid, onder a, b, c en d, van overeenkomstige toepassing en blijft artikel 126bb, eerste tot en met vierde lid, buiten toepassing.
 4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de wijze waarop de gegevens door de opsporingsambtenaar of de officier van justitie worden gevorderd.
