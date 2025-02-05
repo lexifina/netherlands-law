@@ -1,0 +1,3 @@
+# Artikel 4a
+1. Onze Minister kan de doorvoer van niet-communautaire goederen voor tweeërlei gebruik verbieden, als deze goederen bestemd zijn voor één van de doeleinden, bedoeld in artikel 4, eerste lid, onderdeel a, van de Verordening producten voor tweeërlei gebruik. Voordat Onze Minister de doorvoer verbiedt, kan hij een vergunningplicht opleggen.
+2. Onze Minister kan besluiten dat een vergunning is vereist voor de overbrenging van producten voor tweeërlei gebruik vanuit Nederland naar een andere lidstaat van de Europese Unie indien op het tijdstip van de overbrenging voldaan wordt aan de eisen, bedoeld in artikel 11, tweede lid, van de Verordening producten voor tweeërlei gebruik.
