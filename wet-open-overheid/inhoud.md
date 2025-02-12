@@ -1,5 +1,5 @@
 # Inhoud
-## Hoofdstuk I. Rechten
+## Hoofdstuk 1. Rechten
 ## Hoofdstuk 2. Algemene bepalingen
 ## Hoofdstuk 3. Openbaarmaking uit eigen beweging
 ## Hoofdstuk 4. Openbaarmaking op verzoek
