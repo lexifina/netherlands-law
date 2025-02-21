@@ -1,0 +1,2 @@
+# Artikel 27a
+Als bewijs van verworven vakbekwaamheid als bedoeld in de artikelen 3, eerste lid, 8, eerste lid, 13, eerste lid, 18, eerste lid, en 23, eerste lid, geldt tevens een in het land van oorsprong afgegeven verklaring van de opleidingsinstelling waar de betreffende opleiding met goed gevolg is afgerond, waaruit blijkt dat de aanvrager heeft voldaan aan de in die artikelen bedoelde opleidingseisen en waaruit blijkt wanneer de betreffende opleiding is afgerond.
