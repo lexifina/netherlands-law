@@ -1,0 +1,11 @@
+# Artikel 52b
+1. De voorwaarden, verbonden aan een leverings- of transportovereenkomst met een afnemer als bedoeld in artikel 43, eerste lid, zijn transparant, eerlijk en vooraf bekend. De voorwaarden worden in ieder geval voor het sluiten van de overeenkomst verstrekt en zijn gesteld in duidelijke en begrijpelijke taal.
+2. Leveranciers zorgen ervoor dat afnemers als bedoeld in artikel 43, eerste lid, te allen tijde transparante informatie kunnen krijgen over de geldende tarieven en voorwaarden voor levering en transport van gas.
+3. Het is verboden voor de houder van een vergunning om op zodanige wijze afnemers als bedoeld in artikel 43, eerste lid, te benaderen dat onduidelijkheid bestaat over het feit dat een contract is afgesloten, de duur van het contract, de voorwaarden voor verlenging en beëindiging van het contract, het bestaan van een recht op opzegging en de voorwaarden van opzegging.
+4. Een contract, gesloten in strijd met het bepaalde bij of krachtens dit artikel is vernietigbaar.
+5. Een leverancier biedt een afnemer als bedoeld in artikel 43, eerste lid, ten minste een overeenkomst voor de levering van gas voor een onbepaalde duur aan.
+6. Indien de afnemer als bedoeld in artikel 43, eerste lid, geen uitdrukkelijke keuze maakt voor een overeenkomst voor bepaalde duur, wordt hij geacht gekozen te hebben voor een overeenkomst voor onbepaalde duur.
+7. Een afnemer als bedoeld in artikel 43, eerste lid, kan elke overeenkomst tot levering van gas beëindigen met inachtneming van een termijn van dertig dagen.
+8. Indien sprake is van een overeenkomst voor bepaalde duur, kan de leverancier in deze overeenkomst opnemen dat bij tussentijdse beëindiging van de overeenkomst de afnemer een redelijke vergoeding is verschuldigd. Indien sprake is van een overeenkomst voor onbepaalde duur, kan een dergelijke vergoeding niet in de overeenkomst worden opgenomen.
+9. Bij ministeriële regeling worden ter implementatie van de richtlijn nadere regels gesteld over bescherming van afnemers als bedoeld in artikel 43, eerste lid.
+10. Leveranciers voorzien afnemers van een door de Europese Commissie vastgesteld overzicht met praktische informatie inzake de rechten van afnemers en stellen dit overzicht algemeen beschikbaar.

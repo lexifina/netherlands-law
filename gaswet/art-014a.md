@@ -1,0 +1,4 @@
+# Artikel 14a
+1. Behoudens artikel 15 is een LNG-bedrijf verplicht, in voorkomend geval tezamen met een verwant bedrijf, aan degene die daarom verzoekt een aanbod te doen met behulp van de door hem beheerde LNG-installatie en van één of meer installaties van het verwante bedrijf, ten behoeve van verzoeker LNG-activiteiten en de die activiteiten ondersteunende diensten uit te voeren. Het aanbod bevat een tarief, berekend op basis van een berekeningsmethodiek die, en tegen voorwaarden die, in overeenstemming zijn met die welke overeenkomstig artikel 13 door de Autoriteit Consument en Markt zijn goedgekeurd.
+2. Een LNG-bedrijf hanteert voorwaarden die redelijk, transparant en niet-discriminatoir zijn.
+3. De artikelen 236 en 237 van Boek 6 van het Burgerlijk Wetboek zijn mede van toepassing op voorwaarden in overeenkomsten met afnemers als bedoeld in artikel 43, eerste lid, die rechtspersoon zijn of handelen in de uitoefening van een beroep of bedrijf.

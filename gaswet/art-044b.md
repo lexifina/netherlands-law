@@ -1,0 +1,7 @@
+# Artikel 44b
+1. Een leverancier heeft ten aanzien van een afnemer als bedoeld in artikel 43, eerste lid, tot taak de door deze afnemer verschuldigde bedragen voor de uitvoering van de bij of krachtens deze wet aan de netbeheerder opgedragen taken te factureren en innen. De leverancier brengt hiervoor geen kosten in rekening aan de netbeheerder.
+2. Het eerste lid is niet van toepassing op bedragen die zijn gebaseerd op tarieven met een eenmalig karakter.
+3. De betaling door een afnemer als bedoeld in artikel 43, eerste lid, aan een leverancier van de overeenkomstig het eerste en tweede lid gefactureerde bedragen geldt als bevrijdende betaling.
+4. Rechtsvorderingen tot betaling van de door de leverancier overeenkomstig het eerste en tweede lid gefactureerde bedragen verjaren door verloop van twee jaren. Indien de leverancier een vordering tot betaling van een schuld van een afnemer ter zake van de uitvoering van taken als bedoeld in het eerste lid, niet heeft gedaan binnen twee jaren nadat de vordering opeisbaar is geworden, vervalt het recht om betaling te vorderen.
+5. Een leverancier draagt per periode de overeenkomstig het eerste lid gefactureerde of te factureren bedragen af aan de desbetreffende netbeheerder.
+6. Bij ministeriële regeling worden regels gesteld over de omvang en het moment van de afdracht, bedoeld in het vijfde lid, ten behoeve van een gelijkmatige afdracht aan de netbeheerders.

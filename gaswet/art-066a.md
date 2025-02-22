@@ -1,0 +1,4 @@
+# Artikel 66a
+Indien dat noodzakelijk is in het belang van een voldoende transparante en liquide markt voor vraag en aanbod van gas, transportcapaciteit, opslagcapaciteit of productiecapaciteit of in het belang van de daarmee verband houdende leveringszekerheid, zullen bij of krachtens algemene maatregel van bestuur regels worden gesteld over:
+a. de wijze waarop of de voorwaarden waaronder producenten, gasopslagbedrijven, LNG-bedrijven, handelaren, leveranciers of netbeheerders gas, transportcapaciteit, opslagcapaciteit of productiecapaciteit waarover zij beschikken, aanbieden;
+b. de informatie die producenten, gasopslagbedrijven, LNG-bedrijven, handelaren, leveranciers of netbeheerders verstrekken met betrekking tot de vraag en aanbod van gas, transportcapaciteit, opslagcapaciteit of productiecapaciteit.

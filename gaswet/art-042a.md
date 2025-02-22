@@ -1,0 +1,5 @@
+# Artikel 42a
+1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de eisen waaraan een meetinrichting, die moet voldoen aan dit artikel, ten minste voldoet, welke eisen kunnen verschillen per categorie afnemers.
+2. De in het eerste lid bedoelde algemene maatregel van bestuur stelt ten minste eisen betreffende de functionaliteiten van de meetinrichting.
+3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels wordt gesteld over meetinrichtingen, waaronder in elk geval regels over de installatie van meetinrichtingen en regels over de administratie in verband met het vervangen, installeren of verwijderen van meetinrichtingen.
+4. De voordracht voor een krachtens dit artikel vast te stellen algemene maatregel van bestuur wordt niet gedaan dan nadat het ontwerp in de Staatscourant is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister van Economische Zaken en Klimaat te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd.

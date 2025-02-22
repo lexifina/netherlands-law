@@ -1,0 +1,5 @@
+# Artikel 3b
+1. Een netbeheerder, met uitzondering van de netbeheerder van het landelijk gastransportnet, beschikt over de economische eigendom van het door hem beheerde gastransportnet.
+2. Bij gelegenheid van een aanwijzing als bedoeld in artikel 2, achtste lid, vindt voor zover nodig overdracht van de economische eigendom aan de aangewezen netbeheerder plaats.
+3. De overdracht geschiedt tegen verrichting van een tegenprestatie waarvan de waarde ten hoogste de opbrengst vertegenwoordigt van de exploitatie van het gastransportnet, zoals deze op basis van algemene bedrijfseconomische uitgangspunten kan worden afgeleid van de in de daaraan voorafgaande periode van vijf jaar geldende tarieven met betrekking tot het netbeheer. Deze tegenprestatie kan zowel bestaan uit een periodieke uitkering als uit een contant bedrag ineens.
+4. De netbeheerder van het landelijk gastransportnet of een tot de groep als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek waarvan de netbeheerder van het landelijk gastransportnet deel uitmaakt behorende vennootschap beschikt over de eigendom van het landelijk gastransportnet.

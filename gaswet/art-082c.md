@@ -1,0 +1,9 @@
+# Artikel 82c
+1. Indien een netbeheerder een experiment uitvoert en op grond van artikel 82a een tarief in rekening brengt bij de deelnemers van het experiment, doet de netbeheerder voor 1 oktober aan de Autoriteit Consument en Markt op basis van geschatte kosten, voor zover de kosten doelmatig zijn en niet toegerekend kunnen worden aan de uitvoering van de taken genoemd in artikelen 10, 10a en 42, een voorstel voor de tarieven voor dit experiment.
+2. Indien een netbeheerder een tijdelijke taak uitvoert en op grond van artikel 82b een tarief in rekening brengt bij de afnemers ten behoeve waarvan de netbeheerder de tijdelijke taak uitvoert, doet de netbeheerder voor 1 oktober aan de Autoriteit Consument en Markt op basis van de geschatte kosten, voor zover de kosten doelmatig zijn en niet toegerekend kunnen worden aan de uitvoering van de taken genoemd in artikelen 10, 10a en 42, een voorstel voor de tarieven voor deze tijdelijke taak.
+3. De Autoriteit Consument en Markt stelt de tarieven, bedoeld in het eerste lid, jaarlijks vast. De tarieven voor:
+a. experimenten kunnen per experiment en voor de verschillende afnemers die deelnemen aan het experiment verschillen;
+b. tijdelijke taken kunnen per tijdelijke taak verschillen voor de verschillende afnemers ten behoeve waarvan een netbeheerder de tijdelijke taak uitvoert.
+4. Indien een voorstel niet tijdig aan de Autoriteit Consument en Markt is gezonden, stelt deze de tarieven voor de desbetreffende netbeheerder uit eigen beweging vast.
+5. De Autoriteit Consument en Markt toetst bij het vaststellen van de tarieven, bedoeld in het eerste en tweede lid, of de tarieven objectief, transparant en niet-discriminatoir zijn en of deze gebaseerd zijn op werkelijke kosten.
+6. Artikel 81c, tweede lid, onderdelen a tot en met d, is van overeenkomstige toepassing.
