@@ -1,0 +1,7 @@
+# Artikel 9c
+1. Voor het volgende werk van provinciaal belang stellen gedeputeerde staten in ieder geval een projectbesluit als bedoeld in afdeling 5.2 van de Omgevingswet vast: de aanleg of uitbreiding van een productie-installatie voor opwekking van duurzame elektriciteit met behulp van windenergie met een capaciteit van ten minste 5 MW maar minder dan 100 MW, met inbegrip van de aansluiting van die installatie op een net.
+2. Bij algemene maatregel van bestuur kan per provincie een minimumrealisatienorm worden vastgesteld.
+3. In afwijking van het eerste lid kunnen gedeputeerde staten bepalen dat de projectprocedure, bedoeld in afdeling 5.2 van de Omgevingswet, niet van toepassing is, indien is voldaan aan de minimumrealisatienorm, bedoeld in het tweede lid.
+4. In afwijking van het eerste lid kunnen gedeputeerde staten besluiten geen projectbesluit vast te stellen als naar hun oordeel besluitvorming door een bestuursorgaan van een gemeente het project kan versnellen of daaraan anderszins aanmerkelijke voordelen zijn verbonden, en het college van burgemeester en wethouders van de betreffende gemeente daarmee instemmen.
+5. Gedeputeerde staten geven tegelijk met of zo snel mogelijk na de bekendmaking van een besluit als bedoeld in het vierde lid kennis van dat besluit op de in artikel 12 van de Bekendmakingswet bepaalde wijze en doen mededeling van dat besluit door toezending daarvan aan de initiatiefnemer.
+6. Het vijfde lid is van overeenkomstige toepassing als een besluit als bedoeld in het vierde lid wordt ingetrokken.

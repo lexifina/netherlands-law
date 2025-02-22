@@ -1,0 +1,4 @@
+# Artikel 11b
+1. Een netbeheerder die deel uitmaakt van een groep als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek stelt een reglement vast, waarin regels worden gesteld die beogen discriminatie bij de uitoefening van zijn taken en bevoegdheden op grond van deze wet te voorkomen. Het reglement bevat in ieder geval regels ten aanzien van het gedrag van werknemers die ertoe strekken dat discriminatie als bedoeld in de vorige volzin wordt voorkomen.
+2. De netbeheerder draagt er zorg voor dat elke werknemer is gebonden aan het reglement en ziet er op toe dat het reglement nauwgezet wordt nageleefd.
+3. De netbeheerder stelt jaarlijks een verslag op over de wijze waarop uitvoering is gegeven aan het reglement, en welke maatregelen in dat kader zijn genomen. Hij zendt het verslag naar de Autoriteit Consument en Markt en draagt zorg voor publicatie ervan op een geschikte wijze.

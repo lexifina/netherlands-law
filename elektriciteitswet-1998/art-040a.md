@@ -1,0 +1,2 @@
+# Artikel 40a
+De tarieven voor de meting van elektriciteit bij afnemers als bedoeld in artikel 95a, eerste lid, als bedoeld in artikel 30a, worden vastgesteld door de Autoriteit Consument en Markt na overleg met de gezamenlijke netbeheerders en met representatieve organisaties van partijen op de elektriciteitsmarkt. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot procedure tot vaststelling van de tarieven voor de meting van elektriciteit bij afnemers als bedoeld in artikel 95a, eerste lid en de wijze van berekening van deze tarieven.
