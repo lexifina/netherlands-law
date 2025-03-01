@@ -1,0 +1,4 @@
+# Artikel 6a
+1. De Autoriteit Financiële Markten verstrekt, indien zij deelneemt aan een samenwerkingsverband als bedoeld in de Wet gegevensverwerking door samenwerkingsverbanden, in afwijking van de artikelen 2, tweede lid, 3, derde lid, aan het samenwerkingsverband gegevens behorend tot de in hoofdstuk 2 van de Wet gegevensverwerking door samenwerkingsverbanden of bij algemene maatregel van bestuur op grond van die wet aangewezen categorieën, voor zover dat noodzakelijk is voor het doel van dat samenwerkingsverband, tenzij naar het oordeel van de Autoriteit Financiële Markten zwaarwegende redenen zich daartegen verzetten.
+2. Indien voor de verstrekking aan bepaalde partijen op grond van artikel 6 bijzondere regels gelden, geschiedt de in het eerste lid bedoelde verstrekking steeds met inachtneming van die regels.
+3. Bij algemene maatregel van bestuur kunnen voorwaarden en beperkingen worden gesteld aan de verstrekkingen op grond van dit artikel.
