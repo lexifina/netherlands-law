@@ -1,0 +1,4 @@
+# Artikel 56a
+1. De Nederlandsche Bank verstrekt, indien zij deelneemt aan een samenwerkingsverband als bedoeld in de Wet gegevensverwerking door samenwerkingsverbanden, aan het samenwerkingsverband gegevens of inlichtingen verkregen bij de vervulling van de haar ingevolge deze wet opgedragen taak, en behorend tot de in hoofdstuk 2 van die wet of bij algemene maatregel van bestuur op grond van die wet aangewezen categorieën, voor zover dat noodzakelijk is voor het doel van dat samenwerkingsverband, tenzij naar het oordeel van De Nederlandsche Bank zwaarwegende redenen zich daartegen verzetten.
+2. Indien voor de verstrekking aan bepaalde partijen op grond van de artikelen 56, 57 en 58 bijzondere regels gelden, geschiedt de in het eerste lid bedoelde verstrekking steeds met inachtneming van die regels.
+3. Bij algemene maatregel van bestuur kunnen voorwaarden en beperkingen worden gesteld aan de verstrekkingen op grond van dit artikel.
