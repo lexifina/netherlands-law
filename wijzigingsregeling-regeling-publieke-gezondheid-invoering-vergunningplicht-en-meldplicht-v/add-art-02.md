@@ -1,0 +1,2 @@
+# Artikel II
+Een op het tijdstip van inwerkingtreding van deze regeling reeds gedane melding bij de Inspectie gezondheidszorg en jeugd in haar hoedanigheid als National Authority for Containment als bedoeld in artikel 36, eerste lid, onderdeel d, van de Gezondheidswet ten behoeve van certificering in het kader van de in die bepaling genoemde resolutie, geldt als een ingediende aanvraag als bedoeld in artikel 14a, eerste lid, van de Regeling publieke gezondheid.
