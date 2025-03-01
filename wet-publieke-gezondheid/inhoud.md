@@ -6,6 +6,7 @@
 ### § 3. Ouderengezondheidszorg
 ### § 4. Infectieziektebestrijding
 ### § 5. Bevolkingsonderzoek
+### § 6. Vergunning- en meldplicht ten aanzien van poliovirus
 ## Hoofdstuk III. Landelijke en gemeentelijke nota gezondheidsbeleid
 ## Hoofdstuk IV. Gemeentelijke gezondheidsdiensten
 ## Hoofdstuk V. Bijzondere bepalingen infectieziektebestrijding

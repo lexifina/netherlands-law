@@ -1,0 +1,3 @@
+# Artikel 12i
+1. Bij algemene maatregel van bestuur kan worden bepaald dat eenieder die bij die maatregel aangewezen handelingen verricht met bij die maatregel aangewezen typen poliovirus, daarvan melding doet aan Onze Minister.
+2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over het bepaalde in het eerste lid, waaronder regels over de bij een melding te verstrekken gegevens en over de termijn waarbinnen een melding moet worden gedaan. Tevens kan daarbij, in afwijking van artikel 2:15, eerste lid, van de Algemene wet bestuursrecht, worden bepaald dat de melding uitsluitend op elektronische wijze plaatsvindt en kunnen daarbij nadere eisen worden gesteld aan het gebruik van de elektronische weg.
