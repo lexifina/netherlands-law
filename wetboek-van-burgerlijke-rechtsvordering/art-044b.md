@@ -1,0 +1,4 @@
+# Artikel 44b
+1. De Europese Commissie kan, niet optredende als partij, schriftelijke opmerkingen maken ingevolge artikel 39, derde lid, van verordening (EU) 2022/1925 van het Europees Parlement en de Raad van 14 september 2022 over betwistbare en eerlijke markten in de digitale sector, en tot wijziging van Richtlijnen (EU) 2019/1937 en (EU) 2020/1828 (digitalemarktenverordening) (PbEU 2022, L 265), indien deze de wens daartoe te kennen heeft gegeven. Met toestemming van de rechter kan de Europese Commissie ook mondelinge opmerkingen maken.
+2. Op een verzoek ingevolge artikel 39, vierde lid, van de verordening, genoemd in het eerste lid, verstrekt de rechter aan de Europese Commissie de in die bepaling bedoelde stukken. Partijen kunnen binnen een door de rechter te bepalen termijn hun mening over de te verstrekken stukken geven.
+3. Partijen kunnen binnen een door de rechter te bepalen termijn op de opmerkingen van de Europese Commissie reageren.
