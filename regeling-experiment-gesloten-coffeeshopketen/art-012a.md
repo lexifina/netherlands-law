@@ -1,0 +1,2 @@
+# Artikel 12a. (vernietiging wegens overschrijding grenswaarden)
+Indien uit een controle als bedoeld in artikel 28, tweede lid, van het besluit blijkt dat de gecontroleerde hennep of hasjiesj niet voldoet aan de in bijlage III bij deze regeling opgenomen grenswaarden voor zware metalen, aflatoxines of micro-organismen, wordt de batch, mengbatch of hasjiesj waaruit het gecontroleerde monster is genomen, onverwijld door de aangewezen teler vernietigd.
