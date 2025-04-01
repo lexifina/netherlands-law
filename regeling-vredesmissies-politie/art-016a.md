@@ -1,0 +1,2 @@
+# Artikel 16a
+Indien een politieambtenaar, of indien deze is overleden de weduwe of weduwnaar van wie de overleden persoon niet duurzaam gescheiden leefde of de daarmee gelijkgestelde persoon, bedoeld in artikel 1, tweede lid, van het Besluit algemene rechtspositie politie, schade lijdt doordat de levensverzekering die hij ten behoeve van een hypotheek heeft gesloten niet of niet geheel tot uitbetaling komt doordat de verzekeraar een molestclausule inroept, staat de Minister van Justitie en Veiligheid ervoor in dat deze schade wordt vergoed tot een maximum van 400.000 euro.
