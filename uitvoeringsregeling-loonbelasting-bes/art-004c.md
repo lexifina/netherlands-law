@@ -1,0 +1,3 @@
+# Artikel 4c
+1. De inhoudingsplichtige verstrekt binnen drie maanden na afloop van het kalenderjaar aan de inspecteur een verzamelloonstaat. Indien de inhoudingsplicht in de loop van het kalenderjaar eindigt, verstrekt de inhoudingsplichtige de verzamelloonstaat binnen een maand na het einde van de inhoudingsplicht.
+2. De verzamelloonstaat wordt opgemaakt op de door de inspecteur voorgeschreven wijze en overeenkomstig het door de inspecteur verstrekte model. De inhoudingsplichtige mag een van het model van de inspecteur afwijkende verzamelloonstaat gebruiken, mits deze ten minste de mogelijkheid biedt op duidelijke wijze dezelfde gegevens te administreren als het model.

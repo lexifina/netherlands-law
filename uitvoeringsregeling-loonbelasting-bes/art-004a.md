@@ -1,0 +1,12 @@
+# Artikel 4a
+1. De inhoudingsplichtige legt voor iedere werknemer voor de eerste loonverstrekking in het kalenderjaar een loonstaat aan en houdt deze vervolgens bij. De loonstaat wordt opgemaakt overeenkomstig het door de inspecteur verstrekte model. De inhoudingsplichtige mag een van het model afwijkende loonstaat gebruiken, mits deze ten minste de mogelijkheid biedt op duidelijke wijze dezelfde gegevens te administreren als het model.
+2. De inhoudingsplichtige wordt in ieder geval geacht aan het eerste lid te voldoen ingeval hij met behulp van elektronische apparatuur alle van belang zijnde gegevens vastlegt en hij die gegevens op elk gewenst tijdstip op schrift in de vorm van een van de loonstaten, bedoeld in het eerste lid, ter inzage kan verstrekken.
+3. De inspecteur kan onder door hem te stellen voorwaarden ermee instemmen dat de inhoudingsplichtige de op de loonstaat te vermelden gegevens op een andere wijze administreert. De instemming kan te allen tijde worden ingetrokken indien de administratie niet zodanig is ingericht dat een deugdelijke controle gewaarborgd is.
+4. De inhoudingsplichtige ontleent de in het hoofd van de loonstaat te vermelden gegevens aan:
+a. de laatstelijk door de werknemer verstrekte loonbelastingverklaring; of
+b. de door de werknemer verstrekte opgave van het door de inspecteur aan de werknemer toegekende identificatienummer, bedoeld in artikel 8.86, negende lid, van de Belastingwet BES.
+5. In afwijking van het vierde lid, aanhef en onderdeel a, vermeldt de inhoudingsplichtige in het hoofd van de loonstaat de gegevens die hem bekend zijn:
+a. indien hij weet dat informatie in de laatstelijk door de werknemer verstrekte loonbelastingverklaring onjuist is;
+b. zolang de werknemer geen loonbelastingverklaring heeft verstrekt.
+6. De inhoudingsplichtige houdt, behalve in de gevallen, bedoeld in artikel 9, eerste lid, van de Wet loonbelasting BES, de belasting in aan de hand van de gegevens die zijn vermeld in het hoofd van de loonstaat.
+7. De inhoudingsplichtige houdt de loonadministratie op de plaats waar hij op de BES eilanden kantoor houdt of, indien zodanig kantoor niet wordt gehouden, op de plaats waar hij op de BES eilanden woont of gevestigd is, of op de plaats waar hij op de BES eilanden een vaste inrichting voor de uitoefening van zijn bedrijf of beroep of een op de BES eilanden wonende of gevestigde vaste vertegenwoordiger heeft. Bij gebreke daarvan houdt hij de loonadministratie onder zijn berusting. De inspecteur kan een andere plaats aanwijzen.
