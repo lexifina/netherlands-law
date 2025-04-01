@@ -1,0 +1,3 @@
+# Artikel 2a
+1. Het is verboden te handelen in strijd met artikel 2, eerste en tweede lid, artikel 8, eerste lid, en artikel 9 van Verordening (EU) nr. 2021/1275 van de Raad van de Europese Unie van 30 juli 2021 betreffende beperkende maatregelen in het licht van de situatie in Libanon (PbEU 2021, LI 277).
+2. Het verbod te handelen in strijd met artikel 2, eerste lid en tweede lid, van Verordening (EU) nr. 2021/1275, geldt niet in gevallen waarin artikel 3, eerste lid, artikel 4, eerste, tweede of derde lid, artikel 5, eerste lid, artikel 6, eerste lid, of artikel 7 van Verordening (EU) nr. 2021/1275 van toepassing is.
