@@ -1,0 +1,2 @@
+# Artikel 2d
+Aan de ambtenaar, bedoeld in artikel 2, onderdeel a, van de Politiewet 2012, die is aangesteld in een functie waaraan de rang van commissaris is verbonden en die op uitzonderlijke wijze heeft bijgedragen tot de behartiging van de belangen van de Nederlandse politie, kan voor de resterende duur van deze aanstelling op voordracht van Onze Minister bij koninklijk besluit de titulaire rang van hoofdcommissaris worden toegekend.
