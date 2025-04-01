@@ -1,0 +1,3 @@
+# Artikel 45a
+1. De korpschef stelt de directeur van de Politieacademie jaarlijks uiterlijk op 1 maart in kennis van de behoefte van de politie aan politieonderwijs en werkzaamheden als bedoeld in artikel 75 van de Politiewet 2012 voor het komende begrotingsjaar en de vier daaropvolgende jaren.
+2. De inkennisstelling, bedoeld in het eerste lid, bevat in ieder geval de aantallen, typen en niveaus van opleidingen waar de politie behoefte aan heeft. De inkennisstelling is mede gebaseerd op het personeelsbeleid, de landelijke en lokale beleidsprioriteiten, resultaatverplichtingen van de politie en de regels in het Landelijk Functiegebouw Nederlandse Politie, bedoeld in artikel 1, eerste lid, van het Besluit algemene rechtspositie politie.
