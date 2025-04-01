@@ -1,6 +1,0 @@
-# Artikel 10a. Resterende beschikbare bedrag 2024 (2)
-1. Indien met de aanvragen op grond artikel 10, tweede lid, het in artikel 5, eerste lid, bedoelde uitkeringsplafond niet is bereikt, maakt de Minister uiterlijk 1 juli 2024 bekend welk bedrag resteert.
-2. Een aanvraag om het resterende beschikbare bedrag kan worden ingediend van 3 september 2024 vanaf 09.00 uur tot en met 31 oktober tot uiterlijk 12.00 uur, waarbij aanvragen van concessieverleners die nog geen aanvraag op grond van artikel 6 of artikel 10 hebben ingediend voorrang krijgen.
-3. Indien de aanvragen van concessieverleners die nog niet eerder een aanvraag hebben ingediend gezamenlijk het resterende beschikbare bedrag overschrijden, wordt dat bedrag in afwijking van artikel 5, tweede lid, verdeeld naar rato van het aandeel van een aangevraagde uitkering in het totaalbedrag van alle aanvragen.
-4. Indien na de aanvragen van concessieverleners, bedoeld in het derde lid, het resterende beschikbare bedrag niet volledig is aangevraagd, wordt het betreffende restbedrag benut voor de overige aanvragen of, indien deze aanvragen gezamenlijk het restbedrag overschrijden, in afwijking van artikel 5, tweede lid, verdeeld naar rato van het aandeel van een aangevraagde uitkering in dat bedrag.
-5. Artikel 10, derde lid, is van overeenkomstige toepassing op aanvragen als bedoeld in het tweede lid.
