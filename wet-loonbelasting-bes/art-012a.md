@@ -1,0 +1,4 @@
+# Artikel 12a
+1. Indien de werknemer ook premieplichtig is voor de algemene ouderdomsverzekering BES en de algemene weduwen- en wezenverzekering BES, geschiedt de heffing van de belasting en de premies voor deze volksverzekeringen in één bedrag dan wel in één percentage, met overeenkomstige toepassing van de regels die gelden voor de heffing en de invordering van de loonbelasting.
+2. Voor gevallen waarin het eerste lid toepassing vindt, worden, met overeenkomstige toepassing van artikel 8a, tweede tot en met vierde lid, en artikel 8b, eerste lid, bij ministeriële regeling tabellen vastgesteld waarin telkens de belasting en de premies voor de volksverzekeringen in één bedrag dan wel in één percentage worden opgenomen.
+3. Bij ministeriële regeling worden voor daarbij aan te wijzen gevallen berekeningsvoorschriften vastgesteld aan de hand waarvan uit de in het tweede lid bedoelde tabellen het bedrag van de belasting wordt afgeleid.

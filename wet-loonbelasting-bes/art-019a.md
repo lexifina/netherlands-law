@@ -1,0 +1,7 @@
+# Artikel 19a
+1. De werknemer is verplicht volgens bij ministeriële regeling te stellen regels:
+a. opgave te verstrekken van gegevens waarvan de kennisneming voor de heffing van de belasting van belang kan zijn;
+b. de inhoudingsplichtige om uitreiking van een loonbelastingverklaring te verzoeken indien zich een wijziging voordoet met betrekking tot de omstandigheden die voor de heffing van belang zijn.
+2. Tot de gegevens, bedoeld in het eerste lid, en in artikel 19, eerste lid, onderdeel b, wordt mede gerekend het aan de werknemer toegekende identificatienummer, bedoeld in artikel 8.86, negende lid, van de Belastingwet BES.
+3. Ingeval de werknemer loon uit tegenwoordige dienstbetrekking geniet, is hij voorts verplicht aan de inhoudingsplichtige ter inzage te verstrekken, een op hem betrekking hebbend document als bedoeld in artikel 2, eerste lid, onderdelen a, b en d, van de Wet identificatieplicht BES en is hij verplicht toe te staan dat een afschrift daarvan in de loonadministratie van de inhoudingsplichtige wordt opgenomen.
+4. Het eerste tot en met derde lid zijn niet van toepassing ten aanzien van de werknemer die niet op de BES eilanden woont en die werkzaamheden verricht of heeft verricht in een geheel buiten de BES eilanden vervulde dienstbetrekking, indien het heffingsrecht over het loon uit die dienstbetrekking op grond van een verdrag of regeling ter voorkoming van dubbele belasting niet aan de BES eilanden is toegewezen en de werknemer niet premieplichtig is voor de volksverzekeringen en de zorgverzekering.

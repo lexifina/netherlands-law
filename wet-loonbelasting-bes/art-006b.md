@@ -1,0 +1,8 @@
+# Artikel 6b
+1. Ingeval van een gebeurtenis als hierna bedoeld, wordt op het onmiddellijk daaraan voorafgaande tijdstip de aanspraak aangemerkt als loon uit een vroegere dienstbetrekking van de werknemer of de gewezen werknemer dan wel, indien deze is overleden, van de gerechtigde tot de aanspraak:
+a. een aanspraak ingevolge een pensioenregeling is niet langer als zodanig aan te merken;
+b. een aanspraak ingevolge een pensioenregeling wordt afgekocht of vervreemd dan wel formeel of feitelijk voorwerp van zekerheid;
+c. een op de BES eilanden gevestigd lichaam dat als verzekeraar van een pensioen optreedt, houdt op op de BES eilanden te zijn gevestigd dan wel rekent de pensioenverplichting niet langer geheel tot het binnenlandse ondernemingsvermogen;
+d. een aanspraak ingevolge een pensioenregeling wordt prijsgegeven, behoudens voor zover de aanspraak niet voor verwezenlijking vatbaar is.
+2. Ingeval een verplichting ingevolge een pensioenregeling geheel of gedeeltelijk overgaat op een andere verzekeraar wordt de aanspraak ingevolge die regeling geacht te worden afgekocht. De eerste volzin is niet van toepassing voor zover deze verplichting geheel of gedeeltelijk overgaat naar een op de BES eilanden gevestigde verzekeraar die de pensioenverplichting rekent tot zijn binnenlands ondernemingsvermogen.
+3. Onze Minister is bevoegd om, onder daarvoor te stellen voorwaarden, het tweede lid, laatste volzin, ook van toepassing te verklaren op een pensioenverplichting welke geheel of gedeeltelijk overgaat op een in Nederland, Aruba, Curaçao, Sint Maarten dan wel een verdragsland gevestigde verzekeraar.

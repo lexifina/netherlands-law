@@ -1,0 +1,2 @@
+# Artikel 12d
+Voor zover de belasting en de premies voor de volksverzekeringen, de premies voor de werknemersverzekeringen of de ingevolge het Besluit zorgverzekering BES verschuldigde premie gelijktijdig worden geheven en artikel 8.22, 8.23 of 8.26 van de Belastingwet BES toepassing vindt, wordt dat artikel slechts eenmaal toegepast, met dien verstande dat alsdan voor de toepassing van artikel 8.26, tweede lid, van Belastingwet BES wordt uitgegaan van het gezamenlijk gelijktijdig geheven bedrag.
