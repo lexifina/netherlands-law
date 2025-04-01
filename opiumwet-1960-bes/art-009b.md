@@ -1,0 +1,3 @@
+# Artikel 9b
+1. De in artikel 9 bedoelde ambtenaren zijn bevoegd ladingen waarvan zij redelijkerwijs kunnen vermoeden dat middelen of bereidingen als bedoeld in de artikelen 3, 3a en 4 daarvan deel uitmaken, aan onderzoekingen te onderwerpen en van zaken monsters te nemen, voor zover dit redelijkerwijs voor de vervulling van hun taak met betrekking tot deze wet nodig is. Daartoe kunnen zij vorderen dat de verpakking van goederen wordt geopend en dat ook overigens de medewerking wordt verleend die voor die onderzoekingen is vereist.
+2. Indien het onderzoek of de monsterneming niet ter plaatse kan geschieden, zijn zij bevoegd de zaken voor dat doel voor korte tijd mee te nemen tegen een door hen af te geven schriftelijk bewijs.
