@@ -91,10 +91,8 @@ d. de artikelen 39b en 49 gelezen in samenhang met artikel 39b, voor zover het b
 e. de artikelen 39c, vierde lid en 39e, tweede lid, indien overeenkomstige toepassing is gegeven aan artikel 32b voor zover het beroep niet wordt ingesteld door het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan, en indien overeenkomstige toepassing is gegeven aan artikel 32c, voor zover het beroep niet wordt ingesteld door gedeputeerde staten, en artikel 49 gelezen in samenhang met dit onderdeel
 Wet gewasbeschermingsmiddelen en biociden: artikel 108
 Wet luchtvaart:
-a. de artikelen 8.15, eerste lid, en 8.25fa
-b. artikel 8.43, eerste lid, voor zover het betreft een besluit tot wijziging van een luchthavenbesluit die alleen strekt tot aanpassing van dat besluit aan het bepaalde bij of krachtens de Omgevingswet
-c. de artikelen 8.70, eerste lid, en 10.15, eerste lid, voor zover het betreft de luchthavens Lelystad, Rotterdam en Eindhoven of een besluit tot wijziging van een luchthavenbesluit die alleen strekt tot aanpassing van dat besluit aan het bepaalde bij of krachtens de Omgevingswet
-d. artikel 10.27, eerste lid, voor zover het betreft een vergunning voor burgermedegebruik door tussenkomst van een burgerexploitant voor de luchthaven Eindhoven
+a. artikel 8.25fa
+b. de artikelen 8.43, eerste lid, 8.70, eerste lid, en 10.15, eerste lid, voor zover het betreft een besluit tot wijziging van een luchthavenbesluit die alleen strekt tot aanpassing van dat besluit aan het bepaalde bij of krachtens de Omgevingswet
 Wet melding collectief ontslag
 Wet milieubeheer:
 a. de artikelen 10.3, 11a.2, derde lid, onderdelen b en c, 11.5, en 15.51, derde lid

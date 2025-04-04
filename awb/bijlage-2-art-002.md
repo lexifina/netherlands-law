@@ -82,7 +82,7 @@ a. hoofdstuk II, met uitzondering van artikel 4, tweede lid
 b. de artikelen 15 en 16
 Wet kwaliteit, klachten en geschillen zorg: de artikelen 11c, eerste en derde lid, en 11d, eerste lid
 Wet langdurige zorg, voor zover het betreft een besluit van Onze Minister van Volksgezondheid, Welzijn en Sport, met uitzondering van hoofdstuk 10, § 4
-Wet luchtvaart: de artikelen 8.25, tweede lid, 8.25b, 8.25c, 8.43, eerste lid, 8.64, eerste lid, 8.70, eerste en zesde lid, 8.77, eerste lid, 8a.50a, 8a.54, 10.15, eerste lid, en 10.39, ook voor zover het besluit kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in artikel 8:3, eerste lid, van de Algemene wet bestuursrecht, maar met uitzondering van een besluit op grond van de artikelen 8.70, eerste lid, en 10.15, eerste lid, voor zover het betreft de luchthavens Lelystad, Rotterdam en Eindhoven.
+Wet luchtvaart: de artikelen 8.4, 8.15, 8.25, tweede lid, 8.25b, 8.25c, 8.43, eerste lid, 8.64, eerste lid, 8.70, eerste en zesde lid, 8.77, eerste lid, 8a.50a, 8a.54, 10.15, eerste lid, 10.27, eerste lid, voor zover het betreft de luchthaven Eindhoven en 10.39, ook voor zover het besluit kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in artikel 8:3, eerste lid, van de Algemene wet bestuursrecht.
 Wet maatschappelijke ondersteuning 2015: artikel 2.6.8
 Wet milieubeheer, met inbegrip van een besluit dat betrekking heeft op handhaving, doch met uitzondering van:
 a. een besluit dat betrekking heeft op de handhaving van het bepaalde krachtens artikel 8.40
