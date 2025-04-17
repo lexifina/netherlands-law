@@ -1,0 +1,2 @@
+# Artikel 3a. (Controle specifieke uitkeringen)
+De accountant beoordeelt voor elke specifieke uitkering of er sprake is van risico's die richtinggevend zijn voor de inrichting van de accountantscontrole. Indien de provincie of gemeente een of meer specifieke uitkeringen ontvangt met een omvang van tenminste € 125.000 in het verantwoordingsjaar voert de accountant in ieder geval voor elk van die specifieke uitkeringen een deelwaarneming uit.
