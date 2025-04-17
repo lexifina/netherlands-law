@@ -1,0 +1,4 @@
+# Artikel 76a
+1. De artikelen 40a, 52a en 52b zijn niet van toepassing op de begrotingswijzigingen, de jaarstukken, de uitvoeringsinformatie en de informatie voor derden en de daarbij behorende toelichtingen voor het begrotingsjaar 2007.
+2. Op de begrotingswijzigingen, de jaarstukken, de uitvoeringsinformatie en de informatie voor derden en de daarbij behorende toelichtingen voor het begrotingsjaar 2007, zijn de artikelen 2, vierde lid, 19, 43, 44, tweede lid, 49, 55, eerste lid, 63, achtste lid, 64, derde lid, van toepassing zoals deze golden op 9 juli 2007.
+3. Gemeenten die meerjarige specifieke uitkeringen ontvangen, waarvan de meerjarige uitkeringsperiode vóór 1-1-2007 aanving, kunnen hierover verantwoording afleggen op grond van de artikelen 44, tweede lid, 49 en 55, eerste lid zoals deze golden op 9 juli 2007.
