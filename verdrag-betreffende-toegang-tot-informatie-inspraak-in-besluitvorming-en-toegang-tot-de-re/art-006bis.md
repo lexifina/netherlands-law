@@ -1,0 +1,3 @@
+# Article 6 bis. Public participation in decisions on the deliberate release into the environment and placing on the market of genetically modified organisms
+1. In accordance with the modalities laid down in annex I bis, each Party shall provide for early and effective information and public participation prior to making decisions on whether to permit the deliberate release into the environment and placing on the market of genetically modified organisms.
+2. The requirements made by Parties in accordance with the provisions of paragraph 1 of this article should be complementary and mutually supportive to the provisions of their national biosafety framework, consistent with the objectives of the Cartagena Protocol on Biosafety.
