@@ -1,0 +1,2 @@
+# 4a.4.2
+Erkende programmaverantwoordelijken zijn gehouden de conform artikel 2.4.1 door de netbeheerder van het landelijk gastransportnet verstrekte gegevens bij ontvangst te controleren op plausibiliteit en eventuele vermeende fouten zo spoedig mogelijk te melden bij de netbeheerder van het landelijk gastransportnet en, in geval van vermeende fouten in de meting, bij de partij die de meting verricht, opdat deze fouten gecorrigeerd kunnen worden binnen de termijn zoals genoemd in 2.5.1.
