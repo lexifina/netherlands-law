@@ -1,0 +1,2 @@
+# 5a.2.4
+Indien de invoedingsinstallatie is voorzien van een bijmenginstallatie van stikstof, zal het gehalte aan stikstof via een gaschromatische meting worden vastgesteld, tezamen met een flowmeting van het gas of de gassen die bijgemengd worden, tenzij de invoedingsinstallatie beschikt over een gaskwaliteitsmeting waarmee de Wobbe-Index kan worden bepaald zonder het gehalte aan stikstof te bepalen. In aanvulling op 5a.2.1 worden deze bewakingssignalen aangeboden.

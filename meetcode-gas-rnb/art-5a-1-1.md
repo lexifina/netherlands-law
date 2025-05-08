@@ -1,0 +1,5 @@
+# 5a.1.1
+Met betrekking tot de plaatsing, de bedrijfsvoering, het beheer en het onderhoud aan de gaskwaliteitsmeting toont de invoeder aan dat:
+a. hij de gaskwaliteitsmeting en de overige voorzieningen, zoals bedoeld in 2.5.2 van de Aansluit- en transportcode Gas – RNB bedrijft en onderhoudt volgens de voorschriften van de leveranciers van deze voorzieningen. Het bedienend personeel is dienovereenkomstig opgeleid.
+b. het onderhoud en de inspectie aan de in onderdeel a bedoelde voorzieningen worden uitgevoerd door gekwalificeerd en competent personeel.
+c. de periodieke controle van de in onderdeel a bedoelde voorzieningen en de onderhoudsprocessen alleen worden uitgeoefend door personen of organisaties in het bezit van een geldig certificaat waaruit blijkt dat deze persoon of geoormerkt deel van de organisatie is gekwalificeerd voor de uitvoering van gaskwaliteitsmeting, afgegeven door een binnen- of buitenlandse geaccrediteerde certificeringsinstelling (bijvoorbeeld een ISO 9001- of 14001-certificaat of een daarmee vergelijkbaar certificaat).

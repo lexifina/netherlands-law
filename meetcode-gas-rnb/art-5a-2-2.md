@@ -1,0 +1,2 @@
+# 5a.2.2
+Indien de invoeder met een andere meetmethode, gelijkwaardig aan die zoals bedoeld in 5a.2.1, de gaskwaliteit wil bepalen, wordt dit in overleg met de netbeheerder toegestaan, indien de invoeder aantoont dat deze meetmethode gelijkwaardige meetresultaten oplevert. Metingen dienen te geschieden met gelijke bepalingsintervallen zoals genoemd in 5a.2.1. Indien de toegepaste meetinstrumenten leiden tot afwijkende onderhouds- en beheerfrequentie, dient dit te worden goedgekeurd door de in 5a.1.1, onderdeel c, bedoelde persoon of organisatie.

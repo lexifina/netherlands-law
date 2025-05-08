@@ -1,0 +1,2 @@
+# 5a.3.3
+Het lokale data acquisitiesysteem legt met de data tevens de door de meetinstallatie gegenereerde storingsinformatie vast.

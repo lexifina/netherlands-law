@@ -1,0 +1,2 @@
+# 5a.3.8
+Kalibratiegassen worden gravimetrisch aangemaakt conform NEN-EN-ISO 6142:2006 "Gas analysis – Preparation of calibration gas mixtures – Gravimetric method" en van een certificaat voorzien conform NEN-EN-ISO 6143:2006 "Gas analysis – Comparison methods for determining and checking the composition of calibration gas mixtures". De onnauwkeurigheid van het mengsel op basis van Wobbe en calorische bovenwaarde, dient te voldoen aan de in 5a.2.1 gestelde specificaties.
