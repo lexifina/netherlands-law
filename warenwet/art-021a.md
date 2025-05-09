@@ -1,3 +1,4 @@
 # Artikel 21a
 1. Onze Minister stelt de hem beschikbare informatie over de risico's van waren, niet zijnde eet- of drinkwaren, betreffende de veiligheid of de gezondheid van de consument aan het publiek beschikbaar, onverminderd de beperkingen die daarbij voor controles en onderzoek noodzakelijk zijn. Indien de informatie veiligheidskenmerken van producten betreft die gelet op de omstandigheden openbaar moeten worden gemaakt om de gezondheid en de veiligheid van consumenten te beschermen, is artikel 2:5 van de Algemene wet bestuursrecht niet van toepassing.
 2. Bij regeling van Onze Minister kan worden bepaald op welke wijze de informatie, bedoeld in het eerste lid, beschikbaar wordt gesteld.
+3. Het bepaalde in het eerste en tweede lid is niet van toepassing op producten die onder Verordening (EU) 2023/988 vallen.
