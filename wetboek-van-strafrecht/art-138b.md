@@ -5,5 +5,6 @@ a. met behulp van een aanzienlijk aantal geautomatiseerde werken die getroffen z
 b. met het oogmerk om zich of een ander wederrechtelijk te bevoordelen,
 wordt de schuldige gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie.
 3. Indien het feit ernstige schade veroorzaakt, of is gepleegd tegen een geautomatiseerd werk behorende tot de vitale infrastructuur, wordt de schuldige gestraft met een gevangenisstraf van ten hoogste vijf jaren of geldboete van de vierde categorie.
-4. Indien het feit wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
-5. Indien een feit is begaan met een terroristisch oogmerk, wordt de op het feit gestelde gevangenisstraf met de helft verhoogd.
+4. Indien het feit is gepleegd ten behoeve van een buitenlandse mogendheid wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
+5. Indien het feit wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
+6. Indien een feit is begaan met een terroristisch oogmerk, wordt de op het feit gestelde gevangenisstraf met de helft verhoogd.
