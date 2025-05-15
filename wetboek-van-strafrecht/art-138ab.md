@@ -8,3 +8,4 @@ d. door het aannemen van een valse hoedanigheid.
 3. Met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie wordt gestraft computervredebreuk gepleegd door tussenkomst van een openbaar telecommunicatienetwerk, indien de dader vervolgens
 a. met het oogmerk zichzelf of een ander wederrechtelijk te bevoordelen gebruik maakt van verwerkingscapaciteit van een geautomatiseerd werk;
 b. door tussenkomst van het geautomatiseerd werk waarin hij is binnengedrongen de toegang verwerft tot het geautomatiseerd werk van een derde.
+4. Indien het feit is gepleegd ten behoeve van een buitenlandse mogendheid wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
