@@ -1,0 +1,2 @@
+# Artikel 14a
+Op verleende bevoegdheden in mandaat, volmacht en machtiging aan de directeur-generaal Rijkswaterstaat of aan een andere functionaris binnen Rijkswaterstaat door een ander bestuursorgaan dan de Minister van Infrastructuur en Waterstaat, is dit besluit van overeenkomstige toepassing, tenzij betreffend besluit tot verlening van bevoegdheden in mandaat, volmacht en machtiging zelf in het onderwerp van dit besluit voorziet.
