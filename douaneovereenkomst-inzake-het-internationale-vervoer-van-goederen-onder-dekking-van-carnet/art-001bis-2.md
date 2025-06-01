@@ -1,0 +1,9 @@
+# Artikel 1 bis
+1. De Commissie onderzoekt ieder voorstel tot wijziging van de Overeenkomst overeenkomstig artikel 59, eerste en tweede lid.
+2. De Commissie ziet toe op de naleving van de Overeenkomst en onderzoekt alle maatregelen die ingevolge de Overeenkomst worden genomen door de Overeenkomstsluitende Partijen, door de organisaties en door de internationale organisaties, en onderzoekt of deze maatregelen in overeenstemming zijn met de Overeenkomst.
+3. De Commissie houdt, door tussenkomst van het TIR Uitvoerend Comité, toezicht op de toepassing van de Overeenkomst op nationaal en internationaal niveau en levert hierbij ondersteuning.
+4. De Commissie ontvangt en onderzoekt de door de accountant gecontroleerde jaarrekeningen en het (de) accountantsverslag(en) die door de internationale organisatie ingevolge de verplichtingen uit hoofde van Bijlage 9, Deel III, zijn ingediend. De Commissie kan tijdens en binnen de reikwijdte van het onderzoek de internationale organisatie of de onafhankelijke externe accountant om aanvullende informatie, verduidelijking of documenten vragen.
+5. Onverminderd het in het vierde lid genoemde onderzoek, heeft de Commissie het recht, op basis van een risicobeoordeling, aanvullende onderzoeken te verlangen. De Commissie geeft het TIR Uitvoerend Comité opdracht de risicobeoordeling uit te voeren of vraagt de bevoegde diensten van de Verenigde Naties dit te doen.
+De reikwijdte van de aanvullende onderzoeken wordt bepaald door de Commissie, rekening houdend met de risicobeoordeling door het TIR Uitvoerend Comité of de bevoegde diensten van de Verenigde Naties.
+De resultaten van alle in dit artikel bedoelde onderzoeken worden door het TIR Uitvoerend Comité bewaard en ter overweging aan alle Overeenkomstsluitende Partijen verstrekt.
+6. De procedure voor het uitvoeren van de aanvullende onderzoeken moet door de Commissie worden goedgekeurd.

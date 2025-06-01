@@ -1,0 +1,2 @@
+# Article 42 bis
+The competent authorities, in close cooperation with the associations, shall take all necessary measures to ensure the proper use of TIR Carnets. To this effect they may take appropriate national and international control measures. National control measures taken in this context by the competent authorities shall be communicated immediately to the TIR Executive Board which will examine their conformity with the provisions of the Convention. International control measures shall be adopted by the Administrative Committee.
