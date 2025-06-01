@@ -8,7 +8,7 @@
 ### § 1. Certificaat van onderzoek
 ### § 2. Scheepsmeting
 ### § 3. Bemanning
-### § 4. Vaarbewijs
+### § 4. Vaarbewijzen, kwalificatiecertificaten en specifieke vergunningen
 ### § 5. Vaarbevoegdheid en registratie van gegevens
 ## Hoofdstuk 4. Scheepsnummer en gegevensverstrekking
 ### § 1. Scheepsnummer

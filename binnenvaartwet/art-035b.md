@@ -1,3 +1,3 @@
 # Artikel 35b
 1. Aan autoriteiten die betrokken zijn bij de uitvoering van deze wet of zijn belast met de handhaving van de bij of krachtens deze wet vastgestelde voorschriften, worden op bij of krachtens algemene maatregel van bestuur te bepalen wijze gegevens verstrekt omtrent ontzeggingen van de vaarbevoegdheid die deze autoriteiten voor de uitoefening van hun taak behoeven.
-2. Aan de met de afgifte van vaarbewijzen belaste autoriteiten buiten Nederland worden inlichtingen als in het eerste lid bedoeld verstrekt in de gevallen en op de wijze, zoals bij of krachtens algemene maatregel van bestuur bepaald.
+2. Aan de met de afgifte van kwalificatiecertificaten, specifieke vergunningen of vaarbewijzen belaste autoriteiten buiten Nederland worden inlichtingen als in het eerste lid bedoeld verstrekt in de gevallen en op de wijze, zoals bij of krachtens algemene maatregel van bestuur bepaald.
