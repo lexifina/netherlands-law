@@ -1,0 +1,2 @@
+# Artikel 10d
+Voor zover de diensten, bedoeld in artikel 10b, eerste en tweede lid, voldoen aan de voorschriften voor de verstrekking van toegankelijke informatie en van informatie over toegankelijkheid in de zin van de verordeningen (EG) nr. 1371/2007 en (EU) nr. 181/2011, alsmede van de desbetreffende handelingen die zijn vastgesteld op basis van richtlijn 2008/57, voldoen ze daarmee ook aan de overeenkomstige voorschriften van richtlijn 2019/882.
