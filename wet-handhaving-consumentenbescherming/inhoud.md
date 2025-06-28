@@ -17,5 +17,6 @@
 ## Hoofdstuk 6a. Instantie voor bijstand aan consumenten
 ## Hoofdstuk 7. Rechtsbescherming
 ## Hoofdstuk 8. Consumentenbescherming
+## Hoofdstuk 8a. Specifieke regels over richtlijn (EU) 2019/882
 ## Hoofdstuk 9. Wijziging in andere wetten
 ## Hoofdstuk 10. Slotbepalingen

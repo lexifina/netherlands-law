@@ -39,6 +39,7 @@
 ### § 6a.7. Verplichtingen voor aanbieders van programmadiensten die beschikken over een aanmerkelijke marktmacht
 ## Hoofdstuk 6b. Consultatie
 ## Hoofdstuk 7. Eindgebruikersbelangen
+## Hoofdstuk 7a. Toegankelijkheidsvoorschriften / consumentenbelangen
 ## Hoofdstuk 8. Regels met betrekking tot het verspreiden van programma's, systemen voor voorwaardelijke toegang, applicatieprogramma-interfaces en elektronische programmagidsen
 ### § 8.1. Verplichtingen in verband met het uitzenden van programma's
 ### § 8.2. Systemen voor voorwaardelijke toegang, applicatieprogramma-interfaces, elektronische programmagidsen en toegang tot programma-aanbod
