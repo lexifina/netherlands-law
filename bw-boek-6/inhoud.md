@@ -39,6 +39,7 @@
 #### Afdeling 1. Algemene bepalingen
 #### Afdeling 2. Het tot stand komen van overeenkomsten
 #### Afdeling 2a. Informatie over dienstverrichters en hun diensten naar aanleiding van de dienstenrichtlijn
+#### Afdeling 2ab. Toegankelijkheidsvoorschriften voor dienstverleners en hun e-handelsdiensten naar aanleiding van de toegankelijkheidsrichtlijn
 #### Afdeling 2b. Bepalingen voor overeenkomsten tussen handelaren en consumenten
 ##### Paragraaf 1. – Algemene bepalingen
 ##### Paragraaf 2. – Bepalingen voor overeenkomsten anders dan op afstand of buiten de verkoopruimte

@@ -1,0 +1,7 @@
+# Artikel 230fd
+1. Het verlenen van e-handelsdiensten wordt vermoed te voldoen aan de eisen, bedoeld in bijlage I, afdelingen III en IV, onderdeel g, van richtlijn (EU) 2019/882, indien is voldaan aan de met betrekking tot die richtlijn vastgestelde geharmoniseerde normen of delen daarvan, die betrekking hebben op de desbetreffende eisen.
+2. Van een vermoeden van overeenstemming als bedoeld in lid 1 is sprake indien het verlenen van e-handelsdiensten voldoet aan:
+a. de geharmoniseerde normen of delen daarvan waarvan de referenties bekend zijn gemaakt in het Publicatieblad van de Europese Unie en deze normen van kracht zijn;
+b. de technische specificaties of delen daarvan, voor zover deze technische specificaties of delen daarvan die voorschriften bestrijken.
+3. Het verlenen van e-handelsdiensten in overeenstemming met de eisen, bedoeld in bijlage I, afdeling VI, van richtlijn (EU) 2019/882, wordt vermoed te voldoen aan de verplichtingen inzake toegankelijkheid krachtens andere Uniehandelingen dan die richtlijn, tenzij in die andere Uniehandelingen anders wordt bepaald.
+4. Het verlenen van e-handelsdiensten die voldoen aan de geharmoniseerde normen of technische specificaties of delen van die normen of specificaties, bedoeld in lid 2, onderdeel a of b, wordt vermoed in overeenstemming te zijn met lid 3, voor zover deze normen of technische specificaties of delen daarvan voldoen aan de toegankelijkheidsvoorschriften van richtlijn (EU) 2019/882.
