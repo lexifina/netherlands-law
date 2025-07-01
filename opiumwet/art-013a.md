@@ -1,2 +1,2 @@
 # Artikel 13a
-Onverminderd het bepaalde in de artikelen 33 tot en met 34 en 36b tot en met 36d van het Wetboek van Strafrecht en artikel 6:1:12 van het Wetboek van Strafvordering worden de in lijst I of II bedoelde middelen verbeurd of aan het verkeer onttrokken verklaard.
+Onverminderd het bepaalde in de artikelen 33 tot en met 34 en 36b tot en met 36d van het Wetboek van Strafrecht en artikel 6:1:12 van het Wetboek van Strafvordering worden de in lijst I of II bedoelde middelen of substanties die deel uitmaken van een stofgroep als bedoeld in lijst IA of de preparaten daarvan, met uitzondering van de middelen bedoeld in artikel 2a, tweede lid, verbeurd of aan het verkeer onttrokken verklaard.

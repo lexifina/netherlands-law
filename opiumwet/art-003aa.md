@@ -1,0 +1,5 @@
+# Artikel 3aa
+1. Bij algemene maatregel van bestuur kan aan de bij deze wet behorende lijst IA een stofgroep worden toegevoegd indien twee of meer substanties die deel uitmaken van die stofgroep zijn of worden toegevoegd aan de bij deze wet behorende lijst I.
+2. Bij algemene maatregel van bestuur kunnen stofgroepen die bij of krachtens deze wet zijn toegevoegd, van lijst IA worden geschrapt indien substanties die deel uitmaken van die stofgroep zijn of worden geschrapt van lijst I.
+3. Bij algemene maatregel van bestuur wordt een stofgroep die bij of krachtens deze wet is toegevoegd, van lijst IA geschrapt indien substanties die deel uitmaken van die stofgroep zijn of worden geschrapt van lijst I en daardoor niet langer twee of meer substanties die deel uitmaken van die stofgroep zijn of worden toegevoegd aan lijst I.
+4. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan de beide Kamers der Staten-Generaal is overgelegd.
