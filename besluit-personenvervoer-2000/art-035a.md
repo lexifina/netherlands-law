@@ -1,0 +1,3 @@
+# Artikel 35a
+1. Aan een concessie als bedoeld in artikel 19 van de wet die wordt verleend of gewijzigd wordt het voorschrift verbonden dat de concessiehouder verplicht om reizigers in staat te stellen een OV-chipkaart die voldoet aan bij ministeriële regeling gestelde regels als elektronisch vervoerbewijs te gebruiken op het openbaar vervoer dat de concessiehouder aanbiedt.
+2. Het voorschrift, bedoeld in het eerste lid, geldt niet ten aanzien van door de concessiehouder aangeboden openbaar vervoer per auto, internationale passagiersvervoersdiensten en bij ministeriële regeling aangewezen soorten openbaar vervoer die daarmee gelijkenis vertonen, tenzij de desbetreffende concessieverlener anders voorschrijft.

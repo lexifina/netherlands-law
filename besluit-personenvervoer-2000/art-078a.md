@@ -1,0 +1,2 @@
+# Artikel 78a
+De vervoerder en de bestuurder die taxivervoer verrichten maken tijdens het verrichten van taxivervoer gebruik van een boordcomputer overeenkomstig de artikelen 79 tot en met 83, dan wel van de centrale database taxivervoer overeenkomstig paragraaf 4 van dit hoofdstuk. Indien gebruik wordt gemaakt van de centrale database taxivervoer overeenkomstig paragraaf 4 van dit hoofdstuk, geldt artikel 81, derde lid, onverkort.

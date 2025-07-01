@@ -1,0 +1,3 @@
+# Artikel 9a
+1. Het verbod openbaar vervoer anders dan per trein te verrichten zonder geldige communautaire vergunning, bedoeld in artikel 7, eerste lid, van de wet, is niet van toepassing op een vervoerder die openbaar vervoer per auto verricht en beschikt over een vergunning voor het verrichten van taxivervoer als bedoeld in artikel 76, eerste lid, van de wet.
+2. Het verbod openbaar vervoer anders dan per trein te verrichten zonder de aanwezigheid in het voertuig van een eensluidend gewaarmerkt afschrift van de communautaire vergunning, bedoeld in artikel 7, tweede lid, van de wet, is niet van toepassing op een vervoerder als bedoeld in het eerste lid.
