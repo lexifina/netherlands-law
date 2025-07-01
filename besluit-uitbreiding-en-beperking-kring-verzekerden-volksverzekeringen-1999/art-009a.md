@@ -1,0 +1,2 @@
+# Artikel 9a. Vreemdelingen met een verblijfsvergunning voor bepaalde tijd asiel
+Een vreemdeling die rechtmatig in Nederland verblijft, in de zin van artikel 8, onder c, van de Vreemdelingenwet 2000, is, ongeacht of hij als ingezetene kan worden beschouwd, niet eerder verzekerd op grond van de volksverzekeringen dan met ingang van de dag waarop positief op de verblijfsvergunningsaanvraag wordt beschikt.
