@@ -1,2 +1,0 @@
-# Artikel 4a.32. Uitzonderingen
-De Minister kan na overleg met de betrokken organisaties van scheepsbeheerders en vissers uitzonderingen op de bepalingen van deze paragraaf toestaan opdat, zonder discriminatie, rekening kan worden gehouden met de belangen van vissers met onderling verschillende en bijzondere religieuze en sociale gewoonten, op voorwaarde dat deze uitzonderingen er niet toe leiden dat de algemene algehele omstandigheden minder gunstig zijn dan die welke voortvloeien uit de toepassing van deze paragraaf.

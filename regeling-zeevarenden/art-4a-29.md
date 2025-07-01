@@ -1,3 +1,0 @@
-# Artikel 4a.29. Voeding en drinkwater
-1. Aan boord is voldoende voeding en drinkwater aanwezig voor de vissers aan boord gelet op de duur en aard van de reis.
-2. Voeding en drinkwater zijn wat betreft voedingswaarde, kwaliteit, kwantiteit en variatie geschikt, waarbij ook rekening is gehouden met de voorschriften en gebruiken omtrent voeding die voortvloeien uit de religie en cultuur van de vissers.

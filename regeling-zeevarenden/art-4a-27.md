@@ -1,2 +1,0 @@
-# Artikel 4a.27. Opslag butaan-propaan voor het koken
-Tanks of flessen met butaan- of propaangas voor het koken in een kombuis zijn geplaatst op het open dek en afdoende beschermd tegen externe hittebronnen en andere externe invloeden.

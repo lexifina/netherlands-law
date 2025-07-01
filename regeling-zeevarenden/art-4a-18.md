@@ -1,5 +1,0 @@
-# Artikel 4a.18. Aanwezigheid sanitaire voorzieningen
-1. Voor alle personen zijn sanitaire voorzieningen aanwezig, bestaande uit toiletten, wastafels, en baden of douches al naar gelang het gebruik van het vissersvaartuig. Deze voorzieningen voldoen ten minste aan de minimumnormen op het gebied van gezondheid en hygiëne en aan redelijke kwaliteitsnormen.
-2. Sanitaire voorzieningen zijn zodanig uitgevoerd dat verontreiniging van andere ruimten uitgesloten is.
-3. Sanitaire voorzieningen bieden redelijke privacy.
-4. Aan het gestelde in het eerste tot en met derde lid wordt in ieder geval voldaan indien norm A3.1, lid 11, onderdelen a tot en met c, van het Maritiem Arbeidsverdrag zoals die luidde op 15 november 2019, is toegepast.

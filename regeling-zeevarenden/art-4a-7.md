@@ -1,6 +1,0 @@
-# Artikel 4a.7. Verwarming en airconditioning
-1. Accommodatieruimten worden voldoende verwarmd, rekening houdend met de klimatologische omstandigheden.
-2. In aanvulling op het eerste lid worden vissersvaartuigen met een lengte (L) van 24 meter of meer, met uitzondering van vissersvaartuigen die uitsluitend in tropische gebieden actief zijn, voldoende verwarmd door middel van een geschikt verwarmingssysteem.
-3. Het in het tweede lid bedoelde verwarmingssysteem zorgt, voor zover nodig, onder alle omstandigheden voor warmte en is operationeel wanneer vissers aan boord verblijven of werken en wanneer de omstandigheden dat vereisen.
-4. Vissersvaartuigen met een lengte (L) van 24 meter of meer zijn, met uitzondering van vissersvaartuigen die regelmatig actief zijn in gebieden waar de gematigde klimatologische omstandigheden geen airconditioning vereisen, voorzien van airconditioning in accommodatieruimten, op de brug, in de radiokamer en in de gecentraliseerde machinecontrolekamer.
-5. Aan het gestelde in het eerste tot en met vierde lid wordt in ieder geval voldaan indien norm A3.1, lid 7, onderdelen b en d, en leidraad B3.1.3, lid 2 en 3, van het Maritiem Arbeidsverdrag, zoals die luidde op 15 november 2019, is toegepast.
