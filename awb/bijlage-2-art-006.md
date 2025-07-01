@@ -22,5 +22,6 @@ Wet milieubeheer: de artikelen 18.16a, eerste, tweede of vijfde lid, 18.16b, eer
 Wet op de inlichtingen- en veiligheidsdiensten 2017: hoofdstuk 5
 Wet pensioenvoorzieningen K.N.I.L.
 Wet rechtspositionele voorzieningen rampbestrijders
+Wet toezicht geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten
 Wet van 16 juli 2001 tot het stellen van nadere regels in verband met de introductie van een toeslagregeling ter compensatie van het gemis aan overhevelingstoeslag per 1 januari 2001 ten aanzien van de Toeslagwet Indonesische pensioenen 1956 en enkele andere overzeese pensioenwetten alsmede het actualiseren van die wetten in verband met de inwerkingtreding van de Algemene nabestaandenwet (Stb. 2001, 377)
 Wet van 21 december 1951, houdende een onderstandsregeling ingevolge artikel 2 Garantiewet Burgerlijk Overheidspersoneel Indonesië (Stb. 1951, 592)

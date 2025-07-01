@@ -6,5 +6,5 @@ b. de aanvraag is ingediend door de erkende referent, en deze omtrent die gegeve
 3. De aanvrager verstrekt Onze Minister op diens verzoek en al dan niet in persoon alsnog de gegevens en bescheiden, die van belang zijn voor de beoordeling van de aanvraag.
 4. Bij regeling van Onze Minister worden regels gesteld omtrent de gegevens en bescheiden waarop het eerste lid, onder a, van toepassing is, en kunnen regels worden gesteld omtrent:
 a. de administraties of delen daarvan waarvoor het eerste lid, onder a, tijdelijk niet van toepassing is;
-b. de eigen verklaringen, bedoeld in het eerste lid, onder b,
+b. de eigen verklaringen, bedoeld in het eerste lid, onder b;
 c. de toepassing van het derde lid.

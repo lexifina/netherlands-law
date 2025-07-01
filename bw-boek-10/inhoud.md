@@ -18,7 +18,7 @@
 #### Afdeling 8. Overgangsrecht
 ### Titel 5. Afstamming
 #### Afdeling 1. Familierechtelijke betrekkingen door geboorte
-#### Afdeling 2. Familierechtelijke betrekkingen door erkenning of gerechtelijke vaststelling van het vaderschap
+#### Afdeling 2. Familierechtelijke betrekkingen door erkenning of gerechtelijke vaststelling van het ouderschap
 #### Afdeling 3. Familierechtelijke betrekkingen door wettiging
 #### Afdeling 4. De inhoud van familierechtelijke betrekkingen uit hoofde van afstamming
 #### Afdeling 5. Erkenning van buitenslands tot stand gekomen rechterlijke beslissingen en rechtsfeiten

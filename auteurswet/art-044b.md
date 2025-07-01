@@ -1,5 +1,5 @@
 # Artikel 44b
-1. Een collectieve beheersorganisatie die licenties verstrekt als bedoeld in dit hoofdstuk, zorgt ervoor dat informatie met het oog op:
+1. Een collectieve beheersorganisatie die licenties verstrekt als bedoeld in deze paragraaf, zorgt ervoor dat informatie met het oog op:
 1°. de identificatie van de werken;
 2°. de mogelijkheden van de makers of zijn rechtverkrijgenden als bedoeld in artikel 44, derde lid; en
 3°. de partijen bij de verleende licenties, de gedekte grondgebieden en de toegestane gebruikswijzen;

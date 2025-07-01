@@ -60,7 +60,7 @@ voor zover het besluiten betreft van de Nederlandse emissieautoriteit, genoemd i
 Uitvoeringswet verordening Europees burgerinitiatief: artikel 2, aanhef en onder c
 Vreemdelingenwet 2000: de artikelen 43 en 45, vierde lid
 Waterschapswet:
-a. een besluit van Onze Minister van Infrastructuur en Milieu inzake de goedkeuring van een besluit als bedoeld in artikel 5
+a. een besluit van Onze Minister van Infrastructuur en Waterstaat inzake de goedkeuring van een besluit als bedoeld in artikel 5
 b. een besluit van het algemeen bestuur van een waterschap als bedoeld in artikel 31, derde lid
 c. een besluit van het algemeen bestuur van een waterschap als bedoeld in artikel 33, vierde lid
 d. artikel 21, eerste lid

@@ -8,6 +8,6 @@ c. indien door of namens de verdachte bij het instellen van een gewoon rechtsmid
 a. het opgegeven adres gelijk is aan het adres waaraan de dagvaarding of oproeping ingevolge artikel 36e wordt uitgereikt;
 b. de verdachte, nadat hij bij een eerdere gelegenheid als bedoeld in het eerste lid een adres heeft opgegeven waaraan mededelingen over de strafzaak kunnen worden toegezonden, bij een volgende gelegenheid uitdrukkelijk te kennen geeft dit adres niet te willen handhaven;
 c. de geadresseerde nadat hij een adres als bedoeld in het eerste lid heeft opgegeven, het adres waar hij als ingezetene is ingeschreven in de basisregistratie personen wijzigt;
-d. de dagvaarding of oproeping inmiddels aan de verdachte in persoon is uitgereikt.
+d. de dagvaarding of oproeping inmiddels aan de verdachte in persoon is betekend.
 4. Bij de verzending, bedoeld in het eerste lid, wordt de voor de dagvaarding of oproeping geldende termijn in acht genomen.
 5. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel.

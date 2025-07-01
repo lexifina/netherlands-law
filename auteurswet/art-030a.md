@@ -1,5 +1,5 @@
 # Artikel 30a
-1. Voor het als bedrijf verleenen van bemiddeling in zake muziekauteursrecht, al of niet met het oogmerk om winst te maken, is de toestemming vereischt van Onzen Minister van Justitie.
+1. Voor het als bedrijf verleenen van bemiddeling in zake muziekauteursrecht, al of niet met het oogmerk om winst te maken, is de toestemming vereischt van Onze Minister van Justitie en Veiligheid.
 2. Onder het verleenen van bemiddeling inzake muziekauteursrecht wordt verstaan het, al of niet op eigen naam, ten behoeve van de makers van muziekwerken of hunne rechtverkrijgenden, sluiten of ten uitvoer leggen van overeenkomsten betreffende de uitvoering in het openbaar of de uitzending in een radio- of televisieprogramma, door tekens, geluid of beelden, van die werken, of hunne verveelvoudigingen, in hun geheel of gedeeltelijk.
 3. Met de uitvoering of de uitzending in een radio- of televisieprogramma van muziekwerken wordt gelijkgesteld de uitvoering of de uitzending in een radio- of televisieprogramma van dramatisch-muzikale werken, choreografische werken en pantomimes en hunne verveelvoudigingen, indien deze ten gehoore worden gebracht zonder te worden vertoond.
 4. Overeenkomsten als bedoeld bij het tweede lid, welke worden aangegaan zonder dat de ingevolge het eerste lid vereischte ministerieele toestemming is verkregen, zijn nietig.

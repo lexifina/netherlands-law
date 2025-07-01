@@ -4,7 +4,7 @@
 ### Titel II. Straffen
 ### Titel IIA. Maatregelen
 #### afdeling Eerste. Onttrekking aan het verkeer, ontneming van het wederrechtelijk verkregen voordeel en schadevergoeding
-#### afdeling Tweede. Plaatsing in een psychiatrisch ziekenhuis en terbeschikkingstelling
+#### afdeling Tweede. Terbeschikkingstelling
 #### afdeling Derde. Plaatsing in een inrichting voor stelselmatige daders
 #### afdeling Vierde. Gedragsbeïnvloedende en vrijheidsbeperkende maatregelen
 ### Titel III. Uitsluiting en verhoging van strafbaarheid

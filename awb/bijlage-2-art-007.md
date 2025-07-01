@@ -40,7 +40,6 @@ Warenwet
 Warmtewet: artikel 18
 Wet bekostiging financieel toezicht
 Wet bestrijding maritieme ongevallen
-Wet bestrijding ongevallen Noordzee, voor zover het betreft een beschikking van Onze Minister, genomen op een verzoek om een tegemoetkoming als bedoeld in artikel 13, eerste lid
 Wet beveiliging netwerk- en informatiesystemen, voor zover het een besluit betreft dat betrekking heeft op een aanbieder van een essentiële dienst in de sectoren energie, digitale infrastructuur, bankwezen, infrastructuur voor de financiële markt, gezondheidszorg en spoor of op een digitaledienstverlener
 Wet dieren: artikel 8.7
 Wet financiële betrekkingen buitenland 1994
@@ -59,7 +58,7 @@ Wet op de inlichtingen- en veiligheidsdiensten 2017: artikel 53, zevende lid
 Wet op het financieel toezicht, met uitzondering van:
 a. de afdelingen 3A.1.3, 3A.1.4, 3A.1.5, 3A.2.3 en 3A.2.4
 b. de artikelen 5:77, eerste lid, en 5:81, derde lid
-c. een besluit terzake van het ingevolge artikel 5:76, tweede lid, of 5:80b, vijfde lid, bepaalde, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in artikel 1:80
+c. een besluit ter zake van het ingevolge artikel 5:76, tweede lid, of 5:80b, vijfde lid, bepaalde, met uitzondering van een besluit tot het opleggen van een bestuurlijke boete als bedoeld in artikel 1:80
 d. de artikelen 6:1 en 6:2
 Wet personenvervoer 2000: de artikelen 56, eerste lid, 59, eerste lid, 94, eerste lid, en 96, eerste lid
 Wet privatisering APB, voor zover het de overeenkomstige toepassing van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000 betreft op grond van artikel 21, vierde lid

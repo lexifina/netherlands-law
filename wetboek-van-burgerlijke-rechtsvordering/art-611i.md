@@ -1,2 +1,2 @@
 # Artikel 611i
-Onder rechter in deze afdeling worden mede scheidsmannen begrepen.
+Onder rechter in deze afdeling worden mede arbiters begrepen.
