@@ -1,0 +1,2 @@
+# Artikel 44bis
+Indien een strafbaar feit wordt begaan met een discriminatoir oogmerk dan wel bestaat uit, wordt voorafgegaan door, vergezeld van of gevolgd door gedragingen die haat tegen of discriminatie van een groep mensen wegens hun ras, hun godsdienst of levensovertuiging, hun geslacht, hun seksuele gerichtheid of hun handicap tot uitdrukking brengen, kan de op dat feit gestelde tijdelijke gevangenisstraf of hechtenis met een derde worden verhoogd.
