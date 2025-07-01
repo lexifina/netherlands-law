@@ -1,0 +1,3 @@
+# Artikel 19a
+1. De gezagvoerder van een schip dat zich bevindt in de territoriale zee, met inbegrip van de baaien en inhammen die hiermee in open verbinding staan, licht de beheerder in omtrent hem bekende schepen, overblijfselen van schepen en alle andere voorwerpen in zee gestrand, gezonken of aan de grond geraakt, of vastgeraakt op of in waterkeringen of andere waterstaatswerken of die zich op het zeestrand bevinden, die nog niet zijn aangegeven op een nautische kaart.
+2. De verplichting, bedoeld in het eerste lid, rust ook op degene die belast is met het beheer van een platform dat zich in de territoriale zee, met inbegrip van de baaien en inhammen die hiermee in open verbinding staan, bevindt.

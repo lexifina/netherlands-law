@@ -1,0 +1,2 @@
+# Artikel 49n
+Indien Onze Minister ingevolge artikel 49j, 49k of 49l een schip naar een haven in Bonaire, Sint Eustatius of Saba heeft doen brengen, vergoedt Onze Minister de redelijke kosten van die maatregelen van het daartoe bevoegde gezag die redelijkerwijs nodig zijn om het gevaar verbonden aan het brengen van het schip naar, en het verblijf in, de haven dan wel de gevolgen ervan, te voorkomen, te beperken of ongedaan te maken.

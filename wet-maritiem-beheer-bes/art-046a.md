@@ -1,0 +1,6 @@
+# Artikel 46a
+1. Het is zonder daartoe strekkende vergunning van Onze Minister verboden stoffen in zee te brengen vanaf of vanuit een schip, lucht- vaartuig of bouwwerk ten behoeve van een activiteit waarbij bewust wordt ingegrepen in het mariene milieu om natuurlijke processen te beïnvloeden en die als zodanig is aangewezen in bijlage 4 bij het Protocol van 1996.
+2. De beoordeling van de aanvraag voor een vergunning geschiedt met inachtneming van bijlage 4 en bijlage 5 bij het Protocol van 1996.
+3. Aan de vergunning kunnen voorschriften worden verbonden en de vergunning kan onder beperkingen worden verleend.
+4. Een wijziging van bijlage 4 bij het Protocol van 1996 gaat voor de toepassing van dit artikel gelden met ingang van de dag waarop die wijziging internationaal in werking treedt, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+5. Indien voorafgaand aan de dag waarop het eerste lid van toepassing wordt op een activiteit, voor die activiteit een ontheffing is verleend op grond van artikel 45, eerste lid, of artikel 46, eerste lid, wordt deze geacht te zijn verleend als een vergunning op grond van het eerste lid, mits de activiteit in bijlage 4 bij het Protocol van 1996 is aangemerkt als een activiteit waarvoor een vergunning kan worden verleend.
