@@ -1,0 +1,3 @@
+# Artikel 45b
+1. In de gevallen dat een persoon die in het buitenland rechtens van zijn vrijheid is beroofd, vooruitlopend op zijn feitelijke uitlevering, voorlopig ter beschikking wordt gesteld van de Nederlandse justitie of die van Bonaire, Sint Eustatius en Saba ten behoeve van diens berechting, wordt hij gedurende zijn verblijf op Nederlands grondgebied op bevel van het bevoegde lid van het openbaar ministerie in verzekering gesteld. De artikelen 54 en 55 zijn, voor zoveel nodig, van overeenkomstige toepassing.
+2. De inverzekeringstelling wordt opgeheven zodra het bevoegde lid van het openbaar ministerie bericht ontvangt dat de gronden voor vrijheidsberoving in het buitenland niet langer bestaan.
