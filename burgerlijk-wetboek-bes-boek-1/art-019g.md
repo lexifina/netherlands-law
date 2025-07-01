@@ -1,0 +1,2 @@
+# Artikel 19g
+In geval van overlijden tijdens een zeereis tussen twee van de openbare lichamen Bonaire, Sint Eustatius en Saba of in een luchtvaartuig tijdens een luchtreis tussen twee van de openbare lichamen Bonaire, Sint Eustatius en Saba, wordt de akte van overlijden opgemaakt door de ambtenaar van de burgerlijke stand van het openbaar lichaam waar het lijk het schip of het luchtvaartuig verlaat, dan wel waar het schip ligplaats kiest. Dat openbaar lichaam geldt als openbaar lichaam waar het overlijden heeft plaats gevonden.

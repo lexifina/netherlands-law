@@ -1,0 +1,2 @@
+# Artikel 80a
+Een huwelijk, voltrokken op grond van het in het Europese deel van Nederland geldende Burgerlijk Wetboek, heeft in de openbare lichamen Bonaire, Sint Eustatius en Saba de rechtsgevolgen die het Europees Nederlandse burgerlijk recht aan het betreffende huwelijk verbindt, ongeacht de wettelijke regelingen en voorschriften die van toepassing zijn in deze lichamen. De artikelen 5 tot en met 7 van de Wet conflictenrecht huwelijk zijn van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.

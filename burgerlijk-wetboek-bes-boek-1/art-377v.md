@@ -1,0 +1,6 @@
+# Artikel 377v
+1. Ieder die in een openbaar lichaam het gezag uitoefent over een kind kan de rechter verzoeken, de in het tweede lid bedoelde beslissingen te geven ter zake van het omgangsrecht met betrekking tot dat kind, indien het zich in verband met de uitoefening daarvan naar het buitenland moet begeven. De beslissingen kunnen worden gegeven voor een of meer bepaalde bezoeken of voor bepaalde tijdvakken waarin het omgangsrecht met betrekking tot het kind kan worden uitgeoefend.
+2. De in het eerste lid bedoelde beslissingen zijn:
+a. vaststelling dat het wettig gezag aan de verzoeker toekomt in gevallen dat zulks niet reeds vaststaat door een rechterlijke beslissing;
+b. regeling van de plaats en de duur van het verblijf van het kind in het buitenland en, zo nodig, andere omstandigheden met betrekking tot het verblijf, zulks met inachtneming van reeds van kracht zijnde beslissingen inzake het omgangsrecht;
+c. het richten van een verzoek aan de bevoegde autoriteiten van de staat waar het kind tijdens de uitoefening van het omgangsrecht verblijft toezicht te houden of te doen houden op de juiste naleving van dat recht, in het bijzonder wat de plaats en de duur ervan betreft en voorts, indien nodig, maatregelen te treffen tot teruggeleiding van het kind na ommekomst van de termijn van uitoefening van dat recht.

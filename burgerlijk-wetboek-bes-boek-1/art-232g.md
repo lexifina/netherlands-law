@@ -1,0 +1,4 @@
+# Artikel 232g
+1. Het rapport, bedoeld in artikel 16 van het verdrag, wordt door de vergunninghouder in ontvangst genomen.
+2. Naar aanleiding van het in het eerste lid bedoelde rapport brengt de vergunninghouder schriftelijk, met redenen omkleed, advies uit aan de centrale autoriteit over de vraag of tegen de toevertrouwing van het kind aan de aspirant-adoptiefouders bedenkingen bestaan en of de adoptie voortgang mag vinden. Een afschrift van het advies doet hij aan de aspirant-adoptiefouders toekomen.
+3. Na ontvangst van het advies besluit de centrale autoriteit of tegen de toevertrouwing van het kind aan de aspirant-adoptiefouders bedenkingen bestaan en of de adoptie voortgang mag vinden. Aan haar besluit kan zij voorwaarden verbinden. Tegelijkertijd met de bekendmaking van het besluit aan de aspirant-adoptiefouders wordt van het besluit mededeling gedaan aan de vergunninghouder.

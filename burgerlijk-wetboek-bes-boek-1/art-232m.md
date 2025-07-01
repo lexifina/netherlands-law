@@ -1,0 +1,7 @@
+# Artikel 232m
+1. De overbrenging van het kind naar de staat van opvang mag slechts plaatsvinden nadat een der aspirant-adoptiefouders bij een in een openbaar lichaam gegeven rechterlijke beschikking tot voogd van het kind is benoemd.
+2. De in het eerste lid bedoelde beschikking wordt eerst gegeven nadat:
+a. de centrale autoriteit door tussenkomst van de centrale autoriteit van de staat van opvang een schriftelijke verklaring van de aspirant-adoptiefouders heeft ontvangen, dat zij ermee instemmen dat het kind aan hun zorg wordt toevertrouwd;
+b. de centrale autoriteit van de staat van opvang met deze beslissing heeft ingestemd, ingeval een zodanige instemming vereist is;
+c. de centrale autoriteit van de staat van opvang schriftelijk heeft verklaard dat zij ermee instemt dat de adoptie voortgang vindt, en
+d. door de centrale autoriteit bescheiden zijn ontvangen waaruit blijkt dat overeenkomstig artikel 5 van het verdrag door de bevoegde autoriteiten van de staat van opvang is vastgesteld dat de aspirant-adoptiefouders aan de vereisten van adoptie voldoen en daartoe geschikt zijn en dat het kind vergunning heeft of zal verkrijgen de staat van opvang binnen te komen en een permanent verblijfsrecht in de staat van opvang heeft of zal verkrijgen.

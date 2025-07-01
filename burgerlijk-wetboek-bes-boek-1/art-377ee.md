@@ -1,0 +1,3 @@
+# Artikel 377ee
+1. De centrale autoriteit is bevoegd, zo nodig ook zonder uitdrukkelijke volmacht van degene die zich met een verzoek tot haar heeft gewend, namens hem, anders dan in rechte, op te treden.
+2. Onverminderd het bepaalde in artikel 5, derde lid, van het op 20 mei 1980 te Luxemburg tot stand gekomen Europese verdrag betreffende de erkenning en de tenuitvoerlegging van beslissingen inzake het gezag over kinderen en betreffende het herstel van het gezag over kinderen (Trb. 1981, 10) en artikel 26 van het op 25 oktober 1980 te 's-Gravenhage tot stand gekomen verdrag inzake de burgerrechtelijke aspecten van internationale ontvoering van kinderen (Trb. 1987, 139), draagt de centrale autoriteit zelf alle kosten die aan de uitvoering van haar taak zijn verbonden.

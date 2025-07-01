@@ -1,0 +1,6 @@
+# Artikel 377jj
+1. In geval van plaatsing van een kind vanuit een andere staat in een openbaar lichaam of verstrekking van zorg aan een zodanig kind in een pleeggezin of in een instelling in een openbaar lichaam ingevolge artikel 33 van het verdrag dient de instemming, bedoeld in de genoemde artikelen, te worden gegeven door de centrale autoriteit, bedoeld in artikel 377dd, eerste lid, van dit Boek.
+2. De instemming, bedoeld in het eerste lid, wordt pas gegeven nadat de centrale autoriteit van de bevoegde autoriteit van de staat van herkomst van het kind een gemotiveerd verzoek heeft ontvangen, vergezeld van een rapport betreffende het kind, en nadat zij de volgende bescheiden heeft ontvangen, welke bescheiden zij toezendt aan de bevoegde autoriteit van het land van herkomst van het kind:
+a. een schriftelijke verklaring van de personen of de instelling bij welke de plaatsing of de verstrekking van zorg dient plaats te vinden, waaruit hun instemming blijkt;
+b. indien gewenst, een rapport waaruit de geschiktheid van de pleegouder tot het verstrekken van pleegzorg aan het kind blijkt;
+c. indien van toepassing, bescheiden waaruit blijkt dat het kind toestemming heeft of zal verkrijgen om Bonaire, Sint Eustatius of Saba binnen te komen en met het oog op de plaatsing of de verstrekking van zorg een verblijfsrecht heeft of zal verkrijgen.

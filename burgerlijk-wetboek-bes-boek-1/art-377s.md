@@ -1,0 +1,3 @@
+# Artikel 377s
+1. Het Gerecht in eerste aanleg is, onverminderd de bevoegdheid van de rechter in kort geding, bevoegd tot kennisneming van alle zaken met betrekking tot de gedwongen afgifte van een internationaal ontvoerd kind aan degene wie het gezag daarover toekomt en de teruggeleiding van een zodanig kind over de Nederlandse grens van het betreffende openbare lichaam.
+2. Het Gerecht in eerste aanleg is, onverminderd de bevoegdheid van de rechter in kort geding, bevoegd tot de kennisneming van alle zaken met betrekking tot de regeling en uitvoering van het omgangsrecht in internationale gevallen, daaronder begrepen verzoeken als bedoeld in artikel 377v van deze wet.

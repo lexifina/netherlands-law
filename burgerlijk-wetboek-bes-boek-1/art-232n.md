@@ -1,0 +1,9 @@
+# Artikel 232n
+1. De artikelen 1 tot en met 14, met uitzondering van de artikelen 7 en 10, derde lid, laatste volzin, van de voor het Europese deel van Nederland geldende Wet opneming buitenlandse kinderen ter adoptie zijn, voor zover in deze Titel niet anders is bepaald, van overeenkomstige toepassing op de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat:
+a. de aan de raad voor de kinderbescherming toekomende taken worden opgedragen aan de voogdijraad;
+b. voor 'Nederland' zo nodig wordt gelezen: een openbaar lichaam;
+c. voorlopige voogdij als bedoeld in artikel 10 van deze wet wordt beschouwd als voorlopige toevertrouwing aan de voogdijraad, bedoeld in afdeling zes van titel veertien van Boek 1 van het Burgerlijk wetboek BES;
+d. voor 'Vreemdelingenwet 2000' wordt gelezen: Wet toelating en uitzetting BES;
+e. de verwijzing naar Titel 17 van Boek 1 van het Burgerlijk Wetboek wordt beschouwd als een verwijzing naar: Titel 17 van Boek 1 van het Burgerlijk Wetboek BES.
+2. De zesde afdeling van titel veertien van Boek 1 van het Burgerlijk Wetboek BES inzake voogdij is niet van toepassing op de uitoefening van de voorlopige toevertrouwing als bedoeld in de artikelen 241, 271, 272, 331 en 332 van dit Boek. Artikel 813, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering BES is bij een voorlopige toevertrouwing van overeenkomstige toepassing.
+3. Tegen een besluit van Onze Minister is bezwaar mogelijk overeenkomstig de Wet administratieve rechtspraak BES. Onverminderd de bevoegdheid van de rechter in kort geding, is beroep mogelijk bij het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba. Tegen een beslissing van dit Gerecht in eerste aanleg kan hoger beroep worden ingesteld bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba.

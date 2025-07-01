@@ -1,0 +1,3 @@
+# Artikel 377oo
+1. De voorzieningenrechter van het Gerecht in eerste aanleg is bevoegd tot kennisneming van alle verzoeken die betrekking hebben op de erkenning, de niet-erkenning en de tenuitvoerlegging van beslissingen inzake ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen die op grond van het verdrag zijn gegeven. Ten aanzien van het verlof tot tenuitvoerlegging zijn de artikelen 985 tot en met 990 van het Wetboek van Burgerlijke Rechtsvordering BES niet van toepassing.
+2. Een beslissing op een verzoek als bedoeld in het eerste lid, wordt gevraagd bij verzoekschrift. Het wordt ingediend door een advocaat.

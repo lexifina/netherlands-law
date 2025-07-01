@@ -1,0 +1,2 @@
+# Artikel 377w
+De rechter die moet beslissen met betrekking tot het gezag over een kind ten aanzien waarvan een verzoek tot teruggeleiding is gedaan bij de centrale autoriteit, houdt zijn beslissing aan totdat op dat verzoek onherroepelijk is beslist. Is nog geen verzoek tot teruggeleiding gedaan, dan houdt de rechter zijn beslissing gedurende een redelijke termijn aan, als hij goede gronden heeft om aan te nemen dat het kind internationaal is ontvoerd in de zin van artikel 377i, onderdeel c, van dit Boek en dat een verzoek tot zijn teruggeleiding zal worden ingediend.

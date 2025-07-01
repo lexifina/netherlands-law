@@ -1,0 +1,8 @@
+# Artikel 49a
+1. Indien een buiten de openbare lichamen Bonaire, Sint Eustatius en Saba woonplaats hebbende of gehad hebbende Nederlander, vluchteling of staatloze van wie het personele statuut door de wetgeving van Bonaire, Sint Eustatius en Saba bepaald wordt, buiten de openbare lichamen Bonaire, Sint Eustatius en Saba een huwelijk wenst aan te gaan, wordt op zijn verzoek aan hem een verklaring van huwelijksbevoegdheid overeenkomstig het model, toegevoegd aan de op 5 september 1980 te München tot stand gekomen Overeenkomst betreffende de afgifte van een verklaring van huwelijksbevoegdheid (Trb. 1981, 71), afgegeven.
+2. Deze verklaring wordt afgegeven:
+a. aan degene die in de openbare lichamen Bonaire, Sint Eustatius en Saba woonplaats heeft door de ambtenaar van de burgerlijke stand van zijn woonplaats;
+b. aan degene die in de openbare lichamen Bonaire, Sint Eustatius en Saba geen woonplaats heeft, maar wel heeft gehad, door de ambtenaar van de burgerlijke stand van zijn laatste woonplaats aldaar.
+3. De verklaring wordt door de bevoegde autoriteit niet afgegeven alvorens deze, door kennisneming van de bescheiden, vermeld in artikel 44, eerste lid, onderdelen a tot en met e, en zo nodig van die, vermeld in de artikelen 45 en 45a, alsmede in artikel 27b, zich ervan heeft overtuigd dat naar het recht van de openbare lichamen Bonaire, Sint Eustatius en Saba geen beletselen tegen het huwelijk bestaan.
+4. De verklaring van huwelijksbevoegdheid is, te rekenen van het tijdstip van afgifte, gedurende zes maanden geldig.
+5. Onverminderd artikel 6 van de in het eerste lid genoemde Overeenkomst worden de in het eerste lid van dat artikel bedoelde onveranderlijke vermeldingen op de verklaring bovendien gedrukt in de Engelse en de Spaanse taal.

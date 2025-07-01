@@ -1,0 +1,2 @@
+# Artikel 377ll
+Tegen een besluit van Onze Minister is bezwaar mogelijk overeenkomstig de Wet administratieve rechtspraak BES. Onverminderd de bevoegdheid van de rechter in kort geding, is het Gerecht in eerste aanleg bevoegd tot kennisneming van alle zaken met betrekking tot de regeling en de uitoefening van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen in internationale gevallen, behoudens voor zover het betreft de erkenning, de niet-erkenning en de tenuitvoerlegging van buitenlandse beslissingen.

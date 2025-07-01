@@ -1,0 +1,4 @@
+# Artikel 232k
+1. Ingeval een in de staat van herkomst in overeenstemming met het verdrag tot stand gekomen adoptie door personen die hun gewone verblijfplaats in een openbaar lichaam hebben, niet tot gevolg heeft dat de voordien bestaande familierechtelijke betrekkingen worden verbroken, ziet de vergunninghouder erop toe dat in een van de openbare lichamen Bonaire, Sint Eustatius of Saba een verzoek tot omzetting in een adoptie naar deze wet wordt ingediend.
+2. Het verzoek wordt toegewezen indien de adoptie in het kennelijk belang is van het kind en op de dag van de indiening ervan is voldaan aan artikel 228, eerste lid, onder a en d, van Boek 1 van het Burgerlijk Wetboek BES. De omzetting heeft de gevolgen, bedoeld in de artikelen 229 tot en met 232 van Boek 1 van het Burgerlijk Wetboek BES.
+3. Van de omzetting wordt een verklaring afgegeven overeenkomstig artikel 232j van dit Boek.

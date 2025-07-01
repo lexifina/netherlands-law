@@ -1,0 +1,2 @@
+# Artikel 19a
+In geval van geboorte op een varend schip tijdens een zeereis tussen twee van de openbare lichamen Bonaire, Sint Eustatius en Saba of tijdens een luchtreis tussen twee van de openbare lichamen Bonaire, Sint Eustatius en Saba met een luchtvaartuig, wordt de akte van geboorte opgemaakt door de ambtenaar van de burgerlijke stand van het openbaar lichaam waar dat kind het schip of het luchtvaartuig verlaat, dan wel waar het schip ligplaats kiest. Dat openbaar lichaam geldt als openbaar lichaam waar het kind is geboren.

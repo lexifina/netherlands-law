@@ -1,0 +1,2 @@
+# Artikel 20f
+De ambtenaar van de burgerlijke stand die een latere vermelding van naamskeuze, de erkenning toevoegt aan de akte van geboorte van het kind, zendt een afschrift van die akte en de latere vermelding aan de personen op wie de akte betrekking heeft. Hij zendt een afschrift aan de ambtenaar van de burgerlijke stand die de akte van naamskeuze, erkenning heeft opgemaakt. Deze akte wordt bewaard totdat achttien maanden zijn verstreken na de ontvangst van laatstgenoemd afschrift.

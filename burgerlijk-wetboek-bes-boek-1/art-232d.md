@@ -1,0 +1,3 @@
+# Artikel 232d
+1. De centrale autoriteit verleent de voogdijraad op diens verzoek machtiging als bedoeld in de Wet opneming buitenlandse kinderen ter adoptie om in een andere staat die partij is bij het verdrag, of in een bepaald gebiedsdeel van die staat, op te treden. De machtiging wordt slechts verleend indien een eensluidende machtiging van de bevoegde autoriteit van die andere staat is verkregen.
+2. De voogdijraadtreedt, onder door Onze Minister nader te bepalen voorwaarden, op alsvergunninghoudende instelling in de zin van het verdrag en als vergunninghouder in de zin van de Wet opneming buitenlandse kinderen ter adoptie.
