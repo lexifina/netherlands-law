@@ -1,0 +1,2 @@
+# Artikel 51cb
+Indien Onze Minister of het openbaar ministerie deelneemt aan een casusoverleg als bedoeld in de Wet gegevensverwerking persoonsgerichte aanpak radicalisering en terroristische activiteiten, worden aan het casusoverleg tenuitvoerleggingsgegevens verstrekt, voor zover dat noodzakelijk is met het oog op het doel van het casusoverleg, tenzij naar het oordeel van de verwerkingsverantwoordelijke zwaarwegende redenen zich daartegen verzetten.
