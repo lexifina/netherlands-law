@@ -1,0 +1,5 @@
+# Artikel 177a
+1. In geval van verdenking van een misdrijf, waarop naar de wettelijke omschrijving gevangenisstraf van ten hoogste vier of meer jaren is gesteld, of een misdrijf, waardoor op geld waardeerbaar voordeel van enig belang kan worden verkregen, kan overeenkomstig de bepalingen van deze Titel een strafrechtelijk financieel onderzoek worden ingesteld.
+2. Een strafrechtelijk financieel onderzoek is gericht op de bepaling van het door de verdachte wederrechtelijk verkregen voordeel, met het oog op de ontneming daarvan op grond van artikel 38e van het Wetboek van Strafrecht BES.
+3. Het strafrechtelijk financieel onderzoek wordt ingesteld krachtens een met redenen omklede machtiging van de rechter-commissaris, op vordering van de officier van justitie die met de opsporing van het misdrijf is belast, verleend.
+4. De vordering van de officier van justitie is met redenen omkleed. Bij de vordering wordt een lijst van voorwerpen overgelegd die reeds op grond van artikel 119a, tweede lid, in beslag zijn genomen.

@@ -1,0 +1,9 @@
+# Artikel 177r
+1. De officier van justitie kan indien het onderzoek dit dringend vordert, na door de rechter-commissaris verleende machtiging, bevelen aan een opsporingsambtenaar dat met een technisch hulpmiddel niet voor het publiek bestemde communicatie die plaatsvindt met gebruikmaking van de diensten van een aanbieder van een communicatiedienst, wordt opgenomen, in geval van:
+a. verdenking van een misdrijf waarvoor voorlopige hechtenis is toegelaten, en dat, gezien zijn aard of de samenhang met andere vermoedelijk door de verdachte begane misdrijven een ernstige inbreuk op de rechtsorde oplevert;
+b. aanwijzingen van een terroristisch misdrijf.
+2. Het bevel vermeldt, behalve de gegevens, bedoeld in artikel 177h, tevens zo mogelijk het nummer of een andere aanduiding waarmee de individuele gebruiker van de communicatiedienst wordt geïdentificeerd alsmede, voor zover bekend, de naam en het adres van de gebruiker en een aanduiding van de aard van het technisch hulpmiddel of de technische hulpmiddelen waarmee de communicatie wordt opgenomen.
+3. Het bevel kan in het belang van het onderzoek ten uitvoer worden gelegd met medewerking van de aanbieder van een communicatiedienst. In dat geval gaat het bevel vergezeld van de schriftelijke vordering van de officier van justitie aan de aanbieder om medewerking te verlenen.
+4. In een geval als bedoeld in het eerste lid, onderdeel a, kan het bevel ten opzichte van een persoon, die zich op grond van artikel 252 kan verschonen van het geven van een getuigenis, uitsluitend worden gegeven, indien deze zelf als verdachte wordt aangemerkt.
+5. Het bevel wordt gegeven voor een periode van ten hoogste vier weken. De geldigheidsduur kan telkens voor een termijn van ten hoogste vier weken worden verlengd.
+6. Van het opnemen wordt binnen drie dagen proces-verbaal opgemaakt.

@@ -1,0 +1,2 @@
+# Artikel 503b
+De officier van justitie kan, zolang het onderzoek op de terechtzitting niet is gesloten, met de verdachte of veroordeelde een schriftelijke schikking aangaan tot betaling van een geldbedrag aan de Staat of tot overdracht van voorwerpen ten gehele of gedeeltelijke ontneming van het geschatte voordeel – met inbegrip van besparing van kosten – door de betrokkene door middel van of uit de baten van het feit waarvoor hij is vervolgd of soortgelijke feiten verkregen.

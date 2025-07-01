@@ -1,0 +1,2 @@
+# Artikel 79d
+Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de wijze van uitvoering van de artikelen 79, 79a, en 79b, in het bijzonder met betrekking tot de wijze waarop celmateriaal van een persoon wordt afgenomen, de methode en de plaats van onderzoek, de aanwijzing van de deskundigen, het door de deskundigen uit te brengen verslag, de wijze waarop het recht op tegenonderzoek kan worden uitgeoefend en het bewaren van celmateriaal.

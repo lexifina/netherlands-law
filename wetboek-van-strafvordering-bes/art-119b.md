@@ -1,0 +1,5 @@
+# Artikel 119b
+Voor de toepassing van de artikelen 119 en 119a geldt:
+a. dat beslag op vorderingen wordt gelegd en beëindigd door een schriftelijke kennisgeving aan de schuldenaar;
+b. dat bij het leggen en beëindigen van beslag op onroerende goederen de tussenkomst van de deurwaarder wordt ingeroepen en formaliteiten in acht worden genomen welke ingevolge het Wetboek van Burgerlijke Rechtsvordering BES gelden ten aanzien van de mededeling of aanzegging van de inbeslagneming, dan wel de betekening van het proces-verbaal van inbeslagneming, de aantekening, inschrijving of doorhaling in registers en de betekening daarvan aan derden;
+c. dat bij het leggen of beëindigen van beslag op schepen en luchtvaartuigen formaliteiten in acht worden genomen welke ingevolge het Wetboek van Burgerlijke Rechtsvordering BES gelden ten aanzien van de betekening van het proces-verbaal van inbeslagneming, en ingevolge enige regeling inzake teboekgestelde schepen onderscheidenlijk luchtvaartuigen ten aanzien van de inschrijving en doorhaling daarvan in registers.

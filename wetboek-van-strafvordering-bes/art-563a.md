@@ -1,0 +1,3 @@
+# Artikel 563a
+1. De rechter-commissaris kan, op vordering van de officier van justitie uitvoering geven aan een verzoek tot verhoor per videoconferentie door bevoegde buitenlandse autoriteiten, onder zijn leiding, van een getuige of deskundige. Indien een toepasselijk verdrag daarin voorziet kan tevens uitvoering worden gegeven aan een verzoek om, in het kader van de opsporing en vervolging van strafbare feiten, een verdachte per videoconferentie te verhoren.
+2. Tenzij een toepasselijk verdrag anders bepaalt, zijn de bepalingen in dit wetboek inzake een verzoek tot verhoor van een verdachte, getuige of deskundige door de rechter-commissaris van overeenkomstige toepassing op de uitvoering van het verzoek tot verhoor per videoconferentie.

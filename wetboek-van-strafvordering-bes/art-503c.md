@@ -1,0 +1,4 @@
+# Artikel 503c
+1. Op de behandeling van de vordering van de officier van justitie is de Tweede Afdeling van Titel IV van het vijfde Boek van overeenkomstige toepassing. De behandeling van de vordering ter terechtzitting kan worden voorafgegaan door een schriftelijke voorbereiding op de wijze als door het gerecht te bepalen.
+2. Indien enig nader strafrechtelijk financieel onderzoek noodzakelijk blijkt, stelt het gerecht met schorsing der zaak onder aanduiding van het onderwerp van onderzoek en zo nodig de wijze waarop dit zal zijn in te stellen, de stukken in handen van de officier van justitie.
+3. Het onderzoek geldt als een met rechterlijke machtiging ingestelde strafrechtelijk financieel onderzoek dat wordt gevoerd overeenkomstig de bepalingen van Titel XVI van het derde Boek, met uitzondering van artikel 177g, vierde en vijfde lid.

@@ -1,0 +1,2 @@
+# Artikel 145a
+Het openbaar ministerie kan op verzoek van de beslagene of van een andere belanghebbende een voorwerp dat op grond van artikel 119a in beslag is genomen onder zekerheidstelling doen teruggeven. De zekerheid bestaat in de storting van geldswaarden door de beslagene of een derde, of in de verbintenis van een derde als waarborg, voor een bedrag en op een wijze als door het openbaar ministerie wordt aanvaard.

@@ -1,0 +1,4 @@
+# Artikel 177kb
+1. Zolang de zaak niet is geëindigd, bewaart de officier van justitie de processen-verbaal en andere voorwerpen, waaraan gegevens kunnen worden ontleend die zijn verkregen door toepassing van een bevoegdheid als bedoeld in titels XVIII en XIX, voor zover die niet bij de processtukken zijn gevoegd, en houdt deze ter beschikking van het onderzoek.
+2. Zodra twee maanden verstreken zijn nadat de zaak geëindigd is en de laatste mededeling, bedoeld in artikel 177ka, is gedaan, doet de officier van justitie de processen-verbaal en andere voorwerpen, bedoeld in het eerste lid, vernietigen. Van de vernietiging wordt proces-verbaal opgemaakt.
+3. Met een zaak die geëindigd is, wordt bij de toepassing van het tweede lid gelijkgesteld een voorbereidend onderzoek dat naar redelijke verwachting niet tot een zaak zal leiden.

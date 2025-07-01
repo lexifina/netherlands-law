@@ -1,0 +1,4 @@
+# Artikel 114a
+1. Indien de opheffing geschiedt wegens het niet nakomen van voorwaarden, kan bij de beslissing tot opheffing de zekerheid vervallen worden verklaard aan de Staat.
+2. De beslissing geldt als een onherroepelijke uitspraak van de burgerlijke rechter en wordt als zodanig ten uitvoer gelegd.
+3. Indien de verdachte zich na de opheffing van de schorsing aan de tenuitvoerlegging van het bevel tot voorlopige hechtenis onttrekt, wordt, indien dit nog niet is gebeurd, de zekerheid vervallen verklaard aan de Staat. De zekerheid wordt eveneens, ook zonder dat de opheffing van de schorsing is bevolen, vervallen verklaard aan de Staat, indien de verdachte de voorwaarde bedoeld in artikel 111, tweede lid, onderdeel b, niet nakomt. De beslissing wordt ambtshalve of op vordering van het openbaar ministerie gegeven. Het tweede lid is van toepassing.

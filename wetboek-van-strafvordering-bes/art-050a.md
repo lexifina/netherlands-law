@@ -1,0 +1,3 @@
+# Artikel 50a
+1. De verdachte kan de officier van justitie dan wel, indien een gerechtelijk vooronderzoek is geopend, de rechter-commissaris schriftelijk en gemotiveerd verzoeken de door hem aangeduide processen-verbaal of andere voorwerpen bij de processtukken te voegen. Op een dergelijk verzoek wordt zo spoedig mogelijk beslist.
+2. Afwijzing van een verzoek als bedoeld in het eerste lid geschiedt schriftelijk en onder opgave van redenen. Van deze beslissing kan de verdachte binnen drie dagen in beroep komen bij de rechter-commissaris dan wel, indien de afwijzing door de rechter-commissaris is geschied, bij het Hof van Justitie.

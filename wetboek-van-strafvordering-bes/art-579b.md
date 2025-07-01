@@ -1,0 +1,8 @@
+# Artikel 579b
+1. Voor zover een verdrag daarin voorziet kunnen op verzoek van een vreemde staat voorwerpen in beslag worden genomen:
+a. ten aanzien waarvan naar het recht van de vreemde staat een tot verbeurdverklaring strekkende sanctie kan worden opgelegd;
+b. tot bewaring van het recht tot verhaal voor een tot ontneming van wederrechtelijk verkregen voordeel strekkende verplichting tot betaling van een geldbedrag welke naar het recht van de vreemde staat kan worden opgelegd; of
+c. die kunnen dienen om wederrechtelijk verkregen voordeel aan te tonen.
+2. Inbeslagneming, als bedoeld in het eerste lid, onderdelen a en b, kan slechts plaatsvinden, indien blijkens de door de vreemde staat bij zijn verzoek verstrekte inlichtingen, door de bevoegde autoriteiten van die staat een bevel tot inbeslagneming is gegeven of zou zijn gegeven, indien de desbetreffende voorwerpen zich binnen zijn grondgebied zouden bevinden, en inbeslagneming naar het recht van Bonaire, Sint Eustatius en Saba is toegestaan.
+3. Voor de toepassing van het tweede lid is inbeslagneming naar het recht van Bonaire, Sint Eustatius en Saba toegestaan, indien zulks ook mogelijk zou zijn geweest wanneer het feit of de feiten naar aanleiding waarvan de inbeslagneming door de vreemde staat wordt verzocht in de openbare lichamen Bonaire, Sint Eustatius en Saba zou of zouden zijn begaan.
+4. Inbeslagneming van voorwerpen, als bedoeld in het eerste lid, onderdelen a en b, kan voorts slechts plaatsvinden, indien gegronde redenen bestaan voor de verwachting dat ten aanzien van die voorwerpen vanwege de verzoekende vreemde staat een verzoek tot tenuitvoerlegging van een verbeurdverklaring of van een tot ontneming van wederrechtelijk verkregen voordeel strekkende sanctie zal worden gedaan.
