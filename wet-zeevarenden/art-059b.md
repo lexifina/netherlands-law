@@ -1,5 +1,0 @@
-# Artikel 59b
-1. Het is een kapitein, een scheepsofficier of een andere zeevarende, die op een schip buiten de Nederlandse territoriale zee veiligheidstaken, beveiligingstaken of taken die verband houden met het mariene milieu uitvoert, verboden dit te doen terwijl hij verkeert onder zodanige invloed van een stof waarvan hij weet of redelijkerwijze moet weten dat het gebruik daarvan – al dan niet in combinatie met het gebruik van een andere stof – de vaardigheid voor die taak kan verminderen, dat hij niet in staat moet worden geacht die taak naar behoren te kunnen uitvoeren.
-2. Het is een kapitein, een scheepsofficier of een andere zeevarende op een schip buiten de Nederlandse territoriale zee veiligheidstaken, beveiligingstaken of taken die verband houden met het mariene milieu uit te voeren, verboden dit te doen na zodanig gebruik van alcoholhoudende drank, dat:
-a. het alcoholgehalte van zijn adem bij een onderzoek hoger blijkt te zijn dan tweehonderdtwintig microgram (220 μg) alcohol per liter uitgeademde lucht, dan wel
-b. het alcoholgehalte van zijn bloed bij een onderzoek hoger blijkt te zijn dan 0,5 milligram (0,5 mg) alcohol per milliliter bloed.

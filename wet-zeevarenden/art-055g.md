@@ -1,4 +1,0 @@
-# Artikel 55g
-1. De voorzitter, de leden en de secretaris, alsmede hun plaatsvervangers, mogen zich niet op enige wijze inlaten met partijen of hun raadslieden of gemachtigden over enige zaak die bij het tuchtcollege voor de scheepvaart aanhangig is, of waarvan zij weten of kunnen vermoeden dat deze bij het tuchtcollege voor de scheepvaart aanhangig zal worden gemaakt.
-2. Zij zijn verplicht tot geheimhouding van de gegevens waarover zij bij de uitoefening van hun taak de beschikking krijgen en waarvan zij het vertrouwelijk karakter kennen of redelijkerwijs moeten vermoeden, behoudens voorzover enig wettelijk voorschrift hen tot mededeling verplicht of uit hun taak de noodzaak tot mededeling voortvloeit.
-3. Zij zijn verplicht tot geheimhouding van hetgeen in de raadkamer over aanhangige zaken is geuit.

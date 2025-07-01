@@ -1,6 +1,0 @@
-# Artikel 55t
-1. Het College van Beroep voor het bedrijfsleven kan op verzoek van een kapitein of een scheepsofficier aan wie een tuchtmaatregel is opgelegd een onherroepelijk geworden beslissing van het tuchtcollege of van het College van Beroep voor het bedrijfsleven herzien op grond van feiten of omstandigheden die:
-a. het tuchtcollege of het College van Beroep voor het bedrijfsleven bij de behandeling van de zaak ter zitting niet bekend waren en redelijkerwijs niet bekend konden zijn, en die
-b. indien zij het tuchtcollege of het College van Beroep voor het bedrijfsleven bij de behandeling van de zaak ter zitting wel bekend zouden zijn geweest, tot een andere beslissing zouden hebben kunnen leiden.
-2. Op de behandeling van het verzoek tot herziening zijn de artikelen 55j, eerste, tweede en derde lid, 55l, 55m, en 55n tot en met 55q van overeenkomstige toepassing.
-3. Aan de behandeling van het verzoek tot herziening ter zitting van het College van Beroep voor het bedrijfsleven nemen geen leden deel die hebben deelgenomen aan de behandeling van de zaak, waarvan de herziening wordt verzocht.
