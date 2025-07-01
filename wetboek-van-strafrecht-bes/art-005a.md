@@ -1,0 +1,8 @@
+# Artikel 5a
+1. De strafwet van de openbare lichamen Bonaire, Sint Eustatius en Saba is toepasselijk op de vreemdeling die in de openbare lichamen een vaste woon- of verblijfplaats heeft en zich buiten de openbare lichamen schuldig maakt:
+1°. aan een der misdrijven omschreven in de artikelen 246bis, 248 tot en met 258 en 286f, voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt dan wel aan een der misdrijven omschreven in de artikelen 313 tot en met 316, voor zover het feit oplevert genitale verminking van een persoon van het vrouwelijke geslacht die de leeftijd van achttien jaren nog niet heeft bereikt;
+2°. aan een der misdrijven omschreven in 286f, voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaar heeft bereikt, en in de artikelen 236, 334, 366 en 431 tot en met 432bis, en op het feit door de wet van het land waar het begaan is, straf is gesteld;
+3°. aan een der misdrijven omschreven in 286f, voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaar heeft bereikt, en in de artikelen 236, 334, 366 en 431 tot en met 432bis, voor zover het feit valt onder de omschrijvingen van artikel 20 van het op 16 mei 2005 te Warschau totstandgekomen Verdrag inzake bestrijding van mensenhandel, indien het feit is gepleegd buiten de rechtsmacht van enige staat;
+4°. aan het misdrijf omschreven in artikel 242;
+5°. aan het misdrijf omschreven in artikel 297, eerste lid.
+2. In de gevallen, omschreven in het eerste lid, onderdelen 1°, 2°, 3° en 5° kan de vervolging ook plaatshebben, indien de verdachte eerst na het begaan van het feit een vaste woon- of verblijfplaats in de openbare lichamen heeft gekregen.

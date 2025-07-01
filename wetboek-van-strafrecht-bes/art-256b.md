@@ -1,0 +1,2 @@
+# Artikel 256b
+Hij die opzettelijk aanwezig is bij het plegen van ontuchtige handelingen door een persoon waarvan hij weet of redelijkerwijs moet vermoeden dat deze de leeftijd van achttien jaren nog niet heeft bereikt dan wel bij het vertonen van afbeeldingen van dergelijke handelingen in een daarvoor bestemde gelegenheid, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.

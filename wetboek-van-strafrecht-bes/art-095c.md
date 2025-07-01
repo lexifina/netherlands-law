@@ -1,0 +1,2 @@
+# Artikel 95c
+Onder discriminatie wordt verstaan elke vorm van onderscheid, elke uitsluiting, beperking of voorkeur, die ten doel heeft of ten gevolge kan hebben, dat de erkenning, het genot of de uitoefening op voet van gelijkheid van de rechten van de mens en de fundamentele vrijheden op politiek, economisch, sociaal of cultureel terrein of op andere terreinen van het openbare leven, wordt tenietgedaan of aangetast.

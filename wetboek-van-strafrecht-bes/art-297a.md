@@ -1,0 +1,2 @@
+# Artikel 297a
+Hij die een ander door bedreiging met diefstal of afpersing van een splijtstof als bedoeld in het Verdrag inzake de fysieke beveiliging van kernmateriaal (Trb. 1981, 7) gericht tegen die ander of tegen derden wederrechtelijk dwingt iets te doen, niet te doen of te dulden, wordt gestraft met gevangenisstraf van ten hoogste een jaar en zes maanden of geldboete van de vierde categorie.

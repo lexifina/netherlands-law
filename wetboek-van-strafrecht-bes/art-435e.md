@@ -1,0 +1,9 @@
+# Artikel 435e
+1. Als schuldig aan het financieren van terrorisme wordt gestraft met een gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie:
+a. hij die zich of een ander opzettelijk middelen of inlichtingen verschaft dan wel opzettelijk voorwerpen verzamelt, verwerft, voorhanden heeft of aan een ander verschaft, die geheel of gedeeltelijk, onmiddellijk of middellijk, dienen om geldelijke steun te verlenen aan het plegen van een terroristisch misdrijf of een misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf;
+b. hij die zich of een ander opzettelijk middelen of inlichtingen verschaft dan wel opzettelijk voorwerpen verzamelt, verwerft, voorhanden heeft of aan een ander verschaft, die geheel of gedeeltelijk, onmiddellijk of middellijk, dienen om geldelijke steun te verlenen aan het plegen van een van de misdrijven omschreven in:
+– de artikelen 124a tot en met 124c alsmede artikel 298, indien dat misdrijf is gericht tegen een internationaal beschermd persoon of diens beschermde goederen;
+– de artikelen 79 en 80 van de Kernenergiewet, de artikelen 167c, 179a en 297a alsmede de artikelen 146, 163, 230, 323 tot en met 325, 330, 331, 334, 335 en 339, indien het feit opzettelijk wederrechtelijk handelen betreft met betrekking tot kernmateriaal;
+– de artikelen 168, 168a, 172, 174, 295ao, 370, 399a tot en met 399d;
+– de artikelen 97 tot en met 102, 114, 123, 129, 130, 146, 163, 167, 167a, 167c, 170, 177, 178, 300, 301 en 302, indien het feiten betreft die worden gepleegd door middel van het opzettelijk wederrechtelijk tot ontlading of ontploffing brengen van een springstof of ander voorwerp, of het laten vrijkomen, verspreiden of inwerken van een voorwerp, waardoor levensgevaar, gevaar voor zwaar lichamelijk letsel voor een ander of aanzienlijke materiële schade te duchten is.
+2. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.

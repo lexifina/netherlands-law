@@ -1,0 +1,7 @@
+# Artikel 18a
+Aan de voorwaardelijke invrijheidstelling wordt als algemeene voorwaarde verbonden dat de veroordeelde geen strafbaar feit zal begaan, noch zich op andere wijze zal misdragen.
+Aan de voorwaardelijke invrijheidstelling kunnen bovendien bijzondere voorwaarden, het gedrag van den veroordeelde betreffende, worden verbonden, mits die voorwaarden de godsdienstige of staatkundige vrijheid niet beperken. Mede kan als bijzondere voorwaarde worden gesteld dat de veroordeelde zich ter verpleging zal laten opnemen in een daarbij aan te wijzen psychiatrisch ziekenhuis.
+Met het toezicht op de naleving der voorwaarden is steeds het openbaar ministerie belast.
+Op de naleving der voorwaarden kan bovendien een bijzonder toezicht in het leven worden geroepen.
+Gedurende de proeftijd kan worden bepaald, dat deze voor het in artikel 18 bedoelde tijdstip zal eindigen, kan in de gestelde bijzondere voorwaarden wijziging worden gebracht, kunnen deze voorwaarden worden opgeheven, kunnen alsnog bijzondere voorwaarden worden gesteld, kan alsnog een bijzonder toezicht in het leven worden geroepen en kan het bijzondere toezicht aan een ander dan degene die daarmede te voren was belast, worden opgedragen.
+Aan den voorwaardelijk in vrijheid gestelde wordt een verlofpas uitgereikt, waarin alle hem gestelde voorwaarden zijn uitgedrukt. In geval van toepassing van het voorgaande lid wordt hem een nieuwe verlofpas uitgereikt.

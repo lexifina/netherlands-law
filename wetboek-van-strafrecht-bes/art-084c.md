@@ -1,0 +1,2 @@
+# Artikel 84c
+Onder misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf wordt verstaan elk van de misdrijven omschreven in de artikelen 137, tweede lid, 138, tweede lid, 211, tweede lid, 230, derde lid, 298, vierde lid, 324, eerste lid, onder 6°, 325, tweede lid, onder 2°, 330, derde lid jo. 325, tweede lid, onder 2°, 331, tweede lid, 335a, 339, tweede lid, en 372a, eerste lid.

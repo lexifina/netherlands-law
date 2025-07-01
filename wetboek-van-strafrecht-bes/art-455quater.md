@@ -1,0 +1,2 @@
+# Artikel 455quater
+De bestuurder van een naamloze vennootschap,of besloten vennootschap die niet voldoet aan eenige hem bij Boek 2 van het Burgerlijk Wetboek BES opgelegde verplichting betreffende het opmaken van de balans en de winst- en verliesrekening met toelichting, de openbaarmaking of nederlegging ter inzage van enig stuk, of de aankondiging van dergelijke nederlegging, wordt gestraft met hechtenis van ten hoogste twee jaar of geldboete van de derde categorie.

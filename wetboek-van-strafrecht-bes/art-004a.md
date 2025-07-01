@@ -1,0 +1,3 @@
+# Artikel 4a
+1. De strafwet van de openbare lichamen Bonaire, Sint Eustatius en Saba is toepasselijk op ieder tegen wie de strafvervolging door de openbare lichamen Bonaire, Sint Eustatius en Saba van een vreemde staat is overgenomen op grond van een verdrag waaruit de bevoegdheid tot strafvervolging voor de openbare lichamen Bonaire, Sint Eustatius en Saba volgt.
+2. De strafwet van de openbare lichamen Bonaire, Sint Eustatius en Saba is voorts toepasselijk op ieder wiens uitlevering ter zake van een terroristisch misdrijf dan wel een misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf, ontoelaatbaar is verklaard, is afgewezen of geweigerd.

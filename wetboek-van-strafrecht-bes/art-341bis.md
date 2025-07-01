@@ -1,0 +1,2 @@
+# Artikel 341bis
+Hij, die, om het handels- of bedrijfsdebiet van zichzelven of van een ander te vestigen, te behouden of uit te breiden, eenige bedrieglijke handeling pleegt tot misleiding van het publiek of van een bepaald persoon, wordt, indien daaruit eenig nadeel voor concurrenten van hem of van dien ander kan ontstaan, als schuldig aan oneerlijke mededinging, gestraft met gevangenisstraf van ten hoogste een jaar, of geldboete van de derde categorie.

@@ -1,0 +1,6 @@
+# Artikel 5b
+De strafwet van de openbare lichamen Bonaire, Sint Eustatius en Saba is toepasselijk op ieder die zich schuldig maakt:
+1°. aan een der misdrijven omschreven in artikel 286f, en in de artikelen 236, 334, 366 en 431 tot en met 432bis, voor zover het feit valt onder de omschrijvingen van artikel 20 van het op 16 mei 2005 te Warschau totstandgekomen Verdrag inzake bestrijding van mensenhandel, indien het feit is gepleegd tegen een Nederlander;
+2°. aan een der misdrijven omschreven in de artikelen 246bis, 248 tot en met 254, 256 tot en met 258 en 286f, indien het feit is gepleegd tegen een Nederlander of een vreemdeling die in Nederland een vast woon- of verblijfplaats heeft die de leeftijd van achttien jaren nog niet heeft bereikt;
+3°. aan een der misdrijven omschreven in de artikelen 313 tot en met 316, voor zover het feit oplevert genitale verminking van een persoon van het vrouwelijke geslacht die de leeftijd van achttien jaren nog niet heeft bereikt, indien het feit is gepleegd tegen een Nederlander of een vreemdeling die in Nederland een vaste woon- of verblijfplaats heeft;
+4°. aan het misdrijf omschreven in artikel 297, eerste lid, indien het feit is gepleegd tegen een Nederlander of een vreemdeling die in Nederland een vaste woon- of verblijfplaats heeft.

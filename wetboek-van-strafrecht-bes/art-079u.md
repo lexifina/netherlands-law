@@ -1,0 +1,6 @@
+# Artikel 79u
+1. Indien op grond van enige bepaling in deze titel door de rechter een beslissing wordt genomen geldt het volgende:
+a. Indien er sprake is van een vordering van het openbaar ministerie dagvaardt het openbaar ministerie de veroordeelde met een met reden omklede vordering. Is door de veroordeelde enig verzoek aan de rechter gericht, dan dagvaardt het openbaar ministerie ten spoedigste nadat het verzoekschrift door de griffier in zijn handen is gesteld met een met redenen omklede conclusie. Indien de rechter ambtshalve voornemens is zijn beslissing te wijzigen dan dagvaardt het openbaar ministerie de veroordeelde ten spoedigste nadat hij daaromtrent vanwege de griffie heeft vernomen.
+b. voor het overige zijn de artikelen 17i tot en met 17k van deze wet alsmede artikel 488 van het Wetboek van Strafvordering BES zoveel mogelijk van overeenkomstige toepassing.
+2. Indien de veroordeelde op het tijdstip dat de procedure bedoeld in het eerste lid is ingesteld, de leeftijd van achttien jaren nog niet heeft bereikt, zijn daarenboven de artikelen 488 tot en met 490, 497 en 498 van het Wetboek van Strafvordering BES van overeenkomstige toepassing.
+3. In afwijking van het in het eerste lid van toepassing verklaarde artikel 17k geldt dat hoger beroep in de gevallen van beslissingen op grond van de artikel 79n wel is toegelaten.

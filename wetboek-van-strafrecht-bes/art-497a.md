@@ -1,0 +1,2 @@
+# Artikel 497a
+Hij die, zonder daartoe gerechtigd te zijn, gebruik maakt, zij het ook met een geringe afwijking, van een onderscheidingsteken, waarvan het gebruik krachtens wettelijke regeling uitsluitend aan hospitaalschepen, aan sloepen van zodanige schepen of aan kleine vaartuigen voor de hospitaaldienst bestemd, is toegekend, wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de eerste categorie.

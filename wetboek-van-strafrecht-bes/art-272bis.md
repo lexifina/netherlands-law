@@ -1,0 +1,2 @@
+# Artikel 272bis
+Hij, die bij onherroepelijk geworden rechterlijke uitspraak veroordeeld zijnde om aan iemand levensonderhoud te verschaffen of om een bepaald bedrag te betalen voor de verzorging en de opvoeding van een minderjarige kind, hiermede opzettelijk geheel of gedeeltelijk in gebreke is gebleven gedurende een tijdsverloop van twee maanden, wordt gestraft met gevangenisstraf van ten hoogste een jaar of met geldboete van de eerste categorie.

@@ -1,0 +1,2 @@
+# Artikel 430a
+Indien een misdrijf, strafbaar gesteld in een van de artikelen 399a tot en met 399d, is begaan met een terroristisch oogmerk, wordt de in dat artikel bepaalde tijdelijke gevangenisstraf met de helft verhoogd en kan, indien op dit misdrijf een tijdelijke gevangenisstraf van ten hoogste vijftien jaren is gesteld, levenslange gevangenisstraf of tijdelijke van ten hoogste vierentwintig jaren worden opgelegd.

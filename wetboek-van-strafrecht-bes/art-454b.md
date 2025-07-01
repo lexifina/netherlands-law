@@ -1,0 +1,2 @@
+# Artikel 454b
+Hij, die zonder daartoe gerechtigd te zijn, gebruik maakt van woorden, uitdrukkingen of kentekenen, die aanduiden of de indruk wekken, dat zij optreden is bevorderd dan wel de steun of de erkenning geniet van rijkswege, vanwege een openbaar lichaam, vanwege Nederland een buitenlandse mogendheid of een volkenrechtelijke organisatie, wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.

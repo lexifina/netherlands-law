@@ -1,0 +1,2 @@
+# Artikel 17e
+Nadat de uitspraak onherroepelijk is geworden, wordt ten spoedigste vanwege het openbaar ministerie door een deurwaarder of dienaar der openbare macht aan den veroordeelde eene kennisgeving beteekend, houdende de straf, waartoe hij is veroordeeld, en alle tot het in artikel 17a bedoelde bevel betrekkelijke beslissingen. In ieder geval, waarin bijzondere voorwaarden zijn gesteld of waarin het openbaar ministerie dit bepaalt, geschiedt de betekening aan de veroordeelde in persoon; in andere gevallen geschiedt dit zoveel mogelijk.

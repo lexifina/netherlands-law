@@ -1,0 +1,2 @@
+# Artikel 27a
+Bij de vaststelling van de geldboete houdt de rechter rekening met de draagkracht van de verdachte in de mate waarin hij dat nodig acht met het oog op een passende bestraffing van de verdachte zonder dat deze in zijn inkomen en vermogen onevenredig wordt getroffen.

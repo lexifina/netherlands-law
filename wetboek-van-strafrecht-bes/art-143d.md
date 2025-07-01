@@ -1,0 +1,2 @@
+# Artikel 143d
+Hij die deelneemt of geldelijke of andere stoffelijke steun verleent aan activiteiten gericht op discriminatie van mensen wegens hun ras, hun godsdienst, hun levensovertuiging, hun geslacht, hun hetero- of homoseksuele gerichtheid of hun lichamelijke, psychische of verstandelijke handicap, wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.

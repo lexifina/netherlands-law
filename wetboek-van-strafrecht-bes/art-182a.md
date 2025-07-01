@@ -1,0 +1,3 @@
+# Artikel 182a
+1. Indien op een misdrijf, strafbaar gesteld in de artikelen 163, 165, 166, 167, 167a, 168, 168a, 172, 174, 176, 178 en 180, een gevangenisstraf van minder dan vijftien jaar is gesteld en het is begaan met een terroristisch oogmerk, wordt de in dat artikel bepaalde tijdelijke gevangenisstraf met de helft verhoogd.
+2. Indien op een misdrijf, strafbaar gesteld in de artikelen genoemd in het eerste lid, een gevangenisstraf van vijftien jaar is gesteld en het is begaan met een terroristisch oogmerk, kan levenslange gevangenisstraf of tijdelijke van ten hoogste vierentwintig jaren worden opgelegd.

@@ -1,0 +1,3 @@
+# Artikel 143b
+1. Hij die in het openbaar, mondeling of bij geschrift of afbeelding, aanzet tot haat tegen of discriminatie van mensen of gewelddadig optreden tegen persoon of goed van mensen wegens hun ras, hun godsdienst of hun levensovertuiging, hun hetero- of homoseksuele gerichtheid of hun lichamelijke, psychische of verstandelijke handicap of geslacht, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
+2. Indien het feit wordt gepleegd door een persoon die daarvan een beroep of gewoonte maakt of door twee of meer personen wordt gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie opgelegd.

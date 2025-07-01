@@ -1,0 +1,2 @@
+# Artikel 272ter
+Hij, aan wiens schuld te wijten is, dat hij, bij onherroepelijk geworden rechterlijke uitspraak veroordeeld zijnde om aan iemand levensonderhoud te verschaffen of om een bepaald bedrag te betalen voor de verzorging en de opvoeding van een minderjarig kind, hiermede geheel of gedeeltelijk in gebreke is gebleven gedurende een tijdsverloop van twee maanden, wordt gestraft met hechtenis van ten hoogste zes maanden of met geldboete van de eerste categorie.

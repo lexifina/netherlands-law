@@ -1,0 +1,5 @@
+# Artikel 167f
+Hij aan wiens schuld te wijten is dat enig geautomatiseerd werk voor opslag of verwerking van gegevens of enig werk voor telecommunicatie wordt vernield, beschadigd of onbruikbaar gemaakt, dat stoornis in de gang of in de werking van zodanig werk ontstaat, of dat een ten opzichte van zodanig werk genomen veiligheidsmaatregel wordt verijdeld, wordt gestraft:
+1°. met gevangenisstraf of hechtenis van ten hoogste drie maanden of geldboete van de derde categorie, indien daardoor verhindering of bemoeilijking van de opslag of verwerking van gegevens ten algemenen nutte, stoornis in een openbaar telecommunicatienetwerk of in de uitvoering van een openbare telecommunicatiedienst, of gemeen gevaar voor goederen of voor de verlening van diensten ontstaat;
+2°. met gevangenisstraf of hechtenis van ten hoogste zes maanden of geldboete van de derde categorie, indien daardoor levensgevaar voor een ander bestaat;
+3°. met gevangenisstraf of hechtenis van ten hoogste een jaar of geldboete van de derde categorie, indien het feit iemands dood ten gevolge heeft.

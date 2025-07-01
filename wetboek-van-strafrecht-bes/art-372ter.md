@@ -1,0 +1,2 @@
+# Artikel 372ter
+Met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie worden gestraft de hoofden van ministeriële departementen aan wier grove schuld te wijten is dat de in artikel 372bis, onder 4°, omschreven uitvoering wordt nagelaten.

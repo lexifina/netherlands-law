@@ -1,0 +1,3 @@
+# Artikel 17f
+Indien de voorwaarden niet worden nageleefd, kan het openbaar ministerie bij den rechter, die het in artikel 17a bedoelde bevel heeft gegeven, daarvan aan dien rechter kennis geven, met zoodanige vordering als het noodig zal oordelen. De kennisgeving dat door den veroordeelde opnieuw een strafbaar feit is begaan, geschiedt niet vóór de nieuwe uitspraak onherroepelijk is geworden.
+Het voorgaande lid is mede van toepassing, indien de veroordeelde vóór het einde van den proeftijd ter zake van een vóór het ingaan daarvan begaan strafbaar feit onherroepelijk wordt strafbaar verklaard.
