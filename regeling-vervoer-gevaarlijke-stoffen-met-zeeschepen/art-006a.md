@@ -1,0 +1,2 @@
+# Artikel 6a. Vervoersverbod en andere maatregelen
+Indien de in artikel 3 bedoelde handelingen niet worden verricht overeenkomstig de bepalingen van de IMDG-Code, kan de Minister het vervoer van de betrokken lading verbieden, onderbreken of andere maatregelen voorschrijven, tot de vastgestelde gebreken zijn opgeheven. Het onderbreken van het vervoer van de desbetreffende lading kan ter plekke geschieden of op een andere door de Minister op grond van veiligheidsoverwegingen aangewezen plaats.
