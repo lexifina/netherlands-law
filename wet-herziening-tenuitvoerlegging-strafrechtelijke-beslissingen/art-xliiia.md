@@ -1,0 +1,2 @@
+# Artikel XLIIIa
+Onze Minister van Veiligheid en Justitie zendt binnen drie jaar na de inwerkingtreding van de artikelen I en III van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van de mogelijkheid van betaling in termijnen van administratieve sancties op grond van de Wet administratiefrechtelijke handhaving verkeersvoorschriften alsmede van de mogelijkheid van beëindiging van de tenuitvoerlegging van geldboeten waarvoor geen gratie kan worden verleend indien met de voorzetting daarvan geen redelijk doel wordt gediend.
