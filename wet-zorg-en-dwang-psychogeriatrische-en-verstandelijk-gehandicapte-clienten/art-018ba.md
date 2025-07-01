@@ -1,0 +1,3 @@
+# Artikel 18ba
+1. Indien op grond van artikel 18b, tweede lid, onderdeel c, om inzage in of afschrift van gegevens uit het dossier van een overleden cliënt wordt gevraagd vanwege een vermoeden van een medische fout en de zorgaanbieder de gevraagde inzage of het gevraagde afschrift niet verstrekt, verstrekt de zorgaanbieder op verzoek van degene die om de inzage of het afschrift heeft gevraagd inzage in of afschrift van de gegevens aan een door de verzoeker aangewezen onafhankelijke arts.
+2. De arts, bedoeld in het eerste lid, beoordeelt of het niet verstrekken van de inzage of het afschrift gerechtvaardigd is. Indien de arts van oordeel is dat het niet verstrekken niet gerechtvaardigd is, verstrekt de zorgaanbieder alsnog inzage of afschrift aan de verzoeker.

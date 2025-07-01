@@ -1,0 +1,3 @@
+# Artikel 56c
+1. Nadat de klachtencommissie een beslissing heeft genomen of indien de klachtencommissie niet tijdig een beslissing heeft genomen, kan de cliënt, de vertegenwoordiger, de zorgaanbieder, degene op wie de klacht betrekking heeft of een nabestaande van de cliënt een schriftelijk en gemotiveerd verzoekschrift indienen bij de rechter ter verkrijging van een beslissing over de klacht.
+2. De termijn voor het indien van een verzoekschrift bedraagt binnen zes weken na de dag waarop de beslissing van de klachtencommissie aan de verzoeker is meegedeeld, dan wel zes weken na de dag waarop de klachtencommissie uiterlijk een beslissing had moeten nemen.

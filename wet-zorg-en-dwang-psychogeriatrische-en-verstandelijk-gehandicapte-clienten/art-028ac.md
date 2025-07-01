@@ -1,0 +1,6 @@
+# Artikel 28ac
+1. Indien het ernstig nadeel niet langer buiten een geregistreerde accommodatie kan worden afgewend door naleving van de voorwaarden, dan wel de cliënt de in de machtiging opgenomen voorwaarden niet naleeft, neemt de zorgverantwoordelijke de cliënt op in een geregistreerde accommodatie. Voorafgaand aan de opname stelt de zorgverantwoordelijke zich op de hoogte van de toestand van de cliënt en vraagt hij over de voorgenomen opname advies aan een onafhankelijke deskundige als bedoeld in artikel 11.
+2. De opname geschiedt voor ten hoogste de termijn van de resterende geldigheidsduur van de voorwaardelijke machtiging, doch niet langer dan zes maanden.
+3. Vanaf het moment dat de cliënt is opgenomen op grond van een voorwaardelijke machtiging, wordt die machtiging aangemerkt als een rechterlijke machtiging als bedoeld in artikel 24.
+4. De zorgverantwoordelijke stelt de cliënt uiterlijk vier dagen na zijn beslissing tot opname daarvan schriftelijk in kennis, onder mededeling van de redenen van de beslissing, tenzij de opname plaatsvindt op verzoek van de cliënt. Een afschrift van de beslissing wordt gezonden aan het CIZ en aan de griffier van de rechtbank die de voorwaardelijke machtiging heeft verleend.
+5. De personen, bedoeld in artikel 25, eerste lid, kunnen de zorgverantwoordelijke verzoeken toepassing te geven aan het eerste lid.

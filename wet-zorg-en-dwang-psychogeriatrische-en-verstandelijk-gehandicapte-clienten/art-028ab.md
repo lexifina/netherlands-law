@@ -1,0 +1,7 @@
+# Artikel 28ab
+1. Een voorwaardelijke machtiging heeft een geldigheidsduur van ten hoogste een jaar na dagtekening en eindigt uiterlijk op de dag waarop de cliënt de leeftijd van drieëntwintig jaar bereikt.
+2. De rechter kan op verzoek van het CIZ een voorwaardelijke machtiging telkens verlengen met een jaar.
+3. Een voorwaardelijke machtiging wordt slechts verlengd indien naar het oordeel van de rechter het ernstig nadeel, voortvloeiend uit het gedrag van de cliënt, ook na het verloop van de geldigheidsduur van de machtiging aanwezig zal zijn en het afwenden van het ernstig nadeel een verlenging van de voorwaardelijke machtiging vereist.
+4. Bij het verzoek om verlenging van de voorwaardelijke machtiging wordt een verklaring als bedoeld in artikel 26, zesde lid, onderdeel d, overgelegd, waaruit blijkt dat het ernstig nadeel, voortvloeiend uit het gedrag van de cliënt, ook na het verloop van de geldigheidsduur van de machtiging aanwezig zal zijn en het afwenden van het ernstig nadeel een verlenging van de voorwaardelijke machtiging vereist. Tevens wordt door de zorgverantwoordelijke een beschrijving overgelegd van de toestand van de cliënt, van de aan hem verleend zorg en de effecten daarvan.
+5. Het verzoekschrift tot verlenging van een voorwaardelijke machtiging wordt ingediend uiterlijk dertig dagen, doch niet eerder dan vijftig dagen voor het einde van de geldigheidsduur van de lopende machtiging.
+6. Artikel 28aa is van overeenkomstige toepassing op de verlenging van de voorwaardelijke machtiging.

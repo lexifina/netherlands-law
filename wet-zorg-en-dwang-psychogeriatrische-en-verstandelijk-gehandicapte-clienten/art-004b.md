@@ -1,0 +1,3 @@
+# Artikel 4b
+1. De artikelen 38, 39, 40, 43 tot en met 45 en 48 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing op de toevoeging en de taak van de advocaat, bedoeld in deze wet.
+2. De advocaat is tot geheimhouding verplicht van hetgeen in de uitoefening van zijn taak op grond van deze wet aan hem is toevertrouwd, tenzij enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn taak de noodzaak tot mededeling voortvloeit. De advocaat kan zich op grond van zijn geheimhoudingsplicht verschonen van het geven van getuigenis of het beantwoorden van vragen in een klachtprocedure of rechterlijke procedure.

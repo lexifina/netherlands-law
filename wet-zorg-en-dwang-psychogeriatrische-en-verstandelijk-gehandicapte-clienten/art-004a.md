@@ -1,0 +1,5 @@
+# Artikel 4a
+1. In aanvulling op hetgeen uit deze wet voortvloeit, zijn de regels inzake de verzoekprocedure uit het Wetboek van Burgerlijke Rechtsvordering van overeenkomstige toepassing. Artikel 282, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering is niet van toepassing op de verzoekprocedure, bedoeld in deze wet, en zaken betreffende hoofdstuk 3, paragraaf 2.4. In zaken betreffende hoofdstuk 3, paragraaf 2.4, is in afwijking van het bepaalde in het Wetboek van Burgerlijke Rechtsvordering artikel 269 van het Wetboek van Strafvordering van overeenkomstige toepassing.
+2. Kosten van door de rechter opgeroepen getuigen en deskundigen komen ten laste van de Staat.
+3. Bij de voorbereiding, de uitvoering, de wijziging en de beëindiging van het zorgplan of opname en verblijf in een accommodatie op grond van hoofdstuk 3, wordt de cliënt in een voor hem begrijpelijke taal geïnformeerd.
+4. Voor zover de uitvoering van de onvrijwillige zorg of de opname leidt tot vrijheidsbeneming heeft de cliënt, indien hij de Nederlandse taal niet beheerst, recht op bijstand van een tolk.

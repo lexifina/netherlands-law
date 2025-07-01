@@ -1,0 +1,3 @@
+# Artikel 56h
+1. Een ieder die betrokken is bij de uitvoering van dit hoofdstuk en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij de uitvoering van dit hoofdstuk de noodzaak tot bekendmaking voortvloeit.
+2. De cliëntenvertrouwenspersoon kan zich op grond van zijn geheimhoudingsplicht verschonen van het geven van getuigenis of het beantwoorden van vragen in een klachtprocedure of een rechterlijke procedure.

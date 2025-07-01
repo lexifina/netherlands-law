@@ -1,0 +1,4 @@
+# Artikel 2b
+1. Een zorgaanbieder waarbij cliënten worden opgenomen met toepassing van hoofdstuk 3, paragraaf 2, dan wel die onvrijwillige zorg verleent, wijst een Wzd-functionaris aan.
+2. Voordat de zorgaanbieder een Wzd-functionaris aanwijst, vraagt de zorgaanbieder hierover advies aan de cliëntenraad, bedoeld in artikel 3 van de Wet medezeggenschap cliënten zorginstellingen 2018. De artikelen 7, vijfde en zesde lid, en 6, eerste lid, eerste volzin, van de Wet medezeggenschap cliënten zorginstellingen 2018 zijn van toepassing.
+3. De zorgaanbieder draagt er zorg voor dat de Wzd-functionaris zijn taken op grond van deze wet naar behoren kan uitvoeren en waarborgt de onafhankelijkheid van de Wzd-functionaris bij de uitvoering van zijn taken op grond van deze wet. De zorgaanbieder geeft de Wzd-functionaris geen aanwijzingen met betrekking tot diens taakuitvoering op grond van deze wet.
