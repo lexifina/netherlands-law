@@ -1,0 +1,3 @@
+# Artikel 37a
+1. De strafwet van de openbare lichamen Bonaire, Sint Eustatius en Saba is, met inachtneming van de artikelen 218 en 220 en afdeling 7 van Deel XII van het VN-Zeerechtverdrag en onverminderd het recht van andere staten om overeenkomstig het VN-Zeerechtverdrag of een van de verdragen tot rechtsvervolging over te gaan, toepasselijk op ieder die zich buiten Bonaire, Sint Eustatius of Saba schuldig maakt aan overtreding van het bepaalde in artikel 6.
+2. De strafwet van de openbare lichamen Bonaire, Sint Eustatius en Saba is van toepassing op ieder die zich in de exclusieve economische zone schuldig maakt aan overtreding van de bij of krachtens artikel 14 gestelde regels.
