@@ -1,3 +1,0 @@
-# Artikel 125a
-1. Een geldig vaarbevoegdheidsbewijs dat is afgegeven voor 1 januari 2012 kan tot en met 31 december 2016 worden vernieuwd met inachtneming van de voorwaarden voor vernieuwing ervan zoals die luidden voor het tijdstip waarop artikel I, onderdeel F, van het besluit van 31 maart 2014, houdende wijziging van algemene maatregelen van bestuur op het terrein van de scheepvaart in verband met de implementatie van de wijziging van de bijlage bij het STCW-Verdrag en de STCW-Code en van richtlijn 2012/35/EU en enige andere onderwerpen op het terrein van de zeevaartbemanning (Stb. 150), in werking treedt.
-2. Een op grond van het eerste lid afgegeven vaarbevoegdheidsbewijs is uiterlijk geldig tot en met 31 december 2016.

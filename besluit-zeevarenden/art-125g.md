@@ -1,5 +1,0 @@
-# Artikel 125g
-1. Artikel 35, eerste en tweede lid, is tot en met 31 december 2016 niet van toepassing op een daarin bedoelde zeevarende indien:
-a. deze in het bezit is van een aan hem afgegeven geldig vaarbevoegdheidsbewijs waarop is aangetekend dat de houder voldoet aan de eisen voor de uitoefening van speciale taken en verantwoordelijkheden met betrekking tot de lading en de daarbij behorende uitrusting op tankschepen, bedoeld in artikel 29, eerste lid, van dit besluit, zoals dat luidde voor het tijdstip waarop artikel I, onderdeel M, van het in artikel 125a, eerste lid, bedoelde besluit in werking treedt; of
-b. het een wachtlopend gezel of een gekwalificeerd gezel betreft en deze aantoont ten minste 3 maanden dienst te hebben gedaan op een tankschip dan wel in het bezit is van een certificaat ten bewijze van het gevolgd hebben van een passende training.
-2. Een zeevarende als bedoeld in het eerste lid, heeft recht op het bekwaamheidsbewijs basis ladingbehandeling olie- en chemicaliëntankschepen, bedoeld in artikel 35, eerste lid, en op het bekwaamheidsbewijs basis ladingbehandeling gastankschepen, bedoeld in artikel 35, tweede lid.

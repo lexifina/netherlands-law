@@ -1,2 +1,0 @@
-# Artikel 125x
-Certificaten Wetgeving en Openbaar Gezag die zijn afgegeven op grond van artikel 92a van dit besluit, zoals dat luidde voor het tijdstip waarop artikel I, onderdeel O, van het in artikel 125a, eerste lid, bedoelde besluit in werking treedt, behouden hun geldigheid en worden voor de toepassing van dit besluit gelijkgesteld aan het in artikel 10, eerste lid, genoemde certificaat wetgeving en openbaar gezag.

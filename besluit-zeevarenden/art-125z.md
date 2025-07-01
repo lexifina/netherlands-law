@@ -1,2 +1,0 @@
-# Artikel 125z
-Verklaringen als bedoeld in artikel 123, eerste en tweede lid, van dit besluit, zoals dat luidde voor het tijdstip waarop artikel I, onderdeel AA, van het in artikel 125a, eerste lid, bedoelde besluit in werking treedt, behouden hun geldigheid overeenkomstig de daarop aangegeven einddatum en worden voor de toepassing van dit besluit gelijkgesteld aan de in artikel 123, eerste lid, genoemde verklaring.

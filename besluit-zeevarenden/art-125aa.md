@@ -1,3 +1,0 @@
-# Artikel 125aa
-1. In afwijking van artikel 20, derde lid, is het certificaat aanvulling-N voor reizen nabij de internationale kust, tot een bij regeling van Onze Minister vast te stellen tijdstip niet vereist voor de verkrijging van een vaarbevoegdheidsbewijs voor de functie kapitein schepen van minder dan 500 GT met de beperking tot reizen nabij de internationale kust.
-2. In afwijking van artikel 20, vierde lid, is het certificaat aanvulling-W voor reizen nabij de internationale kust, tot een bij regeling van Onze Minister vast te stellen tijdstip niet vereist voor de verkrijging van een vaarbevoegdheidsbewijs voor de functie hoofdwerktuigkundige schepen met minder dan 3.000 kW voortstuwingsvermogen met de beperking tot reizen nabij de internationale kust.

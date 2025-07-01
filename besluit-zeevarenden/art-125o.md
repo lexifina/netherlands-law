@@ -1,2 +1,0 @@
-# Artikel 125o
-Certificaten crisisbeheersing en menselijk gedrag die zijn afgegeven op grond van de artikelen 78 of 83 van dit besluit, zoals die luidden voor het tijdstip waarop artikel I, onderdeel O, van het in artikel 125a, eerste lid, bedoelde besluit in werking treedt, behouden hun geldigheid overeenkomstig de daarop aangegeven einddatum en worden voor de toepassing van dit besluit gelijkgesteld aan het in artikel 36, derde lid, genoemde certificaat crisisbeheersing en menselijk gedrag.

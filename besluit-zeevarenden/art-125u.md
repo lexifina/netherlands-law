@@ -1,2 +1,0 @@
-# Artikel 125u
-Certificaten van bekwaamheid in het gebruik van snelle hulpverleningsboten die zijn afgegeven op grond van artikel 89 van dit besluit, zoals dat luidde voor het tijdstip waarop artikel I, onderdeel O, van het in artikel 125a, eerste lid, bedoelde besluit in werking treedt, behouden hun geldigheid en worden voor de toepassing van dit besluit gelijkgesteld aan het in de artikelen 40, derde lid, en 117, derde lid, genoemde certificaat snelle hulpverleningsboten.

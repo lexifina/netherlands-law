@@ -1,2 +1,0 @@
-# Artikel 125l
-Bewijzen familiarisatietraining passagiersschip/schepen en bewijzen familiarisatie-training ro-ro passagiersschip/schepen die zijn afgegeven op grond van de artikelen 75 of 80 van dit besluit, zoals die luidden voor het tijdstip waarop artikel I, onderdeel O, van het in artikel 125a, eerste lid, bedoelde besluit in werking treedt, behouden hun geldigheid en kunnen dienen als bewijs dat aan de verplichting tot het volgen van een familiarisatietraining, opgenomen in artikel 36, vijfde lid, is voldaan.
