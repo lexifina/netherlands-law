@@ -1,0 +1,3 @@
+# Artikel 4a. Ambtshalve toekenning
+1. Indien het college van een gemeente een aanvraag heeft gedaan op grond van artikel 3, eerste lid, wordt een specifieke uitkering aan het college verstrekt ter hoogte van het bedrag dat voor die gemeente is opgenomen in de tweede kolom van bijlage II.
+2. Indien het college van een gemeente een aanvraag heeft gedaan op grond van artikel 3, eerste lid, wordt aanvullend een specifieke uitkering aan het college verstrekt ter hoogte van het bedrag dat voor die gemeente is opgenomen in de derde kolom van bijlage II, naar rato van het aantal woningen waarvoor door die gemeente een aanvraag is gedaan op grond van artikel 3, eerste lid.
