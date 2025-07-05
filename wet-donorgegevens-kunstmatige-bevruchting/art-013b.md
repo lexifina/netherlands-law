@@ -1,0 +1,2 @@
+# Artikel 13b
+Onze Minister van Volksgezondheid, Welzijn en Sport zendt binnen vijf jaar na de inwerkingtreding van de Wet van 25 augustus 2023 tot wijziging van de Wet donorgegevens kunstmatige bevruchting in verband met de tweede evaluatie van de wet, het actieplan ter ondersteuning van donorkinderen en de omvorming van de Stichting donorgegevens kunstmatige bevruchting tot publiekrechtelijk zelfstandig bestuursorgaan (Stb. 2023, 294), en vervolgens telkens na vijf jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.

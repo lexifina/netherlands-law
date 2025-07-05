@@ -1,0 +1,4 @@
+# Artikel 1j
+1. Het College kan uit eigen beweging aan een donor een donorcode toekennen of aan een donorcode een moedercode koppelen en deze moedercode toekennen aan een behandelde vrouw. Het College kan daartoe gegevens opvragen bij een verrichter die gehouden is de gevraagde gegevens aan het College te verstrekken.
+2. Bij de toepassing van het eerste lid maakt het College een reservering voor een moedercode ongedaan indien daarmee overschrijding van het wettelijk maximumaantal moedercodes of het door de donor bepaalde lagere maximumaantal wordt voorkomen. Het College doet hiervan mededeling aan de verrichter ten behoeve van wie de moedercode was gereserveerd.
+3. Indien toepassing van het tweede lid niet mogelijk is, is het College bevoegd om bij de toepassing van het eerste lid het wettelijk maximumaantal moedercodes of het door de donor bepaalde lagere maximumaantal te overschrijden.

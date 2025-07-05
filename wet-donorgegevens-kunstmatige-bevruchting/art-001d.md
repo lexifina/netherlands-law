@@ -1,0 +1,6 @@
+# Artikel 1d
+1. Het College verstrekt aan de verrichter die de gegevens, bedoeld in artikel 1b, eerste lid, heeft verstrekt, de donorcode. Indien de donorcode reeds eerder na verstrekking van de gegevens door een andere verrichter is toegekend, wordt daarvan mededeling gedaan.
+2. Gelijktijdig met de verstrekking, bedoeld in het eerste lid, reserveert het College ten behoeve van de verrichter het maximale aantal aan de donorcode gekoppelde moedercodes, tenzij de verrichter gegevens als bedoeld in artikel 1b, tweede lid, heeft verstrekt.
+3. Indien de verrichter de gegevens, bedoeld in artikel 1b, tweede lid, onderdeel a, heeft verstrekt, reserveert het College gelijktijdig met de verstrekking, bedoeld in het eerste lid, ten behoeve van de verrichter het aantal door de verrichter verzochte moedercodes.
+4. Indien de verrichter de gegevens, bedoeld in artikel 1b, tweede lid, onderdeel b, heeft verstrekt, verstrekt het College, gelijktijdig met de verstrekking, bedoeld in het eerste lid, aan de verrichter de aan die donorcode gekoppelde moedercode die reeds aan een vrouw is toegekend.
+5. Het eerste, tweede of derde lid zijn niet van toepassing, indien er geen aan de donorcode gekoppelde moedercode meer beschikbaar is. In dat geval volstaat het College met mededeling daarvan aan de verrichter.
