@@ -1,0 +1,2 @@
+# Artikel XI
+[Wijzigt de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg, de Wet ambulancevoorzieningen, de Wet elektronische gegevensuitwisseling in de zorg, de Wet medezeggenschap cliënten zorginstellingen 2018, de Wet medische hulpmiddelen, de Wet op de beroepen in de individuele gezondheidszorg, de Wet toetreding zorgaanbieders, de Wet uitvoering antidopingbeleid, de Wijzigingswet Wet geneesmiddelenprijzen (aanpassing referentielanden) en de Zorgverzekeringswet.]
