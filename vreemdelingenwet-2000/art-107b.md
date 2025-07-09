@@ -1,0 +1,4 @@
+# Artikel 107b
+1. Gelet op artikel 9, aanhef en tweede lid, onderdeel g, Algemene verordening gegevensbescherming, is het verbod om biometrische gegevens als bedoeld in artikel 4, onder 14, Algemene verordening gegevensbescherming te verwerken niet van toepassing indien de verwerking noodzakelijk is met het oog op de unieke identificatie en verificatie van de identiteit ten behoeve van grenscontrole als bedoeld in artikel 8 Schengengrenscode door middel van een geautomatiseerd grenscontrole systeem, en voor zover de verwerking niet reeds is toegestaan op grond van Europese verordeningen.
+2. Gegevens als bedoeld in het eerste lid worden maximaal 24 uur bewaard.
+3. Bij regeling van Onze Minister kunnen voorwaarden en beperkingen worden gesteld aan de verwerking van gegevens, bedoeld in het eerste lid.
