@@ -1,0 +1,4 @@
+# Artikel 21d
+1. Degene die waren anders dan in doorvoer buiten Nederland wil brengen, kan Onze Minister verzoeken een verklaring af te geven in verband met door landen van bestemming gestelde eisen.
+2. Een verklaring als bedoeld in het eerste lid, kan in afwijking van het eerste lid ook worden afgegeven door personen in dienst van een privaatrechtelijke rechtspersoon aangewezen krachtens artikel 25a, derde lid, voor zover het betrekking heeft op waren waarop deze personen toezicht houden.
+3. Onze Minister kan omtrent de uitvoering van de in het eerste en tweede lid bedoelde afgifte van verklaringen nadere regels stellen met betrekking tot de inhoud van de verklaringen en de gronden waarop verklaringen kunnen worden geweigerd. Hierbij kunnen voor verschillende categorieën waren verschillende regels worden gesteld.
