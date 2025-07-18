@@ -8,6 +8,7 @@
 ##### § 1.1.2.2a. Betaaldiensten
 ##### § 1.1.2.3. Verzekeraars
 ##### § 1.1.2.4. Beleggingsinstellingen en icbe's
+##### § 1.1.2.5. Servicen van niet-renderende kredietovereenkomsten
 #### Afdeling 1.1.3. Reikwijdte met betrekking tot financiële diensten
 ##### § 1.1.3.1. Algemeen
 ##### § 1.1.3.2. Diensten van de informatiemaatschappij
@@ -113,6 +114,10 @@
 #### Afdeling 2.2.6. Aanbieden van krediet
 ##### § 2.2.6.1. Vergunningplicht en -eisen
 ##### § 2.2.6.2. Vrijstelling
+#### Afdeling 2.2.6a. Servicen van een niet-renderende kredietovereenkomst
+##### § 2.2.6a.1. Vergunningplicht- en eisen
+##### § 2.2.6a.2. Bijkantoor en verrichten van diensten
+##### § 2.2.6a.3. Vrijstelling
 #### Afdeling 2.2.7. Beheren en aanbieden van rechten van deelneming in beleggingsinstellingen en icbe's
 ##### § 2.2.7.1. Vergunningplicht en -eisen voor het aanbieden van rechten van deelneming in en het beheren van beleggingsinstellingen
 ##### § 2.2.7.1.a. Vergunningplicht en -eisen voor het aanbieden van rechten van deelneming in icbe's
@@ -160,6 +165,8 @@
 ##### § 2.3.4a.1. Bijkantoor en verrichten van diensten naar een andere staat
 #### Afdeling 2.3.4b. Beheren van beleggingsinstellingen en aanbieden van rechten van deelneming in beleggingsinstellingen
 ##### § 2.3.4b.1. Grensoverschrijdend beheren en aanbieden
+#### Afdeling 2.3.4c. Servicen van een niet-renderende kredietovereenkomst
+##### § 2.3.7a.1. Bijkantoor en verrichten van diensten naar een andere lidstaat
 #### Afdeling 2.3.5. Aanbieden van rechten van deelneming in instellingen voor collectieve belegging in effecten
 ##### § 2.3.5.1. Bijkantoor en verrichten van diensten naar een andere lidstaat
 #### Afdeling 2.3.5a. Bemiddelen in hypothecair krediet
@@ -349,6 +356,9 @@
 #### Afdeling 4.3.4a. Verlenen van afwikkeldiensten
 #### Afdeling 4.3.5. Optreden als clearinginstelling
 #### Afdeling 4.3.6. Optreden als gevolmachtigde agent of ondergevolmachtigde agent
+#### Afdeling 4.3.6a. Servicen van een niet-renderende kredietovereenkomst en optreden als kredietkoper
+##### § 4.3.6a.1. Servicen van een niet-renderende kredietovereenkomst
+##### § 4.3.6a.2. Optreden als kredietkoper
 #### Afdeling 4.3.7. Verlenen van beleggingsdiensten, verrichten van beleggingsactiviteiten en systematische interne afhandeling
 ##### § 4.3.7.1. Algemeen
 ##### § 4.3.7.2. Exploiteren van een georganiseerde handelsfaciliteit of een multilaterale handelsfaciliteit
