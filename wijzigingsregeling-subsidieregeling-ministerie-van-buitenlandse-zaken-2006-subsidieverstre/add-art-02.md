@@ -1,0 +1,2 @@
+# Artikel II
+Afdeling 4 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006, zoals deze luidde op de dag voorafgaande aan de dag van inwerkingtreding van deze regeling, blijft van toepassing op subsidies die voor die datum zijn verstrekt en blijft van toepassing op voor inwerkingtreding van deze regeling bekendgemaakte beleidsregels en subsidieplafonds als bedoeld in artikel 6, eerste lid, van het Subsidiebesluit Ministerie van Buitenlandse Zaken.
