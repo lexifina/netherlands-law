@@ -1,0 +1,3 @@
+# Artikel 12a. Volmachten hoofd en teamleiders SPO
+1. Het hoofd van de afdeling SPO is gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot het materieelbeheer, het facilitymanagement en de huisvesting van en het personeelsadvies voor de Nederlandse Arbeidsinspectie, met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst of bestelling.
+2. De teamleiders S&O en ISI zijn gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot het materieelbeheer, het facilitymanagement en de huisvesting van de Nederlandse Arbeidsinspectie met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst of bestelling.
