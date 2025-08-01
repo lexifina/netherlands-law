@@ -1,0 +1,2 @@
+# Artikel 6a
+De artikelen 13, eerste lid, 14, eerste lid, 22, eerste lid, 26, eerste lid, en 27 eerste lid, van de wet zijn niet van toepassing op opsporingsambtenaren van bijzondere opsporingsdiensten en buitengewoon opsporingsambtenaren, voor zover de in die artikelleden genoemde handelingen plaats vinden met een trainingswapen en trainingsmunitie als bedoeld in artikel 14 van het Aanwijzingsbesluit bewapening en uitrusting politie 2013, ten behoeve van de opleiding of beroepsvaardigheidstraining.
