@@ -1,0 +1,2 @@
+# Artikel D 7
+Indien aan het orgaan waarbij een aanvraag tot registratie als bedoeld in artikel D 3 van de Kieswet kan worden ingediend, omstandigheden bekend worden, op grond waarvan een persoon die ingevolge artikel D 2 van de Kieswet als kiezer is geregistreerd, niet als kiezer behoort te zijn geregistreerd, wordt daarvan terstond mededeling gedaan aan burgemeester en wethouders van 's-Gravenhage.

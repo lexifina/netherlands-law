@@ -1,0 +1,2 @@
+# Artikel Ya 3
+De waarborgsommen, bedoeld in artikel Ya 17, in samenhang met artikel H 14, en artikel Ya 28, in samenhang met de artikelen Ya 17 en H 13, van de Kieswet, dienen uiterlijk op de veertiende dag voor de kandidaatstelling te zijn ontvangen op de daartoe bestemde rekening van het openbaar lichaam, bij een financiële onderneming die ingevolge de Wet financiële markten BES in de openbare lichamen het bedrijf van kredietinstelling mag uitoefenen, onder vermelding van de woorden «waarborgsom kandidaatstelling».

@@ -1,0 +1,2 @@
+# Artikel D 9
+Op een aanvraag als bedoeld in hoofdstuk D van de Kieswet alsmede ter uitoefening van het recht op rectificatie, bedoeld in artikel 16 van de Algemene verordening gegevensbescherming, ten aanzien van een registratie als bedoeld in artikel D 2 van de Kieswet of artikel D 1 van het Kiesbesluit, wordt uiterlijk op de zevende dag na ontvangst door burgemeester en wethouders of burgemeester en wethouders van 's-Gravenhage beslist.

@@ -1,0 +1,2 @@
+# Artikel Ya 5
+De artikelen J 13 en J 14 zijn van overeenkomstige toepassing op de gecombineerde stemmingen voor de verkiezing van de leden van de eilandsraden en de leden van de kiescolleges, met dien verstande dat in artikel J 14, eerste lid, in plaats van «de leden van provinciale staten» wordt gelezen «de leden van de kiescolleges» en in plaats van «de leden van de algemene besturen» wordt gelezen «de leden van de eilandsraden».

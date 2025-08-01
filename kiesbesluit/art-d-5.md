@@ -1,0 +1,7 @@
+# Artikel D 5
+1. Een aanvraag als bedoeld in artikel D 3 van de Kieswet wordt ingediend bij burgemeester en wethouders van 's-Gravenhage, het hoofd van de consulaire post waaronder de woonplaats van aanvrager ressorteert of, als het een persoon betreft die in Aruba, Curaçao of Sint Maarten woont, bij de vertegenwoordiger van Nederland in deze landen. Het hoofd van de consulaire post of de vertegenwoordiger zendt de aanvraag zo spoedig mogelijk door naar burgemeester en wethouders van 's-Gravenhage.
+2. In afwijking van het eerste lid dient een persoon als bedoeld in artikel B 1, tweede lid, onder b, van de Kieswet die niet gedurende ten minste tien jaren zijn werkelijke woonplaats in Nederland heeft gehad, de aanvraag in bij Onze Minister onder wiens verantwoordelijkheid de betrokken functionaris zijn werkzaamheden verricht. Onze Minister zendt de aanvraag zo spoedig mogelijk door naar burgemeester en wethouders van 's-Gravenhage.
+3. Tenzij het een persoon betreft die in Aruba, Curaçao of Sint Maarten woont, vermeldt de aanvrager op welk e-mailadres hij zijn stembiljet wenst te ontvangen.
+4. Indien de aanvrager geen e-mailadres heeft opgegeven, het stembiljet per post wenst te ontvangen of in Aruba, Curaçao of Sint Maarten woont, wordt hem het stembiljet per post toegezonden.
+5. Formulieren als bedoeld in artikel D 3 van de Kieswet zijn kosteloos verkrijgbaar bij de organen waarbij de aanvragen worden ingediend, en bij elke gemeente.
+6. Indiening van aanvragen langs elektronische weg kan uitsluitend bij burgemeester en wethouders van 's-Gravenhage.

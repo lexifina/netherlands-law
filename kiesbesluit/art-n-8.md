@@ -1,0 +1,3 @@
+# Artikel N 8
+1. Indien het de in artikel N 15, eerste lid, onder b, van de Kieswet bedoelde zitting betreft en de stemmen zijn opgenomen, schorst de voorzitter van het briefstembureau de stemopneming totdat de in artikel N 15, eerste lid, onder a, van de Kieswet bedoelde zitting is afgerond. Artikel N 6 is niet van toepassing.
+2. Indien de zitting is geschorst vanwege de in artikel N 17, eerste lid, onder a, van de Kieswet bedoelde grond, worden alle stembiljetten die zich buiten de stembus bevinden daarin teruggedaan. Daarna wordt de stembus gesloten en verzegeld. De sleutel waarmee de stembus is afgesloten, wordt in een te verzegelen enveloppe gedaan.

@@ -1,0 +1,2 @@
+# Artikel Ya 1
+De waarborgsommen, bedoeld in artikel Ya 15 in samenhang met artikel G 3, tweede lid, en artikel Ya 25, tweede lid, in samenhang met artikel G 2, tweede lid, van de Kieswet, dienen te worden overgemaakt op de daartoe bestemde rekening van het openbaar lichaam, bij een financiële onderneming die ingevolge de Wet financiële markten BES in de openbare lichamen het bedrijf van kredietinstelling mag uitoefenen, onder vermelding van de woorden «waarborgsom registratie».

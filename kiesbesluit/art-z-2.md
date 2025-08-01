@@ -1,0 +1,2 @@
+# Artikel Z 2
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
