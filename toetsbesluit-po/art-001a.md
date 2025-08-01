@@ -1,0 +1,2 @@
+# Artikel 1a. Omhangbepaling
+Dit besluit berust mede op artikel 42, eerste lid, en artikel 45e, eerste lid, van de Wet op het primair onderwijs, artikel 8.6, vijfde en zesde lid, van de Wet op het voortgezet onderwijs 2020, artikel 43, eerste lid, en artikel 48f, eerste lid, van de Wet op de expertisecentra, artikel 48 en artikel 51e, eerste lid, van de Wet primair onderwijs BES en artikel 3a, tweede lid, onderdeel c, van de Wet College voor toetsen en examens.
