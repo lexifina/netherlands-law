@@ -1,0 +1,2 @@
+# Artikel 14a. Instemmingsbevoegdheid ondersteuningsplanraad
+Het samenwerkingsverband behoeft de voorafgaande instemming van de ondersteuningsplanraad voor elk door het samenwerkingsverband te nemen besluit met betrekking tot vaststelling of wijziging van het ondersteuningsplan, bedoeld in artikel 18a van de Wet op het primair onderwijs, respectievelijk artikel 2.47 van de Wet voortgezet onderwijs 2020.
