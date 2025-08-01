@@ -1,0 +1,4 @@
+# Artikel 29a. Controle op naleving leerplicht door ambtenaren belast met de grensbewaking
+1. Onverminderd het bepaalde in artikel 28 kunnen ambtenaren belast met de grensbewaking, bedoeld in de Wet toelating en uitzetting BES, indien er ernstige twijfel bestaat of er wordt voldaan aan de verplichting de school of de instelling geregeld te bezoeken, bij vertrek van een openbaar lichaam van een jongere op wie artikel 6 of 11 van toepassing is, eisen dat deze de verklaring, bedoeld in artikel 27a, toont.
+2. De ambtenaar, bedoeld in het eerste lid, belet de jongere die niet over de in het eerste lid bedoelde verklaring beschikt, de toegang tot luchtvaartuigen of schepen.
+3. De ambtenaar, bedoeld in het eerste lid, stelt de ambtenaar, bedoeld in artikel 28, zo spoedig mogelijk in kennis van een beslissing als bedoeld in het tweede lid.
