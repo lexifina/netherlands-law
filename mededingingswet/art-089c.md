@@ -1,0 +1,5 @@
+# Artikel 89c
+1. Voor het verlenen van de nodige bijstand indien een onderneming of ondernemersvereniging zich verzet tegen een inspectie op grond van een mededingingsverordening door de Europese Commissie is voor zover de inspectie een doorzoeking omvat, een voorafgaande machtiging vereist van de rechter-commissaris, belast met de behandeling van strafzaken bij de rechtbank Rotterdam. De machtiging wordt zo mogelijk getoond.
+2. De rechter-commissaris gaat bij de toetsing van het verzoek tot machtiging na of de voorgenomen dwangmaatregelen niet willekeurig zijn of onevenredig zijn in verhouding tot het voorwerp van de inspectie, zoals is bepaald in de mededingingsverordeningen en het gemeenschapsrecht. Artikel 171 van het Wetboek van Strafvordering is van overeenkomstige toepassing. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen.
+3. Tegen de beslissing van de rechter-commissaris staat voor zover het verzoek om een machtiging niet is toegewezen, voor de Autoriteit Consument en Markt binnen veertien dagen beroep open bij de rechtbank Rotterdam.
+4. De rechter-commissaris kan bij de inspectie aanwezig zijn.

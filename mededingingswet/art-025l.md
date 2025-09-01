@@ -1,0 +1,2 @@
+# Artikel 25l
+Indien een bestuursorgaan een publiekrechtelijke bevoegdheid uitoefent ten aanzien van economische activiteiten die door hetzelfde of een ander bestuursorgaan van de desbetreffende publiekrechtelijke rechtspersoon worden verricht, wordt voorkomen dat dezelfde personen betrokken kunnen zijn bij zowel de uitoefening van de bevoegdheid als bij het verrichten van de economische activiteiten.

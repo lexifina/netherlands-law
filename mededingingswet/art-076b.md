@@ -1,0 +1,2 @@
+# Artikel 76b
+De Autoriteit Consument en Markt kan ingeval van overtreding van artikel 49e, eerste of tweede lid, de overtreder een bestuurlijke boete opleggen van ten hoogste € 900.000 of, indien dat meer is, van ten hoogste 1% van de omzet van de onderneming dan wel, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken.

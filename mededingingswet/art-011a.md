@@ -1,0 +1,3 @@
+# Artikel 11a
+1. Voor overeenkomsten, besluiten en gedragingen als bedoeld in artikel 6, eerste lid, die betrekking hebben op de voortbrenging van en de handel in landbouwproducten, bedoeld in artikel 42 van het Verdrag, geldt artikel 6, eerste lid, uitsluitend in de gevallen ten aanzien waarvan bij of krachtens een verordening van het Europees Parlement en de Raad van de Europese Unie is bepaald dat artikel 101 van het Verdrag van toepassing is op die overeenkomsten, besluiten en gedragingen.
+2. Onze Minister van Landbouw, Natuur en Voedselkwaliteit doet mededeling in de Staatscourant van de gevallen, bedoeld in het eerste lid.

@@ -1,0 +1,3 @@
+# Artikel 89g
+1. Met het verrichten van een inspectie op grond van een mededingingsverordening door de Autoriteit Consument en Markt op verzoek van de Europese Commissie of op verzoek van een mededingingsautoriteit van een andere lidstaat van de Europese Unie, zijn belast de krachtens artikel 12a, eerste lid, van de Instellingswet Autoriteit Consument en Markt aangewezen ambtenaren.
+2. De aangewezen ambtenaren beschikken voor het verrichten van de inspectie over de bevoegdheden die hun ingevolge hoofdstuk 3, paragraaf 1, van de Instellingswet Autoriteit Consument en Markt en hoofdstuk 6 zijn toegekend ter uitoefening van het toezicht op de naleving.

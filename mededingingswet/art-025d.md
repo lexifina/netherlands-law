@@ -1,0 +1,7 @@
+# Artikel 25d
+1. Artikel 25b, eerste lid, is voorts niet van toepassing op:
+a. ondernemingen die diensten verrichten welke de handel tussen lidstaten niet op merkbare wijze ongunstig kunnen beïnvloeden;
+b. ondernemingen waarvan de totale nettojaaromzet minder dan € 40 miljoen heeft bedragen gedurende de twee boekjaren voorafgaande aan het boekjaar waarin de onderneming een bijzonder of uitsluitend recht heeft genoten dat overeenkomstig artikel 106, eerste lid, van het Verdrag is verleend of waarin zij is belast met het beheer van een dienst van algemeen economisch belang overeenkomstig artikel 106, tweede lid, van het Verdrag;
+c. ondernemingen die voor een redelijke periode met het beheer van een dienst van algemeen economisch belang belast zijn overeenkomstig artikel 106, tweede lid, van het Verdrag, indien de overheidssteun in enigerlei vorm, waaronder een subsidie, ondersteuning of compensatie, die zij ontvangen, was vastgesteld ingevolge een open, doorzichtige en niet-discriminerende procedure.
+2. Voor de toepassing van het eerste lid, onderdeel b, wordt ten aanzien van openbare banken de nettojaaromzet vervangen door een balanstotaal van minder dan € 800 miljoen.
+3. Het in het eerste lid, onderdeel b, en het in het tweede lid genoemde bedrag kunnen bij regeling van Onze Minister worden gewijzigd indien de wijziging voortvloeit uit een bindend besluit van een orgaan van de Europese Unie.

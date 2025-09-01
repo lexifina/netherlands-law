@@ -1,0 +1,6 @@
+# Artikel 89d
+1. Voor het uitvoeren van een inspectie als bedoeld in artikel 21, eerste lid, van verordening 1/2003 door de Europese Commissie in andere gebouwen, terreinen en vervoermiddelen dan die van ondernemingen en ondernemersverenigingen, waaronder de woningen van directeuren, bestuurders en andere personeelsleden, is een voorafgaande machtiging vereist van de rechter-commissaris, belast met de behandeling van strafzaken bij de rechtbank Rotterdam. De machtiging wordt zo mogelijk getoond.
+2. De rechter-commissaris toetst het verzoek tot machtiging overeenkomstig artikel 21, derde lid, van verordening 1/2003. Artikel 171 van het Wetboek van Strafvordering is van overeenkomstige toepassing. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen.
+3. Tegen de beslissing van de rechter-commissaris staat voor zover het verzoek om een machtiging niet is toegewezen, voor de Autoriteit Consument en Markt binnen veertien dagen beroep open bij de rechtbank Rotterdam.
+4. De rechter-commissaris kan bij de inspectie aanwezig zijn.
+5. Voor zover het een inspectie in een woning betreft, geldt dit artikel in afwijking van de artikelen 2, 3 en 8 van de Algemene wet op het binnentreden.

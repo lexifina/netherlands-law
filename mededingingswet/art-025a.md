@@ -1,0 +1,9 @@
+# Artikel 25a
+In dit hoofdstuk wordt verstaan onder:
+a. richtlijn: richtlijn nr. 2006/111/EG van de Commissie van de Europese Gemeenschappen van 16 november 2006 (PbEG L 318) betreffende de doorzichtigheid in de financiële betrekkingen tussen lidstaten en openbare bedrijven en de financiële doorzichtigheid binnen bepaalde ondernemingen;
+b. uitsluitend recht: een recht dat bij wettelijk voorschrift of bij besluit van een bestuursorgaan aan een onderneming wordt verleend, waarbij voor die onderneming het recht wordt voorbehouden om binnen een bepaald geografisch gebied een dienst te verrichten of een activiteit uit te oefenen;
+c. bijzonder recht: een recht dat bij wettelijk voorschrift of bij besluit van een bestuursorgaan aan een beperkt aantal ondernemingen wordt verleend en waarbij binnen een bepaald geografisch gebied:
+1°. het aantal van deze ondernemingen die een dienst mogen verrichten of een activiteit mogen uitoefenen op een andere wijze dan volgens objectieve, evenredige en niet-discriminerende criteria tot twee of meer wordt beperkt,
+2°. verscheidene concurrerende ondernemingen die een dienst mogen verrichten of een activiteit mogen uitoefenen op een andere wijze dan volgens deze criteria worden aangewezen, of
+3°. aan een of meer ondernemingen op een andere wijze dan volgens deze criteria voordelen worden toegekend waardoor enige andere onderneming aanzienlijk wordt belemmerd in de mogelijkheid om dezelfde activiteiten binnen hetzelfde geografische gebied onder in wezen gelijkwaardige voorwaarden uit te oefenen;
+d. verschillende activiteiten: enerzijds producten of diensten met betrekking tot welke aan een onderneming een bijzonder of uitsluitend recht is verleend, of alle diensten van algemeen economisch belang waarmee een onderneming is belast en, anderzijds, elk ander afzonderlijk product met betrekking tot hetwelk of elke andere afzonderlijke dienst met betrekking tot welke de onderneming werkzaam is.
