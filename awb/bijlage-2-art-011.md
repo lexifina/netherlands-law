@@ -10,7 +10,7 @@ Elektriciteitswet 1998: de artikelen 77h en 77i
 Gaswet: de artikelen 16, 60ac en 60ad
 Handelsregisterwet 2007: de artikelen 47a en 47b
 Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies: de artikelen 22 en 23
-Instellingswet Autoriteit Consument en Markt
+Instellingswet Autoriteit Consument en Markt: met uitzondering van een besluit als bedoeld in artikel 12w waartegen beroep kan worden ingesteld bij het College van Beroep voor het bedrijfsleven
 Invoerings- en aanpassingswet Pensioenwet
 Loodsenwet, met uitzondering van de artikelen 21, derde lid, 27b, vierde lid, 27d, 27f, 27h en 27l
 Mededingingswet
