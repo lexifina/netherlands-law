@@ -1,0 +1,2 @@
+# Artikel 21a. Wijzigen einddatum beschikking tot subsidieverlening
+In afwijking van de in de artikelen A6, A15, eerste lid, onderdeel b, A23, eerste lid, onderdeel b, A30, eerste lid, onderdeel b, B6, onderdeel c, B17, eerste lid, onderdelen c en d, en C6, eerste lid, onderdeel c, van bijlage 1 genoemde perioden, verlengt de minister de einddatum van reeds verleende projecten met een in de beschikking tot subsidieverlening als bedoeld in artikel 9 vermelde einddatum van 1 maart 2020 of later door middel van een wijziging van deze beschikking met zes maanden.
