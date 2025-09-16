@@ -1,0 +1,4 @@
+# Artikel 6A.2:2
+1. De schipper organiseert de arbeid zodanig dat zijn rusttijd en die van de vissers van 18 jaar of ouder ten minste 10 uren bedraagt in elke periode van 24 achtereenvolgende uren, te rekenen vanaf het begin van de rusttijd.
+2. De schipper organiseert de arbeid zodanig dat de rusttijd van de vissers wordt verdeeld in niet meer dan twee perioden, waarvan één periode een onafgebroken rusttijd van ten minste 6 uren omvat. In dat geval wordt de periode van 24 uren, bedoeld in het eerste lid, berekend vanaf het begin van de langste genoten rusttijd. De tijd tussen twee op elkaar volgende perioden van rust bedraagt niet meer dan 14 uren.
+3. De schipper organiseert de arbeid zodanig dat zijn rusttijd en die van de vissers van 18 jaar of ouder tenminste 77 uren bedraagt in elke periode van 7 dagen.

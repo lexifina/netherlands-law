@@ -1,0 +1,4 @@
+# Artikel 6a.2:1a
+1. De artikelen 6A.2:2, tweede lid, 6A.2:3, 6A.2:4, met uitzondering van het eerste lid, onder b en het derde lid, onder b, 6A.2:5 en 6A.2:7, zijn uitsluitend van toepassing op de visser die werknemer is, of, de visser die zonder werkgever of werknemer in de zin van de wet te zijn, samen met werknemers op hetzelfde vissersvaartuig arbeid verricht.
+2. Artikel 6A.2:2, eerste en derde lid, is van overeenkomstige toepassing op de visser van 16 jaar en ouder die zonder werkgever of werknemer in de zin van de wet te zijn arbeid verricht aan boord van een vissersvaartuig dat langer dan drie dagen op zee blijft.
+3. Artikel 6A.2:4, eerste lid, onder b en derde lid, onder b, is van overeenkomstige toepassing op de jeugdige visser die zonder werkgever of werknemer in de zin van de wet te zijn arbeid verricht aan boord van een vissersvaartuig.

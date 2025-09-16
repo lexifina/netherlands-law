@@ -1,0 +1,3 @@
+# Artikel 6A.1:2
+1. Voor de toepassing van dit hoofdstuk geldt de periode waarin door de visser, die werknemer is, of de visser die zonder werkgever of werknemer in de zin van de wet te zijn, samen met werknemers op hetzelfde vissersvaartuig arbeid verricht, door omstandigheden inherent aan de visserij, geen arbeid kan worden verricht hoewel hij volgens zijn werkrooster arbeid zou moeten verrichten, als rusttijd.
+2. In afwijking van het eerste lid worden niet als rusttijd aangemerkt de perioden waarin de visser, bedoeld in het eerste lid, niet vrijelijk over zijn tijd kan beschikken en zich gereed houdt tot een onmiddellijke aanvang der werkzaamheden, en waarbij het tijdstip van de aanvang en de duur van deze perioden niet vooraf bekend is.
