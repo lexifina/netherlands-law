@@ -1,0 +1,4 @@
+# Artikel 14d
+1. De bekendmaking van het besluit dat strekt tot de stopzetting van een activiteit of de aanhouding geschiedt door uitreiking van dit besluit aan de kapitein.
+2. Indien uitreiking aan de kapitein niet mogelijk is, geschiedt de bekendmaking van het besluit dat strekt tot stopzetting van een activiteit of de aanhouding door uitreiking van dit besluit aan de naar het oordeel van de ambtenaar van de Inspectie Leefomgeving en Transport daarvoor meest gerede persoon, zo spoedig mogelijk gevolgd door kennisgeving aan de kapitein.
+3. De ambtenaar van de Inspectie Leefomgeving en Transport stelt de administratie van de desbetreffende vlaggenstaat of de consul, of bij zijn afwezigheid, de dichtstbijzijnde diplomatieke vertegenwoordiger, onmiddellijk schriftelijk van de aanhouding en de omstandigheden die tot de aanhouding hebben geleid, in kennis.
