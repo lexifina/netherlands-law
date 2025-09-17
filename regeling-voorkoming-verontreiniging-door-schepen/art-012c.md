@@ -1,0 +1,5 @@
+# Artikel 12c. Certificaten en aantekeningen op grond van verordening (EU) 1257/2013
+1. De Minister geeft voor een schip dat met goed gevolg overeenkomstig artikel 8, vierde en vijfde lid, van verordening (EU) 1257/2013 is geïnspecteerd een internationaal certificaat betreffende de inventarisatie van gevaarlijke materialen als bedoeld in artikel 9, eerste lid, van die verordening af.
+2. De Minister verstrekt voor een schip dat met goed gevolg overeenkomstig artikel 8, zesde lid, van verordening (EU) 1257/2013 is geïnspecteerd een aantekening als bedoeld in artikel 9, tweede lid, van die verordening op het internationaal certificaat betreffende de inventarisatie van gevaarlijke materialen.
+3. De Minister geeft voor een schip dat met goed gevolg overeenkomstig artikel 8, zevende lid, van verordening (EU) 1257/2013 is geïnspecteerd een internationaal certificaat inzake gereedheid voor recycling als bedoeld in artikel 9, negende lid, van die verordening af.
+4. De minister kan een verklaring ter goedkeuring van een scheepsrecyclingplan afgeven aan de scheepseigenaar en de exploitant van de scheepsrecyclinginrichting.

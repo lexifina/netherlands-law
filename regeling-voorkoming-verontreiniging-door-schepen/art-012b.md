@@ -1,0 +1,3 @@
+# Artikel 12b. Onderzoeken aan schepen in verband met Bijlagen I en IV bij het Verdrag
+1. Het onderzoek, bedoeld in artikel 12a, eerste lid, onderdelen a en b, vindt plaats voordat het schip in dienst wordt gesteld of voordat de verklaring voor de eerste maal wordt afgegeven.
+2. Het in het eerste lid bedoelde onderzoek wordt herhaald binnen drie maanden voor of na de datum waarop twee jaar dan wel drie jaar is verstreken nadat het in het eerste lid bedoelde onderzoek heeft plaatsgevonden en, in verband met de vernieuwing van de verklaring, binnen drie maanden voor de afloop van de geldigheidsduur van de desbetreffende verklaring.

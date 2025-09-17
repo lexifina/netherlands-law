@@ -1,0 +1,2 @@
+# Artikel 15e. Vrijstelling van operationele voorschriften voor offshore ondersteuningsschepen
+De ingevolge artikel 33, tweede lid, van het besluit toepasselijke voorschriften van Bijlage II bij het Verdrag met betrekking tot het vervoer van schadelijke vloeistoffen in bulk, gelden niet voor het vervoer in bulk van beperkte hoeveelheden van de schadelijke stoffen, bedoeld in resolutie A.1122(30) door offshore ondersteuningsschepen als bedoeld in die resolutie, mits dit vervoer voldoet aan de in die resolutie neergelegde eisen.

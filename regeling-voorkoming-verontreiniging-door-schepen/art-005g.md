@@ -1,0 +1,2 @@
+# Artikel 5g. Gelijkwaardige voorzieningen
+De Minister kan, met inachtneming van hetgeen dienaangaande in de op grond van deze regeling toepasselijke code, resoluties, richtlijnen en verordeningen is bepaald, afwijking toestaan van de in de artikelen 3, 4 en 5b tot en met 5e bedoelde eisen, indien aan boord van het schip een voorziening wordt getroffen die naar zijn oordeel ten minste gelijkwaardig is aan de op grond van deze artikelen geëiste voorziening.
