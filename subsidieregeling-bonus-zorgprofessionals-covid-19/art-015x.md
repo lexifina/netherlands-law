@@ -1,6 +1,0 @@
-# Artikel 15x. Voorwaarden pgb-zorgbonus 2021
-1. Een pgb-zorgverlener kan in aanmerking komen voor een pgb-zorgbonus 2021 indien de budgethouder verklaart dat de pgb-zorgverlener tijdens de COVID-19 uitbraak 2021 werkzaamheden heeft verricht ten laste van het pgb en daarbij een uitzonderlijke prestatie heeft geleverd.
-2. In afwijking van het eerste lid komt de pgb-zorgverlener niet in aanmerking voor een pgb-zorgbonus 2021 indien de zorg is verleend op basis van een zorgovereenkomst waarbij:
-a. een bruto uurloon is gehanteerd dat hoger is dan € 39,50, indien sprake is van een arbeidsovereenkomst als bedoeld in artikel 610 van Boek 7 van het Burgerlijk Wetboek; of
-b. een bruto uurtarief is gehanteerd dat hoger is dan € 89,90 inclusief btw, indien sprake is van een overeenkomst van opdracht als bedoeld in artikel 400 van Boek 7 van het Burgerlijk Wetboek.
-3. In afwijking van het eerste lid komt de pgb-zorgverlener niet in aanmerking voor een pgb-zorgbonus 2021 als deze tevens gemachtigd of wettelijk vertegenwoordiger is van de budgethouder, zoals geregistreerd in de administratie van de SVB, en als gemachtigde of wettelijk vertegenwoordiger de aanvraag heeft ingediend ten behoeve van zichzelf als pgb-zorgverlener.
