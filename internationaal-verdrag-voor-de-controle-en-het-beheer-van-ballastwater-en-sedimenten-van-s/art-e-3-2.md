@@ -1,0 +1,5 @@
+# Voorschrift E-3. Afgifte of aantekenen van een certificaat door een andere Partij
+1. Op verzoek van de Administratie kan een andere Partij een schip doen onderzoeken en, indien zij ervan overtuigd is dat aan de bepalingen van dit Verdrag wordt voldaan, geeft zij het certificaat af of geeft zij toestemming voor afgifte van het certificaat aan het schip, en waar van toepassing viseert zij of geeft zij toestemming voor visering van dat certificaat van het schip in overeenstemming met deze Bijlage.
+2. Een afschrift van het certificaat en een afschrift van het onderzoeksrapport worden zo spoedig mogelijk toegezonden aan de Administratie die het verzoek heeft gedaan.
+3. Een aldus afgegeven certificaat dient een verklaring te bevatten inhoudende dat het is afgegeven op verzoek van de Administratie en heeft dezelfde waarde en wordt op dezelfde wijze erkend als een certificaat dat is afgegeven door de Administratie.
+4. Geen certificaat wordt afgegeven aan een schip dat gerechtigd is de vlag te voeren van een Staat die geen Partij is.

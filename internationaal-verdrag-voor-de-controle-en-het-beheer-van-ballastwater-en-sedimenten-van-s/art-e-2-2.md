@@ -1,0 +1,3 @@
+# Voorschrift E-2. Afgifte of aantekenen van een certificaat
+1. De Administratie waarborgt dat aan een schip waarop voorschrift E-1 van toepassing is een certificaat wordt afgegeven na bevredigende afronding van een onderzoek verricht in overeenstemming met voorschrift E-1. Een certificaat afgegeven in opdracht van een Partij wordt door de andere Partijen aanvaard en voor alle doeleinden die vallen onder dit Verdrag behandeld als ware het door henzelf afgegeven.
+2. Certificaten worden afgegeven of aangetekend hetzij door de Administratie, hetzij door een daartoe door haar naar behoren gemachtigde persoon of organisatie. In alle gevallen neemt de Administratie de volle verantwoordelijkheid voor het certificaat op zich.

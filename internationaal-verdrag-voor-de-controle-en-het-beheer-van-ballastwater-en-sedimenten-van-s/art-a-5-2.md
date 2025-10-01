@@ -1,0 +1,2 @@
+# Voorschrift A-5. Naleving van gelijkwaardige voorschriften
+Of een pleziervaartuig dat uitsluitend wordt gebruikt voor recreatie of wedstrijden of vaartuigen die primair worden gebruikt ten behoeve van opsporing en redding, met een totale lengte van ten hoogste 50 meter en een ballastwatercapaciteit van ten hoogste 8 m3 voldoet aan voorwaarden die gelijkwaardig zijn aan die in deze Bijlage, wordt vastgesteld door de Administratie, waarbij rekening wordt gehouden met door de Organisatie opgestelde richtlijnen.

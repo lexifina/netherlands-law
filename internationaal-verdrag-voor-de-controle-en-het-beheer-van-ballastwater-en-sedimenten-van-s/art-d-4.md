@@ -1,0 +1,7 @@
+# Regulation D-4. Prototype Ballast Water Treatment Technologies
+1. For any ship that, prior to the date that the standard in regulation D-2 would otherwise become effective for it, participates in a programme approved by the Administration to test and evaluate promising Ballast Water treatment technologies, the standard in regulation D-2 shall not apply to that ship until five years from the date on which the ship would otherwise be required to comply with such standard.
+2. For any ship that, after the date on which the standard in regulation D-2 has become effective for it, participates in a programme approved by the Administration, taking into account Guidelines developed by the Organization, to test and evaluate promising Ballast Water technologies with the potential to result in treatment technologies achieving a standard higher than that in regulation D-2, the standard in regulation D-2 shall cease to apply to that ship for five years from the date of installation of such technology.
+3. In establishing and carrying out any programme to test and evaluate promising Ballast Water technologies, Parties shall:
+.1 take into account Guidelines developed by the Organization, and
+.2 allow participation only by the minimum number of ships necessary to effectively test such technologies.
+4. Throughout the test and evaluation period, the treatment system must be operated consistently and as designed.

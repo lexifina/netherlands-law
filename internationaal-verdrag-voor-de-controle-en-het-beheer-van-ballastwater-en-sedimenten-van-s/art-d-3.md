@@ -1,0 +1,6 @@
+# Regulation D-3. – Approval requirements for ballast water management systems
+1. Except as specified in paragraph 2, ballast water management systems used to comply with this Convention shall be approved by the Administration as follows:
+.1 ballast water management systems installed on or after 28 October 2020 shall be approved in accordance with the BWMS Code, as may be amended; and
+.2 ballast water management systems installed before 28 October 2020 shall be approved taking into account the guidelines developed by the Organization or the BWMS Code, as may be amended.
+2. Ballast Water Management systems which make use of Active Substances or preparations containing one or more Active Substances to comply with this Convention shall be approved by the Organization, based on a procedure developed by the Organization. This procedure shall describe the approval and withdrawal of approval of Active Substances and their proposed manner of application. At withdrawal of approval, the use of the relevant Active Substance or Substances shall be prohibited within 1 year after the date of such withdrawal.
+3. Ballast Water Management systems used to comply with this Convention must be safe in terms of the ship, its equipment and the crew.

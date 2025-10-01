@@ -1,0 +1,6 @@
+# Voorschrift D-3. Goedkeuringsvereisten voor ballastwaterbeheersystemen
+1. Behalve in het geval omschreven in punt 2, worden ballastwaterbeheersystemen die worden gebruikt om te voldoen aan dit Verdrag als volgt goedgekeurd door de Administratie:
+.1 ballastwaterbeheersystemen die op of na 28 oktober 2020 worden geïnstalleerd worden goedgekeurd in overeenstemming met de BWMS-Code, eventueel zoals gewijzigd; en
+.2 ballastwaterbeheersystemen die vóór 28 oktober 2020 zijn geïnstalleerd worden goedgekeurd rekening houdend met de door de Organisatie opgestelde richtlijnen of de BWMS-Code, eventueel als gewijzigd.
+2. Ballastwaterbeheersystemen waarbij gebruik wordt gemaakt van actieve substanties of preparaten die een of meer actieve substanties bevatten teneinde te voldoen aan dit Verdrag dienen op grond van een door de Organisatie opgestelde procedure te worden goedgekeurd door de Organisatie. In deze procedure wordt de goedkeuring en intrekking van de goedkeuring van actieve substanties beschreven alsmede de voorgestelde wijze van toepassing. Bij intrekking van de goedkeuring wordt het gebruik van de desbetreffende actieve substantie of substanties binnen een jaar na de datum van de intrekking verboden.
+3. Ballastwaterbeheersystemen die worden gebruikt om te voldoen aan dit Verdrag moeten veilig zijn voor het schip, zijn uitrusting en de bemanning.

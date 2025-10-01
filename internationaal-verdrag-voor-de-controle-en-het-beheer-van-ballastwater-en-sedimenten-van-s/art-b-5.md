@@ -1,0 +1,3 @@
+# Regulation B-5. Sediment Management for Ships
+1. All ships shall remove and dispose of Sediments from spaces designated to carry Ballast Water in accordance with the provisions of the ship's Ballast Water Management plan.
+2. Ships described in regulation B-3.3 to B-3.5 should, without compromising safety or operational efficiency, be designed and constructed with a view to minimize the uptake and undesirable entrapment of Sediments, facilitate removal of Sediments, and provide safe access to allow for Sediment removal and sampling, taking into account guidelines developed by the Organization. Ships described in regulation B-3.1 should, to the extent practicable, comply with this paragraph.

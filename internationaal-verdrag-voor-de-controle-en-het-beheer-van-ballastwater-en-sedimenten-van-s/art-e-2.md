@@ -1,0 +1,3 @@
+# Regulation E-2. Issuance or Endorsement of a Certificate
+1. The Administration shall ensure that a ship to which regulation E-1 applies is issued a Certificate after successful completion of a survey conducted in accordance with regulation E-1. A Certificate issued under the authority of a Party shall be accepted by the other Parties and regarded for all purposes covered by this Convention as having the same validity as a Certificate issued by them.
+2. Certificates shall be issued or endorsed either by the Administration or by any person or organization duly authorized by it. In every case, the Administration assumes full responsibility for the Certificate.

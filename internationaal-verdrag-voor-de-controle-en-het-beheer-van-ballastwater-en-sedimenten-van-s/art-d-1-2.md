@@ -1,0 +1,3 @@
+# Voorschrift D-1. Norm voor de wisseling van ballastwater
+1. Schepen die in overeenstemming met dit voorschrift ballastwater wisselen dienen zulks te doen met een efficiëntie van ten minste 95% aan volumetrische wisseling van ballastwater.
+2. Schepen die ballastwater wisselen door in- en uitpompen, waarbij het volume van elke ballastwatertank driemaal in en uit wordt gepompt worden geacht te voldoen aan de norm omschreven in punt 1. Minder dan driemaal het volume in- en uitpompen kan worden aanvaard, mits aangetoond kan worden dat voldaan wordt aan ten minste 95 percent van de volumetrische wisseling.
