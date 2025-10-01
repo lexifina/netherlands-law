@@ -2,8 +2,8 @@
 1. De houder van de winningsvergunning Groningenveld dan wel indien deze vergunning haar gelding heeft verloren, de laatste houder daarvan, neemt alle maatregelen die redelijkerwijs van hem kunnen worden gevergd om:
 a. na beëindiging van de gaswinning uit het Groningenveld de nadelige gevolgen van die winning zoveel mogelijk te voorkomen en te beperken;
 b. te voorkomen dat als gevolg van een mijnbouwwerk dat buiten werking is nadelige gevolgen voor mens en milieu worden veroorzaakt.
-2. [Dit lid is nog niet in werking getreden.]
-3. [Dit lid is nog niet in werking getreden.]
-4. [Dit lid is nog niet in werking getreden.]
-5. [Dit lid is nog niet in werking getreden.]
-6. [Dit lid is nog niet in werking getreden.]
+2. De houder van de winningsvergunning Groningenveld dan wel indien deze vergunning haar gelding heeft verloren, de laatste houder daarvan, verricht in aanvulling op artikel 41, eerste lid, nadere metingen en daarbij behorende analyses ten behoeve van het verkrijgen van inzicht in de ontwikkeling van de seismiciteit, de verwachte bodembeweging en de risico's van de verwachte bodembeweging, na beëindiging van de winning uit het Groningenveld.
+3. De houder van de winningsvergunning Groningenveld dan wel indien deze vergunning haar gelding heeft verloren, de laatste houder daarvan, zorgt in aanvulling op artikel 41, eerste lid, voor een nazorgplan voor het Groningenveld over de monitoring, het systematisch beheer van data en kennis, en de ontwikkeling van kennis van zowel technische aspecten als de gevolgen voor mens, natuur en milieu. Dit nazorgplan wordt gezonden aan Onze Minister ter goedkeuring en tevens aan de inspecteur-generaal der mijnen.
+4. Indien Onze Minister een rechtspersoon het verrichten van de analyses ten aanzien van de ontwikkeling van de seismiciteit, de verwachte bodembeweging en de risico's van de verwachte bodembeweging opdraagt, verstrekt de houder van de winningsvergunning Groningenveld dan wel indien deze vergunning haar gelding heeft verloren, de laatste houder daarvan, alle gegevens die zijn benodigd voor het kunnen verrichten van die analyses.
+5. Bij ministeriële regeling worden regels gesteld over de eisen waaraan de metingen en analyses, bedoeld in het tweede lid, moeten voldoen en de frequenties van die metingen en analyses, almede over de gegevens die bij toepassing van het vierde lid worden verstrekt door de houder van de winningsvergunning Groningenveld dan wel, indien deze vergunning haar gelding heeft verloren, de laatste houder daarvan.
+6. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de inhoud van het nazorgplan, bedoeld in het derde lid.
