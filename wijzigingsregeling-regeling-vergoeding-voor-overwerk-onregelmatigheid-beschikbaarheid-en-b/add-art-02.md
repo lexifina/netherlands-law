@@ -1,0 +1,2 @@
+# Artikel II. Overgangsbepaling voor de koninklijke marechaussee
+In afwijking van artikel I wordt tot en met 31 december 2025 voor militairen die werkzaam en ingedeeld zijn bij de Koninklijke Marechaussee, met uitzondering van de militairen op wie de Regeling vergoedingen militairen DSI van toepassing is, voor de berekening van de toelage voor onregelmatige dienst en de afbouwtoelage onregelmatige dienst uitgegaan van de berekeningssystematiek zoals die gold voor de inwerkingtreding van artikel I.

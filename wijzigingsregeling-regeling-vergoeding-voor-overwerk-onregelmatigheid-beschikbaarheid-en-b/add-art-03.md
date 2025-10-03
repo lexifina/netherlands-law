@@ -1,0 +1,2 @@
+# Artikel III. Overgangsbepaling voor de dienst speciale interventies
+In afwijking van artikel I wordt met ingang van 1 augustus 2025 voor militairen op wie de Regeling vergoedingen militairen DSI van toepassing is, als tijdelijke maatregel voor het vaststellen van de toelage voor onregelmatige dienst uitgegaan van een vast bedrag ter hoogte van € 616,84 per maand, totdat voor deze categorie militairen een structurele maatregel met betrekking tot de vergoeding voor onregelmatigheid van kracht is.
