@@ -1,0 +1,2 @@
+# Artikel 1a. Toegang tot drinkwater
+Ter uitvoering van artikel 16 van de Drinkwaterrichtlijn laat de Minister onderzoek verrichten en draagt hij zo nodig zorg voor maatregelen als bedoeld in het eerste en tweede lid van dat artikel en voor bijstand als bedoeld in het derde lid van dat artikel teneinde de toegang tot drinkwater voor iedereen en met name voor kwetsbare en gemarginaliseerde groepen te waarborgen.
