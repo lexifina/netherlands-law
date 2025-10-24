@@ -1,0 +1,2 @@
+# Artikel 11d. Voortzetting experimentele nevenactiviteiten gedurende aanvraag toestemming
+Als binnen de maximale looptijd van een experimentele nevenactiviteit voor die nevenactiviteit een aanvraag voor toestemming als bedoeld in artikel 2.132, eerste lid, van de wet bij het Commissariaat is ingediend, kan de desbetreffende nevenactiviteit worden voortgezet totdat het Commissariaat op de aanvraag heeft beslist.
