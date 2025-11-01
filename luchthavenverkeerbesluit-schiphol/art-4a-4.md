@@ -1,0 +1,5 @@
+# Artikel 4A.4
+1. Indien na de toepassing van artikel 4A.3, eerste lid, blijkt dat op de uitdienstneming van marginaal conforme vliegtuigen gerichte exploitatiebeperkingen moeten worden ingevoerd, gelden in plaats van de procedure van artikel 9 van Verordening (EEG) nr. 2408/92 van de Raad van 23 juli 1992 betreffende de toegang van communautaire luchtvaartmaatschappijen tot intracommunautaire luchtroutes (PbEG L240), de volgende regels ten aanzien van de luchthaven:
+a. gedurende zes maanden na het besluit tot invoering van de exploitatiebeperking worden op de luchthaven geen door marginaal conforme vliegtuigen te verrichten diensten toegestaan, boven die welke in de overeenkomstige periode van het vorige jaar werden verricht;
+b. minimaal zes maanden daarna kan van elke exploitant van luchtvaartuigen worden verlangd dat hij het aantal vliegbewegingen met marginaal conforme vliegtuigen uit zijn vloot vermindert in een jaarlijks tempo van maximaal 20% van het aanvankelijke totale aantal van deze vliegbewegingen.
+2. Voor tot de in het eerste lid bedoelde uitdienstneming wordt besloten, wordt eerst de toepassing van partiële exploitatiebeperkingen overwogen.
