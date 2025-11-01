@@ -1,0 +1,4 @@
+# Artikel 33b. Verruiming van de criteria voor re-integratieverlof voor extramurale arbeid
+1. In afwijking van artikel 20ab, tweede lid, onder b, kan re-integratieverlof voor extramurale arbeid in verband met het verlichten van capaciteitsproblemen binnen het gevangeniswezen gedurende een door de Minister te bepalen periode worden verleend voor ten hoogste een derde deel van de opgelegde straf voorafgaand aan het moment waarop de gedetineerde in aanmerking kan komen voor de voorwaardelijke invrijheidstelling dan wel de invrijheidstelling.
+2. Bij het bepalen welke gedetineerden in aanmerking komen voor re-integratieverlof voor extramurale arbeid geeft de directeur voorrang aan een gedetineerde met het kortste strafrestant.
+3. Dit artikel is niet van toepassing op gedetineerden die zijn veroordeeld voor een ernstig gewelds- of zedenmisdrijf of een terroristisch misdrijf.
