@@ -1,0 +1,2 @@
+# Artikel 22f
+De verantwoordelijke arts draagt zorg dat de melding van de toepassing van a-dwangbehandeling, b-dwangbehandeling, gedwongen geneeskundige handeling of voortzetting van a-dwangbehandeling en de resultaten van het overleg, bedoeld in artikel 21a, vierde lid, artikel 22a en 22c, alsmede de adviezen die daarbij zijn gegeven en de afspraken die zijn gemaakt worden geregistreerd in het medische dossier.
