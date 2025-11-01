@@ -14,6 +14,7 @@
 ### Paragraaf 3. Verlaten van de inrichting
 ## Hoofdstuk VI. Controle en geweldgebruik
 ## Hoofdstuk VII. Contact met de buitenwereld
+## Hoofdstuk VIIA. Bevelen van Onze Minister
 ## Hoofdstuk VIII. Verzorging, arbeid en andere activiteiten
 ### Paragraaf 1. Verzorging
 ### Paragraaf 1a. Verblijf in een bijzondere afdeling in verband met de geestelijke gezondheidstoestand
@@ -26,7 +27,7 @@
 ## Hoofdstuk XII. Beroep tegen de uitspraak van de beklagcommissie
 ## Hoofdstuk XIIa. Beroep inzake vervoer
 ## Hoofdstuk XIIb. Beroep tegen medisch handelen
-## Hoofdstuk XIII. Beroep inzake plaatsing, overplaatsing, deelname aan een penitentiair programma, verlof en strafonderbreking
+## Hoofdstuk XIII. Beroep inzake plaatsing, overplaatsing en tegen beslissingen op verzoekschriften
 ## Hoofdstuk XIV. Overleg en vertegenwoordiging
 ## Hoofdstuk XV. Bijzondere bepalingen met betrekking tot veroordeelden ten aanzien van wie artikel 13 of 19 van het wetboek van strafrecht is toegepast
 ## Hoofdstuk XVI. Bijzondere bepalingen betreffende inrichtingen tot klinische observatie bestemd
