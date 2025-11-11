@@ -19,6 +19,11 @@
 #### § 2. De inschrijving
 #### § 3. De opneming van persoonsgegevens
 #### § 4. Overige bepalingen
+### Afdeling 3. Ingezetenen van een openbaar lichaam
+#### § 1. Algemeen
+#### § 2. De inschrijving
+#### § 3. De opneming van persoonsgegevens
+#### § 4. Overige bepalingen
 ## Hoofdstuk 3. De verstrekking van gegevens uit de basisregistratie
 ### Afdeling 1. De verstrekking aan overheidsorganen en derden
 #### § 1. De verstrekking door Onze Minister
