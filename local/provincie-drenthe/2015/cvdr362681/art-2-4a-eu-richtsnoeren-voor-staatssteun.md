@@ -1,3 +1,0 @@
-# Artikel 2.4a, EU-richtsnoeren voor staatssteun
-1. Subsidieaanvragen kunnen niet worden ingediend na 1 oktober 2027.
-2. Indien de aanvrager een grote onderneming is, dient de subsidieaanvraag vergezeld te gaan van een beschrijving met onderbouwing van de situatie waarin geen steun zou worden verleend.
