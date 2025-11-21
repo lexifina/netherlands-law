@@ -29,6 +29,7 @@ b. alsmede, voor zover het betreft een besluit van de Autoriteit Consument en Ma
 3. hoofdstuk 15, met uitzondering van de artikelen 15.2, 15.2a en 15.4.
 Uitvoeringswet cyberbeveiligingsverordening
 Uitvoeringswet datagovernanceverordening: artikel 8
+Uitvoeringswet dataverordening: artikelen 2, 5, eerste lid, en 8, eerste lid
 Uitvoeringswet digitaledienstenverordening: paragraaf 2.2
 Uitvoeringswet digitalemarktenverordening
 Uitvoeringswet EU-zeehavenverordening: artikel 9, eerste lid
