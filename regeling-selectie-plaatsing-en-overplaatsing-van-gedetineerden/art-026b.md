@@ -1,0 +1,2 @@
+# Artikel 26b
+De selectiefunctionaris neemt ten aanzien van gedetineerden als bedoeld in art. 20a onder c ambtshalve elke twaalf maanden een besluit omtrent de verlenging van het verblijf in een Terroristen Afdeling. De eerste besluitvorming over verlenging of beëindiging van het verblijf in een Terroristen Afdeling vindt plaats twaalf maanden na de plaatsing van betrokkene in een Terroristen Afdeling.
