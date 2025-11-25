@@ -1,0 +1,2 @@
+# Artikel 10a
+De toezichthouder kan bij het verkrijgen van inzicht als bedoeld in artikel 7 van het Besluit prudentiële regels Wft, artikel 14 van het Besluit gedragstoezicht financiële ondernemingen en artikel 31 van het besluit reikwijdtebepalingen Wft gebruik maken van desgevraagd verstrekte justitiële gegevens met betrekking tot de antecedenten genoemd in bijlage A behorend bij het Besluit prudentiële regels Wft, bijlage C behorend bij het Besluit gedragstoezicht financiële ondernemingen en bijlage behorende bij artikel 30 van het Besluit reikwijdtebepalingen Wft.
