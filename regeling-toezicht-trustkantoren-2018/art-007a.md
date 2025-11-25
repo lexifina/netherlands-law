@@ -1,0 +1,2 @@
+# Artikel 7a. Vrijstelling besturen beleggingsinstellingen en icbe's
+Vrijstelling van het verbod wordt verleend aan personen voor zover deze de trustdienst 'in opdracht bestuurder zijn' verlenen aan een beheerder van een beleggingsinstelling of een beheerder van een icbe als bedoeld in artikel 1:1 van de Wet op het financieel toezicht die is ingeschreven in het register, bedoeld in artikel 1:107 van die wet.
