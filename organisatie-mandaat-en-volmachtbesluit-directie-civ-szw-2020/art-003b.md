@@ -1,0 +1,2 @@
+# Artikel 3b
+De CISO is belast met de ontwikkeling en coördinatie van het informatiebeveiligingsbeleid als bedoeld in artikel 3 van het Besluit Voorschrift Informatiebeveiliging Rijksdienst 2007 en artikel 3 van het Besluit Voorschrift Informatiebeveiliging Rijksdienst – Bijzondere Informatie 2013 en het ondersteunen van het verantwoordelijke lijnmanagement bij de implementatie en naleving hiervan. Voorts is de CISO verantwoordelijk voor de taken als bedoeld in artikel 7 van het Besluit CIO-stelsel.
