@@ -1,0 +1,4 @@
+# Artikel 18a
+1. In aanvulling op artikel 3, eerste lid, onderdeel b, is voor het jaar 2024 een aanvullend bedrag van € 11.000.000 beschikbaar voor het verstrekken van specifieke uitkeringen aan gemeenten wier aanvragen in 2024 uitsluitend zijn afgewezen wegens de dreigende overschrijding van het in dat lid bedoelde uitkeringsplafond.
+2. De minister verstrekt de specifieke uitkering, bedoeld in het eerste lid, ambtshalve op uiterlijk 1 september 2024.
+3. De artikelen 3, tweede lid, 4 tot en met 6, 7, zesde lid, 8 en 10 tot en met 13 zijn van overeenkomstige toepassing, met dien verstande dat een gemeente die een in het eerste lid bedoelde specifieke uitkering ontvangt, in afwijking van artikel 11, aanhef en onderdeel b, verplicht is de activiteiten uiterlijk op 31 december 2026 af te ronden.
