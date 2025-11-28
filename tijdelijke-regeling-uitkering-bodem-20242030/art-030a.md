@@ -1,0 +1,4 @@
+# Artikel 30a. Resterende middelen ontvanger
+1. Een aanvrager als bedoeld in artikel 6 vermeldt in een aanvraag als bedoeld in de artikelen 12, 13, 19, 20, 21, 24, 25, 28 of 29, indien van toepassing, het bedrag aan niet bestede middelen van een verleende uitkering op grond van deze regeling, een eerdere ministeriële regeling specifieke uitkering voor bodemsanering of een incidentele specifieke uitkering voor bodemsanering.
+2. De middelen, bedoeld in eerste lid, mogen uitsluitend worden besteed aan de activiteiten, bedoeld in de artikelen 14, respectievelijk 22, respectievelijk 26 of respectievelijk 30 voor zover de aanvraag, bedoeld in het eerste lid is gehonoreerd.
+3. Het bedrag aan niet bestede middelen, bedoeld in het eerste lid, wordt in mindering gebracht op de totaal te verlenen uitkering.
