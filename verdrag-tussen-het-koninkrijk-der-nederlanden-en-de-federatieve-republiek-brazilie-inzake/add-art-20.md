@@ -1,0 +1,2 @@
+# Article XX. Final Dispositions
+The Competent Security Authorities shall inform each other about their respective national laws and regulations and shall promptly notify each other about modifications that affect the protection of Classified Information provided under this Agreement and have an impact on this Agreement. In the event of such changes, the Parties shall discuss the necessity of reviewing this Agreement.

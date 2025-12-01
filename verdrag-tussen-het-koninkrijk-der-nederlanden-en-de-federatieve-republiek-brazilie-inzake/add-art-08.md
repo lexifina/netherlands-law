@@ -1,0 +1,8 @@
+# Article VIII. Translation, Reproduction and Destruction of Classified Information
+1. All translations and reproductions of Classified Information must be protected and controlled in the same manner as the original Classified Information. It shall receive the same Security Classification Level as the original Classified Information.
+2. Translations of Classified Information shall contain a suitable annotation in the language of translation, indicating that they contain Classified Information of the Originating Party.
+3. The number of reproductions of Classified Information shall be limited to the amount required for its official purpose.
+4. Classified Information with Security Classification Level equivalent to ULTRASSECRETO / Stg. ZEER GEHEIM, shall not be reproduced or translated without the prior written consent of the Originating Party.
+5. Classified Information with Security Classification Level equivalent to ULTRASSECRETO / Stg. ZEER GEHEIM shall not be destroyed without the prior written consent of the Originating Party. It shall be returned to the Originating Party after it is no longer considered necessary by the Receiving Entity.
+6. Classified Information with Security Classification Level equivalent to SECRETO / Stg. GEHEIM shall be destroyed in accordance with national laws and regulations after it is no longer considered necessary by the Receiving Entity.
+7. If a crisis situation makes it impossible for the Receiving Entity to protect Classified Information provided under this Agreement, the Classified Information shall be destroyed immediately. Receiving Entity shall promptly notify in writing the Competent Security Authority of the Originating Party about the destruction of this Classified Information.

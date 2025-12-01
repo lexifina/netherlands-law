@@ -1,0 +1,2 @@
+# Artikel XX. Slotbepalingen
+De bevoegde beveiligingsautoriteiten brengen elkaar op de hoogte van hun respectieve nationale wet- en regelgeving en stellen elkaar onverwijld in kennis van wijzigingen die van invloed zijn op de beveiliging van gerubriceerde gegevens uit hoofde van dit Verdrag en die gevolgen hebben voor dit Verdrag. In het geval van dergelijke wijzigingen, bespreken de partijen of het noodzakelijk is dit Verdrag te herzien.

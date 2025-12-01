@@ -1,0 +1,10 @@
+# Article III. Competent Security Authorities
+1. The Competent Security Authorities, responsible for the implementation and supervision of this Agreement, are listed in the Annex to this Agreement.
+2. The Competent Security Authority may delegate parts of its responsibilities to a delegated competent security authority.
+3. Each Party shall provide the other with the contact details of their respective Competent Security Authority, in writing. The Competent Security Authorities of the Parties shall inform each other in writing about changes in their contact details.
+4. In order to ensure close cooperation in the implementation of this Agreement, the Competent Security Authorities may consult each other whenever necessary.
+5. Representatives of both Competent Security Authorities may mutually visit their facilities with the intention of acquiring knowledge of security procedures and measures applicable to Classified Information, subject to the approval of the host Competent Security Authority.
+6. Upon request, the Competent Security Authorities may assist each other in carrying out the procedures for the award of Facility Security Clearances and Personnel Security Clearances, on request and in accordance with their national laws and regulations.
+7. Upon request of the Competent Security Authority of one Party, the Competent Security Authority of the other Party shall issue a written confirmation that a valid Personnel Security Clearance and/or Facility Security Clearance has been issued.
+8. The Competent Security Authorities of the Parties shall mutually recognize their Personnel Security Clearances and Facility Security Clearances issued in accordance with their respective laws and regulations and within the scope of this Agreement.
+9. The Competent Security Authorities shall promptly notify each other in writing about changes in recognized Personnel Security Clearances and Facility Security Clearances for whom or for which a confirmation has been provided according to paragraph 8 of this article.
