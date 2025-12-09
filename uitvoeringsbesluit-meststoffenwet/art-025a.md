@@ -1,0 +1,3 @@
+# Artikel 25a
+1. Voor de toepassing van artikel 1, eerste lid, onderdeel ll, onder 1°, van de wet is de tot het bedrijf behorende oppervlakte landbouwgrond in enig kalenderjaar de oppervlakte landbouwgrond die ingevolge de artikelen 24 en 25 in het desbetreffende kalenderjaar tot het bedrijf behoort.
+2. Voor de toepassing van artikel 1, eerste lid, onderdeel ll, onder 2°, van de wet is het natuurterrein dat de hoofdfunctie natuur heeft dat in enig kalenderjaar bij het bedrijf in gebruik is, het natuurterrein dat de hoofdfunctie natuur heeft dat op 15 mei van dat jaar bij het bedrijf in gebruik is.

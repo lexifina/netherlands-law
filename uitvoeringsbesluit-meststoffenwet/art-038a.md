@@ -1,0 +1,4 @@
+# Artikel 38a
+1. Een registratie kan worden geweigerd of geschrapt in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.
+2. Een registratie kan worden geschorst voor zover de intermediair boetes zijn opgelegd voor overtreding van de eisen gesteld bij of krachtens de wet, die onherroepelijk zijn geworden en niet zijn betaald of voor zover de intermediair verbeurde dwangsommen, ten aanzien waarvan invorderingsbeschikkingen onherroepelijk zijn geworden, niet heeft betaald. De schorsing vervalt op het moment dat de boetes of dwangsommen die ten grondslag liggen aan de schorsing zijn betaald.
+3. Voordat toepassing wordt gegeven aan het eerste lid kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd.
