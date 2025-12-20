@@ -1,0 +1,3 @@
+# Artikel III
+1. Klachten, ingediend op grond van de Regeling vertrouwenspersonen integriteit en ongewenste omgangsvormen en Klachtencommissie ongewenste omgangsvormen SZW zoals vermeld in artikel II, waarin voor de inwerkingtreding van artikel II nog geen uitspraak is gedaan, worden afgehandeld door de Klachtencommissie Ongewenste Omgangsvormen SZW.
+2. Ten aanzien van klachten als bedoeld in het eerste lid blijft de Regeling vertrouwenspersonen integriteit en ongewenste omgangsvormen en Klachtencommissie ongewenste omgangsvormen SZW (Stcrt, 2017, nr. 40638) zoals deze luidde voor de inwerkingtreding van artikel II, onderdeel a, van kracht.
