@@ -1,0 +1,3 @@
+# Artikel 25a
+1. In aanvulling op artikel 25, tweede lid, stemt de eindverantwoordelijke accountant die een wettelijke controle bij een organisatie van openbaar belang uitvoert vanaf de vierde verantwoordingsperiode met het auditcomité of een orgaan met gelijksoortige taken van die organisatie af of de wettelijke controle kan worden gecontinueerd en welke eventuele maatregelen daartoe worden genomen. De wettelijke controle wordt gecontinueerd nadat de eindverantwoordelijke accountant daartoe een schriftelijk akkoord van het auditcomité of een orgaan met gelijksoortige taken heeft verkregen.
+2. Het eerste lid en artikel 25 zijn van toepassing in afwijking van artikel 4, derde lid, eerste alinea, van de Europese verordening.

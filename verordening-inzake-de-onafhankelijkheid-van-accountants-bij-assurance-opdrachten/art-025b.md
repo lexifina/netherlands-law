@@ -1,0 +1,2 @@
+# Artikel 25b
+De eindverantwoordelijke accountant beëindigt een assurance-opdracht bij een organisatie van openbaar belang, als het totaal van vergoedingen per verantwoordingsperiode die de accountantspraktijk gedurende vijf opeenvolgende verantwoordingsperioden bij deze organisatie in rekening heeft gebracht, meer dan vijftien procent van de totale opbrengst van de accountantspraktijk over elk van deze verantwoordingsperioden uitmaakt.
