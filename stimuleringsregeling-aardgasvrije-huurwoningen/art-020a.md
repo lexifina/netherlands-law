@@ -1,0 +1,2 @@
+# Artikel 20a. Vangnetbepaling
+Op een aanvraag die wordt ingediend door een vereniging van eigenaars waarvan aan het lid dat verhuurder is of de leden die verhuurder zijn van één of meerdere woningen in het gebouw of de gebouwen waarvoor de vereniging van eigenaars is opgericht op grond van deze regeling voor 1 oktober 2021 een subsidie is verleend zijn de artikelen 3, tweede lid, 6, tweede lid, onder a en c, en 14, tweede lid, onder c, niet van toepassing.
