@@ -1,0 +1,4 @@
+# Article I. (The Project)
+1. The two Parties shall jointly carry out a Project, entitled "Support to the Implementation of the Bangladesh Delta Plan 2100", hereinafter referred to as "the Project".
+2. The aim of the Project is to support effective implementation of the Bangladesh Delta Plan 2100 (BDP 2100) by strengthening the capacity of the coordination and implementing organisation of the BDP 2100, facilitating the formulation and implementation of fast track projects, the establishment of mid-term investment plans and their integration in the 8th Five Year Plan and reviewing the implementation of the BDP 2100 on an annual basis.
+3. The aforesaid co-operation between the two Parties is planned to last from 1 October 2018 to 31 December 2026 or shall expire on the date on which the Project has been completed in conformity with the provisions of the Administrative Arrangement and of the Revised Project Document (Revised TAPP), whichever date is the later.
