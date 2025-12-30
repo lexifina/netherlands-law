@@ -33,7 +33,7 @@
 #### § 9.8.4. Register rapportage- en reductieverplichting vervoersemissies
 ## Hoofdstuk 10. Afvalstoffen
 ### Titel 10.1. Algemeen
-### Titel 10.2. Het afvalbeheerplan
+### Titel 10.2. Het circulair materialenplan
 ### Titel 10.3. Hergebruik, preventie en recycling en andere nuttige toepassing
 ### Titel 10.4. Het beheer van huishoudelijke en andere afvalstoffen
 ### Titel 10.5. Het zich ontdoen, de inzameling en het transport van afvalwater
