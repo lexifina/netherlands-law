@@ -1,0 +1,12 @@
+# Artikel 2b. : Taken onafhankelijke begrotingsinstellingen
+1. De onafhankelijke begrotingsinstellingen, genoemd in artikel 2a, eerste lid, zijn belast met de volgende taken:
+a. het opstellen, beoordelen en bekrachtigen van jaarlijkse en meerjarige macro-economische prognoses;
+b. het monitoren van de naleving van de landspecifieke cijfermatige begrotingsregels als bedoeld in artikel 6 van de richtlijn;
+c. het op verzoek van Onze Minister van Financiën uitbrengen van een advies over de macro-economische prognose en de macro-economische aannames die aan het netto-uitgavenpad ten grondslag liggen;
+d. het op verzoek van Onze Minister van Financiën opstellen van een niet-bindend, afzonderlijk verslag, over de toereikendheid van de genomen en voorgenomen maatregelen ten opzichte van de doelstellingen, in het geval de Raad heeft vastgesteld dat er sprake is van een buitensporig tekort als bedoeld in artikel 126 van het Verdrag betreffende de werking van de Europese Unie en daartoe aanbevelingen heeft gericht tot de staat;
+e. het op verzoek van Onze Minister van Financiën uitbrengen van een beoordeling van de overeenstemming van de in het jaarlijks voortgangsverslag gerapporteerde begrotingsresultaten met het door de Raad van de Europese Unie voor Nederland aanbevolen netto-uitgavenpad. Onze Minister van Financiën kan verzoeken de factoren te analyseren die ten grondslag liggen aan een afwijking van het door de Raad van de Europese Unie voor Nederland aanbevolen netto-uitgavenpad;
+f. het beoordelen van de consistentie, samenhang en doeltreffendheid van het nationale begrotingskader;
+g. op uitnodiging deelnemen aan regelmatige hoorzittingen en debatten in de Tweede Kamer en Eerste Kamer der Staten-Generaal.
+2. De onafhankelijke begrotingsinstellingen geven in de context van de taken, bedoeld in het eerste lid, onder a tot en met f, beoordelingen af. Onze Minister van Financiën geeft gevolg aan die beoordelingen of licht toe waarom hij dat niet doet. Deze toelichting is openbaar en wordt binnen twee maanden na afgifte van de beoordelingen ingediend.
+3. Onze Minister van Economische Zaken geeft het CPB geen aanwijzingen voor de uitoefening van de taken, bedoeld in dit artikel.
+4. Onze Minister van Financiën verschaft aan de onafhankelijke begrotingsinstellingen, bedoeld in artikel 2a, eerste lid, adequate en tijdige toegang tot de informatie die nodig is om hun taken uit te voeren.
