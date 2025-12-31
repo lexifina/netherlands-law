@@ -1,0 +1,2 @@
+# Artikel 3.1.4.a. Voorschotverlening en opdrachtgunning
+Voor zover de subsidieontvanger voor de kosten waarvoor hij een voorschot als bedoeld in artikel 2.14 aanvraagt, een opdracht als bedoeld in artikel 3.1.6, tweede lid, heeft verleend, bevat de aanvraag tot voorschotverlening als bedoeld in artikel 2.14, kopieën van de opgevraagde offertes als bedoeld in artikel 3.1.6, tweede lid, en de relevante redenen voor een op basis van deze offertes genomen gunningsbeslissing.
