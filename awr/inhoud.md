@@ -21,6 +21,7 @@
 ### Afdeling 3. Domiciliekeuze en uitreiking van stukken
 ### Afdeling 4. Overschrijding van termijnen
 ### Afdeling 5. Toekenning van bevoegdheden
+### Afdeling 5a. Inzage in de belastingplichtige of inhoudingsplichtige betreffende gegevens
 ### Afdeling 6. Geheimhouding
 ## Hoofdstuk VIIIA. Bestuurlijke boeten
 ### Afdeling 1. Overtredingen
