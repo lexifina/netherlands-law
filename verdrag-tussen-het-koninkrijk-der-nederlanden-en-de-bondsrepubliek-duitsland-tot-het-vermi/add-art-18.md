@@ -1,0 +1,3 @@
+# XVIII. Ad artikel 24
+1. De beperkingen van de tweede volzin van artikel 1, lid 3, juncto artikel 1a, lid 1, nummer 2, derde volzin, van de Duitse wet op de inkomstenbelasting („Einkommensteuergesetz") zijn niet van toepassing op echtgenoten/partners die in Nederland wonen. Hierbij wordt voorondersteld dat de echtgenoot/partner die belastingplichtig is in de Bondsrepubliek Duitsland persoonlijk voldoet aan de voorwaarden van artikel 1, lid 3, van de Duitse Wet op de inkomstenbelasting („Einkommensteuergesetz").
+2. Het vijfde lid van artikel 24 belet een verdragsluitende staat niet belastingheffing van inkomen op geconsolideerde grondslag („Organschaft" of „fiscale eenheid") te beperken tot personen die inwoner zijn van die staat of tot vaste inrichtingen in die staat.

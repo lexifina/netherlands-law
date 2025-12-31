@@ -1,0 +1,4 @@
+# VI. Zu den Artikeln 7, 17 und 21
+1) Eine von einem Mitglied oder ehemaligen Mitglied des Europäischen Parlaments bezogene Vergütung gemäß dem Beschluss des Europäischen Parlaments vom 28. September 2005 zur Annahme des Abgeordnetenstatuts des Europäischen Parlaments (2005/684/EG, Euratom) in seiner jeweils geltenden Fassung kann ungeachtet der Artikel 7, 17 und 21 nur in dem Vertragsstaat besteuert werden, in dem dieses Mitglied oder ehemalige Mitglied gewählt wurde.
+2) Absatz 1 gilt entsprechend für Ruhegehälter, die dem Ehe-/Lebenspartner oder den Kindern des Mitglieds oder ehemaligen Mitglieds des Europäischen Parlaments auf der Grundlage des in Absatz 1 genannten Beschlusses gewährt werden.
+3) Die Absätze 1 und 2 berühren nicht das Recht der Niederlande, die vorgenannte Vergütung bei der Berechnung von Steuerfreibeträgen und -vorteilen, Steuernachlässen, -vergünstigungen und -abzügen sowie bei einkommensbezogenen Vorschriften zu berücksichtigen.

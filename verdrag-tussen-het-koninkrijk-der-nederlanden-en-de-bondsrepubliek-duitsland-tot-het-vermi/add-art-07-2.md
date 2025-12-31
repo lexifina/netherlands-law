@@ -1,0 +1,3 @@
+# VII. Zu den Artikeln 8, 13, 14 und 21
+1) Für Zwecke der Artikel 8, 13, 14 und 21 gilt der Ort der tatsächlichen Geschäftsleitung der Koninklijke Luchtvaartmaatschappij N.V. (KLM N.V.) als in den Niederlanden gelegen, solange die Niederlande im Rahmen des Doppelbesteuerungsabkommens zwischen den Niederlanden und Frankreich in Bezug auf das Unternehmen KLM N.V. ein ausschließliches Besteuerungsrecht haben.
+2) Absatz 1 gilt auch in allen Fällen, in denen die Luftverkehrstätigkeit der bestehenden KLM N.V. vollständig oder im Wesentlichen von einer anderen Person fortgeführt würde. Diese Person gilt als in den Niederlanden ansässig.

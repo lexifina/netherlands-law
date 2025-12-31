@@ -1,0 +1,3 @@
+# XX. Ad artikel 27
+1. De bepalingen van artikel 27 zijn van overeenkomstige toepassing op informatie die van belang is voor de uitvoering van inkomensgerelateerde voorschriften krachtens de Nederlandse wetgeving door de Nederlandse belastingautoriteiten die belast zijn met de implementatie, toepassing of handhaving van deze inkomensgerelateerde voorschriften.
+2. Niettegenstaande artikel 27, tweede lid, tweede volzin, kan uit hoofde van artikel 27, eerste lid, door een verdragsluitende staat ontvangen informatie zonder nadere voorwaarden door deze staat ook worden gebruikt voor de uitvoering van de inkomensgerelateerde voorschriften bedoeld in het eerste lid.

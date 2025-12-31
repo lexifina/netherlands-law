@@ -1,0 +1,7 @@
+# XII. Zu Artikel 14
+1. Beim Schwellenwert von 35 Tagen wird ein Tag nur dann berücksichtigt, wenn die unselbständige Arbeit am betreffenden Tag mindestens 30 Minuten lang entweder im Ansässigkeitsstaat des Arbeitnehmers oder in einem oder mehreren Drittstaaten oder -gebieten ausgeübt wird.
+2. Der Ausdruck »Arbeitstage« bedeutet tatsächliche Arbeitstage. Tatsächliche Arbeitstage sind alle Tage innerhalb eines Kalenderjahrs, an denen der Arbeitnehmer eine unselbständige Arbeit tatsächlich ausübt und für die er Vergütungen bezieht. Zeiten im Bereitschaftsdienst werden bei der Ermittlung von Arbeitstagen jedoch nicht berücksichtigt, selbst wenn ein Abruf zur tatsächlichen Ausübung der Tätigkeit erfolgt.
+3. In dem Fall, dass Vergütungen gezahlt werden, obwohl nicht tatsächlich eine Tätigkeit ausgeübt wird, legen die Niederlande und die Bundesrepublik Deutschland Artikel 14 unterschiedlich aus beziehungsweise wenden ihn unterschiedlich an. Vergütungen, die vom Arbeitgeber für Tage gezahlt werden, an denen der Arbeitnehmer
+a) aufgrund einer Arbeitsfreistellung nach Kündigung der unselbständigen Arbeit,
+b) aufgrund dessen, dass er gemäß einer Anordnung des Arbeitgebers oder einer Regierung eines Vertragsstaats Tage untätig zu Hause verbringt,
+nicht tatsächlich eine Tätigkeit ausübt, gelten jedoch als Vergütungen, die für die Ausübung einer unselbständigen Arbeit in dem Vertragsstaat geleistet werden, in dem die Tätigkeit ohne diese Umstände tatsächlich ausgeübt worden wäre.

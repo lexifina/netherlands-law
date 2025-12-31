@@ -1,0 +1,2 @@
+# V. Zu Artikel 7
+Wird eine in einem Vertragsstaat gelegene Betriebsstätte einer natürlichen Person, die im anderen Vertragsstaat ansässig ist, nach dem Recht des erstgenannten Vertragsstaats in eine Gesellschaft umgewandelt, gilt die Entnahme einer Vergütung durch die natürliche Person ab dem Zeitpunkt des Umwandlungsvorhabens (»Vorgründungsgesellschaft«, »Voorperiode« oder »Voor-voorperiode«) bis zum Zeitpunkt der Erfüllung aller rechtlichen Voraussetzungen für die Gesellschaftsgründung als Einkünfte im Sinne des Artikels 7.

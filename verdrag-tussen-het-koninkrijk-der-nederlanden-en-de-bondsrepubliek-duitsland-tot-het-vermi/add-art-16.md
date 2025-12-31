@@ -1,0 +1,4 @@
+# XVI. Ad artikel 18
+1. Met betrekking tot artikel 18, eerste lid, onderdelen b en c, is het wel te verstaan dat ingeval de diensten niet uitsluitend in de woonstaat worden verricht, die bepalingen kunnen resulteren in het toewijzen van heffingsrechten aan beide staten, al naargelang waar de diensten zijn verleend.
+2. Ten behoeve van de drempel van 35 dagen wordt een dag alleen meegerekend, indien op de betreffende dag de diensten worden verleend gedurende ten minste 30 minuten.
+3. Het begrip „werkdagen" betekent daadwerkelijk gewerkte dagen. Daadwerkelijk gewerkte dagen zijn alle dagen in een kalenderjaar waarop de werknemer daadwerkelijk diensten verleent en voor welke hij een beloning ontvangt. Aanwezigheidsdiensten, zelfs wanneer de werknemer wordt opgeroepen om daadwerkelijk diensten te verlenen, worden echter niet meegenomen bij het vaststellen van een werkdag.

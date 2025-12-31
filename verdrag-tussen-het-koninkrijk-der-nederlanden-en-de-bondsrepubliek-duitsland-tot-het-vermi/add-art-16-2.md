@@ -1,0 +1,4 @@
+# XVI. Zu Artikel 18
+1. In Bezug auf Artikel 18 Absatz 1 Buchstaben b und c können diese Bestimmungen in dem Fall, dass die Dienste nicht nur im Ansässigkeitsstaat geleistet werden, zu einer Zuweisung der Besteuerungsrechte an beide Staaten führen, je nachdem, wo die Dienste geleistet wurden.
+2. Beim Schwellenwert von 35 Tagen wird ein Tag nur dann berücksichtigt, wenn die Dienste am betreffenden Tag mindestens 30 Minuten lang geleistet werden.
+3. Der Ausdruck »Arbeitstage« bedeutet tatsächliche Arbeitstage. Tatsächliche Arbeitstage sind alle Tage innerhalb eines Kalenderjahrs, an denen der Arbeitnehmer die Dienste tatsächlich leistet und für die er Vergütungen bezieht. Zeiten im Bereitschaftsdienst werden bei der Ermittlung von Arbeitstagen jedoch nicht berücksichtigt, selbst wenn ein Abruf zur tatsächlichen Leistung der Dienste erfolgt.

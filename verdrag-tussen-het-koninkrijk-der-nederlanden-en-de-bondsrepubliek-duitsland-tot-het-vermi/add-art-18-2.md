@@ -1,0 +1,3 @@
+# XVIII. Zu Artikel 24
+1) Die Beschränkungen des § 1 Absatz 3 Satz 2 in Verbindung mit § 1a Absatz 1 Nummer 2 Satz 3 des deutschen Einkommensteuergesetzes (EStG) gelten nicht für in den Niederlanden ansässige Ehe-/Lebenspartner. Voraussetzung ist, dass der in der Bundesrepublik Deutschland steuerpflichtige Ehe-/Lebenspartner persönlich die Voraussetzungen des § 1 Absatz 3 des Einkommensteuergesetzes erfüllt.
+2) Artikel 24 Absatz 5 hindert einen Vertragsstaat nicht, seine Gruppenbesteuerung (»Organschaft« oder »fiscale eenheid«) auf in diesem Staat ansässige Personen oder dort belegene Betriebsstätten zu beschränken.

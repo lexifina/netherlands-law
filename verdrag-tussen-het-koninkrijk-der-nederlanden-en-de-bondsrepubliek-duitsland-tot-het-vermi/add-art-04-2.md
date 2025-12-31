@@ -1,0 +1,2 @@
+# IV. Zu den Artikeln 5, 6, 7 und 13
+Die Rechte auf Erforschung und Ausbeutung natürlicher Ressourcen gelten als unbewegliches Vermögen, das in dem Vertragsstaat gelegen ist, auf dessen Meeresboden und Meeresuntergrund diese Rechte anwendbar sind, und als Vermögenswerte einer Betriebsstätte in diesem Staat. Des Weiteren umfassen die vorgenannten Rechte diejenigen auf Beteiligungen an dieser Erforschung oder Ausbeutung oder auf Vorteile aus Vermögenswerten, die aus dieser Erforschung oder Ausbeutung entstehen.

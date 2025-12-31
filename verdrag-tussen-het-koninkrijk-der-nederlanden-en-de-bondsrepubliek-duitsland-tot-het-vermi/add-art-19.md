@@ -1,0 +1,2 @@
+# XIX. Ad artikel 25
+De bevoegde autoriteiten van de staten kunnen ter zake van een overeengekomen regeling in het kader van een procedure voor onderling overleg als bedoeld in artikel 25, tevens overeenkomen dat de staat, waarin ingevolge eerdergenoemde regeling sprake is van een additionele belastingheffing, met betrekking tot deze additionele belastingheffing geen belastingverhogingen, administratieve boetes, interest en kosten zal opleggen.
