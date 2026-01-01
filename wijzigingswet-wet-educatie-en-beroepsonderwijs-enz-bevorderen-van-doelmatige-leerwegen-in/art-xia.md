@@ -1,0 +1,2 @@
+# Artikel XIa
+Onze Minister van Onderwijs, Cultuur en Wetenschap zendt in overeenstemming met Onze Minister van Economische Zaken binnen twee jaar na de inwerkingtreding van artikel I, onderdeel P, respectievelijk artikel V, onderdeel L van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de in artikel 7.2.7, derde en vierde lid, Wet educatie en beroepsonderwijs, respectievelijk artikel 7.2.6, derde en vierde lid, Wet educatie en beroepsonderwijs BES, opgenomen normen.
