@@ -1,3 +1,0 @@
-# Artikel 20b. Overgangsrecht
-1. Op aanvragen die zijn ingediend voor 31 december 2023 blijft deze regeling van toepassing zoals zij luidde voor dat tijdstip, met uitzondering van artikel 6, tweede lid, onderdeel d, artikel 10, eerste lid, onderdeel a, artikel 14, tweede lid, onderdeel d, artikel 18, eerste lid en artikel 20, tweede lid.
-2. Op subsidies die voor 31 december 2023 zijn verleend blijft deze regeling van toepassing zoals zij luidde voor dat tijdstip, met uitzondering van artikel 10, eerste lid, onderdeel a, artikel 18, eerste lid en artikel 20, tweede lid. Deze subsidies worden geacht te zijn verleend onder voorwaarde van een uitvoeringstermijn van zes jaar.
