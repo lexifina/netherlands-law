@@ -1,0 +1,3 @@
+# Artikel 11a
+1. De Minister die het aangaat legt uiterlijk twee jaar voorafgaand aan de levering of actualisering van een model als bedoeld in artikel 9, vierde lid, van de wet aan de Minister ter goedkeuring de beschrijving van de te hanteren software, het algoritme, de parametrisatie en de werkprocessen van het model voor.
+2. De Minister die het aangaat legt uiterlijk twee maanden voorafgaand aan de levering of actualisering van een model als bedoeld in artikel 9, vierde lid, van de wet aan de Minister ter goedkeuring een standaard toetsprotocol voor interne kwaliteitstoetsing van het model voor.
