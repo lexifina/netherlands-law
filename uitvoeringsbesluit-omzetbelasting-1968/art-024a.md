@@ -1,0 +1,3 @@
+# Artikel 24a
+1. Van niet in het vrije verkeer zijnde goederen waarmee in Nederland een vervoermiddel wordt bevoorraad, moet degene voor wie de goederen zijn bestemd, niet zijnde een ondernemer of lichaam in de zin van de Algemene wet inzake rijksbelastingen, aangifte doen. Op de aangifte en de goederen zijn de wettelijke bepalingen, bedoeld in artikel 1:1, eerste en tweede lid, van de Algemene douanewet, van toepassing als ware sprake van een aangifte voor het vrije verkeer en van voor de douaneregeling vrij verkeer aangegeven goederen.
+2. De in het eerste lid bedoelde goederen worden slechts vrijgegeven als bedoeld in artikel 194, eerste lid, van het Douanewetboek van de Unie indien wordt aangetoond dat de in het eerste lid van dit artikel bedoelde aangifte is gedaan.

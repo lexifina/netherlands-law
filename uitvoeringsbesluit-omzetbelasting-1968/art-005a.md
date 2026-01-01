@@ -1,0 +1,2 @@
+# Artikel 5a
+Bij de berekening van de belasting over de vergoeding en over de douanewaarde overeenkomstig de artikelen 8, eerste lid, en 17c, eerste lid, respectievelijk artikel 19, eerste lid, van de wet, wordt het bedrag van de verschuldigde belasting rekenkundig afgerond op centen. Deze rekenkundige afronding op centen wordt zodanig toegepast dat bij bedragen waarbij de derde decimaal het cijfer 5 of een hoger cijfer bereikt omhoog wordt afgerond, en dat in geval de derde decimaal dit cijfer niet bereikt omlaag wordt afgerond.
