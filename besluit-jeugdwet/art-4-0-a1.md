@@ -1,0 +1,4 @@
+# Artikel 4.0.a1
+Artikel 4.4.1 van de wet is niet van toepassing op de volgende categorieën van jeugdhulpaanbieders:
+a. jeugdhulpaanbieders die uitsluitend jeugdhulp leveren die bestaat uit het vervoer van een jeugdige, bedoeld in artikel 2.3, tweede lid, van de wet; en
+b. gemeenten.
