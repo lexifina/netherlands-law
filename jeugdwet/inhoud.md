@@ -10,6 +10,7 @@
 #### § 4.2.a. Klachtrecht
 #### § 4.2.b. Medezeggenschap
 ### § 4.3. Maatschappelijke verantwoording
+### § 4.4. Bestuursstructuur
 ## Hoofdstuk 5. Pleegzorg
 ## Hoofdstuk 6. Gesloten jeugdhulp bij ernstige opgroei- en opvoedingsproblemen
 ### § 6.1. Machtiging
@@ -36,7 +37,8 @@
 ### § 8.2. Betaal-, onderzoeks- en informatieplicht
 ### § 8.3. Financiële verantwoording
 ### § 8.4. Verwerking van persoonsgegevens
-## Hoofdstuk 9. Toezicht en handhaving
+## Hoofdstuk 9. Onderzoek, toezicht en handhaving
+## Hoofdstuk 9a. Stelselonderzoek, vroegsignalering en toezicht door de zorgautoriteit
 ## Hoofdstuk 10. Overgangsrecht
 ## Hoofdstuk 11. Wijziging van andere wetten
 ## Hoofdstuk 12. Slotbepalingen

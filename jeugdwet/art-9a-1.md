@@ -1,0 +1,12 @@
+# Artikel 9a.1
+1. De zorgautoriteit onderzoekt in algemene zin of het aanbod van jeugdhulp aansluit op de vraag, het aanbod van gecertificeerde instellingen aansluit op de uit te voeren kinderbeschermingsmaatregelen en jeugdreclassering en in welke mate de colleges, Jeugdregio's, jeugdhulpaanbieders en gecertificeerde instellingen erin slagen jeugdigen en hun ouders de noodzakelijke jeugdhulp, kinderbeschermingsmaatregelen en jeugdreclassering te verschaffen.
+2. Het onderzoek kan zich onder meer richten op:
+a. het aanbod van jeugdhulp en gecertificeerde instellingen, alsmede de te verwachten ontwikkelingen daarin;
+b. de vraag naar jeugdhulp en de uit te voeren kinderbeschermingsmaatregelen en jeugdreclassering, alsmede de te verwachten ontwikkelingen daarin;
+c. de mate waarin het aanbod van jeugdhulp aansluit of naar verwachting zal aansluiten op de vraag naar jeugdhulp, alsmede de risicofactoren voor een goede aansluiting;
+d. de mate waarin het aanbod van gecertificeerde instellingen aansluit of naar verwachting zal aansluiten op de uit te voeren kinderbeschermingsmaatregelen en jeugdreclassering, alsmede de risicofactoren voor een goede aansluiting;
+e. de wijze van totstandkoming van overeenkomsten tussen colleges of Jeugdregio's enerzijds en jeugdhulpaanbieders en gecertificeerde instellingen anderzijds en de in die overeenkomsten opgenomen prestaties, de prijzen daarvoor en overige voorwaarden, alsmede de totstandkoming van door colleges of Jeugdregio's aan jeugdhulpaanbieders en gecertificeerde instellingen verstrekte subsidies en de subsidievoorwaarden;
+f. de wijze van totstandkoming van overeenkomsten van opdracht waarmee jeugdhulpaanbieders of gecertificeerde instellingen andere jeugdhulpaanbieders of gecertificeerde instellingen bij de verlening van jeugdhulp of het uitvoeren van kinderbeschermingsmaatregelen of jeugdreclassering inschakelen, de daarin opgenomen prestaties, de prijzen daarvoor en overige voorwaarden;
+g. de ontwikkeling van de kosten voor jeugdhulp en de uitvoering van kinderbeschermingsmaatregelen en jeugdreclassering;
+h. de invloed van de inrichting van de toegang tot de jeugdhulp, kinderbeschermingsmaatregelen of jeugdreclassering op de snelheid waarmee benodigde hulp of maatregelen kunnen worden ingezet, en
+i. de wijze waarop en de mate waarin de continuïteit van jeugdhulp, kinderbeschermingsmaatregelen of jeugdreclassering voor jeugdigen of hun ouders wordt gewaarborgd indien nieuwe jeugdhulpaanbieders of gecertificeerde instellingen oude opvolgen.
