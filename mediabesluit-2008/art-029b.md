@@ -1,0 +1,2 @@
+# Artikel 29b
+De eerste benoeming van de leden van de raad van toezicht van de NOS op grond van artikel 2.34c van de wet, zoals dat artikel luidt met ingang van het tijdstip waarop artikel Ia van de wet van 2 juli 2009 tot wijziging van de Mediawet 2008 in verband met de erkenning en de financiering van de publieke omroep in werking is getreden, geschiedt niet op voordracht van de raad van toezicht van de NOS.
