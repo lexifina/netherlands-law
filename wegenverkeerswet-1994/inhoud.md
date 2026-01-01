@@ -15,12 +15,12 @@
 ### Paragraaf 3. De organen
 ### Paragraaf 4. Financiële bepalingen
 ### Paragraaf 5. Overige bepalingen
+## Hoofdstuk IBA. Erkenning van bedrijven voor het verrichten van handelingen met betrekking tot de registratie van gegevens in het kentekenregister, de fabricage of registratie van kentekenplaten, de keuring van voertuigen of de inbouw van onderdelen of apparaten in voertuigen
 ## Hoofdstuk IC. Toezicht op keuringsinstellingen en onderzoeksgerechtigden
 ## Hoofdstuk II. Verkeersgedrag
 ### § 1. Gedragsregels
 ### § 2. Verkeerstekens en maatregelen op of aan de weg
 ### § 3. Vaststelling bebouwde kom
-## Hoofdstuk IIA. Aanwijzing bromfietsen waarvoor geen Europese typegoedkeuring vereist is
 ## Hoofdstuk III. Goedkeuring van voertuigen en systemen, onderdelen, technische eenheden, voertuigdelen, uitrustingsstukken en voorzieningen voor dergelijke voertuigen en aanhangwagens daarvan en van voorzieningen die ter bescherming van inzittenden van voertuigen en kwetsbare weggebruikers zijn ontworpen en gebouwd
 ### § 1. Algemene bepalingen
 ### § 2. Verbodsbepalingen
@@ -31,9 +31,6 @@
 ### § 3. Registratie van kentekens
 ### § 4a. Inschrijving in het kentekenregister en tenaamstelling
 ### § 4b. Kentekenbewijzen
-### § 4c. Erkenningsregeling tenaamstelling
-### § 5. Erkenningsregeling bedrijfsvoorraad
-### § 5a. Erkenningsregeling exportdienstverlening
 ### § 6. Schorsing
 ### § 7. Kentekenplaten
 ## Hoofdstuk IVA. Registratie van fietsen en andere mobiele objecten
@@ -43,13 +40,10 @@
 ### § 2. Periodieke keuringsplicht
 ### § 3. Aanvraag en afgifte van keuringsrapporten
 ### § 4. Geldigheid keuringsbewijzen
-### § 5. Erkenningsregeling periodieke keuring en regeling bevoegdheid tot keuren
+### § 5. Kwaliteitstoezicht periodieke keuringen
 ### § 6. Herkeuring en deskundigenonderzoek
-### § 6a. Erkenningsregeling systemen, onderdelen, technische eenheden, voertuigdelen, uitrustingsstukken en voorzieningen voor voertuigen en aanhangwagens daarvan en voorzieningen ter bescherming van inzittenden van voertuigen en kwetsbare weggebruikers die op de markt mogen worden aangeboden, in de handel mogen worden gebracht of in gebruik mogen worden genomen, zonder te zijn goedgekeurd
 ### § 7. Wijziging in de goedkeuring van voertuigen
-### § 8. Erkenningsregeling wijziging goedkeuring voertuigen
 ### § 9. Keuring na verval tenaamstelling
-### § 9a. Erkenningsregeling keuring van schadevoertuigen
 ## Hoofdstuk VI. Rijvaardigheid en rijbevoegdheid
 ### Afdeling 1. Rijbewijsplicht
 ### Afdeling 2. Eisen ten aanzien van het geven van rijonderricht

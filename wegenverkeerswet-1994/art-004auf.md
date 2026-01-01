@@ -1,0 +1,3 @@
+# Artikel 4auf
+1. Een bij de Dienst Wegverkeer in te dienen aanvraag tot verlening van een basiserkenning, een erkenning voor specifieke handelingen of een bevoegdheid als bedoeld in artikel 4aue wordt ingediend op een door de Dienst Wegverkeer te bepalen wijze.
+2. De kosten die samenhangen met het in behandeling nemen van de aanvraag en in verband met het door de Dienst Wegverkeer verrichten van taken en handelingen en het nemen van besluiten als bedoeld in artikel 4b, eerste lid, onderdelen j en k, ten aanzien van erkenningen en bevoegdheden worden door de Dienst Wegverkeer vastgesteld en komen ten laste van de aanvrager onderscheidenlijk erkenninghouder of bevoegde persoon.
