@@ -1,0 +1,2 @@
+# Artikel 7a. Begripsbepaling toezicht overige OCW-sectoren
+In de artikelen 7b tot en met 7k wordt onder instellingen verstaan: rechtspersonen op wie de wet van toepassing is en die niet vallen onder het toezicht van de Inspectie van het onderwijs, bedoeld in artikel 6, eerste lid, of het Commissariaat voor de Media, bedoeld in artikel 7, eerste lid, en voor zover de Minister van Onderwijs, Cultuur en Wetenschap de minister is wie het aangaat.

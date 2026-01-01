@@ -1,0 +1,2 @@
+# Artikel 3c. Vermelding van toepassing zijnde bezoldigingsklasse of bezoldigingsmaximum in het financieel verslaggevingsdocument
+De verantwoordelijke vermeldt in het financieel verslaggevingsdocument de op grond van artikel 3 of 3a van toepassing zijnde klasse of het op grond van artikel 3b van toepassing zijnde bezoldigingsmaximum voor het betreffende kalenderjaar, alsmede het aantal complexiteitspunten per criterium dat geldt voor de instelling in het betreffende jaar.
