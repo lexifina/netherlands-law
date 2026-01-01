@@ -1,0 +1,3 @@
+# Artikel 2a.4. Berekening van het collegegeldkrediet of levenlanglerenkrediet voor een student educatieve module of premaster
+Voor een ho-student die op grond van artikel 3.16f van de wet per maand een bedrag aan collegegeldkrediet of levenlanglerenkrediet ontvangt dat gelijkstaat aan de vergoeding die hij naar rato per 5 studiepunten betaalt voor het gebruikmaken van een educatieve module of premaster,
+wordt het aantal maanden waarover het collegegeldkrediet of levenlanglerenkrediet wordt uitbetaald, berekend door het aantal studiepunten van de educatieve module of premaster te delen door vijf. Het getal dat daaruit komt, wordt naar boven afgerond op een geheel getal en vormt het aantal maanden waarover het collegegeldkrediet of levenlanglerenkrediet wordt uitbetaald.

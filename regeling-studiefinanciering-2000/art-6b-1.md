@@ -1,0 +1,2 @@
+# Artikel 6b.1. Aanspraken op grond van voormalig artikel 5.6 WSF 2000
+Voor de toepassing van artikel 12.14, eerste lid, van de wet wordt ten aanzien van de student, bedoeld in artikel 5.6, vijfde tot en met achtste en tiende lid, van de wet, zoals dat luidde op 31 augustus 2015, onder 'nominale duur van die opleiding' verstaan de nominale duur die voor de betreffende student van toepassing is, inclusief de verlenging met een jaar op grond van artikel 5.6 van de wet, zoals dat luidde op 31 augustus 2015.
