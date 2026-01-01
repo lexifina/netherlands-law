@@ -3,5 +3,5 @@
 2. Het uitstel wordt verleend voor het bedrag aan belasting dat kan worden toegerekend aan het voordeel ter zake van de overdracht van de vermogensbestanddelen op grond van artikel IX, eerste lid, van de Wet fiscaal kwalificatiebeleid rechtsvormen.
 3. Het uitstel houdt in dat de verschuldigde belasting kan worden voldaan in tien gelijke jaarlijkse termijnen, waarvan de eerste termijn zes weken na de dagtekening van het aanslagbiljet vervalt en elk van de volgende termijnen telkens een jaar later.
 4. Het uitstel wordt beëindigd in geval van faillissement van de belastingschuldige. Ingeval deze omstandigheid zich voordoet, stelt de belastingschuldige de ontvanger daarvan onverwijld in kennis.
-5. Met betrekking tot een verleend uitstel van betaling als bedoeld in het eerste lid zijn artikel 24, zevende lid, artikel 25, tweeëntwintigste lid, vijfde zin, en artikel 28, derde en vierde lid, van overeenkomstige toepassing.
+5. Met betrekking tot een verleend uitstel van betaling als bedoeld in het eerste lid zijn artikel 24, zesde lid, artikel 25, tweeëntwintigste lid, vijfde zin, en artikel 28, derde en vierde lid, van overeenkomstige toepassing.
 6. Op het bezwaar, beroep, hoger beroep en beroep in cassatie inzake de beschikking, bedoeld in het eerste lid, is hoofdstuk V van de Algemene wet inzake rijksbelastingen van overeenkomstige toepassing.
