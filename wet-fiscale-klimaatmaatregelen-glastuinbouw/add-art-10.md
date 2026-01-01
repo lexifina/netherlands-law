@@ -1,0 +1,2 @@
+# Artikel X
+Titel 15.13 van de Wet milieubeheer vervalt en het Besluit kosten-verevening reductie CO2-emissies glastuinbouw en de Regeling kosten-verevening reductie CO2-emissies glastuinbouw worden ingetrokken, met dien verstande dat die titel, dat besluit en die regeling van toepassing blijven voor zover de emissie van kooldioxide heeft plaatsgevonden voorafgaand aan de inwerkingtreding van dit artikel en met dien verstande dat Onze Minister wordt gelezen als Onze Minister van Klimaat en Groene Groei.
