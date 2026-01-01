@@ -1,4 +1,0 @@
-# Artikel 8.5a.3. Samenwerkingsovereenkomst instelling en school doorlopende leerroute vmbo-mbo
-1. Een doorlopende leerroute vmbo-mbo wordt verzorgd door het bevoegd gezag van een instelling en het bevoegd gezag van een school gezamenlijk op grond van een samenwerkingsovereenkomst.
-2. Een samenwerkingsovereenkomst als bedoeld in het eerste lid voldoet aan artikel 2.107b, tweede lid, van de Wet voortgezet onderwijs 2020.
-3. Indien de doorlopende leerroute vmbo-mbo volledig wordt verzorgd binnen een verticale scholengemeenschap regelt het bevoegd gezag op overeenkomstige wijze de onderwerpen, genoemd in artikel 2.107b, tweede lid, van de Wet voortgezet onderwijs 2020, met uitzondering van de onderdelen h en i van dat lid.
