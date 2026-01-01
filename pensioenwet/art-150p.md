@@ -1,7 +1,7 @@
 # Artikel 150p. Financieel overbruggingsplan tijdens transitie
 1. Een pensioenfonds dat naar verwachting zal overgaan op een collectieve waardeoverdracht als bedoeld in artikel 150m, kan in de periode tot die collectieve waardeoverdracht plaatsvindt, in afwijking van de artikelen 138, 139, of 140, eerste en derde lid, afzien van het jaarlijks indienen van een herstelplan en kan in plaats daarvan jaarlijks een concreet en haalbaar overbruggingsplan indienen dat voldoet aan de daarvoor gestelde voorwaarden.
-2. In afwijking van het eerste lid kan een pensioenfonds dat op 1 juli 2025 geen implementatieplan heeft ingediend bij de toezichthouder geen overbruggingsplan indienen voor de jaren 2025 en 2026.
-3. In het overbruggingsplan beschrijft het pensioenfonds de financiële situatie van het pensioenfonds in de periode tot het pensioenfonds overgaat tot collectieve waardeoverdracht maar uiterlijk op 1 januari 2027. Het uitgangspunt voor de beschrijving is de dekkingsgraad van het pensioenfonds op 31 december van enig jaar.
+2. In afwijking van het eerste lid kan een pensioenfonds dat op 1 juli van het bij algemene maatregel van bestuur te bepalen jaar geen implementatieplan heeft ingediend bij de toezichthouder, voor dat jaar en de daaropvolgende jaren gedurende de transitieperiode geen overbruggingsplan indienen.
+3. In het overbruggingsplan beschrijft het pensioenfonds de financiële situatie van het pensioenfonds in de periode tot het pensioenfonds overgaat tot collectieve waardeoverdracht maar uiterlijk op een bij algemene maatregel van bestuur te bepalen tijdstip. Het uitgangspunt voor de beschrijving is de dekkingsgraad van het pensioenfonds op 31 december van enig jaar.
 4. Een pensioenfonds:
 a. onderbouwt in het overbruggingsplan:
 1°. waarom het vanuit het belang van deelnemers, gewezen deelnemers, andere aanspraakgerechtigden en pensioengerechtigden een overbruggingsplan indient;
@@ -15,3 +15,4 @@ b. stelt informatie over het overbruggingsplan en de onderbouwing daarvan tijdig
 7. Voor de toepassing van artikel 140 telt de vaststelling van een beleidsdekkingsgraad in de periode dat op grond van dit artikel geen herstelplan wordt ingediend mee voor de bepaling hoe veel maal opeenvolgend sprake is van een beleidsdekkingsgraad onder het minimaal vereist eigen vermogen.
 8. Artikel 137, tweede lid, onderdeel a en b, is niet van toepassing zolang een pensioenfonds een overbruggingsplan indient. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld voor de toeslagverlening in die situatie.
 9. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de overbruggingsplannen.
+10. De voordracht voor een krachtens het tweede en derde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.

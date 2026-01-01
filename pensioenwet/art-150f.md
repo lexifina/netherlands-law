@@ -1,7 +1,8 @@
 # Artikel 150f. Afspraken compensatie pensioenovereenkomst
 1. Indien een pensioenovereenkomst afspraken bevat over compensatie in de vorm van het toekennen van extra pensioenaanspraken, wordt voldaan aan de volgende voorwaarden:
 a. de werknemer heeft recht op compensatie als voor het leeftijdscohort waartoe de werknemer behoort compensatie is overeengekomen in de pensioenovereenkomst, waarbij niet is vereist dat de werknemer bij aanvang van de compensatieperiode reeds werkzaam was bij de werkgever;
-b. de compensatie wordt tijdsevenredig aan de werknemer toegekend over de compensatieperiode, die aanvangt op de ingangsdatum van de gewijzigde pensioenovereenkomst en uiterlijk 31 december 2036 eindigt; en
+b. de compensatie wordt tijdsevenredig aan de werknemer toegekend over de compensatieperiode, die aanvangt op de ingangsdatum van de gewijzigde pensioenovereenkomst en uiterlijk eindigt op een bij algemene maatregel van bestuur te bepalen tijdstip; en
 c. de compensatie is gefinancierd op het moment dat de compensatie onvoorwaardelijk wordt toegekend.
 2. In aanvulling op de artikelen 38, eerste lid, en 39, eerste lid, verstrekt de pensioenuitvoerder voor zover van toepassing de deelnemer jaarlijks en bij beëindiging van de deelneming informatie over de compensatieperiode en de mogelijke effecten voor compensatie bij beëindiging van de deelneming en het aangaan van een nieuwe pensioenovereenkomst. De pensioenuitvoerder stelt deze informatie tevens op zijn website beschikbaar voor de deelnemer.
 3. Het eerste lid is van overeenkomstige toepassing op de gewezen werknemer die op grond van de pensioenovereenkomst recht heeft op premievrije voortzetting.
+4. De voordracht voor een krachtens het eerste lid, onderdeel b, vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
