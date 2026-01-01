@@ -1,0 +1,8 @@
+# Artikel 29b. Financieel crisisplan
+Een financieel crisisplan als bedoeld in artikel 145, tweede lid, van de Pensioenwet dan wel artikel 140, tweede lid, van de Wet verplichte beroepspensioenregeling omvat in ieder geval:
+a. een beschrijving van een of meer financiële situaties waarin het fonds niet aan de vereisten van het vereist eigen vermogen voldoet en gevaar loopt niet aan de vereisten van het minimaal vereist vermogen te gaan voldoen;
+b. een beschrijving van een of meer risico's die naar het oordeel van het fonds kunnen leiden tot situaties die als financiële crisissituatie kunnen worden aangemerkt;
+c. een beschrijving van de maatregelen die het fonds ter beschikking staan ter bestrijding van situaties als bedoeld in onderdeel a en artikel 145, tweede lid, onderdeel a, van de Pensioenwet dan wel artikel 140, tweede lid, onderdeel a, van de Wet verplichte beroepspensioenregeling, waarbij wordt beschreven hoe het fonds deze maatregelen verwacht in te zetten;
+d. een indicatie van het financiële effect van de inzet van de ter beschikking staande maatregelen;
+e. de berekening van het niveau van de beleidsdekkingsgraad vanaf welke naar verwachting vermindering van pensioenaanspraken en pensioenrechten nodig zijn om te voldoen aan de vereisten ten aanzien van het vereist eigen vermogen; en
+f. een beschrijving van de wijze waarop bij het inzetten van maatregelen op evenwichtige wijze rekening wordt gehouden met de belangen van de belanghebbenden van het fonds, waarbij wordt opgenomen hoe een vermindering van pensioenaanspraken en pensioenrechten zal worden verdeeld en of, en zo ja hoe, deze zal worden gespreid.
