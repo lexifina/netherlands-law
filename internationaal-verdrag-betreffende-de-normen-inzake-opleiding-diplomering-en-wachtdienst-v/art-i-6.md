@@ -1,0 +1,3 @@
+# Regulation I/6. Administration of certification arrangements
+1. Each Party undertakes to establish and maintain a means of ensuring that programmes incorporating such instruction and practical training as is necessary to achieve the competency standards are regularly monitored to ensure their effectiveness.
+2. Each Party undertakes, to the extent practicable, to maintain a register or registers of all certificates and endorsements specified in regulations I/3 and II/1 to II/6 which are issued, have expired, or have been revalidated, reported lost, suspended or cancelled, and of dispensations issued, and provide information on the status of such certificates, endorsements and dispensations when so requested by another Party.

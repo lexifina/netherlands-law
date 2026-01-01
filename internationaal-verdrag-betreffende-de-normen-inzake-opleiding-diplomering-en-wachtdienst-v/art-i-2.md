@@ -1,0 +1,5 @@
+# Regulation I/2. Application
+1. The Administration of a Party, if it considers it unreasonable or impracticable to apply the full requirements of regulations II/3, II/4 and II/5-1-1, II/5-1-2 or II/5-2 and the requirement of the use of the English language to personnel serving on board a fishing vessel of less than 45 metres in length operating exclusively from its ports and fishing within its limited waters, may determine which of these regulations should not apply, wholly or in part, to such personnel, without derogation from the principles of safety in the Convention. In such a case, the Administration concerned shall report to the Secretary-General on the details of the measures it has taken with respect to the training and certification of such personnel.
+2. For the purpose of this Convention, the Administration may decide to use the following gross tonnage in place of length (L) as the basis for measurement for all chapters:
+.1 a gross tonnage of 300 shall be considered equivalent to a length (L) of 24 metres; and
+.2 a gross tonnage of 950 shall be considered equivalent to a length (L) of 45 metres.

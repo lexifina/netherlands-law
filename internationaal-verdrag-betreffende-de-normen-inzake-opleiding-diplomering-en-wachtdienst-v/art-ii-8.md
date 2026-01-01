@@ -1,0 +1,7 @@
+# Regulation II/8. Revalidation of certificates for GMDSS radio operators
+1. Every GMDSS radio operator holding a certificate issued or recognized under this chapter of the Convention who is serving at sea or intends to return to sea after a period ashore shall, in order to continue to qualify for seagoing service, be required, at intervals not exceeding five years, to:
+.1 meet the standards of medical fitness prescribed in regulation I/12; and
+.2 establish continued professional competence in accordance with section A-II/8 of the STCW-F Code.
+2. Each Party shall compare the standards of competence which it required of candidates for certificates issued before 1 January 2031 with those specified for the appropriate certificate in part A of the STCW-F Code, and shall determine the need for requiring the holders of such certificates to undergo appropriate refresher and updating training or assessment.
+3. The Party shall, in consultation with those concerned, formulate or promote the formulation of a structure of refresher and updating courses as provided for in section A-II/8 of the STCW-F Code.
+4. For the purpose of updating the knowledge of GMDSS radio operators, each Administration shall ensure that the texts of recent changes in national and international regulations concerning radiocommunications and relevant to the safety of life at sea are made available to fishing vessels entitled to fly its flag.

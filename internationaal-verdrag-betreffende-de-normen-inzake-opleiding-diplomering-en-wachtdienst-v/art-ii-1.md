@@ -1,0 +1,6 @@
+# Regulation II/1. Mandatory minimum requirements for certification of skippers on fishing vessels of 24 metres in length and over operating in unlimited waters
+1. Every skipper on a fishing vessel of 24 metres in length and over operating in unlimited waters shall hold a certificate of competency.
+2. Every candidate for certification shall:
+.1 meet the requirements for certification as an officer in charge of a navigational watch on fishing vessels of 24 metres in length and over operating in unlimited waters, and have approved seagoing service of not less than 12 months as an officer in charge of a navigational watch or skipper on fishing vessels of not less than 12 metres in length. However, the Party may allow the substitution of a period not exceeding six months of approved seagoing service as an officer in charge of a navigational watch on seagoing ships covered by the 1978 STCW Convention; and
+.2 meet the standard of competence specified in section A-II/1 of the STCW-F Code.
+3. A candidate who holds a valid certificate of competency issued in accordance with the provisions of the 1978 STCW Convention need not be reassessed in those standards of competence listed in section A-II/1 of the STCW-F Code that were required at a higher or equivalent level for the issuance of the corresponding 1978 STCW Convention certificate.

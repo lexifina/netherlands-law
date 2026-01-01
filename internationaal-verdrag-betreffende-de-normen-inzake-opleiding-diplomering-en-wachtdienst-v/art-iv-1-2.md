@@ -1,0 +1,2 @@
+# Voorschrift IV/1. Geschiktheid voor dienst
+De wachtindeling moet zodanig zijn dat de doelmatigheid van degenen die wachtdienst hebben, niet door vermoeidheid wordt verminderd. De diensten moeten zo worden georganiseerd dat degene die aan het begin van een reis belast is met de eerste wacht, en degenen die vervolgens de wacht aflossen, voldoende zijn uitgerust en ook in andere opzichten berekend zijn op hun taak.

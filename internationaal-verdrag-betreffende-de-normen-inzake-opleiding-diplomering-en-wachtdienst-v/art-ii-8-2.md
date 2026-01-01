@@ -1,0 +1,7 @@
+# Voorschrift II/8. Verlenging van de geldigheid van bewijzen voor GMDSS-radio-operators
+1. Elke GMDSS-radio-operator die beschikt over een bewijs afgegeven of erkend krachtens dit hoofdstuk van het Verdrag die buitengaats dienst doet of na een periode aan de wal voornemens is terug te keren naar zee, moet teneinde zijn bevoegdheid om dienst buitengaats te doen te behouden met tussenpozen van ten hoogste vijf jaar:
+.1 voldoen aan de normen van medische geschiktheid voorgeschreven door voorschrift I/12; en
+.2 aantonen bij voortduring vakbekwaam te zijn in overeenstemming met sectie A-II/8 van de STCW-F-code.
+2. Elke partij vergelijkt de normen van bekwaamheid die zij hanteerde voor kandidaten voor bewijzen afgegeven vóór 1 januari 2031 met de normen voorgeschreven voor het desbetreffende bewijs in deel A van de STCW-F-code en onderzoekt of het noodzakelijk is van de houders van die bewijzen te verlangen dat zij relevante herhalings- en bijscholingscursussen volgen of zich opnieuw laten beoordelen.
+3. In overleg met de betrokkenen stelt de partij een systeem van herhalings- en bijscholingscursussen op of bevordert de opstelling ervan, zoals voorzien in sectie A II/8 van de STCW-F-code.
+4. Ten behoeve van de bijscholing GMDSS-radio-operators zorgt elke administratie ervoor dat de teksten van recente wijzigingen van nationale en internationale voorschriften inzake radiocommunicatie en relevant voor de veiligheid van mensenlevens op zee, ter beschikking worden gesteld van vissersvaartuigen die gerechtigd zijn haar vlag te voeren.

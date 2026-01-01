@@ -1,0 +1,8 @@
+# Voorschrift II/5-1-2. Verplichte minimumeisen inzake diplomering van hoofdwerktuigkundigen en tweede scheepswerktuigkundigen op vissersvaartuigen met een hoofdvoortstuwingsinstallatie met een vermogen tussen 750 kW en 3000 kW
+1. Iedere hoofdwerktuigkundige en tweede scheepswerktuigkundige van een zeevissersvaartuig met een hoofdvoortstuwingsinstallatie met een vermogen tussen 750 kW en 3000 kW moet in het bezit zijn van een vaarbevoegdheidsbewijs.
+2. Iedere kandidaat die in aanmerking wil komen voor een bewijs moet:
+.1 voldoen aan de vereisten voor diplomering als scheepswerktuigkundige belast met de wacht in de machinekamer op een zeevissersvaartuig met een hoofdvoortstuwingsinstallatie met een vermogen van 750 kW of meer en:
+.1 voor diplomering als tweede scheepswerktuigkundige ten minste 12 maanden goedgekeurde diensttijd buitengaats hebben vervuld als leerlingscheepswerktuigkundige of scheepswerktuigkundige, en
+.2 voor diplomering als hoofdwerktuigkundige ten minste 24 maanden goedgekeurde diensttijd buitengaats hebben vervuld waarvan ten minste 12 maanden dienst is gedaan als bevoegd tweede scheepswerktuigkundige; en
+.2 een goedgekeurde opleiding en training hebben voltooid en voldoen aan de eisen van bekwaamheid omschreven in sectie A-II/5-1-2 van de STCW-F-code.
+3. Iedere scheepswerktuigkundige die bevoegd is dienst te doen als tweede scheepswerktuigkundige op vissersvaartuigen met een hoofdvoortstuwingsinstallatie met een vermogen van 3000 kW of meer kan dienst doen als hoofdwerktuigkundige op vissersvaartuigen met een hoofdvoortstuwingsinstallatie met een vermogen van minder dan 3000 kW, mits dit officieel is aangetekend op het vaarbevoegdheidsbewijs.

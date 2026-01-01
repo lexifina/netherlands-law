@@ -1,0 +1,10 @@
+# Voorschrift II/2. Verplichte minimumeisen voor de diplomering van officieren die belast zijn met de brugwacht op vissersvaartuigen met een lengte van 24 meter of meer die in onbegrensde wateren varen
+1. Elke officier die belast is met de brugwacht op een vissersvaartuig met een lengte van 24 meter of meer dat vaart in onbegrensde wateren moet over een vaarbevoegdheidsbewijs beschikken.
+2. Iedere kandidaat die in aanmerking wil komen voor een bewijs moet:
+.1 niet jonger zijn dan 18 jaar;
+.2 een goedgekeurde diensttijd buitengaats hebben vervuld van ten minste:
+.1 12 maanden op vissersvaartuigen of visserij-opleidingsvaartuigen met een lengte van ten minste 12 meter als onderdeel van een goedgekeurd opleidingsprogramma dat een training aan boord omvat die voldoet aan de vereisten van sectie A-II/2 van de STCW-F-code en is vastgelegd in een goedgekeurd stageboek; of
+.2 twee jaar dekdienst op vissersvaartuigen met een lengte van ten minste 12 meter. De administratie kan evenwel toestaan dat van deze diensttijd buitengaats een periode van ten hoogste een jaar wordt vervangen door een periode waarin een bijzondere opleiding wordt genoten, mits deze periode van bijzondere opleiding wat kwaliteit betreft ten minste gelijkwaardig is aan de vereiste diensttijd buitengaats waarvoor zij in de plaats komt, of door een periode van goedgekeurde diensttijd buitengaats die gestaafd wordt door een goedgekeurd stageboek dat valt onder het STCW-verdrag van 1978;
+.3 voldoen aan de normen voor vaarbevoegdheid omschreven in sectie A-II/2 van de STCW-F-code; en
+.4 voldoen aan de geldende eisen van voorschrift II/6 om in voorkomende gevallen radiowerkzaamheden te verrichten in overeenstemming met het Radioreglement.
+3. Kandidaten die reeds in het bezit zijn van een geldig vaarbevoegdheidsbewijs afgegeven in overeenstemming met de bepalingen van het STCW-verdrag van 1978, hoeven niet opnieuw beoordeeld te worden volgens de in sectie A-II/2 van de STCW-F-code vermelde normen van bekwaamheid die vereist waren op een hoger of gelijkwaardig niveau voor de afgifte van het dienovereenkomstige bewijs op grond van het STCW-verdrag van 1978.

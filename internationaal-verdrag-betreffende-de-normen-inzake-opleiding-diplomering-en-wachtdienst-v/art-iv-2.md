@@ -1,0 +1,8 @@
+# Regulation IV/2. Basic watchkeeping principles to be observed on board fishing vessels
+1. Administrations shall direct the attention of owners and operators of fishing vessels, skippers, chief engineer officers and all watchkeeping personnel to the requirements, principles and guidance set out in the STCW-F Code which shall be observed to ensure that a safe watch is maintained at all times.
+2. The skipper of every fishing vessel shall ensure that watchkeeping arrangements are adequate for maintaining a safe watch or watches, taking into account the prevailing circumstances and conditions and that, under the skipper's general direction:
+.1 officers in charge of the navigational watch are responsible for navigating the fishing vessel safely during their periods of duty, when they shall be physically present on the navigating bridge or in a directly associated location such as the chartroom or bridge control room at all times;
+.2 radio operators are responsible for maintaining a continuous radio watch on appropriate frequencies during their periods of duty;
+.3 officers in charge of an engineering watch, as defined in the STCW-F Code, under the direction of the chief engineer officer, shall be immediately available and on call to attend the machinery spaces and, when required, shall be physically present in the machinery space during their periods of responsibility; and
+.4 an appropriate and effective watch or watches are maintained for the purpose of safety at all times.
+3. The basic watchkeeping principles, including but not limited to those set out in the STCW-F Code, shall be taken into account on all fishing vessels. However, a Party may exclude very small fishing vessels operating in limited waters from fully observing the basic principles.
