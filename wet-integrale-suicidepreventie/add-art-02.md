@@ -1,0 +1,3 @@
+# Artikel II
+1. De eerste vaststelling van het integraal beleid, bedoeld in artikel 12l, eerste lid, van de Wet publieke gezondheid, vindt zo spoedig mogelijk plaats na inwerkingtreding van deze wet.
+2. Indien de eerste vaststelling van het integraal beleid, bedoeld in artikel 12l, eerste lid, van de Wet publieke gezondheid, plaatsvindt meer dan een jaar voor de vaststelling van de eerstvolgende nota gemeentelijk gezondheidsbeleid, bedoeld in artikel 13, tweede lid, van die wet, geeft de gemeenteraad binnen een jaar aan wat ten aanzien van het integraal beleid de gemeentelijke doelstellingen, de te ondernemen acties en de gewenste resultaten zijn als bedoeld in artikel 13, tweede lid, van die wet.
