@@ -1,0 +1,5 @@
+# Artikel 9d. Uitzonderingen
+1. Een legitimatiebewijs als bedoeld in onderdeel a van de artikelen 9 a en 9 c hoeft niet te worden overgelegd bij de verkrijging van kentekenplaten volgens de modellen 27.15A tot en met 27.29 en 30.7 tot en met 30.16 van de bijlage bij de Regeling kentekens en kentekenplaten.
+2. Een kentekenbewijs als bedoeld in onderdeel b van de artikelen 9 a en 9 c hoeft niet te worden overgelegd bij vervanging van beschadigde kentekenplaten
+3. Bij de verkrijging van kentekenplaten volgens de modellen 27.15A tot 27.17E, 30.7 en 30.8 van de bijlage bij de Regeling kentekens en kentekenplaten kan in plaats van het kentekenbewijs een proces-verbaal van aangifte van vermissing of diefstal van het kentekenbewijs en de desbetreffende kentekenplaten worden overgelegd.
+4. Bij de verkrijging van kentekenplaten volgens de modellen 27.24A tot en met 27.26E van de bijlage bij de Regeling kentekens en kentekenplaten kan in plaats van de kentekencard, het deel IA of het deel I van het kentekenbewijs, het kentekenbewijs deel II als bedoeld in artikel 17, tweede lid van het Kentekenreglement worden overgelegd.

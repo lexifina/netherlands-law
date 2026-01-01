@@ -1,0 +1,12 @@
+# Artikel 9e. Verkrijging van een taxikentekenplaat
+1. In afwijking in zoverre van de artikelen 9a en 9c, worden bij de verkrijging van kentekenplaten volgens de modellen 18.2A tot en met 18.2E met lichtblauwe kleur, en 27.30A tot en met 27.31E door een natuurlijke persoon, respectievelijk een rechtspersoon, overgelegd:
+a. de in de artikelen 9a, bedoelde documenten, en
+b. voor elk voertuig waarvoor kentekenplaten als bedoeld in het eerste lid, worden verkregen, een verklaring van de Dienst Wegverkeer, inhoudende dat aan de vereisten in het tweede lid is voldaan.
+2. Ter verkrijging van de verklaring, bedoeld in het eerste lid, onderdeel b, worden bij de Dienst Wegverkeer overgelegd:
+a. een geldige vergunning voor het verrichten van taxivervoer als bedoeld in artikel 5 van de Wet personenvervoer;
+b. een actueel uittreksel uit het handelsregister als bedoeld in artikel 22 van de Handelsregisterwet 2007, of een kopie daarvan, dat niet ouder is dan een jaar en waaruit blijkt dat een onderneming wordt gedreven waarin taxivervoer plaatsvindt;
+c. voor wat betreft:
+1°. na 30 mei 2004 afgegeven kentekenbewijzen, een afschrift van een te naam gesteld kentekenbewijs, niet zijnde een kentekenbewijs dat is afgegeven voor een voertuig in bedrijfsvoorraad, delen I A en I B, afgegeven voor het betrokken voertuig, waarbij op het deel I A of deel I een aantekening moet zijn geplaatst waaruit blijkt dat het voertuig als taxi is goedgekeurd dan wel een aanvraag voor een zodanig kentekenbewijs dan wel
+2°. voor 31 mei 2004 afgegeven kentekenbewijzen, een afschrift van een te naam gesteld kentekenbewijs, niet zijnde een kentekenbewijs dat is afgegeven voor een voertuig in bedrijfsvoorraad, delen I en II, afgegeven voor het betrokken voertuig, waarbij op het deel I een aantekening moet zijn geplaatst waaruit blijkt dat het voertuig als taxi is goedgekeurd dan wel een aanvraag voor een zodanig kentekenbewijs, en
+d. ingeval de tenaamstelling op het kentekenbewijs en die op de in onderdeel a bedoelde vergunning niet overeenkomen, een gezamenlijke verklaring van de vergunninghouder en de tenaamgestelde op het kentekenbewijs, inhoudende dat het voertuig waarvoor de kentekenplaten worden verkregen, voor taxivervoer wordt gebruikt in het kader van de onderneming van de vergunninghouder.
+3. Bij vervanging van de in het eerste lid bedoelde kentekenplaten na beëindiging van het gebruik van het voertuig als taxi, door andere kentekenplaten dient een legitimatiebewijs als bedoeld van artikel 9a, onderdeel a overgelegd te worden.
