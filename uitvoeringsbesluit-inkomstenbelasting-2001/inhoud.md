@@ -1,0 +1,10 @@
+# Inhoud
+## Hoofdstuk 1. Algemene bepalingen (Hoofdstuk 1 van de wet)
+## Hoofdstuk 2. Raamwerk (Hoofdstuk 2 van de wet)
+## Hoofdstuk 3. Heffingsgrondslag bij werk en woning (Hoofdstuk 3 van de wet)
+## Hoofdstuk 4. Heffingsgrondslag bij aanmerkelijk belang (Hoofdstuk 4 van de wet)
+## Hoofdstuk 5. Heffingsgrondslag bij sparen en beleggen (Hoofdstuk 5 van de wet)
+## Hoofdstuk 6. Persoonsgebonden aftrek (Hoofdstuk 6 van de wet)
+## Hoofdstuk 7. Belastingheffing van buitenlandse belastingplichtigen (Hoofdstuk 7 van de wet)
+## Hoofdstuk 8. Aanvullende regelingen (Hoofdstuk 10 van de wet)
+## Hoofdstuk 9. Overgangs- en slotbepalingen (Hoofdstuk 11 van de wet)

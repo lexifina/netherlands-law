@@ -1,0 +1,3 @@
+# Artikel 11f. Laatstgenoten pensioengevend loon
+1. Voor de toepassing van artikel 3.18 van de wet wordt met laatstgenoten pensioengevend loon als bedoeld in de artikelen 18b en 18c van de Wet op de loonbelasting 1964 gelijkgesteld: laatstgenoten pensioengevend inkomen.
+2. Onder laatstgenoten pensioengevend inkomen als bedoeld in het eerste lid wordt verstaan: het gemiddelde van het pensioengevend inkomen, bedoeld in artikel 3.18, vierde lid, onderdeel d, van de wet, van de deelnemer of gewezen deelnemer in de ten hoogste vijf kalenderjaren voorafgaande aan het kalenderjaar van zijn overlijden, voor zover de deelnemer of gewezen deelnemer in die jaren heeft deelgenomen aan een pensioenregeling als bedoeld in artikel 1.7, tweede lid, onderdeel b, van de wet.
