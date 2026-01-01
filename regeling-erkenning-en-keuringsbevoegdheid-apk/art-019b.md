@@ -1,4 +1,0 @@
-# Artikel 19b
-De exameninstantie voldoet aan de volgende eisen:
-a. de exameninstantie is onafhankelijk en onpartijdig en neemt bij de uitvoering van de werkzaamheden het examenreglement in acht;
-b. de exameninstantie neemt afdoende maatregelen om fraude, voor, tijdens en na het examen te voorkomen.

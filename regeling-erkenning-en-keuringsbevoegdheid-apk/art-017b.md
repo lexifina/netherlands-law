@@ -1,5 +1,0 @@
-# Artikel 17b
-1. Het voertuigidentificatienummer en de werkelijke gegevens van voor de verbruiksmonitoring uit te lezen personenauto's en lichte bedrijfsvoertuigen worden uitgelezen en verstrekt aan de Dienst Wegverkeer, tenzij:
-1°. de eigenaar of houder van het voertuig uitdrukkelijk heeft geweigerd deze gegevens beschikbaar te stellen; of
-2°. het beschikbaar stellen van deze gegevens niet mogelijk is vanwege een technische reden.
-2. Het uitlezen en verstrekken van het voertuigidentificatienummer en de werkelijke gegevens vindt plaats gedurende een periode van maximaal 15 jaar en vangt aan vanaf de datum waarop de werkelijke gegevens voor het eerst aan het Europees Milieuagentschap worden gerapporteerd.
