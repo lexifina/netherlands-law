@@ -1,0 +1,2 @@
+# Artikel XV. Inwerkingtreding
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, waarbij artikel II, onderdelen E en I, kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip en met dien verstande dat artikel I, onderdelen Ca, H, eerste en derde onderdeel en UUU, voor zover het betreft artikel 220ca en artikel VII, onderdeel Fa en onderdeel QQQ, voor zover het betreft artikel 214ca, in werking treden met ingang van 1 januari 2024.
