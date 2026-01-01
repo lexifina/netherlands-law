@@ -1,0 +1,5 @@
+# Artikel 24b
+1. Bij ministeriële regeling wordt, na overleg met Onze Minister van Financiën, per innovatiekavel een subsidieplafond vastgesteld voor het verlenen van subsidie als bedoeld in artikel 2, eerste lid, onderdeel a, en artikel 24a, eerste lid.
+2. Bij ministeriële regeling kan een periode worden vastgesteld waarbinnen de aanvragen om subsidie voor een innovatiekavel ontvangen moeten zijn.
+3. Bij ministeriële regeling kunnen nadere regels worden gesteld over de verstrekking van subsidie als bedoeld in het eerste lid, die kunnen afwijken van de artikelen, bedoeld in artikel 24a, tweede lid en van de artikelen 6, derde lid, 23, 24 en 70, eerste lid. In ieder geval kunnen regels worden gesteld over de productie-installaties waarvoor deze subsidie wordt verstrekt, de vorm van de subsidie, de aanvraag van een subsidie en de besluitvorming daarover en het bedrag van de subsidie dan wel de wijze waarop dit bedrag wordt bepaald.
+4. Een ministeriële regeling die op grond van het derde lid afwijkt van dit besluit, wordt vastgesteld voor een periode van ten hoogste 5 jaar.

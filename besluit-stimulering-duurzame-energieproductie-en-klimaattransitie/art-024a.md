@@ -1,0 +1,3 @@
+# Artikel 24a
+1. Onze Minister kan op aanvraag aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee op een innovatiekavel subsidie verstrekken voor de kosten van de bijzondere en risicovolle inzet van een innovatieve productie-installatie. Dit laat de mogelijkheid om subsidie te verstrekken als bedoeld in artikel 2, eerste lid, onderdeel a, onverlet.
+2. Op subsidie als bedoeld in het eerste lid, eerste volzin, zijn paragraaf 1, 6, 7, en 9 en artikel 69 van toepassing en is artikel 4 van overeenkomstige toepassing. De overige bepalingen van dit besluit zijn niet van toepassing.

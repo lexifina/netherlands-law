@@ -1,0 +1,4 @@
+# Artikel 43a
+1. Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, kan per fase een fasebedrag per kWh worden vastgesteld voor de subsidie voor de productie van hernieuwbare warmte, of hernieuwbare warmte en hernieuwbare elektriciteit.
+2. Voor de subsidie voor de productie van hernieuwbare warmte of hernieuwbare warmte en hernieuwbare elektriciteit geldt het fasebedrag per kWh dat is vastgesteld voor de fase waarin de subsidie-aanvrager zijn al dan niet volledige aanvraag indient, tenzij dat fasebedrag hoger is dan het basisbedrag vastgesteld voor de betreffende categorie productie-installaties, bedoeld in artikel 44, in welk geval dit basisbedrag geldt.
+3. Bij regeling van Onze Minister kan voor een categorie productie-installaties een fasebedrag worden vastgesteld dat afwijkt van het fasebedrag vastgesteld op grond van het eerste lid.

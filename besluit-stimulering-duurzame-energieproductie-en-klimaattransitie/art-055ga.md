@@ -1,0 +1,3 @@
+# Artikel 55ga
+1. Bij regeling van Onze Minister kan voor een categorie productie-installaties waarvoor een gerede kans bestaat dat de gemiddelde kostprijs van de vermindering van broeikasgas op enig moment gedurende de periode waarover subsidie wordt verstrekt lager zal zijn dan de som van de gemiddelde kostprijs van de uitstoot van broeikasgas en de gemiddelde marktprijs van het primaire product, een opbrengstgrensbedrag per 1.000 kg broeikasgas voor het bepalen van de subsidie worden vastgesteld, dat kan verschillen per categorie productie-installaties.
+2. Het opbrengstgrensbedrag is hoger dan het basisbedrag dat is vastgesteld voor de betreffende categorie productie-installaties.

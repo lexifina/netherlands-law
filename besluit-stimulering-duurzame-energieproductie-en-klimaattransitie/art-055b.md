@@ -1,0 +1,8 @@
+# Artikel 55b
+1. Aan de producent van hernieuwbare elektriciteit, hernieuwbaar gas, hernieuwbare warmte of hernieuwbare elektriciteit en hernieuwbare warmte, geproduceerd door een bij regeling van Onze Minister aan te wijzen categorie productie-installaties die zich bevinden in een lidstaat waarmee een samenwerking is overeengekomen als bedoeld in artikel 9 van de richtlijn (EU) 2018/2001, kan subsidie worden verleend.
+2. Het bepaalde bij of krachtens de paragrafen 1 tot en met 5 van dit besluit zijn van overeenkomstige toepassing op de subsidieverlening, bedoeld in het eerste lid, met dien verstande dat:
+a. het elektriciteits-, gas- of warmtenet waarop wordt ingevoed niet in Nederland, maar in de betreffende lidstaat ligt;
+b. met de elektriciteit-, gas-, of energieprijs, de prijs wordt bedoeld in de betreffende lidstaat of in het relevante gebied;
+c. met «garanties van oorsprong» wordt bedoeld: de garanties van oorsprong afgegeven in de betreffende lidstaat overeenkomstig het bepaalde in artikel 19 van de richtlijn (EU) 2018/2001;
+d. met «productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee» wordt bedoeld: een productie-installatie die is opgericht op zee, waarmee hernieuwbare elektriciteit wordt geproduceerd met behulp van windenergie.
+3. Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van dit artikel, waarbij in ieder geval regels kunnen worden gesteld over de aanvraag van een subsidie en de besluitvorming daarover, de verplichtingen van de subsidie-ontvanger, de vaststelling van de subsidie en het verlenen van voorschotten.
