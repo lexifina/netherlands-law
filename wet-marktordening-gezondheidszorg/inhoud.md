@@ -17,6 +17,8 @@
 ### Paragraaf 4.5. Vaststelling van bijdragen en vereffeningen
 ### Paragraaf 4.6. Beleidsregels
 ## Hoofdstuk 5. Informatie
+### Paragraaf 5.1. Informatie zorg
+### Paragraaf 5.2. Informatie jeugdhulp, kinderbeschermingsmaatregelen en jeugdreclassering
 ## Hoofdstuk 6. Handhaving
 ### Paragraaf 6.1. Algemeen
 ### Paragraaf 6.2. Aanwijzingen
