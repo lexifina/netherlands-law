@@ -1,6 +1,7 @@
 # Inhoud
 ## Hoofdstuk 1. Inleidende bepalingen
 ### § 1.1. Begrips- en reikwijdtebepalingen
+### § 1.1a. Verbod op contante betalingen voor beroeps- of bedrijfsmatige handelaren
 ### § 1.2. Risicomanagement
 ### § 1.3. Groepen
 ## Hoofdstuk 2. Bepalingen betreffende cliëntenonderzoek

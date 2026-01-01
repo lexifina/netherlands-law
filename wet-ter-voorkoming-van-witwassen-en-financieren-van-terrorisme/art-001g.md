@@ -1,0 +1,3 @@
+# Artikel 1g
+1. Onze Minister van Financiën en Onze Minister van Justitie en Veiligheid gezamenlijk publiceren een verslag van de geïdentificeerde, geanalyseerde en beoordeelde nationale risico's op witwassen en het financieren van terrorisme, bedoeld in artikel 7 van de vierde anti-witwasrichtlijn. Dit verslag wordt elke twee jaar geactualiseerd.
+2. Ter voorbereiding van dit verslag publiceren Onze Minister van Financiën en Onze Minister van Justitie en Veiligheid gezamenlijk de statistieken, bedoeld in artikel 44 van de vierde anti-witwasrichtlijn. Deze statistieken worden jaarlijks geactualiseerd.
