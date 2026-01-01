@@ -1,0 +1,2 @@
+# Artikel 9b
+Het bepaalde in artikel 9, vijfde lid, artikel 9A, eerste lid en artikel 10 vierde lid vindt slechts toepassing, indien door de belastingplichtige een regelmatige boekhouding wordt gevoerd, met geregelde jaarlijkse afsluitingen. Houdt de belastingplichtige op aldus boek te houden dan wordt de reserve volgens artikel 10 lid 4 opgenomen in de winst van het laatste kalenderjaar met regelmatige boekhouding.
