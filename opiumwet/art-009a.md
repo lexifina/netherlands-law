@@ -1,2 +1,3 @@
 # Artikel 9a
-Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 33 500,– op te leggen ter zake van een gedraging die in strijd is met het bepaalde bij of krachtens artikel 3c, 4, eerste of tweede lid, of 5, eerste lid.
+1. In geval van verdenking van een misdrijf waarvoor een geldboete van de vierde categorie kan worden opgelegd, kunnen voorwerpen inbeslaggenomen worden die kunnen dienen tot bewaring van het recht tot verhaal voor een ter zake van dat misdrijf op te leggen maatregel als bedoeld in artikel 13d.
+2. Op inbeslagneming op grond van het eerste lid zijn de bepalingen uit het Wetboek van Strafvordering die betrekking hebben op inbeslagneming op grond van artikel 94a van dat wetboek, van overeenkomstige toepassing.

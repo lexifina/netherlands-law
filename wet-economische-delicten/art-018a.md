@@ -1,0 +1,3 @@
+# Artikel 18a
+1. Ingeval van verdenking van een misdrijf waarvoor een geldboete van de vierde categorie kan worden opgelegd kunnen voorwerpen inbeslaggenomen worden tot bewaring van het recht tot verhaal voor een ter zake van dat misdrijf op te leggen maatregel als bedoeld in artikel 8, onderdeel d.
+2. Op inbeslagneming op grond van het eerste lid zijn de bepalingen uit het Wetboek van Strafvordering die betrekking hebben op inbeslagneming op grond van artikel 94a van dat wetboek, van overeenkomstige toepassing.

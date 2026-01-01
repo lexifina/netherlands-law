@@ -7,3 +7,4 @@
 6. Indien een van de feiten, omschreven in het eerste en tweede lid, de dood ten gevolge heeft, wordt een gevangenisstraf van ten hoogste achttien jaren of geldboete van de vijfde categorie opgelegd.
 7. Indien een van de feiten, omschreven in het eerste en tweede lid, wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
 8. Voor de toepassing van dit artikel wordt onder Nederland mede verstaan de openbare lichamen Bonaire, Sint Eustatius en Saba.
+9. Bij veroordeling wegens een van de feiten, omschreven in het eerste en tweede lid, kan ontzetting van de in artikel 28, eerste lid, onder 1°, 2° en 4°, vermelde rechten worden uitgesproken.
