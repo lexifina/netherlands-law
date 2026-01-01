@@ -7,6 +7,7 @@
 ### § 4. Infectieziektebestrijding
 ### § 5. Bevolkingsonderzoek
 ### § 6. Vergunning- en meldplicht ten aanzien van poliovirus
+### § 7. Integrale suïcidepreventie
 ## Hoofdstuk III. Landelijke en gemeentelijke nota gezondheidsbeleid
 ## Hoofdstuk IV. Gemeentelijke gezondheidsdiensten
 ## Hoofdstuk V. Bijzondere bepalingen infectieziektebestrijding
