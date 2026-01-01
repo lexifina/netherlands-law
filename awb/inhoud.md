@@ -6,6 +6,14 @@
 ### Afdeling 2.1. Algemene bepalingen
 ### Afdeling 2.2. Gebruik van de taal in het bestuurlijk verkeer
 ### Afdeling 2.3. Verkeer langs elektronische weg
+#### Paragraaf 2.3.1. Algemeen
+#### Paragraaf 2.3.2. Verzending door een bestuursorgaan
+#### Paragraaf 2.3.3. Verzending aan een bestuursorgaan
+#### Paragraaf 2.3.4. Tijdstip van verzending en ontvangst
+#### Paragraaf 2.3.5. Wettelijke termijnen
+#### Paragraaf 2.3.6. Bewijslast
+#### Paragraaf 2.3.7. Tijdelijke afwijking van deze afdeling
+#### Paragraaf 2.3.8. Regels over bewaren en vernietigen
 ## Hoofdstuk 3. Algemene bepalingen over besluiten
 ### Afdeling 3.1. Inleidende bepalingen
 ### Afdeling 3.2. Zorgvuldigheid en belangenafweging
