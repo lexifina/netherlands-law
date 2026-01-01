@@ -1,0 +1,3 @@
+# Artikel 7a
+1. In afwijking van de artikelen 5 en 7 is het hoofd van de afdeling Serviceverlening & Organisatie van de Dienst Nederlandse Emissieautoriteit directeur, inspecteur en ontvanger als bedoeld in artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen en artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990 voor de toepassing van de CO2-heffing industrie en de minimum CO2-prijs elektriciteitsopwekking.
+2. Voor de toepassing van de minimum CO2-prijs elektriciteitsopwekking en de CO2-heffing industrie is het hoofd van de afdeling Serviceverlening & Organisatie van de Dienst Nederlandse Emissieautoriteit belastingdeurwaarder als bedoeld in artikel 2, eerste lid, onderdeel j, van de Invorderingswet 1990.
