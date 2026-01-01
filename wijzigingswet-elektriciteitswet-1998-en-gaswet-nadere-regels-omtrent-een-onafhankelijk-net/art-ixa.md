@@ -1,0 +1,6 @@
+# Artikel IXa
+1. Kosten, veroorzaakt door handelingen die na 20 maart 2006 zijn verricht, en die voortvloeien uit de gevolgen van een overeenkomst als bedoeld in artikel V, eerste lid, met betrekking tot een net als bedoeld in het derde lid van dat artikel of een ander bedrijfsmiddel, worden niet doorberekend in de tarieven die netbeheerders, producenten, handelaren en leveranciers van elektriciteit, gas of warmte hun afnemers in rekening brengen.
+2. [Vervallen.]
+3. De toebedeling van vermogensbestanddelen, anders dan als gevolg van toepassing van het eerste en tweede lid, in een splitsingsplan als bedoeld in artikel IXb, tweede lid, vindt zodanig plaats dat deze zoveel mogelijk bijdraagt aan een beheerste ontwikkeling van de tarieven die afnemers zijn verschuldigd voor het transport en de levering van elektriciteit, gas of warmte.
+4. Het tweede lid vervalt na vijf jaar na het tijdstip van inwerkingtreding van dit artikel.
+5. Bij de toepassing van de artikelen 27, eerste lid, van de Elektriciteitswet 1998 en 12a van de Gaswet, en van de artikelen 36, eerste, derde en vierde lid, 37 en 41 tot en met 41c van de Elektriciteitwet 1998 en 12f, eerste, derde en vierde lid, 12g en 81 tot en met 81c van de Gaswet nemen de gezamenlijke netbeheerders onderscheidenlijk de Autoriteit Consument en Markt het eerst en tweede lid in acht.

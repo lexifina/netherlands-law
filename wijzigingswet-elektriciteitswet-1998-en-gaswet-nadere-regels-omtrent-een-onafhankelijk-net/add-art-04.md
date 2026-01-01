@@ -1,0 +1,4 @@
+# Artikel IV
+1. De rechtspersoon die de vennootschap heeft aangewezen die op het tijdstip van inwerkingtreding van de in artikel I, onderdeel A, voorgestelde wijziging van artikel 10 van de Elektriciteitswet 1998 de netbeheerder van het landelijk hoogspanningsnet is, draagt ervoor zorg dat op het tijdstip van inwerkingtreding van de hiervoor bedoelde wijziging de aanwijzing van de netbeheerder van het landelijk hoogspanningsnet mede betrekking heeft op de netten met een spanningsniveau van 110 kV en van 150 kV.
+2. De in het eerste lid bedoelde wijziging van de aanwijzing als beheerder van het landelijk hoogspanningsnet behoeft de instemming van Onze Minister. Artikel 12, eerste lid, eerste volzin, van de Elektriciteitswet 1998 is van toepassing.
+3. Onze Minister onthoudt zijn instemming of kan voorschriften verbinden aan de instemming, indien niet is voldaan aan artikel 16 van de Elektriciteitswet 1998.
