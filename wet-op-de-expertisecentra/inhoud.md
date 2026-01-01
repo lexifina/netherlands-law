@@ -25,7 +25,7 @@
 #### § 2. Betaling
 ### Afdeling 7. Aanwijzing en maatregelen
 ### Afdeling 8. Verslaglegging en informatieverstrekking
-### Afdeling 9. Bestrijden voortijdig schoolverlaten en volgen van jongeren in een kwetsbare positie
+### Afdeling 9. Begeleiding van jongeren zonder startkwalificatie
 ### Afdeling 10. Zij-instroom in het beroep
 ### Afdeling 11. Overige bepalingen
 ## Titel V. Experimenten

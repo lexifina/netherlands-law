@@ -8,7 +8,6 @@
 7. Voor zover ten aanzien van een instelling die een opleiding educatie verzorgt, toepassing is gegeven aan het eerste lid, wordt die instelling voor de toepassing van deze wet wat deze opleiding betreft, aangemerkt als een andere instelling dan bedoeld in artikel 1.1.1.
 8. Voor een andere dan een in artikel 1.1.1 bedoelde instelling of een instelling zijn voor zover het betreft een opleiding voortgezet algemeen volwassenenonderwijs ten aanzien waarvan toepassing is gegeven aan het eerste lid van overeenkomstige toepassing:
 a. artikel 2.3.6a, eerste, vierde en zevende tot en met negende lid;
-b. artikel 2.3.6d;
-c. de artikelen 8.1.1a, 8.1.8 en 8.1.8a; en
-d. de artikelen 8.3.1 tot en met 8.3.3.
+b. artikel 8.1.1a; en
+c. de artikelen 9.2.2, 9.2.3 en 9.2.6.
 9. Artikel 1.3.9 is van overeenkomstige toepassing op instellingen als bedoeld in het eerste lid.

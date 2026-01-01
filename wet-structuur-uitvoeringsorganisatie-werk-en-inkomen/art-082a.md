@@ -1,7 +1,7 @@
 # Artikel 82a. Innovatie
 1. Bij algemene maatregel van bestuur kan bij wijze van experiment, met het oog op het onderzoeken van mogelijkheden om deze wet, de Participatiewet, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen, de Wet inkomensvoorziening oudere werklozen, de Werkloosheidswet, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, de Ziektewet en de Toeslagenwet doeltreffender uit te voeren, worden afgeweken van het bepaalde bij of krachtens:
 a. de artikelen 9, 10, 30 en 30a van deze wet;
-b. de artikelen 7, 8, 8a, 9, 10, 10b, 10c en 10d, en 55 van de Participatiewet;
+b. de artikelen 7, 7a, 8, 8a, 9, 10, 10b, 10c en 10d, en 55 van de Participatiewet;
 c. de artikelen 34 tot en met 37 van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers;
 d. de artikelen 34 tot en met 37 van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen;
 e. hoofdstuk VI van de Werkloosheidswet;
