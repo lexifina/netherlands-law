@@ -1,0 +1,3 @@
+# Artikel 3b.3. Technische en organisatorische maatregelen ten behoeve van beveiliging
+1. De gegevensuitwisseling, benodigd voor de toepassing van artikel 2.10a van de wet, vindt plaats via een beveiligde verbinding tussen de Minister en de Nederlandse Arbeidsinspectie. Tot deze verbinding hebben uitsluitend die medewerkers van de Dienst Uitvoering Onderwijs toegang die het juiste veiligheidsonderzoek hebben ondergaan.
+2. De functionaris voor de gegevensbescherming, bedoeld in artikel 62 van de Wet bescherming persoonsgegevens, van de Dienst Uitvoering Onderwijs ziet toe op naleving van dit hoofdstuk.
