@@ -1,0 +1,2 @@
+# Artikel 9a. Overgangsrecht
+Artikel 1a is van toepassing indien het verzoek tot vrijstelling, bedoeld in de artikelen 2 tot en met 5 en 6, wordt gedaan na inwerkingtreding van artikel I, onderdeel A, van het Besluit van 29 augustus 2007 tot wijziging van het Vrijstellingsbesluit Wet Bpf 2000 in verband met de invoering van termijnen voor de behandeling van een verzoek tot vrijstelling en enige andere wijzigingen.

@@ -1,0 +1,8 @@
+# Artikel 7b. Fusie werkgevers met en zonder vrijstellingen van zelfde bedrijfstakpensioenfonds
+1. Na een fusie tussen oude werkgevers op wie dezelfde verplichtstelling van toepassing is en waarbij niet aan alle oude werkgevers een verplichte vrijstelling is verleend, vervallen de vrijstellingen.
+2. In afwijking van het eerste lid wordt op verzoek van de nieuwe werkgever van wie ten minste 50% van de werknemers voor de fusie in dienst was bij een of meer oude werkgevers aan wie een verplichte vrijstelling was verleend:
+a. de vrijstelling uitgebreid tot alle huidige en toekomstige werknemers van de nieuwe werkgever, of
+b. de vrijstelling gehandhaafd voor de op het tijdstip van fusie in dienst zijnde werknemers van de oude werkgever of oude werkgevers met een vrijstelling.
+3. Indien de nieuwe werkgever een verzoek doet tot uitbreiding van de vrijstelling, bedoeld in het tweede lid, onderdeel a, kan het bedrijfstakpensioenfonds daaraan de voorwaarde verbinden dat de nieuwe werkgever een financiële bijdrage betaalt ter vergoeding van het verzekeringstechnisch nadeel dat het bedrijfstakpensioenfonds hierdoor lijdt. De hoogte van deze bijdrage wordt berekend volgens de op grond van het vijfde lid gestelde regels, tenzij partijen anders overeenkomen.
+4. In geval van uitbreiding of handhaving van de vrijstelling, bedoeld in het tweede lid, blijven de voorschriften, bedoeld in artikel 7, van toepassing en wordt de vrijstelling vanaf het tijdstip van fusie geacht te zijn verleend aan de nieuwe werkgever.
+5. Bij ministeriële regeling worden regels gesteld voor de berekening van het verzekeringstechnisch nadeel, bedoeld in het derde lid.
