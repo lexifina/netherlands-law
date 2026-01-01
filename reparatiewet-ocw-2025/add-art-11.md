@@ -1,0 +1,2 @@
+# Artikel XI. Wet van 4 juli 1996 tot wijziging van de Wet op het basisonderwijs, de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs en de Tijdelijke wet bekostiging nieuwe basisscholen inzake vereenvoudiging van het bekostigingsstelsel voor het basisonderwijs en het (voortgezet) speciaal onderwijs (vereenvoudiging Londo) (STB. 1996, 403)
+[Wijzigt de Wijzigingswet Wet op het basisonderwijs en ISOVSO inzake vereenvoudiging Londo.]
