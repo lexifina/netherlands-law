@@ -1,0 +1,2 @@
+# Artikel 4c
+Tijdens de coördinatie kan de beheerder ten aanzien van concurrerende capaciteitsaanvragen, met het oog op het doelmatig gebruik van de capaciteit en rekening houdend met het algemene reizigers- en verladersbelang binnen redelijke grenzen capaciteit voorstellen, die afwijkt van de aangevraagde capaciteit. De redelijke grenzen worden bekendgemaakt in de netverklaring en bedragen voor personenvervoer in tijd maximaal 3 minuten.
