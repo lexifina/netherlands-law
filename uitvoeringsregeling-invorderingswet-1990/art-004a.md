@@ -1,0 +1,5 @@
+# Artikel 4a
+1. De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen voor zover daarin is begrepen inkomstenbelasting als bedoeld in artikel 25, veertiende lid, eerste volzin, van de wet, mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden.
+2. Het uitstel eindigt uiterlijk op de dag waarop sedert de vervaldag van de voor de belastingaanslag geldende enige of laatste betalingstermijn tien jaar zijn verstreken.
+3. In geval van een vervreemding waarbij de koper de overdrachtsprijs schuldig is gebleven als bedoeld in artikel 25, veertiende lid, eerste volzin, onderdeel b, van de wet en er een aflossing plaatsvindt, vermindert de ontvanger het bedrag waarvoor uitstel van betaling is verleend met de helft van die aflossing.
+4. Ingeval zich een omstandigheid voordoet als bedoeld in artikel 25, veertiende lid, tweede volzin, van de wet stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.

@@ -1,0 +1,5 @@
+# Artikel 6d
+1. De ontvanger verleent de belastingschuldige die een schriftelijk verzoek doet als bedoeld in artikel 25a, vierde lid, van de wet uitstel van betaling voor belastingaanslagen voor zover daarin is begrepen inkomstenbelasting als bedoeld in artikel 25a, eerste lid, van de wet. Het uitstel wordt verleend onder de voorwaarde dat bij het verzoek om uitstel van betaling aan de hand van schriftelijke bescheiden het bedrag aannemelijk wordt gemaakt van de voordelen, bedoeld in artikel 25a, eerste lid, van de wet.
+2. Gedurende de looptijd van het uitstel dient de belastingschuldige jaarlijks aan de hand van schriftelijke bescheiden aannemelijk te maken dat de voordelen, bedoeld in artikel 25a, eerste lid, van de wet, in dat jaar niet in aanmerking zouden zijn genomen indien hij belastingplichtig in Nederland zou zijn gebleven.
+3. Het tweede lid is niet van toepassing indien de belastingschuldige een verzoek doet als bedoeld in artikel 25a, derde lid, van de wet.
+4. Ingeval zich een omstandigheid voordoet als bedoeld in artikel 25a, tweede lid, van de wet, stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.

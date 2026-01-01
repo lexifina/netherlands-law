@@ -1,0 +1,3 @@
+# Artikel 1cf
+1. De betaaldienstverlener, waar de belastingschuldige een betaalrekening houdt, is bevoegd tot terugboeking van het bedrag van de overheidsvordering of, indien deze is gesplitst, de deelvordering, indien blijkt dat de bestedingsruimte op de betaalrekening van de belastingschuldige op de uitvoeringsdatum ontoereikend is. Deze bevoegdheid vervalt na vijf werkdagen volgend op de uitvoeringsdatum.
+2. Werkdagen, in de zin van het eerste lid, zijn alle kalenderdagen, met uitzondering van de zaterdag en zondag, de Nieuwjaarsdag, de Goede Vrijdag, de tweede Paasdag, 1 mei en de beide Kerstdagen.

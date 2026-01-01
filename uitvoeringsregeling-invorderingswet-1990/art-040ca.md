@@ -1,0 +1,12 @@
+# Artikel 40ca
+1. Als gevallen als bedoeld in artikel 7a, vierde lid, van de wet worden aangewezen uitbetalingen van inkomstenbelasting door de ontvanger op een bankrekening:
+a. van een lid van de Nederlandse Vereniging voor Volkskrediet voor zover de uitbetaling plaatsvindt in het kader van de uitvoering van een schuldregelingsovereenkomst in de zin van de Gedragscode Schuldhulpverlening van die organisatie of een overeenkomst tot budgetbeheer in de zin van die gedragscode;
+b. van een gemeente op grond van een schuldregelingsovereenkomst als bedoeld in onderdeel a, een overeenkomst tot budgetbeheer als bedoeld in onderdeel a of een overeenkomst met dezelfde strekking;
+c. van een derde die:
+1°. een subsidiebeschikking heeft ontvangen van een gemeente dan wel een overeenkomst heeft met een Wlz-uitvoerder voor het leveren van zorg in natura ingevolge de Wet langdurige zorg; en
+2°. voldoet aan de norm NEN-ISO 9001;
+voor zover de uitbetaling plaatsvindt in het kader van de uitvoering van een schuldregelingsovereenkomst als bedoeld in onderdeel a, een overeenkomst tot budgetbeheer als bedoeld in onderdeel a of een overeenkomst met dezelfde strekking;
+d. van een derde, die meerderjarig en handelingsbekwaam is, indien een belastingschuldige niet beschikt over een bankrekening die op zijn naam staat, deze naar het oordeel van de ontvanger niet in staat is een bankrekening op zijn naam te openen door zijn lichamelijke of geestelijke toestand, en deze om uitbetaling op een bankrekening van een derde verzoekt.
+2. Bij gevallen als bedoeld in artikel 25, derde lid, van de Algemene wet inkomensafhankelijke regelingen is artikel 7a, eerste lid, tweede volzin, van de wet niet van toepassing.
+3. Indien op grond van artikel 7a, vierde lid, van de wet de uitbetaling plaatsvindt op een andere bankrekening dan die van de belastingschuldige, vindt het gegevensverkeer met betrekking tot die uitbetaling tussen de Belastingdienst en die rekeninghouder plaats met gebruikmaking van het burgerservicenummer van de belastingschuldige.
+4. Bij toepassing van het eerste lid, onderdelen a tot en met c, wijst het aldaar bedoelde lid, de aldaar bedoelde gemeente of de aldaar bedoelde derde aan op welke bankrekening wordt uitbetaald, ten behoeve van welke belastingschuldige en voor welke uitbetaling. Voorts wordt melding gemaakt van de beëindiging van de in het eerste lid, onderdelen a tot en met c, bedoelde overeenkomst.

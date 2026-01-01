@@ -1,0 +1,4 @@
+# Artikel 40g
+1. De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen betreffende de inkomstenbelasting, bedoeld in artikel 70b, eerste lid, eerste volzin, van de wet, mits voldoende zekerheid wordt gesteld en wordt ingestemd met de door de ontvanger nader te stellen voorwaarden. Het schriftelijke verzoek en de zekerheidstelling blijven achterwege in geval van emigratie van de belastingschuldige naar een andere lidstaat van de Europese Unie, Noorwegen, IJsland of Liechtenstein.
+2. De ontvanger beëindigt het uitstel indien zich een omstandigheid voordoet als bedoeld in artikel 70b, eerste lid, derde volzin, van de wet.
+3. Ingeval zich een omstandigheid als bedoeld in artikel 70b, eerste lid, derde volzin, van de wet voordoet, stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.

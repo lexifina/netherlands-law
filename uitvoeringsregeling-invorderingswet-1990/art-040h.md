@@ -1,0 +1,3 @@
+# Artikel 40h
+1. Indien de ontvanger het op de voet van artikel 40g verleende uitstel van betaling beëindigt omdat zich een omstandigheid als bedoeld in artikel 70b, eerste lid, derde volzin, van de wet bedoelde omstandigheid voordoet, verleent hij op schriftelijk verzoek van de belastingschuldige kwijtschelding van inkomstenbelasting tot een omvang als bedoeld in artikel 70ba van de wet.
+2. In afwijking van het eerste lid is voor het verlenen van kwijtschelding geen schriftelijk verzoek nodig indien de belastingschuldige op het moment dat zich een omstandigheid als bedoeld in artikel 70b, eerste lid, derde volzin, van de wet voordoet, in een andere lidstaat van de Europese Unie of in Noorwegen, IJsland of Liechtenstein woont.
