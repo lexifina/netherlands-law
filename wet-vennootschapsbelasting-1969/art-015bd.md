@@ -10,4 +10,4 @@ g. verordening solvabiliteit II: Gedelegeerde Verordening (EU) nr. 2015/35 van d
 h. groepslichamen: alle lichamen waarmee de belastingplichtige is verbonden in een groep in de zin van artikel 24b van Boek 2 van het Burgerlijk Wetboek.
 2. Voor de toepassing van deze afdeling worden onder renten ter zake van geldleningen niet begrepen:
 a. renten ter zake van geldleningen voor zover die deel uitmaken van winst uit een andere staat als bedoeld in artikel 15e, eerste lid, waarop de objectvrijstelling voor buitenlandse ondernemingswinsten van toepassing is;
-b. renten ter zake van geldleningen die zijn verkregen van groepslichamen voor zover de belastingplichtige aannemelijk maakt dat deze geldleningen niet direct verband houden met geldleningen die zijn verkregen van niet-groepslichamen.
+b. renten ter zake van geldleningen die zijn verkregen van groepslichamen voor zover de belastingplichtige aannemelijk maakt dat deze geldleningen niet direct verband houden met geldleningen die zijn verkregen van niet-groepslichamen of natuurlijke personen.
