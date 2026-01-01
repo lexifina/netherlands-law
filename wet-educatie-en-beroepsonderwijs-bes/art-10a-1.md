@@ -1,0 +1,19 @@
+# Artikel 10a.1. Ruimte voor innovatie
+1. Met het oog op verbetering van de kwaliteit, toegankelijkheid of doelmatigheid van het beroepsonderwijs kan bij wijze van experiment bij algemene maatregel van bestuur worden afgeweken van:
+– titel 2 van hoofdstuk 2,
+– hoofdstuk 6, en
+– hoofdstuk 7.
+2. In geval van toepassing van het eerste lid worden bij algemene maatregel van bestuur in ieder geval bepaald:
+a. het doel van het experiment,
+b. op welke wijze van welke artikelen van de in het eerste lid genoemde hoofdstukken, titels of paragrafen wordt afgeweken,
+c. de duur van het experiment, en
+d. op welke wijze en aan de hand van welke criteria de met het experiment beoogde effecten worden geëvalueerd.
+De voordracht voor die algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
+3. Bij ministeriële regeling kunnen regels worden gesteld over de uitvoering van een experiment.
+4. Een experiment duurt ten hoogste zes jaar. Indien, voordat een experiment is afgelopen, een voorstel van wet is ingediend bij de Staten-Generaal om het experiment om te zetten in een structurele wettelijke regeling, kan Onze Minister het experiment verlengen tot het tijdstip waarop het wetsvoorstel tot wet is verheven en in werking treedt.
+5. Onze Minister zendt drie maanden voor het einde van de werkingsduur van een algemene maatregel van bestuur als bedoeld in het eerste lid aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van het experiment in de praktijk, evenals een standpunt over de voortzetting van die algemene maatregel van bestuur, anders dan een voortzetting als experiment.
+6. Bij de algemene maatregel van bestuur, bedoeld in het tweede lid, kan bij wijze van experiment tevens worden afgeweken van:
+a. artikel 1 van de Leerplichtwet BES;
+b. artikel 1.1 van de Wet studiefinanciering BES; en
+c. de hoofdstukken 1 tot en met 4 van de Wet NLQF.
+7. Dit artikel is van overeenkomstige toepassing op een samenwerkingsverband tussen een instelling en een school als bedoeld in de Wet voortgezet onderwijs 2020 of een instelling als bedoeld in de Wet op het hoger onderwijs en wetenschappelijk onderzoek. Bij samenwerking met een school als bedoeld in de Wet voortgezet onderwijs 2020 kan voor die school worden afgeweken van de Wet voortgezet onderwijs 2020, met uitzondering van hoofdstuk 3, paragrafen 7 en 10, de hoofdstukken 4, 6 en 9 en hoofdstuk 11, paragrafen 4 en 6, van die wet. Bij de algemene maatregel van bestuur, bedoeld in het tweede lid, wordt geregeld welke bij of krachtens de Wet voortgezet onderwijs 2020 onderscheidenlijk de Wet op het hoger onderwijs en wetenschappelijk onderzoek vastgestelde voorschriften van toepassing of van overeenkomstige toepassing zijn op de samenwerking.

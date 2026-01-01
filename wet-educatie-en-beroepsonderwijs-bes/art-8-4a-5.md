@@ -1,0 +1,3 @@
+# Artikel 8.4a.5. Inrichting doorlopende leerroute
+1. Aan een leerling van een school kunnen delen van het onderwijsprogramma van de doorlopende leerroute vmbo-mbo en examens worden aangeboden die behoren tot de beroepsopleiding die deel uitmaakt van die doorlopende leerroute, zonder inschrijving als bedoeld in artikel 8.1.1, eerste lid.
+2. Een student in de doorlopende leerroute vmbo-mbo kan in de gelegenheid worden gesteld om delen van het onderwijsprogramma te volgen en examens af te leggen die behoren tot het voortgezet onderwijs dat deel uitmaakt van die doorlopende leerroute.
