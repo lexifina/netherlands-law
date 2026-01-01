@@ -1,0 +1,3 @@
+# Artikel 6a
+1. Onverminderd artikel 6.3, tweede lid, van de wet is de minister bevoegd uitvoering te geven aan een voorschrift van een EU-verordening als bedoeld in artikel 2.1 van het besluit dat een tot de overheid behorend orgaan of een door de overheid aangesteld persoon de opdracht geeft, de keuze laat of als ontvanger van informatie aanwijst, indien die uitvoering niet bestaat uit het nemen van een besluit.
+2. Het eerste lid is niet van toepassing, indien in deze regeling anders is bepaald.
