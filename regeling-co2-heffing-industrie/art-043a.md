@@ -1,0 +1,3 @@
+# Artikel 43a. Verificatie verslag over het aantal dispensatierechten voor een exploitant van een stoppende broeikasgasinstallatie
+1. Een exploitant van een stoppende broeikasgasinstallatie levert na afloop van het kalenderjaar waarin de vergunning, bedoeld in artikel 16.5, eerste lid, van de wet, is ingetrokken een verslag over het aantal dispensatierechten in dat vergezeld gaat van een verificatierapport van een verificateur, waarin de resultaten worden weergegeven van een door hem uitgevoerde beoordeling waarin wordt vastgesteld of het verslag over het aantal dispensatierechten voldoet aan de in deze regeling gestelde eisen.
+2. De verificateur, bedoeld in het eerste lid, moet voldoen aan de eisen in artikel 17 tweede tot en met vierde lid.
