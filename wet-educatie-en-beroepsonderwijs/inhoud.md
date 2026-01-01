@@ -2,7 +2,7 @@
 ## Hoofdstuk I. Algemeen
 ### Titel 1. Definities, reikwijdte, aard bepalingen
 ### Titel 2. Doelstellingen onderwijs
-### Titel 3. Bekostigde instellingen voor educatie en beroepsonderwijs
+### Titel 3. Bekostigde instellingen
 #### § 1. Instellingen
 #### § 2. Taken
 #### § 3. Kwaliteitszorg
@@ -64,10 +64,8 @@
 ### Titel 0. Aanmelding
 ### Titel 1. Inschrijving, toelating, mbo-studentenfonds en bindend studieadvies
 ### Titel 2. Vooropleidingseisen
-### Titel 3. Bestrijden voortijdig schoolverlaten en volgen van jongeren in een kwetsbare positie
-### Titel 4. Samenwerking in verband met leer-werktrajecten vmbo, entreeopleiding in het vmbo en geïntegreerde route vmbo-basisberoepsopleiding
-### Titel 5. Samenwerking in verband met leer-werktrajecten VSO, entreeopleiding in het VSO, geïntegreerde route VSO-basisberoepsopleiding en doorlopende leerroute VSO-mbo
-### Titel 5a. Doorlopende leerroute vmbo-mbo
+### Titel 4. Samenwerking in verband met leer-werktrajecten vmbo en entreeopleiding in het vmbo
+### Titel 5. Samenwerking in verband met leer-werktrajecten VSO en entreeopleiding in het VSO
 ### Titel 6. Samenwerking tussen uit 's Rijks kas bekostigde instellingen
 ## Hoofdstuk 8a. Medezeggenschap en de landelijke geschillencommissie medezeggenschap
 ### Titel 1. Algemene bepalingen
@@ -75,6 +73,13 @@
 ### Titel 3. Reglement studentenraad
 ### Titel 4. Geschillenregeling en procesbevoegdheid
 ### Titel 5. Afwijkingen
+## Hoofdstuk 9. Samenwerking en ondersteuning
+### Titel 1. Samenwerking
+#### § 1. Doorlopende en geïntegreerde routes vmbo-mbo
+#### § 2. Doorlopende en geïntegreerde routes vso-mbo
+### Titel 2. Ondersteuning bij de overstap naar onderwijs of arbeidsmarkt
+#### Paragraaf 1. Ondersteuning van jongeren zonder startkwalificatie en regionaal programma
+#### Paragraaf 2. Ondersteuning door de instelling
 ## Hoofdstuk 10. Beroep bij de bestuursrechter
 ## Hoofdstuk 11. Sancties
 ### Paragraaf 1. Inhouden en opschorten bekostiging; strafbepaling

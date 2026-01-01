@@ -9,7 +9,7 @@ b. het studentenstatuut en de huisregels voor studenten en vavo-studenten;
 c. de beroeps- en klachtenregelingen voor studenten en vavo-studenten;
 d. de hoogte en de besteding van de vrijwillige ouder- of studentbijdrage, alsmede de wijze waarop deze bijdrage tussen student of vavo-student en bevoegd gezag wordt overeengekomen;
 e. de wijze waarop informatie wordt gegeven over de inhoud, planning en organisatie van het onderwijs en de examens;
-f. de besteding van stagefondsen;
+f. [vervallen;]
 g. [vervallen;]
 h. de model-praktijkovereenkomst;
 i. [vervallen;]
