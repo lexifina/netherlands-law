@@ -1,0 +1,4 @@
+# Article V. Entry into Force
+1. The present Protocol shall enter into force six months after the date on which not less than fifteen States, the combined merchant fleets of which constitute not less than fifty per cent of the gross tonnage of the world's merchant shipping, have become Parties to it in accordance with Article IV of the present Protocol, provided however that the present Protocol shall not enter into force before the Convention has entered into force.
+2. Any instrument of ratification, acceptance, approval or accession deposited after the date on which the present Protocol enters into force shall take effect three months after the date of deposit.
+3. After the date on which an amendment to the present Protocol is deemed to have been accepted under Article VIII of the Convention, any instrument of ratification, acceptance, approval or accession deposited shall apply to the present Protocol as amended.

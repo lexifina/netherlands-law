@@ -1,0 +1,4 @@
+# Article II. Application
+1. The provisions of Articles II, III (other than paragraph (a)), IV, VI(b), (c) and (d), VII and VIII of the International Convention for the Safety of Life at Sea, 1974 (hereinafter referred to as „the Convention") are incorporated in the present Protocol, provided that references in those Articles to the Convention and to Contracting Governments shall be taken to mean references to the present Protocol and to the Parties to the present Protocol, respectively.
+2. Any ship to which the present Protocol applies shall comply with the provisions of the Convention, subject to the modifications and additions set out in the present Protocol.
+3. With respect to the ships of non-parties to the Convention and the present Protocol, the Parties to the present Protocol shall apply the requirements of the Convention and the present Protocol as may be necessary to ensure that no more favourable treatment is given to such ships.

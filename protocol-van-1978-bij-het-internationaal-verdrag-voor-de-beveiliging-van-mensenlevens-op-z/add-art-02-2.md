@@ -1,0 +1,4 @@
+# Artikel II. Toepassing
+1. De bepalingen van de artikelen II, III behalve letter (a), IV, VI letters (b), (c) en (d), VII en VIII van bet Internationaal Verdrag voor de Beveiliging van Mensenlevens op Zee, 1974 (hierna te noemen „het Verdrag" zijn opgenomen in dit Protocol, met dien verstande dat de verwijzingen in deze artikelen naar het verdrag en naar Verdragsluitende Regeringen dienen te worden opgevat als verwijzingen naar dit Protocol, onderscheidenlijk de Partijen bij dit Protocol.
+2. Elk schip waarop dit Protocol van toepassing is, dient te voldoen aan de bepalingen van het Verdrag, behoudens de wijzigingen en aanvullingen vermeld in dit Protocol.
+3. Wat betreft de schepen van hen die niet partij zijn bij het Verdrag en dit Protocol, dienen de Partijen bij dit Protocol waar nodig de voorschriften van het Verdrag en dit Protocol toe te passen ten einde te verzekeren dat zodanige schepen geen gunstiger behandeling ontvangen.

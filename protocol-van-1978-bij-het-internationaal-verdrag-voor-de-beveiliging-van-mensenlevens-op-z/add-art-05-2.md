@@ -1,0 +1,4 @@
+# Artikel V. Inwerkingtreding
+1. Dit Protocol treedt in werking zes maanden na de datum waarop niet minder dan vijftien Staten, waarvan de gezamenlijke koopvaardijvloten niet minder dan vijftig procent van de bruto tonnage van de wereldkoopvaardijvloot vormen, partij daarbij zijn geworden overeenkomstig artikel IV van dit Protocol, met dien verstande dat dit Protocol niet in werking treedt voordat het Verdrag in werking is getreden.
+2. Iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding nedergelegd na de datum waarop dit Protocol in werking treedt, wordt van kracht drie maanden na de datum van nederlegging.
+3. Na de datum waarop een wijziging van dit Protocol wordt geacht te zijn aanvaard krachtens artikel VIII van het Verdrag, heeft iedere nedergelegde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding betrekking op het gewijzigde Protocol.
