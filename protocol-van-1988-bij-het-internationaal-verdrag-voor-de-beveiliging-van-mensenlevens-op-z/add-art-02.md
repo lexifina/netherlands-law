@@ -1,0 +1,4 @@
+# Article II. Prior treaties
+1. As between the Parties to the present Protocol, the present Protocol replaces and abrogates the Protocol of 1978 relating to the Convention.
+2. Notwithstanding any other provisions of the present Protocol, any certificate issued under, and in accordance with, the provisions of the Convention and any supplement to such certificate issued under, and in accordance with, the provisions of the Protocol of 1978 relating to the Convention which is current when the present Protocol enters into force in respect of the Party by which the certificate or supplement was issued, shall remain valid until it expires under the terms of the Convention or the Protocol of 1978 relating to the Convention, as the case may be.
+3. A Party to the present Protocol shall not issue certificates under, and in accordance with, the provisions of the International Convention for the Safety of Life at Sea, 1974, as adopted on 1 November 1974.

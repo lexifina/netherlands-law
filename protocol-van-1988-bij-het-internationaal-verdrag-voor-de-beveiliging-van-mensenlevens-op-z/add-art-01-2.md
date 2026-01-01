@@ -1,0 +1,4 @@
+# Artikel I. Algemene verplichtingen
+1. De Partijen bij dit Protocol verbinden zich ertoe uitvoering te geven aan de bepalingen van dit Protocol en van de Bijlage daarbij, die een integrerend deel van dit Protocol vormt. Elke verwijzing naar dit Protocol houdt tegelijkertijd een verwijzing naar de Bijlage in.
+2. Tussen de Partijen bij dit Protocol zijn de bepalingen van het Internationaal Verdrag voor de Beveiliging van Mensenlevens op Zee, 1974, zoals gewijzigd, (hierna te noemen „het Verdrag"), van toepassing onder voorbehoud van de wijzigingen en aanvullingen vervat in dit Protocol.
+3. Ten aanzien van schepen die zijn gerechtigd de vlag te voeren van een Staat die geen Partij bij het Verdrag en dit Protocol is, passen de Partijen bij dit Protocol de bepalingen van het Verdrag en dit Protocol toe voor zover nodig om te verzekeren dat zulke schepen geen gunstiger behandeling wordt toegekend.
