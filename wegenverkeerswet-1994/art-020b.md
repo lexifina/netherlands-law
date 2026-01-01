@@ -1,2 +1,0 @@
-# Artikel 20b
-Een bromfiets als bedoeld in artikel 1, eerste lid, onderdeel e, onder d, die voorafgaande aan de toelating tot het verkeer op de weg door Onze Minister per type of individueel is aangewezen op grond van zijn veiligheidsaspecten, omdat de toelating overeenstemt met de in artikel 2, eerste lid, onderdelen a en b, tweede lid en derde lid, onderdeel a, genoemde doeleinden, is in afwijking van hoofdstuk III, zonder te zijn goedgekeurd, toegelaten tot het verkeer op de weg.

@@ -1,3 +1,0 @@
-# Artikel 20f
-1. Indien een fabrikant in de handel gebrachte motorrijtuigen als bedoeld in artikel 20b, voorzien van een aanwijzing, uit de handel dient te nemen of dient terug te roepen, omdat ze een ernstig gevaar vormen voor de gezondheid, de veiligheid, het milieu of andere aspecten van de bescherming van het openbaar belang, of indien ze niet blijken te voldoen aan de daaraan voor aanwijzing gestelde eisen, stelt de fabrikant de Dienst Wegverkeer en de bij besluit van Onze Minister aangewezen personen als bedoeld in artikel 158, eerste lid, hiervan onmiddellijk in kennis.
-2. Bij ministeriële regeling kunnen nadere regels worden gesteld in verband met de uitvoering van het eerste lid.
