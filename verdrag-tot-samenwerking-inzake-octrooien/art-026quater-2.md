@@ -1,0 +1,5 @@
+# Regel 26quater. Verbetering of aanvulling van vermeldingen ingevolge Regel 4.11
+26quater.1. Verbeteren of toevoegen van vermeldingen
+De aanvrager kan een vermelding verbeteren of een vermelding toevoegen aan het verzoekschrift bedoeld in Regel 4.11 door middel van een kennisgeving aan het Internationaal Bureau binnen een termijn van 16 maanden na de datum van voorrang, met dien verstande dat elke kennisgeving die het Internationaal Bureau ontvangt na het verstrijken van die termijn wordt beschouwd als ontvangen op de laatste dag van die termijn indien het Internationaal Bureau deze kennisgeving ontvangt voordat de technische voorbereidingen voor de internationale publicatie zijn afgerond.
+26quater.2. Laattijdige verbetering of aanvulling van vermeldingen
+Indien een verbetering of aanvulling van een vermelding zoals bedoeld in Regel 4.1 niet tijdig is ontvangen ingevolge Regel 26quater.1, stelt het Internationaal Bureau de aanvrager daarvan in kennis en handelt het Internationaal Bureau zoals voorzien in de Administratieve Instructies.

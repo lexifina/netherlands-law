@@ -1,0 +1,12 @@
+# Rule 13ter. Nucleotide and/or Amino Acid Sequence Listings
+13ter.1. Procedure before the International Searching Authority
+a) Where the international application contains disclosure of nucleotide and/or amino acid sequences that, pursuant to the Administrative Instructions, are required to be included in a sequence listing, the International Searching Authority may invite the applicant to furnish to it, for the purposes of the international search, a sequence listing complying with the standard provided for in the Administrative Instructions, unless such listing is already available to it in a form, language and manner acceptable to it, and to pay to it, where applicable, the late furnishing fee referred to in paragraph (c), within a time limit fixed in the invitation.
+b) [Vervallen.]
+c) The furnishing of a sequence listing in response to an invitation under paragraph (a) may be subjected by the International Searching Authority to the payment to it, for its own benefit, of a late furnishing fee whose amount shall be determined by the International Searching Authority but shall not exceed 25% of the international filing fee referred to in item 1 of the Schedule of Fees, not taking into account any fee for each sheet of the international application in excess of 30 sheets.
+d) If the applicant does not, within the time limit fixed in the invitation under paragraph (a), furnish the required sequence listing and pay any required late furnishing fee, the International Searching Authority shall only be required to search the international application to the extent that a meaningful search can be carried out without the sequence listing.
+e) Any sequence listing not contained in the international application as filed, whether furnished in response to an invitation under paragraph (a) or otherwise, shall not form part of the international application, but this paragraph shall not prevent the applicant from amending the description in relation to a sequence listing pursuant to Article 34(2)(b).
+f) [Vervallen.]
+13ter.2. Procedure Before the International Preliminary Examining Authority
+Rule 13ter.1 shall apply mutatis mutandis to the procedure before the International Preliminary Examining Authority.
+13ter.3. Sequence Listing for Designated Office
+No designated Office shall require the applicant to furnish to it a sequence listing other than a sequence listing complying with the standard provided for in the Administrative Instructions.

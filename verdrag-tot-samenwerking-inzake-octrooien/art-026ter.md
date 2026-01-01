@@ -1,0 +1,6 @@
+# Rule 26ter. Correction or Addition of Declarations Under Rule 4.17
+26ter.1. Correction or Addition of Declarations
+The applicant may correct or add to the request any declaration referred to in Rule 4.17 by a notice submitted to the International Bureau within a time limit of 16 months from the priority date, provided that any notice which is received by the International Bureau after the expiration of that time limit shall be considered to have been received on the last day of that time limit if it reaches it before the technical preparations for international publication have been completed.
+26ter.2. Processing of Declarations
+a) Where the receiving Office or the International Bureau finds that any declaration referred to in Rule 4.17 is not worded as required or, in the case of the declaration of inventorship referred to in Rule 4.17(iv), is not signed as required, the receiving Office or the International Bureau, as the case may be, may invite the applicant to correct the declaration within a time limit of 16 months from the priority date.
+b) Where the International Bureau receives any declaration or correction under Rule 26ter.1 after the expiration of the time limit under Rule 26ter.1, the International Bureau shall notify the applicant accordingly and shall proceed as provided for in the Administrative Instructions.

@@ -1,0 +1,8 @@
+# Regel 43bis. Schriftelijk oordeel van de Instantie voor Internationaal Nieuwheidsonderzoek
+43bis.1. Schriftelijk oordeel
+a. Onverminderd Regel 69. 1 bbis stelt de Instantie voor Internationaal Nieuwheidsonderzoek tegelijk met het opstellen van het verslag van het internationale nieuwheidsonderzoek of de in artikel 17, tweede lid, onder a, bedoelde verklaring, een schriftelijk oordeel op inzake:
+i. de vraag of de uitvinding waarvoor uitsluitende rechten worden verlangd nieuw lijkt, een inventieve stap inhoudt (niet voor de hand ligt) en industrieel toepasbaar is;
+ii. de vraag of de internationale aanvrage voldoet aan de vereisten van het Verdrag en dit Reglement voor zover gecontroleerd door de Instantie voor Internationaal Nieuwheidsonderzoek.
+Het schriftelijk oordeel gaat tevens vergezeld van eventuele andere opmerkingen waarin dit Reglement voorziet.
+b. Ten behoeve van het opstellen van het schriftelijk oordeel zijn de artikelen 33, tweede tot en met zesde lid, en 35, tweede en derde lid, alsmede de Regels 43.4, 43.6bis, 64, 65, 66.1 e, 66.7, 67, 70.2 b en d, 70.3, 70.4 ii, 70.5 a, 70.6 tot en met 70.10, 70.12, 70.14 en 70.15 a van overeenkomstige toepassing.
+c. Het schriftelijk oordeel bevat een bericht aan de aanvrager, dat indien verzocht wordt om een internationale voorlopige beoordeling, het schriftelijk oordeel ingevolge Regel 66.1bis. a maar onverminderd Regel 66.1bis. b. zal worden aangemerkt als een schriftelijk oordeel van de Instantie voor Internationale Voorlopige Beoordeling voor de toepassing van Regel 66.2 a, in welk geval de aanvrager verzocht wordt voor het verstrijken van de termijn ingevolge Regel 54bis. 1 a. een schriftelijk antwoord, waar nodig vergezeld van wijzigingen, te zenden aan deze Instantie.
