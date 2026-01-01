@@ -1,0 +1,2 @@
+# Artikel 15b
+De ambtenaar waarschuwt onmiddellijk voordat hij een surveillancehond of een AOT-hond tegen een persoon zal inzetten, met luide stem of op andere niet mis te verstane wijze dat een surveillancehond onderscheidenlijk een AOT-hond ingezet zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing blijft achterwege indien de omstandigheden de waarschuwing redelijkerwijs niet toelaten.

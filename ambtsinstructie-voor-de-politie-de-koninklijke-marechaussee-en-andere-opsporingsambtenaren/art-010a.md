@@ -1,0 +1,3 @@
+# Artikel 10a
+1. De ambtenaar waarschuwt onmiddellijk voordat hij gericht met een vuurwapen, niet zijnde een vuurwapen waarmee lange afstandsprecisievuur kan worden afgegeven, zal schieten, met luide stem of op andere niet mis te verstane wijze dat geschoten zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing, die zo nodig vervangen kan worden door een waarschuwingsschot, blijft slechts achterwege, wanneer de omstandigheden de waarschuwing niet toelaten.
+2. Een waarschuwingsschot moet op zodanige wijze worden gegeven, dat gevaar voor personen of zaken zoveel mogelijk wordt vermeden.

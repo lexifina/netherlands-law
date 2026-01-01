@@ -1,0 +1,2 @@
+# Artikel 12f
+De ambtenaar of de meerdere onder wiens bevel de ambtenaar optreedt, waarschuwt onmiddellijk voordat hij een wapenstok tegen een persoon zal gebruiken, met luide stem of op andere niet mis te verstane wijze dat een wapenstok gebruikt zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing blijft achterwege indien de omstandigheden de waarschuwing redelijkerwijs niet toelaten.
