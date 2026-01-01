@@ -1,0 +1,4 @@
+# Artikel 60a. Overgangsbepalingen in verband met wijzigingen per 1 januari 2020
+1. Artikel 2, eerste lid, onderdeel c, zoals dat luidde op 31 december 2019, blijft van toepassing op de zelfstandige die zijn aanvraag uiterlijk 31 december 2019 heeft ingediend.
+2. De artikelen 20, tweede lid, en 21, eerste tot en met vierde lid, zoals die luidden op 31 december 2019, blijven van toepassing op de zelfstandige, bedoeld in artikel 2, eerste lid, onderdeel a, die zijn aanvraag om algemene bijstand en bijstand ter voorziening in de behoefte aan bedrijfskapitaal, uiterlijk 31 december 2019 heeft ingediend.
+3. Hoofdstuk VII zoals dat luidde op 31 december 2019, blijft van toepassing op de vaststelling van de ten laste van de gemeente gebleven kosten, de vergoeding en de aanvullende uitkering, bedoeld in de artikelen 54 en 58, voor kosten die betrekking hebben op de kalenderjaren gelegen voor het jaar 2020.

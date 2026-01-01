@@ -1,0 +1,3 @@
+# Artikel 43c
+1. Bij verkoop van de woning dan wel bij vererving van de woning na het overlijden van de zelfstandige of, indien het een echtpaar betreft, na het overlijden van de langstlevende echtgenoot, wordt het nog niet afgeloste deel van de geldlening, alsmede de op grond van artikel 43b, vierde lid, bijgeschreven rente, terstond afgelost.
+2. Indien bij de verkoop van de woning op basis van de waarde in het economisch verkeer bij vrije oplevering het voor de afrekening beschikbare bedrag lager is dan het resterende bedrag van de geldlening en van de rentevordering, wordt het verschil kwijtgescholden.

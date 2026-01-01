@@ -1,0 +1,2 @@
+# Artikel 60aa. Overgangsbepaling in verband met tijdelijke afwijkende regels voor instroom tijdens vierde kwartaal 2021
+Indien in de periode van 1 oktober 2021 tot en met 31 december 2021 op grond van hoofdstuk VIIa, zoals dat luidde tot en met 31 december (Stb. 2021, 438), algemene bijstand is toegekend en met ingang van het tijdstip waarop dit hoofdstuk vervalt, op of na dat tijdstip algemene bijstand op grond van dit besluit is benodigd, wordt hiertoe een nieuwe aanvraag om algemene bijstand ingediend.
