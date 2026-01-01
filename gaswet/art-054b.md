@@ -1,4 +1,0 @@
-# Artikel 54b
-1. De netbeheerder van het landelijk gastransportnet kan, ten einde te waarborgen dat hij de taken, bedoeld in artikel 54a, zo doelmatig mogelijk kan uitvoeren, voorwaarden stellen aan de wijze waarop het gas van de houders van Nederlandse winningsvergunningen dan wel degene met wie voor het gebruik van die vergunning een overeenkomst is gesloten inzake het voor gezamenlijke rekening winnen van gas, wordt ingenomen.
-2. Gasbedrijven, netgebruikers en afnemers verstrekken de netbeheerder van het landelijk gastransportnet desgevraagd tijdig voldoende inlichtingen en gegevens om te waarborgen dat hij de taken, bedoeld in het eerste lid kan uitvoeren.
-3. Bij ministeriële regeling kunnen regels worden gesteld ten aanzien van de in het eerste lid bedoelde voorwaarden en de in het tweede lid genoemde gegevens en inlichtingen.

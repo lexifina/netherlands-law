@@ -1,3 +1,0 @@
-# Artikel VI
-1. Indien voor inwerkingtreding van artikel I, onderdeel J, op verzoek een meetinrichting ter beschikking is gesteld aan een afnemer, niet zijnde een afnemer als bedoeld in artikel 95a, eerste lid, blijft de netbeheerder deze meetinrichting op verzoek ter beschikking stellen en wordt deze meetinrichting op verzoek van die afnemer beheerd door de netbeheerder.
-2. Indien voorafgaand aan het tijdstip van inwerkingtreding van artikel I, onderdeel N, een transformator ter beschikking is gesteld aan een afnemer, houdt de netbeheerder op verzoek van de afnemer deze transformator ter beschikking gesteld en wordt deze transformator beheerd door de netbeheerder. De eerste volzin is van overeenkomstige toepassing op een installatie.

@@ -1,5 +1,0 @@
-# Artikel 95d
-1. Onze Minister verleent op aanvraag een vergunning indien de aanvrager genoegzaam aantoont dat hij:
-a. beschikt over de benodigde organisatorische, financiële en technische kwaliteiten voor een goede uitvoering van zijn taak;
-b. redelijkerwijs in staat kan worden geacht de verplichtingen als opgenomen in dit hoofdstuk na te komen.
-2. Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de inhoud van en de procedure voor aanvraag van een vergunning en de criteria, bedoeld in het eerste lid.

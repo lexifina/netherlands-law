@@ -1,4 +1,0 @@
-# Artikel 12e
-1. De eerste maal na inwerkingtreding van dit artikel zenden de gezamenlijke netbeheerders de voorstellen met betrekking tot de tariefstructuren of de voorwaarden, bedoeld in de artikelen 12a en 12b, aan de Autoriteit Consument en Markt binnen zes kalendermaanden na inwerkingtreding van dit artikel.
-2. De gezamenlijke netbeheerders zenden een voorstel met betrekking tot de wijziging van de tariefstructuren of de voorwaarden aan de Autoriteit Consument en Markt binnen 12 weken na het tijdstip waarop een verzoek als bedoeld in artikel 12c, eerste lid, wordt gedaan.
-3. De gezamenlijke netbeheerders en de representatieve organisaties van netgebruikers op de gasmarkt kunnen hun zienswijze op een ontwerp van een besluit tot wijziging van de tariefstructuren of de voorwaarden aan de Autoriteit Consument en Markt kenbaar maken binnen twaalf weken na het tijdstip waarop het ontwerp van het besluit op grond van artikel 12c, tweede lid, aan hen is gezonden.

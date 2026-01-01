@@ -1,4 +1,0 @@
-# Artikel XIVa
-In afwijking van artikel 10d, tweede lid, van de Gaswet zoals dat met artikel II, onderdeel S, komt te luiden, kan een met een netbeheerder verbonden groepsmaatschappij als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek:
-a. tot een jaar na inwerkingtreding van artikel II, onderdeel S, handelingen of activiteiten verrichten die door hem werden verricht voorafgaand aan het tijdstip van inwerkingtreding van artikel II, onderdeel S, voor zover deze handelingen en activiteiten zijn toegestaan op grond van artikel 10b van de Gaswet, zoals dat luidde voorafgaand aan de inwerkingtreding van artikel II, onderdeel Q;
-b. handelingen en activiteiten met betrekking tot warmte die vallen buiten de in artikel 10d genoemde werkzaamheden, die door hem werden verricht voorafgaand aan het tijdstip van inwerkingtreding van artikel II, onderdeel S, blijven verrichten.

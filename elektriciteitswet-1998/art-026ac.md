@@ -1,3 +1,0 @@
-# Artikel 26ac
-1. Een netbeheerder brengt op verzoek van een leverancier wijzigingen aan in de besturings- en toepassingsprogramma's van meetinrichtingen die ter beschikking zijn gesteld aan afnemers als bedoeld in artikel 95a, eerste lid, van de betreffende leverancier, tenzij een meetinrichting door inwilliging van het verzoek niet langer zou voldoen aan de voor die meetinrichting geldende eisen of op andere wijze afbreuk gedaan zou worden aan de integriteit van de meetinrichting.
-2. Een netbeheerder leest meetgegevens van een afnemer als bedoeld in artikel 95a, eerste lid, die beschikt over een geïnstalleerde meetinrichting die ten minste voldoet aan de krachtens artikel 95la, eerste lid, gestelde eisen, niet op afstand uit indien de afnemer hierom verzoekt.

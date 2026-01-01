@@ -1,3 +1,0 @@
-# Artikel VII
-1. Door de netbeheerder van het landelijk hoogspanningsnet gemaakte kosten van de afbouw en overdracht van de opgedragen taak tot subsidieverstrekking, bedoeld in artikel 69 van de Elektriciteitswet 1998 zoals dat luidde onmiddellijk voor het moment van inwerkingtreding van artikel VII, komen vanaf het moment van inwerkingtreding ten laste van de egalisatiereserve, bedoeld in artikel 72h van de Elektriciteitswet 1998 zoals dat onmiddellijk luidde voor het moment van inwerkingtreding.
-2. Twaalf maanden na het moment van inwerkingtreding van dit artikel heft de netbeheerder van het landelijk hoogspanningsnet de egalisatiereserve op, waarbij vereffening van het saldo plaatsvindt met Onze Minister van Economische Zaken.

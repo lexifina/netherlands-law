@@ -1,5 +1,0 @@
-# Artikel 10a
-1. De netbeheerder, met uitzondering van de netbeheerder van het landelijk hoogspanningsnet, beschikt over de economische eigendom van het door hem beheerde net.
-2. Bij gelegenheid van een aanwijzing als bedoeld in artikel 10, negende lid, vindt voor zover nodig overdracht van de economische eigendom aan de aangewezen netbeheerder plaats.
-3. De overdracht geschiedt tegen verrichting van een tegenprestatie waarvan de waarde ten hoogste de opbrengst vertegenwoordigt van de exploitatie van het net, zoals deze op basis van algemene bedrijfseconomische uitgangspunten kan worden afgeleid van de door de Autoriteit Consument en Markt in de daaraan voorafgaande periode van vijf jaar vastgestelde tarieven met betrekking tot het netbeheer. Deze tegenprestatie kan zowel bestaan uit een periodieke uitkering als uit een contant bedrag ineens.
-4. De netbeheerder van het landelijk hoogspanningsnet of een tot de groep als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek waarvan de netbeheerder van het landelijk hoogspanningsnet deel uitmaakt behorende vennootschap beschikt over de eigendom van het landelijk hoogspanningsnet.

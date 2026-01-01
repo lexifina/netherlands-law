@@ -1,4 +1,0 @@
-# Artikel 66i
-1. Onze Minister is belast met het uitgeven en innemen via een elektronisch systeem van garanties van oorsprong voor gas uit hernieuwbare bronnen.
-2. Onze Minister opent op aanvraag van een in Nederland gevestigde producent, leverancier, handelaar, afnemer of de Nederlandse emissieautoriteit, bedoeld in artikel 2.1 van de Wet milieubeheer, een rekening. Bij deze aanvraag overlegt de producent het resultaat van de vaststelling, bedoeld in artikel 10, vijfde lid, onderdeel c.
-3. Onze Minister boekt op aanvraag garanties van oorsprong voor gas uit hernieuwbare bronnen op een daarbij aangegeven rekening, indien een in Nederland gevestigde producent bij deze aanvraag de gegevens omtrent de door de netbeheerder of door een andere tot meten bevoegde instantie gemeten hoeveelheid gas uit hernieuwbare energiebronnen overlegt.

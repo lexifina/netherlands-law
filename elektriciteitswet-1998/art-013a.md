@@ -1,6 +1,0 @@
-# Artikel 13a
-1. Onze Minister kan de netbeheerder aanzeggen dat hij vanaf een bepaald tijdstip de opdrachten dient op te volgen die aan hem worden verstrekt door een door Onze Minister aangewezen persoon. Bij de aanzegging geeft Onze Minister aan ter bescherming van welk belang de aanzegging geschiedt. Bij de aanzegging kunnen voorschriften en beperkingen worden gesteld aan de te geven opdrachten. De aangewezen persoon verstrekt uitsluitend opdrachten ter bescherming van het belang, bedoeld in de tweede volzin.
-2. De netbeheerder verschaft de door Onze Minister aangewezen persoon desgevraagd alle medewerking.
-3. Onze Minister kan te allen tijde de door hem aangewezen persoon vervangen door een andere persoon.
-4. De door Onze Minister aangewezen persoon oefent zijn bevoegdheid uit gedurende een door Onze Minister in de aanzegging bepaalde termijn. Deze termijn bedraagt ten hoogste zes maanden indien het betreft een aanzegging als bedoeld in artikel 13, derde lid, onderdeel b. Deze termijn kan eenmaal met ten hoogste zes maanden worden verlengd.
-5. Voor schade ten gevolge van handelingen die zijn verricht in strijd met een opdracht als bedoeld in het eerste lid, zijn bestuurders persoonlijk aansprakelijk tegenover de netbeheerder.

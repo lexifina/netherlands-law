@@ -1,2 +1,0 @@
-# Artikel VII
-De tekst van de Elektriciteitswet 1998 wordt in het Staatsblad geplaatst. Voor de plaatsing in het Staatsblad stelt Onze Minister van Economische Zaken de nummering van de artikelen, hoofdstukken en paragrafen van de Elektriciteitswet 1998 opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van de artikelen, hoofdstukken en paragrafen met de nieuwe nummering in overeenstemming.

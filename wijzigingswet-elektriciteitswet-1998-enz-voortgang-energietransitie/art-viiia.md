@@ -1,4 +1,0 @@
-# Artikel VIIIa
-In afwijking van artikel 17c, tweede lid, van de Elektriciteitswet 1998 zoals dat met artikel I, onderdeel P, komt te luiden, kan een met een netbeheerder verbonden groepsmaatschappij als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek:
-a. tot een jaar na inwerkingtreding van artikel I, onderdeel P, handelingen en activiteiten verrichten die door hem werden verricht voorafgaand aan het tijdstip van inwerkingtreding van artikel I, onderdeel P, voor zover deze handelingen en activiteiten zijn toegestaan op grond van artikel 17 van de Elektriciteitswet 1998 zoals dat luidde voorafgaand aan de inwerkingtreding van artikel I, onderdeel N;
-b. handelingen en activiteiten met betrekking tot warmte die vallen buiten de in artikel 17c genoemde werkzaamheden, die door hem werden verricht voorafgaand aan het tijdstip van inwerkingtreding van artikel I, onderdeel P, blijven verrichten.

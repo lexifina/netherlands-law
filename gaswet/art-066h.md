@@ -1,3 +1,0 @@
-# Artikel 66h
-1. Het is verboden te handelen in strijd met de artikelen 3, 4 en 5 van verordening 1227/2011.
-2. Overtreding van het eerste lid is een misdrijf.

@@ -1,3 +1,0 @@
-# Artikel 42c
-1. Ten behoeve van het voorstel voor de toegestane inkomsten, bedoeld in artikel 42d, eerste lid, stelt de Autoriteit Consument en Markt voor de netbeheerder van het net op zee voor dezelfde periode als waarvoor het besluit, bedoeld in artikel 42b, eerste lid, geldt, de korting ter bevordering van de doelmatige bedrijfsvoering vast.
-2. Indien het besluit op grond van artikel 42b, eerste lid, bij een onherroepelijke rechterlijke uitspraak is vernietigd of bij een onherroepelijk besluit op bezwaar is herroepen, herziet de Autoriteit Consument en Markt het in het tweede lid vermelde besluit met toepassing van de met inachtneming van die uitspraak of dat besluit op bezwaar gecorrigeerde methode.

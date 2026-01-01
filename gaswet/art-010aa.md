@@ -1,5 +1,0 @@
-# Artikel 10Aa
-1. Een netbeheerder verricht geen andere werkzaamheden dan die nodig zijn voor een goede uitvoering van de bij of krachtens de wet aan hem toegekende taken.
-2. In afwijking van het eerste lid mag een netbeheerder in opdracht van een andere netbeheerder de aan die netbeheerder toegekende taken uitvoeren.
-3. Een netbeheerder besteedt geen werkzaamheden bij een afnemer uit aan een onderneming waar een leverancier onderdeel van uitmaakt.
-4. Ingeval van uitbesteding van werkzaamheden behoudt de netbeheerder de verantwoordelijkheid voor de onafhankelijke uitvoering van deze werkzaamheden.

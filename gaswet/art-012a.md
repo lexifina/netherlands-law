@@ -1,5 +1,0 @@
-# Artikel 12a
-Met inachtneming van de in artikel 12 bedoelde regels en de in artikel 6 van verordening 715/2009 bedoelde netcodes zenden de gezamenlijke netbeheerders aan de Autoriteit Consument en Markt een voorstel met betrekking tot de door hen jegens netgebruikers te hanteren tariefstructuren dat de elementen en wijze van berekening beschrijft van:
-a. het tarief voor transport van gas, met inbegrip van invoer, uitvoer en doorvoer van gas en de het transport ondersteunende diensten ten behoeve van netgebruikers en met inbegrip van de in artikel 10a, eerste lid, met uitzondering van onderdelen d en p, omschreven wettelijke taken,
-b. de tarieven waarvoor de netbeheerder van het landelijk gastransportnet uitvoering zal geven aan zijn in artikel 10a, eerste lid, onderdeel p, omschreven taak en
-c. de tarieven voor meting van gas bij afnemers als bedoeld in artikel 43, eerste lid, voor het verzorgen van een aansluiting als bedoeld in artikel 10, zesde lid, of een aansluiting als bedoeld in artikel 10a, eerste lid, onderdeel d of voor het omschakelen van een aansluiting op grond van artikel 10i.

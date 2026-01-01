@@ -1,2 +1,0 @@
-# Artikel II
-Bij de vaststelling van de tarieven met toepassing van artikel 82 van de Gaswet, worden mede betrokken de kosten die de netbeheerder van het landelijk gastransportnet heeft gemaakt in de periode tussen 1 januari 2018 en het tijdstip van inwerkingtreding van het in artikel I, onderdeel C, opgenomen artikel 10i, ter voorbereiding op en uitvoering van de in dat artikel opgenomen taak, met dien verstande dat bij toepassing van artikel 82, vijfde lid, voor geschatte kosten tevens gerealiseerde kosten moet worden gelezen.

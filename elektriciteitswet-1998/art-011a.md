@@ -1,7 +1,0 @@
-# Artikel 11a
-1. De artikelen 155a, 158 tot en met 161a en 164 dan wel 265a, 268 tot en met 271a en 274 van Boek 2 van het Burgerlijk Wetboek zijn van toepassing op de vennootschap die is aangewezen voor het beheer van het landelijk hoogspanningsnet en haar statuten worden dienovereenkomstig ingericht.
-2. De leden van het bestuur en de meerderheid van de leden van de raad van commissarissen van de vennootschap die is aangewezen voor het beheer van het landelijk hoogspanningsnet hebben direct noch indirect binding met een rechtspersoon die de productie, aankoop of levering van gas of elektriciteit verricht of met een aandeelhouder van die rechtspersoon.
-3. Indien de vennootschap die is aangewezen voor het beheer van het landelijk hoogspanningsnet een afhankelijke maatschappij is in de zin van artikel 152 of artikel 262 van Boek 2 van het Burgerlijk Wetboek is het eerste lid niet van toepassing.
-4. In het in het derde lid bedoelde geval:
-a. voldoet een rechtspersoon waarvan de netbeheerder van het landelijk hoogspanningsnet een afhankelijke maatschappij is aan de in het eerste tot en met derde lid genoemde eisen;
-b. beschikt de raad van commissarissen van de rechtspersoon, bedoeld in onderdeel a, waarvan de netbeheerder van het landelijk hoogspanningsnet een afhankelijke maatschappij is over de bevoegdheden tot goedkeuring van de besluiten van het bestuur van de netbeheerder van het landelijk hoogspanningsnet, bedoeld in artikel 164, eerste lid, of artikel 274, eerste lid, van Boek 2 van het Burgerlijk Wetboek.
