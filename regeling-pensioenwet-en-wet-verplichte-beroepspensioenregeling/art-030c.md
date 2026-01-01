@@ -1,0 +1,5 @@
+# Artikel 30c. Normen haalbaarheidstoets
+1. Bij de aanvangshaalbaarheidstoets mag het verschil in procentpunten tussen het verwacht pensioenresultaat op fondsniveau vanuit de financiële positie dat precies aan de vereisten van het vereist eigen vermogen wordt voldaan en de daarbij door het fonds gekozen ondergrens niet kleiner zijn dan het verschil in procentpunten tussen het verwacht pensioenresultaat op fondsniveau vanuit de feitelijke financiële positie en de daarbij door het fonds gekozen ondergrens.
+2. De maximale afwijking, bedoeld in artikel 22, derde lid, onderdeel d, van het Besluit financieel toetsingskader pensioenfondsen, drukt het fonds uit als een percentage dat de afwijking ten opzichte van het verwachte pensioenresultaat op fondsniveau aangeeft.
+3. De onderbouwing van de haalbaarheidstoets is gedegen en biedt voldoende inzicht in onder meer de gebruikte gegevens, veronderstellingen, grondslagen en modellering.
+4. Het fonds stelt procedures vast voor de uitvoering, vaststelling en verantwoording van de haalbaarheidstoets.
