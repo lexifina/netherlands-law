@@ -1,0 +1,7 @@
+# Artikel 26e
+1. Aan degene aan wie reeds een certificaat praktijktrainer nascholing is afgegeven wordt op aanvraag door het CBR tegen betaling van het door die instantie ter zake van de kosten van het certificaat praktijktrainer nascholing vastgestelde tarief een vervangend of nieuw certificaat praktijktrainer nascholing afgegeven.
+2. Een vervangend certificaat praktijktrainer nascholing wordt afgegeven voor de resterende geldigheidsduur van het reeds afgegeven certificaat praktijktrainer nascholing.
+3. Een nieuw certificaat praktijktrainer nascholing wordt afgegeven als de aanvrager opnieuw een cursus als bedoeld in artikel 26a, tweede lid, onderdeel b, heeft gevolgd en opnieuw het examen praktijktrainer nascholing met goed gevolg heeft afgelegd.
+4. De einddatum van de geldigheidsduur van het nieuwe certificaat praktijktrainer nascholing is:
+a. de einddatum die is vermeld op het reeds afgegeven certificaat praktijktrainer nascholing vermeerderd met vijf jaar, indien het examen praktijktrainer nascholing is afgelegd in de twaalf maanden voorafgaand aan de einddatum die is vermeld op het reeds afgegeven certificaat praktijktrainer nascholing;
+b. de datum waarop het examen praktijktrainer nascholing met goed gevolg is afgelegd vermeerderd met vijf jaar, indien het examen praktijktrainer nascholing is afgelegd meer dan twaalf maanden voorafgaand aan of na de einddatum die is vermeld op het reeds afgegeven certificaat praktijktrainer nascholing.
