@@ -1,0 +1,3 @@
+# B. Toelaatbare waarde voor vrij ventileren (AVFL)
+1. De toelaatbare waarde voor vrij ventileren (AVFL) van een ladingtank is gedefinieerd als de dampconcentratie in de ladingtank waaronder het vrijkomen van de dampen in de atmosfeer toelaatbaar is.
+2. De dampconcentratie wordt overeenkomstig de in het ADN voorziene methoden, meettechnieken en meetapparatuur gemeten op een representatief punt in de leiding die loopt van de ladingtank naar de ontvangstinrichting voor dampen of op de punten in de ladingtank die door de deskundige als geëigend worden beschouwd. De meting vindt plaats bij standaardomstandigheden en wordt na 30 minuten herhaald. In de losverklaring wordt onder nummer 21 bevestigd dat de aldus gemeten waarde onder de grenswaarde lag.
