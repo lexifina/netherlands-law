@@ -1,0 +1,3 @@
+# Artikel 14a. Voortwenteling niet verrekende belasting bij bemanningsleden van zee- of luchtvaartuigen in het internationale verkeer
+1. Het bedrag van de in een jaar vanwege andere Mogendheden geheven belasting, bedoeld in artikel 13a, dat door de toepassing van het tweede lid, onderdeel b, of het vierde lid van dat artikel, niet leidt tot een vermindering van inkomstenbelasting over dat jaar, wordt aangemerkt als vanwege andere Mogendheden geheven belasting van het daaropvolgende jaar. Deze voortwenteling vindt alleen plaats indien het naar het volgend jaar over te brengen bedrag door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
+2. Artikel 14, tweede en derde lid, is van overeenkomstige toepassing.

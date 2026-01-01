@@ -1,0 +1,7 @@
+# Artikel 13a. Verrekening buitenlandse belasting bij bemanningsleden van zee- of luchtvaartuigen in het internationale verkeer
+1. Aan een binnenlandse belastingplichtige wordt, ter verrekening van vanwege een andere Mogendheid geheven belasting naar het inkomen, een vermindering van inkomstenbelasting verleend voor het in het inkomen uit werk en woning begrepen belastbare loon ter zake van een dienstbetrekking uitgeoefend aan boord van een zee- of luchtvaartuig in het internationale verkeer dat wordt geëxploiteerd door een onderneming waarvan de werkelijke leiding is gevestigd in een andere Mogendheid.
+2. Het bedrag van de in het eerste lid bedoelde vermindering is het laagste van de volgende bedragen:
+a. het bedrag van de in het desbetreffende jaar vanwege de andere Mogendheid geheven belasting;
+b. het bedrag dat tot de belasting die in het desbetreffende jaar zonder de toepassing van dit besluit volgens de Wet inkomstenbelasting 2001 over het belastbare inkomen uit werk en woning verschuldigd zou zijn, in dezelfde verhouding staat als het bedrag van de in dat jaar volgens het eerste lid in aanmerking te nemen loon, staat tot het noemerinkomen.
+3. Artikel 10, vierde, vijfde en zevende lid, is van overeenkomstige toepassing.
+4. De vermindering volgens dit artikel bedraagt, met inachtneming van de verminderingen volgens andere regelen ter voorkoming van dubbele belasting en volgens artikel 10, ten hoogste het bedrag aan berekende belasting over het belastbare inkomen uit werk en woning.

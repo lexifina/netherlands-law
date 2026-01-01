@@ -1,0 +1,2 @@
+# Artikel 25a. Voortwenteling niet verrekende belasting
+Het bedrag van de in een jaar vanwege andere Mogendheden geheven belasting, bedoeld in artikel 25, dat door de toepassing van het vierde lid van dat artikel niet leidt tot een vermindering van inkomstenbelasting over dat jaar, wordt aangemerkt als vanwege andere Mogendheden geheven belasting van het daaropvolgende jaar. Deze voortwenteling vindt alleen plaats indien het naar het volgend jaar over te brengen bedrag door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.

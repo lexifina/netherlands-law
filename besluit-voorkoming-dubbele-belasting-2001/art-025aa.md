@@ -1,0 +1,2 @@
+# Artikel 25aa. Voorkoming van dubbele belasting bij toepassing tegenbewijsregeling
+Indien in een jaar het belastbare inkomen uit sparen en beleggen wordt bepaald met inachtneming van afdeling 5.6 van de Wet inkomstenbelasting 2001, vindt hoofdstuk 2, afdeling 4, paragraaf 1, in dat jaar geen toepassing en wordt de vermindering van belasting bij buitenlands voordeel uit sparen en beleggen vastgesteld met inachtneming van deze paragraaf.
