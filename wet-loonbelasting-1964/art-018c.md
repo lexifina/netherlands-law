@@ -3,3 +3,4 @@
 2. Een wezenpensioen bedraagt voor volle wezen niet meer dan 40% van het laatstgenoten pensioengevend loon.
 3. Een wezenpensioen wordt verzekerd op risicobasis.
 4. Een wezenpensioen gaat niet eerder in dan op de eerste dag van de kalendermaand waarin de werknemer of gewezen werknemer is overleden en gaat niet later in dan op de eerste dag van de maand volgend op de kalendermaand waarin de werknemer of gewezen werknemer is overleden.
+5. Een wezenpensioen eindigt niet later dan op de laatste dag van de kalendermaand waarin de wees de leeftijd van 25 jaar heeft bereikt.

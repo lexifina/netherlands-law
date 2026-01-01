@@ -1,4 +1,4 @@
 # Artikel 3a
-1. In afwijking van artikel 2:14, eerste lid, van de Algemene wet bestuursrecht wordt in het verkeer tussen belastingplichtigen of inhoudingsplichtigen en de inspecteur of het bestuur van 's Rijks belastingen een bericht uitsluitend elektronisch verzonden.
+1. In afwijking van de artikelen 2:7, tweede lid, en 2:8 van de Algemene wet bestuursrecht wordt in het verkeer tussen belastingplichtigen, inhoudingsplichtigen, administratieplichtigen of algemeen nut beogende instellingen en de inspecteur of het bestuur van 's Rijks belastingen een bericht uitsluitend elektronisch verzonden.
 2. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze waarop het elektronische berichtenverkeer plaatsvindt.
-3. Bij ministeriële regeling kunnen berichten en groepen van belastingplichtigen of inhoudingsplichtigen worden aangewezen waarvoor, alsmede omstandigheden worden aangewezen waaronder, het berichtenverkeer kan plaatsvinden anders dan langs elektronische weg.
+3. Bij ministeriële regeling kunnen berichten en groepen van belastingplichtigen inhoudingsplichtigen of administratieplichtigen, of algemeen nut beogende instellingen worden aangewezen waarvoor, alsmede omstandigheden worden aangewezen waaronder, het berichtenverkeer kan plaatsvinden anders dan langs elektronische weg.

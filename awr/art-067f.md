@@ -4,4 +4,4 @@
 3. Bij niet of gedeeltelijk niet betalen legt de inspecteur de boete op, gelijktijdig met de vaststelling van de naheffingsaanslag.
 4. De bevoegdheid tot het opleggen van de boete wegens niet tijdig betalen, vervalt door verloop van vijf jaren na het einde van het kalenderjaar waarin de belastingschuld is ontstaan.
 5. Artikel 67e, derde lid, is van overeenkomstige toepassing.
-6. Artikel 20, eerste lid, tweede volzin, en tweede lid, tweede volzin, is van overeenkomstige toepassing.
+6. Artikel 20, eerste lid, tweede zin, en tweede lid, is van overeenkomstige toepassing.
