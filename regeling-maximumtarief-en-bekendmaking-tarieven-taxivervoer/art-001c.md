@@ -1,0 +1,14 @@
+# Artikel 1c
+1. De vervoerder biedt de consument na afloop van het verrichte taxivervoer een automatisch gegenereerd schriftelijk ritbewijs aan, waarop tenminste de volgende gegevens staan vermeld:
+a. informatie over de door de vervoerder toegepaste tarieven, gebaseerd op de in artikel 1, eerste, vijfde en zesde lid, bedoelde bedragen;
+b. de gereden afstand uitgedrukt in kilometers tot tenminste één cijfer achter de komma nauwkeurig;
+c. het begintijdstip en het eindtijdstip van de rit uitgedrukt in uren en minuten, alsmede de datum van het begintijdstip van de rit;
+d. de totaalprijs op basis van de in onderdeel a bedoelde tarieven;
+e. het personenvervoernummer dat staat aangegeven op de vergunning, bedoeld in artikel 76, eerste lid, van de Wet personenvervoer 2000;
+f. het kenteken van de auto waarmee het taxivervoer is verricht;
+g. de naam, het adres en telefoonnummer van de vervoerder en, indien deze gegevens afwijken van de instantie die de klachten over het taxivervoer in behandeling neemt, het adres, de naam, en telefoonnummer van de instantie waarmee de vervoerder is overeengekomen dat klachten over taxivervoer door deze instantie in behandeling worden genomen.
+2. Met uitzondering van het taxivervoer dat op de openbare weg wordt aangeboden, kan het ritbewijs, bedoeld in het eerste lid, in plaats van schriftelijk, langs elektronische weg duidelijk kenbaar aan de consument worden aangeboden.
+3. Het eerste lid is van overeenkomstige toepassing indien sprake is van een vast tarief als bedoeld in artikel 1, derde lid.
+4. De in het eerste en tweede lid bedoelde weergave van de aldaar genoemde informatie dient duidelijk kenbaar en in overeenstemming met de werkelijkheid te zijn en, voor zover van toepassing, een nauwgezette en rechtstreekse weergave te zijn van de relevante gegevens die de basis zijn voor de werking van de in artikel 127 dan wel artikel 78 van het Besluit personenvervoer 2000 bedoelde taxameter dan wel voor de werking van de in artikel 79 van dat besluit bedoelde boordcomputer.
+5. Het eerste lid is niet van toepassing, indien sprake is van in artikel 81, tweede lid, van de Wet personenvervoer 2000 bedoeld vervoer.
+6. Indien door de taxivervoerder en de consument toepassing wordt gegeven aan artikel 1, vijfde of zesde lid, dan wel sprake is van taxivervoer met meerdere personen met meerdere opstapadressen dan wel meerdere bestemmingen, wordt het daarmee verbandhoudende tarief met de daarmee verbandhoudende eindprijs voor de betrokken consument ofwel vermeld op het in het eerste lid bedoelde totale ritbewijs ofwel op een afzonderlijk ritbewijs. Het laatstbedoelde ritbewijs mag tevens handgeschreven zijn mits duidelijk leesbaar en kenbaar, en mag voor de in dit lid bedoelde onderwerpen deel uitmaken van het in het eerste lid bedoelde ritbewijs.
