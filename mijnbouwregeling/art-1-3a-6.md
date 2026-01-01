@@ -1,0 +1,4 @@
+# Artikel 1.3a.6
+1. De vergunninghouder van het Groningenveld verricht metingen naar bodemdaling.
+2. De vergunninghouder van het Groningenveld stelt een keer per kalenderjaar op 1 februari een analyse op over de gemeten bodemdaling en de verwachte bodemdaling van de aankomende dertig jaar en verstrekt deze aan de minister en de inspecteur-generaal der mijnen.
+3. Indien de analyse, bedoeld in het tweede lid, duidt op een tot op heden onverwachte ontwikkeling in bodemdaling verricht de vergunninghouder van het Groningenveld een aanvullende analyse waarin nader onderzoek wordt gedaan naar de geofysische oorzaken, gevolgen en risico's van deze ontwikkeling. Deze analyse ziet op zowel de korte termijn van vijf jaar als de lange termijn van dertig jaar. De vergunninghouder verstrekt de analyse binnen een jaar na de analyse, bedoeld in het tweede lid, aan de minister en de inspecteur-generaal der mijnen.
