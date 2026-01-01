@@ -1,0 +1,2 @@
+# Artikel 8k
+Na afloop van de in de artikelen 8i en 8j bedoelde bijeenkomsten, onderscheidenlijk nadat de zorgaanbieder heeft gereageerd op de door de gemeenten, de voorzitter van de veiligheidsregio en de inwoners naar voren gebrachte visies, wensen en zorgen, informeert de zorgaanbieder de Inspectie, het traumacentrum, zorgaanbieders voor wie de voorgenomen beëindiging of opschorting gevolgen kan hebben en alle zorgverzekeraars over een door de zorgaanbieder opgesteld ontwerp van het continuïteitsplan.
