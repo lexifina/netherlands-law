@@ -1,0 +1,2 @@
+# Artikel 17 bis. Risicomodel
+Op basis van de minimale verplichte punten uit de verordening en aanvullende punten wordt er jaarlijks door Skal op basis van een risicomodel een risicoclassificatie gemaakt. De uitgangspunten van het risicomodel zijn te vinden op de website van Skal. De uitkomst van de berekening door het risicomodel geeft een rangschikking van de gecertificeerde exploitanten. Exploitanten die rechtstreeks aan consumenten verkopen vallen in de categorie "Verkoop aan consumenten".

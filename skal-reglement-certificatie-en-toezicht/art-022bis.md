@@ -1,0 +1,10 @@
+# Artikel 22 bis. Herstel non-conformiteiten (NC's)
+Een NC wordt, afhankelijk van de ernst, op onderstaande wijze afgehandeld.
+1. De exploitant moet elke NC zo snel mogelijk aantoonbaar corrigeren, uiterlijk binnen de door Skal gestelde herstelperiode. Skal kan een kortere periode opleggen waarbinnen de NC gecorrigeerd moet zijn.
+Een NC wordt opgeheven indien de exploitant de NC afdoende heeft gecorrigeerd (door middel van een corrigerende maatregel en zo mogelijk correctie) en dit door Skal is geverifieerd en akkoord bevonden.
+In een individueel geval kan bij zeer bijzondere omstandigheden de opgelegde termijn om een NC te corrigeren door Skal worden verlengd.
+2. Bij een NC kan de verplichting worden opgelegd de biologische aanduidingen te verwijderen van of deze niet aan te brengen op de afwijkende producten.
+3. Skal kan bij een ernstige of kritieke NC overwegen een Tuchtrechtelijke Verklaring (TV) aan te zeggen, zie artikel 25 in dit reglement.
+4. Skal kan een herinspectie uitvoeren ter verificatie van de opgelegde verplichting aanduidingen te verwijderen en/of ter verificatie van de naleving of opvolging van de maatregel en/of correctie.
+5. Indien binnen 24 maanden na constatering van de eerste, een tweede of dezelfde kritieke NC wordt geconstateerd, kan Skal het bio-certificaat van de exploitant opschorten of intrekken, conform artikel 23 en 24 van dit reglement, en/of een aanvraag voor het verstrekken of uitbreiden van bio-certificaat afwijzen dan wel gedurende een maximumtermijn van 24 maanden buiten behandeling stellen. Dit geldt ook indien tegelijkertijd twee kritieke NC's worden geconstateerd. Skal zal, nadat het besluit tot intrekking van het bio-certificaat onherroepelijk is geworden, de informatie met betrekking tot de intrekking actief publiceren op haar website.
+6. Een bio-certificaat wordt slechts verstrekt c.q. uitgebreid, indien bij het toelatingsonderzoek is vastgesteld dat geen NC's (meer) aanwezig zijn. Indien bij het toelatingsonderzoek een NC wordt geconstateerd zal dus geen bio-certificaat worden verstrekt of uitgebreid, totdat deze NC is opgeheven.
