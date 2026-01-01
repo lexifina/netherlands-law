@@ -1,0 +1,11 @@
+# Artikel 5a. Openbaarmaking gegevens niet-topfunctionarissen
+1. De verantwoordelijke vermeldt in het financieel verslaggevingsdocument van eenieder in dienstbetrekking van wie de bezoldiging niet reeds op grond van artikel 5 in het financieel verslaggevingdocument is opgenomen en van wie de bezoldiging van zijn functie of functies de maximale bezoldiging, bedoeld in artikel 2.3, eerste lid, te boven is gegaan, de volgende gegevens:
+a. de functie of functies;
+b. de omvang van het dienstverband in het boekjaar, uitgedrukt, voor zover kleiner dan 1 fte, als rekenkundig op drie decimalen afgeronde deeltijdfactor met een maximum van 1 fte;
+c. de beloning plus de belastbare onkostenvergoedingen;
+d. de voorzieningen ten behoeve van beloningen betaalbaar op termijn;
+e. de bezoldiging, zijnde de som van de in de onderdelen c en d vermelde componenten.
+2. Het eerste lid is van overeenkomstige toepassing wanneer een dienstbetrekking een kleinere omvang heeft dan het bij de verantwoordelijke gebruikelijke voltijds dienstverband, terwijl de bezoldiging meer bedraagt dan de maximale bezoldiging bedoeld in artikel 2.3, eerste lid, van de wet, vermenigvuldigd met het aantal uren waarop de dienstbetrekking betrekking heeft en gedeeld door het aantal uren van een voltijds dienstverband.
+3. In aanvulling op het eerste lid vermeldt de verantwoordelijke in het financieel verslaggevingsdocument tevens de in het eerste lid genoemde gegevens over het kalenderjaar voorafgaand aan het jaar waarop de verplichting in het eerste en tweede lid betrekking heeft.
+4. In de gevallen bedoeld in het eerste en tweede lid motiveert de verantwoordelijke in het financieel verslaggevingsdocument de overschrijding van de maximale bezoldiging, bedoeld in artikel 2.3 van de wet.
+5. In afwijking van het eerste lid, aanhef en onderdeel e, kan het totale bedrag worden vermeld van de premies of bijdragen van de werkgever, bedoeld in artikel 2, eerste lid, onderdelen q en r, die bij wijze van uitgestelde financiering voldaan worden in de vorm van inkoop van pensioenafspraken als bedoeld in artikel 4 van het Uitvoeringsbesluit pensioenaspecten sociaal akkoord 2004, alsmede het aantal niet-topfunctionarissen dat het betreft.

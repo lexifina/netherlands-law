@@ -1,0 +1,2 @@
+# Artikel 5e. Openbaarmaking gegevens gewezen topfunctionaris
+Ten aanzien van het financieel verslaggevingsdocument dat betrekking heeft op het kalenderjaar 2017 is artikel 5, eerste lid, onderdelen a tot en met j, tweede tot en met vijfde lid, zesde lid, aanhef en onderdeel a, van overeenkomstige toepassing op de gewezen topfunctionaris als bedoeld in artikel 4.1, eerste tot en met vierde lid, van de wet, zoals dat artikel luidde op 31 december 2017.

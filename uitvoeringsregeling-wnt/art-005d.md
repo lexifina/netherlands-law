@@ -1,0 +1,9 @@
+# Artikel 5d. Herstel van fouten die na vaststelling van het financieel verslaggevingsdocument worden geconstateerd
+1. De verantwoordelijke herstelt een fout in de gegevens die op grond van de artikelen 5 en 5a openbaar moeten worden gemaakt die na vaststelling van het financieel verslaggevingsdocument over het betreffende boekjaar worden geconstateerd, voor zover het een fout betreft:
+a. in een verantwoorde bezoldiging of uitkering wegens beëindiging van het dienstverband over het voorafgaande boekjaar, groter dan € 5.000;
+b. inhoudende het onterecht niet vermelden in de WNT-verantwoording over het voorafgaande boekjaar van (gegevens van) een topfunctionaris;
+c. inhoudende het onterecht vermelden in de verantwoording over het voorafgaande boekjaar van de in artikel 5 bedoelde gegevens die betrekking hebben op een functionaris die geen topfunctionaris is;
+d. die leidt tot (wijzigingen in) een onverschuldigde betaling in enig boekjaar.
+2. De verantwoordelijke corrigeert de in het eerste lid bedoelde fout in het eerstvolgende financieel verslaggevingsdocument en licht de verschillen met het eerder vastgestelde financieel verslaggevingsdocument alsmede de oorzaak van de fout toe.
+3. In het geval de fout niet leidt tot (wijzigingen in) een onverschuldigde betaling vermeldt de verantwoordelijke dat in de in het tweede lid bedoelde toelichting.
+4. In het geval de fout leidt tot (wijzigingen in) een onverschuldigde betaling vermeldt de verantwoordelijke de op het moment van vaststellen van het verantwoordingsdocument de nog niet aan de instelling terugbetaalde bedragen, of, indien op het moment van vaststellen van het financieel verslaggevingsdocument volledige terugbetaling aan de instelling heeft plaatsgevonden, het feit dat deze terugbetaling volledig heeft plaatsgevonden. In het geval de fout leidt tot een verlaging van een onverschuldigde betaling mag een nadere toelichting achterwege blijven.
