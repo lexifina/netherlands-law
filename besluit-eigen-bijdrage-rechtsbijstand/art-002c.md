@@ -1,0 +1,2 @@
+# Artikel 2c
+Indien artikel 13 of 22 van het Besluit vergoedingen rechtsbijstand 2000 van toepassing is, is de rechtzoekende, met inachtneming van artikel 2, negende lid, opnieuw een eigen bijdrage verschuldigd waarvan de hoogte gelijk is aan de eigen bijdrage die de rechtzoekende verschuldigd is voor de toevoeging, tenzij het bestuur op grond van artikel 6, eerste of tweede lid, geen eigen bijdrage heeft opgelegd.
