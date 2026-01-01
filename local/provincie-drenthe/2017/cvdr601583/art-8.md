@@ -1,5 +1,0 @@
-# Artikel 8.. Niet-subsidiabele kosten
-Onverminderd het bepaalde in artikel 1.13 van de Verordening zijn de navolgende kosten niet subsidiabel:
-a. kosten voor de ontwikkeling van nieuwe kennis;
-b. kosten voor cursussen of stages die deel uitmaken van normale programma's of leergangen van het reguliere onderwijs;
-c. inbreng van eigen uren door landbouwers om aan de kennisoverdrachtsactiviteit deel te nemen.
