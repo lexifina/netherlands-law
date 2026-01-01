@@ -1,0 +1,4 @@
+# Artikel 2a
+1. Degene tot wie het verbod van onderscheid zich richt, draagt daarnaast tenminste geleidelijk zorg voor de algemene toegankelijkheid voor personen met een handicap of chronische ziekte, tenzij dat voor hem een onevenredige belasting vormt.
+2. Onverminderd het bepaalde bij of krachtens enige wettelijke bepaling, worden bij algemene maatregel van bestuur regels gesteld ter uitvoering van het eerste lid. Deze regels hebben in ieder geval betrekking op de geleidelijke verwezenlijking van de algemene toegankelijkheid, op het treffen van voorzieningen van eenvoudige aard en op de evenredigheid van de belasting.
+3. De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
