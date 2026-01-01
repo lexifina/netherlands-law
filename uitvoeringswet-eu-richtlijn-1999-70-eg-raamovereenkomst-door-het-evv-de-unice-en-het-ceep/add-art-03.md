@@ -1,0 +1,3 @@
+# Artikel III
+1. In geval een natuurlijke persoon, rechtspersoon of bevoegd gezag een ander onder zijn gezag arbeid laat verrichten, anders dan krachtens arbeidsovereenkomst naar burgerlijk recht of ambtelijke aanstelling, zijn de artikelen 649 en 657 van Boek 7 van het Burgerlijk Wetboek van overeenkomstige toepassing.
+2. Het eerste lid is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat artikel 657 van Boek 7 van het Burgerlijk Wetboek niet van toepassing is bij een ter beschikking gestelde arbeidskracht als bedoeld in artikel 1 van de Wet op het ter beschikking stellen arbeidskrachten BES.
