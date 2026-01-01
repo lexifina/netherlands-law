@@ -1,0 +1,2 @@
+# Artikel 35f
+De rechterlijk ambtenaar wordt ontslagen in geval van aanvaarding van een benoeming als minister of staatssecretaris. Ontslag als bedoeld in de eerste volzin wordt verleend met ingang van de dag van het aanvaarden van de benoeming. In afwijking van artikel 35 kan ontslag als bedoeld in de eerste volzin worden verleend zonder voorafgaand advies hierover of voorstel hiervoor van de functionele autoriteit.

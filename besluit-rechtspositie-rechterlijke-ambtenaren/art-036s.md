@@ -1,0 +1,2 @@
+# Artikel 36s
+Aan de herplaatsingskandidaat kan een premie ter grootte van maximaal drie maandsalarissen in het vooruitzicht worden gesteld, indien aan hem binnen 18 maanden nadat hij is aangewezen als herplaatsingskandidaat ontslag op eigen verzoek als bedoeld in artikel 35a, eerste lid, indien het een niet voor het leven benoemde rechterlijk ambtenaar betreft, dan wel ontslag op eigen verzoek als bedoeld in artikel 46h, eerste lid, van de wet, indien het een voor het leven benoemde rechterlijk ambtenaar betreft, is verleend.

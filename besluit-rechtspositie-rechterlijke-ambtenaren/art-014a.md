@@ -1,0 +1,3 @@
+# Artikel 14a
+1. Indien een geschil bestaat tussen de rechterlijk ambtenaar en diens functionele autoriteit over het al dan niet bestaan van ongeschiktheid tot werken wegens ziekte, kan de rechterlijk ambtenaar of diens functionele autoriteit het UWV verzoeken een onderzoek in te stellen en een oordeel te geven als bedoeld in artikel 32, eerste lid, van de Wet Suwi.
+2. De kosten van het onderzoek, bedoeld in het eerste lid, komen voor rekening van het in artikel 9 bedoelde gezag. Eventuele reis- en verblijfkosten van de rechterlijk ambtenaar worden hem vergoed overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.

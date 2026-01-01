@@ -1,0 +1,2 @@
+# Artikel 38b
+Indien de rechterlijk ambtenaar een vaste vergoeding ontvangt uit hoofde van de functie waarvoor hem op grond van artikel 38d, eerste of tweede lid, buitengewoon verlof met behoud van bezoldiging is verleend, wordt door het in artikel 38d, eerste en tweede lid, bedoelde gezag op zijn bezoldiging met betrekking tot de uren dat hij dit verlof geniet een inhouding toegepast. Onze Minister stelt nadere regels ter uitvoering van het bepaalde in de eerste volzin.

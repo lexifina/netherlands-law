@@ -1,0 +1,3 @@
+# Artikel 36g
+1. De vertegenwoordigers van de Nederlandse Vereniging voor Rechtspraak en van de andere door Onze Minister tot het overleg toegelaten verenigingen of centrales van verenigingen van ambtenaren, bedoeld in artikel 1ac, eerste lid, van de wet, worden tijdig geïnformeerd over een voorgenomen besluit tot een reorganisatie. Zij kunnen Onze Minister of het gerechtsbestuur verzoeken om overleg over het voorgenomen besluit of onderdelen daarvan, indien het een belangrijke reorganisatie betreft.
+2. De betrokken ondernemingsraden worden tijdig geïnformeerd over een voorgenomen besluit tot een reorganisatie.

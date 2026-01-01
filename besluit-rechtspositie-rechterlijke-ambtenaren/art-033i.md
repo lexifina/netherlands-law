@@ -1,0 +1,2 @@
+# Artikel 33i
+Indien een gerecht of parket op een daartoe aangewezen kerkelijke of nationale, landelijk, regionaal of plaatselijk erkende feest- of gedenkdag is gesloten, geniet de rechterlijk ambtenaar die bij het desbetreffende gerecht of parket werkzaam is, verlof met behoud van bezoldiging, voor zover het belang van de dienst zich daartegen naar het oordeel van de functionele autoriteit niet verzet.

@@ -1,0 +1,4 @@
+# Artikel 36v
+1. De rechterlijk ambtenaar aan wie ontslag op eigen verzoek wordt verleend in verband met de aanvaarding van een functie elders dan bij een parket of gerecht, of anderszins buiten het gezagsbereik van Onze Minister, heeft op grond van dat ontslag aanspraak op een uitkering overeenkomstig het Besluit bovenwettelijke uitkeringen bij werkloosheid van rechterlijke ambtenaren.
+2. Het bepaalde in het eerste lid geldt slechts indien de rechterlijk ambtenaar is aangewezen als herplaatsingskandidaat als bedoeld in de artikelen 36h en 36i en hij binnen twee jaar na de aanvaarding van een functie elders dan bij een parket of gerecht, of anderszins buiten het gezagsbereik van Onze Minister, anders dan door zijn schuld of toedoen wordt ontslagen.
+3. Indien de rechterlijk ambtenaar terzake van zijn ontslag ingevolge het tweede lid recht heeft op een uitkering krachtens de Werkloosheidswet wordt de in het eerste lid bedoelde uitkering met die uitkering verminderd.

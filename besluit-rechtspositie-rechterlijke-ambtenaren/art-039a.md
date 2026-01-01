@@ -1,0 +1,4 @@
+# Artikel 39a
+1. Over aangelegenheden van algemeen belang voor de rechtstoestand – met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd – van de rechterlijke ambtenaren, wordt niet beslist dan nadat daarover door Onze Minister overleg is gevoerd met de Sectorcommissie rechterlijke macht, bedoeld in artikel 1ac, eerste lid, van de wet.
+2. Het eerste lid is niet van toepassing ten aanzien van de regelingen, bedoeld in artikel 39aa, een en ander voor zover in het overleg over deze regelingen niet is voorzien in een bevoegdheid om aanvullende of afwijkende voorzieningen te treffen ten behoeve van rechterlijke ambtenaren.
+3. Over algemene aangelegenheden met betrekking tot de rechtspleging wordt door Onze Minister overleg gevoerd met de Sectorcommissie rechterlijke macht, indien hierom door een of meer leden van de Sectorcommissie rechterlijke macht of Onze Minister wordt verzocht.

@@ -1,0 +1,4 @@
+# Artikel 8e
+1. Op het salaris van de rechterlijk ambtenaar, van wie zowel een verzoek als bedoeld in artikel 6, eerste lid, als een verzoek als bedoeld in artikel 8d, eerste of tweede lid, is ingewilligd, wordt een korting toegepast ter grootte van het voor hem geldende percentage, bedoeld in artikel 6, vierde lid, opgeteld met het voor hem geldende percentage, bedoeld in artikel 8d, zesde lid.
+2. Bij de in het eerste lid bedoelde korting wordt een korting van 5% opgeteld, indien het maximum salaris, dat verbonden is aan het ambt waarin de rechterlijk ambtenaar wordt benoemd, lager is dan het naast lagere maximum salaris van dat van het ambt waarin hij daaraan voorafgaand was benoemd.
+3. De korting, bedoeld in het eerste en tweede lid, wordt teruggebracht tot 70% van 5% onderscheidenlijk 10% van het salaris voor zover op grond van artikel 17, tweede lid, 70% van de bezoldiging wordt doorbetaald.

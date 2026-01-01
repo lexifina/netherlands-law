@@ -1,0 +1,4 @@
+# Artikel 27b
+1. De rechterlijk ambtenaar of de gewezen rechterlijk ambtenaar, die een dienstongeval heeft gehad of een beroepsziekte heeft opgelopen, heeft recht op volledige vergoeding van de schade die hij ten gevolge van dat dienstongeval of die beroepsziekte lijdt, indien het dienstongeval of de beroepsziekte voortvloeit uit een gevaarzettende situatie die rechtstreeks verband houdt met het vervullen van zijn ambt waaraan hij zich vanwege zijn specifieke werkzaamheden niet heeft kunnen onttrekken.
+2. In overeenstemming met de gewezen rechterlijk ambtenaar kan de vergoeding, bedoeld in het eerste lid, mede strekken ter vervanging van de aanvullende uitkering, bedoeld in artikel 18, vierde lid.
+3. Toekenning van de schadevergoeding, bedoeld in het eerste en tweede lid, geschiedt door het in artikel 9 bedoelde gezag, met dien verstande dat artikel 38e, tweede en derde lid, van overeenkomstige toepassing is.

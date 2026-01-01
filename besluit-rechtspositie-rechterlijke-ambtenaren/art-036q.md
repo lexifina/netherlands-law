@@ -1,0 +1,8 @@
+# Artikel 36q
+1. De herplaatsingskandidaat die slechts in een passende functie kan worden herplaatst na om-, her- of bijscholing kan hiertoe worden verplicht voor zover dat redelijkerwijs van hem kan worden gevergd.
+2. Aan de rechterlijk ambtenaar die op grond van het eerste lid verplicht is om scholing te volgen, wordt een volledige vergoeding van de noodzakelijk te maken scholingskosten toegekend. In bijzondere gevallen kan worden afgeweken van de vorige volzin.
+3. Aan de herplaatsingskandidaat kan scholingsverlof met behoud van bezoldiging worden verleend.
+4. De rechterlijk ambtenaar die op grond van het eerste lid verplicht is om scholing te volgen, kan worden verplicht tot terugbetaling van de aan hem toegekende vergoeding van de scholingskosten:
+a. bij onvoldoende resultaat in de scholing of bij tussentijds afbreken van de scholing, indien dit aan eigen schuld of toedoen van de rechterlijk ambtenaar is te wijten;
+b. bij ontslag tijdens het volgen van de scholing en in bijzondere gevallen bij ontslag binnen een termijn van maximaal drie jaren na het met voldoende resultaat afronden van de scholing, tenzij de rechterlijk ambtenaar binnen een maand na zijn ontslag elders dan bij een parket of gerecht, of anderszins buiten het gezagsbereik van Onze Minister, in dienst treedt, of aansluitend op zijn ontslag recht heeft op een uitkering op grond van werkloosheid, arbeidsongeschiktheid of ouderdomspensioen.
+5. De verplichting tot terugbetaling wordt niet opgelegd aan de rechterlijk ambtenaar aan wie binnen 18 maanden nadat hij is aangewezen als herplaatsingskandidaat ontslag op eigen verzoek wordt verleend wegens de aanvaarding van een functie elders dan bij een parket of gerecht, of anderszins buiten het gezagsbereik van Onze Minister.

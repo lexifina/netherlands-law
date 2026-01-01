@@ -1,0 +1,4 @@
+# Artikel 2i
+1. Het bestuur van een gerechtshof of een rechtbank houdt een register bij, waarin de besluiten betreffende de benoeming van de daar beëdigde rechterlijke ambtenaren en de formulieren betreffende de door die rechterlijke ambtenaren afgelegde eed of belofte worden bewaard.
+2. Een uittreksel uit dat register, inclusief het formulier betreffende de eed of belofte, wordt aan de rechterlijk ambtenaar uitgereikt.
+3. De griffier van de Hoge Raad houdt een afzonderlijk register bij, waarin de benoeming van rechterlijke ambtenaren bij de Hoge Raad en het parket bij de Hoge Raad wordt ingeschreven. Tevens houdt hij een register bij, waarin de besluiten betreffende de benoeming van de ten overstaan van de president van de Hoge Raad beëdigde rechterlijke ambtenaren en de formulieren betreffende de door die rechterlijke ambtenaren afgelegde eed of belofte worden bewaard.

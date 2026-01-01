@@ -1,0 +1,3 @@
+# Artikel 39h
+1. De leden, de plaatsvervangende leden en de secretaris van de Advies- en Arbitragecommissie, die bij de uitoefening van hun taak de beschikking krijgen over gegevens waarvan zij het vertrouwelijk karakter kennen of redelijkerwijs moeten vermoeden, zijn, voor zover voor hen niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hen tot bekendmaking verplicht of uit hun taak de noodzaak tot bekendmaking voortvloeit.
+2. De Advies- en Arbitragecommissie stelt bij reglement nadere regels vast met betrekking tot haar werkwijze.

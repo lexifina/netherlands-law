@@ -1,0 +1,3 @@
+# Artikel 39f
+1. De Advies- en Arbitragecommissie treedt in geval van advies of arbitrage met betrekking tot een geschil als bedoeld in artikel 39e, eerste lid, op in een samenstelling van vijf leden, onder wie de voorzitter en de twee door Onze Minister benoemde leden. Bij verhindering van een lid treedt diens plaatsvervanger op.
+2. Indien het verzoek om arbitrage naar het oordeel van de voorzitter een zelfde geschil betreft als waarover door de Advies- en Arbitragecommissie reeds advies is uitgebracht, treedt voor een lid dat bij het uitbrengen van dat advies was betrokken, diens plaatsvervanger op.

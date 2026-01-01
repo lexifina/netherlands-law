@@ -1,0 +1,7 @@
+# Artikel 39ab
+1. Voorstellen strekkende tot invoering, wijziging of intrekking van regelingen die aangelegenheden betreffen waarop artikel 39a, eerste lid, betrekking heeft en waaraan individuele rechterlijke ambtenaren rechten kunnen ontlenen dan wel die plichten voor hen kunnen meebrengen, worden slechts ten uitvoer gebracht indien daarover overeenstemming bestaat met de Sectorcommissie rechterlijke macht.
+2. Het eerste lid is niet van toepassing op voorstellen strekkende tot:
+a. invoering of wijziging van een wettelijke regeling die betrekking heeft op alle burgers of alle werknemers, waaronder begrepen de rechterlijke ambtenaren;
+b. invoering of wijziging van een wettelijke regeling voor de rechterlijke ambtenaren met een overeenkomstige inhoud als een voorstel tot invoering of wijziging van een wettelijke regeling die betrekking heeft op werknemers die krachtens arbeidsovereenkomst als bedoeld in artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek werkzaam zijn;
+c. vantoepassingverklaring op de rechterlijke ambtenaren van een wettelijke regeling die betrekking heeft op werknemers die krachtens arbeidsovereenkomst als bedoeld in artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek werkzaam zijn en met die vantoepassingverklaring samenhangende wijzigingen in voor rechterlijke ambtenaren geldende regelingen, een en ander mits het totaal van rechten en plichten van de rechterlijke ambtenaren over het geheel beoordeeld niet ongunstiger wordt; of
+d. implementatie van verplichtingen voortvloeiend uit een internationaal verdrag.

@@ -1,0 +1,2 @@
+# Artikel 36ac
+Op de voor het leven benoemde rechterlijk ambtenaar, die in het kader van een reorganisatie op eigen verzoek wordt benoemd in een andere functie bij een gerecht of elders binnen het gezagsbereik van Onze Minister dan wel voor wie in het kader van een reorganisatie de vaststelling van het gerecht waar hij zijn functie vervult op eigen verzoek wordt gewijzigd, zijn de artikelen 36n, 36q, en 36r van overeenkomstige toepassing.

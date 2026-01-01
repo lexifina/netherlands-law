@@ -1,0 +1,7 @@
+# Artikel 39c
+1. Indien tijdens het overleg over een voorstel als bedoeld in artikel 39a, eerste lid, de voorzitter onderscheidenlijk een of meer leden van de Sectorcommissie tot het oordeel komt dat het overleg niet tot een uitkomst zal leiden die de instemming van alle deelnemers aan het overleg zal hebben, brengt diegene dat oordeel binnen drie dagen nadat daarvan in het overleg blijk is gegeven, schriftelijk ter kennis aan de leden van de Sectorcommissie onderscheidenlijk aan de voorzitter en de overige leden van de Sectorcommissie.
+2. Binnen vijf dagen na de kennisgeving, bedoeld in het eerste lid, schrijft de voorzitter een bijzondere vergadering uit. De vergadering wordt gehouden binnen zeven dagen nadat zij is uitgeschreven. In deze vergadering wordt nagegaan of:
+a. het overleg wordt voortgezet of wordt beëindigd; en
+b. overeenstemming bestaat over het onderwerp en de inhoud van het geschil, en of een oplossing van dat geschil zal worden gezocht door middel van voortzetting van het overleg nadat het advies is ingewonnen van de Advies- en Arbitragecommissie dan wel door middel van onderwerping van het geschil aan een arbitrale uitspraak van diezelfde commissie.
+3. Tot het inwinnen van advies, bedoeld in het tweede lid, onderdeel b, is zowel de voorzitter van het overleg als de Sectorcommissie bevoegd.
+4. Voor het onderwerpen van het geschil aan een arbitrale uitspraak, bedoeld in het tweede lid, onderdeel b, is overeenstemming vereist tussen de deelnemers aan het overleg.

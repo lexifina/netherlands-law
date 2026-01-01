@@ -1,0 +1,5 @@
+# Artikel 36aa
+1. Aan de niet voor het leven benoemde rechterlijk ambtenaar kan in het kader van een reorganisatie ontslag worden verleend, indien het niet mogelijk is gebleken om hem te herplaatsen in een passende functie.
+2. Aan de niet voor het leven benoemde rechterlijk ambtenaar die in het kader van een reorganisatie is herplaatst kan alsnog het ontslag, bedoeld in het eerste lid, worden verleend indien binnen een periode van uiterlijk één jaar te rekenen vanaf de datum waarop hij in een functie is herplaatst, blijkt dat de desbetreffende functie niet passend is voor die rechterlijk ambtenaar en het niet mogelijk is om de rechterlijk ambtenaar binnen een redelijke termijn in een andere passende functie te plaatsen.
+3. Ontslag als bedoeld in het eerste lid gaat niet eerder in dan na het verstrijken van een termijn van drie maanden, te rekenen vanaf de dag van ontslagverlening.
+4. Artikel 36z, derde lid, is van overeenkomstige toepassing met betrekking tot ontslag als bedoeld in het eerste en tweede lid.

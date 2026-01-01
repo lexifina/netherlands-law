@@ -1,0 +1,9 @@
+# Artikel 36k
+1. Aan de niet voor het leven benoemde rechterlijk ambtenaar wordt binnen een periode van 18 maanden, te rekenen vanaf het moment dat hij is aangewezen als herplaatsingskandidaat, ten minste één passende functie aangeboden. Het vorenstaande laat het gestelde in artikel 36aa, eerste lid, onverlet.
+2. De termijn, bedoeld in het eerste lid, kan worden verkort indien:
+a. de herplaatsingskandidaat heeft geweigerd te voldoen aan een hem op grond van dit hoofdstuk opgelegde verplichting, of;
+b. reeds eerder in overleg met herplaatsingskandidaat binnen de termijn kan worden vastgesteld dat er geen mogelijkheden zijn om de herplaatsingskandidaat te herplaatsen.
+3. De termijn kan worden verlengd of opgeschort, indien de omstandigheden naar het oordeel van Onze Minister onderscheidenlijk, indien het een senior-gerechtsauditeur of gerechtsauditeur betreft, het gerechtsbestuur daartoe aanleiding geven.
+4. De rechterlijk ambtenaar, bedoeld in het eerste lid, wordt gelijktijdig met zijn aanwijzing als herplaatsingskandidaat geïnformeerd over de aanvang en het einde van de termijn als bedoeld in het eerste lid.
+5. De herplaatsingskandidaat wordt geïnformeerd over het verkorten, verlengen of opschorten van de termijn, bedoeld in het tweede en het derde lid.
+6. Op verzoek van de herplaatsingskandidaat wordt de termijn, bedoeld in het eerste lid, met maximaal een jaar verlengd indien de herplaatsingskandidaat bij het einde van deze termijn, in combinatie met de duur van de bovenwettelijke uitkering, de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, nog niet heeft bereikt en, in geval van ontslag, door deze verlenging recht ontstaat op een bovenwettelijke uitkering op grond van artikel 2, tweede lid, van het Besluit bovenwettelijke uitkeringen bij werkloosheid van rechterlijke ambtenaren.

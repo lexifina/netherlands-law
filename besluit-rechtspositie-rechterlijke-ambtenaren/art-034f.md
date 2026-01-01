@@ -1,0 +1,2 @@
+# Artikel 34f
+Een rechterlijk ambtenaar is van rechtswege geschorst indien en voor zolang hij krachtens wettelijke maatregel van zijn vrijheid is beroofd, tenzij de vrijheidsbeneming het gevolg is van een maatregel in het belang van de volksgezondheid, anders dan op grond van de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten of de Wet verplichte geestelijke gezondheidszorg.
