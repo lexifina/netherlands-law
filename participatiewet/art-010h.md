@@ -1,5 +1,5 @@
 # Artikel 10h. Werkvoorzieningen visueel beperkten
-1. Het Uitvoeringsinstituut werknemersverzekeringen heeft tot taak personen als bedoeld in artikel 7, eerste lid, onderdeel a, met een visuele beperking te ondersteunen bij de arbeidsinschakeling door middel van het bekostigen van werkvoorzieningen.
+1. Het Uitvoeringsinstituut werknemersverzekeringen heeft tot taak personen als bedoeld in de artikelen 7, eerste lid, onderdeel a, of 7a, eerste lid, onderdeel a, met een visuele beperking te ondersteunen bij de arbeidsinschakeling door middel van het bekostigen van werkvoorzieningen.
 2. Onder werkvoorzieningen als bedoeld in het eerste lid worden uitsluitend verstaan:
 a. vervoersvoorzieningen die ertoe strekken de werkplek, proefplaats of opleidingslocatie te bereiken;
 b. intermediaire activiteiten;

@@ -1,5 +1,5 @@
 # Artikel 10g. Tolkvoorzieningen
-1. Het Uitvoeringsinstituut werknemersverzekeringen heeft tot taak personen als bedoeld in artikel 7, eerste lid, onderdeel a, met een auditieve beperking te ondersteunen bij de arbeidsinschakeling door middel van het bekostigen van tolkvoorzieningen.
+1. Het Uitvoeringsinstituut werknemersverzekeringen heeft tot taak personen als bedoeld in de artikelen 7, eerste lid, onderdeel a, of 7a, eerste lid, onderdeel a, met een auditieve beperking te ondersteunen bij de arbeidsinschakeling door middel van het bekostigen van tolkvoorzieningen.
 2. Het Uitvoeringsinstituut werknemersverzekeringen kan op aanvraag van personen als bedoeld in het eerste lid of het college een tolkvoorziening toekennen en voor die personen bekostigen.
 3. Bij algemene maatregel van bestuur kunnen nadere regels gesteld worden over:
 a. de omvang en de inhoud van de aanspraak, bedoeld in het tweede lid;

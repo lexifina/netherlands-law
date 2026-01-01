@@ -1,6 +1,6 @@
 # Artikel 8a. Verordeningen re-integratievoorzieningen en tegenprestatie
 1. De gemeenteraad stelt bij verordening regels met betrekking tot:
-a. het ondersteunen bij arbeidsinschakeling en het aanbieden van voorzieningen gericht op arbeidsinschakeling, bedoeld in artikel 7, eerste lid, onderdeel a, en artikel 10, eerste lid;
+a. het ondersteunen bij arbeidsinschakeling en het aanbieden van voorzieningen gericht op arbeidsinschakeling, bedoeld in artikel 7, eerste lid, onderdeel a, artikel 7a en artikel 10, eerste lid;
 b. het opdragen van een tegenprestatie als bedoeld in artikel 9, eerste lid, onderdeel c;
 c. de scholing of opleiding, bedoeld in artikel 10a, vijfde lid;
 d. de premie, bedoeld in artikel 10a, zesde lid;
