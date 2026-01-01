@@ -1,0 +1,2 @@
+# Artikel 2b
+Voor zover een onderdeel van de professionele standaard niet in overeenstemming is met de eisen die zijn gesteld bij of krachtens artikel 1.4, derde lid, van de Wet elektronische gegevensuitwisseling in de zorg, hoeven zorgaanbieders en zorgverleners, in afwijking van artikel 2, tweede lid, onderdeel b, uitsluitend te handelen in overeenstemming met dat onderdeel dat onderdeel van een kwaliteitsstandaard is.

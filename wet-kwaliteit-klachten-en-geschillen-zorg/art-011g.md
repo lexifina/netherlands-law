@@ -1,0 +1,5 @@
+# Artikel 11g
+1. Het Zorginstituut stelt vast voor welke vormen van zorg een kwaliteitsstandaard of een meetinstrument nodig is dan wel een overeenkomstig artikel 11a in het openbaar register opgenomen kwaliteitsstandaard of meetinstrument wijziging behoeft. Hierbij bevordert het Zorginstituut de verspreiding van goede voorbeelden op het gebied van patiëntveiligheid.
+2. Het Zorginstituut stelt een tijdstip vast waarop de kwaliteitsstandaard of het meetinstrument, bedoeld in het eerste lid, moet zijn opgesteld onderscheidenlijk aangepast.
+3. Indien op het in het tweede lid bedoelde tijdstip geen kwaliteitsstandaard of meetinstrument is opgesteld onderscheidenlijk aangepast, kan het Zorginstituut de Adviescommissie Kwaliteit verzoeken binnen een nader te bepalen termijn hiervoor zorg te dragen en over de aldus opgestelde onderscheidenlijk aangepaste kwaliteitsstandaard overleg te plegen met relevante tripartiete partijen.
+4. Het Zorginstituut bevordert de ontwikkeling van de kwaliteit van zorg en het door zorgaanbieders aanbieden van goede zorg als bedoeld in artikel 2, tweede lid.

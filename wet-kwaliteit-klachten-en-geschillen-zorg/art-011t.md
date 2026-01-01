@@ -1,0 +1,9 @@
+# Artikel 11t
+1. In afwijking van artikel 11l, vierde lid, kan het Zorginstituut een kwaliteitsregistratie voor een door het Zorginstituut te bepalen periode van ten hoogste twee jaren onder daarbij gestelde voorwaarden voorwaardelijk opnemen in het register voor kwaliteitsregistraties.
+2. Een besluit als bedoeld in het eerste lid kan worden genomen als is voldaan aan de volgende voorwaarden:
+a. er is ten aanzien van de kwaliteitsregistratie nog niet voldaan aan het bepaalde bij of krachtens artikel 11o; en
+b. er zijn voldoende aanwijzingen dat de kwaliteitsregistratie, binnen de periode van voorwaardelijke opname zal kunnen voldoen aan de voorwaarden, bedoeld in artikel 11o.
+3. Het Zorginstituut neemt het besluit, bedoeld in het eerste lid, niet dan nadat organisaties als bedoeld in artikel 11o, eerste lid, onderdeel d, in de gelegenheid zijn gesteld om hun zienswijze te geven.
+4. Als de registratiehouder niet voldoet aan de voorwaarden die op grond van het eerste lid zijn verbonden aan de voorwaardelijke opname in het register voor kwaliteitsregistraties is artikel 11m, tweede lid, van overeenkomstige toepassing.
+5. Bij ministeriële regeling worden kwaliteitsregistraties, voor zover deze geheel of gedeeltelijk, betrekking heeft op zorg die wordt geleverd door zorgaanbieders die medisch specialistische zorg leveren en geen betrekking heeft op Wlz-zorg of geneeskundige zorg zoals klinisch-psychologen of psychiaters die plegen te bieden, aangewezen die voorwaardelijk kunnen worden opgenomen in het register voor kwaliteitsregistraties als bedoeld in het eerste lid.
+6. Indien een kwaliteitsregistratie voorwaardelijk in het register is opgenomen, verstrekken zorgaanbieders alleen de in artikel 11p, eerste lid, bedoelde gegevens indien zij deze gegevens reeds verstrekten aan de desbetreffende kwaliteitsregistratie voordat de kwaliteitsregistratie in het register voor kwaliteitsregistraties was opgenomen.

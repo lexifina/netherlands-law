@@ -1,0 +1,7 @@
+# Artikel 11q
+1. Een zorgaanbieder verstrekt van zijn cliënten kosteloos gegevens, waaronder gegevens waarop een wettelijke geheimhoudingsplicht rust en persoonsgegevens, waaronder gegevens over gezondheid, genetische gegevens of persoonsgegevens waaruit ras of etnische afkomst blijken, aan de registratiehouder, of onder diens verantwoordelijkheid werkzame verwerker, indien en voor zover:
+a. de zorgaanbieder valt onder een categorie van zorgaanbieders die op grond van de omschrijving in het register voor kwaliteitsregistraties bedoeld in artikel 11o, eerste lid, onderdeel f, onder 7°, aan die kwaliteitsregistratie gegevens moet verstrekken;
+b. de gegevens betrekking hebben op cliënten die op grond van de omschrijving in het register voor kwaliteitsregistraties bedoeld in artikel 11o, eerste lid, onderdeel f, onder 6°, vallen binnen de cliëntenpopulatie van die kwaliteitsregistratie; en
+c. de gegevens vallen onder de omschrijving van gegevens die op grond van de omschrijving in het register voor kwaliteitsregistraties door die registratiehouder mogen worden verwerkt.
+2. Een zorgverlener of opdrachtnemer die direct of indirect onder de verantwoordelijkheid van een in het eerste lid bedoelde zorgaanbieder werkzaam is, verschaft die zorgaanbieder ten behoeve van de in dat lid bedoelde verstrekking toegang tot de gegevens die de zorgaanbieder op grond van dat lid moet verstrekken.
+3. Een zorgaanbieder als bedoeld in het eerste lid, past op de in dat lid bedoelde gegevens pseudonimisering toe, alvorens de gegevens te verstrekken.

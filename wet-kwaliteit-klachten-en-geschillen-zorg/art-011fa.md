@@ -1,0 +1,3 @@
+# Artikel 11fa
+1. Voor de toepassing van de artikelen 11b, eerste lid, en 11f, eerste lid, wordt Onze Minister voor Rechtsbescherming gelijkgesteld met een organisatie van zorgverzekeraars of Wlz-uitvoerders voor zover het de voordracht van een kwaliteitsstandaard of een meetinstrument voor forensische zorg betreft.
+2. Op de voordracht van een kwaliteitsstandaard en een meetinstrument voor forensische zorg zijn de artikelen 11b, tweede lid, onder a, b en d, en derde tot en met vijfde lid, 11c, 11d en 11f, tweede tot en met vierde lid, van overeenkomstige toepassing, met dien verstande dat onder collectieve zorguitgaven worden begrepen de uitgaven voor forensische zorg en onder Onze Minister de Minister voor Rechtsbescherming.

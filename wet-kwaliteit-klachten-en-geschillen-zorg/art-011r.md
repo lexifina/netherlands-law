@@ -1,0 +1,3 @@
+# Artikel 11r
+1. Bij algemene maatregel van bestuur kunnen in aanvulling op artikel 11o, eerste lid, regels worden gesteld over de voorwaarden waaraan een kwaliteitsregistratie dient te voldoen met betrekking tot de rechten van cliënten en de uitoefening daarvan.
+2. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het verwijderen of overdragen van gegevens uit een kwaliteitsregistratie die niet langer actief is of niet langer in het register voor kwaliteitsregistraties is opgenomen, of uit een kwaliteitsregistratie wiens verwerkingsverantwoordelijke ingrijpende veranderingen doormaakt of dreigt door te maken.
