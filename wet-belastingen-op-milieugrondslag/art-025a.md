@@ -8,7 +8,7 @@ b. de beschikking op grond van het derde lid is ingetrokken.
 Een ambtshalve afgegeven beschikking als bedoeld onder b vervangt voor de toepassing van artikel 25, derde lid, de op grond van het derde lid ingetrokken beschikking met ingang van het tijdstip waarop de belasting verschuldigd wordt ingevolge artikel 26, aanhef en onderdeel c.
 5. Onze Minister van Infrastructuur en Waterstaat verstrekt de gegevens van de beschikking, bedoeld in artikel 25, derde lid, aan de inspecteur ten behoeve van de belastingheffing.
 6. Bij of krachtens op voordracht van Onze Ministers vast te stellen algemene maatregel van bestuur worden regels gesteld omtrent:
-a. de wijze van indiening van de aanvraag, bedoeld in het eerste lid, waarbij in afwijking van de artikelen 2:14, eerste lid, en 2:15 van de Algemene wet bestuursrecht kan worden bepaald dat de aanvraag geheel of gedeeltelijk elektronisch wordt ingediend of in ontvangst wordt genomen;
+a. de wijze van indiening van de aanvraag, bedoeld in het eerste lid, waarbij in afwijking van de artikelen 2:7, tweede lid, en 2:8 van de Algemene wet bestuursrecht kan worden bepaald dat de aanvraag geheel of gedeeltelijk elektronisch wordt ingediend of in ontvangst wordt genomen;
 b. de gegevens die de kennisgever verstrekt bij de aanvraag, bedoeld in het eerste lid;
 c. de wijze waarop de kennisgever gehouden is zijn administratie te voeren;
 d. de inhoud en het afgeven van de beschikking, bedoeld in artikel 25, derde lid;
