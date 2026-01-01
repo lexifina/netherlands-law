@@ -1,0 +1,2 @@
+# Artikel II
+Het subsidieplafond van het Reglement Stimuleringsmaatregel Filmproductie in Nederland voor high end series voor het kalenderjaar 2026 is € 9.500.000,– (zegge: negenmiljoenvijfhonderdduizend euro) verdeeld over drie aanvraagrondes (€ 3.200.000,– (zegge: driemiljoen tweehonderdduizend euro) per aanvraagronde). Voor de eerste aanvraagronde is € 400.000,– (zegge: vierhonderdduizend euro) extra beschikbaar door de toevoeging van resterende subsidiemiddelen uit 2025.
