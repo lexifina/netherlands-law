@@ -1,0 +1,3 @@
+# Artikel 84g
+1. Een eigenaar van een niet-productie-installatie en een exploitant van een productie-installatie nemen binnen een bij ministeriële regeling vast te stellen termijn op basis van het advies van de onafhankelijke verificateur passende maatregelen en reageren op het advies van de onafhankelijke verificateur.
+2. Een eigenaar van een niet-productie-installatie en een exploitant van een productie-installatie stellen het Staatstoezicht op de Mijnen in kennis van het advies van de onafhankelijke verificateur en de reactie op het advies, binnen een bij ministeriële regeling vast te stellen termijn.

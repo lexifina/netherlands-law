@@ -1,0 +1,4 @@
+# Artikel 136a
+1. Op een aanvraag als bedoeld in artikel 143, achtste lid, eerste volzin, van de wet van de houder van een winningsvergunning wijzigt Onze Minister de winningsvergunning door van het gebied waarop die vergunning betrekking heeft, af te splitsen een gebiedsdeel dat de vergunninghouder wil doen overgaan op een ander en verleent Onze Minister aan deze vergunninghouder een winningsvergunning voor het afgesplitste gebiedsdeel.
+2. De op grond van het eerste lid verleende winningsvergunning voor een afgesplitst gebiedsdeel geldt tezamen met de winningsvergunning waarvan dat deel is afgesplitst voor hetzelfde gebied als waarvoor de winningsvergunning voorafgaand aan de afsplitsing geldt.
+3. Het tijdvak waarvoor de op grond van het eerste lid te verlenen vergunning geldt, eindigt op het tijdstip waarop het tijdvak van de winningsvergunning waarvan dat deel is afgesplitst eindigt.
