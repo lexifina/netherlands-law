@@ -1,0 +1,11 @@
+# Artikel 4a.1.1
+1. Een ingezetene als bedoeld in artikel 3a.1.1, eerste lid, van de wet, heeft, na aanvraag bij het UWV, recht op vergoeding van een bij ministeriële regeling vastgesteld aantal uren aan tolkdiensten over bij ministeriële regeling vast te stellen perioden.
+2. In afwijking van het ten hoogste beschikbare aantal uren, bedoeld in het eerste lid, kunnen meer uren door het UWV worden toegekend voor tolkdiensten bij activiteiten die in het belang zijn voor de deelname aan het maatschappelijke verkeer, indien:
+a. de ingezetene, bedoeld in het eerste lid, een onderbouwde aanvraag indient bij het UWV voor ondersteuning; en
+b. naar het oordeel van het UWV het aangevraagde aantal aanvullende uren in redelijke verhouding staat tot de bijdrage aan de mogelijkheden van de ingezetene, bedoeld in het eerste lid, tot deelname aan het maatschappelijk verkeer.
+3. De vergoeding, bedoeld in het eerste en tweede lid, wordt toegekend indien de ingezetene een verklaring heeft van de huisarts of behandeld medisch specialist, waaruit blijkt dat deze ingezetene op deze tolkdiensten is aangewezen. Deze verklaring wordt eenmalig gevraagd, tenzij het UWV op grond van artikel 73a van de Wet structuur uitvoeringsorganisatie werk en inkomen deze al heeft verkregen voor de uitvoering van aan het UWV opgedragen taken. Bij de uitvoering van dit artikel is het UWV bevoegd de verklaring te gebruiken, die het UWV heeft verkregen voor de uitvoering van aanspraken op tolkvoorzieningen op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, de Wet werk en inkomen naar arbeidsvermogen, de Wet overige OCW-subsidies en de Participatiewet.
+4. Het aantal toegekende uren, bedoeld in het eerste lid, kan verschillen per tolkvoorziening, waaronder tolkdiensten met behulp van telecommunicatiemiddelen, of per te onderscheiden doelgroep, waarbij in ieder geval wordt onderscheiden diegenen die zowel een auditieve als een visuele beperking hebben.
+5. De op grond van het tweede lid toegekende uren worden verrekend met de resterende uren waarop de ingezetene, bedoeld in het eerste lid, reeds recht heeft op grond van dat lid.
+6. Bij ministeriële regeling kunnen regels gesteld worden over:
+a. de gegevens die bij een aanvraag moeten worden ingediend;
+b. de declaratie van een vergoeding voor tolkvoorzieningen per tolkvoorziening.
