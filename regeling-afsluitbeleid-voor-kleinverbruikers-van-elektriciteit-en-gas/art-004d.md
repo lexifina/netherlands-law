@@ -1,3 +1,0 @@
-# Artikel 4d
-1. Indien de netbeheerder het transport van elektriciteit of gas aan de kleinverbruiker beëindigt, of hervat overeenkomstig artikel 4c, tweede lid, spant de netbeheerder zich in om in persoonlijk contact te treden met de kleinverbruiker teneinde deze voor het voldoen van vorderingen met een eenmalig karakter als bedoeld in artikel 95cb, eerste lid, van de Elektriciteitswet 1998 of artikel 44b, eerste lid, van de Gaswet een redelijke en passende betalingsregeling aan te bieden.
-2. De betalingsregeling omvat in ieder geval afspraken over de betaling en de afwikkeling van de openstaande vorderingen.

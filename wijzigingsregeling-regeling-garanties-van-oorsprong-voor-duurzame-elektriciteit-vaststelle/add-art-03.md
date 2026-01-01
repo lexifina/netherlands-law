@@ -1,3 +1,0 @@
-# Artikel III
-1. Artikel 1, eerste lid, onderdelen i en j, van de Regeling garanties van oorsprong voor duurzame elektriciteit zoals die luidden voor de inwerkingtreding van deze regeling, blijven van toepassing op producenten die subsidie ontvangen op grond van artikel 72m van de wet zoals dit 31 december 2007 luidde of op grond van artikel 2 van het Besluit stimulering duurzame energieproductie juncto artikel 29, eerste lid van de Regeling aanwijzing categorieën duurzame energieproductie 2008.
-2. Het in artikel I, onderdeel H, opgenomen artikel 6, zesde lid, onderdeel a, werkt terug tot en met 1 april 2008.

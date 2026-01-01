@@ -1,2 +1,0 @@
-# Artikel III
-Indien een producent vóór de inwerkingtreding van deze regeling de netbeheerder heeft verzocht om een vaststelling, bedoeld in artikel 16, eerste lid, onderdeel h, van de wet te verrichten, is de betreffende installatie na de inwerkingtreding van deze regeling een productie-installatie in de zin van artikel 1, eerste lid, onderdeel s, van de Regeling garanties van oorsprong voor duurzame elektriciteit dan wel artikel 1, eerste lid, onderdeel j, van de Regeling certificaten voor warmtekrachtkoppeling Elektriciteitswet 1998.
