@@ -12,7 +12,6 @@
 ### Paragraaf 4. Bezwaar, beroep en hoger beroep
 ### Paragraaf 5. Informatieverstrekking en informatie-uitwisseling
 ### Paragraaf 6. Bestuurlijke boete
-### Paragraaf 7. Openbaarmaking van het besluit tot oplegging van een vergrijpboete
 ## Hoofdstuk 3. Toezicht en opsporing
 ## Hoofdstuk 4. Bijzondere bepalingen
 ## Hoofdstuk 5. Slotbepalingen
