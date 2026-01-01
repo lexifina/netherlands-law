@@ -1,0 +1,2 @@
+# Artikel VI
+Voor de toepassing van artikel 38 van het Besluit bezoldiging politie blijft artikel 45a, eerste lid, van het Besluit bezoldiging politie, zoals dat luidde op de dag voor de datum van inwerkingtreding van artikel II, onderdeel S, van dit besluit, van toepassing op degenen die op die dag naast recht op doorbetaling bij ziekte op grond van artikel 38 van het Besluit bezoldiging politie aanspraak hebben op het arbeidsongeschiktheidspensioen, genoemd in artikel 1, eerste lid, onderdeel ee, van dat besluit.

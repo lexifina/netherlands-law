@@ -1,0 +1,7 @@
+# Artikel IV
+1. In 2021 wordt een eenmalige uitkering uitbetaald aan de ambtenaren, bedoeld in artikel 1, eerste lid onder b, c, d, e en f van het Besluit algemene rechtspositie politie, die op 1 januari 2021 of op 1 juli 2021 als zodanig zijn aangesteld.
+2. De in het eerste lid bedoelde uitkering is pensioengevend en bedraagt de som van bruto € 700 en netto € 50 voor de ambtenaar met een aanstelling op 1 januari 2021 en 1 juli 2021 van 36 uur of meer per week en een evenredig deel daarvan ingeval van een aanstelling van minder dan 36 uur per week.
+3. De in het eerste lid bedoelde uitkering is pensioengevend en bedraagt de som van bruto € 350 en netto € 25 in geval van een aanstelling op slechts een van de data, bedoeld in het tweede lid, van 36 uur of meer per week en een evenredig deel daarvan ingeval van een aanstelling van minder dan 36 uur per week.
+4. Indien de ambtenaar slechts een gedeelte van zijn bezoldiging geniet, heeft dit geen invloed op de hoogte van de eenmalige uitkering.
+5. Geen eenmalige uitkering ontvangen de ambtenaren bedoeld in het eerste lid, die op 1 januari 2021 en op 1 juli 2021 geen bezoldiging ontvingen in verband met buitengewoon onbezoldigd verlof. Indien dit verlof niet volledig genoten wordt, wordt de uitkering naar rato van de daadwerkelijke dienstverrichting berekend.
+6. De ambtenaar kan op eigen verzoek afzien van het bruto deel van de in het eerste lid bedoelde uitkering.
