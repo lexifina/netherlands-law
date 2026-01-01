@@ -1,0 +1,2 @@
+# Artikel 13d. Verwerken van registraties
+Voor het verwerken van registraties als bedoeld in artikel 3.30, tweede lid, onderdeel b, van het Besluit houders van dieren en artikel 2.9, eerste lid, van het Besluit diergeneeskundigen is de beheerder van een aangewezen elektronisch portaal als bedoeld in artikel 3.32 van het Besluit houders van dieren een retributie verschuldigd van € 1,033 per registratie.
