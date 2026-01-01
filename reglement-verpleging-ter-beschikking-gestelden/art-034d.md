@@ -1,0 +1,13 @@
+# Artikel 34d
+1. Het hoofd van de inrichting stelt de voorzitter van de commissie van toezicht, de raadsman van de verpleegde, de curator en de mentor in kennis van het voornemen tot een beslissing tot a-dwangbehandeling uiterlijk drie dagen voor het nemen van die beslissing. Zij worden in de gelegenheid gesteld bezwaren tegen de beslissing kenbaar te maken.
+2. De voorzitter van de commissie van toezicht doet onverwijld een melding aan de maandcommissaris. De maandcommissaris bezoekt na de melding onverwijld de verpleegde.
+3. Van de toepassing van een a-dwangbehandeling, b-dwangbehandeling, gedwongen geneeskundige handeling of voortzetting van a-dwangbehandeling wordt uiterlijk bij de aanvang van de behandeling melding gedaan aan Onze Minister en de commissie van toezicht. Ingeval van een a-dwangbehandeling, b-dwangbehandeling of ingeval een gedwongen geneeskundige handeling wordt toegepast in verband met een gevaar dat voortvloeit uit een stoornis van de geestvermogens van de verpleegde, wordt bovendien melding gedaan aan de inspecteur.
+4. Bij de aanvang van een a-dwangbehandeling geeft het hoofd van de inrichting daarvan eveneens kennis aan de in het eerste lid genoemde personen.
+5. Het hoofd van de inrichting zendt met de melding, bedoeld in het derde lid, een afschrift van de beslissing tot de behandeling mee waarin hij in ieder geval vermeldt:
+a. in verband met welk gevaar is besloten tot een a-dwangbehandeling, b-dwangbehandeling of een gedwongen geneeskundige handeling;
+b. welke minder bezwarende middelen zijn aangewend om het gevaar weg te nemen dan wel af te wenden;
+c. welke personen, bedoeld in artikel 16a, onder c, van de wet, zich tegen de behandeling verzetten;
+d. de wijze waarop rekening wordt gehouden met de voorkeuren van de verpleegde ten aanzien van de behandeling; en
+e. indien een behandeling plaatsvindt in een situatie waarin het de verpleegde is die zich verzet, of deze in staat kan worden geacht gebruik te kunnen maken van de regeling, vervat in de hoofdstukken XIV–XV respectievelijk XVI van de wet.
+6. Ingeval van een beslissing tot a-dwangbehandeling, b-dwangbehandeling of een beslissing tot voortzetting van a-dwangbehandeling, vermeldt het hoofd tevens welke pogingen zijn gedaan om tot overeenstemming als bedoeld in artikel 16a, onder b, van de wet te komen. In geval van een beslissing tot a-dwangbehandeling vermeldt hij bovendien welke bezwaren tegen de behandeling zijn aangevoerd door de personen, bedoeld in het eerste lid.
+7. Van een beëindiging van een a-dwangbehandeling, b-dwangbehandeling, of gedwongen geneeskundige handeling geeft het hoofd van de inrichting kennis aan de personen, genoemd in het derde en – indien van toepassing – vierde lid.

@@ -1,0 +1,2 @@
+# Artikel 34e
+De verantwoordelijke arts draagt zorg dat de melding van de toepassing van een a-dwangbehandeling, b-dwangbehandeling, gedwongen geneeskundige handeling of voorzetting van a-dwangbehandeling wordt opgenomen in het register als bedoeld in artikel 6 en in het verpleegdedossier. Hij draagt tevens zorg dat de resultaten van het overleg, bedoeld in artikel 33a, vierde lid, artikel 34, en artikel 34b, alsmede de adviezen die daarbij zijn gegeven en de afspraken die zijn gemaakt worden opgenomen in het verplegings- en behandelingsplan.
