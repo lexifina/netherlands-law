@@ -1,0 +1,6 @@
+# Artikel 1a. Nadere regels arbeidsongeschiktheidspensioen
+1. Voor zover een aanvulling op een vervolguitkering of een loonaanvullingsuitkering geen arbeidsongeschiktheidspensioen is als bedoeld in artikel 1 van de Pensioenwet of artikel 1 van de Wet verplichte beroepspensioenregeling, wordt deze aanvulling als arbeidsongeschiktheidspensioen in de zin van een van die artikelen aangemerkt indien:
+a. de aanvulling op de vervolguitkering niet varieert met inkomsten uit arbeid, tenzij de aanvulling hoger wordt vastgesteld indien de inkomsten uit arbeid toenemen;
+b. de aanvulling op de loonaanvullingsuitkering niet varieert met inkomsten uit arbeid, tenzij de aanvulling hoger wordt vastgesteld indien de inkomsten uit arbeid toenemen; of
+c. het een eenmalige aanvulling is die wordt verstrekt in verband met werkhervatting of werkuitbreiding.
+2. Het eerste lid is niet van toepassing op algemeen verbindend verklaarde bepalingen van collectieve arbeidsovereenkomsten die betrekking hebben op aanvullingen op een vervolguitkering of op een loonaanvullingsuitkering, indien het verzoek tot algemeen verbindend verklaring is ingediend voor de datum van inwerkingtreding van de Wet van 15 juli 2008 houdende enige wijzigingen van de Pensioenwet, de Wet verplichte beroepspensioenregeling en enige andere wetten.

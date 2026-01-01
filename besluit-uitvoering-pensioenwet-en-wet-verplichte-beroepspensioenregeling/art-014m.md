@@ -1,0 +1,4 @@
+# Artikel 14m. Onafhankelijkheid bestuursleden
+1. De geschilleninstantie heeft een onafhankelijk en naar behoren samengesteld bestuur.
+2. De onafhankelijkheid van het bestuur vereist ten minste dat de leden vanaf de aanvaarding van hun functie en gedurende een jaar voorafgaande aan de aanvaarding van hun functie niet werkzaam zijn of zijn geweest voor of enige functie bekleden of bekleed hebben bij een uitvoerder of een belangenvereniging voor uitvoerders.
+3. De bij de benoeming van bestuursleden te volgen procedure is schriftelijk vastgelegd. De procedure wordt ter goedkeuring aan Onze Minister voorgelegd.

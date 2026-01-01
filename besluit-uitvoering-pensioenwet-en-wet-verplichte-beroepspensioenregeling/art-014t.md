@@ -1,0 +1,11 @@
+# Artikel 14t. Risicohouding
+1. De uitvoerder die verantwoordelijk is voor de beleggingen legt de risicohouding vast waarop het beleggingsbeleid of de toedelingsregels zijn gebaseerd. De risicohouding wordt per leeftijdscohort vastgelegd.
+2. Een fonds stelt de risicohouding vast na overleg met de organen van het fonds. Een verzekeraar of premiepensioeninstelling streeft ernaar van de deelnemers, gewezen deelnemers, pensioengerechtigden of hun vertegenwoordigers zo veel mogelijk duidelijkheid te krijgen over hun doelstellingen en risicohouding.
+3. Het vaststellen van de risicohouding wordt gebaseerd op in ieder geval de uitkomsten van het risicopreferentie-onderzoek, deelnemerskenmerken en wetenschappelijke inzichten. De uitvoerder onderbouwt hoe en in welke mate deze elementen hebben bijgedragen aan de risicohouding.
+4. Bij het vaststellen van de risicohouding en het beleggingsbeleid voor deelnemers of gewezen deelnemers wordt voor ieder leeftijdscohort rekening gehouden met de duur van de periode tot aan de pensioendatum, waarbij het beleggingsrisico kleiner wordt naarmate de pensioendatum nadert.
+5. Een leeftijdscohort heeft een maximale omvang van vijf geboortejaren. In afwijking hiervan kan een leeftijdscohort betrekking hebben op een groter aantal geboortejaren indien de uitvoerder op basis van het risicopreferentie-onderzoek, de deelnemerskenmerken en wetenschappelijke inzichten onderbouwt dat dit in het belang is van de deelnemers, gewezen deelnemers, andere aanspraakgerechtigden of pensioengerechtigden.
+6. De vaststelling en toetsing van de risicohouding vindt plaats in vier fasen:
+a. het risicopreferentie-onderzoek;
+b. de weging van de informatie uit de bronnen risicopreferentie-onderzoek, deelnemerskenmerken en wetenschappelijke inzichten om tot vaststelling van de risicohouding te komen;
+c. de vormgeving van het beleggingsbeleid of toedelingsregels op basis van de vastgestelde risicohouding door een ALM analyse; en
+d. jaarlijkse toetsing op basis van een scenario-analyse of het beleggingsbeleid of de toedelingsregels passend zijn bij de vastgestelde risicohouding en aanpassing van het beleggingsbeleid of de toedelingsregels indien dat niet het geval is.

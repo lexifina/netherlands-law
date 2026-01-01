@@ -1,0 +1,2 @@
+# Artikel 14p. Instemming Minister
+Het reglement, de samenstelling van het bestuur en de voorzitters van organen belast met buitengerechtelijke geschillenbeslechting behoeven de goedkeuring van Onze Minister. Een geschilleninstantie kan voorgenomen wijzigingen in de samenstelling van het bestuur, de voorzitters van organen belast met buitengerechtelijke geschillenbeslechting of het reglement, bedoeld in artikel 14o, niet doorvoeren dan na instemming van Onze Minister.

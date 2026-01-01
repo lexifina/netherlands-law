@@ -1,0 +1,6 @@
+# Artikel 1e. Opheffing leenrestrictie
+1. Een uitvoerder die voor bepaalde leeftijdscohorten de leenrestrictie opheft en deze daarmee effectief blootstelt aan meer dan 100% beleggingsrisico, voor zover dit passend is bij de risicohouding van deze cohorten, onderbouwt waarom dit in het belang van de deelnemers is.
+2. Onder blootstelling aan meer dan 100% beleggingsrisico wordt verstaan: de effectieve blootstelling aan meer dan 100% zakelijke waardenrisico als bedoeld in artikel 13, achtste lid, van het Besluit financieel toetsingskader pensioenfondsen. Effectieve blootstelling houdt in dat wordt getoetst aan hoeveel beleggingsrisico's deelnemers worden blootgesteld, inclusief toepassing van toedeelregels.
+3. De uitvoerder legt regels vast waarin wordt beschreven op welke wijze negatieve pensioenvermogens of kapitalen worden voorkomen waarbij verdeelregels worden vastgesteld voor de verschillende bronnen.
+4. Voor de onderbouwing, bedoeld in het eerste lid, en de regels, bedoeld in het derde lid, maakt de uitvoerder gebruik van een stochastische ALM-analyse.
+5. De uitvoerder draagt er zorg voor dat de pensioenvermogens of kapitalen niet negatief zijn op 31 december van ieder jaar en bij beëindiging van de verwerving door de deelnemer op een ander tijdstip dan 31 december.

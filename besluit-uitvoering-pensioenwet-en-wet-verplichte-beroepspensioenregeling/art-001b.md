@@ -1,0 +1,2 @@
+# Artikel 1b. Intrekken samenlevingsverklaring
+Indien een samenlevingsverklaring als bedoeld in artikel 2a, tweede lid, of derde lid, onderdeel b, van de Pensioenwet dan wel artikel 2a, tweede lid, of derde lid, onderdeel b, van de Wet verplichte beroepspensioenregeling, wordt ingetrokken, informeert de uitvoerder de deelnemer, gewezen deelnemer, pensioengerechtigde, partner of gewezen partner die de samenlevingsverklaring heeft ondertekend hierover.

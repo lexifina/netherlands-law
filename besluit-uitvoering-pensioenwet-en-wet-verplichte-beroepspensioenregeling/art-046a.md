@@ -1,0 +1,16 @@
+# Artikel 46a. Communicatieplan
+1. De uitvoerder neemt in het communicatieplan op dat bij het informeren van de deelnemers, gewezen deelnemers, gewezen partners en pensioengerechtigden, naast de informatie, bedoeld in artikel 150j, tweede lid, van de Pensioenwet dan wel artikel 145i, tweede lid, van de Wet verplichte beroepspensioenregeling, in ieder geval ook het volgende wordt opgenomen:
+a. de persoonsgegevens van de deelnemer, gewezen deelnemer, gewezen partner of pensioengerechtigde;
+b. de naam en het contactadres van de uitvoerder;
+c. de peildatum waarop de informatie betrekking heeft;
+d. het karakter van de pensioenovereenkomst dan wel beroepspensioenregeling voor en na de peildatum;
+e. de pensioensoorten voor en na de peildatum, waarbij bij partnerpensioen onderscheid wordt gemaakt tussen partnerpensioen op opbouwbasis en partnerpensioen op risicobasis;
+f. de hoogte van de dekking van het nabestaandenpensioen voor en na de peildatum;
+g. uitleg over verschillen in bedragen voor en na de peildatum; en
+h. de doelgroepen, doelstellingen en de planning van de informatieverstrekking, waarbij in ieder geval de belangrijkste communicatiemomenten zijn opgenomen.
+2. De uitvoerder geeft verder informatie over het stellen van vragen aan de uitvoerder, over de interne klachtenprocedure van de uitvoerder en neemt een verwijzing op naar het pensioenregister.
+3. De uitvoerder legt de wijze waarop de pensioenuitvoerder omgaat met inkomende waarden in het kader van de collectieve waardeoverdracht, waaronder begrepen de wijze waarop wordt omgegaan met opgebouwde pensioenaanspraken en pensioenrechten, vast in het pensioenreglement.
+4. In geval de gewijzigde pensioenovereenkomst dan wel beroepspensioenregeling is ondergebracht bij een nieuwe uitvoerder, is de oude uitvoerder verplicht op verzoek van de nieuwe uitvoerder de relevante informatie tijdig te verstrekken.
+5. De uitvoerder dient het communicatieplan in bij de Stichting Autoriteit Financiële Markten en informeert de deelnemers, gewezen deelnemers, gewezen partners of pensioengerechtigden over de indiening en de inhoud van het communicatieplan en over het verdere proces. De verzekeraar of premiepensioeninstelling die gebruikt maakt van artikel 150i, vierde lid, onderdeel b, van de Pensioenwet, of artikel 145h, vierde lid, van de Wet verplichte beroepspensioenregeling, informeert de deelnemers, gewezen deelnemers, gewezen partners of pensioengerechtigden tijdig maar uiterlijk wanneer de gewijzigde pensioenovereenkomst of gewijzigde beroepspensioenregeling bekend is.
+6. Het door de uitvoerder verstrekken van informatie aan deelnemers, gewezen deelnemers, gewezen partners en pensioengerechtigden, bedoeld in artikel 150j, derde lid, van de Pensioenwet of artikel 145i, derde lid, van de Wet verplichte beroepspensioenregeling, vindt uiterlijk plaats één maand voor het tijdstip van overgang op uitvoering van een gewijzigde pensioenovereenkomst of beroepspensioenregeling, bedoeld in artikel 220i, tweede lid, van de Pensioenwet of artikel 214g, tweede lid, van de Wet verplichte beroepspensioenregeling.
+7. De Stichting Autoriteit Financiële Markten kan nadere regels stellen over de vormgeving en wijze van leveren van het communicatieplan.

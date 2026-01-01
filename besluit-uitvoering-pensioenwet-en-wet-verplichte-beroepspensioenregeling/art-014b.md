@@ -1,0 +1,4 @@
+# Artikel 14b. Beleggingsbeleid
+1. Fondsen stellen voor de langere termijn een strategisch beleggingsbeleid vast dat aansluit op de doelstellingen en beleidsuitgangspunten, waaronder de risicohouding, van het fonds. Verzekeraars en premiepensioeninstellingen stellen voor de langere termijn een strategisch beleggingsbeleid vast dat past bij de doelstellingen van de pensioenregeling of beroepspensioenregeling en de voor de toedelingskring vastgelegde risicohouding. Het strategisch beleggingsbeleid is gebaseerd op gedegen onderzoek.
+2. Artikel 13a, tweede tot en met vijfde lid, van het Besluit financieel toetsingskader pensioenfondsen is van overeenkomstige toepassing voor verzekeraars en premiepensioeninstellingen.
+3. De uitvoerder die werkt met beleggingsprofielen geeft binnen het strategisch beleggingsbeleid en het beleggingsplan invulling aan die beleggingsprofielen en onderbouwt voor ieder profiel dat het past binnen de prudent person regel.

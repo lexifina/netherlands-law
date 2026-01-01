@@ -1,0 +1,4 @@
+# Artikel 17b. Risicovrije rente, parameter aandelenrendement en prijsinflatie
+1. De risicovrije rente, bedoeld in artikel 63a, tweede, derde, zesde en zevende lid, van de Pensioenwet, artikel 75a, tweede, derde, zesde en zevende lid, van de Wet verplichte beroepspensioenregeling, en de artikelen 1ca, 1d en 17a, eerste en vierde lid, is de risicovrije rente voor fondsen.
+2. De parameter voor aandelenrendement, bedoeld in artikel 63a, tweede en derde lid, van de Pensioenwet, artikel 75a, tweede en derde lid, van de Wet verplichte beroepspensioenregeling, en artikel 17a, eerste en vierde lid, is gelijk aan de parameter, bedoeld in artikel 23a, eerste lid, onderdeel b, van het Besluit financieel toetsingskader pensioenfondsen.
+3. De prijsinflatie, bedoeld in artikel 17a, vierde lid, is gebaseerd op zoveel mogelijk objectieve marktinformatie.

@@ -1,0 +1,3 @@
+# Artikel 46g. Informatie over beoordeling verzoek tot collectieve waardeoverdracht
+1. Het fonds maakt uiterlijk voorafgaand aan de collectieve waardeoverdracht, bedoeld in artikel 150l, vierde lid, van de Pensioenwet dan wel artikel 145k, vierde lid, van de Wet verplichte beroepspensioenregeling, inzichtelijk waarom het fonds het verzoek tot collectieve waardeoverdracht van de werkgever of de beroepspensioenvereniging niet afwijst door middel van een kwalitatieve duiding van het niet overgaan op een dergelijke collectieve waardeoverdracht.
+2. Het fonds stelt de informatie, bedoeld in het eerste lid, op zijn website voor een ieder beschikbaar.
