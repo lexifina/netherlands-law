@@ -1,0 +1,3 @@
+# Artikel 1615da
+1. De arbeider die bij de uitvoering van de overeenkomst schade toebrengt aan de werkgever of aan een derde jegens wie de werkgever tot vergoeding van die schade is gehouden, is te dier zake niet jegens de werkgever aansprakelijk, tenzij de schade een gevolg is van zijn opzet of bewuste roekeloosheid. Uit de omstandigheden van het geval kan, mede gelet op de aard van de betreffende overeenkomst, anders voortvloeien dan in de vorige volzin is bepaald.
+2. Afwijking van het vorige lid en van artikel 170 lid 3 van Boek 6 ten nadele van de arbeider is slechts mogelijk bij schriftelijke overeenkomst en slechts voor zover de arbeider te dier zake is verzekerd.
