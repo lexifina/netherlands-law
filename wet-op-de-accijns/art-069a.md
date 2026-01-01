@@ -1,4 +1,4 @@
 # Artikel 69a
 1. Onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen wordt teruggaaf van accijns verleend voor minerale oliën die worden gebruikt voor de opwekking van elektriciteit in een installatie met een elektrisch vermogen van minimaal 60 kilowatt, voorzover de opgewekte elektriciteit wordt ingevoed op een Nederlands net dan wel, indien geen invoeding op een Nederlands net plaatsvindt, voorzover de opgewekte elektriciteit overeenkomstig artikel 50, derde lid, van de Wet belastingen op milieugrondslag in de heffing van energiebelasting wordt betrokken.
-2. Voor de toepassing van dit artikel wordt onder net verstaan een net als bedoeld in artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998.
+2. Voor de toepassing van dit artikel wordt onder net verstaan een transmissie- of distributiesysteem voor elektriciteit als bedoeld in artikel 1.1 van de Energiewet.
 3. Bij ministeriële regeling worden nadere regels gesteld ten behoeve van de uitvoering van dit artikel.
