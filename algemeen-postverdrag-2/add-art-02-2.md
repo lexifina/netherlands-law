@@ -1,0 +1,2 @@
+# Artikel II. Postzegels
+In afwijking van artikel 6.7 verwerken Australië, Maleisië, Nieuw-Zeeland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, briefpostzendingen en postpakketten voorzien van postzegels waarvoor gebruik is gemaakt van nieuwe materialen of technologieën die niet geschikt zijn voor hun onderscheiden postverwerkende machines uitsluitend na voorafgaande afstemming met de desbetreffende aangewezen aanbieder van herkomst.

@@ -1,0 +1,10 @@
+# Article V. Exception to the exemption of items for the blind from postal charges
+1. Notwithstanding article 16, Indonesia, Saint Vincent and the Grenadines and Turkey, which do not concede exemption from postal charges to items for the blind in their internal service, may collect the postage and charges for special services which may not, however, exceed those in their internal service.
+2. France shall apply the provisions of article 16 concerning items for the blind subject to its national regulations.
+3. Notwithstanding article 16.3, and in accordance with its national legislation, Brazil reserves the right to consider as items for the blind only those items which are sent by or addressed to blind persons or organizations for the blind. Items not satisfying these conditions shall be subject to payment of postage.
+4. Notwithstanding article 16, New Zealand will accept as items for the blind for delivery in New Zealand only those items that are exempted from postal charges in its domestic service.
+5. Notwithstanding article 16, Finland, which does not provide exemption from postal charges for items for the blind in its domestic service according to the definitions in article 16 adopted by Congress, may collect the domestic charges for items for the blind destined for other countries.
+6. Notwithstanding article 16, Canada, Denmark and Sweden allow exemption from postal charges for the blind only to the extent provided for in their internal legislation.
+7. Notwithstanding article 16, Iceland accepts exemption from postal charges for the blind only to the extent provided for in its internal legislation.
+8. Notwithstanding article 16, Australia will accept as items for the blind for delivery in Australia only those items that are exempted from postal charges in its domestic service.
+9. Notwithstanding article 16, Australia, Austria, Azerbaijan, Canada, Germany, Japan, Switzerland, United Kingdom of Great Britain and Northern Ireland and United States of America may collect the charges for special services which are applied items for the blind in their internal service.

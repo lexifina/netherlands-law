@@ -1,0 +1,2 @@
+# Article II. Postage stamps
+Notwithstanding article 6.7, Australia, Malaysia, New Zealand and the United Kingdom of Great Britain and Northern Ireland, will process letter-post items and postal parcels bearing postage stamps using new materials or technologies that are not compatible with their respective mail processing machines only upon prior agreement with the designated operator of origin concerned.

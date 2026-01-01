@@ -1,0 +1,5 @@
+# Artikel X. Aan douanerechten onderworpen voorwerpen
+1. Onder verwijzing naar artikel 19 aanvaarden de volgende lidstaten geen zendingen met waardeaangifte die aan douanerechten onderworpen voorwerpen bevatten: Bangladesh en El Salvador.
+2. Onder verwijzing naar artikel 19 aanvaarden de volgende lidstaten geen gewone of aangetekende brieven die aan douanerechten onderworpen voorwerpen bevatten: Afghanistan, Albanië, Azerbeidzjan, Belarus, Cambodja, Chili, Colombia, Cuba, El Salvador, Estland, Kazachstan, de Democratische Volksrepubliek Korea, Letland, Moldavië, Nepal, Oekraïne, Oezbekistan, Peru, de Russische Federatie, San Marino, Turkmenistan en (de Bolivariaanse Republiek) Venezuela.
+3. Onder verwijzing naar artikel 19 aanvaarden de volgende lidstaten geen gewone brieven die aan douanerechten onderworpen voorwerpen bevatten: Benin, Burkina Faso, Djibouti, (de Republiek) Ivoorkust, Mali en Mauritanië.
+4. Onverminderd het in 1 tot en met 3 bepaalde, worden serum- en vaccinzendingen, alsmede zendingen met dringend noodzakelijke en moeilijk verkrijgbare geneesmiddelen, te allen tijde toegelaten.
