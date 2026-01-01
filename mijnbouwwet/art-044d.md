@@ -1,0 +1,2 @@
+# Artikel 44d
+Indien een vergunning als bedoeld in de artikelen 6 en 25, een startvergunning aardwarmte of een vervolgvergunning aardwarmte haar geldigheid heeft verloren, rusten de verplichtingen van de artikelen 44 tot en met 44c op de laatste houder van die vergunning. Indien een vergunning als bedoeld in de artikelen 6 en 25 werd gehouden door meer dan een natuurlijke persoon of rechtspersoon, rusten de verplichtingen van de genoemde artikelen op de laatstelijk op grond van artikel 22 aangewezen persoon.
