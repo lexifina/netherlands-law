@@ -17,12 +17,11 @@ e. de artikelen 179, tweede lid, en 235, tweede lid, voor zover het betreft een 
 f. artikel 266, voor zover het betreft:
 1. een besluit tot weigering, wijziging of intrekking van de ontheffing
 2. een besluit tot verlening van de ontheffing voor zover daaraan voorschriften zijn verbonden dan wel daarbij beperkingen zijn opgelegd
-Elektriciteitswet 1998, met inbegrip van een besluit van de Autoriteit Consument en Markt, genomen op grond van de artikelen 36, 37, 41, 41c, 55, 56, tweede lid, en 57, derde en vierde lid, dat kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in artikel 8:3, eerste lid, van de Algemene wet bestuursrecht en met uitzondering van een besluit op grond van de artikelen 9b, vierde lid, 9c, derde lid, 9d, tweede en derde lid, 9e, vijfde lid, 9f, zesde lid, 20a, derde lid, 20b, derde lid, 20c, tweede en derde lid, 77h en 77i
-Gaswet, met inbegrip van een besluit van de Autoriteit Consument en Markt, genomen op grond van de artikelen 12f, 12g, 23, 24, tweede lid, 25, derde en vierde lid, 81, 81c en 82, dat kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in artikel 8:3, eerste lid, van de Algemene wet bestuursrecht en met uitzondering van een besluit op grond van de artikelen 16, 39b, derde lid, 39c, derde lid, 39d, tweede en derde lid, 60ac en 60ad
+Energiewet, met inbegrip van een besluit van de Autoriteit Consument en Markt genomen op grond van artikel 3.37, 3.106, tweede lid, 3.108, 3.109, 3.110, 3.112 en 3.121, voor zover het besluit kan worden aangemerkt als een algemeen verbindend voorschrift als bedoeld in artikel 8.3, eerste lid, van de Algemene wet bestuursrecht, en met uitzondering van een besluit op grond van de artikelen 3.33, tweede lid, onderdeel e, 5.19, 5.21, 6.1, derde lid, en 6.2, tweede lid
 Gemeentewet: artikel 125, voor zover het betreft een besluit dat betrekking heeft op de handhaving van het bepaalde bij of krachtens de Winkeltijdenwet
 Hamsterwet
 Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies, met uitzondering van de artikelen 22 en 23
-Instellingswet Autoriteit Consument en Markt: artikel 12w, voor zover het betreft de openbaarmaking van een besluit waartegen beroep kan worden ingesteld bij het College van Beroep voor het bedrijfsleven
+Instellingswet Autoriteit Consument en Markt, artikel 12w, voor zover het betreft de openbaarmaking van een besluit waartegen beroep kan worden ingesteld bij het College van Beroep voor het bedrijfsleven
 Kaderwet EZK- en LNV-subsidies
 Landbouwkwaliteitswet
 Landbouwwet: de artikelen 13, 15, 17 tot en met 22 en 26

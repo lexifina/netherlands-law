@@ -18,7 +18,7 @@ Wet arbeidsongeschiktheidsvoorziening militairen
 Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukten, voor zover het betreft een besluit van het bureau, bedoeld in artikel 1, omtrent de inschrijving van een depot op grond van die wet
 Wet Centraal Orgaan opvang asielzoekers: de in artikel 5, eerste en tweede lid, bedoelde besluiten en handelingen, met dien verstande dat de rechtbank Den Haag de beroepen kan behandelen in alle zittingsplaatsen van alle rechtbanken, bedoeld in artikel 21b, eerste en tweede lid, van de Wet op de rechterlijke organisatie
 Wet financiële voorzieningen privatisering ABP
-Wet milieubeheer: de artikelen 18.16a, eerste, tweede of vijfde lid, 18.16b, eerste lid, 18.16c, eerste lid, en 18.16s, eerste lid
+Wet milieubeheer: de artikelen 18.16a, eerste, tweede of vijfde lid, 18.16b, eerste lid, 18.16c en 18.16s, eerste lid
 Wet op de inlichtingen- en veiligheidsdiensten 2017: hoofdstuk 5
 Wet pensioenvoorzieningen K.N.I.L.
 Wet rechtspositionele voorzieningen rampbestrijders

@@ -22,7 +22,7 @@ b. artikel Y 2 in samenhang met artikel D 7, G 1, G 4, I 4, K 8, L 11 of M 4
 c. de artikelen Y 32 en Y 33
 Mijnbouwwet:
 a. een besluit dat van toepassing is op het continentaal plat, met uitzondering van een besluit krachtens de afdelingen 5.1.1, 5.1.2, 5.3, 5.4 of 5.5
-b. instemming met een winningsplan krachtens artikel 34, en instemming met een winningsplan of een opslagplan krachtens 39, eerste lid
+b. instemming met een winningsplan krachtens artikel 34, en instemming met een opslagplan krachtens 39, eerste lid
 Omgevingswet:
 a. artikel 2.4
 b. artikel 2.12a, eerste lid
@@ -61,11 +61,11 @@ Uitvoeringswet verordening Europees burgerinitiatief: artikel 2, aanhef en onder
 Vreemdelingenwet 2000: de artikelen 43 en 45, vierde lid
 Waterschapswet:
 a. een besluit van Onze Minister van Infrastructuur en Waterstaat inzake de goedkeuring van een besluit als bedoeld in artikel 5
-b. een besluit van het algemeen bestuur van een waterschap als bedoeld in artikel 31, derde lid
-c. een besluit van het algemeen bestuur van een waterschap als bedoeld in artikel 33, vierde lid
-d. artikel 21, eerste lid
+b. artikel 21, eerste lid
+c. een besluit van het algemeen bestuur van een waterschap als bedoeld in artikel 31, derde lid
+d. een besluit van het algemeen bestuur van een waterschap als bedoeld in artikel 33, vierde lid
 e. artikel 61, voor zover het besluit betrekking heeft op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, van de Wet milieubeheer, bedoelde wetten of wettelijke bepalingen
-d. artikel 156, eerste lid
+f. artikel 156, eerste lid
 Wet aanvullende regels veiligheid wegtunnels: artikel 8, eerste lid, voor zover het een vergunning betreft voor een tunnel die deel uitmaakt van een projectbesluit als bedoeld in afdeling 5.2 van de Omgevingswet
 Wet bescherming Antarctica
 Wet educatie en beroepsonderwijs: de artikelen 1.4.1, 1.4a.1, 1.6.1, 2.1.2, eerste lid, onderdeel b, 2.1.3, tweede lid, 2.2.3, eerste en vierde lid, 2.5.9, 6.1.4, 6.1.5, 6.1.5a, 6.1.5b, 6.2.2, 6.2.3, 6.2.3b, 6.3.2, 6.3.3, 6.4.4, 6a.1.2, 6a.1.3 en 11.1

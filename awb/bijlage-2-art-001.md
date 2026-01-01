@@ -10,10 +10,9 @@ a. Boek 1:
 2. titel 14, afdeling 4
 b. Boek 2: de artikelen 63d, tweede lid, 156 en 266, voor zover de aanvraag is toegewezen
 c. Boek 7: artikel 671a.
-Elektriciteitswet 1998: de artikelen 9b, derde lid, 9c, vierde lid, en 20a, vierde lid
+Energiewet: de artikelen 6.1, derde lid, en 6.2, tweede lid
 Faillissementswet: artikel 285
 Financiële-verhoudingswet: artikel 9
-Gaswet: artikel 39b, derde lid
 Gemeentewet:
 a. artikel 49
 b. artikel 85, tweede lid, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging
@@ -107,10 +106,9 @@ Wet op de rechterlijke organisatie: de artikelen 46a, eerste lid, 62a, eerste li
 Wet opheffing particuliere banken van leening: artikel 2
 Wet op het financieel toezicht:
 a. een bindende aanbeveling van een toezichthouder aan de andere toezichthouder
-b. de artikelen 1:75, eerste en tweede lid, en 1:76, eerste en derde lid
-c. de afdelingen 3A.1.3, 3A.1.4, 3A.1.5, 3A.2.3 en 3A.2.4 voor zover het betreft een weigering om een besluit te nemen of het niet tijdig nemen van een besluit
-d. artikel 3A:127
-e. de artikelen 6:1 en 6:2, voor zover het betreft een weigering om een besluit te nemen of het niet tijdig nemen van een besluit
+b. de afdelingen 3A.1.3, 3A.1.4, 3A.1.5, 3A.2.3 en 3A.2.4 voor zover het betreft een weigering om een besluit te nemen of het niet tijdig nemen van een besluit
+c. artikel 3A:127
+d. de artikelen 6:1 en 6:2, voor zover het betreft een weigering om een besluit te nemen of het niet tijdig nemen van een besluit
 Wet op het primair onderwijs: artikel 128, vierde lid, zolang de gemeenteraad de aanvulling nog niet heeft bekrachtigd
 Wet publieke gezondheid: de artikelen 31 en 35
 Wet rechtspositie rechterlijke ambtenaren:

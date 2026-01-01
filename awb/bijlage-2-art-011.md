@@ -6,11 +6,10 @@ Algemene wet bestuursrecht: artikel 4:126, voor zover het besluit betrekking hee
 Bankwet 1998: artikel 9c, eerste en tweede lid
 Burgerlijk Wetboek: de artikelen 63d, tweede lid, 156 en 266 van Boek 2
 Drinkwaterwet: artikel 50, derde lid, in samenhang met artikel 70a van de Mededingingswet
-Elektriciteitswet 1998: de artikelen 77h en 77i
-Gaswet: de artikelen 16, 60ac en 60ad
+Energiewet: de artikelen 3.33, tweede lid, onderdeel e, 5.19, en 5.21
 Handelsregisterwet 2007: de artikelen 47a en 47b
 Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies: de artikelen 22 en 23
-Instellingswet Autoriteit Consument en Markt: met uitzondering van een besluit als bedoeld in artikel 12w waartegen beroep kan worden ingesteld bij het College van Beroep voor het bedrijfsleven
+Instellingswet Autoriteit Consument en Markt, met uitzondering van een besluit als bedoeld in artikel 12w waartegen beroep kan worden ingesteld bij het College van Beroep voor het bedrijfsleven
 Invoerings- en aanpassingswet Pensioenwet
 Loodsenwet, met uitzondering van de artikelen 21, derde lid, 27b, vierde lid, 27d, 27f, 27h en 27l
 Mededingingswet
@@ -75,7 +74,6 @@ Wet ter voorkoming van witwassen en financieren van terrorisme
 Wet toezicht accountantsorganisaties
 Wet toezicht financiële verslaggeving
 Wet toezicht trustkantoren 2018
-Wet van 12 juli 2012 tot wijziging van de Elektriciteitswet 1998 en van de Gaswet (implementatie van richtlijnen en verordeningen op het gebied van elektriciteit en gas) (Stb. 2012, 334): artikel XX
 Wet van 23 november 2006 tot wijziging van de Elektriciteitswet 1998 en van de Gaswet in verband met nadere regels omtrent een onafhankelijk netbeheer ( Stb. 2006, 614 )
 Wet veiligheidstoets investeringen, fusies en overnames
 Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen: een besluit genomen door een van de in artikel 30, eerste lid, genoemde bestuursorganen, waarin toepassing of mede toepassing is gegeven aan artikel 26
