@@ -10,4 +10,8 @@ c. in geval van het ter beschikking stellen van een woonruimte of bedrijfsruimte
 4. Indien stoffen met behulp van een openbaar vuilwaterriool worden afgevoerd, is degene bij wie dat openbaar vuilwaterriool in beheer is, slechts voor die stoffen die de beheerder zelf op het openbaar vuilwaterriool heeft gebracht aan een heffing onderworpen.
 5. De opbrengst van de heffing kan tevens worden besteed:
 a. aan het verstrekken van subsidies ter tegemoetkoming in de kosten van het voorbereiden en uitvoeren van maatregelen die verband houden met het zuiveren van afvalwater aan diegenen die tot het treffen van die maatregelen zijn gehouden;
-b. aan het verstrekken van subsidies aan heffingplichtigen tot behoud van het gebruik van zuiveringtechnische werken teneinde een stijging van het tarief van de heffing zoveel mogelijk te voorkomen.
+b. aan het verstrekken van subsidies aan heffingplichtigen tot behoud van het gebruik van zuiveringtechnische werken teneinde een stijging van het tarief van de heffing zoveel mogelijk te voorkomen;
+c. aan het doen van uitgaven ter beperking van de afvoer van hemelwater op een zuiveringtechnisch werk of op een openbaar vuilwaterriool;
+d. aan de bekostiging van maatregelen voor het opwekken van hernieuwbare energie ter compensatie van de uitstoot van broeikasgassen, die vrijkomen als gevolg van de zuivering van afvalwater en die in redelijkheid niet te vermijden zijn. De hoeveelheid op te wekken hernieuwbare energie mag niet hoger zijn dan driemaal het primaire energiegebruik van het betreffende waterschap benodigd voor de zuivering van afvalwater.
+6. Voor de zuivering van ander afvalwater dan bedoeld in artikel 1, tweede lid, kan een waterschap een overeenkomst sluiten met degene die zich van dit afvalwater ontdoet.
+7. Bij ministeriële regeling worden regels gesteld over de wijze waarop het primaire energiegebruik wordt bepaald.
