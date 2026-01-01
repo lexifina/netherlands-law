@@ -1,3 +1,0 @@
-# Artikel 38a. Bijzondere bekostiging voor de beloning van leraren die lesgeven op een school waar (voortgezet) speciaal onderwijs wordt verzorgd en niet lesgeven aan leerlingen met het uitstroomprofiel vervolgonderwijs
-1. Het bevoegd gezag van een instelling of een school waar (voortgezet) speciaal onderwijs wordt verzorgd ontvangt bijzondere bekostiging voor personeel.
-2. De bijzondere bekostiging bedraagt € 376,29 per ingeschreven so-leerling en vso-leerling op 1 oktober 2021, waarbij voor scholen die bijzondere bekostiging op grond van artikel 38 hebben ontvangen een aftrek plaatsvindt gelijk aan de berekening op grond van artikel 38.
