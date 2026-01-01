@@ -1,0 +1,2 @@
+# Artikel 47b. Overgangsbepaling afschaffen rente
+De artikelen 27, 28, 30, 31bis, 31a, 32, 33 en 34 alsmede de daarop berustende bepalingen zoals die luidden op 31 december 2025 blijven van toepassing met betrekking tot beschikkingen die zien op de berekeningsjaren, bedoeld in artikel 2, eerste lid, onderdeel b, voorafgaand aan het berekeningsjaar 2026, met dien verstande dat voor die beschikkingen het percentage voor de in rekening te brengen rente en voor de te vergoeden rente met ingang van 1 januari 2026 0% bedraagt.
