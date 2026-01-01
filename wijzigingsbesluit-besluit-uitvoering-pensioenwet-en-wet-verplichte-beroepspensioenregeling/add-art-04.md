@@ -1,0 +1,2 @@
+# Artikel IV. Vervallen artikel 15c Besluit financieel toetsingskader pensioenfondsen
+Het in artikel 15c, achtste lid, van het Besluit financieel toetsingskader pensioenfondsen bedoelde tijdstip is het tijdstip waarop de Wet van 4 december 2025 tot wijziging van de Pensioenwet, de Wet op de loonbelasting 1964 en enige andere wetten in verband met de verlenging van de transitieperiode naar het nieuwe pensioenstelsel in werking treedt.
