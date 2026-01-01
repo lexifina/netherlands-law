@@ -1,0 +1,4 @@
+# Artikel 10c
+1. Zodra de belastingplichtige ervan kennis neemt dat de aangifte erfbelasting over een bestanddeel van het voorwerp van die belasting dat in het buitenland wordt gehouden of is opgekomen niet, onjuist of onvolledig is gedaan, is hij gehouden daarvan mededeling te doen en alsnog de juiste en volledige inlichtingen, gegevens of aanwijzingen te verstrekken. De mededeling moet worden gedaan voordat de belastingplichtige weet of redelijkerwijs moet vermoeden dat de inspecteur met de desbetreffende onjuistheid of onvolledigheid bekend is of zal worden.
+2. De mededeling, bedoeld in het eerste lid, geschiedt door het toezenden van het daartoe langs elektronische weg ter beschikking gestelde modelformulier aan de inspecteur.
+3. Het niet of niet tijdig dan wel onjuist of onvolledig doen van de mededeling, bedoeld in het eerste lid, wordt aangemerkt als een overtreding.
