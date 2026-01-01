@@ -1,0 +1,15 @@
+# Artikel 21c
+1. De verbruiker, bedoeld in artikel 60, tweede lid, van de wet, wordt aangemerkt als onderneming in moeilijkheden, wanneer het bedrijf van de verbruiker waaraan het aardgas wordt geleverd niet of niet langer levensvatbaar is.
+2. Een bedrijf als bedoeld in het eerste lid wordt geacht niet of niet langer levensvatbaar te zijn, wanneer zich een of meer van de volgende omstandigheden voordoen:
+a. de verbruiker heeft verzocht om uitstel van betaling van een belastingschuld, maar dit verzoek is door de ontvanger onherroepelijk afgewezen omdat hij het bedrijf niet of niet langer levensvatbaar acht;
+b. de verbruiker heeft aan zijn schuldeisers een verzoek gedaan een crediteurenakkoord te sluiten tot vermindering of kwijtschelding van de uitstaande vorderingen;
+c. aan de verbruiker is surseance van betaling toegestaan als bedoeld in artikel 222 van de Faillissementswet;
+d. de verbruiker is bij rechterlijk vonnis in staat van faillissement verklaard als bedoeld in artikel 1 van de Faillissementswet.
+3. Wanneer een of meer omstandigheden als bedoeld in het tweede lid zich voordoen, meldt de verbruiker binnen acht weken schriftelijk aan de leverancier van het aardgas dat hij niet langer in aanmerking komt voor het tarief, bedoeld in artikel 60, eerste lid, van de wet, omdat hij niet langer voldoet aan de voorwaarde, bedoeld in artikel 60, tweede lid, van de wet. Hierbij vermeldt de verbruiker de datum waarop deze wijziging is ingetreden. De leverancier van het aardgas beëindigt de toepassing van het tarief, bedoeld in artikel 60, eerste lid, van de wet, drie maanden na de datum genoemd in de melding van de verbruiker, bedoeld in de eerste volzin, tenzij deze melding is gevolgd door een intrekking van deze melding als bedoeld in het vijfde lid.
+4. Een omstandigheid als bedoeld in het tweede lid wordt geacht zich niet te hebben voorgedaan, wanneer binnen de termijn van acht weken, bedoeld in het derde lid:
+a. in geval van het tweede lid, onderdeel a: de verbruiker de belastingschuld waarvoor uitstel van betaling was verzocht volledig heeft voldaan;
+b. in geval van het tweede lid, onderdeel b: de schuldeisers van de verbruiker het verzoek om een crediteurenakkoord te sluiten honoreren;
+c. in geval van het tweede lid, onderdeel c: de beschikking waarbij de surseance is ingetrokken in kracht van gewijsde is gegaan, bedoeld in artikel 245 van de Faillissementswet, en de faillietverklaring van de verbruiker niet is uitgesproken;
+d. in geval van het tweede lid, onderdeel d: het faillissement eindigt als gevolg van de homologatie van een akkoord dat in kracht van gewijsde is gegaan, bedoeld in artikel 161 van de Faillissementswet.
+5. Wanneer de melding, bedoeld in het derde lid, eerste volzin, heeft plaatsgevonden en het vierde lid van toepassing is, trekt de verbruiker deze melding schriftelijk in binnen twee weken na afloop van de termijn van acht weken, genoemd in het derde lid. De eerdere melding wordt dan geacht niet te hebben plaatsgevonden.
+6. Bij regeling van Onze Minister kunnen nadere regels worden gesteld voor de toepassing van het tweede, derde en vierde lid.

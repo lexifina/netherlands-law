@@ -1,0 +1,4 @@
+# Artikel 21d
+1. Het tarief, genoemd in artikel 60b, eerste lid, van de wet, is slechts van toepassing indien de verbruiker een verklaring heeft overgelegd aan degene die de elektriciteit aan hem levert, dat de elektriciteit uitsluitend wordt aangewend in een walstroominstallatie als bedoeld in artikel 47, eerste lid, onderdeel w, van de wet die geheel of nagenoeg geheel bestemd is voor schepen niet zijnde particuliere pleziervaartuigen als bedoeld in artikel 70a, derde lid, van de wet.
+2. De verbruiker trekt de verklaring binnen zes weken schriftelijk in, indien de door hem overgelegde verklaring, bedoeld in het eerste lid, op enig moment niet meer juist is. De schriftelijke intrekking wordt door hem ondertekend, waarbij het moment, bedoeld in de vorige zin, wordt vermeld.
+3. Artikel 21c is van overeenkomstige toepassing.
