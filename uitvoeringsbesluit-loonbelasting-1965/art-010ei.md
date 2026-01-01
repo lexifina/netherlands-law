@@ -1,0 +1,10 @@
+# Artikel 10ei
+1. Een verzoek om toepassing of voortgezette toepassing van de bewijsregel ten aanzien van een ingekomen werknemer wordt gedaan aan de inspecteur. Deze beslist op het verzoek bij voor bezwaar vatbare beschikking.
+2. Indien het verzoek is gedaan binnen vier maanden na aanvang van de tewerkstelling als extraterritoriale werknemer door de inhoudingsplichtige, werkt de beschikking terug tot en met de aanvang van de tewerkstelling als extraterritoriale werknemer. Indien het verzoek later is gedaan, is de beschikking van toepassing met ingang van de eerste dag van de maand volgend op de maand waarin het verzoek is gedaan.
+3. De inspecteur kan ambtshalve of op verzoek de beschikking in het voordeel van de werknemers of inhoudingsplichtige herzien in het geval van onjuistheden op het moment van het vaststellen van die beschikking.
+4. De inspecteur kan de beschikking in het nadeel van de werknemer of de inhoudingsplichtige intrekken of herzien in het geval van onjuistheden op het moment van het vaststellen van die beschikking. Een intrekking of herziening heeft alleen gevolgen voor een toekomstig loontijdvak.
+5. In afwijking van het vierde lid kan een intrekking of herziening ook gevolgen hebben voor voorafgaande en lopende loontijdvakken indien:
+a. de inspecteur aannemelijk maakt dat de inhoudingsplichtige of de werknemer te kwader trouw is ter zake van het feit dat heeft geleid tot een onjuistheid in de beschikking;
+b. de inspecteur aannemelijk maakt dat ten gevolge van een fout van de inspecteur de beschikking onjuist is vastgesteld en die fout de werknemer of inhoudingsplichtige redelijkerwijs kenbaar is.
+6. Een intrekking of herziening in het nadeel van de werknemer of inhoudingsplichtige geschiedt bij voor bezwaar vatbare beschikking. Rechtsmiddelen tegen deze beschikking kunnen uitsluitend betrekking hebben op de intrekking of herziening.
+7. Een intrekking of herziening in het nadeel van de werknemer of de inhoudingsplichtige is mogelijk voor zover de beschikking een loontijdvak bevat waarover de bevoegdheid tot naheffing, bedoeld in artikel 20 van de Algemene wet inzake rijksbelastingen, niet is vervallen.

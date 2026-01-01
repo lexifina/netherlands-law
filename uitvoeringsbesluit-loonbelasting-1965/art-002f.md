@@ -1,0 +1,5 @@
+# Artikel 2f
+1. Indien een arbeidsverhouding zowel op grond van artikel 2 als op grond van de artikelen 2a, 2b of 2c, maar niet op grond van artikel 2ca, als dienstbetrekking wordt beschouwd, vindt alleen artikel 2 toepassing.
+2. Indien een arbeidsverhouding zowel op grond van artikel 2a als op grond van de artikelen 2b of 2c, maar niet op grond van de artikelen 2 of 2ca, als dienstbetrekking wordt beschouwd, vindt alleen artikel 2a toepassing.
+3. Indien een arbeidsverhouding ingeval artikel 2b, tweede tot en met vijfde lid, buiten beschouwing wordt gelaten zowel op grond van artikel 2b als op grond van artikel 2c, maar niet op grond van de artikelen 2, 2a of 2ca, als dienstbetrekking wordt beschouwd, vindt alleen artikel 2b toepassing.
+4. Indien een arbeidsverhouding zowel op grond van artikel 2ca als op grond van de artikelen 2, 2a, 2b of 2c als dienstbetrekking wordt beschouwd, vindt alleen artikel 2ca toepassing. Voor de toepassing van de eerste zin wordt artikel 2e, vierde lid, buiten beschouwing gelaten.

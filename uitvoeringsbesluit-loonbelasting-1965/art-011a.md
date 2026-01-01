@@ -1,0 +1,2 @@
+# Artikel 11a
+Ingeval een verzekeraar als bedoeld in artikel 19a van de wet overeenkomt met de inhoudingsplichtige die aan de werknemer loon verstrekt als bedoeld in artikel 31, vierde lid, onderdeel h, van de wet, dat die verzekeraar de ter zake van dat loon verschuldigde loonbelasting inhoudt op het pensioen, wordt niet die inhoudingsplichtige, maar die verzekeraar ter zake van dat loon als inhoudingsplichtige beschouwd.

@@ -1,0 +1,2 @@
+# Artikel 10eg
+Indien een verzoek om toepassing van de bewijsregel als bedoeld in artikel 10ei niet is gedaan binnen vier maanden na aanvang van de tewerkstelling als ingekomen werknemer door de inhoudingsplichtige, wordt de looptijd verminderd met de periode tussen het tijdstip waarop de ingekomen werknemer door de inhoudingsplichtige is tewerkgesteld en het tijdstip waarop de beschikking, bedoeld in artikel 10ei, voor het eerst van toepassing is.
