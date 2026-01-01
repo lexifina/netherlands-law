@@ -1,0 +1,4 @@
+# Artikel 20c
+1. De aanbieder is voor werkzaamheden als bedoeld in bijlage D, onderdeel g, voor zover die zien op bijlage B, deel III, onderdeel f, en die betrekking hebben op onverwerkte mest een aanvullende retributie verschuldigd als de werkzaamheden worden onderbroken of uitgesteld, onderscheidenlijk geheel of gedeeltelijk niet plaatsvinden door omstandigheden buiten toedoen van de met de werkzaamheden belaste persoon of personen.
+2. De retributie, bedoeld in het eerste lid, bedraagt € 46,99 per kwartier dat de onderbreking onderscheidenlijk het uitstel voor de met de werkzaamheden belaste persoon heeft geduurd, onderscheidenlijk zouden hebben geduurd indien zij zouden zijn verricht door de persoon die met de desbetreffende werkzaamheden naar het oordeel van de Minister zou zijn belast.
+3. Artikel 27, derde lid, onderdeel a, is van overeenkomstige toepassing.

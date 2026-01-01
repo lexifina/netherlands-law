@@ -1,0 +1,2 @@
+# Artikel 28b
+Voor de periode van 26 september 2023 tot en met 31 december 2023 gelden voor de werkzaamheden, bedoeld in de artikelen, of onderdelen daarvan, of onderdelen van de bijlagen, genoemd in kolom 1 van de tabel in bijlage J, in afwijking van die respectievelijke artikelen, onderdelen daarvan, en onderdelen van de bijlagen, zoals die golden in die periode, de desbetreffende tarieven, bedoeld in kolom 2 van de tabel in bijlage J.
