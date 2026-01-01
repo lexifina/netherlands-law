@@ -1,0 +1,2 @@
+# Artikel XXXIII
+Artikel 9.5, vijfde lid, van de Wet inkomstenbelasting 2001 en de artikelen 6, eerste lid, 7, eerste lid, 24, derde, vijfde en zesde lid, 27a, tweede en derde lid, en 31 en 70b van de Invorderingswet 1990 en de daarop berustende bepalingen zoals die luidden op 31 december 2023 blijven van toepassing op voorlopige aanslagen inkomstenbelasting die betrekking hebben op belastingschulden over een tijdvak dat vóór 1 januari 2024 is aangevangen.

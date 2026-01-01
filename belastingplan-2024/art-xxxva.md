@@ -1,0 +1,3 @@
+# Artikel XXXVa
+1. Bij de toepassing van de artikelen 10.1, eerste lid, 10.3, tweede lid, en 10bis.12 van de Wet inkomstenbelasting 2001 en artikel 7, derde en vierde lid, van de Algemene wet inkomensafhankelijke regelingen bij het begin van het kalenderjaar 2024 worden de te vervangen bedragen niet vermenigvuldigd met de tabelcorrectiefactor, maar met 1,094941. De eerste zin is van overeenkomstige toepassing met betrekking tot artikel 22d van de Wet op de loonbelasting 1964.
+2. Bij de toepassing van artikel 10.1, tweede lid, van de Wet inkomstenbelasting 2001 bij het begin van het kalenderjaar 2024 worden de te vervangen bedragen niet vermenigvuldigd met de uitkomst van de daarin opgenomen formule, maar met 1,07120575.

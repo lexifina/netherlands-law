@@ -1,0 +1,2 @@
+# Artikel XXXVII
+Met betrekking tot een gebouw in eigen gebruik dat vóór 1 januari 2024 reeds tot het ondernemingsvermogen of resultaatvermogen van de belastingplichtige behoorde en waarop de belastingplichtige reeds vóór 1 januari 2024 heeft afgeschreven doch nog niet over drie volledige jaren heeft kunnen afschrijven, vindt de in artikel I, onderdeel H, opgenomen wijziging van artikel 3.30a, derde lid, van de Wet inkomstenbelasting 2001 voor het eerst toepassing met ingang van het boekjaar dat volgt op het boekjaar waarin die periode van drie volledige jaren is geëindigd.
