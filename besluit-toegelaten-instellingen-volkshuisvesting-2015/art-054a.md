@@ -1,0 +1,2 @@
+# Artikel 54a
+Op verzoek van een uit een of meer personen die de pensioengerechtigde leeftijd, bedoeld in artikel 7a van de Algemene Ouderdomswet hebben bereikt, bestaand huishouden waarvan de rendementsgrondslag, bedoeld in artikel 5.3, eerste lid, van de Wet inkomstenbelasting 2001, meer bedraagt dan het in artikel 2a van de Wet op de zorgtoeslag genoemde van toepassing zijnde bedrag, kan de toegelaten instelling ten aanzien van dat huishouden het in artikel 46, tweede lid, eerste volzin, van de wet over de huurprijs buiten toepassing laten.

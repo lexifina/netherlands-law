@@ -1,0 +1,10 @@
+# Artikel 110d
+1. De adviescommissie noodzakelijke werkzaamheden betrekt in haar advies ten aanzien van artikel 56a, tweede lid, van de wet in ieder geval:
+a. de zienswijzen van de autoriteit en een organisatie die zich ten doel stelt de belangen van toegelaten instellingen te behartigen over de omvang van de in artikel 56a, tweede lid, onderdeel a, van de wet bedoelde noodzakelijke werkzaamheden alsmede de mogelijkheden, waaronder en de financiële draagkracht om die werkzaamheden binnen een redelijke termijn voort te zetten, van de toegelaten instellingen die feitelijk werkzaam zijn in hetzelfde gebied aangewezen op grond van artikel 41b, eerste lid, als de verzoekende toegelaten instelling;
+b. de zienswijzen van de colleges van burgemeester en wethouders van de gemeenten waar de verzoekende toegelaten instelling meer dan 5% van het totaal van de diensten bedoeld in artikel 47, eerste lid, van de wet in die gemeente verricht, over de omvang van de in artikel 56a, tweede lid, onderdeel a, van de wet bedoelde noodzakelijke werkzaamheden;
+c. de zienswijzen van de in het belang van de huurders van de woongelegenheden van de verzoekende toegelaten instelling werkzame huurdersorganisaties en bewonerscommissies over de omvang van de in artikel 56a, tweede lid, onderdeel a, van de wet, bedoelde noodzakelijke werkzaamheden;
+d. de zienswijzen van de toegelaten instellingen die feitelijk werkzaam zijn in hetzelfde gebied aangewezen op grond van in artikel 41b, eerste lid, van de wet als de verzoekende instelling; en
+e. de zienswijze van de borgingsvoorziening over de risico's voor de borgstelling van het conceptadvies dat de Adviescommissie noodzakelijke werkzaamheden voornemens is uit te brengen.
+2. De adviescommissie noodzakelijke werkzaamheden stelt de in het eerste lid bedoelde partijen in de gelegenheid hun zienswijze aan haar kenbaar te maken binnen een termijn van:
+a. vier weken, voor de zienswijzen bedoeld in het eerste lid, onderdelen a, b, c en d;
+b. twee weken, voor de zienswijze bedoeld in het eerste lid, onderdeel e.

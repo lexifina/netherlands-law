@@ -1,0 +1,7 @@
+# Artikel 110b
+1. De adviescommissie noodzakelijke werkzaamheden stelt haar eigen werkwijze vast die de goedkeuring behoeft van Onze Minister.
+2. Onze Minister voorziet in het secretariaat van de adviescommissie noodzakelijke werkzaamheden.
+3. De leden van de adviescommissie noodzakelijke werkzaamheden ontvangen per vergadering een vergoeding, voor zover zij niet vallen onder de uitzondering van artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies en hiermee niet het in artikel 6, eerste lid, van het Besluit vergoedingen adviescolleges en commissies bedoelde maximumbedrag overschrijden.
+4. De adviescommissie noodzakelijke werkzaamheden brengt uiterlijk twaalf weken nadat het adviesverzoek, bedoeld in artikel 56a, tweede lid, van de wet bij haar is ingediend advies uit. De adviescommissie noodzakelijke werkzaamheden kan deze termijn door schriftelijke kennisgeving daarvan aan de verzoekende toegelaten instelling telkens gemotiveerd verlengen met een door haar daarbij te bepalen termijn van ten hoogste vier weken, van welke verlenging zij kennis geeft voor het verstrijken van de beslistermijn.
+5. De adviescommissie noodzakelijke werkzaamheden draagt zo spoedig mogelijk na het afronden van een advies of, indien de omstandigheden daartoe aanleiding geven zoveel eerder, de bescheiden betreffende die werkzaamheden voor een advies over aan Onze Minister.
+6. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent wijze van verantwoording en ondersteuning van de adviescommissie noodzakelijke werkzaamheden.

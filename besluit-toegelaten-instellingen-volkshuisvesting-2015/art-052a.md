@@ -1,0 +1,2 @@
+# Artikel 52a
+Tot de werkzaamheden, bedoeld in de artikelen 45, tweede lid, onderdeel i, en 47, eerste lid, onderdeel g, van de wet, behoren niet transacties die zijn gericht op het wijzigen van eigendomsverhoudingen en zakelijke rechten zonder dat er sprake is van feitelijke overdracht van bezit, behalve indien die transacties noodzakelijk zijn om werkzaamheden als bedoeld in de andere onderdelen van die artikelleden te kunnen verrichten.
