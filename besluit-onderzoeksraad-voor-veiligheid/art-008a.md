@@ -1,0 +1,3 @@
+# Artikel 8a
+1. De raad stelt onverwijld een onderzoek in naar een ernstig ongeval in verband met een spoorweg.
+2. Indien niet kan worden vastgesteld of een ongeval als bedoeld in het eerste lid in Nederland of een ander land heeft plaatsgevonden, of indien het heeft plaatsgevonden op of vlakbij een grensinstallatie van Nederland en een ander land, worden tussen de raad en het bevoegde onderzoeksorgaan in het andere land afspraken gemaakt wie het onderzoek gaat verrichten of wordt afgesproken dat gezamenlijk onderzoek wordt verricht. Ingeval het onderzoek wordt verricht door de raad, wordt het orgaan in het andere land uitgenodigd aan het onderzoek deel te nemen en volledig over de uitkomsten van het onderzoek ingelicht.

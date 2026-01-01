@@ -1,0 +1,3 @@
+# Artikel 11f
+1. Indien de raad naar aanleiding van een onderzoek naar een voorval in verband met een spoorweg een aanbeveling doet, richt hij deze tot de Nederlandse spoorwegveiligheidsinstantie, en, als de aard van de aanbeveling dat vereist, tot andere bestuursorganen, andere lidstaten of het Europees Spoorwegbureau.
+2. De Nederlandse spoorwegveiligheidsinstantie en de in het eerste lid bedoelde andere bestuursorganen, andere lidstaten of het Europees Spoorwegbureau tot welke de aanbevelingen zijn gericht, laten de raad ten minste eenmaal per jaar weten welke maatregelen zij naar aanleiding van de aanbeveling hebben genomen of nog zullen nemen.

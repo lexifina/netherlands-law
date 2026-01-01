@@ -1,0 +1,2 @@
+# Artikel 11b
+Bij een onderzoek naar een scheepvaartongeval, waarbij een zeeschip is betrokken, wordt voor aangelegenheden die niet reeds in de rijkswet en de daarop berustende bepalingen expliciet geregeld zijn, de Code of the International Standards and Recommended Practices for a Safety Investigation into a Marine Casualty or Marine Incident zoals vastgesteld bij resolutie MSC.255(84) van de International Maritime Organisation van 16 mei 2008 in acht genomen.

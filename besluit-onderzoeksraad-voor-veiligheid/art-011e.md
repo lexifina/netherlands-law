@@ -1,0 +1,2 @@
+# Artikel 11e
+De raad publiceert in geval van een voorval in verband met een spoorweg of een andere railweg in Nederland ten minste eenmaal per jaar een tussentijdse verklaring over het onderzoek indien het eindrapport niet binnen twaalf maanden na het voorval kan worden uitgebracht. In de tussentijdse verklaring gaat de raad in op de voortgang van het onderzoek en eventuele veiligheidskwesties die aan het licht zijn gekomen.

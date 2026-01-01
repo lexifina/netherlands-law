@@ -1,0 +1,3 @@
+# Artikel 11d
+1. De raad biedt in geval van een voorval in verband met een spoorweg of een andere railweg in Nederland aan de betrokken infrastructuurbeheerder en spoorwegondernemingen, de Nederlandse spoorwegveiligheidsinstantie, het Europees Spoorwegbureau, de slachtoffers en hun familieleden, de eigenaren van beschadigde eigendommen, fabrikanten, de betrokken noodhulpdiensten en vertegenwoordigers van het personeel en de gebruikers de mogelijkheid om relevante technische informatie te leveren om de kwaliteit van het onderzoeksrapport te verbeteren.
+2. De raad neemt de redelijke behoeften van de slachtoffers en hun familieleden in aanmerking en houdt hen op de hoogte van de voortgang van het onderzoek.

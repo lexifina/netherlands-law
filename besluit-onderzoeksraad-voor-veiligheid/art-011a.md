@@ -1,0 +1,2 @@
+# Artikel 11a
+De raad voert het onderzoek naar een scheepvaartongeval, waarbij een zeeschip is betrokken, uit overeenkomstig de methodologie, bedoeld in artikel 2, onder e, van de Verordening nr. 1406/2002 van het Europees Parlement en de Raad van de Europese Unie van 27 juni 2002 tot oprichting van een Europees Agentschap voor maritieme veiligheid (PbEG L 208). Afwijking van deze methodologie is mogelijk, voor zover de onderzoeker dit noodzakelijk acht voor het bereiken van de onderzoeksdoelstellingen.
