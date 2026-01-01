@@ -1,0 +1,3 @@
+# Artikel 3c
+1. In afwijking van artikel 3b wordt een ras van een fruitgewas als bedoeld in artikel 3a, waarvan teeltmateriaal reeds voor 30 september 2012 in Nederland in de handel is gebracht, toegelaten indien de Raad van oordeel is dat het ras voldoet aan het voor dergelijke rassen in artikel 7, vierde lid, van richtlijn (EG) 2008/90 bepaalde.
+2. In afwijking van artikel 17 bedraagt het aanvraagtarief voor de toelating van de rassen, bedoeld in het eerste lid, € 0 en het tarief voor het opstellen van een officieel erkende beschrijving als bedoeld in artikel 7, vierde lid, van richtlijn (EG) 2008/90, € 383.
