@@ -1,0 +1,5 @@
+# Artikel 1a
+1. Het in deze wet neergelegde verbod van onderscheid houdt mede in een verbod van intimidatie en een verbod van seksuele intimidatie.
+2. Onder intimidatie als bedoeld in het eerste lid wordt verstaan: gedrag dat met de hoedanigheden of gedragingen, bedoeld in artikel 1, eerste lid, onderdeel b, verband houdt en dat tot doel of gevolg heeft dat de waardigheid van de persoon wordt aangetast en dat een bedreigende, vijandige, beledigende, vernederende of kwetsende omgeving wordt gecreëerd.
+3. Onder seksuele intimidatie als bedoeld in het eerste lid wordt verstaan: enige vorm van verbaal, non-verbaal of fysiek gedrag met een seksuele connotatie dat als doel of gevolg heeft dat de waardigheid van de persoon wordt aangetast, in het bijzonder wanneer een bedreigende, vijandige, beledigende, vernederende of kwetsende omgeving wordt gecreëerd.
+4. Op het in deze wet neergelegde verbod van intimidatie en van seksuele intimidatie zijn niet van toepassing de artikelen 2, 5, tweede tot en met zesde lid, 6a, tweede lid, en 7, tweede en derde lid.

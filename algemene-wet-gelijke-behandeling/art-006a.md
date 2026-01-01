@@ -1,0 +1,6 @@
+# Artikel 6a
+1. Onderscheid is verboden bij het lidmaatschap van of de betrokkenheid bij een werkgevers- of werknemersorganisatie of een vereniging van beroepsgenoten, alsmede bij de voordelen die uit dat lidmaatschap of uit die betrokkenheid voortvloeien.
+2. Het eerste lid laat onverlet dat:
+a. een op godsdienstige of levensbeschouwelijke grondslag gebaseerde organisatie of vereniging, of
+b. een op politieke grondslag gebaseerde organisatie of vereniging,
+ten aanzien van personen die door een lidmaatschap of anderszins bij haar betrokken zijn onderscheid mag maken op grond van godsdienst, levensovertuiging of politieke gezindheid, voor zover deze kenmerken vanwege de aard van de betrokkenheid of de context waarin specifieke activiteiten worden uitgeoefend een wezenlijk, legitiem en gerechtvaardigd vereiste vormen, gezien de grondslag van de organisatie of vereniging. Een zodanig onderscheid mag niet verder gaan dan passend is, gelet op de houding van goede trouw en loyaliteit aan de grondslag van de organisatie of vereniging die van de daarbij betrokkenen mag worden verlangd, en mag niet leiden tot onderscheid op een andere in artikel 1 genoemde grond, onverminderd artikel 2, eerste lid.
