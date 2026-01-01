@@ -1,0 +1,8 @@
+# Artikel 2a
+1. Op verzoek blijft voor de toepassing van artikel 2 van de wet, van artikel 7 van de Algemene wet inkomensafhankelijke regelingen en de op die artikelen berustende bepalingen voor zover het betreft het toekennen van een huurtoeslag, een partner of medebewoner buiten beschouwing indien sprake is van een verzorgingsbehoefte bij de huurder, diens partner of een medebewoner.
+2. Het eerste lid geldt uitsluitend ten aanzien van de partner of medebewoner die met het oog op de verzorgingsbehoefte van de huurder of van hemzelf als ingezetene op hetzelfde woonadres als de huurder staat ingeschreven in de basisregistratie personen en is van toepassing indien:
+a. de verzorgingsbehoefte blijkt uit een indicatiebesluit van het CIZ, genoemd in artikel 7.1.1 van de Wet langdurige zorg;
+b. het voordeel uit sparen en beleggen als bedoeld in artikel 5.2 van de Wet inkomstenbelasting 2001 over het berekeningsjaar van de in het eerste lid bedoelde buiten beschouwing te laten persoon, niet meer bedraagt dan € 5.516 en
+c. het gezamenlijke toetsingsinkomen van de huurder, diens partner en de medebewoners, met inbegrip van de in het eerste lid bedoelde buiten beschouwing te laten persoon, niet meer bedraagt dan € 60.525.
+3. Voor de toepassing van het eerste lid wordt geen rekening gehouden met de verzorgingsbehoefte van een minderjarige eerstegraads bloed- of aanverwant in de neergaande lijn.
+4. Artikel 27, eerste lid, van de wet is van overeenkomstige toepassing op de in het tweede lid, onderdelen b en c, vermelde bedragen, waarbij ten aanzien van het in het tweede lid, onderdeel c, vermelde bedrag het resultaat naar boven wordt afgerond op een veelvoud van € 25.
