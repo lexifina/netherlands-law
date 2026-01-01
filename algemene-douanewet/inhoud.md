@@ -6,7 +6,7 @@
 #### Paragraaf 1.2.2. Beschikkingen
 #### Paragraaf 1.2.3. Kosten ambtelijke werkzaamheden
 #### Paragraaf 1.2.4. Overige bepalingen inzake douanetoezicht en douanecontrole
-#### Paragraaf 1.2.5. Overige bepalingen omtrent gegevensverstrekking
+#### Paragraaf 1.2.5. Verstrekking van gegevens en inlichtingen
 ## Hoofdstuk 2. Bepalingen die op de in het douanegebied van de Unie binnengebrachte goederen van toepassing zijn tot deze onder een douaneregeling zijn geplaatst, worden wederuitgevoerd, het douanegebied van de Unie zullen verlaten of worden verwijderd
 ### Afdeling 2.1. Formaliteiten met betrekking tot goederen en goederenverkeer
 ### Afdeling 2.2. Overige bepalingen
