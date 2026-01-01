@@ -1,0 +1,2 @@
+# Artikel IV
+Ten aanzien van belastingen die betrekking hebben op belastingtijdvakken die zijn aangevangen voor het tijdstip van inwerkingtreding van deze wet, en op belastbare feiten die zich voor dat tijdstip hebben voorgedaan, blijven hoofdstuk XVII en XVIIb van de Waterschapswet en artikel 7.5 van de Waterwet van toepassing zoals deze luidden op het tijdstip onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel I onderscheidenlijk artikel II van deze wet.
