@@ -1,0 +1,2 @@
+# Artikel 12a
+Indien ten aanzien van een werknemer, die door ziekte of gebreken niet ten volle geschikt is voor de door hem te verrichten arbeid dan wel op grond van een leer- of opleidingsovereenkomst werkzaam is, toekenning van het bedrag, dat krachtens de artikelen 8 tot en met 12 voor hem als minimumloon geldt, in verband met zijn arbeidsprestatie redelijkerwijs niet kan worden gevergd, stelt Onze Minister op verzoek van de betrokken werkgever of werknemer danwel ambtshalve voor een daarbij aan te geven periode een lager bedrag als minimumloon voor die werknemer vast.
