@@ -1,0 +1,7 @@
+# Artikel 58a
+1. Transportbegeleiders maken tijdens de uitoefening van hun werkzaamheden gebruik van een begeleidingsvoertuig dat voldoet aan de in de ministeriële regeling, bedoeld in artikel 58, onderdeel i, opgenomen eisen.
+2. Verkeersregelaars dragen tijdens de uitoefening van hun werkzaamheden de kleding voorgeschreven in de ministeriële regeling, bedoeld in artikel 58, onderdeel i.
+3. Verkeersregelaars die krachtens de wet moeten beschikken over een aanstellingspas zijn verplicht dit document op eerste vordering van de in artikel 159, eerste lid, onderdeel a, van de wet genoemde personen ter inzage af te geven.
+4. Aanwijzingen als bedoeld in artikel 82, eerste lid, van het RVV 1990, worden voor zover het betreft verkeersregelaars niet zijnde weginspecteurs in dienst van Rijkswaterstaat, niet gegeven vanaf een motorrijtuig of, voorzover het betreft verkeersregelaars niet zijnde transportbegeleiders of weginspecteurs in dienst van Rijkswaterstaat, vanuit een motorrijtuig.
+5. Onverminderd het vierde lid, geven transportbegeleiders of weginspecteurs in dienst van Rijkswaterstaat vanuit een motorrijtuig geen aanwijzingen als bedoeld in artikel 82, eerste lid, van het RVV 1990, op wegen onder beheer van het Rijk of op kruispunten gelegen op andere wegen.
+6. Transportbegeleiders houden zich aan de in de ministeriële regeling gestelde regels als bedoeld in artikel 58, onderdeel f, over de uitoefening van hun bevoegdheden.
