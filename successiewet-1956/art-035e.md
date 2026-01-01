@@ -4,7 +4,7 @@ a. indien het een verkrijging betreft als bedoeld in artikel 35c, eerste lid, on
 b. indien het een verkrijging betreft als bedoeld in artikel 35c, eerste lid, onderdeel b: de verkrijger houdt op uit de verkregen medegerechtigdheid, of een gedeelte daarvan, winst te genieten;
 c. indien het een verkrijging betreft van vermogensbestanddelen als bedoeld in artikel 35c, eerste lid, onderdeel c:
 1°. de verkrijger vervreemdt vermogensbestanddelen of een gedeelte van de in deze vermogensbestanddelen liggende rechten;
-2°. vermogensbestanddelen worden omgezet in preferente aandelen of op andere wijze wordt de aanspraak van de verkregen vermogensbestanddelen op toekomstige winsten of waardeontwikkelingen beperkt, of
+2°. vermogensbestanddelen worden omgezet in preferente aandelen of de aanspraak van de verkregen vermogensbestanddelen op toekomstige winsten of waardeontwikkelingen wordt, al dan niet via uitgifte van vermogensbestanddelen, op andere wijze beperkt; of
 3°. het lichaam waarop de vermogensbestanddelen betrekking hebben, houdt op uit de onderneming of de medegerechtigdheid, of een gedeelte daarvan, winst te genieten;
 d. indien het een verkrijging betreft als bedoeld in artikel 35c, eerste lid, onderdeel d:
 1°. de verkrijger houdt op de onroerende zaak geheel of voor een gedeelte daarvan ter beschikking te stellen aan het in dat lid bedoelde lichaam, of
@@ -12,5 +12,8 @@ d. indien het een verkrijging betreft als bedoeld in artikel 35c, eerste lid, on
 2. Indien de verkrijger in de periode, bedoeld in het eerste lid, een samenwerkingsverband aangaat, houdt hij voor de toepassing van dit artikel slechts op winst te genieten voor zover zijn gerechtigdheid tot de winst daardoor verder afneemt dan het aandeel in de winst waartoe hij gerechtigd was vóór de verkrijging waarop artikel 35b is toegepast.
 3. Voor de toepassing van het eerste lid, onderdeel c, wordt onder vervreemden mede verstaan een handeling of gebeurtenis als bedoeld in artikel 4.16, eerste lid, onderdelen a, b, c, d, e en i, tweede lid, en vijfde lid, van de Wet inkomstenbelasting 2001, ook als deze handeling of gebeurtenis betrekking heeft op vermogensbestanddelen die bij de verkrijger niet tot een aanmerkelijk belang behoren als bedoeld in afdeling 4.3 van de Wet inkomstenbelasting 2001.
 4. Het eerste lid, onderdeel c, is van overeenkomstige toepassing op de gewone aandelen van de verkrijger, bedoeld in artikel 35c, vierde lid. Ingeval met betrekking tot de in de eerste volzin bedoelde gewone aandelen niet wordt voldaan aan het eerste lid, onderdeel c, vervalt de voorwaardelijke vrijstelling met betrekking tot de preferente aandelen, bedoeld in artikel 35c, vierde lid, overeenkomstig artikel 35b, zesde lid, naar evenredigheid.
-5. Indien zich een van de in het eerste lid bedoelde gebeurtenissen heeft voorgedaan, doet de verkrijger hiervan aangifte binnen acht maanden na die gebeurtenis.
-6. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel.
+5. Het vierde lid is van overeenkomstige toepassing op gewone aandelen van de verkrijger die zijn toegekend in het kader van een bedrijfsoverdracht als bedoeld in artikel 35c, vijfde lid, derde zin.
+6. Een verkrijger voldoet mede aan het voortzettingsvereiste in bij ministeriële regeling te stellen omstandigheden die passen bij het doel en de strekking van het voortzettingsvereiste als voldaan wordt aan de daarin gestelde voorwaarden.
+7. Een verkrijger voldoet in geval van bij ministeriële regeling aangewezen situaties van overheidsingrijpen mede aan het voortzettingsvereiste onder bij die ministeriële regeling te stellen voorwaarden.
+8. Indien zich een van de in het eerste lid bedoelde gebeurtenissen heeft voorgedaan, doet de verkrijger hiervan aangifte binnen acht maanden na die gebeurtenis.
+9. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel.
