@@ -1,0 +1,3 @@
+# Artikel 20a. Geldigheid oude indicatiebesluiten
+1. De artikelen van hoofdstuk 5 zoals die luidden voor de datum van inwerkingtreding van het besluit van 11 december 2014, Stb. 556 tot wijziging van het Besluit uitvoering kinderbijslag in verband met de aanpassing aanwijzing intensieve zorg blijven van toepassing voor een indicatiebesluit dat is afgegeven voor 1 januari 2015.
+2. In geval van toepassing van het eerste lid blijven indicatiebesluiten waarvan de geldigheidsduur eindigt in 2015 gedurende zes maanden na de datum van het einde van de geldigheidsduur van het indicatiebesluit van kracht.
