@@ -1,0 +1,2 @@
+# Artikel V
+Onze Minister van Justitie en Veiligheid zendt binnen vijf jaar na de inwerkingtreding van deze wet en vervolgens telkens na vijf jaar aan de Staten-Generaal een verslag over de wijze waarop invulling wordt gegeven aan het recht van filmmakers en uitvoerend kunstenaars op een billijke vergoeding voor de beschikbaarstelling van filmwerken voor het publiek op grond van artikel 45d van de Auteurswet en artikel 4 van de Wet op de naburige rechten.
