@@ -1,0 +1,19 @@
+# Artikel 42g
+1. De goederen die met vrijstelling van omzetbelasting, van accijns of van verbruiksbelasting van alcoholvrije dranken, bedoeld in artikel 42, zijn geleverd aan of intracommunautair zijn verworven door buitenlandse NAVO-strijdkrachten, kunnen aan het personeel van die strijdkrachten of gezinsleden daarvan in militaire winkels, kantines, restaurants, clubs of messes worden verkocht of om niet te worden overgedragen onder voorwaarde dat:
+a. het personeel van buitenlandse NAVO-strijdkrachten of gezinsleden daarvan uitsluitend toegang hebben tot militaire winkels, kantines, restaurants, clubs of messes op vertoon van een geldige persoonlijke identiteitskaart die is voorzien van naam, datum en plaats van geboorte, nationaliteit, eventueel rang en stamboeknummer, foto en geldigheidsduur;
+b. gerantsoeneerde goederen, genoemd in de bijlage, uitsluitend worden verkocht aan personeel van de buitenlandse NAVO-strijdkrachten of gezinsleden daarvan die in het bezit zijn van een geldige rantsoenkaart of een elektronisch equivalent daarvan die, onderscheidenlijk dat, is afgegeven door de commandant;
+c. de rantsoenkaarten of het elektronische equivalent daarvan geldig zijn gedurende de wekelijkse periode, die erop vermeld staat, de daaraan voorafgaande week en gedurende twee weken na bedoelde periode;
+d. de rantsoenkaarten of het elektronische equivalent daarvan afgegeven kunnen worden in een vorm die de mogelijkheid biedt de rantsoenen aan te geven voor maximaal 26 achtereenvolgende weken;
+e. de in de militaire winkel geleverde hoeveelheid gerantsoeneerde goederen afgeschreven worden van de op de rantsoenkaart of op het elektronische equivalent daarvan vermelde hoeveelheid onder vermelding van de datum van levering;
+f. in militaire kantines, restaurants, clubs of messes gerantsoeneerde alcoholhoudende dranken slechts worden verkocht voor consumptie ter plaatse;
+g. in militaire kantines, restaurants, clubs of messes tabaksproducten uitsluitend worden verkocht in de kleinhandelsverpakking en afgeschreven worden op de rantsoenkaart of op het elektronische equivalent daarvan.
+2. De commandant houdt in zijn administratie bij de afgifte van rantsoenkaarten of het elektronische equivalent daarvan. Hierbij wordt in ieder geval vastgelegd het serienummer van de afgegeven kaart, in numerieke volgorde, met daarbij de naam van de gerechtigde en zijn rang alsmede de bijzonderheden omtrent de geldige identiteitskaart en in voorkomend geval zijn handtekening.
+3. Na elke rantsoenperiode wordt de administratie gedurende zeven jaar bewaard.
+4. De in gebruik zijnde en niet meer in gebruik zijnde administratie wordt op verzoek ter beschikking gesteld aan de inspecteur.
+5. De militaire winkels, kantines, restaurants, clubs of messes van de buitenlandse NAVO-strijdkrachten zijn gehouden een administratie te voeren van alle ingekochte en verkochte goederen. Deze administratie wordt zeven jaar bewaard en wordt desgevraagd ter beschikking gesteld aan de inspecteur voor controle.
+6. De commandant zorgt ervoor dat:
+a. personeelsleden of gezinsleden daarvan, die niet langer gerechtigd zijn tot rantsoenen, hun rantsoenkaart of het elektronische equivalent daarvan inleveren;
+b. degene die zijn rantsoenkaart of het elektronische equivalent daarvan verliest, dat verlies aan hem opgeeft en dat de inspecteur en de militaire winkels, kantines, restaurants, clubs of messes daarover worden ingelicht;
+c. de aankoop van goederen wordt geweigerd in het geval dat een geldig identiteitsbewijs en een rantsoenkaart of het elektronische equivalent daarvan niet kunnen worden getoond.
+De commandant beslist of een vervangende rantsoenkaart of het elektronische equivalent daarvan al dan niet zal worden afgegeven.
+7. Met toestemming van de inspecteur en onder eventueel door hem te stellen voorwaarden kan het beheer en de exploitatie van militaire winkels, kantines, restaurants, clubs of messes worden uitbesteed aan derden.

@@ -1,0 +1,5 @@
+# Artikel 42q
+1. Op grond van artikel 39 van de wet wordt vrijstelling van omzetbelasting verleend ter zake van de levering of de intracommunautaire verwerving van goederen en het verrichten van diensten en wordt vrijstelling van accijns verleend ter zake de uitslag tot verbruik van goederen aan buitenlandse EU-strijdkrachten, ten behoeve van die strijdkrachten of het personeel van die strijdkrachten of voor de bevoorrading van de messes of kantines van die strijdkrachten.
+2. De buitenlandse EU-strijdkrachten, het personeel van die strijdkrachten, de messes of kantines van die strijdkrachten worden voor de toepassing van de vrijstelling aangemerkt als buitenlandse NAVO-strijdkrachten, onderscheidenlijk personeel van die strijdkrachten, messes of kantines van die strijdkrachten.
+3. In afwijking van het tweede lid zijn artikel 42c, tweede lid, artikel 42i, artikel 42j, artikel 42k, onderdeel a, en artikel 42l niet van toepassing.
+4. Aan gezinsleden van personeel van buitenlandse EU-strijdkrachten wordt geen vrijstelling verleend.

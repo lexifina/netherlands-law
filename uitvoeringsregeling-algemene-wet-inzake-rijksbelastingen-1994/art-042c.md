@@ -1,0 +1,3 @@
+# Artikel 42c
+1. Vrijstelling van omzetbelasting bij wijze van toepassing van het tarief van nihil wordt verleend voor de levering van aardgas, elektriciteit en leidingwater aan buitenlandse NAVO-strijdkrachten en aan het personeel van die strijdkrachten voor hun persoonlijk gebruik.
+2. In gevallen waarin op grond van het eerste lid een vrijstelling wordt verleend van omzetbelasting geheven ter zake van de levering van aardgas, elektriciteit of leidingwater, wordt mede een vrijstelling verleend van energiebelasting en opslag duurzame energie- en klimaattransitie, onderscheidenlijk belasting op leidingwater. Artikel 32a, tweede en derde lid, onderscheidenlijk artikel 32b, tweede en derde lid, is van overeenkomstige toepassing.

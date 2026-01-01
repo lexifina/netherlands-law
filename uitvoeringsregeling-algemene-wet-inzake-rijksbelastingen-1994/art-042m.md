@@ -1,0 +1,4 @@
+# Artikel 42m
+De commandant verleent desgevraagd met alle hem ten dienste staande middelen aan de inspecteur de benodigde medewerking:
+a. om te verzekeren dat goederen die in aanmerking komen voor inbeslagneming of beslaglegging aan de inspecteur respectievelijk de ontvanger worden overgedragen;
+b. opdat de door het personeel van de betreffende buitenlandse NAVO-strijdkrachten en de gezinsleden daarvan eventueel verschuldigde omzetbelasting, belastingen op milieugrondslag, opslag duurzame energie, belastingen van personenauto's en motorrijwielen, verbruiksbelasting van alcoholvrije dranken, motorrijtuigenbelasting inclusief provinciale opcenten, accijnzen inclusief eventuele voorraadheffing, rente, kosten, bestuurlijke boeten en strafbeschikkingen als bedoeld in artikel 2 van de Invorderingswet 1990 worden betaald.

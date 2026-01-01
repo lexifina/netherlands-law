@@ -1,0 +1,4 @@
+# Artikel 1e
+1. Bij een verzoek een categorie instellingen dan wel een groep van met elkaar verbonden instellingen bij één voor bezwaar vatbare beschikking aan te merken als algemeen nut beogende instellingen of als culturele instellingen (gemeenschappelijke aanwijzing), wordt in het verzoek vermeld op welke instellingen het verzoek betrekking heeft.
+2. Een instelling waarop een verzoek om een gemeenschappelijke aanwijzing betrekking heeft maar die niet voldoet aan de voorwaarden voor aanmerking als algemeen nut beogende instelling, wordt niet in de gemeenschappelijke aanwijzing opgenomen.
+3. Een beschikking inzake een gemeenschappelijke aanwijzing kan met betrekking tot elk van de aldus aangemerkte instellingen afzonderlijk worden ingetrokken, met ingang van het tijdstip waarop die instelling niet meer voldoet aan de voorwaarden. Het intrekken van die beschikking kan terugwerken tot en met een voor dagtekening daarvan gelegen datum.

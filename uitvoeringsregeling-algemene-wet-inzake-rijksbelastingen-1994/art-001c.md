@@ -1,0 +1,2 @@
+# Artikel 1c
+Als staat als bedoeld in artikel 5b, eerste lid, onderdeel d, onder 1° en 2°, van de wet en als bedoeld in artikel 5c, onderdeel d, van de wet wordt aangewezen elke mogendheid waarmee in de relatie met Nederland voor de heffing van inkomstenbelasting, vennootschapsbelasting, schenkbelasting en erfbelasting zonder beperkingen of voorbehouden de uitwisseling is geregeld van gegevens, inlichtingen en gegevensdragers.
