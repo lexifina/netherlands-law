@@ -1,0 +1,3 @@
+# Artikel IX. Inwerkingtreding
+1. Deze regeling treedt in werking met ingang van 1 januari 2026.
+2. Artikel VIII werkt terug tot en met 1 januari 2025.
