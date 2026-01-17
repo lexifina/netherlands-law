@@ -1,0 +1,3 @@
+# Artikel 17aa. Nadere regeling aflossingsmoment eigenwoningschuld
+1. Indien de over een kalendermaand verschuldigde aflossing van een tot de eigenwoningschuld behorende schuld in de eerste vijf werkdagen van de daaropvolgende kalendermaand wordt gedaan, wordt voor de toepassing van de artikelen 3.119c en 3.119e van de wet het bedrag van deze schuld op de laatste dag van de kalendermaand waarover de aflossing verschuldigd was, verminderd met die aflossing.
+2. Onder werkdagen als bedoeld in het eerste lid worden verstaan alle dagen van het jaar met uitzondering van zaterdagen, zondagen, algemeen erkende feestdagen als bedoeld in artikel 3, eerste lid, van de Algemene termijnenwet, de Goede Vrijdag en 1 mei.

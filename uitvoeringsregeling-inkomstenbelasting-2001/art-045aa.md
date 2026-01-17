@@ -1,0 +1,7 @@
+# Artikel 45aa. Bijzondere regels voor ambtshalve verminderingen
+De inspecteur vermindert ambtshalve een belastingaanslag die op een te hoog bedrag is vastgesteld zodra hem dat is gebleken, tenzij:
+a. vijf jaren zijn verlopen na het einde van het kalenderjaar waarop de belastingaanslag betrekking heeft;
+b. de onjuistheid van de belastingaanslag voortvloeit uit jurisprudentie die eerst is gewezen nadat die belastingaanslag onherroepelijk vast is komen te staan, tenzij de Minister van Financiën anders heeft bepaald;
+c. de onjuistheid van de belastingaanslag voortvloeit uit beleidsregels van de Minister van Financiën die eerst zijn uitgevaardigd nadat die belastingaanslag onherroepelijk vast is komen te staan, tenzij de Minister van Financiën anders heeft bepaald;
+d. de onjuistheid van de belastingaanslag voortvloeit uit de omstandigheid dat eerst nadat die belastingaanslag onherroepelijk vast is komen te staan een beroep wordt gedaan op een fiscale faciliteit, waarop een beroep moet worden gedaan bij de aangifte of op een ander wettelijk voorgeschreven moment; of
+e. sprake is van enig feit waardoor ten onrechte inkomstenbelasting is geheven en als gevolg van die heffing een andere belasting, al dan niet van dezelfde belastingplichtige, ter zake van datzelfde feit niet is geheven en ook niet meer kan worden geheven, met dien verstande dat in dat geval wel ambtshalve vermindering plaatsvindt voor zover het bedrag van de eerstgenoemde belasting het bedrag van de andere belasting te boven gaat.

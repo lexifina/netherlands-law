@@ -1,0 +1,2 @@
+# Artikel 17a. Aanvullende bepalingen met betrekking tot de eigenwoningreserve
+Indien in de overeenkomst ter zake van de verwerving van een eigen woning, ten behoeve van de uitvoering van het woonbeleid van de rijksoverheid of een gemeente, een clausule is opgenomen op grond waarvan bij niet-nakoming van die clausule een bedrag verschuldigd is, kan bij de vervreemding van die woning het bedrag dat ter zake van het niet nakomen van de clausule is betaald in mindering worden gebracht op het vervreemdingssaldo eigen woning, bedoeld in artikel 3.119aa, eerste lid, van de wet.
