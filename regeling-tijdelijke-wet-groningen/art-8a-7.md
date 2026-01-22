@@ -1,0 +1,3 @@
+# Artikel 8a.7
+1. De artikelen 8a.1, tweede lid, 8a.2, 8a.3, 8a.4 en 8a.5 zijn van overeenkomstige toepassing op de rechtmatige gebruiker van een gebouw niet zijnde de eigenaar voor de kosten die hij maakt voor financieel advies, met dien verstande dat waar in de genoemde artikelen wordt gesproken over 'eigenaar' dit gelezen moet worden als 'rechtmatige gebruiker van een gebouw niet zijnde de eigenaar' en waar wordt gesproken over 'artikel 13n, vierde of vijfde lid, van de wet' dit gelezen moet worden als 'artikel 13m, eerste lid, van de wet'.
+2. Artikel 7.1, tweede lid, is niet van toepassing op het eerste lid.
