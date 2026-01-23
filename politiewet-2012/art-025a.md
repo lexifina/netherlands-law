@@ -1,5 +1,5 @@
 # Artikel 25a
-1. Een meldkamer is de fysieke plaats waar de meldkamerfunctie, bedoeld in artikel 25b, eerste lid, wordt uitgevoerd. De politie heeft meldkamers.
+1. Een meldkamer is de fysieke plaats waar de meldkamerfunctie, bedoeld in artikel 25b, eerste lid, wordt uitgevoerd. De politie heeft meldkamers. Er zijn tien meldkamers.
 2. Bij algemene maatregel van bestuur wordt voor elke meldkamer de locatie aangewezen, alsmede het gebied waarvoor op die meldkamer de meldkamerfunctie wordt uitgevoerd.
 3. De politie draagt er zorg voor dat op elke meldkamer ook voor de werkgebieden van de andere meldkamers de meldkamerfunctie kan worden uitgevoerd.
 4. De meldkamerfunctie wordt voor het werkgebied van een andere meldkamer uitgevoerd indien dat noodzakelijk is voor de uitvoering van de meldkamerfunctie voor dat werkgebied.
