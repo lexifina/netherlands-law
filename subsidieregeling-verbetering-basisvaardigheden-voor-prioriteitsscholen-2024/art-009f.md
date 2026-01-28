@@ -1,0 +1,6 @@
+# Artikel 9f. Afwijzingsgronden
+1. Onverminderd artikel 4:35 van de Algemene wet bestuursrecht wordt een subsidie in elk geval geweigerd:
+a. indien aan het bevoegd gezag voor de desbetreffende vestiging eerder subsidie is verstrekt op grond van de Subsidieregeling verbetering basisvaardigheden, de Subsidieregeling verbetering basisvaardigheden voor prioriteitsscholen 2023,
+Subsidieregeling verbetering basisvaardigheden voor scholen 2023, de Subsidieregeling verbetering basisvaardigheden voor prioriteitsscholen 2024 of de Subsidieregeling verbetering basisvaardigheden voor scholen voor scholen 2024;
+b. indien de kwaliteit van het onderwijs van de desbetreffende schoolvestiging in het primair onderwijs of afdeling in het voortgezet onderwijs door de Inspectie van het Onderwijs bij besluit op de peildatum 25 november 2024niet als 'zeer zwak' of 'onvoldoende' is beoordeeld en voor zover de subsidie is aangevraagd in het eerste tijdvak, bedoeld in artikel 9a, tweede lid;
+c. indien de kwaliteit van het onderwijs van de desbetreffende schoolvestiging in het primair onderwijs of afdeling in het voortgezet onderwijs door de Inspectie van het Onderwijs bij besluit op de peildatum 1 augustus 2025niet als 'zeer zwak' of 'onvoldoende' is beoordeeld en voor zover de subsidie is aangevraagd in het tweede tijdvak, bedoeld in artikel 9b, tweede lid.
