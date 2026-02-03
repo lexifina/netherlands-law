@@ -1,0 +1,2 @@
+# Artikel 3c
+De accountant bedoeld in artikel 393 lid 1 van Boek 2 van het Burgerlijk Wetboek gaat na of de verklaring inzake corporate governance overeenkomstig dit besluit is opgesteld en met de jaarrekening verenigbaar is, en of de verklaring in het licht van de tijdens het onderzoek van de jaarrekening verkregen kennis en begrip omtrent de rechtspersoon en zijn omgeving, materiële onjuistheden bevat.
