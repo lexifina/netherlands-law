@@ -1,0 +1,4 @@
+# Artikel V. Inwerkingtreding
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+2. In afwijking van het eerste lid, treden de artikelen I, onderdelen Ka en Q, onder 1, subonderdelen g, ga en gb, II, onderdeel Ea, en III, onderdeel Fa, in werking op het tijdstip waarop artikel XXIIIA van de Verzamelwet SZW 2026 in werking treedt, met dien verstande dat artikel XXIIIA van de Verzamelwet SZW 2026 in werking treedt voordat de artikelen I, onderdelen Ka en Q, onder 1, subonderdelen g, ga en gb, II, onderdeel Ea, en III, onderdeel Fa, van deze wet in werking treden.
+3. Indien artikel XXIIIA van de Verzamelwet SZW 2026 in werking treedt na 1 januari 2026, werkt de inwerkingtreding van de artikelen I, onderdelen Ka en Q, onder 1, subonderdelen g, ga en gb, II, onderdeel Ea, en III, onderdeel Fa, van deze wet terug tot en met 1 januari 2026.
