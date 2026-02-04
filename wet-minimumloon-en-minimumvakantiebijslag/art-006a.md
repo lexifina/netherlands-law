@@ -1,0 +1,2 @@
+# Artikel 6a
+De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer in of buiten rechte de in deze wet aan hem toegekende rechten of zijn recht op het in de collectieve arbeidsovereenkomst geregelde laagste schaalbedrag in de laagste loonschaal of andere minimumvergoeding voor de verrichte arbeid geldend maakt, ter zake bijstand heeft verleend of een klacht hierover heeft ingediend.
