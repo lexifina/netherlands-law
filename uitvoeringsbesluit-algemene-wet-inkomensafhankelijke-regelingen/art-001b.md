@@ -1,0 +1,3 @@
+# Artikel 1b
+1. De verstrekking van gegevens en inlichtingen ingevolge artikel 38, eerste lid, van de wet aan de Dienst Toeslagen vindt plaats onder vermelding van het burgerservicenummer van degene op wie de gegevens betrekking hebben en geschiedt op de door de Dienst Toeslagen voorgeschreven wijze. De Dienst Toeslagen kan voor de toepassing van artikel 1a bepalen dat de vermelding van het burgerservicenummer achterwege blijft.
+2. Degene op wie de gegevens betrekking hebben, dienen hiertoe hun burgerservicenummer bekend te maken aan de instelling die de gegevensverstrekking aan de Dienst Toeslagen verzorgt.
