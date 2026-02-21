@@ -1,2 +1,0 @@
-# 3.1a.2
-Indien op grond van 3.1a.1 transportcapaciteit aan een invoeder is toegekend en de invoeder maakt hiervan na toekenning geen (volledig) gebruik, heeft de netbeheerder de mogelijkheid om in overleg met en na instemming van de invoeder de transportcapaciteit in te trekken. Zo nodig stelt de netbeheerder de invoeder een redelijke termijn van tenminste een half jaar, indien de invoeder bij voortduring geen (volledig) gebruik maakt van de toegekende transportcapaciteit, alvorens deze toekenning voor het niet gebruikte deel wordt ingetrokken.

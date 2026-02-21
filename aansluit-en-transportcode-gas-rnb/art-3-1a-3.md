@@ -1,2 +1,0 @@
-# 3.1a.3
-Indien binnen een netgebied, waarop reeds één of meer invoedingsinstallaties zijn aangesloten en invoeden, een nieuwe invoedingsinstallatie wordt aangesloten en wil invoeden, en deze nieuwe invoedingsinstallatie de aan de bestaande invoeder(s) beschikbaar gestelde transportcapaciteit nadelig kan beïnvloeden door de instellingen van de drukregeling, treft de netbeheerder zo mogelijk maatregelen in het net om deze nadelige invloed op te heffen.
