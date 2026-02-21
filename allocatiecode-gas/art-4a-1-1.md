@@ -1,2 +1,0 @@
-# 4a.1.1. Algemeen
-In beginsel is de allocatie gelijk aan de confirmatie. Indien de meting ongelijk is aan de som van de confirmaties, wordt het verschil tussen de meting en de som van de confirmaties gealloceerd volgens artikelen 4a.1.1.1 tot en met 4a.1.1.3. Hierbij geeft de netbeheerder van het landelijk gastransportnet op alle overige entry- en exitpunten aan de erkende programmaverantwoordelijken de keuze tussen de allocatierollen Balancerend en Proportioneel.
