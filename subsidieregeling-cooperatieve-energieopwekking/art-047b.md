@@ -1,0 +1,2 @@
+# Artikel 47b. (overgangsbepaling onbalanskosten in de elektriciteitsprijs en correctiebedragen)
+Op beschikkingen tot subsidieverlening die zijn afgegeven op aanvragen voor subsidie die zijn ontvangen voor inwerkingtreding van het Besluit openstelling Subsidieregeling coöperatieve energieopwekking 2026 zijn artikelen 7, eerste lid, onderdeel a, en 9, eerste lid, onderdeel a, subonderdeel 2°, van toepassing zoals die luidden voor 1 maart 2026.
