@@ -1,0 +1,2 @@
+# Artikel VI
+Elke partij is verantwoordelijk voor de bezoldiging van haar scheidsman en de betaling van aanverwante kosten, alsmede voor de kosten van voorbereiding van haar eigen zaak. De kosten van bezoldiging van de voorzitter van het scheidsgerecht en alle uitgaven van algemene aard die de scheidsrechterlijke procedure met zich meebrengt worden door de Partijen gelijkelijk gedragen. Het scheidsgerecht houdt boek van alle uitgaven en verstrekt een eindafrekening.

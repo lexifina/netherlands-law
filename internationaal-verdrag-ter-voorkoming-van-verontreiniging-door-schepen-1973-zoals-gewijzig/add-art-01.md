@@ -1,0 +1,3 @@
+# Article I. Duty to Report
+(1) The Master or other person having charge of any ship involved in an incident referred to in Article II of this Protocol shall report the particulars of such incident without delay and to the fullest extent possible in accordance with the provisions of this Protocol.
+(2) In the event of the ship referred to in paragraph (1) of this Article being abandoned, or in the event of a report from such a ship being incomplete or unobtainable, the owner, charterer, manager or operator of the ship, or their agent shall, to the fullest extent possible, assume the obligations placed upon the Master under the provisions of this Protocol.

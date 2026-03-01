@@ -1,0 +1,3 @@
+# Artikel II
+(1) Een scheidsgerecht wordt ingesteld op verzoek van een Partij bij het Verdrag, gericht aan een andere Partij, overeenkomstig artikel 10 van dit Verdrag. Het verzoek om een scheidsrechterlijke beslissing bevat een voordracht van de zaak en gaat vergezeld van de ter zake dienende stukken.
+(2) De eisende Partij stelt de Secretaris-Generaal van de Organisatie in kennis van het feit dat zij de instelling van een scheidsgerecht heeft verzocht, van de namen van de partijen bij het geschil en van de artikelen van het Verdrag of van de Voorschriften waarvan de uitlegging of de toepassing naar haar mening het voorwerp van het geschil vormen. De Secretaris-Generaal doet deze inlichtingen aan alle Partijen toekomen.

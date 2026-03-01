@@ -1,0 +1,3 @@
+# Article II
+(1) An Arbitration Tribunal shall be established upon the request of one Party to the Convention addressed to another in application of Article 10 of the present Convention. The request for arbitration shall consist of a statement of the case together with any supporting documents.
+(2) The requesting Party shall inform the Secretary-General of the Organization of the fact that it has applied for the establishment of a Tribunal, of the names of the Parties to the dispute, and of the Articles of the Convention or Regulations over which there is in its opinion disagreement concerning their interpretation or application. The Secretary-General shall transmit this information to all Parties.

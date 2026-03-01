@@ -1,0 +1,2 @@
+# Article VI
+Each Party shall be responsible for the remuneration of its Arbitrator and connected costs and for the costs entailed by the preparation of its own case. The remuneration of the Chairman of the Tribunal and of all general expenses incurred by the Arbitration shall be borne equally by the Parties. The Tribunal shall keep a record of all its expenses and shall furnish a final statement thereof.

@@ -1,0 +1,4 @@
+# Artikel V. Meldingsprocedures
+(1) Meldingen dienen via de snelste, beschikbare telecommunicatiekanalen en met de grootst mogelijke voorrang te geschieden aan de dichtstbijzijnde kuststaat.
+(2) Ter uitvoering van de bepalingen van dit Protocol vaardigen de Partijen bij dit Verdrag voorschriften of regels uit, of doen deze uitvaardigen, betreffende de te volgen procedures voor het melden van voorvallen met schadelijke stoffen, gebaseerd op door de Organisatie ontworpen richtlijnen.
+3. In het geval van het verlies van (een) vrachtcontainer(s), dient de door artikel II, eerste lid, onderdeel b, vereiste melding gedaan te worden in overeenstemming met de vereisten voor gevaarberichten zoals voorzien in voorschriften V/31 en V/32 van het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974.
