@@ -1,0 +1,3 @@
+# Artikel XVIII. Regeling van geschillen
+1. Over elk tussen twee of meer Partijen bij deze Overeenkomst gerezen geschil ten aanzien van de interpretatie of de toepassing van de bepalingen van deze Overeenkomst, wordt tussen bij het geschil betrokken Partijen onderhandeld.
+2. Indien het geschil niet overeenkomstig de in het eerste lid van dit artikel kan worden geregeld, kunnen de Partijen met wederzijds goedvinden het geschil aan arbitrage onderwerpen, met name aan die van het Permanente Hof van Arbitrage te 's-Gravenhage; de Partijen die het geschil aan arbitrage hebben onderworpen, zijn door de arbitrale uitspraak gebonden.

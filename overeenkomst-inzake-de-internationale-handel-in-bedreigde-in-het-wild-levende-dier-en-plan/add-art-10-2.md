@@ -1,0 +1,2 @@
+# Artikel X. Handel met Staten die geen Partij bij deze Overeenkomst zijn
+In geval van uitvoer of wederuitvoer naar of van invoer uit een Staat die geen partij is bij deze Overeenkomst, kunnen de Partijen, in plaats van de door dit Verdrag vereiste vergunningen en certificaten, gelijksoortige, door de bevoegde autoriteiten van genoemde Staat uitgereikte documenten aanvaarden; deze documenten moeten in essentie overeenstemmen met de in dit Verdrag voor vergunningen en certificaten vereiste voorwaarden.

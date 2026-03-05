@@ -1,0 +1,19 @@
+# Artikel III. Reglementering van de handel in specimens van in Bijlage I opgenomen soorten
+1. Alle handel in specimens van in Bijlage I opgenomen soorten moet in overeenstemming zijn met de bepalingen van dit artikel.
+2. Voor het uitvoeren van een specimen van een in Bijlage I opgenomen soort is de voorafgaande verlening en overlegging van een uitvoervergunning vereist. Een uitvoervergunning kan slechts worden verleend indien aan de volgende voorwaarden is voldaan:
+a) een wetenschappelijke autoriteit van de Staat van uitvoer heeft verklaard dat deze uitvoer het voortbestaan van de betrokken soort niet schaadt;
+b) ten genoege van een administratieve instantie van de Staat van uitvoer is aangetoond dat de verkrijging van het specimen niet in strijd is geweest met de in die Staat van kracht zijnde wetten inzake het behoud van dier- en plantesoorten;
+c) ten genoege van een administratieve instantie van de Staat van uitvoer is aangetoond dat elk levend specimen op zodanige wijze wordt gereedgemaakt voor verzending en vervoerd dat risico's van verwondingen, schade aan de gezondheid of ruwe behandeling tot een minimum worden beperkt;
+d) ten genoege van een administratieve instantie van de Staat van uitvoer is aangetoond dat een invoervergunning voor genoemd specimen is uitgereikt.
+3. Voor het invoeren van een specimen van een in Bijlage I opgenomen soort is de voorafgaande verlening en overlegging van een invoervergunning en van hetzij een uitvoervergunning, hetzij een certificaat van wederuitvoer nodig. Een invoervergunning kan slechts worden verleend indien aan de volgende voorwaarden is voldaan:
+a) een wetenschappelijke autoriteit van de Staat van invoer heeft verklaard dat de invoer doeleinden dient welke het voortbestaan van genoemde soort niet schaden;
+b) ten genoege van een wetenschappelijke autoriteit van de Staat van invoer is aangetoond, dat degene voor wie een levend specimen is bestemd, voldoende is uitgerust om het te huisvesten en te verzorgen;
+c) ten genoege van een administratieve instantie van de Staat van invoer is aangetoond dat het specimen niet zal worden gebruikt voor overwegend commerciële doeleinden.
+4. Voor de wederuitvoer van een specimen van een in Bijlage I opgenomen soort is de voorafgaande verlening en overlegging van een certificaat van wederuitvoer vereist. Een certificaat van wederuitvoer kan slechts worden verleend indien aan de volgende voorwaarden is voldaan:
+a) ten genoege van een administratieve instantie van de Staat van wederuitvoer is aangetoond dat het specimen overeenkomstig de bepalingen van dit Verdrag in die Staat is ingevoerd;
+b) ten genoege van een administratieve instantie van de Staat van wederuitvoer is aangetoond dat elk levend specimen op zodanige wijze wordt gereedgemaakt voor verzending en vervoerd dat risico's van verwondingen, schade aan de gezondheid of ruwe behandeling tot een minimum worden beperkt;
+c) ten genoege van een administratieve instantie van de Staat van wederuitvoer is aangetoond dat een invoervergunning voor elk levend specimen is verleend.
+5. Voor aanvoer vanuit zee van een specimen van een in Bijlage I opgenomen soort is een certificaat vereist dat tevoren is uitgereikt door de administratieve instantie van de Staat waar het specimen is aangevoerd. Genoemd certificaat kan slechts worden verleend indien aan de volgende voorwaarden is voldaan:
+a) een wetenschappelijke autoriteit van de Staat waar het specimen is aangevoerd heeft verklaard dat deze aanvoer het voortbestaan van de betrokken soort niet schaadt;
+b) ten genoege van een administratieve instantie van de Staat waar het specimen is aangevoerd, is aangetoond dat degene voor wie een levend specimen is bestemd, voldoende is uitgerust om het te huisvesten en te verzorgen;
+c) ten genoege van een administratieve instantie van de Staat waar het specimen is aangevoerd, is aangetoond dat het specimen niet zal worden gebruikt voor overwegend commerciële doeleinden.

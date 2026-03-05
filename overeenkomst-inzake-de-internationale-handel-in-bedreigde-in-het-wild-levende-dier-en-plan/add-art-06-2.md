@@ -1,0 +1,8 @@
+# Artikel VI. Vergunningen en certificaten
+1. De krachtens de bepalingen van de artikelen III, IV en V uitgereikte vergunningen en certificaten moeten in overeenstemming zijn met de bepalingen van dit artikel.
+2. Een uitvoervergunning moet de inlichtingen bevatten zoals aangeduid in het model dat in Bijlage IV is weergegeven en is slechts gedurende een periode van zes maanden te rekenen van de datum van afgifte geldig voor de uitvoer.
+3. Elke vergunning of elk certificaat verwijst naar de titel van deze Overeenkomst en bevat de naam en het stempel van de administratieve instantie die de uitreiking heeft verricht en een door haar toegekend controlenummer.
+4. Elk door een administratieve instantie uitgereikt afschrift van een vergunning of van een certificaat moet duidelijk als zodanig worden gemerkt en kan niet worden gebruikt in plaats van het origineel, tenzij op het afschrift anders is aangegeven.
+5. Een afzonderlijke vergunning of afzonderlijk certificaat is vereist voor elke zending specimens.
+6. Een administratieve instantie van de Staat van invoer van enig specimen dient de uitvoervergunning of het certificaat van wederuitvoer en elke bij de invoer van genoemd specimen overgelegde overeenkomstige invoervergunning ongeldig te verklaren en in te nemen.
+7. Indien zinvol en uitvoerbaar kan een administratieve instantie een specimen ter identificatie van een kenteken voorzien. Voor dit doel betekent „kenteken" elk onuitwisbaar merkteken, loden zegel of ander geschikt middel waarmee een specimen geïdentificeerd kan worden en dat zo is ontworpen dat namaak ervan zoveel mogelijk is bemoeilijkt.

@@ -1,0 +1,7 @@
+# Artikel II. Grondbeginselen
+1. Bijlage I omvat alle met uitsterven bedreigde soorten die door de handel worden of zouden kunnen worden getroffen. De handel in specimens van deze soorten moet aan bijzonder strenge voorschriften worden onderworpen ten einde hun voortbestaan niet verder in gevaar te brengen en zij moet slechts in buitengewone gevallen worden toegestaan.
+2. Bijlage II omvat
+a) alle soorten die weliswaar niet noodzakelijkerwijze thans worden bedreigd met uitsterven, maar die hieraan zouden kunnen worden blootgesteld indien de handel in specimens van deze soorten niet zou worden onderworpen aan strenge voorschriften die ten doel hebben de hun voortbestaan bedreigende exploitatie te vermijden;
+b) andere soorten die aan voorschriften moeten worden onderworpen ten einde de in alinea a) bedoelde controle op de handel in specimens van de in Bijlage II opgenomen soorten doeltreffend te maken.
+3. Bijlage III omvat alle soorten waarvan een Partij verklaart dat deze, binnen de grenzen van haar rechtsbevoegdheid, zijn onderworpen aan een verordening die ten doel heeft hun exploitatie te verhinderen of te beperken en waarvoor de samenwerking met de andere Partijen bij de controle op de handel noodzakelijk is.
+4. De Partijen staan de handel in specimens van de in Bijlagen I, II en III opgenomen soorten slechts toe indien deze in overeenstemming is met de bepalingen van deze Overeenkomst.
