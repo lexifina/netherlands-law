@@ -1,0 +1,2 @@
+# Artikel II
+Het verbod, bedoeld in artikel 5 van de Sanctieregeling Iran 2012, zoals gewijzigd bij deze regeling, geldt niet voor het aanbieden van kennis als bedoeld in dat artikel aan de personen ten aanzien van wie de Minister van Onderwijs, Cultuur en Wetenschap, in overeenstemming met de Minister van Buitenlandse Handel en Ontwikkelingssamenwerking, geadviseerd heeft over een risico op overtreding van de verboden, bedoeld in artikel 4bis en artikel 4ter van Verordening (EU) nr. 267/2012.
