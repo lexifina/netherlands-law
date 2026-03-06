@@ -1,0 +1,2 @@
+# Artikel 5a
+Een rechtspersoon die een in de bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek opgenomen instelling of academisch ziekenhuis in stand houdt of is, verstrekt de Minister van Onderwijs, Cultuur en Wetenschap gevraagd en ongevraagd alle inlichtingen over wijzigingen in het door de instelling verzorgde onderwijs en onderzoek die van belang kunnen zijn voor de toepassing van artikel 5.
