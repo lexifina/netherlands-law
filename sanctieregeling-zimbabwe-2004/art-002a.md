@@ -1,0 +1,3 @@
+# Artikel 2a
+1. De bevoegde autoriteit, bedoeld in artikel 4, eerste lid, artikel 4bis, eerste en derde lid, en artikel 8 van Verordening (EG) nr. 314/2004 is de Minister van Financiën voor zover het betreft financieringen of financiële bijstand, de vrijgave of beschikbaarstelling van tegoeden of informatie van financiële aard.
+2. De bevoegde autoriteit bedoeld in artikel 4, eerste lid, artikel 4bis, eerste en derde lid, en artikel 8 van Verordening (EG) nr. 314/2004 is de Minister van Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft technische bijstand dan wel de vrijgave of beschikbaarstelling van economische middelen of informatie anders dan van financiële aard.
