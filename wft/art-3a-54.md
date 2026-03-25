@@ -3,8 +3,8 @@
 2. De Nederlandsche Bank kan besluiten tot opschorting van een aan een derde toebehorende bevoegdheid tot beëindiging van een overeenkomst met een dochteronderneming van de entiteit in afwikkeling indien:
 a. de verplichtingen op grond van de overeenkomst door de entiteit in afwikkeling worden gegarandeerd of anderszins gewaarborgd;
 b. de beëindigingsrechten op grond van de overeenkomst uitsluitend zijn gebaseerd op de insolvabiliteit of financiële positie van de entiteit in afwikkeling; en
-c. met betrekking tot de entiteit in afwikkeling een besluit is of kan worden genomen tot overgang van eigendomsinstrumenten, activa of passiva en:
-i. alle activa of passiva van de dochteronderneming in verband met die overeenkomst aan de verkrijger zijn of kunnen overgaan en door hem zijn of kunnen worden verkregen; of
+c. met betrekking tot de entiteit in afwikkeling een besluit is of kan worden genomen tot overgang van eigendomsinstrumenten, activa, rechten of passiva en:
+i. alle activa, rechten of passiva van de dochteronderneming in verband met die overeenkomst aan de verkrijger zijn of kunnen overgaan en door hem zijn of kunnen worden verkregen; of
 ii. de Nederlandsche Bank op een andere wijze passende bescherming biedt voor dergelijke verplichtingen.
 3. De opschorting, bedoeld in het eerste en tweede lid, werkt vanaf het tijdstip van de bekendmaking van het besluit tot 00.00 uur Nederlandse tijd aan het einde van de werkdag volgend op de bekendmaking onderscheidenlijk de tijd van de lidstaat waar de dochteronderneming is gevestigd.
 4. De opschorting werkt niet ten aanzien van een:

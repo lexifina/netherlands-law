@@ -1,0 +1,2 @@
+# Artikel 212pp
+Afdeling 11AA is, met uitzondering van de artikelen 212hb, 212k, 212ra en 212re van overeenkomstige toepassing op een financiële holding, gemengde financiële holding, gemengde holding of financiële instelling als bedoeld in artikel 3A:2, onderdelen c tot en met f, van de Wet op het financieel toezicht, met zetel in Nederland, met dien verstande dat de passages omtrent het hebben van een vergunning niet relevant zijn voor de hiervoor genoemde ondernemingen.

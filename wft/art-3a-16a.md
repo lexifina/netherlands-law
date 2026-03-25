@@ -1,2 +1,0 @@
-# Artikel 3a:16a. Raadpleging andere autoriteiten niet van toepassing
-Voor zover in de artikelen van de verordening gemeenschappelijk afwikkelingsmechanisme die in de artikelen 3A:14 tot en met 3A:16 van overeenkomstige toepassing zijn verklaard is bepaald dat de Afwikkelingsraad de Europese Centrale Bank, de nationale afwikkelingsautoriteit of de bevoegde autoriteit raadpleegt, geldt die verplichting niet voor de Nederlandsche Bank.

@@ -1,0 +1,2 @@
+# Artikel 3a:10a. Voorstellen entiteit betreffende afwikkelbaarheid
+Indien de betrokken entiteit een mededeling ontvangt als bedoeld in artikel 3A:10, tweede lid, doet die entiteit voorstellen als bedoeld in artikel 17, derde lid, eerste tot en met derde alinea van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen aan de Nederlandsche Bank om de wezenlijke belemmeringen aan te pakken of weg te nemen binnen de in artikel 17, derde lid, van die richtlijn voorgeschreven termijnen.

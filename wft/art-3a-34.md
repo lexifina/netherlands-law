@@ -1,2 +1,2 @@
 # Artikel 3a:34. Rechtsopvolging verkrijger in andere lidstaat
-Voor de toepassing van de artikelen 2:15, eerste lid, 2:18, eerste lid, en 2:98 wordt een verkrijger met zetel in een andere lidstaat beschouwd als de rechtsopvolger van de entiteit in afwikkeling en kan deze alle rechten blijven uitoefenen die door die entiteit werden uitgeoefend met betrekking tot de activa of passiva die zijn overgegaan.
+Voor de toepassing van de artikelen 2:15, eerste lid, 2:18, eerste lid, en 2:98 wordt een verkrijger met zetel in een andere lidstaat beschouwd als de rechtsopvolger van de entiteit in afwikkeling en kan deze alle rechten blijven uitoefenen die door die entiteit werden uitgeoefend met betrekking tot de activa, rechten of passiva die zijn overgegaan.

@@ -1,0 +1,2 @@
+# Artikel 3a:9a. Afwikkelingsplan binnen SRM
+Indien de Nederlandsche Bank op grond van de verordening gemeenschappelijk afwikkelingsmechanisme een groepsafwikkelingsplan opstelt voor een EU-moederonderneming strekt dit plan zich ook uit, onder voorbehoud van titel VI van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen, tot dochterondernemingen met zetel in een staat die geen lidstaat is.

@@ -1,0 +1,2 @@
+# Artikel 3a:56a. Verzoek opschorting gerechtelijke procedures
+Onverminderd artikel 3A:53, kan de Nederlandsche Bank indien nodig voor de doeltreffendheid van een of meer afwikkelingsmaatregelen een bevoegd gerecht verzoeken elke gerechtelijke maatregel of procedure waaraan een entiteit in afwikkeling onderworpen is, op te schorten gedurende een in het licht van de nagestreefde doelstelling passende termijn.
