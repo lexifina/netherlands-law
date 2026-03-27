@@ -1,0 +1,2 @@
+# Artikel 9a. Werkelijke aankomst- en vertrektijd
+De in de bijlage behorende bij artikel 2 aangewezen bevoegde autoriteit of plaatselijk bevoegde autoriteit, verstrekt onverwijld aan SafeSeaNet, de werkelijke aankomsttijd in de haven en de werkelijke vertrektijd uit de haven van elk schip dat valt onder het toepassingsgebied van de richtlijn monitoring- en informatiesysteem zeescheepvaart, alsook een identificatiecode van de betreffende haven.

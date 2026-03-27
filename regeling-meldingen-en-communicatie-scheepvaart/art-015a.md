@@ -1,0 +1,2 @@
+# Artikel 15a. Melding overige incidenten aan de Kustwacht Nederland
+De melding van het verlies of de lozing van vistuig, bedoeld in voorschrift 10.6 van Bijlage V bij het op 2 november 1973 te Londen tot stand gekomen Internationaal Verdrag ter voorkoming van verontreiniging door schepen met Protocollen en Bijlagen met Aanhangsels (Trb. 1975, 147), en met het op 17 februari 1978 te Londen tot stand gekomen Protocol bij dat Verdrag met Bijlage en Aanhangsels (Trb. 1978, 188), wordt gedaan aan de Directeur van de Kustwacht Nederland.

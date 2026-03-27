@@ -1,0 +1,4 @@
+# Artikel 4c. Melding gegevens opvarenden
+Van een zeeschip als bedoeld in artikel 3 van de richtlijn registratie opvarenden van passagiersschepen worden ter voldoening aan de meldingsformaliteit, bedoeld in artikel 3a, eerste lid, van het besluit de gegevens bedoeld in artikel 5, eerste lid, en artikel 6, eerste en tweede lid, van die richtlijn, met uitzondering van het op eigen initiatief verstrekte contactnummer voor noodsituaties, gemeld aan de bevoegde autoriteit als:
+1. dat schip uit een in Nederland gelegen haven vertrekt voor een reis waarvan de afstand tussen het vertrekpunt en de volgende aanloophaven meer dan 20 zeemijl bedraagt; of
+2. het schip uit een buiten de lidstaten van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte gelegen haven vertrekt met als bestemming een in Nederland gelegen haven.
