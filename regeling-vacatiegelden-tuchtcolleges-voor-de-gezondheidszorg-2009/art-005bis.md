@@ -1,0 +1,2 @@
+# Artikel 5bis
+Aan de leden-beroepsgenoten en plaatsvervangende leden-beroepsgenoten van een tuchtcollege wordt vacatiegeld ten bedrage van € 295 toegekend voor het als lid-beroepsgenoot van een selectiecommissie bijwonen van per selectieronde een of meer selectiegesprekken met een of meer kandidaten die in aanmerking willen komen voor benoeming tot lid-beroepsgenoot of plaatsvervangend lid-beroepsgenoot.
