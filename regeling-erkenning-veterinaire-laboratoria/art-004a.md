@@ -1,0 +1,8 @@
+# Artikel 4a. Erkend laboratorium derde landen voor onderzoeken overige dierziekten
+1. Onderzoeken bij dieren of daarvan afkomstige dierlijke producten naar een niet-gereguleerde dierziekte voor die desbetreffende soort of groep soorten of een ziekte van categorie E voor die desbetreffende soort of groep soorten worden uitgevoerd door een daartoe door de minister ingevolge deze regeling erkend laboratorium wanneer het onderzoek onder toepassing van artikel 1.59, tweede lid, van het Besluit houders van dieren of artikel 1a.1, tweede lid, van het Besluit dierlijke producten plaatsvindt ten behoeve van uitvoer naar een land, niet zijnde een lidstaat of een andere staat die partij is bij het EER-Verdrag.
+2. Met een erkenning als bedoeld in het eerste lid wordt het volgende gelijkgesteld:
+a. een aanwijzing van een referentielaboratorium van de Europese Unie als bedoeld in artikel 93, eerste lid, van verordening (EU) nr. 2017/625; en
+b. een aanwijzing van een nationaal referentielaboratorium als bedoeld in artikel 100, eerste lid, van verordening (EU) nr. 2017/625 dat is gevestigd in een lidstaat van de Europese Unie; en
+c. een accreditatie conform EN-ISO/IEC 17025 van een in een lidstaat van de Europese Unie gevestigd laboratorium voor de uitvoering van het desbetreffende onderzoek, voor de bij de dierziekte behorende testmethode, diersoort en de matrix, voor zover het desbetreffende onderzoek conform die accreditatie is uitgevoerd.
+3. Voor de toepassing van het eerste en tweede lid is een ziekte van categorie E een ziekte die in de tabel in de bijlage bij verordening (EU) nr. 2018/1882 uitsluitend als ziekte van categorie E is aangewezen.
+4. Het eerste en tweede lid zijn niet van toepassing op onderzoeken naar Q-koorts (Coxiella burnetii).
