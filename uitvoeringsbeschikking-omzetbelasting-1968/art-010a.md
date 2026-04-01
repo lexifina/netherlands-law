@@ -1,0 +1,3 @@
+# Artikel 10a
+1. De in artikel 15, derde lid, eerste volzin, van de wet bedoelde belasting die in de aankoopprijs is begrepen, wordt gesteld op 21/121 van het bedrag van de aankoopprijs, voorzover deze betrekking heeft op een personenauto, een bestelauto of een motorrijwiel verminderd met het bij de personenauto, de bestelauto of het motorrijwiel nog behorende bedrag aan belasting bedoeld in en berekend overeenkomstig artikel 10 van de Wet op de belasting van personenauto's en motorrijwielen 1992.
+2. Het bedrag van de aankoopprijs dient ten genoegen van de inspecteur te worden aangetoond aan de hand van bescheiden zoals een originele factuur, een inkoopverklaring of een betalingsbewijs.

@@ -1,0 +1,16 @@
+# Artikel 36cb
+1. Ondernemers wier bedrijfsuitoefening erop gericht is om ten behoeve van een andere ondernemer te beschikken over een opslagplaats voor goederen als bedoeld in de bij deze regeling behorende bijlage K, kunnen met betrekking tot die opslagplaats voor die goederen in aanmerking komen voor een vergunning voor een plaatsgebonden entrepot als bedoeld in de bij de wet behorende tabel II, onderdeel a, post 8, onder b.
+2. Degene die een vergunning voor een plaatsgebonden entrepot wil verkrijgen, dient daartoe een verzoek in bij de inspecteur.
+3. In het verzoek dient te worden vermeld:
+a. de naam, het adres, het btw-identificatienummer en de aard van het bedrijf van de ondernemer die het verzoek doet;
+b. de goederen waarop het verzoek betrekking heeft;
+c. (vervallen);
+d. de locatie en de inrichting van de als plaatsgebonden entrepot aan te merken plaats of plaatsen.
+4. In de vergunning neemt de inspecteur ten behoeve van de controle op de juiste toepassing van de bij de wet behorende tabel II, onderdeel a, post 8, onder b, nadere voorwaarden op met betrekking tot de tot het plaatsgebonden entrepot te rekenen plaatsen en de door de ondernemer te voeren administratie. Deze voorwaarden bepalen in ieder geval dat de administratie zodanig wordt gevoerd dat bij de beëindiging van de opslag van de goederen in het entrepot de identiteit wordt vastgelegd van de ondernemer van wie de belasting wordt geheven ter zake van de aan hem verrichte, aan de beëindiging van de opslag voorafgaande levering alsmede dat de hoeveelheid en de soort van de desbetreffende goederen wordt omschreven. Daarbij moet, wanneer bedoelde ondernemer een buitenlandse ondernemer is, de naam en het btw-identificatienummer worden vastgelegd van de fiscaal vertegenwoordiger die voor die ondernemer optreedt met betrekking tot die levering. In de vergunning vermeldt de inspecteur voorts de datum met ingang waarvan deze geldt.
+5. De vergunning kan worden gewijzigd of ingetrokken:
+a. op verzoek van de vergunninghouder;
+b. in geval de voorwaarden voor de vergunning niet worden nageleefd.
+6. Het verlenen, het wijzigen en het intrekken van een vergunning alsmede het afwijzen van een verzoek om een vergunning te verlenen, geschieden bij voor bezwaar vatbare beschikking. Een verzoek om een vergunning kan worden geweigerd aan de ondernemer die in de vijf aan het verzoek voorafgaande jaren onherroepelijk is veroordeeld wegens het niet nakomen van een wettelijke bepaling inzake de omzetbelasting.
+7. Onder beëindiging van de opslag van goederen in een plaatsgebonden entrepot wordt verstaan:
+a. het brengen van goederen buiten een plaatsgebonden entrepot dat voor dat soort goederen als zodanig is aangewezen door of in opdracht van de ondernemer die de macht heeft als eigenaar over die goederen te beschikken;
+b. het verrichten van een zodanige be- of verwerking met betrekking tot in een plaatsgebonden entrepot opgeslagen goederen door of in opdracht van de ondernemer die de macht heeft als eigenaar over die goederen te beschikken, dat die goederen daarna geen goederen meer zijn die zijn genoemd in de bij deze regeling behorende bijlage K, dan wel dat die goederen weliswaar goederen zijn die zijn genoemd in die bijlage, maar geschikt zijn om zonder nadere be- of verwerking in de particuliere verbruikssfeer te worden gebracht.

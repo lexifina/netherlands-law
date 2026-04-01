@@ -1,0 +1,5 @@
+# Artikel 13a
+1. In geval van levering door de ondernemer van de goederen, bedoeld in artikel 13, eerste lid, onderdelen a en b, binnen de termijn waarin de aftrek voor het goed of de aan het goed verrichte investeringsdienst, bedoeld in artikel 13, eerste lid, onderdeel c, wordt herzien, is artikel 13, tweede en derde lid, van overeenkomstige toepassing. Daarbij wordt de ondernemer geacht tot het einde van elk van die termijnen het gebruik van het goed, onderscheidenlijk de dienst, voor bedrijfsdoeleinden voort te zetten uitsluitend ten behoeve van:
+a. belaste handelingen, indien ter zake van de levering van het goed belasting verschuldigd is dan wel geen belasting verschuldigd is omdat het gaat om een handeling als bedoeld in artikel 15, tweede lid, van de wet;
+b. handelingen waarvoor geen recht op aftrek van voorbelasting bestaat, indien ter zake van de levering van het goed geen belasting verschuldigd is en het niet gaat om een handeling als bedoeld in artikel 15, tweede lid, van de wet.
+2. De herziening geschiedt in één keer bij de aangifte over het belastingtijdvak waarin de levering plaatsvindt.
