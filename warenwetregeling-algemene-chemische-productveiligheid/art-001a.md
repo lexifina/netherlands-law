@@ -1,0 +1,2 @@
+# Artikel 1a
+Het Europees Agentschap voor chemische stoffen (ECHA) en het Nationaal Vergiftigingen Informatie Centrum worden aangewezen als de organen, bedoeld in artikel 45, eerste lid, van Verordening (EG) nr. 1272/2008 van het Europees parlement en de Raad van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels, tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006.
