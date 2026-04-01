@@ -1,0 +1,3 @@
+# Artikel 1.15bis. Beroep
+1. Eenieder die partij is in een procedure die heeft geleid tot een eindbeslissing van het Bureau in de uitvoering van zijn officiële taken ter toepassing van de titels II, III en IV van dit verdrag, kan daartegen beroep instellen bij het Benelux-Gerechtshof teneinde een vernietiging of herziening van deze beslissing te verkrijgen. De termijn voor het instellen van beroep bedraagt twee maanden te rekenen vanaf de kennisgeving van de eindbeslissing.
+2. De Organisatie kan in procedures voor het Benelux-Gerechtshof die beslissingen van het Bureau betreffen, worden vertegenwoordigd door een daartoe aangewezen personeelslid.

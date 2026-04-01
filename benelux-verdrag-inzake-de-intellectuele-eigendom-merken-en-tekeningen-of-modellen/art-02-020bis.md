@@ -1,0 +1,2 @@
+# Artikel 2.20bis. Weergave van merken in woordenboeken
+Wanneer door de weergave van een merk in een woordenboek, een encyclopedie of een ander naslagwerk in gedrukte of elektronische vorm de indruk wordt gewekt dat het gaat om de soortnaam van de waren of diensten waarvoor het merk is ingeschreven, draagt de uitgever er op verzoek van de houder van het merk zorg voor dat de weergave van het merk onverwijld, en ingeval het een werk in gedrukte vorm betreft, uiterlijk bij de volgende uitgave van het werk, vergezeld gaat van de vermelding dat het een ingeschreven merk betreft.

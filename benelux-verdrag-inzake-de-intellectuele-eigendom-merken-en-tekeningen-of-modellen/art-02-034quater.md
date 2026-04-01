@@ -1,0 +1,4 @@
+# Artikel 2.34quater. Afwijzing van een aanvraag
+1. Naast de in artikel 2.2bis bepaalde weigeringsgronden, met uitzondering van artikel 2.2bis, lid 1, sub c, met betrekking tot tekens of benamingen die in de handel tot aanduiding van de plaats van herkomst van de waren of diensten kunnen dienen, wordt een aanvraag om een collectief merk afgewezen indien niet is voldaan aan de bepalingen van artikel 2.34bis of 2.34ter of indien het reglement voor dat collectief merk strijdig is met de openbare orde of de goede zeden.
+2. Een aanvraag om een collectief merk wordt eveneens afgewezen wanneer het publiek kan worden misleid inzake de aard of betekenis van het merk, met name wanneer het de indruk kan wekken iets anders te zijn dan een collectief merk.
+3. De aanvraag wordt niet afgewezen wanneer de aanvrager door een wijziging van het reglement voor dat collectief merk voldoet aan de in de leden 1 en 2 gestelde eisen.

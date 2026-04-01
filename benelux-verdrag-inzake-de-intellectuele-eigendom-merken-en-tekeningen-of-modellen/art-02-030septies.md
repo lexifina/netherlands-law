@@ -1,0 +1,3 @@
+# Artikel 2.30septies. Voorkoming van nietigverklaring wegens gedogen
+1. De houder van een ouder merk als bedoeld in artikel 2.2ter, lid 2 of lid 3, sub a, die het gebruik van een ingeschreven jonger merk bewust heeft gedoogd gedurende vijf opeenvolgende jaren, kan niet langer op grond van het oudere merk vorderen dat het jongere merk nietig wordt verklaard voor de waren of diensten waarvoor dat jongere merk is gebruikt, tenzij het jongere merk te kwader trouw is gedeponeerd.
+2. In het in lid 1 bedoelde geval kan de houder van een later ingeschreven merk geen bezwaar maken tegen het gebruik van het oudere recht, ofschoon dat recht niet langer aan het jongere merk kan worden tegengeworpen.

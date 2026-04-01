@@ -1,0 +1,4 @@
+# Artikel 2.35bis. Certificeringsmerken
+1. Een certificeringsmerk is een merk dat bij de aanvraag als zodanig wordt omschreven en op grond waarvan de waren of diensten die door de houder van het merk worden gecertificeerd met betrekking tot het materiaal, de wijze van vervaardiging van waren of verrichting van diensten, kwaliteit, nauwkeurigheid of andere kenmerken, met uitzondering van de geografische herkomst, kunnen worden onderscheiden van waren en diensten die niet als zodanig zijn gecertificeerd.
+2. Een natuurlijke of rechtspersoon, met inbegrip van publiekrechtelijke instellingen, autoriteiten en instanties, kan certificeringsmerken aanvragen op voorwaarde dat die persoon geen activiteiten uitoefent waarbij waren worden geleverd of diensten worden verricht van het soort waarop het merk betrekking heeft.
+3. Certificeringsmerken zijn onderworpen aan alle bepalingen van dit verdrag die betrekking hebben op merken, tenzij in dit hoofdstuk anders is bepaald.

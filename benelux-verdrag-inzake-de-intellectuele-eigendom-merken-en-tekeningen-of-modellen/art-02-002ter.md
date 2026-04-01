@@ -1,0 +1,18 @@
+# Artikel 2.2ter. Relatieve gronden voor weigering of nietigheid
+1. Een merk wordt wanneer daartegen oppositie wordt ingesteld niet ingeschreven of kan, indien ingeschreven, nietig worden verklaard indien:
+a. het gelijk is aan een ouder merk en de waren of diensten waarvoor het merk is aangevraagd of ingeschreven, dezelfde zijn als de waren of diensten waarvoor het oudere merk is beschermd;
+b. het gelijk is aan of overeenstemt met een ouder merk en betrekking heeft op gelijke of overeenstemmende waren of diensten en daardoor bij het publiek gevaar voor verwarring bestaat, ook wanneer die verwarring het gevolg is van associatie met het oudere merk.
+2. Onder „oudere merken" in de zin van lid 1 worden verstaan:
+a. merken waarvan de depotdatum voorafgaat aan de depotdatum van het merk, waarbij in voorkomend geval rekening wordt gehouden met het ten behoeve van die merken ingeroepen voorrangsrecht, en die behoren tot de volgende categorieën:
+i. Beneluxmerken en internationale merken waarvan de bescherming zich uitstrekt tot het Benelux-gebied;
+ii. Uniemerken, waaronder begrepen internationale merken waarvan de bescherming zich uitstrekt tot de Europese Unie;
+b. Uniemerken waarvan overeenkomstig de Uniemerkenverordening op geldige wijze de anciënniteit wordt ingeroepen op grond van een onder a, sub i, bedoeld merk, ook al is van dit merk afstand gedaan of is het merk vervallen;
+c. de aanvragen om inschrijving van merken als bedoeld onder a en b, mits deze zullen worden ingeschreven;
+d. merken die op de depotdatum van de aanvraag om inschrijving van het merk of, in voorkomend geval, van het ten behoeve van de merkaanvraag ingeroepen voorrangsrecht, in het Benelux-gebied algemeen bekend zijn in de zin van artikel 6bis van het Verdrag van Parijs.
+3. Voorts wordt een merk wanneer daartegen oppositie wordt ingesteld niet ingeschreven of kan het, indien ingeschreven, nietig worden verklaard:
+a. indien het gelijk is aan of overeenstemt met een ouder merk ongeacht of de waren of diensten waarvoor het is aangevraagd of ingeschreven, gelijk aan, overeenstemmend of niet overeenstemmend zijn met die waarvoor het oudere merk ingeschreven is, wanneer het oudere merk bekend is in het Benelux-gebied, of, in geval van een Uniemerk, in de Europese Unie bekend is en door het gebruik, zonder geldige reden, van het jongere merk ongerechtvaardigd voordeel wordt getrokken uit of afbreuk wordt gedaan aan het onderscheidend vermogen of de reputatie van het oudere merk;
+b. indien het door een gemachtigde of de vertegenwoordiger van de houder op eigen naam en zonder toestemming van de houder wordt aangevraagd, tenzij de gemachtigde of vertegenwoordiger zijn handelwijze rechtvaardigt;
+c. indien en voor zover ingevolge de Uniewetgeving of het interne recht van een van de Beneluxlanden ter bescherming van oorsprongsbenamingen en geografische aanduidingen:
+i. er reeds een aanvraag voor een oorsprongsbenaming of een geografische aanduiding was ingediend overeenkomstig de Uniewetgeving of het interne recht van een van de Beneluxlanden, vóór de datum van de aanvraag om inschrijving van het merk of de datum van het ten behoeve van de aanvraag ingeroepen voorrangsrecht, onder voorbehoud van latere inschrijving;
+ii. die oorsprongsbenaming of geografische aanduiding de persoon die krachtens de toepasselijke wetgeving bevoegd is voor de uitoefening van de daaruit voortvloeiende rechten, machtigt om het gebruik van een later merk te verbieden.
+4. Een merk hoeft niet te worden geweigerd of nietigverklaard wanneer de houder van het oudere merk of oudere recht erin toestemt dat het merk wordt ingeschreven.

@@ -1,0 +1,3 @@
+# Artikel 2.30quater. Vordering tot nietigverklaring of vervallenverklaring van internationale aanvragen
+1. Tegen een internationale aanvraag waarvan is verzocht de bescherming uit te strekken tot het Benelux-gebied kan een vordering tot nietigverklaring of vervallenverklaring worden ingesteld bij het Bureau. De artikelen 2.30bis en 2.30ter zijn van overeenkomstige toepassing.
+2. Het Bureau geeft onverwijld schriftelijk kennis aan het Internationaal Bureau van de ingediende vordering, onder vermelding van het bepaalde in de artikelen 2.30bis en 2.30ter, evenals de daarop betrekking hebbende bepalingen uit het uitvoeringsreglement.

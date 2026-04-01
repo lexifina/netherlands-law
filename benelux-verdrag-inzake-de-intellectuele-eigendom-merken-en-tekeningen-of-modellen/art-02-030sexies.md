@@ -1,0 +1,5 @@
+# Artikel 2.30sexies. Ontbreken van onderscheidend vermogen of van bekendheid van een ouder merk waardoor nietigverklaring van een ingeschreven merk is uitgesloten
+Een vordering tot nietigverklaring op basis van een ouder merk moet op de datum van de vordering tot nietigverklaring worden afgewezen indien zij op de datum van indiening of voorrang van het jongere merk niet zou zijn geslaagd om een van de volgende redenen:
+a. het oudere merk, dat nietig kan worden verklaard krachtens artikel 2.2bis, lid 1, sub b, c of d, had nog geen onderscheidend vermogen verkregen als bedoeld in artikel 2.2bis, lid 3;
+b. de vordering tot nietigverklaring is gebaseerd op artikel 2.2ter, lid 1, sub b, en het oudere merk had nog niet voldoende onderscheidend vermogen verkregen om de conclusie te staven dat er verwarring kon ontstaan in de zin van artikel 2.2ter, lid 1, sub b;
+c. de vordering tot nietigverklaring is gebaseerd op artikel 2.2ter, lid 3, sub a, en het oudere merk was nog niet voldoende bekend in de zin van artikel 2.2ter, lid 3, sub a.

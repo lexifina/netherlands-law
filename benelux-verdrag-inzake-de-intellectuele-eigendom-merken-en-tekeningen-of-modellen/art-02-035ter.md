@@ -1,0 +1,4 @@
+# Artikel 2.35ter. Reglement voor het gebruik van het certificeringsmerk
+1. De aanvrager van een certificeringsmerk moet bij de aanvraag het reglement inzake het gebruik daarvan indienen.
+2. Indien het evenwel gaat om een internationale aanvraag kan de aanvrager dit reglement nog deponeren gedurende een termijn van zes maanden te rekenen vanaf de in artikel 3, sub (4), van de Overeenkomst en het Protocol van Madrid bedoelde kennisgeving van de internationale inschrijving.
+3. Het gebruiksreglement geeft aan welke personen het merk mogen gebruiken, welke kenmerken door het merk worden gecertificeerd, hoe de certificeringsinstantie deze kenmerken moet testen en hoe zij moet toezien op het gebruik van het merk. Dat reglement bepaalt tevens onder welke voorwaarden het merk kan worden gebruikt, alsmede welke sancties kunnen worden opgelegd.
