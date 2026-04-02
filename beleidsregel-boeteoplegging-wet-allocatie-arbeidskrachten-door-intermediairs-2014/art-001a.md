@@ -1,0 +1,4 @@
+# Artikel 1a
+Het boetenormbedrag voor overtreding van artikel 7a, eerste lid of tweede lid, van de Wet allocatie arbeidskrachten door intermediairs wordt met 50% verhoogd, indien zich ten minste één van de volgende situaties voordoet:
+a. in de vijf jaar voorafgaand aan de overtreding is eerder een overtreding van de Wet allocatie arbeidskrachten door intermediairs geconstateerd ten aanzien van de onderneming of de inlener;
+b. de overtreding is begaan door een rechtspersoon, of daarmee gelijkgestelde, waarvan een wettelijk vertegenwoordiger eerder wettelijk vertegenwoordiger was van een andere rechtspersoon, of daarmee gelijkgestelde, ten aanzien waarvan een overtreding van de Wet allocatie arbeidskrachten door intermediairs is geconstateerd, en waarvan de bedrijfsactiviteiten of de locatie waar of van waaruit de werkzaamheden worden verricht dezelfde zijn gebleven.
