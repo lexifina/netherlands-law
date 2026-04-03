@@ -1,0 +1,2 @@
+# Artikel 7a. Mandaat aan de directeuren DGTSL en DGD
+De directeuren DGTSL en DGD hebben binnen het kader van de jaarcontracten en binnen eventueel door de staatssecretaris of namens de staatssecretaris door de algemene leiding van het ministerie of de algemene leiding DGTSL of de algemene leiding DGD gegeven richtlijnen mandaat ten aanzien van het nemen van besluiten en afdoen van stukken betreffende alle aangelegenheden die behoren tot hun werkterrein, tenzij bij wet anders is bepaald of de aard van de bevoegdheid zich daartegen verzet.
