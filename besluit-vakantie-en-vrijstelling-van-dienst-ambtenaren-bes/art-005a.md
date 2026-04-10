@@ -1,0 +1,7 @@
+# Artikel 5a
+1. De ambtenaar is vrij te bepalen wanneer hij vakantie opneemt, voor zover het dienstbelang zich daartegen niet verzet.
+2. Het bevoegd gezag stelt de ambtenaar ieder kalenderjaar in de gelegenheid en de ambtenaar is verplicht ieder kalenderjaar ten minste 108 uren vakantie op te nemen, waarvan ten minste 72 uur over een aaneengesloten periode. Voor de ambtenaar met een deelbetrekking worden de in dit lid genoemde aantallen uren vermenigvuldigd met de voor de ambtenaar geldende arbeidsduurfactor.
+3. De ambtenaar meldt het voornemen vakantie op te nemen ruimschoots van tevoren op een door het bevoegd gezag te bepalen wijze.
+4. Tenzij gewichtige redenen van dienstbelang zich hiertegen verzetten, is het de ambtenaar toegestaan op het voornemen vakantie op te nemen terug te komen, dan wel het opnemen niet voort te zetten.
+5. Het bevoegd gezag kan aan het begin van het kalenderjaar voor dat jaar twee dagen als brugdag aanwijzen. Onder brugdag wordt verstaan een dag tussen een feestdag en een weekend of tussen een weekend en een feestdag, waarop de ambtelijke dienst gesloten is en de ambtenaar zijn werkzaamheden niet kan verrichten. De niet gewerkte uren worden in mindering gebracht op het aantal vakantie-uren waarop de ambtenaar dat kalenderjaar aanspraak heeft.
+6. De aanwijzing van brugdagen vindt niet plaats dan nadat daarover door of namens Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties overleg is gepleegd met de Sectorale Overlegcommissie BES, bedoeld in artikel 2.1 van het Besluit overlegstelsel BES.

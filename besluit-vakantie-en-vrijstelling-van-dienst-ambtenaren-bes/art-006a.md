@@ -1,0 +1,2 @@
+# Artikel 6a
+Voor zover de ambtenaar ten aanzien van wie een dienstrooster als bedoeld in artikel 37 van het Rechtspositiebesluit ambtenaren BES is vastgesteld, vakantie is verleend op een tijd waarop hij volgens het dienstrooster niet gehouden is werkzaamheden te verrichten, maar wel op de werkplaats beschikbaar moet zijn, wordt slechts de helft van die tijd als genoten vakantie-uren aangemerkt.

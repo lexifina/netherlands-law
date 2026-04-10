@@ -1,0 +1,5 @@
+# Artikel 20f
+1. Wegens dringende redenen van dienstbelang kan bij met redenen omklede beschikking van de hoofdcommissaris van politie worden bepaald, dat de vakantie, bedoeld in artikel 20c, eerste lid, geheel of gedeeltelijk niet kan worden genoten danwel dat de vakantie geheel of gedeeltelijk wordt ingetrokken.
+2. In de in het eerste lid bedoelde gevallen behoudt de leerkracht zijn aanspraak op het aantal door hem niet genoten vakantiedagen.
+3. In geval van intrekking van de vakantie als bedoeld in het eerste lid wordt een dag waarop de leerkracht dientengevolge slechts gedeeltelijk vakantie heeft genoten niet als een vakantiedag aangemerkt. Indien de leerkracht tengevolge van de intrekking van vakantie geldelijke schade lijdt, wordt deze schade hem vergoed.
+4. Een vakantie, welke ingevolge het eerste lid niet is genoten, of de vakantie, welke of het gedeelte van een vakantie, dat krachtens het eerste lid is ingetrokken, wordt zo spoedig mogelijk opnieuw verleend nadat de redenen, welke daartoe hebben geleid, hebben opgehouden te bestaan.
