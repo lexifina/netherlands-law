@@ -1,0 +1,6 @@
+# Artikel 9a
+1. De ambtenaar heeft recht op een eindejaarsuitkering ter grootte van 8,33% van zijn bezoldiging inclusief de toelagen, genoemd in artikel 28, tweede, derde en vierde lid, van het Rechtspositiebesluit ambtenaren BES, met een minimum van USD 1750.
+2. De eindejaarsuitkering wordt jaarlijks uitbetaald in de maand november over een periode van twaalf maanden, die is aangevangen met de maand januari van het desbetreffende kalenderjaar.
+3. In afwijking van het tweede lid kan de eindejaarsuitkering op verzoek van de ambtenaar binnen een periode als bedoeld in het tweede lid op twee momenten worden uitbetaald. In dat geval vindt de eerste uitbetaling plaats in de door de ambtenaar verzochte maand, en wel over de maand januari, bedoeld in het tweede lid, en de volgende maanden tot en met de maand van de eerste uitbetaling. De tweede uitbetaling vindt dan plaats in de maand november, en wel over de resterende maanden van het desbetreffende kalenderjaar.
+4. In afwijking van het tweede of derde lid, wordt bij ontslag van de ambtenaar de eindejaarsuitkering onderscheidenlijk het resterende deel van de eindejaarsuitkering uitbetaald in de laatste maand van zijn dienstverband.
+5. Artikel 36a, vierde lid, van het Rechtspositiebesluit ambtenaren BES is van overeenkomstige toepassing op de eindejaarsuitkering.
