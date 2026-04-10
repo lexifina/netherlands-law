@@ -1,0 +1,2 @@
+# Artikel 74i
+De vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak kan, na instemming van Onze Minister en voor zover hij beschikt over de daarvoor vereiste opleiding en ervaring, zelfstandig of onder begeleiding van een ambtenaar aangesteld voor de uitvoering van de politietaak met eenzelfde of hogere rang, werkzaamheden uitoefenen die verband houden met de volledige politietaak.

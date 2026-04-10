@@ -1,0 +1,4 @@
+# Artikel 8p
+1. Onze Minister meldt een ambtenaar die belast is met de vervulling van een functie die nadien als vertrouwensfunctie is aangewezen, zo spoedig mogelijk, doch uiterlijk binnen vier weken na dagtekening van het aanwijzingsbesluit aan bij het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst.
+2. De in het eerste lid bedoelde aanmelding geschiedt slechts met schriftelijke instemming van de betrokken ambtenaar. Onze Minister licht de betrokkene in over de betekenis en de rechtsgevolgen van deze aanmelding.
+3. Indien de in het tweede lid bedoelde instemming is geweigerd of indien ten aanzien van de ambtenaar een verklaring als bedoeld in artikel 8o, eerste lid, is geweigerd, ontheft Onze Minister de ambtenaar zo spoedig mogelijk, doch uiterlijk binnen acht weken, uit de functie.

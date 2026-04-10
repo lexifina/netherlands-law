@@ -1,0 +1,2 @@
+# Artikel 8k
+De betrokkene die op grond van artikel 8, eerste lid, onder g, of tweede lid, artikel 8a, onder d, of artikel 8b, onder d, is onderworpen aan een geneeskundige keuring, wordt bij aanstelling in een andere functie opnieuw aan een geneeskundige keuring onderworpen, indien betrokkene voor het vervullen van die functie aan andere medische eisen dient te voldoen dan voor de tot dusverre vervulde functie.

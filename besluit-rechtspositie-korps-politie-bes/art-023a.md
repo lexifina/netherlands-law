@@ -1,0 +1,5 @@
+# Artikel 23a
+1. Aan de ambtenaar van politie die op 1 januari 2025 in dienst was, wordt een eenmalige uitkering verleend ter hoogte van USD 500 netto.
+2. Aan de ambtenaar van politie die op 1 augustus 2025 in dienst is, wordt een eenmalige uitkering verleend ter hoogte van USD 500 netto.
+3. Aan de ambtenaar van politie die op 1 januari 2026 in dienst is, wordt een eenmalige uitkering verleend ter hoogte van USD 500 netto.
+4. Aan de ambtenaar van politie die op 1 augustus 2026 in dienst is, wordt een eenmalige uitkering verleend ter hoogte van USD 500 netto.

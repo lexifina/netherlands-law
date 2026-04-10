@@ -1,0 +1,3 @@
+# Artikel 8q
+1. Onze Minister draagt er zorg voor dat na het verstrijken van een termijn van vijf jaar of een veelvoud daarvan sinds het afgeven van een verklaring als bedoeld in artikel 8o, eerste lid of indien blijkt van feiten of omstandigheden die een hernieuwd veiligheidsonderzoek rechtvaardigen, opnieuw een veiligheidsonderzoek wordt ingesteld. Voor het instellen van een hernieuwd veiligheidsonderzoek is de instemming van de ambtenaar niet vereist.
+2. Indien een verklaring als bedoeld in het eerste lid is ingetrokken, ontheft Onze Minister de betrokken ambtenaar zo spoedig mogelijk, doch uiterlijk binnen acht weken na de intrekking van voornoemde verklaring, uit de vertrouwensfunctie.
