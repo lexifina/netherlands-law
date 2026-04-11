@@ -1,0 +1,3 @@
+# Artikel 10k
+1. Een rapporterende platformexploitant die zowel in Nederland als in een of meer andere lidstaten voldoet aan een met bijlage V, deel I, onderdeel A, onder 4, subonderdeel a, van Richtlijn 2011/16/EU overeenkomende wettelijke bepaling kiest in welke van die lidstaten hij de gegevens en inlichtingen, bedoeld in artikel 10j, tweede, derde en vijfde lid, rapporteert.
+2. De rapporterende platformexploitant, bedoeld in het eerste lid, stelt alle bevoegde autoriteiten van de lidstaten ten aanzien waarvan hij voldoet aan een met bijlage V, deel I, onderdeel A, onder 4, subonderdeel a, van Richtlijn 2011/16/EU overeenkomende wettelijke bepaling in kennis van zijn keuze als bedoeld in het eerste lid.

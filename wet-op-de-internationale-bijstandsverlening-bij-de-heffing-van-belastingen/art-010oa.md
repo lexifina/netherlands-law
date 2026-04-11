@@ -1,0 +1,2 @@
+# Artikel 10oa
+Bij of krachtens algemene maatregel van bestuur worden verzamel- en verificatievereisten gesteld aan rapporterende aanbieders van cryptoactivadiensten als bedoeld in de artikelen 10ob, eerste en tweede lid, en 10od, vierde lid, met het oog op het door die aanbieders van cryptoactivadiensten rapporteren van gegevens en inlichtingen als bedoeld in de artikelen 10ob en 10od. Ook worden bij of krachtens algemene maatregel van bestuur regels gesteld met betrekking tot de wijze waarop die gegevens en inlichtingen aan Onze Minister worden verstrekt.

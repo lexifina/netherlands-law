@@ -1,0 +1,2 @@
+# Artikel 10o
+Onverminderd artikel 10p, verstrekt een rapporterende platformexploitant als bedoeld in de artikelen 10j, eerste lid, en 10l, tweede lid, de gegevens en inlichtingen, bedoeld in artikel 10j, derde, vierde, vijfde en zesde lid, uiterlijk op 31 januari van het jaar dat volgt op het kalenderjaar waarin de verkoper is aangemerkt als een te rapporteren verkoper tevens aan de te rapporteren verkoper waarop die gegevens en inlichtingen betrekking hebben.

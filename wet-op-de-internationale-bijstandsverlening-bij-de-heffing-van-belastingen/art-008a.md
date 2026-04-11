@@ -1,0 +1,5 @@
+# Artikel 8a
+1. Onze Minister kan met de bevoegde autoriteit van één of meer andere staten overeenkomen om gelijktijdig, elk op het eigen grondgebied, bij één of meer personen ten aanzien van wie zij een gezamenlijk of complementair belang hebben, controles te verrichten en de aldus verkregen inlichtingen uit te wisselen.
+2. Onze Minister bepaalt welke personen hij voor een gelijktijdige controle wil voorstellen. Hij deelt de bevoegde autoriteit van de andere betrokken staten met opgave van redenen mee welke dossiers hij voor een gelijktijdige controle voorstelt. Hij bepaalt binnen welke termijn de controles moeten plaatsvinden.
+3. Onze Minister beslist of hij aan een door een andere bevoegde autoriteit voorgestelde gelijktijdige controle wenst deel te nemen. Hij stuurt die bevoegde autoriteit binnen een termijn van zestig dagen na ontvangst van het voorstel een bevestiging van deelname of een gemotiveerde weigering.
+4. Onze Minister wijst een vertegenwoordiger aan die voor Nederland wordt belast met de leiding en de coördinatie van de controle.

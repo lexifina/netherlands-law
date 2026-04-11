@@ -1,0 +1,2 @@
+# Artikel 10i
+Bij of krachtens algemene maatregel van bestuur worden verzamel- en verificatievereisten gesteld aan rapporterende platformexploitanten als bedoeld in de artikelen 10j, eerste lid, en 10l, tweede lid, met het oog op het door die platformexploitanten rapporteren van gegevens en inlichtingen als bedoeld in de artikelen 10j tot en met 10l, alsmede regels met betrekking tot de wijze waarop die gegevens en inlichtingen aan Onze Minister worden verstrekt.

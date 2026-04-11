@@ -1,0 +1,2 @@
+# Artikel 10a
+Bij of krachtens algemene maatregel van bestuur worden voorschriften voor rapporterende financiële instellingen gegeven met het oog op het door die instellingen verstrekken van gegevens en inlichtingen als bedoeld in de artikelen 10b tot en met 10f en de identificatie van de te rapporteren rekeningen en te rapporteren personen en met het oog op de door Onze Minister te verstrekken informatie, bedoeld in de artikelen 10b en 10c, aan rechtsgebieden ten aanzien waarvan het land Nederland een verplichting heeft om die informatie te verstrekken.

@@ -1,0 +1,10 @@
+# Artikel 10bis
+1. Onze Minister kan door de bevoegde autoriteit van een of meer verzoekende lidstaten worden verzocht een gezamenlijke audit uit te voeren.
+2. Onze Minister reageert op het verzoek binnen een termijn van 60 dagen na ontvangst van dat verzoek. Onze Minister kan het verzoek om gemotiveerde redenen verwerpen.
+3. Een gezamenlijke audit die in Nederland plaatsvindt, wordt uitgevoerd op een vooraf door Onze Minister en de bevoegde autoriteit van een of meer verzoekende lidstaten overeengekomen en gecoördineerde wijze, met inbegrip van taalregelingen, en in overeenstemming met de Nederlandse wetgeving en de in Nederland geldende procedures.
+4. Onverminderd het derde lid:
+a. kunnen de door de bevoegde autoriteit van een of meer verzoekende lidstaten gemachtigde ambtenaren, in samenspraak met de ambtenaren van de rijksbelastingdienst of andere ambtenaren die belast zijn met de heffing van belastingen, personen ondervragen en bescheiden onderzoeken;
+b. wordt bewijsmateriaal dat tijdens de activiteiten van een gezamenlijke audit is verzameld, ook wat betreft de toelaatbaarheid daarvan, beoordeeld onder dezelfde juridische voorwaarden als in het geval dat de audit alleen in Nederland was uitgevoerd;
+c. heeft een persoon die aan een gezamenlijke audit wordt onderworpen of erdoor wordt geraakt, dezelfde rechten en plichten als in het geval dat de audit alleen in Nederland was uitgevoerd.
+5. Onze Minister wijst een vertegenwoordiger aan die voor Nederland wordt belast met het toezicht op en de coördinatie van de activiteiten van een gezamenlijke audit in Nederland.
+6. De rechten en plichten van door de bevoegde autoriteit van een of meer verzoekende lidstaten gemachtigde ambtenaren die deelnemen aan een gezamenlijke audit in Nederland worden, in geval van hun aanwezigheid bij die activiteiten, vastgesteld overeenkomstig de Nederlandse wetgeving. De ambtenaren zijn gehouden aan de Nederlandse wetgeving en oefenen in ieder geval geen bevoegdheden uit die verder gaan dan de bevoegdheden die aan hen krachtens de wetgeving van hun lidstaat zijn verleend.

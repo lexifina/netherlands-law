@@ -1,0 +1,15 @@
+# Artikel 10l
+1. Een rapporterende platformexploitant als bedoeld in bijlage V, deel I, onderdeel A, punt 4, subonderdeel b, van Richtlijn 2011/16/EU registreert zich bij de aanvang van zijn activiteit als rapporterende platformexploitant of op het moment waarop hij als rapporterende platformexploitant kwalificeert bij de bevoegde autoriteit van een lidstaat.
+2. Indien de rapporterende platformexploitant, bedoeld in het eerste lid, ervoor kiest zich in Nederland te registreren, kent Onze Minister hem een individueel registratienummer toe. Onze Minister deelt dit individueel registratienummer via elektronische weg mee aan de bevoegde autoriteiten van alle lidstaten.
+3. De rapporterende platformexploitant, bedoeld in het tweede lid, verstrekt aan Onze Minister de volgende inlichtingen:
+a. zijn naam;
+b. zijn postadres;
+c. zijn elektronische adressen, met inbegrip van websites;
+d. indien beschikbaar, een aan hem toegekend fiscaal identificatienummer;
+e. een verklaring met informatie over zijn identificatie voor btw-doeleinden binnen de Europese Unie, op grond van titel XII, hoofdstuk 6, afdelingen 2 en 3, van Richtlijn 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde (PbEU 2006, L 347).
+f. een overzicht van de lidstaten waarvan de te rapporteren verkopers ingezetenen zijn als bedoeld in bijlage V, deel II, onderdeel D, van Richtlijn 2011/16/EU.
+4. De rapporterende platformexploitant, bedoeld in het tweede lid, stelt Onze Minister in kennis van iedere wijziging die zich voordoet ten aanzien van de inlichtingen, bedoeld in het derde lid.
+5. De rapporterende platformexploitant, bedoeld in het tweede lid, rapporteert aan Onze Minister de gegevens en inlichtingen, bedoeld in het derde lid en in artikel 10j, derde, vijfde of negende lid, met betrekking tot de rapportageperiode uiterlijk op 31 januari van het jaar dat volgt op het kalenderjaar waarin de verkoper als te rapporteren verkoper is aangemerkt.
+6. De rapporterende platformexploitant, bedoeld in het tweede lid, rapporteert aan Onze Minister de gegevens en inlichtingen, bedoeld in het derde lid en in artikel 10j, vierde en zesde lid, met betrekking tot de rapportageperiode uiterlijk op 31 januari van het jaar dat volgt op het kalenderjaar waarin de verkoper als te rapporteren verkoper is aangemerkt.
+7. In afwijking van het vijfde lid is de rapporterende platformexploitant, bedoeld in het tweede lid, niet verplicht de gegevens en inlichtingen, bedoeld in artikel 10j, derde, vijfde of negende lid, aan Onze Minister te rapporteren die betrekking hebben op gekwalificeerde relevante activiteiten die vallen onder een van kracht zijnde adequate overeenkomst tussen bevoegde autoriteiten, die reeds voorziet in de automatische uitwisseling van gelijkwaardige inlichtingen met een lidstaat over te rapporteren verkopers die ingezetene zijn van die lidstaat.
+8. Artikel 10j, achtste lid, is van overeenkomstige toepassing ten aanzien van de rapporterende platformexploitant, bedoeld in het tweede lid.
