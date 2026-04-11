@@ -1,0 +1,5 @@
+# Artikel 7b.6. Vergrijpboete overtreden inlichtingenverplichting
+1. Indien het aan opzet of grove schuld van de belastingplichtige is te wijten dat de verplichting, bedoeld in artikel 7b.4, eerste lid, niet is of wordt nagekomen, vormt dit een vergrijp ter zake waarvan de inspecteur hem een boete kan opleggen van ten hoogste 100 percent van de in het tweede lid omschreven grondslag van de boete.
+2. De grondslag voor de boete wordt gevormd door het bedrag aan belasting dat als gevolg van het niet nakomen van de verplichting, bedoeld in artikel 7b.4, eerste lid, ten onrechte niet zou zijn geheven.
+3. De bevoegdheid tot het opleggen van een vergrijpboete op grond van het eerste lid vervalt door verloop van zes jaren en vier maanden na het einde van het tijdvak waarover de belasting is verschuldigd.
+4. Indien artikel 7b.8, eerste en tweede lid, toepassing vindt, vervalt de bevoegdheid tot het opleggen van een vergrijpboete op grond van het eerste lid door verloop van zes jaren en zeven maanden na het einde van het tijdvak waarover de belasting is verschuldigd.

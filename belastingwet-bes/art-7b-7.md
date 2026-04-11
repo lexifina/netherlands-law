@@ -1,0 +1,2 @@
+# Artikel 7b.7. Hoofdelijke aansprakelijkheid
+Hoofdelijk aansprakelijk is voor de minimumbelasting die over een tijdvak is geheven van een groepsentiteit behorend tot een multinationale groep of binnenlandse groep als bedoeld in artikel 1.2, eerste lid, van de Wet minimumbelasting 2024: elk van de groepsentiteiten die in dat tijdvak deel uitmaakt of uitmaakte van die multinationale groep of binnenlandse groep.

@@ -1,0 +1,5 @@
+# Artikel 7b.5. Bestuurlijke boeten
+1. Voor de toepassing van artikel 8.22, tweede lid, vormt het verzuim het niet doen van aangifte dan wel het niet doen van aangifte binnen de ingevolge artikel 7b.2, tweede lid, dan wel artikel 7b.8, eerste lid, gestelde termijn.
+2. Voor de toepassing van artikel 8.23, eerste lid, vormt het verzuim het niet, gedeeltelijk niet, dan wel niet binnen de ingevolge artikel 7b.2, derde lid, dan wel artikel 7b.8, tweede lid, gestelde termijn betalen van de belasting.
+3. In afwijking van de artikelen 8.23, derde lid, en 8.26, vierde lid, vervalt de bevoegdheid tot het opleggen van een bestuurlijke boete op grond van die artikelen door verloop van zes jaren en vier maanden na het einde van het tijdvak waarover de belasting is verschuldigd.
+4. Indien artikel 7b.8, eerste en tweede lid, toepassing vindt, vervalt in afwijking van de artikelen 8.23, derde lid, en 8.26, vierde lid, de bevoegdheid tot het opleggen van een bestuurlijke boete op grond van die artikelen door verloop van zes jaren en zeven maanden na het einde van het tijdvak waarover de belasting is verschuldigd.

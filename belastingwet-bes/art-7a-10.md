@@ -1,0 +1,5 @@
+# Artikel 7a.10
+1. In de gevallen waarin artikel 7a.1, onderdeel c of d, van toepassing is, moet de belasting op aangifte worden voldaan.
+2. De belasting wordt verschuldigd op het tijdstip waarop de prijs:
+a. ontvangen of verrekend wordt, ter beschikking van de belastingplichtige wordt gesteld of rentedragend wordt, dan wel
+b. vorderbaar en tevens inbaar wordt.
