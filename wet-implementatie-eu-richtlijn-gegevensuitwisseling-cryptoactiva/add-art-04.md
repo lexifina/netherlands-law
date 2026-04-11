@@ -1,0 +1,3 @@
+# Artikel IV
+1. Artikel 6d, derde lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen is eerst van toepassing op voorafgaande grensoverschrijdende rulings die na 1 januari 2026 zijn afgegeven, gewijzigd of hernieuwd.
+2. Met betrekking tot rapportageperioden die eindigen op 31 december 2027 dient een rapporterende financiële instelling inlichtingen betreffende de rol of rollen als bedoeld in artikel 10b, eerste lid, onderdeel c, onder 2° en 10c, eerste lid, onderdeel d, uitsluitend te rapporteren indien die inlichtingen beschikbaar zijn in de elektronisch doorzoekbare gegevens die door de rapporterende financiële instelling worden beheerd.
