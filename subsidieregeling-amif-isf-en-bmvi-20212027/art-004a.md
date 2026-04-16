@@ -1,0 +1,5 @@
+# Artikel 4a. Projecten in het kader van een specifieke maatregel
+1. De minister kan met inachtneming van deze regeling en onder het voorbehoud, bedoeld in artikel 63 van de Verordening gemeenschappelijke bepalingen, subsidie verlenen ten behoeve van projecten zonder winstoogmerk in het kader van specifieke maatregelen.
+2. In afwijking van artikel 5 kan de subsidieaanvrager de subsidie aanvragen bij de minister conform het projectvoorstel zoals ingediend bij de Europese Commissie en de daaropvolgende positieve aanwijzing.
+3. In afwijking van artikel 5 bedraagt de subsidie voor projecten die overeenkomstig het tweede lid zijn aangevraagd ten hoogste het in de positieve aanwijzing opgenomen subsidieplafond.
+4. In afwijking van artikel 4 wordt de subsidie voor projecten die overeenkomstig het tweede lid zijn aangevraagd, verstrekt onder de condities en voorwaarden zoals vastgesteld door de Europese Commissie en opgenomen in de uitnodigingsbrief, het projectvoorstel en de positieve aanwijzing.
