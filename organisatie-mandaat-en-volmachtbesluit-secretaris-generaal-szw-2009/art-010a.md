@@ -1,0 +1,5 @@
+# Artikel 10a
+1. De plaatsvervangend secretaris-generaal is bevoegd om op te treden als bestuurder in de zin van de Wet op de ondernemingsraden in het overleg met de ondernemingsraad Kerndepartement.
+2. Bij afwezigheid of verhindering van de plaatsvervangend secretaris-generaal treedt de secretaris-generaal op als bestuurder in de zin van de Wet op de ondernemingsraden in het overleg met de ondernemingsraad Kerndepartement.
+3. Bij afwezigheid of verhindering van de secretaris-generaal treedt de plaatsvervangend secretaris-generaal op als bestuurder in de zin van de Wet op de ondernemingsraden in het overleg met de departementale ondernemingsraad.
+4. Bij afwezigheid of verhindering van de plaatsvervangend secretaris-generaal en de secretaris-generaal treedt een van de functionarissen, genoemd in artikel 3, onderdelen c tot en met e, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009 op als bestuurder in de zin van de Wet op de ondernemingsraden in het overleg met de departementale ondernemingsraad en de ondernemingsraad Kerndepartement.
