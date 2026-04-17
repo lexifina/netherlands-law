@@ -1,0 +1,56 @@
+# Toelichting
+## TOELICHTING
+Op de gemeenschappelijke regeling openbaar lichaam OV-bureau van de gemeente Groningen en de provincies Groningen en Drenthe
+Inleiding
+De gemeente Groningen en de provincies Groningen en Drenthe werkten jarenlang samen op interregionaal niveau op het gebied van ruimtelijke ordening en verkeer en vervoer. Op basis van de opgedane ervaringen binnen het openbaar vervoer in het verleden hebben de opdrachtgevende overheden ervoor gekozen zelf een grotere sturende, voorwaardenscheppende en bepalende rol in de ontwikkeling van het openbaar vervoer te vervullen dan voorheen.
+In dat kader hebben de colleges van Gedeputeerde Staten (GS) van Groningen en Drenthe en van Burgemeester en Wethouders (B&W) van Groningen ervoor gekozen de concessie voor het openbaar vervoer per bus en auto gezamenlijk aan te besteden.
+- Bij de vaststelling van het Programma van eisen (PVE) van de aanbesteding van het stads- en streekvervoer Groningen-Drenthe hebben deze drie opdrachtgevende overheden in mei 2003 gekozen voor de instelling van een openbaar-vervoer (OV)-bureau.
+- De gemeenschappelijke regeling is op 1 april 2005 in werking getreden en nadien een aantal keren gewijzigd om te voldoen aan wijzigingen van de Wet gemeenschappelijke regeling en om de toetreding tot de gemeenschappelijke regeling Publiek Vervoer mogelijk te maken.
+- Als vestigingsplaats van het openbaar lichaam is gekozen voor Assen, aangezien het ambtelijk apparaat van het OV-bureau in Assen is gehuisvest.
+Het Openbaar Lichaam als organisatievorm voor het OV-bureau
+De Wet gemeenschappelijke regelingen heeft de colleges van GS van Groningen en Drenthe en B&W van Groningen de mogelijkheid gegeven hun samenwerking op het gebied van het openbaar vervoer gestalte te geven door een gemeenschappelijke regeling in het leven te roepen. Er bestaat op basis van artikel 8 van de Wet gemeenschappelijke regelingen de mogelijkheid om een openbaar lichaam, gemeenschappelijk orgaan of een bedrijfsvoeringsorganisatie in te stellen.
+Met name om de volgende redenen is destijds gekozen is voor het instellen van een openbaar lichaam.
+1. Een openbaar lichaam heeft rechtspersoonlijkheid. Bij een gemeenschappelijk orgaan is van dat alles geen sprake waardoor van slagvaardig optreden onder meer richting vervoerder geen sprake kan zijn.
+2. Bij een openbaar lichaam is sprake van nagenoeg directe sturing vanwege de verplichting (artikel 12 van de wet) van een algemeen bestuur en een dagelijks bestuur die direct voortkomen uit de colleges van GS en B&W. De Staten en de Raad moeten volgens de wet in de gelegenheid worden gesteld om hun zienswijze over de ontwerpbegroting van een openbaar lichaam te kunnen geven.
+Het OV-bureau heeft in de vorm van een openbaar lichaam dus rechtspersoonlijkheid, eigen personeel in dienst, wordt door bestuurders aangestuurd en kan zich, doordat het de bevoegdheden op het gebied van het openbaar vervoer van de colleges overgedragen heeft gekregen, als hét aanspreekpunt voor het openbaar vervoer binnen de provincies Drenthe en Groningen presenteren. Deze juridische vorm leent zich goed voor het OV-bureau.
+Bestuur
+Het OV-bureau bestaat uit het algemeen bestuur, het dagelijks bestuur en uit de voorzitter. Blijkens artikel 21 behoort tot de bevoegdheden van de voorzitter o.m. de vertegenwoordiging in en buiten rechte. Overeenkomstig 18 is naast de normale taken van een dagelijks bestuur, zoals het voorbereiden en uitvoeren van door het algemeen bestuur vastgestelde beleid, een belangrijke taak voor het dagelijks bestuur neergelegd in de belangenbehartiging van de deelnemende bestuursorganen bij andere overheidsorganen, rechtspersonen en natuurlijke personen.
+Voorbeelden van deze belangenbehartiging zijn te vinden in de contacten met de rijksoverheid om tot een goede verdeling van de overheidsbudgetten voor het openbaar vervoer in Noord-Nederland te komen.
+Dit geldt zowel direct voor het openbaar vervoer als indirect door infrastructurele maatregelen te bepleiten. Ook in de contacten met consumentenorganisaties en concessiehouders dient het dagelijks bestuur als belangenbehartiger op te treden.
+Het bestuur wordt nagenoeg direct gestuurd door de colleges van Gedeputeerde Staten en Burgemeester en Wethouders, welke elk verplicht zijn uit hun midden in ieder geval de portefeuillehouder belast met het openbaar vervoer aan te wijzen.
+Verantwoordelijkheden, bevoegdheden en taken
+Het OV-bureau heeft in navolging van bovenstaande de overheidstaken voor het uitoefenen van openbaar vervoer, die de drie bestuursorganen elk afzonderlijk verrichtten, overgedragen gekregen.
+De belangenbehartiging is afgeleid van de maatschappelijke opdracht die de overheden ten aanzien van het vervoer hebben te vervullen. Er is voor een algemene omschrijving gekozen die luidt als volgt:
+"het verder ontwikkelen en uitdragen van de betekenis van het openbaar vervoer in de regio Groningen en Drenthe, zodanig dat het sociaaleconomisch belang gediend wordt en de toenemende vraag naar mobiliteit opgevangen kan worden".
+In artikel 4 is aangegeven dat de deelnemende bestuursorganen bij gelijkluidend besluit bepalen welke vormen van openbaar vervoer onder deze regeling vallen.
+De deelnemende bestuursorganen hebben ervoor gekozen het gehele openbaar vervoer per bus en auto in de provincies Groningen en Drenthe onder deze gemeenschappelijke regeling te brengen. Dit betreft niet alleen de gezamenlijk verleende concessie, maar zo zijn er ook onder andere afspraken gemaakt over grensoverschrijdend openbaar busvervoer in de omliggende gebieden.
+Het Openbaar Lichaam OV-bureau heeft de volgende verantwoordelijkheden.
+1. Zorgen voor en bevorderen van openbaar vervoer per auto en per bus en andere vormen van vervoer ter uitvoering van artikel 20 van de wet Personenvervoer.
+2. Zorgen voor een juiste naleving en uitvoering van de concessievoorschriften.
+3. Zorgen voor de voorbereiding en totstandkoming van nieuwe concessies.
+Het Openbaar Lichaam OV-bureau beschikt over de bevoegdheden welke voortvloeien uit de artikelen 20 en 44 Wet personenvervoer 2000, waaronder met name
+1. het kunnen beschikken over het (gemeenschappelijke) exploitatiebudget voor het openbaar vervoer (binnen de betreffende concessies);
+2. de beslissingsbevoegdheid over de wijze waarop dit budget aangewend wordt;
+3. de bevoegdheid inhoudelijk te bepalen hoe het openbaar vervoer (binnen de betreffende concessies) wordt vormgegeven;
+4. de bevoegdheid bindende afspraken met de vervoerder te kunnen maken ten aanzien van de exploitatie van het openbaar vervoer (binnen de betreffende concessies);
+5. de bevoegdheid bindende afspraken te kunnen maken over het openbaar vervoer met overige belanghebbenden;
+6. de bevoegdheid om te beslissen over verlenging van de concessie (binnen de betreffende concessiebepalingen).
+De taken die het Openbaar Lichaam OV-bureau heeft uit te voeren zijn onder te verdelen in algemene en specifieke taken, te weten:
+Algemene taken
+1. Het beheer van het openbaar vervoer (concessieverlening, aanbesteding) en ontwikkeling van openbaar vervoer (planvorming, coördinatie van de openbaar vervoer aspecten).
+2. De bundeling van de Openbaar Vervoertaken en -verantwoordelijkheden van de drie overheden.
+3. De advisering van de provincies en gemeenten in het Openbaar Vervoerbeleid in relatie tot het algemene beleidsproces van ruimtelijke ordening en verkeer en vervoer.
+Specifieke taken
+1. Algemeen financieel-economisch beheer.
+2. Concessieontwikkeling en –beheer.
+3. Ontwikkeling (lange termijn) van het openbaar vervoer.
+4. De coördinatie van beleidsontwikkeling in relatie tot openbaar vervoer.
+5. Het voorbereiden van de beslissing tot verlenging van de GGD-concessie en mogelijk hieruit volgend het laten plaatsvinden van de aanbesteding van de concessie in 2007.
+De werkzaamheden zoals die door het Openbaar Lichaam OV-bureau uitgeoefend gaan worden, liggen op het terrein van de uitvoering van de Wet Personenvervoer 2000 en behoren daarmee tot de competentie van de colleges van Gedeputeerde Staten.
+De vaststelling van het Openbaar Vervoerbudget is een bevoegdheid van Provinciale Staten. Daarnaast moeten zij, naast de raden van de deelnemende gemeenten, op grond van de wet, in de gelegenheid worden gesteld om hun zienswijze op de ontwerpbegroting van het openbaar lichaam te geven.
+Doordat deze zienswijze door het algemeen bestuur van het openbaar lichaam bij zijn besluitvorming over de begroting meegenomen moet worden, kunnen Staten en Raad hun invloed uitoefenen. Als het algemeen bestuur een dergelijke zienswijze negeert kunnen de bestuursleden direct in hun eigen colleges ter verantwoording worden geroepen.
+Daarbij is ervoor gekozen om bij besluiten met grote maatschappelijke of bestuurlijke gevolgen het bestuur pas een besluit te laten nemen, nadat bespreking heeft plaatsgevonden in de colleges en/of raad en Provinciale Staten. Op grond van artikel 10a van de Wet gemeenschappelijke regelingen zijn deelnemers aan een gemeenschappelijke regeling verplicht medewerking te verlenen aan de uitvoering van besluiten die het bestuur van de gemeenschappelijke regeling neemt in verband met de uitoefening van de overgedragen bevoegdheden. Voor de uitvoering van haar taken is het OV-bureau afhankelijk van de gelden die de deelnemende bestuursorganen daarvoor beschikbaar stellen. Hierover zijn de nodige afspraken gemaakt op basis van het uitgangspunt dat de kosten verbonden aan de uitvoering van de ingevolge deze regeling aan het OV-bureau overgedragen bevoegdheden, toegerekend en omgeslagen worden overeenkomstig de verdeelsleutel zoals deze door de deelnemende bestuursorganen is overeengekomen.
+De verdeling van de exploitatiekosten (ook wel deelnemersbijdrage genoemd) ten behoeve van de exploitatie van het openbaar vervoer vindt plaats op basis van een verdeelsleutel van provincie Groningen 65%, de provincie Drenthe 35% en de gemeente Groningen (0%).
+De verdeelsleutel onderling de deelnemende bestuursorganen van het OV-bureau van de bijdrage aan de organisatiekosten van het OV-bureau (ook wel exploitatiesubsidie genoemd) is als volgt; 44% voor de provincie Groningen, 35% voor de provincie Drenthe en 21% voor de gemeente Groningen.
+De exploitatietekorten van het Openbaar Lichaam OV-bureau worden door de deelnemende bestuursorganen gedragen volgens de verdeelsleutel van: 44% voor de provincie Groningen, 35% voor de provincie Drenthe en 21% voor de gemeente Groningen. De Financiële Verordening van het Openbaar Lichaam OV-bureau geeft een nadere uitwerking van deze verdeelsleutel weer.
+Wanneer het takenpakket van het Openbaar Lichaam OV-bureau wordt uitgebreid met andere vormen van openbaar vervoer dan die hiervoor genoemd, dient de verhouding te worden herberekend naar rato van het dan ingebrachte Openbaar Vervoerbudget. Dit zal in elk geval geschieden wanneer definitief wordt besloten het regionale spoorvervoer onder het OV-bureau te brengen. Uiteraard zal de verdeelsleutel ook worden gewijzigd indien er sprake is van een uitbreiding van de deelnemende bestuursorganen aan deze gemeenschappelijke regeling. De dekking van de kosten voor het Openbaar Lichaam OV-bureau wordt bereikt door de inzet van maximaal de bestaande personele gelden en een deel van de exploitatiesubsidie.
