@@ -1,0 +1,6 @@
+# Artikel 37b
+1. De ambtenaar heeft voor iedere dienstdag waarop minimaal vier uren arbeid wordt verricht vanaf een eigen woonadres aanspraak op een vergoeding van netto € 2,45, voor zover diegene voor de desbetreffende dienstdag geen aanspraak maakt op vergoedingen voor reis- of verblijfskosten ingevolge het Besluit reis-, verblijf- en verhuiskosten politie.
+2. De vergoeding wordt toegekend op declaratiebasis op een door het bevoegd gezag voorgeschreven wijze.
+3. Geen aanspraak op een vergoeding bestaat indien de declaratie van de in een kalendermaand ontstane aanspraak niet binnen drie maanden na die kalendermaand bij het bevoegd gezag is ingediend, tenzij het overschrijden van de termijn niet aan de ambtenaar verwijtbaar is.
+4. Het bedrag van de vergoeding, genoemd in het eerste lid, wordt aan het begin van elk kalenderjaar bij ministeriële regeling vervangen door een ander bedrag, bepaald conform de indexatiemethode vermeld in artikel 31a, dertiende lid, van de Wet op de loonbelasting 1964.
+5. Dit artikel is van overeenkomstige toepassing op de vrijwillige ambtenaar, aangesteld voor de uitvoering van de politietaak, bedoeld in artikel 1, eerste lid, van het Besluit algemene rechtspositie politie.

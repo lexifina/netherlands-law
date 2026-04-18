@@ -1,0 +1,8 @@
+# Artikel 27b
+1. Aan de ambtenaar die is ingedeeld in salarisschaal 14 of lager, wordt een vergoeding toegekend als er sprake is van een verschuiving in de vastgestelde roosters, bedoeld in artikel 12, achtste, negende of elfde lid, van het Besluit algemene rechtspositie politie, indien de verschuiving plaatsvindt in het dienstbelang. Voor de toepassing van dit lid berust het oordeel omtrent het dienstbelang bij het bevoegd gezag dan wel de door het bevoegd gezag aangewezen ambtenaar.
+2. De vergoeding wordt berekend per gewerkt verschoven uur en is gelijk aan de toeslag in geld bij overwerk, bedoeld in artikel 27, achtste lid.
+3. De vergoeding voor een verschuiving in het dagrooster, bedoeld in artikel 12, elfde lid, van het Besluit algemene rechtspositie politie, wordt toegekend indien de verschuiving plaatsvindt binnen een termijn van vier dagen voor de dag waarop dienst moet worden gedaan.
+4. Voor de toepassing van dit artikel worden verschoven uren en gedeelten van uren berekend over een periode van vier weken, opgeteld en naar boven afgerond op hele uren.
+5. De vergoeding kan niet samenvallen met de vergoeding voor overwerk, bedoeld in artikel 27. De vergoeding wordt ook niet toegekend aan de ambtenaar die als gevolg van arbeidsongeschiktheid feitelijk niet werkzaam is volgens het rooster waarin de wijziging plaatsvindt.
+6. De vergoeding wordt zo spoedig mogelijk uitbetaald, doch uiterlijk bij gelegenheid van de tweede salarisbetaling volgende op de periode van vier weken waarin de verschuiving heeft plaatsgevonden.
+7. Dit artikel is niet van toepassing op de ambtenaar die deel uitmaakt van een eenheid als bedoeld in artikel 59, eerste lid, Politiewet 2012.
