@@ -1,0 +1,3 @@
+# Artikel 55do
+1. Het bevoegd gezag beslist binnen zes weken op het verzoek.
+2. Het bevoegd gezag kan de beslissing voor ten hoogste vier weken verdagen. Van de verdaging wordt schriftelijk mededeling gedaan.

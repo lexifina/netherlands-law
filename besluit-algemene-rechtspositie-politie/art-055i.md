@@ -1,0 +1,6 @@
+# Artikel 55i
+1. Bij een reorganisatie zijn de bepalingen van dit hoofdstuk van toepassing.
+2. Onder reorganisatie als bedoeld in het eerste lid wordt verstaan: een wijziging in de organisatiestructuur, de omvang of de taakinhoud van een regionale of landelijke eenheid, twee of meer regionale of landelijke eenheden, een ondersteunende dienst of een onderdeel daarvan, de Politieacademie alsmede het organisatieonderdeel waar de ambtenaren van de rijksrecherche werkzaam zijn, die belangrijke gevolgen heeft voor de werkgelegenheid in kwantitatieve en kwalitatieve zin.
+3. De bepalingen van dit hoofdstuk zijn van overeenkomstige toepassing op de overgang van een ambtenaar vanwege een privatisering of verzelfstandiging van een dienstonderdeel van de politie als gevolg waarvan ambtenaren overgaan naar een private onderneming of enig ander bestuursorgaan, tenzij bij algemene maatregel van bestuur anders is bepaald.
+4. Onder reorganisatiegebied wordt verstaan:het gebied waarbinnen een reorganisatie als bedoeld in het tweede of derde lid plaatsvindt of zal plaatsvinden.
+5. Indien geen sprake is van een reorganisatie, maar wel van een wijziging van de plaats van tewerkstelling waardoor een geheel team of een gehele afdeling een andere plaats van tewerkstelling krijgt, worden bij ministeriële regeling aangegeven extra reiskosten beschikbaar gesteld.

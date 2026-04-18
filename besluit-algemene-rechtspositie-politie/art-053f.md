@@ -1,0 +1,2 @@
+# Artikel 53f
+In geval de ambtenaar of de gewezen ambtenaar is komen te overlijden en dit overlijden is in overwegende mate beroepsgerelateerd, hebben de weduwe of weduwnaar en de kinderen tot de leeftijd van 21 jaar voor wie de ambtenaar of de gewezen ambtenaar krachtens wettelijke verplichting in het levensonderhoud voorzag aanspraak op een schadevergoeding voor het derven van levensonderhoud, de kosten van lijkbezorging en een tegemoetkoming in het nadeel dat niet uit vermogensschade bestaat. Bij ministeriële regeling worden hierover regels gesteld.

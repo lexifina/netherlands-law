@@ -1,0 +1,2 @@
+# Artikel 55v
+Indien de toepassing van dit hoofdstuk of de nadere regels ter uitvoering van dit hoofdstuk in individuele gevallen leidt tot onbillijkheden van overwegende aard of indien er sprake is van een bijzondere situatie van een individuele herplaatsingskandidaat, kan het bevoegd gezag, na afweging van de belangen van het individu en van de organisatie, afwijken van dit hoofdstuk of de nadere regels ter uitvoering van dit hoofdstuk worden afgeweken.

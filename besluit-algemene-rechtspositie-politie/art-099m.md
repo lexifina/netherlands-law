@@ -1,0 +1,2 @@
+# Artikel 99m
+De vermelding van de aanstelling, bedoeld in artikel 10, eerste lid, onderdeel c, de inzetbaarheid, bedoeld in artikel 10, vijfde lid, of het vakgebied, bedoeld in artikel 10, vijfde lid, tweede volzin, wordt de ambtenaar die uiterlijk op 30 juni 2018 is aangesteld eerst medegedeeld, indien sprake is van een wijziging van een ander in artikel 10, eerste lid, bedoeld gegeven, behoudens de wijziging van een algemeen verbindend voorschrift waarnaar is verwezen.

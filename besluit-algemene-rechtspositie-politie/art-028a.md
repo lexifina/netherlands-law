@@ -1,0 +1,5 @@
+# Artikel 28a
+1. De ambtenaar kan bij het bevoegd gezag een aanvraag indienen om gedurende het eerstvolgende kalenderjaar meer uren te werken dan het aantal uren dat op grond van artikel 12, vierde, vijfde en zesde lid, voor hem is vastgesteld.
+2. Voor de ambtenaar met een volledige betrekking bedraagt het aantal uren dat meer gewerkt kan worden ten hoogste 200 uren per kalenderjaar. Voor een ambtenaar met een andere betrekking dan een volledige betrekking wordt dit maximum vastgesteld op een evenredig deel van het maximaal aantal uren bij een volledige betrekking. Voor de ambtenaar mag het aantal te werken uren op jaarbasis gemiddeld per week niet meer dan 40 uur bedragen.
+3. De aanvraag, bedoeld in het eerste lid, wordt door het bevoegd gezag toegewezen tenzij hiertegen ernstige bezwaren bestaan. Artikel 2, tiende lid, van de Wet flexibel werken is van overeenkomstige toepassing.
+4. Per meer te werken uur ontvangt de ambtenaar maandelijks een vergoeding ter grootte van zijn salaris per uur.

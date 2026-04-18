@@ -1,0 +1,2 @@
+# Artikel 55w
+Van dit hoofdstuk en van de nadere regels ter uitvoering van dit hoofdstuk kan, in overeenstemming met de Commissie voor georganiseerd overleg in politieambtenarenzaken, bedoeld in artikel 2 van het Besluit overleg en medezeggenschap politie 1994, uitsluitend worden afgeweken bij reorganisaties waarbij naast de arbeidsvoorwaarden van de sector Politie ook arbeidsvoorwaarden van andere sectoren of rechtspersonen betrokken zijn.

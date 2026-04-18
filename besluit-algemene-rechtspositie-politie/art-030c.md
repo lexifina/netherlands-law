@@ -1,0 +1,3 @@
+# Artikel 30c
+1. De totale aanspraak van de ambtenaar op levensfase-uren, vakantie-uren op grond van hoofdstuk IV, de op grond van artikel 26b van het Besluit bezoldiging politie verkregen vakantie-uren en verlofuren op grond van artikel 12f van het Besluit bezoldiging politie mag, op 31 december van enig kalenderjaar, het maximum, bedoeld in artikel 11, eerste lid, aanhef en onderdeel r, onder 1°, van de Wet op de loonbelasting 1964 niet te boven gaan.
+2. Indien het maximum, bedoeld in het eerste lid, op 31 december van enig kalenderjaar wordt overschreden, vervalt per die datum, zonder financiële compensatie, het aantal levensfase-uren dat nodig is om op dat maximum te komen.

@@ -1,0 +1,2 @@
+# Artikel 62a
+Een ambtenaar in dienst van de politie kan op zijn verzoek door Onze Minister ter beschikking worden gesteld van Aruba, Curaçao en Sint Maarten en van de openbare lichamen Bonaire, Sint Eustatius en Saba voor het vervullen van een functie bij de overheden in die landen en in die openbare lichamen dan wel ten behoeve van het verrichten van werkzaamheden in het kader van de samenwerking tussen de landen van het Koninkrijk in het recherchesamenwerkingsteam.

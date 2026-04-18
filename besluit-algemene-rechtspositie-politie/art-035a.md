@@ -1,0 +1,2 @@
+# Artikel 35a
+Onze Minister kan, in overeenstemming met een of meer hoofdbesturen van de verenigingen van ambtenaren die zijn toegelaten tot het overleg met de commissie, artikel 22a, eerste lid, van het Besluit overleg en medezeggenschap politie 1994, regels stellen inzake het toekennen van buitengewoon verlof voor vakbondsfaciliteiten, waaronder mede begrepen worden faciliteiten voor individuele belangenbehartiging.
