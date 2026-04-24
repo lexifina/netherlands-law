@@ -1,0 +1,2 @@
+# Article II. Purposes and Functions
+The Commission endeavours to secure the co-operation of governments and other authorities in locating persons missing as a result of armed conflicts, human rights abuses, natural and man-made disasters and other involuntary reasons and to assist them in doing so. The Commission also supports the work of other organisations in their efforts, encourages public involvement in its activities and contributes to the development of appropriate expressions of commemoration and tribute to the missing.

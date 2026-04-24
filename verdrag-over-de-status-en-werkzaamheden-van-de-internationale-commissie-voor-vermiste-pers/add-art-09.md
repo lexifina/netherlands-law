@@ -1,0 +1,3 @@
+# Article IX. Membership
+1. This Agreement shall be open to accession by States upon an invitation by the Conference, based on a State's commitment to, or willingness to commit to, addressing the issue of missing persons as a State responsibility, thereby advancing and promoting the rule of law and human rights.
+2. A State Party to this Agreement may be deemed noncompliant with the criteria for membership by the Conference and may, as a result, be suspended from its rights of representation and may be invited to withdraw from the Agreement. If the relevant State Party fails to comply with any request to withdraw, the Conference may decide that the State has ceased to be a State Party to the Agreement as of a date to be determined by the Conference.

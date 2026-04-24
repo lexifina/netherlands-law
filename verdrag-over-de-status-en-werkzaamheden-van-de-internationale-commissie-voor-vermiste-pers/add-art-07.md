@@ -1,0 +1,4 @@
+# Article VII. Headquarters and International Agreements
+1. The Commission shall establish a Headquarters in The Hague, the Netherlands. It shall conclude with the Host State a Headquarters Agreement according the Commissioners, staff, premises, archives and property the privileges and immunities that are necessary for the effective exercise of its functions and the fulfilment of its purposes.
+2. The Commission shall seek agreements with the governments of States where its activities are to take place. These agreements should include provisions that accord its Commissioners, staff, premises, archives and property the privileges and immunities that are necessary for the effective exercise of its functions and the fulfilment of its purposes.
+3. The Headquarters Agreement referred to in paragraph 1 of this Article shall constitute the point of reference for the Commission for the conclusion of the international agreements referred to in paragraph 2 of this Article.
