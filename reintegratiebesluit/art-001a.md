@@ -1,0 +1,2 @@
+# Artikel 1a. Wettelijke grondslag
+Dit besluit berust op de artikelen 10g en 10h van de Participatiewet, de artikelen 34a, eerste en derde lid, 35, vijfde lid en 36, eerste lid, onderdeel a, en vierde lid, van de Wet WIA, de artikelen 65c, vijfde lid, en 65d, vierde lid, van de WAO, de artikelen 2:22, vierde lid, 2:23, eerste en derde lid, 3:67, vijfde lid, en 3:68, vierde lid, van de Wajong en de artikelen 67a, vijfde lid, en 67b, vierde lid, van de WAZ.
