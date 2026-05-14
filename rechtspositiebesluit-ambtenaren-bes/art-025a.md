@@ -1,0 +1,6 @@
+# Artikel 25a
+1. Aan de ambtenaar die door het bevoegd gezag de verplichting is opgelegd buiten het voor hem vastgestelde dienstrooster beschikbaar te zijn om op afroep dienst te gaan verrichten zonder de verplichting op de werkplek aanwezig te zijn, wordt, voor zover hij tijdens de beschikbaarheid geen werkzaamheden heeft verricht, een vergoeding toegekend voor elk uur dat hij volgens het beschikbaarheidschema, bedoeld in artikel 37c, tweede lid, beschikbaar is geweest.
+2. De hoogte van de vergoeding, bedoeld in het eerste lid, wordt met in achtneming van het derde lid vastgesteld:
+a. bij ministeriële regeling voor ambtenaren in dienst van de staat, en
+b. bij eilandbesluit, houdende algemene maatregelen voor ambtenaren in dienst van een openbaar lichaam.
+3. Als de bezoldiging wijziging ondergaat, wordt met ingang van de datum waarop die wijziging ingaat de vergoeding, bedoeld in het eerste lid, op gelijke voet gewijzigd. Als de bezoldiging niet met een voor alle ambtenaren gelijk percentage wijzigt, wordt voor de toepassing van dit lid uitgegaan van het percentage waarmee de bezoldiging gemiddeld wijzigt of het percentage dat met toepassing van artikel 2.2 van het Besluit overlegstelsel BES is afgesproken.

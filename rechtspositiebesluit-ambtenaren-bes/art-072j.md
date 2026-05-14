@@ -1,0 +1,3 @@
+# Artikel 72j
+1. De ambtenaren in dienst van de Staat hebben in het belang van het goed functioneren van die organisatie-eenheid en met inachtneming van deze paragraaf recht op medezeggenschap met betrekking tot onderwerpen die, met inachtneming van artikel 72m, de uitvoering van de bedrijfsvoering van die organisatie-eenheid betreffen.
+2. Ten behoeve van medezeggenschap als bedoeld in het eerste lid voert Onze Minister open en reëel overleg met de voor dat overleg ingestelde participatieraad of, met inachtneming van de artikelen 72l en 72m, de centrale participatieraad of, voor zover het medewerkers betreft die werkzaam zijn in een organisatie-eenheid van minder dan tien medewerkers, in een personeelsbijeenkomst die halfjaarlijks georganiseerd wordt.

@@ -1,0 +1,2 @@
+# Artikel 72p
+Onze Minister verstrekt aan de participatieraad of de centrale participatieraad desgevraagd of uit eigen beweging tijdig alle inlichtingen en gegevens, waaronder de achtergronden, motieven en afwegingen van voorgenomen maatregelen als bedoeld in artikel 72n, eerste lid, die de participatieraad of de centrale participatieraad redelijkerwijs nodig heeft voor het vervullen van zijn taak. Over individuele personeelszaken worden geen gegevens verstrekt.

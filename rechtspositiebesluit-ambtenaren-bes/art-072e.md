@@ -1,0 +1,4 @@
+# Artikel 72e
+De ambtenaar, bedoeld in artikel 72a, is verplicht tot gehele of gedeeltelijke terugbetaling van de aan hem toegekende vergoeding van de scholingskosten:
+a. bij onvoldoende resultaat in de scholing en bij voortijdig afbreken van de scholing, voor zover dit aan eigen schuld of toedoen van de ambtenaar is te wijten;
+b. bij ontslag tijdens het volgen van de scholing, tenzij hij binnen een maand na zijn ontslag elders in dienst treedt binnen de rijksdienst in Caribisch Nederland, als het een ambtenaar in dienst van de staat betreft, of binnen de dienst van het openbaar lichaam, als het een ambtenaar in dienst van een openbaar lichaam betreft, of aansluitend aan zijn ontslag recht heeft op wachtgeld, een uitkering op grond van de Cessantiawet BES, een uitkering op grond van arbeidsongeschiktheid of ouderdomspensioen.
