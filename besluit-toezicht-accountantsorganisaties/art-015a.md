@@ -1,0 +1,7 @@
+# Artikel 15a
+1. Een accountantsorganisatie die een wettelijke controle verricht van een geconsolideerde jaarrekening van een groep ondernemingen of instellingen, zorgt ervoor dat de groepsaccountant op basis van adequate informatie:
+a. een controleverklaring afgeeft die voldoet aan daarvoor in artikel 28 van de richtlijn opgenomen eisen en, indien de controlecliënt een organisatie van openbaar belang is, een controleverklaring afgeeft die eveneens voldoet aan de daar in artikel 10 van de verordening opgenomen eisen en daarnaast de in artikel 11 van de verordening bedoelde aanvullende verklaring aan de auditcommissie verstrekt;
+b. de controlewerkzaamheden evalueert in overeenstemming met daarvoor in artikel 27, eerste lid, van de richtlijn opgenomen eisen;
+c. in overeenstemming met artikel 27, eerste, onderdeel c, van de richtlijn beschikt over de in dat onderdeel genoemde informatie en documenten of, indien hij hieraan niet kan voldoen, passende maatregelen als bedoeld in artikel 27, tweede lid, van de richtlijn neemt en deze maatregelen meldt aan de Autoriteit Financiële Markten.
+2. Met het oog op de verstrekking van gegevens of inlichtingen aan de Autoriteit Financiële Markten in het kader van een kwaliteitsbeoordeling of een onderzoek naar de controle van een geconsolideerde jaarrekening, zorgt de accountantsorganisatie ervoor dat de groepsaccountant voldoet aan de daarvoor in artikel 27, derde lid, van de richtlijn opgenomen eisen.
+3. De accountantsorganisatie stelt passende procedures vast om te kunnen voldoen aan het eerste en tweede lid.

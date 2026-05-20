@@ -1,0 +1,4 @@
+# Artikel 34f
+1. Bij de vervulling van hun taak richten de leden van het orgaan belast met het interne toezicht zich naar het belang van de accountantsorganisatie en de met haar verbonden onderneming en het publieke belang om de kwaliteit van wettelijke controles te borgen.
+2. Indien het stelsel van intern onafhankelijk toezicht overeenkomstig artikel 22a, tweede lid, van de wet is ingericht, richten de leden van het orgaan belast met het interne toezicht zich bij de vervulling van hun taak mede naar het belang van de accountantsorganisatie, de met haar verbonden onderneming en het publieke belang om de kwaliteit van wettelijke controles te borgen.
+3. Een lid van het orgaan belast met het interne toezicht neemt niet deel aan de beraadslaging en de besluitvorming indien hij daarbij een direct of indirect persoonlijk belang heeft dat tegenstrijdig is met het belang, bedoeld in het eerste lid.
