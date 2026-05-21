@@ -1,0 +1,7 @@
+# Artikel 3b
+1. Het UWV draagt zorg voor continue bereikbaarheid om een afnemer te bemiddelen naar tolken in geval van spoed.
+2. Het UWV kent in ieder geval 30 uren aan tolkdiensten toe aan een afnemer per jaar. Indien de afnemer zowel auditief als visueel beperkt is, kent het UWV in ieder geval 168 uur aan deze tolkdiensten toe per jaar. Dit laat de aanvullende uren die zijn toegekend op grond van artikel 4a.1.1, tweede lid, van het Uitvoeringsbesluit, onverlet.
+3. Indien de dienstverlening door een tolk op afstand wordt verricht, wordt voor 3 uren dienstverlening door een tolk op afstand slechts 1 uur tolkdienstverlening in mindering gebracht op de toegekende vaste beschikbare uren, genoemd in het tweede lid. Indien in totaal meer dan 15 uren dienstverlening van een tolk op afstand wordt afgenomen, wordt voor 1 uur dienstverlening 1 uur in mindering gebracht op het aantal toegekende vaste beschikbare uren, genoemd in het tweede lid, voor de afnemer.
+4. Dienstverlening van maximaal twee tolken voor één afnemer wordt alleen vergoed in situaties waar langer dan 2 uren onafgebroken getolkt dient te worden, waarbij vooraf vaststaat dat het achtereenvolgens inzetten van verschillende tolken niet mogelijk is.
+5. Voor de dienstverlening, bedoeld in het vierde lid, van twee tolken wordt 1 uur in mindering gebracht op de toegekende vaste beschikbare uren voor de afnemer, genoemd in het tweede lid.
+6. Het UWV vergoedt de werktijd van de betrokken tolk tijdens pauzes van de afnemer.

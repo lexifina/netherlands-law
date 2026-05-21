@@ -1,0 +1,3 @@
+# Artikel 3g
+1. In het geval dat degene die krachtens artikel 3a.1.1 van de wet een vergoeding van het UWV wenst voor tolkdiensten minder dan 24 uur voor het tijdstip van aanvang van de dienstverlening annuleert, telt het aantal verzochte uren mee voor de urennorm, bedoeld in artikel 3b, tweede lid.
+2. Bij een annulering als bedoeld in het eerste lid mag 50% van het tarief overeenkomstig artikel 3e, eerste lid, in rekening worden gebracht bij het UWV door de tolk of tolk op afstand. Bij een annulering bij de locatie van de persoon geldt eveneens een vergoeding voor de vervoerskosten van 50% van de vervoersvergoeding, bedoeld in artikel 3f, eerste lid.
