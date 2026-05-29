@@ -1,0 +1,2 @@
+# Article 14 bis. Technical and financial assistance
+In cases which it considers appropiate and either in addition or as an alternative to measures set forth in article 14, paragraphs 1 and 2, the Board, with the agreement of the Government concerned, may recommend to the competent United Nations organs and to the specialized agencies that technical or financial assistance, or both, be provided to the Government in support of its efforts to carry out its obligations under this Convention, including those set out or referred to in articles 2, 35, 38 and 38 bis.
