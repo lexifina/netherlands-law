@@ -1,0 +1,3 @@
+# Rule 70b. Request for a copy of search results
+1. Where the European Patent Office notes, at the time the Examining Division assumes responsibility, that a copy referred to in Rule 141, paragraph 1, has not been filed by the applicant and is not deemed to be duly filed under Rule 141, paragraph 2, it shall invite the applicant to file, within a period of two months, the copy or a statement that the results of the search referred to in Rule 141, paragraph 1, are not available to them.
+2. If the applicant fails to reply in due time to the invitation under paragraph 1, the European patent application shall be deemed to be withdrawn.

@@ -1,0 +1,5 @@
+# Rule 7b. Declaration of eligibility for a reduction of fees
+1. Applicants wishing to benefit from a reduction of fees under Rule 7a, paragraph 1 or Rule 7a, paragraph 3, shall declare themselves to be a person within the meaning of Rule 7a, paragraph 2 or Rule 7a, paragraph 3, at the latest when the first reduced payment is made.
+2. Applicants shall inform the European Patent Office of any change of status affecting eligibility for a reduction of fees at the latest when the fee concerned is paid.
+3. In the event of reasonable doubt as to the veracity of the declaration within the meaning of paragraph 1 or, subsequently, as to the applicant's eligibility for a reduction of fees, the European Patent Office may request evidence.
+4. Should it become apparent that an incorrect declaration has been filed or the European Patent Office has not been informed of a change of status in accordance with paragraph 2 and a reduced payment is made, the fee shall be deemed not to have been paid and the application shall be deemed to be withdrawn.
