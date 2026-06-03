@@ -1,0 +1,3 @@
+# Artikel 23a. Vorderen inlichtingen
+1. Onze Minister van Financiën is bevoegd van een trustee inlichtingen te vorderen die hij redelijkerwijs voor de vervulling van zijn taak, bedoeld in de artikelen 22 en 23, nodig heeft. Een trustee is verplicht aan Onze Minister van Financiën binnen de door hem gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen bij de uitvoering van deze bevoegdheid.
+2. Het eerste lid is van overeenkomstige toepassing op een instelling die een melding als bedoeld in artikel 10c, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme heeft gedaan.
