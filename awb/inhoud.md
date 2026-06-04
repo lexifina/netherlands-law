@@ -107,6 +107,7 @@
 #### Afdeling 9.2.1. Algemene bepalingen
 #### Afdeling 9.2.2. Bevoegdheid
 #### Afdeling 9.2.3. Procedure
+#### Afdeling 9.2.4. Openbaarheid
 ## Hoofdstuk 10. Bepalingen over bestuursorganen
 ### Titel 10.1. Mandaat, delegatie en attributie
 #### Afdeling 10.1.1. Mandaat
