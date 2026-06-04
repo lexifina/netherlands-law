@@ -1,0 +1,4 @@
+# Artikel III
+Voorzover het peiljaar, bedoeld in artikel 1, van de Wet bevordering eigenwoningbezit, het kalenderjaar 2005 betreft, wordt:
+a. in artikel 8, tweede lid, van de Wet bevordering eigenwoningbezit, zoals dat komt te luiden na de inwerkingtreding van deze wet, voor «het bedrag van de tegemoetkoming, bedoeld in artikel 33b van de Algemene Ouderdomswet» gelezen: het bedrag van de tegemoetkoming waarop personen met een ouderdomspensioen op grond van artikel 9 van de Kaderwet SZW-subsidies recht hebben;
+b. in de artikelen 11, eerste lid, onderdeel b, onder 3e en 4e, en 28, onderdelen c en d, van de Wet bevordering eigenwoningbezit voor «de tegemoetkoming, bedoeld in artikel 33b van die wet» gelezen: de financiële tegemoetkoming waarop personen met een ouderdomspensioen op grond van artikel 9 van de Kaderwet SZW-subsidies recht hebben.
