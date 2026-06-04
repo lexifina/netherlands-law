@@ -1,0 +1,3 @@
+# Artikel 5e
+1. De verhuurder biedt de leden van het bestuur van de huurdersorganisatie gedurende een door de verhuurder en de huurdersorganisatie gezamenlijk vast te stellen aantal dagen per jaar de gelegenheid om de scholing en vorming te ontvangen welke zij in verband met de vervulling van hun taak nodig oordelen.
+2. De verhuurder en de huurdersorganisatie stellen het aantal dagen, bedoeld in het eerste lid, vast op een zodanig aantal als de betrokken leden van het bestuur van de huurdersorganisatie voor de vervulling van hun taak redelijkerwijs nodig hebben, met dien verstande dat het aantal dagen niet lager vastgesteld kan worden dan drie per jaar.

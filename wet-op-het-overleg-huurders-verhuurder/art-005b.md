@@ -1,0 +1,6 @@
+# Artikel 5b
+1. De huurdersorganisatie, de bewonerscommissie en de huurder kunnen met de verhuurder schriftelijk nadere afspraken maken over de onderwerpen waarover door de verhuurder informatie wordt gegeven.
+2. Indien de huurdersorganisatie of de bewonerscommissie de verhuurder te kennen heeft gegeven met hem overleg te willen voeren over door de verhuurder verstrekte informatie als bedoeld in het eerste lid of de artikelen 3 en 4 biedt de verhuurder daarvoor de gelegenheid.
+3. De verhuurder voert ten minste een maal per jaar met de betrokken huurdersorganisaties en de betrokken bewonerscommissies overleg, niet zijnde een overleg over verstrekte informatie als bedoeld in het eerste lid of de artikelen 3 en 4. Die huurdersorganisaties en bewonerscommissies kunnen gezamenlijk voor dat overleg worden uitgenodigd.
+4. De huurdersorganisatie en de bewonerscommissie kunnen onderwerpen aandragen voor de agenda van elk overleg met de verhuurder. De verhuurder kan slechts met redenen omkleed weigeren een zodanig onderwerp op de agenda te zetten en daarover overleg te voeren.
+5. De verhuurder, de huurdersorganisatie of de bewonerscommissie kan na tijdige voorafgaande kennisgeving aan de andere overlegpartners, een of meer deskundigen uitnodigen tot het bijwonen van een overleg, indien dit voor de behandeling van een bepaald onderwerp redelijkerwijze nodig is.
