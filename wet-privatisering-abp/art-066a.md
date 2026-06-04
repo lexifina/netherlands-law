@@ -1,6 +1,0 @@
-# Artikel 66a
-1. Besluiten van het FAOP uit hoofde van zijn taak ingevolge artikel 46, eerste lid, die genomen zijn voor 1 januari 1996, worden tot de datum waarop het College van toezicht sociale verzekeringen, bedoeld in artikel 2 van de Organisatiewet sociale verzekeringen, deze zal hebben goedgekeurd, doch uiterlijk tot 1 januari 1997, aangemerkt als te zijn goedgekeurd door dat college, voor zover het betreft besluiten die:
-a. betrekking hebben op het in artikel 49, tweede juncto eerste lid, van de Wet FVP/ABP bedoelde onderdeel van de begroting betreffende de in artikel 21a van die wet bedoelde uitvoeringskosten;
-b. de goedkeuring behoeven van het vorengenoemde college op grond van artikel 15, eerste lid, van de Organisatiewet sociale verzekeringen; of
-c. overeenkomstig artikel 18 van de Algemene Arbeidsongeschiktheidswet, zoals die wet luidde op de dag voorafgaande aan de datum van inwerkingtreding van artikel II van de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen, en de artikelen 27 en 28 van de Wet op de arbeidsongeschiktheidsverzekering zijn vastgesteld.
-2. Ingeval het college, bedoeld in het eerste lid, zijn goedkeuring onthoudt aan een besluit van het FAOP als bedoeld in het eerste lid, behoudt het bedoelde besluit zijn gelding gedurende de periode tot aan de datum van de bedoelde beslissing van het College.
