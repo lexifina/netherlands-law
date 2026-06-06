@@ -1,0 +1,4 @@
+# Artikel 21a
+1. Indien een politieke partij van een gever, zijnde een stichting of vereniging die niet is aangewezen als neveninstelling, in een kalenderjaar een geldelijke bijdrage van in totaal meer dan € 1.000 of een bijdrage in natura met een waarde van in totaal meer dan € 1.000 ontvangt, verlangt zij van de stichting of vereniging ten aanzien van de door die stichting of vereniging in dat kalenderjaar van een gever ontvangen bijdragen van in totaal meer dan € 1.000 tevens een overzicht van de gegevens, genoemd in artikel 21, eerste lid, onder a tot en met c.
+2. Bij gebreke van een overzicht als bedoeld in het eerste lid maakt de politieke partij het gedeelte van de geldelijke bijdrage of de bijdrage van natura dat het bedrag van € 1.000 te boven gaat, over op de daartoe aangewezen rekening van Onze Minister, dan wel vernietigt zij de bijdrage in natura.
+3. Een op grond van het tweede lid overgemaakte bijdrage komt toe aan de Staat.
