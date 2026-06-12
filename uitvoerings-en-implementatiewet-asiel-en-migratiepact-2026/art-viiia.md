@@ -1,0 +1,2 @@
+# Artikel VIIIa. Evaluatiebepaling
+Onze Minister van Asiel en Migratie zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk, waarbij ten minste wordt gekeken naar artikel I, onderdelen U en AX, subonderdeel 5, betreffende nareizende gezinsleden van subsidiair beschermden en de bewaring van minderjarigen.
