@@ -1,0 +1,2 @@
+# Artikel 18b. Volgorde van afboeken aflossingsbedragen
+Indien de berekende terugbetalingstermijn hoger is dan de op grond van artikel 18 berekende draagkracht, worden aflossingen eerst afgeboekt op de terugbetalingstermijn behorende bij de lening met de kortste resterende terugbetalingsperiode, of bij een gelijke resterende terugbetalingsperiode op de lening die is ontstaan door de toekenning van het levenlanglerenkrediet.

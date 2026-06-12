@@ -1,0 +1,3 @@
+# Artikel 18c. Aflossingsvrije periode
+1. Indien aan de debiteur een aflossingsvrije periode, bedoeld in de artikelen 6.7, tweede lid, 10a.5, eerste lid, van de wet of artikel 4.7, tweede lid, van de Wet studiefinanciering BES, wordt toegekend, wordt de draagkracht die is vastgesteld op grond van artikel 18 opnieuw bepaald, waarbij de draagkrachtberekening behorende bij de opgeschorte lening niet langer wordt gehanteerd.
+2. Indien het eerste lid wordt toegepast, wordt de als gevolg daarvan resterende draagkracht benut voor de terugbetalingstermijn behorende bij de lening die is ontstaan door toekenning van het levenlanglerenkrediet.

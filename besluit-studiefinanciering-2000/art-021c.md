@@ -1,0 +1,7 @@
+# Artikel 21c. Wijze van de verstrekking
+1. De tegemoetkoming wordt verstrekt in de vorm van:
+a. een kwijtschelding van de openstaande studieschuld of een deel daarvan; of
+b. een bijschrijving op de bij de Onze Minister voor de toekenning van studiefinanciering bekende bankrekening, indien:
+1° er op het moment van toekenning geen studieschuld openstaat; of
+2° er na de kwijtschelding, bedoeld in onderdeel a, nog aanspraak op een deel van de tegemoetkoming bestaat.
+2. Indien bij Onze Minister de benodigde gegevens van de rechthebbende op een tegemoetkoming over de bankrekening waarop de tegemoetkoming kan worden uitbetaald niet bekend zijn, wordt de rechthebbende verzocht deze gegevens binnen twaalf maanden te verstrekken. Indien de rechthebbende op een tegemoetkoming niet binnen deze termijn de gegevens aanvult, vervalt de aanspraak op de tegemoetkoming op grond van een daartoe strekkend besluit van Onze Minister.

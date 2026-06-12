@@ -1,0 +1,13 @@
+# Artikel 5a. Band met Nederland
+1. Van een band met Nederland, als bedoeld in artikel 2.14, tweede lid, onderdeel a, van de wet, is sprake indien aan ten minste één van de volgende criteria is voldaan:
+a. de ho-student valt binnen de reikwijdte van artikel 45 of 49 van het Verdrag betreffende de werking van de Europese Unie, of is daarmee gelijkgesteld op grond van het recht van de Europese Unie, en hij of zijn ouder of partner werkt in Nederland, anders dan louter marginaal en bijkomstig;
+b. de ho-student heeft ten minste 3 jaren van de 6 jaren voorafgaand aan diens inschrijving aan de buitenlandse opleiding in Nederland gewoond en gedurende deze periode rechtmatig verblijf gehad;
+c. de ho-student heeft ten minste 3 jaren van de 6 jaren voorafgaand aan diens inschrijving aan de buitenlandse opleiding in Nederland gewerkt, anders dan louter marginaal en bijkomstig;
+d. de ho-student heeft volledig Nederlands onderwijs dat is geregeld bij of krachtens de Wet op het primair onderwijs, de Wet voortgezet onderwijs 2020 of de Wet op de expertisecentra gevolgd in Nederland.
+2. Van een band met Nederland is voorts sprake indien de ho-student voldoende vaardig is in de Nederlandse taal, wat in ieder geval kan worden aangetoond met een NT2-diploma, en aan ten minste één van de volgende criteria voldoet:
+a. de ho-student heeft voorafgaand aan diens inschrijving aan de buitenlandse opleiding gedurende een periode van ten minste 3 jaren in Nederland gewoond en gedurende deze periode rechtmatig verblijf gehad;
+b. de ho-student heeft voorafgaand aan diens inschrijving aan de buitenlandse opleiding gedurende een periode van ten minste 3 jaren in Nederland gewerkt, anders dan louter marginaal en bijkomstig;
+c. een ouder of de partner van de ho-student heeft voorafgaand aan diens inschrijving aan de buitenlandse opleiding gedurende een periode van ten minste 3 jaren in Nederland gewoond en gedurende deze periode rechtmatig verblijf gehad;
+d. een ouder of de partner van de ho-student heeft voorafgaand aan diens inschrijving aan de buitenlandse opleiding gedurende een periode van ten minste 3 jaren in Nederland gewerkt, anders dan louter marginaal en bijkomstig;
+e. de ho-student heeft Nederlands onderwijs dat is geregeld bij of krachtens de Wet op het primair onderwijs, de Wet voortgezet onderwijs 2020, de Wet educatie en beroepsonderwijs, de Wet op de expertisecentra of de Wet op het hoger onderwijs en wetenschappelijk onderzoek gevolgd in Nederland gedurende een aaneengesloten periode van ten minste 6 jaren.
+3. De ho-student kan op grond van een combinatie van de in het tweede lid genoemde criteria of op grond van andere omstandigheden aantonen dat er sprake is van een band met Nederland.
