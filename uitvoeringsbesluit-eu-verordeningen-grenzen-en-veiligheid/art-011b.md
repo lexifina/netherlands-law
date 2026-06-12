@@ -1,0 +1,2 @@
+# Artikel 11b. Aanwijzing deskundigen Eurodac
+Deskundigen op het terrein van de vingerafdrukken en gezichtsopnamegegevens zoals bedoeld in de artikelen 38, vierde en vijfde lid en 44, tweede lid, van de Eurodac-verordening zijn de deskundigen als bedoeld in artikel 8.33 van het Vreemdelingenbesluit 2000 en deskundigen werkzaam bij de Staf Eenheid landelijke expertise en operaties als bedoeld in artikel 3, tweede lid, onderdeel a, van het Besluit beheer politie.
