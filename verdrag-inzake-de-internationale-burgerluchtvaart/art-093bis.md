@@ -1,0 +1,6 @@
+# Article 93bis
+(A) Notwithstanding the provisions of Articles 91, 92 and 93, above,
+(1) A State whose government the General Assembly of the United Nations has recommended be debarred from membership in international agencies established by or brought into relationship with the United Nations shall automatically cease to be a member of the International Civil Aviation Organization;
+(2) A State which has been expelled from membership in the United Nations shall automatically cease to be a member of the International Civil Aviation Organization unless the General Assembly of the United Nations attaches to its act of expulsion a recommendation to the contrary.
+(B) A State which ceases to be a member of the International Civil Aviation Organization as a result of the provisions of paragraph (A) above may, after approval by the General Assembly of the United Nations, be readmitted to the International Civil Aviation Organization upon application and upon approval by a majority of the Council.
+(C) Members of the Organization which are suspended from the exercise of the rights and privileges of membership of the United Nations shall, upon the request of the latter, be suspended from the rights and privileges of membership in this Organization

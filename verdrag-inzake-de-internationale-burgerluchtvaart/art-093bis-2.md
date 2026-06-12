@@ -1,0 +1,6 @@
+# Artikel 93bis
+(a) Niettegenstaande het bepaalde in de artikelen 91, 92 en 93:
+(1) houdt een Staat ten aanzien van welks Regering de Algemene Vergadering der Verenigde Naties heeft aanbevolen haar uit te sluiten van het lidmaatschap van internationale organisaties welke zijn opgericht door of verbonden zijn met de Verenigde Naties, automatisch op lid te zijn van de Internationale Burgerluchtvaartorganisatie;
+(2) houdt een Staat die is geroyeerd als lid van de Verenigde Naties, automatisch op lid te zijn van de Internationale Burgerluchtvaartorganisatie, tenzij de Algemene Vergadering der Verenigde Naties aan de akte van royement een aanbeveling toevoegt, welke het tegendeel uitdrukt.
+(b) Een Staat die als gevolg van het bepaalde in het voorgaande lid (a) ophoudt lid te zijn van de Internationale Burgerluchtvaartorganisatie kan, na goedkeuring door de Algemene Vergadering der Verenigde Naties, wederom worden toegelaten als lid van de Internationale Burgerluchtvaartorganisatie op zijn verzoek en na goedkeuring door de meerderheid van de Raad.
+(c) Leden van de Organisatie die in de uitoefening en het genot van de rechten en voorrechten van het lidmaatschap van de Verenigde Naties zijn geschorst, worden op verzoek van de Verenigde Naties geschorst in de rechten en voorrechten van het lidmaatschap van deze Organisatie.
