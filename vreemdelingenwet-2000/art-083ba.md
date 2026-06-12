@@ -1,0 +1,3 @@
+# Artikel 83ba
+1. In afwijking van artikel 8:84 van de Algemene wet bestuursrecht doet de voorzieningenrechter overeenkomstig artikel 43, derde lid, van de Asiel- en migratiebeheerverordening uitspraak binnen een maand na ontvangst van het verzoek om voorlopige voorziening dat strekt tot opschorting van de uitvoering van een overdrachtsbesluit als bedoeld in de artikelen 44a of 62b.
+2. Indien de voorzieningenrechter de voorlopige voorziening heeft toegewezen, tracht de rechtbank, in afwijking van artikel 83b, eerste lid, onderdeel a, subonderdeel 1°, en onderdeel b, overeenkomstig artikel 43, derde lid, van de Asiel- en migratiebeheerverordening binnen een maand uitspraak te doen in de hoofdzaak.

@@ -1,15 +1,18 @@
 # Artikel 59b
-1. De vreemdeling die rechtmatig verblijf heeft op grond van artikel 8, onder f, g of h, voor zover dit betrekking heeft op een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 28, kan door Onze Minister in bewaring worden gesteld, indien:
-a. bewaring noodzakelijk is met het oog op vaststelling van de identiteit of nationaliteit van de vreemdeling;
-b. bewaring noodzakelijk is met het oog op het verkrijgen van gegevens die noodzakelijk zijn voor beoordeling van een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28, met name indien er sprake is van een risico op onttrekking;
+1. De vreemdeling die rechtmatig verblijf heeft op grond van artikel 8, aanhef en onder f, subonderdeel 2° of onder h, subonderdeel 2°, voor zover dit betrekking heeft op een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 28, kan door Onze Minister in vreemdelingenbewaring worden gesteld, indien:
+a. vreemdelingenbewaring noodzakelijk is met het oog op vaststelling van de identiteit of nationaliteit van de vreemdeling;
+b. vreemdelingenbewaring noodzakelijk is met het oog op het vaststellen van de gegevens die ten grondslag liggen aan een aanvraag tot het verlenen van een verblijfsvergunning asiel als bedoeld in artikel 28 en die niet zouden kunnen worden verkregen indien de aanvrager niet in vreemdelingenbewaring zou worden gehouden, met name wanneer sprake is van een onderduikrisico;
 c. de vreemdeling:
-1°. in bewaring werd gehouden in het kader van een terugkeerprocedure uit hoofde van de Terugkeerrichtlijn;
+1°. in vreemdelingenbewaring werd gehouden in het kader van een terugkeerprocedure uit hoofde van de Terugkeerrichtlijn;
 2°. reeds de mogelijkheid van toegang tot de asielprocedure heeft gehad; en
-3°. op redelijke gronden aangenomen kan worden dat hij de aanvraag louter heeft ingediend om de uitvoering van het terugkeerbesluit uit te stellen of te verijdelen; of
-d. de vreemdeling een gevaar vormt voor de nationale veiligheid of openbare orde als bedoeld in artikel 8, derde lid, onderdeel e, van de Opvangrichtlijn.
-2. De bewaring krachtens het eerste lid, onderdeel a, b of c, duurt niet langer dan vier weken, tenzij toepassing is gegeven aan artikel 39. In dat geval duurt de bewaring niet langer dan zes weken.
-3. De bewaring krachtens het eerste lid, onderdeel a, b of c, kan worden verlengd met ten hoogste drie maanden indien de vreemdeling rechtmatig verblijf heeft op grond van artikel 8, onder h.
-4. De bewaring krachtens het eerste lid, onderdeel d, duurt niet langer dan zes maanden.
-5. Onze Minister kan de bewaring krachtens het eerste lid, onderdeel d, met ten hoogste negen maanden verlengen, indien er sprake is van:
-a. complexe feitelijke en juridische omstandigheden die betrekking hebben op de behandeling van de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28; en
-b. een zwaarwegend belang van openbare orde of nationale veiligheid.
+3°. op redelijke gronden aangenomen kan worden dat hij de aanvraag louter heeft ingediend om de uitvoering van het terugkeerbesluit uit te stellen of te verijdelen;
+d. de vreemdeling een gevaar vormt voor de nationale veiligheid of openbare orde als bedoeld in artikel 10, vierde lid, onderdeel f, van de Opvangrichtlijn; of
+e. vreemdelingenbewaring noodzakelijk is ten behoeve van de handhaving van de opgelegde vrijheidsbeperkende maatregel, bedoeld in artikel 56, eerste lid, in het geval de vreemdeling die maatregel niet naleeft en het onderduikrisico blijft bestaan.
+2. De vreemdelingenbewaring krachtens het eerste lid, duurt zo kort mogelijk, uitsluitend zo lang de in het eerste lid genoemde gronden van toepassing zijn en niet langer dan zes maanden.
+3. Onze Minister kan de vreemdelingenbewaring krachtens het eerste lid met ten hoogste zes maanden verlengen, indien er sprake is van:
+a. complexe feitelijke of juridische kwesties; of
+b. de vertraging in de behandeling van de aanvraag om een verblijfsvergunning asiel als bedoeld in artikel 28 duidelijk en uitsluitend kan worden toegeschreven aan het feit dat de vreemdeling de krachtens artikel 9 van de Procedureverordening op hem rustende verplichtingen niet nakomt.
+4. De vreemdeling wordt niet in vreemdelingenbewaring gesteld om de enkele reden dat hij een aanvraag tot het verlenen van een verblijfsvergunning asiel als bedoeld in artikel 28 heeft ingediend of op basis van zijn nationaliteit. De vreemdelingenbewaring mag niet bestraffend van aard zijn.
+5. In afwijking van het eerste lid, wordt een minderjarige vreemdeling in de regel niet in vreemdelingenbewaring gesteld. In uitzonderlijke omstandigheden kunnen minderjarigen als maatregel in laatste instantie en nadat is gebleken dat minder dwingende alternatieve maatregelen niet doeltreffend kunnen worden toegepast, en nadat overeenkomstig artikel 26 van de Opvangrichtlijn is beoordeeld dat vreemdelingenbewaring in hun belang is, voor zo kort mogelijke duur in vreemdelingenbewaring worden gehouden:
+a. in het geval van begeleide minderjarigen, wanneer de ouder of hoofdverzorger van de minderjarige in vreemdelingenbewaring wordt gehouden, of
+b. in het geval van niet-begeleide minderjarigen, wanneer de minderjarige door de vreemdelingenbewaring wordt beschermd.

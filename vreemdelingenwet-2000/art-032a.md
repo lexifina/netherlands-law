@@ -1,0 +1,2 @@
+# Artikel 32a
+Bij regeling van Onze Minister kunnen overeenkomstig artikel 64, eerste lid, van de Procedureverordening met het oog op de behandeling van de aanvraag tot het verlenen van een verblijfsvergunning asiel als bedoeld in artikel 28 landen als veilig derde land of als veilig land van herkomst worden aangewezen, voor zover dat andere landen zijn dan die welke op het niveau van de Unie als zodanig zijn aangewezen.

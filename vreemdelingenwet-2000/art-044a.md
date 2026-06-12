@@ -1,6 +1,6 @@
 # Artikel 44a
-1. Indien een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28, niet in behandeling wordt genomen op grond van artikel 30, eerste lid, geldt dit besluit als overdrachtsbesluit, en heeft het van rechtswege tot gevolg dat:
+Indien een aanvraag tot het verlenen van een verblijfsvergunning asiel als bedoeld in artikel 28, niet in behandeling wordt genomen op grond van artikel 30, eerste lid, geldt dit besluit als overdrachtsbesluit, en heeft het van rechtswege tot gevolg dat:
 a. de vreemdeling rechtmatig verblijf heeft op grond van artikel 8, onder m;
 b. de ambtenaren belast met het toezicht op vreemdelingen bevoegd zijn elke plaats te betreden, daaronder begrepen een woning zonder toestemming van de bewoner, teneinde de vreemdeling over te dragen;
-c. de vreemdeling Nederland uit eigen beweging dient te verlaten binnen de in artikel 62c gestelde termijn, bij gebreke waarvan de vreemdeling kan worden overgedragen.
-2. Het in het eerste lid, onder b, bedoelde gevolg treedt niet in, indien de in artikel 62c bedoelde termijn nog niet is verstreken.
+c. de vreemdeling door Onze Minister overeenkomstig de Asiel- en migratiebeheerverordening kan worden overgedragen aan een verantwoordelijke lidstaat;
+d. de vreemdeling overeenkomstig artikel 18, eerste lid, van de Asiel- en migratiebeheerverordening geen recht heeft op de opvangvoorzieningen, verstrekkingen en uitkeringen, bedoeld in de artikelen 17 tot en met 20 van de Opvangrichtlijn, toegekend bij of krachtens de Wet Centraal Orgaan opvang asielzoekers of bij of krachtens een ander wettelijk voorschrift. Zulks wordt vermeld in het besluit. Dit doet geen afbreuk aan de noodzaak om een levensstandaard te waarborgen die in overeenstemming is met het Unierecht, met inbegrip van het Handvest van de grondrechten van de Europese Unie, en internationale verplichtingen.

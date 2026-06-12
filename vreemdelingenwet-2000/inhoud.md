@@ -19,6 +19,7 @@
 #### Paragraaf 4. Overige bepalingen
 ### Afdeling 3. Terugkeervisum
 ### Afdeling 4. Nadere regels
+## Hoofdstuk 1c. Screening
 ## Hoofdstuk 2. Toegang
 ## Hoofdstuk 3. Verblijf
 ### Afdeling 1. Rechtmatig verblijf
@@ -31,12 +32,11 @@
 #### Paragraaf 5. De inwilliging van de aanvraag
 #### Paragraaf 6. De afwijzing van de aanvraag
 ### Afdeling 4. De verblijfsvergunning asiel
-#### Paragraaf 1. De verblijfsvergunning voor bepaalde tijd
-#### Paragraaf 2. De verblijfsvergunning voor onbepaalde tijd
-#### Paragraaf 3. Procedurele bepalingen
-#### Paragraaf 4. De beschikking op de aanvraag
-#### Paragraaf 5. De inwilliging van de aanvraag
-#### Paragraaf 6. De afwijzing van de aanvraag
+#### Paragraaf 1. De verblijfsvergunning asiel
+#### Paragraaf 2. Procedurele bepalingen
+#### Paragraaf 3. De beschikking op de aanvraag
+#### Paragraaf 4. De inwilliging van de aanvraag
+#### Paragraaf 5. De afwijzing van de aanvraag
 ### Afdeling 5. De status van langdurig ingezetene
 #### Paragraaf 1. De EU-verblijfsvergunning voor langdurig ingezetenen
 #### Paragraaf 2. Procedurele bepalingen
