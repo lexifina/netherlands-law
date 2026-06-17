@@ -1,0 +1,2 @@
+# Artikel 1b
+De bepaling van het zuurstofverbruik van de stoffen welke in een kalenderjaar worden geloosd of afgevoerd, geschiedt op basis van de som van het chemisch zuurstofverbruik door omzetting van de hoeveelheid totaal organisch koolstof in de stoffen en het zuurstofverbruik door omzetting van de hoeveelheid totaal stikstof verminderd met de som van nitriet-stikstof en nitraat-stikstof in de stoffen. Hierbij wordt het chemisch zuurstofverbruik gesteld op driemaal het gehalte totaal organisch koolstof in de geloosde of afgevoerde stoffen.
