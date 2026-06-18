@@ -1,0 +1,2 @@
+# Artikel 9d. Overeenkomstige toepassing weigeringsgronden
+De weigeringsgronden, bedoeld in artikel 6, zijn van overeenkomstige toepassing voor de subsidieverstrekking op grond van dit hoofdstuk, met dien verstande dat bij artikel 6, onderdeel a, voor 'de gesprekken' wordt gelezen de gesprekken als bedoeld in artikel 9b, eerste, tweede of derde lid en bij artikel 6, onderdeel d, voor 'peildatum 1 januari 2024' wordt gelezen 'peildatum 1 januari 2025'.
