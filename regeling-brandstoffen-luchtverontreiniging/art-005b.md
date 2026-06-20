@@ -1,0 +1,3 @@
+# Artikel 5b
+1. Binnen een maand na de afsluiting van elk kwartaal stuurt de leverancier, bedoeld in artikel 3.3, eerste lid, van het besluit, een afschrift van de brandstofleveringsnota's met bijlagen van alle leveringen aan de zeevaart in Nederland in het voorgaande kwartaal aan de Inspectie Leefomgeving en Transport.
+2. De afschriften van de brandstofleveringsnota's zijn vergezeld van een overzicht, waarin voor elke brandstoflevering, onder het unieke nummer van de brandstofleveringsnota, de informatie wordt vermeld die is opgenomen in Aanhangsel V van Bijlage VI bij het Verdrag, aangevuld met de informatie overeenkomstig bijlage I van Verordening (EU) 2023/1805, inclusief de samenstelling van de brandstoflevering en de ISO 8217-brandstofklassen.
