@@ -21,16 +21,17 @@
 ### Titel 9.6. De bijdrage van de vervoerssector aan milieu-, klimaat- en energiebeleid
 ### Titel 9.7. Hernieuwbare energie vervoer
 #### § 9.7.1. Algemeen
-#### § 9.7.2. Jaarverplichting hernieuwbare energie
-#### § 9.7.3. Hernieuwbare brandstofeenheden
-#### § 9.7.4. Inboeken hernieuwbare energie
-#### § 9.7.5. Register hernieuwbare energie
+#### § 9.7.2. Jaarverplichting hernieuwbare energie vervoer
+#### § 9.7.3. Emissiereductie-eenheden
+#### § 9.7.4. Inboeken hernieuwbare energie vervoer
+#### § 9.7.5. Register hernieuwbare energie vervoer
 #### § 9.7.6. Naleving van de duurzaamheids- en broeikasgasemissiereductiecriteria en broeikasgasemissiereductiedrempels
-### Titel 9.8. Rapportage- en reductieverplichting vervoersemissies
+### Titel 9.8. Raffinagereductie vervoersbrandstoffen
 #### § 9.8.1. Algemeen
-#### § 9.8.2. Rapportage- en reductieverplichting
-#### § 9.8.3. Hernieuwbare brandstofeenheden
-#### § 9.8.4. Register rapportage- en reductieverplichting vervoersemissies
+#### § 9.8.2. Raffinagereductie-eenheden
+#### § 9.8.3. Inboeken hernieuwbare brandstof van niet-biologische oorsprong
+#### § 9.8.4. Register raffinagereductie-eenheden
+#### § 9.8.5. Naleving van de broeikasgasemissiereductiecriteria en broeikasgasemissiereductiedrempels
 ## Hoofdstuk 10. Afvalstoffen
 ### Titel 10.1. Algemeen
 ### Titel 10.2. Het circulair materialenplan
@@ -107,6 +108,8 @@
 #### Afdeling 16b.3.3. Overdracht van dispensatierechten
 ## Hoofdstuk 16c. Mechanisme voor koolstofcorrectie aan de grens
 ### Titel 16c.1. Overgangsperiode
+### Titel 16c.2. Nadere operationalisering
+### Titel 16c.3. Verkoop en terugkoop van CBAM-certificaten
 ## Hoofdstuk 17. Maatregelen in bijzondere omstandigheden
 ### Titel 17.1. Maatregelen bij een ongewoon voorval
 ### Titel 17.1A. Maatregelen betreffende winningsafvalvoorzieningen
@@ -117,45 +120,3 @@
 ## Hoofdstuk 20. Inwerkingtreding en rechtsbescherming
 ## Hoofdstuk 21. Verdere bepalingen
 ## Hoofdstuk 22. Slotbepalingen
-## § 1. Grenswaarden en alarmdrempel voor zwaveldioxide
-### Voorschrift 1.1
-### Voorschrift 1.2
-### Voorschrift 1.3
-## § 2. Grenswaarden, plandrempels en alarmdrempel voor stikstofdioxide
-### Voorschrift 2.1
-### Voorschrift 2.1a
-### Voorschrift 2.2
-### Voorschrift 2.3
-### Voorschrift 2.4
-## § 3. Grenswaarde voor stikstofoxiden
-### Voorschrift 3.1
-## § 4. Grenswaarden voor zwevende deeltjes (PM10); plandrempel, richtwaarden, grenswaarde en blootstellingsconcentratieverplichting voor zwevende deeltjes (PM2,5)
-### Voorschrift 4.1
-### Voorschrift 4.2
-### Voorschrift 4.3
-### Voorschrift 4.4
-### Voorschrift 4.5
-### Voorschrift 4.6
-### Voorschrift 4.7
-## § 5. Grenswaarde voor lood
-### Voorschrift 5.1
-## § 6. Grenswaarde voor koolmonoxide
-### Voorschrift 6.1
-## § 7. Grenswaarden en plandrempels voor benzeen
-### Voorschrift 7.1
-### Voorschrift 7.2
-## § 8. Richtwaarden, informatiedrempel en alarmdrempel voor ozon
-### Voorschrift 8.1
-### Voorschrift 8.2
-### Voorschrift 8.3
-### Voorschrift 8.4
-## § 9. Richtwaarde voor arseen
-### Voorschrift 9.1
-## § 10. Richtwaarde voor cadmium
-### Voorschrift 10.1
-## § 11. Richtwaarde voor nikkel
-### Voorschrift 11.1
-## § 12. Richtwaarde voor benzo(a)pyreen
-### Voorschrift 12.1
-## § 13. Gevallen als bedoeld in de artikelen 5.9, eerste lid, en 5.10, eerste lid, waarin een plan wordt vastgesteld en uitgevoerd.
-### Voorschrift 13.1
