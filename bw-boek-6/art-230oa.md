@@ -1,0 +1,9 @@
+# Artikel 230oa
+1. De handelaar zorgt ervoor dat de consument het recht van ontbinding van een via een online-interface gesloten overeenkomst op afstand kan uitoefenen door een verklaring tot ontbinding in te dienen door middel van een duidelijk zichtbaar op de online-interface weergegeven en gemakkelijk toegankelijke functie. De functie wordt daartoe op een goed leesbare wijze aangeduid met een ondubbelzinnige formulering waaruit blijkt dat daarmee de overeenkomst kan worden ontbonden.
+2. De handelaar stelt de consument in staat de volgende informatie in de verklaring tot ontbinding, bedoeld in lid 1, te verstrekken of te bevestigen:
+a. naam van de consument;
+b. de gegevens ter identificatie van de overeenkomst die de consument wenst te ontbinden; en
+c. nadere gegevens over de elektronische middelen waarmee de handelaar de ontbinding aan de consument zal bevestigen.
+3. Zodra de consument de in lid 2 bedoelde verklaring heeft ingevuld, stelt de handelaar de consument in staat deze verklaring bij de handelaar in te dienen door middel van een functie die op goed leesbare wijze wordt aangeduid met een ondubbelzinnige formulering waaruit blijkt dat daarmee de ontbinding kan worden bevestigd.
+4. Zodra de consument de functie, bedoeld in lid 3, activeert, bevestigt de handelaar de ontvangst van de ontbinding onverwijld op een duurzame gegevensdrager, onder vermelding van informatie over de inhoud van de verklaring en de datum en het tijdstip van indiening.
+5. De consument wordt geacht het recht van ontbinding binnen de geldende ontbindingstermijn te hebben uitgeoefend, indien de consument de verklaring, bedoeld in lid 1, voor het verstrijken van de ontbindingstermijn bij de handelaar heeft ingediend. De handelaar zorgt ervoor dat de functie gedurende deze termijn te allen tijde beschikbaar is.
