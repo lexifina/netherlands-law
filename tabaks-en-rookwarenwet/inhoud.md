@@ -3,6 +3,7 @@
 ## § 2. Aanduiding, samenstelling, verbod en informatieverstrekking tabaksproducten en aanverwante producten
 ## § 2a. Volg- en traceersysteem en veiligheidskenmerk
 ## § 3. Reclame- en sponsoringbeperkingen
+## § 3a. Registratieplicht
 ## § 4. Verkoopbeperkingen
 ## § 5. Rookverboden
 ## § 6. Voorschriften ter uitbanning van illegale handel
@@ -12,3 +13,4 @@
 ## Categorie B
 ## Categorie C
 ## Categorie D
+## Categorie E
