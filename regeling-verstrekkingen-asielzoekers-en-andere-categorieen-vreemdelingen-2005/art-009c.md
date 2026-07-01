@@ -1,0 +1,3 @@
+# Artikel 9c
+1. Het COA verstrekt aan een vreemdeling waarvoor een gemeente tijdelijk onderdak beschikbaar stelt gedurende een periode van maximaal zes maanden een wekelijkse financiële toelage van € 75,–.
+2. Indien het tijdelijk onderdak ter beschikking is gesteld aan een gezin, verstrekt het COA gedurende een periode van maximaal zes maanden aan het eerste gezinslid een wekelijkse financiële toelage van € 75,–, aan een tweede gezinslid een wekelijkse financiële toelage van € 25,– en aan een derde en vierde gezinslid een wekelijkse financiële toelage van € 12,50. De wekelijkse financiële toelage per gezin bedraagt in totaal niet meer dan € 125,–.
