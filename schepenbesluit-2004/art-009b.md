@@ -1,0 +1,2 @@
+# Artikel 9b. Certificaat voor schepen die industrieel personeel vervoeren
+Voor een schip dat meer dan twaalf industriële personeelsleden vervoert en waarvoor een internationaal veiligheidscertificaat als bedoeld in artikel 5, eerste lid, onderdeel b, of een veiligheidscertificaat en een exploitatievergunning als bedoeld in artikel 7, eerste lid, benodigd is, is tevens een certificaat voor het vervoer van industrieel personeel als bedoeld in voorschrift I/3.1 van de IP-Code benodigd.

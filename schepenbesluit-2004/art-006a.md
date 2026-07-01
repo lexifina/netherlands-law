@@ -1,0 +1,6 @@
+# Artikel 6a. Veiligheidscertificaten op grond van bijzondere of specifieke kenmerken
+1. Bij regeling van Onze Minister kan worden bepaald dat voor schepen met bijzondere of specifieke eigenschappen of bestemd voor bijzondere of specifieke doeleinden of vaargebieden, een veiligheidscertificaat benodigd is dat wordt afgegeven op grond van een in een internationale of regionale organisatie tot stand gekomen besluit dat betrekking heeft op de bescherming van mensenlevens op zee, of een besluit dat als daarmee gelijkwaardig is aangemeld.
+2. Bij regeling van Onze Minister kan worden bepaald dat voor schepen met bijzondere of specifieke eigenschappen of bestemd voor bijzondere of specifieke doeleinden of vaargebieden, kan worden gekozen voor een veiligheidscertificaat dat wordt afgegeven op grond van een in een internationale of regionale organisatie tot stand gekomen besluit dat betrekking heeft op de bescherming van mensenlevens op zee, of een besluit dat als daarmee gelijkwaardig is aangemeld.
+3. Bij regeling van Onze Minister kan worden bepaald dat een veiligheidscertificaat als bedoeld in het eerste en tweede lid:
+a. in de plaats treedt van het nationaal veiligheidscertificaat of van een certificaat als bedoeld in artikel 5; of
+b. wordt gecombineerd met een nationaal veiligheidscertificaat of een certificaat als bedoeld in artikel 5.
