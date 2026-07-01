@@ -1,0 +1,12 @@
+# Artikel 2c.10. Subsidiabele kosten
+1. In aanvulling op artikel 1.11 komen de volgende kosten voor subsidie in aanmerking:
+a. de kosten voor de aankoop van voedselhulp en materiële basishulp, met inbegrip van de kosten die verband houden met het vervoer van voedselhulp en materiële basishulp naar de subsidieontvanger die deze voedselhulp en materiële basishulp aan de eindontvangers verstrekken;
+b. indien het vervoer van de voedselhulp en de materiële basishulp naar de subsidieontvanger die deze onder de eindontvangers verdeelt, niet onder onderdeel a valt, de door de aankopende instantie gedragen kosten die verband houden met het vervoer van de voedselhulp of materiële basishulp naar de opslagplaatsen en de subsidieontvanger, alsmede de opslagkosten tegen een vast tarief van één procent van de in onderdeel a bedoelde kosten;
+c. de administratieve, vervoers-, opslag- en voorbereidingskosten die door de subsidieontvanger bij de verdeling van voedselhulp en materiële basishulp aan de meest behoeftige personen worden gedragen, tegen een vast tarief van zeven procent van de in onderdeel a bedoelde kosten, of zeven procent van de waarde van het overeenkomstig artikel 16 van Verordening (EU) nr. 1308/2013 afgezette voedsel;
+d. de kosten voor de inzameling, het vervoer, de opslag en de verdeling van voedseldonaties en daarmee rechtstreeks verband houdende voorlichtingsactiviteiten;
+e. de kosten van begeleidende maatregelen door of namens de subsidieontvanger die zijn gemeld door de subsidieontvanger die de voedselhulp of de materiële basishulp aan de meest behoeftige personen verstrekt, tegen een vast tarief van zeven procent van de in onderdeel a bedoelde kosten; en
+f. in afwijking van artikel 1.12, onderdeel d, de in rekening gebrachte BTW.
+2. Een verlaging van de in het eerste lid, onderdeel a, bedoelde subsidiabele kosten als gevolg van inbreuken op het toepasselijke recht door de instantie die verantwoordelijk is voor de aankoop van voedselhulp of materiële basishulp, leidt niet tot een verlaging van de in het eerste lid, onderdelen c en e, bedoelde subsidiabele kosten.
+3. In geval van externe opdrachtverlening bij de kosten, bedoeld in het eerste lid, onderdelen a en d, zijn die kosten marktconform, hetgeen wordt beoordeeld aan de hand van:
+a. een transparante, objectieve en niet-discriminatoire aanbestedingsprocedure; of
+b. een offerteprocedure waarbij ten minste drie offertes zijn aangevraagd en beoordeeld door de subsidieontvanger indien de opdrachtwaarde meer dan € 50.000 bedraagt.

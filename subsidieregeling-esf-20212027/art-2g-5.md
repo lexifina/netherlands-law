@@ -1,0 +1,7 @@
+# Artikel 2g.5. Subsidieaanvraag
+1. Onverminderd artikel 1.6 vermeldt de aanvrager in het projectplan:
+a. een probleemanalyse met interventielogica waarin inzicht wordt gegeven in de aard van de problematiek op het gebied van een tekort of gebrek aan kennis en handelingsperspectief onder arbeidsorganisaties met betrekking tot gelijke kansen, diversiteits- en inclusiebeleid en een omschrijving van de wijze waarop het project hiervoor een oplossing kan bieden;
+b. een activiteitenplan waarin wordt uiteengezet op welke wijze het doel, bedoeld in artikel 2g.3, wordt bereikt met de ontwikkeling, de implementatie, de evaluatie, het opschalen of het verspreiden van succesvolle aanpakken;
+c. een planning van de werkzaamheden van het project en een financieringsplan met een begroting van de kosten van het project, met inachtneming van voorschotbehoefte en een liquiditeitsbegroting waaruit blijkt dat de aanvrager gedurende de gehele projectperiode beschikt over voldoende liquide middelen om het project conform planning uit te voeren; en
+d. een beschrijving van de administratieve organisatie en interne beheersing, waarbij de aanvrager in een daarvoor digitaal beschikbaar gesteld format vermeldt op welke wijze de projectorganisatie is vormgegeven, de administratie is ingericht en welke maatregelen de aanvrager neemt om ervoor te zorgen dat aan de verantwoordingsvereisten wordt voldaan.
+2. De subsidieaanvraag heeft in ieder geval betrekking op de activiteiten, bedoeld in artikel 2g.7, tweede lid.

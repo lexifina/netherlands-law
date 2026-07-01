@@ -1,0 +1,6 @@
+# Artikel 2c.13. Voortgangsrapportage en vereiste einddeclaratie
+1. De subsidieontvanger dient binnen vier weken na afloop van twaalf, vierentwintig, zesendertig en achtenveertig maanden van het project, een voortgangsrapportage in over de voorafgaande twaalf maanden.
+2. De voortgangsrapportage wordt ingediend onder gebruikmaking van een daartoe door de Minister elektronisch beschikbaar gesteld formulier, voorzien van de vereiste bijlagen en een door hem erkende elektronische handtekening.
+3. De voortgang en uitvoering, de doeltreffendheid waaronder het bereik van de doelgroep van het verlenen van voedselhulp, materiële basishulp en begeleidende maatregelen en de wijze van besteding van de middelen, evalueert de Minister uiterlijk 31 maart 2025.
+4. Ingeval van onvoldoende resultaat op een of meer van de onderdelen, genoemd in het derde lid, kan de Minister besluiten de subsidieverlening tussentijds te beëindigen, onder vaststelling van de tot het moment van beëindiging verschuldigde subsidie.
+5. In afwijking van de artikelen 1.13, vijfde lid, 1.15, eerste lid, en 1.16, eerste lid, dient de subsidieontvanger geen deelnemersadministratie in, tenzij uit een risicobeoordeling voor wat betreft de einddeclaratie blijkt dat er een specifiek risico op onregelmatigheden of fraude bestaat.

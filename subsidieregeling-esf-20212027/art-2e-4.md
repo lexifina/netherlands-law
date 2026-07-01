@@ -1,0 +1,11 @@
+# Artikel 2e.4. Doelgroep
+Een project in het kader van dit hoofdstuk is gericht op personen die tot ten minste één van de volgende categorieën behoren:
+a. niet-uitkeringsgerechtigde werkzoekenden;
+b. personen die in een periode van drie jaar voorafgaand aan de start van hun traject een uitkering, als bedoeld in artikel 5, onderdeel b van de Participatiewet of een IOAW-uitkering, een IOAZ-uitkering, bijstand op grond van het Besluit bijstandverlening zelfstandigen 2004, een uitkering van het UWV hebben ontvangen, of nog steeds ontvangen;
+c. personen met een opleidingsniveau dat niet hoger is dan MBO-4 of een diploma in het voortgezet onderwijs als bedoeld in artikel 1.4 van de Wet op het voortgezet onderwijs 2020;
+d. personen waarvan het basissalaris, exclusief vergoedingen voor overwerk, meerwerk en onregelmatigheidstoeslag, niet meer bedraagt dan 130% van het bedrag, genoemd in artikel 8, eerste en derde lid van de Wet minimumloon en minimumvakantiebijslag;
+e. personen op wie de Wet minimumloon en minimumvakantiebijslag niet van toepassing is, die gemiddeld bruto niet meer dan € 41,50 exclusief BTW per gewerkt uur verdienen in de periode van zes maanden voorafgaand aan de start van hun traject;
+f. hier te lande woonachtige vreemdelingen, die rechtmatig in Nederland verblijf houden in de zin van artikel 8, onderdelen a tot en met e en l, van de Vreemdelingenwet 2000;
+g. Oekraïense ontheemden;
+h. arbeidsbelemmerden, dan wel personen met een uitkering op basis van de Wet werk en inkomen naar arbeidsvermogen, Wet op de arbeidsongeschiktheidsverzekering, Wet arbeidsongeschiktheidsverzekering zelfstandigen, Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, dan wel arbeidsbeperkten als bedoeld in artikel 38b van de Wet financiering sociale verzekeringen of de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, IOAW, IOAZ of Ziektewet dan wel personen met een recht op arbeidsondersteuning op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, dan wel personen in een dienstbetrekking op grond van artikel 10b van de Participatiewet;
+i. personen die zijn geregistreerd in het doelgroepenregister in het kader van de Wet banenafspraak en quotum arbeidsbeperkten.

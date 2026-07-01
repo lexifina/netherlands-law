@@ -1,0 +1,10 @@
+# Artikel 2b.3. Doel en doelgroepen
+1. Een project in het kader van dit hoofdstuk heeft tot doel het bevorderen van toegang tot werk door middel van het vergroten van mogelijkheden tot arbeidsinpassing van personen die op het moment van hun start van deelneming aan een project behoren tot één of meer van de volgende doelgroepen:
+a. niet-uitkeringsgerechtigden;
+b. arbeidsbelemmerden, dan wel personen met een uitkering op basis van de Wet werk en inkomen naar arbeidsvermogen, Wet op de arbeidsongeschiktheidsverzekering, Wet arbeidsongeschiktheidsverzekering zelfstandigen, Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, dan wel arbeidsbeperkten als bedoeld in artikel 38b van de Wet financiering sociale verzekeringen of de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, IOAW, IOAZ of Ziektewet dan wel personen met een recht op arbeidsondersteuning op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, dan wel personen in een dienstbetrekking op grond van artikel 10b van de Participatiewet;
+c. jongeren;
+d. personen die algemene bijstand op grond van de Participatiewet, een IOAW-uitkering, een IOAZ-uitkering, bijstand op grond van het Besluit bijstandverlening zelfstandigen 2004 of een uitkering van het UWV ontvangen;
+e. hier te lande woonachtige vreemdelingen die rechtmatig in Nederland verblijf houden in de zin van artikel 8, onderdelen a tot en met e en l, van de Vreemdelingenwet 2000;
+f. Oekraïense ontheemden;
+g. natuurlijke personen, niet zijnde personen als bedoeld in de onderdelen a tot en met f, die krachtens arbeidsovereenkomst naar burgerlijk recht of publiekrechtelijke aanstelling arbeid verrichten.
+2. Indien sprake is van een persoon die deelneemt aan twee opeenvolgende projecten in het kader van dit hoofdstuk, hoofdstuk 1 van bijlage 1 of hoofdstuk 1 van bijlage 1a van de Subsidieregeling ESF 2014-2020 en deze persoon bij instroom in het eerste project aantoonbaar tot de doelgroep behoort, dan behoort deze persoon ook het opvolgende project tot de doelgroep mits voor deze deelnemer sprake is van een individueel traject dat onafgebroken doorloopt in beide projecten.

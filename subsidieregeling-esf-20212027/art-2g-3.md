@@ -1,0 +1,3 @@
+# Artikel 2g.3. Doel
+1. Een subsidie op grond van dit hoofdstuk heeft tot doel het beschikbaar stellen van middelen voor sociale innovatie ten behoeve van het bereiken en activeren van arbeidsorganisaties om hun beleid op het gebied van gelijke kansen, diversiteit en inclusie te bevorderen en om regionale kennisdeling omtrent deze thema's te faciliteren.
+2. De sociale innovatie, bedoeld in het eerste lid, ziet op het onderzoeken, verder ontwikkelen, toepassen of het delen van uitvoerbare, overdraagbare en gevalideerde praktijk- en wetenschappelijke kennis, waarbij zoveel mogelijk wordt aangesloten bij de behoeften en bestaande activiteiten van arbeidsorganisaties.

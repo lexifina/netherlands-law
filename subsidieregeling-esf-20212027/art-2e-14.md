@@ -1,0 +1,12 @@
+# Artikel 2e.14. Subsidiabele kosten
+1. In aanvulling op de subsidiabele kosten, genoemd in artikel 1.11, zijn de volgende kosten subsidiabel:
+a. externe kosten van de door de begeleider werkelijk gerealiseerde uren, aantoonbaar besteed aan het intakegesprek en de begeleiding gedurende het traject. Het maximaal subsidiabele uurtarief van de begeleider is € 98,38 voor kosten gemaakt voor 1 januari 2025 en € 111,57 voor kosten gemaakt vanaf deze datum, tenzij de subsidieaanvrager die een hoger uurtarief hanteert de marktconformiteit van dat tarief aantoont op de wijze als omschreven in het tweede lid;
+b. externe kosten met betrekking tot scholing basisvaardigheden en scholing beroepsvaardigheden en opleidingen. Het subsidiabele tarief per deelnemer per gegeven lesuur bedraagt maximaal € 34,73 voor kosten gemaakt voor 1 januari 2025 en € 41,32 voor kosten gemaakt vanaf deze datum, tenzij de subsidieaanvrager de marktconformiteit van het door hem gehanteerde tarief aantoont op de wijze als omschreven in het tweede lid;
+c. de externe kosten van de door een EVC-aanbieder uitgevoerde EVC-procedure. Het maximaal subsidiabele tarief van de EVC-aanbieder bedraagt € 1.250,–, tenzij de subsidieaanvrager die een hoger tarief hanteert de marktconformiteit van het door hem gehanteerde tarief aantoont op de wijze als omschreven in het tweede lid;
+d. de loonkosten, bedoeld in artikel 2E.15;
+e. kosten met betrekking tot loonverlet, zijnde het aantal door de werkgever betaalde uren dat een deelnemer deelneemt aan gegeven scholing basisvaardigheden, scholing beroepsvaardigheden, met uitzondering van de uren voor voorbereiding, reizen en zelfstudie, waarbij de deelnemer niet productief kan zijn in de reguliere werkzaamheden, tegen een vast bedrag per uur ter hoogte van het wettelijke minimumloon vermeerderd met een opslag van 37,5% voor werkgeverslasten;
+f. indirecte kosten, op basis van een toeslag van 7% op de subsidiabele kosten, bedoeld in het eerste lid, onderdelen a tot en met e.
+2. De marktconformiteit van tarieven die meer bedragen dan de tarieven als bedoeld in het eerst lid, onderdelen a, b en c, is aangetoond wanneer:
+a. een offerteprocedure is uitgevoerd waarbij ten minste drie offertes zijn aangevraagd en beoordeeld; of
+b. een transparante, objectieve en niet-discriminatoire aanbestedingsprocedure heeft plaatsgevonden.
+3. Artikel 1.11, tweede en derde lid, zijn van overeenkomstige toepassing op het eerste lid, onderdeel a tot en met c van dit artikel.
