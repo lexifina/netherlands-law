@@ -1,0 +1,4 @@
+# Artikel 29b
+1. Indien de premie geheel of gedeeltelijk niet binnen de voorgeschreven tijd is afgedragen kan de te weinig afgedragen premie door middel van een aanslag, op te leggen ten name van de werkgever, worden ingevorderd met overeenkomstige toepassing van hoofdstuk VIII, titel 5, van de Belastingwet BES. De werkgever is gerechtigd het nageheven bedrag te verhalen op zijn werknemer voor zover het bedrag betrekking heeft op van de werknemer ten onrechte niet ingehouden premie.
+2. Zo nodig in afwijking van het bepaalde in het eerste lid kan de in de aanslag inbegrepen premie bij wijze van boete worden verhoogd met ten hoogste honderd procent, maar tenminste met USD 14. De werkgever is niet gerechtigd deze boete op zijn werknemers te verhalen.
+3. Indien aan de verplichting opgelegd in artikel 29a, vijfde lid, niet wordt voldaan en ten gevolge daarvan de aanslag in zijn geheel moet worden verminderd, bedraagt de boete USD 14.

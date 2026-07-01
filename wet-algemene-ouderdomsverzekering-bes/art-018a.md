@@ -1,0 +1,4 @@
+# Artikel 18a
+1. Onze Minister is bevoegd om op grond van verdragen, convenanten en andersoortige overeenkomsten met uitvoerders van instellingen van sociale voorzieningen, het ouderdomspensioen van een pensioengerechtigde te verminderen ter ontneming van een ten onrechte verkregen voordeel van de pensioengerechtigde op het gebied van sociale voorzieningen.
+2. Onze Minister is eveneens bevoegd om het ouderdomspensioen van een pensioengerechtigde te verminderen ter ontneming van een ten onrechte verkregen voordeel van de pensioengerechtigde op het gebied van de door Onze Minister uitgevoerde sociale verzekeringswetten.
+3. De in het eerste en tweede lid bedoelde vermindering kan ineens geschieden indien het ten onrechte genoten voordeel niet groter is dan een derde deel van het door Onze Minister verstrekte ouderdomspensioen. In alle andere gevallen kan de vermindering niet meer bedragen dan een derde deel van het ouderdomspensioen.
