@@ -1,0 +1,6 @@
+# Artikel 29a
+1. Onze Minister van Financiën is de verwerkingsverantwoordelijke, bedoeld in artikel 4, zevende lid, van Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) (PbEU 2016, L 119).
+2. De inspecteur kan naast technische hulpmiddelen van de verwerkingsverantwoordelijke technische hulpmiddelen van andere instanties gebruiken of medegebruiken.
+3. De verwerkingsverantwoordelijke stelt jaarlijks voor 1 januari een cameraplan vast.
+4. Het cameraplan bevat ten minste een opgave van het aantal en de locaties van de vaste technische hulpmiddelen die zijn geplaatst of worden ingezet of die zullen worden geplaatst of zullen worden ingezet in het daaropvolgende jaar. Het cameraplan bevat voorts een opgave van het aantal mobiele technische hulpmiddelen dat kan worden ingezet en de soort locaties waar deze technische hulpmiddelen kunnen worden ingezet. Het cameraplan bevat tevens een motivering van de plaatsing, locaties en inzet van de technische hulpmiddelen waarin de noodzaak van de plaatsing, locaties en inzet wordt onderbouwd.
+5. Het cameraplan wordt in de Staatscourant gepubliceerd.
