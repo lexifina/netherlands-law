@@ -1,0 +1,4 @@
+# Artikel 4b
+De verlener van de universele postdienst zorgt ervoor dat het net van dienstverleningspunten voor het aanbieden van postzendingen en voor het verrichten van andere met het postvervoer samenhangende handelingen voldoet aan de volgende spreidingsmaatstaven:
+a. de spreiding over Nederland van dienstverleningspunten met een volledig assortiment van diensten resulteert in een beschikbaarheid van een volledig assortiment van diensten binnen een straal van vijf kilometer voor ten minste 95% van de inwoners;
+b. de spreiding van dienstverleningspunten met een volledig assortiment van diensten buiten woonkernen met meer dan 5.000 inwoners resulteert in een beschikbaarheid van een volledig assortiment van diensten binnen een straal van vijf kilometer voor ten minste 85% van de betrokken inwoners.
