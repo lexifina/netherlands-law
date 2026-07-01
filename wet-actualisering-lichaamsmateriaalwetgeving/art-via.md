@@ -1,0 +1,2 @@
+# Artikel VIa. Evaluatie
+Onze Minister zendt binnen twee jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de gevolgen van de uitzondering op het winstuitkeringsverbod voor lichaamsmateriaal dat wordt verkregen als grondstof voor een geneesmiddel of een medisch hulpmiddel, bedoeld in artikel 9, zesde lid, aanhef en onder c, in het bijzonder de gevolgen voor de donorveiligheid en donatiebereidheid, en vervolgens telkens na vijf jaar of zoveel eerder als noodzakelijk blijkt.
