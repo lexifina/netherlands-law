@@ -8,6 +8,6 @@ b. 22, onderdeel c, indien de belanghebbende jonger dan de pensioengerechtigde l
 c. 22, onderdeel b, indien de belanghebbende de pensioengerechtigde leeftijd heeft bereikt.
 2. De norm voor gehuwden, op wie het eerste lid van toepassing is, is gelijk aan de som van de normen, bedoeld in dat lid, die voor ieder van de rechthebbende echtgenoten afzonderlijk van toepassing is.
 3. Voor rechthebbende gehuwden, waarvan een echtgenoot 18, 19 of 20 jaar is en de andere echtgenoot 21 jaar of ouder is, met een of meer kostendelende medebewoners, is de norm per kalendermaand:
-a. indien ze een of meer ten laste komende kinderen hebben: € 746,42 plus de op basis van dit artikel van toepassing zijnde norm voor de echtgenoot van 21 jaar of ouder,
-b. indien ze geen ten laste komende kinderen hebben: € 345,99 plus de op basis van dit artikel van toepassing zijnde norm voor de echtgenoot van 21 jaar of ouder.
+a. indien ze een of meer ten laste komende kinderen hebben: € 755,98 plus de op basis van dit artikel van toepassing zijnde norm voor de echtgenoot van 21 jaar of ouder,
+b. indien ze geen ten laste komende kinderen hebben: € 350,42 plus de op basis van dit artikel van toepassing zijnde norm voor de echtgenoot van 21 jaar of ouder.
 4. Dit artikel is niet van toepassing op de belanghebbende die voor het leveren van mantelzorg bij een intensieve zorgbehoefte tijdelijk gebruikmaakt van een hoofdverblijf elders.
