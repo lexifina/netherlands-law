@@ -19,12 +19,6 @@
 ### Afdeling 8. Tarief buitenlands motorrijtuig
 ### Afdeling 9. Overige bepalingen
 ## Hoofdstuk V. Naheffing
-## Hoofdstuk VI. Teruggaaf bedrijfsvoertuigenpark
-### Afdeling 1. Recht op teruggaaf
-### Afdeling 2. Vergunning bedrijfsvoertuigenpark
-### Afdeling 3. Bedrag van de teruggaaf
-### Afdeling 4. Boetebepaling
-### Afdeling 5. Aanvullende bepalingen
 ## Hoofdstuk VII. Motorrijtuigen in een bedrijfsvoorraad of bij een herstelbedrijf
 ### Afdeling 1. Belastingplichtige
 ### Afdeling 2. Wijze van heffing
