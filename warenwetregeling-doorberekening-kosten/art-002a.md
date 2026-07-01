@@ -1,0 +1,3 @@
+# Artikel 2a
+1. De minister berekent aan de aanbieder de kosten door voor een op grond van artikel 49, eerste lid, van verordening (EU) 2017/625 of een op artikel 51, eerste lid, van verordening (EU) 2017/625 gebaseerde gedelegeerde handeling van de Europese Commissie voorgeschreven controle van elk document dat een eerder gecontroleerd document vervangt dat niet voldoet aan de voorschriften, bedoeld in artikel 2, tweede lid, van uitvoeringsverordening (EU) 2019/2130, en waarvan correctie alleen mogelijk is door indiening van een vervangend document.
+2. De kosten, bedoeld in het eerste lid, bedragen € 136,39.
