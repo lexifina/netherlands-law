@@ -1,0 +1,2 @@
+# Artikel 62a
+In afwijking van artikel 95, eerste lid, van de wet mogen tabaksproducten worden verkocht, te koop worden aangeboden of worden afgeleverd in onderscheidenlijk aan militaire winkels, kantines, restaurants, clubs of messes als bedoeld in artikel 42g van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994 zonder dat op die producten of kleinhandelsverpakking een accijnszegel is aangebracht.
