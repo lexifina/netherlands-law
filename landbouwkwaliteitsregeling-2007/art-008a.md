@@ -1,0 +1,3 @@
+# Artikel 8a
+1. Voor het reinigen en ontsmetten van gebouwen en installaties voor de plantaardige productie, inclusief opslag in een landbouwbedrijf, en van verwerkings- en opslagfaciliteiten mag overeenkomstig artikel 5, vierde lid, van verordening (EU) 2021/1165, slechts gebruik worden gemaakt van de in bijlage III genoemde producten onder de daarbij genoemde beperkingen.
+2. Om gebouwen en andere installaties voor de plantaardige productie te ontdoen van insecten en andere parasieten, mag gebruik worden gemaakt van rodenticiden en de in bijlage I van verordening (EU) 2021/1165 opgenomen producten. Rodenticiden worden uitsluitend gebruikt in vallen.
