@@ -1,0 +1,6 @@
+# Artikel 41b. Vaart rond de eilanden van Caribisch-Nederland
+1. Caribisch-Nederlandse schepen die niet buiten de gebiedsbegrenzingen, bedoeld in het tweede lid, worden gebracht zijn vrijgesteld van de bepalingen van de hoofdstukken 3 tot en met 5 van het besluit en artikelen 5c, 5d, tweede lid, en 5e, eerste lid, en hoofdstuk 3 van deze regeling, mits voldaan wordt aan de eisen, bedoeld in bijlage 6.
+2. De gebiedsbegrenzingen, bedoeld in het eerste lid zijn:
+a. voor Bonaire: het gebied, begrensd door de lijnen gaande van de meest oostelijke punt van Bonaire (68-12'W) in de richting zuid tot de parallel van 12-00' noorderbreedte, vandaar in de richting west tot de meridiaan van 68-17' westerlengte, vandaar in de richting 327 naar een punt op 12-15' noorderbreedte en 68-27' westerlengte, vandaar in de richting 022 naar een punt op 12-20' noorderbreedte en 68-25' westerlengte en vandaar in de richting van de vuurtoren Seroe Ventana.
+b. voor Sint Eustatius: het gebied, begrensd door de parallellen 17-27' en 17-33' noorderbreedte en de meridianen van 62-55' en 63-02' westerlengte;
+c. voor Saba: het gebied, begrensd door de parallellen van 17-35' en 17-41' noorderbreedte en de meridiaan van 63-11' en 63-17' westerlengte.

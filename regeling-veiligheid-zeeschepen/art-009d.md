@@ -1,0 +1,2 @@
+# Artikel 9d. Onderzoeken van offshoredienstschepen van minder dan 500 GT en met een lengte van 24 meter of meer
+Een offshoredienstschip waarvoor een bijzonder certificaat als bedoeld in artikel 6c benodigd is, wordt ter verkrijging van de voor dat schip benodigde certificaten en gedurende de geldigheidsduur daarvan onderworpen aan de in artikel 12, eerste lid, onderdelen b of c, en tweede lid, voorgeschreven onderzoeken.

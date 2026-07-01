@@ -1,0 +1,3 @@
+# Artikel 5d. Certificaten voor passagiersschepen op grond van SCV-Code (IMO)
+1. Voor een passagiersschip waarmee internationale reizen worden ondernomen en ten aanzien waarvan op grond van artikel 12c voor toepassing van de SCV-Code is gekozen, is tezamen met een veiligheidscertificaat voor passagiersschepen een afschrift van de kennisgeving aan de IMO met betrekking tot de gelijkwaardigheid van de SCV-Code (notification of equivalency) benodigd.
+2. Voor een passagiersschip waarmee nationale reizen worden ondernomen, is, indien ten aanzien van dat schip op grond van artikel 12c voor toepassing van de SCV-Code is gekozen, het SCV veiligheidscertificaat, behorend bij de SCV-Code, benodigd.

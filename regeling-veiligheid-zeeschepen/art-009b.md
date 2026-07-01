@@ -1,0 +1,2 @@
+# Artikel 9b. Onderzoeken van offshore bevoorradings- en ondersteuningsschepen (IMO)
+Een offshore bevoorradingsschip als bedoeld in resolutie MSC.235(82), onderscheidenlijk een offshore ondersteuningsschip als bedoeld in resolutie A.1122(30) wordt ter verkrijging van de voor die schepen benodigde certificaten en gedurende de geldigheidsduur daarvan onderworpen aan onderzoeken ter vaststelling dat is voldaan aan de in de resoluties opgenomen richtlijnen.

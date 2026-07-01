@@ -1,0 +1,2 @@
+# Artikel 48c. Voorschriften betreffende de uitwatering
+De kapitein van een schip met een lengte van 24 meter of meer, waarvoor een nationaal veiligheidscertificaat benodigd is en waarmee nationale reizen worden ondernomen, draagt er met inachtneming van hetgeen dienaangaande in het Uitwateringsverdrag is bepaald, zorg voor dat het schip voorafgaande aan en gedurende een reis geen geringer vrijboord heeft dan voor dat schip op die reis is toegestaan.

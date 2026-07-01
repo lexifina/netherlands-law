@@ -1,0 +1,2 @@
+# Artikel 9g. Onderzoeken van passagiersschepen met een lengte van minder dan 24 meter op nationale reizen
+Een passagiersschip met een lengte van minder dan 24 meter, uitsluitend bestemd en gebruikt voor nationale reizen als bedoeld in artikel 3a, onderdeel i, wordt ter verkrijging van het nationaal veiligheidscertificaat en gedurende de geldigheidsduur van dat certificaat onderworpen aan de in artikel 12 van richtlijn 2009/45/EG voorgeschreven onderzoeken.

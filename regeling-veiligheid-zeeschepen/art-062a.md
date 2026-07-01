@@ -1,0 +1,3 @@
+# Artikel 62a. Overgangsrecht voor Caribisch-Nederlandse schepen
+1. In afwijking van artikel 3a worden op een Caribisch-Nederlands schip waarvoor op grond van hoofdstuk 6a een certificaat van deugdelijkheid is afgegeven, de bepalingen van hoofdstuk 6a, zoals dat luidde tot 1 juli 2014, toegepast tot de geldigheidsduur van het certificaat op grond van artikel 59e afloopt.
+2. Een Caribisch-Nederlands schip dat niet buiten de in artikel 41b, tweede lid, bedoelde gebiedsbegrenzingen wordt gebracht, is tot 1 september 2016 vrijgesteld van de in artikel 3a bedoelde verplichting alsmede de in bijlage 6 opgenomen eisen.

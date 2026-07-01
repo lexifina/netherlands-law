@@ -1,0 +1,2 @@
+# Artikel 21b. Eisen voor hogesnelheidsoffshoredienstschepen van minder dan 500 GT en met een lengte van 24 meter of meer met ten hoogste 60 personen aan boord
+Een hogesnelheidsoffshoredienstschip van minder dan 500 GT en met een lengte van 24 meter of meer met ten hoogste 60 personen aan boord, voldoet aan de eisen van de HSC-Code 2000 of de HSC-Code 1994 en aan de eisen bedoeld in paragraaf 3 van bijlage 3c.

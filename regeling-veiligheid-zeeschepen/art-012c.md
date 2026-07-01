@@ -1,0 +1,5 @@
+# Artikel 12c. Onderzoeken van passagiersschepen op grond van SCV-Code (IMO)
+1. De eigenaar van een passagiersschip met een lengte over alles van 5 meter of meer en een lengte van minder dan 24 meter, waarmee uitsluitend reizen in de Caribische handelszone worden ondernomen, kan er voor kiezen om dat schip te laten onderzoeken en certificeren met inachtneming van de voorschriften van de SCV-Code.
+2. Het eerste lid is niet van toepassing op schepen, gebruikt voor het vervoer van meer dan 150 passagiers, en schepen met nachtaccommodatie voor meer dan 50 passagiers.
+3. Het eerste lid is niet van toepassing op schepen die meer dan twintig mijl vanaf de dichtstbijzijnde haven of veilig toevluchtsoord als bedoeld in de SCV-Code varen.
+4. Indien ten aanzien van een passagiersschip is gekozen voor toepassing van de SCV-Code, treden de in die Code voorgeschreven onderzoeken in de plaats van de in artikel 14, eerste lid, van het besluit of 9, eerste lid, bedoelde onderzoeken bedoelde onderzoeken.

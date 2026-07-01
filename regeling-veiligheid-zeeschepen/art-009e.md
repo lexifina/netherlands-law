@@ -1,0 +1,2 @@
+# Artikel 9e. onderzoeken van hogesnelheidsoffshoredienstschepen van minder dan 500 gt en met een lengte van 24 meter of meer met ten hoogste 60 personen aan boord
+Een hogesnelheidsoffshoredienstschip waarvoor een bijzonder certificaat als bedoeld in artikel 6d benodigd is, wordt ter verkrijging van de voor dat schip benodigde certificaten en gedurende de geldigheidsduur daarvan onderworpen aan de in artikel 16 van het besluit voorgeschreven onderzoeken.

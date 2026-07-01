@@ -1,0 +1,4 @@
+# Artikel 12b. Onderzoeken op grond van CCSS-Code (CMOU)
+1. De eigenaar van een vrachtschip, van minder dan 500 GT en met een lengte van 24 meter of meer, waarmee uitsluitend reizen worden ondernomen in de Caribische handelszone, kan er voor kiezen om dat schip te laten onderzoeken en certificeren met inachtneming van de voorschriften van de CCSS-Code.
+2. De eigenaar van een olietanker of een tanker als bedoeld in voorschrift 1.1 van de CCSS-Code met een lengte van minder dan 24 meter waarmee uitsluitend reizen worden ondernomen binnen de Caribische handelszone, kan er voor kiezen om dat schip te laten onderzoeken en certificeren met inachtneming van de voorschriften van de CCSS-Code.
+3. Indien ten aanzien van een vrachtschip is gekozen voor toepassing van de CCSS-Code, treden de in die Code voorgeschreven onderzoeken in de plaats van de artikel 9, eerste lid, voorgeschreven onderzoeken.
