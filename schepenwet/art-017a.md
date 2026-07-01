@@ -1,0 +1,6 @@
+# Artikel 17a
+1. De kapitein van een aangehouden schip is verplicht zijn schip na de aanhouding ligplaats te doen nemen op de door een ambtenaar van de Scheepvaartinspectie in overeenstemming met de havenbeheerder aan te wijzen plaats.
+2. Zolang de aanhouding voortduurt, is het de kapitein verboden het schip te doen verplaatsen zonder voorafgaande toestemming van een ambtenaar van de Scheepvaartinspectie.
+3. In verband met de veiligheid van een aangehouden schip of de haven kan een ambtenaar van de Scheepvaartinspectie op verzoek van de havenbeheerder toestemming verlenen om een aangehouden schip tijdelijk naar een locatie buiten de haven te verplaatsen, onder voorwaarde dat de kapitein van het aangehouden schip radiocontact behoudt met de havenbeheerder.
+4. Zonder deze toestemming weigeren alle betrokken ambtenaren hun medewerking bij het verplaatsen en het in- of uitklaren van het schip.
+5. Indien een schip in een buitenlandse haven door een bevoegde autoriteit is aangehouden ingevolge de bepalingen van het SOLAS-verdrag of een ander bij of krachtens algemene maatregel van bestuur aangewezen verdrag of besluit van volkenrechtelijke organisatie ter uitvoering waarvan krachtens deze wet regels worden gesteld, is het de kapitein verboden met dat schip de haven te verlaten.

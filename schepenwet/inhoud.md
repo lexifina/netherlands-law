@@ -10,7 +10,7 @@
 ### § 2. De veiligheidscommissie aan boord van schepen
 ## Hoofdstuk IV. Onderzoek van scheepsrampen
 ### § 1. Het onderzoek
-### § 2. Ongeschiktheid van kapiteins, stuurlieden, machinisten, radiotelegrafisten of radiotelefonisten
+### § 2. Ongeschiktheid van kapiteins of officieren
 ### § 3. Algemeene bepalingen
 ## Hoofdstuk V. Maatregelen van tucht
 ## Hoofdstuk VI. Verplichtingen en strafbepalingen
