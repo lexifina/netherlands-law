@@ -1,0 +1,2 @@
+# Artikel 8a
+Het orgaancentrum stelt een protocol inzake kwaliteit en veiligheid op voor alle stadia van de keten van donatie tot transplantatie of verwijdering. Tevens verstrekt het orgaancentrum passende richtsnoeren aan verkrijgingsorganisaties die organen verkrijgen, transplantatiecentra, personeel in de gezondheidszorg en andere betrokken partijen in de keten van donatie tot transplantatie. Het protocol inzake kwaliteit en veiligheid is in overeenstemming met de regels die de EU-richtlijn orgaantransplantatie met betrekking tot dit protocol stelt.
