@@ -1,0 +1,2 @@
+# Artikel 9a
+Geslachtscellen of embryo's die ten behoeve van eigen geneeskundig gebruik beschikbaar zijn of die ingevolge deze wet ter beschikking zijn gesteld, maar niet meer zullen worden gebruikt voor eigen geneeskundig gebruik of het doel dan wel de doelen waarvoor ze ter beschikking zijn gesteld, mogen worden gebruikt ten behoeve van kwaliteitsbewaking die direct verband houdt met de diagnostische processen of behandelprocessen in de fertiliteitszorg, voorafgaande aan de vernietiging, bedoeld in artikel 7.

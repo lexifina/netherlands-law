@@ -1,0 +1,2 @@
+# Artikel 3a
+De commissie, bedoeld in artikel 16 van de Wet medisch-wetenschappelijk onderzoek met mensen, zendt aan de centrale commissie afschrift van elk ingevolge deze wet door haar gegeven oordeel alsmede van het desbetreffende onderzoeksprotocol of de hoofdzaken daarvan. Voorts doet de commissie, bedoeld in artikel 16 van de Wet medisch-wetenschappelijk onderzoek met mensen, bij de centrale commissie melding van de in artikel 22, derde lid, bedoelde mededeling.
