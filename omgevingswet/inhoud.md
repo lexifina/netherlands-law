@@ -217,6 +217,7 @@
 #### § 22.1.3. Overige bepalingen
 ### Afdeling 22.2. Sanering geluid decentrale infrastructuur
 ### Afdeling 22.4. Legalisering projecten natuur
+### Afdeling 22.5. Overgangsrecht toepassing procedurele versnellingen
 ## Hoofdstuk 23. Overige en slotbepalingen
 ### Afdeling 23.1. Implementatie internationaalrechtelijke verplichtingen
 ### Afdeling 23.2. Experimenteerbepaling

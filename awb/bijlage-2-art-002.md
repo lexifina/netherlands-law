@@ -37,6 +37,7 @@ j. artikel 12.7
 k. artikel 12.18
 l. artikel 16.21
 m. artikel 16.72
+n. een besluit dat is aangewezen op grond van artikel 16.87a
 Participatiewet: artikel 76, eerste en tweede lid
 Provinciewet:
 a. artikel 83, tweede lid

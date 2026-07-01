@@ -1,4 +1,3 @@
 # Artikel 41b
-1. Onze Minister kan, op verzoek van de colleges van burgemeester en wethouders van twee of meer aan elkaar grenzende gemeenten in Nederland, goedkeuren dat, in afwijking van artikel 41, de in een of meer van die gemeenten feitelijk werkzame toegelaten instellingen en samenwerkingsvennootschappen in al die gemeenten feitelijk werkzaam mogen zijn. Van het besluit van Onze Minister wordt mededeling gedaan in de Staatscourant.
-2. Onze Minister geeft uitsluitend toepassing aan het eerste lid, indien de colleges, bedoeld in dat lid, in hun verzoek aannemelijk hebben gemaakt dat zij alle gelegen zijn in hetzelfde vanuit het oogpunt van het functioneren van de woningmarkt als een geheel te beschouwen gebied.
-3. Bij of krachtens algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven omtrent de toepassing van het eerste lid.
+1. In afwijking van artikel 41 kan bij of krachtens algemene maatregel van bestuur worden bepaald dat toegelaten instellingen en samenwerkingsvennootschappen feitelijk werkzaam mogen zijn in alle gemeenten van een of meer provincies.
+2. In aanvulling op het eerste lid kan bij of krachtens algemene maatregel van bestuur worden bepaald dat een toegelaten instelling kan verzoeken om een ontheffing om in niet meer dan in alle gemeenten van twee of meer provincies werkzaam mag zijn.

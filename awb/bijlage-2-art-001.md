@@ -40,21 +40,23 @@ Omgevingswet:
 a. artikel 2.8
 b. artikel 2.13a, eerste lid, voor zover het betreft de eerste vaststelling en daarbij toepassing is gegeven aan op grond van artikel 2.24 van de Omgevingswet gestelde regels over vaststelling van geluidproductieplafonds op basis van de historische geluidproductie, vermeerderd met 1,5 dB
 c. artikel 2.21, eerste lid, in samenhang met artikel 2.21a, eerste lid, voor zover de geometrische begrenzing van het beperkingengebied niet is beperkt of uitgebreid op grond van artikel 2.21, eerste lid, ten opzichte van de afstand, bedoeld in artikel 2.21a, tweede lid
-d. artikel 2.36, tweede lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
-e. artikel 2.39
-f. artikel 3.1
-g. de artikelen 3.4, 3.6 tot en met 3.10, 3.14 en 3.15, voor zover het niet betreft een daarin opgenomen beschrijving van een activiteit als gevolg waarvan de activiteit is toegestaan
-h. artikel 4.13a
-i. de artikelen 4.14 tot en met 4.16
-j. artikel 5.16, eerste lid
-k. artikel 5.44, tweede lid, derde zin
-l. artikel 5.44b, eerste lid
-m. een voorkeursbeslissing als bedoeld in artikel 5.47, eerste lid, onder b
-n. artikel 5.48, derde lid
-o. artikel 11.3
-p. artikel 15.8, derde lid
-q. artikel 16.77b, onder c
-r. artikel 22.18, voor zover het niet betreft een onderdeel van een programma dat voor een locatie de maatregelkeuze bevat
+d. artikel 2.32, voor zover het betreft de verlening of weigering van een ontheffing van een regel die is gesteld over een programma als bedoeld in afdeling 3.2
+e. de artikelen 2.33, tweede lid, onder e, en 2.34, tweede lid, onder g en h
+f. artikel 2.36, tweede lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap
+g. artikel 2.39
+h. artikel 3.1
+i. de artikelen 3.4, 3.6 tot en met 3.10, 3.14 en 3.15, voor zover het niet betreft een daarin opgenomen beschrijving van een activiteit als gevolg waarvan de activiteit is toegestaan
+j. artikel 4.13a
+k. de artikelen 4.14 tot en met 4.16
+l. artikel 5.16, eerste lid
+m. artikel 5.44, tweede lid, derde zin
+n. artikel 5.44b, eerste lid
+o. een voorkeursbeslissing als bedoeld in artikel 5.47, eerste lid, onder b
+p. artikel 5.48, derde lid
+q. artikel 11.3
+r. artikel 15.8, derde lid
+s. artikel 16.77b, onder c
+t. artikel 22.18, voor zover het niet betreft een onderdeel van een programma dat voor een locatie de maatregelkeuze bevat
 Participatiewet: de artikelen 52 en 81 en paragraaf 6.5
 Pensioenwet: de artikelen 150m, tweede lid, 150oa, eerste lid, en 150q, tweede lid, voor zover het beroep niet wordt ingesteld door het pensioenfonds
 Politiewet 2012: de artikelen 18, 20, 34, 35, 36, eerste lid, 37, eerste lid, 39, derde en vijfde lid, en 52
