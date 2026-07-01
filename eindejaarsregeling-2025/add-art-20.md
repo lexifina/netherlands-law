@@ -1,0 +1,5 @@
+# Artikel XX
+1. Deze regeling treedt in werking met ingang van 1 januari 2026, met dien verstande dat artikel I, onderdelen B, onder 1, subonderdeel a, C, eerste zin, en D, en artikel VI, onderdeel D, onder 5, eerste zin, 7, eerste zin, 8, eerste zin, en 9, eerste zin, en artikel X terugwerken tot en met 1 januari 2025.
+2. In afwijking van het eerste lid treedt artikel VIII in werking op 1 april 2026.
+3. In afwijking van het eerste lid treedt artikel IX in werking op het tijdstip waarop artikel 30 van de Wet vrachtwagenheffing in werking treedt.
+4. In afwijking van het eerste lid treedt artikel XVIII in werking op het tijdstip waarop het bij koninklijke boodschap van 6 oktober 2023 ingediende voorstel van wet tot wijziging van de Wet allocatie arbeidskrachten door intermediairs en enige andere wetten in verband met de invoering van regels voor het verlenen van toelating voor het ter beschikking stellen van arbeidskrachten (Wet toelating terbeschikkingstelling van arbeidskrachten) (Kamerstukken 36 446) tot wet is of wordt verheven en die wet in werking treedt.
