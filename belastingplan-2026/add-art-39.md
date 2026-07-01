@@ -1,0 +1,2 @@
+# Artikel XXXIX
+Artikel X, onderdeel A vindt geen toepassing op verkrijgingen op grond van huwelijkse voorwaarden die zijn aangegaan voor 16 september 2025, 16:00 uur, alsmede op verkrijgingen op grond van een notarieel samenlevingscontract dat is afgesloten voor 16 september 2025, 16:00 uur. De eerste zin is niet langer van toepassing zodra die huwelijkse voorwaarden, onderscheidenlijk dat notariële samenlevingscontract, op of na dat tijdstip worden, onderscheidenlijk wordt, gewijzigd met betrekking tot het aandeel in de huwelijksgoederengemeenschap of de te verrekenen som.

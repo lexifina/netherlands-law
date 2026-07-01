@@ -1,0 +1,4 @@
+# Artikel XLI
+1. Bij de toepassing van de artikelen 10.1, eerste lid, 10.3, tweede lid, en 10bis.12 van de Wet inkomstenbelasting 2001 en de artikelen 20a, tweede lid, en 22d van de Wet op de loonbelasting 1964 bij het begin van het kalenderjaar 2026 worden de betreffende bedragen niet vermenigvuldigd met de tabelcorrectiefactor, maar met 1,027782.
+2. Bij de toepassing van artikel 10.1, tweede lid, van de Wet inkomstenbelasting 2001 en artikel 20b, tweede lid, van de Wet op de loonbelasting 1964 bij het begin van het kalenderjaar 2026 wordt het betreffende bedrag niet vermenigvuldigd met de uitkomst van de daarin opgenomen formule, maar, in afwijking van het eerste lid, met 1,02083650.
+3. Het eerste lid is niet van toepassing op de bedragen, genoemd in de artikelen 4.17a, achtste lid, onderdeel c, 5.5, 9.4, eerste lid, onderdeel c, en 9.4a, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001.
