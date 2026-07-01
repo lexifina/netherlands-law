@@ -1,0 +1,5 @@
+# Artikel 14a
+1. De verklaringen die op het tijdstip van inwerkingtreding van artikel 3a reeds zijn afgegeven op grond van artikel 3, voor een functie met het oog op toegang tot een locatie die na de inwerkingtreding op grond van artikel 3a, eerste lid, is aangewezen, worden aangemerkt als een verklaring die is afgegeven voor een functie als bedoeld in artikel 3a, tweede lid.
+2. Artikel 3a, derde lid is van overeenkomstige toepassing op verklaringen die op het tijdstip van inwerkingtreding van artikel 3a reeds zijn afgegeven voor vertrouwensfuncties die worden vervuld op een locatie die op grond van artikel 3a, eerste lid, is aangewezen.
+3. Het eerste en tweede lid zijn van overeenkomstige toepassing op vertrouwensfuncties die worden vervuld op een locatie die is aangewezen krachtens artikel 3b.
+4. De werkgever meldt alle personen die op het tijdstip van inwerkingtreding van artikel 10a een vertrouwensfunctie vervullen eenmalig binnen vier weken na inwerkingtreding aan in het register.
