@@ -1,0 +1,4 @@
+# Artikel 9c. Ondersteuning belanghebbenden
+De Dienst Toeslagen kan ondersteuning verlenen bij het verwezenlijken van rechten of het nakomen van verplichtingen die voortvloeien uit de wet, de daarop berustende bepalingen of een inkomensafhankelijke regeling. Deze ondersteuning vindt plaats in het algemeen belang als bedoeld in artikel 25h, vijfde lid, van de Mededingingswet. Onder ondersteuning wordt in ieder geval verstaan:
+a. het ter beschikking stellen van middelen voor het verwezenlijken van rechten en nakomen van verplichtingen, bedoeld in de eerste zin, en
+b. het ondersteunen, onder meer met de middelen, bedoeld in onderdeel a, van partijen die hulp bieden bij het verwezenlijken van rechten en nakomen van verplichtingen, bedoeld in de eerste zin, voor zover die partijen geen vergoeding vragen voor het bieden van die hulp.

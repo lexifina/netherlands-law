@@ -1,0 +1,5 @@
+# Artikel 9a. Termijnverlenging in het kader van de toepassing van Verordening (EG) nr. 987/2009 (PbEU 2009, L 284)
+Indien de Dienst Toeslagen overeenkomstig artikel 6 van Verordening (EG) nr. 987/2009 van het Europees Parlement en de Raad van 16 september 2009 tot vaststelling van de wijze van toepassing van Verordening (EG) nr. 883/2004 betreffende de coördinatie van de socialezekerheidsstelsels (PbEU 2009, L 284) retroactief als bevoegd orgaan is aangemerkt:
+a. wordt de belanghebbende geacht tijdig een aanvraag te hebben gedaan als bedoeld in artikel 15 van de wet;
+b. worden de in artikel 19 van de wet genoemde beslissingstermijnen voor toekenning van de tegemoetkoming verlengd met de tijd gedurende welke een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan;
+c. wordt de in artikel 21, tweede lid, van de wet genoemde termijn en de in artikel 5a, eerste lid, onderdeel a, genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
