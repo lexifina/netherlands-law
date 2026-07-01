@@ -1,0 +1,2 @@
+# Artikel 22bis.5. Overleg n.a.v. mededeling ex artikel 22bis, tweede lid, van de wet
+De derde of de belastingschuldige die voornemens is zijn rechten uit te oefenen, dan wel een andere handeling te verrichten of te laten verrichten in de zin van artikel 22bis, tweede of derde lid, van de wet, kan in overleg treden met de ontvanger teneinde overeenstemming te bereiken over de afhandeling van de mededeling. Hierbij zijn de uitgangspunten als beschreven in de artikelen 22bis.5.1. tot en met 22bis.5.3. van deze leidraad van toepassing.

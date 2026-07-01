@@ -1,0 +1,3 @@
+# 22bis.2.1. Gevolgen niet melden door de belastingschuldige
+Als de belastingschuldige niet heeft voldaan aan de verplichting tot mededeling, bedoeld in artikel 22bis, derde lid, van de wet, is de pandhouder of overige derde gehouden tot betaling van het bedrag zoals bepaald in artikel 22bis, twaalfde lid, van de wet. Deze betalingsverplichting geldt niet voor zover de pandhouder of overige derde aannemelijk maakt dat de waarde van de bodemzaken hem direct, noch indirect ten goede is gekomen.
+De pandhouder of overige derde kan dit onder meer aannemelijk maken aan de hand van zijn eigen administratie.
