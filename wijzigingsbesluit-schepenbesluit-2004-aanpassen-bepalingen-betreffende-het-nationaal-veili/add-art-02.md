@@ -1,0 +1,3 @@
+# Artikel II
+1. Nationale veiligheidscertificaten en certificaten als bedoeld in artikel 12 van het Schepenbesluit 2004 die voorafgaand aan de dag van inwerkingtreding van dit besluit zijn afgegeven op basis van het Schepenbesluit 2004, behouden hun geldigheid gedurende de in het certificaat opgenomen geldigheidsduur.
+2. Op schepen waarvoor voor het tijdstip van inwerkingtreding van dit besluit een nationaal veiligheidscertificaat of een certificaat als bedoeld in artikel 12 van het Schepenbesluit 2004 was afgegeven, blijft het bepaalde in het Schepenbesluit 2004 zoals het luidde voor de dag van inwerkingtreding van dit besluit van toepassing gedurende de geldigheidsduur van dat certificaat.
