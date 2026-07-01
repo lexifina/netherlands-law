@@ -1,0 +1,7 @@
+# Artikel 4bis
+1. Tegenbewijs als bedoeld in de artikelen 23, vijfde lid, en 24, derde lid, van de wet houdt in dat belastingplichtige als bedoeld in artikel 7, eerste lid, onderdeel a, van de wet de Dienst Wegverkeer, bedoeld in artikel 4a van de Wegenverkeerswet 1994, verzoekt tot wijziging of opneming van gegevens inzake de fijnstofuitstoot in het kentekenregister. Artikel 43e van de Wegenverkeerswet 1994 is van toepassing.
+2. Indien de Dienst Wegverkeer naar aanleiding van een verzoek als bedoeld in het eerste lid beslist dat in het kentekenregister een fijnstofuitstoot wordt geregistreerd van niet meer dan 5 milligram per kilometer, onderscheidenlijk 10 milligram per kilowattuur, heeft belastingplichtige recht op teruggaaf van de door hem betaalde fijnstoftoeslag, bedoeld in de artikelen 23, vierde lid, onderscheidenlijk 24, tweede lid, van de wet.
+3. Op verzoek van belastingplichtige verleent de inspecteur aan de belastingplichtige teruggaaf als bedoeld in het tweede lid.
+4. Bij het verzoek om teruggaaf overlegt de belastingplichtige een afschrift van zijn verzoek als bedoeld in het eerste lid en een afschrift van het bericht van de Dienst Wegverkeer, bedoeld in artikel 43e, tweede lid, van de Wegenverkeerswet 1994.
+5. Het recht op teruggaaf vervalt na vijf jaren na afloop van het belastingtijdvak waarin dat recht is ontstaan.
+6. De inspecteur neemt de beslissing op het verzoek, bedoeld in het derde lid, bij voor bezwaar vatbare beschikking.
