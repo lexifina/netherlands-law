@@ -1,0 +1,2 @@
+# Artikel 30b
+De artikelen 29 tot en met 30a zijn niet van toepassing op Belgische en Duitse motorvoertuigen in gebruik bij politie en brandweer, in gebruik bij diensten voor spoedeisende hulpverlening alsmede motorvoertuigen van Belgische en Duitse hulpverleningsdiensten, aangewezen bij of krachtens artikel 29, eerste lid, mits deze voertuigen elk de signalen voeren overeenkomstig de voor hen in hun eigen land geldende wettelijke regels.

@@ -1,0 +1,8 @@
+# Artikel 61b
+1. Het is verboden personen te vervoeren in de open of gesloten laadruimte van een motorvoertuig of bromfiets en in of op een aanhangwagen achter een motorvoertuig of bromfiets.
+2. Het eerste lid is niet van toepassing:
+a. op het vervoer van personen in de laadruimte van een ambulance of dierenambulance en op het vervoer van rolstoelinzittenden op de daarvoor ingerichte plaatsen in de laadruimte van een voertuig dat blijkens een aantekening op het kentekenbewijs speciaal is uitgerust voor rolstoelvervoer.
+b. op het vervoer van personen in de laadruimte van motorvoertuigen ten dienste van politie en brandweer en van andere door Onze Minister aangewezen hulpverleningsdiensten;
+c. op het vervoer van een persoon op de bestuurderszitplaats in een motorvoertuig of op een bromfiets op meer dan twee wielen die door een ander motorvoertuig of een andere bromfiets op meer dan twee wielen wordt voortgetrokken en op het vervoer van passagiers van het getrokken voertuig als hier bedoeld, voor wie geen zitplaats in het trekkende voertuig als hier bedoeld beschikbaar is;
+d. in het geval het vervoer van personen geschiedt in het kader van een evenement of optocht waarvoor een vergunning op grond van een gemeentelijke verordening is afgegeven;
+e. op het vervoer van personen met een motorrijtuig met een door de constructie bepaalde maximumsnelheid van niet meer dan 45 km per uur, met niet meer dan acht zitplaatsen, de bestuurderszitplaats niet meegerekend, niet zijnde een bromfiets, dat een combinatie vormt met één of meer aanhangwagens die zijn ingericht voor het vervoer van personen indien voor dit vervoer een vergunning door het bevoegd gezag is afgegeven.

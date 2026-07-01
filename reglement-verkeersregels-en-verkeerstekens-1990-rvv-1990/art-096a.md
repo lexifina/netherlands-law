@@ -1,0 +1,2 @@
+# Artikel 96a
+Verkeersborden die zijn geplaatst voor de inwerkingtreding van Besluit van 20 oktober 2022 tot wijziging van het Reglement verkeersregels en verkeerstekens 1990 en het Besluit administratieve bepalingen inzake het wegverkeer in verband met diverse aanpassingen (onderhoudswijziging Reglement verkeersregels verkeerstekens 1990) (Stb.2022,413), die niet voldoen aan dit Reglement, voldoen aan het Reglement Verkeersregels en Verkeerstekens 1990 zoals dat luidde op de dag voor inwerkingtreding van deze wijziging.
