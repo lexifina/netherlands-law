@@ -1,0 +1,5 @@
+# Artikel 12a. Eisen aan schepen als bedoeld in artikel 3a, eerste lid, onderdelen a, b, c en e
+1. De toepasselijke eisen van de hoofdstukken II-1, II-2, III, IV en XII van het SOLAS-verdrag zijn van overeenkomstige toepassing op schepen als bedoeld in artikel 3a, eerste lid, onderdelen a, b, c en e.
+2. Voor de toepassing van de hoofdstukken II-1, II-2 en, met uitzondering van de eisen betreffende de radio-uitrusting aan boord van groepsreddingmiddelen, III wordt een vrachtschip van minder dan 500 GT met een lengte van 24 meter of meer gelijkgesteld met een vrachtschip van 500 GT.
+3. Voor de toepassing van de hoofdstukken IV en, met betrekking tot de radio-uitrusting aan boord van groepsreddingmiddelen, III wordt een vrachtschip van minder dan 300 GT met een lengte van 24 meter of meer gelijkgesteld met een vrachtschip van 300 GT.
+4. Op een schip met een lengte van 24 meter of meer waarvoor een nationaal veiligheidscertificaat benodigd is, zijn, indien het een schip betreft waarmee nationale reizen worden ondernomen, tevens de eisen van het Uitwateringsverdrag van overeenkomstige toepassing.
