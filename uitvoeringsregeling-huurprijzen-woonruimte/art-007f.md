@@ -1,0 +1,4 @@
+# Artikel 7f
+1. De voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters genieten een vergoeding voor reis- en verblijfkosten ter zake van dienstreizen overeenkomstig het Reisbesluit binnenland, het Reisbesluit buitenland en de Reisregeling binnenland.
+2. De voorzitter en de plaatsvervangend voorzitter hebben recht op een vergoeding van verplaatsingskosten overeenkomstig hoofdstuk IV van het Verplaatsingskostenbesluit 1989.
+3. De voorzitter heeft recht op een vergoeding van representatiekosten overeenkomstig artikel 68a, derde lid, onderdeel b, van het Algemeen Rijksambtenarenreglement. De plaatsvervangend voorzitter en de zittingsvoorzitters hebben recht op een vergoeding van representatiekosten overeenkomstig artikel 68a, derde lid, onderdeel c, van het Algemeen Rijksambtenarenreglement.

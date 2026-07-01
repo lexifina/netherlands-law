@@ -1,0 +1,3 @@
+# Artikel 7e
+1. Op eenmalige of periodieke toeslagen van de voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters is artikel 22a van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 van overeenkomstige toepassing.
+2. De voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters hebben recht op het Individueel Keuzebudget en op de mogelijkheid om betaald meer uren te werken overeenkomstig hetgeen daarover is overeengekomen in hoofdstuk 9 van de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
