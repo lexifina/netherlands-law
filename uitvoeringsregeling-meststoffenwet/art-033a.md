@@ -1,0 +1,5 @@
+# Artikel 33a
+1. Een landbouwer kan in enig jaar een verhoging van de fosfaatgebruiksnorm voor meststoffen op bouwland, bedoeld in artikel 11, eerste lid, van de wet of artikel 31, eerste, tweede, derde of vierde lid, van deze regeling toepassen, indien de hoeveelheid fosfaat waarmee de geldende fosfaatgebruiksnorm is overschreden, in het navolgende jaar volledig wordt gecompenseerd.
+2. De compensatie geschiedt door de hoeveelheid fosfaat waarmee de fosfaatgebruiksnorm in het voorgaande jaar is overschreden in mindering te brengen op de in het navolgende jaar geldende fosfaatgebruiksnorm.
+3. De hogere gebruiksnorm, bedoeld in het eerste lid, bedraagt ten hoogste 20 kilogram fosfaat per hectare per jaar meer dan de fosfaatgebruiksnorm die geldt ingevolge artikel 11, eerste lid, van de wet of artikel 31, eerste, tweede, derde of vierde lid, van deze regeling.
+4. De landbouwer, bedoeld in het eerste lid, meldt de toepassing van de verhoging van de fosfaatgebruiksnorm voor meststoffen, bedoeld in het eerste lid, uiterlijk op 31 december van het kalenderjaar waarin de verhoging wordt toegepast aan de minister.

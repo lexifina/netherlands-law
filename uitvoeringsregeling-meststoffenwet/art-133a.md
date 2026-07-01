@@ -1,0 +1,2 @@
+# Artikel 133a
+De artikelen 40, 42, 43, 45 tot en met 48a, 50, 53 tot en met 69a, 75f, 76 tot en met 78a, 78h, 78i, 78u, 80 tot en met 91b, 122, Bijlage E, Bijlage Ea, Bijlage F, Bijlage G, Bijlage H, Bijlage I en Bijlage M, zoals deze luidden onmiddellijk voorafgaand aan het tijdstip waarop deze regeling in werking treedt, blijven van toepassing op het vervoer van dierlijke meststoffen dat is aangevangen voor dat tijdstip.

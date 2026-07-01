@@ -1,0 +1,3 @@
+# Artikel 35d
+1. Een geregistreerde producent bepaalt zowel ten aanzien van de geproduceerde Renure als voor de daarvoor gebruikte dierlijke mest de hoeveelheid daarvan met een apparaat ter bepaling van het volume dat voldoet aan de bij of krachtens de Metrologiewet gestelde regels, waarbij het gemeten volume naar gewicht omgerekend wordt aan de hand van de dichtheid.
+2. De installatie waarmee de Renure wordt geproduceerd genereert een overzicht waaruit blijkt op welke momenten en hoeveel uur de installatie in bedrijf is geweest. De geregistreerde producent overlegt het overzicht desgevraagd aan de minister.

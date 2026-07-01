@@ -1,0 +1,10 @@
+# Artikel 69u
+1. Ingeval gebruik is gemaakt van het middel, bedoeld in artikel 69r, eerste lid, doet de vervoerder na afloop van het vervoer een namelding rechtstreeks aan rVDM, bestaande uit een vooraanmelding en een startmelding.
+2. Bij de namelding, bedoeld in het eerste lid, neemt de vervoerder de gegevens vermeld op het door de minister beschikbaar gestelde middel over en verstrekt deze aan rVDM.
+3. De namelding, bedoeld in het eerste lid, vindt uiterlijk plaats:
+a. binnen zeven dagen na afloop van het vervoer; of
+b. indien de namelding vanwege het niet beschikbaar zijn van rVDM niet plaats kan vinden binnen de termijn, bedoeld in onderdeel a, binnen zeven dagen te rekenen vanaf de dag waarop rVDM weer beschikbaar is geworden.
+4. De weegmelding geschiedt zodra de vervoerder de mogelijkheid heeft om meldingen te verzenden aan rVDM, maar uiterlijk binnen zeven dagen na afloop van het vervoer. Indien de functionaliteit later dan zeven dagen na afloop van het vervoer weer beschikbaar is, geschiedt de weegmelding uiterlijk binnen zeven dagen nadat de mogelijkheid om meldingen te verzenden aan rVDM weer beschikbaar is geworden.
+5. De melding, bedoeld in de artikelen 62, zesde lid, 63, vijfde lid, 64, vijfde lid, 66, vijfde lid, 67, vijfde lid, 68, zesde lid, 69, veertiende lid, 69c, vijfde lid of 69d, vijfde lid, 69e, tiende lid, geschiedt zodra de vervoerder de mogelijkheid heeft om meldingen te verzenden aan rVDM, maar uiterlijk binnen zeven dagen na afloop van het vervoer. Indien de mogelijkheid om meldingen te verzenden aan rVDM later dan zeven dagen na afloop van het vervoer weer beschikbaar is, geschiedt de melding uiterlijk binnen zeven dagen nadat de mogelijkheid om meldingen te verzenden aan rVDM weer beschikbaar is geworden.
+6. De meldingen, bedoeld in het eerste, vierde en vijfde lid, geschieden onder vermelding van het rVDM-nummer, bedoeld in artikel 69t, tweede lid.
+7. De vervoerder vermeldt bij de namelding, bedoeld in het eerste lid, tevens de reden waarom gebruik is gemaakt van het middel, bedoeld in artikel 69r, eerste lid.

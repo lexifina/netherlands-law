@@ -1,0 +1,2 @@
+# Artikel 69i
+Indien de dierlijke meststoffen, bedoeld in de artikelen 62 tot en met 69 en 69c, bestaat uit Renure, filtraat na mestscheiding of koek na mestscheiding, zijn, in afwijking van het bepaalde in de artikelen 62 tot en met 69 en 69c, de artikelen 48, 48b en 49 van het besluit en de artikelen 56, 57, 58 en 59, eerste lid, onverkort van toepassing op het vervoer van die soorten dierlijke meststoffen.
