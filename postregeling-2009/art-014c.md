@@ -1,0 +1,2 @@
+# Artikel 14c
+De berekening van de basis tariefruimte onderscheidenlijk de aanvullende tariefruimte vindt plaats op basis van de gegevens uit de financiële verantwoording over het jaar voorafgaand aan het kalenderjaar waarin de basis tariefruimte wordt bepaald onderscheidenlijk het kalenderjaar voorafgaand aan het jaar waarin de aanvullende tariefruimte wordt bepaald, met uitzondering van de consumentenprijsindex.

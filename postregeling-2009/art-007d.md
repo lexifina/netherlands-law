@@ -1,0 +1,2 @@
+# Artikel 7d
+De verlener van de universele postdienst rekent de gemeenschappelijke kosten die zonder onderscheid gemaakt worden ten behoeve van zowel de universele postdienst als alle andere activiteiten, en die niet kunnen worden toegerekend op basis van het gebruik van productiemiddelen, toe aan de universele postdienst aan de hand van dezelfde kostendrijvers als de kostendrijvers die hij gebruikt voor de toerekening van deze kosten aan andere activiteiten.
