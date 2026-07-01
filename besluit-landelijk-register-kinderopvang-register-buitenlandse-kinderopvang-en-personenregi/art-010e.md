@@ -1,0 +1,5 @@
+# Artikel 10e. De ingangs- en einddatum van de inschrijving in het register buitenlandse kinderopvang
+1. De ingangsdatum van de inschrijving in het register buitenlandse kinderopvang, bedoeld in artikel 1.48, zesde lid, van de wet, wordt bepaald op de datum dat Onze Minister de aanvraag tot inschrijving daarin heeft ontvangen.
+2. De einddatum van de inschrijving in het register buitenlandse kinderopvang, bedoeld in artikel 1.48, zesde lid, van de wet, wordt bepaald op vier jaar na de ingangsdatum van de inschrijving daarin, bedoeld in datzelfde artikel.
+3. Indien met een bewijsstuk als bedoeld in artikel 10a, eerste lid, onderdeel h, slechts aannemelijk wordt gemaakt dat de voorziening, bedoeld in artikel 1.48, eerste of tweede lid, van de wet, voor een kortere periode dan vier jaar voldoet aan artikel 1.48, vijfde lid, onderdeel a, van de wet, wordt de einddatum, in afwijking van het tweede lid, bepaald op de laatste dag van die periode.
+4. Indien sprake is van verwijdering als bedoeld in artikel 10d, wordt, in afwijking van het tweede lid, de datum waarop deze verwijdering ingaat als einddatum bepaald.

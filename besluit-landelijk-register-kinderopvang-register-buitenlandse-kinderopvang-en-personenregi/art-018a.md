@@ -1,0 +1,2 @@
+# Artikel 18a. Overgangsbepaling met betrekking tot de overgang van continue screening fase 1 naar het personenregister kinderopvang
+De artikelen 9a en 9b zoals die luidden op 28 februari 2018 blijven ten aanzien van de personen die op die datum continu gescreend worden gedurende de periode van 1 maart 2018 tot 1 juli 2018 van toepassing tot het tijdstip waarop deze personen, voor zover daartoe verplicht op grond van de artikelen 1.50, derde lid, 1.56, derde lid, en 1.56b, derde lid, van de wet, zijn ingeschreven in het personenregister kinderopvang.
