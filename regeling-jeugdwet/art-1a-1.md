@@ -1,0 +1,2 @@
+# Artikel 1a.1
+De redelijke termijn, bedoeld in artikel 8.2.1, eerste lid, van de wet, is in ieder geval verstreken wanneer het college binnen twee weken na ontvangst van een informatieverzoek van een jeugdhulpaanbieder of gecertificeerde instelling over welk college financieel verantwoordelijk is voor de aan een jeugdige te leveren jeugdhulp of uit te voeren kinderbeschermingsmaatregel of jeugdreclassering niet de gevraagde informatie heeft verstrekt.

@@ -1,0 +1,2 @@
+# Artikel 6a.3
+Een jeugdhulpaanbieder die jeugdhulp heeft verleend of zal verlenen of een aanbieder die preventie heeft verleend of zal verlenen, vermeldt bij de declaratie naast de in artikel 6a.1, eerste lid, bedoelde gegevens de persoonsgegevens die hij ingevolge door of namens het college gemaakte afspraken dan wel gegeven instructies moet vermelden, met dien verstande dat niet meer persoonsgegevens worden vermeld dan de persoonsgegevens die voor de gemeente noodzakelijk zijn ten behoeve van het verrichten van de formele controle en de betaling van de declaratie.

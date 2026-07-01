@@ -1,0 +1,2 @@
+# Artikel 8d
+De persoon aan wie het persoonsgebonden budget is verstrekt, doet aan de Sociale verzekeringsbank op verzoek of onverwijld uit eigen beweging mededeling van gegevens waarvan hem redelijkerwijs duidelijk moet zijn dat zij noodzakelijk zijn voor het uitvoeren van het budgetbeheer, bedoeld in artikel 8.1.8, eerste lid, van de wet, of het uitvoeren van betalingen ten laste van het persoonsgebonden budget.
