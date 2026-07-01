@@ -1,2 +1,0 @@
-# Artikel 7a.8
-Ter uitvoering van de op grond van de EU-richtlijn weefsels en cellen vastgestelde voorschriften inzake erkenning, aanwijzing, machtiging of vergunning van weefselinstellingen die tevens importerende weefselinstellingen zijn, worden bij regeling van Onze Minister voorschriften vastgesteld waaraan de instelling moet voldoen om voor een aanwijzing als bedoeld in artikel 7, eerste lid, van de wet, in aanmerking te komen.
