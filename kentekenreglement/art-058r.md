@@ -1,0 +1,10 @@
+# Artikel 58r. Verval van de tenaamstelling: overdracht van een voertuig aan een in het buitenland woonachtig of gevestigd persoon
+1. Degene aan wie een tweedelig kentekenbewijs is afgegeven of degene die na diens overlijden eigenaar of houder van het voertuig is geworden, is, in geval van overdracht van een voertuig aan een in het buitenland woonachtige natuurlijk persoon of een in het buitenland gevestigde rechtspersoon, verplicht:
+a. het deel I B en het deel II terstond over te dragen aan degene die eigenaar of houder van het voertuig is geworden;
+b. het deel I A van het kentekenbewijs onder zich te houden;
+c. de bij het voertuig behorende kentekenplaten onmiddellijk over te dragen aan degene die eigenaar of houder van het voertuig is geworden.
+2. Degene die eigenaar of houder van het voertuig is geworden, is verplicht binnen een week na ontvangst van deel I B, deel II en de kentekenplaten, deze samen met een bij ministeriële regeling aangewezen legitimatiebewijs bij de Dienst Wegverkeer te overleggen.
+3. De Dienst Wegverkeer plaatst op het deel I B een aantekening en geeft het deel I B en het legitimatiebewijs terug aan degene die aan de in het tweede lid bedoelde verplichtingen heeft voldaan tezamen met een vrijwaringsbewijs en een deel II.
+4. Degene die het in het derde lid bedoelde vrijwaringsbewijs heeft ontvangen is verplicht dit terstond af te geven aan degene die het deel I A onder zich heeft gehouden.
+5. Degene die het deel IA onder zich heeft gehouden is verplicht dit terstond af te geven aan degene van wie hij het in het vierde lid bedoelde vrijwaringsbewijs heeft verkregen.
+6. In geval van overdracht van een tot de bedrijfsvoorraad van een erkend bedrijf bedrijfsvoorraad behorend voertuig waarvoor een tweedelig kentekenbewijs is afgegeven aan een in het buitenland woonachtige natuurlijk persoon of een in het buitenland gevestigde rechtspersoon, zonder dat het erkende bedrijf gebruik maakt van de erkenning export is het eerste tot en met vijfde lid van overeenkomstige toepassing, met dien verstande dat het bedrijfsvoorraad deel I B in de plaats treedt van het deel I B.

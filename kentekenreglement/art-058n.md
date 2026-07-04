@@ -1,0 +1,4 @@
+# Artikel 58n. Wijziging van de tenaamstelling: overdracht van een voertuig uit bedrijfsvoorraad
+1. Indien een voertuig waarvoor een kentekenbewijs als bedoeld in artikel 58j is afgegeven, ophoudt te behoren tot de bedrijfsvoorraad van een erkend bedrijf bedrijfsvoorraad, is artikel 58l of, in geval van overdracht ten behoeve van een bedrijfsvoorraad, artikel 58m van overeenkomstige toepassing.
+2. Indien een voertuig ophoudt te behoren tot de bedrijfsvoorraad van een erkend bedrijf bedrijfsvoorraad en dit bedrijf het voertuig tot eigen gebruik bestemt, verzoekt het bedrijf terstond om tenaamstelling bij de Dienst Wegverkeer, onder overlegging van het bedrijfsvoorraad deel I B, het overschrijvingsbewijs en een bij ministeriële regeling aangewezen legitimatiebewijs.
+3. De Dienst Wegverkeer geeft aan degene die aan de verplichting van het tweede lid heeft voldaan een vrijwaringsbewijs en een kentekencard af en verstrekt een tenaamstellingcode.

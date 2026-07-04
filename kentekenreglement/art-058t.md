@@ -1,0 +1,4 @@
+# Artikel 58t. Vervangende kentekencard
+1. De aanvraag van een vervangende kentekencard geschiedt bij de Dienst Wegverkeer door degene aan wie het tweedelig kentekenbewijs, waarvoor een vervangend document wordt aangevraagd, is afgegeven.
+2. De Dienst Wegverkeer kan verlangen dat bij de aanvraag van een vervangende kentekencard het kentekenbewijs als bedoeld in artikel 58j wordt ingeleverd alsmede dat een bij ministeriële regeling aangewezen legitimatiebewijs wordt overgelegd.
+3. Indien een kentekenbewijs als bedoeld in artikel 58j is afgegeven aan de houder van een voertuig en deze een vervangende kentekencard aanvraagt, kan de Dienst Wegverkeer in door deze dienst te bepalen gevallen verlangen dat de eigenaar voor de afgifte van de vervangende kentekencard, toestemming verleent. In deze gevallen kan de Dienst Wegverkeer bepalen dat de vervangende kentekencard naar de eigenaar of een door deze aangewezen persoon wordt gezonden.

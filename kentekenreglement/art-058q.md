@@ -1,0 +1,3 @@
+# Artikel 58q. Wijziging van de tenaamstelling: bijzondere procedure
+1. De Dienst Wegverkeer kan een voertuig tenaamstellen zonder dat aan de in de artikelen 58l tot en met 58p bedoelde verplichtingen is voldaan, indien de aanvraag hiertoe wordt ingediend door een natuurlijk persoon of een rechtspersoon die verklaart eigenaar of houder van het voertuig te zijn en indien naar het oordeel van de Dienst Wegverkeer aannemelijk is gemaakt dat niet aan bedoelde verplichtingen kan worden voldaan.
+2. De Dienst Wegverkeer kan in verband met het bepaalde in het eerste lid verlangen dat de aanvrager van de tenaamstelling het voertuig toont, een bij ministeriële regeling aangewezen legitimatiebewijs overlegt en een of meer delen van het kentekenbewijs inlevert.

@@ -1,0 +1,3 @@
+# Artikel 58k. Vordering afgifte kentekenbewijs ter inzage
+1. De verplichting tot het ter inzage afgeven van het kentekenbewijs als bedoeld in artikel 160 van de wet, heeft betrekking op het voor het voertuig afgegeven kentekenbewijs deel I, indien sprake is van een kentekenbewijs als bedoeld in artikel 58j.
+2. Indien de in artikel 160 van de wet bedoelde vordering betrekking heeft op een kentekenbewijs dat is afgegeven voor een aanhangwagen die overeenkomstig artikel 3.2 of 3.7 van de Regeling voertuigen is voorzien van een constructieplaat, kan aan de vordering worden voldaan binnen een termijn van een week.

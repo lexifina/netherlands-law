@@ -1,0 +1,4 @@
+# Artikel 58h. Aanvraag en afgifte nieuw kentekenbewijs
+1. Indien het voertuig waarvoor een kentekenbewijs als bedoeld in artikel 58a is afgegeven niet meer overeenstemt met de gegevens op het deel I, is degene aan wie het kentekenbewijs is afgegeven of degene die na diens overlijden eigenaar of houder van het voertuig is geworden, verplicht onverwijld bij de Dienst Wegverkeer de gewijzigde gegevens te melden.
+2. De Dienst Wegverkeer geeft aan degene die aan de in het eerste lid bedoelde verplichting heeft voldaan een nieuwe kentekencard af en verstrekt een tenaamstellingscode.
+3. De Dienst Wegverkeer geeft in geval van wijziging in de constructie als bedoeld in artikel 98 van de wet een nieuwe kentekencard af nadat de wijziging is goedgekeurd ingevolge artikel 98 van de wet.
