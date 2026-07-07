@@ -1,0 +1,4 @@
+# Artikel 5a
+1. Met de bezoldiging en de uitkeringen, bedoeld in artikel 1, derde lid, artikel 2, eerste lid, en artikel 3, kan worden verrekend hetgeen de minister of staatssecretaris of zijn nagelaten betrekkingen zelf als zodanig aan de Staat verschuldigd is of zijn.
+2. Verrekening als bedoeld in het eerste lid kan plaatshebben ondanks gelegd beslag of toegepaste korting als bedoeld in artikel 5b, eerste lid.
+3. Verrekening als bedoeld in het eerste lid is slechts in zoverre geldig als een beslag op die bezoldiging of uitkeringen geldig zou zijn, met dien verstande dat verrekening van hetgeen wegens genoten huisvesting of voeding is verschuldigd eveneens kan plaatsvinden met dat deel van de bezoldiging dat de beslagvrije voet, bedoeld in de artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering vormt.
