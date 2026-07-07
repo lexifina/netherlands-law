@@ -1,0 +1,3 @@
+# Artikel 9a
+1. De Kamerleden die uit hoofde van hun lidmaatschap van de Eerste Kamer der Staten-Generaal een functie vervullen in een internationale parlementaire assemblee, deelnemen aan vergaderingen die voortvloeien uit voor nationale parlementen geldende verplichtingen uit hoofde van Europese of internationale verdragen dan wel anderszins uit hoofde van een uit het lidmaatschap van de Eerste Kamer der Staten-Generaal voortvloeiende verplichting deel te nemen aan vergaderingen met leden van andere nationale parlementen en voor deelname aan deze vergaderingen geen honorering ontvangen, ontvangen daarvoor een vergoeding op grond van dit artikel.
+2. De vergoeding bedraagt per vergaderdag 25% van de vergoeding berekend op grond van artikel 4.
