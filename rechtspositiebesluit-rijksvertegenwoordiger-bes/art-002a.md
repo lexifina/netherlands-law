@@ -1,0 +1,10 @@
+# Artikel 2a
+1. Zo spoedig mogelijk na afloop van het kalenderjaar, verstrekt de Rijksvertegenwoordiger aan Onze Minister, dan wel aan een door hem aangewezen instantie:
+a. een opgave van de neveninkomsten welke hij over dat kalenderjaar of over een gedeelte daarvan heeft genoten, dan wel
+b. een verklaring dat hij geen neveninkomsten heeft genoten of niet meer dan 14% van de bezoldiging op jaarbasis aan neveninkomsten heeft genoten over dat jaar of, indien hij het ambt van Rijksvertegenwoordiger vervulde gedurende een gedeelte van het kalenderjaar, een evenredig deel daarvan, dan wel
+c. een verklaring dat een opgave van neveninkomsten achterwege zal blijven.
+2. In afwijking van het eerste lid, vermindert Onze Minister op verzoek van de Rijksvertegenwoordiger diens bezoldiging reeds gedurende het kalenderjaar met een bedrag waarmee de Rijksvertegenwoordiger verwacht dat zijn bezoldiging zal worden verrekend vanwege zijn neveninkomsten.
+3. Onze Minister vordert, indien hij, dan wel een door hem aangewezen instantie constateert dat er sprake is van te verrekenen neveninkomsten, het teveel aan ontvangen bezoldiging terug van de Rijksvertegenwoordiger.
+4. Indien de Rijksvertegenwoordiger geen informatie kan verstrekken, meldt hij dit binnen zes maanden onder opgaaf van redenen aan Onze Minister, dan wel aan een door hem aangewezen instantie. De Rijksvertegenwoordiger meldt tevens een redelijke termijn waarop hij deze informatie alsnog zal verstrekken.
+5. In het geval genoemd in het eerste lid, onderdeel c, alsmede indien de Rijksvertegenwoordiger binnen zes maanden na afloop van het kalenderjaar geen opgave of verklaring, als bedoeld in het eerste lid, heeft ingezonden, of niet heeft voldaan aan het vierde lid, stelt Onze Minister de bezoldiging over het afgelopen jaar vast op 65% van de bezoldiging op jaarbasis, tenzij hij uit anderen hoofde kan vaststellen tot welk bedrag er verrekend zou moeten worden.
+6. Op verzoek van de Rijksvertegenwoordiger kan Onze Minister besluiten de verrekening of terugbetaling in termijnen te laten plaatsvinden.
