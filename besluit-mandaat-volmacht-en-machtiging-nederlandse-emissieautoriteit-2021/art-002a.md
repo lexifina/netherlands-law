@@ -1,0 +1,2 @@
+# Artikel 2a
+Aan het bestuur van de NEa wordt mandaat en machtiging verleend voor het opvragen en verwerken van alle nodige gegevens voor de toepassing, waaronder de voorbereiding van de toepassing, van artikel 6 van Verordening (EU) 2022/1854 van de Raad van 6 oktober 2022, betreffende een noodinterventie in verband met de hoge energieprijzen, Pb. EU L 261 I/1, overeenkomstig artikel 7, zesde lid, van deze verordening.
