@@ -1,0 +1,3 @@
+# Artikel 3b. Verhoging subsidieplafond grote overige rijksmonumenten specifiek voor kerkgebouwen
+1. Nadat de middelen, bedoeld in artikel 3, eerste lid, zijn verdeeld, wordt aan het budget voor overige rijksmonumenten, bedoeld in artikel 3, eerste lid, onderdeel c, met een herbouwwaarde van € 8,3 miljoen of meer, een bedrag van € 5 miljoen toegevoegd voor kerkgebouwen.
+2. Indien het bedrag, bedoeld in het eerste lid, in enig jaar niet volledig wordt verleend ten behoeve van kerkgebouwen, wordt het resterende bedrag toegevoegd aan het bedrag dat op grond van het eerste lid voor het daaropvolgende jaar beschikbaar is.

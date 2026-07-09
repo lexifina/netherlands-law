@@ -1,0 +1,3 @@
+# Artikel 29j. Verantwoording en vaststelling
+1. De eigenaar verantwoordt de subsidie voor het verduurzamingsonderzoek als onderdeel van de verantwoording van de subsidie, bedoeld in artikel 2, voor het desbetreffende rijksmonument of het zelfstandige onderdeel. Voor het toe te passen verantwoordingsregime, genoemd in de artikelen 23 tot en met 25, alsmede voor de toepassing van artikel 26, worden het subsidiebedrag dat uit hoofde van artikel 2 wordt verstrekt en het bedrag van de subsidie voor het verduurzamingsonderzoek als één totaalbedrag in aanmerking genomen.
+2. De artikelen 27 tot en met 29 zijn van overeenkomstige toepassing.
