@@ -8,3 +8,8 @@
 ### 2.3. Structuurelement B
 ### 2.4. Zijketen
 ## 3. Stofgroep: substanties afgeleid van 4-aminopiperidine
+## 4. Stofgroep: Benzimidazol opioïden (nitazenen)
+### 4.1. Structuurelement A
+### 4.2. Brug
+### 4.3. Structuurelement B
+### 4.4. Zijketen
