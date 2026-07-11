@@ -1,0 +1,2 @@
+# Artikel 60a
+Van artikel 1 en 2 van het Reglement minimummaten en gesloten tijd 1985, van artikel 7a van het Reglement voor de binnenvisserij 1985, en van artikel 28b en artikel 32a is degene vrijgesteld die ten gevolge van plotselinge vissterfte, of van de dreiging daarvan, gebruik maakt van de vistuigen, bedoeld in artikel 7a van het Reglement voor de binnenvisserij 1985, mits de vis, die met dat gebruik wordt verkregen, onverwijld wordt uitgezet in een nabij gelegen water waar een dergelijke dreiging zich niet voordoet.

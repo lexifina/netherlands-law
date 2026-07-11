@@ -1,0 +1,13 @@
+# Artikel 10c
+1. De eigenaar van een vaartuig schaft een blackbox-systeem aan indien zijn vaartuig:
+a. een lengte heeft van meer dan 9 meter;
+b. wordt gebruikt om te vissen met demersale sleepnetten met een maaswijdte van 16 tot en met 31 millimeter; en
+c. wordt gebruikt om in de kustwateren, het zeegebied of de visserijzone tot 3 zeemijl vanaf de Nederlandse kustlijn te vissen.
+2. Degene die vist met een vaartuig als bedoeld in het eerste lid heeft uiterlijk met ingang van 1 september 2026 een werkend blackbox-systeem aan boord geïnstalleerd.
+3. De eigenaar van of degene die vist met een vaartuig als bedoeld in het eerste lid toont op verzoek van de Minister aan dat dit systeem voldoet aan NTA 8390:2025. Dit doen zij met gebruikmaking van een door de Minister ter beschikking gesteld model.
+4. De Minister gebruikt de gegevens die het blackbox-systeem genereert en registreert, het e-mailadres van degene die vist met een vaartuig als bedoeld in het eerste lid en het externe kenteken van een vaartuig als bedoeld in het eerste lid, voor het toezicht op en de handhaving van het bepaalde bij of krachtens de Visserijwet 1963 of artikel 5.1, eerste lid, onderdeel e, van de Omgevingswet.
+5. De Minister gebruikt de gegevens, genoemd in het vierde lid, ook in het kader van de vaststelling van de subsidie bedoeld in paragraaf 3.7 van de Regeling Europese EZK- en LNV- subsidies 2021.
+6. Degene die vist met een vaartuig als bedoeld in het eerste lid, verstrekt de gegevens, genoemd in het vierde lid, aan de Minister door deze te laten verzenden naar een door de Minister te bepalen centrale server.
+7. De gegevens, genoemd in het vierde lid, worden tien jaar bewaard door de Minister.
+8. Het eerste tot en met derde en zesde lid zijn niet van toepassing op degene die subsidie heeft aangevraagd of verkregen voor de definitieve stopzetting van visserijactiviteiten als bedoeld in artikel 2.26.2, eerste lid, van de Regeling nationale EZK- en LNV-subsidies.
+9. Met een blackbox-systeem als bedoeld in deze regeling worden gelijkgesteld systemen die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een tot een douane-unie strekkend Verdrag, dan wel rechtmatig zijn vervaardigd in een staat die partij is bij een tot een vrijhandelszone strekkend Verdrag dat Nederland bindt, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met NTA 8390:2025 wordt nagestreefd. In dat geval is het derde lid van overeenkomstige toepassing.
