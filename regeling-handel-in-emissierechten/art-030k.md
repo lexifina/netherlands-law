@@ -1,0 +1,2 @@
+# Artikel 30k. Emissieverslag
+Voor het emissieverslag wordt gebruik gemaakt van een door het bestuur van de emissieautoriteit beschikbaar gesteld standaardformulier.

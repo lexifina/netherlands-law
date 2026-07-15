@@ -1,0 +1,5 @@
+# Artikel 41c. Overleggen monitoringmethodiekplan
+1. De exploitant dient het monitoringmethodiekplan op grond van artikel 10bis van de EG-richtlijn handel in broeikasgasemissierechten uiterlijk op 30 mei 2024 in bij het bestuur van de emissieautoriteit.
+2. Het monitoringmethodiekplan voldoet aan de in Gedelegeerde verordening (EU) 2019/331 van de Commissie van 19 december 2018 tot vaststelling van een voor de hele Unie geldende overgangsregeling voor de geharmoniseerde kosteloze toewijzing van emissierechten overeenkomstig artikel 10bis van Richtlijn 2003/87/EG van het Europees Parlement en de Raad (PbEU 2019, L59) gestelde eisen en bevat alle gegevens die op grond van deze verordening worden verlangd.
+3. Het monitoringmethodiekplan wordt opgesteld en overgelegd op een door het bestuur van de emissieautoriteit aangegeven wijze met gebruikmaking van een standaardformulier dat door het bestuur van de emissieautoriteit beschikbaar wordt gesteld.
+4. Het besluit over de goedkeuring van het monitoringmethodiekplan wordt uiterlijk op 31 december 2025 genomen door het bestuur van de emissieautoriteit.

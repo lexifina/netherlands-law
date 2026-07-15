@@ -1,0 +1,2 @@
+# Artikel 41e. Standaardformulier verificatierapport van de verificateur
+Het op grond van artikel 27 van Uitvoeringsverordening (EU) 2018/2067 van de Commissie van 19 december 2018 inzake de verificatie en de accreditatie van verificateurs krachtens Richtlijn 2003/87 van het Europees Parlement en de Raad (PbEU 2018, L334) opgestelde verificatierapport wordt opgesteld en overgelegd op een door het bestuur van de emissieautoriteit aangegeven wijze en met gebruikmaking van een standaardformulier dat door het bestuur van de emissieautoriteit beschikbaar wordt gesteld.

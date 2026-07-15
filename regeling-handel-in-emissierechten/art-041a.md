@@ -1,0 +1,2 @@
+# Artikel 41a. Toepassingsbereik
+Deze paragraaf is van toepassing op broeikasgasinstallaties waarin een of meer activiteiten worden verricht, die behoren tot een categorie die is aangewezen in bijlage 1 bij de EG-richtlijn handel in broeikasgasemissierechten en die in aanmerking komen voor kosteloze toewijzing van broeikasgasemissierechten op grond van artikel 11 van de EG-richtlijn handel in broeikasgasemissierechten.

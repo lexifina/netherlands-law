@@ -1,0 +1,4 @@
+# Artikel 41d. Wijzigingen monitoringmethodiekplan
+1. De melding van niet significante wijzigingen in het monitoringmethodiekplan op grond van de gedelegeerde handelingen wordt gedaan uiterlijk op 31 december van het jaar waarin de wijzigingen zijn aangebracht.
+2. De melding van de wijzigingen in het monitoringmethodiekplan wordt gedaan op een door het bestuur van de emissieautoriteit aangegeven wijze met gebruikmaking van een formulier dat door het bestuur van de emissieautoriteit beschikbaar wordt gesteld.
+3. Onder significante wijzigingen in het monitoringmethodiekplan als bedoeld in artikel 9, vijfde lid, van Verordening kosteloze toewijzing van emissierechten worden in ieder geval verstaan veranderingen van de wijze waarop activiteitsniveaus en de andere te rapporteren gegevens worden bepaald.
