@@ -29,4 +29,16 @@ w. op bedrieglijke wijze de indruk wekken dat voor een bepaald product service n
 x. het verschaffen van zoekresultaten in reactie op een online zoekopdracht van een consument zonder duidelijk aan te geven dat het een betaalde reclame betreft of er een betaling is gedaan die specifiek was bedoeld om een hogere rangschikking voor producten te verkrijgen;
 y. het doorverkopen van tickets aan consumenten indien de handelaar deze heeft verkregen door gebruik te maken van elektronische middelen, bedoeld om ingestelde limieten over het aantal tickets dat een persoon mag kopen of andere regels die van toepassing zijn op de aankoop van tickets, te omzeilen;
 z. beweren dat beoordelingen van producten zijn ingediend door consumenten die het product daadwerkelijk hebben gebruikt of aangekocht, zonder dat de handelaar redelijke en proportionele stappen heeft genomen om na te gaan of deze beoordelingen daadwerkelijk afkomstig zijn van dergelijke consumenten;
-aa. het plaatsen of doen plaatsen van valse beoordelingen of aanbevelingen van consumenten of op misleidende wijze voorstellen van consumentenbeoordelingen of sociale media-aanbevelingen, teneinde producten te promoten.
+aa. het plaatsen of doen plaatsen van valse beoordelingen of aanbevelingen van consumenten of op misleidende wijze voorstellen van consumentenbeoordelingen of sociale media-aanbevelingen, teneinde producten te promoten;
+ab. een duurzaamheidskeurmerk weergeven dat niet op een certificeringsregeling is gebaseerd of niet door overheidsinstanties is ingesteld;
+ac. een generieke milieuclaim maken zonder dat de handelaar erkende voortreffelijke milieuprestaties kan aantonen die relevant zijn voor de claim;
+ad. een milieuclaim maken voor het volledige product of alle bedrijfsactiviteiten van de handelaar, terwijl de claim slechts op een bepaald aspect van het product of een specifieke bedrijfsactiviteit van de handelaar betrekking heeft;
+ae. beweren dat een product dankzij de compensatie van broeikasgasemissies een neutraal, verminderd of positief milieueffect heeft wat broeikasgasemissies betreft;
+af. het voorstellen van voor alle producten binnen de toepasselijke productcategorie op de markt van de Unie wettelijk opgelegde vereisten als een onderscheidend kenmerk van het aanbod van de handelaar;
+ag. informatie achterhouden voor de consument over het feit dat een software-update negatieve gevolgen zal hebben voor de werking van zaken met digitale elementen of het gebruik van digitale inhoud of digitale diensten;
+ah. een software-update voorstellen als noodzakelijk terwijl er alleen functionaliteitskenmerken mee worden verbeterd;
+ai. commerciële communicatie met betrekking tot een zaak met een kenmerk dat is geïntroduceerd om de duurzaamheid van de zaak te beperken, hoewel de handelaar op de hoogte is van het kenmerk en de gevolgen ervan voor de duurzaamheid van de zaak;
+aj. valselijk beweren dat een zaak onder normale gebruiksomstandigheden een bepaalde duurzaamheid heeft wat betreft de gebruikstijd of -intensiteit;
+ak. presenteren van een zaak als repareerbaar wanneer het dat niet is;
+al. de consument aanzetten tot het eerder vervangen of aanvullen van de verbruiksgoederen van een zaak dan om technische redenen noodzakelijk is;
+am. informatie achterhouden over het feit dat de functionaliteit van een zaak bij gebruik van verbruiksgoederen, reserveonderdelen of accessoires die niet door de oorspronkelijke producent zijn geleverd, wordt aangetast, of ten onrechte beweren dat een dergelijke aantasting zal plaatsvinden.
