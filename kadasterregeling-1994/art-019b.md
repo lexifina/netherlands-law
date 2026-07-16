@@ -1,0 +1,3 @@
+# Artikel 19b
+1. Indien ter verkrijging van de inschrijving van een stuk in papieren vorm door de aanbieder bewijsstukken in papieren vorm zijn overgelegd, vult de bewaarder de verklaring van inschrijving, bedoeld in artikel 19a, eerste lid, als volgt aan: 'Bij de aanbieding ter inschrijving is/ zijn het/de volgende stuk(ken) overgelegd:', onder vermelding van een korte aanduiding van elk van de overgelegde bewijsstukken.
+2. Indien ter verkrijging van de inschrijving van een stuk in elektronische vorm door de aanbieder bewijsstukken in elektronische vorm als bedoeld in artikel 11b, vijfde lid, van de wet zijn overgelegd, wordt zulks vermeld door de bewaarder op het bewijs van inschrijving.

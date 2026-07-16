@@ -1,0 +1,7 @@
+# Artikel 11ba
+1. Bij gebruikmaking van het aanbiedportaal, worden het in te schrijven stuk met eventuele bijlage(n) en bewijsstuk(ken) samengevoegd in één verzoek tot inschrijving dat tevens metagegevens, essentialia uit het stuk of indien van toepassing het KIK-bestand en een eventuele verwijzing naar eerder in depot genomen depotstuk(ken) bevat.
+2. Het verzoek en het in het verzoek tot inschrijving aanwezige stuk, eventuele bijlage(n) of bewijsstuk(ken) of indien van toepassing het KIK-bestand zijn elk afzonderlijk voorzien van een valide zichtbare elektronische handtekening van de ondertekenaar.
+3. Een verzoek tot inschrijving, bedoeld in het eerste lid, kan tezamen met andere verzoeken in één pakket worden aangeboden, als genoemd in de technische handleiding.
+4. Als de ondertekenaar tot een van de erkende beroepen behoort, wordt de valide elektronische handtekening gerealiseerd door een gekwalificeerd persoonsgebonden beroepscertificaat. In andere gevallen wordt de valide elektronische handtekening met een persoonsgebonden certificaat gerealiseerd.
+5. Na ontvangst en acceptatie wordt, in de elektronisch vorm gehouden gedeelten van de openbare registers, ingeschreven het stuk met eventuele bijlage(n), bewijsstuk(ken) uit het verzoek tot inschrijving, en eventueel depotstuk(ken) waarnaar in het verzoek tot inschrijving is verwezen.
+Het in de eerste zin bedoelde stuk wordt voorzien van een verklaring van inschrijving, dat is ondertekend door de bewaarder met een zichtbaar elektronisch zegel, bedoeld in artikel 7e, tweede lid, van de wet.

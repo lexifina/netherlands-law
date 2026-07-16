@@ -1,0 +1,4 @@
+# Artikel 21b
+1. Indien na de inschrijving van een stuk blijkt dat het stuk onjuistheden of onvolledigheden bevat, of in het stuk gegevens ontbreken die noodzakelijk zijn voor een juiste en volledige bijhouding, verzoekt de bewaarder aan de aanbieder het stuk te verbeteren op de in de wet, of de Wet op het notarisambt voorgeschreven wijze.
+2. Indien het ingeschreven stuk in papieren vorm is aangeboden, heeft het verzoek tot aanbieding van een stuk tot verbetering, een bijhoudingsverklaring dan wel een proces-verbaal de vorm van het een model dat door de bewaarder wordt voorgeschreven.
+3. Indien het ingeschreven stuk in elektronische vorm ter inschrijving is aangeboden, is het verzoek tot aanbieding van een stuk tot verbetering, een bijhoudingsverklaring, dan wel een proces- verbaal voorzien van een elektronisch zegel van de bewaarder, bedoeld in artikel 7e, tweede lid, van de wet.

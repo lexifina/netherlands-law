@@ -1,0 +1,3 @@
+# Artikel 45c
+1. Het verantwoordelijke bestuursorgaan kan via de daarvoor bestemde internetapplicatie van de Dienst, ambtshalve een object aanwijzen als bedoeld in artikel 7, van de Regeling kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
+2. Wanneer een object, waarop een beperking rust, niet langer actueel is, mag het bestuursorgaan dit niet ambtshalve vervangen door een ander object als daardoor het werkingsgebied van de beperking groter wordt dan in het oorspronkelijke besluit was bedoeld. In dat geval dient de wijziging via een inschrijving in de openbare registers te worden aangeboden.

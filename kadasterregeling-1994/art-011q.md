@@ -1,0 +1,3 @@
+# Artikel 11q
+1. Indien een verzoek wordt ingediend tot inschrijving van een stuk in elektronische vorm en van dit stuk een tekening of een ander stuk in papieren vorm deel uitmaakt, wordt in het verzoek tot inschrijving tevens verzocht om het afschrift van de tekening of het andere stuk dat overeenkomstig artikel 10 van de Uitvoeringsregeling Kadasterwet 1994 in bewaring is genomen, in te schrijven.
+2. Na ontvangst van het verzoek tot inschrijving brengt de bewaarder het duplicaat in elektronische vorm, bedoeld in artikel 11p, eerste lid, terstond over van de logische database voor depotbestanden naar de logische database van ter inschrijving aangeboden stukken, onder vermelding van het stukidentificatienummer van het ter inschrijving aangeboden stuk.

@@ -1,0 +1,3 @@
+# Artikel 17a
+1. De verklaring van niet-inschrijving, bedoeld in artikel 15a, eerste lid, van de wet, heeft de volgende vorm: 'Dit stuk, dat is aangeboden op .......... om .............. uur, met stukidentificatienummer ...................... is geboekt in het register Hypotheken 4D, omdat ........' onder invulling van de desbetreffende gegevens.
+2. Het bewijs van niet-inschrijving, bedoeld in artikel 15b, eerste lid, van de wet, voldoet aan de technische handleiding en wordt binnen 48 uur na het tijdstip van verzending van de attendering op niet-inschrijving, bedoeld in artikel 21, eerste lid, door middel van een elektronisch bericht verzonden aan de aanbieder van het stuk waarvan de inschrijving is geweigerd.

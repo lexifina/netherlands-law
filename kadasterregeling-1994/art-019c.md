@@ -1,0 +1,2 @@
+# Artikel 19c
+Indien ter verkrijging van de inschrijving van een stuk door de aanbieder bewijsstukken zijn overgelegd, vermeldt de bewaarder dit in de in elektronische vorm gehouden gedeelten van de openbare registers door het stellen van de volgende door hem te ondertekenen verklaring: 'Bij de aanbieding ter inschrijving zijn overgelegd: ...', onder vermelding van een korte aanduiding van de stukken.
