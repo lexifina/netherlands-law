@@ -1,0 +1,3 @@
+# Artikel 8b. Indienen aanvraag
+1. Een aanvraag tot verlening of vaststelling van een subsidie kan vanaf de eerste maandag van januari om 9:00 uur van enig kalenderjaar gedurende het hele kalenderjaar worden ingediend.
+2. Indien het totaal aangevraagde subsidiebedrag in enig kalenderjaar 155% bedraagt van het op grond van artikel 8 voor dat kalenderjaar vastgestelde subsidieplafond kunnen er gedurende de resterende periode van dat kalenderjaar geen aanvragen tot directe vaststelling van een subsidie, als bedoeld in artikel 10, tweede lid, en artikel 11, tweede lid, en geen aanvragen tot verlening van een subsidie, als bedoeld in artikel 12, eerste lid, en artikel 13, eerste lid, meer worden ingediend.
