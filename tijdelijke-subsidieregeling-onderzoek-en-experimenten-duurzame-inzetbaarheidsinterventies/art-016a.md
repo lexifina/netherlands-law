@@ -1,0 +1,7 @@
+# Artikel 16a. Integrale kostensystematiek
+1. In afwijking van artikel 16 kan het samenwerkingsverband voor een of meer deelnemers aan het samenwerkingsverband voor de berekening van de hoogte van de subsidiabele kosten gebruik maken van de integrale kostensystematiek.
+2. Indien het samenwerkingsverband de integrale kostensystematiek hanteert voor een of meer deelnemers dan komen, in afwijking van artikel 16, voor de subsidie van activiteiten verricht door of in opdracht van deze deelnemers slechts de volgende kosten in aanmerking:
+a. de directe en indirecte kosten per kostendrager in een tarief per eenheid van deze kostendrager vermenigvuldigd met het aantal eenheden van de kostendragers;
+b. externe kosten voor zover deze geen deel uitmaken van het tarief, bedoeld in onderdeel a. Artikel 16 is van overeenkomstige toepassing op deze externe kosten;
+c. kosten van een controleverklaring als bedoeld in de artikelen 20, derde lid, en 21, vierde, en de kosten van een rapport van feitelijke bevindingen als bedoeld in artikel 21, vijfde lid, voor zover deze geen deel uitmaken van het tarief, bedoeld in onderdeel a. Artikel 16 is van overeenkomstige toepassing op de kosten van een controleverklaring.
+3. De kosten die ingevolge artikel 16, eerste lid, in aanmerking komen voor subsidie vanwege activiteiten verricht door of in opdracht van andere deelnemers komen niet in aanmerking voor de kosten, bedoeld in het tweede lid.
