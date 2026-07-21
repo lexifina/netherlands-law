@@ -43,6 +43,7 @@
 #### Afdeling 1.6.1. Vergunningen
 #### Afdeling 1.6.1a. Verklaringen van geen bezwaar als bedoeld in de artikelen 3:95 tot en met 3:97
 #### Afdeling 1.6.2. Registratie
+#### Afdeling 1.6.3. Europees centraal toegangspunt
 ### Hoofdstuk 1.7. Beloningsbeleid
 #### Afdeling 1.7.1. Definities en reikwijdte
 #### Afdeling 1.7.2. Beheerst beloningsbeleid
