@@ -1,0 +1,2 @@
+# Artikel 29g
+Op het bedrag van de vergoeding dat overeenkomstig artikel 26, vierde lid, is berekend, wordt in mindering gebracht het bedrag dat, ingevolge de vangnetregeling in de lidstaat waar de financiële onderneming haar zetel heeft, is vastgesteld voor de betreffende depositohouder of belegger door de uitvoerder van de vangnetregeling in de lidstaat waar de financiële onderneming haar zetel heeft.

@@ -1,0 +1,3 @@
+# Artikel 7e
+1. Verkoop door een overbruggingsstichting, overbruggingsonderneming of entiteit voor activa- en passivabeheer van door deze gehouden eigendomsinstrumenten, of activa of passiva, vindt niet plaats dan op aanwijzing of met goedkeuring van de Nederlandsche Bank.
+2. Bij een verkoop door een overbruggingsstichting of overbruggingsonderneming worden de vereisten, bedoeld in artikel 41, vierde lid, van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen in acht genomen, voor zover dat zich niet verzet tegen het doel waarmee de overbruggingsinstelling of overbruggingsonderneming eigendomsinstrumenten, activa of passiva door toepassing van paragraaf 3A.2.4.3, onderscheidenlijk paragraaf 3A.2.4.4, van de wet houdt.

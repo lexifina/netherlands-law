@@ -1,0 +1,6 @@
+# Artikel 7c
+1. De Nederlandsche Bank is belast met het oprichten, of het door een overbruggingsstichting doen oprichten, van overbruggingsondernemingen.
+2. Een overbruggingsonderneming heeft tot taak om tijdelijk activa of passiva te houden die ingevolge een besluit op grond van artikel 3A:37 of 3A:112 van de wet van een entiteit in afwikkeling op haar overgaan, en het daaraan verbonden bedrijf uit te oefenen.
+3. De statuten van een overbruggingsonderneming zijn in overeenstemming met de artikelen 40 en 41 van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen, voor zover de taak, bedoeld in het tweede lid, indien het activa of passiva betreft die tijdelijk worden gehouden bij toepassing van paragraaf 3A.2.4.3 van de wet zich niet daartegen verzet, indien de overbruggingsstichting met deze taak is belast.
+4. Indien een overbruggingsstichting een overbruggingsonderneming opricht, behoeft de vaststelling en wijziging van de statuten van de overbruggingsonderneming de goedkeuring van de Nederlandsche Bank.
+5. Indien de Nederlandsche Bank een overbruggingsonderneming opricht, draagt zij de aandelen in de overbruggingsonderneming onverwijld over aan een overbruggingsstichting.

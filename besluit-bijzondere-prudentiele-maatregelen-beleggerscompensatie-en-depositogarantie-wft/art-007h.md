@@ -1,0 +1,10 @@
+# Artikel 7h
+1. De Nederlandsche Bank heft de periodieke bijdragen, bedoeld in artikel 3A:71, eerste lid, van de wet, tot 1 januari 2025, onverminderd het vierde lid.
+2. Op het vaststellen van de hoogten van de periodieke bijdragen van beleggingsondernemingen als bedoeld in artikel 3A:71, eerste lid, onderdeel a, van de wet, is artikel 20, vijfde lid, eerste zin, van de gedelegeerde verordening bijdragen Afwikkelingsfonds van toepassing. Voor zover de totale waarde aan passiva minus eigen vermogen groter is dan 300.000.000 euro, wordt de hoogte van de bijdrage vermeerderd overeenkomstig het derde lid, onderdeel b, onder 1° en 2°.
+3. Op het vaststellen van de hoogten van de periodieke bijdragen van banken en beleggingsondernemingen als bedoeld in artikel 3A:71, eerste lid, onderdeel b, onderscheidenlijk onderdeel c, van de wet, zijn de artikelen 10 tot en met 14 en 17 van de gedelegeerde verordening bijdragen Afwikkelingsfonds van overeenkomstige toepassing, met dien verstande dat:
+a. uitsluitend de vermogenspositie en activiteiten van het in Nederland gelegen bijkantoor in aanmerking worden genomen;
+b. indien de totale waarde aan passiva, minus eigen vermogen en gegarandeerde deposito's, bedoeld in artikel 10 van de verordening, groter is dan 300.000.000 euro, de periodieke bijdrage 75.000 euro per jaar bedraagt, vermeerderd met:
+1°. 25.000 euro voor elke 100.000.000 euro waarmee het bedrag van 300.000.000 euro wordt overschreden; en
+2°. 35.000 euro voor elke 100.000.000 euro waarmee het bedrag van 1.000.000.000 euro wordt overschreden.
+4. Indien financiële middelen van het Afwikkelingsfonds zijn aangewend, heft de Nederlandsche Bank, onverminderd de heffingen ingevolge het eerste lid, periodieke bijdragen totdat een bedrag ter grootte van het bedrag aan aangewende middelen is geheven.
+5. Het bedrag waarvoor een overeenkomst, bedoeld in artikel 3A:74, tweede lid, van de wet is aangegaan, telt voor de toepassing van het eerste en derde lid mee voor de berekening van de hoogte van de in het Afwikkelingsfonds aanwezige middelen.
