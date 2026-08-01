@@ -1,0 +1,3 @@
+# Artikel 48b. Verstrekking van diplomagegevens aan Onze Minister van LNV
+1. Aan Onze Minister van Landbouw, Natuur en Voedselkwaliteit worden voor de registratie van personen in het register, bedoeld in artikel 4.3 van de Wet dieren, het persoonsgebonden nummer en de diplomagegevens, bedoeld in de artikelen 15 en 17, eerste lid en tweede lid, onderdelen a en b, van onderwijsdeelnemers verstrekt.
+2. Aan Onze Minister van Landbouw, Natuur en Voedselkwaliteit worden voor het toezicht op de naleving van artikel 3.11 van het Besluit houders van dieren het persoonsgebonden nummer en de diplomagegevens, bedoeld in de artikelen 15 en 17, eerste lid, en tweede lid, onderdeel b, van onderwijsdeelnemers verstrekt.

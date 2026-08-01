@@ -1,0 +1,2 @@
+# Artikel 48a. Verstrekking van diplomagegevens aan Onze Minister van IenW
+Aan Onze Minister van Infrastructuur en Waterstaat worden voor zijn taken met betrekking tot de afgifte van vaarbevoegdheidsbewijzen als bedoeld in artikel 23 van de Wet bemanning zeeschepen het persoonsgebonden nummer en de diplomagegevens, bedoeld in de artikelen 15 en 17, eerste lid en tweede lid, onderdelen a en b, van onderwijsdeelnemers verstrekt.

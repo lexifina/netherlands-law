@@ -1,0 +1,2 @@
+# Artikel 39a. Verstrekking van basisgegevens aan Onze Minister van VWS
+Aan Onze Minister van Volksgezondheid, Welzijn en Sport worden voor de uitvoering van subsidieregelingen op grond van de Kaderwet VWS-subsidies desgevraagd de in de bijlage aangeduide basisgegevens van onderwijsdeelnemers verstrekt. Daarbij wordt het persoonsgebonden nummer vervangen door een ander nummer of een code op een zodanige wijze dat de onderwijsdeelnemer niet geïdentificeerd is.

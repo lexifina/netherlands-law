@@ -1,0 +1,3 @@
+# Artikel 26a. Verstrekking basisgegevens aan College voor toetsen en examens
+1. Aan het College voor toetsen en examens worden ten behoeve van de aanmelding van onderwijsdeelnemers voor een staatsexamen of ten behoeve van de examinering van die onderwijsdeelnemers het persoonsgebonden nummer en de in de bijlage aangeduide basisgegevens van die onderwijsdeelnemers verstrekt.
+2. Aan het College voor toetsen en examens worden ten behoeve van het vaststellen van de procedure om te komen tot de beoordelingsnormen van de doorstroomtoetsen, als bedoeld in artikel 3a, eerste lid, onderdeel f, van de Wet College voor toetsen en examens de in de bijlage aangeduide basisgegevens van die onderwijsdeelnemers verstrekt.

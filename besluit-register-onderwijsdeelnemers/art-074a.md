@@ -1,0 +1,2 @@
+# Artikel 74a. Overgangsbepaling vanwege de inwerkingtreding van de Wet inburgering 2021
+Op een onderwijsdeelnemer waar de Wet inburgering op van toepassing was op de dag voorafgaand aan de inwerkingtreding van de Wet inburgering 2021, blijven de artikelen 16, onderdeel r, 22, vierde lid, 39, eerste lid, en 49, en de bijlage, zoals deze luidden op de dag voorafgaand aan de inwerkingtreding van de Wet inburgering 2021, van toepassing.

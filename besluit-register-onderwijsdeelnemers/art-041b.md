@@ -1,0 +1,2 @@
+# Artikel 41b. Verstrekking basisgegevens aan het Agentschap voor Onderwijsdiensten
+Aan het Agentschap voor Onderwijsdiensten worden, voor zover dat noodzakelijk is voor het uitoefenen van toezicht op de naleving van de Belgische leerplichtwetgeving, desgevraagd van de onderwijsdeelnemer de geslachtsnaam, de voornamen, het adres, de postcode, het gegeven of de onderwijsdeelnemer op de peildatum was ingeschreven aan een onderwijsinstelling en het registratienummer van die onderwijsinstelling verstrekt.
