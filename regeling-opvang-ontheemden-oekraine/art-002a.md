@@ -1,0 +1,2 @@
+# Artikel 2a
+De ontheemde is verplicht om onverwijld uit eigen beweging dan wel uiterlijk binnen twee weken nadat het college van burgemeester en wethouders daarom heeft verzocht mededeling te doen over zijn inkomsten en gezinssamenstelling. De ontheemde is tevens verplicht om in geval van verandering in inkomsten of gezinssamenstelling het college van burgemeester en wethouders daarvan onverwijld mededeling te doen.

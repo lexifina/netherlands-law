@@ -1,0 +1,2 @@
+# Artikel 16a
+Indien de gegevens over gezondheid, bedoeld in artikel 6, eerste en tweede lid, van de Wet tijdelijke opvang ontheemden Oekraïne, worden neergelegd in een persoonsgebonden dossier of in een geautomatiseerd bestand worden zij uitsluitend verwerkt door daartoe geautoriseerde personen die voor het uitoefenen van hun taak toegang tot die gegevens moeten hebben en voor zover de autorisatie strekt.
