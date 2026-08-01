@@ -1,0 +1,2 @@
+# Artikel 17b1. Generiek examenonderdeel rekenen voor entreeopleiding
+Voor het generieke examenonderdeel rekenen voor een entreeopleiding wordt de ontwikkeling van de beheersing van het rekenen, afgezet tegen mbo-rekenniveau 2 als bedoeld in bijlage 3 van het Besluit referentieniveaus Nederlandse taal en rekenen, weergegeven. Onderdeel daarvan is een beeld van de beheersing aan het einde van de entreeopleiding.

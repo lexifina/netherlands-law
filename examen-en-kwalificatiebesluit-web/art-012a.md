@@ -1,0 +1,2 @@
+# Artikel 12a. Centraal examen en onvoldoende beheersing Nederlandse taal
+De examencommissie kan in verband met onvoldoende beheersing van de Nederlandse taal de duur van de desbetreffende toets van het centraal examen voor het onderdeel Nederlandse taal met ten hoogste 30 minuten verlengen ten aanzien van een student die met inbegrip van het studiejaar waarin hij examen aflegt, ten hoogste zes jaren onderwijs in Nederland heeft gevolgd en voor wie het Nederlands niet de moedertaal is.
