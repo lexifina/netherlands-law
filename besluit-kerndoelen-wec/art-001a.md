@@ -1,0 +1,2 @@
+# Artikel 1a. Kerndoelen uitstroomprofiel vervolgonderwijs
+In aanvulling op de kerndoelen die zijn vastgesteld op grond van artikel 2.13 van de Wet voortgezet onderwijs 2020, worden voor het uitstroomprofiel vervolgonderwijs, bedoeld in artikel 14, eerste lid, onderdeel a, van de Wet op de expertisecentra de kerndoelen vastgesteld als aangegeven in hoofdstuk 1 van bijlage 3 bij dit besluit. Het onderwijs in het uitstroomprofiel vervolgonderwijs wordt ook na de eerste twee leerjaren mede op basis van deze kerndoelen verzorgd.
