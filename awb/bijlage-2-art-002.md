@@ -69,7 +69,7 @@ e. artikel 61, voor zover het besluit betrekking heeft op de handhaving van het 
 f. artikel 156, eerste lid
 Wet aanvullende regels veiligheid wegtunnels: artikel 8, eerste lid, voor zover het een vergunning betreft voor een tunnel die deel uitmaakt van een projectbesluit als bedoeld in afdeling 5.2 van de Omgevingswet
 Wet bescherming Antarctica
-Wet educatie en beroepsonderwijs: de artikelen 1.4.1, 1.4a.1, 1.6.1, 2.1.2, eerste lid, onderdeel b, 2.1.3, tweede lid, 2.2.3, eerste en vierde lid, 2.5.9, 6.1.4, 6.1.5, 6.1.5a, 6.1.5b, 6.2.2, 6.2.3, 6.2.3b, 6.3.2, 6.3.3, 6.4.4, 6a.1.2, 6a.1.3 en 11.1
+Wet educatie en beroepsonderwijs: de artikelen 1.4a.1, 1.6.1, 2.1.2, eerste lid, onderdeel b, 2.1.3, tweede lid, 2.2.3, eerste en vierde lid, 2.5.9, 6.1.4, 6.1.5, 6.1.5a, 6.1.5b, 6.3.2, 6.3.3, 6.4.2, 6a.1.2, 6a.1.3, 10.1, 11.1.1, 11.1.8, tweede lid, 11.1.18 tot en met 11.1.22
 Wet financiering sociale verzekeringen: artikel 91
 Wet gemeenschappelijke regelingen:
 a. artikel 25, achtste lid
