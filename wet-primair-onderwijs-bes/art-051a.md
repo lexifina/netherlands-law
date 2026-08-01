@@ -1,0 +1,3 @@
+# Artikel 51a. Toetsen leerling- en onderwijsvolgsysteem
+1. Het bevoegd gezag gebruikt een leerling- en onderwijsvolgsysteem waaruit de vorderingen in de kennis en vaardigheden blijken op het niveau van de leerling, de groep en de school. Aan een leerling- en onderwijsvolgsysteem zijn, behoudens voor de eerste twee schooljaren, in elk geval door het College voor toetsen en examens erkende toetsen verbonden.
+2. De toetsen, bedoeld in het eerste lid, meten kennis en vaardigheden van de leerling, voor wat betreft het openbare lichaam Bonaire in elk geval op het terrein van Papiaments, Nederlandse taal en rekenen en wiskunde, en voor wat betreft de openbare lichamen Sint Eustatius en Saba in elk geval op het terrein van Engelse taal, Nederlandse taal en rekenen en wiskunde.

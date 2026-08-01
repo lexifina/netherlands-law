@@ -1,0 +1,3 @@
+# Artikel 51b. Doorstroomtoets openbaar lichaam Bonaire
+1. In het openbaar lichaam Bonaire neemt het bevoegd gezag in de eerste of tweede volledige week van februari bij een leerling in het laatste leerjaar van het basisonderwijs een door het College voor toetsen en examens erkende doorstroomtoets af. De doorstroomtoets is een objectief, tweede gegeven voor het vaststellen van het niveau van de leerling voor het volgen van aansluitend voortgezet onderwijs.
+2. Een doorstroomtoets meet kennis en vaardigheden van de leerling op het terrein van Papiaments, Nederlandse taal en rekenen en wiskunde. Het bevoegd gezag kan bij een leerling tevens een doorstroomtoets voor de onderwerpen, genoemd in artikel 11, vierde lid, onderdelen g, j, k en l, afnemen.
