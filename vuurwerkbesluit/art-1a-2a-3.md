@@ -1,0 +1,2 @@
+# Artikel 1A.2A.3
+De fabrikant zorgt ervoor dat hij beschikt over procedures om de conformiteit van zijn serieproductie met EU-richtlijn pyrotechnische artikelen te blijven waarborgen. Er wordt terdege rekening gehouden met veranderingen in het ontwerp of in de kenmerken van het vuurwerk of het pyrotechnische artikel voor theatergebruik en met veranderingen in de geharmoniseerde normen of andere technische specificaties waarnaar in de EU-conformiteitsverklaring van het vuurwerk of het pyrotechnische artikel voor theatergebruik wordt verwezen.

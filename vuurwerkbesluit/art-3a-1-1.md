@@ -1,0 +1,16 @@
+# Artikel 3A.1.1
+1. Pyrotechnische artikelen voor theatergebruik zijn voorzien van:
+a. de aanduiding: Niet geschikt voor particulier gebruik;
+b. een vermelding of afbeelding van de soort van het artikel waaruit duidelijk blijkt wat de te verwachten effecten tijdens het functioneren zijn;
+c. de naam, de geregistreerde handelsnaam of de geregistreerde merknaam van de fabrikant en één postadres waarop contact met hem kan worden opgenomen;
+d. indien de fabrikant niet is gevestigd op het grondgebied van de Europese Unie: de gegevens, genoemd onder c, en de naam, geregistreerde handelsnaam of geregistreerde merknaam van de importeur en het postadres waarop contact met hem kan worden opgenomen;
+e. indien de importeur niet in Nederland is gevestigd: de gegevens, genoemd onder c en d, en de handelsnaam of het handelsmerk en de naam en de plaats van vestiging van de distributeur;
+f. De naam en het type van het artikel en het door de fabrikant bij de vervaardiging toegekende registratienummer en het product-, partij- of serienummer van het product;
+g. de categorie, bedoeld in artikel 1A.1.3, waartoe het artikel behoort;
+h. de NEM;
+i. een gebruiksaanwijzing met zodanige aanwijzingen en waarschuwingen dat bij het dienovereenkomstig handelen geen letsel of schade bij de gebruiker en omstanders kan ontstaan.
+2. Op pyrotechnische artikelen voor theatergebruik moet voorts de volgende informatie staan: voor zover het betreft categorie T1: in voorkomend geval: «uitsluitend buitenshuis te gebruiken» en de minimale veiligheidsafstand; voor zover het betreft categorie T2: «uitsluitend door personen met gespecialiseerde kennis te gebruiken» en de minimale veiligheidsafstand(en).
+3. Het eerste en tweede lid gelden niet voor pyrotechnische artikelen voor theatergebruik van geringe afmeting, mits de in het eerste en tweede lid bedoelde gegevens zijn aangebracht op de kleinste verpakkingseenheid.
+4. De aanduiding en de gegevens, bedoeld in het eerste en tweede lid, zijn in de Nederlandse, Duitse, Engelse of Franse taal gesteld, zichtbaar, leesbaar, duidelijk, begrijpelijk en onuitwisbaar.
+5. In afwijking van het vierde lid worden de aanduiding en de gegevens, bedoeld in het eerste en tweede lid, op pyrotechnische artikelen voor theatergebruik die aan een persoon met gespecialiseerde kennis zullen worden aangeboden in een andere lidstaat van de Europese Unie gesteld in de officiële taal of talen van het desbetreffende land.
+6. Dit artikel is niet van toepassing op pyrotechnische artikelen voor theatergebruik waarvan op het moment dat het binnen het grondgebied van Nederland wordt gebracht, naar het oordeel van Onze Minister genoegzaam wordt aangetoond dat zij binnen 48 uur weer buiten het grondgebied van Nederland zullen worden gebracht. Indien sprake is van het met een omgevingsvergunning opslaan van vuurwerk of pyrotechnische artikelen voor theatergebruik voor korte tijd en in afwachting van aansluitend vervoer naar een vooraf bekende ontvanger, bedoeld in artikel 3.286, eerste lid, onder i, van het Besluit activiteiten leefomgeving, in containers voor vervoer op een locatie op een haventerrein van de zeehaven van Amsterdam, Eemshaven, Rotterdam of Vlissingen, wordt in plaats van «48 uur» gelezen: twee weken.

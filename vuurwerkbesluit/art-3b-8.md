@@ -1,0 +1,2 @@
+# Artikel 3B.8
+Gedeputeerde staten van de provincie waarin vuurwerk of pyrotechnische artikelen voor theatergebruik tot ontbranding worden gebracht, hebben tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de ontbrandingstoestemming en de daaraan verbonden voorschriften als bedoeld in de artikelen 3B.1, derde lid, onderdeel a, en 3B.3, tweede en derde lid, alsmede van bepalingen als bedoeld in de artikelen 3B.3a, elfde lid, 3B.4, eerste, tweede, vierde en vijfde lid, 3B.6, vijfde lid, en 3B.7.

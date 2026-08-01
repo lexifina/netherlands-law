@@ -1,0 +1,11 @@
+# Artikel 3B.1
+1. Met uitzondering van de situatie, bedoeld in artikel 2.3.6, is het verboden zonder een daartoe verleende vergunning vuurwerk of pyrotechnische artikelen voor theatergebruik tot ontbranding te brengen, ten behoeve daarvan op te bouwen, te installeren, te bewerken, dan wel na ontbranding te verwijderen.
+2. Onze Minister beslist op een aanvraag om een toepassingsvergunning.
+3. Aan de toepassingsvergunning wordt het voorschrift verbonden dat:
+a. voorafgaand aan het tot ontbranding brengen van vuurwerk of pyrotechnische artikelen voor theatergebruik door de aanvrager toestemming is verkregen van gedeputeerde staten van de provincie waarin de artikelen tot ontbranding zullen worden gebracht en de aan de toestemming verbonden voorschriften worden nageleefd;
+b. het tot ontbranding te brengen vuurwerk en de tot ontbranding te brengen pyrotechnische artikelen voor theatergebruik afkomstig zijn van een locatie waarop een milieubelastende activiteit als bedoeld in artikel 3.30 van het Besluit activiteiten leefomgeving wordt verricht, die is gemeld overeenkomstig artikel 4.1030 van dat besluit of waarvoor een omgevingsvergunning is verleend geldt, dan wel rechtstreeks afkomstig zijn uit het buitenland.
+4. Aan de toepassingsvergunning worden voorts voorschriften verbonden in het belang van de bescherming van de gezondheid van de mens en van het milieu. Zij kan onder beperkingen worden verleend.
+5. Degene aan wie een toepassingsvergunning is verleend, is gehouden de in het derde en vierde lid bedoelde voorschriften na te leven.
+6. De toepassingsvergunning vervalt op het moment dat de geldigheidsduur van het certificaat van vakbekwaamheid, bedoeld in artikel 3B.2, tweede lid, onder c, afloopt. Is de toepassingsvergunning verleend aan een onderneming dan vervalt de toepassingsvergunning eveneens op het moment dat er geen persoon aan wie een certificaat van vakbekwaamheid, bedoeld in artikel 4.9, tweede lid, van het Arbeidsomstandighedenbesluit, is afgegeven, meer werkzaam is voor de onderneming.
+7. De toepassingsvergunning heeft een geldigheidsduur van vijf jaar.
+8. Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3 van de Algemene wet bestuursrecht niet van toepassing op de aanvraag om een toepassingsvergunning.

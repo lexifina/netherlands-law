@@ -1,0 +1,4 @@
+# Artikel 1A.4a.1
+1. Het is verboden vuurwerk of pyrotechnische artikelen voor theatergebruik waarop de EU-verordening markttoezicht van toepassing is, in de handel te brengen in strijd met artikel 4, eerste lid, van die verordening.
+2. Het is de fabrikant, de importeur, de gemachtigde die is aangewezen om de in artikel 4, derde lid, van de EU-verordening markttoezicht vermelde taken namens de fabrikant te verrichten, of de fulfilmentdienstverlener ten aanzien van vuurwerk of pyrotechnische artikelen voor theatergebruik bedoeld in het eerste lid, verboden te handelen in strijd met artikel 4, derde en vierde lid, van de EU-verordening markttoezicht.
+3. Het is de gemachtigde, bedoeld in het tweede lid, verboden te handelen in strijd met artikel 5, tweede lid, van de EU-verordening markttoezicht.

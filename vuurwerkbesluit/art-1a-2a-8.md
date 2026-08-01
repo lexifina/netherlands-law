@@ -1,0 +1,2 @@
+# Artikel 1A.2A.8
+Een importeur of een distributeur wordt als fabrikant beschouwd en voldoet aan de verplichtingen overeenkomstig dit hoofdstuk, wanneer hij vuurwerk of een pyrotechnisch artikel voor theatergebruik onder zijn eigen naam of merknaam in de handel brengt, of reeds in de handel gebracht vuurwerk of een reeds in de handel gebracht pyrotechnisch artikel voor theatergebruik zodanig wijzigt dat de conformiteit met de essentiële veiligheidseisen in het geding komt.

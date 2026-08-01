@@ -1,0 +1,11 @@
+# Artikel 3B.6
+1. Degene aan wie een toepassingsvergunning is verleend, houdt een register bij waarin zijn vermeld:
+a. de persoon of personen aan wie een certificaat van vakbekwaamheid is afgegeven als bedoeld in artikel 4.9, tweede lid, van het Arbeidsomstandighedenbesluit, en door wie of onder wier toezicht bedrijfsmatig handelingen met vuurwerk of pyrotechnische artikelen voor theatergebruik worden verricht, als bedoeld in artikel 3B.1, eerste lid;
+b. de personen die onder toezicht van de onder a bedoelde persoon of personen bedrijfsmatig handelingen met vuurwerk of pyrotechnische artikelen voor theatergebruik verrichten als bedoeld in artikel 3B.1, eerste lid;
+c. de evenementen en voorstellingen, waarbij vuurwerk of pyrotechnische artikelen voor theatergebruik tot ontbranding zijn gebracht en de daarbij tot ontbranding gebrachte typen en hoeveelheden vuurwerk of pyrotechnische artikelen voor theatergebruik in kilogrammen alsmede de weigeraars, met vermelding van de door de fabrikant bij de vervaardiging toegekende artikelnummers die dienen ter identificatie van het vuurwerk of de pyrotechnische artikelen voor theatergebruik;
+d. ongewone voorvallen die zich tijdens het tot ontbranding brengen van vuurwerk of pyrotechnische artikelen voor theatergebruik hebben voorgedaan.
+2. Het register wordt binnen twee werkdagen na een wijziging dan wel na een evenement of voorstelling bijgewerkt.
+3. De gegevens worden op een zodanige wijze geregistreerd dat gedurende de periode waarover de registratieplicht ingevolge het vierde lid geldt, indien Onze Minister of gedeputeerde staten van de provincie die de vergunning hebben verleend daarom verzoeken, binnen acht uur de gegevens schriftelijk kunnen worden overgelegd.
+4. De gegevens, bedoeld in het eerste lid, blijven ten minste voor de duur van zeven jaar na de vastlegging in de registratie opgenomen.
+5. Degene aan wie een toepassingsvergunning is verleend, meldt een ongewoon voorval als bedoeld in het eerste lid, onder d, onverwijld aan gedeputeerde staten van de provincie waarin het vuurwerk of de pyrotechnische artikelen voor theatergebruik tot ontbranding worden gebracht.
+6. Van een wijziging van de gegevens, bedoeld in het eerste lid, onderdeel a, wordt onverwijld melding gemaakt bij Onze Minister.

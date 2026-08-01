@@ -1,0 +1,4 @@
+# Artikel 1A.2.3
+1. Artikel 1A.2.1 is niet van toepassing op vuurwerk en pyrotechnische artikelen voor theatergebruik die voor onderzoeks-, ontwikkelings- en testdoeleinden zijn geproduceerd en niet met de bepalingen van de EU-richtlijn pyrotechnische artikelen in overeenstemming zijn. Deze artikelen mogen vrij circuleren en worden gebruikt, mits is voldaan aan het bepaalde in het derde lid.
+2. Artikelen als bedoeld in het eerste lid mogen niet beschikbaar worden gesteld of worden gebruikt voor andere doeleinden dan voor ontwikkeling, tests en onderzoek.
+3. Op de artikelen, bedoeld in het eerste lid, wordt een zichtbaar teken aangebracht waaruit duidelijk blijkt dat ze niet in overeenstemming zijn met de bepalingen van de EU-richtlijn pyrotechnische artikelen en niet beschikbaar zijn voor andere doeleinden dan voor ontwikkeling, tests en onderzoek.

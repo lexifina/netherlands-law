@@ -1,0 +1,2 @@
+# Artikel 1A.1.4
+Vuurwerk of pyrotechnische artikelen voor theatergebruik die in overeenstemming zijn met geharmoniseerde normen of delen daarvan, waarvan de referentienummers in het Publicatieblad van de Europese Unie zijn bekendgemaakt, worden geacht in overeenstemming te zijn met de essentiële veiligheidseisen die door die normen of delen daarvan worden bestreken.

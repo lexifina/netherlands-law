@@ -1,0 +1,4 @@
+# Artikel 1A.2C.5
+Indien een distributeur van mening is, of redenen heeft om aan te nemen, dat door hem op de markt aangeboden vuurwerk of pyrotechnisch artikel voor theatergebruik niet in overeenstemming is met de eisen gesteld bij of krachtens dit besluit:
+a. ziet hij erop toe dat de nodige corrigerende maatregelen worden genomen om die artikelen in overeenstemming te maken of zo nodig uit de handel te nemen of terug te roepen; en
+b. brengt hij, indien het artikel een risico vertoont, de bevoegde autoriteiten van de lidstaten waar hij het artikel op de markt heeft aangeboden hiervan onmiddellijk op de hoogte. Indien hij de artikelen in Nederland op de markt heeft aangeboden, brengt hij de bevoegde autoriteit op de hoogte. Hierbij beschrijft hij in het bijzonder uitvoerig de niet-conformiteit en alle genomen corrigerende maatregelen.

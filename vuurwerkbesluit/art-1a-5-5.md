@@ -1,0 +1,8 @@
+# Artikel 1A.5.5
+1. De aangewezen instantie is in staat alle conformiteitsbeoordelingstaken te verrichten die in bijlage II bij de EU-richtlijn pyrotechnische artikelen aan haar zijn toegewezen en waarvoor zij is aangewezen, ongeacht of deze taak door de aangewezen instantie zelf of namens haar en onder haar verantwoordelijkheid wordt verricht.
+2. De aangewezen instantie beschikt te allen tijde, voor elke conformiteitsbeoordelingsprocedure en voor elk soort en elke categorie vuurwerk of pyrotechnische artikelen voor theatergebruik waarvoor zij is aangemeld over:
+a. benodigd personeel met technische kennis en voldoende passende ervaring om de conformiteitsbeoordelingstaken te verrichten;
+b. beschrijvingen van de procedures voor de uitvoering van de conformiteitsbeoordeling, waarbij de transparantie en de mogelijkheid tot reproductie van deze procedures worden gewaarborgd;
+c. gepast beleid en geschikte procedures om een onderscheid te maken tussen taken die zij als aangewezen instantie verricht en andere activiteiten; en
+d. procedures voor de uitoefening van haar activiteiten die naar behoren rekening houden met de omvang van een onderneming, de sector waarin zij actief is, de structuur ervan, de relatieve complexiteit van de producttechnologie in kwestie en het massa- of seriële karakter van het productieproces.
+3. Een aangewezen instantie beschikt over de noodzakelijke middelen om de technische en administratieve taken, die zijn verbonden met de conformiteitsbeoordelingsactiviteiten, op passende wijze uit te voeren en heeft toegang tot alle noodzakelijke apparatuur en faciliteiten.
