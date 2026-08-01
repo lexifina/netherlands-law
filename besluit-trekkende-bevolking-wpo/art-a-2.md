@@ -1,0 +1,3 @@
+# Artikel A 2. Afwijking van bepalingen en van overeenkomstige toepassing zijnde bepalingen van de WPO
+1. Artikel 4 van de wet is niet van toepassing op een school als bedoeld in dit besluit. Artikel 2 van de wet is niet van toepassing op de school, bedoeld in titel C van dit besluit.
+2. De artikelen 8, 10 tot en met 16, behoudens de in artikel 13 bedoelde algemene maatregel van bestuur, 29 tot en met 36, 38a, 40, eerste, tweede en negende tot en met elfde lid, 40b, 41, 42, 45a, 50 tot en met 63, 66, 67, 69, zesde lid, 120, 152, 155, 165 tot en met 179, 181, 182, 183, 187 tot en met 191 en 194 van de wet zijn van overeenkomstige toepassing. Voorts is het Besluit vernieuwde kerndoelen WPO van overeenkomstige toepassing.
