@@ -1,0 +1,3 @@
+# Artikel 14d. Rijksinkoop en departementale inkoopfunctie
+1. De Coördinerend Directeur Inkoop (CDI) is verantwoordelijk voor het goed functioneren van het CDI/CPO-stelsel binnen het Ministerie. De CDI wordt betrokken bij alle grote en/of risicovolle inkooptrajecten en wordt in de gelegenheid gesteld deze vooraf te beoordelen, conform de interdepartementale afspraken die dienaangaande gemaakt zijn in het Uitvoeringsprogramma Compacte Rijksdienst en binnen het CDI/CPO-stelsel.
+2. De directeur-generaal DUO is gemandateerd tot het verrichten van aankopen ten behoeve van alle budgethouders van het Ministerie.

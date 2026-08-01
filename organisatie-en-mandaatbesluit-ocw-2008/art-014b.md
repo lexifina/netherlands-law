@@ -1,0 +1,2 @@
+# Artikel 14b. Voorbehouden aan de directeur Wetgeving en Juridische Zaken
+De directeur Wetgeving en Juridische Zaken is gemandateerd te beslissen over een verzoek om informatie op grond van de Wet open overheid en tot de gehele of gedeeltelijke afwijzing van een verzoek op grond van de Wet hergebruik van overheidsinformatie. Hij kan met betrekking tot dit mandaat ondermandaat verlenen. Als hij ondermandaat verleent aan een functionaris die niet onder hem ressorteert, behoeft deze instemming van de gemandateerde en diens direct-leidinggevende.
