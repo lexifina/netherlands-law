@@ -7,5 +7,5 @@ c. een onderwijsondersteunende functionaris als bedoeld in artikel 3a.
 3. Het eerste lid is niet van toepassing op het onderwijs in:
 1°. Nederlands;
 2°. Rekenen en wiskunde;
-3°. Zintuigelijke en lichamelijke oefening;
+3°. Lichamelijke oefening;
 4°. Actief burgerschap en sociale cohesie.

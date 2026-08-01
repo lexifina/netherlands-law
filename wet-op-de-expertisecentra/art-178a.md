@@ -1,0 +1,2 @@
+# Artikel 178a. Evaluatie Wet herziening wettelijke grondslagen kerndoelen
+Onze Minister zendt binnen vijf en vervolgens binnen vijf jaar na de inwerkingtreding van de Wet herziening wettelijke grondslagen kerndoelen aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van die wet in de praktijk.

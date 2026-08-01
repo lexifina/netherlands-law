@@ -3,7 +3,7 @@
 a. het ononderbroken ontwikkelingsproces van de leerlingen bevordert en de zo spoedig mogelijke doorstroom van leerlingen borgt;
 b. actief burgerschap en sociale cohesie bevordert als bedoeld in artikel 8, derde lid;
 c. zo veel mogelijk gericht is op de kerndoelen, bedoeld in artikel 9, waarbij in ieder geval altijd aandacht wordt besteed aan:
-1°. Zintuigelijke en lichamelijke oefening;
+1°. Lichamelijke oefening;
 2°. Nederlandse taal;
 3°. Rekenen en wiskunde;
 d. het sociaal en emotioneel welbevinden van de leerlingen bevordert.
