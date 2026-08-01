@@ -7,9 +7,7 @@
 #### § 2. Taken
 #### § 3. Kwaliteitszorg
 #### § 4. Overige voorschriften
-### Titel 4. Niet uit 's Rijks kas bekostigde instellingen werkzaam op het gebied van het beroepsonderwijs
 ### Titel 4a. Andere instellingen die een opleiding educatie verzorgen
-### Titel 5. Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven
 ### Titel 6. De exameninstellingen
 ### Titel 7. Contractactiviteiten
 ## Hoofdstuk 2. Planning en bekostiging
@@ -21,7 +19,6 @@
 #### § 2. Besteding
 ### Titel 2a. Bekostiging voortgezet algemeen volwassenenonderwijs
 ### Titel 3. Aanbod en uitkering educatie met uitzondering van opleidingen voortgezet algemeen volwassenenonderwijs; informatie en gegevensverstrekking educatie
-### Titel 4. Subsidie Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven
 ### Titel 5. Begroting, verslaglegging en gegevensverstrekking
 #### § 1. Instellingen voor beroepsonderwijs en educatie
 #### § 1a. Verantwoording middelen voortgezet algemeen volwassenenonderwijs
@@ -36,10 +33,11 @@
 ### Titel 1a. Het beroep docent
 ### Titel 2. Vereisten benoeming of tewerkstelling
 ### Titel 2a. Benoembaarheidsvereiste voor overig personeel van instellingen
-### Titel 3. Personeel van de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven
+## Hoofdstuk 5. Beroepsonderwijs en arbeidsmarkt
+### Titel 1. [Gereserveerd]
+### Titel 2. Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven
 ## Hoofdstuk 6. Het onderwijsaanbod beroepsopleidingen
 ### Titel 1. Het beroepsonderwijs, verzorgd door uit 's Rijks kas bekostigde instellingen
-### Titel 2. Het beroepsonderwijs, verzorgd door niet uit 's Rijks kas bekostigde instellingen
 ### Titel 3. De exameninstellingen
 ### Titel 4. De Registratie instellingen en opleidingen
 ## Hoofdstuk 6a. Het onderwijsaanbod educatie
@@ -80,9 +78,12 @@
 ### Titel 2. Ondersteuning bij de overstap naar onderwijs of arbeidsmarkt
 #### Paragraaf 1. Ondersteuning van jongeren zonder startkwalificatie en regionaal programma
 #### Paragraaf 2. Ondersteuning door de instelling
-## Hoofdstuk 10. Beroep bij de bestuursrechter
-## Hoofdstuk 11. Sancties
-### Paragraaf 1. Inhouden en opschorten bekostiging; strafbepaling
+## Hoofdstuk 10. Sancties
+## Hoofdstuk 11. Niet uit 's Rijks kas bekostigd onderwijs
+### Titel 1. Aanbieders van niet uit 's Rijks kas bekostigd beroepsonderwijs
+#### Paragraaf 1. Aanvraagprocedure niet uit 's Rijks kas bekostigde beroepsopleidingen
+#### Paragraaf 2. Aanbieden delen van opleidingen, overige verplichtingen en samenwerking met niet uit 's Rijks kas bekostigd voortgezet onderwijs
+#### Paragraaf 3. Handhaving
 ## Hoofdstuk 11a. Experimenten
 ## Hoofdstuk 12. Overgangs-, invoerings- en slotbepalingen
 ### Titel 1. Overgangsbepalingen experiment leergang vm2
@@ -93,4 +94,5 @@
 ### Titel 4. Bepalingen met betrekking tot passend onderwijs
 ### Titel 4a. Beroepsopleidingen oude stijl
 ### Titel 4b. Invoering van de Wet aanscherping eisen examencommissies in het middelbaar beroepsonderwijs
+### Titel 4c. Overgangsrecht Wet tot wijziging van de Wet educatie en beroepsonderwijs en een aantal andere wetten in verband met het verbeteren van de aansluiting van het beroepsonderwijs op de arbeidsmarkt (verbetering aansluiting beroepsonderwijs-arbeidsmarkt) (Stb. 2026, 177)
 ### Titel 5. Evaluatie, inwerkingtreding en citeertitel
