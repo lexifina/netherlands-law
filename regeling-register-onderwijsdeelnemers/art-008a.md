@@ -1,0 +1,2 @@
+# Artikel 8a. Levering basisgegevens
+Het bestuur van een onderwijsinstelling als bedoeld in artikel 1, onderdeel b, subonderdeel 3 of 4, van de LPW, of artikel 1, onderdeel b, onder 3° of 4°, van de Leerplichtwet BES levert aan de Minister het persoonsgebonden nummer en de basisgegevens van een onderwijsdeelnemer die is of was ingeschreven aan die onderwijsinstelling, overeenkomstig de specificaties en op de wijze zoals opgenomen in bijlage 2A.

@@ -1,0 +1,3 @@
+# Artikel 18a. Verstrekken gegevens van B3- en B4-onderwijsinstellingen
+1. Uit het register onderwijsdeelnemers worden voor iedere onderwijsinstelling als bedoeld in artikel 1, onderdeel b, subonderdeel 3 of 4, van de LPW, of artikel 1, onderdeel b, onder 3° of 4°, van de Leerplichtwet BES afzonderlijk aan de Minister en de inspectie de basisgegevens van onderwijsdeelnemers die aan die onderwijsinstelling ingeschreven zijn of ingeschreven zijn geweest verstrekt, met uitzondering van de persoonsgebonden nummers, de geslachtsnamen, de voornamen, de geboortedata en de adresgegevens van de onderwijsdeelnemers. De gegevens worden gespecificeerd overeenkomstig de bijlage genoemd in paragraaf 3A.
+2. De verstrekkingen, bedoeld in het eerste lid, geschieden wekelijks.
