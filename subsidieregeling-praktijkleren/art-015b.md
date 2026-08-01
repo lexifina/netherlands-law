@@ -1,0 +1,4 @@
+# Artikel 15b. Subsidieplafond
+1. Voor de verstrekking van aanvullende subsidies op grond van deze paragraaf voor mbo-praktijkplaatsen in de sectoren landbouw, horeca of recreatie, is voor de studiejaren 2020–2021 tot en met 2022–2023 jaarlijks € 10.600.000 beschikbaar en is voor het studiejaar 2023–2024 € 11.629.000 beschikbaar.
+2. Voor de verstrekking van aanvullende subsidies op grond van deze paragraaf voor mbo-praktijkleerplaatsen in sectoren die contact- en conjunctuurgevoelig zijn, is voor het studiejaar 2020–2021 € 15.800.000 beschikbaar en is voor het studiejaar 2021–2022 € 19.000.000 beschikbaar.
+3. Voor de verstrekking van aanvullende subsidies op grond van deze paragraaf voor mbo-praktijkleerplaatsen voor opleidingen als bedoeld in bijlage 4 bij deze regeling is voor studiejaar 2025–2026 € 7.000.000,– en is voor het studiejaar 2026–2027 € 8.000.000,– beschikbaar.

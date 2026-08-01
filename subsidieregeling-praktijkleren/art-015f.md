@@ -1,0 +1,6 @@
+# Artikel 15f. Aanvullende subsidie voor hbo leerwerkplek in de sectoren techniek en gezondheidszorg
+1. In aanvulling op de subsidie die wordt verstrekt aan een werkgever op grond van artikel 6, kan de Minister aanvullende subsidie verstrekken voor een gerealiseerde praktijkplaats voor een hbo-student in het kader van een duale opleiding in het hoger beroepsonderwijs als bedoeld in artikel 7.7, tweede lid, van de WHW of een deeltijdse opleiding in het hoger beroepsonderwijs waarbij de beroepsuitoefening een verplicht onderdeel vormt van de opleiding.
+2. De aanvullende subsidie kan enkel worden verstrekt voor een opleiding als bedoeld in bijlage 3.
+3. De aanvullende subsidie wordt verstrekt aan de aanvrager, wanneer deze hiervoor in aanmerking komt. De subsidieaanvraag maakt onderdeel uit van de aanvraag, bedoeld in artikel 16, juncto artikel 6.
+4. In afwijking van artikel 15 wordt het subsidiebedrag per gerealiseerde praktijkleerplaats berekend aan de hand van het beschikbare bedrag voor de desbetreffende categorie gedeeld door het aantal gerealiseerde praktijkleerplaatsen dat in aanmerking komt voor subsidie. Het subsidiebedrag van de aanvullende subsidie bedraagt ten hoogste € 2.700.
+5. De aanvullende subsidie, bedoeld in dit artikel, kan slechts worden aangevraagd voor gerealiseerde praktijkplaatsen voor de studiejaren 2020–2021 en 2021–2022.
