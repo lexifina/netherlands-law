@@ -1,0 +1,5 @@
+# Artikel 12a. Onderzoek hoger onderwijs
+1. Ter uitvoering van de in artikel 3, eerste lid, onderdelen a en c, bedoelde taken onderzoekt de inspectie met inachtneming van artikel 4 de naleving van de wettelijke voorschriften en de financiële rechtmatigheid bij instellingen voor hoger onderwijs.
+2. Ter uitvoering van de in artikel 3, eerste lid, onderdeel a, subonderdeel 1°, onderdeel b, subonderdeel 4° en onderdeel c, bedoelde taken onderzoekt de inspectie ontwikkelingen in het stelsel van hoger onderwijs.
+3. Ter uitvoering van de in artikel 3, eerste lid, onderdeel a, subonderdeel 1°, onderdeel b, subonderdeel 4° en onderdeel c, bedoelde taken kan de inspectie naar aanleiding van signalen van buitenaf die mogelijk kunnen leiden tot gevolgen op stelselniveau in incidentele gevallen onderzoek verrichten op aanwijzing van de Minister dan wel uit eigen beweging onder door Onze Minister te stellen voorwaarden.
+4. Artikel 11, vierde tot en met zesde lid, is van overeenkomstige toepassing. De artikelen 20, eerste tot en met vijfde lid, en 21 zijn van overeenkomstige toepassing, tenzij de aard of omvang van het onderzoek zich tegen openbare rapportage verzet.

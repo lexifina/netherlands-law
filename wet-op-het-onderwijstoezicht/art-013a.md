@@ -1,0 +1,2 @@
+# Artikel 13a. Informeren college burgemeester en wethouders
+Indien de inspectie oordeelt dat de kwaliteit van het onderwijs zeer zwak is, als bedoeld in artikel 10a, eerste of vierde lid, van de Wet op het primair onderwijs, artikel 19a van de Wet op de expertisecentra en artikel 2.94, eerste of derde lid, van de Wet voortgezet onderwijs 2020, informeert zij het college van burgemeester en wethouders van de gemeente waar de betreffende instelling gelegen is.
