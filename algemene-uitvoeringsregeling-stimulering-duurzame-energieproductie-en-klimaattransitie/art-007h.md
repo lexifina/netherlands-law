@@ -1,0 +1,4 @@
+# Artikel 7h
+1. Een subsidie-ontvanger draagt er zorg voor dat het meetrapport uiterlijk 20 dagen na afloop van de kalendermaand waarop het meetrapport betrekking heeft, wordt overgedragen aan de Minister.
+2. De minister stelt na ontvangst van het meetrapport op verzoek van een subsidie-ontvanger die een productie-installatie voor de productie van koolstofdioxide-arme warmte in stand houdt de nuttig aangewende koolstofdioxide-arme warmte in MWh vast.
+3. Indien de subsidie-ontvanger die een productie-installatie voor de productie van koolstofdioxide-arme warmte in stand houdt, gebruik maakt van warmte afkomstig van een andere bron, draagt de subsidie-ontvanger er zorg voor dat het meetbedrijf de hoeveelheid gebruikte warmte in mindering brengt op de hoeveelheid geproduceerde koolstofdioxide-arme warmte.

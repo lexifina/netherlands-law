@@ -1,0 +1,6 @@
+# Artikel 7l
+1. Dit artikel is van toepassing indien een subsidie-ontvanger met een productie-installatie koolstofdioxide afvangt, permanent opslaat, doet opslaan of gebruikt, waarbij gebruik wordt gemaakt van vloeibaar transport.
+2. De subsidie-ontvanger overlegt aan de Minister een verificatierapport dat betrekking heeft op het voorgaande kalenderjaar, van een verificateur als bedoeld in artikel 3, onderdeel 3, van de Verordening verificatie en accreditatie emissiehandel uiterlijk vier maanden na afloop van het kalenderjaar waarop het verificatierapport betrekking heeft.
+3. Voor het opstellen van het verificatierapport wordt gebruikgemaakt van een door de Minister beschikbaar gesteld middel.
+4. Indien de subsidie-ontvanger met de productie-installatie koolstofdioxide afvangt en permanent opslaat of doet opslaan, blijkt uit het verificatierapport dat de gemeten hoeveelheden koolstofdioxide, beschreven in het meetrapport, bedoeld in artikel 7g, permanent zijn opgeslagen.
+5. Indien de subsidie-ontvanger met de productie-installatie koolstofdioxide afvangt en gebruikt, blijkt uit het verificatierapport dat de gemeten hoeveelheden koolstofdioxide, beschreven in het meetrapport, bedoeld in artikel 7g, nuttig zijn aangewend.
