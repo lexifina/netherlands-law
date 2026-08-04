@@ -1,0 +1,5 @@
+# Artikel 1af
+1. Gelet op artikel 1 van deze regeling en het daarin opgenomen verbod om te handelen in strijd met artikel 1 sexies, tweede lid, artikel 1 septies, tweede lid, en artikel 1 vicies bis, vierde lid, van Verordening (EU) nr. 765/2006, is het verboden om zonder ontheffing van de Minister van Onderwijs, Cultuur en Wetenschap gespecialiseerde kennis te verstrekken aan personen over de in de bij deze regeling behorende bijlage vermelde gebieden van onderwijs en onderzoek.
+2. Het eerste lid strekt zich niet uit tot de verstrekking van kennis in het kader van bacheloropleidingen en associate degree-opleidingen als bedoeld in artikel 7.3a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
+3. De Minister van Onderwijs, Cultuur en Wetenschap is de verwerkingsverantwoordelijke in de zin van de Algemene verordening gegevensbescherming ter uitvoering van de taak, bedoeld in het eerste lid.
+4. Voor zover deze noodzakelijk zijn voor een doelmatige en doeltreffende uitvoering van de taak, bedoeld in het eerste lid, kunnen bijzondere persoonsgegevens worden verwerkt.
