@@ -6,6 +6,7 @@ Bankwet 1998: artikel 9c, eerste en tweede lid
 Burgerlijk Wetboek:
 a. Boek 2: de artikelen 63d, tweede lid, 156 en 266
 b. Boek 8: titel 6, afdeling 5
+Cyberbeveiligingswet, voor zover het een besluit betreft dat betrekking heeft op een essentiële entiteit of belangrijke entiteit in de sector energie, bankwezen, infrastructuur voor de financiële markt, digitale infrastructuur, beheer van ICT-diensten (business-to-business), post- en koeriersdiensten of productie, verwerking en distributie van levensmiddelen, of de subsector spoor of vervaardiging van medische hulpmiddelen en medische hulpmiddelen voor in-vitrodiagnostiek
 Drinkwaterwet: artikel 50, derde lid, in samenhang met artikel 70a van de Mededingingswet
 Energiewet: de artikelen 3.33, tweede lid, onderdeel e, 5.19, en 5.21
 Handelsregisterwet 2007: de artikelen 47a en 47b
@@ -40,7 +41,6 @@ Warenwet
 Warmtewet: artikel 18
 Wet bekostiging financieel toezicht
 Wet bestrijding maritieme ongevallen
-Wet beveiliging netwerk- en informatiesystemen, voor zover het een besluit betreft dat betrekking heeft op een aanbieder van een essentiële dienst in de sectoren energie, digitale infrastructuur, bankwezen, infrastructuur voor de financiële markt, gezondheidszorg en spoor of op een digitaledienstverlener
 Wet dieren: artikel 8.7
 Wet financiële betrekkingen buitenland 1994
 Wet geneesmiddelenprijzen: artikel 11
@@ -73,3 +73,4 @@ Wet veiligheidstoets investeringen, fusies en overnames
 Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen: een besluit genomen door een van de in artikel 30, eerste lid, genoemde bestuursorganen, waarin toepassing of mede toepassing is gegeven aan artikel 26
 Wet verplichte beroepspensioenregeling
 Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000
+Wet weerbaarheid kritieke entiteiten, voor zover het een besluit betreft dat betrekking heeft op een kritieke entiteit in de sector energie, bankwezen, infrastructuur voor de financiële markt, digitale infrastructuur of productie, verwerking en distributie van levensmiddelen, of de subsector spoor

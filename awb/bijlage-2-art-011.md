@@ -5,6 +5,7 @@ Aanbestedingswet op defensie- en veiligheidsgebied, artikel 3.8
 Algemene wet bestuursrecht: artikel 4:126, voor zover het besluit betrekking heeft op schade, veroorzaakt door een besluit op grond van een ander voorschrift, genoemd in artikel 11 van deze Bevoegdheidsregeling bestuursrechtspraak, of door een handeling ter uitvoering van een zodanig besluit
 Bankwet 1998: artikel 9c, eerste en tweede lid
 Burgerlijk Wetboek: de artikelen 63d, tweede lid, 156 en 266 van Boek 2
+Cyberbeveiligingswet, voor zover het een besluit betreft dat betrekking heeft op een essentiële entiteit of belangrijke entiteit in de sector energie, bankwezen, infrastructuur voor de financiële markt, digitale infrastructuur, beheer van ICT-diensten (business-to-business), post- en koeriersdiensten of productie, verwerking en distributie van levensmiddelen, of de subsector spoor
 Drinkwaterwet: artikel 50, derde lid, in samenhang met artikel 70a van de Mededingingswet
 Energiewet: de artikelen 3.33, tweede lid, onderdeel e, 5.19, en 5.21
 Handelsregisterwet 2007: de artikelen 47a en 47b
@@ -45,7 +46,6 @@ Wet aanwijzing nationale accreditatie-instantie: hoofdstuk 3
 Wet bekostiging financieel toezicht
 Wet bestrijding maritieme ongevallen
 Wet bestuurlijke boete meldingsplichten door ministers verstrekte subsidies, voor zover de boete is opgelegd ter zake van het niet voldoen aan een bijzondere meldingsplicht die is verbonden aan een krachtens de Kaderwet EZK- en LNV-subsidies verstrekte subsidie
-Wet beveiliging netwerk- en informatiesystemen, voor zover het een besluit betreft dat betrekking heeft op een aanbieder van een essentiële dienst in de sectoren energie, digitale infrastructuur, bankwezen, infrastructuur voor de financiële markt en spoor of op een digitaledienstverlener
 Wet dieren: artikel 8.7
 Wet financiële betrekkingen buitenland 1994
 Wet geneesmiddelenprijzen: artikel 11
@@ -79,3 +79,4 @@ Wet veiligheidstoets investeringen, fusies en overnames
 Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen: een besluit genomen door een van de in artikel 30, eerste lid, genoemde bestuursorganen, waarin toepassing of mede toepassing is gegeven aan artikel 26
 Wet verplichte beroepspensioenregeling
 Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000
+Wet weerbaarheid kritieke entiteiten, voor zover het een besluit betreft dat betrekking heeft op een kritieke entiteit in de sector energie, bankwezen, infrastructuur voor de financiële markt, digitale infrastructuur of productie, verwerking en distributie van levensmiddelen, of de subsector spoor
