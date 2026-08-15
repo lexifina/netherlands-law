@@ -52,7 +52,7 @@
 ### § 11.2. Nummeridentificatie
 ### § 11.3. Ontheffing
 ### § 11.4. Uitzonderingen
-## Hoofdstuk 11a. Continuïteit
+## Hoofdstuk 11a. Beveiligingsmaatregelen
 ## Hoofdstuk 12. Geschillen
 ### § 12.1. Geschilbeslechting door geschillencommissie
 ### § 12.2. Geschilbeslechting door de Autoriteit Consument en Markt
