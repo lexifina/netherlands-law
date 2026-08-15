@@ -1,0 +1,3 @@
+# Artikel 47b. (voorhangprocedure)
+1. De voordracht voor een krachtens deze wet vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
+2. Indien zwaarwegende belangen van nationale veiligheid of openbare veiligheid toepassing van het eerste lid verhinderen, kan de voordracht, anders dan van een krachtens artikel 15, vijfde lid, vast te stellen algemene maatregel van bestuur, onverwijld worden gedaan. In dat geval wordt aan beide Kamers der Staten-Generaal gelijktijdig een gemotiveerde mededeling gedaan.
