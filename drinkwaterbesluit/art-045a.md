@@ -1,0 +1,3 @@
+# Artikel 45a. (nadere regels met betrekking tot maatregelen als bedoeld in artikel 44 van de wet)
+1. In geval van overschrijding van de drempelwaarde voor lekverliezen, bedoeld in artikel 4, derde lid, een na laatste alinea, van de Drinkwaterrichtlijn, stelt de eigenaar van een drinkwaterbedrijf maatregelen vast ter vermindering van het lekkagepercentage met de termijnen voor het realiseren daarvan en maakt hij deze maatregelen en termijnen kenbaar aan Onze Minister overeenkomstig artikel 44, eerste lid, van de wet.
+2. In geval van overschrijding van de drempelwaarde, bedoeld in het eerste lid, worden de verplichtingen, bedoeld in dat lid, voor de eerste maal uitgevoerd voor 1 januari 2029.
