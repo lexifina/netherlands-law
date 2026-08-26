@@ -1,0 +1,4 @@
+# Artikel 14a. Tegemoetkoming inkomensafhankelijke bijdrage Zorgverzekeringswet (ZVW)
+1. Aan de gewezen militair die met toepassing van het Sociaal Beleidskader overtolligheidsontslag is verleend en die in verband met dat ontslag recht heeft op een aanvullende of aansluitende uitkering, wordt een tegemoetkoming in de inkomensafhankelijke bijdrage Zorgverzekeringswet toegekend.
+2. De tegemoetkoming bedraagt het verschil in inkomensafhankelijke bijdrage aan de Zorgverzekeringswet voor degene die recht heeft op een aanvullende of aansluitende uitkering en de inkomensafhankelijke bijdrage aan de Zorgverzekeringswet voor degene die recht heeft op een uitkering ingevolge de Uitkeringswet gewezen militairen.
+3. De tegemoetkoming wordt eenmaal per kalenderjaar in januari verstrekt, zolang de aanvullende of aansluitende uitkering duurt.

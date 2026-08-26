@@ -1,0 +1,2 @@
+# Artikel 18b. Overgangsbepaling begripsomschrijving pensioengerechtigde leeftijd
+In afwijking van artikel 1 wordt verstaan onder pensioengerechtigde leeftijd: de leeftijd van 65 jaar, voor de militair aan wie voor 1 januari 2017 ontslag is verleend, of die een aanvraag heeft ingediend als bedoeld in artikel 39a, eerste tot en met vierde lid, van het Algemeen militair ambtenarenreglement, alsmede voor de ambtenaar aan wie voor 1 januari 2018 ontslag is verleend.
