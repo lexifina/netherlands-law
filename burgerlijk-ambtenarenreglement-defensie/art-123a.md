@@ -1,0 +1,6 @@
+# Artikel 123a
+1. Aan de ambtenaar die in verband met ongeschiktheid ten gevolge van ziekte verhinderd is zijn arbeid te verrichten, kan door de bevoegde autoriteit, bedoeld in artikel 112, eerste of tweede lid, in afwijking van artikel 121, derde lid, onderdeel a, ontslag worden verleend, indien hij zonder deugdelijke grond weigert:
+a. gevolg te geven aan door Onze Minister of een door Onze Minister aangewezen deskundige gegeven redelijke voorschriften mee te werken aan door Onze Minister of een door Onze Minister aangewezen deskundige getroffen maatregelen om hem in staat te stellen de eigen of andere passende arbeid als bedoeld in artikel 54a, onderdeel j, te verrichten,
+b. passende arbeid als bedoeld in artikel 54a, onderdeel j, te verrichten waartoe Onze Minister hem in de gelegenheid stelt, dan wel
+c. zijn medewerking te verlenen aan het opstellen, evalueren en bijstellen van een plan van aanpak als bedoeld in artikel 71a, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering.
+2. Om te beoordelen of er sprake is van een situatie als bedoeld in het eerste lid, wint Onze Minister een hierop betrekking hebbend advies van de UWV, bedoeld in artikel 54a, onderdeel i, in en neemt dit mede in beschouwing.

@@ -1,0 +1,4 @@
+# Artikel 103c
+1. De commissie bestaat uit vijf leden onder wie de voorzitter. Voorts kunnen een plaatsvervangend voorzitter en plaatsvervangende leden worden benoemd. De plaatsvervangend voorzitter wordt uit de leden benoemd.
+2. De voorzitter en de andere leden, alsmede hun plaatsvervangers worden bij koninklijk besluit op voordracht van Onze Minister benoemd en ontslagen. Onze Minister stelt de centrales van overheidspersoneel die deel uitmaken van de Sectorcommissie Defensie, bedoeld in artikel 4 van het Besluit georganiseerd overleg sector defensie, in de gelegenheid voorstellen te doen voor leden, alsmede hun plaatsvervangers.
+3. De voorzitter en de andere leden, alsmede hun plaatsvervangers, worden benoemd voor een periode van ten hoogste vier jaar. Herbenoeming kan tweemaal en telkens voor ten hoogste vier jaar plaatsvinden.

@@ -1,0 +1,11 @@
+# Artikel 46c. Buitengewoon verlof bij calamiteiten en zeer bijzondere persoonlijke omstandigheden
+1. Onverminderd artikel 4:1 van de Wet arbeid en zorg wordt door de commandant aan de ambtenaar buitengewoon verlof met behoud van volle bezoldiging verleend:
+a. bij plotselinge ziekte van de echtgenote of echtgenoot van de ambtenaar, de persoon met wie de ambtenaar ongehuwd samenwoont of een van zijn bloed- of aanverwanten in de eerste graad of wanneer een andere noodsituatie, waarvoor de ambtenaar onverwijld een voorziening moet treffen, ontstaat: voor de duur benodigd voor de eerste opvang en het treffen van verdere voorzieningen, maar voor ten hoogste één werkdag per zich voordoende situatie;
+b. bij de bevalling van zijn echtgenote of de persoon met wie de ambtenaar ongehuwd samenwoont;
+c. bij overlijden en lijkbezorging van de echtgenote of echtgenoot van de ambtenaar, de persoon met wie de ambtenaar ongehuwd samenwoont of een van zijn bloed- en aanverwanten in de eerste graad: vanaf het overlijden tot en met de dag van de begrafenis of de crematie en indien sprake is van bijzondere godsdienstige plechtigheden zoveel werkdagen als benodigd om overeenkomstig de bepalingen van die godsdienst rouwceremoniën te verrichten;
+d. bij overlijden van:
+1°. bloed- of aanverwanten in de 2e graad, dan wel van pleegbroers of -zusters: voor ten hoogste 2 werkdagen;
+2°. bloed- of aanverwanten in de 3e of 4e graad of een van zijn huisgenoten: voor 1 werkdag,
+met dien verstande dat indien de ambtenaar is belast met de regeling van de begrafenis, de crematie of van de nalatenschap dan wel van beide, het verlof voor ten hoogste 4 werkdagen kan worden verleend en indien sprake is van bijzondere godsdienstige plechtigheden zoveel werkdagen als benodigd om overeenkomstig de bepalingen van die godsdienst rouwceremoniën te verrichten.
+2. De ambtenaar meldt vooraf aan de commandant dat hij het verlof, bedoeld in het eerste lid, opneemt onder opgave van de reden. Indien dit niet mogelijk is, meldt de ambtenaar het opnemen van het verlof zo spoedig mogelijk aan de commandant onder opgave van de reden.
+3. De commandant kan achteraf van de ambtenaar verlangen dat hij aannemelijk maakt dat hij geen dienst heeft kunnen verrichten wegens een van de redenen genoemd in het eerste lid.

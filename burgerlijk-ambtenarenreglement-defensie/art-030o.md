@@ -1,0 +1,5 @@
+# Artikel 30o. Arbeidsduur
+1. De arbeidsduur van de ambtenaar van 18 jaar of ouder bedraagt ten hoogste 10 uren per dienst, in elke periode van 4 achtereenvolgende weken ten hoogste gemiddeld 50 uren per week en in elke periode van 13 achtereenvolgende weken ten hoogste gemiddeld 45 uren per week.
+2. De commandant dient over de toepassing van het eerste lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang het noodzakelijk maakt dat de ambtenaar meer dan 9 uren per dienst of meer dan 45 uren per week arbeid verricht.
+3. Indien het eerste en tweede lid niet wordt toegepast, dan bedraagt de arbeidsduur ten hoogste 9 uren per dienst, ten hoogste 45 uren per week en ten hoogste gemiddeld 40 uren per week in elke periode van 13 achtereenvolgende weken.
+4. De arbeidsduur van de jeugdige ambtenaar bedraagt ten hoogste 9 uren per dienst, ten hoogste 45 uren per week en in elke periode van 4 achtereenvolgende weken ten hoogste gemiddeld 40 uren per week.

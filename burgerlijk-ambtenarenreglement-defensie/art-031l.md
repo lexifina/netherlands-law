@@ -1,0 +1,11 @@
+# Artikel 31l. Aanwezigheidsdienst brandweer
+1. Dit artikel is uitsluitend van toepassing op de ambtenaar van 18 jaar of ouder die met goed gevolg een brandweeropleiding heeft afgesloten en die als zodanig werkzaam is, alsmede de ambtenaar van 18 jaar of ouder die in directe samenhang met voornoemde ambtenaar arbeid verricht.
+2. In afwijking van artikel 31j, tweede lid, kan de commandant de ambtenaar ten hoogste 4 maal in elke aaneengesloten tijdruimte van 7 maal 24 uren, ten hoogste 46 maal in elke periode van 13 achtereenvolgende weken en ten hoogste 124 maal in elke periode van 52 achtereenvolgende weken een aanwezigheidsdienst opleggen.
+3. Indien het tweede lid wordt toegepast dan:
+a. heeft de ambtenaar vóór en ná een aanwezigheidsdienst een onafgebroken rusttijd van ten minste 11 uren, welke rusttijd éénmaal in elke aaneengesloten tijdruimte van 7 maal 24 uren mag worden ingekort tot ten minste 8 uren;
+b. bedraagt de arbeidsduur ten hoogste 10 uren in elke periode van 24 achtereenvolgende uren en in elke periode van 13 achtereenvolgende weken ten hoogste gemiddeld 45 uren per week.
+4. Het derde lid, onderdeel a, blijft buiten toepassing, indien zich incidentele en onvoorziene omstandigheden voordoen waardoor het aantal ambtenaren dat nodig is onder het vereiste minimum komt, die een dergelijke afwijking noodzakelijk maakt.
+5. Voor de toepassing van dit artikel geldt de tijd tijdens een aanwezigheidsdienst, waarbij de dienst van de ambtenaar zich uitsluitend beperkt tot de verplichte aanwezigheid op de werkplek, als rusttijd.
+6. Voor de toepassing van het derde lid, onderdeel b, vangt de arbeidsduur aan op het moment van de oproep. Indien binnen een half uur na beëindiging van de arbeid die voortvloeit uit een oproep opnieuw een oproep wordt gedaan, wordt de tussenliggende tijd gerekend tot de arbeidsduur. Indien binnen een half uur één of meer keren arbeid voortvloeiend uit een oproep wordt verricht, wordt de arbeidsduur geacht ten minste een half uur te bedragen.
+7. De arbeid die voortvloeit uit een oproep wordt voor de toepassing van de in dit hoofdstuk opgenomen bepalingen ten aanzien van rusttijd en pauze buiten beschouwing gelaten.
+8. Op de arbeid die voortvloeit uit een oproep zijn de bepalingen in paragraaf 5, ten aanzien van het aantal malen dat arbeid in nachtdienst wordt verricht, niet van toepassing.

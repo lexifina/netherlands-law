@@ -1,0 +1,4 @@
+# Artikel 30z. Referentieperiode
+1. In afwijking van artikel 30s, eerste lid, en artikel 30t, tweede lid, ten aanzien van het gemiddeld aantal uren per week in elke periode van 13 achtereenvolgende weken dat arbeid in nachtdienst wordt verricht, kan de commandant dit artikel toepassen.
+2. Indien zich een onvoorziene wijziging van omstandigheden voordoet of de aard van de arbeid het noodzakelijk maakt dat de ambtenaar van 18 jaar of ouder slechts incidenteel of voor korte tijd arbeid in nachtdienst verricht en dit door het op een andere wijze organiseren van de arbeid redelijkerwijs niet is te voorkomen, verricht de ambtenaar in elke periode van 52 achtereenvolgende weken gemiddeld 40 uren per week arbeid.
+3. De commandant dient over de toepassing van het eerste en tweede lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.

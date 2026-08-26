@@ -1,0 +1,3 @@
+# Artikel 98l
+1. Indien de afdeling onderzoek van het Huis voor klokkenluiders aan het bevoegd gezag in haar rapport een aanbeveling doet als bedoeld in artikel 17, tweede lid, onder c, van de Wet bescherming klokkenluiders, stelt de commandant de melder, al dan niet via de vertrouwenspersoon integriteit, en de persoon of personen op wie de melding betrekking heeft, uiterlijk binnen twaalf weken na openbaarmaking van het rapport schriftelijk in kennis van zijn standpunt dienaangaande en de eventuele consequenties die het daaraan verbindt. Een afschrift wordt gezonden naar het hoofd defensieonderdeel, de Secretaris-Generaal en de COID.
+2. Als het standpunt en de consequenties afwijken van de aanbeveling, vermeldt de Secretaris-Generaal de reden voor de afwijking.

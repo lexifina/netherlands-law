@@ -1,0 +1,4 @@
+# Artikel 31b. Overdracht van diensten
+1. De commandant kan, in afwijking van de in dit hoofdstuk opgenomen bepalingen ten aanzien van de arbeidsduur per dienst onderscheidenlijk per nachtdienst en de onafgebroken rusttijd, dit artikel toepassen.
+2. De arbeidsduur per dienst of per nachtdienst onderscheidenlijk de onafgebroken rusttijd wordt met ten hoogste 15 achtereenvolgende minuten verlengd onderscheidenlijk ingekort, indien de arbeid van de ambtenaar van 18 jaar of ouder aan het eind van de dienst wordt overgenomen en direct daaropvolgend worden voortgezet door een andere ambtenaar en de goede voortgang van die arbeid overdracht noodzakelijk maakt.
+3. Op de afwijking bedoeld in het tweede lid zijn de artikelen 30v, 30w en 30x, ten aanzien van het aantal malen dat arbeid in nachtdienst wordt verricht, niet van toepassing.

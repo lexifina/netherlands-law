@@ -1,0 +1,5 @@
+# Artikel 31o. Arbeidsduur op zaterdag en zondag
+1. In afwijking van artikel 30o, eerste lid, en artikel 30s, eerste lid, ten aanzien van de arbeidsduur per dienst onderscheidenlijk per nachtdienst, en artikel 30u, eerste lid, ten aanzien van de onafgebroken rusttijd na een nachtdienst, kan de commandant dit artikel toepassen.
+2. De ambtenaar verricht in de tijdruimte gelegen tussen vrijdag 18.00 uur en de daaropvolgende maandag 08.00 uur ten hoogste 11 uren per dienst onderscheidenlijk per nachtdienst arbeid.
+3. Indien het eerste en tweede lid wordt toegepast heeft de ambtenaar na het verrichten van die arbeid een onafgebroken rusttijd van ten minste 12 uren, en verricht hij ten minste 2 maal in elke periode van 4 achtereenvolgende weken geen arbeid in de tijdruimte gelegen tussen zaterdag 00.00 uur en de daaropvolgende maandag 06.00 uur.
+4. De commandant dient over de toepassing van het eerste en tweede lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.

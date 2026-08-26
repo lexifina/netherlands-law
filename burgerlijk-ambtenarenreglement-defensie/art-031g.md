@@ -1,0 +1,5 @@
+# Artikel 31g. Werk- en rusttijden op bepaalde dagen
+1. Op zaterdag en zondag wordt aan de ambtenaar geen arbeid opgedragen. Hiervan kan slechts worden afgeweken indien naar het oordeel van de commandant het dienstbelang zulks onvermijdelijk maakt. Indien de jeugdige ambtenaar op zondag arbeid verricht, dan wordt door hem op de dag voorafgaande aan die zondag geen dienst verricht.
+2. Het eerste lid geldt mede voor Nieuwjaarsdag, Eerste en Tweede Paasdag, Hemelvaartsdag, Eerste en Tweede Pinksterdag, Eerste en Tweede Kerstdag, Koninginnedag en 5 mei en de door Onze Minister aan te wijzen feest- of gedenkdagen.
+3. De ambtenaar verricht geen arbeid op ten minste 26 zondagen per periode van 52 weken.
+4. Indien naar het oordeel van de commandant de belangen van de dienst zich hiertegen niet verzetten, wordt de ambtenaar, aan wie op een zondag of een dag als bedoeld in het tweede lid, dienst is opgedragen, tijdens de werktijd in de gelegenheid gesteld de godsdienstuitoefening van de gezindte waartoe hij behoort bij te wonen.

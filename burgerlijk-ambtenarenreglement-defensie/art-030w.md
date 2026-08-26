@@ -1,0 +1,3 @@
+# Artikel 30w. Aantal nachtdiensten die eindigen ná 02.00 uur
+1. De ambtenaar van 18 jaar of ouder verricht in elke periode van 13 achtereenvolgende weken niet meer dan ten hoogste 28 maal arbeid in nachtdienst, indien de arbeid eindigt ná 02.00 uur.
+2. De commandant dient over de toepassing van het eerste lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang het noodzakelijk maakt dat de ambtenaar in elke periode van 4 achtereenvolgende weken meer dan 10 maal en in elke periode van13 achtereenvolgende weken meer dan 25 maal arbeid in nachtdienst verricht, indien die arbeid eindigt ná 02.00 uur.

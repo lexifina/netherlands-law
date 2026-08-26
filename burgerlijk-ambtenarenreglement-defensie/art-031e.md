@@ -1,0 +1,4 @@
+# Artikel 31e. Consignatie tijdens pauze
+1. De commandant kan van het bepaalde in artikel 30a, onderdeel h, en artikel 31j, tweede lid, afwijken, indien de aard van de arbeid van de ambtenaar van 18 jaar of ouder het noodzakelijk maakt dat hij tijdens de pauze bereikbaar is onderscheidenlijk op de werkplek aanwezig is om op oproep zo spoedig mogelijk die arbeid te verrichten, en dit door het op een andere wijze organiseren van de arbeid redelijkerwijs niet is te voorkomen.
+2. De commandant dient over de toepassing van het eerste lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.
+3. Voor de toepassing van het eerste lid geldt de tijd tijdens de werkplekgebonden pauze waarop de arbeid van de ambtenaar zich uitsluitend beperkt tot de verplichte aanwezigheid op de werkplek, als pauze.
