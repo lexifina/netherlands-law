@@ -1,0 +1,3 @@
+# Artikel 10c. Inschaling salaristabel bij transitie
+1. Het hoofd defensieonderdeel kent aan de militair die op 1 januari 2023 reeds was aangesteld en op wie met ingang van 1 januari 2023 de salaristabel van toepassing is met gebruikmaking van de salaristabel een salaristrede toe binnen de bij diens rang behorende salarisschaal op basis van de transitietabel, bedoeld in bijlage C.
+2. De maand waarin de jaarlijkse verhoging van de salaristrede op grond van artikel 7c, tweede lid, plaatsvind, blijft voor de militair, bedoeld in het eerste lid, gelijk aan die van voor de transitie op 1 januari 2023.

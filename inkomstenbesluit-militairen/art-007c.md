@@ -1,0 +1,6 @@
+# Artikel 7c. Jaarlijkse verhoging salaristrede
+1. De salaristrede van de militair op wie de salaristabel van toepassing is, wordt met gebruikmaking van deze salaristabel en voor zover de maximale salaristrede van de voor de militair van toepassing zijnde salarisschaal nog niet is bereikt, jaarlijks met één salaristrede verhoogd, indien de militair naar het oordeel van het hoofd defensieonderdeel de functie naar behoren vervult.
+2. De verhoging van de salaristrede, bedoeld in het eerste lid, vindt voor de eerste maal plaats met ingang van de eerste dag van de maand waarin een jaar is verstreken sinds de overgang van de opleidingstabel naar de salaristabel, bedoeld in artikel 7b, eerste of tweede lid, en nadien telkens na één jaar.
+3. Het hoofd defensieonderdeel kan, in aanvulling op het eerste lid, een verhoging van één of meer salaristredes toekennen binnen de salarisschaal behorend bij diens rang toekennen aan de militair, indien de militair naar het oordeel van het hoofd defensieonderdeel de functie zeer goed of uitstekend vervult.
+4. De verhoging, bedoeld in het derde lid, kan op elk gewenst moment plaatsvinden zonder dat dit van invloed is op de maand, bedoeld in het tweede lid.
+5. Het hoofd defensieonderdeel kan de verhoging van de salaristrede, bedoeld in het eerste lid, achterwege laten, indien de militair niet naar behoren functioneert.

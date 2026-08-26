@@ -1,0 +1,5 @@
+# Artikel 23d. Pseudo-pensioenpremietoelage officieren-medisch specialist
+1. Over de toelage bedoeld in artikel 23a, eerste lid, onderdeel i, wordt, zolang niet is uitgesloten dat aan de in dat onderdeel bedoelde voorwaarde zal worden voldaan, een pseudo-pensioenpremie ingehouden, overeenkomstig de pensioenbijdrage die verhaald zou zijn, indien die toelage tot zijn pensioengrondslag zou behoren.
+2. De in het eerste lid bedoelde pseudo-pensioenpremie is verschuldigd, totdat blijkt dat aan de in artikel 23a, eerste lid, onderdeel i, bedoelde voorwaarde is voldaan.
+3. De in het eerste lid bedoelde pseudo-pensioenpremie over de toelage wordt aan de militair gerestitueerd, zodra die toelage niet meer wordt genoten en is uitgesloten dat aan de in artikel 23a, eerste lid, onderdeel i, bedoelde voorwaarde zal worden voldaan.
+4. Het derde lid is van overeenkomstige toepassing indien de militair komt te overlijden en niet aan de in artikel 23a, eerste lid, onderdeel i, bedoelde voorwaarde is voldaan.

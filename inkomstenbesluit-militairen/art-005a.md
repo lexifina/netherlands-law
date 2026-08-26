@@ -1,0 +1,2 @@
+# Artikel 5a. Bijzondere bepaling militairen met de rang van korporaal
+De militair, bedoeld in artikel 32 van het Algemeen militair ambtenarenreglement, die vijf jaar voor de ontslagleeftijd nog steeds de rang van korporaal bekleedt en het niet mogelijk is geweest om voor die datum een functie toe te wijzen waaraan een hogere rang is verbonden, behoudt diens rang met dien verstande dat de militair vanaf dat moment ten minste een onderofficierssalaris ontvangt dat wordt vastgesteld met toepassing van artikel 4 jo. artikel 5.
