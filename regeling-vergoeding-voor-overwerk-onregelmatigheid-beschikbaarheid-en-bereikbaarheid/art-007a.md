@@ -1,0 +1,7 @@
+# Artikel 7a. Vergoeding voor beperking van bewegingsvrijheid
+1. Aan de militair met de rang van luitenant ter zee der 1e klasse dan wel majoor, of met een lagere rang dan wel zonder rang op wie de bij of krachtens artikel 60b van het AMAR bedoelde verplichting wordt opgelegd zich op een bepaalde plaats beschikbaar of bereikbaar te houden, dan wel binnen een bepaald gebied te verblijven en/of zich op bepaalde tijdstippen te melden met het oog op eventuele dienstverrichting, wordt een vergoeding toegekend, voor zover deze verplichting wordt opgelegd op buiten de voor hem vastgestelde werktijden.
+2. Indien de plaats, bedoeld in het eerste lid, een schip, een kazerne, het gebouw waar de militair tewerkgesteld of een andere in dit verband door de commandant aan te wijzen plaats, niet zijnde de woning van de militair of de plaats waar de militair gewoonlijk de nacht geacht wordt door te brengen, is, bedraagt de vergoeding per dagdeel € 2,65.
+3. Indien de plaats, bedoeld in het eerste lid, de woning van de militair of de plaats waar de militair gewoonlijk de nacht geacht wordt door te brengen is, dan wel indien aan hem de verplichting wordt opgelegd binnen een bepaald gebied te verblijven en/of zich op bepaalde tijdstippen te melden, bedraagt de vergoeding per dagdeel:
+a. op een ZZF-dag: € 4,10;
+b. op overige dagen: € 2,02.
+4. Voor de toepassing van dit artikel telt een periode van 2 uur tot 4 uur voor een dagdeel en geeft een periode korter dan 2 uur geen aanspraak op vergoeding.
