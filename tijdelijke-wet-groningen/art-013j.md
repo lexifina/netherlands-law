@@ -1,0 +1,22 @@
+# Artikel 13j
+1. Onze Minister neemt binnen een in overleg met de eigenaar te bepalen redelijke termijn, maar uiterlijk binnen één jaar na de dagtekening van de beoordeling, bedoeld in artikel 13i, derde lid, een versterkingsbesluit dat in ieder geval bevat:
+a. een overzicht van de te treffen versterkingsmaatregelen die nodig zijn om een gebouw aan de veiligheidsnorm te laten voldoen;
+b. de aanspraak van de eigenaar op vergoeding van de kosten voor de voorbereiding of de uitvoering van de versterkingsmaatregelen, bedoeld in onderdeel a;
+c. de aanspraak van de eigenaar op vergoeding van door de eigenaar geleden schade die een direct gevolg is van:
+1°. de beoordeling of het gebouw aan de veiligheidsnorm voldoet;
+2°. de voorbereiding en uitvoering van de versterkingsmaatregelen.
+2. In bijzondere gevallen verband houdende met de complexiteit daarvan of het aantal te nemen besluiten kan de termijn, genoemd in het eerste lid, eenmaal worden verlengd met een redelijke termijn.
+3. Bij of krachtens algemene maatregel van bestuur worden gevallen aangewezen waarvoor de redelijke termijn, bedoeld in het eerste lid, maximaal zes maanden bedraagt en waarvoor de verlenging, bedoeld in het tweede lid, maximaal zes maanden bedraagt.
+4. In afwijking van het eerste lid, onderdeel a, kan een versterkingsbesluit voor een beschermd monument een overzicht van de te treffen maatregelen bevatten waardoor de veiligheid verbetert, maar met het oog op het behoud van de monumentale waarden niet volledig wordt voldaan aan de veiligheidsnorm.
+5. In een versterkingsbesluit kunnen op verzoek van de eigenaar andere maatregelen worden opgenomen om een gebouw aan de veiligheidsnorm te laten voldoen dan de versterkingsmaatregelen. Onze Minister bepaalt in hoeverre de extra kosten daarvan voor rekening van de eigenaar komen.
+6. In een versterkingsbesluit kunnen op verzoek van de eigenaar werkzaamheden worden opgenomen die niet noodzakelijk zijn om een gebouw aan de veiligheidsnorm te laten voldoen, indien deze werkzaamheden geen onredelijke vertraging opleveren voor het laten voldoen van het gebouw of andere gebouwen aan de veiligheidsnorm. Onze Minister bepaalt in hoeverre de werkzaamheden worden uitgevoerd voor rekening van de eigenaar.
+7. Onze Minister verbindt aan het versterkingsbesluit de voorwaarde dat de aanspraak, bedoeld in het eerste lid, onderdeel b, vervalt, tenzij dit zou leiden tot een onbillijkheid van overwegende aard, indien:
+a. door de exploitant met de eigenaar of diens vertegenwoordiger een vaststellingsovereenkomst is gesloten;
+b. door de eigenaar of diens vertegenwoordiger met de exploitant onderhandeld wordt met het doel te komen tot een vergoeding van de kosten van de versterkingsmaatregelen;
+c. door de eigenaar een vordering is ingesteld bij de burgerlijke rechter, tenzij de vordering bij de burgerlijke rechter met instemming van de gedaagde door de eigenaar wordt ingetrokken;
+d. de burgerlijke rechter uitspraak heeft gedaan over de aanspraak op en de omvang van de vergoeding van de kosten van de versterkingsmaatregelen.
+8. Onze Minister kan bij de aanspraak, bedoeld in het eerste lid, onderdeel b, voor zover de versterkingsmaatregelen tevens voorzien in herstel van schade en dit redelijk is, rekening houden met de door het Instituut uitgekeerde of uit te keren vergoeding van deze schade.
+9. Het overzicht van de te treffen versterkingsmaatregelen, bedoeld in het eerste lid, onderdeel a, en de aanspraak, bedoeld in het eerste lid, onderdeel b, wordt zodanig vastgesteld dat het gebouw na uitvoering van de versterkingsmaatregelen van dezelfde aard is en ten minste vergelijkbare gebruiksoppervlakte en gebruiksmogelijkheden heeft als de situatie voor de uitvoering van die maatregelen, tenzij op verzoek van de eigenaar andere maatregelen worden genomen.
+10. Onze Minister kan naast de voorwaarde, bedoeld in het zevende lid, aan het versterkingsbesluit andere voorwaarden verbinden.
+11. Indien het versterkingsbesluit betrekking heeft op een rijksmonument zendt Onze Minister onmiddellijk na de bekendmaking van het versterkingsbesluit een afschrift van dat besluit aan Onze Minister van Onderwijs, Cultuur en Wetenschap en, indien het rijksmonument is gelegen buiten de bebouwde kom aan betrokken gedeputeerde staten.
+12. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de aanspraak, bedoeld in het eerste lid, onderdeel b, en kunnen nadere regels worden gesteld over het bepaalde in het zevende en achtste lid.

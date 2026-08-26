@@ -1,0 +1,4 @@
+# Artikel 22a
+1. Degene die voorafgaand aan de inwerkingtreding van deze wet is benoemd als lid van de Tijdelijke Commissie Mijnbouwschade Groningen, is van rechtswege benoemd als lid van het Instituut en de duur van zijn benoeming wordt vastgesteld op vier jaar.
+2. Degene die voorafgaand aan de inwerkingtreding van deze wet is benoemd als voorzitter van Tijdelijke Commissie Mijnbouwschade Groningen, is van rechtswege benoemd als voorzitter van het Instituut en de duur van zijn benoeming wordt vastgesteld op vier jaar.
+3. Voor het bepalen van het tijdvak van de benoeming, bedoeld in artikel 4, zesde lid, geldt het tijdvak, vervuld als lid of voorzitter van de Tijdelijke Commissie Mijnbouwschade Groningen, voorafgaand aan de inwerkingtreding van deze wet als een tijdvak, vervuld als lid of voorzitter van het Instituut.
