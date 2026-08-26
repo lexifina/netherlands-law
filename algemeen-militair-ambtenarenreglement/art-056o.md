@@ -1,0 +1,4 @@
+# Artikel 56o. Overdracht van werkzaamheden of diensten
+1. De commandant kan, in afwijking van de in dit hoofdstuk opgenomen bepalingen ten aanzien van de arbeidsduur per werkdag onderscheidenlijk per nachtdienst en de onafgebroken rusttijd, dit artikel toepassen.
+2. De arbeidsduur per werkdag of per nachtdienst onderscheidenlijk de onafgebroken rusttijd wordt met ten hoogste 15 achtereenvolgende minuten verlengd onderscheidenlijk ingekort, indien de werkzaamheden of diensten van de militair aan het eind van de werkdag worden overgenomen en direct daaropvolgend worden voortgezet door een andere militair en de goede voortgang van die werkzaamheden of diensten overdracht noodzakelijk maakt.
+3. Op de afwijking bedoeld in het tweede lid zijn de artikelen 56i, 56j en 56k, ten aanzien van het aantal malen dat werkzaamheden of diensten in nachtdienst worden verricht, niet van toepassing.

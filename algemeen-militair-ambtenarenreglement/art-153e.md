@@ -1,0 +1,3 @@
+# Artikel 153e
+1. Een melder doet een melding bij zijn direct leidinggevende, bij een hogere leidinggevende of bij het Meldpunt Integriteit Defensie. De melder kan ook rechtstreeks een melding doen bij de afdeling onderzoek van het Huis voor klokkenluiders of een andere daartoe bevoegde instantie.
+2. Een melding over een andere organisatie dan het defensieonderdeel waar hij is tewerkgesteld, doet een melder bij een leidinggevende of bij een vertrouwenspersoon van die organisatie of rechtstreeks bij de afdeling onderzoek van het Huis voor klokkenluiders of een andere daartoe bevoegde instantie.

@@ -1,0 +1,2 @@
+# Artikel 153s
+Op meldingen van militairen die zijn gedaan voor 17 december 2021 blijft hoofdstuk 11c van het Algemeen militair ambtenarenreglement, zoals dat luidde onmiddellijk voorafgaand aan de datum van inwerkingtreding van het Besluit van 23 juni 2023, houdende wijziging van het Algemeen militair ambtenarenreglement en het Burgerlijk ambtenarenreglement defensie ter implementatie van Richtlijn (EU) 2019/1937 van het Europees Parlement en de Raad van 23 oktober 2019 (PbEU 2019, L 305) van toepassing.

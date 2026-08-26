@@ -1,0 +1,4 @@
+# Artikel 56f. Arbeidsduur nachtdienst
+1. Voor de militair die werkzaamheden of diensten in nachtdienst verricht, bedraagt de arbeidsduur ten hoogste 9 uren per nachtdienst, in elke periode van 4 achtereenvolgende weken ten hoogste gemiddeld 50 uren per week en in elke periode van 13 achtereenvolgende weken ten hoogste gemiddeld 40 uren per week.
+2. De commandant dient over de toepassing van het eerste lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang het noodzakelijk maakt dat de militair meer dan 8 uren per nachtdienst of meer dan 45 uren per week werkzaamheden of diensten verricht.
+3. Indien het eerste en tweede lid niet wordt toegepast, dan bedraagt de arbeidsduur ten hoogste 8 uren per nachtdienst, ten hoogste 45 uren per week en ten hoogste gemiddeld 40 uren per week in elke periode van 13 achtereenvolgende weken.

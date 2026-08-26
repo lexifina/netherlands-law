@@ -1,0 +1,2 @@
+# Artikel 91a. Ziekte of een gebrek verband houdende met de uitoefening van de dienst
+De niet in werkelijke dienst verblijvende militair en de gewezen militair die lijden aan een ziekte of een gebrek, verband houdende met de uitoefening van de dienst, hebben ten aanzien van die ziekte of dat gebrek naar bij ministeriële regeling te stellen regels en voorwaarden aanspraak op geneeskundige verzorging tot het op grond van artikel 90a, derde lid vastgestelde maximum.

@@ -1,0 +1,5 @@
+# Artikel 59b. Arbeidsduur op zaterdag en zondag
+1. In afwijking van artikel 56a, eerste lid, en artikel 56f, eerste lid, ten aanzien van de arbeidsduur per werkdag onderscheidenlijk per nachtdienst, en artikel 56h, eerste lid, ten aanzien van de onafgebroken rusttijd na een nachtdienst, kan de commandant dit artikel toepassen.
+2. De militair verricht in de tijdruimte gelegen tussen vrijdag 18.00 uur en de daaropvolgende maandag 08.00 uur ten hoogste 11 uren per werkdag onderscheidenlijk per nachtdienst werkzaamheden of diensten.
+3. Indien het eerste en tweede lid wordt toegepast heeft de militair na het verrichten van die werkzaamheden of diensten een onafgebroken rusttijd van ten minste 12 uren, en verricht hijten minste 2 maal in elke periode van 4 achtereenvolgende weken geen werkzaamheden of diensten in de tijdruimte gelegen tussen zaterdag 00.00 uur en de daaropvolgende maandag 06.00 uur.
+4. De commandant dient over de toepassing van het eerste en tweede lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.

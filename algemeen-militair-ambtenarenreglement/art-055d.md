@@ -1,0 +1,4 @@
+# Artikel 55d. Leidinggevenden en hoger personeel
+Dit hoofdstuk en de daarop berustende bepalingen zijn, met uitzondering van de paragrafen 2, 11 en 12, en de artikelen 54a, 54b, derde tot en met vijfde lid, 54d, 54e, 54f, 54g, 54k en 57a, niet van toepassing op werkzaamheden of diensten verricht door:
+a. de militair van 18 jaar en ouder met de rang van luitenant ter zee der 1e klasse dan wel majoor of een hogere rang die uitsluitend of in hoofdzaak leiding geeft;
+b. de militair van 18 jaar en ouder met de rang van kapitein-luitenant ter zee dan wel luitenant-kolonel of met een hogere rang, tenzij hij werkzaamheden of diensten pleegt te verrichten in nachtdienst dan wel werkzaamheden of diensten verricht waaraan of in rechtstreeks verband waarmee ernstige gevaren voor de veiligheid of de gezondheid van personen zijn verbonden.

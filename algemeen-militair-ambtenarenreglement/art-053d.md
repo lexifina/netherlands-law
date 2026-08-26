@@ -1,0 +1,7 @@
+# Artikel 53d. Herplaatsingsonderzoek
+1. Onze Minister onderzoekt gedurende drie maanden, te rekenen vanaf het moment dat de militair is aangewezen als herplaatsingskandidaat, of herplaatsing van de militair op een passende functie binnen het gezagsbereik van Onze Minister mogelijk is.
+2. Indien het onderzoek bedoeld in het eerste lid niet heeft geleid tot herplaatsing, onderzoekt Onze Minister, aansluitend aan de periode bedoeld in het eerste lid, gedurende drie maanden of herplaatsing van de militair op een passende functie binnen of buiten het gezagsbereik van Onze Minister mogelijk is.
+3. Indien het onderzoek bedoeld in het tweede lid niet heeft geleid tot herplaatsing, onderzoekt Onze Minister, aansluitend aan de periode bedoeld in het tweede lid, gedurende zes maanden of herplaatsing van de militair op een passende functie buiten het gezagsbereik van Onze Minister mogelijk is.
+4. De periode van zes maanden bedoeld in het derde lid, wordt voor elk volledig jaar dat de militair is aangesteld bij het Ministerie van Defensie, verlengd met een halve maand tot maximaal twaalf maanden.
+5. Onze Minister kan op verzoek van de militair die is aangewezen als herplaatsingskandidaat de duur van de herplaatsingsperiode, zoals vastgesteld op grond van het eerste tot en met het vierde lid, verlengen indien de omstandigheden naar zijn oordeel daartoe aanleiding geven.
+6. Bij ministeriële regeling worden nadere regels gesteld ter uitvoering van dit artikel.

@@ -1,0 +1,9 @@
+# Artikel 87f. Buitengewoon verlof in het kader van deeltijdarbeid
+1. De militair kan Onze Minister verzoeken om aanpassing van diens arbeidsduur, indien de militair tenminste 26 weken voorafgaand aan het beoogde tijdstip van ingang van die aanpassing in werkelijke dienst is.
+2. Aanpassing van de arbeidsduur vindt bij vermindering van de arbeidsduur plaats door het verlenen van buitengewoon verlof zonder behoud van militaire inkomsten in verband met deeltijdarbeid.
+3. Aanpassing van de arbeidsduur vindt bij vermeerdering van de arbeidsduur plaats door het beëindigen van het buitengewoon verlof, bedoeld in het tweede lid, of het aanpassen daarvan.
+4. Onze Minister kan een verzoek om aanpassing van de arbeidsduur afwijzen of een verleend buitengewoon verlof als bedoeld in het tweede en derde lid tijdelijk opschorten, als naar diens oordeel een zwaarwegend dienstbelang dat vereist. Een dergelijke afwijzing of opschorting gaat vergezeld met een besluit.
+5. Onverminderd hetgeen is bepaald in artikel 2, negende lid, van de Wet flexibel werken is van een zwaarwegend dienstbelang in ieder geval sprake bij varen, vliegen, oefenen, alsmede de inzet van de krijgsmacht, de voorbereiding daarop en voltijdse opleidingen in verband met het functioneren van de krijgsmacht.
+6. De artikelen 2, derde en vierde, zevende tot en met tiende, twaalfde, vijftiende en zestiende lid, en de artikelen 2a, 3 en 3a van de Wet flexibel werken zijn van overeenkomstige toepassing voor zover deze zien op een verzoek tot aanpassing van de arbeidsduur.
+7. Buitengewoon verlof in verband met deeltijdarbeid dat is verleend op basis van het Besluit aanpassing arbeidsduur militairen wordt geacht te zijn gebaseerd op dit artikel.
+8. Onze Minister kan verleend buitengewoon verlof in het kader van deeltijdarbeid in geval van buitengewone omstandigheden beëindigen.

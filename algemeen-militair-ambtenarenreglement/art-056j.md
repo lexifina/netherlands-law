@@ -1,0 +1,3 @@
+# Artikel 56j. Aantal nachtdiensten die eindigen ná 02.00 uur
+1. De militair verricht in elke periode van 13 achtereenvolgende weken niet meer dan ten hoogste 28 maal werkzaamheden of diensten in nachtdienst, indien de werkzaamheden of diensten eindigen ná 02.00 uur.
+2. De commandant dient over de toepassing van het eerste lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang het noodzakelijk maakt dat de militair in elke periode van 4 achtereenvolgende weken meer dan 10 maal en in elke periode van 13 achtereenvolgende weken meer dan 25 maal werkzaamheden of diensten in nachtdienst verricht, indien die werkzaamheden of diensten eindigen ná 02.00 uur.

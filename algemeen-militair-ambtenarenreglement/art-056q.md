@@ -1,0 +1,4 @@
+# Artikel 56q. Consignatie tijdens pauze
+1. De commandant kan van het bepaalde in artikel 54a, onderdeel j, en artikel 58a, tweede lid, afwijken, indien de aard van de werkzaamheden of diensten van de militair het noodzakelijk maakt dat hij tijdens de pauze bereikbaar is onderscheidenlijk op de werkplek aanwezig is om op oproep zo spoedig mogelijk die werkzaamheden of diensten te verrichten, en dit door het op een andere wijze organiseren van de werkzaamheden of diensten redelijkerwijs niet is te voorkomen.
+2. De commandant dient over de toepassing van het eerste lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang toepassing noodzakelijk maakt.
+3. Voor de toepassing van het eerste lid geldt de tijd tijdens de werkplekgebonden pauze waarop de werkzaamheden of diensten van de militair zich uitsluitend beperken tot de verplichte aanwezigheid op de werkplek, als pauze.

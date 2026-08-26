@@ -1,0 +1,4 @@
+# Artikel 39b. Leeftijdsontslag voor militairen met de rang van kapitein ter zee, kolonel of een hogere rang en universitair geschoolde kapitein-luitenants ter zee en luitenant-kolonels
+In afwijking van artikel 39, tweede lid, onderdeel a, wordt, onverminderd artikel 39a, eerste lid, leeftijdsontslag verleend met ingang van een individueel te bepalen datum gelegen tussen de datum waarop de militair nog vijf jaar is verwijderd van de pensioengerechtigde leeftijd en het bereiken van de pensioengerechtigde leeftijd:
+a. aan een militair met de rang van kapitein ter zee, kolonel of een hogere rang;
+b. met zijn instemming, aan een militair met de rang van kapitein-luitenant ter zee, of luitenant-kolonel die een universitaire master graad heeft behaald en als zodanig werkzaam is in het veld van zijn academische deskundigheid.

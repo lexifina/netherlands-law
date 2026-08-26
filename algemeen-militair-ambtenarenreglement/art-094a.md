@@ -1,0 +1,7 @@
+# Artikel 94a. Verplichtingen van de militair in geval van ongeschiktheid tot dienstverrichting als gevolg van ziekte
+1. De militair die als gevolg van ziekte ongeschikt is dienst te verrichten, is verplicht tot:
+a. gedurende het eerste jaar van zijn ziekte, het verrichten van hem opgedragen passende arbeid. Onder passende arbeid wordt verstaan alle arbeid die voor de krachten en bekwaamheden van de militair is berekend, tenzij deze om redenen van lichamelijke, geestelijke of sociale aard niet van hem kan worden gevergd;
+b. gedurende het tweede jaar van zijn ziekte en daarna, het verrichten van hem opgedragen gangbare arbeid als bedoeld in artikel 18, vijfde lid van de Wet op de arbeidsongeschiktheidsverzekering.
+2. De militair, bedoeld in het eerste lid, is verplicht tot het opvolgen van door de commandant of door een door deze aangewezen deskundige gegeven redelijke voorschriften en is verplicht mee te werken aan door hen getroffen maatregelen om hem in staat te stellen de arbeid als bedoeld in het eerste lid te verrichten.
+3. De militair, bedoeld in het eerste lid, is verplicht zijn medewerking te verlenen aan het opstellen, evalueren en bijstellen van een plan van aanpak als bedoeld in artikel 71a van de Wet op de arbeidsongeschiktheidsverzekering.
+4. Dit artikel is van overeenkomstige toepassing wanneer de militair onder andere voorwaarden wordt verplicht tot het verrichten van dienst.

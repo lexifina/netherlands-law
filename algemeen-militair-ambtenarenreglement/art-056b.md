@@ -1,0 +1,5 @@
+# Artikel 56b. Verlengde arbeidsduur
+1. Van de in artikel 56a genoemde arbeidsduur kan worden afgeweken indien zich een onvoorziene wijziging van omstandigheden, incidenteel en niet periodiek, voordoet, of de aard van de werkzaamheden of diensten, incidenteel en voor korte tijd, dergelijke afwijkingen noodzakelijk maakt.
+2. De arbeidsduur bedraagt in situaties als bedoeld in het eerste lid ten hoogste 12 uren per werkdag, ten hoogste 60 uren per week en in elke periode van 13 achtereenvolgende weken ten hoogste gemiddeld 48 uren per week.
+3. Op de afwijking, bedoeld in het eerste lid, is artikel 56p, vierde lid, onderdelen b en c, en het zesde lid, niet van toepassing.
+4. Indien als gevolg van de toepassing van het eerste lid werkzaamheden of diensten worden verricht in nachtdienst, welke werkzaamheden of diensten eindigen vóór of op 02.00 uur, dan zijn hierop de in paragraaf 5 opgenomen bepalingen ten aanzien van het verrichten van werkzaamheden of diensten in nachtdienst niet van toepassing.

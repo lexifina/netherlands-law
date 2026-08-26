@@ -1,0 +1,12 @@
+# Artikel 57a. Werk- en rusttijden op bepaalde dagen
+1. Op zaterdag en zondag worden aan de militair geen werkzaamheden of diensten opgedragen. Hiervan kan slechts worden afgeweken indien naar het oordeel van de commandant het dienstbelang zulks onvermijdelijk maakt.
+2. Het eerste lid geldt mede voor Nieuwjaarsdag, Eerste en Tweede Paasdag, Hemelvaartsdag, Eerste en Tweede Pinksterdag, Eerste en Tweede Kerstdag, Koninginnedag, 5 mei en de door Onze Minister aan te wijzen feest- of gedenkdagen.
+3. Er dient naar te worden gestreefd dat de militair geen werkzaamheden of diensten verricht op de dagen, bedoeld in het eerste en tweede lid, die voorafgaan aan, vallen in of aansluiten op een aan hem verleend verlof van meer dan 3 dagen, doch minder dan 10 dagen. De militair verricht in beginsel geen werkzaamheden of diensten op de in de eerste volzin bedoelde dagen, die voorafgaan aan, vallen in of aansluiten op een hem verleend verlof van 10 dagen of meer.
+4. De militair verricht geen werkzaamheden of diensten op ten minste 26 zondagen per periode van 52 weken.
+5. De voor de militair, die volgens rooster werkzaamheden of diensten in continu- of ploegendienst verricht, geldende arbeidsduur, bedoeld in artikel 54b, vierde lid, wordt tijdens de desbetreffende roosterperiode evenredig verminderd indien hij op dagen als bedoeld in het tweede lid, die niet op zaterdag of zondag vallen:
+a. daadwerkelijk werkzaamheden of diensten heeft verricht, of;
+b. volgens rooster niet was aangewezen voor het verrichten van werkzaamheden of diensten.
+Een dergelijk vermindering van de arbeidsduur zal per dag, als bedoeld in het tweede lid, niet meer dan acht uren bedragen.
+6. Ten aanzien van militairen die zijn ingedeeld bij eenheden die onmiddellijk in actie moeten kunnen komen of bij eenheden die dienst verrichten buiten Nederland, kan bij het opstellen van het rooster door de commandant worden afgeweken van het eerste, het tweede en het derde lid met betrekking tot de zaterdagmorgen en de feest- of gedenkdagen.
+7. Indien naar het oordeel van de commandant de belangen van de dienst zich hiertegen niet verzetten, wordt de militair, aan wie op een zondag of een dag als bedoeld in het tweede lid of het zesde lid, werkzaamheden of diensten zijn opgedragen, tijdens de werktijd in de gelegenheid gesteld de godsdienstuitoefening van de gezindte waartoe hij behoort bij te wonen.
+8. Onze Minister kan ter uitvoering van dit artikel bij ministeriële regeling nadere regels stellen.

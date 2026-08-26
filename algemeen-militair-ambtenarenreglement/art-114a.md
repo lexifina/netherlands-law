@@ -1,0 +1,5 @@
+# Artikel 114a. Bijdrage in de kosten van kinderopvang
+1. Voor de toepassing van dit artikel wordt onder kinderopvang en gastouderopvang verstaan hetgeen daaronder wordt verstaan in artikel 1.1, eerste lid, van de Wet kinderopvang.
+2. Door het hoofd defensieonderdeel kan naar bij ministeriële regeling te stellen regels, financieel worden bijgedragen in de kosten van de militair voor kinderopvang of gastouderopvang van een of meerdere kinderen.
+3. De bijdrage, als bedoeld in het tweede lid, eindigt met ingang van de dag waarop de militair ontslag wordt verleend.
+4. Wanneer sprake is van een ontslag op grond van artikel 39, tweede lid, onder d, van dit besluit, eindigt de bijdrage, als bedoeld in het tweede lid, in afwijking van het vierde lid, 6 maanden na de datum waarop dat ontslag is ingegaan, of op het moment dat uit andere hoofde aanspraak bestaat op een bijdrage, als bedoeld in het tweede lid. Gedurende deze periode van 6 maanden blijft de situatie van voor het ontslag ongewijzigd gehandhaafd.

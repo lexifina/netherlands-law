@@ -1,0 +1,2 @@
+# Artikel 87e. Aanvullend geboorteverlof
+Wanneer aan de militair door de commandant aanvullend geboorteverlof als bedoeld in hoofdstuk 4 van de Wet arbeid en zorg wordt verleend, behoudt diegene over de periode van het aanvullend geboorteverlof dat ten hoogste vijf gehele weken bedraagt gebaseerd op de voor de militair geldende arbeidsduur per week, 100% van diens verhoogde bezoldiging als bedoeld in artikel 1 van het Inkomstenbesluit militairen.

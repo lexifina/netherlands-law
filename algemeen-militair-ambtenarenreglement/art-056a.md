@@ -1,0 +1,4 @@
+# Artikel 56a. Arbeidsduur
+1. De arbeidsduur van de militair bedraagt ten hoogste 10 uren per werkdag, in elke periode van 4 achtereenvolgende weken ten hoogste gemiddeld 50 uren per week en in elke periode van 13 achtereenvolgende weken ten hoogste gemiddeld 45 uren per week.
+2. De commandant dient over de toepassing van het eerste lid overeenstemming te bereiken met de betrokken medezeggenschapscommissie, indien het dienstbelang het noodzakelijk maakt dat de militair meer dan 9 uren per werkdag of meer dan 45 uren per week werkzaamheden of diensten verricht.
+3. Indien het eerste en tweede lid niet wordt toegepast, dan bedraagt de arbeidsduur ten hoogste 9 uren per werkdag, ten hoogste 45 uren per week en ten hoogste gemiddeld 40 uren per week in elke periode van 13 achtereenvolgende weken.
