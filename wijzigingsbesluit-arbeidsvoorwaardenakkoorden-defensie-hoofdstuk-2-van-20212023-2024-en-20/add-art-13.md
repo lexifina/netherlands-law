@@ -1,0 +1,8 @@
+# Artikel XIII
+Overgangsbepaling salaristabel met ingang van 1 juli 2024
+1. Voor de ambtenaar op wie salarisschaal 1 of 2 van toepassing is en die voor 1 juli 2024 het salarisnummer 5, 6, 7, 8, 8, 9 of 10 had, wordt met ingang van 1 juli 2024 het salarisnummer vernummerd naar respectievelijk 0, 1, 2, 3, 4 of 5.
+2. Voor de ambtenaar op wie salarisschaal 3 van toepassing is en die voor 1 juli 2024 het salarisnummer 5, 6, 7, 8, 8, 9, 10 of 11 had, wordt met ingang van 1 juli 2024 het salarisnummer vernummerd naar respectievelijk 0, 1, 2, 3, 4, 5 of 6.
+3. Voor de ambtenaar op wie salarisschaal 4 van toepassing is en die voor 1 juli 2024 het salarisnummer 4, 5, 6, 7, 8, 8, 9, 10, 11 of 12 had, wordt met ingang van 1 juli 2024 het salarisnummer vernummerd naar respectievelijk 0, 1, 2, 3, 4, 5, 6, 7 of 8.
+4. Voor de ambtenaar op wie salarisschaal 5 van toepassing is en die voor 1 juli 2024 het salarisnummer 2, 3, 4, 5, 6, 7, 8, 8, 9, 10, 11 of 12 had, wordt met ingang van 1 juli 2024 het salarisnummer vernummerd naar respectievelijk 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 of 10.
+5. Voor de ambtenaar op wie salarisschaal 6 van toepassing is en die voor 1 juli 2024 het salarisnummer1, 2, 3, 4, 5, 6, 7, 8, 8, 9, 10, 11 of 12 had, wordt met ingang van 1 juli 2024 het salarisnummer vernummerd naar respectievelijk 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 of 11.
+6. Bij samenloop van de toepassing van het eerste tot en met het vijfde lid, de jaarlijkse verhoging van het salarisnummer op grond van artikel 11, eerste lid, of een bevordering, wordt uitvoering gegeven aan de voor de ambtenaar meest gunstige volgorde.
