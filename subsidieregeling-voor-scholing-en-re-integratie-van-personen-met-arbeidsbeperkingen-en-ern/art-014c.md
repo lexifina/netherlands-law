@@ -1,0 +1,4 @@
+# Artikel 14c. Verantwoording Uitvoeringsinstituut werknemersverzekeringen
+1. Binnen acht weken nadat een beschikking tot subsidieverlening is gegeven, overlegt het Uitvoeringsinstituut werknemersverzekeringen aan de minister per cohort gegevens over aantallen toegekende trajecten per subsidieaanvrager.
+2. Binnen acht weken nadat over een cohortperiode een beschikking tot subsidievaststelling is gegeven, overlegt het Uitvoeringsinstituut werknemersverzekeringen aan de minister per cohort gegevens over het aantal opgeleide en het aantal geplaatste personen met ernstige scholingsbelemmeringen, alsmede de totaal uitgekeerde bedragen.
+3. Het Uitvoeringsinstituut werknemersverzekeringen informeert de minister onverwijld over ontwikkelingen met betrekking tot de uitvoering van deze regeling die van zodanig maatschappelijk of politiek belang zijn of die anderszins zodanig de aandacht kunnen trekken, dat tijdige kennisneming door de minister gewenst is.
