@@ -1,0 +1,2 @@
+# Artikel 5b. Samenloop functioneringstoelage, bindingspremie
+Bij toekenning van een aanspraak op een wervingstoelage als bedoeld in artikel 18 van het besluit, een functioneringstoelage, als bedoeld in artikel 46 van het besluit, een bindingspremie, als bedoeld in artikel 47 van het besluit, of een beloning, als bedoeld in artikel 45 van het besluit, bedraagt de totale waarde van die aanspraken, gerekend over de voorafgaande 12 maanden, maximaal 40% van het tot een jaarbedrag herleide salaris in de maand van de toekenning.
