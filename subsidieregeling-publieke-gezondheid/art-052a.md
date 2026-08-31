@@ -1,0 +1,2 @@
+# Artikel 52a
+Onverminderd artikel 20, meldt de screeningsorganisatie onverwijld schriftelijk aan de minister indien sprake is van een stijging of daling van het aantal onderzoeken naar borstkanker van meer dan 2% ten opzichte van de subsidieverlening.
