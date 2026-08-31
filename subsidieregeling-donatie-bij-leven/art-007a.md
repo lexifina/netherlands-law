@@ -1,0 +1,5 @@
+# Artikel 7a
+1. Onverminderd artikel 4, tweede lid en derde lid, kan de minister de subsidie verhogen indien de gederfde inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het peiljaar lager zijn dan de gederfde inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het jaar waarin de donatie wordt uitgevoerd.
+2. De verhoging is het verschil tussen de gederfde inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het jaar waarin de donatie wordt uitgevoerd en de gederfde inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het peiljaar.
+3. Bij de berekening van de gederfde inkomsten per week over het jaar waarin de donatie wordt uitgevoerd, blijft de tijd voor de voorbereiding van, de uitvoering van en het herstel na de donatie buiten beschouwing.
+4. De verhoging kan ook worden verstrekt indien de subsidie reeds is vastgesteld. De artikelen 5, 6 en 7 zijn van overeenkomstige toepassing, met dien verstande dat de termijn, bedoeld in artikel 5, tweede lid, twee jaar bedraagt.
