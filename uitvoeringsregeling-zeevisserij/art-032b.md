@@ -1,0 +1,2 @@
+# Artikel 32b. Benutting groepscontingent
+De minister draagt er zorg voor dat de aanlandingen van de leden van een groep of producentenorganisatie, waarvoor een groepscontingent geldt waaraan een extra hoeveelheid vangstmogelijkheden is toegekend als bedoeld in artikel 32a, in mindering worden gebracht op de extra hoeveelheid vangstmogelijkheden van het desbetreffende groepscontingent, tenzij de extra hoeveelheid vangstmogelijkheden van het desbetreffende groepscontingent volledig is opgevist.

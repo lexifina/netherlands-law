@@ -1,0 +1,5 @@
+# Artikel 86b. Visserij in Skagerrak
+1. De visserij in de Europese wateren van deelsector 3a.20 (Skagerrak) is uitsluitend toegestaan indien is voldaan aan het tweede tot en met vierde lid.
+2. De kapitein van het vissersvaartuig registreert per vangst of per visserijactiviteit in het Skagerrak de geschatte hoeveelheden van iedere soort in kilogram levend gewicht of, in voorkomend geval, het aantal exemplaren, met inbegrip van de hoeveelheden of aantallen exemplaren kleiner dan de toepasselijke minimuminstandhoudingsreferentiegrootte, elektronisch in het visserijlogboek, bedoeld in de artikelen 14 en 15 van de controleverordening.
+3. Wanneer het vissersvaartuig het Skagerrak binnenvaart en wanneer het vissersvaartuig het Skagerrak verlaat, registreert de kapitein de totaal aan boord gehouden vangsten, naar soort in kilogram levend gewicht, elektronisch en stuurt die informatie elektronisch door naar de RVO.
+4. In afwijking van artikel 47, tweede lid, van de uitvoeringsverordening controleverordening kan de kapitein uitsluitend correcties aan de in het tweede en derde lid bedoelde gegevens aanbrengen met schriftelijke toestemming van de RVO.

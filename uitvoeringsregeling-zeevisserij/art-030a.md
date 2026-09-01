@@ -1,0 +1,6 @@
+# Artikel 30a. Vervallen contingenten
+1. Indien een visvergunning wordt ingetrokken ingevolge artikel 96, eerste lid, onderdeel c, vervallen de contingenten die gelden voor het vissersvaartuig dat is vermeld op die visvergunning.
+2. Indien op naam van de houder van de visvergunning, bedoeld in het eerste lid, contingenten zijn aangehouden ingevolge artikel 44, vervallen ook deze contingenten.
+3. Vangstmogelijkheden van vervallen contingenten blijven gedurende het kalenderjaar waarin de contingenten vervallen, voor zover deze nog niet zijn opgevist, onderdeel van het groepscontingent waaraan ze ingevolge artikel 32, eerste lid, zijn toegekend.
+4. Indien de contingenten niet in beheer zijn gegeven aan een groep of producentenorganisatie en ze ingevolge artikel 32, eerste lid, geen onderdeel uitmaken van een groepscontingent, worden de vangstmogelijkheden van die vervallen contingenten gedurende het kalenderjaar waarin ze vervallen toegevoegd aan de door de minister gereserveerde vangstmogelijkheden, bedoeld in artikel 12, eerste lid, voor zover deze contingenten nog niet zijn opgevist.
+5. Indien contingenten vervallen in het kalenderjaar 2022, zijn het derde en vierde lid van overeenkomstige toepassing voor het kalenderjaar 2023.

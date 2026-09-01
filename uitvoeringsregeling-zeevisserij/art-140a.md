@@ -1,0 +1,2 @@
+# Artikel 140a. Verzoek tot erkenning als producentenorganisatie of brancheorganisatie
+Een verzoek tot erkenning als producentenorganisatie als bedoeld in artikel 14, eerste lid, van de GMO-verordening of een verzoek tot erkenning als brancheorganisatie als bedoeld in artikel 16, eerste lid, van de GMO-verordening, wordt ingediend bij de minister overeenkomstig de door de Europese Commissie op grond van artikel 21 van deze verordening vastgestelde uitvoeringshandelingen.

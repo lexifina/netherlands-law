@@ -1,0 +1,7 @@
+# Artikel 87a. Erkenning meet- of zegelbureau
+1. De minister kan een onderneming op aanvraag erkennen als een erkend meetbureau of een erkend zegelbureau, indien de onderneming aantoonbaar deskundig is op het gebied van het meten, onderscheidenlijk verzegelen van motoren. De aanvrager verstrekt bij de aanvraag tot erkenning in elk geval de volgende bescheiden:
+a. een verklaring dat hij kennis heeft genomen van het document 'Motorvermogen in de visserij';
+b. een adequaat protocol waarin hij beschrijft hoe de vermogensmeting of verzegeling wordt uitgevoerd volgens de standaarden die hiervoor binnen de beroepsgroep algemeen gangbaar zijn en binnen de voorschriften die zijn opgenomen in bijlage 12a, onderscheidenlijk bijlage 12b;
+c. een kopie van relevante diploma's van de in te zetten personen bij een vermogensmeting of verzegeling met een afgeronde opleiding op het minimale niveau van middelbaar beroepsonderwijs, niveau 3, inzake scheepswerktuigkunde, werktuigkunde of elektrotechniek.
+2. De erkenning heeft een geldigheidsduur van ten hoogste drie jaar.
+3. Met een erkenning als bedoeld in deze regeling wordt gelijkgesteld een aanwijzing van een onderneming tot uitvoering van een vermogensmeting of verzegeling in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, en die een beschermingsniveau waarborgt dat ten minste gelijkwaardig is aan het niveau dat met de nationale regels terzake wordt nagestreefd.

@@ -1,0 +1,2 @@
+# Artikel 140e. Instandhoudings- en handhavingsmaatregelen in GFCM-overeenkomstgebied
+Het is verboden in strijd te handelen met de artikelen 9 bis tot en met 9 quinquies, 10, 11 bis, 12, eerste lid, 15, eerste lid, 15 bis, eerste lid, 16, 16 ter, eerste lid, 16 quater, eerste lid, 16 quinquies, eerste en tweede lid, 16 quinquies bis, 16 septies tot en met 16 duodecies, 16 terdecies, vijfde lid, 17, vijfde lid, 17 ter, eerste lid, 22 bis tot en met 22 quinquies, 22, septies, 22 duodecies, 22 terdecies van verordening nr. 1343/2011.
