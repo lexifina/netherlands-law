@@ -16,7 +16,7 @@
 ## Hoofdstuk 5. Toezicht en handhaving
 ### Paragraaf 5.1. Toezicht op de naleving
 ### Paragraaf 5.2. Handhaving
-## Hoofdstuk 5a. Geheimhoudingsplicht
+## Hoofdstuk 5a. Geheimhoudingsplicht en bijzondere persoonsgegevens
 ## Hoofdstuk 5b. Samenwerking nationaal
 ## Hoofdstuk 5c. Samenwerking internationaal
 ### Afdeling 5c.1. Samenwerking met toezichthoudende instanties van andere lidstaten

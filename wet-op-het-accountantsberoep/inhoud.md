@@ -17,6 +17,7 @@
 ## Hoofdstuk 7. De opleiding tot accountant
 ## Hoofdstuk 8. Overige bepalingen
 ### § 8.1. Strafbepalingen
+### § 8.2. Verwerking persoonsgegevens
 ### § 8.3. Intrekking en wijziging van wetten
 ### § 8.4. Overgangsbepalingen
 ### § 8.5. Slotbepalingen
