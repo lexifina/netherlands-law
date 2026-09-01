@@ -8,5 +8,5 @@
 ### Paragraaf 3.2. Persoonsgegevens van strafrechtelijke aard
 ### Paragraaf 3.3. Rechtsbescherming
 ### Paragraaf 3.4. De functionaris voor gegevensbescherming
-## Hoofdstuk 4. Uitzonderingen en beperkingen
+## Hoofdstuk 4. Uitzonderingen, beperkingen en bijzondere grondslagen
 ## Hoofdstuk 5. Overgangs- en slotbepalingen
