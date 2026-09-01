@@ -1,0 +1,3 @@
+# Artikel 5a. Opschorting betaling bij vaststelling ernstige tekortkomingen
+1. Indien de minister toepassing geeft aan artikel 76, derde lid, van de wet schort hij de betaling van de vastgestelde uitkering, bedoeld in artikel 69, eerste lid, van de wet gedurende ten minste drie maanden op met ingang van de eerstvolgende kalendermaand waarin de uitkering nog niet betaalbaar is gesteld.
+2. De betaling van de uitkering wordt hervat op of omstreeks de vijftiende dag van de kalendermaand nadat de periode van drie maanden is verstreken dan wel nadat de langere periode van opschorting, die de minister met toepassing van artikel 76, derde lid, van de wet heeft vastgesteld is verstreken.
