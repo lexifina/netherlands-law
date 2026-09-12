@@ -1,0 +1,4 @@
+# Artikel 6h
+1. Voor de aanvraag om een erkenning, bedoeld in artikel 12c, eerste lid, van het besluit en voor het verzoek om wijziging van een erkenning, bedoeld in artikel 12e, eerste lid, van het besluit, wordt gebruik gemaakt van het formulier dat is opgenomen in de bijlage in onderdeel E, onder 1.
+2. De melding van een faillissement of surseance van betaling, bedoeld in artikel 12i van het besluit, wordt gedaan aan Rijkswaterstaat, onderdeel Bodem+. Voor de melding wordt gebruik gemaakt van het formulier dat is opgenomen in de bijlage in onderdeel E, onder 2.
+3. De melding van een schorsing of intrekking van een certificaat, bedoeld in artikel 12j van het besluit, wordt gedaan aan Rijkswaterstaat, onderdeel Bodem+. Voor de melding wordt gebruik gemaakt van het formulier dat is opgenomen in de bijlage in onderdeel E, onder 3.

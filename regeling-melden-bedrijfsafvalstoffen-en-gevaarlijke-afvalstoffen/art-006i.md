@@ -1,0 +1,2 @@
+# Artikel 6i
+Deze regeling berust op de artikelen 10.50 van de Wet milieubeheer voor zover het artikel 5 betreft, en 9.2.2.1, derde lid, van de Wet milieubeheer voor zover het artikel 3, tweede en vijfde lid, betreft, en op de artikelen 2, derde lid, 3, zevende lid, 5, derde lid, 10, zesde lid, 10a, vijfde lid, 12c, eerste en derde lid, 12e, tweede lid, 12i en 12j van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen.

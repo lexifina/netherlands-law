@@ -1,0 +1,2 @@
+# Artikel 6c
+De verpakking en het vervoer van het monstermateriaal voldoet aan NVN 7311 dan wel een norm die is vastgesteld of aangewezen in een andere lidstaat van de Europese Unie, dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, en een beschermingsniveau biedt dat ten minste gelijkwaardig is aan het niveau dat met deze norm wordt nagestreefd.
