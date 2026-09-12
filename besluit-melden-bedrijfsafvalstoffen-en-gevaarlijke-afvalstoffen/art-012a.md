@@ -1,0 +1,8 @@
+# Artikel 12a
+1. In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
+accreditatie: het bewijs waarmee de Raad voor Accreditatie of een daaraan gelijkwaardig instituut in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, kenbaar maakt dat gedurende een bepaalde periode een gerechtvaardigd vertrouwen bestaat dat de hierin genoemde instelling competent is voor het certificeren van personen of instellingen voor het uitvoeren van de monsterneming overeenkomstig de krachtens artikel 10a, vijfde lid, onder a, gestelde regels;
+certificaat: verklaring waarmee een geaccrediteerde certificeringsinstelling kenbaar maakt dat gedurende een bepaalde periode een gerechtvaardigd vertrouwen bestaat dat de hierin genoemde persoon of instelling competent is voor het uitvoeren van de monsterneming overeenkomstig de krachtens artikel 10a, vijfde lid, onder a, gestelde regels;
+erkenning: beschikking van Onze Minister waarbij wordt vastgesteld dat een persoon of instelling voor het nemen van monsters van afvalstoffen voldoet aan de bij of krachtens deze paragraaf gestelde eisen;
+SIKB: Stichting Kwaliteitsborging Infrastructuur Bodembeheer te Gouda;
+vestigingsplaats: adres en woonplaats van een persoon of adres en woonplaats waar een instelling zetelt.
+2. Deze paragraaf is uitsluitend van toepassing op monsterneming die wordt uitgevoerd ter bepaling van de in de omschrijving op te nemen gegevens over de samenstelling en het uitlooggedrag van afvalstoffen.
