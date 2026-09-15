@@ -1,0 +1,2 @@
+# Artikel 94d
+Op het kiescollege en zijn leden zijn de artikelen 13, 14, eerste lid, aanhef en onder a tot en met h, j en k, 15, 16, derde lid, 17 tot en met 21, 22, eerste lid, 23 tot en met 31, 33, 34 en 88 van overeenkomstige toepassing, met dien verstande dat voor de toepassing van artikel 15 in plaats van «de eilandsraad», «koseho insular» en «the island council» telkens wordt gelezen «het kiescollege», «kolegio elektoral», onderscheidenlijk «the electoral committee».
