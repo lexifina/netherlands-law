@@ -1,0 +1,2 @@
+# Artikel 5c.6a. Verzamelen en overladen op vervoermiddel voor Nederlandse markt
+De artikelen 133, tweede lid, en 134 van verordening (EU) nr. 2016/429, de artikelen 1.34 en 1.35 van het besluit, en artikel 5c.2 zijn van overeenkomstige toepassing op het verzamelen van hoefdieren, bedoeld in die artikelen, die afkomstig zijn uit een inrichting in Nederland en die worden vervoerd naar een inrichting in Nederland.

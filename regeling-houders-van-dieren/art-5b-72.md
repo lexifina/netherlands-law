@@ -1,0 +1,2 @@
+# Artikel 5b.72. Geldigheid identificatiedocument paardachtige
+Een identificatiedocument wordt bij de slachting of dood van een paardachtige vanwege de bestrijding van een ziekte, door de officiële dierenarts ongeldig gemaakt door ten minste op alle bladzijden met een fraudebestendige stempel het woord 'ongeldig' aan te brengen of door in alle bladzijden een gat te maken waarvan de diameter niet kleiner is dan het gat dat door een normale perforator wordt gemaakt.

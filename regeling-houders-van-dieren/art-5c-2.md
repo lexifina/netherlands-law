@@ -1,0 +1,3 @@
+# Artikel 5c.2. Toegestane laadadressen varkens verzameling vervoermiddel
+1. In aanvulling op artikel 1.34 van het besluit is het alleen toegestaan om varkens afkomstig vanaf ten hoogste twee inrichtingen in Nederland, niet zijnde verzamelcentra, en die bestemd zijn voor een slachthuis te verzamelen op één vervoerseenheid.
+2. In aanvulling op artikel 1.34 van het besluit is het alleen toegestaan om uit Nederland afkomstige zeugen of beren ouder dan zeven maanden of speenbiggen die bestemd zijn voor een slachthuis op één vervoerseenheid te verzamelen vanaf ten hoogste drie inrichtingen, niet zijnde verzamelcentra.

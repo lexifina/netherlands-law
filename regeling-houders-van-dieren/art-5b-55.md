@@ -1,0 +1,2 @@
+# Artikel 5b.55. Doorgeven gegevens bij vervanging identificatiemiddel
+De exploitant die schapen of geiten houdt, stelt de minister bij het vervangen van een verloren identificatiemiddel door twee nieuwe identificatiemiddelen, als bedoeld in artikel 5b.28 onderdeel b, in kennis van de identificatiecode van het oorspronkelijke merk, de identificatiecode van de nieuwe identificatiemiddelen, de datum van het aanbrengen van de nieuwe identificatiemiddelen, het unieke registratienummer van de inrichting, en hun relatienummer.

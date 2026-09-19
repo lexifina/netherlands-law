@@ -1,0 +1,4 @@
+# Artikel 5b.10. Administratie leverancier identificatiemiddelen of merken
+1. Een leverancier van identificatiemiddelen, slachtmerken of gebruiksmerken voor dieren die op grond van verordening (EU) nr. 2019/2035 geïdentificeerd moeten worden houdt een inzichtelijke administratie bij, waaruit per uniek registratienummer van inrichtingen waar landdieren worden gehouden en per besteldatum, is opgenomen hoeveel identificatiemiddelen, slachtmerken en gebruiksmerken voor dieren die op grond van verordening (EU) nr. 2019/2035 geïdentificeerd moeten worden door hem aan de inrichting zijn besteld en geleverd.
+2. Wanneer een leverancier identificatiemiddelen heeft geleverd waarop een identificatiecode voor een individueel dier staat, is in de administratie, bedoeld in het eerste lid, deze code vermeld bij het geleverde middel.
+3. Dit artikel is niet van toepassing op leveranciers van injecteerbare transponders.

@@ -1,0 +1,3 @@
+# Artikel 7d.1. Ontheffing
+1. Overeenkomstig artikel 16, eerste lid, van het Landbouwkwaliteitsbesluit 2007 kan de minister goedkeuring geven om in het wild gevangen of niet overeenkomstig de biologische productiemethode geproduceerde aquacultuurdieren in een biologisch bedrijf binnen te brengen overeenkomstig bijlage II, deel III, punt 3.1.2.1, onderdeel d, van verordening (EU) 2018/848.
+2. Overeenkomstig artikel 16, eerste lid, van het Landbouwkwaliteitsbesluit 2007 kan de minister goedkeuring geven om wild zaad van weekdieren te verzamelen overeenkomstig bijlage II, deel III, punt 3.2.1, onderdeel d, van verordening (EU) 2018/848.

@@ -1,0 +1,5 @@
+# Artikel 7b.22. Ziektebewakingsprogramma mycoplasma spp. Nederlandse markt
+1. Een houder als bedoeld in artikel 2.76ic, tweede lid, van het besluit die kippen opfokt die bestemd zijn om te worden gehouden als legkip laat, in afwijking van dat artikel, in de drie weken voorafgaand aan de verplaatsing van een koppel kippen naar een ander legkippenbedrijf van die dieren 24 bloedmonsters nemen.
+2. Een houder als bedoeld in artikel 2.76ic, tweede lid, van het besluit van een koppel legkippen laat, in afwijking van dat artikel, negen weken voorafgaand aan het moment waarop die dieren worden geslacht van die dieren 10 bloedmonsters nemen.
+3. Een houder als bedoeld in artikel 2.76ic, tweede lid, van het besluit van vleeskalkoenen laat, in afwijking van dat artikel, drie weken voorafgaand aan het moment waarop de dieren worden geslacht van die dieren 24 bloedmonsters nemen.
+4. De artikelen 7b.18 tot en met 7b.21 zijn van overeenkomstige toepassing op de monstername en het onderzoek, bedoeld in het eerste tot en met derde lid.

@@ -1,0 +1,2 @@
+# Artikel 7b.16. Frequentie monstername vrije uitloop
+In afwijking van artikel 7b.15 laat de houder die op een bedrijf waar onder meer dieren worden gehouden in een houderijsysteem met vrije uitloop als bedoeld in bijlage II, onderdeel 1 van Gedelegeerde verordening (EU) 2023/2465 van de Commissie van 17 augustus 2023 tot aanvulling van Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad wat betreft handelsnormen voor eieren, en tot intrekking van Verordening (EG) nr. 589/2008 van de Commissie, ieder kwartaal een bloedmonster nemen van ten minste 30 dieren.

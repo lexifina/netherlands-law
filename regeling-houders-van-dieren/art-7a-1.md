@@ -1,0 +1,2 @@
+# Artikel 7a.1. Onderzoek Brucellose
+De houder van een rund stuurt, uiterlijk binnen een week nadat bij het dier de vrucht of vruchten ter wereld zijn gebracht, de monsters die zijn genomen met het oog op het onderzoek naar de aanwezigheid van antilichamen tegen brucellose als bedoeld in artikel 2.46a, eerste lid, van het besluit, naar de instelling die op grond van artikel 3.1 van het Besluit diergezondheid is aangewezen voor de uitvoering van het monitoringsprogramma voor brucellose.

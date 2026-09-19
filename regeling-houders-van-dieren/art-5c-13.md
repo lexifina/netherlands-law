@@ -1,0 +1,2 @@
+# Artikel 5c.13. Vervoer van schapen en geiten vanaf een verzamelcentrum
+Schapen of geiten afkomstig van een inrichting in Nederland die bijeen zijn gebracht op een verzamelcentrum als bedoeld in artikel 5c.3, eerste lid en bestemd zijn voor de slacht worden, na al dan niet twee keer te zijn verzameld op een verzamelcentrum als bedoeld in artikel 5c.3, eerste lid, verplaatst naar een slachthuis in Nederland.

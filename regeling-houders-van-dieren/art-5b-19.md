@@ -1,0 +1,5 @@
+# Artikel 5b.19. Termijnen voor het aanbrengen van identificatiemiddelen voor runderen
+1. De termijn, bedoeld in artikel 13, eerste lid van verordening (EU) nr. 2021/520, bedraagt drie werkdagen, te rekenen vanaf de dag na de dag van geboorte.
+2. In afwijking van artikel 13, eerste lid van verordening (EU) nr. 2021/520, bedraagt de termijn voor het inbrengen van een bolustransponder als bedoeld in bijlage III, onder d, bij verordening (EU) nr. 2019/2035 maximaal 60 dagen, te rekenen vanaf de dag na de dag van geboorte.
+3. In afwijking van artikel 17, eerste lid van verordening (EU) nr. 2021/520, bedraagt de termijn voor identificatie van de daar genoemde runderen drie werkdagen, te rekenen vanaf de dag na de dag van aanvoer op de inrichting.
+4. In afwijking van het eerste en tweede lid en artikel 17, eerste lid, van verordening (EU) nr. 2021/520, bedraagt de termijn voor het inbrengen van een bolustransponder als bedoeld in bijlage III, onder d, bij verordening (EU) nr. 2019/2035 maximaal 60 dagen, te rekenen vanaf de dag na de dag van geboorte.

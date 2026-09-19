@@ -1,0 +1,6 @@
+# Artikel 5b.49. Termijnen voor het doorgeven van gegevens
+1. De termijn, bedoeld in artikel 3, eerste lid, van verordening (EU) nr. 2021/520, bedraagt voor een exploitant die runderen houdt, drie werkdagen, te rekenen vanaf de dag na de dag waarop de desbetreffende gebeurtenis, heeft plaatsgevonden.
+2. Een exploitant die runderen houdt, geeft de in de artikelen 5b.44, 5b.45, 5b.46, en 5b.47 bedoelde gegevens door aan het geautomatiseerde gegevensbestand binnen drie werkdagen, te rekenen vanaf de dag na de dag waarop de desbetreffende gebeurtenis heeft plaatsgevonden.
+3. De geboorte van een rund wordt doorgegeven nadat het rund is geïdentificeerd, binnen de termijn, bedoeld in artikel 5b.19 of ingeval artikel 5b.19, tweede lid, van toepassing is, na het aanbrengen van het eerste identificatiemiddel binnen de in artikel 5b.19, eerste lid, genoemde termijn.
+4. Het derde lid geldt niet voor runderen, bedoeld in artikel 5b.20.
+5. Een exploitant die runderen houdt, geeft de in artikel 5b.48 bedoelde gegevens door aan het geautomatiseerde gegevensbestand binnen drie werkdagen, te rekenen vanaf de dag na de dag waarop de desbetreffende gebeurtenis heeft plaatsgevonden of zoveel eerder als het rund wordt afgevoerd van de inrichting.

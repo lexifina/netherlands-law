@@ -1,0 +1,2 @@
+# Artikel 7b.35. Monstername dieren ouder dan 18 dagen niet gevaccineerd
+Van dieren als bedoeld in artikel 7b.28, derde lid, is al naar gelang de categorie waartoe zij behoren, de in respectievelijk artikel 7b.31, 7b.32, 7b.33 en 7b.34 opgenomen verplichting tot het nemen van bloedmonsters van overeenkomstige toepassing, met dien verstande dat het bloed wordt afgenomen in de periode van 3 tot 4 weken na de datum waarop de dieren zijn gevaccineerd.

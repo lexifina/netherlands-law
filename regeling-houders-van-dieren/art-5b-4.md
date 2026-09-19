@@ -1,0 +1,3 @@
+# Artikel 5b.4. Termijnen bijhouden en bewaren gegevens
+1. De exploitant van een inrichting als bedoeld in artikel 102, eerste lid, aanhef, van verordening (EU) nr. 2016/429, legt de gegevens, bedoeld in dat artikellid, en voor zover van toepassing, de artikelen 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 35, en 37, van verordening (EU) nr. 2019/2035 en voor zover van toepassing artikel 5b.1, eerste lid, 5b.2, eerste lid, en 5b.3, eerste lid, vast binnen drie werkdagen, te rekenen vanaf de dag na de dag waarop de gebeurtenis heeft plaatsgevonden.
+2. De minimumduur, bedoeld in artikel 102, derde lid, onderdeel b, van verordening (EU) nr. 2016/429, al dan niet in samenhang met artikel 5b.1, tweede lid, 5b.2, tweede lid of 5b.3, tweede lid, bedraagt drie jaar.

@@ -1,0 +1,5 @@
+# Artikel 3b.2. Toegestane toepassing levende entstof
+Als levende entstof tegen een ziekte als bedoeld in artikel 1.61, tweede lid, van het besluit wordt aangewezen:
+a. een recombinant vaccin als bedoeld in bijlage III, onderdeel 1, onder a, onder ii, van verordening (EU) nr. 576/2013 ter preventie of bestrijding van rabiës;
+b. een levende entstof ter preventie en bestrijding van een infectie met het virus van de ziekte van Newcastle;
+c. een levende entstof die voldoet aan artikel 3, eerste en, ingeval zij is bestemd om te worden toegepast bij legkippen, het tweede lid, van verordening (EG) nr. 1177/2006 van de Commissie van 1 augustus 2006 ter uitvoering van Verordening (EG) nr. 2160/2003 van het Europees Parlement en de Raad wat betreft voorschriften voor het gebruik van specifieke bestrijdingsmethoden in het kader van de nationale programma's voor de bestrijding van salmonella bij pluimvee (PbEU 2006, L 212), ter preventie en bestrijding van een infectie met salmonella enteritidis, salmonella hadar, salmonella infantis, salmonella java, salmonella typhimurium, of salmonella virchow.

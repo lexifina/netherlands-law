@@ -1,0 +1,2 @@
+# Artikel 3a.4. Melding ziekteverschijnselen schapen en geiten
+Een houder van schapen of geiten meldt in elk geval bij schapen en geiten ouder dan twaalf maanden, ziekteverschijnselen van scrapie, indien die schapen gedragsstoornissen of neurologische symptomen vertonen en waarbij de ziekte op grond van een reactie op een behandeling of op grond van een laboratoriumonderzoek niet kan worden uitgesloten.

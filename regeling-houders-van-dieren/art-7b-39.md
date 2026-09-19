@@ -1,0 +1,4 @@
+# Artikel 7b.39. Administratie vaccinatie en monitoring Newcastle disease
+1. Een exploitant bewaart de gegevens, bedoeld in artikel 7b.28, vierde lid, en de resultaten van het onderzoek, bedoeld in artikel 7b.29, eerste lid, tenminste drie jaar.
+2. Een exploitant die vermeerderingsdieren van de soort kip of kalkoen, kippen of kalkoenen die worden opgefokt tot vermeerderingsdier, leghennen of dieren die worden opgefokt tot leghen houdt, en deze dieren aan een andere exploitant overdraagt, doet deze exploitant een kopie van de gegevens, bedoeld het eerste lid, toekomen.
+3. Een exploitant bewaart het plan van aanpak, bedoeld in artikel 7b.37, eerste of tweede lid, gedurende de periode dat er op grond van deze paragraaf verplichtingen tot vaccinatie gelden met betrekking tot de dieren waarop het plan van aanpak, dan wel het herziene plan van aanpak van toepassing is.

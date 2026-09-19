@@ -1,0 +1,2 @@
+# Artikel 5b.73. Aanvraag verplaatsingsdocument of identificatiedocument
+De exploitant van een reizend circus of dierennummer voor gehouden landdieren doet een aanvraag voor een verplaatsingsdocument en, ingeval er voor een dier nog geen identificatiedocument is afgegeven, voor een identificatiedocument als bedoeld in de artikelen 77, 78 en 79 van verordening (EU) nr. 2019/2035 met een daartoe door de minister beschikbaar gesteld middel.

@@ -1,0 +1,3 @@
+# Artikel 5b.38. Termijn voor het bestellen van een vervangend identificatiemiddel
+1. Ingeval artikel 5b.37 van toepassing is, bestelt de exploitant, ingeval hij geen vervangend identificatiemiddel voorhanden heeft, binnen drie werkdagen, te rekenen vanaf de dag na de dag waarop het verlies van het identificatiemiddel van het varken is geconstateerd, een identificatiemiddel ter vervanging.
+2. De exploitant, bedoeld in het eerste lid, brengt het vervangende identificatiemiddel aan zodra het identificatiemiddel in zijn bezit is en in ieder geval binnen tien werkdagen nadat het verlies van het identificatiemiddel van een varken is geconstateerd en voordat het varken de inrichting verlaat.

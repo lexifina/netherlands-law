@@ -1,0 +1,5 @@
+# Artikel 5b.15. Nadere voorschriften aanbrengen identificatiemiddelen
+1. Het is een exploitant die runderen, paardachtigen, schapen, geiten of varkens houdt verboden om bij zijn dieren identificatiemiddelen, slachtmerken of gebruiksmerken aan te brengen die blijkens de op het identificatiemiddel vermelde gegevens door de minister aan derden ter beschikking zijn gesteld.
+2. Het verbod, bedoeld in het eerste lid, is niet van toepassing op exploitanten die runderen, schapen of geiten houden, indien de derde, bedoeld in het eerste lid, de middelen of merken aan de exploitant heeft verstrekt nadat hij hiervan melding heeft gemaakt als bedoeld in artikel 5b.13, tweede lid.
+3. Het is de exploitant die dieren houdt verboden om bij zijn dieren identificatiemiddelen, slachtmerken of gebruiksmerken aan te brengen die niet afkomstig zijn van een erkende leverancier.
+4. Het derde lid is niet van toepassing indien een leverancier op grond van deze regeling niet hoeft te zijn erkend voor de verstrekking van het desbetreffende middel of merk.

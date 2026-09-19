@@ -1,0 +1,2 @@
+# Artikel 7b.10. Registratie houders van legkippen
+Ter verkrijging van een registratie als bedoeld in artikel 2.69, eerste lid, van het besluit doet een houder als bedoeld in artikel 2.69, eerste lid, van het besluit de inkennisstelling, bedoeld in artikel 84, eerste lid, onderdeel a, van verordening (EU) nr. 2016/429, met dien verstande dat hij daarbij de gegevens, bedoeld in onderdeel 1 van de bijlage bij Richtlijn 2002/4/EG, verstrekt ten behoeve van opname in het geautomatiseerde gegevensbestand, bedoeld in artikel 109 van verordening (EU) nr. 2016/429.

@@ -1,0 +1,2 @@
+# Artikel 7d.2. Opkweekdoeleinden
+Overeenkomstig artikel 16, eerste lid, van het Landbouwkwaliteitsbesluit 2007 kan de minister voor opkweekdoeleinden toestemming geven dat in een biologische productie-eenheid gebruik wordt gemaakt van maximaal 50 procent niet-biologische juvenielen overeenkomstig punt 3.1.2.1, onderdeel e, van bijlage II, deel III, van verordening (EU) 2018/848 en onder de daar opgenomen voorwaarden en beperkingen.

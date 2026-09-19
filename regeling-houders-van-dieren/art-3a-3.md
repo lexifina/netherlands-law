@@ -1,0 +1,2 @@
+# Artikel 3a.3. Melding ziekteverschijnselen runderen
+Een houder van runderen meldt in elk geval bij runderen ouder dan twintig maanden, ziekteverschijnselen van Bovine Spongiforme encefalopathie, indien die runderen gedragsstoornissen of neurologische symptomen vertonen en waarbij de ziekte op grond van een reactie op een behandeling of op grond van een laboratoriumonderzoek niet kan worden uitgesloten.

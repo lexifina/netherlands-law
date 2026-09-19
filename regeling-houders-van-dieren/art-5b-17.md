@@ -1,0 +1,3 @@
+# Artikel 5b.17. Verwijdering en vervanging identificatiemiddel
+1. Het is de exploitant die runderen houdt, in afwijking van artikel 38, eerste lid, onderdeel c, van verordening (EU) nr. 2019/2035, toegestaan om bij zijn runderen de conventionele oormerken, bedoeld in artikel 38, eerste lid, van verordening (EU) nr. 2019/2035, te verwijderen en te vervangen door één van de in bijlage III, onder c, d of e, bij die verordening genoemde identificatiemiddelen met een bijpassend conventioneel oormerk dat voldoet aan artikel 5b.18.
+2. Wanneer toepassing wordt gegeven aan het eerste lid, wordt het vervangende elektronische oormerk, voor zover dat mogelijk is, aangebracht in het bestaande gat in het oor van het rund.

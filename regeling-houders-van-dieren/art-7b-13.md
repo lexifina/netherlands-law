@@ -1,0 +1,3 @@
+# Artikel 7b.13. Monstername monitoring aviaire influenza
+1. Een houder als bedoeld in artikel 2.76ib, eerste lid, van het besluit, laat een bloedmonster nemen door een dierenarts of een dierenartsassistent paraveterinair van de door hem gehouden dieren en laat die monsters onderzoeken op de aanwezigheid van antistoffen tegen aviaire influenza van het subtype H5 of H7 door de instelling die op grond van artikel 3.1 van het Besluit diergezondheid is aangewezen voor de uitvoering van het monitoringsprogramma voor aviaire influenza.
+2. Bij de monstername wordt ten minste 1 milliliter bloed per dier afgenomen.

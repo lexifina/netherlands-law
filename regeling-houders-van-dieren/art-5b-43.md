@@ -1,0 +1,3 @@
+# Artikel 5b.43. Termijn voor het bestellen van een vervangend identificatiemiddel
+1. Ingeval artikel 5b.42 van toepassing is, bestelt de exploitant binnen veertien dagen, te rekenen vanaf de dag na de dag waarop het verlies van het identificatiemiddel van de kameel- of hertachtige is geconstateerd, een identificatiemiddel ter vervanging.
+2. De exploitant, bedoeld in het eerste lid, brengt het vervangende identificatiemiddel aan zodra het identificatiemiddel in zijn bezit is en in ieder geval binnen 21 dagen nadat het verlies van het identificatiemiddel van de kameel- of hertachtige is geconstateerd en voordat het dier de inrichting verlaat.
