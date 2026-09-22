@@ -1,6 +1,0 @@
-# Artikel XII
-1. In dit artikel wordt verstaan onder richtlijn: richtlijn nr. 2004/39/EG van het Europees Parlement en de Raad van de Europese Unie van 21 april 2004 betreffende markten voor financiële instrumenten, tot wijziging van de Richtlijnen 85/611/EEG en 93/6/EEG van de Raad en van Richtlijn 2000/12/EG van het Europees Parlement en de Raad en houdende intrekking van Richtlijn 93/22/EEG van de Raad (PbEU L 145).
-2. Onverminderd het derde lid hoeft een beleggingsonderneming tot 1 januari 2011 niet te voldoen aan het bepaalde in de hoofdstukken 9 en 10 van het Besluit prudentiële regels Wft indien:
-a. haar belangrijkste werkzaamheden uitsluitend bestaan uit het bieden van beleggingsdiensten of beleggingsactiviteiten als bedoeld in artikel 4, eerste lid, onder punt 2, van de richtlijn in verband met de financiële instrumenten, bedoeld in de richtlijn, bijlage I, Deel C, punten 5, 6, 7 en 10; en
-b. de richtlijn beleggingsdiensten op 31 december 2006 niet op haar van toepassing was.
-3. Het tweede lid is niet langer van toepassing vanaf het tijdstip van inwerkingtreding van een wijziging als bedoeld in artikel 65, derde lid, van de richtlijn indien die wijziging vóór 31 december 2010 in werking treedt en die wijziging zich niet verdraagt met dat lid.
