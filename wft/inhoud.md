@@ -78,7 +78,7 @@
 #### Afdeling 2.2.2. Uitoefenen van bedrijf van bank en financiële instelling
 ##### § 2.2.2.1. Vergunningplicht en -eisen voor banken met zetel in Nederland
 ##### § 2.2.2.2. Bijkantoor en verrichten van diensten door banken met zetel in een andere lidstaat
-##### § 2.2.2.3. Vergunningplicht en -eisen voor banken met zetel in een staat die geen lidstaat is
+##### § 2.2.2.3. Vergunningplicht en -eisen voor ondernemingen met zetel in een staat die geen lidstaat is
 ##### § 2.2.2.4. Bijkantoor en verrichten van diensten door financiële instellingen met zetel in een andere lidstaat
 #### Afdeling 2.2.2a. Uitoefenen van bedrijf van herverzekeraar
 ##### § 2.2.2a.1. Vergunningplicht en -eisen voor herverzekeraars met zetel in Nederland
@@ -235,7 +235,6 @@
 ##### § 3.3.10.4. Financiële ondernemingen met zetel buiten Nederland
 #### Afdeling 3.3.11. Gekwalificeerde deelnemingen in en door financiële ondernemingen
 ##### § 3.3.11.1. Financiële ondernemingen met zetel in Nederland
-##### § 3.3.11.2. Banken met zetel in een staat die geen lidstaat is
 ### Hoofdstuk 3.4. Regels voor bepaalde ondernemingen werkzaam op de financiële markten
 #### Afdeling 3.4.1. Ondertoezichtstelling financiële instellingen
 ##### § 3.4.1.1. Financiële instellingen met zetel in Nederland
