@@ -1,0 +1,8 @@
+# Artikel 2a
+1. Een onderneming als bedoeld in artikel 3:269a, eerste lid, van de wet, beschikt over:
+a. adequate procedures met betrekking tot de kapitaaltoereikendheid om alle bestaande materiële risico's te bepalen en te meten en het eigen vermogen naar behoren af te stemmen op de risico's;
+b. gedegen rapportage- en jaarrekeningsystemen, met het oog op de bepaling, meting, bewaking en beheersing van de intragroepsovereenkomsten en -posities en de risicoconcentratie.
+2. De onderneming beschikt tevens met het oog op het risicobeheer, bedoeld in artikel 3:269a, eerste lid, onderdeel a, van de wet, over:
+a. een gedegen bestuur en beheer, waarin is voorzien in goedkeuring en periodieke evaluatie van de strategieën en het beleid door de passende bestuursorganen op het niveau van het financiële conglomeraat met betrekking tot alle risico's die zij aangaan;
+b. een adequaat kapitaaltoereikendheidsbeleid om te anticiperen op de gevolgen van de bedrijfsstrategie van de gereglementeerde entiteiten in het financieel conglomeraat voor het risicoprofiel en de kapitaaltoereikendheid, bedoeld in artikel 3:296 van de wet;
+c. adequate procedures om te waarborgen dat de risicobewakingssystemen van de gereglementeerde entiteiten in het financieel conglomeraat goed geïntegreerd zijn in hun organisatie en dat alle maatregelen zijn genomen om te waarborgen dat de systemen die worden toegepast in alle ondernemingen die onder het aanvullende toezicht vallen met elkaar in overeenstemming zijn, zodat de risico's op het niveau van het financiële conglomeraat kunnen worden gemeten, bewaakt en beheerst.
