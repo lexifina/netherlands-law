@@ -1,0 +1,3 @@
+# Artikel 11a. (alarmcentralisten)
+1. In afwijking van artikel 5, eerste lid, van deze regeling, kan een beveiligingsorganisatie als bedoeld in artikel 3, onder b, van de wet een persoon belasten met beveiligingswerkzaamheden als alarmcentralist indien deze in het bezit is van het certificaat Basisopleiding Centralist Alarmcentrale van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties of een erkenning van beroepskwalificaties als bedoeld in artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties, voor werkzaamheden als alarmcentralist.
+2. Het bepaalde in artikel 5, tweede en vierde lid, van deze regeling, is van overeenkomstige toepassing.
