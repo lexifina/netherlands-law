@@ -1,0 +1,5 @@
+# Artikel 1a
+1. De dienstaanbieder die één of beide activiteiten, als bedoeld in artikel 1:5a, onderdeel k, onder i en ii, van de wet verricht, waarbij de totale waarde van de uitgevoerde betalingstransacties in de voorgaande twaalf maanden het bedrag van 1 miljoen euro overschrijdt, geeft daarvan kennis aan de Nederlandsche Bank.
+2. De kennisgeving, bedoeld in het eerste lid, geschiedt onder opgave van een beschrijving van de aangeboden diensten, waarbij wordt gespecificeerd uit hoofde van welke uitzondering als bedoeld in artikel 1:5a, onderdeel k, onder i en ii, de activiteit geacht wordt te zijn verricht.
+3. De dienstaanbieder die een activiteit, als bedoeld in artikel 1:5a, onderdeel l, van de wet verricht, geeft daarvan kennis aan de Nederlandsche Bank.
+4. De kennisgeving, bedoeld in het derde lid, geschiedt onder opgave van een accountantsverklaring waaruit blijkt dat de activiteit wordt verricht met inachtneming van de in artikel 1:5a, onderdeel l, vastgestelde maximumbedragen. Deze accountantsverklaring wordt jaarlijks verstrekt.

@@ -1,0 +1,4 @@
+# Artikel 56c
+1. De Nederlandse beheerder van een beleggingsinstelling verstrekt de informatie en meldingen, bedoeld in artikel 2:121c, negende lid, van de wet, overeenkomstig artikel 32, achtste lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen.
+2. De Autoriteit Financiële Markten neemt bij het sturen van de gegevens, bedoeld in artikel 2:121c, tweede lid, van de wet, de ingevolge artikelen 32, achtste lid, 35, zestiende lid, en 39, tiende lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde regels met betrekking tot de vorm van de kennisgeving in acht.
+3. De informatie over de wijze waarop rechten van deelneming worden aangeboden en informatie over de wijze waarop wordt voorkomen dat rechten van deelneming worden aangeboden aan niet-professionele beleggers, bedoeld in artikel 2:121c, eerste lid, onderdeel h, is onderworpen aan Nederlands recht.
