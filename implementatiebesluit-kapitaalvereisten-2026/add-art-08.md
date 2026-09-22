@@ -1,0 +1,2 @@
+# Artikel VIII
+Dit besluit treedt in werking op het tijdstip waarop artikel BB van de Implementatiewet kapitaalvereisten 2026 in werking treedt, met uitzondering van artikel I, onderdelen D tot en met I, L, O tot en met Q, V tot en met X, BB tot en met DD, artikel II, onderdeel C, en artikel VI, die in werking treden op het tijdstip waarop artikel I, onderdeel S, van de Implementatiewet kapitaalvereisten 2026 in werking treedt.
