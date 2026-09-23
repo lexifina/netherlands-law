@@ -1,0 +1,5 @@
+# Artikel 7a. Aerodrome Traffic Zone op luchthaven Budel
+1. De luchtruimte rond de luchthaven Budel geldt gedurende de openstellingsuren van die luchthaven ter bescherming van het luchthavenverkeer waaronder luchtvaartuigen met de luchthaven Budel als plaats van bestemming of vertrek als ATZ en wordt aangeduid als ATZ Budel.
+2. De ATZ Budel is lateraal en verticaal begrensd op de wijze zoals aangegeven in de bij deze regeling behorende bijlage 2.
+3. De exploitant van luchthaven Budel zorgt er tijdens de daglichtperiode voor dat gedurende openstellingsuren van de luchthaven Budel voorafgaand aan de eerste vliegactiviteit en na afloop van de laatste vliegactiviteit door of namens hem contact wordt opgenomen met de verlener van plaatselijke luchtverkeersleidingsdiensten Kleine-Brogel en het AOCS Nieuw Milligen.
+4. De AFIS-unit Budel neemt buiten de daglichtperiode tijdens de openstellingsuren van de luchthaven Budel voorafgaand aan de eerste vliegactiviteit en na afloop van de laatste vliegactiviteit contact op met de verlener van plaatselijke luchtverkeersleidingsdiensten Kleine-Brogel en het AOCS Nieuw Milligen.

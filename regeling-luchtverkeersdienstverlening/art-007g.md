@@ -1,0 +1,12 @@
+# Artikel 7g. Zweefvlieggebied Castricum
+1. De luchtruimte rondom de luchthaven Zweefvliegveld Castricum wordt aangeduid als zweefvlieggebied Castricum 1.
+2. De luchtruimte ten noorden van de luchthaven Zweefvliegveld Castricum wordt aangeduid als zweefvlieggebied Castricum 2.
+3. Het zweefvlieggebied, bedoeld in het tweede lid, is lateraal en verticaal begrensd op de wijze zoals aangegeven in de bij deze regeling behorende bijlage 2.
+4. Het gebied, bedoeld in het tweede lid, maakt tussen 06:00 uur en 23:00 uur plaatselijke tijd binnen de daglichtperiode onder de volgende voorwaarden geen deel uit van de Schiphol TMA 1, bedoeld in artikel 2, tweede lid, onderdeel a:
+a. de verlener van de betrokken luchtverkeersleidingsdiensten heeft, op verzoek van de vliegcoördinator van de zweefvliegclub, aan de hand van het totale aanbod van luchtverkeer vastgesteld dat de betrokken gebieden voor zweefvliegactiviteiten kunnen worden gebruikt;
+b. de verlener van de betrokken luchtverkeersleidingsdiensten geeft aanwijzingen aan de gebruikers via de vliegcoördinator van de zweefvliegclub ten aanzien van het aanvangen en beëindigen of opschorten van zweefvliegactiviteiten, en
+c. de coördinatie en communicatie geschieden op een overeen te komen wijze tussen de verlener van de betrokken luchtverkeersleidingsdiensten en de vliegcoördinator van de zweefvliegclub waartoe de gebruikers van de zweefvlieggebieden ten behoeve van zweefvliegactiviteiten behoren.
+5. Het gebied, bedoeld in het eerste lid, maakt tussen 06:00 uur en 23:00 uur plaatselijke tijd binnen de daglichtperiode onder de volgende voorwaarden geen deel uit van de Schiphol TMA 7, bedoeld in artikel 2, tweede lid, onderdeel a:
+a. de verlener van de betrokken luchtverkeersleidingsdiensten heeft, op verzoek van de vliegcoördinator van de zweefvliegclub, aan de hand van het totale aanbod van luchtverkeer vastgesteld dat het betrokken gebied voor zweefvliegactiviteiten kan worden gebruikt;
+b. de verlener van de betrokken luchtverkeersleidingsdiensten geeft aanwijzingen aan de gebruikers via de vliegcoördinator van de zweefvliegclub ten aanzien van het aanvangen en beëindigen of opschorten van zweefvliegactiviteiten, en
+c. de coördinatie en communicatie geschieden op een overeen te komen wijze tussen de verlener van de betrokken luchtverkeersleidingsdiensten en de vliegcoördinator van de zweefvliegclub waartoe de gebruikers van het zweefvlieggebied ten behoeve van zweefvliegactiviteiten behoren.
