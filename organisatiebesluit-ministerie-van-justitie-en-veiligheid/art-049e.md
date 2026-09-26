@@ -1,0 +1,2 @@
+# Artikel 49e
+Het stafbureau is belast met het monitoren van (middel)lange termijn trajecten met COVID-19 karakter bij departementen en met het monitoren van ontwikkelingen in de samenleving als gevolg van de crisis, zowel maatschappelijk als sociaaleconomisch van aard (dashboard). Daarnaast zorgt het stafbureau voor de ondersteuning van de programmadirecteur-generaal, de directeuren en het Managementteam en voor de inbreng van stukken vanuit het DGSC-19 in DOC-19, ACC-19, MCC-19, voor zover dit de taken betreft van het DG.

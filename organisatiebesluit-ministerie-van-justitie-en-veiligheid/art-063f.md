@@ -1,0 +1,3 @@
+# Artikel 63f
+1. De Dienst Justitiële Inrichtingen (DJI) is belast met het tenuitvoerleggen van vrijheidsstraffen en vrijheidsbenemende maatregelen en met het voorbereiden van de aan de zorg van de bewindspersoon toevertrouwde personen op hun succesvolle terugkeer naar de maatschappij, binnen of buiten Nederland.
+2. De DJI is tevens belast met het behandelen van rechtshulpverzoeken inzake de overdracht en overname van de tenuitvoerlegging van vrijheidsstraffen en vrijheidsbenemende maatregelen op grond van de Wet overdracht tenuitvoerlegging strafvonnissen en de Wet wederzijdse erkenning en tenuitvoerlegging vrijheidsbenemende en voorwaardelijke sancties.
