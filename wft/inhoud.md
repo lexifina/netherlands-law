@@ -407,7 +407,7 @@
 #### Afdeling 5.6a.3. Transparantie vermogensbeheerders en stemadviseurs
 ### Hoofdstuk 5.7. Regels voor de toegang tot betalingssystemen
 ### Hoofdstuk 5.8. Toezicht op ratingbureaus
-### Hoofdstuk 5.9. Positielimieten en positiebeheerscontroles voor grondstoffenderivaten
+### Hoofdstuk 5.9. Positielimieten voor grondstoffenderivaten en positiebeheerscontroles voor grondstoffenderivaten en van emissierechten afgeleide instrumenten
 #### Afdeling 5.9.1. Positielimieten
 #### Afdeling 5.9.2. Positiebeheerscontroles
 #### Afdeling 5.9.3. Rapportages
