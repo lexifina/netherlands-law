@@ -1,0 +1,2 @@
+# Artikel 56c
+Van artikel 8, eerste lid van het Besluit openbare biedingen Wft, voor zover het de verplichting betreft tot vermelding in het biedingsbericht van de gegevens bedoeld in bijlage B, paragraaf 1, onderdeel 1, Bijlage C, onderdeel 1 en Bijlage D, onderdeel 1 van dat besluit, zijn vrijgesteld bieders voor zover zij een openbaar bod aankondigen of uitbrengen op rechten van deelneming in een beleggingsinstelling waarvan de rechten van deelneming op verzoek van de houder ten laste van de activa direct of indirect worden ingekocht of terugbetaald of in een icbe.

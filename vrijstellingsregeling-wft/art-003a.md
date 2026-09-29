@@ -1,0 +1,5 @@
+# Artikel 3a
+Van artikel 2:60, eerste lid, van de wet zijn vrijgesteld instellingen als bedoeld in artikel 5b, eerste lid, van de Algemene wet inzake rijksbelastingen, voorzover:
+a. zij krediet aanbieden ter overbrugging van tijdelijke liquiditeitstekorten aan natuurlijke personen die op het tijdstip van aangaan van de overeenkomst inzake het krediet over geen of onvoldoende inkomen beschikken om in de noodzakelijke kosten van bestaan te voorzien danwel uitkeringsgerechtigde zijn als bedoeld in artikel 1, onderdeel l, van de Wet structuur uitvoeringsorganisatie werk en inkomen;
+b. het jaarlijks kostenpercentage van het aangeboden krediet op het tijdstip van aangaan van de overeenkomst inzake het krediet niet meer bedraagt dan de helft van de wettelijke rente als bedoeld in artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek; en
+c. zij de natuurlijke personen duidelijk en volledig over hun rechten en plichten met betrekking tot de overeenkomst hebben geïnformeerd, desgewenst schriftelijk, alvorens de overeenkomst inzake het krediet aan te gaan.

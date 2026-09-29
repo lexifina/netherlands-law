@@ -1,0 +1,8 @@
+# Artikel 1d
+1. Van artikel 2:10a, eerste lid, van de wet zijn vrijgesteld elektronischgeldinstellingen met rechtspersoonlijkheid, indien:
+a. het elektronisch geld in Nederland wordt uitgegeven en de gezamenlijke waarde van de financiële verplichtingen van de onderneming die met de uitgifte van elektronisch geld verband houden, gemiddeld niet hoger is dan € 5.000.000;
+b. geen van de personen die het beleid bepalen of mede bepalen personen zijn met antecedenten als bedoeld in artikel 6, onderdeel a, b of d, van het Besluit prudentiële regels Wft, voor zover deze betrekking hebben op het witwassen van geld, terrorismefinanciering of vermogensmisdrijven of als misdrijf aangemerkte overtredingen van financiële toezichtswetgeving;
+c. de onderneming elektronisch geld slechts uitgeeft via een betaalinstrument of rekening voor elektronisch geld waarop maximaal een bedrag van € 150 tegelijk kan worden opgeslagen; en
+d. de onderneming de Nederlandsche Bank in kennis heeft gesteld van haar voornemen om elektronisch geld uit te geven.
+2. Indien een elektronischgeldinstelling als bedoeld in het eerste lid zijn werkzaamheden niet gedurende de gehele periode van de voorafgaande twaalf maanden heeft verricht, kan voor de toepassing van het eerste lid, onderdeel a, worden uitgegaan van een programma van werkzaamheden waarin naar het oordeel van de Nederlandsche Bank een reële begroting is opgenomen van de gezamenlijke waarde van de financiële verplichtingen die verband houden met de uitgifte van elektronisch geld.
+3. Een elektronischgeldinstelling als bedoeld in het eerste lid stelt de Nederlandsche Bank onverwijld in kennis van elke verandering in zijn situatie die relevant is voor het naleven van de in het eerste lid gestelde regels.

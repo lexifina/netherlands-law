@@ -1,0 +1,2 @@
+# Artikel 18b
+Natura-uitvaartverzekeraars die ingevolge artikel 1e, eerste lid, of 1g, eerste lid, zijn vrijgesteld van artikel 2:48, eerste lid respectievelijk artikel 2:50, eerste lid, van de wet en schadeverzekeraars die ingevolge artikel 1f, eerste lid, of 1g, tweede lid, zijn vrijgesteld van artikel 2:48, eerste lid respectievelijk artikel 2:50, eerste lid, van de wet zijn tevens vrijgesteld van hetgeen ingevolge het Deel Prudentieel toezicht financiële ondernemingen, met uitzondering van de artikelen 3:5, 3:6, 3:7 en 3:20, van de wet, is bepaald.

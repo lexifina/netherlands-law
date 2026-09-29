@@ -1,0 +1,2 @@
+# Artikel 1i
+Van artikel 2:54i, eerste lid, van de wet zijn vrijgesteld beleggingsondernemingen waaraan een vergunning als bedoeld in artikel 2:96, eerste lid, van de wet is verleend, voor zover het betreft het uitbetalen van munten en bankbiljetten tegen inlevering van een of meer onderdelen van het couponblad van een waardepapier aan toonder tegen inlevering waarvan de rente op dit waardepapier kan worden geïnd.

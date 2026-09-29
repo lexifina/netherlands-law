@@ -1,0 +1,9 @@
+# Artikel 1a
+1. Van artikel 2:3a, eerste lid, van de wet zijn vrijgesteld betaaldienstverleners:
+a. voor zover zij in Nederland betaaldiensten aanbieden als bedoeld onder 1 tot en met 5 van de bijlage bij de richtlijn betaaldiensten;
+b. waarvan het gemiddelde van het totale bedrag van de betalingstransacties die zij de voorafgaande twaalf maanden hebben verricht, met inbegrip van die van agenten waarvoor zij volledig aansprakelijk zijn, niet hoger is dan € 3.000.000 per maand;
+c. waarvan geen van de personen die het beleid bepalen of mede bepalen personen zijn met antecedenten als bedoeld in artikel 6, onderdelen a, b en d, van het Besluit prudentiële regels Wft voor zover deze betrekking hebben op het witwassen van geld, terrorismefinanciering of vermogensmisdrijven of als misdrijf aangemerkte overtredingen van financiële toezichtswetgeving; en
+d. die de Nederlandsche Bank in kennis hebben gesteld van hun voornemen om de bedoelde betaaldiensten te verlenen.
+2. Het ingevolge artikel 3:29a van de wet en de artikelen 26e tot en met 26h van het Besluit prudentiële regels Wft bepaalde is van overeenkomstige toepassing op betaaldienstverleners als bedoeld in het eerste lid.
+3. Indien een betaaldienstverlener als bedoeld in het eerste lid zijn werkzaamheden niet gedurende de gehele periode van de voorafgaande twaalf maanden heeft verricht, kan voor de toepassing van het eerste lid, onderdeel b, worden uitgegaan van een programma van werkzaamheden waarin naar het oordeel van de Nederlandsche Bank een reële begroting van het totale bedrag aan betalingstransacties is opgenomen.
+4. Een betaaldienstverlener als bedoeld in het eerste lid stelt de Nederlandsche Bank in kennis van elke verandering in zijn situatie die relevant is voor het naleven van de in het eerste lid gestelde voorschriften.

@@ -1,0 +1,2 @@
+# Artikel 18aa
+Herverzekeraars met zetel in de Verenigde Staten van Amerika die voldoen aan artikel 3, vierde lid, van de bilaterale overeenkomst tussen de Europese Unie en de Verenigde Staten van Amerika inzake prudentiële maatregelen betreffende verzekering en herverzekering (PbEU 2017, L 258) zijn vrijgesteld van het Deel Prudentieel toezicht financiële ondernemingen, met uitzondering van de artikelen 3:5, 3:6 en 3:7.

@@ -1,0 +1,2 @@
+# Artikel 3d
+Van artikel 2:60, eerste lid, van de wet zijn vrijgesteld kredietkopers met zetel in Nederland die uitsluitend de rechten van een kredietgever op grond van een niet-renderende kredietovereenkomst met een consument of niet-renderende kredietovereenkomsten met een consument kopen en die op grond van artikel 4:81i, eerste lid, van de wet een financiële onderneming als bedoeld in dat artikel hebben aangewezen voor het servicen van niet-renderende kredietovereenkomsten.
