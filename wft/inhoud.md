@@ -391,7 +391,6 @@
 #### Afdeling 5.3.2. Meldingen door uitgevende instellingen betreffende het kapitaal en de stemmen
 #### Afdeling 5.3.3. Meldingen door aandeelhouders en andere stemgerechtigden betreffende wijzigingen in zeggenschap en kapitaalbelang
 #### Afdeling 5.3.4. Bijzondere bepalingen en uitzonderingen op de meldingsplicht betreffende wijzigingen in zeggenschap en kapitaalbelang
-#### Afdeling 5.3.5. Meldingen door bestuurders en commissarissen betreffende zeggenschap en kapitaalbelang
 #### Afdeling 5.3.6. Registratie van meldingen
 #### Afdeling 5.3.7. Overige regels
 ### Hoofdstuk 5.4. Regels voor het optreden op markten in financiële instrumenten
