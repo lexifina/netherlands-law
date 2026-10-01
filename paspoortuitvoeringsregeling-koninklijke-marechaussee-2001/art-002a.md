@@ -1,0 +1,2 @@
+# Artikel 2a. Aanleveren gegevens
+Degene die op grond van deze regeling gegevens verstrekt ten behoeve van de reisdocumentenadministratie, het register vermiste of vervallen reisdocumenten of de basisadministratie, verstrekt deze gegevens, met uitzondering van vingerafdrukken, gezichtsopname en handtekening, eveneens aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties ten behoeve van het basisregister reisdocumenten.

@@ -1,0 +1,2 @@
+# Artikel 31a
+Van het van rechtswege vervallen van een reisdocument ingevolge artikel 47, eerste lid, onder a, b, c, e, f of h van de wet wordt, met het oog op de vermelding daarvan in het register vermiste of vervallen reisdocumenten, terstond melding gedaan aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier.
