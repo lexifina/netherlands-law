@@ -1,0 +1,4 @@
+# Artikel 156a
+1. Verklaringen van vakbekwaamheid en verklaringen van nascholing worden op aanvraag en tegen betaling van het daarvoor vastgestelde tarief door het CBR in het rijbewijzenregister geregistreerd ten behoeve van een ieder die de basiskwalificatie heeft behaald dan wel de nascholing met goed gevolg heeft voltooid.
+2. Deelcertificaten worden op aanvraag en tegen betaling van het daarvoor vastgestelde tarief door het CBR afgegeven aan een ieder die een nascholingsonderdeel heeft gevolgd en de nascholing in een andere lidstaat van de Europese Unie met goed gevolg wil voltooien.
+3. In afwijking van het eerste lid worden verklaringen van vakbekwaamheid en verklaringen van nascholing tegen overlegging van een geldige kwalificatiekaart bestuurder door de Dienst Wegverkeer in het rijbewijzenregister geregistreerd.

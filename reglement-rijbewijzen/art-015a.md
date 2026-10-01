@@ -1,0 +1,2 @@
+# Artikel 15a
+Indien de aanvrager van een rijbewijs voor de categorie AM, die blijkens de ten behoeve van hem in het rijbewijzenregister geregistreerde verklaring van rijvaardigheid het praktijkexamen voor de categorie AM heeft afgelegd met een bromfiets op drie of vier wielen, wordt een rijbewijs AM afgegeven dat slechts geldig is voor het besturen van bromfietsen op drie of vier wielen. In het rijbewijs is deze beperking aangeduid met een bij ministeriële regeling vastgestelde codering.

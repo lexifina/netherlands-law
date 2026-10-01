@@ -1,0 +1,2 @@
+# Artikel 48a
+Indien op het moment van uitreiking van het rijbewijs het eerder aan de aanvrager afgegeven rijbewijs verloren is geraakt of teniet is gegaan, dient de aanvrager een proces-verbaal over te leggen terzake van verlies of tenietgaan van het rijbewijs, in Nederland op ambtseed opgemaakt door een daartoe bevoegd algemeen of buitengewoon opsporingsambtenaar. In het proces-verbaal dienen de omstandigheden waaronder het rijbewijs verloren is geraakt of teniet is gegaan, te worden omschreven.

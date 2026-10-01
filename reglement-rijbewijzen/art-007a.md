@@ -1,0 +1,6 @@
+# Artikel 7a
+1. De bromfiets, waarmee rijonderricht in de zin van de Wet rijonderricht motorrijtuigen 1993 wordt gegeven in het kader van de opleiding voor het praktijkexamen voor de rijbewijscategorie AM, tweewielige bromfietsen, dient te zijn voorzien van een bij ministeriële regeling vastgestelde aanduiding, aangebracht op de wijze als bij die regeling is voorgeschreven.
+2. De bromfiets waarmee rijonderricht in de zin van de Wet rijonderricht motorrijtuigen 1993 wordt gegeven in het kader van de opleiding voor het praktijkexamen voor de rijbewijscategorie AM, drie- of vierwielige bromfietsen, dient te zijn voorzien van:
+a. inrichtingen die zo zijn aangebracht dat degene die rijonderricht geeft daarmee de bedrijfsrem en de koppeling vanaf zijn zitplaats doeltreffend kan bedienen, dan wel, indien het een motorrijtuig met automatische schakeling betreft, van een andere inrichting waarmee hij de aandrijving van het motorrijtuig door de motor kan onderbreken;
+b. een binnen- en een buitenspiegel waarmee degene die rijonderricht geeft het achter en rechts naast hem gelegen weggedeelte kan overzien;
+c. een bij ministeriële regeling vastgestelde aanduiding, aangebracht op de wijze als bij die regeling is voorgeschreven.

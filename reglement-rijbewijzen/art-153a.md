@@ -1,0 +1,2 @@
+# Artikel 153a
+Indien een rijbewijs dat op grond van artikel 124, eerste lid, onderdeel d, van de wet voor ongeldigverklaring in aanmerking komt, niet ongeldig kan worden verklaard omdat het zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur, plaatst het CBR in het rijbewijzenregister een aantekening waaruit blijkt dat ten aanzien van de houder bij de aanvraag van een nieuw rijbewijs een verklaring van geschiktheid dient te zijn geregistreerd voor iedere rijbewijscategorie waarop de aantekening betrekking heeft.

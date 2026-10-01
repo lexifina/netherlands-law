@@ -1,0 +1,7 @@
+# Artikel 156m
+1. Het praktijkexamen vakbekwaamheid voor rijbewijscategorie D bestaat uit een rijproef die geïntegreerd wordt afgelegd met het praktijkexamen voor het rijbewijs D, en uit de praktijktoetsen vakbekwaamheid 1 en 2. De praktijktoets vakbekwaamheid 1 bestaat uit een praktische toets. De praktijktoets vakbekwaamheid 2 kan op een besloten terrein of een simulator worden afgelegd.
+2. De eisen voor het praktijkexamen vakbekwaamheid voor rijbewijscategorie D worden bij ministeriële regeling vastgesteld en betreffen in ieder geval:
+a. bedrevenheid in rationeel rijden op basis van veiligheidsvoorschriften;
+b. het kunnen toepassen van voorschriften omtrent de onderwerpen die voor bestuurders van motorvoertuigen van die categorie zijn opgenomen in bijlage I van de richtlijn vakbekwaamheid bestuurders;
+c. het op juiste en veilige wijze kunnen toepassen van kennis en vaardigheden met betrekking tot een aantal bijzondere onderwerpen die voor bestuurders van motorvoertuigen van die categorie zijn opgenomen in bijlage I van de richtlijn vakbekwaamheid bestuurders.
+3. De aanvrager die reeds beschikt over een rijbewijs van de categorie D1 of D, dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur, verwerft het praktijkexamen vakbekwaamheid voor rijbewijscategorie D door in aanvulling op dat rijbewijs met goed gevolg de bij ministeriële regeling vastgestelde onderdelen van dat praktijkexamen af te leggen.

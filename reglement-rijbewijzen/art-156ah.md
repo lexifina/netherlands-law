@@ -1,0 +1,2 @@
+# Artikel 156ah
+Voor de toepassing van hoofdstuk VIIA wordt met een geldig rijbewijs van de rijbewijscategorieën C1, E bij C1, C, E bij C, D1, E bij D1, D of E bij D gelijkgesteld een geldig rijbewijs, afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Unie, in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of in Zwitserland.

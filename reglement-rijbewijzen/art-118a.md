@@ -1,0 +1,3 @@
+# Artikel 118a
+1. Degene die een rijbewijs afgeeft tegen overlegging van een eerder afgegeven rijbewijs waarin vermeldingen of beperkende aantekeningen in de vorm van een bij ministeriële regeling vastgestelde codering zijn aangebracht, neemt die codering of coderingen over in het af te geven rijbewijs.
+2. Indien het eerder afgegeven rijbewijs niet kan worden overgelegd omdat het verloren is geraakt of teniet is gegaan, neemt degene die een rijbewijs afgeeft de in het rijbewijzenregister opgenomen vermeldingen of beperkende aantekeningen in de vorm van een bij ministeriële regeling vastgestelde codering over in het af te geven rijbewijs.

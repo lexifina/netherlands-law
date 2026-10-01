@@ -1,0 +1,3 @@
+# Artikel 156j
+1. Het gedeelte van het praktijkexamen vakbekwaamheid dat niet op de openbare weg wordt afgelegd, kan worden afgelegd door personen die de leeftijd van 17 jaren hebben bereikt indien het betreft een praktijkexamen vakbekwaamheid voor de rijbewijscategorieën C1, E bij C1, C, E bij C, D1, E bij D1, D en E bij D.
+2. Het gedeelte van het praktijkexamen vakbekwaamheid dat op de openbare weg wordt afgelegd, kan worden afgelegd door personen die de leeftijd van 18 jaren hebben bereikt indien het betreft een praktijkexamen vakbekwaamheid voor rijbewijscategorieën C1, E bij C1, C, E bij C, D1, E bij D1, D en E bij D.

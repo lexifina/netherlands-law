@@ -1,0 +1,2 @@
+# Artikel 19a
+Aan de aanvrager van een rijbewijs, die blijkens de ten behoeve van hem in het rijbewijzenregister geregistreerde verklaring van geschiktheid de tot het besturen van motorrijtuigen vereiste geschiktheid slechts bezit indien hij het door hem te besturen motorrijtuig gebruikt voor privé doeleinden, wordt een rijbewijs afgegeven dat slechts geldig is voor het besturen van motorrijtuigen voor privé doeleinden. In het rijbewijs is deze beperking aangeduid met een bij ministeriële regeling vastgestelde codering.

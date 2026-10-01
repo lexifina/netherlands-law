@@ -1,0 +1,3 @@
+# Artikel 69b
+1. Het praktijkexamen voor de rijbewijscategorie AM, bromfietsen op twee wielen, bestaat uit het afleggen van een rijproef met een bromfiets op twee wielen die blijkens de gegevens in het kentekenregister of voor het voertuig afgegeven kentekenbewijs is geconstrueerd voor een maximumsnelheid die meer bedraagt dan 25 km/h.
+2. Het praktijkexamen voor de rijbewijscategorie AM, bromfietsen op drie of vier wielen, bestaat uit het afleggen van een rijproef met een bromfiets op drie of vier wielen die blijkens de gegevens in het kentekenregister of voor het voertuig afgegeven kentekenbewijs is geconstrueerd voor een maximumsnelheid die meer bedraagt dan 25 km/h.

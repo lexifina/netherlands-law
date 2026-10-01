@@ -1,0 +1,10 @@
+# Artikel 156q
+1. De volgende bestuurders zijn vrijgesteld van het behalen van een getuigschrift van vakbekwaamheid:
+a. een bestuurder die houder is van een geldig rijbewijs van één van de categorieën D1, E bij D1, D of E bij D of van een als gelijkwaardig erkend rijbewijs, mits dat rijbewijs uiterlijk op 10 september 2008 is afgegeven;
+b. een bestuurder die houder is van een geldig rijbewijs van één van de categorieën C1, E bij C1, C of E bij C of van een als gelijkwaardig erkend rijbewijs, mits dat rijbewijs uiterlijk op 10 september 2009 is afgegeven.
+2. Een bestuurder als bedoeld in artikel 151d, tweede lid, onderdeel a, van de wet is bij het behalen van een getuigschrift van vakbekwaamheid vrijgesteld van het afleggen van bij ministeriële regeling te bepalen onderdelen van het vakbekwaamheidsexamen.
+3. Een bestuurder als bedoeld in artikel 151d, tweede lid, onderdeel b, van de wet die een op het beroep van chauffeur goederenvervoer gerichte beroepsopleiding als bedoeld in de Wet educatie en beroepsonderwijs of een bij ministeriële regeling daaraan gelijkwaardig verklaarde opleiding volgt, is éénmaal voor een aaneengesloten periode van maximaal drie jaar voor Nederlands grondgebied vrijgesteld van de verplichting over een getuigschrift van vakbekwaamheid te beschikken indien hij:
+a. een door het bevoegd gezag van de opleiding gewaarmerkte verklaring kan overleggen waaruit blijkt sinds welke datum hij de opleiding volgt, en
+b. hij door middel van een geldig bewijs van inschrijving kan aantonen dat hij nog staat ingeschreven bij de opleiding.
+4. Een bestuurder die houder is van een getuigschrift van vakbekwaamheid voor één van de in het eerste lid, onderdeel a, bedoelde rijbewijscategorieën is vrijgesteld van de verplichting een dergelijk getuigschrift te behalen voor de overige in genoemd onderdeel vermelde rijbewijscategorieën.
+5. Een bestuurder die houder is van een getuigschrift van vakbekwaamheid voor één van de in het eerste lid, onderdeel b, bedoelde rijbewijscategorieën is vrijgesteld van de verplichting een dergelijk getuigschrift te behalen voor de overige in genoemd onderdeel vermelde rijbewijscategorieën.

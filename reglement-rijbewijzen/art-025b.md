@@ -1,0 +1,8 @@
+# Artikel 25b
+1. Een vervangend rijbewijs als bedoeld in artikel 120 van de wet wordt afgegeven voor de resterende geldigheidsduur van de betreffende categorie of categorieën.
+2. Onverminderd artikel 25a en in afwijking van het eerste lid wordt, indien het te vervangen rijbewijs een rijbewijs betreft, afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of Zwitserland, voor een of meer van de categorieën AM, A1, A2, A, B of BE:
+a. een vervangend rijbewijs afgegeven voor de resterende geldigheidsduur, indien die resterende geldigheidsduur niet langer is dan tien jaar, of
+b. een vervangend rijbewijs afgegeven met een geldigheidsduur van tien jaren, indien het te vervangen rijbewijs een resterende geldigheidsduur heeft van meer dan tien jaren.
+3. Onverminderd artikel 25a en in afwijking van het eerste lid wordt, indien het te vervangen rijbewijs een rijbewijs betreft, afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of Zwitserland, voor een of meer van de categorieën C1, C1E, D1, D1E, C, CE, D of DE:
+a. een vervangend rijbewijs afgegeven voor de resterende geldigheidsduur, indien die resterende geldigheidsduur niet langer is dan vijf jaar, of
+b. een vervangend rijbewijs afgegeven met een geldigheidsduur van vijf jaren, indien het te vervangen rijbewijs een resterende geldigheidsduur heeft van meer dan vijf jaren.

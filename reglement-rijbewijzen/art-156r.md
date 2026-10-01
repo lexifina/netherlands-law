@@ -1,0 +1,4 @@
+# Artikel 156r
+1. Het stelsel van nascholing, bedoeld in hoofdstuk VIIA van de wet, bevat de verplichting van de bestuurder om bij een of meer erkende opleidingscentra per vijf jaren 35 uur nascholingscursussen te volgen, waarvan ten hoogste twaalf uur in de vorm van e-learning.
+2. De te kiezen nascholingscursussen worden afgestemd op de specifieke behoeften van de bestuurder en op de relevante ontwikkelingen op het gebied van technologie en regelgeving. Daarbij wordt, voor zover mogelijk, rekening gehouden met de specifieke opleidingsbehoeften van de bestuurder.
+3. De bestuurder volgt nascholingscursussen over verschillende onderwerpen. De bestuurder kan één herhalingscursus volgen over een onderwerp waarover reeds een nascholingscursus is gevolgd als een specifieke corrigerende opleiding nodig wordt geacht. Ten minste één van de door de bestuurder gevolgde nascholingscursussen betreft een praktijktraining met betrekking tot verkeersveiligheid.

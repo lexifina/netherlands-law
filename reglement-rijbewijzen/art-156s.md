@@ -1,0 +1,7 @@
+# Artikel 156s
+1. De nascholing bestaat uit nascholingscursussen in de vorm van klassikale lessen, praktijktrainingen of e-learning die worden aangeboden in eenheden van ten minste zeven uur, die over ten hoogste twee opeenvolgende dagen mogen worden gespreid.
+2. In de nascholingscursussen worden de onderwerpen die zijn opgenomen in bijlage I bij de richtlijn vakbekwaamheid bestuurders uitgediept en geactualiseerd.
+3. Het raamwerk van nascholingscursussen wordt periodiek vastgesteld door het CBR, die daarbij rekening houdt met de bij ministeriële regeling vastgestelde eisen voor nascholingscursussen. Er wordt in ieder geval een onderscheid naar onderwerp gemaakt tussen nascholingscursussen.
+4. Bij de nascholingscursussen kan gebruik worden gemaakt van simulatoren of hulpmiddelen op het gebied van de informatie- en communicatietechnologie.
+5. Bij nascholingscursussen in de vorm van e-learning wordt gebruikgemaakt van betrouwbare gebruikersidentificatie en passende controlemiddelen.
+6. Andere door regelgeving van de Europese Unie voorgeschreven opleidingen kunnen voor ten hoogste zeven uur onderdeel uitmaken van de nascholing, met uitzondering van een specifieke opleiding inzake het vervoer van gevaarlijke stoffen op grond van richtlijn 2008/68/EG van het Europees Parlement en de Raad van 24 september 2008 betreffende het vervoer van gevaarlijke goederen over land (PbEU 2008, L 260), die voor ten hoogste veertien uur meetelt, mits dat de enige andere opleiding in de zin van dit lid is die in acht wordt genomen bij de nascholing.
