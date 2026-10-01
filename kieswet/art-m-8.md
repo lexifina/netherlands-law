@@ -1,0 +1,5 @@
+# Artikel M 8
+1. De retourenveloppe, bedoeld in artikel M 7, zesde lid, dient uiterlijk op de dag der stemming om vijftien uur in het bezit te zijn van de burgemeester van 's-Gravenhage.
+2. De burgemeester draagt er zorg voor dat de tijdig binnengekomen retourenveloppen, die, als die per post zijn geretourneerd, zijn gefrankeerd, uiterlijk op de dag van de stemming om eenentwintig uur ongeopend overhandigd worden aan de voorzitter van het briefstembureau, bedoeld in artikel E 5, eerste lid.
+3. Op de retourenveloppen die te laat zijn binnengekomen, worden door de burgemeester de dag en, indien dit de dag van de stemming is, tevens het uur van binnenkomst aangetekend. Deze retourenveloppen en de retourenveloppen die, als die per post zijn geretourneerd, niet zijn gefrankeerd, worden door de burgemeester ongeopend in een of meer te verzegelen pakken gedaan, die worden voorzien van een beschrijving van de inhoud.
+4. De burgemeester bewaart de pakken, bedoeld in het derde lid, drie maanden nadat over de toelating van de gekozenen is beslist. Daarna vernietigt hij deze pakken onmiddellijk. Van de vernietiging wordt proces-verbaal opgemaakt.

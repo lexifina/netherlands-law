@@ -1,0 +1,5 @@
+# Artikel Z 12
+1. Wanneer bij of krachtens deze wet voorgeschreven verrichtingen op een zaterdag, zondag of algemeen erkende feestdag zouden vallen, treedt de eerstvolgende dag, geen zaterdag, zondag of algemeen erkende feestdag zijnde, daarvoor in de plaats. Deze bepaling is mede van toepassing op het tegelijk aftreden van de leden van vertegenwoordigende organen.
+2. Het eerste lid geldt ook voor verrichtingen waarvoor de wettelijke termijn wordt bepaald door terugrekening vanaf een tijdstip of een gebeurtenis.
+3. Voor zover de bepaling van de tijd voor die verrichtingen aan het openbaar gezag is opgedragen, worden daarvoor geen zaterdagen, zondagen of algemeen erkende feestdagen aangewezen.
+4. Onder algemeen erkende feestdagen worden verstaan de in artikel 3 van de Algemene termijnenwet als zodanig genoemde en de bij of krachtens dat artikel daarmee gelijkgestelde dagen.

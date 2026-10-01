@@ -1,0 +1,3 @@
+# Artikel N 37
+1. De leden van een in Aruba, Curaçao en Sint Maarten gevestigd briefstembureau kunnen zich doen bijstaan door plaatsvervangende leden en door personen, werkzaam op de vertegenwoordiging van Nederland in het betreffende land.
+2. Onverminderd het bepaalde in artikel J 35, is eenieder bevoegd in het briefstembureau te vertoeven, tenzij dit als gevolg van bepaalde omstandigheden in het betreffende land naar het oordeel van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties onmogelijk is. Van deze onmogelijkheid en de omstandigheden die daartoe geleid hebben, wordt melding gemaakt in de processen-verbaal.

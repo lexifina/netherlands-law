@@ -1,0 +1,3 @@
+# Artikel N 20
+1. Indien de retourenveloppe niet terzijde is gelegd wordt de enveloppe met het stembiljet ongeopend in de stembus gestoken. Indien het stembiljet zich niet in de daartoe bestemde enveloppe bevindt, wordt het, zonder het in te zien, dichtgevouwen in de stembus gestoken.
+2. Indien de som van het aantal briefstembewijzen en vervangend briefstembewijzen overeenkomt met het aantal stembiljetten, onderscheidenlijk enveloppen met stembiljet, maar er meer dan één briefstembewijs of vervangend briefstembewijs in een retourenveloppe zit, houdt het briefstembureau hier aantekening van bij.

@@ -1,0 +1,4 @@
+# Artikel F 1
+1. De kandidaatstelling voor de verkiezing van de leden van de Tweede Kamer, provinciale staten, het algemeen bestuur en de gemeenteraad vindt plaats op de maandag in de periode van 30 januari tot en met 5 februari of, in een schrikkeljaar, op de maandag in de periode van 31 januari tot en met 6 februari.
+2. In het geval, bedoeld in artikel C 3, eerste lid, vindt de kandidaatstelling voor de verkiezing van de leden van de Tweede Kamer plaats op de maandag in de periode van 28 maart tot en met 3 april.
+3. Bij koninklijk besluit kan, indien zwaarwichtige redenen verband houdend met de dag van kandidaatstelling of met de dag van stemming daartoe nopen, worden bepaald dat de kandidaatstelling plaatsvindt op de maandag, dinsdag, woensdag, donderdag of vrijdag vóór de in het eerste onderscheidenlijk tweede lid genoemde dag. Het koninklijk besluit wordt bekendgemaakt uiterlijk zes maanden vóór de in het eerste onderscheidenlijk tweede lid genoemde dag.

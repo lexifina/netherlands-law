@@ -1,0 +1,2 @@
+# Artikel P 9
+Indien aan een lijst die de volstrekte meerderheid van de uitgebrachte geldige stemmen heeft verkregen, een aantal zetels is toegewezen, kleiner dan de volstrekte meerderheid van het aantal toe te wijzen zetels, wordt aan die lijst alsnog één zetel toegewezen en vervalt daartegenover één zetel, toegewezen aan de lijst die voor het kleinste gemiddelde of het kleinste overschot een zetel heeft verworven. Indien twee of meer lijsten voor hetzelfde kleinste gemiddelde of hetzelfde kleinste overschot een zetel hebben verworven, beslist het lot.

@@ -1,0 +1,6 @@
+# Artikel J 1a
+1. Burgemeester en wethouders kunnen voor stembureaus waar dat wenselijk is met het oog op de plaats waar de bureaus zitting houden bepalen dat de stemming bij deze stembureaus aanvangt op een eerder of een later tijdstip dan zeven uur dertig en eindigt op een eerder tijdstip dan eenentwintig uur. De burgemeester doet van deze tijdstippen ten minste veertien dagen voor de stemming mededeling in het gemeenteblad.
+2. Een stembureau als bedoeld in het eerste lid is op de dag van de stemming ten minste acht uur aaneengesloten geopend.
+3. De stemopneming van de stembureaus, bedoeld in het eerste lid, vindt plaats op een door burgemeester en wethouders vast te stellen en bekend te maken plaats en tijdstip, doch niet voor eenentwintig uur. De plaats en het tijdstip van de stemopneming worden bekendgemaakt in de mededeling, bedoeld in het eerste lid.
+4. Indien een stembureau als bedoeld in het eerste lid niet onmiddellijk na de stemming met de stemopneming aanvangt, vermeldt het in zijn proces-verbaal het aantal bedoeld in artikel J 25, negende lid, alsook de aantallen bedoeld in de artikelen K 11, tweede lid, en L 17, derde lid, in samenhang met artikel J 25, negende lid.
+5. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent het bepaalde in het derde en vierde lid.

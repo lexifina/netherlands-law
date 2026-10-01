@@ -1,0 +1,4 @@
+# Artikel Y 35
+1. Bij de lijst wordt van iedere daarop voorkomende kandidaat die onderdaan is van een andere lidstaat en niet tevens de Nederlandse nationaliteit heeft een schriftelijke verklaring van de kandidaat overgelegd dat hij in die lidstaat niet is uitgesloten van het recht om te worden gekozen. De kandidaat vermeldt op deze verklaring tevens zijn nationaliteit, geboortedatum, geboorteplaats en zijn laatste adres in die lidstaat.
+2. De formulieren voor de verklaring zijn kosteloos voor de kiezers verkrijgbaar op dezelfde wijze en gedurende dezelfde termijn als de formulieren, bedoeld in artikel Y 13, tweede lid. Bij ministeriële regeling wordt voor het formulier een model vastgesteld.
+3. In aanvulling op artikel I 2, eerste lid, wordt het ontbreken van de verklaring, bedoeld in het eerste lid, tevens als verzuim aangemerkt.

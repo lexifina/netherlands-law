@@ -1,0 +1,4 @@
+# Artikel O 21
+1. Het nationaal briefstembureau brengt zijn proces-verbaal, alsmede de processen-verbaal en het corrigendum van het briefstembureau dat is gevestigd in 's-Gravenhage onverwijld over naar het centraal stembureau. Tevens brengt het een afschrift van zijn proces-verbaal zo spoedig mogelijk naar de burgemeester van 's-Gravenhage.
+2. Het nationaal briefstembureau brengt de langs elektronische weg ontvangen processen-verbaal en corrigenda van de overige briefstembureaus onverwijld langs elektronische weg ter kennis van het centraal stembureau. Bij of krachtens algemene maatregel van bestuur kan worden bepaald aan welke eisen de overdracht moet voldoen.
+3. Het nationaal briefstembureau verstrekt het met de programmatuur gegenereerde digitale bestand met de uitkomst van de stemming per brief langs elektronische weg aan het centraal stembureau en aan de burgemeester van 's-Gravenhage.

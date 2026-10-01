@@ -1,0 +1,4 @@
+# Artikel P 18
+1. Betreft het een lijstengroep, dan geldt, indien een kandidaat met toepassing van artikel P 17 op meer dan één lijst van de lijstengroep gekozen is, die kandidaat als gekozen op de lijst waarop het grootste aantal stemmen op hem is uitgebracht. Voor zover aantallen gelijk zijn, geldt hij als gekozen op de lijst, ingeleverd voor de kieskring met het laagste nummer.
+2. De aan een lijst toegewezen zetels die na toepassing van het eerste lid nog niet aan een kandidaat zijn toegewezen, worden aan de nog niet gekozen kandidaten van de desbetreffende lijst toegewezen in de volgorde van de lijst.
+3. Indien na toepassing van het tweede lid opnieuw een kandidaat op meer dan één lijst is gekozen, wordt de procedure, bedoeld in het eerste en tweede lid, zo lang herhaald, totdat alle aan de lijsten toegewezen zetels aan kandidaten zijn toegewezen.

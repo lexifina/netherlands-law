@@ -1,0 +1,4 @@
+# Artikel H 1
+1. Op de dag van de kandidaatstelling kunnen bij het centraal stembureau van negen tot zeventien uur kandidatenlijsten worden ingeleverd.
+2. Ten minste drie weken voor de kandidaatstelling doet het centraal stembureau mededeling waar en wanneer kandidatenlijsten, alsmede de daarbij horende stukken, kunnen worden ingeleverd. De mededeling geschiedt indien het betreft de verkiezing van de leden van de Tweede Kamer, provinciale staten, het algemeen bestuur of de gemeenteraad, in de Staatscourant, het provinciaal blad, het waterschapsblad onderscheidenlijk het gemeenteblad.
+3. Bij algemene maatregel van bestuur wordt geregeld waar en wanneer de formulieren voor de kandidatenlijsten, kosteloos, voor de kiezers verkrijgbaar zijn. Bij ministeriële regeling wordt voor het formulier een model vastgesteld.

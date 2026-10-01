@@ -1,0 +1,3 @@
+# Artikel A 14
+1. Indien de Kiesraad naar aanleiding van geconstateerde onregelmatigheden met betrekking tot een verkiezing die leiden tot risico's voor de geldigheid van de stemming van oordeel is dat een nieuwe stemming als bedoeld in artikel V 6, tweede lid, in één of meer stembureaus of provincies noodzakelijk is, maakt de Kiesraad dit uiterlijk voor aanvang van het onderzoek, bedoeld in artikel V 4, eerste lid, schriftelijk aan het vertegenwoordigend orgaan kenbaar en vermeldt daarbij de stembureaus of provincies die het betreft.
+2. De Kiesraad maakt een oordeel als bedoeld in het eerste lid op algemeen toegankelijke wijze elektronisch openbaar.

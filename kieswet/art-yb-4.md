@@ -1,0 +1,3 @@
+# Artikel Yb 4
+1. Indien bij of krachtens artikel 58f of 58g van de Wet op de publieke gezondheid maatregelen worden genomen die van toepassing zijn op plaatsen of gedeelten daarvan die in gebruik zijn ten behoeve van de uitvoering van een verkiezing als bedoeld in de Kieswet, kan een lid van het stembureau, briefstembureau, gemeentelijk stembureau, hoofdstembureau, nationaal briefstembureau dan wel centraal stembureau de aanwijzingen geven die nodig zijn om de naleving daarvan te verzekeren.
+2. De aanwijzing dat een persoon de locatie niet mag betreden, of dat een persoon de locatie moet verlaten, kan enkel worden gegeven door de voorzitter. Artikel J 13a is niet van toepassing.

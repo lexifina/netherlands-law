@@ -1,0 +1,3 @@
+# Artikel R 4
+1. De namen van de kandidaten worden op de lijsten geplaatst in de volgorde waarin aan hen de voorkeur wordt gegeven.
+2. Op dezelfde lijst mogen de namen van ten hoogste vijftig kandidaten worden geplaatst. Op dezelfde lijst van een politieke groepering wier aanduiding was geplaatst boven een kandidatenlijst waaraan bij de laatstgehouden verkiezing van de leden van het desbetreffende vertegenwoordigend orgaan meer dan vijftien zetels zijn toegekend, mag een aantal namen worden geplaatst dat ten hoogste tachtig zetels bedraagt. Het bepaalde in de vorige volzin is van overeenkomstige toepassing ten aanzien van samenvoeging van aanduidingen van twee of meer groeperingen.

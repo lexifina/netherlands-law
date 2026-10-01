@@ -1,0 +1,4 @@
+# Artikel V 4b
+1. Voor de verkiezing van de leden van de Eerste Kamer kan het vertegenwoordigend orgaan ten behoeve van het onderzoek, bedoeld in artikel V 4, eerste lid, besluiten tot een nieuwe stemopneming in een of meer provincies.
+2. De voorzitter van het centraal stembureau brengt de pakken, bedoeld in artikel T 10, onverwijld over naar het vertegenwoordigend orgaan. Na ontvangst van de pakken gaat het vertegenwoordigend orgaan onmiddellijk tot de stemopneming over. Het is bevoegd daartoe de verzegelde pakken te openen en de inhoud te vergelijken met de processen-verbaal van de stembureaus. De artikelen T 6 tot en met T 10 zijn van overeenkomstige toepassing.
+3. Na beëindiging van het onderzoek worden de bescheiden uit de geopende pakken opnieuw ingepakt en verzegeld op de in artikel T 10 voorgeschreven wijze.

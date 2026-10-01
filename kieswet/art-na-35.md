@@ -1,0 +1,3 @@
+# Artikel Na 35
+1. Het proces-verbaal van het gemeentelijk stembureau wordt onverwijld overgebracht naar het hoofdstembureau dan wel, indien het de verkiezing betreft van de gemeenteraad, van het algemeen bestuur of van provinciale staten van een provincie die één kieskring vormt, het centraal stembureau. Indien in de gemeente geen centrale stemopneming heeft plaatsgevonden, worden daarbij tevens de processen-verbaal van de stembureaus en de corrigenda overgebracht.
+2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de overdracht, bedoeld in het eerste lid.

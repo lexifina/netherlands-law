@@ -1,0 +1,4 @@
+# Artikel P 8
+1. De restzetels worden, indien het aantal te verdelen zetels minder dan negentien bedraagt, achtereenvolgens toegewezen aan de lijsten waarvan de stemcijfers bij deling door de kiesdeler de grootste overschotten hebben. Hierbij worden lijsten die geen overschot hebben, geacht lijsten te zijn met het kleinste overschot. Indien overschotten gelijk zijn, beslist zo nodig het lot.
+2. Bij deze toewijzing komen niet in aanmerking lijsten met een stemcijfer dat lager is dan 75% van de kiesdeler.
+3. Wanneer alle lijsten die daarvoor in aanmerking komen een restzetel hebben ontvangen en er nog zetels te verdelen blijven, worden deze zetels toegewezen volgens het stelsel van de grootste gemiddelden als bedoeld in artikel P 7, eerste lid, met dien verstande, dat bij deze toewijzing aan geen van de lijsten meer dan één zetel wordt toegewezen.

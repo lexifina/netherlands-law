@@ -1,0 +1,5 @@
+# Artikel R 8
+1. Bij de lijst wordt overgelegd een schriftelijke verklaring van iedere daarop voorkomende kandidaat dat hij instemt met zijn kandidaatstelling op deze lijst voor de provincie of provincies waarvoor deze lijst is ingeleverd. Tenzij een gemachtigde, bedoeld in de artikelen R 9 of R 9a, wordt aangewezen wordt op deze verklaring vermeld op welk adres de kandidaat de kennisgeving van zijn benoeming, bedoeld in artikel V 1, wil ontvangen.
+2. Een overgelegde verklaring van instemming kan niet worden ingetrokken.
+3. Bij de lijst wordt van iedere kandidaat die geen zitting in de Eerste Kamer heeft, tevens een kopie van een document als bedoeld in artikel 1 van de Wet op de identificatieplicht overgelegd. Indien van een dergelijke kandidaat een kopie van een document als bedoeld in artikel 1 van de Wet op de identificatieplicht ontbreekt, wordt de verklaring van instemming van de betreffende kandidaat geacht te ontbreken.
+4. Bij algemene maatregel van bestuur wordt geregeld waar en wanneer de formulieren voor de verklaringen van instemming, kosteloos, verkrijgbaar zijn. Bij ministeriële regeling wordt voor het formulier een model vastgesteld.

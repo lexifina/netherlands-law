@@ -1,0 +1,7 @@
+# Artikel X 7
+1. Het lid van provinciale staten dat in strijd met artikel 15 van de Provinciewet handelt, kan in zijn betrekking worden geschorst door de voorzitter van provinciale staten. De voorzitter onderwerpt de zaak aan het oordeel van provinciale staten in hun eerstvolgende vergadering.
+2. Provinciale staten kunnen, na de geschorste in de gelegenheid te hebben gesteld zich mondeling te verdedigen, hem van zijn lidmaatschap vervallen verklaren. Indien zij daartoe geen aanleiding vinden, heffen zij de schorsing op.
+3. Provinciale staten kunnen ook ambtshalve het lid dat in strijd met artikel 15 van de Provinciewet handelt, na hem in de gelegenheid te hebben gesteld zich mondeling te verdedigen, van zijn lidmaatschap vervallen verklaren.
+4. Het besluit van provinciale staten, bedoeld in het tweede en derde lid, wordt terstond aan de belanghebbende bekendgemaakt.
+5. De werking van een besluit, inhoudende de vervallenverklaring, wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist. Ingeval de vervallenverklaring ambtshalve heeft plaatsgevonden, is het lid van provinciale staten gedurende deze periode in zijn betrekking geschorst.
+6. Indien een lid van provinciale staten op grond van dit artikel onherroepelijk van zijn lidmaatschap vervallen is verklaard, doet de commissaris van de Koning daarvan mededeling aan de voorzitter van het centraal stembureau.

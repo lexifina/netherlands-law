@@ -1,0 +1,3 @@
+# Artikel L 2
+1. Een volmacht kan worden verleend hetzij op een schriftelijke aanvraag overeenkomstig het bepaalde in paragraaf 2, hetzij door overdracht van de stempas of kiezerspas overeenkomstig het bepaalde in paragraaf 3 van dit hoofdstuk. De volmachtgever wijst zelf een gemachtigde aan. De volmachtgever informeert de gemachtigde tijdig over de wijze waarop hij wil dat de volmacht wordt uitgeoefend door aan te geven op welke kandidaat de stem moet worden uitgebracht, of door aan te geven dat de stem blanco moet worden uitgebracht.
+2. Een schriftelijke aanvraag om bij volmacht te stemmen kan niet worden ingediend door de kiezer aan wie een kiezerspas of een briefstembewijs is verstrekt.

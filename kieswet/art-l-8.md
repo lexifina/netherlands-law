@@ -1,0 +1,5 @@
+# Artikel L 8
+1. De kiezer die bij volmacht wenst te stemmen, dient daartoe een verzoekschrift in bij de burgemeester van de gemeente waar hij op de dag van de kandidaatstelling als kiezer is geregistreerd. Voor het indienen van een verzoekschrift wordt een formulier gebruikt. De burgemeester kan ter voorkoming van misbruik beperkingen stellen aan de verkrijgbaarstelling. Van een daartoe strekkend besluit doet hij mededeling in het gemeenteblad.
+2. In zijn verzoekschrift wijst de kiezer een gemachtigde aan. Als gemachtigde kan slechts optreden degene die op de dag van de kandidaatstelling als kiezer is geregistreerd binnen het gebied waarvoor de verkiezing geldt.
+3. Bij het verzoekschrift wordt ingediend een verklaring van de gemachtigde dat deze bereid is als zodanig op te treden.
+4. Bij ministeriële regeling worden voor het formulier en de verklaring modellen vastgesteld. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties verstrekt tijdig voor de verkiezing aan de gemeente de informatie nodig voor het produceren van de verklaring.

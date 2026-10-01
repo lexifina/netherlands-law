@@ -1,0 +1,6 @@
+# Artikel Ya 42
+1. In afwijking van artikel 7 van de Wet administratieve rechtspraak BES wordt het beroep tegen een beschikking van het bestuurscollege als bedoeld in artikel D 7, eerste lid, een beschikking van de gezaghebber als bedoeld in de artikelen K 8, eerste lid, L 11, eerste lid, en M 4, eerste lid, tegen een beschikking van het kiescollege als bedoeld in artikel X 4, derde lid, en tegen een beschikking van de eilandsraad als bedoeld in de artikelen X 5, derde lid, en X 8, vierde lid, ingesteld bij het Gemeenschappelijk Hof.
+2. Op het beroep zijn de hoofdstukken 3 en 6, met uitzondering van § 1 en § 3, van de Wet administratieve rechtspraak BES van overeenkomstige toepassing.
+3. De artikelen 54 en 55 van de Wet administratieve rechtspraak BES zijn niet van toepassing.
+4. In afwijking van artikel 17, vijfde lid, van de Wet administratieve rechtspraak BES bedraagt de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken. De president van het Gemeenschappelijk Hof kan een kortere termijn stellen.
+5. Het Gemeenschappelijk Hof behandelt de zaak met overeenkomstige toepassing van § 2 van hoofdstuk 6 van de Wet administratieve rechtspraak BES. Aan het bestuursorgaan wordt terstond een afschrift van het beroepschrift toegezonden.

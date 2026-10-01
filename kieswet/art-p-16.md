@@ -1,0 +1,3 @@
+# Artikel P 16
+1. Betreft het een lijstengroep, dan geldt, indien een aldus gekozen kandidaat op meer dan één lijst is vermeld, die kandidaat als gekozen op de lijst waarop het grootste aantal stemmen op hem is uitgebracht; voor zover aan die lijst voldoende zetels zijn toegewezen. Voor zover aantallen gelijk zijn, geldt hij als gekozen op de lijst, ingeleverd voor de kieskring, met het laagste nummer.
+2. Indien aan geen van de lijsten waarop de gekozen kandidaat is vermeld, voldoende zetels zijn toegewezen, wordt aan hem niettemin een zetel toegewezen op de lijst waarop hij het grootste aantal stemmen heeft verkregen, en vervalt daartegenover de zetel die met toepassing van artikel P 12 of P 13 het laatst was toegewezen aan een van de lijsten van de groep.

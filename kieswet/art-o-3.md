@@ -1,0 +1,2 @@
+# Artikel O 3
+Indien het hoofdstembureau een digitaal bestand als bedoeld in artikel Na 32, derde lid, heeft ontvangen, en de in dit bestand vermelde uitkomst op gemeentelijk niveau niet overeenkomt met de uitkomst zoals vastgesteld in het bijbehorende proces-verbaal van het gemeentelijk stembureau, gaat het hoofdstembureau uit van de juistheid van de laatste en maakt het hiervan melding in zijn proces-verbaal.

@@ -1,0 +1,2 @@
+# Artikel Y 28
+Zodra onherroepelijk is komen vast te staan dat een lid van het Europees Parlement een van de in artikel Y 4 bedoelde vereisten voor het lidmaatschap niet bezit of een ingevolge de nationale bepalingen met het lidmaatschap onverenigbare betrekking vervult, houdt hij op lid te zijn. De voorzitter van de Tweede Kamer geeft hiervan onverwijld kennis aan de voorzitter van het Europees Parlement en aan de voorzitter van het centraal stembureau.

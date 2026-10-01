@@ -1,0 +1,3 @@
+# Artikel M 1
+1. Degene die als kiezer is geregistreerd als bedoeld in artikel D 2, ontvangt als bewijs dat hij per brief mag stemmen voor de stemming een briefstembewijs. Hij ontvangt geen briefstembewijs indien hem is toegestaan bij volmacht te stemmen of een kiezerspas is verstrekt.
+2. Voor de verkiezing van de leden van de Tweede Kamer wordt degene die kiesgerechtigd is en op de dag van de stemming buiten Nederland zal verblijven overeenkomstig het bepaalde bij of krachtens dit hoofdstuk op zijn verzoek toegestaan per brief te stemmen. Aan hem wordt als bewijs dat aan zijn verzoek is voldaan een briefstembewijs verstrekt.

@@ -1,0 +1,3 @@
+# Artikel A 13
+1. De Kiesraad stelt bij een verkiezing een rapportage van bevindingen op over de onregelmatigheden die door de Kiesraad zijn vastgesteld met betrekking tot de feitelijke gang van zaken op plaatsen of gedeelten daarvan die door een stembureau in gebruik zijn ten behoeve van de uitvoering van een verkiezing als bedoeld in deze wet en van de procesaanwijzingen die op grond van artikel A 12, eerste lid, zijn gegeven.
+2. De Kiesraad zendt de rapportage van bevindingen zo spoedig mogelijk na vaststelling ervan aan het betrokken vertegenwoordigend orgaan en maakt deze op algemeen toegankelijke wijze elektronisch openbaar.

@@ -1,0 +1,5 @@
+# Artikel Na 2
+1. Burgemeester en wethouders wijzen voor de zitting van het gemeentelijk stembureau een of meer geschikte locaties aan. Voorts stellen zij voor elke locatie de dag en het tijdstip vast waarop de werkzaamheden aanvangen.
+2. De aanwijzing van een of meer locaties, de dag en het aanvangstijdstip van de werkzaamheden worden ten minste veertien dagen voor de dag van de stemming bekendgemaakt.
+3. Indien voor de controle van de processen-verbaal dan wel de centrale stemopneming meer dan één locatie wordt aangewezen, stellen burgemeester en wethouders tevens voor elk stembureau vast op welke locatie de werkzaamheden plaatsvinden. Het tweede lid is van overeenkomstige toepassing.
+4. Burgemeester en wethouders doen op bij algemene maatregel van bestuur vast te stellen wijze mededeling aan de kiezer van de locatie waar de werkzaamheden voor elk stembureau plaatsvinden alsmede van de dag en het aanvangstijdstip van de werkzaamheden van het gemeentelijk stembureau op elke aangewezen locatie.

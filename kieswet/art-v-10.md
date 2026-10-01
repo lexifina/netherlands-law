@@ -1,0 +1,2 @@
+# Artikel V 10
+Indien het orgaan waarvoor de benoeming is geschied, heeft besloten de benoemde niet als lid toe te laten op de grond dat hij niet voldoet aan de vereisten voor het lidmaatschap, dat hij een met het lidmaatschap onverenigbare betrekking vervult of dat de benoemdverklaring van de voorzitter van het centraal stembureau in strijd is met het bepaalde in hoofdstuk W, geeft de voorzitter van dat orgaan daarvan onverwijld kennis aan de voorzitter van het centraal stembureau.

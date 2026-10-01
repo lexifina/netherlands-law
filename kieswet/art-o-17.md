@@ -1,0 +1,4 @@
+# Artikel O 17
+1. Het nationaal briefstembureau controleert de met de programmatuur gegenereerde uitkomst van de stemopneming van het stemmen per brief aan de hand van een door de Kiesraad op te stellen controleprotocol. Indien het nationaal briefstembureau tot het oordeel komt dat de programmatuur niet betrouwbaar heeft gefunctioneerd en het gebrek na onderzoek niet hersteld kan worden, laat het de met de programmatuur gegenereerde uitkomst buiten beschouwing en stelt het de Kiesraad onverwijld van dit oordeel in kennis.
+2. De uitkomst van de controle, bedoeld in het eerste lid, wordt in het proces-verbaal van het nationaal briefstembureau vermeld.
+3. De Kiesraad maakt het controleprotocol, bedoeld in het eerste lid, voor een verkiezing uiterlijk op de dag van de kandidaatstelling in de Staatscourant bekend.

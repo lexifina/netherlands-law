@@ -1,0 +1,3 @@
+# Artikel O 11
+1. Indien het betreft de verkiezing van de leden van de staten in een provincie die in meerdere kieskringen is verdeeld, verstrekt de burgemeester van de gemeente waarin het hoofdstembureau is gevestigd zo spoedig mogelijk nadat over de toelating van de gekozenen is beslist het bestand met de uitkomst van de stemming op kieskringniveau aan de Kiesraad.
+2. Indien het hoofdstembureau geen programmatuur heeft gebruikt ten behoeve van de vaststelling van de uitkomst van de stemming, verstrekt de burgemeester in plaats van het digitale bestand, bedoeld in het eerste lid, een afschrift van het proces-verbaal van het hoofdstembureau aan de Kiesraad.

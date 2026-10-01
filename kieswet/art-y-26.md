@@ -1,0 +1,2 @@
+# Artikel Y 26
+De voorzitter van de Tweede Kamer geeft van de uitkomst van het onderzoek onverwijld kennis aan de voorzitter van het Europees Parlement en aan de benoemde. Indien de Tweede Kamer heeft besloten dat de benoemde op grond van de nationale bepalingen als lid van het Europees Parlement kan worden toegelaten, zendt de voorzitter van de Tweede Kamer aan de voorzitter van het Europees Parlement tevens de geloofsbrief van de benoemde toe.

@@ -1,0 +1,4 @@
+# Artikel I 1
+1. Op de dag na de kandidaatstelling, om zestien uur, houdt het centraal stembureau een zitting tot het onderzoeken van de kandidatenlijsten voor iedere kieskring waarvoor zij zijn ingeleverd.
+2. Indien zich bij het onderzoek van een kandidatenlijst voor de verkiezing van de leden van de provinciale staten een geval voordoet, bedoeld in artikel H 7, derde lid, meldt het centraal stembureau dit onverwijld aan het centraal stembureau voor de verkiezing van de leden van de provinciale staten van de provincie waarvan de betrokkene ingezetene is. Ontvangt laatstbedoeld centraal stembureau betreffende één persoon twee of meer meldingen als vorenbedoeld, dan stelt het de centraal stembureaus waarvan het deze meldingen heeft ontvangen daarvan in kennis.
+3. Het tweede lid is van overeenkomstige toepassing op de verkiezing van de leden van het algemeen bestuur en van de gemeenteraad.

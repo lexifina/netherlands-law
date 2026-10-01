@@ -1,0 +1,6 @@
+# Artikel J 4a
+1. Burgemeester en wethouders kunnen in hun gemeente mobiele stembureaus aanwijzen. De burgemeester doet van een dergelijke aanwijzing ten minste veertien dagen voor de stemming mededeling in het gemeenteblad.
+2. Burgemeester en wethouders stellen de zittingstijden vast en onderscheiden plaatsen waar de mobiele stembureaus gedurende de dag der stemming worden gestationeerd. De tijdstippen en plaatsen worden bekendgemaakt in de mededeling, bedoeld in het eerste lid.
+3. Alvorens een stembureau als bedoeld in het eerste lid naar een andere standplaats vertrekt, wordt de sleuf van de stembus door de voorzitter van het stembureau in tegenwoordigheid van de aanwezige personen afgesloten en verzegeld. De voorzitter bewaart de sleutel waarmee de stembus is afgesloten, tijdens het verplaatsen naar de volgende standplaats. De voorzitter opent na de aankomst van het mobiele stembureau op de nieuwe standplaats de stembus in tegenwoordigheid van de aanwezige personen.
+4. Artikel J 1a, derde lid, is van overeenkomstige toepassing.
+5. Artikel J 1a, vierde lid en vijfde lid, is van overeenkomstige toepassing op de locatie waar het stembureau laatstelijk zitting houdt ten behoeve van de stemming.

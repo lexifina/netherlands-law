@@ -1,0 +1,3 @@
+# Artikel Ya 3b
+1. In afwijking van artikel Ea 7, eerste lid, stellen de Kiesraad en het bestuurscollege in onderling overleg vast of het stembureau van het openbaar lichaam en het centraal stembureau bij de vaststelling, bedoeld in de artikelen Na 26a en P 20a, gebruik maken van de door de Kiesraad ter beschikking te stellen uitslagprogrammatuur.
+2. Indien het stembureau van het openbaar lichaam en het centraal stembureau bij de vaststelling, bedoeld in het eerste lid, geen gebruik maken van de uitslagprogrammatuur, zijn hoofdstuk Ea en de artikelen uit de hoofdstukken O en P die zien op het gebruik van de uitslagprogrammatuur niet van toepassing.

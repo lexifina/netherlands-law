@@ -1,0 +1,2 @@
+# Artikel U 3
+Ten aanzien van iedere provincie vermenigvuldigt het centraal stembureau de aantallen op iedere kandidaat uitgebrachte stemmen en de stemcijfers van de lijsten met de voor die provincie geldende stemwaarde. Voor de vaststelling van de uitslag van de verkiezing gelden de aldus verkregen produkten als de aantallen op ieder kandidaat uitgebrachte stemmen, onderscheidenlijk de stemcijfers van de lijsten.

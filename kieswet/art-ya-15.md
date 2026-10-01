@@ -1,0 +1,4 @@
+# Artikel Ya 15
+1. De politieke groepering die een verzoek tot registratie van de aanduiding als bedoeld in artikel G 3 indient bij het centraal stembureau voor de verkiezing van de leden van de eilandsraad betaalt aan het openbaar lichaam een waarborgsom van USD 112,50.
+2. In aanvulling op het bepaalde in artikel G 3, derde lid, wordt bij het verzoek tevens overgelegd een gewaarmerkt bewijs van inschrijving in het handelsregister, bedoeld in artikel 2 van de Handelsregisterwet 2007 dan wel artikel 2 van de Handelsregisterwet 2009 BES.
+3. Op de veertigste dag vóór de kandidaatstelling voor de verkiezing van de leden van het kiescollege, doet het centraal stembureau van de door hem geregistreerde aanduidingen van politieke groeperingen, voor zover de registratie daarvan onherroepelijk is, alsmede van de namen van de gemachtigden en hun plaatsvervangers mededeling in het afkondigingsblad.

@@ -1,0 +1,4 @@
+# Artikel Na 27
+1. Het gemeentelijk stembureau controleert de met de programmatuur gegenereerde uitkomst van de stemming op gemeentelijk niveau aan de hand van een door de Kiesraad op te stellen controleprotocol. Indien het gemeentelijk stembureau tot het oordeel komt dat de programmatuur niet betrouwbaar heeft gefunctioneerd en het gebrek na onderzoek niet hersteld kan worden, laat het de met de programmatuur gegenereerde uitkomst buiten beschouwing en stelt het de Kiesraad onverwijld van dit oordeel in kennis.
+2. De uitkomst van de controle, bedoeld in het eerste lid, wordt in het proces-verbaal van het gemeentelijk stembureau vermeld.
+3. De Kiesraad maakt het controleprotocol, bedoeld in het eerste lid, voor een verkiezing uiterlijk op de dag van de kandidaatstelling in de Staatscourant bekend.

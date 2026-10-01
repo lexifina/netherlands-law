@@ -1,0 +1,3 @@
+# Artikel Na 36
+1. Indien het betreft de verkiezing van de leden van de gemeenteraad, provinciale staten of het algemeen bestuur, verstrekt de burgemeester zo spoedig mogelijk nadat over de toelating van de gekozenen is beslist het digitale bestand met de uitkomst van de stemopneming aan de Kiesraad.
+2. Indien het gemeentelijk stembureau geen programmatuur heeft gebruikt ten behoeve van de vaststelling van de uitkomst van de stemopneming verstrekt de burgemeester in plaats van het digitale bestand, bedoeld in het eerste lid, een afschrift van het proces-verbaal van het gemeentelijk stembureau aan de Kiesraad alsmede, indien er geen centrale stemopneming heeft plaatsgevonden, afschriften van de processen-verbaal van de stembureaus.

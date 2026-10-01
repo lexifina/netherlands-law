@@ -1,0 +1,3 @@
+# Artikel P 15
+1. In de volgorde van de aantallen op hen uitgebrachte stemmen zijn gekozen die kandidaten die op de gezamenlijke lijsten waarop zij voorkomen, een aantal stemmen hebben verkregen, groter dan 25% van de kiesdeler, voor zover aan de lijstengroep of de niet van een lijstengroep deel uitmakende lijst voldoende zetels zijn toegewezen. Indien aantallen gelijk zijn, beslist zo nodig het lot.
+2. Indien het aantal bij de verkiezing van de leden van de gemeenteraad te verdelen zetels minder dan negentien bedraagt, wordt bij de toepassing van het eerste lid niet 25% van de kiesdeler, maar de helft van de kiesdeler in aanmerking genomen.

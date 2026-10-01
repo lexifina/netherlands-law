@@ -1,0 +1,6 @@
+# Artikel P 19
+1. Het centraal stembureau rangschikt ten aanzien van iedere lijst de daarop voorkomende kandidaten zodanig, dat bovenaan komen te staan de kandidaten aan wie een zetel is toegewezen met toepassing van artikel P 15, in de volgorde waarin de zetels zijn toegewezen.
+2. Vervolgens worden, in de volgorde van de aantallen op hen uitgebrachte stemmen, gerangschikt de op de lijst voorkomende kandidaten die op de gezamenlijke lijsten waarop zij voorkomen een aantal stemmen hebben verkregen, groter dan 25% van de kiesdeler onderscheidenlijk groter dan de helft van de kiesdeler, doch die niet met toepassing van artikel P 15, eerste onderscheidenlijk tweede lid, zijn gekozen verklaard. Indien aantallen gelijk zijn, beslist de volgorde van de lijst.
+3. Tenslotte worden, in de volgorde van de lijst, gerangschikt de overige op de lijst voorkomende kandidaten.
+4. Bij de rangschikking blijft artikel P 18 buiten toepassing.
+5. Behoudens ten aanzien van de verkiezing waarbij het aantal te verdelen zetels minder dan negentien bedraagt, blijft de rangschikking achterwege, voor zover het lijsten betreft waarop geen kandidaten gekozen zijn verklaard en die niet deel uitmaken van een lijstengroep waaraan één of meer zetels zijn toegekend.

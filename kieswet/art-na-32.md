@@ -1,0 +1,4 @@
+# Artikel Na 32
+1. Het gemeentelijk stembureau draagt zijn proces-verbaal onverwijld over aan de burgemeester. Ook de eerder op grond van artikel Na 9 ontvangen transportboxen en enveloppen worden terug overgedragen.
+2. Tot aan de overdracht draagt het gemeentelijk stembureau er zorg voor dat de zegels op de transportboxen en de enveloppen niet worden verbroken.
+3. Het gemeentelijk stembureau brengt het met de programmatuur gegenereerde digitale bestand met de uitkomst van de stemming op gemeentelijk niveau langs elektronische weg over naar de burgemeester, het hoofdstembureau en het centraal stembureau, dan wel, indien het de verkiezing betreft van de gemeenteraad, van het algemeen bestuur of van provinciale staten van een provincie die één kieskring vormt, naar de burgemeester en het centraal stembureau.

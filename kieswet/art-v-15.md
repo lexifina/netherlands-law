@@ -1,0 +1,3 @@
+# Artikel V 15
+1. Indien op het tijdstip van periodieke aftreding van de leden van provinciale staten, het vertegenwoordigend orgaan van het waterschap, onderscheidenlijk van de gemeenteraad, niet de geloofsbrieven van meer dan de helft van het wettelijk voorgeschreven aantal leden is goedgekeurd, houden de leden van dat vertegenwoordigend orgaan zitting, totdat zulks is geschied. Gedurende deze tijd oefenen de bij de verkiezing gekozen leden hun functie niet uit.
+2. Een plaats die openvalt na het tijdstip van periodieke aftreding, wordt vervuld op dezelfde wijze, als zou zijn geschied, indien zij voor dat tijdstip zou zijn opengevallen.

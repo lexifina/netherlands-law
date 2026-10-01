@@ -1,0 +1,2 @@
+# Artikel Pa 26
+Het centraal stembureau gaat na afloop van de zitting bedoeld in artikel P 20, tweede lid, voor de verkiezing van de leden van provinciale staten van Zuid-Holland over tot het houden van deze zitting voor de verkiezing van de leden van het kiescollege. Het tijdstip wordt tijdig op een algemeen toegankelijke wijze elektronisch openbaar gemaakt. Bij algemene maatregel van bestuur wordt de bekendmaking van het tijdstip en de digitale locatie van de zitting geregeld.

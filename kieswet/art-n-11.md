@@ -1,0 +1,4 @@
+# Artikel N 11
+1. Na zich ervan overtuigd te hebben dat de transportbox leeg is, doet het stembureau de pakken, bedoeld in de artikelen N 2 en N 9, in de transportbox. De transportbox wordt voorzien van de naam van de gemeente, het nummer van het stembureau en een aanduiding van de verkiezing. Daarna wordt de transportbox op slot gedaan en verzegeld.
+2. Het stembureau bewaart de sleutel van de transportbox en zijn proces-verbaal in een enveloppe, die het eveneens verzegelt. Op deze enveloppe wordt de naam van de gemeente, het nummer van het stembureau en een aanduiding van de verkiezing vermeld.
+3. Het stembureau draagt de transportbox en de enveloppe zo spoedig mogelijk over aan de burgemeester. Tot aan die overdracht draagt het stembureau er zorg voor dat de zegels op de transportbox en de enveloppe niet worden verbroken.

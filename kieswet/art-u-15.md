@@ -1,0 +1,3 @@
+# Artikel U 15
+1. Gekozen zijn de kandidaten van de lijst, daartoe aangewezen door overeenkomstige toepassing van de artikelen P 15 tot en met P 18 en P 19a, met dien verstande dat in afwijking van artikel P 15, eerste lid, eerste zin, zijn gekozen de kandidaten die een aantal stemmen hebben verkregen, groter dan of gelijk aan de kiesdeler.
+2. De rangschikking van de kandidaten geschiedt overeenkomstig het bepaalde in artikel P 19, eerste, derde en vierde lid, met dien verstande dat de rangschikking achterwege blijft, voor zover het lijsten betreft waarop geen kandidaten gekozen zijn verklaard en die niet deel uitmaken van een lijstengroep waaraan één of meer zetels zijn toegekend.

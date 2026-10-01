@@ -1,0 +1,2 @@
+# Artikel Pa 15
+Het centraal stembureau gaat na afloop van de zittingen, bedoeld in artikel I 1, eerste lid, respectievelijk artikel I 4, voor de verkiezing van de leden van provinciale staten van Zuid-Holland over tot het houden van deze zittingen voor de verkiezing van de leden van het kiescollege. Het tijdstip van de zitting bedoeld in artikel I 4 wordt tijdig op een algemeen toegankelijke wijze elektronisch openbaar gemaakt. Bij algemene maatregel van bestuur wordt de bekendmaking van het tijdstip en de digitale locatie van de zitting geregeld.
