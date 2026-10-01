@@ -1,0 +1,3 @@
+# Artikel 22d
+1. Onze Minister kan gegevens waaruit politieke opvattingen, religieuze of levensbeschouwelijke overtuigingen blijken en gegevens over gezondheid als bedoeld in paragraaf 3.1 van de Uitvoeringswet Algemene verordening gegevensbescherming verwerken, voor zover dat noodzakelijk is ten behoeve van het nemen van een beslissing als bedoeld in artikel 14, vierde lid, van deze rijkswet.
+2. Onze Minister kan persoonsgegevens van strafrechtelijke aard als bedoeld in paragraaf 3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming verwerken, voor zover dat noodzakelijk is ten behoeve van het nemen van een beslissing als bedoeld in artikel 14, vierde lid, van deze rijkswet.
