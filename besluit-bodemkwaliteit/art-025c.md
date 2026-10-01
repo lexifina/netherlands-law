@@ -1,0 +1,4 @@
+# Artikel 25c
+1. Een verklaring op grond van een partijkeuring, erkende kwaliteitsverklaring of verklaring op grond van een bodemonderzoek wordt afgegeven op grond van een onderzoek dat is verricht door een persoon of instelling die beschikt over een erkenning bodemkwaliteit als die voor het uitvoeren van die werkzaamheid op grond van artikel 15, eerste lid, is vereist.
+2. Een fabrikant-eigenverklaring wordt afgegeven door de producent op grond van een onderzoek dat voldoet aan de bij of krachtens dit besluit gestelde eisen.
+3. Een verklaring op grond van een bodemkwaliteitskaart wordt afgegeven op grond van een onderzoek dat is verricht met gebruikmaking van een bodemkwaliteitskaart waarop de feitelijke kwaliteit van de bodem in het gebied waarop de kaart betrekking heeft is weergegeven en die voldoet aan de op grond van artikel 25g, zesde lid, gestelde eisen.
