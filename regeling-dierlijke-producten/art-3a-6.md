@@ -1,0 +1,4 @@
+# Artikel 3a.6. Termijn inkennisstelling gegevens erkenning
+1. De termijn, bedoeld in artikel 4, eerste lid, verordening (EU) nr. 2020/999, bedraagt ten hoogste 90 dagen voorafgaand aan de dag waarop een exploitant als bedoeld in artikel 94, eerste lid, onderdeel b, van verordening (EU) nr. 2016/429 voornemens is de inrichting voor levende producten te exploiteren.
+2. Een exploitant van een inrichting waar levende producten worden gewonnen, geproduceerd, behandeld of opgeslagen, of van een broederij van waaruit broedeieren worden verplaatst, doet de inkennisstelling, bedoeld in artikel 96, tweede lid, van verordening (EU) nr. 2016/429, binnen zeven werkdagen nadat een gebeurtenis als bedoeld in dat artikel heeft plaatsgevonden.
+3. Indien de gegevens, bedoeld in artikel 3, eerste lid, onderdeel b, onder ii, van verordening (EU) nr. 2020/999, of het derde lid, wijzigen, verstrekt de exploitant binnen zeven werkdagen de gewijzigde gegevens.

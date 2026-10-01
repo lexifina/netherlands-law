@@ -1,0 +1,2 @@
+# Artikel 3a.1. Middel registratie inrichting levende producten
+De inkennisstelling van en de verstrekking van de gegevens over een inrichting waar levende producten worden gewonnen, geproduceerd, verwerkt of opgeslagen, bedoeld in artikel 84, eerste lid, onderdelen a en b, van verordening (EU) nr. 2016/429, geschiedt met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.
