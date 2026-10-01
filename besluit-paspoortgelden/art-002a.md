@@ -1,0 +1,4 @@
+# Artikel 2a
+1. Een openbaar lichaam is aan het Rijk de in artikel 6, eerste lid, onderdeel a, vastgelegde kosten verschuldigd in verband met door de leverancier geleverde reisdocumenten.
+2. De in het eerste lid bedoelde kosten zijn niet dan wel gedeeltelijk verschuldigd naar rato van de aan de aanvrager verleende kwijtschelding van de rechten, die op grond van de toepasselijke eilandsverordening voor de desbetreffende handeling geheven kunnen worden, indien de kwijtschelding is verleend overeenkomstig de krachtens artikel 8.58, eerste lid, van de Belastingwet BES gestelde regels.
+3. De in het eerste lid bedoelde kosten zijn niet verschuldigd in verband met de levering van een reisdocument, die plaatsvindt ter vervanging van een eerder geleverd reisdocument, dat door toedoen van de leverancier niet op de juiste wijze was vervaardigd.
