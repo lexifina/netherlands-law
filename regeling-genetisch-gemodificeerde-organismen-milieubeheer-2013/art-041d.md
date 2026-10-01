@@ -1,0 +1,2 @@
+# Artikel 41d
+Activiteiten met genetisch gemodificeerde organismen aangewezen in artikel 39d, waarvoor met toepassing van de procedure, aangegeven in de artikelen 3.25 en 3.26a van het Besluit, een vergunning onder vaste voorschriften is verleend, worden, onverminderd het elders in deze regeling bepaalde en het bepaalde in de vergunning, uitgevoerd in overeenstemming met de voorschriften, vermeld in bijlage 10, deel E.

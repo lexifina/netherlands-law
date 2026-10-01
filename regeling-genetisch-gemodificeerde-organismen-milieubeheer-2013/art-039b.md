@@ -1,0 +1,2 @@
+# Artikel 39b
+Als categorie van genetisch gemodificeerde organismen als bedoeld in artikel 3.24, eerste lid, in samenhang met artikel 3.26a, van het Besluit, worden aangewezen humane cellen genetisch gemodificeerd met virale vectoren afgeleid van muizen gamma-retrovirussen dan wel humaan immunodeficiëntievirus, waarbij geen risico bestaat op de vorming van replicatiecompetent virus en waarbij residuele infectieuze retrovirale of lentivirale partikels afwezig zijn.
