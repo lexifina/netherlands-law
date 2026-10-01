@@ -1,0 +1,2 @@
+# Artikel XVII
+Met betrekking tot de periode die loopt tot en met het eerste boekjaar dat aanvangt op of na 1 januari 2029 blijft artikel 3.22, vijfde lid, onderdeel d, en zesde lid, onderdelen a en c, van de Wet inkomstenbelasting 2001 zoals dat artikel luidde op 31 december 2019 van toepassing met betrekking tot schepen waarvoor de belastingplichtige op dat tijdstip reeds de winst uit zeescheepvaart bepaalt aan de hand van de tonnage, bedoeld in artikel 3.22 van die wet.
