@@ -1,0 +1,5 @@
+# Artikel 31b
+1. Het bestuurscollege deelt aan de betrokkene op diens verzoek schriftelijk binnen vier weken mede of hem betreffende gegevens in het jaar voorafgaande aan het verzoek uit de basisadministratie zijn verstrekt.
+2. Indien zodanige verstrekking is geschied, doet het bestuurscollege daarvan desverlangd binnen vier weken na ontvangst van het verzoek schriftelijk mededeling aan verzoeker. Het bestuurscollege kan volstaan met een in algemene termen gestelde mededeling omtrent de verstrekking, tenzij het belang van de verzoeker daardoor onevenredig wordt geschaad.
+3. Het bestuurscollege voldoet niet aan het in het eerste en tweede lid bedoelde verzoek, voor zover dit noodzakelijk is in het belang van de veiligheid van de staat of de voorkoming, opsporing en vervolging van strafbare feiten. Bij ministeriële regeling kan een nadere regeling worden getroffen welke afnemers, overheidsorganen en derden het betreft en in verband met welke aan deze afnemers, overheidsorganen of derden opgedragen wettelijke taken het niet voldoen aan het verzoek noodzakelijk is.
+4. Artikel 32 van de wet is van toepassing.
