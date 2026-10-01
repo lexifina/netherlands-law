@@ -1,0 +1,5 @@
+# Artikel 100o. Ontvangst, veiligstellen en controle ontvangen nooddocumenten
+1. Na ontvangst van de zending wordt deze terstond veilig gesteld. Indien de aflevering niet aan de kluis geschiedt, ziet de ambtenaar die de zending in ontvangst heeft genomen erop toe, dat de zending terstond in de kluis wordt opgeslagen.
+2. De bij de zending gevoegde ontvangstbevestiging wordt na vergelijking van de verpakkingseenheden van de zending met de opgave in de leveringsbevestiging binnen vijf werkdagen na aflevering van de zending, aan de leverancier geretourneerd.
+3. De controle van de inhoud van de verpakkingseenheden als bedoeld in het tweede lid geschiedt door de tot ontvangst bevoegde persoon, en ten minste één andere persoon. Van de controle wordt een proces-verbaal opgemaakt, dat bij de in artikel 100p bedoelde voorraadadministratie wordt gearchiveerd.
+4. Bij constatering van afwijkingen tussen de inhoud van de zending en de opgave in de leveringsbevestiging wordt terstond contact opgenomen met de leverancier. De geconstateerde afwijkingen worden schriftelijk medegedeeld aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties.

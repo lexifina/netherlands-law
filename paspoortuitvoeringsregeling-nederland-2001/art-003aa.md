@@ -1,0 +1,6 @@
+# Artikel 3aa. Statusgegevens reisdocumenten
+Gegevens die betrekking hebben op de status van een reisdocument zijn:
+a. in aanvraag;
+b. geldig;
+c. ongeldig, met inbegrip van de reden van ongeldigheid;
+d. definitief aan het verkeer onttrokken.

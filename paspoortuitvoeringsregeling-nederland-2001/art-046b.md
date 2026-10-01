@@ -1,0 +1,2 @@
+# Artikel 46b. Vernietiging van verkeerd geleverde documenten in Aruba, Curaçao en Sint Maarten
+De documenten die na de controle van de zending als bedoeld in de artikelen 44 of 45 in Aruba, Curaçao en Sint Maarten voor een andere autoriteit blijken te zijn bestemd, worden op de vestigingen van de Vertegenwoordiging van de Nederlandse regering bij de regeringen van Aruba, Curaçao en Sint Maarten vernietigd op de in artikel 67, eerste lid, aangegeven wijze.

@@ -1,0 +1,11 @@
+# Artikel 100s. Verantwoording nooddocumenten
+1. De gezaghebber verstrekt, met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier, een keer per kwartaal een schriftelijke verantwoording van het totale voorraadverloop met betrekking tot nooddocumenten over het voorgaande jaar aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+2. Deze verantwoording bevat, uitgesplitst naar noodpaspoorten en laissez-passer's:
+a. de totale voorraad blanco nooddocumenten aan het begin van het kwartaal;
+b. de in de loop van het kwartaal aan de voorraad toegevoegde blanco nooddocumenten;
+c. de in de loop van het kwartaal aan de voorraad onttrokken nooddocumenten die zijn uitgereikt;
+d. de in de loop van het kwartaal aan de voorraad onttrokken nooddocumenten die niet zijn uitgereikt, omdat zij zijn verschreven, gestolen, vermist of anderszins als onbruikbaar moeten worden beschouwd;
+e. de totale voorraad blanco nooddocumenten aan het einde van het kwartaal.
+3. Nooddocumenten die onjuist blijken te zijn geproduceerd of beschadigd worden met het in het eerste lid bedoelde verantwoordingsformulier meegezonden aan de leverancier.
+4. Nooddocumenten die als gevolg van verschrijvingen of anderszins onbruikbaar zijn geworden, worden definitief aan het verkeer onttrokken door ze deugdelijk te vernietigen op de in artikel 67, eerste lid, aangegeven wijze.
+5. Het in het eerste lid bedoelde verantwoordingsformulier wordt ondertekend door of namens de gezaghebber.

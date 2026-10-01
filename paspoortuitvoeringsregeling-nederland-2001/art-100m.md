@@ -1,0 +1,5 @@
+# Artikel 100m. De tot bestelling en ontvangst van blanco documenten bevoegde ambtenaren
+1. De gezaghebber of de door hem daartoe aangewezen ambtenaar wijst ten minste drie ambtenaren aan om namens hem bestellingen te doen van blanco noodpaspoorten en laissez-passer's bij de leverancier en tevens drie ambtenaren om leveringen daarvan in ontvangst te nemen.
+2. De aanmelding van de tot bestelling en van de tot ontvangst bevoegde ambtenaren, bedoeld in het eerste lid, alsmede wijzigingen in deze gegevens, vindt plaats bij de Minister van Binnenlandse Zaken en Koninkrijksrelaties, met gebruikmaking van de daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulieren.
+3. Het ingevulde registratieformulier wordt gewaarmerkt met een afdruk van het in artikel 88 bedoelde dienststempel.
+4. De Minister van Binnenlandse Zaken en Koninkrijksrelaties houdt een registratie bij van de ingevolge het eerste lid aangemelde personen en geeft deze gegevens door aan de leverancier.
