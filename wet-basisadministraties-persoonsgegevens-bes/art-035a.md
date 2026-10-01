@@ -1,0 +1,2 @@
+# Artikel 35a
+Artikel 12a, eerste lid, is niet van toepassing als een persoon op het moment van inwerkingtreding van dat artikel reeds in de basisadministratie is ingeschreven. In dat geval wordt het burgerservicenummer dat aan diegene is toegekend overeenkomstig artikel 8, tweede lid, of artikel 22, eerste lid, van de Wet algemene bepalingen burgerservicenummer onmiddellijk opgenomen op diens persoonslijst.

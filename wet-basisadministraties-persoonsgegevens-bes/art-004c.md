@@ -1,0 +1,4 @@
+# Artikel 4c
+1. De overheidsorganen en derden aan wie op grond van artikel 26, eerste lid, gegevens worden verstrekt, dragen bij in de kosten in verband met de uitvoering van deze wet. Indien een van deze betrokkenen geen rechtspersoonlijkheid bezit, komt de bijdrage ten laste van de rechtspersoon waartoe de betrokkene behoort.
+2. Bij algemene maatregel van bestuur wordt bepaald welke categorieën van kosten het betreft en worden de grondslagen bepaald van de bijdragen van de betrokkenen.
+3. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de vaststelling en de betaling van de bijdragen. Daarbij kan worden bepaald dat Onze Minister het in rekening te brengen bedrag op nul vaststelt, voor zover een voorziening is getroffen in de begroting van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties die in de plaats treedt van de bijdrage van de betrokkene.
