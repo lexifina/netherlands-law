@@ -1,0 +1,2 @@
+# Artikel 35a
+Het college van burgemeester en wethouders van de voormalige bijhoudingsgemeente neemt met betrekking tot een ingeschrevene die geen ingezetene meer is binnen vier weken na diens schriftelijk verzoek daartoe kosteloos op de persoonslijst van de ingeschrevene de gegevens op als bedoeld in artikel 2.25 van de wet waaruit blijkt dat deze geen gebruik maakt van de geslachtsnaam van de echtgenoot, de eerdere echtgenoot, de geregistreerde partner of de eerdere geregistreerde partner.

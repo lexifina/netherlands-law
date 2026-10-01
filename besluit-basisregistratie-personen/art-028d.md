@@ -1,0 +1,3 @@
+# Artikel 28d
+1. Een onderzoek naar patronen als bedoeld in artikel 2.37c, tweede lid, van de wet draagt bij aan de totstandkoming van een profiel als bedoeld in artikel 28c. Het onderzoek leidt niet tot een mededeling als bedoeld in artikel 2.37d, eerste lid, van de wet.
+2. Een onderzoek als bedoeld in het eerste lid wordt niet gestart dan nadat daarover door Onze Minister overleg is gepleegd met representatieve vertegenwoordigingen van de gemeenten en de krachtens artikel 2.37b, eerste lid, van de wet aangewezen bestuursorganen, waarbij Onze Minister in ieder geval inzicht geeft in het beoogde doel van het onderzoek en de daarbij te verwerken categorieën gegevens.

@@ -1,0 +1,3 @@
+# Artikel 35b
+1. Artikel 2.56a van de wet is van overeenkomstige toepassing op de ingeschrevene die geen ingezetene meer is, ouder is van een kind als bedoeld in artikel 2.7, eerste lid, onderdeel a, onder 2°, van de wet en op het moment van de geboorte van het kind als ingezetene was ingeschreven in het persoonsregister, bedoeld in het Besluit bevolkingsboekhouding.
+2. Het college van burgemeester en wethouders van de voormalige bijhoudingsgemeente is verantwoordelijk voor de bijhouding van de gegevens over het kind op de persoonslijst van de ouder, bedoeld in het eerste lid, op grond van het verzoek, bedoeld in artikel 2.56a van de wet.
