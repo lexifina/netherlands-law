@@ -1,0 +1,2 @@
+# Artikel 2b
+Bij de toewijzing van lichaamsmateriaal aan een ontvanger wordt met geen andere factoren rekening gehouden dan met de medische compatibiliteit, de medische urgentie en andere, met de toestand van het lichaamsmateriaal samenhangende, omstandigheden dan wel, indien deze factoren geen uitsluitsel geven, met de wachttijd van de ontvanger. Bij algemene maatregel van bestuur kunnen daaromtrent nadere regels worden gesteld.

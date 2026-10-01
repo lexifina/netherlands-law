@@ -1,0 +1,3 @@
+# Artikel 5a
+1. De informatie, bedoeld in de artikelen 3, tweede lid, 4, derde lid, en 5, derde lid, omvat in ieder geval de informatie, bedoeld in de bijlage bij richtlijn 2004/23/EG van het Europees Parlement en de Raad van 31 maart 2004 tot vaststelling van kwaliteits- en veiligheidsnormen voor het doneren, verkrijgen, testen, bewerken, bewaren en distribueren van menselijke weefsels en cellen (PbEU L 102).
+2. Een wijziging van de in het eerste lid genoemde richtlijn gaat voor de toepassing van dit artikel gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.

@@ -1,0 +1,3 @@
+# Artikel 10b
+1. De burgemeester draagt ervoor zorg dat aan een meerderjarige persoon die als ingezetene in de basisregistratie personen is ingeschreven bij het in behandeling nemen van diens aanvraag voor een nationaal paspoort als bedoeld in artikel 2, eerste lid, onder a, van de Paspoortwet, een Nederlandse identiteitskaart als bedoeld in artikel 2, eerste lid, van de Wet op de Nederlandse identiteitskaart of een rijbewijs als bedoeld in artikel 107 van de Wegenverkeerswet 1994 schriftelijke informatie over donorregistratie wordt overhandigd en informatie over de wijze waarop de betrokkene de op hem betrekking hebbende registratie kan raadplegen en wijzigen.
+2. De schriftelijke informatie wordt door Onze Minister kosteloos aan de burgemeester ter beschikking gesteld.
