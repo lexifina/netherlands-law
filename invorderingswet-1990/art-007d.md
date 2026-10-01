@@ -1,0 +1,3 @@
+# Artikel 7d
+1. In afwijking van artikel 2:7, tweede lid, van de Algemene wet bestuursrecht kunnen bij ministeriële regeling berichten, groepen van belastingschuldigen of aansprakelijk gestelden of omstandigheden worden aangewezen waarvoor, voor wie, onderscheidenlijk waaronder, geldt dat een belastingschuldige of aansprakelijk gestelde berichten uitsluitend langs elektronische weg dan wel uitsluitend anders dan langs elektronische weg aan de directeur, de ontvanger of de belastingdeurwaarder verzendt.
+2. Het ontwerp van een ministeriële regeling als bedoeld in het eerste lid wordt ten minste vier weken voordat de regeling wordt vastgesteld, overgelegd aan de beide kamers der Staten-Generaal.
