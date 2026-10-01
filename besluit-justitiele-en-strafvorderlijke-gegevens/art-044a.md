@@ -1,0 +1,3 @@
+# Artikel 44a
+1. Beslissingen omtrent de afgifte van een verklaring omtrent het gedrag als bedoeld in artikel 35a, eerste lid, van de wet en de justitiële gegevens en politiegegevens die zijn verstrekt ten behoeve van de onderzoeken die aan deze beslissingen zijn voorafgegaan, worden desgevraagd door Onze Minister verstrekt aan de Adviescommissie VOG-politiegegevens ten behoeve van de taak, bedoeld in artikel 35a, vierde lid, van de wet.
+2. De Adviescommissie VOG-politiegegevens vernietigt de op grond van het eerste lid verstrekte gegevens uiterlijk negen maanden na de datum van de verstrekking.
