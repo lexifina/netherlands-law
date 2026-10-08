@@ -1,0 +1,2 @@
+# Artikel 73b
+Het bezwaar of beroep van een werkgever tegen de in artikel 63a, derde lid, bedoelde betaling dan wel tegen het verhaal, bedoeld in artikel 63e, eerste lid, dan wel tegen de opslag of korting, bedoeld in artikel 38, derde of vierde lid, van de Wet financiering sociale verzekeringen kan niet zijn gegrond op de grief, dat een uitkering op grond van deze wet ten onrechte of tot een te hoog bedrag is vastgesteld.

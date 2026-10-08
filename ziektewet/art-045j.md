@@ -1,0 +1,2 @@
+# Artikel 45j
+Indien voor het vaststellen van het recht op ziekengeld op grond van deze wet, in het kader van een ziekmelding voor de toekenning van ziekengeld op grond van deze wet, naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen een medisch onderzoek nodig is en de betrokkene niet meewerkt aan dat onderzoek, blijven eventuele uit deze wet voortvloeiende aanspraken op ziekengeld op grond van deze wet buiten beschouwing, voor zolang het recht op ziekengeld niet kan worden vastgesteld.

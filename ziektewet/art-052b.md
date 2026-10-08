@@ -1,0 +1,3 @@
+# Artikel 52b
+1. Het bepaalde in het vorige artikel geldt ten aanzien van de naar burgerlijk recht tot schadevergoeding verplichte werkgever van de verzekerde, onderscheidenlijk ten aanzien van de naar burgerlijk recht tot schadevergoeding verplichte verzekerde, die in dienstbetrekking staat tot dezelfde werkgever als de verzekerde jegens wie naar burgerlijk recht verplichting tot schadevergoeding bestaat, slechts indien de ongeschiktheid tot werken is te wijten aan opzet of bewuste roekeloosheid van die werkgever onderscheidenlijk verzekerde.
+2. Voor de toepassing van het vorige lid wordt mede als werkgever beschouwd de inlener, bedoeld in artikel 34 van de Invorderingswet 1990.

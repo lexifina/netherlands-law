@@ -1,0 +1,3 @@
+# Artikel 19e
+1. De verzekerde die een uitreiziger is, heeft geen recht op ziekengeld.
+2. Indien het recht op ziekengeld op grond van het eerste lid is geëindigd dan wel niet is ontstaan wordt betrokkene vanaf de dag dat niet langer het gegronde vermoeden bestaat dat hij zich buiten Nederland bevindt met het doel zich aan te sluiten bij een organisatie als bedoeld in artikel 1, eerste lid, onderdeel m, weer als verzekerde aangemerkt, indien hij op die dag aan de overige voorwaarden, bedoeld in de artikelen 19 en 19aa, voldoet. Deze verzekerde heeft aanspraak op heropening dan wel toekenning van het recht op ziekengeld voor de resterende periode, bedoeld in artikel 29, vijfde lid, dan wel artikel 29a, vierde lid, met inachtneming van de bepalingen van deze wet.

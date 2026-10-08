@@ -1,0 +1,2 @@
+# Artikel 63d
+Voor de toepassing van dit hoofdstuk wordt de ongeschiktheid tot werken geacht niet te zijn onderbroken, indien de tijdvakken van ongeschiktheid tot werken elkaar met een onderbreking van minder dan vier weken opvolgen of indien zij direct voorafgaan aan en aansluiten op een periode waarin uitkering in verband met zwangerschap of bevalling op grond van artikel 3:7, eerste lid, 3:8 of 3:10, eerste lid, van de Wet arbeid en zorg wordt genoten, tenzij de ongeschiktheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak.

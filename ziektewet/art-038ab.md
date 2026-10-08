@@ -1,0 +1,3 @@
+# Artikel 38ab
+1. Indien de verzekerde die aanspraak maakt op ziekengeld geen werkgever heeft als bedoeld in de eerste afdeling, paragraaf 3, is deze in geval van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte verplicht dit op de tweede dag van die ongeschiktheid te melden aan het Uitvoeringsinstituut werknemersverzekeringen.
+2. Indien de verzekerde, na een ziekmelding als bedoeld in het eerste lid weer geschikt is tot het verrichten van zijn arbeid, meldt hij aan het Uitvoeringsinstituut werknemersverzekeringen uiterlijk de tweede dag van die geschiktheid, de eerste dag waarop hij weer geschikt is tot het verrichten van zijn arbeid.
