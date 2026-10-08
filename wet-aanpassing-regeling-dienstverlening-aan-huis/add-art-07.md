@@ -1,0 +1,2 @@
+# Artikel VII. Evaluatie
+Onze Minister van Sociale Zaken en Werkgelegenheid zendt binnen twee jaar en vervolgens binnen drie jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. Het verslag dat binnen twee jaar aan de Staten-Generaal wordt gezonden beperkt zich tot de vraag of de compenserende middelen voor pgb-houders op grond van de Wet langdurige zorg en de Zorgverzekeringswet toereikend zijn.
