@@ -1,0 +1,2 @@
+# Artikel 13a. Overgangsrecht certificaten natuurlijke personen
+In afwijking van artikel 2, derde lid, is een certificaat van een natuurlijk persoon dat is afgegeven voor 29 september 2024 of op grond van de Beoordelingsrichtlijn voor het certificaat f-gassen voor natuurlijke personen, versie 1.2, 1 mei 2017, geldig tot het moment dat voor de werkzaamheden waarvoor het certificaat is afgegeven een nieuw examen is afgelegd waaruit blijkt dat aan de eisen, bedoeld in artikel 2, eerste lid, wordt voldaan, en uiterlijk tot 12 maart 2029.

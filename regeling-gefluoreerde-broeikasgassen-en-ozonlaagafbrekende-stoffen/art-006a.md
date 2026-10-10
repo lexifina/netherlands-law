@@ -1,0 +1,3 @@
+# Artikel 6a. Opleidingsattest
+1. Een opleidingsattest als bedoeld in artikel 10 van de F-gassenverordening en artikel 2 van Uitvoeringsverordening 2025/1893 van de Europese Commissie van 17 september 2025 wordt afgegeven door een attesteringsinstantie als bedoeld in artikel 6.
+2. Een attesteringsinstantie kan een natuurlijk persoon op diens aanvraag geheel of gedeeltelijk ontheffing verlenen van de verplichting tot het volgen van een opleiding als bedoeld in artikel 3, eerste lid, van die Uitvoeringsverordening, indien de aanvrager aantoont te beschikken over eerder verworven vaardigheden en kennis die gelijkwaardig zijn aan de vaardigheden en kennis, bedoeld in bijlage I van die Uitvoeringsverordening.
