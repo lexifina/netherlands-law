@@ -1,0 +1,2 @@
+# Artikel IB
+Indien Onze Minister van Asiel en Migratie vóór het tijdstip van inwerkingtreding van artikel IA niet binnen de wettelijke termijn heeft beslist op een aanvraag of bezwaar op grond van de Vreemdelingenwet 2000 en de aanvrager of indiener van het bezwaar vóór dat tijdstip bij de bestuursrechter een beroep heeft ingesteld tegen het niet tijdig nemen van het besluit, blijft voor dat beroep artikel 71b van de Vreemdelingenwet 2000 gelden zoals dat luidde onmiddellijk voorafgaand aan dat tijdstip en blijft artikel 71c van de Vreemdelingenwet 2000 buiten toepassing.
