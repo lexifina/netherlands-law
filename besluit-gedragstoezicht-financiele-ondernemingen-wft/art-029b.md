@@ -1,0 +1,3 @@
+# Artikel 29b
+1. De bedrijfsvoering van een beleggingsonderneming voorziet in een duidelijke en adequate verdeling van taken, bevoegdheden en verantwoordelijkheden en maakt daarbij, indien van toepassing, een onderscheid tussen werknemers en andere natuurlijke personen die onder zijn verantwoordelijkheid cliënten informeren over financiële instrumenten, beleggingsdiensten of nevendiensten en werknemers en andere natuurlijke personen die zich rechtstreeks bezighouden met het adviseren van cliënten over financiële instrumenten.
+2. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de bedrijfsvoering van een beleggingsonderneming ten aanzien van het beoordelen, onderhouden en bijhouden van de vakbekwaamheid van werknemers.

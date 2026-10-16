@@ -1,0 +1,2 @@
+# Artikel 77c
+Indien de financiëledienstverlener de informatie, bedoeld in artikel 77, eerste lid, of de te verstrekken precontractuele informatie aan de consument op grond van paragraaf 8.1.4minder dan een dag voorafgaand aan de totstandkoming van de overeenkomst op afstand verstrekt, herinnert de financiëledienstverlener de consument binnen een week na de totstandkoming van de overeenkomst over de mogelijkheid om de overeenkomst te ontbinden en de te volgen procedure.

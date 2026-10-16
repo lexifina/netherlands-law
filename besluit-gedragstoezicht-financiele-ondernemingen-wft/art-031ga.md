@@ -1,0 +1,2 @@
+# Artikel 31ga
+Een beleggingsonderneming in de zin van de richtlijn prudentieel toezicht beleggingsondernemingen, niet zijnde een kleine en niet-verweven beleggingsonderneming als bedoeld in artikel 12, eerste lid, van de verordening prudentiële vereisten voor beleggingsondernemingen, verstrekt de in artikel 34, vierde lid, van de richtlijn prudentieel toezicht beleggingsondernemingen bedoelde gegevens jaarlijks aan de Autoriteit Financiële Markten.

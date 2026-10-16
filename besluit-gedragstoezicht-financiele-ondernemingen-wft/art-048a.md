@@ -1,0 +1,2 @@
+# Artikel 48a
+Een geschilleninstantie kan voorgenomen wijzigingen in het reglement, bedoeld in artikel 48, alsmede voorgenomen benoemingen van leden van het bestuur, een ombudsman en de voorzitters van organen belast met buitengerechtelijke geschillenbeslechting niet doorvoeren dan na instemming van Onze Minister. Bij voorgenomen benoemingen vermeldt de geschilleninstantie de leeftijd, genoten opleidingen en professionele achtergrond van de persoon. Deze toelichting kan achterwege blijven in het geval van een herbenoeming.

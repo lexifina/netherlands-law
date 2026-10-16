@@ -1,0 +1,5 @@
+# Artikel 126i
+1. Een beheerder van een icbe neemt bij het selecteren en continu monitoren van beleggingen de nodige zorgvuldigheid in acht.
+2. Een beheerder van een icbe heeft voldoende kennis en begrip van de activa waarin de door hem beheerde icbe's beleggen.
+3. Een beheerder van een icbe houdt rekening met duurzaamheidsrisico's bij het voldoen aan het eerste en tweede lid, artikel 23, eerste lid, Besluit prudentiële regels Wft en de artikelen 34, eerste lid, 38a, tweede lid, onderdelen e en f, en derde lid, van dit besluit.
+4. Indien artikel 4, eerste lid, onderdeel a, derde of vierde lid, van Verordening (EU) 2019/2088 van het Europees Parlement en de Raad van 27 november 2019 betreffende informatieverschaffing over duurzaamheid in de financiëledienstensector (PbEU 2019, L 317) van toepassing is op de beheerder van een icbe houdt hij bij het voldoen aan de in het derde lid genoemde artikelen tevens rekening met de belangrijkste ongunstige effecten van beleggingsbeslissingen op duurzaamheidsfactoren.

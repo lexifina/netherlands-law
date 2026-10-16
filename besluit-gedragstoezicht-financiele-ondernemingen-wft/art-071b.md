@@ -1,0 +1,3 @@
+# Artikel 71b
+1. In het tweede lid en de artikelen 71c en 71d wordt onder eenmalige betalingstransacties verstaan een betalingstransactie waarop niet een raamovereenkomst voor betaaldiensten van toepassing is.
+2. Indien een betaalopdracht voor een eenmalige betalingstransactie wordt doorgegeven via een onder een raamovereenkomst voor betaaldiensten vallend betaalinstrument, is de betaaldienstverlener niet verplicht informatie te verstrekken of beschikbaar te stellen die reeds uit hoofde van een raamovereenkomst voor betaaldiensten met een andere betaaldienstverlener aan de betaaldienstgebruiker is verstrekt of volgens de raamovereenkomst aan hem zal worden verstrekt.

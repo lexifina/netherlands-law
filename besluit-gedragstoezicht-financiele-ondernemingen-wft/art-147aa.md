@@ -1,0 +1,5 @@
+# Artikel 147aa
+Onverminderd de artikelen 147w, 147x, eerste lid, 147y en 147z omvat de te verstrekken informatie over de voorgenomen fusie aan de deelnemers van de verdwijnende icbe tevens:
+a. de termijn waarbinnen het inschrijven op of vragen om terugbetaling van rechten van deelneming in de verdwijnende icbe mogelijk blijft;
+b. de termijn waarbinnen de deelnemers, die niet binnen de termijn gebruik hebben gemaakt van hun rechten op grond van artikel 4:62h, van de wet, hun rechten als deelnemer van de verkrijgende icbe kunnen uitoefenen; en
+c. een toelichting dat indien een besluit tot fusie dient te worden genomen door de algemene vergadering van de verdwijnende icbe op grond van artikel 317 of 330van Boek 2 van het Burgerlijk Wetboeken het fusiebesluit met de vereiste meerderheid is genomen, de deelnemers die niet hebben gestemd, tegen het fusievoorstel hebben gestemd, of niet binnen de termijn gebruik hebben gemaakt van hun rechten op grond van artikel 4:62h, van de wet, deelnemers worden van de verkrijgende icbe.

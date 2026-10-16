@@ -1,0 +1,3 @@
+# Artikel 115l
+1. De beheerder van een beleggingsinstelling verstrekt de gegevens genoemd in artikel 24, eerste, tweede en vierde lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen, voor zover op hem van toepassing. De beheerder van een beleggingsinstelling verstrekt daarnaast, voor zover de Autoriteit Financiële Markten hierom verzoekt, alle gegevens genoemd in artikel 24, derde en vijfde lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen. Deze gegevens voldoen aan de ingevolge artikel 24, zesde lid, van deze richtlijn door de Europese Commissie gestelde eisen.
+2. [Vervallen.]

@@ -1,0 +1,2 @@
+# Artikel 147cc
+Indien de informatie over de voorgenomen fusie, bedoeld in artikel 147w, aan de deelnemers van de betrokken icbe's is verstrekt, wordt dezelfde informatie verstrekt tot de dag waarop de fusie van kracht wordt aan een ieder die rechten van deelneming in de verdwijnende of verkrijgende icbe aankoopt of daarop inschrijft of verzoekt om het fondsreglement of de statuten, het prospectus of essentiële-informatiedocument respectievelijk essentiële beleggersinformatie van een van de betrokken icbe's.

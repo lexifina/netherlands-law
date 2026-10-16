@@ -1,0 +1,2 @@
+# Artikel 38j
+Bij de uitbesteding van werkzaamheden in verband met het verlenen van betaaldiensten dan wel de uitgifte van elektronisch geld draagt de betaalinstelling of de elektronischgeldinstelling er zorg voor dat uitbesteding de verplichtingen van de betaalinstelling, onderscheidenlijk de elektronischgeldinstelling, jegens haar cliënten en de rechten van haar cliënten uit hoofde van de wet of Titel 7B van Boek 7 van het Burgerlijk Wetboek niet wijzigt.

@@ -1,0 +1,4 @@
+# Artikel 59h
+1. Een financiëledienstverlener informeert een cliënt voorafgaand aan het advies over een verzekering met een beleggingscomponent of de cliënt een periodieke beoordeling ontvangt van de geschiktheid van de verzekering met een beleggingscomponent die de financiëledienstverlener aan de cliënt heeft geadviseerd.
+2. Een financiëledienstverlener informeert de cliënt over alle kosten en bijbehorende lasten in verband met de dienst en de verzekering met een beleggingscomponent en voegt de kosten die niet het gevolg zijn van de ontwikkeling van onderliggende marktrisico's, samen zodat de cliënt inzicht krijgt in de totale kosten, en mede in het cumulatieve effect op het rendement.
+3. Op verzoek van de cliënt verstrekt de financiëledienstverlener een puntgewijze uitsplitsing van de kosten en bijbehorende lasten, bedoeld in het tweede lid.

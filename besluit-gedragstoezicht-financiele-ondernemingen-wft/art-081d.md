@@ -1,0 +1,4 @@
+# Artikel 81d
+1. Een aanbieder van hypothecair krediet waarborgt dat een consument zorgvuldig wordt behandeld indien de consument de uit een overeenkomst inzake hypothecair krediet voortvloeiende verplichtingen niet nakomt of indien de aanbieder van hypothecair krediet zich verhaalt op de onroerende zaak waarop het hypothecair krediet is gevestigd.
+2. Een aanbieder van hypothecair krediet rekent de consument geen hogere vergoeding van kosten bij het niet nakomen door die consument dan nodig is ter vergoeding van de schade die de aanbieder als gevolg van de niet-nakoming heeft geleden.
+3. Indien het verhaal op de onroerende zaak onvoldoende oplevert om de uit een overeenkomst inzake hypothecaire krediet voortvloeiende verplichtingen na te komen, komt de aanbieder met de consument een regeling overeen ten behoeve van de afbetaling van het resterende krediet, tenzij dit in redelijkheid niet van de aanbieder kan worden verlangd.

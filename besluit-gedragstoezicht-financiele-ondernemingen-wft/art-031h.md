@@ -1,0 +1,2 @@
+# Artikel 31h
+Een beheerder van een icbe of een bewaarder beschikt over procedures die zijn werknemers in staat stellen om door hen geconstateerde mogelijke of feitelijke overtredingen van het bij of krachtens deze wet bepaalde intern te melden. Deze procedures voldoen aan de vereisten in artikel 99 quinquies, tweede lid, onderdelen b, c en d, van de richtlijn instellingen voor collectieve belegging in effecten.

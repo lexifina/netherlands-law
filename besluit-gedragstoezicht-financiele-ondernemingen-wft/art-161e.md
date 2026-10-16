@@ -1,0 +1,2 @@
+# Artikel 161e
+De Autoriteit Financiële Markten kan ter uitvoering van internationaal aanvaarde standaarden nadere regels stellen met betrekking tot de toegang en de criteria voor deelneming op basis van risicogerelateerde eisen, de communicatieprocedures, de doelen die een afwikkelonderneming heeft ten behoeve van het tijdig en efficiënt verlenen van diensten, de communicatieprocedures en het inzicht dat een afwikkelonderneming biedt in de financiële risico's en de kosten die zijn verbonden aan afwikkeldiensten.

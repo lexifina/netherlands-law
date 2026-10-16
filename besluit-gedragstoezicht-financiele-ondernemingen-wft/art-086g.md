@@ -1,0 +1,4 @@
+# Artikel 86g
+1. Een aanbieder die een vergelijkingskaart dient te verstrekken, stelt een kostprijsmodel op. Dit kostprijsmodel wordt gebruikt voor de berekening van de advieskosten en distributiekosten die zijn gericht op het tot stand brengen van een overeenkomst ten aanzien van producten als bedoeld in artikel 86c met een consument of, indien het een verzekering betreft, cliënt.
+2. De aanbieder rapporteert jaarlijks over de berekening, bedoeld in het eerste lid, en vermeldt daarbij of daarin sprake is van een materiële wijziging.
+3. De aanbieder laat de juistheid van het rapport controleren door een accountant indien een materiële wijziging van het kostprijsmodel heeft plaatsgevonden of twee opeenvolgende jaren zijn verstreken nadat het kostprijsmodel door een accountant is gecontroleerd. De accountant controleert of de advieskosten en distributiekosten juist en volledig zijn toegerekend aan de financiële producten, bedoeld in het eerste lid.

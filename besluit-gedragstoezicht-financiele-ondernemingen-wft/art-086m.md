@@ -1,0 +1,3 @@
+# Artikel 86m
+1. Indien een overeenkomst met een consument inzake een complex product of hypothecair krediet tijdens de eerste vijf jaar na de totstandkoming vroegtijdig wordt beëindigd, anders dan door overlijden van de verzekerde of anders dan door verkoop van de onroerende zaak waarop het complexe product of hypothecair krediet betrekking heeft, wordt de afsluitprovisie of provisie evenredig verminderd.
+2. Het eerste lid is niet van toepassing op overeenkomsten inzake complexe producten, voor zover tussen de desbetreffende aanbieder en de consument door tussenkomst van dezelfde bemiddelaar ten minste drie maanden voorafgaand aan het sluiten daarvan een overeenkomst is gesloten inzake een financieel product dat onderdeel is van het desbetreffende complexe product.

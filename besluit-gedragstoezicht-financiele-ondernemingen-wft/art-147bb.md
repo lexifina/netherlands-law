@@ -1,0 +1,4 @@
+# Artikel 147bb
+1. De aan de deelnemers van de verdwijnende icbe te verstrekken informatie over de voorgenomen fusie voldoet aan de behoeften van de deelnemers die geen voorafgaande kennis over de kenmerken en de bedrijfsvoering van de verkrijgende icbe hebben. De verdwijnende icbe wijst haar deelnemers op het essentiële-informatiedocument respectievelijk de essentiële beleggersinformatie van de verkrijgende icbe en benadrukt de wenselijkheid om die te lezen.
+2. De aan de deelnemers van de verkrijgende icbe te verstrekken informatie spitst zich toe op de voorgenomen fusie en de potentiële gevolgen daarvan voor de verkrijgende icbe.
+3. Bij een voorgenomen grensoverschrijdende fusie licht de icbe met zetel in Nederland in begrijpelijke taal alle termen en procedures betreffende de andere icbe toe die verschillen van die welke in Nederland worden gebruikt.

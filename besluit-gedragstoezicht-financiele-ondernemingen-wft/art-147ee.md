@@ -1,0 +1,2 @@
+# Artikel 147ee
+Een prime broker die optreedt als tegenpartij voor een beleggingsinstelling, mag niet optreden als bewaarder van die desbetreffende beleggingsinstelling tenzij hij zijn bewaartaken functioneel en hiërarchisch heeft gescheiden van zijn taken als prime broker en de mogelijke belangenconflicten afdoende worden geïdentificeerd, beheerd, gecontroleerd of medegedeeld aan de deelnemers in de beleggingsinstelling.

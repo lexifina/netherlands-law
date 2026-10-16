@@ -1,0 +1,2 @@
+# Artikel 165d
+Een beleggingsonderneming als bedoeld in artikel 4:87, eerste en tweede lid, van de wet die financiële instrumenten en gelden voor een cliënt onder zich houdt legt eenmaal per jaar aan de Autoriteit Financiële Markten een verslag over van een externe accountant over de deugdelijkheid van de in haar bedrijfsvoering getroffen maatregelen om te voldoen aan de artikelen 165 tot en met 165f.

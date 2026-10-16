@@ -1,0 +1,4 @@
+# Artikel 81ca
+1. Een aanbieder van hypothecair krediet die voorafgaande aan het aflopen van de rentevastperiode de debetrentevoet van een overeenkomst inzake hypothecair krediet wijzigt, rekent hiervoor geen vergoeding die hoger is dan het financiële nadeel dat de aanbieder heeft door het wijzigen van deze debetrentevoet.
+2. De aanbieder van hypothecair krediet verstrekt aan de consument die voornemens is de debetrentevoet van een overeenkomst inzake hypothecair krediet voorafgaande aan het aflopen van de rentevasteperiode te wijzigen een berekening van de aan de aanbieder te betalen vergoeding voor het wijzigen van die debetrentevoet en de bij de berekening gehanteerde hypothesen.
+3. De Autoriteit Financiële Markten kan nadere regels stellen met betrekking tot de berekening van de vergoeding, bedoeld in het tweede lid.

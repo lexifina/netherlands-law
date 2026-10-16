@@ -1,0 +1,5 @@
+# Artikel 126b
+1. Een beheerder van een icbe legt het beleid, bedoeld in artikel 4:59a, eerste lid, van de wet vast en draagt er zorg voor dit beleid te implementeren en in stand te houden. Het beleid is afgestemd op de aard, omvang en complexiteit van zijn bedrijf.
+2. Indien de beheerder deel uitmaakt van een groep, heeft het beleid ook betrekking op belangenconflicten die kunnen ontstaan als gevolg van de structuur en bedrijfsactiviteiten van andere ondernemingen die deel uitmaken van de groep.
+3. Het beleid omschrijft, onder verwijzing naar de werkzaamheden in verband met het beheer van icbe's die door of in naam van de beheerder worden verricht, de omstandigheden die een belangenconflict vormen of kunnen doen ontstaan dat een wezenlijk risico met zich brengt dat de belangen van de icbe of van een of meer cliënten worden geschaad, alsmede de te volgen procedures en te nemen maatregelen voor het omgaan met een dergelijk conflict.
+4. Het beleid vermeldt de te volgen procedures en te nemen maatregelen voor het beheersen van een belangenconflict als bedoeld in artikel 4:59a, eerste lid, van de wet.

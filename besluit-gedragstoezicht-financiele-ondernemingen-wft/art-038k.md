@@ -1,0 +1,3 @@
+# Artikel 38k
+1. De artikelen 37, 38g, 38h en 38j zijn slechts van toepassing op het uitbesteden van werkzaamheden door betaalinstellingen of elektronischgeldinstellingen voor zover het belangrijke werkzaamheden betreft.
+2. Een werkzaamheid wordt als belangrijk aangemerkt indien een gebrekkige of tekortschietende uitvoering ervan wezenlijk afbreuk zou doen aan de naleving door de betaalinstelling of de elektronischgeldinstelling van de vergunningsvereisten, als bedoeld in artikel 2:3b van de wet respectievelijk artikel 2:10b van de wet, of van andere verplichtingen ingevolge de wet of Titel 7B van Boek 7 van het Burgerlijk Wetboek, dan wel aan haar financiële resultaten of de soliditeit of continuïteit van haar betaaldiensten of uitgifte van elektronisch geld.

@@ -1,0 +1,2 @@
+# Artikel 168ad
+Een beleggingsonderneming die een afzonderlijke betaalrekening voor onderzoek op beleggingsgebied als bedoeld in artikel 24, lid 9 bis, onderdeel d, onder ii, van de richtlijn markten voor financiële instrumenten 2014 beheert, neemt bij dat beheer de in artikel 13, eerste lid, lid 1 bis, en zevende lid, van de gedelegeerde uitvoeringsrichtlijn markten voor financiële instrumenten 2014 gestelde regels in acht.

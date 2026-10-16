@@ -1,0 +1,11 @@
+# Artikel 86k
+1. Een aanbieder, bemiddelaar of adviseur verschaft of ontvangt voor het bemiddelen of adviseren inzake een betalingsbeschermer, complex product, hypothecair krediet of uitvaartverzekering, rechtstreeks of middellijk geen provisie die niet noodzakelijk is voor het verlenen van de desbetreffende dienst of deze mogelijk maakt.
+2. Het eerste lid is niet van toepassing op:
+a. provisies die worden verschaft door of aan de cliënt of degene die namens hem optreedt; of
+b. provisies die worden verschaft door de aanbieder of ontvangen door de bemiddelaar of adviseur voor het bemiddelen of adviseren van een consument die inzake een hypothecair krediet betalingsachterstanden of voorzienbare betalingsachterstanden heeft, mits de provisie geen afbreuk doet aan de kwaliteit van de dienstverlening en de verplichting van de bemiddelaar of adviseur om zich in te zetten voor de belangen van de consument;
+c. afsluitprovisies of doorlopende provisies die worden verschaft door of aan een derde of degene die namens hem optreedt, indien:
+1°. de bemiddelaar of adviseur de cliënt op uitvoerige, accurate en begrijpelijke wijze mededeling doet van het bestaan, de aard en het bedrag of, indien het bedrag niet kan worden achterhaald, de wijze van berekening van de provisie of in geval van provisie in natura de waarde in het economisch verkeer voordat de betreffende dienst wordt verleend; en
+2°. het verschaffen van de provisie de kwaliteit van de betreffende dienst ten goede komt en geen afbreuk doet aan de verplichting van de aanbieder, bemiddelaar of adviseur om zich in te zetten voor de belangen van de cliënt;
+d. relatiegeschenken, voor zover de gezamenlijke waarde daarvan op jaarbasis niet meer bedraagt dan € 100.
+3. Voor de toepassing van het tweede lid, onderdeel c, wordt onder «consument» in de definities van afsluitprovisie en doorlopende provisie, bedoeld in artikel 1, mede verstaan een cliënt, niet zijnde een consument.
+4. De bemiddelaar of adviseur doet op begrijpelijke wijze mededeling van het bestaan en het bedrag van de provisie als bedoeld in het tweede lid, onderdeel b, voordat de desbetreffende financiële dienst wordt verleend, tenzij het bedrag van de provisie op dat moment niet bekend is.

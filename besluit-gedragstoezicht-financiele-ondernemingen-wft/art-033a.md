@@ -1,0 +1,4 @@
+# Artikel 33a
+1. Een Nederlandse beheerder van een beleggingsinstelling voert met betrekking tot de beleggingsinstellingen die hij beheert, beleid gericht op het beheersen van risico's die de in artikel 4:14, tweede lid, onderdeel c, aanhef, van de wet bedoelde belangen kunnen schaden.
+2. De beheerder beschikt over passende procedures en maatregelen die waarborgen dat wordt voldaan aan de ingevolge artikel 15, eerste tot en met derde lid, en vijfde lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde voorwaarden.
+3. De beheerder bepaalt voor elke door hem beheerde beleggingsinstelling de maximale hefboomfinanciering en de omvang van het recht op hergebruik van zekerheden of garanties die in het kader van de hefboomfinancieringsregeling kunnen worden verleend, rekening houdend met artikel 15, vierde lid, onderdelen a tot en met h, van de richtlijn beheerders van alternatieve beleggingsinstellingen.

@@ -1,0 +1,2 @@
+# Artikel 81e
+Het is een aanbieder van hypothecair krediet niet toegestaan om, met als reden een onjuiste beoordeling van de kredietwaardigheid van de consument, de overeenkomst inzake hypothecair krediet te beëindigen of ten nadele van de consument te wijzigen, tenzij de consument voor de beoordeling van de kredietwaardigheid relevante informatie bewust heeft achtergehouden of bewust onjuist heeft weergegeven.

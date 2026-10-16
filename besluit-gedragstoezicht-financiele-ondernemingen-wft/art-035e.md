@@ -1,0 +1,5 @@
+# Artikel 35e
+1. De procedures en maatregelen bedoeld in artikel 35c, eerste lid, houden in dat de beheerder van een icbe onverwijld in kennis wordt gesteld van elke persoonlijke transactie.
+2. De beheerder van een icbe houdt gegevens bij van aan haar gemelde of door haar onderkende persoonlijke transacties en vermeldt daarbij in voorkomend geval tevens of de desbetreffende transactie is toegestaan.
+3. Ingeval van uitbesteding draagt de beheerder van een icbe zorg voor registratie door de onderneming waaraan de activiteit wordt uitbesteed van gegevens met betrekking tot persoonlijke transacties. Deze gegevens worden desgevraagd onverwijld aan de beheerder van een icbe verstrekt.
+4. Het eerste tot en met het derde lid zijn niet van toepassing op achtereenvolgende persoonlijke transacties, met uitzondering van de eerste persoonlijke transactie, die worden uitgevoerd namens een relevante persoon overeenkomstig vooraf door de relevante persoon gegeven instructies, wanneer de instructies ongewijzigd van kracht blijven.

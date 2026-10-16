@@ -1,0 +1,3 @@
+# Artikel 11g
+1. Een erkend exameninstituut verstrekt aan de beheerder van het informatiesysteem inzake beroepskwalificaties uit eigen beweging of op verzoek alle gegevens als bedoeld in artikel 11f, tweede lid, die noodzakelijk zijn voor het bijhouden dan wel schonen van de gegevens in het informatiesysteem.
+2. Persoonsgegevens die zijn opgenomen in het informatiesysteem inzake beroepskwalificaties worden slechts ter beschikking gesteld aan erkende exameninstituten en aan Onze Minister. De gegevens worden niet gebruikt voor een ander doel dan de uitvoering van de krachtens artikel 4:9, vierde en vijfde lid, gestelde regels.

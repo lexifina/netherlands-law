@@ -1,0 +1,3 @@
+# Artikel 147ff
+1. De taken van de bewaarder van een beleggingsinstelling als bedoeld in artikel 4:62m, vierde lid, van de wet, omvatten in ieder geval de uitvoering van de ingevolge artikel 21, zevende, achtste, negende en zeventiende lid, onderdeel c, van de richtlijn beheerders van alternatieve beleggingsinstellingen bedoelde taken.
+2. De taken van de bewaarder van een icbe als bedoeld in artikel 4:62m, vierde lid, van de wet omvatten in ieder geval de uitvoering van de ingevolge artikel 22, derde tot en met vijfde lid, van de richtlijn instellingen voor collectieve belegging in effecten bedoelde taken.

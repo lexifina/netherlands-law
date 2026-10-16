@@ -1,0 +1,4 @@
+# Artikel 77b
+1. Een financiële onderneming, met uitzondering van een financiële onderneming die bankdiensten aan consumenten als bedoeld in artikel 3, onder 28, van de toegankelijkheidsrichtlijn verleent, verstrekt aan een consument met een beperking op diens verzoek de informatie, bedoeld in artikel 77, eerste lid, of, indien van toepassing, de precontractuele informatie, bedoeld in paragraaf 8.1.4 of 8.1.5, in een passend en toegankelijk formaat.
+2. Indien een financiëledienstverlener de informatie, bedoeld in artikel 77, eerste lid, elektronisch verstrekt, kan de financiëledienstverlener de informatie in gelaagde vorm verstrekken, met uitzondering van de informatie, bedoeld in artikel 77, eerste lid, onderdelen a, f, h en o.
+3. Indien de financiëledienstverlener de informatie in gelaagde vorm verstrekt, zorgt hij ervoor dat de consument de informatie als één document kan opslaan, bekijken en afdrukken.

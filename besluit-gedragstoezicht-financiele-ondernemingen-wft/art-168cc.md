@@ -1,0 +1,3 @@
+# Artikel 168cc
+1. Een kredietservicer die een rekening als bedoeld in artikel 4:81f, eerste lid, van de wet aanhoudt, behandelt een betaling van een kredietnemer aan de kredietservicer, die dient ter gehele of gedeeltelijke voldoening van de met betrekking tot de rechten van een kredietgever krachtens een niet-renderende kredietovereenkomst, of de niet-renderende kredietovereenkomst zelf, verschuldigde bedragen, als een aan de kredietkoper verrichte betaling.
+2. Indien de kredietservicer een betaling van een kredietnemer heeft ontvangen, verstrekt hij de kredietnemer op papier of via een andere duurzame drager een ontvangstbewijs of kwijtingsbrief waarin de ontvangst van de betaling wordt bevestigd.

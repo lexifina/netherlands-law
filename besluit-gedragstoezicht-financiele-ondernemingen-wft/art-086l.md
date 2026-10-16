@@ -1,0 +1,5 @@
+# Artikel 86l
+1. Een aanbieder betaalt geen afsluitprovisie die meer bedraagt dan de helft van de som van die afsluitprovisie en de totale doorlopende provisie terzake van de desbetreffende overeenkomst.
+2. Een aanbieder betaalt de doorlopende provisie evenredig uit gedurende ten minste tien jaar na totstandkoming van de desbetreffende overeenkomst. Indien de looptijd van de overeenkomst korter is dan tien jaar, betaalt de aanbieder de doorlopende provisie evenredig uit gedurende die looptijd.
+3. Het tweede lid is niet van toepassing op overeenkomsten inzake complexe producten voor zover tussen de desbetreffende aanbieder en de consument door tussenkomst van dezelfde bemiddelaar ten minste drie maanden voorafgaand aan het sluiten daarvan een overeenkomst is gesloten inzake een financieel product dat onderdeel is van het desbetreffende complexe product.
+4. Dit artikel is niet van toepassing op overeenkomsten inzake een betalingsbeschermer, een hypothecair krediet, een schadeverzekering of een uitvaartverzekering.

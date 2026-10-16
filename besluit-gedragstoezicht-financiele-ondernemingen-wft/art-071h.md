@@ -1,0 +1,4 @@
+# Artikel 71h
+1. Een betaaldienstverlener verstrekt de betaaldienstgebruiker op diens verzoek de in de artikelen 71f, eerste lid, en 71g, eerste lid, bedoelde informatie eenmaal per maand schriftelijk.
+2. Een betaaldienstverlener verstrekt de consument ten minste jaarlijks een vergoedingenstaat als bedoeld in artikel 5 van de richtlijn betaalrekeningen, op de in dat artikel omschreven wijze en met inachtneming van artikel 6 van die richtlijn.
+3. Het eerste lid is niet van toepassing ten aanzien van betaaldienstgebruikers aan wie via de website van de betaaldienstverlener de in het eerste lid bedoelde informatie wordt verstrekt, mits de betaaldienstgebruiker geheel of nagenoeg geheel via de website van deze betaaldienstverlener gebruik maakt van de door de desbetreffende betaaldienstverlener verleende betaaldiensten.

@@ -1,0 +1,4 @@
+# Artikel 86h
+1. Een directe aanbieder brengt de advieskosten en distributiekosten gericht op het tot stand brengen van een overeenkomst met betrekking tot een betalingsbeschermer, complex product, hypothecair krediet, individuele arbeidsongeschiktheidsverzekering, overlijdensrisicoverzekering, uitvaartverzekering, of bij ministeriële regeling aan te wijzen ander financieel product rechtstreeks in rekening bij de consument of, indien het een verzekering betreft, de cliënt.
+2. De aanbieder brengt geen andere kosten dan de advieskosten en distributiekosten in rekening bij de consument onderscheidenlijk cliënt voor de werkzaamheden gericht op het tot stand brengen van een overeenkomst met betrekking tot de financiële producten, bedoeld in het eerste lid.
+3. Het eerste lid is niet van toepassing op het adviseren van een consument die inzake een hypothecair krediet betalingsachterstanden of voorzienbare betalingsachterstanden heeft.

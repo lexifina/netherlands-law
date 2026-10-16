@@ -1,0 +1,6 @@
+# Artikel 81c
+1. Een hypothecair krediet kan vervroegd worden afgelost. Onder vervroegde aflossing wordt verstaan de gehele of gedeeltelijke aflossing van een hypothecair krediet voorafgaand aan het verstrijken van de looptijd van de kredietovereenkomst.
+2. De aanbieder van hypothecair krediet rekent geen vergoeding voor vervroegde aflossing van het hypothecair krediet die hoger is dan het financiële nadeel dat de aanbieder heeft bij vervroegde aflossing.
+3. Een aanbieder van hypothecair krediet hanteert bij het berekenen van de vergoeding voor vervroegde aflossing van een kredietovereenkomst waarvan de debetrentevoet overeenkomstig artikel 81ca, eerste lid, is gewijzigd dezelfde voorwaarden als bij het berekenen van de vergoeding voor vervroegde aflossing van een kredietovereenkomst waarvan de debetrentevoet niet overeenkomstig artikel 81ca, eerste lid, is gewijzigd.
+4. De aanbieder van hypothecair krediet verstrekt aan de consument die voornemens is vervroegd af te lossen een berekening van de aan de aanbieder te betalen vergoeding voor het vervroegd aflossen en de bij de berekening gehanteerde hypothesen.
+5. De Autoriteit Financiële Markten kan nadere regels stellen met betrekking tot de berekening van de vergoeding, bedoeld in het vierde lid.

@@ -1,0 +1,2 @@
+# Artikel 147dd
+Indien de beheerder van een verdwijnende icbe of een verkrijgende icbe op grond van de artikelen 2:123 en 2:124a van de wet rechten van deelneming in een door hem beheerde icbe aanbiedt in een andere lidstaat verstrekt de desbetreffende icbe de informatie, bedoeld in artikel 147w, aan haar deelnemers in de officiële taal van die andere lidstaat of in een door de toezichthoudende instantie van die andere lidstaat goedgekeurde taal.

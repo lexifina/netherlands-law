@@ -1,0 +1,5 @@
+# Artikel 59ac
+Onverminderd artikel 1:5a van de wet:
+a. zijn de artikelen 59b tot en met 59g van toepassing op betalingstransacties in de valuta van een lidstaat, waarbij de bij de betalingstransactie betrokken betaaldienstverleners hun zetel in een lidstaat hebben;
+b. zijn de artikelen 59b, 59c, met uitzondering van het eerste lid, onderdeel b, 59d, 59e, met uitzondering van onderdeel g, 59f en 59g tevens van toepassing op betalingstransacties in de valuta van staten die geen lidstaat zijn, waarbij de bij de betalingstransactie betrokken betaaldienstverleners hun zetel in een lidstaat hebben;
+c. zijn de artikelen 59b, 59c, met uitzondering van het eerste lid, onderdeel b, 59d, 59e, met uitzondering van onderdelen g en w, 59f en 59g tevens van toepassing op betalingstransacties in alle valuta, waarbij één of de enige bij de betalingstransactie betrokken betaaldienstverlener zijn zetel in een lidstaat heeft, met betrekking tot de delen van de betalingstransactie die binnen een lidstaat worden uitgevoerd.

@@ -1,0 +1,2 @@
+# Artikel 5a
+Bij ministeriële regeling worden regels gesteld met betrekking tot de vakbekwaamheid van werknemers en andere natuurlijke personen die onder verantwoordelijkheid van een beleggingsonderneming cliënten informeren over financiële instrumenten, beleggingsdiensten of nevendiensten en werknemers en natuurlijke personen die zich rechtstreeks bezighouden met het adviseren van cliënten over financiële instrumenten.

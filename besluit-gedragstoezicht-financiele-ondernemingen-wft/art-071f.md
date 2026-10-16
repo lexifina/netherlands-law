@@ -1,0 +1,8 @@
+# Artikel 71f
+1. Nadat het bedrag van een afzonderlijke betalingstransactie uit hoofde van een raamovereenkomst voor betaaldiensten van de betaalrekening van de betaler is gedebiteerd of, indien de betaler geen betaalrekening gebruikt, na ontvangst van de betaalopdracht, verstrekt de betaaldienstverlener van de betaler op de wijze bepaald in artikel 59d, eerste en tweede lid, de betaler onverwijld de volgende informatie:
+a. een referentie aan de hand waarvan de betaler kan bepalen welke betalingstransactie het betreft en, in voorkomend geval, informatie betreffende de betalingsbegunstigde;
+b. het bedrag van de betalingstransactie in de valuta waarin de betaalrekening van de betaler wordt gedebiteerd of in de voor de betaalopdracht gebruikte valuta;
+c. het bedrag van de voor de betalingstransactie door de betaler verschuldigde kosten en, voor zover van toepassing, de splitsing daarvan, ofwel de aan de betaler in rekening te brengen interesten;
+d. voor zover van toepassing, de door de betaaldienstverlener van de betaler bij de betalingstransactie gehanteerde wisselkoers, en het bedrag van de betalingstransactie na die valutawissel; en
+e. de valutadatum van de debitering of de datum van ontvangst van de betaalopdracht.
+2. Een raamovereenkomst voor betaaldiensten bevat de voorwaarde dat de betaler kan verlangen dat de in het eerste lid bedoelde informatie periodiek en ten minste eenmaal per maand kosteloos moet worden verstrekt of ter beschikking moet worden gesteld op de overeengekomen wijze en die de betaler de mogelijkheid biedt informatie ongewijzigd op te slaan en te reproduceren.
