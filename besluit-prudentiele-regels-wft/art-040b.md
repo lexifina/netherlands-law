@@ -1,0 +1,8 @@
+# Artikel 40b
+1. Een elektronischgeldinstelling als bedoeld in artikel 3:29a, tweede lid, van de wet, stelt de middelen die zij ontvangt in ruil voor elektronisch geld dat is uitgegeven, veilig op het moment dat deze gelden ter beschikking komen van de elektronischgeldinstelling doch uiterlijk vijf werkdagen na uitgifte van het elektronisch geld.
+2. De financiële onderneming stelt chartale of girale gelden die zij ontvangt in ruil voor elektronisch geld op een van de volgende wijzen veilig:
+a. de gelden worden niet vermengd met de geldmiddelen van andere schuldeisers van de elektronischgeldinstelling;
+b. de gelden worden gedekt door een verzekeringspolis of een vergelijkbare garantie van een verzekeraar of een bank die niet tot dezelfde groep behoort als de elektronischgeldinstelling, tegen het risico dat de elektronischgeldinstelling niet in staat is haar verplichtingen met betrekking tot de gelden na te komen, voor een bedrag dat gelijk is aan het bedrag dat afgescheiden zou zijn bij het ontbreken van de verzekeringspolis of vergelijkbare garantie.
+3. Indien toepassing wordt gegeven aan het tweede lid, aanhef en onderdeel a, worden de ontvangen gelden op een afzonderlijke rekening gestort bij een bank of belegd in veilige, liquide activa met een lage risicograad, op zodanige wijze dat andere schuldeisers van de elektronischgeldinstelling, in het bijzonder in het geval van insolventie van de elektronischgeldinstelling, hun vorderingen niet op deze gelden kunnen verhalen.
+4. Voor de toepassing van het derde lid is artikel 40a, derde lid, van overeenkomstige toepassing.
+5. Voor de toepassing van het tweede en derde lid is artikel 40a, vierde lid, van overeenkomstige toepassing.

@@ -1,0 +1,3 @@
+# Artikel 134c
+1. Een verzekeraar met zetel in Nederland, niet zijnde een verzekeraar met beperkte risico-omvang, publiceert jaarlijks een rapport over de solvabiliteit en financiële positie overeenkomstig de artikelen 51 en 53, derde en vierde lid, van de richtlijn solvabiliteit II en met inachtneming van titel I, hoofdstuk XII, van de verordening solvabiliteit II.
+2. De verzekeraar maakt in het geval van belangrijke ontwikkelingen die van invloed zijn op de relevantie van de overeenkomstig het eerste lid bekend gemaakte informatie, informatie bekend over de aard en gevolgen van die belangrijke ontwikkelingen, overeenkomstig artikel 54 van de richtlijn en met inachtneming van artikel 302 van de verordening solvabiliteit II.

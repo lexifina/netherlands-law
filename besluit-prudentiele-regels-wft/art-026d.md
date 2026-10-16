@@ -1,0 +1,2 @@
+# Artikel 26d
+Een betaaldienstverlener beschikt over procedures ter waarborging van de bedrijfscontinuïteit, waaronder de bedrijfscontinuïteit op het gebied van de informatie- en communicatievoorziening, waarin de kritieke bedrijfsactiviteiten zijn opgenomen, met inbegrip van respons- en herstelplannen voor de informatie- en communicatievoorziening en een procedure om de toereikendheid en efficiëntie van deze procedures en plannen periodiek te toetsen en te herzien met inachtneming van de verordening digitale operationele weerbaarheid.

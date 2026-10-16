@@ -1,0 +1,2 @@
+# Artikel 23h
+Indien een onderneming, entiteit of groep als bedoeld in de artikelen 23d, eerste of vijfde lid, of 23e, eerste of vierde lid, uitvoering geeft aan maatregelen die zijn opgenomen in het herstelplan of deze maatregelen achterwege laat in afwijking van de uitkomsten van de indicatoren, bedoeld in artikel 23f, tweede lid, doet de onderneming, de entiteit of de EU-moederonderneming van de groep daarvan onverwijld mededeling aan de Nederlandsche Bank.

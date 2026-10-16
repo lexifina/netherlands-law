@@ -1,0 +1,3 @@
+# Artikel 40i
+1. Een bank die gedekte obligaties uitgeeft, draagt er zorg voor dat de debiteur van de dekkingsactiva zijn woonplaats heeft, respectievelijk is gevestigd of zijn zetel heeft, binnen de grenzen van de lidstaten van de Europese Unie, of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.
+2. Een bank draagt er zorg voor dat, indien van toepassing, het fysieke zekerheidsactivum is gelegen binnen de grenzen van de lidstaten van de Europese Unie, of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.

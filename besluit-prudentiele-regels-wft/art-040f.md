@@ -1,0 +1,4 @@
+# Artikel 40f
+1. Een bank die gedekte obligaties uitgeeft, neemt voor ten minste 80% van de totale nominale waarde van de activa in de dekkingspool één van de soorten dekkingsactiva, bedoeld in artikel 129, eerste lid, onderdelen a tot en met g, van de verordening kapitaalvereisten als primair dekkingsactivum op.
+2. De bank kan voor ten hoogste 20% van de totale nominale waarde van de activa in de dekkingspool vervangende dekkingsactiva opnemen, die bestaan uit één of meer van de overige soorten activa, bedoeld in artikel 129, eerste lid, onderdelen a tot en met g, van de verordening kapitaalvereisten.
+3. Voor de berekening van de nominale waarde van de dekkingsactiva, bedoeld in het eerste en tweede lid, neemt de bank, waar van toepassing, de restricties in artikel 129, eerste lid tot en met derde lid, van de verordening kapitaalvereisten in acht.

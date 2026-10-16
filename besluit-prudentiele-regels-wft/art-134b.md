@@ -1,0 +1,3 @@
+# Artikel 134b
+1. Een bank als bedoeld in artikel 3:74a, eerste lid, van de wet die over een website beschikt, geeft daarop uitleg over de wijze waarop zij voldoet aan de vereisten inzake bestuur, beloning en publicatie van gegevens in artikel 17c, de bij of krachtens artikel 23e, vijfde lid, gestelde regels, het Besluit uitvoering publicatieverplichtingen richtlijn kapitaalvereisten en artikel 3:8, derde en vierde lid, van de wet.
+2. Een beleggingsonderneming onder de verordening kapitaalvereisten die over een website beschikt, geeft daarop uitleg over de wijze waarop zij voldoet aan de bij of krachtens artikel 23e, vijfde lid, gestelde regels en het Besluit uitvoering publicatieverplichtingen richtlijn kapitaalvereisten.

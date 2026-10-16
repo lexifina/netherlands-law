@@ -1,0 +1,7 @@
+# Artikel 23d
+1. Een bank of beleggingsonderneming als bedoeld in artikel 3A:2 van de wet die geen deel uitmaakt van een groep als bedoeld in artikel 3A:1 van de wet, beschikt over een herstelplan dat door de Nederlandsche Bank is goedgekeurd en dat voorziet in maatregelen die de onderneming in staat stellen haar financiële positie na een aanzienlijke verslechtering ervan te herstellen. Een herstelplan wordt ter goedkeuring voorgelegd na vaststelling door het bestuur van de onderneming.
+2. Het herstelplan voldoet aan de eisen ingevolge de artikelen 5, derde tot en met zesde en tiende lid, en 9, eerste lid, eerste alinea, van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen.
+3. Het herstelplan wordt ten minste eenmaal per jaar herzien en voorts wanneer zich een wezenlijke verandering in de organisatie of bedrijfsvoering van de onderneming voordoet die noodzaakt tot aanpassing van het plan.
+4. De Nederlandsche Bank kan toestaan dat het bepaalde in het tweede of derde lid op vereenvoudigde wijze wordt toegepast.
+5. De Nederlandsche Bank kan, indien zij de consoliderende toezichthouder is, bedoeld in artikel 4, eerste lid, onderdeel 41, van de verordening kapitaalvereisten, besluiten dat een bank of beleggingsonderneming als bedoeld in artikel 3A:2 van de wet die deel uitmaakt van een groep als bedoeld in artikel 3A:1 van de wet, beschikt over een eigen herstelplan overeenkomstig het eerste en tweede lid.
+6. De Nederlandse Bank kan nadere regels stellen met betrekking tot het tweede tot en met vierde lid.
