@@ -1,0 +1,10 @@
+# Artikel 25b. Zorgkostenvoorziening
+1. Degene die behoort tot groep 3, heeft voor de aldaar met toestemming van de minister metterwoon verblijvende gezinsleden aanspraak op een zorgkostenvoorziening. Degene die behoort tot groep 4, maakt eveneens aanspraak op een zorgkostenvoorziening voor de metterwoon verblijvende gezinsleden.
+2. De in het eerste lid opgenomen aanspraken zijn van toepassing, tenzij het gezinslid:
+a. in dienstbetrekking of als zelfstandige werkt; of
+b. een werkloosheidsuitkering ontvangt.
+3. De omvang van de zorgkostenvoorziening, bedoeld in het eerste lid, alsmede de procedures met betrekking tot realisering van de aanspraak daar op zijn neergelegd in de voorwaarden, zoals geformuleerd door de aanbieder van de zorgkostenvoorziening en waarmee de minister heeft ingestemd.
+4. Degene die behoort tot groep 3 of 4 en van wie de gezinsleden gebruik maken van de zorgkostenvoorziening, bedoeld in het eerste lid, heeft voor deze gezinsleden tevens aanspraak op vergoeding van de gemaakte buitenlandse kosten van de voor hen verzekerde zorg, voor dat deel van de kosten dat het niveau van de verzekerde zorg in Nederland overstijgt, en voor zover niet uit andere hoofde aanspraak bestaat.
+5. Indien gebruik wordt gemaakt van de in het eerste lid bedoelde zorgkostenvoorziening is een premievervangende bijdrage verschuldigd van € 158,50 per maand per gezinslid vanaf het moment dat het gezinslid de leeftijd van 18 jaar bereikt. De hoogte van dit bedrag zal jaarlijks door de minister worden vastgesteld.
+6. Indien gebruik gemaakt wordt van de in het eerste lid bedoelde zorgkostenvoorziening dan geldt per verzekerde een verplicht eigen risico, als bedoeld in artikel 1, onder g, van de Zorgverzekeringswet. Het verplicht eigen risico wordt jaarlijks achteraf ingehouden op het salaris van de defensieambtenaar.
+7. Realisering van de aanspraken opgenomen in het eerste en vierde lid worden uitgevoerd door de rechtspersoon, bedoeld in artikel 90a van het Algemeen militair ambtenarenreglement.
