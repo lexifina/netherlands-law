@@ -1,0 +1,9 @@
+# Artikel 4a.3.2. Subsidieverstrekking
+1. De Minister verstrekt op aanvraag subsidie voor het uitvoeren van een cyberbeveiligingsinnovatieproject dat gericht is op de verwezenlijking van één of meer van de operationele doelstellingen als bedoeld in artikel 6, eerste lid, van verordening (EU) 2021/694 op de volgende deelgebieden:
+a. het bevorderen van crypto-agility, waaronder mede begrepen het ontwikkelen van vernieuwende methoden of technieken ten behoeve van het beheer en de vernieuwing van cryptografische middelen binnen de organisatie van de mogelijke afnemers van de subsidieaanvrager, bestaande uit onder meer algoritmes, sleutels en certificaten, in het belang van de nationale cyberveiligheid;
+b. het vereenvoudigen en meer kostenefficiënt maken van cyberbeveiligingsoplossingen, waaronder mede begrepen het ontwikkelen of doorontwikkelen van vernieuwende respectievelijk bestaande methoden of technieken dan wel de opschaling hiervan ten behoeve van het binnen de organisatie van de subsidieaanvrager geautomatiseerd kunnen detecteren van cyberdreigingen, controleren van codes van software, versleutelen van data en elektronische communicatie, netwerk- en toegangsbeveiliging en verbetering hiervan via zelflerende systemen.
+2. Een cyberbeveiligingsinnovatieproject bevat een samenhangend geheel van activiteiten, bestaande uit industrieel onderzoek, experimentele ontwikkeling of procesinnovatie.
+3. De subsidieontvanger is een in Nederland gevestigde juridische entiteit, die de activiteiten, bedoeld in het tweede lid, zelfstandig dan wel in een Nederlands of Europees samenwerkingsverband uitvoert, en ten behoeve van de uitvoering van deze activiteiten geen onderneming in stand houdt die actief is in:
+a. de sector visserij en aquacultuur;
+b. de primaire productie van landbouwproducten; of
+c. de sector verwerking en afzet van landbouwproducten in de gevallen, bedoeld in artikel 1, eerste lid, onder c, van de algemene de-minimisverordening.
