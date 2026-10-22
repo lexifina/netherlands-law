@@ -1,5 +1,5 @@
 # Artikel 11a.2
-1. Bij of krachtens algemene maatregel van bestuur kunnen ter bevordering van de kwaliteit van bij of krachtens de maatregel aangewezen werkzaamheden als bedoeld in het tweede lid, en ter bevordering van de integriteit van degenen die deze werkzaamheden uitvoeren, regels worden gesteld, die nodig zijn in verband met de bescherming van het milieu.
+1. Bij of krachtens algemene maatregel van bestuur kunnen ter bevordering van de kwaliteit van bij of krachtens de maatregel aangewezen werkzaamheden als bedoeld in het tweede lid, en ter bevordering van de integriteit van degenen die deze werkzaamheden uitvoeren, regels worden gesteld, die nodig zijn in verband met de bescherming van het milieu. In een maatregel als bedoeld in de eerste zin kunnen regels over werkzaamheden met betrekking tot producten mede worden gesteld in het belang van de bescherming van de gezondheid van de mens of de zorg voor de veiligheid van producten.
 2. Werkzaamheden als bedoeld in het eerste lid zijn:
 a. het verrichten van berekeningen, metingen of tellingen;
 b. het nemen of analyseren van monsters of het anderszins verrichten van onderzoek naar de aard of mate van verontreinigingen in stoffen, producten, afvalstoffen, afvalwater, lucht, oppervlaktewater, grond, organismen of bodem;
