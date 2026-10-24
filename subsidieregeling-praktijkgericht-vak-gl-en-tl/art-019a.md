@@ -1,0 +1,6 @@
+# Artikel 19a. Verhoging subsidiebedrag scholen voor vso 2024
+1. De minister kent aan het bevoegd gezag van een vestiging voor voortgezet speciaal onderwijs als bedoeld in artikel 1 van de Wet op de expertisecentra, waaraan in 2024 subsidie is verstrekt als bedoeld in artikel 3, tweede lid, voor een praktijkgericht vak in de gemengde leerweg, uiterlijk op 1 februari 2025 een aanvullend subsidiebedrag toe. De minister verstrekt het aanvullende subsidiebedrag door ambtshalve wijziging van de subsidiebeschikking waarbij de aanvankelijke subsidie werd toegekend.
+2. Het aanvullende subsidiebedrag bedraagt € 50.000 per vestiging van een school voor voortgezet speciaal onderwijs als bedoeld in artikel 1 van de Wet op de expertisecentra, waarvoor in 2024 subsidie is verstrekt als bedoeld in artikel 3, tweede lid, voor een praktijkgericht vak in de gemengde leerweg.
+3. De minister bepaalt in de wijziging van de subsidiebeschikking, bedoeld in het eerste lid, het betaalritme van het aanvullende subsidiebedrag.
+4. Ten aanzien van het aanvullende subsidiebedrag is het bepaalde in de artikelen 3, eerste lid, 14, 17 en 18 onverkort van toepassing.
+5. Artikel 6a is ten aanzien van dit artikel niet van toepassing.

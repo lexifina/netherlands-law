@@ -1,0 +1,5 @@
+# Artikel 6a. Subsidieplafonds en wijze verdeling schooljaren 2025–2028
+1. Voor subsidieverstrekking op grond van deze regeling is:
+a. voor aanvragen die worden ingediend in het aanvraagtijdvak, bedoeld in artikel 4, eerste lid, onderdeel b, voor de schooljaren 2025–2026 en 2026–2027 in totaal een bedrag beschikbaar van € 10.300.000; en
+b. voor aanvragen die worden ingediend in het aanvraagtijdvak, bedoeld in artikel 4, eerste lid, onderdeel c voor de schooljaren 2026–2027 en 2027–2028 in totaal een bedrag beschikbaar van € 11.638.000.
+2. Indien een subsidieplafond als bedoeld in het eerste lid ontoereikend is voor toewijzing van alle aanvragen, worden de binnengekomen aanvragen door middel van loting gerangschikt. De Minister wijst de daarvoor in aanmerking komende aanvragen toe in volgorde van de rangschikking, met dien verstande dat voorrang wordt verleend aan ten hoogste tien aanvragen voor elk van de licentiegebonden vakken 'Bouwen, Wonen & Interieur', 'Groen', 'Horeca, Bakkerij & Recreatie', 'Media, Vormgeving & ICT', 'Maritiem en Techniek', 'Mobiliteit & Transport' en 'Produceren, Installeren & Energie'.

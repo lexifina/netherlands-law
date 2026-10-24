@@ -1,0 +1,8 @@
+# Artikel 19b. Verhoging subsidiebedrag theoretische leerweg: overbrugging tot 1 januari 2028
+1. De minister kent aan bevoegde gezagen waaraan op grond van artikel 3, eerste lid, voor de schooljaren 2024–2025 en 2025–2026 of voor de schooljaren 2025–2026 en 2026–2027 subsidie is verstrekt voor het aanbieden van een praktijkgericht vak in de theoretische leerweg, uiterlijk op 1 maart 2027 een aanvullend subsidiebedrag toe voor het continueren van dat praktijkgericht vak in de periode die loopt van 1 augustus 2026 tot 1 januari 2028 onderscheidenlijk 1 augustus 2027 tot 1 januari 2028. De minister verstrekt het aanvullende subsidiebedrag door ambtshalve wijziging van de subsidiebeschikking waarbij de aanvankelijke subsidie werd toegekend.
+2. Het aanvullende subsidiebedrag bedraagt € 19.849 per vestiging.
+3. De minister bepaalt in de wijziging van de subsidiebeschikking, bedoeld in het eerste lid, het betaalritme van het aanvullende subsidiebedrag.
+4. Ten aanzien van het aanvullende subsidiebedrag is het bepaalde in de artikelen 3, eerste lid, 14, 17 en 18 onverkort van toepassing, met uitzondering van hetgeen in de artikelen 3, eerste lid, en 14 is bepaald over de gemengde leerweg.
+5. Artikel 6a is ten aanzien van dit artikel niet van toepassing.
+6. Indien een bevoegd gezag aan de minister meldt geen aanvullend subsidiebedrag als bedoeld in het eerste lid te willen ontvangen, gaat de minister niet over tot het toekennen daarvan aan het desbetreffende bevoegd gezag.
+7. Het eerste lid is niet van toepassing op in dat lid bedoelde bevoegde gezagen waarvan de beschikking tot subsidieverstrekking nadien is gewijzigd in die zin dat de activiteitenperiode desgevraagd is verlengd tot en met het schooljaar 2027–2028.
