@@ -1,0 +1,1201 @@
+{
+ "country": "NL",
+ "acts": [
+  {
+   "slug": "grondwet",
+   "short": "Gw",
+   "title": "Grondwet",
+   "url": "https://wetten.overheid.nl/BWBR0001840",
+   "versions": [
+    {
+     "from": "2002-03-21",
+     "units": 144,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001840/2002-03-21_0/xml/BWBR0001840_2002-03-21_0.xml",
+     "sha256": "6793a946d0229e5336029996c9ee7ac5eecdef8b5b471fdbbb559bd43c80e171"
+    },
+    {
+     "from": "2005-02-08",
+     "units": 145,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001840/2005-02-08_0/xml/BWBR0001840_2005-02-08_0.xml",
+     "sha256": "9c8e3c0bac18d283d64f6f87d5f068d3e9b294f156f9116f021a94ba6a2dbbe0"
+    },
+    {
+     "from": "2006-04-06",
+     "units": 145,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001840/2006-04-06_0/xml/BWBR0001840_2006-04-06_0.xml",
+     "sha256": "1db48d08189296b1dba3d7e31855614027bbc83518cc7d8e48ea6e83b53a1ca8"
+    },
+    {
+     "from": "2006-10-11",
+     "units": 146,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001840/2006-10-11_0/xml/BWBR0001840_2006-10-11_0.xml",
+     "sha256": "929da5f22d7dfd8a4dbdce077ed3d013dc3f5a15f9dbe7a15f630d58e913bde6"
+    },
+    {
+     "from": "2008-07-15",
+     "units": 147,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001840/2008-07-15_0/xml/BWBR0001840_2008-07-15_0.xml",
+     "sha256": "36e20b410ba456c1691a3934ab8b54506a375930ec683dc2787fd5523a242fcb"
+    },
+    {
+     "from": "2017-11-17",
+     "units": 149,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001840/2017-11-17_0/xml/BWBR0001840_2017-11-17_0.xml",
+     "sha256": "3fcf0903f1b46868b726a4eb53425d7fa9de68f0c7897464cf4a4df7e4597395"
+    },
+    {
+     "from": "2018-12-21",
+     "units": 149,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001840/2018-12-21_0/xml/BWBR0001840_2018-12-21_0.xml",
+     "sha256": "05fe7dbf63590ced94f0a7ae2d4a9e3ff07c47213e8e43bb6fc3baebf9f1572c"
+    },
+    {
+     "from": "2022-08-18",
+     "units": 150,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001840/2022-08-18_0/xml/BWBR0001840_2022-08-18_0.xml",
+     "sha256": "7b56478a00c93135391707baff701c2b42d90da83ef3b2b0bfa7471b9f720604"
+    },
+    {
+     "from": "2022-08-30",
+     "units": 150,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001840/2022-08-30_0/xml/BWBR0001840_2022-08-30_0.xml",
+     "sha256": "23d4c71f90e145bf388a4c42e81c8a6ed5e82282d21d3c65121a8c399683cc85"
+    },
+    {
+     "from": "2022-11-01",
+     "units": 149,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001840/2022-11-01_0/xml/BWBR0001840_2022-11-01_0.xml",
+     "sha256": "c0f8a21c8ccb858974c3d1d4a097df99f50fed2314bb9f419c06a13d80cad26a"
+    },
+    {
+     "from": "2023-02-22",
+     "units": 149,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001840/2023-02-22_0/xml/BWBR0001840_2023-02-22_0.xml",
+     "sha256": "01daa61076951c9d9895f7808f573b801e26cec0be8a3eea6fa8538cc2b98a58"
+    }
+   ]
+  },
+  {
+   "slug": "bw-boek-1",
+   "short": "BW 1",
+   "title": "Burgerlijk Wetboek Boek 1",
+   "url": "https://wetten.overheid.nl/BWBR0002656",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "units": 503,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2002-01-01_0/xml/BWBR0002656_2002-01-01_0.xml",
+     "sha256": "3eef5395ec3fc234924d275c5ef85ed10d0beced08fd94ac212120917e1832a7"
+    },
+    {
+     "from": "2002-07-01",
+     "units": 503,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2002-07-01_0/xml/BWBR0002656_2002-07-01_0.xml",
+     "sha256": "6636b1bf329c5664b5df786d5f0e9f93fae0b403b4b0f1088f3ad8522395f181"
+    },
+    {
+     "from": "2002-08-01",
+     "units": 503,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2002-08-01_0/xml/BWBR0002656_2002-08-01_0.xml",
+     "sha256": "8e118a13d8c2a3dbf96b4eed33fb5f20a3bf92670949333abaa151bed911608f"
+    },
+    {
+     "from": "2002-09-01",
+     "units": 500,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2002-09-01_0/xml/BWBR0002656_2002-09-01_0.xml",
+     "sha256": "90396316d8c35ea09b2ae0307f2659842a3d78d294f62009607173f00ab2d9d7"
+    },
+    {
+     "from": "2003-01-01",
+     "units": 496,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2003-01-01_0/xml/BWBR0002656_2003-01-01_0.xml",
+     "sha256": "d1c38f1eebe8eb25689fa56790171113fe3de2300f3ef8c20da41b94c2a52a63"
+    },
+    {
+     "from": "2003-06-01",
+     "units": 496,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2003-06-01_0/xml/BWBR0002656_2003-06-01_0.xml",
+     "sha256": "5cff42bf7eb4baf0dad4d7718aa96dd42e0c7cfd80a7144178d65290f2985fca"
+    },
+    {
+     "from": "2004-01-01",
+     "units": 496,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2004-01-01_0/xml/BWBR0002656_2004-01-01_0.xml",
+     "sha256": "df01a7f3e968e68cf4590e05cff474ba15727f1735cd461d91664ae442040377"
+    },
+    {
+     "from": "2004-05-01",
+     "units": 497,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2004-05-01_0/xml/BWBR0002656_2004-05-01_0.xml",
+     "sha256": "096dac0d72059a5ea0125eb761cf453d4fcc46f6771dc3039030c48779095a77"
+    },
+    {
+     "from": "2004-06-30",
+     "units": 497,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2004-06-30_0/xml/BWBR0002656_2004-06-30_0.xml",
+     "sha256": "da521e3d92ce203aa1599b7665193c7cdad7f5928f37cbbaa5fa46cff48fae88"
+    },
+    {
+     "from": "2004-07-01",
+     "units": 497,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2004-07-01_0/xml/BWBR0002656_2004-07-01_0.xml",
+     "sha256": "dd1c967a3a4209a8b6440b7e66005d0e51ab11dd2311b7fe7392dfebe29e7823"
+    },
+    {
+     "from": "2005-01-01",
+     "units": 497,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2005-01-01_0/xml/BWBR0002656_2005-01-01_0.xml",
+     "sha256": "494ca1faf351870f678e1b8e155ab3868d48ef21ec1399d3dff2cbf438b79de5"
+    },
+    {
+     "from": "2005-10-15",
+     "units": 497,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2005-10-15_0/xml/BWBR0002656_2005-10-15_0.xml",
+     "sha256": "b760e34febd0c4db2e18a02cecaf0d38a44cb96542a43de4f47d2aa39583f3f2"
+    },
+    {
+     "from": "2006-03-08",
+     "units": 497,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2006-03-08_0/xml/BWBR0002656_2006-03-08_0.xml",
+     "sha256": "40b06cc7a290ccf58bdadcf95939925c19c4ccb296a1c3511bdcb12f10aab551"
+    },
+    {
+     "from": "2006-05-01",
+     "units": 497,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2006-05-01_0/xml/BWBR0002656_2006-05-01_0.xml",
+     "sha256": "192447ebc4bc875c43eede15e82c633e446ff664058b106d72f0c6e71a46595c"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 497,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2007-01-01_0/xml/BWBR0002656_2007-01-01_0.xml",
+     "sha256": "edd7f4ca2867b11d5d181cadbed79c047a0c16dba28863c64bcd38fa25ef537c"
+    },
+    {
+     "from": "2007-04-25",
+     "units": 497,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2007-04-25_0/xml/BWBR0002656_2007-04-25_0.xml",
+     "sha256": "eec746ff4ff5528334e80f684c90a9dc5d87b7e6d9d9bc2d4a3e4fc0e95f5c48"
+    },
+    {
+     "from": "2007-05-01",
+     "units": 497,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2007-05-01_0/xml/BWBR0002656_2007-05-01_0.xml",
+     "sha256": "323f8abad30b5984f2aad7f94ec20c65bc271726d51f15808d9a4ed1ef0ce35b"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 497,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2008-01-01_0/xml/BWBR0002656_2008-01-01_0.xml",
+     "sha256": "1c676d78075fb38490b40ddf35c6b981ad85fc62c0c6779c17c97af14ef073c1"
+    },
+    {
+     "from": "2008-03-26",
+     "units": 498,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2008-03-26_0/xml/BWBR0002656_2008-03-26_0.xml",
+     "sha256": "030e571bb1949237358608907b5e02278a5194174d2426103e197e6cbf52f92b"
+    },
+    {
+     "from": "2008-09-01",
+     "units": 498,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2008-09-01_0/xml/BWBR0002656_2008-09-01_0.xml",
+     "sha256": "29d99a4ce8c7c42d38a095916d3be4e955da6b4b077cd04102ef351956f413f8"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 498,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2009-01-01_0/xml/BWBR0002656_2009-01-01_0.xml",
+     "sha256": "6c50e6fd5a86e48330ec5fa3177fe80bdfcfa3d25bb0b96eb5fb9a5cc6851ee4"
+    },
+    {
+     "from": "2009-02-28",
+     "units": 498,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2009-02-28_0/xml/BWBR0002656_2009-02-28_0.xml",
+     "sha256": "5cafd7935ea69ad26066a61b7f16550d7f6a66fe9406abd999f7bd6e71d07d48"
+    },
+    {
+     "from": "2009-03-01",
+     "units": 496,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2009-03-01_0/xml/BWBR0002656_2009-03-01_0.xml",
+     "sha256": "19ac12e3d03f751b72000251bb30733316a7b46ab574f86a0b8eaef7210e3337"
+    },
+    {
+     "from": "2009-08-01",
+     "units": 496,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2009-08-01_0/xml/BWBR0002656_2009-08-01_0.xml",
+     "sha256": "d72b178f78b097bcbfe3a49d3a01096c528459f93e317d6f40c7a8c6579ab8a4"
+    },
+    {
+     "from": "2009-10-01",
+     "units": 496,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2009-10-01_0/xml/BWBR0002656_2009-10-01_0.xml",
+     "sha256": "8fa7eb02f2570951be92355731de43bbda24bacce0b0644ed7be4bc3f4a23b4f"
+    },
+    {
+     "from": "2010-07-01",
+     "units": 496,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2010-07-01_0/xml/BWBR0002656_2010-07-01_0.xml",
+     "sha256": "fd3634a5564398babf71c4e8d7df1ebe5f6328d046f08a9618e576178f6fe80d"
+    },
+    {
+     "from": "2010-10-10",
+     "units": 496,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2010-10-10_0/xml/BWBR0002656_2010-10-10_0.xml",
+     "sha256": "40145f6b69b5be74f7de610f0938c0dafc6694f06565df57935b8ebf21b28104"
+    },
+    {
+     "from": "2011-07-01",
+     "units": 497,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2011-07-01_1/xml/BWBR0002656_2011-07-01_1.xml",
+     "sha256": "2129f83c385d46a59725b05134c190e4b323d7c59be8e813af777011b81cd46f"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 491,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2012-01-01_0/xml/BWBR0002656_2012-01-01_0.xml",
+     "sha256": "96ed8af74460c9c562ab13b544250a9873871b23d9e5658aa98ee49ae4330496"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 491,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2013-01-01_0/xml/BWBR0002656_2013-01-01_0.xml",
+     "sha256": "575a12b4b4b229a99b86b0637d02f86b63e8c1d7f9bad8db083a1ddda3a87648"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 491,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2013-07-01_0/xml/BWBR0002656_2013-07-01_0.xml",
+     "sha256": "d4b565c55beb38fd58a86f24cc723229da82e004976dae52e786475100feaf96"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 492,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2014-01-01_0/xml/BWBR0002656_2014-01-01_0.xml",
+     "sha256": "9d5c7aff25164b96edd12fc994d9ea56e39bfb1c2868887156f337caa51f01b8"
+    },
+    {
+     "from": "2014-01-06",
+     "units": 492,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2014-01-06_0/xml/BWBR0002656_2014-01-06_0.xml",
+     "sha256": "b336211ac80e81181e10a043df20cb203993c5e5268adfa499526ba390711450"
+    },
+    {
+     "from": "2014-02-15",
+     "units": 492,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2014-02-15_0/xml/BWBR0002656_2014-02-15_0.xml",
+     "sha256": "a30c0422be2fefb3aa4904f70db26f7c49bd3a9a37222e604ef9092dc713cb5e"
+    },
+    {
+     "from": "2014-04-01",
+     "units": 495,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2014-04-01_0/xml/BWBR0002656_2014-04-01_0.xml",
+     "sha256": "42ace65eace5f2003c1dc5960c502f2b9db3300a91677806cfd9acde1ec0e191"
+    },
+    {
+     "from": "2014-07-01",
+     "units": 495,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2014-07-01_0/xml/BWBR0002656_2014-07-01_0.xml",
+     "sha256": "7a7fa48b9dada36c566d58201447246fea9ec3ec1980cc1e970860c186aa9f67"
+    },
+    {
+     "from": "2014-11-01",
+     "units": 495,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2014-11-01_0/xml/BWBR0002656_2014-11-01_0.xml",
+     "sha256": "9c2f5d2660b92992cebe2ce1f0eb420d5c1db16e7cfd5766c8ede7f1def9694a"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 500,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2015-01-01_0/xml/BWBR0002656_2015-01-01_0.xml",
+     "sha256": "7bd81be82c9be1ca2e9cb3309769f85a88e862402ad47a53634e0717b28d021d"
+    },
+    {
+     "from": "2015-07-01",
+     "units": 501,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2015-07-01_0/xml/BWBR0002656_2015-07-01_0.xml",
+     "sha256": "40ee9b59ce9cbb70797b16dbaf1f77df9f13aabe9aa2edb7fef86f86697b1336"
+    },
+    {
+     "from": "2015-09-01",
+     "units": 500,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2015-09-01_0/xml/BWBR0002656_2015-09-01_0.xml",
+     "sha256": "22b084fd5ccfa7274f36da0fcfe4bbd224a6012726ca60dda0fd1c6decf6f727"
+    },
+    {
+     "from": "2015-12-05",
+     "units": 498,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2015-12-05_0/xml/BWBR0002656_2015-12-05_0.xml",
+     "sha256": "92dffb08cc59bf23ba1738436f14d3a8efc54547fff379da205270d8e8875dcd"
+    },
+    {
+     "from": "2016-07-01",
+     "units": 498,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2016-07-01_1/xml/BWBR0002656_2016-07-01_1.xml",
+     "sha256": "76464d6265d092a098126c14739d4c905973b9f1d46ef0acfe7800c515042e6c"
+    },
+    {
+     "from": "2016-08-01",
+     "units": 497,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2016-08-01_1/xml/BWBR0002656_2016-08-01_1.xml",
+     "sha256": "fe69266b866f5e47bfb7c35491f19d2a2126c95d7bcd8b9f9ab62764f6d85480"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 497,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2017-01-01_1/xml/BWBR0002656_2017-01-01_1.xml",
+     "sha256": "7b6bd002b6ca374a6c162515b2cc72539fad17adef2f4d716aaaf3f5b0baa296"
+    },
+    {
+     "from": "2017-02-28",
+     "units": 497,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2017-02-28_0/xml/BWBR0002656_2017-02-28_0.xml",
+     "sha256": "2ae4162e37b97bd2e3111b5f40fac3eb02285e534cf716612abed6cf9eaaf4cc"
+    },
+    {
+     "from": "2017-09-01",
+     "units": 497,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2017-09-01_0/xml/BWBR0002656_2017-09-01_0.xml",
+     "sha256": "870474119e14453fd4e224f287060faee2b43be1ba1ae6f1f3004efd33d5c95c"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 498,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2018-01-01_0/xml/BWBR0002656_2018-01-01_0.xml",
+     "sha256": "abc489db99ef33219ee705163a1e668474a2495fd282560b9435bc287c93fc2a"
+    },
+    {
+     "from": "2018-09-19",
+     "units": 499,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2018-09-19_0/xml/BWBR0002656_2018-09-19_0.xml",
+     "sha256": "d1f134653e595927b36782276b78404edd8367bdfa8a8386ef9cabf5f4fe5fd0"
+    },
+    {
+     "from": "2019-01-29",
+     "units": 499,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2019-01-29_0/xml/BWBR0002656_2019-01-29_0.xml",
+     "sha256": "6e61cb34d2877b3130119177ebe9fc1644a58a47af10bdea35fc8b6c48781d9f"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 500,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2020-01-01_0/xml/BWBR0002656_2020-01-01_0.xml",
+     "sha256": "87d929d9ea4553f5f2288b6ac954221f5d2fbb085d746631ac3da46551bc927d"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 501,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2021-01-01_0/xml/BWBR0002656_2021-01-01_0.xml",
+     "sha256": "59d51d345bc92d162d7eb192e022c7664a58770e6380f5196a80ca6f4c5fbb60"
+    },
+    {
+     "from": "2022-10-01",
+     "units": 501,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2022-10-01_0/xml/BWBR0002656_2022-10-01_0.xml",
+     "sha256": "68a7577d1ff27d7d20feeec31ecff18b9ae10e44e4a96f454480a46d53d45e45"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 502,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2023-01-01_0/xml/BWBR0002656_2023-01-01_0.xml",
+     "sha256": "2b811b594f683cffe67726d678e06da305e52b584169414fcac5cbe540a75167"
+    },
+    {
+     "from": "2023-05-01",
+     "units": 502,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2023-05-01_0/xml/BWBR0002656_2023-05-01_0.xml",
+     "sha256": "e8ff20f70bc2bdc136692abd4f4b47d38bdfa66dbb070171c31f7a6d44bdf292"
+    },
+    {
+     "from": "2023-07-01",
+     "units": 502,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2023-07-01_0/xml/BWBR0002656_2023-07-01_0.xml",
+     "sha256": "4615a7afce1b10a7eb2431ac1e8665aa166b09159917adcb0c2c5a9b011a2bd5"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 502,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2024-01-01_0/xml/BWBR0002656_2024-01-01_0.xml",
+     "sha256": "f766d89823ebfc00737a0ebbb93f3ac2817c7ec70428b55e3d02c549245da10e"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 502,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2025-07-01_0/xml/BWBR0002656_2025-07-01_0.xml",
+     "sha256": "1d3b9b7392e338e51325a15e03a54ee0cfa3419f1ab0e39b973140446497e8be"
+    },
+    {
+     "from": "2025-07-05",
+     "units": 502,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002656/2025-07-05_0/xml/BWBR0002656_2025-07-05_0.xml",
+     "sha256": "1818aea1ec4939872836a85f11f809ce9b3d9ee1a3bbfc439f5b8cf5d6dbaa2d"
+    }
+   ]
+  },
+  {
+   "slug": "wetboek-van-strafrecht",
+   "short": "Sr",
+   "title": "Wetboek van Strafrecht",
+   "url": "https://wetten.overheid.nl/BWBR0001854",
+   "versions": [
+    {
+     "from": "2002-04-01",
+     "units": 675,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2002-04-01_0/xml/BWBR0001854_2002-04-01_0.xml",
+     "sha256": "c3d6ebcda3d029ae9773b7ff4323b73db243d75530bccaaca311e14be1f75f36"
+    },
+    {
+     "from": "2002-05-29",
+     "units": 675,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2002-05-29_0/xml/BWBR0001854_2002-05-29_0.xml",
+     "sha256": "8739fa8531e1d78262798df5f7230de7eed2ffd0166f213c7bb4710fb7ecac31"
+    },
+    {
+     "from": "2002-07-12",
+     "units": 675,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2002-07-12_0/xml/BWBR0001854_2002-07-12_0.xml",
+     "sha256": "81af18cc7d417d39ca69d2abbf0ce28c55382270812a5729c913fec92ac32c6c"
+    },
+    {
+     "from": "2002-08-08",
+     "units": 675,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2002-08-08_0/xml/BWBR0001854_2002-08-08_0.xml",
+     "sha256": "1a07c7006d1ac812891a51c314457b008c509f75b2f997b773ec4e6e6284b9d8"
+    },
+    {
+     "from": "2002-09-01",
+     "units": 675,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2002-09-01_0/xml/BWBR0001854_2002-09-01_0.xml",
+     "sha256": "a483e65e1f9e28ba265128a2604a27084fa569efbc048aabc06e46dfa7dfe235"
+    },
+    {
+     "from": "2002-10-01",
+     "units": 677,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2002-10-01_0/xml/BWBR0001854_2002-10-01_0.xml",
+     "sha256": "ee74e17ba266b521d982681ac1205b3e65bde88499010c3b584e27b4ea06db29"
+    },
+    {
+     "from": "2003-01-01",
+     "units": 677,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2003-01-01_0/xml/BWBR0001854_2003-01-01_0.xml",
+     "sha256": "dac13d1b78c5dcfafcd4e9b3c8e473e234bc31e4f3aac33f098e4bc4f4b0ea98"
+    },
+    {
+     "from": "2003-09-01",
+     "units": 676,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2003-09-01_0/xml/BWBR0001854_2003-09-01_0.xml",
+     "sha256": "ba345d40b5f8b2662eab1f0210303c54e68b944f89e09e9ee691dc1966ed8535"
+    },
+    {
+     "from": "2003-10-01",
+     "units": 676,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2003-10-01_0/xml/BWBR0001854_2003-10-01_0.xml",
+     "sha256": "d6088b07490447e9c550fcaaceae52e685c02efb967fd7ce06847bb780b34a30"
+    },
+    {
+     "from": "2004-01-01",
+     "units": 676,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2004-01-01_0/xml/BWBR0001854_2004-01-01_0.xml",
+     "sha256": "d9c18a13528a4bad4fed73b9d946fb5292c2c53d55f2a8c84733e349ebcef49f"
+    },
+    {
+     "from": "2004-02-01",
+     "units": 676,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2004-02-01_0/xml/BWBR0001854_2004-02-01_0.xml",
+     "sha256": "f6a7bc1e17736872a69909d8dff97eb8ef25536e2c020e1f78029152ea22dc58"
+    },
+    {
+     "from": "2004-05-01",
+     "units": 676,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2004-05-01_0/xml/BWBR0001854_2004-05-01_0.xml",
+     "sha256": "6b6b6ce7e6d54ac0412b4ce8d899564ed6fd94079aed2a7722f50c01ef45770f"
+    },
+    {
+     "from": "2004-05-12",
+     "units": 676,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2004-05-12_0/xml/BWBR0001854_2004-05-12_0.xml",
+     "sha256": "885bf17f81cda1e3736ba432c3bb66443cd8f18c8c6a30ae07de3f395d2cfaae"
+    },
+    {
+     "from": "2004-06-16",
+     "units": 676,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2004-06-16_0/xml/BWBR0001854_2004-06-16_0.xml",
+     "sha256": "2f54ded49a2798d99c1ab076dca121fb61f8fe91411519892f7242de0afa48a0"
+    },
+    {
+     "from": "2004-06-30",
+     "units": 677,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2004-06-30_0/xml/BWBR0001854_2004-06-30_0.xml",
+     "sha256": "37af0f868fffa6df5ed3da2e6ace29b89866397c5b92dc764f1743f6f75f3514"
+    },
+    {
+     "from": "2004-07-01",
+     "units": 678,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2004-07-01_0/xml/BWBR0001854_2004-07-01_0.xml",
+     "sha256": "00da0c2b4b1e93ee8be2bff5b7547b9259b9617d62d8a48d2d6fabf2b0bdba0b"
+    },
+    {
+     "from": "2004-08-10",
+     "units": 696,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2004-08-10_0/xml/BWBR0001854_2004-08-10_0.xml",
+     "sha256": "177f70ea4ffd989697a9e1f4ff9ec1bca3f23508c3187abfcef32b1bcef87b4d"
+    },
+    {
+     "from": "2004-10-01",
+     "units": 696,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2004-10-01_0/xml/BWBR0001854_2004-10-01_0.xml",
+     "sha256": "a2360493bb161453ba4e29e244738b0a0697aa6631b85c0c80c87d7cbb719733"
+    },
+    {
+     "from": "2004-11-01",
+     "units": 696,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2004-11-01_0/xml/BWBR0001854_2004-11-01_0.xml",
+     "sha256": "57ad3a2c240b1b753d4186f1b8855f1a25b62d062bcc4ea7b5c41d837a6528a1"
+    },
+    {
+     "from": "2005-01-01",
+     "units": 697,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2005-01-01_0/xml/BWBR0001854_2005-01-01_0.xml",
+     "sha256": "ead9f060e44256fa1f4f3dabd5a05abcc8788c983ccf93def27e14a0e98ef238"
+    },
+    {
+     "from": "2005-07-01",
+     "units": 697,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2005-07-01_0/xml/BWBR0001854_2005-07-01_0.xml",
+     "sha256": "28d7e4bbb9d8c839ade4a5107e60f5e9617820fbec46a478220f0d5cee142488"
+    },
+    {
+     "from": "2005-08-01",
+     "units": 697,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2005-08-01_0/xml/BWBR0001854_2005-08-01_0.xml",
+     "sha256": "30d34924f2e1f147a590c8903afc45eb5b36ddbdd6c6dbc6e3fa93d7f18f38dd"
+    },
+    {
+     "from": "2005-10-15",
+     "units": 697,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2005-10-15_0/xml/BWBR0001854_2005-10-15_0.xml",
+     "sha256": "02ac1a4f3fbd3d4a269165d41fc238d13c4347914c44667fd6b5b3cce110339e"
+    },
+    {
+     "from": "2006-01-01",
+     "units": 697,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2006-01-01_0/xml/BWBR0001854_2006-01-01_0.xml",
+     "sha256": "6630bfcba8188a29fd4cd4767a53deb2b235877251b1d306f50386a7e7bec7e0"
+    },
+    {
+     "from": "2006-02-01",
+     "units": 694,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2006-02-01_0/xml/BWBR0001854_2006-02-01_0.xml",
+     "sha256": "b023549590bbc3e1d861c7c5c1dc011f920f8f4391f034a51127679839d69fcc"
+    },
+    {
+     "from": "2006-04-01",
+     "units": 695,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2006-04-01_0/xml/BWBR0001854_2006-04-01_0.xml",
+     "sha256": "5b01d6892232f4246a9d46f955681c0c92c97cff86f5c11c59ffd8b7a64cf02e"
+    },
+    {
+     "from": "2006-07-07",
+     "units": 695,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2006-07-07_0/xml/BWBR0001854_2006-07-07_0.xml",
+     "sha256": "d6eb22619ea5b4b23e6cdac3833767df85a03ba8036768b9268ef99fc24f7a97"
+    },
+    {
+     "from": "2006-08-01",
+     "units": 695,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2006-08-01_0/xml/BWBR0001854_2006-08-01_0.xml",
+     "sha256": "0738e35b8f03802d1aa19b0866460660eb0b056f858a84df7f79341fc6a8af3f"
+    },
+    {
+     "from": "2006-09-01",
+     "units": 696,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2006-09-01_0/xml/BWBR0001854_2006-09-01_0.xml",
+     "sha256": "c46c8001e2b50babcf6d3516e6ff23ad96f415968a92bdb55696ce2795d16747"
+    },
+    {
+     "from": "2006-11-29",
+     "units": 696,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2006-11-29_0/xml/BWBR0001854_2006-11-29_0.xml",
+     "sha256": "335bfda11bb6698a0c23c5b61fc7b497748c7aaefdb87bfda427e7bd065ebfea"
+    },
+    {
+     "from": "2006-12-13",
+     "units": 696,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2006-12-13_0/xml/BWBR0001854_2006-12-13_0.xml",
+     "sha256": "2a4e667d4f676303c08586b1142be7b775792d62bea38a69b2490d114c068b32"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 697,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2007-01-01_0/xml/BWBR0001854_2007-01-01_0.xml",
+     "sha256": "fc04afdecdfc24332ea34ea7012e8d98b05f6d27cd086bef9ddcaa4d3f4a7130"
+    },
+    {
+     "from": "2007-02-01",
+     "units": 697,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2007-02-01_0/xml/BWBR0001854_2007-02-01_0.xml",
+     "sha256": "4d5466c17352980a7a8773498378f1225c9cc6d7fe67af34145ee1ded23a6bb7"
+    },
+    {
+     "from": "2007-05-09",
+     "units": 697,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2007-05-09_0/xml/BWBR0001854_2007-05-09_0.xml",
+     "sha256": "68148b450357149eb8ef154a780900cadedab1e17f25340abeb73fec69fa40b2"
+    },
+    {
+     "from": "2007-09-01",
+     "units": 697,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2007-09-01_0/xml/BWBR0001854_2007-09-01_0.xml",
+     "sha256": "ac0f93a63684ae65f3e821a54e6999e96054e98e0190b1c608b4225734d3bfc3"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 697,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2008-01-01_0/xml/BWBR0001854_2008-01-01_0.xml",
+     "sha256": "1d62e948cf19790563fa54aceb126c5b146f0bf7b4eda2c135de2ccaf35d2579"
+    },
+    {
+     "from": "2008-02-01",
+     "units": 703,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2008-02-01_0/xml/BWBR0001854_2008-02-01_0.xml",
+     "sha256": "93b2482109b6ade72718b5529e6318de225b0c62e4f73b284725d6ba72586874"
+    },
+    {
+     "from": "2008-03-26",
+     "units": 703,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2008-03-26_0/xml/BWBR0001854_2008-03-26_0.xml",
+     "sha256": "277431be5bcc1dedea7371a41ba79618a582bcb0ad96c4bee839ce3fcf9355d5"
+    },
+    {
+     "from": "2008-05-09",
+     "units": 706,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2008-05-09_0/xml/BWBR0001854_2008-05-09_0.xml",
+     "sha256": "b728c15f59ccd24f09a33d44db716565c457cdcd5076e6651a427940cb3e5ae3"
+    },
+    {
+     "from": "2008-07-01",
+     "units": 713,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2008-07-01_0/xml/BWBR0001854_2008-07-01_0.xml",
+     "sha256": "3e631e5e5d01e8b2b996cd9b4a0559d9754da0fdfdc2fc8fbd018e0440a7e19d"
+    },
+    {
+     "from": "2008-09-01",
+     "units": 713,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2008-09-01_0/xml/BWBR0001854_2008-09-01_0.xml",
+     "sha256": "f8efe2532d545edd846c50c9970dca771aa8928f38d1650861309205d2e839dc"
+    },
+    {
+     "from": "2009-04-01",
+     "units": 713,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2009-04-01_0/xml/BWBR0001854_2009-04-01_0.xml",
+     "sha256": "75645a8844ae9dae1116d9543d91516fa7fabe9374a630524be40ed9ae4659ba"
+    },
+    {
+     "from": "2009-07-01",
+     "units": 713,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2009-07-01_0/xml/BWBR0001854_2009-07-01_0.xml",
+     "sha256": "c6f04ba5b0c49953b533a51b54bf97dffde318792a5d573f90d39f5fb7d9dff5"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 714,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2010-01-01_0/xml/BWBR0001854_2010-01-01_0.xml",
+     "sha256": "00dac8a6e48a95d6f5662d643a4fa933dd61fd0f2f163d90c213d53929ffefbf"
+    },
+    {
+     "from": "2010-04-01",
+     "units": 720,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2010-04-01_0/xml/BWBR0001854_2010-04-01_0.xml",
+     "sha256": "43058a81747a4e9eb16405142c42c3922b62d595a0925a9e3779811de19e5859"
+    },
+    {
+     "from": "2010-07-01",
+     "units": 723,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2010-07-01_0/xml/BWBR0001854_2010-07-01_0.xml",
+     "sha256": "e30e321e9ba727d31c4aa2bf97e8b6c1864624fc2111fd15ec8bd73a6d63bef0"
+    },
+    {
+     "from": "2010-07-07",
+     "units": 723,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2010-07-07_0/xml/BWBR0001854_2010-07-07_0.xml",
+     "sha256": "0e7bbee660806152aa1e7b21fcd821f1af78f2419ad9fd1fdb4c7d8e217cba37"
+    },
+    {
+     "from": "2010-09-01",
+     "units": 726,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2010-09-01_0/xml/BWBR0001854_2010-09-01_0.xml",
+     "sha256": "8dab2957ae4288e14b754485a87d580c47a793227a4995c14737c529858f5331"
+    },
+    {
+     "from": "2010-10-01",
+     "units": 726,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2010-10-01_0/xml/BWBR0001854_2010-10-01_0.xml",
+     "sha256": "21a93b881e4b4d538b10679a21602a439f1d8478e4aa8c1ae3b6e0554cd71792"
+    },
+    {
+     "from": "2010-10-10",
+     "units": 726,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2010-10-10_0/xml/BWBR0001854_2010-10-10_0.xml",
+     "sha256": "cb4863b4eae5654e138b1d8b9e005ee91fa89020d1a181384bc9823a3a8766e8"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 726,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2011-01-01_0/xml/BWBR0001854_2011-01-01_0.xml",
+     "sha256": "e479eab0015dd42b10759f93d21dccd60968b07761af1632f3882e3987cd7244"
+    },
+    {
+     "from": "2011-03-01",
+     "units": 726,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2011-03-01_0/xml/BWBR0001854_2011-03-01_0.xml",
+     "sha256": "56ac5650a340cf8f261e034024dd26977263c9043b45a73018c0743242c68794"
+    },
+    {
+     "from": "2011-07-01",
+     "units": 728,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2011-07-01_0/xml/BWBR0001854_2011-07-01_0.xml",
+     "sha256": "28b72285ddc67d45ed55f331df5d647eb13155a03bd37d9620057f349c73a1fb"
+    },
+    {
+     "from": "2011-12-31",
+     "units": 728,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2011-12-31_1/xml/BWBR0001854_2011-12-31_1.xml",
+     "sha256": "269b457118c76f6efaac97ad70d50262bf98e2daf39ffe3f70512cd48b76e97c"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 728,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2012-01-01_1/xml/BWBR0001854_2012-01-01_1.xml",
+     "sha256": "b8042452b4bd2a3bb981445dbcf84b38e238bae6a3982cd8aff000d4600ebfcd"
+    },
+    {
+     "from": "2012-01-03",
+     "units": 729,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2012-01-03_1/xml/BWBR0001854_2012-01-03_1.xml",
+     "sha256": "c209a5a2c5db9f7334307b4d716e4780a24d04700937dd7ee5dbeb456154fa6d"
+    },
+    {
+     "from": "2012-04-01",
+     "units": 741,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2012-04-01_1/xml/BWBR0001854_2012-04-01_1.xml",
+     "sha256": "f4f6b21c406259fac8e79d6a74eadd0988e72b957addce2b5ab79f7d816c6d48"
+    },
+    {
+     "from": "2012-05-09",
+     "units": 741,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2012-05-09_1/xml/BWBR0001854_2012-05-09_1.xml",
+     "sha256": "442dcb9c63096ff709ec73b868ea7433992cdd92efd7c6ec63ef44a763df21b2"
+    },
+    {
+     "from": "2012-07-01",
+     "units": 741,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2012-07-01_0/xml/BWBR0001854_2012-07-01_0.xml",
+     "sha256": "592f87404e87e1baf9e27119c7f424f4b1eedd9f2b91d0e882512985606efe95"
+    },
+    {
+     "from": "2012-10-01",
+     "units": 741,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2012-10-01_0/xml/BWBR0001854_2012-10-01_0.xml",
+     "sha256": "f0daea18481182b3207a188501c3660491d081e1c6e383f53ac970d67d9922ce"
+    },
+    {
+     "from": "2012-11-01",
+     "units": 741,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2012-11-01_0/xml/BWBR0001854_2012-11-01_0.xml",
+     "sha256": "77e485aa925c5a8b4437514e5fea45e2684c76f840b15fd6edafa47ec9f1931d"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 741,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2013-01-01_0/xml/BWBR0001854_2013-01-01_0.xml",
+     "sha256": "297676d527f2ef0401058f225799caeb5f1aaa39e2d28b40b4015199e5452710"
+    },
+    {
+     "from": "2013-04-01",
+     "units": 740,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2013-04-01_0/xml/BWBR0001854_2013-04-01_0.xml",
+     "sha256": "792c084c25dc0e65934adf073e07ba09dc10a531d59cbc3c6c52494b57dedaa1"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 740,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2013-07-01_0/xml/BWBR0001854_2013-07-01_0.xml",
+     "sha256": "541e9144996aa3f45aca8f3c1165929294d4913a69a0bf251107ff311755e944"
+    },
+    {
+     "from": "2013-08-20",
+     "units": 737,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2013-08-20_0/xml/BWBR0001854_2013-08-20_0.xml",
+     "sha256": "4fd99393a103829e4f34e10f3a0ffa5e5f53e968803b763cf0d02326f1b14be8"
+    },
+    {
+     "from": "2013-09-01",
+     "units": 738,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2013-09-01_0/xml/BWBR0001854_2013-09-01_0.xml",
+     "sha256": "4aefeec1c2160dd635364ade8afca68315bfde437ed709b6ea8bda4f2344a404"
+    },
+    {
+     "from": "2013-11-15",
+     "units": 738,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2013-11-15_0/xml/BWBR0001854_2013-11-15_0.xml",
+     "sha256": "c7ac38869768b28dce07579997b9cbe30c465f5821d23575fc2781b75fa4b019"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 738,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2014-01-01_0/xml/BWBR0001854_2014-01-01_0.xml",
+     "sha256": "96d92618e0bf65776cb097337b150cc411adb87a1a36b5d2bad6c1fde8855c37"
+    },
+    {
+     "from": "2014-01-06",
+     "units": 738,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2014-01-06_0/xml/BWBR0001854_2014-01-06_0.xml",
+     "sha256": "5d1e6ce00f1bd75d1297547d32701699ad32342e0bd0f6eb4e967ca6b1310c19"
+    },
+    {
+     "from": "2014-01-20",
+     "units": 738,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2014-01-20_0/xml/BWBR0001854_2014-01-20_0.xml",
+     "sha256": "25034dfdb33f1d4d0b5ec6ee0ac271cf29b3a54b59a1bc18207b4a525fba5983"
+    },
+    {
+     "from": "2014-02-15",
+     "units": 738,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2014-02-15_0/xml/BWBR0001854_2014-02-15_0.xml",
+     "sha256": "9e474553ccfcc4a62bf6fdcc6b434349d2ad32c19f0f5bd4233100102e914bbe"
+    },
+    {
+     "from": "2014-03-01",
+     "units": 736,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2014-03-01_0/xml/BWBR0001854_2014-03-01_0.xml",
+     "sha256": "7200d0ae7c31448a8b8383230621aaecec98a5fb1897a6e0eeb1cc1694e94533"
+    },
+    {
+     "from": "2014-04-01",
+     "units": 738,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2014-04-01_0/xml/BWBR0001854_2014-04-01_0.xml",
+     "sha256": "6af0fdc46599fe3d072653ff349e9a5e7c195bf888ae32555f355de22922a013"
+    },
+    {
+     "from": "2014-05-01",
+     "units": 740,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2014-05-01_0/xml/BWBR0001854_2014-05-01_0.xml",
+     "sha256": "fa09e2acf1e06c28ae25778840436ec163c4bbefbb524889bae9dd7212da77f6"
+    },
+    {
+     "from": "2014-07-01",
+     "units": 742,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2014-07-01_0/xml/BWBR0001854_2014-07-01_0.xml",
+     "sha256": "dedffc385525fc2b7f1dfec85533c6dbfd61e95646478b881eca171d458f0be5"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 740,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2015-01-01_0/xml/BWBR0001854_2015-01-01_0.xml",
+     "sha256": "b20f70a87d449ac08fd58125853496e4097f79f169213d0a2b32f4eec917973f"
+    },
+    {
+     "from": "2015-07-01",
+     "units": 742,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2015-07-01_0/xml/BWBR0001854_2015-07-01_0.xml",
+     "sha256": "3e8cef3cfbbe8bba600c1d24e6959498ba3d88579db2d5efe5b74cf11b82248d"
+    },
+    {
+     "from": "2015-08-01",
+     "units": 742,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2015-08-01_0/xml/BWBR0001854_2015-08-01_0.xml",
+     "sha256": "5de419fee3a80e835beb3d6c13f363a51d2b4a498931a2d8dd46a5e0d979bbdb"
+    },
+    {
+     "from": "2015-11-17",
+     "units": 743,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2015-11-17_0/xml/BWBR0001854_2015-11-17_0.xml",
+     "sha256": "5f887061f8cd5e852b9c146c6efbfcc270d696ff53ab01fb4f791aad520fd1fe"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 743,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2016-01-01_0/xml/BWBR0001854_2016-01-01_0.xml",
+     "sha256": "7e94b6be8c56819a8ffd045f95783a839b6703dd20e0b374eb7bc0dc687562f0"
+    },
+    {
+     "from": "2016-04-20",
+     "units": 743,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2016-04-20_0/xml/BWBR0001854_2016-04-20_0.xml",
+     "sha256": "3a6d21ca5cba4b7941b9ea0b623c3c8cfaa1c233c15d6d183380a2950cce415c"
+    },
+    {
+     "from": "2016-07-01",
+     "units": 747,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2016-07-01_0/xml/BWBR0001854_2016-07-01_0.xml",
+     "sha256": "3dbb223660b0e64566d0cf26659bfb14f54fb1ab73a9eab905cb165f2897db67"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 749,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2017-01-01_0/xml/BWBR0001854_2017-01-01_0.xml",
+     "sha256": "2b3eb974b3de78e02147be621463e57668e6c277b0f6d557126eb048a989f776"
+    },
+    {
+     "from": "2017-03-01",
+     "units": 749,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2017-03-01_0/xml/BWBR0001854_2017-03-01_0.xml",
+     "sha256": "c7106449a1f9445baf12d12762b076faf05df7ef60688265793e0a8a76636047"
+    },
+    {
+     "from": "2017-09-01",
+     "units": 749,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2017-09-01_0/xml/BWBR0001854_2017-09-01_0.xml",
+     "sha256": "7a0a8b411bec1e7c9c947caff63b8b341480ac0ff0d382bb5dff965492fb137d"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 757,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2018-01-01_0/xml/BWBR0001854_2018-01-01_0.xml",
+     "sha256": "b7be7873b4c6daa0eaf274de33db34cdeb8064476a4eb1de7fe7855d76f50be4"
+    },
+    {
+     "from": "2018-05-01",
+     "units": 757,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2018-05-01_0/xml/BWBR0001854_2018-05-01_0.xml",
+     "sha256": "bf911c9b185a567c8e1003b762947a85fbcef2f2c8b9f05911eb225e6f3b161c"
+    },
+    {
+     "from": "2018-07-01",
+     "units": 757,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2018-07-01_0/xml/BWBR0001854_2018-07-01_0.xml",
+     "sha256": "6f46a88797704aa15b6f6345ed1b820d37212608388fdf511a59df73f2188cca"
+    },
+    {
+     "from": "2018-09-19",
+     "units": 757,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2018-09-19_0/xml/BWBR0001854_2018-09-19_0.xml",
+     "sha256": "d7aadc6fcd6271b859c28db13866eb6e656b13017cbd7d1f720e873f39caf63a"
+    },
+    {
+     "from": "2018-10-16",
+     "units": 766,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2018-10-16_0/xml/BWBR0001854_2018-10-16_0.xml",
+     "sha256": "824184f83e945d6e4230cfc80a34c7dc9ee6882942213424ece6563d5ea0f744"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 765,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2019-01-01_0/xml/BWBR0001854_2019-01-01_0.xml",
+     "sha256": "ae50f2b5b6b283e023c6d6972bc7c7fe883e2b8c54b7874d37e32575f607689b"
+    },
+    {
+     "from": "2019-03-01",
+     "units": 767,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2019-03-01_0/xml/BWBR0001854_2019-03-01_0.xml",
+     "sha256": "83af15c822a332c24debb70f5aabac77389f57ef031e394b7b5aebada066d53f"
+    },
+    {
+     "from": "2019-04-01",
+     "units": 767,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2019-04-01_0/xml/BWBR0001854_2019-04-01_0.xml",
+     "sha256": "426496b7c1a17cd1e4432d46b9614ca41d6013813a69b73fb5da41c196557e7e"
+    },
+    {
+     "from": "2019-08-01",
+     "units": 767,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2019-08-01_0/xml/BWBR0001854_2019-08-01_0.xml",
+     "sha256": "3e7a1fcabad56c47f29989797be75030c916890afcb123f582ac3f0a8c424333"
+    },
+    {
+     "from": "2019-11-01",
+     "units": 768,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2019-11-01_0/xml/BWBR0001854_2019-11-01_0.xml",
+     "sha256": "879aebc83d3dd0783cb1791135266108d11a67a0c938fda281559e42f20d21c1"
+    },
+    {
+     "from": "2019-11-28",
+     "units": 768,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2019-11-28_0/xml/BWBR0001854_2019-11-28_0.xml",
+     "sha256": "687881f62bca40818442420b5c2ac8e41063b6bb313f251f4879dcb735654c0d"
+    },
+    {
+     "from": "2019-12-15",
+     "units": 769,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2019-12-15_0/xml/BWBR0001854_2019-12-15_0.xml",
+     "sha256": "1898edd974db8362c354305da618c0a2410055ba684ad6a66ae4a149d2ede197"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 674,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2020-01-01_0/xml/BWBR0001854_2020-01-01_0.xml",
+     "sha256": "a3ebca0a138f59cad1af3c9847e4478dd110ba369065488b1a65dff2ae6791ca"
+    },
+    {
+     "from": "2020-07-01",
+     "units": 674,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2020-07-01_0/xml/BWBR0001854_2020-07-01_0.xml",
+     "sha256": "043587dedad5df67e40bea44e7a5b34064ac56a1e976c81d8034cb5185ca8da4"
+    },
+    {
+     "from": "2020-07-25",
+     "units": 674,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2020-07-25_0/xml/BWBR0001854_2020-07-25_0.xml",
+     "sha256": "c059147b701448a01b3a2a807a23ed75ff617083c22f2c88d7aa284f4313050a"
+    },
+    {
+     "from": "2021-05-01",
+     "units": 675,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2021-05-01_0/xml/BWBR0001854_2021-05-01_0.xml",
+     "sha256": "0d7297011dc09c2f404bf3875dfaf0e5f0501d4b49ffb16089e17df2c97b7b19"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 675,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2021-07-01_0/xml/BWBR0001854_2021-07-01_0.xml",
+     "sha256": "4d77fee29c70e1e01e7bdda7f36fc062b2713c331cbb1754a1c6f38250ba68a8"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 677,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2022-01-01_0/xml/BWBR0001854_2022-01-01_0.xml",
+     "sha256": "34596cb5e169f9511f979f86b031da02b14f8086d170fadceff5839cee8ffcb9"
+    },
+    {
+     "from": "2022-01-26",
+     "units": 677,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2022-01-26_0/xml/BWBR0001854_2022-01-26_0.xml",
+     "sha256": "61becfba6807fdeae85277c243c214a2737c77108227f9bd33438eb98dc06bd5"
+    },
+    {
+     "from": "2022-03-01",
+     "units": 677,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2022-03-01_0/xml/BWBR0001854_2022-03-01_0.xml",
+     "sha256": "3104913705e24b8ffa31f1ca257b81bd72d357cbe6ecd02abf48e5b89e81b1ae"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 679,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2022-07-01_0/xml/BWBR0001854_2022-07-01_0.xml",
+     "sha256": "f219dd9a2395bc4a60f231958c490e32022a94b20a8d412680f30b188ddb72fd"
+    },
+    {
+     "from": "2022-10-01",
+     "units": 679,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2022-10-01_0/xml/BWBR0001854_2022-10-01_0.xml",
+     "sha256": "ac9d21f4de393ef9913fde50330d96031cb687dd19067ef98e275395a3f77fad"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 679,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2023-01-01_0/xml/BWBR0001854_2023-01-01_0.xml",
+     "sha256": "8eb9da605abe9d9fe0b9ce53b211433004604cf61eb6b2d8ed6e8732ba0c7001"
+    },
+    {
+     "from": "2023-07-01",
+     "units": 680,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2023-07-01_0/xml/BWBR0001854_2023-07-01_0.xml",
+     "sha256": "0fa68d5c9bac9a8c8afc58822a0aabbcff4046b8ec0bef3516e97dc29dfb46c4"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 680,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2023-09-01_0/xml/BWBR0001854_2023-09-01_0.xml",
+     "sha256": "a610aa9081a39871362fce82a05f39a253a737ac28a6b697ba246781a4f1660d"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 681,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2023-10-01_0/xml/BWBR0001854_2023-10-01_0.xml",
+     "sha256": "0091308c9884a15e668955026fb6f639f952245fbcdced7f4255c49ce7d520b6"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 683,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2024-01-01_0/xml/BWBR0001854_2024-01-01_0.xml",
+     "sha256": "2ec4a9bb76cc0ebdb17f7eea2f4a41a18809f1a9ee237fb2777739fe16060aa0"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 683,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2024-07-01_0/xml/BWBR0001854_2024-07-01_0.xml",
+     "sha256": "09cdf46816fb5fc1883a2f2bec4d6c358199ccd298401a5419c8ab0b14a79f11"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 684,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2024-10-01_0/xml/BWBR0001854_2024-10-01_0.xml",
+     "sha256": "ee1325b34e5da0c13570900987130dc787a3b077ca44e2460fac429bf37dbe2c"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 685,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2025-01-01_0/xml/BWBR0001854_2025-01-01_0.xml",
+     "sha256": "728096aac7b857b65166d71b0563bf8260a57f215d1c77f453ef477dac6ca5e5"
+    },
+    {
+     "from": "2025-05-15",
+     "units": 686,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2025-05-15_0/xml/BWBR0001854_2025-05-15_0.xml",
+     "sha256": "66918ae9e88a2c822bbcbce30ebec1137494fc7afaf33eda8e1aed879aaf70c6"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 686,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2025-07-01_0/xml/BWBR0001854_2025-07-01_0.xml",
+     "sha256": "31b57dfa7d1ded6f5c8b542f93e9127b2c91f28d473ba6434d0a3eb2c5c13719"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 687,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-01-01_0/xml/BWBR0001854_2026-01-01_0.xml",
+     "sha256": "316277f81c3c9fc81cdeb966a3317c618917a221f1b52eb83a4b64c294c2cbe1"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 686,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+     "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5"
+    }
+   ]
+  },
+  {
+   "slug": "uavg",
+   "short": "UAVG",
+   "title": "Uitvoeringswet Algemene verordening gegevensbescherming",
+   "url": "https://wetten.overheid.nl/BWBR0040940",
+   "versions": [
+    {
+     "from": "2018-05-25",
+     "units": 56,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040940/2018-05-25_0/xml/BWBR0040940_2018-05-25_0.xml",
+     "sha256": "4e7d88b6e7e7627e5d98dea7a23f4707492f71cf6e3156ef29d78979769729a6"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 57,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040940/2019-01-01_0/xml/BWBR0040940_2019-01-01_0.xml",
+     "sha256": "4010e22b267b9f154017b39534f9825b7356f8cbf2582f5ce4ff975f47a5b313"
+    },
+    {
+     "from": "2019-02-19",
+     "units": 58,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040940/2019-02-19_0/xml/BWBR0040940_2019-02-19_0.xml",
+     "sha256": "2b551525439d068723822e48dc655d794bad4f825d3db5f0d55bb7d2f6e80559"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 58,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040940/2020-01-01_0/xml/BWBR0040940_2020-01-01_0.xml",
+     "sha256": "709f9dadb19d602812511d3b3d8aa59955a51eee6e76a100ad01a2f86be9fafa"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 58,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040940/2021-07-01_0/xml/BWBR0040940_2021-07-01_0.xml",
+     "sha256": "11cd4939d207c1b37c0e70d4ed714b8c90abd2df3e7160dd89ecaa14b300c235"
+    },
+    {
+     "from": "2026-09-01",
+     "units": 63,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040940/2026-09-01_0/xml/BWBR0040940_2026-09-01_0.xml",
+     "sha256": "3c251b75faaa79bf1c356cb55550f9c1745ac47398438f5da18734642b6b8d3a"
+    }
+   ]
+  }
+ ]
+}
