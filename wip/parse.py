@@ -244,7 +244,7 @@ def build_act(slug: str, spec: dict, laws: dict, uses: Counter) -> dict:
             # The first version is the act as enacted only if every article still carries the act's own
             # enacting publication (the bron on its intitule) and took effect on this day.
             first = {(a.get('bron'), a.get('inwerking')) for a in v['attrs'].values()}
-            enacting = (re.search(rb'<intitule [^>]*bron="([^"]+)"', raw) or [None, b''])[1].decode()
+            enacting = (re.search(rb'<intitule [^>]*?sbron="([^"]+)"', raw) or [None, b''])[1].decode()
             first_law = None
             if len(first) == 1:
                 bron, inw = next(iter(first))
