@@ -1,0 +1,311 @@
+{
+ "grondwet": {
+  "bwb": "BWBR0001840",
+  "short": "Gw",
+  "title": "Grondwet"
+ },
+ "bw-boek-1": {
+  "bwb": "BWBR0002656",
+  "short": "BW 1",
+  "title": "Burgerlijk Wetboek Boek 1"
+ },
+ "wetboek-van-strafrecht": {
+  "bwb": "BWBR0001854",
+  "short": "Sr",
+  "title": "Wetboek van Strafrecht"
+ },
+ "uavg": {
+  "bwb": "BWBR0040940",
+  "short": "UAVG",
+  "title": "Uitvoeringswet Algemene verordening gegevensbescherming"
+ },
+ "bw-boek-2": {
+  "bwb": "BWBR0003045",
+  "short": "BW 2",
+  "title": "Burgerlijk Wetboek Boek 2",
+  "part": "20-burgerlijk-wetboek"
+ },
+ "bw-boek-3": {
+  "bwb": "BWBR0005291",
+  "short": "BW 3",
+  "title": "Burgerlijk Wetboek Boek 3",
+  "part": "20-burgerlijk-wetboek"
+ },
+ "bw-boek-4": {
+  "bwb": "BWBR0002761",
+  "short": "BW 4",
+  "title": "Burgerlijk Wetboek Boek 4",
+  "part": "20-burgerlijk-wetboek"
+ },
+ "bw-boek-5": {
+  "bwb": "BWBR0005288",
+  "short": "BW 5",
+  "title": "Burgerlijk Wetboek Boek 5",
+  "part": "20-burgerlijk-wetboek"
+ },
+ "bw-boek-6": {
+  "bwb": "BWBR0005289",
+  "short": "BW 6",
+  "title": "Burgerlijk Wetboek Boek 6",
+  "part": "20-burgerlijk-wetboek"
+ },
+ "bw-boek-7": {
+  "bwb": "BWBR0005290",
+  "short": "BW 7",
+  "title": "Burgerlijk Wetboek Boek 7",
+  "part": "20-burgerlijk-wetboek"
+ },
+ "bw-boek-10": {
+  "bwb": "BWBR0030068",
+  "short": "BW 10",
+  "title": "Burgerlijk Wetboek Boek 10",
+  "part": "20-burgerlijk-wetboek"
+ },
+ "wetboek-van-strafvordering": {
+  "bwb": "BWBR0001903",
+  "short": "Sv",
+  "title": "Wetboek van Strafvordering",
+  "part": "30-strafvordering"
+ },
+ "wetboek-van-burgerlijke-rechtsvordering": {
+  "bwb": "BWBR0001827",
+  "short": "Rv",
+  "title": "Wetboek van Burgerlijke Rechtsvordering",
+  "part": "31-rechtsvordering"
+ },
+ "awb": {
+  "bwb": "BWBR0005537",
+  "short": "Awb",
+  "title": "Algemene wet bestuursrecht",
+  "part": "40-awb",
+  "bijlage_keys": true
+ },
+ "auteurswet": {
+  "bwb": "BWBR0001886",
+  "short": "Aw",
+  "title": "Auteurswet",
+  "part": "50-auteurswet"
+ },
+ "wft": {
+  "bwb": "BWBR0020368",
+  "short": "Wft",
+  "title": "Wet op het financieel toezicht",
+  "part": "51-financieel-toezicht"
+ },
+ "omgevingswet": {
+  "bwb": "BWBR0037885",
+  "short": "Ow",
+  "title": "Omgevingswet",
+  "part": "52-omgevingswet"
+ },
+ "vreemdelingenwet-2000": {
+  "bwb": "BWBR0011823",
+  "short": "Vw 2000",
+  "title": "Vreemdelingenwet 2000",
+  "part": "53-vreemdelingen"
+ },
+ "wet-arbeid-vreemdelingen": {
+  "bwb": "BWBR0007149",
+  "short": "Wav",
+  "title": "Wet arbeid vreemdelingen",
+  "part": "53-vreemdelingen"
+ },
+ "participatiewet": {
+  "bwb": "BWBR0015703",
+  "short": "Pw",
+  "title": "Participatiewet",
+  "part": "54-sociaal-zorg"
+ },
+ "zorgverzekeringswet": {
+  "bwb": "BWBR0018450",
+  "short": "Zvw",
+  "title": "Zorgverzekeringswet",
+  "part": "54-sociaal-zorg"
+ },
+ "jeugdwet": {
+  "bwb": "BWBR0034925",
+  "short": "Jw",
+  "title": "Jeugdwet",
+  "part": "54-sociaal-zorg"
+ },
+ "wmo-2015": {
+  "bwb": "BWBR0035362",
+  "short": "Wmo 2015",
+  "title": "Wet maatschappelijke ondersteuning 2015",
+  "part": "54-sociaal-zorg"
+ },
+ "wet-langdurige-zorg": {
+  "bwb": "BWBR0035917",
+  "short": "Wlz",
+  "title": "Wet langdurige zorg",
+  "part": "54-sociaal-zorg"
+ },
+ "wet-inkomstenbelasting-2001": {
+  "bwb": "BWBR0011353",
+  "short": "Wet IB 2001",
+  "title": "Wet inkomstenbelasting 2001",
+  "part": "55-belastingen"
+ },
+ "wet-omzetbelasting-1968": {
+  "bwb": "BWBR0002629",
+  "short": "Wet OB 1968",
+  "title": "Wet op de omzetbelasting 1968",
+  "part": "55-belastingen"
+ },
+ "awr": {
+  "bwb": "BWBR0002320",
+  "short": "AWR",
+  "title": "Algemene wet inzake rijksbelastingen",
+  "part": "55-belastingen"
+ },
+ "opiumwet": {
+  "bwb": "BWBR0001941",
+  "short": "Ow (opium)",
+  "title": "Opiumwet",
+  "part": "56-bijzonder-strafrecht"
+ },
+ "wegenverkeerswet-1994": {
+  "bwb": "BWBR0006622",
+  "short": "WVW 1994",
+  "title": "Wegenverkeerswet 1994",
+  "part": "56-bijzonder-strafrecht"
+ },
+ "wet-politiegegevens": {
+  "bwb": "BWBR0022463",
+  "short": "Wpg",
+  "title": "Wet politiegegevens",
+  "part": "56-bijzonder-strafrecht"
+ },
+ "gemeentewet": {
+  "bwb": "BWBR0005416",
+  "short": "Gemw",
+  "title": "Gemeentewet",
+  "part": "57-bestuur"
+ },
+ "wet-open-overheid": {
+  "bwb": "BWBR0045754",
+  "short": "Woo",
+  "title": "Wet open overheid",
+  "part": "57-bestuur"
+ },
+ "wet-rechterlijke-organisatie": {
+  "bwb": "BWBR0001830",
+  "short": "Wet RO",
+  "title": "Wet op de rechterlijke organisatie",
+  "part": "57-bestuur"
+ },
+ "woningwet": {
+  "bwb": "BWBR0005181",
+  "short": "Woningwet",
+  "title": "Woningwet",
+  "part": "57-bestuur"
+ },
+ "faillissementswet": {
+  "bwb": "BWBR0001860",
+  "short": "Fw",
+  "title": "Faillissementswet",
+  "part": "58-economie-arbeid"
+ },
+ "arbeidsomstandighedenwet": {
+  "bwb": "BWBR0010346",
+  "short": "Arbowet",
+  "title": "Arbeidsomstandighedenwet",
+  "part": "58-economie-arbeid"
+ },
+ "wetboek-van-koophandel": {
+  "bwb": "BWBR0001838",
+  "short": "WvK",
+  "title": "Wetboek van Koophandel",
+  "part": "59-koophandel"
+ },
+ "wet-milieubeheer": {
+  "bwb": "BWBR0003245",
+  "short": "Wm",
+  "title": "Wet milieubeheer",
+  "part": "60-milieu"
+ },
+ "wet-loonbelasting-1964": {
+  "bwb": "BWBR0002471",
+  "short": "Wet LB 1964",
+  "title": "Wet op de loonbelasting 1964",
+  "part": "61-belastingen-2"
+ },
+ "wet-vennootschapsbelasting-1969": {
+  "bwb": "BWBR0002672",
+  "short": "Wet Vpb 1969",
+  "title": "Wet op de vennootschapsbelasting 1969",
+  "part": "61-belastingen-2"
+ },
+ "successiewet-1956": {
+  "bwb": "BWBR0002226",
+  "short": "SW 1956",
+  "title": "Successiewet 1956",
+  "part": "61-belastingen-2"
+ },
+ "wet-op-het-notarisambt": {
+  "bwb": "BWBR0010388",
+  "short": "Wna",
+  "title": "Wet op het notarisambt",
+  "part": "62-beroepen"
+ },
+ "advocatenwet": {
+  "bwb": "BWBR0002093",
+  "short": "Advw",
+  "title": "Advocatenwet",
+  "part": "62-beroepen"
+ },
+ "werkloosheidswet": {
+  "bwb": "BWBR0004045",
+  "short": "WW",
+  "title": "Werkloosheidswet",
+  "part": "63-sociale-zekerheid"
+ },
+ "wet-wia": {
+  "bwb": "BWBR0019057",
+  "short": "Wet WIA",
+  "title": "Wet werk en inkomen naar arbeidsvermogen",
+  "part": "63-sociale-zekerheid"
+ },
+ "algemene-ouderdomswet": {
+  "bwb": "BWBR0002221",
+  "short": "AOW",
+  "title": "Algemene Ouderdomswet",
+  "part": "63-sociale-zekerheid"
+ },
+ "wet-kinderopvang": {
+  "bwb": "BWBR0017017",
+  "short": "Wko",
+  "title": "Wet kinderopvang",
+  "part": "63-sociale-zekerheid"
+ },
+ "wet-economische-delicten": {
+  "bwb": "BWBR0002063",
+  "short": "WED",
+  "title": "Wet op de economische delicten",
+  "part": "64-strafrecht-2"
+ },
+ "penitentiaire-beginselenwet": {
+  "bwb": "BWBR0009709",
+  "short": "Pbw",
+  "title": "Penitentiaire beginselenwet",
+  "part": "64-strafrecht-2"
+ },
+ "wet-wapens-en-munitie": {
+  "bwb": "BWBR0008804",
+  "short": "WWM",
+  "title": "Wet wapens en munitie",
+  "part": "64-strafrecht-2"
+ },
+ "politiewet-2012": {
+  "bwb": "BWBR0031788",
+  "short": "Pw 2012",
+  "title": "Politiewet 2012",
+  "part": "64-strafrecht-2"
+ },
+ "provinciewet": {
+  "bwb": "BWBR0005645",
+  "short": "Provw",
+  "title": "Provinciewet",
+  "part": "65-provinciewet"
+ }
+}

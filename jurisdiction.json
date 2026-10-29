@@ -1,0 +1,10 @@
+{
+  "path": "nl",
+  "code": "NL",
+  "name": "Netherlands",
+  "level": "country",
+  "repo": "https://github.com/lexifina/netherlands-law",
+  "build": "built: 52 acts from the BWB, 2002-2026: Grondwet (11 versions), Burgerlijk Wetboek Boeken 1-7 and 10 (433), Wetboek van Strafrecht (119), Wetboek van Strafvordering (126), Wetboek van Burgerlijke Rechtsvordering (97), Algemene wet bestuursrecht (151), Auteurswet (28), UAVG (6), and 21 further acts (1,165 versions): Wft, Omgevingswet, Vreemdelingenwet 2000, Wet arbeid vreemdelingen, Participatiewet, Zorgverzekeringswet, Jeugdwet, Wmo 2015, Wlz, Wet IB 2001, Wet OB 1968, AWR, Opiumwet, Wegenverkeerswet 1994, Wet politiegegevens, Gemeentewet, Woo, Wet RO, Woningwet, Faillissementswet, Arbeidsomstandighedenwet, and 16 more (1073 versions): Wetboek van Koophandel, Wet milieubeheer, Wet LB 1964, Wet Vpb 1969, Successiewet 1956, Wet op het notarisambt, Advocatenwet, WW, Wet WIA, AOW, Wet kinderopvang, WED, Penitentiaire beginselenwet, Wet wapens en munitie, Politiewet 2012, Provinciewet",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28"
+}

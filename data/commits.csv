@@ -1,0 +1,2660 @@
+day,kind,law,acts,files,branch
+2002-01-01,start,,advocatenwet,106,main
+2002-01-01,start,,algemene-ouderdomswet,71,main
+2002-01-01,start,,auteurswet,108,main
+2002-01-01,start,,bw-boek-1,503,main
+2002-01-01,start,,bw-boek-3,295,main
+2002-01-01,start,,bw-boek-4,244,main
+2002-01-01,start,,bw-boek-5,147,main
+2002-01-01,start,,faillissementswet,410,main
+2002-01-01,start,,successiewet-1956,69,main
+2002-01-01,start,,vreemdelingenwet-2000,125,main
+2002-01-01,start,,wegenverkeerswet-1994,226,main
+2002-01-01,start,,wet-arbeid-vreemdelingen,29,main
+2002-01-01,start,,wet-omzetbelasting-1968,90,main
+2002-01-01,start,,wet-op-het-notarisambt,136,main
+2002-01-01,start,,wet-rechterlijke-organisatie,144,main
+2002-01-01,start,,wet-vennootschapsbelasting-1969,75,main
+2002-01-01,start,,wetboek-van-burgerlijke-rechtsvordering,876,main
+2002-01-01,start,,woningwet,166,main
+2002-01-16,start,,provinciewet,260,main
+2002-03-01,start,,opiumwet,22,main
+2002-03-07,start,,gemeentewet,288,main
+2002-03-08,start,,penitentiaire-beginselenwet,101,main
+2002-03-08,start,,wetboek-van-strafvordering,804,main
+2002-03-21,start,,grondwet,144,main
+2002-04-01,start,,arbeidsomstandighedenwet,65,main
+2002-04-01,start,,awb,376,main
+2002-04-01,start,,awr,162,main
+2002-04-01,start,,bw-boek-7,273,main
+2002-04-01,start,,werkloosheidswet,174,main
+2002-04-01,start,,wet-economische-delicten,78,main
+2002-04-01,start,,wet-inkomstenbelasting-2001,356,main
+2002-04-01,start,,wet-loonbelasting-1964,103,main
+2002-04-01,start,,wet-milieubeheer,358,main
+2002-04-01,start,,wet-wapens-en-munitie,46,main
+2002-04-01,start,,wetboek-van-koophandel,510,main
+2002-04-01,start,,wetboek-van-strafrecht,675,main
+2002-04-12,start,,bw-boek-6,281,main
+2002-04-23,start,,bw-boek-2,520,main
+2002-05-01,law,stb-2001-531,wetboek-van-strafvordering,5,main
+2002-05-08,law,stb-2001-346,wet-milieubeheer wet-economische-delicten,118,main
+2002-05-08,law,stb-2002-206,wet-milieubeheer,3,main
+2002-05-08,unexplained,,wet-milieubeheer,9,main
+2002-05-22,law,stb-2001-557,wet-economische-delicten,1,main
+2002-05-26,law,stcrt-2002-96,wet-inkomstenbelasting-2001,1,main
+2002-05-29,law,stb-2002-148,wetboek-van-strafrecht awb,3,main
+2002-06-01,unexplained,,advocatenwet,3,main
+2002-06-07,law,stb-2002-270,wet-economische-delicten,1,main
+2002-06-15,law,stb-2002-184,advocatenwet,30,main
+2002-06-15,unexplained,,advocatenwet,1,main
+2002-07-01,law,stb-2001-640,wet-inkomstenbelasting-2001,2,main
+2002-07-01,law,stb-2002-102,wet-milieubeheer,1,main
+2002-07-01,law,stb-2002-215,bw-boek-7 faillissementswet,12,main
+2002-07-01,law,stb-2002-236,wet-economische-delicten wet-wapens-en-munitie,2,main
+2002-07-01,law,stb-2002-244,wet-economische-delicten wet-wapens-en-munitie,2,main
+2002-07-01,law,stcrt-2002-117,algemene-ouderdomswet,2,main
+2002-07-01,law,stb-2002-330,bw-boek-1 bw-boek-2 wetboek-van-strafvordering wetboek-van-burgerlijke-rechtsvordering wet-inkomstenbelasting-2001 faillissementswet wet-op-het-notarisambt wet-economische-delicten,15,main
+2002-07-05,law,stb-2002-88,wet-economische-delicten,1,main
+2002-07-12,law,stb-2002-355,wetboek-van-strafrecht wetboek-van-strafvordering,4,main
+2002-07-13,law,stb-2002-348,opiumwet gemeentewet woningwet,11,main
+2002-07-16,law,stb-2001-641,wet-inkomstenbelasting-2001 wet-vennootschapsbelasting-1969,12,main
+2002-07-17,law,stb-2002-201,wet-economische-delicten,1,main
+2002-07-19,law,stb-2002-380,wet-economische-delicten,1,main
+2002-08-01,law,stb-2002-176,bw-boek-1,12,main
+2002-08-01,law,stb-2002-185,faillissementswet,12,main
+2002-08-01,law,stb-2002-250,wegenverkeerswet-1994,31,main
+2002-08-01,law,stb-2002-263,wet-economische-delicten,1,main
+2002-08-08,law,stb-2002-316,wetboek-van-strafrecht wetboek-van-strafvordering,8,main
+2002-08-15,law,stb-2001-518,woningwet,2,main
+2002-08-29,law,stb-2002-396,wet-inkomstenbelasting-2001 wet-vennootschapsbelasting-1969,4,main
+2002-09-01,law,stb-2002-152,bw-boek-1 wetboek-van-burgerlijke-rechtsvordering successiewet-1956,18,main
+2002-09-01,law,stb-2002-225,bw-boek-2,10,main
+2002-09-01,law,stb-2002-272,wet-economische-delicten,1,main
+2002-09-01,law,stb-2002-292,woningwet,1,main
+2002-09-01,law,stb-2002-303,wetboek-van-strafrecht,1,main
+2002-09-04,law,stb-2002-440,wetboek-van-strafvordering advocatenwet,19,main
+2002-09-15,law,stb-2002-420,gemeentewet wet-wapens-en-munitie,5,main
+2002-09-25,law,stb-2001-642,wet-inkomstenbelasting-2001,1,main
+2002-09-26,law,stcrt-2002-184,wet-inkomstenbelasting-2001,2,main
+2002-10-01,law,stb-2002-388,wetboek-van-strafrecht wetboek-van-strafvordering gemeentewet,11,main
+2002-11-01,law,stb-2002-406,wegenverkeerswet-1994,2,main
+2002-11-22,law,stb-2002-560,bw-boek-7,2,main
+2002-12-01,law,stb-2002-318,awb wet-op-het-notarisambt,2,main
+2002-12-01,law,stb-2002-545,bw-boek-3 bw-boek-6,3,main
+2003-01-01,law,stb-2001-518,woningwet,36,main
+2003-01-01,law,stb-2001-584,woningwet,1,main
+2003-01-01,law,stb-2002-111,gemeentewet,34,main
+2003-01-01,law,stb-2002-227,bw-boek-1,1,main
+2003-01-01,law,stb-2002-230,bw-boek-1 bw-boek-2 bw-boek-3 bw-boek-4 wetboek-van-burgerlijke-rechtsvordering faillissementswet successiewet-1956,491,main
+2003-01-01,law,stb-2002-399,gemeentewet wet-milieubeheer provinciewet,3,main
+2003-01-01,law,stb-2002-429,bw-boek-1 wetboek-van-strafrecht bw-boek-2 bw-boek-3 bw-boek-6 bw-boek-7 wetboek-van-burgerlijke-rechtsvordering auteurswet awr faillissementswet successiewet-1956 wet-op-het-notarisambt,56,main
+2003-01-01,law,stb-2002-430,bw-boek-7,15,main
+2003-01-01,law,stb-2002-479,wetboek-van-strafvordering,9,main
+2003-01-01,law,stb-2002-539,wetboek-van-strafvordering,9,main
+2003-01-01,law,stb-2002-542,bw-boek-3 bw-boek-6 arbeidsomstandighedenwet wet-milieubeheer wet-economische-delicten,13,main
+2003-01-01,law,stb-2002-613,wet-inkomstenbelasting-2001 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,53,main
+2003-01-01,law,stb-2002-618,wet-vennootschapsbelasting-1969,21,main
+2003-01-01,law,stb-2002-615,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,32,main
+2003-01-01,law,stb-2002-617,wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 awr gemeentewet wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 provinciewet,39,main
+2003-01-01,law,stcrt-2002-245,algemene-ouderdomswet,2,main
+2003-01-01,law,stcrt-2002-248,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 successiewet-1956,45,main
+2003-01-01,law,stb-2003-524,algemene-ouderdomswet,1,main
+2003-01-01,unexplained,,bw-boek-1,1,main
+2003-01-01,unexplained,,faillissementswet,1,main
+2003-01-01,unexplained,,wet-inkomstenbelasting-2001,1,main
+2003-01-16,law,stb-2003-17,provinciewet,1,main
+2003-01-29,law,stb-2002-461,wet-economische-delicten,1,main
+2003-02-01,law,stb-2002-186,auteurswet,9,main
+2003-02-01,law,stb-2002-540,wet-rechterlijke-organisatie,1,main
+2003-02-01,law,stb-2003-20,awb awr,3,main
+2003-02-19,law,stb-2002-111,gemeentewet,1,main
+2003-02-19,law,stb-2003-56,gemeentewet,34,main
+2003-03-01,law,stb-2002-584,werkloosheidswet,8,main
+2003-03-01,law,stb-2002-614,successiewet-1956,6,main
+2003-03-01,law,stb-2003-62,wet-economische-delicten,1,main
+2003-03-01,law,stb-2003-316,wet-economische-delicten,1,main
+2003-03-12,law,stb-2003-17,gemeentewet provinciewet,172,main
+2003-03-12,unexplained,,gemeentewet,1,main
+2003-03-16,law,stb-2000-468,wet-economische-delicten,3,main
+2003-03-17,law,stb-2002-520,opiumwet,26,main
+2003-03-17,unexplained,,opiumwet,1,main
+2003-04-01,law,stb-2003-10,awr,2,main
+2003-04-01,law,stcrt-2003-56,algemene-ouderdomswet,2,main
+2003-04-15,law,stb-2003-101,wet-economische-delicten,1,main
+2003-04-18,law,stb-2003-89,wet-economische-delicten,1,main
+2003-05-01,law,stb-2003-110,bw-boek-7,10,main
+2003-05-21,law,stb-2001-581,bw-boek-3,1,main
+2003-05-21,law,stb-2003-199,bw-boek-3 bw-boek-6 wet-economische-delicten,8,main
+2003-05-23,law,stb-2003-189,wegenverkeerswet-1994 woningwet wet-milieubeheer wet-economische-delicten,21,main
+2003-06-01,law,stb-2002-347,woningwet wet-milieubeheer wet-economische-delicten,7,main
+2003-06-01,law,stb-2002-515,bw-boek-1,2,main
+2003-06-01,law,stb-2002-520,opiumwet,2,main
+2003-06-01,law,stb-2002-551,wetboek-van-strafvordering,4,main
+2003-06-01,law,stb-2003-141,bw-boek-7,3,main
+2003-06-05,law,stb-2003-238,bw-boek-7,1,main
+2003-07-01,law,stb-2003-143,wetboek-van-strafvordering,18,main
+2003-07-01,law,stcrt-2003-122,algemene-ouderdomswet,2,main
+2003-07-15,law,stb-2003-111,auteurswet,5,main
+2003-08-01,law,stb-2001-581,bw-boek-7 wetboek-van-burgerlijke-rechtsvordering,3,main
+2003-08-01,law,stb-2002-587,bw-boek-7,76,main
+2003-08-01,law,stb-2002-588,bw-boek-3 bw-boek-7,22,main
+2003-08-01,law,stb-2003-214,wet-economische-delicten,1,main
+2003-08-01,law,stb-2003-218,bw-boek-3 bw-boek-5 bw-boek-7 wetboek-van-burgerlijke-rechtsvordering woningwet,17,main
+2003-08-10,law,stb-2003-217,opiumwet,2,main
+2003-08-19,law,stb-2003-316,wet-economische-delicten,1,main
+2003-09-01,law,stb-1997-287,bw-boek-7,2,main
+2003-09-01,law,stb-2003-110,bw-boek-7,1,main
+2003-09-01,law,stb-2003-192,wet-economische-delicten,1,main
+2003-09-01,law,stb-2003-201,wetboek-van-strafvordering,3,main
+2003-09-01,law,stb-2003-202,wetboek-van-strafrecht wetboek-van-strafvordering penitentiaire-beginselenwet,26,main
+2003-09-01,law,stb-2003-239,bw-boek-7 wet-loonbelasting-1964 werkloosheidswet,24,main
+2003-09-01,law,stb-2003-269,vreemdelingenwet-2000,21,main
+2003-10-01,law,stb-2003-270,wetboek-van-strafrecht,1,main
+2003-10-08,law,stb-2003-378,wet-omzetbelasting-1968,10,main
+2003-10-17,law,stb-2003-314,gemeentewet provinciewet,20,main
+2003-11-07,law,stb-2003-433,wet-economische-delicten,1,main
+2003-11-15,law,stb-2003-444,faillissementswet,19,main
+2003-12-01,law,stb-2003-103,wet-economische-delicten,1,main
+2003-12-23,law,stb-2003-450,vreemdelingenwet-2000,2,main
+2004-01-01,start,,participatiewet,80,main
+2004-01-01,law,stb-1997-170,wet-milieubeheer,1,main
+2004-01-01,law,stb-1999-30,wet-milieubeheer,1,main
+2004-01-01,law,stb-2001-628,bw-boek-7,1,main
+2004-01-01,law,stb-2002-613,wet-inkomstenbelasting-2001,1,main
+2004-01-01,law,stb-2003-142,penitentiaire-beginselenwet,3,main
+2004-01-01,law,stb-2003-198,wetboek-van-strafrecht,2,main
+2004-01-01,law,stb-2003-376,bw-boek-1 wetboek-van-burgerlijke-rechtsvordering wet-inkomstenbelasting-2001 faillissementswet wet-loonbelasting-1964 werkloosheidswet algemene-ouderdomswet,13,main
+2004-01-01,law,stb-2003-524,algemene-ouderdomswet,1,main
+2004-01-01,law,stb-2003-526,wet-inkomstenbelasting-2001 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,57,main
+2004-01-01,law,stb-2003-527,wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,27,main
+2004-01-01,law,stb-2003-529,awr wet-vennootschapsbelasting-1969,2,main
+2004-01-01,law,stb-2003-530,wet-omzetbelasting-1968,7,main
+2004-01-01,law,stb-2003-534,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,2,main
+2004-01-01,law,stcrt-2003-250,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 successiewet-1956 algemene-ouderdomswet,42,main
+2004-01-01,law,stb-2003-544,werkloosheidswet algemene-ouderdomswet,19,main
+2004-01-01,law,stb-2003-546,werkloosheidswet,11,main
+2004-01-01,law,stb-2003-555,bw-boek-7 werkloosheidswet,11,main
+2004-01-28,law,stb-2003-478,wet-economische-delicten,1,main
+2004-02-01,law,stb-2003-480,wetboek-van-strafrecht wetboek-van-strafvordering,5,main
+2004-02-01,law,stb-2003-495,bw-boek-3,1,main
+2004-02-01,law,stb-2004-37,awb awr,3,main
+2004-02-18,law,stb-2004-54,bw-boek-2,2,main
+2004-03-01,law,stb-2003-524,algemene-ouderdomswet,2,main
+2004-03-01,law,stb-2003-528,wet-inkomstenbelasting-2001 awr gemeentewet wet-vennootschapsbelasting-1969 successiewet-1956 provinciewet,24,main
+2004-03-01,law,stb-2004-9,wet-economische-delicten,1,main
+2004-03-23,law,stb-2004-73,wet-economische-delicten,1,main
+2004-03-23,law,stb-2004-86,faillissementswet,35,main
+2004-03-26,law,stb-2004-61,wetboek-van-burgerlijke-rechtsvordering,1,main
+2004-04-01,law,stb-2002-552,wet-op-het-notarisambt advocatenwet,2,main
+2004-04-01,law,stcrt-2004-58,participatiewet,5,main
+2004-04-01,law,stcrt-2004-63,algemene-ouderdomswet,1,main
+2004-04-02,law,stcrt-2004-63,algemene-ouderdomswet,1,main
+2004-05-01,law,stb-2003-189,wet-milieubeheer,1,main
+2004-05-01,law,stb-2003-502,wetboek-van-strafvordering wet-op-het-notarisambt,2,main
+2004-05-01,law,stb-2004-32,opiumwet,1,main
+2004-05-01,law,stb-2004-50,bw-boek-1 wetboek-van-strafrecht bw-boek-2 bw-boek-3 bw-boek-4 bw-boek-6 bw-boek-7 wetboek-van-strafvordering vreemdelingenwet-2000 wegenverkeerswet-1994 wetboek-van-koophandel advocatenwet wet-economische-delicten wet-wapens-en-munitie,64,main
+2004-05-01,law,stb-2004-104,arbeidsomstandighedenwet,5,main
+2004-05-01,law,stb-2004-175,wet-arbeid-vreemdelingen,1,main
+2004-05-12,law,stb-2004-195,wetboek-van-strafrecht,1,main
+2004-05-15,law,stb-2002-250,wegenverkeerswet-1994,9,main
+2004-05-19,law,stb-2004-189,bw-boek-3 bw-boek-6 bw-boek-7 wetboek-van-strafvordering auteurswet wet-economische-delicten,11,main
+2004-06-01,law,stb-2004-109,wetboek-van-strafvordering,14,main
+2004-06-16,law,stb-2004-180,wetboek-van-strafrecht,5,main
+2004-06-30,law,stb-2004-210,bw-boek-1 wetboek-van-strafrecht bw-boek-2 bw-boek-3 bw-boek-6 wetboek-van-burgerlijke-rechtsvordering wet-economische-delicten,17,main
+2004-06-30,law,stb-2004-258,wetboek-van-burgerlijke-rechtsvordering,1,main
+2004-07-01,law,stb-2003-90,wet-economische-delicten,1,main
+2004-07-01,law,stb-2004-107,wetboek-van-strafrecht wetboek-van-strafvordering,21,main
+2004-07-01,law,stb-2004-184,wet-economische-delicten,1,main
+2004-07-01,law,stb-2004-214,awb,11,main
+2004-07-01,law,stb-2004-215,bw-boek-1 wetboek-van-strafrecht bw-boek-2 bw-boek-4 bw-boek-5 bw-boek-6 bw-boek-7 wetboek-van-burgerlijke-rechtsvordering awb auteurswet awr wegenverkeerswet-1994 gemeentewet wet-rechterlijke-organisatie wet-op-het-notarisambt wet-economische-delicten,57,main
+2004-07-01,law,stcrt-2004-118,participatiewet,6,main
+2004-07-01,law,stcrt-2004-120,algemene-ouderdomswet,2,main
+2004-07-14,law,stb-2004-328,bw-boek-7 wet-economische-delicten,2,main
+2004-07-23,law,stb-2004-363,participatiewet wet-inkomstenbelasting-2001,4,main
+2004-08-01,law,stb-2004-213,wet-op-het-notarisambt,49,main
+2004-08-01,law,stb-2004-345,wetboek-van-burgerlijke-rechtsvordering,5,main
+2004-08-10,law,stb-2004-290,wetboek-van-strafrecht wet-economische-delicten wet-wapens-en-munitie,42,main
+2004-08-16,law,stb-2004-371,gemeentewet provinciewet,5,main
+2004-09-01,law,stb-2004-105,wetboek-van-strafvordering wet-economische-delicten,9,main
+2004-09-01,law,stb-2004-211,auteurswet,1,main
+2004-09-01,law,stb-2004-220,awb awr,8,main
+2004-09-01,law,stb-2004-298,vreemdelingenwet-2000,2,main
+2004-09-01,law,stb-2004-299,vreemdelingenwet-2000,4,main
+2004-09-01,law,stb-2004-315,wetboek-van-strafvordering wetboek-van-burgerlijke-rechtsvordering wet-op-het-notarisambt advocatenwet,13,main
+2004-09-01,law,stb-2004-336,auteurswet,30,main
+2004-09-13,law,stb-2004-350,penitentiaire-beginselenwet,2,main
+2004-09-13,law,stb-2004-361,wet-economische-delicten,1,main
+2004-09-15,law,stb-2004-212,vreemdelingenwet-2000,2,main
+2004-09-15,law,stb-2004-320,woningwet,2,main
+2004-09-15,law,stb-2004-441,wet-economische-delicten,1,main
+2004-10-01,law,stb-2002-250,wegenverkeerswet-1994,6,main
+2004-10-01,law,stb-2004-314,bw-boek-3,1,main
+2004-10-01,law,stb-2004-323,arbeidsomstandighedenwet wet-economische-delicten,12,main
+2004-10-01,law,stb-2004-351,wetboek-van-strafrecht wetboek-van-strafvordering penitentiaire-beginselenwet,22,main
+2004-10-01,law,stb-2004-370,bw-boek-2 wetboek-van-burgerlijke-rechtsvordering,50,main
+2004-10-15,law,stb-2004-348,wet-economische-delicten,1,main
+2004-10-20,law,stb-2004-511,wet-milieubeheer,17,main
+2004-10-30,start,,wet-kinderopvang,107,main
+2004-10-30,law,stb-2004-455,werkloosheidswet wet-economische-delicten,6,main
+2004-11-01,law,stb-2001-531,wetboek-van-strafrecht,2,main
+2004-11-01,law,stb-2004-117,wetboek-van-strafrecht wetboek-van-koophandel,4,main
+2004-11-01,law,stb-2004-349,wet-economische-delicten,1,main
+2004-12-29,law,stb-2004-687,wegenverkeerswet-1994,2,main
+2004-12-29,law,stb-2004-697,wet-economische-delicten,1,main
+2004-12-30,law,stb-2004-712,wegenverkeerswet-1994 advocatenwet,7,main
+2004-12-30,law,stb-2004-731,werkloosheidswet,3,main
+2004-12-30,unexplained,,werkloosheidswet,1,main
+2004-12-31,law,stb-2004-683,wet-economische-delicten,1,main
+2005-01-01,law,stb-2000-610,gemeentewet,1,main
+2005-01-01,law,stb-2001-346,wet-milieubeheer,1,main
+2005-01-01,law,stb-2001-582,wet-rechterlijke-organisatie,2,main
+2005-01-01,law,stb-2003-203,bw-boek-2,2,main
+2005-01-01,law,stb-2003-264,wetboek-van-strafrecht wegenverkeerswet-1994,2,main
+2005-01-01,law,stb-2003-375,participatiewet,5,main
+2005-01-01,law,stb-2003-528,wet-inkomstenbelasting-2001 wet-vennootschapsbelasting-1969,6,main
+2005-01-01,law,stb-2003-533,wet-inkomstenbelasting-2001,1,main
+2005-01-01,law,stb-2003-544,participatiewet,2,main
+2005-01-01,law,stb-2004-306,bw-boek-1 wetboek-van-strafrecht wetboek-van-burgerlijke-rechtsvordering,39,main
+2005-01-01,law,stb-2004-300,wetboek-van-strafrecht wetboek-van-strafvordering awb wet-arbeid-vreemdelingen participatiewet awr wegenverkeerswet-1994 gemeentewet wet-loonbelasting-1964 wet-op-het-notarisambt,22,main
+2005-01-01,law,stb-2004-312,wet-loonbelasting-1964,3,main
+2005-01-01,law,stb-2004-325,awb,1,main
+2005-01-01,law,stb-2004-324,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,3,main
+2005-01-01,law,stb-2004-334,bw-boek-1,1,main
+2005-01-01,law,stb-2004-382,wetboek-van-strafvordering,6,main
+2005-01-01,law,stb-2004-455,wet-inkomstenbelasting-2001 wet-kinderopvang,17,main
+2005-01-01,law,stb-2004-474,wet-omzetbelasting-1968,5,main
+2005-01-01,law,stb-2004-493,awb gemeentewet provinciewet,15,main
+2005-01-01,law,stb-2004-511,wet-milieubeheer wet-economische-delicten,70,main
+2005-01-01,law,stb-2004-577,wetboek-van-strafvordering,5,main
+2005-01-01,law,stb-2004-578,wetboek-van-strafvordering,13,main
+2005-01-01,law,stb-2004-579,wetboek-van-strafrecht wetboek-van-strafvordering wet-rechterlijke-organisatie,24,main
+2005-01-01,law,stb-2004-580,wetboek-van-strafvordering,5,main
+2005-01-01,law,stb-2004-594,werkloosheidswet,3,main
+2005-01-01,law,stb-2004-645,wetboek-van-strafrecht bw-boek-3 wetboek-van-strafvordering vreemdelingenwet-2000,15,main
+2005-01-01,law,stb-2004-656,gemeentewet,2,main
+2005-01-01,law,stb-2004-672,awb wet-inkomstenbelasting-2001 awr gemeentewet wet-rechterlijke-organisatie successiewet-1956 provinciewet,47,main
+2005-01-01,law,stb-2004-653,wet-inkomstenbelasting-2001 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,37,main
+2005-01-01,law,stb-2004-654,wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 wet-kinderopvang,20,main
+2005-01-01,law,stcrt-2004-249,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 successiewet-1956,35,main
+2005-01-01,law,stb-2004-695,wet-economische-delicten,1,main
+2005-01-01,law,stcrt-2004-251,participatiewet,9,main
+2005-01-01,law,stb-2004-705,wet-arbeid-vreemdelingen,19,main
+2005-01-01,law,stb-2004-717,participatiewet werkloosheidswet algemene-ouderdomswet wet-kinderopvang,7,main
+2005-01-01,law,stb-2004-720,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 werkloosheidswet,12,main
+2005-01-01,law,stb-2004-728,werkloosheidswet algemene-ouderdomswet,20,main
+2005-01-01,law,stb-2004-733,participatiewet,3,main
+2005-01-01,law,stb-2005-115,wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,25,main
+2005-01-01,law,stb-2005-274,wet-loonbelasting-1964,3,main
+2005-01-01,law,stb-2005-434,participatiewet,1,main
+2005-01-01,unexplained,,awb,1,main
+2005-01-01,unexplained,,provinciewet,1,main
+2005-01-15,law,stb-2004-615,faillissementswet,61,main
+2005-02-01,law,stb-2004-465,wetboek-van-strafvordering penitentiaire-beginselenwet,6,main
+2005-02-01,law,stb-2004-581,wet-vennootschapsbelasting-1969,1,main
+2005-02-01,law,stb-2005-16,awb awr,4,main
+2005-02-01,law,stb-2005-24,wet-economische-delicten,1,main
+2005-02-05,law,stb-2004-743,gemeentewet wet-milieubeheer,4,main
+2005-02-08,law,stb-2005-52,grondwet,1,main
+2005-02-14,law,stb-2004-519,arbeidsomstandighedenwet wet-milieubeheer,16,main
+2005-02-14,unexplained,,wet-milieubeheer,1,main
+2005-02-15,law,stb-2004-691,vreemdelingenwet-2000,5,main
+2005-02-25,law,stb-2003-449,woningwet wet-milieubeheer wet-economische-delicten,25,main
+2005-02-25,law,stb-2004-517,wet-economische-delicten,1,main
+2005-03-01,law,stb-2004-657,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,30,main
+2005-03-01,law,stcrt-2004-249,wet-inkomstenbelasting-2001,1,main
+2005-03-01,law,stb-2004-687,wegenverkeerswet-1994,1,main
+2005-03-01,law,stb-2005-32,vreemdelingenwet-2000 wet-op-het-notarisambt advocatenwet,4,main
+2005-03-09,law,stb-2004-725,participatiewet,1,main
+2005-03-15,law,stb-2005-71,awb wet-rechterlijke-organisatie,27,main
+2005-03-16,law,stb-2004-686,wet-economische-delicten,3,main
+2005-03-29,law,stb-2004-728,werkloosheidswet,1,main
+2005-04-01,law,stb-2005-150,bw-boek-2 wet-economische-delicten,2,main
+2005-04-01,law,stb-2005-166,bw-boek-7,2,main
+2005-04-15,law,stb-2005-192,participatiewet wet-inkomstenbelasting-2001 wet-loonbelasting-1964 algemene-ouderdomswet,5,main
+2005-04-15,law,stcrt-2005-85,participatiewet,6,main
+2005-04-27,law,stb-2004-455,wet-kinderopvang,4,main
+2005-04-27,law,stb-2005-65,bw-boek-7,1,main
+2005-05-01,law,stb-2005-89,bw-boek-5,21,main
+2005-05-01,law,stb-2005-91,wet-economische-delicten,1,main
+2005-05-11,law,stb-2005-227,wet-inkomstenbelasting-2001,1,main
+2005-05-15,law,stb-2005-208,faillissementswet,39,main
+2005-05-18,law,stb-2005-49,wet-economische-delicten,1,main
+2005-05-20,law,stb-2005-164,wet-economische-delicten,1,main
+2005-06-01,law,stb-2005-233,wet-milieubeheer wet-economische-delicten,30,main
+2005-06-01,law,stb-2005-274,bw-boek-7 werkloosheidswet,8,main
+2005-06-15,law,stb-2005-175,wetboek-van-strafvordering,2,main
+2005-06-22,law,stb-2005-303,wet-milieubeheer,5,main
+2005-06-30,law,stb-2005-317,wet-milieubeheer wet-economische-delicten,9,main
+2005-07-01,law,stb-2002-54,awb,29,main
+2005-07-01,law,stb-2003-531,wet-inkomstenbelasting-2001,1,main
+2005-07-01,law,stb-2004-345,wetboek-van-burgerlijke-rechtsvordering,2,main
+2005-07-01,law,stb-2004-653,wet-omzetbelasting-1968,1,main
+2005-07-01,law,stb-2004-728,werkloosheidswet,4,main
+2005-07-01,law,stb-2005-194,wetboek-van-strafrecht wetboek-van-strafvordering wet-economische-delicten penitentiaire-beginselenwet,45,main
+2005-07-01,law,stb-2005-202,bw-boek-7 arbeidsomstandighedenwet,17,main
+2005-07-01,law,stb-2005-282,awb woningwet wet-milieubeheer,92,main
+2005-07-01,law,stb-2005-328,wet-economische-delicten,1,main
+2005-07-01,unexplained,,werkloosheidswet,1,main
+2005-07-08,law,stb-2005-341,wet-milieubeheer,3,main
+2005-07-20,law,stb-2004-347,wegenverkeerswet-1994,1,main
+2005-07-27,law,stb-2005-340,bw-boek-3 bw-boek-7 wetboek-van-burgerlijke-rechtsvordering,12,main
+2005-07-27,law,stb-2005-377,bw-boek-2,38,main
+2005-07-29,law,stb-2005-382,werkloosheidswet wet-kinderopvang,6,main
+2005-08-01,law,stb-2005-124,wet-inkomstenbelasting-2001,1,main
+2005-08-01,law,stb-2005-234,wetboek-van-strafvordering,1,main
+2005-08-01,law,stb-2005-310,wetboek-van-strafrecht wetboek-van-strafvordering,15,main
+2005-09-01,law,stb-2005-65,bw-boek-7,1,main
+2005-09-01,law,stb-2005-107,bw-boek-3 wetboek-van-burgerlijke-rechtsvordering faillissementswet wetboek-van-koophandel wet-op-het-notarisambt,25,main
+2005-09-01,law,stb-2005-281,wegenverkeerswet-1994,3,main
+2005-09-01,law,stb-2005-343,wet-kinderopvang,34,main
+2005-09-01,law,stb-2005-345,wetboek-van-burgerlijke-rechtsvordering awb participatiewet wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-kinderopvang,19,main
+2005-09-01,law,stb-2005-401,bw-boek-2 wet-economische-delicten,8,main
+2005-09-09,law,stb-2005-434,wet-arbeid-vreemdelingen wet-economische-delicten,3,main
+2005-09-30,law,stb-2005-472,werkloosheidswet,1,main
+2005-10-01,law,stb-1998-403,wet-milieubeheer,2,main
+2005-10-01,law,stb-2005-195,wet-economische-delicten,1,main
+2005-10-01,law,stb-2005-346,wetboek-van-strafvordering wet-economische-delicten,2,main
+2005-10-01,law,stb-2005-357,bw-boek-6 wegenverkeerswet-1994,2,main
+2005-10-01,unexplained,,awb,1,main
+2005-10-12,law,stb-2005-477,wet-milieubeheer,5,main
+2005-10-15,law,stb-2005-455,bw-boek-1 wetboek-van-strafrecht bw-boek-2 bw-boek-4 bw-boek-7 wetboek-van-strafvordering wetboek-van-burgerlijke-rechtsvordering wet-rechterlijke-organisatie faillissementswet,71,main
+2005-11-01,law,stb-2005-175,wetboek-van-strafvordering,19,main
+2005-11-02,law,stb-2005-534,bw-boek-3 gemeentewet provinciewet,40,main
+2005-11-10,law,stb-2005-428,wet-milieubeheer,13,main
+2005-11-30,law,stb-2005-593,wegenverkeerswet-1994,7,main
+2005-12-01,law,stb-2005-432,wet-milieubeheer,13,main
+2005-12-01,law,stb-2005-468,wet-vennootschapsbelasting-1969,5,main
+2005-12-01,law,stb-2005-491,wet-economische-delicten,2,main
+2005-12-01,law,stb-2005-600,faillissementswet,286,main
+2005-12-02,law,stb-2005-603,wet-inkomstenbelasting-2001 awr wet-vennootschapsbelasting-1969,15,main
+2005-12-09,start,,wet-wia,5,main
+2005-12-09,law,stb-2005-613,wet-inkomstenbelasting-2001 wet-vennootschapsbelasting-1969,13,main
+2005-12-20,unexplained,,algemene-ouderdomswet,2,main
+2005-12-28,law,stb-2005-705,woningwet wet-milieubeheer wet-economische-delicten,18,main
+2005-12-28,law,stb-2005-710,wet-wia,1,main
+2005-12-29,law,stb-2005-572,wet-wia,95,main
+2005-12-29,law,stb-2005-573,bw-boek-6 bw-boek-7 participatiewet wet-inkomstenbelasting-2001 arbeidsomstandighedenwet wetboek-van-koophandel wet-loonbelasting-1964 werkloosheidswet wet-wia algemene-ouderdomswet wet-kinderopvang,65,main
+2005-12-29,law,stb-2005-710,bw-boek-7 participatiewet arbeidsomstandighedenwet werkloosheidswet wet-wia algemene-ouderdomswet wet-kinderopvang,45,main
+2005-12-29,law,stb-2005-708,werkloosheidswet wet-wia algemene-ouderdomswet,5,main
+2005-12-30,law,stb-2005-726,bw-boek-7 woningwet,4,main
+2006-01-01,start,,zorgverzekeringswet,129,main
+2006-01-01,law,stb-2002-228,bw-boek-4,1,main
+2006-01-01,law,stb-2004-311,werkloosheidswet,1,main
+2006-01-01,law,stb-2004-653,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,5,main
+2006-01-01,law,stb-2004-687,wegenverkeerswet-1994,6,main
+2006-01-01,law,stb-2005-37,awb wet-inkomstenbelasting-2001 awr wetboek-van-koophandel wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 werkloosheidswet algemene-ouderdomswet,63,main
+2006-01-01,law,stb-2005-71,gemeentewet provinciewet,32,main
+2006-01-01,law,stb-2005-115,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,7,main
+2006-01-01,law,stb-2005-111,wetboek-van-strafrecht,5,main
+2006-01-01,law,stb-2005-274,wet-inkomstenbelasting-2001,1,main
+2006-01-01,law,stb-2005-276,wet-inkomstenbelasting-2001,1,main
+2006-01-01,law,stb-2005-280,penitentiaire-beginselenwet,4,main
+2006-01-01,law,stb-2005-283,wegenverkeerswet-1994,4,main
+2006-01-01,law,stb-2005-339,bw-boek-7 participatiewet faillissementswet,8,main
+2006-01-01,law,stb-2005-390,wetboek-van-strafvordering,26,main
+2006-01-01,law,stb-2005-525,wetboek-van-strafrecht bw-boek-2 bw-boek-7 participatiewet wet-inkomstenbelasting-2001 woningwet wetboek-van-koophandel wet-loonbelasting-1964 werkloosheidswet algemene-ouderdomswet,23,main
+2006-01-01,law,stb-2005-526,wet-inkomstenbelasting-2001 wet-op-het-notarisambt,6,main
+2006-01-01,law,stb-2005-573,werkloosheidswet wet-wia,10,main
+2006-01-01,law,stb-2005-603,wet-loonbelasting-1964,1,main
+2006-01-01,law,stb-2005-595,wetboek-van-strafrecht,3,main
+2006-01-01,law,stb-2005-623,wet-economische-delicten,1,main
+2006-01-01,law,stb-2005-625,participatiewet,1,main
+2006-01-01,law,stcrt-2005-248,participatiewet,8,main
+2006-01-01,law,stb-2005-666,woningwet wet-milieubeheer provinciewet,9,main
+2006-01-01,law,stb-2005-668,wet-milieubeheer,1,main
+2006-01-01,law,stb-2005-680,woningwet wet-economische-delicten,2,main
+2006-01-01,law,stcrt-2005-251,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,35,main
+2006-01-01,law,stb-2005-683,participatiewet wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,65,main
+2006-01-01,law,stb-2005-684,wet-vennootschapsbelasting-1969,11,main
+2006-01-01,law,stb-2005-691,participatiewet wet-inkomstenbelasting-2001 wet-kinderopvang,7,main
+2006-01-01,law,stb-2005-693,wet-loonbelasting-1964,3,main
+2006-01-01,law,stb-2005-710,werkloosheidswet wet-wia,4,main
+2006-01-01,law,stb-2005-708,bw-boek-7 wet-loonbelasting-1964 werkloosheidswet algemene-ouderdomswet,18,main
+2006-01-01,law,stb-2005-713,participatiewet algemene-ouderdomswet,6,main
+2006-01-01,law,stb-2005-718,werkloosheidswet algemene-ouderdomswet,3,main
+2006-01-01,law,stb-2005-725,gemeentewet,7,main
+2006-01-01,law,stb-2006-1,bw-boek-7 wetboek-van-burgerlijke-rechtsvordering faillissementswet,78,main
+2006-01-01,law,stb-2006-2,bw-boek-3 bw-boek-4 bw-boek-6 wetboek-van-koophandel,159,main
+2006-01-01,unexplained,,faillissementswet,1,main
+2006-01-01,unexplained,,successiewet-1956,1,main
+2006-01-01,unexplained,,werkloosheidswet,17,main
+2006-01-01,unexplained,,wetboek-van-koophandel,1,main
+2006-01-20,law,stb-2006-15,bw-boek-7 faillissementswet,15,main
+2006-01-20,law,stb-2006-25,auteurswet,1,main
+2006-02-01,law,stb-2005-184,wet-rechterlijke-organisatie wet-economische-delicten,3,main
+2006-02-01,law,stb-2005-392,gemeentewet,1,main
+2006-02-01,law,stb-2006-11,wetboek-van-strafrecht awr wegenverkeerswet-1994 wet-wapens-en-munitie,105,main
+2006-02-01,law,stb-2006-26,awb awr,4,main
+2006-02-01,law,stb-2006-24,wetboek-van-strafrecht bw-boek-2 bw-boek-4 bw-boek-6 wetboek-van-strafvordering wetboek-van-burgerlijke-rechtsvordering awb vreemdelingenwet-2000 wet-rechterlijke-organisatie faillissementswet wet-kinderopvang wet-economische-delicten penitentiaire-beginselenwet,35,main
+2006-02-01,law,stb-2006-29,bw-boek-7,1,main
+2006-02-01,unexplained,,wetboek-van-strafrecht,1,main
+2006-02-03,law,stb-2006-44,wet-vennootschapsbelasting-1969,1,main
+2006-02-21,law,stb-2005-480,wet-economische-delicten,1,main
+2006-02-22,law,stb-2006-68,wet-economische-delicten,1,main
+2006-03-01,law,stb-2006-3,wet-economische-delicten,1,main
+2006-03-01,law,stb-2006-29,bw-boek-7,1,main
+2006-03-08,law,stb-2002-111,gemeentewet,1,main
+2006-03-08,law,stb-2005-530,bw-boek-1 wegenverkeerswet-1994 woningwet wet-milieubeheer werkloosheidswet algemene-ouderdomswet,31,main
+2006-03-08,law,stb-2005-532,woningwet wet-milieubeheer provinciewet,10,main
+2006-03-15,law,stb-2006-28,vreemdelingenwet-2000,1,main
+2006-04-01,law,stb-2005-254,wetboek-van-strafrecht wetboek-van-strafvordering,15,main
+2006-04-01,law,stb-2005-255,wetboek-van-strafrecht,1,main
+2006-04-01,law,stb-2006-9,wet-op-het-notarisambt,1,main
+2006-04-01,law,stb-2006-60,auteurswet,16,main
+2006-04-01,law,stb-2006-167,werkloosheidswet wet-wia wet-kinderopvang,4,main
+2006-04-06,law,stb-2006-170,grondwet,1,main
+2006-04-08,law,stb-2005-683,wet-inkomstenbelasting-2001 wet-vennootschapsbelasting-1969,4,main
+2006-04-08,law,stb-2006-184,wet-inkomstenbelasting-2001,4,main
+2006-05-01,law,stb-2002-613,wet-inkomstenbelasting-2001,1,main
+2006-05-01,law,stb-2006-123,bw-boek-1 wetboek-van-burgerlijke-rechtsvordering,4,main
+2006-05-01,law,stb-2006-189,wet-milieubeheer,15,main
+2006-05-12,law,stb-2006-236,wet-wapens-en-munitie,3,main
+2006-05-25,law,stb-2006-134,woningwet,2,main
+2006-06-01,law,stb-2006-180,bw-boek-2,8,main
+2006-06-28,law,stb-2006-287,wet-inkomstenbelasting-2001,1,main
+2006-06-30,law,stb-2006-303,werkloosheidswet,54,main
+2006-07-01,law,stb-2002-54,gemeentewet provinciewet,2,main
+2006-07-01,law,stb-2005-282,wet-milieubeheer,1,main
+2006-07-01,law,stb-2005-708,wet-loonbelasting-1964,1,main
+2006-07-01,law,stb-2006-292,opiumwet,7,main
+2006-07-01,law,stb-2006-303,werkloosheidswet,10,main
+2006-07-01,law,stb-2006-307,bw-boek-7,2,main
+2006-07-01,law,stcrt-2006-129,participatiewet,6,main
+2006-07-01,unexplained,,wet-inkomstenbelasting-2001,1,main
+2006-07-07,law,stb-2006-310,wetboek-van-strafrecht,1,main
+2006-07-14,law,stb-2006-321,wegenverkeerswet-1994,11,main
+2006-07-15,law,stb-2006-270,bw-boek-7,1,main
+2006-07-19,law,stb-2006-325,wetboek-van-koophandel,4,main
+2006-08-01,law,stb-2004-344,wetboek-van-strafrecht,1,main
+2006-08-01,law,stb-2006-235,wet-inkomstenbelasting-2001 wet-vennootschapsbelasting-1969,2,main
+2006-08-02,law,stb-2006-356,wetboek-van-burgerlijke-rechtsvordering,1,main
+2006-08-18,law,stb-2005-683,awr,1,main
+2006-08-18,law,stb-2006-361,bw-boek-7,2,main
+2006-09-01,law,stb-2006-300,wetboek-van-strafrecht wetboek-van-strafvordering,59,main
+2006-09-01,law,stb-2006-349,participatiewet,1,main
+2006-09-08,law,stb-2004-653,wet-vennootschapsbelasting-1969,1,main
+2006-09-28,law,stb-2006-336,wet-milieubeheer,55,main
+2006-10-01,law,stb-2005-674,wet-milieubeheer wet-economische-delicten,7,main
+2006-10-01,law,stb-2006-70,gemeentewet provinciewet,6,main
+2006-10-01,law,stb-2006-303,werkloosheidswet wet-wia wet-kinderopvang,58,main
+2006-10-01,law,stb-2006-321,wegenverkeerswet-1994,14,main
+2006-10-01,law,stb-2006-322,wegenverkeerswet-1994,20,main
+2006-10-01,law,stb-2006-355,bw-boek-2,1,main
+2006-10-01,law,stb-2006-415,participatiewet zorgverzekeringswet wet-economische-delicten,44,main
+2006-10-01,unexplained,,werkloosheidswet,2,main
+2006-10-01,unexplained,,zorgverzekeringswet,1,main
+2006-10-11,law,stb-2006-240,grondwet,2,main
+2006-10-11,law,stb-2006-373,vreemdelingenwet-2000 participatiewet,5,main
+2006-10-11,law,stb-2006-418,awb gemeentewet provinciewet,3,main
+2006-10-13,law,stb-2006-425,bw-boek-2 wet-economische-delicten,2,main
+2006-10-13,law,stcrt-2006-198,wet-inkomstenbelasting-2001,2,main
+2006-10-18,law,stb-2006-469,bw-boek-7,2,main
+2006-10-25,law,stb-2006-474,bw-boek-2,2,main
+2006-11-01,law,stb-2006-24,wetboek-van-strafvordering,1,main
+2006-11-01,law,stb-2006-460,wetboek-van-strafvordering,21,main
+2006-11-22,law,stb-2006-558,algemene-ouderdomswet,4,main
+2006-11-29,law,stb-2006-137,wetboek-van-strafrecht wegenverkeerswet-1994 wet-economische-delicten,9,main
+2006-12-01,law,stb-2006-584,vreemdelingenwet-2000,8,main
+2006-12-08,law,stb-2006-616,wegenverkeerswet-1994,1,main
+2006-12-13,law,stb-2006-593,wetboek-van-strafrecht awb participatiewet awr wet-milieubeheer wet-op-het-notarisambt,9,main
+2006-12-13,law,stb-2006-629,zorgverzekeringswet,3,main
+2006-12-13,law,stb-2006-636,wet-economische-delicten,1,main
+2006-12-20,law,stb-2006-647,bw-boek-7 wet-arbeid-vreemdelingen wet-kinderopvang,10,main
+2006-12-23,law,stb-2006-703,werkloosheidswet wet-wia,8,main
+2006-12-29,law,stb-2006-591,bw-boek-3 wet-economische-delicten,2,main
+2006-12-31,law,stb-2006-569,bw-boek-2 wetboek-van-burgerlijke-rechtsvordering wet-economische-delicten,14,main
+2006-12-31,unexplained,,wetboek-van-burgerlijke-rechtsvordering,1,main
+2007-01-01,start,,wft,733,main
+2007-01-01,law,stb-2004-656,wet-inkomstenbelasting-2001 gemeentewet,7,main
+2007-01-01,law,stb-2004-653,successiewet-1956,1,main
+2007-01-01,law,stb-2005-388,wetboek-van-strafrecht wetboek-van-strafvordering vreemdelingenwet-2000 wet-economische-delicten,4,main
+2007-01-01,law,stb-2005-470,wetboek-van-strafvordering,2,main
+2007-01-01,law,stb-2005-525,zorgverzekeringswet,1,main
+2007-01-01,law,stb-2005-573,wet-wia,1,main
+2007-01-01,law,stb-2005-725,gemeentewet,1,main
+2007-01-01,law,stb-2006-303,werkloosheidswet,5,main
+2007-01-01,law,stb-2006-351,bw-boek-7 woningwet wet-kinderopvang,5,main
+2007-01-01,law,stb-2006-350,wet-milieubeheer,2,main
+2007-01-01,law,stb-2006-446,wet-economische-delicten,1,main
+2007-01-01,law,stcrt-2006-198,wet-inkomstenbelasting-2001,1,main
+2007-01-01,law,stb-2006-525,bw-boek-2,17,main
+2007-01-01,law,stcrt-2006-227,gemeentewet,1,main
+2007-01-01,law,stb-2006-607,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,3,main
+2007-01-01,law,stb-2006-605,bw-boek-1 bw-boek-2 bw-boek-7 wetboek-van-strafvordering wetboek-van-burgerlijke-rechtsvordering participatiewet zorgverzekeringswet wet-inkomstenbelasting-2001 awr faillissementswet wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 wet-op-het-notarisambt,94,main
+2007-01-01,law,stb-2006-625,vreemdelingenwet-2000 participatiewet wet-kinderopvang,7,main
+2007-01-01,law,stb-2006-631,wet-inkomstenbelasting-2001 awr wet-vennootschapsbelasting-1969,55,main
+2007-01-01,law,stb-2006-644,awb zorgverzekeringswet opiumwet,18,main
+2007-01-01,law,stb-2006-666,wet-economische-delicten,1,main
+2007-01-01,law,stb-2006-673,bw-boek-7 wet-arbeid-vreemdelingen arbeidsomstandighedenwet wet-wia,63,main
+2007-01-01,law,stb-2006-703,bw-boek-7 werkloosheidswet wet-wia,29,main
+2007-01-01,law,stb-2006-706,bw-boek-3 bw-boek-7 wet-inkomstenbelasting-2001 wet-rechterlijke-organisatie wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 wet-op-het-notarisambt,19,main
+2007-01-01,law,stb-2006-681,wet-inkomstenbelasting-2001 awr wet-loonbelasting-1964,13,main
+2007-01-01,law,stb-2006-682,bw-boek-7 wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956 wet-kinderopvang,58,main
+2007-01-01,law,stcrt-2006-251,participatiewet,10,main
+2007-01-01,law,stb-2006-712,participatiewet,2,main
+2007-01-01,law,stcrt-2006-252,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,46,main
+2007-01-01,unexplained,,provinciewet,1,main
+2007-01-01,unexplained,,wet-vennootschapsbelasting-1969,3,main
+2007-01-05,law,stb-2006-457,wet-economische-delicten,1,main
+2007-02-01,law,stb-2006-580,wetboek-van-strafrecht wetboek-van-strafvordering,46,main
+2007-02-01,law,stb-2006-600,wetboek-van-strafrecht bw-boek-2,2,main
+2007-02-01,law,stb-2007-16,bw-boek-3 bw-boek-5 wet-economische-delicten,3,main
+2007-02-01,law,stb-2007-28,awb awr,4,main
+2007-02-18,law,stcrt-2007-34,wft,1,main
+2007-03-01,law,stb-2005-32,vreemdelingenwet-2000 wet-op-het-notarisambt advocatenwet,4,main
+2007-03-01,law,stb-2006-470,wetboek-van-strafvordering wet-rechterlijke-organisatie,32,main
+2007-03-09,law,stb-2007-84,wet-vennootschapsbelasting-1969,1,main
+2007-03-14,law,stb-2006-616,wegenverkeerswet-1994,33,main
+2007-03-15,law,stb-2005-185,provinciewet,1,main
+2007-03-16,law,stb-2007-90,wet-milieubeheer,19,main
+2007-03-30,law,stb-2005-483,wet-milieubeheer wet-economische-delicten,13,main
+2007-04-01,law,stb-2006-351,woningwet,1,main
+2007-04-01,law,stb-2006-632,bw-boek-7,1,main
+2007-04-01,law,stb-2006-682,provinciewet,1,main
+2007-04-01,law,stb-2007-27,bw-boek-7 woningwet wet-economische-delicten,80,main
+2007-04-06,law,stb-2007-124,gemeentewet provinciewet,6,main
+2007-04-11,law,stb-2005-683,wet-inkomstenbelasting-2001,4,main
+2007-04-11,law,stb-2007-123,bw-boek-3,2,main
+2007-04-25,law,stb-2007-145,bw-boek-1,1,main
+2007-05-01,law,stb-2006-303,werkloosheidswet,4,main
+2007-05-01,law,stb-2006-589,bw-boek-1 wetboek-van-burgerlijke-rechtsvordering,41,main
+2007-05-01,law,stb-2006-703,werkloosheidswet,3,main
+2007-05-01,law,stb-2007-108,wetboek-van-burgerlijke-rechtsvordering auteurswet,17,main
+2007-05-09,law,stb-2007-160,wetboek-van-strafrecht bw-boek-3 wetboek-van-strafvordering vreemdelingenwet-2000,8,main
+2007-06-01,law,stb-2000-551,gemeentewet,1,main
+2007-06-01,law,stb-2006-285,wetboek-van-strafvordering wet-rechterlijke-organisatie wet-wapens-en-munitie,15,main
+2007-06-01,law,stb-2007-58,wet-economische-delicten,1,main
+2007-06-01,law,stb-2007-181,wet-milieubeheer wet-economische-delicten,24,main
+2007-06-11,law,stb-2007-194,wft,2,main
+2007-07-01,law,stb-2005-683,wet-inkomstenbelasting-2001 wet-vennootschapsbelasting-1969,10,main
+2007-07-01,law,stb-2006-470,wetboek-van-strafvordering,6,main
+2007-07-01,law,stb-2006-629,zorgverzekeringswet,1,main
+2007-07-01,law,stb-2007-92,bw-boek-7,3,main
+2007-07-01,law,stb-2007-93,wet-economische-delicten,1,main
+2007-07-01,law,stb-2007-115,opiumwet gemeentewet woningwet,4,main
+2007-07-01,law,stcrt-2007-118,participatiewet,7,main
+2007-07-04,law,stb-2007-230,wetboek-van-strafvordering,1,main
+2007-07-12,law,stb-2007-248,wet-milieubeheer wet-economische-delicten,16,main
+2007-07-18,law,stb-2007-232,wet-economische-delicten,1,main
+2007-07-18,law,stb-2007-257,wet-wapens-en-munitie,1,main
+2007-07-20,law,stb-2007-18,wet-economische-delicten,1,main
+2007-08-01,law,stb-2007-269,wet-inkomstenbelasting-2001 wet-vennootschapsbelasting-1969,6,main
+2007-08-01,law,stb-2007-270,wet-vennootschapsbelasting-1969,1,main
+2007-09-01,law,stb-2006-300,wetboek-van-strafrecht,1,main
+2007-09-01,law,stb-2006-611,wet-milieubeheer,36,main
+2007-09-01,law,stb-2006-666,bw-boek-7,1,main
+2007-09-01,law,stb-2007-42,woningwet wet-milieubeheer,3,main
+2007-09-01,law,stb-2007-164,gemeentewet,1,main
+2007-09-01,law,stb-2007-163,bw-boek-7 wetboek-van-burgerlijke-rechtsvordering wet-rechterlijke-organisatie,111,main
+2007-09-01,law,stb-2007-200,wet-inkomstenbelasting-2001,3,main
+2007-09-01,law,stb-2007-252,vreemdelingenwet-2000,2,main
+2007-09-01,unexplained,,bw-boek-7,10,main
+2007-09-28,law,stb-2007-220,wet-economische-delicten,1,main
+2007-10-01,law,stb-2006-647,wet-kinderopvang,1,main
+2007-10-01,unexplained,,awb,1,main
+2007-10-17,law,stb-2007-125,wet-milieubeheer wet-economische-delicten,2,main
+2007-10-24,law,stb-2007-383,wet-milieubeheer wet-economische-delicten,11,main
+2007-10-28,law,stb-2007-202,bw-boek-2 wft wet-economische-delicten,28,main
+2007-10-31,law,stb-2007-395,bw-boek-7 wetboek-van-burgerlijke-rechtsvordering wet-rechterlijke-organisatie,30,main
+2007-10-31,unexplained,,bw-boek-7,5,main
+2007-11-01,law,stb-2007-355,opiumwet,1,main
+2007-11-01,law,stb-2007-406,bw-boek-2 wft wet-inkomstenbelasting-2001 awr wet-vennootschapsbelasting-1969 wet-economische-delicten,170,main
+2007-11-03,law,stb-2007-418,participatiewet wet-inkomstenbelasting-2001,7,main
+2007-11-15,law,stb-2007-414,wet-milieubeheer,33,main
+2007-11-29,law,stcrt-2007-230,wet-inkomstenbelasting-2001,2,main
+2007-12-01,law,stb-2007-354,wetboek-van-strafvordering,1,main
+2007-12-05,law,stb-2007-375,advocatenwet,4,main
+2007-12-12,law,stb-2007-490,wet-inkomstenbelasting-2001,1,main
+2007-12-19,law,stb-2007-450,vreemdelingenwet-2000,4,main
+2007-12-21,law,stb-2007-530,wet-op-het-notarisambt advocatenwet,4,main
+2007-12-21,law,stb-2007-540,zorgverzekeringswet,7,main
+2007-12-22,law,stb-2007-553,werkloosheidswet,3,main
+2007-12-29,law,stb-2007-208,awb provinciewet,2,main
+2007-12-29,law,stb-2007-570,gemeentewet,2,main
+2008-01-01,start,,wet-politiegegevens,53,main
+2008-01-01,law,stb-2001-346,wet-milieubeheer,2,main
+2008-01-01,law,stb-2005-525,zorgverzekeringswet,1,main
+2008-01-01,law,stb-2005-683,wet-vennootschapsbelasting-1969 successiewet-1956,2,main
+2008-01-01,law,stb-2006-303,wet-wia,1,main
+2008-01-01,law,stb-2006-606,wet-milieubeheer,21,main
+2008-01-01,law,stb-2006-703,wet-wia,3,main
+2008-01-01,law,stb-2006-682,wet-inkomstenbelasting-2001,1,main
+2008-01-01,law,stb-2007-27,woningwet,1,main
+2008-01-01,law,stb-2007-42,wet-milieubeheer,7,main
+2008-01-01,law,stb-2007-105,gemeentewet,1,main
+2008-01-01,law,stb-2007-192,wetboek-van-strafrecht wetboek-van-strafvordering wetboek-van-burgerlijke-rechtsvordering faillissementswet,68,main
+2008-01-01,law,stb-2007-224,wet-milieubeheer,3,main
+2008-01-01,law,stb-2007-276,gemeentewet wet-milieubeheer,10,main
+2008-01-01,law,stb-2007-302,werkloosheidswet,2,main
+2008-01-01,law,stb-2007-300,wetboek-van-strafvordering,2,main
+2008-01-01,law,stb-2007-349,woningwet wet-milieubeheer,13,main
+2008-01-01,law,stb-2007-376,zorgverzekeringswet wet-inkomstenbelasting-2001 awr gemeentewet wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,22,main
+2008-01-01,law,stb-2007-442,wegenverkeerswet-1994,3,main
+2008-01-01,law,stb-2007-449,wet-economische-delicten,1,main
+2008-01-01,law,stb-2007-456,wetboek-van-strafrecht,1,main
+2008-01-01,law,stb-2007-463,wet-omzetbelasting-1968,13,main
+2008-01-01,law,stcrt-2007-230,wet-inkomstenbelasting-2001,1,main
+2008-01-01,law,stb-2007-465,wetboek-van-strafrecht,2,main
+2008-01-01,law,stb-2007-480,zorgverzekeringswet,1,main
+2008-01-01,law,stb-2007-490,zorgverzekeringswet,14,main
+2008-01-01,law,stb-2007-503,wet-inkomstenbelasting-2001 awr gemeentewet wet-loonbelasting-1964 provinciewet,20,main
+2008-01-01,law,stb-2007-540,zorgverzekeringswet,2,main
+2008-01-01,law,stb-2007-551,wet-arbeid-vreemdelingen participatiewet arbeidsomstandighedenwet werkloosheidswet wet-wia algemene-ouderdomswet wet-economische-delicten,20,main
+2008-01-01,law,stb-2007-553,wet-wia,2,main
+2008-01-01,law,stb-2007-555,participatiewet werkloosheidswet wet-wia algemene-ouderdomswet,10,main
+2008-01-01,law,stb-2007-557,wet-wia,3,main
+2008-01-01,law,stcrt-2007-248,participatiewet,10,main
+2008-01-01,law,stb-2007-562,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,21,main
+2008-01-01,law,stb-2007-563,participatiewet wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,16,main
+2008-01-01,law,stb-2007-564,participatiewet werkloosheidswet wet-wia,12,main
+2008-01-01,law,stcrt-2007-251,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,42,main
+2008-01-01,law,stb-2007-577,wetboek-van-burgerlijke-rechtsvordering wft wet-inkomstenbelasting-2001 wet-vennootschapsbelasting-1969,21,main
+2008-01-01,law,stb-2007-578,bw-boek-1,1,main
+2008-01-01,unexplained,,algemene-ouderdomswet,1,main
+2008-01-01,unexplained,,wet-milieubeheer,1,main
+2008-01-01,unexplained,,wet-wia,1,main
+2008-01-01,unexplained,,zorgverzekeringswet,1,main
+2008-01-23,law,stcrt-2008-14,wft,1,main
+2008-02-01,law,stb-2005-175,wetboek-van-strafvordering,2,main
+2008-02-01,law,stb-2006-330,wetboek-van-strafrecht wetboek-van-strafvordering wet-inkomstenbelasting-2001 wegenverkeerswet-1994 gemeentewet wet-loonbelasting-1964 wet-economische-delicten,68,main
+2008-02-01,law,stb-2007-160,wetboek-van-strafrecht wetboek-van-strafvordering wegenverkeerswet-1994,4,main
+2008-02-01,law,stb-2007-256,wet-economische-delicten,1,main
+2008-02-01,law,stb-2007-575,wetboek-van-strafrecht wetboek-van-strafvordering,19,main
+2008-02-01,law,stb-2008-20,awb awr,4,main
+2008-02-15,law,stcrt-2008-31,wet-inkomstenbelasting-2001,1,main
+2008-02-27,law,stb-2008-51,wet-kinderopvang,11,main
+2008-03-01,law,stb-2007-545,werkloosheidswet,7,main
+2008-03-15,law,stb-2008-28,wet-milieubeheer wet-economische-delicten,23,main
+2008-03-26,law,stb-2008-85,bw-boek-1 wetboek-van-strafrecht bw-boek-2 bw-boek-4 bw-boek-5 bw-boek-7 wetboek-van-strafvordering wetboek-van-burgerlijke-rechtsvordering auteurswet vreemdelingenwet-2000 wet-rechterlijke-organisatie faillissementswet wet-op-het-notarisambt advocatenwet penitentiaire-beginselenwet wet-wapens-en-munitie,96,main
+2008-03-28,law,stb-2008-87,participatiewet,3,main
+2008-04-01,law,stb-2007-427,wet-milieubeheer,5,main
+2008-04-01,law,stb-2008-95,wet-economische-delicten,1,main
+2008-04-25,law,stb-2008-115,vreemdelingenwet-2000,3,main
+2008-05-01,law,stb-2001-625,algemene-ouderdomswet,1,main
+2008-05-01,law,stb-2005-572,wet-wia,1,main
+2008-05-01,law,stb-2007-551,werkloosheidswet,1,main
+2008-05-01,law,stb-2008-70,bw-boek-3 bw-boek-7 faillissementswet,3,main
+2008-05-01,law,stb-2008-77,wet-milieubeheer wet-economische-delicten,15,main
+2008-05-01,law,stb-2008-84,vreemdelingenwet-2000,12,main
+2008-05-09,law,stb-2008-148,wetboek-van-strafrecht wetboek-van-strafvordering,6,main
+2008-05-09,unexplained,,wetboek-van-strafvordering,1,main
+2008-06-01,law,stb-2007-181,bw-boek-6 wet-milieubeheer,27,main
+2008-06-01,law,stb-2007-540,zorgverzekeringswet,2,main
+2008-06-01,law,stb-2008-164,zorgverzekeringswet,7,main
+2008-06-01,law,stb-2008-166,wet-milieubeheer wet-economische-delicten,18,main
+2008-06-04,law,stb-2008-192,werkloosheidswet wet-wia,2,main
+2008-06-11,law,stb-2008-195,bw-boek-2,10,main
+2008-06-13,law,stb-2008-199,bw-boek-6 wet-wia,4,main
+2008-06-13,law,stb-2008-197,bw-boek-7 participatiewet woningwet wet-milieubeheer wet-economische-delicten,17,main
+2008-06-25,law,stb-2008-217,bw-boek-2,7,main
+2008-06-27,law,stb-2008-229,participatiewet,1,main
+2008-06-28,law,stb-2008-243,bw-boek-2 gemeentewet wet-economische-delicten provinciewet,8,main
+2008-07-01,law,stb-2007-153,bw-boek-2 bw-boek-6 participatiewet wetboek-van-koophandel wet-economische-delicten,7,main
+2008-07-01,law,stb-2007-158,wet-economische-delicten,1,main
+2008-07-01,law,stb-2007-500,wetboek-van-strafrecht wetboek-van-strafvordering wet-rechterlijke-organisatie penitentiaire-beginselenwet,18,main
+2008-07-01,law,stb-2008-99,wegenverkeerswet-1994,18,main
+2008-07-01,law,stb-2008-120,bw-boek-6,1,main
+2008-07-01,law,stb-2008-132,participatiewet,1,main
+2008-07-01,law,stb-2008-173,wet-milieubeheer,1,main
+2008-07-01,law,stb-2008-180,bw-boek-7 gemeentewet woningwet wet-milieubeheer wet-economische-delicten,21,main
+2008-07-01,law,stb-2008-197,woningwet,9,main
+2008-07-01,law,stb-2008-200,awb,13,main
+2008-07-01,law,stcrt-2008-115,participatiewet,7,main
+2008-07-11,law,stb-2008-262,wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 awr gemeentewet wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 provinciewet,27,main
+2008-07-15,law,stb-2008-260,bw-boek-2,16,main
+2008-07-15,law,stb-2008-348,grondwet,6,main
+2008-07-16,law,stb-2008-271,zorgverzekeringswet,3,main
+2008-07-18,law,stb-2008-284,participatiewet,2,main
+2008-07-19,law,stb-1999-235,wet-economische-delicten,1,main
+2008-08-01,law,stb-2008-112,wet-omzetbelasting-1968 awr opiumwet wet-milieubeheer wet-wapens-en-munitie,33,main
+2008-08-01,law,stb-2008-262,wet-wapens-en-munitie,1,main
+2008-08-01,law,stb-2008-277,zorgverzekeringswet,1,main
+2008-08-01,law,stb-2008-303,wet-arbeid-vreemdelingen awr arbeidsomstandighedenwet wet-loonbelasting-1964 wet-economische-delicten,13,main
+2008-08-01,law,stb-2008-312,participatiewet gemeentewet provinciewet,5,main
+2008-08-01,law,stb-2008-314,bw-boek-7 wft,2,main
+2008-08-01,unexplained,,awr,1,main
+2008-09-01,law,stb-2008-85,bw-boek-1,2,main
+2008-09-01,law,stb-2008-100,bw-boek-1 wetboek-van-strafrecht bw-boek-2 bw-boek-3 bw-boek-4 wetboek-van-strafvordering wetboek-van-burgerlijke-rechtsvordering awb wft awr gemeentewet wet-rechterlijke-organisatie faillissementswet wet-op-het-notarisambt advocatenwet provinciewet,123,main
+2008-09-01,law,stb-2008-265,wet-inkomstenbelasting-2001,1,main
+2008-09-01,law,stb-2008-333,bw-boek-2 wft,111,main
+2008-09-10,law,stb-2006-616,wegenverkeerswet-1994,2,main
+2008-09-10,law,stb-2007-166,wegenverkeerswet-1994,16,main
+2008-09-24,law,stb-2007-166,wegenverkeerswet-1994,1,main
+2008-10-01,law,stb-2008-109,wet-economische-delicten,1,main
+2008-10-01,law,stb-2008-120,wet-economische-delicten,1,main
+2008-10-06,unexplained,,wet-vennootschapsbelasting-1969,1,main
+2008-10-11,law,stb-2008-394,wft,4,main
+2008-10-15,law,stb-2008-397,bw-boek-3 bw-boek-6 bw-boek-7,15,main
+2008-11-01,law,stb-2008-414,bw-boek-7 wet-wia,5,main
+2008-11-07,law,stb-2008-428,wegenverkeerswet-1994,9,main
+2008-11-12,law,stb-2008-431,wet-economische-delicten,1,main
+2008-11-26,law,stb-2008-478,wet-milieubeheer,24,main
+2008-11-26,law,stb-2008-469,bw-boek-2,4,main
+2008-12-01,law,stb-2008-405,awb,1,main
+2008-12-01,law,stb-2008-485,wet-omzetbelasting-1968,2,main
+2008-12-19,law,stb-2008-510,werkloosheidswet wet-wia algemene-ouderdomswet,6,main
+2008-12-19,law,stb-2008-538,gemeentewet,3,main
+2008-12-23,law,stb-2008-550,bw-boek-2,6,main
+2008-12-25,law,stb-2008-428,wegenverkeerswet-1994,5,main
+2008-12-30,law,stb-2008-567,wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,24,main
+2009-01-01,law,stb-2005-233,wet-milieubeheer,1,main
+2009-01-01,law,stb-2007-375,wetboek-van-strafvordering,1,main
+2009-01-01,law,stb-2007-490,zorgverzekeringswet,2,main
+2009-01-01,law,stb-2007-562,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,13,main
+2009-01-01,law,stb-2007-563,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,2,main
+2009-01-01,law,stb-2008-262,wet-inkomstenbelasting-2001 awr gemeentewet,4,main
+2009-01-01,law,stb-2008-269,wet-inkomstenbelasting-2001 awr,15,main
+2009-01-01,law,stb-2008-421,wetboek-van-strafvordering,1,main
+2009-01-01,law,stb-2008-425,bw-boek-1,3,main
+2009-01-01,law,stb-2008-428,wegenverkeerswet-1994,2,main
+2009-01-01,law,stb-2008-476,bw-boek-2 wft,32,main
+2009-01-01,law,stcrt-2008-228,zorgverzekeringswet,1,main
+2009-01-01,law,stb-2008-526,zorgverzekeringswet,1,main
+2009-01-01,law,stb-2008-536,gemeentewet provinciewet,2,main
+2009-01-01,law,stb-2008-545,bw-boek-2 wetboek-van-strafvordering wft faillissementswet wet-economische-delicten,191,main
+2009-01-01,law,stb-2008-547,wet-inkomstenbelasting-2001 awr wet-loonbelasting-1964,11,main
+2009-01-01,law,stb-2008-569,wet-kinderopvang,1,main
+2009-01-01,law,stb-2008-565,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,31,main
+2009-01-01,law,stb-2008-566,wet-inkomstenbelasting-2001 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 wet-kinderopvang,18,main
+2009-01-01,law,stcrt-2008-252,participatiewet wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,43,main
+2009-01-01,law,stb-2008-583,auteurswet,2,main
+2009-01-01,law,stb-2008-586,bw-boek-1 participatiewet wet-inkomstenbelasting-2001 faillissementswet,23,main
+2009-01-01,law,stb-2008-588,participatiewet,5,main
+2009-01-01,law,stb-2008-590,participatiewet werkloosheidswet wet-wia,6,main
+2009-01-01,law,stb-2008-592,participatiewet,8,main
+2009-01-01,law,stb-2008-595,participatiewet,2,main
+2009-01-01,law,stb-2008-598,werkloosheidswet wet-wia,3,main
+2009-01-01,law,stb-2008-600,bw-boek-7 awb wet-arbeid-vreemdelingen participatiewet werkloosheidswet wet-wia wet-kinderopvang,35,main
+2009-01-01,law,stb-2008-606,participatiewet zorgverzekeringswet wet-inkomstenbelasting-2001 wet-loonbelasting-1964,20,main
+2009-01-01,unexplained,,wet-inkomstenbelasting-2001,1,main
+2009-01-01,unexplained,,wet-loonbelasting-1964,1,main
+2009-01-01,unexplained,,wft,1,main
+2009-01-14,law,stb-2008-44,gemeentewet wet-rechterlijke-organisatie,17,main
+2009-01-28,law,stb-2006-631,wet-inkomstenbelasting-2001,1,main
+2009-02-01,law,stb-2009-18,wet-economische-delicten,1,main
+2009-02-01,law,stb-2009-25,awb awr,4,main
+2009-02-28,law,stb-2006-589,bw-boek-1,1,main
+2009-02-28,law,stb-2008-410,bw-boek-1,10,main
+2009-02-28,law,stb-2009-8,bw-boek-1,1,main
+2009-03-01,law,stb-2006-616,wegenverkeerswet-1994,1,main
+2009-03-01,law,stb-2008-270,bw-boek-1,1,main
+2009-03-01,law,stb-2008-500,bw-boek-1 wetboek-van-burgerlijke-rechtsvordering,31,main
+2009-03-01,unexplained,,bw-boek-1,1,main
+2009-03-16,law,stb-2009-106,wft faillissementswet,13,main
+2009-03-25,law,stb-2009-108,bw-boek-7 wetboek-van-strafvordering wetboek-van-burgerlijke-rechtsvordering vreemdelingenwet-2000 wet-arbeid-vreemdelingen participatiewet zorgverzekeringswet awr wegenverkeerswet-1994 arbeidsomstandighedenwet wet-loonbelasting-1964 wet-wia wet-kinderopvang,26,main
+2009-04-01,law,stb-2008-565,provinciewet,1,main
+2009-04-01,law,stb-2008-590,participatiewet,1,main
+2009-04-01,law,stb-2009-155,wetboek-van-strafrecht wetboek-van-strafvordering wet-omzetbelasting-1968 faillissementswet,10,main
+2009-04-15,law,stb-2009-169,gemeentewet provinciewet,48,main
+2009-04-24,law,stb-2009-189,wet-milieubeheer,1,main
+2009-04-30,law,stcrt-2009-80,wft,1,main
+2009-05-01,law,stb-2006-616,wegenverkeerswet-1994,6,main
+2009-05-01,law,stb-2009-38,wegenverkeerswet-1994 wet-economische-delicten,44,main
+2009-05-29,law,stb-2009-222,wet-op-het-notarisambt advocatenwet,6,main
+2009-06-01,law,stb-2008-271,zorgverzekeringswet,1,main
+2009-06-01,law,stb-2009-124,wetboek-van-strafvordering,1,main
+2009-06-10,law,stb-2009-233,wetboek-van-burgerlijke-rechtsvordering,4,main
+2009-07-01,law,stb-2008-157,wet-economische-delicten,1,main
+2009-07-01,law,stb-2008-435,wetboek-van-burgerlijke-rechtsvordering,4,main
+2009-07-01,law,stb-2008-551,awb gemeentewet provinciewet,5,main
+2009-07-01,law,stb-2008-565,wet-omzetbelasting-1968,1,main
+2009-07-01,law,stb-2008-586,participatiewet,3,main
+2009-07-01,law,stb-2008-600,werkloosheidswet,1,main
+2009-07-01,law,stb-2009-4,penitentiaire-beginselenwet,1,main
+2009-07-01,law,stb-2009-63,algemene-ouderdomswet,4,main
+2009-07-01,law,stb-2009-109,wet-milieubeheer wet-economische-delicten,22,main
+2009-07-01,law,stb-2009-222,wet-op-het-notarisambt advocatenwet,9,main
+2009-07-01,law,stb-2009-245,wetboek-van-strafrecht bw-boek-3 wetboek-van-strafvordering,11,main
+2009-07-01,law,stb-2009-255,bw-boek-3 wetboek-van-burgerlijke-rechtsvordering,12,main
+2009-07-01,law,stcrt-2009-117,participatiewet,5,main
+2009-07-01,law,stb-2009-264,wetboek-van-strafvordering awb,115,main
+2009-07-01,law,stb-2009-265,wft wet-arbeid-vreemdelingen participatiewet zorgverzekeringswet wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 awr opiumwet wegenverkeerswet-1994 gemeentewet woningwet arbeidsomstandighedenwet wet-milieubeheer wet-loonbelasting-1964 wet-op-het-notarisambt werkloosheidswet wet-wia algemene-ouderdomswet wet-kinderopvang wet-wapens-en-munitie provinciewet,261,main
+2009-07-01,law,stb-2009-269,werkloosheidswet,5,main
+2009-07-01,unexplained,,wet-milieubeheer,1,main
+2009-07-02,law,stb-2009-280,wet-inkomstenbelasting-2001 awr wet-vennootschapsbelasting-1969,9,main
+2009-07-08,law,stb-2009-229,participatiewet,1,main
+2009-07-15,law,stb-2009-297,woningwet wet-milieubeheer wet-economische-delicten,21,main
+2009-07-16,law,stb-2009-304,wet-inkomstenbelasting-2001 awr,6,main
+2009-07-28,law,stcrt-2009-117,participatiewet,1,main
+2009-07-28,law,stb-2009-318,bw-boek-7 werkloosheidswet wet-wia,3,main
+2009-08-01,law,stb-2009-158,wet-milieubeheer,18,main
+2009-08-01,law,stb-2009-303,bw-boek-1,1,main
+2009-08-01,law,stb-2009-318,bw-boek-7 participatiewet arbeidsomstandighedenwet werkloosheidswet wet-wia algemene-ouderdomswet,41,main
+2009-08-01,law,stb-2009-327,wft wet-economische-delicten,4,main
+2009-09-01,law,stb-2009-333,wet-economische-delicten,1,main
+2009-09-01,law,stb-2009-356,zorgverzekeringswet,20,main
+2009-09-10,law,stb-2009-297,wet-milieubeheer,1,main
+2009-10-01,law,stb-2009-265,awb,2,main
+2009-10-01,law,stb-2009-282,wetboek-van-burgerlijke-rechtsvordering participatiewet wet-inkomstenbelasting-2001 wet-loonbelasting-1964 werkloosheidswet wet-wia algemene-ouderdomswet wet-kinderopvang,15,main
+2009-10-01,law,stb-2009-385,bw-boek-1 wet-wapens-en-munitie,2,main
+2009-10-01,law,stb-2009-384,awb zorgverzekeringswet werkloosheidswet wet-wia algemene-ouderdomswet,11,main
+2009-10-01,law,stb-2009-383,awb awr,16,main
+2009-11-01,law,stb-2009-345,wet-kinderopvang,2,main
+2009-11-01,law,stb-2009-436,bw-boek-2 bw-boek-7 wft wet-economische-delicten,91,main
+2009-11-04,law,stb-2009-440,bw-boek-6 wet-milieubeheer wet-economische-delicten,16,main
+2009-11-27,law,stb-2009-486,zorgverzekeringswet,1,main
+2009-12-01,law,stb-2009-390,participatiewet werkloosheidswet wet-wia algemene-ouderdomswet,4,main
+2009-12-22,law,stb-2009-489,awb wet-milieubeheer wet-economische-delicten,29,main
+2009-12-22,law,stb-2009-542,awb wet-milieubeheer wet-wia algemene-ouderdomswet,7,main
+2009-12-22,unexplained,,provinciewet,1,main
+2009-12-23,law,stb-1998-687,wet-milieubeheer wet-economische-delicten,3,main
+2009-12-28,law,stb-2009-503,bw-boek-6 wetboek-van-burgerlijke-rechtsvordering awb,20,main
+2009-12-28,law,stb-2009-616,bw-boek-6 wetboek-van-burgerlijke-rechtsvordering wet-milieubeheer wet-economische-delicten,9,main
+2010-01-01,law,stb-1999-494,wetboek-van-strafrecht,1,main
+2010-01-01,law,stb-2004-678,wetboek-van-koophandel,4,main
+2010-01-01,law,stb-2005-525,zorgverzekeringswet,1,main
+2010-01-01,law,stb-2007-276,gemeentewet,1,main
+2010-01-01,law,stb-2007-302,werkloosheidswet,1,main
+2010-01-01,law,stb-2007-562,wet-inkomstenbelasting-2001,1,main
+2010-01-01,law,stb-2008-99,wegenverkeerswet-1994,1,main
+2010-01-01,law,stb-2008-547,wet-loonbelasting-1964,1,main
+2010-01-01,law,stb-2008-565,wet-inkomstenbelasting-2001,2,main
+2010-01-01,law,stb-2008-566,wet-inkomstenbelasting-2001,2,main
+2010-01-01,law,stb-2008-586,participatiewet,1,main
+2010-01-01,law,stb-2009-33,wetboek-van-strafvordering,35,main
+2010-01-01,law,stb-2009-345,wet-kinderopvang,53,main
+2010-01-01,law,stcrt-2009-15178,zorgverzekeringswet,1,main
+2010-01-01,law,stb-2009-484,wetboek-van-strafrecht,1,main
+2010-01-01,law,stb-2009-492,participatiewet,1,main
+2010-01-01,law,stb-2009-544,wetboek-van-strafrecht wetboek-van-strafvordering,6,main
+2010-01-01,law,stb-2009-546,wet-omzetbelasting-1968,49,main
+2010-01-01,law,stb-2009-564,awr successiewet-1956,53,main
+2010-01-01,law,stb-2009-570,awb awr wet-milieubeheer,12,main
+2010-01-01,law,stb-2009-609,wet-inkomstenbelasting-2001 awr wet-milieubeheer wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956 provinciewet,46,main
+2010-01-01,law,stb-2009-610,wet-inkomstenbelasting-2001 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,62,main
+2010-01-01,law,stb-2009-611,wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 awr wet-vennootschapsbelasting-1969,25,main
+2010-01-01,law,stb-2009-612,wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 awr wet-loonbelasting-1964 successiewet-1956,23,main
+2010-01-01,law,stb-2009-620,bw-boek-7,1,main
+2010-01-01,law,stb-2009-580,bw-boek-6 participatiewet wet-inkomstenbelasting-2001 wetboek-van-koophandel wet-loonbelasting-1964 werkloosheidswet wet-wia algemene-ouderdomswet wet-kinderopvang,13,main
+2010-01-01,law,stb-2009-589,wet-wia,8,main
+2010-01-01,law,stb-2009-592,participatiewet,1,main
+2010-01-01,law,stb-2009-596,participatiewet wet-wia algemene-ouderdomswet,26,main
+2010-01-01,law,stcrt-2009-20510,wet-inkomstenbelasting-2001,1,main
+2010-01-01,law,stcrt-2009-20620,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,33,main
+2010-01-01,law,stcrt-2010-250,participatiewet,7,main
+2010-01-01,unexplained,,wet-kinderopvang,4,main
+2010-01-01,unexplained,,wet-omzetbelasting-1968,1,main
+2010-01-20,law,stcrt-2010-716,wft,1,main
+2010-02-01,law,stb-2008-595,participatiewet,1,main
+2010-02-01,law,stb-2010-24,awb awr,4,main
+2010-02-24,law,stb-2010-31,wet-milieubeheer wet-economische-delicten,42,main
+2010-02-27,law,stb-2010-90,bw-boek-7,3,main
+2010-02-27,law,stb-2010-72,gemeentewet werkloosheidswet provinciewet,3,main
+2010-03-10,law,stb-2010-110,gemeentewet provinciewet,10,main
+2010-03-31,law,stb-2010-135,wet-milieubeheer wet-economische-delicten,9,main
+2010-04-01,law,stb-2009-245,wetboek-van-strafrecht awr,19,main
+2010-04-01,law,stb-2009-525,wetboek-van-strafrecht wetboek-van-strafvordering vreemdelingenwet-2000 awr wegenverkeerswet-1994 wet-politiegegevens gemeentewet wet-economische-delicten,58,main
+2010-04-01,law,stb-2009-544,wetboek-van-strafrecht,1,main
+2010-04-01,law,stb-2010-28,bw-boek-7,2,main
+2010-05-29,law,stb-2010-191,opiumwet,1,main
+2010-06-23,law,stb-2010-187,wet-milieubeheer,10,main
+2010-07-01,law,stb-2009-8,awb wet-rechterlijke-organisatie advocatenwet,38,main
+2010-07-01,law,stb-2009-475,wetboek-van-strafvordering,6,main
+2010-07-01,law,stb-2010-2,wetboek-van-strafrecht wetboek-van-strafvordering wetboek-van-burgerlijke-rechtsvordering vreemdelingenwet-2000 advocatenwet,17,main
+2010-07-01,law,stb-2010-20,wet-milieubeheer,83,main
+2010-07-01,law,stb-2010-111,wetboek-van-strafrecht wetboek-van-strafvordering,3,main
+2010-07-01,law,stb-2010-155,bw-boek-7,1,main
+2010-07-01,law,stb-2010-173,awb awr,3,main
+2010-07-01,law,stb-2010-190,wetboek-van-strafrecht wetboek-van-strafvordering,7,main
+2010-07-01,law,stb-2010-200,wetboek-van-strafrecht wetboek-van-strafvordering wegenverkeerswet-1994,6,main
+2010-07-01,law,stb-2010-202,vreemdelingenwet-2000,12,main
+2010-07-01,law,stb-2010-228,participatiewet,6,main
+2010-07-01,law,stb-2010-205,wetboek-van-strafrecht bw-boek-7 wet-economische-delicten,5,main
+2010-07-01,law,stcrt-2010-9683,participatiewet,6,main
+2010-07-01,law,stb-2010-221,wetboek-van-burgerlijke-rechtsvordering,8,main
+2010-07-01,law,stb-2010-222,bw-boek-1 bw-boek-6 bw-boek-7 wetboek-van-burgerlijke-rechtsvordering,9,main
+2010-07-01,law,stb-2010-250,bw-boek-2,5,main
+2010-07-01,law,stb-2010-257,bw-boek-2 wft,13,main
+2010-07-07,law,stb-2010-149,wetboek-van-strafrecht wet-wapens-en-munitie,3,main
+2010-07-07,law,stb-2010-259,wegenverkeerswet-1994,8,main
+2010-07-09,law,stb-2010-274,bw-boek-7,1,main
+2010-07-17,law,stb-2009-609,wet-inkomstenbelasting-2001,2,main
+2010-07-24,law,stb-2010-300,wet-economische-delicten,1,main
+2010-08-01,law,stb-2010-296,wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 wet-loonbelasting-1964 wet-kinderopvang wet-economische-delicten,189,main
+2010-08-18,law,stb-2010-157,wet-economische-delicten,1,main
+2010-09-01,law,stb-2009-8,wet-rechterlijke-organisatie,1,main
+2010-09-01,law,stb-2010-119,wet-inkomstenbelasting-2001,2,main
+2010-09-01,law,stb-2010-175,vreemdelingenwet-2000 gemeentewet wet-rechterlijke-organisatie wet-milieubeheer provinciewet,12,main
+2010-09-01,law,stb-2010-270,wetboek-van-strafrecht wetboek-van-strafvordering,5,main
+2010-09-01,law,stb-2010-325,wetboek-van-strafrecht wetboek-van-strafvordering gemeentewet,8,main
+2010-09-01,unexplained,,awb,1,main
+2010-09-28,law,stb-2010-259,wegenverkeerswet-1994,54,main
+2010-10-01,law,stb-2009-317,wetboek-van-strafrecht wetboek-van-strafvordering penitentiaire-beginselenwet,49,main
+2010-10-01,law,stb-2010-135,wet-milieubeheer,2,main
+2010-10-01,law,stb-2010-146,wetboek-van-strafrecht bw-boek-4 gemeentewet wet-milieubeheer werkloosheidswet wet-economische-delicten,11,main
+2010-10-01,law,stb-2010-142,bw-boek-6 bw-boek-7 wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 woningwet wet-milieubeheer wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,197,main
+2010-10-01,law,stb-2010-187,woningwet wet-milieubeheer,15,main
+2010-10-01,law,stb-2010-320,wetboek-van-strafrecht wetboek-van-strafvordering,8,main
+2010-10-01,unexplained,,gemeentewet,1,main
+2010-10-01,unexplained,,provinciewet,1,main
+2010-10-01,unexplained,,wet-milieubeheer,1,main
+2010-10-01,unexplained,,woningwet,1,main
+2010-10-10,law,stb-2010-350,bw-boek-1 wetboek-van-strafrecht wetboek-van-strafvordering wetboek-van-burgerlijke-rechtsvordering participatiewet werkloosheidswet wet-wia algemene-ouderdomswet,20,main
+2010-10-10,law,stb-2010-365,gemeentewet provinciewet,2,main
+2010-10-10,law,stb-2010-362,wet-politiegegevens,10,main
+2010-10-10,law,stb-2010-363,wet-inkomstenbelasting-2001 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,35,main
+2010-11-01,law,stb-2010-715,wetboek-van-strafvordering wetboek-van-burgerlijke-rechtsvordering awb wet-op-het-notarisambt advocatenwet,11,main
+2010-11-20,law,stb-2010-769,wet-milieubeheer,7,main
+2010-12-01,law,stb-2009-280,wet-inkomstenbelasting-2001,1,main
+2010-12-01,law,stb-2009-440,wet-milieubeheer,3,main
+2010-12-30,law,stb-2010-873,wet-vennootschapsbelasting-1969,1,main
+2010-12-31,law,stb-2007-176,wetboek-van-koophandel,1,main
+2010-12-31,law,stb-2011-562,wet-loonbelasting-1964,1,main
+2011-01-01,law,stb-2005-115,wet-loonbelasting-1964,1,main
+2011-01-01,law,stb-2008-551,gemeentewet provinciewet,2,main
+2011-01-01,law,stb-2009-245,penitentiaire-beginselenwet,1,main
+2011-01-01,law,stb-2009-282,participatiewet,7,main
+2011-01-01,law,stb-2009-525,wetboek-van-strafrecht,1,main
+2011-01-01,law,stb-2009-546,wet-omzetbelasting-1968,2,main
+2011-01-01,law,stb-2009-564,successiewet-1956,1,main
+2011-01-01,law,stb-2009-610,wet-inkomstenbelasting-2001,1,main
+2011-01-01,law,stb-2009-611,wet-inkomstenbelasting-2001 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,28,main
+2011-01-01,law,stb-2009-612,successiewet-1956,1,main
+2011-01-01,law,stb-2010-1,wetboek-van-strafvordering,29,main
+2011-01-01,law,stb-2010-715,wetboek-van-burgerlijke-rechtsvordering faillissementswet,28,main
+2011-01-01,law,stb-2010-744,wegenverkeerswet-1994,4,main
+2011-01-01,law,stb-2010-768,awb awr,4,main
+2011-01-01,law,stcrt-2010-18501,zorgverzekeringswet,1,main
+2011-01-01,law,stb-2010-830,werkloosheidswet,1,main
+2011-01-01,law,stcrt-2010-21336,participatiewet,8,main
+2011-01-01,law,stb-2010-840,wet-arbeid-vreemdelingen participatiewet werkloosheidswet wet-wia algemene-ouderdomswet,16,main
+2011-01-01,law,stb-2010-838,participatiewet werkloosheidswet wet-wia algemene-ouderdomswet,41,main
+2011-01-01,law,stb-2010-842,wet-omzetbelasting-1968,7,main
+2011-01-01,law,stb-2010-847,wet-inkomstenbelasting-2001 awr wet-vennootschapsbelasting-1969,4,main
+2011-01-01,law,stb-2010-867,zorgverzekeringswet wet-wia algemene-ouderdomswet,14,main
+2011-01-01,law,stb-2010-871,wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,55,main
+2011-01-01,law,stb-2010-872,wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,24,main
+2011-01-01,law,stb-2010-873,wet-inkomstenbelasting-2001 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,25,main
+2011-01-01,law,stcrt-2010-20600,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,42,main
+2011-01-01,law,stb-2010-887,wft wet-economische-delicten,43,main
+2011-01-01,law,stb-2010-857,wet-rechterlijke-organisatie,20,main
+2011-01-01,unexplained,,wet-inkomstenbelasting-2001,1,main
+2011-01-01,unexplained,,wet-loonbelasting-1964,1,main
+2011-01-01,unexplained,,wet-milieubeheer,5,main
+2011-01-01,unexplained,,woningwet,2,main
+2011-01-01,unexplained,,zorgverzekeringswet,1,main
+2011-02-01,law,stb-2005-470,wetboek-van-strafvordering,1,main
+2011-02-10,law,stcrt-2011-2150,wft,1,main
+2011-02-23,law,stb-2011-4,awb gemeentewet provinciewet,14,main
+2011-02-23,law,stb-2011-50,bw-boek-7 wft,21,main
+2011-02-23,unexplained,,gemeentewet,1,main
+2011-02-23,unexplained,,provinciewet,1,main
+2011-03-01,law,stb-2011-24,wetboek-van-strafrecht,1,main
+2011-03-05,law,stb-2011-103,wet-milieubeheer wet-economische-delicten,29,main
+2011-03-05,law,stb-2011-114,wet-economische-delicten,1,main
+2011-03-15,law,stb-2011-111,zorgverzekeringswet,18,main
+2011-04-01,law,stb-2010-18,wet-economische-delicten,1,main
+2011-04-01,law,stb-2011-8,arbeidsomstandighedenwet,4,main
+2011-04-01,law,stb-2011-160,wet-economische-delicten,1,main
+2011-04-09,law,stb-2011-163,wet-milieubeheer wet-economische-delicten,11,main
+2011-04-28,law,stb-2011-190,woningwet,3,main
+2011-04-30,unexplained,,bw-boek-7,1,main
+2011-04-30,unexplained,,wft,18,main
+2011-05-07,law,stb-2011-206,wft,28,main
+2011-05-11,law,stb-2011-210,bw-boek-7 wft faillissementswet,7,main
+2011-05-25,law,stb-2011-246,bw-boek-7 wft,26,main
+2011-05-25,unexplained,,wft,1,main
+2011-06-01,law,stb-2008-433,wegenverkeerswet-1994,6,main
+2011-06-01,law,stb-2011-231,participatiewet algemene-ouderdomswet,2,main
+2011-06-01,unexplained,,algemene-ouderdomswet,1,main
+2011-06-18,law,stb-2010-264,wet-economische-delicten,1,main
+2011-07-01,law,stb-2006-330,awr,2,main
+2011-07-01,law,stb-2010-205,bw-boek-2,7,main
+2011-07-01,law,stb-2010-280,bw-boek-2,18,main
+2011-07-01,law,stb-2010-818,wetboek-van-strafrecht wetboek-van-strafvordering,11,main
+2011-07-01,law,stb-2010-838,participatiewet werkloosheidswet wet-wia algemene-ouderdomswet,4,main
+2011-07-01,law,stb-2011-123,bw-boek-5 woningwet,11,main
+2011-07-01,law,stb-2011-170,gemeentewet,1,main
+2011-07-01,law,stb-2011-171,wetboek-van-strafrecht wetboek-van-strafvordering,17,main
+2011-07-01,law,stb-2011-204,zorgverzekeringswet,15,main
+2011-07-01,law,stb-2011-245,bw-boek-1,2,main
+2011-07-01,law,stb-2011-234,bw-boek-2,9,main
+2011-07-01,law,stb-2011-248,bw-boek-2 wft faillissementswet wet-economische-delicten,62,main
+2011-07-01,law,stb-2011-255,bw-boek-2 wetboek-van-strafvordering wetboek-van-burgerlijke-rechtsvordering awb awr wet-rechterlijke-organisatie wet-op-het-notarisambt advocatenwet,44,main
+2011-07-01,law,stb-2011-256,wet-rechterlijke-organisatie,17,main
+2011-07-01,law,stb-2011-265,awr,5,main
+2011-07-01,law,stb-2011-299,wet-wia,6,main
+2011-07-01,law,stcrt-2011-10914,participatiewet,5,main
+2011-07-01,law,stb-2011-309,gemeentewet provinciewet,2,main
+2011-07-20,law,stb-2011-248,wft,1,main
+2011-07-22,law,stb-2011-357,bw-boek-2 wft awr wet-vennootschapsbelasting-1969 wet-economische-delicten,85,main
+2011-07-27,law,stb-2011-373,wet-milieubeheer,6,main
+2011-08-01,law,stb-2011-232,wetboek-van-strafvordering,1,main
+2011-08-01,law,stb-2011-359,algemene-ouderdomswet,3,main
+2011-08-03,law,stb-2011-375,gemeentewet provinciewet,6,main
+2011-09-01,law,stb-2011-278,wet-milieubeheer,13,main
+2011-09-01,law,stb-2011-368,wet-inkomstenbelasting-2001,3,main
+2011-09-10,law,stb-2011-381,wet-economische-delicten,1,main
+2011-09-21,law,stb-2011-392,wet-economische-delicten,1,main
+2011-10-01,law,stb-2011-289,wet-economische-delicten,1,main
+2011-10-06,unexplained,,wft,3,main
+2011-10-26,law,stb-2011-120,wet-milieubeheer,6,main
+2011-10-26,law,stb-2011-452,wet-milieubeheer,1,main
+2011-10-29,law,stb-2011-479,wet-kinderopvang,2,main
+2011-11-19,law,stb-2011-531,gemeentewet,1,main
+2011-11-26,law,stb-2011-235,wet-economische-delicten,1,main
+2011-12-01,law,stb-2010-259,wegenverkeerswet-1994,31,main
+2011-12-01,law,stb-2010-789,bw-boek-2 bw-boek-6,4,main
+2011-12-01,unexplained,,wegenverkeerswet-1994,27,main
+2011-12-03,law,stb-2011-554,bw-boek-7,1,main
+2011-12-10,law,stb-2011-585,wet-vennootschapsbelasting-1969,2,main
+2011-12-22,law,stb-2012-8,wft,1,main
+2011-12-22,unexplained,,wft,6,main
+2011-12-30,law,stb-2011-669,wft,9,main
+2011-12-31,law,stb-2011-663,wetboek-van-strafrecht vreemdelingenwet-2000,20,main
+2011-12-31,law,stb-2011-675,wet-milieubeheer,1,main
+2012-01-01,start,stb-2011-272,bw-boek-10,163,main
+2012-01-01,law,stb-2004-511,wet-milieubeheer,1,main
+2012-01-01,law,stb-2008-566,wet-kinderopvang,1,main
+2012-01-01,law,stb-2008-590,werkloosheidswet wet-wia,3,main
+2012-01-01,law,stb-2009-609,wet-vennootschapsbelasting-1969,1,main
+2012-01-01,law,stb-2010-296,wet-kinderopvang,2,main
+2012-01-01,law,stb-2010-872,wet-inkomstenbelasting-2001,2,main
+2012-01-01,law,stb-2011-9,werkloosheidswet algemene-ouderdomswet,3,main
+2012-01-01,law,stb-2011-183,wet-milieubeheer,1,main
+2012-01-01,law,stb-2011-201,awb wegenverkeerswet-1994 wet-milieubeheer advocatenwet wet-wapens-en-munitie,11,main
+2012-01-01,law,stb-2011-205,bw-boek-1 faillissementswet,25,main
+2012-01-01,law,stb-2011-248,wft,6,main
+2012-01-01,law,stb-2011-269,wet-milieubeheer wet-economische-delicten,25,main
+2012-01-01,law,stb-2011-272,wetboek-van-strafrecht vreemdelingenwet-2000,2,main
+2012-01-01,law,stb-2011-276,wetboek-van-strafvordering,3,main
+2012-01-01,law,stb-2011-278,wet-milieubeheer,6,main
+2012-01-01,law,stb-2011-318,bw-boek-7,6,main
+2012-01-01,law,stb-2011-455,wetboek-van-strafrecht,1,main
+2012-01-01,law,stb-2011-470,wet-op-het-notarisambt,13,main
+2012-01-01,law,stb-2011-500,bw-boek-1 bw-boek-2 bw-boek-6 bw-boek-7 wetboek-van-burgerlijke-rechtsvordering auteurswet wet-politiegegevens gemeentewet faillissementswet,25,main
+2012-01-01,law,stb-2011-505,bw-boek-1,12,main
+2012-01-01,law,stb-2011-528,awb awr,4,main
+2012-01-01,law,stb-2011-556,wetboek-van-strafvordering,3,main
+2012-01-01,law,stb-2011-557,wet-op-het-notarisambt,1,main
+2012-01-01,law,stb-2011-562,wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 awr wet-loonbelasting-1964 successiewet-1956,30,main
+2012-01-01,law,stb-2011-575,bw-boek-2 wet-omzetbelasting-1968 awr wet-milieubeheer,7,main
+2012-01-01,law,stb-2011-595,wet-milieubeheer,2,main
+2012-01-01,law,stb-2011-596,zorgverzekeringswet,2,main
+2012-01-01,law,stb-2011-610,wft wet-economische-delicten,52,main
+2012-01-01,law,stb-2011-611,wft,1,main
+2012-01-01,law,stb-2011-616,wet-kinderopvang,47,main
+2012-01-01,law,stb-2011-618,participatiewet arbeidsomstandighedenwet werkloosheidswet wet-wia algemene-ouderdomswet,29,main
+2012-01-01,law,stb-2011-622,wet-op-het-notarisambt,1,main
+2012-01-01,law,stcrt-2011-23077,zorgverzekeringswet,1,main
+2012-01-01,law,stcrt-2011-23515,participatiewet,5,main
+2012-01-01,law,stb-2011-647,participatiewet,1,main
+2012-01-01,law,stb-2011-639,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,68,main
+2012-01-01,law,stb-2011-640,wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 awr wegenverkeerswet-1994 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956 provinciewet,31,main
+2012-01-01,law,stb-2011-641,wet-inkomstenbelasting-2001 awr wet-vennootschapsbelasting-1969 successiewet-1956,21,main
+2012-01-01,law,stb-2011-642,wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 wet-loonbelasting-1964,5,main
+2012-01-01,law,stb-2011-645,participatiewet wet-loonbelasting-1964 wet-kinderopvang,7,main
+2012-01-01,law,stb-2011-650,wetboek-van-burgerlijke-rechtsvordering participatiewet wet-inkomstenbelasting-2001 wet-loonbelasting-1964 werkloosheidswet wet-wia algemene-ouderdomswet wet-kinderopvang,54,main
+2012-01-01,law,stb-2011-670,bw-boek-1 bw-boek-2 bw-boek-7 wetboek-van-burgerlijke-rechtsvordering wft wet-inkomstenbelasting-2001 faillissementswet wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 wet-wia,205,main
+2012-01-01,law,stcrt-2011-23883,participatiewet,6,main
+2012-01-01,law,stcrt-2011-22888,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,39,main
+2012-01-01,unexplained,,algemene-ouderdomswet,1,main
+2012-01-01,unexplained,,participatiewet,3,main
+2012-01-01,unexplained,,wet-kinderopvang,1,main
+2012-01-01,unexplained,,wet-loonbelasting-1964,1,main
+2012-01-01,unexplained,,wet-wia,1,main
+2012-01-03,law,stb-2012-1,wetboek-van-strafrecht,5,main
+2012-01-20,unexplained,,faillissementswet,37,main
+2012-01-20,unexplained,,wft,60,main
+2012-01-21,law,stb-2011-616,wet-kinderopvang,1,main
+2012-02-04,law,stcrt-2012-1984,wft,1,main
+2012-02-08,law,stb-2012-19,wet-omzetbelasting-1968 wet-economische-delicten,2,main
+2012-02-16,law,stb-2012-8,wft,4,main
+2012-02-29,law,stb-2012-25,wet-wapens-en-munitie,7,main
+2012-03-01,law,stb-2010-867,werkloosheidswet wet-wia,5,main
+2012-03-10,law,stb-2012-89,woningwet,1,main
+2012-03-23,law,stb-2012-114,wegenverkeerswet-1994 wet-milieubeheer wet-economische-delicten,10,main
+2012-03-30,law,stb-2012-128,wet-milieubeheer,15,main
+2012-04-01,law,stb-2009-324,woningwet,7,main
+2012-04-01,law,stb-2010-873,wet-omzetbelasting-1968,9,main
+2012-04-01,law,stb-2011-218,wet-economische-delicten,1,main
+2012-04-01,law,stb-2011-490,wet-politiegegevens,10,main
+2012-04-01,law,stb-2011-545,wetboek-van-strafrecht wetboek-van-strafvordering,42,main
+2012-04-01,law,stb-2011-546,wetboek-van-strafrecht wetboek-van-strafvordering,11,main
+2012-04-01,law,stb-2011-555,wetboek-van-strafvordering,13,main
+2012-04-01,law,stb-2011-618,algemene-ouderdomswet,1,main
+2012-04-01,law,stb-2011-605,wetboek-van-strafrecht wetboek-van-strafvordering,7,main
+2012-04-01,law,stb-2011-650,participatiewet,1,main
+2012-04-01,law,stb-2012-2,werkloosheidswet wet-wia algemene-ouderdomswet,5,main
+2012-04-01,law,stb-2012-89,woningwet,8,main
+2012-04-07,law,stb-2012-77,zorgverzekeringswet,6,main
+2012-05-01,law,stb-2006-330,wet-economische-delicten,1,main
+2012-05-01,law,stb-2011-447,wet-wapens-en-munitie,10,main
+2012-05-01,law,stb-2012-143,wet-arbeid-vreemdelingen,3,main
+2012-05-09,law,stb-2009-525,wetboek-van-strafrecht,1,main
+2012-06-02,law,stb-2012-228,wegenverkeerswet-1994,3,main
+2012-06-05,law,stb-2012-235,wet-economische-delicten,1,main
+2012-06-06,law,stb-2009-38,wegenverkeerswet-1994,4,main
+2012-06-06,law,stb-2012-231,wegenverkeerswet-1994,13,main
+2012-06-13,law,stb-2012-241,bw-boek-3 bw-boek-7 wft faillissementswet,32,main
+2012-06-13,law,stb-2012-245,awb,1,main
+2012-06-14,law,stb-2011-479,wet-kinderopvang,1,main
+2012-07-01,law,stb-2011-201,advocatenwet,1,main
+2012-07-01,law,stb-2011-278,wet-milieubeheer,5,main
+2012-07-01,law,stb-2011-610,wft,30,main
+2012-07-01,law,stb-2011-647,participatiewet,1,main
+2012-07-01,law,stb-2011-642,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,2,main
+2012-07-01,law,stb-2011-650,participatiewet,7,main
+2012-07-01,law,stb-2012-7,wft,45,main
+2012-07-01,law,stb-2012-65,wetboek-van-burgerlijke-rechtsvordering wet-rechterlijke-organisatie,5,main
+2012-07-01,law,stb-2012-100,wetboek-van-burgerlijke-rechtsvordering,1,main
+2012-07-01,law,stb-2012-114,wet-milieubeheer,5,main
+2012-07-01,law,stb-2012-116,wetboek-van-burgerlijke-rechtsvordering wet-rechterlijke-organisatie advocatenwet,10,main
+2012-07-01,law,stb-2012-140,bw-boek-6 wetboek-van-burgerlijke-rechtsvordering,3,main
+2012-07-01,law,stb-2012-155,wetboek-van-strafrecht wetboek-van-strafvordering,15,main
+2012-07-01,law,stb-2012-198,wet-wia,3,main
+2012-07-01,law,stb-2012-195,wet-milieubeheer wet-economische-delicten,51,main
+2012-07-01,law,stb-2012-219,wft,19,main
+2012-07-01,law,stb-2012-224,werkloosheidswet,5,main
+2012-07-01,law,stb-2012-247,wft faillissementswet,15,main
+2012-07-01,law,stb-2012-241,faillissementswet,2,main
+2012-07-01,law,stb-2012-260,wet-economische-delicten,1,main
+2012-07-01,law,stb-2012-265,wft,1,main
+2012-07-01,law,stb-2012-266,wet-milieubeheer,61,main
+2012-07-01,law,stb-2012-267,wet-milieubeheer,6,main
+2012-07-01,law,stcrt-2012-13237,participatiewet,8,main
+2012-07-01,unexplained,,wft,1,main
+2012-07-07,law,stb-2012-258,vreemdelingenwet-2000,4,main
+2012-07-18,law,stb-2012-321,wet-omzetbelasting-1968,1,main
+2012-07-18,law,stb-2012-322,wetboek-van-burgerlijke-rechtsvordering participatiewet,34,main
+2012-08-27,law,stb-2012-98,wet-economische-delicten,1,main
+2012-09-01,law,stb-2012-303,wet-rechterlijke-organisatie,1,main
+2012-09-01,law,stb-2012-345,wetboek-van-strafvordering,10,main
+2012-09-05,law,stb-2012-327,wet-kinderopvang,9,main
+2012-10-01,law,stb-2009-245,wetboek-van-strafvordering,4,main
+2012-10-01,law,stb-2011-479,wet-kinderopvang,1,main
+2012-10-01,law,stb-2011-573,bw-boek-7 wet-rechterlijke-organisatie,3,main
+2012-10-01,law,stb-2011-616,wet-kinderopvang,3,main
+2012-10-01,law,stb-2012-233,wft wegenverkeerswet-1994 gemeentewet woningwet wet-milieubeheer wet-kinderopvang provinciewet,55,main
+2012-10-01,law,stb-2012-275,wetboek-van-strafvordering,27,main
+2012-10-01,law,stb-2012-299,bw-boek-2,72,main
+2012-10-01,law,stb-2012-300,bw-boek-2 wetboek-van-burgerlijke-rechtsvordering wft wet-inkomstenbelasting-2001 faillissementswet wet-economische-delicten,58,main
+2012-10-01,law,stb-2012-321,wet-omzetbelasting-1968,4,main
+2012-10-01,law,stb-2012-325,wet-vennootschapsbelasting-1969,1,main
+2012-10-01,law,stb-2012-392,wetboek-van-strafrecht,2,main
+2012-10-01,unexplained,,gemeentewet,1,main
+2012-10-29,unexplained,,wet-inkomstenbelasting-2001,1,main
+2012-11-01,law,stb-2012-333,wetboek-van-strafrecht wetboek-van-strafvordering wet-rechterlijke-organisatie,5,main
+2012-12-28,law,stb-2012-657,wet-arbeid-vreemdelingen arbeidsomstandighedenwet werkloosheidswet wet-wia algemene-ouderdomswet,19,main
+2013-01-01,start,,politiewet-2012,83,main
+2013-01-01,law,stb-2009-345,wet-kinderopvang,6,main
+2013-01-01,law,stb-2009-546,wet-omzetbelasting-1968,1,main
+2013-01-01,law,stb-2010-871,wet-loonbelasting-1964,1,main
+2013-01-01,law,stb-2011-160,wet-economische-delicten,1,main
+2013-01-01,law,stb-2011-275,bw-boek-2,21,main
+2013-01-01,law,stb-2011-288,participatiewet zorgverzekeringswet wet-inkomstenbelasting-2001 wet-loonbelasting-1964 werkloosheidswet wet-wia,29,main
+2013-01-01,law,stb-2011-345,bw-boek-3 wet-milieubeheer,3,main
+2013-01-01,law,stb-2011-442,participatiewet,8,main
+2013-01-01,law,stb-2011-470,bw-boek-2 wet-op-het-notarisambt,58,main
+2013-01-01,law,stb-2011-479,wet-kinderopvang,2,main
+2013-01-01,law,stb-2011-561,zorgverzekeringswet,3,main
+2013-01-01,law,stb-2011-618,participatiewet werkloosheidswet,5,main
+2013-01-01,law,stb-2011-600,wetboek-van-strafrecht wetboek-van-strafvordering wet-economische-delicten,86,main
+2013-01-01,law,stb-2011-601,wetboek-van-strafrecht wetboek-van-strafvordering awr,31,main
+2013-01-01,law,stb-2011-639,zorgverzekeringswet wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 awr wet-vennootschapsbelasting-1969 successiewet-1956,24,main
+2013-01-01,law,stb-2011-650,participatiewet,1,main
+2013-01-01,law,stb-2012-115,wet-omzetbelasting-1968,19,main
+2013-01-01,law,stb-2012-195,wet-milieubeheer,26,main
+2013-01-01,law,stb-2012-200,wetboek-van-burgerlijke-rechtsvordering wet-rechterlijke-organisatie,3,main
+2013-01-01,law,stb-2012-220,wet-rechterlijke-organisatie,8,main
+2013-01-01,law,stb-2012-231,wegenverkeerswet-1994,5,main
+2013-01-01,law,stb-2012-250,wft,9,main
+2013-01-01,law,stb-2012-274,bw-boek-2,11,main
+2013-01-01,law,stb-2012-313,bw-boek-1 bw-boek-2 bw-boek-3 bw-boek-4 bw-boek-6 wetboek-van-strafvordering wetboek-van-burgerlijke-rechtsvordering awb auteurswet wft gemeentewet wet-rechterlijke-organisatie faillissementswet wetboek-van-koophandel wet-op-het-notarisambt advocatenwet wet-economische-delicten,149,main
+2013-01-01,law,stb-2012-316,wetboek-van-strafvordering wetboek-van-burgerlijke-rechtsvordering awb vreemdelingenwet-2000 awr wegenverkeerswet-1994 wet-politiegegevens gemeentewet faillissementswet wetboek-van-koophandel wet-wapens-en-munitie,91,main
+2013-01-01,law,stb-2012-321,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,19,main
+2013-01-01,law,stb-2012-322,participatiewet,1,main
+2013-01-01,law,stb-2012-327,wet-inkomstenbelasting-2001 wet-kinderopvang,39,main
+2013-01-01,law,stb-2012-328,participatiewet algemene-ouderdomswet,22,main
+2013-01-01,law,stb-2012-346,wet-economische-delicten,1,main
+2013-01-01,law,stb-2012-361,bw-boek-1 wetboek-van-burgerlijke-rechtsvordering participatiewet werkloosheidswet wet-wia,17,main
+2013-01-01,law,stb-2012-381,zorgverzekeringswet,4,main
+2013-01-01,law,stb-2012-430,awb vreemdelingenwet-2000 wet-kinderopvang,17,main
+2013-01-01,law,stb-2012-442,wegenverkeerswet-1994,45,main
+2013-01-01,law,stb-2012-440,bw-boek-2,7,main
+2013-01-01,law,stb-2012-462,wet-arbeid-vreemdelingen participatiewet arbeidsomstandighedenwet werkloosheidswet wet-wia algemene-ouderdomswet,49,main
+2013-01-01,law,stb-2012-463,participatiewet algemene-ouderdomswet,6,main
+2013-01-01,law,stb-2012-464,werkloosheidswet wet-wia,3,main
+2013-01-01,law,stb-2012-493,wet-milieubeheer,1,main
+2013-01-01,law,stb-2012-532,wft,1,main
+2013-01-01,law,stb-2012-544,wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,16,main
+2013-01-01,law,stcrt-2012-25906,participatiewet,9,main
+2013-01-01,law,stb-2012-648,wet-op-het-notarisambt,1,main
+2013-01-01,law,stb-2012-678,bw-boek-7 wft faillissementswet,64,main
+2013-01-01,law,stb-2012-679,wft,3,main
+2013-01-01,law,stb-2012-680,bw-boek-2 wegenverkeerswet-1994 gemeentewet provinciewet,4,main
+2013-01-01,law,stb-2012-668,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,21,main
+2013-01-01,law,stb-2012-669,participatiewet zorgverzekeringswet wet-inkomstenbelasting-2001 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,46,main
+2013-01-01,law,stb-2012-670,wet-inkomstenbelasting-2001 wet-vennootschapsbelasting-1969,43,main
+2013-01-01,law,stb-2012-675,werkloosheidswet wet-wia,24,main
+2013-01-01,law,stb-2012-682,bw-boek-2 wetboek-van-burgerlijke-rechtsvordering awb wft vreemdelingenwet-2000 wet-arbeid-vreemdelingen zorgverzekeringswet wet-inkomstenbelasting-2001 awr wet-politiegegevens gemeentewet wet-rechterlijke-organisatie woningwet wetboek-van-koophandel wet-milieubeheer wet-loonbelasting-1964 werkloosheidswet wet-wia algemene-ouderdomswet wet-wapens-en-munitie provinciewet,221,main
+2013-01-01,law,stcrt-2012-26652,awb,3,main
+2013-01-01,law,stcrt-2012-26314,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,14,main
+2013-01-01,law,stcrt-2012-26581,provinciewet,1,main
+2013-01-01,unexplained,,algemene-ouderdomswet,1,main
+2013-01-01,unexplained,,awb,1,main
+2013-01-01,unexplained,,wet-inkomstenbelasting-2001,2,main
+2013-01-01,unexplained,,wft,1,main
+2013-01-15,law,stb-2012-682,awb,1,main
+2013-01-15,law,stb-2013-11,wet-economische-delicten,1,main
+2013-01-15,law,stb-2013-13,wet-inkomstenbelasting-2001,1,main
+2013-01-19,law,stb-2012-39,wegenverkeerswet-1994,11,main
+2013-02-01,law,stb-2012-621,wet-economische-delicten,1,main
+2013-02-16,law,stb-2013-44,awb,2,main
+2013-03-09,law,stb-2013-86,vreemdelingenwet-2000,1,main
+2013-03-15,law,stb-2012-682,awb,1,main
+2013-03-15,law,stb-2013-48,wetboek-van-strafvordering wet-economische-delicten,4,main
+2013-03-16,law,stb-2012-647,bw-boek-6 wetboek-van-burgerlijke-rechtsvordering,6,main
+2013-03-16,law,stb-2013-89,bw-boek-7,1,main
+2013-03-16,law,stb-2013-90,bw-boek-7,5,main
+2013-04-01,law,stb-2006-330,wetboek-van-strafrecht,1,main
+2013-04-01,law,stb-2012-454,bw-boek-3,1,main
+2013-04-01,law,stb-2012-572,wetboek-van-strafrecht,4,main
+2013-04-01,law,stb-2012-678,wft,2,main
+2013-04-01,law,stb-2012-666,wetboek-van-strafvordering wet-rechterlijke-organisatie politiewet-2012,10,main
+2013-04-01,law,stb-2013-15,awb wet-economische-delicten,5,main
+2013-04-01,law,stb-2013-84,wetboek-van-strafrecht,8,main
+2013-04-01,law,stb-2013-92,wetboek-van-burgerlijke-rechtsvordering,15,main
+2013-04-01,law,stb-2013-102,bw-boek-3 wetboek-van-burgerlijke-rechtsvordering awb wft,7,main
+2013-04-01,law,stb-2013-115,algemene-ouderdomswet,1,main
+2013-04-12,law,stb-2013-130,awb wet-milieubeheer wet-economische-delicten,51,main
+2013-04-25,law,stb-2013-144,awb gemeentewet wet-milieubeheer wet-economische-delicten,23,main
+2013-04-25,unexplained,,wet-milieubeheer,1,main
+2013-05-01,law,stb-2012-660,politiewet-2012,2,main
+2013-05-09,law,stcrt-2013-12205,wft,1,main
+2013-05-24,law,stb-2013-159,wet-milieubeheer wet-economische-delicten,10,main
+2013-06-01,law,stb-2010-290,vreemdelingenwet-2000,57,main
+2013-06-01,law,stb-2010-800,wet-arbeid-vreemdelingen,4,main
+2013-06-01,law,stb-2012-258,vreemdelingenwet-2000,8,main
+2013-06-01,law,stb-2012-675,werkloosheidswet,1,main
+2013-06-14,unexplained,,wet-vennootschapsbelasting-1969,2,main
+2013-06-21,law,stb-2013-215,wet-op-het-notarisambt,2,main
+2013-06-29,law,stb-2013-233,wet-economische-delicten,1,main
+2013-06-29,law,stb-2013-240,awb,2,main
+2013-06-29,law,stb-2013-253,wet-kinderopvang,1,main
+2013-07-01,law,stb-2012-78,wft,3,main
+2013-07-01,law,stb-2012-410,wetboek-van-strafrecht penitentiaire-beginselenwet,11,main
+2013-07-01,law,stb-2012-588,bw-boek-2 wft,6,main
+2013-07-01,law,stb-2012-621,wet-economische-delicten,1,main
+2013-07-01,law,stb-2012-630,opiumwet,2,main
+2013-07-01,law,stb-2012-678,wft,5,main
+2013-07-01,law,stb-2012-668,wet-omzetbelasting-1968,2,main
+2013-07-01,law,stb-2012-682,awb awr,4,main
+2013-07-01,law,stb-2013-10,wetboek-van-strafvordering,13,main
+2013-07-01,law,stb-2013-20,woningwet,2,main
+2013-07-01,law,stb-2013-50,awb vreemdelingenwet-2000 awr,20,main
+2013-07-01,law,stb-2013-72,bw-boek-1,1,main
+2013-07-01,law,stb-2013-95,wetboek-van-strafrecht,5,main
+2013-07-01,law,stb-2013-115,participatiewet,1,main
+2013-07-01,law,stb-2013-125,wet-milieubeheer,1,main
+2013-07-01,law,stb-2013-141,gemeentewet provinciewet,4,main
+2013-07-01,law,stb-2013-142,wet-kinderopvang penitentiaire-beginselenwet,3,main
+2013-07-01,law,stcrt-2013-15953,wet-inkomstenbelasting-2001,3,main
+2013-07-01,law,stb-2013-225,wetboek-van-strafrecht wetboek-van-strafvordering opiumwet wet-wapens-en-munitie,28,main
+2013-07-01,law,stb-2013-226,awb wft vreemdelingenwet-2000 participatiewet awr gemeentewet wet-milieubeheer wet-wia provinciewet,27,main
+2013-07-01,law,stb-2013-236,participatiewet wet-inkomstenbelasting-2001 werkloosheidswet wet-wia algemene-ouderdomswet wet-economische-delicten,46,main
+2013-07-01,law,stb-2013-264,awb,7,main
+2013-07-01,law,stcrt-2013-17668,participatiewet,5,main
+2013-07-01,law,stb-2013-253,wet-kinderopvang,59,main
+2013-07-01,law,stb-2013-255,bw-boek-3 bw-boek-7 wetboek-van-burgerlijke-rechtsvordering faillissementswet,17,main
+2013-07-01,unexplained,,wet-kinderopvang,1,main
+2013-07-19,law,stb-2013-296,wet-economische-delicten,1,main
+2013-07-22,law,stb-2013-228,bw-boek-2 wft awr wet-vennootschapsbelasting-1969 wet-economische-delicten,197,main
+2013-07-26,law,stb-2013-310,wetboek-van-strafvordering wft wet-economische-delicten,4,main
+2013-08-07,law,stb-2013-302,bw-boek-2 wet-op-het-notarisambt,7,main
+2013-08-20,law,stb-2011-394,wetboek-van-strafrecht bw-boek-7 wetboek-van-burgerlijke-rechtsvordering arbeidsomstandighedenwet wetboek-van-koophandel wet-economische-delicten,191,main
+2013-08-31,law,stb-2013-333,wegenverkeerswet-1994,7,main
+2013-09-01,law,stb-2013-292,wetboek-van-strafrecht,6,main
+2013-09-21,law,stb-2013-347,vreemdelingenwet-2000,4,main
+2013-10-01,law,stb-2013-85,wetboek-van-strafvordering,27,main
+2013-10-01,law,stb-2013-138,wetboek-van-strafvordering,13,main
+2013-10-01,unexplained,,successiewet-1956,1,main
+2013-10-17,law,stb-2013-289,awb,1,main
+2013-10-18,law,stb-2013-383,auteurswet,1,main
+2013-10-25,unexplained,,zorgverzekeringswet,1,main
+2013-11-01,law,stb-2013-250,wetboek-van-strafvordering,23,main
+2013-11-01,unexplained,,wetboek-van-strafvordering,1,main
+2013-11-09,law,stb-2013-318,awb,1,main
+2013-11-15,law,stb-2013-444,wetboek-van-strafrecht,3,main
+2013-11-21,law,stb-2013-459,wet-economische-delicten,1,main
+2013-12-01,law,stb-2013-289,gemeentewet,1,main
+2013-12-12,law,stb-2011-103,wet-milieubeheer,2,main
+2013-12-12,law,stcrt-2013-34709,participatiewet,9,main
+2013-12-14,law,stb-2013-531,gemeentewet provinciewet,2,main
+2013-12-31,law,stb-2014-481,wet-inkomstenbelasting-2001,1,main
+2014-01-01,law,stb-2008-551,gemeentewet provinciewet,2,main
+2014-01-01,law,stb-2011-639,wet-loonbelasting-1964,1,main
+2014-01-01,law,stb-2012-328,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,9,main
+2014-01-01,law,stb-2012-464,wet-wia wet-kinderopvang,5,main
+2014-01-01,law,stb-2012-679,wft,1,main
+2014-01-01,law,stb-2012-668,wet-inkomstenbelasting-2001,1,main
+2014-01-01,law,stb-2012-669,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,3,main
+2014-01-01,law,stb-2013-128,wet-milieubeheer,9,main
+2014-01-01,law,stb-2013-133,wet-milieubeheer,32,main
+2014-01-01,law,stb-2013-236,werkloosheidswet,1,main
+2014-01-01,law,stb-2013-253,wet-kinderopvang,16,main
+2014-01-01,law,stb-2013-278,wetboek-van-strafrecht wetboek-van-strafvordering,8,main
+2014-01-01,law,stb-2013-312,wegenverkeerswet-1994,3,main
+2014-01-01,law,stb-2013-325,bw-boek-5 bw-boek-6 bw-boek-7,3,main
+2014-01-01,law,stb-2013-333,wegenverkeerswet-1994,39,main
+2014-01-01,law,stcrt-2013-26836,wft,1,main
+2014-01-01,law,stb-2013-382,bw-boek-1 awb wet-op-het-notarisambt advocatenwet,9,main
+2014-01-01,law,stb-2013-405,participatiewet werkloosheidswet wet-wia wet-kinderopvang,4,main
+2014-01-01,law,stb-2013-408,wft,35,main
+2014-01-01,law,stb-2013-412,wet-milieubeheer,1,main
+2014-01-01,law,stb-2013-413,wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,64,main
+2014-01-01,law,stb-2013-414,bw-boek-1 bw-boek-3 bw-boek-4,33,main
+2014-01-01,law,stb-2013-420,wetboek-van-strafrecht,1,main
+2014-01-01,law,stcrt-2013-33835,zorgverzekeringswet,1,main
+2014-01-01,law,stb-2013-478,vreemdelingenwet-2000,5,main
+2014-01-01,law,stb-2013-487,bw-boek-2 awb wft faillissementswet wet-economische-delicten,149,main
+2014-01-01,law,stb-2013-501,wegenverkeerswet-1994,10,main
+2014-01-01,law,stb-2013-499,wet-arbeid-vreemdelingen,13,main
+2014-01-01,law,stb-2013-507,bw-boek-2 bw-boek-6 participatiewet woningwet,23,main
+2014-01-01,law,stb-2013-522,zorgverzekeringswet,1,main
+2014-01-01,law,stcrt-2013-34709,participatiewet,1,main
+2014-01-01,law,stb-2013-538,wet-vennootschapsbelasting-1969,1,main
+2014-01-01,law,stb-2013-550,vreemdelingenwet-2000,24,main
+2014-01-01,law,stb-2013-563,bw-boek-2 wft,6,main
+2014-01-01,law,stcrt-2013-35871,awb,3,main
+2014-01-01,law,stb-2013-565,wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,28,main
+2014-01-01,law,stb-2013-566,awb wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956 wet-kinderopvang,29,main
+2014-01-01,law,stb-2013-567,awr,4,main
+2014-01-01,law,stb-2013-568,awr,1,main
+2014-01-01,law,stb-2013-576,wet-economische-delicten,1,main
+2014-01-01,law,stb-2013-583,wet-inkomstenbelasting-2001,20,main
+2014-01-01,law,stcrt-2013-34288,provinciewet,1,main
+2014-01-01,law,stcrt-2013-35144,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,21,main
+2014-01-01,unexplained,,faillissementswet,2,main
+2014-01-01,unexplained,,wegenverkeerswet-1994,1,main
+2014-01-01,unexplained,,wet-inkomstenbelasting-2001,1,main
+2014-01-01,unexplained,,wet-loonbelasting-1964,1,main
+2014-01-01,unexplained,,wet-milieubeheer,1,main
+2014-01-01,unexplained,,wet-wia,2,main
+2014-01-06,law,stb-2013-316,bw-boek-1 wetboek-van-strafrecht bw-boek-2 bw-boek-7 wetboek-van-strafvordering wetboek-van-burgerlijke-rechtsvordering awb participatiewet zorgverzekeringswet wet-inkomstenbelasting-2001 awr wegenverkeerswet-1994 gemeentewet wet-loonbelasting-1964 successiewet-1956 wet-wia algemene-ouderdomswet wet-kinderopvang penitentiaire-beginselenwet provinciewet,60,main
+2014-01-06,law,stb-2013-405,werkloosheidswet wet-wia,2,main
+2014-01-20,law,stb-2014-10,wetboek-van-strafrecht,3,main
+2014-01-25,law,stb-2014-14,awb wet-milieubeheer wet-economische-delicten,7,main
+2014-02-01,unexplained,,algemene-ouderdomswet,1,main
+2014-02-08,law,stb-2012-678,wft,1,main
+2014-02-15,law,stb-2013-560,bw-boek-1 wetboek-van-strafrecht wetboek-van-burgerlijke-rechtsvordering zorgverzekeringswet,27,main
+2014-02-19,law,stb-2014-73,wegenverkeerswet-1994,3,main
+2014-02-22,law,stb-2014-48,awb,1,main
+2014-03-01,law,stb-2014-2,vreemdelingenwet-2000,5,main
+2014-03-01,law,stb-2014-39,wetboek-van-strafrecht,4,main
+2014-03-01,law,stb-2014-74,wetboek-van-strafrecht,2,main
+2014-03-15,start,stb-2014-105,jeugdwet,10,main
+2014-03-19,law,stb-2013-76,wegenverkeerswet-1994 gemeentewet werkloosheidswet provinciewet,29,main
+2014-03-22,law,stb-2014-80,vreemdelingenwet-2000,3,main
+2014-03-24,unexplained,,algemene-ouderdomswet,1,main
+2014-03-29,law,stb-2014-110,bw-boek-10 vreemdelingenwet-2000,26,main
+2014-04-01,law,stb-2013-414,bw-boek-1,6,main
+2014-04-01,law,stb-2013-480,bw-boek-1 bw-boek-10,15,main
+2014-04-01,law,stb-2013-485,wetboek-van-strafrecht wetboek-van-strafvordering wet-rechterlijke-organisatie,31,main
+2014-04-01,law,stb-2013-486,bw-boek-1 bw-boek-6 bw-boek-10 wetboek-van-burgerlijke-rechtsvordering,32,main
+2014-04-01,law,stb-2013-560,zorgverzekeringswet,2,main
+2014-04-01,law,stb-2013-578,bw-boek-7 awb participatiewet zorgverzekeringswet werkloosheidswet wet-wia algemene-ouderdomswet wet-economische-delicten,61,main
+2014-04-01,law,stb-2014-128,vreemdelingenwet-2000 wet-arbeid-vreemdelingen,20,main
+2014-05-01,law,stb-2014-125,wetboek-van-strafrecht wetboek-van-strafvordering wegenverkeerswet-1994,18,main
+2014-05-01,law,stb-2014-159,wet-economische-delicten,1,main
+2014-05-03,law,stb-2013-381,wet-economische-delicten,1,main
+2014-05-16,law,stb-2014-167,werkloosheidswet,1,main
+2014-05-27,law,stb-2014-179,wft,1,main
+2014-06-13,law,stb-2014-140,bw-boek-6 bw-boek-7 wft,49,main
+2014-06-13,unexplained,,wft,1,main
+2014-07-01,law,stb-2011-345,wetboek-van-strafvordering wet-economische-delicten,2,main
+2014-07-01,law,stb-2013-302,bw-boek-2,6,main
+2014-07-01,law,stb-2013-350,bw-boek-7,12,main
+2014-07-01,law,stb-2013-484,wetboek-van-strafrecht,13,main
+2014-07-01,law,stb-2014-1,bw-boek-1,6,main
+2014-07-01,law,stb-2014-21,wet-economische-delicten,1,main
+2014-07-01,law,stb-2014-173,wet-milieubeheer,1,main
+2014-07-01,law,stb-2014-191,gemeentewet wet-wapens-en-munitie,6,main
+2014-07-01,law,stb-2014-202,bw-boek-2 wet-op-het-notarisambt,28,main
+2014-07-01,law,stb-2014-205,bw-boek-7 awb,8,main
+2014-07-01,law,stcrt-2014-18130,participatiewet,7,main
+2014-07-16,law,stb-2014-259,awb participatiewet zorgverzekeringswet wet-loonbelasting-1964,6,main
+2014-07-19,start,stb-2014-280,wmo-2015,75,main
+2014-07-19,law,stb-2014-219,wet-inkomstenbelasting-2001,2,main
+2014-08-01,law,stb-2014-247,bw-boek-3 bw-boek-6 awb wft wet-economische-delicten,8,main
+2014-08-01,law,stb-2014-253,bw-boek-7 wetboek-van-burgerlijke-rechtsvordering wft,80,main
+2014-10-01,start,,wet-langdurige-zorg,2,main
+2014-10-15,law,stb-2014-302,wet-milieubeheer,14,main
+2014-10-18,law,stb-2014-364,participatiewet,7,main
+2014-10-22,law,stb-2014-375,wegenverkeerswet-1994,9,main
+2014-10-29,law,stb-2014-388,auteurswet,7,main
+2014-11-01,law,stb-2013-144,wet-milieubeheer,2,main
+2014-11-01,law,stb-2014-255,wetboek-van-strafvordering gemeentewet,2,main
+2014-11-01,law,stb-2014-260,bw-boek-1,1,main
+2014-11-01,law,stb-2014-400,vreemdelingenwet-2000,5,main
+2014-11-22,law,stb-2014-442,jeugdwet,6,main
+2014-11-28,law,stb-2014-307,participatiewet algemene-ouderdomswet,6,main
+2014-11-29,law,stb-2014-458,bw-boek-7 awb gemeentewet woningwet,12,main
+2014-12-12,law,stb-2014-442,jeugdwet,1,main
+2014-12-17,law,stb-2014-502,algemene-ouderdomswet,1,main
+2014-12-23,law,stb-2014-540,awb gemeentewet,3,main
+2015-01-01,law,stb-2009-546,wet-omzetbelasting-1968,5,main
+2015-01-01,law,stb-2009-611,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,2,main
+2015-01-01,law,stb-2011-288,zorgverzekeringswet,1,main
+2015-01-01,law,stb-2011-642,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,2,main
+2015-01-01,law,stb-2012-313,advocatenwet,1,main
+2015-01-01,law,stb-2012-321,wet-loonbelasting-1964,1,main
+2015-01-01,law,stb-2012-328,wet-loonbelasting-1964,1,main
+2015-01-01,law,stb-2012-669,wet-inkomstenbelasting-2001,3,main
+2015-01-01,law,stb-2013-414,bw-boek-1,6,main
+2015-01-01,law,stb-2013-487,bw-boek-2,1,main
+2015-01-01,law,stb-2013-565,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 successiewet-1956,16,main
+2015-01-01,law,stb-2013-583,wet-inkomstenbelasting-2001,1,main
+2015-01-01,law,stb-2014-105,wetboek-van-strafrecht zorgverzekeringswet jeugdwet,102,main
+2015-01-01,law,stb-2014-130,bw-boek-1 wetboek-van-burgerlijke-rechtsvordering,33,main
+2015-01-01,law,stb-2014-131,bw-boek-1 wetboek-van-strafvordering wetboek-van-burgerlijke-rechtsvordering wet-inkomstenbelasting-2001,14,main
+2015-01-01,law,stb-2014-176,wetboek-van-strafvordering,1,main
+2015-01-01,law,stb-2014-196,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,14,main
+2015-01-01,law,stb-2014-200,bw-boek-3 bw-boek-6 bw-boek-10 wetboek-van-burgerlijke-rechtsvordering,94,main
+2015-01-01,law,stb-2014-216,bw-boek-7,4,main
+2015-01-01,law,stb-2014-225,wetboek-van-strafvordering wet-rechterlijke-organisatie,8,main
+2015-01-01,law,stb-2014-227,wetboek-van-burgerlijke-rechtsvordering wet-inkomstenbelasting-2001 algemene-ouderdomswet,12,main
+2015-01-01,law,stb-2014-238,wet-wia algemene-ouderdomswet,2,main
+2015-01-01,law,stb-2014-240,wet-rechterlijke-organisatie,1,main
+2015-01-01,law,stb-2014-248,bw-boek-7 wet-inkomstenbelasting-2001,8,main
+2015-01-01,law,stb-2014-249,woningwet,7,main
+2015-01-01,law,stb-2014-253,wft,3,main
+2015-01-01,law,stb-2014-256,wet-milieubeheer,1,main
+2015-01-01,law,stb-2014-259,zorgverzekeringswet,2,main
+2015-01-01,law,stb-2014-269,wetboek-van-burgerlijke-rechtsvordering participatiewet wet-wia algemene-ouderdomswet,17,main
+2015-01-01,law,stb-2014-270,bw-boek-1 wetboek-van-burgerlijke-rechtsvordering participatiewet jeugdwet wet-inkomstenbelasting-2001 faillissementswet wet-loonbelasting-1964 werkloosheidswet wet-wia algemene-ouderdomswet,48,main
+2015-01-01,law,stb-2014-280,zorgverzekeringswet jeugdwet wmo-2015 woningwet,61,main
+2015-01-01,law,stb-2014-306,awb gemeentewet provinciewet,7,main
+2015-01-01,law,stb-2014-313,wegenverkeerswet-1994,6,main
+2015-01-01,law,stcrt-2014-28363,zorgverzekeringswet,1,main
+2015-01-01,law,stb-2014-352,bw-boek-3 wetboek-van-burgerlijke-rechtsvordering,16,main
+2015-01-01,law,stb-2014-354,advocatenwet,120,main
+2015-01-01,law,stb-2014-428,auteurswet,2,main
+2015-01-01,law,stb-2014-442,bw-boek-1 participatiewet jeugdwet wmo-2015 wet-inkomstenbelasting-2001 wet-wia algemene-ouderdomswet wet-kinderopvang penitentiaire-beginselenwet,146,main
+2015-01-01,law,stb-2014-433,wetboek-van-strafvordering,2,main
+2015-01-01,law,stb-2014-445,wetboek-van-strafrecht wet-economische-delicten,16,main
+2015-01-01,law,stb-2014-455,wet-milieubeheer,48,main
+2015-01-01,law,stb-2014-458,woningwet,1,main
+2015-01-01,law,stb-2014-470,auteurswet,1,main
+2015-01-01,law,stb-2014-472,bw-boek-2 wft faillissementswet,60,main
+2015-01-01,law,stb-2014-481,wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,16,main
+2015-01-01,law,stb-2014-494,bw-boek-7 wft participatiewet zorgverzekeringswet jeugdwet wmo-2015 wet-langdurige-zorg wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 wet-loonbelasting-1964 werkloosheidswet wet-wia algemene-ouderdomswet,204,main
+2015-01-01,law,stb-2014-502,participatiewet,1,main
+2015-01-01,law,stb-2014-504,bw-boek-7 awb participatiewet wet-loonbelasting-1964 werkloosheidswet wet-wia algemene-ouderdomswet wet-kinderopvang,63,main
+2015-01-01,law,stcrt-2014-36080,wft,1,main
+2015-01-01,law,stb-2014-527,wet-op-het-notarisambt,1,main
+2015-01-01,law,stb-2014-540,bw-boek-1 wetboek-van-strafrecht bw-boek-2 bw-boek-3 bw-boek-6 bw-boek-10 wetboek-van-strafvordering wetboek-van-burgerlijke-rechtsvordering awb vreemdelingenwet-2000 wet-rechterlijke-organisatie faillissementswet wetboek-van-koophandel wet-op-het-notarisambt politiewet-2012,51,main
+2015-01-01,law,stcrt-2014-36891,participatiewet,7,main
+2015-01-01,law,stcrt-2014-36923,participatiewet,1,main
+2015-01-01,law,stcrt-2014-37105,awb,3,main
+2015-01-01,law,stb-2014-557,woningwet wet-milieubeheer provinciewet,3,main
+2015-01-01,law,stb-2014-565,bw-boek-7,1,main
+2015-01-01,law,stb-2014-571,wetboek-van-burgerlijke-rechtsvordering awb wet-milieubeheer wet-economische-delicten,8,main
+2015-01-01,law,stb-2014-578,wet-inkomstenbelasting-2001 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,50,main
+2015-01-01,law,stcrt-2014-36639,wet-inkomstenbelasting-2001 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,42,main
+2015-01-01,law,stcrt-2014-36661,wet-omzetbelasting-1968 provinciewet,2,main
+2015-01-01,law,stb-2014-581,awb wegenverkeerswet-1994 gemeentewet wet-milieubeheer,39,main
+2015-01-01,unexplained,,bw-boek-1,2,main
+2015-01-01,unexplained,,jeugdwet,2,main
+2015-01-01,unexplained,,participatiewet,1,main
+2015-01-01,unexplained,,wet-inkomstenbelasting-2001,1,main
+2015-01-01,unexplained,,wet-kinderopvang,1,main
+2015-01-01,unexplained,,wet-langdurige-zorg,3,main
+2015-01-01,unexplained,,zorgverzekeringswet,2,main
+2015-01-29,law,stb-2014-159,wet-economische-delicten,1,main
+2015-02-01,law,stb-2015-28,participatiewet algemene-ouderdomswet,3,main
+2015-02-07,law,stb-2015-45,wft,25,main
+2015-03-01,law,stb-2014-444,wetboek-van-strafvordering opiumwet,5,main
+2015-03-01,law,stb-2014-445,wetboek-van-strafvordering,4,main
+2015-03-01,law,stb-2015-40,wetboek-van-strafvordering,18,main
+2015-03-12,law,stb-2015-106,wet-wapens-en-munitie,16,main
+2015-04-01,law,stb-2013-115,algemene-ouderdomswet,2,main
+2015-04-01,law,stb-2013-307,awb wet-economische-delicten,2,main
+2015-04-01,law,stb-2014-472,wft,17,main
+2015-06-01,law,stb-2009-440,bw-boek-6 wet-milieubeheer wet-economische-delicten,28,main
+2015-06-01,law,stb-2014-504,arbeidsomstandighedenwet,1,main
+2015-06-12,law,stb-2015-184,bw-boek-2 wft faillissementswet,89,main
+2015-06-12,law,stb-2015-207,wet-inkomstenbelasting-2001 wet-vennootschapsbelasting-1969,11,main
+2015-06-19,law,stb-2015-218,wet-loonbelasting-1964 algemene-ouderdomswet,2,main
+2015-06-19,law,stb-2015-220,bw-boek-6 bw-boek-7,9,main
+2015-06-30,law,stb-2011-640,awr,1,main
+2015-07-01,law,stb-2012-660,politiewet-2012,1,main
+2015-07-01,law,stb-2013-20,wet-milieubeheer,4,main
+2015-07-01,law,stb-2014-216,bw-boek-7 faillissementswet wet-loonbelasting-1964 werkloosheidswet wet-wia,43,main
+2015-07-01,law,stb-2014-380,bw-boek-1,4,main
+2015-07-01,law,stb-2014-504,bw-boek-7 werkloosheidswet,31,main
+2015-07-01,law,stb-2014-540,wetboek-van-strafvordering wetboek-van-burgerlijke-rechtsvordering wet-op-het-notarisambt,3,main
+2015-07-01,law,stb-2015-9,wet-economische-delicten,1,main
+2015-07-01,law,stb-2015-10,wegenverkeerswet-1994,5,main
+2015-07-01,law,stb-2015-50,wet-inkomstenbelasting-2001,3,main
+2015-07-01,law,stb-2015-82,wetboek-van-strafvordering wetboek-van-burgerlijke-rechtsvordering,3,main
+2015-07-01,law,stb-2015-84,bw-boek-2,1,main
+2015-07-01,law,stb-2015-122,awb,1,main
+2015-07-01,law,stb-2015-140,wet-rechterlijke-organisatie penitentiaire-beginselenwet,6,main
+2015-07-01,law,stb-2015-145,awr woningwet wet-vennootschapsbelasting-1969,122,main
+2015-07-01,law,stb-2015-142,wet-wapens-en-munitie,1,main
+2015-07-01,law,stb-2015-165,wetboek-van-strafrecht wetboek-van-strafvordering,9,main
+2015-07-01,law,stb-2015-203,wet-wia,1,main
+2015-07-01,law,stb-2015-233,bw-boek-7 wet-arbeid-vreemdelingen,15,main
+2015-07-01,law,stcrt-2015-17277,participatiewet,6,main
+2015-07-01,law,stb-2015-261,awb wet-economische-delicten,5,main
+2015-07-01,law,stb-2015-255,wetboek-van-strafrecht gemeentewet,3,main
+2015-07-01,law,stb-2015-257,auteurswet,11,main
+2015-07-01,unexplained,,wegenverkeerswet-1994,1,main
+2015-07-01,unexplained,,wet-milieubeheer,1,main
+2015-07-09,law,stb-2015-160,wft,1,main
+2015-07-18,law,stb-2015-271,wegenverkeerswet-1994,2,main
+2015-07-20,law,stb-2015-292,vreemdelingenwet-2000,35,main
+2015-08-01,law,stb-2014-227,wet-kinderopvang,1,main
+2015-08-01,law,stb-2015-185,wetboek-van-strafrecht,3,main
+2015-08-17,law,stb-2014-430,bw-boek-4 bw-boek-10 wet-op-het-notarisambt,13,main
+2015-08-27,law,stb-2015-225,bw-boek-3 bw-boek-10 wetboek-van-burgerlijke-rechtsvordering,7,main
+2015-09-01,law,stb-2013-316,bw-boek-1,1,main
+2015-09-01,law,stb-2013-333,wegenverkeerswet-1994,1,main
+2015-09-01,law,stb-2014-380,bw-boek-1,24,main
+2015-09-01,law,stb-2015-50,wet-inkomstenbelasting-2001,1,main
+2015-10-01,law,stb-2014-581,wegenverkeerswet-1994,1,main
+2015-11-01,law,stb-2015-349,bw-boek-2 wft wet-economische-delicten,66,main
+2015-11-01,law,stb-2015-378,awr gemeentewet,4,main
+2015-11-17,law,stb-2015-410,wetboek-van-strafrecht wetboek-van-strafvordering,3,main
+2015-11-26,law,stb-2014-472,wft,2,main
+2015-11-26,law,stb-2015-431,bw-boek-2 bw-boek-3 bw-boek-7 awb wft faillissementswet,148,main
+2015-11-26,unexplained,,wft,1,main
+2015-12-01,law,stb-2013-528,awb wet-economische-delicten,3,main
+2015-12-01,law,stb-2015-348,awr,1,main
+2015-12-05,law,stb-2015-354,bw-boek-1 bw-boek-10,16,main
+2015-12-11,law,stb-2015-464,bw-boek-7 wet-arbeid-vreemdelingen werkloosheidswet wet-wia algemene-ouderdomswet,9,main
+2015-12-15,law,stb-2015-361,awb wet-economische-delicten,4,main
+2015-12-17,law,stb-2015-428,wft,3,main
+2016-01-01,law,stb-2011-275,bw-boek-2,3,main
+2016-01-01,law,stb-2011-479,wet-kinderopvang,1,main
+2016-01-01,law,stb-2011-639,wet-inkomstenbelasting-2001,1,main
+2016-01-01,law,stb-2012-679,bw-boek-2 wetboek-van-burgerlijke-rechtsvordering wft zorgverzekeringswet,217,main
+2016-01-01,law,stb-2013-408,wft,14,main
+2016-01-01,law,stb-2013-565,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,2,main
+2016-01-01,law,stb-2014-196,wet-inkomstenbelasting-2001,1,main
+2016-01-01,law,stb-2014-216,werkloosheidswet wet-wia,3,main
+2016-01-01,law,stb-2014-269,participatiewet,1,main
+2016-01-01,law,stb-2014-494,zorgverzekeringswet,1,main
+2016-01-01,law,stb-2014-504,werkloosheidswet wet-wia,3,main
+2016-01-01,law,stb-2014-578,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,8,main
+2016-01-01,law,stb-2014-581,wegenverkeerswet-1994,7,main
+2016-01-01,law,stb-2015-45,wft,1,main
+2016-01-01,law,stb-2015-136,participatiewet,2,main
+2016-01-01,law,stb-2015-145,woningwet,3,main
+2016-01-01,law,stb-2015-177,wet-kinderopvang,26,main
+2016-01-01,law,stb-2015-218,wet-loonbelasting-1964,3,main
+2016-01-01,law,stb-2015-230,wet-politiegegevens,1,main
+2016-01-01,law,stb-2015-233,bw-boek-7,1,main
+2016-01-01,law,stb-2015-278,faillissementswet,7,main
+2016-01-01,law,stb-2015-280,wetboek-van-strafrecht,1,main
+2016-01-01,law,stb-2015-304,wft wet-economische-delicten,25,main
+2016-01-01,law,stb-2015-376,bw-boek-7 wet-wia,7,main
+2016-01-01,law,stb-2015-396,wetboek-van-burgerlijke-rechtsvordering,5,main
+2016-01-01,law,stb-2015-399,wet-economische-delicten,1,main
+2016-01-01,law,stb-2015-407,awb,4,main
+2016-01-01,law,stcrt-2015-40451,zorgverzekeringswet,1,main
+2016-01-01,law,stb-2015-420,wetboek-van-strafrecht,1,main
+2016-01-01,law,stcrt-2015-41467,wet-wia,1,main
+2016-01-01,law,stb-2015-432,wft faillissementswet,9,main
+2016-01-01,law,stb-2015-455,wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,15,main
+2016-01-01,law,stb-2015-464,bw-boek-7 wetboek-van-burgerlijke-rechtsvordering wet-arbeid-vreemdelingen participatiewet arbeidsomstandighedenwet werkloosheidswet wet-wia algemene-ouderdomswet wet-kinderopvang,66,main
+2016-01-01,law,stcrt-2015-44577,awb,2,main
+2016-01-01,law,stcrt-2015-44629,participatiewet,9,main
+2016-01-01,law,stcrt-2015-45265,participatiewet,1,main
+2016-01-01,law,stb-2015-538,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 provinciewet,21,main
+2016-01-01,law,stb-2015-540,wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,36,main
+2016-01-01,law,stb-2015-543,wet-vennootschapsbelasting-1969,4,main
+2016-01-01,law,stb-2015-547,participatiewet wet-wia,3,main
+2016-01-01,law,stb-2015-549,wft wet-loonbelasting-1964,2,main
+2016-01-01,law,stcrt-2015-47097,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,31,main
+2016-01-01,law,stcrt-2015-47103,provinciewet,1,main
+2016-01-01,unexplained,,wet-inkomstenbelasting-2001,1,main
+2016-01-01,unexplained,,wet-omzetbelasting-1968,1,main
+2016-01-01,unexplained,,wft,2,main
+2016-01-13,law,stcrt-2016-1449,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,4,main
+2016-01-18,law,stb-2015-478,wet-op-het-notarisambt advocatenwet,6,main
+2016-01-18,law,stb-2016-26,wet-economische-delicten,1,main
+2016-01-29,law,stb-2016-31,bw-boek-2 wft,40,main
+2016-02-01,law,stb-2015-426,gemeentewet provinciewet,42,main
+2016-03-15,law,stb-2015-497,awb wegenverkeerswet-1994,4,main
+2016-03-18,law,stb-2016-91,wft wet-economische-delicten,56,main
+2016-03-24,law,stb-2015-541,wet-inkomstenbelasting-2001,1,main
+2016-04-01,law,stb-2013-567,awr,1,main
+2016-04-01,law,stb-2014-504,werkloosheidswet,2,main
+2016-04-01,law,stb-2015-428,wft faillissementswet wet-economische-delicten,82,main
+2016-04-01,law,stb-2015-431,wft,1,main
+2016-04-01,law,stb-2015-451,participatiewet,5,main
+2016-04-01,law,stb-2016-116,awb,3,main
+2016-04-01,law,stb-2016-124,bw-boek-7,1,main
+2016-04-14,law,stb-2015-521,woningwet wet-milieubeheer wet-economische-delicten,5,main
+2016-04-20,law,stb-2015-307,wetboek-van-strafrecht,2,main
+2016-04-23,law,stb-2015-388,wet-economische-delicten,1,main
+2016-04-30,law,stb-2013-566,wet-inkomstenbelasting-2001,1,main
+2016-05-01,law,stb-2016-45,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 werkloosheidswet,5,main
+2016-05-01,law,stb-2016-93,wet-op-het-notarisambt advocatenwet,26,main
+2016-05-01,law,stb-2016-163,wet-omzetbelasting-1968 awr opiumwet,6,main
+2016-05-01,unexplained,,wet-inkomstenbelasting-2001,1,main
+2016-05-20,law,stb-2016-175,awb wet-economische-delicten,3,main
+2016-06-01,law,stb-2016-200,wet-economische-delicten,2,main
+2016-06-14,law,stb-2016-215,participatiewet jeugdwet wmo-2015,3,main
+2016-06-18,law,stb-2016-219,wetboek-van-burgerlijke-rechtsvordering,2,main
+2016-07-01,law,stb-2012-669,wet-loonbelasting-1964,1,main
+2016-07-01,law,stb-2013-236,participatiewet,1,main
+2016-07-01,law,stb-2014-380,bw-boek-1,1,main
+2016-07-01,law,stb-2015-145,woningwet,1,main
+2016-07-01,law,stb-2015-464,participatiewet,1,main
+2016-07-01,law,stb-2015-502,zorgverzekeringswet,10,main
+2016-07-01,law,stb-2015-505,bw-boek-2,10,main
+2016-07-01,law,stb-2015-511,bw-boek-3 wetboek-van-burgerlijke-rechtsvordering wet-inkomstenbelasting-2001 wet-milieubeheer wet-economische-delicten,12,main
+2016-07-01,law,stb-2016-20,bw-boek-7,2,main
+2016-07-01,law,stb-2016-55,awb wet-economische-delicten,2,main
+2016-07-01,law,stb-2016-130,gemeentewet,1,main
+2016-07-01,law,stb-2016-133,wetboek-van-strafrecht bw-boek-6 wetboek-van-strafvordering,4,main
+2016-07-01,law,stb-2016-147,bw-boek-7,1,main
+2016-07-01,law,stb-2016-148,politiewet-2012,1,main
+2016-07-01,law,stb-2016-153,faillissementswet,5,main
+2016-07-01,law,stb-2016-154,wetboek-van-strafrecht,10,main
+2016-07-01,law,stb-2016-160,wetboek-van-strafvordering,5,main
+2016-07-01,law,stb-2016-157,woningwet,1,main
+2016-07-01,law,stb-2016-158,bw-boek-7 woningwet,14,main
+2016-07-01,law,stb-2016-219,bw-boek-7,1,main
+2016-07-01,law,stcrt-2016-32586,participatiewet,6,main
+2016-07-01,law,stb-2016-240,wetboek-van-strafrecht,1,main
+2016-07-01,unexplained,,zorgverzekeringswet,1,main
+2016-07-14,law,stb-2016-265,bw-boek-7 wft,35,main
+2016-08-01,law,stb-2016-206,bw-boek-1 bw-boek-7 zorgverzekeringswet jeugdwet wmo-2015 wet-langdurige-zorg opiumwet werkloosheidswet wet-wia algemene-ouderdomswet,53,main
+2016-08-01,law,stb-2016-268,zorgverzekeringswet jeugdwet wmo-2015 wet-langdurige-zorg,16,main
+2016-08-11,law,stb-2016-297,wetboek-van-strafvordering wft wet-economische-delicten,50,main
+2016-09-01,law,stb-2015-452,wet-kinderopvang,4,main
+2016-09-01,law,stb-2016-199,bw-boek-7,2,main
+2016-09-01,law,stb-2016-226,bw-boek-4,5,main
+2016-09-01,law,stb-2016-248,wet-loonbelasting-1964,1,main
+2016-09-03,law,stcrt-2016-45885,wft,1,main
+2016-09-18,law,stb-2016-322,wet-economische-delicten,1,main
+2016-10-01,law,stb-2012-328,participatiewet,1,main
+2016-10-01,law,stb-2014-307,algemene-ouderdomswet,1,main
+2016-10-01,law,stb-2015-451,participatiewet,1,main
+2016-10-21,law,stb-2016-374,wet-economische-delicten,1,main
+2016-10-28,law,stb-2016-295,woningwet,3,main
+2016-11-03,law,stb-2016-409,awb,2,main
+2016-11-11,law,stb-2016-386,wft,8,main
+2016-12-01,law,stb-2016-90,wetboek-van-strafvordering wet-economische-delicten,21,main
+2016-12-06,law,stb-2016-352,bw-boek-2,1,main
+2016-12-08,law,stb-2016-471,bw-boek-7 participatiewet werkloosheidswet wet-wia algemene-ouderdomswet,11,main
+2016-12-09,law,stb-2016-479,wet-vennootschapsbelasting-1969,13,main
+2016-12-28,law,stb-2016-58,wet-economische-delicten,1,main
+2016-12-31,law,stb-2016-552,bw-boek-6 wet-milieubeheer wet-economische-delicten,3,main
+2017-01-01,law,stb-2013-565,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,2,main
+2017-01-01,law,stb-2015-207,wet-vennootschapsbelasting-1969,1,main
+2017-01-01,law,stb-2015-218,wet-loonbelasting-1964,2,main
+2017-01-01,law,stb-2015-233,bw-boek-7,1,main
+2017-01-01,law,stb-2015-460,wetboek-van-strafrecht,1,main
+2017-01-01,law,stb-2015-456,awb wet-rechterlijke-organisatie,22,main
+2017-01-01,law,stb-2015-538,wet-inkomstenbelasting-2001 successiewet-1956,3,main
+2017-01-01,law,stb-2016-34,wet-milieubeheer wet-economische-delicten wet-wapens-en-munitie,10,main
+2017-01-01,law,stb-2016-55,bw-boek-3 bw-boek-6,3,main
+2017-01-01,law,stb-2016-108,zorgverzekeringswet,2,main
+2017-01-01,law,stb-2016-143,zorgverzekeringswet,3,main
+2017-01-01,law,stb-2016-158,bw-boek-7 woningwet,5,main
+2017-01-01,law,stb-2016-173,zorgverzekeringswet wet-langdurige-zorg,25,main
+2017-01-01,law,stb-2016-203,politiewet-2012,45,main
+2017-01-01,law,stb-2016-221,bw-boek-7 werkloosheidswet wet-wia,9,main
+2017-01-01,law,stb-2016-255,wetboek-van-burgerlijke-rechtsvordering,24,main
+2017-01-01,law,stb-2016-275,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,4,main
+2017-01-01,law,stb-2016-313,wetboek-van-strafrecht wetboek-van-strafvordering,5,main
+2017-01-01,law,stb-2016-318,participatiewet werkloosheidswet wet-wia algemene-ouderdomswet,9,main
+2017-01-01,law,stb-2016-319,wet-kinderopvang,26,main
+2017-01-01,law,stb-2016-353,wetboek-van-strafvordering,2,main
+2017-01-01,law,stb-2016-360,bw-boek-1 bw-boek-3 bw-boek-7 wft,57,main
+2017-01-01,law,stb-2016-361,wet-rechterlijke-organisatie,1,main
+2017-01-01,law,stb-2016-398,bw-boek-2,1,main
+2017-01-01,law,stcrt-2016-58571,bw-boek-7,1,main
+2017-01-01,law,stb-2016-415,wetboek-van-strafrecht vreemdelingenwet-2000,22,main
+2017-01-01,law,stb-2016-420,bw-boek-7,5,main
+2017-01-01,law,stb-2016-431,bw-boek-6,1,main
+2017-01-01,law,stb-2016-444,participatiewet,2,main
+2017-01-01,law,stcrt-2016-65678,wet-wia,1,main
+2017-01-01,law,stb-2016-471,wet-arbeid-vreemdelingen participatiewet werkloosheidswet wet-wia algemene-ouderdomswet wet-economische-delicten,23,main
+2017-01-01,law,stcrt-2016-67519,awb,2,main
+2017-01-01,law,stcrt-2016-67596,participatiewet,9,main
+2017-01-01,law,stb-2016-519,participatiewet,1,main
+2017-01-01,law,stb-2016-544,wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,41,main
+2017-01-01,law,stb-2016-545,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,27,main
+2017-01-01,law,stb-2016-546,wet-omzetbelasting-1968 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,7,main
+2017-01-01,law,stb-2016-547,wet-inkomstenbelasting-2001,1,main
+2017-01-01,law,stcrt-2016-68755,provinciewet,1,main
+2017-01-01,law,stcrt-2016-70381,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,33,main
+2017-01-01,law,stb-2016-554,bw-boek-6,1,main
+2017-02-01,law,stb-2016-444,participatiewet,2,main
+2017-02-10,law,stb-2017-28,bw-boek-6 wetboek-van-burgerlijke-rechtsvordering,21,main
+2017-02-28,law,stb-2017-64,bw-boek-1 jeugdwet,13,main
+2017-02-28,unexplained,,jeugdwet,1,main
+2017-03-01,law,stb-2016-288,wetboek-van-burgerlijke-rechtsvordering,57,main
+2017-03-01,law,stb-2016-289,wetboek-van-burgerlijke-rechtsvordering,37,main
+2017-03-01,law,stb-2016-290,wetboek-van-burgerlijke-rechtsvordering wet-rechterlijke-organisatie,18,main
+2017-03-01,law,stb-2016-375,wet-op-het-notarisambt,5,main
+2017-03-01,law,stb-2016-475,wetboek-van-strafvordering,9,main
+2017-03-01,law,stb-2016-476,wetboek-van-strafrecht wetboek-van-strafvordering advocatenwet penitentiaire-beginselenwet,65,main
+2017-03-01,law,stb-2017-51,wetboek-van-strafvordering,1,main
+2017-03-10,law,stb-2017-13,bw-boek-3 bw-boek-6 bw-boek-7 wetboek-van-burgerlijke-rechtsvordering awb wet-omzetbelasting-1968,10,main
+2017-04-01,law,stb-2016-545,wet-inkomstenbelasting-2001,6,main
+2017-04-01,law,stb-2017-90,wetboek-van-strafvordering,20,main
+2017-04-01,law,stb-2017-93,awb,1,main
+2017-04-01,law,stb-2017-115,wetboek-van-burgerlijke-rechtsvordering participatiewet wet-inkomstenbelasting-2001 faillissementswet wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,50,main
+2017-04-13,law,stb-2017-68,bw-boek-2,3,main
+2017-05-01,law,stb-2017-57,wet-milieubeheer,23,main
+2017-05-16,law,stb-2017-30,wet-milieubeheer,25,main
+2017-05-25,law,stb-2017-99,zorgverzekeringswet,1,main
+2017-06-05,law,stb-2017-215,wet-vennootschapsbelasting-1969,4,main
+2017-06-12,law,stb-2016-288,awb,27,main
+2017-06-17,law,stb-2017-231,wetboek-van-strafvordering,49,main
+2017-06-27,law,stb-2017-235,bw-boek-2 awb wft faillissementswet,101,main
+2017-07-01,law,stb-2012-224,werkloosheidswet wet-wia,2,main
+2017-07-01,law,stb-2013-236,participatiewet,1,main
+2017-07-01,law,stb-2013-563,bw-boek-2,1,main
+2017-07-01,law,stb-2014-353,wegenverkeerswet-1994,2,main
+2017-07-01,law,stb-2014-375,wegenverkeerswet-1994,1,main
+2017-07-01,law,stb-2014-494,wet-langdurige-zorg,1,main
+2017-07-01,law,stb-2016-272,awb,1,main
+2017-07-01,law,stb-2016-353,wegenverkeerswet-1994,2,main
+2017-07-01,law,stb-2016-373,zorgverzekeringswet,4,main
+2017-07-01,law,stb-2016-544,wet-inkomstenbelasting-2001,1,main
+2017-07-01,law,stb-2017-22,arbeidsomstandighedenwet,8,main
+2017-07-01,law,stb-2017-24,bw-boek-7 participatiewet werkloosheidswet wet-wia,4,main
+2017-07-01,law,stb-2017-25,bw-boek-7 woningwet,50,main
+2017-07-01,law,stb-2017-77,gemeentewet,1,main
+2017-07-01,law,stb-2017-124,faillissementswet,12,main
+2017-07-01,law,stb-2017-146,zorgverzekeringswet,7,main
+2017-07-01,law,stb-2017-157,gemeentewet provinciewet,2,main
+2017-07-01,law,stb-2017-170,bw-boek-6,1,main
+2017-07-01,law,stb-2017-232,wet-wia,1,main
+2017-07-01,law,stb-2017-282,vreemdelingenwet-2000 wet-arbeid-vreemdelingen,5,main
+2017-07-01,law,stcrt-2017-36285,participatiewet,6,main
+2017-07-01,law,stcrt-2017-35122,wet-vennootschapsbelasting-1969,2,main
+2017-07-01,unexplained,,woningwet,1,main
+2017-07-12,law,stb-2017-299,wegenverkeerswet-1994,16,main
+2017-08-01,law,stb-2016-180,wet-economische-delicten,1,main
+2017-08-01,law,stb-2017-213,algemene-ouderdomswet,3,main
+2017-08-30,law,stb-2017-320,wet-milieubeheer,1,main
+2017-09-01,law,stb-2016-288,wetboek-van-burgerlijke-rechtsvordering,62,main
+2017-09-01,law,stb-2016-289,wetboek-van-burgerlijke-rechtsvordering,4,main
+2017-09-01,law,stb-2016-290,bw-boek-1 bw-boek-2 bw-boek-3 bw-boek-4 bw-boek-5 bw-boek-6 wetboek-van-burgerlijke-rechtsvordering awb auteurswet wft participatiewet faillissementswet,190,main
+2017-09-01,law,stb-2017-97,wetboek-van-strafrecht,1,main
+2017-09-01,law,stb-2017-242,wet-wapens-en-munitie,1,main
+2017-09-01,law,stb-2017-251,wet-kinderopvang,7,main
+2017-10-01,law,stb-2017-78,participatiewet werkloosheidswet wet-wia algemene-ouderdomswet,18,main
+2017-10-01,law,stb-2017-285,vreemdelingenwet-2000 participatiewet wet-kinderopvang,6,main
+2017-10-07,law,stcrt-2017-56072,wft,1,main
+2017-10-10,law,stb-2017-250,bw-boek-7,2,main
+2017-11-17,law,stb-2017-426,grondwet,6,main
+2017-12-01,law,stb-2017-302,awb,1,main
+2017-12-16,law,stb-2017-484,vreemdelingenwet-2000 participatiewet zorgverzekeringswet werkloosheidswet wet-wia,15,main
+2017-12-23,law,stb-2017-497,faillissementswet,26,main
+2017-12-31,law,stb-2017-258,wet-economische-delicten,1,main
+2018-01-01,law,stb-2012-675,werkloosheidswet,1,main
+2018-01-01,law,stb-2013-236,participatiewet,1,main
+2018-01-01,law,stb-2013-565,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,4,main
+2018-01-01,law,stb-2014-270,participatiewet jeugdwet,2,main
+2018-01-01,law,stb-2014-581,wegenverkeerswet-1994,1,main
+2018-01-01,law,stb-2015-218,wet-loonbelasting-1964,2,main
+2018-01-01,law,stb-2015-460,wetboek-van-strafrecht wetboek-van-strafvordering wet-rechterlijke-organisatie,14,main
+2018-01-01,law,stb-2015-538,wet-inkomstenbelasting-2001,1,main
+2018-01-01,law,stb-2016-444,participatiewet,1,main
+2018-01-01,law,stb-2016-500,wet-rechterlijke-organisatie wet-op-het-notarisambt advocatenwet,27,main
+2018-01-01,law,stb-2016-544,wet-loonbelasting-1964,1,main
+2018-01-01,law,stb-2016-549,wet-loonbelasting-1964,1,main
+2018-01-01,law,stb-2017-22,arbeidsomstandighedenwet,1,main
+2018-01-01,law,stb-2017-32,woningwet,2,main
+2018-01-01,law,stb-2017-99,zorgverzekeringswet,3,main
+2018-01-01,law,stb-2017-115,wet-loonbelasting-1964,1,main
+2018-01-01,law,stb-2017-139,wft zorgverzekeringswet wet-langdurige-zorg wet-rechterlijke-organisatie woningwet,9,main
+2018-01-01,law,stb-2017-177,bw-boek-1 faillissementswet,7,main
+2018-01-01,law,stb-2017-229,wet-economische-delicten,1,main
+2018-01-01,law,stb-2017-241,bw-boek-5,4,main
+2018-01-01,law,stb-2017-245,bw-boek-1,3,main
+2018-01-01,law,stb-2017-251,wet-kinderopvang,5,main
+2018-01-01,law,stb-2017-252,participatiewet jeugdwet wet-omzetbelasting-1968 wet-kinderopvang wet-economische-delicten,59,main
+2018-01-01,law,stb-2017-266,wft,3,main
+2018-01-01,law,stcrt-2017-56938,bw-boek-7,1,main
+2018-01-01,law,stb-2017-433,wetboek-van-strafrecht,1,main
+2018-01-01,law,stcrt-2017-68641,participatiewet wet-wia,11,main
+2018-01-01,law,stcrt-2017-71078,awb,2,main
+2018-01-01,law,stb-2017-484,bw-boek-7 wet-arbeid-vreemdelingen participatiewet wmo-2015 arbeidsomstandighedenwet werkloosheidswet wet-wia algemene-ouderdomswet wet-kinderopvang,27,main
+2018-01-01,law,stb-2017-517,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,12,main
+2018-01-01,law,stb-2017-518,wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,31,main
+2018-01-01,law,stb-2017-519,wet-omzetbelasting-1968,2,main
+2018-01-01,law,stb-2017-520,awr wet-vennootschapsbelasting-1969,3,main
+2018-01-01,law,stcrt-2017-70523,provinciewet,1,main
+2018-01-01,law,stcrt-2017-70975,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,37,main
+2018-01-01,unexplained,,jeugdwet,3,main
+2018-01-01,unexplained,,wet-kinderopvang,20,main
+2018-01-01,unexplained,,wet-milieubeheer,24,main
+2018-01-01,unexplained,,wet-omzetbelasting-1968,1,main
+2018-01-03,law,stb-2017-512,bw-boek-2 wft wet-economische-delicten,126,main
+2018-02-01,law,stb-2018-9,bw-boek-7,13,main
+2018-02-09,law,stcrt-2018-6694,wft,1,main
+2018-03-01,law,stb-2016-319,wet-kinderopvang,8,main
+2018-03-01,law,stb-2017-242,wet-wapens-en-munitie,2,main
+2018-03-01,law,stb-2017-251,wet-kinderopvang,1,main
+2018-03-01,law,stb-2017-252,wet-kinderopvang,4,main
+2018-03-15,law,stb-2017-424,wegenverkeerswet-1994,15,main
+2018-03-31,law,stb-2018-73,awb wet-economische-delicten,4,main
+2018-04-01,law,stb-2017-484,werkloosheidswet,3,main
+2018-04-11,law,stb-2017-525,awb wet-rechterlijke-organisatie wet-loonbelasting-1964,3,main
+2018-05-01,law,stb-2017-317,wetboek-van-strafrecht awb vreemdelingenwet-2000 wet-politiegegevens,9,main
+2018-05-01,law,stb-2017-489,wetboek-van-strafvordering wet-economische-delicten,12,main
+2018-05-25,start,stb-2018-144,uavg,56,main
+2018-05-25,unexplained,,wegenverkeerswet-1994,1,main
+2018-05-25,unexplained,,wet-wapens-en-munitie,1,main
+2018-06-13,law,stb-2018-106,bw-boek-7 awb gemeentewet woningwet provinciewet,20,main
+2018-07-01,law,stb-2013-236,participatiewet,1,main
+2018-07-01,law,stb-2014-191,politiewet-2012,1,main
+2018-07-01,law,stb-2014-472,wft,1,main
+2018-07-01,law,stb-2015-142,politiewet-2012,1,main
+2018-07-01,law,stb-2017-246,wetboek-van-strafvordering,149,main
+2018-07-01,law,stb-2018-2,bw-boek-6 bw-boek-7,21,main
+2018-07-01,law,stb-2018-30,wetboek-van-strafrecht wetboek-van-strafvordering penitentiaire-beginselenwet,12,main
+2018-07-01,law,stb-2018-75,awb awr gemeentewet faillissementswet provinciewet,8,main
+2018-07-01,law,stb-2018-102,wft,8,main
+2018-07-01,law,stb-2018-137,awb wet-milieubeheer,28,main
+2018-07-01,law,stb-2018-139,bw-boek-2 wft,5,main
+2018-07-01,law,stb-2018-142,wet-economische-delicten,2,main
+2018-07-01,law,stcrt-2018-28171,participatiewet,6,main
+2018-07-01,law,stb-2018-158,wet-op-het-notarisambt,5,main
+2018-07-01,unexplained,,jeugdwet,1,main
+2018-07-01,unexplained,,wetboek-van-strafvordering,2,main
+2018-07-12,law,stb-2018-214,awb,2,main
+2018-07-19,law,stb-2014-280,wmo-2015,1,main
+2018-07-25,law,stb-2018-239,wft advocatenwet wet-economische-delicten,13,main
+2018-07-28,law,stb-2018-247,bw-boek-7 wetboek-van-strafvordering wft vreemdelingenwet-2000 participatiewet zorgverzekeringswet jeugdwet wmo-2015 wet-langdurige-zorg awr wegenverkeerswet-1994 wet-kinderopvang,72,main
+2018-08-01,law,stb-2018-94,zorgverzekeringswet jeugdwet wmo-2015 wet-langdurige-zorg opiumwet penitentiaire-beginselenwet,9,main
+2018-08-01,law,stb-2018-156,awb,1,main
+2018-09-15,law,stb-2018-244,wft,2,main
+2018-09-19,law,stb-2018-228,bw-boek-1 wetboek-van-strafrecht bw-boek-2 bw-boek-3 bw-boek-4 bw-boek-5 bw-boek-6 bw-boek-7 bw-boek-10 wetboek-van-strafvordering wetboek-van-burgerlijke-rechtsvordering awb auteurswet gemeentewet faillissementswet wet-op-het-notarisambt advocatenwet politiewet-2012,78,main
+2018-09-19,law,stb-2018-245,wetboek-van-strafrecht wetboek-van-strafvordering,4,main
+2018-10-01,law,stb-2017-519,wet-omzetbelasting-1968,1,main
+2018-10-01,law,stb-2018-89,wft,31,main
+2018-10-01,law,stb-2018-264,wetboek-van-strafvordering,16,main
+2018-10-11,law,stb-2018-302,auteurswet,9,main
+2018-10-16,law,stb-2018-338,wetboek-van-strafrecht wetboek-van-strafvordering wet-economische-delicten wet-wapens-en-munitie,21,main
+2018-10-23,law,stb-2018-369,bw-boek-3 wetboek-van-burgerlijke-rechtsvordering,9,main
+2018-10-24,law,stb-2018-356,opiumwet,2,main
+2018-11-09,law,stb-2018-387,awb,2,main
+2018-11-17,law,stb-2018-356,zorgverzekeringswet wmo-2015 wet-langdurige-zorg wet-economische-delicten,4,main
+2018-11-23,law,stb-2018-424,participatiewet werkloosheidswet wet-wia,6,main
+2018-12-14,law,stb-2018-421,faillissementswet,1,main
+2018-12-21,law,stb-2019-33,grondwet,1,main
+2019-01-01,law,stb-2014-280,zorgverzekeringswet,1,main
+2019-01-01,law,stb-2014-302,wet-milieubeheer,1,main
+2019-01-01,law,stb-2015-218,wet-loonbelasting-1964,2,main
+2019-01-01,law,stb-2015-538,successiewet-1956,1,main
+2019-01-01,law,stb-2016-275,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,4,main
+2019-01-01,law,stb-2016-471,wet-wia,1,main
+2019-01-01,law,stb-2017-115,wet-loonbelasting-1964,1,main
+2019-01-01,law,stb-2017-251,wet-kinderopvang,1,main
+2019-01-01,law,stb-2017-462,wetboek-van-strafvordering,2,main
+2019-01-01,law,stb-2017-489,wetboek-van-strafvordering,6,main
+2019-01-01,law,stb-2017-517,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,2,main
+2019-01-01,law,stb-2017-518,wet-loonbelasting-1964,1,main
+2019-01-01,law,stb-2017-523,wet-inkomstenbelasting-2001,1,main
+2019-01-01,law,stb-2018-38,wetboek-van-strafrecht wetboek-van-strafvordering zorgverzekeringswet penitentiaire-beginselenwet,38,main
+2019-01-01,law,stb-2018-82,wet-omzetbelasting-1968,5,main
+2019-01-01,law,stb-2018-132,wetboek-van-strafrecht bw-boek-6 wetboek-van-strafvordering,6,main
+2019-01-01,law,stb-2018-144,uavg,2,main
+2019-01-01,law,stb-2018-228,bw-boek-3 wetboek-van-burgerlijke-rechtsvordering,2,main
+2019-01-01,law,stb-2018-247,uavg,5,main
+2019-01-01,law,stb-2018-298,wet-rechterlijke-organisatie wet-op-het-notarisambt advocatenwet,12,main
+2019-01-01,law,stb-2018-299,wft faillissementswet,51,main
+2019-01-01,law,stb-2018-337,zorgverzekeringswet,1,main
+2019-01-01,law,stcrt-2018-57904,bw-boek-7,1,main
+2019-01-01,law,stb-2018-356,zorgverzekeringswet wet-langdurige-zorg,11,main
+2019-01-01,law,stb-2018-401,wetboek-van-strafvordering wet-politiegegevens,58,main
+2019-01-01,law,stb-2018-408,bw-boek-2 wetboek-van-burgerlijke-rechtsvordering wft,24,main
+2019-01-01,law,stb-2018-424,participatiewet zorgverzekeringswet faillissementswet arbeidsomstandighedenwet werkloosheidswet wet-wia algemene-ouderdomswet wet-kinderopvang,17,main
+2019-01-01,law,stcrt-2018-65542,awb,4,main
+2019-01-01,law,stcrt-2018-67779,participatiewet wet-wia,12,main
+2019-01-01,law,stb-2018-451,bw-boek-7,1,main
+2019-01-01,law,stb-2018-476,wet-loonbelasting-1964,2,main
+2019-01-01,law,stb-2018-474,wetboek-van-burgerlijke-rechtsvordering,2,main
+2019-01-01,law,stb-2018-489,bw-boek-3 bw-boek-7 wft zorgverzekeringswet faillissementswet,285,main
+2019-01-01,law,stb-2018-487,awb wet-economische-delicten,8,main
+2019-01-01,law,stb-2018-481,opiumwet,1,main
+2019-01-01,law,stb-2018-504,wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 awr gemeentewet wet-loonbelasting-1964,25,main
+2019-01-01,law,stb-2018-505,wet-inkomstenbelasting-2001 wet-vennootschapsbelasting-1969,25,main
+2019-01-01,law,stb-2018-507,wet-inkomstenbelasting-2001 awr,14,main
+2019-01-01,law,stb-2018-508,wet-vennootschapsbelasting-1969,9,main
+2019-01-01,law,stb-2018-510,wet-omzetbelasting-1968,4,main
+2019-01-01,law,stb-2018-512,wet-inkomstenbelasting-2001,7,main
+2019-01-01,law,stcrt-2018-69512,provinciewet,1,main
+2019-01-01,law,stcrt-2018-69665,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,42,main
+2019-01-01,unexplained,,wet-vennootschapsbelasting-1969,1,main
+2019-01-13,law,stb-2018-515,wft,12,main
+2019-01-29,law,stb-2018-332,bw-boek-1 bw-boek-10,36,main
+2019-02-01,law,stb-2016-448,jeugdwet,4,main
+2019-02-01,law,stb-2018-209,politiewet-2012,1,main
+2019-02-19,law,stb-2018-503,uavg bw-boek-7 wft,67,main
+2019-02-27,law,stb-2019-75,vreemdelingenwet-2000,3,main
+2019-03-01,law,stb-2018-322,wetboek-van-strafrecht wetboek-van-strafvordering,40,main
+2019-03-07,law,stb-2019-25,faillissementswet,4,main
+2019-03-09,law,stb-2019-73,jeugdwet wmo-2015,4,main
+2019-03-16,law,stb-2018-503,bw-boek-7,2,main
+2019-04-01,law,stb-2014-216,werkloosheidswet wet-wia,2,main
+2019-04-01,law,stb-2018-260,wetboek-van-strafrecht zorgverzekeringswet wmo-2015,4,main
+2019-04-01,law,stb-2019-116,bw-boek-6,1,main
+2019-04-02,law,stb-2019-52,awb jeugdwet wmo-2015 wet-langdurige-zorg opiumwet,6,main
+2019-05-01,law,stb-2017-242,wet-wapens-en-munitie,1,main
+2019-05-01,law,stb-2019-141,wetboek-van-strafvordering wet-politiegegevens,8,main
+2019-05-17,law,stb-2019-175,wet-vennootschapsbelasting-1969,1,main
+2019-06-01,law,stb-2019-180,wetboek-van-strafvordering,15,main
+2019-07-01,law,stb-2017-24,participatiewet werkloosheidswet wet-wia,3,main
+2019-07-01,law,stb-2017-337,woningwet wet-milieubeheer,13,main
+2019-07-01,law,stb-2018-247,wet-milieubeheer,1,main
+2019-07-01,law,stb-2018-347,wegenverkeerswet-1994,7,main
+2019-07-01,law,stb-2018-408,wft,1,main
+2019-07-01,law,stb-2019-107,bw-boek-2,3,main
+2019-07-01,law,stb-2019-140,zorgverzekeringswet wmo-2015 wet-langdurige-zorg,17,main
+2019-07-01,law,stb-2019-142,wet-politiegegevens,3,main
+2019-07-01,law,stcrt-2019-31612,participatiewet,7,main
+2019-07-01,law,stb-2019-221,awb participatiewet jeugdwet wmo-2015,20,main
+2019-07-19,law,stb-2019-61,wet-economische-delicten,1,main
+2019-07-19,law,stb-2019-265,wft,4,main
+2019-07-21,law,stb-2019-190,bw-boek-6 awb wft wet-economische-delicten,53,main
+2019-07-23,law,stb-2019-267,wet-wapens-en-munitie,21,main
+2019-08-01,law,stb-2019-256,wft,1,main
+2019-08-01,law,stb-2019-257,wetboek-van-strafrecht wetboek-van-strafvordering,2,main
+2019-09-14,law,stb-2018-503,bw-boek-7,1,main
+2019-10-01,law,stb-2017-242,wet-wapens-en-munitie,1,main
+2019-10-01,law,stb-2018-228,wet-wapens-en-munitie,1,main
+2019-10-01,law,stb-2018-371,awb wet-economische-delicten,2,main
+2019-10-01,law,stb-2019-241,wetboek-van-burgerlijke-rechtsvordering,3,main
+2019-11-01,law,stb-2019-200,wetboek-van-strafrecht,1,main
+2019-11-14,law,stb-2019-317,awb wet-milieubeheer wet-economische-delicten,58,main
+2019-11-15,law,stb-2019-416,bw-boek-7 wetboek-van-koophandel,17,main
+2019-11-15,unexplained,,wetboek-van-koophandel,1,main
+2019-11-27,law,stb-2019-427,wet-langdurige-zorg,1,main
+2019-11-28,law,stb-2018-38,wetboek-van-strafrecht wet-rechterlijke-organisatie,2,main
+2019-12-01,law,stb-2019-423,bw-boek-2 wft,20,main
+2019-12-15,law,stb-2019-311,wetboek-van-strafrecht,1,main
+2019-12-18,law,stb-2019-483,participatiewet wmo-2015,3,main
+2020-01-01,law,stb-2012-675,werkloosheidswet,2,main
+2020-01-01,law,stb-2014-216,bw-boek-7 wet-loonbelasting-1964,6,main
+2020-01-01,law,stb-2014-380,bw-boek-1,1,main
+2020-01-01,law,stb-2017-68,bw-boek-2,3,main
+2020-01-01,law,stb-2017-82,wetboek-van-strafrecht wetboek-van-strafvordering vreemdelingenwet-2000 jeugdwet awr opiumwet wegenverkeerswet-1994 wet-rechterlijke-organisatie wet-op-het-notarisambt advocatenwet wet-economische-delicten penitentiaire-beginselenwet,376,main
+2020-01-01,law,stb-2017-115,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,6,main
+2020-01-01,law,stb-2017-123,bw-boek-7 awb politiewet-2012,7,main
+2020-01-01,law,stb-2017-523,wet-inkomstenbelasting-2001,2,main
+2020-01-01,law,stb-2018-37,bw-boek-1 wetboek-van-strafrecht wetboek-van-strafvordering wetboek-van-burgerlijke-rechtsvordering participatiewet jeugdwet wmo-2015 wet-langdurige-zorg wet-wia algemene-ouderdomswet penitentiaire-beginselenwet,32,main
+2020-01-01,law,stb-2018-38,wetboek-van-strafrecht,1,main
+2020-01-01,law,stb-2018-234,bw-boek-7,1,main
+2020-01-01,law,stb-2018-401,wetboek-van-strafvordering,1,main
+2020-01-01,law,stb-2018-504,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,15,main
+2020-01-01,law,stb-2018-505,wet-vennootschapsbelasting-1969,4,main
+2020-01-01,law,stb-2018-506,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,2,main
+2020-01-01,law,stb-2018-511,wet-omzetbelasting-1968,4,main
+2020-01-01,law,stb-2019-73,jeugdwet wmo-2015,2,main
+2020-01-01,law,stb-2019-122,woningwet,2,main
+2020-01-01,law,stb-2019-130,bw-boek-3 wetboek-van-burgerlijke-rechtsvordering,17,main
+2020-01-01,law,stb-2019-173,bw-boek-1 wetboek-van-strafrecht uavg wetboek-van-burgerlijke-rechtsvordering zorgverzekeringswet wet-langdurige-zorg wegenverkeerswet-1994 wet-politiegegevens gemeentewet wet-rechterlijke-organisatie wet-op-het-notarisambt advocatenwet penitentiaire-beginselenwet politiewet-2012 provinciewet,102,main
+2020-01-01,law,stb-2019-175,wet-vennootschapsbelasting-1969,1,main
+2020-01-01,law,stb-2019-185,wmo-2015 wet-langdurige-zorg werkloosheidswet wet-wia algemene-ouderdomswet,24,main
+2020-01-01,law,stb-2019-187,wetboek-van-strafrecht,9,main
+2020-01-01,law,stb-2019-219,bw-boek-7 wet-inkomstenbelasting-2001 wet-loonbelasting-1964 werkloosheidswet,15,main
+2020-01-01,law,stb-2019-224,bw-boek-7 jeugdwet,19,main
+2020-01-01,law,stb-2019-265,wft,10,main
+2020-01-01,law,stb-2019-280,bw-boek-2 wetboek-van-burgerlijke-rechtsvordering,2,main
+2020-01-01,law,stb-2019-283,bw-boek-1 wetboek-van-burgerlijke-rechtsvordering participatiewet,11,main
+2020-01-01,law,stb-2019-288,wet-langdurige-zorg wet-wapens-en-munitie,2,main
+2020-01-01,law,stb-2019-311,wetboek-van-strafrecht opiumwet wet-wapens-en-munitie,9,main
+2020-01-01,law,stb-2019-395,gemeentewet,3,main
+2020-01-01,law,stb-2019-413,wetboek-van-strafrecht wetboek-van-strafvordering wegenverkeerswet-1994,8,main
+2020-01-01,law,stb-2019-427,wet-langdurige-zorg,1,main
+2020-01-01,law,stcrt-2019-65091,awb,2,main
+2020-01-01,law,stcrt-2019-65478,participatiewet wet-wia,12,main
+2020-01-01,law,stb-2019-483,bw-boek-7 wetboek-van-burgerlijke-rechtsvordering awb participatiewet arbeidsomstandighedenwet wet-loonbelasting-1964 werkloosheidswet wet-wia algemene-ouderdomswet wet-kinderopvang,26,main
+2020-01-01,law,stcrt-2019-69523,bw-boek-7,1,main
+2020-01-01,law,stcrt-2019-65927,woningwet,1,main
+2020-01-01,law,stb-2019-504,wetboek-van-strafrecht wetboek-van-strafvordering,10,main
+2020-01-01,law,stb-2019-508,wet-vennootschapsbelasting-1969,7,main
+2020-01-01,law,stb-2019-510,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,18,main
+2020-01-01,law,stb-2019-511,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,4,main
+2020-01-01,law,stb-2019-512,wet-inkomstenbelasting-2001 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,28,main
+2020-01-01,law,stb-2019-513,wet-vennootschapsbelasting-1969,2,main
+2020-01-01,law,stb-2019-515,wet-omzetbelasting-1968,5,main
+2020-01-01,law,stb-2019-520,wet-economische-delicten,1,main
+2020-01-01,law,stcrt-2019-66707,wet-inkomstenbelasting-2001 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,51,main
+2020-01-01,law,stcrt-2019-66970,wet-omzetbelasting-1968 provinciewet,2,main
+2020-01-01,unexplained,,wetboek-van-strafvordering,69,main
+2020-01-23,law,stb-2019-478,wet-economische-delicten,1,main
+2020-01-31,law,stb-2020-4,wft wet-economische-delicten,3,main
+2020-02-01,law,stb-2019-123,zorgverzekeringswet wet-langdurige-zorg,3,main
+2020-02-15,law,stb-2020-39,woningwet,2,main
+2020-03-01,law,stb-2014-354,advocatenwet,1,main
+2020-03-01,law,stb-2020-2,wet-op-het-notarisambt advocatenwet,27,main
+2020-03-01,unexplained,,participatiewet,1,main
+2020-03-14,law,stcrt-2020-14743,woningwet,1,main
+2020-03-19,law,stb-2020-67,awb zorgverzekeringswet jeugdwet wmo-2015 wet-langdurige-zorg werkloosheidswet wet-wia wet-economische-delicten,30,main
+2020-04-01,law,stb-2019-219,bw-boek-7,1,main
+2020-04-01,law,stb-2020-76,awb participatiewet,3,main
+2020-04-08,law,stcrt-2020-20572,wet-inkomstenbelasting-2001,2,main
+2020-04-15,law,stb-2016-288,awb,1,main
+2020-04-15,law,stb-2016-290,awr,3,main
+2020-05-14,law,stb-2020-136,vreemdelingenwet-2000,3,main
+2020-05-21,law,stb-2020-146,wet-economische-delicten,1,main
+2020-06-23,law,stb-2020-195,awr,1,main
+2020-07-01,law,stb-2018-451,bw-boek-7 werkloosheidswet wet-wia,5,main
+2020-07-01,law,stb-2019-209,wetboek-van-strafrecht awb wet-economische-delicten,8,main
+2020-07-01,law,stb-2019-215,jeugdwet,9,main
+2020-07-01,law,stb-2019-509,awr,1,main
+2020-07-01,law,stb-2020-2,advocatenwet,2,main
+2020-07-01,law,stb-2020-67,jeugdwet wmo-2015,37,main
+2020-07-01,law,stb-2020-85,bw-boek-6,1,main
+2020-07-01,law,stb-2020-140,politiewet-2012,4,main
+2020-07-01,law,stb-2020-158,wegenverkeerswet-1994 wet-milieubeheer,17,main
+2020-07-01,law,stcrt-2020-30199,participatiewet,7,main
+2020-07-01,law,stb-2020-195,awr,1,main
+2020-07-08,law,stb-2020-231,bw-boek-2 wet-economische-delicten,2,main
+2020-07-15,law,stb-2020-245,wegenverkeerswet-1994,1,main
+2020-07-25,law,stb-2020-225,wetboek-van-strafrecht wetboek-van-strafvordering wet-rechterlijke-organisatie,47,main
+2020-07-30,law,stb-2020-249,wetboek-van-burgerlijke-rechtsvordering,2,main
+2020-08-01,law,stb-2020-234,bw-boek-7,1,main
+2020-08-01,law,stb-2020-278,woningwet,1,main
+2020-09-01,law,stb-2020-293,bw-boek-7 wegenverkeerswet-1994 wet-economische-delicten,58,main
+2020-09-03,law,stb-2019-423,bw-boek-2 wet-economische-delicten,3,main
+2020-09-10,law,stb-2020-151,wft,5,main
+2020-10-01,law,stb-2019-383,woningwet,4,main
+2020-10-01,law,stb-2020-165,wet-economische-delicten,1,main
+2020-10-01,law,stb-2020-177,wetboek-van-burgerlijke-rechtsvordering faillissementswet,34,main
+2020-10-01,law,stb-2020-195,awr,1,main
+2020-10-01,law,stb-2020-245,wegenverkeerswet-1994,1,main
+2020-10-01,unexplained,,participatiewet,2,main
+2020-10-15,law,stb-2020-380,bw-boek-7 wft faillissementswet wet-economische-delicten,45,main
+2020-11-01,unexplained,,participatiewet,2,main
+2020-12-01,law,stb-2020-292,wegenverkeerswet-1994,1,main
+2020-12-01,law,stb-2020-441,wegenverkeerswet-1994 arbeidsomstandighedenwet wet-kinderopvang,3,main
+2020-12-04,law,stb-2020-491,wet-economische-delicten,1,main
+2020-12-10,law,stb-2020-503,wet-loonbelasting-1964 algemene-ouderdomswet,2,main
+2020-12-19,law,stb-2020-291,wetboek-van-strafvordering,10,main
+2020-12-29,law,stb-2020-509,wft,36,main
+2021-01-01,law,stb-2015-140,penitentiaire-beginselenwet,1,main
+2021-01-01,law,stb-2017-110,wetboek-van-strafvordering wetboek-van-burgerlijke-rechtsvordering zorgverzekeringswet faillissementswet werkloosheidswet wet-wia algemene-ouderdomswet,10,main
+2021-01-01,law,stb-2017-484,wetboek-van-burgerlijke-rechtsvordering,1,main
+2021-01-01,law,stb-2018-228,politiewet-2012,1,main
+2021-01-01,law,stb-2018-504,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,10,main
+2021-01-01,law,stb-2018-505,wet-vennootschapsbelasting-1969,2,main
+2021-01-01,law,stb-2019-123,wegenverkeerswet-1994,2,main
+2021-01-01,law,stb-2019-141,penitentiaire-beginselenwet,31,main
+2021-01-01,law,stb-2019-428,wet-langdurige-zorg,2,main
+2021-01-01,law,stb-2019-483,wetboek-van-burgerlijke-rechtsvordering,11,main
+2021-01-01,law,stb-2019-504,penitentiaire-beginselenwet,1,main
+2021-01-01,law,stb-2019-512,awr,1,main
+2021-01-01,law,stb-2019-513,awr,2,main
+2021-01-01,law,stb-2020-95,zorgverzekeringswet,6,main
+2021-01-01,law,stb-2020-167,wegenverkeerswet-1994,2,main
+2021-01-01,law,stb-2020-177,wetboek-van-burgerlijke-rechtsvordering,7,main
+2021-01-01,law,stb-2020-251,bw-boek-7,13,main
+2021-01-01,law,stb-2020-275,politiewet-2012,1,main
+2021-01-01,law,stb-2020-389,bw-boek-1,2,main
+2021-01-01,law,stb-2020-388,wet-rechterlijke-organisatie,3,main
+2021-01-01,law,stb-2020-402,zorgverzekeringswet,4,main
+2021-01-01,law,stb-2020-414,faillissementswet,27,main
+2021-01-01,law,stb-2020-460,gemeentewet,1,main
+2021-01-01,law,stb-2020-455,awb wegenverkeerswet-1994 wet-milieubeheer wet-economische-delicten,18,main
+2021-01-01,law,stb-2020-472,wet-inkomstenbelasting-2001 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,11,main
+2021-01-01,law,stcrt-2020-61666,participatiewet wet-wia,11,main
+2021-01-01,law,stcrt-2020-62581,awb,2,main
+2021-01-01,law,stb-2020-496,bw-boek-7 wetboek-van-burgerlijke-rechtsvordering participatiewet gemeentewet werkloosheidswet wet-wia algemene-ouderdomswet politiewet-2012 provinciewet,26,main
+2021-01-01,law,stb-2020-518,wet-kinderopvang,3,main
+2021-01-01,law,stcrt-2020-66140,woningwet,1,main
+2021-01-01,law,stcrt-2020-66672,bw-boek-7,1,main
+2021-01-01,law,stb-2020-547,woningwet,2,main
+2021-01-01,law,stb-2020-542,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,8,main
+2021-01-01,law,stb-2020-539,wet-vennootschapsbelasting-1969,10,main
+2021-01-01,law,stb-2020-540,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,15,main
+2021-01-01,law,stb-2020-543,wet-kinderopvang,1,main
+2021-01-01,law,stb-2020-544,wet-milieubeheer,41,main
+2021-01-01,law,stb-2020-546,wet-inkomstenbelasting-2001 awr,9,main
+2021-01-01,law,stb-2020-554,zorgverzekeringswet wet-langdurige-zorg wet-inkomstenbelasting-2001 wet-loonbelasting-1964,6,main
+2021-01-01,law,stb-2020-558,auteurswet,1,main
+2021-01-01,law,stcrt-2020-63267,provinciewet,1,main
+2021-01-01,law,stcrt-2020-64406,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,36,main
+2021-01-01,unexplained,,woningwet,1,main
+2021-01-20,law,stcrt-2021-2449,wetboek-van-burgerlijke-rechtsvordering,1,main
+2021-01-22,law,stb-2021-20,wet-loonbelasting-1964,3,main
+2021-02-05,law,stcrt-2021-5742,wet-loonbelasting-1964,1,main
+2021-02-17,law,stb-2021-27,wet-economische-delicten,1,main
+2021-02-20,law,stb-2021-80,vreemdelingenwet-2000,1,main
+2021-02-26,law,stb-2021-94,awb,3,main
+2021-03-01,law,stb-2020-65,wet-economische-delicten,2,main
+2021-03-01,law,stb-2021-27,awb,2,main
+2021-03-17,law,stb-2021-131,wft,20,main
+2021-04-01,law,stb-2016-288,wetboek-van-burgerlijke-rechtsvordering,3,main
+2021-04-01,law,stb-2016-289,wetboek-van-burgerlijke-rechtsvordering,6,main
+2021-04-01,law,stb-2020-177,wetboek-van-burgerlijke-rechtsvordering,4,main
+2021-04-01,law,stb-2020-500,awb,5,main
+2021-04-01,law,stb-2020-547,woningwet,1,main
+2021-04-01,law,stb-2021-162,bw-boek-7 woningwet,5,main
+2021-04-21,law,stb-2011-345,wet-economische-delicten,1,main
+2021-04-24,law,stb-2021-197,wegenverkeerswet-1994,40,main
+2021-04-24,unexplained,,wegenverkeerswet-1994,1,main
+2021-04-26,law,stb-2021-146,wet-economische-delicten,2,main
+2021-05-01,law,stb-2020-380,wft,3,main
+2021-05-01,law,stb-2020-396,wetboek-van-strafvordering,1,main
+2021-05-01,law,stb-2021-185,bw-boek-2,3,main
+2021-05-01,law,stb-2021-194,bw-boek-7,4,main
+2021-05-01,law,stb-2021-203,wetboek-van-strafrecht wetboek-van-strafvordering,9,main
+2021-05-07,law,stb-2021-155,wetboek-van-strafvordering awr wet-rechterlijke-organisatie,9,main
+2021-05-26,law,stb-2019-400,wet-economische-delicten,1,main
+2021-06-07,law,stb-2020-558,auteurswet,18,main
+2021-06-07,law,stb-2021-248,auteurswet,11,main
+2021-06-28,law,stb-2020-509,wft,2,main
+2021-06-30,law,stb-2021-286,wegenverkeerswet-1994 wet-milieubeheer wet-economische-delicten,9,main
+2021-07-01,law,stb-2016-544,wet-vennootschapsbelasting-1969,1,main
+2021-07-01,law,stb-2020-224,wetboek-van-strafvordering penitentiaire-beginselenwet,33,main
+2021-07-01,law,stb-2020-262,awb wft wet-arbeid-vreemdelingen wegenverkeerswet-1994 gemeentewet woningwet wet-milieubeheer wet-kinderopvang provinciewet,79,main
+2021-07-01,law,stb-2020-346,bw-boek-7 zorgverzekeringswet,10,main
+2021-07-01,law,stb-2020-390,wet-economische-delicten,1,main
+2021-07-01,law,stb-2020-416,awb awr wet-rechterlijke-organisatie,6,main
+2021-07-01,law,stb-2020-496,bw-boek-7,1,main
+2021-07-01,law,stb-2020-507,bw-boek-2 bw-boek-3 woningwet,30,main
+2021-07-01,law,stb-2021-26,wetboek-van-strafrecht,1,main
+2021-07-01,law,stb-2021-101,wet-kinderopvang,16,main
+2021-07-01,law,stb-2021-135,uavg awb wft vreemdelingenwet-2000 jeugdwet wmo-2015 wet-langdurige-zorg opiumwet gemeentewet arbeidsomstandighedenwet wet-milieubeheer wet-op-het-notarisambt wet-kinderopvang provinciewet,30,main
+2021-07-01,law,stb-2021-183,wet-omzetbelasting-1968,63,main
+2021-07-01,law,stcrt-2021-27619,wetboek-van-burgerlijke-rechtsvordering participatiewet,8,main
+2021-07-01,law,stb-2021-259,wet-wia,1,main
+2021-07-01,unexplained,,gemeentewet,1,main
+2021-07-01,unexplained,,provinciewet,1,main
+2021-07-10,law,stb-2021-328,awb gemeentewet provinciewet,4,main
+2021-07-23,law,stb-2020-257,awb wet-economische-delicten,4,main
+2021-08-01,law,stb-2020-234,wet-inkomstenbelasting-2001,1,main
+2021-08-01,law,stb-2021-191,wegenverkeerswet-1994,26,main
+2021-08-01,law,stb-2021-319,wet-economische-delicten,1,main
+2021-09-11,law,stb-2021-425,woningwet,1,main
+2021-10-01,law,stb-2019-127,awr,1,main
+2021-10-01,law,stb-2020-437,awb,1,main
+2021-10-01,law,stb-2020-522,participatiewet,3,main
+2021-10-01,law,stb-2021-286,wegenverkeerswet-1994,1,main
+2021-10-09,law,stb-2021-458,zorgverzekeringswet,1,main
+2021-10-19,law,stb-2021-418,wegenverkeerswet-1994,6,main
+2021-10-19,law,stb-2021-463,wft faillissementswet,61,main
+2021-10-19,unexplained,,wegenverkeerswet-1994,1,main
+2021-10-28,law,stb-2016-295,woningwet,3,main
+2021-10-28,unexplained,,woningwet,1,main
+2021-11-01,law,stb-2021-178,awb,2,main
+2021-11-03,law,stb-2021-520,wet-milieubeheer,2,main
+2021-11-06,law,stb-2021-468,jeugdwet,1,main
+2021-11-06,law,stb-2021-518,wft,14,main
+2021-11-09,law,stb-2021-534,wetboek-van-strafvordering,1,main
+2021-12-01,law,stb-2020-224,penitentiaire-beginselenwet,2,main
+2021-12-21,law,stb-2021-627,participatiewet werkloosheidswet wet-wia algemene-ouderdomswet wet-kinderopvang,5,main
+2021-12-21,law,stb-2021-632,awb wft faillissementswet,86,main
+2021-12-28,law,stb-2021-655,wet-inkomstenbelasting-2001,1,main
+2022-01-01,law,stb-2011-639,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,2,main
+2022-01-01,law,stb-2013-413,wet-loonbelasting-1964,1,main
+2022-01-01,law,stb-2018-504,wet-inkomstenbelasting-2001,1,main
+2022-01-01,law,stb-2019-207,woningwet,2,main
+2022-01-01,law,stb-2019-246,wet-loonbelasting-1964,2,main
+2022-01-01,law,stb-2019-514,wet-inkomstenbelasting-2001,6,main
+2022-01-01,law,stb-2020-78,jeugdwet,16,main
+2022-01-01,law,stb-2020-181,bw-boek-7 zorgverzekeringswet jeugdwet wet-langdurige-zorg,7,main
+2022-01-01,law,stb-2020-509,wft,1,main
+2022-01-01,law,stb-2020-547,woningwet,1,main
+2022-01-01,law,stb-2020-540,wet-inkomstenbelasting-2001 wet-vennootschapsbelasting-1969,7,main
+2022-01-01,law,stb-2021-38,awb vreemdelingenwet-2000 participatiewet wet-kinderopvang,14,main
+2022-01-01,law,stb-2021-102,zorgverzekeringswet,1,main
+2022-01-01,law,stb-2021-167,bw-boek-7,3,main
+2022-01-01,law,stb-2021-286,wet-milieubeheer,6,main
+2022-01-01,law,stb-2021-310,wetboek-van-strafrecht bw-boek-2 bw-boek-10,6,main
+2022-01-01,law,stb-2021-334,wet-milieubeheer,43,main
+2022-01-01,law,stb-2021-425,bw-boek-7 woningwet,58,main
+2022-01-01,law,stb-2021-467,wetboek-van-strafrecht,1,main
+2022-01-01,law,stb-2021-468,participatiewet,1,main
+2022-01-01,law,stb-2021-495,bw-boek-2,4,main
+2022-01-01,law,stb-2021-505,vreemdelingenwet-2000 wet-arbeid-vreemdelingen,6,main
+2022-01-01,law,stb-2021-506,bw-boek-6,1,main
+2022-01-01,law,stb-2021-496,wet-langdurige-zorg,1,main
+2022-01-01,law,stb-2021-544,wetboek-van-strafrecht wetboek-van-strafvordering wet-economische-delicten,3,main
+2022-01-01,law,stb-2021-548,awb,4,main
+2022-01-01,law,stcrt-2021-48060,awb,2,main
+2022-01-01,law,stb-2021-612,wet-loonbelasting-1964,1,main
+2022-01-01,law,stcrt-2021-48100,woningwet,1,main
+2022-01-01,law,stcrt-2021-49166,participatiewet wet-wia,12,main
+2022-01-01,law,stb-2021-627,wetboek-van-burgerlijke-rechtsvordering participatiewet werkloosheidswet wet-wia wet-kinderopvang,23,main
+2022-01-01,law,stcrt-2021-49951,bw-boek-7,1,main
+2022-01-01,law,stcrt-2021-50384,wetboek-van-burgerlijke-rechtsvordering,1,main
+2022-01-01,law,stb-2021-651,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,23,main
+2022-01-01,law,stb-2021-652,wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 wet-vennootschapsbelasting-1969,11,main
+2022-01-01,law,stb-2021-653,wet-inkomstenbelasting-2001 awr wet-vennootschapsbelasting-1969,13,main
+2022-01-01,law,stb-2021-654,wet-vennootschapsbelasting-1969,5,main
+2022-01-01,law,stcrt-2021-48131,provinciewet,1,main
+2022-01-01,law,stcrt-2021-48308,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,47,main
+2022-01-01,law,stb-2022-7,wetboek-van-strafrecht,1,main
+2022-01-01,unexplained,,wet-inkomstenbelasting-2001,1,main
+2022-01-01,unexplained,,woningwet,2,main
+2022-01-26,law,stb-2022-28,wetboek-van-strafrecht,9,main
+2022-01-28,law,stb-2021-399,wet-economische-delicten,1,main
+2022-01-28,law,stb-2021-610,awb,2,main
+2022-02-01,law,stb-2019-186,wet-economische-delicten wet-wapens-en-munitie,2,main
+2022-03-01,law,stb-2021-544,wetboek-van-strafrecht,1,main
+2022-03-02,law,stb-2022-23,awb wet-milieubeheer wet-economische-delicten,29,main
+2022-03-03,law,stb-2022-105,wft faillissementswet,3,main
+2022-03-04,unexplained,,wet-kinderopvang,2,main
+2022-04-01,law,stb-2021-171,awb wet-kinderopvang,4,main
+2022-04-01,law,stb-2021-627,participatiewet,5,main
+2022-04-01,law,stcrt-2022-8534,wet-inkomstenbelasting-2001,1,main
+2022-04-01,unexplained,,participatiewet,2,main
+2022-04-05,law,stb-2020-544,wet-milieubeheer,2,main
+2022-04-05,law,stb-2022-132,awb wet-milieubeheer,17,main
+2022-04-09,law,stb-2022-87,awb,2,main
+2022-04-22,law,stb-2019-382,woningwet,18,main
+2022-04-27,law,stb-2022-164,bw-boek-6 bw-boek-7,29,main
+2022-05-01,start,,wet-open-overheid,113,main
+2022-05-01,law,stb-2021-499,bw-boek-6 wetboek-van-burgerlijke-rechtsvordering awb wft wet-arbeid-vreemdelingen jeugdwet wmo-2015 gemeentewet wet-rechterlijke-organisatie woningwet arbeidsomstandighedenwet wet-milieubeheer provinciewet,38,main
+2022-05-20,law,stb-2020-441,wegenverkeerswet-1994 arbeidsomstandighedenwet wet-kinderopvang,3,main
+2022-05-28,law,stb-2022-157,bw-boek-6,13,main
+2022-06-01,law,stb-2022-198,wet-economische-delicten,1,main
+2022-06-07,law,stb-2020-558,auteurswet,2,main
+2022-07-01,law,stb-2021-220,wetboek-van-strafvordering,4,main
+2022-07-01,law,stb-2021-233,wetboek-van-strafrecht wetboek-van-strafvordering,10,main
+2022-07-01,law,stb-2021-285,wetboek-van-strafvordering,1,main
+2022-07-01,law,stb-2021-544,wetboek-van-strafvordering opiumwet wet-economische-delicten wet-wapens-en-munitie,28,main
+2022-07-01,law,stb-2021-627,algemene-ouderdomswet,2,main
+2022-07-01,law,stb-2021-656,wet-omzetbelasting-1968,2,main
+2022-07-01,law,stb-2022-18,gemeentewet provinciewet,10,main
+2022-07-01,law,stb-2022-104,zorgverzekeringswet wet-langdurige-zorg,2,main
+2022-07-01,law,stb-2022-146,bw-boek-6,1,main
+2022-07-01,law,stb-2022-152,bw-boek-7,12,main
+2022-07-01,law,stcrt-2022-14977,wetboek-van-burgerlijke-rechtsvordering participatiewet,8,main
+2022-07-01,law,stb-2022-188,jeugdwet wmo-2015,4,main
+2022-07-07,law,stb-2022-197,wft,23,main
+2022-07-08,law,stb-2022-22,wft faillissementswet,14,main
+2022-07-08,law,stb-2022-216,politiewet-2012,3,main
+2022-07-16,law,stb-2022-303,wet-economische-delicten,1,main
+2022-08-01,law,stb-2021-57,bw-boek-7 participatiewet jeugdwet wet-vennootschapsbelasting-1969,6,main
+2022-08-01,law,stb-2022-72,bw-boek-10 wetboek-van-burgerlijke-rechtsvordering,2,main
+2022-08-01,law,stb-2022-116,bw-boek-7 wet-kinderopvang,2,main
+2022-08-01,law,stb-2022-271,awb,4,main
+2022-08-01,law,stb-2022-277,bw-boek-7,7,main
+2022-08-02,law,stb-2021-592,bw-boek-7 awb werkloosheidswet wet-wia,8,main
+2022-08-18,law,stb-2022-316,grondwet,2,main
+2022-08-26,law,stb-2022-321,participatiewet,2,main
+2022-08-30,law,stb-2022-331,grondwet,1,main
+2022-08-30,law,stb-2022-332,grondwet,1,main
+2022-08-30,law,stb-2022-333,grondwet,2,main
+2022-08-30,law,stb-2022-334,grondwet,1,main
+2022-08-30,law,stb-2022-335,grondwet,2,main
+2022-09-03,law,stb-2022-340,wft wet-economische-delicten,16,main
+2022-09-03,unexplained,,wft,1,main
+2022-09-22,law,stb-2022-345,bw-boek-7,1,main
+2022-10-01,law,stb-2022-276,wetboek-van-strafvordering,24,main
+2022-10-01,law,stb-2022-345,bw-boek-1 wetboek-van-strafrecht bw-boek-2 bw-boek-6 bw-boek-7 bw-boek-10 wetboek-van-strafvordering wetboek-van-burgerlijke-rechtsvordering auteurswet wft vreemdelingenwet-2000 awr wegenverkeerswet-1994 wet-politiegegevens faillissementswet wet-op-het-notarisambt wet-economische-delicten penitentiaire-beginselenwet,71,main
+2022-10-01,law,stb-2022-261,awb,2,main
+2022-10-01,unexplained,,wetboek-van-strafvordering,1,main
+2022-11-01,law,stb-2021-610,awb wet-economische-delicten,4,main
+2022-11-01,law,stb-2022-316,grondwet,1,main
+2022-11-01,law,stb-2022-410,awb,1,main
+2022-11-04,law,stb-2022-428,bw-boek-2 bw-boek-3 awb wft faillissementswet,33,main
+2022-11-05,law,stb-2022-433,awb gemeentewet provinciewet,5,main
+2022-12-22,law,stb-2021-256,awb wet-economische-delicten,4,main
+2022-12-28,law,stb-2022-537,wet-vennootschapsbelasting-1969,1,main
+2022-12-28,law,stb-2022-543,wetboek-van-burgerlijke-rechtsvordering,1,main
+2023-01-01,law,stb-2018-504,wet-inkomstenbelasting-2001,2,main
+2023-01-01,law,stb-2019-246,wet-loonbelasting-1964,2,main
+2023-01-01,law,stb-2020-412,politiewet-2012,15,main
+2023-01-01,law,stb-2020-518,wet-kinderopvang,1,main
+2023-01-01,law,stb-2020-543,wet-inkomstenbelasting-2001,1,main
+2023-01-01,law,stb-2021-220,wetboek-van-strafvordering,4,main
+2023-01-01,law,stb-2021-651,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,2,main
+2023-01-01,law,stb-2022-102,wet-economische-delicten,1,main
+2023-01-01,law,stb-2022-134,awb wet-inkomstenbelasting-2001,2,main
+2023-01-01,law,stb-2022-159,bw-boek-6,1,main
+2023-01-01,law,stb-2022-185,zorgverzekeringswet,3,main
+2023-01-01,law,stb-2022-197,bw-boek-7 wft,26,main
+2023-01-01,law,stb-2022-216,politiewet-2012,17,main
+2023-01-01,law,stb-2022-220,wft,9,main
+2023-01-01,law,stb-2022-242,bw-boek-1,5,main
+2023-01-01,law,stb-2022-327,zorgverzekeringswet,1,main
+2023-01-01,law,stb-2022-330,awb wegenverkeerswet-1994,3,main
+2023-01-01,law,stb-2022-345,bw-boek-1 wetboek-van-strafrecht wetboek-van-strafvordering wetboek-van-burgerlijke-rechtsvordering successiewet-1956 wet-op-het-notarisambt,35,main
+2023-01-01,law,stb-2022-387,wet-inkomstenbelasting-2001,3,main
+2023-01-01,law,stb-2022-408,bw-boek-1 jeugdwet,16,main
+2023-01-01,law,stb-2022-430,gemeentewet provinciewet,20,main
+2023-01-01,law,stb-2022-444,gemeentewet provinciewet,23,main
+2023-01-01,law,stcrt-2022-32251,participatiewet wet-wia,11,main
+2023-01-01,law,stb-2022-491,faillissementswet,57,main
+2023-01-01,law,stb-2022-499,participatiewet,3,main
+2023-01-01,law,stcrt-2022-34448,awb,1,main
+2023-01-01,law,stcrt-2022-34724,woningwet,1,main
+2023-01-01,law,stcrt-2022-32674,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,40,main
+2023-01-01,law,stcrt-2022-33857,provinciewet,1,main
+2023-01-01,law,stb-2022-530,wet-inkomstenbelasting-2001 awr gemeentewet wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 provinciewet,17,main
+2023-01-01,law,stb-2022-531,wet-inkomstenbelasting-2001,9,main
+2023-01-01,law,stb-2022-532,zorgverzekeringswet wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 awr wet-milieubeheer wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,66,main
+2023-01-01,law,stb-2022-534,wet-inkomstenbelasting-2001,5,main
+2023-01-01,law,stb-2022-538,awr,1,main
+2023-01-01,law,stb-2022-539,wet-loonbelasting-1964,5,main
+2023-01-01,law,stb-2022-543,wetboek-van-burgerlijke-rechtsvordering wet-arbeid-vreemdelingen participatiewet wet-wia algemene-ouderdomswet wet-kinderopvang politiewet-2012,11,main
+2023-01-01,law,stcrt-2022-34944,wetboek-van-burgerlijke-rechtsvordering,1,main
+2023-01-01,law,stcrt-2022-35085,bw-boek-7,1,main
+2023-01-01,unexplained,,provinciewet,1,main
+2023-01-01,unexplained,,wet-inkomstenbelasting-2001,16,main
+2023-02-13,law,stb-2021-656,wet-milieubeheer,2,main
+2023-02-18,law,stb-2023-29,bw-boek-7 politiewet-2012,3,main
+2023-02-22,law,stb-2023-57,bw-boek-2,4,main
+2023-02-22,law,stb-2023-62,grondwet,1,main
+2023-03-01,law,stb-2022-490,wetboek-van-strafvordering,1,main
+2023-03-01,law,stb-2023-64,woningwet,1,main
+2023-04-01,law,stb-2022-444,gemeentewet provinciewet,30,main
+2023-04-05,law,stb-2022-197,wft,1,main
+2023-04-05,law,stb-2023-57,wft,6,main
+2023-04-05,law,stb-2023-93,wft,17,main
+2023-04-19,law,stb-2023-66,wegenverkeerswet-1994 woningwet wet-milieubeheer wet-economische-delicten,49,main
+2023-04-20,law,stb-2022-510,wet-langdurige-zorg,9,main
+2023-04-20,unexplained,,wet-langdurige-zorg,1,main
+2023-05-01,law,stb-2023-41,bw-boek-1 bw-boek-2 bw-boek-4 bw-boek-5 bw-boek-6 wetboek-van-burgerlijke-rechtsvordering,161,main
+2023-05-01,law,stb-2023-95,wetboek-van-burgerlijke-rechtsvordering,2,main
+2023-05-01,unexplained,,wetboek-van-burgerlijke-rechtsvordering,17,main
+2023-05-16,law,stb-2023-162,awb,1,main
+2023-06-01,law,stb-2022-215,awb wet-economische-delicten,3,main
+2023-06-01,law,stb-2023-167,wegenverkeerswet-1994,4,main
+2023-06-20,law,stb-2023-184,arbeidsomstandighedenwet wet-kinderopvang wet-economische-delicten,3,main
+2023-06-25,law,stb-2022-459,bw-boek-3 bw-boek-6 wetboek-van-burgerlijke-rechtsvordering,10,main
+2023-07-01,law,stb-2022-197,wft,1,main
+2023-07-01,law,stb-2022-208,wet-rechterlijke-organisatie,2,main
+2023-07-01,law,stb-2022-283,jeugdwet wmo-2015,6,main
+2023-07-01,law,stb-2022-438,bw-boek-6,1,main
+2023-07-01,law,stb-2022-499,participatiewet,9,main
+2023-07-01,law,stb-2022-510,wet-langdurige-zorg,2,main
+2023-07-01,law,stb-2023-57,bw-boek-7 wft faillissementswet,17,main
+2023-07-01,law,stb-2023-58,wet-economische-delicten,1,main
+2023-07-01,law,stb-2023-69,wetboek-van-strafrecht,2,main
+2023-07-01,law,stb-2023-87,faillissementswet,3,main
+2023-07-01,law,stb-2023-84,bw-boek-1 wetboek-van-strafrecht bw-boek-10 wetboek-van-burgerlijke-rechtsvordering,28,main
+2023-07-01,law,stb-2023-103,bw-boek-7 woningwet,3,main
+2023-07-01,law,stb-2023-137,wetboek-van-strafrecht,1,main
+2023-07-01,law,stb-2023-148,wet-milieubeheer,20,main
+2023-07-01,law,stb-2023-158,wegenverkeerswet-1994,4,main
+2023-07-01,law,stb-2023-164,bw-boek-6,1,main
+2023-07-01,law,stcrt-2023-16403,wetboek-van-burgerlijke-rechtsvordering participatiewet,8,main
+2023-07-01,law,stb-2023-216,awb wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-op-het-notarisambt,50,main
+2023-07-01,unexplained,,faillissementswet,3,main
+2023-08-01,law,stb-2022-134,awb,2,main
+2023-09-01,law,stb-2023-122,wetboek-van-strafrecht,1,main
+2023-09-01,law,stb-2023-252,bw-boek-2 wet-op-het-notarisambt,59,main
+2023-10-01,law,stb-2022-28,wetboek-van-strafrecht wetboek-van-strafvordering,5,main
+2023-10-01,law,stb-2023-202,wetboek-van-strafrecht wetboek-van-strafvordering participatiewet wet-langdurige-zorg werkloosheidswet wet-wia algemene-ouderdomswet,15,main
+2023-10-01,law,stb-2023-230,vreemdelingenwet-2000,1,main
+2023-10-05,law,stb-2023-293,zorgverzekeringswet,1,main
+2023-10-07,law,stb-2023-329,participatiewet,4,main
+2023-11-01,law,stb-2018-401,wet-politiegegevens,1,main
+2023-11-15,law,stb-2023-243,bw-boek-2 faillissementswet wet-economische-delicten,5,main
+2023-11-29,law,stb-2023-115,vreemdelingenwet-2000,3,main
+2023-12-06,law,stb-2023-372,wet-milieubeheer,10,main
+2023-12-30,law,stb-2023-517,bw-boek-2 wft wet-economische-delicten,11,main
+2023-12-31,law,stb-2023-510,awr,1,main
+2024-01-01,start,,omgevingswet,720,main
+2024-01-01,law,stb-2013-50,awb,6,main
+2024-01-01,law,stb-2019-382,bw-boek-7,4,main
+2024-01-01,law,stb-2020-83,wet-milieubeheer,55,main
+2024-01-01,law,stb-2020-87,wet-milieubeheer,5,main
+2024-01-01,law,stb-2020-112,bw-boek-6 bw-boek-7 gemeentewet wet-economische-delicten,7,main
+2024-01-01,law,stb-2020-172,bw-boek-5 bw-boek-6 bw-boek-7 gemeentewet woningwet wet-milieubeheer wet-economische-delicten,330,main
+2024-01-01,law,stb-2020-262,awb woningwet,7,main
+2024-01-01,law,stb-2020-310,wet-milieubeheer wet-wapens-en-munitie,2,main
+2024-01-01,law,stb-2020-507,bw-boek-2,1,main
+2024-01-01,law,stb-2021-27,wet-milieubeheer wet-economische-delicten wet-wapens-en-munitie,4,main
+2024-01-01,law,stb-2021-135,awb wet-milieubeheer,13,main
+2024-01-01,law,stb-2022-254,woningwet,1,main
+2024-01-01,law,stb-2022-510,wet-langdurige-zorg,4,main
+2024-01-01,law,stb-2022-545,wet-economische-delicten,1,main
+2024-01-01,law,stb-2022-530,awr,1,main
+2024-01-01,law,stb-2022-532,wet-inkomstenbelasting-2001 successiewet-1956,5,main
+2024-01-01,law,stb-2023-64,woningwet,1,main
+2024-01-01,law,stb-2023-66,wet-milieubeheer,2,main
+2024-01-01,law,stb-2023-116,bw-boek-1 bw-boek-10,5,main
+2024-01-01,law,stb-2023-123,wet-omzetbelasting-1968,7,main
+2024-01-01,law,stb-2023-148,wet-milieubeheer,1,main
+2024-01-01,law,stb-2023-168,bw-boek-7 wet-arbeid-vreemdelingen participatiewet wet-inkomstenbelasting-2001 werkloosheidswet wet-wia algemene-ouderdomswet,18,main
+2024-01-01,law,stb-2023-183,awb vreemdelingenwet-2000 wet-op-het-notarisambt wet-wapens-en-munitie,8,main
+2024-01-01,law,stb-2023-182,jeugdwet,53,main
+2024-01-01,law,stb-2023-242,wetboek-van-strafrecht wetboek-van-strafvordering,5,main
+2024-01-01,law,stb-2023-274,wetboek-van-strafrecht wetboek-van-strafvordering,2,main
+2024-01-01,law,stb-2023-277,bw-boek-2 wet-op-het-notarisambt,16,main
+2024-01-01,law,stb-2023-293,zorgverzekeringswet,1,main
+2024-01-01,law,stcrt-2023-25444,wmo-2015,2,main
+2024-01-01,law,stb-2023-306,wft faillissementswet,30,main
+2024-01-01,law,stb-2023-376,awb gemeentewet woningwet wet-milieubeheer provinciewet,16,main
+2024-01-01,law,stb-2023-381,algemene-ouderdomswet,3,main
+2024-01-01,law,stb-2023-409,woningwet,6,main
+2024-01-01,law,stb-2023-387,bw-boek-7 gemeentewet,2,main
+2024-01-01,law,stb-2023-417,awb participatiewet werkloosheidswet wet-wia algemene-ouderdomswet wet-kinderopvang,9,main
+2024-01-01,law,stb-2023-377,wegenverkeerswet-1994,10,main
+2024-01-01,law,stcrt-2023-33542,participatiewet wet-wia,10,main
+2024-01-01,law,stb-2023-443,participatiewet,5,main
+2024-01-01,law,stb-2023-450,wetboek-van-strafrecht,1,main
+2024-01-01,law,stcrt-2023-35303,bw-boek-7,1,main
+2024-01-01,law,stb-2023-487,bw-boek-7 woningwet,4,main
+2024-01-01,law,stcrt-2023-35194,woningwet,1,main
+2024-01-01,law,stb-2023-490,participatiewet,1,main
+2024-01-01,law,stb-2023-498,participatiewet wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 wet-kinderopvang,29,main
+2024-01-01,law,stb-2023-499,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,29,main
+2024-01-01,law,stb-2023-501,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,7,main
+2024-01-01,law,stb-2023-504,wet-inkomstenbelasting-2001 successiewet-1956,4,main
+2024-01-01,law,stb-2023-507,gemeentewet,1,main
+2024-01-01,law,stb-2023-509,wet-inkomstenbelasting-2001,2,main
+2024-01-01,law,stcrt-2023-35511,wetboek-van-burgerlijke-rechtsvordering participatiewet,2,main
+2024-01-01,law,stcrt-2023-34571,wet-inkomstenbelasting-2001,2,main
+2024-01-01,law,stcrt-2023-34842,provinciewet,1,main
+2024-01-01,law,stcrt-2023-32714,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,53,main
+2024-01-01,law,stcrt-2023-35874,awb,3,main
+2024-01-01,unexplained,,bw-boek-7,1,main
+2024-01-01,unexplained,,faillissementswet,1,main
+2024-02-01,law,stb-2023-412,wet-kinderopvang,4,main
+2024-03-13,law,stb-2024-52,bw-boek-2,3,main
+2024-03-30,law,stb-2024-65,wet-milieubeheer wet-economische-delicten,59,main
+2024-04-01,law,stb-2022-186,wft advocatenwet wet-economische-delicten,11,main
+2024-04-01,law,stb-2022-343,wet-economische-delicten,1,main
+2024-04-30,law,stcrt-2024-12218,wet-inkomstenbelasting-2001,1,main
+2024-05-01,law,stb-2024-95,bw-boek-3 awb wet-economische-delicten,3,main
+2024-05-01,law,stb-2024-108,bw-boek-7,1,main
+2024-06-19,law,stb-2024-164,wegenverkeerswet-1994 wet-open-overheid,2,main
+2024-06-22,law,stb-2024-174,bw-boek-2,1,main
+2024-07-01,law,stb-2021-220,wetboek-van-strafvordering,6,main
+2024-07-01,law,stb-2022-188,wmo-2015,2,main
+2024-07-01,law,stb-2022-443,woningwet,9,main
+2024-07-01,law,stb-2023-57,wft,4,main
+2024-07-01,law,stb-2023-183,wetboek-van-burgerlijke-rechtsvordering,1,main
+2024-07-01,law,stb-2023-293,zorgverzekeringswet,1,main
+2024-07-01,law,stb-2023-480,bw-boek-7 woningwet faillissementswet,10,main
+2024-07-01,law,stb-2024-59,wetboek-van-strafrecht wetboek-van-strafvordering wet-kinderopvang wet-wapens-en-munitie,51,main
+2024-07-01,law,stb-2024-78,wet-langdurige-zorg,1,main
+2024-07-01,law,stb-2024-108,bw-boek-7,1,main
+2024-07-01,law,stcrt-2024-17898,wetboek-van-burgerlijke-rechtsvordering participatiewet,7,main
+2024-07-01,law,stb-2024-156,wet-economische-delicten,1,main
+2024-07-01,law,stb-2024-162,wetboek-van-strafrecht,3,main
+2024-07-01,law,stb-2024-193,bw-boek-7,4,main
+2024-07-01,unexplained,,wetboek-van-strafrecht,9,main
+2024-07-10,law,stb-2023-321,wft faillissementswet,2,main
+2024-07-25,law,stb-2024-222,vreemdelingenwet-2000,1,main
+2024-07-25,law,stb-2024-224,awb,1,main
+2024-08-01,law,stb-2024-109,awb wet-kinderopvang politiewet-2012,6,main
+2024-09-01,law,stb-2024-109,awb,1,main
+2024-09-06,law,stb-2024-241,wft,21,main
+2024-10-01,law,stb-2022-186,bw-boek-6,1,main
+2024-10-01,law,stb-2024-207,wetboek-van-strafrecht wetboek-van-strafvordering,4,main
+2024-10-02,law,stb-2024-272,wet-milieubeheer,2,main
+2024-11-01,law,stb-2021-500,wet-open-overheid,1,main
+2024-11-06,law,stb-2024-291,zorgverzekeringswet jeugdwet wet-langdurige-zorg,3,main
+2024-11-08,law,stb-2024-278,bw-boek-3 wetboek-van-burgerlijke-rechtsvordering awb,4,main
+2024-11-19,law,stb-2024-347,awb,2,main
+2024-12-11,law,stb-2024-391,gemeentewet woningwet provinciewet,6,main
+2024-12-11,law,stb-2024-390,wet-kinderopvang,4,main
+2024-12-19,law,stb-2024-418,wet-economische-delicten,1,main
+2025-01-01,law,stb-2019-511,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,2,main
+2025-01-01,law,stb-2021-220,wetboek-van-strafvordering,5,main
+2025-01-01,law,stb-2022-532,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,2,main
+2025-01-01,law,stb-2022-542,algemene-ouderdomswet,1,main
+2025-01-01,law,stb-2023-43,wetboek-van-strafrecht,1,main
+2025-01-01,law,stb-2023-183,awb,1,main
+2025-01-01,law,stb-2023-278,wet-omzetbelasting-1968,17,main
+2025-01-01,law,stb-2023-285,jeugdwet wmo-2015,6,main
+2025-01-01,law,stb-2023-377,wegenverkeerswet-1994,1,main
+2025-01-01,law,stb-2023-441,wet-omzetbelasting-1968,3,main
+2025-01-01,law,stb-2023-499,wet-inkomstenbelasting-2001,2,main
+2025-01-01,law,stb-2023-503,wet-inkomstenbelasting-2001,1,main
+2025-01-01,law,stb-2023-504,wet-inkomstenbelasting-2001 successiewet-1956,2,main
+2025-01-01,law,stb-2023-505,wet-milieubeheer,5,main
+2025-01-01,law,stb-2023-508,wet-inkomstenbelasting-2001 awr wet-vennootschapsbelasting-1969 successiewet-1956,24,main
+2025-01-01,law,stb-2024-62,bw-boek-2 bw-boek-7 wetboek-van-burgerlijke-rechtsvordering,61,main
+2025-01-01,law,stb-2024-162,wetboek-van-strafrecht,2,main
+2025-01-01,law,stb-2024-174,bw-boek-2 wetboek-van-burgerlijke-rechtsvordering,16,main
+2025-01-01,law,stb-2024-203,gemeentewet provinciewet,4,main
+2025-01-01,law,stb-2024-241,wft faillissementswet wet-economische-delicten,9,main
+2025-01-01,law,stb-2024-291,awb zorgverzekeringswet jeugdwet wmo-2015 wet-langdurige-zorg,6,main
+2025-01-01,law,stb-2024-300,jeugdwet wmo-2015 wet-langdurige-zorg,29,main
+2025-01-01,law,stcrt-2024-35187,wmo-2015,2,main
+2025-01-01,law,stcrt-2024-38002,awb,3,main
+2025-01-01,law,stcrt-2024-39288,participatiewet wet-wia,10,main
+2025-01-01,law,stb-2024-407,participatiewet,3,main
+2025-01-01,law,stb-2024-409,wet-langdurige-zorg arbeidsomstandighedenwet wet-wia algemene-ouderdomswet,53,main
+2025-01-01,law,stcrt-2024-42068,bw-boek-7,1,main
+2025-01-01,law,stb-2024-431,participatiewet,1,main
+2025-01-01,law,stb-2024-434,awb wet-inkomstenbelasting-2001 awr wet-milieubeheer wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,33,main
+2025-01-01,law,stb-2024-435,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,12,main
+2025-01-01,law,stb-2024-439,wet-inkomstenbelasting-2001 successiewet-1956,5,main
+2025-01-01,law,stb-2024-440,wet-inkomstenbelasting-2001 awr wet-loonbelasting-1964,7,main
+2025-01-01,law,stcrt-2024-38305,provinciewet,1,main
+2025-01-01,law,stcrt-2024-38492,wet-inkomstenbelasting-2001 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,56,main
+2025-01-01,law,stcrt-2024-42105,woningwet,1,main
+2025-01-01,law,stcrt-2024-42409,wetboek-van-burgerlijke-rechtsvordering,1,main
+2025-01-01,unexplained,,algemene-ouderdomswet,1,main
+2025-01-01,unexplained,,bw-boek-2,1,main
+2025-01-01,unexplained,,wet-milieubeheer,1,main
+2025-01-17,law,stb-2024-199,wft,8,main
+2025-02-04,law,stb-2024-415,wft wet-economische-delicten,4,main
+2025-02-04,law,stb-2025-21,bw-boek-6 wetboek-van-strafvordering wetboek-van-burgerlijke-rechtsvordering awb auteurswet,11,main
+2025-02-04,law,stcrt-2025-4148,participatiewet,1,main
+2025-02-12,law,stb-2024-391,bw-boek-7 gemeentewet wet-open-overheid woningwet provinciewet,21,main
+2025-03-01,law,stb-2024-198,wft wet-politiegegevens,2,main
+2025-03-08,law,stb-2025-15,wetboek-van-burgerlijke-rechtsvordering awb,6,main
+2025-03-15,law,stcrt-2025-8295,wet-inkomstenbelasting-2001,1,main
+2025-03-18,law,stb-2025-38,wft,5,main
+2025-03-28,law,stb-2025-79,vreemdelingenwet-2000,3,main
+2025-04-01,law,stb-2024-377,wet-politiegegevens,1,main
+2025-04-04,law,stb-2025-85,awb,2,main
+2025-04-15,law,stb-2025-96,vreemdelingenwet-2000,2,main
+2025-05-09,law,stb-2025-102,wet-economische-delicten,1,main
+2025-05-15,law,stb-2025-76,wetboek-van-strafrecht wetboek-van-strafvordering,17,main
+2025-05-15,law,stb-2025-124,wetboek-van-strafvordering,1,main
+2025-06-28,law,stb-2024-87,bw-boek-6 wft,7,main
+2025-07-01,law,stb-2021-220,wetboek-van-strafvordering,1,main
+2025-07-01,law,stb-2023-156,wetboek-van-strafrecht arbeidsomstandighedenwet wetboek-van-koophandel,11,main
+2025-07-01,law,stb-2024-376,bw-boek-3,1,main
+2025-07-01,law,stb-2024-409,wet-langdurige-zorg,1,main
+2025-07-01,law,stb-2025-9,wetboek-van-strafrecht bw-boek-7 wet-economische-delicten,6,main
+2025-07-01,law,stb-2025-12,omgevingswet,1,main
+2025-07-01,law,stb-2025-25,wet-politiegegevens,1,main
+2025-07-01,law,stb-2025-32,wetboek-van-strafvordering opiumwet,19,main
+2025-07-01,law,stb-2025-71,wetboek-van-strafrecht,1,main
+2025-07-01,law,stb-2025-72,bw-boek-3,3,main
+2025-07-01,law,stb-2025-83,zorgverzekeringswet wmo-2015 wet-langdurige-zorg,4,main
+2025-07-01,law,stb-2025-74,wetboek-van-strafrecht,7,main
+2025-07-01,law,stb-2025-124,bw-boek-1 wetboek-van-strafrecht bw-boek-3 bw-boek-4 bw-boek-6 bw-boek-7 bw-boek-10 wetboek-van-strafvordering wetboek-van-burgerlijke-rechtsvordering awb auteurswet vreemdelingenwet-2000 wmo-2015 wet-politiegegevens wet-rechterlijke-organisatie wet-economische-delicten politiewet-2012,137,main
+2025-07-01,law,stcrt-2025-19118,wetboek-van-burgerlijke-rechtsvordering participatiewet,7,main
+2025-07-01,unexplained,,opiumwet,1,main
+2025-07-05,law,stb-2025-151,bw-boek-1 zorgverzekeringswet wet-langdurige-zorg,4,main
+2025-07-09,law,stb-2025-175,vreemdelingenwet-2000,1,main
+2025-07-18,law,stb-2025-193,bw-boek-7 wft wet-economische-delicten,47,main
+2025-07-19,law,stb-2025-195,wet-inkomstenbelasting-2001,1,main
+2025-07-24,law,stb-2023-321,wft,2,main
+2025-09-01,law,stb-2025-200,awb,3,main
+2025-09-17,law,stb-2025-234,wet-milieubeheer,10,main
+2025-11-01,law,stb-2025-197,penitentiaire-beginselenwet,16,main
+2025-11-19,law,stb-2025-363,wft faillissementswet,6,main
+2025-11-21,law,stb-2025-372,awb,2,main
+2025-11-22,law,stb-2021-319,wet-economische-delicten,1,main
+2025-12-30,law,stb-2025-77,wet-milieubeheer,13,main
+2025-12-31,law,stb-2025-447,awr gemeentewet provinciewet,6,main
+2026-01-01,law,stb-2022-532,wet-inkomstenbelasting-2001,1,main
+2026-01-01,law,stb-2023-183,awb vreemdelingenwet-2000 wet-inkomstenbelasting-2001 awr advocatenwet politiewet-2012,37,main
+2026-01-01,law,stb-2023-195,wegenverkeerswet-1994,75,main
+2026-01-01,law,stb-2023-376,omgevingswet,1,main
+2026-01-01,law,stb-2023-377,wegenverkeerswet-1994,12,main
+2026-01-01,law,stb-2023-504,wet-inkomstenbelasting-2001,1,main
+2026-01-01,law,stb-2024-425,woningwet,1,main
+2026-01-01,law,stb-2024-434,wet-omzetbelasting-1968 wet-loonbelasting-1964,2,main
+2026-01-01,law,stb-2024-439,wet-inkomstenbelasting-2001 successiewet-1956,3,main
+2026-01-01,law,stb-2025-12,omgevingswet gemeentewet provinciewet,5,main
+2026-01-01,law,stb-2025-123,wet-langdurige-zorg,8,main
+2026-01-01,law,stb-2025-150,zorgverzekeringswet,1,main
+2026-01-01,law,stb-2025-164,wet-kinderopvang,1,main
+2026-01-01,law,stb-2025-195,wet-inkomstenbelasting-2001,2,main
+2026-01-01,law,stb-2025-210,participatiewet werkloosheidswet wet-wia,21,main
+2026-01-01,law,stcrt-2025-35082,wmo-2015,2,main
+2026-01-01,law,stb-2025-274,jeugdwet wmo-2015,16,main
+2026-01-01,law,stb-2025-312,participatiewet,21,main
+2026-01-01,law,stb-2025-333,wetboek-van-strafrecht bw-boek-7 wetboek-van-strafvordering wetboek-van-burgerlijke-rechtsvordering awb omgevingswet opiumwet wet-economische-delicten wet-wapens-en-munitie,45,main
+2026-01-01,law,stb-2025-349,omgevingswet wet-economische-delicten,6,main
+2026-01-01,law,stcrt-2025-39855,awb,2,main
+2026-01-01,law,stb-2025-352,auteurswet,12,main
+2026-01-01,law,stb-2025-401,wetboek-van-strafrecht,1,main
+2026-01-01,law,stb-2025-431,wet-inkomstenbelasting-2001 wet-omzetbelasting-1968 awr wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,27,main
+2026-01-01,law,stcrt-2025-41733,woningwet,1,main
+2026-01-01,law,stcrt-2025-43553,participatiewet wet-wia,11,main
+2026-01-01,law,stcrt-2025-43567,bw-boek-7,1,main
+2026-01-01,law,stb-2025-441,wet-kinderopvang,1,main
+2026-01-01,law,stb-2025-444,wet-inkomstenbelasting-2001 awr wet-loonbelasting-1964 successiewet-1956,18,main
+2026-01-01,law,stb-2025-445,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969,13,main
+2026-01-01,law,stb-2025-450,awb,6,main
+2026-01-01,law,stcrt-2025-40375,provinciewet,1,main
+2026-01-01,law,stcrt-2025-40487,wet-inkomstenbelasting-2001 wet-loonbelasting-1964 wet-vennootschapsbelasting-1969 successiewet-1956,55,main
+2026-01-01,law,stcrt-2025-44508,wetboek-van-burgerlijke-rechtsvordering,1,main
+2026-01-01,unexplained,,awr,2,main
+2026-01-23,law,stb-2020-140,politiewet-2012,1,main
+2026-02-04,law,stb-2025-312,participatiewet,2,main
+2026-02-18,law,stb-2026-36,omgevingswet,2,main
+2026-02-21,law,stcrt-2026-3708,wet-inkomstenbelasting-2001 wet-loonbelasting-1964,2,main
+2026-02-28,law,stb-2026-47,vreemdelingenwet-2000,2,main
+2026-03-21,law,stb-2025-431,gemeentewet,1,main
+2026-03-25,law,stb-2026-60,wft faillissementswet,89,main
+2026-04-03,law,stb-2026-18,participatiewet,1,main
+2026-04-11,law,stb-2026-79,awr,3,main
+2026-05-29,law,stb-2026-91,wft,34,main
+2026-06-04,law,stb-2026-94,wetboek-van-burgerlijke-rechtsvordering awb omgevingswet gemeentewet woningwet provinciewet,68,main
+2026-06-12,law,stb-2026-127,vreemdelingenwet-2000 wet-arbeid-vreemdelingen politiewet-2012,89,main
+2026-06-20,law,stb-2026-83,wet-milieubeheer,64,main
+2026-06-20,unexplained,,wet-milieubeheer,21,main
+2026-06-25,law,stb-2026-153,bw-boek-6 wft,11,main
+2026-07-01,law,stb-2017-518,provinciewet,1,main
+2026-07-01,law,stb-2019-107,bw-boek-2,2,main
+2026-07-01,law,stb-2022-330,wegenverkeerswet-1994,1,main
+2026-07-01,law,stb-2025-164,wet-kinderopvang,5,main
+2026-07-01,law,stb-2025-203,wet-economische-delicten,1,main
+2026-07-01,law,stb-2025-333,wet-wapens-en-munitie,1,main
+2026-07-01,law,stb-2026-18,participatiewet arbeidsomstandighedenwet werkloosheidswet wet-wia algemene-ouderdomswet wet-kinderopvang,20,main
+2026-07-01,law,stb-2026-20,wetboek-van-strafrecht,5,main
+2026-07-01,law,stb-2026-49,wetboek-van-strafvordering,9,main
+2026-07-01,law,stb-2026-86,bw-boek-10,1,main
+2026-07-01,law,stb-2026-94,bw-boek-7 omgevingswet,2,main
+2026-07-01,law,stcrt-2026-20221,wetboek-van-burgerlijke-rechtsvordering participatiewet,7,main
+2026-07-01,law,stb-2026-156,awb omgevingswet wmo-2015 woningwet,46,main
+2026-07-09,unexplained,,opiumwet,1,main
+2026-07-14,law,stb-2026-185,wetboek-van-burgerlijke-rechtsvordering,4,main
+2026-07-16,law,stb-2026-152,bw-boek-6,8,main
+2026-07-21,law,stb-2026-217,wft,10,main
+2026-08-01,law,stb-2026-7,wet-milieubeheer wet-economische-delicten,4,main
+2026-08-01,law,stb-2026-177,awb wet-kinderopvang,2,main
+2026-08-15,law,stb-2026-187,wft,1,main
+2026-08-15,law,stb-2026-188,awb,2,main
+2026-09-01,law,stb-2026-154,uavg wft vreemdelingenwet-2000 wegenverkeerswet-1994 wet-politiegegevens faillissementswet,33,main
+2026-09-22,law,stb-2026-219,wft wet-economische-delicten,65,main
+2026-09-26,law,stb-2026-215,wft,18,main
+2026-09-29,law,stb-2026-216,wft,15,main
+2026-10-01,law,stb-2019-512,awr,2,main
+2026-10-08,law,stb-2026-306,bw-boek-7 wet-loonbelasting-1964 werkloosheidswet,3,main
+2026-10-16,law,stb-2026-314,vreemdelingenwet-2000,3,main
+2026-10-16,law,stb-2026-315,vreemdelingenwet-2000,2,main
+2026-10-22,law,stb-2026-330,wet-milieubeheer,5,main
