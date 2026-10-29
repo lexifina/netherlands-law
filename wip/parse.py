@@ -148,7 +148,7 @@ def read_version(raw: bytes) -> dict:
             if ch.tag == 'artikel':
                 kop = ch.find('kop')
                 nr = norm(inline(kop.find('nr'))) if kop is not None and kop.find('nr') is not None else ''
-                key = article_key(nr, ch.get('label', ''))
+                key = article_key(nr, ch.get('label', '')) if nr else 'art-000'
                 if ch.get('status') in GONE:
                     gone[key] = dict(ch.attrib)
                     continue
@@ -188,7 +188,9 @@ def wti_laws(raw: bytes) -> dict[str, list[str]]:
     """{in-force day: [Staatsblad ids that the WTI lists as taking effect that day]}"""
     out: dict[str, list[str]] = {}
     for m in re.finditer(rb'<datum waarde="(\d{4}-\d\d-\d\d)">(.*?)</datum>', raw, re.S):
-        ids = re.findall(rb'<ontstaansbron>.*?urlidentifier="([a-z]+-\d{4}-\d+)"', m.group(2), re.S)
+        ids = []
+        for o in re.findall(rb'<ontstaansbron>(.*?)</ontstaansbron>', m.group(2), re.S):
+            ids += re.findall(rb'urlidentifier="([a-z]+-\d{4}-\d+)"', o)
         out[m.group(1).decode()] = sorted({i.decode() for i in ids})
     return out
 
@@ -239,11 +241,14 @@ def build_act(slug: str, spec: dict, laws: dict, uses: Counter) -> dict:
         v = read_version(raw)
         day = e['from']
         if prev is None:
+            # The first version is the act as enacted only if every article still carries the act's own
+            # enacting publication (the bron on its intitule) and took effect on this day.
             first = {(a.get('bron'), a.get('inwerking')) for a in v['attrs'].values()}
+            enacting = (re.search(rb'<intitule [^>]*bron="([^"]+)"', raw) or [None, b''])[1].decode()
             first_law = None
             if len(first) == 1:
                 bron, inw = next(iter(first))
-                if inw == day and law_key(bron):
+                if inw == day and law_key(bron) and bron == enacting:
                     first_law = credit({'bron': bron, 'inwerking': inw, **next(iter(v['attrs'].values()))}, day)[0]
             ver = {'from': day, 'source_url': url, 'sha256': hashlib.sha256(raw).hexdigest(), 'units': v['units'],
                    'credits': {}}
@@ -270,6 +275,16 @@ def build_act(slug: str, spec: dict, laws: dict, uses: Counter) -> dict:
                 credits[k] = c
             else:
                 log['unexplained unit change'] += 1
+        # A Besluit publishing the text of the revised Grondwet (Art. 141 Gw) is the bron the BWB gives the
+        # wording, but the revision laws the WTI lists for the same day made the change: say so on the Besluit.
+        for k in {x for c in credits.values() for x in c}:
+            if 'ter bekendmaking van de tekst' in (laws[k]['title'] or '') and not laws[k]['note']:
+                others = [o for o in wti.get(day, []) if o != k]
+                if others:
+                    labels = '; '.join('Stb. {}, {}'.format(*o.split('-')[1:]) for o in others)
+                    laws[k]['note'] = (f'Publishes the text of the revised {spec["title"]} (Art. 141 Grondwet); the BWB names '
+                                       f'it as the source of the wording. The revision laws the BWB lists as taking '
+                                       f'effect the same day: {labels}.')
         if not changes:
             dropped += 1
             prev = v

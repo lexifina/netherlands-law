@@ -90,17 +90,6 @@
    "restores": null,
    "note": null
   },
-  "stb-2002-200": {
-   "label": "Stb. 2002, 200",
-   "title": "Besluit van 9 april 2002 ter bekendmaking van de tekst van de herziene Grondwet",
-   "kind": "decree",
-   "enacted": "2002-04-09",
-   "published": "2002-05-02",
-   "url": "https://zoek.officielebekendmakingen.nl/stb-2002-200",
-   "temporary_until": null,
-   "restores": null,
-   "note": null
-  },
   "stb-2002-227": {
    "label": "Stb. 2002, 227",
    "title": "Wet van 18 april 2002 tot vaststelling van titel 7.3 (Schenking) van het nieuwe Burgerlijk Wetboek",
@@ -616,7 +605,7 @@
    "url": "https://zoek.officielebekendmakingen.nl/stb-2006-240",
    "temporary_until": null,
    "restores": null,
-   "note": null
+   "note": "Publishes the text of the revised Grondwet (Art. 141 Grondwet); the BWB names it as the source of the wording. The revision laws the BWB lists as taking effect the same day: Stb. 2005, 52."
   },
   "stb-2006-300": {
    "label": "Stb. 2006, 300",
@@ -836,7 +825,7 @@
    "url": "https://zoek.officielebekendmakingen.nl/stb-2008-348",
    "temporary_until": null,
    "restores": null,
-   "note": null
+   "note": "Publishes the text of the revised Grondwet (Art. 141 Grondwet); the BWB names it as the source of the wording. The revision laws the BWB lists as taking effect the same day: Stb. 2008, 272; Stb. 2008, 273."
   },
   "stb-2008-410": {
    "label": "Stb. 2008, 410",
@@ -2244,7 +2233,7 @@
    "url": "https://zoek.officielebekendmakingen.nl/stb-2019-33",
    "temporary_until": null,
    "restores": null,
-   "note": null
+   "note": "Publishes the text of the revised Grondwet (Art. 141 Grondwet); the BWB names it as the source of the wording. The revision laws the BWB lists as taking effect the same day: Stb. 2018, 493."
   },
   "stb-2019-413": {
    "label": "Stb. 2019, 413",
@@ -2781,7 +2770,7 @@
    "short": "Gw",
    "title": "Grondwet",
    "url": "https://wetten.overheid.nl/BWBR0001840",
-   "first_law": "stb-2002-200",
+   "first_law": null,
    "earlier_laws": [],
    "versions": [
     {
@@ -3739,7 +3728,7 @@
        "kind": "art",
        "text": "# Artikel V\n1. Artikel 137 van de Grondwet zoals dat luidde voor de inwerkingtreding van dit artikel, blijft van kracht ten aanzien van een voorstel tot verandering in de Grondwet waarvan de wet die verklaart dat zij in overweging zal worden genomen, is bekendgemaakt vóór de datum waarop de Tweede Kamer is gekozen die zitting heeft op de datum van inwerkingtreding van dit artikel.\n2. Indien een wijziging van artikel 137 van de Grondwet in werking is getreden die ertoe strekt dat de Staten-Generaal in verenigde vergadering een voorstel tot verandering in de Grondwet in tweede lezing overwegen, komt het derde lid van artikel 137 van de Grondwet te luiden:\n3. Nadat de Tweede Kamer die wordt gekozen na de bekendmaking van de wet, bedoeld in het eerste lid, is samengekomen, overwegen de Staten-Generaal in verenigde vergadering in tweede lezing het voorstel tot verandering, bedoeld in het eerste lid. Zij kunnen dit alleen aannemen met ten minste twee derden van het aantal uitgebrachte stemmen. Indien zij gedurende de zittingsduur van de in de eerste volzin bedoelde Tweede Kamer geen besluit nemen over het voorstel, vervalt dit van rechtswege.\n3. Dit additionele artikel vervalt op een bij wet te bepalen tijdstip, nadat de behandeling van voorstellen tot verandering in de Grondwet als bedoeld in het eerste en het tweede lid is afgerond.\n"
       },
-      "art-": {
+      "art-000": {
        "label": "Algemene bepaling",
        "kind": "art",
        "text": "# Algemene bepaling\nDe Grondwet waarborgt de grondrechten en de democratische rechtsstaat.\n"
@@ -3770,7 +3759,7 @@
       "add-art-05": [
        "stb-2022-335"
       ],
-      "art-": [
+      "art-000": [
        "stb-2022-332"
       ],
       "art-013": [
@@ -24311,7 +24300,7 @@
    "short": "UAVG",
    "title": "Uitvoeringswet Algemene verordening gegevensbescherming",
    "url": "https://wetten.overheid.nl/BWBR0040940",
-   "first_law": "stb-2018-144",
+   "first_law": null,
    "earlier_laws": [],
    "versions": [
     {
