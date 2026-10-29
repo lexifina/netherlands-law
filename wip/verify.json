@@ -1,0 +1,52 @@
+{
+ "grondwet": {
+  "url": "https://wetten.overheid.nl/BWBR0001840",
+  "consulted": "29-10-2026",
+  "page_in_force_from": "2023-02-22",
+  "ours_last": "2023-02-22",
+  "date_ok": true,
+  "articles_ours": 148,
+  "articles_page": 177,
+  "unmatched": {},
+  "page_only": [],
+  "page_not_yet_in_force": []
+ },
+ "bw-boek-1": {
+  "url": "https://wetten.overheid.nl/BWBR0002656",
+  "consulted": "29-10-2026",
+  "page_in_force_from": "2025-07-05",
+  "ours_last": "2025-07-05",
+  "date_ok": true,
+  "articles_ours": 501,
+  "articles_page": 623,
+  "unmatched": {},
+  "page_only": [],
+  "page_not_yet_in_force": []
+ },
+ "wetboek-van-strafrecht": {
+  "url": "https://wetten.overheid.nl/BWBR0001854",
+  "consulted": "29-10-2026",
+  "page_in_force_from": "2026-07-01",
+  "ours_last": "2026-07-01",
+  "date_ok": true,
+  "articles_ours": 685,
+  "articles_page": 810,
+  "unmatched": {},
+  "page_only": [],
+  "page_not_yet_in_force": []
+ },
+ "uavg": {
+  "url": "https://wetten.overheid.nl/BWBR0040940",
+  "consulted": "29-10-2026",
+  "page_in_force_from": "2026-09-01",
+  "ours_last": "2026-09-01",
+  "date_ok": true,
+  "articles_ours": 62,
+  "articles_page": 63,
+  "unmatched": {},
+  "page_only": [],
+  "page_not_yet_in_force": [
+   "art-023a (nogniet)"
+  ]
+ }
+}

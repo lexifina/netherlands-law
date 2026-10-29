@@ -1,0 +1,10 @@
+{
+  "path": "nl",
+  "code": "NL",
+  "name": "Netherlands",
+  "level": "country",
+  "repo": "https://github.com/lexifina/netherlands-law",
+  "build": "built: Grondwet 2002-2023 (11 versions), Burgerlijk Wetboek Boek 1 2002-2025 (58), Wetboek van Strafrecht 2002-2026 (119), UAVG 2018-2026 (6)",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28"
+}
