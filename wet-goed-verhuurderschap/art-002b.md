@@ -1,0 +1,2 @@
+# Artikel 2b
+Het is verhuurders, toegelaten instellingen en dochtermaatschappijen verboden om in geval van een huurovereenkomst als bedoeld in artikel 247 of artikel 247a van Boek 7 van het Burgerlijk Wetboek, behoudens artikel 255a van dat boek, de huurprijs te verhogen met een percentage dat hoger is dan het percentage, bedoeld in artikel 10, derde lid, van de Uitvoeringswet huurprijzen woonruimte.

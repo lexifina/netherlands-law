@@ -1,0 +1,5 @@
+# Artikel 2a
+1. Het is verhuurders, toegelaten instellingen en dochtermaatschappijen verboden een zelfstandige woonruimte te verhuren met een huurprijs die hoger is dan de krachtens artikel 10, eerste lid, van de Uitvoeringswet huurprijzen woonruimte geldende maximale huurprijsgrens.
+2. Het verbod, bedoeld in het eerste lid, is niet van toepassing op een overeenkomst van huur en verhuur van een zelfstandige woonruimte met een geldende maximale huurprijsgrens die hoger is dan het in artikel 3, tweede lid, van de Uitvoeringswet huurprijzen woonruimte bedoelde bedrag.
+3. Het is verhuurders, toegelaten instellingen en dochtermaatschappijen verboden een onzelfstandige woonruimte te verhuren met een huurprijs die hoger is dan de krachtens artikel 10, eerste lid, van de Uitvoeringswet huurprijzen woonruimte geldende maximale huurprijsgrens.
+4. Het is verhuurders, toegelaten instellingen en dochtermaatschappijen verboden een huurverhoging toe te passen die een bij of krachtens artikel 10 van de Uitvoeringswet huurprijzen woonruimte vastgesteld maximaal toegestaan huurverhogingspercentage overschrijdt.
