@@ -1,0 +1,2 @@
+# Artikel 6d
+Het college van burgemeester en wethouders stelt de aanvrager van een registratienummer dat is afgegeven vóór inwerkingtreding van het Besluit van 31 augustus 2026 tot wijziging van het Besluit registratie toeristische verhuur van woonruimte ten behoeve van de uitvoering van de verordening kortetermijnverhuur (Stb. 2026, 266) in de gelegenheid de gegevens, bedoeld in artikel 3, tweede lid, die de aanvrager nog niet aan het college heeft verzonden aan het college te verzenden binnen zes maanden na inwerkingtreding van dat besluit.
