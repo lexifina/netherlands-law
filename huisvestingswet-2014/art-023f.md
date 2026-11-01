@@ -5,3 +5,4 @@
 a. het toezicht op de naleving van de krachtens artikel 4.3 van de Omgevingswet gegeven voorschriften vanuit het oogpunt van veiligheid, gezondheid en bruikbaarheid van de woonruimte, en
 b. de heffing en invordering van de toeristenbelasting, bedoeld in artikel 224 van de Gemeentewet.
 4. Burgemeester en wethouders verstrekken de bij algemene maatregel van bestuur te bepalen gegevens uit het systeem ten behoeve van het afgeven van het registratienummer aan het centraal digitaal toegangspunt, bedoeld in artikel 23j, eerste lid.
+5. Burgemeester en wethouders kunnen rechten als bedoeld in artikel 229, eerste lid, onderdeel b, van de Gemeentewet heffen voor het in behandeling nemen van een aanvraag van een registratienummer, indien de aanvraag niet via elektronische weg is gedaan.

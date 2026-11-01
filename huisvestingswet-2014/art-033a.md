@@ -1,4 +1,4 @@
 # Artikel 33a
 De gemeenteraad kan in de huisvestingsverordening bepalen dat burgemeester en wethouders:
 a. een verbod tot het in gebruik geven van een woonruimte voor toeristische verhuur kunnen opleggen voor ten hoogste een jaar aan een aanbieder indien binnen een tijdvak van vijf jaar voorafgaand aan de constatering door een ambtenaar als bedoeld in artikel 33, eerste lid, van een overtreding van de bij de huisvestingsverordening aan toeristische verhuur gestelde eisen, ten minste twee maal een bestuurlijke boete is opgelegd voor overtreding van de bij de huisvestingsverordening aan toeristische verhuur gestelde eisen;
-b. een aanwijzing kunnen geven aan een digitaal platform om de aanbieding voor toeristische verhuur van de aanbieder aan wie een verbod tot het in gebruik geven van een woning voor toeristische verhuur als bedoeld in het eerste lid is opgelegd te blokkeren.
+b. een aanwijzing kunnen geven aan een online platform voor toeristische verhuur om de aanbieding voor toeristische verhuur van de aanbieder aan wie een verbod tot het in gebruik geven van een woning voor toeristische verhuur als bedoeld in het eerste lid is opgelegd te blokkeren.
