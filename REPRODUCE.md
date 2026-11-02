@@ -52,6 +52,14 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-02 | CC0 1.0 |
 | Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-02 | CC0 1.0 |
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-02 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-02 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-02 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-02 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-02 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-02 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-02 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-02 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-02 | CC0 1.0 |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -161,20 +169,210 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `wet-sociale-werkvoorziening` | Wet sociale werkvoorziening | 16 | 2002-01-01 to 2015-07-01 |
 | `rijkswet-instelling-exclusieve-economische-zone` | Rijkswet instelling exclusieve economische zone | 2 | 2000-04-28 to 2023-01-01 |
 | `wet-personenvervoer-2000` | Wet personenvervoer 2000 | 44 | 2002-01-01 to 2026-07-01 |
+| `gerechtsdeurwaarderswet` | Gerechtsdeurwaarderswet | 32 | 2002-01-01 to 2025-01-01 |
+| `wet-bevordering-integriteitsbeoordelingen-door-het-openbaar-bestuur` | Wet bevordering integriteitsbeoordelingen door het openbaar bestuur | 40 | 2002-09-01 to 2025-07-16 |
+| `mijnbouwwet` | Mijnbouwwet | 72 | 2003-01-01 to 2026-06-04 |
+| `wet-toezicht-accountantsorganisaties` | Wet toezicht accountantsorganisaties | 24 | 2006-10-01 to 2026-09-01 |
+| `wet-ter-voorkoming-van-witwassen-en-financieren-van-terrorisme` | Wet ter voorkoming van witwassen en financieren van terrorisme | 37 | 2008-08-01 to 2026-07-01 |
+| `drinkwaterwet` | Drinkwaterwet | 14 | 2011-07-01 to 2024-01-01 |
+| `wet-dieren` | Wet dieren | 19 | 2013-01-01 to 2025-01-01 |
+| `wet-ambtenaren-defensie` | Wet ambtenaren defensie | 20 | 2002-01-01 to 2026-01-01 |
+| `wet-aansprakelijkheidsverzekering-motorrijtuigen` | Wet aansprakelijkheidsverzekering motorrijtuigen | 21 | 2002-01-01 to 2025-07-24 |
+| `bekendmakingswet` | Bekendmakingswet | 8 | 1995-05-17 to 2024-01-01 |
+| `wet-administratiefrechtelijke-handhaving-verkeersvoorschriften` | Wet administratiefrechtelijke handhaving verkeersvoorschriften | 32 | 2002-03-12 to 2026-09-01 |
+| `wet-op-de-belasting-van-personenauto-s-en-motorrijwielen-1992` | Wet op de belasting van personenauto's en motorrijwielen 1992 | 42 | 2002-01-01 to 2026-01-01 |
+| `wet-op-de-beroepen-in-de-individuele-gezondheidszorg` | Wet op de beroepen in de individuele gezondheidszorg | 46 | 2002-01-01 to 2025-07-05 |
+| `wet-centraal-orgaan-opvang-asielzoekers` | Wet Centraal Orgaan opvang asielzoekers | 15 | 2001-04-01 to 2026-06-04 |
+| `wet-waardering-onroerende-zaken` | Wet waardering onroerende zaken | 25 | 2002-01-01 to 2026-07-01 |
+| `wet-belastingen-op-milieugrondslag` | Wet belastingen op milieugrondslag | 57 | 2002-01-01 to 2026-06-04 |
+| `arbeidstijdenwet` | Arbeidstijdenwet | 33 | 1999-11-01 to 2025-07-01 |
+| `wet-op-de-huurtoeslag` | Wet op de huurtoeslag | 51 | 2002-01-01 to 2026-01-01 |
+| `wet-allocatie-arbeidskrachten-door-intermediairs` | Wet allocatie arbeidskrachten door intermediairs | 25 | 2002-01-01 to 2026-07-01 |
+| `telecommunicatiewet` | Telecommunicatiewet | 74 | 2002-01-01 to 2026-08-15 |
+| `postwet-2009` | Postwet 2009 | 15 | 2009-04-01 to 2019-01-01 |
+| `wet-basisregistratie-personen` | Wet basisregistratie personen | 18 | 2014-01-06 to 2026-10-01 |
+| `natuurschoonwet-1928` | Natuurschoonwet 1928 | 13 | 2001-01-01 to 2021-01-01 |
+| `wet-op-de-raad-van-state` | Wet op de Raad van State | 33 | 2002-04-01 to 2022-05-01 |
+| `wet-op-belastingen-van-rechtsverkeer` | Wet op belastingen van rechtsverkeer | 39 | 2002-04-01 to 2026-01-01 |
+| `wet-giraal-effectenverkeer` | Wet giraal effectenverkeer | 16 | 2000-11-22 to 2023-01-01 |
+| `sanctiewet-1977` | Sanctiewet 1977 | 21 | 2001-04-01 to 2025-03-01 |
+| `scheepvaartverkeerswet` | Scheepvaartverkeerswet | 27 | 2001-09-01 to 2026-06-04 |
+| `wet-vervoer-gevaarlijke-stoffen` | Wet vervoer gevaarlijke stoffen | 14 | 2002-03-01 to 2025-01-01 |
+| `coordinatiewet-uitzonderingstoestanden` | Coördinatiewet uitzonderingstoestanden | 2 | 2001-04-01 to 2010-10-10 |
+| `financiele-verhoudingswet` | Financiële-verhoudingswet | 9 | 1999-02-17 to 2024-01-01 |
+| `wet-rechtspositie-rechterlijke-ambtenaren` | Wet rechtspositie rechterlijke ambtenaren | 37 | 2002-01-01 to 2026-01-01 |
+| `beginselenwet-verpleging-ter-beschikking-gestelden` | Beginselenwet verpleging ter beschikking gestelden | 19 | 2002-01-01 to 2025-07-01 |
+| `bankwet-1998` | Bankwet 1998 | 20 | 2002-01-28 to 2026-09-22 |
+| `wet-studiefinanciering-2000` | Wet studiefinanciering 2000 | 98 | 2002-02-08 to 2026-08-01 |
+| `zaaizaad-en-plantgoedwet-2005` | Zaaizaad- en plantgoedwet 2005 | 18 | 2006-02-01 to 2025-01-01 |
+| `wet-op-de-zorgtoeslag` | Wet op de zorgtoeslag | 28 | 2006-01-01 to 2026-01-01 |
+| `wet-op-de-bijzondere-opsporingsdiensten` | Wet op de bijzondere opsporingsdiensten | 7 | 2007-06-01 to 2025-07-01 |
+| `wet-gewasbeschermingsmiddelen-en-biociden` | Wet gewasbeschermingsmiddelen en biociden | 20 | 2007-10-17 to 2026-01-01 |
+| `wet-griffierechten-burgerlijke-zaken` | Wet griffierechten burgerlijke zaken | 24 | 2010-11-01 to 2026-01-01 |
+| `wet-gemeentelijke-schuldhulpverlening` | Wet gemeentelijke schuldhulpverlening | 9 | 2012-07-01 to 2026-07-01 |
+| `aanbestedingswet-2012` | Aanbestedingswet 2012 | 15 | 2013-04-01 to 2026-04-30 |
+| `wet-op-het-accountantsberoep` | Wet op het accountantsberoep | 10 | 2011-01-01 to 2026-09-01 |
+| `instellingswet-autoriteit-consument-en-markt` | Instellingswet Autoriteit Consument en Markt | 15 | 2013-04-01 to 2025-09-01 |
+| `warmtewet` | Warmtewet | 19 | 2014-01-01 to 2026-01-01 |
+| `warenwet` | Warenwet | 34 | 2002-01-01 to 2025-07-12 |
+| `wet-buitengewoon-pensioen-1940-1945` | Wet buitengewoon pensioen 1940-1945 | 32 | 2002-01-01 to 2025-01-01 |
+| `wet-buitengewoon-pensioen-zeelieden-oorlogsslachtoffers` | Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers | 31 | 2002-01-01 to 2025-01-01 |
+| `wet-op-de-rechterlijke-indeling` | Wet op de rechterlijke indeling | 29 | 2002-01-01 to 2023-01-01 |
+| `landbouwwet` | Landbouwwet | 12 | 2000-03-08 to 2019-01-01 |
+| `prijzenwet` | Prijzenwet | 9 | 1998-01-01 to 2022-05-28 |
+| `wet-tarieven-in-strafzaken` | Wet tarieven in strafzaken | 11 | 2002-01-01 to 2025-07-01 |
+| `belastingregeling-voor-het-koninkrijk` | Belastingregeling voor het Koninkrijk | 3 | 2002-01-01 to 2010-10-10 |
+| `wet-op-de-dividendbelasting-1965` | Wet op de dividendbelasting 1965 | 30 | 2002-01-01 to 2025-01-01 |
+| `uitleveringswet` | Uitleveringswet | 37 | 2002-01-01 to 2025-07-01 |
+| `kostenwet-invordering-rijksbelastingen` | Kostenwet invordering rijksbelastingen | 26 | 2002-01-01 to 2026-01-01 |
+| `landbouwkwaliteitswet` | Landbouwkwaliteitswet | 16 | 2002-01-01 to 2021-03-01 |
+| `wet-uitkeringen-vervolgingsslachtoffers-1940-1945` | Wet uitkeringen vervolgingsslachtoffers 1940-1945 | 69 | 2002-03-01 to 2026-07-01 |
+| `wet-afbreking-zwangerschap` | Wet afbreking zwangerschap | 10 | 2002-01-01 to 2025-01-01 |
+| `leegstandwet` | Leegstandwet | 15 | 1994-01-01 to 2024-07-01 |
+| `wet-uitkeringen-burger-oorlogsslachtoffers-1940-1945` | Wet uitkeringen burger-oorlogsslachtoffers 1940-1945 | 56 | 2002-03-01 to 2026-07-01 |
+| `wet-buitengewoon-pensioen-indisch-verzet` | Wet buitengewoon pensioen Indisch verzet | 52 | 2002-03-01 to 2026-07-01 |
+| `wet-overdracht-tenuitvoerlegging-strafvonnissen` | Wet overdracht tenuitvoerlegging strafvonnissen | 18 | 2002-01-01 to 2025-07-01 |
+| `meststoffenwet` | Meststoffenwet | 34 | 2002-01-01 to 2025-12-09 |
+| `wet-opneming-buitenlandse-kinderen-ter-adoptie` | Wet opneming buitenlandse kinderen ter adoptie | 9 | 2001-04-01 to 2018-08-01 |
+| `waterschapswet` | Waterschapswet | 68 | 2002-01-16 to 2026-01-01 |
+| `wet-op-de-accijns` | Wet op de accijns | 71 | 2002-04-01 to 2026-06-20 |
+| `wet-financiele-betrekkingen-buitenland-1994` | Wet financiële betrekkingen buitenland 1994 | 8 | 2002-01-01 to 2013-01-01 |
+| `wet-explosieven-voor-civiel-gebruik` | Wet explosieven voor civiel gebruik | 17 | 1998-01-01 to 2023-04-19 |
+| `wet-vermindering-afdracht-loonbelasting-en-premie-voor-de-volksverzekeringen` | Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen | 38 | 2002-02-01 to 2026-01-01 |
+| `wet-privatisering-abp` | Wet privatisering ABP | 19 | 2002-01-01 to 2026-06-04 |
+| `kaderwet-szw-subsidies` | Kaderwet SZW-subsidies | 10 | 2001-01-01 to 2016-01-01 |
+| `wet-bescherming-antarctica` | Wet bescherming Antarctica | 12 | 2001-04-01 to 2024-01-01 |
+| `wet-overige-ocw-subsidies` | Wet overige OCW-subsidies | 12 | 2001-05-11 to 2019-01-01 |
+| `wet-tegemoetkoming-onderwijsbijdrage-en-schoolkosten` | Wet tegemoetkoming onderwijsbijdrage en schoolkosten | 67 | 2002-02-17 to 2026-01-01 |
+| `wet-op-het-btw-compensatiefonds` | Wet op het BTW-compensatiefonds | 8 | 2003-01-01 to 2023-01-01 |
+| `uitvoeringswet-huurprijzen-woonruimte` | Uitvoeringswet huurprijzen woonruimte | 45 | 2002-07-01 to 2026-06-04 |
+| `spoorwegwet` | Spoorwegwet | 44 | 2004-12-31 to 2026-06-04 |
+| `rijkswet-onderzoeksraad-voor-veiligheid` | Rijkswet Onderzoeksraad voor veiligheid | 9 | 2005-02-01 to 2022-05-01 |
+| `wet-toelating-zorginstellingen` | Wet toelating zorginstellingen | 19 | 2006-01-01 to 2022-01-01 |
+| `wet-toezicht-financiele-verslaggeving` | Wet toezicht financiële verslaggeving | 17 | 2006-12-31 to 2025-03-01 |
+| `wet-handhaving-consumentenbescherming` | Wet handhaving consumentenbescherming | 44 | 2006-12-29 to 2026-06-25 |
+| `wet-op-het-kindgebonden-budget` | Wet op het kindgebonden budget | 32 | 2007-11-03 to 2026-07-01 |
+| `wet-tijdelijk-huisverbod` | Wet tijdelijk huisverbod | 8 | 2009-01-01 to 2020-07-01 |
+| `wet-wegvervoer-goederen` | Wet wegvervoer goederen | 10 | 2009-05-01 to 2024-01-01 |
+| `wet-uitvoering-eu-handelingen-energie-efficientie` | Wet uitvoering EU-handelingen energie-efficiëntie | 19 | 2011-03-05 to 2026-01-01 |
+| `wet-college-voor-de-rechten-van-de-mens` | Wet College voor de rechten van de mens | 7 | 2011-12-17 to 2026-01-01 |
+| `wet-lokaal-spoor` | Wet lokaal spoor | 8 | 2013-12-14 to 2024-01-01 |
+| `wet-bescherming-staatsgeheimen` | Wet bescherming staatsgeheimen | 3 | 1999-06-01 to 2013-01-01 |
+| `gezondheidswet` | Gezondheidswet | 21 | 1998-01-01 to 2025-07-05 |
+| `luchtvaartwet` | Luchtvaartwet | 41 | 2002-01-01 to 2026-07-01 |
+| `wet-op-de-kansspelbelasting` | Wet op de kansspelbelasting | 13 | 2002-01-01 to 2026-01-01 |
+| `wet-gewetensbezwaren-militaire-dienst` | Wet gewetensbezwaren militaire dienst | 8 | 2002-01-01 to 2020-01-01 |
+| `hamsterwet` | Hamsterwet | 8 | 1997-05-01 to 2020-07-17 |
+| `noodwet-voedselvoorziening` | Noodwet voedselvoorziening | 7 | 2000-03-08 to 2015-01-01 |
+| `alcoholwet` | Alcoholwet | 22 | 2000-11-01 to 2025-02-12 |
+| `wet-op-de-kansspelen` | Wet op de kansspelen | 24 | 2002-01-01 to 2025-02-12 |
+| `registratiewet-1970` | Registratiewet 1970 | 10 | 1999-09-01 to 2023-01-01 |
+| `wet-melding-collectief-ontslag` | Wet melding collectief ontslag | 6 | 2002-01-01 to 2018-01-01 |
+| `wedervergeldingswet-zeescheepvaart` | Wedervergeldingswet zeescheepvaart | 4 | 1999-02-17 to 2025-07-01 |
+| `wet-uitvoering-internationaal-energieprogramma` | Wet uitvoering Internationaal Energieprogramma | 8 | 1998-01-01 to 2021-07-01 |
+| `wet-schadefonds-olietankschepen` | Wet schadefonds olietankschepen | 8 | 1997-11-15 to 2019-01-01 |
+| `wet-vervoer-over-zee` | Wet vervoer over zee | 6 | 1998-01-01 to 2016-05-01 |
+| `wet-voorkoming-verontreiniging-door-schepen` | Wet voorkoming verontreiniging door schepen | 18 | 2000-10-18 to 2025-09-17 |
+| `prijzennoodwet` | Prijzennoodwet | 8 | 1997-05-01 to 2019-01-01 |
+| `wet-bescherming-oorspronkelijke-topografieen-van-halfgeleiderprodukten` | Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukten | 7 | 2002-01-01 to 2020-02-01 |
+| `tabaks-en-rookwarenwet` | Tabaks- en rookwarenwet | 35 | 2000-06-21 to 2026-07-01 |
+| `wet-schadeloosstelling-leden-tweede-kamer` | Wet schadeloosstelling leden Tweede Kamer | 44 | 2002-01-01 to 2026-07-07 |
+| `wet-op-de-lijkbezorging` | Wet op de lijkbezorging | 22 | 2002-04-01 to 2026-07-01 |
+| `wet-op-de-verbruiksbelasting-van-alcoholvrije-dranken` | Wet op de verbruiksbelasting van alcoholvrije dranken | 15 | 2002-04-01 to 2025-01-01 |
+| `wet-op-de-naburige-rechten` | Wet op de naburige rechten | 21 | 2002-01-01 to 2026-01-01 |
+| `wet-op-de-motorrijtuigenbelasting-1994` | Wet op de motorrijtuigenbelasting 1994 | 46 | 2002-01-01 to 2026-07-01 |
+| `wet-verevening-pensioenrechten-bij-scheiding` | Wet verevening pensioenrechten bij scheiding | 11 | 2002-02-15 to 2021-07-10 |
+| `wet-toezicht-effectenverkeer-1995` | Wet toezicht effectenverkeer 1995 | 23 | 2002-01-01 to 2022-10-01 |
+| `winkeltijdenwet` | Winkeltijdenwet | 5 | 1998-01-01 to 2022-01-01 |
+| `kaderwet-adviescolleges` | Kaderwet adviescolleges | 6 | 1997-01-01 to 2022-07-01 |
+| `wet-op-de-europese-ondernemingsraden` | Wet op de Europese ondernemingsraden | 8 | 2002-01-01 to 2017-12-16 |
+| `wet-particuliere-beveiligingsorganisaties-en-recherchebureaus` | Wet particuliere beveiligingsorganisaties en recherchebureaus | 11 | 2002-01-01 to 2025-07-01 |
+| `wet-op-bijzondere-medische-verrichtingen` | Wet op bijzondere medische verrichtingen | 8 | 2001-01-01 to 2025-07-05 |
+| `wet-op-de-formeel-buitenlandse-vennootschappen` | Wet op de formeel buitenlandse vennootschappen | 9 | 1999-02-17 to 2020-02-01 |
+| `wet-overheidspersoneel-onder-de-werknemersverzekeringen` | Wet overheidspersoneel onder de werknemersverzekeringen | 13 | 2002-02-15 to 2018-01-01 |
+| `invoeringswet-wet-inkomstenbelasting-2001` | Invoeringswet Wet inkomstenbelasting 2001 | 23 | 2002-01-01 to 2026-01-01 |
+| `overgangswet-elektriciteitsproductiesector` | Overgangswet elektriciteitsproductiesector | 5 | 2002-01-01 to 2013-01-01 |
+| `wet-toetsing-levensbeeindiging-op-verzoek-en-hulp-bij-zelfdoding` | Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding | 7 | 2002-04-01 to 2021-10-01 |
+| `wet-capaciteitsbeheersing-binnenvaartvloot` | Wet capaciteitsbeheersing binnenvaartvloot | 7 | 2001-11-23 to 2015-01-01 |
+| `wet-toezicht-en-geschillenbeslechting-collectieve-beheersorganisaties-auteurs-en-naburige-rechten` | Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten | 17 | 2003-07-15 to 2025-07-01 |
+| `wet-controle-op-rechtspersonen` | Wet controle op rechtspersonen | 10 | 2005-01-01 to 2018-09-19 |
+| `wet-op-het-centraal-bureau-voor-de-statistiek` | Wet op het Centraal bureau voor de statistiek | 18 | 2004-01-03 to 2025-09-01 |
+| `overleveringswet` | Overleveringswet | 24 | 2004-05-12 to 2025-07-01 |
+| `wet-rol-werknemers-bij-europese-rechtspersonen` | Wet rol werknemers bij Europese rechtspersonen | 5 | 2005-04-01 to 2022-01-01 |
+| `wet-invoering-en-financiering-wet-werk-en-inkomen-naar-arbeidsvermogen` | Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen | 13 | 2004-10-01 to 2015-01-01 |
+| `metrologiewet` | Metrologiewet | 13 | 2006-11-29 to 2023-04-19 |
+| `invoerings-en-aanpassingswet-pensioenwet` | Invoerings- en aanpassingswet Pensioenwet | 8 | 2007-01-01 to 2019-01-01 |
+| `binnenvaartwet` | Binnenvaartwet | 13 | 2009-07-01 to 2025-06-01 |
+| `algemene-wet-erkenning-eu-beroepskwalificaties` | Algemene wet erkenning EU-beroepskwalificaties | 10 | 2007-01-01 to 2021-08-26 |
+| `wet-basisregistratie-adressen-en-gebouwen` | Wet basisregistratie adressen en gebouwen | 8 | 2009-07-01 to 2025-02-12 |
+| `wet-op-de-parlementaire-enquete-2008` | Wet op de parlementaire enquête 2008 | 15 | 2008-05-09 to 2025-02-12 |
+| `wet-aanvullende-bepalingen-verwerking-persoonsgegevens-in-de-zorg` | Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg | 18 | 2008-06-01 to 2025-07-05 |
+| `wet-strategische-diensten` | Wet strategische diensten | 11 | 2012-01-01 to 2024-12-19 |
+| `wet-naleving-europese-regelgeving-publieke-entiteiten` | Wet Naleving Europese regelgeving publieke entiteiten | 5 | 2012-06-13 to 2016-07-01 |
+| `wet-wederzijdse-erkenning-en-tenuitvoerlegging-vrijheidsbenemende-en-voorwaardelijke-sancties` | Wet wederzijdse erkenning en tenuitvoerlegging vrijheidsbenemende en voorwaardelijke sancties | 7 | 2012-11-01 to 2024-10-01 |
+| `wet-verbod-pelsdierhouderij` | Wet verbod pelsdierhouderij | 6 | 2013-01-15 to 2024-01-01 |
+| `wet-voorraadvorming-aardolieproducten-2012` | Wet voorraadvorming aardolieproducten 2012 | 4 | 2013-04-01 to 2021-07-23 |
+| `aanbestedingswet-op-defensie-en-veiligheidsgebied` | Aanbestedingswet op defensie- en veiligheidsgebied | 8 | 2013-02-16 to 2019-04-18 |
+| `wet-basisregistratie-grootschalige-topografie` | Wet basisregistratie grootschalige topografie | 6 | 2016-01-01 to 2025-02-12 |
+| `huisvestingswet-2014` | Huisvestingswet 2014 | 19 | 2015-01-01 to 2026-11-01 |
+| `wet-algemene-bepalingen` | Wet algemene bepalingen | 3 | 1992-01-01 to 2012-01-01 |
+| `wet-ministeriele-verantwoordelijkheid-en-ambtsdelicten-leden-staten-generaal-ministers-en-staatssecretarissen` | Wet ministeriële verantwoordelijkheid en ambtsdelicten leden Staten-Generaal, ministers en staatssecretarissen | 3 | 1998-01-01 to 2018-09-19 |
+| `schepenwet` | Schepenwet | 8 | 2002-01-01 to 2026-07-01 |
+| `handelsnaamwet` | Handelsnaamwet | 5 | 2002-01-01 to 2017-09-01 |
+| `wet-op-de-collectieve-arbeidsovereenkomst` | Wet op de collectieve arbeidsovereenkomst | 4 | 1997-05-14 to 2007-01-01 |
+| `wegenwet` | Wegenwet | 12 | 1999-02-17 to 2024-01-01 |
+| `wet-op-het-algemeen-verbindend-en-het-onverbindend-verklaren-van-bepalingen-van-collectieve-arbeidsovereenkomsten` | Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten | 18 | 1999-12-24 to 2026-07-01 |
+| `wet-medewerking-verdedigingsvoorbereiding` | Wet medewerking verdedigingsvoorbereiding | 7 | 1998-01-01 to 2021-07-01 |
+| `bodemproductiewet-1939` | Bodemproductiewet 1939 | 4 | 1998-01-01 to 2019-01-01 |
+| `distributiewet` | Distributiewet | 8 | 1999-02-17 to 2020-07-17 |
+| `wet-op-de-sociaal-economische-raad` | Wet op de Sociaal-Economische Raad | 18 | 1999-07-01 to 2023-01-01 |
+| `garantiewet-burgerlijk-overheidspersoneel-indonesie` | Garantiewet Burgerlijk Overheidspersoneel Indonesië | 4 | 2002-01-01 to 2013-01-01 |
+| `garantiewet-militairen-k-n-i-l` | Garantiewet Militairen K.N.I.L. | 2 | 2002-01-01 to 2011-02-23 |
+| `wet-onderstandsregeling-ingevolge-artikel-2-van-de-garantiewet-burgerlijk-overheidspersoneel-indonesie` | Wet onderstandsregeling ingevolge artikel 2 van de Garantiewet Burgerlijk Overheidspersoneel Indonesië | 1 | 1998-04-01 to 1998-04-01 |
+| `wet-pensioenvoorzieningen-k-n-i-l` | Wet pensioenvoorzieningen K.N.I.L. | 1 | 1952-07-14 to 1952-07-14 |
+| `wet-bescherming-bevolking` | Wet bescherming bevolking | 1 | 1986-07-01 to 1986-07-01 |
+| `statuut-voor-het-koninkrijk-der-nederlanden` | Statuut voor het Koninkrijk der Nederlanden | 5 | 1998-10-09 to 2024-01-01 |
+| `toeslagwet-indonesische-pensioenen-1956` | Toeslagwet Indonesische pensioenen 1956 | 4 | 2002-01-01 to 2015-01-01 |
+| `instellingswet-bijstandkorps-burgerlijke-rijksambtenaren-bestemd-voor-dienst-in-nederlands-nieuw-guinea` | Instellingswet Bijstandkorps burgerlijke rijksambtenaren bestemd voor dienst in Nederlands-Nieuw-Guinea | 1 | 2002-01-01 to 2002-01-01 |
+| `uitvoeringswet-nederlands-duits-grensverdrag` | Uitvoeringswet Nederlands-Duits Grensverdrag | 3 | 1994-01-01 to 2026-06-04 |
+| `samenloopregeling-indonesische-pensioenen-1960` | Samenloopregeling Indonesische pensioenen 1960 | 6 | 2002-01-01 to 2015-01-01 |
+| `visserijwet-1963` | Visserijwet 1963 | 15 | 2002-02-01 to 2024-04-01 |
+| `wet-tot-uitvoering-van-de-verordening-no-11-van-de-raad-van-de-europese-economische-gemeenschap` | Wet tot uitvoering van de Verordening No. 11 van de Raad van de Europese Economische Gemeenschap | 2 | 1998-01-01 to 2013-01-01 |
+| `verhaalswet-ongevallen-ambtenaren` | Verhaalswet ongevallen ambtenaren | 3 | 1965-09-15 to 2020-01-01 |
+| `uitkeringswet-gewezen-militairen` | Uitkeringswet gewezen militairen | 5 | 2002-02-15 to 2020-01-01 |
+| `liquidatiewet-ongevallenwetten` | Liquidatiewet ongevallenwetten | 5 | 1999-07-01 to 2015-01-01 |
+| `overgangswet-nieuw-burgerlijk-wetboek` | Overgangswet nieuw Burgerlijk Wetboek | 49 | 2002-01-01 to 2026-06-04 |
+| `leerplichtwet-1969` | Leerplichtwet 1969 | 38 | 2002-02-08 to 2026-08-01 |
+| `algemene-pensioen-en-uitkeringswet-politieke-ambtsdragers` | Algemene pensioen- en uitkeringswet politieke ambtsdragers | 44 | 2002-01-01 to 2026-04-24 |
+| `wet-op-de-loonvorming` | Wet op de loonvorming | 7 | 1999-02-17 to 2026-01-01 |
+| `experimentenwet-onderwijs` | Experimentenwet onderwijs | 15 | 2000-09-01 to 2022-08-01 |
+| `noodwet-geneeskundigen` | Noodwet Geneeskundigen | 4 | 2001-09-01 to 2021-07-01 |
+| `noodwet-arbeidsvoorziening` | Noodwet Arbeidsvoorziening | 6 | 2002-01-01 to 2014-01-06 |
+| `wet-ambtelijk-toezicht-bij-openbare-verkopingen` | Wet ambtelijk toezicht bij openbare verkopingen | 1 | 2002-01-01 to 2002-01-01 |
+| `wet-aansprakelijkheid-olietankschepen` | Wet aansprakelijkheid olietankschepen | 12 | 1999-02-17 to 2025-07-01 |
+| `wet-op-het-centraal-testamentenregister` | Wet op het centraal testamentenregister | 5 | 1999-10-01 to 2014-07-01 |
+| `noodwet-financieel-verkeer` | Noodwet financieel verkeer | 5 | 1998-06-01 to 2007-11-01 |
+| `wet-grensoverschrijdend-vervoer-van-aan-bederf-onderhevige-levensmiddelen` | Wet grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen | 1 | 1998-01-01 to 1998-01-01 |
+| `wet-gelijke-behandeling-van-mannen-en-vrouwen` | Wet gelijke behandeling van mannen en vrouwen | 11 | 2001-01-01 to 2026-01-01 |
+| `wet-op-de-consignatie-van-gelden` | Wet op de consignatie van gelden | 1 | 2002-01-01 to 2002-01-01 |
+| `uitvoeringswet-verdrag-biologische-wapens` | Uitvoeringswet verdrag biologische wapens | 5 | 1998-01-01 to 2025-07-05 |
+| `wet-agrarisch-grondverkeer` | Wet agrarisch grondverkeer | 20 | 2002-04-01 to 2026-06-04 |
+| `wet-algemene-regels-herindeling` | Wet algemene regels herindeling | 23 | 2002-01-01 to 2024-01-01 |
+| `wet-inzake-spaarbewijzen` | Wet inzake spaarbewijzen | 2 | 1996-06-01 to 2005-01-01 |
 
-The build made 4364 commits:
+The build made 6762 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 102 | first version of an act |
-| 4020 | one law on its in-force day |
-| 242 | changes no amendment note explains, credited to the publisher |
+| 292 | first version of an act |
+| 6114 | one law on its in-force day |
+| 356 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `toekomst`: laws not yet in force on 2026-11-02.
-- 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 2451 laws in the record.
-- 7893 tags.
+- 2 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 3108 laws in the record.
+- 12083 tags.
 
 ## Dates
 
@@ -186,13 +384,13 @@ When a law gives no date of its own, the default rule applies: Bekendmakingswet 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `ccf1dc67ddd25279bd1fd5a871d4a07c1e58a510adc8fe936608da1dca975d8b` (119396637 bytes).
+- Corpus: sha256 `51c137c6a35f76433968f482a046ef264cf8bc8398bb2683402bb35e26b30ced` (160018428 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-5442 versions of 102 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+8976 versions of 292 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 No second build of this corpus has been compared yet.
 
@@ -339,6 +537,99 @@ No second build of this corpus has been compared yet.
 - wet-sociale-werkvoorziening: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
 - rijkswet-instelling-exclusieve-economische-zone: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
 - wet-personenvervoer-2000: 2 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- Gerechtsdeurwaarderswet (BWBR0012197), Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (BWBR0013798), Mijnbouwwet (BWBR0014168), Wet toezicht accountantsorganisaties (BWBR0019468), Wet ter voorkoming van witwassen en financieren van terrorisme (BWBR0024282), Drinkwaterwet (BWBR0026338), Wet dieren (BWBR0030250), Wet ambtenaren defensie (BWBR0001952), Wet aansprakelijkheidsverzekering motorrijtuigen (BWBR0002415), Bekendmakingswet (BWBR0004287), Wet administratiefrechtelijke handhaving verkeersvoorschriften (BWBR0004581), Wet op de belasting van personenauto's en motorrijwielen 1992 (BWBR0005806), Wet op de beroepen in de individuele gezondheidszorg (BWBR0006251), Wet Centraal Orgaan opvang asielzoekers (BWBR0006685), Wet waardering onroerende zaken (BWBR0007119), Wet belastingen op milieugrondslag (BWBR0007168), Arbeidstijdenwet (BWBR0007671), Wet op de huurtoeslag (BWBR0008659), Wet allocatie arbeidskrachten door intermediairs (BWBR0009616), Telecommunicatiewet (BWBR0009950), Postwet 2009 (BWBR0025572), Wet basisregistratie personen (BWBR0033715), Natuurschoonwet 1928 (BWBR0001939), Wet op de Raad van State (BWBR0002367), Wet op belastingen van rechtsverkeer (BWBR0002740), Wet giraal effectenverkeer (BWBR0003109), Sanctiewet 1977 (BWBR0003296), Scheepvaartverkeerswet (BWBR0004364), Wet vervoer gevaarlijke stoffen (BWBR0007606), Coördinatiewet uitzonderingstoestanden (BWBR0007981), Financiële-verhoudingswet (BWBR0008290), Wet rechtspositie rechterlijke ambtenaren (BWBR0008365), Beginselenwet verpleging ter beschikking gestelden (BWBR0008765), Bankwet 1998 (BWBR0009508), Wet studiefinanciering 2000 (BWBR0011453), Zaaizaad- en plantgoedwet 2005 (BWBR0018040), Wet op de zorgtoeslag (BWBR0018451), Wet op de bijzondere opsporingsdiensten (BWBR0019919), Wet gewasbeschermingsmiddelen en biociden (BWBR0021670), Wet griffierechten burgerlijke zaken (BWBR0028899), Wet gemeentelijke schuldhulpverlening (BWBR0031331), Aanbestedingswet 2012 (BWBR0032203), Wet op het accountantsberoep (BWBR0032573), Instellingswet Autoriteit Consument en Markt (BWBR0033043), Warmtewet (BWBR0033729), Warenwet (BWBR0001969), Wet buitengewoon pensioen 1940-1945 (BWBR0002032), Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers (BWBR0002035): built by the same method as the rest of the corpus (every BWB toestand still visible, dated by datum_inwerkingtreding, articles credited to their bron when their inwerking is the day of the version).
+- History starts at the oldest version the BWB holds: Gerechtsdeurwaarderswet 2002-01-01, Wet bevordering integriteitsbeoordelingen door het openbaar bestuur 2002-09-01, Mijnbouwwet 2003-01-01, Wet toezicht accountantsorganisaties 2006-10-01, Wet ter voorkoming van witwassen en financieren van terrorisme 2008-08-01, Drinkwaterwet 2011-07-01, Wet dieren 2013-01-01, Wet ambtenaren defensie 2002-01-01, Wet aansprakelijkheidsverzekering motorrijtuigen 2002-01-01, Bekendmakingswet 1995-05-17, Wet administratiefrechtelijke handhaving verkeersvoorschriften 2002-03-12, Wet op de belasting van personenauto's en motorrijwielen 1992 2002-01-01, Wet op de beroepen in de individuele gezondheidszorg 2002-01-01, Wet Centraal Orgaan opvang asielzoekers 2001-04-01, Wet waardering onroerende zaken 2002-01-01, Wet belastingen op milieugrondslag 2002-01-01, Arbeidstijdenwet 1999-11-01, Wet op de huurtoeslag 2002-01-01, Wet allocatie arbeidskrachten door intermediairs 2002-01-01, Telecommunicatiewet 2002-01-01, Postwet 2009 2009-04-01, Wet basisregistratie personen 2014-01-06, Natuurschoonwet 1928 2001-01-01, Wet op de Raad van State 2002-04-01, Wet op belastingen van rechtsverkeer 2002-04-01, Wet giraal effectenverkeer 2000-11-22, Sanctiewet 1977 2001-04-01, Scheepvaartverkeerswet 2001-09-01, Wet vervoer gevaarlijke stoffen 2002-03-01, Coördinatiewet uitzonderingstoestanden 2001-04-01, Financiële-verhoudingswet 1999-02-17, Wet rechtspositie rechterlijke ambtenaren 2002-01-01, Beginselenwet verpleging ter beschikking gestelden 2002-01-01, Bankwet 1998 2002-01-28, Wet studiefinanciering 2000 2002-02-08, Zaaizaad- en plantgoedwet 2005 2006-02-01, Wet op de zorgtoeslag 2006-01-01, Wet op de bijzondere opsporingsdiensten 2007-06-01, Wet gewasbeschermingsmiddelen en biociden 2007-10-17, Wet griffierechten burgerlijke zaken 2010-11-01, Wet gemeentelijke schuldhulpverlening 2012-07-01, Aanbestedingswet 2012 2013-04-01, Wet op het accountantsberoep 2011-01-01, Instellingswet Autoriteit Consument en Markt 2013-04-01, Warmtewet 2014-01-01, Warenwet 2002-01-01, Wet buitengewoon pensioen 1940-1945 2002-01-01, Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers 2002-01-01; earlier history is not reconstructed.
+- Where the BWB names a Staatscourant publication as the source of a wording (bron="Stcrt.YYYY-N", for example a ministerial regulation adjusting amounts), it is labelled "Stcrt." and counted as a decree.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
+- wet-bevordering-integriteitsbeoordelingen-door-het-openbaar-bestuur: 3 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-toezicht-accountantsorganisaties: 7 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-ter-voorkoming-van-witwassen-en-financieren-van-terrorisme: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-ambtenaren-defensie: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-aansprakelijkheidsverzekering-motorrijtuigen: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-administratiefrechtelijke-handhaving-verkeersvoorschriften: 17 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-op-de-belasting-van-personenauto-s-en-motorrijwielen-1992: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-op-de-beroepen-in-de-individuele-gezondheidszorg: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-waardering-onroerende-zaken: 2 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-belastingen-op-milieugrondslag: 6 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-op-de-huurtoeslag: 4 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-allocatie-arbeidskrachten-door-intermediairs: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- telecommunicatiewet: 3 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- postwet-2009: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- natuurschoonwet-1928: 2 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-op-belastingen-van-rechtsverkeer: 4 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- scheepvaartverkeerswet: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- coordinatiewet-uitzonderingstoestanden: 10 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- financiele-verhoudingswet: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-rechtspositie-rechterlijke-ambtenaren: 9 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- bankwet-1998: 2 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-studiefinanciering-2000: 3 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-op-de-zorgtoeslag: 2 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-gewasbeschermingsmiddelen-en-biociden: 2 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-griffierechten-burgerlijke-zaken: 2 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-gemeentelijke-schuldhulpverlening: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- aanbestedingswet-2012: 2 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-op-het-accountantsberoep: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-buitengewoon-pensioen-1940-1945: 3 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-buitengewoon-pensioen-zeelieden-oorlogsslachtoffers: 3 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- Wet op de rechterlijke indeling (BWBR0002080), Landbouwwet (BWBR0002252), Prijzenwet (BWBR0002353), Wet tarieven in strafzaken (BWBR0002406), Belastingregeling voor het Koninkrijk (BWBR0002464), Wet op de dividendbelasting 1965 (BWBR0002515), Uitleveringswet (BWBR0002559), Kostenwet invordering rijksbelastingen (BWBR0002645), Landbouwkwaliteitswet (BWBR0002755), Wet uitkeringen vervolgingsslachtoffers 1940-1945 (BWBR0002844), Wet afbreking zwangerschap (BWBR0003396), Leegstandwet (BWBR0003403), Wet uitkeringen burger-oorlogsslachtoffers 1940-1945 (BWBR0003664), Wet buitengewoon pensioen Indisch verzet (BWBR0003968), Wet overdracht tenuitvoerlegging strafvonnissen (BWBR0004028), Meststoffenwet (BWBR0004054), Wet opneming buitenlandse kinderen ter adoptie (BWBR0004447), Waterschapswet (BWBR0005108), Wet op de accijns (BWBR0005251), Wet financiële betrekkingen buitenland 1994 (BWBR0006547), Wet explosieven voor civiel gebruik (BWBR0006803), Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen (BWBR0007746), Wet privatisering ABP (BWBR0007791), Kaderwet SZW-subsidies (BWBR0008754), Wet bescherming Antarctica (BWBR0009449), Wet overige OCW-subsidies (BWBR0009458), Wet tegemoetkoming onderwijsbijdrage en schoolkosten (BWBR0012438), Wet op het BTW-compensatiefonds (BWBR0013817), Uitvoeringswet huurprijzen woonruimte (BWBR0014315), Spoorwegwet (BWBR0015007), Rijkswet Onderzoeksraad voor veiligheid (BWBR0017613), Wet toelating zorginstellingen (BWBR0018906), Wet toezicht financiële verslaggeving (BWBR0020369), Wet handhaving consumentenbescherming (BWBR0020586), Wet op het kindgebonden budget (BWBR0022751), Wet tijdelijk huisverbod (BWBR0024649), Wet wegvervoer goederen (BWBR0024800), Wet uitvoering EU-handelingen energie-efficiëntie (BWBR0029672), Wet College voor de rechten van de mens (BWBR0030733), Wet lokaal spoor (BWBR0034363), Wet bescherming staatsgeheimen (BWBR0002074), Gezondheidswet (BWBR0002202), Luchtvaartwet (BWBR0002267), Wet op de kansspelbelasting (BWBR0002359), Wet gewetensbezwaren militaire dienst (BWBR0002386), Hamsterwet (BWBR0002389), Noodwet voedselvoorziening (BWBR0002392), Alcoholwet (BWBR0002458): built by the same method as the rest of the corpus (every BWB toestand still visible, dated by datum_inwerkingtreding, articles credited to their bron when their inwerking is the day of the version).
+- History starts at the oldest version the BWB holds: Wet op de rechterlijke indeling 2002-01-01, Landbouwwet 2000-03-08, Prijzenwet 1998-01-01, Wet tarieven in strafzaken 2002-01-01, Belastingregeling voor het Koninkrijk 2002-01-01, Wet op de dividendbelasting 1965 2002-01-01, Uitleveringswet 2002-01-01, Kostenwet invordering rijksbelastingen 2002-01-01, Landbouwkwaliteitswet 2002-01-01, Wet uitkeringen vervolgingsslachtoffers 1940-1945 2002-03-01, Wet afbreking zwangerschap 2002-01-01, Leegstandwet 1994-01-01, Wet uitkeringen burger-oorlogsslachtoffers 1940-1945 2002-03-01, Wet buitengewoon pensioen Indisch verzet 2002-03-01, Wet overdracht tenuitvoerlegging strafvonnissen 2002-01-01, Meststoffenwet 2002-01-01, Wet opneming buitenlandse kinderen ter adoptie 2001-04-01, Waterschapswet 2002-01-16, Wet op de accijns 2002-04-01, Wet financiële betrekkingen buitenland 1994 2002-01-01, Wet explosieven voor civiel gebruik 1998-01-01, Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen 2002-02-01, Wet privatisering ABP 2002-01-01, Kaderwet SZW-subsidies 2001-01-01, Wet bescherming Antarctica 2001-04-01, Wet overige OCW-subsidies 2001-05-11, Wet tegemoetkoming onderwijsbijdrage en schoolkosten 2002-02-17, Wet op het BTW-compensatiefonds 2003-01-01, Uitvoeringswet huurprijzen woonruimte 2002-07-01, Spoorwegwet 2004-12-31, Rijkswet Onderzoeksraad voor veiligheid 2005-02-01, Wet toelating zorginstellingen 2006-01-01, Wet toezicht financiële verslaggeving 2006-12-31, Wet handhaving consumentenbescherming 2006-12-29, Wet op het kindgebonden budget 2007-11-03, Wet tijdelijk huisverbod 2009-01-01, Wet wegvervoer goederen 2009-05-01, Wet uitvoering EU-handelingen energie-efficiëntie 2011-03-05, Wet College voor de rechten van de mens 2011-12-17, Wet lokaal spoor 2013-12-14, Wet bescherming staatsgeheimen 1999-06-01, Gezondheidswet 1998-01-01, Luchtvaartwet 2002-01-01, Wet op de kansspelbelasting 2002-01-01, Wet gewetensbezwaren militaire dienst 2002-01-01, Hamsterwet 1997-05-01, Noodwet voedselvoorziening 2000-03-08, Alcoholwet 2000-11-01; earlier history is not reconstructed.
+- Where the BWB names a Staatscourant publication as the source of a wording (bron="Stcrt.YYYY-N", for example a ministerial regulation adjusting amounts), it is labelled "Stcrt." and counted as a decree.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
+- wet-op-de-dividendbelasting-1965: 2 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-uitkeringen-vervolgingsslachtoffers-1940-1945: 8 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-afbreking-zwangerschap: 2 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-uitkeringen-burger-oorlogsslachtoffers-1940-1945: 7 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-buitengewoon-pensioen-indisch-verzet: 7 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- meststoffenwet: 3 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- waterschapswet: 2 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-op-de-accijns: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-financiele-betrekkingen-buitenland-1994: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-vermindering-afdracht-loonbelasting-en-premie-voor-de-volksverzekeringen: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-privatisering-abp: 6 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- kaderwet-szw-subsidies: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-tegemoetkoming-onderwijsbijdrage-en-schoolkosten: 4 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-op-het-btw-compensatiefonds: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- spoorwegwet: 2 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-toelating-zorginstellingen: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-toezicht-financiele-verslaggeving: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-handhaving-consumentenbescherming: 5 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-op-het-kindgebonden-budget: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-wegvervoer-goederen: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- alcoholwet: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- Wet op de kansspelen (BWBR0002469), Registratiewet 1970 (BWBR0002739), Wet melding collectief ontslag (BWBR0003026), Wedervergeldingswet zeescheepvaart (BWBR0003104), Wet uitvoering Internationaal Energieprogramma (BWBR0003235), Wet schadefonds olietankschepen (BWBR0003400), Wet vervoer over zee (BWBR0003528), Wet voorkoming verontreiniging door schepen (BWBR0003642), Prijzennoodwet (BWBR0003734), Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukten (BWBR0004224), Tabaks- en rookwarenwet (BWBR0004302), Wet schadeloosstelling leden Tweede Kamer (BWBR0004939), Wet op de lijkbezorging (BWBR0005009), Wet op de verbruiksbelasting van alcoholvrije dranken (BWBR0005802), Wet op de naburige rechten (BWBR0005921), Wet op de motorrijtuigenbelasting 1994 (BWBR0006324), Wet verevening pensioenrechten bij scheiding (BWBR0006641), Wet toezicht effectenverkeer 1995 (BWBR0007657), Winkeltijdenwet (BWBR0007952), Kaderwet adviescolleges (BWBR0008159), Wet op de Europese ondernemingsraden (BWBR0008508), Wet particuliere beveiligingsorganisaties en recherchebureaus (BWBR0008973), Wet op bijzondere medische verrichtingen (BWBR0008974), Wet op de formeel buitenlandse vennootschappen (BWBR0009191), Wet overheidspersoneel onder de werknemersverzekeringen (BWBR0009267), Invoeringswet Wet inkomstenbelasting 2001 (BWBR0011354), Overgangswet elektriciteitsproductiesector (BWBR0012088), Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding (BWBR0012410), Wet capaciteitsbeheersing binnenvaartvloot (BWBR0012950), Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten (BWBR0014779), Wet controle op rechtspersonen (BWBR0015049), Wet op het Centraal bureau voor de statistiek (BWBR0015926), Overleveringswet (BWBR0016664), Wet rol werknemers bij Europese rechtspersonen (BWBR0018115), Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen (BWBR0019058), Metrologiewet (BWBR0019517), Invoerings- en aanpassingswet Pensioenwet (BWBR0020828), Binnenvaartwet (BWBR0023009), Algemene wet erkenning EU-beroepskwalificaties (BWBR0023066), Wet basisregistratie adressen en gebouwen (BWBR0023466), Wet op de parlementaire enquête 2008 (BWBR0023825), Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg (BWBR0023864), Wet strategische diensten (BWBR0030545), Wet Naleving Europese regelgeving publieke entiteiten (BWBR0031640), Wet wederzijdse erkenning en tenuitvoerlegging vrijheidsbenemende en voorwaardelijke sancties (BWBR0031814), Wet verbod pelsdierhouderij (BWBR0032739), Wet voorraadvorming aardolieproducten 2012 (BWBR0032775): built by the same method as the rest of the corpus (every BWB toestand still visible, dated by datum_inwerkingtreding, articles credited to their bron when their inwerking is the day of the version).
+- History starts at the oldest version the BWB holds: Wet op de kansspelen 2002-01-01, Registratiewet 1970 1999-09-01, Wet melding collectief ontslag 2002-01-01, Wedervergeldingswet zeescheepvaart 1999-02-17, Wet uitvoering Internationaal Energieprogramma 1998-01-01, Wet schadefonds olietankschepen 1997-11-15, Wet vervoer over zee 1998-01-01, Wet voorkoming verontreiniging door schepen 2000-10-18, Prijzennoodwet 1997-05-01, Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukten 2002-01-01, Tabaks- en rookwarenwet 2000-06-21, Wet schadeloosstelling leden Tweede Kamer 2002-01-01, Wet op de lijkbezorging 2002-04-01, Wet op de verbruiksbelasting van alcoholvrije dranken 2002-04-01, Wet op de naburige rechten 2002-01-01, Wet op de motorrijtuigenbelasting 1994 2002-01-01, Wet verevening pensioenrechten bij scheiding 2002-02-15, Wet toezicht effectenverkeer 1995 2002-01-01, Winkeltijdenwet 1998-01-01, Kaderwet adviescolleges 1997-01-01, Wet op de Europese ondernemingsraden 2002-01-01, Wet particuliere beveiligingsorganisaties en recherchebureaus 2002-01-01, Wet op bijzondere medische verrichtingen 2001-01-01, Wet op de formeel buitenlandse vennootschappen 1999-02-17, Wet overheidspersoneel onder de werknemersverzekeringen 2002-02-15, Invoeringswet Wet inkomstenbelasting 2001 2002-01-01, Overgangswet elektriciteitsproductiesector 2002-01-01, Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding 2002-04-01, Wet capaciteitsbeheersing binnenvaartvloot 2001-11-23, Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten 2003-07-15, Wet controle op rechtspersonen 2005-01-01, Wet op het Centraal bureau voor de statistiek 2004-01-03, Overleveringswet 2004-05-12, Wet rol werknemers bij Europese rechtspersonen 2005-04-01, Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen 2004-10-01, Metrologiewet 2006-11-29, Invoerings- en aanpassingswet Pensioenwet 2007-01-01, Binnenvaartwet 2009-07-01, Algemene wet erkenning EU-beroepskwalificaties 2007-01-01, Wet basisregistratie adressen en gebouwen 2009-07-01, Wet op de parlementaire enquête 2008 2008-05-09, Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg 2008-06-01, Wet strategische diensten 2012-01-01, Wet Naleving Europese regelgeving publieke entiteiten 2012-06-13, Wet wederzijdse erkenning en tenuitvoerlegging vrijheidsbenemende en voorwaardelijke sancties 2012-11-01, Wet verbod pelsdierhouderij 2013-01-15, Wet voorraadvorming aardolieproducten 2012 2013-04-01; earlier history is not reconstructed.
+- Where the BWB names a Staatscourant publication as the source of a wording (bron="Stcrt.YYYY-N", for example a ministerial regulation adjusting amounts), it is labelled "Stcrt." and counted as a decree.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
+- wet-op-de-kansspelen: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-voorkoming-verontreiniging-door-schepen: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- tabaks-en-rookwarenwet: 9 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-schadeloosstelling-leden-tweede-kamer: 9 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-op-de-motorrijtuigenbelasting-1994: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-overheidspersoneel-onder-de-werknemersverzekeringen: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- invoeringswet-wet-inkomstenbelasting-2001: 2 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- overgangswet-elektriciteitsproductiesector: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-toezicht-en-geschillenbeslechting-collectieve-beheersorganisaties-auteurs-en-naburige-rechten: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-controle-op-rechtspersonen: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-op-het-centraal-bureau-voor-de-statistiek: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- invoerings-en-aanpassingswet-pensioenwet: 2 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- binnenvaartwet: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- algemene-wet-erkenning-eu-beroepskwalificaties: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-basisregistratie-adressen-en-gebouwen: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-op-de-parlementaire-enquete-2008: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-aanvullende-bepalingen-verwerking-persoonsgegevens-in-de-zorg: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-strategische-diensten: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-voorraadvorming-aardolieproducten-2012: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- Aanbestedingswet op defensie- en veiligheidsgebied (BWBR0032898), Wet basisregistratie grootschalige topografie (BWBR0034026), Huisvestingswet 2014 (BWBR0035303), Wet algemene bepalingen (BWBR0001833), Wet ministeriële verantwoordelijkheid en ambtsdelicten leden Staten-Generaal, ministers en staatssecretarissen (BWBR0001844), Schepenwet (BWBR0001876), Handelsnaamwet (BWBR0001906), Wet op de collectieve arbeidsovereenkomst (BWBR0001937), Wegenwet (BWBR0001948), Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten (BWBR0001987), Wet medewerking verdedigingsvoorbereiding (BWBR0001995), Bodemproductiewet 1939 (BWBR0001996), Distributiewet (BWBR0001997), Wet op de Sociaal-Economische Raad (BWBR0002058), Garantiewet Burgerlijk Overheidspersoneel Indonesië (BWBR0002060), Garantiewet Militairen K.N.I.L. (BWBR0002077), Wet onderstandsregeling ingevolge artikel 2 van de Garantiewet Burgerlijk Overheidspersoneel Indonesië (BWBR0002083), Wet pensioenvoorzieningen K.N.I.L. (BWBR0002090), Wet bescherming bevolking (BWBR0002096), Statuut voor het Koninkrijk der Nederlanden (BWBR0002154), Toeslagwet Indonesische pensioenen 1956 (BWBR0002251), Instellingswet Bijstandkorps burgerlijke rijksambtenaren bestemd voor dienst in Nederlands-Nieuw-Guinea (BWBR0002370), Uitvoeringswet Nederlands-Duits Grensverdrag (BWBR0002412), Samenloopregeling Indonesische pensioenen 1960 (BWBR0002414), Visserijwet 1963 (BWBR0002416), Wet tot uitvoering van de Verordening No. 11 van de Raad van de Europese Economische Gemeenschap (BWBR0002419), Verhaalswet ongevallen ambtenaren (BWBR0002500), Uitkeringswet gewezen militairen (BWBR0002540), Liquidatiewet ongevallenwetten (BWBR0002553), Overgangswet nieuw Burgerlijk Wetboek (BWBR0002565), Leerplichtwet 1969 (BWBR0002628), Algemene pensioen- en uitkeringswet politieke ambtsdragers (BWBR0002691), Wet op de loonvorming (BWBR0002698), Experimentenwet onderwijs (BWBR0002718), Noodwet Geneeskundigen (BWBR0002758), Noodwet Arbeidsvoorziening (BWBR0002759), Wet ambtelijk toezicht bij openbare verkopingen (BWBR0002798), Wet aansprakelijkheid olietankschepen (BWBR0002976), Wet op het centraal testamentenregister (BWBR0003080), Noodwet financieel verkeer (BWBR0003173), Wet grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen (BWBR0003186), Wet gelijke behandeling van mannen en vrouwen (BWBR0003299), Wet op de consignatie van gelden (BWBR0003338), Uitvoeringswet verdrag biologische wapens (BWBR0003385), Wet agrarisch grondverkeer (BWBR0003386), Wet algemene regels herindeling (BWBR0003718), Wet inzake spaarbewijzen (BWBR0003797): built by the same method as the rest of the corpus (every BWB toestand still visible, dated by datum_inwerkingtreding, articles credited to their bron when their inwerking is the day of the version).
+- History starts at the oldest version the BWB holds: Aanbestedingswet op defensie- en veiligheidsgebied 2013-02-16, Wet basisregistratie grootschalige topografie 2016-01-01, Huisvestingswet 2014 2015-01-01, Wet algemene bepalingen 1992-01-01, Wet ministeriële verantwoordelijkheid en ambtsdelicten leden Staten-Generaal, ministers en staatssecretarissen 1998-01-01, Schepenwet 2002-01-01, Handelsnaamwet 2002-01-01, Wet op de collectieve arbeidsovereenkomst 1997-05-14, Wegenwet 1999-02-17, Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten 1999-12-24, Wet medewerking verdedigingsvoorbereiding 1998-01-01, Bodemproductiewet 1939 1998-01-01, Distributiewet 1999-02-17, Wet op de Sociaal-Economische Raad 1999-07-01, Garantiewet Burgerlijk Overheidspersoneel Indonesië 2002-01-01, Garantiewet Militairen K.N.I.L. 2002-01-01, Wet onderstandsregeling ingevolge artikel 2 van de Garantiewet Burgerlijk Overheidspersoneel Indonesië 1998-04-01, Wet pensioenvoorzieningen K.N.I.L. 1952-07-14, Wet bescherming bevolking 1986-07-01, Statuut voor het Koninkrijk der Nederlanden 1998-10-09, Toeslagwet Indonesische pensioenen 1956 2002-01-01, Instellingswet Bijstandkorps burgerlijke rijksambtenaren bestemd voor dienst in Nederlands-Nieuw-Guinea 2002-01-01, Uitvoeringswet Nederlands-Duits Grensverdrag 1994-01-01, Samenloopregeling Indonesische pensioenen 1960 2002-01-01, Visserijwet 1963 2002-02-01, Wet tot uitvoering van de Verordening No. 11 van de Raad van de Europese Economische Gemeenschap 1998-01-01, Verhaalswet ongevallen ambtenaren 1965-09-15, Uitkeringswet gewezen militairen 2002-02-15, Liquidatiewet ongevallenwetten 1999-07-01, Overgangswet nieuw Burgerlijk Wetboek 2002-01-01, Leerplichtwet 1969 2002-02-08, Algemene pensioen- en uitkeringswet politieke ambtsdragers 2002-01-01, Wet op de loonvorming 1999-02-17, Experimentenwet onderwijs 2000-09-01, Noodwet Geneeskundigen 2001-09-01, Noodwet Arbeidsvoorziening 2002-01-01, Wet ambtelijk toezicht bij openbare verkopingen 2002-01-01, Wet aansprakelijkheid olietankschepen 1999-02-17, Wet op het centraal testamentenregister 1999-10-01, Noodwet financieel verkeer 1998-06-01, Wet grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen 1998-01-01, Wet gelijke behandeling van mannen en vrouwen 2001-01-01, Wet op de consignatie van gelden 2002-01-01, Uitvoeringswet verdrag biologische wapens 1998-01-01, Wet agrarisch grondverkeer 2002-04-01, Wet algemene regels herindeling 2002-01-01, Wet inzake spaarbewijzen 1996-06-01; earlier history is not reconstructed.
+- Where the BWB names a Staatscourant publication as the source of a wording (bron="Stcrt.YYYY-N", for example a ministerial regulation adjusting amounts), it is labelled "Stcrt." and counted as a decree.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
+- aanbestedingswet-op-defensie-en-veiligheidsgebied: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-op-de-sociaal-economische-raad: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- samenloopregeling-indonesische-pensioenen-1960: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- overgangswet-nieuw-burgerlijk-wetboek: 2 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- leerplichtwet-1969: 2 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- algemene-pensioen-en-uitkeringswet-politieke-ambtsdragers: 9 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-algemene-regels-herindeling: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
 
 ## What AI did and did not do
 
@@ -350,6 +641,10 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none: no model wrote, summarised or classified any text in this corpus. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).

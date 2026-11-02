@@ -110,6 +110,196 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | `wet-sociale-werkvoorziening/` | [Wet sociale werkvoorziening](https://wetten.overheid.nl/BWBR0008903) (Sheltered Employment Act) | BWBR0008903 | 16 | 2002-01-01 to 2015-07-01 |
 | `rijkswet-instelling-exclusieve-economische-zone/` | [Rijkswet instelling exclusieve economische zone](https://wetten.overheid.nl/BWBR0010480) (Kingdom Act establishing an Exclusive Economic Zone) | BWBR0010480 | 2 | 2000-04-28 to 2023-01-01 |
 | `wet-personenvervoer-2000/` | [Wet personenvervoer 2000](https://wetten.overheid.nl/BWBR0011470) (Passenger Transport Act 2000) | BWBR0011470 | 44 | 2002-01-01 to 2026-07-01 |
+| `wet-op-de-rechterlijke-indeling/` | [Wet op de rechterlijke indeling](https://wetten.overheid.nl/BWBR0002080) | BWBR0002080 | 29 | 2002-01-01 to 2023-01-01 |
+| `landbouwwet/` | [Landbouwwet](https://wetten.overheid.nl/BWBR0002252) | BWBR0002252 | 12 | 2000-03-08 to 2019-01-01 |
+| `prijzenwet/` | [Prijzenwet](https://wetten.overheid.nl/BWBR0002353) | BWBR0002353 | 9 | 1998-01-01 to 2022-05-28 |
+| `wet-tarieven-in-strafzaken/` | [Wet tarieven in strafzaken](https://wetten.overheid.nl/BWBR0002406) | BWBR0002406 | 11 | 2002-01-01 to 2025-07-01 |
+| `belastingregeling-voor-het-koninkrijk/` | [Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/BWBR0002464) | BWBR0002464 | 3 | 2002-01-01 to 2010-10-10 |
+| `wet-op-de-dividendbelasting-1965/` | [Wet op de dividendbelasting 1965](https://wetten.overheid.nl/BWBR0002515) | BWBR0002515 | 30 | 2002-01-01 to 2025-01-01 |
+| `uitleveringswet/` | [Uitleveringswet](https://wetten.overheid.nl/BWBR0002559) | BWBR0002559 | 37 | 2002-01-01 to 2025-07-01 |
+| `kostenwet-invordering-rijksbelastingen/` | [Kostenwet invordering rijksbelastingen](https://wetten.overheid.nl/BWBR0002645) | BWBR0002645 | 26 | 2002-01-01 to 2026-01-01 |
+| `landbouwkwaliteitswet/` | [Landbouwkwaliteitswet](https://wetten.overheid.nl/BWBR0002755) | BWBR0002755 | 16 | 2002-01-01 to 2021-03-01 |
+| `wet-uitkeringen-vervolgingsslachtoffers-1940-1945/` | [Wet uitkeringen vervolgingsslachtoffers 1940-1945](https://wetten.overheid.nl/BWBR0002844) | BWBR0002844 | 69 | 2002-03-01 to 2026-07-01 |
+| `wet-afbreking-zwangerschap/` | [Wet afbreking zwangerschap](https://wetten.overheid.nl/BWBR0003396) | BWBR0003396 | 10 | 2002-01-01 to 2025-01-01 |
+| `leegstandwet/` | [Leegstandwet](https://wetten.overheid.nl/BWBR0003403) | BWBR0003403 | 15 | 1994-01-01 to 2024-07-01 |
+| `wet-uitkeringen-burger-oorlogsslachtoffers-1940-1945/` | [Wet uitkeringen burger-oorlogsslachtoffers 1940-1945](https://wetten.overheid.nl/BWBR0003664) | BWBR0003664 | 56 | 2002-03-01 to 2026-07-01 |
+| `wet-buitengewoon-pensioen-indisch-verzet/` | [Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/BWBR0003968) | BWBR0003968 | 52 | 2002-03-01 to 2026-07-01 |
+| `wet-overdracht-tenuitvoerlegging-strafvonnissen/` | [Wet overdracht tenuitvoerlegging strafvonnissen](https://wetten.overheid.nl/BWBR0004028) | BWBR0004028 | 18 | 2002-01-01 to 2025-07-01 |
+| `meststoffenwet/` | [Meststoffenwet](https://wetten.overheid.nl/BWBR0004054) | BWBR0004054 | 34 | 2002-01-01 to 2025-12-09 |
+| `wet-opneming-buitenlandse-kinderen-ter-adoptie/` | [Wet opneming buitenlandse kinderen ter adoptie](https://wetten.overheid.nl/BWBR0004447) | BWBR0004447 | 9 | 2001-04-01 to 2018-08-01 |
+| `waterschapswet/` | [Waterschapswet](https://wetten.overheid.nl/BWBR0005108) | BWBR0005108 | 68 | 2002-01-16 to 2026-01-01 |
+| `wet-op-de-accijns/` | [Wet op de accijns](https://wetten.overheid.nl/BWBR0005251) | BWBR0005251 | 71 | 2002-04-01 to 2026-06-20 |
+| `wet-financiele-betrekkingen-buitenland-1994/` | [Wet financiële betrekkingen buitenland 1994](https://wetten.overheid.nl/BWBR0006547) | BWBR0006547 | 8 | 2002-01-01 to 2013-01-01 |
+| `wet-explosieven-voor-civiel-gebruik/` | [Wet explosieven voor civiel gebruik](https://wetten.overheid.nl/BWBR0006803) | BWBR0006803 | 17 | 1998-01-01 to 2023-04-19 |
+| `wet-vermindering-afdracht-loonbelasting-en-premie-voor-de-volksverzekeringen/` | [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/BWBR0007746) | BWBR0007746 | 38 | 2002-02-01 to 2026-01-01 |
+| `wet-privatisering-abp/` | [Wet privatisering ABP](https://wetten.overheid.nl/BWBR0007791) | BWBR0007791 | 19 | 2002-01-01 to 2026-06-04 |
+| `kaderwet-szw-subsidies/` | [Kaderwet SZW-subsidies](https://wetten.overheid.nl/BWBR0008754) | BWBR0008754 | 10 | 2001-01-01 to 2016-01-01 |
+| `wet-bescherming-antarctica/` | [Wet bescherming Antarctica](https://wetten.overheid.nl/BWBR0009449) | BWBR0009449 | 12 | 2001-04-01 to 2024-01-01 |
+| `wet-overige-ocw-subsidies/` | [Wet overige OCW-subsidies](https://wetten.overheid.nl/BWBR0009458) | BWBR0009458 | 12 | 2001-05-11 to 2019-01-01 |
+| `wet-tegemoetkoming-onderwijsbijdrage-en-schoolkosten/` | [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/BWBR0012438) | BWBR0012438 | 67 | 2002-02-17 to 2026-01-01 |
+| `wet-op-het-btw-compensatiefonds/` | [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/BWBR0013817) | BWBR0013817 | 8 | 2003-01-01 to 2023-01-01 |
+| `uitvoeringswet-huurprijzen-woonruimte/` | [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/BWBR0014315) | BWBR0014315 | 45 | 2002-07-01 to 2026-06-04 |
+| `spoorwegwet/` | [Spoorwegwet](https://wetten.overheid.nl/BWBR0015007) | BWBR0015007 | 44 | 2004-12-31 to 2026-06-04 |
+| `rijkswet-onderzoeksraad-voor-veiligheid/` | [Rijkswet Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/BWBR0017613) | BWBR0017613 | 9 | 2005-02-01 to 2022-05-01 |
+| `wet-toelating-zorginstellingen/` | [Wet toelating zorginstellingen](https://wetten.overheid.nl/BWBR0018906) | BWBR0018906 | 19 | 2006-01-01 to 2022-01-01 |
+| `wet-toezicht-financiele-verslaggeving/` | [Wet toezicht financiële verslaggeving](https://wetten.overheid.nl/BWBR0020369) | BWBR0020369 | 17 | 2006-12-31 to 2025-03-01 |
+| `wet-handhaving-consumentenbescherming/` | [Wet handhaving consumentenbescherming](https://wetten.overheid.nl/BWBR0020586) | BWBR0020586 | 44 | 2006-12-29 to 2026-06-25 |
+| `wet-op-het-kindgebonden-budget/` | [Wet op het kindgebonden budget](https://wetten.overheid.nl/BWBR0022751) | BWBR0022751 | 32 | 2007-11-03 to 2026-07-01 |
+| `wet-tijdelijk-huisverbod/` | [Wet tijdelijk huisverbod](https://wetten.overheid.nl/BWBR0024649) | BWBR0024649 | 8 | 2009-01-01 to 2020-07-01 |
+| `wet-wegvervoer-goederen/` | [Wet wegvervoer goederen](https://wetten.overheid.nl/BWBR0024800) | BWBR0024800 | 10 | 2009-05-01 to 2024-01-01 |
+| `wet-uitvoering-eu-handelingen-energie-efficientie/` | [Wet uitvoering EU-handelingen energie-efficiëntie](https://wetten.overheid.nl/BWBR0029672) | BWBR0029672 | 19 | 2011-03-05 to 2026-01-01 |
+| `wet-college-voor-de-rechten-van-de-mens/` | [Wet College voor de rechten van de mens](https://wetten.overheid.nl/BWBR0030733) | BWBR0030733 | 7 | 2011-12-17 to 2026-01-01 |
+| `wet-lokaal-spoor/` | [Wet lokaal spoor](https://wetten.overheid.nl/BWBR0034363) | BWBR0034363 | 8 | 2013-12-14 to 2024-01-01 |
+| `wet-bescherming-staatsgeheimen/` | [Wet bescherming staatsgeheimen](https://wetten.overheid.nl/BWBR0002074) | BWBR0002074 | 3 | 1999-06-01 to 2013-01-01 |
+| `gezondheidswet/` | [Gezondheidswet](https://wetten.overheid.nl/BWBR0002202) | BWBR0002202 | 21 | 1998-01-01 to 2025-07-05 |
+| `luchtvaartwet/` | [Luchtvaartwet](https://wetten.overheid.nl/BWBR0002267) | BWBR0002267 | 41 | 2002-01-01 to 2026-07-01 |
+| `wet-op-de-kansspelbelasting/` | [Wet op de kansspelbelasting](https://wetten.overheid.nl/BWBR0002359) | BWBR0002359 | 13 | 2002-01-01 to 2026-01-01 |
+| `wet-gewetensbezwaren-militaire-dienst/` | [Wet gewetensbezwaren militaire dienst](https://wetten.overheid.nl/BWBR0002386) | BWBR0002386 | 8 | 2002-01-01 to 2020-01-01 |
+| `hamsterwet/` | [Hamsterwet](https://wetten.overheid.nl/BWBR0002389) | BWBR0002389 | 8 | 1997-05-01 to 2020-07-17 |
+| `noodwet-voedselvoorziening/` | [Noodwet voedselvoorziening](https://wetten.overheid.nl/BWBR0002392) | BWBR0002392 | 7 | 2000-03-08 to 2015-01-01 |
+| `alcoholwet/` | [Alcoholwet](https://wetten.overheid.nl/BWBR0002458) | BWBR0002458 | 22 | 2000-11-01 to 2025-02-12 |
+| `gerechtsdeurwaarderswet/` | [Gerechtsdeurwaarderswet](https://wetten.overheid.nl/BWBR0012197) | BWBR0012197 | 32 | 2002-01-01 to 2025-01-01 |
+| `wet-bevordering-integriteitsbeoordelingen-door-het-openbaar-bestuur/` | [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/BWBR0013798) | BWBR0013798 | 40 | 2002-09-01 to 2025-07-16 |
+| `mijnbouwwet/` | [Mijnbouwwet](https://wetten.overheid.nl/BWBR0014168) | BWBR0014168 | 72 | 2003-01-01 to 2026-06-04 |
+| `wet-toezicht-accountantsorganisaties/` | [Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/BWBR0019468) | BWBR0019468 | 24 | 2006-10-01 to 2026-09-01 |
+| `wet-ter-voorkoming-van-witwassen-en-financieren-van-terrorisme/` | [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/BWBR0024282) | BWBR0024282 | 37 | 2008-08-01 to 2026-07-01 |
+| `drinkwaterwet/` | [Drinkwaterwet](https://wetten.overheid.nl/BWBR0026338) | BWBR0026338 | 14 | 2011-07-01 to 2024-01-01 |
+| `wet-dieren/` | [Wet dieren](https://wetten.overheid.nl/BWBR0030250) | BWBR0030250 | 19 | 2013-01-01 to 2025-01-01 |
+| `wet-ambtenaren-defensie/` | [Wet ambtenaren defensie](https://wetten.overheid.nl/BWBR0001952) | BWBR0001952 | 20 | 2002-01-01 to 2026-01-01 |
+| `wet-aansprakelijkheidsverzekering-motorrijtuigen/` | [Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/BWBR0002415) | BWBR0002415 | 21 | 2002-01-01 to 2025-07-24 |
+| `bekendmakingswet/` | [Bekendmakingswet](https://wetten.overheid.nl/BWBR0004287) | BWBR0004287 | 8 | 1995-05-17 to 2024-01-01 |
+| `wet-administratiefrechtelijke-handhaving-verkeersvoorschriften/` | [Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/BWBR0004581) | BWBR0004581 | 32 | 2002-03-12 to 2026-09-01 |
+| `wet-op-de-belasting-van-personenauto-s-en-motorrijwielen-1992/` | [Wet op de belasting van personenauto's en motorrijwielen 1992](https://wetten.overheid.nl/BWBR0005806) | BWBR0005806 | 42 | 2002-01-01 to 2026-01-01 |
+| `wet-op-de-beroepen-in-de-individuele-gezondheidszorg/` | [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/BWBR0006251) | BWBR0006251 | 46 | 2002-01-01 to 2025-07-05 |
+| `wet-centraal-orgaan-opvang-asielzoekers/` | [Wet Centraal Orgaan opvang asielzoekers](https://wetten.overheid.nl/BWBR0006685) | BWBR0006685 | 15 | 2001-04-01 to 2026-06-04 |
+| `wet-waardering-onroerende-zaken/` | [Wet waardering onroerende zaken](https://wetten.overheid.nl/BWBR0007119) | BWBR0007119 | 25 | 2002-01-01 to 2026-07-01 |
+| `wet-belastingen-op-milieugrondslag/` | [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/BWBR0007168) | BWBR0007168 | 57 | 2002-01-01 to 2026-06-04 |
+| `arbeidstijdenwet/` | [Arbeidstijdenwet](https://wetten.overheid.nl/BWBR0007671) | BWBR0007671 | 33 | 1999-11-01 to 2025-07-01 |
+| `wet-op-de-huurtoeslag/` | [Wet op de huurtoeslag](https://wetten.overheid.nl/BWBR0008659) | BWBR0008659 | 51 | 2002-01-01 to 2026-01-01 |
+| `wet-allocatie-arbeidskrachten-door-intermediairs/` | [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/BWBR0009616) | BWBR0009616 | 25 | 2002-01-01 to 2026-07-01 |
+| `telecommunicatiewet/` | [Telecommunicatiewet](https://wetten.overheid.nl/BWBR0009950) | BWBR0009950 | 74 | 2002-01-01 to 2026-08-15 |
+| `postwet-2009/` | [Postwet 2009](https://wetten.overheid.nl/BWBR0025572) | BWBR0025572 | 15 | 2009-04-01 to 2019-01-01 |
+| `wet-basisregistratie-personen/` | [Wet basisregistratie personen](https://wetten.overheid.nl/BWBR0033715) | BWBR0033715 | 18 | 2014-01-06 to 2026-10-01 |
+| `natuurschoonwet-1928/` | [Natuurschoonwet 1928](https://wetten.overheid.nl/BWBR0001939) | BWBR0001939 | 13 | 2001-01-01 to 2021-01-01 |
+| `wet-op-de-raad-van-state/` | [Wet op de Raad van State](https://wetten.overheid.nl/BWBR0002367) | BWBR0002367 | 33 | 2002-04-01 to 2022-05-01 |
+| `wet-op-belastingen-van-rechtsverkeer/` | [Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/BWBR0002740) | BWBR0002740 | 39 | 2002-04-01 to 2026-01-01 |
+| `wet-giraal-effectenverkeer/` | [Wet giraal effectenverkeer](https://wetten.overheid.nl/BWBR0003109) | BWBR0003109 | 16 | 2000-11-22 to 2023-01-01 |
+| `sanctiewet-1977/` | [Sanctiewet 1977](https://wetten.overheid.nl/BWBR0003296) | BWBR0003296 | 21 | 2001-04-01 to 2025-03-01 |
+| `scheepvaartverkeerswet/` | [Scheepvaartverkeerswet](https://wetten.overheid.nl/BWBR0004364) | BWBR0004364 | 27 | 2001-09-01 to 2026-06-04 |
+| `wet-vervoer-gevaarlijke-stoffen/` | [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/BWBR0007606) | BWBR0007606 | 14 | 2002-03-01 to 2025-01-01 |
+| `coordinatiewet-uitzonderingstoestanden/` | [Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/BWBR0007981) | BWBR0007981 | 2 | 2001-04-01 to 2010-10-10 |
+| `financiele-verhoudingswet/` | [Financiële-verhoudingswet](https://wetten.overheid.nl/BWBR0008290) | BWBR0008290 | 9 | 1999-02-17 to 2024-01-01 |
+| `wet-rechtspositie-rechterlijke-ambtenaren/` | [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/BWBR0008365) | BWBR0008365 | 37 | 2002-01-01 to 2026-01-01 |
+| `beginselenwet-verpleging-ter-beschikking-gestelden/` | [Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/BWBR0008765) | BWBR0008765 | 19 | 2002-01-01 to 2025-07-01 |
+| `bankwet-1998/` | [Bankwet 1998](https://wetten.overheid.nl/BWBR0009508) | BWBR0009508 | 20 | 2002-01-28 to 2026-09-22 |
+| `wet-studiefinanciering-2000/` | [Wet studiefinanciering 2000](https://wetten.overheid.nl/BWBR0011453) | BWBR0011453 | 98 | 2002-02-08 to 2026-08-01 |
+| `zaaizaad-en-plantgoedwet-2005/` | [Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/BWBR0018040) | BWBR0018040 | 18 | 2006-02-01 to 2025-01-01 |
+| `wet-op-de-zorgtoeslag/` | [Wet op de zorgtoeslag](https://wetten.overheid.nl/BWBR0018451) | BWBR0018451 | 28 | 2006-01-01 to 2026-01-01 |
+| `wet-op-de-bijzondere-opsporingsdiensten/` | [Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/BWBR0019919) | BWBR0019919 | 7 | 2007-06-01 to 2025-07-01 |
+| `wet-gewasbeschermingsmiddelen-en-biociden/` | [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/BWBR0021670) | BWBR0021670 | 20 | 2007-10-17 to 2026-01-01 |
+| `wet-griffierechten-burgerlijke-zaken/` | [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/BWBR0028899) | BWBR0028899 | 24 | 2010-11-01 to 2026-01-01 |
+| `wet-gemeentelijke-schuldhulpverlening/` | [Wet gemeentelijke schuldhulpverlening](https://wetten.overheid.nl/BWBR0031331) | BWBR0031331 | 9 | 2012-07-01 to 2026-07-01 |
+| `aanbestedingswet-2012/` | [Aanbestedingswet 2012](https://wetten.overheid.nl/BWBR0032203) | BWBR0032203 | 15 | 2013-04-01 to 2026-04-30 |
+| `wet-op-het-accountantsberoep/` | [Wet op het accountantsberoep](https://wetten.overheid.nl/BWBR0032573) | BWBR0032573 | 10 | 2011-01-01 to 2026-09-01 |
+| `instellingswet-autoriteit-consument-en-markt/` | [Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/BWBR0033043) | BWBR0033043 | 15 | 2013-04-01 to 2025-09-01 |
+| `warmtewet/` | [Warmtewet](https://wetten.overheid.nl/BWBR0033729) | BWBR0033729 | 19 | 2014-01-01 to 2026-01-01 |
+| `warenwet/` | [Warenwet](https://wetten.overheid.nl/BWBR0001969) | BWBR0001969 | 34 | 2002-01-01 to 2025-07-12 |
+| `wet-buitengewoon-pensioen-1940-1945/` | [Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/BWBR0002032) | BWBR0002032 | 32 | 2002-01-01 to 2025-01-01 |
+| `wet-buitengewoon-pensioen-zeelieden-oorlogsslachtoffers/` | [Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/BWBR0002035) | BWBR0002035 | 31 | 2002-01-01 to 2025-01-01 |
+| `wet-op-de-kansspelen/` | [Wet op de kansspelen](https://wetten.overheid.nl/BWBR0002469) | BWBR0002469 | 24 | 2002-01-01 to 2025-02-12 |
+| `registratiewet-1970/` | [Registratiewet 1970](https://wetten.overheid.nl/BWBR0002739) | BWBR0002739 | 10 | 1999-09-01 to 2023-01-01 |
+| `wet-melding-collectief-ontslag/` | [Wet melding collectief ontslag](https://wetten.overheid.nl/BWBR0003026) | BWBR0003026 | 6 | 2002-01-01 to 2018-01-01 |
+| `wedervergeldingswet-zeescheepvaart/` | [Wedervergeldingswet zeescheepvaart](https://wetten.overheid.nl/BWBR0003104) | BWBR0003104 | 4 | 1999-02-17 to 2025-07-01 |
+| `wet-uitvoering-internationaal-energieprogramma/` | [Wet uitvoering Internationaal Energieprogramma](https://wetten.overheid.nl/BWBR0003235) | BWBR0003235 | 8 | 1998-01-01 to 2021-07-01 |
+| `wet-schadefonds-olietankschepen/` | [Wet schadefonds olietankschepen](https://wetten.overheid.nl/BWBR0003400) | BWBR0003400 | 8 | 1997-11-15 to 2019-01-01 |
+| `wet-vervoer-over-zee/` | [Wet vervoer over zee](https://wetten.overheid.nl/BWBR0003528) | BWBR0003528 | 6 | 1998-01-01 to 2016-05-01 |
+| `wet-voorkoming-verontreiniging-door-schepen/` | [Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/BWBR0003642) | BWBR0003642 | 18 | 2000-10-18 to 2025-09-17 |
+| `prijzennoodwet/` | [Prijzennoodwet](https://wetten.overheid.nl/BWBR0003734) | BWBR0003734 | 8 | 1997-05-01 to 2019-01-01 |
+| `wet-bescherming-oorspronkelijke-topografieen-van-halfgeleiderprodukten/` | [Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukten](https://wetten.overheid.nl/BWBR0004224) | BWBR0004224 | 7 | 2002-01-01 to 2020-02-01 |
+| `tabaks-en-rookwarenwet/` | [Tabaks- en rookwarenwet](https://wetten.overheid.nl/BWBR0004302) | BWBR0004302 | 35 | 2000-06-21 to 2026-07-01 |
+| `wet-schadeloosstelling-leden-tweede-kamer/` | [Wet schadeloosstelling leden Tweede Kamer](https://wetten.overheid.nl/BWBR0004939) | BWBR0004939 | 44 | 2002-01-01 to 2026-07-07 |
+| `wet-op-de-lijkbezorging/` | [Wet op de lijkbezorging](https://wetten.overheid.nl/BWBR0005009) | BWBR0005009 | 22 | 2002-04-01 to 2026-07-01 |
+| `wet-op-de-verbruiksbelasting-van-alcoholvrije-dranken/` | [Wet op de verbruiksbelasting van alcoholvrije dranken](https://wetten.overheid.nl/BWBR0005802) | BWBR0005802 | 15 | 2002-04-01 to 2025-01-01 |
+| `wet-op-de-naburige-rechten/` | [Wet op de naburige rechten](https://wetten.overheid.nl/BWBR0005921) | BWBR0005921 | 21 | 2002-01-01 to 2026-01-01 |
+| `wet-op-de-motorrijtuigenbelasting-1994/` | [Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/BWBR0006324) | BWBR0006324 | 46 | 2002-01-01 to 2026-07-01 |
+| `wet-verevening-pensioenrechten-bij-scheiding/` | [Wet verevening pensioenrechten bij scheiding](https://wetten.overheid.nl/BWBR0006641) | BWBR0006641 | 11 | 2002-02-15 to 2021-07-10 |
+| `wet-toezicht-effectenverkeer-1995/` | [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/BWBR0007657) | BWBR0007657 | 23 | 2002-01-01 to 2022-10-01 |
+| `winkeltijdenwet/` | [Winkeltijdenwet](https://wetten.overheid.nl/BWBR0007952) | BWBR0007952 | 5 | 1998-01-01 to 2022-01-01 |
+| `kaderwet-adviescolleges/` | [Kaderwet adviescolleges](https://wetten.overheid.nl/BWBR0008159) | BWBR0008159 | 6 | 1997-01-01 to 2022-07-01 |
+| `wet-op-de-europese-ondernemingsraden/` | [Wet op de Europese ondernemingsraden](https://wetten.overheid.nl/BWBR0008508) | BWBR0008508 | 8 | 2002-01-01 to 2017-12-16 |
+| `wet-particuliere-beveiligingsorganisaties-en-recherchebureaus/` | [Wet particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/BWBR0008973) | BWBR0008973 | 11 | 2002-01-01 to 2025-07-01 |
+| `wet-op-bijzondere-medische-verrichtingen/` | [Wet op bijzondere medische verrichtingen](https://wetten.overheid.nl/BWBR0008974) | BWBR0008974 | 8 | 2001-01-01 to 2025-07-05 |
+| `wet-op-de-formeel-buitenlandse-vennootschappen/` | [Wet op de formeel buitenlandse vennootschappen](https://wetten.overheid.nl/BWBR0009191) | BWBR0009191 | 9 | 1999-02-17 to 2020-02-01 |
+| `wet-overheidspersoneel-onder-de-werknemersverzekeringen/` | [Wet overheidspersoneel onder de werknemersverzekeringen](https://wetten.overheid.nl/BWBR0009267) | BWBR0009267 | 13 | 2002-02-15 to 2018-01-01 |
+| `invoeringswet-wet-inkomstenbelasting-2001/` | [Invoeringswet Wet inkomstenbelasting 2001](https://wetten.overheid.nl/BWBR0011354) | BWBR0011354 | 23 | 2002-01-01 to 2026-01-01 |
+| `overgangswet-elektriciteitsproductiesector/` | [Overgangswet elektriciteitsproductiesector](https://wetten.overheid.nl/BWBR0012088) | BWBR0012088 | 5 | 2002-01-01 to 2013-01-01 |
+| `wet-toetsing-levensbeeindiging-op-verzoek-en-hulp-bij-zelfdoding/` | [Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/BWBR0012410) | BWBR0012410 | 7 | 2002-04-01 to 2021-10-01 |
+| `wet-capaciteitsbeheersing-binnenvaartvloot/` | [Wet capaciteitsbeheersing binnenvaartvloot](https://wetten.overheid.nl/BWBR0012950) | BWBR0012950 | 7 | 2001-11-23 to 2015-01-01 |
+| `wet-toezicht-en-geschillenbeslechting-collectieve-beheersorganisaties-auteurs-en-naburige-rechten/` | [Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/BWBR0014779) | BWBR0014779 | 17 | 2003-07-15 to 2025-07-01 |
+| `wet-controle-op-rechtspersonen/` | [Wet controle op rechtspersonen](https://wetten.overheid.nl/BWBR0015049) | BWBR0015049 | 10 | 2005-01-01 to 2018-09-19 |
+| `wet-op-het-centraal-bureau-voor-de-statistiek/` | [Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/BWBR0015926) | BWBR0015926 | 18 | 2004-01-03 to 2025-09-01 |
+| `overleveringswet/` | [Overleveringswet](https://wetten.overheid.nl/BWBR0016664) | BWBR0016664 | 24 | 2004-05-12 to 2025-07-01 |
+| `wet-rol-werknemers-bij-europese-rechtspersonen/` | [Wet rol werknemers bij Europese rechtspersonen](https://wetten.overheid.nl/BWBR0018115) | BWBR0018115 | 5 | 2005-04-01 to 2022-01-01 |
+| `wet-invoering-en-financiering-wet-werk-en-inkomen-naar-arbeidsvermogen/` | [Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/BWBR0019058) | BWBR0019058 | 13 | 2004-10-01 to 2015-01-01 |
+| `metrologiewet/` | [Metrologiewet](https://wetten.overheid.nl/BWBR0019517) | BWBR0019517 | 13 | 2006-11-29 to 2023-04-19 |
+| `invoerings-en-aanpassingswet-pensioenwet/` | [Invoerings- en aanpassingswet Pensioenwet](https://wetten.overheid.nl/BWBR0020828) | BWBR0020828 | 8 | 2007-01-01 to 2019-01-01 |
+| `binnenvaartwet/` | [Binnenvaartwet](https://wetten.overheid.nl/BWBR0023009) | BWBR0023009 | 13 | 2009-07-01 to 2025-06-01 |
+| `algemene-wet-erkenning-eu-beroepskwalificaties/` | [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/BWBR0023066) | BWBR0023066 | 10 | 2007-01-01 to 2021-08-26 |
+| `wet-basisregistratie-adressen-en-gebouwen/` | [Wet basisregistratie adressen en gebouwen](https://wetten.overheid.nl/BWBR0023466) | BWBR0023466 | 8 | 2009-07-01 to 2025-02-12 |
+| `wet-op-de-parlementaire-enquete-2008/` | [Wet op de parlementaire enquête 2008](https://wetten.overheid.nl/BWBR0023825) | BWBR0023825 | 15 | 2008-05-09 to 2025-02-12 |
+| `wet-aanvullende-bepalingen-verwerking-persoonsgegevens-in-de-zorg/` | [Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg](https://wetten.overheid.nl/BWBR0023864) | BWBR0023864 | 18 | 2008-06-01 to 2025-07-05 |
+| `wet-strategische-diensten/` | [Wet strategische diensten](https://wetten.overheid.nl/BWBR0030545) | BWBR0030545 | 11 | 2012-01-01 to 2024-12-19 |
+| `wet-naleving-europese-regelgeving-publieke-entiteiten/` | [Wet Naleving Europese regelgeving publieke entiteiten](https://wetten.overheid.nl/BWBR0031640) | BWBR0031640 | 5 | 2012-06-13 to 2016-07-01 |
+| `wet-wederzijdse-erkenning-en-tenuitvoerlegging-vrijheidsbenemende-en-voorwaardelijke-sancties/` | [Wet wederzijdse erkenning en tenuitvoerlegging vrijheidsbenemende en voorwaardelijke sancties](https://wetten.overheid.nl/BWBR0031814) | BWBR0031814 | 7 | 2012-11-01 to 2024-10-01 |
+| `wet-verbod-pelsdierhouderij/` | [Wet verbod pelsdierhouderij](https://wetten.overheid.nl/BWBR0032739) | BWBR0032739 | 6 | 2013-01-15 to 2024-01-01 |
+| `wet-voorraadvorming-aardolieproducten-2012/` | [Wet voorraadvorming aardolieproducten 2012](https://wetten.overheid.nl/BWBR0032775) | BWBR0032775 | 4 | 2013-04-01 to 2021-07-23 |
+| `aanbestedingswet-op-defensie-en-veiligheidsgebied/` | [Aanbestedingswet op defensie- en veiligheidsgebied](https://wetten.overheid.nl/BWBR0032898) | BWBR0032898 | 8 | 2013-02-16 to 2019-04-18 |
+| `wet-basisregistratie-grootschalige-topografie/` | [Wet basisregistratie grootschalige topografie](https://wetten.overheid.nl/BWBR0034026) | BWBR0034026 | 6 | 2016-01-01 to 2025-02-12 |
+| `huisvestingswet-2014/` | [Huisvestingswet 2014](https://wetten.overheid.nl/BWBR0035303) | BWBR0035303 | 19 | 2015-01-01 to 2026-11-01 |
+| `wet-algemene-bepalingen/` | [Wet algemene bepalingen](https://wetten.overheid.nl/BWBR0001833) | BWBR0001833 | 3 | 1992-01-01 to 2012-01-01 |
+| `wet-ministeriele-verantwoordelijkheid-en-ambtsdelicten-leden-staten-generaal-ministers-en-staatssecretarissen/` | [Wet ministeriële verantwoordelijkheid en ambtsdelicten leden Staten-Generaal, ministers en staatssecretarissen](https://wetten.overheid.nl/BWBR0001844) | BWBR0001844 | 3 | 1998-01-01 to 2018-09-19 |
+| `schepenwet/` | [Schepenwet](https://wetten.overheid.nl/BWBR0001876) | BWBR0001876 | 8 | 2002-01-01 to 2026-07-01 |
+| `handelsnaamwet/` | [Handelsnaamwet](https://wetten.overheid.nl/BWBR0001906) | BWBR0001906 | 5 | 2002-01-01 to 2017-09-01 |
+| `wet-op-de-collectieve-arbeidsovereenkomst/` | [Wet op de collectieve arbeidsovereenkomst](https://wetten.overheid.nl/BWBR0001937) | BWBR0001937 | 4 | 1997-05-14 to 2007-01-01 |
+| `wegenwet/` | [Wegenwet](https://wetten.overheid.nl/BWBR0001948) | BWBR0001948 | 12 | 1999-02-17 to 2024-01-01 |
+| `wet-op-het-algemeen-verbindend-en-het-onverbindend-verklaren-van-bepalingen-van-collectieve-arbeidsovereenkomsten/` | [Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/BWBR0001987) | BWBR0001987 | 18 | 1999-12-24 to 2026-07-01 |
+| `wet-medewerking-verdedigingsvoorbereiding/` | [Wet medewerking verdedigingsvoorbereiding](https://wetten.overheid.nl/BWBR0001995) | BWBR0001995 | 7 | 1998-01-01 to 2021-07-01 |
+| `bodemproductiewet-1939/` | [Bodemproductiewet 1939](https://wetten.overheid.nl/BWBR0001996) | BWBR0001996 | 4 | 1998-01-01 to 2019-01-01 |
+| `distributiewet/` | [Distributiewet](https://wetten.overheid.nl/BWBR0001997) | BWBR0001997 | 8 | 1999-02-17 to 2020-07-17 |
+| `wet-op-de-sociaal-economische-raad/` | [Wet op de Sociaal-Economische Raad](https://wetten.overheid.nl/BWBR0002058) | BWBR0002058 | 18 | 1999-07-01 to 2023-01-01 |
+| `garantiewet-burgerlijk-overheidspersoneel-indonesie/` | [Garantiewet Burgerlijk Overheidspersoneel Indonesië](https://wetten.overheid.nl/BWBR0002060) | BWBR0002060 | 4 | 2002-01-01 to 2013-01-01 |
+| `garantiewet-militairen-k-n-i-l/` | [Garantiewet Militairen K.N.I.L.](https://wetten.overheid.nl/BWBR0002077) | BWBR0002077 | 2 | 2002-01-01 to 2011-02-23 |
+| `wet-onderstandsregeling-ingevolge-artikel-2-van-de-garantiewet-burgerlijk-overheidspersoneel-indonesie/` | [Wet onderstandsregeling ingevolge artikel 2 van de Garantiewet Burgerlijk Overheidspersoneel Indonesië](https://wetten.overheid.nl/BWBR0002083) | BWBR0002083 | 1 | 1998-04-01 to 1998-04-01 |
+| `wet-pensioenvoorzieningen-k-n-i-l/` | [Wet pensioenvoorzieningen K.N.I.L.](https://wetten.overheid.nl/BWBR0002090) | BWBR0002090 | 1 | 1952-07-14 to 1952-07-14 |
+| `wet-bescherming-bevolking/` | [Wet bescherming bevolking](https://wetten.overheid.nl/BWBR0002096) | BWBR0002096 | 1 | 1986-07-01 to 1986-07-01 |
+| `statuut-voor-het-koninkrijk-der-nederlanden/` | [Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/BWBR0002154) | BWBR0002154 | 5 | 1998-10-09 to 2024-01-01 |
+| `toeslagwet-indonesische-pensioenen-1956/` | [Toeslagwet Indonesische pensioenen 1956](https://wetten.overheid.nl/BWBR0002251) | BWBR0002251 | 4 | 2002-01-01 to 2015-01-01 |
+| `instellingswet-bijstandkorps-burgerlijke-rijksambtenaren-bestemd-voor-dienst-in-nederlands-nieuw-guinea/` | [Instellingswet Bijstandkorps burgerlijke rijksambtenaren bestemd voor dienst in Nederlands-Nieuw-Guinea](https://wetten.overheid.nl/BWBR0002370) | BWBR0002370 | 1 | 2002-01-01 to 2002-01-01 |
+| `uitvoeringswet-nederlands-duits-grensverdrag/` | [Uitvoeringswet Nederlands-Duits Grensverdrag](https://wetten.overheid.nl/BWBR0002412) | BWBR0002412 | 3 | 1994-01-01 to 2026-06-04 |
+| `samenloopregeling-indonesische-pensioenen-1960/` | [Samenloopregeling Indonesische pensioenen 1960](https://wetten.overheid.nl/BWBR0002414) | BWBR0002414 | 6 | 2002-01-01 to 2015-01-01 |
+| `visserijwet-1963/` | [Visserijwet 1963](https://wetten.overheid.nl/BWBR0002416) | BWBR0002416 | 15 | 2002-02-01 to 2024-04-01 |
+| `wet-tot-uitvoering-van-de-verordening-no-11-van-de-raad-van-de-europese-economische-gemeenschap/` | [Wet tot uitvoering van de Verordening No. 11 van de Raad van de Europese Economische Gemeenschap](https://wetten.overheid.nl/BWBR0002419) | BWBR0002419 | 2 | 1998-01-01 to 2013-01-01 |
+| `verhaalswet-ongevallen-ambtenaren/` | [Verhaalswet ongevallen ambtenaren](https://wetten.overheid.nl/BWBR0002500) | BWBR0002500 | 3 | 1965-09-15 to 2020-01-01 |
+| `uitkeringswet-gewezen-militairen/` | [Uitkeringswet gewezen militairen](https://wetten.overheid.nl/BWBR0002540) | BWBR0002540 | 5 | 2002-02-15 to 2020-01-01 |
+| `liquidatiewet-ongevallenwetten/` | [Liquidatiewet ongevallenwetten](https://wetten.overheid.nl/BWBR0002553) | BWBR0002553 | 5 | 1999-07-01 to 2015-01-01 |
+| `overgangswet-nieuw-burgerlijk-wetboek/` | [Overgangswet nieuw Burgerlijk Wetboek](https://wetten.overheid.nl/BWBR0002565) | BWBR0002565 | 49 | 2002-01-01 to 2026-06-04 |
+| `leerplichtwet-1969/` | [Leerplichtwet 1969](https://wetten.overheid.nl/BWBR0002628) | BWBR0002628 | 38 | 2002-02-08 to 2026-08-01 |
+| `algemene-pensioen-en-uitkeringswet-politieke-ambtsdragers/` | [Algemene pensioen- en uitkeringswet politieke ambtsdragers](https://wetten.overheid.nl/BWBR0002691) | BWBR0002691 | 44 | 2002-01-01 to 2026-04-24 |
+| `wet-op-de-loonvorming/` | [Wet op de loonvorming](https://wetten.overheid.nl/BWBR0002698) | BWBR0002698 | 7 | 1999-02-17 to 2026-01-01 |
+| `experimentenwet-onderwijs/` | [Experimentenwet onderwijs](https://wetten.overheid.nl/BWBR0002718) | BWBR0002718 | 15 | 2000-09-01 to 2022-08-01 |
+| `noodwet-geneeskundigen/` | [Noodwet Geneeskundigen](https://wetten.overheid.nl/BWBR0002758) | BWBR0002758 | 4 | 2001-09-01 to 2021-07-01 |
+| `noodwet-arbeidsvoorziening/` | [Noodwet Arbeidsvoorziening](https://wetten.overheid.nl/BWBR0002759) | BWBR0002759 | 6 | 2002-01-01 to 2014-01-06 |
+| `wet-ambtelijk-toezicht-bij-openbare-verkopingen/` | [Wet ambtelijk toezicht bij openbare verkopingen](https://wetten.overheid.nl/BWBR0002798) | BWBR0002798 | 1 | 2002-01-01 to 2002-01-01 |
+| `wet-aansprakelijkheid-olietankschepen/` | [Wet aansprakelijkheid olietankschepen](https://wetten.overheid.nl/BWBR0002976) | BWBR0002976 | 12 | 1999-02-17 to 2025-07-01 |
+| `wet-op-het-centraal-testamentenregister/` | [Wet op het centraal testamentenregister](https://wetten.overheid.nl/BWBR0003080) | BWBR0003080 | 5 | 1999-10-01 to 2014-07-01 |
+| `noodwet-financieel-verkeer/` | [Noodwet financieel verkeer](https://wetten.overheid.nl/BWBR0003173) | BWBR0003173 | 5 | 1998-06-01 to 2007-11-01 |
+| `wet-grensoverschrijdend-vervoer-van-aan-bederf-onderhevige-levensmiddelen/` | [Wet grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen](https://wetten.overheid.nl/BWBR0003186) | BWBR0003186 | 1 | 1998-01-01 to 1998-01-01 |
+| `wet-gelijke-behandeling-van-mannen-en-vrouwen/` | [Wet gelijke behandeling van mannen en vrouwen](https://wetten.overheid.nl/BWBR0003299) | BWBR0003299 | 11 | 2001-01-01 to 2026-01-01 |
+| `wet-op-de-consignatie-van-gelden/` | [Wet op de consignatie van gelden](https://wetten.overheid.nl/BWBR0003338) | BWBR0003338 | 1 | 2002-01-01 to 2002-01-01 |
+| `uitvoeringswet-verdrag-biologische-wapens/` | [Uitvoeringswet verdrag biologische wapens](https://wetten.overheid.nl/BWBR0003385) | BWBR0003385 | 5 | 1998-01-01 to 2025-07-05 |
+| `wet-agrarisch-grondverkeer/` | [Wet agrarisch grondverkeer](https://wetten.overheid.nl/BWBR0003386) | BWBR0003386 | 20 | 2002-04-01 to 2026-06-04 |
+| `wet-algemene-regels-herindeling/` | [Wet algemene regels herindeling](https://wetten.overheid.nl/BWBR0003718) | BWBR0003718 | 23 | 2002-01-01 to 2024-01-01 |
+| `wet-inzake-spaarbewijzen/` | [Wet inzake spaarbewijzen](https://wetten.overheid.nl/BWBR0003797) | BWBR0003797 | 2 | 1996-06-01 to 2005-01-01 |
 
 Each history starts at the oldest version the BWB publishes for that act: 2002 for the Grondwet and the codes (2012 for Boek 10, the act as enacted, Stb. 2011, 272), the act as enacted (Stb. 2018, 144) for the UAVG, and the dates in the table for the other acts (the Jeugdwet and the Wmo 2015 start with the act as enacted). Each folder's `README.md` lists every article, how often it changed and when.
 
@@ -155,6 +345,7 @@ The author of a commit is the law that made the change, with an e-mail address t
 - **Unexplained changes** are committed by the publisher, KOOP, and labelled "unexplained" (a few per cent of all commits; `REPRODUCE.md` gives the exact count). Most are tables of headings (`inhoud.md`) or articles that disappeared on a day several laws took effect, none of them named on the articles: BW Boek 1 arts. 263a–263b on 2015-01-01, nine Criminal Code articles (240a–240c, 248a–248f) on 2024-07-01, 69 Code of Criminal Procedure articles on 2020-01-01, 17 Code of Civil Procedure articles on 2023-05-01. The rest are single articles the BWB changed without naming a source for that day (for example BW Boek 7 arts. 400–404 on 2007-10-31). `git log --author=KOOP` lists them all.
 - **Annexes.** An article in an annex (bijlage) of the Awb that names no source of its own is credited to the source the BWB records for the annex, when that took effect on the version's day.
 - **Staatscourant.** A few wordings (amounts adjusted by ministerial regulation, for example in BW Boek 7 and the Code of Civil Procedure) have a Staatscourant publication as their source; those authors are labelled "Stcrt." and counted as decrees.
+- **Names of amending publications.** For the acts added from part 68 on, a publication the act's amendment record (WTI) names is identified by its label ("Stb. 2025, 352" or "Stcrt. YYYY, N") with the signature and publication dates the record gives; its title is given only where the record names it. Titles from officielebekendmakingen.nl are used for the earlier acts, and for a source the record does not list.
 - **Grondwet revisions.** For a revised Grondwet the BWB names as the source of the wording the Besluit that publishes the revised text (Art. 141 Grondwet); that Besluit is the author, and its commit message names the revision laws the BWB lists for the same day. On 2018-12-21 the BWB dates the text before the Besluit of 16 January 2019 (Stb. 2019, 33) that published it; the date is kept as the BWB gives it.
 - **The first commit** of the UAVG is the act as enacted (Stb. 2018, 144). For the Grondwet and the codes, it is the oldest version the BWB holds, credited to the publisher.
 - Blame credits whole lines (one paragraph, member or list item per line). Use `git log -p --word-diff` to see exactly which words each change made.
