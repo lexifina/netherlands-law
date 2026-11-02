@@ -2658,3 +2658,1708 @@ day,kind,law,acts,files,branch
 2026-10-16,law,stb-2026-314,vreemdelingenwet-2000,3,main
 2026-10-16,law,stb-2026-315,vreemdelingenwet-2000,2,main
 2026-10-22,law,stb-2026-330,wet-milieubeheer,5,main
+1999-02-17,start,,algemene-termijnenwet,7,main
+1999-06-01,start,,algemene-wet-op-het-binnentreden,16,main
+2000-04-28,start,stb-1999-281,rijkswet-instelling-exclusieve-economische-zone,5,main
+2001-04-01,start,,wet-op-de-identificatieplicht,26,main
+2001-09-01,start,,archiefwet-1995,91,main
+2001-10-01,start,,wet-luchtvaart,129,main
+2001-12-22,start,,wet-educatie-en-beroepsonderwijs,243,main
+2002-01-01,start,,algemene-kinderbijslagwet,49,main
+2002-01-01,start,,algemene-nabestaandenwet,117,main
+2002-01-01,start,,burgerlijk-wetboek-boek-8,690,main
+2002-01-01,start,,invorderingswet-1990,83,main
+2002-01-01,start,,wet-arbeid-en-zorg,85,main
+2002-01-01,start,,wet-arbeidsongeschiktheidsverzekering-zelfstandigen,100,main
+2002-01-01,start,,wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten,79,main
+2002-01-01,start,,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen,75,main
+2002-01-01,start,,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,72,main
+2002-01-01,start,,wet-minimumloon-en-minimumvakantiebijslag,27,main
+2002-01-01,start,,wet-op-de-ondernemingsraden,70,main
+2002-01-01,start,,wet-op-de-rechtsbijstand,69,main
+2002-01-01,start,,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,366,main
+2002-01-01,start,,wet-personenvervoer-2000,130,main
+2002-01-01,start,,wet-sociale-werkvoorziening,26,main
+2002-01-01,start,,wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-2000,44,main
+2002-02-15,start,,wet-arbeidsongeschiktheidsvoorziening-militairen,23,main
+2002-03-01,start,,kernenergiewet,89,main
+2002-03-07,start,,ambtenarenwet-2017,26,main
+2002-03-07,start,,wet-gemeenschappelijke-regelingen,165,main
+2002-03-08,start,,beginselenwet-justitiele-jeugdinrichtingen,93,main
+2002-03-08,start,,wet-op-het-consumentenkrediet,69,main
+2002-03-12,start,,wet-nationale-ombudsman,36,main
+2002-03-20,start,,wet-op-de-expertisecentra,181,main
+2002-03-20,start,,wet-op-het-primair-onderwijs,195,main
+2002-04-01,start,,kadasterwet,128,main
+2002-04-01,start,,toeslagenwet,52,main
+2002-04-01,start,,wet-op-de-arbeidsongeschiktheidsverzekering,161,main
+2002-04-01,start,,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen,89,main
+2002-05-15,law,stb-2002-65,ambtenarenwet-2017,1,main
+2002-05-29,law,stb-2002-148,ambtenarenwet-2017,1,main
+2002-06-19,law,stb-2002-303,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,32,main
+2002-06-28,law,stb-2002-209,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,4,main
+2002-07-01,law,stcrt-2002-97,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2002-07-01,law,stcrt-2002-116,algemene-kinderbijslagwet,1,main
+2002-07-01,law,stb-2002-330,invorderingswet-1990 wet-op-de-arbeidsongeschiktheidsverzekering,3,main
+2002-07-06,law,stcrt-2002-125,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen,1,main
+2002-08-01,law,stb-2001-613,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,4,main
+2002-08-01,law,stb-2002-204,wet-educatie-en-beroepsonderwijs,3,main
+2002-08-01,law,stb-2002-302,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,32,main
+2002-08-21,law,stb-2002-235,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen,1,main
+2002-08-30,law,stb-2002-302,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2002-09-01,law,stb-2002-302,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,6,main
+2002-09-01,law,stb-2002-303,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,95,main
+2002-09-01,law,stb-2002-387,wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,30,main
+2002-09-01,law,stb-2002-395,wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten,1,main
+2002-09-01,law,stb-2002-413,wet-op-de-expertisecentra,1,main
+2002-09-04,law,stb-2002-440,wet-op-de-rechtsbijstand,3,main
+2002-12-01,law,stb-2002-478,invorderingswet-1990,6,main
+2002-12-01,law,stb-2002-493,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,20,main
+2002-12-02,law,stcrt-2002-228,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,2,main
+2003-01-01,law,stb-2002-429,invorderingswet-1990 kadasterwet,5,main
+2003-01-01,law,stcrt-2002-198,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2003-01-01,law,stb-2002-542,kernenergiewet wet-luchtvaart,2,main
+2003-01-01,law,stcrt-2002-241,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,3,main
+2003-01-01,law,stb-2002-613,invorderingswet-1990,4,main
+2003-01-01,law,stb-2002-618,invorderingswet-1990,2,main
+2003-01-01,law,stb-2002-615,wet-minimumloon-en-minimumvakantiebijslag,2,main
+2003-01-01,law,stb-2002-617,invorderingswet-1990 wet-op-het-primair-onderwijs,3,main
+2003-01-01,law,stcrt-2002-246,algemene-kinderbijslagwet,1,main
+2003-01-01,law,stcrt-2002-248,wet-op-de-rechtsbijstand,2,main
+2003-01-01,law,stb-2003-524,wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsverzekering-zelfstandigen,3,main
+2003-01-24,law,stb-2001-681,wet-educatie-en-beroepsonderwijs,4,main
+2003-01-25,law,stb-1998-216,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,3,main
+2003-01-25,law,stb-2001-352,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,2,main
+2003-02-01,law,stb-2003-20,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-op-de-rechtsbijstand,2,main
+2003-02-01,unexplained,,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,2,main
+2003-02-19,law,stb-2002-631,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,21,main
+2003-02-19,law,stb-2003-56,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers ambtenarenwet-2017 wet-op-het-primair-onderwijs wet-op-de-expertisecentra wet-sociale-werkvoorziening,12,main
+2003-02-20,law,stb-2002-374,wet-luchtvaart,46,main
+2003-02-20,unexplained,,wet-luchtvaart,1,main
+2003-02-26,law,stb-2003-70,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,7,main
+2003-03-01,law,stb-2002-578,burgerlijk-wetboek-boek-8,1,main
+2003-03-01,law,stb-2002-584,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering wet-op-de-ondernemingsraden,6,main
+2003-03-12,law,stb-2003-17,ambtenarenwet-2017,1,main
+2003-03-16,law,stb-2000-468,wet-luchtvaart,22,main
+2003-04-01,law,stb-2002-647,wet-op-de-arbeidsongeschiktheidsverzekering,1,main
+2003-04-01,law,stcrt-2003-56,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,2,main
+2003-04-18,law,stb-2003-49,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,6,main
+2003-05-01,law,stb-2003-60,ambtenarenwet-2017,3,main
+2003-05-23,law,stb-2003-189,kernenergiewet,1,main
+2003-06-01,law,stb-2002-347,wet-personenvervoer-2000,2,main
+2003-06-20,law,stb-2000-468,wet-luchtvaart,3,main
+2003-06-30,law,stb-1998-356,wet-nationale-ombudsman,1,main
+2003-07-01,law,stb-2003-187,wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,17,main
+2003-07-01,law,stcrt-2003-96,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2003-07-01,law,stcrt-2003-119,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,2,main
+2003-07-01,law,stcrt-2003-122,algemene-kinderbijslagwet,1,main
+2003-07-04,law,stb-2003-215,wet-op-het-primair-onderwijs,1,main
+2003-07-31,unexplained,,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,2,main
+2003-08-01,law,stb-1998-337,wet-educatie-en-beroepsonderwijs,3,main
+2003-08-01,law,stb-2002-288,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,12,main
+2003-08-01,law,stb-2002-588,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,3,main
+2003-08-01,law,stb-2002-631,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,35,main
+2003-08-01,law,stb-2003-188,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,9,main
+2003-08-01,law,stb-2003-214,wet-op-het-consumentenkrediet,1,main
+2003-08-01,law,stb-2003-218,wet-op-de-expertisecentra,1,main
+2003-08-01,law,stb-2003-226,wet-op-het-primair-onderwijs,3,main
+2003-08-01,law,stb-2003-287,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,3,main
+2003-08-15,law,stb-2003-292,wet-educatie-en-beroepsonderwijs,2,main
+2003-09-01,law,stb-2003-239,wet-op-de-arbeidsongeschiktheidsverzekering,1,main
+2003-09-01,law,stb-2003-298,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,2,main
+2003-09-26,law,stb-2002-302,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,11,main
+2003-09-26,law,stb-2002-303,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,3,main
+2003-10-01,law,stb-1998-306,invorderingswet-1990,1,main
+2003-10-01,law,stb-2003-305,invorderingswet-1990,9,main
+2003-12-01,law,stb-2003-55,wet-op-de-arbeidsongeschiktheidsverzekering,1,main
+2003-12-12,law,stb-2003-499,beginselenwet-justitiele-jeugdinrichtingen,6,main
+2004-01-01,law,stb-2003-376,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-arbeid-en-zorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers wet-op-het-consumentenkrediet ambtenarenwet-2017 wet-arbeidsongeschiktheidsvoorziening-militairen toeslagenwet wet-op-de-rechtsbijstand,70,main
+2004-01-01,law,stb-2003-410,kadasterwet,15,main
+2004-01-01,law,stcrt-2003-246,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,3,main
+2004-01-01,law,stb-2003-524,algemene-nabestaandenwet wet-arbeidsongeschiktheidsverzekering-zelfstandigen,2,main
+2004-01-01,law,stcrt-2003-248,wet-op-de-rechtsbijstand,2,main
+2004-01-01,law,stb-2003-526,invorderingswet-1990,1,main
+2004-01-01,law,stb-2003-527,invorderingswet-1990,5,main
+2004-01-01,law,stb-2003-544,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-2000 toeslagenwet,81,main
+2004-01-01,law,stb-2003-546,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,1,main
+2004-01-01,law,stb-2003-553,algemene-kinderbijslagwet,1,main
+2004-01-01,law,stb-2003-555,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering toeslagenwet,14,main
+2004-01-01,law,stb-2003-557,wet-op-de-arbeidsongeschiktheidsverzekering,1,main
+2004-01-01,law,stb-2003-559,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2004-01-23,law,stb-2004-16,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,20,main
+2004-01-23,law,stb-2004-15,wet-op-de-rechtsbijstand,1,main
+2004-02-01,law,stb-2004-37,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-op-de-rechtsbijstand,2,main
+2004-02-04,law,stb-2004-21,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2004-02-13,law,stb-2004-17,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs archiefwet-1995 wet-op-het-primair-onderwijs wet-op-de-expertisecentra,53,main
+2004-03-01,law,stb-2003-524,wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsverzekering-zelfstandigen algemene-kinderbijslagwet toeslagenwet,11,main
+2004-03-01,law,stb-2003-528,invorderingswet-1990,5,main
+2004-04-01,start,,wet-justitiele-en-strafvorderlijke-gegevens,80,main
+2004-04-01,law,stb-2002-552,wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,4,main
+2004-04-01,law,stcrt-2004-62,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,2,main
+2004-05-01,law,stb-2003-502,wet-op-de-rechtsbijstand,41,main
+2004-05-01,law,stb-2004-50,burgerlijk-wetboek-boek-8 wet-op-de-rechtsbijstand,4,main
+2004-06-23,law,stb-2004-139,wet-educatie-en-beroepsonderwijs,1,main
+2004-07-01,law,stb-2004-216,wet-educatie-en-beroepsonderwijs,129,main
+2004-07-01,law,stb-2004-215,kadasterwet kernenergiewet wet-op-de-ondernemingsraden wet-luchtvaart,9,main
+2004-07-01,law,stb-2004-296,wet-op-de-arbeidsongeschiktheidsverzekering,5,main
+2004-07-01,law,stcrt-2004-123,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,2,main
+2004-07-02,unexplained,,wet-educatie-en-beroepsonderwijs,1,main
+2004-07-18,law,stb-2004-338,wet-luchtvaart,5,main
+2004-07-23,law,stb-2004-363,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,4,main
+2004-07-30,law,stb-2004-271,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,25,main
+2004-08-01,law,stb-2004-16,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,4,main
+2004-08-01,law,stb-2004-138,wet-educatie-en-beroepsonderwijs,42,main
+2004-08-01,law,stb-2004-177,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs,16,main
+2004-08-01,law,stb-2004-253,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,35,main
+2004-08-01,law,stb-2004-324,wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-arbeid-en-zorg,40,main
+2004-08-01,unexplained,,wet-arbeidsongeschiktheidsverzekering-zelfstandigen,1,main
+2004-08-01,unexplained,,wet-op-de-expertisecentra,1,main
+2004-08-01,unexplained,,wet-op-het-primair-onderwijs,1,main
+2004-08-10,law,stb-2004-290,kernenergiewet,3,main
+2004-08-20,law,stb-2004-141,wet-personenvervoer-2000,12,main
+2004-08-20,law,stb-2004-321,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,12,main
+2004-08-20,law,stb-2004-343,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2004-09-01,law,stb-2002-303,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,4,main
+2004-09-01,law,stb-2004-315,wet-justitiele-en-strafvorderlijke-gegevens wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,36,main
+2004-09-02,law,stb-2004-416,wet-op-de-arbeidsongeschiktheidsverzekering,2,main
+2004-10-01,law,stb-2004-88,ambtenarenwet-2017,1,main
+2004-10-01,law,stb-2004-370,wet-op-de-ondernemingsraden,1,main
+2004-10-01,law,stb-2004-416,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen,18,main
+2004-10-02,law,stb-2001-681,wet-educatie-en-beroepsonderwijs,11,main
+2004-10-30,law,stb-2004-455,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen,1,main
+2004-11-01,law,stb-2004-117,kadasterwet burgerlijk-wetboek-boek-8,2,main
+2004-11-01,law,stb-2004-343,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,3,main
+2004-12-22,law,stb-2004-652,wet-op-de-ondernemingsraden,2,main
+2004-12-30,law,stb-2004-731,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering,3,main
+2005-01-01,law,stb-2000-627,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen,4,main
+2005-01-01,law,stb-2003-265,wet-personenvervoer-2000,56,main
+2005-01-01,law,stb-2003-376,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,14,main
+2005-01-01,law,stb-2004-50,wet-justitiele-en-strafvorderlijke-gegevens,1,main
+2005-01-01,law,stb-2004-141,wet-personenvervoer-2000,5,main
+2005-01-01,law,stb-2004-216,wet-educatie-en-beroepsonderwijs,3,main
+2005-01-01,law,stb-2004-306,wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-arbeid-en-zorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers beginselenwet-justitiele-jeugdinrichtingen wet-op-de-rechtsbijstand,21,main
+2005-01-01,law,stb-2004-300,invorderingswet-1990 wet-op-de-identificatieplicht wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers wet-personenvervoer-2000,29,main
+2005-01-01,law,stb-2004-311,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2005-01-01,law,stb-2004-325,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-sociale-werkvoorziening,14,main
+2005-01-01,law,stb-2004-324,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-arbeid-en-zorg,21,main
+2005-01-01,law,stb-2004-354,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,15,main
+2005-01-01,law,stb-2004-493,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen ambtenarenwet-2017 wet-op-het-primair-onderwijs wet-op-de-expertisecentra wet-personenvervoer-2000,11,main
+2005-01-01,law,stb-2004-594,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen,5,main
+2005-01-01,law,stcrt-2004-244,wet-op-de-rechtsbijstand,2,main
+2005-01-01,law,stb-2004-672,invorderingswet-1990,2,main
+2005-01-01,law,stb-2004-653,invorderingswet-1990,3,main
+2005-01-01,law,stb-2004-654,invorderingswet-1990,4,main
+2005-01-01,law,stcrt-2004-249,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,3,main
+2005-01-01,law,stb-2004-713,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,2,main
+2005-01-01,law,stb-2004-717,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-arbeid-en-zorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,14,main
+2005-01-01,law,stb-2004-720,wet-op-de-arbeidsongeschiktheidsverzekering,8,main
+2005-01-01,law,stb-2004-728,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet algemene-kinderbijslagwet,13,main
+2005-02-01,law,stb-2004-465,beginselenwet-justitiele-jeugdinrichtingen,2,main
+2005-02-01,law,stb-2004-626,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,17,main
+2005-02-01,law,stb-2005-16,wet-op-de-rechtsbijstand,1,main
+2005-02-04,law,stb-2005-40,wet-luchtvaart,1,main
+2005-02-14,law,stb-2004-519,archiefwet-1995,1,main
+2005-02-25,law,stb-2003-449,kernenergiewet,1,main
+2005-03-01,law,stb-2004-657,invorderingswet-1990,1,main
+2005-03-01,law,stb-2005-32,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek kadasterwet,152,main
+2005-03-02,law,stb-2005-32,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,2,main
+2005-03-02,law,stb-2005-90,wet-op-de-rechtsbijstand,13,main
+2005-03-04,law,stb-2005-21,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen,4,main
+2005-03-15,law,stb-2005-71,wet-nationale-ombudsman,28,main
+2005-03-16,law,stb-2004-686,wet-luchtvaart,3,main
+2005-03-16,law,stb-2005-28,wet-personenvervoer-2000,10,main
+2005-03-16,unexplained,,wet-personenvervoer-2000,1,main
+2005-04-01,law,stb-2005-2,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2005-04-06,law,stb-2003-24,wet-luchtvaart,1,main
+2005-04-15,law,stb-2005-192,algemene-nabestaandenwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,4,main
+2005-04-27,law,stb-2005-203,wet-educatie-en-beroepsonderwijs,13,main
+2005-05-01,law,stb-2003-24,wet-luchtvaart,16,main
+2005-05-01,law,stb-2005-222,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,4,main
+2005-05-05,unexplained,,toeslagenwet,1,main
+2005-05-11,law,stcrt-2005-87,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,2,main
+2005-05-20,law,stb-2005-164,wet-personenvervoer-2000,3,main
+2005-05-25,law,stb-2004-717,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen,2,main
+2005-06-01,law,stb-2005-227,invorderingswet-1990,1,main
+2005-06-01,law,stb-2005-250,burgerlijk-wetboek-boek-8,71,main
+2005-06-01,law,stb-2005-274,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeid-en-zorg,41,main
+2005-06-30,law,stb-2005-317,wet-op-de-ondernemingsraden,1,main
+2005-07-01,law,stb-2005-172,wet-personenvervoer-2000,12,main
+2005-07-01,law,stb-2005-194,wet-justitiele-en-strafvorderlijke-gegevens beginselenwet-justitiele-jeugdinrichtingen,23,main
+2005-07-01,law,stb-2005-202,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering,3,main
+2005-07-01,law,stb-2005-282,wet-gemeenschappelijke-regelingen kernenergiewet,7,main
+2005-07-08,law,stb-2005-341,archiefwet-1995,1,main
+2005-07-29,law,stb-2005-382,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten,10,main
+2005-08-01,law,stb-2005-124,wet-educatie-en-beroepsonderwijs,1,main
+2005-08-01,law,stb-2005-234,wet-op-de-rechtsbijstand,1,main
+2005-08-03,law,stb-2005-276,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,51,main
+2005-09-01,start,,algemene-wet-inkomensafhankelijke-regelingen,53,main
+2005-09-01,law,stb-2004-324,wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen,12,main
+2005-09-01,law,stb-2005-65,wet-op-de-arbeidsongeschiktheidsverzekering,7,main
+2005-09-01,law,stb-2005-107,kadasterwet burgerlijk-wetboek-boek-8,94,main
+2005-09-01,law,stb-2005-276,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,4,main
+2005-09-01,law,stb-2005-345,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,2,main
+2005-09-01,unexplained,,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2005-09-09,law,stb-2005-434,wet-sociale-werkvoorziening,4,main
+2005-10-15,law,stb-2005-455,kadasterwet,1,main
+2005-12-02,law,stb-2005-603,invorderingswet-1990,4,main
+2005-12-09,start,,wet-financiering-sociale-verzekeringen,3,main
+2005-12-09,law,stb-2005-573,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen,1,main
+2005-12-14,law,stb-2005-624,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen,3,main
+2005-12-14,unexplained,,wet-arbeidsongeschiktheidsverzekering-zelfstandigen,1,main
+2005-12-20,unexplained,,wet-arbeidsongeschiktheidsverzekering-zelfstandigen,1,main
+2005-12-28,law,stb-2005-276,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2005-12-28,law,stb-2005-705,kernenergiewet,4,main
+2005-12-28,law,stb-2005-710,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-financiering-sociale-verzekeringen,2,main
+2005-12-29,law,stb-2005-573,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-arbeid-en-zorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers wet-arbeidsongeschiktheidsvoorziening-militairen wet-op-het-primair-onderwijs toeslagenwet,115,main
+2005-12-29,law,stb-2005-710,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen algemene-kinderbijslagwet toeslagenwet,46,main
+2005-12-29,law,stb-2005-708,wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet algemene-kinderbijslagwet,3,main
+2005-12-29,unexplained,,wet-op-de-arbeidsongeschiktheidsverzekering,2,main
+2005-12-30,law,stb-2005-697,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,27,main
+2006-01-01,start,,wet-verplichte-beroepspensioenregeling,124,main
+2006-01-01,law,stb-2004-311,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeid-en-zorg wet-arbeidsongeschiktheidsvoorziening-militairen,4,main
+2006-01-01,law,stb-2004-653,invorderingswet-1990,1,main
+2006-01-01,law,stb-2005-36,wet-financiering-sociale-verzekeringen,75,main
+2006-01-01,law,stb-2005-37,invorderingswet-1990 wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-arbeid-en-zorg wet-arbeidsongeschiktheidsvoorziening-militairen toeslagenwet,65,main
+2006-01-01,law,stb-2005-71,wet-gemeenschappelijke-regelingen wet-nationale-ombudsman,4,main
+2006-01-01,law,stb-2005-115,wet-arbeid-en-zorg,2,main
+2006-01-01,law,stb-2005-276,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,20,main
+2006-01-01,law,stb-2005-339,wet-op-het-consumentenkrediet,47,main
+2006-01-01,law,stb-2005-512,wet-educatie-en-beroepsonderwijs,2,main
+2006-01-01,law,stb-2005-525,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-arbeid-en-zorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers ambtenarenwet-2017 toeslagenwet,41,main
+2006-01-01,law,stb-2005-571,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2006-01-01,law,stb-2005-573,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering wet-financiering-sociale-verzekeringen wet-op-de-ondernemingsraden,30,main
+2006-01-01,law,stcrt-2005-228,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2006-01-01,law,stb-2005-625,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,2,main
+2006-01-01,law,stb-2005-666,wet-gemeenschappelijke-regelingen wet-personenvervoer-2000,24,main
+2006-01-01,law,stb-2005-668,wet-gemeenschappelijke-regelingen,45,main
+2006-01-01,law,stcrt-2005-249,algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,4,main
+2006-01-01,law,stcrt-2005-250,wet-op-de-rechtsbijstand,2,main
+2006-01-01,law,stcrt-2005-251,algemene-wet-inkomensafhankelijke-regelingen,1,main
+2006-01-01,law,stb-2005-683,invorderingswet-1990 wet-financiering-sociale-verzekeringen wet-arbeid-en-zorg,6,main
+2006-01-01,law,stb-2005-691,algemene-wet-inkomensafhankelijke-regelingen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,20,main
+2006-01-01,law,stb-2005-710,wet-financiering-sociale-verzekeringen,13,main
+2006-01-01,law,stb-2005-708,invorderingswet-1990 wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-minimumloon-en-minimumvakantiebijslag algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-arbeid-en-zorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers wet-op-de-ondernemingsraden toeslagenwet,58,main
+2006-01-01,law,stb-2005-713,algemene-nabestaandenwet wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten,6,main
+2006-01-01,law,stb-2005-697,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2006-01-01,law,stb-2005-718,wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet algemene-kinderbijslagwet,4,main
+2006-01-01,unexplained,,wet-arbeidsongeschiktheidsverzekering-zelfstandigen,1,main
+2006-01-01,unexplained,,wet-gemeenschappelijke-regelingen,24,main
+2006-01-01,unexplained,,wet-op-het-consumentenkrediet,1,main
+2006-01-01,unexplained,,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,32,main
+2006-02-01,law,stb-2001-681,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,5,main
+2006-02-01,law,stb-2004-17,wet-op-het-primair-onderwijs,2,main
+2006-02-01,law,stb-2005-678,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,2,main
+2006-02-01,law,stb-2006-11,kernenergiewet,1,main
+2006-02-01,law,stb-2006-26,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-op-de-rechtsbijstand,2,main
+2006-02-01,law,stb-2006-24,wet-op-de-identificatieplicht wet-justitiele-en-strafvorderlijke-gegevens kadasterwet burgerlijk-wetboek-boek-8 beginselenwet-justitiele-jeugdinrichtingen,10,main
+2006-02-08,law,stb-2006-51,wet-verplichte-beroepspensioenregeling,29,main
+2006-02-10,law,stb-2005-423,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,68,main
+2006-03-01,law,stb-2005-617,wet-op-de-rechtsbijstand,1,main
+2006-03-01,law,stb-2005-695,ambtenarenwet-2017,8,main
+2006-03-08,law,stb-2005-530,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-educatie-en-beroepsonderwijs wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers archiefwet-1995 kernenergiewet wet-op-het-primair-onderwijs wet-op-de-expertisecentra wet-luchtvaart wet-sociale-werkvoorziening,70,main
+2006-03-08,law,stb-2005-532,archiefwet-1995 wet-personenvervoer-2000,2,main
+2006-03-08,law,stb-2005-697,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,4,main
+2006-03-08,law,stb-2006-128,wet-educatie-en-beroepsonderwijs,8,main
+2006-03-22,law,stb-2005-475,wet-op-het-primair-onderwijs,2,main
+2006-04-01,law,stb-2003-502,wet-op-de-rechtsbijstand,1,main
+2006-04-01,law,stb-2006-9,wet-op-de-rechtsbijstand,19,main
+2006-04-01,law,stb-2006-24,wet-op-de-rechtsbijstand,1,main
+2006-04-01,law,stb-2006-167,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,2,main
+2006-04-26,law,stb-2004-271,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,4,main
+2006-05-10,law,stb-2006-223,wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten,3,main
+2006-06-01,law,stb-2006-121,burgerlijk-wetboek-boek-8,1,main
+2006-06-21,law,stb-2003-287,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2006-06-28,law,stb-2006-288,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,4,main
+2006-07-01,law,stb-2006-222,wet-personenvervoer-2000,9,main
+2006-07-01,law,stcrt-2006-105,algemene-kinderbijslagwet,1,main
+2006-07-01,law,stcrt-2006-117,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2006-07-01,law,stb-2006-303,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-financiering-sociale-verzekeringen,2,main
+2006-07-01,law,stcrt-2006-125,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,2,main
+2006-07-19,law,stb-2006-331,wet-luchtvaart,23,main
+2006-07-19,law,stb-2006-325,burgerlijk-wetboek-boek-8,3,main
+2006-08-01,law,stb-2003-49,wet-op-het-primair-onderwijs,4,main
+2006-08-01,law,stb-2004-344,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,62,main
+2006-08-01,law,stb-2005-15,wet-educatie-en-beroepsonderwijs,2,main
+2006-08-01,law,stb-2005-698,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,4,main
+2006-08-01,law,stb-2006-128,wet-educatie-en-beroepsonderwijs,1,main
+2006-08-01,law,stb-2006-288,wet-educatie-en-beroepsonderwijs,7,main
+2006-08-01,law,stb-2006-291,wet-op-het-primair-onderwijs,1,main
+2006-08-01,law,stb-2006-297,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,19,main
+2006-08-01,law,stb-2006-329,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,4,main
+2006-08-01,law,stb-2006-340,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,25,main
+2006-08-02,law,stb-2006-359,wet-luchtvaart,22,main
+2006-08-18,law,stb-2005-683,invorderingswet-1990,1,main
+2006-09-01,law,stb-2005-276,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2006-09-01,law,stb-2006-286,wet-op-de-ondernemingsraden,2,main
+2006-09-01,law,stb-2006-334,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,3,main
+2006-09-01,unexplained,,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2006-09-20,law,stb-2006-259,wet-personenvervoer-2000,3,main
+2006-10-01,start,stb-2006-415,wet-marktordening-gezondheidszorg,130,main
+2006-10-01,law,stb-2006-303,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-financiering-sociale-verzekeringen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,7,main
+2006-10-01,law,stb-2006-415,wet-financiering-sociale-verzekeringen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers ambtenarenwet-2017,10,main
+2006-10-01,law,stb-2006-427,algemene-kinderbijslagwet,1,main
+2006-11-29,law,stb-2006-359,wet-luchtvaart,2,main
+2006-11-29,law,stb-2006-576,wet-luchtvaart,10,main
+2006-12-01,law,stb-2006-550,burgerlijk-wetboek-boek-8,74,main
+2006-12-13,law,stb-2006-593,algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen kernenergiewet wet-op-de-rechtsbijstand,6,main
+2006-12-13,law,stb-2006-633,wet-luchtvaart,2,main
+2006-12-13,law,stb-2006-636,wet-luchtvaart,4,main
+2006-12-20,law,stb-2006-647,wet-verplichte-beroepspensioenregeling wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-2000 ambtenarenwet-2017,14,main
+2006-12-21,law,stb-2001-681,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,3,main
+2006-12-21,law,stb-2006-288,wet-op-de-expertisecentra,1,main
+2006-12-23,law,stb-2006-703,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen,12,main
+2006-12-23,law,stb-2006-697,wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet,2,main
+2006-12-29,law,stb-2006-591,wet-marktordening-gezondheidszorg,1,main
+2007-01-01,start,,pensioenwet,198,main
+2007-01-01,law,stb-2005-172,wet-personenvervoer-2000,1,main
+2007-01-01,law,stcrt-2006-218,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2007-01-01,law,stcrt-2006-225,wet-op-de-rechtsbijstand,2,main
+2007-01-01,law,stb-2006-559,algemene-nabestaandenwet wet-financiering-sociale-verzekeringen,4,main
+2007-01-01,law,stb-2006-590,wet-op-het-primair-onderwijs,3,main
+2007-01-01,law,stb-2006-605,invorderingswet-1990 wet-marktordening-gezondheidszorg,5,main
+2007-01-01,law,stb-2006-625,wet-educatie-en-beroepsonderwijs wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,22,main
+2007-01-01,law,stb-2006-642,wet-personenvervoer-2000,26,main
+2007-01-01,law,stb-2006-644,algemene-nabestaandenwet wet-financiering-sociale-verzekeringen wet-marktordening-gezondheidszorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,7,main
+2007-01-01,law,stb-2006-666,kadasterwet,1,main
+2007-01-01,law,stcrt-2006-248,algemene-kinderbijslagwet,1,main
+2007-01-01,law,stb-2006-673,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering wet-financiering-sociale-verzekeringen wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-op-de-ondernemingsraden,6,main
+2007-01-01,law,stb-2006-703,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen algemene-wet-inkomensafhankelijke-regelingen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,36,main
+2007-01-01,law,stb-2006-706,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-2000,10,main
+2007-01-01,law,stb-2006-681,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen,5,main
+2007-01-01,law,stb-2006-682,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering wet-financiering-sociale-verzekeringen,3,main
+2007-01-01,law,stcrt-2006-250,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,3,main
+2007-01-01,law,stb-2006-712,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,2,main
+2007-01-01,law,stcrt-2006-252,algemene-wet-inkomensafhankelijke-regelingen,1,main
+2007-01-01,law,stb-2006-708,wet-verplichte-beroepspensioenregeling,216,main
+2007-01-01,unexplained,,wet-personenvervoer-2000,5,main
+2007-01-01,unexplained,,wet-verplichte-beroepspensioenregeling,22,main
+2007-02-01,start,stb-2006-587,kaderwet-zelfstandige-bestuursorganen,46,main
+2007-02-01,law,stb-2004-493,ambtenarenwet-2017,1,main
+2007-02-01,law,stb-2007-16,kadasterwet,1,main
+2007-02-01,law,stb-2007-28,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-op-de-rechtsbijstand,2,main
+2007-02-02,law,stb-2003-448,wet-luchtvaart,1,main
+2007-02-02,law,stb-2006-246,wet-luchtvaart,6,main
+2007-04-01,law,stb-2006-632,wet-op-de-ondernemingsraden,3,main
+2007-05-01,law,stb-2006-303,wet-financiering-sociale-verzekeringen,1,main
+2007-05-01,law,stb-2006-703,wet-financiering-sociale-verzekeringen,1,main
+2007-05-04,law,stb-2007-98,wet-minimumloon-en-minimumvakantiebijslag,21,main
+2007-05-11,law,stb-2007-168,wet-nationale-ombudsman,1,main
+2007-06-13,law,stb-2007-198,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,3,main
+2007-07-01,start,,geneesmiddelenwet,135,main
+2007-07-01,law,stb-2007-115,kadasterwet,3,main
+2007-07-01,law,stcrt-2007-97,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2007-07-01,law,stcrt-2007-120,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,2,main
+2007-07-01,law,stcrt-2007-123,algemene-kinderbijslagwet,1,main
+2007-07-01,unexplained,,wet-op-de-arbeidsongeschiktheidsverzekering,1,main
+2007-07-18,law,stb-2007-254,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs,7,main
+2007-07-20,law,stb-2007-254,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,7,main
+2007-08-01,law,stb-2006-288,wet-educatie-en-beroepsonderwijs,4,main
+2007-08-01,law,stb-2007-23,wet-educatie-en-beroepsonderwijs,19,main
+2007-08-31,law,stb-2007-298,wet-op-het-primair-onderwijs,1,main
+2007-09-01,law,stb-2007-254,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,4,main
+2007-09-01,unexplained,,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2007-10-02,law,stb-2001-681,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,2,main
+2007-10-02,law,stb-2006-288,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,6,main
+2007-11-01,law,stb-2007-406,invorderingswet-1990,1,main
+2007-11-03,law,stb-2007-418,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen algemene-wet-inkomensafhankelijke-regelingen,3,main
+2007-11-26,start,stb-2007-288,wet-algemene-bepalingen-burgerservicenummer,27,main
+2007-11-26,law,stb-2006-706,pensioenwet,1,main
+2007-12-21,law,stb-2007-530,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs kadasterwet wet-op-het-primair-onderwijs wet-op-de-expertisecentra wet-luchtvaart,17,main
+2007-12-21,law,stb-2007-540,wet-marktordening-gezondheidszorg,3,main
+2007-12-28,law,stb-2007-567,wet-op-de-arbeidsongeschiktheidsverzekering wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen,19,main
+2008-01-01,start,,handelsregisterwet-2007,2,main
+2008-01-01,law,stb-2006-606,kernenergiewet,1,main
+2008-01-01,law,stb-2006-705,pensioenwet,25,main
+2008-01-01,law,stb-2006-706,pensioenwet wet-verplichte-beroepspensioenregeling,15,main
+2008-01-01,law,stb-2006-708,wet-verplichte-beroepspensioenregeling,15,main
+2008-01-01,law,stb-2007-105,kadasterwet,80,main
+2008-01-01,law,stb-2007-192,wet-op-het-consumentenkrediet,1,main
+2008-01-01,law,stb-2007-254,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2008-01-01,law,stb-2007-302,toeslagenwet,5,main
+2008-01-01,law,stb-2007-300,wet-justitiele-en-strafvorderlijke-gegevens,6,main
+2008-01-01,law,stb-2007-376,invorderingswet-1990 wet-financiering-sociale-verzekeringen algemene-wet-inkomensafhankelijke-regelingen,11,main
+2008-01-01,law,stcrt-2007-207,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2008-01-01,law,stb-2007-445,wet-op-de-expertisecentra,16,main
+2008-01-01,law,stcrt-2007-234,wet-op-de-rechtsbijstand,2,main
+2008-01-01,law,stb-2007-490,wet-marktordening-gezondheidszorg,2,main
+2008-01-01,law,stb-2007-503,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen,6,main
+2008-01-01,law,stcrt-2007-245,pensioenwet wet-verplichte-beroepspensioenregeling,2,main
+2008-01-01,law,stb-2007-551,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-minimumloon-en-minimumvakantiebijslag algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-arbeid-en-zorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet wet-sociale-werkvoorziening,99,main
+2008-01-01,law,stb-2007-555,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,33,main
+2008-01-01,law,stb-2007-557,wet-op-de-arbeidsongeschiktheidsverzekering wet-financiering-sociale-verzekeringen,24,main
+2008-01-01,law,stcrt-2007-249,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,3,main
+2008-01-01,law,stb-2007-562,invorderingswet-1990,1,main
+2008-01-01,law,stb-2007-563,algemene-wet-inkomensafhankelijke-regelingen,2,main
+2008-01-01,law,stb-2007-564,wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers wet-sociale-werkvoorziening,35,main
+2008-01-01,law,stb-2007-567,wet-financiering-sociale-verzekeringen,1,main
+2008-01-01,law,stcrt-2007-251,algemene-wet-inkomensafhankelijke-regelingen,1,main
+2008-01-01,law,stb-2007-577,invorderingswet-1990,3,main
+2008-01-01,law,stb-2007-578,beginselenwet-justitiele-jeugdinrichtingen,9,main
+2008-01-01,unexplained,,toeslagenwet,1,main
+2008-01-01,unexplained,,wet-verplichte-beroepspensioenregeling,1,main
+2008-02-01,law,stb-2006-24,wet-justitiele-en-strafvorderlijke-gegevens,2,main
+2008-02-01,law,stb-2006-330,wet-justitiele-en-strafvorderlijke-gegevens,3,main
+2008-02-01,law,stb-2008-20,wet-op-de-rechtsbijstand,1,main
+2008-02-27,law,stb-2008-51,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,4,main
+2008-03-26,law,stb-2008-85,wet-justitiele-en-strafvorderlijke-gegevens beginselenwet-justitiele-jeugdinrichtingen wet-op-de-rechtsbijstand,5,main
+2008-04-01,law,stb-2008-95,wet-op-het-consumentenkrediet,1,main
+2008-04-30,law,stb-2008-140,wet-educatie-en-beroepsonderwijs,4,main
+2008-05-01,law,stb-2001-625,wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen algemene-kinderbijslagwet toeslagenwet,6,main
+2008-05-28,law,stb-2007-405,wet-luchtvaart,32,main
+2008-05-28,law,stb-2008-130,wet-luchtvaart,19,main
+2008-06-04,law,stb-2008-192,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeid-en-zorg,9,main
+2008-06-11,law,stb-2008-193,wet-luchtvaart,1,main
+2008-06-13,law,stb-2008-199,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen,6,main
+2008-06-13,law,stb-2008-204,wet-educatie-en-beroepsonderwijs,16,main
+2008-06-13,law,stb-2008-197,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen kadasterwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers kernenergiewet wet-luchtvaart,10,main
+2008-06-13,unexplained,,wet-educatie-en-beroepsonderwijs,1,main
+2008-06-25,law,stb-2007-254,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,2,main
+2008-07-01,law,stb-2007-153,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen handelsregisterwet-2007 wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,70,main
+2008-07-01,law,stb-2007-459,handelsregisterwet-2007,2,main
+2008-07-01,law,stb-2008-95,handelsregisterwet-2007,2,main
+2008-07-01,law,stcrt-2008-99,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2008-07-01,law,stb-2008-180,wet-luchtvaart,5,main
+2008-07-01,law,stcrt-2008-117,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,2,main
+2008-07-01,law,stcrt-2008-122,algemene-kinderbijslagwet,1,main
+2008-07-11,law,stb-2008-262,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen,9,main
+2008-07-16,law,stb-2008-271,wet-marktordening-gezondheidszorg,2,main
+2008-07-18,law,stb-2008-284,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,2,main
+2008-07-19,law,stb-1999-235,wet-luchtvaart,7,main
+2008-07-19,law,stb-2003-24,wet-luchtvaart,1,main
+2008-08-01,start,,algemene-douanewet,116,main
+2008-08-01,law,stb-2006-706,pensioenwet,1,main
+2008-08-01,law,stb-2007-445,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,10,main
+2008-08-01,law,stb-2008-112,invorderingswet-1990 geneesmiddelenwet wet-luchtvaart,8,main
+2008-08-01,law,stb-2008-140,wet-educatie-en-beroepsonderwijs,1,main
+2008-08-01,law,stb-2008-202,wet-educatie-en-beroepsonderwijs,7,main
+2008-08-01,law,stb-2008-267,wet-educatie-en-beroepsonderwijs,68,main
+2008-08-01,law,stb-2008-296,wet-educatie-en-beroepsonderwijs,4,main
+2008-08-01,law,stb-2008-303,invorderingswet-1990,1,main
+2008-08-01,law,stb-2008-312,wet-gemeenschappelijke-regelingen wet-educatie-en-beroepsonderwijs wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers wet-op-de-expertisecentra wet-sociale-werkvoorziening,15,main
+2008-08-01,law,stb-2008-314,pensioenwet wet-verplichte-beroepspensioenregeling wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-2000,105,main
+2008-09-01,law,stb-2008-100,invorderingswet-1990 wet-gemeenschappelijke-regelingen wet-op-het-consumentenkrediet wet-nationale-ombudsman wet-op-de-rechtsbijstand,6,main
+2008-09-01,law,stb-2008-224,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2008-10-01,law,stb-2008-203,wet-educatie-en-beroepsonderwijs,1,main
+2008-10-22,law,stb-2008-387,wet-educatie-en-beroepsonderwijs archiefwet-1995 wet-op-het-primair-onderwijs wet-op-de-expertisecentra,32,main
+2008-11-01,law,stb-2008-414,wet-op-de-arbeidsongeschiktheidsverzekering wet-financiering-sociale-verzekeringen,5,main
+2008-11-26,law,stb-2008-478,kernenergiewet,4,main
+2008-12-01,start,stb-2008-460,wet-publieke-gezondheid,77,main
+2008-12-19,law,stb-2008-510,wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-arbeid-en-zorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,15,main
+2008-12-30,law,stb-2008-567,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen algemene-douanewet,11,main
+2009-01-01,law,stb-2006-705,pensioenwet,3,main
+2009-01-01,law,stb-2006-706,wet-verplichte-beroepspensioenregeling,1,main
+2009-01-01,law,stb-2006-708,wet-verplichte-beroepspensioenregeling,1,main
+2009-01-01,law,stb-2007-563,wet-financiering-sociale-verzekeringen,1,main
+2009-01-01,law,stb-2008-269,algemene-wet-inkomensafhankelijke-regelingen,4,main
+2009-01-01,law,stb-2008-314,wet-verplichte-beroepspensioenregeling,1,main
+2009-01-01,law,stb-2008-421,wet-op-de-rechtsbijstand,1,main
+2009-01-01,law,stcrt-2008-227,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2009-01-01,law,stb-2008-498,geneesmiddelenwet,5,main
+2009-01-01,law,stb-2008-545,wet-op-het-consumentenkrediet,1,main
+2009-01-01,law,stcrt-2008-246,algemene-kinderbijslagwet wet-op-de-rechtsbijstand,3,main
+2009-01-01,law,stb-2008-569,wet-op-het-primair-onderwijs wet-op-de-rechtsbijstand,8,main
+2009-01-01,law,stcrt-2008-251,pensioenwet wet-verplichte-beroepspensioenregeling,2,main
+2009-01-01,law,stb-2008-565,invorderingswet-1990 wet-arbeid-en-zorg,3,main
+2009-01-01,law,stb-2008-566,algemene-wet-inkomensafhankelijke-regelingen,3,main
+2009-01-01,law,stcrt-2008-252,algemene-wet-inkomensafhankelijke-regelingen,1,main
+2009-01-01,law,stb-2008-588,wet-educatie-en-beroepsonderwijs,11,main
+2009-01-01,law,stb-2008-590,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen,11,main
+2009-01-01,law,stb-2008-595,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,6,main
+2009-01-01,law,stb-2008-598,wet-op-de-arbeidsongeschiktheidsverzekering wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen,18,main
+2009-01-01,law,stb-2008-600,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen handelsregisterwet-2007 wet-op-de-arbeidsongeschiktheidsverzekering wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-arbeid-en-zorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers ambtenarenwet-2017 toeslagenwet wet-sociale-werkvoorziening,157,main
+2009-01-01,law,stb-2008-606,wet-marktordening-gezondheidszorg,1,main
+2009-01-01,law,stb-2008-603,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsverzekering-zelfstandigen,2,main
+2009-01-01,law,stcrt-2008-253,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,3,main
+2009-01-01,unexplained,,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen,1,main
+2009-01-01,unexplained,,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,1,main
+2009-01-01,unexplained,,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen,2,main
+2009-02-01,law,stb-2009-25,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-op-de-rechtsbijstand,2,main
+2009-02-13,law,stb-2008-494,wet-nationale-ombudsman,2,main
+2009-03-01,law,stb-2007-254,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,2,main
+2009-03-25,law,stb-2009-108,invorderingswet-1990 wet-algemene-bepalingen-burgerservicenummer wet-financiering-sociale-verzekeringen pensioenwet wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-verplichte-beroepspensioenregeling wet-educatie-en-beroepsonderwijs algemene-wet-inkomensafhankelijke-regelingen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers wet-op-het-primair-onderwijs wet-op-de-expertisecentra wet-op-de-rechtsbijstand wet-sociale-werkvoorziening,36,main
+2009-04-01,law,stb-2008-590,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,2,main
+2009-04-01,law,stb-2009-155,burgerlijk-wetboek-boek-8,4,main
+2009-04-01,law,stb-2009-151,wet-educatie-en-beroepsonderwijs,10,main
+2009-04-15,law,stb-2009-169,wet-gemeenschappelijke-regelingen,4,main
+2009-07-01,law,stb-2008-85,wet-op-de-rechtsbijstand,2,main
+2009-07-01,law,stb-2008-569,wet-op-de-rechtsbijstand,1,main
+2009-07-01,law,stb-2009-4,wet-op-de-rechtsbijstand,38,main
+2009-07-01,law,stb-2009-109,wet-op-de-ondernemingsraden,1,main
+2009-07-01,law,stb-2009-110,kadasterwet,2,main
+2009-07-01,law,stcrt-2009-103,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2009-07-01,law,stcrt-2009-117,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,2,main
+2009-07-01,law,stb-2009-265,invorderingswet-1990 wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen pensioenwet wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-verplichte-beroepspensioenregeling wet-minimumloon-en-minimumvakantiebijslag wet-educatie-en-beroepsonderwijs algemene-wet-inkomensafhankelijke-regelingen wet-marktordening-gezondheidszorg algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen kadasterwet wet-arbeid-en-zorg geneesmiddelenwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers archiefwet-1995 wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-2000 algemene-douanewet ambtenarenwet-2017 kernenergiewet wet-op-het-primair-onderwijs wet-op-de-expertisecentra toeslagenwet wet-luchtvaart wet-personenvervoer-2000,314,main
+2009-07-01,law,stb-2009-269,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen,1,main
+2009-07-08,law,stb-2009-287,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen,2,main
+2009-07-15,law,stb-2009-297,kadasterwet kernenergiewet,5,main
+2009-07-16,law,stb-2009-304,invorderingswet-1990,2,main
+2009-07-28,law,stb-2009-318,wet-financiering-sociale-verzekeringen pensioenwet wet-verplichte-beroepspensioenregeling wet-arbeid-en-zorg,14,main
+2009-08-01,law,stb-2002-631,wet-op-de-expertisecentra,1,main
+2009-08-01,law,stb-2009-289,wet-educatie-en-beroepsonderwijs,5,main
+2009-08-01,law,stb-2009-318,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen pensioenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-verplichte-beroepspensioenregeling wet-minimumloon-en-minimumvakantiebijslag algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-arbeid-en-zorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-2000 wet-op-de-ondernemingsraden toeslagenwet,62,main
+2009-08-01,law,stb-2009-334,wet-educatie-en-beroepsonderwijs,8,main
+2009-08-01,law,stb-2009-327,pensioenwet wet-verplichte-beroepspensioenregeling wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-2000,6,main
+2009-08-01,unexplained,,wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-2000,1,main
+2009-08-29,law,stb-2009-361,wet-publieke-gezondheid,1,main
+2009-09-01,law,stb-2009-246,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2009-10-01,law,stb-2001-681,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2009-10-01,law,stb-2006-288,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,3,main
+2009-10-01,law,stb-2008-112,algemene-douanewet,1,main
+2009-10-01,law,stb-2009-93,wet-educatie-en-beroepsonderwijs,1,main
+2009-10-01,law,stb-2009-108,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2009-10-01,law,stb-2009-282,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers wet-op-het-consumentenkrediet wet-arbeidsongeschiktheidsvoorziening-militairen toeslagenwet,19,main
+2009-10-01,law,stb-2009-385,wet-justitiele-en-strafvorderlijke-gegevens,2,main
+2009-10-01,law,stb-2009-384,wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-educatie-en-beroepsonderwijs algemene-kinderbijslagwet wet-op-het-primair-onderwijs wet-op-de-expertisecentra toeslagenwet wet-sociale-werkvoorziening,13,main
+2009-10-15,law,stb-2009-336,wet-personenvervoer-2000,1,main
+2009-11-01,law,stb-2007-376,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen,2,main
+2009-11-01,law,stb-2008-561,wet-luchtvaart,121,main
+2009-11-01,law,stb-2009-265,wet-luchtvaart,3,main
+2009-11-04,law,stb-2009-440,algemene-douanewet,1,main
+2009-11-27,law,stb-2009-486,ambtenarenwet-2017,1,main
+2009-12-01,law,stb-2009-390,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,17,main
+2009-12-07,start,,dienstenwet,17,main
+2009-12-07,law,stcrt-2009-18729,wet-op-de-rechtsbijstand,1,main
+2009-12-09,law,stb-2009-512,handelsregisterwet-2007,1,main
+2009-12-16,law,stb-2009-503,dienstenwet,13,main
+2009-12-16,law,stb-2009-530,wet-luchtvaart,3,main
+2009-12-22,law,stb-2009-489,algemene-douanewet,1,main
+2009-12-22,law,stb-2009-542,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen algemene-kinderbijslagwet,8,main
+2009-12-23,law,stb-1998-687,burgerlijk-wetboek-boek-8,1,main
+2009-12-28,law,stb-2009-503,dienstenwet,43,main
+2009-12-28,law,stb-2009-616,handelsregisterwet-2007 dienstenwet,8,main
+2009-12-31,law,stcrt-2009-20547,toeslagenwet,2,main
+2010-01-01,law,stb-2007-105,kadasterwet,1,main
+2010-01-01,law,stb-2007-578,beginselenwet-justitiele-jeugdinrichtingen,1,main
+2010-01-01,law,stb-2008-63,wet-personenvervoer-2000,5,main
+2010-01-01,law,stb-2008-566,algemene-wet-inkomensafhankelijke-regelingen,1,main
+2010-01-01,law,stb-2009-287,wet-financiering-sociale-verzekeringen,1,main
+2010-01-01,law,stb-2009-492,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers wet-op-het-primair-onderwijs wet-op-de-expertisecentra,57,main
+2010-01-01,law,stcrt-2009-18656,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2010-01-01,law,stb-2009-546,invorderingswet-1990,1,main
+2010-01-01,law,stcrt-2009-20102,pensioenwet wet-verplichte-beroepspensioenregeling,2,main
+2010-01-01,law,stb-2009-564,invorderingswet-1990,4,main
+2010-01-01,law,stb-2009-575,wet-educatie-en-beroepsonderwijs,4,main
+2010-01-01,law,stcrt-2009-19781,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,3,main
+2010-01-01,law,stb-2009-609,invorderingswet-1990 wet-financiering-sociale-verzekeringen algemene-douanewet,11,main
+2010-01-01,law,stb-2009-610,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen algemene-douanewet,4,main
+2010-01-01,law,stb-2009-611,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen,3,main
+2010-01-01,law,stb-2009-612,invorderingswet-1990 wet-financiering-sociale-verzekeringen,4,main
+2010-01-01,law,stb-2009-580,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsverzekering-zelfstandigen algemene-kinderbijslagwet toeslagenwet,25,main
+2010-01-01,law,stb-2009-589,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen,21,main
+2010-01-01,law,stb-2009-592,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,60,main
+2010-01-01,law,stb-2009-596,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,13,main
+2010-01-01,law,stb-2009-582,wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten,163,main
+2010-01-01,law,stcrt-2009-20620,algemene-wet-inkomensafhankelijke-regelingen,1,main
+2010-01-01,unexplained,,algemene-kinderbijslagwet,1,main
+2010-01-01,unexplained,,wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten,99,main
+2010-01-01,unexplained,,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen,1,main
+2010-01-01,unexplained,,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,1,main
+2010-01-30,law,stb-2009-265,wet-luchtvaart,3,main
+2010-01-30,law,stb-2010-26,wet-luchtvaart,6,main
+2010-02-01,law,stb-2006-587,kaderwet-zelfstandige-bestuursorganen,1,main
+2010-02-01,law,stb-2008-595,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,2,main
+2010-02-01,law,stb-2010-24,wet-op-de-rechtsbijstand,1,main
+2010-02-24,law,stb-2010-31,wet-luchtvaart,3,main
+2010-02-27,law,stb-2010-72,ambtenarenwet-2017,1,main
+2010-03-01,law,stb-2010-8,wet-educatie-en-beroepsonderwijs wet-op-de-ondernemingsraden,23,main
+2010-03-03,law,stb-2010-74,algemene-kinderbijslagwet,12,main
+2010-03-31,law,stb-2010-135,wet-luchtvaart,7,main
+2010-04-01,law,stb-2008-561,wet-luchtvaart,1,main
+2010-04-01,law,stb-2009-245,invorderingswet-1990,1,main
+2010-04-01,law,stb-2009-525,wet-justitiele-en-strafvorderlijke-gegevens beginselenwet-justitiele-jeugdinrichtingen,2,main
+2010-04-01,law,stb-2010-74,algemene-nabestaandenwet,3,main
+2010-04-30,law,stb-2010-119,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,9,main
+2010-05-27,law,stb-2010-188,kadasterwet,1,main
+2010-06-11,law,stb-2010-204,pensioenwet,10,main
+2010-06-23,law,stb-2010-228,wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten,4,main
+2010-07-01,law,stb-2008-460,wet-publieke-gezondheid,2,main
+2010-07-01,law,stb-2009-8,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek algemene-wet-op-het-binnentreden ambtenarenwet-2017 wet-personenvervoer-2000,6,main
+2010-07-01,law,stb-2009-592,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,4,main
+2010-07-01,law,stb-2010-2,wet-op-de-rechtsbijstand,53,main
+2010-07-01,law,stb-2010-18,kernenergiewet,17,main
+2010-07-01,law,stb-2010-119,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,6,main
+2010-07-01,law,stcrt-2010-7928,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2010-07-01,law,stb-2010-200,wet-luchtvaart,1,main
+2010-07-01,law,stb-2010-228,wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten,2,main
+2010-07-01,law,stcrt-2010-9818,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,2,main
+2010-07-04,law,stb-2009-610,invorderingswet-1990,1,main
+2010-07-07,law,stb-2010-149,wet-luchtvaart,25,main
+2010-08-01,law,stb-2010-80,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,33,main
+2010-08-01,law,stb-2010-185,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2010-08-01,law,stb-2010-194,wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,6,main
+2010-08-01,law,stb-2010-296,wet-financiering-sociale-verzekeringen wet-op-het-primair-onderwijs,16,main
+2010-09-01,law,stb-2010-119,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-op-de-ondernemingsraden,242,main
+2010-09-01,law,stb-2010-175,ambtenarenwet-2017 wet-op-de-ondernemingsraden wet-op-de-rechtsbijstand,3,main
+2010-10-01,start,,wet-veiligheidsregios,83,main
+2010-10-01,law,stb-2009-317,wet-justitiele-en-strafvorderlijke-gegevens beginselenwet-justitiele-jeugdinrichtingen,6,main
+2010-10-01,law,stb-2010-146,wet-op-de-arbeidsongeschiktheidsverzekering wet-publieke-gezondheid kernenergiewet,38,main
+2010-10-01,law,stb-2010-142,kernenergiewet wet-luchtvaart,11,main
+2010-10-10,law,stb-2010-350,wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet algemene-termijnenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-gemeenschappelijke-regelingen algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers wet-nationale-ombudsman wet-luchtvaart,38,main
+2010-10-10,law,stb-2010-363,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen algemene-douanewet,5,main
+2010-11-01,law,stb-2010-715,beginselenwet-justitiele-jeugdinrichtingen wet-op-de-rechtsbijstand,4,main
+2010-11-16,law,stb-2010-18,kernenergiewet,12,main
+2010-12-06,law,stb-2007-153,handelsregisterwet-2007,1,main
+2010-12-31,law,stb-2007-176,burgerlijk-wetboek-boek-8,1,main
+2011-01-01,law,stb-2009-62,kernenergiewet,5,main
+2011-01-01,law,stb-2009-162,burgerlijk-wetboek-boek-8,3,main
+2011-01-01,law,stb-2009-245,beginselenwet-justitiele-jeugdinrichtingen,1,main
+2011-01-01,law,stb-2009-610,algemene-douanewet,2,main
+2011-01-01,law,stb-2009-611,algemene-wet-inkomensafhankelijke-regelingen,1,main
+2011-01-01,law,stb-2010-119,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,4,main
+2011-01-01,law,stb-2010-208,wet-luchtvaart wet-personenvervoer-2000,4,main
+2011-01-01,law,stb-2010-293,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,38,main
+2011-01-01,law,stcrt-2010-17432,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2011-01-01,law,stb-2010-755,wet-op-het-primair-onderwijs,2,main
+2011-01-01,law,stb-2010-784,burgerlijk-wetboek-boek-8,20,main
+2011-01-01,law,stcrt-2010-20432,wet-op-de-rechtsbijstand,1,main
+2011-01-01,law,stcrt-2010-20442,pensioenwet wet-verplichte-beroepspensioenregeling,2,main
+2011-01-01,law,stb-2010-830,wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten ambtenarenwet-2017,2,main
+2011-01-01,law,stb-2010-840,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen pensioenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-verplichte-beroepspensioenregeling wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet wet-sociale-werkvoorziening,38,main
+2011-01-01,law,stb-2010-838,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen pensioenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-verplichte-beroepspensioenregeling algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-arbeid-en-zorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet wet-sociale-werkvoorziening,69,main
+2011-01-01,law,stb-2010-847,invorderingswet-1990,3,main
+2011-01-01,law,stb-2010-867,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-arbeid-en-zorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,74,main
+2011-01-01,law,stb-2010-871,invorderingswet-1990 wet-financiering-sociale-verzekeringen algemene-wet-inkomensafhankelijke-regelingen algemene-douanewet,6,main
+2011-01-01,law,stb-2010-873,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen,7,main
+2011-01-01,law,stcrt-2010-20600,algemene-wet-inkomensafhankelijke-regelingen,1,main
+2011-01-01,law,stcrt-2010-21363,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,3,main
+2011-01-01,law,stcrt-2010-21445,toeslagenwet,2,main
+2011-01-01,law,stb-2010-887,pensioenwet wet-verplichte-beroepspensioenregeling,29,main
+2011-01-01,law,stb-2010-858,wet-op-de-rechtsbijstand,1,main
+2011-01-01,unexplained,,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,1,main
+2011-01-01,unexplained,,wet-op-de-arbeidsongeschiktheidsverzekering,1,main
+2011-01-01,unexplained,,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,2,main
+2011-01-01,unexplained,,wet-personenvervoer-2000,1,main
+2011-01-01,unexplained,,wet-veiligheidsregios,1,main
+2011-02-11,law,stb-2011-26,pensioenwet wet-verplichte-beroepspensioenregeling,4,main
+2011-02-11,law,stb-2011-27,wet-minimumloon-en-minimumvakantiebijslag,3,main
+2011-02-17,law,stb-2010-350,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,14,main
+2011-02-23,law,stb-2011-4,wet-gemeenschappelijke-regelingen wet-veiligheidsregios,15,main
+2011-04-01,law,stb-2010-18,kernenergiewet,1,main
+2011-04-01,law,stb-2010-716,wet-nationale-ombudsman,9,main
+2011-04-01,law,stb-2011-4,wet-nationale-ombudsman,1,main
+2011-04-01,law,stb-2011-8,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2011-05-25,law,stb-2011-67,wet-luchtvaart,9,main
+2011-05-25,law,stb-2011-246,wet-op-het-consumentenkrediet,12,main
+2011-06-01,law,stb-2011-231,algemene-nabestaandenwet wet-financiering-sociale-verzekeringen,2,main
+2011-06-22,law,stb-2011-292,ambtenarenwet-2017,1,main
+2011-07-01,law,stb-2006-330,invorderingswet-1990,1,main
+2011-07-01,law,stb-2007-153,handelsregisterwet-2007,2,main
+2011-07-01,law,stb-2008-112,invorderingswet-1990 algemene-douanewet,3,main
+2011-07-01,law,stb-2010-280,wet-justitiele-en-strafvorderlijke-gegevens handelsregisterwet-2007,2,main
+2011-07-01,law,stb-2010-818,beginselenwet-justitiele-jeugdinrichtingen,47,main
+2011-07-01,law,stb-2010-838,wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,6,main
+2011-07-01,law,stb-2010-867,wet-financiering-sociale-verzekeringen,2,main
+2011-07-01,law,stb-2011-65,burgerlijk-wetboek-boek-8,3,main
+2011-07-01,law,stb-2011-204,wet-marktordening-gezondheidszorg geneesmiddelenwet,27,main
+2011-07-01,law,stcrt-2011-8513,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2011-07-01,law,stb-2011-265,invorderingswet-1990 algemene-douanewet,2,main
+2011-07-01,law,stcrt-2011-10795,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,3,main
+2011-07-27,law,stb-2011-369,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,16,main
+2011-09-01,law,stb-2010-119,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2011-09-01,law,stb-2011-287,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,15,main
+2011-09-01,law,stb-2011-368,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,17,main
+2011-10-01,law,stb-2011-95,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,33,main
+2011-10-01,law,stb-2011-285,wet-publieke-gezondheid,4,main
+2011-10-01,law,stb-2011-289,wet-personenvervoer-2000,26,main
+2011-10-12,law,stb-2011-218,wet-personenvervoer-2000,4,main
+2011-11-19,law,stb-2011-531,wet-gemeenschappelijke-regelingen,1,main
+2011-11-29,unexplained,,invorderingswet-1990,1,main
+2011-12-08,law,stb-2011-576,algemene-kinderbijslagwet,1,main
+2012-01-01,law,stb-2008-590,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen,7,main
+2012-01-01,law,stb-2009-609,wet-financiering-sociale-verzekeringen,1,main
+2012-01-01,law,stb-2010-867,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten,5,main
+2012-01-01,law,stb-2011-9,algemene-nabestaandenwet wet-minimumloon-en-minimumvakantiebijslag algemene-kinderbijslagwet,5,main
+2012-01-01,law,stb-2011-201,handelsregisterwet-2007 dienstenwet kernenergiewet,7,main
+2012-01-01,law,stb-2011-267,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,10,main
+2012-01-01,law,stb-2011-276,wet-op-de-rechtsbijstand,1,main
+2012-01-01,law,stb-2011-285,wet-publieke-gezondheid wet-veiligheidsregios,9,main
+2012-01-01,law,stb-2011-443,wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,6,main
+2012-01-01,law,stb-2011-456,wet-justitiele-en-strafvorderlijke-gegevens,8,main
+2012-01-01,law,stb-2011-481,wet-financiering-sociale-verzekeringen,5,main
+2012-01-01,law,stb-2011-500,ambtenarenwet-2017,2,main
+2012-01-01,law,stcrt-2011-20082,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2012-01-01,law,stb-2011-528,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-op-de-rechtsbijstand,2,main
+2012-01-01,law,stb-2011-560,wet-educatie-en-beroepsonderwijs,40,main
+2012-01-01,law,stb-2011-562,invorderingswet-1990 algemene-douanewet,6,main
+2012-01-01,law,stb-2011-572,geneesmiddelenwet,43,main
+2012-01-01,law,stb-2011-575,wet-financiering-sociale-verzekeringen,1,main
+2012-01-01,law,stb-2011-595,wet-luchtvaart,5,main
+2012-01-01,law,stb-2011-596,wet-marktordening-gezondheidszorg,25,main
+2012-01-01,law,stcrt-2011-22714,wet-op-de-rechtsbijstand,1,main
+2012-01-01,law,stcrt-2011-22741,pensioenwet wet-verplichte-beroepspensioenregeling,2,main
+2012-01-01,law,stb-2011-618,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-arbeid-en-zorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,57,main
+2012-01-01,law,stb-2011-621,wet-educatie-en-beroepsonderwijs,4,main
+2012-01-01,law,stb-2011-622,pensioenwet wet-verplichte-beroepspensioenregeling,25,main
+2012-01-01,law,stcrt-2011-23515,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,2,main
+2012-01-01,law,stb-2011-647,algemene-nabestaandenwet toeslagenwet,2,main
+2012-01-01,law,stb-2011-640,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen,10,main
+2012-01-01,law,stb-2011-645,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-financiering-sociale-verzekeringen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,4,main
+2012-01-01,law,stb-2011-650,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers wet-op-het-consumentenkrediet wet-arbeidsongeschiktheidsvoorziening-militairen toeslagenwet wet-op-de-rechtsbijstand,29,main
+2012-01-01,law,stb-2011-670,invorderingswet-1990 wet-financiering-sociale-verzekeringen wet-arbeid-en-zorg,5,main
+2012-01-01,law,stcrt-2011-24075,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,2,main
+2012-01-01,law,stcrt-2011-23884,toeslagenwet,2,main
+2012-01-01,law,stcrt-2011-22888,algemene-wet-inkomensafhankelijke-regelingen,1,main
+2012-01-01,unexplained,,algemene-nabestaandenwet,1,main
+2012-02-08,law,stb-2012-19,handelsregisterwet-2007 wet-op-het-consumentenkrediet dienstenwet kernenergiewet,41,main
+2012-03-01,law,stb-2010-867,wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten,1,main
+2012-03-01,law,stb-2012-72,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2012-04-01,law,stb-2011-490,wet-justitiele-en-strafvorderlijke-gegevens,17,main
+2012-04-01,law,stb-2011-618,algemene-nabestaandenwet,2,main
+2012-04-01,law,stb-2012-2,wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,14,main
+2012-04-12,law,stb-2012-152,wet-arbeid-en-zorg,1,main
+2012-04-27,law,stb-2012-173,wet-op-de-ondernemingsraden,1,main
+2012-05-16,law,stb-2012-209,wet-op-het-primair-onderwijs,4,main
+2012-06-06,law,stb-2012-231,wet-luchtvaart wet-personenvervoer-2000,7,main
+2012-06-13,law,stb-2012-245,dienstenwet,4,main
+2012-06-13,unexplained,,dienstenwet,1,main
+2012-07-01,law,stb-2011-647,algemene-nabestaandenwet,1,main
+2012-07-01,law,stb-2011-640,algemene-wet-inkomensafhankelijke-regelingen,3,main
+2012-07-01,law,stb-2012-78,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen,1,main
+2012-07-01,law,stb-2012-118,wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,16,main
+2012-07-01,law,stb-2012-155,beginselenwet-justitiele-jeugdinrichtingen,2,main
+2012-07-01,law,stb-2012-198,algemene-nabestaandenwet algemene-kinderbijslagwet,8,main
+2012-07-01,law,stcrt-2012-9951,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2012-07-01,law,stb-2012-224,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen ambtenarenwet-2017,34,main
+2012-07-01,law,stb-2012-247,pensioenwet wet-verplichte-beroepspensioenregeling,2,main
+2012-07-01,law,stb-2012-267,wet-luchtvaart,1,main
+2012-07-01,law,stcrt-2012-12517,algemene-kinderbijslagwet,1,main
+2012-07-01,law,stcrt-2012-13143,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,4,main
+2012-07-01,law,stcrt-2012-13238,toeslagenwet,2,main
+2012-07-18,law,stb-2012-322,wet-op-het-consumentenkrediet,1,main
+2012-07-25,law,stb-2011-218,wet-personenvervoer-2000,5,main
+2012-07-25,law,stb-2012-340,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2012-07-28,law,stb-2012-358,wet-publieke-gezondheid,19,main
+2012-07-31,law,stcrt-2012-16112,wet-op-de-rechtsbijstand,1,main
+2012-08-01,law,stb-2011-656,wet-educatie-en-beroepsonderwijs,3,main
+2012-08-01,law,stb-2012-22,wet-op-de-expertisecentra,1,main
+2012-08-01,law,stb-2012-157,wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,8,main
+2012-09-01,law,stb-2011-369,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2012-09-01,law,stb-2012-360,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,2,main
+2012-09-01,law,stb-2012-368,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2012-10-01,law,stb-2011-573,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek ambtenarenwet-2017 wet-nationale-ombudsman,8,main
+2012-10-01,law,stb-2012-233,wet-algemene-bepalingen-burgerservicenummer wet-gemeenschappelijke-regelingen wet-publieke-gezondheid archiefwet-1995 ambtenarenwet-2017 wet-op-het-primair-onderwijs wet-luchtvaart wet-sociale-werkvoorziening wet-personenvervoer-2000,27,main
+2012-10-01,law,stb-2012-300,pensioenwet wet-op-de-ondernemingsraden,2,main
+2012-10-01,unexplained,,wet-luchtvaart,1,main
+2012-10-27,law,stb-2012-509,wet-luchtvaart,4,main
+2012-11-01,law,stb-2011-497,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs,4,main
+2012-12-28,law,stb-2012-657,wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-minimumloon-en-minimumvakantiebijslag wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,27,main
+2012-12-31,law,stb-2012-349,burgerlijk-wetboek-boek-8,34,main
+2013-01-01,law,stb-2009-611,algemene-wet-inkomensafhankelijke-regelingen,1,main
+2013-01-01,law,stb-2010-867,algemene-nabestaandenwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,3,main
+2013-01-01,law,stb-2011-288,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-minimumloon-en-minimumvakantiebijslag wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-arbeid-en-zorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,27,main
+2013-01-01,law,stb-2011-442,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers wet-sociale-werkvoorziening,15,main
+2013-01-01,law,stb-2011-561,wet-financiering-sociale-verzekeringen wet-marktordening-gezondheidszorg,16,main
+2013-01-01,law,stb-2011-618,wet-financiering-sociale-verzekeringen,1,main
+2013-01-01,law,stb-2011-622,pensioenwet wet-verplichte-beroepspensioenregeling,7,main
+2013-01-01,law,stb-2011-633,algemene-wet-inkomensafhankelijke-regelingen,2,main
+2013-01-01,law,stb-2011-600,wet-nationale-ombudsman,1,main
+2013-01-01,law,stb-2011-601,algemene-douanewet,2,main
+2013-01-01,law,stb-2011-639,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen,8,main
+2013-01-01,law,stb-2011-640,algemene-wet-inkomensafhankelijke-regelingen,1,main
+2013-01-01,law,stb-2012-208,wet-veiligheidsregios,5,main
+2013-01-01,law,stb-2012-213,wet-personenvervoer-2000,3,main
+2013-01-01,law,stb-2012-233,archiefwet-1995,1,main
+2013-01-01,law,stb-2012-243,archiefwet-1995,8,main
+2013-01-01,law,stb-2012-250,pensioenwet wet-verplichte-beroepspensioenregeling wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-2000,23,main
+2013-01-01,law,stb-2012-313,wet-justitiele-en-strafvorderlijke-gegevens pensioenwet wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-verplichte-beroepspensioenregeling wet-educatie-en-beroepsonderwijs wet-marktordening-gezondheidszorg wet-op-de-ondernemingsraden wet-luchtvaart wet-op-de-rechtsbijstand,17,main
+2013-01-01,law,stb-2012-316,wet-op-de-identificatieplicht wet-justitiele-en-strafvorderlijke-gegevens wet-veiligheidsregios algemene-douanewet,16,main
+2013-01-01,law,stb-2012-323,wet-financiering-sociale-verzekeringen,9,main
+2013-01-01,law,stb-2012-327,wet-financiering-sociale-verzekeringen,2,main
+2013-01-01,law,stb-2012-340,wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,4,main
+2013-01-01,law,stb-2012-354,wet-educatie-en-beroepsonderwijs,4,main
+2013-01-01,law,stb-2012-361,wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen pensioenwet wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-verplichte-beroepspensioenregeling wet-minimumloon-en-minimumvakantiebijslag wet-educatie-en-beroepsonderwijs wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-arbeid-en-zorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers wet-op-het-primair-onderwijs wet-op-de-expertisecentra wet-sociale-werkvoorziening,35,main
+2013-01-01,law,stb-2012-430,wet-educatie-en-beroepsonderwijs,1,main
+2013-01-01,law,stb-2012-442,wet-luchtvaart,14,main
+2013-01-01,law,stb-2012-443,wet-veiligheidsregios,26,main
+2013-01-01,law,stb-2012-450,wet-educatie-en-beroepsonderwijs,21,main
+2013-01-01,law,stb-2012-462,wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-minimumloon-en-minimumvakantiebijslag algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-arbeid-en-zorg wet-veiligheidsregios wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,62,main
+2013-01-01,law,stb-2012-463,algemene-nabestaandenwet algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,16,main
+2013-01-01,law,stb-2012-464,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen,14,main
+2013-01-01,law,stcrt-2012-21293,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2013-01-01,law,stb-2012-533,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,6,main
+2013-01-01,law,stb-2012-545,wet-op-de-expertisecentra,4,main
+2013-01-01,law,stb-2012-556,wet-personenvervoer-2000,36,main
+2013-01-01,law,stb-2012-582,wet-luchtvaart,14,main
+2013-01-01,law,stb-2012-614,algemene-kinderbijslagwet,1,main
+2013-01-01,law,stcrt-2012-25904,toeslagenwet,2,main
+2013-01-01,law,stcrt-2012-26026,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,4,main
+2013-01-01,law,stb-2012-680,ambtenarenwet-2017,1,main
+2013-01-01,law,stcrt-2012-26749,pensioenwet wet-verplichte-beroepspensioenregeling,2,main
+2013-01-01,law,stb-2012-668,invorderingswet-1990,1,main
+2013-01-01,law,stb-2012-669,invorderingswet-1990 wet-financiering-sociale-verzekeringen pensioenwet wet-verplichte-beroepspensioenregeling algemene-wet-inkomensafhankelijke-regelingen,9,main
+2013-01-01,law,stb-2012-670,invorderingswet-1990,5,main
+2013-01-01,law,stb-2012-675,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-arbeid-en-zorg toeslagenwet,3,main
+2013-01-01,law,stb-2012-682,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen pensioenwet wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-verplichte-beroepspensioenregeling wet-gemeenschappelijke-regelingen wet-educatie-en-beroepsonderwijs wet-marktordening-gezondheidszorg algemene-kinderbijslagwet kadasterwet geneesmiddelenwet burgerlijk-wetboek-boek-8 wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-2000 algemene-douanewet kernenergiewet wet-op-het-primair-onderwijs wet-op-de-expertisecentra toeslagenwet wet-luchtvaart wet-op-de-rechtsbijstand wet-personenvervoer-2000,47,main
+2013-01-01,law,stcrt-2012-26949,wet-op-de-rechtsbijstand,1,main
+2013-01-01,unexplained,,burgerlijk-wetboek-boek-8,1,main
+2013-01-01,unexplained,,invorderingswet-1990,3,main
+2013-01-01,unexplained,,pensioenwet,1,main
+2013-01-01,unexplained,,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen,1,main
+2013-01-01,unexplained,,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,1,main
+2013-01-01,unexplained,,wet-op-de-rechtsbijstand,1,main
+2013-01-01,unexplained,,wet-veiligheidsregios,1,main
+2013-02-22,law,stb-2013-21,geneesmiddelenwet,33,main
+2013-02-28,law,stb-2013-70,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,19,main
+2013-03-15,law,stb-2013-48,wet-luchtvaart,1,main
+2013-04-01,law,stb-2012-666,wet-op-de-ondernemingsraden,1,main
+2013-04-01,law,stb-2013-102,handelsregisterwet-2007 wet-marktordening-gezondheidszorg dienstenwet wet-luchtvaart wet-personenvervoer-2000,33,main
+2013-04-01,law,stb-2013-115,algemene-nabestaandenwet,1,main
+2013-04-25,law,stb-2013-144,wet-luchtvaart,11,main
+2013-06-01,law,stb-2010-290,handelsregisterwet-2007 wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs wet-op-de-expertisecentra,7,main
+2013-06-29,law,stb-2013-233,wet-personenvervoer-2000,26,main
+2013-07-01,law,stb-2012-203,pensioenwet,6,main
+2013-07-01,law,stb-2012-246,wet-verplichte-beroepspensioenregeling wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-2000,5,main
+2013-07-01,law,stb-2012-410,beginselenwet-justitiele-jeugdinrichtingen,10,main
+2013-07-01,law,stb-2013-72,wet-arbeid-en-zorg,1,main
+2013-07-01,law,stb-2013-115,algemene-nabestaandenwet,26,main
+2013-07-01,law,stb-2013-125,wet-justitiele-en-strafvorderlijke-gegevens,1,main
+2013-07-01,law,stb-2013-142,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs wet-publieke-gezondheid beginselenwet-justitiele-jeugdinrichtingen wet-op-het-primair-onderwijs wet-op-de-expertisecentra,9,main
+2013-07-01,law,stcrt-2013-11355,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2013-07-01,law,stcrt-2013-16285,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,2,main
+2013-07-01,law,stb-2013-226,wet-op-de-arbeidsongeschiktheidsverzekering wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-gemeenschappelijke-regelingen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers archiefwet-1995 ambtenarenwet-2017,9,main
+2013-07-01,law,stb-2013-236,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-arbeid-en-zorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers wet-op-de-ondernemingsraden toeslagenwet,63,main
+2013-07-01,law,stcrt-2013-17666,toeslagenwet,2,main
+2013-07-01,law,stb-2013-251,algemene-kinderbijslagwet,1,main
+2013-07-01,law,stb-2013-253,handelsregisterwet-2007,1,main
+2013-07-04,law,stb-2013-88,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,60,main
+2013-07-19,law,stb-2013-296,wet-op-de-ondernemingsraden,14,main
+2013-08-01,law,stb-2010-194,wet-educatie-en-beroepsonderwijs,1,main
+2013-08-01,law,stb-2012-339,wet-op-het-primair-onderwijs,1,main
+2013-08-01,law,stb-2012-533,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,7,main
+2013-08-01,law,stb-2012-545,wet-educatie-en-beroepsonderwijs wet-op-de-expertisecentra,43,main
+2013-08-01,law,stb-2013-288,wet-educatie-en-beroepsonderwijs,3,main
+2013-08-07,law,stb-2013-302,pensioenwet wet-verplichte-beroepspensioenregeling wet-op-de-ondernemingsraden,17,main
+2013-08-20,law,stb-2011-394,burgerlijk-wetboek-boek-8 algemene-douanewet,3,main
+2013-09-01,law,stb-2013-298,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs,71,main
+2013-09-02,unexplained,,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2013-10-01,law,stb-2013-298,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2013-10-24,law,stb-2013-140,wet-luchtvaart,10,main
+2013-12-01,law,stb-2011-640,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen,4,main
+2013-12-10,law,stb-2013-407,geneesmiddelenwet,34,main
+2013-12-12,law,stcrt-2013-34713,toeslagenwet,2,main
+2013-12-18,law,stb-2013-498,wet-financiering-sociale-verzekeringen,1,main
+2013-12-23,law,stcrt-2013-35903,wet-op-de-rechtsbijstand,1,main
+2013-12-24,law,stb-2013-565,wet-financiering-sociale-verzekeringen,1,main
+2014-01-01,law,stb-2010-18,kernenergiewet,1,main
+2014-01-01,law,stb-2011-558,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,33,main
+2014-01-01,law,stb-2012-209,wet-op-het-primair-onderwijs,2,main
+2014-01-01,law,stb-2012-464,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-financiering-sociale-verzekeringen,18,main
+2014-01-01,law,stb-2013-128,wet-veiligheidsregios,1,main
+2014-01-01,law,stb-2013-136,wet-educatie-en-beroepsonderwijs,1,main
+2014-01-01,law,stb-2013-236,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen algemene-nabestaandenwet wet-financiering-sociale-verzekeringen,9,main
+2014-01-01,law,stb-2013-325,burgerlijk-wetboek-boek-8,1,main
+2014-01-01,law,stb-2013-385,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,18,main
+2014-01-01,law,stb-2013-405,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen handelsregisterwet-2007 wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-minimumloon-en-minimumvakantiebijslag wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-arbeid-en-zorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,20,main
+2014-01-01,law,stb-2013-413,invorderingswet-1990 algemene-douanewet,25,main
+2014-01-01,law,stb-2013-415,kernenergiewet wet-luchtvaart,2,main
+2014-01-01,law,stcrt-2013-31007,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2014-01-01,law,stb-2013-507,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-justitiele-en-strafvorderlijke-gegevens handelsregisterwet-2007 wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,28,main
+2014-01-01,law,stb-2013-522,wet-marktordening-gezondheidszorg,11,main
+2014-01-01,law,stcrt-2013-34782,pensioenwet wet-verplichte-beroepspensioenregeling,2,main
+2014-01-01,law,stcrt-2013-34787,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,4,main
+2014-01-01,law,stb-2013-558,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,32,main
+2014-01-01,law,stb-2013-559,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2014-01-01,law,stcrt-2013-35871,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2014-01-01,law,stb-2013-565,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen,5,main
+2014-01-01,law,stb-2013-566,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen algemene-douanewet,5,main
+2014-01-01,law,stb-2013-567,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen,15,main
+2014-01-01,law,stb-2013-568,invorderingswet-1990,1,main
+2014-01-01,law,stb-2013-583,wet-financiering-sociale-verzekeringen,1,main
+2014-01-01,law,stcrt-2013-35144,algemene-wet-inkomensafhankelijke-regelingen,1,main
+2014-01-01,unexplained,,wet-arbeidsongeschiktheidsverzekering-zelfstandigen,2,main
+2014-01-01,unexplained,,wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten,2,main
+2014-01-01,unexplained,,wet-op-de-arbeidsongeschiktheidsverzekering,2,main
+2014-01-01,unexplained,,wet-op-de-expertisecentra,1,main
+2014-01-06,law,stb-2013-316,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-justitiele-en-strafvorderlijke-gegevens wet-algemene-bepalingen-burgerservicenummer algemene-nabestaandenwet wet-financiering-sociale-verzekeringen pensioenwet wet-verplichte-beroepspensioenregeling wet-educatie-en-beroepsonderwijs algemene-wet-inkomensafhankelijke-regelingen wet-marktordening-gezondheidszorg algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-arbeid-en-zorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers beginselenwet-justitiele-jeugdinrichtingen wet-op-het-primair-onderwijs wet-op-de-expertisecentra toeslagenwet wet-op-de-rechtsbijstand,58,main
+2014-01-06,law,stb-2013-405,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-arbeid-en-zorg toeslagenwet,6,main
+2014-01-20,law,stb-2014-10,wet-op-de-identificatieplicht,1,main
+2014-01-25,law,stb-2014-14,handelsregisterwet-2007 algemene-douanewet dienstenwet kernenergiewet,36,main
+2014-02-15,law,stb-2013-560,wet-marktordening-gezondheidszorg wet-publieke-gezondheid wet-veiligheidsregios beginselenwet-justitiele-jeugdinrichtingen,7,main
+2014-02-19,law,stb-2014-73,burgerlijk-wetboek-boek-8 wet-personenvervoer-2000,8,main
+2014-03-07,law,stb-2014-92,wet-publieke-gezondheid,1,main
+2014-03-15,law,stb-2013-140,wet-luchtvaart,16,main
+2014-03-19,law,stb-2013-76,wet-op-de-arbeidsongeschiktheidsverzekering,1,main
+2014-04-01,law,stb-2013-414,wet-op-het-consumentenkrediet,1,main
+2014-04-01,law,stb-2013-485,beginselenwet-justitiele-jeugdinrichtingen,3,main
+2014-04-01,law,stb-2013-578,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-marktordening-gezondheidszorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen geneesmiddelenwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers ambtenarenwet-2017 toeslagenwet,40,main
+2014-04-18,law,stb-2013-140,wet-luchtvaart,3,main
+2014-05-01,law,stb-2014-125,beginselenwet-justitiele-jeugdinrichtingen,1,main
+2014-05-16,law,stb-2014-167,algemene-nabestaandenwet wet-financiering-sociale-verzekeringen,7,main
+2014-06-01,law,stb-2013-558,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,9,main
+2014-06-25,law,stb-2014-219,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2014-06-28,law,stb-2012-133,wet-nationale-ombudsman,9,main
+2014-06-28,law,stb-2014-227,algemene-nabestaandenwet,2,main
+2014-07-01,law,stb-2013-236,algemene-nabestaandenwet,1,main
+2014-07-01,law,stb-2013-302,pensioenwet wet-verplichte-beroepspensioenregeling,55,main
+2014-07-01,law,stb-2013-565,wet-financiering-sociale-verzekeringen,4,main
+2014-07-01,law,stcrt-2014-13936,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2014-07-01,law,stcrt-2014-17205,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,4,main
+2014-07-01,law,stb-2014-227,algemene-nabestaandenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten algemene-kinderbijslagwet,9,main
+2014-07-01,law,stcrt-2014-18131,toeslagenwet,2,main
+2014-07-01,unexplained,,pensioenwet,2,main
+2014-07-16,law,stb-2014-259,wet-financiering-sociale-verzekeringen,1,main
+2014-07-16,law,stb-2014-270,wet-sociale-werkvoorziening,1,main
+2014-07-19,law,stb-2014-219,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs,42,main
+2014-08-01,law,stb-2012-216,wet-op-het-primair-onderwijs,5,main
+2014-08-01,law,stb-2012-533,wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,89,main
+2014-08-01,law,stb-2013-288,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs wet-op-de-expertisecentra,36,main
+2014-08-01,law,stb-2014-13,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,10,main
+2014-08-01,law,stb-2014-185,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,8,main
+2014-08-01,law,stb-2014-245,wet-op-de-expertisecentra,1,main
+2014-08-01,law,stb-2014-247,wet-luchtvaart wet-personenvervoer-2000,19,main
+2014-08-01,unexplained,,wet-educatie-en-beroepsonderwijs,1,main
+2014-09-01,law,stb-2013-298,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,10,main
+2014-09-01,law,stb-2013-558,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,2,main
+2014-09-01,law,stb-2014-219,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2014-10-18,law,stb-2014-364,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,2,main
+2014-11-01,law,stb-2013-144,wet-luchtvaart,1,main
+2014-11-01,law,stb-2014-220,beginselenwet-justitiele-jeugdinrichtingen,1,main
+2014-11-07,law,stb-2014-418,geneesmiddelenwet,6,main
+2014-12-20,law,stb-2014-527,pensioenwet wet-verplichte-beroepspensioenregeling,4,main
+2015-01-01,law,stb-2005-115,wet-verplichte-beroepspensioenregeling,2,main
+2015-01-01,law,stb-2009-611,wet-financiering-sociale-verzekeringen,1,main
+2015-01-01,law,stb-2011-288,wet-financiering-sociale-verzekeringen,1,main
+2015-01-01,law,stb-2012-257,wet-educatie-en-beroepsonderwijs,1,main
+2015-01-01,law,stb-2012-462,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,3,main
+2015-01-01,law,stb-2012-533,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,4,main
+2015-01-01,law,stb-2013-558,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2015-01-01,law,stb-2013-565,wet-financiering-sociale-verzekeringen algemene-wet-inkomensafhankelijke-regelingen,2,main
+2015-01-01,law,stb-2014-14,handelsregisterwet-2007,2,main
+2015-01-01,law,stb-2014-105,wet-publieke-gezondheid,1,main
+2015-01-01,law,stb-2014-131,algemene-nabestaandenwet,4,main
+2015-01-01,law,stb-2014-175,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,13,main
+2015-01-01,law,stb-2014-196,wet-financiering-sociale-verzekeringen pensioenwet wet-verplichte-beroepspensioenregeling,11,main
+2015-01-01,law,stb-2014-219,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2015-01-01,law,stb-2014-216,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,3,main
+2015-01-01,law,stb-2014-225,wet-justitiele-en-strafvorderlijke-gegevens,2,main
+2015-01-01,law,stb-2014-227,algemene-nabestaandenwet algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,13,main
+2015-01-01,law,stb-2014-238,wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsverzekering-zelfstandigen algemene-kinderbijslagwet toeslagenwet,8,main
+2015-01-01,law,stb-2014-269,wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet algemene-kinderbijslagwet wet-arbeid-en-zorg toeslagenwet,7,main
+2015-01-01,law,stb-2014-270,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen handelsregisterwet-2007 wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers wet-op-het-consumentenkrediet wet-arbeidsongeschiktheidsvoorziening-militairen toeslagenwet wet-sociale-werkvoorziening,99,main
+2015-01-01,law,stb-2014-280,wet-marktordening-gezondheidszorg,1,main
+2015-01-01,law,stb-2014-288,wet-educatie-en-beroepsonderwijs,22,main
+2015-01-01,law,stb-2014-306,wet-gemeenschappelijke-regelingen wet-nationale-ombudsman,185,main
+2015-01-01,law,stb-2014-354,wet-op-de-rechtsbijstand,2,main
+2015-01-01,law,stcrt-2014-29850,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2015-01-01,law,stb-2014-442,wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-educatie-en-beroepsonderwijs wet-publieke-gezondheid wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-arbeid-en-zorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers beginselenwet-justitiele-jeugdinrichtingen wet-nationale-ombudsman wet-op-het-primair-onderwijs wet-op-de-expertisecentra toeslagenwet,35,main
+2015-01-01,law,stb-2014-448,geneesmiddelenwet,3,main
+2015-01-01,law,stb-2014-458,wet-gemeenschappelijke-regelingen,1,main
+2015-01-01,law,stb-2014-470,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,7,main
+2015-01-01,law,stb-2014-481,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen algemene-douanewet,7,main
+2015-01-01,law,stb-2014-483,kaderwet-zelfstandige-bestuursorganen,9,main
+2015-01-01,law,stb-2014-494,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-marktordening-gezondheidszorg wet-publieke-gezondheid wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen geneesmiddelenwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,48,main
+2015-01-01,law,stb-2014-504,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen pensioenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-verplichte-beroepspensioenregeling wet-minimumloon-en-minimumvakantiebijslag algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-arbeid-en-zorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-2000 wet-op-de-ondernemingsraden toeslagenwet wet-sociale-werkvoorziening,79,main
+2015-01-01,law,stb-2014-527,pensioenwet wet-verplichte-beroepspensioenregeling wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-2000,22,main
+2015-01-01,law,stb-2014-540,wet-justitiele-en-strafvorderlijke-gegevens wet-veiligheidsregios burgerlijk-wetboek-boek-8 beginselenwet-justitiele-jeugdinrichtingen,14,main
+2015-01-01,law,stcrt-2014-36893,toeslagenwet,2,main
+2015-01-01,law,stcrt-2014-37061,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,4,main
+2015-01-01,law,stb-2014-557,wet-gemeenschappelijke-regelingen wet-luchtvaart wet-personenvervoer-2000,29,main
+2015-01-01,law,stb-2014-565,wet-financiering-sociale-verzekeringen wet-arbeid-en-zorg,29,main
+2015-01-01,law,stb-2014-567,pensioenwet wet-verplichte-beroepspensioenregeling,62,main
+2015-01-01,law,stb-2014-571,wet-minimumloon-en-minimumvakantiebijslag algemene-douanewet dienstenwet ambtenarenwet-2017 wet-op-de-ondernemingsraden,7,main
+2015-01-01,law,stb-2014-578,invorderingswet-1990 pensioenwet wet-verplichte-beroepspensioenregeling algemene-wet-inkomensafhankelijke-regelingen wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-2000,17,main
+2015-01-01,law,stcrt-2014-36639,algemene-wet-inkomensafhankelijke-regelingen,2,main
+2015-01-01,law,stcrt-2014-36661,algemene-douanewet,5,main
+2015-01-01,law,stb-2014-581,burgerlijk-wetboek-boek-8 wet-luchtvaart wet-personenvervoer-2000,10,main
+2015-01-02,law,stb-2014-504,algemene-nabestaandenwet,1,main
+2015-02-01,law,stb-2015-28,wet-financiering-sociale-verzekeringen,1,main
+2015-03-01,law,stcrt-2015-2795,wet-op-de-rechtsbijstand,1,main
+2015-03-04,law,stb-2015-25,wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,6,main
+2015-03-05,law,stb-2015-50,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,6,main
+2015-04-01,law,stb-2014-504,algemene-nabestaandenwet,2,main
+2015-04-01,law,stcrt-2015-8477,invorderingswet-1990,1,main
+2015-05-01,law,stb-2015-9,wet-personenvervoer-2000,3,main
+2015-05-01,law,stb-2015-154,wet-financiering-sociale-verzekeringen,23,main
+2015-06-18,law,stb-2015-170,wet-educatie-en-beroepsonderwijs,3,main
+2015-06-19,law,stb-2015-218,pensioenwet wet-verplichte-beroepspensioenregeling,2,main
+2015-07-01,law,stb-2013-236,algemene-nabestaandenwet,1,main
+2015-07-01,law,stb-2014-216,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen pensioenwet wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra toeslagenwet wet-op-de-rechtsbijstand wet-sociale-werkvoorziening wet-personenvervoer-2000,23,main
+2015-07-01,law,stb-2014-269,algemene-nabestaandenwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,7,main
+2015-07-01,law,stb-2014-504,wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-arbeid-en-zorg,5,main
+2015-07-01,law,stb-2014-565,wet-arbeid-en-zorg,3,main
+2015-07-01,law,stb-2015-9,burgerlijk-wetboek-boek-8 wet-personenvervoer-2000,3,main
+2015-07-01,law,stb-2015-140,beginselenwet-justitiele-jeugdinrichtingen,5,main
+2015-07-01,law,stb-2015-193,pensioenwet wet-verplichte-beroepspensioenregeling,19,main
+2015-07-01,law,stb-2015-203,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen,3,main
+2015-07-01,law,stb-2015-233,wet-minimumloon-en-minimumvakantiebijslag,10,main
+2015-07-01,law,stcrt-2015-17279,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,2,main
+2015-07-01,law,stcrt-2015-17449,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,4,main
+2015-07-01,law,stcrt-2015-17514,toeslagenwet,2,main
+2015-07-01,unexplained,,toeslagenwet,1,main
+2015-07-01,unexplained,,wet-educatie-en-beroepsonderwijs,1,main
+2015-07-18,law,stb-2015-271,handelsregisterwet-2007 kadasterwet archiefwet-1995,5,main
+2015-08-01,law,stb-2008-561,wet-luchtvaart,1,main
+2015-08-01,law,stb-2012-533,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,4,main
+2015-08-01,law,stb-2015-55,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,3,main
+2015-08-01,law,stb-2015-56,wet-educatie-en-beroepsonderwijs,9,main
+2015-08-01,law,stb-2015-94,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,2,main
+2015-08-01,law,stb-2015-148,wet-op-de-expertisecentra,1,main
+2015-08-01,law,stb-2015-150,wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,18,main
+2015-08-01,law,stb-2015-170,wet-educatie-en-beroepsonderwijs,27,main
+2015-08-01,law,stb-2015-238,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,6,main
+2015-08-01,law,stb-2015-284,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,13,main
+2015-08-01,unexplained,,wet-educatie-en-beroepsonderwijs,2,main
+2015-08-01,unexplained,,wet-op-de-expertisecentra,1,main
+2015-08-17,law,stb-2014-430,kadasterwet,2,main
+2015-09-01,law,stb-2013-558,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2015-09-01,law,stb-2014-219,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,4,main
+2015-09-01,law,stb-2015-50,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,3,main
+2015-09-01,unexplained,,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2015-09-15,unexplained,,invorderingswet-1990,1,main
+2015-10-17,law,stb-2015-363,wet-luchtvaart,6,main
+2015-11-01,law,stb-2015-349,pensioenwet wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-verplichte-beroepspensioenregeling wet-educatie-en-beroepsonderwijs wet-op-de-ondernemingsraden wet-op-de-expertisecentra,35,main
+2015-11-01,law,stb-2015-378,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen,3,main
+2015-12-01,law,stb-2013-528,burgerlijk-wetboek-boek-8,1,main
+2015-12-11,law,stb-2015-464,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-minimumloon-en-minimumvakantiebijslag algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,14,main
+2015-12-15,law,stb-2015-361,wet-personenvervoer-2000,8,main
+2015-12-17,law,stcrt-2015-45996,wet-op-de-rechtsbijstand,1,main
+2016-01-01,law,stb-2013-236,algemene-nabestaandenwet,1,main
+2016-01-01,law,stb-2013-379,kadasterwet,2,main
+2016-01-01,law,stb-2014-216,wet-financiering-sociale-verzekeringen,6,main
+2016-01-01,law,stb-2014-504,wet-financiering-sociale-verzekeringen,7,main
+2016-01-01,law,stb-2014-578,wet-op-de-rechtsbijstand,1,main
+2016-01-01,law,stb-2014-581,kadasterwet,2,main
+2016-01-01,law,stb-2015-149,wet-educatie-en-beroepsonderwijs wet-op-de-expertisecentra,3,main
+2016-01-01,law,stb-2015-150,wet-op-het-primair-onderwijs,1,main
+2016-01-01,law,stb-2015-193,pensioenwet wet-verplichte-beroepspensioenregeling,10,main
+2016-01-01,law,stb-2015-230,wet-justitiele-en-strafvorderlijke-gegevens,1,main
+2016-01-01,law,stb-2015-233,wet-minimumloon-en-minimumvakantiebijslag,3,main
+2016-01-01,law,stb-2015-345,ambtenarenwet-2017 wet-luchtvaart,153,main
+2016-01-01,law,stb-2015-359,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,2,main
+2016-01-01,law,stb-2015-376,wet-financiering-sociale-verzekeringen ambtenarenwet-2017,10,main
+2016-01-01,law,stb-2015-399,burgerlijk-wetboek-boek-8,7,main
+2016-01-01,law,stcrt-2015-38647,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2016-01-01,law,stb-2015-407,wet-marktordening-gezondheidszorg wet-publieke-gezondheid,2,main
+2016-01-01,law,stcrt-2015-41467,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen,3,main
+2016-01-01,law,stb-2015-455,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen algemene-douanewet,8,main
+2016-01-01,law,stcrt-2015-43984,toeslagenwet,2,main
+2016-01-01,law,stb-2015-464,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-minimumloon-en-minimumvakantiebijslag algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-arbeid-en-zorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,44,main
+2016-01-01,law,stcrt-2015-44577,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2016-01-01,law,stcrt-2015-44616,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,6,main
+2016-01-01,law,stcrt-2015-46239,algemene-kinderbijslagwet,2,main
+2016-01-01,law,stb-2015-538,invorderingswet-1990,2,main
+2016-01-01,law,stb-2015-540,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen algemene-douanewet,9,main
+2016-01-01,law,stb-2015-547,wet-financiering-sociale-verzekeringen,6,main
+2016-01-01,law,stb-2015-549,pensioenwet wet-verplichte-beroepspensioenregeling,30,main
+2016-01-01,law,stcrt-2015-47097,algemene-wet-inkomensafhankelijke-regelingen,1,main
+2016-01-01,unexplained,,wet-luchtvaart,1,main
+2016-01-18,law,stb-2015-478,wet-educatie-en-beroepsonderwijs kadasterwet wet-op-het-primair-onderwijs wet-op-de-expertisecentra wet-luchtvaart,15,main
+2016-02-01,law,stb-2015-390,wet-educatie-en-beroepsonderwijs,4,main
+2016-02-19,law,stb-2016-59,algemene-kinderbijslagwet,2,main
+2016-04-01,law,stb-2013-567,algemene-wet-inkomensafhankelijke-regelingen,1,main
+2016-04-01,law,stb-2014-565,wet-arbeid-en-zorg,1,main
+2016-04-01,law,stb-2015-451,pensioenwet wet-verplichte-beroepspensioenregeling wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,8,main
+2016-04-01,law,stb-2015-464,wet-arbeid-en-zorg,2,main
+2016-05-01,law,stb-2016-45,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsverzekering-zelfstandigen,2,main
+2016-05-01,law,stb-2016-163,invorderingswet-1990 algemene-douanewet,50,main
+2016-06-18,law,stb-2016-221,wet-financiering-sociale-verzekeringen,1,main
+2016-07-01,law,stb-2012-614,algemene-kinderbijslagwet,1,main
+2016-07-01,law,stb-2012-669,pensioenwet wet-verplichte-beroepspensioenregeling,2,main
+2016-07-01,law,stb-2013-236,algemene-nabestaandenwet,1,main
+2016-07-01,law,stb-2014-269,toeslagenwet,5,main
+2016-07-01,law,stb-2015-193,pensioenwet wet-verplichte-beroepspensioenregeling,10,main
+2016-07-01,law,stb-2015-376,wet-financiering-sociale-verzekeringen,1,main
+2016-07-01,law,stb-2015-464,toeslagenwet,1,main
+2016-07-01,law,stb-2015-505,handelsregisterwet-2007,1,main
+2016-07-01,law,stb-2015-511,algemene-douanewet,1,main
+2016-07-01,law,stb-2016-147,ambtenarenwet-2017,1,main
+2016-07-01,law,stb-2016-148,wet-op-de-ondernemingsraden,1,main
+2016-07-01,law,stcrt-2016-24815,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2016-07-01,law,stcrt-2016-31769,toeslagenwet,2,main
+2016-07-01,law,stcrt-2016-32586,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,6,main
+2016-07-01,law,stcrt-2016-33854,algemene-kinderbijslagwet,1,main
+2016-08-01,law,stb-2015-150,wet-op-het-primair-onderwijs,2,main
+2016-08-01,law,stb-2015-390,wet-educatie-en-beroepsonderwijs,17,main
+2016-08-01,law,stb-2016-88,wet-educatie-en-beroepsonderwijs wet-op-de-expertisecentra,5,main
+2016-08-01,law,stb-2016-206,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-marktordening-gezondheidszorg geneesmiddelenwet ambtenarenwet-2017,14,main
+2016-08-01,law,stb-2016-213,wet-publieke-gezondheid,2,main
+2016-08-01,law,stb-2016-268,wet-marktordening-gezondheidszorg,1,main
+2016-09-01,law,stb-2016-248,pensioenwet wet-verplichte-beroepspensioenregeling,45,main
+2016-10-01,law,stb-2013-129,kadasterwet,1,main
+2016-10-01,law,stb-2013-298,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,8,main
+2016-10-01,law,stb-2016-249,pensioenwet wet-op-de-ondernemingsraden,3,main
+2016-10-01,unexplained,,algemene-kinderbijslagwet,1,main
+2016-10-01,unexplained,,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2016-11-01,law,stb-2016-119,wet-luchtvaart,2,main
+2016-12-08,law,stb-2016-471,algemene-nabestaandenwet wet-financiering-sociale-verzekeringen algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,17,main
+2016-12-09,law,stb-2016-479,invorderingswet-1990,2,main
+2017-01-01,law,stb-2009-334,wet-op-de-expertisecentra,2,main
+2017-01-01,law,stb-2009-492,wet-op-de-expertisecentra,3,main
+2017-01-01,law,stb-2013-236,algemene-nabestaandenwet,1,main
+2017-01-01,law,stb-2014-227,algemene-kinderbijslagwet,1,main
+2017-01-01,law,stb-2015-50,algemene-kinderbijslagwet,1,main
+2017-01-01,law,stb-2015-193,pensioenwet wet-verplichte-beroepspensioenregeling,6,main
+2017-01-01,law,stb-2015-464,algemene-nabestaandenwet,1,main
+2017-01-01,law,stb-2015-456,ambtenarenwet-2017,1,main
+2017-01-01,law,stb-2016-173,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-financiering-sociale-verzekeringen wet-marktordening-gezondheidszorg,5,main
+2017-01-01,law,stb-2016-203,wet-veiligheidsregios,1,main
+2017-01-01,law,stb-2016-221,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-financiering-sociale-verzekeringen,12,main
+2017-01-01,law,stb-2016-273,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,33,main
+2017-01-01,law,stb-2016-318,wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,19,main
+2017-01-01,law,stb-2016-360,wet-op-het-consumentenkrediet,17,main
+2017-01-01,law,stb-2016-417,wet-educatie-en-beroepsonderwijs,1,main
+2017-01-01,law,stcrt-2016-60172,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2017-01-01,law,stb-2016-444,wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten,7,main
+2017-01-01,law,stcrt-2016-65678,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen,3,main
+2017-01-01,law,stb-2016-471,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-minimumloon-en-minimumvakantiebijslag algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-arbeid-en-zorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,33,main
+2017-01-01,law,stcrt-2016-67596,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,6,main
+2017-01-01,law,stcrt-2016-68600,toeslagenwet,3,main
+2017-01-01,law,stcrt-2016-67757,algemene-kinderbijslagwet,2,main
+2017-01-01,law,stb-2016-519,wet-financiering-sociale-verzekeringen,3,main
+2017-01-01,law,stcrt-2016-68753,wet-op-de-rechtsbijstand,1,main
+2017-01-01,law,stcrt-2016-69091,pensioenwet wet-verplichte-beroepspensioenregeling,2,main
+2017-01-01,law,stb-2016-544,invorderingswet-1990,1,main
+2017-01-01,law,stb-2016-545,algemene-wet-inkomensafhankelijke-regelingen,3,main
+2017-01-01,law,stcrt-2016-70381,algemene-wet-inkomensafhankelijke-regelingen,1,main
+2017-01-01,unexplained,,wet-op-het-consumentenkrediet,1,main
+2017-02-01,law,stb-2016-444,wet-financiering-sociale-verzekeringen,1,main
+2017-02-24,law,stb-2013-88,wet-op-de-expertisecentra,3,main
+2017-02-28,law,stb-2017-64,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen,1,main
+2017-03-01,law,stb-2016-375,pensioenwet wet-verplichte-beroepspensioenregeling,3,main
+2017-03-01,law,stb-2016-476,beginselenwet-justitiele-jeugdinrichtingen wet-op-de-rechtsbijstand,3,main
+2017-03-01,law,stb-2017-53,wet-op-de-identificatieplicht,1,main
+2017-03-10,law,stb-2017-13,kadasterwet,1,main
+2017-04-01,law,stb-2016-119,wet-luchtvaart,3,main
+2017-04-01,law,stb-2017-115,invorderingswet-1990 pensioenwet wet-verplichte-beroepspensioenregeling,12,main
+2017-06-01,law,stb-2017-97,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,8,main
+2017-07-01,law,stb-2012-224,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen,3,main
+2017-07-01,law,stb-2013-236,algemene-nabestaandenwet,1,main
+2017-07-01,law,stb-2016-179,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,17,main
+2017-07-01,law,stb-2016-272,wet-luchtvaart,23,main
+2017-07-01,law,stb-2016-373,wet-marktordening-gezondheidszorg,5,main
+2017-07-01,law,stb-2017-24,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-minimumloon-en-minimumvakantiebijslag toeslagenwet,10,main
+2017-07-01,law,stb-2017-80,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,77,main
+2017-07-01,law,stcrt-2017-28138,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2017-07-01,law,stb-2017-232,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen,3,main
+2017-07-01,law,stcrt-2017-35155,algemene-kinderbijslagwet,1,main
+2017-07-01,law,stcrt-2017-36285,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,6,main
+2017-07-01,law,stcrt-2017-37065,toeslagenwet,3,main
+2017-08-01,law,stb-2014-13,wet-op-het-primair-onderwijs,2,main
+2017-08-01,law,stb-2016-180,kernenergiewet,54,main
+2017-08-01,law,stb-2016-362,wet-educatie-en-beroepsonderwijs wet-op-de-expertisecentra,12,main
+2017-08-01,law,stb-2016-417,wet-educatie-en-beroepsonderwijs,10,main
+2017-08-01,law,stb-2017-43,wet-educatie-en-beroepsonderwijs,5,main
+2017-08-01,law,stb-2017-71,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,6,main
+2017-08-01,law,stb-2017-85,wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,61,main
+2017-08-30,law,stb-2017-320,wet-luchtvaart,23,main
+2017-09-01,law,stb-2015-50,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2017-09-01,law,stb-2016-273,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,3,main
+2017-09-01,law,stb-2016-290,invorderingswet-1990 wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-verplichte-beroepspensioenregeling kadasterwet burgerlijk-wetboek-boek-8 wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-2000 wet-op-de-ondernemingsraden wet-op-de-rechtsbijstand,13,main
+2017-09-01,law,stb-2017-97,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,20,main
+2017-09-01,law,stb-2017-306,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,28,main
+2017-09-01,unexplained,,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2017-10-01,law,stb-2016-362,wet-educatie-en-beroepsonderwijs,2,main
+2017-10-01,law,stb-2017-78,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen algemene-wet-inkomensafhankelijke-regelingen algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,41,main
+2017-12-16,law,stb-2017-484,wet-arbeidsongeschiktheidsverzekering-zelfstandigen algemene-kinderbijslagwet,2,main
+2017-12-19,law,stcrt-2017-72518,algemene-kinderbijslagwet,1,main
+2017-12-31,law,stb-2017-258,wet-publieke-gezondheid geneesmiddelenwet,13,main
+2018-01-01,law,stb-2013-565,wet-financiering-sociale-verzekeringen,2,main
+2018-01-01,law,stb-2014-270,wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten,2,main
+2018-01-01,law,stb-2014-494,wet-publieke-gezondheid geneesmiddelenwet,3,main
+2018-01-01,law,stb-2015-542,wet-financiering-sociale-verzekeringen,24,main
+2018-01-01,law,stb-2016-444,wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten,1,main
+2018-01-01,law,stb-2016-471,algemene-kinderbijslagwet,12,main
+2018-01-01,law,stb-2017-24,wet-minimumloon-en-minimumvakantiebijslag,5,main
+2018-01-01,law,stb-2017-99,wet-financiering-sociale-verzekeringen wet-marktordening-gezondheidszorg,19,main
+2018-01-01,law,stb-2017-139,handelsregisterwet-2007 wet-marktordening-gezondheidszorg,2,main
+2018-01-01,law,stb-2017-252,handelsregisterwet-2007 wet-op-het-primair-onderwijs,5,main
+2018-01-01,law,stb-2017-261,wet-op-het-primair-onderwijs,6,main
+2018-01-01,law,stb-2017-290,wet-minimumloon-en-minimumvakantiebijslag,3,main
+2018-01-01,law,stb-2017-306,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2018-01-01,law,stb-2017-327,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,19,main
+2018-01-01,law,stcrt-2017-58642,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2018-01-01,law,stb-2017-390,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs,56,main
+2018-01-01,law,stcrt-2017-68641,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,12,main
+2018-01-01,law,stcrt-2017-69880,wet-op-de-rechtsbijstand,1,main
+2018-01-01,law,stb-2017-484,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-minimumloon-en-minimumvakantiebijslag algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,50,main
+2018-01-01,law,stcrt-2017-72518,pensioenwet wet-verplichte-beroepspensioenregeling,2,main
+2018-01-01,law,stb-2017-517,invorderingswet-1990 wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek algemene-wet-inkomensafhankelijke-regelingen,3,main
+2018-01-01,law,stb-2017-518,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen,5,main
+2018-01-01,law,stcrt-2017-70975,algemene-wet-inkomensafhankelijke-regelingen,1,main
+2018-01-01,unexplained,,wet-financiering-sociale-verzekeringen,2,main
+2018-02-01,law,stb-2017-508,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,9,main
+2018-02-17,law,stb-2017-480,kernenergiewet wet-luchtvaart wet-personenvervoer-2000,5,main
+2018-03-01,law,stb-2017-505,pensioenwet wet-verplichte-beroepspensioenregeling,14,main
+2018-03-31,law,stb-2018-73,kadasterwet,2,main
+2018-04-01,law,stb-2016-362,wet-educatie-en-beroepsonderwijs,1,main
+2018-04-01,law,stb-2017-80,wet-educatie-en-beroepsonderwijs,1,main
+2018-04-01,law,stb-2017-484,wet-arbeid-en-zorg,3,main
+2018-04-11,law,stb-2017-525,pensioenwet wet-verplichte-beroepspensioenregeling,33,main
+2018-05-01,law,stb-2017-317,ambtenarenwet-2017,1,main
+2018-05-01,law,stb-2018-76,wet-luchtvaart,13,main
+2018-06-01,law,stb-2017-306,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,5,main
+2018-06-13,law,stb-2018-106,wet-algemene-bepalingen-burgerservicenummer wet-gemeenschappelijke-regelingen,25,main
+2018-07-01,law,stb-2013-236,algemene-nabestaandenwet,1,main
+2018-07-01,law,stb-2016-119,wet-luchtvaart,1,main
+2018-07-01,law,stb-2017-60,kadasterwet,2,main
+2018-07-01,law,stb-2018-30,beginselenwet-justitiele-jeugdinrichtingen,2,main
+2018-07-01,law,stb-2018-75,invorderingswet-1990,3,main
+2018-07-01,law,stcrt-2018-27822,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2018-07-01,law,stcrt-2018-28171,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,9,main
+2018-07-01,law,stcrt-2018-34835,algemene-kinderbijslagwet,1,main
+2018-07-02,law,stb-2017-484,wet-financiering-sociale-verzekeringen,1,main
+2018-07-21,law,stb-2018-229,pensioenwet wet-verplichte-beroepspensioenregeling,2,main
+2018-07-28,law,stb-2018-247,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen handelsregisterwet-2007 wet-algemene-bepalingen-burgerservicenummer wet-financiering-sociale-verzekeringen pensioenwet wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-verplichte-beroepspensioenregeling wet-educatie-en-beroepsonderwijs algemene-wet-inkomensafhankelijke-regelingen wet-marktordening-gezondheidszorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen kadasterwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers archiefwet-1995 dienstenwet ambtenarenwet-2017 wet-op-het-primair-onderwijs wet-op-de-expertisecentra wet-luchtvaart wet-personenvervoer-2000,62,main
+2018-08-01,law,stb-2016-362,wet-educatie-en-beroepsonderwijs,1,main
+2018-08-01,law,stb-2017-85,wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,3,main
+2018-08-01,law,stb-2018-12,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,14,main
+2018-08-01,law,stb-2018-50,wet-educatie-en-beroepsonderwijs,21,main
+2018-08-01,law,stb-2018-94,wet-marktordening-gezondheidszorg wet-publieke-gezondheid geneesmiddelenwet beginselenwet-justitiele-jeugdinrichtingen,35,main
+2018-08-01,law,stb-2018-127,wet-educatie-en-beroepsonderwijs wet-op-de-expertisecentra,2,main
+2018-09-01,law,stb-2018-225,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,14,main
+2018-09-02,law,stb-2018-225,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2018-09-18,unexplained,,invorderingswet-1990,1,main
+2018-09-19,law,stb-2018-209,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,7,main
+2018-09-19,law,stb-2018-228,wet-veiligheidsregios burgerlijk-wetboek-boek-8,15,main
+2018-10-01,law,stb-2018-89,pensioenwet wet-verplichte-beroepspensioenregeling wet-marktordening-gezondheidszorg,13,main
+2018-10-16,law,stb-2018-338,kernenergiewet,1,main
+2018-11-17,law,stb-2018-356,wet-publieke-gezondheid,2,main
+2018-11-23,law,stb-2018-424,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsverzekering-zelfstandigen algemene-kinderbijslagwet wet-arbeid-en-zorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,12,main
+2019-01-01,law,stb-2014-175,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,2,main
+2019-01-01,law,stb-2014-269,algemene-nabestaandenwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,4,main
+2019-01-01,law,stb-2015-346,wet-personenvervoer-2000,9,main
+2019-01-01,law,stb-2016-22,wet-personenvervoer-2000,1,main
+2019-01-01,law,stb-2017-258,wet-publieke-gezondheid,3,main
+2019-01-01,law,stb-2017-484,toeslagenwet,1,main
+2019-01-01,law,stb-2017-505,pensioenwet wet-verplichte-beroepspensioenregeling,19,main
+2019-01-01,law,stb-2017-525,pensioenwet,1,main
+2019-01-01,law,stb-2018-38,wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-marktordening-gezondheidszorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers beginselenwet-justitiele-jeugdinrichtingen,18,main
+2019-01-01,law,stb-2018-175,geneesmiddelenwet,38,main
+2019-01-01,law,stb-2018-210,wet-educatie-en-beroepsonderwijs wet-op-de-expertisecentra,8,main
+2019-01-01,law,stb-2018-221,wet-op-de-ondernemingsraden,2,main
+2019-01-01,law,stb-2018-356,wet-financiering-sociale-verzekeringen wet-marktordening-gezondheidszorg,18,main
+2019-01-01,law,stcrt-2018-59237,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2019-01-01,law,stb-2018-401,wet-justitiele-en-strafvorderlijke-gegevens,75,main
+2019-01-01,law,stb-2018-424,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-minimumloon-en-minimumvakantiebijslag algemene-kinderbijslagwet wet-arbeid-en-zorg wet-op-het-consumentenkrediet toeslagenwet,29,main
+2019-01-01,law,stcrt-2018-65542,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2019-01-01,law,stcrt-2018-67779,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,9,main
+2019-01-01,law,stb-2018-451,wet-arbeid-en-zorg,6,main
+2019-01-01,law,stb-2018-476,pensioenwet wet-verplichte-beroepspensioenregeling wet-op-de-ondernemingsraden,19,main
+2019-01-01,law,stb-2018-478,algemene-kinderbijslagwet,2,main
+2019-01-01,law,stb-2018-489,wet-financiering-sociale-verzekeringen pensioenwet wet-verplichte-beroepspensioenregeling,5,main
+2019-01-01,law,stb-2018-487,handelsregisterwet-2007 dienstenwet,15,main
+2019-01-01,law,stcrt-2018-72604,pensioenwet wet-verplichte-beroepspensioenregeling,2,main
+2019-01-01,law,stb-2018-507,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen algemene-douanewet,10,main
+2019-01-01,law,stb-2018-508,invorderingswet-1990,2,main
+2019-01-01,law,stcrt-2018-69665,algemene-wet-inkomensafhankelijke-regelingen,1,main
+2019-01-13,law,stb-2018-515,pensioenwet wet-verplichte-beroepspensioenregeling,89,main
+2019-02-01,law,stb-2018-209,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,87,main
+2019-03-04,law,stcrt-2019-11421,wet-op-de-rechtsbijstand,1,main
+2019-03-07,law,stb-2019-61,wet-personenvervoer-2000,12,main
+2019-03-15,law,stb-2017-85,wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,3,main
+2019-04-01,law,stb-2018-260,wet-marktordening-gezondheidszorg geneesmiddelenwet,3,main
+2019-04-02,law,stb-2019-52,geneesmiddelenwet,4,main
+2019-05-01,law,stb-2019-51,wet-justitiele-en-strafvorderlijke-gegevens,1,main
+2019-05-01,law,stb-2019-141,wet-justitiele-en-strafvorderlijke-gegevens,14,main
+2019-06-16,law,stb-2019-61,wet-personenvervoer-2000,1,main
+2019-06-20,law,stb-2019-219,wet-financiering-sociale-verzekeringen,2,main
+2019-07-01,law,stb-2017-24,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-minimumloon-en-minimumvakantiebijslag,6,main
+2019-07-01,law,stb-2017-161,burgerlijk-wetboek-boek-8,2,main
+2019-07-01,law,stb-2018-424,wet-arbeid-en-zorg,3,main
+2019-07-01,law,stb-2019-140,wet-marktordening-gezondheidszorg wet-publieke-gezondheid,4,main
+2019-07-01,law,stcrt-2019-20730,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2019-07-01,law,stb-2019-174,burgerlijk-wetboek-boek-8,5,main
+2019-07-01,law,stcrt-2019-31612,algemene-nabestaandenwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,7,main
+2019-07-01,law,stcrt-2019-35376,algemene-kinderbijslagwet,1,main
+2019-07-08,law,stb-2009-287,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen,1,main
+2019-07-10,law,stb-2019-243,wet-luchtvaart,8,main
+2019-08-01,law,stb-2014-13,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,5,main
+2019-08-01,law,stb-2017-289,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,4,main
+2019-08-01,law,stb-2018-210,wet-educatie-en-beroepsonderwijs,1,main
+2019-11-27,law,stb-2019-374,wet-luchtvaart,6,main
+2019-12-04,law,stb-2019-440,wet-financiering-sociale-verzekeringen,4,main
+2019-12-18,law,stb-2019-483,wet-arbeid-en-zorg,2,main
+2019-12-31,law,stb-2012-556,wet-personenvervoer-2000,7,main
+2020-01-01,law,stb-2017-82,beginselenwet-justitiele-jeugdinrichtingen algemene-douanewet wet-luchtvaart wet-op-de-rechtsbijstand,6,main
+2020-01-01,law,stb-2017-115,invorderingswet-1990,2,main
+2020-01-01,law,stb-2017-123,ambtenarenwet-2017,22,main
+2020-01-01,law,stb-2018-37,wet-justitiele-en-strafvorderlijke-gegevens wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen geneesmiddelenwet beginselenwet-justitiele-jeugdinrichtingen wet-op-de-rechtsbijstand,9,main
+2020-01-01,law,stb-2018-401,wet-justitiele-en-strafvorderlijke-gegevens,1,main
+2020-01-01,law,stb-2018-424,algemene-nabestaandenwet wet-financiering-sociale-verzekeringen,3,main
+2020-01-01,law,stb-2018-504,invorderingswet-1990 wet-financiering-sociale-verzekeringen,3,main
+2020-01-01,law,stb-2018-515,pensioenwet wet-verplichte-beroepspensioenregeling,6,main
+2020-01-01,law,stb-2019-173,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek kaderwet-zelfstandige-bestuursorganen wet-gemeenschappelijke-regelingen wet-arbeid-en-zorg geneesmiddelenwet wet-veiligheidsregios archiefwet-1995 wet-op-de-ondernemingsraden wet-nationale-ombudsman wet-luchtvaart wet-op-de-rechtsbijstand,21,main
+2020-01-01,law,stb-2019-185,wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-marktordening-gezondheidszorg,7,main
+2020-01-01,law,stb-2019-219,wet-financiering-sociale-verzekeringen,19,main
+2020-01-01,law,stb-2019-280,handelsregisterwet-2007,10,main
+2020-01-01,law,stcrt-2019-56680,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2020-01-01,law,stb-2019-395,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,35,main
+2020-01-01,law,stcrt-2019-65091,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2020-01-01,law,stcrt-2019-65478,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,9,main
+2020-01-01,law,stcrt-2019-66519,wet-op-de-rechtsbijstand,1,main
+2020-01-01,law,stb-2019-483,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen algemene-nabestaandenwet wet-financiering-sociale-verzekeringen pensioenwet wet-verplichte-beroepspensioenregeling wet-minimumloon-en-minimumvakantiebijslag algemene-kinderbijslagwet wet-arbeid-en-zorg,23,main
+2020-01-01,law,stcrt-2019-69923,pensioenwet wet-verplichte-beroepspensioenregeling algemene-kinderbijslagwet,3,main
+2020-01-01,law,stb-2019-512,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen kadasterwet,6,main
+2020-01-01,law,stcrt-2019-66707,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen,3,main
+2020-01-01,law,stcrt-2019-66970,algemene-douanewet,5,main
+2020-01-01,unexplained,,ambtenarenwet-2017,34,main
+2020-01-01,unexplained,,wet-op-de-rechtsbijstand,1,main
+2020-03-19,law,stb-2020-67,wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-marktordening-gezondheidszorg wet-publieke-gezondheid geneesmiddelenwet,12,main
+2020-04-01,law,stb-2019-150,wet-luchtvaart,9,main
+2020-04-01,law,stb-2019-219,wet-financiering-sociale-verzekeringen,4,main
+2020-04-01,law,stb-2020-60,kadasterwet,4,main
+2020-04-01,law,stb-2020-67,geneesmiddelenwet,4,main
+2020-04-01,law,stb-2020-76,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers wet-op-het-primair-onderwijs wet-op-de-expertisecentra,262,main
+2020-04-01,law,stb-2020-88,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,2,main
+2020-06-23,law,stb-2020-195,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen,3,main
+2020-06-27,law,stb-2020-211,kadasterwet,1,main
+2020-07-01,law,stb-2017-518,invorderingswet-1990,2,main
+2020-07-01,law,stb-2018-451,wet-op-de-arbeidsongeschiktheidsverzekering wet-financiering-sociale-verzekeringen wet-minimumloon-en-minimumvakantiebijslag wet-arbeid-en-zorg,16,main
+2020-07-01,law,stb-2019-119,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs wet-publieke-gezondheid wet-op-het-primair-onderwijs wet-op-de-expertisecentra,37,main
+2020-07-01,law,stb-2019-150,wet-luchtvaart,1,main
+2020-07-01,law,stb-2019-209,algemene-douanewet,1,main
+2020-07-01,law,stcrt-2020-22092,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2020-07-01,law,stb-2020-140,wet-veiligheidsregios,6,main
+2020-07-01,law,stcrt-2020-30199,algemene-nabestaandenwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,7,main
+2020-07-07,law,stb-2020-227,algemene-wet-inkomensafhankelijke-regelingen,10,main
+2020-07-16,law,stb-2020-233,wet-educatie-en-beroepsonderwijs,1,main
+2020-07-30,law,stb-2020-249,wet-minimumloon-en-minimumvakantiebijslag wet-personenvervoer-2000,2,main
+2020-08-01,law,stb-2015-390,wet-educatie-en-beroepsonderwijs,1,main
+2020-08-01,law,stb-2020-157,wet-educatie-en-beroepsonderwijs wet-op-de-expertisecentra,23,main
+2020-08-01,law,stb-2020-168,wet-educatie-en-beroepsonderwijs,1,main
+2020-08-01,law,stb-2020-233,wet-educatie-en-beroepsonderwijs,1,main
+2020-08-01,law,stb-2020-234,algemene-nabestaandenwet wet-educatie-en-beroepsonderwijs algemene-kinderbijslagwet wet-op-de-expertisecentra,103,main
+2020-08-01,law,stb-2020-245,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2020-08-01,law,stb-2020-278,algemene-douanewet,1,main
+2020-08-01,unexplained,,wet-op-de-expertisecentra,1,main
+2020-09-01,law,stb-2016-362,wet-educatie-en-beroepsonderwijs wet-op-de-expertisecentra,2,main
+2020-09-01,law,stb-2020-173,wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten toeslagenwet,11,main
+2020-09-01,law,stb-2020-234,wet-educatie-en-beroepsonderwijs,1,main
+2020-09-01,unexplained,,wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten,1,main
+2020-09-27,law,stb-2020-231,handelsregisterwet-2007,14,main
+2020-10-01,law,stb-2020-195,algemene-wet-inkomensafhankelijke-regelingen,1,main
+2020-10-10,law,stb-2020-374,wet-publieke-gezondheid,3,main
+2020-11-01,unexplained,,algemene-wet-inkomensafhankelijke-regelingen,2,main
+2020-12-01,law,stb-2020-441,wet-publieke-gezondheid,29,main
+2020-12-04,law,stb-2020-491,handelsregisterwet-2007,1,main
+2020-12-05,law,stb-2020-496,algemene-nabestaandenwet,1,main
+2021-01-01,law,stb-2010-867,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen,3,main
+2021-01-01,law,stb-2015-140,beginselenwet-justitiele-jeugdinrichtingen,1,main
+2021-01-01,law,stb-2017-110,invorderingswet-1990 wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen algemene-wet-inkomensafhankelijke-regelingen algemene-kinderbijslagwet toeslagenwet,15,main
+2021-01-01,law,stb-2018-424,algemene-nabestaandenwet,1,main
+2021-01-01,law,stb-2019-141,beginselenwet-justitiele-jeugdinrichtingen,33,main
+2021-01-01,law,stb-2019-513,invorderingswet-1990,2,main
+2021-01-01,law,stb-2020-95,wet-marktordening-gezondheidszorg,1,main
+2021-01-01,law,stb-2020-173,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten,44,main
+2021-01-01,law,stb-2020-235,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,43,main
+2021-01-01,law,stb-2020-275,wet-marktordening-gezondheidszorg wet-veiligheidsregios,7,main
+2021-01-01,law,stcrt-2020-53099,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2021-01-01,law,stb-2020-402,wet-marktordening-gezondheidszorg,2,main
+2021-01-01,law,stb-2020-455,wet-luchtvaart,8,main
+2021-01-01,law,stb-2020-472,invorderingswet-1990,1,main
+2021-01-01,law,stcrt-2020-61666,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,9,main
+2021-01-01,law,stcrt-2020-61809,wet-op-de-rechtsbijstand,1,main
+2021-01-01,law,stcrt-2020-62581,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2021-01-01,law,stb-2020-496,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-minimumloon-en-minimumvakantiebijslag algemene-kinderbijslagwet,34,main
+2021-01-01,law,stcrt-2020-66667,pensioenwet wet-verplichte-beroepspensioenregeling algemene-kinderbijslagwet,4,main
+2021-01-01,law,stb-2020-542,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen,2,main
+2021-01-01,law,stb-2020-543,algemene-wet-inkomensafhankelijke-regelingen,11,main
+2021-01-01,law,stb-2020-546,algemene-wet-inkomensafhankelijke-regelingen wet-op-de-rechtsbijstand,3,main
+2021-01-09,law,stb-2021-3,wet-publieke-gezondheid,1,main
+2021-02-01,law,stb-2020-160,wet-op-het-primair-onderwijs,28,main
+2021-02-12,unexplained,,algemene-wet-inkomensafhankelijke-regelingen,2,main
+2021-02-22,law,stb-2021-85,wet-publieke-gezondheid,4,main
+2021-05-07,law,stb-2021-155,algemene-douanewet,1,main
+2021-05-26,law,stb-2019-400,geneesmiddelenwet,1,main
+2021-06-01,law,stb-2021-240,wet-publieke-gezondheid,10,main
+2021-06-01,law,stb-2021-242,wet-publieke-gezondheid,15,main
+2021-06-02,unexplained,,invorderingswet-1990,1,main
+2021-06-03,law,stb-2020-472,algemene-douanewet,9,main
+2021-06-24,law,stb-2021-292,wet-publieke-gezondheid,5,main
+2021-06-30,law,stb-2021-286,kernenergiewet wet-luchtvaart wet-personenvervoer-2000,8,main
+2021-07-01,law,stb-2019-119,wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,3,main
+2021-07-01,law,stb-2019-280,handelsregisterwet-2007,1,main
+2021-07-01,law,stb-2020-262,pensioenwet wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek kaderwet-zelfstandige-bestuursorganen wet-verplichte-beroepspensioenregeling wet-gemeenschappelijke-regelingen wet-educatie-en-beroepsonderwijs wet-marktordening-gezondheidszorg wet-publieke-gezondheid kadasterwet geneesmiddelenwet kernenergiewet wet-op-het-primair-onderwijs wet-op-de-expertisecentra wet-luchtvaart,68,main
+2021-07-01,law,stb-2020-346,wet-marktordening-gezondheidszorg,6,main
+2021-07-01,law,stb-2020-441,wet-publieke-gezondheid,1,main
+2021-07-01,law,stb-2020-496,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2021-07-01,law,stb-2020-507,wet-verplichte-beroepspensioenregeling,1,main
+2021-07-01,law,stb-2021-56,wet-luchtvaart,1,main
+2021-07-01,law,stb-2021-135,pensioenwet wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-verplichte-beroepspensioenregeling wet-gemeenschappelijke-regelingen wet-educatie-en-beroepsonderwijs geneesmiddelenwet wet-veiligheidsregios wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-2000 dienstenwet kernenergiewet wet-op-het-primair-onderwijs wet-op-de-expertisecentra wet-personenvervoer-2000,24,main
+2021-07-01,law,stb-2021-165,wet-veiligheidsregios,1,main
+2021-07-01,law,stcrt-2021-21343,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2021-07-01,law,stcrt-2021-27619,algemene-nabestaandenwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,7,main
+2021-07-01,law,stb-2021-259,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen,3,main
+2021-07-01,law,stcrt-2021-31645,algemene-kinderbijslagwet,1,main
+2021-07-01,unexplained,,algemene-douanewet,2,main
+2021-07-03,law,stb-2021-322,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2021-07-10,law,stb-2021-271,wet-luchtvaart,7,main
+2021-07-10,law,stb-2021-328,wet-nationale-ombudsman,1,main
+2021-07-17,law,stb-2021-359,wet-publieke-gezondheid,1,main
+2021-08-01,law,stb-2020-234,wet-educatie-en-beroepsonderwijs,14,main
+2021-08-01,law,stb-2020-318,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,4,main
+2021-08-01,law,stb-2021-179,wet-educatie-en-beroepsonderwijs wet-op-de-expertisecentra,4,main
+2021-08-01,law,stb-2021-320,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,2,main
+2021-09-01,law,stb-2020-441,wet-publieke-gezondheid,4,main
+2021-09-01,law,stb-2021-263,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,39,main
+2021-09-01,law,stb-2021-322,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,3,main
+2021-09-01,unexplained,,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,2,main
+2021-09-28,law,stb-2019-280,handelsregisterwet-2007,2,main
+2021-10-01,law,stb-2020-437,wet-educatie-en-beroepsonderwijs wet-op-de-expertisecentra,3,main
+2021-10-01,law,stb-2021-409,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,88,main
+2021-12-01,law,stb-2020-441,wet-publieke-gezondheid,1,main
+2021-12-04,law,stb-2021-585,wet-publieke-gezondheid,2,main
+2021-12-08,law,stb-2021-592,wet-arbeid-en-zorg,2,main
+2021-12-21,law,stb-2021-627,wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,9,main
+2022-01-01,law,stb-2018-424,algemene-kinderbijslagwet,1,main
+2022-01-01,law,stb-2020-181,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-marktordening-gezondheidszorg geneesmiddelenwet wet-veiligheidsregios,12,main
+2022-01-01,law,stb-2020-543,algemene-wet-inkomensafhankelijke-regelingen,2,main
+2022-01-01,law,stb-2021-38,wet-educatie-en-beroepsonderwijs wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,10,main
+2022-01-01,law,stb-2021-102,wet-financiering-sociale-verzekeringen,6,main
+2022-01-01,law,stb-2021-263,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2022-01-01,law,stcrt-2021-44177,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2022-01-01,law,stb-2021-548,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,52,main
+2022-01-01,law,stcrt-2021-48060,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2022-01-01,law,stb-2021-612,invorderingswet-1990 algemene-douanewet,8,main
+2022-01-01,law,stcrt-2021-49166,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,9,main
+2022-01-01,law,stb-2021-627,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-minimumloon-en-minimumvakantiebijslag wet-arbeid-en-zorg wet-op-de-ondernemingsraden,39,main
+2022-01-01,law,stcrt-2021-50177,wet-op-de-rechtsbijstand,1,main
+2022-01-01,law,stcrt-2021-50384,pensioenwet wet-verplichte-beroepspensioenregeling algemene-kinderbijslagwet,4,main
+2022-01-01,law,stb-2021-651,algemene-wet-inkomensafhankelijke-regelingen,1,main
+2022-01-01,law,stb-2021-652,algemene-wet-inkomensafhankelijke-regelingen,4,main
+2022-01-01,law,stcrt-2021-48308,algemene-wet-inkomensafhankelijke-regelingen,2,main
+2022-01-01,unexplained,,wet-educatie-en-beroepsonderwijs,6,main
+2022-01-01,unexplained,,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2022-01-28,law,stb-2021-610,handelsregisterwet-2007,3,main
+2022-01-31,law,stb-2017-147,geneesmiddelenwet,4,main
+2022-02-16,law,stb-2022-21,kernenergiewet,1,main
+2022-02-24,unexplained,,algemene-wet-inkomensafhankelijke-regelingen,1,main
+2022-03-01,law,stb-2020-441,wet-publieke-gezondheid,1,main
+2022-03-01,law,stb-2022-92,wet-publieke-gezondheid,1,main
+2022-03-02,law,stb-2022-23,handelsregisterwet-2007 wet-marktordening-gezondheidszorg,4,main
+2022-03-23,law,stb-2022-116,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2022-04-01,law,stb-2021-171,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,216,main
+2022-04-01,law,stb-2022-116,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,2,main
+2022-04-01,unexplained,,wet-op-de-expertisecentra,37,main
+2022-04-01,unexplained,,wet-op-het-primair-onderwijs,46,main
+2022-05-01,law,stb-2021-499,pensioenwet wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek kaderwet-zelfstandige-bestuursorganen wet-verplichte-beroepspensioenregeling wet-minimumloon-en-minimumvakantiebijslag wet-gemeenschappelijke-regelingen wet-marktordening-gezondheidszorg wet-veiligheidsregios archiefwet-1995 wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-2000 wet-nationale-ombudsman,13,main
+2022-05-20,law,stb-2020-441,wet-publieke-gezondheid,44,main
+2022-05-20,unexplained,,wet-publieke-gezondheid,2,main
+2022-07-01,law,stb-2021-559,wet-justitiele-en-strafvorderlijke-gegevens,2,main
+2022-07-01,law,stb-2021-631,wet-publieke-gezondheid,2,main
+2022-07-01,law,stb-2022-18,wet-gemeenschappelijke-regelingen wet-nationale-ombudsman,47,main
+2022-07-01,law,stb-2022-104,kaderwet-zelfstandige-bestuursorganen wet-marktordening-gezondheidszorg wet-luchtvaart,10,main
+2022-07-01,law,stcrt-2022-11945,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2022-07-01,law,stcrt-2022-14977,algemene-nabestaandenwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,7,main
+2022-07-01,law,stcrt-2022-16361,algemene-kinderbijslagwet,1,main
+2022-07-01,unexplained,,algemene-wet-inkomensafhankelijke-regelingen,1,main
+2022-07-02,law,stb-2022-272,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2022-07-07,law,stb-2022-197,pensioenwet wet-verplichte-beroepspensioenregeling,2,main
+2022-07-08,law,stb-2022-177,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,2,main
+2022-07-14,law,stb-2022-293,wet-op-het-primair-onderwijs,11,main
+2022-08-01,law,stb-2014-13,wet-op-de-expertisecentra,1,main
+2022-08-01,law,stb-2017-327,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,2,main
+2022-08-01,law,stb-2020-157,wet-educatie-en-beroepsonderwijs,1,main
+2022-08-01,law,stb-2020-235,wet-educatie-en-beroepsonderwijs,2,main
+2022-08-01,law,stb-2021-57,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers wet-op-het-primair-onderwijs wet-op-de-expertisecentra,68,main
+2022-08-01,law,stb-2021-538,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,16,main
+2022-08-01,law,stb-2021-548,wet-educatie-en-beroepsonderwijs,23,main
+2022-08-01,law,stb-2022-86,wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,66,main
+2022-08-01,law,stb-2022-116,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs algemene-kinderbijslagwet ambtenarenwet-2017 wet-op-het-primair-onderwijs,29,main
+2022-08-01,law,stb-2022-272,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,2,main
+2022-08-01,law,stb-2022-293,wet-op-het-primair-onderwijs,1,main
+2022-08-02,law,stb-2021-592,wet-op-de-arbeidsongeschiktheidsverzekering wet-financiering-sociale-verzekeringen wet-minimumloon-en-minimumvakantiebijslag wet-arbeid-en-zorg,26,main
+2022-08-02,law,stb-2022-174,wet-arbeid-en-zorg,1,main
+2022-09-01,law,stb-2021-322,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,2,main
+2022-09-01,law,stb-2022-116,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,4,main
+2022-10-01,law,stb-2022-304,wet-marktordening-gezondheidszorg wet-personenvervoer-2000,3,main
+2022-10-01,law,stb-2022-345,burgerlijk-wetboek-boek-8 algemene-douanewet,3,main
+2022-10-10,law,stb-2020-374,wet-publieke-gezondheid,3,main
+2022-10-25,law,stb-2020-231,handelsregisterwet-2007,1,main
+2022-11-05,law,stb-2022-433,algemene-wet-inkomensafhankelijke-regelingen,12,main
+2022-12-14,law,stb-2022-499,wet-financiering-sociale-verzekeringen,1,main
+2022-12-22,law,stb-2021-256,algemene-douanewet,1,main
+2023-01-01,law,stb-2013-548,rijkswet-instelling-exclusieve-economische-zone,1,main
+2023-01-01,law,stb-2020-181,wet-marktordening-gezondheidszorg,1,main
+2023-01-01,law,stb-2020-235,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,4,main
+2023-01-01,law,stb-2020-543,algemene-wet-inkomensafhankelijke-regelingen,1,main
+2023-01-01,law,stb-2020-546,wet-op-de-rechtsbijstand,1,main
+2023-01-01,law,stb-2022-116,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs,33,main
+2023-01-01,law,stb-2022-135,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,13,main
+2023-01-01,law,stb-2022-134,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs,14,main
+2023-01-01,law,stb-2022-216,wet-veiligheidsregios,1,main
+2023-01-01,law,stb-2022-345,burgerlijk-wetboek-boek-8,1,main
+2023-01-01,law,stb-2022-381,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2023-01-01,law,stb-2022-387,pensioenwet wet-verplichte-beroepspensioenregeling,16,main
+2023-01-01,law,stb-2022-408,beginselenwet-justitiele-jeugdinrichtingen,1,main
+2023-01-01,law,stcrt-2022-32251,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,7,main
+2023-01-01,law,stb-2022-491,wet-op-de-ondernemingsraden,1,main
+2023-01-01,law,stb-2022-499,algemene-nabestaandenwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,4,main
+2023-01-01,law,stcrt-2022-34446,wet-op-de-rechtsbijstand,1,main
+2023-01-01,law,stcrt-2022-32674,algemene-wet-inkomensafhankelijke-regelingen,2,main
+2023-01-01,law,stb-2022-530,invorderingswet-1990,4,main
+2023-01-01,law,stb-2022-531,invorderingswet-1990,2,main
+2023-01-01,law,stb-2022-532,wet-financiering-sociale-verzekeringen algemene-wet-inkomensafhankelijke-regelingen,2,main
+2023-01-01,law,stb-2022-536,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen,2,main
+2023-01-01,law,stb-2022-543,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen algemene-nabestaandenwet wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten algemene-kinderbijslagwet,9,main
+2023-01-01,law,stcrt-2022-34944,pensioenwet wet-verplichte-beroepspensioenregeling,2,main
+2023-02-18,law,stb-2023-29,wet-op-de-ondernemingsraden wet-luchtvaart wet-op-de-rechtsbijstand,5,main
+2023-02-24,law,stcrt-2023-5947,algemene-nabestaandenwet,1,main
+2023-03-01,law,stb-2022-490,wet-justitiele-en-strafvorderlijke-gegevens,13,main
+2023-04-19,law,stb-2023-66,wet-luchtvaart,7,main
+2023-05-01,law,stb-2023-41,invorderingswet-1990 kadasterwet burgerlijk-wetboek-boek-8,4,main
+2023-06-01,law,stb-2022-215,handelsregisterwet-2007,1,main
+2023-06-20,law,stb-2023-184,wet-publieke-gezondheid wet-veiligheidsregios,53,main
+2023-07-01,law,stb-2021-292,wet-publieke-gezondheid,1,main
+2023-07-01,law,stb-2023-57,pensioenwet wet-verplichte-beroepspensioenregeling,2,main
+2023-07-01,law,stcrt-2023-12023,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2023-07-01,law,stb-2023-148,wet-personenvervoer-2000,1,main
+2023-07-01,law,stcrt-2023-16403,algemene-nabestaandenwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,7,main
+2023-07-01,law,stcrt-2023-17197,algemene-kinderbijslagwet,1,main
+2023-07-01,law,stb-2023-216,pensioenwet wet-verplichte-beroepspensioenregeling wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-2000,230,main
+2023-07-09,law,stb-2020-235,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,2,main
+2023-08-01,law,stb-2022-135,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,22,main
+2023-08-01,law,stb-2022-134,wet-educatie-en-beroepsonderwijs,34,main
+2023-08-01,law,stb-2023-147,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2023-08-01,law,stb-2023-192,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,2,main
+2023-08-01,law,stb-2023-212,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,29,main
+2023-08-01,unexplained,,wet-educatie-en-beroepsonderwijs,1,main
+2023-09-01,law,stb-2022-272,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2023-09-01,law,stb-2023-177,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2023-09-01,law,stb-2023-186,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,3,main
+2023-09-01,law,stb-2023-192,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,7,main
+2023-10-01,law,stb-2023-202,wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-marktordening-gezondheidszorg,9,main
+2023-10-11,law,stb-2023-332,wet-op-het-primair-onderwijs,14,main
+2023-11-01,law,stb-2018-401,wet-justitiele-en-strafvorderlijke-gegevens,1,main
+2023-12-31,law,stb-2023-510,invorderingswet-1990,1,main
+2024-01-01,law,stb-2014-14,handelsregisterwet-2007,1,main
+2024-01-01,law,stb-2020-83,algemene-douanewet,1,main
+2024-01-01,law,stb-2020-112,kadasterwet,1,main
+2024-01-01,law,stb-2020-172,wet-veiligheidsregios kernenergiewet wet-luchtvaart,45,main
+2024-01-01,law,stb-2020-181,handelsregisterwet-2007,1,main
+2024-01-01,law,stb-2020-310,kernenergiewet,3,main
+2024-01-01,law,stb-2021-135,kernenergiewet,2,main
+2024-01-01,law,stb-2022-293,wet-op-het-primair-onderwijs,7,main
+2024-01-01,law,stb-2022-545,wet-personenvervoer-2000,5,main
+2024-01-01,law,stb-2022-532,invorderingswet-1990,2,main
+2024-01-01,law,stb-2023-168,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-minimumloon-en-minimumvakantiebijslag wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-arbeid-en-zorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,19,main
+2024-01-01,law,stb-2023-183,algemene-douanewet,1,main
+2024-01-01,law,stb-2023-226,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,7,main
+2024-01-01,law,stb-2023-216,pensioenwet wet-verplichte-beroepspensioenregeling,5,main
+2024-01-01,law,stb-2023-293,wet-marktordening-gezondheidszorg geneesmiddelenwet,3,main
+2024-01-01,law,stb-2023-301,algemene-douanewet,2,main
+2024-01-01,law,stb-2023-376,wet-luchtvaart,4,main
+2024-01-01,law,stb-2023-381,wet-financiering-sociale-verzekeringen,3,main
+2024-01-01,law,stcrt-2023-31627,wet-op-de-rechtsbijstand,1,main
+2024-01-01,law,stb-2023-417,wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-minimumloon-en-minimumvakantiebijslag wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-arbeid-en-zorg wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,9,main
+2024-01-01,law,stb-2023-433,algemene-douanewet,8,main
+2024-01-01,law,stcrt-2023-33542,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,9,main
+2024-01-01,law,stb-2023-490,algemene-nabestaandenwet,1,main
+2024-01-01,law,stb-2023-498,invorderingswet-1990 wet-structuur-uitvoeringsorganisatie-werk-en-inkomen algemene-wet-inkomensafhankelijke-regelingen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,46,main
+2024-01-01,law,stb-2023-499,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen wet-luchtvaart,12,main
+2024-01-01,law,stb-2023-501,invorderingswet-1990,1,main
+2024-01-01,law,stcrt-2023-35511,pensioenwet wet-verplichte-beroepspensioenregeling algemene-kinderbijslagwet,3,main
+2024-01-01,law,stcrt-2023-32714,algemene-wet-inkomensafhankelijke-regelingen,2,main
+2024-01-01,unexplained,,wet-financiering-sociale-verzekeringen,1,main
+2024-01-01,unexplained,,wet-luchtvaart,1,main
+2024-01-01,unexplained,,wet-op-het-primair-onderwijs,1,main
+2024-01-25,law,stb-2024-6,algemene-kinderbijslagwet,1,main
+2024-02-01,law,stb-2024-15,wet-publieke-gezondheid,1,main
+2024-04-13,law,stb-2024-84,wet-publieke-gezondheid,1,main
+2024-05-01,law,stb-2024-109,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-op-het-primair-onderwijs,2,main
+2024-06-13,law,stb-2024-109,wet-educatie-en-beroepsonderwijs wet-op-de-expertisecentra,2,main
+2024-06-19,law,stb-2024-164,handelsregisterwet-2007 kadasterwet archiefwet-1995,4,main
+2024-06-27,law,stb-2020-88,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2024-07-01,law,stb-2023-501,algemene-douanewet,7,main
+2024-07-01,law,stb-2024-59,wet-justitiele-en-strafvorderlijke-gegevens wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra wet-op-de-rechtsbijstand,7,main
+2024-07-01,law,stb-2024-77,wet-luchtvaart,5,main
+2024-07-01,law,stb-2024-78,algemene-kinderbijslagwet,3,main
+2024-07-01,law,stcrt-2024-13508,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2024-07-01,law,stb-2024-131,kernenergiewet,1,main
+2024-07-01,law,stcrt-2024-17898,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,6,main
+2024-07-01,law,stcrt-2024-19710,algemene-kinderbijslagwet,1,main
+2024-08-01,law,stb-2024-109,wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs wet-op-de-expertisecentra,46,main
+2024-08-01,unexplained,,wet-educatie-en-beroepsonderwijs,1,main
+2024-09-01,law,stb-2024-109,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek ambtenarenwet-2017,27,main
+2024-09-01,law,stb-2024-153,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,3,main
+2024-09-14,law,stb-2024-109,wet-educatie-en-beroepsonderwijs,5,main
+2024-10-01,law,stb-2019-280,handelsregisterwet-2007,2,main
+2024-11-06,law,stb-2024-291,algemene-wet-inkomensafhankelijke-regelingen wet-publieke-gezondheid,2,main
+2024-12-18,law,stb-2024-409,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,2,main
+2025-01-01,law,stb-2022-532,algemene-kinderbijslagwet,1,main
+2025-01-01,law,stb-2022-542,wet-financiering-sociale-verzekeringen,1,main
+2025-01-01,law,stb-2023-503,invorderingswet-1990,1,main
+2025-01-01,law,stb-2023-508,invorderingswet-1990,2,main
+2025-01-01,law,stb-2024-143,wet-publieke-gezondheid wet-luchtvaart,16,main
+2025-01-01,law,stb-2024-165,wet-op-het-primair-onderwijs,1,main
+2025-01-01,law,stb-2024-200,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,1,main
+2025-01-01,law,stb-2024-223,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs wet-op-de-expertisecentra,6,main
+2025-01-01,law,stb-2024-279,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek,15,main
+2025-01-01,law,stcrt-2024-33625,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2025-01-01,law,stb-2024-291,wet-marktordening-gezondheidszorg,2,main
+2025-01-01,law,stb-2024-300,wet-marktordening-gezondheidszorg geneesmiddelenwet,3,main
+2025-01-01,law,stb-2024-310,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,12,main
+2025-01-01,law,stcrt-2024-39288,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,7,main
+2025-01-01,law,stcrt-2024-41005,wet-op-de-rechtsbijstand,1,main
+2025-01-01,law,stb-2024-409,wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-minimumloon-en-minimumvakantiebijslag algemene-kinderbijslagwet wet-arbeid-en-zorg toeslagenwet,18,main
+2025-01-01,law,stcrt-2024-42068,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen,1,main
+2025-01-01,law,stb-2024-431,algemene-nabestaandenwet,1,main
+2025-01-01,law,stb-2024-435,invorderingswet-1990 pensioenwet wet-verplichte-beroepspensioenregeling algemene-douanewet,9,main
+2025-01-01,law,stb-2024-439,invorderingswet-1990,1,main
+2025-01-01,law,stb-2024-440,algemene-wet-inkomensafhankelijke-regelingen,3,main
+2025-01-01,law,stcrt-2024-38305,algemene-douanewet,5,main
+2025-01-01,law,stcrt-2024-38492,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen,4,main
+2025-01-01,law,stcrt-2024-42409,pensioenwet wet-verplichte-beroepspensioenregeling algemene-kinderbijslagwet wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,5,main
+2025-02-12,law,stb-2024-391,wet-gemeenschappelijke-regelingen kadasterwet wet-veiligheidsregios,12,main
+2025-03-01,law,stb-2024-143,wet-publieke-gezondheid,13,main
+2025-03-01,law,stb-2024-198,wet-justitiele-en-strafvorderlijke-gegevens pensioenwet wet-verplichte-beroepspensioenregeling,6,main
+2025-04-04,law,stb-2025-85,wet-luchtvaart,4,main
+2025-05-01,law,stb-2024-109,wet-op-de-expertisecentra,1,main
+2025-06-13,law,stb-2024-109,wet-op-het-primair-onderwijs,1,main
+2025-07-01,law,stb-2023-156,kadasterwet burgerlijk-wetboek-boek-8,6,main
+2025-07-01,law,stb-2025-9,algemene-douanewet ambtenarenwet-2017,2,main
+2025-07-01,law,stb-2025-25,wet-justitiele-en-strafvorderlijke-gegevens,4,main
+2025-07-01,law,stcrt-2025-12264,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2025-07-01,law,stb-2025-124,wet-veiligheidsregios burgerlijk-wetboek-boek-8,4,main
+2025-07-01,law,stcrt-2025-19118,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,6,main
+2025-07-01,law,stb-2025-168,algemene-wet-inkomensafhankelijke-regelingen,1,main
+2025-07-01,law,stcrt-2025-21953,algemene-kinderbijslagwet,1,main
+2025-07-05,law,stb-2025-151,wet-publieke-gezondheid geneesmiddelenwet,6,main
+2025-07-16,law,stb-2025-189,handelsregisterwet-2007,6,main
+2025-08-01,law,stb-2024-165,wet-op-het-primair-onderwijs wet-op-de-expertisecentra,17,main
+2025-09-01,law,stb-2025-200,wet-marktordening-gezondheidszorg,1,main
+2025-09-09,law,stb-2025-151,geneesmiddelenwet,2,main
+2025-09-17,law,stb-2025-234,wet-luchtvaart,4,main
+2025-11-11,law,stb-2025-304,wet-algemene-bepalingen-burgerservicenummer,5,main
+2025-12-31,law,stb-2025-447,wet-luchtvaart,1,main
+2026-01-01,law,stb-2022-308,algemene-wet-inkomensafhankelijke-regelingen,1,main
+2026-01-01,law,stb-2023-183,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-verplichte-beroepspensioenregeling wet-educatie-en-beroepsonderwijs kadasterwet wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-2000 dienstenwet wet-op-het-primair-onderwijs wet-op-de-expertisecentra,12,main
+2026-01-01,law,stb-2024-189,wet-publieke-gezondheid,5,main
+2026-01-01,law,stb-2024-409,wet-financiering-sociale-verzekeringen,3,main
+2026-01-01,law,stb-2025-121,wet-financiering-sociale-verzekeringen,2,main
+2026-01-01,law,stb-2025-123,wet-financiering-sociale-verzekeringen wet-marktordening-gezondheidszorg,8,main
+2026-01-01,law,stb-2025-210,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-financiering-sociale-verzekeringen wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs wet-op-de-expertisecentra,72,main
+2026-01-01,law,stcrt-2025-34131,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2026-01-01,law,stb-2025-280,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs wet-op-het-primair-onderwijs,22,main
+2026-01-01,law,stb-2025-274,wet-marktordening-gezondheidszorg,39,main
+2026-01-01,law,stb-2025-312,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,13,main
+2026-01-01,law,stcrt-2025-39858,wet-op-de-rechtsbijstand,1,main
+2026-01-01,law,stb-2025-422,pensioenwet wet-verplichte-beroepspensioenregeling wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-2000,17,main
+2026-01-01,law,stb-2025-431,invorderingswet-1990 pensioenwet wet-verplichte-beroepspensioenregeling algemene-wet-inkomensafhankelijke-regelingen algemene-douanewet,13,main
+2026-01-01,law,stcrt-2025-43553,wet-op-de-arbeidsongeschiktheidsverzekering wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,9,main
+2026-01-01,law,stb-2025-441,algemene-wet-inkomensafhankelijke-regelingen,18,main
+2026-01-01,law,stb-2025-445,invorderingswet-1990 algemene-douanewet,4,main
+2026-01-01,law,stcrt-2025-40487,algemene-wet-inkomensafhankelijke-regelingen,2,main
+2026-01-01,law,stcrt-2025-44508,pensioenwet wet-verplichte-beroepspensioenregeling algemene-kinderbijslagwet,4,main
+2026-01-01,unexplained,,algemene-wet-inkomensafhankelijke-regelingen,1,main
+2026-01-01,unexplained,,wet-educatie-en-beroepsonderwijs,19,main
+2026-02-04,law,stb-2025-312,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers,2,main
+2026-02-04,law,stb-2026-16,wet-minimumloon-en-minimumvakantiebijslag,2,main
+2026-06-04,law,stb-2026-94,burgerlijk-wetboek-boek-8,1,main
+2026-06-12,law,stb-2026-127,wet-veiligheidsregios wet-op-het-primair-onderwijs wet-op-de-expertisecentra,7,main
+2026-07-01,law,stb-2022-330,invorderingswet-1990,1,main
+2026-07-01,law,stb-2025-143,algemene-douanewet,2,main
+2026-07-01,law,stb-2025-385,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2026-07-01,law,stb-2026-4,wet-personenvervoer-2000,2,main
+2026-07-01,law,stb-2026-18,wet-structuur-uitvoeringsorganisatie-werk-en-inkomen wet-op-de-arbeidsongeschiktheidsverzekering algemene-nabestaandenwet wet-financiering-sociale-verzekeringen wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten wet-arbeidsongeschiktheidsverzekering-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,28,main
+2026-07-01,law,stb-2026-86,burgerlijk-wetboek-boek-8,6,main
+2026-07-01,law,stcrt-2026-16505,wet-minimumloon-en-minimumvakantiebijslag,1,main
+2026-07-01,law,stb-2026-111,wet-luchtvaart,6,main
+2026-07-01,law,stcrt-2026-20221,wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers toeslagenwet,6,main
+2026-07-01,law,stcrt-2026-21999,algemene-kinderbijslagwet,1,main
+2026-08-01,law,stb-2026-138,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-op-het-primair-onderwijs wet-op-de-expertisecentra,23,main
+2026-08-01,law,stb-2026-177,wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek wet-educatie-en-beroepsonderwijs algemene-kinderbijslagwet wet-op-de-expertisecentra,92,main
+2026-09-01,law,stb-2026-154,wet-justitiele-en-strafvorderlijke-gegevens wet-marktordening-gezondheidszorg wet-op-de-rechtsbijstand,7,main
+2026-10-01,law,stb-2019-512,invorderingswet-1990 algemene-wet-inkomensafhankelijke-regelingen,4,main
+2026-10-01,law,stb-2026-180,wet-op-de-identificatieplicht,1,main
+2026-10-08,law,stb-2026-306,wet-op-de-arbeidsongeschiktheidsverzekering,1,main

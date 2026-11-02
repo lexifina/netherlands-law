@@ -48,6 +48,10 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-10-29 | CC0 1.0 |
 | Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-10-29 | CC0 1.0 |
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-10-29 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-02 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-02 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-02 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-02 | CC0 1.0 |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -107,20 +111,70 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `wet-wapens-en-munitie` | Wet wapens en munitie | 37 | 2002-04-01 to 2026-07-01 |
 | `politiewet-2012` | Politiewet 2012 | 21 | 2013-01-01 to 2026-06-12 |
 | `provinciewet` | Provinciewet | 74 | 2002-01-16 to 2026-07-01 |
+| `invorderingswet-1990` | Invorderingswet 1990 | 64 | 2002-01-01 to 2026-10-01 |
+| `wet-op-de-identificatieplicht` | Wet op de identificatieplicht | 7 | 2001-04-01 to 2026-10-01 |
+| `wet-structuur-uitvoeringsorganisatie-werk-en-inkomen` | Wet structuur uitvoeringsorganisatie werk en inkomen | 63 | 2002-04-01 to 2026-07-01 |
+| `wet-justitiele-en-strafvorderlijke-gegevens` | Wet justitiële en strafvorderlijke gegevens | 30 | 2004-04-01 to 2026-09-01 |
+| `handelsregisterwet-2007` | Handelsregisterwet 2007 | 33 | 2008-01-01 to 2025-07-16 |
+| `wet-algemene-bepalingen-burgerservicenummer` | Wet algemene bepalingen burgerservicenummer | 7 | 2007-11-26 to 2025-11-11 |
+| `wet-op-de-arbeidsongeschiktheidsverzekering` | Wet op de arbeidsongeschiktheidsverzekering | 80 | 2002-04-01 to 2026-10-08 |
+| `algemene-nabestaandenwet` | Algemene nabestaandenwet | 72 | 2002-01-01 to 2026-07-01 |
+| `wet-financiering-sociale-verzekeringen` | Wet financiering sociale verzekeringen | 65 | 2005-12-09 to 2026-07-01 |
+| `pensioenwet` | Pensioenwet | 55 | 2007-01-01 to 2026-01-01 |
+| `wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek` | Wet op het hoger onderwijs en wetenschappelijk onderzoek | 127 | 2002-01-01 to 2026-08-01 |
+| `algemene-termijnenwet` | Algemene termijnenwet | 2 | 1999-02-17 to 2010-10-10 |
+| `wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten` | Wet arbeidsongeschiktheidsvoorziening jonggehandicapten | 67 | 2002-01-01 to 2026-07-01 |
+| `kaderwet-zelfstandige-bestuursorganen` | Kaderwet zelfstandige bestuursorganen | 7 | 2007-02-01 to 2022-07-01 |
+| `wet-arbeidsongeschiktheidsverzekering-zelfstandigen` | Wet arbeidsongeschiktheidsverzekering zelfstandigen | 64 | 2002-01-01 to 2026-07-01 |
+| `wet-verplichte-beroepspensioenregeling` | Wet verplichte beroepspensioenregeling | 55 | 2006-01-01 to 2026-01-01 |
+| `wet-minimumloon-en-minimumvakantiebijslag` | Wet minimumloon en minimumvakantiebijslag | 59 | 2002-01-01 to 2026-07-01 |
+| `wet-gemeenschappelijke-regelingen` | Wet gemeenschappelijke regelingen | 19 | 2002-03-07 to 2025-02-12 |
+| `wet-educatie-en-beroepsonderwijs` | Wet educatie en beroepsonderwijs | 100 | 2001-12-22 to 2026-08-01 |
+| `algemene-wet-inkomensafhankelijke-regelingen` | Algemene wet inkomensafhankelijke regelingen | 47 | 2005-09-01 to 2026-10-01 |
+| `wet-marktordening-gezondheidszorg` | Wet marktordening gezondheidszorg | 44 | 2006-10-01 to 2026-09-01 |
+| `wet-publieke-gezondheid` | Wet publieke gezondheid | 46 | 2008-12-01 to 2026-01-01 |
+| `algemene-kinderbijslagwet` | Algemene Kinderbijslagwet | 70 | 2002-01-01 to 2026-08-01 |
+| `wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen` | Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen | 88 | 2002-01-01 to 2026-07-01 |
+| `kadasterwet` | Kadasterwet | 40 | 2002-04-01 to 2026-01-01 |
+| `algemene-wet-op-het-binnentreden` | Algemene wet op het binnentreden | 2 | 1999-06-01 to 2010-07-01 |
+| `wet-arbeid-en-zorg` | Wet arbeid en zorg | 38 | 2002-01-01 to 2025-01-01 |
+| `geneesmiddelenwet` | Geneesmiddelenwet | 30 | 2007-07-01 to 2025-09-09 |
+| `wet-veiligheidsregios` | Wet veiligheidsregio’s | 22 | 2010-10-01 to 2026-06-12 |
+| `wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers` | Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers | 87 | 2002-01-01 to 2026-07-01 |
+| `wet-op-het-consumentenkrediet` | Wet op het consumentenkrediet | 17 | 2002-03-08 to 2019-01-01 |
+| `burgerlijk-wetboek-boek-8` | Burgerlijk Wetboek Boek 8 | 33 | 2002-01-01 to 2026-07-01 |
+| `archiefwet-1995` | Archiefwet 1995 | 15 | 2001-09-01 to 2024-06-19 |
+| `beginselenwet-justitiele-jeugdinrichtingen` | Beginselenwet justitiële jeugdinrichtingen | 30 | 2002-03-08 to 2023-01-01 |
+| `wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-2000` | Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000 | 15 | 2002-01-01 to 2026-01-01 |
+| `algemene-douanewet` | Algemene douanewet | 35 | 2008-08-01 to 2026-07-01 |
+| `dienstenwet` | Dienstenwet | 13 | 2009-12-07 to 2026-01-01 |
+| `ambtenarenwet-2017` | Ambtenarenwet 2017 | 39 | 2002-03-07 to 2025-07-01 |
+| `kernenergiewet` | Kernenergiewet | 34 | 2002-03-01 to 2024-07-01 |
+| `wet-op-de-ondernemingsraden` | Wet op de ondernemingsraden | 31 | 2002-01-01 to 2023-02-18 |
+| `wet-arbeidsongeschiktheidsvoorziening-militairen` | Wet arbeidsongeschiktheidsvoorziening militairen | 7 | 2002-02-15 to 2015-01-01 |
+| `wet-nationale-ombudsman` | Wet Nationale ombudsman | 17 | 2002-03-12 to 2022-07-01 |
+| `wet-op-het-primair-onderwijs` | Wet op het primair onderwijs | 101 | 2002-03-20 to 2026-08-01 |
+| `wet-op-de-expertisecentra` | Wet op de expertisecentra | 94 | 2002-03-20 to 2026-08-01 |
+| `toeslagenwet` | Toeslagenwet | 58 | 2002-04-01 to 2026-07-01 |
+| `wet-luchtvaart` | Wet luchtvaart | 84 | 2001-10-01 to 2026-07-01 |
+| `wet-op-de-rechtsbijstand` | Wet op de rechtsbijstand | 58 | 2002-01-01 to 2026-09-01 |
+| `wet-sociale-werkvoorziening` | Wet sociale werkvoorziening | 16 | 2002-01-01 to 2015-07-01 |
+| `rijkswet-instelling-exclusieve-economische-zone` | Rijkswet instelling exclusieve economische zone | 2 | 2000-04-28 to 2023-01-01 |
+| `wet-personenvervoer-2000` | Wet personenvervoer 2000 | 44 | 2002-01-01 to 2026-07-01 |
 
-The build made 2659 commits:
+The build made 4364 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 52 | first version of an act |
-| 2457 | one law on its in-force day |
-| 150 | changes no amendment note explains, credited to the publisher |
+| 102 | first version of an act |
+| 4020 | one law on its in-force day |
+| 242 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `toekomst`: laws not yet in force on 2026-11-02.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1921 laws in the record.
-- 5130 tags.
+- 2451 laws in the record.
+- 7893 tags.
 
 ## Dates
 
@@ -132,15 +186,15 @@ When a law gives no date of its own, the default rule applies: Bekendmakingswet 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `092a6aca93c25ea86e92560346c11affd5a1e8639e445ab0e0f05b1053591dd2` (82192785 bytes).
+- Corpus: sha256 `ccf1dc67ddd25279bd1fd5a871d4a07c1e58a510adc8fe936608da1dca975d8b` (119396637 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-3209 versions of 52 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+5442 versions of 102 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
-A second build from the same corpus into an empty folder gave identical hashes for all 2659 history commits and 5130 tags (history tip `47e00926511d93b45dd50d82ae80b67d3657e592`).
+No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
@@ -243,6 +297,48 @@ A second build from the same corpus into an empty folder gave identical hashes f
 - History starts at the oldest version the BWB holds: Provinciewet 2002-01-16; earlier history is not reconstructed.
 - Where the BWB names a Staatscourant publication as the source of a wording (bron="Stcrt.YYYY-N", for example a ministerial regulation adjusting amounts), it is labelled "Stcrt." and counted as a decree.
 - provinciewet: 6 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- Invorderingswet 1990 (BWBR0004770), Wet op de identificatieplicht (BWBR0006297), Wet structuur uitvoeringsorganisatie werk en inkomen (BWBR0013060), Wet justitiële en strafvorderlijke gegevens (BWBR0014194), Handelsregisterwet 2007 (BWBR0021777), Wet algemene bepalingen burgerservicenummer (BWBR0022428), Wet op de arbeidsongeschiktheidsverzekering (BWBR0002524), Algemene nabestaandenwet (BWBR0007795), Wet financiering sociale verzekeringen (BWBR0017745), Pensioenwet (BWBR0020809), Wet op het hoger onderwijs en wetenschappelijk onderzoek (BWBR0005682), Algemene termijnenwet (BWBR0002448), Wet arbeidsongeschiktheidsvoorziening jonggehandicapten (BWBR0008657), Kaderwet zelfstandige bestuursorganen (BWBR0020495), Wet arbeidsongeschiktheidsverzekering zelfstandigen (BWBR0008656), Wet verplichte beroepspensioenregeling (BWBR0018831), Wet minimumloon en minimumvakantiebijslag (BWBR0002638), Wet gemeenschappelijke regelingen (BWBR0003740), Wet educatie en beroepsonderwijs (BWBR0007625), Algemene wet inkomensafhankelijke regelingen (BWBR0018472), Wet marktordening gezondheidszorg (BWBR0020078), Wet publieke gezondheid (BWBR0024705), Algemene Kinderbijslagwet (BWBR0002368), Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen (BWBR0004163), Kadasterwet (BWBR0004541): built by the same method as the rest of the corpus (every BWB toestand still visible, dated by datum_inwerkingtreding, articles credited to their bron when their inwerking is the day of the version).
+- History starts at the oldest version the BWB holds: Invorderingswet 1990 2002-01-01, Wet op de identificatieplicht 2001-04-01, Wet structuur uitvoeringsorganisatie werk en inkomen 2002-04-01, Wet justitiële en strafvorderlijke gegevens 2004-04-01, Handelsregisterwet 2007 2008-01-01, Wet algemene bepalingen burgerservicenummer 2007-11-26, Wet op de arbeidsongeschiktheidsverzekering 2002-04-01, Algemene nabestaandenwet 2002-01-01, Wet financiering sociale verzekeringen 2005-12-09, Pensioenwet 2007-01-01, Wet op het hoger onderwijs en wetenschappelijk onderzoek 2002-01-01, Algemene termijnenwet 1999-02-17, Wet arbeidsongeschiktheidsvoorziening jonggehandicapten 2002-01-01, Kaderwet zelfstandige bestuursorganen 2007-02-01, Wet arbeidsongeschiktheidsverzekering zelfstandigen 2002-01-01, Wet verplichte beroepspensioenregeling 2006-01-01, Wet minimumloon en minimumvakantiebijslag 2002-01-01, Wet gemeenschappelijke regelingen 2002-03-07, Wet educatie en beroepsonderwijs 2001-12-22, Algemene wet inkomensafhankelijke regelingen 2005-09-01, Wet marktordening gezondheidszorg 2006-10-01, Wet publieke gezondheid 2008-12-01, Algemene Kinderbijslagwet 2002-01-01, Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen 2002-01-01, Kadasterwet 2002-04-01; earlier history is not reconstructed.
+- Where the BWB names a Staatscourant publication as the source of a wording (bron="Stcrt.YYYY-N", for example a ministerial regulation adjusting amounts), it is labelled "Stcrt." and counted as a decree.
+- invorderingswet-1990: 13 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-structuur-uitvoeringsorganisatie-werk-en-inkomen: 2 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- handelsregisterwet-2007: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-algemene-bepalingen-burgerservicenummer: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-op-de-arbeidsongeschiktheidsverzekering: 5 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- algemene-nabestaandenwet: 4 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-financiering-sociale-verzekeringen: 7 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- pensioenwet: 5 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek: 13 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten: 5 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-arbeidsongeschiktheidsverzekering-zelfstandigen: 5 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-verplichte-beroepspensioenregeling: 5 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-educatie-en-beroepsonderwijs: 3 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- algemene-wet-inkomensafhankelijke-regelingen: 10 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-marktordening-gezondheidszorg: 2 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- algemene-kinderbijslagwet: 2 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen: 5 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- kadasterwet: 3 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- Algemene wet op het binnentreden (BWBR0006763), Wet arbeid en zorg (BWBR0013008), Geneesmiddelenwet (BWBR0021505), Wet veiligheidsregio’s (BWBR0027466), Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers (BWBR0004044), Wet op het consumentenkrediet (BWBR0004815), Burgerlijk Wetboek Boek 8 (BWBR0005034), Archiefwet 1995 (BWBR0007376), Beginselenwet justitiële jeugdinrichtingen (BWBR0011756), Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000 (BWBR0012092), Algemene douanewet (BWBR0023746), Dienstenwet (BWBR0026759), Ambtenarenwet 2017 (BWBR0001947), Kernenergiewet (BWBR0002402), Wet op de ondernemingsraden (BWBR0002747), Wet arbeidsongeschiktheidsvoorziening militairen (BWBR0002822), Wet Nationale ombudsman (BWBR0003372), Wet op het primair onderwijs (BWBR0003420), Wet op de expertisecentra (BWBR0003549), Toeslagenwet (BWBR0004043), Wet luchtvaart (BWBR0005555), Wet op de rechtsbijstand (BWBR0006368), Wet sociale werkvoorziening (BWBR0008903), Rijkswet instelling exclusieve economische zone (BWBR0010480), Wet personenvervoer 2000 (BWBR0011470): built by the same method as the rest of the corpus (every BWB toestand still visible, dated by datum_inwerkingtreding, articles credited to their bron when their inwerking is the day of the version).
+- History starts at the oldest version the BWB holds: Algemene wet op het binnentreden 1999-06-01, Wet arbeid en zorg 2002-01-01, Geneesmiddelenwet 2007-07-01, Wet veiligheidsregio’s 2010-10-01, Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers 2002-01-01, Wet op het consumentenkrediet 2002-03-08, Burgerlijk Wetboek Boek 8 2002-01-01, Archiefwet 1995 2001-09-01, Beginselenwet justitiële jeugdinrichtingen 2002-03-08, Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000 2002-01-01, Algemene douanewet 2008-08-01, Dienstenwet 2009-12-07, Ambtenarenwet 2017 2002-03-07, Kernenergiewet 2002-03-01, Wet op de ondernemingsraden 2002-01-01, Wet arbeidsongeschiktheidsvoorziening militairen 2002-02-15, Wet Nationale ombudsman 2002-03-12, Wet op het primair onderwijs 2002-03-20, Wet op de expertisecentra 2002-03-20, Toeslagenwet 2002-04-01, Wet luchtvaart 2001-10-01, Wet op de rechtsbijstand 2002-01-01, Wet sociale werkvoorziening 2002-01-01, Rijkswet instelling exclusieve economische zone 2000-04-28, Wet personenvervoer 2000 2002-01-01; earlier history is not reconstructed.
+- Where the BWB names a Staatscourant publication as the source of a wording (bron="Stcrt.YYYY-N", for example a ministerial regulation adjusting amounts), it is labelled "Stcrt." and counted as a decree.
+- wet-arbeid-en-zorg: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-veiligheidsregios: 7 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers: 4 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- burgerlijk-wetboek-boek-8: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- archiefwet-1995: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- beginselenwet-justitiele-jeugdinrichtingen: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-2000: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- algemene-douanewet: 10 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- dienstenwet: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- ambtenarenwet-2017: 2 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-op-het-primair-onderwijs: 4 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-op-de-expertisecentra: 3 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- toeslagenwet: 2 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-luchtvaart: 3 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-op-de-rechtsbijstand: 2 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-sociale-werkvoorziening: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- rijkswet-instelling-exclusieve-economische-zone: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- wet-personenvervoer-2000: 2 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
 
 ## What AI did and did not do
 
@@ -254,6 +350,8 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none: no model wrote, summarised or classified any text in this corpus. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
