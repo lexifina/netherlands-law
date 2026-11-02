@@ -307,5 +307,1445 @@
   "short": "Provw",
   "title": "Provinciewet",
   "part": "65-provinciewet"
+ },
+ "invorderingswet-1990": {
+  "bwb": "BWBR0004770",
+  "short": "IW",
+  "title": "Invorderingswet 1990",
+  "part": "66-wetten-a"
+ },
+ "wet-op-de-identificatieplicht": {
+  "bwb": "BWBR0006297",
+  "short": "WID",
+  "title": "Wet op de identificatieplicht",
+  "part": "66-wetten-a"
+ },
+ "wet-structuur-uitvoeringsorganisatie-werk-en-inkomen": {
+  "bwb": "BWBR0013060",
+  "short": "SUWI",
+  "title": "Wet structuur uitvoeringsorganisatie werk en inkomen",
+  "part": "66-wetten-a"
+ },
+ "wet-justitiele-en-strafvorderlijke-gegevens": {
+  "bwb": "BWBR0014194",
+  "short": "WJG",
+  "title": "Wet justitiële en strafvorderlijke gegevens",
+  "part": "66-wetten-a"
+ },
+ "handelsregisterwet-2007": {
+  "bwb": "BWBR0021777",
+  "short": "Hrw 2007",
+  "title": "Handelsregisterwet 2007",
+  "part": "66-wetten-a"
+ },
+ "wet-algemene-bepalingen-burgerservicenummer": {
+  "bwb": "BWBR0022428",
+  "short": "Wet algemene bepalingen burgerservicenummer",
+  "title": "Wet algemene bepalingen burgerservicenummer",
+  "part": "66-wetten-a"
+ },
+ "wet-op-de-arbeidsongeschiktheidsverzekering": {
+  "bwb": "BWBR0002524",
+  "short": "WAO",
+  "title": "Wet op de arbeidsongeschiktheidsverzekering",
+  "part": "66-wetten-a"
+ },
+ "algemene-nabestaandenwet": {
+  "bwb": "BWBR0007795",
+  "short": "Anw",
+  "title": "Algemene nabestaandenwet",
+  "part": "66-wetten-a"
+ },
+ "wet-financiering-sociale-verzekeringen": {
+  "bwb": "BWBR0017745",
+  "short": "Wfsv",
+  "title": "Wet financiering sociale verzekeringen",
+  "part": "66-wetten-a"
+ },
+ "pensioenwet": {
+  "bwb": "BWBR0020809",
+  "short": "PW",
+  "title": "Pensioenwet",
+  "part": "66-wetten-a"
+ },
+ "wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek": {
+  "bwb": "BWBR0005682",
+  "short": "WHW",
+  "title": "Wet op het hoger onderwijs en wetenschappelijk onderzoek",
+  "part": "66-wetten-a"
+ },
+ "algemene-termijnenwet": {
+  "bwb": "BWBR0002448",
+  "short": "Atw",
+  "title": "Algemene termijnenwet",
+  "part": "66-wetten-a"
+ },
+ "wet-arbeidsongeschiktheidsvoorziening-jonggehandicapten": {
+  "bwb": "BWBR0008657",
+  "short": "Wajong",
+  "title": "Wet arbeidsongeschiktheidsvoorziening jonggehandicapten",
+  "part": "66-wetten-a"
+ },
+ "kaderwet-zelfstandige-bestuursorganen": {
+  "bwb": "BWBR0020495",
+  "short": "Kzbo",
+  "title": "Kaderwet zelfstandige bestuursorganen",
+  "part": "66-wetten-a"
+ },
+ "wet-arbeidsongeschiktheidsverzekering-zelfstandigen": {
+  "bwb": "BWBR0008656",
+  "short": "WAZ",
+  "title": "Wet arbeidsongeschiktheidsverzekering zelfstandigen",
+  "part": "66-wetten-a"
+ },
+ "wet-verplichte-beroepspensioenregeling": {
+  "bwb": "BWBR0018831",
+  "short": "Wet verplichte beroepspensioenregeling",
+  "title": "Wet verplichte beroepspensioenregeling",
+  "part": "66-wetten-a"
+ },
+ "wet-minimumloon-en-minimumvakantiebijslag": {
+  "bwb": "BWBR0002638",
+  "short": "WML",
+  "title": "Wet minimumloon en minimumvakantiebijslag",
+  "part": "66-wetten-a"
+ },
+ "wet-gemeenschappelijke-regelingen": {
+  "bwb": "BWBR0003740",
+  "short": "WGR",
+  "title": "Wet gemeenschappelijke regelingen",
+  "part": "66-wetten-a"
+ },
+ "wet-educatie-en-beroepsonderwijs": {
+  "bwb": "BWBR0007625",
+  "short": "WEB",
+  "title": "Wet educatie en beroepsonderwijs",
+  "part": "66-wetten-a"
+ },
+ "algemene-wet-inkomensafhankelijke-regelingen": {
+  "bwb": "BWBR0018472",
+  "short": "Awir",
+  "title": "Algemene wet inkomensafhankelijke regelingen",
+  "part": "66-wetten-a"
+ },
+ "wet-marktordening-gezondheidszorg": {
+  "bwb": "BWBR0020078",
+  "short": "WMG",
+  "title": "Wet marktordening gezondheidszorg",
+  "part": "66-wetten-a"
+ },
+ "wet-publieke-gezondheid": {
+  "bwb": "BWBR0024705",
+  "short": "Wet publieke gezondheid",
+  "title": "Wet publieke gezondheid",
+  "part": "66-wetten-a"
+ },
+ "algemene-kinderbijslagwet": {
+  "bwb": "BWBR0002368",
+  "short": "AKW",
+  "title": "Algemene Kinderbijslagwet",
+  "part": "66-wetten-a"
+ },
+ "wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen": {
+  "bwb": "BWBR0004163",
+  "short": "IOAZ",
+  "title": "Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen",
+  "part": "66-wetten-a"
+ },
+ "kadasterwet": {
+  "bwb": "BWBR0004541",
+  "short": "Kadw",
+  "title": "Kadasterwet",
+  "part": "66-wetten-a"
+ },
+ "algemene-wet-op-het-binnentreden": {
+  "bwb": "BWBR0006763",
+  "short": "Awbi",
+  "title": "Algemene wet op het binnentreden",
+  "part": "67-wetten-b"
+ },
+ "wet-arbeid-en-zorg": {
+  "bwb": "BWBR0013008",
+  "short": "WARZO",
+  "title": "Wet arbeid en zorg",
+  "part": "67-wetten-b"
+ },
+ "geneesmiddelenwet": {
+  "bwb": "BWBR0021505",
+  "short": "Gnw",
+  "title": "Geneesmiddelenwet",
+  "part": "67-wetten-b"
+ },
+ "wet-veiligheidsregios": {
+  "bwb": "BWBR0027466",
+  "short": "Wvr",
+  "title": "Wet veiligheidsregio’s",
+  "part": "67-wetten-b"
+ },
+ "wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-werkloze-werknemers": {
+  "bwb": "BWBR0004044",
+  "short": "IOAW",
+  "title": "Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers",
+  "part": "67-wetten-b"
+ },
+ "wet-op-het-consumentenkrediet": {
+  "bwb": "BWBR0004815",
+  "short": "WCK",
+  "title": "Wet op het consumentenkrediet",
+  "part": "67-wetten-b"
+ },
+ "burgerlijk-wetboek-boek-8": {
+  "bwb": "BWBR0005034",
+  "short": "BW 8",
+  "title": "Burgerlijk Wetboek Boek 8",
+  "part": "67-wetten-b"
+ },
+ "archiefwet-1995": {
+  "bwb": "BWBR0007376",
+  "short": "Aw 1995",
+  "title": "Archiefwet 1995",
+  "part": "67-wetten-b"
+ },
+ "beginselenwet-justitiele-jeugdinrichtingen": {
+  "bwb": "BWBR0011756",
+  "short": "BJJI",
+  "title": "Beginselenwet justitiële jeugdinrichtingen",
+  "part": "67-wetten-b"
+ },
+ "wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-2000": {
+  "bwb": "BWBR0012092",
+  "short": "Bpf",
+  "title": "Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000",
+  "part": "67-wetten-b"
+ },
+ "algemene-douanewet": {
+  "bwb": "BWBR0023746",
+  "short": "Adw",
+  "title": "Algemene douanewet",
+  "part": "67-wetten-b"
+ },
+ "dienstenwet": {
+  "bwb": "BWBR0026759",
+  "short": "DW",
+  "title": "Dienstenwet",
+  "part": "67-wetten-b"
+ },
+ "ambtenarenwet-2017": {
+  "bwb": "BWBR0001947",
+  "short": "AW",
+  "title": "Ambtenarenwet 2017",
+  "part": "67-wetten-b"
+ },
+ "kernenergiewet": {
+  "bwb": "BWBR0002402",
+  "short": "KEW",
+  "title": "Kernenergiewet",
+  "part": "67-wetten-b"
+ },
+ "wet-op-de-ondernemingsraden": {
+  "bwb": "BWBR0002747",
+  "short": "WOR",
+  "title": "Wet op de ondernemingsraden",
+  "part": "67-wetten-b"
+ },
+ "wet-arbeidsongeschiktheidsvoorziening-militairen": {
+  "bwb": "BWBR0002822",
+  "short": "WAMIL",
+  "title": "Wet arbeidsongeschiktheidsvoorziening militairen",
+  "part": "67-wetten-b"
+ },
+ "wet-nationale-ombudsman": {
+  "bwb": "BWBR0003372",
+  "short": "WNo",
+  "title": "Wet Nationale ombudsman",
+  "part": "67-wetten-b"
+ },
+ "wet-op-het-primair-onderwijs": {
+  "bwb": "BWBR0003420",
+  "short": "WPO",
+  "title": "Wet op het primair onderwijs",
+  "part": "67-wetten-b"
+ },
+ "wet-op-de-expertisecentra": {
+  "bwb": "BWBR0003549",
+  "short": "WEC",
+  "title": "Wet op de expertisecentra",
+  "part": "67-wetten-b"
+ },
+ "toeslagenwet": {
+  "bwb": "BWBR0004043",
+  "short": "TW",
+  "title": "Toeslagenwet",
+  "part": "67-wetten-b"
+ },
+ "wet-luchtvaart": {
+  "bwb": "BWBR0005555",
+  "short": "WLV",
+  "title": "Wet luchtvaart",
+  "part": "67-wetten-b"
+ },
+ "wet-op-de-rechtsbijstand": {
+  "bwb": "BWBR0006368",
+  "short": "WRB",
+  "title": "Wet op de rechtsbijstand",
+  "part": "67-wetten-b"
+ },
+ "wet-sociale-werkvoorziening": {
+  "bwb": "BWBR0008903",
+  "short": "WSW",
+  "title": "Wet sociale werkvoorziening",
+  "part": "67-wetten-b"
+ },
+ "rijkswet-instelling-exclusieve-economische-zone": {
+  "bwb": "BWBR0010480",
+  "short": "Rijkswet instelling exclusieve economische zone",
+  "title": "Rijkswet instelling exclusieve economische zone",
+  "part": "67-wetten-b"
+ },
+ "wet-personenvervoer-2000": {
+  "bwb": "BWBR0011470",
+  "short": "Wp",
+  "title": "Wet personenvervoer 2000",
+  "part": "67-wetten-b"
+ },
+ "gerechtsdeurwaarderswet": {
+  "bwb": "BWBR0012197",
+  "short": "GDW",
+  "title": "Gerechtsdeurwaarderswet",
+  "part": "68-wetten-c"
+ },
+ "wet-bevordering-integriteitsbeoordelingen-door-het-openbaar-bestuur": {
+  "bwb": "BWBR0013798",
+  "short": "Bibob",
+  "title": "Wet bevordering integriteitsbeoordelingen door het openbaar bestuur",
+  "part": "68-wetten-c"
+ },
+ "mijnbouwwet": {
+  "bwb": "BWBR0014168",
+  "short": "Mijnbouwwet",
+  "title": "Mijnbouwwet",
+  "part": "68-wetten-c"
+ },
+ "wet-toezicht-accountantsorganisaties": {
+  "bwb": "BWBR0019468",
+  "short": "Wta",
+  "title": "Wet toezicht accountantsorganisaties",
+  "part": "68-wetten-c"
+ },
+ "wet-ter-voorkoming-van-witwassen-en-financieren-van-terrorisme": {
+  "bwb": "BWBR0024282",
+  "short": "Wv Wft",
+  "title": "Wet ter voorkoming van witwassen en financieren van terrorisme",
+  "part": "68-wetten-c"
+ },
+ "drinkwaterwet": {
+  "bwb": "BWBR0026338",
+  "short": "Drinkwaterwet",
+  "title": "Drinkwaterwet",
+  "part": "68-wetten-c"
+ },
+ "wet-dieren": {
+  "bwb": "BWBR0030250",
+  "short": "Wet dieren",
+  "title": "Wet dieren",
+  "part": "68-wetten-c"
+ },
+ "wet-ambtenaren-defensie": {
+  "bwb": "BWBR0001952",
+  "short": "MAW",
+  "title": "Wet ambtenaren defensie",
+  "part": "68-wetten-c"
+ },
+ "wet-aansprakelijkheidsverzekering-motorrijtuigen": {
+  "bwb": "BWBR0002415",
+  "short": "WAM",
+  "title": "Wet aansprakelijkheidsverzekering motorrijtuigen",
+  "part": "68-wetten-c"
+ },
+ "bekendmakingswet": {
+  "bwb": "BWBR0004287",
+  "short": "Bmw",
+  "title": "Bekendmakingswet",
+  "part": "68-wetten-c"
+ },
+ "wet-administratiefrechtelijke-handhaving-verkeersvoorschriften": {
+  "bwb": "BWBR0004581",
+  "short": "WAHV",
+  "title": "Wet administratiefrechtelijke handhaving verkeersvoorschriften",
+  "part": "68-wetten-c"
+ },
+ "wet-op-de-belasting-van-personenauto-s-en-motorrijwielen-1992": {
+  "bwb": "BWBR0005806",
+  "short": "BPM",
+  "title": "Wet op de belasting van personenauto's en motorrijwielen 1992",
+  "part": "68-wetten-c"
+ },
+ "wet-op-de-beroepen-in-de-individuele-gezondheidszorg": {
+  "bwb": "BWBR0006251",
+  "short": "BIG",
+  "title": "Wet op de beroepen in de individuele gezondheidszorg",
+  "part": "68-wetten-c"
+ },
+ "wet-centraal-orgaan-opvang-asielzoekers": {
+  "bwb": "BWBR0006685",
+  "short": "Wet Coa",
+  "title": "Wet Centraal Orgaan opvang asielzoekers",
+  "part": "68-wetten-c"
+ },
+ "wet-waardering-onroerende-zaken": {
+  "bwb": "BWBR0007119",
+  "short": "WOZ",
+  "title": "Wet waardering onroerende zaken",
+  "part": "68-wetten-c"
+ },
+ "wet-belastingen-op-milieugrondslag": {
+  "bwb": "BWBR0007168",
+  "short": "Wbm",
+  "title": "Wet belastingen op milieugrondslag",
+  "part": "68-wetten-c"
+ },
+ "arbeidstijdenwet": {
+  "bwb": "BWBR0007671",
+  "short": "ATW",
+  "title": "Arbeidstijdenwet",
+  "part": "68-wetten-c"
+ },
+ "wet-op-de-huurtoeslag": {
+  "bwb": "BWBR0008659",
+  "short": "WHT",
+  "title": "Wet op de huurtoeslag",
+  "part": "68-wetten-c"
+ },
+ "wet-allocatie-arbeidskrachten-door-intermediairs": {
+  "bwb": "BWBR0009616",
+  "short": "WAADI",
+  "title": "Wet allocatie arbeidskrachten door intermediairs",
+  "part": "68-wetten-c"
+ },
+ "telecommunicatiewet": {
+  "bwb": "BWBR0009950",
+  "short": "Tw",
+  "title": "Telecommunicatiewet",
+  "part": "68-wetten-c"
+ },
+ "postwet-2009": {
+  "bwb": "BWBR0025572",
+  "short": "Postwet 2009",
+  "title": "Postwet 2009",
+  "part": "68-wetten-c"
+ },
+ "wet-basisregistratie-personen": {
+  "bwb": "BWBR0033715",
+  "short": "Wet BRP",
+  "title": "Wet basisregistratie personen",
+  "part": "68-wetten-c"
+ },
+ "natuurschoonwet-1928": {
+  "bwb": "BWBR0001939",
+  "short": "NSW",
+  "title": "Natuurschoonwet 1928",
+  "part": "68-wetten-c"
+ },
+ "wet-op-de-raad-van-state": {
+  "bwb": "BWBR0002367",
+  "short": "RvS",
+  "title": "Wet op de Raad van State",
+  "part": "68-wetten-c"
+ },
+ "wet-op-belastingen-van-rechtsverkeer": {
+  "bwb": "BWBR0002740",
+  "short": "WBRV",
+  "title": "Wet op belastingen van rechtsverkeer",
+  "part": "68-wetten-c"
+ },
+ "wet-giraal-effectenverkeer": {
+  "bwb": "BWBR0003109",
+  "short": "Wge",
+  "title": "Wet giraal effectenverkeer",
+  "part": "68-wetten-c"
+ },
+ "sanctiewet-1977": {
+  "bwb": "BWBR0003296",
+  "short": "Sanctiewet 1977",
+  "title": "Sanctiewet 1977",
+  "part": "68-wetten-c"
+ },
+ "scheepvaartverkeerswet": {
+  "bwb": "BWBR0004364",
+  "short": "Scheepvaartverkeerswet",
+  "title": "Scheepvaartverkeerswet",
+  "part": "68-wetten-c"
+ },
+ "wet-vervoer-gevaarlijke-stoffen": {
+  "bwb": "BWBR0007606",
+  "short": "WVGS",
+  "title": "Wet vervoer gevaarlijke stoffen",
+  "part": "68-wetten-c"
+ },
+ "coordinatiewet-uitzonderingstoestanden": {
+  "bwb": "BWBR0007981",
+  "short": "CWU",
+  "title": "Coördinatiewet uitzonderingstoestanden",
+  "part": "68-wetten-c"
+ },
+ "financiele-verhoudingswet": {
+  "bwb": "BWBR0008290",
+  "short": "FVW",
+  "title": "Financiële-verhoudingswet",
+  "part": "68-wetten-c"
+ },
+ "wet-rechtspositie-rechterlijke-ambtenaren": {
+  "bwb": "BWBR0008365",
+  "short": "Wrra",
+  "title": "Wet rechtspositie rechterlijke ambtenaren",
+  "part": "68-wetten-c"
+ },
+ "beginselenwet-verpleging-ter-beschikking-gestelden": {
+  "bwb": "BWBR0008765",
+  "short": "BVTG",
+  "title": "Beginselenwet verpleging ter beschikking gestelden",
+  "part": "68-wetten-c"
+ },
+ "bankwet-1998": {
+  "bwb": "BWBR0009508",
+  "short": "Bankwet 1998",
+  "title": "Bankwet 1998",
+  "part": "68-wetten-c"
+ },
+ "wet-studiefinanciering-2000": {
+  "bwb": "BWBR0011453",
+  "short": "WSF",
+  "title": "Wet studiefinanciering 2000",
+  "part": "68-wetten-c"
+ },
+ "zaaizaad-en-plantgoedwet-2005": {
+  "bwb": "BWBR0018040",
+  "short": "ZPW",
+  "title": "Zaaizaad- en plantgoedwet 2005",
+  "part": "68-wetten-c"
+ },
+ "wet-op-de-zorgtoeslag": {
+  "bwb": "BWBR0018451",
+  "short": "Wzt",
+  "title": "Wet op de zorgtoeslag",
+  "part": "68-wetten-c"
+ },
+ "wet-op-de-bijzondere-opsporingsdiensten": {
+  "bwb": "BWBR0019919",
+  "short": "Wbo",
+  "title": "Wet op de bijzondere opsporingsdiensten",
+  "part": "68-wetten-c"
+ },
+ "wet-gewasbeschermingsmiddelen-en-biociden": {
+  "bwb": "BWBR0021670",
+  "short": "Wg&b",
+  "title": "Wet gewasbeschermingsmiddelen en biociden",
+  "part": "68-wetten-c"
+ },
+ "wet-griffierechten-burgerlijke-zaken": {
+  "bwb": "BWBR0028899",
+  "short": "Wgbz",
+  "title": "Wet griffierechten burgerlijke zaken",
+  "part": "68-wetten-c"
+ },
+ "wet-gemeentelijke-schuldhulpverlening": {
+  "bwb": "BWBR0031331",
+  "short": "Wet gemeentelijke schuldhulpverlening",
+  "title": "Wet gemeentelijke schuldhulpverlening",
+  "part": "68-wetten-c"
+ },
+ "aanbestedingswet-2012": {
+  "bwb": "BWBR0032203",
+  "short": "AanbW 2012",
+  "title": "Aanbestedingswet 2012",
+  "part": "68-wetten-c"
+ },
+ "wet-op-het-accountantsberoep": {
+  "bwb": "BWBR0032573",
+  "short": "Wab",
+  "title": "Wet op het accountantsberoep",
+  "part": "68-wetten-c"
+ },
+ "instellingswet-autoriteit-consument-en-markt": {
+  "bwb": "BWBR0033043",
+  "short": "Instellingswet Autoriteit Consument en Markt",
+  "title": "Instellingswet Autoriteit Consument en Markt",
+  "part": "68-wetten-c"
+ },
+ "warmtewet": {
+  "bwb": "BWBR0033729",
+  "short": "Warmtewet",
+  "title": "Warmtewet",
+  "part": "68-wetten-c"
+ },
+ "warenwet": {
+  "bwb": "BWBR0001969",
+  "short": "WaW",
+  "title": "Warenwet",
+  "part": "68-wetten-c"
+ },
+ "wet-buitengewoon-pensioen-1940-1945": {
+  "bwb": "BWBR0002032",
+  "short": "WBP",
+  "title": "Wet buitengewoon pensioen 1940-1945",
+  "part": "68-wetten-c"
+ },
+ "wet-buitengewoon-pensioen-zeelieden-oorlogsslachtoffers": {
+  "bwb": "BWBR0002035",
+  "short": "Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers",
+  "title": "Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers",
+  "part": "68-wetten-c"
+ },
+ "wet-op-de-rechterlijke-indeling": {
+  "bwb": "BWBR0002080",
+  "short": "RI",
+  "title": "Wet op de rechterlijke indeling",
+  "part": "69-wetten-d"
+ },
+ "landbouwwet": {
+  "bwb": "BWBR0002252",
+  "short": "Landbouwwet",
+  "title": "Landbouwwet",
+  "part": "69-wetten-d"
+ },
+ "prijzenwet": {
+  "bwb": "BWBR0002353",
+  "short": "Prijzenwet",
+  "title": "Prijzenwet",
+  "part": "69-wetten-d"
+ },
+ "wet-tarieven-in-strafzaken": {
+  "bwb": "BWBR0002406",
+  "short": "WTSZ",
+  "title": "Wet tarieven in strafzaken",
+  "part": "69-wetten-d"
+ },
+ "belastingregeling-voor-het-koninkrijk": {
+  "bwb": "BWBR0002464",
+  "short": "BRK",
+  "title": "Belastingregeling voor het Koninkrijk",
+  "part": "69-wetten-d"
+ },
+ "wet-op-de-dividendbelasting-1965": {
+  "bwb": "BWBR0002515",
+  "short": "DB",
+  "title": "Wet op de dividendbelasting 1965",
+  "part": "69-wetten-d"
+ },
+ "uitleveringswet": {
+  "bwb": "BWBR0002559",
+  "short": "UW",
+  "title": "Uitleveringswet",
+  "part": "69-wetten-d"
+ },
+ "kostenwet-invordering-rijksbelastingen": {
+  "bwb": "BWBR0002645",
+  "short": "Kw Inv. Rb",
+  "title": "Kostenwet invordering rijksbelastingen",
+  "part": "69-wetten-d"
+ },
+ "landbouwkwaliteitswet": {
+  "bwb": "BWBR0002755",
+  "short": "LKW",
+  "title": "Landbouwkwaliteitswet",
+  "part": "69-wetten-d"
+ },
+ "wet-uitkeringen-vervolgingsslachtoffers-1940-1945": {
+  "bwb": "BWBR0002844",
+  "short": "WUV",
+  "title": "Wet uitkeringen vervolgingsslachtoffers 1940-1945",
+  "part": "69-wetten-d"
+ },
+ "wet-afbreking-zwangerschap": {
+  "bwb": "BWBR0003396",
+  "short": "Wafz",
+  "title": "Wet afbreking zwangerschap",
+  "part": "69-wetten-d"
+ },
+ "leegstandwet": {
+  "bwb": "BWBR0003403",
+  "short": "Leegstw",
+  "title": "Leegstandwet",
+  "part": "69-wetten-d"
+ },
+ "wet-uitkeringen-burger-oorlogsslachtoffers-1940-1945": {
+  "bwb": "BWBR0003664",
+  "short": "WUBO",
+  "title": "Wet uitkeringen burger-oorlogsslachtoffers 1940-1945",
+  "part": "69-wetten-d"
+ },
+ "wet-buitengewoon-pensioen-indisch-verzet": {
+  "bwb": "BWBR0003968",
+  "short": "WIV",
+  "title": "Wet buitengewoon pensioen Indisch verzet",
+  "part": "69-wetten-d"
+ },
+ "wet-overdracht-tenuitvoerlegging-strafvonnissen": {
+  "bwb": "BWBR0004028",
+  "short": "WOTS",
+  "title": "Wet overdracht tenuitvoerlegging strafvonnissen",
+  "part": "69-wetten-d"
+ },
+ "meststoffenwet": {
+  "bwb": "BWBR0004054",
+  "short": "MW",
+  "title": "Meststoffenwet",
+  "part": "69-wetten-d"
+ },
+ "wet-opneming-buitenlandse-kinderen-ter-adoptie": {
+  "bwb": "BWBR0004447",
+  "short": "WOBP",
+  "title": "Wet opneming buitenlandse kinderen ter adoptie",
+  "part": "69-wetten-d"
+ },
+ "waterschapswet": {
+  "bwb": "BWBR0005108",
+  "short": "Wschw",
+  "title": "Waterschapswet",
+  "part": "69-wetten-d"
+ },
+ "wet-op-de-accijns": {
+  "bwb": "BWBR0005251",
+  "short": "WA",
+  "title": "Wet op de accijns",
+  "part": "69-wetten-d"
+ },
+ "wet-financiele-betrekkingen-buitenland-1994": {
+  "bwb": "BWBR0006547",
+  "short": "WFBB",
+  "title": "Wet financiële betrekkingen buitenland 1994",
+  "part": "69-wetten-d"
+ },
+ "wet-explosieven-voor-civiel-gebruik": {
+  "bwb": "BWBR0006803",
+  "short": "Wet explosieven voor civiel gebruik",
+  "title": "Wet explosieven voor civiel gebruik",
+  "part": "69-wetten-d"
+ },
+ "wet-vermindering-afdracht-loonbelasting-en-premie-voor-de-volksverzekeringen": {
+  "bwb": "BWBR0007746",
+  "short": "WVA",
+  "title": "Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen",
+  "part": "69-wetten-d"
+ },
+ "wet-privatisering-abp": {
+  "bwb": "BWBR0007791",
+  "short": "ABP",
+  "title": "Wet privatisering ABP",
+  "part": "69-wetten-d"
+ },
+ "kaderwet-szw-subsidies": {
+  "bwb": "BWBR0008754",
+  "short": "Kaderwet SZW-subsidies",
+  "title": "Kaderwet SZW-subsidies",
+  "part": "69-wetten-d"
+ },
+ "wet-bescherming-antarctica": {
+  "bwb": "BWBR0009449",
+  "short": "Wet bescherming Antarctica",
+  "title": "Wet bescherming Antarctica",
+  "part": "69-wetten-d"
+ },
+ "wet-overige-ocw-subsidies": {
+  "bwb": "BWBR0009458",
+  "short": "WOOS",
+  "title": "Wet overige OCW-subsidies",
+  "part": "69-wetten-d"
+ },
+ "wet-tegemoetkoming-onderwijsbijdrage-en-schoolkosten": {
+  "bwb": "BWBR0012438",
+  "short": "WTOS",
+  "title": "Wet tegemoetkoming onderwijsbijdrage en schoolkosten",
+  "part": "69-wetten-d"
+ },
+ "wet-op-het-btw-compensatiefonds": {
+  "bwb": "BWBR0013817",
+  "short": "WBc",
+  "title": "Wet op het BTW-compensatiefonds",
+  "part": "69-wetten-d"
+ },
+ "uitvoeringswet-huurprijzen-woonruimte": {
+  "bwb": "BWBR0014315",
+  "short": "UHW",
+  "title": "Uitvoeringswet huurprijzen woonruimte",
+  "part": "69-wetten-d"
+ },
+ "spoorwegwet": {
+  "bwb": "BWBR0015007",
+  "short": "Spoorwegwet",
+  "title": "Spoorwegwet",
+  "part": "69-wetten-d"
+ },
+ "rijkswet-onderzoeksraad-voor-veiligheid": {
+  "bwb": "BWBR0017613",
+  "short": "Rijkswet Onderzoeksraad voor veiligheid",
+  "title": "Rijkswet Onderzoeksraad voor veiligheid",
+  "part": "69-wetten-d"
+ },
+ "wet-toelating-zorginstellingen": {
+  "bwb": "BWBR0018906",
+  "short": "WTZi",
+  "title": "Wet toelating zorginstellingen",
+  "part": "69-wetten-d"
+ },
+ "wet-toezicht-financiele-verslaggeving": {
+  "bwb": "BWBR0020369",
+  "short": "Wtfv",
+  "title": "Wet toezicht financiële verslaggeving",
+  "part": "69-wetten-d"
+ },
+ "wet-handhaving-consumentenbescherming": {
+  "bwb": "BWBR0020586",
+  "short": "Whc",
+  "title": "Wet handhaving consumentenbescherming",
+  "part": "69-wetten-d"
+ },
+ "wet-op-het-kindgebonden-budget": {
+  "bwb": "BWBR0022751",
+  "short": "Wet KB",
+  "title": "Wet op het kindgebonden budget",
+  "part": "69-wetten-d"
+ },
+ "wet-tijdelijk-huisverbod": {
+  "bwb": "BWBR0024649",
+  "short": "Wth",
+  "title": "Wet tijdelijk huisverbod",
+  "part": "69-wetten-d"
+ },
+ "wet-wegvervoer-goederen": {
+  "bwb": "BWBR0024800",
+  "short": "WWG",
+  "title": "Wet wegvervoer goederen",
+  "part": "69-wetten-d"
+ },
+ "wet-uitvoering-eu-handelingen-energie-efficientie": {
+  "bwb": "BWBR0029672",
+  "short": "Wet uitvoering EU-handelingen energie-efficiëntie",
+  "title": "Wet uitvoering EU-handelingen energie-efficiëntie",
+  "part": "69-wetten-d"
+ },
+ "wet-college-voor-de-rechten-van-de-mens": {
+  "bwb": "BWBR0030733",
+  "short": "Wet College voor de rechten van de mens",
+  "title": "Wet College voor de rechten van de mens",
+  "part": "69-wetten-d"
+ },
+ "wet-lokaal-spoor": {
+  "bwb": "BWBR0034363",
+  "short": "Wet lokaal spoor",
+  "title": "Wet lokaal spoor",
+  "part": "69-wetten-d"
+ },
+ "wet-bescherming-staatsgeheimen": {
+  "bwb": "BWBR0002074",
+  "short": "Wet bescherming staatsgeheimen",
+  "title": "Wet bescherming staatsgeheimen",
+  "part": "69-wetten-d"
+ },
+ "gezondheidswet": {
+  "bwb": "BWBR0002202",
+  "short": "Gezw",
+  "title": "Gezondheidswet",
+  "part": "69-wetten-d"
+ },
+ "luchtvaartwet": {
+  "bwb": "BWBR0002267",
+  "short": "LVW",
+  "title": "Luchtvaartwet",
+  "part": "69-wetten-d"
+ },
+ "wet-op-de-kansspelbelasting": {
+  "bwb": "BWBR0002359",
+  "short": "WKB",
+  "title": "Wet op de kansspelbelasting",
+  "part": "69-wetten-d"
+ },
+ "wet-gewetensbezwaren-militaire-dienst": {
+  "bwb": "BWBR0002386",
+  "short": "WGMD",
+  "title": "Wet gewetensbezwaren militaire dienst",
+  "part": "69-wetten-d"
+ },
+ "hamsterwet": {
+  "bwb": "BWBR0002389",
+  "short": "Hamsterwet",
+  "title": "Hamsterwet",
+  "part": "69-wetten-d"
+ },
+ "noodwet-voedselvoorziening": {
+  "bwb": "BWBR0002392",
+  "short": "Noodwet voedselvoorziening",
+  "title": "Noodwet voedselvoorziening",
+  "part": "69-wetten-d"
+ },
+ "alcoholwet": {
+  "bwb": "BWBR0002458",
+  "short": "Alcoholwet",
+  "title": "Alcoholwet",
+  "part": "69-wetten-d"
+ },
+ "wet-op-de-kansspelen": {
+  "bwb": "BWBR0002469",
+  "short": "WKS",
+  "title": "Wet op de kansspelen",
+  "part": "70-wetten-e"
+ },
+ "registratiewet-1970": {
+  "bwb": "BWBR0002739",
+  "short": "Reg.w.",
+  "title": "Registratiewet 1970",
+  "part": "70-wetten-e"
+ },
+ "wet-melding-collectief-ontslag": {
+  "bwb": "BWBR0003026",
+  "short": "WMCO",
+  "title": "Wet melding collectief ontslag",
+  "part": "70-wetten-e"
+ },
+ "wedervergeldingswet-zeescheepvaart": {
+  "bwb": "BWBR0003104",
+  "short": "Wedervergeldingswet zeescheepvaart",
+  "title": "Wedervergeldingswet zeescheepvaart",
+  "part": "70-wetten-e"
+ },
+ "wet-uitvoering-internationaal-energieprogramma": {
+  "bwb": "BWBR0003235",
+  "short": "Wet uitvoering Internationaal Energieprogramma",
+  "title": "Wet uitvoering Internationaal Energieprogramma",
+  "part": "70-wetten-e"
+ },
+ "wet-schadefonds-olietankschepen": {
+  "bwb": "BWBR0003400",
+  "short": "Wet schadefonds olietankschepen",
+  "title": "Wet schadefonds olietankschepen",
+  "part": "70-wetten-e"
+ },
+ "wet-vervoer-over-zee": {
+  "bwb": "BWBR0003528",
+  "short": "WVZ",
+  "title": "Wet vervoer over zee",
+  "part": "70-wetten-e"
+ },
+ "wet-voorkoming-verontreiniging-door-schepen": {
+  "bwb": "BWBR0003642",
+  "short": "WVVS",
+  "title": "Wet voorkoming verontreiniging door schepen",
+  "part": "70-wetten-e"
+ },
+ "prijzennoodwet": {
+  "bwb": "BWBR0003734",
+  "short": "Prijzennoodwet",
+  "title": "Prijzennoodwet",
+  "part": "70-wetten-e"
+ },
+ "wet-bescherming-oorspronkelijke-topografieen-van-halfgeleiderprodukten": {
+  "bwb": "BWBR0004224",
+  "short": "Wboth",
+  "title": "Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukten",
+  "part": "70-wetten-e"
+ },
+ "tabaks-en-rookwarenwet": {
+  "bwb": "BWBR0004302",
+  "short": "Tabaks- en rookwarenwet",
+  "title": "Tabaks- en rookwarenwet",
+  "part": "70-wetten-e"
+ },
+ "wet-schadeloosstelling-leden-tweede-kamer": {
+  "bwb": "BWBR0004939",
+  "short": "Wet schadeloosstelling leden Tweede Kamer",
+  "title": "Wet schadeloosstelling leden Tweede Kamer",
+  "part": "70-wetten-e"
+ },
+ "wet-op-de-lijkbezorging": {
+  "bwb": "BWBR0005009",
+  "short": "Wlb",
+  "title": "Wet op de lijkbezorging",
+  "part": "70-wetten-e"
+ },
+ "wet-op-de-verbruiksbelasting-van-alcoholvrije-dranken": {
+  "bwb": "BWBR0005802",
+  "short": "Wvad",
+  "title": "Wet op de verbruiksbelasting van alcoholvrije dranken",
+  "part": "70-wetten-e"
+ },
+ "wet-op-de-naburige-rechten": {
+  "bwb": "BWBR0005921",
+  "short": "WNR",
+  "title": "Wet op de naburige rechten",
+  "part": "70-wetten-e"
+ },
+ "wet-op-de-motorrijtuigenbelasting-1994": {
+  "bwb": "BWBR0006324",
+  "short": "MRB",
+  "title": "Wet op de motorrijtuigenbelasting 1994",
+  "part": "70-wetten-e"
+ },
+ "wet-verevening-pensioenrechten-bij-scheiding": {
+  "bwb": "BWBR0006641",
+  "short": "Wet vps",
+  "title": "Wet verevening pensioenrechten bij scheiding",
+  "part": "70-wetten-e"
+ },
+ "wet-toezicht-effectenverkeer-1995": {
+  "bwb": "BWBR0007657",
+  "short": "Wte",
+  "title": "Wet toezicht effectenverkeer 1995",
+  "part": "70-wetten-e"
+ },
+ "winkeltijdenwet": {
+  "bwb": "BWBR0007952",
+  "short": "Winkeltijdenwet",
+  "title": "Winkeltijdenwet",
+  "part": "70-wetten-e"
+ },
+ "kaderwet-adviescolleges": {
+  "bwb": "BWBR0008159",
+  "short": "Kaderwet adviescolleges",
+  "title": "Kaderwet adviescolleges",
+  "part": "70-wetten-e"
+ },
+ "wet-op-de-europese-ondernemingsraden": {
+  "bwb": "BWBR0008508",
+  "short": "EOR",
+  "title": "Wet op de Europese ondernemingsraden",
+  "part": "70-wetten-e"
+ },
+ "wet-particuliere-beveiligingsorganisaties-en-recherchebureaus": {
+  "bwb": "BWBR0008973",
+  "short": "Wpbr",
+  "title": "Wet particuliere beveiligingsorganisaties en recherchebureaus",
+  "part": "70-wetten-e"
+ },
+ "wet-op-bijzondere-medische-verrichtingen": {
+  "bwb": "BWBR0008974",
+  "short": "WBMV",
+  "title": "Wet op bijzondere medische verrichtingen",
+  "part": "70-wetten-e"
+ },
+ "wet-op-de-formeel-buitenlandse-vennootschappen": {
+  "bwb": "BWBR0009191",
+  "short": "Wfbv",
+  "title": "Wet op de formeel buitenlandse vennootschappen",
+  "part": "70-wetten-e"
+ },
+ "wet-overheidspersoneel-onder-de-werknemersverzekeringen": {
+  "bwb": "BWBR0009267",
+  "short": "OOW",
+  "title": "Wet overheidspersoneel onder de werknemersverzekeringen",
+  "part": "70-wetten-e"
+ },
+ "invoeringswet-wet-inkomstenbelasting-2001": {
+  "bwb": "BWBR0011354",
+  "short": "Inv Wet IB 2001",
+  "title": "Invoeringswet Wet inkomstenbelasting 2001",
+  "part": "70-wetten-e"
+ },
+ "overgangswet-elektriciteitsproductiesector": {
+  "bwb": "BWBR0012088",
+  "short": "Overgangswet elektriciteitsproductiesector",
+  "title": "Overgangswet elektriciteitsproductiesector",
+  "part": "70-wetten-e"
+ },
+ "wet-toetsing-levensbeeindiging-op-verzoek-en-hulp-bij-zelfdoding": {
+  "bwb": "BWBR0012410",
+  "short": "Wtlvhz",
+  "title": "Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding",
+  "part": "70-wetten-e"
+ },
+ "wet-capaciteitsbeheersing-binnenvaartvloot": {
+  "bwb": "BWBR0012950",
+  "short": "Wet capaciteitsbeheersing binnenvaartvloot",
+  "title": "Wet capaciteitsbeheersing binnenvaartvloot",
+  "part": "70-wetten-e"
+ },
+ "wet-toezicht-en-geschillenbeslechting-collectieve-beheersorganisaties-auteurs-en-naburige-rechten": {
+  "bwb": "BWBR0014779",
+  "short": "Wtcb",
+  "title": "Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten",
+  "part": "70-wetten-e"
+ },
+ "wet-controle-op-rechtspersonen": {
+  "bwb": "BWBR0015049",
+  "short": "Wdv",
+  "title": "Wet controle op rechtspersonen",
+  "part": "70-wetten-e"
+ },
+ "wet-op-het-centraal-bureau-voor-de-statistiek": {
+  "bwb": "BWBR0015926",
+  "short": "CBS",
+  "title": "Wet op het Centraal bureau voor de statistiek",
+  "part": "70-wetten-e"
+ },
+ "overleveringswet": {
+  "bwb": "BWBR0016664",
+  "short": "OLW",
+  "title": "Overleveringswet",
+  "part": "70-wetten-e"
+ },
+ "wet-rol-werknemers-bij-europese-rechtspersonen": {
+  "bwb": "BWBR0018115",
+  "short": "WRW-ER",
+  "title": "Wet rol werknemers bij Europese rechtspersonen",
+  "part": "70-wetten-e"
+ },
+ "wet-invoering-en-financiering-wet-werk-en-inkomen-naar-arbeidsvermogen": {
+  "bwb": "BWBR0019058",
+  "short": "IWIA",
+  "title": "Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen",
+  "part": "70-wetten-e"
+ },
+ "metrologiewet": {
+  "bwb": "BWBR0019517",
+  "short": "Metrologiewet",
+  "title": "Metrologiewet",
+  "part": "70-wetten-e"
+ },
+ "invoerings-en-aanpassingswet-pensioenwet": {
+  "bwb": "BWBR0020828",
+  "short": "Invoerings- en aanpassingswet Pensioenwet",
+  "title": "Invoerings- en aanpassingswet Pensioenwet",
+  "part": "70-wetten-e"
+ },
+ "binnenvaartwet": {
+  "bwb": "BWBR0023009",
+  "short": "Binnenvaartwet",
+  "title": "Binnenvaartwet",
+  "part": "70-wetten-e"
+ },
+ "algemene-wet-erkenning-eu-beroepskwalificaties": {
+  "bwb": "BWBR0023066",
+  "short": "Algemene wet erkenning EU-beroepskwalificaties",
+  "title": "Algemene wet erkenning EU-beroepskwalificaties",
+  "part": "70-wetten-e"
+ },
+ "wet-basisregistratie-adressen-en-gebouwen": {
+  "bwb": "BWBR0023466",
+  "short": "Wet BAG",
+  "title": "Wet basisregistratie adressen en gebouwen",
+  "part": "70-wetten-e"
+ },
+ "wet-op-de-parlementaire-enquete-2008": {
+  "bwb": "BWBR0023825",
+  "short": "WPE 2008",
+  "title": "Wet op de parlementaire enquête 2008",
+  "part": "70-wetten-e"
+ },
+ "wet-aanvullende-bepalingen-verwerking-persoonsgegevens-in-de-zorg": {
+  "bwb": "BWBR0023864",
+  "short": "Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg",
+  "title": "Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg",
+  "part": "70-wetten-e"
+ },
+ "wet-strategische-diensten": {
+  "bwb": "BWBR0030545",
+  "short": "Wet strategische diensten",
+  "title": "Wet strategische diensten",
+  "part": "70-wetten-e"
+ },
+ "wet-naleving-europese-regelgeving-publieke-entiteiten": {
+  "bwb": "BWBR0031640",
+  "short": "Wet Naleving Europese regelgeving publieke entiteiten",
+  "title": "Wet Naleving Europese regelgeving publieke entiteiten",
+  "part": "70-wetten-e"
+ },
+ "wet-wederzijdse-erkenning-en-tenuitvoerlegging-vrijheidsbenemende-en-voorwaardelijke-sancties": {
+  "bwb": "BWBR0031814",
+  "short": "Wet wederzijdse erkenning en tenuitvoerlegging vrijheidsbenemende en voorwaardelijke sancties",
+  "title": "Wet wederzijdse erkenning en tenuitvoerlegging vrijheidsbenemende en voorwaardelijke sancties",
+  "part": "70-wetten-e"
+ },
+ "wet-verbod-pelsdierhouderij": {
+  "bwb": "BWBR0032739",
+  "short": "Wet verbod pelsdierhouderij",
+  "title": "Wet verbod pelsdierhouderij",
+  "part": "70-wetten-e"
+ },
+ "wet-voorraadvorming-aardolieproducten-2012": {
+  "bwb": "BWBR0032775",
+  "short": "Wet voorraadvorming aardolieproducten 2012",
+  "title": "Wet voorraadvorming aardolieproducten 2012",
+  "part": "70-wetten-e"
+ },
+ "aanbestedingswet-op-defensie-en-veiligheidsgebied": {
+  "bwb": "BWBR0032898",
+  "short": "Aanbestedingswet op defensie- en veiligheidsgebied",
+  "title": "Aanbestedingswet op defensie- en veiligheidsgebied",
+  "part": "71-wetten-f"
+ },
+ "wet-basisregistratie-grootschalige-topografie": {
+  "bwb": "BWBR0034026",
+  "short": "Wet basisregistratie grootschalige topografie",
+  "title": "Wet basisregistratie grootschalige topografie",
+  "part": "71-wetten-f"
+ },
+ "huisvestingswet-2014": {
+  "bwb": "BWBR0035303",
+  "short": "Huisvestingswet 2014",
+  "title": "Huisvestingswet 2014",
+  "part": "71-wetten-f"
+ },
+ "wet-algemene-bepalingen": {
+  "bwb": "BWBR0001833",
+  "short": "AB",
+  "title": "Wet algemene bepalingen",
+  "part": "71-wetten-f"
+ },
+ "wet-ministeriele-verantwoordelijkheid-en-ambtsdelicten-leden-staten-generaal-ministers-en-staatssecretarissen": {
+  "bwb": "BWBR0001844",
+  "short": "Wmv",
+  "title": "Wet ministeriële verantwoordelijkheid en ambtsdelicten leden Staten-Generaal, ministers en staatssecretarissen",
+  "part": "71-wetten-f"
+ },
+ "schepenwet": {
+  "bwb": "BWBR0001876",
+  "short": "Schepenwet",
+  "title": "Schepenwet",
+  "part": "71-wetten-f"
+ },
+ "handelsnaamwet": {
+  "bwb": "BWBR0001906",
+  "short": "Hnw",
+  "title": "Handelsnaamwet",
+  "part": "71-wetten-f"
+ },
+ "wet-op-de-collectieve-arbeidsovereenkomst": {
+  "bwb": "BWBR0001937",
+  "short": "CAO",
+  "title": "Wet op de collectieve arbeidsovereenkomst",
+  "part": "71-wetten-f"
+ },
+ "wegenwet": {
+  "bwb": "BWBR0001948",
+  "short": "Wegw",
+  "title": "Wegenwet",
+  "part": "71-wetten-f"
+ },
+ "wet-op-het-algemeen-verbindend-en-het-onverbindend-verklaren-van-bepalingen-van-collectieve-arbeidsovereenkomsten": {
+  "bwb": "BWBR0001987",
+  "short": "AVV",
+  "title": "Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten",
+  "part": "71-wetten-f"
+ },
+ "wet-medewerking-verdedigingsvoorbereiding": {
+  "bwb": "BWBR0001995",
+  "short": "Wet medewerking verdedigingsvoorbereiding",
+  "title": "Wet medewerking verdedigingsvoorbereiding",
+  "part": "71-wetten-f"
+ },
+ "bodemproductiewet-1939": {
+  "bwb": "BWBR0001996",
+  "short": "Bodemproductiewet 1939",
+  "title": "Bodemproductiewet 1939",
+  "part": "71-wetten-f"
+ },
+ "distributiewet": {
+  "bwb": "BWBR0001997",
+  "short": "Distributiewet",
+  "title": "Distributiewet",
+  "part": "71-wetten-f"
+ },
+ "wet-op-de-sociaal-economische-raad": {
+  "bwb": "BWBR0002058",
+  "short": "BO",
+  "title": "Wet op de Sociaal-Economische Raad",
+  "part": "71-wetten-f"
+ },
+ "garantiewet-burgerlijk-overheidspersoneel-indonesie": {
+  "bwb": "BWBR0002060",
+  "short": "Garantiewet Burgerlijk Overheidspersoneel Indonesië",
+  "title": "Garantiewet Burgerlijk Overheidspersoneel Indonesië",
+  "part": "71-wetten-f"
+ },
+ "garantiewet-militairen-k-n-i-l": {
+  "bwb": "BWBR0002077",
+  "short": "Garantiewet Militairen K.N.I.L.",
+  "title": "Garantiewet Militairen K.N.I.L.",
+  "part": "71-wetten-f"
+ },
+ "wet-onderstandsregeling-ingevolge-artikel-2-van-de-garantiewet-burgerlijk-overheidspersoneel-indonesie": {
+  "bwb": "BWBR0002083",
+  "short": "Wet onderstandsregeling ingevolge artikel 2 van de Garantiewet Burgerlijk Overheidspersoneel Indonesië",
+  "title": "Wet onderstandsregeling ingevolge artikel 2 van de Garantiewet Burgerlijk Overheidspersoneel Indonesië",
+  "part": "71-wetten-f"
+ },
+ "wet-pensioenvoorzieningen-k-n-i-l": {
+  "bwb": "BWBR0002090",
+  "short": "Wet pensioenvoorzieningen K.N.I.L.",
+  "title": "Wet pensioenvoorzieningen K.N.I.L.",
+  "part": "71-wetten-f"
+ },
+ "wet-bescherming-bevolking": {
+  "bwb": "BWBR0002096",
+  "short": "Wet bescherming bevolking",
+  "title": "Wet bescherming bevolking",
+  "part": "71-wetten-f"
+ },
+ "statuut-voor-het-koninkrijk-der-nederlanden": {
+  "bwb": "BWBR0002154",
+  "short": "Statuut",
+  "title": "Statuut voor het Koninkrijk der Nederlanden",
+  "part": "71-wetten-f"
+ },
+ "toeslagwet-indonesische-pensioenen-1956": {
+  "bwb": "BWBR0002251",
+  "short": "Toeslagwet Indonesische pensioenen 1956",
+  "title": "Toeslagwet Indonesische pensioenen 1956",
+  "part": "71-wetten-f"
+ },
+ "instellingswet-bijstandkorps-burgerlijke-rijksambtenaren-bestemd-voor-dienst-in-nederlands-nieuw-guinea": {
+  "bwb": "BWBR0002370",
+  "short": "Instellingswet Bijstandkorps burgerlijke rijksambtenaren bestemd voor dienst in Nederlands-Nieuw-Guinea",
+  "title": "Instellingswet Bijstandkorps burgerlijke rijksambtenaren bestemd voor dienst in Nederlands-Nieuw-Guinea",
+  "part": "71-wetten-f"
+ },
+ "uitvoeringswet-nederlands-duits-grensverdrag": {
+  "bwb": "BWBR0002412",
+  "short": "Uitvoeringswet Nederlands-Duits Grensverdrag",
+  "title": "Uitvoeringswet Nederlands-Duits Grensverdrag",
+  "part": "71-wetten-f"
+ },
+ "samenloopregeling-indonesische-pensioenen-1960": {
+  "bwb": "BWBR0002414",
+  "short": "SIP",
+  "title": "Samenloopregeling Indonesische pensioenen 1960",
+  "part": "71-wetten-f"
+ },
+ "visserijwet-1963": {
+  "bwb": "BWBR0002416",
+  "short": "Visserijwet 1963",
+  "title": "Visserijwet 1963",
+  "part": "71-wetten-f"
+ },
+ "wet-tot-uitvoering-van-de-verordening-no-11-van-de-raad-van-de-europese-economische-gemeenschap": {
+  "bwb": "BWBR0002419",
+  "short": "Wet tot uitvoering van de Verordening No. 11 van de Raad van de Europese Economische Gemeenschap",
+  "title": "Wet tot uitvoering van de Verordening No. 11 van de Raad van de Europese Economische Gemeenschap",
+  "part": "71-wetten-f"
+ },
+ "verhaalswet-ongevallen-ambtenaren": {
+  "bwb": "BWBR0002500",
+  "short": "VOA",
+  "title": "Verhaalswet ongevallen ambtenaren",
+  "part": "71-wetten-f"
+ },
+ "uitkeringswet-gewezen-militairen": {
+  "bwb": "BWBR0002540",
+  "short": "Ugm",
+  "title": "Uitkeringswet gewezen militairen",
+  "part": "71-wetten-f"
+ },
+ "liquidatiewet-ongevallenwetten": {
+  "bwb": "BWBR0002553",
+  "short": "Liquidatiewet ongevallenwetten",
+  "title": "Liquidatiewet ongevallenwetten",
+  "part": "71-wetten-f"
+ },
+ "overgangswet-nieuw-burgerlijk-wetboek": {
+  "bwb": "BWBR0002565",
+  "short": "NBW",
+  "title": "Overgangswet nieuw Burgerlijk Wetboek",
+  "part": "71-wetten-f"
+ },
+ "leerplichtwet-1969": {
+  "bwb": "BWBR0002628",
+  "short": "LPW",
+  "title": "Leerplichtwet 1969",
+  "part": "71-wetten-f"
+ },
+ "algemene-pensioen-en-uitkeringswet-politieke-ambtsdragers": {
+  "bwb": "BWBR0002691",
+  "short": "APPA",
+  "title": "Algemene pensioen- en uitkeringswet politieke ambtsdragers",
+  "part": "71-wetten-f"
+ },
+ "wet-op-de-loonvorming": {
+  "bwb": "BWBR0002698",
+  "short": "LV",
+  "title": "Wet op de loonvorming",
+  "part": "71-wetten-f"
+ },
+ "experimentenwet-onderwijs": {
+  "bwb": "BWBR0002718",
+  "short": "EWO",
+  "title": "Experimentenwet onderwijs",
+  "part": "71-wetten-f"
+ },
+ "noodwet-geneeskundigen": {
+  "bwb": "BWBR0002758",
+  "short": "Noodwet Geneeskundigen",
+  "title": "Noodwet Geneeskundigen",
+  "part": "71-wetten-f"
+ },
+ "noodwet-arbeidsvoorziening": {
+  "bwb": "BWBR0002759",
+  "short": "Noodwet Arbeidsvoorziening",
+  "title": "Noodwet Arbeidsvoorziening",
+  "part": "71-wetten-f"
+ },
+ "wet-ambtelijk-toezicht-bij-openbare-verkopingen": {
+  "bwb": "BWBR0002798",
+  "short": "Watov",
+  "title": "Wet ambtelijk toezicht bij openbare verkopingen",
+  "part": "71-wetten-f"
+ },
+ "wet-aansprakelijkheid-olietankschepen": {
+  "bwb": "BWBR0002976",
+  "short": "Wet aansprakelijkheid olietankschepen",
+  "title": "Wet aansprakelijkheid olietankschepen",
+  "part": "71-wetten-f"
+ },
+ "wet-op-het-centraal-testamentenregister": {
+  "bwb": "BWBR0003080",
+  "short": "Wctr",
+  "title": "Wet op het centraal testamentenregister",
+  "part": "71-wetten-f"
+ },
+ "noodwet-financieel-verkeer": {
+  "bwb": "BWBR0003173",
+  "short": "Noodwet financieel verkeer",
+  "title": "Noodwet financieel verkeer",
+  "part": "71-wetten-f"
+ },
+ "wet-grensoverschrijdend-vervoer-van-aan-bederf-onderhevige-levensmiddelen": {
+  "bwb": "BWBR0003186",
+  "short": "Wet grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen",
+  "title": "Wet grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen",
+  "part": "71-wetten-f"
+ },
+ "wet-gelijke-behandeling-van-mannen-en-vrouwen": {
+  "bwb": "BWBR0003299",
+  "short": "WGBMV",
+  "title": "Wet gelijke behandeling van mannen en vrouwen",
+  "part": "71-wetten-f"
+ },
+ "wet-op-de-consignatie-van-gelden": {
+  "bwb": "BWBR0003338",
+  "short": "Wet op de consignatie van gelden",
+  "title": "Wet op de consignatie van gelden",
+  "part": "71-wetten-f"
+ },
+ "uitvoeringswet-verdrag-biologische-wapens": {
+  "bwb": "BWBR0003385",
+  "short": "Uitvoeringswet verdrag biologische wapens",
+  "title": "Uitvoeringswet verdrag biologische wapens",
+  "part": "71-wetten-f"
+ },
+ "wet-agrarisch-grondverkeer": {
+  "bwb": "BWBR0003386",
+  "short": "WAG",
+  "title": "Wet agrarisch grondverkeer",
+  "part": "71-wetten-f"
+ },
+ "wet-algemene-regels-herindeling": {
+  "bwb": "BWBR0003718",
+  "short": "ARHI",
+  "title": "Wet algemene regels herindeling",
+  "part": "71-wetten-f"
+ },
+ "wet-inzake-spaarbewijzen": {
+  "bwb": "BWBR0003797",
+  "short": "Wet inzake spaarbewijzen",
+  "title": "Wet inzake spaarbewijzen",
+  "part": "71-wetten-f"
  }
 }
