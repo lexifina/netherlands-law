@@ -1,6 +1,6 @@
 # How this repository was made (Netherlands)
 
-This file is written by the build on 2026-11-02, the day the source data was retrieved.
+This file is written by the build on 2026-11-03, the day the source data was retrieved.
 
 ## Sources
 
@@ -60,6 +60,12 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-02 | CC0 1.0 |
 | Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-02 | CC0 1.0 |
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-02 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -359,20 +365,1509 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `wet-agrarisch-grondverkeer` | Wet agrarisch grondverkeer | 20 | 2002-04-01 to 2026-06-04 |
 | `wet-algemene-regels-herindeling` | Wet algemene regels herindeling | 23 | 2002-01-01 to 2024-01-01 |
 | `wet-inzake-spaarbewijzen` | Wet inzake spaarbewijzen | 2 | 1996-06-01 to 2005-01-01 |
+| `belastingwet-bes` | Belastingwet BES | 1 | 2026-04-11 to 2026-04-11 |
+| `tno-wet` | TNO-wet | 1 | 2022-05-01 to 2022-05-01 |
+| `wet-op-de-internationale-bijstandsverlening-bij-de-heffing-van-belastingen` | Wet op de internationale bijstandsverlening bij de heffing van belastingen | 1 | 2026-04-11 to 2026-04-11 |
+| `intrekkingswet-bb` | Intrekkingswet BB | 1 | 1996-01-01 to 1996-01-01 |
+| `les-en-cursusgeldwet` | Les- en cursusgeldwet | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-op-de-architectentitel` | Wet op de architectentitel | 1 | 2021-08-26 to 2021-08-26 |
+| `wet-op-de-nederlandse-organisatie-voor-wetenschappelijk-onderzoek` | Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek | 1 | 2024-10-29 to 2024-10-29 |
+| `wet-openbare-manifestaties` | Wet openbare manifestaties | 1 | 2010-10-10 to 2010-10-10 |
+| `loodsenwet` | Loodsenwet | 1 | 2022-01-01 to 2022-01-01 |
+| `uitvoeringswet-verordening-tot-instelling-van-europese-economische-samenwerkingsverbanden` | Uitvoeringswet Verordening tot instelling van Europese economische samenwerkingsverbanden | 1 | 2017-09-01 to 2017-09-01 |
+| `uitvoeringswet-internationale-kinderontvoering` | Uitvoeringswet internationale kinderontvoering | 1 | 2022-10-01 to 2022-10-01 |
+| `wet-militair-tuchtrecht` | Wet militair tuchtrecht | 1 | 2020-04-01 to 2020-04-01 |
+| `wet-militaire-strafrechtspraak` | Wet militaire strafrechtspraak | 1 | 2020-04-01 to 2020-04-01 |
+| `paspoortwet` | Paspoortwet | 1 | 2026-10-01 to 2026-10-01 |
+| `wijzigingswet-boek-2-van-het-burgerlijk-wetboek` | Wijzigingswet Boek 2 van het Burgerlijk Wetboek | 1 | 1992-03-16 to 1992-03-16 |
+| `wet-rechtspositionele-voorzieningen-rampbestrijders` | Wet rechtspositionele voorzieningen rampbestrijders | 1 | 2013-01-01 to 2013-01-01 |
+| `wet-goedkeuring-en-uitvoering-markham-overeenkomst` | Wet goedkeuring en uitvoering Markham-overeenkomst | 1 | 2021-07-01 to 2021-07-01 |
+| `wijzigingswet-wet-milieubeheer-afvalstoffen` | Wijzigingswet Wet milieubeheer (afvalstoffen) | 1 | 1996-03-01 to 1996-03-01 |
+| `wet-terugdringing-beroep-op-de-arbeidsongeschiktheidsregelingen` | Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen | 1 | 2009-10-01 to 2009-10-01 |
+| `wet-rijonderricht-motorrijtuigen-1993` | Wet rijonderricht motorrijtuigen 1993 | 1 | 2021-04-24 to 2021-04-24 |
+| `wijzigingswet-algemene-ouderdomswet-wijziging-in-de-verhouding-van-ouderdomspensioen-en-to` | Wijzigingswet Algemene Ouderdomswet (wijziging in de verhouding van ouderdomspensioen en toeslag) | 1 | 2013-01-01 to 2013-01-01 |
+| `garantiewet-surinaamse-pensioenen` | Garantiewet Surinaamse pensioenen | 1 | 2013-01-01 to 2013-01-01 |
+| `wet-privatisering-spoorwegpensioenfonds` | Wet privatisering Spoorwegpensioenfonds | 1 | 2015-07-01 to 2015-07-01 |
+| `algemene-wet-gelijke-behandeling` | Algemene wet gelijke behandeling | 1 | 2026-01-01 to 2026-01-01 |
+| `rijksoctrooiwet-1995` | Rijksoctrooiwet 1995 | 1 | 2023-06-01 to 2023-06-01 |
+| `wet-financiele-voorzieningen-privatisering-abp` | Wet financiële voorzieningen privatisering ABP | 1 | 2021-07-10 to 2021-07-10 |
+| `wet-voorkoming-misbruik-chemicalien` | Wet voorkoming misbruik chemicaliën | 1 | 2026-01-01 to 2026-01-01 |
+| `uitvoeringswet-verdrag-chemische-wapens` | Uitvoeringswet verdrag chemische wapens | 1 | 2024-01-01 to 2024-01-01 |
+| `wet-geneesmiddelenprijzen` | Wet geneesmiddelenprijzen | 1 | 2020-03-19 to 2020-03-19 |
+| `kaderwet-ez-lvvn-en-kgg-subsidies` | Kaderwet EZ-, LVVN- en KGG-subsidies | 1 | 2025-09-01 to 2025-09-01 |
+| `wet-buitengewone-bevoegdheden-burgerlijk-gezag` | Wet buitengewone bevoegdheden burgerlijk gezag | 1 | 2021-02-22 to 2021-02-22 |
+| `oorlogswet-voor-nederland` | Oorlogswet voor Nederland | 1 | 1999-02-17 to 1999-02-17 |
+| `wet-gevolgen-brutering-uitkeringsregelingen` | Wet gevolgen brutering uitkeringsregelingen | 1 | 2013-01-01 to 2013-01-01 |
+| `wet-veiligheidsonderzoeken` | Wet veiligheidsonderzoeken | 1 | 2026-07-01 to 2026-07-01 |
+| `kaderwet-dienstplicht` | Kaderwet dienstplicht | 1 | 2020-01-01 to 2020-01-01 |
+| `wet-op-de-medische-keuringen` | Wet op de medische keuringen | 1 | 2025-01-01 to 2025-01-01 |
+| `wet-havenstaatcontrole` | Wet havenstaatcontrole | 1 | 2025-09-17 to 2025-09-17 |
+| `uitkeringswet-tegemoetkoming-twee-tot-vijfjarige-diensttijd-veteranen` | Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen | 1 | 2006-01-01 to 2006-01-01 |
+| `uitvoeringswet-verdrag-inzake-de-bescherming-van-kinderen-en-de-samenwerking-op-het-gebied` | Uitvoeringswet Verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie | 1 | 2017-09-01 to 2017-09-01 |
+| `wet-op-het-overleg-huurders-verhuurder` | Wet op het overleg huurders verhuurder | 1 | 2026-06-04 to 2026-06-04 |
+| `databankenwet` | Databankenwet | 1 | 2025-11-21 to 2025-11-21 |
+| `wijzigingswet-wet-personenvervoer-voor-het-taxivervoer-deregulering-taxivervoer` | Wijzigingswet Wet personenvervoer voor het taxivervoer (deregulering taxivervoer) | 1 | 2001-01-01 to 2001-01-01 |
+| `wet-bevordering-eigenwoningbezit` | Wet bevordering eigenwoningbezit | 1 | 2026-06-04 to 2026-06-04 |
+| `kaderwet-militaire-pensioenen` | Kaderwet militaire pensioenen | 1 | 2020-01-01 to 2020-01-01 |
+| `wet-tot-het-stellen-van-nadere-regels-in-verband-met-introductie-toeslagregeling-ten-aanzi` | Wet tot het stellen van nadere regels in verband met introductie toeslagregeling ten aanzien van de Toeslagwet Indonesische pensioenen 1956 en enkele andere overzeese pensioenwetten alsmede actualiseren van die wetten | 1 | 2013-01-01 to 2013-01-01 |
+| `muntwet-2002` | Muntwet 2002 | 1 | 2023-07-01 to 2023-07-01 |
+| `rijkswet-op-de-consulaire-tarieven` | Rijkswet op de consulaire tarieven | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-donorgegevens-kunstmatige-bevruchting` | Wet donorgegevens kunstmatige bevruchting | 1 | 2025-07-05 to 2025-07-05 |
+| `uitvoeringswet-internationaal-strafhof` | Uitvoeringswet Internationaal Strafhof | 1 | 2020-04-01 to 2020-04-01 |
+| `wet-op-het-onderwijstoezicht` | Wet op het onderwijstoezicht | 1 | 2026-08-01 to 2026-08-01 |
+| `wet-veiligheid-en-kwaliteit-lichaamsmateriaal` | Wet veiligheid en kwaliteit lichaamsmateriaal | 1 | 2026-07-01 to 2026-07-01 |
+| `wet-internationale-misdrijven` | Wet internationale misdrijven | 1 | 2020-01-01 to 2020-01-01 |
+| `wijzigingswet-wet-op-de-dierproeven-2003` | Wijzigingswet Wet op de dierproeven 2003 | 1 | 2003-11-18 to 2003-11-18 |
+| `wet-kabelbaaninstallaties` | Wet kabelbaaninstallaties | 1 | 2024-01-01 to 2024-01-01 |
+| `wet-implementatie-europees-regelgevingskader-voor-de-elektronische-communicatiesector-2002` | Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002 | 1 | 2004-05-19 to 2004-05-19 |
+| `aanpassingswet-richtlijn-inzake-elektronische-handel` | Aanpassingswet richtlijn inzake elektronische handel | 1 | 2025-02-04 to 2025-02-04 |
+| `havenbeveiligingswet` | Havenbeveiligingswet | 1 | 2024-01-01 to 2024-01-01 |
+| `wet-dna-onderzoek-bij-veroordeelden` | Wet DNA-onderzoek bij veroordeelden | 1 | 2025-07-01 to 2025-07-01 |
+| `wet-laden-en-lossen-zeeschepen` | Wet laden en lossen zeeschepen | 1 | 2010-12-31 to 2010-12-31 |
+| `invoeringswet-wet-financiering-sociale-verzekeringen` | Invoeringswet Wet financiering sociale verzekeringen | 1 | 2008-01-01 to 2008-01-01 |
+| `uitvoeringswet-verordening-europese-vennootschap` | Uitvoeringswet verordening Europese vennootschap | 1 | 2017-09-01 to 2017-09-01 |
+| `invoerings-en-aanpassingswet-zorgverzekeringswet` | Invoerings- en aanpassingswet Zorgverzekeringswet | 1 | 2020-03-19 to 2020-03-19 |
+| `wet-aanvullende-regels-veiligheid-wegtunnels` | Wet aanvullende regels veiligheid wegtunnels | 1 | 2024-01-01 to 2024-01-01 |
+| `uitvoeringswet-internationale-kinderbescherming` | Uitvoeringswet internationale kinderbescherming | 1 | 2022-10-01 to 2022-10-01 |
+| `uitvoeringswet-verordening-europese-cooperatieve-vennootschap` | Uitvoeringswet verordening Europese coöperatieve vennootschap | 1 | 2017-09-01 to 2017-09-01 |
+| `wijzigingswet-elektriciteitswet-1998-en-gaswet-nadere-regels-omtrent-een-onafhankelijk-net` | Wijzigingswet Elektriciteitswet 1998 en Gaswet (nadere regels omtrent een onafhankelijk netbeheer) | 1 | 2026-01-01 to 2026-01-01 |
+| `invoerings-en-aanpassingswet-wet-op-het-financieel-toezicht` | Invoerings- en aanpassingswet Wet op het financieel toezicht | 1 | 2019-07-21 to 2019-07-21 |
+| `wet-werken-aan-winst` | Wet werken aan winst | 1 | 2019-01-01 to 2019-01-01 |
+| `wet-medezeggenschap-op-scholen` | Wet medezeggenschap op scholen | 1 | 2025-08-01 to 2025-08-01 |
+| `verzamelwet-sociale-verzekeringen-2007` | Verzamelwet sociale verzekeringen 2007 | 1 | 2008-01-01 to 2008-01-01 |
+| `wet-ruimtevaartactiviteiten` | Wet ruimtevaartactiviteiten | 1 | 2025-07-01 to 2025-07-01 |
+| `uitvoeringswet-grondkamers` | Uitvoeringswet grondkamers | 1 | 2024-01-01 to 2024-01-01 |
+| `wet-wederzijdse-erkenning-en-tenuitvoerlegging-geldelijke-sancties-en-beslissingen-tot-con` | Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-beedigde-tolken-en-vertalers` | Wet beëdigde tolken en vertalers | 1 | 2018-07-28 to 2018-07-28 |
+| `rijkswet-kustwacht-voor-aruba-curacao-en-sint-maarten-alsmede-voor-de-openbare-lichamen-bo` | Rijkswet Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba | 1 | 2010-10-10 to 2010-10-10 |
+| `aanpassingswet-algemene-douanewet` | Aanpassingswet Algemene douanewet | 1 | 2012-01-01 to 2012-01-01 |
+| `wet-tuchtrechtspraak-accountants` | Wet tuchtrechtspraak accountants | 1 | 2023-07-01 to 2023-07-01 |
+| `wijzigingswet-wet-luchtvaart-regelgeving-burgerluchthavens-en-militaire-luchthavens` | Wijzigingswet Wet luchtvaart (Regelgeving burgerluchthavens en militaire luchthavens) | 1 | 2021-06-19 to 2021-06-19 |
+| `mediawet-2008` | Mediawet 2008 | 1 | 2026-01-01 to 2026-01-01 |
+| `implementatiewet-eg-richtlijn-infrastructuur-ruimtelijke-informatie` | Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie | 1 | 2025-02-12 to 2025-02-12 |
+| `wet-aanwijzing-nationale-accreditatie-instantie` | Wet aanwijzing nationale accreditatie-instantie | 1 | 2019-01-01 to 2019-01-01 |
+| `wet-referentieniveaus-nederlandse-taal-en-rekenen` | Wet referentieniveaus Nederlandse taal en rekenen | 1 | 2026-08-01 to 2026-08-01 |
+| `invoeringswet-openbare-lichamen-bonaire-sint-eustatius-en-saba` | Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba | 1 | 2025-01-01 to 2025-01-01 |
+| `wet-bescherming-persoonsgegevens-bes` | Wet bescherming persoonsgegevens BES | 1 | 2025-11-11 to 2025-11-11 |
+| `rijkswet-openbare-ministeries-van-curacao-van-sint-maarten-en-van-bonaire-sint-eustatius-e` | Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba | 1 | 2010-10-10 to 2010-10-10 |
+| `rijkswet-politie-van-curacao-van-sint-maarten-en-van-bonaire-sint-eustatius-en-saba` | Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba | 1 | 2010-10-10 to 2010-10-10 |
+| `rijkswet-tot-vaststelling-zeegrens-tussen-curacao-en-bonaire-en-tussen-sint-maarten-en-sab` | Rijkswet tot vaststelling zeegrens tussen Curaçao en Bonaire, en tussen Sint Maarten en Saba | 1 | 2018-09-01 to 2018-09-01 |
+| `wet-openbare-lichamen-bonaire-sint-eustatius-en-saba` | Wet openbare lichamen Bonaire, Sint Eustatius en Saba | 1 | 2026-09-15 to 2026-09-15 |
+| `wet-administratieve-rechtspraak-bes` | Wet administratieve rechtspraak BES | 1 | 2026-06-04 to 2026-06-04 |
+| `wet-geldstelsel-bes` | Wet geldstelsel BES | 1 | 2012-07-01 to 2012-07-01 |
+| `wetboek-van-strafrecht-bes` | Wetboek van Strafrecht BES | 1 | 2025-07-01 to 2025-07-01 |
+| `wet-toelating-en-uitzetting-bes` | Wet toelating en uitzetting BES | 1 | 2010-10-10 to 2010-10-10 |
+| `veiligheidswet-bes` | Veiligheidswet BES | 1 | 2018-08-01 to 2018-08-01 |
+| `wetboek-van-strafvordering-bes` | Wetboek van Strafvordering BES | 1 | 2025-07-01 to 2025-07-01 |
+| `pensioenwet-bes` | Pensioenwet BES | 1 | 2021-07-01 to 2021-07-01 |
+| `burgerlijk-wetboek-bes-boek-1` | Burgerlijk Wetboek BES Boek 1 | 1 | 2025-07-01 to 2025-07-01 |
+| `douane-en-accijnswet-bes` | Douane- en Accijnswet BES | 1 | 2025-01-01 to 2025-01-01 |
+| `wet-inkomstenbelasting-bes` | Wet inkomstenbelasting BES | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-loonbelasting-bes` | Wet loonbelasting BES | 1 | 2025-04-01 to 2025-04-01 |
+| `wet-harmonisatie-en-vereenvoudiging-socialezekerheidswetgeving` | Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving | 1 | 2012-03-01 to 2012-03-01 |
+| `wet-wijziging-verrekening-inkomsten-met-ziekengeld` | Wet wijziging verrekening inkomsten met ziekengeld | 1 | 2012-01-01 to 2012-01-01 |
+| `wet-verzekering-zeeschepen` | Wet verzekering zeeschepen | 1 | 2025-07-01 to 2025-07-01 |
+| `wet-ter-voorkoming-van-witwassen-en-financieren-van-terrorisme-bes` | Wet ter voorkoming van witwassen en financieren van terrorisme BES | 1 | 2025-01-01 to 2025-01-01 |
+| `wijzigingswet-financiele-markten-2012` | Wijzigingswet financiële markten 2012 | 1 | 2013-01-01 to 2013-01-01 |
+| `wet-financiele-markten-bes` | Wet financiële markten BES | 1 | 2023-07-01 to 2023-07-01 |
+| `wijzigingswet-wet-werk-en-bijstand-enz-bevordering-deelname-aan-arbeidsmarkt-en-vergroting` | Wijzigingswet Wet werk en bijstand, enz. (bevordering deelname aan arbeidsmarkt en vergroting eigen verantwoordelijkheid uitkeringsgerechtigden) | 1 | 2012-07-01 to 2012-07-01 |
+| `wet-afschaffing-huishoudinkomenstoets` | Wet afschaffing huishoudinkomenstoets | 1 | 2012-07-18 to 2012-07-18 |
+| `wet-verhoging-aow-en-pensioenrichtleeftijd` | Wet verhoging AOW- en pensioenrichtleeftijd | 1 | 2023-07-01 to 2023-07-01 |
+| `wet-bestuurlijke-boete-meldingsplichten-door-ministers-verstrekte-subsidies` | Wet bestuurlijke boete meldingsplichten door ministers verstrekte subsidies | 1 | 2013-07-01 to 2013-07-01 |
+| `wet-normering-topinkomens` | Wet normering topinkomens | 1 | 2026-08-01 to 2026-08-01 |
+| `wet-herziening-fiscale-behandeling-eigen-woning` | Wet herziening fiscale behandeling eigen woning | 1 | 2013-01-01 to 2013-01-01 |
+| `wet-financiering-politieke-partijen` | Wet financiering politieke partijen | 1 | 2026-06-06 to 2026-06-06 |
+| `wet-vereenvoudiging-regelingen-svb` | Wet vereenvoudiging regelingen SVB | 1 | 2013-07-01 to 2013-07-01 |
+| `uitvoeringswet-verordening-europees-burgerinitiatief` | Uitvoeringswet verordening Europees burgerinitiatief | 1 | 2020-04-01 to 2020-04-01 |
+| `wet-op-de-kamer-van-koophandel` | Wet op de Kamer van Koophandel | 1 | 2021-07-01 to 2021-07-01 |
+| `uitvoeringswet-efro` | Uitvoeringswet EFRO | 1 | 2021-07-01 to 2021-07-01 |
+| `wet-werk-en-zekerheid` | Wet werk en zekerheid | 1 | 2020-01-01 to 2020-01-01 |
+| `wet-instelling-van-de-orde-van-de-nederlandse-leeuw` | Wet instelling van de Orde van de Nederlandse Leeuw | 1 | 1997-01-01 to 1997-01-01 |
+| `stelselwet` | Stelselwet | 1 | 1821-08-01 to 1821-08-01 |
+| `overgangswet` | Overgangswet | 1 | 1838-01-26 to 1838-01-26 |
+| `afschaffingswet` | Afschaffingswet | 1 | 1829-06-16 to 1829-06-16 |
+| `onteigeningswet` | Onteigeningswet | 1 | 2024-01-01 to 2024-01-01 |
+| `uitvoeringswet-der-bepalingen-van-de-artikelen-33-36-37-en-38-der-herziene-akte-omtrent-de` | Uitvoeringswet der bepalingen van de artikelen 33, 36, 37 en 38 der herziene akte omtrent de Rijnvaart | 1 | 2002-01-01 to 2002-01-01 |
+| `wet-afschaffing-doodstraf` | Wet afschaffing doodstraf | 1 | 1886-09-01 to 1886-09-01 |
+| `consulaire-wet` | Consulaire Wet | 1 | 2020-01-01 to 2020-01-01 |
+| `wet-vernieuwing-hypothecaire-inschrijvingen` | Wet vernieuwing hypothecaire inschrijvingen | 1 | 1879-01-01 to 1879-01-01 |
+| `wet-rechten-burgerlijke-stand` | Wet rechten burgerlijke stand | 1 | 2019-02-16 to 2019-02-16 |
+| `invoeringswet-wetboek-van-strafrecht` | Invoeringswet Wetboek van Strafrecht | 1 | 2002-01-01 to 2002-01-01 |
+| `wet-tot-regeling-van-het-militair-onderwijs-bij-de-landmacht` | Wet tot regeling van het Militair Onderwijs bij de Landmacht | 1 | 1933-09-16 to 1933-09-16 |
+| `wet-i-v-m-het-overgaan-van-de-kroon-op-een-koningin` | Wet i.v.m. het overgaan van de Kroon op een Koningin | 1 | 1891-09-01 to 1891-09-01 |
+| `wet-instelling-van-de-orde-van-oranje-nassau` | Wet instelling van de Orde van Oranje-Nassau | 1 | 1997-01-01 to 1997-01-01 |
+| `wet-militaire-inundatien` | Wet militaire inundatiën | 1 | 2017-09-01 to 2017-09-01 |
+| `waterstaatswet-1900` | Waterstaatswet 1900 | 1 | 2024-01-01 to 2024-01-01 |
+| `wetboek-van-militair-strafrecht` | Wetboek van Militair Strafrecht | 1 | 2020-01-01 to 2020-01-01 |
+| `uitvoeringswet-rechtsvorderingsverdrag-1905` | Uitvoeringswet Rechtsvorderingsverdrag 1905 | 1 | 2025-01-01 to 2025-01-01 |
+| `wet-vorm-van-de-eed` | Wet vorm van de eed | 1 | 1911-08-24 to 1911-08-24 |
+| `wet-tot-verlenen-vrijdom-van-grondbelasting-en-van-personele-belasting-voor-het-vredespale` | Wet tot verlenen vrijdom van grondbelasting en van personele belasting voor het Vredespaleis te 's-Gravenhage | 1 | 1913-01-01 to 1913-01-01 |
+| `eedswet-1971` | Eedswet 1971 | 1 | 1971-05-12 to 1971-05-12 |
+| `verenwet` | Verenwet | 1 | 2023-05-01 to 2023-05-01 |
+| `wet-tot-regeling-pensioenen-voor-de-reserve-adjudanten-onderofficier-van-de-landmacht` | Wet tot regeling pensioenen voor de reserve-adjudanten-onderofficier van de landmacht | 1 | 1927-02-06 to 1927-02-06 |
+| `invoeringswet-wetboek-van-strafvordering` | Invoeringswet Wetboek van Strafvordering | 1 | 2002-03-01 to 2002-03-01 |
+| `wet-op-de-strandvonderij` | Wet op de strandvonderij | 1 | 2017-09-01 to 2017-09-01 |
+| `wet-uitvoering-rechtsvorderingsverdrag-groot-brittannie` | Wet uitvoering rechtsvorderingsverdrag Groot-Brittannië | 1 | 2023-05-01 to 2023-05-01 |
+| `mijnwerkersinvaliditeitswet` | Mijnwerkersinvaliditeitswet | 1 | 2002-01-01 to 2002-01-01 |
+| `wrakkenwet` | Wrakkenwet | 1 | 2021-07-01 to 2021-07-01 |
+| `wet-overbrenging-consignatiekas-naar-de-nederlandsche-bank` | Wet overbrenging consignatiekas naar de Nederlandsche Bank | 1 | 2002-01-01 to 2002-01-01 |
+| `wet-op-de-weerkorpsen` | Wet op de weerkorpsen | 1 | 1999-04-01 to 1999-04-01 |
+| `wet-op-de-goudclausules-1937` | Wet op de goudclausules 1937 | 1 | 2002-01-01 to 2002-01-01 |
+| `wet-houdende-de-omzetting-van-de-rijksstudiedienst-voor-de-luchtvaart-in-een-stichting` | Wet houdende de omzetting van de Rijksstudiedienst voor de luchtvaart in een stichting | 1 | 2019-01-01 to 2019-01-01 |
+| `wet-tot-regeling-van-pensioenen-reserve-officieren-der-koninklijke-landmacht` | Wet tot regeling van pensioenen reserve-officieren der Koninklijke landmacht | 1 | 1939-01-11 to 1939-01-11 |
+| `wet-behoud-scheepsruimte-1939` | Wet behoud scheepsruimte 1939 | 1 | 2010-10-10 to 2010-10-10 |
+| `zee-en-luchtvaartverzekeringswet-1939` | Zee- en luchtvaartverzekeringswet 1939 | 1 | 2025-07-01 to 2025-07-01 |
+| `wet-herziening-wet-instelling-militaire-willems-orde` | Wet herziening Wet instelling Militaire Willems-Orde | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-territoriale-bevoegdheid-van-enkele-notarissen` | Wet territoriale bevoegdheid van enkele notarissen | 1 | 1946-01-15 to 1946-01-15 |
+| `wet-voorbereiding-van-de-vaststelling-van-een-centraal-economisch-plan` | Wet voorbereiding van de vaststelling van een Centraal Economisch Plan | 1 | 2019-01-01 to 2019-01-01 |
+| `wet-van-24-april-1947-houdende-voorzieningen-onder-den-vijand-aangetroffen-goederen` | Wet van 24 april 1947, houdende voorzieningen onder den vijand aangetroffen goederen | 1 | 1947-06-01 to 1947-06-01 |
+| `wet-vernieuwing-hypothecaire-inschrijvingen-ten-hypotheekkantore-nijmegen` | Wet vernieuwing hypothecaire inschrijvingen ten hypotheekkantore Nijmegen | 1 | 1947-09-01 to 1947-09-01 |
+| `wet-nopens-de-naasting-der-aandelen-in-de-nederlandsche-bank-n-v` | Wet nopens de naasting der aandelen in De Nederlandsche Bank N.V. | 1 | 1948-08-01 to 1948-08-01 |
+| `wet-overgang-bijzondere-rechtspleging` | Wet overgang bijzondere rechtspleging | 1 | 2020-01-01 to 2020-01-01 |
+| `wet-instelling-schuldregisters-voor-geldleningen-ten-laste-van-het-rijk` | Wet instelling schuldregisters voor geldleningen ten laste van het Rijk | 1 | 1949-01-26 to 1949-01-26 |
+| `wet-regelen-nopens-beheer-schuldregisters-voor-geldleningen-ten-laste-van-het-rijk` | Wet regelen nopens beheer schuldregisters voor geldleningen ten laste van het rijk | 1 | 2013-01-01 to 2013-01-01 |
+| `wet-vereenvoudiging-wijze-uitbrengen-exploiten-aan-grootboek-1946` | Wet vereenvoudiging wijze uitbrengen exploiten aan Grootboek 1946 | 1 | 2023-05-01 to 2023-05-01 |
+| `wet-souvereiniteitsoverdracht-indonesie` | Wet souvereiniteitsoverdracht Indonesië | 1 | 1949-12-22 to 1949-12-22 |
+| `overgangsregeling-gemeente-urk` | Overgangsregeling gemeente Urk | 1 | 1950-06-24 to 1950-06-24 |
+| `wet-overheidsaansprakelijkheid-bezettingshandelingen` | Wet Overheidsaansprakelijkheid Bezettingshandelingen | 1 | 2021-04-01 to 2021-04-01 |
+| `wet-voorzieningen-in-verband-met-ambten-van-minister-zonder-portefeuille-en-van-staatssecr` | Wet voorzieningen in verband met ambten van minister zonder portefeuille en van staatssecretaris | 1 | 1993-12-31 to 1993-12-31 |
+| `wet-betreffende-indische-juristen` | Wet betreffende Indische juristen | 1 | 2008-09-01 to 2008-09-01 |
+| `wet-verplaatsing-bevolking` | Wet verplaatsing bevolking | 1 | 2023-04-20 to 2023-04-20 |
+| `wet-beschikbaarheid-goederen` | Wet beschikbaarheid goederen | 1 | 2021-07-01 to 2021-07-01 |
+| `wet-oorlogsstrafrecht` | Wet oorlogsstrafrecht | 1 | 2013-10-01 to 2013-10-01 |
+| `sluiting-oude-scheepsboekhouding` | Sluiting oude scheepsboekhouding | 1 | 1952-12-01 to 1952-12-01 |
+| `inkwartieringswet` | Inkwartieringswet | 1 | 2015-01-01 to 2015-01-01 |
+| `goedkeuringswet-benelux-invorderingsverdrag` | Goedkeuringswet Benelux-Invorderingsverdrag | 1 | 1953-07-22 to 1953-07-22 |
+| `wet-financiering-stormvloedschade-publiekrechtelijke-lichamen` | Wet Financiering Stormvloedschade Publiekrechtelijke Lichamen | 1 | 1953-08-19 to 1953-08-19 |
+| `wet-immunisatie-militairen` | Wet immunisatie militairen | 1 | 1998-01-01 to 1998-01-01 |
+| `wet-goedkeuring-en-uitvoering-verdrag-van-londen-navo-sofa` | Wet goedkeuring en uitvoering Verdrag van Londen (NAVO-SOFA) | 1 | 1953-09-09 to 1953-09-09 |
+| `zondagswet` | Zondagswet | 1 | 1994-04-01 to 1994-04-01 |
+| `wet-voorzieningen-ten-aanzien-van-buitengewone-registers-van-de-burgerlijke-stand` | Wet voorzieningen ten aanzien van buitengewone registers van de burgerlijke stand | 1 | 1954-01-07 to 1954-01-07 |
+| `wet-op-de-watersnoodschade-1953` | Wet op de Watersnoodschade 1953 | 1 | 1971-01-01 to 1971-01-01 |
+| `wet-overlevering-inzake-oorlogsmisdrijven` | Wet overlevering inzake oorlogsmisdrijven | 1 | 2013-01-01 to 2013-01-01 |
+| `wet-vervaltermijn-rechtsvorderingen-nederlands-beheersinstituut` | Wet vervaltermijn rechtsvorderingen Nederlands Beheersinstituut | 1 | 2017-09-01 to 2017-09-01 |
+| `wet-bestuursrechtspraak-bedrijfsorganisatie` | Wet bestuursrechtspraak bedrijfsorganisatie | 1 | 2023-11-16 to 2023-11-16 |
+| `instellingswet-productschap-voor-groenten-en-fruit` | Instellingswet Productschap voor Groenten en Fruit | 1 | 1995-07-26 to 1995-07-26 |
+| `instellingswet-productschap-voor-siergewassen` | Instellingswet Productschap voor Siergewassen | 1 | 1976-07-26 to 1976-07-26 |
+| `instellingswet-productschap-voor-margarine-vetten-en-olien` | Instellingswet Productschap voor Margarine, Vetten en Oliën | 1 | 1976-01-01 to 1976-01-01 |
+| `instellingswet-productschap-voor-gedistilleerde-dranken` | Instellingswet Productschap voor Gedistilleerde Dranken | 1 | 1995-07-26 to 1995-07-26 |
+| `instellingswet-productschappen-en-hoofdproductschap-voor-akkerbouwproducten` | Instellingswet Productschappen en Hoofdproductschap voor Akkerbouwproducten | 1 | 1986-01-01 to 1986-01-01 |
+| `instellingswet-productschap-voor-bier` | Instellingswet Productschap voor Bier | 1 | 1956-01-01 to 1956-01-01 |
+| `beroepswet` | Beroepswet | 1 | 2023-11-16 to 2023-11-16 |
+| `wet-gedwongen-tenuitvoerlegging-van-uitspraken-en-beschikkingen-ingevolge-verdrag-tot-opri` | Wet gedwongen tenuitvoerlegging van uitspraken en beschikkingen ingevolge Verdrag tot oprichting van de Europese Gemeenschappen voor kolen en staal | 1 | 2015-07-01 to 2015-07-01 |
+| `wet-pensioenfonds-koninklijk-conservatorium` | Wet Pensioenfonds Koninklijk Conservatorium | 1 | 1955-04-08 to 1955-04-08 |
+| `defensiewet-voor-aruba-curacao-en-sint-maarten` | Defensiewet voor Aruba, Curaçao en Sint Maarten | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-houdende-vaststelling-regeling-ten-aanzien-van-de-stichting-tot-verzorging-en-afwikkel` | Wet houdende vaststelling regeling ten aanzien van de Stichting tot verzorging en afwikkeling van pensioensaangelegenheden gewezen overheidspersoneel van Indonesië | 1 | 1998-01-01 to 1998-01-01 |
+| `instellingswet-productschap-voor-zuivel` | Instellingswet Productschap voor Zuivel | 1 | 1956-10-15 to 1956-10-15 |
+| `wet-bepaling-rechtsgevolgen-van-maatregelen-in-bezet-nederlands-gebied-genomen` | Wet bepaling rechtsgevolgen van maatregelen in bezet Nederlands gebied genomen | 1 | 1956-09-01 to 1956-09-01 |
+| `instellingswet-productschap-voor-vis-en-visproducten` | Instellingswet Productschap voor Vis en Visproducten | 1 | 1992-01-01 to 1992-01-01 |
+| `algemene-toeslagwet-voor-gepensioneerde-militairen-1956` | Algemene toeslagwet voor gepensioneerde militairen 1956 | 1 | 1963-06-01 to 1963-06-01 |
+| `goedkeuringswet-eeg-verdrag` | Goedkeuringswet EEG-Verdrag | 1 | 1957-12-14 to 1957-12-14 |
+| `wet-op-de-samenstelling-van-de-burgerlijke-gerechten-en-van-de-bezoldiging-van-de-rechterl` | Wet op de samenstelling van de burgerlijke gerechten en van de bezoldiging van de rechterlijke ambtenaren | 1 | 1999-02-17 to 1999-02-17 |
+| `wet-regeling-gevolgen-wijziging-naam-departement-van-volkshuisvesting-en-bouwnijverheid` | Wet regeling gevolgen wijziging naam departement van Volkshuisvesting en Bouwnijverheid | 1 | 1956-10-13 to 1956-10-13 |
+| `wet-tot-nadere-regeling-van-de-wettelijke-tijd` | Wet tot nadere regeling van de wettelijke tijd | 1 | 1977-03-24 to 1977-03-24 |
+| `rijkswet-houdende-goedkeuring-rechtsvorderingsverdrag-1954` | Rijkswet houdende goedkeuring Rechtsvorderingsverdrag 1954 | 1 | 1959-01-17 to 1959-01-17 |
+| `uitvoeringswet-rechtsvorderingsverdrag-1954` | Uitvoeringswet Rechtsvorderingsverdrag 1954 | 1 | 2025-01-01 to 2025-01-01 |
+| `uitvoeringswet-europees-vestigingsverdrag` | Uitvoeringswet Europees Vestigingsverdrag | 1 | 1970-04-10 to 1970-04-10 |
+| `machtigingswet-1960` | Machtigingswet 1960 | 1 | 1999-09-01 to 1999-09-01 |
+| `liquidatiewet-oorlogs-en-watersnoodschade-i` | Liquidatiewet Oorlogs- en Watersnoodschade I | 1 | 1960-08-01 to 1960-08-01 |
+| `rijkswet-rechtsmacht-hoge-raad-voor-aruba-curacao-sint-maarten-en-voor-bonaire-sint-eustat` | Rijkswet rechtsmacht Hoge Raad voor Aruba, Curaçao, Sint Maarten en voor Bonaire, Sint Eustatius en Saba | 1 | 2017-03-01 to 2017-03-01 |
+| `uitvoeringswet-verdrag-onderhoudsverhaal-in-het-buitenland-1956` | Uitvoeringswet Verdrag onderhoudsverhaal in het buitenland 1956 | 1 | 2017-09-01 to 2017-09-01 |
+| `wet-tijdelijke-openstelling-mogelijkheid-van-adoptie` | Wet tijdelijke openstelling mogelijkheid van adoptie | 1 | 1971-06-25 to 1971-06-25 |
+| `vervoersnoodwet` | Vervoersnoodwet | 1 | 2005-03-16 to 2005-03-16 |
+| `vorderingswet` | Vorderingswet | 1 | 2026-06-04 to 2026-06-04 |
+| `havennoodwet` | Havennoodwet | 1 | 2021-07-01 to 2021-07-01 |
+| `uitvoeringswet-verdrag-nederland-duitsland-ter-verdere-vereenvoudiging-van-het-rechtsverke` | Uitvoeringswet Verdrag Nederland-Duitsland ter verdere vereenvoudiging van het rechtsverkeer i.v.m. Rechtsvorderingsverdrag 1954 | 1 | 2013-01-01 to 2013-01-01 |
+| `noodwet-rechtspleging` | Noodwet rechtspleging | 1 | 2013-01-01 to 2013-01-01 |
+| `wet-installaties-noordzee` | Wet installaties Noordzee | 1 | 2002-01-01 to 2002-01-01 |
+| `uitvoeringswet-verdrag-nederland-oostenrijk-tot-vereenvoudiging-van-het-rechtsverkeer-in-v` | Uitvoeringswet Verdrag Nederland-Oostenrijk tot vereenvoudiging van het rechtsverkeer in verband met het Rechtsvorderingsverdrag 1954 | 1 | 2013-01-01 to 2013-01-01 |
+| `uitvoeringswet-nederlands-duits-executieverdrag` | Uitvoeringswet Nederlands-Duits Executieverdrag | 1 | 2013-01-01 to 2013-01-01 |
+| `uitvoeringswet-verdrag-tot-afschaffing-vereiste-legalisatie-buitenlandse-openbare-akten` | Uitvoeringswet Verdrag tot afschaffing vereiste legalisatie buitenlandse openbare akten | 1 | 1965-10-08 to 1965-10-08 |
+| `wet-vernieuwing-hypothecaire-inschrijvingen-1964` | Wet vernieuwing hypothecaire inschrijvingen 1964 | 1 | 1965-08-01 to 1965-08-01 |
+| `wet-aanpassing-pensioenvoorzieningen-bijstandkorps` | Wet aanpassing pensioenvoorzieningen Bijstandkorps | 1 | 2015-01-01 to 2015-01-01 |
+| `wet-omzetting-tak-rijksdienst-omvattende-de-staatsmijnen-in-limburg-in-een-naamloze-vennoo` | Wet omzetting tak Rijksdienst, omvattende de Staatsmijnen in Limburg, in een naamloze vennootschap | 1 | 2019-01-01 to 2019-01-01 |
+| `toeslagwet-buitengewone-pensioenen-1966` | Toeslagwet buitengewone pensioenen 1966 | 1 | 2002-01-01 to 2002-01-01 |
+| `wet-toekenning-gedeeltelijke-compensatie-voor-ingevolge-aow-en-aww-geheven-premie-over-een` | Wet toekenning gedeeltelijke compensatie voor ingevolge AOW en AWW geheven premie over een buitengewoon pensioen | 1 | 1966-09-19 to 1966-09-19 |
+| `wet-op-de-motorrijtuigenbelasting-1966` | Wet op de motorrijtuigenbelasting 1966 | 1 | 1995-01-01 to 1995-01-01 |
+| `wet-overgangsregeling-arbeidsongeschiktheidsverzekering` | Wet overgangsregeling arbeidsongeschiktheidsverzekering | 1 | 2015-01-01 to 2015-01-01 |
+| `wet-overgangsregeling-ziektewet` | Wet overgangsregeling Ziektewet | 1 | 2006-05-10 to 2006-05-10 |
+| `rijkswet-vrijwillige-zetelverplaatsing-van-rechtspersonen` | Rijkswet vrijwillige zetelverplaatsing van rechtspersonen | 1 | 2010-10-10 to 2010-10-10 |
+| `rijkswet-zetelverplaatsing-door-de-overheid-van-rechtspersonen-en-instellingen` | Rijkswet zetelverplaatsing door de overheid van rechtspersonen en instellingen | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-voorziening-pensioenen-administrateur-en-personeel-kroondomein` | Wet voorziening pensioenen administrateur en personeel Kroondomein | 1 | 1969-01-08 to 1969-01-08 |
+| `wet-vergoeding-van-door-navo-motorrijtuigen-veroorzaakte-schade` | Wet vergoeding van door NAVO-motorrijtuigen veroorzaakte schade | 1 | 2023-05-01 to 2023-05-01 |
+| `conjunctuurwet` | Conjunctuurwet | 1 | 2019-01-01 to 2019-01-01 |
+| `wet-opheffing-afdeling-effectenregistratie-van-de-raad-voor-het-rechtsherstel` | Wet opheffing afdeling effectenregistratie van de Raad voor het Rechtsherstel | 1 | 1971-10-01 to 1971-10-01 |
+| `rijkswet-houdende-verdeling-van-het-bedrag-bedoeld-in-de-overeenkomst-tussen-het-koninkrij` | Rijkswet houdende verdeling van het bedrag bedoeld in de overeenkomst tussen het Koninkrijk der Nederlanden en de Unie van Socialistische Sowjetrepublieken inzake de regeling van wederzijdse financiële en eigendomsvorderingen | 1 | 1971-07-01 to 1971-07-01 |
+| `wet-op-het-kroondomein` | Wet op het Kroondomein | 1 | 1997-04-25 to 1997-04-25 |
+| `wet-tot-instelling-van-een-gemeente-dronten` | Wet tot instelling van een gemeente Dronten | 1 | 1985-07-05 to 1985-07-05 |
+| `wet-aanpassing-daglonen-wet-overgangsregeling-arbeidsongeschiktheidsverzekering` | Wet aanpassing daglonen Wet overgangsregeling arbeidsongeschiktheidsverzekering | 1 | 2006-01-01 to 2006-01-01 |
+| `wet-voorzieningen-tijdelijke-verhoging-of-verlaging-van-belasting-op-grond-van-conjuncture` | Wet voorzieningen tijdelijke verhoging of verlaging van belasting op grond van conjuncturele overwegingen | 1 | 1971-12-19 to 1971-12-19 |
+| `uitvoeringswet-inzake-overeenkomst-beslissingen-tot-verbetering-van-akten-van-de-burgerlij` | Uitvoeringswet inzake Overeenkomst beslissingen tot verbetering van akten van de burgerlijke stand | 1 | 2004-07-01 to 2004-07-01 |
+| `wet-houdende-verklaring-van-het-algemeen-nut-der-onteigening-van-percelen-erfdienstbaarhed` | Wet houdende verklaring van het algemeen nut der onteigening van percelen, erfdienstbaarheden en andere zakelijke rechten tbv inrichting van een buisleidingenstraat vanaf Pernis langs Klundert naar de Schelde nabij de Nederlands-Belgische grens | 1 | 2024-01-01 to 2024-01-01 |
+| `rijkswet-noodvoorzieningen-scheepvaart` | Rijkswet Noodvoorzieningen Scheepvaart | 1 | 2025-07-01 to 2025-07-01 |
+| `uitvoeringswet-eeg-executieverdrag` | Uitvoeringswet EEG-Executieverdrag | 1 | 2008-09-01 to 2008-09-01 |
+| `wet-gemeentelijke-herindeling-noordwest-overijssel` | Wet gemeentelijke herindeling Noordwest-Overijssel | 1 | 1972-09-06 to 1972-09-06 |
+| `rijkswet-vaarplicht` | Rijkswet Vaarplicht | 1 | 2025-07-01 to 2025-07-01 |
+| `vaarplichtwet` | Vaarplichtwet | 1 | 2025-07-01 to 2025-07-01 |
+| `wet-financieel-statuut-van-het-koninklijk-huis` | Wet financieel statuut van het Koninklijk Huis | 1 | 2024-01-01 to 2024-01-01 |
+| `uitvoeringswet-visserijverdrag-1967` | Uitvoeringswet Visserijverdrag 1967 | 1 | 2025-07-01 to 2025-07-01 |
+| `wet-wettelijke-aansprakelijkheid-exploitanten-nucleaire-schepen` | Wet wettelijke aansprakelijkheid exploitanten nucleaire schepen | 1 | 2025-07-01 to 2025-07-01 |
+| `wet-tot-beeindiging-van-overheidstaken-m-b-t-voormalige-wees-en-momboirkamers` | Wet tot beëindiging van overheidstaken m.b.t. voormalige Wees- en Momboirkamers | 1 | 2002-01-01 to 2002-01-01 |
+| `wet-aardgasprijzen` | Wet aardgasprijzen | 1 | 2019-01-01 to 2019-01-01 |
+| `uitvoeringswet-betekeningsverdrag-1965` | Uitvoeringswet Betekeningsverdrag 1965 | 1 | 2013-01-01 to 2013-01-01 |
+| `wet-schadefonds-geweldsmisdrijven` | Wet schadefonds geweldsmisdrijven | 1 | 2024-07-01 to 2024-07-01 |
+| `wet-verbetering-rechtspositie-verzetsmilitairen` | Wet verbetering rechtspositie verzetsmilitairen | 1 | 1990-07-01 to 1990-07-01 |
+| `wet-opheffing-bedrijfschap-voor-de-steenkolenmijnindustrie` | Wet opheffing bedrijfschap voor de Steenkolenmijnindustrie | 1 | 1996-01-01 to 1996-01-01 |
+| `uitvoeringswet-europese-overeenkomst-nopens-het-verstrekken-van-inlichtingen-over-buitenla` | Uitvoeringswet Europese Overeenkomst nopens het verstrekken van inlichtingen over buitenlands recht | 1 | 1977-03-02 to 1977-03-02 |
+| `instellingswet-w-r-r` | Instellingswet W.R.R. | 1 | 2019-03-01 to 2019-03-01 |
+| `wet-betreffende-de-positie-van-molukkers` | Wet betreffende de positie van Molukkers | 1 | 2026-10-01 to 2026-10-01 |
+| `wet-op-de-dierproeven` | Wet op de dierproeven | 1 | 2021-07-01 to 2021-07-01 |
+| `rijkswet-tot-goedkeuring-verdrag-ter-voorkoming-van-verontreiniging-van-de-zee-door-het-st` | Rijkswet tot goedkeuring Verdrag ter voorkoming van verontreiniging van de zee door het storten van afval en vuil | 1 | 1977-07-20 to 1977-07-20 |
+| `wet-vaststelling-van-regelen-betreffende-de-gedwongen-tenuitvoerlegging-van-uitspraken-van` | Wet vaststelling van regelen betreffende de gedwongen tenuitvoerlegging van uitspraken van het Benelux-Gerechtshof | 1 | 2015-07-01 to 2015-07-01 |
+| `wet-regeling-van-de-vergoeding-van-de-kosten-van-registratie-motorboten` | Wet regeling van de vergoeding van de kosten van registratie motorboten | 1 | 1996-07-01 to 1996-07-01 |
+| `wet-aansprakelijkheid-kernongevallen` | Wet aansprakelijkheid kernongevallen | 1 | 2024-09-06 to 2024-09-06 |
+| `wet-instelling-gemeente-lelystad` | Wet instelling gemeente Lelystad | 1 | 1996-01-01 to 1996-01-01 |
+| `wet-schadeloosstelling-uitkering-en-pensioen-leden-europees-parlement` | Wet schadeloosstelling, uitkering en pensioen leden Europees Parlement | 1 | 2021-07-10 to 2021-07-10 |
+| `wet-aanspraak-van-buitenlandse-werknemers-op-rechtsbescherming-en-rechtsbijstand` | Wet aanspraak van buitenlandse werknemers op rechtsbescherming en rechtsbijstand | 1 | 2002-01-01 to 2002-01-01 |
+| `wet-verlening-van-vorderingsbevoegdheid-in-verband-met-verontreiniging-van-gronden-in-lekk` | Wet verlening van vorderingsbevoegdheid in verband met verontreiniging van gronden in Lekkerkerk | 1 | 1980-06-05 to 1980-06-05 |
+| `wet-tot-provinciale-indeling-van-de-waddenzee` | Wet tot provinciale indeling van de Waddenzee | 1 | 1981-01-01 to 1981-01-01 |
+| `uitvoeringswet-bewijsverdrag` | Uitvoeringswet Bewijsverdrag | 1 | 2025-01-01 to 2025-01-01 |
+| `wet-vaststelling-wet-nationale-ombudsman` | Wet vaststelling Wet Nationale ombudsman | 1 | 1982-01-01 to 1982-01-01 |
+| `meetbrievenwet-1981` | Meetbrievenwet 1981 | 1 | 2025-07-01 to 2025-07-01 |
+| `wet-vaststelling-wet-afbreking-zwangerschap` | Wet vaststelling Wet afbreking zwangerschap | 1 | 1994-01-01 to 1994-01-01 |
+| `wet-omrekening-in-goud-uitgedrukte-rekeneenheden` | Wet omrekening in goud uitgedrukte rekeneenheden | 1 | 1982-03-15 to 1982-03-15 |
+| `wet-vaststelling-wet-bezoldiging-nationale-ombudsman` | Wet vaststelling Wet bezoldiging Nationale ombudsman | 1 | 1993-04-01 to 1993-04-01 |
+| `uitvoeringswet-haags-testamentenverdrag` | Uitvoeringswet Haags Testamentenverdrag | 1 | 1982-08-01 to 1982-08-01 |
+| `rijkswet-houdende-machtiging-tot-deelneming-door-het-koninkrijk-der-nederlanden-in-de-verh` | Rijkswet houdende machtiging tot deelneming door het Koninkrijk der Nederlanden in de verhoging van het aandelenkapitaal van de Internationale Bank voor Herstel en Ontwikkeling (Wereldbank) | 1 | 1982-07-23 to 1982-07-23 |
+| `uitvoeringswet-europees-verdrag-inzake-rechtspositie-migrerende-werknemers` | Uitvoeringswet Europees Verdrag inzake rechtspositie migrerende werknemers | 1 | 2002-01-01 to 2002-01-01 |
+| `wet-voorlopige-voorzieningen-in-verband-met-de-voorgenomen-intrekking-van-het-koninklijk-b` | Wet voorlopige voorzieningen in verband met de voorgenomen intrekking van het Koninklijk besluit van 10 april 1939 | 1 | 1989-05-31 to 1989-05-31 |
+| `wet-afschaffing-van-het-bedrag-per-kind-in-de-vakantie-uitkering-voor-het-overheidspersone` | Wet afschaffing van het bedrag per kind in de vakantie-uitkering voor het overheidspersoneel | 1 | 1983-01-01 to 1983-01-01 |
+| `wet-stichting-instituut-clingendael` | Wet Stichting Instituut Clingendael | 1 | 1983-01-01 to 1983-01-01 |
+| `wet-machtiging-tot-deelneming-nederland-in-de-eerste-aanvulling-der-middelen-international` | Wet machtiging tot deelneming Nederland in de Eerste Aanvulling der Middelen Internationale Fonds voor Agrarische Ontwikkeling (IFAD) | 1 | 1983-02-02 to 1983-02-02 |
+| `wijzigingswet-wet-intrekking-van-de-vrijstelling-van-motorrijtuigenbelasting-wegens-invali` | Wijzigingswet Wet intrekking van de vrijstelling van motorrijtuigenbelasting wegens invaliditeit | 1 | 2000-01-01 to 2000-01-01 |
+| `wet-tijdelijke-maatregelen-inzake-aftrekbaarheid-van-kosten-van-groot-onderhoud-en-van-sch` | Wet tijdelijke maatregelen inzake aftrekbaarheid van kosten van groot onderhoud en van schilderwerk | 1 | 1983-07-01 to 1983-07-01 |
+| `wet-tot-instelling-gemeenten-almere-en-zeewolde` | Wet tot instelling gemeenten Almere en Zeewolde | 1 | 1996-01-01 to 1996-01-01 |
+| `wet-beeindiging-financiele-verhouding-tussen-staat-en-kerk` | Wet beëindiging financiële verhouding tussen Staat en Kerk | 1 | 1994-01-01 to 1994-01-01 |
+| `wet-achterwegelating-wijziging-percentage-levensonderhoud-1984` | Wet achterwegelating wijziging percentage levensonderhoud 1984 | 1 | 1984-01-01 to 1984-01-01 |
+| `wet-stichting-proefstation-voor-de-varkenshouderij` | Wet Stichting Proefstation voor de Varkenshouderij | 1 | 1984-07-25 to 1984-07-25 |
+| `wijzigingswet-auteurswet-1912` | Wijzigingswet Auteurswet 1912 | 1 | 1994-09-01 to 1994-09-01 |
+| `wet-regelen-omtrent-de-opheffing-van-het-recht-van-de-dertiende-penning` | Wet regelen omtrent de opheffing van het recht van de Dertiende Penning | 1 | 1985-01-01 to 1985-01-01 |
+| `wet-aanpassing-uitkeringspercentages-overheidspersoneel` | Wet aanpassing uitkeringspercentages overheidspersoneel | 1 | 1997-04-25 to 1997-04-25 |
+| `wet-grenzen-nederlandse-territoriale-zee` | Wet grenzen Nederlandse territoriale zee | 1 | 2024-01-01 to 2024-01-01 |
+| `rijkswet-uitbreiding-territoriale-zee-van-het-koninkrijk` | Rijkswet uitbreiding territoriale zee van het Koninkrijk | 1 | 2010-10-10 to 2010-10-10 |
+| `rijkswet-houdende-overgangsbepalingen-verkrijgen-hoedanigheid-van-land-in-koninkrijk-door` | Rijkswet houdende overgangsbepalingen verkrijgen hoedanigheid van land in Koninkrijk door Aruba | 1 | 1985-07-09 to 1985-07-09 |
+| `wet-instelling-provincie-flevoland` | Wet instelling provincie Flevoland | 1 | 1996-01-01 to 1996-01-01 |
+| `wet-op-de-erkende-onderwijsinstellingen` | Wet op de erkende onderwijsinstellingen | 1 | 2022-08-01 to 2022-08-01 |
+| `personeelswet-postbank-n-v` | Personeelswet Postbank N.V. | 1 | 2019-01-01 to 2019-01-01 |
+| `wet-tot-gemeentelijke-indeling-van-de-waddenzee` | Wet tot gemeentelijke indeling van de Waddenzee | 1 | 1996-01-01 to 1996-01-01 |
+| `rijkswet-vaststelling-zeegrens-tussen-aruba-en-curacao` | Rijkswet vaststelling zeegrens tussen Aruba en Curaçao | 1 | 2010-10-10 to 2010-10-10 |
+| `rijkswet-houdende-schadeloosstelling-en-financiele-voorzieningen-lid-van-raad-van-state` | Rijkswet houdende schadeloosstelling en financiële voorzieningen lid van Raad van State | 1 | 2010-10-10 to 2010-10-10 |
+| `reglement-voor-de-gouverneur-van-aruba` | Reglement voor de Gouverneur van Aruba | 1 | 2020-04-01 to 2020-04-01 |
+| `wet-opheffing-agglomeratie-eindhoven` | Wet opheffing agglomeratie Eindhoven | 1 | 1994-01-01 to 1994-01-01 |
+| `wet-opheffing-openbaar-lichaam-rijnmond` | Wet opheffing openbaar lichaam Rijnmond | 1 | 1994-01-01 to 1994-01-01 |
+| `rijkswet-houdende-machtiging-tot-verhoging-van-de-inschrijving-van-het-koninkrijk-der-nede` | Rijkswet houdende machtiging tot verhoging van de inschrijving van het Koninkrijk der Nederlanden op aandelen van de Internationale Bank voor Herstel en Ontwikkeling (Wereldbank) | 1 | 1986-06-06 to 1986-06-06 |
+| `invoeringswet-w-w-o` | Invoeringswet W.W.O. | 1 | 1993-08-31 to 1993-08-31 |
+| `wet-machtiging-tot-oprichting-stichting-nederlands-interdisciplinair-demografisch-instituu` | Wet machtiging tot oprichting Stichting Nederlands Interdisciplinair Demografisch Instituut | 1 | 1987-04-08 to 1987-04-08 |
+| `wet-verhoging-daglonen-wao-wwv-en-ww` | Wet verhoging daglonen WAO, WWV en WW | 1 | 2006-01-01 to 2006-01-01 |
+| `rijkswet-houdende-bepalingen-inzake-de-behandeling-van-en-de-beschikking-op-verzoekschrift` | Rijkswet houdende bepalingen inzake de behandeling van en de beschikking op verzoekschriften om gratie van straffen of maatregelen, opgelegd door instanties belast met de militaire strafrechtspraak | 1 | 1988-01-01 to 1988-01-01 |
+| `leningwet-1988` | Leningwet 1988 | 1 | 1988-01-01 to 1988-01-01 |
+| `gratiewet` | Gratiewet | 1 | 2021-04-01 to 2021-04-01 |
+| `wet-machtiging-tot-deelneming-nederland-in-de-tweede-aanvulling-der-middelen-international` | Wet machtiging tot deelneming Nederland in de Tweede Aanvulling der Middelen Internationale Fonds voor Agrarische Ontwikkeling (IFAD) | 1 | 1988-01-22 to 1988-01-22 |
+| `wet-rietkerk-uitkering` | Wet Rietkerk-uitkering | 1 | 2015-01-01 to 2015-01-01 |
+| `wet-tot-verlaging-tarief-en-op-nihil-stellen-vermogensaftrek-in-wet-op-de-vennootschapsbel` | Wet tot verlaging tarief en op nihil stellen vermogensaftrek in Wet op de vennootschapsbelasting 1969 | 1 | 1988-10-01 to 1988-10-01 |
+| `personeelswet-ptt-nederland-nv` | Personeelswet PTT Nederland NV | 1 | 2019-01-01 to 2019-01-01 |
+| `wet-strekkende-tot-voltooiing-van-de-provinciale-indeling-van-het-ijsselmeer` | Wet strekkende tot voltooiing van de provinciale indeling van het IJsselmeer | 1 | 1989-01-01 to 1989-01-01 |
+| `leningwet-1989` | Leningwet 1989 | 1 | 1989-01-01 to 1989-01-01 |
+| `intrekkingswet-beleggingswet` | Intrekkingswet Beleggingswet | 1 | 2002-01-01 to 2002-01-01 |
+| `wet-machtiging-ex-artikel-40-comptabiliteitswet-1976` | Wet machtiging ex artikel 40 Comptabiliteitswet 1976 | 1 | 1989-05-03 to 1989-05-03 |
+| `wet-vereenvoudiging-tariefstructuur-en-aftrekposten-in-de-loon-en-inkomstenbelasting` | Wet vereenvoudiging tariefstructuur en aftrekposten in de loon- en inkomstenbelasting | 1 | 1990-12-31 to 1990-12-31 |
+| `wet-invoering-en-aanvulling-van-de-vereenvoudiging-van-de-tariefstructuur-in-de-loon-en-in` | Wet invoering en aanvulling van de vereenvoudiging van de tariefstructuur in de loon- en inkomstenbelasting en wijzigingen van de regeling betreffende aftrekposten | 1 | 1991-01-01 to 1991-01-01 |
+| `wet-houdende-regelen-met-betrekking-tot-de-privatisering-van-het-waarborgfonds-motorverkee` | Wet houdende regelen met betrekking tot de privatisering van het Waarborgfonds Motorverkeer | 1 | 1996-01-01 to 1996-01-01 |
+| `rijkswet-houdende-instemming-wijziging-overeenkomst-internationale-bank-voor-herstel-en-on` | Rijkswet houdende instemming wijziging Overeenkomst Internationale Bank voor Herstel en Ontwikkeling | 1 | 1989-06-23 to 1989-06-23 |
+| `rijkswet-houdende-machtiging-tot-deelneming-van-nederland-in-algemene-kapitaalsverhoging-v` | Rijkswet houdende machtiging tot deelneming van Nederland in algemene kapitaalsverhoging van Internationale Bank voor Herstel en Ontwikkeling 1988 | 1 | 1989-06-23 to 1989-06-23 |
+| `wijzigingswet-wet-individuele-huursubsidie-n-a-v-de-voorstellen-van-de-commissie-tot-veree` | Wijzigingswet Wet individuele huursubsidie n.a.v. de voorstellen van de commissie tot vereenvoudiging van de loonbelasting en de inkomstenbelasting | 1 | 1995-06-23 to 1995-06-23 |
+| `wet-bevordering-doorstroming-onderwijspersoneel-ii` | Wet bevordering doorstroming onderwijspersoneel II | 1 | 1990-01-02 to 1990-01-02 |
+| `leningwet-1990` | Leningwet 1990 | 1 | 1990-01-01 to 1990-01-01 |
+| `wet-commissies-standaardregelingen` | Wet commissies standaardregelingen | 1 | 2005-07-01 to 2005-07-01 |
+| `rijkswet-pensioenen-en-uitkeringen-aan-gouverneurs-van-aruba-curacao-en-sint-maarten` | Rijkswet pensioenen en uitkeringen aan Gouverneurs van Aruba, Curaçao en Sint Maarten | 1 | 2010-10-10 to 2010-10-10 |
+| `tarievenwet-brandstofheffingen-milieu-1990` | Tarievenwet brandstofheffingen milieu 1990 | 1 | 1990-02-01 to 1990-02-01 |
+| `uitvoeringswet-ex-artikel-vi-van-de-grondwet` | Uitvoeringswet ex artikel VI van de Grondwet | 1 | 1992-07-01 to 1992-07-01 |
+| `wet-overbrenging-in-beheer-en-onderhoud-bij-de-gemeente-dordrecht-van-de-krabbegeul-en-het` | Wet overbrenging in beheer en onderhoud bij de gemeente Dordrecht van de Krabbegeul en het afgedamde gedeelte van het Mallegat met bijbehorende werken te Dordrecht | 1 | 1990-08-01 to 1990-08-01 |
+| `invoeringswet-invorderingswet-1990` | Invoeringswet Invorderingswet 1990 | 1 | 1990-06-01 to 1990-06-01 |
+| `goedkeuringswet-verdrag-tot-bescherming-personen-met-betrekking-tot-geautomatiseerde-verwe` | Goedkeuringswet Verdrag tot bescherming personen met betrekking tot geautomatiseerde verwerking van persoonsgegevens | 1 | 1991-12-13 to 1991-12-13 |
+| `wet-tijdelijke-verhoging-bijdragen-wet-individuele-huursubsidie` | Wet tijdelijke verhoging bijdragen Wet individuele huursubsidie | 1 | 1991-07-01 to 1991-07-01 |
+| `herindelingswet-waterland` | Herindelingswet Waterland | 1 | 1990-07-28 to 1990-07-28 |
+| `herindelingswet-noordoostelijk-en-midden-zuid-holland` | Herindelingswet noordoostelijk en midden Zuid-Holland | 1 | 1990-07-28 to 1990-07-28 |
+| `herindelingswet-midden-limburg` | Herindelingswet Midden-Limburg | 1 | 1998-08-01 to 1998-08-01 |
+| `goedkeuringswet-europees-handvest-inzake-lokale-autonomie` | Goedkeuringswet Europees Handvest inzake lokale autonomie | 1 | 1990-11-16 to 1990-11-16 |
+| `wet-overdracht-taken-ogb` | Wet overdracht taken OGB | 1 | 1990-11-22 to 1990-11-22 |
+| `wet-regeling-provincie-en-gemeentegrenzen-langs-de-noordzeekust-van-den-helder-tot-en-met` | Wet regeling provincie- en gemeentegrenzen langs de Noordzeekust van Den Helder tot en met Sluis en wijziging van de Financiële-Verhoudingswet 1984 | 1 | 1990-12-19 to 1990-12-19 |
+| `wet-machtiging-tot-deelneming-staat-aan-geintegreerd-eeg-mechanisme-voor-financiele-onders` | Wet machtiging tot deelneming Staat aan geïntegreerd EEG-mechanisme voor financiële ondersteuning op middellange termijn van de betalingsbalansen van de Lid-Staten | 1 | 2002-01-01 to 2002-01-01 |
+| `leningwet-1991` | Leningwet 1991 | 1 | 1991-01-01 to 1991-01-01 |
+| `wet-herziening-tariefindeling-omzetbelasting-voor-rechtskundige-diensten` | Wet herziening tariefindeling omzetbelasting voor rechtskundige diensten | 1 | 1991-01-01 to 1991-01-01 |
+| `tarievenwet-brandstofheffingen-milieu-1991` | Tarievenwet brandstofheffingen milieu 1991 | 1 | 1991-03-01 to 1991-03-01 |
+| `invoeringswet-boeken-3-5-en-6-nieuw-b-w-twaalfde-gedeelte` | Invoeringswet Boeken 3, 5 en 6 nieuw B.W. (twaalfde gedeelte) | 1 | 1999-10-01 to 1999-10-01 |
+| `wet-tot-machtiging-tot-deelneming-door-nederland-in-de-derde-aanvulling-der-middelen-van-h` | Wet tot machtiging tot deelneming door Nederland in de Derde Aanvulling der Middelen van het Internationale Fonds voor Landbouw Ontwikkeling (IFAD) | 1 | 1991-06-21 to 1991-06-21 |
+| `wet-houdende-regels-met-betrekking-tot-enkele-specifieke-uitkeringen-aan-provincies-en-gem` | Wet houdende regels met betrekking tot enkele specifieke uitkeringen aan provincies en gemeenten op het terrein van Verkeer en Waterstaat | 1 | 2015-01-01 to 2015-01-01 |
+| `wijzigingswet-wet-algemene-regels-herindeling` | Wijzigingswet Wet algemene regels herindeling | 1 | 1991-07-01 to 1991-07-01 |
+| `wijzigingswet-wegenverkeerswet-invordering-en-inhouding-van-rijbewijzen` | Wijzigingswet Wegenverkeerswet (invordering en inhouding van rijbewijzen) | 1 | 1992-02-01 to 1992-02-01 |
+| `wet-tot-verlenging-van-de-in-de-algemene-wet-inzake-rijksbelastingen-vervatte-termijn-van` | Wet tot verlenging van de in de Algemene wet inzake rijksbelastingen vervatte termijn van navordering voor vermogens- en inkomensbestanddelen in het buitenland | 1 | 1991-06-08 to 1991-06-08 |
+| `wijzigingswet-wet-op-de-kansspelen-enz-vereenvoudiging-van-regelgeving-en-vergroting-van-g` | Wijzigingswet Wet op de kansspelen, enz. (vereenvoudiging van regelgeving en vergroting van gemeentelijke en provinciale beleidsvrijheid) | 1 | 1992-07-17 to 1992-07-17 |
+| `wijzigingswet-wet-op-het-wetenschappelijk-onderwijs-verhoging-collegegeld-en-compensatie-v` | Wijzigingswet Wet op het wetenschappelijk onderwijs (verhoging collegegeld en compensatie van de verhoging in het studiefinancieringsbudget) | 1 | 1992-01-01 to 1992-01-01 |
+| `wijzigingswet-wet-op-de-studiefinanciering-herorientering-studiefinanciering-ii` | Wijzigingswet Wet op de studiefinanciering (heroriëntering studiefinanciering II) | 1 | 1991-08-01 to 1991-08-01 |
+| `wijzigingswet-wet-op-de-studiefinanciering-herorientering-studiefinanciering-iii` | Wijzigingswet Wet op de studiefinanciering (heroriëntering studiefinanciering III) | 1 | 2001-08-01 to 2001-08-01 |
+| `wet-opheffing-visserijschap-en-bedrijfschap-voor-de-groothandel-in-vis-en-aanverwante-bedr` | Wet opheffing Visserijschap en Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven | 1 | 1999-02-17 to 1999-02-17 |
+| `wijzigingswet-luchtvaartwet-regels-beveiliging-luchtvaartterreinen` | Wijzigingswet Luchtvaartwet (Regels beveiliging luchtvaartterreinen) | 1 | 1991-10-01 to 1991-10-01 |
+| `invoeringswet-kadasterwet` | Invoeringswet Kadasterwet | 1 | 2005-09-01 to 2005-09-01 |
+| `wijzigingswet-algemene-arbeidsongeschiktheidswet-enz-wijziging-uitkeringsgrondslag` | Wijzigingswet Algemene Arbeidsongeschiktheidswet, enz. (wijziging uitkeringsgrondslag) | 1 | 1992-06-26 to 1992-06-26 |
+| `wet-regels-inzake-heffing-van-rechten-voor-legalisatie-van-handtekeningen` | Wet regels inzake heffing van rechten voor legalisatie van handtekeningen | 1 | 2005-08-01 to 2005-08-01 |
+| `wijzigingswet-wet-op-de-accijns-van-minerale-olien-lastenverzwaring-auto-s-in-verband-met` | Wijzigingswet Wet op de accijns van minerale oliën (lastenverzwaring auto's in verband met tariefstijging openbaar vervoer) | 1 | 1991-09-16 to 1991-09-16 |
+| `wijzigingswet-wet-op-de-inkomstenbelasting-1964-verhoging-van-het-huurwaardeforfait` | Wijzigingswet Wet op de inkomstenbelasting 1964 (verhoging van het huurwaardeforfait) | 1 | 1993-12-31 to 1993-12-31 |
+| `wijzigingswet-pensioen-en-spaarfondsenwet-gelijke-behandeling-van-slapers-en-gepensioneerd` | Wijzigingswet Pensioen- en spaarfondsenwet (gelijke behandeling van slapers en gepensioneerden) | 1 | 1992-01-01 to 1992-01-01 |
+| `wijzigingswet-wet-arbeidsongeschiktheidsvoorziening-militairen` | Wijzigingswet Wet arbeidsongeschiktheidsvoorziening militairen | 1 | 1991-09-21 to 1991-09-21 |
+| `wijzigingswet-militaire-ambtenarenwet-1931-wet-militair-tuchtrecht` | Wijzigingswet Militaire Ambtenarenwet 1931 (Wet militair tuchtrecht) | 1 | 1991-01-01 to 1991-01-01 |
+| `wet-overbrenging-in-beheer-en-onderhoud-van-bij-de-gemeente-kortgene-gelegen-voormalige-vi` | Wet overbrenging in beheer en onderhoud van bij de gemeente Kortgene gelegen voormalige Vissershaven te Colijnsplaat met bijbehorende werken | 1 | 1991-12-01 to 1991-12-01 |
+| `wijzigingswet-wet-uitkeringen-vervolgingsslachtoffers-1940-1945-invoering-gelijke-behandel` | Wijzigingswet Wet uitkeringen vervolgingsslachtoffers 1940-1945 (invoering gelijke behandeling van mannen en vrouwen alsmede enige andere wijzigingen) | 1 | 1992-01-01 to 1992-01-01 |
+| `wijzigingswet-wet-op-het-basisonderwijs-enz-wijziging-van-de-teldatum` | Wijzigingswet Wet op het basisonderwijs, enz. (wijziging van de teldatum) | 1 | 2013-07-04 to 2013-07-04 |
+| `wijzigingswet-wetboek-van-burgerlijke-rechtsvordering-enz-beslag-op-en-executie-van-schepe` | Wijzigingswet Wetboek van Burgerlijke Rechtsvordering, enz. (beslag op en executie van schepen en luchtvaartuigen) | 1 | 1992-01-01 to 1992-01-01 |
+| `uitvoeringswet-verdrag-inzake-de-toegang-tot-de-rechter-in-internationale-gevallen-en-euro` | Uitvoeringswet Verdrag inzake de toegang tot de rechter in internationale gevallen en Europese Overeenkomst inzake het doorzenden van verzoeken om rechtsbijstand | 1 | 2013-01-01 to 2013-01-01 |
+| `uitvoeringswet-cse-verdrag` | Uitvoeringswet CSE-verdrag | 1 | 1999-02-17 to 1999-02-17 |
+| `wijzigingswet-wet-op-de-weerkorpsen` | Wijzigingswet Wet op de weerkorpsen | 1 | 1992-12-01 to 1992-12-01 |
+| `wijzigingswet-wet-op-het-consumentenkrediet` | Wijzigingswet Wet op het consumentenkrediet | 1 | 1992-01-01 to 1992-01-01 |
+| `wijzigingswet-grondwaterwet-enz-infiltraties` | Wijzigingswet Grondwaterwet, enz. (infiltraties) | 1 | 1991-12-06 to 1991-12-06 |
+| `wijzigingswet-wet-op-de-geneesmiddelenvoorziening` | Wijzigingswet Wet op de Geneesmiddelenvoorziening | 1 | 1993-09-03 to 1993-09-03 |
+| `wijzigingswet-wetboek-van-strafvordering-enz-bepalingen-houdende-termijnen` | Wijzigingswet Wetboek van Strafvordering, enz. (bepalingen houdende termijnen) | 1 | 1992-05-01 to 1992-05-01 |
+| `intrekkingswet-wet-bezitsvormingsfonds` | Intrekkingswet Wet Bezitsvormingsfonds | 1 | 2008-06-13 to 2008-06-13 |
+| `wijzigingswet-van-het-fiscale-regime-voor-onderhoudsvoorzieningen-en-spaarvormen-alsmede-v` | Wijzigingswet van het fiscale regime voor onderhoudsvoorzieningen en spaarvormen alsmede van het fiscale regime voor verzekeraars en directiepensioenlichamen | 1 | 2004-01-01 to 2004-01-01 |
+| `wet-nadere-voorzieningen-met-betrekking-tot-tijdstip-met-ingang-waarvan-waterschapsomslage` | Wet nadere voorzieningen met betrekking tot tijdstip met ingang waarvan waterschapsomslagen kunnen worden geheven | 1 | 1992-01-17 to 1992-01-17 |
+| `wijzigingswet-wet-tijdelijke-fiscale-maatregelen-betreffende-auto-en-milieu-na-1988` | Wijzigingswet Wet tijdelijke fiscale maatregelen betreffende auto en milieu na 1988 | 1 | 1992-01-01 to 1992-01-01 |
+| `wijzigingswet-wet-op-de-inkomstenbelasting-1964-introductie-peildatum-voor-jaarlijkse-bijs` | Wijzigingswet Wet op de inkomstenbelasting 1964 (introductie peildatum voor jaarlijkse bijstelling reiskostenforfait) | 1 | 1992-01-01 to 1992-01-01 |
+| `wet-tot-intrekking-van-de-eenvormige-wet-inzake-de-internationale-koop-van-roerende-licham` | Wet tot intrekking van de Eenvormige wet inzake de internationale koop van roerende lichamelijke zaken en de Eenvormige wet inzake de totstandkoming van internationale koopovereenkomsten betreffende roerende lichamelijke zaken | 1 | 1992-01-01 to 1992-01-01 |
+| `wijzigingswet-mediawet` | Wijzigingswet Mediawet | 1 | 1993-01-01 to 1993-01-01 |
+| `wet-verhoging-accijns-sigaretten-en-kerftabak` | Wet verhoging accijns sigaretten en kerftabak | 1 | 1993-01-01 to 1993-01-01 |
+| `invoeringswet-wet-op-de-accijns` | Invoeringswet Wet op de accijns | 1 | 1992-01-01 to 1992-01-01 |
+| `wijzigingswet-algemene-wet-inzake-de-douane-en-de-accijnzen-aanpassing-in-verband-met-comm` | Wijzigingswet Algemene wet inzake de douane en de accijnzen (aanpassing in verband met communautaire regelgeving alsmede enkele andere wijzigingen) | 1 | 1992-01-01 to 1992-01-01 |
+| `rijkswet-houdende-machtiging-tot-deelneming-door-het-koninkrijk-der-nederlanden-in-de-nege` | Rijkswet houdende machtiging tot deelneming door het Koninkrijk der Nederlanden in de negende aanvulling van middelen van de Internationale Ontwikkelings Associatie | 1 | 1992-01-01 to 1992-01-01 |
+| `leningwet-1992` | Leningwet 1992 | 1 | 1992-01-01 to 1992-01-01 |
+| `wijzigingswet-comptabiliteitswet-1976-vierde-wijziging` | Wijzigingswet Comptabiliteitswet 1976 (vierde wijziging) | 1 | 1995-01-01 to 1995-01-01 |
+| `rijkswet-houdende-regels-betreffende-de-rechtspositie-van-enige-militair-rechterlijke-ambt` | Rijkswet houdende regels betreffende de rechtspositie van enige militair-rechterlijke ambtenaren | 1 | 2010-10-10 to 2010-10-10 |
+| `wijzigingswet-ziektewet-enz` | Wijzigingswet Ziektewet, enz. | 1 | 1995-12-29 to 1995-12-29 |
+| `wijzigingswet-wet-op-het-basisonderwijs-enz-fomatiebudgetsysteem` | Wijzigingswet Wet op het basisonderwijs, enz. (fomatiebudgetsysteem) | 1 | 2013-07-04 to 2013-07-04 |
+| `wet-beediging-ministers-en-leden-staten-generaal` | Wet beëdiging ministers en leden Staten-Generaal | 1 | 1992-03-25 to 1992-03-25 |
+| `wet-beediging-en-inhuldiging-van-de-koning` | Wet beëdiging en inhuldiging van de Koning | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-samenvoeging-van-de-gemeenten-geffen-en-nuland` | Wet samenvoeging van de gemeenten Geffen en Nuland | 1 | 1992-05-28 to 1992-05-28 |
+| `uitvoeringswet-verdrag-betreffende-rechterlijke-bevoegdheid-en-de-tenuitvoerlegging-van-be` | Uitvoeringswet Verdrag betreffende rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken | 1 | 1992-06-01 to 1992-06-01 |
+| `wet-houdende-nieuwe-regeling-terugvordering-en-verhaal-van-kosten-van-bijstand` | Wet houdende nieuwe regeling terugvordering en verhaal van kosten van bijstand | 1 | 1996-01-01 to 1996-01-01 |
+| `wijzigingswet-wet-op-de-open-universiteit` | Wijzigingswet Wet op de Open Universiteit | 1 | 1992-06-15 to 1992-06-15 |
+| `wijzigingswet-pensioenwet-voor-de-zeemacht-1922` | Wijzigingswet Pensioenwet voor de zeemacht 1922 | 1 | 1992-06-05 to 1992-06-05 |
+| `wet-stichting-exploitatie-nederlandse-staatsloterij` | Wet Stichting Exploitatie Nederlandse Staatsloterij | 1 | 1992-06-14 to 1992-06-14 |
+| `wet-vaststelling-van-rijksbijdragen-aan-het-algemeen-fonds-bijzondere-ziektekosten-voor-de` | Wet vaststelling van rijksbijdragen aan het Algemeen Fonds Bijzondere Ziektekosten voor de jaren 1981 tot en met 1989 | 1 | 1992-06-27 to 1992-06-27 |
+| `wijzigingswet-wet-op-het-basisonderwijs-beperking-rentevergoeding-schoolterreinen` | Wijzigingswet Wet op het basisonderwijs (beperking rentevergoeding schoolterreinen) | 1 | 2013-07-04 to 2013-07-04 |
+| `wijzigingswet-wet-algemene-bepalingen-milieuhygiene` | Wijzigingswet Wet algemene bepalingen milieuhygiëne | 1 | 1992-07-01 to 1992-07-01 |
+| `wijzigingswet-wet-op-de-rechterlijke-organisatie` | Wijzigingswet Wet op de rechterlijke organisatie | 1 | 1994-04-01 to 1994-04-01 |
+| `wijzigingswet-houdende-aanpassing-van-een-aantal-wetten-aan-de-eerste-tranche-van-de-algem` | Wijzigingswet houdende aanpassing van een aantal wetten aan de eerste tranche van de Algemene wet bestuursrecht | 1 | 2013-07-04 to 2013-07-04 |
+| `wijzigingswet-natuurbeschermingswet-enz-in-verband-met-natuur-en-landschapsbeheer-in-landb` | Wijzigingswet Natuurbeschermingswet, enz. in verband met natuur- en landschapsbeheer in landbouwgebieden en reservaten | 1 | 1993-01-01 to 1993-01-01 |
+| `wijzigingswet-wet-op-het-basisonderwijs-enz-aanpassingen-in-de-bekostigingsstelsels` | Wijzigingswet Wet op het basisonderwijs, enz. (aanpassingen in de bekostigingsstelsels) | 1 | 2013-07-04 to 2013-07-04 |
+| `wet-tot-wijziging-van-een-aantal-gemeentegrenzen-in-het-zuidelijk-deel-van-noord-kennemerl` | Wet tot wijziging van een aantal gemeentegrenzen in het zuidelijk deel van Noord-Kennemerland | 1 | 1992-07-17 to 1992-07-17 |
+| `wijzigingswet-wet-individuele-huursubsidie-ter-beperking-en-herschikking-van-de-uitgaven-v` | Wijzigingswet Wet individuele huursubsidie ter beperking en herschikking van de uitgaven voor individuele huursubsidie | 1 | 1994-07-01 to 1994-07-01 |
+| `wet-verbruiksbelastingen-van-brandstoffen-geheven-naar-een-milieugrondslag` | Wet verbruiksbelastingen van brandstoffen, geheven naar een milieugrondslag | 1 | 1995-01-01 to 1995-01-01 |
+| `wijzigingswet-wet-geluidhinder` | Wijzigingswet Wet geluidhinder | 1 | 1994-01-01 to 1994-01-01 |
+| `uitkeringswet-financiele-compensatie-langdurige-militaire-dienst` | Uitkeringswet financiële compensatie langdurige militaire dienst | 1 | 2015-01-01 to 2015-01-01 |
+| `wijzigingswet-wet-op-de-bedrijfsorganisatie` | Wijzigingswet Wet op de Bedrijfsorganisatie | 1 | 1992-10-01 to 1992-10-01 |
+| `wijzigingswet-overgangswet-wbo` | Wijzigingswet Overgangswet WBO | 1 | 1992-08-01 to 1992-08-01 |
+| `wijzigingswet-wet-toezicht-verzekeringsbedrijf-verzelfstandiging-van-de-verzekeringskamer` | Wijzigingswet Wet toezicht verzekeringsbedrijf (verzelfstandiging van de Verzekeringskamer) | 1 | 1992-09-01 to 1992-09-01 |
+| `wijzigingswet-wetboek-van-burgerlijke-rechtsvordering-scheidingsprocesrecht` | Wijzigingswet Wetboek van Burgerlijke Rechtsvordering (scheidingsprocesrecht) | 1 | 1993-01-13 to 1993-01-13 |
+| `wijzigingswet-wet-op-het-wetenschappelijk-onderwijs-verhoging-collegegeld` | Wijzigingswet Wet op het wetenschappelijk onderwijs (verhoging collegegeld) | 1 | 1992-09-01 to 1992-09-01 |
+| `wijzigingswet-wet-algemene-bepalingen-milieuhygiene-enz-3-vergunningen-en-algemene-regels` | Wijzigingswet Wet algemene bepalingen milieuhygiëne, enz. (3) (vergunningen en algemene regels voor inrichtingen; procedures voor vergunningen en ontheffingen; handhaving) | 1 | 1994-01-01 to 1994-01-01 |
+| `wijzigingswet-wet-algemene-bepalingen-milieuhygiene-wet-milieubeheer` | Wijzigingswet Wet algemene bepalingen milieuhygiëne (Wet milieubeheer) | 1 | 1995-01-01 to 1995-01-01 |
+| `wet-stichting-landbouwvoorlichting` | Wet Stichting Landbouwvoorlichting | 1 | 1993-08-01 to 1993-08-01 |
+| `wijzigingswet-wet-op-de-inkomstenbelasting-1964-gemeenschappelijke-fiscale-regeling-voor-f` | Wijzigingswet Wet op de inkomstenbelasting 1964 (gemeenschappelijke fiscale regeling voor fusies, etc.) | 1 | 1994-10-28 to 1994-10-28 |
+| `wijzigingswet-wet-op-de-omzetbelasting-1968-verlaging-van-het-algemene-tarief` | Wijzigingswet Wet op de omzetbelasting 1968 (verlaging van het algemene tarief) | 1 | 1992-10-01 to 1992-10-01 |
+| `wet-bijzondere-regels-met-betrekking-tot-het-recht-op-uitkering-als-bedoeld-in-de-uitkerin` | Wet bijzondere regels met betrekking tot het recht op uitkering als bedoeld in de Uitkeringswet gewezen militairen | 1 | 2006-06-30 to 2006-06-30 |
+| `wet-herverdeling-wegenbeheer` | Wet herverdeling wegenbeheer | 1 | 2024-01-01 to 2024-01-01 |
+| `wijzigingswet-handelsregisterwet-in-verband-met-de-uitvoering-van-de-elfde-richtlijn-van-d` | Wijzigingswet Handelsregisterwet in verband met de uitvoering van de elfde richtlijn van de Raad van de Europese Gemeenschappen inzake het vennootschapsrecht | 1 | 1993-07-28 to 1993-07-28 |
+| `wet-op-het-bevolkingsonderzoek` | Wet op het bevolkingsonderzoek | 1 | 2021-07-01 to 2021-07-01 |
+| `wijzigingswet-algemene-pensioenwet-politieke-ambtsdragers` | Wijzigingswet Algemene pensioenwet politieke ambtsdragers | 1 | 1992-12-18 to 1992-12-18 |
+| `wijzigingswet-werkloosheidswet-enz-vrijwillige-verzekering-voor-personen-werkzaam-in-het-b` | Wijzigingswet Werkloosheidswet, enz. (vrijwillige verzekering voor personen werkzaam in het buitenland) | 1 | 1997-03-01 to 1997-03-01 |
+| `wet-stichting-roi` | Wet Stichting ROI | 1 | 1998-01-01 to 1998-01-01 |
+| `wijzigingswet-wet-op-de-kansspelen-betreffende-sportprijsvragen-en-de-lotto` | Wijzigingswet Wet op de kansspelen betreffende sportprijsvragen en de lotto | 1 | 1992-12-12 to 1992-12-12 |
+| `wijzigingswet-wet-op-het-basisonderwijs-enz-regelingen-i-v-m-invoering-fbs` | Wijzigingswet Wet op het basisonderwijs enz. (regelingen i.v.m. invoering FBS) | 1 | 2013-07-04 to 2013-07-04 |
+| `rijkswet-houdende-goedkeuring-verdrag-betreffende-de-europese-unie` | Rijkswet houdende goedkeuring Verdrag betreffende de Europese Unie | 1 | 2008-07-25 to 2008-07-25 |
+| `wijzigingswet-wetboek-van-strafrecht-enz-voorzieningen-ten-behoeve-van-slachtoffers-van-st` | Wijzigingswet Wetboek van Strafrecht, enz. (voorzieningen ten behoeve van slachtoffers van strafbare feiten) | 1 | 1993-04-01 to 1993-04-01 |
+| `leningwet-1993` | Leningwet 1993 | 1 | 1993-01-01 to 1993-01-01 |
+| `wet-invoering-van-en-aanpassing-aan-de-wet-op-de-verbruiksbelastingen-van-alcoholvrije-dra` | Wet invoering van en aanpassing aan de Wet op de verbruiksbelastingen van alcoholvrije dranken en van andere produkten | 1 | 1993-01-01 to 1993-01-01 |
+| `wijzigingswet-wet-op-de-inkomstenbelasting-1964-enz-belastingplan-1993` | Wijzigingswet Wet op de inkomstenbelasting 1964, enz. (belastingplan 1993) | 1 | 1993-02-16 to 1993-02-16 |
+| `wijzigingswet-wet-op-de-accijns-in-verband-met-de-afschaffing-van-de-fiscale-grenzen` | Wijzigingswet Wet op de accijns in verband met de afschaffing van de fiscale grenzen | 1 | 1993-01-01 to 1993-01-01 |
+| `wijzigingswet-wet-op-de-omzetbelasting-1968-afschaffing-van-de-fiscale-grenzen` | Wijzigingswet Wet op de omzetbelasting 1968 (afschaffing van de fiscale grenzen) | 1 | 1993-01-01 to 1993-01-01 |
+| `wet-op-het-specifiek-cultuurbeleid` | Wet op het specifiek cultuurbeleid | 1 | 2016-07-01 to 2016-07-01 |
+| `wijzigingswet-boek-2-van-het-burgerlijk-wetboek-bepalingen-voor-de-jaarrekening-van-banken` | Wijzigingswet Boek 2 van het Burgerlijk Wetboek (bepalingen voor de jaarrekening van banken) | 1 | 1993-05-28 to 1993-05-28 |
+| `wijzigingswet-reconstructiewet-midden-delfland` | Wijzigingswet Reconstructiewet Midden-Delfland | 1 | 1993-04-21 to 1993-04-21 |
+| `wijzigingswet-wet-milieubeheer-instelling-raad-voor-het-milieubeheer` | Wijzigingswet Wet milieubeheer (instelling Raad voor het milieubeheer) | 1 | 1993-05-05 to 1993-05-05 |
+| `wijzigingswet-wet-op-het-basisonderwijs-regeling-onderwijsvoorrangsgebieden` | Wijzigingswet Wet op het basisonderwijs (regeling onderwijsvoorrangsgebieden) | 1 | 2013-07-04 to 2013-07-04 |
+| `wet-machtiging-deelneming-door-nederland-in-de-zesde-middelenaanvulling-van-het-afrikaanse` | Wet machtiging deelneming door Nederland in de Zesde Middelenaanvulling van het Afrikaanse Ontwikkelingsfonds | 1 | 2002-01-01 to 2002-01-01 |
+| `wijzigingswet-wet-buitengewoon-pensioen-1940-1945-enz-regeling-behandeltermijnen` | Wijzigingswet Wet buitengewoon pensioen 1940-1945, enz. (regeling behandeltermijnen) | 1 | 1993-07-01 to 1993-07-01 |
+| `wijzigingswet-boek-7a-burgerlijk-wetboek-beeindiging-huur-en-verhuur-van-onzelfstandige-wo` | Wijzigingswet Boek 7A Burgerlijk Wetboek (beëindiging huur en verhuur van onzelfstandige woonruimte) | 1 | 1993-07-01 to 1993-07-01 |
+| `burgerlijk-wetboek-boek-7a` | Burgerlijk Wetboek Boek 7A | 1 | 2025-07-01 to 2025-07-01 |
+| `wijzigingswet-wet-op-de-studiefinanciering-enz-meten-van-de-studievoortgang-in-het-hoger-o` | Wijzigingswet Wet op de studiefinanciering, enz. (meten van de studievoortgang in het hoger onderwijs) | 1 | 1993-08-01 to 1993-08-01 |
+| `rijkswet-houdende-machtiging-tot-deelneming-door-het-koninkrijk-der-nederlanden-in-de-alge` | Rijkswet houdende machtiging tot deelneming door het Koninkrijk der Nederlanden in de Algemene Kapitaalverhoging van de Internationale Financieringsmaatschappij | 1 | 1993-07-28 to 1993-07-28 |
+| `machtigingswet-tot-deelneming-door-nederland-in-de-vijfde-middelenaanvulling-van-het-aziat` | Machtigingswet tot deelneming door Nederland in de Vijfde Middelenaanvulling van het Aziatische Ontwikkelingsfonds | 1 | 2002-01-01 to 2002-01-01 |
+| `wijzigingswet-wet-op-de-onderwijsverzorging-enz-nascholing` | Wijzigingswet Wet op de onderwijsverzorging enz. (nascholing) | 1 | 2013-07-04 to 2013-07-04 |
+| `wijzigingswet-interimwet-op-het-speciaal-onderwijs-en-het-voortgezet-speciaal-onderwijs-in` | Wijzigingswet Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs in verband met het vervallen van de opslagpercentages bij de leerlingentelling | 1 | 1993-07-30 to 1993-07-30 |
+| `wet-tot-gemeentelijke-herindeling-noordoostelijke-deel-van-de-provincie-noord-brabant` | Wet tot gemeentelijke herindeling noordoostelijke deel van de provincie Noord-Brabant | 1 | 1994-04-01 to 1994-04-01 |
+| `wijzigingswet-wet-op-de-rechterlijke-indeling-enz` | Wijzigingswet Wet op de rechterlijke indeling, enz. | 1 | 2004-05-01 to 2004-05-01 |
+| `wijzigingswet-boek-2-van-het-burgerlijk-wetboek-2` | Wijzigingswet Boek 2 van het Burgerlijk Wetboek (2) | 1 | 1993-10-15 to 1993-10-15 |
+| `wijzigingswet-boek-1-van-het-burgerlijk-wetboek-en-van-het-wetboek-van-burgerlijke-rechtsv` | Wijzigingswet Boek 1 van het Burgerlijk Wetboek en van het Wetboek van Burgerlijke Rechtsvordering in verband met de advisering over en inning van kinderalimentaties | 1 | 1994-03-01 to 1994-03-01 |
+| `goedkeuringswet-eg-arbitrageverdrag-inzake-winstcorrecties-tussen-verbonden-ondernemingen` | Goedkeuringswet EG-arbitrageverdrag inzake winstcorrecties tussen verbonden ondernemingen | 1 | 1993-11-17 to 1993-11-17 |
+| `wijzigingswet-wet-op-de-inkomstenbelasting-1964-enz-bevorderen-van-werknemersparticipaties` | Wijzigingswet Wet op de inkomstenbelasting 1964, enz. (bevorderen van werknemersparticipaties en winstdelings- en spaarregelingen voor werknemers) | 1 | 1994-01-01 to 1994-01-01 |
+| `wijzigingswet-wetboek-van-strafvordering-enz-herziening-raadkamerprocedure` | Wijzigingswet Wetboek van Strafvordering, enz. (herziening raadkamerprocedure) | 1 | 1994-01-01 to 1994-01-01 |
+| `wijzigingswet-luchtvaartwet-met-betrekking-tot-luchtvervoersvergunningen` | Wijzigingswet Luchtvaartwet met betrekking tot luchtvervoersvergunningen | 1 | 1994-02-18 to 1994-02-18 |
+| `wijzigingswet-wetboek-van-strafvordering-enz-getuigenbescherming` | Wijzigingswet Wetboek van Strafvordering, enz. (getuigenbescherming) | 1 | 1994-02-01 to 1994-02-01 |
+| `eer-uitvoeringswet` | EER-Uitvoeringswet | 1 | 1996-01-01 to 1996-01-01 |
+| `wijzigingswet-wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek-decentralisatie-van` | Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek (decentralisatie van huisvestings- en bestedingsbeslissingen en regeling van de overname van het economisch claimrecht) | 1 | 2005-08-03 to 2005-08-03 |
+| `wet-tot-uitvoering-van-de-richtlijn-van-de-raad-van-de-europese-gemeenschappen-betreffende` | Wet tot uitvoering van de richtlijn van de Raad van de Europese Gemeenschappen betreffende informatie van de werknemer over zijn arbeidsovereenkomst of arbeidsverhouding | 1 | 1997-04-01 to 1997-04-01 |
+| `wijzigingswet-wet-op-de-kansspelen-in-verband-met-het-organiseren-van-de-instantloterij` | Wijzigingswet Wet op de kansspelen in verband met het organiseren van de instantloterij | 1 | 1993-12-23 to 1993-12-23 |
+| `wet-rechtspositie-ministers-en-staatssecretarissen` | Wet rechtspositie ministers en staatssecretarissen | 1 | 2026-07-07 to 2026-07-07 |
+| `wijzigingswet-wetboek-van-strafrecht-enz-terbeschikkingstelling-en-de-observatie` | Wijzigingswet Wetboek van Strafrecht, enz. (terbeschikkingstelling en de observatie) | 1 | 1994-01-15 to 1994-01-15 |
+| `wijzigingswet-wet-op-het-basisonderwijs-enz-wijziging-van-het-stelsel-van-stichtingsnormen` | Wijzigingswet Wet op het basisonderwijs, enz. (wijziging van het stelsel van stichtingsnormen en opheffingsnormen) | 1 | 2013-07-04 to 2013-07-04 |
+| `wijzigingswet-spoorwegpensioenwet` | Wijzigingswet Spoorwegpensioenwet | 1 | 1994-01-19 to 1994-01-19 |
+| `wijzigingswet-wet-op-de-rechterlijke-organisatie-enz-voltooiing-eerste-fase-herziening-rec` | Wijzigingswet Wet op de rechterlijke organisatie, enz. (voltooiing eerste fase herziening rechterlijke organisatie) | 1 | 2013-01-01 to 2013-01-01 |
+| `wijzigingswet-wet-op-de-belasting-van-personenauto-s-en-motorrijwielen-1992` | Wijzigingswet Wet op de belasting van personenauto's en motorrijwielen 1992 | 1 | 1998-08-01 to 1998-08-01 |
+| `wijzigingswet-wet-op-de-ruimtelijke-ordening-1994` | Wijzigingswet Wet op de Ruimtelijke Ordening (1994) | 1 | 1994-01-19 to 1994-01-19 |
+| `wet-brutering-overhevelingstoeslag-lonen` | Wet brutering overhevelingstoeslag lonen | 1 | 2015-01-01 to 2015-01-01 |
+| `wet-terugdringing-ziekteverzuim` | Wet terugdringing ziekteverzuim | 1 | 2005-12-29 to 2005-12-29 |
+| `wijzigingswet-algemene-wet-bestuursrecht-enz-aanpassingswet-awb-iii` | Wijzigingswet Algemene wet bestuursrecht, enz. (Aanpassingswet Awb III) | 1 | 1995-05-17 to 1995-05-17 |
+| `wijzigingswet-vreemdelingenwet-enz` | Wijzigingswet Vreemdelingenwet, enz. | 1 | 1994-01-01 to 1994-01-01 |
+| `leningwet-1994` | Leningwet 1994 | 1 | 1994-01-01 to 1994-01-01 |
+| `wijzigingswet-wet-op-de-vermogensbelasting-1964-enz` | Wijzigingswet Wet op de vermogensbelasting 1964, enz. | 1 | 1997-01-01 to 1997-01-01 |
+| `wijzigingswet-wet-op-de-inkomstenbelasting-1964-enz-belastingplan-1994` | Wijzigingswet Wet op de inkomstenbelasting 1964, enz. (belastingplan 1994) | 1 | 1994-12-16 to 1994-12-16 |
+| `wijzigingswet-wet-op-de-bezoldiging-van-de-rechterlijke-ambtenaren-enz-wijziging-bezoldigi` | Wijzigingswet Wet op de bezoldiging van de rechterlijke ambtenaren, enz. (wijziging bezoldigingsstructuur) | 1 | 1999-02-17 to 1999-02-17 |
+| `wijzigingswet-wetboek-van-strafrecht-onttrekking-aan-de-tenuitvoerlegging-van-vrijheidsben` | Wijzigingswet Wetboek van Strafrecht (onttrekking aan de tenuitvoerlegging van vrijheidsbeneming) | 1 | 1994-02-18 to 1994-02-18 |
+| `wijzigingswet-wet-op-de-accijns-in-verband-met-de-afschaffing-van-fiscale-grenzen-2` | Wijzigingswet Wet op de accijns in verband met de afschaffing van fiscale grenzen (2) | 1 | 1994-02-23 to 1994-02-23 |
+| `wijzigingswet-wet-milieubeheer-milieu-effectrapportage` | Wijzigingswet Wet milieubeheer (milieu-effectrapportage) | 1 | 1995-05-17 to 1995-05-17 |
+| `rijkswet-houdende-goedkeuring-raamverdrag-inzake-vriendschap-en-nauwere-samenwerking-tusse` | Rijkswet houdende goedkeuring Raamverdrag inzake vriendschap en nauwere samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Suriname | 1 | 1994-03-02 to 1994-03-02 |
+| `organisatiewet-kadaster` | Organisatiewet Kadaster | 1 | 2025-02-12 to 2025-02-12 |
+| `wijzigingswet-huurprijzenwet-woonruimte-enz` | Wijzigingswet Huurprijzenwet woonruimte, enz. | 1 | 1998-12-04 to 1998-12-04 |
+| `wijzigingswet-huurprijzenwet-woonruimte-enz-2` | Wijzigingswet Huurprijzenwet woonruimte, enz. (2) | 1 | 1994-07-01 to 1994-07-01 |
+| `wijzigingswet-wet-op-de-stads-en-dorpsvernieuwing` | Wijzigingswet Wet op de stads- en dorpsvernieuwing | 1 | 1995-01-01 to 1995-01-01 |
+| `rijkswet-houdende-goedkeuring-en-uitvoering-overeenkomst-met-vs-inzake-wederzijdse-samenwe` | Rijkswet houdende goedkeuring en uitvoering Overeenkomst met VS inzake wederzijdse samenwerking bij de opsporing, inbeslagneming en confiscatie van de opbrengsten van en hulpmiddelen voor misdrijven en de verdeling van geconfisqueerde voorwerpen | 1 | 1994-04-08 to 1994-04-08 |
+| `wet-beediging-van-de-regent` | Wet beëdiging van de regent | 1 | 1994-05-14 to 1994-05-14 |
+| `rijkswet-tot-wijziging-wet-instelling-van-de-orde-van-oranje-nassau-enz` | Rijkswet tot wijziging Wet Instelling van de Orde van Oranje-Nassau enz. | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-incompatibiliteiten-staten-generaal-en-europees-parlement` | Wet Incompatibiliteiten Staten-Generaal en Europees Parlement | 1 | 2024-12-11 to 2024-12-11 |
+| `wijzigingswet-wet-gemeenschappelijke-regelingen-verplichte-samenwerking` | Wijzigingswet Wet gemeenschappelijke regelingen (verplichte samenwerking) | 1 | 1994-07-01 to 1994-07-01 |
+| `wet-tot-oprichting-van-de-naamloze-vennootschap-de-nederlandse-munt-n-v` | Wet tot oprichting van de naamloze vennootschap De Nederlandse Munt N.V. | 1 | 2016-07-01 to 2016-07-01 |
+| `invoeringswet-van-de-wet-materiele-belastingbepalingen-gemeentewet` | Invoeringswet van de wet materiële belastingbepalingen Gemeentewet | 1 | 1995-05-17 to 1995-05-17 |
+| `wijzigingswet-boek-1-van-het-burgerlijk-wetboek-limitering-van-alimentatie-na-scheiding` | Wijzigingswet Boek 1 van het Burgerlijk Wetboek (limitering van alimentatie na scheiding) | 1 | 1994-07-01 to 1994-07-01 |
+| `wet-vaststelling-wet-verevening-pensioenrechten-bij-scheiding` | Wet vaststelling Wet verevening pensioenrechten bij scheiding | 1 | 1995-07-26 to 1995-07-26 |
+| `wijzigingswet-mediawet-in-verband-met-het-versterken-van-de-organisatie-van-de-landelijke` | Wijzigingswet Mediawet in verband met het versterken van de organisatie van de landelijke publieke omroep | 1 | 1995-01-01 to 1995-01-01 |
+| `wijzigingswet-wet-bodembescherming` | Wijzigingswet Wet bodembescherming | 1 | 1995-05-15 to 1995-05-15 |
+| `wet-op-de-adeldom` | Wet op de adeldom | 1 | 2002-06-12 to 2002-06-12 |
+| `wijzigingswet-algemene-pensioenwet-politieke-ambtsdragers-inzake-uitkeringspercentage-en-p` | Wijzigingswet Algemene pensioenwet politieke ambtsdragers inzake uitkeringspercentage en procedure invaliditeit (uitkeringspercentage vanaf het derde jaar van de uitkeringsduur en een procedure inzake invaliditeit) | 1 | 1994-07-01 to 1994-07-01 |
+| `wijzigingswet-algemene-pensioenwet-politieke-ambtsdragers-uitkering-wegens-invaliditeit` | Wijzigingswet Algemene pensioenwet politieke ambtsdragers (uitkering wegens invaliditeit) | 1 | 1995-01-01 to 1995-01-01 |
+| `wijzigingswet-algemene-pensioenwet-politieke-ambtsdragers-3-onder-andere-ter-zake-van-inho` | Wijzigingswet Algemene pensioenwet politieke ambtsdragers (3) (onder andere ter zake van inhoudingen op het inkomen en gelijke franchise voor de pensioenberekening) | 1 | 1995-01-01 to 1995-01-01 |
+| `wet-verlaging-van-verschuldigde-pensioenbijdrage-spoorwegpensioenwet-geldend-tot-privatise` | Wet verlaging van verschuldigde pensioenbijdrage Spoorwegpensioenwet geldend tot privatisering | 1 | 1994-06-10 to 1994-06-10 |
+| `wijzigingswet-wet-individuele-huursubsidie` | Wijzigingswet Wet individuele huursubsidie | 1 | 1994-07-01 to 1994-07-01 |
+| `wet-voortzetting-tijdelijke-verhoging-op-grond-van-de-wet-individuele-huursubsidie-toe-te` | Wet voortzetting tijdelijke verhoging op grond van de Wet individuele huursubsidie toe te kennen bijdragen | 1 | 1994-07-01 to 1994-07-01 |
+| `wijzigingswet-huurprijzenwet-woonruimte-3` | Wijzigingswet Huurprijzenwet woonruimte (3) | 1 | 1994-08-01 to 1994-08-01 |
+| `wijzigingswet-wet-op-de-vennootschapsbelasting-1969-enz-aanpassing-gedifferentieerd-tarief` | Wijzigingswet Wet op de vennootschapsbelasting 1969, enz. (aanpassing gedifferentieerd tarief en verhoging van de zelfstandigenaftrek) | 1 | 1999-02-17 to 1999-02-17 |
+| `wijzigingswet-boek-2-van-het-burgerlijk-wetboek-ontbinding-rechtspersonen` | Wijzigingswet Boek 2 van het Burgerlijk Wetboek (ontbinding rechtspersonen) | 1 | 1994-09-01 to 1994-09-01 |
+| `wijzigingswet-pensioen-en-spaarfondsenwet-enz-wettelijk-recht-op-waarde-overdracht-en-enig` | Wijzigingswet Pensioen- en spaarfondsenwet, enz. (wettelijk recht op waarde-overdracht en enige andere maatregelen op het aanvullende pensioenterrein) | 1 | 2002-01-01 to 2002-01-01 |
+| `wijzigingswet-wet-uitkeringen-vervolgingsslachtoffers-1940-1945-sluiten-wuv-voor-de-na-oor` | Wijzigingswet Wet uitkeringen vervolgingsslachtoffers 1940-1945 (sluiten Wuv voor de na-oorlogse generatie) | 1 | 1994-07-15 to 1994-07-15 |
+| `wijzigingswet-wetboek-van-strafrecht-enz-herziening-strafrecht-voor-jeugdigen` | Wijzigingswet Wetboek van Strafrecht, enz. (herziening strafrecht voor jeugdigen) | 1 | 1995-09-01 to 1995-09-01 |
+| `rijkswet-goedkeuring-en-bekendmaking-verdragen` | Rijkswet goedkeuring en bekendmaking verdragen | 1 | 2026-07-01 to 2026-07-01 |
+| `wet-tot-samenvoeging-van-de-gemeenten-sint-philipsland-en-tholen` | Wet tot samenvoeging van de gemeenten Sint Philipsland en Tholen | 1 | 1994-08-12 to 1994-08-12 |
+| `wet-tot-samenvoeging-van-de-gemeenten-aardenburg-en-sluis` | Wet tot samenvoeging van de gemeenten Aardenburg en Sluis | 1 | 1994-08-12 to 1994-08-12 |
+| `wet-tot-samenvoeging-van-de-gemeenten-kortgene-en-wissenkerke` | Wet tot samenvoeging van de gemeenten Kortgene en Wissenkerke | 1 | 1994-08-12 to 1994-08-12 |
+| `wijzigingswet-tot-herziening-van-het-procesrecht-in-zaken-van-personen-en-familierecht` | Wijzigingswet tot herziening van het procesrecht in zaken van personen- en familierecht | 1 | 1995-04-01 to 1995-04-01 |
+| `wijzigingswet-luchtvaartwet-aanwijzing-en-gebruik-van-luchtvaartterreinen-strafbepalingen` | Wijzigingswet Luchtvaartwet (aanwijzing en gebruik van luchtvaartterreinen, strafbepalingen en dwangsomregeling) | 1 | 1994-08-17 to 1994-08-17 |
+| `wijzigingswet-waterleidingwet-enz-versobering-en-harmonisatie-externe-adviesorganen-vrom` | Wijzigingswet Waterleidingwet, enz. (Versobering en harmonisatie externe adviesorganen VROM) | 1 | 1995-01-01 to 1995-01-01 |
+| `wet-vrijwillige-zetelverplaatsing-derde-landen` | Wet vrijwillige zetelverplaatsing derde landen | 1 | 2011-07-01 to 2011-07-01 |
+| `wijzigingswet-wet-milieubeheer-afvalwater` | Wijzigingswet Wet milieubeheer (afvalwater) | 1 | 1996-03-01 to 1996-03-01 |
+| `wijzigingswet-wet-economische-mededinging-vergroting-van-de-effectiviteit` | Wijzigingswet Wet economische mededinging (vergroting van de effectiviteit) | 1 | 1995-09-01 to 1995-09-01 |
+| `wijzigingswet-tijdelijke-wet-arbeidsbemiddeling-onderwijs` | Wijzigingswet Tijdelijke wet arbeidsbemiddeling onderwijs | 1 | 1994-11-23 to 1994-11-23 |
+| `wijzigingswet-wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek-enz-verbeteringen-e` | Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek enz. (verbeteringen en aanvullingen van overwegend technische aard) | 1 | 2005-03-01 to 2005-03-01 |
+| `wijzigingswet-burgerlijk-wetboek-enz-geneeskundige-behandelingsovereenkomst` | Wijzigingswet Burgerlijk Wetboek, enz. (geneeskundige behandelingsovereenkomst) | 1 | 2006-02-01 to 2006-02-01 |
+| `invoeringswet-wegenverkeerswet-1994` | Invoeringswet Wegenverkeerswet 1994 | 1 | 2009-05-01 to 2009-05-01 |
+| `wijzigingswet-boeken-3-6-en-8-van-het-burgerlijk-wetboek-aansprakelijkheid-gevaarlijke-sto` | Wijzigingswet Boeken 3, 6 en 8 van het Burgerlijk Wetboek (aansprakelijkheid gevaarlijke stoffen en verontreiniging lucht, water of bodem) | 1 | 1995-02-01 to 1995-02-01 |
+| `wijzigingswet-wet-op-het-basisonderwijs-enz-bevoegdheid-voor-het-geven-van-onderwijs-in-ni` | Wijzigingswet Wet op het basisonderwijs, enz. (bevoegdheid voor het geven van onderwijs in niet-Nederlandse taal en cultuur) | 1 | 2013-07-04 to 2013-07-04 |
+| `rijkswet-houdende-goedkeuring-verdrag-betreffende-de-toetreding-van-het-koninkrijk-noorweg` | Rijkswet houdende goedkeuring Verdrag betreffende de toetreding van het Koninkrijk Noorwegen, de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot de Europese Unie | 1 | 1994-12-23 to 1994-12-23 |
+| `wijzigingswet-wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek-enz-decentralisatie` | Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek, enz. (decentralisatie van regelgeving op arbeidsvoorwaardelijk terrein) | 1 | 2005-08-03 to 2005-08-03 |
+| `wijzigingswet-mediawet-4` | Wijzigingswet Mediawet (4) | 1 | 1995-01-01 to 1995-01-01 |
+| `rijkswet-tot-goedkeuring-totstandkoming-verdrag-tot-oprichting-wereld-handelsorganisatie-e` | Rijkswet tot goedkeuring totstandkoming verdrag tot oprichting Wereld Handelsorganisatie en verdrag overheidsopdrachten | 1 | 1994-12-30 to 1994-12-30 |
+| `wijzigingswet-werkloosheidswet-enz-aanscherping-referte-eisen-ww` | Wijzigingswet Werkloosheidswet, enz. (aanscherping referte-eisen WW) | 1 | 2006-01-01 to 2006-01-01 |
+| `wijzigingswet-wet-op-de-belasting-van-personenauto-s-en-motorrijwielen-1992-enz` | Wijzigingswet Wet op de belasting van personenauto's en motorrijwielen 1992, enz. | 1 | 1995-01-01 to 1995-01-01 |
+| `invoeringswet-wet-belastingen-op-milieugrondslag` | Invoeringswet Wet belastingen op milieugrondslag | 1 | 1997-01-01 to 1997-01-01 |
+| `wijzigingswet-wet-belastingen-op-milieugrondslag` | Wijzigingswet Wet belastingen op milieugrondslag | 1 | 2002-01-01 to 2002-01-01 |
+| `wijzigingswet-wet-op-de-inkomstenbelasting-1964-kapitaalverzekeringen-en-periodieke-uitker` | Wijzigingswet Wet op de inkomstenbelasting 1964 (kapitaalverzekeringen en periodieke uitkeringen) | 1 | 1994-12-30 to 1994-12-30 |
+| `wijzigingswet-wet-op-de-loonbelasting-1964-enz` | Wijzigingswet Wet op de loonbelasting 1964, enz. | 1 | 1995-01-01 to 1995-01-01 |
+| `wijzigingswet-wet-op-de-loonbelasting-1964-enz-aanpassing-van-het-regime-voor-werknemerssp` | Wijzigingswet Wet op de loonbelasting 1964, enz. (aanpassing van het regime voor werknemersspaarregelingen) | 1 | 1995-01-01 to 1995-01-01 |
+| `wijzigingswet-wet-op-de-inkomstenbelasting-1964-enz-onbeperkte-voorwaartse-verrekening-van` | Wijzigingswet Wet op de inkomstenbelasting 1964, enz. (onbeperkte voorwaartse verrekening van ondernemingsverliezen en vaststelling van verliezen bij beschikking) | 1 | 1994-12-30 to 1994-12-30 |
+| `wijzigingswet-wet-op-de-dividendbelasting-1965-enz-tegemoetkoming-wegens-in-het-buitenland` | Wijzigingswet Wet op de dividendbelasting 1965, enz. (tegemoetkoming wegens in het buitenland geheven bronbelasting op deelnemingsdividenden bij dooruitdeling) | 1 | 1995-01-01 to 1995-01-01 |
+| `wijzigingswet-interimwet-op-het-speciaal-onderwijs-en-het-voortgezet-speciaal-onderwijs-en` | Wijzigingswet Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs, enz. (Weer samen naar school) | 1 | 2013-07-04 to 2013-07-04 |
+| `wijzigingswet-mediawet-3` | Wijzigingswet Mediawet (3) | 1 | 1994-12-30 to 1994-12-30 |
+| `wijzigingswet-boek-8-van-het-burgerlijk-wetboek-invoering-titel-15-het-luchtvaartuig` | Wijzigingswet Boek 8 van het Burgerlijk Wetboek, (invoering titel 15 Het luchtvaartuig) | 1 | 1998-12-01 to 1998-12-01 |
+| `wijzigingswet-wet-individuele-huursubsidie-duur-van-het-subsidietijdvak-dat-is-aangevangen` | Wijzigingswet Wet individuele huursubsidie (duur van het subsidietijdvak dat is aangevangen op 1 juli 1994 en loopt tot en met 30 juni 1995) | 1 | 1995-03-01 to 1995-03-01 |
+| `wet-wettelijke-grondslag-wijziging-bezoldiging-rechterlijke-ambtenaren-per-1-april-1993` | Wet wettelijke grondslag wijziging bezoldiging rechterlijke ambtenaren per 1 april 1993 | 1 | 1993-04-01 to 1993-04-01 |
+| `wijzigingswet-wet-assurantiebemiddelingsbedrijf-enz` | Wijzigingswet Wet assurantiebemiddelingsbedrijf, enz. | 1 | 1995-07-01 to 1995-07-01 |
+| `wijzigingswet-wet-op-de-omzetbelasting-1968-inzake-invoering-vereenvoudigingsmaatregelen-z` | Wijzigingswet Wet op de omzetbelasting 1968 inzake invoering vereenvoudigingsmaatregelen Zesde Richtlijn | 1 | 1995-06-09 to 1995-06-09 |
+| `wet-gemeentelijke-indeling-zuidelijk-deel-ijsselmeer-behorende-bij-flevoland` | Wet gemeentelijke indeling zuidelijk deel IJsselmeer behorende bij Flevoland | 1 | 1995-05-12 to 1995-05-12 |
+| `wet-landelijk-bureau-inning-onderhoudsbijdragen` | Wet Landelijk Bureau Inning Onderhoudsbijdragen | 1 | 2021-07-01 to 2021-07-01 |
+| `invoeringswet-wet-op-de-motorrijtuigenbelasting-1994` | Invoeringswet Wet op de motorrijtuigenbelasting 1994 | 1 | 2012-01-01 to 2012-01-01 |
+| `wijzigingswet-wet-op-het-basisonderwijs-enz-budgettering-wachtgelden-en-instelling-partici` | Wijzigingswet Wet op het Basisonderwijs, enz. (budgettering wachtgelden en instelling participatiefonds) | 1 | 2013-07-04 to 2013-07-04 |
+| `wijzigingswet-boek-1-van-het-burgerlijk-wetboek-enz` | Wijzigingswet Boek 1 van het Burgerlijk Wetboek, enz. | 1 | 1995-11-02 to 1995-11-02 |
+| `wijzigingswet-wet-op-de-ondernemingsraden-enz` | Wijzigingswet Wet op de ondernemingsraden, enz. | 1 | 1999-01-01 to 1999-01-01 |
+| `wijzigingswet-algemene-wet-bestuursrecht-enz-leemtewet-awb` | Wijzigingswet Algemene wet bestuursrecht enz. (Leemtewet Awb) | 1 | 1995-05-17 to 1995-05-17 |
+| `wijzigingswet-boek-1-burgerlijk-wetboek-enz-ondertoezichtstelling` | Wijzigingswet Boek 1 Burgerlijk Wetboek, enz. (ondertoezichtstelling) | 1 | 1995-11-01 to 1995-11-01 |
+| `wijzigingswet-grondwaterwet-algemene-regels-voor-het-onttrekken-van-grondwater` | Wijzigingswet Grondwaterwet (algemene regels voor het onttrekken van grondwater) | 1 | 1995-07-01 to 1995-07-01 |
+| `wijzigingswet-wet-op-de-ruimtelijke-ordening-enz-onafhankelijkheid-adviseurs-inzake-beroep` | Wijzigingswet Wet op de Ruimtelijke Ordening, enz. (onafhankelijkheid adviseurs inzake beroepen) | 1 | 1995-09-29 to 1995-09-29 |
+| `wijzigingswet-wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek-aanpassing-bepaling` | Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek (aanpassing bepalingen inzake de arbeidsmarktfixus en eenmalige vaststelling van de arbeidsmarktfixus geneeskunde 1994-1996) | 1 | 2005-08-03 to 2005-08-03 |
+| `wet-vergoedingen-leden-eerste-kamer` | Wet vergoedingen leden Eerste Kamer | 1 | 2026-07-07 to 2026-07-07 |
+| `wijzigingswet-wet-op-de-kansspelen-enz-in-verband-met-het-instellen-van-een-college-van-to` | Wijzigingswet Wet op de kansspelen, enz. (in verband met het instellen van een College van toezicht op de kansspelen) | 1 | 1996-01-01 to 1996-01-01 |
+| `wijzigingswet-wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek-enz-inzake-verlengi` | Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek, enz. inzake verlenging cursusduur technische opleidingen en opleidingen op het gebied van landbouw en natuurlijke omgeving in het wetenschappelijk onderwijs | 1 | 2005-08-03 to 2005-08-03 |
+| `wijzigingswet-wet-individuele-huursubsidie-enz` | Wijzigingswet Wet individuele huursubsidie, enz. | 1 | 1995-07-01 to 1995-07-01 |
+| `wijzigingswet-interimwet-op-het-speciaal-onderwijs-en-het-voortgezet-speciaal-onderwijs-en-2` | Wijzigingswet Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs, enz. | 1 | 2013-07-04 to 2013-07-04 |
+| `rijkswet-houdende-goedkeuring-verdrag-tot-verbod-van-de-ontwikkeling-de-produktie-de-aanle` | Rijkswet houdende goedkeuring Verdrag tot verbod van de ontwikkeling, de produktie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens | 1 | 1995-06-23 to 1995-06-23 |
+| `wet-samenvoeging-gemeenten-cothen-langbroek-en-wijk-bij-duurstede` | Wet samenvoeging gemeenten Cothen, Langbroek en Wijk bij Duurstede | 1 | 1995-07-28 to 1995-07-28 |
+| `wijzigingswet-comptabiliteitswet-enz-zesde-wijziging` | Wijzigingswet Comptabiliteitswet, enz. (zesde wijziging) | 1 | 1995-08-18 to 1995-08-18 |
+| `wet-gemeentelijke-herindeling-samenwerkingsgebied-s-hertogenbosch` | Wet gemeentelijke herindeling samenwerkingsgebied 's-Hertogenbosch | 1 | 1995-09-15 to 1995-09-15 |
+| `wijzigingswet-wetboek-van-strafvordering-vormverzuimen` | Wijzigingswet Wetboek van Strafvordering (vormverzuimen) | 1 | 1996-11-02 to 1996-11-02 |
+| `wijzigingswet-wet-op-de-inkomstenbelasting-1964-goedkeuring-regelingen` | Wijzigingswet Wet op de inkomstenbelasting 1964 (goedkeuring regelingen) | 1 | 1995-10-25 to 1995-10-25 |
+| `wet-administratie-grootboekschuld` | Wet administratie grootboekschuld | 1 | 1999-02-17 to 1999-02-17 |
+| `wijzigingswet-wet-op-het-specifiek-cultuurbeleid-enz-instelling-raad-voor-cultuur` | Wijzigingswet Wet op het specifiek cultuurbeleid, enz. (instelling Raad voor cultuur) | 1 | 1996-01-01 to 1996-01-01 |
+| `wet-afwijking-aanpassingsmechanisme-wet-individuele-huursubsidie-subsidietijdvak-1-7-95-t` | Wet afwijking aanpassingsmechanisme Wet individuele huursubsidie subsidietijdvak 1-7-'95 t/m 30-6-'96 | 1 | 1995-11-17 to 1995-11-17 |
+| `invoeringswet-douanewet` | Invoeringswet Douanewet | 1 | 1996-06-01 to 1996-06-01 |
+| `wijzigingswet-wet-buitengewoon-pensioen-1940-1945-enz-herziening-aanpassingssysteem-wetten` | Wijzigingswet Wet buitengewoon pensioen 1940-1945, enz. (herziening aanpassingssysteem wetten voor oorlogsgetroffenen) | 1 | 1995-12-01 to 1995-12-01 |
+| `wet-tot-herziening-van-de-wet-wapens-en-munitie` | Wet tot herziening van de Wet wapens en munitie | 1 | 1997-01-01 to 1997-01-01 |
+| `wijzigingswet-natuurschoonwet-1928-enz-verruiming-fiscale-faciliteiten-ten-behoeve-van-de` | Wijzigingswet Natuurschoonwet 1928 enz. (verruiming fiscale faciliteiten ten behoeve van de aanleg van bossen) | 1 | 2000-12-28 to 2000-12-28 |
+| `wijzigingswet-wet-op-het-basisonderwijs-enz-verplichting-vaststellen-directiestatuut` | Wijzigingswet Wet op het basisonderwijs, enz. (verplichting vaststellen directiestatuut) | 1 | 2013-07-04 to 2013-07-04 |
+| `wijzigingswet-wet-belastingen-op-milieugrondslag-invoering-van-een-regulerende-energiebela` | Wijzigingswet Wet belastingen op milieugrondslag (invoering van een regulerende energiebelasting) (2) | 1 | 1998-01-01 to 1998-01-01 |
+| `wijzigingswet-wet-toezicht-kredietwezen-1992-uitvoering-richtlijn-inzake-de-depositogarant` | Wijzigingswet Wet toezicht kredietwezen 1992 (uitvoering Richtlijn inzake de depositogarantiestelsels) | 1 | 1995-12-31 to 1995-12-31 |
+| `wijzigingswet-wet-op-de-inkomstenbelasting-1964-enz-wijziging-van-enige-fiscale-wetten-in` | Wijzigingswet Wet op de inkomstenbelasting 1964, enz. (wijziging van enige fiscale wetten in het kader van lastenverlichting voor het midden- en kleinbedrijf) | 1 | 1996-01-01 to 1996-01-01 |
+| `wijzigingswet-wet-op-de-inkomstenbelasting-1964-enz-belastingplan-1996` | Wijzigingswet Wet op de inkomstenbelasting 1964, enz. (belastingplan 1996) | 1 | 1997-01-01 to 1997-01-01 |
+| `wijzigingswet-wet-op-de-omzetbelasting-1968-enz-bestrijding-constructies-met-betrekking-to` | Wijzigingswet Wet op de omzetbelasting 1968, enz. (bestrijding constructies met betrekking tot onroerende zaken) | 1 | 1995-12-29 to 1995-12-29 |
+| `wijzigingswet-wet-op-de-vermogensbelasting-1964-enz-terugsluis-opbrengst-reparatiewetsvoor` | Wijzigingswet Wet op de vermogensbelasting 1964, enz. (terugsluis opbrengst reparatiewetsvoorstel-btw) | 1 | 1998-09-01 to 1998-09-01 |
+| `wet-fonds-economische-structuurversterking` | Wet Fonds economische structuurversterking | 1 | 2019-01-01 to 2019-01-01 |
+| `wijzigingswet-wet-infrastructuurfonds-enz-herziening-voeding-infrastructuurfonds` | Wijzigingswet Wet Infrastructuurfonds, enz. (herziening voeding Infrastructuurfonds) | 1 | 1996-01-01 to 1996-01-01 |
+| `wet-kaderregeling-vut-overheidspersoneel` | Wet kaderregeling vut overheidspersoneel | 1 | 2013-01-01 to 2013-01-01 |
+| `wijzigingswet-auteurswet-1912-enz-richtlijn-raad-van-de-europese-gemeenschappen-betreffend` | Wijzigingswet Auteurswet 1912, enz. (richtlijn Raad van de Europese Gemeenschappen betreffende verhuurrecht, uitleenrecht en bepaalde naburige rechten) | 1 | 2008-03-26 to 2008-03-26 |
+| `wijzigingswet-wet-op-de-inkomstenbelasting-1964-enz-wijziging-van-enige-belastingwetten-in` | Wijzigingswet Wet op de inkomstenbelasting 1964, enz. (wijziging van enige belastingwetten in het belang van de zeescheepvaart) | 1 | 1996-01-01 to 1996-01-01 |
+| `wijzigingswet-wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek-enz-bestuursorganis` | Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek, enz. (bestuursorganisatie van en medezeggenschap in hogescholen) | 1 | 2005-08-03 to 2005-08-03 |
+| `kaderwet-financiele-verstrekkingen-financien` | Kaderwet financiële verstrekkingen Financiën | 1 | 2015-01-01 to 2015-01-01 |
+| `wet-uitbreiding-loondoorbetalingsplicht-bij-ziekte` | Wet uitbreiding loondoorbetalingsplicht bij ziekte | 1 | 1999-02-17 to 1999-02-17 |
+| `wijzigingswet-gemeentewet-enz-afschaffing-preventief-toezicht-op-belastingverordeningen` | Wijzigingswet Gemeentewet, enz. (Afschaffing preventief toezicht op belastingverordeningen) | 1 | 1996-07-01 to 1996-07-01 |
+| `wijzigingswet-van-enige-mijnbouwwetten-ivm-de-uitvoering-van-de-richtlijn-betreffende-de-v` | Wijzigingswet van enige mijnbouwwetten ivm de uitvoering van de richtlijn betreffende de voorwaarden voor het verlenen en het gebruik maken van vergunningen voor de prospectie, de exploratie en de produktie van koolwaterstoffen (PbEG L 164) | 1 | 1996-06-05 to 1996-06-05 |
+| `wijzigingswet-wet-aanpassing-pensioenvoorzieningen-bijstandkorps-en-samenloopregeling-indo` | Wijzigingswet Wet aanpassing pensioenvoorzieningen Bijstandkorps en Samenloopregeling Indonesische pensioenen 1960 | 1 | 1996-04-17 to 1996-04-17 |
+| `wijzigingswet-wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek-enz-aanpassing-coll` | Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek, enz., (aanpassing collegegeldbepalingen) | 1 | 2005-08-03 to 2005-08-03 |
+| `wijzigingswet-wet-op-de-studiefinanciering-enz-invoering-prestatiebeurs-en-aanspraak-studi` | Wijzigingswet Wet op de studiefinanciering, enz. (invoering prestatiebeurs en aanspraak studiefinanciering) | 1 | 2005-08-03 to 2005-08-03 |
+| `wijzigingswet-wegenverkeerswet-1994-regeling-verzelfstandiging-rijksdienst-voor-het-wegver` | Wijzigingswet Wegenverkeerswet 1994 (regeling verzelfstandiging Rijksdienst voor het Wegverkeer) | 1 | 2013-01-01 to 2013-01-01 |
+| `wijzigingswet-mediawet-5` | Wijzigingswet Mediawet (5) | 1 | 1996-04-24 to 1996-04-24 |
+| `wijzigingswet-wet-op-het-basisonderwijs-enz-overboeking-van-niet-bestede-vergoedingen` | Wijzigingswet Wet op het basisonderwijs, enz. (overboeking van niet bestede vergoedingen) | 1 | 2013-07-04 to 2013-07-04 |
+| `wet-op-de-orgaandonatie` | Wet op de orgaandonatie | 1 | 2026-10-01 to 2026-10-01 |
+| `wijzigingswet-algemene-pensioenwet-politieke-ambtsdragers-invoering-partnerpensioen` | Wijzigingswet Algemene pensioenwet politieke ambtsdragers (invoering partnerpensioen) | 1 | 1996-07-01 to 1996-07-01 |
+| `wijzigingswet-boek-1-bw-enz-reorganisatie-van-de-raden-voor-de-kinderbescherming` | Wijzigingswet Boek 1 BW, enz. (reorganisatie van de raden voor de kinderbescherming) | 1 | 1996-06-29 to 1996-06-29 |
+| `wijzigingswet-huurprijzenwet-woonruimte-wet-op-de-huurcommissies-en-wet-individuele-huursu` | Wijzigingswet Huurprijzenwet woonruimte, Wet op de huurcommissies en Wet individuele huursubsidie ivm huursombenadering | 1 | 2000-07-01 to 2000-07-01 |
+| `wijzigingswet-wet-individuele-huursubsidie-3` | Wijzigingswet Wet individuele huursubsidie (3) | 1 | 1996-07-01 to 1996-07-01 |
+| `derde-tranche-algemene-wet-bestuursrecht` | Derde tranche Algemene wet bestuursrecht | 1 | 2001-01-01 to 2001-01-01 |
+| `wijzigingswet-auteurswet-1912-enz-ivm-richtlijn-tot-coordinatie-van-bepaalde-voorschriften` | Wijzigingswet Auteurswet 1912, enz. ivm richtlijn tot coördinatie van bepaalde voorschriften betreffende het auteursrecht en naburige rechten op het gebied van de satellietomroep en de doorgifte via de kabel | 1 | 2008-03-26 to 2008-03-26 |
+| `wijzigingswet-wet-op-de-onderwijsverzorging-ivm-verlenging-werkingsduur-van-die-wet` | Wijzigingswet Wet op de onderwijsverzorging ivm verlenging werkingsduur van die wet | 1 | 1996-08-01 to 1996-08-01 |
+| `uitvoeringswet-upov-1991` | Uitvoeringswet UPOV 1991 | 1 | 1998-04-24 to 1998-04-24 |
+| `wijzigingswet-burgerlijk-wetboek-en-ambtenarenwet-ivm-verbod-tot-maken-van-onderscheid-tus` | Wijzigingswet Burgerlijk Wetboek en Ambtenarenwet ivm verbod tot maken van onderscheid tussen werknemers naar arbeidsduur | 1 | 2026-01-01 to 2026-01-01 |
+| `wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-decentralisatie-rechtspositieregeling-e` | Wijzigingswet Wet educatie en beroepsonderwijs, enz. (decentralisatie rechtspositieregeling educatie en beroepsonderwijs | 1 | 1997-01-01 to 1997-01-01 |
+| `wijzigingswet-wet-voorkeursrecht-gemeenten` | Wijzigingswet Wet voorkeursrecht gemeenten | 1 | 1996-07-17 to 1996-07-17 |
+| `wijzigingswet-wet-op-het-basisonderwijs-en-isovso-inzake-vereenvoudiging-londo` | Wijzigingswet Wet op het basisonderwijs en ISOVSO inzake vereenvoudiging Londo | 1 | 2026-01-01 to 2026-01-01 |
+| `wijzigingswet-wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek-ivm-bevordering-van` | Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek ivm bevordering van de kwaliteit en de studeerbaarheid van het onderwijs | 1 | 2005-08-03 to 2005-08-03 |
+| `wijzigingswet-wet-op-de-rechterlijke-organisatie-enz-in-verband-met-de-opheffing-van-de-fu` | Wijzigingswet Wet op de rechterlijke organisatie enz. (in verband met de opheffing van de functie van verkeersschout) | 1 | 1996-08-01 to 1996-08-01 |
+| `wijzigingswet-wet-aansprakelijkheid-olietankschepen` | Wijzigingswet Wet aansprakelijkheid olietankschepen | 1 | 1997-11-15 to 1997-11-15 |
+| `wet-gemeentelijke-herindeling-van-schouwen-duiveland-en-walcheren` | Wet gemeentelijke herindeling van Schouwen-Duiveland en Walcheren | 1 | 1996-09-13 to 1996-09-13 |
+| `wet-tot-gemeentelijke-herindeling-lemelerveld` | Wet tot gemeentelijke herindeling Lemelerveld | 1 | 1998-12-30 to 1998-12-30 |
+| `wet-tot-gemeentelijke-herindeling-samenwerkingsgebieden-midden-brabant-breda-en-westelijk` | Wet tot gemeentelijke herindeling samenwerkingsgebieden Midden-Brabant, Breda en Westelijk Noord-Brabant en in een gedeelte van de samenwerkingsgebieden Zuidoost-Brabant en 's-Hertogenbosch | 1 | 1998-08-01 to 1998-08-01 |
+| `wijzigingswet-wet-op-de-dierproeven-1997` | Wijzigingswet Wet op de dierproeven 1997 | 1 | 1997-02-05 to 1997-02-05 |
+| `wijzigingswet-van-de-bepalingen-uit-het-wetboek-van-strafvordering-betreffende-het-proces` | Wijzigingswet van de bepalingen uit het Wetboek van strafvordering betreffende het proces-verbaal van de terechtzitting en het vonnis | 1 | 1998-05-15 to 1998-05-15 |
+| `goedkeuringswet-overeenkomst-betreffende-de-vaststelling-van-de-staat-die-verantwoordelijk` | Goedkeuringswet Overeenkomst betreffende de vaststelling van de Staat die verantwoordelijk is voor de behandeling van een asielverzoek dat bij een van de Lid-Staten van de EG wordt ingediend | 1 | 1996-11-01 to 1996-11-01 |
+| `wet-op-het-rivm` | Wet op het RIVM | 1 | 2024-01-01 to 2024-01-01 |
+| `goedkeuringswet-uitvoeringsregeling-willekeurige-afschrijving-voor-zover-daarin-beperkinge` | Goedkeuringswet Uitvoeringsregeling willekeurige afschrijving voor zover daarin beperkingen van de mogelijkheid tot willekeurige afschrijving zijn opgenomen | 1 | 1999-01-01 to 1999-01-01 |
+| `wet-gevolgen-privatisering-abp-voor-het-personeel-van-de-koninklijke-hofhouding` | Wet gevolgen privatisering ABP voor het personeel van de Koninklijke Hofhouding | 1 | 2007-01-01 to 2007-01-01 |
+| `wijzigingswet-wet-op-het-specifiek-cultuurbeleid` | Wijzigingswet Wet op het specifiek cultuurbeleid | 1 | 1997-01-01 to 1997-01-01 |
+| `wijzigingswet-op-het-basisonderwijs-enz-bestuursvorm-van-het-openbaar-onderwijs` | Wijzigingswet op het basisonderwijs enz. (bestuursvorm van het openbaar onderwijs) | 1 | 2013-07-04 to 2013-07-04 |
+| `invoeringswet-arbeidsvoorzieningswet-1996` | Invoeringswet Arbeidsvoorzieningswet 1996 | 1 | 2002-01-01 to 2002-01-01 |
+| `wijzigingswet-algemene-pensioenwet-politieke-ambtsdragers-maatstaf-duur-recht-op-uitkering` | Wijzigingswet Algemene pensioenwet politieke ambtsdragers (maatstaf duur recht op uitkering e.a.) | 1 | 2005-01-01 to 2005-01-01 |
+| `wet-overleg-fysieke-leefomgeving` | Wet overleg fysieke leefomgeving | 1 | 2021-01-01 to 2021-01-01 |
+| `wet-op-de-raad-voor-het-openbaar-bestuur` | Wet op de Raad voor het openbaar bestuur | 1 | 2017-07-01 to 2017-07-01 |
+| `rijkswet-houdende-wijziging-belastingregeling-voor-het-koninkrijk-tegengaan-misbruik-en-on` | Rijkswet houdende wijziging Belastingregeling voor het Koninkrijk (tegengaan misbruik en oneigenlijk gebruik) | 1 | 1997-01-01 to 1997-01-01 |
+| `wijzigingswet-wet-op-de-vennootschapsbelasting-1969-ivm-tegengaan-uitholling-belastinggron` | Wijzigingswet Wet op de vennootschapsbelasting 1969 ivm tegengaan uitholling belastinggrondslag en versterken fiscale infrastructuur | 1 | 1996-12-24 to 1996-12-24 |
+| `wijzigingswet-belastingwetten-herziening-regime-ter-zake-van-winst-uit-aanmerkelijk-belang` | Wijzigingswet belastingwetten herziening regime ter zake van winst uit aanmerkelijk belang, consumptieve rente en vermogensbelasting | 1 | 1998-01-01 to 1998-01-01 |
+| `wet-aanpassing-loon-en-inkomstenbelasting-c-a-1997` | Wet aanpassing loon- en inkomstenbelasting c.a. 1997 | 1 | 1998-01-01 to 1998-01-01 |
+| `wijzigingswet-bepalingen-mediawet-ivm-met-het-omvormen-van-de-met-de-inning-van-de-omroepb` | Wijzigingswet bepalingen Mediawet ivm met het omvormen van de met de inning van de omroepbijdragen belaste dienst van Koninklijke PTT Nederland N.V. tot een publiekrechtelijk vormgegeven zelfstandig bestuursorgaan | 1 | 2004-02-13 to 2004-02-13 |
+| `wijzigingswet-wet-op-het-basisonderwijs-isovso-en-wvo-mbt-financiele-gelijkstelling-en-eni` | Wijzigingswet Wet op het basisonderwijs, ISOVSO en WVO mbt financiële gelijkstelling en enige technische aanpassingen | 1 | 2013-07-04 to 2013-07-04 |
+| `aanpassingswet-wet-waardering-onroerende-zaken` | Aanpassingswet Wet waardering onroerende zaken | 1 | 2001-01-01 to 2001-01-01 |
+| `wijzigingswet-van-enkele-belastingwetten-c-a-belastingplan-1997` | Wijzigingswet van enkele belastingwetten c.a. (belastingplan 1997) | 1 | 1997-07-01 to 1997-07-01 |
+| `wijzigingswet-wet-vermindering-afdracht-loonbelasting-enz-uitbreiding-definitie-speur-en-o` | Wijzigingswet Wet vermindering afdracht loonbelasting enz., (uitbreiding definitie speur- en ontwikkelingswerk en verlaging urennorm in de zelfstandigenaftrek) | 1 | 1997-01-01 to 1997-01-01 |
+| `wijzigingswet-wet-op-de-inkomstenbelasting-1964-en-de-wet-op-de-loonbelasting-1964-beperki` | Wijzigingswet Wet op de inkomstenbelasting 1964 en de Wet op de loonbelasting 1964 (beperking aftrekbare kosten ter zake van criminele activiteiten) | 1 | 1997-01-01 to 1997-01-01 |
+| `wijzigingswet-burgerlijk-wetboek-en-enige-andere-wetten-herziening-voorlopige-maatregelen` | Wijzigingswet Burgerlijk Wetboek en enige andere wetten (herziening voorlopige maatregelen kinderbescherming) | 1 | 1999-02-17 to 1999-02-17 |
+| `wijzigingswet-pensioen-en-spaarfondsenwet-invulling-begrip-pensioentoezegging` | Wijzigingswet Pensioen- en spaarfondsenwet (invulling begrip pensioentoezegging) | 1 | 1997-02-14 to 1997-02-14 |
+| `wet-uitbreiding-wet-bodembescherming-met-bijzondere-regels-inzake-sanering-van-de-waterbod` | Wet uitbreiding Wet bodembescherming met bijzondere regels inzake sanering van de waterbodem | 1 | 1997-08-01 to 1997-08-01 |
+| `wijzigingswet-wet-op-het-basisonderwijs-isovso-wvo-enz-opnemen-document-inzake-evenredige` | Wijzigingswet Wet op het basisonderwijs, ISOVSO, WVO enz. (opnemen document inzake evenredige vertegenwoordiging van vrouwen in leidinggevende functies in het onderwijs) | 1 | 2013-07-04 to 2013-07-04 |
+| `wijzigingswet-wegenverkeerswet-1994-wijziging-wegsleepregeling` | Wijzigingswet Wegenverkeerswet 1994 (wijziging wegsleepregeling) | 1 | 2002-01-01 to 2002-01-01 |
+| `wet-uitvoering-eg-mededingingsverordeningen` | Wet uitvoering EG-mededingingsverordeningen | 1 | 2019-01-01 to 2019-01-01 |
+| `wijzigingswet-gemeentewet-inzake-opneming-bevoegdheid-van-de-burgemeester-om-woningen-niet` | Wijzigingswet Gemeentewet inzake opneming bevoegdheid van de burgemeester om woningen, niet voor het publiek toegankelijke lokalen of bij die woningen of lokalen behorende erven te sluiten bij verstoring van de openbare orde | 1 | 1997-03-26 to 1997-03-26 |
+| `wijzigingswet-wet-luchtverkeer-bewijzen-van-bevoegdheid-bestrijding-drank-en-drugsgebruik` | Wijzigingswet Wet Luchtverkeer (bewijzen van bevoegdheid, bestrijding drank- en drugsgebruik) | 1 | 2000-01-19 to 2000-01-19 |
+| `wijzigingswet-artikelen-5-en-9-van-boek-1-burgerlijk-wetboek` | Wijzigingswet artikelen 5 en 9 van Boek 1 Burgerlijk Wetboek | 1 | 1998-01-01 to 1998-01-01 |
+| `aanpassingswet-privatisering-abp` | Aanpassingswet privatisering ABP | 1 | 1998-08-01 to 1998-08-01 |
+| `wijzigingswet-wet-op-de-studiefinanciering-enz-correctie-berekening-aanvullende-beurs` | Wijzigingswet Wet op de studiefinanciering enz. (correctie berekening aanvullende beurs) | 1 | 1997-05-01 to 1997-05-01 |
+| `wet-uitbreiding-wet-milieubeheer-milieuverslaglegging` | Wet uitbreiding Wet Milieubeheer (milieuverslaglegging) | 1 | 2004-01-01 to 2004-01-01 |
+| `aanpassingswet-belastingbepalingen-provinciewet-alsmede-wijziging-van-formele-belastingbep` | Aanpassingswet belastingbepalingen Provinciewet alsmede wijziging van formele belastingbepalingen in de Gemeentewet en de Waterschapswet | 1 | 1999-01-01 to 1999-01-01 |
+| `wijzigingswet-wet-inzake-bloedtransfusies` | Wijzigingswet Wet inzake bloedtransfusies | 1 | 1997-06-06 to 1997-06-06 |
+| `wet-premiedifferentiatie-en-marktwerking-bij-arbeidsongeschiktheidsverzekeringen` | Wet premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen | 1 | 2006-01-01 to 2006-01-01 |
+| `invoeringswet-nieuwe-en-gewijzigde-arbeidsongeschiktheidsregelingen` | Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen | 1 | 2021-01-01 to 2021-01-01 |
+| `wijzigingswet-wet-administratiefrechtelijke-handhaving-verkeersvoorschriften-en-van-het-we` | Wijzigingswet Wet administratiefrechtelijke handhaving verkeersvoorschriften en van het Wetboek van Strafvordering | 1 | 1997-06-30 to 1997-06-30 |
+| `wet-op-de-onderwijsraad` | Wet op de Onderwijsraad | 1 | 2026-08-01 to 2026-08-01 |
+| `wijzigingswet-wet-op-het-basisonderwijs-enz-gemeentelijk-onderwijsachterstandenbeleid` | Wijzigingswet Wet op het basisonderwijs, enz. (gemeentelijk onderwijsachterstandenbeleid) | 1 | 2013-07-04 to 2013-07-04 |
+| `wijzigingswet-wet-op-het-basisonderwijs-enz-regeling-schoolbegeleiding` | Wijzigingswet Wet op het basisonderwijs, enz. (regeling schoolbegeleiding) | 1 | 2013-07-04 to 2013-07-04 |
+| `wijzigingswet-wet-educatie-en-beroepsonderwijs-decentralisatie-van-huisvestings-en-bestedi` | Wijzigingswet Wet educatie en beroepsonderwijs (decentralisatie van huisvestings- en bestedingsbeslissingen en vervallen van economisch claimrecht) | 1 | 2004-06-23 to 2004-06-23 |
+| `wijzigingswet-wet-op-de-motorrijtuigenbelasting-1994-enz-herziening-van-de-tariefstructuur` | Wijzigingswet Wet op de motorrijtuigenbelasting 1994 enz. (herziening van de tariefstructuur voor vrachtauto's) | 1 | 1999-01-01 to 1999-01-01 |
+| `wijzigingswet-wet-kaderregeling-vut-overheidspersoneel-invoering-regeling-flexibel-pensioe` | Wijzigingswet Wet kaderregeling vut overheidspersoneel (invoering regeling flexibel pensioen en uittreden voor het personeel bij de overheid en het onderwijs | 1 | 1997-07-04 to 1997-07-04 |
+| `wijzigingswet-algemene-wet-inzake-rijksbelastingen-enz-verruiming-mogelijkheid-tot-oplegge` | Wijzigingswet Algemene wet inzake rijksbelastingen, enz. (verruiming mogelijkheid tot opleggen van voorlopige aanslagen tot een negatief bedrag (voorlopige teruggaaf)) | 1 | 1998-12-30 to 1998-12-30 |
+| `wet-tot-gemeentelijke-herindeling-in-de-provincie-drenthe` | Wet tot gemeentelijke herindeling in de provincie Drenthe | 1 | 1998-01-01 to 1998-01-01 |
+| `wijzigingswet-wetboek-van-strafrecht-en-wetboek-van-strafvordering-terbeschikkingstelling` | Wijzigingswet Wetboek van Strafrecht en Wetboek van Strafvordering (terbeschikkingstelling en sanctietoepassing t.a.v. geestelijk gestoorde delinquenten) | 1 | 1997-10-02 to 1997-10-02 |
+| `wijzigingswet-wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek-positiebepaling-ope` | Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek (positiebepaling Open universiteit binnen het onderwijs en wijziging bestuursorganisatie) | 1 | 2005-08-03 to 2005-08-03 |
+| `wet-tot-samenvoeging-van-de-gemeenten-weert-en-stramproy` | Wet tot samenvoeging van de gemeenten Weert en Stramproy | 1 | 1997-07-18 to 1997-07-18 |
+| `wet-tot-samenvoeging-van-de-gemeenten-boxmeer-en-vierlingsbeek` | Wet tot samenvoeging van de gemeenten Boxmeer en Vierlingsbeek | 1 | 1997-07-18 to 1997-07-18 |
+| `wet-tot-wijziging-grens-tussen-de-gemeenten-elst-en-nijmegen` | Wet tot wijziging grens tussen de gemeenten Elst en Nijmegen | 1 | 1997-07-18 to 1997-07-18 |
+| `wijzigingswet-wet-op-het-basisonderwijs-enz-afwijking-van-de-bevoegdheidseisen-ten-behoeve` | Wijzigingswet Wet op het basisonderwijs. enz. (afwijking van de bevoegdheidseisen ten behoeve van leraren-in-opleiding) | 1 | 2001-07-25 to 2001-07-25 |
+| `wijzigingswet-boek-8-burgerlijk-wetboek-hulpverlening` | Wijzigingswet Boek 8 Burgerlijk Wetboek (hulpverlening) | 1 | 1998-12-10 to 1998-12-10 |
+| `wet-adviesstelsel-justitie` | Wet adviesstelsel Justitie | 1 | 2019-01-01 to 2019-01-01 |
+| `wijzigingswet-boek-1-burgerlijk-wetboek-en-wetboek-van-burgerlijke-rechtsvordering-opnemin` | Wijzigingswet Boek 1 Burgerlijk Wetboek en Wetboek van Burgerlijke Rechtsvordering (opneming van bepalingen voor het geregistreerd partnerschap) | 1 | 1998-01-01 to 1998-01-01 |
+| `wijzigingswet-mediawet-wet-op-de-telecommunicatievoorzieningen-en-de-radio-omroep-zender-w` | Wijzigingswet Mediawet, Wet op de telecommunicatievoorzieningen en de Radio-Omroep-Zender-Wet 1935 (liberalisering van de mediawetgeving) | 1 | 1997-09-01 to 1997-09-01 |
+| `rijkswet-houdende-goedkeuring-verdrag-tot-oprichting-van-het-internationaal-instituut-voor` | Rijkswet houdende goedkeuring Verdrag tot oprichting van het Internationaal Instituut voor democratie en verkiezingsondersteuning | 1 | 1997-09-19 to 1997-09-19 |
+| `wijzigingswet-wet-op-de-inkomstenbelasting-1964-enz-verhoging-van-de-ouderenaftrek-en-aanv` | Wijzigingswet Wet op de inkomstenbelasting 1964, enz (verhoging van de ouderenaftrek en aanvullende ouderenaftrek) | 1 | 1998-01-01 to 1998-01-01 |
+| `wet-verzelfstandiging-staatsbosbeheer` | Wet verzelfstandiging Staatsbosbeheer | 1 | 2020-01-01 to 2020-01-01 |
+| `wijzigingswet-ziekenfondswet-en-awbz-toepasselijkheid-van-afdeling-7-1-awb` | Wijzigingswet Ziekenfondswet en AWBZ (toepasselijkheid van Afdeling 7.1 Awb) | 1 | 1997-10-31 to 1997-10-31 |
+| `wijzigingswet-financiele-verhoudingswet-enz-herziening-verdeelstelsel-provinciefonds` | Wijzigingswet Financiele-verhoudingswet enz. (herziening verdeelstelsel Provinciefonds) | 1 | 2005-01-01 to 2005-01-01 |
+| `wet-tot-aanvulling-van-de-wet-milieubeheer-gevolgen-gesloten-stortplaatsen-voor-het-milieu` | Wet tot aanvulling van de Wet milieubeheer (gevolgen gesloten stortplaatsen voor het milieu) | 1 | 1998-04-01 to 1998-04-01 |
+| `wijzigingswet-wet-op-het-basisonderwijs-enz-ouderbijdragen-sponsorgelden-en-stichtings-en` | Wijzigingswet Wet op het basisonderwijs, enz. (ouderbijdragen, sponsorgelden en stichtings- en opheffingsnormen) | 1 | 2013-07-04 to 2013-07-04 |
+| `wijzigingswet-mediawet-herziening-organisatiestructuur-van-de-landelijke-publieke-omroep` | Wijzigingswet Mediawet (herziening organisatiestructuur van de landelijke publieke omroep) | 1 | 1999-01-01 to 1999-01-01 |
+| `wet-inzake-bloedvoorziening` | Wet inzake bloedvoorziening | 1 | 2023-10-05 to 2023-10-05 |
+| `wijzigingswet-organisatiewet-sociale-verzekeringen-1997-geintegreerd-middelenbeheer` | Wijzigingswet Organisatiewet sociale verzekeringen 1997 (geïntegreerd middelenbeheer) | 1 | 1999-07-01 to 1999-07-01 |
+| `aanpassingswet-geregistreerd-partnerschap` | Aanpassingswet geregistreerd partnerschap | 1 | 1999-09-01 to 1999-09-01 |
+| `kaderwet-subsidies-verkeer-en-waterstaat` | Kaderwet subsidies Verkeer en Waterstaat | 1 | 2009-11-25 to 2009-11-25 |
+| `wijzigingswet-enkele-belastingwetten-c-a-belastingplan-1998` | Wijzigingswet enkele belastingwetten c.a. (belastingplan 1998) | 1 | 2000-01-01 to 2000-01-01 |
+| `wijzigingswet-belastingwetten-fiscale-structuurversterking` | Wijzigingswet belastingwetten (fiscale structuurversterking) | 1 | 1998-02-13 to 1998-02-13 |
+| `wijzigingswet-enkele-belastingwetten-c-a-1998-fiscale-milieuversterking` | Wijzigingswet enkele belastingwetten c.a. 1998 (fiscale milieuversterking) | 1 | 2015-06-12 to 2015-06-12 |
+| `wijzigingswet-van-technische-aard-van-belastingwetten` | Wijzigingswet van technische aard van belastingwetten | 1 | 1998-01-01 to 1998-01-01 |
+| `wijzigingswet-inkomstenbelasting-1964-c-a-aanpassing-oudedagsreserve-en-zelfstandigenaftre` | Wijzigingswet inkomstenbelasting 1964 c.a. (aanpassing oudedagsreserve en zelfstandigenaftrek en vervallen vermogensaftrek) | 1 | 1998-01-01 to 1998-01-01 |
+| `wijzigingswet-algemene-wet-inzake-rijksbelastingen-enz-herziening-stelsel-van-bestuurlijke` | Wijzigingswet Algemene wet inzake rijksbelastingen, enz. (herziening stelsel van bestuurlijke boeten en fiscale strafrecht) | 1 | 1998-01-01 to 1998-01-01 |
+| `wet-houdende-verschaffen-van-wettelijke-basis-voor-uitkeringen-en-subsidies-op-terreinen-v` | Wet houdende verschaffen van wettelijke basis voor uitkeringen en subsidies op terreinen van maatschappelijke opvang en verslavingsbeleid | 1 | 1998-01-01 to 1998-01-01 |
+| `wet-herziening-afstammingsrecht-en-regeling-van-adoptie` | Wet herziening afstammingsrecht en regeling van adoptie | 1 | 1998-04-01 to 1998-04-01 |
+| `wijzigingswet-wetboek-van-strafvordering-de-dagvaardingstermijn-voor-de-politierechter-de` | Wijzigingswet Wetboek van Strafvordering (de dagvaardingstermijn voor de politierechter, de oproeping in kantongerechtszaken en het instellen van hoger beroep) | 1 | 1998-02-01 to 1998-02-01 |
+| `wijzigingswet-wetboek-van-strafvordering-herziening-onderzoek-ter-terechtzitting` | Wijzigingswet Wetboek van Strafvordering (herziening onderzoek ter terechtzitting) | 1 | 1998-02-01 to 1998-02-01 |
+| `wijzigingswet-wetboek-van-strafvordering-rechtsgeding-voor-de-politierechter-mededeling-va` | Wijzigingswet Wetboek van Strafvordering (rechtsgeding voor de politierechter, mededeling van vonnissen en arresten met het oog op instellen van een rechtsmiddel en het kennisgeven en het ingaan van de proeftijd bij een voorwaardelijke veroordeling) | 1 | 1998-02-02 to 1998-02-02 |
+| `wijzigingswet-wet-balansverkorting-geldelijke-steun-volkshuisvesting-aanvullende-bijdrage` | Wijzigingswet Wet balansverkorting geldelijke steun volkshuisvesting (aanvullende bijdrage) | 1 | 1998-02-04 to 1998-02-04 |
+| `wet-tot-intrekking-van-de-wet-havenschap-vlissingen-en-de-wet-havenschap-terneuzen` | Wet tot intrekking van de Wet Havenschap Vlissingen en de Wet Havenschap Terneuzen | 1 | 1998-02-25 to 1998-02-25 |
+| `wet-op-de-organisatie-zorgonderzoek-nederland` | Wet op de organisatie ZorgOnderzoek Nederland | 1 | 2025-01-01 to 2025-01-01 |
+| `wet-op-de-staatscommissie-voor-het-internationaal-privaatrecht` | Wet op de Staatscommissie voor het internationaal privaatrecht | 1 | 1998-04-15 to 1998-04-15 |
+| `wijzigingswet-wet-op-de-ondernemingsraden-en-titel-7-10-arbeidsovereenkomst-nieuw-burgerli` | Wijzigingswet Wet op de ondernemingsraden en titel 7.10 (arbeidsovereenkomst) nieuw Burgerlijk Wetboek | 1 | 1999-01-01 to 1999-01-01 |
+| `wijzigingswet-wet-rechtspositie-rechterlijke-ambtenaren-enz-arbeidsvoorwaarden-rechterlijk` | Wijzigingswet Wet rechtspositie rechterlijke ambtenaren, enz. (arbeidsvoorwaarden Rechterlijke Macht 1995/97) | 1 | 2003-12-01 to 2003-12-01 |
+| `wet-inzake-het-merken-van-kneedspringstoffen` | Wet inzake het merken van kneedspringstoffen | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-medisch-wetenschappelijk-onderzoek-met-mensen` | Wet medisch-wetenschappelijk onderzoek met mensen | 1 | 2025-01-01 to 2025-01-01 |
+| `kaderwet-vws-subsidies` | Kaderwet VWS-subsidies | 1 | 2025-01-01 to 2025-01-01 |
+| `wijzigingswet-wet-toezicht-kredietwezen-1992-verbetering-effectiviteit` | Wijzigingswet Wet toezicht kredietwezen 1992 (verbetering effectiviteit) | 1 | 1998-05-15 to 1998-05-15 |
+| `wet-op-de-commissie-van-advies-inzake-volkenrechtelijke-vraagstukken` | Wet op de Commissie van advies inzake volkenrechtelijke vraagstukken | 1 | 1998-04-17 to 1998-04-17 |
+| `wet-op-de-adviesraad-internationale-vraagstukken` | Wet op de Adviesraad internationale vraagstukken | 1 | 1998-04-15 to 1998-04-15 |
+| `wet-inzake-gemeenschappelijke-wisselkoersarrangementen-van-de-euro-alsmede-wijziging-van-e` | Wet inzake gemeenschappelijke wisselkoersarrangementen van de euro, alsmede wijziging van enkele andere wetten | 1 | 1999-01-01 to 1999-01-01 |
+| `uitvoeringswet-e-g-verordening-inzake-het-gemeenschapsmerk` | Uitvoeringswet E.G.-verordening inzake het Gemeenschapsmerk | 1 | 2023-01-01 to 2023-01-01 |
+| `wijzigingswet-vreemdelingenwet-en-enige-andere-wetten-koppeling-aanspraak-van-vreemdelinge` | Wijzigingswet Vreemdelingenwet en enige andere wetten (koppeling aanspraak van vreemdelingen jegens bestuursorganen op verstrekkingen, voorzieningen, uitkeringen, ontheffingen en vergunningen aan het rechtmatig verblijf van de vreemdeling in Nederland) | 1 | 1998-08-01 to 1998-08-01 |
+| `wijzigingswet-wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek-en-wet-op-de-studie` | Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek en Wet op de studiefinanciering (uitvoering van in het hoger onderwijs- en onderzoekplan 1996 aangekondigde maatregelen) | 1 | 2005-08-03 to 2005-08-03 |
+| `wijzigingswet-wet-op-het-basisonderwijs-enz-het-totstandbrengen-van-onder-meer-een-wet-op` | Wijzigingswet Wet op het basisonderwijs, enz. (het totstandbrengen van onder meer een Wet op het primair onderwijs en een Wet op de expertisecentra) | 1 | 2020-04-01 to 2020-04-01 |
+| `wijzigingswet-algemene-bijstandswet-enz-terugvordering-en-verhaal-ivm-herziening-van-het-d` | Wijzigingswet Algemene bijstandswet, enz. (terugvordering en verhaal ivm herziening van het debiteurenbeleid) | 1 | 1999-01-01 to 1999-01-01 |
+| `wijzigingswet-huursubsidiewet-vangnetregeling-huursubsidie` | Wijzigingswet Huursubsidiewet (vangnetregeling huursubsidie) | 1 | 1998-10-01 to 1998-10-01 |
+| `aanwijzingswet-controleautoriteit-ex-artikel-37-verordening-betreffende-de-wederzijdse-bij` | Aanwijzingswet controleautoriteit ex artikel 37, verordening betreffende de wederzijdse bijstand tussen de administratieve autoriteiten van de lidstaten en de samenwerking tussen deze autoriteiten en de Commissie met het oog op de juiste toepassing van de douane- en landbouwvoorschriften | 1 | 2001-09-01 to 2001-09-01 |
+| `wet-houdende-voorschriften-betreffende-onder-meer-instelling-van-voortgezette-kunstopleidi` | Wet houdende voorschriften betreffende onder meer instelling van voortgezette kunstopleidingen op het gebied van de muziek met ingang van het studiejaar 1998–1999 | 1 | 1998-05-20 to 1998-05-20 |
+| `wijzigingswet-burgerlijk-wetboek-het-buitengewoon-besluit-arbeidsverhoudingen-1945-enz-fle` | Wijzigingswet Burgerlijk Wetboek, het Buitengewoon Besluit Arbeidsverhoudingen 1945 enz. (Flexibiliteit en zekerheid) | 1 | 2006-12-20 to 2006-12-20 |
+| `wijzigingswet-machtigingswet-koninklijke-ptt-nederland-n-v-enz-juridische-splitsing-van-ko` | Wijzigingswet Machtigingswet Koninklijke PTT Nederland N.V., enz. (juridische splitsing van Koninklijke PTT Nederland N.V.) | 1 | 1998-06-28 to 1998-06-28 |
+| `wet-tegemoetkoming-schade-bij-rampen` | Wet tegemoetkoming schade bij rampen | 1 | 2021-07-01 to 2021-07-01 |
+| `wet-samenvoeging-gemeenten-gulpen-en-wittem` | Wet samenvoeging gemeenten Gulpen en Wittem | 1 | 1998-06-19 to 1998-06-19 |
+| `wijzigingswet-ziektewet-wao-ww-en-enkele-andere-wetten-inzake-wegnemen-van-belemmeringen-i` | Wijzigingswet Ziektewet, WAO, WW en enkele andere wetten inzake wegnemen van belemmeringen in sociale verzekeringswetten bij het opnemen van onbetaald verlof | 1 | 1998-10-01 to 1998-10-01 |
+| `wijzigingswet-wet-op-de-vennootschapsbelasting-1969-enz-fiscale-begeleiding-van-de-overgan` | Wijzigingswet Wet op de vennootschapsbelasting 1969, enz. (fiscale begeleiding van de overgang van vermogen onder algemene titel bij rechtspersonen op de voet van Boek 2 van het BW) | 1 | 1998-06-24 to 1998-06-24 |
+| `wijzigingswet-wet-nationale-ombudsman-en-de-wet-openbaarheid-van-bestuur` | Wijzigingswet Wet Nationale ombudsman en de Wet openbaarheid van bestuur | 1 | 1999-01-01 to 1999-01-01 |
+| `wet-tot-samenvoeging-van-de-gemeenten-buren-lienden-en-maurik` | Wet tot samenvoeging van de gemeenten Buren, Lienden en Maurik | 1 | 1998-07-15 to 1998-07-15 |
+| `wijzigingswet-wet-op-de-loonbelasting-1964-enz-aanpassing-heffing-ter-zake-van-aandelenopt` | Wijzigingswet Wet op de loonbelasting 1964, enz. (aanpassing heffing ter zake van aandelenoptierechten) | 1 | 1998-06-26 to 1998-06-26 |
+| `wijzigingswet-wegenverkeerswet-1994-verhoging-maximumstraffen-voor-ernstige-vormen-van-roe` | Wijzigingswet Wegenverkeerswet 1994 (verhoging maximumstraffen voor ernstige vormen van roekeloos rijgedrag en verbetering regelingen inzake invordering en inhouding van rijbewijzen en inzake bijkomende straf van ontzegging van de bevoegdheid tot het besturen van motorrijtuigen) | 1 | 1998-10-01 to 1998-10-01 |
+| `wijzigingswet-faillissementswet-sanering-van-schulden-van-natuurlijke-personen` | Wijzigingswet Faillissementswet (sanering van schulden van natuurlijke personen) | 1 | 1998-12-01 to 1998-12-01 |
+| `wijzigingswet-wet-educatie-en-beroepsonderwijs-regeling-decentralisatie-wachtgelduitgaven` | Wijzigingswet Wet educatie en beroepsonderwijs (Regeling decentralisatie wachtgelduitgaven bve) | 1 | 1998-08-01 to 1998-08-01 |
+| `wijzigingswet-onteigeningswet-herziening-administratieve-onteigeningsprocedure-voor-uitvoe` | Wijzigingswet onteigeningswet (herziening administratieve onteigeningsprocedure voor uitvoering van werken en enige andere doeleinden) | 1 | 1998-11-01 to 1998-11-01 |
+| `wet-tot-gemeentelijke-herindeling-gemeenten-deventer-diepenveen-en-bathmen` | Wet tot gemeentelijke herindeling gemeenten Deventer, Diepenveen en Bathmen | 1 | 1998-07-29 to 1998-07-29 |
+| `wijzigingswet-wet-incompatibiliteiten-staten-generaal-en-europees-parlement-non-activiteit` | Wijzigingswet Wet Incompatibiliteiten Staten-Generaal en Europees parlement (non-activiteitsbepalingen) | 1 | 2006-10-11 to 2006-10-11 |
+| `wet-gemeentelijke-herindeling-bommelerwaard` | Wet gemeentelijke herindeling Bommelerwaard | 1 | 1998-09-11 to 1998-09-11 |
+| `wijzigingswet-wetboek-van-strafvordering-uitleveringswet-enz-bepalingen-procedure-in-cassa` | Wijzigingswet Wetboek van Strafvordering, Uitleveringswet enz. (bepalingen procedure in cassatie in strafzaken, herzieningszaken, uitleveringszaken en zaken in het kader van de Wet overdracht tenuitvoerlegging strafvonnissen) | 1 | 1999-06-01 to 1999-06-01 |
+| `wet-verhoging-grens-bevoegdheid-kantonrechters-en-appellabiliteit-van-vonnissen-van-deze-r` | Wet verhoging grens bevoegdheid kantonrechters en appellabiliteit van vonnissen van deze rechters in burgerlijke zaken | 1 | 1999-01-01 to 1999-01-01 |
+| `wijzigingswet-vreemdelingenwet-wettelijke-vastlegging-van-de-machtiging-tot-voorlopig-verb` | Wijzigingswet Vreemdelingenwet (wettelijke vastlegging van de machtiging tot voorlopig verblijf) | 1 | 1998-12-11 to 1998-12-11 |
+| `wet-herziening-fiscale-procesrecht` | Wet herziening fiscale procesrecht | 1 | 2000-09-20 to 2000-09-20 |
+| `wet-instelling-van-een-in-nederland-zetelend-schots-hof-voor-de-strafrechtelijke-vervolgin` | Wet instelling van een in Nederland zetelend Schots Hof voor de strafrechtelijke vervolging van de personen, aangeduid als «the two accused» in Resolutie 1192 (1998) | 1 | 1998-11-14 to 1998-11-14 |
+| `wet-schuldredenominatie` | Wet schuldredenominatie | 1 | 1999-01-01 to 1999-01-01 |
+| `goedkeurings-en-uitvoeringswet-verdrag-inzake-de-verzameling-afgifte-en-inname-van-afval-i` | Goedkeurings- en uitvoeringswet Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart | 1 | 2011-01-01 to 2011-01-01 |
+| `wijzigingswet-wet-justitie-subsidies-opnemen-van-een-tijdelijke-grondslag-voor-de-subsidie` | Wijzigingswet Wet Justitie-subsidies (opnemen van een tijdelijke grondslag voor de subsidiëring van de reclassering) | 1 | 1999-03-01 to 1999-03-01 |
+| `wijzigingswet-wet-conflictenrecht-huwelijk` | Wijzigingswet Wet conflictenrecht huwelijk | 1 | 1999-01-15 to 1999-01-15 |
+| `wet-vervanging-referentierentes` | Wet vervanging referentierentes | 1 | 2021-07-01 to 2021-07-01 |
+| `wet-overgang-belastingheffing-in-euro-s` | Wet overgang belastingheffing in euro's | 1 | 2026-07-01 to 2026-07-01 |
+| `wijzigingswet-enkele-belastingwetten-c-a-belastingplan-1999` | Wijzigingswet enkele belastingwetten c.a. (belastingplan 1999) | 1 | 2000-08-01 to 2000-08-01 |
+| `wijzigingswet-wet-vermindering-afdracht-loonbelasting-en-premie-voor-de-volksverzekeringen` | Wijzigingswet Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen en de Wet op de inkomstenbelasting 1964 | 1 | 1999-01-01 to 1999-01-01 |
+| `goedkeuringswet-protocol-tot-wijziging-overeenkomst-tussen-nederland-en-malta-tot-het-verm` | Goedkeuringswet Protocol tot wijziging Overeenkomst tussen Nederland en Malta tot het vermijden van dubbele belasting | 1 | 1998-12-30 to 1998-12-30 |
+| `wijzigingswet-wet-conflictenrecht-namen-inzake-totstandkoming-wijzigingswet-artikelen-5-en` | Wijzigingswet Wet conflictenrecht namen inzake totstandkoming Wijzigingswet artikelen 5 en 9 van Boek 1 Burgerlijk Wetboek | 1 | 1999-02-15 to 1999-02-15 |
+| `wet-uitvoering-antiboycotverordening` | Wet uitvoering antiboycotverordening | 1 | 2019-01-01 to 2019-01-01 |
+| `rijkswet-houdende-goedkeuring-verdrag-van-amsterdam-houdende-wijziging-verdrag-betreffende` | Rijkswet houdende goedkeuring Verdrag van Amsterdam houdende wijziging Verdrag betreffende de Europese Unie, de Verdragen tot oprichting van de Europese Gemeenschappen | 1 | 2008-07-25 to 2008-07-25 |
+| `kaderwet-subsidies-ministerie-van-buitenlandse-zaken` | Kaderwet subsidies Ministerie van Buitenlandse Zaken | 1 | 2021-07-01 to 2021-07-01 |
+| `wijzigingswet-burgerlijk-wetboek-buitengewoon-besluit-arbeidsverhoudingen-1945-enz-reparat` | Wijzigingswet Burgerlijk Wetboek, Buitengewoon Besluit Arbeidsverhoudingen 1945, enz. (Reparatiewet flexibiliteit en zekerheid) | 1 | 1999-01-01 to 1999-01-01 |
+| `wijzigingswet-algemene-wet-bestuursrecht-enz-verhoging-van-de-opbrengst-van-griffierechten` | Wijzigingswet Algemene wet bestuursrecht, enz. (verhoging van de opbrengst van griffierechten) | 1 | 1999-09-01 to 1999-09-01 |
+| `wijzigingswet-wet-op-de-kansspelen-speelautomaten` | Wijzigingswet Wet op de kansspelen (speelautomaten) | 1 | 2000-06-01 to 2000-06-01 |
+| `reparatiewet-i` | Reparatiewet I | 1 | 2005-08-03 to 2005-08-03 |
+| `wet-opheffing-bedrijfschap-detailhandel-in-aardappelen-groenten-en-fruit` | Wet opheffing Bedrijfschap Detailhandel in Aardappelen, Groenten en Fruit | 1 | 1999-04-16 to 1999-04-16 |
+| `wijzigingswet-mediawet-privatisering-van-het-nederlands-omroepproduktie-bedrijf-n-v` | Wijzigingswet Mediawet (privatisering van het Nederlands Omroepproduktie Bedrijf N.V.) | 1 | 2004-02-13 to 2004-02-13 |
+| `wet-houdende-machtiging-tot-medewerking-aan-de-oprichting-van-een-waarborgfonds-voor-de-zo` | Wet houdende machtiging tot medewerking aan de oprichting van een Waarborgfonds voor de zorgsector | 1 | 1999-05-21 to 1999-05-21 |
+| `wijzigingswet-wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek-aanpassingen-in-sys` | Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek (aanpassingen in systeem van selectie voor opleidingen waarvoor een toelatingsbeperking is vastgesteld) | 1 | 2005-08-03 to 2005-08-03 |
+| `wijzigingswet-wet-op-de-rechterlijke-organisatie-enz-reorganisatie-openbaar-ministerie-en` | Wijzigingswet Wet op de rechterlijke organisatie, enz. (reorganisatie openbaar ministerie en instelling landelijk parket) | 1 | 1999-06-01 to 1999-06-01 |
+| `remigratiewet` | Remigratiewet | 1 | 2023-10-01 to 2023-10-01 |
+| `wijzigingswet-bepalingen-in-de-wet-milieubeheer-met-betrekking-tot-milieu-effectrapportage` | Wijzigingswet bepalingen in de Wet milieubeheer met betrekking tot milieu-effectrapportage | 1 | 1999-05-26 to 1999-05-26 |
+| `wet-fiscale-behandeling-van-pensioenen` | Wet fiscale behandeling van pensioenen | 1 | 1999-10-01 to 1999-10-01 |
+| `wijzigingswet-huursubsidiewet-mogelijk-maken-van-jaarlijkse-verhoging-van-de-maximale-huur` | Wijzigingswet Huursubsidiewet (mogelijk maken van jaarlijkse verhoging van de maximale huurgrens en enkele andere wijzigingen) | 1 | 1999-07-01 to 1999-07-01 |
+| `wijzigingswet-wet-luchtverkeer-luchtvaartuigen-en-vluchtuitvoering` | Wijzigingswet Wet Luchtverkeer (luchtvaartuigen en vluchtuitvoering) | 1 | 2010-07-07 to 2010-07-07 |
+| `wet-aanvulling-algemene-wet-bestuursrecht-met-een-regeling-over-de-behandeling-van-klachte` | Wet aanvulling Algemene wet bestuursrecht met een regeling over de behandeling van klachten door bestuursorganen | 1 | 2005-03-15 to 2005-03-15 |
+| `wijzigingswet-huurprijzenwet-woonruimte-enz-introductie-afzonderlijke-huurcommissie-proced` | Wijzigingswet Huurprijzenwet woonruimte enz. (introductie afzonderlijke huurcommissie-procedure, wijziging regeling m.b.t. aan de Staat verschuldigde vergoeding voor advies of uitspraak door huurcommissie en wijziging toezicht op de huurcommissies) | 1 | 1999-11-30 to 1999-11-30 |
+| `wijzigingswet-wetboek-van-strafvordering-herziening-van-het-gerechtelijk-vooronderzoek` | Wijzigingswet Wetboek van Strafvordering (herziening van het gerechtelijk vooronderzoek) | 1 | 2000-02-01 to 2000-02-01 |
+| `wijzigingswet-wet-politieregisters-bijzondere-politieregisters` | Wijzigingswet Wet politieregisters (bijzondere politieregisters) | 1 | 2000-02-01 to 2000-02-01 |
+| `wijzigingswet-wetboek-van-strafvordering-bijzondere-opsporingsbevoegdheden` | Wijzigingswet Wetboek van Strafvordering (bijzondere opsporingsbevoegdheden) | 1 | 2000-02-01 to 2000-02-01 |
+| `wet-beperking-export-uitkeringen` | Wet beperking export uitkeringen | 1 | 2000-01-01 to 2000-01-01 |
+| `rijkswet-tot-wijziging-wet-militair-tuchtrecht-enz-aanpassingen-n-a-v-gehouden-evaluatie-o` | Rijkswet tot wijziging Wet militair tuchtrecht, enz. (aanpassingen n.a.v. gehouden evaluatie-onderzoek) | 1 | 2000-01-01 to 2000-01-01 |
+| `wijzigingswet-wet-op-de-studiefinanciering-onderbrengen-van-de-reisvoorziening-in-de-prest` | Wijzigingswet Wet op de studiefinanciering (onderbrengen van de reisvoorziening in de prestatiebeurs) | 1 | 2000-09-01 to 2000-09-01 |
+| `rijkswet-administratieve-bijstand-douane` | Rijkswet administratieve bijstand douane | 1 | 2010-10-10 to 2010-10-10 |
+| `wijzigingswet-wet-op-de-ruimtelijke-ordening-1999` | Wijzigingswet Wet op de Ruimtelijke Ordening (1999) | 1 | 2003-05-23 to 2003-05-23 |
+| `wijzigingswet-interimwet-ammoniak-en-veehouderij-verlenging-einde-legalisering` | Wijzigingswet Interimwet ammoniak en veehouderij (verlenging; einde legalisering) | 1 | 1999-08-26 to 1999-08-26 |
+| `wet-tot-samenvoeging-van-de-gemeenten-bergen-egmond-en-schoorl` | Wet tot samenvoeging van de gemeenten Bergen, Egmond en Schoorl | 1 | 2000-01-02 to 2000-01-02 |
+| `wet-tot-samenvoeging-van-de-gemeenten-hoevelaken-en-nijkerk` | Wet tot samenvoeging van de gemeenten Hoevelaken en Nijkerk | 1 | 1999-09-01 to 1999-09-01 |
+| `wijzigingswet-wet-luchtverkeer-implementatie-lvb-evaluatie` | Wijzigingswet Wet Luchtverkeer (implementatie LVB-evaluatie) | 1 | 2001-10-01 to 2001-10-01 |
+| `wet-intrekking-wet-stimulering-zeescheepvaart` | Wet intrekking Wet stimulering zeescheepvaart | 1 | 1999-08-04 to 1999-08-04 |
+| `wijzigingswet-wet-op-de-inkomstenbelasting-1964-technische-aard` | Wijzigingswet Wet op de inkomstenbelasting 1964 (technische aard) | 1 | 1999-10-01 to 1999-10-01 |
+| `wijzigingswet-boek-2-van-het-burgerlijk-wetboek-invoering-regeling-voor-de-vervanging-van` | Wijzigingswet Boek 2 van het Burgerlijk Wetboek (invoering regeling voor de vervanging van verloren gegane aandeelbewijzen en intrekking van de Effectenvernieuwingswet) | 1 | 1999-11-01 to 1999-11-01 |
+| `wijzigingswet-wet-educatie-en-beroepsonderwijs-erkenning-diploma-s-niet-uit-rijksbijdrage` | Wijzigingswet Wet educatie en beroepsonderwijs (erkenning diploma's niet uit rijksbijdrage gefinancierde educatie) | 1 | 1999-10-06 to 1999-10-06 |
+| `wijzigingswet-wet-op-het-primair-onderwijs-enz-regeling-verbetering-functioneren-vervangin` | Wijzigingswet Wet op het primair onderwijs, enz. (regeling verbetering functioneren vervangings- en participatiefonds) | 1 | 1999-10-29 to 1999-10-29 |
+| `wijzigingswet-wegenverkeerswet-1994-afgifte-en-inname-van-kentekenplaten` | Wijzigingswet Wegenverkeerswet 1994 (afgifte en inname van kentekenplaten) | 1 | 2000-02-01 to 2000-02-01 |
+| `wijzigingswet-wet-toezicht-verzekeringsbedrijf-1993-enz-vergroten-effectiviteit-bedrijfsec` | Wijzigingswet Wet toezicht verzekeringsbedrijf 1993, enz. (vergroten effectiviteit bedrijfseconomisch toezicht) | 1 | 1999-11-17 to 1999-11-17 |
+| `wijzigingswet-wetboek-van-strafvordering-enz-uitsluiting-beroep-in-lichte-overtredingszake` | Wijzigingswet Wetboek van Strafvordering, enz. (uitsluiting beroep in lichte overtredingszaken en invoering verplichte schriftuur van een advocaat) | 1 | 2000-10-01 to 2000-10-01 |
+| `wijzigingswet-wet-op-de-rechterlijke-organisatie-enz-vervanging-in-mulder-zaken-van-beroep` | Wijzigingswet Wet op de rechterlijke organisatie, enz. (vervanging in Mulder-zaken van beroep in cassatie door hoger beroep bij het gerechtshof Leeuwarden) | 1 | 2000-01-01 to 2000-01-01 |
+| `wijzigingswet-wet-toezicht-beleggingsinstellingen-enz-opneming-bepalingen-betreffende-hand` | Wijzigingswet Wet toezicht beleggingsinstellingen, enz. (opneming bepalingen betreffende handhaving dmv een dwangsom of bestuurlijke boete en bepalingen betreffende de rechtsgang) | 1 | 2000-01-01 to 2000-01-01 |
+| `wijzigingswet-warenwet-invoering-van-bestuursrechtelijke-boeten-wegens-overtredingen-van-v` | Wijzigingswet Warenwet (invoering van bestuursrechtelijke boeten wegens overtredingen van voorschriften bij of krachtens de Warenwet gesteld) | 1 | 2018-11-17 to 2018-11-17 |
+| `wijzigingswet-wegenverkeerswet-1994-algemene-periodieke-keuring` | Wijzigingswet Wegenverkeerswet 1994 (Algemene Periodieke Keuring) | 1 | 2000-03-01 to 2000-03-01 |
+| `wijzigingswet-boek-2-burgerlijk-wetboek-bepalen-registratiedatum-voor-uitoefening-van-stem` | Wijzigingswet boek 2 Burgerlijk Wetboek (bepalen registratiedatum voor uitoefening van stem- en vergaderrechten in de naamloze vennootschap) | 1 | 1999-12-15 to 1999-12-15 |
+| `wijzigingswet-wet-beheer-rijkswaterstaatswerken-enz-rijksrivieren` | Wijzigingswet Wet beheer rijkswaterstaatswerken, enz. (rijksrivieren) | 1 | 1999-12-22 to 1999-12-22 |
+| `wet-grenswijziging-gemeenten-deventer-en-gorssel-tevens-provinciegrens-tussen-overijssel-e` | Wet grenswijziging gemeenten Deventer en Gorssel tevens provinciegrens tussen Overijssel en Gelderland | 1 | 1999-12-22 to 1999-12-22 |
+| `wijzigingswet-wet-op-de-inkomstenbelasting-1964-enz-technische-aanpassingen-1999` | Wijzigingswet Wet op de inkomstenbelasting 1964, enz. (technische aanpassingen 1999) | 1 | 2000-07-01 to 2000-07-01 |
+| `wijzigingswet-wet-belastingen-op-milieugrondslag-enz-bevorderen-van-energiezuinig-en-milie` | Wijzigingswet Wet belastingen op milieugrondslag, enz. (bevorderen van energiezuinig en milieuvriendelijk gedrag) | 1 | 2000-07-07 to 2000-07-07 |
+| `intrekkingswet-wet-regeling-onderwijs-van-rijkswege-in-beeldende-kunsten` | Intrekkingswet Wet regeling onderwijs van Rijkswege in beeldende kunsten | 1 | 2004-02-13 to 2004-02-13 |
+| `wijzigingswet-mediawet-afschaffing-omroepbijdrage` | Wijzigingswet Mediawet (afschaffing omroepbijdrage) | 1 | 2002-01-01 to 2002-01-01 |
+| `wijzigingswet-wet-op-de-inkomstenbelasting-1964-enz-belastingplan-2000` | Wijzigingswet Wet op de inkomstenbelasting 1964, enz. (belastingplan 2000) | 1 | 2001-12-29 to 2001-12-29 |
+| `wijzigingswet-wet-assurantiebemiddelingsbedrijf-project-marktwerking-deregulering-en-wetge` | Wijzigingswet Wet assurantiebemiddelingsbedrijf (project Marktwerking, Deregulering en Wetgevingskwaliteit en evaluatie van doelmatigheid van de wet) | 1 | 2002-04-01 to 2002-04-01 |
+| `wijzigingswet-pensioen-en-spaarfondsenwet-enz-wijziging-psw-in-verband-met-toezicht-verbod` | Wijzigingswet Pensioen- en spaarfondsenwet, enz. (wijziging PSW in verband met toezicht, verbod op uitstelfinanciering en waardeoverdracht) | 1 | 2001-01-17 to 2001-01-17 |
+| `wet-socialezekerheidsrechten-gedetineerden` | Wet socialezekerheidsrechten gedetineerden | 1 | 2009-03-25 to 2009-03-25 |
+| `wijzigingswet-wet-op-de-geneesmiddelenvoorziening-2` | Wijzigingswet Wet op de geneesmiddelenvoorziening | 1 | 2000-04-01 to 2000-04-01 |
+| `wet-flexibel-werken` | Wet flexibel werken | 1 | 2025-01-01 to 2025-01-01 |
+| `wijzigingswet-mediawet-inzake-invoering-van-een-vernieuwd-concessiestelsel-voor-de-landeli` | Wijzigingswet Mediawet inzake invoering van een vernieuwd concessiestelsel voor de landelijke publieke omroep | 1 | 2004-07-21 to 2004-07-21 |
+| `wijzigingswet-sanctiewet-1977-enz-vereenvoudiging-implementatie-van-internationale-verplic` | Wijzigingswet Sanctiewet 1977, enz. (vereenvoudiging implementatie van internationale verplichtingen) | 1 | 2000-05-17 to 2000-05-17 |
+| `wijzigingswet-wet-milieubeheer-meldingenstelsel` | Wijzigingswet Wet milieubeheer (meldingenstelsel) | 1 | 2000-10-01 to 2000-10-01 |
+| `wijzigingswet-regulerende-energiebelasting-ivm-beeindigen-nihiltarief-voor-verbruik-aardga` | Wijzigingswet regulerende energiebelasting ivm beëindigen nihiltarief voor verbruik aardgas en minerale oliën door glastuinbouw | 1 | 2000-05-17 to 2000-05-17 |
+| `wijzigingswet-pensioen-en-spaarfondsenwet-met-betrekking-tot-medezeggenschap-van-gepension` | Wijzigingswet Pensioen- en spaarfondsenwet met betrekking tot medezeggenschap van gepensioneerden en gelijkstelling in pensioenregelingen van geregistreerde partners met gehuwden | 1 | 2000-06-23 to 2000-06-23 |
+| `wijzigingswet-huurprijzenwet-woonruimte-enz-wijziging-percentages` | Wijzigingswet Huurprijzenwet woonruimte, enz. (wijziging percentages) | 1 | 2000-07-01 to 2000-07-01 |
+| `wijzigingswet-mediawet-en-tabakswet-implementatie-wijziging-richtlijn-televisie-zonder-gre` | Wijzigingswet Mediawet en Tabakswet (implementatie wijziging richtlijn «Televisie zonder grenzen») | 1 | 2004-02-13 to 2004-02-13 |
+| `goedkeuringswet-dis-overeenkomst` | Goedkeuringswet DIS-Overeenkomst | 1 | 2013-01-01 to 2013-01-01 |
+| `goedkeuringswet-overeenkomst-ex-artikel-k-3-verdrag-betreffende-de-europese-unie-inzake-we` | Goedkeuringswet Overeenkomst ex artikel K.3 Verdrag betreffende de Europese Unie inzake wederzijdse bijstand en samenwerking tussen de douaneadministraties (Trb. 1998, 174) | 1 | 2013-01-01 to 2013-01-01 |
+| `wet-opheffing-college-van-beroep-studiefinanciering` | Wet opheffing College van beroep studiefinanciering | 1 | 2001-01-01 to 2001-01-01 |
+| `wet-gemeentelijke-herindeling-west-overijssel` | Wet gemeentelijke herindeling West-Overijssel | 1 | 2000-07-28 to 2000-07-28 |
+| `wet-gemeentelijke-herindeling-over-betuwe` | Wet gemeentelijke herindeling Over-Betuwe | 1 | 2000-08-09 to 2000-08-09 |
+| `wijzigingswet-wet-inkomensvoorziening-kunstenaars-niet-langer-uitsluiten-van-kunstenaars-m` | Wijzigingswet Wet inkomensvoorziening kunstenaars (niet langer uitsluiten van kunstenaars met een eigen woning) | 1 | 2005-01-01 to 2005-01-01 |
+| `wet-gemeentelijke-herindeling-deel-provincie-utrecht` | Wet gemeentelijke herindeling deel provincie Utrecht | 1 | 2000-07-21 to 2000-07-21 |
+| `wijzigingswet-tracewet-eerste-tranche` | Wijzigingswet Tracéwet (eerste tranche) | 1 | 2000-10-15 to 2000-10-15 |
+| `wijzigingswet-wetboek-van-strafrecht-enz-straf-van-onbetaalde-arbeid-ten-algemenen-nutte-t` | Wijzigingswet Wetboek van Strafrecht, enz. (straf van onbetaalde arbeid ten algemenen nutte (taakstraffen) | 1 | 2001-09-01 to 2001-09-01 |
+| `wet-tot-samenvoeging-van-de-gemeenten-sittard-geleen-en-born` | Wet tot samenvoeging van de gemeenten Sittard, Geleen en Born | 1 | 2000-09-15 to 2000-09-15 |
+| `wet-tot-samenvoeging-van-de-gemeenten-broekhuizen-grubbenvorst-en-horst` | Wet tot samenvoeging van de gemeenten Broekhuizen, Grubbenvorst en Horst | 1 | 2000-09-15 to 2000-09-15 |
+| `wet-tot-samenvoeging-van-de-gemeenten-venlo-tegelen-en-belfeld` | Wet tot samenvoeging van de gemeenten Venlo, Tegelen en Belfeld | 1 | 2000-09-15 to 2000-09-15 |
+| `wet-tot-gemeentelijke-herindeling-in-een-deel-van-twente` | Wet tot gemeentelijke herindeling in een deel van Twente | 1 | 2000-09-15 to 2000-09-15 |
+| `wijzigingswet-wet-luchtvaart-vervoer-van-gevaarlijke-stoffen-en-van-dieren` | Wijzigingswet Wet luchtvaart (vervoer van gevaarlijke stoffen en van dieren) | 1 | 2008-09-24 to 2008-09-24 |
+| `intrekkingswet-van-de-radio-omroep-zender-wet-1935-en-enige-daarmee-verband-houdende-wette` | Intrekkingswet van de Radio-Omroep-Zender-Wet 1935 en enige daarmee verband houdende wettelijke voorzieningen | 1 | 2004-11-10 to 2004-11-10 |
+| `wet-houdende-uitbreiding-toepassingsgebied-wet-beheer-rijkswaterstaatswerken-tot-de-exclus` | Wet houdende uitbreiding toepassingsgebied Wet beheer rijkswaterstaatswerken tot de exclusieve economische zone | 1 | 2000-12-06 to 2000-12-06 |
+| `wijzigingswet-regeling-productenaansprakelijkheid-in-het-burgerlijk-wetboek-uitbreiding-to` | Wijzigingswet regeling productenaansprakelijkheid in het Burgerlijk Wetboek (uitbreiding tot landbouwproducten) | 1 | 2000-12-04 to 2000-12-04 |
+| `wijzigingswet-titel-7-10-arbeidsovereenkomst-van-het-burgerlijk-wetboek-vakantie-en-ouders` | Wijzigingswet titel 7.10 (arbeidsovereenkomst) van het Burgerlijk Wetboek (vakantie en ouderschapsverlof) | 1 | 2001-02-01 to 2001-02-01 |
+| `wijzigingswet-regeling-boek-1-burgerlijk-wetboek-enz-naamrecht-voorkoming-van-schijnhuweli` | Wijzigingswet regeling Boek 1 Burgerlijk Wetboek, enz. (naamrecht, voorkoming van schijnhuwelijken en tijdstip van totstandkoming van scheiding van tafel en bed) | 1 | 2001-06-01 to 2001-06-01 |
+| `wet-tot-regeling-van-het-conflictenrecht-met-betrekking-tot-verevening-pensioenrechten-bij` | Wet tot regeling van het conflictenrecht met betrekking tot verevening pensioenrechten bij scheiding | 1 | 2001-03-01 to 2001-03-01 |
+| `wijzigingswet-wet-rechtspositie-rechterlijke-ambtenaren-arbeidsvoorwaarden-sector-rechterl` | Wijzigingswet Wet rechtspositie rechterlijke ambtenaren (arbeidsvoorwaarden sector Rechterlijke Macht 1997/99) | 1 | 2001-02-01 to 2001-02-01 |
+| `wijzigingswet-algemene-militaire-pensioenwet-doorvertaling-akkoord-nabestaandenpensioen-ov` | Wijzigingswet Algemene militaire pensioenwet (doorvertaling akkoord nabestaandenpensioen overheidspersoneel en enige andere wijzigingen) | 1 | 2001-01-31 to 2001-01-31 |
+| `rijkswet-tot-goedkeuring-van-enkele-verdragen-inzake-de-bestrijding-van-fraude-en-corrupti` | Rijkswet tot goedkeuring van enkele verdragen inzake de bestrijding van fraude en corruptie | 1 | 2000-12-29 to 2000-12-29 |
+| `wijzigingswet-wet-op-belastingen-van-rechtsverkeer-de-natuurschoonwet-1928-de-wet-op-de-lo` | Wijzigingswet Wet op belastingen van rechtsverkeer, de Natuurschoonwet 1928, de Wet op de loonbelasting 1964, enz. | 1 | 2007-06-01 to 2007-06-01 |
+| `wet-ondernemerspakket-2001` | Wet ondernemerspakket 2001 | 1 | 2005-12-09 to 2005-12-09 |
+| `tariefwet-2001` | Tariefwet 2001 | 1 | 2001-10-31 to 2001-10-31 |
+| `wijzigingswet-belastingwetten-c-a-belastingplan-2001` | Wijzigingswet belastingwetten c.a. (Belastingplan 2001) | 1 | 2003-01-01 to 2003-01-01 |
+| `veegwet-wet-inkomstenbelasting-2001` | Veegwet Wet inkomstenbelasting 2001 | 1 | 2002-08-29 to 2002-08-29 |
+| `wet-financiering-decentrale-overheden` | Wet financiering decentrale overheden | 1 | 2013-12-15 to 2013-12-15 |
+| `wijzigingswet-van-boek-1-van-het-burgerlijk-wetboek-adoptie-door-personen-van-hetzelfde-ge` | Wijzigingswet van Boek 1 van het Burgerlijk Wetboek (adoptie door personen van hetzelfde geslacht) | 1 | 2001-04-01 to 2001-04-01 |
+| `wijzigingswet-wetboek-van-strafrecht-enz-strafrechtelijke-opvang-verslaafden` | Wijzigingswet Wetboek van Strafrecht, enz. (strafrechtelijke opvang verslaafden) | 1 | 2004-04-01 to 2004-04-01 |
+| `wijzigingswet-huursubsidiewet-enz-vervallen-van-het-vervolgaanvraagformulier-voor-bepaalde` | Wijzigingswet Huursubsidiewet, enz. (vervallen van het vervolgaanvraagformulier voor bepaalde huurders) | 1 | 2000-12-29 to 2000-12-29 |
+| `rijkswet-tot-wijziging-rijkswet-op-het-nederlanderschap-verkrijging-verlening-en-verlies-v` | Rijkswet tot wijziging Rijkswet op het Nederlanderschap (verkrijging, verlening en verlies van het Nederlanderschap) | 1 | 2005-01-01 to 2005-01-01 |
+| `wijzigingswet-pensioen-en-spaarfondsenwet-recht-van-keuze-voor-ouderdomspensioen-i-p-v-nab` | Wijzigingswet Pensioen- en spaarfondsenwet (recht van keuze voor ouderdomspensioen i.p.v. nabestaandenpensioen en gelijke behandeling van mannen en vrouwen) | 1 | 2004-01-01 to 2004-01-01 |
+| `wet-beslistermijnen-sociale-verzekeringen` | Wet beslistermijnen sociale verzekeringen | 1 | 2004-01-01 to 2004-01-01 |
+| `wet-openstelling-huwelijk` | Wet openstelling huwelijk | 1 | 2001-04-01 to 2001-04-01 |
+| `wijzigingswet-wet-algemene-regels-herindeling-enz-wijziging-procedurele-bepalingen` | Wijzigingswet Wet algemene regels herindeling, enz. (wijziging procedurele bepalingen) | 1 | 2001-02-21 to 2001-02-21 |
+| `wijzigingswet-wet-op-de-rechterlijke-indeling-opheffing-kantongerechten-zevenbergen-en-zui` | Wijzigingswet Wet op de rechterlijke indeling (opheffing kantongerechten Zevenbergen en Zuidbroek) | 1 | 2001-05-01 to 2001-05-01 |
+| `rijkswet-tot-wijziging-paspoortwet-voorkoming-misbruik-reisdocumenten` | Rijkswet tot wijziging Paspoortwet (voorkoming misbruik reisdocumenten) | 1 | 2001-12-01 to 2001-12-01 |
+| `wet-tot-opneming-in-de-wet-toezicht-effectenverkeer-1995-van-bepalingen-betreffende-openba` | Wet tot opneming in de Wet toezicht effectenverkeer 1995 van bepalingen betreffende openbare biedingen op effecten | 1 | 2001-09-05 to 2001-09-05 |
+| `wijzigingswet-wet-toezicht-effectenverkeer-1995-toetsing-gekwalificeerde-deelnemingen-effe` | Wijzigingswet Wet toezicht effectenverkeer 1995 (toetsing gekwalificeerde deelnemingen effectenbeurzen) | 1 | 2001-06-29 to 2001-06-29 |
+| `wet-tot-wijziging-van-bepalingen-met-betrekking-tot-de-verwerking-van-persoonsgegevens` | Wet tot wijziging van bepalingen met betrekking tot de verwerking van persoonsgegevens | 1 | 2009-07-01 to 2009-07-01 |
+| `wijzigingswet-comptabiliteitswet-zevende-wijziging-van-de-comptabiliteitswet` | Wijzigingswet Comptabiliteitswet (Zevende wijziging van de Comptabiliteitswet) | 1 | 2001-05-30 to 2001-05-30 |
+| `wet-herziening-vrijwillige-verzekering-aow-en-anw` | Wet herziening vrijwillige verzekering AOW en ANW | 1 | 2001-05-09 to 2001-05-09 |
+| `goedkeuringswet-wijziging-internationaal-verdrag-voor-de-bescherming-van-planten` | Goedkeuringswet wijziging Internationaal Verdrag voor de bescherming van planten | 1 | 2001-06-22 to 2001-06-22 |
+| `wijzigingswet-boek-1-van-het-burgerlijk-wetboek-rechten-en-plichten-echtgenoten-en-geregis` | Wijzigingswet Boek 1 van het Burgerlijk Wetboek (rechten en plichten echtgenoten en geregistreerde partners) | 1 | 2001-06-22 to 2001-06-22 |
+| `samenvoeging-gemeenten-s-graveland-nederhorst-den-berg-en-loosdrecht` | Samenvoeging gemeenten 's-Graveland, Nederhorst den Berg en Loosdrecht | 1 | 2001-07-13 to 2001-07-13 |
+| `wet-tot-aanpassing-huursubsidieparameters-en-niet-aanpassen-vermogensgrenzen-genoemd-in-de` | Wet tot aanpassing huursubsidieparameters en niet aanpassen vermogensgrenzen, genoemd in de Huursubsidiewet en de Wet bevordering eigenwoningbezit | 1 | 2001-06-29 to 2001-06-29 |
+| `wijzigingswet-algemene-pensioenwet-politieke-ambtsdragers-pensioenopbouw-waarde-overdracht` | Wijzigingswet Algemene pensioenwet politieke ambtsdragers (pensioenopbouw, waarde-overdracht en waarde-overname alsmede enige andere onderwerpen) | 1 | 2013-07-27 to 2013-07-27 |
+| `wijzigingswet-algemene-pensioenwet-politieke-ambtsdragers-en-waterschapswet-gedeputeerden` | Wijzigingswet Algemene pensioenwet politieke ambtsdragers en Waterschapswet (gedeputeerden, wethouders en waterschapsbestuurders) | 1 | 2001-08-15 to 2001-08-15 |
+| `wijzigingswet-wet-milieubeheer-enz-structuur-beheer-afvalstoffen` | Wijzigingswet Wet milieubeheer, enz. (structuur beheer afvalstoffen) | 1 | 2003-05-23 to 2003-05-23 |
+| `rijkswet-tot-goedkeuring-van-enkele-verdragen-inzake-de-bestrijding-van-fraude-en-corrupti-2` | Rijkswet tot goedkeuring van enkele verdragen inzake de bestrijding van fraude en corruptie II | 1 | 2001-07-11 to 2001-07-11 |
+| `rijkswet-houdende-goedkeuring-statuut-van-rome-inzake-het-internationaal-strafhof` | Rijkswet houdende goedkeuring Statuut van Rome inzake het Internationaal Strafhof | 1 | 2001-07-18 to 2001-07-18 |
+| `wet-gemeentelijke-herindeling-den-haag-en-omgeving` | Wet gemeentelijke herindeling Den Haag en omgeving | 1 | 2001-07-25 to 2001-07-25 |
+| `wijzigingswet-telecommunicatiewet-waarborging-optimaal-gebruik-frequentieruimte` | Wijzigingswet Telecommunicatiewet (waarborging optimaal gebruik frequentieruimte) | 1 | 2008-07-01 to 2008-07-01 |
+| `wet-tot-samenvoeging-van-de-gemeenten-castricum-akersloot-en-limmen` | Wet tot samenvoeging van de gemeenten Castricum, Akersloot en Limmen | 1 | 2001-08-22 to 2001-08-22 |
+| `wet-tot-samenvoeging-van-de-gemeenten-dodewaard-echteld-en-kesteren` | Wet tot samenvoeging van de gemeenten Dodewaard, Echteld en Kesteren | 1 | 2001-08-22 to 2001-08-22 |
+| `wijzigingswet-wet-milieubeheer-herziening-van-de-emas-verordening` | Wijzigingswet Wet milieubeheer (herziening van de EMAS-verordening) | 1 | 2001-08-24 to 2001-08-24 |
+| `wijzigingswet-wet-op-de-rechterlijke-organisatie-enz-vervanging-van-beroep-bij-de-tariefco` | Wijzigingswet Wet op de rechterlijke organisatie enz. (vervanging van beroep bij de Tariefcommissie door beroep bij de douanekamer van het gerechtshof te Amsterdam en de instelling van beroep in cassatie in douanezaken) | 1 | 2002-01-01 to 2002-01-01 |
+| `wijzigingswet-begroting-van-uitgaven-en-ontvangsten-van-het-fonds-economische-structuurver` | Wijzigingswet begroting van uitgaven en ontvangsten van het Fonds economische structuurversterking voor het jaar 2001 (wijziging samenhangende met de Voorjaarsnota) | 1 | 2001-10-24 to 2001-10-24 |
+| `wijzigingswet-van-enkele-belastingwetten-herstel-van-enige-onjuistheden` | Wijzigingswet van enkele belastingwetten (herstel van enige onjuistheden) | 1 | 2005-03-01 to 2005-03-01 |
+| `wijzigingswet-wet-op-de-rechterlijke-organisatie-enz-invoering-functie-van-officier-enkelv` | Wijzigingswet Wet op de rechterlijke organisatie, enz. (invoering functie van officier enkelvoudige zittingen) | 1 | 2001-10-31 to 2001-10-31 |
+| `rijkswet-houdende-goedkeuring-vs-samenwerkingsverdrag-toegang-en-gebruik-faciliteiten-voor` | Rijkswet houdende goedkeuring VS-samenwerkingsverdrag toegang en gebruik faciliteiten voor drugsbestrijding vanuit de lucht met betrekking tot Nederlandse Antillen | 1 | 2001-11-02 to 2001-11-02 |
+| `wijzigingswet-wet-milieubeheer-enz-verbetering-handhavingsbevoegdheden` | Wijzigingswet Wet milieubeheer, enz. (verbetering handhavingsbevoegdheden) | 1 | 2001-11-09 to 2001-11-09 |
+| `wet-tot-wijziging-provinciale-indeling-gemeente-vianen` | Wet tot wijziging provinciale indeling gemeente Vianen | 1 | 2002-01-01 to 2002-01-01 |
+| `wijzigingswet-regelingen-betreffende-waarborgen-rond-vervolging` | Wijzigingswet regelingen betreffende waarborgen rond vervolging | 1 | 2004-11-01 to 2004-11-01 |
+| `wijzigingswet-warenwet-met-het-oog-op-de-incorporatie-van-productveiligheidsvoorschriften` | Wijzigingswet Warenwet met het oog op de incorporatie van productveiligheidsvoorschriften uit de Wet op de gevaarlijke werktuigen, enz. | 1 | 2004-05-01 to 2004-05-01 |
+| `wijzigingswet-huursubsidiewet-introductie-van-beperkt-huursubsidiebericht-voor-bepaalde-hu` | Wijzigingswet Huursubsidiewet (introductie van beperkt huursubsidiebericht voor bepaalde huurders) | 1 | 2001-11-28 to 2001-11-28 |
+| `wet-foetaal-weefsel` | Wet foetaal weefsel | 1 | 2024-07-01 to 2024-07-01 |
+| `wijzigingswet-vleeskeuringswet-en-warenwet-inzake-de-heffing-van-retributies` | Wijzigingswet Vleeskeuringswet en Warenwet inzake de heffing van retributies | 1 | 2018-11-17 to 2018-11-17 |
+| `invoeringswet-wet-structuur-uitvoeringsorganisatie-werk-en-inkomen` | Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen | 1 | 2009-08-01 to 2009-08-01 |
+| `wet-verbetering-poortwachter` | Wet verbetering poortwachter | 1 | 2008-11-01 to 2008-11-01 |
+| `herzieningswet-procesrecht-burgerlijke-zaken` | Herzieningswet procesrecht burgerlijke zaken | 1 | 2003-01-01 to 2003-01-01 |
+| `wet-organisatie-en-bestuur-gerechten` | Wet organisatie en bestuur gerechten | 1 | 2011-07-01 to 2011-07-01 |
+| `wet-raad-voor-de-rechtspraak` | Wet Raad voor de rechtspraak | 1 | 2002-01-01 to 2002-01-01 |
+| `wijzigingswet-van-enkele-onderwijswetten-in-verband-met-de-invoering-van-persoonsgebonden` | Wijzigingswet van enkele onderwijswetten in verband met de invoering van persoonsgebonden nummers in het onderwijs | 1 | 2022-08-01 to 2022-08-01 |
+| `fiscale-aanpassingswet-euro` | Fiscale aanpassingswet euro | 1 | 2002-01-01 to 2002-01-01 |
+| `veegwet-euro` | Veegwet euro | 1 | 2002-01-01 to 2002-01-01 |
+| `uitvoeringswet-betekeningsverordening` | Uitvoeringswet Betekeningsverordening | 1 | 2023-05-01 to 2023-05-01 |
+| `wijzigingswet-wet-melding-ongebruikelijke-transacties-enz-verplichtstellen-van-identificat` | Wijzigingswet Wet melding ongebruikelijke transacties, enz. (verplichtstellen van identificatieplicht en meldingsplicht van ongebruikelijke transacties door handelaren in zaken van grote waarde) | 1 | 2001-12-28 to 2001-12-28 |
+| `wijzigingswet-wet-inkomstenbelasting-2001-enz-belastingplan-2002-i-arbeidsmarkt-en-inkomen` | Wijzigingswet Wet inkomstenbelasting 2001, enz. (Belastingplan 2002 I - Arbeidsmarkt en inkomensbeleid) | 1 | 2003-01-01 to 2003-01-01 |
+| `wijzigingswet-wet-inkomstenbelasting-2001-enz-belastingplan-2002-ii-economische-infrastruc` | Wijzigingswet Wet inkomstenbelasting 2001, enz. (Belastingplan 2002 II - Economische infrastructuur) | 1 | 2004-03-01 to 2004-03-01 |
+| `wijzigingswet-wet-belastingplan-2002-iii-natuur-milieu-en-vervoer` | Wijzigingswet Wet Belastingplan 2002-III Natuur, milieu en vervoer | 1 | 2003-01-01 to 2003-01-01 |
+| `wijzigingswet-belastingwetten-c-a-belastingplan-2002-iv` | Wijzigingswet belastingwetten c.a. (Belastingplan 2002 IV) | 1 | 2002-04-01 to 2002-04-01 |
+| `wijzigingswet-sociale-zekerheidswetten-belastingplan-2002-v-sociale-zekerheidswetgeving` | Wijzigingswet sociale zekerheidswetten (Belastingplan 2002 V - Sociale zekerheidswetgeving) | 1 | 2002-01-01 to 2002-01-01 |
+| `rijkswet-houdende-goedkeuring-van-het-verdrag-van-nice` | Rijkswet houdende goedkeuring van het Verdrag van Nice | 1 | 2008-07-25 to 2008-07-25 |
+| `wet-verzelfstandiging-reintegratiediensten-arbeidsvoorzieningsorganisatie` | Wet verzelfstandiging reïntegratiediensten Arbeidsvoorzieningsorganisatie | 1 | 2002-01-01 to 2002-01-01 |
+| `eerste-evaluatiewet-awb` | Eerste evaluatiewet Awb | 1 | 2002-04-01 to 2002-04-01 |
+| `wet-uniforme-openbare-voorbereidingsprocedure-awb` | Wet uniforme openbare voorbereidingsprocedure Awb | 1 | 2006-07-01 to 2006-07-01 |
+| `wijzigingswet-algemene-wet-bestuursrecht-met-betrekking-tot-de-kosten-van-bezwaar-en-admin` | Wijzigingswet Algemene wet bestuursrecht met betrekking tot de kosten van bezwaar en administratief beroep (kosten bestuurlijke voorprocedures) | 1 | 2002-03-12 to 2002-03-12 |
+| `wijzigingswet-wet-verontreiniging-oppervlaktewateren-zuivering-van-stedelijk-afvalwater-en` | Wijzigingswet Wet verontreiniging oppervlaktewateren (zuivering van stedelijk afvalwater en toekenning bevoegdheid aan waterschapsbesturen tot vergunningverlening) | 1 | 2002-07-01 to 2002-07-01 |
+| `wijzigingswet-gezondheids-en-welzijnswet-voor-dieren-veterinair-complex` | Wijzigingswet Gezondheids- en welzijnswet voor dieren (veterinair complex) | 1 | 2019-01-01 to 2019-01-01 |
+| `wet-dualisering-gemeentebestuur` | Wet dualisering gemeentebestuur | 1 | 2012-10-01 to 2012-10-01 |
+| `wijzigingswet-boek-1-van-het-burgerlijk-wetboek-regels-verrekenbedingen` | Wijzigingswet Boek 1 van het Burgerlijk Wetboek (regels verrekenbedingen) | 1 | 2002-09-01 to 2002-09-01 |
+| `wijzigingswet-enige-bepalingen-burgerlijk-wetboek-problematiek-van-vermissing-van-personen` | Wijzigingswet enige bepalingen Burgerlijk Wetboek (problematiek van vermissing van personen) | 1 | 2002-08-01 to 2002-08-01 |
+| `wijzigingswet-tabakswet` | Wijzigingswet Tabakswet | 1 | 2010-07-14 to 2010-07-14 |
+| `wijzigingswet-boek-2-burgerlijk-wetboek-enz-openbaarmaking-bezoldiging-en-aandelenbezit` | Wijzigingswet boek 2 Burgerlijk Wetboek, enz. (openbaarmaking bezoldiging en aandelenbezit) | 1 | 2002-09-01 to 2002-09-01 |
+| `wijzigingswet-luchtvaartwet-beveiliging-luchtvaartterreinen` | Wijzigingswet Luchtvaartwet (beveiliging luchtvaartterreinen) | 1 | 2003-04-01 to 2003-04-01 |
+| `wijzigingswet-wegenverkeerswet-1994-rijvaardigheid-en-rijbevoegdheid` | Wijzigingswet Wegenverkeerswet 1994 (rijvaardigheid en rijbevoegdheid) | 1 | 2007-03-14 to 2007-03-14 |
+| `wet-tot-samenvoeging-van-de-gemeenten-heerjansdam-en-zwijndrecht` | Wet tot samenvoeging van de gemeenten Heerjansdam en Zwijndrecht | 1 | 2002-07-01 to 2002-07-01 |
+| `wet-tot-samenvoeging-van-de-gemeenten-oss-en-ravenstein` | Wet tot samenvoeging van de gemeenten Oss en Ravenstein | 1 | 2002-07-01 to 2002-07-01 |
+| `herindelingswet-zeeuws-vlaanderen` | Herindelingswet Zeeuws-Vlaanderen | 1 | 2002-08-01 to 2002-08-01 |
+| `wijzigingswet-wet-fonds-economische-structuurversterking` | Wijzigingswet Wet Fonds economische structuurversterking | 1 | 2002-09-01 to 2002-09-01 |
+| `wet-lidmaatschap-koninklijk-huis` | Wet lidmaatschap koninklijk huis | 1 | 2002-06-12 to 2002-06-12 |
+| `wijzigingswet-wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek-enz-invoering-van-a` | Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek, enz. (invoering van accreditatie in het hoger onderwijs) | 1 | 2004-02-13 to 2004-02-13 |
+| `wijzigingswet-wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek-en-de-wet-studiefin` | Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet studiefinanciering 2000 (invoering bachelor-masterstructuur in het hoger onderwijs) | 1 | 2005-03-01 to 2005-03-01 |
+| `rijkswet-tot-wijziging-rijkswet-bepalingen-ten-aanzien-van-octrooigemachtigden-in-de-rijks` | Rijkswet tot wijziging Rijkswet bepalingen ten aanzien van octrooigemachtigden in de Rijksoctrooiwet enz. | 1 | 2003-05-01 to 2003-05-01 |
+| `wijzigingswet-wet-voorkeursrecht-gemeenten-tegengaan-ontwijking-voorkeursrecht-gemeenten-b` | Wijzigingswet Wet voorkeursrecht gemeenten (tegengaan ontwijking voorkeursrecht gemeenten bij verwerving onroerende zaken) | 1 | 2002-09-01 to 2002-09-01 |
+| `embryowet` | Embryowet | 1 | 2026-07-01 to 2026-07-01 |
+| `wet-tot-samenvoeging-van-de-gemeenten-echt-en-susteren` | Wet tot samenvoeging van de gemeenten Echt en Susteren | 1 | 2002-09-01 to 2002-09-01 |
+| `wijzigingswet-wet-luchtvaart-inrichting-en-gebruik-van-de-luchthaven-schiphol` | Wijzigingswet Wet luchtvaart (inrichting en gebruik van de luchthaven Schiphol) | 1 | 2005-12-07 to 2005-12-07 |
+| `wijzigingswet-wetboek-van-strafvordering-enz-verruiming-bevoegdheid-enkelvoudige-kamers` | Wijzigingswet Wetboek van Strafvordering enz. (verruiming bevoegdheid enkelvoudige kamers) | 1 | 2002-07-12 to 2002-07-12 |
+| `wijzigingswet-wet-bijzondere-opnemingen-in-psychiatrische-ziekenhuizen-voorwaardelijke-mac` | Wijzigingswet Wet bijzondere opnemingen in psychiatrische ziekenhuizen (voorwaardelijke machtiging en observatiemachtiging) | 1 | 2007-01-01 to 2007-01-01 |
+| `wijzigingswet-invorderingswet-1990-herziening-procesrecht-inzake-aansprakelijkstelling` | Wijzigingswet Invorderingswet 1990 (Herziening procesrecht inzake aansprakelijkstelling) | 1 | 2002-12-01 to 2002-12-01 |
+| `wijzigingswet-wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek-onder-meer-ter-uitv` | Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek (onder meer ter uitvoering van in de nota «Zicht op kwaliteit» aangekondigde maatregelen) | 1 | 2005-03-01 to 2005-03-01 |
+| `wijzigingswet-wetboek-van-strafvordering-openstellen-van-beroep-in-cassatie-tegen-vrijspra` | Wijzigingswet Wetboek van Strafvordering (openstellen van beroep in cassatie tegen vrijspraken) | 1 | 2003-01-01 to 2003-01-01 |
+| `wijzigingswet-beroepswet-openstellen-van-hoger-beroep-bij-de-centrale-raad-van-beroep-tege` | Wijzigingswet Beroepswet (openstellen van hoger beroep bij de Centrale Raad van Beroep tegen uitspraken omtrent besluiten van diverse stichtingen) | 1 | 2002-11-13 to 2002-11-13 |
+| `wet-hcnm` | Wet HCNM | 1 | 2003-01-01 to 2003-01-01 |
+| `uitvoeringswet-eu-richtlijn-1999-70-eg-raamovereenkomst-door-het-evv-de-unice-en-het-ceep` | Uitvoeringswet EU-richtlijn 1999/70/EG (raamovereenkomst door het EVV, de UNICE en het CEEP inzake arbeidsovereenkomsten voor bepaalde tijd) | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-actualisering-en-harmonisatie-financiele-toezichtswetten` | Wet actualisering en harmonisatie financiële toezichtswetten | 1 | 2005-01-15 to 2005-01-15 |
+| `wet-tot-vaststelling-van-afdeling-7-4-6-van-het-burgerlijk-wetboek-huur-van-bedrijfsruimte` | Wet tot vaststelling van afdeling 7.4.6 van het Burgerlijk Wetboek (huur van bedrijfsruimte) | 1 | 2003-08-01 to 2003-08-01 |
+| `wijzigingswet-uitkeringswet-gewezen-militairen` | Wijzigingswet Uitkeringswet gewezen militairen | 1 | 2003-04-01 to 2003-04-01 |
+| `wijzigingswet-boek-8-van-het-burgerlijk-wetboek-m-b-t-een-hogere-preferentie-van-havengeld` | Wijzigingswet Boek 8 van het Burgerlijk Wetboek m.b.t. een hogere preferentie van havengelden en vorderingen inzake maatregelen m. b.t. een schip die noodzakelijk waren ter waarborging van de veiligheid van de haven of van derden | 1 | 2003-03-01 to 2003-03-01 |
+| `wijzigingswet-wet-op-de-expertisecentra-enz-invoering-regeling-leerlinggebonden-financieri` | Wijzigingswet Wet op de expertisecentra, enz. (invoering regeling leerlinggebonden financiering) | 1 | 2024-01-01 to 2024-01-01 |
+| `wijzigingswet-belastingwetten-c-a-vervolgwijzigingen-in-samenhang-met-de-belastingherzieni` | Wijzigingswet belastingwetten c.a. (Vervolgwijzigingen in samenhang met de Belastingherziening 2001) | 1 | 2006-05-01 to 2006-05-01 |
+| `wijzigingswet-wet-op-de-vennootschapsbelasting-1969-c-a-herziening-regime-fiscale-eenheid` | Wijzigingswet Wet op de vennootschapsbelasting 1969 c.a. (herziening regime fiscale eenheid) | 1 | 2003-01-01 to 2003-01-01 |
+| `goedkeuringswet-verdrag-tussen-nederland-en-belgie-tot-het-vermijden-van-dubbele-belasting` | Goedkeuringswet Verdrag tussen Nederland en België tot het vermijden van dubbele belastingen en voorkomen van het ontgaan van belasting inzake belastingen naar inkomen en vermogen | 1 | 2004-01-01 to 2004-01-01 |
+| `wijzigingswet-wet-inkomstenbelasting-2001-enz-belastingplan-2003-deel-i` | Wijzigingswet Wet inkomstenbelasting 2001, enz. (Belastingplan 2003 Deel I) | 1 | 2006-01-01 to 2006-01-01 |
+| `wijzigingswet-enkele-belastingwetten-c-a-belastingplan-2003-deel-ii-overig-fiscaal-pakket` | Wijzigingswet enkele belastingwetten c.a. (Belastingplan 2003 Deel II - overig fiscaal pakket) | 1 | 2003-01-01 to 2003-01-01 |
+| `wijzigingswet-wet-luchtvaart-geluidscertificaat-en-geluidsverklaring` | Wijzigingswet Wet luchtvaart (geluidscertificaat en geluidsverklaring) | 1 | 2008-07-19 to 2008-07-19 |
+| `wet-dualisering-provinciebestuur` | Wet dualisering provinciebestuur | 1 | 2012-10-01 to 2012-10-01 |
+| `wijzigingswet-wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek-versnelde-invoering` | Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek (versnelde invoering toets nieuwe opleiding) | 1 | 2003-02-26 to 2003-02-26 |
+| `aanpassingswet-in-verband-met-inwerkingtreding-wet-dualisering-gemeentebestuur` | Aanpassingswet in verband met inwerkingtreding Wet dualisering gemeentebestuur | 1 | 2003-02-19 to 2003-02-19 |
+| `aanpassingswet-tabakswet-aan-eu-richtlijn-betreffende-aanpassing-bepalingen-inzake-product` | Aanpassingswet Tabakswet aan EU-richtlijn betreffende aanpassing bepalingen inzake productie, presentatie en verkoop van tabaksproducten | 1 | 2003-04-18 to 2003-04-18 |
+| `rijkswet-geweldgebruik-bewakers-militaire-objecten` | Rijkswet geweldgebruik bewakers militaire objecten | 1 | 2010-10-10 to 2010-10-10 |
+| `wijzigingswet-penitentiaire-beginselenwet-penitentiair-programma-en-elektronisch-toezicht` | Wijzigingswet Penitentiaire beginselenwet (penitentiair programma en elektronisch toezicht) | 1 | 2004-01-01 to 2004-01-01 |
+| `wijzigingswet-wetboek-van-strafvordering-raadsheer-commissaris` | Wijzigingswet Wetboek van Strafvordering (raadsheer-commissaris) | 1 | 2003-07-01 to 2003-07-01 |
+| `wet-gelijke-behandeling-op-grond-van-handicap-of-chronische-ziekte` | Wet gelijke behandeling op grond van handicap of chronische ziekte | 1 | 2026-01-01 to 2026-01-01 |
+| `concessiewet-personenvervoer-per-trein` | Concessiewet personenvervoer per trein | 1 | 2007-01-01 to 2007-01-01 |
+| `wet-elektronische-handtekeningen` | Wet elektronische handtekeningen | 1 | 2003-05-21 to 2003-05-21 |
+| `wijzigingswet-en-aanvulling-wetboek-van-strafrecht-enz-aanpassing-ontnemingswetgeving` | Wijzigingswet en aanvulling Wetboek van Strafrecht enz. (aanpassing ontnemingswetgeving) | 1 | 2003-09-01 to 2003-09-01 |
+| `rijkswet-cassatierechtspraak-in-uitleveringszaken-voor-aruba-curacao-en-sint-maarten` | Rijkswet cassatierechtspraak in uitleveringszaken voor Aruba, Curaçao en Sint Maarten | 1 | 2020-04-01 to 2020-04-01 |
+| `rijkswet-tot-wijziging-rijkswet-regeling-pensioenen-en-uitkeringen-gouverneurs-nederlandse` | Rijkswet tot wijziging Rijkswet regeling pensioenen en uitkeringen Gouverneurs Nederlandse Antillen en Aruba | 1 | 2003-06-04 to 2003-06-04 |
+| `wijzigingswet-wet-gewetensbezwaren-militaire-dienst-i-v-m-de-kaderwet-dienstplicht` | Wijzigingswet Wet gewetensbezwaren militaire dienst i.v.m. de Kaderwet dienstplicht | 1 | 2003-09-01 to 2003-09-01 |
+| `wijzigingswet-vreemdelingenwet-2000` | Wijzigingswet Vreemdelingenwet 2000 | 1 | 2003-09-01 to 2003-09-01 |
+| `wet-tot-gemeentelijke-herindeling-van-het-westland` | Wet tot gemeentelijke herindeling van het Westland | 1 | 2003-09-01 to 2003-09-01 |
+| `wet-samenvoeging-gemeenten-geldrop-en-mierlo` | Wet samenvoeging gemeenten Geldrop en Mierlo | 1 | 2003-09-01 to 2003-09-01 |
+| `uitvoeringswet-eu-executieverordening-en-verdrag-van-lugano` | Uitvoeringswet EU-executieverordening en Verdrag van Lugano | 1 | 2017-12-23 to 2017-12-23 |
+| `wijzigingswet-comptabiliteitswet-houdende-bepalingen-inzake-het-beheer-van-liquide-middele` | Wijzigingswet Comptabiliteitswet houdende bepalingen inzake het beheer van liquide middelen van rechtspersonen die collectieve middelen beheren, enz. (Eerste wijziging van de Comptabiliteitswet 2001) | 1 | 2004-09-01 to 2004-09-01 |
+| `wijzigingswet-wet-op-de-omzetbelasting-1968-invoering-van-een-omzetbelastingregeling-voor` | Wijzigingswet Wet op de omzetbelasting 1968 (invoering van een omzetbelastingregeling voor elektronische diensten) | 1 | 2003-10-08 to 2003-10-08 |
+| `wijzigingswet-wet-rechtspositie-rechterlijke-ambtenaren-formalisering-arbeidsvoorwaardenov` | Wijzigingswet Wet rechtspositie rechterlijke ambtenaren (formalisering Arbeidsvoorwaardenovereenkomsten sector Rechterlijke Macht) | 1 | 2003-12-01 to 2003-12-01 |
+| `wijzigingswet-kadasterwet-en-organisatiewet-kadaster-aanpassing-van-doeleinden-en-taken-di` | Wijzigingswet Kadasterwet en Organisatiewet Kadaster (aanpassing van doeleinden en taken Dienst voor het kadaster en de openbare registers, enz.) | 1 | 2004-01-01 to 2004-01-01 |
+| `wijzigingswet-wet-toezicht-verzekeringsbedrijf-1993-actualiseren-solvabiliteitseisen-voor` | Wijzigingswet Wet toezicht verzekeringsbedrijf 1993 (actualiseren solvabiliteitseisen voor het verzekeringsbedrijf) | 1 | 2003-12-01 to 2003-12-01 |
+| `wijzigingswet-mediawet-noodzakelijke-verbeteringen-van-de-wet-en-de-uitvoering-daarvan` | Wijzigingswet Mediawet (noodzakelijke verbeteringen van de wet en de uitvoering daarvan) | 1 | 2003-12-31 to 2003-12-31 |
+| `wijzigingswet-kostenwet-invordering-rijksbelastingen` | Wijzigingswet Kostenwet invordering rijksbelastingen | 1 | 2004-02-01 to 2004-02-01 |
+| `wijzigingswet-wet-op-de-ruimtelijke-ordening-invoering-rijksprojectenprocedure` | Wijzigingswet Wet op de Ruimtelijke Ordening (invoering rijksprojectenprocedure) | 1 | 2005-12-28 to 2005-12-28 |
+| `wijzigingswet-algemene-wet-bestuursrecht-enz-verhoging-opbrengst-griffierechten` | Wijzigingswet Algemene wet bestuursrecht, enz. (verhoging opbrengst griffierechten) | 1 | 2004-02-01 to 2004-02-01 |
+| `wijzigingswet-wet-op-de-rechtsbijstand-enz-evaluatie-alsmede-aanpassing-wet-op-de-rechtsbi` | Wijzigingswet Wet op de rechtsbijstand, enz. (evaluatie alsmede aanpassing Wet op de rechtsbijstand) | 1 | 2004-05-01 to 2004-05-01 |
+| `wijzigingswet-wet-voorkeursrecht-gemeenten-verbreding-reikwijdte` | Wijzigingswet Wet voorkeursrecht gemeenten (verbreding reikwijdte) | 1 | 2004-02-01 to 2004-02-01 |
+| `wijzigingswet-enkele-wetten-beleidsterrein-ministerie-van-ocw-herstellen-van-wetstechnisch` | Wijzigingswet enkele wetten beleidsterrein Ministerie van OCW (herstellen van wetstechnische gebreken en leemten) | 1 | 2004-02-13 to 2004-02-13 |
+| `wet-gelijke-behandeling-op-grond-van-leeftijd-bij-de-arbeid` | Wet gelijke behandeling op grond van leeftijd bij de arbeid | 1 | 2026-01-01 to 2026-01-01 |
+| `belastingplan-2004` | Belastingplan 2004 | 1 | 2013-01-01 to 2013-01-01 |
+| `wijzigingswet-belastingwetten-c-a-overige-fiscale-maatregelen-2004` | Wijzigingswet belastingwetten c.a. (Overige fiscale maatregelen 2004) | 1 | 2004-01-01 to 2004-01-01 |
+| `technische-herstelwet-2003` | Technische herstelwet 2003 | 1 | 2005-01-01 to 2005-01-01 |
+| `wijzigingswet-wet-op-de-internationale-bijstandsverlening-bij-de-heffing-van-belastingen-e` | Wijzigingswet Wet op de internationale bijstandsverlening bij de heffing van belastingen en Wet inkomstenbelasting 2001 (implementatie spaarrenterichtlijn) | 1 | 2012-01-01 to 2012-01-01 |
+| `wijzigingswet-wet-belastingen-op-milieugrondslag-en-wet-op-de-accijns-implementatie-richtl` | Wijzigingswet Wet belastingen op milieugrondslag en Wet op de accijns (implementatie richtlijn Energiebelastingen) | 1 | 2004-01-01 to 2004-01-01 |
+| `wijzigingswet-wet-inkomstenbelasting-2001-naar-aanleiding-van-belastingplan-2004` | Wijzigingswet Wet inkomstenbelasting 2001 (naar aanleiding van Belastingplan 2004) | 1 | 2004-01-01 to 2004-01-01 |
+| `wijzigingswet-wijze-van-aanpassing-van-de-kinderbijslag-algemene-kinderbijslagwet-enz-ande` | Wijzigingswet wijze van aanpassing van de kinderbijslag, Algemene Kinderbijslagwet, enz. (andere wijze van aanpassing kinderbijslagbedragen) | 1 | 2005-12-29 to 2005-12-29 |
+| `wet-verlenging-loondoorbetalingsverplichting-bij-ziekte-2003` | Wet verlenging loondoorbetalingsverplichting bij ziekte 2003 | 1 | 2005-09-01 to 2005-09-01 |
+| `wijzigingswet-huursubsidiewet-enz-nieuwe-procedure-aanvraag-toekenning-huursubsidie` | Wijzigingswet Huursubsidiewet, enz. (nieuwe procedure aanvraag toekenning huursubsidie) | 1 | 2004-03-26 to 2004-03-26 |
+| `wijzigingswet-wet-toezicht-verzekeringsbedrijf-1993-en-faillissementswet-uitvoering-richtl` | Wijzigingswet Wet toezicht verzekeringsbedrijf 1993 en Faillissementswet (uitvoering richtlijn nr. 2001/17/EG betreffende sanering en liquidatie verzekeringsondernemingen) | 1 | 2004-03-23 to 2004-03-23 |
+| `wijzigingswet-wet-educatie-en-beroepsonderwijs-en-de-wet-op-het-onderwijstoezicht-verbeter` | Wijzigingswet Wet educatie en beroepsonderwijs en de Wet op het onderwijstoezicht (verbetering kwaliteit examens beroepsopleidingen) | 1 | 2004-08-01 to 2004-08-01 |
+| `wijzigingswet-wet-op-het-specifiek-cultuurbeleid-raad-voor-cultuur` | Wijzigingswet Wet op het specifiek cultuurbeleid (Raad voor cultuur) | 1 | 2004-06-01 to 2004-06-01 |
+| `wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-aanscherping-voorschriften-bekostiging` | Wijzigingswet Wet educatie en beroepsonderwijs, enz. (aanscherping voorschriften bekostiging beroepsonderwijs en hoger onderwijs) | 1 | 2005-12-30 to 2005-12-30 |
+| `wijzigingswet-wet-educatie-en-beroepsonderwijs-verbeteringen-van-uiteenlopende-voornamelij` | Wijzigingswet Wet educatie en beroepsonderwijs (verbeteringen van uiteenlopende, voornamelijk uitvoeringstechnische aard) | 1 | 2005-01-01 to 2005-01-01 |
+| `wijzigingswet-auteurswet-1912-thuiskopie-invoering-verlengde-aansprakelijkheid-voor-verkop` | Wijzigingswet Auteurswet 1912 (thuiskopie invoering verlengde aansprakelijkheid voor verkopers) | 1 | 2004-09-01 to 2004-09-01 |
+| `veegwet-modernisering-rechterlijke-organisatie` | Veegwet modernisering rechterlijke organisatie | 1 | 2004-07-01 to 2004-07-01 |
+| `uitvoeringswet-bewijsverkrijgingsverordening` | Uitvoeringswet Bewijsverkrijgingsverordening | 1 | 2025-01-01 to 2025-01-01 |
+| `wet-kenbaarheid-publiekrechtelijke-beperkingen-onroerende-zaken` | Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken | 1 | 2026-06-04 to 2026-06-04 |
+| `wijzigingswet-provinciewet-en-gemeentewet-aanpassing-procedure-benoeming-commissaris-van-d` | Wijzigingswet Provinciewet en Gemeentewet (aanpassing procedure benoeming commissaris van de Koning en burgemeester en tijdelijk verruimen periode ontheffing woonplaatsvereiste burgemeester) | 1 | 2004-08-16 to 2004-08-16 |
+| `wijzigingswet-wet-rechtspositie-rechterlijke-ambtenaren-toepasselijkheid-wet-arbeid-en-zor` | Wijzigingswet Wet rechtspositie rechterlijke ambtenaren (toepasselijkheid Wet arbeid en zorg) | 1 | 2004-09-01 to 2004-09-01 |
+| `wijzigingswet-vreemdelingenwet-2000-stelsel-rechterlijke-toetsing-van-vrijheidsontnemende` | Wijzigingswet Vreemdelingenwet 2000 (stelsel rechterlijke toetsing van vrijheidsontnemende maatregelen) | 1 | 2004-09-01 to 2004-09-01 |
+| `wijzigingswet-vreemdelingenwet-2000-verlenging-tijdelijkheid-verblijfsvergunning-asiel-voo` | Wijzigingswet Vreemdelingenwet 2000 (verlenging tijdelijkheid verblijfsvergunning asiel voor bepaalde tijd) | 1 | 2004-09-01 to 2004-09-01 |
+| `wet-bestuurlijke-boete-arbeidstijdenwet` | Wet bestuurlijke boete Arbeidstijdenwet | 1 | 2006-12-20 to 2006-12-20 |
+| `wijzigingswet-wet-sociale-werkvoorziening-en-wet-structuur-uitvoeringsorganisatie-werk-en` | Wijzigingswet Wet sociale werkvoorziening en Wet structuur uitvoeringsorganisatie werk en inkomen, enz. | 1 | 2005-01-01 to 2005-01-01 |
+| `wijzigingswet-wet-studiefinanciering-2000-enz-wijziging-omzetmoment-eerste-12-maanden-pres` | Wijzigingswet Wet studiefinanciering 2000, enz. (wijziging omzetmoment eerste 12 maanden prestatiebeurs en gedeeltelijke afschaffing 1 februari-regel) | 1 | 2004-11-01 to 2004-11-01 |
+| `wet-op-de-beroepen-in-het-onderwijs` | Wet op de beroepen in het onderwijs | 1 | 2020-04-01 to 2020-04-01 |
+| `wet-modernisering-eg-mededingingsrecht` | Wet modernisering EG-mededingingsrecht | 1 | 2004-08-01 to 2004-08-01 |
+| `wijzigingswet-wet-op-de-ruimtelijke-ordening-enz-onderbrenging-overtredingen-bestemmingspl` | Wijzigingswet Wet op de Ruimtelijke Ordening, enz. (onderbrenging overtredingen bestemmingsplanvoorschriften en overtredingen Wet op de economische delicten) | 1 | 2004-09-13 to 2004-09-13 |
+| `wijzigingswet-wet-toezicht-effectenverkeer-1995-enz-vereenvoudiging-stelsel-verklaring-van` | Wijzigingswet Wet toezicht effectenverkeer 1995, enz. (vereenvoudiging stelsel verklaring van geen bezwaar en enkele andere noodzakelijke aanpassingen) | 1 | 2004-09-15 to 2004-09-15 |
+| `wet-gemeentelijke-herindeling-van-de-achterhoek-de-graafschap-en-de-liemers-deventer-en-ba` | Wet gemeentelijke herindeling van de Achterhoek, de Graafschap en de Liemers, Deventer en Bathmen | 1 | 2004-09-01 to 2004-09-01 |
+| `wet-einde-toegang-verzekering-waz` | Wet einde toegang verzekering WAZ | 1 | 2005-01-01 to 2005-01-01 |
+| `aanpassingswet-auteurswet-1912-enz-uitvoering-richtlijn-auteursrecht-en-naburige-rechten-i` | Aanpassingswet Auteurswet 1912, enz. (uitvoering richtlijn auteursrecht en naburige rechten in de informatiemaatschappij) | 1 | 2022-10-01 to 2022-10-01 |
+| `wijzigingswet-wet-voorkoming-verontreiniging-door-schepen-enz-in-verband-met-richtlijn-200` | Wijzigingswet Wet voorkoming verontreiniging door schepen, enz. in verband met richtlijn 2000/59/EG betreffende havenontvangstvoorzieningen voor scheepsafval en ladingresiduen (PbEG L 332) | 1 | 2004-10-15 to 2004-10-15 |
+| `wet-buitenlandse-schepen` | Wet buitenlandse schepen | 1 | 2025-07-01 to 2025-07-01 |
+| `wijzigingswet-wetboek-van-strafrecht-enz-plaatsing-in-een-inrichting-voor-stelselmatige-da` | Wijzigingswet Wetboek van Strafrecht, enz. (plaatsing in een inrichting voor stelselmatige daders) | 1 | 2004-10-01 to 2004-10-01 |
+| `wijzigingswet-burgerlijk-wetboek-boek-2-enz-aanpassing-structuurregeling` | Wijzigingswet Burgerlijk Wetboek Boek 2, enz. (aanpassing structuurregeling) | 1 | 2004-10-01 to 2004-10-01 |
+| `wijzigingswet-waterleidingwet-eigendom-waterleidingbedrijven` | Wijzigingswet Waterleidingwet (eigendom waterleidingbedrijven) | 1 | 2005-02-25 to 2005-02-25 |
+| `implementatiewet-eg-richtlijn-handel-in-broeikasgasemissierechten` | Implementatiewet EG-richtlijn handel in broeikasgasemissierechten | 1 | 2012-01-01 to 2012-01-01 |
+| `wet-uitvoering-verdrag-van-aarhus` | Wet uitvoering Verdrag van Aarhus | 1 | 2005-02-14 to 2005-02-14 |
+| `fusiewet-de-nederlandsche-bank-n-v-en-de-stichting-pensioen-verzekeringskamer` | Fusiewet De Nederlandsche Bank N.V. en de Stichting Pensioen- & Verzekeringskamer | 1 | 2007-01-01 to 2007-01-01 |
+| `uitvoeringswet-eg-verordening-betreffende-gemeenschapsmodellen` | Uitvoeringswet EG-verordening betreffende Gemeenschapsmodellen | 1 | 2023-01-01 to 2023-01-01 |
+| `wijzigingswet-wet-op-de-vennootschapsbelasting-1969-invoering-aftrekverbod-aankoopkosten-v` | Wijzigingswet Wet op de vennootschapsbelasting 1969 (invoering aftrekverbod aankoopkosten van een deelneming) | 1 | 2007-01-01 to 2007-01-01 |
+| `wet-op-de-vaste-boekenprijs` | Wet op de vaste boekenprijs | 1 | 2021-07-01 to 2021-07-01 |
+| `wijzigingswet-wetboek-van-strafvordering-wijzigingen-in-de-regeling-van-de-voorlopige-hech` | Wijzigingswet Wetboek van Strafvordering (wijzigingen in de regeling van de voorlopige hechtenis) | 1 | 2005-01-01 to 2005-01-01 |
+| `wijzigingswet-wetboek-van-strafvordering-enz-horen-van-getuigen-en-verwante-onderwerpen` | Wijzigingswet Wetboek van Strafvordering, enz. (horen van getuigen en verwante onderwerpen) | 1 | 2005-01-01 to 2005-01-01 |
+| `wijzigingswet-wetboek-van-strafvordering-eisen-motivering-bewezenverklaring-bekennende-ver` | Wijzigingswet Wetboek van Strafvordering (eisen motivering bewezenverklaring bekennende verdachte) | 1 | 2005-01-01 to 2005-01-01 |
+| `wijzigingswet-wet-verzelfstandiging-informatiseringsbank-evaluatie-van-die-wet` | Wijzigingswet Wet verzelfstandiging Informatiseringsbank (evaluatie van die wet) | 1 | 2005-02-01 to 2005-02-01 |
+| `wijzigingswet-faillissementswet-bevorderen-effectiviteit-surseance-van-betaling-en-faillis` | Wijzigingswet Faillissementswet (bevorderen effectiviteit surséance van betaling en faillissement) | 1 | 2005-12-01 to 2005-12-01 |
+| `wet-bestuurlijke-boete-arbeid-vreemdelingen` | Wet bestuurlijke boete arbeid vreemdelingen | 1 | 2005-01-01 to 2005-01-01 |
+| `wijzigingswet-mededingingswet-omvormen-bestuursorgaan-nederlandse-mededingingsautoriteit-t` | Wijzigingswet Mededingingswet (omvormen bestuursorgaan Nederlandse mededingingsautoriteit tot zelfstandig bestuursorgaan) | 1 | 2005-07-01 to 2005-07-01 |
+| `wijzigingswet-wet-waardering-onroerende-zaken-enz-doelmatige-uitvoering-wet-waardering-onr` | Wijzigingswet Wet waardering onroerende zaken, enz. (doelmatige uitvoering Wet waardering onroerende zaken) | 1 | 2008-01-01 to 2008-01-01 |
+| `wijzigingswet-wegenverkeerswet-1994-verlenen-ontheffingen-door-dienst-wegverkeer` | Wijzigingswet Wegenverkeerswet 1994 (verlenen ontheffingen door Dienst Wegverkeer) | 1 | 2006-01-01 to 2006-01-01 |
+| `wet-belastingrechtspraak-in-twee-feitelijke-instanties` | Wet belastingrechtspraak in twee feitelijke instanties | 1 | 2005-01-01 to 2005-01-01 |
+| `belastingplan-2005` | Belastingplan 2005 | 1 | 2007-01-01 to 2007-01-01 |
+| `wijzigingswet-enkele-belastingwetten-c-a-overige-fiscale-maatregelen-2005` | Wijzigingswet enkele belastingwetten c.a.(Overige fiscale maatregelen 2005) | 1 | 2006-01-01 to 2006-01-01 |
+| `wijzigingswet-belastingwetten-in-verband-met-noodzakelijk-onderhoud-fiscale-onderhoudswet` | Wijzigingswet belastingwetten in verband met noodzakelijk onderhoud (Fiscale onderhoudswet 2004) | 1 | 2005-03-01 to 2005-03-01 |
+| `wet-bdu-verkeer-en-vervoer` | Wet BDU verkeer en vervoer | 1 | 2018-01-01 to 2018-01-01 |
+| `aanpassingswet-invoering-bachelor-masterstructuur` | Aanpassingswet invoering bachelor-masterstructuur | 1 | 2018-05-01 to 2018-05-01 |
+| `wet-uitbreiding-rechtsgevolgen-var` | Wet uitbreiding rechtsgevolgen VAR | 1 | 2006-01-01 to 2006-01-01 |
+| `wijzigingswet-ziekenfondswet-enz-invoering-no-claimteruggaaf` | Wijzigingswet Ziekenfondswet, enz. (invoering no-claimteruggaaf ) | 1 | 2005-03-09 to 2005-03-09 |
+| `wijzigingswet-enkele-socialeverzekeringswetten-enz-aanbrengen-enige-vereenvoudigingen` | Wijzigingswet enkele socialeverzekeringswetten, enz. (aanbrengen enige vereenvoudigingen) | 1 | 2005-07-01 to 2005-07-01 |
+| `rijkswet-houdende-wijziging-schepenwet-in-verband-met-totstandkoming-rijkswet-onderzoeksra` | Rijkswet houdende wijziging Schepenwet in verband met totstandkoming Rijkswet Onderzoeksraad voor veiligheid en invoering nieuwe regeling tuchtrechtspraak voor zeescheepvaart | 1 | 2010-01-01 to 2010-01-01 |
+| `herzieningswet-kadasterwet-i` | Herzieningswet Kadasterwet I | 1 | 2005-09-01 to 2005-09-01 |
+| `wet-extern-klachtrecht` | Wet extern klachtrecht | 1 | 2006-01-01 to 2006-01-01 |
+| `wijzigingswet-wet-studiefinanciering-2000-enz-invoering-prestatiebeurs-in-een-deel-van-de` | Wijzigingswet Wet studiefinanciering 2000, enz. (invoering prestatiebeurs in een deel van de beroepsopleidende leerweg en meeneembaarheid studiefinanciering voor deze leerweg in het buitenland) | 1 | 2005-08-01 to 2005-08-01 |
+| `wet-aanpassing-fiscale-behandeling-vut-prepensioen-en-introductie-levensloopregeling` | Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling | 1 | 2014-12-20 to 2014-12-20 |
+| `wijzigingswet-wetboek-van-strafvordering-betekening-van-gerechtelijke-mededelingen-in-stra` | Wijzigingswet Wetboek van Strafvordering (betekening van gerechtelijke mededelingen in strafzaken) | 1 | 2005-11-01 to 2005-11-01 |
+| `wet-inkomensaanvulling-2005` | Wet inkomensaanvulling 2005 | 1 | 2005-04-15 to 2005-04-15 |
+| `wijzigingswet-beginselenwet-justitiele-jeugdinrichtingen-enz-evaluatieonderzoeken` | Wijzigingswet Beginselenwet justitiële jeugdinrichtingen, enz. (evaluatieonderzoeken) | 1 | 2005-07-01 to 2005-07-01 |
+| `wijzigingswet-wet-toezicht-kredietwezen-1992-enz-uitvoering-richtlijn-sanering-en-liquidat` | Wijzigingswet Wet toezicht kredietwezen 1992, enz. (uitvoering richtlijn sanering en liquidatie van kredietinstellingen) | 1 | 2005-05-15 to 2005-05-15 |
+| `experimentenwet-vooropleidingseisen-selectie-en-collegegeldheffing` | Experimentenwet vooropleidingseisen, selectie en collegegeldheffing | 1 | 2023-09-01 to 2023-09-01 |
+| `wijzigingswet-politiewet-1993-stellen-van-regels-voor-treffen-van-samenwerkingsvoorziening` | Wijzigingswet Politiewet 1993 (stellen van regels voor treffen van samenwerkingsvoorzieningen op initiatief van politiekorpsen en voor informatie- en communicatievoorzieningen van de politie) | 1 | 2006-08-01 to 2006-08-01 |
+| `wijzigingswet-wet-op-de-waterkering-en-intrekking-deltawet-grote-rivieren-etc` | Wijzigingswet Wet op de waterkering en intrekking Deltawet grote rivieren, etc. | 1 | 2005-09-28 to 2005-09-28 |
+| `rijkswet-tot-goedkeuring-protocol-instelling-internationaal-fonds-voor-vergoeding-schade-d` | Rijkswet tot goedkeuring Protocol instelling Internationaal Fonds voor vergoeding schade door verontreiniging door olie 1992 | 1 | 2005-06-15 to 2005-06-15 |
+| `rijkswet-instelling-aansluitende-zone` | Rijkswet instelling aansluitende zone | 1 | 2006-09-01 to 2006-09-01 |
+| `wet-tot-samenvoeging-van-de-gemeenten-venhuizen-en-drechterland` | Wet tot samenvoeging van de gemeenten Venhuizen en Drechterland | 1 | 2005-09-01 to 2005-09-01 |
+| `wijzigingswet-wet-op-de-ruimtelijke-ordening-verjaring-van-en-heffing-bij-planschadevergoe` | Wijzigingswet Wet op de Ruimtelijke Ordening (verjaring van en heffing bij planschadevergoedingsaanspraken, alsmede planschadevergoedingsovereenkomsten) | 1 | 2005-09-01 to 2005-09-01 |
+| `wet-tot-veiling-van-bepaalde-verkooppunten-van-motorbrandstoffen` | Wet tot veiling van bepaalde verkooppunten van motorbrandstoffen | 1 | 2025-02-12 to 2025-02-12 |
+| `wijzigingswet-wet-explosieven-voor-civiel-gebruik-implementatie-richtlijn-identificeren-py` | Wijzigingswet Wet explosieven voor civiel gebruik (implementatie richtlijn identificeren pyrotechnische voorwerpen en controle op explosieven voor civiel gebruik) | 1 | 2005-09-14 to 2005-09-14 |
+| `wijzigingswet-wegenverkeerswet-1994-enz-vergemakkelijken-verhaal-schade-als-gevolg-van-ong` | Wijzigingswet Wegenverkeerswet 1994, enz. (vergemakkelijken verhaal schade als gevolg van ongeval motorrijtuig) | 1 | 2005-10-01 to 2005-10-01 |
+| `wijzigingswet-wet-toezicht-effectenverkeer-1995-enz-implementatie-enkele-richtlijnen-betre` | Wijzigingswet Wet toezicht effectenverkeer 1995, enz. (implementatie enkele richtlijnen betreffende het prospectus dat gepubliceerd moet worden wanneer effecten aan het publiek worden aangeboden of tot de handel worden toegelaten) | 1 | 2005-07-01 to 2005-07-01 |
+| `aanpassingswet-algemene-wet-inkomensafhankelijke-regelingen` | Aanpassingswet Algemene wet inkomensafhankelijke regelingen | 1 | 2015-01-01 to 2015-01-01 |
+| `wijzigingswet-algemene-wet-inkomensafhankelijke-regelingen-enz` | Wijzigingswet Algemene wet inkomensafhankelijke regelingen, enz. | 1 | 2005-09-01 to 2005-09-01 |
+| `wet-marktmisbruik` | Wet marktmisbruik | 1 | 2005-10-01 to 2005-10-01 |
+| `wijzigingswet-wet-subsidiering-politieke-partijen-verhoging-subsidiebedragen-verbreding-su` | Wijzigingswet Wet subsidiëring politieke partijen (verhoging subsidiebedragen, verbreding subsidiabele doelen en aanpassing subsidiegrondslag) | 1 | 2005-07-27 to 2005-07-27 |
+| `wet-samenvoeging-gemeenten-katwijk-rijnsburg-en-valkenburg` | Wet samenvoeging gemeenten Katwijk, Rijnsburg en Valkenburg | 1 | 2005-09-01 to 2005-09-01 |
+| `wijzigingswet-gemeentewet-en-wet-politieregisters-cameratoezicht-op-openbare-plaatsen` | Wijzigingswet Gemeentewet en Wet politieregisters (cameratoezicht op openbare plaatsen) | 1 | 2006-02-01 to 2006-02-01 |
+| `wijzigingswet-boek-2-burgerlijk-wetboek-ter-uitvoering-van-ias-verordening-ias-39-richtlij` | Wijzigingswet boek 2 Burgerlijk Wetboek ter uitvoering van IAS-verordening, IAS 39-richtlijn en moderniseringsrichtlijn | 1 | 2005-07-27 to 2005-07-27 |
+| `wijzigingswet-wet-toezicht-beleggingsinstellingen-modernisering-wet-en-implementatie-richt` | Wijzigingswet Wet toezicht beleggingsinstellingen (modernisering wet en implementatie richtlijnen 2001/107/EG en 2001/108/EG) | 1 | 2005-09-01 to 2005-09-01 |
+| `wijzigingswet-mediawet-bevorderen-gezamenlijke-strategie-en-duidelijke-regie-met-betrekkin` | Wijzigingswet Mediawet (bevorderen gezamenlijke strategie en duidelijke regie met betrekking tot programmering landelijke publieke omroep, aanbrengen helderder afbakening tussen toezicht, bestuur en professionele werkprocessen binnen de organisatie van de landelijke publieke omroep) | 1 | 2006-10-06 to 2006-10-06 |
+| `wijzigingswet-hoofdstuk-18-wet-milieubeheer-handhavingsstructuur` | Wijzigingswet hoofdstuk 18 Wet milieubeheer (Handhavingsstructuur) | 1 | 2005-11-10 to 2005-11-10 |
+| `aanpassingswet-wetboek-van-burgerlijke-rechtsvordering-enz-in-verband-met-het-nieuwe-proce` | Aanpassingswet Wetboek van Burgerlijke Rechtsvordering, enz. in verband met het nieuwe procesrecht | 1 | 2005-10-15 to 2005-10-15 |
+| `wijzigingswet-gezondheids-en-welzijnswet-voor-dieren-intrekking-kortingensysteem-artikel-8` | Wijzigingswet Gezondheids- en welzijnswet voor dieren (intrekking kortingensysteem artikel 86, tweede lid) | 1 | 2006-01-01 to 2006-01-01 |
+| `wet-samenvoeging-van-de-gemeenten-sassenheim-voorhout-en-warmond` | Wet samenvoeging van de gemeenten Sassenheim, Voorhout en Warmond | 1 | 2005-09-21 to 2005-09-21 |
+| `wet-gemeentelijke-herindeling-in-een-deel-van-de-utrechtse-heuvelrug` | Wet gemeentelijke herindeling in een deel van de Utrechtse Heuvelrug | 1 | 2005-09-21 to 2005-09-21 |
+| `wijzigingswet-wet-op-de-vennootschapsbelasting-1969-vervallen-concernfinancieringsregeling` | Wijzigingswet Wet op de vennootschapsbelasting 1969 (vervallen concernfinancieringsregeling) | 1 | 2005-12-01 to 2005-12-01 |
+| `wijzigingswet-meststoffenwet-invoering-gebruiksnormen` | Wijzigingswet Meststoffenwet (invoering gebruiksnormen) | 1 | 2008-01-01 to 2008-01-01 |
+| `wijzigingswet-wet-bodembescherming-overgang-taken-service-centrum-grond` | Wijzigingswet Wet bodembescherming (overgang taken Service Centrum Grond) | 1 | 2005-10-12 to 2005-10-12 |
+| `spellingwet` | Spellingwet | 1 | 2021-07-01 to 2021-07-01 |
+| `uitvoeringswet-verordening-europese-executoriale-titel` | Uitvoeringswet verordening Europese executoriale titel | 1 | 2017-09-01 to 2017-09-01 |
+| `wet-dualisering-gemeentelijke-medebewindsbevoegdheden` | Wet dualisering gemeentelijke medebewindsbevoegdheden | 1 | 2008-10-22 to 2008-10-22 |
+| `wet-dualisering-provinciale-medebewindsbevoegdheden` | Wet dualisering provinciale medebewindsbevoegdheden | 1 | 2006-03-08 to 2006-03-08 |
+| `wijzigingswet-tracewet-tweede-tranche` | Wijzigingswet Tracéwet (tweede tranche) | 1 | 2005-11-30 to 2005-11-30 |
+| `wijzigingswet-wetboek-van-strafrecht-enz-vervallen-verjaringstermijn-voor-vervolging-van-m` | Wijzigingswet Wetboek van Strafrecht, enz. (vervallen verjaringstermijn voor vervolging van moord en enkele andere misdrijven) | 1 | 2006-01-01 to 2006-01-01 |
+| `wijzigingswet-wet-bijzondere-opnemingen-in-psychiatrische-ziekenhuizen-enz-aanpassing-klac` | Wijzigingswet Wet bijzondere opnemingen in psychiatrische ziekenhuizen, enz. (aanpassing klachtregeling) | 1 | 2006-03-01 to 2006-03-01 |
+| `wijzigingswet-wet-medisch-wetenschappelijk-onderzoek-met-mensen-enz-wetenschappelijk-onder` | Wijzigingswet Wet medisch-wetenschappelijk onderzoek met mensen, enz. (wetenschappelijk onderzoek met geneesmiddelen) | 1 | 2006-03-01 to 2006-03-01 |
+| `wijzigingswet-wet-gemeenschappelijke-regelingen-etc-afschaffing-verplichte-bundeling-en-in` | Wijzigingswet Wet gemeenschappelijke regelingen, etc. (afschaffing verplichte bundeling en integratie gemeenschappelijke regelingen in samenwerkingsgebieden) | 1 | 2006-01-01 to 2006-01-01 |
+| `wijzigingswet-van-enkele-belastingwetten-herziening-behandeling-omzetting-en-kwijtscheldin` | Wijzigingswet van enkele belastingwetten (herziening behandeling omzetting en kwijtschelding van afgewaardeerde vorderingen en aanpassing regeling voor afwaarderingsverliezen van deelnemingen) | 1 | 2007-01-01 to 2007-01-01 |
+| `wijzigingswet-wet-bodembescherming-enz-beleid-inzake-bodemsaneringen` | Wijzigingswet Wet bodembescherming, enz. (beleid inzake bodemsaneringen) | 1 | 2006-01-01 to 2006-01-01 |
+| `belastingplan-2006` | Belastingplan 2006 | 1 | 2008-01-01 to 2008-01-01 |
+| `wet-vpb-pakket-2006` | Wet VPB-pakket 2006 | 1 | 2006-01-01 to 2006-01-01 |
+| `wijzigingswet-wetboek-van-strafrecht-enz-herijking-aantal-wettelijke-strafmaxima` | Wijzigingswet Wetboek van Strafrecht, enz. (herijking aantal wettelijke strafmaxima) | 1 | 2006-02-01 to 2006-02-01 |
+| `invoeringswet-titel-7-17-en-titel-7-18-burgerlijk-wetboek` | Invoeringswet titel 7.17 en titel 7.18 Burgerlijk Wetboek | 1 | 2006-01-01 to 2006-01-01 |
+| `aanpassings-en-verzamelwet-wet-werk-en-inkomen-naar-arbeidsvermogen` | Aanpassings- en verzamelwet Wet werk en inkomen naar arbeidsvermogen | 1 | 2007-01-01 to 2007-01-01 |
+| `wijzigingswet-algemene-ouderdomswet-enz-toekennen-tegemoetkomingen-aan-personen-die-een-ui` | Wijzigingswet Algemene Ouderdomswet, enz. (toekennen tegemoetkomingen aan personen die een uitkering ontvangen op grond van de Algemene Ouderdomswet of de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten) | 1 | 2006-01-01 to 2006-01-01 |
+| `wijzigingswet-gemeentewet-enz-afschaffing-gebruikersdeel-ozb-op-woningen` | Wijzigingswet Gemeentewet, enz. (Afschaffing gebruikersdeel OZB op woningen) | 1 | 2006-01-01 to 2006-01-01 |
+| `wet-bijzondere-maatregelen-grootstedelijke-problematiek` | Wet bijzondere maatregelen grootstedelijke problematiek | 1 | 2026-06-04 to 2026-06-04 |
+| `wijzigingswet-wet-op-de-rechtsbijstand-aanpassing-van-het-inkomens-en-vermogensbegrip-aan` | Wijzigingswet Wet op de rechtsbijstand (aanpassing van het inkomens- en vermogensbegrip aan het fiscale inkomens- en vermogensbegrip) | 1 | 2006-04-01 to 2006-04-01 |
+| `wijzigingswet-wet-voorkoming-misbruik-chemicalien-enz-handel-in-drugsprecursoren` | Wijzigingswet Wet voorkoming misbruik chemicaliën, enz. (handel in drugsprecursoren) | 1 | 2006-02-22 to 2006-02-22 |
+| `wet-internationaal-goederenvervoer-over-de-binnenwateren` | Wet internationaal goederenvervoer over de binnenwateren | 1 | 2006-06-01 to 2006-06-01 |
+| `wijzigingswet-boek-2-van-het-burgerlijk-wetboek-bepalingen-financiele-verslaggeving-verzek` | Wijzigingswet Boek 2 van het Burgerlijk Wetboek (bepalingen financiële verslaggeving verzekeringsmaatschappijen) | 1 | 2006-06-01 to 2006-06-01 |
+| `kaderwet-overige-bzk-subsidies` | Kaderwet overige BZK-subsidies | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-onafhankelijke-risicobeoordeling-nederlandse-voedsel-en-warenautoriteit` | Wet onafhankelijke risicobeoordeling Nederlandse Voedsel- en Warenautoriteit | 1 | 2021-07-01 to 2021-07-01 |
+| `wet-samenvoeging-gemeenten-binnenmaas-en-s-gravendeel` | Wet samenvoeging gemeenten Binnenmaas en 's-Gravendeel | 1 | 2006-06-16 to 2006-06-16 |
+| `wet-samenvoeging-gemeenten-liemeer-nieuwkoop-en-ter-aar` | Wet samenvoeging gemeenten Liemeer, Nieuwkoop en Ter Aar | 1 | 2006-06-16 to 2006-06-16 |
+| `wijzigingswet-wetboek-van-strafrecht-enz-nieuwe-ontwikkelingen-in-de-informatietechnologie` | Wijzigingswet Wetboek van Strafrecht, enz. (nieuwe ontwikkelingen in de informatietechnologie (computercriminaliteit II)) | 1 | 2007-09-01 to 2007-09-01 |
+| `rijkswet-houdende-goedkeuring-verdrag-betreffende-de-toetreding-van-de-republiek-bulgarije` | Rijkswet houdende goedkeuring Verdrag betreffende de toetreding van de Republiek Bulgarije en Roemenië tot de Europese Unie | 1 | 2006-07-05 to 2006-07-05 |
+| `wijzigingswet-wet-op-de-jeugdzorg-en-wetboek-van-burgerlijke-rechtsvordering` | Wijzigingswet Wet op de jeugdzorg en Wetboek van Burgerlijke Rechtsvordering | 1 | 2007-07-01 to 2007-07-01 |
+| `wijzigingswet-wet-op-de-orgaandonatie-evaluatie` | Wijzigingswet Wet op de orgaandonatie (evaluatie) | 1 | 2007-01-01 to 2007-01-01 |
+| `wijzigingswet-wegenverkeerswet-1994-invoering-bromfietsrijbewijs` | Wijzigingswet Wegenverkeerswet 1994 (invoering bromfietsrijbewijs) | 1 | 2007-11-14 to 2007-11-14 |
+| `wijzigingswet-wet-bevordering-eigenwoningbezit-afschaffing-van-de-correctie-verzamelinkome` | Wijzigingswet Wet bevordering eigenwoningbezit (afschaffing van de correctie verzamelinkomen) | 1 | 2026-06-04 to 2026-06-04 |
+| `wijzigingswet-uitvoeringswet-huurprijzen-woonruimte-enz-eenzijdige-legesheffing` | Wijzigingswet Uitvoeringswet huurprijzen woonruimte, enz. (eenzijdige legesheffing) | 1 | 2006-07-01 to 2006-07-01 |
+| `wijzigingswet-wet-luchtvaart-exploitatie-schiphol` | Wijzigingswet Wet luchtvaart (exploitatie Schiphol) | 1 | 2006-07-19 to 2006-07-19 |
+| `wijzigingswet-wetboek-van-strafrecht-verlenging-verjaring-inzake-overtredingen-na-stuiting` | Wijzigingswet Wetboek van Strafrecht (verlenging verjaring inzake overtredingen na stuiting) | 1 | 2006-07-07 to 2006-07-07 |
+| `wijzigingswet-wet-milieubeheer-uitvoering-richtlijn-nr-2001-42-eg-betreffende-milieu-effec` | Wijzigingswet Wet milieubeheer (uitvoering richtlijn nr. 2001/42/EG betreffende milieu-effectrapportage plannen) | 1 | 2008-01-01 to 2008-01-01 |
+| `wijzigingswet-wet-geluidhinder-modernisering-instrumentarium-geluidbeleid-eerste-fase` | Wijzigingswet Wet geluidhinder (modernisering instrumentarium geluidbeleid, eerste fase) | 1 | 2010-02-24 to 2010-02-24 |
+| `wet-samenvoeging-gemeenten-bergschenhoek-berkel-en-rodenrijs-en-bleiswijk` | Wet samenvoeging gemeenten Bergschenhoek, Berkel en Rodenrijs en Bleiswijk | 1 | 2006-08-16 to 2006-08-16 |
+| `wet-samenvoeging-gemeenten-obdam-en-wester-koggenland` | Wet samenvoeging gemeenten Obdam en Wester-Koggenland | 1 | 2006-09-01 to 2006-09-01 |
+| `wet-samenvoeging-gemeenten-medemblik-noorder-koggenland-en-wognum-en-grenswijziging-gemeen` | Wet samenvoeging gemeenten Medemblik, Noorder-Koggenland en Wognum en grenswijziging gemeente Hoorn | 1 | 2006-09-01 to 2006-09-01 |
+| `wet-om-afdoening` | Wet OM-afdoening | 1 | 2013-04-01 to 2013-04-01 |
+| `wet-gemeentelijke-herindeling-westelijk-deel-midden-limburg` | Wet gemeentelijke herindeling westelijk deel Midden-Limburg | 1 | 2006-09-22 to 2006-09-22 |
+| `wet-samenvoeging-gemeenten-ambt-montfort-en-roerdalen` | Wet samenvoeging gemeenten Ambt Montfort en Roerdalen | 1 | 2006-09-22 to 2006-09-22 |
+| `wet-samenvoeging-gemeenten-roermond-en-swalmen` | Wet samenvoeging gemeenten Roermond en Swalmen | 1 | 2006-09-22 to 2006-09-22 |
+| `wijzigingswet-wetboek-van-strafvordering-afgeschermde-getuigen` | Wijzigingswet Wetboek van Strafvordering (afgeschermde getuigen) | 1 | 2006-11-01 to 2006-11-01 |
+| `wijzigingswet-wet-op-de-beroepen-in-de-individuele-gezondheidszorg-specialistenregisters` | Wijzigingswet Wet op de beroepen in de individuele gezondheidszorg (specialistenregisters) | 1 | 2006-12-15 to 2006-12-15 |
+| `wijzigingswet-wetboek-van-strafvordering-stroomlijnen-hoger-beroep` | Wijzigingswet Wetboek van Strafvordering (stroomlijnen hoger beroep) | 1 | 2007-07-01 to 2007-07-01 |
+| `wijzigingswet-wet-uitkeringen-burger-oorlogsslachtoffers-19401945-enz-vereenvoudiging-syst` | Wijzigingswet Wet uitkeringen burger-oorlogsslachtoffers 1940–1945, enz. (vereenvoudiging systematiek toeslag premie ziektekostenverzekering) | 1 | 2006-11-17 to 2006-11-17 |
+| `wijzigingswet-wet-op-de-inlichtingen-en-veiligheidsdiensten-2002-invoering-nieuw-stelsel-v` | Wijzigingswet Wet op de inlichtingen- en veiligheidsdiensten 2002 (invoering nieuw stelsel voor bewaking en beveiliging) | 1 | 2006-12-29 to 2006-12-29 |
+| `veegwet-ez-2005` | Veegwet EZ 2005 | 1 | 2007-02-07 to 2007-02-07 |
+| `wijzigingswet-boek-1-burgerlijk-wetboek-enz-herschikking-bevoegdheidsverdeling-tussen-rech` | Wijzigingswet Boek 1 Burgerlijk Wetboek, enz. (herschikking bevoegdheidsverdeling tussen rechtbank en kantonrechter) | 1 | 2007-05-01 to 2007-05-01 |
+| `wijzigingswet-wet-milieubeheer-enz-modernisering-van-de-algemene-milieuregels-voor-inricht` | Wijzigingswet Wet milieubeheer, enz. (modernisering van de algemene milieuregels voor inrichtingen) | 1 | 2008-01-01 to 2008-01-01 |
+| `wijzigingswet-wegenverkeerswet-1994-enz` | Wijzigingswet Wegenverkeerswet 1994, enz. | 1 | 2009-05-01 to 2009-05-01 |
+| `wet-implementatie-kapitaalakkoord-bazel-2` | Wet implementatie kapitaalakkoord Bazel 2 | 1 | 2007-01-01 to 2007-01-01 |
+| `wijzigingswet-wet-luchtvaart-experimenten-schiphol` | Wijzigingswet Wet luchtvaart (Experimenten Schiphol) | 1 | 2006-12-13 to 2006-12-13 |
+| `wijzigingswet-arbeidstijdenwet-vereenvoudiging-wet` | Wijzigingswet Arbeidstijdenwet (vereenvoudiging wet) | 1 | 2007-04-01 to 2007-04-01 |
+| `verzamelwet-arbeidsverhoudingen-en-arbeidsmarkt-2006` | Verzamelwet arbeidsverhoudingen en arbeidsmarkt 2006 | 1 | 2012-01-01 to 2012-01-01 |
+| `wijzigingswet-arbeidsomstandighedenwet-1998-enz-vergroten-verantwoordelijkheid-werkgevers` | Wijzigingswet Arbeidsomstandighedenwet 1998, enz. (vergroten verantwoordelijkheid werkgevers en werknemers voor het arbeidsomstandighedenbeleid) | 1 | 2007-01-01 to 2007-01-01 |
+| `wijzigingswet-belastingwetten-ter-vermindering-van-administratieve-lasten-wijzigingsplan-p` | Wijzigingswet belastingwetten ter vermindering van administratieve lasten (Wijzigingsplan «Paarse krokodil») | 1 | 2023-06-01 to 2023-06-01 |
+| `belastingplan-2007` | Belastingplan 2007 | 1 | 2008-12-31 to 2008-12-31 |
+| `wijzigingswet-wet-bevordering-eigenwoningbezit-verruiming-en-vereenvoudiging-werking-van-d` | Wijzigingswet Wet bevordering eigenwoningbezit (verruiming en vereenvoudiging werking van de Wet bevordering eigenwoningbezit) | 1 | 2008-06-13 to 2008-06-13 |
+| `wijzigingswet-telecommunicatiewet-implementatie-richtlijn-2004-108-eg` | Wijzigingswet Telecommunicatiewet (implementatie richtlijn 2004/108/EG) | 1 | 2007-07-20 to 2007-07-20 |
+| `wet-op-de-archeologische-monumentenzorg` | Wet op de archeologische monumentenzorg | 1 | 2008-01-01 to 2008-01-01 |
+| `aanpassingswet-wet-op-de-vennootschapsbelasting-1969-omzetting-vaste-inrichting-met-verlie` | Aanpassingswet Wet op de vennootschapsbelasting 1969 (omzetting vaste inrichting met verliezen in een deelneming) | 1 | 2007-03-09 to 2007-03-09 |
+| `wijzigingswet-wet-ammoniak-en-veehouderij` | Wijzigingswet Wet ammoniak en veehouderij | 1 | 2007-05-01 to 2007-05-01 |
+| `aanpassingswet-wetboek-van-burgerlijke-rechtsvordering-enz-uitvoering-richtlijn-nr-2004-48` | Aanpassingswet Wetboek van Burgerlijke Rechtsvordering, enz. (uitvoering Richtlijn nr. 2004/48/EG) | 1 | 2007-05-01 to 2007-05-01 |
+| `wet-basisregistraties-kadaster-en-topografie` | Wet basisregistraties kadaster en topografie | 1 | 2010-01-01 to 2010-01-01 |
+| `wijzigingswet-wet-bezoldiging-raad-van-state-en-algemene-rekenkamer-enz-inwerkingtreding-z` | Wijzigingswet Wet bezoldiging Raad van State en Algemene Rekenkamer, enz. (inwerkingtreding Zorgverzekeringswet) | 1 | 2010-01-01 to 2010-01-01 |
+| `wijzigingswet-wetboek-van-strafvordering-enz-wegnemen-van-enkele-technische-onvolkomenhede` | Wijzigingswet Wetboek van Strafvordering, enz. (wegnemen van enkele technische onvolkomenheden) | 1 | 2007-05-09 to 2007-05-09 |
+| `wijzigingswet-havenbeveiligingswet-implementatie-richtlijn-nr-2005-65-eg-betreffende-verho` | Wijzigingswet Havenbeveiligingswet (implementatie richtlijn nr. 2005/65/EG betreffende verhogen veiligheid van havens) | 1 | 2007-06-15 to 2007-06-15 |
+| `wijzigingswet-politiewet-1993-versterken-bevoegdheden-op-rijksniveau-alsmede-opheffing-raa` | Wijzigingswet Politiewet 1993 (versterken bevoegdheden op rijksniveau, alsmede opheffing Raad voor het Korps landelijke politiediensten) | 1 | 2008-01-01 to 2008-01-01 |
+| `uitvoeringswet-eg-verordening-registratie-evaluatie-en-autorisatie-van-chemische-stoffen-r` | Uitvoeringswet EG-verordening registratie, evaluatie en autorisatie van chemische stoffen (REACH) | 1 | 2008-06-13 to 2008-06-13 |
+| `wijzigingswet-algemene-pensioenwet-politieke-ambtsdragers-wijziging-bepalingen-inzake-waar` | Wijzigingswet Algemene pensioenwet politieke ambtsdragers (wijziging bepalingen inzake waardeoverdracht pensioenaanspraken) | 1 | 2007-06-06 to 2007-06-06 |
+| `wijzigingswet-faillissementswet-herziening-schuldsaneringsregeling-natuurlijke-personen` | Wijzigingswet Faillissementswet (herziening schuldsaneringsregeling natuurlijke personen) | 1 | 2008-01-01 to 2008-01-01 |
+| `wijzigingswet-leerplichtwet-1969-enz-invoering-van-een-kwalificatieplicht` | Wijzigingswet Leerplichtwet 1969, enz. (invoering van een kwalificatieplicht) | 1 | 2008-06-27 to 2008-06-27 |
+| `uitvoeringswet-richtlijn-openbaar-overnamebod` | Uitvoeringswet richtlijn openbaar overnamebod | 1 | 2007-10-28 to 2007-10-28 |
+| `wet-modernisering-waterschapsbestel` | Wet modernisering waterschapsbestel | 1 | 2009-05-02 to 2009-05-02 |
+| `wijzigingswet-ontgrondingenwet` | Wijzigingswet Ontgrondingenwet | 1 | 2009-01-01 to 2009-01-01 |
+| `goedkeuringswet-regeling-buitentoepassingstelling-energie-investeringsaftrek-en-milieu-inv` | Goedkeuringswet regeling buitentoepassingstelling energie-investeringsaftrek en milieu-investeringsaftrek | 1 | 2007-07-20 to 2007-07-20 |
+| `rijkswet-tot-wijziging-statuut-voor-het-koninkrijk-der-nederlanden-losmaking-aruba-uit-sta` | Rijkswet tot wijziging Statuut voor het Koninkrijk der Nederlanden (losmaking Aruba uit Staatsverband Nederlandse Antillen) | 1 | 1986-01-01 to 1986-01-01 |
+| `wijzigingswet-gemeentewet-enz-verankering-en-bekostiging-van-gemeentelijke-watertaken` | Wijzigingswet Gemeentewet, enz. (verankering en bekostiging van gemeentelijke watertaken) | 1 | 2010-01-01 to 2010-01-01 |
+| `wijzigingswet-mededingingswet-evaluatie` | Wijzigingswet Mededingingswet (evaluatie) | 1 | 2007-10-01 to 2007-10-01 |
+| `wijzigingswet-toeslagenwet-enz-verbeteren-en-vereenvoudigen-van-de-wijze-waarop-het-sociaa` | Wijzigingswet Toeslagenwet, enz. (verbeteren en vereenvoudigen van de wijze waarop het sociaal minimum wordt gewaarborgd in de loondervingsuitkeringen) | 1 | 2008-01-01 to 2008-01-01 |
+| `wijzigingswet-algemene-wet-inzake-rijksbelastingen-enz-versterking-fiscale-rechtshandhavin` | Wijzigingswet Algemene wet inzake rijksbelastingen, enz. (Versterking fiscale rechtshandhaving) | 1 | 2009-11-01 to 2009-11-01 |
+| `implementatiewet-eg-richtlijn-ecologisch-ontwerp-energieverbruikende-producten` | Implementatiewet EG-richtlijn ecologisch ontwerp energieverbruikende producten | 1 | 2010-11-20 to 2010-11-20 |
+| `wet-implementatie-richtlijn-markten-voor-financiele-instrumenten` | Wet implementatie richtlijn markten voor financiële instrumenten | 1 | 2007-11-01 to 2007-11-01 |
+| `wijzigingswet-wet-milieubeheer-enz-luchtkwaliteitseisen` | Wijzigingswet Wet milieubeheer, enz. (luchtkwaliteitseisen) | 1 | 2009-08-01 to 2009-08-01 |
+| `wijzigingswet-wet-op-de-kamers-van-koophandel-en-fabrieken-1997` | Wijzigingswet Wet op de kamers van koophandel en fabrieken 1997 | 1 | 2009-07-01 to 2009-07-01 |
+| `wet-houdende-verlenging-totale-duur-van-de-voorwaardelijke-beeindiging-van-de-verpleging-v` | Wet houdende verlenging totale duur van de voorwaardelijke beëindiging van de verpleging van overheidswege | 1 | 2008-01-01 to 2008-01-01 |
+| `wijzigingswet-wet-belastingen-op-milieugrondslag-enz-vereenvoudiging-regelgeving` | Wijzigingswet Wet belastingen op milieugrondslag, enz. (vereenvoudiging regelgeving) | 1 | 2008-01-01 to 2008-01-01 |
+| `evaluatie-2006-rijksoctrooiwet-1995` | Evaluatie 2006 Rijksoctrooiwet 1995 | 1 | 2008-06-05 to 2008-06-05 |
+| `wijzigingswet-zorgverzekeringswet-enz-vervanging-no-claimteruggave-door-verplicht-eigen-ri` | Wijzigingswet Zorgverzekeringswet enz. (vervanging no-claimteruggave door verplicht eigen risico) | 1 | 2012-01-01 to 2012-01-01 |
+| `wijzigingswet-wetboek-van-strafrecht-enz-wijziging-vervroegde-invrijheidstelling-in-een-vo` | Wijzigingswet Wetboek van Strafrecht, enz. (wijziging vervroegde invrijheidstelling in een voorwaardelijke invrijheidstelling) | 1 | 2008-07-01 to 2008-07-01 |
+| `wijzigingswet-zorgverzekeringswet-enz-verzwaren-incassoregime-premie-en-andere-maatregelen` | Wijzigingswet Zorgverzekeringswet, enz. (verzwaren incassoregime premie en andere maatregelen zorgverzekering) | 1 | 2009-11-27 to 2009-11-27 |
+| `belastingplan-2008` | Belastingplan 2008 | 1 | 2011-01-01 to 2011-01-01 |
+| `overige-fiscale-maatregelen-2008` | Overige fiscale maatregelen 2008 | 1 | 2010-01-01 to 2010-01-01 |
+| `wijzigingswet-wetboek-van-strafrecht-enz-gedragsbeinvloeding-jeugdigen` | Wijzigingswet Wetboek van Strafrecht, enz. (gedragsbeïnvloeding jeugdigen) | 1 | 2008-03-26 to 2008-03-26 |
+| `wijzigingswet-wet-op-de-jeugdzorg-enz-gesloten-jeugdzorg` | Wijzigingswet Wet op de jeugdzorg, enz. (gesloten jeugdzorg) | 1 | 2014-02-15 to 2014-02-15 |
+| `wet-inburgering-in-het-buitenland` | Wet inburgering in het buitenland | 1 | 2006-03-15 to 2006-03-15 |
+| `wijziging-van-de-elektriciteitswet-1998-ter-implementatie-van-de-richtlijn-warmtekrachtkop` | Wijziging van de Elektriciteitswet 1998 ter implementatie van de richtlijn warmtekrachtkoppeling | 1 | 2007-09-28 to 2007-09-28 |
+| `reparatiewet-vws-2006` | Reparatiewet VWS 2006 | 1 | 2013-01-01 to 2013-01-01 |
+| `wet-eenmalige-gegevensuitvraag-werk-en-inkomen` | Wet eenmalige gegevensuitvraag werk en inkomen | 1 | 2008-01-01 to 2008-01-01 |
+| `goedkeuringswet-verdrag-inzake-de-intensivering-grensoverschrijdende-samenwerking` | Goedkeuringswet Verdrag inzake de intensivering grensoverschrijdende samenwerking | 1 | 2008-01-30 to 2008-01-30 |
+| `wet-bestuurlijke-boete-overlast-in-de-openbare-ruimte` | Wet bestuurlijke boete overlast in de openbare ruimte | 1 | 2009-01-14 to 2009-01-14 |
+| `reparatiewet-iii-justitie` | Reparatiewet III Justitie | 1 | 2008-03-26 to 2008-03-26 |
+| `wet-afschaffing-procuraat-en-invoering-elektronisch-berichtenverkeer` | Wet afschaffing procuraat en invoering elektronisch berichtenverkeer | 1 | 2008-09-01 to 2008-09-01 |
+| `wijzigingswet-wet-luchtvaart-communautaire-vergunning-luchtverkeersleiders` | Wijzigingswet Wet luchtvaart (communautaire vergunning luchtverkeersleiders) | 1 | 2010-07-07 to 2010-07-07 |
+| `wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-regeling-850-urennorm` | Wijzigingswet Wet educatie en beroepsonderwijs, enz. (regeling 850 urennorm) | 1 | 2008-04-30 to 2008-04-30 |
+| `invoeringswet-binnenvaartwet` | Invoeringswet Binnenvaartwet | 1 | 2009-07-01 to 2009-07-01 |
+| `invoeringswet-wet-ruimtelijke-ordening` | Invoeringswet Wet ruimtelijke ordening | 1 | 2018-07-01 to 2018-07-01 |
+| `wet-zwangerschaps-en-bevallingsuitkering-zelfstandigen` | Wet zwangerschaps- en bevallingsuitkering zelfstandigen | 1 | 2009-08-01 to 2009-08-01 |
+| `wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-overgang-toezicht-kwaliteit-examinering` | Wijzigingswet Wet educatie en beroepsonderwijs, enz. (overgang toezicht kwaliteit examinering beroepsopleidingen naar de Inspectie van het onderwijs) | 1 | 2008-06-13 to 2008-06-13 |
+| `wijzigingswet-wet-op-de-architectentitel-beroepskwalificaties-voor-architecten-stedenbouwk` | Wijzigingswet Wet op de architectentitel (beroepskwalificaties voor architecten, stedenbouwkundigen, tuin- en landschapsarchitecten en interieurarchitecten) | 1 | 2008-07-15 to 2008-07-15 |
+| `wijzigingswet-wet-toezicht-accountantsorganisaties-enz-wettelijke-controles-jaarrekeningen` | Wijzigingswet Wet toezicht accountantsorganisaties, enz. (wettelijke controles jaarrekeningen en geconsolideerde jaarrekeningen) | 1 | 2008-06-28 to 2008-06-28 |
+| `wijzigingswet-mijnbouwwet-deelneming-opsporing-en-winning-van-koolwaterstoffen-door-daarto` | Wijzigingswet Mijnbouwwet (deelneming opsporing en winning van koolwaterstoffen door daartoe aangewezen vennootschap) | 1 | 2011-01-01 to 2011-01-01 |
+| `wijzigingswet-wet-inkomstenbelasting-2001-enz-bijstellingen-en-technische-reparaties` | Wijzigingswet Wet inkomstenbelasting 2001, enz. (bijstellingen en technische reparaties) | 1 | 2009-01-01 to 2009-01-01 |
+| `wijzigingswet-wet-op-het-kindgebonden-budget-vaststelling-hoogte-kindgebonden-budget-met-i` | Wijzigingswet Wet op het kindgebonden budget (vaststelling hoogte kindgebonden budget met ingang van 2009 en wijziging afbouwpercentage) | 1 | 2008-09-01 to 2008-09-01 |
+| `rijkswet-tot-wijziging-rijkswet-op-het-nederlanderschap-invoering-verklaring-verbondenheid` | Rijkswet tot wijziging Rijkswet op het Nederlanderschap (invoering verklaring verbondenheid en aanpassing regeling verkrijging Nederlanderschap na erkenning) | 1 | 2009-03-01 to 2009-03-01 |
+| `wet-samenvoeging-gemeenten-bennebroek-en-bloemendaal` | Wet samenvoeging gemeenten Bennebroek en Bloemendaal | 1 | 2008-07-18 to 2008-07-18 |
+| `wet-samenvoeging-gemeenten-alkemade-en-jacobswoude` | Wet samenvoeging gemeenten Alkemade en Jacobswoude | 1 | 2008-07-18 to 2008-07-18 |
+| `wijzigingswet-zorgverzekeringswet-rechtsgang-bronheffing-verdragsgerechtigden` | Wijzigingswet Zorgverzekeringswet (rechtsgang bronheffing verdragsgerechtigden) | 1 | 2008-08-01 to 2008-08-01 |
+| `wijzigingswet-wet-werk-en-bijstand-enz-meer-zekerheid-gemeenten-dat-mensen-met-kleine-kans` | Wijzigingswet Wet werk en bijstand, enz. (meer zekerheid gemeenten dat mensen met kleine kans op inschakeling in arbeidsproces met behoud van uitkering maximaal 2 jaar onbeloonde additionele werkzaamheden kunnen verrichten) | 1 | 2008-07-18 to 2008-07-18 |
+| `rijkswet-houdende-goedkeuring-verdrag-van-lissabon-tot-wijziging-van-het-verdrag-betreffen` | Rijkswet houdende goedkeuring Verdrag van Lissabon tot wijziging van het Verdrag betreffende de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap | 1 | 2008-07-25 to 2008-07-25 |
+| `goedkeuringswet-verdrag-tussen-nederland-en-vlaanderen-gemeenschappelijk-nautisch-beheer-i` | Goedkeuringswet Verdrag tussen Nederland en Vlaanderen (gemeenschappelijk nautisch beheer in het Scheldegebied) | 1 | 2008-07-30 to 2008-07-30 |
+| `wijzigingswet-wet-op-het-financieel-toezicht-uitvoering-richtlijn-nr-2005-68-eg-betreffend` | Wijzigingswet Wet op het financieel toezicht (uitvoering richtlijn nr. 2005/68/EG betreffende herverzekering) | 1 | 2016-01-01 to 2016-01-01 |
+| `wijzigingswet-wet-op-de-kansspelbelasting-kansspelen-via-internet` | Wijzigingswet Wet op de kansspelbelasting (kansspelen via internet) | 1 | 2008-10-03 to 2008-10-03 |
+| `wijzigingswet-kieswet-enz-technische-aanpassingen` | Wijzigingswet Kieswet, enz. (technische aanpassingen) | 1 | 2008-12-01 to 2008-12-01 |
+| `wijzigingswet-burgerlijk-wetboek-boek-1-geregistreerd-partnerschap-de-geslachtsnaam-en-het` | Wijzigingswet Burgerlijk Wetboek Boek 1 (geregistreerd partnerschap, de geslachtsnaam en het verkrijgen van gezamenlijk gezag) | 1 | 2009-02-28 to 2009-02-28 |
+| `wijzigingswet-ziektewet-enz-meldingsproces-werknemer-bij-ongeschiktheid-verrichten-van-arb` | Wijzigingswet Ziektewet, enz. (meldingsproces werknemer bij ongeschiktheid verrichten van arbeid en sanctie werkgever bij niet naleving verplichtingen) | 1 | 2008-11-01 to 2008-11-01 |
+| `wijzigingswet-uitvoeringswet-bewijsverdrag-enz-aanpassing-aan-uitvoeringswet-eg-bewijsvero` | Wijzigingswet Uitvoeringswet Bewijsverdrag, enz. (aanpassing aan Uitvoeringswet EG-bewijsverordening) | 1 | 2008-12-01 to 2008-12-01 |
+| `wijzigingswet-burgerlijk-wetboek-boek-1-enz-verkorting-adoptie-procedure-en-adoptie-door-e` | Wijzigingswet Burgerlijk Wetboek Boek 1, enz. (verkorting adoptie-procedure en adoptie door echtgenoten van gelijk geslacht) | 1 | 2009-01-01 to 2009-01-01 |
+| `wijzigingswet-warenwet-enz-opneming-mogelijkheid-om-een-last-onder-bestuursdwang-op-te-leg` | Wijzigingswet Warenwet, enz. ( opneming mogelijkheid om een last onder bestuursdwang op te leggen) | 1 | 2018-11-17 to 2018-11-17 |
+| `wijzigingswet-wegenverkeerswet-1994-invoering-recidiveregeling-ernstige-verkeersdelicten-p` | Wijzigingswet Wegenverkeerswet 1994 (invoering recidiveregeling ernstige verkeersdelicten (puntenstelsel)) | 1 | 2011-06-01 to 2011-06-01 |
+| `wijzigingswet-wet-op-het-financieel-toezicht-enz-transparantievereisten-informatie-uitgeve` | Wijzigingswet Wet op het financieel toezicht, enz. (transparantievereisten informatie uitgevende instellingen waarvan effecten tot de handel op een gereglementeerde markt zijn toegelaten) | 1 | 2016-01-29 to 2016-01-29 |
+| `wet-vergoedingen-adviescolleges-en-commissies` | Wet vergoedingen adviescolleges en commissies | 1 | 2020-01-01 to 2020-01-01 |
+| `wet-rechtspositie-raad-van-state-algemene-rekenkamer-en-nationale-ombudsman` | Wet rechtspositie Raad van State, Algemene Rekenkamer en Nationale ombudsman | 1 | 2026-07-07 to 2026-07-07 |
+| `wijzigingswet-zorgverzekeringswet-en-algemene-wet-bijzondere-ziektekosten-bijdragen-bij-in` | Wijzigingswet Zorgverzekeringswet en Algemene Wet Bijzondere Ziektekosten (bijdragen bij inkomstenderving ten gevolge van verlenen medisch noodzakelijke zorg aan bepaalde groepen vreemdelingen, en verzekering bepaalde groepen minderjarige vreemdelingen) | 1 | 2009-01-01 to 2009-01-01 |
+| `wijzigingswet-wet-buitengewoon-pensioen-19401945-enz-vereenvoudiging-van-uitvoering` | Wijzigingswet Wet buitengewoon pensioen 1940–1945, enz. (vereenvoudiging van uitvoering) | 1 | 2009-01-01 to 2009-01-01 |
+| `wet-bevordering-voortgezet-ouderschap-en-zorgvuldige-scheiding` | Wet bevordering voortgezet ouderschap en zorgvuldige scheiding | 1 | 2009-03-01 to 2009-03-01 |
+| `wijzigingswet-gemeentewet-afschaffen-raadplegend-burgemeestersreferendum` | Wijzigingswet Gemeentewet (afschaffen raadplegend burgemeestersreferendum) | 1 | 2008-12-19 to 2008-12-19 |
+| `wijzigingswet-wet-financiering-decentrale-overheden-enz-verbeterde-werking-financieringsfu` | Wijzigingswet Wet financiering decentrale overheden, enz. (verbeterde werking financieringsfunctie decentrale overheden) | 1 | 2009-01-01 to 2009-01-01 |
+| `wijzigingswet-wet-inkomstenbelasting-2001-enz-belastingheffing-excessieve-beloningsbestand` | Wijzigingswet Wet inkomstenbelasting 2001, enz. (belastingheffing excessieve beloningsbestanddelen) | 1 | 2009-01-01 to 2009-01-01 |
+| `reparatiewet-wft` | Reparatiewet Wft | 1 | 2009-01-01 to 2009-01-01 |
+| `wijzigingswet-burgerlijk-wetboek-boek-2-uitvoering-richtlijn-2006-46-eg-van-het-europees-p` | Wijzigingswet Burgerlijk Wetboek Boek 2 (uitvoering Richtlijn 2006/46/EG van het Europees Parlement en de Raad betreffende de jaarrekening en de geconsolideerde jaarrekening) | 1 | 2008-12-23 to 2008-12-23 |
+| `wet-elektronische-bekendmaking` | Wet elektronische bekendmaking | 1 | 2011-01-01 to 2011-01-01 |
+| `wijzigingswet-monumentenwet-1988-en-wet-kenbaarheid-publiekrechtelijke-beperkingen-onroere` | Wijzigingswet Monumentenwet 1988 en Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken (beperking ministeriële adviesplicht bij aanvragen monumentenvergunning) | 1 | 2009-01-01 to 2009-01-01 |
+| `belastingplan-2009` | Belastingplan 2009 | 1 | 2010-12-31 to 2010-12-31 |
+| `overige-fiscale-maatregelen-2009` | Overige fiscale maatregelen 2009 | 1 | 2012-01-01 to 2012-01-01 |
+| `wet-verbetering-arbeidsmarktpositie-alleenstaande-ouders` | Wet verbetering arbeidsmarktpositie alleenstaande ouders | 1 | 2009-01-01 to 2009-01-01 |
+| `wet-stimulering-arbeidsparticipatie` | Wet stimulering arbeidsparticipatie | 1 | 2009-04-01 to 2009-04-01 |
+| `wijzigingswet-wet-op-de-rechtsbijstand-herijking-verlening-rechtsbijstand` | Wijzigingswet Wet op de rechtsbijstand (herijking verlening rechtsbijstand) | 1 | 2009-07-01 to 2009-07-01 |
+| `wijzigingswet-wet-rechtspositie-rechterlijke-ambtenaren-enz-flexibilisering-verduidelijkin` | Wijzigingswet Wet rechtspositie rechterlijke ambtenaren, enz. (flexibilisering, verduidelijking en aanvullingen regeling rechtspositie rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding) | 1 | 2010-07-01 to 2010-07-01 |
+| `wet-deskundige-in-strafzaken` | Wet deskundige in strafzaken | 1 | 2010-01-01 to 2010-01-01 |
+| `uitvoeringswet-speciaal-tribunaal-voor-libanon` | Uitvoeringswet Speciaal Tribunaal voor Libanon | 1 | 2018-07-01 to 2018-07-01 |
+| `wet-college-voor-toetsen-en-examens` | Wet College voor toetsen en examens | 1 | 2024-08-01 to 2024-08-01 |
+| `aanpassingswet-burgerservicenummer` | Aanpassingswet burgerservicenummer | 1 | 2010-01-01 to 2010-01-01 |
+| `wijzigingswet-wet-op-het-financieel-toezicht-en-faillissementswet-samenloop-vordering-op-d` | Wijzigingswet Wet op het financieel toezicht en Faillissementswet (samenloop vordering op de boedel ingeval van noodregeling, surseance van betaling en faillissement en aanvraag vergoeding op grond van de vangnetregeling) | 1 | 2009-03-16 to 2009-03-16 |
+| `waterwet` | Waterwet | 1 | 2026-01-01 to 2026-01-01 |
+| `wijzigingswet-wet-op-de-huurtoeslag-uitvoeringstechnische-wijzigingen` | Wijzigingswet Wet op de huurtoeslag (uitvoeringstechnische wijzigingen) | 1 | 2010-01-01 to 2010-01-01 |
+| `wijzigingswet-wet-educatie-en-beroepsonderwijs-colleges-van-bestuur-en-raden-van-toezicht` | Wijzigingswet Wet educatie en beroepsonderwijs (colleges van bestuur en raden van toezicht) | 1 | 2009-04-01 to 2009-04-01 |
+| `aanpassingswet-burgerlijk-wetboek-boek-8-toetreding-koninkrijk-tot-protocol-tot-wijziging` | Aanpassingswet Burgerlijk Wetboek Boek 8 (toetreding Koninkrijk tot Protocol tot wijziging Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen) | 1 | 2011-01-01 to 2011-01-01 |
+| `wet-versnelling-besluitvorming-wegprojecten` | Wet versnelling besluitvorming wegprojecten | 1 | 2009-04-24 to 2009-04-24 |
+| `wijzigingswet-advocatenwet-enz-verruimen-mogelijkheden-spoedshalve-tuchtrechtelijk-optrede` | Wijzigingswet Advocatenwet, enz (verruimen mogelijkheden spoedshalve tuchtrechtelijk optreden tegen advocaten en notarissen) | 1 | 2009-07-01 to 2009-07-01 |
+| `wijzigingswet-wet-maatschappelijke-ondersteuning-enz-verstrekken-uitkering-aan-mantelzorge` | Wijzigingswet Wet maatschappelijke ondersteuning, enz. (verstrekken uitkering aan mantelzorgers) | 1 | 2009-07-08 to 2009-07-08 |
+| `uitvoeringswet-verordening-europese-procedure-voor-geringe-vorderingen` | Uitvoeringswet verordening Europese procedure voor geringe vorderingen | 1 | 2017-07-14 to 2017-07-14 |
+| `uitvoeringswet-verordening-europese-betalingsbevelprocedure` | Uitvoeringswet verordening Europese betalingsbevelprocedure | 1 | 2017-09-01 to 2017-09-01 |
+| `wijzigingswet-uitvoeringswet-eg-betekeningsverordening-enz` | Wijzigingswet Uitvoeringswet EG-betekeningsverordening, enz. | 1 | 2009-06-10 to 2009-06-10 |
+| `wijzigingswet-wetboek-van-strafrecht-enz-strafbaarstelling-deelnemen-en-meewerken-training` | Wijzigingswet Wetboek van Strafrecht, enz. (strafbaarstelling deelnemen en meewerken training terrorisme, uitbreiding mogelijkheden ontzetting uit beroep als bijkomende straf en enkele andere wijzigingen) | 1 | 2012-10-01 to 2012-10-01 |
+| `vierde-tranche-algemene-wet-bestuursrecht` | Vierde tranche Algemene wet bestuursrecht | 1 | 2009-07-01 to 2009-07-01 |
+| `wet-fiscaal-stimuleringspakket-en-overige-fiscale-maatregelen` | Wet Fiscaal stimuleringspakket en overige fiscale maatregelen | 1 | 2010-01-01 to 2010-01-01 |
+| `tijdelijke-wet-compensatieregeling-loonkosten-bij-ziekte-van-oudere-en-voormalig-langdurig` | Tijdelijke wet compensatieregeling loonkosten bij ziekte van oudere en voormalig langdurig werklozen | 1 | 2010-01-01 to 2010-01-01 |
+| `wijzigingswet-mediawet-2008-erkenning-en-financiering-publieke-omroep` | Wijzigingswet Mediawet 2008 (erkenning en financiering publieke omroep) | 1 | 2013-01-01 to 2013-01-01 |
+| `wet-gemeentelijke-antidiscriminatievoorzieningen` | Wet gemeentelijke antidiscriminatievoorzieningen | 1 | 2020-01-01 to 2020-01-01 |
+| `verzamelwet-szw-wetgeving-2009` | Verzamelwet SZW-wetgeving 2009 | 1 | 2009-08-01 to 2009-08-01 |
+| `wijzigingswet-wet-op-de-lijkbezorging` | Wijzigingswet Wet op de lijkbezorging | 1 | 2012-10-01 to 2012-10-01 |
+| `wet-identiteitsvaststelling-verdachten-veroordeelden-en-getuigen` | Wet identiteitsvaststelling verdachten, veroordeelden en getuigen | 1 | 2010-10-01 to 2010-10-01 |
+| `wet-bewaarplicht-telecommunicatiegegevens` | Wet bewaarplicht telecommunicatiegegevens | 1 | 2009-09-01 to 2009-09-01 |
+| `wet-wijziging-boetestelsel-financiele-wetgeving` | Wet wijziging boetestelsel financiële wetgeving | 1 | 2009-08-01 to 2009-08-01 |
+| `wijzigingswet-wet-personenvervoer-2000-enz-structurele-regeling-overgang-werknemers-conces` | Wijzigingswet Wet personenvervoer 2000, enz. (structurele regeling overgang werknemers concessie openbaar vervoer en begrenzing stamlijnen) | 1 | 2009-12-31 to 2009-12-31 |
+| `wet-samenvoeging-gemeenten-arcen-en-velden-en-venlo-en-een-deel-van-het-grondgebied-van-de` | Wet samenvoeging gemeenten Arcen en Velden en Venlo en een deel van het grondgebied van de gemeente Bergen Lb | 1 | 2010-10-01 to 2010-10-01 |
+| `wet-samenvoeging-gemeenten-moordrecht-nieuwerkerk-aan-den-ijssel-en-zevenhuizen-moerkapell` | Wet samenvoeging gemeenten Moordrecht, Nieuwerkerk aan den IJssel en Zevenhuizen-Moerkapelle | 1 | 2010-10-01 to 2010-10-01 |
+| `wet-herindeling-gemeenten-horst-aan-de-maas-meerlo-wanssum-sevenum-en-venray` | Wet herindeling gemeenten Horst aan de Maas, Meerlo-Wanssum, Sevenum en Venray | 1 | 2010-10-01 to 2010-10-01 |
+| `wet-samenvoeging-gemeenten-reiderland-scheemda-en-winschoten` | Wet samenvoeging gemeenten Reiderland, Scheemda en Winschoten | 1 | 2010-10-01 to 2010-10-01 |
+| `wet-niet-indexering-kinderbijslagbedragen-per-1-juli-2009` | Wet niet-indexering kinderbijslagbedragen per 1 juli 2009 | 1 | 2009-08-26 to 2009-08-26 |
+| `wet-samenvoeging-gemeenten-helden-kessel-maasbree-en-meijel` | Wet samenvoeging gemeenten Helden, Kessel, Maasbree en Meijel | 1 | 2010-10-01 to 2010-10-01 |
+| `wijzigingswet-zorgverzekeringswet-wet-op-de-zorgtoeslag-enz-structurele-maatregelen-wanbet` | Wijzigingswet Zorgverzekeringswet, Wet op de zorgtoeslag, enz. (structurele maatregelen wanbetalers zorgverzekering) | 1 | 2011-09-01 to 2011-09-01 |
+| `wijzigingswet-wet-kinderopvang-herziening-stelsel-gastouderopvang` | Wijzigingswet Wet kinderopvang (herziening stelsel gastouderopvang) | 1 | 2010-08-01 to 2010-08-01 |
+| `wet-dwangsom-en-beroep-bij-niet-tijdig-beslissen` | Wet dwangsom en beroep bij niet tijdig beslissen | 1 | 2009-10-01 to 2009-10-01 |
+| `wijzigingswet-wet-op-het-financieel-toezicht-enz-implementatie-richtlijn-nr-2007-64-eg` | Wijzigingswet Wet op het financieel toezicht, enz. (implementatie Richtlijn nr. 2007/64/EG) | 1 | 2011-07-01 to 2011-07-01 |
+| `uitvoeringswet-eg-verordening-indeling-etikettering-en-verpakking-van-stoffen-en-mengsels` | Uitvoeringswet EG-verordening indeling, etikettering en verpakking van stoffen en mengsels | 1 | 2009-11-04 to 2009-11-04 |
+| `wet-herindeling-gemeenten-rotterdam-en-rozenburg` | Wet herindeling gemeenten Rotterdam en Rozenburg | 1 | 2010-10-01 to 2010-10-01 |
+| `invoeringswet-waterwet` | Invoeringswet Waterwet | 1 | 2014-07-01 to 2014-07-01 |
+| `wijzigingswet-wet-op-de-zorgtoeslag-enz-technische-verbeterpunten-en-het-vervallen-van-een` | Wijzigingswet Wet op de zorgtoeslag, enz. (technische verbeterpunten en het vervallen van een bepaling in een wijzigingswet) | 1 | 2009-11-27 to 2009-11-27 |
+| `wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-oprichting-dienst-uitvoering-onderwijs` | Wijzigingswet Wet educatie en beroepsonderwijs, enz. (oprichting Dienst Uitvoering Onderwijs (DUO)) | 1 | 2010-01-01 to 2010-01-01 |
+| `wet-wettelijke-grondslag-bdu-siv` | Wet wettelijke grondslag bdu siv | 1 | 2009-12-02 to 2009-12-02 |
+| `wijzigingswet-kaderwet-financiele-verstrekkingen-financien-verzekering-door-de-staat-van-h` | Wijzigingswet Kaderwet financiële verstrekkingen Financiën (verzekering door de Staat van handelsrisico’s en verbetering risicobeheer) | 1 | 2010-01-01 to 2010-01-01 |
+| `uitvoeringswet-egts-verordening` | Uitvoeringswet EGTS-verordening | 1 | 2021-07-01 to 2021-07-01 |
+| `wet-aanpassing-bedragen-wet-op-het-kindgebonden-budget-en-niet-indexering-kinderbijslagbed` | Wet aanpassing bedragen Wet op het kindgebonden budget en niet-indexering kinderbijslagbedragen en bedragen kindgebonden budget 2010 en 2011 | 1 | 2009-12-23 to 2009-12-23 |
+| `wijzigingswet-wet-op-de-omzetbelasting-1968-implementatie-richtlijnen-btw-pakket` | Wijzigingswet Wet op de omzetbelasting 1968 (implementatie richtlijnen BTW-pakket) | 1 | 2011-01-01 to 2011-01-01 |
+| `wijzigingswet-mediawet-2008-enz-implementatie-richtlijn-audiovisuele-mediadiensten` | Wijzigingswet Mediawet 2008, enz. (implementatie richtlijn Audiovisuele mediadiensten) | 1 | 2009-12-19 to 2009-12-19 |
+| `wijzigingswet-wet-inburgering-vrijwillige-inburgering-persoonlijk-inburgeringsbudget-en-ha` | Wijzigingswet Wet inburgering (vrijwillige inburgering, persoonlijk inburgeringsbudget en harmoniseren handhavingstermijnen) | 1 | 2010-01-01 to 2010-01-01 |
+| `wijzigingswet-algemene-wet-bestuursrecht-enz-wijzigingen-i-v-m-wet-dwangsom-en-beroep-bij` | Wijzigingswet Algemene wet bestuursrecht, enz. (wijzigingen i.v.m. Wet dwangsom en beroep bij niet tijdig beslissen) | 1 | 2024-01-01 to 2024-01-01 |
+| `aanpassingswet-lnv-wetgeving-kaderwet-zelfstandige-bestuursorganen` | Aanpassingswet LNV-wetgeving (Kaderwet zelfstandige bestuursorganen) | 1 | 2010-07-01 to 2010-07-01 |
+| `aanpassingswet-dienstenrichtlijn` | Aanpassingswet dienstenrichtlijn | 1 | 2009-12-28 to 2009-12-28 |
+| `wijzigingswet-successiewet-1956-enz-vereenvoudiging-bedrijfsopvolgingsregeling-en-herzieni` | Wijzigingswet Successiewet 1956, enz. (vereenvoudiging bedrijfsopvolgingsregeling en herziening tariefstructuur, alsmede introductie van een regeling voor afgezonderd particulier vermogen) | 1 | 2011-01-01 to 2011-01-01 |
+| `wet-bestuurlijke-lus-awb` | Wet bestuurlijke lus Awb | 1 | 2010-01-01 to 2010-01-01 |
+| `belastingplan-2010` | Belastingplan 2010 | 1 | 2015-01-01 to 2015-01-01 |
+| `wijzigingswet-wet-op-de-accijns-enz-implementatie-horizontale-richtlijn-accijns` | Wijzigingswet Wet op de accijns, enz. (Implementatie horizontale richtlijn accijns) | 1 | 2010-04-01 to 2010-04-01 |
+| `wijzigingswet-wet-belastingen-op-milieugrondslag-afschaffing-van-de-vliegbelasting` | Wijzigingswet Wet belastingen op milieugrondslag (afschaffing van de vliegbelasting) | 1 | 2009-12-30 to 2009-12-30 |
+| `overige-fiscale-maatregelen-2010` | Overige fiscale maatregelen 2010 | 1 | 2011-01-01 to 2011-01-01 |
+| `fiscale-vereenvoudigingswet-2010` | Fiscale vereenvoudigingswet 2010 | 1 | 2014-01-01 to 2014-01-01 |
+| `fiscale-onderhoudswet-2010` | Fiscale onderhoudswet 2010 | 1 | 2011-01-01 to 2011-01-01 |
+| `wijzigingswet-wetboek-van-strafvordering-enz-versterking-positie-slachtoffer-in-strafproce` | Wijzigingswet Wetboek van Strafvordering, enz. (versterking positie slachtoffer in strafproces) | 1 | 2011-01-01 to 2011-01-01 |
+| `wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-medezeggenschap-educatie-en-beroepsonde` | Wijzigingswet Wet educatie en beroepsonderwijs, enz. (medezeggenschap educatie en beroepsonderwijs) | 1 | 2010-03-01 to 2010-03-01 |
+| `aanpassingswet-wet-op-de-rechtsbijstand-bestuurlijke-centralisatie-raden-voor-rechtsbijsta` | Aanpassingswet Wet op de rechtsbijstand (bestuurlijke centralisatie raden voor rechtsbijstand) | 1 | 2010-07-01 to 2010-07-01 |
+| `wijzigingswet-kernenergiewet-vereenvoudiging-bevoegd-gezag-invoering-verplichting-tot-fina` | Wijzigingswet Kernenergiewet (vereenvoudiging bevoegd gezag, invoering verplichting tot financiële zekerheidstelling en enkele andere wijzigingen) | 1 | 2014-01-01 to 2014-01-01 |
+| `goedkeuringswet-verdrag-tussen-nederland-en-belgie-over-de-terbeschikkingstelling-van-een` | Goedkeuringswet Verdrag tussen Nederland en België over de terbeschikkingstelling van een penitentiaire inrichting in Nederland ten behoeve van de tenuitvoerlegging van bij Belgische veroordelingen opgelegde vrijheidsstraffen (Trb. 2009, 202) | 1 | 2010-01-23 to 2010-01-23 |
+| `wijzigingswet-wet-milieubeheer-enz-modernisering-regelgeving-milieueffectrapportage` | Wijzigingswet Wet milieubeheer, enz. (modernisering regelgeving milieueffectrapportage) | 1 | 2010-07-01 to 2010-07-01 |
+| `wijzigingswet-uitvoeringswet-huurprijzen-woonruimte-instelling-landelijke-huurcommissie` | Wijzigingswet Uitvoeringswet huurprijzen woonruimte (instelling landelijke huurcommissie) | 1 | 2010-04-01 to 2010-04-01 |
+| `wijzigingswet-wet-milieubeheer-enz-implementatie-richtlijn-nr-2008-101-eg-handel-in-emissi` | Wijzigingswet Wet milieubeheer, enz. (implementatie richtlijn nr. 2008/101/EG (handel in emissierechten luchtvaart)) | 1 | 2010-02-24 to 2010-02-24 |
+| `wijzigingswet-algemene-pensioenwet-politieke-ambtsdragers-enz-harmonisatie-uitkeringsrecht` | Wijzigingswet Algemene pensioenwet politieke ambtsdragers, enz. (harmonisatie uitkeringsrechten en onder werking van Algemene pensioenwet politieke ambtsdragers brengen van commissarissen van de Koning, burgemeesters en bestuurders van waterschappen) | 1 | 2011-11-19 to 2011-11-19 |
+| `wijzigingswet-burgerlijk-wetboek-opneming-verhuiskostenvergoeding-bij-renovatie` | Wijzigingswet Burgerlijk Wetboek (opneming verhuiskostenvergoeding bij renovatie) | 1 | 2010-02-27 to 2010-02-27 |
+| `wijzigingswet-wet-op-de-jeugdzorg-verwijsindex-risicojongeren` | Wijzigingswet Wet op de jeugdzorg (verwijsindex risicojongeren) | 1 | 2014-02-15 to 2014-02-15 |
+| `wijzigingswet-wet-schadeloosstelling-leden-tweede-kamer-enz-harmonisatie-uitkeringsrechten` | Wijzigingswet Wet schadeloosstelling leden Tweede Kamer, enz. (harmonisatie uitkeringsrechten leden Tweede Kamer en openbaarmaking nevenfuncties en inkomsten uit nevenfuncties leden Eerste en Tweede Kamer en Europees Parlement) | 1 | 2010-03-24 to 2010-03-24 |
+| `wijzigingswet-wet-op-de-architectentitel-beroepservaring-bij-en-nascholingsregeling-voor-s` | Wijzigingswet Wet op de architectentitel (beroepservaring, bij- en nascholingsregeling voor stedenbouwkundigen, tuin- en landschapsarchitecten en interieurarchitecten, wijzigingen in verband met de Kaderwet zelfstandige bestuursorganen, alsmede enige andere wijzigingen) | 1 | 2015-01-01 to 2015-01-01 |
+| `aanpassingswet-veiligheidsregios` | Aanpassingswet veiligheidsregio’s | 1 | 2015-01-01 to 2015-01-01 |
+| `wijzigingswet-wet-luchtvaart-enz-diverse-wijzigingen-m-b-t-luchtvaart` | Wijzigingswet Wet luchtvaart, enz. (diverse wijzigingen m.b.t. luchtvaart) | 1 | 2010-07-07 to 2010-07-07 |
+| `invoeringswet-wet-algemene-bepalingen-omgevingsrecht` | Invoeringswet Wet algemene bepalingen omgevingsrecht | 1 | 2015-07-01 to 2015-07-01 |
+| `wijzigingswet-wet-voorkeursrecht-gemeenten-vereenvoudiging-bekendmaking-en-aanbiedingsproc` | Wijzigingswet Wet voorkeursrecht gemeenten (vereenvoudiging bekendmaking en aanbiedingsprocedure) | 1 | 2010-07-01 to 2010-07-01 |
+| `rijkswet-goedkeuring-en-uitvoering-verdrag-van-san-jose-samenwerking-bij-de-bestrijding-va` | Rijkswet goedkeuring en uitvoering Verdrag van San José (samenwerking bij de bestrijding van sluikhandel in verdovende middelen en psychotrope stoffen over zee en door de lucht in het Caribisch gebied) | 1 | 2010-04-30 to 2010-04-30 |
+| `wijzigingswet-wet-op-de-raad-van-state-herstructurering-raad-van-state` | Wijzigingswet Wet op de Raad van State (herstructurering Raad van State) | 1 | 2010-09-01 to 2010-09-01 |
+| `wet-elektronisch-verkeer-met-de-bestuursrechter` | Wet elektronisch verkeer met de bestuursrechter | 1 | 2010-07-01 to 2010-07-01 |
+| `wet-uitvoering-wetten-voor-verzetsdeelnemers-en-oorlogsgetroffenen` | Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen | 1 | 2016-01-01 to 2016-01-01 |
+| `wijzigingswet-vreemdelingenwet-2000-aanpassen-asielprocedure` | Wijzigingswet Vreemdelingenwet 2000 (aanpassen asielprocedure) | 1 | 2010-07-01 to 2010-07-01 |
+| `wijzigingswet-ez-instellingswetten-aanpassing-aan-kaderwet-zelfstandige-bestuursorganen` | Wijzigingswet EZ-instellingswetten (aanpassing aan Kaderwet zelfstandige bestuursorganen) | 1 | 2011-01-01 to 2011-01-01 |
+| `wijzigingswet-wet-investeren-in-jongeren-enz-verduidelijking-en-verbetering-enige-punten` | Wijzigingswet Wet investeren in jongeren, enz. (verduidelijking en verbetering enige punten) | 1 | 2011-01-01 to 2011-01-01 |
+| `rijkswet-tot-wijziging-rijkswet-op-het-nederlanderschap-meervoudige-nationaliteit-en-ander` | Rijkswet tot wijziging Rijkswet op het Nederlanderschap (meervoudige nationaliteit en andere nationaliteitsrechtelijke kwesties) | 1 | 2011-01-01 to 2011-01-01 |
+| `wet-deelgeschilprocedure-voor-letsel-en-overlijdensschade` | Wet deelgeschilprocedure voor letsel- en overlijdensschade | 1 | 2010-07-01 to 2010-07-01 |
+| `wijzigingswet-wegenverkeerswet-1994-aanpassing-vorderingsprocedure-en-invoering-alcoholslo` | Wijzigingswet Wegenverkeerswet 1994 (aanpassing Vorderingsprocedure en invoering alcoholslotprogramma) | 1 | 2011-12-01 to 2011-12-01 |
+| `wijzigingswet-burgerlijk-wetboek-boek-7-tijdelijke-verruiming-mogelijkheid-om-arbeidsovere` | Wijzigingswet Burgerlijk Wetboek Boek 7 (tijdelijke verruiming mogelijkheid om arbeidsovereenkomsten voor bepaalde tijd aan te gaan in verband met bevorderen arbeidsparticipatie van jongeren) | 1 | 2010-07-09 to 2010-07-09 |
+| `wijzigingswet-wetboek-van-strafrecht-en-wetboek-van-strafvordering-aanpassingen-tbs-met-vo` | Wijzigingswet Wetboek van Strafrecht en Wetboek van Strafvordering (Aanpassingen tbs met voorwaarden) | 1 | 2010-09-01 to 2010-09-01 |
+| `reparatiewet-vws-2010` | Reparatiewet VWS 2010 | 1 | 2010-07-14 to 2010-07-14 |
+| `wet-samenvoeging-gemeenten-lith-en-oss` | Wet samenvoeging gemeenten Lith en Oss | 1 | 2010-07-14 to 2010-07-14 |
+| `wet-samenvoeging-gemeenten-margraten-en-eijsden` | Wet samenvoeging gemeenten Margraten en Eijsden | 1 | 2010-07-14 to 2010-07-14 |
+| `wet-samenvoeging-gemeenten-bodegraven-en-reeuwijk` | Wet samenvoeging gemeenten Bodegraven en Reeuwijk | 1 | 2010-07-14 to 2010-07-14 |
+| `wijzigingswet-burgerlijk-wetboek-boek-2-enz-vervallen-van-de-verklaring-van-geen-bezwaar-e` | Wijzigingswet Burgerlijk Wetboek Boek 2, enz. (vervallen van de verklaring van geen bezwaar en het verbeteren en uitbreiden van de controle op rechtspersonen met het oog op de voorkoming en bestrijding van misbruik van rechtspersonen) | 1 | 2012-10-01 to 2012-10-01 |
+| `wet-modern-migratiebeleid` | Wet modern migratiebeleid | 1 | 2013-09-21 to 2013-09-21 |
+| `wijzigingswet-wet-kinderopvang-enz-wijzigingen-in-het-onderwijsachterstandenbeleid` | Wijzigingswet Wet kinderopvang, enz. (wijzigingen in het onderwijsachterstandenbeleid) | 1 | 2012-01-21 to 2012-01-21 |
+| `wet-samenvoeging-gemeenten-wervershoof-andijk-en-medemblik` | Wet samenvoeging gemeenten Wervershoof, Andijk en Medemblik | 1 | 2010-07-30 to 2010-07-30 |
+| `wet-samenvoeging-gemeenten-bolsward-nijefurd-sneek-wunseradiel-en-wymbritseradiel` | Wet samenvoeging gemeenten Bolsward, Nijefurd, Sneek, Wûnseradiel en Wymbritseradiel | 1 | 2010-07-30 to 2010-07-30 |
+| `wet-samenvoeging-gemeenten-breukelen-loenen-en-maarssen-en-gemeenten-abcoude-en-de-ronde-v` | Wet samenvoeging gemeenten Breukelen, Loenen en Maarssen, en gemeenten Abcoude en De Ronde Venen | 1 | 2010-08-13 to 2010-08-13 |
+| `wet-kraken-en-leegstand` | Wet kraken en leegstand | 1 | 2010-10-01 to 2010-10-01 |
+| `rijkswet-gemeenschappelijk-hof-van-justitie` | Rijkswet Gemeenschappelijk Hof van Justitie | 1 | 2010-10-10 to 2010-10-10 |
+| `rijkswet-raad-voor-de-rechtshandhaving` | Rijkswet Raad voor de rechtshandhaving | 1 | 2010-10-10 to 2010-10-10 |
+| `reglement-voor-de-gouverneur-van-sint-maarten` | Reglement voor de Gouverneur van Sint Maarten | 1 | 2020-04-01 to 2020-04-01 |
+| `reglement-voor-de-gouverneur-van-curacao` | Reglement voor de Gouverneur van Curaçao | 1 | 2020-04-01 to 2020-04-01 |
+| `wijzigingswet-gemeentewet-wetboek-van-strafvordering-en-wetboek-van-strafrecht-maatregelen` | Wijzigingswet Gemeentewet, Wetboek van Strafvordering en Wetboek van Strafrecht (maatregelen bestrijding voetbalvandalisme en ernstige overlast) | 1 | 2010-09-01 to 2010-09-01 |
+| `rijkswet-aanpassing-rijkswetten-aan-de-oprichting-van-de-nieuwe-landen` | Rijkswet aanpassing rijkswetten aan de oprichting van de nieuwe landen | 1 | 2016-07-01 to 2016-07-01 |
+| `aanpassingswet-openbare-lichamen-bonaire-sint-eustatius-en-saba` | Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba | 1 | 2020-08-01 to 2020-08-01 |
+| `rijkswet-financieel-toezicht-curacao-en-sint-maarten` | Rijkswet financieel toezicht Curaçao en Sint Maarten | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-financien-openbare-lichamen-bonaire-sint-eustatius-en-saba` | Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba | 1 | 2023-01-01 to 2023-01-01 |
+| `wet-openbaarheid-van-bestuur-bes` | Wet openbaarheid van bestuur BES | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-rechtspositie-kustwacht-bes` | Wet rechtspositie Kustwacht BES | 1 | 2011-10-09 to 2011-10-09 |
+| `mijnwet-bes` | Mijnwet BES | 1 | 2019-01-01 to 2019-01-01 |
+| `petroleumwet-saba-bank-bes` | Petroleumwet Saba Bank BES | 1 | 2019-01-01 to 2019-01-01 |
+| `wet-vestiging-bedrijven-bes` | Wet vestiging bedrijven BES | 1 | 2019-01-01 to 2019-01-01 |
+| `visserijwet-bes` | Visserijwet BES | 1 | 2023-01-01 to 2023-01-01 |
+| `stuwadoorswet-1946-bes` | Stuwadoorswet 1946 BES | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-minimumlonen-bes` | Wet minimumlonen BES | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-collectieve-arbeidsovereenkomst-bes` | Wet collectieve arbeidsovereenkomst BES | 1 | 2010-10-10 to 2010-10-10 |
+| `vakantiewet-1949-bes` | Vakantiewet 1949 BES | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-beeindiging-arbeidsovereenkomsten-bes` | Wet beëindiging arbeidsovereenkomsten BES | 1 | 2012-01-01 to 2012-01-01 |
+| `wet-voorschriften-bestrijdingsmiddelen-bes` | Wet voorschriften bestrijdingsmiddelen BES | 1 | 2010-10-10 to 2010-10-10 |
+| `arbeidsgeschillenwet-1946-bes` | Arbeidsgeschillenwet 1946 BES | 1 | 2012-01-01 to 2012-01-01 |
+| `wet-ambtelijke-bijstand-verzoekschriften-bes` | Wet ambtelijke bijstand verzoekschriften BES | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-winkelsluiting-bes` | Wet winkelsluiting BES | 1 | 2019-01-01 to 2019-01-01 |
+| `wet-beedigde-vertalers-bes` | Wet beëdigde vertalers BES | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-verklaringen-van-overlijden-bes` | Wet verklaringen van overlijden BES | 1 | 2011-10-04 to 2011-10-04 |
+| `wet-kosteloze-rechtskundige-bijstand-bes` | Wet kosteloze rechtskundige bijstand BES | 1 | 2010-10-10 to 2010-10-10 |
+| `uitvoeringswet-van-het-tussen-nederland-en-groot-britannie-gesloten-verdrag-houdende-bepal` | Uitvoeringswet van het tussen Nederland en Groot-Britannië gesloten verdrag, houdende bepalingen tot het vergemakkelijken van het voeren van rechtsgedingen BES | 1 | 2010-10-10 to 2010-10-10 |
+| `arbeidswet-2000-bes` | Arbeidswet 2000 BES | 1 | 2025-01-01 to 2025-01-01 |
+| `crematiewet-bes` | Crematiewet BES | 1 | 2011-10-04 to 2011-10-04 |
+| `advocatenwet-bes` | Advocatenwet BES | 1 | 2015-07-01 to 2015-07-01 |
+| `wet-basisadministraties-persoonsgegevens-bes` | Wet basisadministraties persoonsgegevens BES | 1 | 2026-10-01 to 2026-10-01 |
+| `ambtenarenwet-bes` | Ambtenarenwet BES | 1 | 2020-01-01 to 2020-01-01 |
+| `wet-grondslagen-ruimtelijke-ontwikkelingsplanning-bes` | Wet grondslagen ruimtelijke ontwikkelingsplanning BES | 1 | 2021-07-01 to 2021-07-01 |
+| `uitvoeringswet-rechtsvorderingsverdrag-1954-bes` | Uitvoeringswet Rechtsvorderingsverdrag 1954 BES | 1 | 2010-10-10 to 2010-10-10 |
+| `loodsenwet-2001-bes` | Loodsenwet 2001 BES | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-tot-regeling-van-het-toezicht-op-psychiatrische-patienten-bes` | Wet tot regeling van het toezicht op psychiatrische patiënten BES | 1 | 2024-01-01 to 2024-01-01 |
+| `wet-luchtvervoer-bes` | Wet luchtvervoer BES | 1 | 2016-10-01 to 2016-10-01 |
+| `arbeidsveiligheidswet-bes` | Arbeidsveiligheidswet BES | 1 | 2023-06-20 to 2023-06-20 |
+| `wet-overeenkomsten-langs-elektronische-weg-bes` | Wet overeenkomsten langs elektronische weg BES | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-op-de-kamers-van-koophandel-en-nijverheid-bes` | Wet op de Kamers van Koophandel en Nijverheid BES | 1 | 2022-01-01 to 2022-01-01 |
+| `uitvoeringswet-van-het-verdrag-tussen-het-koninkrijk-der-nederlanden-en-de-bondsrepubliek` | Uitvoeringswet van het Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de wederzijdse erkenning en tenuitvoerlegging van rechterlijk beslissingen en andere executoriale titels in burgerlijke zaken BES | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-op-de-weerkorpsen-bes` | Wet op de weerkorpsen BES | 1 | 2011-08-30 to 2011-08-30 |
+| `uitvoeringswet-van-de-europese-overeenkomst-nopens-het-verstrekken-van-inlichtingen-over-b` | Uitvoeringswet van de Europese Overeenkomst nopens het verstrekken van inlichtingen over buitenlands recht BES | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-speelvergunningsrecht-hazardspelen-bes` | Wet speelvergunningsrecht hazardspelen BES | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-hazardspelen-bes-ii` | Wet hazardspelen BES II | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-inzake-erkenning-rechtspersoonlijkheid-vreemde-vennootschappen-bes` | Wet inzake erkenning rechtspersoonlijkheid vreemde vennootschappen BES | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-schadefonds-olietankschepen-bes` | Wet schadefonds olietankschepen BES | 1 | 2019-01-01 to 2019-01-01 |
+| `wet-verdrag-chemische-wapens-bes` | Wet Verdrag Chemische Wapens BES | 1 | 2014-01-25 to 2014-01-25 |
+| `rijkswet-wijziging-statuut-in-verband-met-de-opheffing-van-de-nederlandse-antillen` | Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen | 1 | 2010-10-10 to 2010-10-10 |
+| `prijzenwet-bes` | Prijzenwet BES | 1 | 2019-01-01 to 2019-01-01 |
+| `vuurwapenwet-bes` | Vuurwapenwet BES | 1 | 2010-10-10 to 2010-10-10 |
+| `havenbeveiligingswet-bes` | Havenbeveiligingswet BES | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-aansprakelijkheidsverzekering-motorrijtuigen-bes` | Wet aansprakelijkheidsverzekering motorrijtuigen BES | 1 | 2012-07-01 to 2012-07-01 |
+| `wet-op-de-justitiele-documentatie-en-op-de-verklaringen-omtrent-het-gedrag-bes` | Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES | 1 | 2010-12-15 to 2010-12-15 |
+| `loterijwet-bes` | Loterijwet BES | 1 | 2010-10-10 to 2010-10-10 |
+| `deurwaarderswet-bes` | Deurwaarderswet BES | 1 | 2015-01-01 to 2015-01-01 |
+| `wet-post-bes` | Wet post BES | 1 | 2019-01-01 to 2019-01-01 |
+| `auteurswet-bes` | Auteurswet BES | 1 | 2010-10-10 to 2010-10-10 |
+| `wetboek-van-koophandel-bes` | Wetboek van Koophandel BES | 1 | 2025-07-01 to 2025-07-01 |
+| `wet-identiteitskaarten-bes` | Wet identiteitskaarten BES | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-strandvonderij-bes` | Wet strandvonderij BES | 1 | 2010-10-10 to 2010-10-10 |
+| `vaartuigenwet-1930-bes` | Vaartuigenwet 1930 BES | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-algemene-verzekering-bijzondere-ziektekosten-bes` | Wet algemene verzekering bijzondere ziektekosten BES | 1 | 2012-07-01 to 2012-07-01 |
+| `overgangswet-nieuw-burgerlijk-wetboek-bes-tweede-gedeelte` | Overgangswet nieuw Burgerlijk Wetboek BES, tweede gedeelte | 1 | 2010-10-10 to 2010-10-10 |
+| `cessantiawet-bes` | Cessantiawet BES | 1 | 2025-01-01 to 2025-01-01 |
+| `wet-merken-bes` | Wet merken BES | 1 | 2019-01-01 to 2019-01-01 |
+| `wet-aansprakelijkheid-bestuurders-rijbevoegdheid-en-rijvaardigheid-bes` | Wet aansprakelijkheid bestuurders, rijbevoegdheid en rijvaardigheid BES | 1 | 2011-01-01 to 2011-01-01 |
+| `wet-aansprakelijkheid-olietankschepen-bes` | Wet aansprakelijkheid olietankschepen BES | 1 | 2010-10-10 to 2010-10-10 |
+| `begrafeniswet-bes` | Begrafeniswet BES | 1 | 2011-10-04 to 2011-10-04 |
+| `archiefwet-bes` | Archiefwet BES | 1 | 2013-01-01 to 2013-01-01 |
+| `wet-algemene-weduwen-en-wezenverzekering-bes` | Wet algemene weduwen- en wezenverzekering BES | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-studiefinanciering-bes` | Wet studiefinanciering BES | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-educatie-en-beroepsonderwijs-bes` | Wet educatie en beroepsonderwijs BES | 1 | 2026-01-01 to 2026-01-01 |
+| `monumentenwet-bes` | Monumentenwet BES | 1 | 2010-10-10 to 2010-10-10 |
+| `mediawet-bes` | Mediawet BES | 1 | 2023-01-01 to 2023-01-01 |
+| `wet-grondslagen-natuurbeheer-en-bescherming-bes` | Wet grondslagen natuurbeheer- en bescherming BES | 1 | 2019-01-01 to 2019-01-01 |
+| `wet-op-het-ter-beschikking-stellen-arbeidskrachten-bes` | Wet op het ter beschikking stellen arbeidskrachten BES | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-arbeid-vreemdelingen-bes` | Wet arbeid vreemdelingen BES | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-hazardspelen-bes-i` | Wet hazardspelen BES I | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-voorkoming-van-verontreiniging-door-schepen-bes` | Wet voorkoming van verontreiniging door schepen BES | 1 | 2025-07-01 to 2025-07-01 |
+| `wet-organisatie-bloedvoorziening-bes` | Wet organisatie bloedvoorziening BES | 1 | 2018-08-01 to 2018-08-01 |
+| `wet-op-het-notarisambt-bes` | Wet op het notarisambt BES | 1 | 2015-07-01 to 2015-07-01 |
+| `wet-algemene-ouderdomsverzekering-bes` | Wet algemene ouderdomsverzekering BES | 1 | 2026-07-01 to 2026-07-01 |
+| `overgangswet-nieuw-burgerlijk-wetboek-bes` | Overgangswet nieuw Burgerlijk Wetboek BES | 1 | 2019-07-01 to 2019-07-01 |
+| `werkliedenwet-1944-bes` | Werkliedenwet 1944 BES | 1 | 2011-08-30 to 2011-08-30 |
+| `dienstplichtwet-bes` | Dienstplichtwet BES | 1 | 2011-10-09 to 2011-10-09 |
+| `wet-telecommunicatievoorzieningen-bes` | Wet telecommunicatievoorzieningen BES | 1 | 2019-01-01 to 2019-01-01 |
+| `wet-op-de-geneesmiddelenvoorziening-bes` | Wet op de geneesmiddelenvoorziening BES | 1 | 2025-01-01 to 2025-01-01 |
+| `wetboek-van-burgerlijke-rechtsvordering-bes` | Wetboek van Burgerlijke Rechtsvordering BES | 1 | 2015-07-01 to 2015-07-01 |
+| `wet-ongevallenverzekering-bes` | Wet ongevallenverzekering BES | 1 | 2026-01-01 to 2026-01-01 |
+| `handelsregisterwet-2009-bes` | Handelsregisterwet 2009 BES | 1 | 2022-03-02 to 2022-03-02 |
+| `wet-ongevallen-ambtenaren-buiten-diensttijd-bes` | Wet ongevallen ambtenaren buiten diensttijd BES | 1 | 2011-08-30 to 2011-08-30 |
+| `wet-sociale-kanstrajecten-jongeren-bes` | Wet sociale kanstrajecten jongeren BES | 1 | 2022-08-01 to 2022-08-01 |
+| `opiumwet-1960-bes` | Opiumwet 1960 BES | 1 | 2025-04-01 to 2025-04-01 |
+| `wet-van-4-juli-1946-houdende-de-instelling-van-een-arbeidsbureau-bes` | Wet van 4 juli 1946 houdende de instelling van een arbeidsbureau BES | 1 | 2013-07-01 to 2013-07-01 |
+| `wet-sociaal-statuut-verzelfstandiging-overheidsdiensten-bes` | Wet sociaal statuut verzelfstandiging overheidsdiensten BES | 1 | 2011-10-09 to 2011-10-09 |
+| `wet-medisch-tuchtrecht-bes` | Wet medisch tuchtrecht BES | 1 | 2024-01-01 to 2024-01-01 |
+| `wet-beperking-tabaksgebruik-bes` | Wet beperking tabaksgebruik BES | 1 | 2010-10-10 to 2010-10-10 |
+| `luchtvaartwet-bes` | Luchtvaartwet BES | 1 | 2022-01-01 to 2022-01-01 |
+| `wet-maritiem-beheer-bes` | Wet maritiem beheer BES | 1 | 2025-07-01 to 2025-07-01 |
+| `wet-huurcommissieregeling-bes` | Wet huurcommissieregeling BES | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-inspectie-biociden-bes` | Wet Inspectie Biociden BES | 1 | 2012-07-28 to 2012-07-28 |
+| `wet-identificatieplicht-bes` | Wet identificatieplicht BES | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-houdende-bepalingen-tegen-verstekelingen-bes` | Wet, houdende bepalingen tegen verstekelingen BES | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-nopens-de-beediging-en-legitimatie-van-opsporingsambtenaren-bes` | Wet nopens de beëdiging en legitimatie van opsporingsambtenaren BES | 1 | 2013-07-01 to 2013-07-01 |
+| `wet-inzake-bevolen-of-toegelaten-vrijheidsbeneming-bes` | Wet inzake bevolen of toegelaten vrijheidsbeneming BES | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-beginselen-gevangeniswezen-bes` | Wet beginselen gevangeniswezen BES | 1 | 2024-01-01 to 2024-01-01 |
+| `wet-ambtenarenrechtspraak-1951-bes` | Wet ambtenarenrechtspraak 1951 BES | 1 | 2024-01-01 to 2024-01-01 |
+| `warenwet-bes` | Warenwet BES | 1 | 2023-01-01 to 2023-01-01 |
+| `wijzigingswet-wet-toelating-en-uitzetting-bes` | Wijzigingswet Wet toelating en uitzetting BES | 1 | 2010-10-10 to 2010-10-10 |
+| `pensioenwet-ambtenaren-bes` | Pensioenwet ambtenaren BES | 1 | 2011-10-09 to 2011-10-09 |
+| `wet-tot-inschrijving-van-arbeidskrachten-1945-bes` | Wet tot inschrijving van arbeidskrachten 1945 BES | 1 | 2013-07-01 to 2013-07-01 |
+| `wet-ziekteverzekering-bes` | Wet ziekteverzekering BES | 1 | 2026-01-01 to 2026-01-01 |
+| `onteigeningswet-bes` | Onteigeningswet BES | 1 | 2021-07-01 to 2021-07-01 |
+| `wet-zorginstellingen-bes` | Wet zorginstellingen BES | 1 | 2018-08-01 to 2018-08-01 |
+| `burgerlijk-wetboek-bes-boek-2` | Burgerlijk Wetboek BES Boek 2 | 1 | 2026-07-01 to 2026-07-01 |
+| `burgerlijk-wetboek-bes-boek-3` | Burgerlijk Wetboek BES Boek 3 | 1 | 2025-07-01 to 2025-07-01 |
+| `burgerlijk-wetboek-bes-boek-4` | Burgerlijk Wetboek BES Boek 4 | 1 | 2015-01-01 to 2015-01-01 |
+| `burgerlijk-wetboek-bes-boek-4-oud` | Burgerlijk Wetboek BES Boek 4 [oud] | 1 | 2010-10-10 to 2010-10-10 |
+| `burgerlijk-wetboek-bes-boek-5` | Burgerlijk Wetboek BES Boek 5 | 1 | 2016-07-01 to 2016-07-01 |
+| `burgerlijk-wetboek-bes-boek-6` | Burgerlijk Wetboek BES Boek 6 | 1 | 2010-10-10 to 2010-10-10 |
+| `burgerlijk-wetboek-bes-boek-7` | Burgerlijk Wetboek BES Boek 7 | 1 | 2010-10-10 to 2010-10-10 |
+| `burgerlijk-wetboek-bes-boek-7a` | Burgerlijk Wetboek BES Boek 7a | 1 | 2026-01-01 to 2026-01-01 |
+| `burgerlijk-wetboek-bes-boek-8` | Burgerlijk Wetboek BES Boek 8 | 1 | 2025-07-01 to 2025-07-01 |
+| `wapenwet-bes` | Wapenwet BES | 1 | 2010-10-10 to 2010-10-10 |
+| `wet-kinderombudsman` | Wet Kinderombudsman | 1 | 2011-04-01 to 2011-04-01 |
+| `faillissementswet-bes` | Faillissementswet BES | 1 | 2010-10-10 to 2010-10-10 |
+| `implementatiewet-herschikking-eg-richtlijn-ecologisch-ontwerp-energiegerelateerde-producte` | Implementatiewet herschikking EG-richtlijn ecologisch ontwerp energiegerelateerde producten | 1 | 2010-11-20 to 2010-11-20 |
+| `wijzigingswet-boek-8-bw-enz-uitvoering-internationaal-verdrag-inzake-de-wettelijke-aanspra` | Wijzigingswet Boek 8 BW, enz. (uitvoering Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door bunkerolie, 2001) | 1 | 2011-01-01 to 2011-01-01 |
+| `wijzigingswet-beginselenwet-justitiele-jeugdinrichtingen-enz-aanpassing-tenuitvoerlegging` | Wijzigingswet Beginselenwet justitiële jeugdinrichtingen, enz. (aanpassing tenuitvoerlegging vrijheidsbenemende jeugdsancties) | 1 | 2011-07-01 to 2011-07-01 |
+| `tweede-aanpassingswet-openbare-lichamen-bonaire-sint-eustatius-en-saba-a` | Tweede Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba – A | 1 | 2011-01-01 to 2011-01-01 |
+| `verzamelwet-szw-2011` | Verzamelwet SZW 2011 | 1 | 2011-01-01 to 2011-01-01 |
+| `reparatiewet-szw-2011` | Reparatiewet SZW 2011 | 1 | 2011-01-01 to 2011-01-01 |
+| `derde-aanpassingswet-openbare-lichamen-bonaire-sint-eustatius-en-saba` | Derde Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba | 1 | 2011-01-01 to 2011-01-01 |
+| `invoeringswet-fiscaal-stelsel-bes` | Invoeringswet fiscaal stelsel BES | 1 | 2019-01-01 to 2019-01-01 |
+| `wijzigingswet-wet-op-de-accijns-implementatie-richtlijn-2010-12-eu-wijziging-tabaksaccijns` | Wijzigingswet Wet op de accijns (implementatie Richtlijn 2010/12/EU (wijziging tabaksaccijns)) | 1 | 2011-07-01 to 2011-07-01 |
+| `wijzigingswet-wet-op-de-omzetbelasting-1968-implementatie-richtlijn-2009-162-eu-implementa` | Wijzigingswet Wet op de omzetbelasting 1968 (implementatie Richtlijn 2009/162/EU (implementatie Technische Herzieningsrichtlijn)) | 1 | 2011-01-01 to 2011-01-01 |
+| `fiscale-verzamelwet-2010` | Fiscale verzamelwet 2010 | 1 | 2011-07-01 to 2011-07-01 |
+| `belastingplan-2011` | Belastingplan 2011 | 1 | 2015-01-01 to 2015-01-01 |
+| `overige-fiscale-maatregelen-2011` | Overige fiscale maatregelen 2011 | 1 | 2025-01-01 to 2025-01-01 |
+| `wet-introductie-premiepensioeninstellingen` | Wet introductie premiepensioeninstellingen | 1 | 2011-01-01 to 2011-01-01 |
+| `wijzigingswet-wet-rechtspositie-rechterlijke-ambtenaren-enz-herziening-functie-en-bezoldig` | Wijzigingswet Wet rechtspositie rechterlijke ambtenaren, enz. (herziening functie- en bezoldigingstructuur rechterlijke ambtenaren) | 1 | 2011-01-01 to 2011-01-01 |
+| `reparatiewet-bzk-2010` | Reparatiewet BZK 2010 | 1 | 2013-12-01 to 2013-12-01 |
+| `wijzigingswet-burgerlijk-wetboek-boek-7-enz-consumentenbescherming-m-b-t-bepaalde-aspecten` | Wijzigingswet Burgerlijk Wetboek Boek 7, enz. (consumentenbescherming m.b.t. bepaalde aspecten van overeenkomsten (gebruik in deeltijd, vakantieproducten van lange duur, doorverkoop en uitwisseling) (PbEU L 33/10)) | 1 | 2011-02-23 to 2011-02-23 |
+| `tweede-aanpassingswet-openbare-lichamen-bonaire-sint-eustatius-en-saba-b` | Tweede Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba – B | 1 | 2011-02-17 to 2011-02-17 |
+| `aanpassingswet-wet-luchtvaart-implementatie-richtlijn-nr-2009-12-eg-luchthavengelden-pbeg` | Aanpassingswet Wet luchtvaart (implementatie richtlijn nr. 2009/12/EG (luchthavengelden)(PbEG L 70)) | 1 | 2011-05-25 to 2011-05-25 |
+| `implementatiewet-eg-kaderrichtlijn-afvalstoffen` | Implementatiewet EG-kaderrichtlijn afvalstoffen | 1 | 2013-12-12 to 2013-12-12 |
+| `wijzigingswet-algemene-wet-bijzondere-ziektekosten-en-zorgverzekeringswet-opsporing-en-ver` | Wijzigingswet Algemene Wet Bijzondere Ziektekosten en Zorgverzekeringswet (opsporing en verzekering onverzekerden zorgverzekering) | 1 | 2015-03-15 to 2015-03-15 |
+| `tijdelijke-wijzigingswet-visserijwet-1963-invoering-bevoegdheid-tot-treffen-bestuurlijke-m` | Tijdelijke wijzigingswet Visserijwet 1963 (invoering bevoegdheid tot treffen bestuurlijke maatregelen) | 1 | 2011-04-01 to 2011-04-01 |
+| `wijzigingswet-wet-bodembescherming-wijziging-financiele-bepalingen-in-verband-met-de-decen` | Wijzigingswet Wet bodembescherming (wijziging financiële bepalingen in verband met de decentralisatie-uitkering) | 1 | 2011-05-04 to 2011-05-04 |
+| `wijzigingswet-uitvoeringswet-huurprijzen-woonruimte-wettelijke-grondslag-verschillende-waa` | Wijzigingswet Uitvoeringswet huurprijzen woonruimte (wettelijke grondslag verschillende waardering energieprestaties huurwoningen) | 1 | 2014-01-01 to 2014-01-01 |
+| `intrekkingswet-wet-stedelijke-vernieuwing` | Intrekkingswet Wet stedelijke vernieuwing | 1 | 2011-04-28 to 2011-04-28 |
+| `wet-implementatie-richtlijn-deelnemingen-in-de-financiele-sector` | Wet implementatie richtlijn deelnemingen in de financiële sector | 1 | 2011-05-07 to 2011-05-07 |
+| `wijzigingswet-burgerlijk-wetboek-enz-implementatie-van-richtlijn-2009-44-eg-tot-wijziging` | Wijzigingswet Burgerlijk Wetboek, enz. (implementatie van Richtlijn 2009/44/EG tot wijziging van Richtlijn 98/26/EG (definitieve karakter afwikkeling betalingen en effectentransacties in betalings- en afwikkelingssystemen) en Richtlijn 2002/47/EG (financiëlezekerheidsovereenkomsten wat gekoppelde systemen en kredietvorderingen betreft)) (PbEU L 146/37) | 1 | 2011-05-11 to 2011-05-11 |
+| `wet-aanpassing-wettelijke-gemeenschap-van-goederen` | Wet aanpassing wettelijke gemeenschap van goederen | 1 | 2018-09-19 to 2018-09-19 |
+| `wijzigingswet-spoorwegwet-enz-implementatie-richtlijn-2007-58-eg-enz` | Wijzigingswet Spoorwegwet, enz. (implementatie richtlijn 2007/58/EG, enz.) | 1 | 2014-01-01 to 2014-01-01 |
+| `wijzigingswet-overleveringswet-enz-implementatie-kaderbesluit-2009-299-jbz-enz-versterking` | Wijzigingswet Overleveringswet, enz. (implementatie kaderbesluit 2009/299/JBZ, enz. (versterking procedurele rechten van personen)) | 1 | 2011-08-01 to 2011-08-01 |
+| `wijzigingswet-burgerlijk-wetboek-boek-7-enz-implementatie-richtlijn-nr-2008-48-eg-en-intre` | Wijzigingswet Burgerlijk Wetboek Boek 7, enz. (implementatie richtlijn nr. 2008/48/EG en intrekking Richtlijn 87/102/EEG) | 1 | 2011-05-25 to 2011-05-25 |
+| `wijzigingswet-financiele-markten-2010` | Wijzigingswet financiële markten 2010 | 1 | 2012-01-01 to 2012-01-01 |
+| `wet-stichting-administratiekantoor-beheer-financiele-instellingen` | Wet stichting administratiekantoor beheer financiële instellingen | 1 | 2022-07-01 to 2022-07-01 |
+| `evaluatiewet-modernisering-rechterlijke-organisatie` | Evaluatiewet modernisering rechterlijke organisatie | 1 | 2013-01-01 to 2013-01-01 |
+| `wijzigingswet-algemene-wet-inzake-rijksbelastingen-enz-rechtsbescherming-m-b-t-administrat` | Wijzigingswet Algemene wet inzake rijksbelastingen, enz. (rechtsbescherming m.b.t. administratieplicht en controlehandelingen fiscus) | 1 | 2011-07-01 to 2011-07-01 |
+| `vaststellings-en-invoeringswet-boek-10-burgerlijk-wetboek` | Vaststellings- en Invoeringswet Boek 10 Burgerlijk Wetboek | 1 | 2012-01-01 to 2012-01-01 |
+| `wijzigingswet-waterwet-enz-regeling-zorgplicht-ter-voorkoming-van-schade-aan-waterstaatswe` | Wijzigingswet Waterwet, enz. (regeling zorgplicht ter voorkoming van schade aan waterstaatswerken, enz.) | 1 | 2011-07-01 to 2011-07-01 |
+| `wijzigingswet-wet-milieubeheer-enz-verdere-invulling-van-hoofdstuk-9` | Wijzigingswet Wet milieubeheer, enz. (Verdere invulling van hoofdstuk 9) | 1 | 2012-01-01 to 2012-01-01 |
+| `wijzigingswet-burgerlijk-wetboek-boek-2-aanpassing-regels-over-bestuur-en-toezicht-in-naam` | Wijzigingswet Burgerlijk Wetboek Boek 2 (aanpassing regels over bestuur en toezicht in naamloze en besloten vennootschappen) | 1 | 2016-01-01 to 2016-01-01 |
 
-The build made 6762 commits:
+The build made 8251 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 292 | first version of an act |
+| 1781 | first version of an act |
 | 6114 | one law on its in-force day |
 | 356 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `toekomst`: laws not yet in force on 2026-11-02.
-- 2 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 0 commits on the branch `toekomst`: laws not yet in force on 2026-11-03.
+- 38 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 3108 laws in the record.
-- 12083 tags.
+- 11182 tags.
 
 ## Dates
 
@@ -384,13 +1879,13 @@ When a law gives no date of its own, the default rule applies: Bekendmakingswet 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `51c137c6a35f76433968f482a046ef264cf8bc8398bb2683402bb35e26b30ced` (160018428 bytes).
+- Corpus: sha256 `432a79a7535b73656c98502d6ff7b9d220ca10ab49b7aac48643f5443f324b3f` (179959694 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-8976 versions of 292 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+10465 versions of 1781 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 No second build of this corpus has been compared yet.
 
@@ -630,6 +2125,15 @@ No second build of this corpus has been compared yet.
 - leerplichtwet-1969: 2 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
 - algemene-pensioen-en-uitkeringswet-politieke-ambtsdragers: 9 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
 - wet-algemene-regels-herindeling: 1 BWB version(s) change no rendered text (only metadata or references) and are not separate versions here.
+- Current text only (breadth first, Alan 2026-11-02): 496 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
+- A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
+- Current text only (breadth first, Alan 2026-11-02): 494 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
+- A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
+- Current text only (breadth first, Alan 2026-11-02): 499 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
+- A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
 
 ## What AI did and did not do
 
@@ -641,6 +2145,9 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none: no model wrote, summarised or classified any text in this corpus. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
