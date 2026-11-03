@@ -1,0 +1,46 @@
+# Regeling beroepsgerelateerde gezondheidsklachten politie
+
+Regeling beroepsgerelateerde gezondheidsklachten politie · 1 versions, from 2026-07-15 (latest in force: 2026-07-15) · <https://wetten.overheid.nl/BWBR0050873>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1.1 | [art-01-001.md](art-01-001.md) | 0 |  |
+| Art. 1.2 | [art-01-002.md](art-01-002.md) | 0 |  |
+| Art. 1.3 | [art-01-003.md](art-01-003.md) | 0 |  |
+| Art. 2.1 | [art-02-001.md](art-02-001.md) | 0 |  |
+| Art. 2.2 | [art-02-002.md](art-02-002.md) | 0 |  |
+| Art. 2.3 | [art-02-003.md](art-02-003.md) | 0 |  |
+| Art. 2.4 | [art-02-004.md](art-02-004.md) | 0 |  |
+| Art. 2.5 | [art-02-005.md](art-02-005.md) | 0 |  |
+| Art. 2.6 | [art-02-006.md](art-02-006.md) | 0 |  |
+| Art. 2.7 | [art-02-007.md](art-02-007.md) | 0 |  |
+| Art. 2.8 | [art-02-008.md](art-02-008.md) | 0 |  |
+| Art. 2.9 | [art-02-009.md](art-02-009.md) | 0 |  |
+| Art. 2.10 | [art-02-010.md](art-02-010.md) | 0 |  |
+| Art. 2.11 | [art-02-011.md](art-02-011.md) | 0 |  |
+| Art. 3.1 | [art-03-001.md](art-03-001.md) | 0 |  |
+| Art. 4.1 | [art-04-001.md](art-04-001.md) | 0 |  |
+| Art. 4.2 | [art-04-002.md](art-04-002.md) | 0 |  |
+| Art. 4.3 | [art-04-003.md](art-04-003.md) | 0 |  |
+| Art. 4.4 | [art-04-004.md](art-04-004.md) | 0 |  |
+| Art. 4.5 | [art-04-005.md](art-04-005.md) | 0 |  |
+| Art. 4.6 | [art-04-006.md](art-04-006.md) | 0 |  |
+| Art. 4.7 | [art-04-007.md](art-04-007.md) | 0 |  |
+| Art. 4.8 | [art-04-008.md](art-04-008.md) | 0 |  |
+| Art. 4.9 | [art-04-009.md](art-04-009.md) | 0 |  |
+| Art. 4.10 | [art-04-010.md](art-04-010.md) | 0 |  |
+| Art. 4.11 | [art-04-011.md](art-04-011.md) | 0 |  |
+| Art. 4.12 | [art-04-012.md](art-04-012.md) | 0 |  |
+| Art. 4.13 | [art-04-013.md](art-04-013.md) | 0 |  |
+| Art. 4.14 | [art-04-014.md](art-04-014.md) | 0 |  |
+| Art. 4.15 | [art-04-015.md](art-04-015.md) | 0 |  |
+| Art. 4.16 | [art-04-016.md](art-04-016.md) | 0 |  |
+| Art. 4.17 | [art-04-017.md](art-04-017.md) | 0 |  |
+| Art. 4.18 | [art-04-018.md](art-04-018.md) | 0 |  |
+| Art. 4.19 | [art-04-019.md](art-04-019.md) | 0 |  |
+| Art. 5.1 | [art-05-001.md](art-05-001.md) | 0 |  |
+| Art. 5.2 | [art-05-002.md](art-05-002.md) | 0 |  |
+| Art. 6.1 | [art-06-001.md](art-06-001.md) | 0 |  |
+| Art. 7.1 | [art-07-001.md](art-07-001.md) | 0 |  |
+| Art. 7.2 | [art-07-002.md](art-07-002.md) | 0 |  |
+| Inhoud | [inhoud.md](inhoud.md) | 0 |  |

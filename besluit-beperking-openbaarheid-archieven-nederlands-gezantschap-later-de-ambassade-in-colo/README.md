@@ -1,0 +1,10 @@
+# Besluit beperking openbaarheid archieven Nederlands Gezantschap, later de Ambassade in Colombia te Bogotá en het Consulaat in Colombia te Barranquilla van het Ministerie van Buitenlandse Zaken, 1948–1974
+
+Besluit beperking openbaarheid archieven Nederlands Gezantschap, later de Ambassade in Colombia te Bogotá en het Consulaat in Colombia te Barranquilla van het Ministerie van Buitenlandse Zaken, 1948–1974 · 1 versions, from 2008-12-10 (latest in force: 2008-12-10) · <https://wetten.overheid.nl/BWBR0024776>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |
+| Art. 3 | [art-003.md](art-003.md) | 0 |  |
+| Art. 4 | [art-004.md](art-004.md) | 0 |  |

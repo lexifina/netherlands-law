@@ -1,0 +1,8 @@
+# Besluit ondermandatering bevoegdheden van Organisatie en Personeel Innovatie en Strategie
+
+Besluit ondermandatering bevoegdheden van Organisatie en Personeel Innovatie en Strategie · 1 versions, from 2025-08-30 (latest in force: 2025-08-30) · <https://wetten.overheid.nl/BWBR0051420>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |

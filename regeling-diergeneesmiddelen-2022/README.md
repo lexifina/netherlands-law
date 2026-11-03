@@ -1,0 +1,77 @@
+# Regeling diergeneesmiddelen 2022
+
+Regeling diergeneesmiddelen 2022 · 1 versions, from 2026-01-01 (latest in force: 2026-01-01) · <https://wetten.overheid.nl/BWBR0046239>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1.1 | [art-01-001.md](art-01-001.md) | 0 |  |
+| Art. 1.2 | [art-01-002.md](art-01-002.md) | 0 |  |
+| Art. 2.1 | [art-02-001.md](art-02-001.md) | 0 |  |
+| Art. 2.2 | [art-02-002.md](art-02-002.md) | 0 |  |
+| Art. 2.3 | [art-02-003.md](art-02-003.md) | 0 |  |
+| Art. 2.4 | [art-02-004.md](art-02-004.md) | 0 |  |
+| Art. 2.5 | [art-02-005.md](art-02-005.md) | 0 |  |
+| Art. 3.1 | [art-03-001.md](art-03-001.md) | 0 |  |
+| Art. 3.2 | [art-03-002.md](art-03-002.md) | 0 |  |
+| Art. 3.3 | [art-03-003.md](art-03-003.md) | 0 |  |
+| Art. 3.4 | [art-03-004.md](art-03-004.md) | 0 |  |
+| Art. 3.5 | [art-03-005.md](art-03-005.md) | 0 |  |
+| Art. 3.7 | [art-03-007.md](art-03-007.md) | 0 |  |
+| Art. 3.8 | [art-03-008.md](art-03-008.md) | 0 |  |
+| Art. 3.9 | [art-03-009.md](art-03-009.md) | 0 |  |
+| Art. 3.10 | [art-03-010.md](art-03-010.md) | 0 |  |
+| Art. 3.11 | [art-03-011.md](art-03-011.md) | 0 |  |
+| Art. 3.12 | [art-03-012.md](art-03-012.md) | 0 |  |
+| Art. 3.13 | [art-03-013.md](art-03-013.md) | 0 |  |
+| Art. 3.14 | [art-03-014.md](art-03-014.md) | 0 |  |
+| Art. 3.15 | [art-03-015.md](art-03-015.md) | 0 |  |
+| Art. 3.16 | [art-03-016.md](art-03-016.md) | 0 |  |
+| Art. 3.17 | [art-03-017.md](art-03-017.md) | 0 |  |
+| Art. 4.1 | [art-04-001.md](art-04-001.md) | 0 |  |
+| Art. 4.2 | [art-04-002.md](art-04-002.md) | 0 |  |
+| Art. 4.3 | [art-04-003.md](art-04-003.md) | 0 |  |
+| Art. 4.4 | [art-04-004.md](art-04-004.md) | 0 |  |
+| Art. 4.5 | [art-04-005.md](art-04-005.md) | 0 |  |
+| Art. 4.6 | [art-04-006.md](art-04-006.md) | 0 |  |
+| Art. 4.7 | [art-04-007.md](art-04-007.md) | 0 |  |
+| Art. 4.8 | [art-04-008.md](art-04-008.md) | 0 |  |
+| Art. 4.9 | [art-04-009.md](art-04-009.md) | 0 |  |
+| Art. 4.10 | [art-04-010.md](art-04-010.md) | 0 |  |
+| Art. 4.11 | [art-04-011.md](art-04-011.md) | 0 |  |
+| Art. 4.12 | [art-04-012.md](art-04-012.md) | 0 |  |
+| Art. 4.12a | [art-04-012a.md](art-04-012a.md) | 0 |  |
+| Art. 4.13 | [art-04-013.md](art-04-013.md) | 0 |  |
+| Art. 4.14 | [art-04-014.md](art-04-014.md) | 0 |  |
+| Art. 4.15 | [art-04-015.md](art-04-015.md) | 0 |  |
+| Art. 4.16 | [art-04-016.md](art-04-016.md) | 0 |  |
+| Art. 4.17 | [art-04-017.md](art-04-017.md) | 0 |  |
+| Art. 4.18 | [art-04-018.md](art-04-018.md) | 0 |  |
+| Art. 4.18a | [art-04-018a.md](art-04-018a.md) | 0 |  |
+| Art. 4.19 | [art-04-019.md](art-04-019.md) | 0 |  |
+| Art. 4.20 | [art-04-020.md](art-04-020.md) | 0 |  |
+| Art. 4.20a | [art-04-020a.md](art-04-020a.md) | 0 |  |
+| Art. 4.21 | [art-04-021.md](art-04-021.md) | 0 |  |
+| Art. 4.23 | [art-04-023.md](art-04-023.md) | 0 |  |
+| Art. 4.24 | [art-04-024.md](art-04-024.md) | 0 |  |
+| Art. 4.25 | [art-04-025.md](art-04-025.md) | 0 |  |
+| Art. 4.25a | [art-04-025a.md](art-04-025a.md) | 0 |  |
+| Art. 4.26 | [art-04-026.md](art-04-026.md) | 0 |  |
+| Art. 5.1 | [art-05-001.md](art-05-001.md) | 0 |  |
+| Art. 5.2 | [art-05-002.md](art-05-002.md) | 0 |  |
+| Art. 5.3 | [art-05-003.md](art-05-003.md) | 0 |  |
+| Art. 5.4 | [art-05-004.md](art-05-004.md) | 0 |  |
+| Art. 5.5 | [art-05-005.md](art-05-005.md) | 0 |  |
+| Art. 5.6 | [art-05-006.md](art-05-006.md) | 0 |  |
+| Art. 5.7 | [art-05-007.md](art-05-007.md) | 0 |  |
+| Art. 6.1 | [art-06-001.md](art-06-001.md) | 0 |  |
+| Art. 6.2 | [art-06-002.md](art-06-002.md) | 0 |  |
+| Art. 6.3 | [art-06-003.md](art-06-003.md) | 0 |  |
+| Art. 7.1 | [art-07-001.md](art-07-001.md) | 0 |  |
+| Art. 7.2 | [art-07-002.md](art-07-002.md) | 0 |  |
+| Art. 7.4 | [art-07-004.md](art-07-004.md) | 0 |  |
+| Art. 7.5 | [art-07-005.md](art-07-005.md) | 0 |  |
+| Art. 7.6 | [art-07-006.md](art-07-006.md) | 0 |  |
+| Art. 5a.1 | [art-5a-1.md](art-5a-1.md) | 0 |  |
+| Art. 5a.2 | [art-5a-2.md](art-5a-2.md) | 0 |  |
+| Art. 5a.3 | [art-5a-3.md](art-5a-3.md) | 0 |  |
+| Inhoud | [inhoud.md](inhoud.md) | 0 |  |

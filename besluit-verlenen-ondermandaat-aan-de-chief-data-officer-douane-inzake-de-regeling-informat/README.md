@@ -1,0 +1,9 @@
+# Besluit verlenen ondermandaat aan de Chief Data Officer Douane inzake de Regeling Informatiehuishouding Financiën 2022 (RINFIN 2022)
+
+Besluit verlenen ondermandaat aan de Chief Data Officer Douane inzake de Regeling Informatiehuishouding Financiën 2022 (RINFIN 2022) · 1 versions, from 2023-01-05 (latest in force: 2023-01-05) · <https://wetten.overheid.nl/BWBR0047758>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |
+| Art. 3 | [art-003.md](art-003.md) | 0 |  |

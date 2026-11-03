@@ -1,0 +1,9 @@
+# Besluit houdende vergoeding voorzitter en leden bezwaaradviescommissie Referendumcommissie
+
+Besluit houdende vergoeding voorzitter en leden bezwaaradviescommissie Referendumcommissie · 1 versions, from 2016-08-17 (latest in force: 2016-08-17) · <https://wetten.overheid.nl/BWBR0038427>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |
+| Art. 3 | [art-003.md](art-003.md) | 0 |  |

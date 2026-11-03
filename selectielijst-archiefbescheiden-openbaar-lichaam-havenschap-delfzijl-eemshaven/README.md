@@ -1,0 +1,8 @@
+# Selectielijst archiefbescheiden openbaar lichaam Havenschap Delfzijl/Eemshaven
+
+Selectielijst archiefbescheiden openbaar lichaam Havenschap Delfzijl/Eemshaven · 1 versions, from 1997-02-02 (latest in force: 1997-02-02) · <https://wetten.overheid.nl/BWBR0008413>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |

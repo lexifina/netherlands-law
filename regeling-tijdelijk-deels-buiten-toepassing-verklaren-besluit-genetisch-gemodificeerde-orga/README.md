@@ -1,0 +1,6 @@
+# Regeling tijdelijk deels buiten toepassing verklaren Besluit genetisch gemodificeerde organismen milieubeheer 2013 en intrekken Tijdelijke regeling afwijkende behandeling vergunningaanvragen gentherapie i.v.m. bestrijding COVID-19 ter uitvoering verordening (EU) 2020/1043 (uitvoering van klinische proeven met geneesmiddelen voor menselijk gebruik die geheel of gedeeltelijk uit genetisch gemodificeerde organismen bestaan en die bestemd zijn voor de behandeling of de voorkoming van de coronavirusziekte, alsmede de levering van die geneesmiddelen) (PbEU 2020, L 231)
+
+Regeling tijdelijk deels buiten toepassing verklaren Besluit genetisch gemodificeerde organismen milieubeheer 2013 en intrekken Tijdelijke regeling afwijkende behandeling vergunningaanvragen gentherapie i.v.m. bestrijding COVID-19 ter uitvoering verordening (EU) 2020/1043 (uitvoering van klinische proeven met geneesmiddelen voor menselijk gebruik die geheel of gedeeltelijk uit genetisch gemodificeerde organismen bestaan en die bestemd zijn voor de behandeling of de voorkoming van de coronavirusziekte, alsmede de levering van die geneesmiddelen) (PbEU 2020, L 231) · 2 versions, from 2021-10-01 (latest in force: 2022-10-29) · <https://wetten.overheid.nl/BWBR0044261>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |

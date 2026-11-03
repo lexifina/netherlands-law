@@ -1,0 +1,8 @@
+# Wijzigingsregeling Voorschrift Vreemdelingen 2000 (aanwijzing onderwijsinstelling met voltijds hoger onderwijs)
+
+Wijzigingsregeling Voorschrift Vreemdelingen 2000 (aanwijzing onderwijsinstelling met voltijds hoger onderwijs) · 1 versions, from 2007-05-01 (latest in force: 2007-05-01) · <https://wetten.overheid.nl/BWBR0020136>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. I | [add-art-01.md](add-art-01.md) | 0 |  |
+| Art. III | [add-art-03.md](add-art-03.md) | 0 |  |

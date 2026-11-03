@@ -1,0 +1,6 @@
+# Regeling Sportakkoord en leefstijlinterventies 2020–2022
+
+Regeling Sportakkoord en leefstijlinterventies 2020–2022 · 2 versions, from 2022-07-20 (latest in force: 2024-01-01) · <https://wetten.overheid.nl/BWBR0043381>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
