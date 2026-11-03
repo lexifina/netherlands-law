@@ -88,6 +88,8 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 | Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -2391,12 +2393,44 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `wijzigingswet-wet-politiegegevens-enz-implementatie-europese-regelgeving-inzake-verwerking` | Wijzigingswet Wet politiegegevens, enz. (implementatie Europese regelgeving inzake verwerking van persoonsgegevens) | 1 | 2023-11-01 to 2023-11-01 |
 | `wijzigingswet-financiele-markten-2018` | Wijzigingswet financiële markten 2018 | 1 | 2019-01-01 to 2019-01-01 |
 | `wet-invoering-extra-geboorteverlof` | Wet invoering extra geboorteverlof | 1 | 2020-07-01 to 2020-07-01 |
+| `waarborgwet-2019` | Waarborgwet 2019 | 1 | 2022-03-02 to 2022-03-02 |
+| `wet-ter-bescherming-koopvaardij` | Wet ter Bescherming Koopvaardij | 1 | 2022-02-01 to 2022-02-01 |
+| `wet-omzetting-aandelen-aan-toonder` | Wet omzetting aandelen aan toonder | 1 | 2026-07-01 to 2026-07-01 |
+| `wet-register-onderwijsdeelnemers` | Wet register onderwijsdeelnemers | 1 | 2026-08-01 to 2026-08-01 |
+| `verzamelwet-pensioenen-2019` | Verzamelwet pensioenen 2019 | 1 | 2019-01-01 to 2019-01-01 |
+| `wet-herstel-en-afwikkeling-van-verzekeraars` | Wet herstel en afwikkeling van verzekeraars | 1 | 2019-01-01 to 2019-01-01 |
+| `wet-aanpassing-kansspelbelasting-voor-sportweddenschappen` | Wet aanpassing kansspelbelasting voor sportweddenschappen | 1 | 2021-10-01 to 2021-10-01 |
+| `wet-fiscale-maatregel-rijksmonumenten` | Wet fiscale maatregel rijksmonumenten | 1 | 2019-01-01 to 2019-01-01 |
+| `wet-implementatie-artikel-1-richtlijn-elektronische-handel` | Wet implementatie artikel 1 richtlijn elektronische handel | 1 | 2019-01-01 to 2019-01-01 |
+| `belastingplan-2019` | Belastingplan 2019 | 1 | 2025-01-01 to 2025-01-01 |
+| `wet-implementatie-eerste-eu-richtlijn-antibelastingontwijking` | Wet implementatie eerste EU-richtlijn antibelastingontwijking | 1 | 2019-11-06 to 2019-11-06 |
+| `wet-bedrijfsleven-2019` | Wet bedrijfsleven 2019 | 1 | 2022-01-01 to 2022-01-01 |
+| `overige-fiscale-maatregelen-2019` | Overige fiscale maatregelen 2019 | 1 | 2019-01-01 to 2019-01-01 |
+| `implementatiewet-herziene-richtlijn-betaaldiensten` | Implementatiewet herziene richtlijn betaaldiensten | 1 | 2019-09-14 to 2019-09-14 |
+| `fiscale-vergroeningsmaatregelen-2019` | Fiscale vergroeningsmaatregelen 2019 | 1 | 2020-01-01 to 2020-01-01 |
+| `wet-modernisering-kleineondernemersregeling` | Wet modernisering kleineondernemersregeling | 1 | 2020-01-01 to 2020-01-01 |
+| `wet-houdende-regeling-van-de-mogelijke-toewijzing-van-extra-zetels-voor-nederland-in-het-e` | Wet houdende regeling van de mogelijke toewijzing van extra zetels voor Nederland in het Europees Parlement | 1 | 2019-02-19 to 2019-02-19 |
+| `wijzigingswet-wet-rijonderricht-motorrijtuigen-1993-evaluatie-nascholing-beroepschauffeurs` | Wijzigingswet Wet rijonderricht motorrijtuigen 1993 (evaluatie, nascholing beroepschauffeurs, bestuursrechtelijke handhaving en enkele verbeteringen) | 1 | 2020-04-01 to 2020-04-01 |
+| `rijkswet-houdende-het-verlenen-van-toestemming-aan-zijne-koninklijke-hoogheid-prins-willem` | Rijkswet houdende het verlenen van toestemming aan Zijne Koninklijke Hoogheid Prins Willem-Alexander Claus George Ferdinand, Prins van Oranje, Prins der Nederlanden, Prins van Oranje-Nassau, Jonkheer van Amsberg om een huwelijk aan te gaan met Máxima Zorreguieta | 1 | 2001-07-13 to 2001-07-13 |
+| `wijzigingswet-wet-kwaliteit-klachten-en-geschillen-zorg-enz-versterking-handhavingsinstrum` | Wijzigingswet Wet kwaliteit, klachten en geschillen zorg, enz. (versterking handhavingsinstrumentarium Inspectie gezondheidszorg en jeugd) | 1 | 2020-03-19 to 2020-03-19 |
+| `wijzigingswet-wet-op-de-parlementaire-enquete-2008-evaluatie-van-de-wet` | Wijzigingswet Wet op de parlementaire enquête 2008 (evaluatie van de wet) | 1 | 2019-03-09 to 2019-03-09 |
+| `wijzigingswet-wet-schadefonds-geweldsmisdrijven-opheffen-rechtspersoonlijkheid-van-het-fon` | Wijzigingswet Wet schadefonds geweldsmisdrijven (opheffen rechtspersoonlijkheid van het fonds, enz.) | 1 | 2019-04-01 to 2019-04-01 |
+| `wijzigingswet-wet-op-de-kansspelen-enz-organiseren-van-kansspelen-op-afstand` | Wijzigingswet Wet op de kansspelen, enz. (organiseren van kansspelen op afstand) | 1 | 2021-10-01 to 2021-10-01 |
+| `wet-aanpassing-indexering-eigen-bijdrage-huurtoeslag-en-het-vervallen-van-de-maximale-inko` | Wet aanpassing indexering eigen bijdrage huurtoeslag en het vervallen van de maximale inkomensgrenzen | 1 | 2020-01-01 to 2020-01-01 |
+| `wet-afwikkeling-massaschade-in-collectieve-actie` | Wet afwikkeling massaschade in collectieve actie | 1 | 2020-01-01 to 2020-01-01 |
+| `verzamelwet-brexit` | Verzamelwet Brexit | 1 | 2024-01-01 to 2024-01-01 |
+| `wijzigingswet-wet-luchtvaart-omvorming-stichting-airport-coordination-netherlands-tot-publ` | Wijzigingswet Wet luchtvaart (Omvorming Stichting Airport Coordination Netherlands tot publiekrechtelijk zelfstandig bestuursorgaan) | 1 | 2020-07-01 to 2020-07-01 |
+| `wet-spoedreparatie-fiscale-eenheid` | Wet spoedreparatie fiscale eenheid | 1 | 2020-01-01 to 2020-01-01 |
+| `aanpassingswet-wnra` | Aanpassingswet Wnra | 1 | 2020-01-01 to 2020-01-01 |
+| `uitvoeringswet-eg-verordening-300-2008` | Uitvoeringswet EG-verordening 300/2008 | 1 | 2022-01-01 to 2022-01-01 |
+| `wijzigingswet-wet-maatschappelijke-ondersteuning-2015-enz-bijdrage-voor-maatschappelijke-o` | Wijzigingswet Wet maatschappelijke ondersteuning 2015, enz. (bijdrage voor maatschappelijke ondersteuning en beoordeling voor verstrekking maatwerkvoorziening) | 1 | 2020-01-01 to 2020-01-01 |
+| `wet-implementatie-prospectusverordening` | Wet implementatie prospectusverordening | 1 | 2019-07-21 to 2019-07-21 |
 
-The build made 8766 commits:
+The build made 8798 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2296 | first version of an act |
+| 2328 | first version of an act |
 | 6114 | one law on its in-force day |
 | 356 | changes no amendment note explains, credited to the publisher |
 
@@ -2404,7 +2438,7 @@ Other counts:
 - 0 commits on the branch `toekomst`: laws not yet in force on 2026-11-03.
 - 39 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 3108 laws in the record.
-- 14087 tags.
+- 14119 tags.
 
 ## Dates
 
@@ -2416,7 +2450,7 @@ When a law gives no date of its own, the default rule applies: Bekendmakingswet 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `ef479d127d33773173e8542fe8529b4e00733fa719b098d3c5ae2fd172ce4c8f` (184637056 bytes).
+- Corpus: sha256 `568f42a86e4f3800611a526eff6a0b9ac2ba98e439ae46a91d7c92c171e00da8` (184894220 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -2704,6 +2738,9 @@ No second build of this corpus has been compared yet.
 - Current text only (breadth first, Alan 2026-11-02): 41 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
 - A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
 - An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
+- Current text only (breadth first, Alan 2026-11-02): 32 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
+- A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
 
 ## What AI did and did not do
 
@@ -2715,6 +2752,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none: no model wrote, summarised or classified any text in this corpus. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).

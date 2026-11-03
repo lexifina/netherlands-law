@@ -84248,6 +84248,454 @@
      "sha256": "59a6e721bb406a9888f22eae31f6e4da418598f4a78e0bf89aa4357798f2678b"
     }
    ]
+  },
+  {
+   "slug": "waarborgwet-2019",
+   "short": "Waarborgwet 2019",
+   "title": "Waarborgwet 2019",
+   "url": "https://wetten.overheid.nl/BWBR0042284",
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 50,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042284/2022-03-02_0/xml/BWBR0042284_2022-03-02_0.xml",
+     "sha256": "be8bf6f377da3ed55ef7f6d045cbf4e9d892d8fb1ddcfd93bbc259a86104093f"
+    }
+   ]
+  },
+  {
+   "slug": "wet-ter-bescherming-koopvaardij",
+   "short": "Wet ter Bescherming Koopvaardij",
+   "title": "Wet ter Bescherming Koopvaardij",
+   "url": "https://wetten.overheid.nl/BWBR0042278",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 26,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042278/2022-02-01_0/xml/BWBR0042278_2022-02-01_0.xml",
+     "sha256": "1cf6a23858d140ee043a22864329361da0255a2d883828d23a0587dd70d69abf"
+    }
+   ]
+  },
+  {
+   "slug": "wet-omzetting-aandelen-aan-toonder",
+   "short": "Wet omzetting aandelen aan toonder",
+   "title": "Wet omzetting aandelen aan toonder",
+   "url": "https://wetten.overheid.nl/BWBR0041991",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041991/2026-07-01_0/xml/BWBR0041991_2026-07-01_0.xml",
+     "sha256": "f54f33a26e5c31788f1075f1be72bd661cc29cb67449b77dd2160a916cdb6e26"
+    }
+   ]
+  },
+  {
+   "slug": "wet-register-onderwijsdeelnemers",
+   "short": "Wet register onderwijsdeelnemers",
+   "title": "Wet register onderwijsdeelnemers",
+   "url": "https://wetten.overheid.nl/BWBR0042012",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 56,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042012/2026-08-01_0/xml/BWBR0042012_2026-08-01_0.xml",
+     "sha256": "e2411c1e96b3559a911a7dac0c755fbf44096b6e13691f6c968a4100f141f939"
+    }
+   ]
+  },
+  {
+   "slug": "verzamelwet-pensioenen-2019",
+   "short": "Verzamelwet pensioenen 2019",
+   "title": "Verzamelwet pensioenen 2019",
+   "url": "https://wetten.overheid.nl/BWBR0041692",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041692/2019-01-01_0/xml/BWBR0041692_2019-01-01_0.xml",
+     "sha256": "eeed11e9e487a9615e1083977fd0407eef4805df6a0d9b6c6dace33e7a5c48dd"
+    }
+   ]
+  },
+  {
+   "slug": "wet-herstel-en-afwikkeling-van-verzekeraars",
+   "short": "Wet herstel en afwikkeling van verzekeraars",
+   "title": "Wet herstel en afwikkeling van verzekeraars",
+   "url": "https://wetten.overheid.nl/BWBR0041732",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 16,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041732/2019-01-01_0/xml/BWBR0041732_2019-01-01_0.xml",
+     "sha256": "bc511ad6fe07f2965462fde6aea2295de34b351a29c3f51df9550905088eb791"
+    }
+   ]
+  },
+  {
+   "slug": "wet-aanpassing-kansspelbelasting-voor-sportweddenschappen",
+   "short": "Wet aanpassing kansspelbelasting voor sportweddenschappen",
+   "title": "Wet aanpassing kansspelbelasting voor sportweddenschappen",
+   "url": "https://wetten.overheid.nl/BWBR0041746",
+   "versions": [
+    {
+     "from": "2021-10-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041746/2021-10-01_0/xml/BWBR0041746_2021-10-01_0.xml",
+     "sha256": "f6ae56a6bca383f6e3c6d48ade79e19652112cc5c81f879a4bd6deda5a769f14"
+    }
+   ]
+  },
+  {
+   "slug": "wet-fiscale-maatregel-rijksmonumenten",
+   "short": "Wet fiscale maatregel rijksmonumenten",
+   "title": "Wet fiscale maatregel rijksmonumenten",
+   "url": "https://wetten.overheid.nl/BWBR0041747",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041747/2019-01-01_0/xml/BWBR0041747_2019-01-01_0.xml",
+     "sha256": "a23701169511e6994c3d6e5e54e0d746ea7c48de21c84915915bf30e95d20085"
+    }
+   ]
+  },
+  {
+   "slug": "wet-implementatie-artikel-1-richtlijn-elektronische-handel",
+   "short": "Wet implementatie artikel 1 richtlijn elektronische handel",
+   "title": "Wet implementatie artikel 1 richtlijn elektronische handel",
+   "url": "https://wetten.overheid.nl/BWBR0041750",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041750/2019-01-01_0/xml/BWBR0041750_2019-01-01_0.xml",
+     "sha256": "8ac3a0b7f0fd857e01323c7bc52835e82494b94ad77c7bf9f5a748d0a94a089f"
+    }
+   ]
+  },
+  {
+   "slug": "belastingplan-2019",
+   "short": "Belastingplan 2019",
+   "title": "Belastingplan 2019",
+   "url": "https://wetten.overheid.nl/BWBR0041751",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 34,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041751/2025-01-01_0/xml/BWBR0041751_2025-01-01_0.xml",
+     "sha256": "6c27057b50cf8183274544bc434c0961da111d186a455d5d5a750b6dc9367c13"
+    }
+   ]
+  },
+  {
+   "slug": "wet-implementatie-eerste-eu-richtlijn-antibelastingontwijking",
+   "short": "Wet implementatie eerste EU-richtlijn antibelastingontwijking",
+   "title": "Wet implementatie eerste EU-richtlijn antibelastingontwijking",
+   "url": "https://wetten.overheid.nl/BWBR0041756",
+   "versions": [
+    {
+     "from": "2019-11-06",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041756/2019-11-06_0/xml/BWBR0041756_2019-11-06_0.xml",
+     "sha256": "789f796eb174a0dd1d3838beabf824a4588bf9ee25343dc145a36df288105796"
+    }
+   ]
+  },
+  {
+   "slug": "wet-bedrijfsleven-2019",
+   "short": "Wet bedrijfsleven 2019",
+   "title": "Wet bedrijfsleven 2019",
+   "url": "https://wetten.overheid.nl/BWBR0041758",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 14,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041758/2022-01-01_0/xml/BWBR0041758_2022-01-01_0.xml",
+     "sha256": "2cc42ddde260b8ffd0dfb9e9b710bf3d6daa48164aa0b6c80b9c1bfbc2f211b3"
+    }
+   ]
+  },
+  {
+   "slug": "overige-fiscale-maatregelen-2019",
+   "short": "Overige fiscale maatregelen 2019",
+   "title": "Overige fiscale maatregelen 2019",
+   "url": "https://wetten.overheid.nl/BWBR0041761",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 21,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041761/2019-01-01_0/xml/BWBR0041761_2019-01-01_0.xml",
+     "sha256": "7a6a88e065970d149681eabd36f05b4621e84d8e0b8c2e21efa34eb6418e0e2e"
+    }
+   ]
+  },
+  {
+   "slug": "implementatiewet-herziene-richtlijn-betaaldiensten",
+   "short": "Implementatiewet herziene richtlijn betaaldiensten",
+   "title": "Implementatiewet herziene richtlijn betaaldiensten",
+   "url": "https://wetten.overheid.nl/BWBR0041768",
+   "versions": [
+    {
+     "from": "2019-09-14",
+     "units": 9,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041768/2019-09-14_0/xml/BWBR0041768_2019-09-14_0.xml",
+     "sha256": "732ef15f0fb17ff5a3dbb4bcf0bd91dfc6c82b48be586af551261252490e8adb"
+    }
+   ]
+  },
+  {
+   "slug": "fiscale-vergroeningsmaatregelen-2019",
+   "short": "Fiscale vergroeningsmaatregelen 2019",
+   "title": "Fiscale vergroeningsmaatregelen 2019",
+   "url": "https://wetten.overheid.nl/BWBR0041769",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 13,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041769/2020-01-01_0/xml/BWBR0041769_2020-01-01_0.xml",
+     "sha256": "5ba86a048d4d862b7671ce4971d8cb155ea0080a6b54a68518462705515f5dc3"
+    }
+   ]
+  },
+  {
+   "slug": "wet-modernisering-kleineondernemersregeling",
+   "short": "Wet modernisering kleineondernemersregeling",
+   "title": "Wet modernisering kleineondernemersregeling",
+   "url": "https://wetten.overheid.nl/BWBR0041782",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041782/2020-01-01_0/xml/BWBR0041782_2020-01-01_0.xml",
+     "sha256": "e744f7996e2578fd273d7da9aaefa9edc87361987569bf3b64b57312f961983a"
+    }
+   ]
+  },
+  {
+   "slug": "wet-houdende-regeling-van-de-mogelijke-toewijzing-van-extra-zetels-voor-nederland-in-het-e",
+   "short": "Wet houdende regeling van de mogelijke toewijzing van extra zetels voor Nederland in het Europees Parlement",
+   "title": "Wet houdende regeling van de mogelijke toewijzing van extra zetels voor Nederland in het Europees Parlement",
+   "url": "https://wetten.overheid.nl/BWBR0041821",
+   "versions": [
+    {
+     "from": "2019-02-19",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041821/2019-02-19_0/xml/BWBR0041821_2019-02-19_0.xml",
+     "sha256": "87099771ba22b315c1e0acb0ef2f9ff297e688e734ff7f85cd822f29e4bf29ae"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-rijonderricht-motorrijtuigen-1993-evaluatie-nascholing-beroepschauffeurs",
+   "short": "Wijzigingswet Wet rijonderricht motorrijtuigen 1993 (evaluatie, nascholing beroepschauffeurs, bestuursrechtelijke handhaving en enkele verbeteringen)",
+   "title": "Wijzigingswet Wet rijonderricht motorrijtuigen 1993 (evaluatie, nascholing beroepschauffeurs, bestuursrechtelijke handhaving en enkele verbeteringen)",
+   "url": "https://wetten.overheid.nl/BWBR0041825",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041825/2020-04-01_0/xml/BWBR0041825_2020-04-01_0.xml",
+     "sha256": "da64e937b1e5b6e46df240357dcb43eaec8389097e1bf6345ed2a224cbe21de9"
+    }
+   ]
+  },
+  {
+   "slug": "rijkswet-houdende-het-verlenen-van-toestemming-aan-zijne-koninklijke-hoogheid-prins-willem",
+   "short": "Rijkswet houdende het verlenen van toestemming aan Zijne Koninklijke Hoogheid Prins Willem-Alexander Claus George Ferdinand, Prins van Oranje, Prins der Nederlanden, Prins van Oranje-Nassau, Jonkheer van Amsberg om een huwelijk aan te gaan met Máxima Zorreguieta",
+   "title": "Rijkswet houdende het verlenen van toestemming aan Zijne Koninklijke Hoogheid Prins Willem-Alexander Claus George Ferdinand, Prins van Oranje, Prins der Nederlanden, Prins van Oranje-Nassau, Jonkheer van Amsberg om een huwelijk aan te gaan met Máxima Zorreguieta",
+   "url": "https://wetten.overheid.nl/BWBR0041837",
+   "versions": [
+    {
+     "from": "2001-07-13",
+     "units": 2,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041837/2001-07-13_0/xml/BWBR0041837_2001-07-13_0.xml",
+     "sha256": "9a202747bc10398b3276f6f9a0bf597e618decd726df2cb6fed4260dc07f88c1"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-kwaliteit-klachten-en-geschillen-zorg-enz-versterking-handhavingsinstrum",
+   "short": "Wijzigingswet Wet kwaliteit, klachten en geschillen zorg, enz. (versterking handhavingsinstrumentarium Inspectie gezondheidszorg en jeugd)",
+   "title": "Wijzigingswet Wet kwaliteit, klachten en geschillen zorg, enz. (versterking handhavingsinstrumentarium Inspectie gezondheidszorg en jeugd)",
+   "url": "https://wetten.overheid.nl/BWBR0041912",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 32,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041912/2020-03-19_0/xml/BWBR0041912_2020-03-19_0.xml",
+     "sha256": "a2cc0930160a110f5e1916970e217ab572fa50cdddd20c3ef5736b9a57df842b"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-de-parlementaire-enquete-2008-evaluatie-van-de-wet",
+   "short": "Wijzigingswet Wet op de parlementaire enquête 2008 (evaluatie van de wet)",
+   "title": "Wijzigingswet Wet op de parlementaire enquête 2008 (evaluatie van de wet)",
+   "url": "https://wetten.overheid.nl/BWBR0041983",
+   "versions": [
+    {
+     "from": "2019-03-09",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041983/2019-03-09_0/xml/BWBR0041983_2019-03-09_0.xml",
+     "sha256": "e93d1573cdd13702f007cb87c46f02d45f1a275dcab3072283c1e471a708cfae"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-schadefonds-geweldsmisdrijven-opheffen-rechtspersoonlijkheid-van-het-fon",
+   "short": "Wijzigingswet Wet schadefonds geweldsmisdrijven (opheffen rechtspersoonlijkheid van het fonds, enz.)",
+   "title": "Wijzigingswet Wet schadefonds geweldsmisdrijven (opheffen rechtspersoonlijkheid van het fonds, enz.)",
+   "url": "https://wetten.overheid.nl/BWBR0042001",
+   "versions": [
+    {
+     "from": "2019-04-01",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042001/2019-04-01_0/xml/BWBR0042001_2019-04-01_0.xml",
+     "sha256": "698b00bd908cd88f2cd79982b841dfc4e3fbfb2aa9794c17070355032f722996"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-de-kansspelen-enz-organiseren-van-kansspelen-op-afstand",
+   "short": "Wijzigingswet Wet op de kansspelen, enz. (organiseren van kansspelen op afstand)",
+   "title": "Wijzigingswet Wet op de kansspelen, enz. (organiseren van kansspelen op afstand)",
+   "url": "https://wetten.overheid.nl/BWBR0042051",
+   "versions": [
+    {
+     "from": "2021-10-01",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042051/2021-10-01_0/xml/BWBR0042051_2021-10-01_0.xml",
+     "sha256": "1777b7c072769c2425cc6674105a14728649ea477b81b72b0771e63845b0faa2"
+    }
+   ]
+  },
+  {
+   "slug": "wet-aanpassing-indexering-eigen-bijdrage-huurtoeslag-en-het-vervallen-van-de-maximale-inko",
+   "short": "Wet aanpassing indexering eigen bijdrage huurtoeslag en het vervallen van de maximale inkomensgrenzen",
+   "title": "Wet aanpassing indexering eigen bijdrage huurtoeslag en het vervallen van de maximale inkomensgrenzen",
+   "url": "https://wetten.overheid.nl/BWBR0042053",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042053/2020-01-01_0/xml/BWBR0042053_2020-01-01_0.xml",
+     "sha256": "ba61d007150e8dd6841cb3e6c2a90c6af6048f0ff81f57623d4c315f934aed14"
+    }
+   ]
+  },
+  {
+   "slug": "wet-afwikkeling-massaschade-in-collectieve-actie",
+   "short": "Wet afwikkeling massaschade in collectieve actie",
+   "title": "Wet afwikkeling massaschade in collectieve actie",
+   "url": "https://wetten.overheid.nl/BWBR0042074",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042074/2020-01-01_0/xml/BWBR0042074_2020-01-01_0.xml",
+     "sha256": "ef8ac77024665bac02e752d8c3154088b0a6bf67140f9985bb148105dac6310c"
+    }
+   ]
+  },
+  {
+   "slug": "verzamelwet-brexit",
+   "short": "Verzamelwet Brexit",
+   "title": "Verzamelwet Brexit",
+   "url": "https://wetten.overheid.nl/BWBR0042111",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 14,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042111/2024-01-01_0/xml/BWBR0042111_2024-01-01_0.xml",
+     "sha256": "95397b2714cad9e97403c7bcfa6fbb3922875397bbb5e34ddd628db9e0c0b234"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-luchtvaart-omvorming-stichting-airport-coordination-netherlands-tot-publ",
+   "short": "Wijzigingswet Wet luchtvaart (Omvorming Stichting Airport Coordination Netherlands tot publiekrechtelijk zelfstandig bestuursorgaan)",
+   "title": "Wijzigingswet Wet luchtvaart (Omvorming Stichting Airport Coordination Netherlands tot publiekrechtelijk zelfstandig bestuursorgaan)",
+   "url": "https://wetten.overheid.nl/BWBR0042126",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042126/2020-07-01_0/xml/BWBR0042126_2020-07-01_0.xml",
+     "sha256": "37c10a53a80c87cf757b785316f3cc9b44e6bb1481f31ad8c027ae4842ce9816"
+    }
+   ]
+  },
+  {
+   "slug": "wet-spoedreparatie-fiscale-eenheid",
+   "short": "Wet spoedreparatie fiscale eenheid",
+   "title": "Wet spoedreparatie fiscale eenheid",
+   "url": "https://wetten.overheid.nl/BWBR0042204",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042204/2020-01-01_0/xml/BWBR0042204_2020-01-01_0.xml",
+     "sha256": "deacec5f851dcb87a0a17ea37266c52e3dcd89e8ffff45629b5951d3f32a2ed9"
+    }
+   ]
+  },
+  {
+   "slug": "aanpassingswet-wnra",
+   "short": "Aanpassingswet Wnra",
+   "title": "Aanpassingswet Wnra",
+   "url": "https://wetten.overheid.nl/BWBR0042210",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 94,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042210/2020-01-01_0/xml/BWBR0042210_2020-01-01_0.xml",
+     "sha256": "2d9342293b665f795d69b1b4efb5e56666c6e7fc09f34e05acce03c88ec671c8"
+    }
+   ]
+  },
+  {
+   "slug": "uitvoeringswet-eg-verordening-300-2008",
+   "short": "Uitvoeringswet EG-verordening 300/2008",
+   "title": "Uitvoeringswet EG-verordening 300/2008",
+   "url": "https://wetten.overheid.nl/BWBR0042213",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 9,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042213/2022-01-01_0/xml/BWBR0042213_2022-01-01_0.xml",
+     "sha256": "395930104dd244aa1945d9e267fdc488858329f4436c0e29106db81b85fbfc37"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-maatschappelijke-ondersteuning-2015-enz-bijdrage-voor-maatschappelijke-o",
+   "short": "Wijzigingswet Wet maatschappelijke ondersteuning 2015, enz. (bijdrage voor maatschappelijke ondersteuning en beoordeling voor verstrekking maatwerkvoorziening)",
+   "title": "Wijzigingswet Wet maatschappelijke ondersteuning 2015, enz. (bijdrage voor maatschappelijke ondersteuning en beoordeling voor verstrekking maatwerkvoorziening)",
+   "url": "https://wetten.overheid.nl/BWBR0042232",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 14,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042232/2020-01-01_0/xml/BWBR0042232_2020-01-01_0.xml",
+     "sha256": "125b7ee8155693a6610d17ecdab0658707334891bd1dbb0cb603712958907390"
+    }
+   ]
+  },
+  {
+   "slug": "wet-implementatie-prospectusverordening",
+   "short": "Wet implementatie prospectusverordening",
+   "title": "Wet implementatie prospectusverordening",
+   "url": "https://wetten.overheid.nl/BWBR0042250",
+   "versions": [
+    {
+     "from": "2019-07-21",
+     "units": 10,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042250/2019-07-21_0/xml/BWBR0042250_2019-07-21_0.xml",
+     "sha256": "227caf7b84fd5d6b4ef8665d8ecea86600eafdfdf7befaa6f06537342a3c0e6d"
+    }
+   ]
   }
  ]
 }

@@ -2313,6 +2313,38 @@ The acts below have one version so far: the version in force on the day it was r
 | `wijzigingswet-wet-politiegegevens-enz-implementatie-europese-regelgeving-inzake-verwerking/` | [Wijzigingswet Wet politiegegevens, enz. (implementatie Europese regelgeving inzake verwerking van persoonsgegevens)](https://wetten.overheid.nl/BWBR0041533) | BWBR0041533 | wet | 2023-11-01 |
 | `wijzigingswet-financiele-markten-2018/` | [Wijzigingswet financiële markten 2018](https://wetten.overheid.nl/BWBR0041547) | BWBR0041547 | wet | 2019-01-01 |
 | `wet-invoering-extra-geboorteverlof/` | [Wet invoering extra geboorteverlof](https://wetten.overheid.nl/BWBR0041646) | BWBR0041646 | wet | 2020-07-01 |
+| `waarborgwet-2019/` | [Waarborgwet 2019](https://wetten.overheid.nl/BWBR0042284) | BWBR0042284 | wet | 2022-03-02 |
+| `wet-ter-bescherming-koopvaardij/` | [Wet ter Bescherming Koopvaardij](https://wetten.overheid.nl/BWBR0042278) | BWBR0042278 | wet | 2022-02-01 |
+| `wet-omzetting-aandelen-aan-toonder/` | [Wet omzetting aandelen aan toonder](https://wetten.overheid.nl/BWBR0041991) | BWBR0041991 | wet | 2026-07-01 |
+| `wet-register-onderwijsdeelnemers/` | [Wet register onderwijsdeelnemers](https://wetten.overheid.nl/BWBR0042012) | BWBR0042012 | wet | 2026-08-01 |
+| `verzamelwet-pensioenen-2019/` | [Verzamelwet pensioenen 2019](https://wetten.overheid.nl/BWBR0041692) | BWBR0041692 | wet | 2019-01-01 |
+| `wet-herstel-en-afwikkeling-van-verzekeraars/` | [Wet herstel en afwikkeling van verzekeraars](https://wetten.overheid.nl/BWBR0041732) | BWBR0041732 | wet | 2019-01-01 |
+| `wet-aanpassing-kansspelbelasting-voor-sportweddenschappen/` | [Wet aanpassing kansspelbelasting voor sportweddenschappen](https://wetten.overheid.nl/BWBR0041746) | BWBR0041746 | wet | 2021-10-01 |
+| `wet-fiscale-maatregel-rijksmonumenten/` | [Wet fiscale maatregel rijksmonumenten](https://wetten.overheid.nl/BWBR0041747) | BWBR0041747 | wet | 2019-01-01 |
+| `wet-implementatie-artikel-1-richtlijn-elektronische-handel/` | [Wet implementatie artikel 1 richtlijn elektronische handel](https://wetten.overheid.nl/BWBR0041750) | BWBR0041750 | wet | 2019-01-01 |
+| `belastingplan-2019/` | [Belastingplan 2019](https://wetten.overheid.nl/BWBR0041751) | BWBR0041751 | wet | 2025-01-01 |
+| `wet-implementatie-eerste-eu-richtlijn-antibelastingontwijking/` | [Wet implementatie eerste EU-richtlijn antibelastingontwijking](https://wetten.overheid.nl/BWBR0041756) | BWBR0041756 | wet | 2019-11-06 |
+| `wet-bedrijfsleven-2019/` | [Wet bedrijfsleven 2019](https://wetten.overheid.nl/BWBR0041758) | BWBR0041758 | wet | 2022-01-01 |
+| `overige-fiscale-maatregelen-2019/` | [Overige fiscale maatregelen 2019](https://wetten.overheid.nl/BWBR0041761) | BWBR0041761 | wet | 2019-01-01 |
+| `implementatiewet-herziene-richtlijn-betaaldiensten/` | [Implementatiewet herziene richtlijn betaaldiensten](https://wetten.overheid.nl/BWBR0041768) | BWBR0041768 | wet | 2019-09-14 |
+| `fiscale-vergroeningsmaatregelen-2019/` | [Fiscale vergroeningsmaatregelen 2019](https://wetten.overheid.nl/BWBR0041769) | BWBR0041769 | wet | 2020-01-01 |
+| `wet-modernisering-kleineondernemersregeling/` | [Wet modernisering kleineondernemersregeling](https://wetten.overheid.nl/BWBR0041782) | BWBR0041782 | wet | 2020-01-01 |
+| `wet-houdende-regeling-van-de-mogelijke-toewijzing-van-extra-zetels-voor-nederland-in-het-e/` | [Wet houdende regeling van de mogelijke toewijzing van extra zetels voor Nederland in het Europees Parlement](https://wetten.overheid.nl/BWBR0041821) | BWBR0041821 | wet | 2019-02-19 |
+| `wijzigingswet-wet-rijonderricht-motorrijtuigen-1993-evaluatie-nascholing-beroepschauffeurs/` | [Wijzigingswet Wet rijonderricht motorrijtuigen 1993 (evaluatie, nascholing beroepschauffeurs, bestuursrechtelijke handhaving en enkele verbeteringen)](https://wetten.overheid.nl/BWBR0041825) | BWBR0041825 | wet | 2020-04-01 |
+| `rijkswet-houdende-het-verlenen-van-toestemming-aan-zijne-koninklijke-hoogheid-prins-willem/` | [Rijkswet houdende het verlenen van toestemming aan Zijne Koninklijke Hoogheid Prins Willem-Alexander Claus George Ferdinand, Prins van Oranje, Prins der Nederlanden, Prins van Oranje-Nassau, Jonkheer van Amsberg om een huwelijk aan te gaan met Máxima Zorreguieta](https://wetten.overheid.nl/BWBR0041837) | BWBR0041837 | rijkswet | 2001-07-13 |
+| `wijzigingswet-wet-kwaliteit-klachten-en-geschillen-zorg-enz-versterking-handhavingsinstrum/` | [Wijzigingswet Wet kwaliteit, klachten en geschillen zorg, enz. (versterking handhavingsinstrumentarium Inspectie gezondheidszorg en jeugd)](https://wetten.overheid.nl/BWBR0041912) | BWBR0041912 | wet | 2020-03-19 |
+| `wijzigingswet-wet-op-de-parlementaire-enquete-2008-evaluatie-van-de-wet/` | [Wijzigingswet Wet op de parlementaire enquête 2008 (evaluatie van de wet)](https://wetten.overheid.nl/BWBR0041983) | BWBR0041983 | wet | 2019-03-09 |
+| `wijzigingswet-wet-schadefonds-geweldsmisdrijven-opheffen-rechtspersoonlijkheid-van-het-fon/` | [Wijzigingswet Wet schadefonds geweldsmisdrijven (opheffen rechtspersoonlijkheid van het fonds, enz.)](https://wetten.overheid.nl/BWBR0042001) | BWBR0042001 | wet | 2019-04-01 |
+| `wijzigingswet-wet-op-de-kansspelen-enz-organiseren-van-kansspelen-op-afstand/` | [Wijzigingswet Wet op de kansspelen, enz. (organiseren van kansspelen op afstand)](https://wetten.overheid.nl/BWBR0042051) | BWBR0042051 | wet | 2021-10-01 |
+| `wet-aanpassing-indexering-eigen-bijdrage-huurtoeslag-en-het-vervallen-van-de-maximale-inko/` | [Wet aanpassing indexering eigen bijdrage huurtoeslag en het vervallen van de maximale inkomensgrenzen](https://wetten.overheid.nl/BWBR0042053) | BWBR0042053 | wet | 2020-01-01 |
+| `wet-afwikkeling-massaschade-in-collectieve-actie/` | [Wet afwikkeling massaschade in collectieve actie](https://wetten.overheid.nl/BWBR0042074) | BWBR0042074 | wet | 2020-01-01 |
+| `verzamelwet-brexit/` | [Verzamelwet Brexit](https://wetten.overheid.nl/BWBR0042111) | BWBR0042111 | wet | 2024-01-01 |
+| `wijzigingswet-wet-luchtvaart-omvorming-stichting-airport-coordination-netherlands-tot-publ/` | [Wijzigingswet Wet luchtvaart (Omvorming Stichting Airport Coordination Netherlands tot publiekrechtelijk zelfstandig bestuursorgaan)](https://wetten.overheid.nl/BWBR0042126) | BWBR0042126 | wet | 2020-07-01 |
+| `wet-spoedreparatie-fiscale-eenheid/` | [Wet spoedreparatie fiscale eenheid](https://wetten.overheid.nl/BWBR0042204) | BWBR0042204 | wet | 2020-01-01 |
+| `aanpassingswet-wnra/` | [Aanpassingswet Wnra](https://wetten.overheid.nl/BWBR0042210) | BWBR0042210 | wet | 2020-01-01 |
+| `uitvoeringswet-eg-verordening-300-2008/` | [Uitvoeringswet EG-verordening 300/2008](https://wetten.overheid.nl/BWBR0042213) | BWBR0042213 | wet | 2022-01-01 |
+| `wijzigingswet-wet-maatschappelijke-ondersteuning-2015-enz-bijdrage-voor-maatschappelijke-o/` | [Wijzigingswet Wet maatschappelijke ondersteuning 2015, enz. (bijdrage voor maatschappelijke ondersteuning en beoordeling voor verstrekking maatwerkvoorziening)](https://wetten.overheid.nl/BWBR0042232) | BWBR0042232 | wet | 2020-01-01 |
+| `wet-implementatie-prospectusverordening/` | [Wet implementatie prospectusverordening](https://wetten.overheid.nl/BWBR0042250) | BWBR0042250 | wet | 2019-07-21 |
 
 ## A lawyer's questions as git commands
 
