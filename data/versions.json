@@ -85494,6 +85494,482 @@
      "sha256": "cd27c07fd9cde138811515c8f39610e31071af988a1baf779709929c0acf91a0"
     }
    ]
+  },
+  {
+   "slug": "wet-voortgezet-onderwijs-2020",
+   "short": "WVO 2020",
+   "title": "Wet voortgezet onderwijs 2020",
+   "url": "https://wetten.overheid.nl/BWBR0044212",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 540,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0044212/2026-08-01_0/xml/BWBR0044212_2026-08-01_0.xml",
+     "sha256": "ab6123ad41b80ff488c8d4edc394b30c5c0a73212f514720ce205eee468f302d"
+    }
+   ]
+  },
+  {
+   "slug": "invoeringswet-omgevingswet",
+   "short": "Invoeringswet Omgevingswet",
+   "title": "Invoeringswet Omgevingswet",
+   "url": "https://wetten.overheid.nl/BWBR0043660",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 187,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043660/2026-07-01_0/xml/BWBR0043660_2026-07-01_0.xml",
+     "sha256": "de24443922a54c6dbe3eb6baf6cedf0c186810d589158a66b5f181bbb13ec43c"
+    }
+   ]
+  },
+  {
+   "slug": "wet-ambulancezorgvoorzieningen",
+   "short": "wazv",
+   "title": "Wet ambulancezorgvoorzieningen",
+   "url": "https://wetten.overheid.nl/BWBR0043925",
+   "versions": [
+    {
+     "from": "2025-07-05",
+     "units": 36,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043925/2025-07-05_0/xml/BWBR0043925_2025-07-05_0.xml",
+     "sha256": "70c8df83d37a2074dc0d7d13cf2c88ad6d87f0d9eccf0d824ede00fb158f1b9f"
+    }
+   ]
+  },
+  {
+   "slug": "wet-toetreding-zorgaanbieders",
+   "short": "Wet toetreding zorgaanbieders",
+   "title": "Wet toetreding zorgaanbieders",
+   "url": "https://wetten.overheid.nl/BWBR0043797",
+   "versions": [
+    {
+     "from": "2025-07-05",
+     "units": 24,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043797/2025-07-05_0/xml/BWBR0043797_2025-07-05_0.xml",
+     "sha256": "eb9dfa7af3f9fb9d834695b7df83e470d925d109b6c44d53dbbd256368894547"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wegenverkeerswet-1994-enz-implementatie-richtlijn-2014-45-eu-alsmede-invoeri",
+   "short": "Wijzigingswet Wegenverkeerswet 1994, enz. (implementatie richtlijn 2014/45/EU alsmede invoering registratie- en kentekenplicht landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid, mobiele machines en aanhangwagens die uitsluitend bestemd zijn om daardoor te worden voortbewogen en het niet meer toelaten tot het verkeer van nieuwe motorrijtuigen met beperkte snelheid)",
+   "title": "Wijzigingswet Wegenverkeerswet 1994, enz. (implementatie richtlijn 2014/45/EU alsmede invoering registratie- en kentekenplicht landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid, mobiele machines en aanhangwagens die uitsluitend bestemd zijn om daardoor te worden voortbewogen en het niet meer toelaten tot het verkeer van nieuwe motorrijtuigen met beperkte snelheid)",
+   "url": "https://wetten.overheid.nl/BWBR0043651",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043651/2025-01-01_0/xml/BWBR0043651_2025-01-01_0.xml",
+     "sha256": "c8ef3b6b870c5b8bc8bff6ace9cf6e05e71e8aaa05c0a89109c3c4058c811977"
+    }
+   ]
+  },
+  {
+   "slug": "wet-defensiematerieelbegrotingsfonds",
+   "short": "Wet defensiematerieelbegrotingsfonds",
+   "title": "Wet defensiematerieelbegrotingsfonds",
+   "url": "https://wetten.overheid.nl/BWBR0043666",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 9,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043666/2020-07-01_0/xml/BWBR0043666_2020-07-01_0.xml",
+     "sha256": "8ec86d4007a012d8763789bc0499d7cdb5cc8d3f349ea1ec025a792bfdc313e1"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wetboek-van-burgerlijke-rechtsvordering-enz-beslag-en-executierecht",
+   "short": "Wijzigingswet Wetboek van Burgerlijke Rechtsvordering, enz. (beslag- en executierecht)",
+   "title": "Wijzigingswet Wetboek van Burgerlijke Rechtsvordering, enz. (beslag- en executierecht)",
+   "url": "https://wetten.overheid.nl/BWBR0043668",
+   "versions": [
+    {
+     "from": "2021-04-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043668/2021-04-01_0/xml/BWBR0043668_2021-04-01_0.xml",
+     "sha256": "1a3b755a30063c1ea78321d0fa1e47a24b22978f35bbce97f1b8db8665331ab4"
+    }
+   ]
+  },
+  {
+   "slug": "verzamelspoedwet-covid-19",
+   "short": "Verzamelspoedwet COVID-19",
+   "title": "Verzamelspoedwet COVID-19",
+   "url": "https://wetten.overheid.nl/BWBR0043688",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 8,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043688/2023-02-01_0/xml/BWBR0043688_2023-02-01_0.xml",
+     "sha256": "7dc4401160b6e52a1264e0525bc3dbcdff132fe5ad32d3a4c6e87f24a29b9e0c"
+    }
+   ]
+  },
+  {
+   "slug": "wet-hardheidsaanpassing-awir",
+   "short": "Wet hardheidsaanpassing Awir",
+   "title": "Wet hardheidsaanpassing Awir",
+   "url": "https://wetten.overheid.nl/BWBR0043785",
+   "versions": [
+    {
+     "from": "2022-11-05",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043785/2022-11-05_0/xml/BWBR0043785_2022-11-05_0.xml",
+     "sha256": "887fe2110f9dddc76ef5ccdbbd1fccfcb44d2d5b5d3c1b651d65920a3558c4e0"
+    }
+   ]
+  },
+  {
+   "slug": "tijdelijke-experimentenwet-rechtspleging",
+   "short": "Tijdelijke Experimentenwet rechtspleging",
+   "title": "Tijdelijke Experimentenwet rechtspleging",
+   "url": "https://wetten.overheid.nl/BWBR0043790",
+   "versions": [
+    {
+     "from": "2023-04-01",
+     "units": 9,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043790/2023-04-01_0/xml/BWBR0043790_2023-04-01_0.xml",
+     "sha256": "2c5853e0af1f14d2628274b02aa1ea303e5bc8fa764163b9200051df59ae949c"
+    }
+   ]
+  },
+  {
+   "slug": "implementatiewet-registratie-uiteindelijk-belanghebbenden-van-vennootschappen-en-andere-ju",
+   "short": "Implementatiewet registratie uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten",
+   "title": "Implementatiewet registratie uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten",
+   "url": "https://wetten.overheid.nl/BWBR0043796",
+   "versions": [
+    {
+     "from": "2020-07-08",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043796/2020-07-08_0/xml/BWBR0043796_2020-07-08_0.xml",
+     "sha256": "4acd10b2fb1a02bc052f6112336eb05263a1329ecc73711f508a43242a380c47"
+    }
+   ]
+  },
+  {
+   "slug": "spoedreparatiewet-herziening-tenuitvoerlegging-strafrechtelijke-beslissingen",
+   "short": "Spoedreparatiewet herziening tenuitvoerlegging strafrechtelijke beslissingen",
+   "title": "Spoedreparatiewet herziening tenuitvoerlegging strafrechtelijke beslissingen",
+   "url": "https://wetten.overheid.nl/BWBR0043800",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 12,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043800/2025-07-01_0/xml/BWBR0043800_2025-07-01_0.xml",
+     "sha256": "6770bba20074066024193209552a8e29ed3bf909901502e64343e1ed94acd18b"
+    }
+   ]
+  },
+  {
+   "slug": "aanpassingswet-wet-toetreding-zorgaanbieders",
+   "short": "Aanpassingswet Wet toetreding zorgaanbieders",
+   "title": "Aanpassingswet Wet toetreding zorgaanbieders",
+   "url": "https://wetten.overheid.nl/BWBR0043812",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 25,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043812/2024-01-01_0/xml/BWBR0043812_2024-01-01_0.xml",
+     "sha256": "a0d1c554bb8d905ac81fd29112a099f461af9d92d5b8d0bac5eac5a62f6363c1"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-elektriciteitswet-1998-enz-implementatie-wijziging-gasrichtlijn-en-verordeni",
+   "short": "Wijzigingswet Elektriciteitswet 1998, enz. (implementatie wijziging Gasrichtlijn en verordeningen elektriciteit en gas)",
+   "title": "Wijzigingswet Elektriciteitswet 1998, enz. (implementatie wijziging Gasrichtlijn en verordeningen elektriciteit en gas)",
+   "url": "https://wetten.overheid.nl/BWBR0043813",
+   "versions": [
+    {
+     "from": "2020-07-10",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043813/2020-07-10_0/xml/BWBR0043813_2020-07-10_0.xml",
+     "sha256": "dee6237655dd85f1c944f3529dfa5c8523641bb286f09abf80baeec6b2f13655"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-gemeentelijke-schuldhulpverlening-uitwisseling-persoonsgegevens",
+   "short": "Wijzigingswet Wet gemeentelijke schuldhulpverlening (uitwisseling persoonsgegevens)",
+   "title": "Wijzigingswet Wet gemeentelijke schuldhulpverlening (uitwisseling persoonsgegevens)",
+   "url": "https://wetten.overheid.nl/BWBR0043843",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043843/2021-01-01_0/xml/BWBR0043843_2021-01-01_0.xml",
+     "sha256": "4c36e2e26ab191f8831239b9451253307d1e7eb334874082ad38d2bb9b719539"
+    }
+   ]
+  },
+  {
+   "slug": "tweede-verzamelspoedwet-covid-19",
+   "short": "Tweede Verzamelspoedwet COVID-19",
+   "title": "Tweede Verzamelspoedwet COVID-19",
+   "url": "https://wetten.overheid.nl/BWBR0043880",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 14,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043880/2023-11-16_0/xml/BWBR0043880_2023-11-16_0.xml",
+     "sha256": "7826eb8c175fbeec85a329ec9d64730522bd6e55262ad797f0f500b376c52575"
+    }
+   ]
+  },
+  {
+   "slug": "wet-franchise",
+   "short": "Wet franchise",
+   "title": "Wet franchise",
+   "url": "https://wetten.overheid.nl/BWBR0043881",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043881/2021-01-01_0/xml/BWBR0043881_2021-01-01_0.xml",
+     "sha256": "bd2475d90239cdae8b387c44b3f7290cd7674a1e356cd953d057b33e7b93c5b1"
+    }
+   ]
+  },
+  {
+   "slug": "wet-samenvoeging-gemeenten-appingedam-delfzijl-en-loppersum",
+   "short": "Wet samenvoeging gemeenten Appingedam, Delfzijl en Loppersum",
+   "title": "Wet samenvoeging gemeenten Appingedam, Delfzijl en Loppersum",
+   "url": "https://wetten.overheid.nl/BWBR0043890",
+   "versions": [
+    {
+     "from": "2020-09-15",
+     "units": 9,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043890/2020-09-15_0/xml/BWBR0043890_2020-09-15_0.xml",
+     "sha256": "a9ad05f3ff58edc6683fe68a3ee2f59d1a2d0ce888276bb90606cc99232e77bc"
+    }
+   ]
+  },
+  {
+   "slug": "implementatiewet-herziene-detacheringsrichtlijn",
+   "short": "Implementatiewet herziene detacheringsrichtlijn",
+   "title": "Implementatiewet herziene detacheringsrichtlijn",
+   "url": "https://wetten.overheid.nl/BWBR0043892",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 9,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043892/2020-07-30_0/xml/BWBR0043892_2020-07-30_0.xml",
+     "sha256": "1aa79beb709b57c5477e997e2813f9e2c873c61ff67777fb95d1d4ea3030f3ee"
+    }
+   ]
+  },
+  {
+   "slug": "wet-splitsing-gemeente-haaren",
+   "short": "Wet splitsing gemeente Haaren",
+   "title": "Wet splitsing gemeente Haaren",
+   "url": "https://wetten.overheid.nl/BWBR0043898",
+   "versions": [
+    {
+     "from": "2020-09-15",
+     "units": 9,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043898/2020-09-15_0/xml/BWBR0043898_2020-09-15_0.xml",
+     "sha256": "c7c3b312c9f2390fc7cb9c8d869434799af0b2535d747140effc11de3115551e"
+    }
+   ]
+  },
+  {
+   "slug": "wet-elektronische-publicaties",
+   "short": "WEP",
+   "title": "Wet elektronische publicaties",
+   "url": "https://wetten.overheid.nl/BWBR0043961",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 91,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043961/2024-01-01_0/xml/BWBR0043961_2024-01-01_0.xml",
+     "sha256": "2455c47f20b4bccbb487a891826e4dccf69e0f69407fcba69e9a4f3656f40baa"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-wet-versterken-positie-mbo-studenten",
+   "short": "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (Wet versterken positie mbo-studenten)",
+   "title": "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (Wet versterken positie mbo-studenten)",
+   "url": "https://wetten.overheid.nl/BWBR0043965",
+   "versions": [
+    {
+     "from": "2021-08-01",
+     "units": 67,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043965/2021-08-01_0/xml/BWBR0043965_2021-08-01_0.xml",
+     "sha256": "b364c3ddc6f090cfabb90a0950814d0d5eff9912d35c1096db189b2cf2e25aa8"
+    }
+   ]
+  },
+  {
+   "slug": "wet-straffen-en-beschermen",
+   "short": "Wet straffen en beschermen",
+   "title": "Wet straffen en beschermen",
+   "url": "https://wetten.overheid.nl/BWBR0043990",
+   "versions": [
+    {
+     "from": "2021-12-01",
+     "units": 8,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043990/2021-12-01_0/xml/BWBR0043990_2021-12-01_0.xml",
+     "sha256": "78d5adc2d3a5aeb0835b7a046537fbdc32d20d158c6badfcea3b03cd428dac13"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wegenverkeerswet-1994-en-enkele-andere-wetten-uitvoering-van-verordening-eu",
+   "short": "Wijzigingswet Wegenverkeerswet 1994 en enkele andere wetten (uitvoering van verordening (EU) 2018/858 en andere besluiten van de Europese Unie betreffende de goedkeuring van en het markttoezicht op motorvoertuigen, aanhangwagens daarvan en systemen, onderdelen en technische eenheden die voor dergelijke voertuigen zijn bestemd (Uitvoeringswet verordening (EU) 2018/858))",
+   "title": "Wijzigingswet Wegenverkeerswet 1994 en enkele andere wetten (uitvoering van verordening (EU) 2018/858 en andere besluiten van de Europese Unie betreffende de goedkeuring van en het markttoezicht op motorvoertuigen, aanhangwagens daarvan en systemen, onderdelen en technische eenheden die voor dergelijke voertuigen zijn bestemd (Uitvoeringswet verordening (EU) 2018/858))",
+   "url": "https://wetten.overheid.nl/BWBR0044018",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 10,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0044018/2020-09-01_0/xml/BWBR0044018_2020-09-01_0.xml",
+     "sha256": "eb43790c12bb4c7c31e0fbfc1e3bfcbbd38446178bd87f6cbfcb3dae555900f0"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wegenverkeerswet-1994-ongeldig-maken-getuigschriften",
+   "short": "Wijzigingswet Wegenverkeerswet 1994 (ongeldig maken getuigschriften)",
+   "title": "Wijzigingswet Wegenverkeerswet 1994 (ongeldig maken getuigschriften)",
+   "url": "https://wetten.overheid.nl/BWBR0044020",
+   "versions": [
+    {
+     "from": "2020-12-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0044020/2020-12-01_0/xml/BWBR0044020_2020-12-01_0.xml",
+     "sha256": "412f839a8fa2e087ff529465519bc82c8dcf7946490bd51ca1e62e7e2c363b35"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-de-expertisecentra-enz-verbod-buitensluiting-van-activiteiten",
+   "short": "Wijzigingswet Wet op de expertisecentra, enz. (verbod buitensluiting van activiteiten)",
+   "title": "Wijzigingswet Wet op de expertisecentra, enz. (verbod buitensluiting van activiteiten)",
+   "url": "https://wetten.overheid.nl/BWBR0044049",
+   "versions": [
+    {
+     "from": "2021-08-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0044049/2021-08-01_0/xml/BWBR0044049_2021-08-01_0.xml",
+     "sha256": "974aeccddabf7cf04df82e939a37e46f4c3383d68784f864c5011a4ee3a3a850"
+    }
+   ]
+  },
+  {
+   "slug": "aanvullingswet-natuur-omgevingswet",
+   "short": "Aanvullingswet natuur Omgevingswet",
+   "title": "Aanvullingswet natuur Omgevingswet",
+   "url": "https://wetten.overheid.nl/BWBR0044063",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 34,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0044063/2024-01-01_0/xml/BWBR0044063_2024-01-01_0.xml",
+     "sha256": "16795f6a9561f984ccd9c97533cb61345f3b01a8230d88a4907c86a14856ce68"
+    }
+   ]
+  },
+  {
+   "slug": "tijdelijke-wet-notificatieapplicatie-covid-19",
+   "short": "Tijdelijke wet notificatieapplicatie covid-19",
+   "title": "Tijdelijke wet notificatieapplicatie covid-19",
+   "url": "https://wetten.overheid.nl/BWBR0044194",
+   "versions": [
+    {
+     "from": "2020-10-10",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0044194/2020-10-10_0/xml/BWBR0044194_2020-10-10_0.xml",
+     "sha256": "0a817c9f8b9ee72604beb220a9763b05fd763d877b16f2c5b8d9ea892c40e903"
+    }
+   ]
+  },
+  {
+   "slug": "herstelwet-financiele-markten-2020",
+   "short": "Herstelwet financiële markten 2020",
+   "title": "Herstelwet financiële markten 2020",
+   "url": "https://wetten.overheid.nl/BWBR0044214",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 9,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0044214/2021-06-30_0/xml/BWBR0044214_2021-06-30_0.xml",
+     "sha256": "676ed0fff706e12e0d89617397766f6b39869521e887b712029182064f289a7d"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-de-rechterlijke-organisatie-wegnemen-belemmeringen-voor-gerechten-bij",
+   "short": "Wijzigingswet Wet op de rechterlijke organisatie (wegnemen belemmeringen voor gerechten bij verlenen onderlinge bijstand bij gebrek aan voldoende zittingscapaciteit)",
+   "title": "Wijzigingswet Wet op de rechterlijke organisatie (wegnemen belemmeringen voor gerechten bij verlenen onderlinge bijstand bij gebrek aan voldoende zittingscapaciteit)",
+   "url": "https://wetten.overheid.nl/BWBR0044248",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0044248/2021-01-01_0/xml/BWBR0044248_2021-01-01_0.xml",
+     "sha256": "98843a2d68fc7146505758f9e6e848afdb976ba6525596104d8bdee0109e1f71"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-boek-1-burgerlijk-wetboek-adviesrecht-voor-gemeenten-bij-de-procedure-rond-b",
+   "short": "Wijzigingswet Boek 1 Burgerlijk Wetboek (adviesrecht voor gemeenten bij de procedure rond beschermingsbewind wegens problematische schulden)",
+   "title": "Wijzigingswet Boek 1 Burgerlijk Wetboek (adviesrecht voor gemeenten bij de procedure rond beschermingsbewind wegens problematische schulden)",
+   "url": "https://wetten.overheid.nl/BWBR0044249",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0044249/2021-01-01_0/xml/BWBR0044249_2021-01-01_0.xml",
+     "sha256": "e12c330fd7cb182a66026ab3cf425050619504d070998c4562a694bb764766fe"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-implementatie-eu-richtlijnen-energie-efficientie-opnemen-grondslag-voor",
+   "short": "Wijzigingswet Wet implementatie EU-richtlijnen energie-efficiëntie (opnemen grondslag voor de energie-audit)",
+   "title": "Wijzigingswet Wet implementatie EU-richtlijnen energie-efficiëntie (opnemen grondslag voor de energie-audit)",
+   "url": "https://wetten.overheid.nl/BWBR0044250",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0044250/2021-07-01_0/xml/BWBR0044250_2021-07-01_0.xml",
+     "sha256": "92b0e86de2a5be88582a280f7ef77187bffcd66bfa1282792a2581069d386588"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-politiewet-2012-en-wet-op-de-medische-keuringen-screening-ambtenaren-van-pol",
+   "short": "Wijzigingswet Politiewet 2012 en Wet op de medische keuringen (screening ambtenaren van politie en politie-externen)",
+   "title": "Wijzigingswet Politiewet 2012 en Wet op de medische keuringen (screening ambtenaren van politie en politie-externen)",
+   "url": "https://wetten.overheid.nl/BWBR0044296",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0044296/2023-01-01_0/xml/BWBR0044296_2023-01-01_0.xml",
+     "sha256": "f3fb483366ac6988166d581c35d441ba8ce2d9164f9cc146f78235f2abf519e3"
+    }
+   ]
+  },
+  {
+   "slug": "wet-homologatie-onderhands-akkoord",
+   "short": "WHOA",
+   "title": "Wet homologatie onderhands akkoord",
+   "url": "https://wetten.overheid.nl/BWBR0044298",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0044298/2021-01-01_0/xml/BWBR0044298_2021-01-01_0.xml",
+     "sha256": "b840a5a54af97afb6e3c0af805585dcf54857c8f390f1b742e8c04b4487e04ec"
+    }
+   ]
   }
  ]
 }

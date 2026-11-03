@@ -94,6 +94,8 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 | Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -2486,12 +2488,46 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `wet-verwijzingsportaal-bankgegevens` | Wet verwijzingsportaal bankgegevens | 1 | 2020-09-10 to 2020-09-10 |
 | `implementatiewet-wijziging-eu-kaderrichtlijn-afvalstoffen` | Implementatiewet wijziging EU-kaderrichtlijn afvalstoffen | 1 | 2020-07-01 to 2020-07-01 |
 | `wijzigingswet-wet-op-het-voortgezet-onderwijs-enz-versterking-beroepsonderwijs-door-het-we` | Wijzigingswet Wet op het voortgezet onderwijs, enz. (versterking beroepsonderwijs, door het wettelijk mogelijk maken van doorlopende leerroutes vmbo-mbo (sterk beroepsonderwijs)) | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-voortgezet-onderwijs-2020` | Wet voortgezet onderwijs 2020 | 1 | 2026-08-01 to 2026-08-01 |
+| `invoeringswet-omgevingswet` | Invoeringswet Omgevingswet | 1 | 2026-07-01 to 2026-07-01 |
+| `wet-ambulancezorgvoorzieningen` | Wet ambulancezorgvoorzieningen | 1 | 2025-07-05 to 2025-07-05 |
+| `wet-toetreding-zorgaanbieders` | Wet toetreding zorgaanbieders | 1 | 2025-07-05 to 2025-07-05 |
+| `wijzigingswet-wegenverkeerswet-1994-enz-implementatie-richtlijn-2014-45-eu-alsmede-invoeri` | Wijzigingswet Wegenverkeerswet 1994, enz. (implementatie richtlijn 2014/45/EU alsmede invoering registratie- en kentekenplicht landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid, mobiele machines en aanhangwagens die uitsluitend bestemd zijn om daardoor te worden voortbewogen en het niet meer toelaten tot het verkeer van nieuwe motorrijtuigen met beperkte snelheid) | 1 | 2025-01-01 to 2025-01-01 |
+| `wet-defensiematerieelbegrotingsfonds` | Wet defensiematerieelbegrotingsfonds | 1 | 2020-07-01 to 2020-07-01 |
+| `wijzigingswet-wetboek-van-burgerlijke-rechtsvordering-enz-beslag-en-executierecht` | Wijzigingswet Wetboek van Burgerlijke Rechtsvordering, enz. (beslag- en executierecht) | 1 | 2021-04-01 to 2021-04-01 |
+| `verzamelspoedwet-covid-19` | Verzamelspoedwet COVID-19 | 1 | 2023-02-01 to 2023-02-01 |
+| `wet-hardheidsaanpassing-awir` | Wet hardheidsaanpassing Awir | 1 | 2022-11-05 to 2022-11-05 |
+| `tijdelijke-experimentenwet-rechtspleging` | Tijdelijke Experimentenwet rechtspleging | 1 | 2023-04-01 to 2023-04-01 |
+| `implementatiewet-registratie-uiteindelijk-belanghebbenden-van-vennootschappen-en-andere-ju` | Implementatiewet registratie uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten | 1 | 2020-07-08 to 2020-07-08 |
+| `spoedreparatiewet-herziening-tenuitvoerlegging-strafrechtelijke-beslissingen` | Spoedreparatiewet herziening tenuitvoerlegging strafrechtelijke beslissingen | 1 | 2025-07-01 to 2025-07-01 |
+| `aanpassingswet-wet-toetreding-zorgaanbieders` | Aanpassingswet Wet toetreding zorgaanbieders | 1 | 2024-01-01 to 2024-01-01 |
+| `wijzigingswet-elektriciteitswet-1998-enz-implementatie-wijziging-gasrichtlijn-en-verordeni` | Wijzigingswet Elektriciteitswet 1998, enz. (implementatie wijziging Gasrichtlijn en verordeningen elektriciteit en gas) | 1 | 2020-07-10 to 2020-07-10 |
+| `wijzigingswet-wet-gemeentelijke-schuldhulpverlening-uitwisseling-persoonsgegevens` | Wijzigingswet Wet gemeentelijke schuldhulpverlening (uitwisseling persoonsgegevens) | 1 | 2021-01-01 to 2021-01-01 |
+| `tweede-verzamelspoedwet-covid-19` | Tweede Verzamelspoedwet COVID-19 | 1 | 2023-11-16 to 2023-11-16 |
+| `wet-franchise` | Wet franchise | 1 | 2021-01-01 to 2021-01-01 |
+| `wet-samenvoeging-gemeenten-appingedam-delfzijl-en-loppersum` | Wet samenvoeging gemeenten Appingedam, Delfzijl en Loppersum | 1 | 2020-09-15 to 2020-09-15 |
+| `implementatiewet-herziene-detacheringsrichtlijn` | Implementatiewet herziene detacheringsrichtlijn | 1 | 2020-07-30 to 2020-07-30 |
+| `wet-splitsing-gemeente-haaren` | Wet splitsing gemeente Haaren | 1 | 2020-09-15 to 2020-09-15 |
+| `wet-elektronische-publicaties` | Wet elektronische publicaties | 1 | 2024-01-01 to 2024-01-01 |
+| `wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-wet-versterken-positie-mbo-studenten` | Wijzigingswet Wet educatie en beroepsonderwijs, enz. (Wet versterken positie mbo-studenten) | 1 | 2021-08-01 to 2021-08-01 |
+| `wet-straffen-en-beschermen` | Wet straffen en beschermen | 1 | 2021-12-01 to 2021-12-01 |
+| `wijzigingswet-wegenverkeerswet-1994-en-enkele-andere-wetten-uitvoering-van-verordening-eu` | Wijzigingswet Wegenverkeerswet 1994 en enkele andere wetten (uitvoering van verordening (EU) 2018/858 en andere besluiten van de Europese Unie betreffende de goedkeuring van en het markttoezicht op motorvoertuigen, aanhangwagens daarvan en systemen, onderdelen en technische eenheden die voor dergelijke voertuigen zijn bestemd (Uitvoeringswet verordening (EU) 2018/858)) | 1 | 2020-09-01 to 2020-09-01 |
+| `wijzigingswet-wegenverkeerswet-1994-ongeldig-maken-getuigschriften` | Wijzigingswet Wegenverkeerswet 1994 (ongeldig maken getuigschriften) | 1 | 2020-12-01 to 2020-12-01 |
+| `wijzigingswet-wet-op-de-expertisecentra-enz-verbod-buitensluiting-van-activiteiten` | Wijzigingswet Wet op de expertisecentra, enz. (verbod buitensluiting van activiteiten) | 1 | 2021-08-01 to 2021-08-01 |
+| `aanvullingswet-natuur-omgevingswet` | Aanvullingswet natuur Omgevingswet | 1 | 2024-01-01 to 2024-01-01 |
+| `tijdelijke-wet-notificatieapplicatie-covid-19` | Tijdelijke wet notificatieapplicatie covid-19 | 1 | 2020-10-10 to 2020-10-10 |
+| `herstelwet-financiele-markten-2020` | Herstelwet financiële markten 2020 | 1 | 2021-06-30 to 2021-06-30 |
+| `wijzigingswet-wet-op-de-rechterlijke-organisatie-wegnemen-belemmeringen-voor-gerechten-bij` | Wijzigingswet Wet op de rechterlijke organisatie (wegnemen belemmeringen voor gerechten bij verlenen onderlinge bijstand bij gebrek aan voldoende zittingscapaciteit) | 1 | 2021-01-01 to 2021-01-01 |
+| `wijzigingswet-boek-1-burgerlijk-wetboek-adviesrecht-voor-gemeenten-bij-de-procedure-rond-b` | Wijzigingswet Boek 1 Burgerlijk Wetboek (adviesrecht voor gemeenten bij de procedure rond beschermingsbewind wegens problematische schulden) | 1 | 2021-01-01 to 2021-01-01 |
+| `wijzigingswet-wet-implementatie-eu-richtlijnen-energie-efficientie-opnemen-grondslag-voor` | Wijzigingswet Wet implementatie EU-richtlijnen energie-efficiëntie (opnemen grondslag voor de energie-audit) | 1 | 2021-07-01 to 2021-07-01 |
+| `wijzigingswet-politiewet-2012-en-wet-op-de-medische-keuringen-screening-ambtenaren-van-pol` | Wijzigingswet Politiewet 2012 en Wet op de medische keuringen (screening ambtenaren van politie en politie-externen) | 1 | 2023-01-01 to 2023-01-01 |
+| `wet-homologatie-onderhands-akkoord` | Wet homologatie onderhands akkoord | 1 | 2021-01-01 to 2021-01-01 |
 
-The build made 8855 commits:
+The build made 8889 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2385 | first version of an act |
+| 2419 | first version of an act |
 | 6114 | one law on its in-force day |
 | 356 | changes no amendment note explains, credited to the publisher |
 
@@ -2499,7 +2535,7 @@ Other counts:
 - 0 commits on the branch `toekomst`: laws not yet in force on 2026-11-03.
 - 39 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 3108 laws in the record.
-- 14176 tags.
+- 14210 tags.
 
 ## Dates
 
@@ -2511,7 +2547,7 @@ When a law gives no date of its own, the default rule applies: Bekendmakingswet 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `00df91dc57bb64f99157c3aab0a3cf83ce4dcb052b955d3a1299ac8362b289eb` (185546472 bytes).
+- Corpus: sha256 `14307885898fe0f109c7ae7a74c43729b600b081a3eef5022392543d2f292c1b` (186458814 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -2808,6 +2844,9 @@ No second build of this corpus has been compared yet.
 - Current text only (breadth first, Alan 2026-11-02): 30 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
 - A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
 - An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
+- Current text only (breadth first, Alan 2026-11-02): 34 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
+- A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
 
 ## What AI did and did not do
 
@@ -2819,6 +2858,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none: no model wrote, summarised or classified any text in this corpus. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).

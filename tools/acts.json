@@ -18491,5 +18491,277 @@
   "part": "bwb-now-wet-017",
   "current_label": "2026-01-01_0",
   "as_of": "2026-11-03"
+ },
+ "wet-voortgezet-onderwijs-2020": {
+  "bwb": "BWBR0044212",
+  "short": "WVO 2020",
+  "title": "Wet voortgezet onderwijs 2020",
+  "part": "bwb-now-wet-018",
+  "current_label": "2026-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "invoeringswet-omgevingswet": {
+  "bwb": "BWBR0043660",
+  "short": "Invoeringswet Omgevingswet",
+  "title": "Invoeringswet Omgevingswet",
+  "part": "bwb-now-wet-018",
+  "current_label": "2026-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-ambulancezorgvoorzieningen": {
+  "bwb": "BWBR0043925",
+  "short": "wazv",
+  "title": "Wet ambulancezorgvoorzieningen",
+  "part": "bwb-now-wet-018",
+  "current_label": "2025-07-05_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-toetreding-zorgaanbieders": {
+  "bwb": "BWBR0043797",
+  "short": "Wet toetreding zorgaanbieders",
+  "title": "Wet toetreding zorgaanbieders",
+  "part": "bwb-now-wet-018",
+  "current_label": "2025-07-05_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wegenverkeerswet-1994-enz-implementatie-richtlijn-2014-45-eu-alsmede-invoeri": {
+  "bwb": "BWBR0043651",
+  "short": "Wijzigingswet Wegenverkeerswet 1994, enz. (implementatie richtlijn 2014/45/EU alsmede invoering registratie- en kentekenplicht landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid, mobiele machines en aanhangwagens die uitsluitend bestemd zijn om daardoor te worden voortbewogen en het niet meer toelaten tot het verkeer van nieuwe motorrijtuigen met beperkte snelheid)",
+  "title": "Wijzigingswet Wegenverkeerswet 1994, enz. (implementatie richtlijn 2014/45/EU alsmede invoering registratie- en kentekenplicht landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid, mobiele machines en aanhangwagens die uitsluitend bestemd zijn om daardoor te worden voortbewogen en het niet meer toelaten tot het verkeer van nieuwe motorrijtuigen met beperkte snelheid)",
+  "part": "bwb-now-wet-018",
+  "current_label": "2025-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-defensiematerieelbegrotingsfonds": {
+  "bwb": "BWBR0043666",
+  "short": "Wet defensiematerieelbegrotingsfonds",
+  "title": "Wet defensiematerieelbegrotingsfonds",
+  "part": "bwb-now-wet-018",
+  "current_label": "2020-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wetboek-van-burgerlijke-rechtsvordering-enz-beslag-en-executierecht": {
+  "bwb": "BWBR0043668",
+  "short": "Wijzigingswet Wetboek van Burgerlijke Rechtsvordering, enz. (beslag- en executierecht)",
+  "title": "Wijzigingswet Wetboek van Burgerlijke Rechtsvordering, enz. (beslag- en executierecht)",
+  "part": "bwb-now-wet-018",
+  "current_label": "2021-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelspoedwet-covid-19": {
+  "bwb": "BWBR0043688",
+  "short": "Verzamelspoedwet COVID-19",
+  "title": "Verzamelspoedwet COVID-19",
+  "part": "bwb-now-wet-018",
+  "current_label": "2023-02-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-hardheidsaanpassing-awir": {
+  "bwb": "BWBR0043785",
+  "short": "Wet hardheidsaanpassing Awir",
+  "title": "Wet hardheidsaanpassing Awir",
+  "part": "bwb-now-wet-018",
+  "current_label": "2022-11-05_0",
+  "as_of": "2026-11-03"
+ },
+ "tijdelijke-experimentenwet-rechtspleging": {
+  "bwb": "BWBR0043790",
+  "short": "Tijdelijke Experimentenwet rechtspleging",
+  "title": "Tijdelijke Experimentenwet rechtspleging",
+  "part": "bwb-now-wet-018",
+  "current_label": "2023-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiewet-registratie-uiteindelijk-belanghebbenden-van-vennootschappen-en-andere-ju": {
+  "bwb": "BWBR0043796",
+  "short": "Implementatiewet registratie uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten",
+  "title": "Implementatiewet registratie uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten",
+  "part": "bwb-now-wet-018",
+  "current_label": "2020-07-08_0",
+  "as_of": "2026-11-03"
+ },
+ "spoedreparatiewet-herziening-tenuitvoerlegging-strafrechtelijke-beslissingen": {
+  "bwb": "BWBR0043800",
+  "short": "Spoedreparatiewet herziening tenuitvoerlegging strafrechtelijke beslissingen",
+  "title": "Spoedreparatiewet herziening tenuitvoerlegging strafrechtelijke beslissingen",
+  "part": "bwb-now-wet-018",
+  "current_label": "2025-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "aanpassingswet-wet-toetreding-zorgaanbieders": {
+  "bwb": "BWBR0043812",
+  "short": "Aanpassingswet Wet toetreding zorgaanbieders",
+  "title": "Aanpassingswet Wet toetreding zorgaanbieders",
+  "part": "bwb-now-wet-018",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-elektriciteitswet-1998-enz-implementatie-wijziging-gasrichtlijn-en-verordeni": {
+  "bwb": "BWBR0043813",
+  "short": "Wijzigingswet Elektriciteitswet 1998, enz. (implementatie wijziging Gasrichtlijn en verordeningen elektriciteit en gas)",
+  "title": "Wijzigingswet Elektriciteitswet 1998, enz. (implementatie wijziging Gasrichtlijn en verordeningen elektriciteit en gas)",
+  "part": "bwb-now-wet-018",
+  "current_label": "2020-07-10_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-gemeentelijke-schuldhulpverlening-uitwisseling-persoonsgegevens": {
+  "bwb": "BWBR0043843",
+  "short": "Wijzigingswet Wet gemeentelijke schuldhulpverlening (uitwisseling persoonsgegevens)",
+  "title": "Wijzigingswet Wet gemeentelijke schuldhulpverlening (uitwisseling persoonsgegevens)",
+  "part": "bwb-now-wet-018",
+  "current_label": "2021-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "tweede-verzamelspoedwet-covid-19": {
+  "bwb": "BWBR0043880",
+  "short": "Tweede Verzamelspoedwet COVID-19",
+  "title": "Tweede Verzamelspoedwet COVID-19",
+  "part": "bwb-now-wet-018",
+  "current_label": "2023-11-16_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-franchise": {
+  "bwb": "BWBR0043881",
+  "short": "Wet franchise",
+  "title": "Wet franchise",
+  "part": "bwb-now-wet-018",
+  "current_label": "2021-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-samenvoeging-gemeenten-appingedam-delfzijl-en-loppersum": {
+  "bwb": "BWBR0043890",
+  "short": "Wet samenvoeging gemeenten Appingedam, Delfzijl en Loppersum",
+  "title": "Wet samenvoeging gemeenten Appingedam, Delfzijl en Loppersum",
+  "part": "bwb-now-wet-018",
+  "current_label": "2020-09-15_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiewet-herziene-detacheringsrichtlijn": {
+  "bwb": "BWBR0043892",
+  "short": "Implementatiewet herziene detacheringsrichtlijn",
+  "title": "Implementatiewet herziene detacheringsrichtlijn",
+  "part": "bwb-now-wet-018",
+  "current_label": "2020-07-30_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-splitsing-gemeente-haaren": {
+  "bwb": "BWBR0043898",
+  "short": "Wet splitsing gemeente Haaren",
+  "title": "Wet splitsing gemeente Haaren",
+  "part": "bwb-now-wet-018",
+  "current_label": "2020-09-15_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-elektronische-publicaties": {
+  "bwb": "BWBR0043961",
+  "short": "WEP",
+  "title": "Wet elektronische publicaties",
+  "part": "bwb-now-wet-018",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-wet-versterken-positie-mbo-studenten": {
+  "bwb": "BWBR0043965",
+  "short": "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (Wet versterken positie mbo-studenten)",
+  "title": "Wijzigingswet Wet educatie en beroepsonderwijs, enz. (Wet versterken positie mbo-studenten)",
+  "part": "bwb-now-wet-018",
+  "current_label": "2021-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-straffen-en-beschermen": {
+  "bwb": "BWBR0043990",
+  "short": "Wet straffen en beschermen",
+  "title": "Wet straffen en beschermen",
+  "part": "bwb-now-wet-018",
+  "current_label": "2021-12-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wegenverkeerswet-1994-en-enkele-andere-wetten-uitvoering-van-verordening-eu": {
+  "bwb": "BWBR0044018",
+  "short": "Wijzigingswet Wegenverkeerswet 1994 en enkele andere wetten (uitvoering van verordening (EU) 2018/858 en andere besluiten van de Europese Unie betreffende de goedkeuring van en het markttoezicht op motorvoertuigen, aanhangwagens daarvan en systemen, onderdelen en technische eenheden die voor dergelijke voertuigen zijn bestemd (Uitvoeringswet verordening (EU) 2018/858))",
+  "title": "Wijzigingswet Wegenverkeerswet 1994 en enkele andere wetten (uitvoering van verordening (EU) 2018/858 en andere besluiten van de Europese Unie betreffende de goedkeuring van en het markttoezicht op motorvoertuigen, aanhangwagens daarvan en systemen, onderdelen en technische eenheden die voor dergelijke voertuigen zijn bestemd (Uitvoeringswet verordening (EU) 2018/858))",
+  "part": "bwb-now-wet-018",
+  "current_label": "2020-09-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wegenverkeerswet-1994-ongeldig-maken-getuigschriften": {
+  "bwb": "BWBR0044020",
+  "short": "Wijzigingswet Wegenverkeerswet 1994 (ongeldig maken getuigschriften)",
+  "title": "Wijzigingswet Wegenverkeerswet 1994 (ongeldig maken getuigschriften)",
+  "part": "bwb-now-wet-018",
+  "current_label": "2020-12-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-op-de-expertisecentra-enz-verbod-buitensluiting-van-activiteiten": {
+  "bwb": "BWBR0044049",
+  "short": "Wijzigingswet Wet op de expertisecentra, enz. (verbod buitensluiting van activiteiten)",
+  "title": "Wijzigingswet Wet op de expertisecentra, enz. (verbod buitensluiting van activiteiten)",
+  "part": "bwb-now-wet-018",
+  "current_label": "2021-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "aanvullingswet-natuur-omgevingswet": {
+  "bwb": "BWBR0044063",
+  "short": "Aanvullingswet natuur Omgevingswet",
+  "title": "Aanvullingswet natuur Omgevingswet",
+  "part": "bwb-now-wet-018",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "tijdelijke-wet-notificatieapplicatie-covid-19": {
+  "bwb": "BWBR0044194",
+  "short": "Tijdelijke wet notificatieapplicatie covid-19",
+  "title": "Tijdelijke wet notificatieapplicatie covid-19",
+  "part": "bwb-now-wet-018",
+  "current_label": "2020-10-10_0",
+  "as_of": "2026-11-03"
+ },
+ "herstelwet-financiele-markten-2020": {
+  "bwb": "BWBR0044214",
+  "short": "Herstelwet financiële markten 2020",
+  "title": "Herstelwet financiële markten 2020",
+  "part": "bwb-now-wet-018",
+  "current_label": "2021-06-30_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-op-de-rechterlijke-organisatie-wegnemen-belemmeringen-voor-gerechten-bij": {
+  "bwb": "BWBR0044248",
+  "short": "Wijzigingswet Wet op de rechterlijke organisatie (wegnemen belemmeringen voor gerechten bij verlenen onderlinge bijstand bij gebrek aan voldoende zittingscapaciteit)",
+  "title": "Wijzigingswet Wet op de rechterlijke organisatie (wegnemen belemmeringen voor gerechten bij verlenen onderlinge bijstand bij gebrek aan voldoende zittingscapaciteit)",
+  "part": "bwb-now-wet-018",
+  "current_label": "2021-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-boek-1-burgerlijk-wetboek-adviesrecht-voor-gemeenten-bij-de-procedure-rond-b": {
+  "bwb": "BWBR0044249",
+  "short": "Wijzigingswet Boek 1 Burgerlijk Wetboek (adviesrecht voor gemeenten bij de procedure rond beschermingsbewind wegens problematische schulden)",
+  "title": "Wijzigingswet Boek 1 Burgerlijk Wetboek (adviesrecht voor gemeenten bij de procedure rond beschermingsbewind wegens problematische schulden)",
+  "part": "bwb-now-wet-018",
+  "current_label": "2021-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-implementatie-eu-richtlijnen-energie-efficientie-opnemen-grondslag-voor": {
+  "bwb": "BWBR0044250",
+  "short": "Wijzigingswet Wet implementatie EU-richtlijnen energie-efficiëntie (opnemen grondslag voor de energie-audit)",
+  "title": "Wijzigingswet Wet implementatie EU-richtlijnen energie-efficiëntie (opnemen grondslag voor de energie-audit)",
+  "part": "bwb-now-wet-018",
+  "current_label": "2021-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-politiewet-2012-en-wet-op-de-medische-keuringen-screening-ambtenaren-van-pol": {
+  "bwb": "BWBR0044296",
+  "short": "Wijzigingswet Politiewet 2012 en Wet op de medische keuringen (screening ambtenaren van politie en politie-externen)",
+  "title": "Wijzigingswet Politiewet 2012 en Wet op de medische keuringen (screening ambtenaren van politie en politie-externen)",
+  "part": "bwb-now-wet-018",
+  "current_label": "2023-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-homologatie-onderhands-akkoord": {
+  "bwb": "BWBR0044298",
+  "short": "WHOA",
+  "title": "Wet homologatie onderhands akkoord",
+  "part": "bwb-now-wet-018",
+  "current_label": "2021-01-01_0",
+  "as_of": "2026-11-03"
  }
 }
