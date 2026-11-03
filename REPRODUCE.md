@@ -106,6 +106,8 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 | Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -2179,6 +2181,442 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `besluit-veiligheid-en-kwaliteit-lichaamsmateriaal` | Besluit veiligheid en kwaliteit lichaamsmateriaal | 1 | 2026-07-01 to 2026-07-01 |
 | `uitvoeringsbesluit-verzamel-en-verificatievereisten-voor-rapporterende-aanbieders-van-cryp` | Uitvoeringsbesluit verzamel- en verificatievereisten voor rapporterende aanbieders van cryptoactivadiensten | 1 | 2026-04-24 to 2026-04-24 |
 | `besluit-bestuursrechtelijke-aanpak-online-kinderpornografisch-materiaal` | Besluit bestuursrechtelijke aanpak online kinderpornografisch materiaal | 1 | 2026-04-25 to 2026-04-25 |
+| `tijdelijke-vergoedingsregeling-psychotherapie-na-oorlogse-generatie` | Tijdelijke vergoedingsregeling psychotherapie na-oorlogse generatie | 1 | 2011-01-01 to 2011-01-01 |
+| `uitvoeringsregeling-algemene-wet-inkomensafhankelijke-regelingen` | Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen | 1 | 2026-07-01 to 2026-07-01 |
+| `regeling-aanpassing-factoren-grondslagen-en-bedragen-wetten-voor-verzetsdeelnemers-en-oorl` | Regeling aanpassing factoren, grondslagen en bedragen wetten voor verzetsdeelnemers en oorlogsgetroffenen per 1 juli 2024 | 1 | 2024-07-01 to 2024-07-01 |
+| `beschikking-overdracht-en-aflossing-grootboek-1946` | Beschikking overdracht en aflossing Grootboek 1946 | 1 | 1950-11-01 to 1950-11-01 |
+| `beschikking-verwisseling-grootboek-1946` | Beschikking verwisseling Grootboek 1946 | 1 | 1950-11-01 to 1950-11-01 |
+| `beschikking-commissie-gewetensbezwaren-immunisatie-militairen` | Beschikking Commissie Gewetensbezwaren Immunisatie Militairen | 1 | 1953-11-18 to 1953-11-18 |
+| `beschikking-commissie-geneeskundigen-immunisatie-militairen` | Beschikking commissie geneeskundigen immunisatie militairen | 1 | 1954-01-18 to 1954-01-18 |
+| `beschikking-ingevolge-artikel-4-van-de-algemene-weduwen-en-wezenwet-vermoedelijk-overlijde` | Beschikking ingevolge artikel 4 van de Algemene Weduwen- en Wezenwet (vermoedelijk overlijden) | 1 | 1996-11-28 to 1996-11-28 |
+| `vaststelling-van-een-verboden-gebied-ter-gelegenheid-van-de-opening-der-staten-generaal` | Vaststelling van een verboden gebied ter gelegenheid van de opening der Staten-Generaal | 1 | 1959-10-01 to 1959-10-01 |
+| `aanwijzing-ambtenaren-als-bedoeld-in-artikel-72-van-de-luchtvaartwet` | Aanwijzing ambtenaren, als Bedoeld in Artikel 72 van de Luchtvaartwet | 1 | 1960-12-26 to 1960-12-26 |
+| `verplichting-herbeplanting-artikel-3-van-de-boswet` | Verplichting Herbeplanting Artikel 3 van de Boswet | 2 | 1962-07-01 to 2017-01-01 |
+| `beschikking-pensioenvervangende-uitkeringen-ambonezen` | Beschikking pensioenvervangende uitkeringen Ambonezen | 1 | 1963-06-05 to 1963-06-05 |
+| `aanwijzing-vervoerdocumenten-en-nadere-administratievoorschriften-inzake-uitvoering-verord` | Aanwijzing Vervoerdocumenten en Nadere Administratievoorschriften inzake Uitvoering Verordening nr. 11 van de raad van de E.E.G. | 1 | 1964-03-01 to 1964-03-01 |
+| `gezamenlijke-beschikking-omtrent-winsttoerekening-bij-verzekeringsondernemingen` | Gezamenlijke beschikking omtrent winsttoerekening bij verzekeringsondernemingen | 1 | 1965-01-01 to 1965-01-01 |
+| `uitvoering-van-artikel-2-vierde-lid-van-de-wet-aansprakelijkheidsverzekering-motorrijtuige` | Uitvoering van artikel 2, vierde lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen | 1 | 1965-01-24 to 1965-01-24 |
+| `beschikking-aanwijzing-voedselcommissarissen` | Beschikking aanwijzing voedselcommissarissen | 1 | 1965-08-16 to 1965-08-16 |
+| `regeling-model-document-voor-bromfietsen` | Regeling model document voor bromfietsen | 2 | 2005-09-01 to 2018-07-12 |
+| `uitvoeringsbeschikking-dividendbelasting-1965` | Uitvoeringsbeschikking dividendbelasting 1965 | 1 | 2024-07-01 to 2024-07-01 |
+| `aanwijzing-van-functionarissen-krachtens-artikel-69-eerste-lid-van-de-wet-op-de-ruimtelijk` | Aanwijzing van functionarissen krachtens artikel 69, eerste lid, van de Wet op de Ruimtelijke Ordening | 2 | 2008-07-01 to 2024-01-01 |
+| `overgangsbeschikking-motorrijtuigenbelasting-1966` | Overgangsbeschikking motorrijtuigenbelasting 1966 | 1 | 1966-10-01 to 1966-10-01 |
+| `aanwijzing-ambtenaren-belast-met-het-toezicht-op-naleving-van-de-drank-en-horecawet` | Aanwijzing ambtenaren, belast met het toezicht op naleving van de Drank- en Horecawet | 2 | 2012-01-19 to 2021-07-01 |
+| `uitbreiding-kring-van-verzekerden-ingevolge-de-ziektewet-en-de-wet-op-de-arbeidsongeschikt` | Uitbreiding kring van verzekerden ingevolge de Ziektewet en de Wet op de arbeidsongeschiktheidsverzekering | 1 | 2016-01-01 to 2016-01-01 |
+| `gezamenlijke-beschikking-omtrent-indische-pensioenen` | Gezamenlijke beschikking omtrent Indische pensioenen | 1 | 1968-06-01 to 1968-06-01 |
+| `uitvoeringsbeschikking-omzetbelasting-1968` | Uitvoeringsbeschikking omzetbelasting 1968 | 1 | 2026-04-01 to 2026-04-01 |
+| `bijzondere-vakantieregeling-voor-bekleders-van-bepaalde-ambten` | Bijzondere vakantieregeling voor bekleders van bepaalde ambten | 2 | 1969-07-27 to 2020-01-01 |
+| `uitvoering-wet-werkloosheidsvoorziening-gelijkstelling-vreemdelingen-met-nederlanders` | Uitvoering Wet Werkloosheidsvoorziening (gelijkstelling vreemdelingen met Nederlanders) | 1 | 1972-05-04 to 1972-05-04 |
+| `overbrengingsbesluit-notariele-archiefbescheiden` | Overbrengingsbesluit notariële archiefbescheiden | 1 | 1969-12-12 to 1969-12-12 |
+| `beschikking-aanwijzing-landen-kernenergiewet` | Beschikking aanwijzing landen Kernenergiewet | 1 | 2010-12-02 to 2010-12-02 |
+| `aangiftebeschikking-splijtstoffen-en-ertsen` | Aangiftebeschikking splijtstoffen en ertsen | 1 | 1970-01-01 to 1970-01-01 |
+| `toezicht-naleving-kernenergiewet-aanwijzing-ambtenaren` | Toezicht naleving Kernenergiewet : Aanwijzing ambtenaren | 1 | 1970-01-01 to 1970-01-01 |
+| `verklaring-omtrent-de-goederen-van-minderjarigen` | Verklaring omtrent de goederen van minderjarigen | 2 | 1984-05-01 to 2015-07-01 |
+| `beschikking-aanwijzing-voedselcommissaris-s-gravenhage` | Beschikking Aanwijzing Voedselcommissaris 's-Gravenhage | 1 | 1970-05-06 to 1970-05-06 |
+| `ambtsgebied-voedselcommissaris-noord-brabant` | Ambtsgebied voedselcommissaris Noord-Brabant | 1 | 1970-06-11 to 1970-06-11 |
+| `register-curatele-en-huwelijksgoederen` | Register curatele en huwelijksgoederen | 1 | 1970-08-24 to 1970-08-24 |
+| `curatele-en-huwelijksgoederenregister` | Curatele- en huwelijksgoederenregister | 1 | 1970-11-01 to 1970-11-01 |
+| `reglement-examens-hoger-en-middelbaar-archiefambtenaar` | Reglement examens hoger en middelbaar archiefambtenaar | 1 | 1971-08-04 to 1971-08-04 |
+| `uitvoeringsbeschikking-vennootschapsbelasting-1971` | Uitvoeringsbeschikking vennootschapsbelasting 1971 | 1 | 2024-01-01 to 2024-01-01 |
+| `verontreinigingsheffing-rijkswateren` | Verontreinigingsheffing rijkswateren | 1 | 1971-12-08 to 1971-12-08 |
+| `instelling-commissie-ondernemersonderwijs` | Instelling Commissie ondernemersonderwijs | 1 | 1972-05-01 to 1972-05-01 |
+| `uitvoeringsbeschikking-artikel-11a-der-wet-buitengewoon-pensioen-19401945` | Uitvoeringsbeschikking artikel 11a der Wet buitengewoon pensioen 1940–1945 | 1 | 2011-01-01 to 2011-01-01 |
+| `beschikking-dagloonregelen-wamil-1972` | Beschikking Dagloonregelen WAMIL 1972 | 2 | 1994-03-04 to 2006-01-01 |
+| `teruggaafbeschikking-motorrijtuigenbelasting-1973` | Teruggaafbeschikking motorrijtuigenbelasting 1973 | 1 | 1973-01-01 to 1973-01-01 |
+| `regelen-vergoeding-kosten-geneeskundige-behandeling-en-verpleging-zeeliedenoorlogsslachtof` | Regelen vergoeding kosten geneeskundige behandeling en verpleging zeeliedenoorlogsslachtoffers | 1 | 2011-01-01 to 2011-01-01 |
+| `beschikking-wijziging-percentages-levensonderhoud-1974` | Beschikking wijziging-percentages levensonderhoud 1974 | 1 | 1974-01-01 to 1974-01-01 |
+| `beschikking-vaststelling-examenprogramma` | Beschikking vaststelling examenprogramma | 1 | 1974-07-17 to 1974-07-17 |
+| `examenbeschikking-accountants-administratieconsulenten` | Examenbeschikking accountants-administratieconsulenten | 1 | 1986-03-19 to 1986-03-19 |
+| `vrijstellingsbeschikking-textielartikelen` | Vrijstellingsbeschikking textielartikelen | 1 | 1986-12-31 to 1986-12-31 |
+| `beschikking-wijziging-percentage-levensonderhoud-1975` | Beschikking wijziging percentage levensonderhoud 1975 | 1 | 1975-01-01 to 1975-01-01 |
+| `aanwijzing-autoriteiten-met-betrekking-tot-disciplinaire-straffen-en-beklag` | Aanwijzing autoriteiten met betrekking tot disciplinaire straffen en beklag | 1 | 1981-07-14 to 1981-07-14 |
+| `aanwijzingen-inzake-de-bescherming-van-de-persoonlijke-levenssfeer-in-verband-met-geautoma` | Aanwijzingen inzake de bescherming van de persoonlijke levenssfeer in verband met geautomatiseerde systemen waarin persoonsgegevens zijn opgenomen bij de Rijksoverheid | 1 | 1975-04-01 to 1975-04-01 |
+| `aanwijzing-vestigingsplaatsen-casino-s-breda-groningen-nijmegen-en-rotterdam` | Aanwijzing vestigingsplaatsen casino's Breda, Groningen, Nijmegen en Rotterdam | 1 | 1985-09-11 to 1985-09-11 |
+| `instellingsregeling-rijkskwaliteitsinstituut-voor-land-en-tuinbouwprodukten` | Instellingsregeling Rijkskwaliteitsinstituut voor land- en tuinbouwprodukten | 2 | 1994-01-30 to 2023-10-14 |
+| `beschikking-wijziging-percentage-levensonderhoud-1976` | Beschikking wijziging-percentage levensonderhoud 1976 | 1 | 1976-01-01 to 1976-01-01 |
+| `reglement-bescherming-persoonsgegevens-bezitsvormingsfonds` | Reglement bescherming persoonsgegevens Bezitsvormingsfonds | 1 | 1976-03-14 to 1976-03-14 |
+| `aanwijzing-vestigingsplaats-casino-s-valkenburg-houthem-en-zandvoort` | Aanwijzing vestigingsplaats casino's/Valkenburg-Houthem en Zandvoort | 1 | 1976-03-10 to 1976-03-10 |
+| `afgifte-bewijzen-van-betrouwbaarheid-en-non-faillisement` | Afgifte bewijzen van betrouwbaarheid en non-faillisement | 1 | 2004-04-01 to 2004-04-01 |
+| `vrijstelling-van-vervangende-dienst-wegens-kostwinnerschap-van-erkende-gewetensbezwaarde` | Vrijstelling van vervangende dienst wegens kostwinnerschap van erkende gewetensbezwaarde | 1 | 1978-10-21 to 1978-10-21 |
+| `aanwijzing-controle-ambtenaren-in-speelcasino-s` | Aanwijzing controle-ambtenaren in speelcasino's | 1 | 1976-12-01 to 1976-12-01 |
+| `beschikking-wijziging-percentage-levensonderhoud-1977` | Beschikking wijziging-percentage levensonderhoud 1977 | 1 | 1977-01-01 to 1977-01-01 |
+| `brandreglement-rijksmusea-1976` | Brandreglement-rijksmusea 1976 | 2 | 1977-08-01 to 2021-04-01 |
+| `beschikking-wijziging-percentage-levensonderhoud-1978` | Beschikking wijziging-percentage levensonderhoud 1978 | 1 | 1978-01-01 to 1978-01-01 |
+| `aanwijzing-diploma-voor-toelating-respectievelijk-vrijstelling-van-examen` | Aanwijzing diploma voor ‘toelating’ respectievelijk vrijstelling van examen | 1 | 1978-01-31 to 1978-01-31 |
+| `regeling-ex-artikel-10-richtlijn-van-de-raad-van-de-eg` | Regeling ex artikel 10 Richtlijn van de Raad van de EG | 1 | 1978-04-24 to 1978-04-24 |
+| `beschikking-bescherming-persoonlijke-levenssfeer-ingeschrevenen-voor-de-dienstplicht` | Beschikking bescherming persoonlijke levenssfeer ingeschrevenen voor de dienstplicht | 1 | 1978-08-01 to 1978-08-01 |
+| `beschikking-wijziging-percentage-levensonderhoud-1979` | Beschikking wijziging percentage levensonderhoud 1979 | 1 | 1979-01-01 to 1979-01-01 |
+| `uitvoering-artikel-5-eerste-lid-van-de-noodwet-geneeskundigen` | Uitvoering artikel 5, eerste lid, van de Noodwet Geneeskundigen | 1 | 2018-08-01 to 2018-08-01 |
+| `aanwijzing-vestigingsplaats-casino-s-gravenhage` | Aanwijzing vestigingsplaats casino 's-Gravenhage | 1 | 1979-01-27 to 1979-01-27 |
+| `gelijkstelling-keuringcertificaten-inzake-aan-bederf-onderhevige-levensmiddelen` | Gelijkstelling keuringcertificaten inzake aan bederf onderhevige levensmiddelen | 1 | 1979-06-01 to 1979-06-01 |
+| `besluit-afgifte-bewijzen-van-betrouwbaarheid-ex-artikel-37-eerste-richtlijn-van-de-raad-vo` | Besluit afgifte bewijzen van betrouwbaarheid ex artikel 37 Eerste richtlijn van de Raad voor de Europese Gemeenschappen van 5 maart 1979 | 1 | 2004-04-01 to 2004-04-01 |
+| `beschikking-wijziging-percentage-levensonderhoud-1980` | Beschikking wijziging percentage levensonderhoud 1980 | 1 | 1980-01-01 to 1980-01-01 |
+| `wijziging-instellingsbeschikking-commissie-integratie-scholengemeenschappen-a-v-o-l-b-o` | Wijziging instellingsbeschikking commissie integratie scholengemeenschappen a.v.o.-l.b.o. | 2 | 1980-02-18 to 2022-02-01 |
+| `bezoekersreglement-rijksarchiefdienst` | Bezoekersreglement rijksarchiefdienst | 2 | 1980-04-06 to 2021-04-01 |
+| `besluit-instelling-adviescommissie-voor-de-oorsprong-1980` | Besluit instelling adviescommissie voor de oorsprong 1980 | 1 | 1994-01-01 to 1994-01-01 |
+| `besluit-organisaties-gerechtigd-tot-het-benoemen-van-ser-leden` | Besluit organisaties gerechtigd tot het benoemen van SER-leden | 1 | 2023-09-16 to 2023-09-16 |
+| `regeling-tarieven-kamer-voor-de-binnenvisserij` | Regeling tarieven Kamer voor de Binnenvisserij | 1 | 2023-07-01 to 2023-07-01 |
+| `toelating-ander-diploma-tot-examens-accountants-en-administratieconsulenten` | Toelating ander diploma tot examens accountants- en administratieconsulenten | 1 | 1980-03-28 to 1980-03-28 |
+| `nadere-regelen-wet-en-besluit-openbaarheid-van-bestuur` | Nadere regelen Wet en Besluit openbaarheid van bestuur | 1 | 1980-04-21 to 1980-04-21 |
+| `regeling-ter-uitvoering-van-de-wet-openbaarheid-van-bestuur-justitie` | Regeling ter uitvoering van de Wet openbaarheid van bestuur (justitie) | 1 | 1980-10-28 to 1980-10-28 |
+| `aanwijzing-ambtenaren-bevoegd-tot-het-verlenen-van-machtiging-voor-het-in-het-verkeer-bren` | Aanwijzing ambtenaren bevoegd tot het verlenen van machtiging voor het in het verkeer brengen van aan bederf onderhevige levensmiddelen | 1 | 1988-07-28 to 1988-07-28 |
+| `afgifte-verklaringen-vakbekwaamheid-verzekeringstussenpersonen` | Afgifte verklaringen vakbekwaamheid verzekeringstussenpersonen | 1 | 1991-04-01 to 1991-04-01 |
+| `aanwijzing-ambtenaren-ex-artikel-6-wet-grensoverschrijdend-vervoer-van-aan-bederf-onderhev` | Aanwijzing ambtenaren ex artikel 6 Wet grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen | 1 | 1980-07-04 to 1980-07-04 |
+| `beschikking-bescherming-persoonlijke-levenssfeer-registratie-artikel-24-landbouwwet` | Beschikking bescherming persoonlijke levenssfeer (Registratie artikel 24 Landbouwwet) | 1 | 1983-09-03 to 1983-09-03 |
+| `aanwijzing-toezichthoudende-ambtenaren-noodwet-geneeskundigen` | Aanwijzing toezichthoudende ambtenaren Noodwet Geneeskundigen | 1 | 2018-08-01 to 2018-08-01 |
+| `beschikking-wijzigingspercentage-levensonderhoud-1981` | Beschikking wijzigingspercentage levensonderhoud 1981 | 1 | 1981-10-01 to 1981-10-01 |
+| `toelating-diploma-moderne-bedrijfsadministratie-tot-examen-accountants-administratieconsul` | Toelating diploma Moderne Bedrijfsadministratie tot examen accountants-administratieconsulenten | 1 | 1980-11-29 to 1980-11-29 |
+| `beschikking-consignatie-van-gelden` | Beschikking consignatie van gelden | 1 | 2002-01-01 to 2002-01-01 |
+| `administratiebesluit-i-wedervergeldingswet-zeescheepvaart` | Administratiebesluit I Wedervergeldingswet zeescheepvaart | 1 | 1981-02-27 to 1981-02-27 |
+| `eerste-uitvoeringsbeschikking-provinciale-opcenten-motorrijtuigenbelasting` | Eerste uitvoeringsbeschikking provinciale opcenten motorrijtuigenbelasting. | 1 | 1981-04-16 to 1981-04-16 |
+| `administratiebesluit-ii-wedervergeldingswet-zeescheepvaart` | Administratiebesluit II Wedervergeldingswet zeescheepvaart | 1 | 1981-07-01 to 1981-07-01 |
+| `beschikking-verlening-vrijstelling-luchtvervoersvergunning-sportvliegers` | Beschikking verlening vrijstelling luchtvervoersvergunning sportvliegers | 1 | 1981-09-07 to 1981-09-07 |
+| `aanwijzing-ambtenaren-belast-met-toezicht-op-naleving-sanctiebesluiten-zuid-afrika-1981` | Aanwijzing ambtenaren belast met toezicht op naleving Sanctiebesluiten Zuid-Afrika 1981 | 1 | 1981-09-22 to 1981-09-22 |
+| `gelijkstelling-studenten-medische-opleidingen-aan-geneeskundigen` | Gelijkstelling studenten medische opleidingen aan geneeskundigen | 1 | 1981-09-24 to 1981-09-24 |
+| `beschikking-vaststelling-provinciale-opcenten-motorrijtuigenbelasting-1982` | Beschikking vaststelling provinciale opcenten motorrijtuigenbelasting 1982 | 1 | 1981-10-01 to 1981-10-01 |
+| `aanwijzing-opsporingsambtenaren-volgens-noodwet-geneeskundigen` | Aanwijzing opsporingsambtenaren volgens Noodwet Geneeskundigen | 1 | 2018-08-01 to 2018-08-01 |
+| `vaststelling-verkeersscheidingsstelsels` | Vaststelling verkeersscheidingsstelsels | 1 | 1981-11-01 to 1981-11-01 |
+| `beschikking-wijziging-percentage-levensonderhoud-1982` | Beschikking wijziging percentage levensonderhoud 1982 | 1 | 1982-01-01 to 1982-01-01 |
+| `ministeriele-voorschriften-tarieven-in-strafzaken` | Ministeriële voorschriften tarieven in strafzaken | 2 | 2000-01-01 to 2003-10-01 |
+| `beschikking-verslag-commissie-beheer-landbouwgronden` | Beschikking verslag commissie beheer landbouwgronden | 1 | 1982-01-01 to 1982-01-01 |
+| `verplichting-voor-uitkeringsgerechtigden-inkomsten-vermogen-op-te-geven` | Verplichting voor uitkeringsgerechtigden inkomsten/vermogen op te geven | 1 | 1981-02-24 to 1981-02-24 |
+| `besluit-aanwijzing-keuringsinstantie-geluidproduktie-motorvoertuigen` | Besluit aanwijzing keuringsinstantie geluidproduktie motorvoertuigen | 2 | 1982-02-01 to 2016-01-01 |
+| `regelen-voor-het-bevoegd-gezag-ex-artikel-6-noodwet-geneeskundigen` | Regelen voor het bevoegd gezag ex artikel 6 Noodwet Geneeskundigen | 1 | 2018-08-01 to 2018-08-01 |
+| `regeling-bescherming-persoonsgegevens-indische-geinterneerden` | Regeling bescherming persoonsgegevens Indische geïnterneerden. | 1 | 1982-05-29 to 1982-05-29 |
+| `beschikking-ondertoezichtstelling-overige-kapitaalmarktinstellingen` | Beschikking ondertoezichtstelling overige kapitaalmarktinstellingen | 1 | 1982-05-22 to 1982-05-22 |
+| `toepassing-wet-toezicht-kredietwezen-t-a-v-ned-waterschapsbank-en-bank-ned-gemeenten` | Toepassing Wet toezicht kredietwezen t.a.v. Ned. Waterschapsbank en Bank Ned. Gemeenten | 1 | 1982-07-01 to 1982-07-01 |
+| `beschikking-vaststelling-provinciale-opcenten-motorrijtuigenbelasting-1983` | Beschikking vaststelling provinciale opcenten motorrijtuigenbelasting 1983 | 1 | 1982-10-06 to 1982-10-06 |
+| `regeling-meldings-en-herplantplicht` | Regeling meldings- en herplantplicht | 2 | 2015-01-01 to 2017-01-01 |
+| `regeling-ter-uitvoering-van-de-wet-openbaarheid-van-bestuur-binnenlandse-zaken` | Regeling ter uitvoering van de Wet openbaarheid van bestuur (Binnenlandse Zaken) | 1 | 1983-01-01 to 1983-01-01 |
+| `beschikking-overschrijving-stukken-betreffende-schepen` | Beschikking overschrijving stukken betreffende schepen | 1 | 1983-01-01 to 1983-01-01 |
+| `beschikking-grondbankstelsel` | Beschikking grondbankstelsel | 1 | 2007-10-21 to 2007-10-21 |
+| `vaststelling-werkzaamheden-bureau-beheer-landbouwgronden` | Vaststelling werkzaamheden bureau beheer landbouwgronden | 1 | 2007-10-21 to 2007-10-21 |
+| `vrijstellingsbesluiten-vlees-en-vleeswarenbesluit-warenwet-1981` | Vrijstellingsbesluiten Vlees- en Vleeswarenbesluit (Warenwet) 1981 | 2 | 1983-01-26 to 2018-07-01 |
+| `beschikking-wijziging-percentage-levensonderhoud-1983` | Beschikking wijziging-percentage levensonderhoud 1983 | 1 | 1983-04-01 to 1983-04-01 |
+| `uitvoeringsbeschikking-vrijstelling-van-motorrijtuigenbelasting-wegens-invaliditeit` | Uitvoeringsbeschikking vrijstelling van motorrijtuigenbelasting wegens invaliditeit | 1 | 2002-01-01 to 2002-01-01 |
+| `voorschriften-m-b-t-verzoeken-om-ontheffing-bepalingen-in-de-wet-verontreiniging-zeewater` | Voorschriften m.b.t. verzoeken om ontheffing bepalingen in de Wet verontreiniging zeewater | 1 | 2008-10-01 to 2008-10-01 |
+| `beschikking-vaststelling-provinciale-opcenten-motorrijtuigenbelasting-1984` | Beschikking vaststelling provinciale opcenten motorrijtuigenbelasting 1984 | 1 | 1983-12-16 to 1983-12-16 |
+| `administratiebesluit-wet-vervoer-over-zee` | Administratiebesluit wet vervoer over zee | 1 | 1983-12-08 to 1983-12-08 |
+| `overgangsbeschikking-omzetbelasting-1983` | Overgangsbeschikking omzetbelasting 1983 | 1 | 1984-01-01 to 1984-01-01 |
+| `richtlijnen-voor-gebruik-cs-traangas` | Richtlijnen voor gebruik CS-traangas | 1 | 1984-10-02 to 1984-10-02 |
+| `warenwetregeling-residuen-van-bestrijdingsmiddelen` | Warenwetregeling residuen van bestrijdingsmiddelen | 1 | 2016-07-20 to 2016-07-20 |
+| `beschikking-bestrijding-bacterievuur-1984` | Beschikking bestrijding bacterievuur 1984 | 2 | 2019-10-01 to 2021-03-01 |
+| `beperking-operaties-met-niet-geluidgecertificeerde-straalvliegtuigen` | Beperking operaties met niet-geluidgecertificeerde straalvliegtuigen | 1 | 1984-05-27 to 1984-05-27 |
+| `aanwijzing-onderwijsinstituten` | Aanwijzing onderwijsinstituten | 1 | 2022-08-01 to 2022-08-01 |
+| `regeling-beperking-geluidhinder-luchtvaart` | Regeling beperking geluidhinder luchtvaart | 1 | 2014-10-01 to 2014-10-01 |
+| `regeling-inzake-wet-vervoer-over-zee` | Regeling inzake Wet vervoer over zee | 1 | 1984-09-19 to 1984-09-19 |
+| `beschikking-vaststelling-provinciale-opcenten-motorrijtuigenbelasting-1985` | Beschikking vaststelling provinciale opcenten motorrijtuigenbelasting 1985 | 1 | 1984-09-30 to 1984-09-30 |
+| `beschikking-wijziging-percentage-levensonderhoud-1985` | Beschikking wijziging percentage levensonderhoud 1985 | 1 | 1985-01-01 to 1985-01-01 |
+| `overgangsmaatregel-m-b-t-bevoegdheden` | Overgangsmaatregel m.b.t. bevoegdheden | 1 | 1985-01-01 to 1985-01-01 |
+| `overgangsregeling-loonbelasting-19841985` | Overgangsregeling loonbelasting 1984–1985 | 1 | 1985-01-01 to 1985-01-01 |
+| `financiele-regeling-kosten-milieueffect-rapportage-lagere-overheden` | Financiële regeling kosten milieueffect-rapportage lagere overheden | 1 | 1985-01-01 to 1985-01-01 |
+| `vaststelling-wijze-van-verstrekking-gegevens-als-bedoeld-in-artikel-13-wet-aansprakelijkhe` | Vaststelling wijze van verstrekking gegevens als bedoeld in artikel 13 Wet aansprakelijkheidsverzekering motorrijtuigen | 1 | 1996-07-01 to 1996-07-01 |
+| `regeling-gegevens-aardolieprodukten-1985` | Regeling gegevens aardolieprodukten 1985 | 1 | 2000-12-15 to 2000-12-15 |
+| `warenwetregeling-containers` | Warenwetregeling containers | 1 | 2015-01-01 to 2015-01-01 |
+| `bijdrageregeling-geluidhinder-nieuwe-woningen` | Bijdrageregeling geluidhinder nieuwe woningen | 2 | 2009-07-04 to 2024-01-01 |
+| `beoordelingsvoorschrift-burgerlijk-rijkspersoneel-1985` | Beoordelingsvoorschrift Burgerlijk Rijkspersoneel 1985 | 2 | 2002-02-02 to 2020-01-01 |
+| `spaarregeling-gemoedsbezwaarden-ex-artikel-48-aow` | Spaarregeling gemoedsbezwaarden ex artikel 48 AOW | 1 | 2006-01-01 to 2006-01-01 |
+| `uitkering-aan-gemoedsbezwaarden` | Uitkering aan gemoedsbezwaarden | 1 | 2002-02-23 to 2002-02-23 |
+| `regeling-erkenning-ruiterexamen` | Regeling erkenning ruiterexamen | 1 | 1985-06-01 to 1985-06-01 |
+| `betaalbaarstelling-uitkeringen-ingevolge-de-sociale-verzekeringswetten-door-andere-organen` | Betaalbaarstelling uitkeringen ingevolge de sociale verzekeringswetten door andere organen dan de Sociale Verzekeringsbank en bedrijfsverenigingen | 1 | 2007-01-01 to 2007-01-01 |
+| `regeling-herleiding-van-gedeelten-van-kalenderjaren-en-jaarpremies` | Regeling herleiding van gedeelten van kalenderjaren en jaarpremies | 1 | 2024-01-01 to 2024-01-01 |
+| `regeling-nadere-regels-inzake-intrekking-en-herziening-van-het-ouderdomspensioen` | Regeling nadere regels inzake intrekking en herziening van het ouderdomspensioen | 1 | 2013-01-01 to 2013-01-01 |
+| `referentietarief-binnenlands-vrachtautovervoer-1985` | Referentietarief Binnenlands Vrachtautovervoer 1985 | 1 | 1985-08-01 to 1985-08-01 |
+| `schutting-bij-voorrang-voor-bepaalde-categorieen-schepen` | Schutting bij voorrang voor bepaalde categorieën schepen | 2 | 1985-08-04 to 2004-12-01 |
+| `beschikking-aanwijzing-overheidsinstanties` | Beschikking aanwijzing overheidsinstanties | 1 | 1985-09-16 to 1985-09-16 |
+| `keuringsreglement-typekeuring-bromfietsen-luchtverontreiniging` | Keuringsreglement typekeuring bromfietsen luchtverontreiniging | 2 | 2002-01-01 to 2016-01-01 |
+| `boekhoudvoorschriften-isovso` | Boekhoudvoorschriften ISOVSO | 1 | 1985-10-09 to 1985-10-09 |
+| `beschikking-vaststelling-provinciale-opcenten-motorrijtuigenbelasting-1986` | Beschikking vaststelling provinciale opcenten motorrijtuigenbelasting 1986 | 1 | 1985-10-06 to 1985-10-06 |
+| `privacy-regeling-centrale-registratie-tuchtrechtelijke-gegevens-koninklijke-landmacht-1985` | Privacy-regeling centrale registratie tuchtrechtelijke gegevens Koninklijke Landmacht 1985 | 1 | 1986-09-19 to 1986-09-19 |
+| `privacy-regeling-centrale-registratie-tuchtrechtelijke-gegevens-koninklijke-marine-1985` | Privacy-regeling centrale registratie tuchtrechtelijke gegevens Koninklijke Marine 1985 | 1 | 1986-09-19 to 1986-09-19 |
+| `regeling-keuringsvoorschriften-en-eeg-documenten-geluidproduktie-motorvoertuigen` | Regeling keuringsvoorschriften en EEG-documenten geluidproduktie motorvoertuigen | 2 | 2009-06-19 to 2016-01-01 |
+| `beschikking-wijziging-percentage-levensonderhoud-1986` | Beschikking wijziging percentage levensonderhoud 1986 | 1 | 1986-01-01 to 1986-01-01 |
+| `aanwijzing-cursus-welzijn-van-proefdieren` | Aanwijzing cursus welzijn van proefdieren | 2 | 1986-01-01 to 2014-12-18 |
+| `registratie-proefdieren-en-dierproeven` | Registratie proefdieren en dierproeven | 2 | 1986-01-01 to 2014-12-18 |
+| `ondernemersbesluit-ontvanginrichtingen` | Ondernemersbesluit ontvanginrichtingen | 1 | 1985-12-14 to 1985-12-14 |
+| `aanwijzing-vestigingsplaats-casino-amsterdam` | Aanwijzing vestigingsplaats casino Amsterdam | 1 | 1986-04-30 to 1986-04-30 |
+| `regeling-bescherming-persoonlijke-levenssfeer-bij-de-geautomatiseerde-registratie-van-pers` | Regeling Bescherming persoonlijke levenssfeer bij de geautomatiseerde registratie van persoonsgegevens in het kader van de Wet effectenhandel | 1 | 1986-05-01 to 1986-05-01 |
+| `warenwetregeling-draagbaar-klimmaterieel` | Warenwetregeling draagbaar klimmaterieel | 1 | 2020-01-31 to 2020-01-31 |
+| `warenwetregeling-methoden-van-onderzoek-draagbaar-klimmaterieel` | Warenwetregeling methoden van onderzoek draagbaar klimmaterieel | 1 | 2020-01-31 to 2020-01-31 |
+| `regelen-met-betrekking-tot-grenswaarden-voor-kwik` | Regelen met betrekking tot grenswaarden voor kwik | 2 | 2009-12-22 to 2024-01-01 |
+| `collectieve-schadecompensatieregeling-marktkooplieden-centrummarkt-rotterdam` | Collectieve Schadecompensatieregeling Marktkooplieden Centrummarkt Rotterdam | 1 | 1986-05-06 to 1986-05-06 |
+| `aanwijzing-opsporingsambtenaren` | Aanwijzing opsporingsambtenaren | 1 | 1996-05-24 to 1996-05-24 |
+| `regeling-typekeuring-geluidproduktie-bromfietsen` | Regeling typekeuring geluidproduktie bromfietsen | 2 | 1999-01-09 to 2016-01-01 |
+| `instelling-begeleidingscommissie-uitvoering-wet-uitkeringen-vervolgingsslachtoffers` | Instelling Begeleidingscommissie uitvoering Wet uitkeringen vervolgingsslachtoffers | 1 | 1986-07-28 to 1986-07-28 |
+| `regeling-bescherming-persoonlijke-levenssfeer-geautomatiseerde-bezoldigingsadministratie-m` | Regeling bescherming persoonlijke levenssfeer geautomatiseerde bezoldigingsadministratie militair personeel 1986 | 1 | 1986-08-01 to 1986-08-01 |
+| `naamswijziging-permanente-krijgsraad-nederlandse-antillen-voor-de-zeemacht` | Naamswijziging permanente krijgsraad Nederlandse Antillen voor de zeemacht | 1 | 1986-06-26 to 1986-06-26 |
+| `bevoegdheden-onderwijzers-en-kleuterleiders-m-v-met-surinaamse-akten` | Bevoegdheden onderwijzers en kleuterleiders (m/v) met Surinaamse akten | 1 | 1986-08-12 to 1986-08-12 |
+| `vaststelling-modellen-van-verklaring-in-verband-met-aanvaarding-lidmaatschap-ser-of-bedrij` | Vaststelling modellen van verklaring in verband met aanvaarding lidmaatschap SER of bedrijfslichaam | 2 | 1986-09-17 to 2022-01-01 |
+| `regeling-tot-vaststelling-provinciale-opcenten-motorrijtuigenbelasting-1987` | Regeling tot vaststelling provinciale opcenten motorrijtuigenbelasting 1987 | 1 | 1986-09-28 to 1986-09-28 |
+| `regeling-normen-ter-bepaling-uitslag-zeevisvaartexamens` | Regeling normen ter bepaling uitslag zeevisvaartexamens | 2 | 1986-10-09 to 2025-07-01 |
+| `vrijstellingsregeling-portieverpakkingen-dik-vloeibare-melkprodukten-warenwet` | Vrijstellingsregeling Portieverpakkingen dik-vloeibare melkprodukten (Warenwet) | 1 | 2014-12-13 to 2014-12-13 |
+| `beschikking-wijzigingspercentage-levensonderhoud-1987` | Beschikking wijzigingspercentage levensonderhoud 1987 | 1 | 1987-01-01 to 1987-01-01 |
+| `besluit-regels-samenloop-toeslagen-ex-artikel-16-toeslagenwet` | Besluit regels samenloop toeslagen ex artikel 16 Toeslagenwet | 1 | 2010-01-01 to 2010-01-01 |
+| `regeling-aangiftebiljet-heffing-industrielawaai-1986` | Regeling Aangiftebiljet heffing industrielawaai 1986 | 1 | 1986-12-25 to 1986-12-25 |
+| `aanwijzing-als-werkgever-en-uitzondering-verzekeringsplicht-werknemersverzekeringen` | Aanwijzing als werkgever en uitzondering verzekeringsplicht werknemersverzekeringen | 1 | 2011-01-01 to 2011-01-01 |
+| `aanwijzing-ambtenaren-toezicht-naleving-voorschriften-wet-op-de-kansspelen` | Aanwijzing ambtenaren toezicht naleving voorschriften Wet op de kansspelen | 1 | 1987-01-06 to 1987-01-06 |
+| `erkenning-ecn-als-instelling-bevoegd-tot-verstrekken-persoonlijke-controlemiddelen` | Erkenning ECN als instelling bevoegd tot verstrekken persoonlijke controlemiddelen | 1 | 1987-02-25 to 1987-02-25 |
+| `aanwijzing-representatieve-organisaties` | Aanwijzing representatieve organisaties | 1 | 1987-02-27 to 1987-02-27 |
+| `vrijstelling-benaming-verduurzaamde-vruchten-warenwet` | Vrijstelling benaming verduurzaamde vruchten (Warenwet) | 2 | 1987-04-15 to 2018-07-01 |
+| `rechtspositieregeling-personeel-stichting-voor-huishoudelijke-voorlichting-ten-plattelande` | Rechtspositieregeling personeel Stichting voor Huishoudelijke Voorlichting ten Plattelande 1985 | 2 | 1987-04-07 to 2020-01-01 |
+| `aanpassing-wetgeving-inzake-gemeenschappelijke-bepalingen-voor-hef-en-verladingsapparatuur` | Aanpassing wetgeving inzake gemeenschappelijke bepalingen voor hef- en verladingsapparatuur SZW – Uitvoering EEG-richtlijnen | 1 | 1999-04-03 to 1999-04-03 |
+| `regeling-beheer-en-vervreemding-in-landinrichtingsgebieden-in-uitvoering` | Regeling beheer en vervreemding in landinrichtingsgebieden in uitvoering | 1 | 1987-06-24 to 1987-06-24 |
+| `vaststelling-pensioengrondslag` | Vaststelling pensioengrondslag | 1 | 1987-07-22 to 1987-07-22 |
+| `ontheffing-van-voorwaarden-gericht-op-arbeidsinschakeling` | Ontheffing van voorwaarden gericht op arbeidsinschakeling | 1 | 1987-06-01 to 1987-06-01 |
+| `regeling-inkomsten-uitkeringswet-gewezen-militairen` | Regeling inkomsten Uitkeringswet gewezen militairen | 1 | 1990-02-01 to 1990-02-01 |
+| `regeling-aanwijzing-landschapselementen-1986` | Regeling aanwijzing landschapselementen 1986 | 1 | 1992-01-04 to 1992-01-04 |
+| `navo-binnenvliegregeling` | NAVO-binnenvliegregeling | 1 | 1987-09-08 to 1987-09-08 |
+| `regeling-tot-vaststelling-provinciale-opcenten-motorrijtuigenbelasting-1988` | Regeling tot vaststelling provinciale opcenten motorrijtuigenbelasting 1988 | 1 | 1987-10-16 to 1987-10-16 |
+| `nachtvluchtenregeling-schiphol` | Nachtvluchtenregeling Schiphol | 1 | 1987-10-17 to 1987-10-17 |
+| `regeling-bevoegdheid-basisonderwijs-voor-buitenlandse-diploma-s` | Regeling bevoegdheid basisonderwijs voor buitenlandse diploma's | 2 | 2011-08-01 to 2018-09-01 |
+| `regeling-bevoegdheid-voortgezet-speciaal-onderwijs-voor-buitenlandse-diploma-s` | Regeling bevoegdheid (voortgezet) speciaal onderwijs voor buitenlandse diploma's | 1 | 1992-04-04 to 1992-04-04 |
+| `besluit-waarnemingstoelagen-1987` | Besluit waarnemingstoelagen 1987 | 2 | 1987-12-01 to 2020-01-01 |
+| `beschikking-wijzigingpercentage-levensonderhoud-1988` | Beschikking wijzigingpercentage levensonderhoud 1988. | 1 | 1988-01-01 to 1988-01-01 |
+| `rangenbesluit-rijksbrandweerpersoneel` | Rangenbesluit rijksbrandweerpersoneel | 1 | 1987-12-01 to 1987-12-01 |
+| `aanwijzing-instanties-afgifte-legitimatie-bewijs-voor-gehandicapten` | Aanwijzing instanties afgifte legitimatie-bewijs voor gehandicapten | 2 | 1998-01-01 to 2014-08-01 |
+| `regeling-controledocumenten-taxivervoer` | Regeling controledocumenten taxivervoer | 1 | 2005-08-24 to 2005-08-24 |
+| `vaststelling-regelen-vergoeding-voor-behandeling-en-verpleging` | Vaststelling regelen vergoeding voor behandeling en verpleging | 1 | 2011-01-01 to 2011-01-01 |
+| `regeling-instelling-commissie-kwaliteitsbewaking-classificatie` | Regeling instelling Commissie kwaliteitsbewaking classificatie | 2 | 2014-06-27 to 2018-07-11 |
+| `regeling-vervoermachtigingen-grensoverschrijdend-eigen-vervoer` | Regeling vervoermachtigingen grensoverschrijdend eigen vervoer | 1 | 1988-06-01 to 1988-06-01 |
+| `regeling-bewijs-van-verzekering-niet-kentekenplichtige-motorrijtuigen` | Regeling bewijs van verzekering niet-kentekenplichtige motorrijtuigen | 2 | 2004-08-22 to 2018-07-12 |
+| `regels-m-b-t-de-uitvoering-van-artikel-65-loodsenwet` | Regels m.b.t. de uitvoering van artikel 65 Loodsenwet | 2 | 1988-09-01 to 2022-01-01 |
+| `overdracht-goederen-voor-de-loodsdienst` | Overdracht goederen voor de loodsdienst | 1 | 1988-09-01 to 1988-09-01 |
+| `vergoedingsregeling-tuchtcollege-loodsen` | Vergoedingsregeling tuchtcollege loodsen | 1 | 2022-07-06 to 2022-07-06 |
+| `kapiteinsverplichtingen-bij-loodsen-op-afstand` | Kapiteinsverplichtingen bij loodsen op afstand | 1 | 2006-02-02 to 2006-02-02 |
+| `aanwijzing-loodsplichtige-scheepvaartwegen` | Aanwijzing loodsplichtige scheepvaartwegen | 1 | 1988-09-01 to 1988-09-01 |
+| `beroepsuitoefeningsverordening-registerloodsen` | Beroepsuitoefeningsverordening registerloodsen | 1 | 2004-01-24 to 2004-01-24 |
+| `vaststelling-pensioenverordening-voor-registerloodsen` | Vaststelling pensioenverordening voor registerloodsen | 1 | 2017-02-22 to 2017-02-22 |
+| `dienstverleningsverordening-registerloodsen` | Dienstverleningsverordening registerloodsen | 2 | 2008-03-06 to 2025-10-23 |
+| `vergaderverordening-nederlandse-loodsencorporatie` | Vergaderverordening Nederlandse loodsencorporatie | 1 | 2008-03-06 to 2008-03-06 |
+| `regeling-bijdragen-aanleg-snelgroeiend-bos-1988` | Regeling bijdragen aanleg snelgroeiend bos 1988 | 1 | 2016-01-22 to 2016-01-22 |
+| `testmethoden-voor-toxiciteit-en-ecotoxiciteit` | Testmethoden voor toxiciteit en ecotoxiciteit | 1 | 1989-01-01 to 1989-01-01 |
+| `beschikking-wijziging-percentage-levensonderhoud-1989` | Beschikking wijziging percentage levensonderhoud 1989 | 1 | 1989-01-01 to 1989-01-01 |
+| `beschikking-vrijstelling-rijksluchtvaartdienst-en-hoofddirectie-telecommunicatie-en-post` | Beschikking vrijstelling Rijksluchtvaartdienst en Hoofddirectie Telecommunicatie en Post | 1 | 1989-01-01 to 1989-01-01 |
+| `aanwijzing-ambtelijke-testinstelling` | Aanwijzing ambtelijke testinstelling | 1 | 1989-01-01 to 1989-01-01 |
+| `ondernemersregeling-zendinrichtingen` | Ondernemersregeling zendinrichtingen | 1 | 1996-09-01 to 1996-09-01 |
+| `regeling-vrijstelling-machtiging-zendinrichtingen-niet-ingezetenen` | Regeling vrijstelling machtiging zendinrichtingen niet-ingezetenen | 1 | 1998-01-01 to 1998-01-01 |
+| `uitvoeringsregeling-randapparatuur` | Uitvoeringsregeling randapparatuur | 2 | 1997-09-10 to 2016-12-28 |
+| `overgangsregeling-huurgewenningsbijdrage-domeinwoningen` | Overgangsregeling huurgewenningsbijdrage domeinwoningen | 1 | 1992-04-11 to 1992-04-11 |
+| `regeling-handelsreclame` | Regeling handelsreclame | 2 | 1991-04-11 to 2016-12-28 |
+| `uitvoeringsregeling-beleggingen-iof-en-ofb` | Uitvoeringsregeling beleggingen IOF en OFB | 1 | 1989-01-01 to 1989-01-01 |
+| `regeling-aanwijzing-toezichthoudende-ambtenaren-ex-artikel-25-van-de-warenwet` | Regeling aanwijzing toezichthoudende ambtenaren ex artikel 25 van de Warenwet | 1 | 2005-01-01 to 2005-01-01 |
+| `regeling-loonbelasting-en-premietabellen-1990` | Regeling loonbelasting- en premietabellen 1990 | 1 | 2026-01-01 to 2026-01-01 |
+| `besluit-aanwijzing-initiele-opleidingen` | Besluit aanwijzing initiële opleidingen | 2 | 1989-04-06 to 2020-01-01 |
+| `toepassing-geheimhoudingsbesluit-kernenergiewet` | Toepassing Geheimhoudingsbesluit Kernenergiewet | 1 | 1989-03-16 to 1989-03-16 |
+| `instelling-commissie-bodemsanering-in-gebruik-zijnde-bedrijfsterreinen` | Instelling Commissie Bodemsanering in gebruik zijnde bedrijfsterreinen | 1 | 1990-05-01 to 1990-05-01 |
+| `aanwijzing-bevoegde-autoriteit-inzake-afgifte-diploma-s-certificaten-enz-op-het-gebied-van` | Aanwijzing bevoegde autoriteit inzake afgifte diploma's, certificaten enz. op het gebied van de architectuur | 1 | 1989-06-01 to 1989-06-01 |
+| `actualisering-taken-commissie-ontwikkeling-defensie-materieel-codema` | Actualisering taken Commissie Ontwikkeling Defensie Materieel (CODEMA) | 1 | 1989-04-03 to 1989-04-03 |
+| `regeling-bepalingsmethoden-organisch-halogeengehalte-van-brandstoffen` | Regeling bepalingsmethoden organisch-halogeengehalte van brandstoffen | 1 | 2009-12-02 to 2009-12-02 |
+| `regeling-tot-vaststelling-provinciale-opcenten-motorrijtuigenbelasting-1990` | Regeling tot vaststelling provinciale opcenten motorrijtuigenbelasting 1990 | 1 | 1989-06-14 to 1989-06-14 |
+| `aanwijzing-volkenrechtelijke-organisaties-in-het-buitenland` | Aanwijzing volkenrechtelijke organisaties in het buitenland | 2 | 1992-08-19 to 2015-01-01 |
+| `vaststelling-theoretische-exameneisen-voor-bewijs-van-bevoegdheid-als-prive-vlieger` | Vaststelling theoretische exameneisen voor bewijs van bevoegdheid als privé-vlieger | 1 | 1990-01-01 to 1990-01-01 |
+| `toelatingseisen-accountantsexamens` | Toelatingseisen accountantsexamens | 1 | 1989-07-04 to 1989-07-04 |
+| `machtiging-tot-verschaffen-gegevens-uit-herkenningsdienstregistraties` | Machtiging tot verschaffen gegevens uit herkenningsdienstregistraties | 1 | 1989-07-07 to 1989-07-07 |
+| `premieregeling-opgeviste-milieugevaarlijke-stoffen` | Premieregeling opgeviste milieugevaarlijke stoffen | 1 | 2019-07-01 to 2019-07-01 |
+| `mandaatbesluit-bevoegdheden-personeelsbeheer-pilot-project-directie-j-r` | Mandaatbesluit bevoegdheden personeelsbeheer pilot-project Directie J&R | 1 | 1989-09-01 to 1989-09-01 |
+| `fiod-toelage-regeling` | FIOD-toelage regeling | 2 | 1990-02-10 to 2020-01-01 |
+| `instelling-landelijke-coordinatiecommissie-dijkversterkingen` | Instelling Landelijke Coördinatiecommissie Dijkversterkingen | 1 | 1989-10-17 to 1989-10-17 |
+| `verplaatsingskostenregeling-1989` | Verplaatsingskostenregeling 1989 | 2 | 2019-01-01 to 2020-01-01 |
+| `beschikking-wijzigingpercentage-levensonderhoud-1990` | Beschikking wijzigingpercentage levensonderhoud 1990 | 1 | 1990-01-01 to 1990-01-01 |
+| `besluit-korps-mobiele-colonnes-1989` | Besluit Korps Mobiele Colonnes 1989 | 1 | 1989-09-21 to 1989-09-21 |
+| `deelneming-rijk-gemeenschappelijke-regeling-midden-delfland` | Deelneming Rijk gemeenschappelijke regeling Midden-Delfland | 1 | 1989-12-22 to 1989-12-22 |
+| `vaststelling-bijdrage-gemoedsbezwaarden-als-bedoeld-in-art-20-van-de-wet-aansprakelijkheid` | Vaststelling bijdrage gemoedsbezwaarden als bedoeld in art. 20 van de Wet aansprakelijkheidsverzekering motorrijtuigen 1990 | 1 | 1990-01-01 to 1990-01-01 |
+| `regeling-richtlijnen-eindexamens-anderstaligen` | Regeling richtlijnen eindexamens anderstaligen | 2 | 1989-12-21 to 2022-08-01 |
+| `regeling-aanwijzing-opsporingsambtenaren-scheepvaartverkeerswet` | Regeling aanwijzing opsporingsambtenaren Scheepvaartverkeerswet | 1 | 2004-11-26 to 2004-11-26 |
+| `douaneformaliteiten-luchtvaartuigen` | Douaneformaliteiten luchtvaartuigen | 1 | 1990-01-01 to 1990-01-01 |
+| `gelijkstelling-bepaalde-dagen-in-1990-1991-en-1992-met-algemeen-erkende-feestdagen` | Gelijkstelling bepaalde dagen in 1990, 1991 en 1992 met algemeen erkende feestdagen | 1 | 1990-03-15 to 1990-03-15 |
+| `koreaanse-uitvoeringsvoorschriften-belastingovereenkomst-nederland-korea` | Koreaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Korea | 1 | 1997-06-19 to 1997-06-19 |
+| `regeling-navordering-van-heffingen-van-minerale-olien-1990-ii` | Regeling navordering van heffingen van minerale oliën 1990-II | 1 | 1990-02-01 to 1990-02-01 |
+| `regeling-reserve-overdracht-door-abp-en-spoorwegpensioenfonds` | Regeling reserve-overdracht door ABP en Spoorwegpensioenfonds | 1 | 1990-10-01 to 1990-10-01 |
+| `vaststelling-model-verklaring-gemoedsbezwaren` | Vaststelling model verklaring gemoedsbezwaren | 1 | 1990-02-28 to 1990-02-28 |
+| `regeling-tot-instelling-van-de-centrale-overleggroep-huisvesting-gehandicapten` | Regeling tot instelling van de Centrale Overleggroep huisvesting gehandicapten | 1 | 1990-03-22 to 1990-03-22 |
+| `instelling-commissie-voor-de-belastingherziening` | Instelling Commissie voor de Belastingherziening | 1 | 1990-06-01 to 1990-06-01 |
+| `regeling-tot-vaststelling-provinciale-opcenten-motorrijtuigenbelasting-1991` | Regeling tot vaststelling provinciale opcenten motorrijtuigenbelasting 1991 | 1 | 1990-05-18 to 1990-05-18 |
+| `regeling-erkenning-opleidingen` | Regeling erkenning opleidingen | 1 | 2001-07-01 to 2001-07-01 |
+| `vaststelling-model-van-bewijs-van-luchtwaardigheid` | Vaststelling model van bewijs van luchtwaardigheid | 1 | 1990-08-01 to 1990-08-01 |
+| `uitvoeringsregeling-invorderingswet-1990` | Uitvoeringsregeling Invorderingswet 1990 | 1 | 2026-01-01 to 2026-01-01 |
+| `overgangsregeling-invorderingswet-1990` | Overgangsregeling Invorderingswet 1990 | 1 | 1990-06-01 to 1990-06-01 |
+| `regelen-voeren-technische-administratie-en-bepaling-administratieve-onderdelen` | Regelen voeren technische administratie en bepaling administratieve onderdelen | 1 | 1998-04-01 to 1998-04-01 |
+| `belgische-uitvoeringsvoorschriften-belastingovereenkomst-nederland-belgie` | Belgische uitvoeringsvoorschriften belastingovereenkomst Nederland-België | 1 | 1997-06-19 to 1997-06-19 |
+| `gezamenlijke-beschikking-plaatselijk-aangeworven-werkkrachten` | Gezamenlijke beschikking plaatselijk aangeworven werkkrachten. | 1 | 1990-06-29 to 1990-06-29 |
+| `luxemburgse-uitvoeringsvoorschriften-belastingverdrag-nederland-luxemburg` | Luxemburgse uitvoeringsvoorschriften belastingverdrag Nederland-Luxemburg | 1 | 1991-01-01 to 1991-01-01 |
+| `duitse-uitvoeringsvoorschriften-belastingovereenkomst-nederland-bondsrepubliek-duitsland` | Duitse uitvoeringsvoorschriften belastingovereenkomst Nederland-Bondsrepubliek Duitsland | 1 | 1997-06-18 to 1997-06-18 |
+| `aanwijzing-diploma-s-accountants-administratieconsulenten` | Aanwijzing diploma's accountants-administratieconsulenten | 1 | 1990-08-25 to 1990-08-25 |
+| `instelling-begeleidingscommissie-werkdrukonderzoek-rcid` | Instelling begeleidingscommissie werkdrukonderzoek RCID | 1 | 1990-12-14 to 1990-12-14 |
+| `besluit-instelling-adviesgroep-bestrijding-anti-homoseksueel-gedrag` | Besluit instelling Adviesgroep Bestrijding anti-homoseksueel gedrag | 2 | 1990-09-21 to 2021-04-01 |
+| `heffingsregime-op-afkoopsommen` | Heffingsregime op afkoopsommen | 1 | 1990-09-29 to 1990-09-29 |
+| `indiase-uitvoeringsvoorschriften-belastingverdrag-nederland-india` | Indiase uitvoeringsvoorschriften belastingverdrag Nederland-India | 1 | 1990-12-01 to 1990-12-01 |
+| `instelling-evaluatiecommissie-wet-algemene-bepalingen-milieuhygiene` | Instelling Evaluatiecommissie Wet algemene bepalingen milieuhygiëne | 1 | 1993-03-01 to 1993-03-01 |
+| `aanwijzing-ambtenaren-uitvoeringswet-verdrag-biologische-wapens` | Aanwijzing ambtenaren Uitvoeringswet verdrag biologische wapens | 1 | 1990-10-26 to 1990-10-26 |
+| `ierse-uitvoeringsvoorschriften-belastingovereenkomst-nederland-ierland` | Ierse uitvoeringsvoorschriften belastingovereenkomst Nederland-Ierland | 1 | 1997-06-19 to 1997-06-19 |
+| `spaanse-uitvoeringsvoorschriften-belastingovereenkomst-nederland-spanje` | Spaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Spanje | 1 | 1997-06-19 to 1997-06-19 |
+| `instellingsbesluit-overleg-over-ruimtelijke-investeringen` | Instellingsbesluit Overleg over Ruimtelijke Investeringen | 1 | 1990-11-15 to 1990-11-15 |
+| `zuid-afrikaanse-uitvoeringsvoorschriften-belastingovereenkomst-nederland-zuid-afrika` | Zuid-Afrikaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Zuid-Afrika | 1 | 1997-06-19 to 1997-06-19 |
+| `beschikking-wijzigingpercentage-levensonderhoud-1991` | Beschikking wijzigingpercentage levensonderhoud 1991 | 1 | 1991-01-01 to 1991-01-01 |
+| `chinese-uitvoeringsvoorschriften-belastingovereenkomst-nederland-china` | Chinese uitvoeringsvoorschriften belastingovereenkomst Nederland-China | 1 | 1997-06-19 to 1997-06-19 |
+| `poolse-uitvoeringsvoorschriften-belastingovereenkomst-nederland-polen` | Poolse uitvoeringsvoorschriften belastingovereenkomst Nederland-Polen | 1 | 1991-01-01 to 1991-01-01 |
+| `aanwijzing-bevelvoerende-militairen-met-bevoegdheden-als-bedoeld-in-art-59` | Aanwijzing bevelvoerende militairen met bevoegdheden als bedoeld in art. 59 | 1 | 1991-01-01 to 1991-01-01 |
+| `vaststelling-bijdrage-voor-gemoedsbezwaarden-voor-1991` | Vaststelling bijdrage voor gemoedsbezwaarden voor 1991 | 1 | 1991-01-01 to 1991-01-01 |
+| `mandateringsregeling-zelfbeheer-volkel` | Mandateringsregeling zelfbeheer Volkel | 1 | 1991-01-01 to 1991-01-01 |
+| `instelling-begeleidingscommissie-computercriminaliteit` | Instelling begeleidingscommissie computercriminaliteit | 1 | 1991-01-12 to 1991-01-12 |
+| `besluit-informatievoorziening-in-de-rijksdienst-1990-besluit-ivr-1990` | Besluit informatievoorziening in de rijksdienst 1990 (Besluit IVR 1990) | 1 | 1990-12-01 to 1990-12-01 |
+| `joegoslavische-uitvoeringsvoorschriften-belastingovereenkomst-nederland-joegoslavie` | Joegoslavische uitvoeringsvoorschriften belastingovereenkomst Nederland-Joegoslavië | 1 | 1991-01-27 to 1991-01-27 |
+| `pakistaanse-uitvoeringsvoorschriften-belastingovereenkomst-nederland-pakistan` | Pakistaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Pakistan | 1 | 1991-01-27 to 1991-01-27 |
+| `zambiaanse-uitvoeringsvoorschriften-belastingovereenkomst-nederlandzambia` | Zambiaanse uitvoeringsvoorschriften belastingovereenkomst Nederland–Zambia | 1 | 1997-06-19 to 1997-06-19 |
+| `maltese-uitvoeringsvoorschriften-belastingovereenkomst-nederland-malta` | Maltese uitvoeringsvoorschriften belastingovereenkomst Nederland-Malta | 1 | 1991-01-27 to 1991-01-27 |
+| `tsjechoslowaakse-uitvoeringsvoorschriften-belastingovereenkomst-nederland-tsjechoslowakije` | Tsjechoslowaakse uitvoeringsvoorschriften belastingovereenkomst Nederland-Tsjechoslowakije | 1 | 1991-01-27 to 1991-01-27 |
+| `roemeense-uitvoeringsvoorschriften-belastingovereenkomst-nederland-roemenie` | Roemeense uitvoeringsvoorschriften belastingovereenkomst Nederland-Roemenië | 1 | 1991-01-27 to 1991-01-27 |
+| `regeling-navordering-van-heffingen-van-minerale-olien-1991` | Regeling navordering van heffingen van minerale oliën 1991 | 1 | 1991-03-01 to 1991-03-01 |
+| `instelling-tijdelijke-externe-commissie-bestuursorganisatie-in-het-wetenschappelijk-onderw` | Instelling tijdelijke externe Commissie Bestuursorganisatie in het Wetenschappelijk Onderwijs | 1 | 1991-04-24 to 1991-04-24 |
+| `zimbabwaanse-uitvoeringsvoorschriften-belastingovereenkomst-nederland-zimbabwe` | Zimbabwaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Zimbabwe | 1 | 1991-06-01 to 1991-06-01 |
+| `instelling-stuurgroep-informatie-uitwisseling-milieubeheer` | Instelling Stuurgroep Informatie-uitwisseling Milieubeheer | 1 | 1991-07-01 to 1991-07-01 |
+| `begrip-militaire-beloning` | Begrip militaire beloning | 2 | 1994-11-18 to 2005-05-11 |
+| `vaststelling-model-formulieren-verlof-tot-begraving-verbranding-en-ontleding-van-een-lijk` | Vaststelling model-formulieren verlof tot begraving/verbranding en ontleding van een lijk | 1 | 1991-07-01 to 1991-07-01 |
+| `instelling-verontreinigingsheffing-rijkswateren-voor-lozingen-afkomstig-van-bedrijfsruimte` | Instelling verontreinigingsheffing rijkswateren voor lozingen afkomstig van bedrijfsruimten | 2 | 1991-08-01 to 2024-01-01 |
+| `regeling-tot-vaststelling-van-het-maximum-aantal-provinciale-opcenten-motorrijtuigenbelast` | Regeling tot vaststelling van het maximum aantal provinciale opcenten motorrijtuigenbelasting 1992 | 1 | 1991-05-19 to 1991-05-19 |
+| `instelling-gemeenschappelijke-raadgevende-commissie` | Instelling Gemeenschappelijke Raadgevende Commissie | 1 | 2004-07-15 to 2004-07-15 |
+| `wijziging-van-de-regeling-geldelijke-steun-huisvesting-gehandicapten-1989` | Wijziging van de Regeling geldelijke steun huisvesting gehandicapten 1989 | 1 | 1991-06-08 to 1991-06-08 |
+| `aanwijzing-ste-als-coordinator-van-eisen-gesteld-aan-het-prospectus-openbare-aanbieding-ef` | Aanwijzing STE als coördinator van eisen, gesteld aan het prospectus openbare aanbieding effecten | 1 | 1991-06-20 to 1991-06-20 |
+| `regeling-navordering-van-accijns-van-benzine-en-dieselolie-1991` | Regeling navordering van accijns van benzine en dieselolie 1991 | 1 | 1991-07-07 to 1991-07-07 |
+| `vrijstelling-van-vluchten-waarbij-de-passagiers-zijn-onderworpen-aan-controle-op-gevaarlij` | Vrijstelling van vluchten waarbij de passagiers zijn onderworpen aan controle op gevaarlijke voorwerpen | 2 | 1991-10-01 to 2022-01-01 |
+| `regels-verpakken-en-opbergen-van-inbeslaggenomen-wapens-explosieven-etc` | Regels verpakken en opbergen van inbeslaggenomen wapens, explosieven etc. | 2 | 1991-10-01 to 2022-01-01 |
+| `besluit-instelling-commissie-van-advies-inzake-bezwaar-de-beoordeling` | Besluit instelling Commissie van Advies inzake bezwaar de beoordeling | 1 | 1991-09-01 to 1991-09-01 |
+| `besluit-voeren-van-de-vlag-der-koninklijke-marine-reserve` | Besluit voeren van de vlag der Koninklijke marine-reserve | 1 | 1991-09-10 to 1991-09-10 |
+| `regeling-tot-intrekking-regeling-geldelijke-steun-woonwagenbewoners-bij-verhuizing-uit-een` | Regeling tot intrekking regeling geldelijke steun woonwagenbewoners bij verhuizing uit een krotwoonwagen | 1 | 1992-01-01 to 1992-01-01 |
+| `regeling-verkeersbrigadiers` | Regeling verkeersbrigadiers | 1 | 2013-01-01 to 2013-01-01 |
+| `o-en-w-regeling-legalisatie-handtekeningen` | O. en W.-regeling legalisatie handtekeningen | 1 | 2002-01-01 to 2002-01-01 |
+| `instellingsbeschikking-externe-adviescommissie-profilering-klinische-research` | Instellingsbeschikking externe adviescommissie profilering klinische research | 1 | 1991-11-20 to 1991-11-20 |
+| `regeling-aanwijzing-toezichthoudende-en-opsporingsambtenaren-wud-1990` | Regeling aanwijzing toezichthoudende en opsporingsambtenaren WUD 1990 | 2 | 2003-01-01 to 2014-07-01 |
+| `aanwijzing-speciale-beschermingszone-waddenzee` | Aanwijzing speciale beschermingszone Waddenzee | 1 | 1991-11-13 to 1991-11-13 |
+| `regeling-toegelaten-handelingen` | Regeling toegelaten handelingen | 2 | 2013-01-01 to 2014-10-31 |
+| `beschikking-wijzigingspercentage-levensonderhoud-1992` | Beschikking wijzigingspercentage levensonderhoud 1992 | 1 | 1992-01-01 to 1992-01-01 |
+| `regeling-aanmelding-tot-uitoefening-der-diergeneeskunde` | Regeling aanmelding tot uitoefening der diergeneeskunde | 2 | 2013-07-01 to 2014-07-01 |
+| `regeling-ingevolge-artikelen-5-en-6-van-de-wud-1990` | Regeling ingevolge artikelen 5 en 6 van de WUD 1990 | 2 | 2013-01-01 to 2014-07-01 |
+| `vaststelling-bijdrage-gemoedsbezwaarden-1992` | Vaststelling bijdrage gemoedsbezwaarden 1992 | 1 | 1992-01-01 to 1992-01-01 |
+| `overzicht-soorten-gegevens-opgenomen-in-het-kadaster` | Overzicht soorten gegevens opgenomen in het Kadaster | 2 | 1992-03-01 to 2004-01-01 |
+| `regeling-register-wud-1990` | Regeling register WUD 1990 | 2 | 2010-07-01 to 2014-07-01 |
+| `invoeringsregeling-accijns` | Invoeringsregeling accijns | 1 | 1992-01-01 to 1992-01-01 |
+| `uitvoeringsregeling-accijns` | Uitvoeringsregeling accijns | 1 | 2026-07-01 to 2026-07-01 |
+| `uitvoeringsregeling-overdracht-taken-ogb` | Uitvoeringsregeling overdracht taken OGB | 1 | 1993-03-25 to 1993-03-25 |
+| `regeling-grenswaarden-voor-tcb-in-afvalwater` | Regeling grenswaarden voor TCB in afvalwater | 2 | 2009-12-22 to 2024-01-01 |
+| `regeling-grenswaarden-voor-edc-in-afvalwater` | Regeling grenswaarden voor EDC in afvalwater | 2 | 2009-12-22 to 2024-01-01 |
+| `regeling-grenswaarden-voor-tri-in-afvalwater` | Regeling grenswaarden voor TRI in afvalwater | 2 | 2009-12-22 to 2024-01-01 |
+| `regeling-grenswaarden-voor-per-in-afvalwater` | Regeling grenswaarden voor PER in afvalwater | 2 | 2009-12-22 to 2024-01-01 |
+| `instelling-commissie-tbs-en-sanctietoepassing-geestelijk-gestoorde-delinquenten` | Instelling Commissie TBS en Sanctietoepassing Geestelijk Gestoorde Delinquenten | 1 | 1992-02-15 to 1992-02-15 |
+| `instelling-commissie-schorsing-en-vrijhedenbeleid` | Instelling Commissie schorsing en vrijhedenbeleid | 1 | 1992-01-31 to 1992-01-31 |
+| `instelling-van-examencommissies` | Instelling van examencommissies | 1 | 1992-01-01 to 1992-01-01 |
+| `instelling-examencommissies-luchtvaart` | Instelling examencommissies luchtvaart | 1 | 1992-01-01 to 1992-01-01 |
+| `mandaatbesluit-personele-bevoegdheden-kabinet-der-koningin-1992` | Mandaatbesluit personele bevoegdheden Kabinet der Koningin 1992 | 1 | 1992-02-15 to 1992-02-15 |
+| `besluit-vervanging-inschrijvingsregister-kadaster-breda-door-microfoto-s` | Besluit vervanging inschrijvingsregister Kadaster Breda door microfoto's | 1 | 1992-03-01 to 1992-03-01 |
+| `categoriale-beschikking-onbezoldigd-ambtenaar-korps-rijkspolitie-aid` | Categoriale beschikking onbezoldigd ambtenaar Korps Rijkspolitie AID | 1 | 1992-04-18 to 1992-04-18 |
+| `overgangsregeling-ii-huurgewenningsbijdrage-domeinwoningen` | Overgangsregeling II huurgewenningsbijdrage domeinwoningen | 1 | 1992-04-11 to 1992-04-11 |
+| `aanwijzing-eindhoven-vergunninghouder-speelcasino` | Aanwijzing Eindhoven vergunninghouder speelcasino | 1 | 1992-03-26 to 1992-03-26 |
+| `aanwijzing-resterende-projecten-uitkeringsregeling-bestrijding-verontreiniging-rijkswatere` | Aanwijzing resterende projecten uitkeringsregeling bestrijding verontreiniging rijkswateren | 1 | 1992-04-16 to 1992-04-16 |
+| `instelling-commissie-beveiliging-gevangeniswezen` | Instelling commissie beveiliging gevangeniswezen | 1 | 1992-04-03 to 1992-04-03 |
+| `instelling-commissie-evaluatie-militair-straf-en-tuchtrecht` | Instelling Commissie Evaluatie Militair Straf- en Tuchtrecht | 1 | 1992-06-01 to 1992-06-01 |
+| `regeling-vaststelling-aanwijzingen-inzake-openbaarheid-van-bestuur` | Regeling vaststelling aanwijzingen inzake openbaarheid van bestuur | 1 | 1992-05-01 to 1992-05-01 |
+| `algemene-aanwijzingen-aangelegenheden-ministerraad-en-onderraden` | Algemene aanwijzingen aangelegenheden ministerraad en onderraden | 1 | 1992-05-01 to 1992-05-01 |
+| `regeling-grenswaarden-voor-hcbd-in-afvalwater` | Regeling grenswaarden voor HCBD in afvalwater | 2 | 2009-12-22 to 2024-01-01 |
+| `aanwijzing-opsporingsambtenaren-2` | Aanwijzing opsporingsambtenaren | 1 | 1992-05-01 to 1992-05-01 |
+| `aanwijzing-speciale-beschermingszones-bargerveen` | Aanwijzing speciale beschermingszones; Bargerveen | 1 | 1992-05-19 to 1992-05-19 |
+| `aanwijzing-speciale-beschermingszones-de-deelen` | Aanwijzing speciale beschermingszones; De Deelen | 1 | 1992-05-19 to 1992-05-19 |
+| `aanwijzing-speciale-beschermingszones-deurnese-pelen` | Aanwijzing speciale beschermingszones; Deurnese Pelen | 1 | 1992-05-19 to 1992-05-19 |
+| `instellingsbeschikking-adviescommissie-evaluatie-ontwikkeling-gemeentelijk-milieubeleid` | Instellingsbeschikking Adviescommissie evaluatie ontwikkeling gemeentelijk milieubeleid | 1 | 1992-08-01 to 1992-08-01 |
+| `regeling-inwerkingtreding-richtlijnen-gevaarlijke-stoffen` | Regeling inwerkingtreding richtlijnen gevaarlijke stoffen | 2 | 1992-05-24 to 2026-03-24 |
+| `regeling-ter-uitvoering-van-de-wet-openbaarheid-van-bestuur-vw` | Regeling ter uitvoering van de Wet Openbaarheid van bestuur (VW) | 1 | 2015-01-01 to 2015-01-01 |
+| `regeling-toezicht-naleving-tabakswet` | Regeling toezicht naleving Tabakswet | 2 | 2012-01-19 to 2016-05-20 |
+| `aanwijzing-personen-belast-met-het-toezicht-op-de-naleving-van-de-wet-op-de-dierproeven` | Aanwijzing personen belast met het toezicht op de naleving van de Wet op de dierproeven | 2 | 2012-01-19 to 2015-07-16 |
+| `regeling-tot-vaststelling-van-het-maximum-aantal-provinciale-opcenten-motorrijtuigenbelast-2` | Regeling tot vaststelling van het maximum aantal provinciale opcenten motorrijtuigenbelasting 1993 | 1 | 1993-04-01 to 1993-04-01 |
+| `beschikking-staatsloterij` | Beschikking Staatsloterij | 1 | 2026-07-01 to 2026-07-01 |
+| `regeling-openbaarheid-van-bestuur-defensie` | Regeling openbaarheid van bestuur (Defensie) | 1 | 1992-06-01 to 1992-06-01 |
+| `regeling-uitvoering-wob-algemene-zaken` | Regeling uitvoering WOB Algemene Zaken | 1 | 1992-06-25 to 1992-06-25 |
+| `regeling-inzake-correctie-van-de-belastingnorm-voor-huurwoningen-voor-de-ontwikkeling-van` | Regeling inzake correctie van de belastingnorm voor huurwoningen voor de ontwikkeling van de kosten van milieumaatregelen | 1 | 2006-01-01 to 2006-01-01 |
+| `regeling-uniformering-bepaling-jaarlijkse-ontwikkeling-exploitatiekosten-huurwoningen` | Regeling uniformering bepaling jaarlijkse ontwikkeling exploitatiekosten huurwoningen | 1 | 1992-07-02 to 1992-07-02 |
+| `instelling-nationaal-platform-voor-de-criminaliteitsbeheersing` | Instelling Nationaal Platform voor de Criminaliteitsbeheersing | 2 | 1993-03-02 to 2024-07-01 |
+| `regeling-onderzoek-en-meetmethoden-benzine` | Regeling onderzoek- en meetmethoden benzine | 2 | 1992-10-01 to 2014-11-14 |
+| `regeling-geldelijke-steun-warmte-isolatie-aan-woningen-in-eigendom-bij-de-dienst-der-domei` | Regeling geldelijke steun warmte-isolatie aan woningen in eigendom bij de Dienst der Domeinen | 1 | 1992-08-01 to 1992-08-01 |
+| `warenwetregeling-aanwijzing-normen-elektrotechnische-produkten` | Warenwetregeling aanwijzing normen elektrotechnische produkten | 2 | 2005-03-19 to 2016-07-01 |
+| `beschikking-financieel-beheer-bureau-beheer-landbouwgronden` | Beschikking financieel beheer bureau beheer landbouwgronden | 1 | 2002-01-01 to 2002-01-01 |
+| `besluit-standaardschrijfwijze-persoonsgegevens` | Besluit standaardschrijfwijze persoonsgegevens | 1 | 1993-01-01 to 1993-01-01 |
+| `toelating-van-helmen` | Toelating van helmen | 2 | 1995-01-01 to 2017-01-01 |
+| `vervanging-inschrijvingsregisters-kadaster-breda-door-microfoto-s` | Vervanging inschrijvingsregisters Kadaster Breda door microfoto's | 1 | 1992-11-01 to 1992-11-01 |
+| `instelling-werkgroep-bejegeningsgegevens` | Instelling werkgroep Bejegeningsgegevens | 1 | 1992-10-29 to 1992-10-29 |
+| `wijziging-uitvoeringsbeschikking-omzetbelasting-1968-verlaging-van-het-algemene-tarief` | Wijziging Uitvoeringsbeschikking omzetbelasting 1968 (verlaging van het algemene tarief) | 1 | 1992-10-01 to 1992-10-01 |
+| `regeling-bekendmaking-percentage-heffingsrente-en-invorderingsrente-bij-belastingen` | Regeling bekendmaking percentage heffingsrente en invorderingsrente bij belastingen | 1 | 2012-11-16 to 2012-11-16 |
+| `zweedse-uitvoeringsvoorschriften-belastingovereenkomst-nederland-zweden-1991` | Zweedse uitvoeringsvoorschriften belastingovereenkomst Nederland-Zweden 1991 | 1 | 1997-06-19 to 1997-06-19 |
+| `instelling-adviescommissie-milieutoets-en-milieuparagraaf-beleidsvoornemens-rijksoverheid` | Instelling Adviescommissie milieutoets en milieuparagraaf beleidsvoornemens Rijksoverheid | 1 | 1992-12-01 to 1992-12-01 |
+| `bijdrageregeling-milieuvriendelijke-vervoertechnieken` | Bijdrageregeling milieuvriendelijke vervoertechnieken | 1 | 1994-08-04 to 1994-08-04 |
+| `overgangsregeling-besluit-woninggebonden-subsidies-1993` | Overgangsregeling Besluit woninggebonden subsidies 1993 | 1 | 1995-07-26 to 1995-07-26 |
+| `regeling-leningen-huurwoonwagens-ten-behoeve-van-toegelaten-instellingen` | Regeling leningen huurwoonwagens ten behoeve van toegelaten instellingen | 1 | 1993-01-01 to 1993-01-01 |
+| `aanwijzing-opsporingsambtenaren-3` | Aanwijzing opsporingsambtenaren | 1 | 1992-11-05 to 1992-11-05 |
+| `overgangsregeling-besluit-beheer-sociale-huursector` | Overgangsregeling Besluit beheer sociale-huursector | 1 | 1992-11-19 to 1992-11-19 |
+| `beschikking-wijzigingpercentage-levensonderhoud-1993` | Beschikking wijzigingpercentage levensonderhoud 1993 | 1 | 1993-01-01 to 1993-01-01 |
+| `personele-regeling-herverdeling-wegenbeheer` | Personele regeling herverdeling wegenbeheer | 1 | 1993-02-01 to 1993-02-01 |
+| `regeling-ter-uitvoering-van-de-wet-openbaarheid-van-bestuur-volkshuisvesting-ruimtelijke-o` | Regeling ter uitvoering van de Wet openbaarheid van bestuur Volkshuisvesting Ruimtelijke Ordening en Milieubeheer | 2 | 2015-01-01 to 2022-05-01 |
+| `vergoeding-exploitatiekosten-scholen-voor-v-b-o-en-v-w-o-a-v-o-v-b-o-voor-het-kalenderjaar` | Vergoeding exploitatiekosten scholen voor v.b.o. en (v.w.o.)/a.v.o./v.b.o. voor het kalenderjaar 1992 | 2 | 1992-12-19 to 2018-08-01 |
+| `regeling-openbaarheid-van-bestuur-landbouw-natuurbeheer-en-visserij` | Regeling openbaarheid van bestuur, Landbouw, Natuurbeheer en Visserij | 1 | 1992-12-12 to 1992-12-12 |
+| `wijziging-regeling-gratificatie-bij-ambtsjubileum` | Wijziging Regeling gratificatie bij ambtsjubileum | 2 | 1992-12-24 to 2020-01-01 |
+| `wijziging-besluit-hulp-vanwege-een-kruisorganisatie` | Wijziging Besluit hulp vanwege een kruisorganisatie | 1 | 1993-01-01 to 1993-01-01 |
+| `bijdrage-gemoedsbezwaarden` | Bijdrage gemoedsbezwaarden | 1 | 1993-01-01 to 1993-01-01 |
+| `voorbehoud-auteursrecht-logo-nederlandse-politie` | Voorbehoud auteursrecht logo Nederlandse politie | 1 | 1993-01-06 to 1993-01-06 |
+| `aanwijzing-de-deurnese-peelgebieden-als-wetland` | Aanwijzing ‘de Deurnese Peelgebieden’ als wetland | 1 | 1993-01-01 to 1993-01-01 |
+| `uitvoeringsregeling-verbruiksbelasting-van-alcoholvrije-dranken` | Uitvoeringsregeling verbruiksbelasting van alcoholvrije dranken | 1 | 2025-01-01 to 2025-01-01 |
+| `uitvoeringsregeling-belasting-van-personenauto-s-en-motorrijwielen-1992` | Uitvoeringsregeling belasting van personenauto's en motorrijwielen 1992 | 1 | 2026-01-01 to 2026-01-01 |
+| `teruggaafregeling-accijns-van-suiker-en-suikerhoudende-produkten` | Teruggaafregeling accijns van suiker en suikerhoudende produkten | 1 | 1993-01-01 to 1993-01-01 |
+| `regeling-heffing-halfzware-olie-en-gasolie-1993` | Regeling heffing halfzware olie en gasolie 1993 | 1 | 1993-01-01 to 1993-01-01 |
+| `warenwetregeling-diepgevroren-levensmiddelen` | Warenwetregeling Diepgevroren levensmiddelen | 1 | 2020-07-01 to 2020-07-01 |
+| `vervanging-openbare-registers-door-microfoto-s-kadaster-amsterdam-en-breda` | Vervanging openbare registers door microfoto's (Kadaster Amsterdam en Breda) | 1 | 1993-02-01 to 1993-02-01 |
+| `regeling-aanwijzing-ambtenaren-gezondheids-en-welzijnswet-voor-dieren` | Regeling aanwijzing ambtenaren Gezondheids- en welzijnswet voor dieren | 2 | 2021-01-01 to 2021-04-21 |
+| `instellingsbeschikking-commissie-bejegening-vreemdelingen` | Instellingsbeschikking commissie bejegening vreemdelingen | 1 | 1993-04-01 to 1993-04-01 |
+| `typegoedkeuring-motorvoertuigen-in-eg-kader` | Typegoedkeuring motorvoertuigen in EG-kader | 1 | 1993-05-01 to 1993-05-01 |
+| `aanwijzing-ambtenaren-belast-met-toezicht-op-naleving-markham-overeenkomst` | Aanwijzing ambtenaren belast met toezicht op naleving Markham-overeenkomst | 1 | 1993-01-29 to 1993-01-29 |
+| `overzicht-soorten-gegevens-kadaster` | Overzicht soorten gegevens Kadaster | 2 | 1993-04-01 to 2004-01-01 |
+| `toekenning-bevoegdheid-tot-uitvaardigen-dwangbevel-handhaving-verkeersvoorschriften` | Toekenning bevoegdheid tot uitvaardigen dwangbevel handhaving verkeersvoorschriften | 2 | 1993-02-16 to 2018-01-01 |
+| `aanwijzing-werkzaamheden-veterinaire-hoofdinspecteur` | Aanwijzing werkzaamheden veterinaire hoofdinspecteur | 1 | 1993-02-20 to 1993-02-20 |
+| `regeling-nazorgfase-gesloten-stortplaatsen` | Regeling nazorgfase gesloten stortplaatsen | 1 | 2024-01-01 to 2024-01-01 |
+| `regeling-afgifte-certificaten-nederlandse-federatie-cinematografie` | Regeling afgifte certificaten Nederlandse Federatie Cinematografie | 1 | 1993-02-28 to 1993-02-28 |
+| `nigeriaanse-uitvoeringsvoorschriften-belastingovereenkomst-nederland-nigeria` | Nigeriaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Nigeria | 1 | 1993-03-06 to 1993-03-06 |
+| `regeling-procedures-waarborgkapitaal` | Regeling procedures waarborgkapitaal | 1 | 2003-02-01 to 2003-02-01 |
+| `reisregeling-binnenland` | Reisregeling binnenland | 2 | 2019-01-01 to 2020-01-01 |
+| `regeling-gelijke-bepalingen-bij-hippische-wedstrijden` | Regeling gelijke bepalingen bij hippische wedstrijden | 1 | 2019-07-23 to 2019-07-23 |
+| `regeling-verwijdering-justitiele-gegevens` | Regeling verwijdering justitiële gegevens | 1 | 1993-04-24 to 1993-04-24 |
+| `warenwetregeling-extractiemiddelen` | Warenwetregeling extractiemiddelen | 1 | 2024-07-01 to 2024-07-01 |
+| `aanwijzing-bevoegde-autoriteit-scheepvaartreglement-kanaal-van-gent-naar-terneuzen` | Aanwijzing bevoegde autoriteit Scheepvaartreglement Kanaal van Gent naar Terneuzen | 1 | 2012-05-19 to 2012-05-19 |
+| `opheffing-commissie-toetsing-uitgangspunten-rivierdijkversterkingen` | Opheffing Commissie toetsing uitgangspunten rivierdijkversterkingen | 1 | 1993-05-03 to 1993-05-03 |
+| `wijziging-uitvoeringsregeling-invorderingswet-1990-1993` | Wijziging uitvoeringsregeling Invorderingswet 1990 (1993) | 1 | 1993-07-01 to 1993-07-01 |
+| `vaststelling-taken-bureau-secretaris-generaal` | Vaststelling taken Bureau Secretaris-Generaal | 1 | 1993-05-13 to 1993-05-13 |
+| `mandaatbesluit-arbeidsomstandigheden-justitie-1993` | Mandaatbesluit Arbeidsomstandigheden Justitie 1993 | 1 | 1993-05-10 to 1993-05-10 |
+| `warenwetregeling-vrijstelling-doorstralen-van-verpakkingen-en-gebruiksartikelen` | Warenwetregeling Vrijstelling doorstralen van verpakkingen en gebruiksartikelen | 1 | 1993-08-01 to 1993-08-01 |
+| `regeling-zekerheidsstelling-en-betaling-van-nvwa-keurlonen` | Regeling zekerheidsstelling en betaling van NVWA-keurlonen | 2 | 2014-03-01 to 2017-01-01 |
+| `wijziging-van-de-regeling-rijksvoorkeurswoningen-1989` | Wijziging van de Regeling Rijksvoorkeurswoningen 1989 | 1 | 1993-06-24 to 1993-06-24 |
+| `regeling-vaststelling-modellen-meetbrieven` | Regeling vaststelling modellen meetbrieven | 1 | 1998-12-18 to 1998-12-18 |
+| `aanwijzing-psychiaters-als-categorie-voor-modelovereenkomst` | Aanwijzing psychiaters als categorie voor modelovereenkomst | 2 | 1993-07-01 to 2015-01-01 |
+| `warenwetregeling-machines` | Warenwetregeling machines | 1 | 2026-01-01 to 2026-01-01 |
+| `regeling-luchtvaarttelecommunicatie` | Regeling luchtvaarttelecommunicatie | 2 | 1993-08-01 to 2014-12-12 |
+| `regeling-auteursrecht-handboek-huisstijl-en-logo-politie` | Regeling auteursrecht handboek huisstijl en logo politie | 1 | 1993-07-12 to 1993-07-12 |
+| `regeling-typegoedkeuring-navigatielantaarns-binnenvaart-1993` | Regeling typegoedkeuring navigatielantaarns binnenvaart 1993 | 2 | 2011-05-25 to 2024-01-01 |
+| `vervanging-openbare-registers-door-microfoto-s-register-hypotheken-4-delen-10777-t-m-11310` | Vervanging openbare registers door microfoto's (Register Hypotheken 4, delen 10777 t/m 11310, kadaster Amsterdam) | 1 | 1993-08-16 to 1993-08-16 |
+| `regeling-gelijkstelling-buitenlandse-bewijzen-van-bevoegdheid` | Regeling gelijkstelling buitenlandse bewijzen van bevoegdheid | 1 | 2014-03-15 to 2014-03-15 |
+| `vervanging-openbare-registers-door-microfoto-s-register-hypotheken-4-delen-330-331-en-333` | Vervanging openbare registers door microfoto's (Register Hypotheken 4, delen 330, 331 en 333 t/m 336, Kadaster Amsterdam) | 1 | 1993-09-01 to 1993-09-01 |
+| `regeling-houdende-wijziging-van-de-regeling-opvang-asielzoekers` | Regeling houdende wijziging van de Regeling opvang asielzoekers | 1 | 1993-09-02 to 1993-09-02 |
+| `aanwijzing-ambtenaren-belast-met-het-toezicht-naleving-sancties-tegen-servie-en-montenegro` | Aanwijzing ambtenaren belast met het toezicht naleving sancties tegen Servië en Montenegro | 1 | 1993-09-25 to 1993-09-25 |
+| `regeling-houdende-voortzetting-van-de-aanspraak-krachtens-de-a-w-b-z-op-sera-vaccins-en-al` | Regeling houdende voortzetting van de aanspraak krachtens de A.w.b.z. op sera, vaccins en allergenen | 1 | 1993-09-11 to 1993-09-11 |
+| `warenwetregeling-persoonlijke-beschermingsmiddelen` | Warenwetregeling persoonlijke beschermingsmiddelen | 2 | 2017-07-08 to 2018-05-04 |
+| `overgangsregeling-geldelijke-steun-huisvesting-gehandicapten` | Overgangsregeling geldelijke steun huisvesting gehandicapten | 1 | 1994-04-01 to 1994-04-01 |
+| `regeling-uitvoering-vfr-vluchten-buiten-de-daglichtperiode` | Regeling uitvoering VFR-vluchten buiten de daglichtperiode | 2 | 1993-10-20 to 2014-12-12 |
+| `regeling-storing-radioverbinding-tijdens-een-gecontroleerde-vlucht` | Regeling storing radioverbinding tijdens een gecontroleerde vlucht | 2 | 2014-12-12 to 2026-09-23 |
+| `regeling-standaard-luchtverkeerscircuits` | Regeling standaard luchtverkeerscircuits | 1 | 2014-12-12 to 2014-12-12 |
+| `regeling-minimum-vlieghoogte-spuitvluchten` | Regeling minimum vlieghoogte spuitvluchten | 2 | 1993-10-20 to 2014-12-12 |
+| `regeling-positiemeldingen-tijdens-gecontroleerde-ifr-vluchten` | Regeling positiemeldingen tijdens gecontroleerde IFR-vluchten | 2 | 2014-12-12 to 2018-07-01 |
+| `bevoegdheidsverlening-aan-besturen-i-o-a-en-p-o-a` | Bevoegdheidsverlening aan besturen I.O.A. en P.O.A. | 1 | 1993-11-05 to 1993-11-05 |
+| `regeling-vaststelling-exameneisen-zweefvlieger` | Regeling vaststelling exameneisen zweefvlieger | 1 | 1996-10-01 to 1996-10-01 |
+| `beschikking-wijzigingpercentage-levensonderhoud-1994` | Beschikking wijzigingpercentage levensonderhoud 1994 | 1 | 1994-01-01 to 1994-01-01 |
+| `aanwijzing-ex-artikel-14-wet-tarieven-gezondheidszorg-inzake-het-tarievenbeleid-1994-voor` | Aanwijzing ex artikel 14 Wet tarieven gezondheidszorg inzake het tarievenbeleid 1994 voor de kruisorganisaties | 1 | 1993-11-21 to 1993-11-21 |
+| `aanwijzing-ex-artikel-14-wet-tarieven-gezondheidszorg-inzake-het-tarievenbeleid-1994-voor-2` | Aanwijzing ex artikel 14 Wet tarieven gezondheidszorg inzake het tarievenbeleid 1994 voor de tandartsen algemeen practici | 1 | 1993-11-21 to 1993-11-21 |
+| `aanwijzing-ex-artikel-14-wet-tarieven-gezondheidszorg-inzake-het-tarievenbeleid-1994-voor-3` | Aanwijzing ex artikel 14 Wet tarieven gezondheidszorg inzake het tarievenbeleid 1994 voor de verstandelijk gehandicapten | 1 | 1993-11-21 to 1993-11-21 |
+| `aanwijzing-ex-artikel-14-wet-tarieven-gezondheidszorg-inzake-het-tarievenbeleid-voor-de-or` | Aanwijzing ex artikel 14 Wet tarieven gezondheidszorg inzake het tarievenbeleid voor de orthodontie | 1 | 1993-11-21 to 1993-11-21 |
+| `aanwijzing-ex-artikel-14-wet-tarieven-gezondheidszorg-inzake-het-tarievenbeleid-1994-voor-4` | Aanwijzing ex artikel 14 Wet tarieven gezondheidszorg inzake het tarievenbeleid 1994 voor de fysiotherapeuten | 1 | 1993-11-21 to 1993-11-21 |
+| `aanwijzingen-ex-artikel-14-wet-tarieven-gezondheidszorg-inzake-het-tarievenbeleid-1994-voo` | Aanwijzingen ex artikel 14 Wet tarieven gezondheidszorg inzake het tarievenbeleid 1994 voor de algemeen psychiatrische ziekenhuizen | 1 | 1993-11-21 to 1993-11-21 |
 | `belastingwet-bes` | Belastingwet BES | 1 | 2026-04-11 to 2026-04-11 |
 | `tno-wet` | TNO-wet | 1 | 2022-05-01 to 2022-05-01 |
 | `wet-op-de-internationale-bijstandsverlening-bij-de-heffing-van-belastingen` | Wet op de internationale bijstandsverlening bij de heffing van belastingen | 1 | 2026-04-11 to 2026-04-11 |
@@ -4807,19 +5245,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `besluit-regiem-voor-militairen-die-voorlopig-arrest-resp-gevangenisstraf-hechtenis-of-mili` | Besluit regiem voor militairen, die voorlopig arrest, resp. gevangenisstraf, hechtenis of militaire detentie ondergaan | 1 | 2008-12-17 to 2008-12-17 |
 | `besluit-aanwijzing-medebetrokken-ministers-wet-agrarisch-grondverkeer` | Besluit aanwijzing medebetrokken ministers Wet agrarisch grondverkeer | 1 | 2012-12-07 to 2012-12-07 |
 
-The build made 11163 commits:
+The build made 11653 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 4693 | first version of an act |
-| 6114 | one law on its in-force day |
-| 356 | changes no amendment note explains, credited to the publisher |
+| 5129 | first version of an act |
+| 6167 | one law on its in-force day |
+| 357 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `toekomst`: laws not yet in force on 2026-11-03.
-- 86 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 3108 laws in the record.
-- 16484 tags.
+- 102 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 3150 laws in the record.
+- 17044 tags.
 
 ## Dates
 
@@ -4831,7 +5269,7 @@ When a law gives no date of its own, the default rule applies: Bekendmakingswet 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `d0fc6edd583cef5ae3506d09c3d9507bbafefd14b2d06c76499851eedd31fb1a` (221520258 bytes).
+- Corpus: sha256 `4ed1a332a34a6d761a66f5d0372dc468214d1e31d976f1fbf838c3927bd5d0fa` (223949110 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -5089,6 +5527,10 @@ No second build of this corpus has been compared yet.
 - Current text only (breadth first, Alan 2026-11-02): 278 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
 - A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
 - An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
+- Current text only (breadth first, Alan 2026-11-02): 436 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
+- A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
+- Where the BWB names a Staatscourant publication as the source of a wording (bron="Stcrt.YYYY-N", for example a ministerial regulation adjusting amounts), it is labelled "Stcrt." and counted as a decree.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
 - Current text only (breadth first, Alan 2026-11-02): 496 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
 - A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
 - An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
@@ -5157,6 +5599,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none: no model wrote, summarised or classified any text in this corpus. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
