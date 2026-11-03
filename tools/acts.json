@@ -17779,5 +17779,261 @@
   "part": "bwb-now-wet-014",
   "current_label": "2020-07-01_0",
   "as_of": "2026-11-03"
+ },
+ "waarborgwet-2019": {
+  "bwb": "BWBR0042284",
+  "short": "Waarborgwet 2019",
+  "title": "Waarborgwet 2019",
+  "part": "bwb-now-wet-015",
+  "current_label": "2022-03-02_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-ter-bescherming-koopvaardij": {
+  "bwb": "BWBR0042278",
+  "short": "Wet ter Bescherming Koopvaardij",
+  "title": "Wet ter Bescherming Koopvaardij",
+  "part": "bwb-now-wet-015",
+  "current_label": "2022-02-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-omzetting-aandelen-aan-toonder": {
+  "bwb": "BWBR0041991",
+  "short": "Wet omzetting aandelen aan toonder",
+  "title": "Wet omzetting aandelen aan toonder",
+  "part": "bwb-now-wet-015",
+  "current_label": "2026-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-register-onderwijsdeelnemers": {
+  "bwb": "BWBR0042012",
+  "short": "Wet register onderwijsdeelnemers",
+  "title": "Wet register onderwijsdeelnemers",
+  "part": "bwb-now-wet-015",
+  "current_label": "2026-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelwet-pensioenen-2019": {
+  "bwb": "BWBR0041692",
+  "short": "Verzamelwet pensioenen 2019",
+  "title": "Verzamelwet pensioenen 2019",
+  "part": "bwb-now-wet-015",
+  "current_label": "2019-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-herstel-en-afwikkeling-van-verzekeraars": {
+  "bwb": "BWBR0041732",
+  "short": "Wet herstel en afwikkeling van verzekeraars",
+  "title": "Wet herstel en afwikkeling van verzekeraars",
+  "part": "bwb-now-wet-015",
+  "current_label": "2019-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-aanpassing-kansspelbelasting-voor-sportweddenschappen": {
+  "bwb": "BWBR0041746",
+  "short": "Wet aanpassing kansspelbelasting voor sportweddenschappen",
+  "title": "Wet aanpassing kansspelbelasting voor sportweddenschappen",
+  "part": "bwb-now-wet-015",
+  "current_label": "2021-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-fiscale-maatregel-rijksmonumenten": {
+  "bwb": "BWBR0041747",
+  "short": "Wet fiscale maatregel rijksmonumenten",
+  "title": "Wet fiscale maatregel rijksmonumenten",
+  "part": "bwb-now-wet-015",
+  "current_label": "2019-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-implementatie-artikel-1-richtlijn-elektronische-handel": {
+  "bwb": "BWBR0041750",
+  "short": "Wet implementatie artikel 1 richtlijn elektronische handel",
+  "title": "Wet implementatie artikel 1 richtlijn elektronische handel",
+  "part": "bwb-now-wet-015",
+  "current_label": "2019-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "belastingplan-2019": {
+  "bwb": "BWBR0041751",
+  "short": "Belastingplan 2019",
+  "title": "Belastingplan 2019",
+  "part": "bwb-now-wet-015",
+  "current_label": "2025-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-implementatie-eerste-eu-richtlijn-antibelastingontwijking": {
+  "bwb": "BWBR0041756",
+  "short": "Wet implementatie eerste EU-richtlijn antibelastingontwijking",
+  "title": "Wet implementatie eerste EU-richtlijn antibelastingontwijking",
+  "part": "bwb-now-wet-015",
+  "current_label": "2019-11-06_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-bedrijfsleven-2019": {
+  "bwb": "BWBR0041758",
+  "short": "Wet bedrijfsleven 2019",
+  "title": "Wet bedrijfsleven 2019",
+  "part": "bwb-now-wet-015",
+  "current_label": "2022-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "overige-fiscale-maatregelen-2019": {
+  "bwb": "BWBR0041761",
+  "short": "Overige fiscale maatregelen 2019",
+  "title": "Overige fiscale maatregelen 2019",
+  "part": "bwb-now-wet-015",
+  "current_label": "2019-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiewet-herziene-richtlijn-betaaldiensten": {
+  "bwb": "BWBR0041768",
+  "short": "Implementatiewet herziene richtlijn betaaldiensten",
+  "title": "Implementatiewet herziene richtlijn betaaldiensten",
+  "part": "bwb-now-wet-015",
+  "current_label": "2019-09-14_0",
+  "as_of": "2026-11-03"
+ },
+ "fiscale-vergroeningsmaatregelen-2019": {
+  "bwb": "BWBR0041769",
+  "short": "Fiscale vergroeningsmaatregelen 2019",
+  "title": "Fiscale vergroeningsmaatregelen 2019",
+  "part": "bwb-now-wet-015",
+  "current_label": "2020-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-modernisering-kleineondernemersregeling": {
+  "bwb": "BWBR0041782",
+  "short": "Wet modernisering kleineondernemersregeling",
+  "title": "Wet modernisering kleineondernemersregeling",
+  "part": "bwb-now-wet-015",
+  "current_label": "2020-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-houdende-regeling-van-de-mogelijke-toewijzing-van-extra-zetels-voor-nederland-in-het-e": {
+  "bwb": "BWBR0041821",
+  "short": "Wet houdende regeling van de mogelijke toewijzing van extra zetels voor Nederland in het Europees Parlement",
+  "title": "Wet houdende regeling van de mogelijke toewijzing van extra zetels voor Nederland in het Europees Parlement",
+  "part": "bwb-now-wet-015",
+  "current_label": "2019-02-19_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-rijonderricht-motorrijtuigen-1993-evaluatie-nascholing-beroepschauffeurs": {
+  "bwb": "BWBR0041825",
+  "short": "Wijzigingswet Wet rijonderricht motorrijtuigen 1993 (evaluatie, nascholing beroepschauffeurs, bestuursrechtelijke handhaving en enkele verbeteringen)",
+  "title": "Wijzigingswet Wet rijonderricht motorrijtuigen 1993 (evaluatie, nascholing beroepschauffeurs, bestuursrechtelijke handhaving en enkele verbeteringen)",
+  "part": "bwb-now-wet-015",
+  "current_label": "2020-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "rijkswet-houdende-het-verlenen-van-toestemming-aan-zijne-koninklijke-hoogheid-prins-willem": {
+  "bwb": "BWBR0041837",
+  "short": "Rijkswet houdende het verlenen van toestemming aan Zijne Koninklijke Hoogheid Prins Willem-Alexander Claus George Ferdinand, Prins van Oranje, Prins der Nederlanden, Prins van Oranje-Nassau, Jonkheer van Amsberg om een huwelijk aan te gaan met Máxima Zorreguieta",
+  "title": "Rijkswet houdende het verlenen van toestemming aan Zijne Koninklijke Hoogheid Prins Willem-Alexander Claus George Ferdinand, Prins van Oranje, Prins der Nederlanden, Prins van Oranje-Nassau, Jonkheer van Amsberg om een huwelijk aan te gaan met Máxima Zorreguieta",
+  "part": "bwb-now-wet-015",
+  "current_label": "2001-07-13_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-kwaliteit-klachten-en-geschillen-zorg-enz-versterking-handhavingsinstrum": {
+  "bwb": "BWBR0041912",
+  "short": "Wijzigingswet Wet kwaliteit, klachten en geschillen zorg, enz. (versterking handhavingsinstrumentarium Inspectie gezondheidszorg en jeugd)",
+  "title": "Wijzigingswet Wet kwaliteit, klachten en geschillen zorg, enz. (versterking handhavingsinstrumentarium Inspectie gezondheidszorg en jeugd)",
+  "part": "bwb-now-wet-015",
+  "current_label": "2020-03-19_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-op-de-parlementaire-enquete-2008-evaluatie-van-de-wet": {
+  "bwb": "BWBR0041983",
+  "short": "Wijzigingswet Wet op de parlementaire enquête 2008 (evaluatie van de wet)",
+  "title": "Wijzigingswet Wet op de parlementaire enquête 2008 (evaluatie van de wet)",
+  "part": "bwb-now-wet-015",
+  "current_label": "2019-03-09_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-schadefonds-geweldsmisdrijven-opheffen-rechtspersoonlijkheid-van-het-fon": {
+  "bwb": "BWBR0042001",
+  "short": "Wijzigingswet Wet schadefonds geweldsmisdrijven (opheffen rechtspersoonlijkheid van het fonds, enz.)",
+  "title": "Wijzigingswet Wet schadefonds geweldsmisdrijven (opheffen rechtspersoonlijkheid van het fonds, enz.)",
+  "part": "bwb-now-wet-015",
+  "current_label": "2019-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-op-de-kansspelen-enz-organiseren-van-kansspelen-op-afstand": {
+  "bwb": "BWBR0042051",
+  "short": "Wijzigingswet Wet op de kansspelen, enz. (organiseren van kansspelen op afstand)",
+  "title": "Wijzigingswet Wet op de kansspelen, enz. (organiseren van kansspelen op afstand)",
+  "part": "bwb-now-wet-015",
+  "current_label": "2021-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-aanpassing-indexering-eigen-bijdrage-huurtoeslag-en-het-vervallen-van-de-maximale-inko": {
+  "bwb": "BWBR0042053",
+  "short": "Wet aanpassing indexering eigen bijdrage huurtoeslag en het vervallen van de maximale inkomensgrenzen",
+  "title": "Wet aanpassing indexering eigen bijdrage huurtoeslag en het vervallen van de maximale inkomensgrenzen",
+  "part": "bwb-now-wet-015",
+  "current_label": "2020-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-afwikkeling-massaschade-in-collectieve-actie": {
+  "bwb": "BWBR0042074",
+  "short": "Wet afwikkeling massaschade in collectieve actie",
+  "title": "Wet afwikkeling massaschade in collectieve actie",
+  "part": "bwb-now-wet-015",
+  "current_label": "2020-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelwet-brexit": {
+  "bwb": "BWBR0042111",
+  "short": "Verzamelwet Brexit",
+  "title": "Verzamelwet Brexit",
+  "part": "bwb-now-wet-015",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-luchtvaart-omvorming-stichting-airport-coordination-netherlands-tot-publ": {
+  "bwb": "BWBR0042126",
+  "short": "Wijzigingswet Wet luchtvaart (Omvorming Stichting Airport Coordination Netherlands tot publiekrechtelijk zelfstandig bestuursorgaan)",
+  "title": "Wijzigingswet Wet luchtvaart (Omvorming Stichting Airport Coordination Netherlands tot publiekrechtelijk zelfstandig bestuursorgaan)",
+  "part": "bwb-now-wet-015",
+  "current_label": "2020-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-spoedreparatie-fiscale-eenheid": {
+  "bwb": "BWBR0042204",
+  "short": "Wet spoedreparatie fiscale eenheid",
+  "title": "Wet spoedreparatie fiscale eenheid",
+  "part": "bwb-now-wet-015",
+  "current_label": "2020-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "aanpassingswet-wnra": {
+  "bwb": "BWBR0042210",
+  "short": "Aanpassingswet Wnra",
+  "title": "Aanpassingswet Wnra",
+  "part": "bwb-now-wet-015",
+  "current_label": "2020-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringswet-eg-verordening-300-2008": {
+  "bwb": "BWBR0042213",
+  "short": "Uitvoeringswet EG-verordening 300/2008",
+  "title": "Uitvoeringswet EG-verordening 300/2008",
+  "part": "bwb-now-wet-015",
+  "current_label": "2022-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-maatschappelijke-ondersteuning-2015-enz-bijdrage-voor-maatschappelijke-o": {
+  "bwb": "BWBR0042232",
+  "short": "Wijzigingswet Wet maatschappelijke ondersteuning 2015, enz. (bijdrage voor maatschappelijke ondersteuning en beoordeling voor verstrekking maatwerkvoorziening)",
+  "title": "Wijzigingswet Wet maatschappelijke ondersteuning 2015, enz. (bijdrage voor maatschappelijke ondersteuning en beoordeling voor verstrekking maatwerkvoorziening)",
+  "part": "bwb-now-wet-015",
+  "current_label": "2020-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-implementatie-prospectusverordening": {
+  "bwb": "BWBR0042250",
+  "short": "Wet implementatie prospectusverordening",
+  "title": "Wet implementatie prospectusverordening",
+  "part": "bwb-now-wet-015",
+  "current_label": "2019-07-21_0",
+  "as_of": "2026-11-03"
  }
 }
