@@ -1,0 +1,8 @@
+# Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Landbouwkwaliteit en voedselveiligheid vanaf 1945 (Productschappen Vee, Vlees en Eieren (PVE))
+
+Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Landbouwkwaliteit en voedselveiligheid vanaf 1945 (Productschappen Vee, Vlees en Eieren (PVE)) · 1 versions, from 2007-05-23 (latest in force: 2007-05-23) · <https://wetten.overheid.nl/BWBR0021852>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |

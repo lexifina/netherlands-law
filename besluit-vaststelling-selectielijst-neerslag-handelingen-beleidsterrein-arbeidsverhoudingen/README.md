@@ -1,0 +1,9 @@
+# Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Arbeidsverhoudingen 1945 tot heden (Minister van Buitenlandse Zaken)
+
+Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Arbeidsverhoudingen 1945 tot heden (Minister van Buitenlandse Zaken) · 1 versions, from 2007-10-31 (latest in force: 2007-10-31) · <https://wetten.overheid.nl/BWBR0022722>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |
+| Inhoud | [inhoud.md](inhoud.md) | 0 |  |
