@@ -166,6 +166,8 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 | Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -16674,6 +16676,503 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `beleidsregels-tijdelijke-ontheffing-keuringsinstelling` | Beleidsregels tijdelijke ontheffing keuringsinstelling | 1 | 2021-04-01 to 2021-04-01 |
 | `nadere-voorschriften-tot-wijziging-nadere-voorschriften-permanente-educatie-2019` | Nadere voorschriften tot wijziging Nadere voorschriften Permanente Educatie 2019 | 1 | 2021-03-31 to 2021-03-31 |
 | `bestuursreglement-college-voor-toetsen-en-examens` | Bestuursreglement College voor Toetsen en Examens | 1 | 2026-09-29 to 2026-09-29 |
+| `regeling-tarieven-airport-coordination-netherlands-2021` | Regeling tarieven Airport Coordination Netherlands 2021 | 1 | 2021-04-01 to 2021-04-01 |
+| `compensatieregeling-coronacrisis-meerjarige-kunstpodia-tweede-steunmaatregel` | Compensatieregeling Coronacrisis Meerjarige Kunstpodia Tweede Steunmaatregel | 1 | 2021-04-03 to 2021-04-03 |
+| `besluit-vaststelling-selectielijst-ministerie-van-justitie-en-veiligheid-en-rechtsvoorgang` | Besluit vaststelling selectielijst Ministerie van Justitie en Veiligheid en rechtsvoorgangers over de periode vanaf 5 mei 1945 | 1 | 2021-04-14 to 2021-04-14 |
+| `compensatieregeling-coronacrisis-musea-met-een-private-collectie` | Compensatieregeling Coronacrisis Musea met een private collectie | 1 | 2021-04-21 to 2021-04-21 |
+| `compensatieregeling-coronacrisis-kunsthallen` | Compensatieregeling Coronacrisis Kunsthallen | 1 | 2021-04-21 to 2021-04-21 |
+| `beleidsregels-woordmerk-kansspelen-op-afstand` | Beleidsregels woordmerk kansspelen op afstand | 1 | 2021-05-01 to 2021-05-01 |
+| `regeling-subsidievoorwaarden-rechts-en-wetswinkels-2021` | Regeling subsidievoorwaarden rechts- en wetswinkels 2021 | 1 | 2021-04-30 to 2021-04-30 |
+| `besluit-opheffen-beperkingen-archief-ministerie-van-justitie-voorwaardelijke-invrijheidste` | Besluit opheffen beperkingen archief Ministerie van Justitie: Voorwaardelijke Invrijheidstellingen 1950–1978, nummer toegang 2.09.115 | 1 | 2021-05-04 to 2021-05-04 |
+| `besluit-digitale-vervanging-archiefbescheiden-kvk-2021` | Besluit digitale vervanging archiefbescheiden KVK 2021 | 1 | 2021-05-04 to 2021-05-04 |
+| `verordening-benoeming-notariele-leden-kamers-voor-het-notariaat` | Verordening benoeming notariële leden kamers voor het notariaat | 1 | 2021-05-13 to 2021-05-13 |
+| `besluit-vaststelling-selectielijst-veturo-b-v-voor-de-periode-vanaf-2001` | Besluit vaststelling selectielijst Veturo B.V. voor de periode vanaf 2001 | 1 | 2021-05-09 to 2021-05-09 |
+| `beleidsregel-consult-ontboden-verdachte-artikel-257c-sv` | Beleidsregel consult ontboden verdachte artikel 257c Sv | 1 | 2021-05-22 to 2021-05-22 |
+| `regeling-adviescommissie-bezwaar-kwalificatieplicht-svb` | Regeling Adviescommissie bezwaar kwalificatieplicht SVB | 1 | 2021-06-01 to 2021-06-01 |
+| `besluit-tijdelijke-voorzieningen-voor-de-periode-dat-minister-b-van-t-wout-zijn-taken-als` | Besluit tijdelijke voorzieningen voor de periode dat Minister B. van ’t Wout zijn taken als Minister van Economische Zaken en Klimaat niet kan uitoefenen | 1 | 2021-05-28 to 2021-05-28 |
+| `beleidsregel-diploma-erkenning-opleidingen-overige-educatie-2021` | Beleidsregel diploma-erkenning opleidingen overige educatie (2021) | 1 | 2022-08-01 to 2022-08-01 |
+| `nwo-besluit-van-26-mei-2021-tot-verdaging-en-opschorting-van-haar-aanvraagprocedures-naar` | NWO besluit van 26 mei 2021 tot verdaging en opschorting van haar aanvraagprocedures naar aanleiding van de hack op de NWO-netwerkservers | 1 | 2021-06-05 to 2021-06-05 |
+| `besluit-vaststelling-subsidieplafonds-voor-subsidiering-ex-deelreglement-realisering-en-de` | Besluit vaststelling subsidieplafonds voor subsidiëring ex Deelreglement Realisering en Deelreglement Distributie | 1 | 2021-05-01 to 2021-05-01 |
+| `besluit-vaststelling-selectielijst-stichting-nidos-voor-de-periode-vanaf-1-november-1995` | Besluit vaststelling selectielijst Stichting Nidos voor de periode vanaf 1 november 1995 | 1 | 2021-06-13 to 2021-06-13 |
+| `besluit-vaststelling-selectielijst-dopingautoriteit-voor-de-periode-vanaf-2019` | Besluit vaststelling selectielijst Dopingautoriteit voor de periode vanaf 2019 | 1 | 2021-06-13 to 2021-06-13 |
+| `subsidieplafondbesluit-aangepast-lezen-instellingssubsidies-2022` | Subsidieplafondbesluit Aangepast Lezen Instellingssubsidies 2022 | 1 | 2021-06-15 to 2021-06-15 |
+| `besluit-vaststelling-beeldenaar-munten-van-vijf-en-tien-euro-ter-ere-van-anton-geesink-ser` | Besluit vaststelling beeldenaar munten van vijf en tien euro ter ere van Anton Geesink (serie Nederlandse sporticonen) | 1 | 2021-06-23 to 2021-06-23 |
+| `beleidsregel-igvo-2021` | Beleidsregel IGVO 2021 | 1 | 2024-08-01 to 2024-08-01 |
+| `klachtenregeling-bft-2021` | Klachtenregeling BFT 2021 | 1 | 2021-06-18 to 2021-06-18 |
+| `beleidsregel-bestuurlijke-boeten-nvwa-experiment-gesloten-coffeeshopketen` | Beleidsregel bestuurlijke boeten NVWA-experiment gesloten coffeeshopketen | 1 | 2025-09-19 to 2025-09-19 |
+| `deelregeling-voor-vouchers-aan-podiumkunstenaars-in-tijden-van-covid-19-regeling-podiumkun` | Deelregeling voor vouchers aan podiumkunstenaars in tijden van covid-19 (Regeling podiumkunstvouchers) | 1 | 2021-06-29 to 2021-06-29 |
+| `tijdelijke-deelregeling-programmeringsbijdrage-drenthe-flevoland-en-zeeland` | Tijdelijke deelregeling programmeringsbijdrage Drenthe, Flevoland en Zeeland | 1 | 2021-06-29 to 2021-06-29 |
+| `beleidsregels-tenuitvoerlegging-strafrechtelijke-en-administratiefrechtelijke-beslissingen` | Beleidsregels tenuitvoerlegging strafrechtelijke en administratiefrechtelijke beslissingen 2021 | 1 | 2024-04-01 to 2024-04-01 |
+| `besluit-vaststelling-selectielijst-centraal-bureau-voor-de-statistiek-vanaf-2004-en-centra` | Besluit vaststelling selectielijst Centraal Bureau voor de Statistiek vanaf 2004 en Centrale Commissie voor de Statistiek voor de periode 2004–2016 | 1 | 2021-07-08 to 2021-07-08 |
+| `rooster-voor-de-centrale-examens-van-de-eindexamens-en-de-staatsexamens-voortgezet-onderwi-2` | Rooster voor de centrale examens van de eindexamens en de staatsexamens voortgezet onderwijs in 2023 | 1 | 2023-01-26 to 2023-01-26 |
+| `regeling-transparantie-zorgaanbieders-casemanagement-dementie` | Regeling transparantie zorgaanbieders casemanagement dementie | 1 | 2021-07-08 to 2021-07-08 |
+| `besluit-beperkingen-aan-turbos` | Besluit beperkingen aan turbo’s | 1 | 2021-10-01 to 2021-10-01 |
+| `beleidsregel-kwijtschelding-studieschulden-gedupeerden-kinderopvangtoeslagproblematiek` | Beleidsregel kwijtschelding studieschulden gedupeerden kinderopvangtoeslagproblematiek | 1 | 2023-11-03 to 2023-11-03 |
+| `regeling-vaststelling-tijdelijke-subsidieregeling-vergroting-weerbaarheid-journalisten` | Regeling vaststelling tijdelijke subsidieregeling vergroting weerbaarheid journalisten | 1 | 2023-10-19 to 2023-10-19 |
+| `reglement-inrichting-organisatie-kadaster-2021` | Reglement inrichting organisatie Kadaster 2021 | 1 | 2025-06-06 to 2025-06-06 |
+| `besluit-vaststelling-subsidieplafonds-subsidiering-ex-reglement-stimuleringsmaatregel-film-2` | Besluit vaststelling subsidieplafonds subsidiëring ex Reglement Stimuleringsmaatregel Filmproductie in Nederland, Deelreglement Ontwikkeling en Deelreglement Realisering | 1 | 2021-07-19 to 2021-07-19 |
+| `regeling-syllabi-centrale-examens-vo-2023` | Regeling syllabi centrale examens vo 2023 | 1 | 2025-01-01 to 2025-01-01 |
+| `beleidsregels-openbaarmaking-vvkoa` | Beleidsregels openbaarmaking VVKOA | 1 | 2021-07-21 to 2021-07-21 |
+| `beleidsregels-totalisatorafdracht` | Beleidsregels totalisatorafdracht | 1 | 2021-07-22 to 2021-07-22 |
+| `beleidsregels-onvrijwillige-inschrijving-register` | Beleidsregels onvrijwillige inschrijving register | 1 | 2021-10-01 to 2021-10-01 |
+| `beleidsregel-toegang-instellingen-tot-microdata-cbs` | Beleidsregel toegang instellingen tot microdata CBS | 1 | 2021-08-01 to 2021-08-01 |
+| `beleidsregel-handhaving-besluit-eindapparaten-bepaling-netwerkaansluitpunt-en-vrije-keuze` | Beleidsregel Handhaving Besluit Eindapparaten (bepaling netwerkaansluitpunt en vrije keuze eindapparaten) | 1 | 2022-01-27 to 2022-01-27 |
+| `vaststelling-selectielijst-bureau-architectenregister-voor-de-periode-vanaf-1-oktober-1988` | Vaststelling selectielijst Bureau Architectenregister voor de periode vanaf 1 oktober 1988 | 1 | 2021-08-01 to 2021-08-01 |
+| `besluit-aanwijzen-specialisaties` | Besluit aanwijzen specialisaties | 1 | 2021-09-01 to 2021-09-01 |
+| `instellingsbesluit-adviescollege-voorwaardelijke-invrijheidstelling` | Instellingsbesluit Adviescollege Voorwaardelijke Invrijheidstelling | 1 | 2021-08-04 to 2021-08-04 |
+| `compensatieregeling-coronacrisis-meerjarige-kunstpodia-vierde-steunmaatregel` | Compensatieregeling Coronacrisis Meerjarige Kunstpodia Vierde Steunmaatregel | 1 | 2021-08-20 to 2021-08-20 |
+| `algemeen-subsidiereglement-2021` | Algemeen subsidiereglement 2021 | 1 | 2023-04-13 to 2023-04-13 |
+| `besluit-gedifferentieerde-premie-whk-2022` | Besluit gedifferentieerde premie Whk 2022 | 1 | 2022-01-01 to 2022-01-01 |
+| `besluit-vantoepassingverklaring-wet-tegemoetkoming-schade-bij-rampen-afstromend-water-in-l` | Besluit vantoepassingverklaring Wet tegemoetkoming schade bij rampen (afstromend water in Limburg regenval juli 2021) | 1 | 2021-09-04 to 2021-09-04 |
+| `vaststelling-selectielijst-nederlands-instituut-voor-lastechniek-voor-de-periode-vanaf-21` | Vaststelling selectielijst Nederlands Instituut voor Lastechniek voor de periode vanaf 21 februari 2002 | 1 | 2021-09-12 to 2021-09-12 |
+| `vaststelling-selectielijst-hhc-drs-voor-de-periode-vanaf-4-augustus-2004` | Vaststelling selectielijst HHC/DRS voor de periode vanaf 4 augustus 2004 | 1 | 2021-09-12 to 2021-09-12 |
+| `vaststelling-selectielijst-dare-services-b-v-voor-de-periode-vanaf-19-maart-1998` | Vaststelling selectielijst DARE!! Services B.V. voor de periode vanaf 19 maart 1998 | 1 | 2021-09-12 to 2021-09-12 |
+| `beleidsregels-informatieplicht` | Beleidsregels informatieplicht | 1 | 2021-10-01 to 2021-10-01 |
+| `besluit-bekrachtiging-besluiten-wbtv-en-wsnp-18-augustus-2021-tot-en-met-heden` | Besluit bekrachtiging besluiten Wbtv en Wsnp 18 augustus 2021 tot en met heden | 1 | 2021-09-22 to 2021-09-22 |
+| `vaststelling-selectielijst-stichting-administratie-indonesische-pensioenen-en-ministerie-v` | Vaststelling selectielijst Stichting Administratie Indonesische Pensioenen en Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (overzeese pensioenen en uitkeringen voor de periode vanaf 1951) | 1 | 2021-09-24 to 2021-09-24 |
+| `rapportagevoorschriften-betalingsbalansrapportages-2022-rv-2022` | Rapportagevoorschriften betalingsbalansrapportages 2022 (RV 2022) | 1 | 2026-01-01 to 2026-01-01 |
+| `regeling-beheerst-beloningsbeleid-wft-2021` | Regeling beheerst beloningsbeleid Wft 2021 | 1 | 2021-10-19 to 2021-10-19 |
+| `besluit-vaststelling-bestanddelen-beeldenaar-munten-van-vijf-en-tien-euro-uitgegeven-ter-g` | Besluit vaststelling bestanddelen beeldenaar munten van vijf en tien euro uitgegeven ter gelegenheid van veertigjarig bestaan NOS Jeugdjournaal | 1 | 2021-10-20 to 2021-10-20 |
+| `beleidsregel-bestuurlijke-boeten-ijenv-experiment-gesloten-coffeeshopketen` | Beleidsregel bestuurlijke boeten IJenV – experiment gesloten coffeeshopketen | 1 | 2021-11-01 to 2021-11-01 |
+| `beleidsregels-risicoverevening-2022` | Beleidsregels risicoverevening 2022 | 1 | 2026-01-20 to 2026-01-20 |
+| `beleidsregel-handhaving-misbruik-van-slots-op-gecoordineerde-luchthavens` | Beleidsregel handhaving misbruik van slots op gecoördineerde luchthavens | 1 | 2021-11-03 to 2021-11-03 |
+| `regeling-specifieke-bepalingen-ifr-en-ifd` | Regeling specifieke bepalingen IFR en IFD | 1 | 2026-02-11 to 2026-02-11 |
+| `regeling-ter-tegemoetkoming-van-geleden-verlies-bij-culturele-evenementen-door-25-covid-19` | Regeling ter tegemoetkoming van geleden verlies bij culturele evenementen door 25%-COVID-19-maatregel | 1 | 2021-11-08 to 2021-11-08 |
+| `beleidsregel-tegemoetkoming-kosten-pas-melders` | Beleidsregel tegemoetkoming kosten PAS-melders | 1 | 2021-11-15 to 2021-11-15 |
+| `besluit-onderscheidingsteken-trouwe-en-langdurige-dienst-brandweer` | Besluit onderscheidingsteken trouwe en langdurige dienst brandweer | 1 | 2021-12-01 to 2021-12-01 |
+| `vaststelling-selectielijst-stichting-nederlands-fonds-voor-de-film-vanaf-1-januari-2013` | Vaststelling Selectielijst Stichting Nederlands Fonds voor de Film vanaf 1 januari 2013 | 1 | 2021-11-20 to 2021-11-20 |
+| `besluit-onderscheidingsteken-kruis-van-verdienste-brandweer` | Besluit onderscheidingsteken Kruis van Verdienste brandweer | 1 | 2021-11-19 to 2021-11-19 |
+| `besluit-mandaat-ondermandaat-volmacht-en-machtiging-dienst-nea` | Besluit mandaat, ondermandaat, volmacht en machtiging dienst NEa | 1 | 2026-09-10 to 2026-09-10 |
+| `besluit-premievaststelling-vrijwillige-verzekering-wao-2022` | Besluit premievaststelling vrijwillige verzekering WAO 2022 | 1 | 2022-01-01 to 2022-01-01 |
+| `besluit-premievaststelling-vrijwillige-verzekering-wia-2022` | Besluit premievaststelling vrijwillige verzekering WIA 2022 | 1 | 2022-01-01 to 2022-01-01 |
+| `besluit-premievaststelling-vrijwillige-verzekering-ziektewet-2022` | Besluit premievaststelling vrijwillige verzekering Ziektewet 2022 | 1 | 2022-01-01 to 2022-01-01 |
+| `besluit-premievaststelling-vrijwillige-werkloosheidsverzekering-2022` | Besluit premievaststelling vrijwillige werkloosheidsverzekering 2022 | 1 | 2022-01-01 to 2022-01-01 |
+| `beleidsregel-keuringsinstituten-spoorwegwet` | Beleidsregel keuringsinstituten Spoorwegwet | 1 | 2021-12-02 to 2021-12-02 |
+| `besluit-beperking-openbaarheid-archieven-bedrijfsvereniging-voor-de-steen-cement-glas-en-k` | Besluit beperking openbaarheid archieven Bedrijfsvereniging voor de Steen-, cement-, glas- en keramische industrie, Bedrijfsvereniging voor de Chemische Industrie en Bedrijfsvereniging voor de Voedings- en Genotmiddelenindustrie | 1 | 2021-12-04 to 2021-12-04 |
+| `reglement-adviescommissie-bezwaarschriften-ctgb-2021` | Reglement Adviescommissie bezwaarschriften Ctgb 2021 | 1 | 2021-12-07 to 2021-12-07 |
+| `regeling-verstrekking-gegevens-voor-onderzoek-naar-kansspelverslaving` | Regeling verstrekking gegevens voor onderzoek naar kansspelverslaving | 1 | 2021-12-07 to 2021-12-07 |
+| `beleidsregel-autoriteit-woningcorporaties-naar-aanleiding-van-de-wijziging-van-de-woningwe` | Beleidsregel Autoriteit woningcorporaties naar aanleiding van de wijziging van de Woningwet | 1 | 2024-08-07 to 2024-08-07 |
+| `besluit-aanwijzen-specialisaties-2` | Besluit aanwijzen specialisaties | 1 | 2022-10-01 to 2022-10-01 |
+| `besluit-routinematige-vervanging-inkomende-post-knaw-2021` | Besluit routinematige vervanging inkomende post KNAW 2021 | 1 | 2021-12-09 to 2021-12-09 |
+| `regeling-informatieverplichting-acute-zorg` | Regeling informatieverplichting acute zorg | 1 | 2022-01-01 to 2022-01-01 |
+| `beleidsregel-prestatiebeschrijvingen-en-tarieven-modulaire-zorg-2022` | Beleidsregel prestatiebeschrijvingen en tarieven modulaire zorg 2022 | 1 | 2022-01-01 to 2022-01-01 |
+| `besluit-vaststelling-selectielijst-stichting-samenwerking-beroepsonderwijs-bedrijfsleven-v` | Besluit vaststelling selectielijst Stichting Samenwerking Beroepsonderwijs Bedrijfsleven vanaf 1 augustus 2015 | 1 | 2021-12-26 to 2021-12-26 |
+| `regeling-vaststelling-subsidieplafonds-stimuleringsfonds-voor-de-journalistiek-2022` | Regeling vaststelling subsidieplafonds Stimuleringsfonds voor de journalistiek 2022 | 1 | 2021-12-29 to 2021-12-29 |
+| `tarievenbesluit-2022-raad-voor-accreditatie` | Tarievenbesluit 2022 Raad voor Accreditatie | 1 | 2022-01-01 to 2022-01-01 |
+| `besluit-departementale-herindeling-doorvaart-en-medegebruik-van-windparken-op-de-noordzee` | Besluit departementale herindeling doorvaart en medegebruik van windparken op de Noordzee | 1 | 2022-01-01 to 2022-01-01 |
+| `wijzigingsverordening-verordening-op-de-kwaliteitsbeoordelingen-enz` | Wijzigingsverordening Verordening op de kwaliteitsbeoordelingen, enz. | 1 | 2022-01-01 to 2022-01-01 |
+| `besluit-vaststelling-factoren-l-en-r-boekjaar-2022` | Besluit vaststelling factoren L en r boekjaar 2022 | 1 | 2022-01-06 to 2022-01-06 |
+| `besluit-tot-verlenging-van-de-opschorting-van-de-overbrenging-van-archiefbescheiden-van-de` | Besluit tot verlenging van de opschorting van de overbrenging van archiefbescheiden van de Pensioen- en Uitkeringsraad als bedoeld in artikel 13, lid 3 Archiefwet 1995 | 1 | 2022-01-13 to 2022-01-13 |
+| `instellingsbesluit-commissie-van-advies-inzake-wetenschappelijk-statistisch-en-historisch` | Instellingsbesluit Commissie van Advies inzake wetenschappelijk, statistisch en historisch onderzoek en onderzoeksjournalistiek SVB | 1 | 2022-01-12 to 2022-01-12 |
+| `regeling-beoordelingsnormen-staatsexamen-nt2` | Regeling beoordelingsnormen Staatsexamen Nt2 | 1 | 2022-12-29 to 2022-12-29 |
+| `beleidsregel-prestatiebeschrijvingen-voor-farmaceutische-zorg` | Beleidsregel prestatiebeschrijvingen voor farmaceutische zorg | 1 | 2023-12-29 to 2023-12-29 |
+| `beleidsregel-transparante-financiele-bedrijfsvoering-en-verbod-op-winstoogmerk` | Beleidsregel transparante financiële bedrijfsvoering en verbod op winstoogmerk | 1 | 2022-01-01 to 2022-01-01 |
+| `besluit-vaststelling-beleidsregel-subsidiering-kickstart-medicatieoverdracht-20222027` | Besluit vaststelling beleidsregel subsidiëring Kickstart Medicatieoverdracht 2022–2027 | 1 | 2026-09-10 to 2026-09-10 |
+| `besluit-departementale-herindeling-versterking-en-perspectief-groningen` | Besluit departementale herindeling versterking en perspectief Groningen | 1 | 2022-01-19 to 2022-01-19 |
+| `besluit-departementale-herindeling-maatschappelijke-diensttijd` | Besluit departementale herindeling maatschappelijke diensttijd | 1 | 2022-01-19 to 2022-01-19 |
+| `beleidsregel-handhaving-jaarverantwoording-over-het-overgangsjaar-2021` | Beleidsregel Handhaving jaarverantwoording over het overgangsjaar 2021 | 1 | 2022-01-01 to 2022-01-01 |
+| `subsidieregeling-werkzaamheden-ten-behoeve-van-rechtsbijstand-pilot-feijenoord` | Subsidieregeling werkzaamheden ten behoeve van rechtsbijstand pilot Feijenoord | 1 | 2022-01-29 to 2022-01-29 |
+| `regeling-ontheffing-goedkeuring-afmetingen-en-massas-landbouw-of-bosbouwvoertuigen-en-mobi` | Regeling ontheffing goedkeuring afmetingen en massa’s landbouw- of bosbouwvoertuigen en mobiele machines | 1 | 2022-02-01 to 2022-02-01 |
+| `regeling-op-de-advocatuur` | Regeling op de advocatuur | 1 | 2026-07-01 to 2026-07-01 |
+| `regeling-ter-tegemoetkoming-van-geleden-verlies-door-covid-19-maatregelen-bij-concerten-en` | Regeling ter tegemoetkoming van geleden verlies door COVID-19-maatregelen bij concerten en voorstellingen in de periode van 13 tot 28 november 2021 | 1 | 2022-02-08 to 2022-02-08 |
+| `regeling-ter-tegemoetkoming-van-geleden-verlies-door-covid-19-maatregelen-bij-concerten-en-2` | Regeling ter tegemoetkoming van geleden verlies door COVID-19-maatregelen bij concerten en voorstellingen in de periode van 28 november 2021 tot en met januari 2022 | 1 | 2022-02-07 to 2022-02-07 |
+| `besluit-vaststelling-bestanddelen-beeldenaar-munten-van-vijf-en-tien-euro-ter-gelegenheid-4` | Besluit vaststelling bestanddelen beeldenaar munten van vijf en tien euro ter gelegenheid van het dertigjarig jubileum ondertekening Verdrag van Maastricht | 1 | 2022-04-27 to 2022-04-27 |
+| `besluit-vaststelling-selectielijst-vincotte-nederland-b-v-voor-de-periode-vanaf-11-septemb` | Besluit vaststelling selectielijst Vinçotte Nederland B.V. voor de periode vanaf 11 september 1997 | 1 | 2022-03-02 to 2022-03-02 |
+| `besluit-vaststelling-subsidieplafonds-2022-stichting-nederlands-fonds-voor-de-film` | Besluit vaststelling Subsidieplafonds 2022 Stichting Nederlands Fonds voor de Film | 1 | 2022-03-01 to 2022-03-01 |
+| `regeling-declaratievoorschriften-administratievoorschriften-en-informatieverstrekking-wlz` | Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2021 | 1 | 2022-03-05 to 2022-03-05 |
+| `regeling-samen-cultuurmaken-20222024` | Regeling Samen Cultuurmaken 2022–2024 | 1 | 2023-04-13 to 2023-04-13 |
+| `besluit-vaststelling-selectielijst-archiefbescheiden-provinciale-organen-ontvangen-of-opge` | Besluit vaststelling selectielijst archiefbescheiden provinciale organen ontvangen of opgemaakt vanaf 1 januari 2014 tot 1 januari 2020 | 1 | 2022-03-10 to 2022-03-10 |
+| `besluit-vaststelling-selectielijst-archiefbescheiden-commissaris-van-de-koning-als-rijksor` | Besluit vaststelling selectielijst archiefbescheiden commissaris van de Koning als rijksorgaan ontvangen of opgemaakt vanaf 1 januari 2014 tot 1 januari 2020 | 1 | 2022-03-10 to 2022-03-10 |
+| `beleidsregel-coulance-wateroverlast-in-juli-2021` | Beleidsregel coulance wateroverlast in juli 2021 | 1 | 2022-03-15 to 2022-03-15 |
+| `beleidsregel-toetsingskader-waterkwaliteit` | Beleidsregel toetsingskader waterkwaliteit | 1 | 2024-01-01 to 2024-01-01 |
+| `regeling-tarieven-airport-coordination-netherlands-2022` | Regeling tarieven Airport Coordination Netherlands 2022 | 1 | 2022-03-23 to 2022-03-23 |
+| `beleidsregel-ontheffing-vergunningsplicht-ijsselmeer-voor-cultuurhistorische-visserij` | Beleidsregel ontheffing vergunningsplicht IJsselmeer voor cultuurhistorische visserij | 1 | 2022-03-23 to 2022-03-23 |
+| `compensatieregeling-coronacrisis-musea-vijfde-steunmaatregel` | Compensatieregeling Coronacrisis Musea Vijfde Steunmaatregel | 1 | 2022-03-23 to 2022-03-23 |
+| `compensatieregeling-coronacrisis-meerjarige-kunstpodia-vijfde-steunmaatregel` | Compensatieregeling Coronacrisis Meerjarige Kunstpodia Vijfde Steunmaatregel | 1 | 2022-03-23 to 2022-03-23 |
+| `besluit-gelijkstelling-van-28-april-2023-19-mei-2023-10-mei-2024-27-december-2024-en-30-me` | Besluit gelijkstelling van 28 april 2023, 19 mei 2023, 10 mei 2024, 27 december 2024 en 30 mei 2025 met een algemeen erkende feestdag | 1 | 2022-03-24 to 2022-03-24 |
+| `regeling-preliminaire-vaststelling-syllabi-voor-centrale-examens-havo-2024-en-vwo-2025-van` | Regeling preliminaire vaststelling syllabi voor centrale examens havo 2024 en vwo 2025 van de vakken biologie, natuurkunde en scheikunde | 1 | 2026-01-01 to 2026-01-01 |
+| `besluit-aanwijzing-toezichthouders-dnb-2022` | Besluit aanwijzing toezichthouders DNB 2022 | 1 | 2022-04-07 to 2022-04-07 |
+| `tariefbesluit-niwo-inzake-eets` | Tariefbesluit NIWO inzake EETS | 1 | 2022-04-08 to 2022-04-08 |
+| `beleidsregel-sars-cov-2-virus-extra-kosten-wlz-2022` | Beleidsregel SARS-CoV-2 virus extra kosten Wlz 2022 | 1 | 2022-04-07 to 2022-04-07 |
+| `beleidsregels-ontgrondingen-in-rijkswateren-2022` | Beleidsregels ontgrondingen in rijkswateren 2022 | 1 | 2022-04-09 to 2022-04-09 |
+| `beleidsregels-levensgedragtoets` | Beleidsregels levensgedragtoets | 1 | 2022-04-13 to 2022-04-13 |
+| `besluit-vaststelling-selectielijst-kamer-van-koophandel-voor-de-periode-vanaf-2014` | Besluit vaststelling selectielijst Kamer van Koophandel voor de periode vanaf 2014 | 1 | 2022-04-21 to 2022-04-21 |
+| `klachtenregeling-zorginstituut-nederland-2022` | Klachtenregeling Zorginstituut Nederland 2022 | 1 | 2022-04-12 to 2022-04-12 |
+| `upstream-music-2` | Upstream: Music | 1 | 2022-04-20 to 2022-04-20 |
+| `regeling-ter-tegemoetkoming-van-geleden-verlies-door-covid-19-maatregelen-bij-concerten-en-3` | Regeling ter tegemoetkoming van geleden verlies door COVID-19-maatregelen bij concerten en voorstellingen in de periode van 1 februari tot en met 8 maart 2022 | 1 | 2022-04-22 to 2022-04-22 |
+| `bestuursreglement-uwv-2021` | Bestuursreglement UWV 2021 | 1 | 2022-04-23 to 2022-04-23 |
+| `regeling-subsidievoorwaarden-rechts-en-wetswinkels-2022` | Regeling subsidievoorwaarden rechts- en wetswinkels 2022 | 1 | 2022-04-25 to 2022-04-25 |
+| `beleidsregel-certificaten-eu-handel-invoer-en-wederuitvoer-olifantenivoor` | Beleidsregel certificaten EU handel, invoer en wederuitvoer olifantenivoor | 1 | 2022-04-23 to 2022-04-23 |
+| `mandaatbesluit-wet-open-overheid-eerste-kamer` | Mandaatbesluit Wet open overheid Eerste Kamer | 1 | 2022-05-01 to 2022-05-01 |
+| `handhavingsbeleid-dnb-voor-tijdige-indiening-van-toezichtrapportages` | Handhavingsbeleid DNB voor tijdige indiening van toezichtrapportages | 1 | 2026-02-13 to 2026-02-13 |
+| `instellingsbesluit-staatscommissie-tegen-discriminatie-en-racisme` | Instellingsbesluit staatscommissie tegen discriminatie en racisme | 1 | 2022-05-13 to 2022-05-13 |
+| `beleidsregel-reclame-commerciele-media-instellingen-2022` | Beleidsregel reclame commerciële media-instellingen 2022 | 1 | 2022-05-18 to 2022-05-18 |
+| `beleidsregel-sponsoring-commerciele-media-instellingen-2022` | Beleidsregel sponsoring commerciële media-instellingen 2022 | 1 | 2022-05-18 to 2022-05-18 |
+| `podiumregeling-fonds-podiumkunsten` | Podiumregeling Fonds Podiumkunsten | 1 | 2024-06-25 to 2024-06-25 |
+| `beleidsregel-productplaatsing-sponsoring-commerciele-media-instellingen-2022` | Beleidsregel productplaatsing sponsoring commerciële media-instellingen 2022 | 1 | 2022-05-18 to 2022-05-18 |
+| `beleidsregel-warenwet-ttx-in-levende-tweekleppige-weekdieren-2022` | Beleidsregel Warenwet TTX in levende tweekleppige weekdieren 2022 | 1 | 2022-05-19 to 2022-05-19 |
+| `reglement-werkwijze-niwo-2` | Reglement werkwijze NIWO | 1 | 2022-05-25 to 2022-05-25 |
+| `tarievenregeling-verstrekking-woz-detailgegevens-2022` | Tarievenregeling verstrekking WOZ-detailgegevens 2022 | 1 | 2026-01-01 to 2026-01-01 |
+| `besluit-toestemming-ex-artikel-9-aanhef-en-onder-c-bankwet-1998-verrichten-van-werkzaamhed` | Besluit toestemming ex artikel 9, aanhef en onder c, Bankwet 1998 (verrichten van werkzaamheden omwisseling hryvnia voor Oekraïense ontheemden) | 1 | 2022-06-14 to 2022-06-14 |
+| `besluit-tot-toekenning-van-een-banier-aan-het-directoraat-generaal-douane` | Besluit tot toekenning van een banier aan het directoraat-generaal Douane | 1 | 2022-06-14 to 2022-06-14 |
+| `beleidsregel-ontheffingen-minister-van-ezk-en-minister-voor-ke-verbod-artikel-5-duodecies` | Beleidsregel ontheffingen Minister van EZK en Minister voor KE verbod artikel 5 duodecies Verordening (EU) nr 833/2014 | 1 | 2022-06-24 to 2022-06-24 |
+| `beleidsregel-nadere-invulling-verordening-eg-178-2002` | Beleidsregel nadere invulling Verordening (EG) 178/2002 | 1 | 2022-07-01 to 2022-07-01 |
+| `beleidsregel-wijziging-van-de-vergunningen-windenergie-op-zee-voor-kavels-vi-en-vii-hollan` | Beleidsregel wijziging van de vergunningen windenergie op zee voor kavels VI en VII Hollandse Kust (west) | 1 | 2022-07-01 to 2022-07-01 |
+| `besluit-onderscheidingsteken-voor-bijzondere-operationele-inzet-nederlandse-douane` | Besluit onderscheidingsteken voor bijzondere operationele inzet Nederlandse Douane | 1 | 2022-07-05 to 2022-07-05 |
+| `besluit-ereteken-voor-verdienste-nederlandse-douane` | Besluit ereteken voor verdienste Nederlandse Douane | 1 | 2022-07-05 to 2022-07-05 |
+| `besluit-medaille-voor-trouwe-en-langdurige-dienst-nederlandse-douane` | Besluit medaille voor trouwe en langdurige dienst Nederlandse Douane | 1 | 2022-07-05 to 2022-07-05 |
+| `besluit-mandaat-volmacht-en-machtiging-beheer-directeur-secretaris-tlokb` | Besluit mandaat, volmacht en machtiging beheer directeur-secretaris TloKB | 1 | 2022-07-07 to 2022-07-07 |
+| `beleidsregel-regiefunctie-complexe-wondzorg` | Beleidsregel regiefunctie complexe wondzorg | 1 | 2023-01-01 to 2023-01-01 |
+| `subsidieplafondbesluit-aangepast-lezen-instellingssubsidies-2023` | Subsidieplafondbesluit Aangepast Lezen Instellingssubsidies 2023 | 1 | 2022-07-09 to 2022-07-09 |
+| `besluit-subsidieplafond-projectsubsidies-voor-doorontwikkeling-aangepast-lezen-2022` | Besluit subsidieplafond Projectsubsidies voor Doorontwikkeling Aangepast Lezen 2022 | 1 | 2022-07-09 to 2022-07-09 |
+| `beleidsregel-toets-passende-stimulering-en-cumulatietoets-onder-het-besluit-duurzame-energ` | Beleidsregel toets passende stimulering en cumulatietoets onder het Besluit duurzame energieproductie en klimaattransitie | 1 | 2022-07-12 to 2022-07-12 |
+| `besluit-projectsubsidies-voor-verbreden-en-borgen-methodiek-leesplezier-voor-kinderen-met` | Besluit projectsubsidies voor ‘Verbreden en borgen methodiek Leesplezier voor kinderen met een leesprobleem in het kader van de Bibliotheek op school’ 2022 | 1 | 2022-07-09 to 2022-07-09 |
+| `beleidsregel-integrale-bekostiging-geboortezorg` | Beleidsregel integrale bekostiging geboortezorg | 1 | 2023-01-01 to 2023-01-01 |
+| `reglement-participatiefonds-voor-het-primair-onderwijs-en-de-expertisecentra-versie-1-augu` | Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecentra versie 1 augustus 2022 | 1 | 2022-11-25 to 2022-11-25 |
+| `regeling-syllabi-centrale-examens-vo-2024` | Regeling syllabi centrale examens vo 2024 | 1 | 2025-01-01 to 2025-01-01 |
+| `besluit-aanwijzing-plaatsen-in-gebruik-bij-tno-als-verboden-plaats` | Besluit aanwijzing plaatsen in gebruik bij TNO als verboden plaats | 1 | 2022-07-28 to 2022-07-28 |
+| `procedure-en-werkwijze-van-het-instituut-mijnbouwschade-groningen-2022` | Procedure en werkwijze van het Instituut Mijnbouwschade Groningen 2022 | 1 | 2026-05-12 to 2026-05-12 |
+| `beleidsregel-vergoeding-meerkosten-aardbevingsbestendig-bouwen-groningen-2022` | Beleidsregel vergoeding meerkosten aardbevingsbestendig bouwen Groningen 2022 | 1 | 2022-10-01 to 2022-10-01 |
+| `besluit-zesde-verlenging-samenwerkingsregeling-waarborging-plannen-van-aanpak-landstaken-c` | Besluit zesde verlenging Samenwerkingsregeling waarborging plannen van aanpak landstaken Curaçao en Sint Maarten | 1 | 2022-10-10 to 2022-10-10 |
+| `beleidsregel-handhaving-kwaliteit-van-benzine-en-diesel-bestemd-voor-de-export-naar-lage-e` | Beleidsregel handhaving kwaliteit van benzine en diesel bestemd voor de export naar lage- en middeninkomenslanden buiten de EU, in het bijzonder ECOWAS-landen, 2022 | 1 | 2022-08-16 to 2022-08-16 |
+| `regeling-examenprotocol-centrale-examinering-mbo-2022` | Regeling examenprotocol centrale examinering mbo 2022 | 1 | 2022-08-19 to 2022-08-19 |
+| `besluit-inwerkingstelling-artikelen-2c-en-4-van-de-wet-verplaatsing-bevolking` | Besluit inwerkingstelling artikelen 2c en 4 van de Wet verplaatsing bevolking | 1 | 2022-04-01 to 2022-04-01 |
+| `besluit-gedifferentieerde-premie-whk-2023` | Besluit gedifferentieerde premie Whk 2023 | 1 | 2023-01-01 to 2023-01-01 |
+| `besluit-aanwijzing-toezichthouders-acm-2022` | Besluit aanwijzing toezichthouders ACM 2022 | 1 | 2025-12-25 to 2025-12-25 |
+| `instellingsbesluit-staatscommissie-demografische-ontwikkelingen-2050` | Instellingsbesluit staatscommissie demografische ontwikkelingen 2050 | 1 | 2022-09-08 to 2022-09-08 |
+| `besluit-vaststelling-bestanddelen-munten-van-vijf-en-tien-euro-ter-gelegenheid-van-honderd` | Besluit vaststelling bestanddelen munten van vijf en tien euro ter gelegenheid van honderdvijftigste geboortedag Piet Mondriaan | 1 | 2022-09-28 to 2022-09-28 |
+| `beleidsregels-uwv-onderzoekssubsidies-2022` | Beleidsregels UWV Onderzoekssubsidies 2022 | 1 | 2022-09-10 to 2022-09-10 |
+| `instellingsbesluit-commissie-van-onderzoek-limc` | Instellingsbesluit Commissie van onderzoek LIMC | 1 | 2022-09-10 to 2022-09-10 |
+| `regeling-productiekosten-bijzondere-uitgaven` | Regeling productiekosten bijzondere uitgaven | 1 | 2022-10-04 to 2022-10-04 |
+| `regeling-bezwaaradviescommissie-tweede-kamer` | Regeling bezwaaradviescommissie Tweede Kamer | 1 | 2022-09-15 to 2022-09-15 |
+| `besluit-vervanging-archiefbescheiden-kansspelautoriteit-2022` | Besluit vervanging archiefbescheiden Kansspelautoriteit 2022 | 1 | 2022-09-27 to 2022-09-27 |
+| `beleidsregel-compensatie-inloggen-belastingaangifte` | Beleidsregel compensatie inloggen belastingaangifte | 1 | 2025-08-09 to 2025-08-09 |
+| `controlevoorschriften-toeslagenwet-2022` | Controlevoorschriften toeslagenwet 2022 | 1 | 2022-10-01 to 2022-10-01 |
+| `besluit-instelling-adviescollege-toelatings-en-verantwoordingscriteria-landelijke-publieke` | Besluit instelling Adviescollege toelatings- en verantwoordingscriteria landelijke publieke omroep | 1 | 2022-10-01 to 2022-10-01 |
+| `beleidsregels-bibob-toets` | Beleidsregels Bibob-toets | 1 | 2022-10-03 to 2022-10-03 |
+| `besluit-wijziging-van-het-formulier-en-de-bijlagen-behorende-bij-het-formulier-voor-aanvra` | Besluit wijziging van het formulier en de bijlagen behorende bij het formulier voor aanvraag vergunning voor leveren elektriciteit en/of gas aan kleinverbruikers | 1 | 2022-10-04 to 2022-10-04 |
+| `regeling-toetswijzer-doorstroomtoets-po` | Regeling toetswijzer doorstroomtoets PO | 1 | 2026-04-01 to 2026-04-01 |
+| `beleidsregel-ontheffingverlening-voertuigen-met-geautomatiseerde-functies-2022` | Beleidsregel ontheffingverlening voertuigen met geautomatiseerde functies 2022 | 1 | 2022-10-14 to 2022-10-14 |
+| `besluit-mandaat-en-machtiging-bestuur-nba-2022` | Besluit mandaat en machtiging bestuur NBA 2022 | 1 | 2022-12-13 to 2022-12-13 |
+| `beleidsregels-risicoverevening-2023` | Beleidsregels risicoverevening 2023 | 1 | 2026-01-20 to 2026-01-20 |
+| `beleidsregel-adz-ondersteuning-van-parkinsonzorg` | Beleidsregel Adz-ondersteuning van Parkinsonzorg | 1 | 2023-01-01 to 2023-01-01 |
+| `besluit-vervanging-archiefbescheiden-sociaal-economische-raad-2022` | Besluit vervanging archiefbescheiden Sociaal-economische Raad 2022 | 1 | 2022-11-09 to 2022-11-09 |
+| `besluit-de-ruytermedaille` | Besluit De Ruytermedaille | 1 | 2022-11-09 to 2022-11-09 |
+| `reglement-kwaliteitsraad-van-zorginstituut-nederland` | Reglement Kwaliteitsraad van Zorginstituut Nederland | 1 | 2022-11-12 to 2022-11-12 |
+| `regeling-beoordelingskader-voor-de-toetsen-behorende-tot-leerling-en-onderwijsvolgsystemen` | Regeling beoordelingskader voor de toetsen behorende tot leerling- en onderwijsvolgsystemen po | 1 | 2025-03-01 to 2025-03-01 |
+| `huishoudelijk-reglement-van-het-nederlands-fonds-voor-de-film` | Huishoudelijk reglement van het Nederlands Fonds voor de Film | 1 | 2022-11-19 to 2022-11-19 |
+| `beleidsregel-cak-bestuurlijke-boete-onverzekerden-zorgverzekeringswet-2022` | Beleidsregel CAK bestuurlijke boete onverzekerden Zorgverzekeringswet 2022 | 1 | 2022-12-01 to 2022-12-01 |
+| `statuten-stichting-nederlands-fonds-voor-de-film-2022` | Statuten Stichting Nederlands Fonds voor de Film 2022 | 1 | 2022-11-29 to 2022-11-29 |
+| `beleidsregels-cak-inning-bestuursrechtelijke-premie-zorgverzekeringswet-2023` | Beleidsregels CAK inning bestuursrechtelijke premie Zorgverzekeringswet 2023 | 1 | 2023-01-01 to 2023-01-01 |
+| `besluit-premievaststelling-vrijwillige-verzekering-wao-2023` | Besluit premievaststelling vrijwillige verzekering WAO 2023 | 1 | 2023-01-01 to 2023-01-01 |
+| `besluit-premievaststelling-vrijwillige-verzekering-ziektewet-2023` | Besluit premievaststelling vrijwillige verzekering Ziektewet 2023 | 1 | 2023-01-01 to 2023-01-01 |
+| `besluit-premievaststelling-vrijwillige-werkloosheidsverzekering-2023` | Besluit premievaststelling vrijwillige werkloosheidsverzekering 2023 | 1 | 2023-01-01 to 2023-01-01 |
+| `besluit-premievaststelling-vrijwillige-verzekering-wia-2023` | Besluit premievaststelling vrijwillige verzekering WIA 2023 | 1 | 2023-01-01 to 2023-01-01 |
+| `regeling-vergoeding-deskundigenkosten-rijkswaterstaat` | Regeling vergoeding deskundigenkosten Rijkswaterstaat | 1 | 2022-12-03 to 2022-12-03 |
+| `regeling-voucherprocedure` | Regeling Voucherprocedure | 1 | 2022-12-01 to 2022-12-01 |
+| `regeling-beoordelingsnormen-doorstroomtoetsen-po` | Regeling beoordelingsnormen doorstroomtoetsen PO | 1 | 2026-01-06 to 2026-01-06 |
+| `besluit-vaststelling-selectielijst-koninklijke-nederlandse-akademie-van-wetenschappen-voor` | Besluit vaststelling selectielijst Koninklijke Nederlandse Akademie van Wetenschappen voor de periode vanaf 1 november 2020 | 1 | 2022-12-16 to 2022-12-16 |
+| `besluit-vaststelling-selectielijst-skh-b-v-voor-de-periode-vanaf-26-augustus-1996` | Besluit vaststelling selectielijst SKH B.V. voor de periode vanaf 26 augustus 1996 | 1 | 2022-12-16 to 2022-12-16 |
+| `regeling-beoordelingskader-doorstroomtoets-po` | Regeling beoordelingskader doorstroomtoets PO | 1 | 2026-01-06 to 2026-01-06 |
+| `vrijstelling-voortdurend-toezicht-op-stilliggende-binnentankschepen-in-de-havens-van-rotte` | Vrijstelling voortdurend toezicht op stilliggende binnentankschepen in de havens van Rotterdam 2021 | 1 | 2021-04-05 to 2021-04-05 |
+| `besluit-regulering-wijze-van-digitale-indiening-informatieaanvragen-en-verzoeken` | Besluit regulering wijze van digitale indiening informatieaanvragen en verzoeken | 1 | 2022-12-20 to 2022-12-20 |
+| `tournee-en-promotieregeling` | Tournee- en promotieregeling | 1 | 2022-12-23 to 2022-12-23 |
+| `beleidsregel-verlagen-subsidie-glb` | Beleidsregel verlagen subsidie GLB | 1 | 2026-01-01 to 2026-01-01 |
+| `tarievenbesluit-2023-raad-voor-accreditatie` | Tarievenbesluit 2023 Raad voor Accreditatie | 1 | 2023-01-01 to 2023-01-01 |
+| `beleidsregels-diplomatieke-en-dienstpaspoorten` | Beleidsregels diplomatieke en dienstpaspoorten | 1 | 2022-12-29 to 2022-12-29 |
+| `beleidsregel-financiele-sancties-bij-bekostigde-onderwijsinstellingen-2022` | Beleidsregel financiële sancties bij bekostigde onderwijsinstellingen 2022 | 1 | 2026-08-01 to 2026-08-01 |
+| `tijdelijke-beleidsregel-inzake-de-toepassing-van-de-omgevingswet-op-elektrische-laadpunten` | Tijdelijke beleidsregel inzake de toepassing van de Omgevingswet op elektrische laadpunten op verzorgingsplaatsen | 1 | 2025-12-24 to 2025-12-24 |
+| `besluit-financiele-bijdrage-2023` | Besluit financiële bijdrage 2023 | 1 | 2023-01-01 to 2023-01-01 |
+| `regeling-experiment-cosmetische-mondzorg` | Regeling experiment cosmetische mondzorg | 1 | 2023-01-01 to 2023-01-01 |
+| `beleidsregel-experiment-cosmetische-mondzorg` | Beleidsregel experiment cosmetische mondzorg | 1 | 2023-01-01 to 2023-01-01 |
+| `beleidsregels-proefplaatsing-uwv-2023` | Beleidsregels proefplaatsing UWV 2023 | 1 | 2023-01-03 to 2023-01-03 |
+| `besluit-vaststelling-factoren-l-en-r-boekjaar-2023` | Besluit vaststelling factoren L en r boekjaar 2023 | 1 | 2023-01-03 to 2023-01-03 |
+| `verordening-op-de-organen-voor-de-beroepsreglementering` | Verordening op de organen voor de Beroepsreglementering | 1 | 2023-06-21 to 2023-06-21 |
+| `besluit-vaststelling-bestanddelen-beeldenaar-munten-van-vijf-en-tien-euro-met-thema-willem` | Besluit vaststelling bestanddelen beeldenaar munten van vijf en tien euro met thema Willemstad in de serie UNESCO Werelderfgoed | 1 | 2023-02-02 to 2023-02-02 |
+| `besluit-subsidieplafond-2023` | Besluit subsidieplafond 2023 | 1 | 2023-01-17 to 2023-01-17 |
+| `gerechtsdeurwaardersverordening` | Gerechtsdeurwaardersverordening | 1 | 2023-02-01 to 2023-02-01 |
+| `deelreglement-realisering-van-de-stichting-nederlands-fonds-voor-de-film-2` | Deelreglement Realisering van de Stichting Nederlands Fonds voor de Film | 1 | 2023-07-01 to 2023-07-01 |
+| `besluit-erkenning-2-systeemrisicobuffer-duitsland-2022` | Besluit erkenning 2% systeemrisicobuffer Duitsland 2022 | 1 | 2025-12-01 to 2025-12-01 |
+| `deelregeling-starters-erfgoed` | Deelregeling starters erfgoed | 1 | 2023-01-25 to 2023-01-25 |
+| `regeling-examenprogramma-staatsexamen-nt2-2024` | Regeling examenprogramma Staatsexamen Nt2 2024 | 1 | 2024-01-01 to 2024-01-01 |
+| `reglement-gegevensbeheer-kansspelautoriteit` | Reglement gegevensbeheer Kansspelautoriteit | 1 | 2023-02-02 to 2023-02-02 |
+| `besluit-intrekking-twee-regelingen-informatieverstrekking-zorgaanbieders-nr-reg-1913-en-nr` | Besluit intrekking twee regelingen informatieverstrekking zorgaanbieders (NR/REG-1913 en NR/REG-1826) | 1 | 2023-02-01 to 2023-02-01 |
+| `investeringsregeling-vrije-producties` | Investeringsregeling vrije producties | 1 | 2024-04-16 to 2024-04-16 |
+| `regeling-bezwaarschriftenprocedure-awb-nvao` | Regeling bezwaarschriftenprocedure Awb NVAO | 1 | 2023-01-01 to 2023-01-01 |
+| `verordening-elektronische-notariele-akte` | Verordening elektronische notariële akte | 1 | 2024-01-01 to 2024-01-01 |
+| `beleidsregel-quota-commerciele-media-instellingen-2023` | Beleidsregel quota commerciële media-instellingen 2023 | 1 | 2023-02-18 to 2023-02-18 |
+| `beleidsregel-quota-publieke-media-instellingen-2023` | Beleidsregel quota publieke media-instellingen 2023 | 1 | 2023-02-18 to 2023-02-18 |
+| `besluit-vaststelling-selectielijst-ibki-voor-de-periode-vanaf-1985` | Besluit vaststelling selectielijst IBKI voor de periode vanaf 1985 | 1 | 2023-02-24 to 2023-02-24 |
+| `beleidsregel-kaders-medewerking-defensie-aan-defensie-schietverenigingen-studentenweerbaar` | Beleidsregel kaders medewerking defensie aan (defensie-) schietverenigingen, studentenweerbaarheidsverenigingen en defensieschietteams | 1 | 2023-03-07 to 2023-03-07 |
+| `beleidsregel-opsporing-tuberculose` | Beleidsregel opsporing tuberculose | 1 | 2023-03-11 to 2023-03-11 |
+| `beleidsregels-cak-termijnen-eigen-bijdrage-wlz-en-wmo-2015` | Beleidsregels CAK termijnen eigen bijdrage Wlz en Wmo 2015 | 1 | 2023-03-16 to 2023-03-16 |
+| `beleidsregel-macrobeheersinstrument-geneeskundige-geestelijke-gezondheidszorg-vanaf-2023` | Beleidsregel macrobeheersinstrument geneeskundige geestelijke gezondheidszorg vanaf 2023 | 1 | 2023-03-22 to 2023-03-22 |
+| `regeling-tarieven-airport-coordination-netherlands-2023` | Regeling tarieven Airport Coordination Netherlands 2023 | 1 | 2023-03-28 to 2023-03-28 |
+| `besluit-aanwijzing-toezichthouders-tlokb` | Besluit aanwijzing toezichthouders TloKB | 1 | 2024-01-01 to 2024-01-01 |
+| `besluit-vaststelling-subsidieplafonds-2023-stichting-nederlands-fonds-voor-de-film` | Besluit vaststelling Subsidieplafonds 2023 Stichting Nederlands Fonds voor de Film | 1 | 2023-03-29 to 2023-03-29 |
+| `instellingsbesluit-raad-van-advies-tlokb` | Instellingsbesluit Raad van Advies TloKB | 1 | 2023-04-05 to 2023-04-05 |
+| `beleidsregel-afwikkelbaarheid-verzekeraars-2023` | Beleidsregel afwikkelbaarheid verzekeraars 2023 | 1 | 2023-04-06 to 2023-04-06 |
+| `regeling-vertrouwelijke-stukken-eerste-kamer-2023` | Regeling vertrouwelijke stukken Eerste Kamer 2023 | 1 | 2023-04-05 to 2023-04-05 |
+| `beleidsregel-voorschrijven-via-internet` | Beleidsregel voorschrijven via internet | 1 | 2023-04-12 to 2023-04-12 |
+| `instellingsbesluit-staatscommissie-mdma` | Instellingsbesluit Staatscommissie MDMA | 1 | 2024-01-30 to 2024-01-30 |
+| `beleidsregel-publiceren-op-instellingsniveau-ex-art-41-wet-cbs` | Beleidsregel publiceren op instellingsniveau ex art. 41 Wet CBS | 1 | 2023-04-26 to 2023-04-26 |
+| `regeling-informatiebeheer-sociale-verzekeringsbank-2023` | Regeling Informatiebeheer Sociale Verzekeringsbank 2023 | 1 | 2023-05-02 to 2023-05-02 |
+| `beleidsregels-cak-vergoeden-declaraties-naar-nederlands-tarief` | Beleidsregels CAK vergoeden declaraties naar Nederlands tarief | 1 | 2024-10-19 to 2024-10-19 |
+| `regeling-registratie-en-aanlevering-kostprijzen-zorgproducten-medisch-specialistische-zorg-2` | Regeling registratie en aanlevering kostprijzen zorgproducten medisch-specialistische zorg | 1 | 2023-05-01 to 2023-05-01 |
+| `beleidsregel-toegang-niet-openbare-informatie-in-dossiers-betreffende-uitvoering-wetten-ve` | Beleidsregel Toegang niet-openbare informatie in dossiers betreffende uitvoering wetten verzetsdeelnemers en oorlogsgetroffenen ten behoeve van onderzoek | 1 | 2023-05-11 to 2023-05-11 |
+| `beleidsregel-ontheffingsgronden-doorstroomtoets-po` | Beleidsregel ontheffingsgronden doorstroomtoets po | 1 | 2023-08-01 to 2023-08-01 |
+| `beleidsregel-consignatie` | Beleidsregel consignatie | 1 | 2023-07-01 to 2023-07-01 |
+| `besluit-aanwijzing-toezichthouders-svb-2023` | Besluit aanwijzing toezichthouders SVB 2023 | 1 | 2023-06-17 to 2023-06-17 |
+| `besluit-vaststelling-selectielijst-stichting-donorgegevens-kunstmatige-bevruchting-vanaf-2` | Besluit vaststelling selectielijst Stichting donorgegevens kunstmatige bevruchting vanaf 23 juli 2003 | 1 | 2023-06-16 to 2023-06-16 |
+| `reglement-van-orde-van-de-eerste-kamer-der-staten-generaal-2` | Reglement van Orde van de Eerste Kamer der Staten-Generaal | 1 | 2026-09-09 to 2026-09-09 |
+| `besluit-projectsubsidies-verbreden-en-borgen-methodiek-leesplezier-voor-kinderen-met-een-l` | Besluit projectsubsidies ‘Verbreden en borgen methodiek Leesplezier voor kinderen met een leesprobleem in het kader van de Bibliotheek op school’, Koninklijke Bibliotheek 2023–2024 | 1 | 2023-06-22 to 2023-06-22 |
+| `subsidieplafondbesluit-projectsubsidies-doorontwikkeling-aangepast-lezen-ter-zake-verbrede` | Subsidieplafondbesluit Projectsubsidies Doorontwikkeling Aangepast Lezen ter zake ‘Verbreden en borgen methodiek Leesplezier voor kinderen met een leesprobleem, in het kader van de Bibliotheek op school’, Koninklijke Bibliotheek 2023–2024 | 1 | 2023-06-22 to 2023-06-22 |
+| `regeling-informatieverstrekking-ziektekostenverzekeraars-aan-consumenten` | Regeling informatieverstrekking ziektekostenverzekeraars aan consumenten | 1 | 2023-11-01 to 2023-11-01 |
+| `tijdelijk-besluit-nul-emissiezones` | Tijdelijk besluit nul-emissiezones | 1 | 2023-07-01 to 2023-07-01 |
+| `beleidsregel-macrobeheersinstrument-huisartsenzorg-2024` | Beleidsregel macrobeheersinstrument huisartsenzorg 2024 | 1 | 2024-01-01 to 2024-01-01 |
+| `regeling-rekenmethoden-onderbouwing-solidariteitsreserve-en-risicodelingsreserve-pensioenu` | Regeling rekenmethoden onderbouwing solidariteitsreserve en risicodelingsreserve pensioenuitvoerders | 1 | 2023-07-01 to 2023-07-01 |
+| `regeling-melden-interne-collectieve-waardeoverdracht-pensioenfondsen-bij-transitie` | Regeling melden interne collectieve waardeoverdracht pensioenfondsen bij transitie | 1 | 2025-07-01 to 2025-07-01 |
+| `beleidsregel-verlagen-subsidies-emfaf-bar-en-regeling-sanering-garnalenvisserij` | Beleidsregel verlagen subsidies EMFAF, BAR en Regeling sanering garnalenvisserij | 1 | 2025-10-01 to 2025-10-01 |
+| `regeling-voor-muziekhubs-op-het-gebied-van-pop-hiphop-en-dance` | Regeling voor muziekhubs op het gebied van pop, hiphop en dance | 1 | 2026-03-17 to 2026-03-17 |
+| `besluit-uwv-onderzoekssubsidie-2023-ondersteuningsbehoefte-van-gere-integreerde-werkenden` | Besluit UWV Onderzoekssubsidie 2023 ’Ondersteuningsbehoefte van gere-integreerde werkenden met een arbeidsbeperking om (hernieuwde) uitval te voorkomen’ | 1 | 2023-07-15 to 2023-07-15 |
+| `beleidsregel-toetsingskader-verzoeken-artikel-10a-wet-avv-2023` | Beleidsregel toetsingskader verzoeken artikel 10a Wet Avv 2023 | 1 | 2023-07-15 to 2023-07-15 |
+| `beleidsregel-subsidiering-regionale-zorgnetwerken-amr-20242027` | Beleidsregel subsidiëring regionale zorgnetwerken AMR 2024–2027 | 1 | 2023-07-18 to 2023-07-18 |
+| `klachtenregeling-voor-het-centraal-bureau-voor-de-statistiek-2023` | Klachtenregeling voor het Centraal bureau voor de statistiek 2023 | 1 | 2023-07-01 to 2023-07-01 |
+| `nadere-voorschriften-inzake-de-werkwijze-van-het-bestuur` | Nadere voorschriften inzake de werkwijze van het bestuur | 1 | 2023-07-17 to 2023-07-17 |
+| `regeling-syllabi-centrale-examens-vo-2025` | Regeling syllabi centrale examens vo 2025 | 1 | 2026-01-01 to 2026-01-01 |
+| `deelregeling-kunstpodia-20252028` | Deelregeling Kunstpodia 2025–2028 | 1 | 2023-07-21 to 2023-07-21 |
+| `besluit-vaststelling-selectielijst-kb-periode-vanaf-1-januari-2015` | Besluit vaststelling selectielijst KB, periode vanaf 1 januari 2015 | 1 | 2023-07-23 to 2023-07-23 |
+| `besluit-vaststelling-selectielijst-centraal-orgaan-opvang-asielzoekers-vanaf-1-juli-1994` | Besluit vaststelling selectielijst Centraal Orgaan opvang asielzoekers vanaf 1 juli 1994 | 1 | 2023-07-21 to 2023-07-21 |
+| `vaststelling-selectielijst-e-mailbewaring-gemeentelijke-en-intergemeentelijke-organen-2024` | Vaststelling selectielijst e-mailbewaring gemeentelijke en intergemeentelijke organen 2024 vanaf 1 januari 2024 | 1 | 2023-07-28 to 2023-07-28 |
+| `regeling-macrobeheersinstrument-kortdurende-zorg-2024` | Regeling macrobeheersinstrument kortdurende zorg 2024 | 1 | 2024-01-01 to 2024-01-01 |
+| `beleidsregel-regionale-ondersteuning-eerstelijnszorg` | Beleidsregel regionale ondersteuning eerstelijnszorg | 1 | 2024-01-01 to 2024-01-01 |
+| `beleidsregel-macrobeheersinstrument-multidisciplinaire-zorg-2024` | Beleidsregel macrobeheersinstrument multidisciplinaire zorg 2024 | 1 | 2024-01-01 to 2024-01-01 |
+| `beleidsregel-macrobeheersinstrument-kortdurende-zorg-2024` | Beleidsregel macrobeheersinstrument kortdurende zorg 2024 | 1 | 2024-01-01 to 2024-01-01 |
+| `regeling-macrobeheersinstrument-multidisciplinaire-zorg-2024` | Regeling macrobeheersinstrument multidisciplinaire zorg 2024 | 1 | 2024-01-01 to 2024-01-01 |
+| `regeling-macrobeheersinstrument-huisartsenzorg-2024` | Regeling macrobeheersinstrument huisartsenzorg 2024 | 1 | 2024-01-01 to 2024-01-01 |
+| `subsidieregeling-rechtsbijstand-en-aanverwante-kosten-tijdelijke-wet-groningen` | Subsidieregeling rechtsbijstand en aanverwante kosten Tijdelijke wet Groningen | 1 | 2026-01-22 to 2026-01-22 |
+| `beleidsregel-knelpuntenprocedure-budgettair-kader-wlz` | Beleidsregel knelpuntenprocedure budgettair kader Wlz | 1 | 2024-01-01 to 2024-01-01 |
+| `deelreglement-realisering-van-de-stichting-nederlands-fonds-voor-de-film-3` | Deelreglement Realisering van de Stichting Nederlands Fonds voor de Film | 1 | 2023-08-01 to 2023-08-01 |
+| `regeling-macrobeheersinstrument-verpleging-en-verzorging-2024` | Regeling macrobeheersinstrument verpleging en verzorging 2024 | 1 | 2024-01-01 to 2024-01-01 |
+| `beleidsregel-macrobeheersinstrument-verpleging-en-verzorging-2024` | Beleidsregel macrobeheersinstrument verpleging en verzorging 2024 | 1 | 2024-01-01 to 2024-01-01 |
+| `beleidsregel-brachycephale-honden` | Beleidsregel brachycephale honden | 1 | 2023-08-25 to 2023-08-25 |
+| `besluit-erkenning-4-5-systeemrisicobuffer-noorwegen-2023` | Besluit erkenning 4,5% systeemrisicobuffer Noorwegen 2023 | 1 | 2025-12-01 to 2025-12-01 |
+| `besluit-uwv-onderzoekssubsidie-niet-uitkeringsgerechtigden-met-een-arbeidsbeperking` | Besluit UWV Onderzoekssubsidie ’Niet-uitkeringsgerechtigden met een arbeidsbeperking’ | 1 | 2023-08-31 to 2023-08-31 |
+| `besluit-gedifferentieerde-premie-whk-2024` | Besluit gedifferentieerde premie Whk 2024 | 1 | 2024-01-01 to 2024-01-01 |
+| `besluit-vaststelling-bestanddelen-beeldenaar-munten-vijf-en-tien-euro-die-in-2023-worden-u` | Besluit vaststelling bestanddelen beeldenaar munten vijf en tien euro die in 2023 worden uitgegeven ter gelegenheid van de vijftigjarige erkenning van het COC | 1 | 2023-09-27 to 2023-09-27 |
+| `besluit-ontbinding-tweede-kamer-der-staten-generaal-2023` | Besluit ontbinding Tweede Kamer der Staten-Generaal 2023 | 1 | 2023-09-18 to 2023-09-18 |
+| `besluit-instelling-personeelsraadgever-cbs` | Besluit instelling Personeelsraadgever CBS | 1 | 2023-09-20 to 2023-09-20 |
+| `besluit-opleidings-en-examengeld-ba-1-maart-2024` | Besluit opleidings- en examengeld BA 1 maart 2024 | 1 | 2024-03-01 to 2024-03-01 |
+| `instellingsbesluit-adviescommissie-extra-uren-in-strafzaken` | Instellingsbesluit Adviescommissie extra uren in strafzaken | 1 | 2023-09-29 to 2023-09-29 |
+| `reglement-adviescommissie-extra-uren-in-strafzaken` | Reglement Adviescommissie extra uren in strafzaken | 1 | 2023-09-29 to 2023-09-29 |
+| `regeling-toelating-specifieke-groepen-leerlingen-tot-de-staatsexamens-vo` | Regeling toelating specifieke groepen leerlingen tot de staatsexamens vo | 1 | 2023-09-30 to 2023-09-30 |
+| `regeling-aanlevering-informatie-productiedata-medisch-specialistische-zorg` | Regeling aanlevering informatie productiedata medisch-specialistische zorg | 1 | 2023-10-01 to 2023-10-01 |
+| `beleidsregel-uitvoering-deel-associate-degree-opleiding-door-bve-instelling` | Beleidsregel uitvoering deel associate degree-opleiding door bve-instelling | 1 | 2026-08-01 to 2026-08-01 |
+| `beleidsregel-compensatie-eigenaren-en-gebruikers-stint` | Beleidsregel compensatie eigenaren en gebruikers Stint | 1 | 2023-10-03 to 2023-10-03 |
+| `besluit-vervanging-archiefbescheiden-zonmw-2023` | Besluit vervanging archiefbescheiden ZonMw 2023 | 1 | 2023-10-10 to 2023-10-10 |
+| `beleidsregel-voeren-van-verweer-in-procedures-bij-afdeling-bestuursrechtspraak-raad-van-st` | Beleidsregel voeren van verweer in procedures bij Afdeling Bestuursrechtspraak Raad van State (verzoek vergoeding immateriële schade wegens overschrijding redelijke termijn) | 1 | 2023-10-11 to 2023-10-11 |
+| `besluit-aanwijzing-als-verboden-plaats-van-ruimten-in-gebruik-bij-diensten-ex-artikel-91-w` | Besluit aanwijzing als verboden plaats van ruimten in gebruik bij diensten ex artikel 91 Wet op de inlichtingen- en veiligheidsdiensten 2017 | 1 | 2023-10-11 to 2023-10-11 |
+| `beleidsregel-overige-geneeskundige-zorg` | Beleidsregel overige geneeskundige zorg | 1 | 2024-01-01 to 2024-01-01 |
+| `deelregeling-meerjarige-festivalsubsidies-fonds-podiumkunsten-2025-2028` | Deelregeling meerjarige festivalsubsidies Fonds Podiumkunsten 2025-2028 | 1 | 2023-10-17 to 2023-10-17 |
+| `deelregeling-meerjarige-productiesubsidies-fonds-podiumkunsten-20252028` | Deelregeling meerjarige productiesubsidies Fonds Podiumkunsten 2025–2028 | 1 | 2023-10-17 to 2023-10-17 |
+| `beleidsregel-onregelmatigheden-centraal-examen-in-voortgezet-onderwijs-en-van-staatsexamen` | Beleidsregel onregelmatigheden centraal examen in voortgezet onderwijs en van staatsexamen 2023 | 1 | 2023-10-18 to 2023-10-18 |
+| `beleidsregels-risicoverevening-2024` | Beleidsregels risicoverevening 2024 | 1 | 2026-01-20 to 2026-01-20 |
+| `vaststelling-selectielijst-directoraat-generaal-douane-voor-de-periode-vanaf-2013-2023` | Vaststelling selectielijst directoraat-generaal Douane voor de periode vanaf (2013) 2023 | 1 | 2023-11-04 to 2023-11-04 |
+| `bestuursreglement-kamer-van-koophandel` | Bestuursreglement Kamer van Koophandel | 1 | 2023-11-04 to 2023-11-04 |
+| `instellingsbesluit-fast` | Instellingsbesluit FAST | 1 | 2023-10-02 to 2023-10-02 |
+| `bestuursreglement-bft-2022` | Bestuursreglement BFT 2022 | 1 | 2023-11-10 to 2023-11-10 |
+| `besluit-toekenning-standaard-aan-het-regiment-huzaren-prinses-catharina-amalia` | Besluit toekenning standaard aan het Regiment Huzaren Prinses Catharina-Amalia | 1 | 2023-11-09 to 2023-11-09 |
+| `reglement-hoorcommissie-bezwaarzaken-met-externe-voorzitter-2023` | Reglement hoorcommissie bezwaarzaken met externe voorzitter 2023 | 1 | 2023-11-01 to 2023-11-01 |
+| `m-v-besluit-ambtelijke-organisatie-eerste-kamer-der-staten-generaal-2023` | M&V-besluit Ambtelijke organisatie Eerste Kamer der Staten- Generaal 2023 | 1 | 2023-11-11 to 2023-11-11 |
+| `besluit-subsidieplafond-2024` | Besluit subsidieplafond 2024 | 1 | 2023-11-16 to 2023-11-16 |
+| `reglement-behandeling-bezwaarschriften-uwv-2024` | Reglement behandeling bezwaarschriften UWV 2024 | 1 | 2024-01-01 to 2024-01-01 |
+| `controlevoorschriften-akw` | Controlevoorschriften AKW | 1 | 2023-11-24 to 2023-11-24 |
+| `meerjarenregeling-talentontwikkeling-20252028-fonds-voor-cultuurparticipatie` | Meerjarenregeling Talentontwikkeling 2025–2028 Fonds voor Cultuurparticipatie | 1 | 2023-11-23 to 2023-11-23 |
+| `regeling-cultuureducatie-met-kwaliteit-20252028-fonds-voor-cultuurparticipatie` | Regeling Cultuureducatie met Kwaliteit 2025–2028 Fonds voor Cultuurparticipatie | 1 | 2023-11-23 to 2023-11-23 |
+| `controlevoorschriften-anw` | Controlevoorschriften Anw | 1 | 2023-11-24 to 2023-11-24 |
+| `meerjarenregeling-co-creatie-2025-2028-fonds-voor-cultuurparticipatie` | Meerjarenregeling Co-creatie 2025 – 2028 Fonds voor Cultuurparticipatie | 1 | 2023-11-23 to 2023-11-23 |
+| `controlevoorschriften-aow` | Controlevoorschriften AOW | 1 | 2023-11-24 to 2023-11-24 |
+| `beleidsregel-beschikbaarheidbijdrage-kapitaallasten-academische-zorg-20242043` | Beleidsregel beschikbaarheidbijdrage kapitaallasten academische zorg 2024–2043 | 1 | 2024-01-01 to 2024-01-01 |
+| `regeling-vierjarige-instellingssubsidie-creatieve-industrie-20252028` | Regeling Vierjarige instellingssubsidie creatieve industrie 2025–2028 | 1 | 2023-12-01 to 2023-12-01 |
+| `regeling-vierjarige-subsidies-literair-educatieve-organisaties-nederlands-letterenfonds-20` | Regeling vierjarige subsidies literair-educatieve organisaties Nederlands Letterenfonds 2025–2028 | 1 | 2023-12-01 to 2023-12-01 |
+| `regeling-vierjarige-subsidies-literaire-organisaties-nederlands-letterenfonds-20252028` | Regeling vierjarige subsidies literaire organisaties Nederlands Letterenfonds 2025–2028 | 1 | 2023-12-01 to 2023-12-01 |
+| `subsidiereglement-koninklijke-bibliotheek-2024` | Subsidiereglement Koninklijke Bibliotheek 2024 | 1 | 2023-12-05 to 2023-12-05 |
+| `besluit-premievaststelling-vrijwillige-verzekering-ziektewet-2024` | Besluit premievaststelling vrijwillige verzekering Ziektewet 2024 | 1 | 2024-01-01 to 2024-01-01 |
+| `besluit-premievaststelling-vrijwillige-verzekering-wia-2024` | Besluit premievaststelling vrijwillige verzekering WIA 2024 | 1 | 2024-01-01 to 2024-01-01 |
+| `besluit-premievaststelling-vrijwillige-verzekering-wao-2024` | Besluit premievaststelling vrijwillige verzekering WAO 2024 | 1 | 2024-01-01 to 2024-01-01 |
+| `besluit-premievaststelling-vrijwillige-werkloosheidsverzekering-2024` | Besluit premievaststelling vrijwillige werkloosheidsverzekering 2024 | 1 | 2024-01-01 to 2024-01-01 |
+| `regeling-financiele-ondersteuning-fracties-eerste-kamer-2023` | Regeling financiële ondersteuning fracties Eerste Kamer 2023 | 1 | 2026-07-08 to 2026-07-08 |
+| `tijdelijke-subsidieregels-samenwerking-belastingdienst-de-dienst-toeslagen-en-de-koninklij` | Tijdelijke subsidieregels samenwerking Belastingdienst, de Dienst Toeslagen en de Koninklijke Bibliotheek 2024–2027 | 1 | 2023-12-08 to 2023-12-08 |
+| `boetebeleidsregels-autoriteit-persoonsgegevens-2023` | Boetebeleidsregels Autoriteit Persoonsgegevens 2023 | 1 | 2023-12-12 to 2023-12-12 |
+| `vaststelling-selectielijst-ministerie-van-buitenlandse-zaken-voor-de-periode-vanaf-2015` | Vaststelling selectielijst Ministerie van Buitenlandse Zaken voor de periode vanaf 2015 | 1 | 2023-12-16 to 2023-12-16 |
+| `regeling-aanleveren-wachttijden-medisch-specialistische-zorg` | Regeling aanleveren wachttijden medisch-specialistische zorg | 1 | 2024-01-01 to 2024-01-01 |
+| `verstrekkings-en-gebruikersvoorwaarden-eucaris-2023` | Verstrekkings- en gebruikersvoorwaarden EUCARIS 2023 | 1 | 2024-01-01 to 2024-01-01 |
+| `beleidsregel-vergoeding-kosten-aardbevingsbestendige-industrie-groningen-2023` | Beleidsregel vergoeding kosten aardbevingsbestendige industrie Groningen 2023 | 1 | 2025-01-23 to 2025-01-23 |
+| `reglement-voor-de-gebruikersraad-kadaster-2023` | Reglement voor de gebruikersraad Kadaster 2023 | 1 | 2023-12-29 to 2023-12-29 |
+| `beleidsregel-handhavingsstrategie-omgevingsrecht-inspectie-leefomgeving-en-transport` | Beleidsregel Handhavingsstrategie Omgevingsrecht Inspectie Leefomgeving en Transport | 1 | 2024-01-01 to 2024-01-01 |
+| `beleidsregel-nadeelcompensatie-verleggen-kabels-en-leidingen-vanwege-rijkswaterstaatswerke` | Beleidsregel nadeelcompensatie verleggen kabels en leidingen vanwege rijkswaterstaatswerken, rijkswegen en hoofdspoorwegen 2024 | 1 | 2024-01-01 to 2024-01-01 |
+| `besluit-financiele-bijdrage-2024` | Besluit financiële bijdrage 2024 | 1 | 2024-01-01 to 2024-01-01 |
+| `beleidsregel-toepassing-en-beoordeling-lozingseisen-rijkswateren` | Beleidsregel toepassing en beoordeling lozingseisen rijkswateren | 1 | 2024-01-01 to 2024-01-01 |
+| `beleidsregel-wijziging-van-de-vergunningen-windenergie-op-zee-voor-kavels-alpha-en-beta-in` | Beleidsregel wijziging van de vergunningen windenergie op zee voor kavels Alpha en Beta in windenergiegebied IJmuiden Ver | 1 | 2023-12-30 to 2023-12-30 |
+| `besluit-vaststelling-subsidieplafonds-2024-stichting-nederlands-fonds-voor-de-film` | Besluit vaststelling Subsidieplafonds 2024 Stichting Nederlands Fonds voor de Film | 1 | 2024-09-16 to 2024-09-16 |
+| `beleidsregel-toelatingsprocedure-ctgb-2024` | Beleidsregel toelatingsprocedure Ctgb 2024 | 1 | 2024-01-01 to 2024-01-01 |
+| `beleidsregel-vergunningverlening-van-de-niwo` | Beleidsregel vergunningverlening van de NIWO | 1 | 2024-01-01 to 2024-01-01 |
+| `beleidsregel-evenredigheidstoets-en-sanctionering-bij-verlies-betrouwbaarheid-in-het-goede` | Beleidsregel evenredigheidstoets en sanctionering bij verlies betrouwbaarheid in het goederenvervoer over de weg | 1 | 2024-01-01 to 2024-01-01 |
+| `beleidsregel-toetsing-vergunningen-beroepsgoederenvervoer-over-de-weg-aan-de-wet-bibob` | Beleidsregel toetsing vergunningen beroepsgoederenvervoer over de weg aan de Wet Bibob | 1 | 2024-01-01 to 2024-01-01 |
+| `bestuursreglement-werkwijze-ctgb-2024` | Bestuursreglement werkwijze Ctgb 2024 | 1 | 2024-01-01 to 2024-01-01 |
+| `tarievenbesluit-2024-raad-voor-accreditatie` | Tarievenbesluit 2024 Raad voor Accreditatie | 1 | 2024-01-01 to 2024-01-01 |
+| `beleidsregel-toelatingsprocedure-ctgb-2024-2` | Beleidsregel toelatingsprocedure Ctgb 2024 | 1 | 2024-01-01 to 2024-01-01 |
+| `beleidsregel-experiment-zinnig-en-simpel-verantwoorden` | Beleidsregel experiment zinnig en simpel verantwoorden | 1 | 2024-01-01 to 2024-01-01 |
+| `besluit-werkgebieden-uwv-2024` | Besluit werkgebieden UWV 2024 | 1 | 2024-01-05 to 2024-01-05 |
+| `besluit-vaststelling-factoren-l-en-r-boekjaar-2024` | Besluit vaststelling factoren L en r boekjaar 2024 | 1 | 2024-01-05 to 2024-01-05 |
+| `beleidsregel-regionale-ambulancevoorzieningen-2023` | Beleidsregel regionale ambulancevoorzieningen 2023 | 1 | 2024-01-03 to 2024-01-03 |
+| `algemeen-interventiebeleid-nvwa-2024` | Algemeen interventiebeleid NVWA 2024 | 1 | 2024-01-13 to 2024-01-13 |
+| `beleidsregel-evenredigheidstoets-en-sanctionering-bij-verlies-betrouwbaarheid-busvervoer-2` | Beleidsregel evenredigheidstoets en sanctionering bij verlies betrouwbaarheid busvervoer 2024 | 1 | 2024-01-13 to 2024-01-13 |
+| `besluit-gedragscode-voor-tolken-en-vertalers-in-het-kader-van-de-wbtv` | Besluit gedragscode voor tolken en vertalers in het kader van de Wbtv | 1 | 2024-02-01 to 2024-02-01 |
+| `subsidieregeling-rechtsbijstand-en-mediation-wet-bescherming-klokkenluiders` | Subsidieregeling rechtsbijstand en mediation Wet bescherming klokkenluiders | 1 | 2024-08-01 to 2024-08-01 |
+| `besluit-vaststelling-aantal-tijdstippen-waarvan-in-de-omgevingswet-en-daarmee-verband-houd` | Besluit vaststelling aantal tijdstippen waarvan in de Omgevingswet en daarmee verband houdende wet- en regelgeving is aangegeven dat deze bij koninklijk besluit worden bepaald en vaststelling tijdstip inwerkingtreding artikel 2.8, onderdeel B, Invoeringswet Omgevingswet | 1 | 2023-09-01 to 2023-09-01 |
+| `besluit-vaststelling-selectielijst-ministerie-van-volksgezondheid-welzijn-en-sport` | Besluit vaststelling selectielijst Ministerie van Volksgezondheid, Welzijn en Sport | 1 | 2024-02-11 to 2024-02-11 |
+| `regeling-toegestane-hulpmiddelen-bij-centrale-examinering-mbo` | Regeling toegestane hulpmiddelen bij centrale examinering mbo | 1 | 2024-02-15 to 2024-02-15 |
+| `beleidsregel-resistentiebeleid-biociden` | Beleidsregel resistentiebeleid biociden | 1 | 2024-02-16 to 2024-02-16 |
+| `regeling-tot-vaststelling-van-het-controle-en-verantwoordingsprotocol-2023-centraal-orgaan` | Regeling tot vaststelling van het Controle en verantwoordingsprotocol 2023 Centraal Orgaan opvang asielzoekers | 1 | 2024-02-20 to 2024-02-20 |
+| `specifiek-interventiebeleid-vlees-ib01-spec-25-versie-01` | Specifiek interventiebeleid vlees (IB01-SPEC 25, versie 01) | 1 | 2024-03-02 to 2024-03-02 |
+| `beleidsregel-beoordeling-van-niet-in-de-eer-behaalde-bewijsstukken-in-het-voortgezet-onder` | Beleidsregel beoordeling van niet in de EER behaalde bewijsstukken in het voortgezet onderwijs | 1 | 2024-02-27 to 2024-02-27 |
+| `regeling-archiefbeheer-uwv-2023` | Regeling archiefbeheer UWV 2023 | 1 | 2024-03-08 to 2024-03-08 |
+| `verordening-commissie-bezwaarschriften-stimuleringsfonds-creatieve-industrie` | Verordening commissie bezwaarschriften Stimuleringsfonds Creatieve Industrie | 1 | 2024-03-08 to 2024-03-08 |
+| `verordening-commissie-bezwaarschriften-stimuleringsfonds-creatieve-industrie-2` | Verordening commissie bezwaarschriften Stimuleringsfonds Creatieve Industrie | 1 | 2024-03-08 to 2024-03-08 |
+| `beleidsregel-toezicht-covra-tarieven` | Beleidsregel toezicht COVRA-tarieven | 1 | 2024-03-12 to 2024-03-12 |
+| `controlevoorschriften-remigratiewet` | Controlevoorschriften Remigratiewet | 1 | 2024-03-14 to 2024-03-14 |
+| `regeling-tarieven-airport-coordination-netherlands-2024` | Regeling tarieven Airport Coordination Netherlands 2024 | 1 | 2024-03-15 to 2024-03-15 |
+| `regeling-immerse-interact` | Regeling Immerse\Interact | 1 | 2024-03-01 to 2024-03-01 |
+| `beleidsregel-schadeafhandeling-tijdelijke-wet-groningen` | Beleidsregel schadeafhandeling Tijdelijke wet Groningen | 1 | 2026-01-14 to 2026-01-14 |
+| `regeling-controle-en-administratie-wlz-uitvoerder` | Regeling Controle en administratie Wlz-uitvoerder | 1 | 2024-04-05 to 2024-04-05 |
+| `regeling-informatieverstrekking-aanmelding-en-wijzigingen-wlz-uitvoerderschap` | Regeling informatieverstrekking aanmelding en wijzigingen Wlz-uitvoerderschap | 1 | 2024-04-05 to 2024-04-05 |
+| `besluit-vaststelling-bestanddelen-beeldenaar-munten-vijf-en-tien-euro-ter-gelegenheid-van-9` | Besluit vaststelling bestanddelen beeldenaar munten vijf en tien euro ter gelegenheid van 200-jarig bestaan KNRM | 1 | 2024-04-25 to 2024-04-25 |
+| `regeling-subsidievoorwaarden-rechts-en-wetswinkels-2024` | Regeling subsidievoorwaarden rechts- en wetswinkels 2024 | 1 | 2024-04-16 to 2024-04-16 |
+| `subsidieregeling-werkzaamheden-ten-behoeve-van-rechtsbijstand-in-locaties-voor-wijkrechtsp` | Subsidieregeling werkzaamheden ten behoeve van rechtsbijstand in locaties voor Wijkrechtspraak 2024–2026 | 1 | 2026-01-01 to 2026-01-01 |
+| `tijdelijke-subsidieregels-certificering-taalhuizen-koninklijke-bibliotheek-20242027` | Tijdelijke subsidieregels Certificering Taalhuizen Koninklijke Bibliotheek 2024–2027 | 1 | 2024-04-01 to 2024-04-01 |
+| `protocol-voorzieningen-uwv-2024` | Protocol Voorzieningen UWV 2024 | 1 | 2024-04-19 to 2024-04-19 |
+| `beleidsregel-experiment-teambevoegdheid-10-14-onderwijs-2024-2029` | Beleidsregel experiment teambevoegdheid 10-14-onderwijs 2024-2029 | 1 | 2024-08-01 to 2024-08-01 |
+| `besluit-beperking-openbaarheid-mh17-archief-uitvoeringsinstituut-werknemersverzekeringen` | Besluit beperking openbaarheid MH17-archief Uitvoeringsinstituut Werknemersverzekeringen | 1 | 2024-04-26 to 2024-04-26 |
+| `besluit-wijziging-tariefstructuren-en-voorwaarden-ex-artikelen-12a-en-12b-gaswet-uitvoerin` | Besluit wijziging tariefstructuren en voorwaarden ex artikelen 12a en 12b Gaswet (uitvoering Verordening (EU) 2017/460 tot vaststelling van een netcode betreffende geharmoniseerde transmissietariefstructuren voor gas (NC-TAR)) | 1 | 2024-04-26 to 2024-04-26 |
+| `besluit-adviescommissie-bezwaarschriften-kansspelautoriteit-2024` | Besluit Adviescommissie bezwaarschriften Kansspelautoriteit 2024 | 1 | 2024-05-02 to 2024-05-02 |
+| `beleidsregel-verzoekcertificering-herkauwers-en-varkens-in-het-kader-van-export-naar-derde` | Beleidsregel verzoekcertificering herkauwers en varkens in het kader van export naar derde landen | 1 | 2024-05-02 to 2024-05-02 |
+| `regeling-volmacht-personele-aangelegenheden-cbr-2024` | Regeling volmacht personele aangelegenheden CBR 2024 | 1 | 2024-05-04 to 2024-05-04 |
+| `besluit-vaststelling-selectielijst-koninklijke-nederlandsche-maatschappij-tot-bevordering` | Besluit vaststelling selectielijst Koninklijke Nederlandsche Maatschappij tot bevordering der Geneeskunst | 1 | 2024-05-05 to 2024-05-05 |
+| `beleidsregel-orientatieprogramma-mbo` | Beleidsregel oriëntatieprogramma mbo | 1 | 2026-08-01 to 2026-08-01 |
+| `besluit-instelling-en-benoeming-adviescollege-huis-en-hobbydierenlijst-2023` | Besluit instelling en benoeming Adviescollege huis- en hobbydierenlijst 2023 | 1 | 2025-07-10 to 2025-07-10 |
+| `besluit-beheer-documentaire-informatie-sociaal-economische-raad` | Besluit Beheer Documentaire Informatie Sociaal-Economische Raad | 1 | 2024-05-08 to 2024-05-08 |
+| `besluit-tijdvakken-centrale-examinering-mbo-studiejaar-20252026` | Besluit Tijdvakken centrale examinering mbo, studiejaar 2025–2026 | 1 | 2024-05-08 to 2024-05-08 |
+| `besluit-vervanging-documenten-v-o-2024` | Besluit vervanging documenten V&O 2024 | 1 | 2024-05-09 to 2024-05-09 |
+| `beleidsregel-experiment-patientengroepsgebonden-afstemming-binnen-zvw-verzekerde-zorg` | Beleidsregel experiment patiëntengroepsgebonden afstemming binnen Zvw-verzekerde zorg | 1 | 2024-05-11 to 2024-05-11 |
+| `besluit-opleidings-en-examengeld-ba-1-september-2024` | Besluit opleidings- en examengeld BA 1 september 2024 | 1 | 2024-09-01 to 2024-09-01 |
+| `besluit-tot-vaststelling-van-de-prijs-van-de-basistest-ba-2024` | Besluit tot vaststelling van de prijs van de basistest BA 2024 | 1 | 2024-05-22 to 2024-05-22 |
+| `tijdelijke-beleidsregel-maximumprijzen-geneesmiddelen-2024` | Tijdelijke beleidsregel maximumprijzen geneesmiddelen 2024 | 1 | 2024-07-01 to 2024-07-01 |
+| `beleidsregel-aanwijzing-nationale-parken-20242030` | Beleidsregel aanwijzing Nationale Parken 2024–2030 | 1 | 2024-05-23 to 2024-05-23 |
+| `archiefbeheersregeling-acm-2024` | Archiefbeheersregeling ACM 2024 | 1 | 2024-05-24 to 2024-05-24 |
+| `regeling-lokale-omroepen-20242025` | Regeling lokale omroepen 2024–2025 | 1 | 2024-09-04 to 2024-09-04 |
+| `bestuursreglement-acm-2024` | Bestuursreglement ACM 2024 | 1 | 2024-05-29 to 2024-05-29 |
+| `reglement-raad-van-advies-raad-voor-rechtsbijstand-2024` | Reglement Raad van Advies Raad voor Rechtsbijstand 2024 | 1 | 2024-06-04 to 2024-06-04 |
+| `mandaatbesluit-woo-en-who-tweede-kamer` | Mandaatbesluit Woo en Who Tweede Kamer | 1 | 2024-06-06 to 2024-06-06 |
+| `beleidsregel-verantwoord-spelen-2024` | Beleidsregel verantwoord spelen 2024 | 1 | 2024-10-01 to 2024-10-01 |
+| `besluit-vervanging-svb-2024` | Besluit Vervanging SVB 2024 | 1 | 2024-06-07 to 2024-06-07 |
+| `tarievenbesluit-ctgb-aanpassing-per-1-juli-2024` | Tarievenbesluit Ctgb aanpassing per 1 juli 2024 | 1 | 2024-07-01 to 2024-07-01 |
+| `instellingsbesluit-staatscommissie-demografische-ontwikkelingen-caribisch-nederland-2050` | Instellingsbesluit staatscommissie demografische ontwikkelingen Caribisch Nederland 2050 | 1 | 2024-06-11 to 2024-06-11 |
+| `beleidsregel-werkgeversrapportage-onderzoek-arbeidsongevallen` | Beleidsregel werkgeversrapportage onderzoek arbeidsongevallen | 1 | 2024-06-14 to 2024-06-14 |
+| `regeling-vrijgave-real-time-gnss-data` | Regeling vrijgave real-time GNSS-data | 1 | 2024-07-01 to 2024-07-01 |
+| `beleidsregel-beheerder-bedrijfscampus-in-de-zin-van-de-wet-veiligheidstoets-investeringen` | Beleidsregel beheerder bedrijfscampus in de zin van de Wet veiligheidstoets investeringen, fusies en overnames | 1 | 2024-06-19 to 2024-06-19 |
+| `beleidsregels-regeling-gevelisolatie-schiphol-2023` | Beleidsregels Regeling gevelisolatie Schiphol 2023 | 1 | 2024-06-22 to 2024-06-22 |
+| `beleidsregel-experiment-inclusieve-leeromgeving-2024` | Beleidsregel experiment inclusieve leeromgeving 2024 | 1 | 2024-06-22 to 2024-06-22 |
+| `beleidsregel-bestuurlijke-boete-nederlandse-emissieautoriteit-2024` | Beleidsregel bestuurlijke boete Nederlandse Emissieautoriteit 2024 | 1 | 2024-07-01 to 2024-07-01 |
+| `besluit-buitenwerkingstelling-artikelen-2c-en-4-van-de-wet-verplaatsing-bevolking` | Besluit buitenwerkingstelling artikelen 2c en 4 van de Wet verplaatsing bevolking | 1 | 2024-06-27 to 2024-06-27 |
+| `beleidsregel-verdeelbesluiten` | Beleidsregel verdeelbesluiten | 1 | 2024-07-02 to 2024-07-02 |
+| `beleidsregel-bewaartermijn-persoonsgegevens-kinderpornografisch-materiaal-atkm-2024` | Beleidsregel bewaartermijn persoonsgegevens kinderpornografisch materiaal ATKM 2024 | 1 | 2024-07-01 to 2024-07-01 |
+| `gewijzigde-tijdelijke-subsidieregels-aangepast-lezen-20232026` | Gewijzigde tijdelijke subsidieregels Aangepast Lezen 2023–2026 | 1 | 2024-07-05 to 2024-07-05 |
+| `regeling-financiele-ondersteuning-fracties-en-groepen-tweede-kamer-2023` | Regeling financiële ondersteuning fracties en groepen Tweede Kamer 2023 | 1 | 2024-07-01 to 2024-07-01 |
+| `beleidsregels-teboekstelling-priveschepen-en-luchtvaartuigen-bes` | Beleidsregels teboekstelling privéschepen en luchtvaartuigen BES | 1 | 2024-07-05 to 2024-07-05 |
+| `subsidieplafondbesluit-projectsubsidies-doorontwikkeling-aangepast-lezen-ter-zake-verbrede-2` | Subsidieplafondbesluit Projectsubsidies doorontwikkeling Aangepast Lezen ter zake ‘Verbreden en borgen methodiek Leesplezier voor kinderen met een leesprobleem, in het kader van de Bibliotheek op school’, Koninklijke Bibliotheek 2025 | 1 | 2024-07-05 to 2024-07-05 |
+| `besluit-projectsubsidies-verbreden-en-borgen-methodiek-leesplezier-voor-kinderen-met-een-l-2` | Besluit projectsubsidies ‘Verbreden en borgen methodiek Leesplezier voor kinderen met een leesprobleem in het kader van de Bibliotheek op school’, Koninklijke Bibliotheek 2025 | 1 | 2024-07-05 to 2024-07-05 |
+| `subsidieplafondbesluit-aangepast-lezen-instellingssubsidies-2025-koninklijke-bibliotheek` | Subsidieplafondbesluit Aangepast Lezen Instellingssubsidies 2025, Koninklijke Bibliotheek | 1 | 2024-07-05 to 2024-07-05 |
+| `besluit-instelling-ministerie-van-asiel-en-migratie` | Besluit instelling Ministerie van Asiel en Migratie | 1 | 2024-07-06 to 2024-07-06 |
+| `besluit-instelling-ministerie-van-klimaat-en-groene-groei` | Besluit instelling Ministerie van Klimaat en Groene Groei | 1 | 2024-07-06 to 2024-07-06 |
+| `besluit-instelling-ministerie-van-volkshuisvesting-en-ruimtelijke-ordening` | Besluit instelling Ministerie van Volkshuisvesting en Ruimtelijke Ordening | 1 | 2024-07-06 to 2024-07-06 |
+| `besluit-departementale-herindelingen-inburgering-en-hersteloperatie-groningen` | Besluit departementale herindelingen inburgering en hersteloperatie Groningen | 1 | 2024-07-06 to 2024-07-06 |
+| `regeling-klachtbehandeling-door-de-kansspelautoriteit` | Regeling klachtbehandeling door de Kansspelautoriteit | 1 | 2024-07-09 to 2024-07-09 |
+| `besluit-vaststelling-en-inwerkingtreding-selectielijst-van-de-tweede-kamer-der-staten-gene` | Besluit vaststelling en inwerkingtreding Selectielijst van de Tweede Kamer der Staten-Generaal vanaf 5 mei 1945 | 1 | 2024-07-06 to 2024-07-06 |
+| `regeling-activiteitenprogrammas-creatieve-industrie` | Regeling Activiteitenprogramma’s creatieve industrie | 1 | 2024-07-10 to 2024-07-10 |
+| `beleid-procesrecht-herstel-toeslagen` | Beleid procesrecht herstel toeslagen | 1 | 2024-07-10 to 2024-07-10 |
+| `regeling-syllabi-centrale-examens-vo-2026` | Regeling syllabi centrale examens vo 2026 | 1 | 2026-01-01 to 2026-01-01 |
+| `rooster-voor-de-centrale-examens-voortgezet-onderwijs-in-2026` | Rooster voor de centrale examens voortgezet onderwijs in 2026 | 1 | 2026-03-14 to 2026-03-14 |
+| `regeling-makers-buiten-het-boek` | Regeling Makers buiten het boek | 1 | 2025-11-26 to 2025-11-26 |
+| `beleidsregel-financiele-nood-als-gevolg-van-de-wateroverlast-in-juli-2021` | Beleidsregel financiële nood als gevolg van de wateroverlast in juli 2021 | 1 | 2024-09-01 to 2024-09-01 |
+| `regeling-toegestane-hulpmiddelen-voor-de-centrale-examens-vo-2026` | Regeling toegestane hulpmiddelen voor de centrale examens vo 2026 | 1 | 2025-08-01 to 2025-08-01 |
+| `regeling-literaire-tijdschriften-20252028` | Regeling literaire tijdschriften 2025–2028 | 1 | 2024-07-16 to 2024-07-16 |
+| `besluit-gedifferentieerde-premie-whk-2025` | Besluit gedifferentieerde premie Whk 2025 | 1 | 2025-01-01 to 2025-01-01 |
+| `regeling-transparantie-zorgaanbieders` | Regeling transparantie zorgaanbieders | 1 | 2024-09-01 to 2024-09-01 |
+| `beleidsregel-experiment-deelname-ggz-aan-verkennend-gesprek` | Beleidsregel experiment deelname ggz aan verkennend gesprek | 1 | 2025-01-01 to 2025-01-01 |
+| `beleidsregel-wet-zorg-en-dwang` | Beleidsregel Wet zorg en dwang | 1 | 2025-01-01 to 2025-01-01 |
+| `regeling-macrobeheersinstrument-multidisciplinaire-zorg-2025` | Regeling macrobeheersinstrument multidisciplinaire zorg 2025 | 1 | 2025-01-01 to 2025-01-01 |
+| `beleidsregel-macrobeheersinstrument-huisartsenzorg-2025` | Beleidsregel macrobeheersinstrument huisartsenzorg 2025 | 1 | 2025-01-01 to 2025-01-01 |
+| `beleidsregel-bekostigingscyclus-wlz-2025` | Beleidsregel bekostigingscyclus Wlz 2025 | 1 | 2025-01-01 to 2025-01-01 |
+| `beleidsregel-jeugdtandverzorging-instellingen` | Beleidsregel jeugdtandverzorging instellingen | 1 | 2025-01-01 to 2025-01-01 |
+| `regeling-macrobeheersinstrument-kortdurende-zorg-2025` | Regeling macrobeheersinstrument kortdurende zorg 2025 | 1 | 2025-01-01 to 2025-01-01 |
+| `beleidsregel-macrobeheersinstrument-kortdurende-zorg-2025` | Beleidsregel macrobeheersinstrument kortdurende zorg 2025 | 1 | 2025-01-01 to 2025-01-01 |
+| `beleidsregel-ketenaanpak-zorg-en-ondersteuning-voor-kinderen-met-overgewicht-en-obesitas` | Beleidsregel ketenaanpak zorg en ondersteuning voor kinderen met overgewicht en obesitas | 1 | 2025-01-01 to 2025-01-01 |
+| `besluit-sluiten-aanvraagtermijn-inhuldigingsmedaille-en-herinneringsmedaille-bezoek-aan-he` | Besluit sluiten aanvraagtermijn Inhuldigingsmedaille en Herinneringsmedaille bezoek aan het Caribisch deel van het Koninkrijk 2013 | 1 | 2024-07-20 to 2024-07-20 |
+| `coa-klachtenregeling-voor-de-htl` | COA klachtenregeling voor de htl | 1 | 2024-07-19 to 2024-07-19 |
+| `beleidsregel-erkennings-en-intrekkingskader-uitvoering-persoonlijke-ondersteuning-uwv-2024` | Beleidsregel Erkennings- en intrekkingskader uitvoering persoonlijke ondersteuning UWV 2024 | 1 | 2024-07-20 to 2024-07-20 |
+| `besluit-wijziging-subsidieplafonds-categorieen-i-en-iii-ex-deelregeling-meerjarige-product` | Besluit wijziging subsidieplafonds categorieën I en III ex Deelregeling meerjarige productiesubsidies Fonds Podiumkunsten 2025–2028 (verdeling flexibele budget en volledige honorering van enkele dossiers) | 1 | 2024-07-01 to 2024-07-01 |
+| `besluit-wijziging-subsidieplafonds-programmeringsbijdrage-voor-festivals-ex-deelregeling-m` | Besluit wijziging subsidieplafonds programmeringsbijdrage voor festivals ex Deelregeling meerjarige festivalsubsidies Fonds Podiumkunsten 2025–2028 herverdeling resterend budget | 1 | 2024-07-01 to 2024-07-01 |
+| `pilotregeling-leesbevordering-nederlands-letterenfonds` | Pilotregeling Leesbevordering Nederlands Letterenfonds | 1 | 2024-07-23 to 2024-07-23 |
+| `besluit-medaille-voor-hulpverlening-en-bijstand-bij-crisis-rampen-en-grootschalige-inciden` | Besluit medaille voor hulpverlening en bijstand bij crisis rampen en grootschalige incidenten | 1 | 2024-07-24 to 2024-07-24 |
+| `regeling-risicoindicatoren-bijdragen-depositogarantiestelsel-wft-2` | Regeling risicoindicatoren bijdragen depositogarantiestelsel Wft | 1 | 2024-09-01 to 2024-09-01 |
+| `besluit-wijziging-subsidieplafonds-categorieen-i-en-iii-ex-deelregeling-meerjarige-product-2` | Besluit wijziging subsidieplafonds categorieën I en III ex Deelregeling meerjarige productiesubsidies Fonds Podiumkunsten 2025–2028 (verdeling flexibele budget en volledige honorering van enkele dossiers) | 1 | 2024-07-01 to 2024-07-01 |
+| `besluit-wijziging-subsidieplafonds-programmeringsbijdrage-voor-festivals-ex-deelregeling-m-2` | Besluit wijziging subsidieplafonds programmeringsbijdrage voor festivals ex Deelregeling meerjarige festivalsubsidies Fonds Podiumkunsten 2025–2028 herverdeling resterend budget | 1 | 2024-07-01 to 2024-07-01 |
+| `regeling-aangepaste-wijze-of-vorm-van-examineren-centrale-examens-mbo-2024` | Regeling aangepaste wijze of vorm van examineren centrale examens mbo 2024 | 1 | 2024-08-01 to 2024-08-01 |
+| `beleidsregel-macrobeheersinstrument-verpleging-en-verzorging-2025` | Beleidsregel macrobeheersinstrument verpleging en verzorging 2025 | 1 | 2025-01-01 to 2025-01-01 |
+| `regeling-macrobeheersinstrument-verpleging-en-verzorging-2025` | Regeling macrobeheersinstrument verpleging en verzorging 2025 | 1 | 2025-01-01 to 2025-01-01 |
+| `besluit-zevende-verlenging-samenwerkingsregeling-waarborging-plannen-van-aanpak-landstaken` | Besluit zevende verlenging Samenwerkingsregeling waarborging plannen van aanpak landstaken Curaçao en Sint Maarten | 1 | 2024-10-10 to 2024-10-10 |
+| `acm-werkwijze-geheimhoudingsprivilege-advocaat-2024` | ACM Werkwijze geheimhoudingsprivilege advocaat 2024 | 1 | 2024-08-09 to 2024-08-09 |
+| `instellingsbesluit-wetenschappelijke-kwaliteitsraad-kenniscentrum-stelsel-gesubsidieerde-r` | Instellingsbesluit Wetenschappelijke Kwaliteitsraad Kenniscentrum Stelsel Gesubsidieerde Rechtsbijstand | 1 | 2024-08-20 to 2024-08-20 |
+| `reglement-kenniscentrum-stelsel-gesubsidieerde-rechtsbijstand` | Reglement Kenniscentrum Stelsel Gesubsidieerde Rechtsbijstand | 1 | 2024-08-20 to 2024-08-20 |
+| `besluit-vaststelling-samenstelling-wetenschappelijke-kwaliteitsraad` | Besluit vaststelling samenstelling Wetenschappelijke Kwaliteitsraad | 1 | 2024-08-20 to 2024-08-20 |
+| `instellingsbesluit-adviescommissie-extra-uren-civiele-en-bestuurszaken` | Instellingsbesluit Adviescommissie extra uren civiele- en bestuurszaken | 1 | 2024-08-20 to 2024-08-20 |
+| `besluit-vaststelling-samenstelling-programmaraad-kenniscentrum-stelsel-gesubsidieerde-rech` | Besluit vaststelling samenstelling Programmaraad Kenniscentrum Stelsel Gesubsidieerde Rechtsbijstand | 1 | 2024-08-20 to 2024-08-20 |
+| `reglement-programmaraad-kenniscentrum-stelsel-gesubsidieerde-rechtsbijstand` | Reglement Programmaraad Kenniscentrum Stelsel Gesubsidieerde Rechtsbijstand | 1 | 2024-08-20 to 2024-08-20 |
+| `instellingsbesluit-programmaraad-kenniscentrum-stelsel-gesubsidieerde-rechtsbijstand` | Instellingsbesluit Programmaraad Kenniscentrum Stelsel Gesubsidieerde Rechtsbijstand | 1 | 2024-08-20 to 2024-08-20 |
+| `reglement-adviescommissie-extra-uren-in-civiele-en-bestuurszaken` | Reglement Adviescommissie extra uren in civiele- en bestuurszaken | 1 | 2024-08-20 to 2024-08-20 |
+| `reglement-wetenschappelijke-kwaliteitsraad-kenniscentrum-stelsel-gesubsidieerde-rechtsbijs` | Reglement Wetenschappelijke Kwaliteitsraad Kenniscentrum Stelsel Gesubsidieerde Rechtsbijstand | 1 | 2024-08-20 to 2024-08-20 |
+| `regeling-rapportageverplichtingen-2024` | Regeling rapportageverplichtingen 2024 | 1 | 2025-01-01 to 2025-01-01 |
+| `beleidsregel-universiteiten-in-het-koninkrijk-der-nederlanden` | Beleidsregel Universiteiten in het Koninkrijk der Nederlanden | 1 | 2024-08-31 to 2024-08-31 |
+| `beleidsregel-bestuursrechtelijke-handhaving-wet-minimumloon-en-minimumvakantiebijslag-2024` | Beleidsregel bestuursrechtelijke handhaving Wet minimumloon en minimumvakantiebijslag 2024 | 1 | 2024-09-07 to 2024-09-07 |
+| `regeling-literatuur-caribe` | Regeling Literatuur Caribe | 1 | 2024-09-11 to 2024-09-11 |
+| `beleidsregel-uitgifte-van-abonnee-informatienummers-2024` | Beleidsregel uitgifte van abonnee-informatienummers 2024 | 1 | 2024-09-13 to 2024-09-13 |
+| `besluit-beperking-openbaarheid-restarchief-centraal-bureau-van-bijstand` | Besluit beperking openbaarheid restarchief Centraal Bureau van Bijstand | 1 | 2024-09-17 to 2024-09-17 |
+| `vervangingsbesluit-papieren-archiefbescheiden-lvnl-2024` | Vervangingsbesluit papieren archiefbescheiden LVNL 2024 | 1 | 2024-09-18 to 2024-09-18 |
+| `beleidsregel-vergunningverlening-waterkrachtcentrales-in-rijkswateren-2024` | Beleidsregel vergunningverlening waterkrachtcentrales in rijkswateren 2024 | 1 | 2024-10-01 to 2024-10-01 |
+| `regeling-innovatie-voor-kleinschalige-experimenten` | Regeling innovatie voor kleinschalige experimenten | 1 | 2025-01-01 to 2025-01-01 |
+| `regeling-ruimte-voor-onderzoeksjournalistiek-20242025` | Regeling Ruimte voor Onderzoeksjournalistiek 2024–2025 | 1 | 2024-09-20 to 2024-09-20 |
+| `beleidsregel-innovatie-voor-kleinschalige-experimenten` | Beleidsregel innovatie voor kleinschalige experimenten | 1 | 2025-01-01 to 2025-01-01 |
+| `beleidsregel-onderzoekskader-sbb-2024` | Beleidsregel onderzoekskader SBB 2024 | 1 | 2024-10-01 to 2024-10-01 |
+| `beleidsregel-niet-verschuldigd-zijn-van-wettelijke-rente-bij-betalingsregelingen-ex-ocw-re` | Beleidsregel niet verschuldigd zijn van wettelijke rente bij betalingsregelingen ex OCW-regelgeving | 1 | 2024-10-03 to 2024-10-03 |
+| `beleidsregel-gevolmachtigde-zilveren-kruis-zorgkantoor` | Beleidsregel gevolmachtigde Zilveren Kruis Zorgkantoor | 1 | 2024-10-01 to 2024-10-01 |
+| `beleidsregel-gevolmachtigde-menzis-zorgkantoor` | Beleidsregel gevolmachtigde Menzis Zorgkantoor | 1 | 2024-10-01 to 2024-10-01 |
+| `beleidsregel-gevolmachtigde-vgz-zorgkantoor` | Beleidsregel gevolmachtigde VGZ Zorgkantoor | 1 | 2024-10-01 to 2024-10-01 |
+| `beleidsregel-gevolmachtigde-stichting-wlz-uitvoerder-zorg-en-zekerheid` | Beleidsregel gevolmachtigde Stichting Wlz-uitvoerder Zorg en Zekerheid | 1 | 2024-10-01 to 2024-10-01 |
+| `beleidsregel-gevolmachtigde-cz-zorgkantoor` | Beleidsregel gevolmachtigde CZ Zorgkantoor | 1 | 2024-10-01 to 2024-10-01 |
+| `beleidsregel-gevolmachtigde-salland-zorgkantoor` | Beleidsregel gevolmachtigde Salland Zorgkantoor | 1 | 2024-10-01 to 2024-10-01 |
+| `beleidsregel-gevolmachtigde-zorgkantoor-dsw` | Beleidsregel gevolmachtigde Zorgkantoor DSW | 1 | 2024-10-01 to 2024-10-01 |
+| `gewijzigde-beleidsregel-beschikbaarheidbijdrage-medische-vervolgopleidingen-2023` | Gewijzigde Beleidsregel beschikbaarheidbijdrage (medische) vervolgopleidingen 2023 | 1 | 2024-10-03 to 2024-10-03 |
+| `besluit-vaststelling-bestanddelen-munten-van-vijf-en-tien-euro-die-in-2024-worden-uitgegev` | Besluit vaststelling bestanddelen munten van vijf en tien euro die in 2024 worden uitgegeven ter gelegenheid van het 750-jarig bestaan van Amsterdam | 1 | 2024-10-27 to 2024-10-27 |
+| `besluit-mandaat-volmacht-en-machtiging-ambtelijke-organisatie-tweede-kamer-der-staten-gene` | Besluit mandaat, volmacht en machtiging ambtelijke organisatie Tweede Kamer der Staten-Generaal 2024 | 1 | 2024-10-01 to 2024-10-01 |
+| `beheerregeling-di-ksa-2024` | Beheerregeling DI Ksa 2024 | 1 | 2024-10-09 to 2024-10-09 |
+| `besluit-aanmeldprocedure-staatsexamen-nt2-2026` | Besluit Aanmeldprocedure Staatsexamen Nt2 2026 | 1 | 2025-10-01 to 2025-10-01 |
+| `beleidsregel-aanwijzingsprocedure-regionale-publieke-media-instellingen-2024` | Beleidsregel aanwijzingsprocedure regionale publieke media-instellingen 2024 | 1 | 2024-10-10 to 2024-10-10 |
+| `besluit-instelling-bedrijfscommissie-voor-de-marktsector` | Besluit instelling Bedrijfscommissie voor de marktsector | 1 | 2025-01-01 to 2025-01-01 |
+| `beleidsregel-kostprijsonderzoek-mondzorg-bronjaar-2023-ten-behoeve-van-de-tarieven-tandhee` | Beleidsregel kostprijsonderzoek mondzorg (bronjaar 2023), ten behoeve van de tarieven tandheelkundige- en orthodontische zorg 2026 | 1 | 2024-10-12 to 2024-10-12 |
+| `verordening-op-de-bedrijfscommissies-2024` | Verordening op de bedrijfscommissies 2024 | 1 | 2026-01-31 to 2026-01-31 |
+| `regeling-toevoeging-bewindvoerders-wsnp-iii` | Regeling toevoeging bewindvoerders Wsnp III | 1 | 2024-11-01 to 2024-11-01 |
+| `beleidsregel-aanwijzing-gedragscodes-soortenbescherming-en-houtopstanden` | Beleidsregel aanwijzing gedragscodes soortenbescherming en houtopstanden | 1 | 2024-10-17 to 2024-10-17 |
 | `belastingwet-bes` | Belastingwet BES | 1 | 2026-04-11 to 2026-04-11 |
 | `tno-wet` | TNO-wet | 1 | 2022-05-01 to 2022-05-01 |
 | `wet-op-de-internationale-bijstandsverlening-bij-de-heffing-van-belastingen` | Wet op de internationale bijstandsverlening bij de heffing van belastingen | 1 | 2026-04-11 to 2026-04-11 |
@@ -19302,11 +19801,11 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `besluit-regiem-voor-militairen-die-voorlopig-arrest-resp-gevangenisstraf-hechtenis-of-mili` | Besluit regiem voor militairen, die voorlopig arrest, resp. gevangenisstraf, hechtenis of militaire detentie ondergaan | 1 | 2008-12-17 to 2008-12-17 |
 | `besluit-aanwijzing-medebetrokken-ministers-wet-agrarisch-grondverkeer` | Besluit aanwijzing medebetrokken ministers Wet agrarisch grondverkeer | 1 | 2012-12-07 to 2012-12-07 |
 
-The build made 29008 commits:
+The build made 29505 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 19128 | first version of an act |
+| 19625 | first version of an act |
 | 8906 | one law on its in-force day |
 | 974 | changes no amendment note explains, credited to the publisher |
 
@@ -19314,7 +19813,7 @@ Other counts:
 - 0 commits on the branch `toekomst`: laws not yet in force on 2026-11-03.
 - 147 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 5544 laws in the record.
-- 37468 tags.
+- 37965 tags.
 
 ## Dates
 
@@ -19326,7 +19825,7 @@ When a law gives no date of its own, the default rule applies: Bekendmakingswet 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `13493b63d407ecf8fc90e0afff9fff2b8f1e23bcf6cbe47d8e7e25d0a074662a` (347681494 bytes).
+- Corpus: sha256 `015a367c425e2910861d235c32ebd10de091c3bb4a1ef4adf8c783167abc3e3e` (352680240 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `5d0eabdf207e7a114e8dbc8112ed3b044537b711`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -19698,6 +20197,9 @@ No second build of this corpus has been compared yet.
 - Current text only (breadth first, Alan 2026-11-02): 496 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
 - A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
 - An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
+- Current text only (breadth first, Alan 2026-11-02): 497 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
+- A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
 - Current text only (breadth first, Alan 2026-11-02): 496 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
 - A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
 - An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
@@ -19766,6 +20268,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none: no model wrote, summarised or classified any text in this corpus. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).

@@ -158842,5 +158842,917 @@
   "part": "bwb-now-rest-008",
   "current_label": "2026-01-01_0",
   "as_of": "2026-11-03"
+ },
+ "aanwijzingsbesluit-elektronische-kanalen-autoriteit-persoonsgegevens-2026": {
+  "bwb": "BWBR0052016",
+  "short": "Aanwijzingsbesluit elektronische kanalen Autoriteit Persoonsgegevens 2026",
+  "title": "Aanwijzingsbesluit elektronische kanalen Autoriteit Persoonsgegevens 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "organisatiebesluit-dienst-van-de-huurcommissie-2024": {
+  "bwb": "BWBR0052017",
+  "short": "Organisatiebesluit dienst van de huurcommissie 2024",
+  "title": "Organisatiebesluit dienst van de huurcommissie 2024",
+  "part": "bwb-now-rest-008",
+  "current_label": "2025-12-23_0",
+  "as_of": "2026-11-03"
+ },
+ "beleidsregel-aanwijzingsprocedure-lokale-publieke-media-instellingen-2025": {
+  "bwb": "BWBR0052024",
+  "short": "Beleidsregel aanwijzingsprocedure lokale publieke media-instellingen 2025",
+  "title": "Beleidsregel aanwijzingsprocedure lokale publieke media-instellingen 2025",
+  "part": "bwb-now-rest-008",
+  "current_label": "2025-12-25_0",
+  "as_of": "2026-11-03"
+ },
+ "beleidsregel-duurzaam-herstel-2026": {
+  "bwb": "BWBR0052030",
+  "short": "Beleidsregel duurzaam herstel 2026",
+  "title": "Beleidsregel duurzaam herstel 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "acm-beleidsregel-ontheffingen-codes-voor-gas-en-elektriciteit": {
+  "bwb": "BWBR0052032",
+  "short": "ACM Beleidsregel ontheffingen codes voor gas en elektriciteit",
+  "title": "ACM Beleidsregel ontheffingen codes voor gas en elektriciteit",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "aanwijzingsbesluit-elektronische-kanalen-publieke-dienstverlening-rdw": {
+  "bwb": "BWBR0052035",
+  "short": "Aanwijzingsbesluit elektronische kanalen publieke dienstverlening RDW",
+  "title": "Aanwijzingsbesluit elektronische kanalen publieke dienstverlening RDW",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-modelcontracten-2026": {
+  "bwb": "BWBR0052036",
+  "short": "Besluit modelcontracten 2026",
+  "title": "Besluit modelcontracten 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "beleidsregel-respijttermijnen-voor-gewasbeschermingsmiddelen": {
+  "bwb": "BWBR0052055",
+  "short": "Beleidsregel respijttermijnen voor gewasbeschermingsmiddelen",
+  "title": "Beleidsregel respijttermijnen voor gewasbeschermingsmiddelen",
+  "part": "bwb-now-rest-008",
+  "current_label": "2025-12-30_0",
+  "as_of": "2026-11-03"
+ },
+ "reglement-bestuur-raad-voor-rechtsbijstand-2026": {
+  "bwb": "BWBR0052058",
+  "short": "Reglement Bestuur Raad voor Rechtsbijstand 2026",
+  "title": "Reglement Bestuur Raad voor Rechtsbijstand 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2025-12-25_0",
+  "as_of": "2026-11-03"
+ },
+ "tarievenbesluit-ctgb-2026": {
+  "bwb": "BWBR0052064",
+  "short": "Tarievenbesluit Ctgb 2026",
+  "title": "Tarievenbesluit Ctgb 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "aanwijzing-elektronische-kanalen-ccmo-2025": {
+  "bwb": "BWBR0052066",
+  "short": "Aanwijzing elektronische kanalen CCMO 2025",
+  "title": "Aanwijzing elektronische kanalen CCMO 2025",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "beleidsregels-betalingsregelingen-rijk-2026": {
+  "bwb": "BWBR0052067",
+  "short": "Beleidsregels betalingsregelingen Rijk 2026",
+  "title": "Beleidsregels betalingsregelingen Rijk 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "toezichtbeleid-erkenninghouders-keurmeesters-en-technici-rdw": {
+  "bwb": "BWBR0052068",
+  "short": "Toezichtbeleid Erkenninghouders, Keurmeesters en Technici RDW",
+  "title": "Toezichtbeleid Erkenninghouders, Keurmeesters en Technici RDW",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "acm-beleidsregel-indiening-codevoorstel-voor-gas-en-elektriciteit": {
+  "bwb": "BWBR0052081",
+  "short": "ACM beleidsregel indiening codevoorstel voor gas en elektriciteit",
+  "title": "ACM beleidsregel indiening codevoorstel voor gas en elektriciteit",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "beleidsregel-handhaving-wet-kinderopvang-bes": {
+  "bwb": "BWBR0052087",
+  "short": "Beleidsregel handhaving Wet kinderopvang BES",
+  "title": "Beleidsregel handhaving Wet kinderopvang BES",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "beleidsregel-bestuurlijke-boetes-handhaving-registratie-uiteindelijk-belanghebbenden-van-v": {
+  "bwb": "BWBR0052090",
+  "short": "Beleidsregel bestuurlijke boetes handhaving registratie uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten",
+  "title": "Beleidsregel bestuurlijke boetes handhaving registratie uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "tarievenbesluit-2026-raad-voor-accreditatie": {
+  "bwb": "BWBR0052091",
+  "short": "Tarievenbesluit 2026 Raad voor Accreditatie",
+  "title": "Tarievenbesluit 2026 Raad voor Accreditatie",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "aanwijzingsbesluit-elektronische-kanalen-cak": {
+  "bwb": "BWBR0052093",
+  "short": "Aanwijzingsbesluit elektronische kanalen CAK",
+  "title": "Aanwijzingsbesluit elektronische kanalen CAK",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "aanwijzingsbesluit-elektronische-kanalen-publieke-dienstverlening-cbr-2026": {
+  "bwb": "BWBR0052096",
+  "short": "Aanwijzingsbesluit elektronische kanalen publieke dienstverlening CBR 2026",
+  "title": "Aanwijzingsbesluit elektronische kanalen publieke dienstverlening CBR 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "aanwijzing-elektronische-verzendwijzen-afm": {
+  "bwb": "BWBR0052098",
+  "short": "Aanwijzing elektronische verzendwijzen AFM",
+  "title": "Aanwijzing elektronische verzendwijzen AFM",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-aanwijzing-toezichthouders-kansspelautoriteit-2026": {
+  "bwb": "BWBR0052100",
+  "short": "Besluit aanwijzing toezichthouders Kansspelautoriteit 2026",
+  "title": "Besluit aanwijzing toezichthouders Kansspelautoriteit 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "algemene-subsidiebepalingen-zonmw": {
+  "bwb": "BWBR0052106",
+  "short": "Algemene Subsidiebepalingen ZonMw",
+  "title": "Algemene Subsidiebepalingen ZonMw",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-03_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-houdende-toekenning-vaandel-aan-het-korps-inlichtingen-en-veiligheid-prinses-alexi": {
+  "bwb": "BWBR0052112",
+  "short": "Besluit houdende toekenning vaandel aan het Korps Inlichtingen en Veiligheid Prinses Alexia",
+  "title": "Besluit houdende toekenning vaandel aan het Korps Inlichtingen en Veiligheid Prinses Alexia",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-06_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-houdende-toekenning-vaandel-aan-het-korps-communicatie-en-engagement-prinses-arian": {
+  "bwb": "BWBR0052113",
+  "short": "Besluit houdende toekenning vaandel aan het Korps Communicatie en Engagement Prinses Ariane",
+  "title": "Besluit houdende toekenning vaandel aan het Korps Communicatie en Engagement Prinses Ariane",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-06_0",
+  "as_of": "2026-11-03"
+ },
+ "tijdelijke-subsidieregels-landelijk-ondersteuningsprogramma-informatiepunten-digitale-over": {
+  "bwb": "BWBR0052114",
+  "short": "Tijdelijke subsidieregels Landelijk ondersteuningsprogramma Informatiepunten Digitale Overheid Koninklijke Bibliotheek 2026",
+  "title": "Tijdelijke subsidieregels Landelijk ondersteuningsprogramma Informatiepunten Digitale Overheid Koninklijke Bibliotheek 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-06_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vaststelling-factoren-l-en-r-boekjaar-2026": {
+  "bwb": "BWBR0052117",
+  "short": "Besluit vaststelling factoren L en r boekjaar 2026",
+  "title": "Besluit vaststelling factoren L en r boekjaar 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-03_0",
+  "as_of": "2026-11-03"
+ },
+ "aanwijzingsbesluit-elektronische-verzending-formele-berichten-dnb": {
+  "bwb": "BWBR0052118",
+  "short": "Aanwijzingsbesluit elektronische verzending formele berichten DNB",
+  "title": "Aanwijzingsbesluit elektronische verzending formele berichten DNB",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "regeling-beoordelingsnormen-doorstroomtoets-po-bonaire": {
+  "bwb": "BWBR0052133",
+  "short": "Regeling beoordelingsnormen doorstroomtoets PO Bonaire",
+  "title": "Regeling beoordelingsnormen doorstroomtoets PO Bonaire",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-09_0",
+  "as_of": "2026-11-03"
+ },
+ "beleidsregel-flexibel-beroepsgericht-programma": {
+  "bwb": "BWBR0052166",
+  "short": "Beleidsregel flexibel beroepsgericht programma",
+  "title": "Beleidsregel flexibel beroepsgericht programma",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-02-01_0",
+  "as_of": "2026-11-03"
+ },
+ "beleidsregel-meldplicht-tijdelijke-leveringsonderbrekingen-van-geneesmiddelen": {
+  "bwb": "BWBR0052168",
+  "short": "Beleidsregel meldplicht tijdelijke leveringsonderbrekingen van geneesmiddelen",
+  "title": "Beleidsregel meldplicht tijdelijke leveringsonderbrekingen van geneesmiddelen",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "beleidsregel-hoogte-bestuurlijke-boete-wet-vrachtwagenheffing": {
+  "bwb": "BWBR0052174",
+  "short": "Beleidsregel hoogte bestuurlijke boete Wet vrachtwagenheffing",
+  "title": "Beleidsregel hoogte bestuurlijke boete Wet vrachtwagenheffing",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-14_0",
+  "as_of": "2026-11-03"
+ },
+ "werkwijze-geschilbeslechting-energie-2026": {
+  "bwb": "BWBR0052180",
+  "short": "Werkwijze geschilbeslechting energie 2026",
+  "title": "Werkwijze geschilbeslechting energie 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "beleidsregels-beheerskosten-wlz-en-overige-zorgkosten-2026": {
+  "bwb": "BWBR0052191",
+  "short": "Beleidsregels beheerskosten Wlz en overige zorgkosten 2026",
+  "title": "Beleidsregels beheerskosten Wlz en overige zorgkosten 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-20_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vaststelling-subsidieplafonds-subsidiering-op-grond-van-reglement-stimuleringsmaat": {
+  "bwb": "BWBR0052197",
+  "short": "Besluit vaststelling subsidieplafonds subsidiëring op grond van Reglement Stimuleringsmaatregel Filmproductie in Nederland, Deelreglement Ontwikkeling, Deelreglement Realisering, Deelreglement Distributie en Deelreglement Filmactiviteiten",
+  "title": "Besluit vaststelling subsidieplafonds subsidiëring op grond van Reglement Stimuleringsmaatregel Filmproductie in Nederland, Deelreglement Ontwikkeling, Deelreglement Realisering, Deelreglement Distributie en Deelreglement Filmactiviteiten",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "beleidsregels-scholing-en-voorwaarden-vergoeding-scholingskosten-uwv-2026": {
+  "bwb": "BWBR0052200",
+  "short": "Beleidsregels Scholing en voorwaarden vergoeding scholingskosten UWV 2026",
+  "title": "Beleidsregels Scholing en voorwaarden vergoeding scholingskosten UWV 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-20_0",
+  "as_of": "2026-11-03"
+ },
+ "indicatieprotocol-valys-standaard-persoonlijk-kilometerbudget-pkb-zonder-bewijsdocument-va": {
+  "bwb": "BWBR0052201",
+  "short": "Indicatieprotocol Valys Standaard Persoonlijk Kilometerbudget (PKB) zonder bewijsdocument (Valys-vervoer)",
+  "title": "Indicatieprotocol Valys Standaard Persoonlijk Kilometerbudget (PKB) zonder bewijsdocument (Valys-vervoer)",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-23_0",
+  "as_of": "2026-11-03"
+ },
+ "indicatieprotocol-hoog-pkb-valys-vervoer": {
+  "bwb": "BWBR0052202",
+  "short": "Indicatieprotocol Hoog PKB Valys-vervoer",
+  "title": "Indicatieprotocol Hoog PKB Valys-vervoer",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-23_0",
+  "as_of": "2026-11-03"
+ },
+ "aanwijzingsbesluit-elektronische-kanalen-publieke-dienstverlening-lcsh-2026": {
+  "bwb": "BWBR0052206",
+  "short": "Aanwijzingsbesluit elektronische kanalen publieke dienstverlening Lcsh 2026",
+  "title": "Aanwijzingsbesluit elektronische kanalen publieke dienstverlening Lcsh 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-23_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-wijziging-beleidsregels-voorzieningen-pur-2026": {
+  "bwb": "BWBR0052209",
+  "short": "Besluit wijziging Beleidsregels voorzieningen PUR 2026",
+  "title": "Besluit wijziging Beleidsregels voorzieningen PUR 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-29_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-subsidieplafond-2026-regeling-ter-uitvoering-van-artikel-6-tweede-lid-van-de-tijde": {
+  "bwb": "BWBR0052211",
+  "short": "Besluit subsidieplafond 2026 Regeling ter uitvoering van artikel 6, tweede lid, van de Tijdelijke subsidieregels samenwerking Belastingdienst, de Dienst Toeslagen en de Koninklijke Bibliotheek 2024–2027",
+  "title": "Besluit subsidieplafond 2026 Regeling ter uitvoering van artikel 6, tweede lid, van de Tijdelijke subsidieregels samenwerking Belastingdienst, de Dienst Toeslagen en de Koninklijke Bibliotheek 2024–2027",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-27_0",
+  "as_of": "2026-11-03"
+ },
+ "aanwijzingsbesluit-elektronische-kanalen-publieke-dienstverlening-cdkb-2026": {
+  "bwb": "BWBR0052213",
+  "short": "Aanwijzingsbesluit elektronische kanalen publieke dienstverlening Cdkb 2026",
+  "title": "Aanwijzingsbesluit elektronische kanalen publieke dienstverlening Cdkb 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-23_0",
+  "as_of": "2026-11-03"
+ },
+ "aanwijzingsbesluit-elektronische-kanalen-publieke-dienstverlening-cbs-2026": {
+  "bwb": "BWBR0052214",
+  "short": "Aanwijzingsbesluit elektronische kanalen publieke dienstverlening CBS 2026",
+  "title": "Aanwijzingsbesluit elektronische kanalen publieke dienstverlening CBS 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-26_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsregeling-regeling-architectuur-20252028-eerste-wijziging": {
+  "bwb": "BWBR0052221",
+  "short": "Wijzigingsregeling Regeling Architectuur 2025–2028 (eerste wijziging)",
+  "title": "Wijzigingsregeling Regeling Architectuur 2025–2028 (eerste wijziging)",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-02-01_0",
+  "as_of": "2026-11-03"
+ },
+ "startregeling-architectuur": {
+  "bwb": "BWBR0052224",
+  "short": "Startregeling architectuur",
+  "title": "Startregeling architectuur",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-02-01_0",
+  "as_of": "2026-11-03"
+ },
+ "tijdelijke-subsidieregeling-rechtsbijstand-bij-beslag-op-inkomen-of-vermogen-20262028": {
+  "bwb": "BWBR0052226",
+  "short": "Tijdelijke subsidieregeling rechtsbijstand bij beslag op inkomen of vermogen 2026–2028",
+  "title": "Tijdelijke subsidieregeling rechtsbijstand bij beslag op inkomen of vermogen 2026–2028",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-01-29_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsregeling-regeling-digitale-cultuur-20252028-eerste-wijziging": {
+  "bwb": "BWBR0052227",
+  "short": "Wijzigingsregeling Regeling Digitale cultuur 2025–2028 (eerste wijziging)",
+  "title": "Wijzigingsregeling Regeling Digitale cultuur 2025–2028 (eerste wijziging)",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-02-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsregeling-regeling-vormgeving-20252028-eerste-wijziging": {
+  "bwb": "BWBR0052228",
+  "short": "Wijzigingsregeling Regeling Vormgeving 2025–2028 (eerste wijziging)",
+  "title": "Wijzigingsregeling Regeling Vormgeving 2025–2028 (eerste wijziging)",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-02-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsregeling-regeling-internationalisering-ontwerpsector-2025-2028-eerste-wijziging": {
+  "bwb": "BWBR0052231",
+  "short": "Wijzigingsregeling Regeling Internationalisering Ontwerpsector 2025-2028 (eerste wijziging)",
+  "title": "Wijzigingsregeling Regeling Internationalisering Ontwerpsector 2025-2028 (eerste wijziging)",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-02-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vaststelling-subsidieplafonds-en-indiendata-2026": {
+  "bwb": "BWBR0052239",
+  "short": "Besluit vaststelling subsidieplafonds en indiendata 2026",
+  "title": "Besluit vaststelling subsidieplafonds en indiendata 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-06-20_0",
+  "as_of": "2026-11-03"
+ },
+ "beleidsregel-bestuurlijke-boetes-inspectie-jenv-wki": {
+  "bwb": "BWBR0052246",
+  "short": "Beleidsregel bestuurlijke boetes Inspectie JenV – Wki",
+  "title": "Beleidsregel bestuurlijke boetes Inspectie JenV – Wki",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-02-04_0",
+  "as_of": "2026-11-03"
+ },
+ "bestuursreglement-kiesraad": {
+  "bwb": "BWBR0052263",
+  "short": "Bestuursreglement Kiesraad",
+  "title": "Bestuursreglement Kiesraad",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-02-04_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vaststelling-subsidieplafonds-en-data-subsidierondes-regeling-literatuur-caribe-re": {
+  "bwb": "BWBR0052271",
+  "short": "Besluit vaststelling subsidieplafonds en data subsidierondes Regeling Literatuur Caribe, Regeling Leesbevordering Nederlands Letterenfonds, Regeling projectsubsidies voor makers van boeken en Regeling literaire programma's",
+  "title": "Besluit vaststelling subsidieplafonds en data subsidierondes Regeling Literatuur Caribe, Regeling Leesbevordering Nederlands Letterenfonds, Regeling projectsubsidies voor makers van boeken en Regeling literaire programma's",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-02-06_0",
+  "as_of": "2026-11-03"
+ },
+ "programma-lokale-journalistieke-impact-20262027": {
+  "bwb": "BWBR0052275",
+  "short": "Programma Lokale Journalistieke Impact 2026–2027",
+  "title": "Programma Lokale Journalistieke Impact 2026–2027",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-11-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vaststelling-selectielijst-ministerie-van-infrastructuur-en-waterstaat-voor-de-per": {
+  "bwb": "BWBR0052276",
+  "short": "Besluit vaststelling selectielijst Ministerie van Infrastructuur en Waterstaat voor de periode vanaf 2026",
+  "title": "Besluit vaststelling selectielijst Ministerie van Infrastructuur en Waterstaat voor de periode vanaf 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-02-11_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsbesluit-besluit-vrijwilligersmedaille-openbare-orde-en-veiligheid-i-v-m-het-voor": {
+  "bwb": "BWBR0052278",
+  "short": "Wijzigingsbesluit Besluit vrijwilligersmedaille openbare orde en veiligheid i.v.m. het voorkomen van dubbele decoratie",
+  "title": "Wijzigingsbesluit Besluit vrijwilligersmedaille openbare orde en veiligheid i.v.m. het voorkomen van dubbele decoratie",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "handhavingsbeleid-dnb-voor-tijdige-indiening-van-statistische-rapportages": {
+  "bwb": "BWBR0052283",
+  "short": "Handhavingsbeleid DNB voor tijdige indiening van statistische rapportages",
+  "title": "Handhavingsbeleid DNB voor tijdige indiening van statistische rapportages",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-08-12_0",
+  "as_of": "2026-11-03"
+ },
+ "beleidsregel-pro-vbo": {
+  "bwb": "BWBR0052287",
+  "short": "Beleidsregel pro/vbo",
+  "title": "Beleidsregel pro/vbo",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-02-13_0",
+  "as_of": "2026-11-03"
+ },
+ "aanwijzingsbesluit-kanalen-officiele-berichten-kadaster": {
+  "bwb": "BWBR0052288",
+  "short": "Aanwijzingsbesluit kanalen officiële berichten Kadaster",
+  "title": "Aanwijzingsbesluit kanalen officiële berichten Kadaster",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-02-14_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-tot-vaststelling-tijdstip-uiterste-aanvraagdatum-aanvullende-compensatie-of-tegemo": {
+  "bwb": "BWBR0052292",
+  "short": "Besluit tot vaststelling tijdstip uiterste aanvraagdatum aanvullende compensatie of tegemoetkoming voor werkelijke schade Wet hersteloperatie toeslagen",
+  "title": "Besluit tot vaststelling tijdstip uiterste aanvraagdatum aanvullende compensatie of tegemoetkoming voor werkelijke schade Wet hersteloperatie toeslagen",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsregeling-subsidieregeling-startbijdrage-mediation": {
+  "bwb": "BWBR0052297",
+  "short": "Wijzigingsregeling Subsidieregeling startbijdrage mediation",
+  "title": "Wijzigingsregeling Subsidieregeling startbijdrage mediation",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-02-18_0",
+  "as_of": "2026-11-03"
+ },
+ "regeling-transparantie-zorgcontractering-zvw": {
+  "bwb": "BWBR0052302",
+  "short": "Regeling Transparantie zorgcontractering Zvw",
+  "title": "Regeling Transparantie zorgcontractering Zvw",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-02-28_0",
+  "as_of": "2026-11-03"
+ },
+ "beleidsregel-vervolg-andere-dag-en-weekindeling": {
+  "bwb": "BWBR0052314",
+  "short": "Beleidsregel vervolg andere dag- en weekindeling",
+  "title": "Beleidsregel vervolg andere dag- en weekindeling",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-02-21_0",
+  "as_of": "2026-11-03"
+ },
+ "begrippencode-elektriciteit-2026": {
+  "bwb": "BWBR0052320",
+  "short": "Begrippencode elektriciteit 2026",
+  "title": "Begrippencode elektriciteit 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-07-09_0",
+  "as_of": "2026-11-03"
+ },
+ "tarievencode-elektriciteit-2026": {
+  "bwb": "BWBR0052321",
+  "short": "Tarievencode elektriciteit 2026",
+  "title": "Tarievencode elektriciteit 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-07-09_0",
+  "as_of": "2026-11-03"
+ },
+ "systeemcode-elektriciteit-2026": {
+  "bwb": "BWBR0052336",
+  "short": "Systeemcode elektriciteit 2026",
+  "title": "Systeemcode elektriciteit 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "beleidsregel-experiment-verlenging-en-verfijning-ruimte-in-onderwijstijd": {
+  "bwb": "BWBR0052337",
+  "short": "Beleidsregel experiment verlenging en verfijning ruimte in onderwijstijd",
+  "title": "Beleidsregel experiment verlenging en verfijning ruimte in onderwijstijd",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-04-15_0",
+  "as_of": "2026-11-03"
+ },
+ "tarievencode-gas-tsb-en-dsb": {
+  "bwb": "BWBR0052341",
+  "short": "Tarievencode gas TSB en DSB",
+  "title": "Tarievencode gas TSB en DSB",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-05-28_0",
+  "as_of": "2026-11-03"
+ },
+ "subsidieregeling-uitelkaar-nl-2026": {
+  "bwb": "BWBR0052344",
+  "short": "Subsidieregeling Uitelkaar.nl 2026",
+  "title": "Subsidieregeling Uitelkaar.nl 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-02-24_0",
+  "as_of": "2026-11-03"
+ },
+ "vervangingsregeling-in-geval-van-tijdelijke-afwezigheid-van-een-minister-2026": {
+  "bwb": "BWBR0052354",
+  "short": "Vervangingsregeling in geval van tijdelijke afwezigheid van een minister 2026",
+  "title": "Vervangingsregeling in geval van tijdelijke afwezigheid van een minister 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-02-26_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-departementale-herindelingen-digitale-zaken-en-circulaire-economie": {
+  "bwb": "BWBR0052357",
+  "short": "Besluit departementale herindelingen digitale zaken en circulaire economie",
+  "title": "Besluit departementale herindelingen digitale zaken en circulaire economie",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-02-26_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vaststelling-beleidsregel-slot-enforcement-code": {
+  "bwb": "BWBR0052360",
+  "short": "Besluit vaststelling beleidsregel 'Slot Enforcement Code'",
+  "title": "Besluit vaststelling beleidsregel 'Slot Enforcement Code'",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-02-25_0",
+  "as_of": "2026-11-03"
+ },
+ "tijdelijke-overbruggingsregeling-projectsubsidies-voor-makers-van-boeken": {
+  "bwb": "BWBR0052362",
+  "short": "Tijdelijke overbruggingsregeling projectsubsidies voor makers van boeken",
+  "title": "Tijdelijke overbruggingsregeling projectsubsidies voor makers van boeken",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-02-26_0",
+  "as_of": "2026-11-03"
+ },
+ "regeling-svdj-accelerator-2026": {
+  "bwb": "BWBR0052381",
+  "short": "Regeling SVDJ Accelerator 2026",
+  "title": "Regeling SVDJ Accelerator 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-03-04_0",
+  "as_of": "2026-11-03"
+ },
+ "reglement-commissie-onderzoek-passende-zorg-2025": {
+  "bwb": "BWBR0052386",
+  "short": "Reglement Commissie Onderzoek Passende Zorg 2025",
+  "title": "Reglement Commissie Onderzoek Passende Zorg 2025",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-03-03_0",
+  "as_of": "2026-11-03"
+ },
+ "aanwijzingsbesluit-elektronische-kanalen-huis-voor-klokkenluiders-2026": {
+  "bwb": "BWBR0052388",
+  "short": "Aanwijzingsbesluit elektronische kanalen Huis voor Klokkenluiders 2026",
+  "title": "Aanwijzingsbesluit elektronische kanalen Huis voor Klokkenluiders 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-03-05_0",
+  "as_of": "2026-11-03"
+ },
+ "regeling-tarieven-airport-coordination-netherlands-2026": {
+  "bwb": "BWBR0052389",
+  "short": "Regeling tarieven Airport Coordination Netherlands 2026",
+  "title": "Regeling tarieven Airport Coordination Netherlands 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-03-05_0",
+  "as_of": "2026-11-03"
+ },
+ "vaststelling-subsidietijdvakken-en-subsidieplafonds-regelingen-stimuleringsfonds-creatieve": {
+  "bwb": "BWBR0052391",
+  "short": "Vaststelling subsidietijdvakken en subsidieplafonds regelingen Stimuleringsfonds Creatieve Industrie 2026",
+  "title": "Vaststelling subsidietijdvakken en subsidieplafonds regelingen Stimuleringsfonds Creatieve Industrie 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-03-04_0",
+  "as_of": "2026-11-03"
+ },
+ "handhavingsbeleid-dnb-inzake-kapitaal-en-liquiditeitsvereisten": {
+  "bwb": "BWBR0052408",
+  "short": "Handhavingsbeleid DNB inzake kapitaal- en liquiditeitsvereisten",
+  "title": "Handhavingsbeleid DNB inzake kapitaal- en liquiditeitsvereisten",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-03-10_0",
+  "as_of": "2026-11-03"
+ },
+ "regeling-structurele-aanlevering-gegevens-zorgverzekeringswet-en-wet-langdurige-zorg-2026": {
+  "bwb": "BWBR0052413",
+  "short": "Regeling structurele aanlevering gegevens Zorgverzekeringswet en Wet langdurige zorg 2026",
+  "title": "Regeling structurele aanlevering gegevens Zorgverzekeringswet en Wet langdurige zorg 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-03-11_0",
+  "as_of": "2026-11-03"
+ },
+ "regeling-pta-staatsexamens-vo-2027": {
+  "bwb": "BWBR0052417",
+  "short": "Regeling PTA staatsexamens vo 2027",
+  "title": "Regeling PTA staatsexamens vo 2027",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "regeling-aangewezen-vakken-tweede-tijdvak-centrale-examens-vo-2026": {
+  "bwb": "BWBR0052422",
+  "short": "Regeling aangewezen vakken tweede tijdvak centrale examens vo 2026",
+  "title": "Regeling aangewezen vakken tweede tijdvak centrale examens vo 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-03-14_0",
+  "as_of": "2026-11-03"
+ },
+ "beleidsregel-boeteoplegging-arbeidstijdenwet-en-arbeidstijdenbesluit-vervoer-wegvervoer-20": {
+  "bwb": "BWBR0052429",
+  "short": "Beleidsregel boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (wegvervoer) 2026",
+  "title": "Beleidsregel boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (wegvervoer) 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-03-18_0",
+  "as_of": "2026-11-03"
+ },
+ "tijdelijk-beleidskader-voor-de-bestrijding-van-drones": {
+  "bwb": "BWBR0052430",
+  "short": "Tijdelijk beleidskader voor de bestrijding van drones",
+  "title": "Tijdelijk beleidskader voor de bestrijding van drones",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-06-24_0",
+  "as_of": "2026-11-03"
+ },
+ "beleidsregel-boeteoplegging-arbeidstijdenwet-en-arbeidstijdenbesluit-vervoer-taxivervoer-2": {
+  "bwb": "BWBR0052432",
+  "short": "Beleidsregel boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (taxivervoer) 2026",
+  "title": "Beleidsregel boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (taxivervoer) 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-03-18_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingsregeling-regeling-artistic-design-research-for-immersive-experience-20252029-eer": {
+  "bwb": "BWBR0052433",
+  "short": "Wijzigingsregeling Regeling Artistic & Design Research for Immersive Experience 2025–2029 (eerste wijziging)",
+  "title": "Wijzigingsregeling Regeling Artistic & Design Research for Immersive Experience 2025–2029 (eerste wijziging)",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-03-26_0",
+  "as_of": "2026-11-03"
+ },
+ "regeling-budgetbekostiging-spoedeisende-hulp": {
+  "bwb": "BWBR0052434",
+  "short": "Regeling budgetbekostiging spoedeisende hulp",
+  "title": "Regeling budgetbekostiging spoedeisende hulp",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "beleidsregel-verpleegkundige-dagopvang-en-verblijf-bij-medische-kindzorg": {
+  "bwb": "BWBR0052437",
+  "short": "Beleidsregel verpleegkundige dagopvang en verblijf bij medische kindzorg",
+  "title": "Beleidsregel verpleegkundige dagopvang en verblijf bij medische kindzorg",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-03-21_0",
+  "as_of": "2026-11-03"
+ },
+ "beleidsregel-vobk": {
+  "bwb": "BWBR0052443",
+  "short": "Beleidsregel VOBK",
+  "title": "Beleidsregel VOBK",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-03-27_0",
+  "as_of": "2026-11-03"
+ },
+ "beleidsregel-prestatiebeschrijvingen-en-tarieven-zorgzwaartepakketten-en-volledig-pakket-t": {
+  "bwb": "BWBR0052452",
+  "short": "Beleidsregel prestatiebeschrijvingen en tarieven zorgzwaartepakketten en volledig pakket thuis 2026",
+  "title": "Beleidsregel prestatiebeschrijvingen en tarieven zorgzwaartepakketten en volledig pakket thuis 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-03-25_0",
+  "as_of": "2026-11-03"
+ },
+ "regeling-declaratievoorschriften-administratievoorschriften-en-informatieverstrekking-wlz-2": {
+  "bwb": "BWBR0052453",
+  "short": "Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2026",
+  "title": "Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-03-25_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vaststelling-en-bekendmaking-lijst-aardappelrassen-met-bijbehorend-resistentienive-13": {
+  "bwb": "BWBR0052458",
+  "short": "Besluit vaststelling en bekendmaking lijst aardappelrassen met bijbehorend resistentieniveau bedoeld in artikel 36, eerste lid, Regeling plantgezondheid",
+  "title": "Besluit vaststelling en bekendmaking lijst aardappelrassen met bijbehorend resistentieniveau bedoeld in artikel 36, eerste lid, Regeling plantgezondheid",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-03-27_0",
+  "as_of": "2026-11-03"
+ },
+ "regeling-vaststelling-subsidieplafonds-muziekhubs-pop-hiphop-en-dance-en-hoogte-subsidie-o": {
+  "bwb": "BWBR0052468",
+  "short": "Regeling vaststelling subsidieplafonds muziekhubs pop, hiphop en dance en hoogte subsidie ontwikkelbeurs muziekauteur",
+  "title": "Regeling vaststelling subsidieplafonds muziekhubs pop, hiphop en dance en hoogte subsidie ontwikkelbeurs muziekauteur",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vaststelling-selectielijst-stichting-raad-voor-accreditatie-periode-vanaf-1-januar": {
+  "bwb": "BWBR0052470",
+  "short": "Besluit vaststelling selectielijst Stichting Raad voor Accreditatie periode vanaf 1 januari 2010",
+  "title": "Besluit vaststelling selectielijst Stichting Raad voor Accreditatie periode vanaf 1 januari 2010",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vaststelling-selectielijst-stichting-dbc-onderhoud-periode-20042017-en-nederlandse": {
+  "bwb": "BWBR0052472",
+  "short": "Besluit vaststelling selectielijst Stichting DBC-Onderhoud periode 2004–2017 en Nederlandse Zorgautoriteit periode vanaf oktober 2006",
+  "title": "Besluit vaststelling selectielijst Stichting DBC-Onderhoud periode 2004–2017 en Nederlandse Zorgautoriteit periode vanaf oktober 2006",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "instellingsbesluit-staatscommissie-overheidsingrijpen-bij-kindermishandeling-en-ontwikkeli": {
+  "bwb": "BWBR0052476",
+  "short": "Instellingsbesluit staatscommissie overheidsingrijpen bij kindermishandeling en ontwikkelingsbedreiging",
+  "title": "Instellingsbesluit staatscommissie overheidsingrijpen bij kindermishandeling en ontwikkelingsbedreiging",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "aanwijzing-elektronische-verzendwijzen-zorgkantoor-zorg-en-zekerheid": {
+  "bwb": "BWBR0052478",
+  "short": "Aanwijzing elektronische verzendwijzen Zorgkantoor Zorg en Zekerheid",
+  "title": "Aanwijzing elektronische verzendwijzen Zorgkantoor Zorg en Zekerheid",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-03-20_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-aanwijzing-verboden-plaats-gemeente-den-haag-2026": {
+  "bwb": "BWBR0052479",
+  "short": "Besluit aanwijzing verboden plaats gemeente Den Haag 2026",
+  "title": "Besluit aanwijzing verboden plaats gemeente Den Haag 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-normbedragen-voorzieningen-uwv-2026": {
+  "bwb": "BWBR0052487",
+  "short": "Besluit Normbedragen Voorzieningen UWV 2026",
+  "title": "Besluit Normbedragen Voorzieningen UWV 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "beleidsregel-meerzorg-pgb-salland-zorgkantoor": {
+  "bwb": "BWBR0052498",
+  "short": "Beleidsregel Meerzorg pgb Salland Zorgkantoor",
+  "title": "Beleidsregel Meerzorg pgb Salland Zorgkantoor",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-04-07_0",
+  "as_of": "2026-11-03"
+ },
+ "regeling-controle-en-administratie-zorgverzekeraars": {
+  "bwb": "BWBR0052505",
+  "short": "Regeling controle en administratie zorgverzekeraars",
+  "title": "Regeling controle en administratie zorgverzekeraars",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-04-09_0",
+  "as_of": "2026-11-03"
+ },
+ "beleidsregels-meerzorg-pgb-cz-zorgkantoor": {
+  "bwb": "BWBR0052506",
+  "short": "Beleidsregels Meerzorg pgb CZ Zorgkantoor",
+  "title": "Beleidsregels Meerzorg pgb CZ Zorgkantoor",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-04-08_0",
+  "as_of": "2026-11-03"
+ },
+ "beleidsregels-meerzorg-pgb-stichting-zorgkantoor-menzis": {
+  "bwb": "BWBR0052507",
+  "short": "Beleidsregels Meerzorg pgb Stichting Zorgkantoor Menzis",
+  "title": "Beleidsregels Meerzorg pgb Stichting Zorgkantoor Menzis",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-04-08_0",
+  "as_of": "2026-11-03"
+ },
+ "vervangingsregeling-cbr-2026": {
+  "bwb": "BWBR0052518",
+  "short": "Vervangingsregeling CBR 2026",
+  "title": "Vervangingsregeling CBR 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-04-14_0",
+  "as_of": "2026-11-03"
+ },
+ "acm-beleidsregel-financiele-weerbaarheid-energieleveranciers": {
+  "bwb": "BWBR0052520",
+  "short": "ACM Beleidsregel financiële weerbaarheid energieleveranciers",
+  "title": "ACM Beleidsregel financiële weerbaarheid energieleveranciers",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-04-11_0",
+  "as_of": "2026-11-03"
+ },
+ "beleidsregels-meerzorg-pgb-zorg-en-zekerheid-zorgkantoor": {
+  "bwb": "BWBR0052521",
+  "short": "Beleidsregels Meerzorg pgb Zorg en Zekerheid zorgkantoor",
+  "title": "Beleidsregels Meerzorg pgb Zorg en Zekerheid zorgkantoor",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-04-13_0",
+  "as_of": "2026-11-03"
+ },
+ "beleidsregels-meerzorg-pgb-vgz-zorgkantoor": {
+  "bwb": "BWBR0052537",
+  "short": "Beleidsregels Meerzorg pgb VGZ zorgkantoor",
+  "title": "Beleidsregels Meerzorg pgb VGZ zorgkantoor",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-04-13_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vergoedingen-niwo": {
+  "bwb": "BWBR0052542",
+  "short": "Besluit vergoedingen NIWO",
+  "title": "Besluit vergoedingen NIWO",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-04-16_0",
+  "as_of": "2026-11-03"
+ },
+ "tijdelijke-beleidsregel-voorschot-advocaten-in-liquiditeitsproblemen": {
+  "bwb": "BWBR0052545",
+  "short": "Tijdelijke beleidsregel voorschot advocaten in liquiditeitsproblemen",
+  "title": "Tijdelijke beleidsregel voorschot advocaten in liquiditeitsproblemen",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-04-17_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-tot-vervanging-van-papieren-archiefbescheiden-door-digitale-reproducties-afm-2026": {
+  "bwb": "BWBR0052546",
+  "short": "Besluit tot vervanging van papieren archiefbescheiden door digitale reproducties AFM 2026",
+  "title": "Besluit tot vervanging van papieren archiefbescheiden door digitale reproducties AFM 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-04-18_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vaststelling-beleidsregels-openbaarmaking-door-autoriteit-persoonsgegevens-2026-en": {
+  "bwb": "BWBR0052550",
+  "short": "Besluit vaststelling Beleidsregels openbaarmaking door Autoriteit Persoonsgegevens 2026 en intrekking Beleidsregels openbaarmaking door de Autoriteit Persoonsgegevens",
+  "title": "Besluit vaststelling Beleidsregels openbaarmaking door Autoriteit Persoonsgegevens 2026 en intrekking Beleidsregels openbaarmaking door de Autoriteit Persoonsgegevens",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-04-17_0",
+  "as_of": "2026-11-03"
+ },
+ "beleidsregel-vergoedingenarrangement-in-civiele-cassatiezaken-wvggz-en-wzd-2026-2028": {
+  "bwb": "BWBR0052553",
+  "short": "Beleidsregel Vergoedingenarrangement in civiele cassatiezaken Wvggz en Wzd 2026-2028",
+  "title": "Beleidsregel Vergoedingenarrangement in civiele cassatiezaken Wvggz en Wzd 2026-2028",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-04-22_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-opleidings-en-examengeld-ba-1-september-2026": {
+  "bwb": "BWBR0052554",
+  "short": "Besluit opleidings- en examengeld BA 1 september 2026",
+  "title": "Besluit opleidings- en examengeld BA 1 september 2026",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-09-01_0",
+  "as_of": "2026-11-03"
+ },
+ "besuit-vaststelling-beleidsregel-toewijzing-slots-in-geval-van-overschrijding-historische": {
+  "bwb": "BWBR0052563",
+  "short": "Besuit vaststelling Beleidsregel toewijzing slots in geval van overschrijding historische aanspraak",
+  "title": "Besuit vaststelling Beleidsregel toewijzing slots in geval van overschrijding historische aanspraak",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-03-29_0",
+  "as_of": "2026-11-03"
+ },
+ "besluit-vaststelling-selectielijst-primair-proces-de-rechtspraak-vanaf-1985-1990": {
+  "bwb": "BWBR0052583",
+  "short": "Besluit vaststelling selectielijst primair proces 'de Rechtspraak' vanaf (1985) 1990",
+  "title": "Besluit vaststelling selectielijst primair proces 'de Rechtspraak' vanaf (1985) 1990",
+  "part": "bwb-now-rest-008",
+  "current_label": "2026-05-01_0",
+  "as_of": "2026-11-03"
  }
 }
