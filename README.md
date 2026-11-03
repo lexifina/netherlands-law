@@ -2229,6 +2229,17 @@ The acts below have one version so far: the version in force on the day it was r
 | `wet-implementatie-verordening-essentiele-informatiedocumenten/` | [Wet implementatie verordening essentiële-informatiedocumenten](https://wetten.overheid.nl/BWBR0039660) | BWBR0039660 | wet | 2018-01-01 |
 | `wijzigingswet-wet-inburgering-enz-toevoegen-onderdeel-participatieverklaring-aan-inburgeri/` | [Wijzigingswet Wet inburgering, enz. (toevoegen onderdeel participatieverklaring aan inburgeringsexamen en wettelijke vastlegging maatschappelijke begeleiding)](https://wetten.overheid.nl/BWBR0039709) | BWBR0039709 | wet | 2017-10-01 |
 | `wijzigingswet-wet-minimumloon-en-minimumvakantiebijslag-toepassing-verklaren-van-die-wet-o/` | [Wijzigingswet Wet minimumloon en minimumvakantiebijslag (toepassing verklaren van die wet op nader bepaalde overeenkomsten van opdracht)](https://wetten.overheid.nl/BWBR0039720) | BWBR0039720 | wet | 2018-01-01 |
+| `wet-op-de-inlichtingen-en-veiligheidsdiensten-2017/` | [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/BWBR0039896) | BWBR0039896 | wet | 2026-01-01 |
+| `verzamelwet-szw-2018/` | [Verzamelwet SZW 2018](https://wetten.overheid.nl/BWBR0040370) | BWBR0040370 | wet | 2018-04-01 |
+| `wijzigingswet-wegenverkeerswet-1994-enz-aanvullende-implementatie-van-richtlijn-2006-126-e/` | [Wijzigingswet Wegenverkeerswet 1994, enz. (aanvullende implementatie van richtlijn 2006/126/EG, enz.)](https://wetten.overheid.nl/BWBR0039763) | BWBR0039763 | wet | 2017-07-12 |
+| `wet-innovatie-en-kwaliteit-kinderopvang/` | [Wet innovatie en kwaliteit kinderopvang](https://wetten.overheid.nl/BWBR0039785) | BWBR0039785 | wet | 2019-01-01 |
+| `wijzigingswet-gezondheids-en-welzijnswet-voor-dieren-en-wet-dieren-herziening-heffingenste/` | [Wijzigingswet Gezondheids- en welzijnswet voor dieren en Wet dieren (herziening heffingenstelsel Diergezondheidsfonds)](https://wetten.overheid.nl/BWBR0039803) | BWBR0039803 | wet | 2022-12-22 |
+| `verzamelwet-ienm-2017/` | [Verzamelwet IenM 2017](https://wetten.overheid.nl/BWBR0039927) | BWBR0039927 | wet | 2017-08-30 |
+| `wijzigingswet-wet-op-het-primair-onderwijs-enz-wet-samen-sterker-door-vereenvoudiging-same/` | [Wijzigingswet Wet op het primair onderwijs, enz. (Wet samen sterker door vereenvoudiging samenwerkingsschool)](https://wetten.overheid.nl/BWBR0039948) | BWBR0039948 | wet | 2018-01-01 |
+| `wet-invoering-associate-degree-opleiding/` | [Wet invoering associate degree-opleiding](https://wetten.overheid.nl/BWBR0040090) | BWBR0040090 | wet | 2018-01-01 |
+| `wijzigingswet-wegenverkeerswet-1994-definitieve-invoering-van-begeleid-rijden/` | [Wijzigingswet Wegenverkeerswet 1994 (definitieve invoering van begeleid rijden)](https://wetten.overheid.nl/BWBR0040200) | BWBR0040200 | wet | 2018-03-15 |
+| `wijzigingswet-wetboek-van-strafvordering-vastleggen-en-bewaren-kentekengegevens-door-polit/` | [Wijzigingswet Wetboek van Strafvordering (vastleggen en bewaren kentekengegevens door politie)](https://wetten.overheid.nl/BWBR0040305) | BWBR0040305 | wet | 2019-01-01 |
+| `wet-implementatie-eu-richtlijn-toegang-belastingautoriteiten-tot-antiwitwasinlichtingen/` | [Wet implementatie EU-richtlijn toegang belastingautoriteiten tot antiwitwasinlichtingen](https://wetten.overheid.nl/BWBR0040366) | BWBR0040366 | wet | 2018-01-01 |
 
 ## A lawyer's questions as git commands
 

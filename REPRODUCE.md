@@ -82,6 +82,8 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 | Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -2301,12 +2303,23 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `wet-implementatie-verordening-essentiele-informatiedocumenten` | Wet implementatie verordening essentiële-informatiedocumenten | 1 | 2018-01-01 to 2018-01-01 |
 | `wijzigingswet-wet-inburgering-enz-toevoegen-onderdeel-participatieverklaring-aan-inburgeri` | Wijzigingswet Wet inburgering, enz. (toevoegen onderdeel participatieverklaring aan inburgeringsexamen en wettelijke vastlegging maatschappelijke begeleiding) | 1 | 2017-10-01 to 2017-10-01 |
 | `wijzigingswet-wet-minimumloon-en-minimumvakantiebijslag-toepassing-verklaren-van-die-wet-o` | Wijzigingswet Wet minimumloon en minimumvakantiebijslag (toepassing verklaren van die wet op nader bepaalde overeenkomsten van opdracht) | 1 | 2018-01-01 to 2018-01-01 |
+| `wet-op-de-inlichtingen-en-veiligheidsdiensten-2017` | Wet op de inlichtingen- en veiligheidsdiensten 2017 | 1 | 2026-01-01 to 2026-01-01 |
+| `verzamelwet-szw-2018` | Verzamelwet SZW 2018 | 1 | 2018-04-01 to 2018-04-01 |
+| `wijzigingswet-wegenverkeerswet-1994-enz-aanvullende-implementatie-van-richtlijn-2006-126-e` | Wijzigingswet Wegenverkeerswet 1994, enz. (aanvullende implementatie van richtlijn 2006/126/EG, enz.) | 1 | 2017-07-12 to 2017-07-12 |
+| `wet-innovatie-en-kwaliteit-kinderopvang` | Wet innovatie en kwaliteit kinderopvang | 1 | 2019-01-01 to 2019-01-01 |
+| `wijzigingswet-gezondheids-en-welzijnswet-voor-dieren-en-wet-dieren-herziening-heffingenste` | Wijzigingswet Gezondheids- en welzijnswet voor dieren en Wet dieren (herziening heffingenstelsel Diergezondheidsfonds) | 1 | 2022-12-22 to 2022-12-22 |
+| `verzamelwet-ienm-2017` | Verzamelwet IenM 2017 | 1 | 2017-08-30 to 2017-08-30 |
+| `wijzigingswet-wet-op-het-primair-onderwijs-enz-wet-samen-sterker-door-vereenvoudiging-same` | Wijzigingswet Wet op het primair onderwijs, enz. (Wet samen sterker door vereenvoudiging samenwerkingsschool) | 1 | 2018-01-01 to 2018-01-01 |
+| `wet-invoering-associate-degree-opleiding` | Wet invoering associate degree-opleiding | 1 | 2018-01-01 to 2018-01-01 |
+| `wijzigingswet-wegenverkeerswet-1994-definitieve-invoering-van-begeleid-rijden` | Wijzigingswet Wegenverkeerswet 1994 (definitieve invoering van begeleid rijden) | 1 | 2018-03-15 to 2018-03-15 |
+| `wijzigingswet-wetboek-van-strafvordering-vastleggen-en-bewaren-kentekengegevens-door-polit` | Wijzigingswet Wetboek van Strafvordering (vastleggen en bewaren kentekengegevens door politie) | 1 | 2019-01-01 to 2019-01-01 |
+| `wet-implementatie-eu-richtlijn-toegang-belastingautoriteiten-tot-antiwitwasinlichtingen` | Wet implementatie EU-richtlijn toegang belastingautoriteiten tot antiwitwasinlichtingen | 1 | 2018-01-01 to 2018-01-01 |
 
-The build made 8682 commits:
+The build made 8693 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2212 | first version of an act |
+| 2223 | first version of an act |
 | 6114 | one law on its in-force day |
 | 356 | changes no amendment note explains, credited to the publisher |
 
@@ -2314,7 +2327,7 @@ Other counts:
 - 0 commits on the branch `toekomst`: laws not yet in force on 2026-11-03.
 - 39 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 3108 laws in the record.
-- 14003 tags.
+- 14014 tags.
 
 ## Dates
 
@@ -2326,7 +2339,7 @@ When a law gives no date of its own, the default rule applies: Bekendmakingswet 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `bf19ff324b5f4ecc440592c217e3cf009c24071e9fdc295db2d74191896edf9a` (183552052 bytes).
+- Corpus: sha256 `368575d74b21320e2bcbb271f16855aa0f2f02712864030b49eb864881fd068d` (183788020 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -2605,6 +2618,9 @@ No second build of this corpus has been compared yet.
 - Current text only (breadth first, Alan 2026-11-02): 44 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
 - A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
 - An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
+- Current text only (breadth first, Alan 2026-11-02): 11 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
+- A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
 
 ## What AI did and did not do
 
@@ -2616,6 +2632,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none: no model wrote, summarised or classified any text in this corpus. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).

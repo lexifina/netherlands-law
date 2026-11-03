@@ -83072,6 +83072,160 @@
      "sha256": "28933ad6c3bd718db19ccf8e4715432aca237a2046d2ec991b5942287d82d959"
     }
    ]
+  },
+  {
+   "slug": "wet-op-de-inlichtingen-en-veiligheidsdiensten-2017",
+   "short": "Wet op de inlichtingen- en veiligheidsdiensten 2017",
+   "title": "Wet op de inlichtingen- en veiligheidsdiensten 2017",
+   "url": "https://wetten.overheid.nl/BWBR0039896",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 173,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0039896/2026-01-01_0/xml/BWBR0039896_2026-01-01_0.xml",
+     "sha256": "c0332a24451535f37b9ff0007699a632098d89954d1151a11876ec49c3d0f4ab"
+    }
+   ]
+  },
+  {
+   "slug": "verzamelwet-szw-2018",
+   "short": "Verzamelwet SZW 2018",
+   "title": "Verzamelwet SZW 2018",
+   "url": "https://wetten.overheid.nl/BWBR0040370",
+   "versions": [
+    {
+     "from": "2018-04-01",
+     "units": 45,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040370/2018-04-01_0/xml/BWBR0040370_2018-04-01_0.xml",
+     "sha256": "f4ddc51729ad0867657efa8bd38b998e5fd11de9c41689251df3e5bee6f62fde"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wegenverkeerswet-1994-enz-aanvullende-implementatie-van-richtlijn-2006-126-e",
+   "short": "Wijzigingswet Wegenverkeerswet 1994, enz. (aanvullende implementatie van richtlijn 2006/126/EG, enz.)",
+   "title": "Wijzigingswet Wegenverkeerswet 1994, enz. (aanvullende implementatie van richtlijn 2006/126/EG, enz.)",
+   "url": "https://wetten.overheid.nl/BWBR0039763",
+   "versions": [
+    {
+     "from": "2017-07-12",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0039763/2017-07-12_0/xml/BWBR0039763_2017-07-12_0.xml",
+     "sha256": "d7f1391d97bc84b30da1572736f78915bb3d2c2cfe17d0b38f6a40bc42161b14"
+    }
+   ]
+  },
+  {
+   "slug": "wet-innovatie-en-kwaliteit-kinderopvang",
+   "short": "Wet innovatie en kwaliteit kinderopvang",
+   "title": "Wet innovatie en kwaliteit kinderopvang",
+   "url": "https://wetten.overheid.nl/BWBR0039785",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0039785/2019-01-01_0/xml/BWBR0039785_2019-01-01_0.xml",
+     "sha256": "9fbd98735238b4e8bb02967a62382836f0b3be588d17ffadaadbbf2261562b28"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-gezondheids-en-welzijnswet-voor-dieren-en-wet-dieren-herziening-heffingenste",
+   "short": "Wijzigingswet Gezondheids- en welzijnswet voor dieren en Wet dieren (herziening heffingenstelsel Diergezondheidsfonds)",
+   "title": "Wijzigingswet Gezondheids- en welzijnswet voor dieren en Wet dieren (herziening heffingenstelsel Diergezondheidsfonds)",
+   "url": "https://wetten.overheid.nl/BWBR0039803",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0039803/2022-12-22_0/xml/BWBR0039803_2022-12-22_0.xml",
+     "sha256": "0c3d512e4cf3b0e23878b88833c5be3c47dd3124273f71997da0201f8d9a722e"
+    }
+   ]
+  },
+  {
+   "slug": "verzamelwet-ienm-2017",
+   "short": "Verzamelwet IenM 2017",
+   "title": "Verzamelwet IenM 2017",
+   "url": "https://wetten.overheid.nl/BWBR0039927",
+   "versions": [
+    {
+     "from": "2017-08-30",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0039927/2017-08-30_0/xml/BWBR0039927_2017-08-30_0.xml",
+     "sha256": "ddbea45142317b33b72661b920e043b48318cd7dac03c20644366a566bf799eb"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-het-primair-onderwijs-enz-wet-samen-sterker-door-vereenvoudiging-same",
+   "short": "Wijzigingswet Wet op het primair onderwijs, enz. (Wet samen sterker door vereenvoudiging samenwerkingsschool)",
+   "title": "Wijzigingswet Wet op het primair onderwijs, enz. (Wet samen sterker door vereenvoudiging samenwerkingsschool)",
+   "url": "https://wetten.overheid.nl/BWBR0039948",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 10,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0039948/2018-01-01_0/xml/BWBR0039948_2018-01-01_0.xml",
+     "sha256": "d8cafd9dd97f06ad9f8f95fb9e99f784bffeb854366f5e9206251b00ba2d57a7"
+    }
+   ]
+  },
+  {
+   "slug": "wet-invoering-associate-degree-opleiding",
+   "short": "Wet invoering associate degree-opleiding",
+   "title": "Wet invoering associate degree-opleiding",
+   "url": "https://wetten.overheid.nl/BWBR0040090",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 10,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040090/2018-01-01_0/xml/BWBR0040090_2018-01-01_0.xml",
+     "sha256": "f86999ae3120def4c73208f75112c7c94b05dcf682cef7798b6f4314d21429b8"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wegenverkeerswet-1994-definitieve-invoering-van-begeleid-rijden",
+   "short": "Wijzigingswet Wegenverkeerswet 1994 (definitieve invoering van begeleid rijden)",
+   "title": "Wijzigingswet Wegenverkeerswet 1994 (definitieve invoering van begeleid rijden)",
+   "url": "https://wetten.overheid.nl/BWBR0040200",
+   "versions": [
+    {
+     "from": "2018-03-15",
+     "units": 8,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040200/2018-03-15_0/xml/BWBR0040200_2018-03-15_0.xml",
+     "sha256": "b43eef7dba5ca303aa025ba577998607a206ad6a99d5daa5b2e04c2f277d6d55"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wetboek-van-strafvordering-vastleggen-en-bewaren-kentekengegevens-door-polit",
+   "short": "Wijzigingswet Wetboek van Strafvordering (vastleggen en bewaren kentekengegevens door politie)",
+   "title": "Wijzigingswet Wetboek van Strafvordering (vastleggen en bewaren kentekengegevens door politie)",
+   "url": "https://wetten.overheid.nl/BWBR0040305",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040305/2019-01-01_0/xml/BWBR0040305_2019-01-01_0.xml",
+     "sha256": "24fdfc2550b82a6a4b11ec6c1919c6e6ef74903005532de6e4ab014e327adb73"
+    }
+   ]
+  },
+  {
+   "slug": "wet-implementatie-eu-richtlijn-toegang-belastingautoriteiten-tot-antiwitwasinlichtingen",
+   "short": "Wet implementatie EU-richtlijn toegang belastingautoriteiten tot antiwitwasinlichtingen",
+   "title": "Wet implementatie EU-richtlijn toegang belastingautoriteiten tot antiwitwasinlichtingen",
+   "url": "https://wetten.overheid.nl/BWBR0040366",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040366/2018-01-01_0/xml/BWBR0040366_2018-01-01_0.xml",
+     "sha256": "565c23b63ee8bd17abebe40460087ebe372dfc4fc19380507fb3a303155cc019"
+    }
+   ]
   }
  ]
 }

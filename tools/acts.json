@@ -17107,5 +17107,93 @@
   "part": "bwb-now-wet-011",
   "current_label": "2018-01-01_0",
   "as_of": "2026-11-03"
+ },
+ "wet-op-de-inlichtingen-en-veiligheidsdiensten-2017": {
+  "bwb": "BWBR0039896",
+  "short": "Wet op de inlichtingen- en veiligheidsdiensten 2017",
+  "title": "Wet op de inlichtingen- en veiligheidsdiensten 2017",
+  "part": "bwb-now-wet-012",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelwet-szw-2018": {
+  "bwb": "BWBR0040370",
+  "short": "Verzamelwet SZW 2018",
+  "title": "Verzamelwet SZW 2018",
+  "part": "bwb-now-wet-012",
+  "current_label": "2018-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wegenverkeerswet-1994-enz-aanvullende-implementatie-van-richtlijn-2006-126-e": {
+  "bwb": "BWBR0039763",
+  "short": "Wijzigingswet Wegenverkeerswet 1994, enz. (aanvullende implementatie van richtlijn 2006/126/EG, enz.)",
+  "title": "Wijzigingswet Wegenverkeerswet 1994, enz. (aanvullende implementatie van richtlijn 2006/126/EG, enz.)",
+  "part": "bwb-now-wet-012",
+  "current_label": "2017-07-12_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-innovatie-en-kwaliteit-kinderopvang": {
+  "bwb": "BWBR0039785",
+  "short": "Wet innovatie en kwaliteit kinderopvang",
+  "title": "Wet innovatie en kwaliteit kinderopvang",
+  "part": "bwb-now-wet-012",
+  "current_label": "2019-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-gezondheids-en-welzijnswet-voor-dieren-en-wet-dieren-herziening-heffingenste": {
+  "bwb": "BWBR0039803",
+  "short": "Wijzigingswet Gezondheids- en welzijnswet voor dieren en Wet dieren (herziening heffingenstelsel Diergezondheidsfonds)",
+  "title": "Wijzigingswet Gezondheids- en welzijnswet voor dieren en Wet dieren (herziening heffingenstelsel Diergezondheidsfonds)",
+  "part": "bwb-now-wet-012",
+  "current_label": "2022-12-22_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelwet-ienm-2017": {
+  "bwb": "BWBR0039927",
+  "short": "Verzamelwet IenM 2017",
+  "title": "Verzamelwet IenM 2017",
+  "part": "bwb-now-wet-012",
+  "current_label": "2017-08-30_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-op-het-primair-onderwijs-enz-wet-samen-sterker-door-vereenvoudiging-same": {
+  "bwb": "BWBR0039948",
+  "short": "Wijzigingswet Wet op het primair onderwijs, enz. (Wet samen sterker door vereenvoudiging samenwerkingsschool)",
+  "title": "Wijzigingswet Wet op het primair onderwijs, enz. (Wet samen sterker door vereenvoudiging samenwerkingsschool)",
+  "part": "bwb-now-wet-012",
+  "current_label": "2018-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-invoering-associate-degree-opleiding": {
+  "bwb": "BWBR0040090",
+  "short": "Wet invoering associate degree-opleiding",
+  "title": "Wet invoering associate degree-opleiding",
+  "part": "bwb-now-wet-012",
+  "current_label": "2018-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wegenverkeerswet-1994-definitieve-invoering-van-begeleid-rijden": {
+  "bwb": "BWBR0040200",
+  "short": "Wijzigingswet Wegenverkeerswet 1994 (definitieve invoering van begeleid rijden)",
+  "title": "Wijzigingswet Wegenverkeerswet 1994 (definitieve invoering van begeleid rijden)",
+  "part": "bwb-now-wet-012",
+  "current_label": "2018-03-15_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wetboek-van-strafvordering-vastleggen-en-bewaren-kentekengegevens-door-polit": {
+  "bwb": "BWBR0040305",
+  "short": "Wijzigingswet Wetboek van Strafvordering (vastleggen en bewaren kentekengegevens door politie)",
+  "title": "Wijzigingswet Wetboek van Strafvordering (vastleggen en bewaren kentekengegevens door politie)",
+  "part": "bwb-now-wet-012",
+  "current_label": "2019-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-implementatie-eu-richtlijn-toegang-belastingautoriteiten-tot-antiwitwasinlichtingen": {
+  "bwb": "BWBR0040366",
+  "short": "Wet implementatie EU-richtlijn toegang belastingautoriteiten tot antiwitwasinlichtingen",
+  "title": "Wet implementatie EU-richtlijn toegang belastingautoriteiten tot antiwitwasinlichtingen",
+  "part": "bwb-now-wet-012",
+  "current_label": "2018-01-01_0",
+  "as_of": "2026-11-03"
  }
 }
