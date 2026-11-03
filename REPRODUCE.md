@@ -96,6 +96,8 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 | Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -2522,20 +2524,520 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `wijzigingswet-wet-implementatie-eu-richtlijnen-energie-efficientie-opnemen-grondslag-voor` | Wijzigingswet Wet implementatie EU-richtlijnen energie-efficiëntie (opnemen grondslag voor de energie-audit) | 1 | 2021-07-01 to 2021-07-01 |
 | `wijzigingswet-politiewet-2012-en-wet-op-de-medische-keuringen-screening-ambtenaren-van-pol` | Wijzigingswet Politiewet 2012 en Wet op de medische keuringen (screening ambtenaren van politie en politie-externen) | 1 | 2023-01-01 to 2023-01-01 |
 | `wet-homologatie-onderhands-akkoord` | Wet homologatie onderhands akkoord | 1 | 2021-01-01 to 2021-01-01 |
+| `wet-inburgering-2021` | Wet inburgering 2021 | 1 | 2025-10-21 to 2025-10-21 |
+| `tijdelijke-wet-maatregelen-covid-19` | Tijdelijke wet maatregelen covid-19 | 1 | 2022-03-15 to 2022-03-15 |
+| `verzamelwet-ienw-2019` | Verzamelwet IenW 2019 | 1 | 2024-01-01 to 2024-01-01 |
+| `fiscale-verzamelwet-2021` | Fiscale verzamelwet 2021 | 1 | 2021-06-03 to 2021-06-03 |
+| `uitvoeringswet-screeningsverordening-buitenlandse-directe-investeringen` | Uitvoeringswet screeningsverordening buitenlandse directe investeringen | 1 | 2023-06-01 to 2023-06-01 |
+| `verzamelwet-szw-2021` | Verzamelwet SZW 2021 | 1 | 2021-01-01 to 2021-01-01 |
+| `wet-verandering-koppeling-aow-leeftijd` | Wet verandering koppeling AOW-leeftijd | 1 | 2020-12-10 to 2020-12-10 |
+| `implementatiewet-kapitaalvereisten-2020` | Implementatiewet kapitaalvereisten 2020 | 1 | 2020-12-29 to 2020-12-29 |
+| `tijdelijke-wet-covid-19-szw-en-jenv` | Tijdelijke wet COVID-19 SZW en JenV | 1 | 2021-08-01 to 2021-08-01 |
+| `wet-beperking-liquidatie-en-stakingsverliesregeling` | Wet beperking liquidatie- en stakingsverliesregeling | 1 | 2021-01-01 to 2021-01-01 |
+| `wet-aanpassing-box-3` | Wet aanpassing box 3 | 1 | 2023-01-01 to 2023-01-01 |
+| `belastingplan-2021` | Belastingplan 2021 | 1 | 2023-01-01 to 2023-01-01 |
+| `wijzigingswet-wet-kinderopvang-recht-op-kinderopvangtoeslag` | Wijzigingswet Wet kinderopvang (recht op kinderopvangtoeslag) | 1 | 2023-01-01 to 2023-01-01 |
+| `overige-fiscale-maatregelen-2021` | Overige fiscale maatregelen 2021 | 1 | 2021-01-01 to 2021-01-01 |
+| `wet-differentiatie-overdrachtsbelasting` | Wet differentiatie overdrachtsbelasting | 1 | 2021-01-01 to 2021-01-01 |
+| `wet-verbetering-uitvoerbaarheid-toeslagen` | Wet verbetering uitvoerbaarheid toeslagen | 1 | 2022-01-01 to 2022-01-01 |
+| `wet-co2-heffing-industrie` | Wet CO2-heffing industrie | 1 | 2024-01-01 to 2024-01-01 |
+| `wet-vliegbelasting` | Wet vliegbelasting | 1 | 2021-01-01 to 2021-01-01 |
+| `wijzigingswet-wet-vliegbelasting` | Wijzigingswet Wet vliegbelasting | 1 | 2021-01-01 to 2021-01-01 |
+| `implementatiewet-richtlijn-auteursrecht-in-de-digitale-eengemaakte-markt` | Implementatiewet richtlijn auteursrecht in de digitale eengemaakte markt | 1 | 2022-06-07 to 2022-06-07 |
+| `wet-bestuur-en-toezicht-rechtspersonen` | Wet bestuur en toezicht rechtspersonen | 1 | 2023-01-01 to 2023-01-01 |
+| `evaluatiewet-bestuursrechtelijke-geldschuldenregeling-awb` | Evaluatiewet bestuursrechtelijke geldschuldenregeling Awb | 1 | 2021-04-01 to 2021-04-01 |
+| `wet-bedrag-ineens-rvu-en-verlofsparen` | Wet bedrag ineens, RVU en verlofsparen | 1 | 2026-01-01 to 2026-01-01 |
+| `verzamelwet-lnv-2021` | Verzamelwet LNV 2021 | 1 | 2024-01-01 to 2024-01-01 |
+| `uitvoeringswet-verordening-conflictmineralen` | Uitvoeringswet Verordening conflictmineralen | 1 | 2021-02-05 to 2021-02-05 |
+| `invoerings-en-aanpassingswet-wvo-2020` | Invoerings- en aanpassingswet WVO 2020 | 1 | 2022-08-01 to 2022-08-01 |
+| `uitvoeringswet-eu-zeehavenverordening` | Uitvoeringswet EU-zeehavenverordening | 1 | 2021-02-26 to 2021-02-26 |
+| `wet-oneerlijke-handelspraktijken-landbouw-en-voedselvoorzieningsketen` | Wet oneerlijke handelspraktijken landbouw- en voedselvoorzieningsketen | 1 | 2021-11-01 to 2021-11-01 |
+| `wijzigingswet-vreemdelingenwet-2000-tijdelijke-verlenging-bevoegdheid-afnemen-en-verwerken` | Wijzigingswet Vreemdelingenwet 2000 (tijdelijke verlenging bevoegdheid afnemen en verwerken biometrische gegevens van vreemdelingen) | 1 | 2021-02-20 to 2021-02-20 |
+| `tijdelijke-wet-beperking-vertoeven-in-de-openlucht-covid-19` | Tijdelijke wet beperking vertoeven in de openlucht covid-19 | 1 | 2021-02-22 to 2021-02-22 |
+| `wijzigingswet-mediawet-2008-aanscherping-nieuwedienstenprocedure-modernisering-procedures` | Wijzigingswet Mediawet 2008 (aanscherping nieuwedienstenprocedure, modernisering procedures benoeming raden van toezicht en besturen, modernisering bestuur en verduidelijking positie Ster en technische verbeteringen taken Commissariaat voor de Media) | 1 | 2021-07-01 to 2021-07-01 |
+| `wet-mobiliteitsfonds` | Wet Mobiliteitsfonds | 1 | 2021-07-01 to 2021-07-01 |
+| `wijzigingswet-wet-op-het-financieel-toezicht-invoering-verbod-op-dienstverrichting-door-de` | Wijzigingswet Wet op het financieel toezicht (invoering verbod op dienstverrichting door derdelandverzekeraars) | 1 | 2021-03-17 to 2021-03-17 |
+| `kaderwet-overige-jenv-subsidies` | Kaderwet overige JenV-subsidies | 1 | 2022-07-01 to 2022-07-01 |
+| `wijzigingswet-algemene-wet-bestuursrecht-en-enkele-andere-wetten-nieuwe-omgevingsrecht-en` | Wijzigingswet Algemene wet bestuursrecht en enkele andere wetten (nieuwe omgevingsrecht en nadeelcompensatierecht) | 1 | 2024-01-01 to 2024-01-01 |
+| `wijzigingswet-wet-natuurbescherming-en-omgevingswet-stikstofreductie-en-natuurverbetering` | Wijzigingswet Wet natuurbescherming en Omgevingswet (stikstofreductie en natuurverbetering) | 1 | 2024-01-01 to 2024-01-01 |
+| `invoeringswet-eom` | Invoeringswet EOM | 1 | 2021-05-07 to 2021-05-07 |
+| `wet-erkenning-nederlandse-gebarentaal` | Wet erkenning Nederlandse Gebarentaal | 1 | 2021-07-01 to 2021-07-01 |
+| `wijzigingswet-wet-op-het-primair-onderwijs-enz-vereenvoudiging-bekostiging-scholen-voor-pr` | Wijzigingswet Wet op het primair onderwijs, enz. (vereenvoudiging bekostiging scholen voor primair onderwijs en samenwerkingsverbanden) | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-implementatie-richtlijnen-elektronische-handel` | Wet implementatie richtlijnen elektronische handel | 1 | 2021-07-01 to 2021-07-01 |
+| `uitvoeringswet-erasmusprogramma-en-europees-solidariteitskorps` | Uitvoeringswet Erasmusprogramma en Europees Solidariteitskorps | 1 | 2021-07-03 to 2021-07-03 |
+| `wijzigingswet-burgerlijk-wetboek-boek-2-inroepen-bedenktijd-door-het-bestuur-van-een-beurs` | Wijzigingswet Burgerlijk Wetboek Boek 2 (inroepen bedenktijd door het bestuur van een beursvennootschap) | 1 | 2021-05-01 to 2021-05-01 |
+| `wet-maximering-huurprijsverhogingen-geliberaliseerde-huurovereenkomsten` | Wet maximering huurprijsverhogingen geliberaliseerde huurovereenkomsten | 1 | 2024-04-27 to 2024-04-27 |
+| `wijzigingswet-wegenverkeerswet-1994-enz-niet-meer-opleggen-alcoholslotprogramma-in-het-bes` | Wijzigingswet Wegenverkeerswet 1994, enz. (niet meer opleggen alcoholslotprogramma in het bestuursrecht) | 1 | 2021-04-24 to 2021-04-24 |
+| `wet-uitbreiding-slachtofferrechten` | Wet uitbreiding slachtofferrechten | 1 | 2025-07-01 to 2025-07-01 |
+| `tijdelijke-wet-coronatoegangsbewijzen` | Tijdelijke wet coronatoegangsbewijzen | 1 | 2023-06-20 to 2023-06-20 |
+| `implementatiewet-richtlijn-online-omroepdiensten` | Implementatiewet richtlijn online omroepdiensten | 1 | 2021-06-07 to 2021-06-07 |
+| `wet-herindeling-gemeenten-beemster-en-purmerend` | Wet herindeling gemeenten Beemster en Purmerend | 1 | 2021-09-15 to 2021-09-15 |
+| `wijzigingswet-boek-8-burgerlijk-wetboek-bes-uitvoering-internationaal-verdrag-inzake-de-we` | Wijzigingswet Boek 8 Burgerlijk Wetboek BES (uitvoering Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door bunkerolie, 2001 (Trb. 2005, 329)) | 1 | 2021-10-01 to 2021-10-01 |
+| `wet-handhaving-kraakverbod` | Wet handhaving kraakverbod | 1 | 2022-07-01 to 2022-07-01 |
+| `verzamelwet-ienw-2020` | Verzamelwet IenW 2020 | 1 | 2024-01-01 to 2024-01-01 |
+| `wet-herindeling-gemeenten-amsterdam-en-weesp` | Wet herindeling gemeenten Amsterdam en Weesp | 1 | 2021-09-15 to 2021-09-15 |
+| `wet-aanpassing-appa-en-enkele-andere-wetten-2021` | Wet aanpassing Appa en enkele andere wetten 2021 | 1 | 2022-10-12 to 2022-10-12 |
+| `wijzigingswet-wet-milieubeheer-implementatie-van-richtlijn-eu-2018-2001-bevordering-energi` | Wijzigingswet Wet milieubeheer (implementatie van Richtlijn (EU) 2018/2001 bevordering energie uit hernieuwbare bronnen en Klimaatakkoord) | 1 | 2022-01-01 to 2022-01-01 |
+| `uitvoeringswet-handels-en-samenwerkingsovereenkomst-eu-vk-justitie-en-veiligheid` | Uitvoeringswet Handels- en Samenwerkingsovereenkomst EU – VK Justitie en Veiligheid | 1 | 2021-07-17 to 2021-07-17 |
+| `machtigingswet-oprichting-invest-international` | Machtigingswet oprichting Invest International | 1 | 2021-07-21 to 2021-07-21 |
+| `verzamelwet-szw-2022` | Verzamelwet SZW 2022 | 1 | 2022-07-01 to 2022-07-01 |
+| `wet-implementatie-eets-richtlijn` | Wet implementatie EETS-richtlijn | 1 | 2021-10-19 to 2021-10-19 |
+| `wet-samenvoeging-gemeenten-heerhugowaard-en-langedijk` | Wet samenvoeging gemeenten Heerhugowaard en Langedijk | 1 | 2021-09-15 to 2021-09-15 |
+| `wet-samenvoeging-gemeenten-landerd-en-uden` | Wet samenvoeging gemeenten Landerd en Uden | 1 | 2021-09-15 to 2021-09-15 |
+| `wet-samenvoeging-gemeenten-boxmeer-cuijk-grave-mill-en-sint-hubert-en-sint-anthonis` | Wet samenvoeging gemeenten Boxmeer, Cuijk, Grave, Mill en Sint Hubert en Sint Anthonis | 1 | 2021-09-15 to 2021-09-15 |
+| `wijzigingswet-winkeltijdenwet-bescherming-winkeliers-tegen-eenzijdige-wijzigingen-van-open` | Wijzigingswet Winkeltijdenwet (bescherming winkeliers tegen eenzijdige wijzigingen van openingstijden) | 1 | 2022-01-01 to 2022-01-01 |
+| `wijzigingswet-wet-verbod-op-kolen-bij-elektriciteitsproductie-beperking-van-de-co2-emissie` | Wijzigingswet Wet verbod op kolen bij elektriciteitsproductie (beperking van de CO2-emissie) | 1 | 2024-06-28 to 2024-06-28 |
+| `verzamelwet-ocw-2021` | Verzamelwet OCW 2021 | 1 | 2026-01-01 to 2026-01-01 |
+| `wijzigingswet-huisvestingswet-2014-enz-evaluatie-herziene-woningwet-en-om-de-mogelijkheden` | Wijzigingswet Huisvestingswet 2014, enz. (evaluatie herziene Woningwet en om de mogelijkheden voor tijdelijke huurovereenkomsten te verruimen) | 1 | 2022-01-01 to 2022-01-01 |
+| `implementatiewet-richtlijn-prudentieel-toezicht-beleggingsondernemingen` | Implementatiewet richtlijn prudentieel toezicht beleggingsondernemingen | 1 | 2021-10-19 to 2021-10-19 |
+| `wet-strafbaarstelling-misbruik-prostituees-die-slachtoffer-zijn-van-mensenhandel` | Wet strafbaarstelling misbruik prostituees die slachtoffer zijn van mensenhandel | 1 | 2022-01-01 to 2022-01-01 |
+| `wijzigingswet-burgerlijk-wetboek-boek-2-evenwichtiger-maken-verhouding-aantal-mannen-en-vr` | Wijzigingswet Burgerlijk Wetboek Boek 2 (evenwichtiger maken verhouding aantal mannen en vrouwen in het bestuur en de raad van commissarissen van grote naamloze en besloten vennootschappen) | 1 | 2022-01-01 to 2022-01-01 |
+| `wijzigingswet-wet-arbeid-vreemdelingen-toekomstbestendig-maken-van-de-wetgeving-op-het-ter` | Wijzigingswet Wet arbeid vreemdelingen (toekomstbestendig maken van de wetgeving op het terrein van arbeidsmigratie) | 1 | 2022-01-01 to 2022-01-01 |
+| `wijzigingswet-woo` | Wijzigingswet Woo | 1 | 2021-10-28 to 2021-10-28 |
+| `wijzigingswet-wet-griffierechten-burgerlijke-zaken-introduceren-van-meerdere-griffierechtc` | Wijzigingswet Wet griffierechten burgerlijke zaken (introduceren van meerdere griffierechtcategorieën voor lagere geldvorderingen en toevoegen van een griffierechtcategorie voor hoge geldvorderingen) | 1 | 2022-01-01 to 2022-01-01 |
+| `wet-implementatie-richtlijn-grensoverschrijdende-distributie-van-beleggingsinstellingen-en` | Wet implementatie richtlijn grensoverschrijdende distributie van beleggingsinstellingen en icbe’s | 1 | 2021-11-06 to 2021-11-06 |
+| `goedkeuringswet-overeenkomst-treinverkeer-tussen-belgie-en-het-verenigd-koninkrijk-via-de` | Goedkeuringswet Overeenkomst treinverkeer tussen België en het Verenigd Koninkrijk via de vaste kanaalverbinding (Trb. 2020, 67, Trb. 2020, 107 en Trb. 2020, 128) en Overeenkomst grenscontroles op treinverkeer tussen Nederland en het Verenigd Koninkrijk via de vaste kanaalverbinding (Trb. 2020, 69 en Trb. 2021, 62) | 1 | 2021-11-09 to 2021-11-09 |
+| `wet-invoering-conditionele-bronbelasting-op-dividenden` | Wet invoering conditionele bronbelasting op dividenden | 1 | 2024-01-01 to 2024-01-01 |
+| `wijzigingswet-wetboek-van-strafrecht-enz-versterking-strafrechtelijke-aanpak-ondermijnende` | Wijzigingswet Wetboek van Strafrecht, enz. (versterking strafrechtelijke aanpak ondermijnende criminaliteit) | 1 | 2022-07-01 to 2022-07-01 |
+| `wet-bestuurlijke-harmonisatie-beroepsonderwijs` | Wet bestuurlijke harmonisatie beroepsonderwijs | 1 | 2022-08-01 to 2022-08-01 |
+| `wijzigingswet-wet-justitiele-en-strafvorderlijke-gegevens-weigeren-afgifte-verklaring-omtr` | Wijzigingswet Wet justitiële en strafvorderlijke gegevens (weigeren afgifte verklaring omtrent het gedrag op basis van politiegegevens) | 1 | 2022-07-01 to 2022-07-01 |
+| `wet-adviescollege-rechtspositie-politieke-ambtsdragers` | Wet adviescollege rechtspositie politieke ambtsdragers | 1 | 2026-02-20 to 2026-02-20 |
+| `goedkeuringswet-derde-verlenging-geldingsduur-twm-covid-19` | Goedkeuringswet derde verlenging geldingsduur Twm covid-19 | 1 | 2021-12-14 to 2021-12-14 |
+| `wet-betaald-ouderschapsverlof` | Wet betaald ouderschapsverlof | 1 | 2022-08-02 to 2022-08-02 |
+| `fiscale-verzamelwet-2022` | Fiscale verzamelwet 2022 | 1 | 2024-01-01 to 2024-01-01 |
+| `implementatiewet-verliesabsorptie-en-herkapitalisatiecapaciteit-van-banken-en-beleggingson` | Implementatiewet verliesabsorptie- en herkapitalisatiecapaciteit van banken en beleggingsondernemingen | 1 | 2021-12-21 to 2021-12-21 |
+| `implementatiewet-registratie-uiteindelijk-belanghebbenden-van-trusts-en-soortgelijke-jurid` | Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies | 1 | 2026-06-03 to 2026-06-03 |
+| `uitvoeringswet-cyberbeveiligingsverordening` | Uitvoeringswet cyberbeveiligingsverordening | 1 | 2022-05-01 to 2022-05-01 |
+| `verzamelwet-ezk-2022` | Verzamelwet EZK 2022 | 1 | 2022-03-02 to 2022-03-02 |
+| `wet-bekrachtiging-onderdeel-besluit-benoemingsprocedure-ser-en-wijziging-wet-op-de-sociaal` | Wet bekrachtiging onderdeel Besluit benoemingsprocedure SER en wijziging Wet op de Sociaal-Economische Raad (vervanging goedkeuringsprocedure voorhangprocedure) | 1 | 2022-01-01 to 2022-01-01 |
+| `wet-actualisatie-markttoezicht-registerloodsen` | Wet actualisatie markttoezicht registerloodsen | 1 | 2022-01-01 to 2022-01-01 |
+| `wet-tegengaan-mismatches-bij-toepassing-zakelijkheidsbeginsel` | Wet tegengaan mismatches bij toepassing zakelijkheidsbeginsel | 1 | 2022-01-01 to 2022-01-01 |
+| `overige-fiscale-maatregelen-2022` | Overige fiscale maatregelen 2022 | 1 | 2022-01-01 to 2022-01-01 |
+| `wet-implementatie-belastingplichtmaatregel-uit-de-tweede-eu-richtlijn-antibelastingontwijk` | Wet implementatie belastingplichtmaatregel uit de tweede EU-richtlijn antibelastingontwijking | 1 | 2022-01-01 to 2022-01-01 |
+| `belastingplan-2022` | Belastingplan 2022 | 1 | 2022-01-01 to 2022-01-01 |
+| `wet-implementatie-richtlijnen-accijns-2022` | Wet implementatie richtlijnen accijns 2022 | 1 | 2023-02-13 to 2023-02-13 |
+| `reparatiewet-wtbk` | Reparatiewet WtBK | 1 | 2022-02-01 to 2022-02-01 |
+| `wijzigingswet-wet-publieke-gezondheid-opnemen-gemeentelijke-taak-om-prenataal-huisbezoek-t` | Wijzigingswet Wet publieke gezondheid (opnemen gemeentelijke taak om prenataal huisbezoek te verrichten) | 1 | 2022-07-01 to 2022-07-01 |
+| `wijzigingswet-wet-op-de-beroepen-in-de-individuele-gezondheidszorg-enz-organisatie-regiona` | Wijzigingswet Wet op de beroepen in de individuele gezondheidszorg enz. (organisatie regionale tuchtcolleges) | 1 | 2022-04-01 to 2022-04-01 |
+| `wijzigingswet-wet-gemeenschappelijke-regelingen-enz-versterken-democratische-legitimatie-g` | Wijzigingswet Wet gemeenschappelijke regelingen, enz. (versterken democratische legitimatie gemeenschappelijke regelingen) | 1 | 2022-07-01 to 2022-07-01 |
+| `implementatiewet-richtlijn-gedekte-obligaties` | Implementatiewet richtlijn gedekte obligaties | 1 | 2022-07-08 to 2022-07-08 |
+| `goedkeurings-en-uitvoeringswet-benelux-politieverdrag` | Goedkeurings- en uitvoeringswet Benelux-politieverdrag | 1 | 2023-10-01 to 2023-10-01 |
+| `wijzigingswet-uitvoeringswet-internationale-kinderbescherming-en-enige-andere-wetten-inzak` | Wijzigingswet Uitvoeringswet internationale kinderbescherming en enige andere wetten inzake herschikking Verordening (EU) nr. 2019/1111 (bevoegdheid, erkenning en tenuitvoerlegging van beslissingen in huwelijkszaken; ouderlijke verantwoordelijkheid; internationale kinderontvoering (herschikking) (PbEU 2019, L 178)) | 1 | 2022-08-01 to 2022-08-01 |
+| `wijzigingswet-wet-op-het-financieel-toezicht-enz-bevoegdheid-verificatie-van-interesten-va` | Wijzigingswet Wet op het financieel toezicht, enz. (bevoegdheid verificatie van interesten vanaf faillietverklaring bank of beleggingsonderneming ter uitvoering van Richtlijn nr. 2014/59/EU en Verordening (EU) nr. 806/2014) | 1 | 2022-03-03 to 2022-03-03 |
+| `wet-wijziging-verlengingssystematiek-en-goedkeuring-vierde-verlenging-geldingsduur-tijdeli` | Wet wijziging verlengingssystematiek en goedkeuring vierde verlenging geldingsduur Tijdelijke wet maatregelen covid-19 | 1 | 2022-03-15 to 2022-03-15 |
+| `verzamelwet-ocw-2022` | Verzamelwet OCW 2022 | 1 | 2023-01-01 to 2023-01-01 |
+| `wet-minimum-co2-prijs-elektriciteitsopwekking` | Wet minimum CO2-prijs elektriciteitsopwekking | 1 | 2022-04-05 to 2022-04-05 |
+| `wijzigingswet-burgerlijk-wetboek-boek-6-en-overgangswet-nieuw-burgerlijk-wetboek-verkorten` | Wijzigingswet Burgerlijk Wetboek Boek 6 en Overgangswet nieuw Burgerlijk Wetboek (verkorten wettelijke betaaltermijn tot 30 dagen) | 1 | 2022-07-01 to 2022-07-01 |
+| `implementatiewet-richtlijn-modernisering-consumentenbescherming` | Implementatiewet richtlijn modernisering consumentenbescherming | 1 | 2022-05-28 to 2022-05-28 |
+| `implementatiewet-richtlijnen-verkoop-goederen-en-levering-digitale-inhoud` | Implementatiewet richtlijnen verkoop goederen en levering digitale inhoud | 1 | 2022-04-27 to 2022-04-27 |
+| `wet-kwaliteit-incassodienstverlening` | Wet kwaliteit incassodienstverlening | 1 | 2026-10-01 to 2026-10-01 |
+| `wet-veiligheidstoets-investeringen-fusies-en-overnames` | Wet veiligheidstoets investeringen, fusies en overnames | 1 | 2025-09-01 to 2025-09-01 |
+| `wet-vrachtwagenheffing` | Wet vrachtwagenheffing | 1 | 2026-07-01 to 2026-07-01 |
+| `tijdelijke-wet-nationaal-groeifonds` | Tijdelijke wet Nationaal Groeifonds | 1 | 2022-08-01 to 2022-08-01 |
+| `tijdelijke-experimentenwet-nieuwe-stembiljetten` | Tijdelijke experimentenwet nieuwe stembiljetten | 1 | 2025-02-12 to 2025-02-12 |
+| `wijzigingswet-financiele-markten-2022` | Wijzigingswet financiële markten 2022 | 1 | 2023-07-01 to 2023-07-01 |
+| `wet-implementatie-eu-richtlijn-hernieuwbare-energie-voor-garanties-van-oorsprong` | Wet implementatie EU-richtlijn hernieuwbare energie voor garanties van oorsprong | 1 | 2022-10-01 to 2022-10-01 |
+| `wijzigingswet-wet-op-het-primair-onderwijs-enz-aanpassingen-op-het-gebied-van-de-doorstroo` | Wijzigingswet Wet op het primair onderwijs, enz. (aanpassingen op het gebied van de doorstroom van het basisonderwijs naar het voortgezet onderwijs en wijziging van de stelselinrichting van doorstroomtoetsen en toetsen verbonden aan leerling- en onderwijsvolgsystemen in het basisonderwijs) | 1 | 2024-05-01 to 2024-05-01 |
+| `wet-nadere-beloningsmaatregelen-financiele-ondernemingen` | Wet nadere beloningsmaatregelen financiële ondernemingen | 1 | 2023-01-01 to 2023-01-01 |
+| `wet-maatschappelijk-verantwoord-inkopen-jeugdwet-en-wmo-2015` | Wet maatschappelijk verantwoord inkopen Jeugdwet en Wmo 2015 | 1 | 2024-07-01 to 2024-07-01 |
+| `wijzigingswet-burgerlijk-wetboek-boek-1-enz-van-rechtswege-ontstaan-van-gezamenlijk-gezag` | Wijzigingswet Burgerlijk Wetboek Boek 1, enz. (van rechtswege ontstaan van gezamenlijk gezag door erkenning) | 1 | 2023-01-01 to 2023-01-01 |
+| `wijzigingswet-kieswet-definitieve-invoering-nieuwe-stembiljet-voor-kiezers-buiten-nederlan` | Wijzigingswet Kieswet (definitieve invoering nieuwe stembiljet voor kiezers buiten Nederland) | 1 | 2024-01-01 to 2024-01-01 |
+| `wet-wettelijke-taken-internationalisering-onderwijs` | Wet wettelijke taken internationalisering onderwijs | 1 | 2023-01-01 to 2023-01-01 |
+| `uitvoeringswet-herziening-verordening-producten-voor-tweeerlei-gebruik` | Uitvoeringswet herziening Verordening producten voor tweeërlei gebruik | 1 | 2022-07-07 to 2022-07-07 |
+| `wet-aanvullende-fiscale-koopkrachtmaatregelen-2022` | Wet aanvullende fiscale koopkrachtmaatregelen 2022 | 1 | 2025-01-01 to 2025-01-01 |
+| `wet-implementatie-eu-richtlijn-transparante-en-voorspelbare-arbeidsvoorwaarden` | Wet implementatie EU-richtlijn transparante en voorspelbare arbeidsvoorwaarden | 1 | 2022-08-01 to 2022-08-01 |
+| `wet-tijdelijke-onderwijsvoorzieningen-bij-massale-toestroom-van-ontheemden` | Wet tijdelijke onderwijsvoorzieningen bij massale toestroom van ontheemden | 1 | 2024-08-01 to 2024-08-01 |
+| `wijzigingswet-wet-toezicht-trustkantoren-2018-verbieden-trustdienstverlening-clienten-russ` | Wijzigingswet Wet toezicht trustkantoren 2018 (verbieden trustdienstverlening cliënten Russische Federatie of de Republiek Belarus) | 1 | 2022-07-16 to 2022-07-16 |
+| `wet-geen-rente-bij-hervatting-invordering-toeslagschulden` | Wet geen rente bij hervatting invordering toeslagschulden | 1 | 2022-07-20 to 2022-07-20 |
+| `innovatiewet-strafvordering` | Innovatiewet Strafvordering | 1 | 2022-10-01 to 2022-10-01 |
+| `wet-tot-samenvoeging-van-de-gemeenten-brielle-hellevoetsluis-en-westvoorne` | Wet tot samenvoeging van de gemeenten Brielle, Hellevoetsluis en Westvoorne | 1 | 2022-09-15 to 2022-09-15 |
+| `wet-nieuwe-procedure-vaststelling-verkiezingsuitslagen` | Wet nieuwe procedure vaststelling verkiezingsuitslagen | 1 | 2023-01-01 to 2023-01-01 |
+| `implementatiewet-omnibusrichtlijn-en-verordening-esfs-review` | Implementatiewet omnibusrichtlijn en -verordening ESFS-review | 1 | 2022-09-03 to 2022-09-03 |
+| `verzamelwet-justitie-en-veiligheid-2022` | Verzamelwet Justitie en Veiligheid 2022 | 1 | 2023-01-01 to 2023-01-01 |
+| `wet-bevorderen-integriteit-en-functioneren-decentraal-bestuur` | Wet bevorderen integriteit en functioneren decentraal bestuur | 1 | 2023-04-01 to 2023-04-01 |
+| `wet-hersteloperatie-toeslagen` | Wet hersteloperatie toeslagen | 1 | 2026-04-01 to 2026-04-01 |
+| `wet-op-de-nederlandse-sportraad` | Wet op de Nederlandse Sportraad | 1 | 2023-01-01 to 2023-01-01 |
+| `wijzigingswet-wet-basisregistratie-personen-invoering-centrale-voorziening-ter-ondersteuni` | Wijzigingswet Wet basisregistratie personen (invoering centrale voorziening ter ondersteuning van de colleges van burgemeester en wethouders) | 1 | 2023-05-15 to 2023-05-15 |
+| `wet-kiescollege-niet-ingezetenen` | Wet kiescollege niet-ingezetenen | 1 | 2023-01-01 to 2023-01-01 |
+| `evaluatiewet-wfpp` | Evaluatiewet Wfpp | 1 | 2025-02-12 to 2025-02-12 |
+| `uitvoeringswet-verordening-herstel-en-afwikkeling-centrale-tegenpartijen` | Uitvoeringswet verordening herstel en afwikkeling centrale tegenpartijen | 1 | 2022-11-04 to 2022-11-04 |
+| `wet-versterking-decentrale-rekenkamers` | Wet versterking decentrale rekenkamers | 1 | 2025-01-01 to 2025-01-01 |
+| `wijzigingswet-mijnbouwwet-enz-aanpassing-vergunningsstelsel-voor-opsporen-en-winnen-van-aa` | Wijzigingswet Mijnbouwwet, enz. (aanpassing vergunningsstelsel voor opsporen en winnen van aardwarmte) | 1 | 2023-07-01 to 2023-07-01 |
+| `implementatiewet-richtlijn-representatieve-vorderingen-voor-consumenten` | Implementatiewet richtlijn representatieve vorderingen voor consumenten | 1 | 2023-06-25 to 2023-06-25 |
+| `implementatiewet-richtlijn-herstructurering-en-insolventie` | Implementatiewet richtlijn herstructurering en insolventie | 1 | 2023-01-01 to 2023-01-01 |
+| `wijzigingswet-waterschapswet-schrappen-van-geborgde-zetels-bedrijven` | Wijzigingswet Waterschapswet (schrappen van geborgde zetels bedrijven) | 1 | 2022-12-17 to 2022-12-17 |
+| `wet-rechtsherstel-box-3` | Wet rechtsherstel box 3 | 1 | 2025-07-19 to 2025-07-19 |
+| `overbruggingswet-box-3` | Overbruggingswet box 3 | 1 | 2023-01-01 to 2023-01-01 |
+| `wet-minimum-co2-prijs-industrie` | Wet minimum CO2-prijs industrie | 1 | 2023-01-01 to 2023-01-01 |
+| `wet-tijdelijke-solidariteitsbijdrage` | Wet tijdelijke solidariteitsbijdrage | 1 | 2023-01-01 to 2023-01-01 |
+| `wet-delegatiebepaling-geen-invorderingsrente-in-specifieke-gevallen` | Wet delegatiebepaling geen invorderingsrente in specifieke gevallen | 1 | 2023-01-01 to 2023-01-01 |
+| `wet-aanpassing-fiscale-regeling-aandelenoptierechten` | Wet aanpassing fiscale regeling aandelenoptierechten | 1 | 2023-01-01 to 2023-01-01 |
+| `fiscale-verzamelwet-2023` | Fiscale verzamelwet 2023 | 1 | 2024-01-01 to 2024-01-01 |
+| `wet-excessief-lenen-bij-eigen-vennootschap` | Wet excessief lenen bij eigen vennootschap | 1 | 2023-01-01 to 2023-01-01 |
+| `intrekkingswet-wet-maatregelen-woningmarkt-2014-ii-afschaffing-verhuurderheffing` | Intrekkingswet Wet maatregelen woningmarkt 2014 II (afschaffing verhuurderheffing) | 1 | 2024-01-01 to 2024-01-01 |
+| `verzamelwet-szw-2023` | Verzamelwet SZW 2023 | 1 | 2023-01-01 to 2023-01-01 |
+| `wet-implementatie-eu-richtlijn-gegevensuitwisseling-digitale-platformeconomie` | Wet implementatie EU-richtlijn gegevensuitwisseling digitale platformeconomie | 1 | 2023-01-01 to 2023-01-01 |
+| `belastingplan-2023` | Belastingplan 2023 | 1 | 2025-01-01 to 2025-01-01 |
+| `wijzigingswet-wet-toezicht-trustkantoren-2018-verbieden-trustdienstverlening-in-gevallen-m` | Wijzigingswet Wet toezicht trustkantoren 2018 (verbieden trustdienstverlening in gevallen met hoge integriteitrisico’s) | 1 | 2023-07-01 to 2023-07-01 |
+| `wijzigingswet-financiele-markten-2022-ii` | Wijzigingswet financiële markten 2022-II | 1 | 2023-07-01 to 2023-07-01 |
+| `wijzigingswet-woningwet-huurverlaging-2023-voor-huurders-met-lager-inkomen` | Wijzigingswet Woningwet (huurverlaging 2023 voor huurders met lager inkomen) | 1 | 2025-02-12 to 2025-02-12 |
+| `rijkswet-nationaliteit-zeeschepen` | Rijkswet nationaliteit zeeschepen | 1 | 2026-07-01 to 2026-07-01 |
+| `wet-digitale-overheid` | Wet digitale overheid | 1 | 2025-11-11 to 2025-11-11 |
+| `wet-toekomst-pensioenen` | Wet toekomst pensioenen | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-goed-verhuurderschap` | Wet goed verhuurderschap | 1 | 2026-11-01 to 2026-11-01 |
+| `wet-invoering-minimumuurloon` | Wet invoering minimumuurloon | 1 | 2024-01-01 to 2024-01-01 |
+| `wet-rechtspositie-gesloten-jeugdhulp` | Wet rechtspositie gesloten jeugdhulp | 1 | 2024-01-01 to 2024-01-01 |
+| `wet-vaststellingsprocedure-staatloosheid` | Wet vaststellingsprocedure staatloosheid | 1 | 2023-10-01 to 2023-10-01 |
+| `wet-uitvoering-markttoezichtverordening` | Wet uitvoering markttoezichtverordening | 1 | 2024-01-01 to 2024-01-01 |
+| `wijzigingswet-faillissementswet-verbetering-doorstroom-gemeentelijke-schuldhulpverlening-n` | Wijzigingswet Faillissementswet (verbetering doorstroom gemeentelijke schuldhulpverlening naar wettelijke schuldsaneringsregeling natuurlijke personen) | 1 | 2023-07-01 to 2023-07-01 |
+| `wijzigingswet-wetboek-van-burgerlijke-rechtsvordering-enz-tegengaan-huwelijkse-gevangensch` | Wijzigingswet Wetboek van Burgerlijke Rechtsvordering, enz. (tegengaan huwelijkse gevangenschap en enige andere onderwerpen) | 1 | 2023-07-01 to 2023-07-01 |
+| `implementatiewet-richtlijn-herstelpakket-beleggingsondernemingen` | Implementatiewet richtlijn herstelpakket beleggingsondernemingen | 1 | 2023-04-05 to 2023-04-05 |
+| `wet-technische-eenmaking-wetboek-van-burgerlijke-rechtsvordering` | Wet technische eenmaking Wetboek van Burgerlijke Rechtsvordering | 1 | 2025-07-01 to 2025-07-01 |
+| `uitvoeringswet-eu-verordeningen-grenzen-en-veiligheid` | Uitvoeringswet EU-verordeningen grenzen en veiligheid | 1 | 2026-06-12 to 2026-06-12 |
+| `wijzigingswet-boek-1-en-boek-10-burgerlijk-wetboek-en-boek-1-burgerlijk-wetboek-bonaire-si` | Wijzigingswet Boek 1 en Boek 10 Burgerlijk Wetboek en Boek 1 Burgerlijk Wetboek Bonaire, Sint Eustatius en Saba (introductie gecombineerde geslachtsnaam) | 1 | 2024-01-01 to 2024-01-01 |
+| `wet-implementatie-richtlijn-betalingsdienstaanbieders` | Wet implementatie Richtlijn betalingsdienstaanbieders | 1 | 2024-01-01 to 2024-01-01 |
+| `uitvoeringswet-verordening-terroristische-online-inhoud` | Uitvoeringswet verordening terroristische online-inhoud | 1 | 2025-09-05 to 2025-09-05 |
+| `voortduringswet-artikelen-2c-en-4-wvb` | Voortduringswet artikelen 2c en 4 Wvb | 1 | 2023-04-20 to 2023-04-20 |
+| `wet-elektronische-gegevensuitwisseling-in-de-zorg` | Wet elektronische gegevensuitwisseling in de zorg | 1 | 2025-07-05 to 2025-07-05 |
+| `verzamelwet-ienw-2021` | Verzamelwet IenW 2021 | 1 | 2024-01-01 to 2024-01-01 |
+| `implementatiewet-richtlijn-2020-1057-eu-inzake-detachering-in-de-wegvervoersector` | Implementatiewet Richtlijn 2020/1057/EU inzake detachering in de wegvervoersector | 1 | 2023-06-01 to 2023-06-01 |
+| `aanpassingswet-rijkswet-nationaliteit-zeeschepen` | Aanpassingswet Rijkswet nationaliteit zeeschepen | 1 | 2025-07-01 to 2025-07-01 |
+| `eerste-tranche-wijziging-wet-publieke-gezondheid` | Eerste tranche wijziging Wet publieke gezondheid | 1 | 2023-06-20 to 2023-06-20 |
+| `wet-modernisering-elektronisch-bestuurlijk-verkeer` | Wet modernisering elektronisch bestuurlijk verkeer | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-herinvoering-basisbeurs-hoger-onderwijs` | Wet herinvoering basisbeurs hoger onderwijs | 1 | 2024-07-18 to 2024-07-18 |
+| `tijdelijke-wet-uitwisseling-persoonsgegevens-uhp-kot` | Tijdelijke wet uitwisseling persoonsgegevens UHP KOT | 1 | 2023-07-01 to 2023-07-01 |
+| `wet-uitbreiding-bestuurlijk-instrumentarium-onderwijs` | Wet uitbreiding bestuurlijk instrumentarium onderwijs | 1 | 2023-08-01 to 2023-08-01 |
+| `wet-aanvullende-regelingen-hersteloperatie-toeslagen` | Wet aanvullende regelingen hersteloperatie toeslagen | 1 | 2025-01-01 to 2025-01-01 |
+| `wet-aanpak-dierenmishandeling-en-dierverwaarlozing` | Wet aanpak dierenmishandeling en dierverwaarlozing | 1 | 2024-01-01 to 2024-01-01 |
+| `wet-implementatie-richtlijn-grensoverschrijdende-omzettingen-fusies-en-splitsingen` | Wet implementatie richtlijn grensoverschrijdende omzettingen, fusies en splitsingen | 1 | 2023-09-01 to 2023-09-01 |
+| `wijzigingswet-rijkswet-op-het-nederlanderschap-enz-vaststelling-staatloosheid` | Wijzigingswet Rijkswet op het Nederlanderschap, enz. (vaststelling staatloosheid) | 1 | 2023-10-01 to 2023-10-01 |
+| `wijzigingswet-wet-op-het-hoger-onderwijs-en-wetenschappelijk-onderzoek-bestuur-en-inrichti` | Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek (bestuur en inrichting academische ziekenhuizen) | 1 | 2024-01-01 to 2024-01-01 |
+| `tijdelijke-wet-transparantie-turboliquidatie` | Tijdelijke wet transparantie turboliquidatie | 1 | 2023-11-15 to 2023-11-15 |
+| `reparatiewet-forensische-zorg` | Reparatiewet forensische zorg | 1 | 2024-01-01 to 2024-01-01 |
+| `wet-implementatie-richtlijn-kleineondernemersregeling` | Wet implementatie Richtlijn kleineondernemersregeling | 1 | 2025-01-01 to 2025-01-01 |
+| `wet-minimumbelasting-2024` | Wet minimumbelasting 2024 | 1 | 2026-04-11 to 2026-04-11 |
+| `wet-bevorderen-samenwerking-en-rechtmatige-zorg` | Wet bevorderen samenwerking en rechtmatige zorg | 1 | 2025-01-01 to 2025-01-01 |
+| `wijzigingswet-wet-donorgegevens-kunstmatige-bevruchting-etc-evaluatie-ondersteuning-van-do` | Wijzigingswet Wet donorgegevens kunstmatige bevruchting, etc. (evaluatie, ondersteuning van donorkinderen en omvorming tot publiekrechtelijk zelfstandig bestuursorgaan) | 1 | 2025-04-01 to 2025-04-01 |
+| `verzamelwet-vws-2022` | Verzamelwet VWS 2022 | 1 | 2024-07-01 to 2024-07-01 |
+| `wet-opheffing-geheimhoudingsplicht-ten-behoeve-van-de-inspectie-belastingen-toeslagen-en-d` | Wet opheffing geheimhoudingsplicht ten behoeve van de inspectie belastingen, toeslagen en douane | 1 | 2024-01-01 to 2024-01-01 |
+| `wijzigingswet-herstel-en-afwikkeling-van-verzekeraars` | Wijzigingswet herstel en afwikkeling van verzekeraars | 1 | 2024-01-01 to 2024-01-01 |
+| `implementatiewet-zesde-richtlijn-motorrijtuigenverzekering` | Implementatiewet zesde richtlijn motorrijtuigenverzekering | 1 | 2024-07-10 to 2024-07-10 |
+| `tijdelijke-wet-tijdelijke-nieuwkomersvoorzieningen-in-het-onderwijs` | Tijdelijke wet tijdelijke nieuwkomersvoorzieningen in het onderwijs | 1 | 2023-10-11 to 2023-10-11 |
+| `verzamelwet-omgevingswet-2023` | Verzamelwet Omgevingswet 2023 | 1 | 2024-01-01 to 2024-01-01 |
+| `rijkswet-tot-wijziging-artikelen-14-en-38-van-het-statuut-voor-het-koninkrijk-der-nederlan` | Rijkswet tot wijziging artikelen 14 en 38 van het Statuut voor het Koninkrijk der Nederlanden (beperken van de mogelijkheid een algemene maatregel van rijksbestuur uit te vaardigen zonder wettelijke grondslag daartoe) | 1 | 2024-01-01 to 2024-01-01 |
+| `wijzigingswet-wet-rechtspositie-rechterlijke-ambtenaren-enz-tijdelijke-voorziening-benoeme` | Wijzigingswet Wet rechtspositie rechterlijke ambtenaren, enz. (tijdelijke voorziening benoemen rechters-plaatsvervangers) | 1 | 2023-11-16 to 2023-11-16 |
+| `wijzigingswet-participatiewet-werkvoorzieningen-visueel-beperkten` | Wijzigingswet Participatiewet (werkvoorzieningen visueel beperkten) | 1 | 2024-01-01 to 2024-01-01 |
+| `wijzigingswet-gemeentewet-enz-uitbreiding-sluitingsbevoegdheid-burgemeester-en-de-gezagheb` | Wijzigingswet Gemeentewet, enz. (uitbreiding sluitingsbevoegdheid burgemeester en de gezaghebber ter handhaving van de openbare orde) | 1 | 2024-01-01 to 2024-01-01 |
+| `verzamelwet-szw-2024` | Verzamelwet SZW 2024 | 1 | 2025-01-01 to 2025-01-01 |
+| `wet-verlaging-eigen-bijdrage-huurtoeslag` | Wet verlaging eigen bijdrage huurtoeslag | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-cameratoezicht-douane` | Wet cameratoezicht douane | 1 | 2024-01-01 to 2024-01-01 |
+| `belastingplan-bes-eilanden-2024` | Belastingplan BES eilanden 2024 | 1 | 2024-12-31 to 2024-12-31 |
+| `wijzigingswet-huisvestingswet-2014-enz-13-december-2023-evaluatie-herziene-huisvestingswet` | Wijzigingswet Huisvestingswet 2014, enz. (13 december 2023, evaluatie herziene Huisvestingswet 2014) | 1 | 2024-01-01 to 2024-01-01 |
+| `wet-huurbescherming-weeskinderen` | Wet huurbescherming weeskinderen | 1 | 2024-01-01 to 2024-01-01 |
+| `wet-aanpassing-fiscale-bedrijfsopvolgingsfaciliteiten-2024` | Wet aanpassing fiscale bedrijfsopvolgingsfaciliteiten 2024 | 1 | 2025-01-01 to 2025-01-01 |
+| `wet-aanpassing-fiscale-beleggingsinstelling` | Wet aanpassing fiscale beleggingsinstelling | 1 | 2025-01-01 to 2025-01-01 |
+| `wet-compensatie-wegens-selectie-aan-de-poort` | Wet compensatie wegens selectie aan de poort | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-fiscaal-kwalificatiebeleid-rechtsvormen` | Wet fiscaal kwalificatiebeleid rechtsvormen | 1 | 2025-01-01 to 2025-01-01 |
+| `wet-aanpassing-fonds-voor-gemene-rekening-en-vrijgestelde-beleggingsinstelling` | Wet aanpassing fonds voor gemene rekening en vrijgestelde beleggingsinstelling | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-herwaardering-proceskostenvergoedingen-woz-en-bpm` | Wet herwaardering proceskostenvergoedingen WOZ en bpm | 1 | 2024-01-01 to 2024-01-01 |
+| `wet-tijdelijke-regeling-herzien-aangifte-inkomstenbelasting` | Wet tijdelijke regeling herzien aangifte inkomstenbelasting | 1 | 2024-01-01 to 2024-01-01 |
+| `implementatiewet-richtlijn-openbaarmaking-winstbelasting` | Implementatiewet Richtlijn openbaarmaking winstbelasting | 1 | 2023-12-30 to 2023-12-30 |
+| `wet-fiscale-klimaatmaatregelen-glastuinbouw` | Wet fiscale Klimaatmaatregelen glastuinbouw | 1 | 2026-01-01 to 2026-01-01 |
+| `fiscale-verzamelwet-2024` | Fiscale verzamelwet 2024 | 1 | 2024-01-01 to 2024-01-01 |
+| `belastingplan-2024` | Belastingplan 2024 | 1 | 2026-01-01 to 2026-01-01 |
+| `overige-fiscale-maatregelen-2024` | Overige fiscale maatregelen 2024 | 1 | 2024-07-01 to 2024-07-01 |
+| `wijzigingswet-wet-op-de-omzetbelasting-1968-aanpassing-aanvullende-regeling-voor-antiek-ku` | Wijzigingswet Wet op de omzetbelasting 1968 (aanpassing aanvullende regeling voor antiek, kunst- en verzamelvoorwerpen, en aanpassingen bepalingen inzake plaats van dienst voor de heffing van omzetbelasting bij bepaalde diensten die virtueel aan een afnemer worden verricht) | 1 | 2025-01-01 to 2025-01-01 |
+| `wet-coordinatie-terrorismebestrijding-en-nationale-veiligheid` | Wet coördinatie terrorismebestrijding en nationale veiligheid | 1 | 2026-08-15 to 2026-08-15 |
+| `wet-gemeentelijke-taak-mogelijk-maken-asielopvangvoorzieningen` | Wet gemeentelijke taak mogelijk maken asielopvangvoorzieningen | 1 | 2024-01-31 to 2024-01-31 |
+| `wet-vaste-huurcontracten` | Wet vaste huurcontracten | 1 | 2026-06-04 to 2026-06-04 |
+| `tijdelijke-wet-klimaatfonds` | Tijdelijke wet Klimaatfonds | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-adviescollege-ict-toetsing` | Wet Adviescollege ICT-toetsing | 1 | 2025-02-12 to 2025-02-12 |
+| `wet-vereenvoudiging-en-modernisering-bewijsrecht` | Wet vereenvoudiging en modernisering bewijsrecht | 1 | 2025-01-01 to 2025-01-01 |
+| `wet-seksuele-misdrijven` | Wet seksuele misdrijven | 1 | 2024-07-01 to 2024-07-01 |
+| `tijdelijke-wet-onderzoeken-aivd-en-mivd-naar-landen-met-een-offensief-cyberprogramma-bulkd` | Tijdelijke wet onderzoeken AIVD en MIVD naar landen met een offensief cyberprogramma, bulkdatasets en overige specifieke voorzieningen | 1 | 2024-07-01 to 2024-07-01 |
+| `implementatiewet-toegankelijkheidsvoorschriften-producten-en-diensten` | Implementatiewet toegankelijkheidsvoorschriften producten en diensten | 1 | 2025-06-28 to 2025-06-28 |
+| `wet-programmatuur-verkiezingsuitslagen` | Wet programmatuur verkiezingsuitslagen | 1 | 2025-08-01 to 2025-08-01 |
+| `wijzigingswet-wet-maximering-huurprijsverhogingen-geliberaliseerde-huurovereenkomsten-enz` | Wijzigingswet Wet maximering huurprijsverhogingen geliberaliseerde huurovereenkomsten, enz. (verlenging, wijziging en handhaving maximering en verkorting verjaringstermijn huurverhogingen) | 1 | 2025-01-01 to 2025-01-01 |
+| `reparatiewet-ocw-2024` | Reparatiewet OCW 2024 | 1 | 2026-01-01 to 2026-01-01 |
+| `wijzigingswet-wet-publieke-gezondheid-invoering-van-vergunningplicht-en-meldplicht-ter-zak` | Wijzigingswet Wet publieke gezondheid (invoering van vergunningplicht en meldplicht ter zake van het verrichten van handelingen met poliovirus) | 1 | 2025-03-01 to 2025-03-01 |
+| `wet-kinderopvang-bes` | Wet kinderopvang BES | 1 | 2026-04-01 to 2026-04-01 |
+| `wet-bestuursrechtelijke-aanpak-online-kinderpornografisch-materiaal` | Wet bestuursrechtelijke aanpak online kinderpornografisch materiaal | 1 | 2026-04-25 to 2026-04-25 |
+| `wet-implementatie-open-data-richtlijn` | Wet implementatie Open data richtlijn | 1 | 2024-06-19 to 2024-06-19 |
+| `wet-versterking-positie-ouders-en-leerlingen-in-het-passend-onderwijs` | Wet versterking positie ouders en leerlingen in het passend onderwijs | 1 | 2025-08-01 to 2025-08-01 |
+| `wet-aanpassing-geschillenregeling-en-verduidelijking-ontvankelijkheidseisen-enqueteprocedu` | Wet aanpassing geschillenregeling en verduidelijking ontvankelijkheidseisen enquêteprocedure | 1 | 2025-01-01 to 2025-01-01 |
+| `tijdelijke-wet-opvang-ontheemden-oekraine` | Tijdelijke wet opvang ontheemden Oekraïne | 1 | 2025-07-01 to 2025-07-01 |
+| `wet-betaalbare-huur` | Wet betaalbare huur | 1 | 2025-01-01 to 2025-01-01 |
+| `wet-gegevensverwerking-door-samenwerkingsverbanden` | Wet gegevensverwerking door samenwerkingsverbanden | 1 | 2025-07-05 to 2025-07-05 |
+| `tijdelijke-wet-inframarginale-elektriciteitsheffing` | Tijdelijke wet inframarginale elektriciteitsheffing | 1 | 2024-07-25 to 2024-07-25 |
+| `wet-bevordering-digitale-weerbaarheid-bedrijven` | Wet bevordering digitale weerbaarheid bedrijven | 1 | 2026-08-15 to 2026-08-15 |
+| `wet-publiek-toezicht-en-handhaving-verordening-bevordering-billijkheid-en-transparantie-vo` | Wet publiek toezicht en handhaving verordening bevordering billijkheid en transparantie voor zakelijke gebruikers van onlinetussenhandelsdiensten | 1 | 2024-11-08 to 2024-11-08 |
+| `uitvoeringswet-datagovernanceverordening` | Uitvoeringswet datagovernanceverordening | 1 | 2024-11-19 to 2024-11-19 |
+| `wijzigingswet-wet-kinderopvang-aanspraak-kinderopvangtoeslag-oekraiense-ontheemden-enz` | Wijzigingswet Wet kinderopvang (aanspraak kinderopvangtoeslag Oekraïense ontheemden, enz.) | 1 | 2024-12-11 to 2024-12-11 |
+| `implementatiewet-digitale-operationele-weerbaarheid` | Implementatiewet digitale operationele weerbaarheid | 1 | 2025-01-17 to 2025-01-17 |
+| `wet-versterking-participatie-op-decentraal-niveau` | Wet versterking participatie op decentraal niveau | 1 | 2025-01-01 to 2025-01-01 |
+| `wet-integrale-suicidepreventie` | Wet integrale suïcidepreventie | 1 | 2026-01-01 to 2026-01-01 |
+| `wijzigingswet-vreemdelingenwet-2000-aanscherping-van-het-openbare-ordebeleid-voor-criminel` | Wijzigingswet Vreemdelingenwet 2000 (aanscherping van het openbare ordebeleid voor criminele vreemdelingen) | 1 | 2024-07-25 to 2024-07-25 |
+| `wet-nlqf` | Wet NLQF | 1 | 2025-01-01 to 2025-01-01 |
+| `wijzigingswet-financiele-markten-2024` | Wijzigingswet financiële markten 2024 | 1 | 2025-01-01 to 2025-01-01 |
+| `wet-leeruitkomsten-hoger-onderwijs` | Wet leeruitkomsten hoger onderwijs | 1 | 2025-01-01 to 2025-01-01 |
+| `verzamelwet-vws-2023` | Verzamelwet VWS 2023 | 1 | 2025-01-01 to 2025-01-01 |
+| `verzamelwet-gegevensverwerking-vws-i` | Verzamelwet gegevensverwerking VWS I | 1 | 2025-01-01 to 2025-01-01 |
+| `wet-wijziging-meststoffenwet-in-verband-met-de-maximale-mestproductie` | Wet wijziging Meststoffenwet in verband met de maximale mestproductie | 1 | 2025-01-01 to 2025-01-01 |
+| `energiewet` | Energiewet | 1 | 2026-07-01 to 2026-07-01 |
+| `wet-bemanning-zeeschepen` | Wet bemanning zeeschepen | 1 | 2025-07-01 to 2025-07-01 |
+| `uitvoeringswet-digitalemarktenverordening` | Uitvoeringswet digitalemarktenverordening | 1 | 2025-03-08 to 2025-03-08 |
+| `uitvoeringswet-digitaledienstenverordening` | Uitvoeringswet digitaledienstenverordening | 1 | 2026-11-01 to 2026-11-01 |
+| `wet-gegevensverwerking-persoonsgerichte-aanpak-radicalisering-en-terroristische-activiteit` | Wet gegevensverwerking persoonsgerichte aanpak radicalisering en terroristische activiteiten | 1 | 2025-07-01 to 2025-07-01 |
+| `verzamelwet-bzk-2024` | Verzamelwet BZK 2024 | 1 | 2025-02-12 to 2025-02-12 |
+| `wet-aanpassing-termijnen-en-nabestaandenregeling-hersteloperatie-toeslagen` | Wet aanpassing termijnen en nabestaandenregeling hersteloperatie toeslagen | 1 | 2024-12-14 to 2024-12-14 |
+| `verzamelwet-szw-2025` | Verzamelwet SZW 2025 | 1 | 2025-01-01 to 2025-01-01 |
+| `wet-tijdelijke-regeling-alleenverdienersproblematiek` | Wet tijdelijke regeling alleenverdienersproblematiek | 1 | 2025-01-01 to 2025-01-01 |
+| `wijzigingswet-wet-op-de-huurtoeslag-vereenvoudiging-van-de-huurtoeslag` | Wijzigingswet Wet op de huurtoeslag (vereenvoudiging van de huurtoeslag) | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-aanpassing-wet-minimumbelasting-2024` | Wet aanpassing Wet minimumbelasting 2024 | 1 | 2024-12-31 to 2024-12-31 |
+| `wet-gemeentelijke-instrumenten-warmtetransitie` | Wet gemeentelijke instrumenten warmtetransitie | 1 | 2025-02-12 to 2025-02-12 |
+| `belastingplan-bes-eilanden-2025` | Belastingplan BES-eilanden 2025 | 1 | 2025-01-01 to 2025-01-01 |
+| `wijzigingswet-wet-verlaging-eigen-bijdrage-huurtoeslag-wet-op-de-huurtoeslag-enz-verbeteri` | Wijzigingswet Wet verlaging eigen bijdrage huurtoeslag, Wet op de huurtoeslag enz. (verbetering koopkracht en vereenvoudiging van de regeling) | 1 | 2026-01-01 to 2026-01-01 |
+| `fiscale-verzamelwet-2025` | Fiscale verzamelwet 2025 | 1 | 2025-01-01 to 2025-01-01 |
+| `wet-aanpassing-fiscale-bedrijfsopvolgingsfaciliteiten-2025` | Wet aanpassing fiscale bedrijfsopvolgingsfaciliteiten 2025 | 1 | 2026-01-01 to 2026-01-01 |
+| `overige-fiscale-maatregelen-2025` | Overige fiscale maatregelen 2025 | 1 | 2025-01-01 to 2025-01-01 |
+| `belastingplan-2025` | Belastingplan 2025 | 1 | 2026-07-01 to 2026-07-01 |
+| `uitvoeringswet-verordening-cryptoactiva` | Uitvoeringswet verordening cryptoactiva | 1 | 2025-02-04 to 2025-02-04 |
+| `uitvoeringswet-verordening-bij-geldovermakingen-en-overdrachten-van-cryptoactiva-te-voegen` | Uitvoeringswet verordening bij geldovermakingen en overdrachten van cryptoactiva te voegen informatie | 1 | 2025-02-04 to 2025-02-04 |
+| `wijzigingswet-enkele-wetten-uitvoering-beeindiging-salderingsregeling-voor-elektriciteit-e` | Wijzigingswet enkele wetten (uitvoering beëindiging salderingsregeling voor elektriciteit en enkele technische wijzigingen) | 1 | 2025-01-30 to 2025-01-30 |
+| `wijzigingswet-opiumwet-toevoegen-derde-lijst-met-als-doel-tegengaan-van-productie-van-en-h` | Wijzigingswet Opiumwet (toevoegen derde lijst met als doel tegengaan van productie van en handel in nieuwe psychoactieve stoffen, enz.) | 1 | 2025-07-01 to 2025-07-01 |
+| `uitvoeringswet-verordening-europese-groene-obligaties` | Uitvoeringswet verordening Europese groene obligaties | 1 | 2025-03-18 to 2025-03-18 |
+| `wijzigingswet-szw-wetten-bes-2024` | Wijzigingswet SZW-wetten BES 2024 | 1 | 2026-01-01 to 2026-01-01 |
+| `wijzigingswet-waterschapswet-waterwet-enz-versterken-toepassing-profijtbeginsel-bij-de-wat` | Wijzigingswet Waterschapswet, Waterwet, enz. (versterken toepassing profijtbeginsel bij de watersysteemheffing, geven van ruimte aan nieuwe ontwikkelingen en oplossen enkele knelpunten) | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-opheffing-verpandingsverboden` | Wet opheffing verpandingsverboden | 1 | 2025-07-01 to 2025-07-01 |
+| `wijzigingswet-wetboek-van-strafrecht-enz-uitbreiding-strafbaarheid-spionageactiviteiten` | Wijzigingswet Wetboek van Strafrecht, enz. (uitbreiding strafbaarheid spionageactiviteiten) | 1 | 2025-05-15 to 2025-05-15 |
+| `wijzigingswet-wet-milieubeheer-invoering-verplichting-bestuursorgaan-tot-verstrekken-afsch` | Wijzigingswet Wet milieubeheer (invoering verplichting bestuursorgaan tot verstrekken afschrift aan minister bij afwijking van circulair materialenplan en wijziging begrip landelijk afvalbeheerplan in circulair materialenplan) | 1 | 2025-12-30 to 2025-12-30 |
+| `verzamelwet-gegevensverwerking-vws-ii-a` | Verzamelwet gegevensverwerking VWS II.a | 1 | 2025-07-01 to 2025-07-01 |
+| `wet-herziening-regels-niet-tijdig-beslissen-in-vreemdelingenzaken` | Wet herziening regels niet tijdig beslissen in vreemdelingenzaken | 1 | 2025-04-15 to 2025-04-15 |
+| `wijzigingswet-wetboek-van-strafrecht-invoering-van-het-discriminatoir-aspect-als-strafverz` | Wijzigingswet Wetboek van Strafrecht (invoering van het discriminatoir aspect als strafverzwaringsgrond) | 1 | 2025-07-01 to 2025-07-01 |
+| `wijzigingswet-tabaks-en-rookwarenwet-invoering-registratieplicht-verkooppunten-tabaksprodu` | Wijzigingswet Tabaks- en rookwarenwet (invoering registratieplicht verkooppunten tabaksproducten en aanverwante producten) | 1 | 2026-07-01 to 2026-07-01 |
+| `wet-banenafspraak` | Wet banenafspraak | 1 | 2026-07-01 to 2026-07-01 |
+| `wijzigingswet-wet-langdurige-zorg-enz-uitbreiding-en-verdere-uitwerking-bekostigingsmogeli` | Wijzigingswet Wet langdurige zorg, enz. (uitbreiding en verdere uitwerking bekostigingsmogelijkheden met middelen vanuit Fonds langdurige zorg) | 1 | 2026-01-01 to 2026-01-01 |
+| `verzamelwet-justitie-en-veiligheid-en-asiel-en-migratie-2025` | Verzamelwet Justitie en Veiligheid en Asiel en Migratie 2025 | 1 | 2025-07-01 to 2025-07-01 |
+| `wet-gegevensverstrekking-douane-voor-uitvoering-politie-of-toezichtstaken` | Wet gegevensverstrekking douane voor uitvoering politie- of toezichtstaken | 1 | 2026-07-01 to 2026-07-01 |
+| `verzamelwet-vws-2024` | Verzamelwet VWS 2024 | 1 | 2025-07-05 to 2025-07-05 |
+| `wet-onverplichte-tegemoetkoming-onterechte-afwijzing-buitengerechtelijke-schuldregeling` | Wet onverplichte tegemoetkoming onterechte afwijzing buitengerechtelijke schuldregeling | 1 | 2025-07-01 to 2025-07-01 |
+| `wet-regels-integriteit-en-vervolgfuncties-bewindspersonen` | Wet regels integriteit en vervolgfuncties bewindspersonen | 1 | 2026-02-20 to 2026-02-20 |
+| `wet-verbetering-beschikbaarheid-jeugdzorg` | Wet verbetering beschikbaarheid jeugdzorg | 1 | 2026-01-01 to 2026-01-01 |
+| `participatiewet-in-balans` | Participatiewet in balans | 1 | 2026-02-04 to 2026-02-04 |
+| `uitvoeringswet-dataverordening` | Uitvoeringswet dataverordening | 1 | 2025-11-21 to 2025-11-21 |
+| `wijzigingswet-wet-inburgering-mogelijk-maken-opstellen-nadere-voorlopige-uitkering-aan-gem` | Wijzigingswet Wet inburgering (mogelijk maken opstellen nadere voorlopige uitkering aan gemeenten voor kosten voorzieningen die bijdragen aan voldoen inburgeringsplicht en creëren grondslag voor specifieke uitkering onderwijsroute) | 1 | 2025-10-21 to 2025-10-21 |
+| `wijzigingswet-beperking-toegang-ubo-registers` | Wijzigingswet beperking toegang UBO-registers | 1 | 2026-06-03 to 2026-06-03 |
+| `implementatiewet-richtlijn-kredietservicers-en-kredietkopers` | Implementatiewet richtlijn kredietservicers en kredietkopers | 1 | 2025-07-18 to 2025-07-18 |
+| `wet-tegenbewijsregeling-box-3` | Wet tegenbewijsregeling box 3 | 1 | 2025-07-19 to 2025-07-19 |
+| `wijzigingswet-penitentiaire-beginselenwet-aanvullende-maatregelen-tegen-georganiseerde-cri` | Wijzigingswet Penitentiaire beginselenwet (aanvullende maatregelen tegen georganiseerde criminaliteit tijdens detentie) | 1 | 2025-11-01 to 2025-11-01 |
+| `wet-actualisering-lichaamsmateriaalwetgeving` | Wet actualisering lichaamsmateriaalwetgeving | 1 | 2026-07-01 to 2026-07-01 |
+| `instellingswet-adviescollege-toetsing-regeldruk` | Instellingswet Adviescollege toetsing regeldruk | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-van-school-naar-duurzaam-werk` | Wet van school naar duurzaam werk | 1 | 2026-01-01 to 2026-01-01 |
+| `uitvoeringswet-fueleu-maritiem-en-refueleu-luchtvaart` | Uitvoeringswet FuelEU Maritiem en ReFuelEU Luchtvaart | 1 | 2025-09-17 to 2025-09-17 |
+| `wet-financiele-defensieverplichtingen` | Wet financiële defensieverplichtingen | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-plan-van-aanpak-witwassen` | Wet plan van aanpak witwassen | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-kwaliteitsbevordering-uitvoering-verkiezingsproces` | Wet kwaliteitsbevordering uitvoering verkiezingsproces | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-aanscherping-strafbaarstelling-ronselen` | Wet aanscherping strafbaarstelling ronselen | 1 | 2026-01-01 to 2026-01-01 |
+| `reparatiewet-ocw-2025` | Reparatiewet OCW 2025 | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-invoering-bsn-en-voorzieningen-digitale-overheid-bes` | Wet invoering BSN en voorzieningen digitale overheid BES | 1 | 2025-11-11 to 2025-11-11 |
+| `wijzigingswet-wetboek-van-strafrecht-enz-versterking-strafrechtelijke-aanpak-ondermijnende-2` | Wijzigingswet Wetboek van Strafrecht enz. (versterking strafrechtelijke aanpak ondermijnende criminaliteit II) | 1 | 2026-07-01 to 2026-07-01 |
+| `wet-behoud-verlaagd-btw-tarief-op-cultuur-media-en-sport` | Wet behoud verlaagd btw-tarief op cultuur, media en sport | 1 | 2026-01-01 to 2026-01-01 |
+| `implementatiewet-verordening-instantovermakingen-in-euros` | Implementatiewet verordening instantovermakingen in euro’s | 1 | 2025-11-19 to 2025-11-19 |
+| `wet-toelating-terbeschikkingstelling-van-arbeidskrachten` | Wet toelating terbeschikkingstelling van arbeidskrachten | 1 | 2026-07-01 to 2026-07-01 |
+| `wet-bescherming-tegen-discriminatie-op-de-bes` | Wet bescherming tegen discriminatie op de BES | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-versterking-auteurscontractenrecht` | Wet versterking auteurscontractenrecht | 1 | 2026-01-01 to 2026-01-01 |
+| `wet-kwaliteitsregistraties-zorg` | Wet kwaliteitsregistraties zorg | 1 | 2026-01-01 to 2026-01-01 |
+| `implementatiewet-herziene-europese-begrotingsregels` | Implementatiewet herziene Europese begrotingsregels | 1 | 2025-12-31 to 2025-12-31 |
+| `wet-verbetermaatregelen-toeslagen-en-aanpassing-enkele-aanvraagtermijnen-hersteloperatie-t` | Wet verbetermaatregelen toeslagen en aanpassing enkele aanvraagtermijnen hersteloperatie toeslagen | 1 | 2026-01-01 to 2026-01-01 |
+| `tweede-wet-aanpassing-wet-minimumbelasting-2024` | Tweede wet aanpassing Wet minimumbelasting 2024 | 1 | 2025-12-31 to 2025-12-31 |
+| `wet-stroomlijning-fiscaal-inzagerecht` | Wet stroomlijning fiscaal inzagerecht | 1 | 2025-12-31 to 2025-12-31 |
+| `fiscale-verzamelwet-2026` | Fiscale verzamelwet 2026 | 1 | 2026-07-01 to 2026-07-01 |
+| `overige-fiscale-maatregelen-2026` | Overige fiscale maatregelen 2026 | 1 | 2026-07-01 to 2026-07-01 |
+| `belastingplan-2026` | Belastingplan 2026 | 1 | 2026-07-01 to 2026-07-01 |
+| `wet-implementatie-eu-richtlijn-gegevensuitwisseling-minimumbelasting` | Wet implementatie EU-richtlijn gegevensuitwisseling minimumbelasting | 1 | 2026-04-11 to 2026-04-11 |
+| `wet-provinciale-inbesteding-vervoersconcessies` | Wet provinciale inbesteding vervoersconcessies | 1 | 2026-07-01 to 2026-07-01 |
+| `wet-veilige-jaarwisseling` | Wet veilige jaarwisseling | 1 | 2026-08-01 to 2026-08-01 |
+| `wet-collectieve-warmte` | Wet collectieve warmte | 1 | 2026-02-14 to 2026-02-14 |
+| `wet-implementatie-eu-richtlijn-toereikende-minimumlonen` | Wet implementatie EU-richtlijn toereikende minimumlonen | 1 | 2026-02-04 to 2026-02-04 |
+| `verzamelwet-szw-2026` | Verzamelwet SZW 2026 | 1 | 2026-07-01 to 2026-07-01 |
+| `wijzigingswet-wetboek-van-strafrecht-herziening-regeling-meerdaadse-samenloop-in-strafzake` | Wijzigingswet Wetboek van Strafrecht (herziening regeling meerdaadse samenloop in strafzaken) | 1 | 2026-07-01 to 2026-07-01 |
+| `wijzigingswet-vreemdelingenwet-2000-bestendiging-bevoegdheid-afname-en-verwerking-biometri` | Wijzigingswet Vreemdelingenwet 2000 (bestendiging bevoegdheid afname en verwerking biometrische gegevens van vreemdelingen) | 1 | 2026-02-28 to 2026-02-28 |
+| `verlengingswet-innovatiewet-strafvordering` | Verlengingswet Innovatiewet Strafvordering | 1 | 2026-07-01 to 2026-07-01 |
+| `uitvoeringswet-verordening-buitenlandse-subsidies` | Uitvoeringswet verordening buitenlandse subsidies | 1 | 2026-04-30 to 2026-04-30 |
+| `wet-nadere-uitvoering-brrd-implementatie` | Wet nadere uitvoering BRRD-implementatie | 1 | 2026-03-25 to 2026-03-25 |
+| `wet-implementatie-eu-richtlijn-gegevensuitwisseling-cryptoactiva` | Wet implementatie EU-richtlijn gegevensuitwisseling cryptoactiva | 1 | 2026-04-11 to 2026-04-11 |
+| `wijzigingswet-burgerlijk-wetboek-boek-8-invoering-van-het-elektronisch-cognossement` | Wijzigingswet Burgerlijk Wetboek Boek 8 (invoering van het elektronisch cognossement) | 1 | 2026-07-01 to 2026-07-01 |
+| `implementatiewet-gewijzigde-aifm-richtlijn-en-icbe-richtlijn` | Implementatiewet gewijzigde AIFM-richtlijn en icbe-richtlijn | 1 | 2026-05-29 to 2026-05-29 |
+| `wijzigingswet-wet-milieubeheer-enz-implementatie-richtlijn-eu-2023-2413-bevordering-energi` | Wijzigingswet Wet milieubeheer, enz. (implementatie Richtlijn (EU) 2023/2413 (bevordering energie uit hernieuwbare bronnen)) | 1 | 2026-06-20 to 2026-06-20 |
+| `reclasseringsregeling-1995` | Reclasseringsregeling 1995 | 1 | 2019-06-26 to 2019-06-26 |
+| `belastingregeling-voor-het-land-nederland` | Belastingregeling voor het land Nederland | 1 | 2025-01-01 to 2025-01-01 |
+| `besluit-minimumjeugdloon` | Besluit minimumjeugdloon | 1 | 2024-01-01 to 2024-01-01 |
+| `besluit-vaststelling-vergoeding-motorrijtuigenbelasting-oorlogsgetroffenen` | Besluit vaststelling vergoeding motorrijtuigenbelasting oorlogsgetroffenen | 1 | 1995-11-24 to 1995-11-24 |
+| `besluit-administratieve-bepalingen-inzake-het-wegverkeer-babw` | Besluit administratieve bepalingen inzake het wegverkeer (BABW) | 1 | 2026-01-01 to 2026-01-01 |
+| `reglement-regime-grenslogies` | Reglement regime grenslogies | 1 | 2001-04-01 to 2001-04-01 |
+| `besluit-burgerlijke-stand-1994` | Besluit burgerlijke stand 1994 | 1 | 2026-01-01 to 2026-01-01 |
+| `besluit-bestuursorganen-wno` | Besluit bestuursorganen WNo | 1 | 2022-05-01 to 2022-05-01 |
+| `besluit-uitbreiding-en-beperking-kring-verzekerden-volksverzekeringen-1999` | Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999 | 1 | 2025-07-01 to 2025-07-01 |
+| `besluit-bijstandverlening-zelfstandigen-2004` | Besluit bijstandverlening zelfstandigen 2004 | 1 | 2026-01-01 to 2026-01-01 |
+| `aanpassingsbesluit-zorgverzekeringswet` | Aanpassingsbesluit Zorgverzekeringswet | 1 | 2015-01-01 to 2015-01-01 |
+| `besluit-gedragstoezicht-financiele-ondernemingen-wft` | Besluit Gedragstoezicht financiële ondernemingen Wft | 1 | 2026-10-16 to 2026-10-16 |
+| `besluit-politiegegevens` | Besluit politiegegevens | 1 | 2026-06-12 to 2026-06-12 |
+| `besluit-strategische-goederen` | Besluit strategische goederen | 1 | 2025-02-05 to 2025-02-05 |
+| `besluit-tijdelijke-afwijking-van-kb-van-20-mei-1933-ex-artikel-73a-wet-op-het-notarisambt` | Besluit tijdelijke afwijking van KB van 20 mei 1933 ex artikel 73a Wet op het Notarisambt | 1 | 1946-07-12 to 1946-07-12 |
+| `besluit-ex-artikel-13-wet-buitengewoon-pensioen-1940-1945` | Besluit ex artikel 13 Wet buitengewoon pensioen 1940-1945 | 1 | 2016-10-06 to 2016-10-06 |
+| `besluit-ex-artikel-32-wet-buitengewoon-pensioen-1940-1945` | Besluit ex artikel 32 Wet buitengewoon pensioen 1940-1945 | 1 | 2011-01-01 to 2011-01-01 |
+| `besluit-demobilisatievoorzieningen-1948` | Besluit Demobilisatievoorzieningen 1948 | 1 | 1965-01-01 to 1965-01-01 |
+| `besluit-tot-uitvoering-van-artikel-12-der-wet-buitengewoon-pensioen-1940-1945` | Besluit tot uitvoering van artikel 12 der Wet buitengewoon pensioen 1940-1945 | 1 | 2016-10-06 to 2016-10-06 |
+| `regeling-uitkeringen-niet-pensioengerechtigden-van-land-en-zeemacht-1948-stb-i-543` | Regeling uitkeringen niet-pensioengerechtigden van land- en zeemacht 1948, Stb. I 543 | 1 | 1974-07-27 to 1974-07-27 |
+| `uitvoeringsbesluit-ex-artikel-47-wet-op-de-rijksverzekeringsbank-en-de-raden-van-arbeid` | Uitvoeringsbesluit ex artikel 47 Wet op de Rijksverzekeringsbank en de Raden van Arbeid | 1 | 1949-07-01 to 1949-07-01 |
+| `besluit-ex-artikel-11-wet-buitengewoon-pensioen-zeelieden-oorlogsslachtoffers` | Besluit ex artikel 11 Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers | 1 | 2016-10-06 to 2016-10-06 |
+| `besluit-ex-artikel-3-wet-buitengewoon-pensioen-zeelieden-oorlogsslachtoffers` | Besluit ex artikel 3 Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers | 1 | 2011-01-01 to 2011-01-01 |
+| `besluit-tot-uitvoering-van-het-vijfde-hoofdstuk-der-wet-buitengewoon-pensioen-1940-1945` | Besluit tot uitvoering van het vijfde hoofdstuk der Wet buitengewoon pensioen 1940-1945 | 1 | 2011-01-01 to 2011-01-01 |
+| `besluit-wijze-van-oproeping-door-de-griffier-van-de-wederpartij-bij-een-vervoerovereenkoms` | Besluit wijze van oproeping door de griffier van de wederpartij bij een vervoerovereenkomst | 1 | 1952-11-01 to 1952-11-01 |
+| `besluit-tot-verhoging-van-de-uitkeringen-niet-pensioengerechtigden-van-land-en-zeemacht-me` | Besluit tot verhoging van de uitkeringen niet-pensioengerechtigden van land- en zeemacht met een toeslag | 1 | 1952-04-24 to 1952-04-24 |
+| `besluit-vaststelling-amvb-inzake-instellen-commissie-ex-artikel-7-garantiewet-militairen-k` | Besluit vaststelling amvb inzake instellen commissie ex artikel 7 Garantiewet Militairen K.N.I.L. | 1 | 1997-01-29 to 1997-01-29 |
+| `besluit-premieregeling-voor-sergeanten-en-korporaals-met-een-verbintenis-van-een-jaar-bij` | Besluit premieregeling voor sergeanten en korporaals met een verbintenis van een jaar bij het reserve-personeel der Koninklijke Landmacht | 1 | 1956-09-20 to 1956-09-20 |
+| `besluit-ex-artikel-8-garantiewet-burgerlijk-overheidspersoneel-indonesie` | Besluit ex artikel 8 Garantiewet Burgerlijk Overheidspersoneel Indonesië | 1 | 2020-01-01 to 2020-01-01 |
+| `inkwartieringsbesluit` | Inkwartieringsbesluit | 1 | 2002-01-01 to 2002-01-01 |
+| `besluit-verlenging-termijn-artikel-7-eerste-lid-wet-overheidsaansprakelijkheid-bezettingsh` | Besluit verlenging termijn artikel 7, eerste lid, Wet Overheidsaansprakelijkheid Bezettingshandelingen | 1 | 1953-10-21 to 1953-10-21 |
+| `besluit-ex-artikel-4-vierde-lid-en-artikel-5-tweede-lid-der-zondagswet` | Besluit ex artikel 4, vierde lid, en artikel 5, tweede lid, der Zondagswet | 1 | 1989-08-01 to 1989-08-01 |
+| `besluit-verhoging-uitkeringen-niet-pensioengerechtigden-van-land-en-zeemacht-met-een-toesl` | Besluit verhoging uitkeringen niet-pensioengerechtigden van land- en zeemacht met een toeslag-1954 | 1 | 1954-10-10 to 1954-10-10 |
+| `besluit-verbintenissen-gronddienst-luchtmacht` | Besluit verbintenissen gronddienst Luchtmacht | 1 | 1960-01-01 to 1960-01-01 |
+| `besluit-vaststelling-premieregeling-reserve-personeel-bij-de-gronddienst-van-de-koninklijk` | Besluit vaststelling premieregeling reserve-personeel bij de gronddienst van de Koninklijke Luchtmacht | 1 | 1961-07-27 to 1961-07-27 |
+| `besluit-houdende-verhoging-uitkeringen-aan-niet-pensioengerechtigden-van-land-en-zeemacht` | Besluit houdende verhoging uitkeringen aan niet-pensioengerechtigden van land- en zeemacht met een aanpassingstoeslag | 1 | 1955-05-15 to 1955-05-15 |
+| `besluit-ex-artikel-13-instellingswet-productschap-voor-groenten-en-fruit` | Besluit ex artikel 13 Instellingswet Productschap voor Groenten en Fruit | 1 | 1956-01-01 to 1956-01-01 |
+| `besluit-ex-artikel-11-instellingswet-productschap-voor-siergewassen` | Besluit ex artikel 11 Instellingswet Productschap voor Siergewassen | 1 | 1956-01-01 to 1956-01-01 |
+| `besluit-ex-artikel-9-instellingswet-productschap-voor-gedistilleerde-dranken` | Besluit ex artikel 9 Instellingswet Productschap voor Gedistilleerde Dranken | 1 | 1956-01-01 to 1956-01-01 |
+| `besluit-ex-artikel-32-instellingswet-productschappen-en-hoofdproductschap-voor-akkerbouwpr` | Besluit ex artikel 32 Instellingswet Productschappen en Hoofdproductschap voor Akkerbouwproducten | 1 | 1956-01-01 to 1956-01-01 |
+| `besluit-ex-artikel-8-instellingswet-productschap-voor-bier` | Besluit ex artikel 8 Instellingswet Productschap voor Bier | 1 | 1956-01-01 to 1956-01-01 |
+| `besluit-volgorde-verhouding-rangen-en-standen-zee-land-en-luchtmacht` | Besluit volgorde verhouding rangen en standen zee-, land- en luchtmacht | 1 | 2002-09-13 to 2002-09-13 |
+| `uitvoeringsbesluit-successiewet-1956` | Uitvoeringsbesluit Successiewet 1956 | 1 | 2026-01-01 to 2026-01-01 |
+| `beroepsreglement` | Beroepsreglement | 1 | 2013-01-01 to 2013-01-01 |
+| `besluit-ex-artikel-8-instellingswet-productschap-voor-zuivel` | Besluit ex artikel 8 Instellingswet Productschap voor Zuivel | 1 | 1956-10-15 to 1956-10-15 |
+| `besluit-handhaving-besluiten-en-beschikkingen-betreffende-het-technisch-hoger-onderwijs` | Besluit handhaving besluiten en beschikkingen betreffende het technisch hoger onderwijs | 1 | 1956-10-15 to 1956-10-15 |
+| `besluit-houdende-verhoging-uitkeringen-aan-niet-pensioengerechtigden-van-land-en-zeemacht-2` | Besluit houdende verhoging uitkeringen aan niet-pensioengerechtigden van land- en zeemacht met een nadere toeslag-1954 | 1 | 1956-11-15 to 1956-11-15 |
+| `besluit-ex-artikel-9-instellingswet-productschap-voor-vis-en-visproducten` | Besluit ex artikel 9 Instellingswet Productschap voor Vis en Visproducten | 1 | 1957-02-01 to 1957-02-01 |
+| `besluit-houdende-verhoging-uitkeringen-niet-pensioengerechtigden-van-land-en-zeemacht-met` | Besluit houdende verhoging uitkeringen niet-pensioengerechtigden van land- en zeemacht met een algemene toeslag | 1 | 1963-01-01 to 1963-01-01 |
+| `besluit-houdende-beperking-van-een-uitkering-krachtens-de-regeling-uitkeringen-niet-pensio` | Besluit houdende beperking van een uitkering krachtens de Regeling uitkeringen niet-pensioengerechtigden van land- en zeemacht 1948, Stb. I 543 | 1 | 2006-01-01 to 2006-01-01 |
+| `besluit-registratie-verplaatste-personen` | Besluit registratie verplaatste personen | 1 | 2014-01-06 to 2014-01-06 |
+| `besluit-aanwijzing-militairen-reserve-personeel-der-landmacht` | Besluit aanwijzing militairen reserve-personeel der landmacht | 1 | 1961-11-13 to 1961-11-13 |
+| `besluit-vaststelling-premieregeling-militairen-soldaat-der-eerste-klasse` | Besluit vaststelling premieregeling militairen soldaat der eerste klasse | 1 | 1958-04-17 to 1958-04-17 |
+| `besluit-reservering-gedeelte-der-bezoldiging-bepaalde-groepen-reserve-personeel-der-krijgs` | Besluit reservering gedeelte der bezoldiging bepaalde groepen reserve-personeel der krijgsmacht | 1 | 1958-10-01 to 1958-10-01 |
+| `reglement-op-de-rijkskweekschool-voor-vroedvrouwen-te-rotterdam` | Reglement op de Rijkskweekschool voor Vroedvrouwen te Rotterdam | 1 | 1994-01-01 to 1994-01-01 |
+| `regeling-toezicht-luchtvaart` | Regeling Toezicht Luchtvaart | 1 | 2016-07-01 to 2016-07-01 |
+| `besluit-ter-voorkoming-en-opheffing-van-omroepstoringen-door-verbrandingsmotoren-1959` | Besluit ter voorkoming en opheffing van omroepstoringen door verbrandingsmotoren 1959 | 1 | 1994-01-01 to 1994-01-01 |
+| `besluit-financieel-beheer-centrale-raad-voor-de-volksgezondheid` | Besluit Financieel Beheer Centrale Raad voor de Volksgezondheid | 1 | 2002-09-01 to 2002-09-01 |
+| `besluit-ex-artikel-5-wet-van-10-juli-1952-stb-407` | Besluit ex artikel 5 Wet van 10 juli 1952, Stb. 407 | 1 | 1994-01-01 to 1994-01-01 |
+| `besluit-kennisgeving-mutaties-gezondheidswet` | Besluit kennisgeving mutaties Gezondheidswet | 1 | 1959-09-12 to 1959-09-12 |
+| `besluit-ex-artikel-6-wet-verzekering-beschikbaar-blijven-van-goederen` | Besluit ex artikel 6, Wet verzekering beschikbaar blijven van goederen | 1 | 2012-12-07 to 2012-12-07 |
+| `besluit-tot-regeling-toelating-vreemde-militaire-luchtvaartuigen-binnen-nederlands-rechtsg` | Besluit tot regeling toelating vreemde militaire luchtvaartuigen binnen Nederlands rechtsgebied | 1 | 1959-10-01 to 1959-10-01 |
+| `besluit-ex-artikel-57-luchtvaartwet` | Besluit ex artikel 57 luchtvaartwet | 1 | 1959-10-01 to 1959-10-01 |
+| `besluit-regeling-overdracht-zorg-voor-reiswezen-van-het-departement-van-financien-aan-binn` | Besluit regeling overdracht zorg voor reiswezen van het departement van Financiën aan Binnenlandse Zaken | 1 | 1959-12-31 to 1959-12-31 |
+| `besluit-ex-artikel-27-lid-2-wet-administratieve-rechtspraak-bedrijfsorganisatie` | Besluit ex artikel 27, lid 2, Wet administratieve rechtspraak bedrijfsorganisatie | 1 | 1960-07-01 to 1960-07-01 |
+| `wachtgeldbesluit-buitenlandse-dienst` | Wachtgeldbesluit Buitenlandse Dienst | 1 | 1959-10-01 to 1959-10-01 |
+| `rangschikkingsbesluit` | Rangschikkingsbesluit | 1 | 1960-09-01 to 1960-09-01 |
+| `militair-keuringsreglement` | Militair keuringsreglement | 1 | 1986-01-01 to 1986-01-01 |
+| `besluit-ex-artikel-570-wetboek-van-koophandel` | Besluit ex artikel 570 Wetboek van Koophandel | 1 | 1961-06-05 to 1961-06-05 |
+| `besluit-ex-artikelen-2-3-en-11-uitvoeringswet-verdrag-onderhoudsverhaal-in-het-buitenland` | Besluit ex artikelen 2, 3 en 11 Uitvoeringswet verdrag onderhoudsverhaal in het buitenland 1956 | 1 | 1997-01-01 to 1997-01-01 |
+| `schadeloosstellingsregeling-luchtvaartwet` | Schadeloosstellingsregeling Luchtvaartwet | 1 | 2009-07-01 to 2009-07-01 |
+| `besluit-uitvoeringsvoorschriften-met-betrekking-tot-opties-voor-het-nederlanderschap-als-b` | Besluit uitvoeringsvoorschriften met betrekking tot opties voor het Nederlanderschap als bedoeld in artikel 11 Nederlands-Duits Grensverdrag | 1 | 1963-09-12 to 1963-09-12 |
+| `wijzigingsbesluit-besluit-houdende-beperking-van-een-uitkering-krachtens-de-regeling-uitke` | Wijzigingsbesluit Besluit houdende beperking van een uitkering krachtens de Regeling uitkeringen niet-pensioengerechtigden van land- en zeemacht, enz. | 1 | 1964-04-11 to 1964-04-11 |
+| `uitvoeringsbesluit-ex-artikel-2-wet-tot-uitvoering-van-de-verordening-no-11-van-de-raad-va` | Uitvoeringsbesluit ex artikel 2 Wet tot uitvoering van de Verordening no. 11 van de Raad van de Europese Economische Gemeenschap | 1 | 1994-01-01 to 1994-01-01 |
+| `reglement-voor-de-kamer-voor-de-binnenvisserij-1964` | Reglement voor de Kamer voor de Binnenvisserij 1964 | 1 | 2013-01-01 to 2013-01-01 |
+| `besluit-kennisgevingen-aansprakelijkheidsverzekering-motorrijtuigen` | Besluit kennisgevingen aansprakelijkheidsverzekering motorrijtuigen | 1 | 2026-07-04 to 2026-07-04 |
+| `besluit-bedragen-aansprakelijkheidsverzekering-motorrijtuigen` | Besluit bedragen aansprakelijkheidsverzekering motorrijtuigen | 1 | 2023-12-23 to 2023-12-23 |
+| `besluit-gewetensbezwaren-militaire-dienst` | Besluit gewetensbezwaren militaire dienst | 1 | 2014-01-06 to 2014-01-06 |
+| `besluit-ex-artikel-4-wet-installaties-noordzee` | Besluit ex artikel 4 Wet installaties Noordzee | 1 | 2013-01-01 to 2013-01-01 |
+| `uitvoeringsbesluit-algemene-wet-inzake-rijksbelastingen-1964` | Uitvoeringsbesluit Algemene wet inzake rijksbelastingen 1964 | 1 | 2026-01-01 to 2026-01-01 |
+| `besluit-uitkeringsregeling-officieren-der-krijgsmacht-die-voortijdig-militaire-dienst-verl` | Besluit uitkeringsregeling officieren der krijgsmacht die voortijdig militaire dienst verlaten | 1 | 1965-02-18 to 1965-02-18 |
+| `uitvoeringsbesluit-artikel-18-noodwet-rechtspleging` | Uitvoeringsbesluit artikel 18 Noodwet rechtspleging | 1 | 1999-06-01 to 1999-06-01 |
+| `besluit-vaststelling-nieuwe-regeling-landsadvocatuur` | Besluit vaststelling nieuwe regeling landsadvocatuur | 1 | 1965-04-10 to 1965-04-10 |
+| `uitvoeringsbesluit-loonbelasting-1965` | Uitvoeringsbesluit loonbelasting 1965 | 1 | 2026-01-01 to 2026-01-01 |
+| `besluit-bewijs-van-verzekering-niet-kentekenplichtige-motorrijtuigen` | Besluit bewijs van verzekering niet-kentekenplichtige motorrijtuigen | 1 | 2023-12-23 to 2023-12-23 |
+| `besluit-ex-artikel-993-wetboek-van-burgerlijke-rechtsvordering` | Besluit ex artikel 993 Wetboek van Burgerlijke Rechtsvordering | 1 | 1966-02-26 to 1966-02-26 |
+| `besluit-uitvoering-artikel-15-tweede-lid-vorderingswet-1962` | Besluit uitvoering artikel 15, tweede lid, Vorderingswet 1962 | 1 | 2024-01-01 to 2024-01-01 |
+| `besluit-militaire-toeslagregeling-pensioenen-suriname-en-nederlandse-antillen` | Besluit militaire toeslagregeling pensioenen Suriname en Nederlandse Antillen | 1 | 2003-05-23 to 2003-05-23 |
+| `besluit-ex-artikel-28-wet-aansprakelijkheidsverzekering-motorrijtuigen` | Besluit ex artikel 28 Wet aansprakelijkheidsverzekering motorrijtuigen | 1 | 1974-08-01 to 1974-08-01 |
+| `besluit-ex-artikel-18-wet-overgangsregeling-arbeidsongeschiktheidsverzekering` | Besluit ex artikel 18 Wet overgangsregeling arbeidsongeschiktheidsverzekering | 1 | 1967-07-01 to 1967-07-01 |
+| `besluit-verhoging-daglonen-van-in-het-buitenland-wonende-personen` | Besluit verhoging daglonen van in het buitenland wonende personen | 1 | 1967-07-01 to 1967-07-01 |
+| `besluit-overdracht-contante-waarden-verplichtingen-ongevallenverzekering-aan-het-arbeidson` | Besluit overdracht contante waarden verplichtingen ongevallenverzekering aan het Arbeidsongeschiktheidsfonds | 1 | 2002-01-01 to 2002-01-01 |
+| `besluit-aanspraken-bij-beroepsziekten-van-niet-op-grond-van-de-wao-of-de-wet-wia-verzekerd` | Besluit aanspraken bij beroepsziekten van niet op grond van de WAO of de Wet WIA verzekerden | 1 | 2005-12-29 to 2005-12-29 |
+| `besluit-uitvoering-afwikkeling-liquidatieuitkeringen-en-voorzieningen` | Besluit uitvoering afwikkeling liquidatieuitkeringen en voorzieningen | 1 | 2013-01-01 to 2013-01-01 |
+| `besluit-ex-artikel-539n-wetboek-van-strafvordering` | Besluit ex artikel 539n Wetboek van Strafvordering | 1 | 2025-07-01 to 2025-07-01 |
+| `uitvoeringsbesluit-omzetbelasting-1968` | Uitvoeringsbesluit omzetbelasting 1968 | 1 | 2026-01-01 to 2026-01-01 |
+| `legesbesluit-akten-burgerlijke-stand` | Legesbesluit akten burgerlijke stand | 1 | 2026-01-01 to 2026-01-01 |
+| `besluit-regelen-ontheffing-functie-militaire-ambtenaren-koninklijke-landmacht` | Besluit regelen ontheffing functie militaire ambtenaren Koninklijke landmacht | 1 | 1969-06-07 to 1969-06-07 |
+| `besluit-houdende-vaststelling-van-een-regeling-tot-toekenning-van-een-uitkering-wegens-ont` | Besluit houdende vaststelling van een regeling tot toekenning van een uitkering wegens ontslag op grond van artikel 99a van het Reglement van de Buitenlandse Dienst 1951 | 1 | 1969-07-17 to 1969-07-17 |
+| `besluit-kerninstallaties-splijtstoffen-en-ertsen` | Besluit kerninstallaties, splijtstoffen en ertsen | 1 | 2025-01-01 to 2025-01-01 |
+| `besluit-vervoer-splijtstoffen-ertsen-en-radioactieve-stoffen` | Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen | 1 | 2025-07-01 to 2025-07-01 |
+| `besluit-registratie-splijtstoffen-en-ertsen` | Besluit registratie splijtstoffen en ertsen | 1 | 2017-08-01 to 2017-08-01 |
+| `besluit-huwelijksgoederenregister-1969` | Besluit Huwelijksgoederenregister 1969 | 1 | 2013-09-01 to 2013-09-01 |
+| `besluit-gezagsregisters` | Besluit gezagsregisters | 1 | 2026-01-01 to 2026-01-01 |
+| `regelen-betreffende-verzoeken-tot-naamswijziging-en-tot-naamsvaststelling` | Regelen betreffende verzoeken tot naamswijziging en tot naamsvaststelling | 1 | 2024-07-01 to 2024-07-01 |
+| `besluit-aanwijzing-zeegebied-en-kustwateren-1970` | Besluit aanwijzing zeegebied en kustwateren 1970 | 1 | 2023-07-20 to 2023-07-20 |
+| `besluit-beleggingsinstellingen` | Besluit beleggingsinstellingen | 1 | 2020-01-01 to 2020-01-01 |
+| `premiespaarregeling-binnenlandse-veiligheidsdienst-1968` | Premiespaarregeling Binnenlandse Veiligheidsdienst 1968 | 1 | 1968-07-01 to 1968-07-01 |
+| `reglement-voor-de-ondernemingskamer` | Reglement voor de ondernemingskamer | 1 | 2025-05-27 to 2025-05-27 |
+| `besluit-dagboeken-voor-schepen-1970` | Besluit dagboeken voor schepen 1970 | 1 | 2010-12-31 to 2010-12-31 |
+| `geheimhoudingsbesluit-kernenergiewet` | Geheimhoudingsbesluit Kernenergiewet | 1 | 2018-02-06 to 2018-02-06 |
+| `uitvoeringsbesluit-belastingen-van-rechtsverkeer` | Uitvoeringsbesluit belastingen van rechtsverkeer | 1 | 2025-07-01 to 2025-07-01 |
+| `besluit-ex-artikelen-818-en-820-wetboek-van-burgerlijke-rechtsvordering` | Besluit ex artikelen 818 en 820 Wetboek van Burgerlijke Rechtsvordering | 1 | 2008-09-01 to 2008-09-01 |
+| `uitvoeringsbesluit-vennootschapsbelasting-1971` | Uitvoeringsbesluit vennootschapsbelasting 1971 | 1 | 2025-01-01 to 2025-01-01 |
+| `besluit-ex-artikel-11a-der-wet-buitengewoon-pensioen-1940-1945` | Besluit ex artikel 11a der Wet buitengewoon pensioen 1940-1945 | 1 | 2011-01-01 to 2011-01-01 |
+| `warenwetbesluit-glasartikelen` | Warenwetbesluit glasartikelen | 1 | 2020-01-21 to 2020-01-21 |
+| `besluit-uitvoering-artikel-2-achtste-lid-wet-aansprakelijkheidsverzekering-motorrijtuigen` | Besluit uitvoering artikel 2, achtste lid, Wet aansprakelijkheidsverzekering motorrijtuigen | 1 | 2023-12-23 to 2023-12-23 |
+| `besluit-uitvoering-artikel-3-derde-lid-wet-aansprakelijkheidsverzekering-motorrijtuigen` | Besluit uitvoering artikel 3, derde lid, Wet aansprakelijkheidsverzekering motorrijtuigen | 1 | 2022-06-30 to 2022-06-30 |
+| `besluit-vaststelling-algemene-maatregel-van-bestuur-ex-artikel-23-wet-gemeentelijke-herind` | Besluit vaststelling algemene maatregel van bestuur ex artikel 23 Wet gemeentelijke herindeling Noordwest-Overijssel | 1 | 1998-01-01 to 1998-01-01 |
+| `besluit-vaststelling-algemene-maatregel-van-bestuur-als-bedoeld-in-artikel-24-wet-gemeente` | Besluit vaststelling algemene maatregel van bestuur als bedoeld in artikel 24 wet gemeentelijke herindeling Noordwest-Overijssel | 1 | 2020-09-01 to 2020-09-01 |
+| `besluit-voorkoming-en-beperking-samenloop-wao-en-wet-wia-uitkeringen-met-uitkeringen-op-gr` | Besluit voorkoming en beperking samenloop WAO- en Wet WIA-uitkeringen met uitkeringen op grond van de sociale wetgeving van een andere Mogendheid | 1 | 2005-12-29 to 2005-12-29 |
+| `besluit-fondsen-en-spaarregelingen` | Besluit fondsen en spaarregelingen | 1 | 2017-09-23 to 2017-09-23 |
+| `besluit-draagkracht-vervolgden` | Besluit draagkracht vervolgden | 1 | 2013-01-01 to 2013-01-01 |
+| `besluit-vaststelling-bedrag-bedoeld-in-artikel-7b-zevende-lid-van-de-wet-op-de-kansspelen` | Besluit vaststelling bedrag bedoeld in artikel 7b, zevende lid, van de Wet op de kansspelen | 1 | 2014-01-01 to 2014-01-01 |
+| `besluit-ongeregeld-luchtvervoer` | Besluit ongeregeld luchtvervoer | 1 | 2010-06-12 to 2010-06-12 |
+| `besluit-schadefonds-geweldsmisdrijven` | Besluit schadefonds geweldsmisdrijven | 1 | 2013-01-01 to 2013-01-01 |
+| `vergoedingenbesluit-kamer-voor-de-binnenvisserij-1975` | Vergoedingenbesluit Kamer voor de Binnenvisserij 1975 | 1 | 2025-01-01 to 2025-01-01 |
+| `examengeldenbesluit-radiotelegrafie-en-telefonie` | Examengeldenbesluit Radiotelegrafie en -telefonie | 1 | 1976-01-01 to 1976-01-01 |
+| `besluit-tariefstelling-certificaat-verplichte-verzekering-of-andere-financiele-zekerheid-v` | Besluit tariefstelling certificaat verplichte verzekering of andere financiële zekerheid voor zeeschepen | 1 | 2013-07-01 to 2013-07-01 |
+| `reglement-voor-de-bijzondere-kamer-bij-het-gerechtshof-arnhem-leeuwarden` | Reglement voor de bijzondere kamer bij het gerechtshof Arnhem-Leeuwarden | 1 | 2025-05-27 to 2025-05-27 |
+| `uitvoeringsbesluit-ex-artikel-iv-wet-van-26-06-1975-stb-384` | Uitvoeringsbesluit ex artikel IV Wet van 26-06-1975, Stb. 384 | 1 | 1977-05-01 to 1977-05-01 |
+| `besluit-voorkoming-of-beperking-samenloop-aaw-uitkering-met-uitkering-ingevolge-de-sociale` | Besluit voorkoming of beperking samenloop AAW-uitkering met uitkering ingevolge de sociale wetgeving van een andere Mogendheid | 1 | 2021-01-01 to 2021-01-01 |
+| `besluit-register-surseance-van-betaling` | Besluit register surséance van betaling | 1 | 1977-05-01 to 1977-05-01 |
+| `reglement-zee-en-kustvisserij-1977` | Reglement zee- en kustvisserij 1977 | 1 | 2015-01-01 to 2015-01-01 |
+| `besluit-ex-artikel-4-wet-uitkeringen-vervolgingsslachtoffers-1940-1945` | Besluit ex artikel 4 Wet uitkeringen vervolgingsslachtoffers 1940-1945 | 1 | 1992-05-09 to 1992-05-09 |
+| `besluit-ter-uitvoering-van-het-bepaalde-in-artikel-1-tweede-lid-van-de-wet-buitengewoon-pe` | Besluit ter uitvoering van het bepaalde in artikel 1, tweede lid, van de Wet buitengewoon pensioen 1940-1945, houdende omschrijving van de categorieën van personen op wie deze wet van overeenkomstige toepassing zal zijn | 1 | 2011-01-01 to 2011-01-01 |
+| `besluit-tot-vaststelling-van-een-algemene-maatregel-van-bestuur-bedoeld-in-artikel-8-vierd` | Besluit tot vaststelling van een algemene maatregel van bestuur, bedoeld in artikel 8, vierde lid, van de Wet buitengewoon pensioen 1940-1945 | 1 | 2002-01-01 to 2002-01-01 |
+| `besluit-begripsomschrijvingen-artikel-1a-algemene-bijstandswet` | Besluit begripsomschrijvingen artikel 1a Algemene Bijstandswet | 1 | 1979-01-01 to 1979-01-01 |
+| `besluit-huurprijzen-woonruimte` | Besluit huurprijzen woonruimte | 1 | 2026-01-01 to 2026-01-01 |
+| `tuchtrechtbesluit-landbouwkwaliteitswet` | Tuchtrechtbesluit Landbouwkwaliteitswet | 1 | 2015-01-01 to 2015-01-01 |
+| `besluit-ex-artikel-48a-landbouwwet` | Besluit ex artikel 48a Landbouwwet | 1 | 1979-10-04 to 1979-10-04 |
+| `besluit-procedure-geneeskundig-onderzoek-verzetsmilitairen-en-ondergedoken-militairen` | Besluit procedure geneeskundig onderzoek verzetsmilitairen en ondergedoken militairen | 1 | 2005-05-11 to 2005-05-11 |
+| `besluit-ondertoezichtstelling-overige-kapitaalmarktinstellingen` | Besluit ondertoezichtstelling overige kapitaalmarktinstellingen | 1 | 1981-06-01 to 1981-06-01 |
+| `besluit-ex-artikel-7-noodwet-geneeskundigen` | Besluit ex artikel 7 Noodwet Geneeskundigen | 1 | 2018-08-01 to 2018-08-01 |
+| `besluit-beperking-geluidhinder-luchtvaartuigen` | Besluit beperking geluidhinder luchtvaartuigen | 1 | 2010-01-20 to 2010-01-20 |
+| `meetbrievenbesluit-1981` | Meetbrievenbesluit 1981 | 1 | 2010-12-31 to 2010-12-31 |
+| `besluit-aanzegging-deurwaarders-in-verband-met-iraanse-tegoeden` | Besluit aanzegging deurwaarders in verband met Iraanse tegoeden | 1 | 1981-11-14 to 1981-11-14 |
+| `besluit-omschrijving-en-aanduiding-van-het-gebied-als-bedoeld-in-artikel-3-wet-agrarisch-g` | Besluit omschrijving en aanduiding van het gebied als bedoeld in artikel 3 Wet agrarisch grondverkeer | 1 | 2006-03-08 to 2006-03-08 |
+| `besluit-samenstelling-en-werkwijze-commissie-beheer-landbouwgronden` | Besluit samenstelling en werkwijze commissie beheer landbouwgronden | 1 | 2015-01-01 to 2015-01-01 |
+| `besluit-vaststelling-lijn-ex-artikel-1-schepenwet` | Besluit vaststelling lijn ex artikel 1 Schepenwet | 1 | 1982-01-15 to 1982-01-15 |
+| `besluit-omrekening-in-goud-uitgedrukte-rekeneenheden` | Besluit omrekening in goud uitgedrukte rekeneenheden | 1 | 1982-03-15 to 1982-03-15 |
+| `algemeen-militair-ambtenarenreglement` | Algemeen militair ambtenarenreglement | 1 | 2026-08-26 to 2026-08-26 |
+| `besluit-verhoging-van-de-taxa-wegens-verlening-van-adeldom` | Besluit verhoging van de taxa wegens verlening van adeldom | 1 | 2002-01-01 to 2002-01-01 |
+| `besluit-regiem-voor-militairen-die-voorlopig-arrest-resp-gevangenisstraf-hechtenis-of-mili` | Besluit regiem voor militairen, die voorlopig arrest, resp. gevangenisstraf, hechtenis of militaire detentie ondergaan | 1 | 2008-12-17 to 2008-12-17 |
+| `besluit-aanwijzing-medebetrokken-ministers-wet-agrarisch-grondverkeer` | Besluit aanwijzing medebetrokken ministers Wet agrarisch grondverkeer | 1 | 2012-12-07 to 2012-12-07 |
 
-The build made 8889 commits:
+The build made 9389 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2419 | first version of an act |
+| 2919 | first version of an act |
 | 6114 | one law on its in-force day |
 | 356 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `toekomst`: laws not yet in force on 2026-11-03.
-- 39 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 81 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 3108 laws in the record.
-- 14210 tags.
+- 14710 tags.
 
 ## Dates
 
@@ -2547,7 +3049,7 @@ When a law gives no date of its own, the default rule applies: Bekendmakingswet 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `14307885898fe0f109c7ae7a74c43729b600b081a3eef5022392543d2f292c1b` (186458814 bytes).
+- Corpus: sha256 `2822be61f44f73ab7ca128836b0c90d2574910a7611017fc64e7000952f45d48` (192331355 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -2847,6 +3349,9 @@ No second build of this corpus has been compared yet.
 - Current text only (breadth first, Alan 2026-11-02): 34 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
 - A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
 - An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
+- Current text only (breadth first, Alan 2026-11-02): 500 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
+- A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
 
 ## What AI did and did not do
 
@@ -2858,6 +3363,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none: no model wrote, summarised or classified any text in this corpus. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).

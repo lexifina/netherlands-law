@@ -1,0 +1,73 @@
+# Besluit kerninstallaties, splijtstoffen en ertsen
+
+Besluit kerninstallaties, splijtstoffen en ertsen · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <https://wetten.overheid.nl/BWBR0002667>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 1a | [art-001a.md](art-001a.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |
+| Art. 3 | [art-003.md](art-003.md) | 0 |  |
+| Art. 3a | [art-003a.md](art-003a.md) | 0 |  |
+| Art. 4 | [art-004.md](art-004.md) | 0 |  |
+| Art. 5 | [art-005.md](art-005.md) | 0 |  |
+| Art. 6 | [art-006.md](art-006.md) | 0 |  |
+| Art. 7 | [art-007.md](art-007.md) | 0 |  |
+| Art. 8 | [art-008.md](art-008.md) | 0 |  |
+| Art. 9 | [art-009.md](art-009.md) | 0 |  |
+| Art. 10 | [art-010.md](art-010.md) | 0 |  |
+| Art. 11 | [art-011.md](art-011.md) | 0 |  |
+| Art. 11a | [art-011a.md](art-011a.md) | 0 |  |
+| Art. 15 | [art-015.md](art-015.md) | 0 |  |
+| Art. 16 | [art-016.md](art-016.md) | 0 |  |
+| Art. 17 | [art-017.md](art-017.md) | 0 |  |
+| Art. 18 | [art-018.md](art-018.md) | 0 |  |
+| Art. 19 | [art-019.md](art-019.md) | 0 |  |
+| Art. 20 | [art-020.md](art-020.md) | 0 |  |
+| Art. 21 | [art-021.md](art-021.md) | 0 |  |
+| Art. 22 | [art-022.md](art-022.md) | 0 |  |
+| Art. 22a | [art-022a.md](art-022a.md) | 0 |  |
+| Art. 22b | [art-022b.md](art-022b.md) | 0 |  |
+| Art. 22c | [art-022c.md](art-022c.md) | 0 |  |
+| Art. 22d | [art-022d.md](art-022d.md) | 0 |  |
+| Art. 22e | [art-022e.md](art-022e.md) | 0 |  |
+| Art. 22f | [art-022f.md](art-022f.md) | 0 |  |
+| Art. 22g | [art-022g.md](art-022g.md) | 0 |  |
+| Art. 22h | [art-022h.md](art-022h.md) | 0 |  |
+| Art. 22i | [art-022i.md](art-022i.md) | 0 |  |
+| Art. 22j | [art-022j.md](art-022j.md) | 0 |  |
+| Art. 23 | [art-023.md](art-023.md) | 0 |  |
+| Art. 24 | [art-024.md](art-024.md) | 0 |  |
+| Art. 25 | [art-025.md](art-025.md) | 0 |  |
+| Art. 26 | [art-026.md](art-026.md) | 0 |  |
+| Art. 27 | [art-027.md](art-027.md) | 0 |  |
+| Art. 28 | [art-028.md](art-028.md) | 0 |  |
+| Art. 29 | [art-029.md](art-029.md) | 0 |  |
+| Art. 30 | [art-030.md](art-030.md) | 0 |  |
+| Art. 30a | [art-030a.md](art-030a.md) | 0 |  |
+| Art. 30b | [art-030b.md](art-030b.md) | 0 |  |
+| Art. 30c | [art-030c.md](art-030c.md) | 0 |  |
+| Art. 30d | [art-030d.md](art-030d.md) | 0 |  |
+| Art. 30e | [art-030e.md](art-030e.md) | 0 |  |
+| Art. 30f | [art-030f.md](art-030f.md) | 0 |  |
+| Art. 30g | [art-030g.md](art-030g.md) | 0 |  |
+| Art. 31 | [art-031.md](art-031.md) | 0 |  |
+| Art. 32 | [art-032.md](art-032.md) | 0 |  |
+| Art. 33 | [art-033.md](art-033.md) | 0 |  |
+| Art. 35 | [art-035.md](art-035.md) | 0 |  |
+| Art. 36 | [art-036.md](art-036.md) | 0 |  |
+| Art. 39 | [art-039.md](art-039.md) | 0 |  |
+| Art. 40 | [art-040.md](art-040.md) | 0 |  |
+| Art. 40a | [art-040a.md](art-040a.md) | 0 |  |
+| Art. 41 | [art-041.md](art-041.md) | 0 |  |
+| Art. 41a | [art-041a.md](art-041a.md) | 0 |  |
+| Art. 42 | [art-042.md](art-042.md) | 0 |  |
+| Art. 43 | [art-043.md](art-043.md) | 0 |  |
+| Art. 44 | [art-044.md](art-044.md) | 0 |  |
+| Art. 44a | [art-044a.md](art-044a.md) | 0 |  |
+| Art. 44b | [art-044b.md](art-044b.md) | 0 |  |
+| Art. 44c | [art-044c.md](art-044c.md) | 0 |  |
+| Art. 44d | [art-044d.md](art-044d.md) | 0 |  |
+| Art. 44e | [art-044e.md](art-044e.md) | 0 |  |
+| Art. 45 | [art-045.md](art-045.md) | 0 |  |
+| Inhoud | [inhoud.md](inhoud.md) | 0 |  |
