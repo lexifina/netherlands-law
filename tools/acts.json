@@ -16267,5 +16267,285 @@
   "part": "bwb-now-wet-008",
   "current_label": "2017-01-01_0",
   "as_of": "2026-11-03"
+ },
+ "wet-arbeidsvoorwaarden-gedetacheerde-werknemers-in-de-europese-unie": {
+  "bwb": "BWBR0038054",
+  "short": "Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie",
+  "title": "Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie",
+  "part": "bwb-now-wet-009",
+  "current_label": "2024-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-bescherming-klokkenluiders": {
+  "bwb": "BWBR0037852",
+  "short": "Wet bescherming klokkenluiders",
+  "title": "Wet bescherming klokkenluiders",
+  "part": "bwb-now-wet-009",
+  "current_label": "2023-02-18_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-precursoren-voor-explosieven": {
+  "bwb": "BWBR0037995",
+  "short": "Wet precursoren voor explosieven",
+  "title": "Wet precursoren voor explosieven",
+  "part": "bwb-now-wet-009",
+  "current_label": "2021-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-zorgverzekeringswet-zvw-pgb": {
+  "bwb": "BWBR0037745",
+  "short": "Wijzigingswet Zorgverzekeringswet (Zvw-pgb)",
+  "title": "Wijzigingswet Zorgverzekeringswet (Zvw-pgb)",
+  "part": "bwb-now-wet-009",
+  "current_label": "2017-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-samenvoeging-gemeenten-schijndel-sint-oedenrode-en-veghel": {
+  "bwb": "BWBR0037758",
+  "short": "Wet samenvoeging gemeenten Schijndel, Sint-Oedenrode en Veghel",
+  "title": "Wet samenvoeging gemeenten Schijndel, Sint-Oedenrode en Veghel",
+  "part": "bwb-now-wet-009",
+  "current_label": "2016-05-14_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-mediawet-2008-toekomstbestendig-maken-publieke-mediadienst": {
+  "bwb": "BWBR0037768",
+  "short": "Wijzigingswet Mediawet 2008 (toekomstbestendig maken publieke mediadienst)",
+  "title": "Wijzigingswet Mediawet 2008 (toekomstbestendig maken publieke mediadienst)",
+  "part": "bwb-now-wet-009",
+  "current_label": "2017-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-luchtvaart-en-luchtvaartwet-invoering-nieuw-normen-en-handhavingstelsel": {
+  "bwb": "BWBR0037770",
+  "short": "Wijzigingswet Wet luchtvaart en Luchtvaartwet (invoering nieuw normen- en handhavingstelsel luchthaven Schiphol)",
+  "title": "Wijzigingswet Wet luchtvaart en Luchtvaartwet (invoering nieuw normen- en handhavingstelsel luchthaven Schiphol)",
+  "part": "bwb-now-wet-009",
+  "current_label": "2018-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-rijkswet-op-het-nederlanderschap-verruiming-mogelijkheden-ontneming-nederlan": {
+  "bwb": "BWBR0037779",
+  "short": "Wijzigingswet Rijkswet op het Nederlanderschap (verruiming mogelijkheden ontneming Nederlanderschap bij terroristische misdrijven)",
+  "title": "Wijzigingswet Rijkswet op het Nederlanderschap (verruiming mogelijkheden ontneming Nederlanderschap bij terroristische misdrijven)",
+  "part": "bwb-now-wet-009",
+  "current_label": "2016-03-31_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-gemeentewet-verruiming-bevoegdheid-burgemeester-tot-inzet-van-cameratoezicht": {
+  "bwb": "BWBR0037793",
+  "short": "Wijzigingswet Gemeentewet (verruiming bevoegdheid burgemeester tot inzet van cameratoezicht)",
+  "title": "Wijzigingswet Gemeentewet (verruiming bevoegdheid burgemeester tot inzet van cameratoezicht)",
+  "part": "bwb-now-wet-009",
+  "current_label": "2016-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-zorgverzekeringswet-structureel-regelen-bekostiging-anonieme-e-mental-health": {
+  "bwb": "BWBR0037846",
+  "short": "Wijzigingswet Zorgverzekeringswet (structureel regelen bekostiging anonieme e-mental health en mogelijk maken anonieme financiering zorg aan ernstig bedreigde cliënten)",
+  "title": "Wijzigingswet Zorgverzekeringswet (structureel regelen bekostiging anonieme e-mental health en mogelijk maken anonieme financiering zorg aan ernstig bedreigde cliënten)",
+  "part": "bwb-now-wet-009",
+  "current_label": "2017-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-elektriciteit-en-drinkwater-bes": {
+  "bwb": "BWBR0037861",
+  "short": "Wet elektriciteit en drinkwater BES",
+  "title": "Wet elektriciteit en drinkwater BES",
+  "part": "bwb-now-wet-009",
+  "current_label": "2023-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-civielrechtelijk-bestuursverbod": {
+  "bwb": "BWBR0037864",
+  "short": "Wet civielrechtelijk bestuursverbod",
+  "title": "Wet civielrechtelijk bestuursverbod",
+  "part": "bwb-now-wet-009",
+  "current_label": "2016-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wetboek-van-strafvordering-enz-aanvulling-van-spreekrecht-in-het-strafproces": {
+  "bwb": "BWBR0037880",
+  "short": "Wijzigingswet Wetboek van Strafvordering, enz. (aanvulling van spreekrecht in het strafproces en uitbreiding mogelijkheid uitkering aan nabestaanden)",
+  "title": "Wijzigingswet Wetboek van Strafvordering, enz. (aanvulling van spreekrecht in het strafproces en uitbreiding mogelijkheid uitkering aan nabestaanden)",
+  "part": "bwb-now-wet-009",
+  "current_label": "2016-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-aanpassingen-aan-het-douanewetboek-van-de-unie": {
+  "bwb": "BWBR0037889",
+  "short": "Wet aanpassingen aan het Douanewetboek van de Unie",
+  "title": "Wet aanpassingen aan het Douanewetboek van de Unie",
+  "part": "bwb-now-wet-009",
+  "current_label": "2016-05-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-doorstroming-huurmarkt-2015": {
+  "bwb": "BWBR0037891",
+  "short": "Wet doorstroming huurmarkt 2015",
+  "title": "Wet doorstroming huurmarkt 2015",
+  "part": "bwb-now-wet-009",
+  "current_label": "2017-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-burgerlijk-wetboek-boek-7-enz-aanvulling-opzeggingsgrond-dringend-eigen-gebr": {
+  "bwb": "BWBR0037892",
+  "short": "Wijzigingswet Burgerlijk Wetboek Boek 7, enz. (aanvulling opzeggingsgrond dringend eigen gebruik voor tijdelijke huisvesting van jongeren)",
+  "title": "Wijzigingswet Burgerlijk Wetboek Boek 7, enz. (aanvulling opzeggingsgrond dringend eigen gebruik voor tijdelijke huisvesting van jongeren)",
+  "part": "bwb-now-wet-009",
+  "current_label": "2016-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-zorgverzekeringswet-enz-overgang-van-aantal-taken-van-zorginstituut-nederlan": {
+  "bwb": "BWBR0037917",
+  "short": "Wijzigingswet Zorgverzekeringswet, enz. (overgang van aantal taken van Zorginstituut Nederland naar CAK)",
+  "title": "Wijzigingswet Zorgverzekeringswet, enz. (overgang van aantal taken van Zorginstituut Nederland naar CAK)",
+  "part": "bwb-now-wet-009",
+  "current_label": "2020-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-kernenergiewet-instelling-autoriteit-nucleaire-veiligheid-en-stralingsbesche": {
+  "bwb": "BWBR0037972",
+  "short": "Wijzigingswet Kernenergiewet (instelling Autoriteit Nucleaire Veiligheid en Stralingsbescherming)",
+  "title": "Wijzigingswet Kernenergiewet (instelling Autoriteit Nucleaire Veiligheid en Stralingsbescherming)",
+  "part": "bwb-now-wet-009",
+  "current_label": "2017-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-op-het-primair-onderwijs-enz-doeltreffender-regeling-van-het-onderwijsto": {
+  "bwb": "BWBR0037977",
+  "short": "Wijzigingswet Wet op het primair onderwijs, enz. (doeltreffender regeling van het onderwijstoezicht)",
+  "title": "Wijzigingswet Wet op het primair onderwijs, enz. (doeltreffender regeling van het onderwijstoezicht)",
+  "part": "bwb-now-wet-009",
+  "current_label": "2020-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-politiewet-2012-enz-inbedding-politieacademie-in-nieuwe-politiebestel": {
+  "bwb": "BWBR0038021",
+  "short": "Wijzigingswet Politiewet 2012, enz. (inbedding Politieacademie in nieuwe politiebestel)",
+  "title": "Wijzigingswet Politiewet 2012, enz. (inbedding Politieacademie in nieuwe politiebestel)",
+  "part": "bwb-now-wet-009",
+  "current_label": "2017-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelwet-vws-2016": {
+  "bwb": "BWBR0038034",
+  "short": "Verzamelwet VWS 2016",
+  "title": "Verzamelwet VWS 2016",
+  "part": "bwb-now-wet-009",
+  "current_label": "2016-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-bescherming-erfgenamen-tegen-schulden": {
+  "bwb": "BWBR0038061",
+  "short": "Wet bescherming erfgenamen tegen schulden",
+  "title": "Wet bescherming erfgenamen tegen schulden",
+  "part": "bwb-now-wet-009",
+  "current_label": "2016-09-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-verbetering-hybride-markt-wga": {
+  "bwb": "BWBR0038063",
+  "short": "Wet verbetering hybride markt WGA",
+  "title": "Wet verbetering hybride markt WGA",
+  "part": "bwb-now-wet-009",
+  "current_label": "2017-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-verbeterde-premieregeling": {
+  "bwb": "BWBR0038177",
+  "short": "Wet verbeterde premieregeling",
+  "title": "Wet verbeterde premieregeling",
+  "part": "bwb-now-wet-009",
+  "current_label": "2016-09-01_0",
+  "as_of": "2026-11-03"
+ },
+ "rijkssanctiewet": {
+  "bwb": "BWBR0038211",
+  "short": "Rijkssanctiewet",
+  "title": "Rijkssanctiewet",
+  "part": "bwb-now-wet-009",
+  "current_label": "2017-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wetboek-van-burgerlijke-rechtsvordering-concentratie-scheepvaartzaken-bij-de": {
+  "bwb": "BWBR0038212",
+  "short": "Wijzigingswet Wetboek van Burgerlijke Rechtsvordering (concentratie scheepvaartzaken bij de rechtbank Rotterdam)",
+  "title": "Wijzigingswet Wetboek van Burgerlijke Rechtsvordering (concentratie scheepvaartzaken bij de rechtbank Rotterdam)",
+  "part": "bwb-now-wet-009",
+  "current_label": "2017-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-op-het-financieel-toezicht-enz-voor-bewoning-bestemde-onroerende-goedere": {
+  "bwb": "BWBR0038227",
+  "short": "Wijzigingswet Wet op het financieel toezicht, enz. (voor bewoning bestemde onroerende goederen)",
+  "title": "Wijzigingswet Wet op het financieel toezicht, enz. (voor bewoning bestemde onroerende goederen)",
+  "part": "bwb-now-wet-009",
+  "current_label": "2016-07-14_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-langdurige-zorg-enz": {
+  "bwb": "BWBR0038259",
+  "short": "Wijzigingswet Wet langdurige zorg, enz.",
+  "title": "Wijzigingswet Wet langdurige zorg, enz.",
+  "part": "bwb-now-wet-009",
+  "current_label": "2016-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-uitwerking-autobrief-ii": {
+  "bwb": "BWBR0038313",
+  "short": "Wet uitwerking Autobrief II",
+  "title": "Wet uitwerking Autobrief II",
+  "part": "bwb-now-wet-009",
+  "current_label": "2025-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "invoeringswet-vereenvoudiging-en-digitalisering-procesrecht": {
+  "bwb": "BWBR0038329",
+  "short": "Invoeringswet vereenvoudiging en digitalisering procesrecht",
+  "title": "Invoeringswet vereenvoudiging en digitalisering procesrecht",
+  "part": "bwb-now-wet-009",
+  "current_label": "2021-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wetboek-van-burgerlijke-rechtsvordering-vereenvoudiging-en-digitalisering-pr": {
+  "bwb": "BWBR0038331",
+  "short": "Wijzigingswet Wetboek van Burgerlijke Rechtsvordering (vereenvoudiging en digitalisering procesrecht in hoger beroep en cassatie)",
+  "title": "Wijzigingswet Wetboek van Burgerlijke Rechtsvordering (vereenvoudiging en digitalisering procesrecht in hoger beroep en cassatie)",
+  "part": "bwb-now-wet-009",
+  "current_label": "2021-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "invoeringsrijkswet-vereenvoudiging-en-digitalisering-procesrecht-en-uitbreiding-prejudicie": {
+  "bwb": "BWBR0038345",
+  "short": "Invoeringsrijkswet vereenvoudiging en digitalisering procesrecht en uitbreiding prejudiciële vragen",
+  "title": "Invoeringsrijkswet vereenvoudiging en digitalisering procesrecht en uitbreiding prejudiciële vragen",
+  "part": "bwb-now-wet-009",
+  "current_label": "2017-03-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wetboek-van-burgerlijke-rechtsvordering-enz-vereenvoudiging-en-digitaliserin": {
+  "bwb": "BWBR0038353",
+  "short": "Wijzigingswet Wetboek van Burgerlijke Rechtsvordering, enz. (vereenvoudiging en digitalisering van het procesrecht)",
+  "title": "Wijzigingswet Wetboek van Burgerlijke Rechtsvordering, enz. (vereenvoudiging en digitalisering van het procesrecht)",
+  "part": "bwb-now-wet-009",
+  "current_label": "2021-04-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-implementatie-verordening-en-richtlijn-marktmisbruik": {
+  "bwb": "BWBR0038407",
+  "short": "Wet implementatie verordening en richtlijn marktmisbruik",
+  "title": "Wet implementatie verordening en richtlijn marktmisbruik",
+  "part": "bwb-now-wet-009",
+  "current_label": "2016-08-11_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-openbaarheid-van-bestuur-aanvullingen-ter-voorkoming-van-misbruik": {
+  "bwb": "BWBR0038431",
+  "short": "Wijzigingswet Wet openbaarheid van bestuur (aanvullingen ter voorkoming van misbruik)",
+  "title": "Wijzigingswet Wet openbaarheid van bestuur (aanvullingen ter voorkoming van misbruik)",
+  "part": "bwb-now-wet-009",
+  "current_label": "2016-10-01_0",
+  "as_of": "2026-11-03"
  }
 }
