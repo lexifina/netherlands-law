@@ -2240,6 +2240,38 @@ The acts below have one version so far: the version in force on the day it was r
 | `wijzigingswet-wegenverkeerswet-1994-definitieve-invoering-van-begeleid-rijden/` | [Wijzigingswet Wegenverkeerswet 1994 (definitieve invoering van begeleid rijden)](https://wetten.overheid.nl/BWBR0040200) | BWBR0040200 | wet | 2018-03-15 |
 | `wijzigingswet-wetboek-van-strafvordering-vastleggen-en-bewaren-kentekengegevens-door-polit/` | [Wijzigingswet Wetboek van Strafvordering (vastleggen en bewaren kentekengegevens door politie)](https://wetten.overheid.nl/BWBR0040305) | BWBR0040305 | wet | 2019-01-01 |
 | `wet-implementatie-eu-richtlijn-toegang-belastingautoriteiten-tot-antiwitwasinlichtingen/` | [Wet implementatie EU-richtlijn toegang belastingautoriteiten tot antiwitwasinlichtingen](https://wetten.overheid.nl/BWBR0040366) | BWBR0040366 | wet | 2018-01-01 |
+| `wet-zorg-en-dwang-psychogeriatrische-en-verstandelijk-gehandicapte-clienten/` | [Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/BWBR0040632) | BWBR0040632 | wet | 2025-07-01 |
+| `wet-verplichte-geestelijke-gezondheidszorg/` | [Wet verplichte geestelijke gezondheidszorg](https://wetten.overheid.nl/BWBR0040635) | BWBR0040635 | wet | 2025-07-01 |
+| `wet-forensische-zorg/` | [Wet forensische zorg](https://wetten.overheid.nl/BWBR0040634) | BWBR0040634 | wet | 2025-07-01 |
+| `wet-terugvordering-staatssteun/` | [Wet terugvordering staatssteun](https://wetten.overheid.nl/BWBR0040718) | BWBR0040718 | wet | 2021-01-01 |
+| `wet-informatie-uitwisseling-bovengrondse-en-ondergrondse-netten-en-netwerken/` | [Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/BWBR0040728) | BWBR0040728 | wet | 2026-01-01 |
+| `verzamelwet-ienm-2018/` | [Verzamelwet IenM 2018](https://wetten.overheid.nl/BWBR0040384) | BWBR0040384 | wet | 2018-02-17 |
+| `uitvoeringswet-eu-insolventieverordening/` | [Uitvoeringswet EU-insolventieverordening](https://wetten.overheid.nl/BWBR0040412) | BWBR0040412 | wet | 2017-12-23 |
+| `wet-waardeoverdracht-klein-pensioen/` | [Wet waardeoverdracht klein pensioen](https://wetten.overheid.nl/BWBR0040435) | BWBR0040435 | wet | 2019-01-01 |
+| `belastingplan-2018/` | [Belastingplan 2018](https://wetten.overheid.nl/BWBR0040446) | BWBR0040446 | wet | 2023-01-01 |
+| `wet-afschaffing-van-de-btw-landbouwregeling/` | [Wet afschaffing van de btw-landbouwregeling](https://wetten.overheid.nl/BWBR0040448) | BWBR0040448 | wet | 2018-10-01 |
+| `wet-inhoudingsplicht-houdstercooperatie-en-uitbreiding-inhoudingsvrijstelling/` | [Wet inhoudingsplicht houdstercoöperatie en uitbreiding inhoudingsvrijstelling](https://wetten.overheid.nl/BWBR0040451) | BWBR0040451 | wet | 2018-01-01 |
+| `verzamelwet-pensioenen-2017/` | [Verzamelwet pensioenen 2017](https://wetten.overheid.nl/BWBR0040455) | BWBR0040455 | wet | 2018-04-11 |
+| `wet-implementatie-richtlijn-markten-voor-financiele-instrumenten-2014/` | [Wet implementatie richtlijn markten voor financiële instrumenten 2014](https://wetten.overheid.nl/BWBR0040456) | BWBR0040456 | wet | 2018-01-03 |
+| `overige-fiscale-maatregelen-2018/` | [Overige fiscale maatregelen 2018](https://wetten.overheid.nl/BWBR0040467) | BWBR0040467 | wet | 2026-07-01 |
+| `implementatiewet-richtlijn-pakketreizen-en-gekoppelde-reisarrangementen/` | [Implementatiewet richtlijn pakketreizen en gekoppelde reisarrangementen](https://wetten.overheid.nl/BWBR0040511) | BWBR0040511 | wet | 2018-07-01 |
+| `rijkswet-consulaire-bescherming-eu-burgers/` | [Rijkswet consulaire bescherming EU-burgers](https://wetten.overheid.nl/BWBR0040520) | BWBR0040520 | rijkswet | 2025-05-03 |
+| `wet-implementatie-wijzigingen-code-en-aanhangsels-bij-het-maritiem-arbeidsverdrag-2006/` | [Wet implementatie wijzigingen Code en aanhangsels bij het Maritiem Arbeidsverdrag 2006](https://wetten.overheid.nl/BWBR0040578) | BWBR0040578 | wet | 2018-02-01 |
+| `wijzigingswet-wetboek-van-strafvordering-enz-aanbrengen-enkele-hoofdzakelijk-procedurele-v/` | [Wijzigingswet Wetboek van Strafvordering, enz. (aanbrengen enkele hoofdzakelijk procedurele verbeteringen t.b.v. de rechtspraktijk)](https://wetten.overheid.nl/BWBR0040618) | BWBR0040618 | wet | 2018-07-01 |
+| `wijzigingswet-wet-educatie-en-beroepsonderwijs-en-de-wet-educatie-en-beroepsonderwijs-bes/` | [Wijzigingswet Wet educatie en beroepsonderwijs en de Wet educatie en beroepsonderwijs BES (samenwerkingscollege en unieke beroepsopleidingen)](https://wetten.overheid.nl/BWBR0040658) | BWBR0040658 | wet | 2018-08-01 |
+| `wijzigingswet-wet-openbare-lichamen-bonaire-sint-eustatius-en-saba-enz-introductie-kiescol/` | [Wijzigingswet Wet openbare lichamen Bonaire, Sint Eustatius en Saba enz. (introductie kiescolleges Eerste Kamer voor de Caribische openbare lichamen t.b.v. verkiezing leden Eerste Kamer)](https://wetten.overheid.nl/BWBR0040700) | BWBR0040700 | wet-BES | 2018-08-01 |
+| `wijzigingswet-wet-op-de-omzetbelasting-1968-btw-behandeling-vouchers/` | [Wijzigingswet Wet op de omzetbelasting 1968 (btw-behandeling vouchers)](https://wetten.overheid.nl/BWBR0040740) | BWBR0040740 | wet | 2019-01-01 |
+| `wet-implementatie-richtlijn-verzekeringsdistributie/` | [Wet implementatie richtlijn verzekeringsdistributie](https://wetten.overheid.nl/BWBR0040778) | BWBR0040778 | wet | 2018-10-01 |
+| `wijzigingswet-wet-op-de-orgaandonatie-opnemen-actief-donorregistratiesysteem/` | [Wijzigingswet Wet op de orgaandonatie (opnemen actief donorregistratiesysteem)](https://wetten.overheid.nl/BWBR0040793) | BWBR0040793 | wet | 2020-07-01 |
+| `wet-transparant-toezicht-financiele-markten/` | [Wet transparant toezicht financiële markten](https://wetten.overheid.nl/BWBR0040820) | BWBR0040820 | wet | 2018-07-01 |
+| `wijzigingswet-1988-warenwet/` | [Wijzigingswet 1988 Warenwet](https://wetten.overheid.nl/BWBR0040825) | BWBR0040825 | wet | 2018-11-17 |
+| `reparatiewet-bzk-2018/` | [Reparatiewet BZK 2018](https://wetten.overheid.nl/BWBR0040831) | BWBR0040831 | wet | 2018-06-13 |
+| `wijzigingswet-wet-informatie-uitwisseling-bovengrondse-en-ondergrondse-netten-en-netwerken/` | [Wijzigingswet Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken (evaluatie WION en regeling bevoegde rechter)](https://wetten.overheid.nl/BWBR0040872) | BWBR0040872 | wet | 2019-01-01 |
+| `wijzigingswet-burgerlijk-wetboek-enz-mogelijk-maken-vergoeding-van-affectieschade-enz/` | [Wijzigingswet Burgerlijk Wetboek enz. (mogelijk maken vergoeding van affectieschade enz.)](https://wetten.overheid.nl/BWBR0040908) | BWBR0040908 | wet | 2020-01-01 |
+| `wijzigingswet-wet-milieubeheer-enz-implementatie-richtlijn-eu-2015-1513-betreffende-de-kwa/` | [Wijzigingswet Wet milieubeheer, enz. (implementatie Richtlijn (EU) 2015/1513 betreffende de kwaliteit van benzine en dieselbrandstof en bevordering van gebruik energie uit hernieuwbare bronnen)](https://wetten.overheid.nl/BWBR0040926) | BWBR0040926 | wet | 2018-07-01 |
+| `wet-aanvullende-maatregelen-accountantsorganisaties/` | [Wet aanvullende maatregelen accountantsorganisaties](https://wetten.overheid.nl/BWBR0040928) | BWBR0040928 | wet | 2019-01-01 |
+| `verzamelwet-ezk-en-lnv-2018/` | [Verzamelwet EZK en LNV 2018](https://wetten.overheid.nl/BWBR0040942) | BWBR0040942 | wet | 2020-01-01 |
+| `uitvoeringswet-verordening-overlegging-openbare-documenten/` | [Uitvoeringswet verordening overlegging openbare documenten](https://wetten.overheid.nl/BWBR0041007) | BWBR0041007 | wet | 2019-02-16 |
 
 ## A lawyer's questions as git commands
 

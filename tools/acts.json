@@ -17195,5 +17195,261 @@
   "part": "bwb-now-wet-012",
   "current_label": "2018-01-01_0",
   "as_of": "2026-11-03"
+ },
+ "wet-zorg-en-dwang-psychogeriatrische-en-verstandelijk-gehandicapte-clienten": {
+  "bwb": "BWBR0040632",
+  "short": "Wzd",
+  "title": "Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten",
+  "part": "bwb-now-wet-013",
+  "current_label": "2025-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-verplichte-geestelijke-gezondheidszorg": {
+  "bwb": "BWBR0040635",
+  "short": "Wvggz",
+  "title": "Wet verplichte geestelijke gezondheidszorg",
+  "part": "bwb-now-wet-013",
+  "current_label": "2025-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-forensische-zorg": {
+  "bwb": "BWBR0040634",
+  "short": "Wfz",
+  "title": "Wet forensische zorg",
+  "part": "bwb-now-wet-013",
+  "current_label": "2025-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-terugvordering-staatssteun": {
+  "bwb": "BWBR0040718",
+  "short": "Wet terugvordering staatssteun",
+  "title": "Wet terugvordering staatssteun",
+  "part": "bwb-now-wet-013",
+  "current_label": "2021-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-informatie-uitwisseling-bovengrondse-en-ondergrondse-netten-en-netwerken": {
+  "bwb": "BWBR0040728",
+  "short": "Wibon",
+  "title": "Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken",
+  "part": "bwb-now-wet-013",
+  "current_label": "2026-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelwet-ienm-2018": {
+  "bwb": "BWBR0040384",
+  "short": "Verzamelwet IenM 2018",
+  "title": "Verzamelwet IenM 2018",
+  "part": "bwb-now-wet-013",
+  "current_label": "2018-02-17_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringswet-eu-insolventieverordening": {
+  "bwb": "BWBR0040412",
+  "short": "Uitvoeringswet EU-insolventieverordening",
+  "title": "Uitvoeringswet EU-insolventieverordening",
+  "part": "bwb-now-wet-013",
+  "current_label": "2017-12-23_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-waardeoverdracht-klein-pensioen": {
+  "bwb": "BWBR0040435",
+  "short": "Wet waardeoverdracht klein pensioen",
+  "title": "Wet waardeoverdracht klein pensioen",
+  "part": "bwb-now-wet-013",
+  "current_label": "2019-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "belastingplan-2018": {
+  "bwb": "BWBR0040446",
+  "short": "Belastingplan 2018",
+  "title": "Belastingplan 2018",
+  "part": "bwb-now-wet-013",
+  "current_label": "2023-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-afschaffing-van-de-btw-landbouwregeling": {
+  "bwb": "BWBR0040448",
+  "short": "Wet afschaffing van de btw-landbouwregeling",
+  "title": "Wet afschaffing van de btw-landbouwregeling",
+  "part": "bwb-now-wet-013",
+  "current_label": "2018-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-inhoudingsplicht-houdstercooperatie-en-uitbreiding-inhoudingsvrijstelling": {
+  "bwb": "BWBR0040451",
+  "short": "Wet inhoudingsplicht houdstercoöperatie en uitbreiding inhoudingsvrijstelling",
+  "title": "Wet inhoudingsplicht houdstercoöperatie en uitbreiding inhoudingsvrijstelling",
+  "part": "bwb-now-wet-013",
+  "current_label": "2018-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelwet-pensioenen-2017": {
+  "bwb": "BWBR0040455",
+  "short": "Verzamelwet pensioenen 2017",
+  "title": "Verzamelwet pensioenen 2017",
+  "part": "bwb-now-wet-013",
+  "current_label": "2018-04-11_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-implementatie-richtlijn-markten-voor-financiele-instrumenten-2014": {
+  "bwb": "BWBR0040456",
+  "short": "Wet implementatie richtlijn markten voor financiële instrumenten 2014",
+  "title": "Wet implementatie richtlijn markten voor financiële instrumenten 2014",
+  "part": "bwb-now-wet-013",
+  "current_label": "2018-01-03_0",
+  "as_of": "2026-11-03"
+ },
+ "overige-fiscale-maatregelen-2018": {
+  "bwb": "BWBR0040467",
+  "short": "Overige fiscale maatregelen 2018",
+  "title": "Overige fiscale maatregelen 2018",
+  "part": "bwb-now-wet-013",
+  "current_label": "2026-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "implementatiewet-richtlijn-pakketreizen-en-gekoppelde-reisarrangementen": {
+  "bwb": "BWBR0040511",
+  "short": "Implementatiewet richtlijn pakketreizen en gekoppelde reisarrangementen",
+  "title": "Implementatiewet richtlijn pakketreizen en gekoppelde reisarrangementen",
+  "part": "bwb-now-wet-013",
+  "current_label": "2018-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "rijkswet-consulaire-bescherming-eu-burgers": {
+  "bwb": "BWBR0040520",
+  "short": "Rijkswet consulaire bescherming EU-burgers",
+  "title": "Rijkswet consulaire bescherming EU-burgers",
+  "part": "bwb-now-wet-013",
+  "current_label": "2025-05-03_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-implementatie-wijzigingen-code-en-aanhangsels-bij-het-maritiem-arbeidsverdrag-2006": {
+  "bwb": "BWBR0040578",
+  "short": "Wet implementatie wijzigingen Code en aanhangsels bij het Maritiem Arbeidsverdrag 2006",
+  "title": "Wet implementatie wijzigingen Code en aanhangsels bij het Maritiem Arbeidsverdrag 2006",
+  "part": "bwb-now-wet-013",
+  "current_label": "2018-02-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wetboek-van-strafvordering-enz-aanbrengen-enkele-hoofdzakelijk-procedurele-v": {
+  "bwb": "BWBR0040618",
+  "short": "Wijzigingswet Wetboek van Strafvordering, enz. (aanbrengen enkele hoofdzakelijk procedurele verbeteringen t.b.v. de rechtspraktijk)",
+  "title": "Wijzigingswet Wetboek van Strafvordering, enz. (aanbrengen enkele hoofdzakelijk procedurele verbeteringen t.b.v. de rechtspraktijk)",
+  "part": "bwb-now-wet-013",
+  "current_label": "2018-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-educatie-en-beroepsonderwijs-en-de-wet-educatie-en-beroepsonderwijs-bes": {
+  "bwb": "BWBR0040658",
+  "short": "Wijzigingswet Wet educatie en beroepsonderwijs en de Wet educatie en beroepsonderwijs BES (samenwerkingscollege en unieke beroepsopleidingen)",
+  "title": "Wijzigingswet Wet educatie en beroepsonderwijs en de Wet educatie en beroepsonderwijs BES (samenwerkingscollege en unieke beroepsopleidingen)",
+  "part": "bwb-now-wet-013",
+  "current_label": "2018-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-openbare-lichamen-bonaire-sint-eustatius-en-saba-enz-introductie-kiescol": {
+  "bwb": "BWBR0040700",
+  "short": "Wijzigingswet Wet openbare lichamen Bonaire, Sint Eustatius en Saba enz. (introductie kiescolleges Eerste Kamer voor de Caribische openbare lichamen t.b.v. verkiezing leden Eerste Kamer)",
+  "title": "Wijzigingswet Wet openbare lichamen Bonaire, Sint Eustatius en Saba enz. (introductie kiescolleges Eerste Kamer voor de Caribische openbare lichamen t.b.v. verkiezing leden Eerste Kamer)",
+  "part": "bwb-now-wet-013",
+  "current_label": "2018-08-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-op-de-omzetbelasting-1968-btw-behandeling-vouchers": {
+  "bwb": "BWBR0040740",
+  "short": "Wijzigingswet Wet op de omzetbelasting 1968 (btw-behandeling vouchers)",
+  "title": "Wijzigingswet Wet op de omzetbelasting 1968 (btw-behandeling vouchers)",
+  "part": "bwb-now-wet-013",
+  "current_label": "2019-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-implementatie-richtlijn-verzekeringsdistributie": {
+  "bwb": "BWBR0040778",
+  "short": "Wet implementatie richtlijn verzekeringsdistributie",
+  "title": "Wet implementatie richtlijn verzekeringsdistributie",
+  "part": "bwb-now-wet-013",
+  "current_label": "2018-10-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-op-de-orgaandonatie-opnemen-actief-donorregistratiesysteem": {
+  "bwb": "BWBR0040793",
+  "short": "Wijzigingswet Wet op de orgaandonatie (opnemen actief donorregistratiesysteem)",
+  "title": "Wijzigingswet Wet op de orgaandonatie (opnemen actief donorregistratiesysteem)",
+  "part": "bwb-now-wet-013",
+  "current_label": "2020-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-transparant-toezicht-financiele-markten": {
+  "bwb": "BWBR0040820",
+  "short": "Wet transparant toezicht financiële markten",
+  "title": "Wet transparant toezicht financiële markten",
+  "part": "bwb-now-wet-013",
+  "current_label": "2018-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-1988-warenwet": {
+  "bwb": "BWBR0040825",
+  "short": "Wijzigingswet 1988 Warenwet",
+  "title": "Wijzigingswet 1988 Warenwet",
+  "part": "bwb-now-wet-013",
+  "current_label": "2018-11-17_0",
+  "as_of": "2026-11-03"
+ },
+ "reparatiewet-bzk-2018": {
+  "bwb": "BWBR0040831",
+  "short": "Reparatiewet BZK 2018",
+  "title": "Reparatiewet BZK 2018",
+  "part": "bwb-now-wet-013",
+  "current_label": "2018-06-13_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-informatie-uitwisseling-bovengrondse-en-ondergrondse-netten-en-netwerken": {
+  "bwb": "BWBR0040872",
+  "short": "Wijzigingswet Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken (evaluatie WION en regeling bevoegde rechter)",
+  "title": "Wijzigingswet Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken (evaluatie WION en regeling bevoegde rechter)",
+  "part": "bwb-now-wet-013",
+  "current_label": "2019-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-burgerlijk-wetboek-enz-mogelijk-maken-vergoeding-van-affectieschade-enz": {
+  "bwb": "BWBR0040908",
+  "short": "Wijzigingswet Burgerlijk Wetboek enz. (mogelijk maken vergoeding van affectieschade enz.)",
+  "title": "Wijzigingswet Burgerlijk Wetboek enz. (mogelijk maken vergoeding van affectieschade enz.)",
+  "part": "bwb-now-wet-013",
+  "current_label": "2020-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wijzigingswet-wet-milieubeheer-enz-implementatie-richtlijn-eu-2015-1513-betreffende-de-kwa": {
+  "bwb": "BWBR0040926",
+  "short": "Wijzigingswet Wet milieubeheer, enz. (implementatie Richtlijn (EU) 2015/1513 betreffende de kwaliteit van benzine en dieselbrandstof en bevordering van gebruik energie uit hernieuwbare bronnen)",
+  "title": "Wijzigingswet Wet milieubeheer, enz. (implementatie Richtlijn (EU) 2015/1513 betreffende de kwaliteit van benzine en dieselbrandstof en bevordering van gebruik energie uit hernieuwbare bronnen)",
+  "part": "bwb-now-wet-013",
+  "current_label": "2018-07-01_0",
+  "as_of": "2026-11-03"
+ },
+ "wet-aanvullende-maatregelen-accountantsorganisaties": {
+  "bwb": "BWBR0040928",
+  "short": "Wet aanvullende maatregelen accountantsorganisaties",
+  "title": "Wet aanvullende maatregelen accountantsorganisaties",
+  "part": "bwb-now-wet-013",
+  "current_label": "2019-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "verzamelwet-ezk-en-lnv-2018": {
+  "bwb": "BWBR0040942",
+  "short": "Verzamelwet EZK en LNV 2018",
+  "title": "Verzamelwet EZK en LNV 2018",
+  "part": "bwb-now-wet-013",
+  "current_label": "2020-01-01_0",
+  "as_of": "2026-11-03"
+ },
+ "uitvoeringswet-verordening-overlegging-openbare-documenten": {
+  "bwb": "BWBR0041007",
+  "short": "Uitvoeringswet verordening overlegging openbare documenten",
+  "title": "Uitvoeringswet verordening overlegging openbare documenten",
+  "part": "bwb-now-wet-013",
+  "current_label": "2019-02-16_0",
+  "as_of": "2026-11-03"
  }
 }

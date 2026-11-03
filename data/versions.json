@@ -83226,6 +83226,454 @@
      "sha256": "565c23b63ee8bd17abebe40460087ebe372dfc4fc19380507fb3a303155cc019"
     }
    ]
+  },
+  {
+   "slug": "wet-zorg-en-dwang-psychogeriatrische-en-verstandelijk-gehandicapte-clienten",
+   "short": "Wzd",
+   "title": "Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten",
+   "url": "https://wetten.overheid.nl/BWBR0040632",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 98,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040632/2025-07-01_0/xml/BWBR0040632_2025-07-01_0.xml",
+     "sha256": "b46da83d1d2436f97729e4e9bae8590a82b22d6e24227653b257fe57b09b1839"
+    }
+   ]
+  },
+  {
+   "slug": "wet-verplichte-geestelijke-gezondheidszorg",
+   "short": "Wvggz",
+   "title": "Wet verplichte geestelijke gezondheidszorg",
+   "url": "https://wetten.overheid.nl/BWBR0040635",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 167,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040635/2025-07-01_0/xml/BWBR0040635_2025-07-01_0.xml",
+     "sha256": "ac2d507ae15d62f4d0f9c1df707cf2fe781cf11066d8b2374a494bfe54505c85"
+    }
+   ]
+  },
+  {
+   "slug": "wet-forensische-zorg",
+   "short": "Wfz",
+   "title": "Wet forensische zorg",
+   "url": "https://wetten.overheid.nl/BWBR0040634",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 57,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040634/2025-07-01_0/xml/BWBR0040634_2025-07-01_0.xml",
+     "sha256": "ffaa3cc4b9d78da638567ae4ceeecbd17d389ff1998c6ece6ac9f675e07d4bcc"
+    }
+   ]
+  },
+  {
+   "slug": "wet-terugvordering-staatssteun",
+   "short": "Wet terugvordering staatssteun",
+   "title": "Wet terugvordering staatssteun",
+   "url": "https://wetten.overheid.nl/BWBR0040718",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 17,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040718/2021-01-01_0/xml/BWBR0040718_2021-01-01_0.xml",
+     "sha256": "acfad191c0d2685b086d2eff5815b432c247450822167bf0647f5ce467a71a1a"
+    }
+   ]
+  },
+  {
+   "slug": "wet-informatie-uitwisseling-bovengrondse-en-ondergrondse-netten-en-netwerken",
+   "short": "Wibon",
+   "title": "Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken",
+   "url": "https://wetten.overheid.nl/BWBR0040728",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 50,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040728/2026-01-01_0/xml/BWBR0040728_2026-01-01_0.xml",
+     "sha256": "9328135ecdf042ee3aae6355df536d1943f8bfb82f086ec9ce6b49382a55969f"
+    }
+   ]
+  },
+  {
+   "slug": "verzamelwet-ienm-2018",
+   "short": "Verzamelwet IenM 2018",
+   "title": "Verzamelwet IenM 2018",
+   "url": "https://wetten.overheid.nl/BWBR0040384",
+   "versions": [
+    {
+     "from": "2018-02-17",
+     "units": 11,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040384/2018-02-17_0/xml/BWBR0040384_2018-02-17_0.xml",
+     "sha256": "9e2dfcb6483b53b80e7520df946add2516c776affd88978d6f6f462d9f9c3280"
+    }
+   ]
+  },
+  {
+   "slug": "uitvoeringswet-eu-insolventieverordening",
+   "short": "Uitvoeringswet EU-insolventieverordening",
+   "title": "Uitvoeringswet EU-insolventieverordening",
+   "url": "https://wetten.overheid.nl/BWBR0040412",
+   "versions": [
+    {
+     "from": "2017-12-23",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040412/2017-12-23_0/xml/BWBR0040412_2017-12-23_0.xml",
+     "sha256": "05889b0c3d21403bfb90b9f388d362f49ddbd5b2a12ba38b660b8dffb190e93f"
+    }
+   ]
+  },
+  {
+   "slug": "wet-waardeoverdracht-klein-pensioen",
+   "short": "Wet waardeoverdracht klein pensioen",
+   "title": "Wet waardeoverdracht klein pensioen",
+   "url": "https://wetten.overheid.nl/BWBR0040435",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040435/2019-01-01_0/xml/BWBR0040435_2019-01-01_0.xml",
+     "sha256": "7e52dffd371e8ee1b2187ac72402c5d8a4c3d2df40b4cd02c9f5ed9c3a5a709c"
+    }
+   ]
+  },
+  {
+   "slug": "belastingplan-2018",
+   "short": "Belastingplan 2018",
+   "title": "Belastingplan 2018",
+   "url": "https://wetten.overheid.nl/BWBR0040446",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 23,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040446/2023-01-01_0/xml/BWBR0040446_2023-01-01_0.xml",
+     "sha256": "83a07677e7dfc606b2fe2dff7bb7cbad0c7d44bc60e5cd080d45c3bcd14e9bdd"
+    }
+   ]
+  },
+  {
+   "slug": "wet-afschaffing-van-de-btw-landbouwregeling",
+   "short": "Wet afschaffing van de btw-landbouwregeling",
+   "title": "Wet afschaffing van de btw-landbouwregeling",
+   "url": "https://wetten.overheid.nl/BWBR0040448",
+   "versions": [
+    {
+     "from": "2018-10-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040448/2018-10-01_0/xml/BWBR0040448_2018-10-01_0.xml",
+     "sha256": "29a74d48ec5d4acdcaea5023e15b8b42f6b96fc48dd649af35d6e0232c4ffe92"
+    }
+   ]
+  },
+  {
+   "slug": "wet-inhoudingsplicht-houdstercooperatie-en-uitbreiding-inhoudingsvrijstelling",
+   "short": "Wet inhoudingsplicht houdstercoöperatie en uitbreiding inhoudingsvrijstelling",
+   "title": "Wet inhoudingsplicht houdstercoöperatie en uitbreiding inhoudingsvrijstelling",
+   "url": "https://wetten.overheid.nl/BWBR0040451",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040451/2018-01-01_0/xml/BWBR0040451_2018-01-01_0.xml",
+     "sha256": "edcfb812b6a30b90c90c2c359213e128f33826e193818da82dc557dbf5a7d116"
+    }
+   ]
+  },
+  {
+   "slug": "verzamelwet-pensioenen-2017",
+   "short": "Verzamelwet pensioenen 2017",
+   "title": "Verzamelwet pensioenen 2017",
+   "url": "https://wetten.overheid.nl/BWBR0040455",
+   "versions": [
+    {
+     "from": "2018-04-11",
+     "units": 11,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040455/2018-04-11_0/xml/BWBR0040455_2018-04-11_0.xml",
+     "sha256": "5a1f7a495703e33c9d7eebcb56d01c880a6ee1e50d541d5cbc2dbcca5a449971"
+    }
+   ]
+  },
+  {
+   "slug": "wet-implementatie-richtlijn-markten-voor-financiele-instrumenten-2014",
+   "short": "Wet implementatie richtlijn markten voor financiële instrumenten 2014",
+   "title": "Wet implementatie richtlijn markten voor financiële instrumenten 2014",
+   "url": "https://wetten.overheid.nl/BWBR0040456",
+   "versions": [
+    {
+     "from": "2018-01-03",
+     "units": 10,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040456/2018-01-03_0/xml/BWBR0040456_2018-01-03_0.xml",
+     "sha256": "fe44876b4edca1b9f221f1f7e766b02f16819a1594350a2c0c0004afaf2fdf71"
+    }
+   ]
+  },
+  {
+   "slug": "overige-fiscale-maatregelen-2018",
+   "short": "Overige fiscale maatregelen 2018",
+   "title": "Overige fiscale maatregelen 2018",
+   "url": "https://wetten.overheid.nl/BWBR0040467",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 38,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040467/2026-07-01_0/xml/BWBR0040467_2026-07-01_0.xml",
+     "sha256": "fef9de250778814966ac86214681225959f6374372906bc9b09746b3e74c5559"
+    }
+   ]
+  },
+  {
+   "slug": "implementatiewet-richtlijn-pakketreizen-en-gekoppelde-reisarrangementen",
+   "short": "Implementatiewet richtlijn pakketreizen en gekoppelde reisarrangementen",
+   "title": "Implementatiewet richtlijn pakketreizen en gekoppelde reisarrangementen",
+   "url": "https://wetten.overheid.nl/BWBR0040511",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040511/2018-07-01_0/xml/BWBR0040511_2018-07-01_0.xml",
+     "sha256": "cb353b957576f5fb7219e1787a26911d6136349724fe3b3d9dbf0676ebc0f7ae"
+    }
+   ]
+  },
+  {
+   "slug": "rijkswet-consulaire-bescherming-eu-burgers",
+   "short": "Rijkswet consulaire bescherming EU-burgers",
+   "title": "Rijkswet consulaire bescherming EU-burgers",
+   "url": "https://wetten.overheid.nl/BWBR0040520",
+   "versions": [
+    {
+     "from": "2025-05-03",
+     "units": 14,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040520/2025-05-03_0/xml/BWBR0040520_2025-05-03_0.xml",
+     "sha256": "7cd6515c18cecf843695ac4e0cfbcb4bae8d915d9434b9df88873c60d88f2e28"
+    }
+   ]
+  },
+  {
+   "slug": "wet-implementatie-wijzigingen-code-en-aanhangsels-bij-het-maritiem-arbeidsverdrag-2006",
+   "short": "Wet implementatie wijzigingen Code en aanhangsels bij het Maritiem Arbeidsverdrag 2006",
+   "title": "Wet implementatie wijzigingen Code en aanhangsels bij het Maritiem Arbeidsverdrag 2006",
+   "url": "https://wetten.overheid.nl/BWBR0040578",
+   "versions": [
+    {
+     "from": "2018-02-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040578/2018-02-01_0/xml/BWBR0040578_2018-02-01_0.xml",
+     "sha256": "f0e42e11dd16b99e64625e5714cbe00d1270f102555cddf1d30605852d963352"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wetboek-van-strafvordering-enz-aanbrengen-enkele-hoofdzakelijk-procedurele-v",
+   "short": "Wijzigingswet Wetboek van Strafvordering, enz. (aanbrengen enkele hoofdzakelijk procedurele verbeteringen t.b.v. de rechtspraktijk)",
+   "title": "Wijzigingswet Wetboek van Strafvordering, enz. (aanbrengen enkele hoofdzakelijk procedurele verbeteringen t.b.v. de rechtspraktijk)",
+   "url": "https://wetten.overheid.nl/BWBR0040618",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 12,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040618/2018-07-01_0/xml/BWBR0040618_2018-07-01_0.xml",
+     "sha256": "d2f9ccba3859b634b6e845a27107f7159dcb3f411f5b268a394e0b5f35b58eb4"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-educatie-en-beroepsonderwijs-en-de-wet-educatie-en-beroepsonderwijs-bes",
+   "short": "Wijzigingswet Wet educatie en beroepsonderwijs en de Wet educatie en beroepsonderwijs BES (samenwerkingscollege en unieke beroepsopleidingen)",
+   "title": "Wijzigingswet Wet educatie en beroepsonderwijs en de Wet educatie en beroepsonderwijs BES (samenwerkingscollege en unieke beroepsopleidingen)",
+   "url": "https://wetten.overheid.nl/BWBR0040658",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040658/2018-08-01_0/xml/BWBR0040658_2018-08-01_0.xml",
+     "sha256": "51621649d7926c8e402e7ff7131f16a8aed5c98c23986e039f869e71fa777255"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-openbare-lichamen-bonaire-sint-eustatius-en-saba-enz-introductie-kiescol",
+   "short": "Wijzigingswet Wet openbare lichamen Bonaire, Sint Eustatius en Saba enz. (introductie kiescolleges Eerste Kamer voor de Caribische openbare lichamen t.b.v. verkiezing leden Eerste Kamer)",
+   "title": "Wijzigingswet Wet openbare lichamen Bonaire, Sint Eustatius en Saba enz. (introductie kiescolleges Eerste Kamer voor de Caribische openbare lichamen t.b.v. verkiezing leden Eerste Kamer)",
+   "url": "https://wetten.overheid.nl/BWBR0040700",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040700/2018-08-01_0/xml/BWBR0040700_2018-08-01_0.xml",
+     "sha256": "b1451dc4bb958bb5373d62dfa4c853f9f0624fd8da68933fa406ea0b144a176a"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-de-omzetbelasting-1968-btw-behandeling-vouchers",
+   "short": "Wijzigingswet Wet op de omzetbelasting 1968 (btw-behandeling vouchers)",
+   "title": "Wijzigingswet Wet op de omzetbelasting 1968 (btw-behandeling vouchers)",
+   "url": "https://wetten.overheid.nl/BWBR0040740",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 3,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040740/2019-01-01_0/xml/BWBR0040740_2019-01-01_0.xml",
+     "sha256": "e781ea529ce5147077cebe7d730897d8dad24a2a6fc5eabb575582be59b16a58"
+    }
+   ]
+  },
+  {
+   "slug": "wet-implementatie-richtlijn-verzekeringsdistributie",
+   "short": "Wet implementatie richtlijn verzekeringsdistributie",
+   "title": "Wet implementatie richtlijn verzekeringsdistributie",
+   "url": "https://wetten.overheid.nl/BWBR0040778",
+   "versions": [
+    {
+     "from": "2018-10-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040778/2018-10-01_0/xml/BWBR0040778_2018-10-01_0.xml",
+     "sha256": "b18f840bb3e9e5291da1fb17c8a9ab0d8304cdb8b1a548a6c82f9cc37fed05bb"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-op-de-orgaandonatie-opnemen-actief-donorregistratiesysteem",
+   "short": "Wijzigingswet Wet op de orgaandonatie (opnemen actief donorregistratiesysteem)",
+   "title": "Wijzigingswet Wet op de orgaandonatie (opnemen actief donorregistratiesysteem)",
+   "url": "https://wetten.overheid.nl/BWBR0040793",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 4,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040793/2020-07-01_0/xml/BWBR0040793_2020-07-01_0.xml",
+     "sha256": "55a79cef7609a80efd833213ab7838544e24ab9155f817cd005518c1be4c083d"
+    }
+   ]
+  },
+  {
+   "slug": "wet-transparant-toezicht-financiele-markten",
+   "short": "Wet transparant toezicht financiële markten",
+   "title": "Wet transparant toezicht financiële markten",
+   "url": "https://wetten.overheid.nl/BWBR0040820",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040820/2018-07-01_0/xml/BWBR0040820_2018-07-01_0.xml",
+     "sha256": "294bd828bdb39e4f07c14d9f7c43a838968973feac6e82f83a6bd56a1ffce61f"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-1988-warenwet",
+   "short": "Wijzigingswet 1988 Warenwet",
+   "title": "Wijzigingswet 1988 Warenwet",
+   "url": "https://wetten.overheid.nl/BWBR0040825",
+   "versions": [
+    {
+     "from": "2018-11-17",
+     "units": 10,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040825/2018-11-17_0/xml/BWBR0040825_2018-11-17_0.xml",
+     "sha256": "1b48a25db574c6b07637f6fe157705e1c37953ba15c6497211e8fab096b2fdc8"
+    }
+   ]
+  },
+  {
+   "slug": "reparatiewet-bzk-2018",
+   "short": "Reparatiewet BZK 2018",
+   "title": "Reparatiewet BZK 2018",
+   "url": "https://wetten.overheid.nl/BWBR0040831",
+   "versions": [
+    {
+     "from": "2018-06-13",
+     "units": 21,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040831/2018-06-13_0/xml/BWBR0040831_2018-06-13_0.xml",
+     "sha256": "d30254b2f3265b02c9eb7fa076b6933e8c2ef1e5a916c1f18aadf223ae3376c1"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-informatie-uitwisseling-bovengrondse-en-ondergrondse-netten-en-netwerken",
+   "short": "Wijzigingswet Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken (evaluatie WION en regeling bevoegde rechter)",
+   "title": "Wijzigingswet Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken (evaluatie WION en regeling bevoegde rechter)",
+   "url": "https://wetten.overheid.nl/BWBR0040872",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040872/2019-01-01_0/xml/BWBR0040872_2019-01-01_0.xml",
+     "sha256": "3bc58ac273cf39c504e14f5010e7d5862575c25802d1998a595a5a34802447e9"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-burgerlijk-wetboek-enz-mogelijk-maken-vergoeding-van-affectieschade-enz",
+   "short": "Wijzigingswet Burgerlijk Wetboek enz. (mogelijk maken vergoeding van affectieschade enz.)",
+   "title": "Wijzigingswet Burgerlijk Wetboek enz. (mogelijk maken vergoeding van affectieschade enz.)",
+   "url": "https://wetten.overheid.nl/BWBR0040908",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 7,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040908/2020-01-01_0/xml/BWBR0040908_2020-01-01_0.xml",
+     "sha256": "ddfce99efeae85b41f898d15f19a4888042015b073c0ac9af76aab245d636a84"
+    }
+   ]
+  },
+  {
+   "slug": "wijzigingswet-wet-milieubeheer-enz-implementatie-richtlijn-eu-2015-1513-betreffende-de-kwa",
+   "short": "Wijzigingswet Wet milieubeheer, enz. (implementatie Richtlijn (EU) 2015/1513 betreffende de kwaliteit van benzine en dieselbrandstof en bevordering van gebruik energie uit hernieuwbare bronnen)",
+   "title": "Wijzigingswet Wet milieubeheer, enz. (implementatie Richtlijn (EU) 2015/1513 betreffende de kwaliteit van benzine en dieselbrandstof en bevordering van gebruik energie uit hernieuwbare bronnen)",
+   "url": "https://wetten.overheid.nl/BWBR0040926",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 6,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040926/2018-07-01_0/xml/BWBR0040926_2018-07-01_0.xml",
+     "sha256": "3a61c8b3a5fc1771d71a27777671e3338fe236c61ed5efeb93857d38dbf04342"
+    }
+   ]
+  },
+  {
+   "slug": "wet-aanvullende-maatregelen-accountantsorganisaties",
+   "short": "Wet aanvullende maatregelen accountantsorganisaties",
+   "title": "Wet aanvullende maatregelen accountantsorganisaties",
+   "url": "https://wetten.overheid.nl/BWBR0040928",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 8,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040928/2019-01-01_0/xml/BWBR0040928_2019-01-01_0.xml",
+     "sha256": "37ebefd399de0d9985300bc63af25213de25be71f23fbf7062053b3a12f08e68"
+    }
+   ]
+  },
+  {
+   "slug": "verzamelwet-ezk-en-lnv-2018",
+   "short": "Verzamelwet EZK en LNV 2018",
+   "title": "Verzamelwet EZK en LNV 2018",
+   "url": "https://wetten.overheid.nl/BWBR0040942",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 19,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040942/2020-01-01_0/xml/BWBR0040942_2020-01-01_0.xml",
+     "sha256": "e21e77015a88ea7a82822692fa241a8e0a95658a565b4834ae6f1f8581e8a2ad"
+    }
+   ]
+  },
+  {
+   "slug": "uitvoeringswet-verordening-overlegging-openbare-documenten",
+   "short": "Uitvoeringswet verordening overlegging openbare documenten",
+   "title": "Uitvoeringswet verordening overlegging openbare documenten",
+   "url": "https://wetten.overheid.nl/BWBR0041007",
+   "versions": [
+    {
+     "from": "2019-02-16",
+     "units": 5,
+     "source_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041007/2019-02-16_0/xml/BWBR0041007_2019-02-16_0.xml",
+     "sha256": "6a5d0c0d2674091e2e81f3efbdf50970e4d65a6bc56b7c16a481eb08b6ea59d3"
+    }
+   ]
   }
  ]
 }

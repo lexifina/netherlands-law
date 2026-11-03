@@ -84,6 +84,8 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 | Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
 | officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
+| Basiswettenbestand (BWB), wetten.overheid.nl | <https://repository.officiele-overheidspublicaties.nl/bwb/> | 2026-11-03 | CC0 1.0 |
+| officielebekendmakingen.nl (Staatsblad metadata) | <https://zoek.officielebekendmakingen.nl/> | 2026-11-03 | CC0 1.0 |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -2314,12 +2316,44 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `wijzigingswet-wegenverkeerswet-1994-definitieve-invoering-van-begeleid-rijden` | Wijzigingswet Wegenverkeerswet 1994 (definitieve invoering van begeleid rijden) | 1 | 2018-03-15 to 2018-03-15 |
 | `wijzigingswet-wetboek-van-strafvordering-vastleggen-en-bewaren-kentekengegevens-door-polit` | Wijzigingswet Wetboek van Strafvordering (vastleggen en bewaren kentekengegevens door politie) | 1 | 2019-01-01 to 2019-01-01 |
 | `wet-implementatie-eu-richtlijn-toegang-belastingautoriteiten-tot-antiwitwasinlichtingen` | Wet implementatie EU-richtlijn toegang belastingautoriteiten tot antiwitwasinlichtingen | 1 | 2018-01-01 to 2018-01-01 |
+| `wet-zorg-en-dwang-psychogeriatrische-en-verstandelijk-gehandicapte-clienten` | Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten | 1 | 2025-07-01 to 2025-07-01 |
+| `wet-verplichte-geestelijke-gezondheidszorg` | Wet verplichte geestelijke gezondheidszorg | 1 | 2025-07-01 to 2025-07-01 |
+| `wet-forensische-zorg` | Wet forensische zorg | 1 | 2025-07-01 to 2025-07-01 |
+| `wet-terugvordering-staatssteun` | Wet terugvordering staatssteun | 1 | 2021-01-01 to 2021-01-01 |
+| `wet-informatie-uitwisseling-bovengrondse-en-ondergrondse-netten-en-netwerken` | Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken | 1 | 2026-01-01 to 2026-01-01 |
+| `verzamelwet-ienm-2018` | Verzamelwet IenM 2018 | 1 | 2018-02-17 to 2018-02-17 |
+| `uitvoeringswet-eu-insolventieverordening` | Uitvoeringswet EU-insolventieverordening | 1 | 2017-12-23 to 2017-12-23 |
+| `wet-waardeoverdracht-klein-pensioen` | Wet waardeoverdracht klein pensioen | 1 | 2019-01-01 to 2019-01-01 |
+| `belastingplan-2018` | Belastingplan 2018 | 1 | 2023-01-01 to 2023-01-01 |
+| `wet-afschaffing-van-de-btw-landbouwregeling` | Wet afschaffing van de btw-landbouwregeling | 1 | 2018-10-01 to 2018-10-01 |
+| `wet-inhoudingsplicht-houdstercooperatie-en-uitbreiding-inhoudingsvrijstelling` | Wet inhoudingsplicht houdstercoöperatie en uitbreiding inhoudingsvrijstelling | 1 | 2018-01-01 to 2018-01-01 |
+| `verzamelwet-pensioenen-2017` | Verzamelwet pensioenen 2017 | 1 | 2018-04-11 to 2018-04-11 |
+| `wet-implementatie-richtlijn-markten-voor-financiele-instrumenten-2014` | Wet implementatie richtlijn markten voor financiële instrumenten 2014 | 1 | 2018-01-03 to 2018-01-03 |
+| `overige-fiscale-maatregelen-2018` | Overige fiscale maatregelen 2018 | 1 | 2026-07-01 to 2026-07-01 |
+| `implementatiewet-richtlijn-pakketreizen-en-gekoppelde-reisarrangementen` | Implementatiewet richtlijn pakketreizen en gekoppelde reisarrangementen | 1 | 2018-07-01 to 2018-07-01 |
+| `rijkswet-consulaire-bescherming-eu-burgers` | Rijkswet consulaire bescherming EU-burgers | 1 | 2025-05-03 to 2025-05-03 |
+| `wet-implementatie-wijzigingen-code-en-aanhangsels-bij-het-maritiem-arbeidsverdrag-2006` | Wet implementatie wijzigingen Code en aanhangsels bij het Maritiem Arbeidsverdrag 2006 | 1 | 2018-02-01 to 2018-02-01 |
+| `wijzigingswet-wetboek-van-strafvordering-enz-aanbrengen-enkele-hoofdzakelijk-procedurele-v` | Wijzigingswet Wetboek van Strafvordering, enz. (aanbrengen enkele hoofdzakelijk procedurele verbeteringen t.b.v. de rechtspraktijk) | 1 | 2018-07-01 to 2018-07-01 |
+| `wijzigingswet-wet-educatie-en-beroepsonderwijs-en-de-wet-educatie-en-beroepsonderwijs-bes` | Wijzigingswet Wet educatie en beroepsonderwijs en de Wet educatie en beroepsonderwijs BES (samenwerkingscollege en unieke beroepsopleidingen) | 1 | 2018-08-01 to 2018-08-01 |
+| `wijzigingswet-wet-openbare-lichamen-bonaire-sint-eustatius-en-saba-enz-introductie-kiescol` | Wijzigingswet Wet openbare lichamen Bonaire, Sint Eustatius en Saba enz. (introductie kiescolleges Eerste Kamer voor de Caribische openbare lichamen t.b.v. verkiezing leden Eerste Kamer) | 1 | 2018-08-01 to 2018-08-01 |
+| `wijzigingswet-wet-op-de-omzetbelasting-1968-btw-behandeling-vouchers` | Wijzigingswet Wet op de omzetbelasting 1968 (btw-behandeling vouchers) | 1 | 2019-01-01 to 2019-01-01 |
+| `wet-implementatie-richtlijn-verzekeringsdistributie` | Wet implementatie richtlijn verzekeringsdistributie | 1 | 2018-10-01 to 2018-10-01 |
+| `wijzigingswet-wet-op-de-orgaandonatie-opnemen-actief-donorregistratiesysteem` | Wijzigingswet Wet op de orgaandonatie (opnemen actief donorregistratiesysteem) | 1 | 2020-07-01 to 2020-07-01 |
+| `wet-transparant-toezicht-financiele-markten` | Wet transparant toezicht financiële markten | 1 | 2018-07-01 to 2018-07-01 |
+| `wijzigingswet-1988-warenwet` | Wijzigingswet 1988 Warenwet | 1 | 2018-11-17 to 2018-11-17 |
+| `reparatiewet-bzk-2018` | Reparatiewet BZK 2018 | 1 | 2018-06-13 to 2018-06-13 |
+| `wijzigingswet-wet-informatie-uitwisseling-bovengrondse-en-ondergrondse-netten-en-netwerken` | Wijzigingswet Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken (evaluatie WION en regeling bevoegde rechter) | 1 | 2019-01-01 to 2019-01-01 |
+| `wijzigingswet-burgerlijk-wetboek-enz-mogelijk-maken-vergoeding-van-affectieschade-enz` | Wijzigingswet Burgerlijk Wetboek enz. (mogelijk maken vergoeding van affectieschade enz.) | 1 | 2020-01-01 to 2020-01-01 |
+| `wijzigingswet-wet-milieubeheer-enz-implementatie-richtlijn-eu-2015-1513-betreffende-de-kwa` | Wijzigingswet Wet milieubeheer, enz. (implementatie Richtlijn (EU) 2015/1513 betreffende de kwaliteit van benzine en dieselbrandstof en bevordering van gebruik energie uit hernieuwbare bronnen) | 1 | 2018-07-01 to 2018-07-01 |
+| `wet-aanvullende-maatregelen-accountantsorganisaties` | Wet aanvullende maatregelen accountantsorganisaties | 1 | 2019-01-01 to 2019-01-01 |
+| `verzamelwet-ezk-en-lnv-2018` | Verzamelwet EZK en LNV 2018 | 1 | 2020-01-01 to 2020-01-01 |
+| `uitvoeringswet-verordening-overlegging-openbare-documenten` | Uitvoeringswet verordening overlegging openbare documenten | 1 | 2019-02-16 to 2019-02-16 |
 
-The build made 8693 commits:
+The build made 8725 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2223 | first version of an act |
+| 2255 | first version of an act |
 | 6114 | one law on its in-force day |
 | 356 | changes no amendment note explains, credited to the publisher |
 
@@ -2327,7 +2361,7 @@ Other counts:
 - 0 commits on the branch `toekomst`: laws not yet in force on 2026-11-03.
 - 39 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 3108 laws in the record.
-- 14014 tags.
+- 14046 tags.
 
 ## Dates
 
@@ -2339,7 +2373,7 @@ When a law gives no date of its own, the default rule applies: Bekendmakingswet 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `368575d74b21320e2bcbb271f16855aa0f2f02712864030b49eb864881fd068d` (183788020 bytes).
+- Corpus: sha256 `96a9a7b8b74017afd11fba963865215e7a84d59c020a5d5870b874e7964069ee` (184319188 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -2621,6 +2655,9 @@ No second build of this corpus has been compared yet.
 - Current text only (breadth first, Alan 2026-11-02): 11 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
 - A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
 - An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
+- Current text only (breadth first, Alan 2026-11-02): 32 acts, each with one version, the BWB toestand in force on the as-of day 2026-11-03 (its label is in the version's source_url, its sha256 is pinned), dated by that toestand's own in-force day (datum_inwerkingtreding) and committed by the publisher as the oldest version available (first_law null). The act's earlier toestanden are in the BWB and are not yet included; they can be added later as history.
+- A current-text act whose BWB versions have all ended is repealed: its one version is its last toestand, followed on the day after that toestand ends by a version that removes every provision, credited to the publication the act's amendment record (WTI) lists as the repeal (intrekking-regeling) that day, or to the publisher where the record names none.
+- An amending publication that the act's WTI (amendment record) names is credited by its label alone ("Stb. YYYY, N" or "Stcrt. YYYY, N"), with the signature and publication dates the WTI gives; its title is given only where the record names it (an officielebekendmakingen.nl title is used only for a source the WTI does not list).
 
 ## What AI did and did not do
 
@@ -2632,6 +2669,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none: no model wrote, summarised or classified any text in this corpus. The parser was written by Claude Code (claude-opus-5-5).
+- none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
 - none: no model wrote, summarised or classified any text in this part. The parser was written by Claude Code (claude-opus-5-5).
